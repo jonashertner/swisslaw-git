@@ -4,20 +4,20 @@ title: Loi du 17 juin 2005 sur le Tribunal administratif fédéral (LTAF)
 short: LTAF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/352"
 language: fr
-version: 2021-03-01
+version: 2023-09-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-2006-352-20210301-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20210301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2006-352-20230901-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi sur le Tribunal administratif fédéral**<sup>∗</sup>**
+# Loi sur le Tribunal administratif fédéral<sup>∗</sup>
 
 (LTAF)[^t-1]
 
-du 17 juin 2005 (Etat le 1<sup>er</sup> mars 2021)
+du 17 juin 2005 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -412,7 +412,7 @@ Le secrétaire général dirige l’administration, y compris les services scien
 
 ## Chapitre 2 Compétences
 
-### Section 1 Recours****
+### Section 1 Recours
 
 [^chap2-sec1-1]
 
@@ -490,9 +490,9 @@ Le recours est recevable contre les décisions:
 
 - c. du Tribunal pénal fédéral en matière de rapports de travail de ses juges et de son personnel;
 - c<sup>bis</sup>.[^33-21] du Tribunal fédéral des brevets en matière de rapports de travail de ses juges et de son personnel;
-- [tab] c<sup>ter</sup>.[^33-22] de l’Autorité de surveillance du Ministère public de la Confédération, en matière de rapports de travail des membres du Ministère public de la Confédération élus par l’Assemblée fédérale (Chambres réunies);
-- [tab] c<sup>quater</sup>.[^33-23] du procureur général de la Confédération, en matière de rapports de travail des procureurs qu’il a nommés et du personnel du Ministère public de la Confédération;
-- [tab] c<sup>quinquies</sup>.[^33-24] de l’Autorité de surveillance du Ministère public de la Confédération, en matière de rapports de travail de son secrétariat;
+- c<sup>ter</sup>.[^33-22] de l’Autorité de surveillance du Ministère public de la Confédération, en matière de rapports de travail des membres du Ministère public de la Confédération élus par l’Assemblée fédérale (Chambres réunies);
+- c<sup>quater</sup>.[^33-23] du procureur général de la Confédération, en matière de rapports de travail des procureurs qu’il a nommés et du personnel du Ministère public de la Confédération;
+- c<sup>quinquies</sup>.[^33-24] de l’Autorité de surveillance du Ministère public de la Confédération, en matière de rapports de travail de son secrétariat;
 - d. de la Chancellerie fédérale, des départements et des unités de l’administration fédérale qui leur sont subordonnées ou administrativement rattachées;
 - e. des établissements et des entreprises de la Confédération;
 - f. des commissions fédérales;
@@ -531,7 +531,7 @@ Le recours est recevable contre les décisions:
 
 [^34-1]: Abrogé par le ch. II de la LF du 21 déc. 2007 (Financement hospitalier), avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
 
-### Section 2 Plainte****
+### Section 2 Plainte
 
 [^chap2-sec2-1]
 
@@ -544,11 +544,11 @@ Le recours est recevable contre les décisions:
 Le Tribunal administratif fédéral connaît par voie d’action en première instance:
 
 - a. des contestations qui reposent sur des contrats de droit public signés par la Confédération, ses établissements, ses entreprises ou par des organisations visées à l’art. 33, let. h;
-- b. des contestations relatives aux recommandations du préposé à la protection des données en matière de droit privé (art. 29, al. 4, de la LF du 19 juin 1992 sur la protection des données[^35-1]);
+- b.[^35-1] …
 - c. des contestations opposant la Banque nationale et la Confédération au sujet des conventions sur les services bancaires et de la convention sur la répartition du bénéfice;
 - d.[^35-2] des demandes de confiscation de valeurs patrimoniales conformément à la loi du 18 décembre 2015 sur les valeurs patrimoniales d’origine illicite[^35-3].
 
-[^35-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^35-1]: Abrogée par l’annexe 1 ch. II 15 de la LF du 25 sept. 2020 sur la protection des données, avec effet au 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^35-2]: Introduite par l’annexe ch. 1 de la LF du 1<sup>er</sup> oct. 2010 sur la restitution des avoirs illicites ([RO 2011 275](https://fedlex.data.admin.ch/eli/oc/2011/38); [FF 2010 2995](https://fedlex.data.admin.ch/eli/fga/2010/596)). Nouvelle teneur selon l’art. 31 al. 2 ch. 1 de la L du 18 déc. 2015 sur les valeurs patrimoniales d’origine illicite, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1803](https://fedlex.data.admin.ch/eli/oc/2016/322); [FF 2014 5121](https://fedlex.data.admin.ch/eli/fga/2014/1134)).
 [^35-3]: [RS 196.1](https://fedlex.data.admin.ch/eli/cc/2016/322)
 
@@ -558,7 +558,7 @@ Le Tribunal administratif fédéral connaît par voie d’action en première in
 
 L’action est irrecevable si une autorité précédente au sens de l’art. 33 est chargée par une autre loi de connaître de la contestation.
 
-### Section 3**** Divergences d’opinion en matière d’entraide judiciaire ou d’assistance administrative au niveau national
+### Section 3 Divergences d’opinion en matière d’entraide judiciaire ou d’assistance administrative au niveau national
 
 [^chap2-sec3-1]
 
@@ -570,7 +570,7 @@ L’action est irrecevable si une autorité précédente au sens de l’art. 33 
 
 <sup>2</sup> Les tiers ne peuvent pas prendre part à la procédure.
 
-### Section 4**** Autorisation de mesures de recherche du Service de renseignement
+### Section 4 Autorisation de mesures de recherche du Service de renseignement
 
 [^chap2-sec4-1]
 

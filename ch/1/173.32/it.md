@@ -4,11 +4,11 @@ title: Legge del 17 giugno 2005 sul Tribunale amministrativo federale (LTAF)
 short: LTAF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/352"
 language: it
-version: 2021-03-01
+version: 2023-09-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20210301/it/xml/fedlex-data-admin-ch-eli-cc-2006-352-20210301-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20210301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2006-352-20230901-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20210301/it"
 
 (LTAF)
 
-del 17 giugno 2005 (Stato 1° marzo 2021)
+del 17 giugno 2005 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -488,9 +488,9 @@ Il ricorso è ammissibile contro le decisioni:
 
 - c. del Tribunale penale federale in materia di rapporti di lavoro dei suoi giudici e del suo personale;
 - c<sup>bis</sup>.[^33-21] del Tribunale federale dei brevetti in materia di rapporti di lavoro dei suoi giudici e del suo personale;
-- [tab] c<sup>ter</sup>.[^33-22] dell’autorità di vigilanza sul Ministero pubblico della Confederazione in materia di rapporti di lavoro dei membri del Ministero pubblico della Confederazione eletti dall’Assemblea federale plenaria;
-- [tab] c<sup>quater</sup>.[^33-23] del procuratore generale della Confederazione in materia di rapporti di lavoro dei procuratori pubblici federali da lui nominati e del personale del Ministero pubblico della Confederazione;
-- [tab] c<sup>quinquies</sup>.[^33-24] dell’autorità di vigilanza sul Ministero pubblico della Confederazione in materia di rapporti di lavoro del personale della sua segreteria;
+- c<sup>ter</sup>.[^33-22] dell’autorità di vigilanza sul Ministero pubblico della Confederazione in materia di rapporti di lavoro dei membri del Ministero pubblico della Confederazione eletti dall’Assemblea federale plenaria;
+- c<sup>quater</sup>.[^33-23] del procuratore generale della Confederazione in materia di rapporti di lavoro dei procuratori pubblici federali da lui nominati e del personale del Ministero pubblico della Confederazione;
+- c<sup>quinquies</sup>.[^33-24] dell’autorità di vigilanza sul Ministero pubblico della Confederazione in materia di rapporti di lavoro del personale della sua segreteria;
 - d. della Cancelleria federale, dei dipartimenti e dei servizi dell’Amministrazione federale loro subordinati o aggregati amministrativamente;
 - e. degli stabilimenti e delle aziende della Confederazione;
 - f. delle commissioni federali;
@@ -542,11 +542,11 @@ Il ricorso è ammissibile contro le decisioni:
 Il Tribunale amministrativo federale giudica su azione in prima istanza:
 
 - a. le controversie derivanti da contratti di diritto pubblico sottoscritti dalla Confederazione, dai suoi stabilimenti, dalle sue aziende o dalle organizzazioni ai sensi dell’articolo 33 lettera h;
-- b. le controversie concernenti raccomandazioni nel settore del diritto privato formulate dall’Incaricato della protezione dei dati (art. 29 cpv. 4 della LF del 19 giu. 1992[^35-1] sulla protezione dei dati);
+- b.[^35-1] ...
 - c. le controversie tra la Confederazione e la Banca nazionale concernenti le convenzioni sui servizi bancari e sulla distribuzione dell’utile;
 - d. [^35-2] le domande di confisca di valori patrimoniali conformemente alla legge del 18 dicembre 2015[^35-3] sui valori patrimoniali di provenienza illecita.
 
-[^35-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^35-1]: Abrogata dall’all. 1 n. II 15 della LF del 25 set. 2020 sulla protezione dei dati, con effetto dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^35-2]: Introdotta dall’all. n. 1 della L del 1° ott. 2010 sulla restituzione degli averi di provenienza illecita ([RU 2011 275](https://fedlex.data.admin.ch/eli/oc/2011/38); [FF 2010 2871](https://fedlex.data.admin.ch/eli/fga/2010/596)). Nuovo testo giusta l’art. 31 cpv. 2 n. 1 della L del 18 dic. 2015 sui valori patrimoniali di provenienza illecita, in vigore dal 1° lug. 2016 ([RU 2016 1803](https://fedlex.data.admin.ch/eli/oc/2016/322); [FF 2014 4555](https://fedlex.data.admin.ch/eli/fga/2014/1134)).
 [^35-3]: [RS 196.1](https://fedlex.data.admin.ch/eli/cc/2016/322)
 

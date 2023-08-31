@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 17. Juni 2005 über das Bundesverwaltungsgericht (Verwa
 short: VGG
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/352"
 language: de
-version: 2021-03-01
+version: 2023-09-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20210301/de/xml/fedlex-data-admin-ch-eli-cc-2006-352-20210301-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20210301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2006-352-20230901-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20210301/de"
 
 (Verwaltungsgerichtsgesetz, VGG)
 
-vom 17. Juni 2005 (Stand am 1. März 2021)
+vom 17. Juni 2005 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -435,7 +435,7 @@ Die Beschwerde ist unzulässig gegen:
 - a. Verfügungen auf dem Gebiet der inneren und äusseren Sicherheit des Landes, der Neutralität, des diplomatischen Schutzes und der übrigen auswärtigen Angelegenheiten, soweit das Völkerrecht nicht einen Anspruch auf gerichtliche Beurteilung einräumt;
 - b. Verfügungen betreffend die politische Stimmberechtigung der Bürger und Bürgerinnen sowie Volkswahlen und -abstimmungen;
 - c. Verfügungen über leistungsabhängige Lohnanteile des Bundespersonals, soweit sie nicht die Gleichstellung der Geschlechter betreffen;
-- d.[^32-1] ...
+- d.[^32-1] …
 - e.
 
   Verfügungen auf dem Gebiet der Kernenergie betreffend:
@@ -489,8 +489,8 @@ Die Beschwerde ist zulässig gegen Verfügungen:
 - c. des Bundesstrafgerichts auf dem Gebiet des Arbeitsverhältnisses seiner Richter und Richterinnen und seines Personals;
 - c<sup>bis</sup>.[^33-21] des Bundespatentgerichts auf dem Gebiet des Arbeitsverhältnisses seiner Richter und Richterinnen und seines Personals;
 - c<sup>ter</sup>.[^33-22] der Aufsichtsbehörde über die Bundesanwaltschaft auf dem Gebiet des Arbeitsverhältnisses der von der Vereinigten Bundesversammlung gewählten Mitglieder der Bundesanwaltschaft;
-- [tab] c<sup>quater</sup>.[^33-23] des Bundesanwaltes oder der Bundesanwältin auf dem Gebiet des Arbeitsverhältnisses der von ihm oder ihr gewählten Staatsanwälte und Staatsanwältinnen sowie des Personals der Bundesanwaltschaft;
-- [tab] c<sup>quinquies</sup>.[^33-24] der Aufsichtsbehörde über die Bundesanwaltschaft auf dem Gebiet des Arbeitsverhältnisses ihres Sekretariats;
+- c<sup>quater</sup>.[^33-23] des Bundesanwaltes oder der Bundesanwältin auf dem Gebiet des Arbeitsverhältnisses der von ihm oder ihr gewählten Staatsanwälte und Staatsanwältinnen sowie des Personals der Bundesanwaltschaft;
+- c<sup>quinquies</sup>.[^33-24] der Aufsichtsbehörde über die Bundesanwaltschaft auf dem Gebiet des Arbeitsverhältnisses ihres Sekretariats;
 - d. der Bundeskanzlei, der Departemente und der ihnen unterstellten oder administrativ zugeordneten Dienststellen der Bundesverwaltung;
 - e. der Anstalten und Betriebe des Bundes;
 - f. der eidgenössischen Kommissionen;
@@ -542,11 +542,11 @@ Die Beschwerde ist zulässig gegen Verfügungen:
 Das Bundesverwaltungsgericht beurteilt auf Klage als erste Instanz:
 
 - a. Streitigkeiten aus öffentlich-rechtlichen Verträgen des Bundes, seiner Anstalten und Betriebe und der Organisationen im Sinne von Artikel 33 Buchstabe h;
-- b. Streitigkeiten über Empfehlungen des Datenschutzbeauftragten im Privatrechtsbereich (Art. 29 Abs. 4 des BG vom 19. Juni 1992[^35-1] über den Datenschutz);
+- b.[^35-1] …
 - c. Streitigkeiten zwischen Bund und Nationalbank betreffend die Vereinbarungen über Bankdienstleistungen und die Vereinbarung über die Gewinnausschüttung;
 - d.[^35-2] Ersuchen um Einziehung von Vermögenswerten nach dem Bundesgesetz vom 18. Dezember 2015[^35-3] über die Sperrung und die Rückerstattung unrechtmässig erworbener Vermögenswerte ausländischer politisch exponierter Personen.
 
-[^35-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^35-1]: Aufgehoben durch Anhang 1 Ziff. II 15 des Datenschutzgesetzes vom 25. Sept. 2020, mit Wirkung seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^35-2]: Eingefügt durch Anhang Ziff. 1 des BG vom 1. Okt. 2010 über die Rückerstattung unrechtmässig erworbener Vermögenswerte politisch exponierter Personen ([AS 2011 275](https://fedlex.data.admin.ch/eli/oc/2011/38); [BBl 2010 3309](https://fedlex.data.admin.ch/eli/fga/2010/596)). Fassung gemäss Art. 31 Abs. 2 Ziff. 1 des BG vom 18. Dez. 2015 über die Sperrung und die Rückerstattung unrechtmässig erworbener Vermögenswerte ausländischer politisch exponierter Personen, in Kraft seit 1. Juli 2016 ([AS 2016 1803](https://fedlex.data.admin.ch/eli/oc/2016/322); [BBl 2014 5265](https://fedlex.data.admin.ch/eli/fga/2014/1134)).
 [^35-3]: [SR 196.1](https://fedlex.data.admin.ch/eli/cc/2016/322)
 
@@ -556,7 +556,7 @@ Das Bundesverwaltungsgericht beurteilt auf Klage als erste Instanz:
 
 Die Klage ist unzulässig, wenn ein anderes Bundesgesetz die Erledigung des Streites einer in Artikel 33 erwähnten Behörde überträgt.
 
-### 3. Abschnitt:**** Meinungsverschiedenheiten in der innerstaatlichen Amts- und Rechtshilfe
+### 3. Abschnitt: Meinungsverschiedenheiten in der innerstaatlichen Amts- und Rechtshilfe
 
 [^chap2-sec3-1]
 
@@ -568,7 +568,7 @@ Die Klage ist unzulässig, wenn ein anderes Bundesgesetz die Erledigung des Stre
 
 <sup>2</sup> Dritte können sich nicht am Verfahren beteiligen.
 
-### 4. Abschnitt:**** Genehmigung von Beschaffungsmassnahmen des Nachrichtendienstes
+### 4. Abschnitt: Genehmigung von Beschaffungsmassnahmen des Nachrichtendienstes
 
 [^chap2-sec4-1]
 
@@ -719,7 +719,7 @@ Auf Inhalt, Form, Verbesserung und Ergänzung des Revisionsgesuchs findet Artike
 
 **Koordination mit dem Zollgesetz vom 18. März 2005[^50-1] (neues Zollgesetz)**
 
-...[^50-2]
+…[^50-2]
 
 [^50-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249). Die hiernach aufgeführte Änd. ist eingefügt im genannten BG.
 [^50-2]: Die Änderungen können unter [AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)konsultiert werden.
@@ -728,7 +728,7 @@ Auf Inhalt, Form, Verbesserung und Ergänzung des Revisionsgesuchs findet Artike
 
 **Koordination mit dem Bundesbeschluss vom 17. Dezember 2004[^51-1] über die Genehmigung und die Umsetzung der bilateralen Abkommen zwischen der Schweiz und der EU über die Assoziierung an Schengen und Dublin, Artikel 3 Ziffer 7 (Art. 182 Abs. 2 des BG vom 14. Dez. 1990[^51-2] über die direkte Bundessteuer, DBG)**
 
-...[^51-3]
+…[^51-3]
 
 [^51-1]: [SR 362](https://fedlex.data.admin.ch/eli/cc/2008/112)
 [^51-2]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184). Die hiernach aufgeführte Änd. ist eingefügt im genannten Erlass.
@@ -738,7 +738,7 @@ Auf Inhalt, Form, Verbesserung und Ergänzung des Revisionsgesuchs findet Artike
 
 **Koordination mit dem Versicherungsaufsichtsgesetz vom 17. Dezember 2004[^52-1] (neues VAG)**
 
-...[^52-2]
+…[^52-2]
 
 [^52-1]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734). Die hiernach aufgeführte Änd. ist eingefügt im genannten Erlass.
 [^52-2]: Die Änderungen können unter [AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)konsultiert werden.
@@ -771,6 +771,6 @@ Anhang
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änd. können unter [AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)konsultiert werden.
