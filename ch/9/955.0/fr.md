@@ -4,11 +4,11 @@ title: "Loi fédérale du 10 octobre 1997 concernant la lutte contre le blanchim
 short: LBA
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/892_892_892"
 language: fr
-version: 2023-01-23
+version: 2023-09-01
 adopted: 1997-10-10
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/892_892_892/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-1998-892_892_892-20230123-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/892_892_892/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1998-892_892_892-20230901-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20230123/fr"
 
 (Loi sur le blanchiment d’argent, LBA)[^t-1]
 
-du 10 octobre 1997 (État le 23 janvier 2023)
+du 10 octobre 1997 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: **\*** Les termes désignant des personnes s’appliquent également aux femmes et aux hommes. Nouvelle teneur selon le ch. I 7 de la LF du 12 déc. 2014 sur la mise en œuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> janv. 2016 (RO **2015** 1389; FF **2014** 585).
 
@@ -309,13 +309,6 @@ Le négociant informe immédiatement le bureau de communication s’il sait ou p
 - a.[^9-7] ont un rapport avec une des infractions mentionnées aux art. 260<sup>ter</sup> ou 305<sup>bis</sup> CP;
 - b. proviennent d’un crime ou d’un délit fiscal qualifié au sens de l’art. 305<sup>bis</sup>, ch. 1<sup>bis</sup>, CP,
 - c.[^9-8] sont soumises au pouvoir de disposition d’une organisation criminelle ou terroriste, ou
-- d.[^9-9] servent au financement du terrorisme (art. 260<sup>quinquies</sup>, al. 1, CP).[^9-10]
-
-<sup>1ter</sup> Dans les communications effectuées en vertu des al. 1 et 1<sup>bis</sup>, le nom de l’intermédiaire financier ou du négociant doit apparaître. En revanche, le nom des employés de l’intermédiaire financier ou du négociant chargés du dossier peut ne pas être mentionné, pour autant que le bureau de communication et l’autorité de poursuite pénale gardent la possibilité de prendre rapidement contact avec eux.[^9-11]
-
-<sup>1quater</sup> Dans les cas selon l’al. 1, il y a des soupçons fondés lorsque l’intermédiaire financier dispose d’un signe concret ou de plusieurs indices laissant supposer que les critères définis à l’al. 1, let. a, pourraient être remplis pour les valeurs patrimoniales impliquées dans la relation d’affaires et que les clarifications supplémentaires effectuées en vertu de l’art. 6 ne permettent pas de dissiper les soupçons.[^9-12]
-
-<sup>2</sup> Les avocats et les notaires ne sont pas soumis à l’obligation de communiquer leurs soupçons dans la mesure où ils sont astreints au secret professionnel en vertu de l’art. 321 du code pénal.
 
 [^9-1]: Nouvelle teneur selon l’annexe ch. II 6 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^9-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
@@ -325,10 +318,14 @@ Le négociant informe immédiatement le bureau de communication s’il sait ou p
 [^9-6]: Nouvelle teneur selon le ch. I 4 de la LF du 3 oct. 2008 sur la mise en œuvre des recommandations révisées du Groupe d’action financière, en vigueur depuis le 1<sup>er</sup> fév. 2009 ([RO 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5919](https://fedlex.data.admin.ch/eli/fga/2007/938)).
 [^9-7]: Nouvelle teneur selon l’annexe ch. II 6 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^9-8]: Nouvelle teneur selon l’annexe ch. II 6 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^9-9]: Introduite par l’annexe ch. II 6 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^9-10]: Introduit par le ch. I 4 de la LF du 3 oct. 2008 sur la mise en œuvre des recommandations révisées du Groupe d’action financière ([RO 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5919](https://fedlex.data.admin.ch/eli/fga/2007/938)). Nouvelle teneur selon le ch. I 7 de la LF du 12 déc. 2014 sur la mise en œuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^9-11]: Introduit par le ch. I 7 de la LF du 12 déc. 2014 sur la mise en œuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^9-12]: Introduit par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
+- d.[^chap3-1] servent au financement du terrorisme (art. 260<sup>quinquies</sup>, al. 1, CP).[^chap3-2]
+
+<sup>1ter</sup> Dans les communications effectuées en vertu des al. 1 et 1<sup>bis</sup>, le nom de l’intermédiaire financier ou du négociant doit apparaître. En revanche, le nom des employés de l’intermédiaire financier ou du négociant chargés du dossier peut ne pas être mentionné, pour autant que le bureau de communication et l’autorité de poursuite pénale gardent la possibilité de prendre rapidement contact avec eux.[^chap3-3]
+
+<sup>1quater</sup> Dans les cas selon l’al. 1, il y a des soupçons fondés lorsque l’intermédiaire financier dispose d’un signe concret ou de plusieurs indices laissant supposer que les critères définis à l’al. 1, let. a, pourraient être remplis pour les valeurs patrimoniales impliquées dans la relation d’affaires et que les clarifications supplémentaires effectuées en vertu de l’art. 6 ne permettent pas de dissiper les soupçons.[^chap3-4]
+
+<sup>2</sup> Les avocats et les notaires ne sont pas soumis à l’obligation de communiquer leurs soupçons dans la mesure où ils sont astreints au secret professionnel en vertu de l’art. 321 du code pénal.
 
 #### Art. 9a
 
@@ -338,6 +335,10 @@ Le négociant informe immédiatement le bureau de communication s’il sait ou p
 
 <sup>2</sup> Il n’exécute les ordres du client qui portent sur d’importantes valeurs patrimoniales que sous une forme permettant aux autorités de poursuite pénale d’en suivre la trace.[^9a-3]
 
+[^chap3-1]: Introduite par l’annexe ch. II 6 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^chap3-2]: Introduit par le ch. I 4 de la LF du 3 oct. 2008 sur la mise en œuvre des recommandations révisées du Groupe d’action financière ([RO 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5919](https://fedlex.data.admin.ch/eli/fga/2007/938)). Nouvelle teneur selon le ch. I 7 de la LF du 12 déc. 2014 sur la mise en œuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^chap3-3]: Introduit par le ch. I 7 de la LF du 12 déc. 2014 sur la mise en œuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^chap3-4]: Introduit par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^9a-1]: Introduit par le ch. I 7 de la LF du 12 déc. 2014 sur la mise en œuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^9a-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^9a-3]: Introduit par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
@@ -426,9 +427,9 @@ L’al. 1 s’applique également:
 
 ### Section 3 Remise d’informations
 
-[^chap2-sec3-1]
+[^chap3-sec1-1]
 
-[^chap2-sec3-1]: Introduite par le ch. I de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> nov. 2013 ([RO 2013 3493](https://fedlex.data.admin.ch/eli/oc/2013/648); [FF 2012 6449](https://fedlex.data.admin.ch/eli/fga/2012/1031)).
+[^chap3-sec1-1]: Introduite par le ch. I de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> nov. 2013 ([RO 2013 3493](https://fedlex.data.admin.ch/eli/oc/2013/648); [FF 2012 6449](https://fedlex.data.admin.ch/eli/fga/2012/1031)).
 
 #### Art. 11a
 
@@ -533,10 +534,10 @@ Si un négociant ne remplit pas son obligation de communiquer, l’entreprise de
 
 ### Section 2 Obligation de communiquer des autorités de surveillance et des organismes de surveillance
 
-[^chap3-sec2-1][^chap3-sec2-2]
+[^chap4-sec1a-1][^chap4-sec1a-2]
 
-[^chap3-sec2-1]: Nouvelle teneur selon l’annexe ch. 17 de la L du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
-[^chap3-sec2-2]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^chap4-sec1a-1]: Nouvelle teneur selon l’annexe ch. 17 de la L du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^chap4-sec1a-2]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 #### Art. 16
 
@@ -563,9 +564,9 @@ La FINMA, la CFMJ, l’autorité intercantonale, le bureau central et les organi
 
 ### Section 3 Surveillance des intermédiaires financiers visés à l’art. 2, al. 2
 
-[^chap3-sec3-1]
+[^chap4-sec2-1]
 
-[^chap3-sec3-1]: Nouvelle teneur selon l’annexe ch. 17 de la L du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^chap4-sec2-1]: Nouvelle teneur selon l’annexe ch. 17 de la L du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 #### Art. 17
 
@@ -586,9 +587,9 @@ Les obligations de diligence définies au chap. 2 et par la législation sur les
 
 ### Section 3*a* Surveillance des intermédiaires financiers visés à l’art. 2, al. 3
 
-[^chap3-sec3a-1]
+[^chap4-sec3a-1]
 
-[^chap3-sec3a-1]: Introduit par l’annexe ch. 17 de la L du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^chap4-sec3a-1]: Introduit par l’annexe ch. 17 de la L du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 #### Art. 18
 
@@ -672,9 +673,9 @@ Les avocats et les notaires chargés des contrôles LBA doivent impérativement 
 
 ### Section 3*b* Transmission de données relatives à des activités terroristes
 
-[^chap3-sec3b-1]
+[^chap4-sec3b-1]
 
-[^chap3-sec3b-1]: Introduite par le ch. I 7 de la LF du 12 déc. 2014 sur la mise en œuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^chap4-sec3b-1]: Introduite par le ch. I 7 de la LF du 12 déc. 2014 sur la mise en œuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
 #### Art. 22a
 
@@ -890,20 +891,21 @@ Ils préviennent immédiatement le bureau de communication lorsque des soupçons
 
 <sup>1</sup> La FINMA, la CFMJ, l’autorité intercantonale, le bureau central et le bureau de communication peuvent échanger tous les renseignements nécessaires à l’application de la présente loi.[^29-2]
 
-<sup>2</sup> Si le bureau de communication ou les offices centraux de police criminelle de la Confédération en font la demande, les autorités fédérales, cantonales et communales leur transmettent toutes les données dont ils ont besoin pour effectuer les analyses en relation avec la lutte contre le blanchiment d’argent, les infractions préalables au blanchiment d’argent, la criminalité organisée ou le financement du terrorisme. Ces données comprennent notamment des informations financières ainsi que d’autres données sensibles et profils de la personnalité collectés dans des procédures pénales, pénales administratives ou administratives, y compris dans des procédures pendantes.[^29-3]
+<sup>2</sup> Si le bureau de communication ou les offices centraux de police criminelle de la Confédération en font la demande, les autorités fédérales, cantonales et communales leur transmettent toutes les données dont ils ont besoin pour effectuer les analyses en relation avec la lutte contre le blanchiment d’argent, les infractions préalables au blanchiment d’argent, la criminalité organisée ou le financement du terrorisme.[^29-3] Ces données comprennent notamment des informations financières ainsi que d’autres données sensibles collectées dans des procédures pénales, pénales administratives ou administratives, y compris dans des procédures pendantes.[^29-4]
 
-<sup>2bis</sup> Le bureau de communication peut, au cas par cas, donner des renseignements aux autorités visées à l’al. 2, pour autant qu’ils soient utilisés exclusivement aux fins de la lutte contre le blanchiment d’argent, les infractions préalables au blanchiment d’argent, la criminalité organisée ou le financement du terrorisme. L’art. 30, al. 2 à 5, est applicable par analogie.[^29-4]
+<sup>2bis</sup> Le bureau de communication peut, au cas par cas, donner des renseignements aux autorités visées à l’al. 2, pour autant qu’ils soient utilisés exclusivement aux fins de la lutte contre le blanchiment d’argent, les infractions préalables au blanchiment d’argent, la criminalité organisée ou le financement du terrorisme. L’art. 30, al. 2 à 5, est applicable par analogie.[^29-5]
 
-<sup>2ter</sup> Le bureau de communication ne peut transmettre aux autorités visées aux al. 1 et 2 des informations provenant d’un homologue étranger qu’aux fins mentionnées à l’al. 2<sup>bis</sup> et avec l’autorisation expresse de ce dernier.[^29-5]
+<sup>2ter</sup> Le bureau de communication ne peut transmettre aux autorités visées aux al. 1 et 2 des informations provenant d’un homologue étranger qu’aux fins mentionnées à l’al. 2<sup>bis</sup> et avec l’autorisation expresse de ce dernier.[^29-6]
 
-<sup>3</sup> Le bureau de communication informe la FINMA, la CFMJ, l’autorité intercantonale et le bureau central des décisions rendues par les autorités cantonales de poursuite pénale.[^29-6]
+<sup>3</sup> Le bureau de communication informe la FINMA, la CFMJ, l’autorité intercantonale et le bureau central des décisions rendues par les autorités cantonales de poursuite pénale.[^29-7]
 
 [^29-1]: Introduit par le ch. I 4 de la LF du 3 oct. 2008 sur la mise en œuvre des recommandations révisées du Groupe d’action financière, en vigueur depuis le 1<sup>er</sup> fév. 2009 ([RO 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5919](https://fedlex.data.admin.ch/eli/fga/2007/938)).
 [^29-2]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^29-3]: Nouvelle teneur selon le ch. I 7 de la LF du 12 déc. 2014 sur la mise en œuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^29-4]: Introduit par le ch. I 7 de la LF du 12 déc. 2014 sur la mise en œuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^29-5]: Introduit par le ch. I 7 de la LF du 12 déc. 2014 sur la mise en œuvre des recommandations du Groupe d’action financière, révisées en 2012 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)). Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^29-6]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^29-4]: Nouvelle teneur de la phrase selon l’annexe 1 ch. II 95 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^29-5]: Introduit par le ch. I 7 de la LF du 12 déc. 2014 sur la mise en œuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^29-6]: Introduit par le ch. I 7 de la LF du 12 déc. 2014 sur la mise en œuvre des recommandations du Groupe d’action financière, révisées en 2012 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)). Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^29-7]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 #### Art. 29a
 
@@ -928,9 +930,9 @@ Ils préviennent immédiatement le bureau de communication lorsque des soupçons
 
 ### Section 1*a* Collaboration avec les organismes de surveillance et les organismes d’autorégulation
 
-[^chap4-sec1a-1]
+[^chap5-sec1a-1]
 
-[^chap4-sec1a-1]: Introduite par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^chap5-sec1a-1]: Introduite par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 #### Art. 29b
 
@@ -1029,30 +1031,31 @@ Les dispositions des sections 1 et 4 de la loi fédérale du 7 octobre 1994 sur 
 
 #### Art. 33
 
-**Principe**
+**Principes**[^33-1]
 
-Le traitement des données personnelles est régi par la loi fédérale du 19 juin 1992 sur la protection des données[^33-1].
+Le traitement des données personnelles est régi par la loi fédérale du 25 septembre 2020 sur la protection des données[^33-2].
 
-[^33-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^33-1]: Nouvelle teneur selon l’annexe 1 ch. II 95 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^33-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 34
 
-**Fichiers en rapport avec les communications et les informations transmises au bureau de communication[^34-1]**
+**Dossiers et banques de données en rapport avec les communications et les informations transmises au bureau de communication[^34-1]**
 
-<sup>1</sup> Les intermédiaires financiers gèrent des fichiers séparés contenant tous les documents se rapportant aux communications visées à l’art. 9 de la présente loi ou à l’art. 305<sup>ter</sup>, al. 2, CP[^34-2] ainsi qu’aux demandes du bureau de communication visées à l’art. 11*a*.[^34-3]
+<sup>1</sup> Les intermédiaires financiers gèrent des dossiers ou des banques de données séparés contenant tous les documents se rapportant aux communications visées à l’art. 9 de la présente loi ou à l’art. 305<sup>ter</sup>, al. 2, CP[^34-2] ainsi qu’aux demandes du bureau de communication visées à l’art. 11*a*.[^34-3]
 
-<sup>2</sup> Ils ne peuvent transmettre des données de ces fichiers qu’à la FINMA, à la CFMJ, à l’autorité intercantonale, au bureau central, aux organismes de surveillance, aux organismes d’autorégulation, au bureau de communication et aux autorités de poursuite pénale.[^34-4]
+<sup>2</sup> Ils ne peuvent transmettre des données de ces dossiers et de ces banques de données qu’à la FINMA, à la CFMJ, à l’autorité intercantonale, au bureau central, aux organismes de surveillance, aux organismes d’autorégulation, au bureau de communication et aux autorités de poursuite pénale.[^34-4]
 
-<sup>3</sup> Les personnes concernées doivent faire valoir leur droit d’accès au sens de l’art. 8 de la loi fédérale du 19 juin 1992 sur la protection des données[^34-5] auprès du bureau de communication (art. 35).[^34-6]
+<sup>3</sup> Les personnes concernées doivent faire valoir leur droit d’accès au sens de l’art. 25 de la loi fédérale du 25 septembre 2020 sur la protection des données[^34-5] auprès du bureau de communication (art. 35).[^34-6]
 
 <sup>4</sup> Les données doivent être détruites cinq ans après avoir été communiquées aux autorités compétentes.
 
-[^34-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^34-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^34-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^34-3]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^34-4]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^34-5]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^34-6]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^34-3]: Nouvelle teneur selon l’annexe 2 ch. 2 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^34-4]: Nouvelle teneur selon l’annexe 2 ch. 2 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^34-5]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491); [FF 2020 7397](https://fedlex.data.admin.ch/eli/fga/2020/1998)
+[^34-6]: Nouvelle teneur selon l’annexe 2 ch. 2 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 #### Art. 35
 

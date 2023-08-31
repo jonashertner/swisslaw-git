@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 10. Oktober 1997 über die Bekämpfung der Geldwäscher
 short: GwG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/892_892_892"
 language: de
-version: 2023-01-23
+version: 2023-09-01
 adopted: 1997-10-10
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/892_892_892/20230123/de/xml/fedlex-data-admin-ch-eli-cc-1998-892_892_892-20230123-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/892_892_892/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1998-892_892_892-20230901-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20230123/de"
 
 (Geldwäschereigesetz, GwG)[^t-1]
 
-vom 10. Oktober 1997 (Stand am 23. Januar 2023)
+vom 10. Oktober 1997 (Stand am 1. September 2023)
 
 [^t-1]: Fassung gemäss Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
@@ -870,7 +870,7 @@ Sie erstatten der Meldestelle unverzüglich Meldung, wenn sie den begründeten V
 
 **Entzug der Anerkennung**[^28-1]
 
-<sup>1</sup> Die FINMA entzieht einer Selbstregulierungsorganisation auf Grund von Artikel 37 FINMAG [^28-2] die Anerkennung nicht ohne vorgängige Androhung.
+<sup>1</sup> Die FINMA entzieht einer Selbstregulierungsorganisation auf Grund von Artikel 37 FINMAG[^28-2] die Anerkennung nicht ohne vorgängige Androhung.
 
 <sup>2</sup> Wird einer Selbstregulierungsorganisation die Anerkennung entzogen, so müssen die ihr angeschlossenen Finanzintermediäre innerhalb von zwei Monaten ein Gesuch um Anschluss an eine andere Selbstregulierungsorganisation einreichen.[^28-3]
 
@@ -891,20 +891,21 @@ Sie erstatten der Meldestelle unverzüglich Meldung, wenn sie den begründeten V
 
 <sup>1</sup> Die FINMA, die ESBK, die interkantonale Behörde, das Zentralamt und die Meldestelle können einander alle Auskünfte erteilen, die sie für die Anwendung dieses Gesetzes benötigen.[^29-2]
 
-<sup>2</sup> Die Behörden des Bundes, der Kantone und der Gemeinden übermitteln der Meldestelle oder den kriminalpolizeilichen Zentralstellen des Bundes auf Ersuchen hin alle erforderlichen Daten, die sie für die Analysen zur Bekämpfung der Geldwäscherei, von deren Vortaten, der organisierten Kriminalität oder der Terrorismusfinanzierung benötigen. Dazu gehören namentlich Finanzinformationen sowie andere, in Straf-, Verwaltungsstraf- und Verwaltungsverfahren beschaffte besonders schützenswerte Personendaten und Persönlichkeitsprofile, einschliesslich solcher aus hängigen Verfahren.[^29-3]
+<sup>2</sup> Die Behörden des Bundes, der Kantone und der Gemeinden übermitteln der Meldestelle oder den kriminalpolizeilichen Zentralstellen des Bundes auf Ersuchen hin alle erforderlichen Daten, die sie für die Analysen zur Bekämpfung der Geldwäscherei, von deren Vortaten, der organisierten Kriminalität oder der Terrorismusfinanzierung benötigen.[^29-3] Dazu gehören namentlich Finanzinformationen sowie andere, in Straf-, Verwaltungsstraf- und Verwaltungsverfahren beschaffte besonders schützenswerte Personendaten, einschliesslich solcher aus hängigen Verfahren.[^29-4]
 
-<sup>2bis</sup> Die Meldestelle kann den Behörden gemäss Absatz 2 im Einzelfall Auskunft erteilen, sofern diese die Informationen ausschliesslich zur Bekämpfung der Geldwäscherei, von deren Vortaten, der organisierten Kriminalität oder der Terrorismusfinanzierung verwenden. Artikel 30 Absätze 2–5 gilt sinngemäss.[^29-4]
+<sup>2bis</sup> Die Meldestelle kann den Behörden gemäss Absatz 2 im Einzelfall Auskunft erteilen, sofern diese die Informationen ausschliesslich zur Bekämpfung der Geldwäscherei, von deren Vortaten, der organisierten Kriminalität oder der Terrorismusfinanzierung verwenden. Artikel 30 Absätze 2–5 gilt sinngemäss.[^29-5]
 
-<sup>2ter</sup> Informationen ausländischer Meldestellen darf die Meldestelle nur mit deren ausdrücklicher Zustimmung an die Behörden nach den Absätzen 1 und 2 zu den in Absatz 2<sup>bis</sup> genannten Zwecken weitergeben.[^29-5]
+<sup>2ter</sup> Informationen ausländischer Meldestellen darf die Meldestelle nur mit deren ausdrücklicher Zustimmung an die Behörden nach den Absätzen 1 und 2 zu den in Absatz 2<sup>bis</sup> genannten Zwecken weitergeben.[^29-6]
 
-<sup>3</sup> Die Meldestelle orientiert die FINMA, die ESBK, die interkantonale Behörde und das Zentralamt über die Entscheide der kantonalen Strafverfolgungsbehörden.[^29-6]
+<sup>3</sup> Die Meldestelle orientiert die FINMA, die ESBK, die interkantonale Behörde und das Zentralamt über die Entscheide der kantonalen Strafverfolgungsbehörden.[^29-7]
 
 [^29-1]: Eingefügt durch Ziff. I 4 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Febr. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
 [^29-2]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^29-3]: Fassung gemäss Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^29-4]: Eingefügt durch Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^29-5]: Eingefügt durch Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^29-6]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^29-4]: Fassung des zweiten Satzes gemäss Anhang 1 Ziff. II 95 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^29-5]: Eingefügt durch Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^29-6]: Eingefügt durch Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^29-7]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 #### Art. 29a
 
@@ -1030,30 +1031,31 @@ Soweit dieses Gesetz bezüglich Datenbearbeitung und Amtshilfe durch die Meldest
 
 #### Art. 33
 
-**Grundsatz**
+**Grundsatz**[^33-1]
 
-Die Bearbeitung von Personendaten richtet sich nach dem Bundesgesetz vom 19. Juni 1992[^33-1] über den Datenschutz.
+Die Bearbeitung von Personendaten richtet sich nach dem Datenschutzgesetz vom 25. September 2020[^33-2].
 
-[^33-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^33-1]: Fassung gemäss Anhang 1 Ziff. II 95 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^33-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 34
 
-**Datensammlungen im Zusammenhang mit den Meldungen und den an die Meldestelle herausgegebenen Informationen[^34-1]**
+**Datenbanken und Akten im Zusammenhang mit den Meldungen und den an die Meldestelle herausgegebenen Informationen[^34-1]**
 
-<sup>1</sup> Die Finanzintermediäre führen separate Datensammlungen mit allen Unterlagen, die im Zusammenhang mit der Meldung nach Artikel 9 dieses Gesetzes oder nach Artikel 305<sup>ter</sup> Absatz 2 StGB[^34-2] sowie mit Anfragen der Meldestelle nach Artikel 11*a* stehen.[^34-3]
+<sup>1</sup> Die Finanzintermediäre führen separate Datenbanken und Akten mit allen Unterlagen, die im Zusammenhang mit der Meldung nach Artikel 9 dieses Gesetzes oder nach Artikel 305<sup>ter</sup> Absatz 2 StGB[^34-2] sowie mit Anfragen der Meldestelle nach Artikel 11*a* stehen.[^34-3]
 
-<sup>2</sup> Sie dürfen Daten aus diesen Datensammlungen nur an die FINMA, die ESBK, die interkantonale Behörde, das Zentralamt, die Aufsichtsorganisationen, Selbstregulierungsorganisationen, die Meldestelle und Strafverfolgungsbehörden weitergeben.[^34-4]
+<sup>2</sup> Sie dürfen Daten aus diesen Datenbanken und Akten nur an die FINMA, die ESBK, die interkantonale Behörde, das Zentralamt, die Aufsichtsorganisationen, Selbstregulierungsorganisationen, die Meldestelle und Strafverfolgungsbehörden weitergeben.[^34-4]
 
-<sup>3</sup> Das Auskunftsrecht betroffener Personen nach Artikel 8 des Bundesgesetzes vom 19. Juni 1992[^34-5] über den Datenschutz ist gegenüber der Meldestelle geltend zu machen (Art. 35).[^34-6]
+<sup>3</sup> Das Auskunftsrecht betroffener Personen nach Artikel 25 des Datenschutzgesetzes vom 25. September 2020[^34-5] ist gegenüber der Meldestelle geltend zu machen (Art. 35).[^34-6]
 
 <sup>4</sup> Fünf Jahre nach erfolgter Meldung sind die Daten zu vernichten.
 
-[^34-1]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^34-1]: Fassung gemäss Anhang 2 Ziff. 2 des BG vom 19. März 2021, in Kraft seit 1. Sept. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^34-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^34-3]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^34-4]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^34-5]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^34-6]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^34-3]: Fassung gemäss Anhang 2 Ziff. 2 des BG vom 19. März 2021, in Kraft seit 1. Sept. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^34-4]: Fassung gemäss Anhang 2 Ziff. 2 des BG vom 19. März 2021, in Kraft seit 1. Sept. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^34-5]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491); [BBl 2020 7639](https://fedlex.data.admin.ch/eli/fga/2020/1998)
+[^34-6]: Fassung gemäss Anhang 2 Ziff. 2 des BG vom 19. März 2021, in Kraft seit 1. Sept. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 #### Art. 35
 
@@ -1084,7 +1086,7 @@ Zur Erfüllung ihrer Aufgaben kann die Meldestelle mittels Abrufverfahren überp
 
 <sup>2</sup> Das Zugriffsrecht auf weitere Informationen richtet sich nach den für das jeweilige Informationssystem geltenden Bestimmungen.
 
-[^35a-1]: Eingefügt durch Anhang 1 Ziff. 9 des BG vom 13. Juni 2008 über die polizeilichen Infor‑ mationssysteme des Bundes, in Kraft seit 5. Dez. 2008 ([AS 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [BBl 2006 5061](https://fedlex.data.admin.ch/eli/fga/2006/611)).
+[^35a-1]: Eingefügt durch Anhang 1 Ziff. 9 des BG vom 13. Juni 2008 über die polizeilichen Informationssysteme des Bundes, in Kraft seit 5. Dez. 2008 ([AS 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [BBl 2006 5061](https://fedlex.data.admin.ch/eli/fga/2006/611)).
 [^35a-2]: Fassung gemäss Anhang 1 Ziff. 14 des Strafregistergesetzes vom 17. Juni 2016, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 ## 6. Kapitel: Strafbestimmungen und Rechtspflege

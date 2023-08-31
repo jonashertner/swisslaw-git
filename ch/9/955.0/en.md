@@ -4,11 +4,11 @@ title: "Federal Act of 10 October 1997 on Combating Money Laundering and Terrori
 short: AMLA
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/892_892_892"
 language: en
-version: 2023-01-23
+version: 2023-09-01
 adopted: 1997-10-10
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/892_892_892/20230123/en/xml/fedlex-data-admin-ch-eli-cc-1998-892_892_892-20230123-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20230123/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/892_892_892/20230901/en/xml/fedlex-data-admin-ch-eli-cc-1998-892_892_892-20230901-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Anti-Money Laundering Act, AMLA)[^t-1]
 
-of 10 October 1997 (Status as of 23 January 2023)
+of 10 October 1997 (Status as of 1 September 2023)
 
 [^t-1]: Amended by No I 7 of the FA of 12 Dec. 2014 on the Implementation of the 2012 revision of the Recommendations of the Financial Action Task Force, in force since 1 Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
@@ -890,20 +890,21 @@ They shall immediately submit a report to the Reporting Office if they have reas
 
 <sup>1</sup> FINMA, the FGB, the intercantonal authority, the Central Office and the Reporting Office may provide each other with any information they require for the application of this Act.[^29-2]
 
-<sup>2</sup> The federal, cantonal and communal authorities shall if requested by the Reporting Office or the central offices of the Federal Criminal Police pass on to the Reporting Office or the said central offices all the data required for the analyses in relation to combating money laundering, its predicate offences, organised crime or the financing of terrorism. The data include in particular financial information and other sensitive personal data and personality profiles obtained in criminal, administrative criminal and administrative proceedings, including those from pending proceedings.[^29-3]
+<sup>2</sup> The federal, cantonal and communal authorities shall if requested by the Reporting Office or the central offices of the Federal Criminal Police pass on to the Reporting Office or the said central offices all the data required for the analyses in relation to combating money laundering, its predicate offences, organised crime or the financing of terrorism.[^29-3] The data include in particular financial information and other sensitive personal data obtained in criminal, administrative criminal and administrative proceedings, including those from pending proceedings.[^29-4]
 
-<sup>2bis</sup> The Reporting Office may provide, on a case-by-case basis, the authorities referred to in paragraph 2 with information in individual cases provided the authorities use the information exclusively for combating money laundering, its predicate offences, organised crime or the financing of terrorism. Article 30 paragraphs 2–5 applies by analogy.[^29-4]
+<sup>2bis</sup> The Reporting Office may provide, on a case-by-case basis, the authorities referred to in paragraph 2 with information in individual cases provided the authorities use the information exclusively for combating money laundering, its predicate offences, organised crime or the financing of terrorism. Article 30 paragraphs 2–5 applies by analogy.[^29-5]
 
-<sup>2ter</sup> The Reporting Office may only pass on information from foreign reporting offices with their express consent to the authorities referred to in paragraphs 1 and 2 for the purposes specified in paragraph 2<sup>bis</sup>.[^29-5]
+<sup>2ter</sup> The Reporting Office may only pass on information from foreign reporting offices with their express consent to the authorities referred to in paragraphs 1 and 2 for the purposes specified in paragraph 2<sup>bis</sup>.[^29-6]
 
-<sup>3</sup> The Reporting Office shall inform FINMA, the FGB, the intercantonal authority and the Central Office of the decisions of the cantonal prosecution authorities.[^29-6]
+<sup>3</sup> The Reporting Office shall inform FINMA, the FGB, the intercantonal authority and the Central Office of the decisions of the cantonal prosecution authorities.[^29-7]
 
 [^29-1]: Inserted by No I 4 of the FA of 3 Oct. 2008 on the Implementation of the revised Recommendations of the Financial Action Task Force, in force since 1 Feb. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
 [^29-2]: Amended by No I of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^29-3]: Amended by No I 7 of the FA of 12 Dec. 2014 on the Implementation of the 2012 revision of the Recommendations of the Financial Action Task Force, in force since 1 Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^29-4]: Inserted by No I 7 of the FA of 12 Dec. 2014 on the Implementation of the 2012 revision of the Recommendations of the Financial Action Task Force, in force since 1 Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^29-5]: Inserted by No I 7 of the FA of 12 Dec. 2014 on the Implementation of the 2012 revision of the Recommendations of the Financial Action Task Force ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Amended by No I of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^29-6]: Amended by No I of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^29-4]: Second sentence amended by Annex 1 No II 95 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^29-5]: Inserted by No I 7 of the FA of 12 Dec. 2014 on the Implementation of the 2012 revision of the Recommendations of the Financial Action Task Force, in force since 1 Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^29-6]: Inserted by No I 7 of the FA of 12 Dec. 2014 on the Implementation of the 2012 revision of the Recommendations of the Financial Action Task Force ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Amended by No I of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^29-7]: Amended by No I of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 #### Art. 29a
 
@@ -1029,30 +1030,31 @@ Unless this Act provides otherwise in relation to data processing and administra
 
 #### Art. 33
 
-**Principle**
+**Principle**[^33-1]
 
-The processing of personal data is governed by the Federal Act of 19 June 1992[^33-1] on Data Protection.
+The processing of personal data is governed by the Data Protection Act of 25 September 2020[^33-2].
 
-[^33-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^33-1]: Amended by Annex 1 No II 95 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^33-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 34
 
-**Data collections in connection with the reports and the information submitted to the Reporting Office[^34-1]**
+**Databases and files in connection with the reports and the information submitted to the Reporting Office[^34-1]**
 
-<sup>1</sup> Financial intermediaries must maintain separate data collections containing all documentation relating to reports made in accordance with Article 9 of this Act or Article 305<sup>ter</sup> paragraph 2 of the SCC[^34-2] and to enquiries made by the Reporting Office in accordance with Article 11*a*.[^34-3]
+<sup>1</sup> Financial intermediaries must maintain separate databases and files containing all documentation relating to reports made in accordance with Article 9 of this Act or Article 305<sup>ter</sup> paragraph 2 of the SCC[^34-2] and to enquiries made by the Reporting Office in accordance with Article 11*a*.[^34-3]
 
-<sup>2</sup> They may pass on data from these data collections solely to FINMA, the FGB, the intercantonal authority, the Central Office, supervisory organisations, self-regulatory organisations, the Reporting Office and the prosecution authorities.[^34-4]
+<sup>2</sup> They may pass on data from these databases and files solely to FINMA, the FGB, the intercantonal authority, the Central Office, supervisory organisations, self-regulatory organisations, the Reporting Office and the prosecution authorities.[^34-4]
 
-<sup>3</sup> The right to information of persons concerned in accordance with Article 8 of the Federal Act of 19 June 1992[^34-5] on Data Protection must be asserted vis-à-vis the Reporting Office (Art. 35).[^34-6]
+<sup>3</sup> The right to information of data subjects in accordance with Article 25 of the Data Protection Act of 25 September 2020[^34-5] on must be asserted vis-à-vis the Reporting Office (Art. 35).[^34-6]
 
 <sup>4</sup> The data must be destroyed five years after the report is filed.
 
-[^34-1]: Amended by No I of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^34-1]: Amended by Annex 2 No 2 of the FA of 19 March 2021, in force since 1 Sept. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^34-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^34-3]: Amended by No I of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^34-4]: Amended by No I of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^34-3]: Amended by Annex 2 No 2 of the FA of 19 March 2021, in force since 1 Sept. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^34-4]: Amended by Annex 2 No 2 of the FA of 19 March 2021, in force since 1 Sept. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^34-5]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^34-6]: Amended by No I of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^34-6]: Amended by Annex 2 No 2 of the FA of 19 March 2021, in force since 1 Sept. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 #### Art. 35
 

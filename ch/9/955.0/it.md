@@ -4,11 +4,11 @@ title: "Legge federale del 10 ottobre 1997 relativa alla lotta contro il ricicla
 short: LRD
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/892_892_892"
 language: it
-version: 2023-01-23
+version: 2023-09-01
 adopted: 1997-10-10
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/892_892_892/20230123/it/xml/fedlex-data-admin-ch-eli-cc-1998-892_892_892-20230123-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20230123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/892_892_892/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1998-892_892_892-20230901-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20230123/it"
 
 (Legge sul riciclaggio di denaro, LRD)[^t-1]
 
-del 10 ottobre 1997 (Stato 23 gennaio 2023)
+del 10 ottobre 1997 (Stato 1° settembre 2023)
 
 [^t-1]: Nuovo testo giusta il n. I 7 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
@@ -519,7 +519,6 @@ Se un commerciante viene meno all’obbligo di comunicazione, l’impresa di rev
 - a.[^15-8] è stato commesso uno dei reati di cui all’articolo 260<sup>ter</sup> o 305<sup>bis</sup> CP[^15-9];
 - b. i valori patrimoniali provengono da un crimine o da un delitto fiscale qualificato secondo l’articolo 305<sup>bis</sup> numero 1<sup>bis</sup> CP;
 - c.[^15-10] i valori patrimoniali sottostanno alla facoltà di disporre di un’organizzazione criminale o terroristica; o
-
 - d.[^15-11] i valori patrimoniali servono al finanziamento del terrorismo (art. 260<sup>quinquies</sup> cpv. 1 CP).
 
 [^15-1]: Nuovo testo giusta il n. I 7 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
@@ -559,7 +558,7 @@ La FINMA, la CFCG, l’autorità intercantonale, l’Ufficio centrale e gli orga
 <sup>3</sup> L’organismo di vigilanza trasmette nel contempo alla FINMA una copia della comunicazione.[^16-7]
 
 [^16-1]: Nuovo testo giusta il n. I 4 della LF del 3 ott. 2008 concernente l’attuazione delle Raccomandazioni rivedute del Gruppo d’azione finanziaria, in vigore dal 1° feb. 2009 ([RU 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5687](https://fedlex.data.admin.ch/eli/fga/2007/938)).
-[^16-2]: Nuovo testo giusta l’all. 2 n. 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^16-2]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^16-3]: Nuovo testo giusta l’all. n. II 6 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^16-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^16-5]: Nuovo testo giusta il n. I 7 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
@@ -779,7 +778,7 @@ La società di audit è abilitata se:
 
 - a. è abilitata dall’Autorità federale di sorveglianza dei revisori a esercitare la funzione di revisore secondo l’articolo 6 della legge del 16 dicembre 2005[^24a-2] sui revisori;
 - b. è sufficientemente organizzata per effettuare le verifiche; e
-- c. non esercita nessun’altra attività sottoposta all’obbligo di autorizzazione conformemente alle leggi sui mercati finanziari di cui all’articolo 1 capoverso 1 LFINMA[^24a-3] sulla vigilanza dei mercati finanziari.
+- c. non esercita nessun’altra attività sottoposta all’obbligo di autorizzazione conformemente alle leggi sui mercati finanziari di cui all’articolo 1 capoverso 1 della legge del 22 giugno 2007[^24a-3] sulla vigilanza dei mercati finanziari.
 
 <sup>3</sup>
 
@@ -875,7 +874,7 @@ Gli organismi di autodisciplina, se hanno il sospetto fondato che:[^27-4]
 
 **Revoca del riconoscimento**[^28-1]
 
-<sup>1</sup> La FINMA non revoca il riconoscimento a un organismo di autodisciplina, fondandosi sull’articolo 37 LFINMA[^28-2] sulla vigilanza dei mercati finanziari, senza previa comminatoria.
+<sup>1</sup> La FINMA non revoca il riconoscimento a un organismo di autodisciplina, fondandosi sull’articolo 37 della legge del 22 giugno 2007[^28-2] sulla vigilanza dei mercati finanziari, senza previa comminatoria.
 
 <sup>2</sup> In caso di revoca del riconoscimento a un organismo di autodisciplina, gli intermediari finanziari che gli sono affiliati devono presentare entro due mesi una richiesta di affiliazione a un altro organismo di autodisciplina.[^28-3]
 
@@ -896,20 +895,21 @@ Gli organismi di autodisciplina, se hanno il sospetto fondato che:[^27-4]
 
 <sup>1</sup> La FINMA, la CFCG, l’autorità intercantonale, l’Ufficio centrale e l’Ufficio di comunicazione possono scambiarsi tutte le informazioni necessarie all’applicazione della presente legge.[^29-2]
 
-<sup>2</sup> Se l’Ufficio di comunicazione e gli uffici centrali di polizia giudiziaria della Confederazione ne fanno richiesta, le autorità della Confederazione, dei Cantoni e dei Comuni trasmettono loro tutti i dati di cui necessitano per svolgere le analisi riguardanti la lotta contro il riciclaggio di denaro, i reati preliminari al riciclaggio di denaro, la criminalità organizzata o il finanziamento del terrorismo. Tali dati includono segnatamente informazioni finanziarie, nonché altri dati personali degni di particolare protezione e profili della personalità acquisiti nell’ambito di procedimenti penali, penali amministrativi e amministrativi, ivi compresi i procedimenti pendenti.[^29-3]
+<sup>2</sup> Se l’Ufficio di comunicazione e gli uffici centrali di polizia giudiziaria della Confederazione ne fanno richiesta, le autorità della Confederazione, dei Cantoni e dei Comuni trasmettono loro tutti i dati di cui necessitano per svolgere le analisi riguardanti la lotta contro il riciclaggio di denaro, i reati preliminari al riciclaggio di denaro, la criminalità organizzata o il finanziamento del terrorismo.[^29-3] Tali dati includono segnatamente informazioni finanziarie, nonché altri dati personali degni di particolare protezione acquisiti nell’ambito di procedimenti penali, penali amministrativi e amministrativi, compresi i procedimenti pendenti.[^29-4]
 
-<sup>2bis</sup> L’Ufficio di comunicazione può, in casi specifici, fornire informazioni alle autorità di cui al capoverso 2, sempre che queste utilizzino tali informazioni esclusivamente per la lotta contro il riciclaggio di denaro, i suoi reati preliminari, la criminalità organizzata o il finanziamento del terrorismo. L’articolo 30 capoversi 2–5 si applica per analogia.[^29-4]
+<sup>2bis</sup> L’Ufficio di comunicazione può, in casi specifici, fornire informazioni alle autorità di cui al capoverso 2, sempre che queste utilizzino tali informazioni esclusivamente per la lotta contro il riciclaggio di denaro, i suoi reati preliminari, la criminalità organizzata o il finanziamento del terrorismo. L’articolo 30 capoversi 2–5 si applica per analogia.[^29-5]
 
-<sup>2ter</sup> L’Ufficio di comunicazione può trasmettere alle autorità di cui ai capoversi 1 e 2 le informazioni provenienti da uffici di comunicazione esteri unicamente con l’esplicito consenso di questi ultimi e per gli scopi menzionati nel capoverso 2<sup>bis</sup>.[^29-5]
+<sup>2ter</sup> L’Ufficio di comunicazione può trasmettere alle autorità di cui ai capoversi 1 e 2 le informazioni provenienti da uffici di comunicazione esteri unicamente con l’esplicito consenso di questi ultimi e per gli scopi menzionati nel capoverso 2<sup>bis</sup>.[^29-6]
 
-<sup>3</sup> L’Ufficio di comunicazione comunica alla FINMA, alla CFCG, all’autorità intercantonale e all’Ufficio centrale le decisioni delle autorità cantonali di perseguimento penale.[^29-6]
+<sup>3</sup> L’Ufficio di comunicazione comunica alla FINMA, alla CFCG, all’autorità intercantonale e all’Ufficio centrale le decisioni delle autorità cantonali di perseguimento penale.[^29-7]
 
 [^29-1]: Introdotto dal n. I 4 della LF del 3 ott. 2008 concernente l’attuazione delle Raccomandazioni rivedute del Gruppo d’azione finanziaria, in vigore dal 1° feb. 2009 ([RU 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5687](https://fedlex.data.admin.ch/eli/fga/2007/938)).
 [^29-2]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^29-3]: Nuovo testo giusta il n. I 7 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^29-4]: Introdotta dal n. I 7 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^29-5]: Introdotto dal n. I 7 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)). Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^29-6]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^29-4]: Nuovo testo del per. giusta l’all. 1 n. II 95 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^29-5]: Introdotta dal n. I 7 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^29-6]: Introdotto dal n. I 7 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)). Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^29-7]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 #### Art. 29a
 
@@ -1035,30 +1035,31 @@ Per quanto la presente legge non contenga disposizioni sul trattamento dei dati 
 
 #### Art. 33
 
-**Principio**
+**Principio**[^33-1]
 
-Il trattamento di dati personali è disciplinato dalla legge federale del 19 giugno 1992[^33-1] sulla protezione dei dati.
+Il trattamento di dati personali è disciplinato dalla legge federale del 25 settembre 2020[^33-2] sulla protezione dei dati.
 
-[^33-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^33-1]: Nuovo testo giusta l’all. 1 n. II 95 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^33-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 34
 
-**Collezioni di dati in rapporto con le comunicazioni e le informazioni trasmesse all’Ufficio di comunicazione[^34-1]**
+**Banche dati e incarti in rapporto con le comunicazioni e le informazioni trasmesse all’Ufficio di comunicazione[^34-1]**
 
-<sup>1</sup> Gli intermediari finanziari tengono collezioni separate di dati che contengono tutti i documenti relativi alla comunicazione di cui all’articolo 9 della presente legge o all’articolo 305<sup>ter</sup> capoverso 2 CP[^34-2] e alle richieste dell’Ufficio di comunicazione di cui all’articolo 11*a*.[^34-3]
+<sup>1</sup> Gli intermediari finanziari tengono banche dati o incarti separati che contengono tutti i documenti relativi alle comunicazioni di cui all’articolo 9 della presente legge o all’articolo 305<sup>ter</sup> capoverso 2 CP[^34-2] e alle richieste dell’Ufficio di comunicazione di cui all’articolo 11*a*.[^34-3]
 
-<sup>2</sup> Possono trasmettere dati provenienti da tali collezioni unicamente alla FINMA, alla CFCG, all’autorità intercantonale, all’Ufficio centrale, agli organismi di vigilanza, agli organismi di autodisciplina, all’Ufficio di comunicazione e alle autorità di perseguimento penale.[^34-4]
+<sup>2</sup> Possono trasmettere dati provenienti da tali banche dati e incarti unicamente alla FINMA, alla CFCG, all’autorità intercantonale, all’Ufficio centrale, agli organismi di vigilanza, agli organismi di autodisciplina, all’Ufficio di comunicazione e alle autorità di perseguimento penale.[^34-4]
 
-<sup>3</sup> Il diritto d’accesso delle persone interessate previsto dall’articolo 8 della legge federale del 19 giugno 1992[^34-5] sulla protezione dei dati deve essere fatto valere nei confronti dell’Ufficio di comunicazione (art. 35).[^34-6]
+<sup>3</sup> Il diritto d’accesso delle persone interessate previsto dall’articolo 25 della legge federale del 25 settembre 2020[^34-5] sulla protezione dei dati deve essere fatto valere nei confronti dell’Ufficio di comunicazione (art. 35).[^34-6]
 
 <sup>4</sup> I dati devono essere distrutti cinque anni dopo l’avvenuta comunicazione.
 
-[^34-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^34-1]: Nuovo testo giusta l’all. 2 n. 2 della LF del 19 mar. 2021, in vigore dal 1° set. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^34-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^34-3]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^34-4]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^34-5]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^34-6]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^34-3]: Nuovo testo giusta l’all. 2 n. 2 della LF del 19 mar. 2021, in vigore dal 1° set. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^34-4]: Nuovo testo giusta l’all. 2 n. 2 della LF del 19 mar. 2021, in vigore dal 1° set. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^34-5]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491); [FF 2020 6695](https://fedlex.data.admin.ch/eli/fga/2020/1998)
+[^34-6]: Nuovo testo giusta l’all. 2 n. 2 della LF del 19 mar. 2021, in vigore dal 1° set. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 #### Art. 35
 
@@ -1068,14 +1069,10 @@ Il trattamento di dati personali è disciplinato dalla legge federale del 19 giu
 
 <sup>2</sup> L’Ufficio di comunicazione può scambiare informazioni con la FINMA, la CFCG, l’autorità intercantonale, l’Ufficio centrale e le autorità di perseguimento penale mediante una procedura di richiamo.[^35-4]
 
-<sup>2</sup> Lo scambio di informazioni tra l’Ufficio di comunicazione e la FINMA, la CFCG, l’autorità intercantonale di vigilanza e d’esecuzione secondo l’articolo 105 LGD[^35-5] e le autorità di perseguimento penale può essere effettuato mediante una procedura di richiamo.[^35-6]
-
 [^35-1]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
 [^35-2]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
 [^35-3]: Nuovo testo giusta l’all. 1 n. 9 della LF del 13 giu. 2008 sui sistemi d’informazione di polizia della Confederazione, in vigore dal 5 dic. 2008 ([RU 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [FF 2006 4631](https://fedlex.data.admin.ch/eli/fga/2006/611)).
 [^35-4]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^35-5]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^35-6]: Nuovo testo giusta l’all. n. II 8 della LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 
 #### Art. 35a
 
@@ -1091,10 +1088,10 @@ Per svolgere i suoi compiti, l’Ufficio di comunicazione può verificare, media
 - d. sistema per il trattamento dei dati relativi alla protezione dello Stato;
 - e. sistema di gestione delle persone, degli atti e delle pratiche nel settore dell’assistenza giudiziaria internazionale in materia penale.
 
-<sup>2</sup> L’accesso a ulterior955.0i informazioni è disciplinato dalle disposizioni applicabili a ciascun sistema d’informazione.
+<sup>2</sup> L’accesso a ulteriori informazioni è disciplinato dalle disposizioni applicabili a ciascun sistema d’informazione.
 
 [^35a-1]: Introdotto dall’all. 1 n. 9 della LF del 13 giu. 2008 sui sistemi d’informazione di polizia della Confederazione, in vigore dal 5 dic. 2008 ([RU 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [FF 2006 4631](https://fedlex.data.admin.ch/eli/fga/2006/611)).
-[^35a-2]: Nuovo testo giusta l’all. 1 n. 14 della L del 17 giu. 2016 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^35a-2]: Nuovo testo giusta l’all. 1 n. 14 della LF del 17 giu. 2016 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 
 ## Capitolo 6: Disposizioni penali e rimedi giuridici
 
@@ -1123,9 +1120,9 @@ Per svolgere i suoi compiti, l’Ufficio di comunicazione può verificare, media
 
 <sup>1</sup> Il commerciante che viola intenzionalmente l’obbligo di cui all’articolo 15 di incaricare un’impresa di revisione è punito con la multa sino a 100 000 franchi.
 
-[^38-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+<sup>2</sup> Se ha agito per negligenza, è punito con la multa sino a 10 000 franchi.
 
-### <sup>2</sup> Se ha agito per negligenza, è punito con la multa sino a 10 000 franchi.
+[^38-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 #### Art. 39 e 40
 
