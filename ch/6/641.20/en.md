@@ -4,11 +4,11 @@ title: "Federal Act of 12 June 2009 on Value Added Tax (Value Added Tax Act, VAT
 short: VAT Act
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/615"
 language: en
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2009-06-12
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2009-615-20230101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2009-615-20230901-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Value Added Tax Act, VAT Act)
 
-of 12 June 2009 (Status as of 1 January 2023)
+of 12 June 2009 (Status as of 1 September 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -1520,18 +1520,32 @@ There is no duty of confidentiality:
 
 **Processing of data**[^76-1]
 
-<sup>1</sup> In order to fulfil its statutory duties, the FTA is permitted to process sensitive personal data and personality profiles, including data on administrative and criminal prosecutions and sanctions.
+<sup>1</sup> In order to fulfil its statutory duties, the FTA is permitted to process sensitive personal data, including data on administrative and criminal proceedings and sanctions.[^76-2]
 
-<sup>2</sup> It may systematically use the Old-Age and Survivors' Insurance number as defined in Article 50*c* of the Federal Act of 20 December 1946[^76-2] on Old-Age and Survivors' Insurance to establish tax liability.
+<sup>2</sup> …[^76-3]
+
+<sup>3</sup>
+
+In order to fulfil its duties, the FTA is also authorised to carry out profiling, including high-risk profiling as defined in the Data Protection Act of 25 September 2020[^76-4]:
+
+- a. for review and audit purposes;
+- b. to establish tax liability;
+- c. to levy the tax;
+- d. to prevent and prosecute breaches of VAT law;
+- e. to produce analyses and risk profiles;
+- f. to produce statistics.[^76-5]
 
 [^76-1]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^76-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^76-2]: Amended by Annex 1 No II 49 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^76-3]: Repealed by Annex No 18 of the FA of 18 Dec. 2020 (Systematic Use of the OASI Number by Authorities), with effect from 1 Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^76-4]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^76-5]: Inserted by Annex 1 No II 49 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 76a
 
 **Information system**[^76a-1]
 
-<sup>1</sup> The FTA shall operate an information system for processing personal data and sensitive personal data on administrative and criminal proceedings and sanctions, and personality profiles.
+<sup>1</sup> The FTA shall operate an information system for processing personal data, including sensitive personal data on administrative and criminal proceedings and sanctions.[^76a-2]
 
 <sup>2</sup>
 
@@ -1559,14 +1573,18 @@ The information system may contain the following personal data, including sensit
 - d. data on tax matters;
 - e. data on contractual obligations and assignments of claims;
 - f. data on debt enforcement, bankruptcy and attachment proceedings;
-- g. personality profiles under Article 3 letter d of the Federal Act of 19 June 1992[^76a-2] on Data Protection;
+- g.[^76a-3] …
 - h. data on the compliance with tax obligations;
 - i. data on suspicion of offences;
 - j. data on offences, seized goods and evidence;
 - k. data on administrative and criminal proceedings and on administrative and mutual legal assistance proceedings.
 
+<sup>4</sup> The Federal Data Protection and Information Commissioner shall have access to the FTA information system for the purposes of its supervisory duties.[^76a-4]
+
 [^76a-1]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^76a-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^76a-2]: Amended by Annex 1 No II 49 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^76a-3]: Repealed by Annex 1 No II 49 of the Data Protection Act of 25 Sept. 2020, with effect from 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^76a-4]: Inserted by Annex 1 No II 49 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 76b
 
@@ -1574,10 +1592,11 @@ The information system may contain the following personal data, including sensit
 
 <sup>1</sup> In order to fulfil its statutory duties under Article 10 of the Federal Audit Office Act of 28 June 1967[^76b-2], the Swiss Federal Audit Office shall have access to the FTA information system.
 
-<sup>2</sup> The FTA may disclose data under Article 76*a* paragraph 3 or make it accessible online to the persons in the FOCBS entrusted with the imposition and collection of VAT or with the conduct of criminal and administrative proceedings, provided this is necessary for them to fulfil their duties.
+<sup>2</sup> The FTA may disclose personal data from profiling, including data from high-risk profiling in terms of Article 76 paragraph 3 and data in terms of Article 76*a* paragraph 3, or make such data accessible online to the persons in the FOCBS entrusted with the imposition and collection of VAT or with the conduct of criminal and administrative proceedings, provided this is necessary for them to fulfil their duties.[^76b-3]
 
 [^76b-1]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^76b-2]: [SR 614.0](https://fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547)
+[^76b-3]: Amended by Annex 1 No II 49 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 76c
 

@@ -4,11 +4,11 @@ title: "Loi fédérale du 12 juin 2009 régissant la taxe sur la valeur ajoutée
 short: LTVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/615"
 language: fr
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2009-06-12
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-615-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2009-615-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20230101/fr"
 
 (Loi sur la TVA, LTVA)[^t-1]
 
-du 12 juin 2009 (Etat le 1<sup>er</sup> janvier 2023)
+du 12 juin 2009 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -502,7 +502,7 @@ Sont exclus du champ de l’impôt:
 
 <sup>7</sup> Le Conseil fédéral détermine les institutions de formation et de recherche visées à l’al. 2, ch. 30.[^21-22]
 
-[^21-1]: [[RO 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452), [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)annexe ch. 23, [2003 4297](https://fedlex.data.admin.ch/eli/oc/2003/638), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 85, [2007 5645](https://fedlex.data.admin.ch/eli/oc/2007/776). [RO 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585)annexe ch. I]. Voir actuellement ([RO 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585)): l’art. 18 de la LF sur la poste du 17 déc. 2010 ([RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)).
+[^21-1]: [[RO 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452); [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)annexe ch. 23; [2003 4297](https://fedlex.data.admin.ch/eli/oc/2003/638); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 85; [2007 5645](https://fedlex.data.admin.ch/eli/oc/2007/776). [RO 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585)annexe ch. I]. Voir actuellement ([RO 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585)): l’art. 18 de la LF sur la poste du 17 déc. 2010 ([RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)).
 [^21-2]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 [^21-3]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 [^21-4]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
@@ -1525,18 +1525,32 @@ L’obligation de garder le secret ne s’applique pas:
 
 **Traitement des données**[^76-1]
 
-<sup>1</sup> L’AFC est habilitée à traiter les données sensibles et les profils de la personnalité nécessaires à l’accomplissement de ses tâches légales, y compris les données relatives à des poursuites et à des sanctions administratives ou pénales.
+<sup>1</sup> L’AFC est habilitée à traiter les données sensibles nécessaires à l’accomplissement de ses tâches légales, y compris les données relatives à des poursuites et à des sanctions administratives ou pénales.[^76-2]
 
-<sup>2</sup> …[^76-2]
+<sup>2</sup> …[^76-3]
+
+<sup>3</sup>
+
+Elle est également habilitée à faire du profilage, y compris du profilage à risque élevé, au sens de la loi fédérale du 25 septembre 2020 sur la protection des données[^76-4] pour l’accomplissement de ses tâches:
+
+- a. de vérification et de contrôle;
+- b. de détermination de l’assujettissement;
+- c. de perception de l’impôt;
+- d. de prévention et de poursuite des infractions;
+- e. d’analyse et d’établissement de profils de risques;
+- f. d’établissement de statistiques.[^76-5]
 
 [^76-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
-[^76-2]: Abrogé par l’annexe ch. 18 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^76-2]: Nouvelle teneur selon l’annexe 1 ch. II 49 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^76-3]: Abrogé par l’annexe ch. 18 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^76-4]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^76-5]: Introduit par l’annexe 1 ch. II 49 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 76a
 
 **Système d’information**[^76a-1]
 
-<sup>1</sup> L’AFC exploite un système d’information pour le traitement de données personnelles et de données sensibles relatives aux poursuites et aux sanctions administratives et pénales ainsi que de profils de la personnalité.
+<sup>1</sup> L’AFC exploite un système d’information pour le traitement de données personnelles et de données sensibles relatives aux poursuites et aux sanctions administratives et pénales.[^76a-2]
 
 <sup>2</sup>
 
@@ -1564,14 +1578,18 @@ Le système d’information peut contenir les données personnelles suivantes, d
 - d. des indications concernant la situation fiscale;
 - e. des indications concernant l’état des dettes et les cessions de créances;
 - f. des indications concernant les procédures de poursuite, de faillite et de séquestre;
-- g. des profils de personnalité au sens de l’art. 3, let. d, de la loi fédérale du 19 juin 1992 sur la protection des données[^76a-2];
+- g.[^76a-3] ...
 - h. des indications concernant le respect d’obligations fiscales;
 - i. des indications quant à un soupçon d’infraction;
 - j. des indications concernant des actes punissables, des objets confisqués et des moyens de preuve;
 - k. des indications concernant une procédure administrative ou pénale, ou une procédure d’assistance administrative ou d’entraide judiciaire.
 
+<sup>4</sup> Le Préposé fédéral à la protection des données et à la transparence a accès au système d’information de l’AFC pour l’exercice de ses tâches de surveillance.[^76a-4]
+
 [^76a-1]: Introduit par le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
-[^76a-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^76a-2]: Nouvelle teneur selon l’annexe 1 ch. II 49 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^76a-3]: Abrogée par l’annexe 1 ch. II 49 de la LF du 25 sept. 2020 sur la protection des données, avec effet au 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^76a-4]: Introduit par l’annexe 1 ch. II 49 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 76b
 
@@ -1579,10 +1597,11 @@ Le système d’information peut contenir les données personnelles suivantes, d
 
 <sup>1</sup> Le Contrôle fédéral des finances a accès au système d’information de l’AFC pour l’accomplissement des tâches légales qui lui incombent en vertu de l’art. 10 de la loi du 28 juin 1967 sur le Contrôle des finances[^76b-2].
 
-<sup>2</sup> L’AFC peut communiquer les données visées à l’art. 76*a*, al. 3, aux collaborateurs de l’OFDF chargés de la perception et de l’encaissement de la TVA ou de l’exécution des procédures administratives ou pénales, ou leur donner accès à ces données en ligne, dans la mesure où l’accomplissement des tâches de ces personnes l’exige.
+<sup>2</sup> L’AFC peut communiquer les données personnelles issues d’un profilage, y compris d’un profilage à risque élevé, au sens de l’art. 76, al. 3, ainsi que les données visées à l’art. 76*a*, al. 3, aux collaborateurs de l’OFDF chargés de la perception et de l’encaissement de la TVA ou de l’exécution des procédures administratives ou pénales, ou leur donner accès à ces données en ligne, dans la mesure où l’accomplissement des tâches de ces collaborateurs l’exige.[^76b-3]
 
 [^76b-1]: Introduit par le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 [^76b-2]: [RS 614.0](https://fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547)
+[^76b-3]: Nouvelle teneur selon l’annexe 1 ch. II 49 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 76c
 

@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 12. Juni 2009 über die Mehrwertsteuer (Mehrwertsteuerg
 short: MWSTG
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/615"
 language: de
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2009-06-12
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2009-615-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2009-615-20230901-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20230101/de"
 
 (Mehrwertsteuergesetz, MWSTG)
 
-vom 12. Juni 2009 (Stand am 1. Januar 2023)
+vom 12. Juni 2009 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -475,7 +475,7 @@ Von der Steuer ausgenommen sind:
 - 22\. die Lieferung von im Inland gültigen Postwertzeichen und sonstigen amtlichen Wertzeichen höchstens zum aufgedruckten Wert;
 - 23\.[^21-13] die Umsätze bei Geldspielen, soweit die Bruttospielerträge der Spielbankenabgabe nach Artikel 119 des Geldspielgesetzes vom 29. September 2017[^21-14] unterliegen oder der damit erzielte Reingewinn vollumfänglich für gemeinnützige Zwecke im Sinne von Artikel 125 des genannten Gesetzes verwendet wird;
 - 24\. die Lieferung gebrauchter beweglicher Gegenstände, die ausschliesslich zur Erbringung von nach diesem Artikel von der Steuer ausgenommenen Leistungen verwendet wurden;
-- 25\.[^21-15] ...
+- 25\.[^21-15] …
 - 26\. die Veräusserung von im eigenen Betrieb gewonnenen Erzeugnissen der Landwirtschaft, der Forstwirtschaft sowie der Gärtnerei durch Landwirte und Landwirtinnen, Forstwirte und Forstwirtinnen oder Gärtner und Gärtnerinnen sowie der Verkauf von Vieh durch Viehhändler und Viehhändlerinnen und der Verkauf von Milch durch Milchsammelstellen an milchverarbeitende Betriebe;
 - 27\. Bekanntmachungsleistungen, die gemeinnützige Organisationen zugunsten Dritter oder Dritte zugunsten gemeinnütziger Organisationen erbringen;
 - 28\.[^21-16]
@@ -1209,7 +1209,7 @@ Kein Verzugszins wird erhoben, wenn:
   - 2\. in ein anderes Zollverfahren übergeführt werden (Art. 47 ZG);
 
 - c<sup>bis</sup>.[^58-3] bei bedingt veranlagten Gegenständen der Importeur oder die Importeurin im Zeitpunkt der Annahme der Zollanmeldung im Inland als steuerpflichtige Person eingetragen war;
-- d.[^58-4] ...
+- d.[^58-4] …
 - e. die Gegenstände periodisch zum Zollveranlagungsverfahren anzumelden sind (Art. 42 Abs. 1 Bst. c ZG) oder aufgrund eines vereinfachten Zollveranlagungsverfahrens nachträglich veranlagt werden (Art. 42 Abs. 2 ZG) und der Importeur oder die Importeurin im Zeitpunkt der Einfuhr im Inland als steuerpflichtige Person eingetragen war.
 
 [^58-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
@@ -1518,18 +1518,32 @@ Keine Geheimhaltungspflicht besteht:
 
 **Datenbearbeitung**[^76-1]
 
-<sup>1</sup> Die ESTV darf zur Erfüllung ihrer gesetzlichen Aufgaben besonders schützenswerte Personendaten und Persönlichkeitsprofile bearbeiten, einschliesslich Daten über administrative und strafrechtliche Verfolgungen und Sanktionen.
+<sup>1</sup> Die ESTV darf zur Erfüllung ihrer gesetzlichen Aufgaben besonders schützenswerte Personendaten, einschliesslich Daten über verwaltungs- und strafrechtliche Verfolgungen und Sanktionen, bearbeiten.[^76-2]
 
-<sup>2</sup> …[^76-2]
+<sup>2</sup> …[^76-3]
+
+<sup>3</sup>
+
+Zur Erfüllung ihrer Aufgaben ist sie überdies zum Profiling, einschliesslich zum Profiling mit hohem Risiko, nach dem Datenschutzgesetz vom 25. September 2020[^76-4] befugt:
+
+- a. für die Überprüfung und Kontrolle;
+- b. für die Feststellung der Steuerpflicht;
+- c. für die Erhebung der Steuer;
+- d. für die Verhinderung und Verfolgung von Widerhandlungen;
+- e. für die Analyse und Erstellung von Risikoprofilen;
+- f. für die Erstellung von Statistiken.[^76-5]
 
 [^76-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^76-2]: Aufgehoben durch Anhang Ziff. 18 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), mit Wirkung seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^76-2]: Fassung gemäss Anhang 1 Ziff. II 49 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^76-3]: Aufgehoben durch Anhang Ziff. 18 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), mit Wirkung seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^76-4]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^76-5]: Eingefügt durch Anhang 1 Ziff. II 49 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 76a
 
 **Informationssystem**[^76a-1]
 
-<sup>1</sup> Die ESTV betreibt ein Informationssystem zur Bearbeitung von Personendaten sowie von besonders schützenswerten Daten über administrative und strafrechtliche Verfolgungen und Sanktionen und von Persönlichkeitsprofilen.
+<sup>1</sup> Die ESTV betreibt ein Informationssystem zur Bearbeitung von Personendaten einschliesslich besonders schützenswerter Daten über verwaltungs- und strafrechtliche Verfolgungen und Sanktionen.[^76a-2]
 
 <sup>2</sup>
 
@@ -1557,14 +1571,18 @@ Das Informationssystem kann folgende Personendaten, einschliesslich besonders sc
 - d. Angaben über die Steuerverhältnisse;
 - e. Angaben über die Schuldverhältnisse und Forderungszessionen;
 - f. Angaben über Betreibungs-, Konkurs- und Arrestverfahren;
-- g. Persönlichkeitsprofile nach Artikel 3 Buchstabe d des Bundesgesetzes vom 19. Juni 1992[^76a-2] über den Datenschutz;
+- g.[^76a-3] …
 - h. Angaben über die Befolgung von steuerrechtlichen Pflichten;
 - i. Angaben über Verdacht auf Widerhandlungen;
 - j. Angaben über Straftaten, beschlagnahmte Gegenstände und Beweismittel;
 - k. Angaben über Administrativ- und Strafverfahren sowie Amts- und Rechtshilfeverfahren.
 
+<sup>4</sup> Der Eidgenössische Datenschutz- und Öffentlichkeitsbeauftragte erhält für seine Aufsichtstätigkeit Zugang zum Informationssystem der ESTV.[^76a-4]
+
 [^76a-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^76a-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^76a-2]: Fassung gemäss Anhang 1 Ziff. II 49 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^76a-3]: Aufgehoben durch Anhang 1 Ziff. II 49 des Datenschutzgesetzes vom 25. Sept. 2020, mit Wirkung seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^76a-4]: Eingefügt durch Anhang 1 Ziff. II 49 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 76b
 
@@ -1572,10 +1590,11 @@ Das Informationssystem kann folgende Personendaten, einschliesslich besonders sc
 
 <sup>1</sup> Die Eidgenössische Finanzkontrolle hat zur Erfüllung ihrer gesetzlichen Aufgaben nach Artikel 10 des Finanzkontrollgesetzes vom 28. Juni 1967[^76b-2] Zugang zum Informationssystem der ESTV.
 
-<sup>2</sup> Die ESTV darf den im BAZG mit der Erhebung und dem Einzug der Mehrwertsteuer sowie mit der Durchführung von Straf- und Administrativverfahren betrauten Personen die Daten nach Artikel 76*a* Absatz 3 bekannt geben oder im Abrufverfahren zugänglich machen, sofern dies für die Erfüllung von deren Aufgaben nötig ist.
+<sup>2</sup> Die ESTV darf den im BAZG mit der Erhebung und dem Einzug der Mehrwertsteuer sowie mit der Durchführung von Straf- und Administrativverfahren betrauten Personen die Personendaten aus einem Profiling, einschliesslich aus einem Profiling mit hohem Risiko, nach Artikel 76 Absatz 3 und die Daten nach Artikel 76*a* Absatz 3 bekannt geben oder im Abrufverfahren zugänglich machen, sofern dies für die Erfüllung von dessen Aufgaben nötig ist.[^76b-3]
 
 [^76b-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^76b-2]: [SR 614.0](https://fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547)
+[^76b-3]: Fassung gemäss Anhang 1 Ziff. II 49 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 76c
 
@@ -1786,7 +1805,7 @@ Vorbehalten bleiben:
 
 <sup>3</sup> Wird in der Betreibung Recht vorgeschlagen, so eröffnet die steuerpflichtige Person das Verfahren um Rechtsöffnung. Für die Beseitigung des Rechtsvorschlages ist die ESTV zuständig.
 
-<sup>4</sup> ...[^89-2]
+<sup>4</sup> …[^89-2]
 
 <sup>5</sup> Die ESTV muss die Steuerforderung in die öffentlichen Inventare oder auf Rechnungsrufe eingeben.[^89-3]
 
@@ -1848,7 +1867,7 @@ Die ESTV kann rechtskräftig festgesetzte Steuern ganz oder teilweise erlassen, 
 
 <sup>5</sup> Das Steuererlassverfahren ist kostenfrei. Dem Gesuchsteller oder der Gesuchstellerin können indessen die Kosten ganz oder teilweise auferlegt werden, wenn er oder sie ein offensichtlich unbegründetes Gesuch eingereicht hat.
 
-<sup>6</sup> ...[^92-1]
+<sup>6</sup> …[^92-1]
 
 [^92-1]: Aufgehoben durch Ziff. I des BG vom 30. Sept. 2016, mit Wirkung seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
@@ -2058,7 +2077,7 @@ Das Recht, eine Strafuntersuchung einzuleiten, verjährt:
   - 3\. bei Vergehen nach Artikel 97 Absatz 2 sowie bei Vergehen nach den Artikeln 14–17 VStrR[^105-2]: sieben Jahre nach Ablauf der betreffenden Steuerperiode;
 
 - c.[^105-3] im Bereich der Einfuhrsteuer: für alle Vergehen und Übertretungen nach den Artikeln 96, 97 Absatz 2 und 99 sowie bei Vergehen nach den Artikeln 14–17 VStrR: in sieben Jahren;
-- d. und e.[^105-4] ...
+- d. und e.[^105-4] …
 
 <sup>2</sup> Die Verfolgungsverjährung tritt nicht mehr ein, wenn vor Ablauf der Verjährungsfrist eine Strafverfügung oder ein erstinstanzliches Urteil ergangen ist.
 
@@ -2147,7 +2166,7 @@ Das Mehrwertsteuergesetz vom 2. September 1999[^110-1] wird aufgehoben.
 
 Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
-...[^111-1]
+…[^111-1]
 
 [^111-1]: Die Änderungen können unter [AS 2009 5203](https://fedlex.data.admin.ch/eli/oc/2009/615)konsultiert werden.
 
