@@ -3,27 +3,27 @@ canton: VS
 number: "616.100"
 title: Subventionsverordnung
 language: de
-version: 2015-10-09
-corrected: 2017-09-13
-version_adopted: 2015-07-05
+version: 2023-09-01
+version_adopted: 2022-03-23
 adopted: 1996-02-14
 in_force: 1996-05-01
 url: "https://lex.vs.ch/app/de/texts_of_law/616.100"
-pdf: "https://lex.vs.ch/api/de/versions/361/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3266/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Subventionsverordnung
 
-vom 14. Februar 1996
+vom 14.02.1996 (Stand 01.09.2023)
 
 Der Staatsrat des Kantons Wallis
 
 eingesehen Artikel 57 der Kantonsverfassung;
 
-eingesehen Artikel 33 des Subventionsgesetzes vom 13. November 1995; auf Antrag des Finanzdepartementes,
+eingesehen Artikel 33 des Subventionsgesetzes vom 13. November 1995;
+
+auf Antrag des Finanzdepartementes,
 
 verordnet:
 
@@ -31,19 +31,19 @@ verordnet:
 
 **Künftige Änderung der Spezialgesetzgebung**
 
-Jeder Entwurf von Subventionserlassen muss dem Finanzdepartement zur Vormeinung unterbreitet werden. Dieses prüft die Übereinstimmung des Entwurfes mit den Grundsätzen des Subventionsgesetzes und der vorliegenden Verordnung.
+<sup>1</sup> Jeder Entwurf von Subventionserlassen muss dem Finanzdepartement zur Vormeinung unterbreitet werden. Dieses prüft die Übereinstimmung des Entwurfes mit den Grundsätzen des Subventionsgesetzes und der vorliegenden Verordnung.
 
 #### Art. 2
 
 **Definition**
 
-Der Begriff der durch Bundesrecht zwingend vorgeschriebenen Subventionen im Sinne von Artikel 4, Absatz 2, Buchstabe g des Gesetzes bezeichnet jene Subventionen, für welche der Kanton nur eine reine Vollzugsaufgabe wahrnimmt und keinen eigenen Ermessensspielraum innehat.
+<sup>1</sup> Der Begriff der durch Bundesrecht zwingend vorgeschriebenen Subventionen im Sinne von Artikel 4 Absatz 2 Buchstabe g des Gesetzes bezeichnet jene Subventionen, für welche der Kanton nur eine reine Vollzugsaufgabe wahrnimmt und keinen eigenen Ermessensspielraum innehat.
 
 #### Art. 3
 
 **Inventar**
 
-<sup>1</sup> Das Subventionsinventar im Sinne von Artikel 5 des Gesetzes wird der vorliegenden Verordnung als Anhang II beigelegt.
+<sup>1</sup> Das Subventionsinventar im Sinne von Artikel 5 des Gesetzes wird der vorliegenden Verordnung als Anhang 2 beigelegt.
 
 <sup>2</sup> Die Anpassung des Inventars an die Änderungen der Gesetzgebung erfolgt im Rahmen der periodischen Überprüfung, grundsätzlich jährlich.
 
@@ -51,17 +51,17 @@ Der Begriff der durch Bundesrecht zwingend vorgeschriebenen Subventionen im Sinn
 
 **Verzeichnis**
 
-Die Departemente sind gehalten, dem Finanzdepartement alle nützlichen Angaben für die Erstellung und Nachführung des Subventionsverzeichnisses zu übermitteln.
+<sup>1</sup> Die Departemente sind gehalten, dem Finanzdepartement alle nützlichen Angaben für die Erstellung und Nachführung des Subventionsverzeichnisses zu übermitteln.
 
 #### Art. 5
 
 **Anerkannte Kosten**
 
-Die für die Subventionierung anerkannten Kosten werden durch die Spezialgesetzgebung (Gesetze, Verordnungen, Reglemente, Entscheide, Richtlinien usw.) festgelegt.
+<sup>1</sup> Die für die Subventionierung anerkannten Kosten werden durch die Spezialgesetzgebung (Gesetze, Verordnungen, Reglemente, Entscheide, Richtlinien usw.) festgelegt.
 
 #### Art. 6
 
-<sup>1</sup> Kürzung der Subventionen
+**Kürzung der Subventionen**
 
 <sup>1</sup> Wurden die Arbeiten bereits vor der Hinterlegung des Subventionsgesuches oder vor dem Subventionsentscheid begonnen oder ausgeführt, so wird die Subvention um 30 Prozent gekürzt.
 
@@ -81,7 +81,7 @@ Die für die Subventionierung anerkannten Kosten werden durch die Spezialgesetzg
 
 <sup>2</sup> Die wirtschaftliche Lage und das wirtschaftliche Potential der juristischen Personen des Privatrechts und der Burgergemeinden werden im wesentlichen aufgrund der Erfolgsrechnung und der Bilanz beurteilt, wobei auch dem vernünftigerweise ausschöpfbaren Mittel- und Sparpotential Rechnung getragen wird.
 
-<sup>3</sup> Die für die Munizipalgemeinden geltenden Kriterien sind durch das Grundreglement vom 3. Mai 1978 betreffend die Berechnung der abgestuften Subventionierung festgelegt.
+<sup>3</sup> Die für die Munizipalgemeinden geltenden Kriterien sind durch das Grundreglement betreffend die Berechnung der abgestuften Subventionierung vom 3. Mai 1978 festgelegt.
 
 #### Art. 8
 
@@ -90,11 +90,8 @@ Die für die Subventionierung anerkannten Kosten werden durch die Spezialgesetzg
 <sup>1</sup> Die Prioritätenordnung für die periodische Überprüfung der Subventionen bestimmt sich im wesentlichen nach den folgenden Kriterien:
 
 - a) Zweifel an der Notwendigkeit, Zweckmässigkeit, Wirksamkeit und Wirt-schaftlichkeit der Subventionen;
-
 - b) Alter der Gesetzesgrundlage;
-
 - c) Zeitraum seit der letzten Überprüfung;
-
 - d) verfügbare Finanzmittel und menschliche Ressourcen.
 
 <sup>2</sup> Die Prioritätenordnung wird vom Staatsrat auf Antrag des Finanzdepartementes und nach Anhören der betroffenen Departemente festgelegt.
@@ -107,7 +104,7 @@ Die für die Subventionierung anerkannten Kosten werden durch die Spezialgesetzg
 
 **Leistungsorientierte Pauschalsubventionen**
 
-Wenn sich der Betrag der Pauschalsubvention nicht aus der Spezialgesetzgebung ergibt, so wird er derart festgelegt, dass ein vernünftiges Verhältnis zwischen dem Pauschalbetrag und den aufgrund der entstandenen Kosten berechneten Subventionen erhalten bleibt.
+<sup>1</sup> Wenn sich der Betrag der Pauschalsubvention nicht aus der Spezialgesetzgebung ergibt, so wird er derart festgelegt, dass ein vernünftiges Verhältnis zwischen dem Pauschalbetrag und den aufgrund der entstandenen Kosten berechneten Subventionen erhalten bleibt.
 
 #### Art. 10
 
@@ -151,13 +148,13 @@ Wenn sich der Betrag der Pauschalsubvention nicht aus der Spezialgesetzgebung er
 
 **Verzinsung**
 
-Der Zinssatz im Sinne der Artikel 16, 25 und 26 des Subventionsgesetzes wird durch den Staatsrat im Vierjahresplan festgelegt.
+<sup>1</sup> Der Zinssatz im Sinne der Artikel 16, 25 und 26 des Subventionsgesetzes wird durch den Staatsrat im Vierjahresplan festgelegt.
 
 #### Art. 15
 
 **Verhältnis zum geltenden Recht**
 
-Das Verfahren zur periodischen Überprüfung im Sinne vom Artikel 18 des Gesetzes ersetzt - soweit es Subventionen betrifft - die in Artikel 34, Absatz 4 des Gesetzes vom 24. Juni 1980 über die Geschäftsführung und den Finanzhaushalt des Kantons und deren Kontrolle vorgesehene periodische Überprüfung.
+<sup>1</sup> Das Verfahren zur periodischen Überprüfung im Sinne vom Artikel 18 des Gesetzes ersetzt - soweit es Subventionen betrifft - die in Artikel 34 Absatz 4 des Gesetzes über die Geschäftsführung und den Finanzhaushalt des Kantons und deren Kontrolle vom 24. Juni 1980 vorgesehene periodische Überprüfung.
 
 #### Art. 16
 
@@ -173,26 +170,18 @@ Das Verfahren zur periodischen Überprüfung im Sinne vom Artikel 18 des Gesetze
 
 **Änderung von kantonalen Bestimmungen**
 
-Die Änderungen der kantonalen Reglemente, die der Genehmigung durch den Grossen Rat bedürfen, sind in Anhang I der vorliegenden Verordnung aufgeführt.
+<sup>1</sup> Die Änderungen der kantonalen Reglemente, die der Genehmigung durch den Grossen Rat bedürfen, sind in Anhang 1 der vorliegenden Verordnung aufgeführt.
 
 #### Art. 18
 
 **Genehmigung und Inkrafttreten**
 
-Die vorliegende Verordnung tritt nach ihrer Genehmigung durch den Grossen Rat zum gleichen Zeitpunkt wie das Subventionsgesetz in Kraft.
+<sup>1</sup> Die vorliegende Verordnung tritt nach ihrer Genehmigung durch den Grossen Rat zum gleichen Zeitpunkt wie das Subventionsgesetz in Kraft.
 
-So beschlossen im Staatsrate zu Sitten, am 14. Februar 1996
+## T1 Übergangsbestimmung der Änderung vom 25.03.2015 und 05.07.2015
 
-Der Präsident des Staatsrates: Bernard Bornet Der Staatskanzler: Henri v. Roten
+#### Art. T1-1
 
-Im Grossen Rat genehmigt am 27. März 1996.
+<sup>1</sup> Die vorliegende Änderung findet Anwendung auf die zum Zeitpunkt ihres Inkrafttretens hängigen Subventionsgesuche sowie auf künftige Subventionsgesuche.
 
-### Übergangsbestimmungen (Änderung vom 25. März und 5. Juli 2015)
-
-Die vorliegende Änderung findet Anwendung auf die zum Zeitpunkt ihres Inkrafttretens hängigen Subventionsgesuche sowie auf künftige Subventionsgesuche.
-
-### Titel und Änderungen Veröffentlichung Inkrafftreten Subventionsverordnung vom 14. Februar 1996
-
-## Weitere Fussnoten
-
-- [1] Änderung vom 25. März und 5. Juli 2015 Abl. Nr. 41/2015 09.10.15
+CSW RO/AGS 1996 f 224 | d 230

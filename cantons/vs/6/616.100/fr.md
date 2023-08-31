@@ -3,45 +3,47 @@ canton: VS
 number: "616.100"
 title: Ordonnance sur les subventions
 language: fr
-version: 2015-10-09
-corrected: 2017-09-13
-version_adopted: 2015-07-05
+version: 2023-09-01
+version_adopted: 2022-03-23
 adopted: 1996-02-14
 in_force: 1996-05-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/616.100"
-pdf: "https://lex.vs.ch/api/fr/versions/361/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3266/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Ordonnance sur les subventions
 
-du 14 février 1996
+du 14.02.1996 (état 01.09.2023)
 
 Le Conseil d'Etat du canton du Valais
 
-vu l'article 57 de la Constitution cantonale, vu l'article 33 de la loi sur les subventions du 13 novembre 1995, sur la proposition du Département des finances
+vu l'article 57 de la Constitution cantonale,
+
+vu l'article 33 de la loi sur les subventions du 13 novembre 1995,
+
+sur la proposition du Département des finances
 
 ordonne:
 
-#### Article premier
+#### Art. 1
 
 **Modification future des législations spéciales**
 
-Tout projet de texte concernant les subventions doit être soumis pour préavis au Département des finances, lequel examinera la conformité de celui-ci avec les principes posés par la loi sur les subventions et la présente ordonnance.
+<sup>1</sup> Tout projet de texte concernant les subventions doit être soumis pour préavis au Département des finances, lequel examinera la conformité de celui-ci avec les principes posés par la loi sur les subventions et la présente ordonnance.
 
 #### Art. 2
 
 **Définition**
 
-La notion de subventions fixées de manière impérative par le droit fédéral, au sens de l'article 4, alinéa 2, lettre g de la loi, désigne les subventions pour lesquelles le canton n'assure qu'une pure tâche d'exécution, et ne dispose d'aucune liberté d'appréciation.
+<sup>1</sup> La notion de subventions fixées de manière impérative par le droit fédéral, au sens de l'article 4 alinéa 2 lettre g de la loi, désigne les subventions pour lesquelles le canton n'assure qu'une pure tâche d'exécution, et ne dispose d'aucune liberté d'appréciation.
 
 #### Art. 3
 
 **Inventaire**
 
-<sup>1</sup> L'inventaire des subventions au sens de l'article 5 de la loi figure dans l'annexe II de la présente ordonnance.
+<sup>1</sup> L'inventaire des subventions au sens de l'article 5 de la loi figure dans l'annexe 2 de la présente ordonnance.
 
 <sup>2</sup> L'adaptation de l'inventaire à l'évolution de la législation est traitée dans le cadre de révisions périodiques, en principe annuelles.
 
@@ -49,17 +51,17 @@ La notion de subventions fixées de manière impérative par le droit fédéral,
 
 **Fichier**
 
-Les départements sont tenus de communiquer au Département des finances toute indication utile concernant l'établissement et la mise à jour du fichier des subventions.
+<sup>1</sup> Les départements sont tenus de communiquer au Département des finances toute indication utile concernant l'établissement et la mise à jour du fichier des subventions.
 
 #### Art. 5
 
 **Frais reconnus**
 
-Les frais reconnus au subventionnement sont fixés par les dispositions spéciales (lois, ordonnances, règlements, décisions, directives, etc.).
+<sup>1</sup> Les frais reconnus au subventionnement sont fixés par les dispositions spéciales (lois, ordonnances, règlements, décisions, directives, etc.).
 
 #### Art. 6
 
-<sup>1</sup> Réduction des subventions
+**Réduction des subventions**
 
 <sup>1</sup> Si les travaux ont déjà commencé ou ont été exécutés avant le dépôt de la demande de subvention ou avant la décision de subventionnement, il est opéré une réduction de 30 pour cent de la subvention.
 
@@ -67,7 +69,7 @@ Les frais reconnus au subventionnement sont fixés par les dispositions spécial
 
 <sup>3</sup> Si d'autres dispositions de la législation sur les marchés publics n'ont pas été respectées, il est procédé à une réduction de la subvention allant de 10 à 30 pour cent selon le nombre, l'importance et la gravité des irrégularités constatées.
 
-<sup>4</sup> Les alinéas 1,2 et 3 sont applicables de manière cumulative.
+<sup>4</sup> Les alinéas 1, 2 et 3 sont applicables de manière cumulative.
 
 <sup>5</sup> Demeurent réservées les exceptions dictées par la nécessité d'entreprendre des ouvrages sans délai pour des raisons de sécurité ou de non-aggravation du dommage.
 
@@ -79,7 +81,7 @@ Les frais reconnus au subventionnement sont fixés par les dispositions spécial
 
 <sup>2</sup> La situation et le potentiel économiques des personnes morales de droit privé et des communes bourgeoisiales sont appréciés principalement sur la base du compte d'exploitation et du bilan, et compte tenu également du potentiel de ressources et d'économies raisonnablement exploitable.
 
-<sup>3</sup> Les critères valant pour les communes municipales sont déterminés par le règlement de base du 3 mai 1978 fixant le mode de calcul de la subvention différentielle.
+<sup>3</sup> Les critères valant pour les communes municipales sont déterminés par le règlement de base fixant le mode de calcul de la subvention différentielle du 3 mai 1978.
 
 #### Art. 8
 
@@ -88,11 +90,8 @@ Les frais reconnus au subventionnement sont fixés par les dispositions spécial
 <sup>1</sup> L'ordre de priorité régissant la procédure d'évaluation des subventions est fixé principalement sur la base des critères suivants:
 
 - a) doutes concernant la nécessité, l'utilité, l'efficacité et l'efficience des subventions;
-
 - b) ancienneté de la base légale;
-
 - c) laps de temps écoulé depuis la dernière évaluation;
-
 - d) moyens financiers et ressources humaines à disposition.
 
 <sup>2</sup> L'ordre de priorité est arrêté par le Conseil d'Etat, sur proposition du département des finances, les départements concernés entendus.
@@ -105,7 +104,7 @@ Les frais reconnus au subventionnement sont fixés par les dispositions spécial
 
 **Subventions forfaitaires axées sur la prestation**
 
-Lorsque le montant des subventions forfaitaires n'est pas régi par les législations spéciales, il est fixé de manière à ce que soit maintenu un rapport raisonnable entre ce montant et celui des contributions au coût d'une prestation.
+<sup>1</sup> Lorsque le montant des subventions forfaitaires n'est pas régi par les législations spéciales, il est fixé de manière à ce que soit maintenu un rapport raisonnable entre ce montant et celui des contributions au coût d'une prestation.
 
 #### Art. 10
 
@@ -149,13 +148,13 @@ Lorsque le montant des subventions forfaitaires n'est pas régi par les législa
 
 **Intérêts**
 
-Les taux d'intérêt au sens des articles 16, 25 et 26 de la loi sur les subventions sont fixés par le Conseil d'Etat dans le plan quadriennal.
+<sup>1</sup> Les taux d'intérêt au sens des articles 16, 25 et 26 de la loi sur les subventions sont fixés par le Conseil d'Etat dans le plan quadriennal.
 
 #### Art. 15
 
 **Rapports avec le droit existant**
 
-La procédure d'évaluation périodique au sens de l'article 18 de la loi remplace, pour ce qui est des subventions, la procédure d'évaluation prévue par l'article 34, alinéa 4 de la loi du 24 juin 1980 sur la gestion et le contrôle administratifs et financiers du canton.
+<sup>1</sup> La procédure d'évaluation périodique au sens de l'article 18 de la loi remplace, pour ce qui est des subventions, la procédure d'évaluation prévue par l'article 34 alinéa 4 de la loi sur la gestion et le contrôle administratifs et financiers du canton du 24 juin 1980.
 
 #### Art. 16
 
@@ -171,34 +170,18 @@ La procédure d'évaluation périodique au sens de l'article 18 de la loi rempla
 
 **Modification des dispositions cantonales**
 
-Les modifications des règlements cantonaux soumis à l'approbation du Grand Conseil sont indiquées dans l'annexe I de la présente ordonnance.
+<sup>1</sup> Les modifications des règlements cantonaux soumis à l'approbation du Grand Conseil sont indiquées dans l'annexe 1 de la présente ordonnance.
 
 #### Art. 18
 
 **Approbation et entrée en vigueur**
 
-La présente ordonnance entre en vigueur, après son approbation par le Grand Conseil, à la même date que la loi sur les subventions.
+<sup>1</sup> La présente ordonnance entre en vigueur, après son approbation par le Grand Conseil, à la même date que la loi sur les subventions.
 
-Ainsi arrêté en Conseil d'Etat à Sion, le 14 février 1996.
+## T1 Disposition transitoire de la modification des 25.03.2015 et 05.07.2015
 
-Le président du Conseil d'Etat: Bernard Bornet Le chancelier d'Etat: Henri v. Roten
+#### Art. T1-1
 
-Approuvé en séance du Grand Conseil, à Sion, le 27 mars 1996.
+<sup>1</sup> La présente modification s'applique aux demandes de subventions pendantes lors de son entrée en vigueur ainsi qu'aux futures demandes de subvention.
 
-### Dispositions transitoires à la modification des 25 mars et 5 juillet 2015
-
-La présente modification s'applique aux demandes de subventions pendantes lors de son entrée en vigueur ainsi qu'aux futures demandes de subvention.
-
-**Entrée en**
-
-### Intitulé et modifications Publication
-
-vigueur
-
-### Ordonnance sur les subventions du 14
-
-février 1996
-
-## Autres notes
-
-- [1] Modification des 25 mars et 5 juillet 2015 BO No 41/2015 09.10.15
+RCV RO/AGS 1996 f 224 | d 230
