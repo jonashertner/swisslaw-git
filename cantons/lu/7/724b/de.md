@@ -3,20 +3,19 @@ canton: LU
 number: 724b
 title: Ausführungsbestimmungen zur Vereinbarung über die Fischerei im Vierwaldstättersee
 language: de
-version: 2017-06-01
-valid_until: 2023-08-31
-version_adopted: 2008-06-04
+version: 2023-09-01
+version_adopted: 2023-06-26
 adopted: 2008-06-04
 in_force: 2009-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/724b"
-pdf: "https://srl.lu.ch/api/de/versions/3539/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4122/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen zur Vereinbarung über die Fischerei im Vierwaldstättersee
 
-vom 04.06.2008 (Stand 01.06.2017)
+vom 04.06.2008 (Stand 01.09.2023)
 
 Die Fischereikommission,
 
@@ -143,6 +142,10 @@ erlässt folgende Ausführungsbestimmungen:
 **Hilfsgeräte**
 
 <sup>1</sup> Als Hilfsgerät zur Anlandung von gehakten oder im Netz verfangener Fische darf nur der Feumer (Unterfangnetz) verwendet werden.
+
+<sup>2</sup> Das Mitführen oder Verwenden von Echolotgebern mit Live-Sonar-Technologie, die geeignet sind, Bewegungen der Fische in Echtzeit darzustellen, ist verboten.
+
+<sup>3</sup> Die kantonalen Fischereifachstellen können Ausnahmen vom Mitführ- und/oder Verwendungsverbot, insbesondere für wissenschaftliche Untersuchungen, zulassen.
 
 ### II.b. Fanggeräte und Fangmethoden
 
