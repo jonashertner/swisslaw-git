@@ -4,11 +4,11 @@ title: "Ordinanza del 15 settembre 2017 concernente i sistemi d'informazione nel
 short: O-SIFPU
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/574"
 language: it
-version: 2021-04-01
+version: 2023-09-01
 adopted: 2017-09-15
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/574/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2017-574-20210401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/574/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/574/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2017-574-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/574/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/574/20210401/it"
 
 (O-SIFPU)
 
-del 15 settembre 2017 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
+del 15 settembre 2017 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -283,7 +283,7 @@ I dati del sistema d’informazione sono trattati dai collaboratori della SEFRI 
 
 I dati sono utilizzati per la gestione e l’analisi storica delle professioni in Svizzera e non vengono cancellati.
 
-## Sezione 5*a*:**** Sistema d’informazione per borse di studio a ricercatori e artisti stranieri in Svizzera
+## Sezione 5*a*: Sistema d’informazione per borse di studio a ricercatori e artisti stranieri in Svizzera
 
 [^sec5a-1]
 
@@ -392,11 +392,12 @@ Per evadere le domande di permesso di soggiorno presentate dai borsisti possono 
 
 #### Art. 20
 
-**Diritti delle persone interessate**
+**Diritti delle persone interessate**[^20-1]
 
-I diritti delle persone interessate, in particolare il diritto d’accesso e il diritto alla rettifica o alla distruzione dei dati, sono disciplinati dalla legge federale del 19 giugno 1992[^20-1] sulla protezione dei dati e le sue disposizioni esecutive.
+I diritti delle persone interessate, in particolare il diritto d’accesso e il diritto alla rettifica o alla distruzione dei dati, sono disciplinati dalla legge federale del 25 settembre 2020[^20-2] sulla protezione dei dati e le sue disposizioni esecutive
 
-[^20-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^20-1]: Nuovo testo giusta l’all. 2 n. II 49 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^20-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 21
 
@@ -406,16 +407,17 @@ I diritti delle persone interessate, in particolare il diritto d’accesso e il 
 
 La sicurezza dei dati e la sicurezza informatica sono disciplinate:
 
-- a. dalla legge federale del 19 giugno 1992[^21-1] sulla protezione dei dati e le sue disposizioni esecutive;
-- b. dall’ordinanza del 27 maggio 2020[^21-2] sui ciber-rischi.[^21-3]
+- a.[^21-1] dalla legge federale del 25 settembre 2020[^21-2] sulla protezione dei dati e dalle sue disposizioni esecutive;
+- b. dall’ordinanza del 27 maggio 2020[^21-3] sui ciber-rischi.[^21-4]
 
 <sup>2</sup> La SEFRI stabilisce in un piano delle funzioni e degli accessi la propria organizzazione interna, le procedure di trattamento dei dati e di controllo e le misure di sicurezza.
 
 <sup>3</sup> Vigila affinché le disposizioni sulla sicurezza informatica del sistema siano integrate nelle convenzioni sulle prestazioni concluse con terzi.
 
-[^21-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^21-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^21-3]: Nuovo testo giusta l’all. n. 24 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^21-1]: Nuovo testo giusta l’all. 2 n. II 49 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^21-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^21-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^21-4]: Nuovo testo giusta l’all. n. 24 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 22
 

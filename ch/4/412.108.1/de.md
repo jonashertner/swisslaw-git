@@ -4,11 +4,11 @@ title: Verordnung vom 15. September 2017 über die Informationssysteme im Berufs
 short: IBH-V
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/574"
 language: de
-version: 2021-04-01
+version: 2023-09-01
 adopted: 2017-09-15
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/574/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2017-574-20210401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/574/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/574/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2017-574-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/574/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/574/20210401/de"
 
 (IBH-V)
 
-vom 15. September 2017 (Stand am 1. April 2021)
+vom 15. September 2017 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -283,7 +283,7 @@ Die Daten im Informationssystem werden durch die mit entsprechenden Vollzugsaufg
 
 Die Daten dienen der Pflege und historischen Betrachtung der Berufe in der Schweiz und werden nie gelöscht.
 
-## 5*a*. Abschnitt:**** Informationssystem für Stipendien an ausländische Forschende und Kunstschaffende in der Schweiz
+## 5*a*. Abschnitt: Informationssystem für Stipendien an ausländische Forschende und Kunstschaffende in der Schweiz
 
 [^sec5a-1]
 
@@ -396,11 +396,12 @@ Den zuständigen kantonalen Migrationsämtern dürfen für die Gesuche um Aufent
 
 #### Art. 20
 
-**Rechte der betroffenen Personen**
+**Rechte der betroffenen Personen**[^20-1]
 
-Die Rechte der betroffenen Personen, insbesondere das Auskunftsrecht und das Recht auf Berichtigung oder Vernichtung von Daten, richten sich nach dem Bundesgesetz vom 19. Juni 1992[^20-1] über den Datenschutz und seinen Ausführungsbestimmungen.
+Die Rechte der betroffenen Personen, insbesondere das Auskunftsrecht und das Recht auf Berichtigung oder Vernichtung von Daten, richten sich nach dem Datenschutzgesetz vom 25. September 2020[^20-2] und seinen Ausführungsbestimmungen.
 
-[^20-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^20-1]: Fassung gemäss Anhang 2 Ziff. II 49 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^20-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 21
 
@@ -410,16 +411,17 @@ Die Rechte der betroffenen Personen, insbesondere das Auskunftsrecht und das Rec
 
 Die Daten- und die Informatiksicherheit richten sich nach:
 
-- a. dem Bundesgesetz vom 19. Juni 1992[^21-1] über den Datenschutz und seinen Ausführungsbestimmungen;
-- b. der Cyberrisikenverordnung vom 27. Mai 2020[^21-2].[^21-3]
+- a.[^21-1] dem Datenschutzgesetz vom 25. September 2020[^21-2] und seinen Ausführungsbestimmungen;
+- b. der Cyberrisikenverordnung vom 27. Mai 2020[^21-3].[^21-4]
 
 <sup>2</sup> Das SBFI legt in einem Rollen- und Zugriffskonzept seine interne Organisation, das Datenbearbeitungs- und Kontrollverfahren sowie die einzelnen Sicherheitsmassnahmen fest.
 
 <sup>3</sup> Es sorgt dafür, dass die Bestimmungen über die Systemsicherheit Teil der mit Dritten abgeschlossenen Leistungsvereinbarungen sind.
 
-[^21-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^21-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^21-3]: Fassung gemäss Anhang Ziff. 24 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^21-1]: Fassung gemäss Anhang 2 Ziff. II 49 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^21-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^21-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^21-4]: Fassung gemäss Anhang Ziff. 24 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 22
 

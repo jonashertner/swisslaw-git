@@ -4,11 +4,11 @@ title: "Ordonnance du 15 septembre 2017 sur les systèmes d'information dans le 
 short: OSFPrHE
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/574"
 language: fr
-version: 2021-04-01
+version: 2023-09-01
 adopted: 2017-09-15
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/574/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2017-574-20210401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/574/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/574/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2017-574-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/574/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/574/20210401/fr"
 
 (OSFPrHE)
 
-du 15 septembre 2017 (Etat le 1<sup>er</sup> avril 2021)
+du 15 septembre 2017 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -283,7 +283,7 @@ Les données du système d’informations sont traitées par les collaborateurs 
 
 Les données sont utilisées pour la gestion et l’évaluation historique des professions en Suisse et ne sont pas effacées.
 
-## Section 5*a***** Système d’information pour les bourses attribuées à des chercheurs et artistes étrangers en Suisse
+## Section 5*a* Système d’information pour les bourses attribuées à des chercheurs et artistes étrangers en Suisse
 
 [^sec5a-1]
 
@@ -396,11 +396,12 @@ Les données suivantes concernant les requérants peuvent être transmises aux o
 
 #### Art. 20
 
-**Droits des personnes concernées**
+**Droits des personnes concernées**[^20-1]
 
-Les droits des personnes concernées, notamment le droit d’accès et le droit à la rectification ou à la destruction de données, sont régis par la loi fédérale du 19 juin 1992 sur la protection des données[^20-1] et ses dispositions d’exécution.
+Les droits des personnes concernées, notamment le droit d’accès et le droit à la rectification ou à la destruction de données, sont régis par la loi fédérale du 25 septembre 2020 sur la protection des données[^20-2] et ses dispositions d’exécution.
 
-[^20-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^20-1]: Nouvelle teneur selon l’annexe 2 ch. II 49 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^20-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 21
 
@@ -410,16 +411,17 @@ Les droits des personnes concernées, notamment le droit d’accès et le droit 
 
 La sécurité des données et la sécurité informatique sont régies par:
 
-- a. la loi fédérale du 19 juin 1992 sur la protection des données[^21-1] et ses dispositions d’exécution;
-- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^21-2].[^21-3]
+- a.[^21-1] la loi fédérale du 25 septembre 2020 sur la protection des données[^21-2] et ses dispositions d’exécution;
+- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^21-3].[^21-4]
 
 <sup>2</sup> Le SEFRI édicte un concept de rôles et d’accès dans lequel il définit son organisation interne, les procédures de traitement des données et de contrôle, et les mesures de sécurité.
 
 <sup>3</sup> Il veille à ce que les dispositions régissant la sécurité informatique du système soient intégrées dans les conventions de prestations conclues avec des tiers.
 
-[^21-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^21-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^21-3]: Nouvelle teneur selon l’annexe ch. 24 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^21-1]: Nouvelle teneur selon l’annexe 2 ch. II 49 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^21-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^21-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^21-4]: Nouvelle teneur selon l’annexe ch. 24 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 22
 
