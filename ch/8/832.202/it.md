@@ -4,11 +4,11 @@ title: "Ordinanza del 20 dicembre 1982 sull'assicurazione contro gli infortuni (
 short: OAINF
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/38_38_38"
 language: it
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1982-12-20
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20230901-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20230101/it"
 
 (OAINF)
 
-del 20 dicembre 1982 (Stato 1° gennaio 2023)
+del 20 dicembre 1982 (Stato 1° settembre 2023) (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -27,7 +27,7 @@ ordina:
 
 [^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^ingress-2]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^ingress-3]: [[RU 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836), [1988 414](https://fedlex.data.admin.ch/eli/oc/1988/414_414_414), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 66733 disp. fin. art. 7 n. 3 2363 all. n. 2, **1993** 3204, **1995** 1328 all. n. 2 3517 I 12 5679, **2000** 2355 all. n. 28, **2003** 232, **2004** 1677 all. n. 4 2617 all. n. 12. [RU 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734)all. n. I 3]. Vedi ora la L del 17 dic. 2004 ([RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)).
+[^ingress-3]: [[RU 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836); [1988 414](https://fedlex.data.admin.ch/eli/oc/1988/414_414_414); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 66,733 disp. fin. art. 7 n. 3, 2363 all. n. 2; **1993** 3204; **1995** 1328 all. n. 2, 3517 I 12, 5679; **2000** 2355 all. n. 28; **2003** 232; **2004** 1677 all. n. 4, 2617 all. n. 12. [RU 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734)all. n. I 3]. Vedi ora la L del 17 dic. 2004 ([RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)).
 [^ingress-4]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 
 ## Titolo primo: Persone assicurate
@@ -1105,11 +1105,12 @@ L’ordinanza del 3 luglio 2002[^70a-2] sul calcolo dei costi e la registrazione
 
 <sup>1</sup> Le informazioni fornite dall’assicuratore ai datori di lavoro e agli assicurati sono di principio gratuite.
 
-<sup>2</sup> Se per poter fornire queste informazioni sono necessarie ricerche speciali o altri lavori che implicano spese, si può riscuotere un emolumento, applicando per analogia l’articolo 16 dell’ordinanza del 10 settembre 1969[^72a-2] sulle tasse e spese nella procedura amministrativa. È salvo l’articolo 2 dell’ordinanza del 14 giugno 1993[^72a-3] sulla protezione dei dati.
+<sup>2</sup> Se per poter fornire queste informazioni sono necessarie ricerche speciali o altri lavori che implicano spese, si può riscuotere un emolumento, applicando per analogia l’articolo 16 dell’ordinanza del 10 settembre 1969[^72a-2] sulle tasse e spese nella procedura amministrativa. È salvo l’articolo 19 dell’ordinanza del 31 agosto 2022[^72a-3] sulla protezione dei dati.[^72a-4]
 
 [^72a-1]: Introdotto dal n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 [^72a-2]: [RS 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
 [^72a-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^72a-4]: Nuovo testo del per. giusta l’all. 2 n. II 120 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### Sezione 2: Istituto nazionale svizzero di assicurazione contro gli infortuni
 
@@ -1494,7 +1495,7 @@ Per quanto l’esiga l’applicazione dell’assicurazione contro gli infortuni,
 <sup>4</sup> I due uffici coordinano le attività di vigilanza.[^104-3]
 
 [^104-1]: Per. abrogato dall’all. n. 4 dell’O del 27 giu. 1995 sull’assicurazione malattie, con effetto dal 1° ott. 1996 ([RU 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)).
-[^104-2]: [[RU 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836), [1988 414](https://fedlex.data.admin.ch/eli/oc/1988/414_414_414), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 66733 disp. fin. art. 7 n. 3 2363 all. n. 2, **1993** 3204, **1995** 1328 all. n. 2 3517 I 12 5679, **2000** 2355 all. n. 28, **2003** 232, **2004** 1677 all. n. 4 2617 all. n. 12. [RU 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734)all. n. I 3]. Vedi ora la L del 17 dic. 2004 ([RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)).
+[^104-2]: [[RU 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836); [1988 414](https://fedlex.data.admin.ch/eli/oc/1988/414_414_414); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 66,733 disp. fin. art. 7 n. 3, 2363 all. n. 2; **1993** 3204; **1995** 1328 all. n. 2, 3517 I 12, 5679; **2000** 2355 all. n. 28; **2003** 232; **2004** 1677 all. n. 4, 2617 all. n. 12. [RU 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734)all. n. I 3]. Vedi ora la L del 17 dic. 2004 ([RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)).
 [^104-3]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 105
@@ -2479,7 +2480,7 @@ Allegato 2[^t-2]
 
 L’indennità giornaliera è calcolata conformemente alla formula seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230901/it/xml/image/image1.png)
 
 Esempi
 
@@ -2492,7 +2493,7 @@ Esempi
 <tr><td>[tab] Tredicesima mensilità</td><td>3 650.—</td></tr>
 <tr><td>[tab] Assegni familiari: 365.– × 12</td><td>4 380.—</td></tr>
 <tr><td>[tab] Guadagno annuale</td><td>51 830.—</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230101/it/xml/image/image2.png)</td><td>113.60</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230901/it/xml/image/image2.png)</td><td>113.60</td></tr>
 <tr><td>[tab] Numero di giorni: 13</td><td></td></tr>
 <tr><td>[tab] Totale: 13 × 113.60 = fr. 1 476.80 arrotondati a</td><td>1 477.—</td></tr>
 <tr><td>b) Salario orario</td><td></td></tr>
@@ -2504,7 +2505,7 @@ Esempi
 <tr><td>[tab] Tredicesima</td><td>3 557.30</td></tr>
 <tr><td>[tab] Assegni familiari: fr. 365.– ×12</td><td>4 380.—</td></tr>
 <tr><td>[tab] Guadagno annuale</td><td>50 642.30</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230101/it/xml/image/image3.png)</td><td>111.—</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230901/it/xml/image/image3.png)</td><td>111.—</td></tr>
 <tr><td>Numero di giorni: 22</td><td></td></tr>
 <tr><td>Totale: 22 × 111.– =</td><td>2 442.—</td></tr>
 </table>

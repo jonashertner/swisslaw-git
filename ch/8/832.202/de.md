@@ -4,11 +4,11 @@ title: Verordnung vom 20. Dezember 1982 über die Unfallversicherung (UVV)
 short: UVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/38_38_38"
 language: de
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1982-12-20
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20230901-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20230101/de"
 
 (UVV)
 
-vom 20. Dezember 1982 (Stand am 1. Januar 2023)
+vom 20. Dezember 1982 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -1069,11 +1069,12 @@ Die Verordnung vom 3. Juli 2002[^70a-2] über die Kostenermittlung und die Leist
 
 <sup>1</sup> Die Auskünfte, die vom Versicherer den Arbeitgebern und den Versicherten erteilt werden, sind grundsätzlich kostenlos.
 
-<sup>2</sup> Sind für diese Auskünfte besondere Nachforschungen oder andere Arbeiten nötig, die Kosten verursachen, so kann in sinngemässer Anwendung von Artikel 16 der Verordnung vom 10. September 1969[^72a-2] über Kosten und Entschädigungen im Verwaltungsverfahren eine Gebühr erhoben werden. Vorbehalten bleibt Artikel 2 der Verordnung vom 14. Juni 1993[^72a-3] zum Bundesgesetz über den Datenschutz.
+<sup>2</sup> Sind für diese Auskünfte besondere Nachforschungen oder andere Arbeiten nötig, die Kosten verursachen, so kann in sinngemässer Anwendung von Artikel 16 der Verordnung vom 10. September 1969[^72a-2] über Kosten und Entschädigungen im Verwaltungsverfahren eine Gebühr erhoben werden. Vorbehalten bleibt Artikel 19 der Datenschutzverordnung vom 31. August 2022[^72a-3].[^72a-4]
 
 [^72a-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 [^72a-2]: [SR 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
 [^72a-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^72a-4]: Fassung des zweiten Satzes gemäss Anhang 2 Ziff. II 120 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### 2. Abschnitt: Schweizerische Unfallversicherungsanstalt
 
@@ -2188,7 +2189,7 @@ Anhang 2[^t-2]
 Das Taggeld wird mit folgender verbindlichen Formel berechnet:
 
 <table>
-<tr><td></td><td></td><td></td><td colspan="3"></td><td colspan="15">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230101/de/xml/image/image1.png)</td></tr>
+<tr><td></td><td></td><td></td><td colspan="3"></td><td colspan="15">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230901/de/xml/image/image1.png)</td></tr>
 <tr><td colspan="10">Beispiele</td><td></td><td colspan="3"></td><td colspan="2"></td><td colspan="5"></td></tr>
 <tr><td>a.</td><td colspan="11">Monatslohn</td><td colspan="3"></td><td colspan="4"></td><td colspan="2"></td></tr>
 <tr><td></td><td colspan="11">Grundlohn pro Monat</td><td colspan="3">Fr.</td><td colspan="4">3650.—</td><td colspan="2"></td></tr>
@@ -2199,7 +2200,7 @@ Das Taggeld wird mit folgender verbindlichen Formel berechnet:
 <tr><td></td><td colspan="11">Familienzulagen: Fr. 365.– × 12</td><td colspan="5"></td><td colspan="3">Fr.</td><td>4 380.—</td></tr>
 <tr><td></td><td colspan="11"></td><td colspan="5"></td><td colspan="3"></td><td>\_\_\_\_\_\_\_\_\_\_</td></tr>
 <tr><td></td><td colspan="11">Jahresverdienst</td><td colspan="5"></td><td colspan="3">Fr.</td><td>51 830.—</td></tr>
-<tr><td></td><td colspan="3">Taggeld:</td><td colspan="3"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230101/de/xml/image/image2.png)</sub></td><td colspan="10">× 80 % =</td><td colspan="3">Fr.</td><td>113.60</td></tr>
+<tr><td></td><td colspan="3">Taggeld:</td><td colspan="3"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230901/de/xml/image/image2.png)</sub></td><td colspan="10">× 80 % =</td><td colspan="3">Fr.</td><td>113.60</td></tr>
 <tr><td></td><td colspan="16">Anzahl Tage: 13</td><td colspan="3"></td><td></td></tr>
 <tr><td></td><td colspan="16">Total: 13 × 113.60 = Fr. 1476.80 gerundet auf</td><td colspan="3">Fr.</td><td>1 477.—</td></tr>
 <tr><td>b.</td><td colspan="11">Stundenlohn</td><td colspan="3"></td><td colspan="4"></td><td colspan="2"></td></tr>
@@ -2212,7 +2213,7 @@ Das Taggeld wird mit folgender verbindlichen Formel berechnet:
 <tr><td></td><td colspan="11">Familienzulagen: Fr. 365.– × 12</td><td colspan="5"></td><td colspan="3">Fr.</td><td>4 380.—</td></tr>
 <tr><td></td><td colspan="11"></td><td colspan="5"></td><td colspan="3"></td><td>\_\_\_\_\_\_\_\_\_\_</td></tr>
 <tr><td></td><td colspan="11">Jahresverdienst</td><td colspan="5"></td><td colspan="3">Fr.</td><td>50 642.30</td></tr>
-<tr><td></td><td colspan="3">Taggeld:</td><td colspan="4"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230101/de/xml/image/image3.png)</sub></td><td colspan="9">× 80 % =</td><td colspan="3">Fr.</td><td>111.—</td></tr>
+<tr><td></td><td colspan="3">Taggeld:</td><td colspan="4"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230901/de/xml/image/image3.png)</sub></td><td colspan="9">× 80 % =</td><td colspan="3">Fr.</td><td>111.—</td></tr>
 <tr><td></td><td colspan="11">Anzahl Tage: 22</td><td colspan="5"></td><td colspan="3"></td><td></td></tr>
 <tr><td></td><td colspan="11">Total: 22 × 111.–</td><td colspan="5"></td><td colspan="3">Fr.</td><td>2 442.—</td></tr>
 </table>

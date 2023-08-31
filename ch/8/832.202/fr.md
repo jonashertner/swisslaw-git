@@ -4,11 +4,11 @@ title: "Ordonnance du 20 décembre 1982 sur l'assurance-accidents (OLAA)"
 short: OLAA
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/38_38_38"
 language: fr
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1982-12-20
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20230901-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20230101/fr"
 
 (OLAA)
 
-du 20 décembre 1982 (État le 1<sup>er</sup> janvier 2023)
+du 20 décembre 1982 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -1098,11 +1098,12 @@ L’ordonnance du 3 juillet 2002 sur le calcul des coûts et le classement des p
 
 <sup>1</sup> Les renseignements que donnent les assureurs aux employeurs et aux assurés sont en principe gratuits.
 
-<sup>2</sup> Si de tels renseignements nécessitent des recherches spéciales ou d’autres travaux qui entraînent des frais, un émolument peut être perçu en application par analogie de l’art. 16 de l’ordonnance du 10 septembre 1969 sur les frais et indemnités en procédure administrative[^72a-2]. L’art. 2 de l’ordonnance du 14 juin 1993relative à la loi fédérale sur la protection des données[^72a-3] est réservé.
+<sup>2</sup> Si de tels renseignements nécessitent des recherches spéciales ou d’autres travaux qui entraînent des frais, un émolument peut être perçu en application par analogie de l’art. 16 de l’ordonnance du 10 septembre 1969 sur les frais et indemnités en procédure administrative[^72a-2]. L’art. 19 de l’ordonnance du 31 août 2022 sur la protection des données[^72a-3] est réservé.[^72a-4]
 
 [^72a-1]: Introduit par le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 [^72a-2]: [RS 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
 [^72a-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^72a-4]: Nouvelle teneur de la phrase selon l’annexe 2 ch. II 120 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### Section 2 Caisse nationale suisse d’assurance en cas d’accidents
 
@@ -2468,7 +2469,7 @@ Annexe 2[^t-2]
 
 L’indemnité journalière est calculée conformément à la formule suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230901/fr/xml/image/image1.png)
 
 Exemples
 
@@ -2481,7 +2482,7 @@ Exemples
 <tr><td>[tab] 13<sup>e</sup> salaire mensuel</td><td>3 650.—</td></tr>
 <tr><td>[tab] Allocations familiales: Fr. 365.– × 12</td><td>4 380.—</td></tr>
 <tr><td>[tab] Gain annuel</td><td>51 830.—</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230101/fr/xml/image/image2.png)</td><td>113.60</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230901/fr/xml/image/image2.png)</td><td>113.60</td></tr>
 <tr><td>[tab] Nombre de jours indemnisés: 13</td><td></td></tr>
 <tr><td>[tab] Total: 13 × 113.60 = Fr. 1476.80 arrondis à</td><td>1 477.—</td></tr>
 <tr><td>b. Salaire horaire</td><td></td></tr>
@@ -2493,7 +2494,7 @@ Exemples
 <tr><td>[tab] 13<sup>e</sup> salaire mensuel</td><td>3 557.30</td></tr>
 <tr><td>[tab] Allocations familiales Fr. 365.–×12</td><td>4 380.—</td></tr>
 <tr><td>[tab] Gain annuel</td><td>50 642.30</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230101/fr/xml/image/image3.png)</td><td>111.—</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20230901/fr/xml/image/image3.png)</td><td>111.—</td></tr>
 <tr><td>[tab] Nombre de jours indemnisés: 22</td><td></td></tr>
 <tr><td>[tab] Total: 22 × 111.– =</td><td>2 442.—</td></tr>
 </table>
