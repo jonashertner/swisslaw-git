@@ -4,11 +4,11 @@ title: Verordnung vom 21. November 2018 über die Militärische Sicherheit (VMS)
 short: VMS
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/730"
 language: de
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2018-11-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/730/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2018-730-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/730/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/730/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2018-730-20230901-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/730/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/730/20230101/de"
 
 (VMS)
 
-vom 21. November 2018 (Stand am 1. Januar 2023)
+vom 21. November 2018 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -75,21 +75,22 @@ Zur Erfüllung der Aufgaben nach dieser Verordnung arbeiten die Organe der Milit
 
 <sup>2</sup> Im Assistenz- und im Aktivdienst können die Organe der Militärischen Sicherheit Personendaten nach Absatz 1 ohne Wissen der betroffenen Personen bearbeiten, soweit es aufgrund überwiegender öffentlicher Interessen erforderlich ist.
 
-<sup>3</sup> Im Übrigen sind die Bestimmungen des Bundesgesetzes vom 21. März 1997[^4-1] über Massnahmen zur Wahrung der inneren Sicherheit, des Militärstrafprozesses vom 23. März 1979[^4-2] und des Bundesgesetzes vom 19. Juni 1992[^4-3] über den Datenschutz (DSG) anwendbar.
+<sup>3</sup> Im Übrigen sind die Bestimmungen des Bundesgesetzes vom 21. März 1997[^4-1] über Massnahmen zur Wahrung der inneren Sicherheit, des Militärstrafprozesses vom 23. März 1979[^4-2] und des Datenschutzgesetzes vom 25. September 2020[^4-3] anwendbar.[^4-4]
 
 [^4-1]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 [^4-2]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 [^4-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^4-4]: Fassung gemäss Anhang 2 Ziff. II 64 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 5
 
-**Ausnahme von der Registrierung der Datensammlungen im Assistenz- und im Aktivdienst**
+**Ausnahme von der Pflicht zur Meldung der Bearbeitungstätigkeiten an den EDÖB**[^5-1]
 
-<sup>1</sup> Datensammlungen, die im Rahmen eines Assistenz- oder eines Aktivdienstes angelegt werden, müssen nicht zur Aufnahme in das Register der Datensammlungen nach Artikel 11*a* DSG[^5-1] angemeldet werden, wenn dies die Informationsbeschaffung und die Erfüllung der Aufgaben nach dieser Verordnung gefährden würde.
+<sup>1</sup> Datenbearbeitungstätigkeiten, die im Rahmen eines Assistenz- oder eines Aktivdienstes durchgeführt werden, müssen dem Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB) nicht gemeldet werden, wenn dies die Informationsbeschaffung und die Erfüllung der Aufgaben nach dieser Verordnung gefährden würde.
 
-<sup>2</sup> Die Organe der Militärischen Sicherheit informieren die Eidgenössische Datenschutz- und Öffentlichkeitsbeauftragte oder den Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten in einer allgemeinen Form über diese Datensammlungen.
+<sup>2</sup> Die Organe der Militärischen Sicherheit informieren den EDÖB in einer allgemeinen Form über diese Datenbearbeitungstätigkeiten.
 
-[^5-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^5-1]: Fassung gemäss Anhang 2 Ziff. II 64 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 3. Abschnitt: IOS
 

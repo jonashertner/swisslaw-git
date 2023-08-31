@@ -4,11 +4,11 @@ title: Ordonnance du 21 novembre 2018 sur la sécurité militaire (OSM)
 short: OSM
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/730"
 language: fr
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2018-11-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/730/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-730-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/730/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/730/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2018-730-20230901-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/730/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/730/20230101/fr"
 
 (OSM)
 
-du 21 novembre 2018 (État le 1<sup>er</sup> janvier 2023)
+du 21 novembre 2018 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -75,21 +75,22 @@ Afin d’accomplir les tâches prévues par la présente ordonnance, les organes
 
 <sup>2</sup> En cas de service d’appui et de service actif, les organes de la sécurité militaire peuvent traiter des données personnelles, en vertu de l’al. 1, à l’insu des personnes concernées, dans la mesure où un intérêt public prépondérant le requiert.
 
-<sup>3</sup> Au surplus, les dispositions en matière de protection des données de la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^4-1], de la procédure pénale militaire du 23 mars 1979[^4-2] et de la loi fédérale du 19 juin 1992 sur la protection des données (LPD)[^4-3] s’appliquent.
+<sup>3</sup> Au surplus, les dispositions en matière de protection des données de la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^4-1], de la procédure pénale militaire du 23 mars 1979[^4-2] et de la loi fédérale du 25 septembre 2020 sur la protection des données[^4-3] s’appliquent.[^4-4]
 
 [^4-1]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 [^4-2]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 [^4-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^4-4]: Nouvelle teneur selon l’annexe 2 ch. II 64 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 5
 
-**Exception à l’enregistrement de fichiers en service d’appui et en service actif**
+**Exception à l’obligation de déclarer les activités de traitement au PFPDT**[^5-1]
 
-<sup>1</sup> Les fichiers constitués dans le cadre d’un service d’appui ou d’un service actif ne sont pas déclarés au registre prévu par l’art. 11*a* LPD[^5-1] si cela compromet la recherche d’informations et l’accomplissement des tâches prévues par la présente ordonnance.
+<sup>1</sup> Les activités de traitement effectuées dans le cadre d’un service d’appui ou d’un service actif ne sont pas être déclarées au Préposé fédéral à la protection des données et à la transparence (PFPDT) si cela compromet la recherche d’informations et l’accomplissement des tâches prévues par la présente ordonnance.
 
-<sup>2</sup> Les organes de la sécurité militaire informent le Préposé fédéral à la protection des données et à la transparence de manière générale sur ces fichiers.
+<sup>2</sup> Les organes de la sécurité militaire informent le PFPDT de manière générale sur ces activités de traitement.
 
-[^5-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^5-1]: Nouvelle teneur selon l’annexe 2 ch. II 64 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 3 SIO
 

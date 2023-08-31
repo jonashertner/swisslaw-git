@@ -4,11 +4,11 @@ title: Ordinanza del 21 novembre 2018 sulla sicurezza militare (OSM)
 short: OSM
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/730"
 language: it
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2018-11-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/730/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2018-730-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/730/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/730/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2018-730-20230901-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/730/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/730/20230101/it"
 
 (OSM)
 
-del 21 novembre 2018 (Stato 1° gennaio 2023)
+del 21 novembre 2018 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -75,21 +75,22 @@ Per l’adempimento dei compiti secondo la presente ordinanza, gli organi della 
 
 <sup>2</sup> In servizio d’appoggio e in servizio attivo, gli organi della sicurezza militare possono trattare dati personali secondo il capoverso 1 all’insaputa della persona interessata, nella misura in cui interessi pubblici preponderanti lo rendano necessario.
 
-<sup>3</sup> Del rimanente, sono applicabili le disposizioni della legge federale del 21 marzo 1997[^4-1] sulle misure per la salvaguardia della sicurezza interna, della procedura penale militare del 23 marzo 1979[^4-2] e della legge federale del 19 giugno 1992[^4-3] sulla protezione dei dati (LPD).
+<sup>3</sup> Del rimanente, sono applicabili le disposizioni della legge federale del 21 marzo 1997[^4-1] sulle misure per la salvaguardia della sicurezza interna, della procedura penale militare del 23 marzo 1979[^4-2] e della legge federale del 25 settembre 2020[^4-3] sulla protezione dei dati.[^4-4]
 
 [^4-1]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 [^4-2]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 [^4-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^4-4]: Nuovo testo giusta l’all. 2 n. II 64 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 5
 
-**Deroga alla registrazione di collezioni di dati nel quadro del servizio d’appoggio e del servizio attivo**
+**Deroga all’obbligo di notificare le attività di trattamento all’IFPDT**[^5-1]
 
-<sup>1</sup> Le collezioni di dati registrate nel quadro di un servizio d’appoggio o di un servizio attivo non devono essere notificate per la registrazione nel registro delle collezioni di dati di cui all’articolo 11*a* LPD[^5-1] se ciò può pregiudicare l’acquisizione d’informazioni e l’adempimento dei compiti secondo la presente ordinanza.
+<sup>1</sup> Le attività di trattamento di dati eseguite nel quadro di un servizio d’appoggio o di un servizio attivo non devono essere notificate all’Incaricato federale della protezione dei dati e della trasparenza (IFPDT), se ciò può pregiudicare l’acquisizione d’informazioni e l’adempimento dei compiti secondo la presente ordinanza.
 
-<sup>2</sup> Gli organi della sicurezza militare informano in maniera generale l’Incaricato federale della protezione dei dati e della trasparenza su tali collezioni di dati.
+<sup>2</sup> Gli organi della sicurezza militare informano in maniera generale l’IFPDT su tali attività di trattamento di dati.
 
-[^5-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^5-1]: Nuovo testo giusta l’all. 2 n. II 64 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 3: SIO
 
