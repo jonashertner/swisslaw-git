@@ -3,20 +3,20 @@ canton: OW
 number: "131.21"
 title: Verordnung über das Staatsarchiv
 language: de
-version: 2005-07-01
-valid_until: 2023-08-31
-version_adopted: 2005-04-21
+version: 2023-09-01
+valid_until: 2025-12-31
+version_adopted: 2023-06-30
 adopted: 1996-10-18
 in_force: 1997-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/131.21"
-pdf: "http://gdb.ow.ch/api/de/versions/590/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1826/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Staatsarchiv
 
-vom 18.10.1996 (Stand 01.07.2005)
+vom 18.10.1996 (Stand 01.09.2023)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -133,7 +133,7 @@ beschliesst:
 
 **Beschränkungen der Einsichtnahme**
 
-<sup>1</sup> Archivgut, das nach Personennamen erschlossen ist und besonders schützenswerte Personendaten oder Persönlichkeitsprofile enthält, unterliegt einer Schutzfrist von 50 Jahren, ausser wenn die betroffene Person einer Einsichtnahme zugestimmt hat.
+<sup>1</sup> Archivgut, das nach Personennamen erschlossen ist und besonders schützenswerte Personendaten enthält, unterliegt einer Schutzfrist von 50 Jahren, ausser wenn die betroffene Person einer Einsichtnahme zugestimmt hat.
 
 <sup>2</sup> Besteht bei bestimmten Kategorien von Archivgut oder im Einzelfall ein überwiegendes schützenswertes öffentliches oder privates Interesse gegen die Einsichtnahme von Dritten, so kann der Regierungsrat, bzw. bei Gerichtsakten das Obergericht, auf Antrag der abliefernden Stelle oder des Staatsarchivs eine Einsichtnahme nach Ablauf der Schutzfrist zeitlich befristet beschränken oder untersagen.
 
@@ -203,6 +203,8 @@ Ursprüngliche Fundstelle: OGS 1997, 33
 
 geändert durch
 
-\- das Allgemeine Gebührengesetz vom 21. April 2005, in Kraft seit 1. Juli 2005 (OGS 2005, 29)
+\- das Allgemeine Gebührengesetz vom 21. April 2005, in Kraft seit 1. Juli 2005 (OGS 2005, 29),
+
+\- Nachtrag zum Gesetz über den Datenschutz vom 30. Juni 2023 (OGS 2023, 21), Botschaft und Vorlage des Regierungsrats vom 27. März 2023, Kantonsratssitzungen vom 25. Mai und 30. Juni 2023 (22.23.01), in Kraft seit 1. September 2023 (OGS 2023, 26)
 
 OGS 1997, 33
