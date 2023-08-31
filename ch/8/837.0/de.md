@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 25. Juni 1982 über die obligatorische Arbeitslosenvers
 short: AVIG
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184"
 language: de
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1982-06-25
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20230101/de"
 
 (Arbeitslosenversicherungsgesetz, AVIG)
 
-vom 25. Juni 1982 (Stand am 1. Januar 2023)
+vom 25. Juni 1982 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -2370,7 +2370,9 @@ Die mit der Durchführung dieses Gesetzes beauftragten Stellen sind berechtigt, 
 
 **Bearbeiten von Personendaten**[^96b-1]
 
-Die mit der Durchführung, der Kontrolle oder der Beaufsichtigung der Durchführung dieses Gesetzes betrauten Organe sind befugt, die Personendaten, einschliesslich besonders schützenswerter Daten und Persönlichkeitsprofile, zu bearbeiten oder bearbeiten zu lassen, die sie benötigen, um die ihnen nach diesem Gesetz übertragenen Aufgaben zu erfüllen, namentlich um:[^96b-2]
+<sup>1</sup>
+
+Die mit der Durchführung oder mit der Kontrolle oder Beaufsichtigung der Durchführung dieses Gesetzes betrauten Organe sind befugt, die Personendaten, einschliesslich besonders schützenswerter Personendaten, zu bearbeiten oder bearbeiten zu lassen, die sie benötigen, um die ihnen nach diesem Gesetz übertragenen Aufgaben zu erfüllen, namentlich um:[^96b-2]
 
 - a. Versicherte, die Versicherungsleistungen beanspruchen, zu erfassen, zu vermitteln und zu beraten;
 - b. Leistungsansprüche zu beurteilen sowie Leistungen zu berechnen, zu gewähren und mit Leistungen anderer Sozialversicherungen zu koordinieren;
@@ -2383,9 +2385,12 @@ Die mit der Durchführung, der Kontrolle oder der Beaufsichtigung der Durchführ
 - i. Statistiken zu führen;
 - j.[^96b-3] die AHV-Nummer zuzuweisen oder zu verifizieren.
 
+<sup>2</sup> Zur Erfüllung dieser Aufgaben sind sie darüber hinaus befugt, Personendaten, die namentlich die Beurteilung der persönlichen und der wirtschaftlichen Situation der Empfänger von Leistungen der Arbeitslosenversicherung erlauben, zu bearbeiten oder bearbeiten zu lassen.[^96b-4]
+
 [^96b-1]: Eingefügt durch Ziff. I des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2772](https://fedlex.data.admin.ch/eli/oc/2000/467); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)).
-[^96b-2]: Fassung gemäss Anhang Ziff. 14 des BG vom 23. Juni 2006 (Neue AHV-Versicherten-nummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^96b-2]: Fassung gemäss Anhang 1 Ziff. II 85 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^96b-3]: Eingefügt durch Anhang Ziff. 14 des BG vom 23. Juni 2006 (Neue AHV-Versicherten-nummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^96b-4]: Eingefügt durch Anhang 1 Ziff. II 85 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 96c
 
@@ -2414,7 +2419,7 @@ Folgende Personen können sich auf der Zugangsplattform für elektronische Diens
 
 <sup>2</sup> …[^96c-8]
 
-<sup>2bis</sup> Soweit es für den Vollzug dieses Gesetzes und des AVG notwendig ist, dürfen Personendaten, einschliesslich besonders schützenswerter Daten und Persönlichkeitsprofile, zwischen den Informationssystemen der Arbeitslosenversicherung (Art. 83 Abs. 1<sup>bis</sup>) und den Informationssystemen der öffentlichen Arbeitsvermittlung (Art. 35 AVG) ausgetauscht werden.[^96c-9]
+<sup>2bis</sup> Soweit es für den Vollzug dieses Gesetzes und des AVG notwendig ist, dürfen Personendaten, einschliesslich besonders schützenswerter Personendaten, zwischen den Informationssystemen der Arbeitslosenversicherung (Art. 83 Abs. 1<sup>bis</sup>) und den Informationssystemen der öffentlichen Arbeitsvermittlung (Art. 35 AVG) ausgetauscht werden.[^96c-9]
 
 <sup>2ter</sup> …[^96c-10]
 
@@ -2428,7 +2433,7 @@ Folgende Personen können sich auf der Zugangsplattform für elektronische Diens
 [^96c-6]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Juli 2021 ([AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [BBl 2019 4413](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 [^96c-7]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Juli 2021 ([AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [BBl 2019 4413](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 [^96c-8]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020, mit Wirkung seit 1. Juli 2021 ([AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [BBl 2019 4413](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^96c-9]: Eingefügt durch Ziff. I des BG vom 19. März 2010 ([AS 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [BBl 2008 7733](https://fedlex.data.admin.ch/eli/fga/2008/1319)). Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Juli 2021 ([AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [BBl 2019 4413](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^96c-9]: Eingefügt durch Ziff. I des BG vom 19. März 2010 ([AS 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [BBl 2008 7733](https://fedlex.data.admin.ch/eli/fga/2008/1319)). Fassung gemäss Anhang 2 Ziff. 4 2 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^96c-10]: Eingefügt durch Ziff. I des BG vom 19. März 2010 ([AS 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [BBl 2008 7733](https://fedlex.data.admin.ch/eli/fga/2008/1319)). Aufgehoben durch Ziff. I des BG vom 19. Juni 2020, mit Wirkung seit 1. Juli 2021 ([AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [BBl 2019 4413](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 
 #### Art. 96d

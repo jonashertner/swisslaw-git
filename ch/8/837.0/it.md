@@ -4,11 +4,11 @@ title: "Legge federale del 25 giugno 1982 sull'assicurazione obbligatoria contro
 short: LADI
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184"
 language: it
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1982-06-25
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20230101/it"
 
 (Legge sull’assicurazione contro la disoccupazione, LADI[^t-1])
 
-del 25 giugno 1982 (Stato 1° gennaio 2023)
+del 25 giugno 1982 (Stato 1° settembre 2023)
 
 [^t-1]: Nuova abbreviazione giusta il n. I della LF del 5 ott. 1990, in vigore dal 1° gen. 1992 ([RU 1991 2125](https://fedlex.data.admin.ch/eli/oc/1991/2125_2125_2125); [FF 1989 III 325](https://fedlex.data.admin.ch/eli/fga/1989/3_377_369_325)). Di questa mod. è tenuto conto in tutto il presente testo.
 
@@ -1860,7 +1860,7 @@ L’ufficio di compensazione:
 - a. contabilizza i contributi pagati al fondo di compensazione dell’assicurazione contro la disoccupazione;
 - b. tiene i conti del fondo di compensazione;
 - c.[^83-1] controlla periodicamente la gestione delle casse e dei servizi cantonali; può delegare il controllo delle casse interamente o parzialmente ai Cantoni o a terzi;
-- c<sup>bis</sup>.[^83-2] verifica l’adempimento dei compiti attribuiti alle casse e ai servizi cantonali;
+- [tab] c<sup>bis</sup>.[^83-2] verifica l’adempimento dei compiti attribuiti alle casse e ai servizi cantonali;
 - d. verifica i pagamenti delle casse o ne affida la revisione, in tutto o in parte, ai Cantoni o a un altro ente;
 - e.[^83-3] impartisce istruzioni ai titolari delle casse e ai servizi cantonali;
 - f.[^83-4] decide le pretese di risarcimento della Confederazione verso il titolare, il Cantone, il datore di lavoro e la cassa di compensazione dell’AVS (art. 82, 85*d*, 88 e 89*a*);
@@ -2373,7 +2373,9 @@ Per adempiere i loro compiti legali, i servizi incaricati di eseguire la present
 
 **Trattamento di dati personali**[^96b-1]
 
-Gli organi incaricati di applicare la presente legge o di controllarne o sorvegliarne l’esecuzione possono trattare o far trattare dati personali, compresi dati degni di particolare protezione e profili della personalità, di cui necessitano per adempiere i compiti conferiti loro dalla presente legge, segnatamente per:[^96b-2]
+<sup>1</sup>
+
+Gli organi incaricati di applicare la presente legge o di controllarne o sorvegliarne l’esecuzione possono trattare o far trattare dati personali, compresi dati personali degni di particolare protezione, di cui necessitano per adempiere i compiti conferiti loro dalla presente legge, segnatamente per:[^96b-2]
 
 - a. registrare, consigliare e collocare gli assicurati che chiedono prestazioni assicurative;
 - b. stabilire il diritto alle prestazioni, nonché calcolarle, versarle e coordinarle con quelle di altre assicurazioni sociali;
@@ -2386,9 +2388,12 @@ Gli organi incaricati di applicare la presente legge o di controllarne o sorvegl
 - i. allestire statistiche;
 - j.[^96b-3] assegnare o verificare il numero d’assicurato dell’AVS.
 
+<sup>2</sup> Per adempiere tali compiti possono inoltre trattare o far trattare dati personali che permettono segnatamente di valutare la situazione personale ed economica del beneficiario di prestazioni dell’assicurazione contro la disoccupazione.[^96b-4]
+
 [^96b-1]: Introdotto dal n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2772](https://fedlex.data.admin.ch/eli/oc/2000/467); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
-[^96b-2]: Nuovo testo giusta l’all. n. 14 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^96b-2]: Nuovo testo giusta l’all. 1 n. II 85 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^96b-3]: Introdotta dall’all. n. 14 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^96b-4]: Introdotto dall’all. 1 n. II 85 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 96c
 
@@ -2417,7 +2422,7 @@ Possono registrarsi sulla piattaforma di accesso ai servizi online (art. 83 cpv.
 
 <sup>2</sup> ...[^96c-8]
 
-<sup>2bis</sup> Se necessario all’esecuzione della presente legge e della LC, è autorizzato lo scambio di dati personali, compresi quelli degni di particolare protezione e profili della personalità, tra i sistemi d’informazione dell’assicurazione contro la disoccupazione (art. 83 cpv. 1<sup>bis</sup>) e del servizio pubblico di collocamento (art. 35 LC).[^96c-9]
+<sup>2bis</sup> Se necessario all’esecuzione della presente legge e della LC, è autorizzato lo scambio di dati personali, compresi quelli degni di particolare protezione, tra i sistemi d’informazione dell’assicurazione contro la disoccupazione (art. 83 cpv. 1<sup>bis</sup>) e del servizio pubblico di collocamento (art. 35 LC).[^96c-9]
 
 <sup>2ter</sup> ... [^96c-10]
 
@@ -2431,7 +2436,7 @@ Possono registrarsi sulla piattaforma di accesso ai servizi online (art. 83 cpv.
 [^96c-6]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 [^96c-7]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 [^96c-8]: Abrogato dal n. I della LF del 19 giu. 2020, con effetto dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^96c-9]: Introdotto dal n. I della LF del 19 mar. 2010 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)). Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^96c-9]: Introdotto dal n. I della LF del 19 mar. 2010 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)). Nuovo testo giusta l’all. 2 n. 4 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^96c-10]: Introdotto dal n. I della LF del 19 mar. 2010 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)). Abrogato dal n. I della LF del 19 giu. 2020, con effetto dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 
 #### Art. 96d
@@ -2459,7 +2464,7 @@ Purché nessun interesse privato preponderante vi si opponga, gli organi incaric
 - a. ad altri organi incaricati di applicare la presente legge, nonché di controllarne o sorvegliarne l’esecuzione, qualora ne necessitino per adempiere i compiti conferiti loro dalla presente legge;
 - a<sup>bis</sup>.[^97a-4] agli organi di esecuzione delle leggi cantonali di aiuto ai disoccupati;
 - b. agli organi di altre assicurazioni sociali, qualora, in deroga all’articolo 32 capoverso 2 LPGA, l’obbligo di comunicazione sia sancito da una legge federale;
-- b<sup>bis</sup>.[^97a-5] agli organi di un’altra assicurazione sociale per assegnare o verificare il numero d’assicurato dell’AVS;
+- [tab] b<sup>bis</sup>.[^97a-5] agli organi di un’altra assicurazione sociale per assegnare o verificare il numero d’assicurato dell’AVS;
 - b<sup>ter</sup>.[^97a-6] alle autorità competenti in materia di stranieri, conformemente all’articolo 97 capoverso 3 della legge federale del 16 dicembre 2005[^97a-7] sugli stranieri e la loro integrazione[^97a-8];
 - c. alle autorità competenti per la riscossione dell’imposta alla fonte, conformemente agli articoli 88 e 100 della legge federale del 14 dicembre 1990[^97a-9] sull’imposta federale diretta, nonché alle rispettive disposizioni cantonali;
 - c<sup>bis</sup>.[^97a-10] alle autorità fiscali cantonali, se il diritto cantonale prevede che il conteggio delle prestazioni sia trasmesso loro direttamente;

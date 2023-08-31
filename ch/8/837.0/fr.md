@@ -4,11 +4,11 @@ title: "Loi fédérale du 25 juin 1982 sur l'assurance-chômage obligatoire et l
 short: LACI
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184"
 language: fr
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1982-06-25
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20230101/fr"
 
 (Loi sur l’assurance-chômage, LACI)
 
-du 25 juin 1982 (État le 1<sup>er</sup> janvier 2023)
+du 25 juin 1982 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -2375,7 +2375,9 @@ Les organes chargés d’appliquer la présente loi sont habilités à utiliser 
 
 **Traitement de données personnelles**[^96b-1]
 
-Les organes chargés d’appliquer la présente loi, d’en contrôler ou surveiller l’exécution sont habilités à traiter et à faire traiter les données personnelles, y compris les données sensibles et les profils de la personnalité, qui leur sont nécessaires pour accomplir les tâches que leur assigne la présente loi, notamment pour:[^96b-2]
+<sup>1</sup>
+
+Les organes chargés d’appliquer la présente loi ou d’en contrôler ou surveiller l’exécution sont habilités à traiter ou à faire traiter les données personnelles, y compris les données sensibles, qui leur sont nécessaires pour accomplir ces tâches que leur assigne la présente loi, notamment pour:[^96b-2]
 
 - a. enregistrer, conseiller et placer les assurés qui demandent des prestations d’assurance;
 - b. établir le droit aux prestations, les calculer, les allouer et les coordonner avec celles d’autres assurances sociales;
@@ -2388,9 +2390,12 @@ Les organes chargés d’appliquer la présente loi, d’en contrôler ou survei
 - i. établir des statistiques;
 - j.[^96b-3] attribuer ou vérifier le numéro AVS.
 
+<sup>2</sup> Pour accomplir ces tâches, ils sont en outre habilités à traiter ou à faire traiter des données personnelles, notamment des données permettant d’évaluer la situation personnelle et économique des bénéficiaires de prestations de l’assurance-chômage.[^96b-4]
+
 [^96b-1]: Introduit par le ch. I de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2772](https://fedlex.data.admin.ch/eli/oc/2000/467); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)).
-[^96b-2]: Nouvelle teneur selon l’annexe ch. 14 de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^96b-2]: Nouvelle teneur selon l’annexe 1 ch. II 85 de LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^96b-3]: Introduite par l’annexe ch. 14 de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^96b-4]: Introduit par l’annexe 1 ch. II 85 de LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 96c
 
@@ -2419,7 +2424,7 @@ Les personnes suivantes peuvent s’enregistrer sur la plateforme d’accès aux
 
 <sup>2</sup> …[^96c-8]
 
-<sup>2bis</sup> L’échange de données personnelles, y compris de données sensibles et de profils de la personnalité, entre les systèmes d’information de l’assurance-chômage (art. 83, al. 1<sup>bis</sup>) et ceux du service public de l’emploi (art. 35 LSE) est autorisé dans la mesure où il est nécessaire à l’exécution de la présente loi et de la LSE.[^96c-9]
+<sup>2bis</sup> L’échange de données personnelles, y compris de données sensibles, entre les systèmes d’information de l’assurance-chômage (art. 83, al. 1<sup>bis</sup>) et ceux du service public de l’emploi (art. 35 LSE) est autorisé dans la mesure où il est nécessaire à l’exécution de la présente loi et de la LSE.[^96c-9]
 
 <sup>2ter</sup> …[^96c-10]
 
@@ -2433,7 +2438,7 @@ Les personnes suivantes peuvent s’enregistrer sur la plateforme d’accès aux
 [^96c-6]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 [^96c-7]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 [^96c-8]: Abrogé par le ch. I de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^96c-9]: Introduit par le ch. I de la LF du 19 mars 2010 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)). Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^96c-9]: Introduit par le ch. I de la LF du 19 mars 2010 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)). Nouvelle teneur selon l’annexe 2 ch. 4 de LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^96c-10]: Introduit par le ch. I de la LF du 19 mars 2010 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)). Abrogé par le ch. I de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 
 #### Art. 96d
