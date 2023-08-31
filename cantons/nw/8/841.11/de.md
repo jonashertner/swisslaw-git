@@ -4,13 +4,13 @@ number: "841.11"
 title: Vollzugsverordnung zum kantonalen Jagdgesetz
 short: "Kantonale Jagdverordnung, kJSV"
 language: de
-version: 2022-04-01
-valid_until: 2023-08-31
-version_adopted: 2022-02-08
+version: 2023-09-01
+valid_until: 2024-05-14
+version_adopted: 2023-05-16
 adopted: 2008-06-02
 in_force: 2008-06-15
 url: "https://gesetze.nw.ch/app/de/texts_of_law/841.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/998/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1151/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/998/pdf_file"
 
 (Kantonale Jagdverordnung, kJSV)
 
-vom 02.06.2008 (Stand 01.04.2022)
+vom 02.06.2008 (Stand 01.09.2023)
 
 Der Regierungsrat von Nidwalden,
 
@@ -59,7 +59,7 @@ beschliesst:
 
 **Wildschadenbericht**
 
-<sup>1</sup> Das Amt für Wald und Energie erstellt jährlich über die Wildschadensituation im Wald bis zum 30. April einen schriftlichen Bericht zu Handen des Amtes.
+<sup>1</sup> Das Amt für Wald und Naturgefahren erstellt jährlich über die Wildschadensituation im Wald bis zum 30. April einen schriftlichen Bericht zu Handen des Amtes.
 
 #### § 3
 
@@ -696,7 +696,7 @@ beschliesst:
 
 **Jagdkommission 1. Zusammensetzung**
 
-<sup>1</sup> Die Vorsteherin oder der Vorsteher der Direktion gehört der Jagdkommission von Amtes wegen als Präsidentin oder Präsident an. Das Amt für Wald und Energie, die Landwirtschaft, der Patentjägerverein Nidwalden und die Fachstelle für Natur- und Landschaftsschutz haben je einen Sitz. Die Wahl der übrigen Mitglieder erfolgt unter angemessener Berücksichtigung der betroffenen Interessen.
+<sup>1</sup> Die Vorsteherin oder der Vorsteher der Direktion gehört der Jagdkommission von Amtes wegen als Präsidentin oder Präsident an. Das Amt für Wald und Naturgefahren, die Landwirtschaft, der Patentjägerverein Nidwalden und die Fachstelle für Natur- und Landschaftsschutz haben je einen Sitz. Die Wahl der übrigen Mitglieder erfolgt unter angemessener Berücksichtigung der betroffenen Interessen.
 
 #### § 53
 
