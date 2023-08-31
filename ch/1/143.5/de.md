@@ -4,11 +4,11 @@ title: Verordnung vom 14. November 2012 über die Ausstellung von Reisedokumente
 short: RDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/713"
 language: de
-version: 2023-02-01
+version: 2023-09-01
 adopted: 2012-11-14
 in_force: 2012-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/713/20230201/de/xml/fedlex-data-admin-ch-eli-cc-2012-713-20230201-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20230201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/713/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2012-713-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20230201/de"
 
 (RDV)
 
-vom 14. November 2012 (Stand am 1. Februar 2023)
+vom 14. November 2012 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -479,17 +479,21 @@ Die Berechtigung zur Abfrage und zur Bearbeitung von Daten des ISR nach Artikel 
 
 **Datenschutz**
 
-<sup>1</sup> Jede ausländische Person kann beim SEM schriftlich Auskunft verlangen, ob Daten über sie im ISR bearbeitet werden.
+<sup>1</sup> Jede ausländische Person kann beim SEM in der Form nach Artikel 16 der Datenschutzverordnung vom 31. August 2022[^30-1] Auskunft verlangen, ob Daten über sie im ISR bearbeitet werden.[^30-2]
 
 <sup>2</sup> Die Auskunft erfolgt schriftlich und ist kostenlos. Sie enthält sämtliche im ISR gespeicherten Daten über die Auskunft verlangende Person.
 
-<sup>3</sup> Für die Verweigerung, die Einschränkung oder das Aufschieben der Auskunft gilt Artikel 9 des Bundesgesetzes vom 19. Juni 1992[^30-1] über den Datenschutz.
+<sup>3</sup> Für die Verweigerung, die Einschränkung oder das Aufschieben der Auskunft gilt Artikel 26 des Datenschutzgesetzes vom 25. September 2020[^30-3] (DSG).[^30-4]
 
 <sup>4</sup> Jede Person kann verlangen, dass unrichtige Daten über sie berichtigt werden.
 
-<sup>5</sup> Weitere Ansprüche der Betroffenen richten sich nach Artikel 25 des Bundesgesetzes vom 19. Juni 1992 über den Datenschutz.
+<sup>5</sup> Weitere Ansprüche der Betroffenen richten sich nach Artikel 41 DSG.[^30-5]
 
-[^30-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^30-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^30-2]: Fassung gemäss Anhang 2 Ziff. II 10 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^30-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^30-4]: Fassung gemäss Anhang 2 Ziff. II 10 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^30-5]: Fassung gemäss Anhang 2 Ziff. II 10 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 31
 
@@ -584,7 +588,6 @@ Abkürzungen
 - [tab] Ausländerbehörden und Passämter
 - Zuständige kantonale und kommunale Behörden (Art. 14–16)
 - Polizeistellen Von den Kantonen bezeichnete Polizeistellen zur Identitätsabklärung und zur Aufnahme von Meldungen verlorener Reisedokumente (Art. 20 Abs. 5 Bst. a dieser Verordnung und Art. 111 Abs. 5 Bst. c AIG)
-- [tab]
 
 [^annex1-lvlu1-1]: [SR 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
 

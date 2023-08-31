@@ -4,11 +4,11 @@ title: Ordinanza del 14 novembre 2012 concernente il rilascio di documenti di vi
 short: ODV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/713"
 language: it
-version: 2023-02-01
+version: 2023-09-01
 adopted: 2012-11-14
 in_force: 2012-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/713/20230201/it/xml/fedlex-data-admin-ch-eli-cc-2012-713-20230201-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20230201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/713/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2012-713-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20230201/it"
 
 (ODV)
 
-del 14 novembre 2012 (Stato 1° febbraio 2023)
+del 14 novembre 2012 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -472,17 +472,21 @@ L’autorizzazione per consultare e trattare i dati dell’ISR secondo l’artic
 
 **Protezione dei dati**
 
-<sup>1</sup> Ogni straniero può domandare per scritto alla SEM se nell’ISR sono elaborati dati che lo riguardano.
+<sup>1</sup> Ogni straniero può domandare alla SEM nella forma prevista dall’articolo 16 dell’ordinanza del 31 agosto 2022[^30-1] sulla protezione dei dati se nell’ISR sono elaborati dati che lo riguardano.[^30-2]
 
 <sup>2</sup> L’informazione è data per scritto ed è gratuita. Comprende tutti i dati sul richiedente memorizzati nell’ISR.
 
-<sup>3</sup> Il rifiuto, la limitazione e il differimento dell’informazione richiesta sono retti dall’articolo 9 della legge federale del 19 giugno 1992[^30-1] sulla protezione dei dati.
+<sup>3</sup> Il rifiuto, la limitazione e il differimento dell’informazione richiesta sono retti dall’articolo 26 della legge federale del 25 giugno 2020[^30-3] sulla protezione dei dati (LPD).[^30-4]
 
 <sup>4</sup> Ogni persona interessata può richiedere la rettifica di dati personali inesatti.
 
-<sup>5</sup> Le altre pretese degli interessati sono rette dall’articolo 25 della legge federale del 19 giugno 1992 sulla protezione dei dati.
+<sup>5</sup> Le altre pretese degli interessati sono rette dall’articolo 41 LPD.[^30-5]
 
-[^30-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^30-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^30-2]: Nuovo testo giusta l’all. 2 n. II 10 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^30-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^30-4]: Nuovo testo giusta l’all. 2 n. II 10 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^30-5]: Nuovo testo giusta l’all. 2 n. II 10 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 31
 

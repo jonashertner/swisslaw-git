@@ -4,11 +4,11 @@ title: "Ordonnance du 14 novembre 2012 sur l'établissement de documents de voya
 short: ODV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/713"
 language: fr
-version: 2023-02-01
+version: 2023-09-01
 adopted: 2012-11-14
 in_force: 2012-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/713/20230201/fr/xml/fedlex-data-admin-ch-eli-cc-2012-713-20230201-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20230201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/713/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2012-713-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20230201/fr"
 
 (ODV)
 
-du 14 novembre 2012 (État le 1<sup>er</sup> février 2023)
+du 14 novembre 2012 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -477,17 +477,21 @@ L’autorisation de consulter ou de traiter des données du système ISR visé �
 
 **Protection des données**
 
-<sup>1</sup> Tout étranger peut demander par écrit au SEM si des données le concernant sont traitées dans le système ISR.
+<sup>1</sup> Tout étranger peut demander au SEM, dans la forme prévue à l’art. 16 de l’ordonnance du 31 août 2022 sur la protection des données[^30-1], si des données le concernant sont traitées dans le système ISR.[^30-2]
 
 <sup>2</sup> Les renseignements sont fournis par écrit et gratuitement. Ils comprennent toutes les données sur l’étranger qui sont enregistrées dans le système ISR.
 
-<sup>3</sup> Le refus, la restriction et le report de la communication des renseignements sont régis par l’art. 9 de la loi fédérale du 19 juin 1992 sur la protection des données[^30-1].
+<sup>3</sup> Le refus, la restriction et le report de la communication des renseignements sont régis par l’art. 26 de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^30-3].[^30-4]
 
 <sup>4</sup> Toute personne peut demander la rectification des données inexactes la concernant.
 
-<sup>5</sup> Les autres droits des intéressés sont régis par l’art. 25 de la loi fédérale du 19 juin 1992 sur la protection des données.
+<sup>5</sup> Les autres droits des intéressés sont régis par l’art. 41 LPD.[^30-5]
 
-[^30-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^30-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^30-2]: Nouvelle teneur selon l’annexe 2 ch. II 10 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^30-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^30-4]: Nouvelle teneur selon l’annexe 2 ch. II 10 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^30-5]: Nouvelle teneur selon l’annexe 2 ch. II 10 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 31
 
