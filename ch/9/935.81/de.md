@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 18. März 2011 über die Psychologieberufe (Psychologie
 short: PsyG
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/268"
 language: de
-version: 2020-02-01
+version: 2023-09-01
 adopted: 2011-03-18
 in_force: 2012-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/268/20200201/de/xml/fedlex-data-admin-ch-eli-cc-2012-268-20200201-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/268/20200201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/268/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2012-268-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/268/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/268/20200201/de"
 
 (Psychologieberufegesetz, PsyG)
 
-vom 18. März 2011 (Stand am 1. Februar 2020)
+vom 18. März 2011 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -66,7 +66,7 @@ Zu diesem Zweck legt es fest:
 Als inländische Hochschulabschlüsse nach diesem Gesetz anerkannt sind die von einer nach dem Universitätsförderungsgesetz vom 8. Oktober 1999[^2-1] beitragsberechtigten oder nach dem Fachhochschulgesetz vom 6. Oktober 1995[^2-2] akkreditierten schweizerischen Hochschule erteilten Master-, Lizentiats- und Diplomabschlüsse in Psychologie.
 
 [^2-1]: [[AS 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146); [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)Anhang Ziff. II 3; [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225); [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)Ziff. II 5; [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76), [3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 18; [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812); [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 10. [AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)Anhang Ziff. I 1]. Siehe heute: das Hochschulförderungs- und -koordinationsgesetz vom 30. Sep. 2011 ([SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)).
-[^2-2]: [[AS 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588); [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171); [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 37; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 11. [AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)Anhang Ziff. I 2]. Siehe heute: das Hochschulförderungs- und ‑koordinationsgesetz vom 30. Sep. 2011 ([SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)).
+[^2-2]: [[AS 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588), [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171), [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 37, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 11. [AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)Anhang Ziff. I 2]. Siehe heute: das Hochschulförderungs- und ‑koordinationsgesetz vom 30. Sep. 2011 ([SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)).
 
 #### Art. 3
 
@@ -511,11 +511,12 @@ Das Register dient:
 
 **Inhalt**
 
-<sup>1</sup> Das Register enthält die Daten, die zur Erreichung des Zwecks benötigt werden. Dazu gehören auch besonders schützenswerte Personendaten im Sinne von Artikel 3 Buchstabe c des Bundesgesetzes vom 19. Juni 1992[^40-1] über den Datenschutz.
+<sup>1</sup> Das Register enthält die Daten, die zur Erreichung des Zwecks benötigt werden. Dazu gehören auch besonders schützenswerte Personendaten im Sinne von Artikel 5 Buchstabe c des Datenschutzgesetzes vom 25. September 2020[^40-1].[^40-2]
 
 <sup>2</sup> Der Bundesrat erlässt nähere Bestimmungen über die im Register enthaltenen Personendaten sowie über deren Bearbeitung.
 
 [^40-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^40-2]: Fassung gemäss Anhang 1 Ziff. II 91 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 41
 
@@ -551,7 +552,7 @@ Das Register dient:
 
 <sup>4</sup> Alle Einträge zu einer Person werden aus dem Register entfernt, sobald eine Behörde deren Ableben meldet. Die Daten können danach in anonymisierter Form für statistische Zwecke verwendet werden.[^43-1]
 
-[^43-1]: Fassung gemäss Ziff. II 2 des BG vom 20. März 2015, in Kraft seit 1. Jan. 2018 ([AS 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [BBl 2013 6205](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^43-1]: Fassung gemäss Ziff. II 2 des BG vom 20. März 2015, in Kraft seit 1. Jan. 2018 ([AS 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [BBl 2013 6205](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 
 ## 7. Kapitel: Rechtsschutz und Strafbestimmungen
 
@@ -642,5 +643,5 @@ Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
 Inkrafttreten:[^50-1] 1. April 2013 Artikel 36 und 37: 1. Mai 2012, Art. 38-43:[^50-2] 1. August 2016.
 
-[^50-1]: V vom 15. März 2013 ([AS 2013 915](https://fedlex.data.admin.ch/eli/oc/2013/185)).
-[^50-2]: V vom 6. Juli 2016 ([AS 2016 2601](https://fedlex.data.admin.ch/eli/oc/2016/408)).
+[^50-1]: V vom 15. März 2013 ([AS 2013 915](https://fedlex.data.admin.ch/eli/oc/2013/185))
+[^50-2]: V vom 6. Juli 2016 ([AS 2016 2601](https://fedlex.data.admin.ch/eli/oc/2016/408))

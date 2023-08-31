@@ -4,11 +4,11 @@ title: "Loi fédérale du 18 mars 2011 sur les professions relevant du domaine d
 short: LPsy
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/268"
 language: fr
-version: 2020-02-01
+version: 2023-09-01
 adopted: 2011-03-18
 in_force: 2012-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/268/20200201/fr/xml/fedlex-data-admin-ch-eli-cc-2012-268-20200201-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/268/20200201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/268/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2012-268-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/268/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/268/20200201/fr"
 
 (Loi sur les professions de la psychologie, LPsy)[^t-1]
 
-du 18 mars 2011 (État le 1<sup>er</sup> février 2020)
+du 18 mars 2011 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -51,7 +51,7 @@ La présente loi vise les buts suivants:
 - c. les conditions d’obtention d’un titre postgrade fédéral;
 - d. l’accréditation périodique des filières de formation postgrade;
 - e. la reconnaissance de diplômes et de titres postgrades étrangers;
-- f. les exigences liées à l’exercice de la profession de psychothérapeute …[^1-1], sous sa propre responsabilité professionnelle;
+- f. les exigences liées à l’exercice de la profession de psychothérapeute ...[^1-1], sous sa propre responsabilité professionnelle;
 - g. les conditions d’utilisation des dénominations professionnelles protégées et des titres postgrades fédéraux.
 
 <sup>3</sup> La formation postgrade en psychothérapie et l’exercice de la profession dans ce domaine sont régis, pour les titulaires d’un diplôme fédéral en médecine humaine, par la loi du 23 juin 2006 sur les professions médicales[^1-2].
@@ -67,8 +67,8 @@ La présente loi vise les buts suivants:
 
 Sont reconnus en vertu de la présente loi les masters, licences et diplômes en psychologie délivrés par une haute école suisse ayant droit aux subventions au sens de la loi du 8 octobre 1999 sur l’aide aux universités[^2-1] ou par une haute école suisse accréditée au sens de la loi fédérale du 6 octobre 1995 sur les hautes écoles spécialisées[^2-2].
 
-[^2-1]: [[RO 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146); [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)annexe ch. II 3; [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225); [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)ch. II 5; [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76), [3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. II 18; [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812); [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 10. [RO 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)annexe ch. I 1]. Voir actuellement la LF du 30 sept. 2011 sur l’encouragement et la coordination des hautes écoles ([RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)).
-[^2-2]: [[RO 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588); [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171); [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 37; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 11. [RO 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)annexe ch. I 2]. Voir actuellement la LF du 30 sept. 2011 sur l’encouragement et la coordination des hautes écoles ([RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)).
+[^2-1]: [[RO 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146), [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)annexe ch. II 3, [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225), [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)ch. II 5, [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76)[3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. II 18, [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812), [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 10. [RO 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)annexe ch. I 1]. Voir actuellement la LF du 30 sept. 2011 sur l’encouragement et la coordination des hautes écoles ([RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)).
+[^2-2]: [[RO 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588), [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171), [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 37, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 11. [RO 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)annexe ch. I 2]. Voir actuellement la LF du 30 sept. 2011 sur l’encouragement et la coordination des hautes écoles ([RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)).
 
 #### Art. 3
 
@@ -302,7 +302,7 @@ L’accréditation des filières de formation postgrade est financée par des é
 
 <sup>1</sup> Pour exercer sa profession sous sa propre responsabilité professionnelle, le psychothérapeute doit avoir obtenu une autorisation du canton sur le territoire duquel il exerce.
 
-<sup>2</sup> …[^22-1]
+<sup>2</sup> ...[^22-1]
 
 [^22-1]: Abrogé par l’annexe ch. 6 de la LF du 30 sept. 2016 sur les professions de la santé, avec effet au 1<sup>er</sup> fév. 2020 ([RO 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [FF 2015 7925](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
 
@@ -513,11 +513,12 @@ Les buts du registre sont les suivants:
 
 **Contenu**
 
-<sup>1</sup> Le registre contient les données nécessaires à la poursuite des buts fixés. Les données sensibles au sens de l’art. 3, let. c, de la loi fédérale du 19 juin 1992 sur la protection des données[^40-1] en font partie.
+<sup>1</sup> Le registre contient les données nécessaires à la poursuite des buts fixés. Les données sensibles au sens de l’art. 5, let. c, de la loi fédérale du 25 septembre 2020 sur la protection des données[^40-1] en font partie.[^40-2]
 
 <sup>2</sup> Le Conseil fédéral édicte des dispositions sur les données personnelles contenues dans le registre et sur les modalités de leur traitement.
 
 [^40-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^40-2]: Nouvelle teneur selon l’annexe 1 ch. II 91 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 41
 
@@ -553,7 +554,7 @@ Les buts du registre sont les suivants:
 
 <sup>4</sup> Toutes les inscriptions relatives à une personne sont éliminées du registre dès qu’une autorité annonce son décès. Les données peuvent être ensuite utilisées à des fins statistiques sous une forme anonymisée.[^43-1]
 
-[^43-1]: Nouvelle teneur selon le ch. II 2 de la LF du 20 mars 2015, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5583](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^43-1]: Nouvelle teneur selon le ch. II 2 de la LF du 20 mars 2015, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5583](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 
 ## Chapitre 7 Voies de droit et dispositions pénales
 

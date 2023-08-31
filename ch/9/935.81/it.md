@@ -4,11 +4,11 @@ title: Legge federale del 18 marzo 2011 sulle professioni psicologiche (LPPsi)
 short: LPPsi
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/268"
 language: it
-version: 2020-02-01
+version: 2023-09-01
 adopted: 2011-03-18
 in_force: 2012-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/268/20200201/it/xml/fedlex-data-admin-ch-eli-cc-2012-268-20200201-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/268/20200201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/268/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2012-268-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/268/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/268/20200201/it"
 
 (LPPsi)
 
-del 18 marzo 2011 (Stato 1° febbraio 2020)
+del 18 marzo 2011 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -49,7 +49,7 @@ A tal fine disciplina:
 - c. le condizioni per ottenere un titolo federale di perfezionamento;
 - d. l’accreditamento periodico dei cicli di perfezionamento;
 - e. il riconoscimento dei diplomi e dei titoli di perfezionamento esteri;
-- f. le esigenze che lo psicoterapeuta deve adempiere per esercitare la psicoterapia …[^1-1] sotto la propria responsabilità professionale;
+- f. le esigenze che lo psicoterapeuta deve adempiere per esercitare la psicoterapia ...[^1-1] sotto la propria responsabilità professionale;
 - g. le condizioni per l’impiego di denominazioni professionali protette e titoli federali di perfezionamento.
 
 <sup>3</sup> Per i titolari di un diploma federale in medicina umana, il perfezionamento in psicoterapia e l’esercizio della professione in tale settore sono retti dalla legge del 23 giugno 2006[^1-2] sulle professioni mediche.
@@ -66,7 +66,7 @@ A tal fine disciplina:
 Sono riconosciuti conformemente alla presente legge i diplomi di master, le licenze e i diplomi in psicologia rilasciati da una scuola universitaria svizzera che ha diritto ai sussidi secondo la legge dell’8 ottobre 1999[^2-1] sull’aiuto alle università o è accreditata secondo la legge del 6 ottobre 1995[^2-2] sulle scuole universitarie professionali.
 
 [^2-1]: [[RU 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146); [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)all. n. II 3; [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225); [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)n. II 5; [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76), [3437](https://fedlex.data.admin.ch/eli/oc/2008/447)n. II 18; [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812); [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)n. I 10. [RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)all. n. I 1]. Vedi ora la LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero ([RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)).
-[^2-2]: [[RU 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588); [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171); [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 37; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)n. I 11. [RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)all. n. I 2]. Vedi ora la LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero ([RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)).
+[^2-2]: [[RU 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588), [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171), [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 37, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)n. I 11. [RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)all. n. I 2]. Vedi ora la LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero ([RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)).
 
 #### Art. 3
 
@@ -300,7 +300,7 @@ Le spese per l’accreditamento di un ciclo di perfezionamento sono finanziate c
 
 <sup>1</sup> Chi intende esercitare la psicoterapia sotto la propria responsabilità professionale deve chiedere l’autorizzazione del Cantone sul cui territorio intende esercitare.
 
-<sup>2</sup> …[^22-1]
+<sup>2</sup> ...[^22-1]
 
 [^22-1]: Abrogato dall’all. n. 6 della LF del 30 set. 2016 sulle professioni sanitarie, con effetto dal 1° feb. 2020 ([RU 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [FF 2015 7125](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
 
@@ -515,11 +515,12 @@ Il registro ha lo scopo di:
 
 **Contenuto**
 
-<sup>1</sup> Il registro contiene i dati necessari al conseguimento dello scopo. Vi rientrano anche dati personali degni di particolare protezione ai sensi dell’articolo 3 lettera c della legge federale del 19 giugno 1992[^40-1] sulla protezione dei dati.
+<sup>1</sup> Il registro contiene i dati necessari al conseguimento dello scopo. Vi rientrano anche dati personali degni di particolare protezione ai sensi dell’articolo 5 lettera c della legge federale del 25 settembre 2020[^40-1] sulla protezione dei dati.[^40-2]
 
 <sup>2</sup> Il Consiglio federale emana disposizioni dettagliate sui dati personali contenuti nel registro e sul loro trattamento.
 
 [^40-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^40-2]: Nuovo testo giusta l’all. 1 n. II 91della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 41
 
@@ -555,7 +556,7 @@ Il registro ha lo scopo di:
 
 <sup>4</sup> Tutte le iscrizioni relative a una persona sono eliminate dal registro non appena un’autorità ne annuncia il decesso. I dati, anonimizzati, possono in seguito essere utilizzati a fini statistici.[^43-1]
 
-[^43-1]: Nuovo testo giusta il n. II 2 della LF del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833); [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
+[^43-1]: Nuovo testo giusta il n. II 2 della LF del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 
 ## Capitolo 7: Tutela giurisdizionale e disposizioni penali
 
@@ -608,7 +609,9 @@ Il Consiglio federale emana le disposizioni esecutive.
 
 **Modifica del diritto vigente**
 
-…[^48-1]
+Le leggi federali qui appresso sono modificate come segue:
+
+...[^48-1]
 
 [^48-1]: Le mod. possono essere consultate alla [RU 2012 1929](https://fedlex.data.admin.ch/eli/oc/2012/268).
 
