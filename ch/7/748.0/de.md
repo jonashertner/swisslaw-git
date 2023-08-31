@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 21. Dezember 1948 über die Luftfahrt (Luftfahrtgesetz,
 short: LFG
 eli: "https://fedlex.data.admin.ch/eli/cc/1950/471_491_479"
 language: de
-version: 2023-08-01
+version: 2023-09-01
 adopted: 1948-12-21
 in_force: 1950-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20230801/de/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20230801-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20230801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20230901-de-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20230801/de"
 
 (Luftfahrtgesetz, LFG)[^t-1]
 
-vom 21. Dezember 1948 (Stand am 1. August 2023)
+vom 21. Dezember 1948 (Stand am 1. September 2023)
 
 [^t-1]: Abkürzung eingefügt gemäss Ziff. I des BG vom 24. Juni 1977, in Kraft seit 1. Jan. 1978 ([AS 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [BBl 1976 III 1232](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
 
@@ -539,12 +539,17 @@ Fedpol bearbeitet in einem Informationssystem Daten, die zur Erstellung von Risi
 Im Informationssystem werden folgende Daten über sicherheitsrelevante Ereignisse und damit in Verbindung stehende mögliche Gefährder bearbeitet:
 
 - a. Personendaten betreffend die Identität und die öffentlich zugänglichen Kontaktdaten, insbesondere aus sozialen Netzwerken;
-- b. Personendaten, die für die Beurteilung der Gefährdung des internationalen gewerbsmässigen Luftverkehrs notwendig sind, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, wie Informationen über den Gesundheitszustand, über Verurteilungen oder hängige Straf- oder Verwaltungsverfahren und über die Zugehörigkeit zu kriminellen oder terroristischen Gruppierungen;
+- b.[^21c-2] Personendaten, die für die Beurteilung der Gefährdung des internationalen gewerbsmässigen Luftverkehrs notwendig sind, einschliesslich besonders schützenswerter Personendaten, wie Informationen über den Gesundheitszustand, über Verurteilungen oder hängige Straf- oder Verwaltungsverfahren und über die Zugehörigkeit zu kriminellen oder terroristischen Gruppierungen;
 - c. Ton- und Bildaufzeichnungen.
+
+<sup>1bis</sup> Zur Beurteilung des Gefährlichkeitsgrades der in Absatz 1 genannten Personen ist fedpol zum Profiling, einschliesslich zum Profiling mit hohem Risiko, nach dem Datenschutzgesetz vom 25. September 2020[^21c-3] befugt.[^21c-4]
 
 <sup>2</sup> Zudem werden im Informationssystem Personendaten betreffend die Identität der einsetzbaren Sicherheitsbeauftragten bearbeitet.
 
 [^21c-1]: Eingefügt durch Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^21c-2]: Fassung gemäss Anhang 1 Ziff. II 65 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^21c-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^21c-4]: Eingefügt durch Anhang 1 Ziff. II 65 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### c. Zugriffsrechte und Datenweitergabe
 
@@ -1355,22 +1360,22 @@ Soweit es die militärischen Interessen erlauben, sind die bundeseigenen Flugpl�
 
 Die Gebühren umfassen insbesondere folgende Kategorien:
 
-- [tab] a. Passagiergebühren;
-- [tab] b. Sicherheitsgebühren;
-- [tab] c. Landegebühren;
-- [tab] d. Abstellgebühren;
-- [tab] e. Lärm- und Emissions-Zuschläge;
-- [tab] f. Nutzungsentgelte für die Benutzung zentraler Infrastruktur;
-- [tab] g. Zugangsentgelte für die Flughafenanlagen.
+- a. Passagiergebühren;
+- b. Sicherheitsgebühren;
+- c. Landegebühren;
+- d. Abstellgebühren;
+- e. Lärm- und Emissions-Zuschläge;
+- f. Nutzungsentgelte für die Benutzung zentraler Infrastruktur;
+- g. Zugangsentgelte für die Flughafenanlagen.
 
 <sup>4</sup>
 
 Der Flughafenhalter berücksichtigt bei der Festlegung der Gebühren namentlich die folgenden Kriterien:
 
-- [tab] a. höchstzulässiges Abfluggewicht des Luftfahrzeugs;
-- [tab] b. Passagierzahl;
-- [tab] c. Lärmerzeugung;
-- [tab] d. Schadstoffemission.
+- a. höchstzulässiges Abfluggewicht des Luftfahrzeugs;
+- b. Passagierzahl;
+- c. Lärmerzeugung;
+- d. Schadstoffemission.
 
 <sup>5</sup> Die Gebühren dürfen insgesamt maximal in solcher Höhe festgesetzt werden, dass sie die ausgewiesenen Kosten unter Berücksichtigung einer angemessenen Verzinsung des investierten Kapitals nicht übersteigen.
 
@@ -2606,7 +2611,7 @@ Die Wettbewerbskommission prüft, ob mit Artikel 13 des Abkommens vom 21. Juni 1
 
 <sup>3</sup> Die für den Beschluss zuständigen Behörden berücksichtigen das Ergebnis der Prüfung.
 
-[^103-1]: Aufgehoben durch Ziff. I des BG vom 26. Juni 1998 ([AS 1998 2566](https://fedlex.data.admin.ch/eli/oc/1998/2566_2566_2566); [BBl 1997 III 1181](https://fedlex.data.admin.ch/eli/fga/1997/3_1181_1058_982)). Fassung gemäss Ziff. I des BG vom 19. März 2004, in Kraft seit 1. Sept. 2004 ([AS 2004 3867](https://fedlex.data.admin.ch/eli/oc/2004/534); [BBl 2003 6241](https://fedlex.data.admin.ch/eli/fga/2003/998)).
+[^103-1]: Fassung gemäss Ziff. I des BG vom 19. März 2004, in Kraft seit 1. Sept. 2004 ([AS 2004 3867](https://fedlex.data.admin.ch/eli/oc/2004/534); [BBl 2003 6241](https://fedlex.data.admin.ch/eli/fga/2003/998)).
 [^103-2]: [SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
 [^103-3]: Fassung gemäss Ziff. I des BG vom 6. Mai 2020, in Kraft vom 7. Mai 2020 bis zum 31. Dez. 2025 ([AS 2020 1493](https://fedlex.data.admin.ch/eli/oc/2020/295); [BBl 2020 3667](https://fedlex.data.admin.ch/eli/fga/2020/864)).
 
@@ -2666,9 +2671,9 @@ Die Bestimmungen der Fernmeldegesetzgebung bleiben vorbehalten.
 
 ### 1. Anwendbarkeit der Bestimmungen für die Zivilluftfahrt auf die Militärluftfahrt
 
-[^part4-lvlIIIa-lvl1-1]
+[^part4-lvlIII-lvl1-1]
 
-[^part4-lvlIIIa-lvl1-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 18. März 2022, in Kraft seit 1. Aug. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^part4-lvlIII-lvl1-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 18. März 2022, in Kraft seit 1. Aug. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 106
 
@@ -2707,7 +2712,7 @@ Der Bundesrat regelt für die Militärluftfahrt:
 
 <sup>2</sup>
 
-Bearbeitet werden Personendaten, einschliesslich besonders schützenswerter Daten und Persönlichkeitsprofile, betreffend:
+Bearbeitet werden Personendaten, einschliesslich besonders schützenswerter Personendaten, betreffend:[^107a-2]
 
 - a.
 
@@ -2730,15 +2735,19 @@ Bearbeitet werden im Weiteren Personendaten betreffend:
 - e. Betreiber von Infrastrukturanlagen;
 - f. Erbringer von Flugsicherungsdiensten.
 
-<sup>4</sup> Die Erbringer der zivilen Flugsicherungsdienstleistungen betreiben für die Zwecke der Untersuchung von Flugunfällen und schweren Vorfällen bei Flugverkehrsstellen ein System zur Aufzeichnung von Hintergrundgesprächen und -geräuschen. Der Bundesrat regelt die Verantwortung für die Datensammlung, das Auswertungsverfahren, die Datenempfänger, die Aufbewahrungsdauer und die Vernichtung der Daten sowie die technischen und organisatorischen Schutzmassnahmen.[^107a-2]
+<sup>4</sup> Die Erbringer der zivilen Flugsicherungsdienstleistungen betreiben für die Zwecke der Untersuchung von Flugunfällen und schweren Vorfällen bei Flugverkehrsstellen ein System zur Aufzeichnung von Hintergrundgesprächen und -geräuschen.[^107a-3] Der Bundesrat regelt die Verantwortung für die Datenbeschaffung, das Auswertungsverfahren, die Datenempfänger, die Aufbewahrungsdauer und die Vernichtung der Daten sowie die technischen und organisatorischen Schutzmassnahmen.[^107a-4]
 
-<sup>5</sup> Die datenbearbeitenden Stellen können zum Vollzug ihrer gesetzlichen Aufgaben den mit entsprechenden Aufgaben betrauten in- und ausländischen Behörden sowie internationalen Organisationen Personendaten, einschliesslich besonders schützenswerter Daten und Persönlichkeitsprofile, bekannt geben, wenn diese Behörden und Organisationen einen angemessenen Schutz der übermittelten Daten gewährleisten.
+<sup>5</sup> Die Daten bearbeitenden Stellen können zum Vollzug ihrer gesetzlichen Aufgaben den mit entsprechenden Aufgaben betrauten in- und ausländischen Behörden sowie internationalen Organisationen Personendaten, einschliesslich besonders schützenswerter Personendaten, bekannt geben, wenn die Voraussetzungen nach Artikel 16 des Datenschutzgesetzes vom 25. September 2020[^107a-5] erfüllt sind.[^107a-6]
 
-<sup>6</sup> Das BAZL informiert die betroffenen Flughafenhalter über Meldungen und Stellungnahmen, die ihm gestützt auf Artikel 100 Absätze 2 und 3 zugegangen sind, sofern deren Inhalt zum Entzug von Bewilligungen, Erlaubnissen und Ausweisen von im Sicherheitsbereich des Flughafens tätigen Personen Anlass geben könnte.[^107a-3]
+<sup>6</sup> Das BAZL informiert die betroffenen Flughafenhalter über Meldungen und Stellungnahmen, die ihm gestützt auf Artikel 100 Absätze 2 und 3 zugegangen sind, sofern deren Inhalt zum Entzug von Bewilligungen, Erlaubnissen und Ausweisen von im Sicherheitsbereich des Flughafens tätigen Personen Anlass geben könnte.[^107a-7]
 
 [^107a-1]: Eingefügt durch Ziff. I 13 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591). Fassung gemäss Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. April 2011 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^107a-2]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^107a-3]: Eingefügt durch Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^107a-2]: Fassung gemäss Anhang 1 Ziff. II 65 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^107a-3]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^107a-4]: Fassung des zweiten Satzes gemäss Anhang 1 Ziff. II 65 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^107a-5]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^107a-6]: Fassung gemäss Anhang 1 Ziff. II 65 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^107a-7]: Eingefügt durch Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 ### 2. Zugriffsrechte
 
@@ -2825,11 +2834,13 @@ Die zuständige kantonale Polizeistelle kann zur Abklärung des Sicherheitsrisik
 - a. Daten aus dem Strafregister erheben, einschliesslich Daten über hängige Strafverfahren;
 - b. beim Nachrichtendienst des Bundes Auskünfte einholen.
 
-<sup>3</sup> Sie kann Daten, die für die Zuverlässigkeitsüberprüfung benötigt werden, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofilen, bei einer ausländischen Polizeistelle einholen und die Daten bearbeiten, sofern der angemessene Schutz der übermittelten Daten gewährleistet ist.
+<sup>3</sup> Sie kann Daten, die für die Zuverlässigkeitsüberprüfung benötigt werden, einschliesslich besonders schützenswerter Personendaten, bei einer ausländischen Polizeistelle einholen und die Daten bearbeiten, sofern der angemessene Schutz der übermittelten Daten gewährleistet ist.[^108c-2]
 
-<sup>4</sup> Sie übermittelt dem Flughafenhalter und dem Luftverkehrsunternehmen die Daten, die für den Erlass der Verfügung nach Artikel 108*b* Absatz 3 benötigt werden, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofilen.
+<sup>4</sup> Sie übermittelt dem Flughafenhalter und dem Luftverkehrsunternehmen die Daten, die für den Erlass der Verfügung nach Artikel 108*b* Absatz 3 benötigt werden, einschliesslich besonders schützenswerter Personendaten.[^108c-3]
 
 [^108c-1]: Eingefügt durch Ziff. I 11 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Jan. 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^108c-2]: Fassung gemäss Anhang Ziff. 2 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Sept. 2023 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^108c-3]: Fassung gemäss Anhang Ziff. 2 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Sept. 2023 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 ### 3. Empfehlung
 

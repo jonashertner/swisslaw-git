@@ -4,11 +4,11 @@ title: Legge federale del 21 dicembre 1948 sulla navigazione aerea (LNA)
 short: LNA
 eli: "https://fedlex.data.admin.ch/eli/cc/1950/471_491_479"
 language: it
-version: 2023-08-01
+version: 2023-09-01
 adopted: 1948-12-21
 in_force: 1950-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20230801/it/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20230801-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20230801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20230901-it-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20230801/it"
 
 (LNA[^t-1])
 
-del 21 dicembre 1948 (Stato 1° agosto 2023)
+del 21 dicembre 1948 (Stato 1° settembre 2023)
 
 [^t-1]: Abbreviazione introdotta dal n. I della LF del 24 giu. 1977, in vigore dal 1° gen. 1978 ([RU 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [FF 1976 III 1235](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
 
@@ -103,10 +103,6 @@ Nei limiti delle competenze della Confederazione, il Consiglio federale ha la vi
 [^3-3]: Introdotto dall’all. n. 5 della LF del 18 mar. 2022, in vigore dal 1° ago. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 ### 1*a*. Accordi internazionali
-
-[^part1-tit1-chap1-lvlII-lvl1a-1]
-
-[^part1-tit1-chap1-lvlII-lvl1a-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 #### Art. 3a
 
@@ -549,12 +545,17 @@ Fedpol elabora in un sistema d’informazione i dati necessari allo svolgimento 
 Nel sistema d’informazione sono trattati i seguenti dati relativi a eventi rilevanti per la sicurezza e a individui potenzialmente pericolosi che vi sono implicati:
 
 - a. dati personali concernenti l’identità e dati di contatto pubblicamente accessibili, segnatamente dati provenienti da reti sociali;
-- b. dati personali che sono necessari per valutare il pericolo per il traffico aereo commerciale internazionale, compresi i dati personali degni di particolare protezione e i profili della personalità, come informazioni relative allo stato di salute, alle condanne o alle procedure penali o amministrative pendenti e all’appartenenza a gruppi criminali o terroristici;
+- b.[^21c-2] dati personali che sono necessari per valutare il pericolo per il traffico aereo commerciale internazionale, compresi i dati personali degni di particolare protezione, come informazioni relative allo stato di salute, alle condanne o alle procedure penali o amministrative pendenti e all’appartenenza a gruppi criminali o terroristici;
 - c. registrazioni di immagini e suoni.
+
+<sup>1bis</sup> Per valutare la pericolosità degli individui di cui al capoverso 1, fedpol è autorizzata a effettuare profilazioni, incluse quelle a rischio elevato, ai sensi della legge federale del 25 settembre 2020[^21c-3] sulla protezione dei dati.[^21c-4]
 
 <sup>2</sup> Nel sistema d’informazione sono inoltre trattati i dati personali relativi all’identità delle guardie di sicurezza che possono essere impiegate.
 
 [^21c-1]: Introdotto dal n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^21c-2]: Nuovo testo giusta l’all. 1 n. II 65 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^21c-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^21c-4]: Introdotto dall’all. 1 n. II 65 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### c. Diritti di accesso e trasmissione dei dati
 
@@ -744,13 +745,13 @@ Per chiarire i fatti, la segreteria può ordinare:
 
 [^26c-1]
 
-[^26c-1]: Introdotto dal n. I della LF del 18 giu. 1993 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Abrogato dal n. I della LF del 1° ott. 2010, con effetto dal 1° nov. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165), [4573](https://fedlex.data.admin.ch/eli/oc/2011/648); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^26c-1]: Introdotto dal n. I della LF del 18 giu. 1993 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Abrogato dal n. I della LF del 1° ott. 2010, con effetto dal 1° nov. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165)[4573](https://fedlex.data.admin.ch/eli/oc/2011/648); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 ### IX..Traffico aereo commerciale
 
 ### 1..Imprese con sede in Svizzera
 
-### a. Auto-rizzazione di esercizio
+### a. Autorizzazione di esercizio
 
 #### Art. 27
 
@@ -928,7 +929,7 @@ Nella misura in cui gli accordi internazionali non prevedano altrimenti, il tras
 
 [^36a-1]: Introdotto dal n. I 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
-### b. Auto- rizzazione d’esercizio
+### b. Autorizzazione d’esercizio
 
 #### Art. 36b
 
@@ -1687,7 +1688,7 @@ L’interessato deve far valere le proprie pretese entro cinque anni dalla pubbl
 
 #### Art. 44b
 
-[^44b-1]
+[^44b-1][^44b-2]
 
 <sup>1</sup> Gli articoli 42 a 44 e 47 non si applicano agli aerodromi non adibiti al traffico pubblico.
 
@@ -1695,7 +1696,8 @@ L’interessato deve far valere le proprie pretese entro cinque anni dalla pubbl
 
 <sup>3</sup> Se non è possibile garantire in questo modo l’osservanza delle prescrizioni pertinenti, l’autorizzazione di esercitare l’aerodromo è negata o revocata.
 
-[^44b-1]: Originario art. 44<sup>ter</sup>. Introdotto dal n. I della LF del 17 dic. 1971, in vigore dal 1° gen. 1974 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
+[^44b-1]: Originario art. 44<sup>ter</sup>.
+[^44b-2]: Introdotto dal n. I della LF del 17 dic. 1971, in vigore dal 1° gen. 1974 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
 
 ### V. Ripartizione delle spese
 
@@ -1780,13 +1782,13 @@ I fornitori di servizi della sicurezza aerea riscuotono tasse per garantire la s
 
 <sup>6</sup> Le tasse per i servizi della sicurezza aerea devono essere approvate dal DATEC.
 
-<sup>7</sup> Il Consiglio federale stabilisce:
+<sup>7</sup>
 
-a. quali voli sono esentati dalle tasse per i servizi della sicurezza aerea;
+Il Consiglio federale stabilisce:
 
-b. quali sono i costi dei servizi della sicurezza aerea a carico della Confederazione;
-
-c. a quali condizioni un esercente di aerodromo può essere autorizzato a stabilire e a riscuotere tasse per i servizi della sicurezza aerea senza fornire egli stesso tali servizi.
+- a. quali voli sono esentati dalle tasse per i servizi della sicurezza aerea;
+- b. quali sono i costi dei servizi della sicurezza aerea a carico della Confederazione;
+- c. a quali condizioni un esercente di aerodromo può essere autorizzato a stabilire e a riscuotere tasse per i servizi della sicurezza aerea senza fornire egli stesso tali servizi.
 
 [^49-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)), i cpv. 3 - 5 entrano in vigore il 1° ago. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165)n. V cpv. 2 [3467](https://fedlex.data.admin.ch/eli/oc/2011/469)).
 
@@ -2173,7 +2175,7 @@ Sono esclusi dal sequestro conservativo:
 
 <sup>2</sup> Le disposizioni del presente articolo non si applicano al sequestro conservativo domandato dal proprietario spossessato del suo aeromobile mediante atto illecito.
 
-### III.a V. …
+### III.a V. ….
 
 #### Art. 82 a 84
 
@@ -2682,15 +2684,15 @@ Sono fatte salve le disposizioni della legislazione sulle telecomunicazioni.
 
 <sup>2</sup> Chi esercita un aerodromo o un idroscalo è tenuto a mettere a disposizione i locali necessari per le operazioni doganali.
 
+### III. Aviazione militare
+
 ### 1. Applicabilità all’aviazione militare di disposizioni applicabili all’aviazione civile
 
-[^part4-lvlII-lvl1-1]
+[^part4-lvlIII-lvl1-1]
 
-[^part4-lvlII-lvl1-1]: Nuovo testo giusta l’all. n. 5 della LF del 18 mar. 2022, in vigore dal 1° ago. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^part4-lvlIII-lvl1-1]: Nuovo testo giusta l’all. n. 5 della LF del 18 mar. 2022, in vigore dal 1° ago. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 106
-
-III. Aviazione militare
 
 <sup>1</sup> La Confederazione risponde soltanto conformemente agli articoli 64 a 74 e 77 a 79 dei danni cagionati da aeromobili militari svizzeri a persone ed a beni che si trovano a terra.
 
@@ -2710,7 +2712,6 @@ III. Aviazione militare
 Per l’aviazione militare il Consiglio federale disciplina:
 
 - a. le norme per i sistemi aeronautici e le infrastrutture;
-
 - b. le operazioni di volo;
 - c. la gestione della sicurezza.
 
@@ -2726,13 +2727,17 @@ Per l’aviazione militare il Consiglio federale disciplina:
 
 <sup>1</sup> L’UFAC, le autorità di ricorso come pure le altre autorità e organizzazioni private incaricate di compiti in virtù della presente legge trattano i dati personali necessari all’adempimento del loro mandato legale.
 
-<sup>2</sup> Sono trattati dati personali, inclusi dati degni di particolare protezione e profili della personalità, concernenti:
+<sup>2</sup>
 
-a. le persone attive nell’aviazione civile, che riguardano:
+Sono trattati dati personali, compresi dati personali degni di particolare protezione, concernenti:[^107a-2]
 
-- 1\. l’attitudine caratteriale (buona condotta, estratto del casellario giudiziale e risultati di eventuali accertamenti supplementari),
-- 2\. la capacità (formazione scolastica e specialistica, percorso professionale, qualifiche, infortuni e incidenti),
-- 3\. la salute (esami concernenti l’idoneità fisica e l’attitudine psichica);
+- a.
+
+  le persone attive nell’aviazione civile, che riguardano:
+
+  - 1\. l’attitudine caratteriale (buona condotta, estratto del casellario giudiziale e risultati di eventuali accertamenti supplementari),
+  - 2\. la capacità (formazione scolastica e specialistica, percorso professionale, qualifiche, infortuni e incidenti),
+  - 3\. la salute (esami concernenti l’idoneità fisica e l’attitudine psichica);
 
 - b. procedimenti amministrativi e penali e sanzioni secondo la legislazione sull’aviazione civile.
 
@@ -2747,15 +2752,18 @@ Sono inoltre trattati dati personali concernenti:
 - e. gestori di impianti infrastrutturali;
 - f. fornitori di servizi della sicurezza aerea.
 
-<sup>4</sup> Ai fini delle inchieste sugli infortuni aeronautici e gli incidenti gravi, i fornitori di servizi della sicurezza aerea civile gestiscono un sistema di registrazione di conversazioni e rumori di fondo in ambienti adibiti al traffico aereo. Il Consiglio federale disciplina le responsabilità per la raccolta dei dati, la procedura di valutazione, i destinatari dei dati, la durata di conservazione e la distruzione dei dati, nonché le misure tecniche e organizzative di protezione.[^107a-2]
+<sup>4</sup> Ai fini delle inchieste sugli infortuni aeronautici e gli incidenti gravi, i fornitori di servizi della sicurezza aerea civile gestiscono un sistema di registrazione di conversazioni e rumori di fondo in ambienti adibiti al traffico aereo. Il Consiglio federale disciplina le responsabilità per la raccolta dei dati, la procedura di valutazione, i destinatari dei dati, la durata di conservazione e la distruzione dei dati, nonché le misure tecniche e organizzative di protezione.[^107a-3]
 
-<sup>5</sup> Per l’esecuzione dei loro compiti legali, gli organi che trattano i dati possono comunicare dati personali, inclusi i dati degni di particolare protezione e i profili della personalità, alle autorità svizzere o estere incaricate di compiti analoghi nonché a organizzazioni internazionali, se dette autorità e organizzazioni garantiscono un’adeguata protezione dei dati trasmessi.
+<sup>5</sup> Per l’esecuzione dei loro compiti legali, gli organi che trattano i dati possono comunicare dati personali, inclusi i dati personali degni di particolare protezione, alle autorità svizzere o estere incaricate di compiti analoghi nonché a organizzazioni internazionali, se sono adempiute le condizioni di cui all’articolo 16 della legge federale del 25 settembre 2020[^107a-4] sulla protezione dei dati.[^107a-5]
 
-<sup>6</sup> L’UFAC informa gli esercenti degli aeroporti interessati in merito alle denunce e alle prese di posizione che gli sono pervenute in base all’articolo 100 capoversi 2 e 3, nella misura in cui il loro contenuto possa dare adito al ritiro delle autorizzazioni, delle licenze e dei certificati delle persone impiegate nell’area di sicurezza dell’aeroporto.[^107a-3]
+<sup>6</sup> L’UFAC informa gli esercenti degli aeroporti interessati in merito alle denunce e alle prese di posizione che gli sono pervenute in base all’articolo 100 capoversi 2 e 3, nella misura in cui il loro contenuto possa dare adito al ritiro delle autorizzazioni, delle licenze e dei certificati delle persone impiegate nell’area di sicurezza dell’aeroporto.[^107a-6]
 
 [^107a-1]: Introdotto dal n. I 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029). Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^107a-2]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^107a-3]: Introdotto dal n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^107a-2]: Nuovo testo giusta l’all. 1 n. II 65 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^107a-3]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^107a-4]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^107a-5]: Nuovo testo giusta l’all. 1 n. II 65 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^107a-6]: Introdotto dal n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 ### 2. Diritti di accesso
 
@@ -2842,11 +2850,13 @@ Al fine di accertare un eventuale rischio per la sicurezza, il servizio di poliz
 - a. rilevare i dati iscritti nel casellario giudiziale, inclusi i dati su procedimenti penali in corso;
 - b. chiedere informazioni al Servizio delle attività informative della Confederazione.
 
-<sup>3</sup> Esso può richiedere a un servizio di polizia estero i dati necessari al controllo dei precedenti personali, inclusi i dati personali degni di particolare protezione e i profili della personalità, e trattare tali dati, purché sia assicurata una protezione adeguata dei dati trasmessi.
+<sup>3</sup> Esso può richiedere a un servizio di polizia estero i dati necessari al controllo dei precedenti personali, inclusi i dati personali degni di particolare protezione, e trattare tali dati, purché sia assicurata una protezione adeguata dei dati trasmessi.[^108c-2]
 
-<sup>4</sup> Esso trasmette all’esercente dell’aeroporto e all’impresa di trasporto aereo i dati necessari all’emanazione della decisione di cui all’articolo 108*b* capoverso 3, inclusi i dati personali degni di particolare protezione e i profili della personalità.
+<sup>4</sup> Esso trasmette all’esercente dell’aeroporto e all’impresa di trasporto aereo i dati necessari all’emanazione della decisione di cui all’articolo 108b capoverso 3, inclusi i dati personali degni di particolare protezione.[^108c-3]
 
 [^108c-1]: Introdotto dal n. I 11 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° gen. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^108c-2]: Nuovo testo giusta l’all. n. 2.2 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° gen. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^108c-3]: Nuovo testo giusta l’all. n. 2.2 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° gen. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 ### 3. Raccomandazione
 
@@ -2914,4 +2924,4 @@ Disposizioni transitorie della modifica del 1° ottobre 2010[^t-7] <sup>1</sup> 
 [^t-5]: [RU 1998 2566](https://fedlex.data.admin.ch/eli/oc/1998/2566_2566_2566); [FF 1997 III 982](https://fedlex.data.admin.ch/eli/fga/1997/3_1181_1058_982)
 [^t-6]: [RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029
 [^t-7]: [RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)
-[^t-8]: [RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010).
+[^t-8]: [RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010)

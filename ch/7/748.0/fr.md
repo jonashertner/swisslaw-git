@@ -4,11 +4,11 @@ title: "Loi fédérale du 21 décembre 1948 sur l'aviation (LA)"
 short: LA
 eli: "https://fedlex.data.admin.ch/eli/cc/1950/471_491_479"
 language: fr
-version: 2023-08-01
+version: 2023-09-01
 adopted: 1948-12-21
 in_force: 1950-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20230801/fr/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20230801-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20230801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20230901-fr-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20230801/fr"
 
 (LA)[^t-1] [^t-2]
 
-du 21 décembre 1948 (État le 1<sup>er</sup> août 2023)
+du 21 décembre 1948 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: Abréviation introduite par le ch. I de la LF du 24 juin 1977, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [FF 1976 III 1267](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
 [^t-2]: Nouvelle teneur selon le ch. I de la LF du 18 juin 1993, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 587](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
@@ -549,12 +549,17 @@ Fedpol traite dans un système d’information les données nécessaires en vue 
 Les données suivantes relatives à des événements liés à la sûreté et aux individus potentiellement dangereux impliqués dans ces événements sont traitées dans le système d’information:
 
 - a. données personnelles concernant l’identité et les coordonnées publiquement accessibles, notamment les données provenant des réseaux sociaux;
-- b. données personnelles nécessaires pour évaluer la menace pesant sur le trafic aérien commercial international, y compris les données sensibles et les profils de la personnalité, comme des informations sur l’état de santé, les condamnations ou les procédures pénales ou administratives en cours et sur l’appartenance à des groupes criminels ou terroristes;
+- b.[^21c-2] données personnelles nécessaires pour évaluer la menace pesant sur le trafic aérien commercial international, y compris les données sensibles, comme des informations sur l’état de santé, les condamnations ou les procédures pénales ou administratives en cours et sur l’appartenance à des groupes criminels ou terroristes;
 - c. enregistrements visuels ou sonores.
+
+<sup>1bis</sup> Fedpol est habilité à faire du profilage, y compris du profilage à risque élevé, au sens de la loi fédérale du 25 septembre 2020 sur la protection des données[^21c-3] pour évaluer la menace que représentent les personnes visées à l’al. 1.[^21c-4]
 
 <sup>2</sup> De plus, les données personnelles concernant l’identité des gardes de sûreté susceptibles d’être affectés sont traitées dans le système d’information.
 
 [^21c-1]: Introduit par le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^21c-2]: Nouvelle teneur selon l’annexe 1 ch. II 65 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^21c-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^21c-4]: Introduit par l’annexe 1 ch. II 65 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### c. Droits d’accès et communication de données
 
@@ -2722,7 +2727,7 @@ Le Conseil fédéral règle, pour l’aviation militaire:
 
 <sup>2</sup>
 
-Ils traitent des données personnelles, y compris des données sensibles et des profils de la personnalité, concernant:
+Ils traitent de données personnelles, y compris des données sensibles, concernant:[^107a-2]
 
 - a.
 
@@ -2745,15 +2750,18 @@ Ils traitent en outre des données personnelles concernant:
 - e. des exploitants d’infrastructures;
 - f. des prestataires de services de navigation aérienne.
 
-<sup>4</sup> Les prestataires de services civils de navigation aérienne exploitent, à des fins d’enquête sur les accidents d’aviation et incidents graves, un système d’enregistrement des communications en arrière-plan et des bruits de fond dans les organismes du contrôle de la circulation aérienne. Le Conseil fédéral règle les responsabilités en ce qui concerne la collecte des données, la procédure d’évaluation, les destinataires, la durée de conservation et la destruction des données ainsi que les mesures de protection techniques et organisationnelles.[^107a-2]
+<sup>4</sup> Les prestataires de services civils de navigation aérienne exploitent, à des fins d’enquête sur les accidents d’aviation et incidents graves, un système d’enregistrement des communications en arrière-plan et des bruits de fond dans les organismes du contrôle de la circulation aérienne. Le Conseil fédéral règle les responsabilités en ce qui concerne la collecte des données, la procédure d’évaluation, les destinataires, la durée de conservation et la destruction des données ainsi que les mesures de protection techniques et organisationnelles.[^107a-3]
 
-<sup>5</sup> Pour accomplir les tâches qui leur incombent, les services qui traitent les données peuvent communiquer des données personnelles, y compris des données sensibles et des profils de la personnalité, aux autorités suisses et étrangères chargées de tâches correspondantes, ainsi qu’à des organisations internationales, pour autant qu’elles assurent une protection adéquate des données transmises.
+<sup>5</sup> Pour accomplir les tâches qui leur incombent, les services qui traitent les données peuvent communiquer des données personnelles, y compris des données sensibles, aux autorités suisses et étrangères chargées de tâches correspondantes ainsi qu’à des organisations internationales, pour autant que les conditions de l’art. 16 de la loi fédérale du 25 septembre 2020 sur la protection des données[^107a-4] soient respectées.[^107a-5]
 
-<sup>6</sup> L’OFAC informe les exploitants d’aéroport concernés des communications et des avis qu’il a reçus en vertu de l’art. 100, al. 2 et 3, pour autant que leur contenu puisse donner lieu au retrait d’autorisations, licences et certificats de personnes actives dans la zone de sûreté à accès réglementé d’un aéroport.[^107a-3]
+<sup>6</sup> L’OFAC informe les exploitants d’aéroport concernés des communications et des avis qu’il a reçus en vertu de l’art. 100, al. 2 et 3, pour autant que leur contenu puisse donner lieu au retrait d’autorisations, licences et certificats de personnes actives dans la zone de sûreté à accès réglementé d’un aéroport.[^107a-6]
 
 [^107a-1]: Introduit par le ch. I 13 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221). Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2010, avec effet au 1<sup>er</sup> avr. 2011 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^107a-2]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^107a-3]: Introduit par le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^107a-2]: Nouvelle teneur selon l’annexe 1 ch. II 65 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^107a-3]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^107a-4]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^107a-5]: Nouvelle teneur selon l’annexe 1 ch. II 65 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^107a-6]: Introduit par le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 ### 2. Droits d’accès
 
@@ -2840,11 +2848,13 @@ Pour déterminer le risque pour la sécurité, le service de police cantonal com
 - a. relever des données dans le casier judiciaire, y compris concernant des procédures pénales en cours;
 - b. requérir des renseignements auprès du Service de renseignement de la Confédération.
 
-<sup>3</sup> Il peut recueillir auprès du service de police étranger compétent et traiter les données nécessaires à la vérification des antécédents, y compris les données sensibles et les profils de la personnalité, si les données transmises bénéficient d’un niveau de protection adéquat.
+<sup>3</sup> Il peut recueillir auprès du service de police étranger compétent et traiter les données nécessaires à la vérification des antécédents, y compris les données sensibles, si les données transmises bénéficient d’un niveau de protection adéquat.[^108c-2]
 
-<sup>4</sup> Il transmet à l’exploitant d’aéroport et à l’entreprise de transport aérien les données nécessaires au prononcé de la décision visée à l’art. 108*b*, al. 3, y compris les données sensibles et les profils de la personnalité.
+<sup>4</sup> Il transmet à l’exploitant d’aéroport et à l’entreprise de transport aérien les données nécessaires au prononcé de la décision visée à l’art. 108*b*, al. 3, y compris les données sensibles.[^108c-3]
 
 [^108c-1]: Introduit par le ch. I 11 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^108c-2]: Nouvelle teneur selon l’annexe ch. 2 par. 2 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^108c-3]: Nouvelle teneur selon l’annexe ch. 2 par. 2 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 ### 3. Recommandation
 
