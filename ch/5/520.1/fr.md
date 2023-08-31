@@ -4,11 +4,11 @@ title: Loi fédérale du 20 décembre 2019 sur la protection de la population et
 short: LPPCi
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/887"
 language: fr
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2019-12-20
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-887-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2020-887-20230901-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20220101/fr"
 
 (LPPCi)
 
-du 20 décembre 2019 (Etat le 1<sup>er</sup> janvier 2022)
+du 20 décembre 2019 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -195,7 +195,7 @@ Le Laboratoire de Spiez est notamment chargé des tâches suivantes:
 
 <sup>4</sup> Elle gère des organisations d’intervention spécialisées dans des domaines autres que le domaine NBC et soutient les services concernés en cas d’événement en mettant ces organisations à leur disposition.
 
-- [tab] <sup>5</sup> Le Conseil fédéral peut déléguer des compétences législatives à l’OFPP afin d’assurer la disponibilité opérationnelle du matériel acquis par la Confédération.
+<sup>5</sup> Le Conseil fédéral peut déléguer des compétences législatives à l’OFPP afin d’assurer la disponibilité opérationnelle du matériel acquis par la Confédération.
 
 #### Art. 13
 
@@ -1275,30 +1275,29 @@ Les cantons supportent les coûts qui ne sont pas pris en charge par la Conféd�
 
 <sup>1</sup>
 
-Pour accomplir les tâches qui lui incombent dans le cadre du recrutement (art. 34) et des contrôles (art. 47), l’OFPP traite les données des personnes astreintes dans le SIPA. Il peut traiter les données sensibles et les profils de personnalité suivants:
+Pour accomplir les tâches qui lui incombent dans le cadre du recrutement (art. 34) et des contrôles (art. 47), l’OFPP traite les données des personnes astreintes dans le SIPA. Il peut traiter les données suivantes:[^93-1]
 
 - a. les données sur la santé;
-- b.
-
-  les profils de personnalité:
-
-  - 1\. permettant de décider de l’affectation à une fonction de base,
-  - 2\. permettant de déterminer l’aptitude à assumer une fonction de cadre.
+- b.[^93-2] les données personnelles qui permettent de déterminer l’affectation à une fonction de base ou le potentiel de cadre.
 
 <sup>2</sup>
 
-Pour organiser les services de formation, l’OFPP traite les données personnelles des participants aux cours dans un système de gestion des cours. À cette fin, il peut traiter les données sensibles et les profils de personnalité suivants:
+Pour organiser les services de formation, l’OFPP traite les données personnelles des participants aux cours dans un système de gestion des cours. Il peut traiter à cette fin les données suivantes:[^93-3]
 
 - a. les données sur la santé;
-- b. les profils de personnalité permettant de déterminer l’aptitude à assumer une fonction de cadre ou de spécialiste.
+- b.[^93-4] les données personnelles permettant de déterminer le potentiel de cadre ou de spécialiste.
 
 <sup>3</sup> Les cantons peuvent traiter les données des personnes astreintes dans la mesure où elles sont nécessaires pour accomplir les tâches qui leur incombent en vertu de la présente loi. Ils peuvent notamment traiter les données sanitaires requises pour apprécier l’aptitude à effectuer un service à venir.
 
 <sup>4</sup> Les données visées à l’al. 3 sont conservées durant cinq ans à compter de la libération de l’obligation de servir, puis détruites.
 
-<sup>5</sup> …[^93-1]
+<sup>5</sup> …[^93-5]
 
-[^93-1]: Abrogé par l’annexe ch. 17 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^93-1]: Nouvelle teneur de la phrase selon l’annexe 2 ch. 3 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^93-2]: Nouvelle teneur selon l’annexe 2 ch. 3 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^93-3]: Nouvelle teneur de la phrase selon l’annexe 2 ch. 3 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^93-4]: Nouvelle teneur selon l’annexe 2 ch. 3 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^93-5]: Abrogé par l’annexe ch. 17 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 94
 
@@ -1384,10 +1383,9 @@ La loi fédérale du 4 octobre 2002 sur la protection de la population et sur la
 
 II
 
-### Les actes ci-après sont modifiés comme suit:
+Les actes ci-après sont modifiés comme suit:
+
+…[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[RO 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)[4327](https://fedlex.data.admin.ch/eli/oc/2003/645), [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)ch. II al. 1 let. c, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 47, [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)annexe ch. 3, [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)annexe ch. 4, [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816), [2012 335](https://fedlex.data.admin.ch/eli/oc/2012/20), [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)art. 23, [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24), [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)annexe ch. 7, [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)annexe ch. 7]
-
-...[^annexu1-lvlu1-lvlu1-1]
-
-[^annexu1-lvlu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887).
+[^annexu1-lvlu1-2]: Les mod. peuvent être consultées au [RO 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887).

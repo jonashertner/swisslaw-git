@@ -4,11 +4,11 @@ title: Lescha federala dals 20 da december 2019 davart la protecziun da la popul
 short: LPPCi
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/887"
 language: rm
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2019-12-20
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20220101/rm/xml/fedlex-data-admin-ch-eli-cc-2020-887-20220101-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20220101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-2020-887-20230901-rm-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20230901/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LPPCi)
 
-dals 20 da december 2019 (versiun dal 1. da schaner 2022)
+dals 20 da december 2019 (versiun dal 1. da settember 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -385,8 +385,9 @@ Ils chantuns surpiglian ils custs per:
 
 **Sistem d’alarm, infurmaziun en cas d’eveniments e radio per cas d’urgenza**
 
-- [tab] <sup>1</sup> La Confederaziun surpiglia ils custs per il sistem d’alarm, per ils sistems d’infurmaziun en cas d’eveniments sco er per il radio per cas d’urgenza.
-- [tab] <sup>2</sup> Ils gestiunaris d’implants d’accumulaziun surpiglian ils custs per tegnair en funcziun e per garantir il mantegniment da las cumponentas decentralas dal sistem d’alarm d’aua. Il Cussegl federal regla ils detagls.
+<sup>1</sup> La Confederaziun surpiglia ils custs per il sistem d’alarm, per ils sistems d’infurmaziun en cas d’eveniments sco er per il radio per cas d’urgenza.
+
+<sup>2</sup> Ils gestiunaris d’implants d’accumulaziun surpiglian ils custs per tegnair en funcziun e per garantir il mantegniment da las cumponentas decentralas dal sistem d’alarm d’aua. Il Cussegl federal regla ils detagls.
 
 #### Art. 25
 
@@ -1276,30 +1277,29 @@ Ils chantuns surpiglian ils custs che la Confederaziun na surpiglia betg tenor l
 
 <sup>1</sup>
 
-Per ademplir sias incumbensas en il rom da la recrutaziun (art. 34) e da las incumbensas da controlla (art. 47) elavura il UFPP las datas persunalas da las persunas obligadas da far servetsch da protecziun civila en il PISA. En quest connex po el elavurar las suandantas datas persunalas spezialmain sensiblas ed ils suandants profils da la persunalitad:
+Per ademplir sias incumbensas en il rom da la recrutaziun (art. 34) e da las incumbensas da controlla (art. 47) elavura il UFPP las datas persunalas da las persunas obligadas da far servetsch da protecziun civila en il PISA. En quest connex po el elavurar las suandantas datas:[^93-1]
 
 - a. datas davart la sanadad;
-- b.
-
-  profils da la persunalitad:
-
-  - 1\. per decider davart l’attribuziun da la funcziun da basa,
-  - 2\. per sclerir il potenzial per funcziuns da cader.
+- b.[^93-2] datas persunalas che permettan da sclerir l’attribuziun da la funcziun da basa u il potenzial per ina funcziun da cader.
 
 <sup>2</sup>
 
-Per organisar las instrucziuns elavura il UFPP las datas persunalas dals participants dals curs en il sistem da gestiun d’occurrenzas. En quest connex po el elavurar las suandantas datas persunalas spezialmain sensiblas ed ils suandants profils da la persunalitad:
+Per organisar las instrucziuns elavura il UFPP las datas persunalas dals participants dals curs en il sistem da gestiun d’occurrenzas. En quest connex po el elavurar las suandantas datas:[^93-3]
 
 - a. datas davart la sanadad;
-- b. profils da la persunalitad per giuditgar il potenzial per funcziuns da cader u da spezialists.
+- b.[^93-4] datas persunalas che permettan da giuditgar la qualificaziun per ina funcziun da cader u da spezialist.
 
 <sup>3</sup> Ils chantuns pon elavurar las datas da las persunas obligadas da far servetsch da protecziun civila, uschenavant che quai è necessari per ademplir lur incumbensas tenor questa lescha. En spezial pon els elavurar las datas da la sanadad da las persunas obligadas da far servetsch da protecziun civila ch’èn necessarias per giuditgar l’abilitad per in servetsch vegnint.
 
 <sup>4</sup> Las datas tenor l’alinea 3 vegnan tegnidas en salv durant 5 onns suenter la relaschada da l’obligaziun da far servetsch da protecziun civila e vegnan lura destruidas.
 
-<sup>5</sup> …[^93-1]
+<sup>5</sup> …[^93-5]
 
-[^93-1]: Abolì tras la cifra 17 da l’agiunta da la LF dals 18 da dec. 2020 (Diever sistematic dal numer da la AVS tras las autoritads), cun effect dapi il 1. da schan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^93-1]: Versiun da la segunda frasa tenor la cifra 3 da l’agiunta 2 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^93-2]: Versiun tenor la cifra 3 da l’agiunta 2 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^93-3]: Versiun da la segunda frasa tenor la cifra 3 da l’agiunta 2 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^93-4]: Versiun tenor la cifra 3 da l’agiunta 2 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^93-5]: Abolì tras la cifra 17 da l’agiunta da la LF dals 18 da dec. 2020 (Diever sistematic dal numer da la AVS tras las autoritads), cun effect dapi il 1. da schan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 94
 

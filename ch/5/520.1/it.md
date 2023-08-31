@@ -4,11 +4,11 @@ title: Legge federale del 20 dicembre 2019 sulla protezione della popolazione e 
 short: LPPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/887"
 language: it
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2019-12-20
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2020-887-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2020-887-20230901-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20220101/it"
 
 (LPPC)
 
-del 20 dicembre 2019 (Stato 1° gennaio 2022)
+del 20 dicembre 2019 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -1261,7 +1261,8 @@ Il Consiglio federale stabilisce:
 
 **Cantoni**
 
-- [tab] I Cantoni si assumono i costi non assunti dalla Confederazione secondo l’articolo 91, segnatamente:
+I Cantoni si assumono i costi non assunti dalla Confederazione secondo l’articolo 91, segnatamente:
+
 - a. i costi per l’istruzione e gli interventi dei militi;
 - b. i costi per l’istruzione che la Confederazione ha convenuto con i Cantoni secondo l’articolo 54 capoverso 3;
 - c. i costi per il materiale d’intervento e l’equipaggiamento personale dei militi come pure i costi sostenuti dalla Confederazione per l’acquisizione secondo l’articolo 76 capoverso 2.
@@ -1274,30 +1275,29 @@ Il Consiglio federale stabilisce:
 
 <sup>1</sup>
 
-Per adempiere i suoi compiti nel quadro del reclutamento (art. 34) e dei controlli (art. 47), l’UFPP tratta i dati personali riguardanti i militi nel sistema PISA. A tal fine può trattare i seguenti dati personali degni di particolare protezione e profili della personalità:
+Per adempiere i suoi compiti nel quadro del reclutamento (art. 34) e dei controlli (art. 47), l’UFPP tratta i dati personali riguardanti i militi nel sistema PISA. A tal fine può trattare i seguenti dati:[^93-1]
 
 - a. dati concernenti la salute;
-- b.
-
-  profili della personalità:
-
-  - 1\. per decisioni concernenti l’attribuzione della funzione di base,
-  - 2\. per la valutazione del potenziale per funzioni di quadro.
+- b.[^93-2] dati personali che permettono di valutare l’attribuzione della funzione di base o il potenziale per funzioni di quadro.
 
 <sup>2</sup>
 
-Per organizzare i servizi d’istruzione, l’UFPP tratta i dati personali riguardanti i partecipanti ai corsi in un apposito sistema di gestione. A tal fine può trattare i seguenti dati personali degni di particolare protezione e profili della personalità:
+Per organizzare i servizi d’istruzione, l’UFPP tratta i dati personali riguardanti i partecipanti ai corsi in un apposito sistema di gestione. A tal fine può trattare i seguenti dati:[^93-3]
 
 - a. dati concernenti la salute;
-- b. profili della personalità per la valutazione del potenziale per funzioni di quadro o di specialista.
+- b.[^93-4] dati personali che permettono di valutare il potenziale per funzioni di quadro o di specialista.
 
 <sup>3</sup> Se necessario per l’adempimento dei loro compiti secondo la presente legge, i Cantoni possono trattare i dati personali riguardanti i militi. In particolare, possono trattare i dati sanitari riguardanti i militi necessari per la valutazione dell’idoneità a prestare un servizio imminente.
 
 <sup>4</sup> Dopo il proscioglimento dall’obbligo di prestare servizio di protezione civile, i dati di cui al capoverso 3 sono conservati per cinque anni e poi distrutti.
 
-<sup>5</sup> ...[^93-1]
+<sup>5</sup> ...[^93-5]
 
-[^93-1]: Abrogato dall’all. n. 17 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^93-1]: Nuovo testo del per. giusta l’all. 2 n. 3 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^93-2]: Nuovo testo giusta l’all. 2 n. 3 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^93-3]: Nuovo testo del per. giusta l’all. 2 n. 3 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^93-4]: Nuovo testo giusta l’all. 2 n. 3 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^93-5]: Abrogato dall’all. n. 17 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 94
 

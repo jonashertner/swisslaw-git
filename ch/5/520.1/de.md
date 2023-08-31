@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 20. Dezember 2019 über den Bevölkerungsschutz und den
 short: BZG
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/887"
 language: de
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2019-12-20
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2020-887-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2020-887-20230901-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20220101/de"
 
 (Bevölkerungs- und Zivilschutzgesetz, BZG)
 
-vom 20. Dezember 2019 (Stand am 1. Januar 2022)
+vom 20. Dezember 2019 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -383,8 +383,9 @@ Die Kantone tragen die Kosten für:
 
 **Alarmierungssystem, Information im Ereignisfall und Notfallradio**
 
-- [tab] <sup>1</sup> Der Bund trägt die Kosten für das Alarmierungssystem, die Systeme für die Information im Ereignisfall und das Notfallradio.
-- [tab] <sup>2</sup> Die Betreiberinnen von Stauanlagen tragen die Kosten für den Betrieb und den Unterhalt der dezentralen Komponenten des Wasseralarmsystems. Der Bundesrat regelt die Einzelheiten.
+<sup>1</sup> Der Bund trägt die Kosten für das Alarmierungssystem, die Systeme für die Information im Ereignisfall und das Notfallradio.
+
+<sup>2</sup> Die Betreiberinnen von Stauanlagen tragen die Kosten für den Betrieb und den Unterhalt der dezentralen Komponenten des Wasseralarmsystems. Der Bundesrat regelt die Einzelheiten.
 
 #### Art. 25
 
@@ -1274,30 +1275,29 @@ Die Kantone tragen diejenigen Kosten, die nach Artikel 91 nicht der Bund trägt,
 
 <sup>1</sup>
 
-Das BABS bearbeitet zur Erfüllung seiner Aufgaben im Rahmen der Rekrutierung (Art. 34) und der Kontrollaufgaben (Art. 47) die Personendaten der Schutzdienstpflichtigen im PISA. Es kann dabei folgende besonders schützenswerten Personendaten und Persönlichkeitsprofile bearbeiten:
+Das BABS bearbeitet zur Erfüllung seiner Aufgaben im Rahmen der Rekrutierung (Art. 34) und der Kontrollaufgaben (Art. 47) die Personendaten der Schutzdienstpflichtigen im PISA. Es kann dabei folgende Daten bearbeiten:[^93-1]
 
 - a. Daten über die Gesundheit;
-- b.
-
-  Persönlichkeitsprofile:
-
-  - 1\. für Entscheide über die Zuteilung der Grundfunktion,
-  - 2\. zur Abklärung des Kaderpotenzials.
+- b.[^93-2] Personendaten, die es erlauben, die Zuteilung der Grundfunktion oder das Kaderpotenzial abzuklären.
 
 <sup>2</sup>
 
-Es bearbeitet die Personendaten der Kursteilnehmenden zur Durchführung der Ausbildungen im Veranstaltungsadministratorsystem. Es kann dabei folgende besonders schützenswerten Personendaten und Persönlichkeitsprofile bearbeiten:
+Es bearbeitet die Personendaten der Kursteilnehmenden zur Durchführung der Ausbildungen im Veranstaltungsadministratorsystem. Es kann dabei folgende Daten bearbeiten:[^93-3]
 
 - a. Daten über die Gesundheit;
-- b. Persönlichkeitsprofile zur Beurteilung des Kader- oder Spezialistenpotenzials.
+- b.[^93-4] Personendaten, die es erlauben, die Eignung für eine Kader- oder Spezialistenfunktion zu beurteilen.
 
 <sup>3</sup> Die Kantone können die Daten der Schutzdienstpflichtigen bearbeiten, soweit dies zur Erfüllung ihrer Aufgaben nach diesem Gesetz notwendig ist. Insbesondere können sie die für die Beurteilung der Fähigkeit einen bevorstehenden Dienst zu leisten notwendigen sanitätsdienstlichen Daten der Schutzdienstpflichtigen bearbeiten.
 
 <sup>4</sup> Die Daten nach Absatz 3 werden nach der Entlassung aus der Schutzdienstpflicht während fünf Jahren aufbewahrt und dann vernichtet.
 
-<sup>5</sup> …[^93-1]
+<sup>5</sup> …[^93-5]
 
-[^93-1]: Aufgehoben durch Anhang Ziff. 17 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^93-1]: Fassung des zweiten Satzes gemäss Anhang 2 Ziff. 3 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^93-2]: Fassung gemäss Anhang 2 Ziff. 3 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^93-3]: Fassung des zweiten Satzes gemäss Anhang 2 Ziff. 3 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^93-4]: Fassung gemäss Anhang 2 Ziff. 3 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^93-5]: Aufgehoben durch Anhang Ziff. 17 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 94
 
@@ -1387,5 +1387,5 @@ Die nachstehenden Erlasse werden wie folgt geändert:
 
 …[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[AS 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)[4327](https://fedlex.data.admin.ch/eli/oc/2003/645), [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)Ziff. II Abs. 1 Bst. c, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 47, [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)Anhang Ziff. 3, [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)Anhang Ziff. 4, [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816), [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)Art. 23, [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24), [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)Anhang Ziff. 7, [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)Anhang Ziff. 7]
+[^annexu1-lvlu1-1]: [[AS 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620), [4327](https://fedlex.data.admin.ch/eli/oc/2003/645); [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)Ziff. II Abs. 1 Bst. c; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 47; [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)Anhang Ziff. 3; [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)Anhang Ziff. 4; [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816); [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)Art. 23; [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)Anhang Ziff. 7; [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)Anhang Ziff. 7]
 [^annexu1-lvlu1-2]: Die Änderungen können unter [AS 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887)konsultiert werden.
