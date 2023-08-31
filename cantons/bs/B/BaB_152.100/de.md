@@ -3,13 +3,13 @@ canton: BS
 number: BaB 152.100
 title: Geschäftsordnung des Bürgergemeinderates der Stadt Basel
 language: de
-version: 2023-01-01
-valid_until: 2023-08-31
-version_adopted: 2021-12-07
+version: 2023-09-01
+valid_until: 2024-09-30
+version_adopted: 2023-06-20
 adopted: 1986-09-09
 in_force: 1986-11-12
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20152.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5826/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5983/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5826/pdf_file"
 
 Bürgergemeinderat: Geschäftsordnung | Basel: Bürgergemeinde
 
-Vom 9. September 1986 (Stand 1. Januar 2023)
+Vom 9. September 1986 (Stand 1. September 2023)
 
 Der Bürgergemeinderat der Stadt Basel
 
@@ -226,9 +226,9 @@ erlässt in Ausführung von § 11 der Gemeindeordnung der Bürgergemeinde der St
 
 #### § 24
 
-**Wahl des Präsidenten/der Präsidentin, des Statthalters/der Statthalterin und des Protokollführers**
+**Wahl der Präsidentin oder des Präsidenten, der Statthalterin oder des Statthalters und der Protokollführerin oder des Protokollführers**
 
-<sup>1</sup> Der Bürgergemeinderat wählt in der konstituierenden Sitzung der Legislaturperiode und in der letzten Sitzung des dritten Amtsjahres seinen Präsidenten/seine Präsidentin, seinen Statthalter/seine Statthalterin und seinen Protokollführer auf eine Amtsdauer von drei Jahren.
+<sup>1</sup> Der Bürgergemeinderat wählt in der konstituierenden Sitzung der Legislaturperiode und in der letzten Sitzung des zweiten sowie des vierten Amtsjahres seine Präsidentin oder seinen Präsidenten, seine Statthalterin oder seinen Statthalter und seine Protokollführerin oder seinen Protokollführer auf eine Amtsdauer von zwei Jahren.
 
 <sup>2</sup> Nach Ablauf einer vollen Amtsdauer sind Präsident/Präsidentin und Statthalter/Statthalterin für die nächste Amtsdauer in das gleiche Amt nicht mehr wählbar.
 
@@ -394,7 +394,7 @@ erlässt in Ausführung von § 11 der Gemeindeordnung der Bürgergemeinde der St
 
 <sup>1</sup> Die Verhandlungen der Kommissionen sind nicht öffentlich und unterliegen der Vertraulichkeit.
 
-<sup>2</sup> Die Kommissionsmitglieder sind berechtigt, ihre Fraktion über den Gang der Verhandlungen im Allgemeinen und die Beschlüsse der Kommission zu orientieren. Diese Informationen unterstehen ebenfalls der Vertraulichkeit.
+<sup>2</sup> Die Kommissionsmitglieder sind berechtigt, ihre Fraktion über den Gang der Verhandlungen im Allgemeinen und die Beschlüsse der Kommission zu orientieren. Das Kommissionspräsidium orientiert die nicht in der Kommission vertretenen Fraktionen über das jeweilige Fraktionspräsidium. Diese Informationen unterstehen ebenfalls der Vertraulichkeit.
 
 <sup>3</sup> Die Kommissionen sind berechtigt, für einzelne Geschäfte Geheimhaltung zu beschliessen. Diese ist zu befristen, wenn voraussehbar ist, wann die Schutzwürdigkeit dahinfällt. Nach einem solchen Beschluss dürfen über die Verhandlungen der Kommission keinerlei Informationen an andere Ratsmitglieder oder an Dritte weitergegeben werden.
 
