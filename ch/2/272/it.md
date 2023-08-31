@@ -4,11 +4,11 @@ title: "Codice di diritto processuale civile svizzero del 19 dicembre 2008 (Codi
 short: CPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/262"
 language: it
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2008-12-19
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2010-262-20230101-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2010-262-20230901-it-xml-16.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20230101/it"
 
 (Codice di procedura civile, CPC)
 
-del 19 dicembre 2008 (Stato 1° gennaio 2023)
+del 19 dicembre 2008 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -251,9 +251,10 @@ Per le seguenti azioni e istanze è competente il giudice del domicilio o della 
 - a. azioni per lesione della personalità;
 - b. istanze nell’ambito del diritto di risposta;
 - c. azioni di protezione del nome e di contestazione del cambiamento di nome;
-- d. azioni e istanze secondo l’articolo 15 della legge federale del 19 giugno 1992[^20-1] sulla protezione dei dati.
+- d.[^20-1] azioni e istanze secondo la legge federale del 25 settembre 2020[^20-2] sulla protezione dei dati (LPD).
 
-[^20-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^20-1]: Nuovo testo giusta l’all. 1 n. II 24 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^20-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 21
 
@@ -1053,7 +1054,11 @@ Non vi è obbligo di prestare cauzione:
 
 - a. nella procedura semplificata, tranne nelle controversie patrimoniali secondo l’articolo 243 capoverso 1;
 - b. nella procedura di divorzio;
-- c. nella procedura sommaria, eccettuata la tutela giurisdizionale nei casi manifesti (art. 257).
+- c. nella procedura sommaria, eccettuata la tutela giurisdizionale nei casi manifesti (art. 257);
+- d.[^99-1] nella procedura relativa a una controversia secondo la LPD[^99-2].
+
+[^99-1]: Introdotta dall’all. 1 n. II 24 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^99-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 100
 
@@ -1204,13 +1209,16 @@ Nella procedura di conciliazione non sono addossate spese processuali per le con
 - c. in materia di locazione e affitto di abitazioni e di locali commerciali come pure di affitto agricolo;
 - d. derivanti da un rapporto di lavoro come pure secondo la legge del 6 ottobre 1989[^113-3] sul collocamento, fino a un valore litigioso di 30 000 franchi;
 - e. secondo la legge del 17 dicembre 1993[^113-4] sulla partecipazione;
-- f. derivanti da assicurazioni complementari all’assicurazione sociale contro le malattie secondo la legge federale del 18 marzo 1994[^113-5] sull’assicurazione malattie.
+- f. derivanti da assicurazioni complementari all’assicurazione sociale contro le malattie secondo la legge federale del 18 marzo 1994[^113-5] sull’assicurazione malattie;
+- g.[^113-6] secondo la LPD[^113-7].
 
 [^113-1]: [RS 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
 [^113-2]: [RS 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
 [^113-3]: [RS 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
 [^113-4]: [RS 822.14](https://fedlex.data.admin.ch/eli/cc/1994/1037_1037_1037)
 [^113-5]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^113-6]: Introdotta dall’all. 1 n. II 24 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^113-7]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 114
 
@@ -1223,7 +1231,8 @@ Nella procedura decisionale non sono addossate spese processuali per le controve
 - c. derivanti da un rapporto di lavoro come pure secondo la legge del 6 ottobre 1989[^114-3] sul collocamento, fino a un valore litigioso di 30 000 franchi;
 - d. secondo la legge del 17 dicembre 1993[^114-4] sulla partecipazione;
 - e. derivanti da assicurazioni complementari all’assicurazione sociale contro le malattie secondo la legge federale del 18 marzo 1994[^114-5] sull’assicurazione malattie;
-- f.[^114-6] per violenze, minacce o insidie secondo l’articolo 28*b* CC[^114-7] o riguardanti la sorveglianza elettronica secondo l’articolo 28*c* CC.
+- f.[^114-6] per violenze, minacce o insidie secondo l’articolo 28*b* CC[^114-7] o riguardanti la sorveglianza elettronica secondo l’articolo 28*c* CC;
+- g.[^114-8] secondo la LPD[^114-9].
 
 [^114-1]: [RS 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
 [^114-2]: [RS 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
@@ -1232,6 +1241,8 @@ Nella procedura decisionale non sono addossate spese processuali per le controve
 [^114-5]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^114-6]: Introdotta dal n. I 2 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° lug. 2020 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 [^114-7]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^114-8]: Introdotta dall’all. 1 n. II 24 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^114-9]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 115
 
@@ -2686,18 +2697,19 @@ Senza riguardo al valore litigioso, la procedura semplificata si applica nelle c
 - a. secondo la legge federale del 24 marzo 1995[^243-1] sulla parità dei sessi;
 - b.[^243-2] per violenze, minacce o insidie secondo l’articolo 28*b* CC[^243-3] o riguardanti una sorveglianza elettronica secondo l’articolo 28*c* CC;
 - c. in materia di locazione e affitto di abitazioni e di locali commerciali come pure di affitto agricolo, se vertenti sul deposito di pigioni o fitti, sulla protezione da pigioni o fitti abusivi, sulla protezione dalla disdetta o sulla protrazione del rapporto di locazione o d’affitto;
-- d. intese a dare esecuzione al diritto d’informazione secondo la legge federale del 19 giugno 1992[^243-4] sulla protezione dei dati;
-- e. secondo la legge del 17 dicembre 1993[^243-5] sulla partecipazione;
-- f. derivanti da assicurazioni complementari all’assicurazione sociale contro le malattie secondo la legge federale del 18 marzo 1994[^243-6] sull’assicurazione malattie.
+- d.[^243-4] intese a dare esecuzione al diritto d’accesso secondo l’articolo 25 LPD[^243-5];
+- e. secondo la legge del 17 dicembre 1993[^243-6] sulla partecipazione;
+- f. derivanti da assicurazioni complementari all’assicurazione sociale contro le malattie secondo la legge federale del 18 marzo 1994[^243-7] sull’assicurazione malattie.
 
 <sup>3</sup> La procedura semplificata non si applica nelle controversie giudicate in istanza cantonale unica secondo gli articoli 5 e 8 o deferite al tribunale commerciale secondo l’articolo 6.
 
 [^243-1]: [RS 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
 [^243-2]: Nuovo testo giusta il n. I 2 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° lug. 2020 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 [^243-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^243-4]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^243-5]: [RS 822.14](https://fedlex.data.admin.ch/eli/cc/1994/1037_1037_1037)
-[^243-6]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^243-4]: Nuovo testo giusta l’all. 1 n. II 24 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^243-5]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^243-6]: [RS 822.14](https://fedlex.data.admin.ch/eli/cc/1994/1037_1037_1037)
+[^243-7]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 244
 
@@ -4828,6 +4840,16 @@ Nei procedimenti pendenti al momento dell’entrata in vigore della modifica del
 #### Art. 407d
 
 I procedimenti pendenti al momento dell’entrata in vigore della modifica del 14 dicembre 2018 sono retti dal nuovo diritto.
+
+### Capitolo 6: Disposizione transitoria della modifica del 25 settembre 2020
+
+[^part4-tit3-chap6-1]
+
+[^part4-tit3-chap6-1]: Introdotto dall’all. 1 n. II 24 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+
+#### Art. 407e
+
+Le procedure pendenti al momento dell’entrata in vigore della modifica del 25 settembre 2020 sono rette dal nuovo diritto.
 
 ### Titolo quarto: Referendum ed entrata in vigore
 

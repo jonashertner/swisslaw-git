@@ -4,11 +4,11 @@ title: "Schweizerische Zivilprozessordnung vom 19. Dezember 2008 (Zivilprozessor
 short: ZPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/262"
 language: de
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2008-12-19
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2010-262-20230101-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2010-262-20230901-de-xml-16.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20230101/de"
 
 (Zivilprozessordnung, ZPO)
 
-vom 19. Dezember 2008 (Stand am 1. Januar 2023)
+vom 19. Dezember 2008 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -251,9 +251,10 @@ Für die folgenden Klagen und Begehren ist das Gericht am Wohnsitz oder Sitz ein
 - a. Klagen aus Persönlichkeitsverletzung;
 - b. Begehren um Gegendarstellung;
 - c. Klagen auf Namensschutz und auf Anfechtung einer Namensänderung;
-- d. Klagen und Begehren nach Artikel 15 des Bundesgesetzes vom 19. Juni 1992[^20-1] über den Datenschutz.
+- d.[^20-1] Klagen und Begehren nach dem Datenschutzgesetz vom 25. September 2020[^20-2] (DSG).
 
-[^20-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^20-1]: Fassung gemäss Anhang 1 Ziff. II 24 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^20-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 21
 
@@ -1053,7 +1054,11 @@ Keine Sicherheit ist zu leisten:
 
 - a. im vereinfachten Verfahren mit Ausnahme der vermögensrechtlichen Streitigkeiten nach Artikel 243 Absatz 1;
 - b. im Scheidungsverfahren;
-- c. im summarischen Verfahren mit Ausnahme des Rechtsschutzes in klaren Fällen (Art. 257).
+- c. im summarischen Verfahren mit Ausnahme des Rechtsschutzes in klaren Fällen (Art. 257);
+- d.[^99-1] im Verfahren wegen einer Streitigkeit nach dem DSG[^99-2].
+
+[^99-1]: Eingefügt durch Anhang 1 Ziff. II 24 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^99-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 100
 
@@ -1204,13 +1209,16 @@ Keine Gerichtskosten werden gesprochen in Streitigkeiten:
 - c. aus Miete und Pacht von Wohn- und Geschäftsräumen sowie aus landwirtschaftlicher Pacht;
 - d. aus dem Arbeitsverhältnis sowie nach dem Arbeitsvermittlungsgesetz vom 6. Oktober 1989[^113-3] bis zu einem Streitwert von 30 000 Franken;
 - e. nach dem Mitwirkungsgesetz vom 17. Dezember 1993[^113-4];
-- f. aus Zusatzversicherungen zur sozialen Krankenversicherung nach dem Bundesgesetz vom 18. März 1994[^113-5] über die Krankenversicherung.
+- f. aus Zusatzversicherungen zur sozialen Krankenversicherung nach dem Bundesgesetz vom 18. März 1994[^113-5] über die Krankenversicherung;
+- g.[^113-6] nach dem DSG[^113-7].
 
 [^113-1]: [SR 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
 [^113-2]: [SR 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
 [^113-3]: [SR 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
 [^113-4]: [SR 822.14](https://fedlex.data.admin.ch/eli/cc/1994/1037_1037_1037)
 [^113-5]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^113-6]: Eingefügt durch Anhang 1 Ziff. II 24 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^113-7]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 114
 
@@ -1223,7 +1231,8 @@ Im Entscheidverfahren werden keine Gerichtskosten gesprochen bei Streitigkeiten:
 - c. aus dem Arbeitsverhältnis sowie nach dem Arbeitsvermittlungsgesetz vom 6. Oktober 1989[^114-3] bis zu einem Streitwert von 30 000 Franken;
 - d. nach dem Mitwirkungsgesetz vom 17. Dezember 1993[^114-4];
 - e. aus Zusatzversicherungen zur sozialen Krankenversicherung nach dem Bundesgesetz vom 18. März 1994[^114-5] über die Krankenversicherung;
-- f.[^114-6] wegen Gewalt, Drohungen oder Nachstellungen nach Artikel 28*b* ZGB[^114-7] oder betreffend die elektronische Überwachung nach Artikel 28*c* ZGB.
+- f.[^114-6] wegen Gewalt, Drohungen oder Nachstellungen nach Artikel 28*b* ZGB[^114-7] oder betreffend die elektronische Überwachung nach Artikel 28*c* ZGB;
+- g.[^114-8] nach dem DSG[^114-9].
 
 [^114-1]: [SR 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
 [^114-2]: [SR 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
@@ -1232,6 +1241,8 @@ Im Entscheidverfahren werden keine Gerichtskosten gesprochen bei Streitigkeiten:
 [^114-5]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^114-6]: Eingefügt durch Ziff. I 2 des BG vom 14. Dez. 2018 über die Verbesserung des Schutzes gewaltbetroffener Personen, in Kraft seit 1. Juli 2020 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 [^114-7]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^114-8]: Eingefügt durch Anhang 1 Ziff. II 24 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^114-9]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 115
 
@@ -2687,9 +2698,9 @@ Es gilt ohne Rücksicht auf den Streitwert bei Streitigkeiten:[^243-1]
 - a. nach dem Gleichstellungsgesetz vom 24. März 1995[^243-2];
 - b.[^243-3] wegen Gewalt, Drohungen oder Nachstellungen nach Artikel 28*b* ZGB[^243-4] oder betreffend eine elektronische Überwachung nach Artikel 28*c* ZGB;
 - c. aus Miete und Pacht von Wohn- und Geschäftsräumen sowie aus landwirtschaftlicher Pacht, sofern die Hinterlegung von Miet- und Pachtzinsen, der Schutz vor missbräuchlichen Miet- und Pachtzinsen, der Kündigungsschutz oder die Erstreckung des Miet- oder Pachtverhältnisses betroffen ist;
-- d. zur Durchsetzung des Auskunftsrechts nach dem Bundesgesetz vom 19. Juni 1992[^243-5] über den Datenschutz;
-- e. nach dem Mitwirkungsgesetz vom 17. Dezember 1993[^243-6];
-- f. aus Zusatzversicherungen zur sozialen Krankenversicherung nach dem Bundesgesetz vom 18. März 1994[^243-7] über die Krankenversicherung.
+- d.[^243-5] zur Durchsetzung des Auskunftsrechts nach Artikel 25 DSG[^243-6];
+- e. nach dem Mitwirkungsgesetz vom 17. Dezember 1993[^243-7];
+- f. aus Zusatzversicherungen zur sozialen Krankenversicherung nach dem Bundesgesetz vom 18. März 1994[^243-8] über die Krankenversicherung.
 
 <sup>3</sup> Es findet keine Anwendung in Streitigkeiten vor der einzigen kantonalen Instanz nach den Artikeln 5 und 8 und vor dem Handelsgericht nach Artikel 6.
 
@@ -2697,9 +2708,10 @@ Es gilt ohne Rücksicht auf den Streitwert bei Streitigkeiten:[^243-1]
 [^243-2]: [SR 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
 [^243-3]: Fassung gemäss Ziff. I 2 des BG vom 14. Dez. 2018 über die Verbesserung des Schutzes gewaltbetroffener Personen, in Kraft seit 1. Juli 2020 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 [^243-4]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^243-5]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^243-6]: [SR 822.14](https://fedlex.data.admin.ch/eli/cc/1994/1037_1037_1037)
-[^243-7]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^243-5]: Fassung gemäss Anhang 1 Ziff. II 24 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^243-6]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^243-7]: [SR 822.14](https://fedlex.data.admin.ch/eli/cc/1994/1037_1037_1037)
+[^243-8]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 244
 
@@ -4833,6 +4845,16 @@ In Verfahren, die bei Inkrafttreten der Änderung vom 28. September 2012 dieses 
 #### Art. 407d
 
 Für Verfahren, die bei Inkrafttreten der Änderung vom 14. Dezember 2018 rechtshängig sind, gilt das neue Recht.
+
+### 6. Kapitel: Übergangsbestimmung zur Änderung vom 25. September 2020
+
+[^part4-tit3-chap6-1]
+
+[^part4-tit3-chap6-1]: Eingefügt durch Anhang 1 Ziff. II 24 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+
+#### Art. 407e
+
+Für Verfahren, die bei Inkrafttreten der Änderung vom 25. September 2020 hängig sind, gilt das neue Recht.
 
 ### 4. Titel: Referendum und Inkrafttreten
 

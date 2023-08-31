@@ -4,11 +4,11 @@ title: Code de procédure civile du 19 décembre 2008 (CPC)
 short: CPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/262"
 language: fr
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2008-12-19
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-262-20230101-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2010-262-20230901-fr-xml-16.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20230101/fr"
 
 (CPC)
 
-du 19 décembre 2008 (État le 1<sup>er</sup> janvier 2023)
+du 19 décembre 2008 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -252,9 +252,10 @@ Le tribunal du domicile ou du siège de l’une des parties est compétent pour 
 - a. les actions fondées sur une atteinte à la personnalité;
 - b. les requêtes en exécution du droit de réponse;
 - c. les actions en protection du nom et en contestation d’un changement de nom;
-- d. les actions et requêtes fondées sur l’art. 15 de la loi fédérale du 19 juin 1992 sur la protection des données[^20-1].
+- d.[^20-1] les actions et requêtes fondées sur la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^20-2].
 
-[^20-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^20-1]: Nouvelle teneur selon l’annexe 1 ch. II 24 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^20-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 21
 
@@ -1057,7 +1058,11 @@ Il n’y a pas lieu de fournir des sûretés:
 
 - a. dans la procédure simplifiée, à l’exception des affaires patrimoniales visées à l’art. 243, al. 1;
 - b. dans la procédure de divorce;
-- c. dans la procédure sommaire, à l’exception de la procédure applicable dans les cas clairs (art. 257).
+- c. dans la procédure sommaire, à l’exception de la procédure applicable dans les cas clairs (art. 257);
+- d.[^99-1] dans la procédure relative à un litige relevant de la LPD[^99-2].
+
+[^99-1]: Introduite par l’annexe 1 ch. II 24 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^99-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 100
 
@@ -1208,13 +1213,16 @@ Il n’est pas perçu de frais judiciaires pour:
 - c. les litiges portant sur des baux à loyer ou à ferme d’habitations ou de locaux commerciaux ou des baux à ferme agricoles;
 - d. les litiges portant sur un contrat de travail ou relevant de la loi du 6 octobre 1989 sur le service de l’emploi et la location de services[^113-3], lorsque la valeur litigieuse n’excède pas 30 000 francs;
 - e. les litiges relevant de la loi du 17 décembre 1993 sur la participation[^113-4];
-- f. les litiges portant sur des assurances complémentaires à l’assurance-maladie sociale au sens de la loi fédérale du 18 mars 1994 sur l’assurance-maladie[^113-5].
+- f. les litiges portant sur des assurances complémentaires à l’assurance-maladie sociale au sens de la loi fédérale du 18 mars 1994 sur l’assurance-maladie[^113-5];
+- g.[^113-6] les litiges relevant de la LPD[^113-7].
 
 [^113-1]: [RS 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
 [^113-2]: [RS 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
 [^113-3]: [RS 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
 [^113-4]: [RS 822.14](https://fedlex.data.admin.ch/eli/cc/1994/1037_1037_1037)
 [^113-5]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^113-6]: Introduite par l’annexe 1 ch. II 24 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^113-7]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 114
 
@@ -1227,7 +1235,8 @@ Il n’est pas perçu de frais judiciaires dans la procédure au fond pour:
 - c. les litiges portant sur un contrat de travail ou relevant de la loi du 6 octobre 1989 sur le service de l’emploi et la location de services[^114-3], lorsque la valeur litigieuse n’excède pas 30 000 francs;
 - d. les litiges relevant de la loi du 17 décembre 1993 sur la participation[^114-4];
 - e. les litiges portant sur des assurances complémentaires à l’assurance-maladie sociale au sens de la loi fédérale du 18 mars 1994 sur l’assurance-maladie[^114-5];
-- f.[^114-6] les litiges portant sur de la violence, des menaces ou du harcèlement au sens de l’art. 28*b* CC[^114-7] ou les décisions d’ordonner une surveillance électronique au sens de l’art. 28*c* CC.
+- f.[^114-6] les litiges portant sur de la violence, des menaces ou du harcèlement au sens de l’art. 28*b* CC[^114-7] ou les décisions d’ordonner une surveillance électronique au sens de l’art. 28*c* CC;
+- g.[^114-8] les litiges relevant de la LPD[^114-9].
 
 [^114-1]: [RS 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
 [^114-2]: [RS 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
@@ -1236,6 +1245,8 @@ Il n’est pas perçu de frais judiciaires dans la procédure au fond pour:
 [^114-5]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^114-6]: Introduite par le ch. I 2 de la LF du 14 déc. 2018 sur l’amélioration de la protection des victimes de violence, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6913](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 [^114-7]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^114-8]: Introduite par l’annexe 1 ch. II 24 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^114-9]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 115
 
@@ -2193,7 +2204,7 @@ Le demandeur peut décider unilatéralement de renoncer à la procédure de conc
 
 <sup>1</sup> L’autorité de conciliation tente de trouver un accord entre les parties de manière informelle. Une transaction peut porter sur des questions litigieuses qui ne sont pas comprises dans l’objet du litige dans la mesure où cela contribue à sa résolution.
 
-<sup>2</sup> Les autorités paritaires de conciliation donnent également des conseils juridiques aux parties dans les domaines mentionnées à l’art. 200.
+<sup>2</sup> Les autorités paritaires de conciliation donnent également des conseils juridiques aux parties dans les domaines mentionnés à l’art. 200.
 
 ### Chapitre 2 Procédure de conciliation
 
@@ -2690,18 +2701,19 @@ Elle s’applique quelle que soit la valeur litigieuse:
 - a. aux litiges relevant de la loi du 24 mars 1995 sur l’égalité[^243-1];
 - b.[^243-2] aux litiges portant sur de la violence, des menaces ou du harcèlement au sens de l’art. 28*b* CC[^243-3] ou aux décisions d’ordonner une surveillance électronique au sens de l’art. 28*c* CC;
 - c. aux litiges portant sur des baux à loyer ou à ferme d’habitations et de locaux commerciaux et sur des baux à ferme agricoles en ce qui concerne la consignation du loyer ou du fermage, la protection contre les loyers ou les fermages abusifs, la protection contre les congés ou la prolongation du bail à loyer ou à ferme;
-- d. aux litiges portant sur le droit d’accès aux données prévu par la loi fédérale du 19 juin 1992 sur la protection des données[^243-4];
-- e. aux litiges relevant de la loi du 17 décembre 1993 sur la participation[^243-5];
-- f. aux litiges portant sur des assurances complémentaires à l’assurance-maladie sociale au sens de la loi fédérale du 18 mars 1994 sur l’assurance-maladie[^243-6].
+- d.[^243-4] aux litiges portant sur le droit d’accès selon l’art. 25 LPD[^243-5];
+- e. aux litiges relevant de la loi du 17 décembre 1993 sur la participation[^243-6];
+- f. aux litiges portant sur des assurances complémentaires à l’assurance-maladie sociale au sens de la loi fédérale du 18 mars 1994 sur l’assurance-maladie[^243-7].
 
 <sup>3</sup> La procédure simplifiée ne s’applique pas aux litiges pour lesquels sont compétents une instance cantonale unique au sens des art. 5 et 8 ou le tribunal de commerce au sens de l’art. 6.
 
 [^243-1]: [RS 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
 [^243-2]: Nouvelle teneur selon le ch. I 2 de la LF du 14 déc. 2018 sur l’amélioration de la protection des victimes de violence, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6913](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 [^243-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^243-4]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^243-5]: [RS 822.14](https://fedlex.data.admin.ch/eli/cc/1994/1037_1037_1037)
-[^243-6]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^243-4]: Nouvelle teneur selon l’annexe 1 ch. II 24 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^243-5]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^243-6]: [RS 822.14](https://fedlex.data.admin.ch/eli/cc/1994/1037_1037_1037)
+[^243-7]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 244
 
@@ -4840,6 +4852,16 @@ Les actes des procédures en cours accomplis après l’entrée en vigueur de la
 
 Les procédures pendantes sont soumises au nouveau droit dès l’entrée en vigueur de la modification du 14 décembre 2018.
 
+### Chapitre 6 Disposition transitoire de la modification du 25 septembre 2020
+
+[^part4-tit3-chap6-1]
+
+[^part4-tit3-chap6-1]: Introduit par l’annexe 1 ch. II 24 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+
+#### Art. 407e
+
+Le nouveau droit est applicable aux procédures pendantes lors de l’entrée en vigueur de la modification du 25 septembre 2020.
+
 ### Titre 4 Référendum et entrée en vigueur
 
 #### Art. 408
@@ -4862,7 +4884,7 @@ Annexe 1
 
 La loi du 24 mars 2000 sur les fors[^annex1-lvlu1-lvlI-1] est abrogée.
 
-[^annex1-lvlu1-lvlI-1]: [[RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374), [2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320)annexe ch. 3, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)annexe ch. 14, [2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822)annexe ch. II 2]
+[^annex1-lvlu1-lvlI-1]: [[RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); [2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320)annexe ch. 3; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)annexe ch. 14; [2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822)annexe ch. II 2]
 
 ### II. Modification du droit en vigueur
 

@@ -4,11 +4,11 @@ title: "Cudesch da procedura civila svizzer dals 19 da december 2008 (Cudesch da
 short: CPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/262"
 language: rm
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2008-12-19
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20230101/rm/xml/fedlex-data-admin-ch-eli-cc-2010-262-20230101-rm-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20230101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-2010-262-20230901-rm-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20230901/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Cudesch da procedura civila, CPC)
 
-dals 19 da december 2008 (versiun dal 1. da schaner 2023)
+dals 19 da december 2008 (versiun dal 1. da settember 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -253,9 +253,10 @@ La dretgira al domicil u a la sedia d’ina da las partidas è cumpetenta per:
 - a. plants che resultan tras la violaziun da la persunalitad;
 - b. dumondas concernent il dretg da replica;
 - c. plants sin protecziun dal num e sin contestaziun d’ina midada dal num;
-- d. plants e dumondas tenor l’artitgel 15 da la Lescha federala dals 19 da zercladur 1992[^20-1] davart la protecziun da datas.
+- d.[^20-1] plants e dumondas tenor la Lescha federala dals 25 da settember 2020[^20-2] davart la protecziun da datas (LPD).
 
-[^20-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^20-1]: Versiun tenor la cifra II 24 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^20-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 21
 
@@ -1055,7 +1056,11 @@ Segirezzas na ston betg vegnir prestadas:
 
 - a. en la procedura simplifitgada, cun excepziun da las dispitas dal dretg patrimonial tenor l’artitgel 243 alinea 1;
 - b. en la procedura da divorzi;
-- c. en proceduras summaricas, cun excepziun da la protecziun giuridica en cas clers (art. 257).
+- c. en proceduras summaricas, cun excepziun da la protecziun giuridica en cas clers (art. 257);
+- d.[^99-1] en proceduras pervia d’ina dispita tenor la LPD[^99-2].
+
+[^99-1]: Integrà tras la cifra II 24 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^99-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 100
 
@@ -1206,13 +1211,16 @@ Nagins custs da dretgira na vegnan concedids en dispitas:
 - c. che resultan tras la locaziun e tras la fittanza da locals d’abitar e da fatschenta sco er tras la fittanza agricula;
 - d. che resultan tras la relaziun da lavur sco er tenor la Lescha dals 6 d’october 1989[^113-3] davart l’intermediaziun da lavur fin ad ina valur en dispita da 30 000 francs;
 - e. tenor la Lescha da participaziun dals 17 da december 1993[^113-4];
-- f. che resultan tras assicuranzas supplementaras a l’assicuranza da malsauns sociala tenor la Lescha federala dals 18 da mars 1994[^113-5] davart l’assicuranza da malsauns.
+- f. che resultan tras assicuranzas supplementaras a l’assicuranza da malsauns sociala tenor la Lescha federala dals 18 da mars 1994[^113-5] davart l’assicuranza da malsauns;
+- g.[^113-6] tenor la LPD[^113-7].
 
 [^113-1]: [SR 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
 [^113-2]: [SR 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
 [^113-3]: [SR 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
 [^113-4]: [SR 822.14](https://fedlex.data.admin.ch/eli/cc/1994/1037_1037_1037)
 [^113-5]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^113-6]: Integrà tras la cifra II 24 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^113-7]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 114
 
@@ -1225,7 +1233,8 @@ En la procedura da decisiun na vegnan concedids nagins custs da dretgira en disp
 - c. che resultan tras la relaziun da lavur sco er tenor la Lescha dals 6 d’october 1989[^114-3] davart l’intermediaziun da lavur fin ad ina valur en dispita da 30 000 francs;
 - d. tenor la Lescha da participaziun dals 17 da december 1993[^114-4];
 - e. che resultan tras assicuranzas supplementaras a l’assicuranza da malsauns sociala tenor la Lescha federala dals 18 da mars 1994[^114-5] davart l’assicuranza da malsauns;
-- f.[^114-6] pervia da violenza, smanatschas u persecuziuns tenor l’artitgel 28*b* CCS[^114-7] u concernent la surveglianza electronica tenor l’artitgel 28*c* CCS.
+- f.[^114-6] pervia da violenza, smanatschas u persecuziuns tenor l’artitgel 28*b* CCS[^114-7] u concernent la surveglianza electronica tenor l’artitgel 28*c* CCS;
+- g.[^114-8] tenor la LPD[^114-9].
 
 [^114-1]: [SR 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
 [^114-2]: [SR 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
@@ -1234,6 +1243,8 @@ En la procedura da decisiun na vegnan concedids nagins custs da dretgira en disp
 [^114-5]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^114-6]: Integrà tras la cifra I 2 da la LF dals 14 da dec. 2018 davart la meglieraziun da la protecziun da victimas da violenza, en vigur dapi il 1. da fan. 2020 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 [^114-7]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^114-8]: Integrà tras la cifra II 24 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^114-9]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 115
 
@@ -2688,9 +2699,9 @@ Ella vala senza resguardar la valur en dispita en cas da dispitas:[^243-1]
 - a. tenor la Lescha d’egualitad dals 24 da mars 1995[^243-2];
 - b.[^243-3] pervia da violenza, smanatschas u persecuziuns tenor l’artitgel 28*b* CCS[^243-4] u concernent la surveglianza electronica tenor l’artitgel 28*c* CCS;
 - c. che resultan tras la locaziun e tras la fittanza da locals d’abitar e da fatschenta sco er tras la fittanza agricula, uschenavant ch’i èn pertutgads il deposit da tschains da locaziun e da fittanza, la protecziun cunter tschains da locaziun e da fittanza abusivs, la protecziun cunter la disditga u la prolungaziun da la relaziun da locaziun u da fittanza;
-- d. per far valair il dretg d’infurmaziun tenor la Lescha federala dals 19 da zercladur 1992[^243-5] davart la protecziun da datas;
-- e. tenor la Lescha da participaziun dals 17 da december 1993[^243-6];
-- f. che resultan tras assicuranzas supplementaras a l’assicuranza da malsaunas sociala tenor la Lescha federala dals 18 da mars 1994[^243-7] davart l’assicuranza da malsauns.
+- d.[^243-5] per far valair il dretg d’infurmaziun tenor l’artitgel 25 LPD[^243-6];
+- e. tenor la Lescha da participaziun dals 17 da december 1993[^243-7];
+- f. che resultan tras assicuranzas supplementaras a l’assicuranza da malsaunas sociala tenor la Lescha federala dals 18 da mars 1994[^243-8] davart l’assicuranza da malsauns.
 
 <sup>3</sup> Ella na vegn betg applitgada per dispitas davant l’unica instanza chantunala tenor ils artitgels 5 ed 8 e davant la dretgira commerziala tenor l’artitgel 6.
 
@@ -2698,9 +2709,10 @@ Ella vala senza resguardar la valur en dispita en cas da dispitas:[^243-1]
 [^243-2]: [SR 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
 [^243-3]: Versiun tenor la cifra I 2 da la LF dals 14 da dec. 2018 davart la meglieraziun da la protecziun da victimas da violenza, en vigur dapi il 1. da fan. 2020 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 [^243-4]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^243-5]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^243-6]: [SR 822.14](https://fedlex.data.admin.ch/eli/cc/1994/1037_1037_1037)
-[^243-7]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^243-5]: Versiun tenor la cifra II 24 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^243-6]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^243-7]: [SR 822.14](https://fedlex.data.admin.ch/eli/cc/1994/1037_1037_1037)
+[^243-8]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 244
 
@@ -4831,9 +4843,19 @@ En proceduras ch’èn pendentas il mument che la midada dals 28 da settember 20
 
 [^part4-tit3-chap5-1]: Integrà tras la cifra I 2 da la LF dals 14 da dec. 2018 davart la meglieraziun da la protecziun da victimas da violenza, en vigur dapi il 1. da fan. 2020 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 
-**Art. 407**d
+#### Art. 407d
 
 Per proceduras ch’èn pendentas il mument da l’entrada en vigur da la midada dals 14 da december 2018 vala il dretg nov.
+
+### 6. chapitel: Disposiziun transitorica da la midada dals 25 da settember 2020
+
+[^part4-tit3-chap6-1]
+
+[^part4-tit3-chap6-1]: Integrà tras la cifra II 24 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+
+#### Art. 407e
+
+Per proceduras ch’èn pendentas il mument da l’entrada en vigur da la midada dals 25 da settember 2020 vala il dretg nov.
 
 ### 4. titel Referendum ed entrada en vigur
 

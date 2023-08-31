@@ -4,11 +4,11 @@ title: "Swiss Civil Procedure Code of 19 December 2008 (Civil Procedure Code, CP
 short: CPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/262"
 language: en
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2008-12-19
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2010-262-20230101-en-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2010-262-20230901-en-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Civil Procedure Code, CPC)
 
-of 19 December 2008 (Status as of 1 January 2023)
+of 19 December 2008 (Status as of 1 September 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -253,9 +253,10 @@ The court at the domicile or registered office of either of the parties has juri
 - a. actions based on an invasion of the personal privacy;
 - b. requests for a right of reply;
 - c. actions for name protection and actions challenging a name change;
-- d. actions and requests based on Article 15 of the Federal Act of 19 June 1992[^20-1] on Data Protection.
+- d.[^20-1] actions and requests under the Data Protection Act of 25 September 2020[^20-2] (FADP).
 
-[^20-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^20-1]: Amended by Annex 1 No II 24 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^20-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 21
 
@@ -417,7 +418,11 @@ The court at the domicile or registered office of the defendant or at the place 
 
 <sup>2</sup> Actions against the Swiss National Bureau of Insurance (Art. 74 of the Road Traffic Act of 19 December 1958[^38-1]; RTA) or against the Swiss National Guarantee Fund (Art. 76 RTA) may also be brought before the court at the place of any branch of such institutions.
 
-**Art. 38**a[^38-2] Nuclear damage
+[^38-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+
+#### Art. 38a
+
+**Nuclear damage**[^38a-1]
 
 <sup>1</sup> In the case of actions arising from nuclear incidents, the court in the canton where the incident took place has mandatory jurisdiction.
 
@@ -425,8 +430,7 @@ The court at the domicile or registered office of the defendant or at the place 
 
 <sup>3</sup> If two or more courts have jurisdiction in accordance with these rules, the court in the canton that is most closely linked to the incident and which is most seriously affected by it has mandatory jurisdiction.
 
-[^38-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^38-2]: Inserted by Annex 2 No 1, in force since 1 Jan. 2022 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914); [AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
+[^38a-1]: Inserted by Annex 2 No 1, in force since 1 Jan. 2022 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914); [AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
 
 #### Art. 39
 
@@ -1052,7 +1056,11 @@ No security need be provided:
 
 - a. in simplified proceedings, with the exception of financial disputes under Article 243 paragraph 1;
 - b. in divorce proceedings;
-- c. in summary proceedings, with the exception of the proceedings in clear cases (Art. 257).
+- c. in summary proceedings, with the exception of the proceedings in clear cases (Art. 257);
+- d.[^99-1] in proceedings relating to a dispute under the FADP[^99-2].
+
+[^99-1]: Inserted by Annex 1 No II 24 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^99-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 100
 
@@ -1134,7 +1142,8 @@ The court may diverge from the general principles of allocation and allocate the
 - d. in proceedings relating to a registered partnership;
 - e. if the proceedings are dismissed as groundless and the law does not provide otherwise;
 - f. if there are other extraordinary circumstances that would result in an allocation according to the outcome of the case being inequitable.
-- [tab] <sup>1bis</sup> In the event of the dismissal of actions under company law for performance to the company, the court may at its discretion apportion the procedural costs between the company and the plaintiff.[^107-1]
+
+<sup>1bis</sup> In the event of the dismissal of actions under company law for performance to the company, the court may at its discretion apportion the procedural costs between the company and the plaintiff.[^107-1]
 
 <sup>2</sup> Court costs that are not attributable to any party or third party may be charged to the canton if equitable.
 
@@ -1202,13 +1211,16 @@ No court costs are charged in disputes:
 - c. relating to the rental and lease of residential and business property or the lease of agricultural property;
 - d. relating to an employment contract or the Recruitment Act of 6 October 1989[^113-3] up to an amount in dispute of 30,000 francs;
 - e. relating to the Participation Act of 17 December 1993[^113-4];
-- f. relating to insurance supplementary to the social health insurance under the Federal Act of 18 March 1994[^113-5] on Health Insurance.
+- f. relating to insurance supplementary to the social health insurance under the Federal Act of 18 March 1994[^113-5] on Health Insurance;
+- g.[^113-6] under the FADP[^113-7].
 
 [^113-1]: [SR 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
 [^113-2]: [SR 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
 [^113-3]: [SR 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
 [^113-4]: [SR 822.14](https://fedlex.data.admin.ch/eli/cc/1994/1037_1037_1037)
 [^113-5]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^113-6]: Inserted by Annex 1 No II 24 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^113-7]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 114
 
@@ -1221,7 +1233,8 @@ In litigation proceedings, no court costs are charged in disputes:
 - c. relating to an employment contract or the Recruitment Act of 6 October 1989[^114-3] up to an amount in dispute of 30,000 francs;
 - d. relating to the Participation Act of 17 December 1993[^114-4];
 - e. relating to insurance supplementary to the social health insurance under the Federal Act of 18 March 1994[^114-5] on Health Insurance;
-- f.[^114-6] because of violence, threats or harassment under Article 28*b* CC[^114-7] or relating to electronic monitoring under Article 28*c* CC.
+- f.[^114-6] because of violence, threats or harassment under Article 28*b* CC[^114-7] or relating to electronic monitoring under Article 28*c* CC;
+- g.[^114-8] under the FADP[^114-9].
 
 [^114-1]: [SR 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
 [^114-2]: [SR 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
@@ -1230,6 +1243,8 @@ In litigation proceedings, no court costs are charged in disputes:
 [^114-5]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^114-6]: Inserted by No I 2 of the FA of 14 Dec. 2018 on Improving the Protection of Persons Affected by Violence, in force since 1 July 2020 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 [^114-7]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^114-8]: Inserted by Annex 1 No II 24 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^114-9]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 115
 
@@ -2685,9 +2700,9 @@ They apply regardless of the amount in dispute in the case of:[^243-1]
 - a. disputes under the Gender Equality Act of 24 March 1995[^243-2];
 - b.[^243-3] disputes concerning violence, threats or stalking pursuant to Article 28*b* CC[^243-4] or concerning electronic monitoring pursuant to Article 28*c* CC;
 - c. disputes concerning the tenancy and lease of residential and business property or the lease of agricultural property if they concern the deposit of rent, protection against abusive rent, protection against termination, or the extension of the rental relationship;
-- d. disputes concerning the right of access to personal data provided by the Federal Act of 19 June 1992[^243-5] on Data Protection;
-- e. disputes concerning the Participation Act of 17 December 1993[^243-6];
-- f. disputes concerning insurance supplementary to the social health insurance under the Federal Act of 18 March 1994[^243-7] on Health Insurance.
+- d.[^243-5] disputes concerning the right of access to personal data under Article 25 FADP[^243-6];
+- e. disputes concerning the Participation Act of 17 December 1993[^243-7];
+- f. disputes concerning insurance supplementary to the social health insurance under the Federal Act of 18 March 1994[^243-8] on Health Insurance.
 
 <sup>3</sup> The simplified proceedings do not apply to disputes before the court of sole cantonal instance in accordance with Articles 5 and 8 and before the Commercial Court in accordance with Article 6.
 
@@ -2695,9 +2710,10 @@ They apply regardless of the amount in dispute in the case of:[^243-1]
 [^243-2]: [SR 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
 [^243-3]: Amended by No I 2 of the FA of 14 Dec. 2018 on Improving the Protection of Persons Affected by Violence, in force since 1 July 2020 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 [^243-4]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^243-5]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^243-6]: [SR 822.14](https://fedlex.data.admin.ch/eli/cc/1994/1037_1037_1037)
-[^243-7]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^243-5]: Amended by Annex 1 No II of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^243-6]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^243-7]: [SR 822.14](https://fedlex.data.admin.ch/eli/cc/1994/1037_1037_1037)
+[^243-8]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 244
 
@@ -4213,7 +4229,8 @@ The canton where the arbitral tribunal is located shall designate a different co
 - a. the appointment, challenge, removal and replacement of the arbitrators;
 - b. the extension of the arbitral tribunal's term of office;
 - c. supporting the arbitral tribunal in all its procedural acts.
-- [tab] <sup>3</sup> The competent ordinary court decides in summary proceedings other than in cases under paragraph 1 letter a.[^356-1]
+
+<sup>3</sup> The competent ordinary court decides in summary proceedings other than in cases under paragraph 1 letter a.[^356-1]
 
 [^356-1]: Inserted by Annex No 2 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
@@ -4827,9 +4844,19 @@ In proceedings that are pending when the Amendment of 28 September 2012 to this 
 
 [^part4-tit3-chap5-1]: Inserted by No I 2 of the FA of 14 Dec. 2018 on Improving the Protection of Persons Affected by Violence, in force since 1 July 2020 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 
-**Art. 407**d
+#### Art. 407d
 
-The new law applies to proceedings pending at the date of commencement of the amendment of 14 December 2018.
+The new law applies to proceedings pending when the amendment of 14 December 2018 comes into force.
+
+### Chapter 6 Transitional Provision to the Amendment of 25 September 2020
+
+[^part4-tit3-chap6-1]
+
+[^part4-tit3-chap6-1]: Inserted by Annex 1 No II of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+
+#### Art. 407e
+
+The new law applies to proceedings pending when the amendment of 25 September 2020 comes into force.
 
 ### Title 4 Referendum and Commencement
 
