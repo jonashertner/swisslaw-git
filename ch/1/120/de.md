@@ -4,11 +4,11 @@ title: Bundesgesetz vom 21. März 1997 über Massnahmen zur Wahrung der inneren 
 short: BWIS
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546"
 language: de
-version: 2022-06-01
+version: 2023-09-01
 adopted: 1997-03-21
 in_force: 1998-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546/20220601/de/xml/fedlex-data-admin-ch-eli-cc-1998-1546_1546_1546-20220601-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/1546_1546_1546/20220601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1998-1546_1546_1546-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/1546_1546_1546/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/1546_1546_1546/20220601/de"
 
 (BWIS)
 
-vom 21. März 1997 (Stand am 1. Juni 2022)
+vom 21. März 1997 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -265,7 +265,7 @@ Die Daten können erhoben werden:
 
 <sup>1</sup> Der Bundesrat bezeichnet die Prüfbehörden, welche die Sicherheitsprüfungen in Zusammenarbeit mit dem NDB durchführen. Die Prüfbehörden sind weisungsungebunden.[^21-1]
 
-<sup>2</sup> Die Prüfbehörde teilt der geprüften Person das Ergebnis der Abklärungen und ihre Beurteilung des Sicherheitsrisikos mit. Die geprüfte Person kann innert zehn Tagen Einsicht in die Prüfungsunterlagen nehmen und die Berichtigung falscher Daten verlangen sowie bei Akten des Bundes die Entfernung überholter Daten verlangen oder einen Bestreitungsvermerk anbringen lassen. Für die Einschränkung der Auskunft gilt Artikel 9 des Bundesgesetzes vom 19. Juni 1992[^21-2] über den Datenschutz (DSG).[^21-3]
+<sup>2</sup> Die Prüfbehörde teilt der geprüften Person das Ergebnis der Abklärungen und ihre Beurteilung des Sicherheitsrisikos mit. Die geprüfte Person kann innert zehn Tagen Einsicht in die Prüfungsunterlagen nehmen und die Berichtigung falscher Daten verlangen sowie bei Akten des Bundes die Entfernung überholter Daten verlangen oder einen Bestreitungsvermerk anbringen lassen. Für die Einschränkung der Auskunft gilt Artikel 26 des Datenschutzgesetzes vom 25. September 2020[^21-2] (DSG).[^21-3]
 
 <sup>3</sup> Wird die Sicherheitserklärung nicht erteilt oder mit Vorbehalten versehen, so kann die betroffene Person Beschwerde beim Bundesverwaltungsgericht führen.[^21-4]
 
@@ -275,7 +275,7 @@ Die Daten können erhoben werden:
 
 [^21-1]: Fassung gemäss Ziff. I des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
 [^21-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^21-3]: Fassung gemäss Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^21-3]: Fassung gemäss Anhang 1 Ziff. II 1 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^21-4]: Fassung gemäss Ziff. II 1 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, in Kraft seit 1. Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 [^21-5]: Fassung gemäss Ziff. I des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
 [^21-6]: Zweiter Satz aufgehoben durch Ziff. II 1 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
@@ -345,10 +345,11 @@ Der Bundesrat bestimmt:
 
 <sup>3</sup> Die Daten werden spätestens fünf Jahre, nachdem der Schutzbedarf nicht mehr gegeben ist, vernichtet.
 
-<sup>4</sup> Das Auskunftsrecht und das Recht, Daten berichtigen zu lassen, richten sich nach den Artikeln 5 und 8 DSG[^23a-2].
+<sup>4</sup> Das Auskunftsrecht und das Recht, Daten berichtigen zu lassen, richten sich nach den Artikeln 25 und 41 Absatz 2 Buchstabe a DSG[^23a-2].[^23a-3]
 
 [^23a-1]: Eingefügt durch Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^23a-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^23a-3]: Fassung gemäss Anhang 1 Ziff. II 1 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 23b
 
@@ -367,11 +368,12 @@ Es dürfen ausschliesslich folgende Daten bearbeitet werden:
 
 - a. Name, Vorname, Geburtsdatum, Geburtsort, Heimatort und Wohnadresse;
 - b. Aufnahmen in Bild und Ton;
-- c. besonders schützenswerte Personendaten und Persönlichkeitsprofile, soweit sie für die Beurteilung des Grades der Gefährlichkeit notwendig sind, wie Informationen über den Gesundheitszustand, über Verurteilungen oder hängige Verfahren, über Mitgliedschaften in Parteien, Gesellschaften, Vereinen, Organisationen und Institutionen sowie Angaben über deren leitende Organe.
+- c.[^23b-2] Personendaten, einschliesslich besonders schützenswerte Personendaten, soweit sie für die Beurteilung des Grades der Gefährlichkeit notwendig sind, wie Informationen über den Gesundheitszustand, über Verurteilungen oder hängige Verfahren, über Mitgliedschaften in Parteien, Gesellschaften, Vereinen, Organisationen und Institutionen sowie Angaben über deren leitende Organe.
 
-<sup>3</sup> Informationen über die politische Betätigung und über die Ausübung der Meinungs-, der Versammlungs- und der Vereinigungsfreiheit dürfen nicht bearbeitet werden. Die Bearbeitung ist ausnahmsweise zulässig, wenn begründete Anhaltspunkte bestehen, dass eine Organisation oder ihr angehörende Personen die Ausübung der politischen Rechte oder der Grundrechte als Vorwand nehmen, um strafbare Handlungen vorzubereiten oder durchzuführen.
+<sup>3</sup> Informationen über die politische Betätigung und über die Ausübung der Meinungs‑, der Versammlungs- und der Vereinigungsfreiheit dürfen nicht bearbeitet werden. Die Bearbeitung ist ausnahmsweise zulässig, wenn begründete Anhaltspunkte bestehen, dass eine Organisation oder ihr angehörende Personen die Ausübung der politischen Rechte oder der Grundrechte als Vorwand nehmen, um strafbare Handlungen vorzubereiten oder durchzuführen.
 
 [^23b-1]: Eingefügt durch Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^23b-2]: Fassung gemäss Anhang 1 Ziff. II 1 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 23c
 
@@ -386,7 +388,7 @@ Der Zugriff auf das Informations- und Dokumentationssystem mittels automatisiert
 
 <sup>2</sup>
 
-Folgenden Stellen und Personen dürfen Daten, einschliesslich besonders schützenswerte Personendaten und Persönlichkeitsprofile, bekannt gegeben werden:
+Folgenden Stellen und Personen dürfen Daten, einschliesslich besonders schützenswerter Personendaten, bekannt gegeben werden:[^23c-2]
 
 - a. Departementen, Amtsstellen und Sicherheitsorganen der zivilen und militärischen Verwaltung zum Schutz von Behörden, Gebäuden und Einrichtungen sowie zur Durchführung von Personenschutzmassnahmen;
 - b. für Staatsschutz oder Terrorbekämpfung zuständigen Stellen bei fedpol und beim NDB;
@@ -396,6 +398,7 @@ Folgenden Stellen und Personen dürfen Daten, einschliesslich besonders schütze
 - f. Verantwortlichen von Anlässen und Privaten, soweit die Bekanntgabe notwendig ist, um eine schwere und unmittelbare Gefahr abzuwehren.
 
 [^23c-1]: Eingefügt durch Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^23c-2]: Fassung gemäss Anhang 1 Ziff. II 1 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 23d
 
@@ -665,13 +668,14 @@ In das Informationssystem dürfen Informationen über Personen, gegen die Ausrei
 
 <sup>9</sup> Fedpol kann Personendaten an ausländische Polizeibehörden und Sicherheitsorgane weitergeben. Artikel 61 Absätze 1, 2, 5 und 6 NDG[^24a-3] ist sinngemäss anwendbar. Die Daten dürfen nur weitergegeben werden, wenn die Behörde oder das Organ garantiert, dass die Daten ausschliesslich der Anordnung von Massnahmen zur Verhinderung von Gewalttätigkeiten anlässlich von Sportveranstaltungen dienen. Der Quellenschutz ist zu wahren.[^24a-4]
 
-<sup>10</sup> Das Recht, Auskünfte über die Daten im Informationssystem zu bekommen, und das Recht, die Daten berichtigen zu lassen, richten sich nach den Artikeln 5 und 8 des Bundesgesetzes vom 19. Juni 1992[^24a-5] über den Datenschutz. Fedpol teilt der betroffenen Person die Erfassung und Löschung ihrer Daten im Informationssystem mit.
+<sup>10</sup> Das Recht, Auskünfte über die Daten im Informationssystem zu bekommen, und das Recht, die Daten berichtigen zu lassen, richten sich nach Artikel 25 und 41 Absatz 2 Buchstabe a des DSG[^24a-5]. Fedpol teilt der betroffenen Person die Erfassung und Löschung ihrer Daten im Informationssystem mit.[^24a-6]
 
 [^24a-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 1. Jan. 2010 ([AS 2009 5091](https://fedlex.data.admin.ch/eli/oc/2009/592); [BBl 2007 6465](https://fedlex.data.admin.ch/eli/fga/2007/964)).
 [^24a-2]: Fassung gemäss Ziff. I 1 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^24a-3]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^24a-4]: Fassung gemäss Ziff. I 1 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^24a-5]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^24a-6]: Fassung gemäss Anhang 1 Ziff. II 1 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 24b
 

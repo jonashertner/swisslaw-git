@@ -4,11 +4,11 @@ title: Legge federale del 21 marzo 1997 sulle misure per la salvaguardia della s
 short: LMSI
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546"
 language: it
-version: 2022-06-01
+version: 2023-09-01
 adopted: 1997-03-21
 in_force: 1998-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546/20220601/it/xml/fedlex-data-admin-ch-eli-cc-1998-1546_1546_1546-20220601-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/1546_1546_1546/20220601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1998-1546_1546_1546-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/1546_1546_1546/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/1546_1546_1546/20220601/it"
 
 (LMSI)
 
-del 21 marzo 1997 (Stato 1° giugno 2022)
+del 21 marzo 1997 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -266,7 +266,7 @@ I dati possono essere rilevati:
 
 <sup>1</sup> Il Consiglio federale designa le autorità di controllo che procedono ai controlli di sicurezza in collaborazione con il SIC. Le autorità di controllo non sono vincolate da istruzioni.[^21-1]
 
-<sup>2</sup> L’autorità di controllo comunica alla persona controllata il risultato delle indagini e della valutazione del rischio per la sicurezza. La persona controllata può consultare, entro dieci giorni, i documenti relativi al controllo e chiedere la rettificazione dei dati errati; per i documenti della Confederazione, può esigere la distruzione dei dati superati o l’apposizione di una nota di contestazione. Alla restrizione dei diritti d’accesso si applica l’articolo 9 della legge federale del 19 giugno 1992[^21-2] sulla protezione dei dati (LPD).[^21-3]
+<sup>2</sup> L’autorità di controllo comunica alla persona controllata il risultato delle indagini e della valutazione del rischio per la sicurezza. La persona controllata può consultare, entro dieci giorni, i documenti relativi al controllo e chiedere la rettificazione dei dati errati; per i documenti della Confederazione, può esigere la distruzione dei dati superati o l’apposizione di una nota di contestazione. Alla restrizione dei diritti d’accesso si applica l’articolo 26 della legge federale del 25 settembre 2020[^21-2] sulla protezione dei dati (LPD).[^21-3]
 
 <sup>3</sup> Se la dichiarazione di sicurezza non viene rilasciata o è vincolata a riserve, la persona interessata può ricorrere al Tribunale amministrativo federale.[^21-4]
 
@@ -276,7 +276,7 @@ I dati possono essere rilevati:
 
 [^21-1]: Nuovo testo giusta il n. I della LF 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
 [^21-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^21-3]: Nuovo testo giusta l’all. n. II 1 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^21-3]: Nuovo testo giusta l’all. 1 n. II 1 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^21-4]: Nuovo testo giusta il n. II 1 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, in vigore dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 [^21-5]: Nuovo testo giusta il n. I della LF 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
 [^21-6]: Per. abrogato dal n. II 1 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
@@ -346,10 +346,11 @@ Il Consiglio federale designa:
 
 <sup>3</sup> I dati sono distrutti al più tardi entro cinque anni dal momento in cui le persone o gli edifici non necessitano più di protezione.
 
-<sup>4</sup> Il diritto d’accesso e il diritto di far rettificare i dati si fondano sugli articoli 5 e 8 LPD[^23a-2].
+<sup>4</sup> Il diritto d’accesso e il diritto di far rettificare i dati si fondano sugli articoli 25 e 41 capoverso 2 lettera a LPD[^23a-2].[^23a-3]
 
 [^23a-1]: Introdotto dall’all. n. II 1 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^23a-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^23a-3]: Nuovo testo giusta l’all. 1 n. II 1 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 23b
 
@@ -368,11 +369,12 @@ Fedpol tratta unicamente i dati delle persone:
 
 - a. cognome, nome, data di nascita, luogo di nascita, luogo di origine e indirizzo;
 - b. registrazioni su supporto audiovisivo;
-- c. dati personali degni di particolare protezione e profili della personalità nella misura in cui siano necessari per valutare il grado di pericolosità, in particolare informazioni sullo stato di salute, su condanne o procedimenti pendenti, sull’appartenenza a partiti, società, associazioni, organizzazioni e istituzioni, nonché informazioni sui rispettivi organi dirigenti.
+- c.[^23b-2] dati personali, inclusi i dati personali degni di particolare protezione, nella misura in cui siano necessari per valutare il grado di pericolosità, in particolare informazioni sullo stato di salute, su condanne o procedimenti pendenti, sull’appartenenza a partiti, società, associazioni, organizzazioni e istituzioni, nonché informazioni sui rispettivi organi dirigenti.
 
 <sup>3</sup> Le informazioni sull’attività politica e sull’esercizio della libertà d’opinione, di riunione o di associazione non possono essere trattate. Il trattamento di tali informazioni è ammesso a titolo eccezionale qualora indizi fondati permettano di sospettare che un’organizzazione o persone che ne fanno parte si servano dell’esercizio dei diritti politici o dei diritti fondamentali per dissimulare la preparazione o l’esecuzione di reati.
 
 [^23b-1]: Introdotto dall’all. n. II 1 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^23b-2]: Nuovo testo giusta l’all. 1 n. II 1 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 23c
 
@@ -387,7 +389,7 @@ L’accesso al sistema d’informazione e di documentazione mediante procedura d
 
 <sup>2</sup>
 
-I dati, compresi i dati personali degni di particolare protezione e i profili della personalità, possono essere comunicati ai servizi e alle persone seguenti:
+I dati, compresi i dati personali degni di particolare protezione, possono essere comunicati ai servizi e alle persone seguenti:[^23c-2]
 
 - a. dipartimenti, servizi e organi di sicurezza dell’amministrazione civile e militare, per proteggere autorità, edifici e installazioni nonché per eseguire misure di protezione di persone;
 - b. servizi di fedpol e del SIC competenti per la protezione dello Stato o la lotta al terrorismo;
@@ -397,6 +399,7 @@ I dati, compresi i dati personali degni di particolare protezione e i profili de
 - f. responsabili di eventi e privati, sempre che la comunicazione sia necessaria per sventare un pericolo grave e immediato.
 
 [^23c-1]: Introdotto dall’all. n. II 1 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^23c-2]: Nuovo testo giusta l’all. 1 n. II 1 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 23d
 
@@ -666,13 +669,14 @@ Nel sistema d’informazione possono essere registrate informazioni su persone c
 
 <sup>9</sup> Fedpol può comunicare dati personali ad autorità di polizia e organi di sicurezza esteri. L’articolo 61 capoversi 1, 2, 5 e 6 LAIn[^24a-3] si applica per analogia. I dati possono essere comunicati soltanto se l’autorità o l’organo garantisce che servono esclusivamente a ordinare misure intese a impedire atti di violenza in occasione di manifestazioni sportive. La protezione della fonte va garantita.[^24a-4]
 
-<sup>10</sup> Il diritto di ottenere informazioni relative ai dati che figurano nel sistema d’informazione e il diritto di farli rettificare sono retti dagli articoli 5 e 8 della legge federale del 19 giugno 1992[^24a-5] sulla protezione dei dati. Fedpol comunica alla persona interessata la registrazione e la cancellazione dei dati che la riguardano nel sistema d’informazione.
+<sup>10</sup> Il diritto di ottenere informazioni relative ai dati che figurano nel sistema d’informazione e il diritto di farli rettificare sono retti dagli articoli 25 e 41 capoverso 2 lettera a LPD[^24a-5]. Fedpol comunica alla persona interessata la registrazione e la cancellazione dei dati che la riguardano nel sistema d’informazione.[^24a-6]
 
 [^24a-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5091](https://fedlex.data.admin.ch/eli/oc/2009/592); [FF 2007 5875](https://fedlex.data.admin.ch/eli/fga/2007/964)).
 [^24a-2]: Nuovo testo giusta il n. I 1 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^24a-3]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^24a-4]: Nuovo testo giusta il n. I 1 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^24a-5]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^24a-6]: Nuovo testo giusta l’all. 1 n. II 1 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 24b
 

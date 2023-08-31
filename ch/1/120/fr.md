@@ -4,11 +4,11 @@ title: Loi fédérale du 21 mars 1997 instituant des mesures visant au maintien 
 short: LMSI
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546"
 language: fr
-version: 2022-06-01
+version: 2023-09-01
 adopted: 1997-03-21
 in_force: 1998-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-1998-1546_1546_1546-20220601-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/1546_1546_1546/20220601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1998-1546_1546_1546-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/1546_1546_1546/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/1546_1546_1546/20220601/fr"
 
 (LMSI)
 
-du 21 mars 1997 (État le 1<sup>er</sup> juin 2022)
+du 21 mars 1997 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -269,7 +269,7 @@ Les données peuvent être recueillies:
 
 <sup>1</sup> Le Conseil fédéral désigne les autorités de contrôle qui procèdent aux contrôles de sécurité en collaboration avec le SRC. Elles ne reçoivent pas d’instructions.[^21-1]
 
-<sup>2</sup> L’autorité de contrôle informe la personne soumise au contrôle du résultat des investigations et de l’appréciation du risque pour la sécurité. La personne soumise au contrôle peut consulter dans les dix jours les documents relatifs au contrôle et demander la rectification des données erronées; pour les dossiers de la Confédération, elle peut en outre demander la suppression de données obsolètes ou l’apposition d’une remarque de contestation. La restriction de la communication des renseignements est régie par l’art. 9 de la loi fédérale du 19 juin 1992 sur la protection des données (LPD)[^21-2].[^21-3]
+<sup>2</sup> L’autorité de contrôle informe la personne soumise au contrôle du résultat des investigations et de l’appréciation du risque pour la sécurité. La personne soumise au contrôle peut consulter dans les dix jours les documents relatifs au contrôle et demander la rectification des données erronées; pour les dossiers de la Confédération, elle peut en outre demander la suppression de données obsolètes ou l’apposition d’une remarque de contestation. La restriction de la communication des renseignements est régie par l’art. 26 de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^21-2].[^21-3]
 
 <sup>3</sup> Lorsque la déclaration de sécurité n’est pas délivrée ou qu’elle est assortie de réserves, la personne concernée peut se pourvoir auprès du Tribunal administratif fédéral.[^21-4]
 
@@ -279,7 +279,7 @@ Les données peuvent être recueillies:
 
 [^21-1]: Nouvelle teneur selon le ch. I de la LF du 23 déc. 2011, en vigueur depuis le 16 juil. 2012 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4773](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
 [^21-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^21-3]: Nouvelle teneur selon l’annexe ch. II 1 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^21-3]: Nouvelle teneur selon l’annexe 1 ch. II 1 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^21-4]: Nouvelle teneur selon le ch. II 1 de la LF du 20 mars 2008 relative à la mise à jour formelle du droit fédéral, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5789](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 [^21-5]: Nouvelle teneur selon le ch. I de la LF du 23 déc. 2011, en vigueur depuis le 16 juil. 2012 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4773](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
 [^21-6]: Phrase abrogée par le ch. II 1 de la LF du 20 mars 2008 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> août 2008 ([RO 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5789](https://fedlex.data.admin.ch/eli/fga/2007/885)).
@@ -349,10 +349,11 @@ Le Conseil fédéral désigne:
 
 <sup>3</sup> Les données sont détruites au plus tard cinq ans après que les personnes ou bâtiments concernés n’ont plus besoin d’être protégés.
 
-<sup>4</sup> Le droit d’accès et le droit de faire rectifier les données sont régis par les art. 5 et 8 LPD[^23a-2].
+<sup>4</sup> Le droit d’accès et le droit de faire rectifier les données sont régis par les art. 25 et 41, al. 2, let. a, LPD[^23a-2].[^23a-3]
 
 [^23a-1]: Introduit par l’annexe ch. II 1 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^23a-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^23a-3]: Nouvelle teneur selon l’annexe 1 ch. II 1 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 23b
 
@@ -371,11 +372,12 @@ Seules les données suivantes peuvent être traitées dans le système:
 
 - a. les nom, prénom, date de naissance, lieu de naissance, lieu d’origine et adresse;
 - b. les enregistrements visuels ou sonores;
-- c. les données sensibles et les profils de la personnalité, dans la mesure où ils sont nécessaires pour évaluer la menace que des personnes représentent, notamment les données concernant l’état de santé, les condamnations ou procédures en cours, l’appartenance à un parti, une société, une association, une organisation ou une institution et des informations sur les organes dirigeants de ces derniers.
+- c.[^23b-2] les données personnelles, y compris les données sensibles, dans la mesure où elles sont nécessaires pour évaluer la menace que des personnes représentent; ces données comprennent notamment les données concernant l’état de santé, les condamnations ou procédures en cours, l’appartenance à un parti, une société, une association, une organisation ou une institution et des informations sur les organes dirigeants de ces derniers.
 
 <sup>3</sup> Les informations relatives aux activités politiques ou à l’exercice de la liberté d’opinion, d’association et de réunion ne peuvent pas être traitées. Le traitement de telles informations est exceptionnellement permis lorsque des indices concrets laissent présumer qu’une organisation ou des personnes qui en font partie se servent des droits politiques ou des droits fondamentaux pour dissimuler la préparation ou l’exécution d’actes punissables.
 
 [^23b-1]: Introduit par l’annexe ch. II 1 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^23b-2]: Nouvelle teneur selon l’annexe 1 ch. II 1 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 23c
 
@@ -390,7 +392,7 @@ L’accès en ligne au système d’information et de documentation est limité 
 
 <sup>2</sup>
 
-Les données, y compris les données sensibles et les profils de la personnalité, peuvent être communiquées aux services et personnes suivants:
+Les données, y compris les données sensibles, peuvent être communiquées aux services et personnes suivants:[^23c-2]
 
 - a. les départements, les offices et les organes de sûreté de l’administration civile et militaire, pour la protection des autorités, des bâtiments et des installations ainsi que pour l’exécution de mesures de protection des personnes;
 - b. les unités de fedpol et du SRC chargées de la protection de l’État ou de la lutte contre le terrorisme;
@@ -400,6 +402,7 @@ Les données, y compris les données sensibles et les profils de la personnalit�
 - f. les responsables de manifestations et les particuliers, dans la mesure où la communication est nécessaire pour écarter un danger grave et imminent.
 
 [^23c-1]: Introduit par l’annexe ch. II 1 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^23c-2]: Nouvelle teneur selon l’annexe 1 ch. II 1 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 23d
 
@@ -669,13 +672,14 @@ Les informations relatives aux personnes contre lesquelles une interdiction de s
 
 <sup>9</sup> Fedpol peut communiquer des données personnelles à des autorités de police et à des organes de sûreté étrangers. L’art. 61, al. 1, 2, 5 et 6, LRens[^24a-3] est applicable par analogie. Les données ne peuvent être communiquées que si l’autorité ou l’organe garantit qu’elles serviront exclusivement à ordonner des mesures visant à empêcher les violences lors de manifestations sportives. La protection des sources doit être garantie.[^24a-4]
 
-<sup>10</sup> Le droit d’obtenir des renseignements sur les données figurant dans le système d’information et le droit de faire rectifier les données sont régis par les art. 5 et 8 de la loi fédérale du 19 juin 1992 sur la protection des données[^24a-5]. Fedpol informe la personne visée de l’enregistrement et de l’effacement des données la concernant dans le système d’information.
+<sup>10</sup> Le droit d’obtenir des renseignements sur les données figurant dans le système d’information et le droit de faire rectifier les données sont régis par les art. 25 et 41, al. 2, let. a, LPD[^24a-5]. Fedpol informe la personne visée de l’enregistrement et de l’effacement des données la concernant dans le système d’information.[^24a-6]
 
 [^24a-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5091](https://fedlex.data.admin.ch/eli/oc/2009/592); [FF 2007 6111](https://fedlex.data.admin.ch/eli/fga/2007/964)).
 [^24a-2]: Nouvelle teneur selon le ch. I 1 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^24a-3]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^24a-4]: Nouvelle teneur selon le ch. I 1 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^24a-5]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^24a-6]: Nouvelle teneur selon l’annexe 1 ch. II 1 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 24b
 
