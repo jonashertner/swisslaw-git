@@ -4,11 +4,11 @@ title: Ordonnance du 12 février 2020 sur les marchés publics (OMP)
 short: OMP
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/127"
 language: fr
-version: 2023-01-23
+version: 2023-09-01
 adopted: 2020-02-12
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/127/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2020-127-20230123-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/127/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/127/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2020-127-20230901-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/127/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/127/20230123/fr"
 
 (OMP)
 
-du 12 février 2020 (État le 23 janvier 2023)
+du 12 février 2020 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu les art. 6, al. 3, 7, al. 1, 12, al. 3, 22, al. 2, 24, al. 6, 45, al. 3, 48, 
 
 arrête:
 
-[^ingress-1]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^ingress-1]: [RS 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)
 
 ## Section 1 Champ d’application
 
@@ -176,7 +176,7 @@ Le procès-verbal de la rectification d’une offre contient au moins les indica
 
 <sup>2</sup> Le débriefing consiste en particulier à communiquer au soumissionnaire concerné les principales raisons pour lesquelles son offre a été écartée. Les règles de confidentialité définies à l’art. 51, al. 4, LMP doivent être observées.
 
-### Section 4 Procédures de concours et de mandats d’étude parallèles
+## Section 4 Procédures de concours et de mandats d’étude parallèles
 
 ### (art. 22 LMP)
 
@@ -274,8 +274,8 @@ Le Département fédéral des finances (DFF) édicte à l’intention de l’adj
 - a. la Conférence des achats de la Confédération (CA), conformément à l’art. 24 de l’ordonnance du 24 octobre 2012 sur l’organisation du droit des marchés publics de la Confédération[^19-1], ou
 - b. la Conférence de coordination des services de la construction et des immeubles des maîtres d’ouvrage publics (KBOB), conformément à l’art. 27 de l’ordonnance du 5 décembre 2008 concernant la gestion de l’immobilier et la logistique de la Confédération[^19-2].
 
-[^19-1]: [RS 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
-[^19-2]: [RS 172.010.21](https://fedlex.data.admin.ch/eli/cc/2008/857)
+[^19-1]: [RS 172.056.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5202)
+[^19-2]: [RS 172.010.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5021)
 
 ## Section 5 Langues
 
@@ -341,7 +341,7 @@ Les documents d’appel d’offres peuvent en outre paraître dans une seule lan
 
 <sup>1</sup> Lorsque la libre concurrence fait défaut et que la valeur du marché atteint au moins un million de francs, l’adjudicateur peut convenir avec le soumissionnaire d’un droit de consultation du calcul du prix.
 
-<sup>2</sup> La vérification du prix peut être effectuée auprès du soumissionnaire et de ses sous-traitants par le service de révision interne compétent ou par le Contrôle fédéral des finances (CDF). Si le soumissionnaire ou ses sous-traitants sont étrangers, le service de révision interne compétent ou le CDF peuvent demander à l’organe étranger compétent de procéder à la vérification du prix, à condition qu’un niveau de protection adéquat au sens de la loi fédérale du 19 juin 1992 sur la protection des données[^24-1] soit assuré.
+<sup>2</sup> La vérification du prix peut être effectuée auprès du soumissionnaire et de ses sous-traitants par le service de révision interne compétent ou par le Contrôle fédéral des finances (CDF). Si le soumissionnaire ou ses sous-traitants sont étrangers, le service de révision interne compétent ou le CDF peuvent demander à l’organe étranger compétent de procéder à la vérification du prix, à condition qu’un niveau de protection adéquat au sens de la loi fédérale du 25 septembre 2020 sur la protection des données[^24-1] soit assuré.[^24-2]
 
 <sup>3</sup> Les soumissionnaires et leurs sous-traitants qui exécutent des prestations essentielles sont tenus de fournir gratuitement tous les documents et renseignements nécessaires à l’organe de contrôle compétent.
 
@@ -349,7 +349,8 @@ Les documents d’appel d’offres peuvent en outre paraître dans une seule lan
 
 <sup>5</sup> Si cette vérification révèle que le prix est trop élevé, l’adjudicateur décide, sauf s’il en est convenu autrement dans le contrat, du remboursement de la différence ou d’une réduction de prix applicable à l’avenir. La vérification du prix ne peut conduire à une hausse de ce dernier.
 
-[^24-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^24-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^24-2]: Nouvelle teneur de la phrase selon l’annexe 2 ch. II 21 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 25
 
@@ -494,15 +495,15 @@ Annexe 2
 - 7\. Convention du 3 mars 1973 sur le commerce international des espèces de faune et de flore sauvages menacées d’extinction[^annex2-lvlu1-8]
 - 8\. Convention du 13 novembre 1979 sur la pollution atmosphérique transfrontière à longue distance[^annex2-lvlu1-9] et les huit protocoles conclus par la Suisse dans le cadre de la convention
 
-[^annex2-lvlu1-1]: [RS 0.814.02](https://fedlex.data.admin.ch/eli/cc/1988/1752_1752_1752)
-[^annex2-lvlu1-2]: [RS 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
-[^annex2-lvlu1-3]: [RS 0.814.05](https://fedlex.data.admin.ch/eli/cc/1992/1125_1125_1125)
-[^annex2-lvlu1-4]: [RS 0.814.03](https://fedlex.data.admin.ch/eli/cc/2004/347)
-[^annex2-lvlu1-5]: [RS 0.916.21](https://fedlex.data.admin.ch/eli/cc/2004/466)
-[^annex2-lvlu1-6]: [RS 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
-[^annex2-lvlu1-7]: [RS 0.814.01](https://fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052)
-[^annex2-lvlu1-8]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
-[^annex2-lvlu1-9]: [RS 0.814.32](https://fedlex.data.admin.ch/eli/cc/1983/887_887_887)
+[^annex2-lvlu1-1]: [RS 0.814.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3484)
+[^annex2-lvlu1-2]: [RS 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
+[^annex2-lvlu1-3]: [RS 0.814.05](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3493)
+[^annex2-lvlu1-4]: [RS 0.814.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3491)
+[^annex2-lvlu1-5]: [RS 0.916.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4049)
+[^annex2-lvlu1-6]: [RS 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
+[^annex2-lvlu1-7]: [RS 0.814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3475)
+[^annex2-lvlu1-8]: [RS 0.453](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1851)
+[^annex2-lvlu1-9]: [RS 0.814.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3536)
 
 Annexe 3[^t-1]
 

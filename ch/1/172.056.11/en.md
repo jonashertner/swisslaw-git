@@ -4,11 +4,11 @@ title: Ordinance of 12 February 2020 on Public Procurement (PPO)
 short: PPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/127"
 language: en
-version: 2023-01-23
+version: 2023-09-01
 adopted: 2020-02-12
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/127/20230123/en/xml/fedlex-data-admin-ch-eli-cc-2020-127-20230123-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/127/20230123/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/127/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2020-127-20230901-en-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/127/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (PPO)
 
-of 12 February 2020 (Status as of 23 January 2023)
+of 12 February 2020 (Status as of 1 September 2023)
 
 The Swiss Federal Council,
 
@@ -27,7 +27,7 @@ based on Articles 6 paragraph 3, 7 paragraph 1, 12 paragraph 3, 22 paragraph 2, 
 
 ordains:
 
-[^ingress-1]: [SR 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^ingress-1]: [SR 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)
 
 ## Section 1 Scope of Application
 
@@ -276,8 +276,8 @@ The Federal Department of Finance (FDF) shall issue further and supplementary se
 - a. the Federal Procurement Conference (FPC) in accordance with Article 24 of the Ordinance of 24 October 2012[^19-1] on the Organisation of Federal Public Procurement; or
 - b. the Coordination Conference for Public Sector Construction and Property Services (KBOB) in accordance with Article 27 of the Ordinance of 5 December 2008[^19-2] on Federal Real Estate Management and Logistics.
 
-[^19-1]: [SR 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
-[^19-2]: [SR 172.010.21](https://fedlex.data.admin.ch/eli/cc/2008/857)
+[^19-1]: [SR 172.056.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5202)
+[^19-2]: [SR 172.010.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5021)
 
 ## Section 5 Languages
 
@@ -343,7 +343,7 @@ In addition, the tender documentation may be written in only one official langua
 
 <sup>1</sup> In the absence of competition, the contracting authority may agree with the tenderer on a right to inspect the calculation if the value of the contract is worth CHF 1 million or more.
 
-<sup>2</sup> The price may be checked by the competent internal audit unit or by the Swiss Federal Audit Office (SFAO) at the premises of the tenderer and subcontractors. In the case of foreign tenderers or foreign subcontractors, the competent internal audit unit or the SFAO may request the competent foreign office to carry out the check if adequate protection in accordance with the Federal Act of 19 June 1992[^24-1] on Data Protection is guaranteed.
+<sup>2</sup> The price may be checked by the competent internal audit unit or by the Swiss Federal Audit Office (SFAO) at the premises of the tenderer and subcontractors. In the case of foreign tenderers or foreign subcontractors, the competent internal audit unit or the SFAO may request the competent foreign office to carry out the check if adequate protection in accordance with the Data Protection Act of 25 September 2020[^24-1] is guaranteed.[^24-2]
 
 <sup>3</sup> Tenderers and their subcontractors who provide essential goods or services are obliged to provide the competent auditing entity with all necessary documentation and information free of charge.
 
@@ -351,7 +351,8 @@ In addition, the tender documentation may be written in only one official langua
 
 <sup>5</sup> If the check reveals that the price is too high, the contracting authority shall order the difference to be refunded or a price reduction applied in the future, unless the contract provides otherwise. An increase in price as a result of the check is excluded.
 
-[^24-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^24-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^24-2]: Second sentence amended by Annex 2 No II 21 of the Data Protection Act of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 25
 
@@ -444,20 +445,22 @@ The following in particular must be published:
 
 <sup>2</sup> The internal supervisory bodies of the contracting authorities shall supervise compliance with this Ordinance.
 
-**Art. 31**Repeal and amendment of other legislative instruments
+#### Art. 31
+
+**Repeal and amendment of other legislative instruments**
 
 <sup>1</sup>
 
 The following legislative instruments are repealed:
 
-- 1\. Ordinance of 11 December 1995[^30-1] on Public Procurement;
-- 2\. DETEC Ordinance of 18 July 2002[^30-2] on Exemption from Public Procurement Law.
+- 1\. Ordinance of 11 December 1995[^31-1] on Public Procurement;
+- 2\. DETEC Ordinance of 18 July 2002[^31-2] on Exemption from Public Procurement Law.
 
-<sup>2</sup> ...[^30-3]
+<sup>2</sup> ...[^31-3]
 
-[^30-1]: [[AS 1996 518](https://fedlex.data.admin.ch/eli/oc/1996/518_518_518); [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)Annex No II 5; [2002 886](https://fedlex.data.admin.ch/eli/oc/2002/157), [1759](https://fedlex.data.admin.ch/eli/oc/2002/264); [2006 1667](https://fedlex.data.admin.ch/eli/oc/2006/259), [5613](https://fedlex.data.admin.ch/eli/oc/2006/829)Art. 30 para. 2 No 1; [2009 6149](https://fedlex.data.admin.ch/eli/oc/2009/752)No I and II; **2010** 3175 Annex 3 No 2; **2015** 775; **2017** 5161 Annex 2 No II 3]
-[^30-2]: [[AS 2002 2663](https://fedlex.data.admin.ch/eli/oc/2002/369), [2006 4777](https://fedlex.data.admin.ch/eli/oc/2006/728), [2007 4519](https://fedlex.data.admin.ch/eli/oc/2007/634)]
-[^30-3]: The amendment may be consulted under [AS 2020 691](https://fedlex.data.admin.ch/eli/oc/2020/127).
+[^31-1]: [[AS 1996 518](https://fedlex.data.admin.ch/eli/oc/1996/518_518_518); [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)Annex No II 5; [2002 886](https://fedlex.data.admin.ch/eli/oc/2002/157), [1759](https://fedlex.data.admin.ch/eli/oc/2002/264); [2006 1667](https://fedlex.data.admin.ch/eli/oc/2006/259), [5613](https://fedlex.data.admin.ch/eli/oc/2006/829)Art. 30 para. 2 No 1; [2009 6149](https://fedlex.data.admin.ch/eli/oc/2009/752)No I and II; **2010** 3175 Annex 3 No 2; **2015** 775; **2017** 5161 Annex 2 No II 3]
+[^31-2]: [[AS 2002 2663](https://fedlex.data.admin.ch/eli/oc/2002/369), [2006 4777](https://fedlex.data.admin.ch/eli/oc/2006/728), [2007 4519](https://fedlex.data.admin.ch/eli/oc/2007/634)]
+[^31-3]: The amendment may be consulted under [AS 2020 691](https://fedlex.data.admin.ch/eli/oc/2020/127).
 
 #### Art. 32
 
@@ -494,15 +497,15 @@ Annex 2
 - 7\. Convention of 3 March 1973[^annex2-lvlu1-8] on International Trade in Endangered Species of Wild Fauna and Flora
 - 8\. Convention of 13 November 1979[^annex2-lvlu1-9] on Long-range Transboundary Air Pollution and the eight protocols ratified by Switzerland within the framework of this Convention
 
-[^annex2-lvlu1-1]: [SR 0.814.02](https://fedlex.data.admin.ch/eli/cc/1988/1752_1752_1752)
-[^annex2-lvlu1-2]: [SR 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
-[^annex2-lvlu1-3]: [SR 0.814.05](https://fedlex.data.admin.ch/eli/cc/1992/1125_1125_1125)
-[^annex2-lvlu1-4]: [SR 0.814.03](https://fedlex.data.admin.ch/eli/cc/2004/347)
-[^annex2-lvlu1-5]: [SR 0.916.21](https://fedlex.data.admin.ch/eli/cc/2004/466)
-[^annex2-lvlu1-6]: [SR 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
-[^annex2-lvlu1-7]: [SR 0.814.01](https://fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052)
-[^annex2-lvlu1-8]: [SR 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
-[^annex2-lvlu1-9]: [SR 0.814.32](https://fedlex.data.admin.ch/eli/cc/1983/887_887_887)
+[^annex2-lvlu1-1]: [SR 0.814.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3484)
+[^annex2-lvlu1-2]: [SR 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
+[^annex2-lvlu1-3]: [SR 0.814.05](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3493)
+[^annex2-lvlu1-4]: [SR 0.814.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3491)
+[^annex2-lvlu1-5]: [SR 0.916.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4049)
+[^annex2-lvlu1-6]: [SR 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
+[^annex2-lvlu1-7]: [SR 0.814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3475)
+[^annex2-lvlu1-8]: [SR 0.453](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1851)
+[^annex2-lvlu1-9]: [SR 0.814.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3536)
 
 Annex 3[^t-1]
 

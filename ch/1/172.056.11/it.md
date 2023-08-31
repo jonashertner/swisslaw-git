@@ -4,11 +4,11 @@ title: Ordinanza del 12 febbraio 2020 sugli appalti pubblici (OAPub)
 short: OAPub
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/127"
 language: it
-version: 2023-01-23
+version: 2023-09-01
 adopted: 2020-02-12
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/127/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2020-127-20230123-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/127/20230123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/127/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2020-127-20230901-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/127/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/127/20230123/it"
 
 (OAPub)
 
-del 12 febbraio 2020 (Stato 23 gennaio 2023)
+del 12 febbraio 2020 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visti gli articoli 6 capoverso 3, 7 capoverso 1, 12 capoverso 3, 22 capoverso 2,
 
 ordina:
 
-[^ingress-1]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^ingress-1]: [RS 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)
 
 ## Sezione 1: Campo d’applicazione
 
@@ -274,8 +274,8 @@ Il Dipartimento federale delle finanze (DFF) emana all’attenzione dei committe
 - a. della Conferenza degli acquisti della Confederazione (CA) secondo l’articolo 24 dell’ordinanza del 24 ottobre 2012[^19-1] concernente l’organizzazione degli acquisti pubblici dell’Amministrazione federale; o
 - b. della Conferenza di coordinamento degli organi della costruzione e degli immobili dei committenti pubblici (KBOB) secondo l’articolo 27 dell’ordinanza del 5 dicembre 2008[^19-2] sulla gestione immobiliare e la logistica della Confederazione.
 
-[^19-1]: [RS 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
-[^19-2]: [RS 172.010.21](https://fedlex.data.admin.ch/eli/cc/2008/857)
+[^19-1]: [RS 172.056.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5202)
+[^19-2]: [RS 172.010.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5021)
 
 ## Sezione 5: Lingue
 
@@ -341,7 +341,7 @@ La documentazione del bando può inoltre essere redatta in una sola lingua uffic
 
 <sup>1</sup> In assenza di concorrenza il committente può concordare con l’offerente un diritto d’esame per quanto concerne il calcolo del prezzo, se il valore della commessa raggiunge un milione di franchi.
 
-<sup>2</sup> La verifica del prezzo può essere eseguita presso l’offerente e i subappaltatori dal competente servizio di revisione interna o dal Controllo federale delle finanze (CDF). Nel caso di un offerente estero o di subappaltatori esteri, il competente servizio di revisione interna o il CDF può chiedere al servizio estero competente di eseguire la verifica se è assicurata una protezione adeguata ai sensi della legge federale del 19 giugno 1992[^24-1] sulla protezione dei dati.
+<sup>2</sup> La verifica del prezzo può essere eseguita presso l’offerente e i subappaltatori dal competente servizio di revisione interna o dal Controllo federale delle finanze (CDF). Nel caso di un offerente estero o di subappaltatori esteri, il competente servizio di revisione interna o il CDF può chiedere al servizio estero competente di eseguire la verifica se è assicurata una protezione adeguata ai sensi della legge federale del 25 settembre 2020[^24-1] sulla protezione dei dati.[^24-2]
 
 <sup>3</sup> Gli offerenti e i subappaltatori che forniscono prestazioni essenziali sono tenuti a mettere gratuitamente a disposizione dell’organo di verifica competente tutte le informazioni e tutti i documenti necessari.
 
@@ -349,7 +349,8 @@ La documentazione del bando può inoltre essere redatta in una sola lingua uffic
 
 <sup>5</sup> Se dalla verifica risulta un prezzo troppo alto, il committente dispone il rimborso della differenza o una futura riduzione del prezzo, sempre che il contratto non preveda disposizioni contrarie al riguardo. La verifica non può comportare un aumento del prezzo.
 
-[^24-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^24-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^24-2]: Nuovo test del per. Nuovo testo giusta l’all. 2 n. II 21 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 25
 
@@ -494,15 +495,15 @@ Allegato 2
 - 7\. Convenzione del 3 marzo 1973[^annex2-lvlu1-8] sul commercio internazionale delle specie di fauna e di flora selvatiche minacciate di estinzione
 - 8\. Convenzione del 13 novembre 1979[^annex2-lvlu1-9] sull’inquinamento atmosferico attraverso le frontiere a lunga distanza e gli otto protocolli ratificati dalla Svizzera nell’ambito della Convenzione
 
-[^annex2-lvlu1-1]: [RS 0.814.02](https://fedlex.data.admin.ch/eli/cc/1988/1752_1752_1752)
-[^annex2-lvlu1-2]: [RS 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
-[^annex2-lvlu1-3]: [RS 0.814.05](https://fedlex.data.admin.ch/eli/cc/1992/1125_1125_1125)
-[^annex2-lvlu1-4]: [RS 0.814.03](https://fedlex.data.admin.ch/eli/cc/2004/347)
-[^annex2-lvlu1-5]: [RS 0.916.21](https://fedlex.data.admin.ch/eli/cc/2004/466)
-[^annex2-lvlu1-6]: [RS 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
-[^annex2-lvlu1-7]: [RS 0.814.01](https://fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052)
-[^annex2-lvlu1-8]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
-[^annex2-lvlu1-9]: [RS 0.814.32](https://fedlex.data.admin.ch/eli/cc/1983/887_887_887)
+[^annex2-lvlu1-1]: [RS 0.814.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3484)
+[^annex2-lvlu1-2]: [RS 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
+[^annex2-lvlu1-3]: [RS 0.814.05](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3493)
+[^annex2-lvlu1-4]: [RS 0.814.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3491)
+[^annex2-lvlu1-5]: [RS 0.916.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4049)
+[^annex2-lvlu1-6]: [RS 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
+[^annex2-lvlu1-7]: [RS 0.814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3475)
+[^annex2-lvlu1-8]: [RS 0.453](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1851)
+[^annex2-lvlu1-9]: [RS 0.814.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3536)
 
 Allegato 3[^t-1]
 

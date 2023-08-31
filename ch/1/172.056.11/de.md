@@ -4,11 +4,11 @@ title: Verordnung vom 12. Februar 2020 über das öffentliche Beschaffungswesen 
 short: VöB
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/127"
 language: de
-version: 2023-01-23
+version: 2023-09-01
 adopted: 2020-02-12
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/127/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2020-127-20230123-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/127/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/127/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2020-127-20230901-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/127/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/127/20230123/de"
 
 (VöB)
 
-vom 12. Februar 2020 (Stand am 23. Januar 2023)
+vom 12. Februar 2020 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 6 Absatz 3, 7 Absatz 1, 12 Absatz 3, 22 Absatz 2, 24 A
 
 verordnet:
 
-[^ingress-1]: [SR 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^ingress-1]: [SR 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)
 
 ## 1. Abschnitt: Geltungsbereich
 
@@ -274,8 +274,8 @@ Das Eidgenössische Finanzdepartement (EFD) erlässt für die Auftraggeberinnen 
 - a. der Beschaffungskonferenz des Bundes (BKB) nach Artikel 24 der Verordnung vom 24. Oktober 2012[^19-1] über die Organisation des öffentlichen Beschaffungswesens der Bundesverwaltung; oder
 - b. der Koordinationskonferenz der Bau- und Liegenschaftsorgane der öffentlichen Bauherren (KBOB) nach Artikel 27 der Verordnung vom 5. Dezember 2008[^19-2] über das Immobilienmanagement und die Logistik des Bundes.
 
-[^19-1]: [SR 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
-[^19-2]: [SR 172.010.21](https://fedlex.data.admin.ch/eli/cc/2008/857)
+[^19-1]: [SR 172.056.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5202)
+[^19-2]: [SR 172.010.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5021)
 
 ## 5. Abschnitt: Sprachen
 
@@ -341,7 +341,7 @@ Die Ausschreibungsunterlagen können überdies nur in einer Amtssprache des Bund
 
 <sup>1</sup> Bei fehlendem Wettbewerb kann die Auftraggeberin mit der Anbieterin ein Recht auf Einsicht in die Kalkulation vereinbaren, wenn der Auftragswert eine Million Franken erreicht.
 
-<sup>2</sup> Eine Überprüfung des Preises kann durch die zuständige interne Revision oder durch die Eidgenössische Finanzkontrolle (EFK) bei der Anbieterin und den Subunternehmerinnen durchgeführt werden. Bei einer ausländischen Anbieterin oder ausländischen Subunternehmerinnen kann die zuständige interne Revision oder die EFK die zuständige ausländische Stelle um die Durchführung der Überprüfung ersuchen, wenn ein angemessener Schutz im Sinne des Bundesgesetzes vom 19. Juni 1992[^24-1] über den Datenschutz gewährleistet ist.
+<sup>2</sup> Eine Überprüfung des Preises kann durch die zuständige interne Revision oder durch die Eidgenössische Finanzkontrolle (EFK) bei der Anbieterin und den Subunternehmerinnen durchgeführt werden. Bei einer ausländischen Anbieterin oder ausländischen Subunternehmerinnen kann die zuständige interne Revision oder die EFK die zuständige ausländische Stelle um die Durchführung der Überprüfung ersuchen, wenn ein angemessener Schutz im Sinne des Datenschutzgesetzes vom 25. September 2020[^24-1] gewährleistet ist.[^24-2]
 
 <sup>3</sup> Die Anbieterinnen sowie ihre Subunternehmerinnen, die wesentliche Leistungen erbringen, sind verpflichtet, dem zuständigen Prüforgan alle notwendigen Unterlagen und Informationen unentgeltlich zur Verfügung zu stellen.
 
@@ -349,7 +349,8 @@ Die Ausschreibungsunterlagen können überdies nur in einer Amtssprache des Bund
 
 <sup>5</sup> Ergibt die Überprüfung einen zu hohen Preis, so verfügt die Auftraggeberin die Rückerstattung der Differenz oder eine Preisreduktion für die Zukunft, sofern der Vertrag keine anderslautende Regelung enthält. Als Folge der Überprüfung ist eine Erhöhung des Preises ausgeschlossen.
 
-[^24-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^24-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^24-2]: Fassung des zweiten Satzes gemäss Anhang 2 Ziff. II 21 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 25
 
@@ -442,20 +443,22 @@ Bekannt zu geben sind insbesondere:
 
 <sup>2</sup> Die internen Kontrollorgane der Auftraggeberinnen überwachen die Einhaltung dieser Verordnung.
 
-**Art. 31**Aufhebung und Änderung anderer Erlasse
+#### Art. 31
+
+**Aufhebung und Änderung anderer Erlasse**
 
 <sup>1</sup>
 
 Folgende Erlasse werden aufgehoben:
 
-- 1\. Verordnung vom 11. Dezember 1995[^30-1] über das öffentliche Beschaffungswesen;
-- 2\. Verordnung des UVEK vom 18. Juli 2002[^30-2] über die Nichtunterstellung unter das öffentliche Beschaffungsrecht.
+- 1\. Verordnung vom 11. Dezember 1995[^31-1] über das öffentliche Beschaffungswesen;
+- 2\. Verordnung des UVEK vom 18. Juli 2002[^31-2] über die Nichtunterstellung unter das öffentliche Beschaffungsrecht.
 
-<sup>2</sup> …[^30-3]
+<sup>2</sup> …[^31-3]
 
-[^30-1]: [[AS 1996 518](https://fedlex.data.admin.ch/eli/oc/1996/518_518_518); [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)Anhang Ziff. II 5; [2002 886](https://fedlex.data.admin.ch/eli/oc/2002/157), [1759](https://fedlex.data.admin.ch/eli/oc/2002/264); [2006 1667](https://fedlex.data.admin.ch/eli/oc/2006/259), [5613](https://fedlex.data.admin.ch/eli/oc/2006/829)Art. 30 Abs. 2 Ziff. 1; [2009 6149](https://fedlex.data.admin.ch/eli/oc/2009/752)Ziff. I und II; **2010** 3175 Anhang 3 Ziff. 2; **2015** 775; **2017** 5161 Anhang 2 Ziff. II 3]
-[^30-2]: [[AS 2002 2663](https://fedlex.data.admin.ch/eli/oc/2002/369); [2006 4777](https://fedlex.data.admin.ch/eli/oc/2006/728); [2007 4519](https://fedlex.data.admin.ch/eli/oc/2007/634)]
-[^30-3]: Die Änderung kann unter [AS 2020 691](https://fedlex.data.admin.ch/eli/oc/2020/127)konsultiert werden.
+[^31-1]: [[AS 1996 518](https://fedlex.data.admin.ch/eli/oc/1996/518_518_518); [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)Anhang Ziff. II 5; [2002 886](https://fedlex.data.admin.ch/eli/oc/2002/157), [1759](https://fedlex.data.admin.ch/eli/oc/2002/264); [2006 1667](https://fedlex.data.admin.ch/eli/oc/2006/259), [5613](https://fedlex.data.admin.ch/eli/oc/2006/829)Art. 30 Abs. 2 Ziff. 1; [2009 6149](https://fedlex.data.admin.ch/eli/oc/2009/752)Ziff. I und II; **2010** 3175 Anhang 3 Ziff. 2; **2015** 775; **2017** 5161 Anhang 2 Ziff. II 3]
+[^31-2]: [[AS 2002 2663](https://fedlex.data.admin.ch/eli/oc/2002/369); [2006 4777](https://fedlex.data.admin.ch/eli/oc/2006/728); [2007 4519](https://fedlex.data.admin.ch/eli/oc/2007/634)]
+[^31-3]: Die Änderung kann unter [AS 2020 691](https://fedlex.data.admin.ch/eli/oc/2020/127)konsultiert werden.
 
 #### Art. 32
 
@@ -492,15 +495,15 @@ Anhang 2
 - 7\. Übereinkommen vom 3. März 1973[^annex2-lvlu1-8] über den internationalen Handel mit gefährdeten Arten frei lebender Tiere und Pflanzen
 - 8\. Übereinkommen vom 13. November 1979[^annex2-lvlu1-9] über weiträumige grenzüberschreitende Luftverunreinigung und die im Rahmen dieses Übereinkommens von der Schweiz ratifizierten acht Protokolle
 
-[^annex2-lvlu1-1]: [SR 0.814.02](https://fedlex.data.admin.ch/eli/cc/1988/1752_1752_1752)
-[^annex2-lvlu1-2]: [SR 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
-[^annex2-lvlu1-3]: [SR 0.814.05](https://fedlex.data.admin.ch/eli/cc/1992/1125_1125_1125)
-[^annex2-lvlu1-4]: [SR 0.814.03](https://fedlex.data.admin.ch/eli/cc/2004/347)
-[^annex2-lvlu1-5]: [SR 0.916.21](https://fedlex.data.admin.ch/eli/cc/2004/466)
-[^annex2-lvlu1-6]: [SR 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
-[^annex2-lvlu1-7]: [SR 0.814.01](https://fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052)
-[^annex2-lvlu1-8]: [SR 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
-[^annex2-lvlu1-9]: [SR 0.814.32](https://fedlex.data.admin.ch/eli/cc/1983/887_887_887)
+[^annex2-lvlu1-1]: [SR 0.814.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3484)
+[^annex2-lvlu1-2]: [SR 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
+[^annex2-lvlu1-3]: [SR 0.814.05](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3493)
+[^annex2-lvlu1-4]: [SR 0.814.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3491)
+[^annex2-lvlu1-5]: [SR 0.916.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4049)
+[^annex2-lvlu1-6]: [SR 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
+[^annex2-lvlu1-7]: [SR 0.814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3475)
+[^annex2-lvlu1-8]: [SR 0.453](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1851)
+[^annex2-lvlu1-9]: [SR 0.814.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3536)
 
 Anhang 3[^t-1]
 
