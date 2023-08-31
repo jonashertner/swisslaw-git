@@ -4,11 +4,11 @@ title: "Ordinanza del 27 novembre 2009 concernente l'imposta sul valore aggiunto
 short: OIVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: it
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2009-828-20230101-it-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2009-828-20230901-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20230101/it"
 
 (Ordinanza sull’IVA, OIVA)
 
-del 27 novembre 2009 (Stato 1° gennaio 2023)
+del 27 novembre 2009 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -1929,7 +1929,7 @@ La notifica di un adeguamento successivo delle controprestazioni deve contenere 
 
 ### (art. 63 LIVA)
 
-<sup>1</sup> Chi intende pagare le imposte nell’ambito della procedura di riporto necessita dell’autorizzazione dell’UDSC.
+<sup>1</sup> Chi intende pagare le imposte nell’ambito della procedura di riporto necessita dell’autorizzazione dell’AFC.
 
 <sup>2</sup> Se sussistono dubbi circa l’adempimento delle condizioni per il riporto dell’imposta sull’importazione, l’UDSC riscuote l’imposta.
 
@@ -2251,12 +2251,14 @@ I dati che l’AFC può trattare ai sensi dell’articolo 76*a* capoverso 3 LIVA
 
 <sup>1</sup> L’AFC allestisce e tiene statistiche nella misura in cui siano necessarie per l’adempimento dei compiti legali.
 
-<sup>2</sup> L’AFC può trasmettere dati, a fini statistici, alle autorità federali e cantonali nonché ad altre persone interessate, sempre che tali dati siano resi anonimi e non contengano indicazioni che permettono di risalire alle persone interessate. È fatto salvo l’articolo 10 capoversi 4 e 5 della legge del 9 ottobre 1992[^135-2] sulla statistica federale.
+<sup>2</sup> L’AFC può comunicare dati, a fini statistici, alle autorità federali e cantonali nonché ad altre persone interessate, sempre che tali dati siano resi anonimi e non contengano indicazioni che permettono di risalire alle persone interessate. Sono fatti salvi gli articoli 10 capoversi 4 e 5 della legge del 9 ottobre 1992[^135-2] sulla statistica federale e 14 capoverso 3 della legge del 3 ottobre 2003[^135-3] sulla Banca nazionale.[^135-4]
 
 <sup>3</sup> I dati che non sono stati resi anonimi possono essere utilizzati per controlli interni e per la pianificazione interna.
 
 [^135-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 [^135-2]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^135-3]: [RS 951.11](https://fedlex.data.admin.ch/eli/cc/2004/221)
+[^135-4]: Nuovo testo giusta l’all. 2 n. II 73 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 135a
 

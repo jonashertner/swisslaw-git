@@ -4,11 +4,11 @@ title: Ordonnance du 27 novembre 2009 régissant la taxe sur la valeur ajoutée 
 short: OTVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: fr
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-828-20230101-fr-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2009-828-20230901-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20230101/fr"
 
 (OTVA)[^t-1]
 
-du 27 novembre 2009 (État le 1<sup>er</sup> janvier 2023)
+du 27 novembre 2009 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -2251,12 +2251,14 @@ Les données pouvant être traitées par l’AFC, en vertu de l’art. 76*a*, al
 
 <sup>1</sup> L’AFC établit et tient des statistiques, dans la mesure où cela est nécessaire à l’accomplissement de ses tâches légales.
 
-<sup>2</sup> Elle peut remettre aux autorités fédérales et cantonales ainsi qu’à d’autres personnes intéressées des données à des fins statistiques, dans la mesure où celles-ci sont rendues anonymes et ne permettent pas de tirer des renseignements sur les personnes concernées. L’art. 10, al. 4 et 5, de la loi du 9 octobre 1992 sur la statistique fédérale[^135-2] demeure réservé.
+<sup>2</sup> Elle peut communiquer aux autorités fédérales et cantonales ainsi qu’à d’autres personnes intéressées des données à des fins statistiques, dans la mesure où celles-ci sont rendues anonymes et ne permettent pas de tirer des renseignements sur les personnes concernées. L’art. 10, al. 4 et 5, de la loi du 9 octobre 1992 sur la statistique fédérale[^135-2] ainsi que l’art. 14 al. 3 de la loi du 3 octobre 2003 sur la Banque nationale[^135-3] demeurent réservés.[^135-4]
 
 <sup>3</sup> Les données qui n’ont pas été rendues anonymes peuvent être utilisées à des fins de contrôle et de planification internes des affaires.
 
 [^135-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 [^135-2]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^135-3]: [RS 951.11](https://fedlex.data.admin.ch/eli/cc/2004/221)
+[^135-4]: Nouvelle teneur selon l’annexe 2 ch. II 73 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 135a
 

@@ -4,11 +4,11 @@ title: "Ordinance of 27 November 2009 on Value Added Tax (Value Added Tax Ordina
 short: VAT Ordinance
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: en
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2009-828-20230101-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2009-828-20230901-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Value Added Tax Ordinance, VAT Ordinance)
 
-of 27 November 2009 (Status as of 1 January 2023)
+of 27 November 2009 (Status as of 1 September 2023)
 
 The Swiss Federal Council,
 
@@ -741,7 +741,7 @@ Exempt from the tax with credit are turnovers in:
 
 <sup>2</sup> Alloys with two or more per cent by weight gold or, if platinum is contained therein, with more gold than platinum also constitute gold within the meaning of paragraph 1 letters d and e.
 
-[^44-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Annex
+[^44-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Annex. Now: 7118.9010, 9705.3100 and 9705.3900.
 [^44-2]: Amended by No I of the O of 30 Oct. 2013, in force since 1 Jan. 2014 ([AS 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
 [^44-3]: Amended by No I of the O of 30 Oct. 2013, in force since 1 Jan. 2014 ([AS 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
 
@@ -2235,12 +2235,14 @@ The data that the FTA may process under Article 76*a* paragraph 3 VAT Act are as
 
 <sup>1</sup> The FTA shall compile and maintain statistics to the extent necessary for the performance of its statutory tasks.
 
-<sup>2</sup> It may provide the federal and cantonal authorities and other interested persons with data for statistical purposes, provided they are anonymised and permit no inferences as to the persons in question. Article 10 paragraphs 4 and 5 of the Federal Statistics Act of 9 October 1992[^135-2] are reserved.
+<sup>2</sup> It may disclose data to the federal and cantonal authorities and other interested persons for statistical purposes, provided they are anonymised and permit no inferences as to the persons in question. Article 10 paragraphs 4 and 5 of the Federal Statistics Act of 9 October 1992[^135-2] and Article 14 paragraph 3 of the National Bank Act of 3 October 2003[^135-3] are reserved.[^135-4]
 
 <sup>3</sup> Non-anonymised data may be used for internal business audits and for internal business planning.
 
 [^135-1]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 [^135-2]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^135-3]: [SR 951.11](https://fedlex.data.admin.ch/eli/cc/2004/221)
+[^135-4]: Amended by Annex 2 No II 73 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 135a
 
