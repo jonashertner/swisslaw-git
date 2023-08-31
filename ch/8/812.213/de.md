@@ -4,11 +4,11 @@ title: Medizinprodukteverordnung vom 1. Juli 2020 (MepV)
 short: MepV
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/552"
 language: de
-version: 2022-05-26
+version: 2023-09-01
 adopted: 2020-07-01
 in_force: 2021-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20220526/de/xml/fedlex-data-admin-ch-eli-cc-2020-552-20220526-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20220526/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2020-552-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20220526/de"
 
 (MepV)
 
-vom 1. Juli 2020 (Stand am 26. Mai 2022)
+vom 1. Juli 2020 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat
 
@@ -318,7 +318,7 @@ Kein Konformitätskennzeichen darf angebracht werden auf:
 [^14-1]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
 [^14-2]: Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates, Fassung gemäss ABl. L 218 vom 13.8.2008, S. 30.
 
-### 2. Abschnitt: Klassifizierung, Produktinformation und Produktidentifikation****
+### 2. Abschnitt: Klassifizierung, Produktinformation und Produktidentifikation
 
 [^chap2-sec2-1]
 
@@ -979,7 +979,7 @@ Die weiteren Pflichten des Händlers vor und nach der Bereitstellung eines Produ
 
 [^54-1]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
 
-### 5. Abschnitt:**** Registrierung von Wirtschaftsakteuren
+### 5. Abschnitt: Registrierung von Wirtschaftsakteuren
 
 [^chap6-sec5-1]
 
@@ -1423,13 +1423,15 @@ Die Swissmedic trägt die Verantwortung für das Informationssystem Medizinprodu
 
 **Sicherstellung des Datenschutzes und der Datensicherheit**
 
-<sup>1</sup> Die Swissmedic erstellt ein Bearbeitungsreglement nach Artikel 21 der Verordnung vom 14. Juni 1993[^84-1] zum Bundesgesetz über den Datenschutz (VDSG).
+<sup>1</sup> Die Swissmedic erstellt ein Bearbeitungsreglement nach Artikel 6 der Datenschutzverordnung vom 31. August 2022[^84-1] (DSV).[^84-2]
 
-<sup>2</sup> Für die Gewährleistung der Datensicherheit gelten die Artikel 20 und 21 VDSG.
+<sup>2</sup> Für die Gewährleistung der Datensicherheit gelten die Artikel 1–4 und 6 DSV.[^84-3]
 
 <sup>3</sup> Die Datenbearbeitung ist automatisch zu protokollieren.
 
 [^84-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^84-2]: Fassung gemäss Anhang 2 Ziff. II 101 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^84-3]: Fassung gemäss Anhang 2 Ziff. II 101 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 85
 
@@ -1505,11 +1507,12 @@ Daten, die nicht Personendaten sind, können für die unabhängige Bewertung der
 
 #### Art. 92
 
-**Anwendbarkeit des Datenschutzgesetzes**
+**Anwendbarkeit des Datenschutzgesetzes**[^92-1]
 
-Alle im Informationssystem Medizinprodukte vorgenommenen Datenbearbeitungen müssen dem Bundesgesetz vom 19. Juni 1992[^92-1] über den Datenschutz entsprechen.
+Alle im Informationssystem Medizinprodukte vorgenommenen Datenbearbeitungen müssen dem Datenschutzgesetz vom 25. September 2020[^92-2] entsprechen.
 
-[^92-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^92-1]: Fassung gemäss Anhang 2 Ziff. II 101 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^92-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 ## 11. Kapitel: Schlussbestimmungen
 
@@ -1761,7 +1764,7 @@ Anhang 1
 - 5\. Für die Anwendung am menschlichen Körper bestimmte Geräte, die hochintensive elektromagnetische Strahlung, wie Infrarotstrahlung, sichtbares Licht, ultraviolette Strahlung, abgeben, kohärente und nichtkohärente Lichtquellen sowie monochromatisches Licht und Licht im Breitbandspektrum eingeschlossen, etwa Laser und mit intensiv gepulstem Licht arbeitende Geräte zum Abtragen der oberen Hautschichten („skin resurfacing“), zur Tattoo- oder Haarentfernung oder zu anderen Formen der Hautbehandlung.
 - 6\. Geräte zur transkraniellen Stimulation des Gehirns durch elektrischen Strom oder magnetische oder elektromagnetische Felder zur Änderung der neuronalen Aktivität im Gehirn.
 
-Anhang 2*[^t-1]*
+Anhang 2[^t-1]
 
 (Art. 5 Abs. 1)
 
@@ -1773,7 +1776,7 @@ Die nachstehenden Ausdrücke der EU-MDR[^annex2-lvlu1-1] und der vorliegenden Ve
 
 <table>
 <tr><th>EU</th><th>Schweiz</th></tr>
-<tr><td>*a. Deutsche Ausdrücke*</td><td></td></tr>
+<tr><td>a. Deutsche Ausdrücke</td><td></td></tr>
 <tr><td>Union</td><td>Schweiz</td></tr>
 <tr><td>Mitgliedstaat</td><td>Schweiz</td></tr>
 <tr><td>Drittstaat / Drittland</td><td>anderer Staat</td></tr>
@@ -1789,7 +1792,7 @@ Die nachstehenden Ausdrücke der EU-MDR[^annex2-lvlu1-1] und der vorliegenden Ve
 <tr><td>Aussetzung</td><td>Suspendierung</td></tr>
 <tr><td>Zurückziehung</td><td>Widerruf</td></tr>
 <tr><td>Transplantate</td><td>Organe</td></tr>
-<tr><td>*b. Französische Ausdrücke*</td><td></td></tr>
+<tr><td>b. Französische Ausdrücke</td><td></td></tr>
 <tr><td>Union</td><td>Suisse</td></tr>
 <tr><td>État membre</td><td>Suisse</td></tr>
 <tr><td>État tiers / pays tiers</td><td>autre État</td></tr>
@@ -1807,7 +1810,7 @@ Die nachstehenden Ausdrücke der EU-MDR[^annex2-lvlu1-1] und der vorliegenden Ve
 <tr><td>autorités</td><td>autorités compétentes en vertu du droit suisse</td></tr>
 <tr><td>retrait des certificats</td><td>révocation des certificats</td></tr>
 <tr><td>retrait de la désignation</td><td>révocation de la désignation</td></tr>
-<tr><td>*c. Italienische Ausdrücke*</td><td></td></tr>
+<tr><td>c. Italienische Ausdrücke</td><td></td></tr>
 <tr><td>Unione</td><td>Svizzera</td></tr>
 <tr><td>Stato Membro</td><td>Svizzera</td></tr>
 <tr><td>paese terzo</td><td>altro Stato</td></tr>
@@ -1832,13 +1835,13 @@ Die nachstehenden Ausdrücke der EU-MDR[^annex2-lvlu1-1] und der vorliegenden Ve
 
 [^annex2-lvlu1-1]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
 
-Anhang 3*[^t-2]*
+Anhang 3[^t-2]
 
 (Art. 5 Abs. 2)
 
 ## Anwendbares Recht
 
-[^t-2]: Bereinigt gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^t-2]: Bereinigt gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)) und Anhang 2 Ziff. II 101 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### 1 EU-Recht
 
@@ -1868,7 +1871,7 @@ Wird in dieser Verordnung auf Bestimmungen der EU-MDR[^annex3-lvlu1-lvl2-1] verw
 <tr><td>10. Richtlinie 2002/98/EG des Europäischen Parlaments und des Rates vom 27. Januar 2003 zur Festlegung von Qualitäts- und Sicherheitsstandards für die Gewinnung, Testung, Verarbeitung, Lagerung und Verteilung von menschlichem Blut und Blutbestandteilen zur Änderung der Richtlinie 2001/83/EG, ABl. L 33 vom 8.2.2003, S. 30</td><td colspan="2">[tab] Heilmittelgesetz vom 15. Dezember 2000 und Transplantationsgesetz vom 8. Oktober 2004</td></tr>
 <tr><td>11. Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen der Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit, ABl. L 31 vom 1.2.2002, S. 1</td><td colspan="2">[tab] Lebensmittelgesetz vom 20. Juni 2014[^annex3-lvlu1-lvl2-7]</td></tr>
 <tr><td>12. Verordnung (EU) Nr. 1025/2012 des Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur europäischen Normung, zur Änderung der Richtlinien 89/686/EWG und 93/15/EWG des Rates sowie der Richtlinien 94/9/EG, 94/25/EG, 95/16/EG, 97/23/EG, 98/34/EG, 2004/22/EG, 2007/23/EG, 2009/23/EG und 2009/105/EG des Europäischen Parlaments und des Rates und zur Aufhebung des Beschlusses 87/95/EWG des Rates und des Beschlusses Nr. 1673/2006/EG des Europäischen Parlaments und des Rates, ABl. L 316 vom 14.11.2012, S. 12</td><td colspan="2">[tab] Heilmittelgesetz vom 15. Dezember 2000 und Bundesgesetz vom 6. Oktober 1995[^annex3-lvlu1-lvl2-8] über die technischen Handelshemmnisse</td></tr>
-<tr><td>13. Verordnung (EG) Nr. 45/2001 des Europäischen Parlaments und des Rates vom 18. Dezember 2000 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten durch die Organe und Einrichtungen der Gemeinschaft und zum freien Datenverkehr, ABl. L 8 vom 12.1.2001, S. 1</td><td colspan="2">[tab] Bundesgesetz vom 19. Juni 1992[^annex3-lvlu1-lvl2-9] über den Datenschutz</td></tr>
+<tr><td>13. Verordnung (EG) Nr. 45/2001 des Europäischen Parlaments und des Rates vom 18. Dezember 2000 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten durch die Organe und Einrichtungen der Gemeinschaft und zum freien Datenverkehr, ABl. L 8 vom 12.1.2001, S. 1</td><td colspan="2">[tab] Datenschutzgesetz vom 25. September 2020[^annex3-lvlu1-lvl2-9]</td></tr>
 <tr><td>14. Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates, ABl. L 218 vom 13.8.2008, S. 30</td><td colspan="2">[tab] Bundesgesetz vom 6. Oktober 1995 über die technischen Handelshemmnisse und Bundesgesetz vom 12. Juni 2009[^annex3-lvlu1-lvl2-10] über die Produktesicherheit</td></tr>
 <tr><td>15. Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Agentur für chemische Stoffe, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission, ABl. L 396 vom 30.12.2006, S. 1</td><td colspan="2">[tab] Chemikaliengesetz vom 15. Dezember 2000[^annex3-lvlu1-lvl2-11]</td></tr>
 <tr><td>16. Verordnung (EU) Nr. 528/2012 des Europäischen Parlaments und des Rates vom 22. Mai 2012 über die Bereitstellung auf dem Markt und die Verwendung von Biozidprodukten, ABl. L 167 vom 27.6.2012, S. 1</td><td colspan="2">[tab] Biozidprodukteverordnung vom 18. Mai 2005[^annex3-lvlu1-lvl2-12]</td></tr>
@@ -1895,11 +1898,11 @@ Wird in dieser Verordnung auf Bestimmungen der EU-MDR[^annex3-lvlu1-lvl2-1] verw
 [^annex3-lvlu1-lvl2-14]: [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
 [^annex3-lvlu1-lvl2-15]: [SR 813.112.1](https://fedlex.data.admin.ch/eli/cc/2005/467)
 
-Anhang 4*[^t-3]*
+Anhang 4[^t-3]
 
 (Art. 4 Abs. 2, 17 Abs. 4, 19 Abs. 1 Bst. c, 20 Abs. 1, 23, 25 Abs. 3, 29 Abs. 2, 45 Abs. 2, 46 Abs. 3, 47 Abs. 1 und 98 Abs. 2 Bst. b)
 
-## Direkt anwendbare Rechtsakte der Europäischen Kommission gemäss EU-MDR****
+## Direkt anwendbare Rechtsakte der Europäischen Kommission gemäss EU-MDR
 
 [^annex4-lvlu1-1]
 
@@ -1931,13 +1934,13 @@ Anhang 5
 
 Für die Angabe des Konformitätskennzeichens gilt folgende Darstellung:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20220526/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20230901/de/xml/image/image1.png)
 
 Sofern eine bezeichnete Stelle beigezogen werden muss, ist neben ihrem Konformitätskennzeichen auch ihre Kennnummer anzugeben.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20220526/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20230901/de/xml/image/image2.png)
 
-Anhang 6*[^t-4]*
+Anhang 6[^t-4]
 
 (Art. 70 Abs. 2 und 3)
 

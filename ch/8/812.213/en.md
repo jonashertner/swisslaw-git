@@ -4,11 +4,11 @@ title: Medical Devices Ordinance of 1 July 2020 (MedDO)
 short: MedDO
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/552"
 language: en
-version: 2022-05-26
+version: 2023-09-01
 adopted: 2020-07-01
 in_force: 2021-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20220526/en/xml/fedlex-data-admin-ch-eli-cc-2020-552-20220526-en-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20220526/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2020-552-20230901-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (MedDO)
 
-of 1 July 2020 (Status as of 26 May 2022)
+of 1 July 2020 (Status as of 1 September 2023)
 
 The Swiss Federal Council,
 
@@ -320,7 +320,7 @@ The following must not bear a conformity marking:
 [^14-1]: See the footnote to Art. 4 para. 1 let. f.
 [^14-2]: Regulation (EC) No. 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93, last amended by OJ L 218 of 13.8.2008, p. 30.
 
-### Section 2 Classification, Product Information und Product Identification****
+### Section 2 Classification, Product Information und Product Identification
 
 [^chap2-sec2-1]
 
@@ -981,7 +981,7 @@ The further obligations of distributors prior to and after making a device avail
 
 [^54-1]: See the footnote to Art. 4 para. 1 let. f.
 
-### Section 5**** Registration of Economic Operators
+### Section 5 Registration of Economic Operators
 
 [^chap6-sec5-1]
 
@@ -1423,13 +1423,15 @@ Swissmedic is responsible for the medical devices information system required un
 
 **Data protection and security**
 
-<sup>1</sup> Swissmedic shall draw up processing rules in accordance with Article 21 of the Ordinance of 14 June 1993[^84-1] to the Federal Act on Data Protection (OFADP).
+<sup>1</sup> Swissmedic shall draw up processing rules in accordance with Article 6 of the Data Protection Ordinance of 31 August 2022[^84-1] (DPO).[^84-2]
 
-<sup>2</sup> Articles 20 and 21 OFADP apply to data security.
+<sup>2</sup> Articles 1–4 und 6 DPO apply to data security.[^84-3]
 
 <sup>3</sup> Data processing must be automatically logged.
 
 [^84-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^84-2]: Amended by Annex 2 No II 101 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^84-3]: Amended by Annex 2 No II 101 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 85
 
@@ -1505,11 +1507,12 @@ Non-personal data may be used for the independent assessment of long-term device
 
 #### Art. 92
 
-**Applicability of the Data Protection Act**
+**Applicability of the Data Protection Act**[^92-1]
 
-All data processing activities carried out in the medical devices information system must comply with the Federal Act of 19 June 1992[^92-1] on Data Protection.
+All data processing activities carried out in the medical devices information system must comply with the Data Protection Act of 25 September 2020[^92-2].
 
-[^92-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^92-1]: Amended by Annex 2 No II 101 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^92-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 ## Chapter 11 Final Provisions
 
@@ -1761,7 +1764,7 @@ Annex 1
 - 5\. High intensity electromagnetic radiation (e.g. infra-red, visible light and ultra-violet) emitting equipment intended for use on the human body, including coherent and non-coherent sources, monochromatic and broad spectrum, such as lasers and intense pulsed light equipment, for skin resurfacing, tattoo or hair removal or other skin treatment.
 - 6\. Equipment intended for brain stimulation that apply electrical currents or magnetic or electromagnetic fields that penetrate the cranium to modify neuronal activity in the brain.
 
-Annex 2*[^t-1]*
+Annex 2[^t-1]
 
 (Art. 5 para. 1)
 
@@ -1772,87 +1775,87 @@ Annex 2*[^t-1]*
 The terms listed below and used in EU MDR[^annex2-lvlu1-1] and this Ordinance are equivalent as follows:
 
 <table>
-<tr><th colspan="2">EU</th><th colspan="2">Switzerland</th></tr>
-<tr><td colspan="2">*a. English terms*</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Union</td><td colspan="2">Switzerland</td></tr>
-<tr><td colspan="2">Member State</td><td colspan="2">Switzerland</td></tr>
-<tr><td colspan="2">Third country</td><td colspan="2">Other state</td></tr>
-<tr><td colspan="2">Union market</td><td colspan="2">Swiss market</td></tr>
-<tr><td colspan="2">Union legislation / Union harmonisation legislation</td><td colspan="2">Legislation</td></tr>
-<tr><td colspan="2">Harmonised standard</td><td colspan="2">Designated standard</td></tr>
-<tr><td colspan="2">State of the art</td><td colspan="2">Scientific and technological standards</td></tr>
-<tr><td colspan="2">EU declaration of conformity</td><td colspan="2">Declaration of conformity</td></tr>
-<tr><td colspan="2">Official Journal of the European Union</td><td colspan="2">Federal Gazette (*Bundesblatt*)</td></tr>
-<tr><td colspan="2">Established outside / within the Union</td><td colspan="2">Domiciled in / outside Switzerland</td></tr>
-<tr><td colspan="2">Authority</td><td colspan="2">Competent authority under Swiss law</td></tr>
-<tr><td colspan="2">Withdrawal</td><td colspan="2">Revocation</td></tr>
-<tr><td colspan="2">Transplants</td><td colspan="2">Organs</td></tr>
-<tr><td colspan="2">*a. Deutsche Ausdrücke*</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Union</td><td colspan="2">Schweiz</td></tr>
-<tr><td colspan="2">Mitgliedstaat</td><td colspan="2">Schweiz</td></tr>
-<tr><td colspan="2">Drittstaat / Drittland</td><td colspan="2">anderer Staat</td></tr>
-<tr><td colspan="2">Unionsmarkt</td><td colspan="2">Schweizer Markt</td></tr>
-<tr><td colspan="2">Rechtsvorschriften der Union / Harmonisierungsrechtsvorschriften der Union</td><td colspan="2">Rechtsvorschriften</td></tr>
-<tr><td colspan="2">Harmonisierte Norm</td><td colspan="2">Bezeichnete Norm</td></tr>
-<tr><td colspan="2">Stand der Technik</td><td colspan="2">Stand von Wissenschaft und Technik</td></tr>
-<tr><td colspan="2">EU-Konformitätserklärung</td><td colspan="2">Konformitätserklärung</td></tr>
-<tr><td colspan="2">Amtsblatt der Europäischen Union</td><td colspan="2">Bundesblatt</td></tr>
-<tr><td colspan="2">Ausserhalb / In der Union ansässig</td><td colspan="2">Sitz ausserhalb / in der Schweiz</td></tr>
-<tr><td colspan="2">Behörde</td><td colspan="2">Nach schweizerischem Recht zuständige Behörde</td></tr>
-<tr><td>Angehörige der Gesundheitsberufe</td><td colspan="2">Gesundheitsfachpersonen</td></tr>
-<tr><td>Aussetzung</td><td colspan="2">Suspendierung</td></tr>
-<tr><td>Zurückziehung</td><td colspan="2">Widerruf</td></tr>
-<tr><td>Transplantate</td><td colspan="2">Organe</td></tr>
-<tr><td colspan="2">*b. French terms*</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Union</td><td colspan="2">Suisse</td></tr>
-<tr><td colspan="2">État membre</td><td colspan="2">Suisse</td></tr>
-<tr><td colspan="2">État tiers / pays tiers</td><td colspan="2">autre État</td></tr>
-<tr><td colspan="2">marché de l’Union</td><td colspan="2">marché suisse</td></tr>
-<tr><td colspan="2">législation (actes législatifs) de l’Union / législation d’harmonisation de l’Union</td><td colspan="2">législations</td></tr>
-<tr><td colspan="2">norme harmonisée</td><td colspan="2">norme désignée</td></tr>
-<tr><td colspan="2">état de l’art</td><td colspan="2">état de la science et de la technique</td></tr>
-<tr><td colspan="2">déclaration de conformité UE</td><td colspan="2">déclaration de conformité</td></tr>
-<tr><td colspan="2">dispositif faisant l’objet d’une investigation</td><td colspan="2">dispositif faisant l’objet d’un essai clinique</td></tr>
-<tr><td colspan="2">Journal officiel de l’Union européenne</td><td colspan="2">Feuille fédérale</td></tr>
-<tr><td colspan="2">situé hors de l’Union / établi dans l’Union</td><td colspan="2">sis à l’étranger / en Suisse</td></tr>
-<tr><td colspan="2">notice d’utilisation</td><td colspan="2">mode d’emploi</td></tr>
-<tr><td colspan="2">conditionnement</td><td colspan="2">emballage</td></tr>
-<tr><td colspan="2">notification des incidents graves</td><td colspan="2">déclaration des incidents graves</td></tr>
-<tr><td colspan="2">autorités</td><td colspan="2">autorités compétentes en vertu du droit suisse</td></tr>
-<tr><td colspan="2">retrait des certificats</td><td colspan="2">révocation des certificats</td></tr>
-<tr><td colspan="2">retrait de la désignation</td><td colspan="2">révocation de la désignation</td></tr>
-<tr><td colspan="2">*c. Italian terms*</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Unione</td><td colspan="2">Svizzera</td></tr>
-<tr><td colspan="2">Stato Membro</td><td colspan="2">Svizzera</td></tr>
-<tr><td colspan="2">paese terzo</td><td colspan="2">altro Stato</td></tr>
-<tr><td colspan="2">mercato dell’Unione</td><td colspan="2">mercato svizzero</td></tr>
-<tr><td colspan="2">legislativo dell’Unione / normativa di armonizzazione dell’Unione</td><td colspan="2">legislazioni</td></tr>
-<tr><td colspan="2">norma armonizzata</td><td colspan="2">norma designata</td></tr>
-<tr><td colspan="2">stato dell’arte</td><td colspan="2">stato della scienza e della tecnica</td></tr>
-<tr><td colspan="2">dichiarazione di conformità UE</td><td colspan="2">dichiarazione di conformità</td></tr>
-<tr><td colspan="2">marcatura CE di conformità</td><td colspan="2">marchio di conformità</td></tr>
-<tr><td colspan="2">Gazzetta ufficiale dell’Unione europea</td><td colspan="2">Foglio federale</td></tr>
-<tr><td colspan="2">avente sede fuori dall’Unione,/ stabilito nell’Unione</td><td colspan="2">avente sede all’estero/ in Svizzera</td></tr>
-<tr><td colspan="2">autorità</td><td colspan="2">autorità competente secondo il diritto svizzero</td></tr>
-<tr><td colspan="2">operatori sanitari</td><td colspan="2">professionisti della salute</td></tr>
-<tr><td colspan="2">controllata</td><td colspan="2">società controllata</td></tr>
-<tr><td colspan="2">ritiro dei certificati</td><td colspan="2">revoca dei certificati</td></tr>
-<tr><td colspan="2">ritiro della designazione</td><td colspan="2">revoca della designazione</td></tr>
-<tr><td colspan="2">immissione sul mercato</td><td colspan="2">immissione in commercio</td></tr>
-<tr><td colspan="2">segnalazione di incidenti gravi</td><td colspan="2">notifica di incidenti gravi</td></tr>
-<tr><td colspan="2">dispositivo oggetto di indagine</td><td colspan="2">dispositivo oggetto di sperimentazione clinica</td></tr>
-<tr><td colspan="2">confezionamento</td><td colspan="2">imballaggio</td></tr>
+<tr><th>EU</th><th>Switzerland</th></tr>
+<tr><td>a. English terms</td><td></td></tr>
+<tr><td>Union</td><td>Switzerland</td></tr>
+<tr><td>Member State</td><td>Switzerland</td></tr>
+<tr><td>Third country</td><td>Other state</td></tr>
+<tr><td>Union market</td><td>Swiss market</td></tr>
+<tr><td>Union legislation / Union harmonisation legislation</td><td>Legislation</td></tr>
+<tr><td>Harmonised standard</td><td>Designated standard</td></tr>
+<tr><td>State of the art</td><td>Scientific and technological standards</td></tr>
+<tr><td>EU declaration of conformity</td><td>Declaration of conformity</td></tr>
+<tr><td>Official Journal of the European Union</td><td>Federal Gazette (Bundesblatt)</td></tr>
+<tr><td>Established outside / within the Union</td><td>Domiciled in / outside Switzerland</td></tr>
+<tr><td>Authority</td><td>Competent authority under Swiss law</td></tr>
+<tr><td>Withdrawal</td><td>Revocation</td></tr>
+<tr><td>Transplants</td><td>Organs</td></tr>
+<tr><td>a. Deutsche Ausdrücke</td><td></td></tr>
+<tr><td>Union</td><td>Schweiz</td></tr>
+<tr><td>Mitgliedstaat</td><td>Schweiz</td></tr>
+<tr><td>Drittstaat / Drittland</td><td>anderer Staat</td></tr>
+<tr><td>Unionsmarkt</td><td>Schweizer Markt</td></tr>
+<tr><td>Rechtsvorschriften der Union / Harmonisierungsrechtsvorschriften der Union</td><td>Rechtsvorschriften</td></tr>
+<tr><td>Harmonisierte Norm</td><td>Bezeichnete Norm</td></tr>
+<tr><td>Stand der Technik</td><td>Stand von Wissenschaft und Technik</td></tr>
+<tr><td>EU-Konformitätserklärung</td><td>Konformitätserklärung</td></tr>
+<tr><td>Amtsblatt der Europäischen Union</td><td>Bundesblatt</td></tr>
+<tr><td>Ausserhalb / In der Union ansässig</td><td>Sitz ausserhalb / in der Schweiz</td></tr>
+<tr><td>Behörde</td><td>Nach schweizerischem Recht zuständige Behörde</td></tr>
+<tr><td>Angehörige der Gesundheitsberufe</td><td>Gesundheitsfachpersonen</td></tr>
+<tr><td>Aussetzung</td><td>Suspendierung</td></tr>
+<tr><td>Zurückziehung</td><td>Widerruf</td></tr>
+<tr><td>Transplantate</td><td>Organe</td></tr>
+<tr><td>b. French terms</td><td></td></tr>
+<tr><td>Union</td><td>Suisse</td></tr>
+<tr><td>État membre</td><td>Suisse</td></tr>
+<tr><td>État tiers / pays tiers</td><td>autre État</td></tr>
+<tr><td>marché de l’Union</td><td>marché suisse</td></tr>
+<tr><td>législation (actes législatifs) de l’Union / législation d’harmonisation de l’Union</td><td>législations</td></tr>
+<tr><td>norme harmonisée</td><td>norme désignée</td></tr>
+<tr><td>état de l’art</td><td>état de la science et de la technique</td></tr>
+<tr><td>déclaration de conformité UE</td><td>déclaration de conformité</td></tr>
+<tr><td>dispositif faisant l’objet d’une investigation</td><td>dispositif faisant l’objet d’un essai clinique</td></tr>
+<tr><td>Journal officiel de l’Union européenne</td><td>Feuille fédérale</td></tr>
+<tr><td>situé hors de l’Union / établi dans l’Union</td><td>sis à l’étranger / en Suisse</td></tr>
+<tr><td>notice d’utilisation</td><td>mode d’emploi</td></tr>
+<tr><td>conditionnement</td><td>emballage</td></tr>
+<tr><td>notification des incidents graves</td><td>déclaration des incidents graves</td></tr>
+<tr><td>autorités</td><td>autorités compétentes en vertu du droit suisse</td></tr>
+<tr><td>retrait des certificats</td><td>révocation des certificats</td></tr>
+<tr><td>retrait de la désignation</td><td>révocation de la désignation</td></tr>
+<tr><td>c. Italian terms</td><td></td></tr>
+<tr><td>Unione</td><td>Svizzera</td></tr>
+<tr><td>Stato Membro</td><td>Svizzera</td></tr>
+<tr><td>paese terzo</td><td>altro Stato</td></tr>
+<tr><td>mercato dell’Unione</td><td>mercato svizzero</td></tr>
+<tr><td>legislativo dell’Unione / normativa di armonizzazione dell’Unione</td><td>legislazioni</td></tr>
+<tr><td>norma armonizzata</td><td>norma designata</td></tr>
+<tr><td>stato dell’arte</td><td>stato della scienza e della tecnica</td></tr>
+<tr><td>dichiarazione di conformità UE</td><td>dichiarazione di conformità</td></tr>
+<tr><td>marcatura CE di conformità</td><td>marchio di conformità</td></tr>
+<tr><td>Gazzetta ufficiale dell’Unione europea</td><td>Foglio federale</td></tr>
+<tr><td>avente sede fuori dall’Unione,/ stabilito nell’Unione</td><td>avente sede all’estero/ in Svizzera</td></tr>
+<tr><td>autorità</td><td>autorità competente secondo il diritto svizzero</td></tr>
+<tr><td>operatori sanitari</td><td>professionisti della salute</td></tr>
+<tr><td>controllata</td><td>società controllata</td></tr>
+<tr><td>ritiro dei certificati</td><td>revoca dei certificati</td></tr>
+<tr><td>ritiro della designazione</td><td>revoca della designazione</td></tr>
+<tr><td>immissione sul mercato</td><td>immissione in commercio</td></tr>
+<tr><td>segnalazione di incidenti gravi</td><td>notifica di incidenti gravi</td></tr>
+<tr><td>dispositivo oggetto di indagine</td><td>dispositivo oggetto di sperimentazione clinica</td></tr>
+<tr><td>confezionamento</td><td>imballaggio</td></tr>
 </table>
 
 [^annex2-lvlu1-1]: See the footnote to Art. 4 para. 1 let. f.
 
-Annex 3*[^t-2]*
+Annex 3[^t-2]
 
 (Art. 5 para. 2)
 
 ## Applicable law
 
-[^t-2]: Revised by Annex 5 No 1 of the O of 4 May 2022 on In Vitro Diagnostic Medical Devices, in force since 26 May 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^t-2]: Revised by Annex 5 No 1 of the O of 4 May 2022 on In Vitro Diagnostic Medical Devices ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)) and Annex 2 No II 101 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### 1 EU law
 
@@ -1882,7 +1885,7 @@ Where this Ordinance makes reference to provisions of EU-MDR[^annex3-lvlu1-lvl2-
 <tr><td>10. Directive 2002/98/EC of the European Parliament and of the Council of 27 January 2003 setting standards of quality and safety for the collection, testing, processing, storage and distribution of human blood and blood components and amending Directive 2001/83/EC, OJ L 33 of 8.2.2003, p. 30.</td><td colspan="3">[tab] Therapeutic Products Act of 15 December 2000 and Transplantation Act of 8 October 2004</td></tr>
 <tr><td>11. Regulation (EC) No 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety OJ L 31 of 1.2.2002, p. 1.</td><td colspan="3">[tab] Foodstuffs Act of 20 June 2014[^annex3-lvlu1-lvl2-7]</td></tr>
 <tr><td>12. Regulation (EU) No 1025/2012 of the European Parliament and of the Council of 25 October 2012 on European standardisation, amending Council Directives 89/686/EEC and 93/15/EEC and Directives 94/9/EC, 94/25/EC, 95/16/EC, 97/23/EC, 98/34/EC, 2004/22/EC, 2007/23/EC, 2009/23/EC and 2009/105/EC of the European Parliament and of the Council and repealing Council Decision 87/95/EEC and Decision No 1673/2006/EC of the European Parliament and of the Council, OJ L 316 of 14.11.2021, p. 12.</td><td colspan="3">[tab] Therapeutic Products Act of 15 December 2000 and Federal Act of 6 October 1995[^annex3-lvlu1-lvl2-8] on Technical Barriers to Trade</td></tr>
-<tr><td>13. Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data, OJ L 8 of 12.1.2001, p. 1</td><td colspan="3">[tab] Federal Act of 19 June 1992[^annex3-lvlu1-lvl2-9] on Data Protection</td></tr>
+<tr><td>13. Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data, OJ L 8 of 12.1.2001, p. 1</td><td colspan="3">[tab] Data Protection Act of 25 September 2020[^annex3-lvlu1-lvl2-9]</td></tr>
 <tr><td>14. Regulation (EC) No. 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93, OJ L 218 of 13.8.2008, p. 30</td><td colspan="3">[tab] Federal Act of 6 October 1995 on Technical Barriers to Trade and Product Safety Act of 12 June 2009[^annex3-lvlu1-lvl2-10]</td></tr>
 <tr><td>15. Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC, OJ L 396, 30.12.2006, p. 1.</td><td colspan="3">[tab] Chemicals Act of 15 December 2000[^annex3-lvlu1-lvl2-11]</td></tr>
 <tr><td>16. Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products, OJ L 167 of 27.6.2012, p. 1.</td><td colspan="3">[tab] Ordinance on Biocidal Products of 18 May 2005[^annex3-lvlu1-lvl2-12]</td></tr>
@@ -1909,11 +1912,11 @@ Where this Ordinance makes reference to provisions of EU-MDR[^annex3-lvlu1-lvl2-
 [^annex3-lvlu1-lvl2-14]: [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
 [^annex3-lvlu1-lvl2-15]: [SR 813.112.1](https://fedlex.data.admin.ch/eli/cc/2005/467)
 
-Annex 4*[^t-3]*
+Annex 4[^t-3]
 
 (Art. 4 para. 2, 17 para. 4, 19 para. 1 let. c, 20 para. 1, 23, 25 para. 3, 29 para. 2, 45 para. 2, 46 para. 3, 47 para. 1 and 98 para. 2 let. b)
 
-## Delegated acts of the European Commission based on EU-MDR****
+## Delegated acts of the European Commission based on EU-MDR
 
 [^annex4-lvlu1-1]
 
@@ -1945,13 +1948,13 @@ Annex 5
 
 The conformity marking is as follows:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20220526/en/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20230901/en/xml/image/image1.png)
 
 Where a designated body has to be involved, its identification number is to be placed beside its conformity marking.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20220526/en/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20230901/en/xml/image/image2.png)
 
-Annex 6*[^t-4]*
+Annex 6[^t-4]
 
 (Art. 70, paras 2 and 3)
 

@@ -4,11 +4,11 @@ title: Ordinanza del 1° luglio 2020 relativa ai dispositivi medici (ODmed)
 short: ODmed
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/552"
 language: it
-version: 2022-05-26
+version: 2023-09-01
 adopted: 2020-07-01
 in_force: 2021-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20220526/it/xml/fedlex-data-admin-ch-eli-cc-2020-552-20220526-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20220526/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2020-552-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20220526/it"
 
 (ODmed)
 
-del 1° luglio 2020 (Stato 26 maggio 2022) (Stato 26 maggio 2022)
+del 1° luglio 2020 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -314,7 +314,7 @@ Non è permesso apporre un marchio di conformità su:
 [^14-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
 [^14-2]: Regolamento (CE) n. 765/2008 del Parlamento europeo e del Consiglio, del 9 luglio 2008, che pone norme in materia di accreditamento e vigilanza del mercato per quanto riguarda la commercializzazione dei prodotti e che abroga il regolamento (CEE) n. 339/93 del Consiglio; versione della GU L 218 del 13.8.2008, pag. 30.
 
-### Sezione 2: Classificazione, informazione e identificazione****
+### Sezione 2: Classificazione, informazione e identificazione
 
 [^chap2-sec2-1]
 
@@ -975,7 +975,7 @@ Gli altri obblighi del distributore prima e dopo la messa a disposizione sul mer
 
 [^54-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
 
-## Sezione 5:**** Registrazione di operatori economici
+## Sezione 5: Registrazione di operatori economici
 
 [^chap7-1]
 
@@ -1421,13 +1421,15 @@ Swissmedic è responsabile del sistema d’informazione sui dispositivi medici d
 
 **Garanzia della protezione e della sicurezza dei dati**
 
-<sup>1</sup> Swissmedic emana un regolamento per il trattamento di cui all’articolo 21 dell’ordinanza del 14 giugno 1993[^84-1] relativa alla legge federale sulla protezione dei dati (OLPD).
+<sup>1</sup> Swissmedic emana un regolamento per il trattamento di cui all’articolo 6 dell’ordinanza del 31 agosto 2022[^84-1] sulla protezione dei dati (OPDa).[^84-2]
 
-<sup>2</sup> Al fine di garantire la sicurezza dei dati si applicano gli articoli 20 e 21 OLPD.
+<sup>2</sup> Al fine di garantire la sicurezza dei dati si applicano gli articoli 1–4 e 6 OPDa.[^84-3]
 
 <sup>3</sup> Il trattamento dei dati deve essere verbalizzato automaticamente.
 
 [^84-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^84-2]: Nuovo testo giusta l’all. 2 n. II 101 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^84-3]: Nuovo testo giusta l’all. 2 n. II 101 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 85
 
@@ -1505,11 +1507,12 @@ I dati diversi dai dati personali possono essere utilizzati per la valutazione i
 
 #### Art. 92
 
-**Applicabilità della legge federale sulla protezione dei dati**
+**Applicabilità della legge federale sulla protezione dei dati**[^92-1]
 
-Qualsiasi trattamento dei dati effettuato nel sistema d’informazione sui dispositivi medici deve essere conforme alla legge federale del 19 giugno 1992[^92-1] sulla protezione dei dati.
+Qualsiasi trattamento dei dati effettuato nel sistema d’informazione sui dispositivi medici deve essere conforme alla legge federale del 25 settembre 2020[^92-2] sulla protezione dei dati.
 
-[^92-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^92-1]: Nuovo testo giusta l’all. 2 n. II 101 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^92-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 ## Capitolo 11: Disposizioni finali
 
@@ -1761,7 +1764,7 @@ Allegato 1
 - 5\. Apparecchiature che emettono radiazioni elettromagnetiche ad alta intensità, come infrarossi, luce visibile e ultravioletti, destinate a essere utilizzate sul corpo umano, comprese fonti coerenti e non coerenti, monocromatiche e ad ampio spettro, come laser e apparecchiature a luce pulsata ad alta intensità per fotoringiovanimento cutaneo, tatuaggio o epilazione o altro trattamento dermico.
 - 6\. Attrezzature destinate alla stimolazione cerebrale che applicano correnti elettriche o campi magnetici o elettromagnetici che attraversano il cranio per modificare l’attività neuronale del cervello.
 
-Allegato 2*[^t-1]*
+Allegato 2[^t-1]
 
 (art. 5 cpv. 1)
 
@@ -1773,7 +1776,7 @@ Le espressioni qui appresso dell’UE-MDR[^annex2-lvlu1-1] hanno nella presente 
 
 <table>
 <tr><th>Unione europea</th><th>Svizzera</th></tr>
-<tr><td>*a. Espressioni in tedesco*</td><td></td></tr>
+<tr><td>a. Espressioni in tedesco</td><td></td></tr>
 <tr><td>Union</td><td>Schweiz</td></tr>
 <tr><td>Mitgliedstaat</td><td>Schweiz</td></tr>
 <tr><td>Drittstaat / Drittland</td><td>anderer Staat</td></tr>
@@ -1789,7 +1792,7 @@ Le espressioni qui appresso dell’UE-MDR[^annex2-lvlu1-1] hanno nella presente 
 <tr><td>Aussetzung</td><td>Suspendierung</td></tr>
 <tr><td>Zurückziehung</td><td>Widerruf</td></tr>
 <tr><td>Transplantate</td><td>Organe</td></tr>
-<tr><td>*b. Espressioni in francese*</td><td></td></tr>
+<tr><td>b. Espressioni in francese</td><td></td></tr>
 <tr><td>Union</td><td>Suisse</td></tr>
 <tr><td>État membre</td><td>Suisse</td></tr>
 <tr><td>État tiers / pays tiers</td><td>autre État</td></tr>
@@ -1807,7 +1810,7 @@ Le espressioni qui appresso dell’UE-MDR[^annex2-lvlu1-1] hanno nella presente 
 <tr><td>autorités</td><td>autorités compétentes en vertu du droit suisse</td></tr>
 <tr><td>retrait des certificats</td><td>révocation des certificats</td></tr>
 <tr><td>retrait de la désignation</td><td>révocation de la désignation</td></tr>
-<tr><td>*c. Espressioni in italiano*</td><td></td></tr>
+<tr><td>c. Espressioni in italiano</td><td></td></tr>
 <tr><td>Unione</td><td>Svizzera</td></tr>
 <tr><td>Stato Membro</td><td>Svizzera</td></tr>
 <tr><td>paese terzo</td><td>altro Stato</td></tr>
@@ -1832,13 +1835,13 @@ Le espressioni qui appresso dell’UE-MDR[^annex2-lvlu1-1] hanno nella presente 
 
 [^annex2-lvlu1-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
 
-Allegato 3*[^t-2]*
+Allegato 3[^t-2]
 
 (art. 5 cpv. 2)
 
 ## Diritto applicabile
 
-[^t-2]: Aggiornato dall’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^t-2]: Aggiornato dall’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)) e dall’all. 2 n. II 101 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### 1 Diritto UE
 
@@ -1868,7 +1871,7 @@ Se la presente ordinanza rimanda a disposizioni dell’UE-MDR[^annex3-lvlu1-lvl2
 <tr><td>10. Direttiva 2002/98/CE del Parlamento europeo e del Consiglio, del 27 gennaio 2003, che stabilisce norme di qualità e di sicurezza per la raccolta, il controllo, la lavorazione, la conservazione e la distribuzione del sangue umano e dei suoi componenti e che modifica la direttiva 2001/83/CE, GU L 33 dell’8.2.2003, pag. 30</td><td colspan="2">[tab] Legge del 15 dicembre 2000 sugli agenti terapeutici e legge dell’8 ottobre 2004 sui trapianti</td></tr>
 <tr><td>11. Regolamento (CE) n. 178/2002 del Parlamento europeo e del Consiglio, del 28 gennaio 2002, che stabilisce i principi e i requisiti generali della legislazione alimentare, istituisce l’Autorità europea per la sicurezza alimentare e fissa procedure nel campo della sicurezza alimentare, GU L 31 del 1.2.2002, pag. 1</td><td colspan="2">[tab] Legge del 20 giugno 2014[^annex3-lvlu1-lvl2-7] sulle derrate alimentari</td></tr>
 <tr><td>12. Regolamento (UE) n. 1025/2012 del Parlamento europeo e del Consiglio, del 25 ottobre 2012, sulla normazione europea, che modifica le direttive 89/686/CEE e 93/15/CEE del Consiglio nonché le direttive 94/9/CE, 94/25/CE, 95/16/CE, 97/23/CE, 98/34/CE, 2004/22/CE, 2007/23/CE, 2009/23/CE e 2009/105/CE del Parlamento europeo e del Consiglio e che abroga la decisione 87/95/CEE del Consiglio e la decisione n. 1673/2006/CE del Parlamento europeo e del Consiglio, GU L 316 del 14.11.2012, pag. 12</td><td colspan="2">[tab] Legge del 15 dicembre 2000 sugli agenti terapeutici e legge federale del 6 ottobre 1995[^annex3-lvlu1-lvl2-8] sugli ostacoli tecnici al commercio</td></tr>
-<tr><td>13. Regolamento (CE) n. 45/2001 del Parlamento europeo e del Consiglio, del 18 dicembre 2000, concernente la tutela delle persone fisiche in relazione al trattamento dei dati personali da parte delle istituzioni e degli organismi comunitari, nonché la libera circolazione di tali dati, GU L 8 del 12.1.2001, pag. 1</td><td colspan="2">[tab] Legge federale del 19 giugno 1992[^annex3-lvlu1-lvl2-9] sulla protezione dei dati</td></tr>
+<tr><td>13. Regolamento (CE) n. 45/2001 del Parlamento europeo e del Consiglio, del 18 dicembre 2000, concernente la tutela delle persone fisiche in relazione al trattamento dei dati personali da parte delle istituzioni e degli organismi comunitari, nonché la libera circolazione di tali dati, GU L 8 del 12.1.2001, pag. 1</td><td colspan="2">[tab] Legge federale del 25 settembre 2020[^annex3-lvlu1-lvl2-9] sulla protezione dei dati</td></tr>
 <tr><td>14. Regolamento (CE) n. 765/2008 del Parlamento europeo e del Consiglio, del 9 luglio 2008, che pone norme in materia di accreditamento e vigilanza del mercato per quanto riguarda la commercializzazione dei prodotti e che abroga il regolamento (CEE) n. 339/93, GU L 218 del 13.8.2008, pag. 30</td><td colspan="2">[tab] Legge federale del 6 ottobre 1995 sugli ostacoli tecnici al commercio e legge federale del 12 giugno 2009[^annex3-lvlu1-lvl2-10] sulla sicurezza dei prodotti</td></tr>
 <tr><td>15. Regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dicembre 2006, concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), che istituisce un’Agenzia europea per le sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio e il regolamento (CE) n. 1488/94 della Commissione, nonché la direttiva 76/769/CEE del Consiglio e le direttive della Commissione 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE, GU L 396 del 30.12.2006, pag. 1</td><td colspan="2">[tab] Legge del 15 dicembre 2000[^annex3-lvlu1-lvl2-11] sui prodotti chimici</td></tr>
 <tr><td>16. Regolamento (UE) n. 528/2012 del Parlamento europeo e del Consiglio, del 22 maggio 2012, relativo alla messa a disposizione sul mercato e all’uso dei biocidi, GU L 167 del 27.6.2012, pag. 1</td><td colspan="2">[tab] Ordinanza del 18 maggio 2005[^annex3-lvlu1-lvl2-12] sui biocidi</td></tr>
@@ -1895,11 +1898,11 @@ Se la presente ordinanza rimanda a disposizioni dell’UE-MDR[^annex3-lvlu1-lvl2
 [^annex3-lvlu1-lvl2-14]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
 [^annex3-lvlu1-lvl2-15]: [RS 813.112.1](https://fedlex.data.admin.ch/eli/cc/2005/467)
 
-Allegato 4*[^t-3]*
+Allegato 4[^t-3]
 
 (art. 4 cpv. 2, 17 cpv. 4, 19 cpv. 1 lett. c, 20 cpv. 1, 23, 25 cpv. 3, 29 cpv. 2, 45 cpv. 2, 46 cpv. 3, 47 cpv. 1 e 98 cpv. 2 lett. b)
 
-## Atti della Commissione europea direttamente applicabili secondo l’UE-MDR****
+## Atti della Commissione europea direttamente applicabili secondo l’UE-MDR
 
 [^annex4-lvlu1-1]
 
@@ -1931,13 +1934,13 @@ Allegato 5
 
 Il marchio di conformità è indicato nel modo seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20220526/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20230901/it/xml/image/image1.png)
 
 Se occorre fare ricorso a un organismo designato, oltre al marchio di conformità va indicato anche il numero d’identificazione di tale organismo.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20220526/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20230901/it/xml/image/image2.png)
 
-Allegato 6*[^t-4]*
+Allegato 6[^t-4]
 
 (art. 70 cpv. 2 e 3)
 

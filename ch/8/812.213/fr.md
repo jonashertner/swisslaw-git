@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> juillet 2020 sur les dispositifs médicaux 
 short: ODim
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/552"
 language: fr
-version: 2022-05-26
+version: 2023-09-01
 adopted: 2020-07-01
 in_force: 2021-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20220526/fr/xml/fedlex-data-admin-ch-eli-cc-2020-552-20220526-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20220526/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2020-552-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20220526/fr"
 
 (ODim)
 
-du 1<sup>er</sup> juillet 2020 (Etat le 26 mai 2022)
+du 1<sup>er</sup> juillet 2020 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -314,7 +314,7 @@ Il est interdit d’apposer un marquage de conformité sur:
 [^14-1]: Cf. note de bas de page relative à l’art. 4, al. 1, let. f.
 [^14-2]: Règlement (CE) n<sup>o</sup> 765/2008 du Parlement européen et du Conseil du 9 juillet 2008 fixant les prescriptions relatives à l’accréditation et à la surveillance du marché pour la commercialisation des produits et abrogeant le règlement (CEE) n<sup>o</sup> 339/93 du Conseil; version du JO L 218 du 13.8.2008, p. 30.
 
-### Section 2 Classification, information et identification****
+### Section 2 Classification, information et identification
 
 [^chap2-sec2-1]
 
@@ -371,7 +371,7 @@ L’information relative au dispositif peut être rédigée dans moins de trois 
 
 <sup>4</sup> Les obligations et modalités découlant de l’identification et de l’enregistrement des dispositifs sont régies par les art. 27 et 29 et par l’annexe VI RDM-UE, compte tenu des amendements apportés à ladite annexe par la Commission européenne au moyen de ses actes délégués[^17-6].
 
-<sup>5</sup> ...[^17-7]
+<sup>5</sup> …[^17-7]
 
 [^17-1]: Cf. note de bas de page relative à l’art. 4, al. 1, let. f.
 [^17-2]: En anglais *Unique Device Identification (UDI)*
@@ -972,7 +972,7 @@ Les autres obligations auxquelles est soumis le distributeur avant et après la 
 
 [^54-1]: Cf. note de bas de page relative à l’art. 4, al. 1, let. f.
 
-### Section 5**** Enregistrement des opérateurs économiques
+### Section 5 Enregistrement des opérateurs économiques
 
 [^chap6-sec5-1]
 
@@ -1152,7 +1152,7 @@ Le fabricant d’un dispositif mis à disposition sur le marché en Suisse ou la
 
 <sup>2bis</sup> Si un mandataire est requis conformément à l’art. 51, ce dernier est responsable de la déclaration prévue à l’al. 1. En outre, le mandataire soumet à Swissmedic, sans y être sollicité, les rapports de tendances visés à l’al. 2 concernant les incidents survenant en Suisse et à l’étranger Les rapports finaux prévus à l’art. 89, par. 5, RDM-UE doivent être communiqués à Swissmedic. Le transfert de ces obligations du fabricant ou de la personne qui assemble des systèmes ou des nécessaires au sens de l’art. 22, par. 1 et 3, RDM-UE au mandataire doit être convenu par écrit dans le mandat.[^66-3]
 
-<sup>3</sup> ...[^66-4]
+<sup>3</sup> …[^66-4]
 
 <sup>4</sup> Quiconque constate, en sa qualité de professionnel, un incident grave lors de l’utilisation de dispositifs doit le déclarer au fournisseur et à Swissmedic. La déclaration peut être faite par une société professionnelle. Les délais sont définis à l’art. 87 RDM-UE.
 
@@ -1419,13 +1419,15 @@ Swissmedic assume la responsabilité du système d’information sur les disposi
 
 **Garantie de la protection des données et de la sécurité des données**
 
-<sup>1</sup> Swissmedic établit un règlement de traitement au sens de l’art. 21 de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données (OLPD)[^84-1].
+<sup>1</sup> Swissmedic établit un règlement de traitement au sens de l’art. 6 de l’ordonnance du 31 août 2022 sur la protection des données (OPDo)[^84-1].[^84-2]
 
-<sup>2</sup> La garantie de la sécurité des données est régie par les art. 20 et 21 OLPD.
+<sup>2</sup> La garantie de la sécurité des données est régie par les art. 1 à 4 et 6 OPDo.[^84-3]
 
 <sup>3</sup> L’historique du traitement des données doit être enregistré automatiquement.
 
 [^84-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^84-2]: Nouvelle teneur selon l’annexe 2 ch. II 101 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^84-3]: Nouvelle teneur selon l’annexe 2 ch. II 101 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 85
 
@@ -1501,11 +1503,12 @@ Les données qui ne sont pas relatives à des personnes peuvent être utilisées
 
 #### Art. 92
 
-**Applicabilité de la loi sur la protection des données**
+**Applicabilité de la loi sur la protection des données**[^92-1]
 
-Tous les traitements de données réalisés dans le système d’information sur les dispositifs médicaux doivent respecter les dispositions de la loi fédérale du 19 juin 1992 sur la protection des données[^92-1].
+Tous les traitements de données réalisés dans le système d’information sur les dispositifs médicaux doivent respecter les dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données[^92-2].
 
-[^92-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^92-1]: Nouvelle teneur selon l’annexe 2 ch. II 101 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^92-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 ## Chapitre 11 Dispositions finales
 
@@ -1597,7 +1600,7 @@ Sont abrogées:
 - 1\. l’ordonnance du 17 octobre 2001 sur les dispositifs médicaux[^99-1];
 - 2\. l’ordonnance du 22 juin 2006 sur la liste des dispositifs médicaux soumis à ordonnance médicale[^99-2].
 
-[^99-1]: [[RO 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520), [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)ch. I 5, II al. 2, [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)annexe 5 ch. 2, [2010 1215](https://fedlex.data.admin.ch/eli/oc/2010/170)[2749](https://fedlex.data.admin.ch/eli/oc/2010/358)ch. I 7, [2015 999](https://fedlex.data.admin.ch/eli/oc/2015/189), [2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650), [2019 999](https://fedlex.data.admin.ch/eli/oc/2019/183)art. 28 al. 2, [2020 2975](https://fedlex.data.admin.ch/eli/oc/2020/551)]
+[^99-1]: [[RO 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520); [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)ch. I 5, II al. 2; [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)annexe 5 ch. 2; [2010 1215](https://fedlex.data.admin.ch/eli/oc/2010/170), [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)ch. I 7; [2015 999](https://fedlex.data.admin.ch/eli/oc/2015/189); [2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650); [2019 999](https://fedlex.data.admin.ch/eli/oc/2019/183)art. 28 al. 2; [2020 2975](https://fedlex.data.admin.ch/eli/oc/2020/551)]
 [^99-2]: [[RO 2006 3679](https://fedlex.data.admin.ch/eli/oc/2006/560)]
 
 #### Art. 100
@@ -1723,7 +1726,7 @@ Jusqu’à l’entrée en vigueur de l’art. 17, al. 5, les obligations de déc
 - a. les obligations de déclaration visées à l’art. 6, al. 1 et 4, de l’ordonnance du 17 octobre 2001 sur les dispositifs médicaux[^108-2], pour les fabricants et les personnes qui assemblent des systèmes ou des nécessaires au sens de l’art. 22, par. 1 et 3, RDM-UE[^108-3];
 - b. les obligations de déclaration visées à l’art. 6, al. 3 et 4, de l’ordonnance du 17 octobre 2001 sur les dispositifs médicaux, pour les personnes qui mettent sur le marché des dispositifs médicaux au sens de l’art. 2, al. 1, de ladite ordonnance.
 
-<sup>2</sup> ...[^108-4]
+<sup>2</sup> …[^108-4]
 
 [^108-1]: Nouvelle teneur selon le ch. I de l’O du 19 mai 2021, en vigueur depuis le 26 mai 2021 ([RO 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 [^108-2]: Cf. note de bas de page relative à l’art. 99, ch. 1.
@@ -1759,7 +1762,7 @@ Annexe 1
 - 5\. Équipements émettant des rayonnements électromagnétiques à haute intensité (par ex., infrarouge, lumière visible, ultraviolet) et destinés à être utilisés sur le corps humain, y compris les sources cohérentes et non cohérentes, monochromes et à large spectre, tels que les lasers et les équipements à lumière intense pulsée utilisés pour le resurfaçage cutané, la suppression de tatouages, l’épilation ou d’autres traitements cutanés.
 - 6\. Équipements destinés à la stimulation cérébrale transcrânienne au moyen de courants électriques ou de champs magnétiques ou électromagnétiques afin de modifier l’activité neuronale du cerveau.
 
-Annexe 2*[^t-1]*
+Annexe 2[^t-1]
 
 (art. 5, al. 1)
 
@@ -1771,7 +1774,7 @@ Les expressions suivantes utilisées dans le RDM-UE[^annex2-lvlu1-1] ont les éq
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
-<tr><td>*a. Expressions en allemand*</td><td></td></tr>
+<tr><td>a. Expressions en allemand</td><td></td></tr>
 <tr><td>Union</td><td>Schweiz</td></tr>
 <tr><td>Mitgliedstaat</td><td>Schweiz</td></tr>
 <tr><td>Drittstaat / Drittland</td><td>anderer Staat</td></tr>
@@ -1787,7 +1790,7 @@ Les expressions suivantes utilisées dans le RDM-UE[^annex2-lvlu1-1] ont les éq
 <tr><td>Aussetzung</td><td>Suspendierung</td></tr>
 <tr><td>Zurückziehung</td><td>Widerruf</td></tr>
 <tr><td>Transplantate</td><td>Organe</td></tr>
-<tr><td>*b. Expressions en français*</td><td></td></tr>
+<tr><td>b. Expressions en français</td><td></td></tr>
 <tr><td>Union</td><td>Suisse</td></tr>
 <tr><td>État membre</td><td>Suisse</td></tr>
 <tr><td>État tiers / pays tiers</td><td>autre État</td></tr>
@@ -1805,7 +1808,7 @@ Les expressions suivantes utilisées dans le RDM-UE[^annex2-lvlu1-1] ont les éq
 <tr><td>autorités</td><td>autorités compétentes en vertu du droit suisse</td></tr>
 <tr><td>retrait des certificats</td><td>révocation des certificats</td></tr>
 <tr><td>retrait de la désignation</td><td>révocation de la désignation</td></tr>
-<tr><td>*c. Expressions en italien*</td><td></td></tr>
+<tr><td>c. Expressions en italien</td><td></td></tr>
 <tr><td>Unione</td><td>Svizzera</td></tr>
 <tr><td>Stato Membro</td><td>Svizzera</td></tr>
 <tr><td>paese terzo</td><td>altro Stato</td></tr>
@@ -1830,13 +1833,13 @@ Les expressions suivantes utilisées dans le RDM-UE[^annex2-lvlu1-1] ont les éq
 
 [^annex2-lvlu1-1]: Cf. note de bas de page relative à l’art. 4, al. 1, let. f.
 
-Annexe 3*[^t-2]*
+Annexe 3[^t-2]
 
 (art. 5, al. 2)
 
 ## Droit applicable
 
-[^t-2]: Mise à jour par l’annexe 5 ch. 1 de l’O du 4 mai 2022 sur les dispositifs médicaux de diagnostic in vitro, en vigueur depuis le 26 mai 2022 ([RO 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^t-2]: Mise à jour par l’annexe 5 ch. 1 de l’O du 4 mai 2022 sur les dispositifs médicaux de diagnostic in vitro ([RO 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)) et par l’annexe 2 ch. II 101 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### 1 Droit européen
 
@@ -1846,7 +1849,7 @@ Dans la présente ordonnance, lorsqu’il est fait référence à des dispositio
 - 1\.2 Règlement (UE) n<sup>o</sup> 207/2012 de la Commission du 9 mars 2012 relatif aux instructions d’emploi électroniques des dispositifs médicaux (JO L 72 du 10.3.2012, p. 28)
 - 1\.3 Règlement (UE) n<sup>o</sup> 722/2012 de la Commission du 8 août 2012 relatif aux prescriptions particulières en ce qui concerne les exigences prévues aux directives 90/385/CEE et 93/42/CEE du Conseil pour les dispositifs médicaux implantables actifs et les dispositifs médicaux fabriqués à partir de tissus d’origine animale (JO L 212 du 9.8.2012, p. 3)
 
-**2 Droit suisse**
+**2** **Droit suisse**
 
 Dans la présente ordonnance, lorsqu’il est fait référence à des dispositions du RDM-UE[^annex3-lvlu1-lvl1-2] renvoyant elles-mêmes à l’un des actes suivants de l’UE, le droit suisse ci-après est applicable en lieu et place dudit acte de l’UE:
 
@@ -1864,7 +1867,7 @@ Dans la présente ordonnance, lorsqu’il est fait référence à des dispositio
 <tr><td>10. Directive 2002/98/CE du Parlement européen et du Conseil du 27 janvier 2003 établissant des normes de qualité et de sécurité pour la collecte, le contrôle, la transformation, la conservation et la distribution du sang humain, et des composants sanguins, et modifiant la directive 2001/83/CE, JO L 33 du 8.2.2003, p. 30</td><td>[tab] Loi du 15 décembre 2000 sur les produits thérapeutiques et loi du 8 octobre 2004 sur la transplantation</td></tr>
 <tr><td>11. Règlement (CE) n<sup>o</sup> 178/2002 du Parlement européen et du Conseil du 28 janvier 2002 établissant les principes généraux et les prescriptions générales de la législation alimentaire et fixant des procédures relatives à la sécurité des denrées alimentaires, JO L 31 du 1.2.2002, p. 1</td><td>[tab] Loi du 20 juin 2014 sur les denrées alimentaires[^annex3-lvlu1-lvl1-9]</td></tr>
 <tr><td>12. Règlement (UE) n<sup>o</sup> 1025/2012 du Parlement européen et du Conseil du 25 octobre 2012 relatif à la normalisation européenne, modifiant les directives 89/686/CEE et 93/15/CEE du Conseil ainsi que les directives 94/9/CE, 94/25/CE, 95/16/CE, 97/23/CE, 98/34/CE, 2004/22/CE, 2007/23/CE, 2009/23/CE et 2009/105/CE du Parlement européen et du Conseil et abrogeant la décision 87/95/CEE du Conseil et la décision n<sup>o</sup> 1673/2006/CE du Parlement européen et du Conseil, JO L 316 du 14.11.2012, p. 12</td><td>[tab] Loi du 15 décembre 2000 sur les produits thérapeutiques et loi fédérale du 6 octobre 1995 sur les entraves techniques au commerce[^annex3-lvlu1-lvl1-10]</td></tr>
-<tr><td>13. Règlement (CE) n<sup>o</sup> 45/2001 du Parlement européen et du Conseil du 18 décembre 2000 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel par les institutions et organes communautaires et à la libre circulation de ces données, JO L 8 du 12.1.2001, p. 1</td><td>[tab] Loi fédérale du 19 juin 1992 sur la protection des données[^annex3-lvlu1-lvl1-11]</td></tr>
+<tr><td>13. Règlement (CE) n<sup>o</sup> 45/2001 du Parlement européen et du Conseil du 18 décembre 2000 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel par les institutions et organes communautaires et à la libre circulation de ces données, JO L 8 du 12.1.2001, p. 1</td><td>[tab] Loi fédérale du 25 septembre 2020 sur la protection des données[^annex3-lvlu1-lvl1-11]</td></tr>
 <tr><td>14. Règlement (CE) n<sup>o</sup> 765/2008 du Parlement européen et du Conseil du 9 juillet 2008 fixant les prescriptions relatives à l’accréditation et à la surveillance du marché pour la commercialisation des produits et abrogeant le règlement (CEE) n° 339/93 du Conseil, JO L 218 du 13.8.2008, p. 30</td><td>[tab] Loi fédérale du 6 octobre 1995 sur les entraves techniques au commerce et loi fédérale du 12 juin 2009 sur la sécurité des produits[^annex3-lvlu1-lvl1-12]</td></tr>
 <tr><td>15. Règlement (CE) n<sup>o</sup> 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le règlement (CEE) n° 793/93 du Conseil et le règlement (CE) n<sup>o</sup> 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE, 93/67/CEE, 93/105/CE et 2000/21/CE de la Commission, JO L 396 du 30.12.2006, p. 1</td><td>[tab] Loi du 15 décembre 2000 sur les produits chimiques[^annex3-lvlu1-lvl1-13]</td></tr>
 <tr><td>16. Règlement (UE) n<sup>o</sup> 528/2012 du Parlement européen et du Conseil du 22 mai 2012 concernant la mise à disposition sur le marché et l’utilisation des produits biocides, JO L 167 du 27.6.2012, p. 1</td><td>[tab] Ordonnance du 18 mai 2005 sur les produits biocides[^annex3-lvlu1-lvl1-14]</td></tr>
@@ -1893,11 +1896,11 @@ Dans la présente ordonnance, lorsqu’il est fait référence à des dispositio
 [^annex3-lvlu1-lvl1-16]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
 [^annex3-lvlu1-lvl1-17]: [RS 813.112.1](https://fedlex.data.admin.ch/eli/cc/2005/467)
 
-Annexe 4*[^t-3]*
+Annexe 4[^t-3]
 
 (art. 4, al. 2, 17, al. 4, 19, al. 1, let. c, 20, al. 1, 23, 25, al. 3, 29, al. 2, 45, al. 2, 46, al. 3, 47, al. 1 et 98, al. 2, let. b)
 
-## Actes de la Commission européenne édictés sur la base du RDM-UE**** et directement applicables
+## Actes de la Commission européenne édictés sur la base du RDM-UE et directement applicables
 
 [^annex4-lvlu1-1]
 
@@ -1929,13 +1932,13 @@ Annexe 5
 
 La représentation graphique du marquage de conformité est la suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20220526/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20230901/fr/xml/image/image1.png)
 
 En cas de recours à un organisme désigné, le numéro d’identification de l’organisme est ajouté à côté du marquage de conformité.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20220526/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20230901/fr/xml/image/image2.png)
 
-Annexe 6*[^t-4]*
+Annexe 6[^t-4]
 
 (art. 70, al. 2 et 3)
 
