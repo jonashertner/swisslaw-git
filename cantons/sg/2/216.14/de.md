@@ -3,20 +3,20 @@ canton: SG
 number: "216.14"
 title: Studienordnung der Pädagogischen Hochschule St.Gallen
 language: de
-version: 2022-08-01
-valid_until: 2023-08-31
-version_adopted: 2021-12-09
+version: 2023-09-01
+valid_until: 2025-07-31
+version_adopted: 2022-12-08
 adopted: 2008-04-11
 in_force: 2007-09-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/216.14"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3316/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3481/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Studienordnung der Pädagogischen Hochschule St.Gallen
 
-vom 11.04.2008 (Stand 01.08.2022)
+vom 11.04.2008 (Stand 01.09.2023)
 
 Der Rat der Pädagogischen Hochschule des Kantons St.Gallen
 
@@ -41,7 +41,7 @@ als Studienordnung:[^ingress-2]
 
 #### Art. 2
 
-**Studiengänge a) zur Lehrperson der Volksschule**
+**Studiengänge a) zur Lehrperson der Volksschule und an Maturitätsschulen**
 
 <sup>1</sup> Die PHSG bietet folgende Studiengänge zur Lehrperson der Volksschule an:
 
@@ -50,7 +50,12 @@ als Studienordnung:[^ingress-2]
 - c) Bachelor-/Master für die Sekundarstufe I, phil. I;
 - d) Bachelor-/Master für die Sekundarstufe I, phil. II.
 
-<sup>2</sup> Sie bietet den Studiengang zur Lehrperson der Sekundarstufe I integriert oder konsekutiv an.
+<sup>1<sup>bis</sup></sup> Die PHSG kann folgende Studiengänge zur Lehrperson der Volksschule und an Maturitätsschulen anbieten:
+
+- a) Master für die Sekundarstufe I auf der Basis eines fachwissenschaftlichen Bachelorabschlusses;
+- b) kombinierter Master für die Sekundarstufe I und Maturitätsschulen auf der Basis eines fachwissenschaftlichen Masterabschlusses.
+
+<sup>2</sup> Sie bietet den Studiengang zur Lehrperson der Sekundarstufe I nach Abs.1 dieser Bestimmung integriert oder konsekutiv an.
 
 <sup>3</sup> Die PHSG kann zur Erweiterung der Unterrichtsberechtigung oder zur Nachqualifikation amtierender Lehrpersonen Teilstudien für die Zielstufen nach Abs. 1 dieser Bestimmung anbieten.
 
@@ -80,17 +85,17 @@ als Studienordnung:[^ingress-2]
 
 <sup>2</sup> Ein ECTS-Kreditpunkt entspricht einer Studienleistung, die in 25 bis 30 Arbeitsstunden erbracht werden kann.
 
-## II. Studiengänge zur Lehrperson der Volksschule
+## II. Studiengänge zur Lehrperson der Volksschule und an Maturitätsschulen
 
-### 1. Zulassung
+### 1. Allgemeines
 
 #### Art. 3
 
-**Allgemeines**
+**Zulassung**
 
 <sup>1</sup> Die Zulassung zu den Studiengängen zur Lehrperson der Volksschule ist im Gesetz über die PHSG (abgekürzt GPHSG)[^3-1] und der dazugehörigen Verordnung[^3-2] der Regierung geregelt.
 
-<sup>2</sup> Die Zulassung zum Master-Studiengang setzt einen Bachelorabschluss oder einen gleichwertigen Hochschulabschluss voraus.
+<sup>2</sup> Die Zulassung zu einem Master-Studiengang setzt einen Bachelorabschluss oder einen gleichwertigen Hochschulabschluss voraus. Vorbehalten bleibt die Voraussetzung eines fachwissenschaftlichen Masterabschlusses für den kombinierten Master nach Art. 1 Abs. 1<sup>bis</sup> Bst. b dieses Erlasses.
 
 [^3-1]: Art. 23 GPHSG, sGS [216.0](https://www.gesetzessammlung.sg.ch/data/216.0/de).
 [^3-2]: Verordnung über die Zulassung von Bewerberinnen und Bewerbern ohne eine gymnasiale Maturität zum Studiengang Kindergarten- und Primarstufe der Pädagogischen Hochschule des Kantons St.Gallen vom 23. Oktober 2007, sGS [216.12](https://www.gesetzessammlung.sg.ch/data/216.12/de).
@@ -107,6 +112,22 @@ als Studienordnung:[^ingress-2]
 - b) zusätzliche Zulassungsvoraussetzungen für einzelne Studiengänge;
 - c) den Wechsel des Studiengangs;
 - d) den Übertritt von einer anderen Hochschule in die PHSG.
+
+#### Art. 4bis
+
+**Ausbildungsreglement für Studiengänge nach Art. 2 Abs. 1<sup>bis</sup> dieses Erlasses**
+
+<sup>1</sup> Der Rat der Hochschule erlässt ein Ausbildungsreglement für Studiengänge nach Art. 2 Abs. 1<sup>bis</sup> dieses Erlasses.
+
+<sup>2</sup> Es regelt insbesondere:
+
+- a) Zulassung und Aufnahmeverfahren;
+- b) Anrechnung von Vorkenntnissen;
+- c) Umfang, Aufbau und Inhalt der Studiengänge;
+- d) Module sowie weitere zu erbringende Leistungen mit den zugehörigen ECTS-Punkten;
+- e) Prüfungen und Abschluss.
+
+<sup>3</sup> Soweit das Ausbildungsreglement nichts anderes bestimmt, werden dieser Erlass oder ihm nachgelagerte Erlasse sachgemäss angewendet.
 
 ### 2. Struktur
 
@@ -211,7 +232,7 @@ als Studienordnung:[^ingress-2]
 
 <sup>3</sup> Das Rektorat regelt das Verfahren. Es entscheidet über die Anrechnung von Studienleistungen, die an ausländischen Hochschulen erbracht wurden.
 
-### Studienabschluss
+### 4. Studienabschluss
 
 #### Art. 15
 
@@ -242,7 +263,7 @@ als Studienordnung:[^ingress-2]
 
 #### Art. 18
 
-**d) Masterabschluss Studiengänge Sekundarstufe I**
+**d) Masterabschluss Studiengänge Sekundarstufe I und Maturitätsschulen**
 
 <sup>1</sup> Der Masterabschluss setzt voraus, dass:
 
@@ -264,7 +285,8 @@ als Studienordnung:[^ingress-2]
 <sup>1</sup> Die Erteilung eines st.gallischen Lehrdiploms setzt voraus:
 
 - a) für den Kindergarten und die Primarschule: einen Bachelorabschluss in einem der Studiengänge nach Art. 2 Abs. 1 Bst. a oder b dieses Erlasses;
-- b) für die Sekundarstufe I: einen Masterabschluss in einem der Studiengänge nach Art. 2 Abs. 1 Bst. c oder d dieses Erlasses.
+- b) für die Sekundarstufe I: einen Masterabschluss in einem der Studiengänge nach Art. 2 Abs. 1 Bst. c oder d oder nach Art. 2 Abs. 1<sup>bis</sup> Bst. a dieses Erlasses;
+- c) für die Sekundarstufe I und Maturitätsschulen: einen Masterabschluss im Studiengang nach Art. 2 Abs. 1<sup>bis</sup> Bst. b dieses Erlasses.
 
 ## III. Studiengänge zur Lehrperson der Berufsbildung
 
@@ -324,15 +346,22 @@ als Studienordnung:[^ingress-2]
 
 #### Art. 23
 
-**c) Masterabschluss Studiengänge Sekundarstufe I**
+**c) Masterabschluss Studiengänge Sekundarstufe I und Maturitätsschulen**
 
 <sup>1</sup> Mit Abschluss der Studiengänge nach Art. 2 Abs. 1 Bst. c und d dieses Erlasses werden auf Masterstufe folgende akademische Titel[^23-1] und Diplomtitel[^23-2] verliehen:
 
 - a) Lehrperson für die Sekundarstufe I, phil. I: «Master of Arts PHSG in Secondary Education» und Lehrdiplom für die Sekundarstufe I;
 - b) Lehrperson für die Sekundarstufe I, phil. II: «Master of Science PHSG in Secondary Education» und Lehrdiplom für die Sekundarstufe I.
 
+<sup>2</sup> Mit Abschluss der Studiengänge nach Art. 2 Abs. 1<sup>bis</sup> Bst. a und b dieses Erlasses werden auf Masterstufe folgende akademische Titel[^23-3] und Diplomtitel[^23-4] verliehen:
+
+- a) Lehrperson für die Sekundarstufe I: «Master of Arts PHSG in Secondary Education» und Lehrdiplom für die Sekundarstufe I;
+- b) Lehrperson für die Sekundarstufe I und Maturitätsschulen: «Master of Arts PHSG in Secondary Education» und Lehrdiplom für die Sekundarstufe I und Maturitätsschulen.
+
 [^23-1]: Art. 18 Abs. 2 des Reglements über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen vom 28. März 2019 der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK), EDK-Erlasssammlung 4.2.2.10.
 [^23-2]: Art. 18 Abs. 1 des Reglements über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen vom 28. März 2019 der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK), EDK-Erlasssammlung 4.2.2.10.
+[^23-3]: Art. 18 Abs. 2 des Reglements über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen vom 28. März 2019 der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK), EDK-Erlasssammlung 4.2.2.10.
+[^23-4]: Art. 18 Abs. 1 des Reglements über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen vom 28. März 2019 der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK), EDK-Erlasssammlung 4.2.2.10.
 
 #### Art. 23bis
 
