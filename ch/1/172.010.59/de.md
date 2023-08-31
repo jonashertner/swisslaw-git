@@ -4,11 +4,11 @@ title: Verordnung vom 19. Oktober 2016 über Identitätsverwaltungs-Systeme und 
 short: IAMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/610"
 language: de
-version: 2023-04-01
+version: 2023-09-01
 adopted: 2016-10-19
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/610/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2016-610-20230401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20230401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/610/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2016-610-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20230401/de"
 
 (IAMV)
 
-vom 19. Oktober 2016 (Stand am 1. April 2023)
+vom 19. Oktober 2016 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -185,11 +185,13 @@ In den Verzeichnisdiensten können, zusätzlich zu den Daten nach Artikel 8, Dat
 
 <sup>1</sup> In den IAM-Systemen, den Verzeichnisdiensten und dem zentralen Identitätsspeicher nach Artikel 13 dürfen Personendaten gemäss Anhang bearbeitet werden.
 
-<sup>2</sup> Es dürfen in diesen Systemen keine Persönlichkeitsprofile bearbeitet werden.
+<sup>2</sup> …[^11-1]
 
 <sup>3</sup> Es dürfen in diesen Systemen, sofern hierfür keine besondere rechtliche Grundlage besteht, keine besonders schützenswerten Personendaten bearbeitet werden.
 
 <sup>4</sup> Die im Anhang mit einem Stern gekennzeichneten Daten von Personen nach Artikel 8 dürfen in einem Personenverzeichnis publiziert werden, das allen darin erfassten Personen zugänglich ist.
+
+[^11-1]: Aufgehoben durch Anhang 2 Ziff. II 18 der Datenschutzverordnung vom 31. Aug. 2022, mit Wirkung seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 12
 
@@ -219,17 +221,19 @@ In den Verzeichnisdiensten können, zusätzlich zu den Daten nach Artikel 8, Dat
 
 Die Daten können weiteren bundesinternen Informationssystemen automatisch zur Übernahme und zum Abgleich bereitgestellt werden, sofern das jeweilige System:
 
-- a. über eine Rechtsgrundlage und ein Bearbeitungsreglement nach Artikel 21 der Verordnung vom 14. Juni 1993[^13-1] zum Bundesgesetz über den Datenschutz (VDSG) verfügt; und
-- b. beim Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten angemeldet ist oder gemäss Artikel 18 VDSG nicht gemeldet werden muss.
+- a. über eine Rechtsgrundlage und ein Bearbeitungsreglement nach Artikel 6 der Datenschutzverordnung vom 31. August 2022[^13-1] (DSV) verfügt; und
+- b. beim Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten nach Artikel 12 Absatz 4 des Datenschutzgesetzes vom 25. September 2020[^13-2] angemeldet wurde.[^13-3]
 
-<sup>4bis</sup> Die AHV-Nummer wird nur bereitgestellt, sofern ihre Verwendung der Zentralen Ausgleichsstelle nach Artikel 134<sup>ter</sup> der Verordnung vom 31. Oktober 1947[^13-2] über die Alters- und Hinterlassenenversicherung gemeldet wird.[^13-3]
+<sup>4bis</sup> Die AHV-Nummer wird nur bereitgestellt, sofern ihre Verwendung der Zentralen Ausgleichsstelle nach Artikel 134<sup>ter</sup> der Verordnung vom 31. Oktober 1947[^13-4] über die Alters- und Hinterlassenenversicherung gemeldet wird.[^13-5]
 
-<sup>5</sup> Die für die Publikation des Eidgenössischen Staatskalenders nötigen Daten nach Artikel 5 der Organisationsverordnung vom 29. Oktober 2008[^13-4] für die Bundeskanzlei werden regelmässig an die Bundeskanzlei übermittelt.
+<sup>5</sup> Die für die Publikation des Eidgenössischen Staatskalenders nötigen Daten nach Artikel 5 der Organisationsverordnung vom 29. Oktober 2008[^13-6] für die Bundeskanzlei werden regelmässig an die Bundeskanzlei übermittelt.
 
 [^13-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^13-2]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^13-3]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 282](https://fedlex.data.admin.ch/eli/oc/2022/282)).
-[^13-4]: [SR 172.210.10](https://fedlex.data.admin.ch/eli/cc/2008/719)
+[^13-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^13-3]: Fassung gemäss Anhang 2 Ziff. II 18 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^13-4]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^13-5]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 282](https://fedlex.data.admin.ch/eli/oc/2022/282)).
+[^13-6]: [SR 172.210.10](https://fedlex.data.admin.ch/eli/cc/2008/719)
 
 #### Art. 14
 
@@ -263,11 +267,13 @@ Das IAM-System authentifiziert Personen, Maschinen oder Systeme, die den Zugang 
 
 <sup>1</sup> Wird ein Informationssystem des Bundes von einem externen Betreiber im Auftrag des Bundes betrieben oder müssen Personen nach Artikel 8 Absatz 1 oder 3 Buchstabe a auf fremde Informationssysteme zugreifen, so dürfen die dazu notwendigen Personendaten aus Personalinformationssystemen, dem zentralen Identitätsspeicher oder IAM-Systemen automatisiert dem externen Betreiber bekanntgegeben werden.
 
-<sup>2</sup> Dazu erstellt die Stelle, die für das extern betriebene Informationssystem zuständig ist oder den Zugang auf das fremde Informationssystem benötigt, einen schriftlichen Antrag, der den betroffenen Personenkreis nennt, und stellt diesen via die zuständige Datenschutzverantwortliche oder den zuständigen Datenschutzverantwortlichen dem für das liefernde Informationssystem zuständigen Bundesorgan zu.
+<sup>2</sup> Dazu erstellt die Stelle, die für das extern betriebene Informationssystem zuständig ist oder den Zugang auf das fremde Informationssystem benötigt, einen schriftlichen Antrag, der den betroffenen Personenkreis nennt, und stellt diesen via die zuständige Datenschutzberaterin oder den zuständigen Datenschutzberater dem für das liefernde Informationssystem zuständigen Bundesorgan zu.[^17-1]
 
 <sup>3</sup> Der Antrag enthält die schriftliche Verpflichtung der zuständigen Stelle nach Absatz 2, die Datenschutzgesetzgebung des Bundes einzuhalten, die Daten ausschliesslich für den beabsichtigten Zweck zu verwenden und diese nach dem Stand der Technik zu schützen. Dem für das liefernde Informationssystem zuständigen Bundesorgan ist ein Inspektionsrecht einzuräumen.
 
 <sup>4</sup> Die betroffenen Personen müssen vorgängig informiert werden.
+
+[^17-1]: Fassung gemäss Anhang 2 Ziff. II 18 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 6. Abschnitt: Massnahmen zum Schutz der IAM-Systeme
 
@@ -275,7 +281,7 @@ Das IAM-System authentifiziert Personen, Maschinen oder Systeme, die den Zugang 
 
 **Anforderungen an die Informationssicherheit**
 
-<sup>1</sup> Interne und externe Betreiber von Komponenten eines IAM-Systems müssen über dokumentierte Vorgaben für die Handhabung der Informationssicherheit und der Risiken verfügen. Insbesondere erlässt jedes verantwortliche Organ eines Systems nach dieser Verordnung ein Bearbeitungsreglement nach Artikel 21 VDSG[^18-1].
+<sup>1</sup> Interne und externe Betreiber von Komponenten eines IAM-Systems müssen über dokumentierte Vorgaben für die Handhabung der Informationssicherheit und der Risiken verfügen. Insbesondere erlässt jedes verantwortliche Organ eines Systems nach dieser Verordnung ein Bearbeitungsreglement nach Artikel 6 DSV[^18-1].[^18-2]
 
 <sup>2</sup> IAM-Systeme, die nicht von Stellen nach Artikel 2 oder in deren Auftrag geführt werden, dürfen nur mit bundesinternen IAM-Systemen verbunden werden, wenn sie die vordefinierten Minimalanforderungen bezüglich der Informationssicherheit erfüllen.
 
@@ -284,6 +290,7 @@ Das IAM-System authentifiziert Personen, Maschinen oder Systeme, die den Zugang 
 <sup>4</sup> Der Bereich DTI der BK regelt in Weisungen die einzuhaltenden Sicherheitsanforderungen und Verfahren.
 
 [^18-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^18-2]: Fassung des zweiten Satzes gemäss Anhang 2 Ziff. II 18 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 19
 
@@ -367,9 +374,11 @@ IAM-Systeme des Bundes können als Lieferant von Identitäts- und Authentifizier
 
 <sup>1</sup> Das IAM-System protokolliert Authentifizierungen und die Bekanntgabe von Identitätsdaten nur in dem Umfang und nur so lange, wie es für einen sicheren und geordneten Betrieb der eigenen und der nachgelagerten Systeme erforderlich ist.
 
-<sup>2</sup> Protokolldaten werden spätestens nach zwei Jahren vernichtet. Es werden keine Protokolldaten archiviert.
+<sup>2</sup> Protokolldaten werden getrennt vom System, in welchem die Personendaten bearbeitet werden, aufbewahrt und spätestens nach zwei Jahren vernichtet. Es werden keine Protokolldaten archiviert.[^25-1]
 
 <sup>3</sup> Vorbehalten bleibt eine umfangreichere Protokollierung, eine längere Aufbewahrung oder eine Archivierung der Protokolldaten für die Zugriffe auf ein bestimmtes Informationssystem auf der Basis einer besonderen rechtlichen Grundlage.
+
+[^25-1]: Fassung gemäss Anhang 2 Ziff. II 18 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 26
 
@@ -377,9 +386,11 @@ IAM-Systeme des Bundes können als Lieferant von Identitäts- und Authentifizier
 
 <sup>1</sup> Die Betreiber von IAM-Systemen des Bundes dürfen Protokolldaten über Authentifizierungen und über die Bekanntgabe von Identitätsdaten der für das jeweilige nachgelagerte System zuständigen Stelle bekanntgeben.
 
-<sup>2</sup> Dazu ist ein schriftlicher Antrag mit Angabe des Zwecks und der rechtlichen Grundlage via die zuständige Datenschutzverantwortliche oder den zuständigen Datenschutzverantwortlichen an das für das IAM-System verantwortliche Organ zu richten. Die Lieferung kann mit den gleichen Angaben auch in der Betriebsvereinbarung zwischen dem verantwortlichen Organ und dem Betreiber des IAM-Systems vereinbart werden.
+<sup>2</sup> Dazu ist ein schriftlicher Antrag mit Angabe des Zwecks und der rechtlichen Grundlage via die zuständige Datenschutzberaterin oder den zuständigen Datenschutzberater an das für das IAM-System verantwortliche Organ zu richten. Die Lieferung kann mit den gleichen Angaben auch in der Betriebsvereinbarung zwischen dem verantwortlichen Organ und dem Betreiber des IAM-Systems vereinbart werden.[^26-1]
 
 <sup>3</sup> Die Lieferung kann nach den für den bundesinternen Bezug von Informatikdienstleistungen geltenden Grundsätzen kostenpflichtig sein.
+
+[^26-1]: Fassung gemäss Anhang 2 Ziff. II 18 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 27
 

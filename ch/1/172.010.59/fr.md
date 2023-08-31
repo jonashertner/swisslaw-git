@@ -4,11 +4,11 @@ title: "Ordonnance du 19 octobre 2016 sur les systèmes de gestion des données 
 short: OIAM
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/610"
 language: fr
-version: 2023-04-01
+version: 2023-09-01
 adopted: 2016-10-19
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/610/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2016-610-20230401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20230401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/610/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2016-610-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20230401/fr"
 
 (OIAM)
 
-du 19 octobre 2016 (État le 1<sup>er</sup> avril 2023)
+du 19 octobre 2016 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -185,11 +185,13 @@ Les données des membres d’autorités cantonales ou communales et d’autres e
 
 <sup>1</sup> Les données personnelles énumérées dans l’annexe peuvent être traitées dans les systèmes IAM, les services d’annuaires et la base centralisée des identités visée à l’art. 13.
 
-<sup>2</sup> Aucun profil de la personnalité ne peut être traité dans ces systèmes.
+<sup>2</sup> …[^11-1]
 
 <sup>3</sup> En l’absence d’une base légale particulière en la matière, aucune donnée sensible ne peut être traitée dans ces systèmes.
 
 <sup>4</sup> Les données assorties d’un astérisque dans l’annexe concernant des personnes mentionnées à l’art. 8 peuvent être publiées dans un service d’annuaires qui est accessible à toutes les personnes y figurant.
+
+[^11-1]: Abrogé par l’annexe 2 ch. II 18 de l’O du 31 août 2022 sur la protection des données, avec effet au 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 12
 
@@ -219,17 +221,19 @@ Les données des membres d’autorités cantonales ou communales et d’autres e
 
 Les données peuvent être transmises de manière automatisée à d’autres systèmes d’information internes à l’administration fédérale, dans lesquels elles sont reprises et harmonisées, à condition que le système concerné:
 
-- a. dispose d’une base légale et d’un règlement de traitement au sens de l’art. 21 de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données (OLPD)[^13-1], et
-- b. ait été annoncé au Préposé fédéral à la protection des données et à la transparence ou ne doive pas être déclaré en vertu de l’art. 18 OLPD.
+- a. dispose d’une base légale et soit soumis à un règlement de traitement au sens de l’art. 6 de l’ordonnance du 31 août 2022 sur la protection des données (OPDo)[^13-1], et
+- b. ait été annoncé au Préposé fédéral à la protection des données et à la transparence conformément à l’art. 12, al. 4, de loi fédérale du 25 septembre 2020 sur la protection des données[^13-2].[^13-3]
 
-<sup>4bis</sup> Le numéro AVS n’est transmis que si son utilisation est annoncée à la Centrale de compensation conformément à l’art. 134<sup>ter</sup> du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants[^13-2].[^13-3]
+<sup>4bis</sup> Le numéro AVS n’est transmis que si son utilisation est annoncée à la Centrale de compensation conformément à l’art. 134<sup>ter</sup> du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants[^13-4].[^13-5]
 
-<sup>5</sup> Les données nécessaires à la publication de l’Annuaire fédéral au sens de l’art. 5 de l’ordonnance du 29 octobre 2008 sur l’organisation de la Chancellerie fédérale[^13-4] sont transmises régulièrement à cette dernière.
+<sup>5</sup> Les données nécessaires à la publication de l’Annuaire fédéral au sens de l’art. 5 de l’ordonnance du 29 octobre 2008 sur l’organisation de la Chancellerie fédérale[^13-6] sont transmises régulièrement à cette dernière.
 
 [^13-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^13-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^13-3]: Introduit par le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 282](https://fedlex.data.admin.ch/eli/oc/2022/282)).
-[^13-4]: [RS 172.210.10](https://fedlex.data.admin.ch/eli/cc/2008/719)
+[^13-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^13-3]: Nouvelle teneur selon l’annexe 2 ch. II 18 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^13-4]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^13-5]: Introduit par le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 282](https://fedlex.data.admin.ch/eli/oc/2022/282)).
+[^13-6]: [RS 172.210.10](https://fedlex.data.admin.ch/eli/cc/2008/719)
 
 #### Art. 14
 
@@ -275,7 +279,7 @@ Le système IAM authentifie les personnes, les machines ou les systèmes qui dem
 
 **Exigences concernant la sécurité de l’information**
 
-<sup>1</sup> Les exploitants internes et externes d’éléments d’un système IAM doivent avoir des instructions clairement documentées sur la sécurité de l’information et la gestion des risques. En particulier, chaque organe responsable d’un système au sens de la présente ordonnance établit un règlement de traitement conformément à l’art. 21 OLPD[^18-1].
+<sup>1</sup> Les exploitants internes et externes d’éléments d’un système IAM doivent avoir des instructions clairement documentées sur la sécurité de l’information et la gestion des risques. En particulier, chaque organe responsable d’un système au sens de la présente ordonnance établit un règlement de traitement conformément à l’art. 6 OPDo[^18-1].[^18-2]
 
 <sup>2</sup> Les systèmes IAM qui ne sont pas gérés par des organes au sens de l’art. 2 ou sur mandat de ces derniers peuvent être raccordés à des systèmes IAM internes à l’administration fédérale uniquement s’ils respectent les exigences minimales prédéfinies concernant la sécurité de l’information.
 
@@ -284,6 +288,7 @@ Le système IAM authentifie les personnes, les machines ou les systèmes qui dem
 <sup>4</sup> Le secteur TNI de la ChF fixe dans des directives les exigences en matière de sécurité et les procédures à respecter.
 
 [^18-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^18-2]: Nouvelle teneur de la phrase selon l’annexe 2 ch. II 18 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 19
 
@@ -367,9 +372,11 @@ Les systèmes IAM de la Confédération peuvent être raccordés en qualité de 
 
 <sup>1</sup> Le système IAM consigne les authentifications et la publication de données d’identification dans un procès-verbal uniquement pour la durée et dans la mesure nécessaires à une exploitation sûre et ordonnée de ses propres systèmes et de ceux en aval.
 
-<sup>2</sup> Les données des procès-verbaux sont détruites au plus tard après deux ans. Elles ne sont pas archivées.
+<sup>2</sup> Les données des procès-verbaux de journalisation sont conservées séparément du système dans lequel les données personnelles sont traitées et sont détruites au plus tard après deux ans. Elles ne sont pas archivées.[^25-1]
 
 <sup>3</sup> Demeurent réservés l’établissement d’un procès-verbal plus détaillé, une conservation plus longue ou un archivage des procès-verbaux concernant les accès à un système d’information précis en raison d’une base légale particulière.
+
+[^25-1]: Nouvelle teneur selon l’annexe 2 ch. II 18 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 26
 

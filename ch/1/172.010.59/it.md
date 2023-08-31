@@ -4,11 +4,11 @@ title: Ordinanza del 19 ottobre 2016 sui sistemi di gestione delle identità e s
 short: OIAM
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/610"
 language: it
-version: 2023-04-01
+version: 2023-09-01
 adopted: 2016-10-19
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/610/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2016-610-20230401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20230401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/610/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2016-610-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20230401/it"
 
 (OIAM)
 
-del 19 ottobre 2016 (Stato 1° aprile 2023)
+del 19 ottobre 2016 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -185,11 +185,13 @@ Oltre ai dati di cui all’articolo 8, nei servizi di elenchi possono essere tra
 
 <sup>1</sup> Nei sistemi IAM, nei servizi di elenchi e nell’archivio centralizzato delle identità di cui all’articolo 13 possono essere trattati dati personali conformemente all’allegato.
 
-<sup>2</sup> In questi sistemi non possono essere trattati profili personali.
+<sup>2</sup> ...[^11-1]
 
 <sup>3</sup> In assenza di una base legale specifica in materia, in questi sistemi non possono essere trattati dati personali degni di particolare protezione.
 
 <sup>4</sup> I dati riguardanti persone secondo l’articolo 8 che nell’allegato sono contrassegnati con un asterisco possono essere pubblicati in un elenco di persone accessibile a tutti coloro che vi sono riportati.
+
+[^11-1]: Abrogato dall’all. 2 n. II 18 dell’O del 31 ago. 2022 sulla protezione dei dati, con effetto dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 12
 
@@ -202,8 +204,8 @@ Oltre ai dati di cui all’articolo 8, nei servizi di elenchi possono essere tra
 <sup>3</sup> Possono ottenere automaticamente dai singoli sistemi d’informazione dati di persone esterne che accedono regolarmente alle risorse della Confederazione.
 
 [^12-1]: [RS 172.220.111.4](https://fedlex.data.admin.ch/eli/cc/2017/793)
-[^12-2]: Nuovo testo giusta il n. II 1 dell’all. 8 all’O del 22 nov. 2017 sulla protezione dei dati personali del personale federale, in vigore dal 1° gen. 2018 ([RU 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793)).
-[^12-3]: Nuova espr. giusta il n. II 1 dell’all. 8 all’O del 22 nov. 2017 sulla protezione dei dati personali del personale federale, in vigore dal 1° gen. 2018 ([RU 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^12-2]: Nuovo testo giusta l’all. 8 n. II 1 dell’O del 22 nov. 2017 sulla protezione dei dati personali del personale federale, in vigore dal 1° gen. 2018 ([RU 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793)).
+[^12-3]: Nuova espr. giusta l’all. 8 n. II 1 dell’O del 22 nov. 2017 sulla protezione dei dati personali del personale federale, in vigore dal 1° gen. 2018 ([RU 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 13
 
@@ -219,17 +221,19 @@ Oltre ai dati di cui all’articolo 8, nei servizi di elenchi possono essere tra
 
 I dati possono essere messi a disposizione automaticamente di altri sistemi d’informazione interni alla Confederazione per essere ripresi e armonizzati a condizione che il sistema interessato:
 
-- a. sia dotato di una base legale e di un regolamento per il trattamento secondo l’articolo 21 dell’ordinanza del 14 giugno 1993[^13-1] relativa alla legge sulla protezione dei dati (OLPD); e
-- b. sia notificato all’Incaricato federale della protezione dei dati e della trasparenza oppure non sottostia all’obbligo di notifica conformemente all’articolo 18 OLPD.
+- a. disponga di una base legale e di un regolamento per il trattamento secondo l’articolo 6 dell’ordinanza del 31 agosto 2022[^13-1] sulla protezione dei dati (OPDa); e
+- b. sia notificato all’Incaricato federale della protezione dei dati e della trasparenza secondo l’articolo 12 capoverso 4 della legge federale del 25 settembre 2020[^13-2] sulla protezione dei dati (LPD).[^13-3]
 
-<sup>4bis</sup> Il numero AVS è messo a disposizione a condizione che la sua utilizzazione sia annunciata all’Ufficio centrale di compensazione secondo l’articolo 134<sup>ter</sup> dell’ordinanza del 31 ottobre 1947[^13-2] sull’assicurazione per la vecchiaia e per i superstiti.[^13-3]
+<sup>4bis</sup> Il numero AVS è messo a disposizione a condizione che la sua utilizzazione sia annunciata all’Ufficio centrale di compensazione secondo l’articolo 134<sup>ter</sup> dell’ordinanza del 31 ottobre 1947[^13-4] sull’assicurazione per la vecchiaia e per i superstiti.[^13-5]
 
-<sup>5</sup> I dati necessari per la pubblicazione nell’Annuario federale secondo l’articolo 5 dell’ordinanza del 29 ottobre 2008[^13-4] sull’organizzazione della Cancelleria federale sono trasmessi regolarmente alla Cancelleria federale.
+<sup>5</sup> I dati necessari per la pubblicazione nell’Annuario federale secondo l’articolo 5 dell’ordinanza del 29 ottobre 2008[^13-6] sull’organizzazione della Cancelleria federale sono trasmessi regolarmente alla Cancelleria federale.
 
 [^13-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^13-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^13-3]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 282](https://fedlex.data.admin.ch/eli/oc/2022/282)).
-[^13-4]: [RS 172.210.10](https://fedlex.data.admin.ch/eli/cc/2008/719)
+[^13-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^13-3]: Nuovo testo giusta l’all. 2 n. II 18 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^13-4]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^13-5]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 282](https://fedlex.data.admin.ch/eli/oc/2022/282)).
+[^13-6]: [RS 172.210.10](https://fedlex.data.admin.ch/eli/cc/2008/719)
 
 #### Art. 14
 
@@ -263,11 +267,13 @@ Il sistema IAM autentica persone, macchine o sistemi che richiedono l’accesso 
 
 <sup>1</sup> Se un sistema d’informazione della Confederazione è gestito su mandato di quest’ultima da un gestore esterno oppure se persone di cui all’articolo 8 capoversi 1 o 3 lettera a devono accedere a sistemi d’informazione esterni, i dati personali necessari a tale fine possono essere comunicati in modo automatizzato al gestore esterno a partire da sistemi d’informazione concernenti il personale, dall’archivio centralizzato delle identità o da sistemi IAM.
 
-<sup>2</sup> A tal fine il servizio competente del sistema d’informazione gestito esternamente o che necessita l’accesso al sistema d’informazione esterno formula una richiesta scritta, specificando le persone interessate, e la invia tramite il responsabile per la protezione dei dati competente all’organo federale responsabile del sistema d’informazione che fornisce i dati richiesti.
+<sup>2</sup> A tal fine il servizio competente del sistema d’informazione gestito esternamente o che necessita l’accesso al sistema d’informazione esterno formula una richiesta scritta, specificando le persone interessate, e la invia tramite il consulente per la protezione dei dati competente all’organo federale responsabile del sistema d’informazione che fornisce i dati richiesti.[^17-1]
 
 <sup>3</sup> Nella richiesta il servizio responsabile secondo il capoverso 2 si impegna per scritto a rispettare la legislazione federale sulla protezione dei dati, a utilizzare i dati esclusivamente per lo scopo previsto e a proteggerli conformemente allo stato della tecnica. All’organo federale responsabile del sistema d’informazione che fornisce i dati richiesti deve essere accordato un diritto di ispezione.
 
 <sup>4</sup> Le persone interessate devono essere previamente informate.
+
+[^17-1]: Nuovo testo giusta l’all. 2 n. II 18 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 6: Misure di protezione dei sistemi IAM
 
@@ -275,7 +281,7 @@ Il sistema IAM autentica persone, macchine o sistemi che richiedono l’accesso 
 
 **Requisiti in materia di sicurezza delle informazioni**
 
-<sup>1</sup> I gestori interni ed esterni di componenti di un sistema IAM devono disporre di direttive documentate sulla sicurezza delle informazioni e sulla gestione dei rischi. In particolare, ogni organo responsabile di un sistema secondo la presente ordinanza emana un regolamento per il trattamento secondo l’articolo 21 OLPD[^18-1].
+<sup>1</sup> I gestori interni ed esterni di componenti di un sistema IAM devono disporre di direttive documentate sulla sicurezza delle informazioni e sulla gestione dei rischi. In particolare, ogni organo responsabile di un sistema secondo la presente ordinanza emana un regolamento per il trattamento secondo l’articolo 6 OPDa[^18-1].[^18-2]
 
 <sup>2</sup> I sistemi IAM che non sono gestiti da servizi secondo l’articolo 2 o su loro mandato, possono essere collegati a sistemi IAM interni alla Confederazione solo se soddisfano i requisiti minimi predefiniti in materia di sicurezza delle informazioni.
 
@@ -284,6 +290,7 @@ Il sistema IAM autentica persone, macchine o sistemi che richiedono l’accesso 
 <sup>4</sup> Il settore TDT della CaF disciplina in istruzioni i requisiti in materia di sicurezza e le procedure da rispettare.
 
 [^18-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^18-2]: Nuovo testo del per. giusta l’all. 2 n. II 18 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 19
 
@@ -367,9 +374,11 @@ I sistemi IAM della Confederazione possono essere collegati, in qualità di forn
 
 <sup>1</sup> Il sistema IAM verbalizza le autenticazioni e la comunicazione di dati concernenti l’identità solo per il tempo e nella misura necessari per consentire una gestione sicura e ordinata dei propri sistemi e dei sistemi a valle.
 
-<sup>2</sup> I dati verbalizzati sono distrutti al più tardi dopo due anni. Essi non sono archiviati.
+<sup>2</sup> I dati verbalizzati sono conservati separatamente dal sistema in cui sono trattati i dati personali e distrutti entro due anni. Essi non sono archiviati.[^25-1]
 
 <sup>3</sup> È fatta salva una verbalizzazione più dettagliata, una conservazione prolungata o un’archiviazione dei dati protocollati concernenti gli accessi a un determinato sistema d’informazione se lo prevede su una base legale particolare.
+
+[^25-1]: Nuovo testo giusta l’all. 2 n. II 18 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 26
 
@@ -377,9 +386,11 @@ I sistemi IAM della Confederazione possono essere collegati, in qualità di forn
 
 <sup>1</sup> I gestori di sistemi IAM della Confederazione possono trasmettere al servizio competente del sistema a valle i dati verbalizzati inerenti all’autenticazione e alla comunicazione di dati concernenti l’identità.
 
-<sup>2</sup> A tal fine, tramite il responsabile per la protezione dei dati, deve essere inviata all’organo responsabile del sistema IAM una richiesta scritta in cui vengono indicati lo scopo e la base legale. La trasmissione può essere concordata in maniera analoga anche nell’accordo di gestione stipulato tra l’organo responsabile e il gestore del sistema IAM.
+<sup>2</sup> A tal fine, tramite il consulente per la protezione dei dati, deve essere inviata all’organo responsabile del sistema IAM una richiesta scritta in cui vengono indicati lo scopo e la base legale. La trasmissione può essere concordata in maniera analoga anche nell’accordo di gestione stipulato tra l’organo responsabile e il gestore del sistema IAM.[^26-1]
 
 <sup>3</sup> In base ai principi vigenti per l’ottenimento di servizi informatici in seno alla Confederazione la trasmissione può essere soggetta a pagamento.
+
+[^26-1]: Nuovo testo giusta l’all. 2 n. II 18 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 27
 
@@ -430,7 +441,7 @@ Allegato[^t-1]
 
 ## Categorie di dati
 
-[^t-1]: Aggiornato dal n. II dell’O del 14 nov. 2018 ([RU 2018 4739](https://fedlex.data.admin.ch/eli/oc/2018/752)) e del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 282](https://fedlex.data.admin.ch/eli/oc/2022/282)).
+[^t-1]: Aggiornato dal n. II dell’O del 14 nov. 2018 (RU 2018 4739) e del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 282](https://fedlex.data.admin.ch/eli/oc/2022/282)).
 
 Osservazione preliminare: per il significato degli asterischi (\*) si veda l’articolo 11 capoverso 4.
 
@@ -483,6 +494,6 @@ Osservazione preliminare: per il significato degli asterischi (\*) si veda l’a
 <tr><td>1. Livello di controllo</td><td></td><td>x</td><td></td></tr>
 <tr><td>2. Data della prossima ripetizione del controllo di sicurezza</td><td></td><td>x</td><td></td></tr>
 <tr><td>[tab] g. Dati che possono essere trattati soltanto nel sistema IAM gestito dalla Base d’aiuto alla condotta (BAC) dell’Esercito svizzero (art. 5 cpv. 1 lett. c)</td><td></td><td></td><td></td></tr>
-<tr><td>[tab] ...</td><td></td><td></td><td></td></tr>
+<tr><td>1. ...</td><td></td><td></td><td></td></tr>
 <tr><td>2. Particolari caratteristiche biometriche personali: scansione dell’iride, scansione delle vene, impronte digitali, impronta della mano, caratteristiche della forma del viso e profilo vocale (art. 2*a* LSIM)</td><td></td><td>x</td><td></td></tr>
 </table>
