@@ -3,18 +3,18 @@ sr: "431.09"
 title: Ordonnance du 25 juin 2003 sur les émoluments et indemnités perçus pour les prestations de services statistiques des unités administratives de la Confédération
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/326"
 language: fr
-version: 2011-04-01
+version: 2023-09-01
 adopted: 2003-06-25
 in_force: 2003-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/326/20110401/fr/xml/fedlex-data-admin-ch-eli-cc-2003-326-20110401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/326/20110401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/326/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2003-326-20230901-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/326/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur les émoluments et indemnités perçus pour les prestations de services statistiques des unités administratives de la Confédération
 
-du 25 juin 2003 (Etat le 1<sup>er</sup> avril 2011)
+du 25 juin 2003 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -35,16 +35,17 @@ La présente ordonnance régit les émoluments et indemnités perçus par l’Of
 - a. publications (art. 18 LSF);
 - b. communication de résultats non publiés (art. 18, al. 1, LSF);
 - c. réalisation d’exploitations particulières (art. 19, al. 1, LSF);
-- d. communication de données personnelles anonymisées ou de données anonymisées du Registre des entreprises et des établissements ou du Registre fédéral des bâtiments et des logements de l’Office fédéral de la statistique (art. 19, al. 2, LSF);
+- d.[^1-2] communication de données personnelles et de données des personnes morales anonymisées, ainsi que de données anonymisées du Registre des entreprises et des établissements ou du Registre fédéral des bâtiments et des logements de l’Office fédéral de la statistique (art. 19, al. 2, LSF);
 - e. travaux de recherche et d’analyse, conseils (art. 19, al. 3, LSF)
 - f. autorisation d’utiliser des résultats statistiques à des fins lucratives (art. 20, al. 2, LSF);
-- g.[^1-2] utilisation de la plateforme centrale informatique et de communication sedex pour fournir des prestations en dehors de l’harmonisation des registres (art. 4, al. 2, LSF);
-- h. [^1-3] renseignement fournis sur l’IDE en réponse à des requêtes par lots conformément à l’art. 11, al. 2, de la loi fédérale du 18 juin 2010 sur le numéro d’identification des entreprises[^1-4].
+- g.[^1-3] utilisation de la plateforme centrale informatique et de communication sedex pour fournir des prestations en dehors de l’harmonisation des registres (art. 4, al. 2, LSF);
+- h. [^1-4] renseignement fournis sur l’IDE en réponse à des requêtes par lots conformément à l’art. 11, al. 2, de la loi fédérale du 18 juin 2010 sur le numéro d’identification des entreprises[^1-5].
 
 [^1-1]: Nouvelle teneur selon le ch. 4 de l’annexe à l’O du 26 janv. 2011 sur le numéro d’identification des entreprises, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
-[^1-2]: Introduite par le ch. 6 de l’annexe à l’O du 21 nov. 2007 sur l’harmonisation de registres, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
-[^1-3]: Introduite par le ch. 4 de l’annexe à l’O du 26 janv. 2011 sur le numéro d’identification des entreprises, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
-[^1-4]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^1-2]: Nouvelle teneur selon l’annexe 2 ch. II 54 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^1-3]: Introduite par l’annexe ch. 6 de l’O du 21 nov. 2007 sur l’harmonisation de registres, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
+[^1-4]: Introduite par l’annexe ch. 4 de l’O du 26 janv. 2011 sur le numéro d’identification des entreprises, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
+[^1-5]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
 
 #### Art. 2
 
@@ -101,7 +102,7 @@ L’émolument est dû:
 
 #### Art. 8
 
-**Emoluments pour prestations de service hors ligne**
+**Émoluments pour prestations de service hors ligne**
 
 <sup>1</sup>
 
@@ -129,7 +130,7 @@ Sont réputés débours tous les frais qui s’ajoutent aux prestations de servi
 
 #### Art. 10
 
-**Emoluments pour prestations de service en ligne**
+**Émoluments pour prestations de service en ligne**
 
 <sup>1</sup>
 
@@ -319,7 +320,7 @@ Les émoluments peuvent être supprimés :
 
 L’ordonnance du 30 juin 1993 sur les émoluments pour les prestations de services statistiques des unités administratives fédérales[^23-1] est abrogée.
 
-[^23-1]: [[RO 1993 2243](https://fedlex.data.admin.ch/eli/oc/1993/2243_2243_2243), [1995 153](https://fedlex.data.admin.ch/eli/oc/1995/153_153_153)annexe 1 ch. 3, [2000 667](https://fedlex.data.admin.ch/eli/oc/2000/114)[1555](https://fedlex.data.admin.ch/eli/oc/2000/239)art. 18]
+[^23-1]: [[RO 1993 2243](https://fedlex.data.admin.ch/eli/oc/1993/2243_2243_2243); [1995 153](https://fedlex.data.admin.ch/eli/oc/1995/153_153_153)annexe 1 ch. 3; [2000 667](https://fedlex.data.admin.ch/eli/oc/2000/114)[1555](https://fedlex.data.admin.ch/eli/oc/2000/239)art. 18]
 
 #### Art. 24
 
@@ -333,25 +334,25 @@ Annexe
 
 Sauf mention contraire, les montants sont indiqués par exemplaire ou par unité.
 
-### Emoluments
+### Émoluments
 
 <table>
 <tr><th>Position</th><th></th></tr>
-<tr><td>Emoluments par unité d’information</td><td></td></tr>
+<tr><td>Émoluments par unité d’information</td><td></td></tr>
 <tr><td>1 Sont réputés unités d’information:</td><td></td></tr>
-<tr><td>– les cellules d’un tableau – les modalités d’un caractère d’une banque de données</td><td>Emolument par cellule ou par modalité de caractère: Fr. 0,005 au maximum.</td></tr>
-<tr><td>– les pages des prestations de services présentées sous forme de pages</td><td>Emolument par page: Fr. –.50 au maximum.</td></tr>
-<tr><td>Emoluments par unité de temps</td><td></td></tr>
+<tr><td>– les cellules d’un tableau – les modalités d’un caractère d’une banque de données</td><td>Émolument par cellule ou par modalité de caractère: Fr. 0,005 au maximum.</td></tr>
+<tr><td>– les pages des prestations de services présentées sous forme de pages</td><td>Émolument par page: Fr. –.50 au maximum.</td></tr>
+<tr><td>Émoluments par unité de temps</td><td></td></tr>
 <tr><td>2 Personnel administratif</td><td>Fr. 90.– l’heure</td></tr>
 <tr><td>3 Personnel scientifique</td><td>Fr. 130.– l’heure</td></tr>
 <tr><td>4 Tarif à la minute pour téléphonie taxée (numéros business)</td><td>Selon tarif de l’opérateur Fr. 1.50 au maximum</td></tr>
-<tr><td>Emoluments pour adresses (extraits de registres)</td><td></td></tr>
+<tr><td>Émoluments pour adresses (extraits de registres)</td><td></td></tr>
 <tr><td>5 Listes d’adresses imprimées</td><td>Fr. –.30 par adresse</td></tr>
 <tr><td>6 Adresses sur étiquettes autocollantes</td><td>Fr. –.50 par adresse</td></tr>
 <tr><td>7 Adresses électroniques</td><td>Fr. 1.– par adresse</td></tr>
-<tr><td>Emolument de protection</td><td></td></tr>
+<tr><td>Émolument de protection</td><td></td></tr>
 <tr><td>8 A partir de 10 exemplaires</td><td>Fr. 2.– au minimum mais Fr. 5.– au maximum par exemplaire</td></tr>
-<tr><td>Emolument pour utilisation multiple de données numérisées</td><td></td></tr>
+<tr><td>Émolument pour utilisation multiple de données numérisées</td><td></td></tr>
 <tr><td>9 2 à 5 utilisateurs</td><td>Facteur 2 de l’émolument pour une utilisation sans ou avec réduction.</td></tr>
 <tr><td>10 6 à 10 utilisateurs</td><td>Facteur 3 de l’émolument pour une utilisation sans réduction</td></tr>
 <tr><td>11 11 à 20 utilisateurs</td><td>Facteur 5 de l’émolument pour une utilisation sans réduction</td></tr>

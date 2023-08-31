@@ -3,18 +3,18 @@ sr: "431.09"
 title: Ordinanza del 25 giugno 2003 sugli emolumenti e le indennità per le prestazioni di servizi statistici delle unità amministrative della Confederazione
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/326"
 language: it
-version: 2011-04-01
+version: 2023-09-01
 adopted: 2003-06-25
 in_force: 2003-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/326/20110401/it/xml/fedlex-data-admin-ch-eli-cc-2003-326-20110401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/326/20110401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/326/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2003-326-20230901-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/326/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sugli emolumenti e le indennità per le prestazioni di servizi statistici delle unità amministrative della Confederazione
 
-del 25 giugno 2003 (Stato 1° aprile 2011)
+del 25 giugno 2003 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -35,16 +35,17 @@ La presente ordinanza disciplina gli emolumenti e le indennità dell’Ufficio f
 - a. pubblicazioni (art. 18 LStat);
 - b. comunicazione di risultati non pubblicati (art. 18 cpv. 1 LStat);
 - c. esecuzione di elaborazioni statistiche particolari (art. 19 cpv. 1 LStat);
-- d. comunicazione di dati personali anonimizzati, nonché di dati anonimizzati del Registro delle imprese e degli stabilimenti e del Registro federale degli edifici e delle abitazioni dell’Ufficio federale di statistica (art. 19 cpv. 2 LStat);
+- d.[^1-2] comunicazione di dati personali e di dati di persone giuridiche anonimizzati, nonché di dati anonimizzati del Registro delle imprese e degli stabilimenti e del Registro federale degli edifici e delle abitazioni dell’Ufficio federale di statistica (art. 19 cpv. 2 LStat);
 - e. compiti di ricerca, analisi e consulenza (art. 19 cpv. 3 LStat);
 - f. autorizzazioni per l’utilizzazione di risultati statistici a scopo di lucro (art. 20 cpv. 2 LStat);
-- g.[^1-2] utilizzazione della piattaforma d’informazione e comunicazione Sedex per servizi al di fuori dell’armonizzazione dei registri (art. 4 cpv. 2 LStat);
-- h.[^1-3] informazioni relative a interrogazioni collettive dell’IDI ai sensi dell’articolo 11 capoverso 2 della legge federale del 18 giugno 2010[^1-4] sul numero d’identificazione delle imprese.
+- g.[^1-3] utilizzazione della piattaforma d’informazione e comunicazione Sedex per servizi al di fuori dell’armonizzazione dei registri (art. 4 cpv. 2 LStat);
+- h.[^1-4] informazioni relative a interrogazioni collettive dell’IDI ai sensi dell’articolo 11 capoverso 2 della legge federale del 18 giugno 2010[^1-5] sul numero d’identificazione delle imprese.
 
 [^1-1]: Nuovo testo giusta il n. 9 dell’all. all’O del 26 gen. 2011 sul numero d’identificazione delle imprese, in vigore dal 1° apr. 2011 ([RU 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
-[^1-2]: Introdotta dal n. 6 dell’all. all’O del 21 nov. 2007 sull’armonizzazione dei registri, in vigore dal 1° gen. 2008 ([RU 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
-[^1-3]: Introdotta dal n. 9 dell’all. all’O del 26 gen. 2011 sul numero d’identificazione delle imprese, in vigore dal 1° apr. 2011 ([RU 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
-[^1-4]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^1-2]: Nuovo testo giusta l’all. 2 n. II 54 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^1-3]: Introdotta dal n. 6 dell’all. all’O del 21 nov. 2007 sull’armonizzazione dei registri, in vigore dal 1° gen. 2008 ([RU 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
+[^1-4]: Introdotta dal n. 9 dell’all. all’O del 26 gen. 2011 sul numero d’identificazione delle imprese, in vigore dal 1° apr. 2011 ([RU 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
+[^1-5]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
 
 #### Art. 2
 
@@ -259,7 +260,7 @@ L’unità amministrativa competente fornisce gratuitamente pubblicazioni in sin
 
 **Riduzione per determinati utenti**
 
-- [tab] <sup>1</sup> L’unità amministrativa competente fornisce pubblicazioni in singoli esemplari con una riduzione del 50 per cento alle scuole e ai centri di formazione di tutti i livelli.
+<sup>1</sup> L’unità amministrativa competente fornisce pubblicazioni in singoli esemplari con una riduzione del 50 per cento alle scuole e ai centri di formazione di tutti i livelli.
 
 <sup>2</sup>
 
@@ -331,50 +332,51 @@ Allegato
 
 Nei casi in cui mancano altre indicazioni si intendono i prezzi per copia/unità.
 
-Emolumenti
+### Emolumenti
 
 <table>
-<tr><th>Posizione</th><th colspan="2"></th><th></th><th colspan="3"></th><th></th><th></th></tr>
-<tr><td colspan="2"></td><td colspan="7">Emolumenti per unità d’informazione</td></tr>
-<tr><td colspan="2">1</td><td colspan="3">Sono considerate unità d’informazione:</td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="2"></td><td colspan="3">– le celle di una tabella – i parametri secondo cui è strutturata una banca dati</td><td></td><td></td><td></td><td>[tab] L’emolumento per cella o parametro è al massimo di fr. -.005.</td></tr>
-<tr><td colspan="2"></td><td colspan="3">– le pagine di una prestazione fornita in pagine</td><td></td><td></td><td></td><td>L’emolumento per pagina è al massimo di fr. –.50.</td></tr>
-<tr><td colspan="2"></td><td colspan="7">Emolumento in base al tempo impiegato</td></tr>
-<tr><td colspan="2">2</td><td colspan="3">Personale amministrativo</td><td></td><td></td><td></td><td>fr. 90.– all’ora</td></tr>
-<tr><td colspan="2">3</td><td colspan="3">Personale scientifico</td><td></td><td></td><td></td><td>fr. 130.– all’ora</td></tr>
-<tr><td colspan="2">4</td><td colspan="5">Tariffa al minuto della telefonia a pagamento (numeri business)</td><td></td><td>Tariffe secondo i fornitori di telecomunicazioni, al massimo fr. 1.50</td></tr>
-<tr><td colspan="2"></td><td colspan="7">Emolumenti per indirizzi (estratti da registri)</td></tr>
-<tr><td colspan="2">5</td><td colspan="3">Elenchi di indirizzi (stampati)</td><td></td><td></td><td></td><td>fr. –.30 per indirizzo</td></tr>
-<tr><td colspan="2">6</td><td colspan="3">Indirizzi su etichette autoadesive</td><td></td><td></td><td></td><td>fr. –.50 per indirizzo</td></tr>
-<tr><td colspan="2">7</td><td colspan="3">Indirizzi elettronici</td><td></td><td></td><td></td><td>fr. 1.– per indirizzo</td></tr>
-<tr><td colspan="2"></td><td colspan="3">Tassa di protezione</td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="2">8</td><td colspan="3">a partire da 10 esemplari</td><td></td><td></td><td></td><td>almeno fr. 2.– al massimo fr. 5.– per esemplare</td></tr>
-<tr><td colspan="2"></td><td colspan="7">Tariffa per utilizzazione ripetuta di offerte digitali</td></tr>
-<tr><td colspan="2">9</td><td colspan="3">2–5 utenti</td><td></td><td></td><td></td><td>Fattore 2 della tassa per un’utilizzazione senza (art. 16. cpv. 4) o con sconto (art. 20 cpv. 2)</td></tr>
-<tr><td colspan="2">10</td><td colspan="3">6–10 utenti</td><td></td><td></td><td></td><td>Fattore 3 della tassa per un’utilizzazione senza sconto.</td></tr>
-<tr><td colspan="2">11</td><td colspan="3">11–20 utenti</td><td></td><td></td><td></td><td>Fattore 5 della tassa per un’utilizzazione senza sconto.</td></tr>
-<tr><td colspan="2">12</td><td colspan="3">21–50 utenti</td><td></td><td></td><td></td><td>Fattore 7 della tassa per un’utilizzazione senza sconto.</td></tr>
-<tr><td colspan="2">13</td><td colspan="3">51–100 utenti</td><td></td><td></td><td></td><td>Fattore 8 della tassa per un’utilizzazione senza sconto.</td></tr>
-<tr><td colspan="2">14</td><td colspan="3">Oltre 100 utenti</td><td></td><td></td><td></td><td>Almeno fattore 10 e al massimo fattore 50 della tassa per un’utilizzazione senza sconto.</td></tr>
+<tr><th>Posizione</th><th></th></tr>
+<tr><td>Emolumenti per unità d’informazione</td><td></td></tr>
+<tr><td>1 Sono considerate unità d’informazione:</td><td></td></tr>
+<tr><td>– le celle di una tabella – i parametri secondo cui è strutturata una banca dati</td><td>L’emolumento per cella o parametro è al massimo di fr. -.005.</td></tr>
+<tr><td>– le pagine di una prestazione fornita in pagine</td><td>L’emolumento per pagina è al massimo di fr. –.50.</td></tr>
+<tr><td>Emolumento in base al tempo impiegato</td><td></td></tr>
+<tr><td>2 Personale amministrativo</td><td>fr. 90.– all’ora</td></tr>
+<tr><td>3 Personale scientifico</td><td>fr. 130.– all’ora</td></tr>
+<tr><td>4 Tariffa al minuto della telefonia a pagamento (numeri business)</td><td>Tariffe secondo i fornitori di telecomunicazioni, al massimo fr. 1.50</td></tr>
+<tr><td>Emolumenti per indirizzi (estratti da registri)</td><td></td></tr>
+<tr><td>5 Elenchi di indirizzi (stampati)</td><td>fr. –.30 per indirizzo</td></tr>
+<tr><td>6 Indirizzi su etichette autoadesive</td><td>fr. –.50 per indirizzo</td></tr>
+<tr><td>7 Indirizzi elettronici</td><td>fr. 1.– per indirizzo</td></tr>
+<tr><td>Tassa di protezione</td><td></td></tr>
+<tr><td>[tab] A partire da 10 esemplari</td><td>almeno fr. 2.– al massimo fr. 5.– per esemplare</td></tr>
+<tr><td>Tariffa per utilizzazione ripetuta di offerte digitali</td><td></td></tr>
+<tr><td>9 2–5 utenti</td><td>Fattore 2 della tassa per un’utilizzazione senza (art. 16. cpv. 4) o con sconto (art. 20 cpv. 2)</td></tr>
+<tr><td>10 6–10 utenti</td><td>Fattore 3 della tassa per un’utilizzazione senza sconto.</td></tr>
+<tr><td>11 11–20 utenti</td><td>Fattore 5 della tassa per un’utilizzazione senza sconto.</td></tr>
+<tr><td>12 21–50 utenti</td><td>Fattore 7 della tassa per un’utilizzazione senza sconto.</td></tr>
+<tr><td>13 51–100 utenti</td><td>Fattore 8 della tassa per un’utilizzazione senza sconto.</td></tr>
+<tr><td>14 Oltre 100 utenti</td><td>Almeno fattore 10 e al massimo fattore 50 della tassa per un’utilizzazione senza sconto.</td></tr>
 </table>
 
-Spese
+### Posizione
 
 <table>
-<tr><td colspan="3">Posizione</td><td></td><td></td><td></td></tr>
-<tr><td colspan="2"></td><td colspan="2">Costi di materiale e di distribuzione</td><td></td><td></td></tr>
-<tr><td colspan="2">50</td><td colspan="2">Fotocopie b/n A4</td><td></td><td>fr. –.20</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Fotocopie b/n A3</td><td></td><td>fr. –.50</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Fotocopie a colori A4</td><td></td><td>fr. 1.–</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Fotocopie a colori A3</td><td></td><td>fr. 2.–</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Tabulati b/n A4</td><td></td><td>fr. –.20</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Tabulati b/n A3</td><td></td><td>fr. –.50</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Invio fax A4</td><td></td><td>fr. –.40</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Invio fax A3</td><td></td><td>fr. –.80</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Carte plotter A4</td><td></td><td>fr. 10.–</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Carte plotter A3</td><td></td><td>fr. 15.–</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Carte plotter &gt;A3</td><td></td><td>fr. 60.–</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Dischetti</td><td></td><td>fr. 1.–</td></tr>
-<tr><td colspan="2"></td><td colspan="2">CD-R/RW</td><td></td><td>fr. 2.–</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Costi di distribuzione</td><td></td><td>fr. 5.–</td></tr>
+<tr><td>Posizione</td><td></td></tr>
+<tr><td>Costi di materiale e di distribuzione</td><td></td></tr>
+<tr><td>50 Fotocopie b/n A4</td><td>fr. –.20</td></tr>
+<tr><td>Fotocopie b/n A3</td><td>fr. –.50</td></tr>
+<tr><td>Fotocopie a colori A4</td><td>fr. 1.–</td></tr>
+<tr><td>Fotocopie a colori A3</td><td>fr. 2.–</td></tr>
+<tr><td>Tabulati b/n A4</td><td>fr. –.20</td></tr>
+<tr><td>Tabulati b/n A3</td><td>fr. –.50</td></tr>
+<tr><td>Invio fax A4</td><td>fr. –.40</td></tr>
+<tr><td>Invio fax A3</td><td>fr. –.80</td></tr>
+<tr><td>Carte plotter A4</td><td>fr. 10.–</td></tr>
+<tr><td>Carte plotter A3</td><td>fr. 15.–</td></tr>
+<tr><td>Carte plotter &gt;A3</td><td>fr. 60.–</td></tr>
+<tr><td>Dischetti</td><td>fr. 1.–</td></tr>
+<tr><td>CD-R/RW</td><td>fr. 2.–</td></tr>
+<tr><td>Costi di distribuzione</td><td>fr. 5.–</td></tr>
+<tr><td>Fotocopie b/n A3</td><td>fr. –.20</td></tr>
 </table>

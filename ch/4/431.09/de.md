@@ -4,18 +4,18 @@ title: Verordnung vom 25. Juni 2003 über die Gebühren und Entschädigungen fü
 short: GebVO St
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/326"
 language: de
-version: 2011-04-01
+version: 2023-09-01
 adopted: 2003-06-25
 in_force: 2003-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/326/20110401/de/xml/fedlex-data-admin-ch-eli-cc-2003-326-20110401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/326/20110401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/326/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2003-326-20230901-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/326/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Gebühren und Entschädigungen für statistische Dienstleistungen von Verwaltungseinheiten des Bundes
 
-vom 25. Juni 2003 (Stand am 1. April 2011)
+vom 25. Juni 2003 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -36,16 +36,17 @@ Diese Verordnung regelt die Gebühren und Entschädigungen des Bundesamtes für 
 - a. Veröffentlichungen (Art. 18 BStatG);
 - b. Bekanntgabe von nicht veröffentlichten Ergebnissen (Art. 18 Abs. 1 BStatG);
 - c. Durchführung von besonderen Auswertungen (Art. 19 Abs. 1 BStatG);
-- d. Bekanntgabe von anonymisierten Personendaten sowie von anonymisierten Daten aus dem Betriebs- und Unternehmensregister und dem eidgenössischen Gebäude- und Wohnungsregister des Bundesamtes für Statistik (Art. 19 Abs. 2 BStatG);
+- d.[^1-2] Bekanntgabe von anonymisierten Personendaten und Daten juristischer Personen sowie von anonymisierten Daten aus dem Betriebs- und Unternehmensregister und dem eidgenössischen Gebäude- und Wohnungsregister des Bundesamtes für Statistik (Art. 19 Abs. 2 BStatG);
 - e. Forschungs‑, Analyse- und Beratungsaufgaben (Art. 19 Abs. 3 BStatG);
 - f. Bewilligungen für die Verwendung von statistischen Ergebnissen zu Erwerbszwecken (Art. 20 Abs. 2 BStatG);
-- g.[^1-2] Verwendung der Informations- und Kommunikationsplattform Sedex für Dienstleistungen ausserhalb der Registerharmonisierung (Art. 4 Abs. 2 BStatG);
-- h.[^1-3] Auskünfte zu Sammelabfragen der UID nach Artikel 11 Absatz 2 des Bundesgesetzes vom 18. Juni 2010[^1-4] über die Unternehmens-Identifikationsnummer.
+- g.[^1-3] Verwendung der Informations- und Kommunikationsplattform Sedex für Dienstleistungen ausserhalb der Registerharmonisierung (Art. 4 Abs. 2 BStatG);
+- h.[^1-4] Auskünfte zu Sammelabfragen der UID nach Artikel 11 Absatz 2 des Bundesgesetzes vom 18. Juni 2010[^1-5] über die Unternehmens-Identifikationsnummer.
 
 [^1-1]: Fassung gemäss Anhang Ziff. 4 der V vom 26. Jan. 2011 über die Unternehmens-Identifi-kationsnummer, in Kraft seit 1. April 2011 ([AS 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
-[^1-2]: Eingefügt durch Anhang Ziff. 6 der Registerharmonisierungsverordnung vom 21. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
-[^1-3]: Eingefügt durch Anhang Ziff. 4 der V vom 26. Jan. 2011 über die Unternehmens-Identi-fikationsnummer, in Kraft seit 1. April 2011 ([AS 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
-[^1-4]: [SR 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^1-2]: Fassung gemäss Anhang 2 Ziff. II 54 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^1-3]: Eingefügt durch Anhang Ziff. 6 der Registerharmonisierungsverordnung vom 21. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
+[^1-4]: Eingefügt durch Anhang Ziff. 4 der V vom 26. Jan. 2011 über die Unternehmens-Identi-fikationsnummer, in Kraft seit 1. April 2011 ([AS 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
+[^1-5]: [SR 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
 
 #### Art. 2
 
@@ -260,7 +261,7 @@ Die zuständige Verwaltungseinheit gibt Veröffentlichungen in Einzelexemplaren 
 
 **Gebührenermässigung für bestimmte Bezüger**
 
-- [tab] <sup>1</sup> Die zuständige Verwaltungseinheit gibt Veröffentlichungen in Einzelexemplaren mit einer Gebührenermässigung von 50 Prozent an die Schulen und Ausbildungsstätten aller Stufen ab.
+<sup>1</sup> Die zuständige Verwaltungseinheit gibt Veröffentlichungen in Einzelexemplaren mit einer Gebührenermässigung von 50 Prozent an die Schulen und Ausbildungsstätten aller Stufen ab.
 
 <sup>2</sup>
 
@@ -332,7 +333,7 @@ Anhang
 
 Wo nichts anderes vermerkt ist, gelten die Gebühren pro Exemplar/Einheit.
 
-Gebühren
+### Gebühren
 
 <table>
 <tr><th>Position</th><th></th><th></th><th></th><th></th><th></th></tr>
@@ -359,7 +360,7 @@ Gebühren
 <tr><td>14</td><td>über 100 Nutzende</td><td></td><td></td><td></td><td>mindestens Faktor 10 und höchstens Faktor 50 der Gebühr für eine Nutzung ohne Ermässigung.</td></tr>
 </table>
 
-Auslagen
+### Auslagen
 
 <table>
 <tr><td>Position</td><td></td><td></td><td></td></tr>
