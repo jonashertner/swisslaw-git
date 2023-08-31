@@ -4,11 +4,11 @@ title: Verordnung 1 vom 10. Mai 2000 zum Arbeitsgesetz (ArGV 1)
 short: ArGV 1
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/243"
 language: de
-version: 2022-04-01
+version: 2023-09-01
 adopted: 2000-05-10
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/243/20220401/de/xml/fedlex-data-admin-ch-eli-cc-2000-243-20220401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20220401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/243/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2000-243-20230901-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,17 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20220401/de"
 
 (ArGV 1)
 
-vom 10. Mai 2000 (Stand am 1. April 2022)
+vom 10. Mai 2000 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 40 des Arbeitsgesetzes vom 13. März 1964 (Gesetz, ArG)[^ingress-1], Artikel 83 Absatz 2 des Bundesgesetzes vom 20. März 1981[^ingress-2] über die Unfallversicherung (UVG) und Artikel 16 Absatz 2 des Bundesgesetzes vom 19. Juni 1992[^ingress-3] über den Datenschutz (DSG),
+gestützt auf Artikel 40 des Arbeitsgesetzes vom 13. März 1964 (Gesetz, ArG)[^ingress-1], Artikel 83 Absatz 2 des Bundesgesetzes vom 20. März 1981[^ingress-2] über die Unfallversicherung (UVG) und Artikel 33 des Datenschutzgesetzes vom 25. September 2020[^ingress-3] (DSG),[^ingress-4]
 
 verordnet:
 
 [^ingress-1]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
 [^ingress-2]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
 [^ingress-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^ingress-4]: Fassung gemäss Anhang 2 Ziff. II 110 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 1. Kapitel: Geltungsbereich
 
@@ -1432,17 +1433,21 @@ Das System kann außerdem enthalten:
 
 #### Art. 89
 
-**Datenschutz**
+**Datenschutz**[^89-1]
 
-### (Art. 16 Abs. 2 DSG, Art. 44–46 ArG)
+### (Art. 33 DSG, Art. 44–46 ArG)
 
-Die Rechte der Betroffenen, insbesondere das Auskunfts-, Berichtigungs- und Löschungsrecht, richten sich nach den Bestimmungen des Bundesgesetzes vom 19. Juni 1992 über den Datenschutz, soweit das Gesetz (ArG) keine abweichenden Bestimmungen kennt.
+Die Rechte der Betroffenen, insbesondere das Auskunfts-, Berichtigungs- und Vernichtungsrecht, richten sich nach den Bestimmungen des DSG, soweit das Gesetz (ArG) keine abweichenden Bestimmungen kennt.
+
+[^89-1]: Fassung gemäss Anhang 2 Ziff. II 110 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 90
 
-**Strafbestimmung**
+**Strafbestimmung**[^90-1]
 
-Die Strafverfolgung für Verletzungen des Datenschutzes und der Auskunftspflicht richtet sich nach dem Bundesgesetz vom 19. Juni 1992 über den Datenschutz.
+Die Strafverfolgung für Verletzungen des Datenschutzes und der Auskunftspflicht richtet sich nach dem DSG.
+
+[^90-1]: Fassung gemäss Anhang 2 Ziff. II 110 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 9. Kapitel: Schlussbestimmungen
 
@@ -1478,7 +1483,7 @@ Arbeitszeitbewilligungen, die gestützt auf das bisherige Gesetz erlassen worden
 
 [^94-1]: [AS 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293). Dieses BG ist am 1. Sept. 2000 in Kraft getreten.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 28 Abs. 4)
 

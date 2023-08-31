@@ -4,11 +4,11 @@ title: Ordinanza 1 del 10 maggio 2000 concernente la legge sul lavoro (OLL 1)
 short: OLL 1
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/243"
 language: it
-version: 2022-04-01
+version: 2023-09-01
 adopted: 2000-05-10
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/243/20220401/it/xml/fedlex-data-admin-ch-eli-cc-2000-243-20220401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20220401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/243/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2000-243-20230901-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,17 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20220401/it"
 
 (OLL 1)
 
-del 10 maggio 2000 (Stato 1° aprile 2022)
+del 10 maggio 2000 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
-visto l’articolo 40 della legge del 13 marzo 1964[^ingress-1] sul lavoro (legge, LL); visto l’articolo 83 capoverso 2 della legge federale del 20 marzo 1981[^ingress-2] sull’assicurazione contro gli infortuni (LAINF) e l’articolo 16 capoverso 2 della legge federale del 19 giugno 1992[^ingress-3] sulla protezione dei dati (LPD),
+visto l’articolo 40 della legge del 13 marzo 1964[^ingress-1] sul lavoro (legge, LL); visto l’articolo 83 capoverso 2 della legge federale del 20 marzo 1981[^ingress-2] sull’assicurazione contro gli infortuni (LAINF); visto l’articolo 33 della legge federale del 25 settembre 2020[^ingress-3] sulla protezione dei dati (LPD),[^ingress-4]
 
 ordina:
 
 [^ingress-1]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
 [^ingress-2]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
 [^ingress-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^ingress-4]: Nuovo testo giusta l’all. 2 n. II 110 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Capitolo 1: Campo d’applicazione
 
@@ -1430,17 +1431,21 @@ Il sistema può inoltre contenere:
 
 #### Art. 89
 
-**Protezione dei dati**
+**Protezione dei dati**[^89-1]
 
-### (art. 16 cpv. 2 LPD, art. 44-46 LL)
+### (art. 33 LPD, 44–46 LL)
 
-I diritti delle persone interessate, in particolare il diritto di informazione, di rettifica e di cancellazione, sono retti dalle disposizioni della legge federale del 19 giugno 1992 sulla protezione dei dati, sempreché la legge non preveda disposizioni deroganti.
+I diritti delle persone interessate, segnatamente il diritto di accesso, rettifica e distruzione, sono retti dalle disposizioni della LPD, nella misura in cui la LL non contiene disposizioni contrarie.
+
+[^89-1]: Nuovo testo giusta l’all. 2 n. II 110 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 90
 
-**Disposizione penale**
+**Disposizione penale**[^90-1]
 
-Il perseguimento penale per violazioni della protezione dei dati e dell’obbligo di informazione è disciplinata dalla legge del 19 giugno 1992 sulla protezione dei dati.
+Il perseguimento penale per violazioni della protezione dei dati e dell’obbligo di accesso è disciplinato dalla LPD.
+
+[^90-1]: Nuovo testo giusta l’all. 2 n. II 110 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Capitolo 9: Disposizioni finali
 
@@ -1476,7 +1481,7 @@ I permessi concernenti la durata del lavoro rilasciati in virtù del diritto ant
 
 [^94-1]: [RU 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293). Questa L è entrata in vigore il 1° set. 2000.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 28 cpv. 4)
 

@@ -4,11 +4,11 @@ title: Ordonnance 1 du 10 mai 2000 relative à la loi sur le travail (OLT 1)
 short: OLT 1
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/243"
 language: fr
-version: 2022-04-01
+version: 2023-09-01
 adopted: 2000-05-10
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/243/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-2000-243-20220401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20220401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/243/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2000-243-20230901-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,17 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20220401/fr"
 
 (OLT 1)
 
-du 10 mai 2000 (Etat le 1<sup>er</sup> avril 2022)
+du 10 mai 2000 (État le 1<sup>er</sup> septembre 2023)
 
 <sup>Le Conseil fédéral suisse,</sup>
 
-vu l’art. 40 de la loi du 13 mars 1964 sur le travail (loi, LTr)[^ingress-1], vu l’art. 83, al. 2, de la loi fédérale du 20 mars 1981 sur l’assurance-accidents (LAA)[^ingress-2], vu l’art. 16, al. 2, de la loi fédérale du 19 juin 1992 sur la protection des données (LPD)[^ingress-3],
+vu l’art. 40 de la loi du 13 mars 1964 sur le travail (loi, LTr)[^ingress-1], vu l’art. 83, al. 2, de la loi fédérale du 20 mars 1981 sur l’assurance-accidents (LAA)[^ingress-2], vu l’art. 33 de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^ingress-3],[^ingress-4]
 
 arrête:
 
 [^ingress-1]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
 [^ingress-2]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
 [^ingress-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^ingress-4]: Nouvelle teneur selon l’annexe 2 ch. II 110 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Chapitre 1 Champ d’application
 
@@ -1435,17 +1436,21 @@ Le système contient pour chaque entreprise industrielle:
 
 #### Art. 89
 
-**Protection des données**
+**Protection des données**[^89-1]
 
-### (art. 16, al. 2, LPD, art. 44 à 46 LTr)
+### (art. 33 LPD, art. 44 à 46 LTr)
 
-Les droits des personnes concernées, notamment les droits d’information, de rectification et d’effacement des données sont régis par les dispositions de la loi fédérale du 19 juin 1992 sur la protection des données, sous réserve de clauses dérogatoires prévues par la loi.
+Les droits des personnes concernées, notamment les droits d’information, de rectification et de destruction des données sont régis par les dispositions de la LPD, sous réserve de clauses dérogatoires prévues par la loi.
+
+[^89-1]: Nouvelle teneur selon l’annexe 2 ch. II 110 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 90
 
-**Disposition pénale**
+**Disposition pénale**[^90-1]
 
-La poursuite pénale pour violation de la protection des données ou infraction à l’obligation de renseigner est régie par la loi fédérale du 19 juin 1992 sur la protection des données.
+La poursuite pénale pour violation de la protection des données ou infraction à l’obligation de renseigner est régie par la LPD.
+
+[^90-1]: Nouvelle teneur selon l’annexe 2 ch. II 110 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Chapitre 9 Dispositions finales
 
@@ -1481,13 +1486,13 @@ Les permis concernant la durée de travail délivrés sur la base de l’ancienn
 
 [^94-1]: [RO 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293). Cette loi est entrée en vigueur le 1<sup>er</sup> sept. 2000.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 28, al. 4)
 
 ## Établissement de l’indispensabilité technique ou économique du travail de nuit ou du dimanche pour certains procédés de travail et pour les procédés de travail indissociables de ces derniers
 
-[^t-1]: Mise à jour selon le ch. II des O du 1<sup>er</sup> sept. 2021 ([RO 2021 543](https://fedlex.data.admin.ch/eli/oc/2021/543)) et du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 100](https://fedlex.data.admin.ch/eli/oc/2022/100)).
+[^t-1]: Mise à jour par le ch. II des O du 1<sup>er</sup> sept. 2021 ([RO 2021 543](https://fedlex.data.admin.ch/eli/oc/2021/543)) et du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 100](https://fedlex.data.admin.ch/eli/oc/2022/100)).
 
 Le travail de nuit ou du dimanche à caractère régulier ou périodique est présumé indispensable dans la mesure indiquée ci-après pour les procédés de travail énumérés ci-dessous et pour les procédés de travail indissociables de ces derniers; le travail de nuit ou du dimanche reste présumé indispensable même s’il est organisé sous la forme de travail continu ou de travail continu atypique.
 
