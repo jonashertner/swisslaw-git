@@ -4,11 +4,11 @@ title: "Ordinance of 18 December 2013 on the Central Visa Information System and
 short: VISO
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/2"
 language: en
-version: 2023-06-15
+version: 2023-09-01
 adopted: 2013-12-18
 in_force: 2014-01-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20230615/en/xml/fedlex-data-admin-ch-eli-cc-2014-2-20230615-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20230615/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2014-2-20230901-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Visa Information System Ordinance, VISO)
 
-of 18 December 2013 (Status as of 15 June 2023)
+of 18 December 2013 (Status as of 1 September 2023)
 
 The Swiss Federal Council,
 
@@ -496,7 +496,7 @@ Provided the user has the required authorisation, on receipt of a visa applicati
 
 [^23-1]: Amended by No I of the O of 10 May 2023, in force since 15 June 2023 ([AS 2023 246](https://fedlex.data.admin.ch/eli/oc/2023/246)).
 [^23-2]: [SR 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
-[^23-3]: [SR 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
+[^23-3]: [SR 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665).
 [^23-4]: [SR 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)
 [^23-5]: [SR 366.1](https://fedlex.data.admin.ch/eli/cc/2013/466)
 [^23-6]: [SR 142.206](https://fedlex.data.admin.ch/eli/cc/2021/734)
@@ -606,7 +606,7 @@ The following C-VIS data about a person may be disclosed to third countries or i
 
 **Right to information or to correction or deletion of data**
 
-<sup>1</sup> If a person asserts his or her right to information or to the correction or deletion of data in ORBIS or in the C-VIS, he or she must provide proof of identity and submit a written application to the SEM.
+<sup>1</sup> If a person asserts his or her right to information in relation to data in ORBIS or in the C-VIS, he or she must submit an application to the SEM in the form required by Article 16 of the Data Protection Ordinance of 31 August 2022[^31-1] (DPO). The assertion of other rights by the data subject is governed by Article 41 of the Data Protection Act of 25 September 2020[^31-2].[^31-3]
 
 <sup>2</sup> The SEM shall process the request for information in consultation with the authority that recorded the data in ORBIS, or with the state that transmitted the data to the C-VIS.
 
@@ -618,22 +618,30 @@ The following C-VIS data about a person may be disclosed to third countries or i
 
 <sup>6</sup> It shall immediately confirm to the person concerned in writing that it has corrected or deleted the data. If it is not prepared to correct or delete the data, it shall provide reasons for this.
 
+[^31-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^31-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^31-3]: Amended by Annex 2 No II 7 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+
 #### Art. 32
 
 **Duty to provide information**
 
 <sup>1</sup>
 
-When procuring biometric data and personal data on the applicant, the applicant shall be notified in writing of the following:
+When procuring personal data on the applicant, including biometric data, the applicant shall be notified in writing of the following:[^32-1]
 
-- a. the identity of the proprietor of the data collection;
+- a.[^32-2] the identity and contact details of the data controller;
 - b. the purpose of processing the data in ORBIS and in the C-VIS;
-- c. the categories of the data recipient;
+- c.[^32-3] the recipients or the categories of recipient to whom their personal data will be disclosed;
 - d. the duration of the storage of data in ORBIS and in the C-VIS;
 - e. that the recording of the data is required to verify the application;
 - f. that he or she has a right to information, correction and deletion, the procedure for asserting these rights and how to contact the Federal Data Protection and Information Commissioner (FDPIC).
 
 <sup>2</sup> The natural person or legal entity that has invited the applicant or must bear the costs of subsistence during his or her stay shall also receive the information under paragraph 1.
+
+[^32-1]: Amended by Annex 2 No II 7 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^32-2]: Amended by Annex 2 No II 7 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^32-3]: Amended by Annex 2 No II 7 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 33
 
@@ -651,14 +659,15 @@ Liability for loss or damage in connection with the operation of ORBIS is govern
 
 Data security is governed by:
 
-- a. the Ordinance of 14 June 1993[^34-1] to the Federal Act on Data Protection;
-- b.[^34-2] the Cyber Risks Ordinance of 27 May 2020[^34-3];
-- c.[^34-4] ...
+- a. [^34-1] the DPO[^34-2];
+- b.[^34-3] the Cyber Risks Ordinance of 27 May 2020[^34-4];
+- c.[^34-5] ...
 
-[^34-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^34-2]: Amended by Annex No 3 of the O of 25 Nov. 2020 on the Digital Transformation and ICT, in force since 1 Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
-[^34-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^34-4]: Repealed by Annex No 4 of the O of 24 Feb. 2021, with effect from 1 April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^34-1]: Amended by Annex 2 No II 7 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^34-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^34-3]: Amended by Annex No 3 of the O of 25 Nov. 2020 on the Digital Transformation and ICT, in force since 1 Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^34-4]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^34-5]: Repealed by Annex No 4 of the O of 24 Feb. 2021, with effect from 1 April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 35
 

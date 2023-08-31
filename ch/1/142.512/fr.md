@@ -4,11 +4,11 @@ title: "Ordonnance du 18 décembre 2013 sur le système central d'information su
 short: OVIS
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/2"
 language: fr
-version: 2023-06-15
+version: 2023-09-01
 adopted: 2013-12-18
 in_force: 2014-01-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20230615/fr/xml/fedlex-data-admin-ch-eli-cc-2014-2-20230615-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20230615/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2014-2-20230901-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20230615/fr"
 
 (Ordonnance VIS, OVIS)
 
-du 18 décembre 2013 (État le 15 juin 2023)
+du 18 décembre 2013 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -602,7 +602,7 @@ Dans des cas particuliers, les données suivantes du C-VIS relatives à une pers
 
 **Droit d’accès et droit à la rectification ou à l’effacement des données**
 
-<sup>1</sup> Si une personne fait valoir son droit d’accès, son droit à la rectification ou son droit à l’effacement de données saisies dans ORBIS ou dans le C‑VIS, elle doit justifier de son identité et présenter une demande écrite au SEM.
+<sup>1</sup> Si une personne fait valoir son droit d’accès aux données saisies dans ORBIS ou dans le C-VIS, elle doit présenter une demande au SEM dans la forme prévue à l’art. 16 de l’ordonnance du 31 août 2022 sur la protection des données (OPDo)[^31-1]. L’exercice d’autres droits par la personne concernée est régi par l’art. 41 de la loi fédérale du 25 septembre 2020 sur la protection des données[^31-2].[^31-3]
 
 <sup>2</sup> Le SEM traite la demande de droit d’accès en accord avec l’autorité qui a saisi les données dans ORBIS ou avec l’État qui a transféré les données dans le C-VIS.
 
@@ -614,22 +614,30 @@ Dans des cas particuliers, les données suivantes du C-VIS relatives à une pers
 
 <sup>6</sup> Il confirme par écrit, sans délai, toute rectification ou tout effacement des données à la personne concernée. S’il n’est pas disposé à rectifier ou à effacer les données, il fait connaître ses motifs.
 
+[^31-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^31-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^31-3]: Nouvelle teneur selon l’annexe 2 ch. II 7 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+
 #### Art. 32
 
 **Obligation d’informer**
 
 <sup>1</sup>
 
-Lors de la collecte des données biométriques et personnelles du demandeur, celui-ci est informé par écrit:
+Lors de la collecte des données personnelles du demandeur, y compris les données biométriques, celui-ci est informé par écrit:[^32-1]
 
-- a. de l’identité du maître du fichier;
+- a.[^32-2] de l’identité et des coordonnées du responsable du traitement;
 - b. des finalités du traitement des données dans ORBIS et dans le C-VIS;
-- c. des catégories de destinataires des données;
+- c.[^32-3] des destinataires ou des catégories de destinataires auxquels les données personnelles sont communiquées;
 - d. de la durée de conservation des données dans ORBIS et dans le C-VIS;
 - e. du caractère obligatoire de la saisie des données pour l’examen de la demande;
 - f. de l’existence du droit d’accès, du droit à la rectification et du droit à l’effacement des données, des procédures à suivre pour exercer ces droits et des coordonnées du préposé fédéral à la protection des données et à la transparence (PFPDT).
 
 <sup>2</sup> La personne physique ou morale qui adresse une invitation au demandeur de visa ou qui est susceptible de prendre en charge ses frais de subsistance durant son séjour reçoit également les informations visées à l’al. 1.
+
+[^32-1]: Nouvelle teneur selon l’annexe 2 ch. II 7 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^32-2]: Nouvelle teneur selon l’annexe 2 ch. II 7 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^32-3]: Nouvelle teneur selon l’annexe 2 ch. II 7 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 33
 
@@ -647,14 +655,15 @@ La responsabilité en cas de dommages liés à l’exploitation d’ORBIS est r�
 
 La sécurité des données est régie par:
 
-- a. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^34-1];
-- b.[^34-2] l’ordonnance du 27 mai 2020 sur les cyberrisques[^34-3];
-- c.[^34-4] …
+- a.[^34-1] l’OPDo[^34-2];
+- b.[^34-3] l’ordonnance du 27 mai 2020 sur les cyberrisques[^34-4];
+- c.[^34-5] …
 
-[^34-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^34-2]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 25 nov. 2020 sur la transformation numérique et l’informatique, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
-[^34-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^34-4]: Abrogée par l’annexe ch. 4 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^34-1]: Nouvelle teneur selon l’annexe 2 ch. II 7 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^34-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^34-3]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 25 nov. 2020 sur la transformation numérique et l’informatique, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^34-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^34-5]: Abrogée par l’annexe ch. 4 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 35
 

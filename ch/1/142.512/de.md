@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Dezember 2013 über das zentrale Visa-Informationssys
 short: VISV
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/2"
 language: de
-version: 2023-06-15
+version: 2023-09-01
 adopted: 2013-12-18
 in_force: 2014-01-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20230615/de/xml/fedlex-data-admin-ch-eli-cc-2014-2-20230615-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20230615/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2014-2-20230901-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20230615/de"
 
 (Visa-Informationssystem-Verordnung, VISV)
 
-vom 18. Dezember 2013 (Stand am 15. Juni 2023)
+vom 18. Dezember 2013 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -604,7 +604,7 @@ Folgende Daten des C-VIS über eine Person dürfen Drittstaaten oder internation
 
 **Recht auf Auskunft oder auf Berichtigung oder Löschung der Daten**
 
-<sup>1</sup> Macht eine Person ihr Recht auf Auskunft oder auf Berichtigung oder Löschung von Daten im ORBIS oder im C-VIS geltend, so muss sie sich über ihre Identität ausweisen und ein schriftliches Gesuch beim SEM einreichen.
+<sup>1</sup> Macht eine Person ihr Recht auf Auskunft von Daten im ORBIS oder im C-VIS geltend, so muss sie in der Form nach Artikel 16 der Datenschutzverordnung vom 31. August 2022[^31-1] (DSV) ein Gesuch beim SEM einreichen. Die Geltendmachung weiterer Ansprüche durch die betroffene Person richtet sich nach Artikel 41 des Datenschutzgesetzes vom 25. September 2020[^31-2].[^31-3]
 
 <sup>2</sup> Das SEM bearbeitet Auskunftsgesuche im Einvernehmen mit der Behörde, die die Daten im ORBIS erfasst hat, oder mit dem Staat, der die Daten ans C-VIS übermittelt hat.
 
@@ -616,22 +616,30 @@ Folgende Daten des C-VIS über eine Person dürfen Drittstaaten oder internation
 
 <sup>6</sup> Es bestätigt der betroffenen Person unverzüglich schriftlich, dass es die Daten berichtigt oder gelöscht hat. Wenn es nicht bereit ist, die Daten zu berichtigen oder zu löschen, so gibt es die Gründe dafür an.
 
+[^31-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^31-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^31-3]: Fassung gemäss Anhang 2 Ziff. II 7 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+
 #### Art. 32
 
 **Informationspflicht**
 
 <sup>1</sup>
 
-Bei der Beschaffung von biometrischen Daten und von Personendaten der gesuchstellenden Person wird diese schriftlich informiert:
+Bei der Beschaffung von Personendaten der gesuchstellenden Person, einschliesslich biometrischer Daten, wird diese schriftlich informiert:[^32-1]
 
-- a. über die Identität des Inhabers der Datensammlung;
+- a.[^32-2] über die Identität und die Kontaktdaten des Verantwortlichen;
 - b. über den Zweck der Bearbeitung der Daten im ORBIS und im C-VIS;
-- c. über die Kategorien der Datenempfänger;
+- c.[^32-3] über die Empfängerinnen und Empfänger oder die Kategorien von Empfängerinnen und Empfängern, denen Personendaten bekanntgegeben werden;
 - d. über die Dauer der Speicherung der Daten im ORBIS und im C-VIS;
 - e. darüber, dass die Erfassung der Daten für die Prüfung des Gesuchs vorgeschrieben ist;
 - f. über das Bestehen des Auskunfts-, des Berichtigungs- und des Löschungsrechts, die Verfahren zur Geltendmachung dieser Rechte und die Kontaktinformationen des Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB).
 
 <sup>2</sup> Die natürliche oder juristische Person, die eine Einladung für die gesuchstellende Person ausgesprochen hat oder verpflichtet ist, die Kosten für deren Lebensunterhalt während des Aufenthalts zu tragen, erhält die Informationen nach Absatz 1 ebenfalls.
+
+[^32-1]: Fassung gemäss Anhang 2 Ziff. II 7 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^32-2]: Fassung gemäss Anhang 2 Ziff. II 7 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^32-3]: Fassung gemäss Anhang 2 Ziff. II 7 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 33
 
@@ -649,14 +657,15 @@ Die Haftung für Schäden im Zusammenhang mit dem Betrieb des ORBIS richtet sich
 
 Die Datensicherheit richtet sich nach:
 
-- a. der Verordnung vom 14. Juni 1993[^34-1] zum Bundesgesetz über den Datenschutz;
-- b.[^34-2] der Cyberrisikenverordnung vom 27. Mai 2020[^34-3];
-- c.[^34-4] …
+- a.[^34-1] der DSV[^34-2];
+- b.[^34-3] der Cyberrisikenverordnung vom 27. Mai 2020[^34-4];
+- c.[^34-5] …
 
-[^34-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^34-2]: Fassung gemäss Anhang Ziff. 3 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik, in Kraft seit 1. Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
-[^34-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^34-4]: Aufgehoben durch Anhang Ziff. 4 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^34-1]: Fassung gemäss Anhang 2 Ziff. II 7 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^34-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^34-3]: Fassung gemäss Anhang Ziff. 3 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik, in Kraft seit 1. Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^34-4]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^34-5]: Aufgehoben durch Anhang Ziff. 4 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 35
 

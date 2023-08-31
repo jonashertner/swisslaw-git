@@ -4,11 +4,11 @@ title: "Ordinanza del 18 dicembre 2013 sul sistema centrale d'informazione visti
 short: OVIS
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/2"
 language: it
-version: 2023-06-15
+version: 2023-09-01
 adopted: 2013-12-18
 in_force: 2014-01-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20230615/it/xml/fedlex-data-admin-ch-eli-cc-2014-2-20230615-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20230615/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2014-2-20230901-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20230615/it"
 
 (Ordinanza VIS, OVIS)
 
-del 18 dicembre 2013 (Stato 15 giugno 2023)
+del 18 dicembre 2013 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -603,7 +603,7 @@ In un caso individuale, i dati seguenti del C-VIS relativi a una persona possono
 
 **Diritto d’accesso, di rettifica e di cancellazione dei dati**
 
-<sup>1</sup> Chiunque fa valere il proprio diritto d’accesso, di rettifica e di cancellazione dei dati registrati in ORBIS o nel C-VIS deve dimostrare la propria identità e presentare una domanda scritta alla SEM.
+<sup>1</sup> Se una persona fa valere il proprio diritto d’accesso ai dati registrati in ORBIS o nel C-VIS deve presentare alla SEM una domanda nella forma prevista dall’articolo 16 dell’ordinanza del 31 agosto 2022[^31-1] sulla protezione dei dati (OPDa). La pretesa di altri diritti da parte della persona interessata è retta dall’articolo 41 della legge federale del 25 settembre 2020[^31-2] sulla protezione dei dati.[^31-3]
 
 <sup>2</sup> La SEM tratta la domanda di diritto d’accesso d’intesa con l’autorità che ha registrato i dati in ORBIS o con lo Stato che ha trasferito i dati nel C-VIS.
 
@@ -615,22 +615,30 @@ In un caso individuale, i dati seguenti del C-VIS relativi a una persona possono
 
 <sup>6</sup> Conferma per scritto e senza indugio all’interessato tutte le rettifiche o cancellazioni di dati. Se non è disposto a rettificare o cancellare i dati, indica per quali motivi.
 
+[^31-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^31-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^31-3]: Nuovo testo giusta l’all. 2 n. II 7 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+
 #### Art. 32
 
 **Obbligo d’informare**
 
 <sup>1</sup>
 
-Al momento di rilevare i dati biometrici e personali del richiedente, questi è informato per scritto:
+Al momento di rilevare i dati personali del richiedente, compresi i dati biometrici, questi è informato per scritto:[^32-1]
 
-- a. dell’identità del detentore della collezione;
+- a.[^32-2] dell’identità e dei dati di contatto del titolare del trattamento;
 - b. delle finalità del trattamento dei dati in ORBIS e nel C-VIS;
-- c. delle categorie di destinatari dei dati;
+- c.[^32-3] dei destinatari o delle categorie di destinatari ai quali sono comunicati dati personali;
 - d. della durata di conservazione dei dati in ORBIS e nel C-VIS;
 - e. del carattere obbligatorio della registrazione dei dati per l’esame della domanda;
 - f. dell’esistenza del diritto d’accesso, di rettifica e di cancellazione dei dati, delle procedure da seguire per esercitare tali diritti, delle coordinate dell’Incaricato federale della protezione dei dati e della trasparenza (IFPDT).
 
 <sup>2</sup> La persona fisica o giuridica che ha rivolto un invito al richiedente il visto o che assumerà presumibilmente le sue spese di sussistenza durante il soggiorno riceve parimenti le informazioni di cui al capoverso 1.
+
+[^32-1]: Nuovo testo giusta l’all. 2 n. II 7 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^32-2]: Nuovo testo giusta l’all. 2 n. II 7 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^32-3]: Nuovo testo giusta l’all. 2 n. II 7 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 33
 
@@ -648,14 +656,15 @@ La responsabilità in caso di danni legati alla gestione di ORBIS è retta dalla
 
 La sicurezza dei dati è retta da:
 
-- a. l’ordinanza del 14 giugno 1993[^34-1] relativa alla legge federale sulla protezione dei dati (OLPD);
-- b.[^34-2] l’ordinanza del 27 maggio 2020[^34-3] sui ciber-rischi;
-- c.[^34-4] ...
+- a. [^34-1] l’OPDa[^34-2];
+- b.[^34-3] l’ordinanza del 27 maggio 2020[^34-4] sui ciber-rischi;
+- c.[^34-5] ...
 
-[^34-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^34-2]: Nuovo testo giusta l’all. n. 3 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
-[^34-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^34-4]: Abrogata dall’all. n. 4 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^34-1]: Nuovo testo giusta l’all. 2 n. II 7 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^34-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^34-3]: Nuovo testo giusta l’all. n. 3 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^34-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^34-5]: Abrogata dall’all. n. 4 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 35
 
