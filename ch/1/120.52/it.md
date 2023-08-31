@@ -4,11 +4,11 @@ title: "Ordinanza del 4 dicembre 2009 sulle misure di polizia amministrativa del
 short: OMPAH
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/847"
 language: it
-version: 2022-06-01
+version: 2023-09-01
 adopted: 2009-12-04
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/847/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2009-847-20220601-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/847/20220601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/847/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2009-847-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/847/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/847/20220601/it"
 
 (OMPAH)[^t-1]
 
-del 4 dicembre 2009 (Stato 1° giugno 2022)
+del 4 dicembre 2009 (Stato 1° settembre 2023)
 
 [^t-1]: Nuovo testo giusta l’appendice 2 n. 1 dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
@@ -214,53 +214,55 @@ Le seguenti autorità possono accedere a HOOGAN esclusivamente per gli scopi seg
 
   - 1\.[^9-1] il settore Tifoseria violenta: per gestire HOOGAN, per pronunciare divieti limitati di lasciare la Svizzera, per scambiare informazioni come previsto dalla legge nonché per analizzare e valutare la situazione,
   - 2\. la Centrale operativa di fedpol: per identificare le persone in relazione alla violenza in occasione di manifestazioni sportive,
-  - 3\. l’Incaricato della protezione dei dati e della protezione delle informazioni di fedpol: per trattare le richieste d’informazione e di cancellazione dei dati registrati in HOOGAN;
+  - 3\.[^9-2] il consulente per la protezione dei dati di fedpol: per trattare le richieste d’informazione e di cancellazione dei dati registrati in HOOGAN;
 
-- b.[^9-2] i collaboratori delle autorità di polizia dei Cantoni responsabili di prevenire la violenza in occasione di manifestazioni sportive: per pronunciare divieti di accedere a un’area determinata, obblighi di presentarsi e fermi preventivi di polizia, per analizzare e valutare la situazione e per trasmettere dati personali agli organizzatori di manifestazioni sportive in Svizzera;
+- b.[^9-3] i collaboratori delle autorità di polizia dei Cantoni responsabili di prevenire la violenza in occasione di manifestazioni sportive: per pronunciare divieti di accedere a un’area determinata, obblighi di presentarsi e fermi preventivi di polizia, per analizzare e valutare la situazione e per trasmettere dati personali agli organizzatori di manifestazioni sportive in Svizzera;
 - c. i servizi delle autorità di polizia dei Cantoni: per identificare le persone in relazione alla violenza in occasione di manifestazioni sportive;
-- d.[^9-3] i collaboratori dell’UDSC impiegati per il controllo delle persone: per applicare i divieti limitati di lasciare la Svizzera e i divieti di entrata;
-- e.[^9-4] ...
+- d.[^9-4] i collaboratori dell’UDSC impiegati per il controllo delle persone: per applicare i divieti limitati di lasciare la Svizzera e i divieti di entrata;
+- e.[^9-5] ...
 
-<sup>2</sup> Per accedere a HOOGAN può essere concesso un diritto d’accesso integrale o limitato. L’accesso integrale consente di leggere, inserire, modificare e cancellare i dati. L’accesso limitato consente unicamente di leggere i dati attivi al momento della consultazione concernenti un caso concreto.[^9-5]
+<sup>2</sup> Per accedere a HOOGAN può essere concesso un diritto d’accesso integrale o limitato. L’accesso integrale consente di leggere, inserire, modificare e cancellare i dati. L’accesso limitato consente unicamente di leggere i dati attivi al momento della consultazione concernenti un caso concreto.[^9-6]
 
 <sup>3</sup>
 
 Beneficiano dell’accesso integrale:
 
 - a. il settore Tifoseria violenta;
-- b. i collaboratori delle autorità di polizia dei Cantoni e dei Comuni responsabili di prevenire la violenza in occasione di manifestazioni sportive nonché i collaboratori dell’UDSC impiegati per il controllo delle persone.[^9-6]
+- b. i collaboratori delle autorità di polizia dei Cantoni e dei Comuni responsabili di prevenire la violenza in occasione di manifestazioni sportive nonché i collaboratori dell’UDSC impiegati per il controllo delle persone.[^9-7]
 
 <sup>4</sup>
 
 Beneficiano dell’accesso limitato:
 
 - a. la Centrale operativa di fedpol;
-- b. l’Incaricato della protezione dei dati e della protezione delle informazioni di fedpol;
+- b.[^9-8] il consulente per la protezione dei dati di fedpol;
 - c. le autorità di polizia dei Cantoni;
-- d.[^9-7] i collaboratori dell’UDSC impiegati per il controllo delle persone.
+- d.[^9-9] i collaboratori dell’UDSC impiegati per il controllo delle persone.
 
-<sup>5</sup> L’accesso limitato delle autorità di polizia dei Cantoni e dell’UDSC funziona per mezzo di un’interfaccia in RIPOL.[^9-8]
+<sup>5</sup> L’accesso limitato delle autorità di polizia dei Cantoni e dell’UDSC funziona per mezzo di un’interfaccia in RIPOL.[^9-10]
 
-<sup>6</sup> I campi di dati e i diritti di trattamento sono elencati nell’allegato.[^9-9]
+<sup>6</sup> I campi di dati e i diritti di trattamento sono elencati nell’allegato.[^9-11]
 
-<sup>7</sup> Le autorità di cui al capoverso 1 garantiscono il rispetto delle disposizioni applicabili in materia di protezione dei dati e di sicurezza informatica.[^9-10]
+<sup>7</sup> Le autorità di cui al capoverso 1 garantiscono il rispetto delle disposizioni applicabili in materia di protezione dei dati e di sicurezza informatica.[^9-12]
 
-<sup>8</sup> Il capo del settore Tifoseria violenta di fedpol o il suo supplente decide in merito alle richieste d’accesso individuali delle autorità di cui al capoverso 1.[^9-11]
+<sup>8</sup> Il capo del settore Tifoseria violenta di fedpol o il suo supplente decide in merito alle richieste d’accesso individuali delle autorità di cui al capoverso 1.[^9-13]
 
-<sup>9</sup> La responsabilità per HOOGAN è assunta dal settore Tifoseria violenta.[^9-12]
+<sup>9</sup> La responsabilità per HOOGAN è assunta dal settore Tifoseria violenta.[^9-14]
 
 [^9-1]: Nuovo testo giusta il n. I 1 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^9-2]: Nuovo testo giusta il n. I 1 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-2]: Nuovo testo giusta l’all. 2 n. II 2 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^9-3]: Nuovo testo giusta il n. I 1 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^9-4]: Abrogata dal n. I 1 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, con effetto dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^9-5]: Nuovo testo giusta il n. I dell’O del 14 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
-[^9-6]: Nuovo testo giusta il n. I 1 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-4]: Nuovo testo giusta il n. I 1 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-5]: Abrogata dal n. I 1 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, con effetto dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-6]: Nuovo testo giusta il n. I dell’O del 14 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
 [^9-7]: Nuovo testo giusta il n. I 1 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^9-8]: Nuovo testo giusta il n. I 1 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^9-9]: Nuovo testo giusta il n. I dell’O del 14 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
-[^9-10]: Nuovo testo giusta il n. I dell’O del 14 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
-[^9-11]: Nuovo testo giusta il n. I 1 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^9-12]: Introdotto dal n. I dell’O del 14 dic. 2012 ([RU 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)). Nuovo testo giusta il n. I 1 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-8]: Nuovo testo giusta l’all. 2 n. II 2 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^9-9]: Nuovo testo giusta il n. I 1 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-10]: Nuovo testo giusta il n. I 1 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-11]: Nuovo testo giusta il n. I dell’O del 14 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
+[^9-12]: Nuovo testo giusta il n. I dell’O del 14 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
+[^9-13]: Nuovo testo giusta il n. I 1 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-14]: Introdotto dal n. I dell’O del 14 dic. 2012 ([RU 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)). Nuovo testo giusta il n. I 1 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 10
 
@@ -309,8 +311,8 @@ Fedpol avverte il destinatario che:
 
 La sicurezza dei dati è retta:
 
-- a. dall’articolo 20 dell’ordinanza del 14 giugno 1993[^13-1] relativa alla legge federale sulla protezione dei dati (OLPD);
-- b.[^13-2] dall’ordinanza del 27 maggio 2020[^13-3] sui ciber-rischi.
+- a.[^13-1] dagli articoli 1–4 e 6 dell’ordinanza del 31 agosto 2022[^13-2] sulla protezione dei dati;
+- b.[^13-3] dall’ordinanza del 27 maggio 2020[^13-4] sui ciber-rischi.
 
 <sup>2</sup>
 
@@ -320,9 +322,10 @@ Fedpol disciplina in un regolamento sul trattamento dei dati:
 - b. la verbalizzazione automatica dei dati introdotti;
 - c. le esigenze tecniche che devono essere soddisfatte dai terminali degli utenti.
 
-[^13-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^13-2]: Nuovo testo giusta l’all. n. 1 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^13-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^13-1]: Nuovo testo giusta l’all. 2 n. II 2 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^13-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^13-3]: Nuovo testo giusta l’all. n. 1 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^13-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
 ## Sezione 5: ...
 

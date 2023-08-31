@@ -4,18 +4,18 @@ title: Verordnung vom 4. Dezember 2009 über verwaltungspolizeiliche Massnahmen 
 short: VVMH
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/847"
 language: de
-version: 2022-06-01
+version: 2023-09-01
 adopted: 2009-12-04
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/847/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2009-847-20220601-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/847/20220601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/847/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2009-847-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/847/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über verwaltungspolizeiliche Massnahmen des Bundesamtes für Polizei und über das Informationssystem HOOGAN (VVMH)
 
-vom 4. Dezember 2009 (Stand am 1. Juni 2022)[^t-1]
+vom 4. Dezember 2009 (Stand am 1. September 2023)[^t-1]
 
 [^t-1]: Fassung gemäss Beilage 2 Ziff. 1 der V vom 21. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
@@ -207,52 +207,54 @@ Auf HOOGAN haben die folgenden Behörden ausschliesslich zu den folgenden Zwecke
 
   - 1\.[^9-1] der Bereich Hooliganismus: für den Betrieb von HOOGAN, für das Verfügen von Ausreisebeschränkungen, für den gesetzlich vorgesehenen Informationsaustausch sowie für Analyse- und Lagebeurteilungen,
   - 2\. die Einsatzzentrale von fedpol: zur Personenidentifikation im Zusammenhang mit Gewalt an Sportveranstaltungen,
-  - 3\. die oder der Datenschutz- und Informationsschutzbeauftragte von fedpol: für die Bearbeitung der Auskunfts- und Löschgesuche für HOOGAN;
+  - 3\.[^9-2] die Datenschutzberaterin oder der Datenschutzberater von fedpol: für die Bearbeitung der Auskunfts- und Löschgesuche für HOOGAN;
 
 - b. die für die Verhinderung von Gewalt an Sportveranstaltungen verantwortlichen Mitarbeiter und Mitarbeiterinnen der Polizeibehörden der Kantone: für den Erlass von Rayonverboten, Meldeauflagen und Polizeigewahrsam, für die Analyse- und Lagebeurteilung und die Weitergabe von Personendaten an Organisatoren von Sportveranstaltungen in der Schweiz;
 - c. die Dienststellen der Polizeibehörden der Kantone: zur Personenidentifikation im Zusammenhang mit Gewalt an Sportveranstaltungen;
-- d.[^9-2] die für die Personenkontrolle eingesetzten Mitarbeiter und Mitarbeiterinnen des BAZG: zum Vollzug der Ausreisebeschränkungen und Einreiseverbote;
-- e. …[^9-3]
+- d.[^9-3] die für die Personenkontrolle eingesetzten Mitarbeiter und Mitarbeiterinnen des BAZG: zum Vollzug der Ausreisebeschränkungen und Einreiseverbote;
+- e. …[^9-4]
 
-<sup>2</sup> Für HOOGAN können Berechtigungen für Voll- und Kurzzugriffe erteilt werden. Der Vollzugriff ermöglicht das Lesen, das Erfassen, das Mutieren und das Löschen von Daten. Der Kurzzugriff ermöglicht nur das Lesen von jeweils aktiven Daten im konkreten Fall.[^9-4]
+<sup>2</sup> Für HOOGAN können Berechtigungen für Voll- und Kurzzugriffe erteilt werden. Der Vollzugriff ermöglicht das Lesen, das Erfassen, das Mutieren und das Löschen von Daten. Der Kurzzugriff ermöglicht nur das Lesen von jeweils aktiven Daten im konkreten Fall.[^9-5]
 
 <sup>3</sup>
 
 Über den Vollzugriff verfügen:
 
 - a. der Bereich Hooliganismus;
-- b. die für die Verhinderung von Gewalt an Sportveranstaltungen verantwortlichen Mitarbeiter und Mitarbeiterinnen der Polizeibehörden der Kantone und Gemeinden sowie die für die Personenkontrolle eingesetzten Mitarbeiter und Mitarbeiterinnen des BAZG.[^9-5]
+- b. die für die Verhinderung von Gewalt an Sportveranstaltungen verantwortlichen Mitarbeiter und Mitarbeiterinnen der Polizeibehörden der Kantone und Gemeinden sowie die für die Personenkontrolle eingesetzten Mitarbeiter und Mitarbeiterinnen des BAZG.[^9-6]
 
 <sup>4</sup>
 
 Über den Kurzzugriff verfügen:
 
 - a. die Einsatzzentrale von fedpol;
-- b. die oder der Datenschutz- und Informationsschutzbeauftragte von fedpol;
+- b.[^9-7] die Datenschutzberaterin oder der Datenschutzberater von fedpol;
 - c. die Polizeibehörden der Kantone;
-- d.[^9-6] die für die Personenkontrolle eingesetzten Mitarbeiter und Mitarbeiterinnen des BAZG.
+- d.[^9-8] die für die Personenkontrolle eingesetzten Mitarbeiter und Mitarbeiterinnen des BAZG.
 
-<sup>5</sup> Der Kurzzugriff der Polizeibehörden der Kantone und des BAZG erfolgt via Schnittstelle im RIPOL.[^9-7]
+<sup>5</sup> Der Kurzzugriff der Polizeibehörden der Kantone und des BAZG erfolgt via Schnittstelle im RIPOL.[^9-9]
 
-<sup>6</sup> Die Datenfelder und Bearbeitungsrechte sind im Anhang aufgeführt.[^9-8]
+<sup>6</sup> Die Datenfelder und Bearbeitungsrechte sind im Anhang aufgeführt.[^9-10]
 
-<sup>7</sup> Die Behörden nach Absatz 1 stellen sicher, dass die Datenschutz- und Informatiksicherheitsbestimmungen eingehalten werden.[^9-9]
+<sup>7</sup> Die Behörden nach Absatz 1 stellen sicher, dass die Datenschutz- und Informatiksicherheitsbestimmungen eingehalten werden.[^9-11]
 
-<sup>8</sup> Die Leiterin oder der Leiter des Bereichs Hooliganismus von fedpol oder deren oder dessen Stellvertreterin oder Stellvertreter entscheidet über individuelle Zugriffsanträge der Behörden nach Absatz 1.[^9-10]
+<sup>8</sup> Die Leiterin oder der Leiter des Bereichs Hooliganismus von fedpol oder deren oder dessen Stellvertreterin oder Stellvertreter entscheidet über individuelle Zugriffsanträge der Behörden nach Absatz 1.[^9-12]
 
-<sup>9</sup> Die Verantwortung für HOOGAN liegt beim Bereich Hooliganismus.[^9-11]
+<sup>9</sup> Die Verantwortung für HOOGAN liegt beim Bereich Hooliganismus.[^9-13]
 
 [^9-1]: Fassung gemäss Ziff. I 1 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^9-2]: Fassung gemäss Ziff. I 1 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^9-3]: Aufgehoben durch Ziff. I 1 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, mit Wirkung seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^9-4]: Fassung gemäss Ziff. I der V vom 14. Dez. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
-[^9-5]: Fassung gemäss Ziff. I 1 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-2]: Fassung gemäss Anhang 2 Ziff. II 2 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^9-3]: Fassung gemäss Ziff. I 1 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-4]: Aufgehoben durch Ziff. I 1 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, mit Wirkung seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-5]: Fassung gemäss Ziff. I der V vom 14. Dez. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
 [^9-6]: Fassung gemäss Ziff. I 1 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^9-7]: Fassung gemäss Ziff. I 1 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^9-8]: Fassung gemäss Ziff. I der V vom 14. Dez. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
-[^9-9]: Fassung gemäss Ziff. I der V vom 14. Dez. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
-[^9-10]: Fassung gemäss Ziff. I 1 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^9-11]: Eingefügt durch Ziff. I der V vom 14. Dez. 2012 ([AS 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)). Fassung gemäss Ziff. I 1 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-7]: Fassung gemäss Anhang 2 Ziff. II 2 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^9-8]: Fassung gemäss Ziff. I 1 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-9]: Fassung gemäss Ziff. I 1 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-10]: Fassung gemäss Ziff. I der V vom 14. Dez. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
+[^9-11]: Fassung gemäss Ziff. I der V vom 14. Dez. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)).
+[^9-12]: Fassung gemäss Ziff. I 1 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^9-13]: Eingefügt durch Ziff. I der V vom 14. Dez. 2012 ([AS 2013 1](https://fedlex.data.admin.ch/eli/oc/2013/1)). Fassung gemäss Ziff. I 1 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 10
 
@@ -301,8 +303,8 @@ Es weist den Empfänger oder die Empfängerin darauf hin, dass:
 
 Für die Gewährleistung der Datensicherheit gelten:
 
-- a. Artikel 20 der Verordnung vom 14. Juni 1993[^13-1] zum Bundesgesetz über den Datenschutz (VDSG);
-- b.[^13-2] die Cyberrisikenverordnung vom 27. Mai 2020[^13-3].
+- a.[^13-1] die Artikel 1–4 und 6 der Datenschutzverordnung vom 31. August 2022[^13-2];
+- b.[^13-3] die Cyberrisikenverordnung vom 27. Mai 2020[^13-4].
 
 <sup>2</sup>
 
@@ -312,9 +314,10 @@ Fedpol regelt in einem Bearbeitungsreglement:
 - b. die automatische Protokollierung der eingegebenen Daten;
 - c. die technischen Anforderungen, denen die Endgeräte der Benutzerinnen und Benutzer genügen müssen.
 
-[^13-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^13-2]: Fassung gemäss Anhang Ziff. 1 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^13-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^13-1]: Fassung gemäss Anhang 2 Ziff. II 2 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^13-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^13-3]: Fassung gemäss Anhang Ziff. 1 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^13-4]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
 ## 5. Abschnitt: …
 
