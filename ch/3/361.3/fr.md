@@ -3,18 +3,18 @@ sr: "361.3"
 title: Ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/23"
 language: fr
-version: 2023-08-01
+version: 2023-09-01
 adopted: 2013-12-06
 in_force: 2014-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20230801/fr/xml/fedlex-data-admin-ch-eli-cc-2014-23-20230801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20230801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2014-23-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le traitement des données signalétiques biométriques
 
-du 6 décembre 2013 (État le 1<sup>er</sup> août 2023)
+du 6 décembre 2013 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -60,27 +60,30 @@ Sont considérées comme données signalétiques biométriques au sens de la pr�
 Les services compétents de fedpol traitent des données signalétiques lorsqu’ils accomplissent les tâches suivantes:
 
 - a. gestion du système automatique d’identification des empreintes digitales (AFIS) aux fins de l’enregistrement centralisé des données signalétiques biométriques mentionnées à l’art. 2 ainsi que de leur comparaison automatique et de leur évaluation;
-- b. gestion des fichiers contenant les empreintes digitales et les photographies qui leur sont communiquées;
+- b.[^3-1] gestion des registres contenant les empreintes digitales et les photographies qui leur sont communiquées;
 - c. réception et contrôle de la qualité et de l’exhaustivité des données signalétiques fournies par d’autres autorités;
-- d. comparaison des données signalétiques qui leur sont fournies avec celles qui sont contenues dans leurs propres fichiers;
+- d.[^3-2] comparaison des données signalétiques qui leur sont fournies avec celles qui sont contenues dans leurs propres registres;
 - e. communication du résultat de la comparaison à l’autorité requérante, à d’autres autorités de poursuite pénale enquêtant sur la même personne ainsi qu’à d’autres autorités devant connaître l’identité de la personne concernée pour accomplir leurs tâches légales;
 - f. établissement de statistiques sur les résultats;
 - g. mise à disposition des données dactyloscopiques existantes aux autorités mentionnées à l’art. 4 dans la mesure où elles ont demandé ces données dans le cas d’espèce et que ces données sont indispensables à l’accomplissement de leurs tâches;
-- h.[^3-1] transmission automatisée des données signalétiques biométriques à la partie nationale du Système d’information Schengen (N-SIS).
+- h.[^3-3] transmission automatisée des données signalétiques biométriques à la partie nationale du Système d’information Schengen (N-SIS).
 
-<sup>2</sup> Les services compétents selon l’al. 1 doivent être accrédités conformément à la norme ISO/IEC 17025[^3-2].
+<sup>2</sup> Les services compétents selon l’al. 1 doivent être accrédités conformément à la norme ISO/IEC 17025[^3-4].
 
-[^3-1]: Introduite par le ch. III de l’O du 11 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
-[^3-2]: ISO/IEC 17025: 2005 Exigences générales concernant la compétence des laboratoires d’étalonnages et d’essais. La norme peut être consultée gratuitement auprès de fedpol ou obtenue auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^3-1]: Nouvelle teneur selon l’annexe 2 ch. II 44 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^3-2]: Nouvelle teneur selon l’annexe 2 ch. II 44 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^3-3]: Introduite par le ch. III de l’O du 11 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
+[^3-4]: ISO/IEC 17025: 2005 Exigences générales concernant la compétence des laboratoires d’étalonnages et d’essais. La norme peut être consultée gratuitement auprès de fedpol ou obtenue auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
 
 #### Art. 3a
 
 **Compétence du SEM**[^3a-1]
 
-Lors de signalements aux fins de retour ou de non-admission et d’interdiction de séjour, le SEM peut livrer de manière automatisée au N-SIS les empreintes digitales et les images faciales à partir d’AFIS. La personne concernée est informée de l’utilisation de ces données conformément à l’art. 14 de la loi fédérale du 19 juin 1992 sur la protection des données (LPD)[^3a-2].
+Lors de signalements aux fins de retour ou de non-admission et d’interdiction de séjour, le SEM peut livrer de manière automatisée au N-SIS les empreintes digitales et les images faciales à partir d’AFIS. La personne concernée est informée de l’utilisation de ces données conformément aux art. 19 et 20 de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^3a-2].[^3a-3]
 
 [^3a-1]: Introduit par le ch. I 2 de l’O du 3 avr. 2019 sur la livraison de données biométriques et sur les accès dans le domaine migratoire au N-SIS ([RO 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)). Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 650](https://fedlex.data.admin.ch/eli/oc/2022/650)).
 [^3a-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^3a-3]: Nouvelle teneur de la phrase selon l’annexe 2 ch. II 44 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 4
 
@@ -110,19 +113,22 @@ Les autorités suivantes peuvent faire comparer des données signalétiques biom
 
 <sup>1</sup> Les droits des personnes concernées, notamment le droit d’être renseigné et le droit à la rectification ou à la destruction de données, sont régis par la LPD[^5-1].[^5-2]
 
-<sup>2</sup> Si une personne concernée veut faire valoir son droit, elle doit justifier de son identité et déposer une demande écrite à fedpol.
+<sup>2</sup> Si une personne concernée veut faire valoir son droit, elle doit présenter une demande à fedpol dans la forme prévue à l’art. 16 de l’ordonnance du 31 août 2022 sur la protection des données (OPDo)[^5-3].[^5-4]
 
 [^5-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^5-2]: Nouvelle teneur selon le ch. III de l’O du 11 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
+[^5-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^5-4]: Nouvelle teneur selon l’annexe 2 ch. II 44 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 6
 
-**Archivage des données**
+**Archivage des données**[^6-1]
 
-La remise des données du système d’information aux Archives fédérales est régie par l’art. 21 LPD[^6-1] et par la loi fédérale du 26 juin 1998 sur l’archivage[^6-2].
+La remise des données du système d’information aux Archives fédérales est régie par l’art. 38 LPD[^6-2] et par la loi fédérale du 26 juin 1998 sur l’archivage[^6-3].
 
-[^6-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^6-2]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^6-1]: Nouvelle teneur selon l’annexe 2 ch. II 44 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^6-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^6-3]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
 
 ## Section 2 AFIS
 
@@ -215,12 +221,13 @@ Des données pseudonymisées peuvent être traitées à des fins de planificatio
 
 La sécurité des données est garantie par:
 
-- a. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^14-1];
-- b.[^14-2] l’ordonnance du 27 mai 2020 sur les cyberrisques[^14-3].
+- a.[^14-1] l’OPDo[^14-2];
+- b.[^14-3] l’ordonnance du 27 mai 2020 sur les cyberrisques[^14-4].
 
-[^14-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^14-2]: Nouvelle teneur selon l’annexe ch. 20 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^14-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^14-1]: Nouvelle teneur selon l’annexe 2 ch. II 44 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^14-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^14-3]: Nouvelle teneur selon l’annexe ch. 20 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
 ## Section 3 Traitement des données dans d’autres systèmes d’information
 
@@ -296,7 +303,7 @@ Lors de la communication du résultat de la comparaison au sens de l’art. 3, l
 
 Si fedpol, dans le cadre de la coopération internationale, reçoit des données signalétiques biométriques d’une personne, il les efface sur demande de l’autorité étrangère. En l’absence d’une telle communication, il efface les données 30 ans après la saisie dans IPAS.
 
-[^17-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
+[^17-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 16 juin 2021, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
 
 #### Art. 18
 
@@ -332,7 +339,7 @@ Les autorités suivantes avertissent le service chargé de la gestion d’AFIS l
 
 **Traitement des communications d’effacement**
 
-<sup>1</sup> Le service chargé de la gestion d’AFIS efface conformément à la communication prévue à l’art. 22 les données dans le système IPAS en vertu de l’art. 9 de l’ordonnance IPAS du 15 octobre 2008[^23-1]. Parallèlement, il fait effacer les données signalétiques biométriques dans AFIS.
+Le service chargé de la gestion d’AFIS efface conformément à la communication prévue à l’art. 22 les données dans le système IPAS en vertu de l’art. 9 de l’ordonnance IPAS du 15 octobre 2008[^23-1]. Parallèlement, il fait effacer les données signalétiques biométriques dans AFIS.
 
 <sup>2</sup> En l’absence d’une telle communication, fedpol efface les données signalétiques biométriques d’une personne 30 ans après la saisie des données signalétiques de la personne concernée.[^23-2]
 

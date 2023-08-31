@@ -3,18 +3,18 @@ sr: "361.3"
 title: Verordnung vom 6. Dezember 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/23"
 language: de
-version: 2023-08-01
+version: 2023-09-01
 adopted: 2013-12-06
 in_force: 2014-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20230801/de/xml/fedlex-data-admin-ch-eli-cc-2014-23-20230801-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20230801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2014-23-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Bearbeitung biometrischer erkennungsdienstlicher Daten
 
-vom 6. Dezember 2013 (Stand am 1. August 2023)
+vom 6. Dezember 2013 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -77,10 +77,11 @@ Die zuständigen Dienste von fedpol bearbeiten erkennungsdienstliche Daten bei d
 
 **Befugnis des SEM**[^3a-1]
 
-Das SEM kann die Fingerabdrücke und Gesichtsbilder bei Ausschreibungen zur Rückkehr oder zur Einreise- und Aufenthaltsverweigerung aus dem AFIS dem N-SIS automatisch liefern. Die betreffende Person wird über die Verwendung dieser Daten informiert in Einklang mit Artikel 14 des Bundesgesetzes vom 19. Juni 1992[^3a-2] über den Datenschutz (DSG).
+Das SEM kann die Fingerabdrücke und Gesichtsbilder bei Ausschreibungen zur Rückkehr oder zur Einreise- und Aufenthaltsverweigerung aus dem AFIS dem N-SIS automatisch liefern. Die betreffende Person wird über die Verwendung dieser Daten informiert in Einklang mit den Artikeln 19 und 20 des Datenschutzgesetzes vom 25. September 2020[^3a-2] (DSG).[^3a-3]
 
 [^3a-1]: Eingefügt durch Ziff. I 2 der V vom 3. April 2019 über die Lieferung von biometrischen Daten an und Zugriffe im Migrationsbereich auf das N-SIS ([AS 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)). Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 650](https://fedlex.data.admin.ch/eli/oc/2022/650)).
 [^3a-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^3a-3]: Fassung des zweiten Satzes gemäss Anhang 2 Ziff. II 44 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 4
 
@@ -110,19 +111,22 @@ Folgende Behörden können beim für die Führung des AFIS zuständigen Dienst b
 
 <sup>1</sup> Die Rechte der betroffenen Person, insbesondere das Auskunftsrecht und das Recht auf Berichtigung oder Vernichtung von Daten, richten sich nach dem DSG[^5-1].[^5-2]
 
-<sup>2</sup> Macht eine betroffene Person ihr Recht geltend, so hat sie sich über ihre Identität auszuweisen und ein schriftliches Gesuch bei fedpol einzureichen.
+<sup>2</sup> Macht eine betroffene Person ihr Recht geltend, so muss sie in der Form nach Artikel 16 der Datenschutzverordnung vom 31. August 2022[^5-3] (DSV) ein Gesuch bei fedpol einreichen.[^5-4]
 
 [^5-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^5-2]: Fassung gemäss Ziff. III der V vom 11. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
+[^5-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^5-4]: Fassung gemäss Anhang 2 Ziff. II 44 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 6
 
-**Archivierung der Daten**
+**Archivierung der Daten**[^6-1]
 
-Die Ablieferung von Daten aus dem Informationssystem an das Bundesarchiv richtet sich nach Artikel 21 DSG[^6-1] und nach dem Archivierungsgesetz vom 26. Juni 1998[^6-2].
+Die Ablieferung von Daten aus dem Informationssystem an das Bundesarchiv richtet sich nach Artikel 38 DSG[^6-2] und nach dem Archivierungsgesetz vom 26. Juni 1998[^6-3].
 
-[^6-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^6-2]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^6-1]: Fassung gemäss Anhang 2 Ziff. II 44 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^6-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^6-3]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
 
 ## 2. Abschnitt: AFIS
 
@@ -215,12 +219,13 @@ Für die Geschäftsplanung sowie für Tests, Systemoptimierungen und Schulungen 
 
 Die Datensicherheit richtet sich nach:
 
-- a. der Verordnung vom 14. Juni 1993[^14-1] zum Bundesgesetz über den Datenschutz;
-- b.[^14-2] der Cyberrisikenverordnung vom 27. Mai 2020[^14-3].
+- a.[^14-1] der DSV[^14-2];
+- b.[^14-3] der Cyberrisikenverordnung vom 27. Mai 2020[^14-4].
 
-[^14-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^14-2]: Fassung gemäss Anhang Ziff. 20 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^14-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^14-1]: Fassung gemäss Anhang 2 Ziff. II 44 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^14-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^14-3]: Fassung gemäss Anhang Ziff. 20 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-4]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
 ## 3. Abschnitt: Datenbearbeitung in anderen Informationssystemen
 

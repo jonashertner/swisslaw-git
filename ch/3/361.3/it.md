@@ -3,18 +3,18 @@ sr: "361.3"
 title: Ordinanza del 6 dicembre 2013 sul trattamento dei dati segnaletici di natura biometrica
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/23"
 language: it
-version: 2023-08-01
+version: 2023-09-01
 adopted: 2013-12-06
 in_force: 2014-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20230801/it/xml/fedlex-data-admin-ch-eli-cc-2014-23-20230801-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20230801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2014-23-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sul trattamento dei dati segnaletici di natura biometrica
 
-del 6 dicembre 2013 (Stato 1° agosto 2023)
+del 6 dicembre 2013 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -60,27 +60,30 @@ Sono considerati dati segnaletici di natura biometrica ai sensi della presente o
 I servizi competenti di fedpol trattano dati segnaletici nell’ambito dei seguenti compiti:
 
 - a. gestione del sistema automatico d’identificazione delle impronte digitali (AFIS) al fine di registrare in modo centralizzato i dati segnaletici di natura biometrica di cui all’articolo 2, nonché di confrontarli in modo automatizzato e di analizzarli;
-- b. amministrazione degli schedari delle impronte digitali e delle fotografie loro trasmesse;
+- b.[^3-1] amministrazione dei registri delle impronte digitali e delle fotografie loro trasmesse;
 - c. ricezione e controllo della qualità e dell’esaustività dei dati segnaletici forniti da altre autorità;
-- d. confronto dei dati segnaletici loro forniti con quelli dei propri schedari;
+- d.[^3-2] confronto dei dati segnaletici loro forniti con quelli dei propri registri;
 - e. comunicazione del risultato del confronto all’autorità richiedente, ad altre autorità di perseguimento penale che indagano nei confronti della stessa persona, nonché ad altre autorità che devono conoscere l’identità della persona in questione per adempiere i loro compiti legali;
 - f. elaborazione di statistiche sui risultati;
 - g. messa a disposizione dei dati dattiloscopici esistenti in favore delle autorità di cui all’articolo 4, qualora esse, nel caso singolo, abbiano richiesto tali dati e i dati siano indispensabili per l’adempimento dei loro compiti;
-- h.[^3-1] trasmissione automatizzata dei dati segnalateci di natura biometrica alla parte nazionale del Sistema d’informazione di Schengen (N-SIS).
+- h.[^3-3] trasmissione automatizzata dei dati segnalateci di natura biometrica alla parte nazionale del Sistema d’informazione di Schengen (N-SIS).
 
-<sup>2</sup> I servizi competenti di cui al capoverso 1 devono essere accreditati secondo la norma ISO/IEC 17025[^3-2].
+<sup>2</sup> I servizi competenti di cui al capoverso 1 devono essere accreditati secondo la norma ISO/IEC 17025[^3-4].
 
-[^3-1]: Introdotta dal n. III dell’O dell’11 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
-[^3-2]: ISO/IEC 17025: 2005 Requisiti generali per la competenza dei laboratori di prova e di taratura. La norma può essere consultata gratuitamente presso fedpol od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
+[^3-1]: Nuovo testo giusta l’all. 2 n. II 44 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^3-2]: Nuovo testo giusta l’all. 2 n. II 44 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^3-3]: Introdotta dal n. III dell’O dell’11 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
+[^3-4]: ISO/IEC 17025: 2005 Requisiti generali per la competenza dei laboratori di prova e di taratura. La norma può essere consultata gratuitamente presso fedpol od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
 
 #### Art. 3a
 
 **Competenza della SEM**[^3a-1]
 
-In caso di segnalazioni ai fini del rimpatrio o della non ammissione e del divieto di soggiorno, la SEM può fornire per via informatizzata le impronte digitali e le immagini del viso al N‑SIS a partire da AFIS. L’interessato è informato sull’utilizzazione di questi dati conformemente all’articolo 14 della legge federale del 19 giugno 1992[^3a-2] sulla protezione dei dati (LPD).
+In caso di segnalazioni ai fini del rimpatrio o della non ammissione e del divieto di soggiorno, la SEM può fornire per via informatizzata le impronte digitali e le immagini del viso al N‑SIS a partire da AFIS. La persona interessata è informata sull’utilizzazione di questi dati conformemente agli articoli 19 e 20 della legge federale del 25 settembre 2020[^3a-2] sulla protezione dei dati (LPD).[^3a-3]
 
 [^3a-1]: Introdotto dal n. I 2 dell’O del 3 apr. 2019 sulla fornitura di dati biometrici e sugli accessi in ambito migratorio al N-SIS ([RU 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)). Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 650](https://fedlex.data.admin.ch/eli/oc/2022/650)).
 [^3a-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^3a-3]: Nuovo testo del per. giusta l’all. 2 n. II 44 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 4
 
@@ -110,19 +113,22 @@ Le autorità seguenti possono far confrontare dal servizio incaricato della gest
 
 <sup>1</sup> I diritti delle persone interessante, in particolare il diritto alla rettifica e alla distruzione di dati, sono retti dalle disposizioni della LPD[^5-1].[^5-2]
 
-<sup>2</sup> La persona interessata che intende far valere i propri diritti deve comprovare la propria identità e presentare una domanda scritta a fedpol.
+<sup>2</sup> La persona interessata che intende far valere i propri diritti deve presentare a fedpol una domanda nella forma prevista dall’articolo 16 dell’ordinanza del 31 agosto 2022[^5-3] sulla protezione dei dati (OPDa).[^5-4]
 
 [^5-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^5-2]: Nuovo testo giusta il n. III dell’O dell’11 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
+[^5-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^5-4]: Nuovo testo giusta l’all. 2 n. II 44 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 6
 
-**Archiviazione dei dati**
+**Archiviazione dei dati**[^6-1]
 
-La consegna all’Archivio federale di dati contenuti nei sistemi d’informazione è retta dall’articolo 21 LPD[^6-1] e dalla legge federale del 26 giugno 1998[^6-2] sull’archiviazione.
+La consegna all’Archivio federale di dati contenuti nei sistemi d’informazione è retta dall’articolo 38 LPD[^6-2] e dalla legge federale del 26 giugno 1998[^6-3] sull’archiviazione.
 
-[^6-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^6-2]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^6-1]: Nuovo testo giusta l’all. 2 n. II 44 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^6-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^6-3]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
 
 ## Sezione 2: AFIS
 
@@ -215,12 +221,13 @@ Per la pianificazione nonché per test, ottimizzazioni del sistema e formazioni 
 
 La sicurezza dei dati è retta da:
 
-- a. l’ordinanza del 14 giugno 1993[^14-1] relativa alla legge federale sulla protezione dei dati;
-- b.[^14-2] l’ordinanza del 27 maggio 2020[^14-3] sui ciber-rischi.
+- a.[^14-1] l’OPDa[^14-2];
+- b.[^14-3] l’ordinanza del 27 maggio 2020[^14-4] sui ciber-rischi.
 
-[^14-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^14-2]: Nuovo testo giusta l’all. n. 20 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^14-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^14-1]: Nuovo testo giusta l’all. 2 n. II 44 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^14-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^14-3]: Nuovo testo giusta l’all. n. 20 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
 ## Sezione 3: Trattamento dei dati in altri sistemi d’informazione
 
