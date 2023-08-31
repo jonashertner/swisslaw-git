@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 15. Dezember 2000 über Arzneimittel und Medizinprodukt
 short: HMG
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/422"
 language: de
-version: 2023-07-01
+version: 2023-09-01
 adopted: 2000-12-15
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2001-422-20230701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2001-422-20230901-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20230701/de"
 
 (Heilmittelgesetz, HMG)
 
-vom 15. Dezember 2000 (Stand am 1. Juli 2023)
+vom 15. Dezember 2000 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1548,7 +1548,7 @@ Der Bundesrat erlässt Ausführungsbestimmungen über:
 - e. die Datensicherheit.
 
 [^62a-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^62a-2]: Fassung gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 26. Mai 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^62a-2]: Fassung gemäss Anhang 1 Ziff. II 74 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^62a-3]: Fassung gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 26. Mai 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 [^62a-4]: Eingefügt durch Ziff. I des BG vom 22. März 2019, in Kraft seit 26. Mai 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
@@ -1556,13 +1556,13 @@ Der Bundesrat erlässt Ausführungsbestimmungen über:
 
 **Zusammenarbeit mit dem privaten Sektor**[^62b-1]
 
-<sup>1</sup> Das Institut und das Bundesamt für Zoll und Grenzsicherheit (BAZG) sind nach einer Interessenabwägung berechtigt, der Inhaberin oder dem Inhaber einer Betriebsbewilligung oder einer Zulassung für Arzneimittel sowie jeder Person, die ein Medizinprodukt in Verkehr bringt, nach diesem Gesetz gesammelte, vertrauliche Daten im Einzelfall bekannt zu geben, einschliesslich besonders schützenswerter Daten nach Artikel 3 Buchstabe c Ziffer 4 des Bundesgesetzes vom 19. Juni 1992[^62b-2] über den Datenschutz, sofern diese Massnahme für notwendig erachtet wird, um einen mutmasslichen illegalen Heilmittelhandel aufzudecken und zu bekämpfen.[^62b-3]
+<sup>1</sup> Das Institut und das Bundesamt für Zoll und Grenzsicherheit (BAZG) sind nach einer Interessenabwägung berechtigt, der Inhaberin oder dem Inhaber einer Betriebsbewilligung oder einer Zulassung für Arzneimittel sowie jeder Person, die ein Medizinprodukt in Verkehr bringt, nach diesem Gesetz gesammelte, vertrauliche Daten im Einzelfall bekannt zu geben, einschliesslich besonders schützenswerter Daten nach Artikel 5 Buchstabe c Ziffer 5 des Datenschutzgesetzes vom 25. September 2020[^62b-2], sofern diese Massnahme für notwendig erachtet wird, um einen mutmasslichen illegalen Heilmittelhandel aufzudecken und zu bekämpfen.[^62b-3]
 
 <sup>2</sup> Persönliche Patientendaten dürfen nicht bekannt gegeben werden.
 
 [^62b-1]: Eingefügt durch Anhang Ziff. 2 des BB vom 29. Sept. 2017 (Medicrime-Konvention), in Kraft seit 1. Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
 [^62b-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^62b-3]: Fassung gemäss Ziff. I 30 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^62b-3]: Fassung gemäss Anhang 1 Ziff. II 74 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 62c
 

@@ -4,11 +4,11 @@ title: "Federal Act of 15 December 2000 on Medicinal Products and Medical Device
 short: TPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/422"
 language: en
-version: 2023-07-01
+version: 2023-09-01
 adopted: 2000-12-15
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20230701/en/xml/fedlex-data-admin-ch-eli-cc-2001-422-20230701-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20230701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2001-422-20230901-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Therapeutic Products Act, TPA)
 
-of 15 December 2000 (Status as of 1 July 2023)
+of 15 December 2000 (Status as of 1 September 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -1548,7 +1548,7 @@ The Federal Council shall issue implementing provisions on:
 - e. data security.
 
 [^62a-1]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^62a-2]: Amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^62a-2]: Amended by Annex 1 No II 74 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^62a-3]: Amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 [^62a-4]: Inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
@@ -1556,13 +1556,13 @@ The Federal Council shall issue implementing provisions on:
 
 **Cooperation with the private sector**[^62b-1]
 
-<sup>1</sup> The Agency and the Federal Office for Customs and Border Security (FOCBS), after weighing up the interests, are entitled on a case-by-case basis to disclose confidential data collected in accordance with this Act to the holder of an operating licence or of a marketing authorisation for medicinal products or to any person who places a medical device on the market, including sensitive personal data in accordance with Article 3 letter c number 4 of the Federal Act of 19 June 1992[^62b-2] on Data Protection, provided this measure is regarded as necessary in order to uncover or combat suspected illegal trading in therapeutic products.[^62b-3]
+<sup>1</sup> The Agency and the Federal Office for Customs and Border Security (FOCBS), after weighing up the interests, are entitled on a case-by-case basis to disclose confidential data collected in accordance with this Act to the holder of an operating licence or of a marketing authorisation for medicinal products or to any person who places a medical device on the market, including sensitive personal data in accordance with Article 5 letter c number 5 of the Data Protection Act of 25 September 2020[^62b-2], provided this measure is regarded as necessary in order to uncover or combat suspected illegal trading in therapeutic products.[^62b-3]
 
 <sup>2</sup> Personal data relating to patients may not be disclosed.
 
 [^62b-1]: Inserted by Annex No 2 of the FD of 29 Sept. 2017 (Medicrime Convention), in force since 1 Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
 [^62b-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^62b-3]: Amended by No I 30 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^62b-3]: Amended by Annex 1 No II 74 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 62c
 

@@ -4,11 +4,11 @@ title: "Legge federale del 15 dicembre 2000 sui medicamenti e i dispositivi medi
 short: LATer
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/422"
 language: it
-version: 2023-07-01
+version: 2023-09-01
 adopted: 2000-12-15
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2001-422-20230701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2001-422-20230901-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20230701/it"
 
 (Legge sugli agenti terapeutici, LATer)
 
-del 15 dicembre 2000 (Stato 1° luglio 2023)
+del 15 dicembre 2000 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -1523,9 +1523,11 @@ Tutte le persone incaricate dell’esecuzione della presente legge sono vincolat
 
 **Trattamento di dati personali**[^62a-1]
 
+812.21
+
 <sup>1</sup>
 
-Se necessario all’adempimento dei compiti attribuiti loro dalla presente legge, i servizi della Confederazione e dei Cantoni, i centri regionali e i terzi incaricati di compiti di esecuzione possono trattare i seguenti dati personali degni di particolare protezione:[^62a-2]
+Se necessario all’adempimento dei compiti attribuiti loro dalla presente legge, i servizi della Confederazione e dei Cantoni, i centri regionali e i terzi incaricati di compiti d’esecuzione possono trattare i seguenti dati personali degni di particolare protezione:[^62a-2]
 
 - a.[^62a-3]
 
@@ -1556,20 +1558,20 @@ Il Consiglio federale emana disposizioni d’esecuzione concernenti:
 - e. la sicurezza dei dati.
 
 [^62a-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^62a-2]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^62a-2]: Nuovo testo giusta l’all. 1 n. II 74 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^62a-3]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 62b
 
 **Cooperazione con il settore privato**[^62b-1]
 
-<sup>1</sup> L’Istituto e l’Ufficio federale della dogana e della sicurezza dei confini (UDSC) sono autorizzati, previa ponderazione degli interessi, a comunicare nel singolo caso al titolare di un’autorizzazione d’esercizio o di un’omologazione di un medicamento, nonché a chiunque immette in commercio dispositivi medici, i dati confidenziali raccolti secondo la presente legge, inclusi i dati personali degni di particolare protezione di cui all’articolo 3 lettera c numero 4 della legge federale del 19 giugno 1992[^62b-2] sulla protezione dei dati, se ritengono una simile misura necessaria per scoprire e combattere un presunto commercio illegale di agenti terapeutici.[^62b-3]
+<sup>1</sup> L’Istituto e l’Ufficio federale della dogana e della sicurezza dei confini (UDSC) sono autorizzati, previa ponderazione degli interessi, a comunicare nel singolo caso al titolare di un’autorizzazione d’esercizio o di un’omologazione di un medicamento, nonché a chiunque immette in commercio dispositivi medici, i dati confidenziali raccolti secondo la presente legge, inclusi i dati personali degni di particolare protezione di cui all’articolo 5 lettera c numero 5 della legge federale del 25 settembre 2020[^62b-2] sulla protezione dei dati, se ritengono una simile misura necessaria per scoprire e combattere un presunto commercio illegale di agenti terapeutici.[^62b-3]
 
 <sup>2</sup> I dati personali dei pazienti non possono essere comunicati.
 
 [^62b-1]: Introdotto dall’all. n. 2 del DF del 29 set. 2017 (Convenzione Medicrime), in vigore dal 1° gen. 2019 ([RU 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2749](https://fedlex.data.admin.ch/eli/fga/2017/649)).
 [^62b-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^62b-3]: Nuovo testo giusta il n. I 30 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^62b-3]: Nuovo testo giusta l’all. 1 n. II 74 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 62c
 
@@ -2620,7 +2622,7 @@ Fino alla completa fruibilità dell’elenco elettronico di cui all’articolo 6
 
 <sup>2</sup> Il Consiglio federale ne determina l’entrata in vigore.
 
-Data dell’entrata in vigore:[^96-1] 1° gennaio 2002art. 71 e 72: 1° ottobre 2001
+Data dell’entrata in vigore:[^96-1] 1° gennaio 2002 art. 71 e 72: 1° ottobre 2001
 
 [^96-1]: DCF del 28 set. 2001.
 

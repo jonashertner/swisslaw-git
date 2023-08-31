@@ -4,11 +4,11 @@ title: "Loi fédérale du 15 décembre 2000 sur les médicaments et les disposit
 short: LPTh
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/422"
 language: fr
-version: 2023-07-01
+version: 2023-09-01
 adopted: 2000-12-15
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2001-422-20230701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2001-422-20230901-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20230701/fr"
 
 (Loi sur les produits thérapeutiques, LPTh)[^t-1]
 
-du 15 décembre 2000 (État le 1<sup>er</sup> juillet 2023)
+du 15 décembre 2000 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -428,7 +428,7 @@ L’institut prévoit des procédures simplifiées d’autorisation de mise sur 
 - [tab] a<sup>quater</sup>.[^14-4] les médicaments dont il est avéré, au moment du dépôt de la demande, qu’ils sont autorisés en tant que médicaments dans un canton depuis au moins 15 ans;
 - b. les médicaments de la médecine complémentaire;
 - c.[^14-5] ...
-- c<sup>bis</sup>*.*[^14-6] les phytomédicaments;
+- c<sup>bis</sup>.[^14-6] les phytomédicaments;
 - d.[^14-7] les médicaments qui sont fabriqués dans une pharmacie d’hôpital ou le service de radiopharmacie d’un hôpital et qui sont destinés aux besoins hospitaliers;
 - e. les médicaments qui sont fabriqués par l’armée et qui sont utilisés dans le cadre du service sanitaire coordonné;
 - f. les médicaments importants pour des maladies rares;
@@ -1524,7 +1524,7 @@ Les personnes chargées de l’exécution de la présente loi ont l’obligation
 
 <sup>1</sup>
 
-Les services fédéraux et cantonaux, les centres régionaux et les tiers chargés de tâches d’exécution peuvent, dans la mesure où ils en ont besoin pour accomplir les tâches qui leur incombent aux termes de la présente loi, traiter les données sensibles suivantes:[^62a-2]
+Les services de la Confédération et des cantons, les centres régionaux et les tiers chargés de tâches d’exécution peuvent, dans la mesure où ils en ont besoin pour accomplir les tâches qui leur incombent aux termes de la présente loi, traiter les données sensibles suivantes: [^62a-2]
 
 - a.
 
@@ -1555,7 +1555,7 @@ Le Conseil fédéral édicte les dispositions d’exécution régissant:
 - e. la sécurité des données.
 
 [^62a-1]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^62a-2]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^62a-2]: Nouvelle teneur selon l’annexe 1 ch. II 74 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^62a-3]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 [^62a-4]: Introduit par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
@@ -1563,13 +1563,13 @@ Le Conseil fédéral édicte les dispositions d’exécution régissant:
 
 **Collaboration avec le secteur privé**[^62b-1]
 
-<sup>1</sup> Suite à une pesée des intérêts, l’institut et l’Office fédéral de la douane et de la sécurité des frontières (OFDF) sont habilités à communiquer dans le cas d’espèce au titulaire d’une autorisation d’exploitation ou de mise sur le marché d’un médicament ou à quiconque met sur le marché un dispositif médical, des données confidentielles collectées en vertu de la présente loi, y compris des données sensibles au sens de l’art. 3, let. c, ch. 4, de la loi fédérale du 19 juin 1992 sur la protection des données[^62b-2], si cette mesure paraît nécessaire pour mettre au jour et combattre un trafic illégal suspecté de produits thérapeutiques.[^62b-3]
+<sup>1</sup> Suite à une pesée des intérêts, l’institut et l’Office fédéral de la douane et de la sécurité des frontières (OFDF) sont habilités à communiquer dans le cas d’espèce au titulaire d’une autorisation d’exploitation ou de mise sur le marché d’un médicament ou à quiconque met sur le marché un dispositif médical, des données confidentielles collectées en vertu de la présente loi, y compris des données sensibles au sens de l’art. 5, let. c, ch. 5, de la loi fédérale du 25 septembre 2020 sur la protection des données[^62b-2], si cette mesure paraît nécessaire pour mettre au jour et combattre un trafic illégal suspecté de produits thérapeutiques.[^62b-3]
 
 <sup>2</sup> Les données personnelles de patients ne peuvent pas être communiquées.
 
 [^62b-1]: Introduit par l’annexe ch. 2 de l’AF du 29 sept. 2017 (Convention Médicrime), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2945](https://fedlex.data.admin.ch/eli/fga/2017/649)).
 [^62b-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^62b-3]: Nouvelle teneur selon le ch. I 30 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^62b-3]: Nouvelle teneur selon l’annexe 1 ch. II 74 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 62c
 
