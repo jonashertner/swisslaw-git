@@ -4,11 +4,11 @@ title: "Ordinanza del 25 novembre 1998 sull'organizzazione del Governo e dell'Am
 short: OLOGA
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/170"
 language: it
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1999-170-20230701-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1999-170-20230901-it-xml-14.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20230701/it"
 
 (OLOGA)
 
-del 25 novembre 1998 (Stato 1° luglio 2023)
+del 25 novembre 1998 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -1139,11 +1139,12 @@ L’autorità che ordina l’inchiesta rilascia un mandato d’inchiesta scritto
 
 #### Art. 27i
 
-**Protezione dei dati personali**
+**Protezione dei dati personali**[^27i-1]
 
-Ogni servizio amministrativo invitato dall’organo d’inchiesta a rendere noti dati personali è tenuto, nella propria sfera di competenza, a garantire l’osservanza delle disposizioni della legge federale del 19 giugno 1992[^27i-1] sulla protezione dei dati.
+Ogni servizio amministrativo invitato dall’organo d’inchiesta a rendere noti dati personali è tenuto, nella propria sfera di competenza, a garantire l’osservanza delle disposizioni della legge federale del 25 settembre 2020[^27i-2] sulla protezione dei dati.
 
-[^27i-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^27i-1]: Introdotto dall’all. 2 n. II 14 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^27i-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 27j
 

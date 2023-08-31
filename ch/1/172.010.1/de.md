@@ -4,11 +4,11 @@ title: Regierungs- und Verwaltungsorganisationsverordnung vom 25. November 1998 
 short: RVOV
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/170"
 language: de
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1999-170-20230701-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1999-170-20230901-de-xml-14.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20230701/de"
 
 (RVOV)
 
-vom 25. November 1998 (Stand am 1. Juli 2023)
+vom 25. November 1998 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -1144,11 +1144,12 @@ Die anordnende Stelle erteilt einen schriftlichen Untersuchungsauftrag. Darin wi
 
 #### Art. 27i
 
-**Schutz von Personendaten**
+**Schutz von Personendaten**[^27i-1]
 
-Jede Dienststelle, die vom Untersuchungsorgan zur Bekanntgabe von Personendaten aufgefordert wird, hat in eigener Kompetenz sicherzustellen, dass dabei die Bestimmungen des Bundesgesetzes vom 19. Juni 1992[^27i-1] über den Datenschutz eingehalten werden.
+Jede Dienststelle, die vom Untersuchungsorgan zur Bekanntgabe von Personendaten aufgefordert wird, hat in eigener Kompetenz sicherzustellen, dass dabei die Bestimmungen des Datenschutzgesetzes vom 25. September 2020[^27i-2] eingehalten werden.
 
-[^27i-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^27i-1]: Fassung gemäss Anhang 2 Ziff. II 14 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^27i-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 27j
 
