@@ -4,11 +4,11 @@ title: Tierseuchengesetz vom 1. Juli 1966 (TSG)
 short: TSG
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604"
 language: de
-version: 2022-11-01
+version: 2023-09-01
 adopted: 1966-07-01
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604/20221101/de/xml/fedlex-data-admin-ch-eli-cc-1966-1565_1621_1604-20221101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/1565_1621_1604/20221101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1966-1565_1621_1604-20230901-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/1565_1621_1604/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,18 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/1966/1565_1621_1604/20221101/de"
 
 (TSG)[^t-1]
 
-vom 1. Juli 1966 (Stand am 1. November 2022)
+vom 1. Juli 1966 (Stand am 1. September 2023)
 
 [^t-1]: Fassung des Tit. gemäss Ziff. I des BG vom 19. Dez. 1975, in Kraft seit 1. Juli 1977 ([AS 1977 1187](https://fedlex.data.admin.ch/eli/oc/1977/1187_1187_1187); [BBl 1975 II 106](https://fedlex.data.admin.ch/eli/fga/1975/2_106_114_105)).
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
-gestützt auf die Artikel 95 Absatz 1 und 118 Absatz 2 Buchstabe b der Bundesverfassung[^ingress-1],[^ingress-2]
+gestützt auf die Artikel 95 Absatz 1 und 118 Absatz 2 Buchstabe b der Bundesverfassung[^ingress-1],[^ingress-2] nach Einsicht in eine Botschaft des Bundesrates vom 3. September 1965[^ingress-3],
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Fassung gemäss Ziff. I des BG vom 16. März 2012, in Kraft seit 1. Mai 2013 ([AS 2013 907](https://fedlex.data.admin.ch/eli/oc/2013/184); [BBl 2011 7027](https://fedlex.data.admin.ch/eli/fga/2011/1121)).
+[^ingress-3]: [BBl 1965 II 1058](https://fedlex.data.admin.ch/eli/fga/1965/2_1058_1082_749)
 
 ## I. Grundsätze und Ziele
 
@@ -120,7 +121,7 @@ Der Bundesrat kann Prüfungskommissionen ernennen, welche die Prüfungen durchf�
 [^3a-2]: Fassung gemäss Ziff. I des BG vom 16. März 2012, in Kraft seit 1. Mai 2013 ([AS 2013 907](https://fedlex.data.admin.ch/eli/oc/2013/184); [BBl 2011 7027](https://fedlex.data.admin.ch/eli/fga/2011/1121)).
 [^3a-3]: Fassung gemäss Ziff. I des BG vom 16. März 2012, in Kraft seit 1. Mai 2013 ([AS 2013 907](https://fedlex.data.admin.ch/eli/oc/2013/184); [BBl 2011 7027](https://fedlex.data.admin.ch/eli/fga/2011/1121)).
 [^3a-4]: Fassung gemäss Anhang Ziff. II 7 des Lebensmittelgesetzes vom 20. Juni 2014, in Kraft seit 1. Mai 2017 ([AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [BBl 2011 5571](https://fedlex.data.admin.ch/eli/fga/2011/853)).
-[^3a-5]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^3a-5]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
 [^3a-6]: Fassung gemäss Ziff. I des BG vom 16. März 2012, in Kraft seit 1. Mai 2013 ([AS 2013 907](https://fedlex.data.admin.ch/eli/oc/2013/184); [BBl 2011 7027](https://fedlex.data.admin.ch/eli/fga/2011/1121)).
 [^3a-7]: Fassung gemäss Anhang Ziff. II 7 des Lebensmittelgesetzes vom 20. Juni 2014, in Kraft seit 1. Mai 2017 ([AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [BBl 2011 5571](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 
@@ -227,8 +228,8 @@ Der Bundesrat regelt bei hochansteckenden und andern Seuchen die allgemeinen Bek
 - 7\.[^10-6] die periodische Untersuchung der Tierbestände und die weiteren Massnahmen zur Gesunderhaltung der Tierbestände sowie die Erhebungen zur Erfassung der Seuchenlage;
 - 8\. die unentgeltliche Mithilfe des Tierhalters bei Bekämpfungsmassnahmen;
 - 9\. die Mitwirkung der Transportanstalten bei Bekämpfungsmassnahmen;
-- [tab] 10.[^10-7] die Zulassung und Verwendung von Desinfektionsmitteln für die Tierseuchenbekämpfung;
-- [tab] 11.[^10-8] die Genehmigung der nationalen Bekämpfungsprogramme von Tiergesundheitsdiensten für Seuchen, die im Rahmen des internationalen Handels mit Tieren von Bedeutung sind.
+- 10\.[^10-7] die Zulassung und Verwendung von Desinfektionsmitteln für die Tierseuchenbekämpfung;
+- 11\.[^10-8] die Genehmigung der nationalen Bekämpfungsprogramme von Tiergesundheitsdiensten für Seuchen, die im Rahmen des internationalen Handels mit Tieren von Bedeutung sind.
 
 <sup>2</sup>
 
@@ -347,7 +348,9 @@ Der Verkehr mit verseuchten und seuchenverdächtigen Tieren sowie mit solchen, v
 
 <sup>1</sup> Der Tierhalter muss für Tiere der Rinder‑, Schaf‑, Ziegen- und Schweinegattung, die den Betrieb verlassen, ein Begleitdokument ausstellen. Dieses ist mit den Tieren mitzuführen und dem neuen Tierhalter abzugeben. Beim Transport, auf Märkten und an Ausstellungen ist das Begleitdokument auf Verlangen den Vollzugsorganen der Tierseuchen-, der Lebensmittel- und der Landwirtschaftsgesetzgebung vorzuweisen. In den Schlachtanlagen ist es dem amtlichen Tierarzt abzugeben.[^15-2]
 
-<sup>2</sup> Der Bundesrat regelt Inhalt und Form des Begleitdokuments. Er kann vorsehen, dass das Begleitdokument
+<sup>2</sup>
+
+Der Bundesrat regelt Inhalt und Form des Begleitdokuments. Er kann vorsehen, dass das Begleitdokument:
 
 - a. in Gebieten mit erhöhter Seuchengefahr von einer vom Kanton bestimmten Stelle ausgestellt wird;
 - b. in bestimmten Fällen nicht ausgestellt oder mitgeführt werden muss.
@@ -741,7 +744,7 @@ Der Bundesrat bestimmt, ob und inwieweit in Seuchenfällen neben den in diesem A
 
 <sup>5</sup> Die Summe der Beiträge darf die Einnahmen aus der Versteigerung der Zollkontingente für Schlachtvieh und Fleisch nach Artikel 48 des Landwirtschaftsgesetzes vom 29. April 1998[^45a-1] nicht übersteigen.
 
-[^45a-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^45a-1]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 ## V*b*. Informationssysteme
 
@@ -796,7 +799,7 @@ Die folgenden Stellen und Personen können im Rahmen ihrer gesetzlichen Aufgaben
 
 <sup>4</sup> Die Kantone sind berechtigt, das Informationssystem nach Artikel 45*c* Absatz 1 Buchstabe a für ihre eigenen Vollzugsaufgaben in den Bereichen Tiergesundheit, Tierschutz und Lebensmittelsicherheit zu nutzen. Online-Zugriffe auf kantonale Daten richten sich nach dem jeweiligen kantonalen Recht.
 
-[^45d-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^45d-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 45e
 
@@ -844,7 +847,7 @@ Der Bundesrat regelt für die Tierverkehrsdatenbank sowie die Informationssystem
 <sup>3</sup> Handelt der Täter fahrlässig, so ist die Strafe Busse bis zu 20 000 Franken.
 
 [^47-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [BBl 2019 4175](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
-[^47-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^47-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 48
 
@@ -873,7 +876,7 @@ Mit Busse wird bestraft, wer vorsätzlich einer unter Hinweis auf die Strafandro
 Die Bestimmungen über Widerhandlungen in Geschäftsbetrieben nach den Artikeln 6 und 7 des Bundesgesetzes vom 22. März 1974[^48b-2] über das Verwaltungsstrafrecht gelten auch bei der Strafverfolgung durch kantonale Behörden.
 
 [^48b-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [BBl 2019 4175](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
-[^48b-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^48b-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 49
 
@@ -900,15 +903,15 @@ Der Täter kann überdies zur Bezahlung der umgangenen Gebühren verurteilt werd
 <sup>4</sup> Stellt eine Widerhandlung gleichzeitig eine nach Absatz 1, 2 oder 3 sowie eine durch die gleiche Bundesbehörde zu verfolgende Widerhandlung gegen das Bundesgesetz vom 16. März 2012[^52-6] über den Verkehr mit Tieren und Pflanzen geschützter Arten, das Tierschutzgesetz vom 16. Dezember 2005[^52-7], das Zollgesetz vom 18. März 2005, das Mehrwertsteuergesetz vom 12. Juni 2009, das Lebensmittelgesetz vom 20. Juni 2014[^52-8], das Jagdgesetz vom 20. Juni 1986[^52-9] oder das Bundesgesetz vom 21. Juni 1991[^52-10] über die Fischerei dar, so wird die für die schwerste Widerhandlung angedrohte Strafe angewendet; diese kann angemessen erhöht werden.[^52-11]
 
 [^52-1]: Fassung gemäss Anhang 2 des BG vom 16. März 2012 über den Verkehr mit Tieren und Pflanzen geschützter Arten, in Kraft seit 1. Okt. 2013 ([AS 2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600); [BBl 2011 6985](https://fedlex.data.admin.ch/eli/fga/2011/1119)).
-[^52-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^52-3]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^52-2]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^52-3]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 [^52-4]: Fassung gemäss Ziff. I 34 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 [^52-5]: Fassung gemäss Ziff. I 34 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^52-6]: [SR 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
-[^52-7]: [SR 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^52-8]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^52-9]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
-[^52-10]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^52-6]: [SR 453](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7189)
+[^52-7]: [SR 455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7197)
+[^52-8]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^52-9]: [SR 922.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10979)
+[^52-10]: [SR 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
 [^52-11]: Fassung gemäss Anhang Ziff. II 7 des Lebensmittelgesetzes vom 20. Juni 2014, in Kraft seit 1. Mai 2017 ([AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [BBl 2011 5571](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 
 ## VII. Vollzugs‑, Schluss- und Übergangsbestimmungen
@@ -972,7 +975,7 @@ Der Täter kann überdies zur Bezahlung der umgangenen Gebühren verurteilt werd
 
 [^54a-1]
 
-[^54a-1]: Eingefügt durch Ziff. I des BG vom 5. Okt. 2007 ([AS 2008 2269](https://fedlex.data.admin.ch/eli/oc/2008/328); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)). Aufgehoben durch Ziff. I des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [BBl 2019 4175](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
+[^54a-1]: Eingefügt durch Ziff. I des BG vom 5. Okt. 2007 ([AS 2008 2269](https://fedlex.data.admin.ch/eli/oc/2008/328); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)). Aufgehoben durch Anhang 2 Ziff. 6 des BG vom 25. Sept. 2020, mit Wirkung seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 55
 
@@ -1120,7 +1123,7 @@ Unabhängig davon, ob das Bundesgesetz vom 16. März 2012[^62a-2] über den Verk
 Datum des Inkrafttretens: Art. 53 Abs. 1: 1. Jan. 1967[^62a-4] die übrigen Bestimmungen: 1. Januar 1968[^62a-5]
 
 [^62a-1]: Eingefügt durch Ziff. I des BG vom 16. März 2012, in Kraft seit 1. Mai 2013 ([AS 2013 907](https://fedlex.data.admin.ch/eli/oc/2013/184); [BBl 2011 7027](https://fedlex.data.admin.ch/eli/fga/2011/1121)).
-[^62a-2]: [SR 453](https://fedlex.data.admin.ch/eli/cc/2013/600); [BBl 2012 3465](https://fedlex.data.admin.ch/eli/fga/2012/458)
+[^62a-2]: [SR 453](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7189); [BBl 2012 3465](https://fedlex.data.admin.ch/eli/fga/2012/458)
 [^62a-3]: Die Änd. kann unter [AS 2013 907](https://fedlex.data.admin.ch/eli/oc/2013/184)konsultiert werden.
 [^62a-4]: BRB vom 16. Dez. 1966
 [^62a-5]: BRB vom 15. Dez. 1967 ([AS 1967 2115](https://fedlex.data.admin.ch/eli/oc/1967/2115_2163_2092))
