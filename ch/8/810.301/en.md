@@ -4,11 +4,11 @@ title: "Ordinance of 20 September 2013 on Human Research with the Exception of C
 short: HRO
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/642"
 language: en
-version: 2022-05-26
+version: 2023-09-01
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/642/20220526/en/xml/fedlex-data-admin-ch-eli-cc-2013-642-20220526-en-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20220526/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/642/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2013-642-20230901-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Human Research Ordinance, HRO)
 
-of 20 September 2013 (Status as of 26 May 2022)
+of 20 September 2013 (Status as of 1 September 2023)
 
 The Swiss Federal Council,
 
@@ -425,7 +425,9 @@ Further use of biological material and health-related personal data is defined a
 
 <sup>1</sup> Biological material and health-related personal data are considered to be correctly coded in accordance with Article 32 paragraph 2 and Article 33 paragraph 2 HRA if, from the perspective of a person who lacks access to the key, they are to be characterised as anonymised.
 
-<sup>2</sup> The key must be stored separately from the material or data collection and in accordance with the principles of Article 5 paragraph 1, by a person to be designated in the application who is not involved in the research project.
+<sup>2</sup> The key must be stored separately from the biological material or personal data and in accordance with the principles of Article 5 paragraph 1, by a person to be designated in the application who is not involved in the research project.[^26-1]
+
+[^26-1]: Amended by Annex 2 No II 95 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 27
 

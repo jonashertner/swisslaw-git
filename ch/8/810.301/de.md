@@ -4,11 +4,11 @@ title: "Verordnung vom 20. September 2013 über die Humanforschung mit Ausnahme 
 short: HFV
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/642"
 language: de
-version: 2022-05-26
+version: 2023-09-01
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/642/20220526/de/xml/fedlex-data-admin-ch-eli-cc-2013-642-20220526-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20220526/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/642/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2013-642-20230901-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20220526/de"
 
 (Humanforschungsverordnung, HFV)
 
-vom 20. September 2013 (Stand am 26. Mai 2022)
+vom 20. September 2013 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -421,7 +421,9 @@ Als Weiterverwendung biologischen Materials und gesundheitsbezogener Personendat
 
 <sup>1</sup> Biologisches Material und gesundheitsbezogene Personendaten gelten im Sinne der Artikel 32 Absatz 2 und 33 Absatz 2 HFG als korrekt verschlüsselt, wenn sie aus der Sicht einer Person, die keinen Zugang zum Schlüssel hat, als anonymisiert zu qualifizieren sind.
 
-<sup>2</sup> Der Schlüssel muss von einer im Gesuch zu bezeichnenden Person, die nicht am Forschungsprojekt beteiligt ist, getrennt von der Material- beziehungsweise Datensammlung und gemäss den Grundsätzen nach Artikel 5 Absatz 1 aufbewahrt werden.
+<sup>2</sup> Der Schlüssel muss von einer im Gesuch zu bezeichnenden Person, die nicht am Forschungsprojekt beteiligt ist, getrennt vom biologischen Material beziehungsweise den Personendaten und gemäss den Grundsätzen nach Artikel 5 Absatz 1 aufbewahrt werden.[^26-1]
+
+[^26-1]: Fassung gemäss Anhang 2 Ziff. II 95 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 27
 

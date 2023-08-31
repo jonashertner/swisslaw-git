@@ -4,11 +4,11 @@ title: "Ordinanza del 20 settembre 2013 concernente i progetti di ricerca sull'e
 short: ORUm
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/642"
 language: it
-version: 2022-05-26
+version: 2023-09-01
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/642/20220526/it/xml/fedlex-data-admin-ch-eli-cc-2013-642-20220526-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20220526/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/642/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2013-642-20230901-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20220526/it"
 
 (Ordinanza sulla ricerca umana, ORUm)
 
-del 20 settembre 2013 (Stato 26 maggio 2022)
+del 20 settembre 2013 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -421,7 +421,9 @@ La direzione del progetto notifica alla commissione d’etica, entro 90 giorni, 
 
 <sup>1</sup> Il materiale biologico e i dati sanitari personali sono considerati correttamente codificati ai sensi degli articoli 32 capoverso 2 e 33 capoverso 2 LRUm se sono qualificati come anonimizzati nell’ottica di una persona che non ha accesso al codice.
 
-<sup>2</sup> Il codice deve essere conservato da una persona designata nella domanda che non partecipa al progetto di ricerca, separatamente dalla raccolta di materiale o di dati e conformemente ai principi di cui all’articolo 5 capoverso 1.
+<sup>2</sup> Il codice deve essere conservato da una persona designata nella domanda che non partecipa al progetto di ricerca, separatamente dal materiale biologico o dai dati personali e conformemente ai principi di cui all’articolo 5 capoverso 1.[^26-1]
+
+[^26-1]: Nuovo testo giusta l’all. 2 n. II 95 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 27
 

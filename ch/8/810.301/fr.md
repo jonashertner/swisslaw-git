@@ -4,11 +4,11 @@ title: "Ordonnance du 20 septembre 2013 relative à la recherche sur l'être hum
 short: ORH
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/642"
 language: fr
-version: 2022-05-26
+version: 2023-09-01
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/642/20220526/fr/xml/fedlex-data-admin-ch-eli-cc-2013-642-20220526-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20220526/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/642/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2013-642-20230901-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20220526/fr"
 
 (Ordonnance relative à la recherche sur l’être humain, ORH)
 
-du 20 septembre 2013 (Etat le 26 mai 2022)
+du 20 septembre 2013 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -421,7 +421,9 @@ Toute opération effectuée à des fins de recherche avec du matériel biologiqu
 
 <sup>1</sup> Le matériel biologique et les données personnelles liées à la santé sont réputés correctement codés au sens de l’art. 32, al. 2, et 33, al. 2, LRH lorsqu’ils sont qualifiés d’anonymisés dans l’optique d’une personne qui n’a pas d’accès au code.
 
-<sup>2</sup> Le code doit être conservé par une personne qui est désignée dans la demande et n’est pas impliquée dans le projet de recherche, séparément du matériel biologique ou des données personnelles et conformément aux principes visés à l’art. 5, al. 1.
+<sup>2</sup> Le code doit être conservé par une personne qui est désignée dans la demande et n’est pas impliquée dans le projet de recherche, séparément du matériel biologique ou des données personnelles et conformément aux principes visés à l’art. 5, al. 1.[^26-1]
+
+[^26-1]: La mod. de l’annexe 2 ch. II 95 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023, ne concerne que les textes allemand et italien ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 27
 
