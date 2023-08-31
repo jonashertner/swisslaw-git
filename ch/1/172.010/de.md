@@ -4,11 +4,11 @@ title: Regierungs- und Verwaltungsorganisationsgesetz vom 21. März 1997 (RVOG)
 short: RVOG
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022"
 language: de
-version: 2019-12-02
+version: 2023-09-01
 adopted: 1997-03-21
 in_force: 1997-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022/20191202/de/xml/fedlex-data-admin-ch-eli-cc-1997-2022_2022_2022-20191202-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2022_2022_2022/20191202/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1997-2022_2022_2022-20230901-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2022_2022_2022/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2022_2022_2022/20191202/de"
 
 (RVOG)
 
-vom 21. März 1997 (Stand am 2. Dezember 2019)
+vom 21. März 1997 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -702,7 +702,7 @@ Der Departementsvorsteher oder die Departementsvorsteherin trifft in Absprache m
 
 Die Direktoren und Direktorinnen der Gruppen und Ämter sind gegenüber ihren Vorgesetzten für die Führung der ihnen unterstellten Verwaltungseinheiten sowie für die Erfüllung der ihnen übertragenen Aufgaben verantwortlich.
 
-### 4. Abschnitt: Staatssekretäre und Staatssekretärinnen****
+### 4. Abschnitt: Staatssekretäre und Staatssekretärinnen
 
 [^tit3-chap2-sec4-1]
 
@@ -726,7 +726,7 @@ Der Bundesrat kann den Titel «Staatssekretär» oder «Staatssekretärin» Pers
 
 [^46-1]: Fassung gemäss Ziff. I des BG vom 28. Sept. 2012, in Kraft seit 1. Jan. 2014 ([AS 2013 4549](https://fedlex.data.admin.ch/eli/oc/2013/810); [BBl 2002 2095](https://fedlex.data.admin.ch/eli/fga/2002/286), [2010 7811](https://fedlex.data.admin.ch/eli/fga/2010/1440)).
 
-### Drittes Kapitel:**** Gebühren
+### Drittes Kapitel: Gebühren
 
 [^tit3-chap3-1]
 
@@ -825,7 +825,7 @@ Der Departementsvorsteher oder die Departementsvorsteherin kann folgende Persone
 
 <sup>3</sup> Die Direktoren und Direktorinnen der Gruppen und Ämter verkehren im Rahmen ihrer Zuständigkeit unmittelbar mit anderen eidgenössischen, kantonalen und kommunalen Behörden und Amtsstellen sowie mit Privaten.
 
-### Zweites Kapitel: Planung und Koordination****
+### Zweites Kapitel: Planung und Koordination
 
 [^tit4-chap2-1]
 
@@ -883,13 +883,13 @@ Bundesrat und Departemente können weitere Stabs‑, Planungs- und Koordinations
 
 Der Bundesrat kann Projektorganisationen bilden zur Bearbeitung wichtiger, departementsübergreifender Aufgaben, die zeitlich befristet sind.
 
-### Drittes Kapitel: Externe Beratung und ausserparlamentarische Kommissionen****
+### Drittes Kapitel: Externe Beratung und ausserparlamentarische Kommissionen
 
 [^tit4-chap3-1]
 
 [^tit4-chap3-1]: Fassung gemäss Ziff. I des BG vom 20. März 2008 (Neuordnung der ausserparlamentarischen Kommissionen), in Kraft seit 1. Jan. 2009 ([AS 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818); [BBl 2007 6641](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
 
-### 1. Abschnitt: Externe Beratung****
+### 1. Abschnitt: Externe Beratung
 
 [^tit4-chap3-sec1-1]
 
@@ -906,7 +906,7 @@ Der Bundesrat kann Projektorganisationen bilden zur Bearbeitung wichtiger, depar
 [^57-1]: Aufgehoben durch Ziff. I des BG vom 20. März 2008 (Neuordnung der ausserparlamentarischen Kommissionen), mit Wirkung seit 1. Jan. 2009 ([AS 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818); [BBl 2007 6641](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
 [^57-2]: Aufgehoben durch Ziff. I des BG vom 20. März 2008 (Neuordnung der ausserparlamentarischen Kommissionen), mit Wirkung seit 1. Jan. 2009 ([AS 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818); [BBl 2007 6641](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
 
-### 2. Abschnitt:**** Ausserparlamentarische Kommissionen
+### 2. Abschnitt: Ausserparlamentarische Kommissionen
 
 [^tit4-chap3-sec2-1]
 
@@ -976,65 +976,85 @@ Die ausserparlamentarischen Kommissionen werden gesamthaft alle vier Jahre anlä
 
 [^57g-1]: In Kraft seit 1. Jan. 2010 ([AS 2009 6135](https://fedlex.data.admin.ch/eli/oc/2009/750)).
 
-### Viertes Kapitel:**** Datenbearbeitung
+### Viertes Kapitel: Bearbeitung von Personendaten und von Daten juristischer Personen
 
-[^tit4-chap4-1]
+[^tit4-chap4-1][^tit4-chap4-2]
 
 [^tit4-chap4-1]: Ursprünglich 3. Kap. Eingefügt durch Ziff. I des BG vom 24. März 2000 über die Schaffung und die Anpassung gesetzlicher Grundlagen für die Bearbeitung von Personendaten, in Kraft seit 1. Sept. 2000 ([AS 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [BBl 1999 9005](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
+[^tit4-chap4-2]: Fassung gemäss Anhang 1 Ziff. II 13 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
-### 1. Abschnitt: Dokumentation von Schriftverkehr und Geschäften****
+### 1. Abschnitt: Geschäftsverwaltungssysteme
 
 [^tit4-chap4-sec1-1]
 
-[^tit4-chap4-sec1-1]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2010 (Datenschutz bei der Benutzung der elektronischen Infrastruktur), in Kraft seit 1. April 2012 ([AS 2012 941](https://fedlex.data.admin.ch/eli/oc/2012/159); [BBl 2009 8513](https://fedlex.data.admin.ch/eli/fga/2009/1469)).
+[^tit4-chap4-sec1-1]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2010 (Datenschutz bei der Benutzung der elektronischen Infrastruktur) ([AS 2012 941](https://fedlex.data.admin.ch/eli/oc/2012/159); [BBl 2009 8513](https://fedlex.data.admin.ch/eli/fga/2009/1469)). Fassung gemäss Anhang 1 Ziff. II 13 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 57h
 
-[^57h-1]
+**Führen von Geschäftsverwaltungssystemen**
+
+<sup>1</sup> Für ihre Geschäftsprozesse sowie zur Verwaltung von Dokumenten, einschliesslich der Korrespondenz, führen die Einheiten der Bundesverwaltung und die Parlamentsdienste elektronische Geschäftsverwaltungssysteme.
+
+<sup>2</sup> Soweit im Rahmen der Geschäftsprozesse erforderlich, können sie anderen Bundesbehörden sowie bundesexternen Stellen Zugriff auf ihre eigenen Geschäftsverwaltungssysteme gewähren.
+
+#### Art. 57h<sup>bis</sup>
+
+**Bearbeitung von Personendaten und von Daten juristischer Personen**
 
 <sup>1</sup>
 
-Zur Registrierung, Verwaltung, Indexierung und Kontrolle von Schriftverkehr und Geschäften kann jedes Bundesorgan nach dem Bundesgesetz vom 19. Juni 1992[^57h-2] über den Datenschutz ein Informations- und Dokumentationssystem führen. Dieses System kann besonders schützenswerte Daten und Persönlichkeitsprofile enthalten, soweit sich diese aus dem Schriftverkehr oder aus der Art des Geschäftes ergeben. Das betreffende Bundesorgan kann Personendaten nur speichern, wenn sie dazu dienen:
+Personendaten, einschliesslich besonders schützenswerter Personendaten im Sinne des Datenschutzgesetzes vom 25. September 2020[^57hbis-1] (DSG), sowie Daten juristischer Personen, einschliesslich besonders schützenswerter Daten im Sinne von Artikel 57*r* Absatz 2 des vorliegenden Gesetzes, dürfen in Geschäftsverwaltungssystemen bearbeitet werden, wenn sie dazu dienen:
 
-- a. seine Geschäfte zu bearbeiten;
-- b. die Arbeitsabläufe zu organisieren;
-- c. festzustellen, ob es Daten über eine bestimmte Person bearbeitet;
+- a. Geschäfte zu bearbeiten;
+- b. Arbeitsabläufe zu organisieren;
+- c. festzustellen, ob Daten über eine bestimmte Person bearbeitet werden;
 - d. den Zugang zur Dokumentation zu erleichtern.
 
-<sup>2</sup> Zu den Personendaten haben ausschliesslich Mitarbeiterinnen und Mitarbeiter des betreffenden Bundesorgans Zugang, und dies nur soweit sie sie zur Erfüllung ihrer Aufgabe brauchen.
+<sup>2</sup> Anderen Bundesbehörden und bundesexternen Stellen darf Zugriff auf Personendaten, einschliesslich besonders schützenswerter Personendaten im Sinne des DSG, sowie auf Daten juristischer Personen, einschliesslich besonders schützenswerter Daten juristischer Personen im Sinne von Artikel 57*r* Absatz 2 des vorliegenden Gesetzes, gewährt werden, wenn die für die Bekanntgabe erforderliche gesetzliche Grundlage vorhanden ist.
 
-<sup>3</sup> Der Bundesrat erlässt Ausführungsbestimmungen zu Organisation und Betrieb dieser Informations- und Dokumentationssysteme sowie zum Schutz der darin erfassten Personendaten.
+<sup>3</sup> Geschäftsverwaltungssysteme können besonders schützenswerte Personendaten im Sinne des DSG sowie besonders schützenswerte Daten juristischer Personen im Sinne von Artikel 57*r* Absatz 2 des vorliegenden Gesetzes enthalten, soweit sich diese aus dem Schriftverkehr oder aus der Art eines Geschäftes oder Dokumentes ergeben.
 
-[^57h-1]: Ursprünglich Art. 57*a*.
-[^57h-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+<sup>4</sup> Zugriff auf besonders schützenswerte Personendaten im Sinne des DSG sowie auf besonders schützenswerte Daten juristischer Personen im Sinne von Artikel 57*r* Absatz 2 des vorliegenden Gesetzes darf nur Personen gewährt werden, die diesen zur Erfüllung ihrer Aufgabe benötigen.
 
-### 2. Abschnitt:**** Bearbeitung von Personendaten bei der Nutzung der elektronischen Infrastruktur
+[^57hbis-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
-[^tit4-chap4-sec2-1]
+#### Art. 57h<sup>ter</sup>
+
+**Ausführungsbestimmungen**
+
+Der Bundesrat erlässt die Ausführungsbestimmungen, insbesondere zur Organisation und zum Betrieb der Geschäftsverwaltungssysteme sowie zum Schutz der darin erfassten Personendaten und Daten juristischer Personen.
+
+### 2. Abschnitt: Bearbeitung von Personendaten und von Daten juristischer Personen bei der Nutzung der elektronischen Infrastruktur
+
+[^tit4-chap4-sec2-1][^tit4-chap4-sec2-2]
 
 [^tit4-chap4-sec2-1]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2010 (Datenschutz bei der Benutzung der elektronischen Infrastruktur), in Kraft seit 1. April 2012 ([AS 2012 941](https://fedlex.data.admin.ch/eli/oc/2012/159); [BBl 2009 8513](https://fedlex.data.admin.ch/eli/fga/2009/1469)).
+[^tit4-chap4-sec2-2]: Fassung gemäss Anhang 1 Ziff. II 13 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 57i
 
-**Verhältnis zu anderem Bundesrecht**
+**Verhältnis zu anderem Bundesrecht**[^57i-1]
 
-Die Vorschriften dieses Abschnittes gelten nicht, wenn ein anderes Bundesgesetz die Bearbeitung der bei der Nutzung der elektronischen Infrastruktur anfallenden Personendaten regelt.
+Die Vorschriften dieses Abschnitts gelten nicht, wenn ein anderes Bundesgesetz die Bearbeitung der bei der Nutzung der elektronischen Infrastruktur anfallenden Personendaten und Daten juristischer Personen regelt.
+
+[^57i-1]: Fassung gemäss Anhang 1 Ziff. II 13 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 57j
 
-**Grundsätze**
+**Grundsätze**[^57j-1]
 
-<sup>1</sup> Bundesorgane nach dem Bundesgesetz vom 19. Juni 1992[^57j-1] über den Datenschutz dürfen Personendaten, die bei der Nutzung ihrer oder der in ihrem Auftrag betriebenen elektronischen Infrastruktur anfallen, nicht aufzeichnen und auswerten, ausser wenn dies zu den in den Artikeln 57*l–*57*o* aufgeführten Zwecken nötig ist.
+<sup>1</sup> Bundesorgane nach dem DSG[^57j-2] dürfen Personendaten und Daten juristischer Personen, die bei der Nutzung ihrer oder der in ihrem Auftrag betriebenen elektronischen Infrastruktur anfallen, nicht aufzeichnen und auswerten, ausser wenn dies zu den in den Artikeln 57*l*–57*o* des vorliegenden Gesetzes aufgeführten Zwecken nötig ist.
 
-<sup>2</sup> Die Datenbearbeitung nach diesem Abschnitt kann auch besonders schützenswerte Personendaten und Persönlichkeitsprofile umfassen.
+<sup>2</sup> Die Datenbearbeitung nach diesem Abschnitt kann auch besonders schützenswerte Personendaten im Sinne des DSG sowie besonders schützenswerte Daten juristischer Personen im Sinne von Artikel 57*r* Absatz 2 des vorliegenden Gesetzes umfassen.
 
-[^57j-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^57j-1]: Fassung gemäss Anhang 1 Ziff. II 13 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^57j-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 57k
 
 **Elektronische Infrastruktur**
 
-Die elektronische Infrastruktur umfasst sämtliche stationären oder mobilen Anlagen und Geräte, die Personendaten aufzeichnen können; zu ihr gehören insbesondere:
+Die elektronische Infrastruktur umfasst sämtliche stationären oder mobilen Anlagen und Geräte, die Personendaten und Daten juristischer Personen aufzeichnen können; zu ihr gehören insbesondere:[^57k-1]
 
 - a. Datenverarbeitungsanlagen, Netzwerkkomponenten sowie Software;
 - b. Datenspeicher;
@@ -1044,11 +1064,13 @@ Die elektronische Infrastruktur umfasst sämtliche stationären oder mobilen Anl
 - f. Systeme für die Zugangs- und Raumkontrolle;
 - g. Systeme der Geolokalisierung.
 
+[^57k-1]: Fassung gemäss Anhang 1 Ziff. II 13 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+
 #### Art. 57l
 
-**Aufzeichnung von Personendaten**
+**Aufzeichnung von Personendaten und von Daten juristischer Personen[^57l-1]**
 
-Die Bundesorgane dürfen Personendaten, die bei der Nutzung der elektronischen Infrastruktur anfallen, zu folgenden Zwecken aufzeichnen:
+Die Bundesorgane dürfen Personendaten und Daten juristischer Personen, die bei der Nutzung der elektronischen Infrastruktur anfallen, zu folgenden Zwecken aufzeichnen:[^57l-2]
 
 - a. alle Daten, einschliesslich des Inhalts elektronischer Post: zu deren Sicherung (Backups);
 - b.
@@ -1058,11 +1080,15 @@ Die Bundesorgane dürfen Personendaten, die bei der Nutzung der elektronischen I
   - 1\. zur Aufrechterhaltung der Informations- und Dienstleistungssicherheit,
   - 2\. zur technischen Wartung der elektronischen Infrastruktur,
   - 3\. zur Kontrolle der Einhaltung von Nutzungsreglementen,
-  - 4\. zum Nachvollzug des Zugriffs auf Datensammlungen,
+  - 4\.[^57l-3] zum Nachvollzug des Zugriffs auf die elektronische Infrastruktur,
   - 5\. zur Erfassung der Kosten, die durch die Benutzung der elektronischen Infrastruktur entstehen;
 
 - c. die Daten über die Arbeitszeiten des Personals: zur Bewirtschaftung der Arbeitszeit;
 - d. die Daten über das Betreten oder Verlassen von Gebäuden und Räumen der Bundesorgane und über den Aufenthalt darin: zur Gewährleistung der Sicherheit.
+
+[^57l-1]: Fassung gemäss Anhang 1 Ziff. II 13 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^57l-2]: Fassung gemäss Anhang 1 Ziff. II 13 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^57l-3]: Fassung gemäss Anhang 1 Ziff. II 13 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 57m
 
@@ -1123,6 +1149,65 @@ Der Bundesrat regelt insbesondere:
 
 <sup>3</sup> Soweit Daten von Mitgliedern der Bundesversammlung oder des Personals der Parlamentsdienste betroffen sind, werden diese Ausführungsbestimmungen angewendet, sofern nicht eine Verordnung der Bundesversammlung etwas anderes bestimmt.
 
+### 3. Abschnitt: Bearbeitung von Daten juristischer Personen
+
+[^tit4-chap4-sec3-1]
+
+[^tit4-chap4-sec3-1]: Eingefügt durch Anhang 1 Ziff. II 13 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+
+#### Art. 57r
+
+**Bearbeitung von Daten juristischer Personen**
+
+<sup>1</sup> Bundesorgane dürfen Daten juristischer Personen, einschliesslich besonders schützenswerter Daten, bearbeiten, soweit die Erfüllung ihrer in einem Gesetz im formellen Sinn umschriebenen Aufgaben dies erfordert.
+
+<sup>2</sup>
+
+Besonders schützenswerte Daten juristischer Personen sind:
+
+- a. Daten über verwaltungs- und strafrechtliche Verfolgungen und Sanktionen;
+- b. Daten über Berufs-, Geschäfts- und Fabrikationsgeheimnisse.
+
+#### Art. 57s
+
+**Bekanntgabe von Daten juristischer Personen**
+
+<sup>1</sup> Bundesorgane dürfen Daten juristischer Personen bekannt geben, wenn eine gesetzliche Grundlage dies vorsieht.
+
+<sup>2</sup> Sie dürfen besonders schützenswerte Daten juristischer Personen nur bekannt geben, wenn ein Gesetz im formellen Sinn dies vorsieht.
+
+<sup>3</sup>
+
+Sie dürfen Daten juristischer Personen in Abweichung von den Absätzen 1 und 2 im Einzelfall bekannt geben, wenn eine der folgenden Voraussetzungen erfüllt ist:
+
+- a. Die Bekanntgabe der Daten ist für das Bundesorgan oder für die Empfängerin oder den Empfänger zur Erfüllung einer gesetzlichen Aufgabe unentbehrlich.
+- b. Die betroffene juristische Person hat in die Bekanntgabe eingewilligt.
+- c. Die Empfängerin oder der Empfänger macht glaubhaft, dass die betroffene juristische Person die Einwilligung verweigert oder Widerspruch gegen die Bekanntgabe einlegt, um ihr oder ihm die Durchsetzung von Rechtsansprüchen oder die Wahrnehmung anderer schutzwürdiger Interessen zu verwehren; der betroffenen juristischen Person ist vorgängig Gelegenheit zur Stellungnahme zu geben, es sei denn, dies ist unmöglich oder mit unverhältnismässigem Aufwand verbunden.
+
+<sup>4</sup>
+
+Sie dürfen Daten juristischer Personen darüber hinaus im Rahmen der behördlichen Information der Öffentlichkeit von Amtes wegen oder gestützt auf das Öffentlichkeitsgesetz vom 17. Dezember 2004[^57s-1] bekannt geben, wenn:
+
+- a. die Daten im Zusammenhang mit der Erfüllung öffentlicher Aufgaben stehen; und
+- b. an der Bekanntgabe ein überwiegendes öffentliches Interesse besteht.
+
+<sup>5</sup> Sie dürfen Daten juristischer Personen mittels automatisierter Informations- und Kommunikationsdienste allgemein zugänglich machen, wenn eine Rechtsgrundlage die Veröffentlichung dieser Daten vorsieht oder wenn sie Daten gestützt auf Absatz 4 bekannt geben. Besteht kein öffentliches Interesse mehr daran, die Daten allgemein zugänglich zu machen, so werden die betreffenden Daten aus dem automatisierten Informations- und Kommunikationsdienst gelöscht.
+
+<sup>6</sup>
+
+Die Bundesorgane lehnen die Bekanntgabe ab, schränken sie ein oder verbinden sie mit Auflagen, wenn:
+
+- a. wesentliche öffentliche Interessen oder offensichtlich schutzwürdige Interessen der betroffenen juristischen Person es verlangen; oder
+- b. gesetzliche Geheimhaltungspflichten oder besondere Vorschriften zum Schutz von Daten juristischer Personen es verlangen.
+
+[^57s-1]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+
+#### Art. 57t
+
+**Rechte der juristischen Personen**
+
+Das anwendbare Verfahrensrecht regelt die Rechte der betroffenen juristischen Personen.
+
 ## Fünfter Titel: Einzel- und Schlussbestimmungen
 
 ### Erstes Kapitel: Rechtsstellung
@@ -1173,7 +1258,7 @@ Nicht gleichzeitig Mitglieder des Bundesrates sein können:
 
 [^61a-1]: Eingefügt durch Anhang Ziff. II 3 des Parlamentsgesetzes vom 13. Dez. 2002 ([AS 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510); [BBl 2001 3467](https://fedlex.data.admin.ch/eli/fga/2001/639)[5428](https://fedlex.data.admin.ch/eli/fga/2001/853)). Aufgehoben durch Anhang Ziff. 2 des BG vom 17. Juni 2011 (Gesuche um Aufhebung der Immunität), mit Wirkung seit 5. Dez. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
-### Zweites Kapitel: Genehmigung kantonaler Erlasse****
+### Zweites Kapitel: Genehmigung kantonaler Erlasse
 
 [^tit5-chap2-1]
 
@@ -1191,7 +1276,7 @@ Nicht gleichzeitig Mitglieder des Bundesrates sein können:
 
 [^61b-1]: Ursprünglich Art. 62, anschliessend Art. 61*a*. Fassung gemäss Ziff. I des BG vom 7. Okt. 2005, in Kraft seit 1. Juni 2006 ([AS 2006 1265](https://fedlex.data.admin.ch/eli/oc/2006/224); [BBl 2004 7103](https://fedlex.data.admin.ch/eli/fga/2004/1239)).
 
-### Drittes Kapitel: Information über Verträge der Kantone unter sich oder mit dem Ausland****
+### Drittes Kapitel: Information über Verträge der Kantone unter sich oder mit dem Ausland
 
 [^tit5-chap3-1]
 
@@ -1226,7 +1311,7 @@ Von der Informationspflicht ausgenommen sind Verträge, die:
 
 [^62-1]: Eingefügt durch Ziff. I des BG vom 8. Okt. 1999 ([AS 2000 289](https://fedlex.data.admin.ch/eli/oc/2000/56); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)). Fassung gemäss Ziff. I des BG vom 7. Okt. 2005, in Kraft seit 1. Juni 2006 ([AS 2006 1265](https://fedlex.data.admin.ch/eli/oc/2006/224); [BBl 2004 7103](https://fedlex.data.admin.ch/eli/fga/2004/1239)).
 
-### Viertes Kapitel:**** Konzentriertes Entscheidverfahren
+### Viertes Kapitel: Konzentriertes Entscheidverfahren
 
 [^tit5-chap4-1]
 
@@ -1264,7 +1349,7 @@ Von der Informationspflicht ausgenommen sind Verträge, die:
 
 <sup>2</sup> Sofern eine dieser Fristen nicht eingehalten werden kann, teilt die Leitbehörde dem Gesuchsteller unter Angabe der Gründe mit, wann der Entscheid getroffen werden kann.
 
-### Fünftes Kapitel:**** Steuerbefreiung und Schutz des Eigentums des Bundes
+### Fünftes Kapitel: Steuerbefreiung und Schutz des Eigentums des Bundes
 
 [^tit5-chap5-1]
 
@@ -1284,7 +1369,7 @@ Die Eidgenossenschaft sowie ihre Anstalten, Betriebe und unselbstständigen Stif
 
 <sup>2</sup> Vorschriften der Kantone und Gemeinden über Versicherungspflichten gelten nicht für den Bund.
 
-### Sechstes Kapitel:**** Hausrecht
+### Sechstes Kapitel: Hausrecht
 
 [^tit5-chap6-1]
 
@@ -1294,7 +1379,7 @@ Die Eidgenossenschaft sowie ihre Anstalten, Betriebe und unselbstständigen Stif
 
 Der Bund übt das Hausrecht in seinen Gebäuden aus.
 
-### Siebtes Kapitel:**** Schlussbestimmungen
+### Siebtes Kapitel: Schlussbestimmungen
 
 [^tit5-chap7-1]
 
@@ -1306,7 +1391,7 @@ Der Bund übt das Hausrecht in seinen Gebäuden aus.
 
 Das Bundesgesetz vom 19. September 1978[^63-1] über die Organisation und die Geschäftsführung des Bundesrates und der Bundesverwaltung wird aufgehoben.
 
-[^63-1]: [[AS 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114), [1983 170](https://fedlex.data.admin.ch/eli/oc/1983/170_170_170)[931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931)Art. 59 Ziff. 2, [1985 699](https://fedlex.data.admin.ch/eli/oc/1985/699_699_699), [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)Ziff. II 2 [808](https://fedlex.data.admin.ch/eli/oc/1987/808_808_808), [1989 2116](https://fedlex.data.admin.ch/eli/oc/1989/2116_2116_2116), [1990 3](https://fedlex.data.admin.ch/eli/oc/1990/3_3_3)Art. 1 [1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530)Ziff. II 1 [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 1, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. I, [1992 2](https://fedlex.data.admin.ch/eli/oc/1992/2_2_2)Art. 1 [288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 2 [510](https://fedlex.data.admin.ch/eli/oc/1992/510_510_510)[581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581)Anhang Ziff. 2, [1993 1770](https://fedlex.data.admin.ch/eli/oc/1993/1770_1770_1770), [1995 978](https://fedlex.data.admin.ch/eli/oc/1995/978_978_978)[4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Anhang Ziff. 2 [4362](https://fedlex.data.admin.ch/eli/oc/1995/4362_4362_4362)Art. 1 [5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)Anhang Ziff. 1, [1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546)Anhang Ziff. 1 [1486](https://fedlex.data.admin.ch/eli/oc/1996/1486_1486_1486)[1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)Anhang Ziff. 1]
+[^63-1]: [[AS 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114); [1983 170](https://fedlex.data.admin.ch/eli/oc/1983/170_170_170),[931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931)Art. 59 Ziff. 2; [1985 699](https://fedlex.data.admin.ch/eli/oc/1985/699_699_699); [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)Ziff. II 2, [808](https://fedlex.data.admin.ch/eli/oc/1987/808_808_808); [1989 2116](https://fedlex.data.admin.ch/eli/oc/1989/2116_2116_2116); [1990 3](https://fedlex.data.admin.ch/eli/oc/1990/3_3_3)Art. 1, [1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530)Ziff. II 1, [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 1; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. I; [1992 2](https://fedlex.data.admin.ch/eli/oc/1992/2_2_2)Art. 1, [288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 2, [510](https://fedlex.data.admin.ch/eli/oc/1992/510_510_510), [581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581)Anhang Ziff. 2; [1993 1770](https://fedlex.data.admin.ch/eli/oc/1993/1770_1770_1770); [1995 978](https://fedlex.data.admin.ch/eli/oc/1995/978_978_978), [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Anhang Ziff. 2, [4362](https://fedlex.data.admin.ch/eli/oc/1995/4362_4362_4362)Art. 1, [5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)Anhang Ziff. 1; [1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546)Anhang Ziff. 1, [1486](https://fedlex.data.admin.ch/eli/oc/1996/1486_1486_1486), [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)Anhang Ziff. 1]
 
 #### Art. 64
 

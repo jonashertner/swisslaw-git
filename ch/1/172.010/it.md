@@ -4,11 +4,11 @@ title: "Legge del 21 marzo 1997 sull'organizzazione del Governo e dell'Amministr
 short: LOGA
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022"
 language: it
-version: 2019-12-02
+version: 2023-09-01
 adopted: 1997-03-21
 in_force: 1997-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022/20191202/it/xml/fedlex-data-admin-ch-eli-cc-1997-2022_2022_2022-20191202-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2022_2022_2022/20191202/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1997-2022_2022_2022-20230901-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2022_2022_2022/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2022_2022_2022/20191202/it"
 
 (LOGA)
 
-del 21 marzo 1997 (Stato 2 dicembre 2019)
+del 21 marzo 1997 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -125,7 +125,7 @@ Non sono considerati di portata limitata segnatamente i trattati internazionali 
 - b. contengono disposizioni concernenti materie il cui disciplinamento è di esclusiva competenza dei Cantoni;
 - c. comportano spese uniche di oltre cinque milioni di franchi o spese ricorrenti di oltre due milioni di franchi all’anno.[^7a-9]
 
-[^7a-1]: Introdotto dal n. II 3 dell’all. alla L del 13 dic. 2002 sul Parlamento, in vigore dal 1° dic. 2003 ([RU 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510); [FF 2001 3097](https://fedlex.data.admin.ch/eli/fga/2001/639)4867).
+[^7a-1]: Introdotto dall’all. n. II 3 della L del 13 dic. 2002 sul Parlamento, in vigore dal 1° dic. 2003 ([RU 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510); [FF 2001 3097](https://fedlex.data.admin.ch/eli/fga/2001/639)4867).
 [^7a-2]: Nuovo testo giusta il n. I 2 della LF del 21 giu. 2019 sulle competenze di concludere, modificare e denunciare trattati internazionali, in vigore dal 2 dic. 2019 ([RU 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [FF 2018 2929](https://fedlex.data.admin.ch/eli/fga/2018/1344)[4491](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
 [^7a-3]: Nuovo testo giusta il n. I 2 della LF del 21 giu. 2019 sulle competenze di concludere, modificare e denunciare trattati internazionali, in vigore dal 2 dic. 2019 ([RU 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [FF 2018 2929](https://fedlex.data.admin.ch/eli/fga/2018/1344)[4491](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
 [^7a-4]: Introdotto dal n. I 2 della LF della LF del 21 giu. 2019 sulle competenze di concludere, modificare e denunciare trattati internazionali, in vigore dal 2 dic. 2019 ([RU 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [FF 2018 2929](https://fedlex.data.admin.ch/eli/fga/2018/1344)[4491](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
@@ -547,7 +547,7 @@ Il cancelliere della Confederazione:
 <sup>2</sup> Cura inoltre il coordinamento con l’amministrazione del Parlamento. Consulta in particolare il segretario generale dell’Assemblea federale allorquando affari del Consiglio federale o di servizi ad esso subordinati concernono direttamente la procedura e l’organizzazione della stessa o dei servizi del Parlamento. Può partecipare con voto consultivo alle sedute della Delegazione amministrativa dell’Assemblea federale.[^33-2]
 
 [^33-1]: Introdotto dal n. I della LF del 28 set. 2012, in vigore dal 1° gen. 2015 ([RU 2013 4549](https://fedlex.data.admin.ch/eli/oc/2013/810); [FF 2002 1895](https://fedlex.data.admin.ch/eli/fga/2002/286), [2010 6895](https://fedlex.data.admin.ch/eli/fga/2010/1440)).
-[^33-2]: Introdotto dal n. 3 dell’all. della LF dell’8 ott. 1999, in vigore dal 1° gen. 2000 ([RU 2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54); FF **1999** 4178 [4961](https://fedlex.data.admin.ch/eli/fga/1999/1_5979_5299_4961)).
+[^33-2]: Introdotto dall’all. n. 3 della LF dell’8 ott. 1999, in vigore dal 1° gen. 2000 ([RU 2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54); FF **1999** 4178 [4961](https://fedlex.data.admin.ch/eli/fga/1999/1_5979_5299_4961)).
 
 #### Art. 33a
 
@@ -638,7 +638,7 @@ I dipartimenti gestiscono mediante convenzioni annuali sulle prestazioni:
 
 <sup>5</sup> Le unità amministrative presentano annualmente un rapporto sul conseguimento degli obiettivi. All’inizio di ogni programma di legislatura controllano la struttura e gli obiettivi dei loro gruppi di prestazioni.
 
-[^38a-1]: Introdotto dal n. 2 dell’all. alla LF del 26 set. 2014 (Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 711](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+[^38a-1]: Introdotto dall’all. n. 2 della LF del 26 set. 2014 (Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 711](https://fedlex.data.admin.ch/eli/fga/2014/134)).
 
 #### Art. 39
 
@@ -694,7 +694,7 @@ Il capo di dipartimento adotta, d’intesa con la Cancelleria federale, le misur
 
 [^44-1]
 
-[^44-1]: Abrogato dal n. 2 dell’all. alla LF del 26 set. 2014 (Nuovo modello di gestione dell’Amministrazione federale), con effetto dal 1° gen. 2016 ([RU 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 711](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+[^44-1]: Abrogato dall’all. n. 2 della LF del 26 set. 2014 (Nuovo modello di gestione dell’Amministrazione federale), con effetto dal 1° gen. 2016 ([RU 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 711](https://fedlex.data.admin.ch/eli/fga/2014/134)).
 
 #### Art. 45
 
@@ -702,7 +702,7 @@ Il capo di dipartimento adotta, d’intesa con la Cancelleria federale, le misur
 
 I direttori dei gruppi e degli uffici sono responsabili di fronte ai loro superiori della direzione delle unità amministrative loro subordinate e dell’esecuzione dei compiti loro assegnati.
 
-### Sezione 4: Segretari di Stato****
+### Sezione 4: Segretari di Stato
 
 [^tit3-chap2-sec4-1]
 
@@ -726,7 +726,7 @@ Il Consiglio federale può conferire temporaneamente il titolo di «segretario d
 
 [^46-1]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° gen. 2014 ([RU 2013 4549](https://fedlex.data.admin.ch/eli/oc/2013/810); [FF 2002 1895](https://fedlex.data.admin.ch/eli/fga/2002/286), [2010 6895](https://fedlex.data.admin.ch/eli/fga/2010/1440)).
 
-### Capitolo 3:**** Emolumenti
+### Capitolo 3: Emolumenti
 
 [^tit3-chap3-1]
 
@@ -770,7 +770,7 @@ Esso stabilisce le modalità di riscossione, in particolare:
 <sup>6</sup> Gli affari del Consiglio federale spettano di diritto al dipartimento competente per materia, in quanto le relative decisioni siano impugnabili con ricorso al Tribunale amministrativo federale. Rimane salvo il ricorso contro le decisioni del Consiglio federale di cui all’articolo 33 lettere a e b della legge del 17 giugno 2005[^47-1] sul Tribunale amministrativo federale.[^47-2]
 
 [^47-1]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^47-2]: Nuovo testo giusta il n. 9 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^47-2]: Nuovo testo giusta l’all n. 9 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 48
 
@@ -788,7 +788,7 @@ Esso stabilisce le modalità di riscossione, in particolare:
 
 <sup>2</sup> Riferisce annualmente all’Assemblea federale sui trattati conclusi, modificati e denunciati da esso stesso, dai dipartimenti, dai gruppi o dagli uffici federali. Soltanto la Delegazione delle Commissioni della gestione viene informata dei trattati confidenziali o segreti.
 
-[^48a-1]: Introdotto dal n. II 3 dell’all. alla L del 13 dic. 2002 sul Parlamento ([RU 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510); [FF 2001 3097](https://fedlex.data.admin.ch/eli/fga/2001/639)4867). Nuovo testo giusta il n. I 2 della LF del 21 giu. 2019 sulle competenze di concludere, modificare e denunciare trattati internazionali, in vigore dal 2 dic. 2019 ([RU 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [FF 2018 2929](https://fedlex.data.admin.ch/eli/fga/2018/1344)[4491](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
+[^48a-1]: Introdotto dall’all. n. II 3 della L del 13 dic. 2002 sul Parlamento ([RU 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510); [FF 2001 3097](https://fedlex.data.admin.ch/eli/fga/2001/639)4867). Nuovo testo giusta il n. I 2 della LF del 21 giu. 2019 sulle competenze di concludere, modificare e denunciare trattati internazionali, in vigore dal 2 dic. 2019 ([RU 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [FF 2018 2929](https://fedlex.data.admin.ch/eli/fga/2018/1344)[4491](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
 
 #### Art. 49
 
@@ -825,11 +825,11 @@ Il capo di dipartimento può conferire alle seguenti persone il diritto di firma
 
 <sup>3</sup> I direttori dei gruppi e degli uffici intrattengono relazioni dirette, nei limiti della loro competenza, con altre autorità e servizi federali, cantonali e comunali, nonché con privati.
 
-### Capitolo 2: Pianificazione e coordinamento****
+### Capitolo 2: Pianificazione e coordinamento
 
 [^tit4-chap2-1]
 
-[^tit4-chap2-1]: Nuovo testo giusta il n. I dell’all. alla LF del 20 mar. 2008 (Riordinamento delle commissioni extraparlamentari), in vigore dal 1° gen. 2009 ([RU 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818); [FF 2007 6027](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
+[^tit4-chap2-1]: Nuovo testo giusta l’all. n. I della LF del 20 mar. 2008 (Riordinamento delle commissioni extraparlamentari), in vigore dal 1° gen. 2009 ([RU 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818); [FF 2007 6027](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
 
 #### Art. 51
 
@@ -855,7 +855,7 @@ Il Consiglio federale e le sue delegazioni, nonché la Cancelleria federale, ade
 
 <sup>4</sup> Il segretario generale dell’Assemblea federale può partecipare con voto consultivo alla Conferenza dei segretari generali.[^53-1]
 
-[^53-1]: Introdotto dal n. 3 dell’all. della LF dell’8 ott. 1999, in vigore dal 1° gen. 2000 ([RU 2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54); FF **1999** 4178 [4961](https://fedlex.data.admin.ch/eli/fga/1999/1_5979_5299_4961)).
+[^53-1]: Introdotto dall’all. n. 3 della LF dell’8 ott. 1999, in vigore dal 1° gen. 2000 ([RU 2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54); FF **1999** 4178 [4961](https://fedlex.data.admin.ch/eli/fga/1999/1_5979_5299_4961)).
 
 #### Art. 54
 
@@ -868,7 +868,7 @@ Il Consiglio federale e le sue delegazioni, nonché la Cancelleria federale, ade
 <sup>3</sup> È presieduta dal portavoce del Consiglio federale.[^54-3]
 
 [^54-1]: Nuovo testo giusta il n. I della LF del 24 mar. 2000, in vigore dal 1º set. 2000 ([RU 2000 2095](https://fedlex.data.admin.ch/eli/oc/2000/318); [FF 1997 III 1291](https://fedlex.data.admin.ch/eli/fga/1997/3_1568_1401_1291), **1999** 2180).
-[^54-2]: Nuovo testo giusta il n. 3 dell’all. della LF dell’8 ott. 1999, in vigore dal 1° gen. 2000 ([RU 2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54); FF **1999** 4178 [4961](https://fedlex.data.admin.ch/eli/fga/1999/1_5979_5299_4961)).
+[^54-2]: Nuovo testo giusta l’all. n. 3 della LF dell’8 ott. 1999, in vigore dal 1° gen. 2000 ([RU 2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54); FF **1999** 4178 [4961](https://fedlex.data.admin.ch/eli/fga/1999/1_5979_5299_4961)).
 [^54-3]: Nuovo testo giusta il n. I della LF del 24 mar. 2000, in vigore dal 1º set. 2000 ([RU 2000 2095](https://fedlex.data.admin.ch/eli/oc/2000/318); [FF 1997 III 1291](https://fedlex.data.admin.ch/eli/fga/1997/3_1568_1401_1291), **1999** 2180).
 
 #### Art. 55
@@ -883,17 +883,17 @@ Il Consiglio federale e i dipartimenti possono istituire altre conferenze o unit
 
 Il Consiglio federale può istituire gruppi di lavoro incaricati di importanti compiti interdipartimentali di durata limitata.
 
-### Capitolo 3: Consulenza esterna e commissioni extraparlamentari****
+### Capitolo 3: Consulenza esterna e commissioni extraparlamentari
 
 [^tit4-chap3-1]
 
-[^tit4-chap3-1]: Nuovo testo giusta il n. I dell’all. alla LF del 20 mar. 2008 (Riordinamento delle commissioni extraparlamentari), in vigore dal 1° gen. 2009 ([RU 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818); [FF 2007 6027](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
+[^tit4-chap3-1]: Nuovo testo giusta l’all. n. I della LF del 20 mar. 2008 (Riordinamento delle commissioni extraparlamentari), in vigore dal 1° gen. 2009 ([RU 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818); [FF 2007 6027](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
 
-### Sezione 1: Consulenza esterna****
+### Sezione 1: Consulenza esterna
 
 [^tit4-chap3-sec1-1]
 
-[^tit4-chap3-sec1-1]: Introdotto dal n. I dell’all. alla LF del 20 mar. 2008 (Riordinamento delle commissioni extraparlamentari), in vigore dal 1° gen. 2009 ([RU 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818); [FF 2007 6027](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
+[^tit4-chap3-sec1-1]: Introdotto dall’all. n. I della LF del 20 mar. 2008 (Riordinamento delle commissioni extraparlamentari), in vigore dal 1° gen. 2009 ([RU 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818); [FF 2007 6027](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
 
 #### Art. 57
 
@@ -903,14 +903,14 @@ Il Consiglio federale può istituire gruppi di lavoro incaricati di importanti c
 
 <sup>2</sup> …[^57-2]
 
-[^57-1]: Abrogato dal n. I dell’all. alla LF del 20 mar. 2008 (Riordinamento delle commissioni extraparlamentari), con effetto dal 1° gen. 2009 ([RU 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818); [FF 2007 6027](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
-[^57-2]: Abrogato dal n. I dell’all. alla LF del 20 mar. 2008 (Riordinamento delle commissioni extraparlamentari), con effetto dal 1° gen. 2009 ([RU 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818); [FF 2007 6027](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
+[^57-1]: Abrogato dall’all. n. I della LF del 20 mar. 2008 (Riordinamento delle commissioni extraparlamentari), con effetto dal 1° gen. 2009 ([RU 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818); [FF 2007 6027](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
+[^57-2]: Abrogato dall’all. n. I della LF del 20 mar. 2008 (Riordinamento delle commissioni extraparlamentari), con effetto dal 1° gen. 2009 ([RU 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818); [FF 2007 6027](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
 
-### Sezione 2:**** Commissioni extraparlamentari
+### Sezione 2: Commissioni extraparlamentari
 
 [^tit4-chap3-sec2-1]
 
-[^tit4-chap3-sec2-1]: Introdotta dal n. I dell’all. alla LF del 20 mar. 2008 (Riordinamento delle commissioni extraparlamentari), in vigore dal 1° gen. 2009 ([RU 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818); [FF 2007 6027](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
+[^tit4-chap3-sec2-1]: Introdotta dall’all. n. I della LF del 20 mar. 2008 (Riordinamento delle commissioni extraparlamentari), in vigore dal 1° gen. 2009 ([RU 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818); [FF 2007 6027](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
 
 #### Art. 57a
 
@@ -976,65 +976,85 @@ La ragion d’essere, i compiti e la composizione delle commissioni extraparlame
 
 [^57g-1]: In vigore dal 1° gen. 2010 ([RU 2009 6135](https://fedlex.data.admin.ch/eli/oc/2009/750)).
 
-### Capitolo 4:**** Trattamento dei dati
+### Capitolo 4: Trattamento di dati personali e di dati concernenti persone giuridiche
 
-[^tit4-chap4-1]
+[^tit4-chap4-1][^tit4-chap4-2]
 
 [^tit4-chap4-1]: Originario cap. 3. Introdotto dal n. I della LF del 24 mar. 2000 concernente l’istituzione e l’adeguamento di basi legali per il trattamento di dati personali, in vigore dal 1° set. 2000 ([RU 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 7979](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
+[^tit4-chap4-2]: Nuovo testo giusta l’all. 1 n. II 13 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
-### Sezione 1: Documentazione della corrispondenza e degli affari****
+### Sezione 1: Sistemi di gestione degli affari
 
 [^tit4-chap4-sec1-1]
 
-[^tit4-chap4-sec1-1]: Introdotto n. I della LF del 1° ott. 2010 (Protezione dei dati derivanti dall’utilizzazione dell’infrastruttura elettronica), in vigore dal 1° apr. 2012 ([RU 2012 941](https://fedlex.data.admin.ch/eli/oc/2012/159); [FF 2009 7407](https://fedlex.data.admin.ch/eli/fga/2009/1469)).
+[^tit4-chap4-sec1-1]: Introdotta n. I della LF del 1° ott. 2010 (Protezione dei dati derivanti dall’utilizzazione dell’infrastruttura elettronica ([RU 2012 941](https://fedlex.data.admin.ch/eli/oc/2012/159); [FF 2009 7407](https://fedlex.data.admin.ch/eli/fga/2009/1469)). Nuovo testo giusta l’all. 1 n. II 13 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 57h
 
-[^57h-1]
+**Gestione dei sistemi**
+
+<sup>1</sup> Le unità dell’Amministrazione federale e i Servizi del Parlamento gestiscono sistemi elettronici di gestione degli affari per lo svolgimento dei loro processi operativi e per la gestione della corrispondenza e di altri documenti.
+
+<sup>2</sup> Se necessario nell’ambito dei processi operativi, possono concedere l’accesso ai propri sistemi di gestione degli affari ad altre autorità federali e a servizi esterni all’Amministrazione federale.
+
+#### Art. 57h<sup>bis</sup>
+
+**Trattamento di dati personali e di dati concernenti persone giuridiche**
 
 <sup>1</sup>
 
-Ogni organo federale conformemente alla legge federale del 19 giugno 1992[^57h-2] sulla protezione dei dati può gestire un sistema d’informazione e di documentazione per la registrazione, la gestione, l’indicizzazione e il controllo della corrispondenza e degli affari. Questo sistema può contenere dati personali degni di particolare protezione e profili della personalità, in quanto essi siano desumibili dalla corrispondenza o risultino dalla natura dell’affare. L’organo federale interessato può memorizzare dati personali soltanto allo scopo di:
+I dati personali, compresi quelli degni di particolare protezione ai sensi della legge federale del 25 settembre 2020[^57hbis-1] sulla protezione dei dati (LPD), e i dati concernenti persone giuridiche, compresi quelli degni di particolare protezione ai sensi dell’articolo 57*r* capoverso 2 della presente legge, possono essere trattati nei sistemi di gestione degli affari allo scopo di:
 
-- a. trattare i suoi affari;
-- b. organizzare lo svolgimento del lavoro;
-- c. constatare se tratta i dati riguardanti una determinata persona;
+- a. trattare affari;
+- b. organizzare i processi di lavoro;
+- c. accertare se sono trattati dati relativi a una determinata persona;
 - d. facilitare l’accesso alla documentazione.
 
-<sup>2</sup> Soltanto i collaboratori dell’organo federale interessato hanno accesso ai dati personali e soltanto in quanto tali dati siano necessari per adempiere i loro compiti.
+<sup>2</sup> L’accesso a dati personali, compresi quelli degni di particolare protezione ai sensi della LPD, e ai dati concernenti persone giuridiche, compresi quelli degni di particolare protezione ai sensi dell’articolo 57*r* capoverso 2 della presente legge, può essere concesso ad altre autorità federali e a servizi esterni all’Amministrazione federale, a condizione che esista la base legale necessaria per la comunicazione.
 
-<sup>3</sup> Il Consiglio federale emana disposizioni d’esecuzione sull’organizzazione e la gestione di questi sistemi d’informazione e di documentazione nonché sulla protezione dei dati personali ivi contenuti.
+<sup>3</sup> I sistemi di gestione degli affari possono contenere dati personali degni di particolare protezione ai sensi della LPD e dati concernenti persone giuridiche degni di particolare protezione ai sensi dell’articolo 57*r* capoverso 2 della presente legge, nella misura in cui siano desumibili dalla corrispondenza o risultino dalla natura di un affare o di un documento.
 
-[^57h-1]: Originario art. 57*a*.
-[^57h-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+<sup>4</sup> L’accesso a dati personali degni di particolare protezione ai sensi della LPD e ai dati concernenti persone giuridiche degni di particolare protezione ai sensi dell’articolo 57*r* capoverso 2 della presente legge può essere concesso soltanto alle persone che ne necessitano per adempiere i propri compiti.
 
-### Sezione 2:**** Trattamento di dati personali derivanti dall’utilizzazione dell’infrastruttura elettronica
+[^57hbis-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
-[^tit4-chap4-sec2-1]
+#### Art. 57h
+
+***<sup>t</sup>*<sup>er</sup>Disposizioni d’esecuzione**
+
+Il Consiglio federale emana le disposizioni d’esecuzione, in particolare sull’organizzazione e l’esercizio dei sistemi di gestione degli affari e sulla protezione dei dati personali e dei dati concernenti persone giuridiche ivi registrati.
+
+### Sezione 2: Trattamento di dati personali e di dati concernenti persone giuridiche derivanti dall’utilizzazione dell’infrastruttura elettronica
+
+[^tit4-chap4-sec2-1][^tit4-chap4-sec2-2]
 
 [^tit4-chap4-sec2-1]: Introdotta dal n. I della LF del 1° ott. 2010 (Protezione dei dati derivanti dall’utilizzazione dell’infrastruttura elettronica), in vigore dal 1° apr. 2012 ([RU 2012 941](https://fedlex.data.admin.ch/eli/oc/2012/159); [FF 2009 7407](https://fedlex.data.admin.ch/eli/fga/2009/1469)).
+[^tit4-chap4-sec2-2]: Nuovo testo giusta l’all. 1 n. II 13 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 57i
 
-**Rapporto con altre leggi federali**
+**Rapporto con altre leggi federali**[^57i-1]
 
-Le disposizioni della presente sezione non si applicano nel caso in cui il trattamento dei dati personali derivanti dall’utilizzazione dell’infrastruttura elettronica sia disciplinato in un’altra legge federale.
+Le disposizioni della presente sezione non si applicano nel caso in cui il trattamento dei dati personali o dei dati concernenti persone giuridiche derivanti dall’utilizzazione dell’infrastruttura elettronica sia disciplinato in un’altra legge federale.
+
+[^57i-1]: Nuovo testo giusta l’all. 1 n. II 13 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 57j
 
-**Principi**
+**Principi**[^57j-1]
 
-<sup>1</sup> Gli organi federali secondo la legge federale del 19 giugno 1992[^57j-1] sulla protezione dei dati non possono registrare e analizzare dati personali derivanti dall’utilizzazione della loro infrastruttura elettronica o dell’infrastruttura elettronica gestita su loro incarico, a meno che le finalità citate negli articoli 57*l*–57*o* lo richiedano.
+<sup>1</sup> Gli organi federali secondo la LPD[^57j-2] non possono registrare e analizzare dati personali o dati concernenti persone giuridiche derivanti dall’utilizzazione della loro infrastruttura elettronica o dell’infrastruttura elettronica gestita su loro incarico, salvo che le finalità citate negli articoli 57*l*–57*o* della presente legge lo richiedano.
 
-<sup>2</sup> Il trattamento dei dati secondo la presente sezione può comprendere anche dati degni di particolare protezione e profili della personalità.
+<sup>2</sup> Il trattamento dei dati secondo la presente sezione può comprendere anche dati personali degni di particolare protezione ai sensi della LPD e dati concernenti persone giuridiche degni di particolare protezione ai sensi dell’articolo 57*r* capoverso 2 della presente legge.
 
-[^57j-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^57j-1]: Nuovo testo giusta l’all. 1 n. II 13 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^57j-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 57k
 
 **Infrastruttura elettronica**
 
-L’infrastruttura elettronica comprende tutti gli impianti e gli apparecchi fissi o mobili utilizzati per registrare dati personali; essa comprende in particolare:
+L’infrastruttura elettronica comprende tutti gli impianti e gli apparecchi fissi o mobili utilizzati per registrare dati personali e dati concernenti persone giuridiche; essa comprende in particolare:[^57k-1]
 
 - a. impianti di elaborazione di dati, componenti di rete e programmi;
 - b. supporti di memoria;
@@ -1044,25 +1064,32 @@ L’infrastruttura elettronica comprende tutti gli impianti e gli apparecchi fis
 - f. sistemi di controllo degli accessi e dei locali;
 - g. sistemi di geolocalizzazione.
 
+[^57k-1]: Nuovo testo giusta l’all. 1 n. II 13 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+
 #### Art. 57l
 
-**Registrazione di dati personali**
+**Registrazione di dati personali e di dati concernenti persone giuridiche[^57l-1]**
 
-Gli organi federali possono registrare dati personali derivanti dall’utilizzazione dell’infrastruttura elettronica per le seguenti finalità:
+Gli organi federali possono registrare dati personali e dati concernenti persone giuridiche derivanti dall’utilizzazione dell’infrastruttura elettronica per le seguenti finalità:[^57l-2]
 
 - a. tutti i dati, compresi i contenuti della posta elettronica: per garantirne la salvaguardia (copie di riserva);
 - b.
 
-  i dati riguardanti l’utilizzazione dell’infrastruttura elettronica:
+  dati riguardanti l’utilizzazione dell’infrastruttura elettronica:[^57l-3]
 
   - 1\. per mantenere la sicurezza delle informazioni e dei servizi,
   - 2\. per assicurare la manutenzione tecnica dell’infrastruttura elettronica,
   - 3\. per controllare il rispetto dei regolamenti di utilizzazione,
-  - 4\. per risalire agli accessi a collezioni di dati,
+  - 4\.[^57l-4] per risalire agli accessi all’infrastruttura elettronica,
   - 5\. per registrare i costi derivanti dall’utilizzazione dell’infrastruttura elettronica;
 
 - c. i dati concernenti i tempi di lavoro del personale: per la gestione del tempo di lavoro;
 - d. i dati concernenti l’ingresso o l’uscita dagli edifici e locali degli organi federali e la permanenza al loro interno: per garantire la sicurezza.
+
+[^57l-1]: Nuovo testo giusta l’all. 1 n. II 13 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^57l-2]: Nuovo testo giusta l’all. 1 n. II 13 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^57l-3]: Nuovo testo giusta l’all. 1 n. II 13 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^57l-4]: Nuovo testo giusta l’all. 1 n. II 13 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 57m
 
@@ -1123,6 +1150,65 @@ Il Consiglio federale disciplina in particolare:
 
 <sup>3</sup> Sempreché un’ordinanza dell’Assemblea federale non disponga altrimenti, le presenti disposizioni d’esecuzione si applicano ai dati concernenti membri dell’Assemblea federale o il personale dei Servizi del Parlamento.
 
+### Sezione 3: Trattamento di dati concernenti persone giuridiche
+
+[^tit4-chap4-sec3-1]
+
+[^tit4-chap4-sec3-1]: Introdotta dall’all. 1 n. II 13 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+
+#### Art. 57r
+
+**Trattamento di dati concernenti persone giuridiche**
+
+<sup>1</sup> Gli organi federali possono trattare dati concernenti persone giuridiche, compresi dati degni di particolare protezione, se lo esige l’adempimento di loro compiti disciplinati in una legge in senso formale.
+
+<sup>2</sup>
+
+I dati concernenti persone giuridiche degni di particolare protezione sono:
+
+- a. i dati relativi a perseguimenti e sanzioni di natura amministrativa e penale;
+- b. i dati relativi a segreti professionali, d’affari o di fabbricazione.
+
+#### Art. 57s
+
+**Comunicazione di dati concernenti persone giuridiche**
+
+<sup>1</sup> Gli organi federali possono comunicare dati concernenti persone giuridiche soltanto se lo prevede una base legale.
+
+<sup>2</sup> Possono comunicare dati concernenti persone giuridiche degni di particolare protezione soltanto se lo prevede una legge in senso formale.
+
+<sup>3</sup>
+
+In deroga ai capoversi 1 e 2, gli organi federali possono, in singoli casi, comunicare eccezionalmente dati concernenti persone giuridiche se:
+
+- a. la comunicazione dei dati è indispensabile affinché l’organo federale o il destinatario possa adempiere un compito definito dalla legge;
+- b. la persona giuridica interessata ha dato il suo consenso; o
+- c. il destinatario rende verosimile che la persona giuridica interessata rifiuta di dare il proprio consenso, oppure si oppone alla comunicazione, al solo scopo di impedirgli l’attuazione di pretese giuridiche o la difesa di altri interessi degni di protezione; alla persona giuridica interessata deve essere previamente concessa la possibilità di pronunciarsi, salvo che ciò sia impossibile o richieda un onere sproporzionato.
+
+<sup>4</sup>
+
+Nel quadro dell’informazione del pubblico, gli organi federali possono inoltre comunicare dati concernenti persone giuridiche d’ufficio o in virtù della legge del 17 dicembre 2004[^57s-1] sulla trasparenza se:
+
+- a. i dati sono in rapporto con l’adempimento di compiti pubblici; e
+- b. sussiste un interesse pubblico preponderante alla pubblicazione delle informazioni.
+
+<sup>5</sup> Gli organi federali possono rendere accessibili a chiunque dati concernenti persone giuridiche mediante servizi di informazione e comunicazione automatizzati se una base legale prevede la pubblicazione di tali dati oppure se comunicano dati in virtù del capoverso 4. Se non sussiste più l’interesse pubblico a renderli accessibili a chiunque, i dati sono cancellati dal servizio di informazione e comunicazione automatizzato.
+
+<sup>6</sup>
+
+Gli organi federali rifiutano la comunicazione, la limitano o la vincolano a oneri, se lo esige:
+
+- a. un importante interesse pubblico o un interesse manifestamente degno di protezione della persona giuridica interessata; o
+- b. un obbligo legale di serbare il segreto o una disposizione speciale concernente la protezione dei dati concernenti persone giuridiche.
+
+[^57s-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+
+#### Art. 57t
+
+**Diritti delle persone giuridiche**
+
+I diritti delle persone giuridiche interessate sono retti dal diritto procedurale applicabile.
+
 ## Titolo quinto: Disposizioni diverse e finali
 
 ### Capitolo 1: Statuto giuridico
@@ -1165,15 +1251,15 @@ Non possono essere simultaneamente membri del Consiglio federale:
 
 <sup>2</sup> Questa regola, applicata per analogia, vale anche tra il cancelliere della Confederazione e i membri del Consiglio federale.
 
-[^61-1]: Nuovo testo giusta il n. 4 dell’all. alla L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^61-1]: Nuovo testo giusta l’all. n. 4 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
 #### Art. 61a
 
 [^61a-1]
 
-[^61a-1]: Introdotto dal n. II 3 dell’all. alla L del 13 dic. 2002 sul Parlamento ([RU 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510); [FF 2001 3097](https://fedlex.data.admin.ch/eli/fga/2001/639)4867). Abrogato dal n. 2 dell’all. alla LF del 17 giu. 2011 (Richieste di soppressione dell’immunità), con effetto dal 5 dic. 2011 ([RU 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6497](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6537](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^61a-1]: Introdotto dall’all. n. II 3 della L del 13 dic. 2002 sul Parlamento ([RU 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510); [FF 2001 3097](https://fedlex.data.admin.ch/eli/fga/2001/639)4867). Abrogato dall’all. n. 2 della LF del 17 giu. 2011 (Richieste di soppressione dell’immunità), con effetto dal 5 dic. 2011 ([RU 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6497](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6537](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
-### Capitolo 2: Approvazione di atti normativi cantonali****
+### Capitolo 2: Approvazione di atti normativi cantonali
 
 [^tit5-chap2-1]
 
@@ -1191,7 +1277,7 @@ Non possono essere simultaneamente membri del Consiglio federale:
 
 [^61b-1]: Originario art. 62, poi art 61*a*. Nuovo testo giusta il n. I della LF del 7 ott. 2005, in vigore dal 1° giu. 2006 ([RU 2006 1265](https://fedlex.data.admin.ch/eli/oc/2006/224); [FF 2004 6299](https://fedlex.data.admin.ch/eli/fga/2004/1239)).
 
-### Capitolo 3: Informazione sui trattati intercantonali e sui trattati dei Cantoni con l’estero****
+### Capitolo 3: Informazione sui trattati intercantonali e sui trattati dei Cantoni con l’estero
 
 [^tit5-chap3-1]
 
@@ -1226,7 +1312,7 @@ Sono eccettuati i trattati che:
 
 [^62-1]: Introdotto dal n. I della LF dell’8 ott. 1990 ([RU 2000 289](https://fedlex.data.admin.ch/eli/oc/2000/56); [FF 1999 6784](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)). Nuovo testo giusta il n. I della LF del 7 ott. 2005, in vigore dal 1° giu. 2006 ([RU 2006 1265](https://fedlex.data.admin.ch/eli/oc/2006/224); [FF 2004 6299](https://fedlex.data.admin.ch/eli/fga/2004/1239)).
 
-### Capitolo 4:**** Accentramento delle procedure decisionali
+### Capitolo 4: Accentramento delle procedure decisionali
 
 [^tit5-chap4-1]
 
@@ -1264,11 +1350,11 @@ Sono eccettuati i trattati che:
 
 <sup>2</sup> Se uno di questi termini non può essere rispettato, l’autorità direttiva informa il richiedente indicandogli i motivi e il termine entro il quale la decisione sarà presa.
 
-### Capitolo 5:**** Esenzione fiscale e protezione della proprietà della Confederazione
+### Capitolo 5: Esenzione fiscale e protezione della proprietà della Confederazione
 
 [^tit5-chap5-1]
 
-[^tit5-chap5-1]: Originario Cap. 2<sup>ter</sup>. Introdotto dal n. II 3 dell’all. alla L del 13 dic. 2002 sul Parlamento, in vigore dal 1° dic. 2003 ([RU 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510); [FF 2001 3097](https://fedlex.data.admin.ch/eli/fga/2001/639)4867).
+[^tit5-chap5-1]: Originario Cap. 2<sup>ter</sup>. Introdotto dall’all. n. II 3 della L del 13 dic. 2002 sul Parlamento, in vigore dal 1° dic. 2003 ([RU 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510); [FF 2001 3097](https://fedlex.data.admin.ch/eli/fga/2001/639)4867).
 
 #### Art. 62d
 
@@ -1284,17 +1370,17 @@ La Confederazione nonché i suoi istituti, aziende e fondazioni dipendenti sono 
 
 <sup>2</sup> Le norme cantonali e comunali sugli obblighi di assicurazione non si applicano alla Confederazione.
 
-### Capitolo 6:**** Diritto di polizia
+### Capitolo 6: Diritto di polizia
 
 [^tit5-chap6-1]
 
-[^tit5-chap6-1]: Originario Cap. 2<sup>quater</sup>. Introdotto dal n. II 3 dell’all. alla L del 13 dic. 2002 sul Parlamento, in vigore dal 1° dic. 2003 ([RU 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510); [FF 2001 3097](https://fedlex.data.admin.ch/eli/fga/2001/639)4867).
+[^tit5-chap6-1]: Originario Cap. 2<sup>quater</sup>. Introdotto dall’all. n. II 3 della L del 13 dic. 2002 sul Parlamento, in vigore dal 1° dic. 2003 ([RU 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510); [FF 2001 3097](https://fedlex.data.admin.ch/eli/fga/2001/639)4867).
 
 #### Art. 62f
 
 Il diritto di polizia negli edifici federali è esercitato dalla Confederazione.
 
-### Capitolo 7:**** Disposizioni finali
+### Capitolo 7: Disposizioni finali
 
 [^tit5-chap7-1]
 
@@ -1306,7 +1392,7 @@ Il diritto di polizia negli edifici federali è esercitato dalla Confederazione.
 
 La legge federale del 19 settembre 1978[^63-1] sull’organizzazione e la gestione del Consiglio federale e dell’Amministrazione federale è abrogata.
 
-[^63-1]: [[RU 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114), [1983 170](https://fedlex.data.admin.ch/eli/oc/1983/170_170_170)[931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931)art. 59 n. 2, [1985 699](https://fedlex.data.admin.ch/eli/oc/1985/699_699_699), [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)n. II 2 [808](https://fedlex.data.admin.ch/eli/oc/1987/808_808_808), [1989 2116](https://fedlex.data.admin.ch/eli/oc/1989/2116_2116_2116), [1990 3](https://fedlex.data.admin.ch/eli/oc/1990/3_3_3)art. 1 [1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530)n. II 1 [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 1, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. I, [1992 2](https://fedlex.data.admin.ch/eli/oc/1992/2_2_2)art. 1288 all. n. 2 510, **1993** 1770, **1995** 978 4093all. n. 2 4362 art. 1 5050 all. n. 1, **1996** 546all. n. 1 1486 1498 all. n. 1, **1997** 2187 all. n. 2]
+[^63-1]: [[RU 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114); [1983 170](https://fedlex.data.admin.ch/eli/oc/1983/170_170_170), [931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931)art. 59 n. 2; [1985 699](https://fedlex.data.admin.ch/eli/oc/1985/699_699_699); [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)n. II 2, [808](https://fedlex.data.admin.ch/eli/oc/1987/808_808_808); [1989 2116](https://fedlex.data.admin.ch/eli/oc/1989/2116_2116_2116); [1990 3](https://fedlex.data.admin.ch/eli/oc/1990/3_3_3)art. 1, [1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530)n. II 1, [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 1; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. I; [1992 2](https://fedlex.data.admin.ch/eli/oc/1992/2_2_2)art. 1,288 all. n. 2, 510; **1993** 1770; **1995** 978, 4093all. n. 2, 4362 art. 1, 5050 all. n. 1; **1996** 546all. n. 1, 1486, 1498 all. n. 1; **1997** 2187 all. n. 2]
 
 #### Art. 64
 

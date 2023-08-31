@@ -4,11 +4,11 @@ title: "Lescha dals 21 da mars 1997 davart l'organisaziun da la regenza e da l'a
 short: LORA
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022"
 language: rm
-version: 2019-12-02
+version: 2023-09-01
 adopted: 1997-03-21
 in_force: 1997-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022/20191202/rm/xml/fedlex-data-admin-ch-eli-cc-1997-2022_2022_2022-20191202-rm-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2022_2022_2022/20191202/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-1997-2022_2022_2022-20230901-rm-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2022_2022_2022/20230901/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LORA)
 
-dals 21 da mars 1997 (versiun dals 2 da december 2019)
+dals 21 da mars 1997 (versiun dal 1. da settember 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -704,7 +704,7 @@ En accord cun la Chanzlia federala prenda il schef dal departament las mesiras a
 
 Ils directurs da las gruppas e dals uffizis èn responsabels envers lur superiurs per manar las unitads administrativas ch’èn subordinadas ad els sco er per ademplir las incumbensas ch’èn delegadas ad els.
 
-### 4. part Secretaris dal stadi****
+### 4. part Secretaris dal stadi
 
 [^tit3-chap2-sec4-1]
 
@@ -728,7 +728,7 @@ Il Cussegl federal po surdar temporarmain il titel «secretari dal stadi» a per
 
 [^46-1]: Versiun tenor la cifra I da la LF dals 28 da sett. 2012, en vigur dapi il 1. da schan. 2014 ([AS 2013 4549](https://fedlex.data.admin.ch/eli/oc/2013/810); [BBl 2002 2095](https://fedlex.data.admin.ch/eli/fga/2002/286), [2010 7811](https://fedlex.data.admin.ch/eli/fga/2010/1440)).
 
-### 3. chapitel**** Taxas
+### 3. chapitel Taxas
 
 [^tit3-chap3-1]
 
@@ -772,7 +772,7 @@ El regla l’incassament da taxas en il cas singul, en spezial:
 <sup>6</sup> Sch’i sa tracta da prender disposiziuns ch’èn suttamessas ad in recurs tar il Tribunal administrativ federal, vegnan affars dal Cussegl federal confidads tenor la lescha al departament ch’è cumpetent en chaussa. Il recurs cunter disposiziuns dal Cussegl federal tenor l’artitgel 33 literas a e b da la Lescha dals 17 da zercladur 2005[^47-1] davart il Tribunal administrativ federal resta resalvà.[^47-2]
 
 [^47-1]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^47-2]: Versiun tenor la cifra 9 da l’agiunta da la LF dals 17 da zer. 2005 davart il Tribunal administrativ federal, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^47-2]: Versiun tenor la cifra 9 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 48
 
@@ -827,7 +827,7 @@ Il schef dal departament po autorisar las suandantas persunas da suttascriver ts
 
 <sup>3</sup> En il rom da lur cumpetenzas tgiran ils directurs da las gruppas e dals uffizis relaziuns directas cun autras autoritads ed auters uffizis federals, chantunals e communals sco er cun persunas privatas.
 
-### 2. chapitel Planisaziun e coordinaziun****
+### 2. chapitel Planisaziun e coordinaziun
 
 [^tit4-chap2-1]
 
@@ -885,13 +885,13 @@ Il Cussegl federal ed ils departaments pon nominar auters organs da stab, da pla
 
 Il Cussegl federal po furmar organisaziuns da project che han l’intent d’elavurar incumbensas interdepartamentalas impurtantas da durada limitada.
 
-### 3. chapitel Cussegliaziun externa da cumissiuns extraparlamentaras****
+### 3. chapitel Cussegliaziun externa da cumissiuns extraparlamentaras
 
 [^tit4-chap3-1]
 
 [^tit4-chap3-1]: Versiun tenor la cifra I da la LF dals 20 da mars 2008 (reordinaziun da las cumissiuns extraparlamentaras), en vigur dapi il 1. da schan. 2009 ([AS 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818); [BBl 2007 6641](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
 
-### 1. part Cussegliaziun externa****
+### 1. part Cussegliaziun externa
 
 [^tit4-chap3-sec1-1]
 
@@ -908,7 +908,7 @@ Il Cussegl federal po furmar organisaziuns da project che han l’intent d’ela
 [^57-1]: Abolì tras la cifra I da la LF dals 20 da mars 2008 (reordinaziun da las cumissiuns extraparlamentaras), cun effect dapi il 1. da schan. 2009 ([AS 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818); [BBl 2007 6641](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
 [^57-2]: Abolì tras la cifra I da la LF dals 20 da mars 2008 (reordinaziun da las cumissiuns extraparlamentaras), cun effect dapi il 1. da schan. 2009 ([AS 2008 5941](https://fedlex.data.admin.ch/eli/oc/2008/818); [BBl 2007 6641](https://fedlex.data.admin.ch/eli/fga/2007/1016)).
 
-### 2. part**** Cumissiuns extraparlamentaras
+### 2. part Cumissiuns extraparlamentaras
 
 [^tit4-chap3-sec2-1]
 
@@ -978,65 +978,85 @@ La necessitad, las incumbensas e la cumposiziun da las cumissiuns extraparlament
 
 [^57g-1]: En vigur dapi il 1. da schan. 2010 ([AS 2009 6135](https://fedlex.data.admin.ch/eli/oc/2009/750)).
 
-### 4. chapitel**** Elavuraziun da datas
+### 4. chapitel Elavuraziun da datas persunalas e da datas da persunas giuridicas
 
-[^tit4-chap4-1]
+[^tit4-chap4-1][^tit4-chap4-2]
 
-[^tit4-chap4-1]: Oriundamain: terz chapitel. Integrà tras la cifra I da la LF dals 24 da mars 2000 davart la creaziun e l’adattaziun da basas legalas per elavurar datas da persunas, en vigur dapi il 1. da sett. 2000 ([AS 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [BBl 1999 9005](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
+[^tit4-chap4-1]: Oriundamain: 3. chapitel. Integrà tras la cifra I da la LF dals 24 da mars 2000 davart la creaziun e l’adattaziun da basas legalas per elavurar datas da persunas, en vigur dapi il 1. da sett. 2000 ([AS 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [BBl 1999 9005](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
+[^tit4-chap4-2]: Versiun tenor la cifra II 13 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
-### 1. part Documentaziun da la correspundenza e dals affars****
+### 1. part Sistems d’administraziun da las fatschentas
 
 [^tit4-chap4-sec1-1]
 
-[^tit4-chap4-sec1-1]: Integrà tras la cifra I da la LF dal 1. d’oct. 2010 (protecziun da datas en il rom da l’utilisaziun da l’infrastructura electronica), en vigur dapi il 1. d’avr. 2012 ([AS 2012 941](https://fedlex.data.admin.ch/eli/oc/2012/159); [BBl 2009 8513](https://fedlex.data.admin.ch/eli/fga/2009/1469)).
+[^tit4-chap4-sec1-1]: Integrà tras la cifra I da la LF dal 1. d’oct. 2010 (protecziun da datas en il rom da l’utilisaziun da l’infrastructura electronica) ([AS 2012 941](https://fedlex.data.admin.ch/eli/oc/2012/159); [BBl 2009 8513](https://fedlex.data.admin.ch/eli/fga/2009/1469)). Versiun tenor la cifra II 13 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 57h
 
-[^57h-1]
+**Gestiun da sistems d’administraziun da las fatschentas**
+
+<sup>1</sup> Per ils process da lur fatschentas sco er per l’administraziun da documents, inclusiv la correspundenza, mainan las unitads da l’administraziun federala ed ils Servetschs dal parlament sistems electronics d’administraziun da las fatschentas.
+
+<sup>2</sup> Sche quai è necessari en il rom dals process da las fatschentas, pon ellas ed els conceder ad autras autoritads federalas sco er a posts ordaifer l’administraziun federala l’access a lur agens sistems d’administraziun da las fatschentas.
+
+#### Art. 57h<sup>bis</sup>
+
+**Elavuraziun da datas persunalas e da datas da persunas giuridicas**
 
 <sup>1</sup>
 
-Per registrar, administrar, indexar e controllar la correspundenza ed ils affars po mintga organ federal tenor la Lescha federala dals 19 da zercladur 1992[^57h-2] davart la protecziun da datas manar in sistem d’infurmaziun e da documentaziun. Quest sistem po cuntegnair datas spezialmain degnas da vegnir protegidas e profils da la persunalitad, uschenavant che quels resultan da la correspundenza u da la natira da l’affar. L’organ federal respectiv po mo arcunar datas da persunas, sche quellas servan:
+Datas persunalas, inclusiv datas persunalas spezialmain sensiblas en il senn da la Lescha federala dals 25 da settember 2020[^57hbis-1] davart la protecziun da datas (LPD), sco er datas da persunas giuridicas, inclusiv datas spezialmain sensiblas en il senn da l’artitgel 57*r* alinea 2 da questa lescha, dastgan vegnir elavuradas en sistems d’administraziun da las fatschentas, sch’ellas servan:
 
-- a. ad elavurar ses affars;
-- b. ad organisar ils andaments da lavur;
-- c. a constatar, sch’el elavura datas davart ina tscherta persuna;
+- a. ad elavurar fatschentas;
+- b. ad organisar process da lavur;
+- c. a constatar, sch’i vegnan elavuradas datas davart ina tscherta persuna;
 - d. a facilitar l’access a la documentaziun.
 
-<sup>2</sup> Mo ils collavuraturs da l’organ federal respectiv han access a las datas da persunas, e quai mo, sch’els dovran las datas per ademplir lur incumbensa.
+<sup>2</sup> Ad autras autoritads federalas ed a posts ordaifer l’administraziun federala dastga vegnir concedì l’access a datas persunalas, inclusiv datas persunalas spezialmain sensiblas en il senn da la LPD, sco er a datas da persunas giuridicas, inclusiv datas spezialmain sensiblas da persunas giuridicas en il senn da l’artitgel 57*r* alinea 2 da questa lescha, sche la basa legala per la communicaziun è avant maun.
 
-<sup>3</sup> Il Cussegl federal decretescha disposiziuns executivas davart l’organisaziun e la gestiun da quests sistems d’infurmaziun e da documentaziun sco er davart la protecziun da las datas da persunas ch’èn cuntegnidas en quests sistems.
+<sup>3</sup> Ils sistems d’administraziun da las fatschentas pon cuntegnair datas persunalas spezialmain sensiblas en il senn da la LPD sco er datas spezialmain sensiblas da persunas giuridicas en il senn da l’artitgel 57*r* alinea 2 da questa lescha, uschenavant che questas datas resultan da la correspundenza ubain da la natira d’ina fatschenta u d’in document.
 
-[^57h-1]: Oriundamain: art. 57*a*.
-[^57h-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+<sup>4</sup> L’access a datas persunalas spezialmain sensiblas en il senn da la LPD sco er a datas spezialmain sensiblas da persunas giuridicas en il senn da l’artitgel 57*r* alinea 2 da questa lescha dastga vegnir concedì mo a persunas che dovran quest access per ademplir lur incumbensa.
 
-### 2. part**** Elavuraziun da datas da persunas tar l’utilisaziun da l’infrastructura electronica
+[^57hbis-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
-[^tit4-chap4-sec2-1]
+#### Art. 57h<sup>ter</sup>
+
+**Disposiziuns executivas**
+
+Il Cussegl federal decretescha las disposiziuns executivas, en spezial davart l’organisaziun e la gestiun dals sistems d’administraziun da las fatschentas sco er davart la protecziun da las datas persunalas e da las datas da persunas giuridicas ch’èn registradas en quests sistems.
+
+### 2. part Elavuraziun da datas persunalas e da datas da persunas giuridicas tar l’utilisaziun da l’infrastructura electronica
+
+[^tit4-chap4-sec2-1][^tit4-chap4-sec2-2]
 
 [^tit4-chap4-sec2-1]: Integrà tras la cifra I da la LF dal 1. d’oct. 2010 (protecziun da datas en il rom da l’utilisaziun da l’infrastructura electronica), en vigur dapi il 1. d’avr. 2012 ([AS 2012 941](https://fedlex.data.admin.ch/eli/oc/2012/159); [BBl 2009 8513](https://fedlex.data.admin.ch/eli/fga/2009/1469)).
+[^tit4-chap4-sec2-2]: Versiun tenor la cifra II 13 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 57i
 
-**Relaziun cun l’ulteriur dretg federal**
+**Relaziun cun l’ulteriur dretg federal**[^57i-1]
 
-Las prescripziuns da questa part na valan betg, sch’ina autra lescha federala regla l’elavuraziun da las datas da persunas che resultan tras l’utilisaziun da l’infrastructura electronica.
+Las prescripziuns da questa part na valan betg, sch’ina autra lescha federala regla l’elavuraziun da las datas persunalas e da las datas da persunas giuridicas che resultan tras l’utilisaziun da l’infrastructura electronica.
+
+[^57i-1]: Versiun tenor la cifra II 13 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 57j
 
-**Princips**
+**Princips**[^57j-1]
 
-<sup>1</sup> Ils organs federals tenor la Lescha federala dals 19 da zercladur 1992[^57j-1] davart la protecziun da datas na dastgan betg registrar ed evaluar datas da persunas che resultan tras l’utilisaziun da lur infrastructura electronica u da l’infrastructura electronica che vegn manada sin lur incarica, nun che quai saja necessari per ils intents numnads en ils artitgels 57*l*–57*o*.
+<sup>1</sup> Ils organs federals tenor la LPD[^57j-2] na dastgan betg registrar ed evaluar datas persunalas e datas da persunas giuridicas che resultan tras l’utilisaziun da lur infrastructura electronica u da l’infrastructura electronica manada sin lur incarica, nun che quai saja necessari per ils intents numnads en ils artitgels 57*l*–57*o* da questa lescha.
 
-<sup>2</sup> L’elavuraziun da datas tenor questa part po er cumpigliar datas da persunas spezialmain degnas da vegnir protegidas e profils da la persunalitad.
+<sup>2</sup> L’elavuraziun da datas tenor questa part po er cumpigliar datas persunalas spezialmain sensiblas en il senn da la LPD sco er datas spezialmain sensiblas da persunas giuridicas en il senn da l’artitgel 57*r* alinea 2 da questa lescha.
 
-[^57j-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^57j-1]: Versiun tenor la cifra II 13 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^57j-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 57k
 
 **Infrastructura electronica**
 
-L’infrastructura electronica cumpiglia tut ils indrizs ed apparats staziunars e mobils che pon registrar datas da persunas, en spezial:
+L’infrastructura electronica cumpiglia tut ils indrizs ed apparats staziunars u mobils che pon registrar datas persunalas e datas da persunas giuridicas, en spezial:[^57k-1]
 
 - a. indrizs d’elavuraziun da datas, cumponentas da rait e software;
 - b. arcuns da datas;
@@ -1046,11 +1066,13 @@ L’infrastructura electronica cumpiglia tut ils indrizs ed apparats staziunars 
 - f. sistems per controllar ils access ed ils locals;
 - g. sistems da geolocalisaziun.
 
+[^57k-1]: Versiun tenor la cifra II 13 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+
 #### Art. 57l
 
-**Registraziun da datas da persunas**
+**Registraziun da datas persunalas e da datas da persunas giuridicas[^57l-1]**
 
-Ils organs federals dastgan registrar per ils suandants intents las datas da persunas che resultan tras l’utilisaziun da l’infrastructura electronica:
+Ils organs federals dastgan registrar per ils suandants intents datas persunalas e datas da persunas giuridicas che resultan tras l’utilisaziun da l’infrastructura electronica:[^57l-2]
 
 - a. tut las datas, inclusiv il cuntegn da la posta electronica: per segirar quellas (copias da segirezza);
 - b.
@@ -1060,11 +1082,15 @@ Ils organs federals dastgan registrar per ils suandants intents las datas da per
   - 1\. per garantir la segirezza da las infurmaziuns e dals servetschs,
   - 2\. per segirar il mantegniment tecnic da l’infrastructura electronica,
   - 3\. per controllar ch’ils reglaments d’utilisaziun vegnian observads,
-  - 4\. per repersequitar l’access a collecziuns da datas,
+  - 4\.[^57l-3] per repersequitar l’access a l’infrastructura electronica,
   - 5\. per registrar ils custs che resultan tras l’utilisaziun da l’infrastructura electronica;
 
 - c. las datas davart las uras da lavur dal persunal: per administrar las uras da lavur;
 - d. las datas davart l’entrar u il bandunar edifizis e locals dals organs federals e davart la preschientscha en tals: per garantir la segirezza.
+
+[^57l-1]: Versiun tenor la cifra II 13 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^57l-2]: Versiun tenor la cifra II 13 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^57l-3]: Versiun tenor la cifra II 13 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 57m
 
@@ -1125,6 +1151,65 @@ Il Cussegl federal regla en spezial:
 
 <sup>3</sup> Questas disposiziuns executivas vegnan applitgadas per las datas dals commembers da l’Assamblea federala u dal persunal dals Servetschs dal parlament, nun ch’ina ordinaziun da l’Assamblea federala disponia insatge auter.
 
+### 3. part Elavuraziun da datas da persunas giuridicas
+
+[^tit4-chap4-sec3-1]
+
+[^tit4-chap4-sec3-1]: Integrà tras la cifra II 13 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+
+#### Art. 57r
+
+**Elavuraziun da datas da persunas giuridicas**
+
+<sup>1</sup> Ils organs federals dastgan elavurar datas da persunas giuridicas, inclusiv datas spezialmain sensiblas, sche l’adempliment da lur incumbensas pretenda quai e sche questas incumbensas èn circumscrittas en ina lescha en il senn formal.
+
+<sup>2</sup>
+
+Datas spezialmain sensiblas da persunas giuridicas èn:
+
+- a. datas davart persecuziuns e sancziuns administrativas e penalas;
+- b. datas davart secrets da professiun, da fatschenta e da fabricaziun.
+
+#### Art. 57s
+
+**Communicaziun da datas da persunas giuridicas**
+
+<sup>1</sup> Ils organs federals dastgan communitgar datas da persunas giuridicas, sch’ina basa legala prevesa quai.
+
+<sup>2</sup> Els dastgan mo communitgar datas spezialmain sensiblas da persunas giuridicas, sch’ina lescha en il senn formal prevesa quai.
+
+<sup>3</sup>
+
+En divergenza dals alineas 1 e 2 dastgan els communitgar datas da persunas giuridicas en il cas singul, sch’ina da las suandantas premissas è ademplida:
+
+- a. la communicaziun da las datas è indispensabla, per che l’organ federal u il retschavider possia ademplir ina incumbensa legala;
+- b. la persuna giuridica pertutgada ha dà ses consentiment a la communicaziun;
+- c. il retschavider fa valair vardaivlamain, che la persuna giuridica pertutgada refusia il consentiment u s’opponia cunter la communicaziun, per impedir ch’el possia cuntanscher pretensiuns giuridicas u defender auters interess degns da protecziun; la persuna giuridica pertutgada sto survegnir ordavant la pussaivladad da prender posiziun, nun che quai saja nunpussaivel u pretendia sforzs sproporziunads.
+
+<sup>4</sup>
+
+D’uffizi u sin basa da la Lescha da transparenza dals 17 da december 2004[^57s-1] dastgan ils organs federals ultra da quai communitgar datas da persunas giuridicas en il rom da l’infurmaziun uffiziala da la publicitad, sche:
+
+- a. las datas stattan en connex cun l’adempliment d’incumbensas publicas; e
+- b. igl exista in interess public predominant da communitgar las datas.
+
+<sup>5</sup> Cun agid da servetschs d’infurmaziun e da communicaziun automatisads dastgan ils organs federals render accessiblas datas da persunas giuridicas a tuts, sch’ina basa giuridica prevesa la publicaziun da questas datas u sche las datas vegnan communitgadas sin fundament da l’alinea 4. Sche l’interess public da render accessiblas las datas a tuts n’exista betg pli, vegnan las datas respectivas stizzadas or dal servetsch d’infurmaziun e da communicaziun automatisà.
+
+<sup>6</sup>
+
+Ils organs federals refusan la communicaziun, restrenschan ella u permettan ella sut cundiziuns, sche:
+
+- a. interess publics impurtants u interess evidentamain degns da protecziun da vart da la persuna giuridica pertutgada pretendan quai; u
+- b. obligaziuns legalas da mantegnair il secret u prescripziuns davart la protecziun da datas da persunas giuridicas pretendan quai.
+
+[^57s-1]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+
+#### Art. 57t
+
+**Dretgs da las persunas giuridicas**
+
+Il dretg processual applitgabel regla ils dretgs da las persunas giuridicas pertutgadas.
+
 ## 5. titel Disposiziuns singulas e finalas
 
 ### 1. chapitel Posiziun giuridica
@@ -1175,7 +1260,7 @@ Las suandantas persunas na pon betg esser il medem mument commembras dal Cussegl
 
 [^61a-1]: Integrà tras la cifra II 3 da l’agiunta da la Lescha dal parlament dals 13 da dec. 2002 ([AS 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510); [BBl 2001 3467](https://fedlex.data.admin.ch/eli/fga/2001/639)[5428](https://fedlex.data.admin.ch/eli/fga/2001/853)). Abolì tras la cifra 2 da l’agiunta da la LF dals 17 da zer. 2011 (dumondas d’abolir l’immunitad), cun effect dapi ils 5 da dec. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
-### 2. chapitel Approvaziun da decrets chantunals****
+### 2. chapitel Approvaziun da decrets chantunals
 
 [^tit5-chap2-1]
 
@@ -1193,7 +1278,7 @@ Las suandantas persunas na pon betg esser il medem mument commembras dal Cussegl
 
 [^61b-1]: Oriundamain: art. 62, alura art. 61*a*. Versiun tenor la cifra I da la LF dals 7 d’oct. 2005, en vigur dapi il 1. da zer. 2006 ([AS 2006 1265](https://fedlex.data.admin.ch/eli/oc/2006/224); [BBl 2004 7103](https://fedlex.data.admin.ch/eli/fga/2004/1239)).
 
-### 3. chapitel Infurmaziun davart contracts dals chantuns tranter els u cun l’exteriur****
+### 3. chapitel Infurmaziun davart contracts dals chantuns tranter els u cun l’exteriur
 
 [^tit5-chap3-1]
 
@@ -1228,11 +1313,11 @@ Betg suttamess a l’obligaziun d’infurmaziun n’èn contracts che:
 
 [^62-1]: Integrà tras la cifra I da la LF dals 8 d’oct. 1999 ([AS 2000 289](https://fedlex.data.admin.ch/eli/oc/2000/56); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)). Versiun tenor la cifra I da la LF dals 7 d’oct. 2005, en vigur dapi il 1. da zer. 2006 ([AS 2006 1265](https://fedlex.data.admin.ch/eli/oc/2006/224); [BBl 2004 7103](https://fedlex.data.admin.ch/eli/fga/2004/1239)).
 
-### 4. chapitel**** Procedura da decisiun concentrada
+### 4. chapitel Procedura da decisiun concentrada
 
 [^tit5-chap4-1]
 
-[^tit5-chap4-1]: Oriundamain: segund chapitel<sup>bis</sup>. Integrà tras la cifra I 1 da la LF dals 18 da zer. 1999 davart la coordinaziun e la simplificaziun da las proceduras da decisiun, en vigur dapi il 1. da schan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
+[^tit5-chap4-1]: Oriundamain: 2. chapitel<sup>bis</sup>. Integrà tras la cifra I 1 da la LF dals 18 da zer. 1999 davart la coordinaziun e la simplificaziun da las proceduras da decisiun, en vigur dapi il 1. da schan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 
 #### Art. 62a
 
@@ -1266,11 +1351,11 @@ Betg suttamess a l’obligaziun d’infurmaziun n’èn contracts che:
 
 <sup>2</sup> Sch’in da quests termins na po betg vegnir observà, infurmescha l’autoritad directiva il petent inditgond ils motivs sco er il termin entaifer il qual la decisiun po vegnir prendida.
 
-### 5. chapitel**** Liberaziun da taglia e protecziun da la proprietad da la Confederaziun
+### 5. chapitel Liberaziun da taglia e protecziun da la proprietad da la Confederaziun
 
 [^tit5-chap5-1]
 
-[^tit5-chap5-1]: Oriundamain: segund chapitel<sup>ter</sup>. Integrà tras la cifra II 3 da l’agiunta da la Lescha dal parlament dals 13 da dec. 2002, en vigur dapi il 1. da dec. 2003 ([AS 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510); [BBl 2001 3467](https://fedlex.data.admin.ch/eli/fga/2001/639)[5428](https://fedlex.data.admin.ch/eli/fga/2001/853)).
+[^tit5-chap5-1]: Oriundamain: 2. chapitel<sup>ter</sup>. Integrà tras la cifra II 3 da l’agiunta da la Lescha dal parlament dals 13 da dec. 2002, en vigur dapi il 1. da dec. 2003 ([AS 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510); [BBl 2001 3467](https://fedlex.data.admin.ch/eli/fga/2001/639)[5428](https://fedlex.data.admin.ch/eli/fga/2001/853)).
 
 #### Art. 62d
 
@@ -1286,21 +1371,21 @@ La Confederaziun sco er sias instituziuns, sias interpresas e sias fundaziuns de
 
 <sup>2</sup> Las prescripziuns dals chantuns e da las vischnancas davart obligaziuns da s’assicurar na valan betg per la Confederaziun.
 
-### 6. chapitel**** Dretg da domicil
+### 6. chapitel Dretg da domicil
 
 [^tit5-chap6-1]
 
-[^tit5-chap6-1]: Oriundamain: segund chapitel<sup>quater</sup>. Integrà tras la cifra II 3 da l’agiunta da la Lescha dal parlament dals 13 da dec. 2002, en vigur dapi il 1. da dec. 2003 ([AS 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510); [BBl 2001 3467](https://fedlex.data.admin.ch/eli/fga/2001/639)[5428](https://fedlex.data.admin.ch/eli/fga/2001/853)).
+[^tit5-chap6-1]: Oriundamain: 2. chapitel<sup>quater</sup>. Integrà tras la cifra II 3 da l’agiunta da la Lescha dal parlament dals 13 da dec. 2002, en vigur dapi il 1. da dec. 2003 ([AS 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510); [BBl 2001 3467](https://fedlex.data.admin.ch/eli/fga/2001/639)[5428](https://fedlex.data.admin.ch/eli/fga/2001/853)).
 
 #### Art. 62f
 
 En ses edifizis exequescha la Confederaziun sezza il dretg da domicil.
 
-### 7. chapitel**** Disposiziuns finalas
+### 7. chapitel Disposiziuns finalas
 
 [^tit5-chap7-1]
 
-[^tit5-chap7-1]: Oriundamain: terz chapitel.
+[^tit5-chap7-1]: Oriundamain: 3. chapitel.
 
 #### Art. 63
 
@@ -1308,7 +1393,7 @@ En ses edifizis exequescha la Confederaziun sezza il dretg da domicil.
 
 La Lescha federala dals 19 da sett. 1978[^63-1] davart l’organisaziun e la gestiun dal Cussegl federal e da l’administraziun federala vegn abolida.
 
-[^63-1]: [[AS 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114), [1983 170](https://fedlex.data.admin.ch/eli/oc/1983/170_170_170)[931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931)art. 59 cifra 2, [1985 699](https://fedlex.data.admin.ch/eli/oc/1985/699_699_699), [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)cifra II 2 [808](https://fedlex.data.admin.ch/eli/oc/1987/808_808_808), [1989 2116](https://fedlex.data.admin.ch/eli/oc/1989/2116_2116_2116), [1990 3](https://fedlex.data.admin.ch/eli/oc/1990/3_3_3)art. 1 [1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530)cifra II 1 [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 1, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)cifra I, [1992 2](https://fedlex.data.admin.ch/eli/oc/1992/2_2_2)art. 1 [288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)agiunta cifra 2 [510](https://fedlex.data.admin.ch/eli/oc/1992/510_510_510)[581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581)agiunta cifra 2, [1993 1770](https://fedlex.data.admin.ch/eli/oc/1993/1770_1770_1770), [1995 978](https://fedlex.data.admin.ch/eli/oc/1995/978_978_978)[4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)agiunta cifra 2 [4362](https://fedlex.data.admin.ch/eli/oc/1995/4362_4362_4362)art. 1 [5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)agiunta cifra 1, [1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546)agiunta cifra 1 [1486](https://fedlex.data.admin.ch/eli/oc/1996/1486_1486_1486)[1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)agiunta cifra 1]
+[^63-1]: [[AS 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114); [1983 170](https://fedlex.data.admin.ch/eli/oc/1983/170_170_170), [931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931)art. 59 cifra 2; [1985 699](https://fedlex.data.admin.ch/eli/oc/1985/699_699_699); [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)cifra II 2, [808](https://fedlex.data.admin.ch/eli/oc/1987/808_808_808); [1989 2116](https://fedlex.data.admin.ch/eli/oc/1989/2116_2116_2116); [1990 3](https://fedlex.data.admin.ch/eli/oc/1990/3_3_3)art. 1, [1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530)cifra II 1, [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 1; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)cifra I; [1992 2](https://fedlex.data.admin.ch/eli/oc/1992/2_2_2)art. 1, [288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)agiunta cifra 2, [510](https://fedlex.data.admin.ch/eli/oc/1992/510_510_510), [581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581)agiunta cifra 2; [1993 1770](https://fedlex.data.admin.ch/eli/oc/1993/1770_1770_1770); [1995 978](https://fedlex.data.admin.ch/eli/oc/1995/978_978_978), [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)agiunta cifra 2, [4362](https://fedlex.data.admin.ch/eli/oc/1995/4362_4362_4362)art. 1, [5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)agiunta cifra 1; [1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546)agiunta cifra 1, [1486](https://fedlex.data.admin.ch/eli/oc/1996/1486_1486_1486), [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)agiunta cifra 1]
 
 #### Art. 64
 

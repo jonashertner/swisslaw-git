@@ -4,11 +4,11 @@ title: Government and Administration Organisation Act of 21 March 1997 (GAOA)
 short: GAOA
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022"
 language: en
-version: 2019-12-02
+version: 2023-09-01
 adopted: 1997-03-21
 in_force: 1997-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022/20191202/en/xml/fedlex-data-admin-ch-eli-cc-1997-2022_2022_2022-20191202-en-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2022_2022_2022/20191202/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022/20230901/en/xml/fedlex-data-admin-ch-eli-cc-1997-2022_2022_2022-20230901-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2022_2022_2022/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (GAOA)
 
-of 21 March 1997 (Status as of 2 December 2019)
+of 21 March 1997 (Status as of 1 September 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -978,65 +978,85 @@ Every four years, when an extra-parliamentary commission is elected, the necessi
 
 [^57g-1]: In force since 1 Jan. 2010 ([AS 2009 6135](https://fedlex.data.admin.ch/eli/oc/2009/750)).
 
-### Chapter 4 Data Processing
+### Chapter 4 Processing Personal Data and Legal Entities’ data
 
-[^tit4-chap4-1]
+[^tit4-chap4-1][^tit4-chap4-2]
 
 [^tit4-chap4-1]: Originally Chapter 3. Inserted by No I of the FA of 24 March 2000 on the Creation and Amendment of Statutory Principles for the Processing of Personal Data, in force since 1 Sept. 2000 ([AS 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [BBl 1999 9005](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
+[^tit4-chap4-2]: Amended by Annex 1 No II 13 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
-### Section 1 Documenting Correspondence and Items of Business
+### Section 1 Records and Process Management Systems
 
 [^tit4-chap4-sec1-1]
 
-[^tit4-chap4-sec1-1]: Inserted by No I of the FA of 1 Oct. 2010 (Data Protection in the Use of Electronic Infrastructure), in force since 1 April 2012 ([AS 2012 941](https://fedlex.data.admin.ch/eli/oc/2012/159); [BBl 2009 8513](https://fedlex.data.admin.ch/eli/fga/2009/1469)).
+[^tit4-chap4-sec1-1]: Inserted by No I of the FA of 1 Oct. 2010 (Data Protection in the Use of Electronic Infrastructure) ([AS 2012 941](https://fedlex.data.admin.ch/eli/oc/2012/159); [BBl 2009 8513](https://fedlex.data.admin.ch/eli/fga/2009/1469)). Amended by Annex 1 No II 13 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 57h
 
-[^57h-1]
+**Operating records and process management systems**
+
+<sup>1</sup> The Federal Administration’s units and the Parliamentary Services shall operate electronic records and process management systems for their business processes and to manage documents, including correspondence.
+
+<sup>2</sup> Insofar as required within the business processes, they may grant federal authorities and bodies outside the Federal Administration access to their own records and process management systems.
+
+#### Art. 57h<sup>bis</sup>
+
+**Processing personal data and legal entities’ data**
 
 <sup>1</sup>
 
-Under the Federal Act of 19 June 1992[^57h-2] on Data Protection, any federal authority may run an information and documentation system to register, administer, index and monitor its correspondence and business. This system may contain data and personality profiles particularly worthy of protection, depending on the correspondence and type of business. The federal authority concerned may only save personal data if they serve to:
+Personal data, including sensitive personal data in terms of the Data Protection Act of 25 September 2020[^57hbis-1] (FADP), and legal entities’ data, including sensitive data in terms of Article 57*r* paragraph 2 of this Act, may be processed in records and process management systems, provided they serve:
 
-- a. process items of business;
-- b. organise operational processes;
-- c. determine whether it is processing the data of a particular person;
-- d. facilitate access to documentation.
+- a. to process items of business;
+- b. to organise operational processes;
+- c. to determine whether data on a specific person are being processed;
+- d. to facilitate access to documentation.
 
-<sup>2</sup> Only the employees of the federal body concerned have access to the personal data, and only in as far as they need it in order to carry out their tasks.
+<sup>2</sup> Other federal authorities and bodies outside the Federal Administration may be granted access to personal data, including sensitive personal data in terms of the FADP, and to legal entities’ data, including sensitive legal entities’ data in terms of Article 57*r* paragraph 2 of this Act, provided disclosure is permitted by law.
 
-<sup>3</sup> The Federal Council issues implementing provisions on the organisation and operation of this information and documentation system and on the protection of the personal data recorded in it.
+<sup>3</sup> Records and process management systems may contain sensitive personal data in terms of the FADP and sensitive legal entities’ data in terms of Article 57*r* paragraph 2 of this Act, provided the data results from the correspondence or from the nature of the business or the document.
 
-[^57h-1]: Originally Art. 57*a*.
-[^57h-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+<sup>4</sup> Access to sensitive personal data in terms of the FADP and to sensitive legal entities’ data in terms of Article 57*r* paragraph 2 of this Act may only be granted to persons who require access in order to fulfil their task.
 
-### Section 2 Processing Personal Data when Using Electronic Infrastructure
+[^57hbis-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
-[^tit4-chap4-sec2-1]
+#### Art. 57h<sup>ter</sup>
+
+**Implementing provisions**
+
+The Federal Council shall issue implementing provisions, in particular on the organisation and operation of the records and process management systems and on the protection of personal data and legal entities’ data.
+
+### Section 2 Processing Personal Data and Legal Entities’ Data when Using Electronic Infrastructure
+
+[^tit4-chap4-sec2-1][^tit4-chap4-sec2-2]
 
 [^tit4-chap4-sec2-1]: Inserted by No I of the FA of 1 Oct. 2010 (Data Protection in the Use of Electronic Infrastructure), in force since 1 April 2012 ([AS 2012 941](https://fedlex.data.admin.ch/eli/oc/2012/159); [BBl 2009 8513](https://fedlex.data.admin.ch/eli/fga/2009/1469)).
+[^tit4-chap4-sec2-2]: Amended by Annex 1 No II 13 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 57i
 
-**Relationship to other federal law**
+**Relationship to other federal law**[^57i-1]
 
-The regulations in this section do not apply if another federal act regulates the processing of personal data linked to the use of electronic infrastructure.
+The regulations in this section do not apply if another federal act regulates the processing of personal data and legal entities’ data linked to the use of electronic infrastructure.
+
+[^57i-1]: Amended by Annex 1 No II 13 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 57j
 
-**Principles**
+**Principles**[^57j-1]
 
-<sup>1</sup> Under the Federal Act of 19 June 1992[^57j-1] on Data Protection, federal bodies may not record and evaluate personal data linked to the use of their electronic infrastructure or any electronic infrastructure operated by them unless this is necessary for any of the purposes set out in Articles 57*l–*57*o*.
+<sup>1</sup> Under the FADP[^57j-2], federal bodies may not record and evaluate personal data and legal entities’ data linked to the use of their electronic infrastructure or to any electronic infrastructure operated by them unless this is necessary for one or more of the purposes set out in Articles 57*l–*57*o* of this Act.
 
-<sup>2</sup> Data processing as described in this section may also relate to personal data and personality profiles which are particularly worthy of protection.
+<sup>2</sup> Data processing as described in this Section may also involve personal data in terms of the FADP and sensitive legal entities’ data in terms of Article 57*r* paragraph 2 of this Act.
 
-[^57j-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^57j-1]: Amended by Annex 1 No II 13 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^57j-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 57k
 
 **Electronic infrastructure**
 
-Electronic infrastructure includes all stationary or mobile installations and devices capable of recording personal data; it includes in particular:
+Electronic infrastructure includes all stationary or mobile installations and devices capable of recording personal data and legal entities’ data; it includes in particular:[^57k-1]
 
 - a. data processing systems, network components and software;
 - b. data storage units;
@@ -1046,11 +1066,13 @@ Electronic infrastructure includes all stationary or mobile installations and de
 - f. access and video surveillance systems;
 - g. geopositioning systems.
 
+[^57k-1]: Amended by Annex 1 No II 13 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+
 #### Art. 57l
 
-**Recording personal data**
+**Recording personal data and legal entities’ data[^57l-1]**
 
-The federal bodies may record personal data associated with the use of electronic infrastructure for the following purposes:
+The federal bodies may record personal data and legal entities’ data associated with the use of electronic infrastructure for the following purposes:[^57l-2]
 
 - a. all data, including of the content of electronic correspondence: for back-up purposes;
 - b.
@@ -1061,10 +1083,15 @@ The federal bodies may record personal data associated with the use of electroni
   - 2\. to ensure that electronic infrastructure is maintained on a technical level,
   - 3\. to verify compliance with licensing regulations,
   - 4\. to trace access to data collections,
+  - 4\.[^57l-3] to trace access to the electronic infrastructure,
   - 5\. to record any costs arising from the use of electronic infrastructure;
 
 - c. data on staff working hours: to manage working hours;
 - d. data on persons entering, leaving and remaining on federal premises: for security purposes.
+
+[^57l-1]: Amended by Annex 1 No II 13 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^57l-2]: Amended by Annex 1 No II 13 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^57l-3]: Amended by Annex 1 No II 13 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 57m
 
@@ -1124,6 +1151,65 @@ The Federal Council regulates in particular:
 <sup>2</sup> Data may only be kept as long as is necessary.
 
 <sup>3</sup> Unless otherwise determined by an Ordinance issued by the Federal Assembly, these implementing provisions where appropriate apply to data relating to members of the Federal Assembly and the staff of the Parliamentary Services.
+
+### Section 3 Processing Legal Entities’ Data
+
+[^tit4-chap4-sec3-1]
+
+[^tit4-chap4-sec3-1]: Inserted by Annex 1 No II 13 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+
+#### Art. 57r
+
+**Processing legal entities’ data**
+
+<sup>1</sup> Federal bodies may process legal entities’ data, including sensitive data, provided this is required to fulfil their tasks as defined in a formal act of parliament.
+
+<sup>2</sup>
+
+Sensitive legal entities’ data are:
+
+- a. data relating to administrative and criminal prosecutions and sanctions;
+- b. data on professional, business and manufacturing secrets.
+
+#### Art. 57s
+
+**Disclosing legal entities’ data**
+
+<sup>1</sup> Federal bodies may disclose legal entities’ data if this is permitted by law.
+
+<sup>2</sup> They may only disclose sensitive legal entities’ data if a formal act of parliament so provides.
+
+<sup>3</sup>
+
+They may disclose legal entities’ data in an individual case in derogation from paragraphs 1 and 2 if any one of the following requirements is met:
+
+- a. The disclosure of data is essential for the federal body or for the recipient in order to fulfil a statutory task.
+- b. The legal entity concerned has consented to disclosure.
+- c. The recipient credibly demonstrates that the legal entity concerned refuses consent or objects to disclosure in order to prevent the recipient from enforcing legal claims or from safeguarding other legitimate interests; the legal entity concerned shall be given the opportunity to state its position in advance, unless this is impossible or requires disproportionate effort.
+
+<sup>4</sup>
+
+They may also disclose legal entities’ data when providing the public with official information or in accordance with the Freedom of Information Act of 17 December 2004[^57s-1], provided:
+
+- a. the data are connected with the fulfilment of public tasks; and
+- b. there is an overriding public interest in disclosure.
+
+<sup>5</sup> They may make legal entities’ data generally accessible using automated information and communications services if the publication of such data is permitted by law or if they disclose the data on the basis of paragraph 4. If there is no longer a public interest in making the data generally accessible, the data concerned shall be deleted from the automated information and communications service.
+
+<sup>6</sup>
+
+The federal bodies shall refuse to permit, or shall restrict or impose conditions on disclosure if:
+
+- a. essential public interests or the clearly legitimate interests of the legal entity concerned so require; or
+- b. statutory confidentiality duties or specific regulations on the protection of legal entities’ data so require.
+
+[^57s-1]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+
+#### Art. 57t
+
+**Rights of the legal entities**
+
+The applicable procedural law regulates the rights of the legal entities concerned.
 
 ## Title 5 Individual and Final Provisions
 
@@ -1308,7 +1394,7 @@ The Confederation exercises domiciliary rights in its buildings.
 
 The Federal Act of 19 September 1978[^63-1] on the Organisation and Management of the Federal Council and the Federal Administration is repealed.
 
-[^63-1]: [[AS 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114), [1983 170](https://fedlex.data.admin.ch/eli/oc/1983/170_170_170)[931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931)Art. 59 No 2, [1985 699](https://fedlex.data.admin.ch/eli/oc/1985/699_699_699), [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)No II 2 [808](https://fedlex.data.admin.ch/eli/oc/1987/808_808_808), [1989 2116](https://fedlex.data.admin.ch/eli/oc/1989/2116_2116_2116), [1990 3](https://fedlex.data.admin.ch/eli/oc/1990/3_3_3)Art. 1 [1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530)No II 1 [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 1, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)No I, [1992 2](https://fedlex.data.admin.ch/eli/oc/1992/2_2_2)Art. 1 [288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 2 [510](https://fedlex.data.admin.ch/eli/oc/1992/510_510_510)[581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581)Annex No 2, [1993 1770](https://fedlex.data.admin.ch/eli/oc/1993/1770_1770_1770), [1995 978](https://fedlex.data.admin.ch/eli/oc/1995/978_978_978)[4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Annex No 2 [4362](https://fedlex.data.admin.ch/eli/oc/1995/4362_4362_4362)Art. 1 [5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)Annex No 1, [1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546)Annex No 1 [1486](https://fedlex.data.admin.ch/eli/oc/1996/1486_1486_1486)[1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)Annex No 1]
+[^63-1]: [[AS 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114); [1983 170](https://fedlex.data.admin.ch/eli/oc/1983/170_170_170),[931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931)Art. 59 No 2;, [1985 699](https://fedlex.data.admin.ch/eli/oc/1985/699_699_699); [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)No II 2, [808](https://fedlex.data.admin.ch/eli/oc/1987/808_808_808); [1989 2116](https://fedlex.data.admin.ch/eli/oc/1989/2116_2116_2116); [1990 3](https://fedlex.data.admin.ch/eli/oc/1990/3_3_3)Art. 1, [1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530)No II 1, [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 1; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)No I; [1992 2](https://fedlex.data.admin.ch/eli/oc/1992/2_2_2)Art. 1, [288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 2, [510](https://fedlex.data.admin.ch/eli/oc/1992/510_510_510), [581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581)Annex No 2; [1993 1770](https://fedlex.data.admin.ch/eli/oc/1993/1770_1770_1770); [1995 978](https://fedlex.data.admin.ch/eli/oc/1995/978_978_978), [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Annex No 2, [4362](https://fedlex.data.admin.ch/eli/oc/1995/4362_4362_4362)Art. 1, [5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)Annex No 1; [1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546)Annex No 1, [1486](https://fedlex.data.admin.ch/eli/oc/1996/1486_1486_1486), [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)Annex No 1]
 
 #### Art. 64
 
