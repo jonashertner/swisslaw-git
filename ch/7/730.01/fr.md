@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2017 sur l'énergie (OEne)"
 short: OEne
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/763"
 language: fr
-version: 2023-04-01
+version: 2023-09-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2017-763-20230401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20230401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2017-763-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20230401/fr"
 
 (OEne)
 
-du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> avril 2023)
+du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -1291,9 +1291,11 @@ L’OFEN établit et publie une vue d’ensemble contenant en particulier les in
 
 #### Art. 70
 
-**Traitement des données personnelles**
+**Traitement des données personnelles et des données des personnes morales**[^70-1]
 
-Les données personnelles, y compris les données particulièrement sensibles sur des poursuites administratives ou pénales et sur des sanctions, peuvent être conservées pendant dix ans au plus.
+Les données personnelles, ainsi que les données des personnes morales, y compris les données sensibles sur des poursuites administratives ou pénales et sur des sanctions, peuvent être conservées pendant dix ans au plus.
+
+[^70-1]: Nouvelle teneur selon l’annexe 2 ch. II 74 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Chapitre 11 Exécution
 

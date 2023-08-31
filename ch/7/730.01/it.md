@@ -4,11 +4,11 @@ title: "Ordinanza sull'energia del 1° novembre 2017 (OEn)"
 short: OEn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/763"
 language: it
-version: 2023-04-01
+version: 2023-09-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2017-763-20230401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20230401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2017-763-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20230401/it"
 
 (OEn)
 
-del 1° novembre 2017 (Stato 1° aprile 2023)
+del 1° novembre 2017 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -1299,9 +1299,11 @@ L’UFE elabora e pubblica una visione d’insieme che contiene in particolare l
 
 #### Art. 70
 
-**Trattamento di dati personali**
+**Trattamento di dati personali e di dati di persone giuridiche**[^70-1]
 
-I dati personali, inclusi i dati degni di particolare protezione concernenti i procedimenti o le sanzioni amministrativi e penali, possono essere conservati al massimo per dieci anni.
+I dati personali e i dati di persone giuridiche, inclusi i dati degni di particolare protezione concernenti perseguimenti e sanzioni amministrativi e penali, possono essere conservati al massimo per dieci anni.
+
+[^70-1]: Nuovo testo giusta l’all. 2 n. II 74 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Capitolo 11: Esecuzione
 

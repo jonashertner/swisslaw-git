@@ -4,11 +4,11 @@ title: Energieverordnung vom 1. November 2017 (EnV)
 short: EnV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/763"
 language: de
-version: 2023-04-01
+version: 2023-09-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2017-763-20230401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20230401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2017-763-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20230401/de"
 
 (EnV)
 
-vom 1. November 2017 (Stand am 1. April 2023)
+vom 1. November 2017 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -1291,9 +1291,11 @@ Das BFE erstellt und publiziert eine Gesamtsicht, die insbesondere folgende Anga
 
 #### Art. 70
 
-**Bearbeitung von Personendaten**
+**Bearbeitung von Personendaten sowie Daten juristischer Personen**[^70-1]
 
-Personendaten, einschliesslich besonders schützenswerte Daten über administrative und strafrechtliche Verfolgung und Sanktionen, dürfen während höchstens zehn Jahren aufbewahrt werden.
+Personendaten sowie Daten juristischer Personen, einschliesslich besonders schützenswerter Daten über verwaltungs- und strafrechtliche Verfolgungen oder Sanktionen, dürfen während höchstens zehn Jahren aufbewahrt werden.
+
+[^70-1]: Fassung gemäss Anhang 2 Ziff. II 74 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 11. Kapitel: Vollzug
 
