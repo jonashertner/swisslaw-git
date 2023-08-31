@@ -3,20 +3,20 @@ canton: LU
 number: "521"
 title: "Studienordnung für die Ausbildung an der Hochschule Luzern, FH Zentralschweiz"
 language: de
-version: 2023-03-01
-valid_until: 2023-08-31
-version_adopted: 2023-03-29
+version: 2023-09-01
+valid_until: 2023-12-31
+version_adopted: 2023-08-31
 adopted: 2014-06-13
 in_force: 2014-09-01
 url: "https://srl.lu.ch/app/de/texts_of_law/521"
-pdf: "https://srl.lu.ch/api/de/versions/4065/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4134/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Studienordnung für die Ausbildung an der Hochschule Luzern, FH Zentralschweiz
 
-vom 13.06.2014 (Stand 01.03.2023)
+vom 13.06.2014 (Stand 01.09.2023)
 
 Der Fachhochschulrat der Hochschule Luzern,
 
@@ -592,9 +592,12 @@ beschliesst:
 - b. eine abgeschlossene nicht einschlägige Berufslehre mit anerkannter Berufsmaturität und mindestens ein Jahr Berufspraxis in einem einschlägigen Beruf,
 - c. eine anerkannte gymnasiale Maturität und mindestens ein Jahr Berufspraxis in einem einschlägigen Beruf,
 - d. der Abschluss einer Technikerschule im entsprechenden Fachgebiet oder
-- e. eine andere gleichwertige, das heisst mindestens dreijährige Ausbildung auf Sekundarstufe II, mehrjährige Berufspraxis auf dem Gebiet der gewählten Studienrichtung und ein erfolgreiches Absolvieren des Zulassungsstudiums der Hochschule Luzern – Technik und Architektur.
+- e. eine andere gleichwertige, das heisst mindestens dreijährige Ausbildung auf Sekundarstufe II, mehrjährige Berufspraxis auf dem Gebiet der gewählten Studienrichtung und ein erfolgreiches Absolvieren des Zulassungsstudiums der Hochschule Luzern – Technik und Architektur,
+- f. sowie dem Ausbildungsniveau entsprechende Kenntnisse der Unterrichtssprache.
 
 <sup>2</sup> Dem Zulassungsstudium ist eine bestandene Aufnahmeprüfung für eine andere Schweizer Fachhochschule technischer Ausrichtung gleichgestellt, sofern diese das Niveau einer Berufsmaturitätsprüfung erreicht.
+
+<sup>3</sup> Für ein praxisintegriertes Bachelor-Studium in Ingenieurwissenschaften (BSc) wird eine anerkannte gymnasiale Maturität oder eine abgeschlossene nicht einschlägige Berufslehre mit anerkannter Berufsmaturität und ein von der Hochschule Luzern – Technik und Architektur validierter Ausbildungsvertrag mit einem Unternehmen vorausgesetzt.
 
 ## A2 Anhang 2: Voraussetzungen für die Zulassung zur Bachelor-Ausbildung an der Hochschule Luzern – Wirtschaft
 
@@ -624,7 +627,7 @@ beschliesst:
 
 #### Art. A2a-1
 
-**Bachelor Artificial Learning, Bachelor Informatik**
+**Bachelor Artificial Intelligence and Machine Learning, Bachelor Informatik**
 
 <sup>1</sup> Als Zulassungsvoraussetzungen für das erste Studienjahr der Bachelor-Ausbildung gelten:
 
