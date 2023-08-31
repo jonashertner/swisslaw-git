@@ -4,22 +4,22 @@ title: "Loi fédérale du 6 octobre 2006 sur l'imposition de la bière (LIB)"
 short: LIB
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/385"
 language: fr
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2006-10-06
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/385/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-385-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/385/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/385/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2007-385-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/385/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur l’imposition de la bière**<sup>∗</sup>**
+# Loi fédérale sur l’imposition de la bière\*
 
 (LIB)[^t-1]
 
-du 6 octobre 2006 (Etat le 1<sup>er</sup> janvier 2022)
+du 6 octobre 2006 (État le 1<sup>er</sup> septembre 2023)
 
-[^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
+[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -27,7 +27,7 @@ vu l’art. 131, al. 1, let. c, de la Constitution[^ingress-1], vu le message du
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2005 5321](https://fedlex.data.admin.ch/eli/fga/2005/890)
 
 ## Section 1 Dispositions générales
@@ -56,7 +56,7 @@ On entend par bière:
 - b. les mélanges de bière de malt avec des boissons non alcooliques ou des produits alcooliques obtenus uniquement par fermentation (numéro de tarif douanier 2206);
 - c. la bière sans alcool (numéro de tarif douanier 2202).
 
-[^3-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)annexe. Conformément à l’art. 5, al. 1, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), le tarif général et ses modifications ne sont pas publiés au RO. Le tarif général est disponible sous le lien Internet http://www.ezv.admin.ch. Les mod. sont également insérées dans le tarif des douanes, qui peut être consulté à l’adresse Internet: www.tares.ch.
+[^3-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)annexe. Conformément à l’art. 5, al. 1, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), le tarif général et ses modifications ne sont pas publiés au RO. Le tarif général est disponible sous le lien Internet http://www.ezv.admin.ch. Les mod. sont également insérées dans le tarif des douanes, qui peut être consulté à l’adresse Internet: www.tares.ch.
 
 #### Art. 4
 
@@ -67,7 +67,7 @@ La créance fiscale naît par la mise à la consommation de la bière. On entend
 - a. pour la bière fabriquée sur le territoire douanier: le moment où la bière quitte l’unité de fabrication ou est utilisée pour la consommation dans l’unité de fabrication;
 - b. pour la bière importée: le moment de sa mise en libre pratique (art. 48 de la loi du 18 mars 2005 sur les douanes[^4-1]).
 
-[^4-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 5
 
@@ -180,7 +180,7 @@ La bière est également exonérée lorsqu’elle est:
 - b. utilisée pour la fabrication d’eau-de-vie;
 - c. exempte de droits de douane en vertu de l’art. 14 de la loi fédérale du 1<sup>er</sup> octobre 1925 sur les douanes[^13-1].
 
-[^13-1]: [RS **6** 469; [RO 1956 635](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639), [1959 1397](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)art. 11 ch. III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)annexe ch. 7, [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)ch. I 1, [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)ch. III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)ch. I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)annexe 2 ch. 2, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)appendice ch. 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92 [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)ch. I 1 art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)annexe ch. II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 50. [RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 al. 1]. Voir actuellement l’art. 8 de la loi du 18 mars 2005 sur les douanes ([RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
+[^13-1]: [[RS 6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7743)469; [RO 1956 635](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639); [1959 1397](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)art. 11 ch. III; [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644); [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)annexe ch. 7; [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)ch. I 1; [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)ch. III; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)ch. I 3; [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)annexe 2 ch. 2; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)appendice ch. 13; [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. VI 6; [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)ch. I 1 art. 41; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)annexe ch. II 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 50. [RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 al. 1]. Voir actuellement l’art. 8 de la loi du 18 mars 2005 sur les douanes ([RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)).
 
 #### Art. 14
 
@@ -247,7 +247,10 @@ L’impôt grevant la bière fabriquée sur le territoire douanier est dû pour 
 
 <sup>2</sup> La déclaration lie le fabricant et sert à fixer le montant de l’impôt. Le résultat d’un contrôle officiel est réservé.
 
-<sup>3</sup> Si l’OFDF conteste la déclaration, il fixe le montant de l’impôt par décision.
+<sup>3</sup> Si l’OFDF conteste la déclaration, il fixe le montant de l’impôt par décision. La fixation du montant de l’impôt peut intervenir sous la forme d’une décision individuelle automatisée selon l’art. 21 de la loi fédérale du 25 septembre 2020 sur la protection des données[^17-1].[^17-2]
+
+[^17-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^17-2]: Phrase introduite par l’annexe 1 ch. II 51 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 18
 
@@ -352,7 +355,7 @@ La Confédération a, dans les cas suivants, un droit de gage légal sur la biè
 
 <sup>3</sup> La procédure est régie par les dispositions applicables aux droits de douane.
 
-[^26-1]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^26-1]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 27
 
@@ -421,7 +424,7 @@ L’art. 25 est applicable par analogie.
 
 <sup>2</sup> La procédure de réclamation est régie par la loi fédérale du 20 décembre 1968 sur la procédure administrative[^32-1].
 
-[^32-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^32-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 33
 
@@ -469,8 +472,8 @@ En cas de circonstances aggravantes, le montant maximal de l’amende est augmen
 
 <sup>4</sup> Les art. 14 à 16 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif (DPA)[^35-2] sont réservés.
 
-[^35-1]: Terminologie adaptée à celle de la modification du 13 déc. 2002 du Code pénal ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799); [RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
-[^35-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^35-1]: Terminologie adaptée à celle de la modification du 13 déc. 2002 du Code pénal ([RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196); [RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
+[^35-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 36
 
@@ -498,7 +501,7 @@ Quiconque, laissé en possession de bière saisie à titre de gage fiscal par l�
 
 Si l’amende prévisible n’excède pas 100 000 francs et que l’enquête portant sur des personnes punissables en vertu de l’art. 6 DPA[^39-1] implique des mesures d’instruction hors de proportion avec la peine encourue, l’autorité peut renoncer à poursuivre ces personnes et condamner l’entreprise (art. 7 DPA) au paiement de l’amende.
 
-[^39-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^39-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 40
 
@@ -522,7 +525,7 @@ Quiconque contrevient, intentionnellement ou par négligence grave, à une dispo
 
 <sup>3</sup> La prescription de l’action pénale au sens de l’art. 11, al. 2, DPA s’applique à toutes les infractions fiscales.
 
-[^42-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^42-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Section 8 Dispositions finales
 

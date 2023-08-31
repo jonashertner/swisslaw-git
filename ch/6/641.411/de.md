@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 6. Oktober 2006 über die Biersteuer (Biersteuergesetz,
 short: BStG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/385"
 language: de
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2006-10-06
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/385/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-385-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/385/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/385/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2007-385-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/385/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/385/20220101/de"
 
 (Biersteuergesetz, BStG)
 
-vom 6. Oktober 2006 (Stand am 1. Januar 2022)
+vom 6. Oktober 2006 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 131 Absatz 1 Buchstabe c der Bundesverfassung[^ingress-1],
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2005 5649](https://fedlex.data.admin.ch/eli/fga/2005/890)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
@@ -54,7 +54,7 @@ Als Bier gelten:
 - b. Mischungen von Bier aus Malz mit nichtalkoholischen Getränken oder mit ausschliesslich durch Vergärung gewonnenen alkoholischen Produkten (Zolltarifnummer 2206);
 - c. das alkoholfreie Bier (Zolltarifnummer 2202).
 
-[^3-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang. Der Generaltarif und seine Änd. werden nach Art. 5 Abs. 1 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) in der AS nicht veröffentlicht. Der Text kann im Internet unter http://www.ezv.admin.ch eingesehen werden. Die Änd. werden ebenfalls in den Zolltarif übernommen, der im Internet unter www.tares.ch konsultiert werden kann.
+[^3-1]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)Anhang. Der Generaltarif und seine Änd. werden nach Art. 5 Abs. 1 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) in der AS nicht veröffentlicht. Der Text kann im Internet unter http://www.ezv.admin.ch eingesehen werden. Die Änd. werden ebenfalls in den Zolltarif übernommen, der im Internet unter www.tares.ch konsultiert werden kann.
 
 #### Art. 4
 
@@ -65,7 +65,7 @@ Die Steuerforderung entsteht mit der Überführung des Biers in den steuerrechtl
 - a. für im Zollgebiet hergestelltes Bier: der Zeitpunkt, in dem das Bier den Herstellungsbetrieb verlässt oder zum Konsum im Herstellungsbetrieb verwendet wird;
 - b. für eingeführtes Bier: der Zeitpunkt der Überführung in den zollrechtlich freien Verkehr (Art. 48 des Zollgesetzes vom 18. März 2005[^4-1]).
 
-[^4-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 5
 
@@ -178,7 +178,7 @@ Ebenfalls von der Steuer befreit ist Bier, das:
 - b. zur Herstellung von gebrannten Wassern verwendet wird;
 - c. nach Artikel 14 des Zollgesetzes vom 1. Oktober 1925[^13-1] zollfrei ist.
 
-[^13-1]: [BS **6** 465; [AS 1956 587](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639), [1959 1343](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)Art. 11 Ziff. III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Anhang Ziff. 7, [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)Ziff. I 1, [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)Ziff. III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)Ziff. I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Anhang 2 Ziff. 2, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)Art. 92 [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)Ziff. I 1 Art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)Anhang Ziff. II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 50. [AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)Art. 131 Abs. 1]. Siehe heute: Art. 8 des Zollgesetzes vom 18. März 2005 ([SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
+[^13-1]: [BS **6** 465; [AS 1956 587](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639), [1959 1343](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)Art. 11 Ziff. III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Anhang Ziff. 7, [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)Ziff. I 1, [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)Ziff. III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)Ziff. I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Anhang 2 Ziff. 2, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)Art. 92 [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)Ziff. I 1 Art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)Anhang Ziff. II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 50. [AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)Art. 131 Abs. 1]. Siehe heute: Art. 8 des Zollgesetzes vom 18. März 2005 ([SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)).
 
 #### Art. 14
 
@@ -245,7 +245,10 @@ Die Steuer für im Zollgebiet hergestelltes Bier ist für jedes Quartal (Abrechn
 
 <sup>2</sup> Die Steueranmeldung ist für die Herstellerin oder den Hersteller verbindlich und dient als Grundlage für die Festsetzung des Steuerbetrags. Das Ergebnis einer amtlichen Überprüfung bleibt vorbehalten.
 
-<sup>3</sup> Falls das BAZG die Steueranmeldung beanstandet, setzt es den Steuerbetrag durch Verfügung fest.
+<sup>3</sup> Falls das BAZG die Steueranmeldung beanstandet, setzt es den Steuerbetrag durch Verfügung fest. Diese kann als automatisierte Einzelentscheidung nach Artikel 21 des Datenschutzgesetzes vom 25. September 2020[^17-1] erfolgen.[^17-2]
+
+[^17-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^17-2]: Zweiter Satz eingefügt durch Anhang 1 Ziff. II 51 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 18
 
@@ -417,7 +420,7 @@ Artikel 25 ist sinngemäss anwendbar.
 
 <sup>2</sup> Für das Einspracheverfahren gilt das Bundesgesetz vom 20. Dezember 1968[^32-1] über das Verwaltungsverfahren.
 
-[^32-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^32-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 33
 
@@ -465,8 +468,8 @@ Bei erschwerenden Umständen wird das Höchstmass der angedrohten Busse um die H
 
 <sup>4</sup> Vorbehalten bleiben die Artikel 14–16 des Bundesgesetzes vom 22. März 1974[^35-2] über das Verwaltungsstrafrecht (VStrR).
 
-[^35-1]: Ausdruck gemäss Änderung vom 13. Dez. 2002 des Schweizerischen Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799); [AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
-[^35-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^35-1]: Ausdruck gemäss Änderung vom 13. Dez. 2002 des Schweizerischen Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196); [AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
+[^35-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 36
 
@@ -494,7 +497,7 @@ Mit Busse bis zum Fünffachen des Inlandwertes des Bieres wird bestraft, wer vor
 
 Fällt eine Busse von höchstens 100 000 Franken in Betracht und würde die Ermittlung der nach Artikel 6 VStrR[^39-1] strafbaren Personen Untersuchungsmassnahmen bedingen, die im Hinblick auf die verwirkte Strafe unverhältnismässig wären, so kann die Behörde von einer Verfolgung dieser Personen absehen und an ihrer Stelle den Geschäftsbetrieb (Art. 7 VStrR) zur Bezahlung der Busse verurteilen.
 
-[^39-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^39-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 40
 
@@ -518,7 +521,7 @@ Wer vorsätzlich oder grobfahrlässig gegen eine Vorschrift dieses Gesetzes, ein
 
 <sup>3</sup> Die Verfolgungsverjährung nach Artikel 11 Absatz 2 VStrR gilt für sämtliche Steuerwiderhandlungen.
 
-[^42-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^42-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## 8. Abschnitt: Schlussbestimmungen
 
@@ -534,7 +537,7 @@ Wer vorsätzlich oder grobfahrlässig gegen eine Vorschrift dieses Gesetzes, ein
 
 **Änderung bisherigen Rechts**
 
-...[^44-1]
+…[^44-1]
 
 [^44-1]: Die Änderung kann unter [AS 2007 2895](https://fedlex.data.admin.ch/eli/oc/2007/385)konsultiert werden.
 
@@ -560,4 +563,4 @@ Wer vorsätzlich oder grobfahrlässig gegen eine Vorschrift dieses Gesetzes, ein
 
 Datum des Inkrafttretens: 1. Juli 2007[^46-1]
 
-[^46-1]: BRB vom 15. Juni 2007 (AS **2007** 2907)
+[^46-1]: BRB vom 15. Juni 2007

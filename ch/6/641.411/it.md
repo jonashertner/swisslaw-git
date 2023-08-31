@@ -4,11 +4,11 @@ title: "Legge federale del 6 ottobre 2006 sull'imposizione della birra (Legge su
 short: LIB
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/385"
 language: it
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2006-10-06
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/385/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-385-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/385/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/385/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2007-385-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/385/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/385/20220101/it"
 
 (Legge sull’imposizione della birra, LIB)
 
-del 6 ottobre 2006 (Stato 1° gennaio 2022)
+del 6 ottobre 2006 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visto l’articolo 131 capoverso 1 lettera c della Costituzione federale[^ingres
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2005 5045](https://fedlex.data.admin.ch/eli/fga/2005/890)
 
 ## Sezione 1: Disposizioni generali
@@ -54,7 +54,7 @@ Per birra si intende:
 - b. le miscele di birra a base di malto con bevande non alcoliche o con prodotti alcolici ottenuti esclusivamente mediante fermentazione (voce 2206 della tariffa doganale);
 - c. la birra analcolica (voce 2202 della tariffa doganale).
 
-[^3-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), All. La tariffa generale e i suoi all. non sono pubblicati nella RU in virtù dell’art. 5 cpv. 1 della L del 18 giu. 2004 sulle pubblicazioni ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il testo può essere consultato sul sito Internet http://www.ezv.admin.ch. Le mod. sono pure inserite nella tariffa doganale che può essere consultata sul sito Internet www.tares.ch.
+[^3-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921), All. La tariffa generale e i suoi all. non sono pubblicati nella RU in virtù dell’art. 5 cpv. 1 della L del 18 giu. 2004 sulle pubblicazioni ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)). Il testo può essere consultato sul sito Internet http://www.ezv.admin.ch. Le mod. sono pure inserite nella tariffa doganale che può essere consultata sul sito Internet www.tares.ch.
 
 #### Art. 4
 
@@ -65,7 +65,7 @@ Il credito fiscale sorge all’immissione in libero consumo della birra. Per imm
 - a. per la birra fabbricata sul territorio doganale: il momento in cui la birra abbandona lo stabilimento di fabbricazione o è utilizzata per il consumo nello stabilimento di fabbricazione;
 - b. per la birra importata: la data della sua immissione in libera pratica doganale (art. 48 della L del 18 mar. 2005[^4-1] sulle dogane).
 
-[^4-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 5
 
@@ -178,7 +178,7 @@ La birra è esente dall’imposta qualora non sia utilizzata a scopo voluttuario
 - b. utilizzata nella fabbricazione di bevande distillate;
 - c. esente da dazio secondo l’articolo 14 della legge federale del 1° ottobre 1925[^13-1] sulle dogane.
 
-[^13-1]: [CS **6** 475; [RU 1956 639](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639)**,** **1959** 1400 art. 11 n. III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644),[1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)all. n. 7,[1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)n. I 1,[1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)n. III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)n. I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)all. 2 n. 2, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92 [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)n. I 1 art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)all. n. II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 50. [RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 cpv. 1]. Vedi ora l’art. 8 della L del 18 mar. 2005 sulle dogane ([RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
+[^13-1]: [CS **6** 475; [RU 1956 639](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639);**1959** 1400 art. 11 n. III; **1973** 64;[1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)all. n. 7;[1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)n. I 1;[1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)n. III; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)n. I 3; [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)all. 2 n. 2; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 13; [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. VI 6; [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)n. I 1 art. 41; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)all. n. II 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 50. [RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 cpv. 1]. Vedi ora l’art. 8 della L del 18 mar. 2005 sulle dogane ([RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)).
 
 #### Art. 14
 
@@ -245,7 +245,10 @@ L’imposta per la birra fabbricata sul territorio doganale è dovuta per ciascu
 
 <sup>2</sup> La dichiarazione fiscale è vincolante per il fabbricante e serve da base per stabilire l’ammontare dell’imposta. Rimane salvo il risultato di un controllo ufficiale.
 
-<sup>3</sup> Se contesta la dichiarazione fiscale, l’UDSC stabilisce l’ammontare dell’imposta mediante decisione formale.
+<sup>3</sup> Se contesta la dichiarazione fiscale, l’UDSC stabilisce l’ammontare dell’imposta mediante decisione formale. L’importo dell’imposta può essere stabilito sotto forma di decisione individuale automatizzata ai sensi dell’articolo 21 della legge federale del 25 settembre 2020[^17-1] sulla protezione dei dati.[^17-2]
+
+[^17-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^17-2]: Per. introdotto dall’all. 1 n. II 51 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 18
 
@@ -417,7 +420,7 @@ L’articolo 25 è applicabile per analogia.
 
 <sup>2</sup> Alla procedura d’opposizione si applica la legge federale del 20 dicembre 1968[^32-1] sulla procedura amministrativa.
 
-[^32-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^32-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 33
 
@@ -465,8 +468,8 @@ In caso di circostanze aggravanti, il massimo della multa comminata è aumentato
 
 <sup>4</sup> Rimangono salvi gli articoli 14–16 della legge federale del 22 marzo 1974[^35-2] sul diritto penale amministrativo (DPA).
 
-[^35-1]: Nuova denominazione secondo la mod. del Codice penale del 13 dic. 2002 ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799); [RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
-[^35-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^35-1]: Nuova denominazione secondo la mod. del Codice penale del 13 dic. 2002 ([RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196); [RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
+[^35-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 36
 
@@ -494,7 +497,7 @@ Chiunque, lasciato in possesso della birra sequestrata dall’UDSC a titolo di p
 
 Se la multa applicabile non supera i 100 000 franchi e se la determinazione delle persone punibili secondo l’articolo 6 DPA[^39-1] esige provvedimenti d’inchiesta sproporzionati all’entità della pena, l’autorità può prescindere dal procedere contro dette persone e, in loro vece, condannare l’azienda al pagamento della multa (art. 7 DPA).
 
-[^39-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^39-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 40
 
@@ -518,7 +521,7 @@ Chiunque, intenzionalmente o per negligenza grave, contravviene a una disposizio
 
 <sup>3</sup> La prescrizione dell’azione penale di cui all’articolo 11 capoverso 2 DPA si applica a tutte le infrazioni fiscali.
 
-[^42-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^42-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Sezione 8: Disposizioni finali
 
