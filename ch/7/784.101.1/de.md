@@ -4,11 +4,11 @@ title: Verordnung vom 9. März 2007 über Fernmeldedienste (FDV)
 short: FDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
 language: de
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2007-166-20230101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2007-166-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20230101/de"
 
 (FDV)
 
-vom 9. März 2007 (Stand am 1. Januar 2023)
+vom 9. März 2007 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -1039,19 +1039,20 @@ Ein Schlichtungsbegehren ist nur zulässig, wenn:
 
 <sup>2</sup> Personen, die für die Schlichtungsstelle eine Aufgabe erfüllen, sind an das Amtsgeheimnis nach Artikel 320 des Strafgesetzbuches[^48-2] gebunden.[^48-3]
 
-<sup>3</sup> Die Schlichtungsstelle kann das BAKOM ersuchen, ihr persönliche Informationen zu übermitteln, die sich für die Streitbeilegung als nötig erweisen. Insbesondere kann sie es um Informationen über administrative oder strafrechtliche Verfolgungen und Sanktionen gegen eine Anbieterin von Fernmelde- oder Mehrwertdiensten ersuchen.
+<sup>3</sup> Die Schlichtungsstelle kann das BAKOM ersuchen, ihr persönliche Informationen zu übermitteln, die sich für die Streitbeilegung als nötig erweisen. Insbesondere kann sie es um Informationen über verwaltungs- und strafrechtliche Verfolgungen oder Sanktionen gegen eine Anbieterin von Fernmelde- oder Mehrwertdiensten ersuchen.[^48-4]
 
 <sup>4</sup> Die Schlichtungsstelle kann ihre Schlichtungsvorschläge vollständig oder teilweise im Internet veröffentlichen, ohne Hinweise auf die Identität der Parteien zu geben. Sie veröffentlicht eine Zusammenfassung ihrer wichtigsten Vorschläge.
 
-<sup>4bis</sup> Sie kann Statistiken über die Fallzahlen aufgeschlüsselt nach Anbieterinnen von Fernmelde- und Mehrwertdiensten veröffentlichen.[^48-4]
+<sup>4bis</sup> Sie kann Statistiken über die Fallzahlen aufgeschlüsselt nach Anbieterinnen von Fernmelde- und Mehrwertdiensten veröffentlichen.[^48-5]
 
-<sup>5</sup> Sie muss einer neuen Beauftragten oder dem BAKOM die persönlichen Daten, über die sie zum Zeitpunkt der Einstellung ihrer Schlichtungstätigkeit verfügt, unentgeltlich mitteilen.[^48-5]
+<sup>5</sup> Sie muss einer neuen Beauftragten oder dem BAKOM die persönlichen Daten, über die sie zum Zeitpunkt der Einstellung ihrer Schlichtungstätigkeit verfügt, unentgeltlich mitteilen.[^48-6]
 
 [^48-1]: Fassung gemäss Ziff. I der V vom 4. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
 [^48-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^48-3]: Fassung gemäss Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
-[^48-4]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^48-5]: Eingefügt durch Ziff. I der V vom 4. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+[^48-4]: Fassung des zweiten Satzes gemäss Anhang 2 Ziff. II 87 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^48-5]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^48-6]: Eingefügt durch Ziff. I der V vom 4. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
 
 #### Art. 49
 
@@ -1691,11 +1692,12 @@ Wenn es mit vertretbarem Aufwand technisch möglich ist, müssen die Anbieterinn
 
 #### Art. 89
 
-**Datenschutzgesetzgebung**
+**Datenschutzgesetzgebung**[^89-1]
 
-Soweit diese Verordnung keine besondere Regelung enthält, gilt das Bundesgesetz vom 19. Juni 1992[^89-1] über den Datenschutz.
+Soweit diese Verordnung keine besondere Regelung enthält, gilt das Datenschutzgesetz vom 25. September 2020[^89-2].
 
-[^89-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^89-1]: Fassung gemäss Anhang 2 Ziff. II 87 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^89-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 89a
 

@@ -4,11 +4,11 @@ title: Ordinance of 9 March 2007 on Telecommunications Services (OTS)
 short: OTS
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
 language: en
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2007-166-20230101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2007-166-20230901-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (OTS)
 
-of 9 March 2007 (Status as of 1 January 2023)
+of 9 March 2007 (Status as of 1 September 2023)
 
 The Swiss Federal Council,
 
@@ -1045,19 +1045,20 @@ An application for resolution of a dispute is permitted only if:
 
 <sup>2</sup> Persons performing a task for the dispute resolution service are bound by official secrecy in accordance with Article 320 of the Criminal Code[^48-2].[^48-3]
 
-<sup>3</sup> The dispute resolution service may request OFCOM to provide it with personal information that is necessary for the resolution of disputes. In particular, it may request information concerning administrative or criminal prosecutions and penalties against a provider of telecommunications or value-added services.
+<sup>3</sup> The dispute resolution service may request OFCOM to provide it with personal information that is necessary for the resolution of disputes. In particular, it may request information concerning administrative or criminal prosecutions or sanctions against a provider of telecommunications or value-added services.[^48-4]
 
 <sup>4</sup> The dispute resolution service may publish its resolution proposals in full or in part on the internet, without referring to the identity of the parties. It shall publish a summary of its most important proposals.
 
-<sup>4bis</sup> It may publish statistics on the number of cases broken down according to providers of telecommunications and value-added services.[^48-4]
+<sup>4bis</sup> It may publish statistics on the number of cases broken down according to providers of telecommunications and value-added services.[^48-5]
 
-<sup>5</sup> It must communicate free of charge the personal data which it has available at the time of cessation of its dispute resolution activity to a new appointee or to OFCOM.[^48-5]
+<sup>5</sup> It must communicate free of charge the personal data which it has available at the time of cessation of its dispute resolution activity to a new appointee or to OFCOM.[^48-6]
 
 [^48-1]: Amended by No I of the O of 4 Nov. 2009, in force since 1 Jan. 2010 ([AS 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
 [^48-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^48-3]: Amended by No I of the O of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
-[^48-4]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^48-5]: Inserted by No I of the O of 4 Nov. 2009, in force since 1 Jan. 2010 ([AS 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+[^48-4]: Second sentence amended by Annex 2 No II 87 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^48-5]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^48-6]: Inserted by No I of the O of 4 Nov. 2009, in force since 1 Jan. 2010 ([AS 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
 
 #### Art. 49
 

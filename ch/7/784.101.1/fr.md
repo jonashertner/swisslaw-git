@@ -4,11 +4,11 @@ title: Ordonnance du 9 mars 2007 sur les services de télécommunication (OST)
 short: OST
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
 language: fr
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-166-20230101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2007-166-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20230101/fr"
 
 (OST)
 
-du 9 mars 2007 (État le 1<sup>er</sup> janvier 2023)
+du 9 mars 2007 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -1695,11 +1695,12 @@ Lorsque cela est techniquement réalisable à des conditions raisonnables, les f
 
 #### Art. 89
 
-**Législation sur la protection des données**
+**Législation sur la protection des données**[^89-1]
 
-Dans la mesure où la présente ordonnance ne contient pas de disposition particulière, la loi fédérale du 19 juin 1992 sur la protection des données[^89-1] est applicable.
+Dans la mesure où la présente ordonnance ne contient pas de disposition particulière, la loi fédérale du 25 septembre 2020 sur la protection des données[^89-2] est applicable.
 
-[^89-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^89-1]: Nouvelle teneur selon l’annexe 2 ch. II 87 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^89-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 89a
 

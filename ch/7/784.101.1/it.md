@@ -4,11 +4,11 @@ title: Ordinanza del 9 marzo 2007 sui servizi di telecomunicazione (OST)
 short: OST
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
 language: it
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2007-166-20230101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2007-166-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20230101/it"
 
 (OST)
 
-del 9 marzo 2007 (Stato 1° gennaio 2023)
+del 9 marzo 2007 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -1058,19 +1058,20 @@ Una richiesta di conciliazione può essere accolta solo se:
 
 <sup>2</sup> Le persone incaricate dall’organo di conciliazione di svolgere un compito sono tenute a rispettare il segreto d’ufficio ai sensi dell’articolo 320 del Codice penale[^48-2].[^48-3]
 
-<sup>3</sup> L’organo di conciliazione può chiedere all’UFCOM di trasmettergli le informazioni personali necessarie per comporre la controversia. Può in particolare chiedergli informazioni riguardanti l’apertura di una procedura amministrativa e le sanzioni o misure amministrative decise nei confronti di un fornitore di servizi di telecomunicazione o di servizi a valore aggiunto.
+<sup>3</sup> L’organo di conciliazione può chiedere all’UFCOM di trasmettergli le informazioni personali necessarie per comporre la controversia. Può in particolare chiedergli informazioni riguardanti perseguimenti e sanzioni amministrativi e penali nei confronti di un fornitore di servizi di telecomunicazione o di servizi a valore aggiunto.[^48-4]
 
 <sup>4</sup> L’organo di conciliazione può pubblicare le sue proposte di conciliazione su Internet, integralmente o in parte, ad eccezione del nome e di altre indicazioni sull’identità delle parti. Pubblica un compendio delle sue principali proposte.
 
-<sup>4bis</sup> Può pubblicare statistiche sul numero di casi suddivisi per fornitore di servizi di telecomunicazione o di servizi a valore aggiunto.[^48-4]
+<sup>4bis</sup> Può pubblicare statistiche sul numero di casi suddivisi per fornitore di servizi di telecomunicazione o di servizi a valore aggiunto.[^48-5]
 
-<sup>5</sup> Esso è tenuto a comunicare gratuitamente a un nuovo delegato o all’UFCOM i dati personali in suo possesso al momento in cui cessa le sue attività di conciliazione.[^48-5]
+<sup>5</sup> Esso è tenuto a comunicare gratuitamente a un nuovo delegato o all’UFCOM i dati personali in suo possesso al momento in cui cessa le sue attività di conciliazione.[^48-6]
 
 [^48-1]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
 [^48-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^48-3]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
-[^48-4]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^48-5]: Introdotto dal n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+[^48-4]: Nuovo testo del per. giusta l’all. 2 n. II 87 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^48-5]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^48-6]: Introdotto dal n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
 
 #### Art. 49
 
@@ -1710,11 +1711,12 @@ Se tecnicamente possibile a costi ragionevoli, i fornitori di servizi di telecom
 
 #### Art. 89
 
-**Legislazione sulla protezione dei dati**
+**Legislazione sulla protezione dei dati**[^89-1]
 
-Per quanto la presente ordinanza non disponga altrimenti, è applicabile la legge federale del 19 giugno 1992[^89-1] sulla protezione dei dati.
+Per quanto la presente ordinanza non disponga altrimenti, è applicabile la legge federale del 25 settembre 2020[^89-2] sulla protezione dei dati.
 
-[^89-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^89-1]: Nuovo testo giusta l’all. 2 n. II 87 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^89-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 89a
 
