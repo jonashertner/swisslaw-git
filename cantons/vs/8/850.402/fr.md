@@ -1,36 +1,39 @@
 ---
 canton: VS
 number: "850.402"
-title: Règlement sur différentes structures en faveur de la jeunesse
+title: Règlement sur les différentes structures en faveur de la jeunesse
 short: RDSJe
 language: fr
-version: 2001-06-01
-corrected: 2017-10-12
-version_adopted: 2001-05-09
+version: 2023-09-01
+valid_until: 2024-08-31
+version_adopted: 2023-11-08
 adopted: 2001-05-09
 in_force: 2001-06-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/850.402"
-pdf: "https://lex.vs.ch/api/fr/versions/153/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3241/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Règlement sur différentes structures en faveur de la jeunesse
+# Règlement sur les différentes structures en faveur de la jeunesse
 
-du 9 mai 2001
+(RDSJe)
 
-Le Conseil d'Etat du canton du Valais,
+du 09.05.2001 (état 01.09.2023)
 
-vu l'article 8, 9, 18, 48, 49, 50, 56 57 et de la loi en faveur de la jeunesse du 11 mai 2000;
+Le Conseil d'Etat du canton du Valais
 
-sur proposition du département de l'éducation, de la culture et du sport,
+vu l'article 57 alinéa 1 de la Constitution cantonale;
+
+vu l'article 8, 9, 9a, 18, 48, 49, 50, 56 et 57 de la loi en faveur de la jeunesse du 11 mai 2000 (LJe);
+
+sur la proposition du département en charge de la formation,
 
 arrête:
 
-### Chapitre 1: Commission des jeunes
+## 1 Commission des jeunes
 
-#### Article premier
+#### Art. 1
 
 **Composition**
 
@@ -44,55 +47,198 @@ arrête:
 
 **Fonctionnement**
 
-<sup>1</sup> La Commission des jeunes se réunit au minimum 4 fois par année. Elle doit être convoquée si cinq membres en ont font la demande.
+<sup>1</sup> La Commission des jeunes se réunit au minimum quatre fois par année. Elle doit être convoquée si 5 membres en font la demande.
 
-<sup>2</sup> Les décisions sont prises à la majorité des membres présents. Le président prend part au vote ; en cas d'égalité des voix, il départage. A la demande d'un membre, le vote a lieu au bulletin secret.
+<sup>2</sup> Les décisions sont prises à la majorité des membres présents. Le président prend part au vote; en cas d'égalité des voix, il départage. A la demande d'un membre, le vote a lieu au bulletin secret.
 
 <sup>3</sup> En cas de vote concernant une organisation ou un organisme au sein duquel un membre de la Commission exerce des responsabilités, ce dernier doit se récuser.
 
-<sup>4</sup> 4Le secrétariat de la Commission est assumé par le délégué à la jeunesse, qui participe aux séances avec voix consultative.
+<sup>4</sup> Le secrétariat de la Commission est assumé par le délégué à la jeunesse, qui participe aux séances avec voix consultative.
 
 #### Art. 3
 
 **Mandat général**
 
-La Commission des jeunes vise notamment les objectifs suivants:
+<sup>1</sup> La Commission des jeunes vise notamment les objectifs suivants:
 
 - a) identifier les besoins des jeunes et des associations de jeunesse;
-
 - b) encourager et promouvoir les activités extra-scolaires (sportives, socioculturelles, etc.);
-
 - c) établir en début de chaque année un programme d'actions pour l'année à venir; ce programme d'actions sera présenté pour approbation et soutien à la Commission pour la promotion et la protection de la jeunesse;
-
 - d) donner aux jeunes l'occasion de proposer des projets, des idées d'activités;
-
 - e) permettre aux jeunes d'exercer des responsabilités dans le cadre de la réalisation du programme d'actions;
-
 - f) d'inciter les collectivités publiques à intensifier leurs efforts en matière d'activités de jeunesse.
 
 #### Art. 4
 
 **Tâches**
 
-La Commission des jeunes veille notamment à:
+<sup>1</sup> La Commission des jeunes veille notamment à:
 
 - a) aider les jeunes à élaborer des propositions et à les formaliser;
-
 - b) récolter et étudier les propositions;
-
 - c) promouvoir le dialogue et faire le lien entre les jeunes, les associations de jeunesse et les autorités en collaboration avec la Commission pour la promotion et la protection de la jeunesse;
-
 - d) soumettre des projets aux jeunes et aux associations de jeunesse;
-
-- e) préaviser les demandes de soutien financier à l'intention du chef du Département ou du chef du Service. La Commission peut déléguer cette compétence au délégué à la jeunesse;
-
+- e) préaviser les demandes de soutien financier à l'intention du chef du Département ou du chef du Service cantonal de la jeunesse (ci-après: le Service). La Commission peut déléguer cette compétence au délégué à la jeunesse;
 - f) soutenir le délégué à la jeunesse dans la mise en oeuvre de la politique de la jeunesse;
-
 - g) assumer toute autre tâche dans la but de promouvoir et soutenir la jeunesse.
 
-### Chapitre 2: Commission pour la promotion et la protection de la
+## 1a Parlement des jeunes
 
-jeunesse
+#### Art. 4a
+
+**Attributions du Service**
+
+<sup>1</sup> Le Parlement des jeunes est rattaché au Service.
+
+<sup>2</sup> Le Service, par le délégué à la jeunesse, veille au bon fonctionnement du Parlement des jeunes, par un accompagnement et un soutien adapté de ses activités. Dans ce cadre, le Service dispose notamment des attributions suivantes:
+
+- a) il est habilité à assister aux séances des organes du Parlement des jeunes, avec voix consultative;
+- b) il donne des recommandations et accompagne le Parlement des jeunes dans la gestion des crédits alloués;
+- c) il peut proposer des personnes susceptibles d'assister aux séances des organes du Parlement des jeunes en qualité d'invité ou d'expert;
+- d) il apporte son soutien au Parlement des jeunes, notamment en répondant aux questions d'ordre général, en apportant un éclairage sur une question à titre consultatif, en facilitant et en soutenant les démarches du Parlement des jeunes auprès de personnes externes;
+- e) il participe à l'élaboration et aux modifications du règlement interne du Parlement des jeunes.
+
+#### Art. 4b
+
+**Relais dans les établissements de formation**
+
+<sup>1</sup> Le Parlement des jeunes bénéficie de relais dans les établissements de formation. À cet effet, un correspondant est désigné par les établissements de formation. Le Service de l'enseignement et le Service de la formation professionnelle collaborent dans ce sens.
+
+<sup>2</sup> Le correspondant désigné met en place le dispositif permettant l'élection des membres du Parlement des jeunes parmi les personnes en formation dans l'établissement.
+
+<sup>3</sup> Le correspondant désigné collabore avec les membres élus de son établissement et relaye les informations provenant du Parlement des jeunes, en s'assurant que celles-ci soient données en tenant compte des deux communautés linguistiques.
+
+#### Art. 4c
+
+**Composition**
+
+<sup>1</sup> Le Parlement des jeunes se compose de 60 membres issus des différents établissements de formation du secondaire II, élus pour un mandat de 2 ans, selon une répartition au prorata du nombre d’élèves.
+
+<sup>2</sup> Les membres sont élus par les personnes en formation selon un dispositif d’élection propre à chaque établissement.
+
+<sup>3</sup> Aucun parti politique n'est représenté au sein du Parlement des jeunes.
+
+<sup>4</sup> Les membres du Parlement des jeunes sont âgés entre 14 ans et 20 ans et domiciliés dans le canton du Valais.
+
+<sup>5</sup> Le Parlement des jeunes est intégralement renouvelé à l’échéance du mandat. Le mandat est renouvelable en principe une fois pour les membres de moins de 18 ans.
+
+<sup>6</sup> Le règlement interne prévoit une équitable représentation des genres, des deux communautés linguistiques, des régions, des courants d’idées et des milieux socio-professionnels
+
+<sup>7</sup> Les membres du Parlement des jeunes entrent en fonction lors de la session parlementaire qui suit les élections.
+
+<sup>8</sup> Le mandat des membres du Parlement des jeunes prend fin:
+
+- a) à l'expiration de sa durée fixée à l'article 4c alinéa 1 du présent règlement;
+- b) par démission, adressée par écrit au président qui en informe le Service, en mentionnant la date à laquelle elle prend effet, ou
+- c) à l'âge de 20 ans révolus.
+
+#### Art. 4d
+
+**Assemblée générale a) Dispositions générales**
+
+<sup>1</sup> L'assemblée générale est l'organe suprême du Parlement des jeunes. Elle réunit tous les membres en fonction.
+
+<sup>2</sup> Le règlement interne prévoit le défraiement des membres du Parlement des jeunes présents lors des sessions.
+
+#### Art. 4e
+
+**b) Convocation**
+
+<sup>1</sup> L'assemblée générale est convoquée par le bureau ou lorsque le tiers de ses membres en fait la demande, par écrit, auprès de la direction.
+
+<sup>2</sup> La convocation a lieu dans les cas prévus par le règlement interne, mais au minimum trois fois par année. Elle doit être adressée au moins 3 semaines avant la date prévue pour la séance.
+
+#### Art. 4f
+
+**c) Délibérations**
+
+<sup>1</sup> Pour délibérer valablement, une majorité de membres au moins (50% + 1) doit être présente.
+
+<sup>2</sup> Les votes ont lieu à la majorité des membres présents. En cas d’égalité, la voix du président est prépondérante.
+
+<sup>3</sup> Les élections se font à bulletins secrets, à la majorité simple. En cas d’égalité des voix, le sort décide.
+
+#### Art. 4g
+
+**d) Participation de tiers**
+
+<sup>1</sup> Quand il le juge utile, le bureau peut inviter ponctuellement des personnes externes (observateurs, experts et journalistes) à assister aux séances plénières et à s’y exprimer.
+
+#### Art. 4h
+
+**e) Compétences**
+
+<sup>1</sup> L’assemblée générale règle les affaires qui ne sont pas du ressort du bureau selon le présent règlement. Il s’agit en particulier des tâches suivantes:
+
+- a) élire le bureau parmi ses membres, pour l’intégralité de la période de 2 ans ou jusqu’à l’échéance du mandat (art. 4c al. 8);
+- b) composer des groupes de travail parmi ses membres dans le but d’étudier des thématiques particulières, présenter un rapport et des propositions au bureau, préparer ou réaliser les décisions prises;
+- c) établir un programme d’activités pour l’année à venir, notamment sur des thèmes d’actualité en lien avec la politique de la jeunesse;
+- d) adopter le rapport d’activité, le budget et les comptes;
+- e) mener des actions concrètes;
+- f) adopter le règlement interne du Parlement des jeunes sur la proposition du bureau.
+
+#### Art. 4i
+
+**f) Propositions**
+
+<sup>1</sup> Les objets à traiter par le plénum sont introduits par une proposition émanant d’un ou de plusieurs membres, des autorités cantonales ou encore de personnes externes, mais dont la proposition est portée par un ou plusieurs membres.
+
+<sup>2</sup> Si la proposition est acceptée par le plénum, le dossier est attribué au bureau ou à un groupe de travail, qui présente un rapport sur ses travaux ainsi qu’une proposition lors d’une séance plénière ultérieure lors de laquelle une décision est prise.
+
+#### Art. 4j
+
+**g) Décisions**
+
+<sup>1</sup> La décision prise par le plénum prend la forme:
+
+- a) d’un renvoi du dossier au bureau ou à un groupe de travail pour nouvelle proposition;
+- b) d'une mise en place d'un projet en faveur de la jeunesse;
+- c) d'une proposition à adresser aux autorités cantonales;
+- d) d'une prise de position à adresser aux autorités cantonales;
+- e) d'un abandon du dossier;
+- f) d'une adoption d'une résolution.
+
+<sup>2</sup> Toute dépense votée par le plénum doit correspondre à un intérêt public. Le caissier informe l’assemblée de l’état actuel des comptes.
+
+#### Art. 4k
+
+**Bureau a) Dispositions générales**
+
+<sup>1</sup> Le bureau est l’organe exécutif du Parlement des jeunes. Il se compose:
+
+- a) du président;
+- b) de 2 vice-présidents;
+- c) du secrétaire;
+- d) du caissier.
+
+<sup>2</sup> Les membres du bureau sont rééligibles, en principe, une fois pour les membres de moins de 18 ans.
+
+#### Art. 4l
+
+**b) Convocation**
+
+<sup>1</sup> Le bureau se réunit sur convocation du président ou à la demande de 3 membres du bureau aussi souvent que les affaires l’exigent, mais au moins 4 fois par an.
+
+#### Art. 4m
+
+**c) Compétences**
+
+<sup>1</sup> Le bureau assure la gestion administrative du Parlement des jeunes et sa représentation. Il a les attributions suivantes:
+
+- a) proposer à l’assemblée générale un programme d’activités pour l’année à venir, notamment sur des thèmes d’actualité en lien avec la politique de la jeunesse;
+- b) établir le rapport d’activité, le budget et les comptes du Parlement des jeunes;
+- c) proposer des actions concrètes;
+- d) après validation par le plénum, répondre aux consultations émanant des autorités cantonales, des groupes de travail, d’un ou de plusieurs membres ou de personnes externes dont les propositions sont portées par un ou plusieurs membres;
+- e) après validation par le plénum, adresser des propositions aux services concernés, au Conseil d’Etat ou au Grand Conseil;
+- f) veiller au bon fonctionnement du Parlement des jeunes et au bon déroulement des séances plénières, en particulier en les planifiant à temps et en arrêtant la liste des objets à traiter;
+- g) élaborer le règlement interne du Parlement des jeunes, appelé à compléter les dispositions du présent règlement;
+- h) informer régulièrement le service sur ses projets et activités, notamment par l’envoi systématique des convocations aux séances des organes du Parlement des jeunes, des procès-verbaux y relatifs, du rapport d’activité, des propositions, des prises de position, du budget et des comptes;
+- i) honorer les invitations adressées au Parlement des jeunes;
+- j) informer régulièrement les membres du Parlement des jeunes sur les affaires courantes.
+
+<sup>2</sup> Les attributions des membres du bureau sont précisées par le règlement interne.
+
+## 2 Commission pour la promotion et la protection de la jeunesse
 
 #### Art. 5
 
@@ -102,7 +248,7 @@ jeunesse
 
 <sup>2</sup> Ses membres sont nommés par le Conseil d'Etat pour une période de 4 ans. Leur mandat est renouvelable deux fois.
 
-<sup>3</sup> Le chef du Service cantonal de la jeunesse, le directeur de l'Office cantonal pour la protection de l'enfant, un juge des mineurs et un représentant de la Commission des jeunes en font partie de droit.
+<sup>3</sup> Le chef du Service, le chef de l'Office cantonal pour la protection de l'enfant, un juge des mineurs et un représentant de la Commission des jeunes en font partie de droit.
 
 <sup>4</sup> Le délégué à la jeunesse participe aux séances avec voix consultative.
 
@@ -110,43 +256,36 @@ jeunesse
 
 **Fonctionnement**
 
-La Commission pour la promotion et la protection de la jeunesse se réunit au minimum 2 fois par année. Elle est présidée par le chef du Département.
+<sup>1</sup> La Commission pour la promotion et la protection de la jeunesse se réunit au minimum deux fois par année. Elle est présidée par le chef du Département.
 
 #### Art. 7
 
 **Mission**
 
-La Commission pour la promotion et la protection de la jeunesse étudie les questions générales relatives à la promotion et à la protection de la jeunesse et assure la liaison entre les services publics et les institutions privées et semi-privées s'occupant de la jeunesse.
+<sup>1</sup> La Commission pour la promotion et la protection de la jeunesse étudie les questions générales relatives à la promotion et à la protection de la jeunesse et assure la liaison entre les services publics et les institutions privées et semi-privées s'occupant de la jeunesse.
 
 #### Art. 8
 
 **Tâches**
 
-La Commission pour la promotion et la protection de la jeunesse a pour tâche notamment:
+<sup>1</sup> La Commission pour la promotion et la protection de la jeunesse a pour tâche notamment:
 
 - a) d'approuver le plan d'action que lui présentera la Commission des jeunes;
-
 - b) de soutenir le délégué à la jeunesse dans la mise en place d'une politique de la jeunesse;
-
 - c) de faire le lien entre les organismes de jeunesse ou s'occupant de la jeunesse, notamment les associations de parents, socioculturelles et sportives et les organes de décision politique en collaboration avec la Commission des jeunes;
-
 - d) de donner son préavis sur les actes législatifs ou administratifs concernant la promotion et la protection de la jeunesse, ainsi que sur toute question qui lui est soumise;
-
 - e) de présenter à l'autorité compétente les propositions et suggestions qui lui paraissent utiles, notamment au sujet de la création de nouvelles institutions ou du soutien d'institutions existantes;
-
 - f) de prendre connaissance du rapport de planification des institutions d'éducation spécialisée du canton;
-
 - g) de prendre connaissance des concepts et des programmes de prévention concernant les jeunes;
-
 - h) de donner son préavis sur toute question concernant la jeunesse lorsque le chef du Département le requiert.
 
-### Chapitre 3: Office chargé de la protection de l'enfant
+## 3 Office chargé de la protection de l'enfant
 
 #### Art. 9
 
 **Office compétent**
 
-<sup>1</sup> L'Office chargé de la protection des enfants au sens de l'art.18 de la LJe est l'Office cantonal pour la protection de l'enfant.
+<sup>1</sup> L'Office chargé de la protection des enfants au sens de l'article 18 de la LJe est l'Office cantonal pour la protection de l'enfant.
 
 <sup>2</sup> La responsabilité de cet office est la protection des enfants domiciliés ou séjournant sur le territoire valaisan.
 
@@ -154,69 +293,47 @@ La Commission pour la promotion et la protection de la jeunesse a pour tâche no
 
 **Partenaires**
 
-Outre les parents et les enfants, les partenaires de l'Office sont:
+<sup>1</sup> Outre les parents et les enfants, les partenaires de l'Office sont:
 
-- a) les autorités judiciaires
-
-- b) les autorités tutélaires et les tuteurs généraux
-
-- c) les autorités administratives communales et cantonales
-
-- d) les autorités scolaires et le corps enseignant
-
-- e) les associations et fondations d'aide à l'enfance
-
-- f) les organisations de jeunesse
-
-- g) les associations de parents et les associations socioculturelles et sportives
-
-- h) les offices d'orientation scolaire et professionnelle
-
-- i) les centres médico-sociaux régionaux
-
-- j) les professionnels de la santé, les hôpitaux, les institutions de santé mentale.
+- a) les autorités judiciaires;
+- b) les autorités de protection de l'enfant et de l'adulte;
+- c) les autorités administratives communales et cantonales;
+- d) les autorités scolaires et le corps enseignant;
+- e) les associations et fondations d'aide à l'enfance;
+- f) les organisations de jeunesse;
+- g) les associations de parents et les associations socioculturelles et sportives;
+- h) les offices d'orientation scolaire et professionnelle;
+- i) les centres médico-sociaux régionaux;
+- j) les professionnels de la santé, les hôpitaux, les institutions de santé mentale;
+- k) les services officiels de la curatelle.
 
 #### Art. 11
 
 **Mission**
 
-La mission de l'Office est:
+<sup>1</sup> La mission de l'Office est:
 
 - a) de développer des actions de prévention;
-
 - b) d'assurer la protection des enfants domiciliés ou séjournant dans le canton;
-
 - c) de surveiller le placement d'enfants conformément aux dispositions fédérales et cantonales en la matière;
-
-- d) de réaliser des enquêtes et des expertises à la demande des autorités judiciaires, administratives et tutélaires lorsque l'intérêt d'un enfant le requiert;
-
-- e) d'assumer dans la mesure de ses disponibilités les mesures de protection infanto-juvénile (assistance éducative 307 al. 3 CCS - curatelle éducative 308 CCS) et/ou collaborer à la mise en application de celles-ci lorsque qu'elles sont assumées par des tiers;
-
+- d) de réaliser des évaluations sociales et des expertises en collaboration avec le Centre pour le développement et la thérapie de l'enfant et de l'adolescent (ci-après: CDTEA) à la demande des autorités judiciaires, administratives et de protection de l'enfant et de l'adulte lorsque l'intérêt d'un enfant le requiert;
+- e) d'assumer dans la mesure de ses disponibilités les mesures de protection infanto-juvénile au sens des articles 307 ainéa 3 et 308 CC et/ou collaborer à la mise en application de celles-ci lorsqu'elles sont assumées par des tiers;
 - f) d'assurer la coordination des différentes instances lors d'enlèvements internationaux d'enfants;
-
 - g) d'apporter soutien et conseils aux parents et aux enfants lorsqu'ils le demandent;
-
-- h) d'effectuer lors de requête de placement en vue d'adoption une évaluation des capacités et des ressources éducatives des futurs parents adoptifs conformément au CCS et à l'ordonnance fédérale sur le placement d'enfants;
-
+- h) d'effectuer lors de requête de placement en vue d'adoption une évaluation des capacités et des ressources éducatives des futurs parents adoptifs conformément au CC et à l'ordonnance fédérale sur le placement d'enfants;
 - i) procéder lorsque l'intérêt de l'enfant le requiert à l'audition de l'enfant conformément à la Convention des droits de l'enfant;
-
-- j) de soutenir et conseiller les communes lors de la mise en place de réseaux d'accueil à la journée;
-
-- k) d'autoriser et surveiller les réseaux d'accueil à la journée;
-
+- j) …
+- k) …
 - l) d'assumer dans la mesure de ses disponibilités des mandats de curatelle de représentation lorsque l'intérêt de l'enfant l'exige;
-
-- m) d'effectuer des placements d'urgence;
-
-- n) d'assumer des mandats de garde (310 CCS) lorsque l'intérêt de l'enfant l'exige;
-
+- m) d'effectuer des placements d'urgence au sens de l'article 23 LJe;
+- n) d'assumer des mandats de garde (art. 310 CC) lorsque l'intérêt de l'enfant l'exige;
 - o) d'assumer d'autres tâches particulières lorsque l'intérêt d'un enfant l'exige.
 
 #### Art. 12
 
-**Direction**
+**Chef d'Office**
 
-L'Office est placé sous la responsabilité d'un directeur.
+<sup>1</sup> L'Office est placé sous la responsabilité d'un chef d'Office cantonal.
 
 #### Art. 13
 
@@ -228,9 +345,9 @@ L'Office est placé sous la responsabilité d'un directeur.
 
 #### Art. 14
 
-**Responsable de région**
+**Responsable de centre**
 
-Des responsables de région peuvent être nommés.
+<sup>1</sup> Un responsable de centre est nommé.
 
 #### Art. 15
 
@@ -248,119 +365,90 @@ Des responsables de région peuvent être nommés.
 
 **Dossiers**
 
-<sup>1</sup> Le dossier au nom de l'enfant est conservé jusqu'à sa majorité. Dans tous les cas, il doit s'être écoulé au moins dix ans entre la dernière intervention et la destruction du dossier.
+<sup>1</sup> Le dossier au nom de l'enfant est conservé jusqu'à sa majorité. Dans tous les cas, il doit s'être écoulé au moins 10 ans entre la dernière intervention et l'archivage ou la destruction du dossier.
 
-<sup>2</sup> Le jeune capable de discernement - à défaut de celui-ci, les parents ou le représentant légal - a (ont) le droit de consulter le dossier et de s'en faire expliquer le contenu.
+<sup>2</sup> Le jeune capable de discernement - à défaut de celui-ci, les parents ou le représentant légal - a(ont) le droit de consulter le dossier et de s'en faire expliquer le contenu.
 
 <sup>3</sup> Ce droit ne s'étend pas aux données concernant des tiers ou provenant de tiers couvertes par le secret professionnel ou de fonction.
 
-<sup>4</sup> Le collaborateur en charge du dossier, a défaut le directeur de l'Office, est présent lors de la consultation du dossier.
+<sup>4</sup> Le collaborateur en charge du dossier, à défaut le chef de l'Office cantonal, est présent lors de la consultation du dossier.
 
 <sup>5</sup> Lorsqu'une instance spécialisée souhaite accéder au dossier, l'accord préalable du jeune capable de discernement - à défaut de celui-ci, les parents ou le représentant légal - est nécessaire.
 
-### Chapitre 4: Office chargé du conseil éducatif, de la psychologie
+<sup>6</sup> Une directive du département règle la consultation, l'enregistrement et la conservation des données contenues dans les dossiers ainsi que l'archivage et la transmission des dossiers aux autorités pénales et judiciaires.
 
-scolaire et de la psychiatrie ambulatoire pour enfants et adolescents
+## 4 Office chargé des mesures de pédagogie spécialisée (logopédie et psychomotricité), du conseil éducatif et de la psychologie scolaire
 
-### Section 1: Principes généraux
+### 4.1
 
 #### Art. 17
 
 **Office compétent**
 
-<sup>1</sup> L'Office chargé du conseil éducatif, de la psychologie scolaire et de la psychiatrie d'enfants et d'adolescents au sens de l'article 49 de la LJe est composé:
+<sup>1</sup> L'Office chargé des mesures de pédagogie spécialisée (logopédie et psychomotricité), du conseil éducatif et de la psychologie scolaire au sens de l'article 49 LJe est le CDTEA.
 
-- a) du Centre pour le développement et la thérapie de l'enfant et de l'adolescent (CDTEA) et
-
-- b) de l'Unité de psychiatrie et de psychothérapie de l'enfant et de l'adolescent (UPEA).
+- a) …
+- b) …
 
 <sup>2</sup> Le mandat de cet office est de promouvoir le développement harmonieux des enfants et des adolescents par des mesures préventives et thérapeutiques ambulatoires sur l'ensemble du territoire cantonal.
 
-<sup>3</sup> Le directeur du CDTEA et le médecin-chef de l'UPEA sont placés sous la responsabilité directe du chef du Service cantonal de la jeunesse.
+<sup>3</sup> Le chef du CDTEA est placé sous la responsabilité directe du chef du Service.
 
 #### Art. 18
 
 **Partenaires**
 
-Outre les enfants et les jeunes, les partenaires de l'Office sont:
+<sup>1</sup> Outre les enfants et les jeunes, les partenaires de l'Office sont:
 
-- a) les parents et leurs associations
-
-- b) les enseignants et les autorités scolaires
-
-- c) les professionnels de la santé, les hôpitaux, les institutions de santé mentale
-
-- d) les autorités judiciaires et tutélaires
-
+- a) les parents et leurs associations;
+- b) les enseignants et les autorités scolaires;
+- c) les professionnels de la santé, les hôpitaux, les institutions de santé mentale;
+- d) les autorités judiciaires et les autorités de protection de l'enfant et de l'adulte;
 - e) les associations, les institutions, les services spécialisés privés ou publics.
 
 #### Art. 19
 
 **Mission**
 
-La mission de l'Office est d'effectuer de la prévention, des consultations, des examens, des expertises, des traitements et de la formation. Lui incombent plus particulièrement les tâches suivantes:
+<sup>1</sup> La mission de l'Office est d'effectuer de la prévention, des consultations, des examens, des expertises, des traitements et de la formation. Lui incombent plus particulièrement les tâches suivantes:
 
-- a) celles dont la visée est préventive,
-
-- b) celles qui exigent les compétences d'une équipe pluridisciplinaire,
-
+- a) celles dont la visée est préventive;
+- b) celles qui exigent les compétences d'une équipe pluridisciplinaire;
 - c) celles qui concernent la formation des praticiens de la santé mentale.
 
-### Section 2: Tâches du CDTEA et de l'UPEA
+### 4.2
 
 #### Art. 20
 
-Tâches relevant du Centre pour le développement et la thérapie de l'enfant et de l'adolescent (CDTEA) Les tâches suivantes relèvent du CDTEA:
+**Tâches du CDTEA**
 
-- a) Prévention: la prévention des troubles du développement (psychiques, relationnels, comportementaux, psychomoteurs, du langage oral et écrit, de l'apprentissage) et de la maltraitance infantile.
+<sup>1</sup> Les tâches suivantes relèvent du CDTEA:
 
-- b) Supervision et conseil: le conseil éducatif aux parents; la collaboration structurée ou occasionnelle avec l'école (enfantine, primaire, secondaire I et II, professionnelle), les structures d'accueil à la journée, les institutions d'éducation spécialisée, les centres spécialisés, les équipes sociales.
-
-- c) Examen et expertise: les tests psychologiques et le psychodiagnostic; les évaluations psychologiques, logopédiques et de psychomotricité; les expertises concernant les troubles du développement, les situations familiales à risque, les différentes formes de la maltraitance de l'enfant; l'audition de l'enfant et de l'adolescent.
-
-- d) Consultation et thérapie: les thérapies et les consultations à propos des troubles du développement (psychiques, relationnels, comportementaux, logopédiques, psychomoteurs et de l'apprentissage) ; les psychothérapies individuelles, familiales et de groupe; le soutien psychologique aux victimes.
-
-- e) Formation: les stages pratiques pour logopédistes, psychomotriciens et psychologues; les stages de formation pour psychothérapeutes.
+- a) prévention: la prévention des troubles du développement (psychiques, relationnels, comportementaux, psychomoteurs, du langage oral et écrit, de l'apprentissage) et de la maltraitance infantile; la formation, formation continue et supervision des médiateurs scolaires pour le canton du Valais;
+- b) supervision et conseil: le conseil éducatif aux parents, la collaboration structurée ou occasionnelle avec l'école (primaire, secondaire I et II, professionnelle), les structures d'accueil à la journée, les institutions d'éducation spécialisée, les centres spécialisés, les équipes sociales, le service de permanence psychologique durant les heures d'ouverture;
+- c) examen et expertise: les tests psychologiques et le psychodiagnostic; les évaluations psychologiques, logopédiques et de psychomotricité; les expertises concernant les troubles du développement, les situations familiales à risque, les différentes formes de la maltraitance de l'enfant et les auditions de l'enfant et de l'adolescent en collaboration avec l'Office pour la protection de l'enfant et/ou sur demande des autorités compétentes; la participation aux auditions audiovisuelles en qualité de spécialiste au sens de l'article 154 alinéa 4 lettre d CPP;
+- d) consultation et thérapie: les thérapies et les consultations à propos des troubles du développement (psychiques, relationnels, comportementaux, logopédiques, psychomoteurs et de l'apprentissage); les psychothérapies individuelles, familiales et de groupe; le soutien psychologique aux victimes;
+- e) formation: les stages pratiques pour logopédistes, psychomotriciens et psychologues; les stages de formation pour psychothérapeutes.
 
 #### Art. 21
 
-Tâches relevant de l'Unité de psychiatrie et de psychothérapie pour l'enfant et l'adolescent (UPEA) Les tâches suivantes relèvent de l'UPEA:
-
-- a) Prévention: la prévention des troubles et maladies psychiatriques et psychiques, des troubles du développement et de la maltraitance infantile.
-
-- b) Consilium et liaison: la collaboration structurée ou occasionnelle avec le corps médical, les hôpitaux, les foyers thérapeutiques, les institutions d'éducation spécialisée, les centres spécialisés, les équipes sociales.
-
-- c) Examen et expertise: le diagnostic différentiel concernant les troubles psychiatriques et psychiques; les expertises pédopsychiatriques et médicales, les expertises concernant les situations familiales à risque, les différentes formes de la maltraitance de l'enfant; l'audition de l'enfant et de l'adolescent.
-
-- d) Consultation et thérapie: le traitement des troubles et maladies psychiatriques et psychiques; les psychothérapies individuelles, familiales et de groupe; le soutien psychologique aux victimes.
-
-- e) Formation et supervision: les stages pratiques pour médecins assistants en psychiatrie de l'enfant et de l'adolescent; les stages de formation pour psychothérapeutes.
+**…**
 
 #### Art. 22
 
-**Autonomie et complémentarité**
-
-Le CDTEA et l'UPEA sont des sections autonomes, qui ont leur organisation propre. Ils coopèrent et de se répartissent les tâches selon le principe de complémentarité et en fonction de la disponibilité, de manière à parvenir à une utilisation optimale des ressources.
+**…**
 
 #### Art. 23
 
-**Collaboration entre le CDTEA et l'UPEA**
+**…**
 
-<sup>1</sup> Tant au niveau cantonal que régional, le CDTEA et l'UPEA coopèrent pour définir une politique commune de promotion de la santé mentale. Un cadre structuré d'échanges est aménagé pour garantir un enrichissement professionnel réciproque.
-
-<sup>2</sup> Dans la mesure du possible, ils travaillent dans des locaux se trouvant sous le même toit.
-
-<sup>3</sup> Les informations obtenues par le CDTEA et l'UPEA sur les consultants sont couvertes par le secret. Elles peuvent cependant être transmises de l'un(e) à l'autre avec l'accord du jeune capable de discernement - à défaut de celui-ci,
-
-### Section 3: Organisation du Centre pour le développement et la
-
-thérapie de l'enfant et de l'adolescent (CDTEA)
+### 4.3
 
 #### Art. 24
 
-**Direction**
+**Chef d'Office**
 
-Le CDTEA est placé sous la responsabilité d'un directeur.
+<sup>1</sup> Le CDTEA est placé sous la responsabilité d'un chef d'Office cantonal.
 
 #### Art. 25
 
@@ -368,77 +456,103 @@ Le CDTEA est placé sous la responsabilité d'un directeur.
 
 <sup>1</sup> Le CDTEA est composé d'équipes pluridisciplinaires régionales. Ces équipes constituent un centre régional.
 
-<sup>2</sup> Les centres régionaux se trouvent à Monthey, Martigny, Sion, Sierre, Viège et Brigue. Si les circonstances l'exigent, cette localisation peut être modifiée.
+<sup>2</sup> Les centres régionaux se trouvent à Monthey, Martigny, Sion, Sierre, Viège et Brigue. Si les circonstances l'exigent, cette localisation peut être modifiée. En principe, des antennes régionales fournissent des prestations pédago-thérapeutiques, en particulier la logopédie, dans chaque bassin versant des établissements scolaires, conformément au principe de proximité.
 
 #### Art. 26
 
-**Responsable de centre régional**
+**Responsable de centre**
 
-Le responsable de centre régional est choisi parmi les professions citées à l'article 27.
+<sup>1</sup> Le responsable de centre est choisi parmi les professions citées à l'article 27.
+
+#### Art. 26a
+
+**Coordinateur pédago-thérapeutique**
+
+<sup>1</sup> Le responsable de centre est assisté d'un coordinateur pédago-thérapeutique.
 
 #### Art. 27
 
 **Qualification professionnelle**
 
-Les collaborateurs du CDTEA sont notamment des logopédistes, des psychologues, des psychomotriciens et des psychothérapeutes. Ils doivent posséder une formation théorique et pratique correspondant à leur fonction. Il leur incombe d'actualiser régulièrement leurs connaissances et compétences par une formation continue. Des directives internes, coordonnées avec les dispositions des associations faîtières de ces professions au niveau national, règlent le perfectionnement et la formation continue au sein du CDTEA.
+<sup>1</sup> Les collaborateurs du CDTEA sont notamment des logopédistes, des psychologues, des psychomotriciens et des psychothérapeutes. Ils doivent posséder une formation théorique et pratique correspondant à leur fonction. Il leur incombe d'actualiser régulièrement leurs connaissances et compétences par une formation continue. Des directives internes, coordonnées avec les dispositions des associations faîtières de ces professions au niveau national, règlent le perfectionnement et la formation continue au sein du CDTEA.
 
 #### Art. 28
 
 **Dossiers**
 
-<sup>1</sup> Le dossier au nom de l'enfant ou du jeune est conservé jusqu'à sa majorité. Dans tous les cas, il doit s'être écoulé au moins dix ans entre la dernière intervention et la destruction du dossier.
+<sup>1</sup> Le dossier au nom de l'enfant ou du jeune est conservé jusqu'à sa majorité. Dans tous les cas, il doit s'être écoulé au moins 10 ans entre la dernière intervention et l'archivage ou la destruction du dossier.
 
-<sup>2</sup> L'enfant ou le jeune capable de discernement - à défaut de celui-ci, les parents ou le représentant légal - a (ont) le droit de consulter le dossier et de s'en faire expliquer le contenu. Ce droit ne s'étend pas aux données concernant des tiers ou provenant de tiers couvertes par le secret professionnel et/ou le secret de fonction. Le collaborateur en charge du dossier, à défaut son supérieur, a la faculté d'exiger que la consultation se fasse en sa présence.
+<sup>2</sup> L'enfant ou le jeune capable de discernement - à défaut de celui-ci, les parents ou le représentant légal - a(ont) le droit de consulter le dossier et de s'en faire expliquer le contenu. Ce droit ne s'étend pas aux données concernant des tiers ou provenant de tiers couvertes par le secret professionnel et/ou le secret de fonction. Le collaborateur en charge du dossier, à défaut son supérieur, a la faculté d'exiger que la consultation se fasse en sa présence.
 
 <sup>3</sup> Lorsqu'une instance spécialisée (service spécialisé, médecin, etc.) souhaite accéder au dossier, l'accord préalable du jeune capable de discernement - à défaut de celui-ci, les parents ou le représentant légal - est nécessaire.
 
-### Section 4: Organisation de l'Unité de psychiatrie et de
-
-psychothérapie de l'enfant et de l'adolescent (UPEA)
+### 4.4
 
 #### Art. 29
 
-**Direction**
-
-L'Unité de psychiatrie et de psychothérapie de l'enfant et de l'adolescent est placée sous la direction d'un médecin-chef, lequel doit être un spécialiste FMH en psychiatrie et psychothérapie d'enfants et d'adolescents.
+**…**
 
 #### Art. 30
 
-**Centres régionaux**
-
-<sup>1</sup> L'UPEA est composée d'équipes médicales régionales, lesquelles constituent un centre régional.
-
-<sup>2</sup> Les centres régionaux se trouvent à Monthey, Martigny, Sion, Sierre, Viège et Brigue. Si les circonstances l'exigent, cette localisation peut être modifiée.
+**…**
 
 #### Art. 31
 
-**Responsable de centre régional**
-
-Le responsable de centre régional est un médecin formé ou qui se forme en psychiatrie et psychothérapie de l'enfant et de l'adolescent.
+**…**
 
 #### Art. 32
 
-**Qualification professionnelle**
-
-Les collaborateurs de l'UPEA doivent posséder une formation théorique et pratique appropriée à leur fonction. Il leur incombe d'actualiser régulièrement leurs connaissances et compétences par une formation continue. Des directives internes, coordonnées avec celles de la FMH, règlent le perfectionnement et la formation continue au sein de l'UPEA.
+**…**
 
 #### Art. 33
 
-**Dossiers**
+**…**
 
-<sup>1</sup> Le dossier au nom de l'enfant ou de l'adolescent est conservé jusqu'au moment où il a atteint sa majorité. Dans tous les cas, il doit s'être écoulé au moins dix ans entre la dernière intervention et la destruction du dossier.
+## 4a Secteur chargé des réseaux d'accueil à la journée
 
-<sup>2</sup> L'accès au dossier par le patient est réglé par l'article 22 de la loi sur la santé.
+#### Art. 33a
 
-<sup>3</sup> Lorsqu'une instance spécialisée (service spécialisé, médecin, etc.) souhaite accéder au dossier, l'accord préalable du jeune capable de discernement - à défaut de celui-ci, des parents ou du représentant légal - est nécessaire.
+**Secteur compétent**
 
-### Chapitre 5: Médiateur
+<sup>1</sup> Le secteur chargé des réseaux d'accueil à la journée au sens des articles 30 et suivants LJe est le Secteur Accueil à la journée, lequel est rattaché au Service.
+
+<sup>2</sup> Le mandat du Secteur Accueil à la journée est de veiller au développement homogène des réseaux d'accueil à la journée sur le territoire cantonal et d'exercer la haute surveillance des structures d'accueil à la journée.
+
+#### Art. 33b
+
+**Partenaires**
+
+<sup>1</sup> Outre les parents et les enfants, les partenaires du secteur sont:
+
+- a) les communes;
+- b) les structures d'accueil à la journée;
+- c) la fédération valaisanne d'accueil familial à la journée;
+- d) les associations régionales d'accueil familial de jour.
+
+#### Art. 33c
+
+**Mission**
+
+<sup>1</sup> La mission du secteur est:
+
+- a) de conseiller et soutenir les communes et les associations d'accueil familial de jour dans la planification et la mise en place d'un réseau d'accueil à la journée;
+- b) d'évaluer, autoriser et surveiller les structures d'accueil à la journée;
+- c) de conseiller et soutenir les responsables des structures d'accueil à la journée dans l'accomplissement de leur mission;
+- d) d'assurer la formation continue du personnel éducatif des structures d'accueil à la journée en collaboration avec les établissements de formation;
+
+#### Art. 33d
+
+**Responsable cantonal**
+
+<sup>1</sup> Un responsable cantonal est nommé.
+
+## 5 Médiateur
 
 #### Art. 34
 
 **Principe**
 
-Toute personne qui estime que les droits qui lui sont reconnus par la LJe n'ont pas été respectés peut s'adresser à un médiateur. L'indépendance de ce dernier doit être garantie.
+<sup>1</sup> Toute personne qui estime que les droits qui lui sont reconnus par la LJe n'ont pas été respectés peut s'adresser à un médiateur. L'indépendance de ce dernier doit être garantie.
 
 #### Art. 35
 
@@ -454,13 +568,13 @@ Toute personne qui estime que les droits qui lui sont reconnus par la LJe n'ont 
 
 **Récusation**
 
-Le médiateur doit se récuser s'il existe des raisons de douter de son impartialité. L'affaire est alors traitée par un suppléant.
+<sup>1</sup> Le médiateur doit se récuser s'il existe des raisons de douter de son impartialité. L'affaire est alors traitée par un suppléant.
 
 #### Art. 37
 
 **Secret de fonction**
 
-Le médiateur et son(ses) suppléant(s) sont liés par le secret de fonction pour les informations dont ils ont connaissance à l'occasion de leurs médiations.
+<sup>1</sup> Le médiateur et son(ses) suppléant(s) sont liés par le secret de fonction pour les informations dont ils ont connaissance à l'occasion de leurs médiations.
 
 #### Art. 38
 
@@ -480,17 +594,15 @@ Le médiateur et son(ses) suppléant(s) sont liés par le secret de fonction pou
 
 **Emolument**
 
-A l'occasion d'une démarche de conciliation un émolument modeste est perçu. Le chef du Service peut y renoncer ou le réduire si les circonstances le justifient.
+<sup>1</sup> A l'occasion d'une démarche de conciliation un émolument modeste est perçu. Le chef du Service peut y renoncer ou le réduire si les circonstances le justifient.
 
-### Chapitre 6: Protection des enfants à l'égard des représentations
-
-cinématographiques et autres supports médiatiques
+## 6 Protection des enfants à l'égard des représentations cinématographiques et autres supports médiatiques
 
 #### Art. 40
 
 **Principes**
 
-La Commission pour la protection des enfants à l'égard des représentations cinématographiques et autres supports médiatiques surveille et limite l'accès à la diffusion des représentations cinématographiques et autres supports médiatiques lorsqu'ils sont proposés dans un lieu public.
+<sup>1</sup> La Commission pour la protection des enfants à l'égard des représentations cinématographiques et autres supports médiatiques surveille et limite l'accès à la diffusion des représentations cinématographiques et autres supports médiatiques lorsqu'ils sont proposés dans un lieu public.
 
 #### Art. 41
 
@@ -530,15 +642,13 @@ La Commission pour la protection des enfants à l'égard des représentations ci
 
 <sup>3</sup> Les membres de la Commission ainsi que les fonctionnaires cantonaux spécialement désignés par le Conseil d'Etat ont libre accès à toutes les représentations cinématographiques données dans le canton afin d'y effectuer des contrôles, moyennant présentation d'une carte de légitimation délivrée par le Département.
 
-<sup>4</sup> Les membres de la Commission sont tenus au secret de fonction
+<sup>4</sup> Les membres de la Commission sont tenus au secret de fonction.
 
 <sup>5</sup> Un rapport d'activité est remis annuellement au Département.
 
 #### Art. 44
 
-**Obligations des exploitants de cinéma permanent et autres**
-
-organisateurs de représentations cinématographiques
+**Obligations des exploitants de cinéma permanent et autres organisateurs de représentations cinématographiques**
 
 <sup>1</sup> Les exploitants de cinéma permanent et autres organisateurs de représentations cinématographiques sont tenus d'annoncer spontanément au Département, au moins 15 jours à l'avance, tout film susceptible de faire l'objet d'une mesure restrictive.
 
@@ -562,7 +672,7 @@ organisateurs de représentations cinématographiques
 
 **Sanctions**
 
-Les sanctions prévues par la LJe s'appliquent à l'exploitant ou au diffuseur ambulant qui viole les dispositions du présent règlement ou qui néglige son devoir de contrôle.
+<sup>1</sup> Les sanctions prévues par la LJe s'appliquent à l'exploitant ou au diffuseur ambulant qui viole les dispositions du présent règlement ou qui néglige son devoir de contrôle.
 
 #### Art. 47
 
@@ -572,6 +682,4 @@ Les sanctions prévues par la LJe s'appliquent à l'exploitant ou au diffuseur a
 
 <sup>2</sup> Le Département est chargé de son application.
 
-Ainsi arrêté en Conseil d'Etat, à Sion, le 9 mai 2001.
-
-Le président du Conseil d'Etat: Wilhelm Schnyder Le chancelier d'Etat: Henri v. Roten
+RCV BO/Abl. 20/2001

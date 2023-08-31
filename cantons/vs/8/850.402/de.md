@@ -1,34 +1,37 @@
 ---
 canton: VS
 number: "850.402"
-title: Reglement betreffend verschiedene Einrichtungen für die Jugend
+title: "Reglement über die verschiedenen Einrichtungen für die Jugend *"
 short: RüvEJ
 language: de
-version: 2001-06-01
-corrected: 2017-10-12
-version_adopted: 2001-05-09
+version: 2023-09-01
+valid_until: 2024-08-31
+version_adopted: 2023-11-08
 adopted: 2001-05-09
 in_force: 2001-06-01
 url: "https://lex.vs.ch/app/de/texts_of_law/850.402"
-pdf: "https://lex.vs.ch/api/de/versions/153/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3241/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement betreffend verschiedene Einrichtungen für die Jugend
+# Reglement über die verschiedenen Einrichtungen für die Jugend
 
-vom 9. Mai 2001
+(RüvEJ)
+
+vom 09.05.2001 (Stand 01.09.2023)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen die Artikel 8, 9, 18, 48, 49, 50, 56 und 57 des Jugendgesetzes vom 11. Mai 2000;
+eingesehen den Artikel 57 Absatz 1 der Kantonsverfassung;
 
-auf Antrag des Departements für Erziehung, Kultur und Sport,
+eingesehen die Artikel 8, 9, 9a, 18, 48, 49, 50, 56 und 57 des Jugendgesetzes vom 11. Mai 2000 (JG);
+
+auf Antrag des für die Bildung zuständigen Departements,
 
 beschliesst:
 
-### 1. Kapitel: Jugendkommission
+## 1 Jugendkommission
 
 #### Art. 1
 
@@ -56,41 +59,186 @@ beschliesst:
 
 **Allgemeiner Auftrag**
 
-Die Jugendkommission verfolgt namentlich folgende Ziele:
+<sup>1</sup> Die Jugendkommission verfolgt namentlich folgende Ziele:
 
 - a) die Feststellung der Bedürfnisse der jungen Menschen und der Jugendvereine;
-
-- b) die Ermunterung und die Förderung der Aktivitäten im schulexternen Bereich (sportlich, soziokulturell,...);
-
+- b) die Ermunterung und die Förderung der Aktivitäten im schulexternen Bereich (sportlich, soziokulturell, usw.);
 - c) die Erstellung eines Aktionsplanes am Jahresanfang; dieses Aktionsprogramm wird der beratenden Kommission zur Jugendförderung und zum Jugendschutz zur Genehmigung und Unterstützung unterbreitet;
-
 - d) der Jugend die Möglichkeit eröffnen, Projekte und Ideen für Aktivitäten vorzuschlagen;
-
 - e) der Jugend die Möglichkeit geben, im Rahmen des Aktionsprogramms Verantwortung wahrzunehmen;
-
 - f) die öffentlichen Körperschaften anzuhalten, ihre Anstrengungen im Bereiche der Jugendarbeit zu verstärken.
 
 #### Art. 4
 
 **Aufgaben**
 
-Die Jugendkommission sorgt namentlich für:
+<sup>1</sup> Die Jugendkommission sorgt namentlich für:
 
 - a) die Unterstützung von jungen Menschen zwecks Erarbeitung von Vorschlägen und deren systematische Darstellung;
-
 - b) die Sammlung und das Studium der eingebrachten Vorschläge;
-
 - c) die Förderung des Dialogs und der Verbindung zwischen den jungen Menschen, den Jugendvereinen und den Behörden in Zusammenarbeit mit der Kommission zur Jugendförderung und zum Jugendschutz;
-
 - d) die Unterbreitung von Projekten der jungen Menschen und der Jugendvereine;
-
-- e) die Abfassung einer Vormeinung zuhanden des Departementvorstehers oder des Dienstchefs zu Finanzierungsbegehren.
-
+- e) die Abfassung einer Vormeinung zuhanden des Departementvorstehers oder des Chefs der kantonalen Dienststelle für die Jugend (nachfolgend: die Dienststelle) zu Finanzierungsbegehren. Die Kommission kann diese Zuständigkeit an den Jugenddelegierten übertragen;
 - f) die Unterstützung des Jugenddelegierten zur Durchführung der Jugendpolitik;
-
 - g) die Übernahme anderer Aufgaben mit dem Ziel, die Jugend zu fördern und zu unterstützen.
 
-### 2. Kapitel: Kommission zur Jugendförderung und zum Jugendschutz
+## 1a Jugendparlament
+
+#### Art. 4a
+
+**Zuständigkeiten der Dienststelle**
+
+<sup>1</sup> Das Jugendparlament ist der Dienststelle zugeordnet.
+
+<sup>2</sup> Die Dienststelle sorgt durch den Jugenddelegierten für einen reibungslosen Jugendparlamentsbetrieb, indem sie dessen Tätigkeiten angemessen begleitet und unterstützt. In diesem Rahmen verfügt die Dienststelle insbesondere über folgende Zuständigkeiten:
+
+- a) sie ist berechtigt, an den Sitzungen der Jugendparlamentsorgane mit beratender Stimme teilzunehmen;
+- b) sie gibt Empfehlungen ab und begleitet das Jugendparlament bei der Verwaltung der gewährten Kredite;
+- c) sie kann Personen vorschlagen, die als Gäste oder Sachverständige an den Sitzungen der Jugendparlamentsorgane teilnehmen dürfen;
+- d) sie unterstützt das Jugendparlament insbesondere dadurch, dass sie allgemeine Fragen beantwortet oder in beratender Funktion beleuchtet, das Vorgehen des Jugendparlaments im Zusammenhang mit externen Personen erleichtert und unterstützt;
+- e) sie beteiligt sich an der Ausarbeitung und an etwaigen Änderungen des internen Reglements des Jugendparlaments.
+
+#### Art. 4b
+
+**Ansprechpartner in Bildungseinrichtungen**
+
+<sup>1</sup> Das Jugendparlament verfügt über Ansprechpartner in den Bildungseinrichtungen. Zu diesem Zweck bezeichnen die Bildungseinrichtungen eine Ansprechperson. Die Dienststelle für Unterrichtswesen und die Dienststelle für Berufsbildung arbeiten hierfür zusammen.
+
+<sup>2</sup> Die bezeichnete Ansprechperson führt in den Einrichtungen ein Wahlverfahren ein, mit dem die Mitglieder des Jugendparlaments unter den Personen in Ausbildung bestimmt werden können.
+
+<sup>3</sup> Die bezeichnete Ansprechperson arbeitet mit den gewählten Mitgliedern ihrer Einrichtung zusammen, gibt Informationen aus dem Jugendparlament weiter und stellt dabei sicher, dass unter Berücksichtigung beider Sprachgemeinschaften kommuniziert wird.
+
+#### Art. 4c
+
+**Zusammensetzung**
+
+<sup>1</sup> Das Jugendparlament setzt sich aus 60 Mitgliedern aus den verschiedenen Bildungseinrichtungen der Sekundarstufe II zusammen, die für ein 2-jähriges Mandat gewählt werden und deren Verteilung im Verhältnis zur Anzahl Schülerinnen und Schüler erfolgt.
+
+<sup>2</sup> Die Mitglieder werden von den Personen in Ausbildung jeweils nach einem schuleigenen Wahlverfahren bestimmt.
+
+<sup>3</sup> Im Jugendparlament sind keine Parteien vertreten.
+
+<sup>4</sup> Die Jugendparlamentsmitglieder sind zwischen 14 und 20 Jahre alt und im Kanton Wallis wohnhaft.
+
+<sup>5</sup> Das Jugendparlament wird nach Ende der Mandatszeit komplett neu gewählt. Für Mitglieder unter 18 Jahren kann das Mandat in der Regel einmal erneuert werden.
+
+<sup>6</sup> Das interne Reglement sieht eine ausgeglichene Vertretung der Geschlechter, der beiden Sprachgemeinschaften, der Regionen, der ideologischen Ansichten und der sozialen und beruflichen Hintergründe vor.
+
+<sup>7</sup> Die Mitglieder des Jugendparlaments treten ihr Amt in der Parlamentssession an, die auf die Wahlen folgt.
+
+<sup>8</sup> Das Mandat der Mitglieder im Jugendparlament endet:
+
+- a) nach Ablauf der in Artikel 4c Absatz 1 des vorliegenden Reglements festgesetzten Dauer;
+- b) durch Rücktritt, der schriftlich an die Präsidentin oder den Präsidenten gerichtet wird, die oder der die Dienststelle darüber informiert und das Datum nennt, an dem der Rücktritt wirksam wird, oder
+- c) sobald das 20. Lebensjahr vollendet ist.
+
+#### Art. 4d
+
+**Generalversammlung a) Allgemeine Bestimmungen**
+
+<sup>1</sup> Die Generalversammlung ist das oberste Organ des Jugendparlaments. Sie vereint alle amtierenden Mitglieder.
+
+<sup>2</sup> Das interne Reglement bestimmt die Entschädigung, die an die Jugendparlamentsmitglieder für das Beiwohnen an den Sessionen ausgerichtet wird.
+
+#### Art. 4e
+
+**b) Einberufung**
+
+<sup>1</sup> Die Generalversammlung wird vom Büro einberufen oder wenn ein Drittel ihrer Mitglieder dies schriftlich bei der Direktion beantragt.
+
+<sup>2</sup> Die Einberufung erfolgt in Fällen, die im internen Reglement festgelegt sind, mindestens jedoch dreimal pro Jahr. Sie muss mindestens drei Wochen vor dem geplanten Sitzungsdatum verschickt werden.
+
+#### Art. 4f
+
+**c) Beschlussfassung**
+
+<sup>1</sup> Um beschlussfähig zu sein, muss mindestens eine Mehrheit der Mitglieder (50% + 1) anwesend sein.
+
+<sup>2</sup> Bei Abstimmungen gilt das Mehrheitsprinzip der anwesenden Mitglieder. Bei Stimmengleichheit steht der Präsidentin oder dem Präsidenten der Stichentscheid zu.
+
+<sup>3</sup> Die Wahlen erfolgen in geheimer Abstimmung mit einfacher Mehrheit. Bei Stimmengleichheit entscheidet das Los.
+
+#### Art. 4g
+
+**d) Teilnahme Dritter**
+
+<sup>1</sup> Wenn es ihm zweckmässig erscheint, kann das Büro punktuell externe Personen (Beobachtende, Sachverständige und Medienschaffende) einladen, an den Plenarsitzungen teilzunehmen und dort zu sprechen.
+
+#### Art. 4h
+
+**e) Zuständigkeiten**
+
+<sup>1</sup> Die Generalversammlung behandelt Angelegenheiten, die gemäss vorliegendem Reglement nicht in den Zuständigkeitsbereich des Büros fallen. Dabei handelt es sich namentlich um folgende Aufgaben:
+
+- a) das Büro aus den Reihen der Mitglieder für die gesamte Zweijahresperiode oder bis zum Ende des Mandats wählen (Art. 4c Abs. 1);
+- b) aus den Reihen der Mitglieder Arbeitsgruppen bilden, um bestimmte Themen zu untersuchen, dem Büro einen Bericht und Vorschläge zu unterbreiten und die getroffenen Beschlüsse vorzubereiten oder umzusetzen;
+- c) ein Tätigkeitsprogramm für das kommende Jahr erstellen, insbesondere zu aktuellen Themen im Zusammenhang mit der Jugendpolitik;
+- d) Tätigkeitsbericht, Budget und Jahresrechnung verabschieden;
+- e) konkrete Massnahmen ergreifen;
+- f) das interne Reglement des Jugendparlaments auf Antrag des Büros verabschieden.
+
+#### Art. 4i
+
+**f) Vorschläge**
+
+<sup>1</sup> Die vom Plenum zu behandelnden Geschäfte werden von einem oder mehreren Mitgliedern, den kantonalen Behörden oder aber externen Personen vorgeschlagen; in diesem Fall wird der Vorschlag von einem oder mehreren Mitgliedern eingebracht.
+
+<sup>2</sup> Wenn der Vorschlag vom Plenum angenommen wird, wird das Dossier dem Büro oder einer Arbeitsgruppe zugewiesen, die einen Bericht über ihre Arbeit sowie einen Vorschlag in einer späteren Plenarsitzung vorlegt, in der ein Beschluss gefasst wird.
+
+#### Art. 4j
+
+**g) Beschlüsse**
+
+<sup>1</sup> Der vom Plenum gefasste Beschluss erfolgt in Form:
+
+- a) einer Rücksendung des Dossiers ans Büro oder eine Arbeitsgruppe für einen neuen Vorschlag;
+- b) einer Umsetzung eines Projekts für die Jugend;
+- c) eines Vorschlags, der an die kantonalen Behörden gerichtet wird;
+- d) einer Stellungnahme, die an die kantonalen Behörden gerichtet wird;
+- e) einer Schliessung des Dossiers;
+- f) einer Verabschiedung einer Resolution.
+
+<sup>2</sup> Jede vom Plenum beschlossene Ausgabe muss im öffentlichen Interesse getätigt werden. Die Kassierin oder der Kassier informiert die Versammlung über den aktuellen Stand der Konten.
+
+#### Art. 4k
+
+**Büro a) Allgemeine Bestimmungen**
+
+<sup>1</sup> Das Büro ist das ausführende Organ des Parlaments. Es setzt sich zusammen aus:
+
+- a) der Präsidentin oder dem Präsidenten;
+- b) 2 Vizepräsidentinnen oder Vizepräsidenten;
+- c) der Sekretärin oder dem Sekretär;
+- d) der Kassierin oder dem Kassier.
+
+<sup>2</sup> Die Mitglieder des Büros können grundsätzlich einmal wiedergewählt werden, wenn die Mitglieder unter 18 Jahre alt sind.
+
+#### Art. 4l
+
+**b) Einberufung**
+
+<sup>1</sup> Das Büro versammelt sich auf Einberufung der Präsidentin oder des Präsidenten oder auf Antrag von drei Mitgliedern des Büros so oft, wie es die Geschäfte erfordern, mindestens aber viermal pro Jahr.
+
+#### Art. 4m
+
+**c) Zuständigkeiten**
+
+<sup>1</sup> Das Büro ist für die Verwaltung des Parlaments und dessen Vertretung zuständig. Es hat folgende Zuständigkeiten:
+
+- a) der Generalversammlung ein Tätigkeitsprogramm für das kommende Jahr vorschlagen, insbesondere zu aktuellen Themen im Zusammenhang mit der Jugendpolitik;
+- b) Tätigkeitsbericht, Budget und Jahresrechnung des Jugendparlaments verfassen;
+- c) konkrete Massnahmen voerschlagen;
+- d) nach Validierung durch das Plenum Vernehmlassungen beantworten, die von kantonalen Behörden, Arbeitsgruppen, einem oder mehreren Mitgliedern oder externen Personen ausgehen, deren Vorschläge von einem oder mehreren Mitgliedern eingebracht werden;
+- e) nach Validierung durch das Plenum Vorschläge an die zuständigen Dienststellen, den Staatsrat oder den Grossen Rat richten;
+- f) für den reibungslosen Jugendparlamentsbetrieb und Verlauf der Plenarsitzungen sorgen, insbesondere durch deren rechtzeitige Planung und die Festlegung der Liste der zu behandelnden Geschäfte;
+- g) das interne Reglement des Parlaments ausarbeiten, das die Bestimmungen des vorliegenden Reglements ergänzen soll;
+- h) die Dienststelle regelmässig über seine Projekte und Tätigkeiten informieren, insbesondere durch die systematische Zusendung der Einberufungen zu den Sitzungen der Parlamentsorgane, der entsprechenden Protokolle, des Tätigkeitsberichts, der Vorschläge, der Stellungnahmen, des Budgets und der Jahresrechnung;
+- i) Einladungen zuhanden des Jugendparlaments annehmen;
+- j) die Jugendparlamentsmitglieder regelmässig über laufende Geschäfte informieren.
+
+<sup>2</sup> Die Zuständigkeiten der Mitglieder des Büros sind im internen Reglement aufgeführt.
+
+## 2 Kommission zur Jugendförderung und zum Jugendschutz
 
 #### Art. 5
 
@@ -100,7 +248,7 @@ Die Jugendkommission sorgt namentlich für:
 
 <sup>2</sup> Seine Mitglieder werden durch den Staatsrat für eine Zeitdauer von 4 Jahren ernannt. Ihr Mandat kann zweimal erneuert werden.
 
-<sup>3</sup> Der Chef der Dienststelle für die Jugend, der Direktor des kantonalen Amtes für Kindesschutz, ein Jugendrichter und ein Vertreter der Jugendkommission sind von rechts wegen Mitglieder.
+<sup>3</sup> Der Chef der Dienststelle, der Chef des kantonalen Amtes für Kindesschutz, ein Jugendrichter und ein Vertreter der Jugendkommission sind von Amtes wegen Mitglieder.
 
 <sup>4</sup> Der Jugenddelegierte nimmt an den Sitzungen mit beratender Stimme teil.
 
@@ -108,37 +256,30 @@ Die Jugendkommission sorgt namentlich für:
 
 **Betrieb**
 
-Die Kommission zur Jugendförderung und zum Jugendschutz versammelt sich im Minimum zweimal pro Jahr. Sie wird vom Departementvorsteher präsidiert.
+<sup>1</sup> Die Kommission zur Jugendförderung und zum Jugendschutz versammelt sich im Minimum zweimal pro Jahr. Sie wird vom Departementvorsteher präsidiert.
 
 #### Art. 7
 
 **Auftrag**
 
-Die Kommission zur Jugendförderung und zum Jugendschutz studiert die allgemeinen Fragen bezüglich der Förderung und Schutz der Jugend und sichert die Verbindung zwischen der Behörde und den privaten oder halbprivaten Einrichtungen, welche sich mit jungen Menschen beschäftigen.
+<sup>1</sup> Die Kommission zur Jugendförderung und zum Jugendschutz studiert die allgemeinen Fragen bezüglich der Förderung und Schutz der Jugend und sichert die Verbindung zwischen der Behörde und den privaten oder halbprivaten Einrichtungen, welche sich mit jungen Menschen beschäftigen.
 
 #### Art. 8
 
 **Aufgaben**
 
-Die beratende Kommission zur Jugendförderung und zum Jugendschutz hat namentlich folgende Aufgaben:
+<sup>1</sup> Die beratende Kommission zur Jugendförderung und zum Jugendschutz hat namentlich folgende Aufgaben:
 
 - a) die Genehmigung des Aktionsplanes, welcher von der Jugendkommission vorgestellt wird;
-
 - b) den Jugenddelegierten bei der Durchführung der Jugendpolitik unterstützen;
-
 - c) in Zusammenarbeit mit der Jugendkommission die Verbindung zwischen den Jugendorganisationen und solchen die sich mit der Jugend befassen, namentlich die Elternvereinigungen, soziokulturelle und sportliche Vereine, und den politischen Entscheidungsorganen sicherzustellen;
-
 - d) ihre Vormeinung zu gesetzgeberischen Entwürfen und Verwaltungsakten bezüglich der Jugendförderung und dem Jugendschutz abgeben sowie zu allen ihr unterbreiteten Fragen Stellung beziehen;
-
 - e) an die zuständige Behörde die Vorschläge und Anregungen vorbringen, welche ihr zweckmässig erscheinen, namentlich zur Schaffung neuer Einrichtungen und der Unterstützung bestehender Einrichtungen;
-
 - f) die Kenntnisnahme des Planungsberichtes der sozialpädagogischen Einrichtungen des Kantons;
-
 - g) die Kenntnisnahme des Präventionskonzepts und der Präventionsprogramme, welche für die Jugend bestimmt sind;
-
 - h) die Einreichung ihrer Vormeinung über alle Fragen bezüglich der Jugend, welche der Departementsvorsteher ihr vorlegt.
 
-### 3. Kapitel: Amt für Kindesschutz
+## 3 Amt für Kindesschutz
 
 #### Art. 9
 
@@ -152,69 +293,47 @@ Die beratende Kommission zur Jugendförderung und zum Jugendschutz hat namentlic
 
 **Partner**
 
-Nebst den Eltern und Kinder sind die Partner der Amtsstelle:
+<sup>1</sup> Nebst den Eltern und Kinder sind die Partner der Amtsstelle:
 
 - a) die Gerichtsbehörden;
-
-- b) die Vormundschaftsbehörden und die Amtsvormünder;
-
+- b) die Kindes- und Erwachsenenschutzbehörden;
 - c) die kommunalen und kantonalen Verwaltungsbehörden;
-
 - d) die Schulbehörden und die Lehrerschaft;
-
 - e) die Vereine und Stiftungen für die Kinderhilfe;
-
 - f) die Jugendorganisationen;
-
 - g) die Elternvereine, die soziokulturellen und sportlichen Vereine;
-
 - h) die Amtsstelle für die Studien- und Berufsberatung;
-
 - i) die sozialmedizinischen Regionalzentren;
-
-- j) die Gesundheitsfachleute, die Spitäler, die Institutionen für psychische Gesundheit.
+- j) die Gesundheitsfachleute, die Spitäler, die Institutionen für psychische Gesundheit;
+- k) die Berufsbeistandschaften.
 
 #### Art. 11
 
 **Auftrag**
 
-Der Auftrag der Amtsstelle ist es:
+<sup>1</sup> Der Auftrag der Amtsstelle ist es:
 
 - a) präventive Massnahmen zu ergreifen;
-
 - b) den Schutz von Kindern, die im Kanton wohnansässig oder sich aufhalten, sicherzustellen;
-
 - c) die Platzierung von Kindern gemäss den entsprechenden kantonalen und bundesrechtlichen Bestimmungen zu überwachen;
-
-- d) Untersuchungen und Gutachten auf Gesuch von Gerichts-, Verwaltungs- und Vormundschaftsbehörden vornehmen, sofern dies im Interesse eines Kindes liegt;
-
-- e) im Rahmen seiner Möglichkeiten die Massnahmen zum Schutze von Kindern (Erziehungsaufsicht gemäss Art. 307 ZGB, Erziehungsbeistand gemäss Art. 308 ZGB) ergreifen und/oder bei Vollzug dieser durch Drittpersonen zusammenzuarbeiten;
-
+- d) Sozialabklärungen und Gutachten in Zusammenarbeit mit dem Zentrum für Entwicklung und Therapie des Kindes und Jugendlichen (nachfolgend: ZET) auf Gesuch von Gerichts-, Verwaltungs-, Kindes- und Erwachsenenschutzbehörden vornehmen, sofern dies im Interesse eines Kindes liegt;
+- e) im Rahmen seiner Möglichkeiten Massnahmen zum Schutze von Kindern und Jugendlichen im Sinne der Artikel 307 Absatz 3 und 308 ZGB ergreifen und/oder beim Vollzug dieser mitzuwirken, wenn diese durch Drittpersonen vorgenommen werden;
 - f) die Koordination der verschiedenen Instanzen im Falle internationaler Entführung von Kindern sicherzustellen;
-
 - g) den Eltern und Kindern Unterstützung und Beratung zukommen zu lassen, sofern sie dies anfordern;
-
 - h) bei einem Platzierungsgesuch im Hinblick auf eine Adoption, eine Abklärung der erzieherischen Ressourcen der zukünftigen Adoptiveltern gemäss den Bestimmungen des ZGB und der eidgenössischen Verordnung über die Platzierung von Kindern vornehmen;
-
 - i) sofern es das Interesse des Kindes erfordert, eine Anhörung des Kindes gemäss der Konvention über die Rechte der Kinder vornehmen;
-
-- j) die Gemeinden beim Aufbau von familienexternen Tagesbetreuungseinrichtungen für Kinder unterstützen und beraten;
-
-- k) die familienexternen Tagesbetreuungseinrichtungen bewilligen und beaufsichtigen;
-
+- j) …
+- k) …
 - l) im Rahmen seiner Möglichkeiten die Beiratsvertretung im Interesse des Kindes wahrzunehmen;
-
-- m) die Notplatzierungen vorzunehmen;
-
+- m) die Notplatzierungen im Sinne von Artikel 23 JG vorzunehmen;
 - n) die Obhut (Art. 310 ZGB) im Interesse des Kindes sicherzustellen;
-
 - o) weitere Sonderaufgaben im Interesse des Kindes wahrnehmen.
 
 #### Art. 12
 
-**Direktion**
+**Amtschef**
 
-Die Amtsstelle wird unter die Leitung eines Direktors gestellt.
+<sup>1</sup> Die Amtsstelle steht unter der Leitung des Chefs des kantonalen Amtes.
 
 #### Art. 13
 
@@ -226,9 +345,9 @@ Die Amtsstelle wird unter die Leitung eines Direktors gestellt.
 
 #### Art. 14
 
-**Regionsverantwortliche**
+**Leiter des Zentrums**
 
-Regionsverantwortliche können ernannt werden.
+<sup>1</sup> Ein Leiter des Zentrums wird ernannt.
 
 #### Art. 15
 
@@ -246,125 +365,90 @@ Regionsverantwortliche können ernannt werden.
 
 **Akten**
 
-<sup>1</sup> Die Akte lautend auf den Namen des Kindes wird bis zum Zeitpunkte der Erreichung der Mündigkeit aufbewahrt. In allen Fällen müssen mindestens zehn Jahre zwischen dem letzten Eintrag und Vernichtung der Akte verstrichen sein.
+<sup>1</sup> Die Akte lautend auf den Namen des Kindes wird bis zum Zeitpunkte der Erreichung der Mündigkeit aufbewahrt. In allen Fällen müssen mindestens 10 Jahre zwischen dem letzten Eintrag und der Archivierung oder Vernichtung der Akte verstrichen sein.
 
 <sup>2</sup> Der junge Mensch, der urteilsfähig ist - im gegenteiligen Falle die Eltern oder der gesetzliche Vertreter - hat das Recht, Einblick in die Akte zu nehmen und sich den Inhalt erklären zu lassen.
 
 <sup>3</sup> Dieses Recht erstreckt sich nicht auf Angaben von oder betreffend Drittpersonen, welche der beruflichen oder behördlichen Geheimhaltungspflicht unterstehen.
 
-<sup>4</sup> Der mit der Aktenführung beauftragte Mitarbeiter, bei dessen Abwesenheit der Direktor der Amtsstelle, ist anwesend bei der Konsultation der Akte.
+<sup>4</sup> Der mit der Aktenführung beauftragte Mitarbeiter, bei dessen Abwesenheit der Chef der kantonalen Amtsstelle, ist anwesend bei der Konsultation der Akte.
 
 <sup>5</sup> Wenn eine spezialisierte Instanz Einsicht in die Akte wünscht, ist vorgängig die Zustimmung des urteilsfähigen jungen Menschen - im gegenteiligen Falle die der Eltern oder des gesetzlichen Vertreters - einzuholen.
 
-### 4. Kapitel: Amt beauftragt mit der Erziehungsberatung, der Schulpsychologie und der ambulanten Psychiatrie
+<sup>6</sup> Eine Weisung des Departements regelt die Einsichtnahme, Aufzeichnung und Aufbewahrung der in den Akten enthaltenen Daten sowie die Archivierung und Übermittlung der Akten an Strafverfolgungs- und Justizbehörden.
 
-für Kinder und Jugendlichen
+## 4 Amt, das für sonderpädagogische Massnahmen (Logopädie und Psychomotorik), Erziehungsberatung und Schulpsychologie zuständig ist
 
-### 1. Abschnitt: Allgemeine Grundsätze
+### 4.1
 
 #### Art. 17
 
 **Zuständige Amtsstelle**
 
-<sup>1</sup> Das mit der Erziehungsberatung, der Schulpsychologie und der Psychiatrie für Kinder und Jugendlichen gemäss Artikel 49 JG beauftragte Amt setzt sich zusammen aus:
+<sup>1</sup> Das für sonderpädagogische Massnahmen (Logopädie und Psychomotorik) sowie Erziehungsberatung und Schulpsychologie zuständige Amt gemäss Artikel 49 JG ist das ZET.
 
-- a) dem Zentrum für die Entwicklung und die Therapie des Kindes und Jugendlichen (ZET) und
-
-- b) der Abteilung für Psychiatrie- und Psychotherapie für Kinder und Jugendliche (APKJ).
+- a) …
+- b) …
 
 <sup>2</sup> Diese Amtsstelle wird beauftragt durch präventive und ambulante therapeutische Leistungen die ganzheitliche Entwicklung der Kinder und der Jugendlichen auf dem Kantonsgebiet zu fördern.
 
-<sup>3</sup> Der Direktor des ZET und der Chefarzt der APKJ unterstehen direkt dem Chef der kantonalen Dienststelle für die Jugend.
+<sup>3</sup> Der Chef des ZET untersteht direkt dem Dienstchef.
 
 #### Art. 18
 
 **Partner**
 
-Die Partner der Amtsstelle sind ausser den Kindern und den jungen Menschen:
+<sup>1</sup> Die Partner der Amtsstelle sind ausser den Kindern und den jungen Menschen:
 
 - a) die Eltern und ihre Vereinigungen;
-
 - b) die Lehrerschaft und die Schulbehörden;
-
 - c) die Gesundheitsfachleute, die Spitäler, die Institutionen für psychische Gesundheit;
-
-- d) die Gerichts- und Vormundschaftsbehörden;
-
+- d) die Gerichts- und die Kindes- und Erwachsenenschutzbehörden;
 - e) die Vereinigungen, die Institutionen, die privaten und öffentlichen Fachleute.
 
 #### Art. 19
 
 **Auftrag**
 
-Der Auftrag der Amtsstelle ist die Durchführung präventiver Massnahmen, von Konsultationen, Abklärungen, Expertisen, Behandlungen und der Ausbildung. Es obliegen ihr im besonderen folgende Aufgaben :
+<sup>1</sup> Der Auftrag der Amtsstelle ist die Durchführung präventiver Massnahmen, von Konsultationen, Abklärungen, Expertisen, Behandlungen und der Ausbildung. Es obliegen ihr im besonderen folgende Aufgaben:
 
 - a) die Verfolgung präventiver Ziele;
-
 - b) Behandlungen, welche die Kompetenzen eines pluridisziplinären Teams erfordern;
-
 - c) die Ausbildung von Fachleuten im Bereiche der psychischen Gesundheit.
 
-### 2. Abschnitt: Aufgaben der ZET und APKJ
+### 4.2
 
 #### Art. 20
 
 **Aufgaben des ZET**
 
-Folgende Aufgaben obliegen dem ZET:
+<sup>1</sup> Folgende Aufgaben obliegen dem ZET:
 
-- a) Prävention: die Prävention von Entwicklungsstörungen (psychische, beziehungsmässige, verhaltensbezogene, psychomotorische, der gesprochenen und geschriebenen Sprache, Lernstörungen) und der Kindsmisshandlung;
-
-- b) Supervision und Beratung: die Erziehungsberatung für Eltern; die strukturierte oder gelegentliche Zusammenarbeit mit der Schule (Kindergarten, Primarschule, Orientierungsschule, Mittelschule und Berufsschule), den Einrichtungen für die familienexterne Tagesbetreuung von Kindern, den sozialpädagogischen Einrichtungen, den heilpädagogischen Institutionen, den im Sozialbereich tätigen Fachleuten;
-
-- c) Abklärungen und Expertisen: Psychodiagnostik; die psychologischen, logopädischen und psychomotorischen Beurteilungen; die Expertisen betreffend die Entwicklungsstörungen, die Situation von Risikofamilien, die verschiedenen Formen der Kindsmisshandlung; die Anhörung des Kindes und des Jugendlichen;
-
-- d) Konsultation und Therapie: die Therapien und die Konsultationen bezüglich Entwicklungsstörungen (psychische, beziehungsmässige, verhaltensbezogene, logopädische, psychomotorische lernpsychologische); die Einzel-, Familien- und Gruppenpsychotherapien; die psychologische Unterstützung von Gewaltopfern;
-
-**und**
-
-**für**
-
-- e) Ausbildung: die Praktika für Logopäden, Psychologen, Psychomotoriktherapeuten sowie Ausbildungspraktika Psychotherapeuten.
+- a) Prävention: die Prävention von Entwicklungsstörungen (psychische, beziehungsmässige, verhaltensbezogene, psychomotorische, der gesprochenen und geschriebenen Sprache, Lernstörungen) und der Kindsmisshandlung; die Aus-, Weiterbildung und ,Aufsicht der schulischen Mediatoren für den Kanton Wallis;
+- b) Aufsicht und Beratung: die Erziehungsberatung für Eltern; die strukturierte oder gelegentliche Zusammenarbeit mit der Schule (Kindergarten, Primarschule, Orientierungsschule, Mittelschule und Berufsschule), den Einrichtungen für die familienexterne Tagesbetreuung von Kindern, den sozialpädagogischen Einrichtungen, den heilpädagogischen Institutionen, den im Sozialbereich tätigen Fachleuten; die Bereitschaftsdienst während der Öffnungszeiten;
+- c) Abklärungen und Expertisen: Psychologische Tests und Psychodiagnostik; die psychologischen, logopädischen und psychomotorischen Abklärungen; die Expertisen betreffend die Entwicklungsstörungen, die Situation von Risikofamilien, die verschiedenen Formen der Kindsmisshandlung und die Anhörung des Kindes und des Jugendlichen in Zusammenarbeit mit dem Amt für Kindesschutz und/oder auf Verlangen der dafür zuständigen Behörden; Teilnahme an den audiovisuellen Befragungen als definierte Fachperson im Sinne von Artikel 154 Absatz 4 Buchstabe d StPO;
+- d) Konsultation und Therapie: die Therapien und die Konsultationen bezüglich Entwicklungsstörungen (psychische, beziehungsmässige, verhaltensbezogene, logopädische, psychomotorische und lernpsychologische); die Einzel-, Familien- und Gruppenpsychotherapien; die psychologische Unterstützung von Gewaltopfern;
+- e) Ausbildung: die Praktika für Logopäden, Psychologen, Psychomotoriktherapeuten sowie Ausbildungspraktika für Psychotherapeuten.
 
 #### Art. 21
 
-**Aufgaben der APKJ**
-
-Die folgenden Aufgaben obliegen der APKJ:
-
-- a) Prävention: Prävention von psychiatrischen und psychischen Störungen und Krankheiten, von Entwicklungsstörungen und von Kindsmisshandlungen;
-
-- b) Konsiliar- und Liaisondienste, strukturierte oder gelegentliche Zusammenarbeit mit der Ärzteschaft, den Spitälern, den Therapiestationen, den sozialpädagogischen Einrichtungen, den heilpädagogischen Institutionen, den im Sozialbereich tätigen Fachleuten;
-
-- c) Abklärungen und Expertisen: Differenzialdiagnose bezüglich psychiatrischen und psychischen Störungen; kinderpsychiatrische und medizinische Expertisen, Expertisen betreffend die Situation von Risikofamilien, die verschiedenen Formen der Kindsmisshandlung; die Befragung des Kindes und Jugendlichen;
-
-- d) Konsultation und Therapie: die Behandlung von psychiatrischen und psychischen Störungen und Krankheiten; die Einzel-, Familien- und Gruppenpsychotherapien; die psychologische Unterstützung von Gewaltopfern;
-
-- e) Ausbildung und Supervision; die Praktika für Assistenzärzte in Kinder- und Jugendpsychiatrie; die Ausbildungspraktika für Psychotherapeuten.
+**…**
 
 #### Art. 22
 
-**Autonomie und Komplementarität**
-
-Das ZET und die APKJ bilden eigene Sektionen, die zusammenarbeiten und die Aufgaben unter sich nach dem Prinzip der Komplementarität und in Bezug ihrer Verfügbarkeit so aufteilen, dass eine optimale Nutzung der Ressourcen erreicht wird.
+**…**
 
 #### Art. 23
 
-**Zusammenarbeit zwischen dem ZET und der APKJ**
+**…**
 
-<sup>1</sup> Sowohl auf kantonaler wie regionaler Stufe arbeiten das ZET und die APKJ zusammen, um eine gemeinsame Politik der Förderung der psychischen Gesundheit zu erreichen. Ein geregelter Austausch gewährleistet die gegenseitige Bereicherung der verschiedenen Fachleute.
-
-<sup>2</sup> Wenn immer möglich arbeiten sie im gleichen Gebäude.
-
-<sup>3</sup> Die von den Klienten des ZET und der APKJ erhaltenen Daten und Informationen unterliegen der Geheimhaltung. Sie können jedoch von einer Sektion zur anderen weitergereicht werden, sofern die Zustimmung des jungen Menschen vorliegt. Bei fehlender Urteilsfähigkeit ist die Zustimmung der Eltern oder des gesetzlichen Vertreters erforderlich.
-
-### 3. Abschnitt: Organisation des Entwicklungs- und Therapie- zentrums für das Kind und den Jugendlichen (ZET)
+### 4.3
 
 #### Art. 24
 
-**Direktion**
+**Amtschef**
 
-Das ZET steht unter der Leitung eines Direktor.
+<sup>1</sup> Das ZET steht unter der Leitung des Chefs des kantonalen Amtes.
 
 #### Art. 25
 
@@ -372,79 +456,103 @@ Das ZET steht unter der Leitung eines Direktor.
 
 <sup>1</sup> Das ZET besteht aus regionalen pluridisziplinären Teams. Diese Teams bilden ein Regionalzentrum.
 
-<sup>2</sup> Die Regionalzentren befinden sich in Monthey, Martinach, Sitten, Siders, Visp und Brig. Falls die Umstände es erfordern, kann der Standort verändert werden.
+<sup>2</sup> Die Regionalzentren befinden sich in Monthey, Martinach, Sitten, Siders, Visp und Brig. Falls die Umstände es erfordern, kann der Standort verändert werden. Im Prinzip wird pro Schulregionen eine Aussenstelle für die pädagogisch-therapeutischen Massnahmen, insbesondere die Logopädie, gemäss dem Prinzip der Nähe bedient.
 
 #### Art. 26
 
-**Leiter der Regionalzentren**
+**Leiter der Zentren**
 
-Der Leiter des Regionalzentrums wird unter den in Art. 27 aufgeführten Berufsleuten ausgewählt.
+<sup>1</sup> Der Leiter des Zentrums wird unter den in Artikel 27 aufgeführten Berufsleuten ausgewählt.
+
+#### Art. 26a
+
+**Pädagogisch-therapeutischer Koordinator**
+
+<sup>1</sup> Der Leiter des Zentrums wird von einem pädagogisch-therapeutischen Koordinator unterstützt.
 
 #### Art. 27
 
 **Berufliche Qualifikationen**
 
-Die Mitarbeiter des ZET sind namentlich Logopäden, Psychologen, Psychomotoriktherapeuten und Psychotherapeuten. Sie müssen eine theoretische und praktische Ausbildung in Bezug auf ihre Funktion besitzen. Es obliegt ihnen, ihre Kenntnisse und Kompetenzen durch eine regelmässige Weiterbildung auf den neuesten Stand zu bringen. Interne Weisungen, die mit den Bestimmungen der Berufsverbände auf nationaler Ebene koordiniert sind, regeln die Fort- und Weiterbildung innerhalb des ZET.
+<sup>1</sup> Die Mitarbeiter des ZET sind namentlich Logopäden, Psychologen, Psychomotoriktherapeuten und Psychotherapeuten. Sie müssen eine theoretische und praktische Ausbildung in Bezug auf ihre Funktion besitzen. Es obliegt ihnen, ihre Kenntnisse und Kompetenzen durch eine regelmässige Weiterbildung auf den neuesten Stand zu bringen. Interne Weisungen, die mit den Bestimmungen der Berufsverbände auf nationaler Ebene koordiniert sind, regeln die Fort- und Weiterbildung innerhalb des ZET.
 
 #### Art. 28
 
 **Dossier**
 
-<sup>1</sup> Das Dossier lautend auf den Namen des Kindes oder des Jugendlichen wird bis zum Zeitpunkt der Volljährigkeit aufbewahrt. In allen Fällen müssen zehn Jahre zwischen dem letzten Eintrag und der Vernichtung verstrichen sein.
+<sup>1</sup> Das Dossier lautend auf den Namen des Kindes oder des Jugendlichen wird bis zum Zeitpunkt der Volljährigkeit aufbewahrt. In allen Fällen müssen 10 Jahre zwischen dem letzten Eintrag und der Archivierung oder Vernichtung des Dossiers verstrichen sein.
 
 <sup>2</sup> Das Kind oder der Jugendliche, der urteilsfähig ist - andernfalls die Eltern oder der gesetzliche Vertreter - hat das Recht Einblick in das Dossier zu nehmen und sich dessen Inhalt erklären zu lassen. Dieses Recht erstreckt sich nicht auf Angaben von oder betreffend Drittpersonen, welche dem Amtsgeheimnis und der beruflichen Geheimhaltungspflicht unterstehen. Der betroffene Mitarbeiter beziehungsweise sein Vorgesetzter haben das Recht zu verlangen, bei der Konsultation anwesend zu sein.
 
 <sup>3</sup> Sobald eine spezialisierte Instanz (spezialisierter Dienst, Arzt, usw.) den Zugang zum Dossier wünscht, bedarf es notwendigerweise der vorgängigen Zustimmung des jungen Menschen, der urteilsfähig ist - andernfalls der Eltern oder des gesetzlichen Vertreters.
 
-### 4. Abschnitt: Organisation der Abteilung für Kinder-
-
-undJugendpsychiatrie und Psychotherapie
-
-### (APKJ)
+### 4.4
 
 #### Art. 29
 
-**Direktion**
-
-Die APKJ steht unter der Leitung eines Chefarztes, welcher im Besitz eines FMH-Titels in Psychiatrie und Psychotherapie für Kinder und Jugendliche ist.
+**…**
 
 #### Art. 30
 
-**Regionalzentren**
-
-<sup>1</sup> Die APKJ ist aus regionalen ärztlichen Teams zusammengesetzt, welche ein Regionalzentrum bilden.
-
-<sup>2</sup> Die Regionalzentren befinden sich in Monthey, Martinach, Sitten, Siders, Visp und Brig. Falls die Umstände es erfordern, kann der Standort verändert werden.
+**…**
 
 #### Art. 31
 
-**Leiter des Regionalzentrums**
-
-Der Leiter des Regionalzentrums ist ein ausgebildeter oder ein in der Ausbildung in Psychiatrie und Psychotherapie für Kinder und Jugendliche stehender Arzt.
+**…**
 
 #### Art. 32
 
-**Berufliche Qualifikationen**
-
-Die Mitarbeiter der APKJ müssen eine theoretische und praktische Ausbildung in bezug auf ihre Funktion besitzen. Es obliegt ihnen, ihre Kenntnisse und Kompetenzen durch eine Weiterbildung regelmässig auf den neuesten Stand zu bringen. Interne Weisungen, die mit den Bestimmungen der FMH koordiniert sind, regeln die Fort- und Weiterbildung innerhalb der APKJ.
+**…**
 
 #### Art. 33
 
-**Dossier**
+**…**
 
-<sup>1</sup> Das Dossier lautend auf den Namen des Kindes oder des Jugendlichen wird bis zum Zeitpunkt seiner Volljährigkeit aufbewahrt. In allen Fällen müssen zehn Jahre zwischen dem letzten Eintrag und der Vernichtung verstrichen sein.
+## 4a Bereich Tagesbetreuung
 
-<sup>2</sup> Der Zugang zum Dossier durch den Patienten ist im Artikel 22 des Gesundheitsgesetzes geregelt.
+#### Art. 33a
 
-<sup>3</sup> Sobald eine spezialisierte Instanz (spezialisierter Dienst, Arzt, usw.) den Zugang zum Dossier wünscht, bedarf es notwendigerweise der vorgängigen Zustimmung des jungen Menschen, der urteilsfähig ist - im gegenteiligen Falle der Eltern oder des gesetzlichen Vertreters.
+**Zuständiger Bereich**
 
-### 5. Kapitel: Mediator
+<sup>1</sup> Der Bereich Tagesbetreuung ist im Sinne von Artikel 30 und folgenden JG für das Netzwerk der familienergänzenden Betreuung zuständig und der Dienststelle angegliedert.
+
+<sup>2</sup> Dieser Bereich hat den Auftrag, sich um eine einheitliche Entwicklung des Netzwerks der familienergänzenden Betreuung im Kanton zu kümmern und die Oberaufsicht über die Tagesbetreuungsstrukturen auszuüben.
+
+#### Art. 33b
+
+**Partner**
+
+<sup>1</sup> Nebst Eltern und Kindern sind die Partner des Bereichs:
+
+- a) die Gemeinden;
+- b) die Tagesbetreuungsstrukturen;
+- c) der Walliser Dachverband für Tageseltern;
+- d) die regionalen Tageselternvereine.
+
+#### Art. 33c
+
+**Auftrag**
+
+<sup>1</sup> Der Auftrag des Bereichs besteht darin:
+
+- a) die Gemeinden und Tageselternvereine bei der Planung und Einrichtung eines Netzwerks der familienergänzenden Betreuung zu beraten und zu unterstützen;
+- b) die Tagesbetreuungsstrukturen zu bewerten, zu genehmigen und zu überwachen;
+- c) die Verantwortlichen von Tagesbetreuungsstrukturen bei der Erfüllung ihrer Aufgaben zu beraten und zu unterstützen;
+- d) die Weiterbildung des pädagogischen Personals in den Tagesbetreuungsstrukturen in Zusammenarbeit mit den Bildungseinrichtungen zu gewährleisten.
+
+#### Art. 33d
+
+**Kantonaler Leiter**
+
+<sup>1</sup> Es wird ein kantonaler Leiter ernannt.
+
+## 5 Mediator
 
 #### Art. 34
 
 **Grundsatz**
 
-Jedermann, der annimmt, in seinen Rechten gemäss JG verletzt zu sein, kann sich an einen Mediator wenden. Die Unabhängigkeit dieser Person muss gewährleistet sein.
+<sup>1</sup> Jedermann, der annimmt, in seinen Rechten gemäss JG verletzt zu sein, kann sich an einen Mediator wenden. Die Unabhängigkeit dieser Person muss gewährleistet sein.
 
 #### Art. 35
 
@@ -460,13 +568,13 @@ Jedermann, der annimmt, in seinen Rechten gemäss JG verletzt zu sein, kann sich
 
 **Ausstand**
 
-Der Mediator muss in Ausstand treten, sobald Gründe bestehen, die an seiner Unparteilichkeit zweifeln lassen. Die Angelegenheit wird dann durch seinen Stellvertreter behandelt.
+<sup>1</sup> Der Mediator muss in Ausstand treten, sobald Gründe bestehen, die an seiner Unparteilichkeit zweifeln lassen. Die Angelegenheit wird dann durch seinen Stellvertreter behandelt.
 
 #### Art. 37
 
 **Amtsgeheimnis**
 
-Der Mediator und sein Stellvertreter sind an das Amtsgeheimnis für diejenigen Informationen gebunden, welche sie im Rahmen ihrer Mediationstätigkeit zur Kenntnis nehmen.
+<sup>1</sup> Der Mediator und sein Stellvertreter sind an das Amtsgeheimnis für diejenigen Informationen gebunden, welche sie im Rahmen ihrer Mediationstätigkeit zur Kenntnis nehmen.
 
 #### Art. 38
 
@@ -486,19 +594,15 @@ Der Mediator und sein Stellvertreter sind an das Amtsgeheimnis für diejenigen I
 
 **Gebühren**
 
-Für die Aussöhnungsschritte wird eine bescheidene Gebühr erhoben. Der Dienstchef kann darauf verzichten oder sie vermindern, wenn die Umstände dies rechtfertigen.
+<sup>1</sup> Für die Aussöhnungsschritte wird eine bescheidene Gebühr erhoben. Der Dienstchef kann darauf verzichten oder sie vermindern, wenn die Umstände dies rechtfertigen.
 
-### 6. Kapitel: Kinderschutz im Zusammenhang mit
-
-kinematographischen Vorstellungen und anderen
-
-### Medienerzeugnissen
+## 6 Kinderschutz im Zusammenhang mit kinematographischen Vorstellungen und anderen Medienerzeugnissen
 
 #### Art. 40
 
 **Grundsätze**
 
-Die Kommission zum Schutze der Kinder im Zusammenhang mit kinematographischen Vorstellungen und anderen Medienerzeugnissen überwacht und beschränkt den Zutritt von Filmvorführungen und Vorführungen auf anderen Medienträgern, wenn diese an einem öffentlichen Orte angeboten werden.
+<sup>1</sup> Die Kommission zum Schutze der Kinder im Zusammenhang mit kinematographischen Vorstellungen und anderen Medienerzeugnissen überwacht und beschränkt den Zutritt von Filmvorführungen und Vorführungen auf anderen Medienträgern, wenn diese an einem öffentlichen Orte angeboten werden.
 
 #### Art. 41
 
@@ -544,9 +648,9 @@ Die Kommission zum Schutze der Kinder im Zusammenhang mit kinematographischen Vo
 
 #### Art. 44
 
-Verpflichtungen eines Kinobetriebsführers und anderer Organisatoren von Filmaufführungen
+**Verpflichtungen eines Kinobetriebsführers und anderer Organisatoren von Filmaufführungen**
 
-<sup>1</sup> Die Kinobetriebsführer und die anderen Organisatoren von Filmaufführungen sind verpflichtet dem Departement von sich aus alle Filme, welche Gegenstand einer restriktiven Massnahme bilden könnten, mindestens 15 Tage vor deren Aufführung zu melden.
+<sup>1</sup> Die Kinobetriebsführer und die anderen Organisatoren von Filmaufführun- gen sind verpflichtet dem Departement von sich aus alle Filme, welche Gegenstand einer restriktiven Massnahme bilden könnten, mindestens 15 Tage vor deren Aufführung zu melden.
 
 <sup>2</sup> Sie reichen das vollständige Szenario des Filmes unter seinem Originaltitel sowie aller nützlicher Unterlagen ein. Jede Übersetzung oder jede Änderung des Titels muss dem Departement mitgeteilt werden.
 
@@ -578,6 +682,4 @@ Verpflichtungen eines Kinobetriebsführers und anderer Organisatoren von Filmauf
 
 <sup>2</sup> Das Departement ist mit dem Vollzug dieses Reglements beauftragt.
 
-So beschlossen im Staatsrat zu Sitten, den 9. Mai 2001.
-
-Der Präsident des Staatsrats: Wilhelm Schnyder Der Staatskanzler: Henri v. Roten
+CSW BO/Abl. 20/2001
