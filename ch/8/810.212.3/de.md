@@ -3,11 +3,11 @@ sr: "810.212.3"
 title: Verordnung vom 18. Oktober 2017 über das nationale Überkreuz-Lebendspende-Programm (Überkreuz-Lebendspende-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/609"
 language: de
-version: 2017-11-15
+version: 2023-09-01
 adopted: 2017-10-18
 in_force: 2017-11-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/609/20171115/de/xml/fedlex-data-admin-ch-eli-cc-2017-609-20171115-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/609/20171115/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/609/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2017-609-20230901-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/609/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/609/20171115/de"
 
 (Überkreuz-Lebendspende-Verordnung)
 
-vom 18. Oktober 2017 (Stand am 15. November 2017)
+vom 18. Oktober 2017 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -291,11 +291,12 @@ Das SwissKiPaDoS enthält die Daten nach Artikel 5 sowie die Daten, die während
 
 **Aufgaben des BAG**
 
-<sup>1</sup> Das BAG trägt als Inhaber der Datensammlung die Verantwortung für das SwissKiPaDoS. Es ist für die Sicherheit des SwissKiPaDoS und die Rechtmässigkeit der Bearbeitung der Personendaten verantwortlich.
+<sup>1</sup> Das BAG trägt die Verantwortung für das SwissKiPaDoS.[^21-1] Es ist für die Sicherheit des SwissKiPaDoS und die Rechtmässigkeit der Bearbeitung der Personendaten verantwortlich.
 
-<sup>2</sup> Artikel 34*c* Absatz 2 Buchstaben b–f der Organzuteilungsverordnung vom 16. März 2007[^21-1] gilt sinngemäss.
+<sup>2</sup> Artikel 34*c* Absatz 2 Buchstaben b–f der Organzuteilungsverordnung vom 16. März 2007[^21-2] gilt sinngemäss.
 
-[^21-1]: [SR 810.212.4](https://fedlex.data.admin.ch/eli/cc/2007/281)
+[^21-1]: Fassung gemäss Anhang 2 Ziff. II 93 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^21-2]: [SR 810.212.4](https://fedlex.data.admin.ch/eli/cc/2007/281)
 
 #### Art. 22
 

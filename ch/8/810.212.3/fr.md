@@ -3,11 +3,11 @@ sr: "810.212.3"
 title: Ordonnance du 18 octobre 2017 sur le programme national pour la transplantation croisée (Ordonnance sur la transplantation croisée)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/609"
 language: fr
-version: 2017-11-15
+version: 2023-09-01
 adopted: 2017-10-18
 in_force: 2017-11-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/609/20171115/fr/xml/fedlex-data-admin-ch-eli-cc-2017-609-20171115-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/609/20171115/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/609/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2017-609-20230901-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/609/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/609/20171115/fr"
 
 (Ordonnance sur la transplantation croisée)
 
-du 18 octobre 2017 (Etat le 15 novembre 2017)
+du 18 octobre 2017 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -208,7 +208,7 @@ En cas de contre-indication temporaire au prélèvement ou à la transplantation
 
 #### Art. 12
 
-**Epreuve de compatibilité croisée et attribution**
+**Épreuve de compatibilité croisée et attribution**
 
 <sup>1</sup> Les centres de transplantation déterminent au moyen d’une épreuve de compatibilité croisée si les tissus du donneur sont compatibles avec ceux du patient et informent le service national des attributions du résultat.
 
@@ -293,11 +293,12 @@ SwissKiPaDoS contient les données visées à l’art. 5 et les données génér
 
 **Tâches de l’OFSP**
 
-<sup>1</sup> En sa qualité de maître du fichier, l’OFSP est responsable de SwissKiPaDoS. Il veille à la sécurité de ce système et à ce que les données personnelles soient traitées en toute légalité.
+<sup>1</sup> L’OFSP est responsable de SwissKiPaDoS.[^21-1] Il veille à la sécurité de ce système et à ce que les données personnelles soient traitées en toute légalité.
 
-<sup>2</sup> L’art. 34*c*, al. 2, let. b à f, de l’ordonnance du 16 mars 2007 sur l’attribution d’organes[^21-1] s’applique par analogie.
+<sup>2</sup> L’art. 34*c*, al. 2, let. b à f, de l’ordonnance du 16 mars 2007 sur l’attribution d’organes[^21-2] s’applique par analogie.
 
-[^21-1]: [RS 810.212.4](https://fedlex.data.admin.ch/eli/cc/2007/281)
+[^21-1]: Nouvelle teneur selon l’annexe 2 ch. II 93 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^21-2]: [RS 810.212.4](https://fedlex.data.admin.ch/eli/cc/2007/281)
 
 #### Art. 22
 
@@ -383,7 +384,7 @@ Les centres de transplantation enregistrent les données ci-après dans SOAS:
 - d. les informations concernant le donneur de rein et le receveur correspondant;
 - e. le cas échéant, les motifs pour lesquels la transplantation n’a pas pu être effectuée ou a échoué.
 
-## Section 7 Evaluation
+## Section 7 Évaluation
 
 #### Art. 28
 

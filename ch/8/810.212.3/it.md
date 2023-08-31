@@ -3,11 +3,11 @@ sr: "810.212.3"
 title: Ordinanza del 18 ottobre 2017 concernente il programma nazionale di trapianto incrociato tra vivi (Ordinanza sul trapianto incrociato tra vivi)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/609"
 language: it
-version: 2017-11-15
+version: 2023-09-01
 adopted: 2017-10-18
 in_force: 2017-11-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/609/20171115/it/xml/fedlex-data-admin-ch-eli-cc-2017-609-20171115-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/609/20171115/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/609/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2017-609-20230901-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/609/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/609/20171115/it"
 
 (Ordinanza sul trapianto incrociato tra vivi)
 
-del 18 ottobre 2017 (Stato 15 novembre 2017) (Stato 15 novembre 2017)
+del 18 ottobre 2017 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -291,11 +291,12 @@ SwissKiPaDoS contiene i dati di cui all’articolo 5 e i dati generati durante l
 
 **Compiti dell’UFSP**
 
-<sup>1</sup> In qualità di detentore della banca dati, l’UFSP è responsabile di SwissKiPaDoS. Risponde della sicurezza di SwissKiPaDoS e della legittimità del trattamento dei dati personali.
+<sup>1</sup> L’UFSP è titolare di SwissKiPaDoS.[^21-1] Risponde della sicurezza di SwissKiPaDoS e della legittimità del trattamento dei dati personali.
 
-<sup>2</sup> L’articolo 34*c* capoverso 2 lettere b–f dell’ordinanza del 16 marzo 2007[^21-1] sull’attribuzione di organi si applica per analogia.
+<sup>2</sup> L’articolo 34*c* capoverso 2 lettere b–f dell’ordinanza del 16 marzo 2007[^21-2] sull’attribuzione di organi si applica per analogia.
 
-[^21-1]: [RS 810.212.4](https://fedlex.data.admin.ch/eli/cc/2007/281)
+[^21-1]: Nuovo testo giusta l’all. 2 n. II 93 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^21-2]: [RS 810.212.4](https://fedlex.data.admin.ch/eli/cc/2007/281)
 
 #### Art. 22
 
