@@ -3,18 +3,18 @@ sr: "311.039.2"
 title: Ordonnance du 26 juin 2013 sur la Commission fédérale chargée de juger les possibilités de traiter les personnes internées à vie
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/447"
 language: fr
-version: 2014-01-01
+version: 2023-09-01
 adopted: 2013-06-26
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/447/20140101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-447-20140101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/447/20140101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/447/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2013-447-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/447/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur la Commission fédérale chargée de juger les possibilités de traiter les personnes internées à vie
 
-du 26 juin 2013 (Etat le 1<sup>er</sup> janvier 2014)
+du 26 juin 2013 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -155,15 +155,16 @@ Le rapport mentionne en outre:
 
 **Protection des données**
 
-<sup>1</sup> La commission est habilitée à traiter des données personnelles, y compris des données sensibles au sens de la loi fédérale du 19 juin 1992 sur la protection des données[^13-1], lorsque ses tâches l’exigent.
+<sup>1</sup> La commission est habilitée à traiter des données personnelles, y compris des données sensibles au sens de la loi fédérale du 25 septembre 2020 sur la protection des données[^13-1], lorsque ses tâches l’exigent.[^13-2]
 
 <sup>2</sup> Elle ne peut communiquer des données personnelles que si la personne concernée y consent expressément.
 
 <sup>3</sup> Elle conserve des copies des rapports rédigés par les comités.
 
-<sup>4</sup> A la clôture définitive de la procédure prévue à l’art. 64*c*, al. 1, du code pénal, le dossier de la procédure est rendu à l’autorité d’exécution.
+<sup>4</sup> À la clôture définitive de la procédure prévue à l’art. 64*c*, al. 1, du code pénal, le dossier de la procédure est rendu à l’autorité d’exécution.
 
 [^13-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^13-2]: Nouvelle teneur selon l’annexe 2 ch. II 35 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 14
 

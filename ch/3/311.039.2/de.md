@@ -3,18 +3,18 @@ sr: "311.039.2"
 title: Verordnung vom 26. Juni 2013 über die Eidgenössische Fachkommission zur Beurteilung der Behandelbarkeit lebenslänglich verwahrter Straftäter
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/447"
 language: de
-version: 2014-01-01
+version: 2023-09-01
 adopted: 2013-06-26
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/447/20140101/de/xml/fedlex-data-admin-ch-eli-cc-2013-447-20140101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/447/20140101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/447/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2013-447-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/447/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Eidgenössische Fachkommission zur Beurteilung der Behandelbarkeit lebenslänglich verwahrter Straftäter
 
-vom 26. Juni 2013 (Stand am 1. Januar 2014)
+vom 26. Juni 2013 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -109,7 +109,7 @@ Die Fachkommission bestimmt ihre Organisation und ihre Arbeitsweise in einem Reg
 
 #### Art. 9
 
-**Beschlussfähigkeit undBeschlussfassung**
+**Beschlussfähigkeit undBeschlussfassungv**
 
 <sup>1</sup> Die Fachkommission ist beschlussfähig, wenn an der Sitzung oder am Zirkulationsverfahren mindestens sieben Mitglieder teilnehmen. Sie fasst ihre Beschlüsse mit einfachem Mehr.
 
@@ -155,7 +155,7 @@ Im Bericht sind zudem aufzuführen:
 
 **Datenschutz**
 
-<sup>1</sup> Die Fachkommission darf Personendaten einschliesslich besonders schützenswerter Personendaten nach dem Bundesgesetz vom 19. Juni 1992[^13-1] über den Datenschutz bearbeiten, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist.
+<sup>1</sup> Die Fachkommission darf Personendaten einschliesslich besonders schützenswerter Personendaten nach dem Datenschutzgesetz vom 25. September 2020[^13-1] bearbeiten, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist.[^13-2]
 
 <sup>2</sup> Sie darf Personendaten nur bekannt geben, wenn die betroffene Person ausdrücklich eingewilligt hat.
 
@@ -164,6 +164,7 @@ Im Bericht sind zudem aufzuführen:
 <sup>4</sup> Die von der Justizvollzugsbehörde vorgelegten Verfahrensakten werden dieser nach rechtskräftiger Erledigung des Verfahrens nach Artikel 64*c* Absatz 1 des Strafgesetzbuchs wieder zurückgegeben.
 
 [^13-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^13-2]: Fassung gemäss Anhang 2 Ziff. II 35 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 14
 
