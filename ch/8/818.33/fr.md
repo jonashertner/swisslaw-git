@@ -4,11 +4,11 @@ title: "Loi fédérale du 18 mars 2016 sur l'enregistrement des maladies oncolog
 short: LEMO
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/289"
 language: fr
-version: 2020-01-01
+version: 2023-09-01
 adopted: 2016-03-18
 in_force: 2018-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/289/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-289-20200101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/289/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/289/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2018-289-20230901-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/289/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/289/20200101/fr"
 
 (LEMO)[^t-1]
 
-du 18 mars 2016 (Etat le 1<sup>er</sup> janvier 2020)
+du 18 mars 2016 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -145,9 +145,11 @@ Le Conseil fédéral règle la procédure. Il définit en particulier:
 
 <sup>1</sup> Le patient peut s’adresser à l’organe national d’enregistrement du cancer (section 5) au sujet de ses droits, notamment en matière de protection des données et d’opposition. L’organe national d’enregistrement du cancer le soutient dans l’exercice de ces droits.
 
-<sup>2</sup> Le patient peut demander au maître d’un fichier si des données le concernant sont traitées et, si tel est le cas, de quelles données il s’agit. Il n’est pas permis de restreindre son droit d’accès.
+<sup>2</sup> Le patient peut demander au responsable du traitement si des données le concernant sont traitées et, si tel est le cas, de quelles données il s’agit. Il n’est pas permis de restreindre son droit d’accès.[^7-1]
 
 <sup>3</sup> Les droits prévus aux al. 1 et 2 s’appliquent également à la personne habilitée à représenter le patient.
+
+[^7-1]: Nouvelle teneur selon l’annexe 1 ch. II 76 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ## Section 4 Registres cantonaux des tumeurs
 

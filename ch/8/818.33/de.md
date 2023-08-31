@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 18. März 2016 über die Registrierung von Krebserkrank
 short: KRG
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/289"
 language: de
-version: 2020-01-01
+version: 2023-09-01
 adopted: 2016-03-18
 in_force: 2018-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/289/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2018-289-20200101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/289/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/289/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2018-289-20230901-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/289/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/289/20200101/de"
 
 (Krebsregistrierungsgesetz, KRG)
 
-vom 18. März 2016 (Stand am 1. Januar 2020)
+vom 18. März 2016 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -143,9 +143,11 @@ Der Bundesrat regelt das Verfahren. Er legt insbesondere fest:
 
 <sup>1</sup> Die Patientin oder der Patient kann sich bezüglich ihrer oder seiner Rechte, insbesondere hinsichtlich des Datenschutzes und des Widerspruchs, an die nationale Krebsregistrierungsstelle (5. Abschnitt) wenden. Die nationale Krebsregistrierungsstelle unterstützt sie oder ihn bei der Ausübung dieser Rechte.
 
-<sup>2</sup> Die Patientin oder der Patient kann vom Inhaber einer Datensammlung Auskunft darüber verlangen, ob und welche Daten über sie oder ihn bearbeitet werden. Eine Einschränkung des Auskunftsrechts ist nicht zulässig.
+<sup>2</sup> Die Patientin oder der Patient kann vom Verantwortlichen für die Datenbearbeitung Auskunft darüber verlangen, ob und welche Daten über sie oder ihn bearbeitet werden. Eine Einschränkung des Auskunftsrechts ist nicht zulässig.[^7-1]
 
 <sup>3</sup> Der Anspruch nach den Absätzen 1 und 2 steht auch der zur Vertretung berechtigten Person zu.
+
+[^7-1]: Fassung gemäss Anhang 1 Ziff. II 76 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ## 4. Abschnitt: Kantonale Krebsregister
 

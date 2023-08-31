@@ -4,11 +4,11 @@ title: Legge federale del 18 marzo 2016 sulla registrazione delle malattie tumor
 short: LRMT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/289"
 language: it
-version: 2020-01-01
+version: 2023-09-01
 adopted: 2016-03-18
 in_force: 2018-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/289/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2018-289-20200101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/289/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/289/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2018-289-20230901-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/289/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/289/20200101/it"
 
 (LRMT)
 
-del 18 marzo 2016 (Stato 1° gennaio 2020) (Stato 1° gennaio 2020)
+del 18 marzo 2016 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -143,9 +143,11 @@ Il Consiglio federale disciplina la procedura. Stabilisce in particolare:
 
 <sup>1</sup> Il paziente può rivolgersi al servizio nazionale di registrazione dei tumori (sezione 5) per ottenere informazioni sui propri diritti, in particolare per quanto concerne la protezione dei dati e l’opposizione. Il servizio nazionale di registrazione dei tumori gli fornisce il sostegno necessario all’esercizio di tali diritti.
 
-<sup>2</sup> Il paziente può chiedere al detentore di una collezione di dati se vi sono trattati dati che lo concernono e quali sono. Non è ammessa una restrizione del suo diritto d’accesso.
+<sup>2</sup> Il paziente può chiedere al titolare del trattamento di dati se sono trattati dati che lo concernono e quali sono tali dati. Non è ammessa una restrizione del suo diritto d’accesso.[^7-1]
 
 <sup>3</sup> I diritti di cui ai capoversi 1 e 2 spettano anche alla persona autorizzata a rappresentare il paziente.
+
+[^7-1]: Nuovo testo giusta l’all. 1 n. II 76 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ## Sezione 4: Registri cantonali dei tumori
 
