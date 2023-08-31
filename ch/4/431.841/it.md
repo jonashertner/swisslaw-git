@@ -4,11 +4,11 @@ title: Ordinanza del 9 giugno 2017 sul Registro federale degli edifici e delle a
 short: OREA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/376"
 language: it
-version: 2022-04-01
+version: 2023-09-01
 adopted: 2017-06-09
 in_force: 2017-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20220401/it/xml/fedlex-data-admin-ch-eli-cc-2017-376-20220401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20220401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2017-376-20230901-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20220401/it"
 
 (OREA)
 
-del 9 giugno 2017 (Stato 1° aprile 2022)
+del 9 giugno 2017 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -197,9 +197,9 @@ Per l’aggiornamento delle informazioni registrate nel REA possono essere utili
 - c. serie di dati di base dei registri fondiari cantonali;
 - d. dati di riferimento relativi agli edifici e alle abitazioni per la determinazione del valore fiscale;
 - e. registri amministrativi delle assicurazioni immobiliari cantonali;
-- f. raccolte di dati della Posta, dei servizi di telecomunicazione, dei fornitori di elettricità e di gas nonché dei gestori delle reti di riscaldamento a distanza;
+- f.[^9-1] banche dati della Posta, dei servizi di telecomunicazione, dei fornitori di elettricità e di gas nonché dei gestori delle reti di riscaldamento a distanza;
 - g. notifiche di committenti, architetti, proprietari e società di gestione immobiliare;
-- h. dati di altre rilevazioni statistiche a condizione che l’utilizzo nel REA sia espressamente menzionato nell’allegato dell’ordinanza del 30 giugno 1993[^9-1] sulle rilevazioni statistiche;
+- h. dati di altre rilevazioni statistiche a condizione che l’utilizzo nel REA sia espressamente menzionato nell’allegato dell’ordinanza del 30 giugno 1993[^9-2] sulle rilevazioni statistiche;
 - i. dati rilevati in occasione di controlli cantonali e comunali di impianti di combustione;
 - j. dati rilevati per il rilascio di certificati energetici cantonali degli edifici (CECE).
 
@@ -207,7 +207,8 @@ Per l’aggiornamento delle informazioni registrate nel REA possono essere utili
 
 <sup>4</sup> Le persone fisiche o giuridiche e le istituzioni con compiti di diritto pubblico sono tenute a fornire le informazioni di cui all’articolo 8.
 
-[^9-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^9-1]: Nuovo testo giusta l’all. 2 n. II 55 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^9-2]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
 
 #### Art. 10
 
@@ -307,14 +308,20 @@ L’UST pubblica in Internet i dati del REA del livello di autorizzazione all’
 
 [^18-1]
 
+<sup>1</sup>
+
 La sicurezza dei dati è disciplinata:
 
-- a. nell’ordinanza del 14 giugno 1993[^18-2] relativa alla legge federale sulla protezione dei dati;
-- b. nell’ordinanza del 27 maggio 2020[^18-3] sui ciber-rischi.
+- a.[^18-2] nell’ordinanza del 31 agosto 2022[^18-3] sulla protezione dei dati (OPDa);
+- b. nell’ordinanza del 27 maggio 2020[^18-4] sui ciber-rischi.
+
+<sup>2</sup> L’OPDa si applica per analogia alla sicurezza dei dati delle persone giuridiche.[^18-5]
 
 [^18-1]: Nuovo testo giusta l’all. n. 25 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^18-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^18-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^18-2]: Nuovo testo giusta l’all. 2 n. II 55 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^18-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^18-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^18-5]: Introdotto dall’all. 2 n. II 55 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 5: Disposizioni finali
 
@@ -336,7 +343,7 @@ Gli edifici senza uso abitativo che non sono ancora registrati nel REA devono es
 
 La presente ordinanza entra in vigore il 1° luglio 2017.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 15 e 16)
 

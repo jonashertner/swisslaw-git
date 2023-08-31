@@ -4,11 +4,11 @@ title: Verordnung vom 9. Juni 2017 über das eidgenössische Gebäude- und Wohnu
 short: VGWR
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/376"
 language: de
-version: 2022-04-01
+version: 2023-09-01
 adopted: 2017-06-09
 in_force: 2017-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20220401/de/xml/fedlex-data-admin-ch-eli-cc-2017-376-20220401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20220401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2017-376-20230901-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20220401/de"
 
 (VGWR)
 
-vom 9. Juni 2017 (Stand am 1. April 2022) (Stand am 1. April 2022)
+vom 9. Juni 2017 (Stand am 1. September 2023) (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -197,9 +197,9 @@ Für die Nachführung der im GWR geführten Informationen können insbesondere f
 - c. Grunddatensatz der kantonalen Grundbücher;
 - d. Gebäude- und Wohnungs-Referenzdaten für die Bestimmung des Steuerwertes;
 - e. Verwaltungsregister der kantonalen Gebäudeversicherungen;
-- f. Datensammlungen der Post, der Fernmeldedienste, der Elektrizitäts- und Gasversorger und der Betreiber von Wärmeverbünden;
+- f.[^9-1] Datenbanken der Post, der Fernmeldedienste, der Elektrizitäts- und Gasversorger und der Betreiber von Wärmeverbünden;
 - g. Meldungen der Bauherrschaft, von Architektinnen und Architekten, von Eigentümerinnen und Eigentümern sowie von Immobilienverwaltungen;
-- h. Daten anderer statistischer Erhebungen, sofern deren Verwendung im GWR im Anhang zur Statistikerhebungsverordnung vom 30. Juni 1993[^9-1] ausdrücklich erwähnt ist;
+- h. Daten anderer statistischer Erhebungen, sofern deren Verwendung im GWR im Anhang zur Statistikerhebungsverordnung vom 30. Juni 1993[^9-2] ausdrücklich erwähnt ist;
 - i. Daten, die anlässlich kantonaler und kommunaler Feuerungskontrollen erhoben werden;
 - j. Daten, die für die Ausstellung kantonaler Gebäudeenergieausweise (GEAK) erhoben werden.
 
@@ -207,7 +207,8 @@ Für die Nachführung der im GWR geführten Informationen können insbesondere f
 
 <sup>4</sup> Natürliche und juristische Personen und Institutionen, die mit öffentlich-rechtlichen Aufgaben betraut sind, sind verpflichtet, die Informationen nach Artikel 8 zu liefern.
 
-[^9-1]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^9-1]: Fassung gemäss Anhang 2 Ziff. II 55 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^9-2]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
 
 #### Art. 10
 
@@ -307,14 +308,20 @@ Das BFS veröffentlicht die Daten des GWR der Stufe A nach Anhang 1 im Internet.
 
 [^18-1]
 
+<sup>1</sup>
+
 Für die Datensicherheit gelten:
 
-- a. die Verordnung vom 14. Juni 1993[^18-2] zum Bundesgesetz über den Datenschutz;
-- b. die Cyberrisikenverordnung vom 27. Mai 2020[^18-3].
+- a.[^18-2] die Datenschutzverordnung vom 31. August 2022[^18-3] (DSV);
+- b. die Cyberrisikenverordnung vom 27. Mai 2020[^18-4].
+
+<sup>2</sup> Für die Sicherheit von Daten juristischer Personen gilt die DSV sinngemäss.[^18-5]
 
 [^18-1]: Fassung gemäss Anhang Ziff. 25 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^18-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^18-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^18-2]: Fassung gemäss Anhang 2 Ziff. II 55 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^18-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^18-4]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^18-5]: Eingefügt durch Anhang 2 Ziff. II 55 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 5. Abschnitt: Schlussbestimmungen
 
@@ -336,7 +343,7 @@ Noch nicht im GWR geführte Gebäude ohne Wohnnutzung müssen bis spätestens 31
 
 Diese Verordnung tritt am 1. Juli 2017 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 15 und 16)
 
