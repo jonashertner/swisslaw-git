@@ -3,11 +3,11 @@ sr: "172.220.111.42"
 title: "Ordinanza del 5 novembre 2014 sull'elaborazione di dati personali nell'Intranet e nell'Extranet del DFAE (Ordinanza Web DFAE)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/655"
 language: it
-version: 2021-04-01
+version: 2023-09-01
 adopted: 2014-11-05
 in_force: 2014-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/655/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2014-655-20210401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/655/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/655/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2014-655-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/655/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,16 +16,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/655/20210401/it"
 
 (Ordinanza Web DFAE)
 
-del 5 novembre 2014 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
+del 5 novembre 2014 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
-visto l’articolo 57*h* capoverso 3 della legge del 21 marzo 1997[^ingress-1] sull’organizzazione del Governo e dell’Amministrazione (LOGA); visto l’articolo 27 capoverso 2 lettera c della legge del 24 marzo 2000[^ingress-2] sul personale federale (LPers),
+visti l’articolo 57*h*<sup>ter</sup> della legge del 21 marzo 1997[^ingress-1] sull’organizzazione del Governo e dell’Amministrazione (LOGA);
+
+visto l’articolo 27 capoverso 2 lettera c della legge del 24 marzo 2000[^ingress-2] sul personale federale (LPers),[^ingress-3]
 
 ordina:
 
 [^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^ingress-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^ingress-3]: Nuovo testo giusta l’all. 2 n. II 26 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -153,14 +156,15 @@ Le seguenti persone hanno accesso all’Extranet DFAE:
 
 La sicurezza dei dati e la sicurezza informatica sono disciplinate:
 
-- a. dall’ordinanza del 14 giugno 1993[^12-1] relativa alla legge federale sulla protezione dei dati;
-- b. dall’ordinanza del 27 maggio 2020[^12-2] sui ciber-rischi.[^12-3]
+- a.[^12-1] dall’ordinanza del 31 agosto 2022[^12-2] sulla protezione dei dati;
+- b. dall’ordinanza del 27 maggio 2020[^12-3] sui ciber-rischi.[^12-4]
 
 <sup>2</sup> La SG DFAE emana un regolamento per il trattamento dei dati. Quest’ultimo disciplina le misure organizzative e tecniche atte a garantire la sicurezza dei dati e il controllo del trattamento dei dati.
 
-[^12-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^12-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^12-3]: Nuovo testo giusta l’all. n. 8 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^12-1]: Nuovo testo giusta l’all. 2 n. II 26 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^12-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^12-4]: Nuovo testo giusta l’all. n. 8 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 13
 
@@ -168,7 +172,9 @@ La sicurezza dei dati e la sicurezza informatica sono disciplinate:
 
 <sup>1</sup> Gli accessi al Web DFAE e le modifiche nel Web DFAE sono costantemente verbalizzati.
 
-<sup>2</sup> I verbali sono conservati per sei mesi.
+<sup>2</sup> I verbali sono conservati per un anno separatamente dal sistema in cui sono trattati i dati personali.[^13-1]
+
+[^13-1]: Nuovo testo giusta l’all. 2 n. II 26 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 4: Conservazione, archiviazione e distruzione dei dati
 

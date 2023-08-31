@@ -3,11 +3,11 @@ sr: "172.220.111.42"
 title: "Ordonnance du 5 novembre 2014 sur le traitement des données personnelles sur l'Intranet et l'Extranet du DFAE (Ordonnance Web-DFAE)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/655"
 language: fr
-version: 2021-04-01
+version: 2023-09-01
 adopted: 2014-11-05
 in_force: 2014-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/655/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2014-655-20210401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/655/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/655/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2014-655-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/655/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,16 +16,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/655/20210401/fr"
 
 (Ordonnance Web-DFAE)
 
-du 5 novembre 2014 (Etat le 1<sup>er</sup> avril 2021)
+du 5 novembre 2014 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
-vu l’art. 57*h*, al. 3, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration (LOGA)[^ingress-1] , vu l’art. 27, al. 2, let. c, de la loi du 24 mars 2000 sur le personnel de la Confédération (LPers)[^ingress-2] ,
+vu l’art. 57*h*<sup>ter</sup> de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration (LOGA)[^ingress-1], vu l’art. 27, al. 2, let. c, de la loi du 24 mars 2000 sur le personnel de la Confédération (LPers)[^ingress-2],[^ingress-3]
 
 arrête:
 
 [^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^ingress-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^ingress-3]: Nouvelle teneur selon l’annexe 2 ch. II 26 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 1 Dispositions générales
 
@@ -153,14 +154,15 @@ Les personnes suivantes ont accès à l’Extranet du DFAE:
 
 La sécurité des données et la sécurité informatique sont régies par:
 
-- a. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^12-1];
-- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^12-2].[^12-3]
+- a.[^12-1] l’ordonnance du 31 août 2022 sur la protection des données[^12-2];
+- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^12-3].[^12-4]
 
 <sup>2</sup> Le SG-DFAE édicte un règlement relatif au traitement des données qui définit les mesures techniques et organisationnelles requises pour assurer la sécurité des données ainsi que le contrôle du traitement des données.
 
-[^12-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^12-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^12-3]: Nouvelle teneur selon l’annexe ch. 8 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^12-1]: Nouvelle teneur selon l’annexe 2 ch. II 26 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^12-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^12-4]: Nouvelle teneur selon l’annexe ch. 8 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 13
 
@@ -168,7 +170,9 @@ La sécurité des données et la sécurité informatique sont régies par:
 
 <sup>1</sup> Les accès au Web-DFAE et les modifications apportées sont journalisés en continu.
 
-<sup>2</sup> Les procès-verbaux de journalisation sont conservés pendant six mois.
+<sup>2</sup> Les procès-verbaux de journalisation sont conservés durant un an, séparément du système dans lequel les données personnelles sont traitées.[^13-1]
+
+[^13-1]: Nouvelle teneur selon l’annexe 2 ch. II 26 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 4 Conservation, archivage et destruction des données
 

@@ -3,11 +3,11 @@ sr: "172.220.111.42"
 title: Verordnung vom 5. November 2014 über die Bearbeitung von Personendaten im Intranet und im Extranet des EDA (Web-EDA-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/655"
 language: de
-version: 2021-04-01
+version: 2023-09-01
 adopted: 2014-11-05
 in_force: 2014-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/655/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2014-655-20210401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/655/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/655/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2014-655-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/655/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,16 +16,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/655/20210401/de"
 
 (Web-EDA-Verordnung)
 
-vom 5. November 2014 (Stand am 1. April 2021)
+vom 5. November 2014 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 57*h* Absatz 3 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-1] (RVOG) und auf Artikel 27 Absatz 2 Buchstabe c des Bundespersonalgesetzes vom 24. März 2000[^ingress-2] (BPG),
+gestützt auf Artikel 57*h*<sup>ter</sup> des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-1] (RVOG) und auf Artikel 27 Absatz 2 Buchstabe c des Bundespersonalgesetzes vom 24. März 2000[^ingress-2] (BPG),[^ingress-3]
 
 verordnet:
 
 [^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^ingress-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^ingress-3]: Fassung gemäss Anhang 2 Ziff. II 26 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -153,14 +154,15 @@ Folgende Personen haben Zugriff auf das Extranet EDA:
 
 Die Daten- und die Informatiksicherheit richten sich nach:
 
-- a. der Verordnung vom 14. Juni 1993[^12-1] zum Bundesgesetz über den Datenschutz;
-- b. der Cyberrisikenverordnung vom 27. Mai 2020[^12-2].[^12-3]
+- a.[^12-1] der Datenschutzverordnung vom 31. August 2022[^12-2];
+- b. der Cyberrisikenverordnung vom 27. Mai 2020[^12-3].[^12-4]
 
 <sup>2</sup> Das GS EDA erlässt ein Bearbeitungsreglement. Dieses regelt die organisatorischen und technischen Massnahmen zur Gewährleistung der Datensicherheit sowie die Kontrolle der Datenbearbeitung.
 
-[^12-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^12-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^12-3]: Fassung gemäss Anhang Ziff. 8 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^12-1]: Fassung gemäss Anhang 2 Ziff. II 26 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^12-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^12-4]: Fassung gemäss Anhang Ziff. 8 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 13
 
@@ -168,7 +170,9 @@ Die Daten- und die Informatiksicherheit richten sich nach:
 
 <sup>1</sup> Die Zugriffe auf das Web EDA und die Änderungen im Web EDA werden laufend protokolliert.
 
-<sup>2</sup> Die Protokolle werden sechs Monate aufbewahrt.
+<sup>2</sup> Die Protokolle werden während einem Jahr getrennt vom System, in welchem die Personendaten bearbeitet werden, aufbewahrt.[^13-1]
+
+[^13-1]: Fassung gemäss Anhang 2 Ziff. II 26 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 4. Abschnitt: Aufbewahrung, Archivierung und Vernichtung der Daten
 
