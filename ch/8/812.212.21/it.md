@@ -4,11 +4,11 @@ title: Ordinanza del 21 settembre 2018 sui medicamenti (OM)
 short: OM
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/588"
 language: it
-version: 2023-08-01
+version: 2023-09-01
 adopted: 2018-09-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20230801/it/xml/fedlex-data-admin-ch-eli-cc-2018-588-20230801-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2018-588-20230901-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230801/it"
 
 (OM)
 
-del 21 settembre 2018 (Stato 1° agosto 2023)
+del 21 settembre 2018 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -1147,7 +1147,9 @@ Gli organi e le persone seguenti ottengono l’accesso online ai sistemi d’inf
 - b. i collaboratori di Swissmedic attivi nell’ambito del diritto penale amministrativo;
 - c. gli amministratori di Swissmedic e i terzi incaricati.
 
-<sup>2</sup> Gli accessi ai sistemi d’informazione sono verbalizzati. I dati verbalizzati sono conservati per due anni.
+<sup>2</sup> Gli accessi ai sistemi d’informazione sono verbalizzati. I dati verbalizzati sono conservati per due anni separatamente dal sistema in cui sono trattati i dati personali.[^76-1]
+
+[^76-1]: Nuovo testo del per. giusta l’all. 2 n. II 99 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 77
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 21. September 2018 über die Arzneimittel (Arzneimittelve
 short: VAM
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/588"
 language: de
-version: 2023-08-01
+version: 2023-09-01
 adopted: 2018-09-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20230801/de/xml/fedlex-data-admin-ch-eli-cc-2018-588-20230801-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2018-588-20230901-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230801/de"
 
 (Arzneimittelverordnung, VAM)
 
-vom 21. September 2018 (Stand am 1. August 2023)
+vom 21. September 2018 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -1147,7 +1147,9 @@ Online-Zugriff auf die Informationssysteme erhalten die folgenden Stellen und Pe
 - b. die im Bereich des Verwaltungsstrafrechts tätigen Mitarbeiterinnen und Mitarbeiter der Swissmedic;
 - c. Administratorinnen und Administratoren der Swissmedic und beauftragter Dritter.
 
-<sup>2</sup> Die Zugriffe auf die Informationssysteme werden protokolliert. Die Protokolldaten werden zwei Jahre aufbewahrt.
+<sup>2</sup> Die Zugriffe auf die Informationssysteme werden protokolliert. Die Protokolldaten werden während zwei Jahren getrennt vom System, in welchem die Personendaten bearbeitet werden, aufbewahrt.[^76-1]
+
+[^76-1]: Fassung des zweiten Satzes gemäss Anhang 2 Ziff. II 99 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 77
 

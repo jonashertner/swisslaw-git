@@ -4,11 +4,11 @@ title: Ordonnance du 21 septembre 2018 sur les médicaments (OMéd)
 short: OMéd
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/588"
 language: fr
-version: 2023-08-01
+version: 2023-09-01
 adopted: 2018-09-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20230801/fr/xml/fedlex-data-admin-ch-eli-cc-2018-588-20230801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2018-588-20230901-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230801/fr"
 
 (OMéd)
 
-du 21 septembre 2018 (État le 1<sup>er</sup> août 2023)
+du 21 septembre 2018 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -1146,7 +1146,9 @@ L’accès en ligne aux systèmes d’information est octroyé aux services et p
 - b. les membres du personnel de Swissmedic travaillant dans le domaine du droit pénal administratif;
 - c. les administrateurs de Swissmedic et des tiers mandatés.
 
-<sup>2</sup> Tous les accès aux systèmes d’information sont consignés dans des procès-verbaux (journalisation). Les journaux sont conservés durant deux ans.
+<sup>2</sup> Tous les accès aux systèmes d’information sont consignés dans des procès-verbaux (journalisation). Les procès-verbaux de journalisation sont conservés durant deux ans, séparément du système dans lequel les données personnelles sont traitées.[^76-1]
+
+[^76-1]: Nouvelle teneur de la phrase selon l’annexe 2 ch. II 99 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 77
 
