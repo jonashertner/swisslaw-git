@@ -3,11 +3,11 @@ sr: "211.432.2"
 title: Ordinance of 18 November 1992 on Official Cadastral Surveying
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446"
 language: en
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1992-11-18
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446/20230101/en/xml/fedlex-data-admin-ch-eli-cc-1992-2446_2446_2446-20230101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2446_2446_2446/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446/20230901/en/xml/fedlex-data-admin-ch-eli-cc-1992-2446_2446_2446-20230901-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2446_2446_2446/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/2446_2446_2446/20230101/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 18 November 1992 (Status as of 1 January 2023)
+of 18 November 1992 (Status as of 1 September 2023)
 
 The Swiss Federal Council,
 
@@ -561,7 +561,7 @@ Under the contractual arrangements described in Article 14 paragraph 3 GeoIG, da
 
 <sup>4</sup> The FDCS also ensures the coordination between official cadastral surveying and other surveying programmes of the Confederation, advises the federal authorities on the acquisition of data for official cadastral surveying, and represents the interests of the Confederation in dealings with the cantons and third parties.[^40-3]
 
-<sup>5</sup> In cooperation with the cantonal surveying supervision, the FDCS is entitled to collect data on individual surveying tasks and on the contractors responsible for these.[^40-4]
+<sup>5</sup> In cooperation with the cantonal surveying supervision, the FDCS is entitled to process data on individual surveying tasks and on the contractors responsible for these.[^40-4]
 
 <sup>6</sup>
 
@@ -573,7 +573,7 @@ Within the programme agreements, the FDCS will specify:
 [^40-1]: Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 [^40-2]: Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 [^40-3]: Amended by No I of the O of 7 March 2003, in force since 1 April 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^40-4]: Inserted by No I of the O of 7 March 2003, in force since 1 April 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^40-4]: Inserted by No I of the O of 7 March 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)). Amended by Annex 2 No II 28 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^40-5]: Inserted by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 #### Art. 41

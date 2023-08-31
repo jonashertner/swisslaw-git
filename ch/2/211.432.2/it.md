@@ -4,11 +4,11 @@ title: Ordinanza del 18 novembre 1992 concernente la misurazione ufficiale (OMU)
 short: OMU
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446"
 language: it
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1992-11-18
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1992-2446_2446_2446-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2446_2446_2446/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1992-2446_2446_2446-20230901-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2446_2446_2446/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/2446_2446_2446/20230101/it"
 
 (OMU)
 
-del 18 novembre 1992 (Stato 1° gennaio 2023)
+del 18 novembre 1992 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -90,8 +90,8 @@ Sono componenti della misurazione ufficiale:
 - e. le componenti e le basi della misurazione ufficiale secondo il vecchio regime;
 - f.[^5-3] il piano di base della misurazione ufficiale.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, in vigore dal 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^5-2]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, in vigore dal 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^5-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, vigore il 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^5-2]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, vigore il 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 [^5-3]: Introdotta dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 #### Art. 6
@@ -118,7 +118,7 @@ Il catalogo degli oggetti comprende i livelli d’informazione seguenti:
 
 <sup>3</sup> Il livello d’informazione «beni immobili» comprende i fondi ai sensi dell’articolo 655 capoverso 2 CC, sempre che possano essere differenziati secondo la superficie, eccettuate le quote di comproprietà.[^6-6]
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, in vigore dal 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^6-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, vigore il 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 [^6-2]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 [^6-3]: Introdotta dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 [^6-4]: Introdotta dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
@@ -157,7 +157,7 @@ Il catalogo degli oggetti comprende i livelli d’informazione seguenti:
 
 <sup>4</sup> La Direzione federale delle misurazioni catastali definisce il modello di rappresentazione del piano per il registro fondiario.[^7-4]
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, in vigore dal 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^7-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, vigore il 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 [^7-2]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 [^7-3]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 [^7-4]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
@@ -174,7 +174,7 @@ Il catalogo degli oggetti comprende i livelli d’informazione seguenti:
 
 I Cantoni possono ampliare i contenuti della misurazione ufficiale previsti dal diritto federale nei limiti stabiliti dal DDPS[^10-2] e prescrivere esigenze supplementari in materia di misurazione.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, in vigore dal 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^10-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, vigore il 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 [^10-2]: Nuova espressione giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)). Di detta modifica è stato tenuto conto in tutto il presente testo.
 
 ## Capitolo 3: Demarcazione
@@ -210,7 +210,7 @@ I Cantoni possono disporre che l’accertamento dei confini avvenga in base a pi
 - a.[^13-1] nelle zone agricole e forestali delle regioni di montagna o di estivazione secondo il catasto della produzione agricola[^13-2] nonché in quelle non produttive;
 - b. nell’ambito della tenuta a giorno, sempreché i proprietari interessati diano il loro consenso.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, in vigore dal 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^13-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, vigore il 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 [^13-2]: [RS 912.1](https://fedlex.data.admin.ch/eli/cc/1999/46)
 
 #### Art. 14
@@ -268,8 +268,8 @@ I Cantoni possono prevedere ulteriori eccezioni, segnatamente:
 - b.[^17-1] per i beni immobili nonché diritti per sé stanti e permanenti differenziati secondo la superficie, i cui segni di terminazione sono costantemente minacciati dall’attività agricola o da altre cause;
 - c.[^17-2] in zone agricole e forestali delle regioni di montagna o di estivazione secondo il catasto della produzione agricola, nonché nelle regioni non produttive.
 
-[^17-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, in vigore dal 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^17-2]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, in vigore dal 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^17-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, vigore il 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^17-2]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, vigore il 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 
 ## Capitolo 4: Primo rilevamento, rinnovamento, tenuta a giorno e progetti pilota
 
@@ -380,8 +380,8 @@ Tutte le componenti della misurazione ufficiale soggiacciono all’obbligo della
 
 <sup>4</sup> La Confederazione e il Cantone possono convenire di rinunciare all’esame preliminare.[^27-2]
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, in vigore dal 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^27-2]: Introdotto dal n. I dell’O del 28 gen. 1998 ([RU 1998 270](https://fedlex.data.admin.ch/eli/oc/1998/270_270_270)). Nuovo testo giusta il n. I dell’O del 7 mar. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^27-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, vigore il 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^27-2]: Introdotto dal n. I dell’O del 28 gen. 1998 ([RU 1998 270](https://fedlex.data.admin.ch/eli/oc/1998/270_270_270)). Nuovo testo giusta il n. I dell’O del 7 mar. 2003, vigore il 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 
 #### Art. 28
 
@@ -419,7 +419,7 @@ Ultimata la procedura di deposito pubblico, compresa la liquidazione delle oppos
 
 <sup>2</sup> Con l’approvazione, questi elementi della misurazione assumono la forza probatoria di documenti pubblici.
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, in vigore dal 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^29-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, vigore il 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 [^29-2]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 #### Art. 30
@@ -488,7 +488,7 @@ Per ogni progetto pilota il DDPS emana in un’ordinanza separata, in accordo co
 
 [^32-1]
 
-[^32-1]: Abrogato dal n. I dell’O del 7 mar. 2003, con effetto dal 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^32-1]: Abrogato dal n. I dell’O del 7 mar. 2003, vigore il 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 
 #### Art. 33
 
@@ -560,7 +560,7 @@ In occasione del disciplinamento contrattuale giusta l’articolo 14 capoverso 3
 
 <sup>4</sup> Essa assicura inoltre il coordinamento tra la misurazione ufficiale e altri progetti federali di misurazione, consiglia gli uffici federali nell’ambito della raccolta dei dati della misurazione ufficiale e rappresenta gli interessi della Confederazione nei confronti dei Cantoni e di terzi.[^40-3]
 
-<sup>5</sup> In collaborazione con i servizi cantonali di vigilanza sulle misurazioni, essa è autorizzata, nell’adempimento del suo compito, a tenere un registro dei dati concernente i differenti lavori di misurazione e i relativi assuntori responsabili.[^40-4]
+<sup>5</sup> In collaborazione con i servizi cantonali di vigilanza sulle misurazioni, essa è autorizzata, nell’adempimento del suo compito, a trattare dati concernenti i differenti lavori di misurazione e i relativi assuntori responsabili.[^40-4]
 
 <sup>6</sup>
 
@@ -571,8 +571,8 @@ Nel quadro degli accordi di programma essa stabilisce:
 
 [^40-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 [^40-2]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^40-3]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, in vigore dal 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^40-4]: Introdotto dal n. I dell’O del 7 mar. 2003, in vigore dal 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^40-3]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, vigore il 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^40-4]: Introdotto dal n. I dell’O del 7 mar. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)). Nuovo testo giusta l’all. 2 n. II 28 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^40-5]: Introdotto dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 #### Art. 41
@@ -651,7 +651,7 @@ I lavori non eseguiti direttamente dal Cantone concernenti i livelli d’informa
 
 [^46-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
 [^46-2]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
-[^46-3]: Nuovo testo del per. giusta il n. I dell’O del 7 mar. 2003, in vigore dal 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^46-3]: Nuovo testo del per. giusta il n. I dell’O del 7 mar. 2003, vigore il 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 
 ## Capitolo 8: Accordi di programma, contributi federali e costi residui
 
@@ -770,7 +770,7 @@ Sono esclusi dal calcolo segnatamente:
 
 [^48a-1]
 
-[^48a-1]: Originario art. 48<sup>bis</sup>. Introdotto dal n. I dell’O del 7 mar. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)). Abrogato dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
+[^48a-1]: Originario art. 48<sup>bis</sup>. Introdotto dal n. I dell’O del 7 mar. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)). Abrogato dal n. I dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 764](https://fedlex.data.admin.ch/eli/oc/2022/764)).
 
 ### Sezione 3: Costi residui
 
@@ -784,7 +784,7 @@ Sono esclusi dal calcolo segnatamente:
 
 I Cantoni stabiliscono chi debba sopportare i costi ancora scoperti dopo deduzione degli indennizzi federali.
 
-[^49-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, in vigore dal 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^49-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, vigore il 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 
 ## Capitolo 9: Disposizioni finali
 
@@ -857,7 +857,7 @@ Per i lavori eseguiti o proseguiti conformemente al vecchio regime, giusta una d
 
 <sup>3</sup> La Confederazione partecipa alle spese unicamente nella misura in cui non esista una misurazione ufficiale conformemente alle nuove disposizioni.
 
-[^55-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, in vigore dal 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^55-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, vigore il 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 
 #### Art. 56
 
@@ -872,7 +872,7 @@ Per i lavori eseguiti o proseguiti conformemente al vecchio regime, giusta una d
 <sup>4</sup> Il DDPS di giustizia e polizia stabilisce le esigenze cui deve soddisfare la numerizzazione provvisoria.
 
 [^56-1]: [[RU 1992 2461](https://fedlex.data.admin.ch/eli/oc/1992/2461_2461_2461), [1994 1612](https://fedlex.data.admin.ch/eli/oc/1994/1612_1612_1612). [RU 2007 5819](https://fedlex.data.admin.ch/eli/oc/2007/788)art. 7]. Vedi ora O dell’AF del 6 ott. 2006 sul finanziamento della misurazione ufficiale ([RS 211.432.27](https://fedlex.data.admin.ch/eli/cc/2007/788)).
-[^56-2]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, in vigore dal 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^56-2]: Nuovo testo giusta il n. I dell’O del 7 mar. 2003, vigore il 1° apr. 2003 ([RU 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 
 #### Art. 57
 

@@ -4,11 +4,11 @@ title: Verordnung vom 18. November 1992 über die amtliche Vermessung (VAV)
 short: VAV
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446"
 language: de
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1992-11-18
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1992-2446_2446_2446-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2446_2446_2446/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1992-2446_2446_2446-20230901-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2446_2446_2446/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/2446_2446_2446/20230101/de"
 
 (VAV)
 
-vom 18. November 1992 (Stand am 1. Januar 2023)
+vom 18. November 1992 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -560,7 +560,7 @@ Bei der vertraglichen Regelung nach Artikel 14 Absatz 3 GeoIG werden für die Da
 
 <sup>4</sup> Sie stellt ferner die Koordination zwischen der amtlichen Vermessung und anderen Vermessungsvorhaben des Bundes sicher, berät die Bundesstellen bei der Beschaffung der Daten der amtlichen Vermessung und vertritt dabei die Interessen des Bundes gegenüber den Kantonen und Dritten.[^40-3]
 
-<sup>5</sup> In Zusammenarbeit mit den kantonalen Vermessungsaufsichten ist sie im Rahmen ihrer Aufgabe berechtigt, eine Datensammlung über die einzelnen Vermessungsarbeiten und die dafür verantwortlichen Unternehmer und Unternehmerinnen zu führen.[^40-4]
+<sup>5</sup> In Zusammenarbeit mit den kantonalen Vermessungsaufsichten ist sie im Rahmen ihrer Aufgabe berechtigt, Daten über die einzelnen Vermessungsarbeiten und die dafür verantwortlichen Unternehmer und Unternehmerinnen zu bearbeiten.[^40-4]
 
 <sup>6</sup>
 
@@ -572,7 +572,7 @@ Sie legt im Rahmen der Programmvereinbarungen fest:
 [^40-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 [^40-2]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 [^40-3]: Fassung gemäss Ziff. I der V vom 7. März 2003, in Kraft seit 1. April 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^40-4]: Eingefügt durch Ziff. I der V vom 7. März 2003, in Kraft seit 1. April 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^40-4]: Eingefügt durch Ziff. I der V vom 7. März 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)). Fassung gemäss Anhang 2 Ziff. II 28 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^40-5]: Eingefügt durch Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 #### Art. 41
@@ -872,7 +872,7 @@ Für Arbeiten, die aufgrund des kantonalen Entscheides gemäss den Artikeln 52 u
 
 <sup>4</sup> Das VBS legt die Anforderungen an die provisorische Numerisierung fest.
 
-[^56-1]: [[AS 1992 2461](https://fedlex.data.admin.ch/eli/oc/1992/2461_2461_2461), [1994 1612](https://fedlex.data.admin.ch/eli/oc/1994/1612_1612_1612). [AS 2007 5819](https://fedlex.data.admin.ch/eli/oc/2007/788)Art. 6]. Siehe heute: die V der BVers vom 6. Okt. 2006 über die Finanzierung der amtlichen Vermessung ([SR 211.432.27](https://fedlex.data.admin.ch/eli/cc/2007/788)).
+[^56-1]: [[AS 1992 2461](https://fedlex.data.admin.ch/eli/oc/1992/2461_2461_2461); [1994 1612](https://fedlex.data.admin.ch/eli/oc/1994/1612_1612_1612). [AS 2007 5819](https://fedlex.data.admin.ch/eli/oc/2007/788)Art. 6]. Siehe heute: die V der BVers vom 6. Okt. 2006 über die Finanzierung der amtlichen Vermessung ([SR 211.432.27](https://fedlex.data.admin.ch/eli/cc/2007/788)).
 [^56-2]: Fassung gemäss Ziff. I der V vom 7. März 2003, in Kraft seit 1. April 2003 ([AS 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
 
 #### Art. 57

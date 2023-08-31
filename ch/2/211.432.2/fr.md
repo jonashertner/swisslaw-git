@@ -4,11 +4,11 @@ title: Ordonnance du 18 novembre 1992 sur la mensuration officielle (OMO)
 short: OMO
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446"
 language: fr
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1992-11-18
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1992-2446_2446_2446-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2446_2446_2446/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1992-2446_2446_2446-20230901-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2446_2446_2446/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/2446_2446_2446/20230101/fr"
 
 (OMO)
 
-du 18 novembre 1992 (État le 1<sup>er</sup> janvier 2023)
+du 18 novembre 1992 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -564,7 +564,7 @@ Le contrat visé à l’art. 14, al. 3, LGéo, doit prévoir que seuls les frais
 
 <sup>4</sup> Elle assure en outre la coordination entre la mensuration officielle et les autres projets de mensuration de la Confédération, elle conseille les services fédéraux lors de l’acquisition de données de la mensuration officielle et représente les intérêts de la Confédération vis-à-vis des cantons et des tiers.[^40-3]
 
-<sup>5</sup> En collaboration avec les organes cantonaux chargés de la surveillance de la men­suration officielle, elle est habilitée, dans les limites de sa tâche, à tenir un registre de données concernant les différents travaux de mensuration et les adjudicataires mandatés à cet effet.[^40-4]
+<sup>5</sup> En collaboration avec les organes cantonaux chargés de la surveillance de la mensuration officielle, elle est habilitée, dans les limites de sa tâche, à traiter des données concernant les différents travaux de mensuration et les adjudicataires mandatés à cet effet.[^40-4]
 
 <sup>6</sup>
 
@@ -576,7 +576,7 @@ Dans le cadre des conventions-programmes, elle fixe:
 [^40-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 [^40-2]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 [^40-3]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2003, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
-[^40-4]: Introduit par le ch. I de l’O du 7 mars 2003, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)).
+[^40-4]: Introduit par le ch. I de l’O du 7 mars 2003 ([RO 2003 507](https://fedlex.data.admin.ch/eli/oc/2003/111)). Nouvelle teneur selon l’annexe 2 ch. II 28 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^40-5]: Introduit par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)).
 
 #### Art. 41
