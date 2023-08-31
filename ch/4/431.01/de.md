@@ -4,11 +4,11 @@ title: Bundesstatistikgesetz vom 9. Oktober 1992 (BStatG)
 short: BStatG
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080"
 language: de
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1992-10-09
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1993-2080_2080_2080-20230701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2080_2080_2080/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1993-2080_2080_2080-20230901-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2080_2080_2080/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2080_2080_2080/20230701/de"
 
 (BStatG)
 
-vom 9. Oktober 1992 (Stand am 1. Juli 2023)
+vom 9. Oktober 1992 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -119,7 +119,7 @@ Sie dient:
 
 Er kann die Anordnungsbefugnis an ein Departement, eine Gruppe oder ein Amt delegieren:
 
-- a. für Erhebungen, bei denen keine Personendaten erhoben werden;
+- a.[^5-1] für Erhebungen, bei denen keine Personendaten oder Daten juristischer Personen erhoben werden;
 - b. für Erhebungen ohne Auskunftspflicht über einen kleinen Kreis von Unternehmen und Betrieben des privaten und des öffentlichen Rechts;
 - c. für einmalige Erhebungen bei einem kleinen Kreis von Personen.
 
@@ -129,11 +129,14 @@ Er kann die Anordnungsbefugnis an ein Departement, eine Gruppe oder ein Amt dele
 
 Andere dem Gesetz nach Artikel 2 Absatz 2 oder 3 unterstellte Organisationen sind befugt zur selbständigen Anordnung von:
 
-- a. Erhebungen, bei denen keine Personendaten erhoben werden;
+- a.[^5-2] Erhebungen, bei denen keine Personendaten oder Daten juristischer Personen erhoben werden;
 - b. Erhebungen ohne Auskunftspflicht bei natürlichen und juristischen Personen des privaten und öffentlichen Rechts, mit denen die Organisation zur Erfüllung ihrer übrigen Aufgaben zusammenarbeitet;
 - c. Erhebungen mit Auskunftspflicht, wenn ein anderes Gesetz dies vorsieht.
 
 <sup>5</sup> Erhebungen zur Erprobung von Methoden können ohne besondere Anordnung durchgeführt werden, sofern damit keine Auskunftspflicht verbunden ist.
+
+[^5-1]: Fassung gemäss Anhang 1 Ziff. II 35 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^5-2]: Fassung gemäss Anhang 1 Ziff. II 35 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 6
 
@@ -160,14 +163,14 @@ Andere dem Gesetz nach Artikel 2 Absatz 2 oder 3 unterstellte Organisationen sin
 
 <sup>1</sup> Der Bundesrat legt bei der Anordnung einer Erhebung fest, in welchem Ausmass die Kantone und Gemeinden bei der Durchführung mitwirken.
 
-<sup>2</sup> Er kann dabei die Übernahme von Daten aus ihren Datensammlungen anordnen, sofern die Rechtsgrundlage der Datensammlung die Verwendung für statistische Zwecke nicht ausdrücklich ausschliesst. Unterliegen diese Daten einer gesetzlich verankerten Geheimhaltungspflicht, dürfen sie gemäss Artikel 19 des vorliegenden Gesetzes sowie Artikel 22[^7-1] des Datenschutzgesetzes vom 19. Juni 1992[^7-2] nicht weitergegeben werden.
+<sup>2</sup> Er kann dabei die Übernahme von Daten aus ihren Datenbanken anordnen, sofern die Rechtsgrundlage der Datenbank die Verwendung für statistische Zwecke nicht ausdrücklich ausschliesst. Unterliegen diese Daten einer gesetzlich verankerten Geheimhaltungspflicht, so dürfen sie gemäss Artikel 19 des vorliegenden Gesetzes sowie Artikel 39 des Datenschutzgesetzes vom 25. September 2020[^7-1] nicht weitergegeben werden.[^7-2]
 
 <sup>3</sup> Kantone und Gemeinden tragen je die aus ihrer Mitwirkung entstehenden Kosten. Das kantonale Recht kann die Kostenverteilung zwischen Kantonen und Gemeinden anders regeln.
 
 <sup>4</sup> Für besondere Aufwendungen oder freiwillig erbrachte zusätzliche Leistungen kann der Bundesrat eine Entschädigung vorsehen.
 
-[^7-1]: Berichtigt von der Redaktionskommission der BVers (Art. 33 GVG – [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
-[^7-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^7-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^7-2]: Fassung gemäss Anhang 1 Ziff. II 35 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 8
 
@@ -210,17 +213,18 @@ Das Mehrjahresprogramm gibt Auskunft über:
 
 <sup>3quinquies</sup> Der Bundesrat regelt die Einzelheiten.[^10-5]
 
-<sup>4</sup> Die Verwaltungseinheiten sowie, nach Massgabe ihrer Unterstellung nach Artikel 2 Absatz 3, die übrigen Organisationen liefern dem Bundesamt zur Erfüllung seiner Aufgaben die Ergebnisse und Grundlagen ihrer Statistiktätigkeit und, falls erforderlich, Daten aus ihren Datensammlungen und Erhebungen.
+<sup>4</sup> Die Verwaltungseinheiten sowie, nach Massgabe ihrer Unterstellung nach Artikel 2 Absatz 3, die übrigen Organe liefern dem Bundesamt zur Erfüllung seiner Aufgaben die Ergebnisse und Grundlagen ihrer Statistiktätigkeit und, falls erforderlich, die Daten aus ihren Datenbanken und Erhebungen.[^10-6]
 
-<sup>5</sup> Geheimhaltungspflichten und Sperrungen können in der Regel einer Bekanntgabe an das Bundesamt nur entgegengehalten werden, wenn ein Bundesgesetz die Weitergabe oder Verwendung der Daten für statistische Zwecke ausdrücklich ausschliesst. Das Bundesamt darf diese Daten gemäss Artikel 19 des vorliegenden Gesetzes sowie Artikel 22[^10-6] Datenschutzgesetzes vom 19. Juni 1992[^10-7] nicht weitergeben.
+<sup>5</sup> Geheimhaltungspflichten und Sperrungen können in der Regel einer Bekanntgabe an das Bundesamt nur entgegengehalten werden, wenn ein Bundesgesetz die Weitergabe oder Verwendung der Daten für statistische Zwecke ausdrücklich ausschliesst. Das Bundesamt darf diese Daten gemäss Artikel 19 des vorliegenden Gesetzes sowie Artikel 39 des Datenschutzgesetzes vom 25. September 2020[^10-7] nicht weitergeben.[^10-8]
 
 [^10-1]: Eingefügt durch Art. 10 des BG vom 26. Juni 1998 über die eidgenössische Volkszählung ([AS 1999 917](https://fedlex.data.admin.ch/eli/oc/1999/137); [BBl 1997 III 1225](https://fedlex.data.admin.ch/eli/fga/1997/3_1225_1089_1009)). Fassung gemäss Art. 24 Ziff. 1 des Zweitwohnungsgesetzes vom 20. März 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5657](https://fedlex.data.admin.ch/eli/oc/2015/886); [BBl 2014 2287](https://fedlex.data.admin.ch/eli/fga/2014/409)).
 [^10-2]: [AS 1999 1503](https://fedlex.data.admin.ch/eli/oc/1999/224)
 [^10-3]: Eingefügt durch Art. 25 des Universitätsförderungsgesetz vom 8. Okt. 1999, in Kraft seit 1. April 2000 gültig bis 31. Dez. 2007 ([AS 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146); BBl **1999** 297).
 [^10-4]: Eingefügt durch Anhang Ziff. 2 des BG vom 24. März 2006, in Kraft seit 1. April 2007 ([AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [BBl 2003 7951](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 [^10-5]: Eingefügt durch Anhang Ziff. 2 des BG vom 24. März 2006, in Kraft seit 1. April 2007 ([AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [BBl 2003 7951](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
-[^10-6]: Berichtigt von der Redaktionskommission der BVers (Art. 33 GVG – [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
+[^10-6]: Fassung gemäss Anhang 1 Ziff. II 35 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^10-7]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^10-8]: Fassung des zweiten Satzes gemäss Anhang 1 Ziff. II 35 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 11
 
@@ -240,9 +244,11 @@ Das Mehrjahresprogramm gibt Auskunft über:
 
 <sup>1</sup> Bei der Ausgestaltung der Erhebungen, Gesamtdarstellungen sowie der übrigen Datenquellen der Bundesstatistik ist das Bundesamt zu konsultieren.
 
-<sup>2</sup> Das Bundesamt wirkt auf eine Koordination mit den kantonalen Statistiken hin, insbesondere um die Erhebungsprogramme aufeinander abzustimmen und Register oder andere Datensammlungen im Hinblick auf die statistische Bearbeitung zu harmonisieren.
+<sup>2</sup> Das Bundesamt wirkt auf eine Koordination mit den kantonalen Statistiken hin, insbesondere um die Erhebungsprogramme aufeinander abzustimmen und Register oder andere Datenbanken im Hinblick auf die statistische Bearbeitung zu harmonisieren.[^12-1]
 
 <sup>3</sup> Es arbeitet zudem mit den Kantonen, den Hochschulen und den Forschungsorganen in statistikbezogenen Forschungs- und Ausbildungsfragen zusammen.
+
+[^12-1]: Fassung gemäss Anhang 1 Ziff. II 35 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 13
 
@@ -258,43 +264,48 @@ Das Mehrjahresprogramm gibt Auskunft über:
 
 **Datenschutz und Amtsgeheimnis**
 
-<sup>1</sup> Die zu statistischen Zwecken erhobenen oder weitergegebenen Daten dürfen nicht zu anderen Zwecken verwendet werden, ausser wenn ein Bundesgesetz eine andere Verwendung ausdrücklich anordnet oder der Betroffene einer solchen schriftlich zustimmt.
+<sup>1</sup> Die zu statistischen Zwecken erhobenen oder weitergegebenen Daten dürfen nicht zu anderen Zwecken verwendet werden, ausser wenn ein Bundesgesetz eine andere Verwendung ausdrücklich anordnet oder die betroffene natürliche oder juristische Person einer solchen schriftlich zustimmt.[^14-1]
 
 <sup>2</sup> Die mit statistischen Arbeiten betrauten Personen müssen alle Daten über einzelne natürliche und juristische Personen geheim halten, die sie bei ihrer Arbeit wahrgenommen haben. Diese Pflicht gilt insbesondere auch für die Personen, die in den Kantonen, Gemeinden und bei übrigen Stellen zur Mitwirkung an Erhebungen beigezogen werden oder die Daten nach Artikel 19 erhalten.
+
+[^14-1]: Fassung gemäss Anhang 1 Ziff. II 35 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 14a
 
 **Datenverknüpfungen**[^14a-1]
 
-<sup>1</sup> Zur Erfüllung seiner statistischen Aufgaben kann das Bundesamt Daten miteinander verknüpfen, wenn diese anonymisiert werden. Werden besonders schützenswerte Daten verknüpft oder ergeben sich aus der Verknüpfung Persönlichkeitsprofile, so sind die verknüpften Daten nach Abschluss der statistischen Auswertungsarbeiten zu löschen. Der Bundesrat regelt die Einzelheiten.
+<sup>1</sup> Zur Erfüllung seiner statistischen Aufgaben kann das Bundesamt Daten miteinander verknüpfen, wenn diese anonymisiert werden. Werden besonders schützenswerte Personendaten oder besonders schützenswerte Daten juristischer Personen verknüpft oder ergeben sich aus der Verknüpfung die wesentlichen Merkmale einer natürlichen oder juristischen Person, so sind die verknüpften Daten nach Abschluss der statistischen Auswertungsarbeiten zu löschen.[^14a-2] Der Bundesrat regelt die Einzelheiten.
 
 <sup>2</sup> Statistikstellen der Kantone und Gemeinden dürfen zur Erfüllung ihrer statistischen Aufgaben Daten des Bundesamtes nur mit dessen schriftlicher Zustimmung und unter Berücksichtigung seiner Auflagen mit weiteren Daten verknüpfen.
 
 [^14a-1]: Eingefügt durch Anhang Ziff. 4 des Registerharmonisierungsgesetzes vom 23. Juni 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [BBl 2006 427](https://fedlex.data.admin.ch/eli/fga/2006/49)).
+[^14a-2]: Fassung des zweiten Satzes gemäss Anhang 1 Ziff. II 35 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 15
 
 **Datensicherheit und Datenaufbewahrung**
 
-<sup>1</sup> Alle Stellen, die Personendaten für die oder aus der Bundesstatistik bearbeiten, müssen diese durch die erforderlichen organisatorischen und technischen Massnahmen gegen unbefugtes Bearbeiten schützen.
+<sup>1</sup> Alle Stellen, die Personendaten oder Daten juristischer Personen für die oder aus der Bundesstatistik bearbeiten, müssen diese durch die erforderlichen organisatorischen und technischen Massnahmen gegen unbefugtes Bearbeiten schützen.[^15-1]
 
 <sup>2</sup> Die Erhebungsstellen dürfen die zur Vorbereitung, Durchführung und Koordination von Erhebungen erstellten Namens- und Adresslisten nur solange aufbewahren, als diese für die genannten Zwecke bearbeitet werden müssen. Vorbehalten bleiben die Bestimmungen über das Betriebs- und Unternehmensregister.
 
 <sup>3</sup> Erhebungsmaterial, das neben den erfragten Angaben Namen oder persönliche Identifikationsnummern der Betroffenen enthält, darf nur von den zuständigen Erhebungsstellen bearbeitet werden. Es ist zu vernichten, sobald die Bearbeitung abgeschlossen ist.
 
-<sup>4</sup> Daten können bei der zuständigen Statistikstelle des Bundes, beim Bundesamt oder, mit dessen schriftlicher Zustimmung und unter Berücksichtigung seiner Auflagen, bei der kantonalen Statistikstelle aufbewahrt und archiviert werden, sofern sie keine Namen oder persönlichen Identifikationsnummern der Betroffenen enthalten.[^15-1]
+<sup>4</sup> Daten können bei der zuständigen Statistikstelle des Bundes, beim Bundesamt oder, mit dessen schriftlicher Zustimmung und unter Berücksichtigung seiner Auflagen, bei der kantonalen Statistikstelle aufbewahrt und archiviert werden, sofern sie keine Namen oder persönlichen Identifikationsnummern der Betroffenen enthalten.[^15-2]
 
-[^15-1]: Fassung gemäss Anhang Ziff. 4 des Registerharmonisierungsgesetzes vom 23. Juni 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [BBl 2006 427](https://fedlex.data.admin.ch/eli/fga/2006/49)).
+[^15-1]: Fassung gemäss Anhang 1 Ziff. II 35 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^15-2]: Fassung gemäss Anhang Ziff. 4 des Registerharmonisierungsgesetzes vom 23. Juni 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [BBl 2006 427](https://fedlex.data.admin.ch/eli/fga/2006/49)).
 
 #### Art. 16
 
 **Anwendung anderer Datenschutzbestimmungen**
 
-<sup>1</sup> Für den Datenschutz bei allen statistischen Arbeiten gelten neben den Bestimmungen dieses Gesetzes die Bestimmungen des Datenschutzgesetzes vom 19. Juni 1992[^16-1] über die Bearbeitung für Forschung, Planung und Statistik.
+<sup>1</sup> Für den Datenschutz bei allen statistischen Arbeiten gelten die Bestimmungen dieses Gesetzes. Für Personendaten gelten ausserdem die Bestimmungen des Datenschutzgesetzes vom 25. September 2020[^16-1] über die Bearbeitung für Forschung, Planung und Statistik.[^16-2]
 
 <sup>2</sup> Der Bundesrat erlässt für die Erhebung der Daten sowie für die Bearbeitung durch Bundesorgane die ergänzenden Bestimmungen über den Datenschutz und die Datensicherheit.
 
 [^16-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^16-2]: Fassung gemäss Anhang 1 Ziff. II 35 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 17
 
@@ -326,7 +337,7 @@ Das Mehrjahresprogramm gibt Auskunft über:
 
 <sup>2</sup>
 
-Die Statistikproduzenten des Bundes dürfen Personendaten für nicht personenbezogene Zwecke, insbesondere für Forschung, Planung und Statistik, Forschungs- und Statistikstellen des Bundes sowie Dritten bekannt geben, wenn:
+Die Statistikproduzenten des Bundes dürfen Personendaten und Daten juristischer Personen für nicht personenbezogene Zwecke, insbesondere für Forschung, Planung und Statistik, Forschungs- und Statistikstellen des Bundes sowie Dritten bekannt geben, wenn:[^19-1]
 
 - a. die Daten anonymisiert werden, sobald es der Zweck des Bearbeitens erlaubt;
 - b. der Empfänger die Daten nur mit Zustimmung des Statistikproduzenten weitergibt;
@@ -334,6 +345,8 @@ Die Statistikproduzenten des Bundes dürfen Personendaten für nicht personenbez
 - d. die Voraussetzungen für die Einhaltung des Statistikgeheimnisses und der übrigen Datenschutzbestimmungen durch den Empfänger gegeben sind.
 
 <sup>3</sup> Das Bundesamt kann befristete Forschungs-, Analyse- und Beratungsaufgaben im Zusammenhang mit der Bundesstatistik ausführen, wenn der Auftraggeber die Kosten übernimmt oder das nötige Personal zur Verfügung stellt.
+
+[^19-1]: Fassung gemäss Anhang 1 Ziff. II 35 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 20
 

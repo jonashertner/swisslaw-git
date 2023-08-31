@@ -4,11 +4,11 @@ title: Legge del 9 ottobre 1992 sulla statistica federale (LStat)
 short: LStat
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080"
 language: it
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1992-10-09
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1993-2080_2080_2080-20230701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2080_2080_2080/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1993-2080_2080_2080-20230901-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2080_2080_2080/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2080_2080_2080/20230701/it"
 
 (LStat)
 
-del 9 ottobre 1992 (Stato 1° luglio 2023)
+del 9 ottobre 1992 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -26,7 +26,7 @@ visti gli articoli 65 capoverso 1 e 173 capoverso 2 della Costituzione federale[
 decreta:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nuovo testo giusta il n. I 6 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^ingress-2]: Nouvo testo giusta il n. I 6 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); FF **2018** 2889).
 [^ingress-3]: [FF 1992 I 321](https://fedlex.data.admin.ch/eli/fga/1992/1_373_353_321)
 
 ## Sezione 1: Disposizioni generali
@@ -119,7 +119,7 @@ Essa serve per:
 
 Esso può delegare questa competenza ad un dipartimento, ad un gruppo o ad un ufficio:
 
-- a. per rilevazioni nelle quali non vengono raccolti dati personali;
+- a.[^5-1] per rilevazioni nelle quali non vengono raccolti dati personali o dati concernenti persone giuridiche;
 - b. per rilevazioni senza obbligo di informare riguardanti una piccola cerchia di imprese e aziende di diritto privato o pubblico;
 - c. per rilevazioni uniche presso una piccola cerchia di persone.
 
@@ -129,11 +129,14 @@ Esso può delegare questa competenza ad un dipartimento, ad un gruppo o ad un uf
 
 Altre istituzioni sottoposte alla presente legge secondo l’articolo 2 capoverso 2 o 3 possono ordinare autonomamente:
 
-- a. rilevazioni nelle quali non vengono raccolti dati personali;
+- a.[^5-2] rilevazioni nelle quali non vengono raccolti dati personali o dati concernenti persone giuridiche;
 - b. rilevazioni senza obbligo di informare presso persone fisiche o giuridiche di diritto privato o pubblico, con le quali le istituzioni collaborano per l’esecuzione dei loro compiti;
 - c. rilevazioni con obbligo di informare, se un’altra legge lo prevede.
 
 <sup>5</sup> Le rilevazioni aventi lo scopo di sperimentare metodi non richiedono un’autorizzazione specifica se non implicano alcun obbligo d’informare.
+
+[^5-1]: Nuovo testo giusta l’all. 1 n. II 35 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^5-2]: Nuovo testo giusta l’all. 1 n. II 35 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 6
 
@@ -160,14 +163,14 @@ Altre istituzioni sottoposte alla presente legge secondo l’articolo 2 capovers
 
 <sup>1</sup> Nell’ordinare una rilevazione, il Consiglio federale stabilisce in che misura Cantoni e Comuni partecipano all’esecuzione.
 
-<sup>2</sup> Esso può ordinare l’assunzione di dati contenuti nelle loro collezioni di dati se la base giuridica di dette collezioni non vieta espressamente la loro utilizzazione a fini statistici. Giusta l’articolo 19 della presente legge e l’articolo 22[^7-1] della legge federale del 19 giugno 1992[^7-2] sulla protezione dei dati, i dati che sottostanno all’obbligo legale del segreto non possono essere comunicati.
+<sup>2</sup> Esso può ordinare l’assunzione di dati contenuti nelle loro banche dati se la base giuridica di dette banche dati non vieta espressamente la loro utilizzazione a fini statistici. Giusta l’articolo 19 della presente legge e l’articolo 39 della legge federale del 25 settembre 2020[^7-1] sulla protezione dei dati, i dati che sottostanno all’obbligo legale del segreto non possono essere comunicati.[^7-2]
 
 <sup>3</sup> I Cantoni e i Comuni sopportano i costi derivanti dalla loro partecipazione a rilevazioni federali. Il diritto cantonale può disciplinare altrimenti la ripartizione dei costi tra i Cantoni e i Comuni.
 
 <sup>4</sup> Il Consiglio federale può accordare un indennizzo per lavori straordinari o prestazioni supplementari fornite senza obbligo.
 
-[^7-1]: Rettificato dalla Commissione di redazione dell’AF (art. 33 LRC – [RU 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
-[^7-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^7-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^7-2]: Nuovo testo giusta l’all. 1 n. II 35 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 8
 
@@ -210,17 +213,18 @@ Il programma pluriennale informa su:
 
 <sup>3quinquies</sup> Il Consiglio federale disciplina i dettagli.[^10-5]
 
-<sup>4</sup> Le unità amministrative della Confederazione e gli altri organismi, nella misura in cui sottostanno all’articolo 2 capoverso 3 della presente legge, forniscono all’Ufficio federale, per l’adempimento dei suoi compiti, i risultati e le basi della loro attività statistica e, se necessario, dati provenienti dalle loro collezioni e rilevazioni.
+<sup>4</sup> Le unità amministrative della Confederazione e gli altri organismi, nella misura in cui sottostanno all’articolo 2 capoverso 3, forniscono all’Ufficio federale, per l’adempimento dei suoi compiti, i risultati e le basi della loro attività statistica e, se necessario, i dati provenienti dalle loro banche dati e rilevazioni.[^10-6]
 
-<sup>5</sup> Di regola, l’obbligo del segreto e il blocco dei dati possono giustificare il rifiuto di comunicare all’Ufficio federale le informazioni richieste unicamente se una legge federale vieta espressamente di comunicare o utilizzare dati per scopi statistici. Giusta l’articolo 19 della presente legge e l’articolo 22[^10-6] della legge federale del 19 giugno 1992[^10-7] sulla protezione dei dati, l’Ufficio federale non può comunicare questi dati.
+<sup>5</sup> Di regola, l’obbligo del segreto e il blocco dei dati possono giustificare il rifiuto di comunicare all’Ufficio federale le informazioni richieste unicamente se una legge federale vieta espressamente di comunicare o utilizzare dati per scopi statistici. Giusta l’articolo 19 della presente legge e l’articolo 39 della legge federale del 25 settembre 2020[^10-7] sulla protezione dei dati, l’Ufficio federale non può comunicare questi dati.[^10-8]
 
 [^10-1]: Introdotto dall’art. 10 della LF del 26 giu. 1998 sul censimento federale della popolazione ([RU 1999 917](https://fedlex.data.admin.ch/eli/oc/1999/137); [FF 1997 III 1009](https://fedlex.data.admin.ch/eli/fga/1997/3_1225_1089_1009)). Nuovo testo giusta l’art. 24 n. 1 della LF del 20 mar. 2015 sulle abitazioni secondarie, in vigore dal 1° gen 2016 ([RU 2015 5657](https://fedlex.data.admin.ch/eli/oc/2015/886); [FF 2014 2065](https://fedlex.data.admin.ch/eli/fga/2014/409)).
 [^10-2]: [RU 1999 1503](https://fedlex.data.admin.ch/eli/oc/1999/224)
 [^10-3]: Introdotto dall’art. 25 della LF dell’8 ott. 1999 sull’aiuto alle università, in vigore dal 1° apr. 2000 fino al 31 dic. 2007 ([RU 1999 917](https://fedlex.data.admin.ch/eli/oc/1999/137); [FF 1997 III 1009](https://fedlex.data.admin.ch/eli/fga/1997/3_1225_1089_1009)).
-[^10-4]: Introdotto dall’all. n. 2 della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351))
-[^10-5]: Introdotto dall’all. n. 2 della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351))
-[^10-6]: Rettificato dalla Commissione di redazione dell’AF (art. 33 LRC – [RU 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
+[^10-4]: Introdotto dall’all. n. 2 della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^10-5]: Introdotto dall’all. n. 2 della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^10-6]: Nuovo testo giusta l’all. 1 n. II 35 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^10-7]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^10-8]: Nuovo testo del per. giusta l’all. 1 n. II 35 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 11
 
@@ -240,9 +244,11 @@ Il programma pluriennale informa su:
 
 <sup>1</sup> L’Ufficio federale dev’essere consultato sulla forma delle rilevazioni, delle presentazioni statistiche globali nonché delle altre fonti di dati della statistica federale.
 
-<sup>2</sup> L’Ufficio federale si adopera per coordinare la statistica federale con le statistiche cantonali e, in particolare, per armonizzare, in vista della loro elaborazione statistica, i programmi delle rilevazioni e i registri e le altre collezioni di dati.
+<sup>2</sup> L’Ufficio federale si adopera per coordinare la statistica federale con le statistiche cantonali, segnatamente per armonizzare i programmi delle rilevazioni e, in vista della loro elaborazione statistica, i registri o altre banche dati.[^12-1]
 
 <sup>3</sup> Esso collabora inoltre con i Cantoni, le università e gli organismi di ricerca nei settori della ricerca e della formazione legati alla statistica.
+
+[^12-1]: Nuovo testo giusta l’all. 1 n. II 35 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 13
 
@@ -258,43 +264,48 @@ Il programma pluriennale informa su:
 
 **Protezione dei dati e segreto d’ufficio**
 
-<sup>1</sup> Tutti i dati rilevati o comunicati per scopi statistici non possono essere utilizzati per altri fini, salvo che una legge federale ne disponga espressamente un’altra utilizzazione o la persona interessata vi acconsenta per scritto.
+<sup>1</sup> I dati rilevati o comunicati per scopi statistici non possono essere utilizzati per altri fini, salvo che una legge federale ne disponga espressamente un’altra utilizzazione o la persona fisica o giuridica interessata vi acconsenta per scritto.[^14-1]
 
 <sup>2</sup> Tutte le persone incaricate di lavori statistici sono tenute a mantenere il segreto sui dati concernenti singole persone fisiche o giuridiche, di cui sono venuti a conoscenza nel loro lavoro. Questo obbligo vale anche in particolare per le persone alle quali, nei Cantoni, nei Comuni e negli altri servizi, è stato chiesto di partecipare alle rilevazioni o hanno ottenuto i dati secondo l’articolo 19.
+
+[^14-1]: Nuovo testo giusta l’all. 1 n. II 35 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 14a
 
 **Collegamenti di dati**[^14a-1]
 
-<sup>1</sup> Per adempiere i suoi compiti statistici, l’Ufficio federale può collegare dati tra loro se questi vengono resi anonimi. Se si tratta di dati che richiedono una particolare protezione o se dal collegamento emergono profili della personalità, i dati collegati vanno eliminati al termine delle elaborazioni statistiche. Il Consiglio federale disciplina i dettagli.
+<sup>1</sup> Per adempiere i suoi compiti statistici, l’Ufficio federale può collegare dati tra loro se questi vengono resi anonimi. Se si tratta di dati personali degni di particolare protezione o di dati concernenti persone giuridiche degni di particolare protezione oppure se dal collegamento emergono le caratteristiche essenziali di una persona fisica o giuridica, i dati collegati vanno eliminati al termine delle elaborazioni statistiche.[^14a-2] Il Consiglio federale disciplina i dettagli.
 
 <sup>2</sup> Per adempiere i loro compiti statistici, i servizi statistici cantonali e comunali possono collegare i dati dell’Ufficio federale con altri dati soltanto previa approvazione scritta da parte di quest’ultimo e in ottemperanza alle condizioni stabilite dallo stesso.
 
 [^14a-1]: Introdotto dall’all. n. 4 della L del 23 giu. 2006 sull’armonizzazione dei registri, in vigore dal 1° nov. 2006 ([RU 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [FF 2006 397](https://fedlex.data.admin.ch/eli/fga/2006/49)).
+[^14a-2]: Nuovo testo del per. giusta l’all. 1 n. II 35 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 15
 
 **Sicurezza e conservazione dei dati**
 
-<sup>1</sup> Tutti i servizi che trattano dati personali provenienti dalla statistica federale o ad essa destinati devono proteggerli contro ogni trattamento non autorizzato mediante i provvedimenti tecnici e organizzativi che si impongono.
+<sup>1</sup> I servizi che trattano dati personali o dati concernenti persone giuridiche provenienti dalla statistica federale o ad essa destinati devono proteggerli contro ogni trattamento non autorizzato mediante i provvedimenti tecnici e organizzativi che si impongono.[^15-1]
 
 <sup>2</sup> Gli organi responsabili di rilevazioni hanno il diritto di conservare gli elenchi di nomi e indirizzi trattati per la preparazione, l’esecuzione e il coordinamento di rilevazioni soltanto finché sono necessari a questi scopi. Sono salve le disposizioni riguardanti i dati del Registro delle imprese e degli stabilimenti.
 
 <sup>3</sup> Il materiale di rilevazione che, oltre i dati richiesti, contiene nomi o numeri d’identificazione delle persone interessate, può essere trattato solo dagli organi responsabili della rilevazione. Esso dev’essere distrutto non appena ultimato il trattamento dei dati.
 
-<sup>4</sup> I dati possono essere conservati e archiviati presso il servizio statistico competente della Confederazione, presso l’Ufficio federale o, previa approvazione scritta da parte di quest’ultimo e in ottemperanza alle condizioni stabilite dallo stesso, presso il servizio statistico cantonale, purché non contengano nomi o numeri di identificazione delle persone interessate.[^15-1]
+<sup>4</sup> I dati possono essere conservati e archiviati presso il servizio statistico competente della Confederazione, presso l’Ufficio federale o, previa approvazione scritta da parte di quest’ultimo e in ottemperanza alle condizioni stabilite dallo stesso, presso il servizio statistico cantonale, purché non contengano nomi o numeri di identificazione delle persone interessate.[^15-2]
 
-[^15-1]: Nuovo testo giusta l’all. n. 4 della L del 23 giu. 2006 sull’armonizzazione dei registri, in vigore dal 1° nov. 2006 ([RU 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [FF 2006 397](https://fedlex.data.admin.ch/eli/fga/2006/49)).
+[^15-1]: Nuovo testo giusta l’all. 1 n. II 35 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^15-2]: Nuovo testo giusta l’all. n. 4 della L del 23 giu. 2006 sull’armonizzazione dei registri, in vigore dal 1° nov. 2006 ([RU 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [FF 2006 397](https://fedlex.data.admin.ch/eli/fga/2006/49)).
 
 #### Art. 16
 
 **Applicazione di altre disposizioni sulla protezione dei dati**
 
-<sup>1</sup> Per la protezione dei dati in tutti i lavori statistici valgono, oltre alle disposizioni della presente legge, le disposizioni della legge federale del 19 giugno 1992[^16-1] sulla protezione dei dati concernenti il trattamento per scopi di ricerca, di pianificazione e di statistica.
+<sup>1</sup> Per la protezione dei dati in tutti i lavori statistici valgono le disposizioni della presente legge. Per i dati personali valgono inoltre le disposizioni della legge federale del 25 settembre 2020[^16-1] sulla protezione dei dati relative al trattamento per scopi di ricerca, pianificazione e statistica.[^16-2]
 
 <sup>2</sup> Il Consiglio federale emana, per la rilevazione dei dati, come pure per il loro trattamento da parte di organi della Confederazione, le disposizioni completive relative alla protezione e alla sicurezza dei dati.
 
 [^16-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^16-2]: Nuovo testo giusta l’all. 1 n. II 35 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 17
 
@@ -326,7 +337,7 @@ Il programma pluriennale informa su:
 
 <sup>2</sup>
 
-I produttori di statistiche della Confederazione possono comunicare dati personali a servizi statistici e di ricerca federali nonché a terzi, per scopi impersonali, quali ricerca, pianificazione o statistica, se:
+I produttori di statistiche della Confederazione possono comunicare dati personali e dati concernenti persone giuridiche a servizi statistici e di ricerca federali nonché a terzi, per scopi impersonali quali in particolare ricerca, pianificazione o statistica, se:[^19-1]
 
 - a. i dati sono anonimizzati, non appena lo permette lo scopo del trattamento;
 - b. il destinatario comunica a terzi i dati soltanto con l’autorizzazione del produttore di statistiche;
@@ -334,6 +345,8 @@ I produttori di statistiche della Confederazione possono comunicare dati persona
 - d. se il destinatario presenta le condizioni per il rispetto del segreto statistico e delle altre disposizioni relative alla protezione dei dati.
 
 <sup>3</sup> L’Ufficio federale può eseguire lavori di ricerca, di analisi e di consulenza di durata limitata in rapporto con la statistica federale, a condizione che il mandante se ne assuma i costi o fornisca il personale necessario.
+
+[^19-1]: Nuovo testo giusta l’all. 1 n. II 35 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 20
 
@@ -351,6 +364,10 @@ Il Consiglio federale fissa gli emolumenti per le pubblicazioni, le prestazioni 
 
 ## Sezione 6: Disposizioni penali
 
+[^sec6-1]
+
+[^sec6-1]: A partire dal 1° gen. 2007 le pene e i termini di prescrizione devono essere adattati giusta la chiave di conversione dell’art. 333 cpv. 2–6 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nel testo della LF del 13 dic. 2002 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
+
 #### Art. 22
 
 **Violazione dell’obbligo d’informazione**
@@ -365,7 +382,7 @@ Chiunque, in occasione di una rilevazione statistica ordinata in base alla prese
 
 <sup>2</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria.
 
-[^23-1]: Nuovo testo giusta il n. I 6 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^23-1]: Nouvo testo giusta il n. I 6 della LF del 17 dic. 2021 che adegua il diritto penale accessorio alla nuova disciplina delle sanzioni, in vigore dal 1° lug. 2023 ([RU 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); FF **2018** 2889).
 
 #### Art. 24
 
@@ -406,7 +423,7 @@ Chiunque, in occasione di una rilevazione statistica ordinata in base alla prese
 
 Data dell’entrata in vigore: 1° agosto 1993[^27-1]
 
-[^27-1]: DCF del 30 giu. 1993
+[^27-1]: DCF del 30 giu. 1993.
 
 Allegato
 

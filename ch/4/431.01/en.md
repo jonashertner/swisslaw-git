@@ -4,11 +4,11 @@ title: Federal Statistics Act of 9 October 1992 (FStatA)
 short: FStatA
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080"
 language: en
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1992-10-09
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080/20230701/en/xml/fedlex-data-admin-ch-eli-cc-1993-2080_2080_2080-20230701-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2080_2080_2080/20230701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080/20230901/en/xml/fedlex-data-admin-ch-eli-cc-1993-2080_2080_2080-20230901-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2080_2080_2080/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (FStatA)
 
-of 9 October 1992 (Status as of 1 July 2023)
+of 9 October 1992 (Status as of 1 September 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -87,7 +87,7 @@ They assist in:
 - d.[^3-2] the assessment of the fulfilment of the constitutional mandate to establish equal opportunities for men and women and for disabled and non-disabled people;
 - e.[^3-3] the evaluation of the employability and activities of university graduates.
 
-<sup>3</sup> To perform these duties, the Confederation works together with the cantons, the communes, academia, the private sector and representatives from civil society as well as foreign and international organisations, and if possible takes their information needs into account.
+<sup>3</sup> To perform these duties, the Confederation shall work with the cantons, the communes, academia, the private sector and representatives from civil society as well as foreign and international organisations, and if possible take their information needs into account.
 
 [^3-1]: Amended by Annex No II 5 of the Higher Education Act of 30 Sept 2011, in force since 1 Jan. 2015 ([AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [BBl 2009 4561](https://fedlex.data.admin.ch/eli/fga/2009/812)).
 [^3-2]: Amended by Annex No 1 of the FA of 13 Dec. 2002 on the Elimination of Discrimination against People with Disabilities, in force since 1 Jan. 2004 ([AS 2003 4487](https://fedlex.data.admin.ch/eli/oc/2003/667); [BBl 2001 1715](https://fedlex.data.admin.ch/eli/fga/2001/434)).
@@ -99,11 +99,11 @@ They assist in:
 
 <sup>1</sup> Insofar as the Confederation has the necessary data available or that such data becomes available to an organisation subject to this Act in the implementation of federal law (federal administrative data), separate surveys need not be conducted by federal statistical bodies (direct surveys, indirect surveys or surveys based on observations and measurements).
 
-<sup>2</sup> In the event that the data required by federal statistical bodies on third parties is available from cantonal or communal agencies or from other entities of the public law, such data must be collected from said agencies or entities (indirect survey).
+<sup>2</sup> In the event that the data required by federal statistical bodies on third parties are available from cantonal or communal agencies or from other entities of the public law, such data must be collected from said agencies or entities (indirect survey).
 
 <sup>3</sup> Direct surveys require the collection of new data at source by interviewing natural persons and legal entities for the sole purposes of this Act. The number and type of surveys are limited to what is strictly necessary.
 
-<sup>4</sup> In the case of surveys conducted in terms of this Act, the Confederation gives notice of the purpose and the legal basis for processing the data, and the categories of participants in the data records and the data recipients.
+<sup>4</sup> In the case of surveys conducted in terms of this Act, the Confederation shall give notice of the purpose and the legal basis for processing the data, and the categories of participants in the data records and the data recipients.
 
 <sup>5</sup> The organisations, agencies and other public legal entities in terms of paragraphs 1 and 2 must make the data available to the Federal Statistical Office free of charge.[^4-1]
 
@@ -121,7 +121,7 @@ They assist in:
 
 It may delegate the authority to a department, a group or an office to commission:
 
-- a. surveys that do not include the collection of any personal data;
+- a.[^5-1] surveys that do not include the collection of any personal data or data relating to legal entities;
 - b. surveys with no disclosure obligation relating to a small group of companies and businesses under private and public law;
 - c. one-off surveys that relate to a small group of persons.
 
@@ -131,11 +131,14 @@ It may delegate the authority to a department, a group or an office to commissio
 
 Other organisations governed by this Act in accordance with Article 2 paragraphs 2 or 3 have the autonomous power to instruct:
 
-- a. surveys that do not include the collection of any personal data;
+- a.[^5-2] surveys that do not include the collection of any personal data or data relating to legal entities;
 - b. surveys with no disclosure obligation relating to natural persons and legal entities under private and public law that work with the organisation in order to fulfil its other duties;
 - c. surveys with the disclosure obligation if this is provided for by another act.
 
 <sup>5</sup> Surveys for the purpose of testing methodology may be conducted without special instruction, provided there is no disclosure obligation.
+
+[^5-1]: Amended by Annex I No II 35 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^5-2]: Amended by Annex I No II 35 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 6
 
@@ -162,14 +165,14 @@ Other organisations governed by this Act in accordance with Article 2 paragraphs
 
 <sup>1</sup> On commissioning a survey, the Federal Council shall determine the extent to which the cantons and communes participate in conducting the survey.
 
-<sup>2</sup> It may instruct the transfer of data from their data records, provided the legal basis for the data records does not expressly exclude use of such data for statistical purposes. In the event that the data is subject to a statutory duty of confidentiality, it may not be divulged in accordance with Article 19 of this Act as well as with Article 22[^7-1] of the Data Protection Act of 19 June 1992[^7-2].
+<sup>2</sup> It may instruct the transfer of data from their databases, provided the legal basis for the database does not expressly exclude the use of such data for statistical purposes. In the event that the data are subject to a statutory duty of confidentiality, in accordance with Article 19 of this Act and Article 39 of the Data Protection Act of 25 September 2020[^7-1], they may not be disclosed.[^7-2]
 
 <sup>3</sup> The cantons and communes each meet the costs incurred arising from their participation. Cantonal legislation may regulate the allocation of costs between the cantons and the communes differently.
 
 <sup>4</sup> The Federal Council may provide compensation for special expenditures or for supplementary services provided voluntarily.
 
-[^7-1]: Revised by the Drafting Committee of the Federal Assembly (Art. 33 Inter-Council Relations Act; [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
-[^7-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^7-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^7-2]: Amended by Annex I No II 35 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 8
 
@@ -212,29 +215,30 @@ The multi-year programme provides information on:
 
 <sup>3quinquies</sup> The Federal Council shall regulate the details.[^10-5]
 
-<sup>4</sup> The administrative units as well as the other organisations, depending on the extent to which they are subject to Article 2 paragraph 3, provide the Federal Office with the results and principles of their statistical activities and, if required, data from their data records and surveys in order that the Federal Office may fulfil its duties.
+<sup>4</sup> The administrative units as well as the other bodies, depending on the extent to which they are subject to Article 2 paragraph 3, shall provide the Federal Office with the results and principles of their statistical activities and, if required, data from their databases and surveys in order that the Federal Office may fulfil its duties.[^10-6]
 
-<sup>5</sup> Duties of confidentiality and disclosure prohibitions may only prevent the disclosure of data to the Federal Office if a Federal Act expressly excludes divulging or using data for statistical purposes. The Federal Office may not divulge such data in accordance with Article 19 of this Act as well as Article 22[^10-6] of the Data Protection Act of 19 June 1992[^10-7].
+<sup>5</sup> Duties of confidentiality and disclosure prohibitions may only prevent the disclosure of data to the Federal Office if a federal act expressly excludes disclosing or using data for statistical purposes. In accordance with Article 19 of this Act and Article 39 of the Data Protection Act of 25 September 2020[^10-7], the Federal Office may not disclose such data.[^10-8]
 
 [^10-1]: Inserted by Art. 10 of the FA of 26 June 1998 on the Federal Census ([AS 1999 917](https://fedlex.data.admin.ch/eli/oc/1999/137); [BBl 1997 III 1225](https://fedlex.data.admin.ch/eli/fga/1997/3_1225_1089_1009)). Amended by Art. 24 No 1 of the Second Homes Act of 20 March 2015, in force since 1 Jan. 2016 ([AS 2015 5657](https://fedlex.data.admin.ch/eli/oc/2015/886); [BBl 2014 2287](https://fedlex.data.admin.ch/eli/fga/2014/409)).
 [^10-2]: [AS 1999 1503](https://fedlex.data.admin.ch/eli/oc/1999/224)
 [^10-3]: Inserted by Art. 25 of the University Funding Act of 8 Oct. 1999, in force from 1 April 2000, valid until 31 Dec. 2007 ([AS 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146); BBl **1999** 297).
 [^10-4]: Inserted by Annex No 2 of the FA of 24. March 2006, in force since 1 April 2007 ([AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [BBl 2003 7951](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 [^10-5]: Inserted in accordance with Annex No 2 of the FA of 24 March 2006, in force since 1 April 2007 ([AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [BBl 2003 7951](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
-[^10-6]: Revised by the Drafting Committee of the Federal Assembly (Art. 33 Inter-Council Relations Act; [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
+[^10-6]: Amended by Annex I No II 35 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^10-7]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^10-8]: Second sentence amended by Annex I No II 35 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 11
 
 **Other federal statistics generators**
 
-<sup>1</sup> The other administrative units, as well as the organisations partially subject to the Act, conduct the surveys in accordance with Article 5 paragraph 2–4. The Federal Council may on a case-to-case basis delegate further surveys to an administrative unit, and with its consent also to a subordinate body or institution.
+<sup>1</sup> The other administrative units, as well as the organisations partially subject to the Act, shall conduct the surveys in accordance with Article 5 paragraph 2–4. The Federal Council may on a case-to-case basis delegate further surveys to an administrative unit, and with its consent also to a subordinate body or institution.
 
-<sup>2</sup> Federal survey offices that are not exclusively involved in statistics and research designate one or more statistical officers for their statistical activities.
+<sup>2</sup> Federal survey offices that are not exclusively involved in statistics and research shall designate one or more statistical officers for their statistical activities.
 
 <sup>3</sup> The statistical analysis of administrative data of the Confederation is in principle the duty of the administrative unit, body or institution that holds the data. In agreement with the Federal Office or by resolution of the Federal Council, the Federal Office may be entrusted with processing the data.
 
-<sup>4</sup> The Federal Office advises the other federal statistics generators and provides them with the required data within the terms of the data protection provisions.
+<sup>4</sup> The Federal Office shall advise the other federal statistics generators and provides them with the required data within the terms of the data protection provisions.
 
 #### Art. 12
 
@@ -242,9 +246,11 @@ The multi-year programme provides information on:
 
 <sup>1</sup> The Federal Office must be consulted on the design of the surveys, the compilation of the collected data, as well as the other data sources of the federal statistical bodies.
 
-<sup>2</sup> The Federal Office endeavours to coordinate with the cantonal statistics authorities, and in particular to coordinate the survey programmes, and to harmonise the registers or other data records for the purpose of processing statistics.
+<sup>2</sup> The Federal Office shall endeavour to coordinate with the cantonal statistics authorities, and in particular to coordinate the survey programmes, and to harmonise the registers or other databases for the purpose of processing statistics.[^12-1]
 
-<sup>3</sup> It also cooperates with the cantons, the universities and the research centres on statistics-related research and training matters.
+<sup>3</sup> It shall also cooperate with the cantons, the universities and the research centres on statistics-related research and training matters.
+
+[^12-1]: Amended by Annex I No II 35 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 13
 
@@ -260,43 +266,48 @@ The multi-year programme provides information on:
 
 **Data protection and official secrecy**
 
-<sup>1</sup> The data collected or divulged for statistical purposes may not be used for other purposes unless a Federal Act expressly orders another application or those concerned provide their written consent.
+<sup>1</sup> The data collected or divulged for statistical purposes may not be used for other purposes unless a federal act expressly orders another application or the natural persons or legal entities concerned provide their written consent.[^14-1]
 
 <sup>2</sup> The persons entrusted with statistical activities must treat as confidential all data related to individual natural persons and legal entities that they may have come across in their work. This obligation also applies in particular to persons who are involved by the cantons, the communes or other offices in the conduct of surveys or who receive data in accordance with Article 19.
+
+[^14-1]: Amended by Annex I No II 35 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 14a
 
 **Data links**[^14a-1]
 
-<sup>1</sup> In order to fulfil its statistical duties, the Federal Office may link data, provided the data is rendered anonymous. In the event that data links involve data considered especially sensitive or that data links generate personal profiles, the linked data must be deleted on completion of the statistical analysis. The Federal Council regulates the details.
+<sup>1</sup> In order to fulfil its statistical duties, the Federal Office may link data, provided the data are rendered anonymous. In the event that data links involve sensitive personal data or sensitive data relating to legal entities or that data links disclose the essential characteristics of a natural person or legal entity, the linked data must be deleted on completion of the statistical analysis.[^14a-2] The Federal Council shall regulate the details.
 
 <sup>2</sup> Statistical offices of the cantons and the communes may only link data from the Federal Office with other data in fulfilling their statistical duties with the written consent of the Federal Office and by taking account of its requirements.
 
 [^14a-1]: Inserted by Annex No 4 of the Register Harmonisation Act of 23 June 2006, in force since 1 Nov. 2006 ([AS 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [BBl 2006 427](https://fedlex.data.admin.ch/eli/fga/2006/49)).
+[^14a-2]: Second sentence amended by Annex I No II 35 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 15
 
 **Data security and data storage**
 
-<sup>1</sup> All offices that process personal data for or from federal statistical bodies must protect this data against unauthorised handling by introducing necessary organisational and technical measures.
+<sup>1</sup> All offices that process personal data or data relating to legal entities for or from federal statistical bodies must protect this data against unauthorised handling by introducing necessary organisational and technical measures.[^15-1]
 
 <sup>2</sup> The offices conducting the surveys may only retain the name and address lists used to prepare, conduct and coordinate surveys for as long as these lists are required for processing for the aforementioned purposes. The provisions on the Businesses and Enterprises Register are reserved.
 
 <sup>3</sup> Survey material containing names or personal identification numbers of the interviewees in addition to the requested data may only be processed by the offices authorised to conduct the survey. This material and data must be destroyed as soon as processing has been completed.
 
-<sup>4</sup> Data may be stored and archived at the competent statistical offices of the Confederation, at the Federal Office or, with the written consent of the Federal Office and taking account of requirements, at the cantonal statistical offices, provided it does not contain any names or personal identification numbers of the interviewees.[^15-1]
+<sup>4</sup> Data may be stored and archived at the competent statistical offices of the Confederation, at the Federal Office or, with the written consent of the Federal Office and taking account of requirements, at the cantonal statistical offices, provided it does not contain any names or personal identification numbers of the interviewees.[^15-2]
 
-[^15-1]: Amended by Annex No 4 of the Register Harmonisation Act of 23 June 2006, in force since 1 Nov. 2006 ([AS 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [BBl 2006 427](https://fedlex.data.admin.ch/eli/fga/2006/49)).
+[^15-1]: Amended by Annex I No II 35 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^15-2]: Amended by Annex No 4 of the Register Harmonisation Act of 23 June 2006, in force since 1 Nov. 2006 ([AS 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [BBl 2006 427](https://fedlex.data.admin.ch/eli/fga/2006/49)).
 
 #### Art. 16
 
 **Application of other data protection provisions**
 
-<sup>1</sup> In addition to the provisions of this Act, the provisions of the Data Protection Act of 19 June 1992[^16-1] on the processing of the data for research, planning and statistics apply to data protection for all statistical activities.
+<sup>1</sup> Data protection for all statistical activities is governed by the provisions of this Act. For personal data, the provisions of the Data Protection Act of 25 September 2020[^16-1] on the processing of the data for research, planning and statistics also apply.[^16-2]
 
 <sup>2</sup> The Federal Council shall issue supplementary provisions on data protection and on data security for the collection and processing of data by federal bodies.
 
 [^16-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^16-2]: Amended by Annex I No II 35 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 17
 
@@ -328,7 +339,7 @@ The multi-year programme provides information on:
 
 <sup>2</sup>
 
-The federal statistical bodies providers may disclose personal data for purposes not related to specific persons, in particular for research, planning or statistics, to research and statistical offices of the Confederation and to third parties, if:
+The federal statistical bodies providers may disclose personal data and data relating to legal entities for purposes not related to specific persons, in particular for research, planning or statistics, to research and statistical offices of the Confederation and to third parties, if:[^19-1]
 
 - a. the data is rendered anonymous, as soon as the purpose of the processing the data is achieved;
 - b. the recipient divulges the data with the consent of the statistics generators;
@@ -336,6 +347,8 @@ The federal statistical bodies providers may disclose personal data for purposes
 - d. the recipient meets the requirements for compliance with statistical secrecy and the other data protection provisions.
 
 <sup>3</sup> The Federal Office may carry out short-term research, analysis and advisory duties in connection with federal statistical bodies if the commissioning party bears the costs or provides the required staff.
+
+[^19-1]: Amended by Annex I No II 35 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 20
 

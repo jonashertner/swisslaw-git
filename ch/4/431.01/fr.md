@@ -4,11 +4,11 @@ title: Loi du 9 octobre 1992 sur la statistique fédérale (LSF)
 short: LSF
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080"
 language: fr
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1992-10-09
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2080_2080_2080-20230701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2080_2080_2080/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2080_2080_2080-20230901-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2080_2080_2080/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2080_2080_2080/20230701/fr"
 
 (LSF)
 
-du 9 octobre 1992 (État le 1<sup>er</sup> juillet 2023)
+du 9 octobre 1992 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -119,7 +119,7 @@ Ces informations servent à:
 
 Il peut déléguer la compétence d’ordonner des relevés à un département, à un groupement ou à un office lorsqu’il s’agit de:
 
-- a. relevés qui ne comportent pas de données personnelles;
+- a.[^5-1] relevés qui ne comportent pas de données personnelles ni de données concernant des personnes morales;
 - b. relevés à participation facultative et qui portent sur un petit nombre d’entreprises et d’établissements, de droit public ou de droit privé;
 - c. relevés uniques qui portent sur un petit nombre de personnes.
 
@@ -129,11 +129,14 @@ Il peut déléguer la compétence d’ordonner des relevés à un département, 
 
 D’autres organismes soumis à la présente loi selon l’art. 2, al. 2 ou 3, sont habilités à ordonner eux-mêmes:
 
-- a. des relevés qui ne comportent pas de données personnelles;
+- a.[^5-2] des relevés qui ne comportent pas de données personnelles ni de données concernant des personnes morales;
 - b. des relevés à participation facultative, à effectuer auprès de personnes physiques ou morales, de droit public ou de droit privé, avec lesquelles ils collaborent dans l’exercice de leurs activités;
 - c. des relevés à participation obligatoire, si une autre loi les y autorise.
 
 <sup>5</sup> Les relevés servant à tester des méthodes peuvent être exécutés sans ordre spécifique pour autant qu’il ne soit pas obligatoire d’y participer.
+
+[^5-1]: Nouvelle teneur selon l’annexe 1 ch. II 35 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^5-2]: Nouvelle teneur selon l’annexe 1 ch. II 35 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 6
 
@@ -160,14 +163,14 @@ D’autres organismes soumis à la présente loi selon l’art. 2, al. 2 ou 3, s
 
 <sup>1</sup> Lorsqu’il ordonne l’exécution d’un relevé, le Conseil fédéral détermine dans quelle mesure les cantons et les communes doivent être associés.
 
-<sup>2</sup> Il peut exiger le transfert de données figurant dans leurs fichiers si la base juridique applicable à ces données n’en interdit pas expressément l’utilisation à des fins statistiques. Si ces données sont soumises à une obligation légale de maintien du secret, il est interdit de les communiquer au sens de l’art. 19 de la présente loi et de l’art. 22[^7-1] de la loi fédérale du 19 juin 1992[^7-2] sur la protection des données.
+<sup>2</sup> Il peut exiger le transfert de données enregistrées dans leurs banques de données si la base juridique applicable à ces banques de données n’en interdit pas expressément l’utilisation à des fins statistiques. Si ces données sont soumises à une obligation légale de garder le secret, il est interdit de les communiquer au sens de l’art. 19 de la présente loi et de l’art. 39 de la loi fédérale du 25 septembre 2020 sur la protection des données[^7-1].[^7-2]
 
 <sup>3</sup> Les cantons et les communes supportent les frais découlant de leur participation aux relevés fédéraux. Le droit cantonal peut régler autrement la répartition des frais entre les cantons et les communes.
 
 <sup>4</sup> Le Conseil fédéral peut prévoir une indemnité en contrepartie des travaux exceptionnels ou des prestations supplémentaires fournies à titre volontaire.
 
-[^7-1]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 33 LREC; [RO 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
-[^7-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^7-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^7-2]: Nouvelle teneur selon l’annexe 1 ch. II 35 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 8
 
@@ -210,17 +213,18 @@ Ce programme renseigne sur:
 
 <sup>3quinquies</sup> Le Conseil fédéral règle les modalités.[^10-5]
 
-<sup>4</sup> Pour permettre à l’office d’accomplir ses tâches, les unités administratives et les autres organismes, pour autant qu’ils soient soumis à l’art. 2, al. 3, de la présente loi, lui communiquent les bases et les résultats de leurs travaux statistiques; au besoin, ils lui fournissent aussi des données provenant de leurs fichiers et de leurs relevés.
+<sup>4</sup> Pour permettre à l’office d’accomplir ses tâches, les unités administratives et les autres organismes, pour autant qu’ils soient soumis à l’art. 2, al. 3, de la présente loi, lui communiquent les bases et les résultats de leurs travaux statistiques; au besoin, ils lui fournissent aussi des données provenant de leurs banques de données et de leurs relevés.[^10-6]
 
-<sup>5</sup> L’obligation légale de maintien du secret ou le blocage des données ne peut justifier le refus de communiquer les informations requises à l’office que si une loi fédérale interdit expressément la communication ou l’utilisation des données à des fins statistiques. L’office n’est pas autorisé à communiquer ces données en vertu de l’art. 19 de la présente loi et de l’art. 22[^10-6] de la loi fédérale du 19 juin 1992[^10-7] sur la protection des données.
+<sup>5</sup> L’obligation légale de maintien du secret ou le blocage des données ne peut justifier le refus de communiquer les informations requises à l’office que si une loi fédérale interdit expressément la communication ou l’utilisation des données à des fins statistiques. L’office n’est pas autorisé à communiquer ces données en vertu de l’art. 19 de la présente loi et de l’art. 39 de la loi fédérale du 25 septembre 2020 sur la protection des données[^10-7].[^10-8]
 
 [^10-1]: Introduit par l’art. 10 de la LF du 26 juin 1998 sur le recensement fédéral de la population ([RO 1999 917](https://fedlex.data.admin.ch/eli/oc/1999/137); [FF 1997 III 1089](https://fedlex.data.admin.ch/eli/fga/1997/3_1225_1089_1009)). Nouvelle teneur selon l’art. 24 ch. 1 de la LF du 20 mars 2015 sur les résidences secondaires, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5657](https://fedlex.data.admin.ch/eli/oc/2015/886); [FF 2014 2209](https://fedlex.data.admin.ch/eli/fga/2014/409)).
 [^10-2]: [RO 1999 1503](https://fedlex.data.admin.ch/eli/oc/1999/224)
 [^10-3]: Introduit par l’art. 25 de la LF du 8 oct. 1999 sur l’aide aux universités, en vigueur depuis le 1<sup>er</sup> avril 2000 au 31 déc. 2007 ([RO 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146); FF **1999** 271).
 [^10-4]: Introduit par l’annexe ch. 2 de la LF du 24 mars 2006, en vigueur depuis le 1<sup>er</sup> avril 2007 ([RO 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165)940; [FF 2003 7245](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 [^10-5]: Introduit par l’annexe ch. 2 de la LF du 24 mars 2006, en vigueur depuis le 1<sup>er</sup> avril 2007 ([RO 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165)940; [FF 2003 7245](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
-[^10-6]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 33 LREC; [RO 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
+[^10-6]: Nouvelle teneur selon l’annexe 1 ch. II 35 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^10-7]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^10-8]: Nouvelle teneur de la phrase selon l’annexe 1 ch. II 35 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 11
 
@@ -240,9 +244,11 @@ Ce programme renseigne sur:
 
 <sup>1</sup> L’office doit être consulté à propos des méthodes et des questionnaires utilisés pour les relevés, au sujet des aperçus et des statistiques de synthèse et des autres sources de données de la statistique fédérale.
 
-<sup>2</sup> L’office s’emploie à coordonner les statistiques fédérales et les statistiques cantonales, notamment à harmoniser les programmes des relevés, et, en vue de leur traitement, les registres ou autres fichiers.
+<sup>2</sup> L’office s’emploie à coordonner les statistiques fédérales et les statistiques cantonales, notamment pour harmoniser les programmes des relevés, et, en vue de leur traitement, les registres ou autres banques de données.[^12-1]
 
 <sup>3</sup> Il collabore en outre avec les cantons, les hautes écoles et les organes de recherche dans le domaine des questions de recherche et de formation pour les questions de recherche et de formation liées à la statistique.
+
+[^12-1]: Nouvelle teneur selon l’annexe 1 ch. II 35 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 13
 
@@ -258,43 +264,48 @@ Ce programme renseigne sur:
 
 **Protection des données et secret de fonction**
 
-<sup>1</sup> Les données collectées ou communiquées à des fins statistiques ne peuvent être utilisées à d’autres fins, à moins qu’une loi fédérale n’autorise expressément une autre utilisation ou que la personne concernée n’y ait consenti par écrit.
+<sup>1</sup> Les données collectées ou communiquées à des fins statistiques ne peuvent être utilisées à d’autres fins, à moins qu’une loi fédérale n’autorise expressément une autre utilisation ou que la personne physique ou morale concernée n’y ait consenti par écrit.[^14-1]
 
 <sup>2</sup> Les personnes chargées de travaux statistiques sont tenues de garder le secret sur les données concernant des personnes physiques ou morales dont elles ont eu connaissance dans l’exercice de leur fonction. Sont soumises à cette obligation notamment les personnes appelées à participer aux relevés effectués dans les cantons et dans les communes ou auprès d’autres services, et celles qui reçoivent des données conformément à l’art. 19.
+
+[^14-1]: Nouvelle teneur selon l’annexe 1 ch. II 35 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 14a
 
 **Appariement de données**[^14a-1]
 
-<sup>1</sup> Pour exécuter ses tâches en matière de statistiques, l’office peut apparier des données à condition de les rendre anonymes. Si des données sensibles sont appariées ou si l’appariement de données permet d’établir des profils de la personnalité, les données appariées doivent être effacées une fois les travaux statistiques d’exploitation terminés. Le Conseil fédéral règle les modalités.
+<sup>1</sup> Pour exécuter ses tâches en matière de statistiques, l’office peut apparier des données à condition de les rendre anonymes. Si des données personnelles sensibles ou des données sensibles concernant des personnes morales sont appariées ou si l’appariement de données permet d’établir les caractéristiques essentielles d’une personne physique ou morale, les données appariées doivent être effacées une fois les travaux statistiques d’exploitation terminés.[^14a-2] Le Conseil fédéral règle les modalités.
 
 <sup>2</sup> Les services cantonaux et communaux de statistique ne sont autorisés à apparier les données de l’office avec d’autres données pour exécuter leurs tâches en matière de statistiques qu’avec l’accord écrit de ce dernier et aux conditions qu’il aura fixées.
 
 [^14a-1]: Introduit par l’annexe ch. 4 de la LF du 23 juin 2006 sur l’harmonisation de registres, en vigueur depuis le 1<sup>er</sup> nov. 2006 ([RO 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [FF 2006 439](https://fedlex.data.admin.ch/eli/fga/2006/49)).
+[^14a-2]: Nouvelle teneur de la phrase selon l’annexe 1 ch. II 35 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 15
 
 **Sécurité et conservation des données**
 
-<sup>1</sup> Tous les services traitant des données personnelles provenant de la statistique fédérale ou qui lui sont destinées ont l’obligation de les protéger contre tout traitement abusif en prenant les mesures techniques et les mesures d’organisation qui s’imposent.
+<sup>1</sup> Tous les services traitant des données personnelles ou des données concernant des personnes morales provenant de la statistique fédérale ou qui lui sont destinées ont l’obligation de les protéger contre tout traitement abusif en prenant les mesures techniques et les mesures d’organisation qui s’imposent.[^15-1]
 
 <sup>2</sup> Les organes responsables de relevés n’ont le droit de conserver les listes des noms et adresses établies pour la préparation, l’exécution et la coordination des relevés que tant qu’ils en ont besoin pour ces travaux. Les dispositions concernant le Registre des entreprises et des établissements restent réservées.
 
 <sup>3</sup> Les questionnaires ou autres documents d’enquête qui, outre les données requises, indiquent les noms des personnes concernées ou des codes permettant de les identifier ne peuvent être traités que par les organes responsables du relevé. Ces documents doivent être détruits dès que le dépouillement est achevé.
 
-<sup>4</sup> Les données auxquelles ne sont attachés ni les noms des personnes concernées ni de numéros d’identification personnels peuvent être conservées et archivées par le service fédéral de statistique responsable, par l’office ou, avec l’accord écrit de ce dernier et aux conditions qu’il aura fixées, par le service cantonal de statistique.[^15-1]
+<sup>4</sup> Les données auxquelles ne sont attachés ni les noms des personnes concernées ni de numéros d’identification personnels peuvent être conservées et archivées par le service fédéral de statistique responsable, par l’office ou, avec l’accord écrit de ce dernier et aux conditions qu’il aura fixées, par le service cantonal de statistique.[^15-2]
 
-[^15-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 23 juin 2006 sur l’harmonisation de registres, en vigueur depuis le 1<sup>er</sup> nov. 2006 ([RO 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [FF 2006 439](https://fedlex.data.admin.ch/eli/fga/2006/49)).
+[^15-1]: Nouvelle teneur selon l’annexe 1 ch. II 35 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^15-2]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 23 juin 2006 sur l’harmonisation de registres, en vigueur depuis le 1<sup>er</sup> nov. 2006 ([RO 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [FF 2006 439](https://fedlex.data.admin.ch/eli/fga/2006/49)).
 
 #### Art. 16
 
 **Application d’autres dispositions relatives à la protection des données**
 
-<sup>1</sup> La protection des données de l’ensemble des travaux statistiques est régie par les dispositions de la présente loi et par celles de la loi fédérale du 19 juin 1992 sur la protection des données[^16-1] qui concernent les traitements aux fins de recherche, de planification et de statistique.
+<sup>1</sup> La protection des données de l’ensemble des travaux statistiques est régie par les dispositions de la présente loi. Les données personnelles sont en outre régies par les dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données[^16-1] qui concernent les traitements aux fins de recherche, de planification et de statistique.[^16-2]
 
 <sup>2</sup> Le Conseil fédéral édicte, pour la collecte des données et pour leur traitement par des organes fédéraux, les dispositions complémentaires concernant la protection et la sécurité des données.
 
 [^16-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^16-2]: Nouvelle teneur selon l’annexe 1 ch. II 35 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 17
 
@@ -326,7 +337,7 @@ Ce programme renseigne sur:
 
 <sup>2</sup>
 
-Les producteurs de statistiques de la Confédération sont en droit de communiquer des données personnelles à des services de statistique, à des institutions de recherche de la Confédération ou à des tiers, à des fins ne se rapportant pas à des personnes, notamment dans le cadre de la recherche, de la planification ou de la statistique, si:
+Les producteurs de statistiques de la Confédération sont en droit de communiquer des données personnelles et des données concernant des personnes morales à des services de statistique, à des institutions de recherche de la Confédération ou à des tiers, à des fins ne se rapportant pas à des personnes, notamment dans le cadre de la recherche, de la planification ou de la statistique, si:[^19-1]
 
 - a. ces données sont rendues anonymes dès que le but du traitement le permet;
 - b. le destinataire ne communique ces données à des tiers qu’avec l’accord de l’organe qui les a produites;
@@ -334,6 +345,8 @@ Les producteurs de statistiques de la Confédération sont en droit de communiqu
 - d. tout porte à croire que le destinataire respectera le secret statistique et les autres dispositions relatives à la protection des données.
 
 <sup>3</sup> L’office peut exécuter des travaux de durée limitée (recherche, analyse, conseils) liés à la statistique officielle si le mandant supporte les frais ou fournit le personnel nécessaire.
+
+[^19-1]: Nouvelle teneur selon l’annexe 1 ch. II 35 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 20
 
