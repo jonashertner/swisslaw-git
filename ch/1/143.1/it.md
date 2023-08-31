@@ -4,11 +4,11 @@ title: "Legge federale del 22 giugno 2001 sui documenti d'identità dei cittadin
 short: LDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/441"
 language: it
-version: 2022-06-01
+version: 2023-09-01
 adopted: 2001-06-22
 in_force: 2002-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/441/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2002-441-20220601-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/441/20220601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/441/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2002-441-20230901-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/441/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/441/20220601/it"
 
 (Legge sui documenti d’identità, LDI)
 
-del 22 giugno 2001 (Stato 1° giugno 2022) (Stato 1° giugno 2022)
+del 22 giugno 2001 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visto l’articolo 38 capoverso 1 della Costituzione federale[^ingress-1]; visto
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2000 4135](https://fedlex.data.admin.ch/eli/fga/2000/986)
 
 ## Sezione 1: Disposizioni generali
@@ -40,8 +40,8 @@ decreta:
 
 <sup>3</sup> Il Consiglio federale determina i tipi di documenti e disciplina le particolarità dei documenti d’identità i cui titolari godono di privilegi e immunità in base alla Convenzione di Vienna del 18 aprile 1961[^1-1] sulle relazioni diplomatiche o alla Convenzione di Vienna del 24 aprile 1963[^1-2] sulle relazioni consolari.
 
-[^1-1]: [RS 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
-[^1-2]: [RS 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
+[^1-1]: [RS 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489)
+[^1-2]: [RS 0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)
 
 #### Art. 2
 
@@ -103,7 +103,7 @@ Ogni documento d’identità deve contenere i seguenti dati:
 
 La validità dei documenti d’identità è limitata nel tempo. Il Consiglio federale disciplina la durata della validità.
 
-## Sezione 2: Rilascio, allestimento, ritiro e perdita del documento****
+## Sezione 2: Rilascio, allestimento, ritiro e perdita del documento
 
 [^sec2-1]
 
@@ -202,7 +202,7 @@ I servizi preposti all’allestimento dei documenti d’identità e gli appaltat
 <sup>5</sup> Il Consiglio federale stabilisce gli ulteriori requisiti applicabili ai servizi preposti all’allestimento dei documenti d’identità, agli appaltatori generali, ai prestatori di servizi e ai fornitori.
 
 [^6a-1]: Introdotto dall’art. 2 n. 1 del DF del 13 giu. 2008 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la Comunità europea concernente il recepimento del regolamento (CE) n. 2252/2004 sui passaporti e i documenti di viaggio biometrici, in vigore dal 1° mar. 2010 ([RU 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667); [FF 2007 4731](https://fedlex.data.admin.ch/eli/fga/2007/731)).
-[^6a-2]: [[RU 2002 377](https://fedlex.data.admin.ch/eli/oc/2002/91), [2005 4571](https://fedlex.data.admin.ch/eli/oc/2005/597)n. II, [2006 4177](https://fedlex.data.admin.ch/eli/oc/2006/620)art. 13, **2008** n. I 3 5747 all. n. 2, [2009 3937](https://fedlex.data.admin.ch/eli/oc/2009/497)all. 4 n. II 2. [RU 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)art. 31 cpv. 1]. Vedi ora l’O del 4 mar. 2011 sui controlli di sicurezza relativi alle persone ([RS 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)).
+[^6a-2]: [[RU 2002 377](https://fedlex.data.admin.ch/eli/oc/2002/91), [2005 4571](https://fedlex.data.admin.ch/eli/oc/2005/597)n. II, [2006 4177](https://fedlex.data.admin.ch/eli/oc/2006/620)art. 13, **2008** n. I 3 5747 all. n. 2, [2009 3937](https://fedlex.data.admin.ch/eli/oc/2009/497)all. 4 n. II 2. [RU 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)art. 31 cpv. 1]. Vedi ora l’O del 4 mar. 2011 sui controlli di sicurezza relativi alle persone ([RS 120.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4744)).
 
 #### Art. 6b
 
@@ -243,7 +243,7 @@ Il servizio federale[^7-4] competente può, dopo aver consultato le autorità in
 - a. è penalmente perseguito in Svizzera per un crimine o un delitto;
 - b. è stato condannato da un tribunale svizzero con sentenza passata in giudicato e la pena o misura non è né prescritta né scontata.
 
-[^7-1]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^7-1]: [RS 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
 [^7-2]: Introdotto dal n. II 3 dell’all. alla LF del 20 giu. 2014 sulla cittadinanza svizzera, in vigore dal 1° gen. 2018 ([RU 2016 2561](https://fedlex.data.admin.ch/eli/oc/2016/404); [FF 2011 2567](https://fedlex.data.admin.ch/eli/fga/2011/422)).
 [^7-3]: Introdotto dal n. II 3 dell’all. alla LF del 20 giu. 2014 sulla cittadinanza svizzera, in vigore dal 1° gen. 2018 ([RU 2016 2561](https://fedlex.data.admin.ch/eli/oc/2016/404); [FF 2011 2567](https://fedlex.data.admin.ch/eli/fga/2011/422)).
 [^7-4]: Attualmente l’Ufficio federale di polizia.
@@ -270,11 +270,12 @@ La perdita di un documento d’identità deve sempre essere notificata alla poli
 
 #### Art. 10
 
-**Principio**
+**Principio**[^10-1]
 
-Il trattamento di dati nell’ambito della presente legge è retto dalla legge federale del 19 giugno 1992[^10-1] sulla protezione dei dati.
+Il trattamento di dati nell’ambito della presente legge è retto dalla legge federale del 25 settembre 2020[^10-2] sulla protezione dei dati.
 
-[^10-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^10-1]: Nuovo testo giusta l’all. 1 n. II 7 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^10-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 11
 
@@ -299,8 +300,8 @@ L’Ufficio federale di polizia gestisce un sistema d’informazione. Tale siste
 
 [^11-1]: Nuovo testo giusta l’art. 2 n. 1 del DF del 13 giu. 2008 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la Comunità europea concernente il recepimento del regolamento (CE) n. 2252/2004 sui passaporti e i documenti di viaggio biometrici, in vigore dal 1° mar. 2010 ([RU 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667); [FF 2007 4731](https://fedlex.data.admin.ch/eli/fga/2007/731)).
 [^11-2]: Nuovo testo giusta l’art. 2 n. 1 del DF del 13 giu. 2008 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la Comunità europea concernente il recepimento del regolamento (CE) n. 2252/2004 sui passaporti e i documenti di viaggio biometrici, in vigore dal 1° mar. 2010 ([RU 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667); [FF 2007 4731](https://fedlex.data.admin.ch/eli/fga/2007/731)).
-[^11-3]: [RS 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
-[^11-4]: [RS 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
+[^11-3]: [RS 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489)
+[^11-4]: [RS 0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)
 [^11-5]: Nuovo testo giusta l’art. 2 n. 1 del DF del 13 giu. 2008 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la Comunità europea concernente il recepimento del regolamento (CE) n. 2252/2004 sui passaporti e i documenti di viaggio biometrici, in vigore dal 1° mar. 2010 ([RU 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667); [FF 2007 4731](https://fedlex.data.admin.ch/eli/fga/2007/731)).
 
 #### Art. 12
@@ -390,7 +391,7 @@ Data dell’entrata in vigore: 1<sup>o</sup> ottobre 2002[^17-1]
 
 [^17-1]: Cpv. 1 dell’O del 20 set. 2002 ([RU 2002 3067](https://fedlex.data.admin.ch/eli/oc/2002/442)).
 
-## Disposizione transitoria della modifica del 13 giugno 2008****
+## Disposizione transitoria della modifica del 13 giugno 2008
 
 [^u1-1]
 

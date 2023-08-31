@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 22. Juni 2001 über die Ausweise für Schweizer Staatsa
 short: AwG
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/441"
 language: de
-version: 2022-06-01
+version: 2023-09-01
 adopted: 2001-06-22
 in_force: 2002-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/441/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2002-441-20220601-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/441/20220601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/441/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2002-441-20230901-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/441/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/441/20220601/de"
 
 (Ausweisgesetz, AwG)
 
-vom 22. Juni 2001 (Stand am 1. Juni 2022)
+vom 22. Juni 2001 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 38 Absatz 1 der Bundesverfassung[^ingress-1], nach Einsich
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2000 4751](https://fedlex.data.admin.ch/eli/fga/2000/986)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
@@ -40,8 +40,8 @@ beschliesst:
 
 <sup>3</sup> Der Bundesrat bestimmt die Ausweisarten und regelt die Besonderheiten von Ausweisen, deren Inhaberinnen und Inhaber nach dem Wiener Übereinkommen vom 18. April 1961[^1-1] über diplomatische Beziehungen oder nach dem Wiener Übereinkommen vom 24. April 1963[^1-2] über konsularische Beziehungen Vorrechte und Immunitäten besitzen.
 
-[^1-1]: [SR 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
-[^1-2]: [SR 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
+[^1-1]: [SR 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489)
+[^1-2]: [SR 0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)
 
 #### Art. 2
 
@@ -105,7 +105,7 @@ Jeder Ausweis muss folgende Daten enthalten:
 
 Ausweise sind befristet gültig. Der Bundesrat regelt ihre Gültigkeitsdauer.
 
-## 2. Abschnitt: Ausstellung, Ausfertigung, Entzug und Verlust des Ausweises****
+## 2. Abschnitt: Ausstellung, Ausfertigung, Entzug und Verlust des Ausweises
 
 [^sec2-1]
 
@@ -204,7 +204,7 @@ Die mit der Ausfertigung von Ausweisen betrauten Stellen und die beteiligten Gen
 <sup>5</sup> Der Bundesrat legt die weiteren Anforderungen an die Ausfertigungsstellen, die Generalunternehmer, die Dienstleistungserbringer und die Lieferanten fest.
 
 [^6a-1]: Eingefügt durch Art. 2 Ziff. 1 des BB vom 13. Juni 2008 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EG betreffend die biometrischen Pässe und Reisedokumente, in Kraft seit 1. März 2010 ([AS 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667); [BBl 2007 5159](https://fedlex.data.admin.ch/eli/fga/2007/731)).
-[^6a-2]: [[AS 2002 377](https://fedlex.data.admin.ch/eli/oc/2002/91), [2005 4571](https://fedlex.data.admin.ch/eli/oc/2005/597), [2006 4177](https://fedlex.data.admin.ch/eli/oc/2006/620)Art. 13 [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 1, [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)Ziff. I 3 [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)Anhang Ziff. 2, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 Ziff. II 2. [AS 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)Art. 31 Abs. 1]. Siehe heute die V vom 4. März. 2011 ([SR 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)).
+[^6a-2]: [[AS 2002 377](https://fedlex.data.admin.ch/eli/oc/2002/91), [2005 4571](https://fedlex.data.admin.ch/eli/oc/2005/597), [2006 4177](https://fedlex.data.admin.ch/eli/oc/2006/620)Art. 13 [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 1, [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)Ziff. I 3 [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)Anhang Ziff. 2, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 Ziff. II 2. [AS 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)Art. 31 Abs. 1]. Siehe heute die V vom 4. März. 2011 ([SR 120.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4744)).
 
 #### Art. 6b
 
@@ -245,7 +245,7 @@ Ein Ausweis kann von der zuständigen Stelle des Bundes[^7-4] nach Rücksprache 
 - a. in der Schweiz wegen eines Verbrechens oder Vergehens strafrechtlich verfolgt wird;
 - b. von einem schweizerischen Gericht rechtskräftig verurteilt worden und die Strafe oder Massnahme weder verjährt noch verbüsst ist.
 
-[^7-1]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^7-1]: [SR 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
 [^7-2]: Eingefügt durch Anhang Ziff. II 3 des Bürgerrechtsgesetzes vom 20. Juni 2014, in Kraft seit 1. Jan. 2018 ([AS 2016 2561](https://fedlex.data.admin.ch/eli/oc/2016/404); [BBl 2011 2825](https://fedlex.data.admin.ch/eli/fga/2011/422)).
 [^7-3]: Eingefügt durch Anhang Ziff. II 3 des Bürgerrechtsgesetzes vom 20. Juni 2014, in Kraft seit 1. Jan. 2018 ([AS 2016 2561](https://fedlex.data.admin.ch/eli/oc/2016/404); [BBl 2011 2825](https://fedlex.data.admin.ch/eli/fga/2011/422)).
 [^7-4]: Zurzeit Bundesamt für Polizei
@@ -272,11 +272,12 @@ Jeder Verlust eines Ausweises ist der Polizei anzuzeigen. Diese gibt den Verlust
 
 #### Art. 10
 
-**Grundsatz**
+**Grundsatz**[^10-1]
 
-Die Datenbearbeitung im Rahmen dieses Gesetzes richtet sich nach dem Bundesgesetz vom 19. Juni 1992[^10-1] über den Datenschutz.
+Die Datenbearbeitung im Rahmen dieses Gesetzes richtet sich nach dem Datenschutzgesetz vom 25. September 2020[^10-2].
 
-[^10-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^10-1]: Fassung gemäss Anhang 1 Ziff. II 7 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^10-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 11
 
@@ -301,8 +302,8 @@ Das Bundesamt für Polizei führt ein Informationssystem. Es enthält die im Aus
 
 [^11-1]: Fassung gemäss Art. 2 Ziff. 1 des BB vom 13. Juni 2008 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EG betreffend die biometrischen Pässe und Reisedokumente, in Kraft seit 1. März 2010 ([AS 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667); [BBl 2007 5159](https://fedlex.data.admin.ch/eli/fga/2007/731)).
 [^11-2]: Fassung gemäss Art. 2 Ziff. 1 des BB vom 13. Juni 2008 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EG betreffend die biometrischen Pässe und Reisedokumente, in Kraft seit 1. März 2010 ([AS 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667); [BBl 2007 5159](https://fedlex.data.admin.ch/eli/fga/2007/731)).
-[^11-3]: [SR 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
-[^11-4]: [SR 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
+[^11-3]: [SR 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489)
+[^11-4]: [SR 0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)
 [^11-5]: Fassung gemäss Art. 2 Ziff. 1 des BB vom 13. Juni 2008 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EG betreffend die biometrischen Pässe und Reisedokumente, in Kraft seit 1. März 2010 ([AS 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667); [BBl 2007 5159](https://fedlex.data.admin.ch/eli/fga/2007/731)).
 
 #### Art. 12
@@ -355,9 +356,11 @@ Die verfügende Behörde meldet der zuständigen ausstellenden Behörde:
 
 #### Art. 14
 
-**Verbot von Paralleldatensammlungen**
+**Verbot von Paralleldatenbanken**[^14-1]
 
-Das Führen von Paralleldatensammlungen, ausser der befristeten Aufbewahrung der Antragsformulare bei der ausstellenden Behörde, ist untersagt.
+Das Führen von Paralleldatenbanken, ausser der befristeten Aufbewahrung der Antragsformulare bei der ausstellenden Behörde, ist untersagt.
+
+[^14-1]: Fassung gemäss Anhang 1 Ziff. II 7 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 15
 
@@ -392,7 +395,7 @@ Datum des Inkrafttretens: 1. Oktober 2002[^17-1]
 
 [^17-1]: Abs. 1 der V vom 20. Sept. 2002 ([AS 2002 3067](https://fedlex.data.admin.ch/eli/oc/2002/442))
 
-## Übergangsbestimmung der Änderung vom 13. Juni 2008****
+## Übergangsbestimmung der Änderung vom 13. Juni 2008
 
 [^u1-1]
 

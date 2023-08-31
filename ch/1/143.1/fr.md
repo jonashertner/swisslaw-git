@@ -4,11 +4,11 @@ title: "Loi fédérale du 22 juin 2001 sur les documents d'identité des ressort
 short: LDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/441"
 language: fr
-version: 2022-06-01
+version: 2023-09-01
 adopted: 2001-06-22
 in_force: 2002-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/441/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2002-441-20220601-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/441/20220601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/441/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2002-441-20230901-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/441/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/441/20220601/fr"
 
 (Loi sur les documents d’identité, LDI)
 
-du 22 juin 2001 (Etat le 1<sup>er</sup> juin 2022)
+du 22 juin 2001 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 38, al. 1, de la Constitution[^ingress-1], vu le message du Conseil 
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2000 4391](https://fedlex.data.admin.ch/eli/fga/2000/986)
 
 ## Section 1 Dispositions générales
@@ -40,8 +40,8 @@ arrête:
 
 <sup>3</sup> Le Conseil fédéral règle les types de documents ainsi que les particularités des documents d’identité des personnes qui jouissent de privilèges et d’immunités en vertu de la Convention de Vienne du 18 avril 1961 sur les relations diplomatiques[^1-1] et de la Convention de Vienne du 24 avril 1963 sur les relations consulaires[^1-2].
 
-[^1-1]: [RS 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
-[^1-2]: [RS 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
+[^1-1]: [RS 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489)
+[^1-2]: [RS 0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)
 
 #### Art. 2
 
@@ -104,7 +104,7 @@ Chaque document d’identité doit comporter les données suivantes:
 
 La durée de validité des documents d’identité est limitée. Elle est fixée par le Conseil fédéral.
 
-## Section 2 Établissement, production, retrait et perte des documents d’identité****
+## Section 2 Établissement, production, retrait et perte des documents d’identité
 
 [^sec2-1]
 
@@ -202,13 +202,11 @@ Les centres chargés de produire les documents d’identité et les entreprises 
 <sup>5</sup> Le Conseil fédéral détermine les autres conditions applicables aux centres chargés de produire les documents d’identité, aux entreprises générales, aux prestataires de services et aux fournisseurs.
 
 [^6a-1]: Introduit par l’art. 2 ch. 1 de l’AF du 13 juin 2008 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la Communauté européenne concernant la reprise du Règlement (CE) n<sup>o</sup> 2252/2004 relatif aux passeports biométriques et aux documents de voyage, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667); [FF 2007 4893](https://fedlex.data.admin.ch/eli/fga/2007/731)).
-[^6a-2]: [[RO 2002 377](https://fedlex.data.admin.ch/eli/oc/2002/91), [2005 4571](https://fedlex.data.admin.ch/eli/oc/2005/597), [2006 4177](https://fedlex.data.admin.ch/eli/oc/2006/620)art. 13 [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)ch. II 1, [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)ch. I 3 [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)annexe ch. 2, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)annexe 4 ch. II 2. [RO 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)art. 31 al. 1]. Voir actuellement l’O du 4 mars 2011 ([RS 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155))
+[^6a-2]: [[RO 2002 377](https://fedlex.data.admin.ch/eli/oc/2002/91), [2005 4571](https://fedlex.data.admin.ch/eli/oc/2005/597), [2006 4177](https://fedlex.data.admin.ch/eli/oc/2006/620)art. 13 [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)ch. II 1, [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)ch. I 3 [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)annexe ch. 2, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)annexe 4 ch. II 2. [RO 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)art. 31 al. 1]. Voir actuellement l’O du 4 mars 2011 ([RS 120.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4744))
 
 #### Art. 6b
 
 **Tâches de l’Office fédéral de la police**[^6b-1]
-
-<sup>1</sup>
 
 Outre les tâches figurant dans la présente loi et dans les dispositions d’exécution, l’Office fédéral de la police assume les tâches suivantes:
 
@@ -245,7 +243,7 @@ Le service compétent de la Confédération[^7-4] peut, après avoir consulté l
 - a. fait l’objet d’une procédure pénale en Suisse pour un crime ou un délit;
 - b. a été condamné par un jugement passé en force prononcé par un tribunal suisse et que la peine ou la mesure n’a pas été subie et n’est pas prescrite.
 
-[^7-1]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^7-1]: [RS 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
 [^7-2]: Introduit par l’annexe ch. II 3 de la L du 20 juin 2014 sur la nationalité suisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 2561](https://fedlex.data.admin.ch/eli/oc/2016/404); [FF 2011 2639](https://fedlex.data.admin.ch/eli/fga/2011/422)).
 [^7-3]: Introduit par l’annexe ch. II 3 de la L du 20 juin 2014 sur la nationalité suisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 2561](https://fedlex.data.admin.ch/eli/oc/2016/404); [FF 2011 2639](https://fedlex.data.admin.ch/eli/fga/2011/422)).
 [^7-4]: Office fédéral de la police
@@ -270,11 +268,12 @@ Toute perte d’un document d’identité doit être signalée à la police. Cel
 
 #### Art. 10
 
-**Principe**
+**Principe**[^10-1]
 
-Le traitement des données est régi dans le cadre de la présente loi par la loi fédérale du 19 juin 1992 sur la protection des données[^10-1].
+Le traitement des données est régi dans le cadre de la présente loi par la loi fédérale du 25 septembre 2020 sur la protection des données[^10-2].
 
-[^10-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^10-1]: Nouvelle teneur selon l’annexe 1 ch. II 7 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^10-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 11
 
@@ -299,8 +298,8 @@ L’Office fédéral de la police exploite un système d’information. Ce syst�
 
 [^11-1]: Nouvelle teneur selon l’art. 2 ch. 1 de l’AF du 13 juin 2008 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la Communauté européenne concernant la reprise du Règlement (CE) n<sup>o</sup> 2252/2004 relatif aux passeports biométriques et aux documents de voyage, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667); [FF 2007 4893](https://fedlex.data.admin.ch/eli/fga/2007/731)).
 [^11-2]: Nouvelle teneur selon l’art. 2 ch. 1 de l’AF du 13 juin 2008 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la Communauté européenne concernant la reprise du Règlement (CE) n<sup>o</sup> 2252/2004 relatif aux passeports biométriques et aux documents de voyage, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667); [FF 2007 4893](https://fedlex.data.admin.ch/eli/fga/2007/731)).
-[^11-3]: [RS 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
-[^11-4]: [RS 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
+[^11-3]: [RS 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489)
+[^11-4]: [RS 0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)
 [^11-5]: Nouvelle teneur selon l’art. 2 ch. 1 de l’AF du 13 juin 2008 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la Communauté européenne concernant la reprise du Règlement (CE) n<sup>o</sup> 2252/2004 relatif aux passeports biométriques et aux documents de voyage, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667); [FF 2007 4893](https://fedlex.data.admin.ch/eli/fga/2007/731)).
 
 #### Art. 12
@@ -353,9 +352,11 @@ L’autorité qui a rendu la décision annonce à l’autorité d’établisseme
 
 #### Art. 14
 
-**Interdiction de tenir des fichiers parallèles**
+**Interdiction de tenir des banques de données parallèles**[^14-1]
 
-La tenue de fichiers parallèles est interdite à l’exception de la conservation, par l’autorité d’établissement, des formules de demande, pendant une durée déterminée.
+La tenue de banques de données parallèles est interdite à l’exception de la conservation, par l’autorité d’établissement, des formules de demande, pendant une durée déterminée.
+
+[^14-1]: Nouvelle teneur selon l’annexe 1 ch. II 7 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 15
 
@@ -390,7 +391,7 @@ Date de l’entrée en vigueur: 1<sup>er</sup> octobre 2002[^17-1]
 
 [^17-1]: Al. 1 de l’O du 20 sept. 2002 ([RO 2002 3067](https://fedlex.data.admin.ch/eli/oc/2002/442))
 
-## Disposition transitoire de la modification du 13 juin 2008****
+## Disposition transitoire de la modification du 13 juin 2008
 
 [^u1-1]
 

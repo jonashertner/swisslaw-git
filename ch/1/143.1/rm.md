@@ -4,11 +4,11 @@ title: "Lescha federala dals 22 da zercladur 2001 davart ils documents d'identit
 short: LDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/441"
 language: rm
-version: 2022-06-01
+version: 2023-09-01
 adopted: 2001-06-22
 in_force: 2002-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/441/20220601/rm/xml/fedlex-data-admin-ch-eli-cc-2002-441-20220601-rm-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/441/20220601/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/441/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-2002-441-20230901-rm-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/441/20230901/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha davart ils documents d’identitad, LDI)
 
-dals 22 da zercladur 2001 (versiun dal 1. da zercladur 2022)
+dals 22 da zercladur 2001 (versiun dal 1. da settember 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -27,7 +27,7 @@ sa basond sin l’artitgel 38 alinea 1 da la Constituziun federala[^ingress-1], 
 
 concluda:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2000 4751](https://fedlex.data.admin.ch/eli/fga/2000/986)
 
 ## 1. part Disposiziuns generalas
@@ -42,8 +42,8 @@ concluda:
 
 <sup>3</sup> Il Cussegl federal fixescha ils tips da documents d’identitad e regla las particularitads dals documents d’identitad da las persunas che han privilegis ed immunitads tenor la Convenziun da Vienna dals 18 d’avrigl 1961[^1-1] davart las relaziuns diplomaticas u tenor la Convenziun da Vienna dals 24 d’avrigl 1963[^1-2] davart las relaziuns consularas.
 
-[^1-1]: [SR 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
-[^1-2]: [SR 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
+[^1-1]: [SR 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489)
+[^1-2]: [SR 0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)
 
 #### Art. 2
 
@@ -107,7 +107,7 @@ Il document d’identitad sto cuntegnair las suandantas datas:
 
 Documents d’identitad han ina valaivladad limitada. Il Cussegl federal regla la durada da lur valaivladad.
 
-## 2. part Emissiun, producziun, privaziun e perdita dal document d’identitad****
+## 2. part Emissiun, producziun, privaziun e perdita dal document d’identitad
 
 [^sec2-1]
 
@@ -181,7 +181,7 @@ L’emissiun d’in document d’identitad vegn refusada:
 [^6-1]: Versiun tenor la cifra I da la LF dals 17 da zer. 2011 (dumondas per cartas d’identitad betg biometricas tar la vischnanca da domicil), en vigur dapi il 1. da mars 2012 ([AS 2011 5003](https://fedlex.data.admin.ch/eli/oc/2011/727); [BBl 2011 2277](https://fedlex.data.admin.ch/eli/fga/2011/297)[2291](https://fedlex.data.admin.ch/eli/fga/2011/299)).
 [^6-2]: Integrà tras la cifra I da la LF dals 17 da zer. 2011 (dumondas per cartas d’identitad betg biometricas tar la vischnanca da domicil), en vigur dapi il 1. da mars 2012 ([AS 2011 5003](https://fedlex.data.admin.ch/eli/oc/2011/727); [BBl 2011 2277](https://fedlex.data.admin.ch/eli/fga/2011/297)[2291](https://fedlex.data.admin.ch/eli/fga/2011/299)).
 [^6-3]: Versiun tenor l’art. 2 cifra 1 dal COF dals 13 da zer. 2008 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la CE davart ils passaports ed ils documents da viadi biometrics, en vigur dapi il 1. da mars 2010 ([AS 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667); [BBl 2007 5159](https://fedlex.data.admin.ch/eli/fga/2007/731)).
-[^6-4]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 13 da zer. 2008 davart ils sistems d’infurmaziun polizials da la Confederaziun, en vigur dapi ils 5 da dec. 2008 ([SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)).
+[^6-4]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 13 da zer. 2008 davart ils sistems d’infurmaziun polizials da la Confederaziun, en vigur dapi ils 5 da dec. 2008 ([SR 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)).
 [^6-5]: Versiun tenor l’art. 2 cifra 1 dal COF dals 13 da zer. 2008 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la CE davart ils passaports ed ils documents da viadi biometrics, en vigur dapi il 1. da mars 2010 ([AS 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667); [BBl 2007 5159](https://fedlex.data.admin.ch/eli/fga/2007/731)).
 
 #### Art. 6a
@@ -206,7 +206,7 @@ Ils posts ch’èn incumbensads cun la producziun dals documents d’identitad e
 <sup>5</sup> Il Cussegl federal fixescha las ulteriuras pretensiuns per ils posts da producziun, per las interpresas generalas sco er per las furnituras e per ils furniturs da servetschs e da martganzia.
 
 [^6a-1]: Integrà tras l’art. 2 cifra 1 dal COF dals 13 da zer. 2008 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la CE davart ils passaports ed ils documents da viadi biometrics, en vigur dapi il 1. da mars 2010 ([AS 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667); [BBl 2007 5159](https://fedlex.data.admin.ch/eli/fga/2007/731)).
-[^6a-2]: [[AS 2002 377](https://fedlex.data.admin.ch/eli/oc/2002/91); [2005 4571](https://fedlex.data.admin.ch/eli/oc/2005/597); [2006 4177](https://fedlex.data.admin.ch/eli/oc/2006/620)art. 13, [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)cifra II 1; [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)cifra I 3, [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)annexa cifra 2; **2009** 6937 annexa 4 cifra II 2. [AS 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)art. 31 al. 1]. Guardar oz O dals 4 da mars 2011 ([SR 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)).
+[^6a-2]: [[AS 2002 377](https://fedlex.data.admin.ch/eli/oc/2002/91); [2005 4571](https://fedlex.data.admin.ch/eli/oc/2005/597); [2006 4177](https://fedlex.data.admin.ch/eli/oc/2006/620)art. 13, [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)cifra II 1; [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)cifra I 3, [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)annexa cifra 2; **2009** 6937 annexa 4 cifra II 2. [AS 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)art. 31 al. 1]. Guardar oz O dals 4 da mars 2011 ([SR 120.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4744)).
 
 #### Art. 6b
 
@@ -247,7 +247,7 @@ In document d’identitad po vegnir retratg u po vegnir declerà sco nunvalaivel
 - a. vegn persequità penalmain en Svizra pervia d’in crim u pervia d’in delict;
 - b. è vegnì sentenzià d’ina dretgira svizra en moda legalmain valaivla ed il chasti u la mesira n’è ni surannada ni expiada.
 
-[^7-1]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^7-1]: [SR 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
 [^7-2]: Integrà tras la cifra II 3 da l’agiunta da la LF dals 20 da zer. 2014 davart il dretg da burgais, en vigur dapi il 1. da schan. 2018 ([AS 2016 2561](https://fedlex.data.admin.ch/eli/oc/2016/404); [BBl 2011 2825](https://fedlex.data.admin.ch/eli/fga/2011/422)).
 [^7-3]: Integrà tras la cifra II 3 da l’agiunta da la LF dals 20 da zer. 2014 davart il dretg da burgais, en vigur dapi il 1. da schan. 2018 ([AS 2016 2561](https://fedlex.data.admin.ch/eli/oc/2016/404); [BBl 2011 2825](https://fedlex.data.admin.ch/eli/fga/2011/422)).
 [^7-4]: Actualmain: Uffizi federal da polizia.
@@ -258,7 +258,7 @@ In document d’identitad po vegnir retratg u po vegnir declerà sco nunvalaivel
 
 Mintga perdita d’in document d’identitad sto vegnir annunziada a la polizia. Quella endatescha la perdita en il sistem informatisà da retschertga da la polizia RIPOL. RIPOL transmetta l’avis da perdita automaticamain al sistem d’infurmaziun tenor l’artitgel 11.
 
-[^8-1]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 13 da zer. 2008 davart ils sistems d’infurmaziun polizials da la Confederaziun, en vigur dapi ils 5 da dec. 2008 ([SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)).
+[^8-1]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 13 da zer. 2008 davart ils sistems d’infurmaziun polizials da la Confederaziun, en vigur dapi ils 5 da dec. 2008 ([SR 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)).
 
 #### Art. 9
 
@@ -274,11 +274,12 @@ Mintga perdita d’in document d’identitad sto vegnir annunziada a la polizia.
 
 #### Art. 10
 
-**Princip**
+**Princip**[^10-1]
 
-L’elavuraziun da datas en il rom da questa lescha sa drizza tenor la Lescha federala dals 19 da zercladur 1992[^10-1] davart la protecziun da datas.
+L’elavuraziun da datas en il rom da questa lescha sa drizza tenor la Lescha federala dals 25 da settember 2020[^10-2] davart la protecziun da datas.
 
-[^10-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^10-1]: Versiun tenor la cifra II 7 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^10-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 11
 
@@ -303,8 +304,8 @@ L’Uffizi federal da polizia maina in sistem d’infurmaziun. Quest sistem cunt
 
 [^11-1]: Versiun tenor l’art. 2 cifra 1 dal COF dals 13 da zer. 2008 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la CE davart ils passaports ed ils documents da viadi biometrics, en vigur dapi il 1. da mars 2010 ([AS 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667); [BBl 2007 5159](https://fedlex.data.admin.ch/eli/fga/2007/731)).
 [^11-2]: Versiun tenor l’art. 2 cifra 1 dal COF dals 13 da zer. 2008 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la CE davart ils passaports ed ils documents da viadi biometrics, en vigur dapi il 1. da mars 2010 ([AS 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667); [BBl 2007 5159](https://fedlex.data.admin.ch/eli/fga/2007/731)).
-[^11-3]: [SR 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
-[^11-4]: [SR 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
+[^11-3]: [SR 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489)
+[^11-4]: [SR 0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)
 [^11-5]: Versiun tenor l’art. 2 cifra 1 dal COF dals 13 da zer. 2008 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la CE davart ils passaports ed ils documents da viadi biometrics, en vigur dapi il 1. da mars 2010 ([AS 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667); [BBl 2007 5159](https://fedlex.data.admin.ch/eli/fga/2007/731)).
 
 #### Art. 12
@@ -357,9 +358,11 @@ L’autoritad da decisiun annunzia a l’autoritad emettent cumpetenta:
 
 #### Art. 14
 
-**Scumond da manar bancas da datas parallelas**
+**Scumond da bancas da datas parallelas**[^14-1]
 
-Igl è scumandà da manar bancas da datas parallelas, cun excepziun da l’archivaziun limitada areguard il temp dals formulars da dumonda tras l’autoritad emettenta.
+Igl è scumandà da manar bancas da datas parallelas, cun excepziun da l’archivaziun dals formulars da dumonda, che pon vegnir tegnids en salv durant in temp limità tar l’autoritad emettenta.
+
+[^14-1]: Versiun tenor la cifra II 7 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 15
 
@@ -394,7 +397,7 @@ Data da l’entrada en vigur: 1. d’october 2002[^17-1]
 
 [^17-1]: Al. 1 da l’O dals 20 da sett. 2002 ([AS 2002 3067](https://fedlex.data.admin.ch/eli/oc/2002/442))
 
-## Disposiziun transitorica da la midada dals 13 da zercladur 2008****
+## Disposiziun transitorica da la midada dals 13 da zercladur 2008
 
 [^u1-1]
 
