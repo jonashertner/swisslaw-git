@@ -4,11 +4,11 @@ title: "Legge federale del 18 dicembre 1992 sulla Biblioteca nazionale svizzera 
 short: LBNS
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1773_1773_1773"
 language: it
-version: 2021-02-01
+version: 2023-09-01
 adopted: 1992-12-18
 in_force: 1993-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1773_1773_1773/20210201/it/xml/fedlex-data-admin-ch-eli-cc-1993-1773_1773_1773-20210201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1773_1773_1773/20210201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1773_1773_1773/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1993-1773_1773_1773-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1773_1773_1773/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/1773_1773_1773/20210201/it"
 
 (Legge sulla Biblioteca nazionale, LBNS)
 
-del 18 dicembre 1992 (Stato 1° febbraio 2021)
+del 18 dicembre 1992 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -43,9 +43,11 @@ La presente legge disciplina i compiti e l’organizzazione della Biblioteca naz
 
 <sup>1</sup> La Biblioteca nazionale ha lo scopo di collezionare, inventariare, conservare, rendere accessibili e far conoscere gli stampati o altri supporti d’informazione che hanno un legame con la Svizzera.
 
-<sup>2</sup> Allestisce e aggiorna l’elenco delle banche dati che hanno un legame con la Svizzera e che sono accessibili al pubblico.
+<sup>2</sup> Allestisce e aggiorna l’elenco delle banche dati che hanno un legame con la Svizzera e che sono accessibili al pubblico.[^2-1]
 
 <sup>3</sup> Contribuisce allo sviluppo della biblioteconomia a livello nazionale e internazio-nale.
+
+[^2-1]: La mod. giusta l’all. 1 n. II 37 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023, concerne soltanto il testo tedesco ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 3
 
@@ -93,10 +95,12 @@ La Biblioteca nazionale permette al pubblico un facile accesso alle sue collezio
 
 **Elenco delle banche dati**
 
-La Biblioteca nazionale elabora e aggiorna l’elenco delle banche dati accessibili al pubblico che:
+La Biblioteca nazionale elabora e aggiorna l’elenco delle banche dati accessibili al pubblico che:[^7-1]
 
 - a. sono gestite in Svizzera;
 - b. sono gestite all’estero, ma contengono dati che hanno un’importanza particolare per la Svizzera.
+
+[^7-1]: La mod. giusta l’all. 1 n. II 37 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023, concerne soltanto il testo tedesco ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 8
 

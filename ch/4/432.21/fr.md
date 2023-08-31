@@ -4,11 +4,11 @@ title: "Loi fédérale du 18 décembre 1992 sur la Bibliothèque nationale suiss
 short: LBNS
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1773_1773_1773"
 language: fr
-version: 2021-02-01
+version: 2023-09-01
 adopted: 1992-12-18
 in_force: 1993-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1773_1773_1773/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1773_1773_1773-20210201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1773_1773_1773/20210201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1773_1773_1773/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1773_1773_1773-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1773_1773_1773/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/1773_1773_1773/20210201/fr"
 
 (Loi sur la Bibliothèque nationale, LBNS)
 
-du 18 décembre 1992 (Etat le 1<sup>er</sup> février 2021)
+du 18 décembre 1992 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -45,9 +45,11 @@ La présente loi règle les tâches et l’organisation de la Bibliothèque nati
 
 <sup>1</sup> La Bibliothèque nationale a pour mandat de collectionner, de répertorier, de conserver, de rendre accessible et de faire connaître les informations imprimées ou conservées sur d’autres supports que le papier, ayant un lien avec la Suisse.
 
-<sup>2</sup> Elle dresse et tient à jour la liste des banques de données qui ont un lien avec la Suisse et qui sont accessibles au public.
+<sup>2</sup> Elle dresse et tient à jour la liste des banques de données qui ont un lien avec la Suisse et qui sont accessibles au public.[^2-1]
 
 <sup>3</sup> Elle contribue au développement de la bibliothéconomie au niveau national et au niveau international.
+
+[^2-1]: La mod. selon l’annexe 1 ch. II 37 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023, ne concerne que le texte allemand ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 3
 
@@ -95,10 +97,12 @@ La Bibliothèque nationale facilite l’accès public de ses collections, notamm
 
 **Liste des banques de données**
 
-La Bibliothèque nationale dresse et tient à jour la liste des banques de données accessibles au public:
+La Bibliothèque nationale dresse et tient à jour la liste des banques de données accessibles au public:[^7-1]
 
 - a. qui sont gérées en Suisse;
 - b. qui sont gérées à l’étranger, mais qui contiennent des données ayant une importance particulière pour la Suisse.
+
+[^7-1]: La mod. selon l’annexe 1 ch. II 37 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023, ne concerne que le texte allemand ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 8
 
@@ -120,7 +124,7 @@ La Bibliothèque nationale peut fournir des prestations commerciales à des tier
 
 <sup>2</sup> Les prestations commerciales sont fournies à des prix permettant au moins de couvrir les coûts calculés sur la base d’une comptabilité analytique. Le Département fédéral de l’intérieur peut autoriser des dérogations pour certaines prestations à condition qu’elles n’entrent pas en concurrence avec le secteur privé.
 
-[^8a-1]: Introduit par le ch. 2 de l'annexe à la LF du 18 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [FF 2009 6525](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
+[^8a-1]: Introduit par l’annexe ch. 2 de la LF du 18 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [FF 2009 6525](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
 
 #### Art. 9
 
@@ -156,16 +160,16 @@ Le Conseil fédéral peut charger la Bibliothèque nationale d’autres activit�
 
 La Confédération peut allouer des aides financières aux institutions publiques des cantons et des communes qui travaillent en collaboration avec la Bibliothèque nationale et qui:
 
-- a. [^12-1] ...
+- a. [^12-1] …
 - b. possèdent et complètent d’importants stocks d’imprimés ou d’autres supports d’information tombant sous le coup du mandat.
 
 <sup>2</sup> Le versement des aides financières peut être subordonné à l’obligation de rendre accessibles au public les informations imprimées ou conservées sur d’autres supports que le papier acquises ou produites avec l’aide de la Confédération.
 
 <sup>3</sup> Des aides financières peuvent aussi être accordées en vertu d’un contrat de prestations conformément à l’art. 16, al. 2, de la loi du 5 octobre 1990 sur les subventions[^12-2].[^12-3]
 
-[^12-1]: Abrogée par le ch. II 1 de l’annexe à la LF du 11 déc. 2009 sur l’encouragement de la culture, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4579](https://fedlex.data.admin.ch/eli/fga/2007/681)[4617](https://fedlex.data.admin.ch/eli/fga/2007/683)).
+[^12-1]: Abrogée par l’annexe ch. II 1 de la LF du 11 déc. 2009 sur l’encouragement de la culture, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4579](https://fedlex.data.admin.ch/eli/fga/2007/681)[4617](https://fedlex.data.admin.ch/eli/fga/2007/683)).
 [^12-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
-[^12-3]: Introduit par le ch. II 1 de l’annexe à la LF du 11 déc. 2009 sur l’encouragement de la culture, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4579](https://fedlex.data.admin.ch/eli/fga/2007/681)[4617](https://fedlex.data.admin.ch/eli/fga/2007/683)).
+[^12-3]: Introduit par l’annexe ch. II 1 de la LF du 11 déc. 2009 sur l’encouragement de la culture, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4579](https://fedlex.data.admin.ch/eli/fga/2007/681)[4617](https://fedlex.data.admin.ch/eli/fga/2007/683)).
 
 #### Art. 13
 
@@ -175,7 +179,7 @@ La Confédération peut allouer des aides financières aux institutions publique
 
 <sup>2</sup> Le Conseil fédéral décide de la reprise.
 
-## Section 5 ...
+## Section 5 …
 
 #### Art. 14
 

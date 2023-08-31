@@ -4,20 +4,20 @@ title: "Bundesgesetz vom 18. Dezember 1992 über die Schweizerische Nationalbibl
 short: NBibG
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1773_1773_1773"
 language: de
-version: 2021-02-01
+version: 2023-09-01
 adopted: 1992-12-18
 in_force: 1993-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1773_1773_1773/20210201/de/xml/fedlex-data-admin-ch-eli-cc-1993-1773_1773_1773-20210201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1773_1773_1773/20210201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1773_1773_1773/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1993-1773_1773_1773-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1773_1773_1773/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Bundesgesetz über die Schweizerische Nationalbibliothek****
+# Bundesgesetz über die Schweizerische Nationalbibliothek
 
 (Nationalbibliotheksgesetz, NBibG)[^t-1]
 
-vom 18. Dezember 1992 (Stand am 1. Februar 2021)
+vom 18. Dezember 1992 (Stand am 1. September 2023)
 
 [^t-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 
@@ -45,9 +45,11 @@ Dieses Gesetz regelt die Aufgaben und die Organisation der Schweizerischen Natio
 
 <sup>1</sup> Die Nationalbibliothek hat zur Aufgabe, gedruckte oder auf anderen Informationsträgern gespeicherte Informationen, die einen Bezug zur Schweiz haben, zu sammeln, zu erschliessen, zu erhalten und zu vermitteln.
 
-<sup>2</sup> Sie verzeichnet öffentlich zugängliche Datensammlungen, die einen Bezug zur Schweiz aufweisen.
+<sup>2</sup> Sie verzeichnet öffentlich zugängliche Datenbanken, die einen Bezug zur Schweiz aufweisen.[^2-1]
 
 <sup>3</sup> Sie trägt zur Entwicklung des nationalen und internationalen Bibliothekswesens bei.
+
+[^2-1]: Fassung gemäss Anhang 1 Ziff. II 37 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 3
 
@@ -93,12 +95,15 @@ Die Nationalbibliothek ermöglicht ihrem Publikum, insbesondere mit den Lesesäl
 
 #### Art. 7
 
-**Verzeichnung von Datensammlungen**
+**Verzeichnung von Datenbanken[^7-1]**
 
-Die Nationalbibliothek verzeichnet die öffentlich zugänglichen Datensammlungen, die:
+Die Nationalbibliothek verzeichnet die öffentlich zugänglichen Datenbanken, die:[^7-2]
 
 - a. in der Schweiz betrieben werden;
 - b. im Ausland betrieben werden und Daten enthalten, die für die Schweiz von besonderer Bedeutung sind.
+
+[^7-1]: Fassung gemäss Anhang 1 Ziff. II 37 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^7-2]: Fassung gemäss Anhang 1 Ziff. II 37 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 8
 
@@ -156,7 +161,7 @@ Der Bundesrat kann die Nationalbibliothek im Rahmen ihrer Aufgaben mit weiteren 
 
 Der Bund kann Finanzhilfen ausrichten an öffentliche Institutionen der Kantone und Gemeinden, die mit der Nationalbibliothek zusammenarbeiten und:
 
-- a.[^12-1] ...
+- a.[^12-1] …
 - b. bedeutende Bestände an Druckwerken oder anderen Informationsträgern, die unter den Sammelauftrag fallen, besitzen und weitersammeln.
 
 <sup>2</sup> Die Finanzhilfen können mit der Bedingung verbunden werden, dass die mit Hilfe des Bundes erworbenen oder hergestellten gedruckten oder auf anderen Informationsträgern gespeicherten Informationen öffentlich zugänglich gemacht werden.
@@ -175,7 +180,7 @@ Der Bund kann Finanzhilfen ausrichten an öffentliche Institutionen der Kantone 
 
 <sup>2</sup> Der Bundesrat entscheidet über die Übernahme.
 
-## 5. Abschnitt: ...
+## 5. Abschnitt: …
 
 #### Art. 14
 
@@ -199,7 +204,7 @@ Der Bund kann Finanzhilfen ausrichten an öffentliche Institutionen der Kantone 
 
 Das Bundesgesetz vom 29. September 1911[^16-1] betreffend die Schweizerische Nationalbibliothek wird aufgehoben.
 
-[^16-1]: [BS **4** 185 195 Art. 3 Abs. 2]
+[^16-1]: [BS **4** 185, 195 Art. 3 Abs. 2]
 
 #### Art. 17
 
