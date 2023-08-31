@@ -4,11 +4,11 @@ title: Legge federale del 13 dicembre 1996 sul materiale bellico (LMB)
 short: LMB
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/794_794_794"
 language: it
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1996-12-13
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/794_794_794/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1998-794_794_794-20230701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/794_794_794/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1998-794_794_794-20230901-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20230701/it"
 
 (LMB)
 
-del 13 dicembre 1996 (Stato 1° luglio 2023)
+del 13 dicembre 1996 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -499,9 +499,10 @@ I titolari di un’autorizzazione giusta la presente legge e i titolari e il per
 
 <sup>1</sup> Il Consiglio federale designa un Ufficio centrale per la repressione delle attività illegali concernenti materiale bellico.
 
-<sup>2</sup> L’Ufficio centrale collabora all’esecuzione della presente legge e alla prevenzione dei reati e notifica alle autorità di perseguimento penale competenti le infrazioni alle disposizioni della presente legge. Esso è autorizzato a trattare dati personali, compresi i dati personali degni di particolare protezione e i profili della personalità, nella misura e per il periodo richiesti dal suo mandato.[^30-1]
+<sup>2</sup> L’Ufficio centrale collabora all’esecuzione della presente legge e alla prevenzione dei reati e notifica alle autorità di perseguimento penale competenti le infrazioni alle disposizioni della presente legge.[^30-1] Esso è autorizzato a trattare dati personali, compresi quelli necessari per valutare il pericolo che una persona commetta infrazioni alla presente legge, a prescindere dal fatto che si tratti o meno di dati personali degni di particolare protezione, nella misura e per il periodo richiesti dall’esecuzione del suo mandato.[^30-2]
 
 [^30-1]: Nuovo testo giusta il n. I 6 dell’O del 12 dic. 2008 sull’adeguamento delle disposizioni legali in seguito al trasferimento delle unità di informazioni del Servizio di analisi e prevenzione nel DDPS, in vigore dal 1° gen. 2009 ([RU 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
+[^30-2]: Nuovo testo del per. giusta l’all. 1 n. II 43 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 31
 
@@ -615,7 +616,7 @@ Chiunque, intenzionalmente e senza poter far valere una deroga secondo l’artic
 
 <sup>3</sup> Se l’autore ha agito per negligenza, la pena è una pena detentiva sino a un anno o una pena pecuniaria.
 
-[^35a-1]: Introdotto dal n. I della LF del 16 mar. 2012, in vigore dal 1° feb 2013 ([RU 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5323](https://fedlex.data.admin.ch/eli/fga/2011/879)).
+[^35a-1]: Introdotto dal n. I della LF del 16 mar. 2012, in vigore dal 1° feb 2013 ([RU 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); £[FF 2011 5323](https://fedlex.data.admin.ch/eli/fga/2011/879)).
 [^35a-2]: Abrogato dal n. I 17 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 35b

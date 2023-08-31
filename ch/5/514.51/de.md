@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 13. Dezember 1996 über das Kriegsmaterial (Kriegsmater
 short: KMG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/794_794_794"
 language: de
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1996-12-13
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/794_794_794/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1998-794_794_794-20230701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/794_794_794/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1998-794_794_794-20230901-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20230701/de"
 
 (Kriegsmaterialgesetz, KMG)
 
-vom 13. Dezember 1996 (Stand am 1. Juli 2023)
+vom 13. Dezember 1996 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -498,9 +498,10 @@ Die Inhaber einer Bewilligung nach diesem Gesetz beziehungsweise die Inhaber und
 
 <sup>1</sup> Der Bundesrat bezeichnet eine Zentralstelle zur Bekämpfung illegaler Tätigkeiten im Zusammenhang mit Kriegsmaterial.
 
-<sup>2</sup> Die Zentralstelle wirkt beim Vollzug sowie bei der Deliktsverhütung mit und meldet Verstösse gegen Bestimmungen dieses Gesetzes den zuständigen Strafverfolgungsbehörden. Soweit und solange es ihre Aufgaben erfordern, ist sie befugt, Personendaten, mit Einschluss von besonders schützenswerten Personendaten und von Persönlichkeitsprofilen zu bearbeiten.[^30-1]
+<sup>2</sup> Die Zentralstelle wirkt beim Vollzug sowie bei der Deliktsverhütung mit und meldet Verstösse gegen Bestimmungen dieses Gesetzes den zuständigen Strafverfolgungsbehörden.[^30-1] Soweit und solange es der Vollzug ihrer Aufgaben erfordert, ist sie befugt, Personendaten, einschliesslich Personendaten, welche die Beurteilung der Gefahr erlauben, dass eine Person Widerhandlungen gegen dieses Gesetz begeht, zu bearbeiten, unabhängig davon, ob es sich um besonders schützenswerte Personendaten handelt oder nicht.[^30-2]
 
 [^30-1]: Fassung gemäss Ziff. I 6 der V vom 12. Dez. 2008 über die Anpassung gesetzlicher Bestimmungen infolge Überführung der nachrichtendienstlichen Teile des Dienstes für Analyse und Prävention zum VBS, in Kraft seit 1. Jan. 2009 ([AS 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
+[^30-2]: Fassung des zweiten Satzes gemäss Anhang 1 Ziff. II 43 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 31
 

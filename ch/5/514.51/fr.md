@@ -4,11 +4,11 @@ title: Loi fédérale du 13 décembre 1996 sur le matériel de guerre (LFMG)
 short: LFMG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/794_794_794"
 language: fr
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1996-12-13
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/794_794_794/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1998-794_794_794-20230701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/794_794_794/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1998-794_794_794-20230901-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20230701/fr"
 
 (LFMG)
 
-du 13 décembre 1996 (État le 1<sup>er</sup> juillet 2023)
+du 13 décembre 1996 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -497,9 +497,10 @@ Le titulaire d’une autorisation au sens de la présente loi ainsi que les dét
 
 <sup>1</sup> Le Conseil fédéral désigne un office central chargé de réprimer les activités illicites relatives au matériel de guerre.
 
-<sup>2</sup> L’office central participe à l’exécution de la présente loi ainsi qu’à la prévention des infractions et dénonce les infractions aux dispositions de la présente loi aux autorités compétentes en matière de poursuite pénale. Il a le droit de traiter des données personnelles, y compris des données sensibles et des profils de la personnalité, dans la mesure et aussi longtemps que ses tâches l’exigent. [^30-1]
+<sup>2</sup> L’office central participe à l’exécution de la présente loi ainsi qu’à la prévention des infractions et dénonce les infractions aux dispositions de la présente loi aux autorités compétentes en matière de poursuite pénale.[^30-1] Il a le droit de traiter des données personnelles, sensibles ou non, y compris des données personnelles qui permettent d’évaluer le risque qu’une personne commette une infraction à la présente loi, dans la mesure et aussi longtemps que l’exécution de ses tâches l’exige.[^30-2]
 
 [^30-1]: Nouvelle teneur selon le ch. I 6 de l’O du 12 déc. 2008 sur l’adaptation des dispositions légales suite au transfert des unités de renseignements du Service d’analyse et de prévention au DDPS, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
+[^30-2]: Nouvelle teneur de la phrase selon l’annexe 1 ch. II 43 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 31
 

@@ -4,11 +4,11 @@ title: "Federal Act of 13 December 1996 on War Material (War Material Act, WMA)"
 short: WMA
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/794_794_794"
 language: en
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1996-12-13
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/794_794_794/20230701/en/xml/fedlex-data-admin-ch-eli-cc-1998-794_794_794-20230701-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20230701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/794_794_794/20230901/en/xml/fedlex-data-admin-ch-eli-cc-1998-794_794_794-20230901-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/794_794_794/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (War Mat Act, WMA)
 
-of 13 December 1996 (Status as of 1 July 2023)
+of 13 December 1996 (Status as of 1 September 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -37,7 +37,7 @@ decrees:
 
 **Purpose**
 
-This Act has as its aim the fulfilment of Switzerland’s international obligations and the respect of its foreign policy principles by means of controlling the manufacture and transfer of war materiel and related technology, while at the same time maintaining an industrial capacity in Switzerland that it adapted to the requirements of its national defence.
+This Act has as its aim the fulfilment of Switzerland’s international obligations and the respect of its foreign policy principles by means of controlling the manufacture and transfer of war materiel and related technology, while at the same time maintaining an industrial capacity in Switzerland that is adapted to the requirements of its national defence.
 
 #### Art. 2
 
@@ -501,9 +501,10 @@ The holder of a licence under this Act or the proprietor and the staff of the co
 
 <sup>1</sup> The Federal Council shall designate a Central Office for combating illegal activities in connection with war materiel.
 
-<sup>2</sup> The Central Office shall participate in enforcement and in the prevention of offences and shall report violations of the provisions of this Act to the competent prosecution authorities. Insofar as and for as long as its duties require, it is entitled to process personal data, including particularly sensitive personal data and personality profiles.[^30-1]
+<sup>2</sup> The Central Office shall participate in enforcement and in the prevention of offences and shall report violations of the provisions of this Act to the competent prosecution authorities.[^30-1] Insofar as and for as long as fulfilment of its duties requires, it is entitled to process personal data, including personal data that allows the risk of a person committing offences under this act to be assessed, irrespective of whether the personal data is sensitive.[^30-2]
 
 [^30-1]: Amended by No I 6 of the Ordinance of 12 Dec. 2008 on the Amendment of Statutory Provisions due to the Transfer of the Intelligence Section of the Service for Analysis and Prevention to the DDPS, in force since 1 Jan. 2009 ([AS 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
+[^30-2]: Second sentence amended by Annex 1 No II 43 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 31
 
