@@ -4,18 +4,18 @@ title: Legge federale del 18 marzo 2016 sulla sorveglianza della corrispondenza 
 short: LSCPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/31"
 language: it
-version: 2022-06-01
+version: 2023-09-01
 adopted: 2016-03-18
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/31/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2018-31-20220601-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/31/20220601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/31/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2018-31-20230901-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/31/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni (LSCPT)
 
-del 18 marzo 2016 (Stato 1° giugno 2022)
+del 18 marzo 2016 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -23,7 +23,7 @@ visti gli articoli 92 capoverso 1 e 123 capoverso 1 della Costituzione federale[
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2013 2283](https://fedlex.data.admin.ch/eli/fga/2013/512)
 
 ## Sezione 1: Disposizioni generali
@@ -46,10 +46,10 @@ La presente legge si applica alla sorveglianza della corrispondenza postale e de
 <sup>2</sup> Alle informazioni concernenti il traffico dei pagamenti soggetto alla legge del 17 dicembre 2010[^1-5] sulle poste (LPO) si applicano le disposizioni sull’obbligo di testimoniare e sull’obbligo di informare l’autorità.
 
 [^1-1]: Vedi art. 46 n. 1.
-[^1-2]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^1-2]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 [^1-3]: Introdotta dal n. I 13 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^1-4]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^1-5]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^1-4]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^1-5]: [RS 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
 
 #### Art. 2
 
@@ -64,8 +64,8 @@ La presente legge determina obblighi di collaborazione per le seguenti persone (
 - e. le persone che mettono a disposizione di terzi il loro accesso a una rete pubblica di telecomunicazione;
 - f. i rivenditori professionali di carte o di altri mezzi analoghi che consentono di accedere a una rete pubblica di telecomunicazione.
 
-[^2-1]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
-[^2-2]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^2-1]: [RS 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
+[^2-2]: [RS 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 3
 
@@ -77,13 +77,15 @@ La presente legge determina obblighi di collaborazione per le seguenti persone (
 
 <sup>3</sup> Le autorità di concessione e le autorità di vigilanza competenti in materia di servizi postali e di servizi di telecomunicazione, le autorità di perseguimento penale e il Servizio collaborano all’esecuzione dei compiti di quest’ultimo.
 
-[^3-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^3-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 4
 
-**Trattamento di dati personali**
+**Trattamento di dati personali**[^4-1]
 
-Il Servizio, le autorità abilitate a disporre la sorveglianza, le autorità d’approvazione, i fornitori di servizi postali e i fornitori di servizi di telecomunicazione possono trattare i dati personali, compresi i dati personali degni di particolare protezione e i profili della personalità, di cui necessitano per disporre, approvare e attuare la sorveglianza.
+Il Servizio, le autorità abilitate a disporre la sorveglianza, le autorità d’approvazione, i fornitori di servizi postali e i fornitori di servizi di telecomunicazione possono trattare i dati personali, compresi i dati personali degni di particolare protezione, di cui necessitano per disporre, approvare e attuare la sorveglianza.
+
+[^4-1]: Nuovo testo giusta l’all. 1 n. II 66 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 5
 
@@ -160,21 +162,22 @@ All’autorità che ne fa richiesta, i dati raccolti durante la sorveglianza son
 Per quanto concerne i dati raccolti nell’ambito di un procedimento penale o per l’esecuzione di una domanda di assistenza giudiziaria:
 
 - a. il diritto di consultare gli atti e il diritto di essere informati sui dati nell’ambito di un procedimento pendente sono retti dal diritto di procedura applicabile;
-- b. il diritto d’accesso ai dati dopo la chiusura del procedimento è retto dalla legge federale del 19 giugno 1992[^10-1] sulla protezione dei dati (LPD) se l’autorità incaricata della domanda di assistenza giudiziaria è un’autorità federale o dal diritto cantonale se è un’autorità cantonale.
-- [tab] <sup>2</sup> Il diritto d’accesso ai dati raccolti nell’ambito della ricerca di persone scomparse o di condannati è retto dalla LPD se l’autorità incaricata della ricerca è un’autorità federale o dal diritto cantonale se è un’autorità cantonale. L’articolo 279 CPP[^10-2] è applicabile per analogia.
-- [tab] <sup>2bis</sup> Il diritto d’accesso ai dati raccolti nell’ambito dell’esecuzione della LAIn[^10-3] è retto dalla LAIn.[^10-4]
-- [tab] <sup>2ter</sup> Il diritto d’accesso ai dati raccolti nell’ambito di localizzazioni tramite telefonia mobile ai sensi dell’articolo 23*q* capoverso 3 LMSI[^10-5] è retto dalla LPD se l’autorità incaricata della sorveglianza è un’autorità federale o dal diritto cantonale se è un’autorità cantonale.[^10-6]
+- b.[^10-1] il diritto d’accesso ai dati dopo la chiusura del procedimento è retto dalla legge federale del 25 settembre 2020[^10-2] sulla protezione dei dati (LPD) se l’autorità incaricata della domanda di assistenza giudiziaria è un’autorità federale o dal diritto cantonale se è un’autorità cantonale.
+- [tab] <sup>2</sup> Il diritto d’accesso ai dati raccolti nell’ambito della ricerca di persone scomparse o di condannati è retto dalla LPD se l’autorità incaricata della ricerca è un’autorità federale o dal diritto cantonale se è un’autorità cantonale. L’articolo 279 CPP[^10-3] è applicabile per analogia.
+- [tab] <sup>2bis</sup> Il diritto d’accesso ai dati raccolti nell’ambito dell’esecuzione della LAIn[^10-4] è retto dalla LAIn.[^10-5]
+- [tab] <sup>2ter</sup> Il diritto d’accesso ai dati raccolti nell’ambito di localizzazioni tramite telefonia mobile ai sensi dell’articolo 23*q* capoverso 3 LMSI[^10-6] è retto dalla LPD se l’autorità incaricata della sorveglianza è un’autorità federale o dal diritto cantonale se è un’autorità cantonale.[^10-7]
 
 <sup>3</sup> La persona interessata dalla sorveglianza può far valere i suoi diritti presso l’autorità investita del procedimento o, se nessuna autorità ne è più investita, presso l’ultima che ne è stata investita. Il Servizio non è competente per accordare l’accesso ai dati.
 
 <sup>4</sup> Il Consiglio federale stabilisce le modalità della garanzia di questi diritti. In particolare, garantisce i diritti delle parti nei casi in cui non è possibile, o è possibile soltanto con un onere sproporzionato, preparare copie degli atti.
 
-[^10-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^10-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^10-3]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^10-4]: Vedi art. 46 n. 1.
-[^10-5]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^10-6]: Introdotto dal n. I 13 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^10-1]: Nuovo testo giusta l’all. 1 n. II 66 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^10-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^10-3]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^10-4]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^10-5]: Vedi art. 46 n. 1.
+[^10-6]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^10-7]: Introdotto dal n. I 13 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 11
 
@@ -196,9 +199,9 @@ Per quanto concerne i dati raccolti nell’ambito di un procedimento penale o pe
 
 <sup>6</sup> Il Consiglio federale precisa le modalità del rispetto dei termini e stabilisce le modalità dell’informazione secondo il capoverso 5.
 
-[^11-1]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^11-1]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 [^11-2]: Vedi art. 46 n. 1.
-[^11-3]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^11-3]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
 [^11-4]: Introdotto dal n. I 13 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^11-5]: Nuovo testo giusta il n. I 13 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
@@ -214,9 +217,11 @@ Per quanto concerne i dati raccolti nell’ambito di un procedimento penale o pe
 
 #### Art. 13
 
-**Responsabilità**
+**Responsabilità**[^13-1]
 
-Le autorità che hanno accesso al sistema di trattamento conformemente all’articolo 9 sono considerate detentrici della collezione dei dati raccolti durante le sorveglianze di loro competenza.
+Le autorità che hanno accesso al sistema di trattamento conformemente all’articolo 9 sono considerate titolari del trattamento per quanto concerne i dati raccolti durante le sorveglianze di loro competenza.
+
+[^13-1]: Nuovo testo giusta l’all. 1 n. II 66 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 14
 
@@ -231,7 +236,7 @@ Una copia dei dati contenuti nel sistema di trattamento può essere trasferita m
 
 <sup>2</sup> Il trasferimento può essere eseguito soltanto da una persona che ha diritto di accedere al sistema di trattamento in virtù della presente legge e di accedere al sistema d’informazione in questione in virtù della LSIP.
 
-[^14-1]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^14-1]: [RS 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
 
 #### Art. 14a
 
@@ -247,7 +252,7 @@ Una copia dei dati contenuti nel sistema di trattamento può essere trasferita m
 <sup>2</sup> Il trasferimento può essere eseguito soltanto da una persona che ha diritto di accedere al sistema di trattamento in virtù della presente legge e di accedere al sistema d’informazione in questione in virtù della LAIn.
 
 [^14a-1]: Vedi art. 46 n. 1.
-[^14a-2]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^14a-2]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 
 ## Sezione 3: Compiti del Servizio
 
@@ -267,8 +272,8 @@ Il Servizio fornisce informazioni sui dati di cui agli articoli 21 e 22 esclusiv
 <sup>2</sup> Il Servizio fornisce informazioni sui dati di cui all’articolo 21 inoltre all’autorità federale competente secondo gli articoli 10 capoverso 3 e 23 della legge federale del 19 dicembre 1986[^15-3] contro la concorrenza sleale (LCSl), su sua richiesta, al fine di sporgere querela per un atto di concorrenza sleale secondo l’articolo 3 capoverso 1 lettera u LCSl.[^15-4]
 
 [^15-1]: Vedi art. 46 n. 1.
-[^15-2]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^15-3]: [RS 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^15-2]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^15-3]: [RS 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
 [^15-4]: Vedi art. 46 n. 1.
 
 #### Art. 16
@@ -297,7 +302,7 @@ Nell’ambito della sorveglianza della corrispondenza postale e del traffico del
 - k. tiene una statistica delle sorveglianze.
 
 [^16-1]: Vedi art. 46 n. 1.
-[^16-2]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^16-2]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 
 #### Art. 17
 
@@ -367,7 +372,7 @@ I fornitori di servizi di telecomunicazione trasmettono al Servizio le indicazio
 <sup>2</sup> I fornitori di servizi di telecomunicazione assicurano che tali indicazioni siano rilevate all’inizio della relazione commerciale e che possano essere trasmesse finché la relazione dura, nonché durante sei mesi dopo il suo termine. Il Consiglio federale stabilisce che i fornitori di servizi di telecomunicazione devono conservare e trasmettere determinati dati ai fini dell’identificazione soltanto durante sei mesi.
 
 [^21-1]: Nuovo testo giusta l’all. n. 4 della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^21-2]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^21-2]: [RS 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 22
 
@@ -556,7 +561,7 @@ Una persona è considerata scomparsa se:
 
 <sup>4</sup> L’autorità competente può anche consultare dati relativi a terzi, sempre che le circostanze lo facciano ritenere necessario per ritrovare la persona scomparsa.
 
-[^35-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^35-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 36
 
@@ -568,7 +573,7 @@ Una persona è considerata scomparsa se:
 
 <sup>3</sup> L’autorità competente può anche consultare dati relativi a terzi, sempre che le condizioni di cui all’articolo 270 CPP siano adempiute per analogia.
 
-[^36-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^36-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 37
 
@@ -580,9 +585,9 @@ Una persona è considerata scomparsa se:
 
 <sup>3</sup> La Confederazione e i Cantoni designano l’autorità che dispone la sorveglianza, l’autorità d’approvazione e l’autorità di ricorso. L’ordine di sorveglianza sottostà all’approvazione di un’autorità giudiziaria.
 
-[^37-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^37-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
-## Sezione 9:**** Spese
+## Sezione 9: Spese
 
 [^sec9-1]
 
@@ -646,7 +651,7 @@ Sempre che non abbia commesso un reato più grave secondo un’altra legge, è p
 
 <sup>2</sup> Il Servizio è l’autorità competente per il perseguimento e il giudizio.
 
-[^40-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^40-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Sezione 11: Vigilanza e tutela giurisdizionale
 
@@ -658,7 +663,7 @@ Sempre che non abbia commesso un reato più grave secondo un’altra legge, è p
 
 <sup>2</sup> Se accerta una violazione del diritto, può applicare per analogia ai fornitori di servizi di telecomunicazione le misure previste nell’articolo 58 capoverso 2 lettera a LTC[^41-1]. Può ordinare provvedimenti cautelari.
 
-[^41-1]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^41-1]: [RS 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 42
 
@@ -700,11 +705,11 @@ L’abrogazione e la modifica di altri atti normativi sono disciplinate nell’a
 
 **Coordinamento con la legge federale del 25 settembre 2015 sulle attività informative**
 
-Indipendentemente dal fatto che entri prima in vigore la presente legge o la legge federale del 25 settembre 2015*[^46-1]* sulle attività informative, alla seconda di queste entrate in vigore o in caso di entrata in vigore simultanea delle due leggi le disposizioni qui appresso avranno il tenore seguente:
+Indipendentemente dal fatto che entri prima in vigore la presente legge o la legge federale del 25 settembre 2015[^46-1] sulle attività informative, alla seconda di queste entrate in vigore o in caso di entrata in vigore simultanea delle due leggi le disposizioni qui appresso avranno il tenore seguente:
 
 ...[^46-2]
 
-[^46-1]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^46-1]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 [^46-2]: Le mod. possono essere consultate alla [RU 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31).
 
 #### Art. 47

@@ -4,11 +4,11 @@ title: Bundesgesetz vom 18. März 2016 betreffend die Überwachung des Post- und
 short: BÜPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/31"
 language: de
-version: 2022-06-01
+version: 2023-09-01
 adopted: 2016-03-18
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/31/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2018-31-20220601-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/31/20220601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/31/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2018-31-20230901-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/31/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/31/20220601/de"
 
 (BÜPF)
 
-vom 18. März 2016 (Stand am 1. Juni 2022)
+vom 18. März 2016 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 92 Absatz 1 und 123 Absatz 1 der Bundesverfassung[^ing
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
@@ -48,10 +48,10 @@ Dieses Gesetz gilt für die Überwachung des Post- und Fernmeldeverkehrs, die an
 <sup>2</sup> Für Auskünfte über den Zahlungsverkehr, der dem Postgesetz vom 17. Dezember 2010[^1-5] (PG) untersteht, gelten die Bestimmungen über die Zeugnispflicht und über die Auskunftspflicht gegenüber einer Behörde.
 
 [^1-1]: Siehe Art. 46 Ziff. 1
-[^1-2]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^1-2]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 [^1-3]: Eingefügt durch Ziff. I 13 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^1-4]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^1-5]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^1-4]: [SR 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^1-5]: [SR 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
 
 #### Art. 2
 
@@ -66,8 +66,8 @@ Aus diesem Gesetz ergeben sich Mitwirkungspflichten für die folgenden Personen 
 - e. Personen, die ihren Zugang zu einem öffentlichen Fernmeldenetz Dritten zur Verfügung stellen;
 - f. professionelle Wiederverkäuferinnen von Karten und ähnlichen Mitteln, die den Zugang zu einem öffentlichen Fernmeldenetz ermöglichen.
 
-[^2-1]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
-[^2-2]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^2-1]: [SR 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
+[^2-2]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 3
 
@@ -79,13 +79,15 @@ Aus diesem Gesetz ergeben sich Mitwirkungspflichten für die folgenden Personen 
 
 <sup>3</sup> Die im Post- und Fernmeldewesen zuständigen Konzessions- und Aufsichtsbehörden, die Strafverfolgungsbehörden und der Dienst arbeiten in dessen Aufgabenbereich zusammen.
 
-[^3-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^3-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 4
 
-**Bearbeitung von Personendaten**
+**Bearbeitung von Personendaten**[^4-1]
 
-Der Dienst, die anordnenden Behörden, die Genehmigungsbehörden sowie die Anbieterinnen von Post- und Fernmeldediensten dürfen diejenigen Personendaten, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, bearbeiten, die sie benötigen, um Überwachungen anzuordnen, zu genehmigen und durchzuführen.
+Der Dienst, die anordnenden Behörden, die Genehmigungsbehörden sowie die Anbieterinnen von Post- und Fernmeldediensten dürfen diejenigen Personendaten, einschliesslich besonders schützenswerter Personendaten, bearbeiten, die sie benötigen, um Überwachungen anzuordnen, zu genehmigen und durchzuführen.
+
+[^4-1]: Fassung gemäss Anhang 1 Ziff. II 66 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 5
 
@@ -162,24 +164,25 @@ Die Überwachungsdaten werden der Behörde auf ihr Ersuchen, nach Möglichkeit v
 In Bezug auf Daten, welche im Rahmen eines Strafverfahrens oder im Rahmen des Vollzugs eines Rechtshilfeersuchens gesammelt wurden, richten sich:
 
 - a. das Akteneinsichtsrecht und das Auskunftsrecht im Rahmen eines hängigen Verfahrens: nach dem anwendbaren Verfahrensrecht;
-- b. das Recht auf Auskunft nach Abschluss des Verfahrens: nach dem Bundesgesetz vom 19. Juni 1992[^10-1] über den Datenschutz (DSG), wenn eine Bundesbehörde mit dem Rechtshilfeersuchen befasst ist, oder nach kantonalem Recht, wenn eine kantonale Behörde damit befasst ist.
+- b.[^10-1] das Recht auf Auskunft nach Abschluss des Verfahrens: nach dem Datenschutzgesetz vom 25. September 2020[^10-2] (DSG), wenn eine Bundesbehörde mit dem Rechtshilfeersuchen befasst ist, oder nach kantonalem Recht, wenn eine kantonale Behörde damit befasst ist.
 
-<sup>2</sup> Das Recht auf Auskunft über die Daten, welche bei der Suche nach vermissten Personen oder der Fahndung nach verurteilten Personen gesammelt wurden, richtet sich nach dem DSG, wenn eine Bundesbehörde mit der Suche oder der Fahndung befasst ist, oder nach kantonalem Recht, wenn eine kantonale Behörde damit befasst ist. Artikel 279 StPO[^10-2] ist analog anwendbar.
+<sup>2</sup> Das Recht auf Auskunft über die Daten, welche bei der Suche nach vermissten Personen oder der Fahndung nach verurteilten Personen gesammelt wurden, richtet sich nach dem DSG, wenn eine Bundesbehörde mit der Suche oder der Fahndung befasst ist, oder nach kantonalem Recht, wenn eine kantonale Behörde damit befasst ist. Artikel 279 StPO[^10-3] ist analog anwendbar.
 
-<sup>2bis</sup> Das Recht auf Auskunft über die Daten, welche beim Vollzug des NDG[^10-3] gesammelt wurden, richtet sich nach dem NDG.[^10-4]
+<sup>2bis</sup> Das Recht auf Auskunft über die Daten, welche beim Vollzug des NDG[^10-4] gesammelt wurden, richtet sich nach dem NDG.[^10-5]
 
-<sup>2ter</sup> Das Recht auf Auskunft über die Daten, die im Rahmen von Mobilfunklokalisierungen nach Artikel 23*q* Absatz 3 BWIS[^10-5] gesammelt wurden, richtet sich nach dem DSG, wenn eine Bundesbehörde mit der Überwachung befasst ist, oder nach kantonalem Recht, wenn eine kantonale Behörde damit befasst ist.[^10-6]
+<sup>2ter</sup> Das Recht auf Auskunft über die Daten, die im Rahmen von Mobilfunklokalisierungen nach Artikel 23*q* Absatz 3 BWIS[^10-6] gesammelt wurden, richtet sich nach dem DSG, wenn eine Bundesbehörde mit der Überwachung befasst ist, oder nach kantonalem Recht, wenn eine kantonale Behörde damit befasst ist.[^10-7]
 
 <sup>3</sup> Die von einer Überwachung betroffene Person kann ihre Rechte gegenüber der mit dem Verfahren befassten Behörde geltend machen oder, wenn keine Behörde mehr mit dem Verfahren befasst ist, gegenüber der letzten damit befassten Behörde. Der Dienst ist nicht zuständig für die Auskunftserteilung.
 
 <sup>4</sup> Der Bundesrat regelt, auf welche Art diese Rechte gewährt werden. Dabei garantiert er die Parteirechte insbesondere in den Fällen, in denen die Anfertigung von Kopien der Akten unmöglich oder nur mit einem unverhältnismässigen Aufwand möglich ist.
 
-[^10-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^10-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^10-3]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^10-4]: Siehe Art. 46 Ziff. 1
-[^10-5]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^10-6]: Eingefügt durch Ziff. I 13 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^10-1]: Fassung gemäss Anhang 1 Ziff. II 66 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^10-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^10-3]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^10-4]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^10-5]: Siehe Art. 46 Ziff. 1
+[^10-6]: [SR 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^10-7]: Eingefügt durch Ziff. I 13 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 11
 
@@ -201,9 +204,9 @@ In Bezug auf Daten, welche im Rahmen eines Strafverfahrens oder im Rahmen des Vo
 
 <sup>6</sup> Der Bundesrat regelt näher, wie die Einhaltung der Fristen zu gewährleisten ist; er regelt die Einzelheiten der Information nach Absatz 5.
 
-[^11-1]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^11-1]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 [^11-2]: Siehe Art. 46 Ziff. 1
-[^11-3]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^11-3]: [SR 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
 [^11-4]: Eingefügt durch Ziff. I 13 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^11-5]: Fassung gemäss Ziff. I 13 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
@@ -219,9 +222,11 @@ In Bezug auf Daten, welche im Rahmen eines Strafverfahrens oder im Rahmen des Vo
 
 #### Art. 13
 
-**Verantwortung**
+**Verantwortung**[^13-1]
 
-Die Behörden, die nach Artikel 9 Zugriff auf das Verarbeitungssystem haben, gelten für die Daten aus Überwachungen in ihrem Zuständigkeitsbereich als Inhaber der Datensammlung.
+Die Behörden, die nach Artikel 9 Zugriff auf das Verarbeitungssystem haben, sind für die Daten aus Überwachungen in ihrem Zuständigkeitsbereich die Verantwortlichen für die Datenbearbeitung.
+
+[^13-1]: Fassung gemäss Anhang 1 Ziff. II 66 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 14
 
@@ -236,7 +241,7 @@ Die im Verarbeitungssystem enthaltenen Daten können im Abrufverfahren in die In
 
 <sup>2</sup> Die Übermittlung kann nur von einer Person ausgelöst werden, die über Zugriffsrechte auf das Verarbeitungssystem nach diesem Gesetz und auf das betreffende Informationssystem nach dem BPI verfügt.
 
-[^14-1]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^14-1]: [SR 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
 
 #### Art. 14a
 
@@ -252,7 +257,7 @@ Die im Verarbeitungssystem enthaltenen Daten können im Abrufverfahren in das In
 <sup>2</sup> Die Übermittlung kann nur von einer Person ausgelöst werden, die über Zugriffsrechte auf das Verarbeitungssystem nach diesem Gesetz und auf das betreffende Informationssystem nach dem NDG verfügt.
 
 [^14a-1]: Siehe Art. 46 Ziff. 1
-[^14a-2]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^14a-2]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 
 ## 3. Abschnitt: Aufgaben des Dienstes
 
@@ -272,8 +277,8 @@ Der Dienst erteilt ausschliesslich den folgenden Behörden auf Gesuch Auskünfte
 <sup>2</sup> Der Dienst erteilt zudem der zuständigen Behörde des Bundes nach den Artikeln 10 Absatz 3 und 23 des Bundesgesetzes vom 19. Dezember 1986[^15-3] gegen den unlauteren Wettbewerb (UWG) auf Gesuch Auskünfte über die Daten nach Artikel 21, damit diese Strafanzeige wegen unlauteren Wettbewerbs nach Artikel 3 Absatz 1 Buchstabe u UWG einreichen kann.[^15-4]
 
 [^15-1]: Siehe Art. 46 Ziff. 1
-[^15-2]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^15-3]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^15-2]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^15-3]: [SR 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
 [^15-4]: Siehe Art. 46 Ziff. 1
 
 #### Art. 16
@@ -302,7 +307,7 @@ Bei der Überwachung des Post- und Fernmeldeverkehrs hat der Dienst folgende all
 - k. Er führt eine Statistik über die Überwachungen.
 
 [^16-1]: Siehe Art. 46 Ziff. 1
-[^16-2]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^16-2]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 
 #### Art. 17
 
@@ -372,7 +377,7 @@ Die Anbieterinnen von Fernmeldediensten liefern dem Dienst folgende Angaben übe
 <sup>2</sup> Sie müssen sicherstellen, dass diese Angaben bei der Aufnahme der Kundenbeziehung erfasst werden und während der Dauer der Kundenbeziehung sowie während 6 Monaten nach deren Beendigung geliefert werden können. Der Bundesrat legt fest, dass die Anbieterinnen von Fernmeldediensten bestimmte dieser Daten zum Zweck der Identifikation nur während 6 Monaten aufbewahren und liefern müssen.
 
 [^21-1]: Fassung gemäss Anhang Ziff. 4 des BG vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^21-2]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^21-2]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 22
 
@@ -561,7 +566,7 @@ Als vermisst gilt eine Person:
 
 <sup>4</sup> Die zuständige Behörde kann auch Daten über Dritte einsehen, sofern dies aufgrund der Umstände erforderlich erscheint, um die vermisste Person aufzufinden.
 
-[^35-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^35-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 36
 
@@ -573,7 +578,7 @@ Als vermisst gilt eine Person:
 
 <sup>3</sup> Sie kann auch Daten über Dritte einsehen, sofern die Voraussetzungen von Artikel 270 StPO sinngemäss erfüllt sind.
 
-[^36-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^36-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 37
 
@@ -585,9 +590,9 @@ Als vermisst gilt eine Person:
 
 <sup>3</sup> Der Bund und die Kantone bezeichnen die anordnende Behörde, die Genehmigungsbehörde und die Beschwerdeinstanz. Die Anordnung der Überwachung bedarf der Genehmigung durch eine richterliche Behörde.
 
-[^37-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^37-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
-## 9. Abschnitt:**** Kosten
+## 9. Abschnitt: Kosten
 
 [^sec9-1]
 
@@ -651,7 +656,7 @@ Sofern keine schwerere strafbare Handlung nach einem anderen Gesetz vorliegt, ka
 
 <sup>2</sup> Für die Verfolgung und Beurteilung ist der Dienst zuständig.
 
-[^40-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^40-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## 11. Abschnitt: Aufsicht und Rechtsschutz
 
@@ -663,7 +668,7 @@ Sofern keine schwerere strafbare Handlung nach einem anderen Gesetz vorliegt, ka
 
 <sup>2</sup> Stellt er eine Rechtsverletzung fest, so kann er gegenüber den Anbieterinnen von Fernmeldediensten sinngemäss die Massnahmen nach Artikel 58 Absatz 2 Buchstabe a FMG[^41-1] ergreifen. Er kann vorsorgliche Massnahmen anordnen.
 
-[^41-1]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^41-1]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 42
 
@@ -705,11 +710,11 @@ Die Aufhebung und die Änderung anderer Erlasse werden im Anhang geregelt.
 
 **Koordination mit dem Nachrichtendienstgesetz vom 25. September 2015**
 
-Unabhängig davon, ob zuerst dieses Gesetz oder das Nachrichtendienstgesetz vom 25. September 2015*[^46-1]* in Kraft tritt, lauten mit Inkrafttreten des später in Kraft tretenden Gesetzes sowie bei gleichzeitigem Inkrafttreten die nachfolgend aufgeführten Bestimmungen wie folgt:
+Unabhängig davon, ob zuerst dieses Gesetz oder das Nachrichtendienstgesetz vom 25. September 2015[^46-1] in Kraft tritt, lauten mit Inkrafttreten des später in Kraft tretenden Gesetzes sowie bei gleichzeitigem Inkrafttreten die nachfolgend aufgeführten Bestimmungen wie folgt:
 
 …[^46-2]
 
-[^46-1]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^46-1]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 [^46-2]: Die Bestimmungen können unter [AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31)konsultiert werden.
 
 #### Art. 47
@@ -738,7 +743,7 @@ II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-…**[^annexu1-lvlu1-2]**
+…[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[AS 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467); [2003 3043](https://fedlex.data.admin.ch/eli/oc/2003/417)Ziff. I 2; [2004 3693](https://fedlex.data.admin.ch/eli/oc/2004/511); [2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165)Anhang Ziff. 3; [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)Anhang 1 Ziff. II 26, [3267](https://fedlex.data.admin.ch/eli/oc/2010/444)Anhang Ziff. II 14; [2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494)Anhang Ziff. II 12]
 [^annexu1-lvlu1-2]: Die Änderungen können unter [AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31)konsultiert werden.
