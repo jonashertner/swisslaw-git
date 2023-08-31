@@ -4,11 +4,11 @@ title: "Ordinance on the of 4 July 2007 Protection of Federal Information (Infor
 short: IPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/414"
 language: en
-version: 2021-01-01
+version: 2023-09-01
 adopted: 2007-07-04
 in_force: 2007-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/414/20210101/en/xml/fedlex-data-admin-ch-eli-cc-2007-414-20210101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/414/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/414/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2007-414-20230901-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/414/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Information Protection Ordinance, IPO)
 
-of 4 July 2007 (Status as of 1 January 2021)
+of 4 July 2007 (Status as of 1 September 2023)
 
 The Swiss Federal Council,
 
@@ -66,10 +66,12 @@ In this Ordinance:
 - e. holder of classified information, confidant means a person who has been entrusted with classified information;
 - f. classification means assessing certain information according to the list of classification criteria (Art. 8) and formally marking with a classification label;
 - g. declassification means the cancellation of the classification label for information that is no longer sensitive;
-- h. IT and telecommunication systems means systems and their integrated applications and databases;
+- h[^3-1] IT and telecommunication systems means systems and their integrated applications and data collections;
 - i. IT security means IT security safeguards confidentiality, availability, integrity and reproducibility in electronic data processing;
 - j. codification means the use of designations and codenames;
 - k. Encryption means state-of-the-art technical transformation of plain text.
+
+[^3-1]: Amended by Annex 2 No II 61 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 2 Classifications
 
@@ -91,7 +93,9 @@ Any person who compiles or issues information requiring protection (sensitive in
 
 **«SECRET» information**
 
-<sup>1</sup> Information is classified as «SECRET» if its disclosure to unauthorised persons may seriously harm national interests. The foregoing applies in particular to information, the disclosure of which may seriously compromise;
+<sup>1</sup>
+
+Information is classified as «SECRET» if its disclosure to unauthorised persons may seriously harm national interests. The foregoing applies in particular to information, the disclosure of which may seriously compromise:
 
 - a. the capacity to act of the Federal Assembly or Federal Council;
 - b. the security of the population;
@@ -134,7 +138,7 @@ Information is classified as «INTERNAL»:
 
 <sup>2</sup> Information from abroad that is classified as «RESTRICTED» or equivalent shall be processed as «INTERNAL» information.
 
-[^7-1]: Amended by No I of the Ordinance of 30 June 2010, in force since 1 Aug. 2010 ([AS 2010 3207](https://fedlex.data.admin.ch/eli/oc/2010/428)).
+[^7-1]: Amended by No I of the O of 30 June 2010, in force since 1 Aug. 2010 ([AS 2010 3207](https://fedlex.data.admin.ch/eli/oc/2010/428)).
 
 #### Art. 8
 
@@ -142,7 +146,7 @@ Information is classified as «INTERNAL»:
 
 The General Secretaries Conference shall lay down in a list of classification criteria how certain sensitive federal data that occurs frequently must be classified.
 
-[^8-1]: Amended by No I of the Ordinance of 30 June 2010, in force since 1 Aug. 2010 ([AS 2010 3207](https://fedlex.data.admin.ch/eli/oc/2010/428)).
+[^8-1]: Amended by No I of the O of 30 June 2010, in force since 1 Aug. 2010 ([AS 2010 3207](https://fedlex.data.admin.ch/eli/oc/2010/428)).
 
 #### Art. 9
 
@@ -164,9 +168,9 @@ Persons who due to their range of duties are to be granted access to classified 
 - b. obliged to observe secrecy; and
 - c. correspondingly trained and specialised.
 
-<sup>2</sup> Whether holders of classified information that are to be granted access to «SECRET» or «CONFIDENTIAL» information must undergo a personnel security screening procedure, is governed by the Ordinance of 19. December 2001[^10-1] on Personnel Security Screening.
+<sup>2</sup> Whether holders of classified information that are to be granted access to «SECRET» or «CONFIDENTIAL» information must undergo a personnel security screening procedure, is governed by the Ordinance of 19 December 2001[^10-1] on Personnel Security Screening.
 
-[^10-1]: [SR 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
+[^10-1]: [[AS 2002 377](https://fedlex.data.admin.ch/eli/oc/2002/91), [2005 4571](https://fedlex.data.admin.ch/eli/oc/2005/597), [2006 4177](https://fedlex.data.admin.ch/eli/oc/2006/620)Art. 13 [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)No II 1, [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)No I 3 [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)annex No 2, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)annex 4 No II 2. [AS 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)Art. 31 para. 1]. See now: the O of 4 March 2011 ([SR 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)).
 
 #### Art. 11
 
@@ -238,9 +242,9 @@ Classified information is archived according to the legislation on archiving.
 
 <sup>4</sup> The processing of information classified as «SECRET» in the joint reporting procedure under Article 15 of the Government and Administration Organisation Act of 21 March 1997 is regulated by the Federal Chancellery; in doing so, it shall provide adequate information protection in accordance with this Ordinance.[^18-3]
 
-[^18-1]: Amended by No I of the Ordinance of 30 June 2010, in force since 1 Aug. 2010 ([AS 2010 3207](https://fedlex.data.admin.ch/eli/oc/2010/428)).
-[^18-2]: Amended by No I of the Ordinance of 30 June 2010, in force since 1 Aug. 2010 ([AS 2010 3207](https://fedlex.data.admin.ch/eli/oc/2010/428)).
-[^18-3]: Inserted by No I of the Ordinance of 29 Oct. 2014, in force since 1 Jan. 2015 ([AS 2014 3543](https://fedlex.data.admin.ch/eli/oc/2014/614)).
+[^18-1]: Amended by No I of the O of 30 June 2010, in force since 1 Aug. 2010 ([AS 2010 3207](https://fedlex.data.admin.ch/eli/oc/2010/428)).
+[^18-2]: Amended by No I of the O of 30 June 2010, in force since 1 Aug. 2010 ([AS 2010 3207](https://fedlex.data.admin.ch/eli/oc/2010/428)).
+[^18-3]: Inserted by No I of the O of 29 Oct. 2014, in force since 1 Jan. 2015 ([AS 2014 3543](https://fedlex.data.admin.ch/eli/oc/2014/614)).
 
 ## Section 5 Security Bodies
 
@@ -276,8 +280,8 @@ The Coordination Committee has the following tasks:
 
 <sup>3</sup> In agreement with the Departments and the Federal Chancellery, it draws up business regulations for itself and the Coordination Agency.
 
-[^20-1]: Amended by No I of the Ordinance of 30 June 2010, in force since 1 Aug. 2010 ([AS 2010 3207](https://fedlex.data.admin.ch/eli/oc/2010/428)).
-[^20-2]: Amended by No I of the Ordinance of 1 May 2013, in force since 1 June 2013 ([AS 2013 1341](https://fedlex.data.admin.ch/eli/oc/2013/313)).
+[^20-1]: Amended by No I of the O of 30 June 2010, in force since 1 Aug. 2010 ([AS 2010 3207](https://fedlex.data.admin.ch/eli/oc/2010/428)).
+[^20-2]: Amended by No I of the O of 1 May 2013, in force since 1 June 2013 ([AS 2013 1341](https://fedlex.data.admin.ch/eli/oc/2013/313)).
 
 #### Art. 20a
 
@@ -295,8 +299,8 @@ The Coordination Committee is supported by the Coordination Agency. The latter h
 
 <sup>2</sup> The Coordination Agency is assigned in administrative terms to the General Secretariat of the Federal Department of Defence, Civil Protection and Sport.[^20a-2]
 
-[^20a-1]: Inserted by No I of the Ordinance of 30 June 2010, in force since 1 Aug.. 2010 ([AS 2010 3207](https://fedlex.data.admin.ch/eli/oc/2010/428)).
-[^20a-2]: Amended by Annex No 2 of the Ordinance of 3 June 2016, in force since 1 July 2016 ([AS 2016 1785](https://fedlex.data.admin.ch/eli/oc/2016/320)).
+[^20a-1]: Inserted by No I of the O of 30 June 2010, in force since 1 Aug. 2010 ([AS 2010 3207](https://fedlex.data.admin.ch/eli/oc/2010/428)).
+[^20a-2]: Amended by Annex No 2 of the O of 3 June 2016, in force since 1 July 2016 ([AS 2016 1785](https://fedlex.data.admin.ch/eli/oc/2016/320)).
 
 ## Section 6 Final Provisions
 
@@ -345,10 +349,10 @@ The following are repealed:
 
 <sup>5</sup> The period of validity of this Ordinance is extended until 31 December 2023.[^24-4]
 
-[^24-1]: Inserted by No I of the Ordinance of 30 June 2010, in force since 1 Aug. 2010 ([AS 2010 3207](https://fedlex.data.admin.ch/eli/oc/2010/428)).
-[^24-2]: Inserted by No I of the Ordinance of 29 Oct. 2014, in force since 1 Jan. 2015 ([AS 2014 3543](https://fedlex.data.admin.ch/eli/oc/2014/614)).
-[^24-3]: Inserted by No I of the Ordinance of 1 Dec. 2017, in force since 1 Jan. 2018 ([AS 2017 7391](https://fedlex.data.admin.ch/eli/oc/2017/806)).
-[^24-4]: Inserted by No I of the Ordinance of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6011](https://fedlex.data.admin.ch/eli/oc/2020/1003)).
+[^24-1]: Inserted by No I of the O of 30 June 2010, in force since 1 Aug. 2010 ([AS 2010 3207](https://fedlex.data.admin.ch/eli/oc/2010/428)).
+[^24-2]: Inserted by No I of the O of 29 Oct. 2014, in force since 1 Jan. 2015 ([AS 2014 3543](https://fedlex.data.admin.ch/eli/oc/2014/614)).
+[^24-3]: Inserted by No I of the O of 1 Dec. 2017, in force since 1 Jan. 2018 ([AS 2017 7391](https://fedlex.data.admin.ch/eli/oc/2017/806)).
+[^24-4]: Inserted by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6011](https://fedlex.data.admin.ch/eli/oc/2020/1003)).
 
 Annex
 
@@ -356,7 +360,7 @@ Annex
 
 ## Handling regulations
 
-[^t-1]: See also detailed processing regulations for the Coordination Agency (Art. 18, para 2).
+[^t-1]: See also detailed processing regulations for the Coordination Agency (Art. 18 para 2).
 
 <table>
 <tr><th></th><th>SECRET</th><th>CONFIDENTIAL</th><th colspan="3">INTERNAL</th><th>Person Responsible</th></tr>

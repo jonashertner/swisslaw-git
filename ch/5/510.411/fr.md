@@ -4,11 +4,11 @@ title: "Ordonnance du 4 juillet 2007 concernant la protection des informations d
 short: OPrI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/414"
 language: fr
-version: 2021-01-01
+version: 2023-09-01
 adopted: 2007-07-04
 in_force: 2007-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/414/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-414-20210101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/414/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/414/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2007-414-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/414/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/414/20210101/fr"
 
 (Ordonnance concernant la protection des informations, OPrI)
 
-du 4 juillet 2007 (Etat le 1<sup>er</sup> janvier 2021)
+du 4 juillet 2007 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral,
 
@@ -64,10 +64,12 @@ Au sens de la présente ordonnance, on entend par:
 - e. dépositaire de secret: personne à laquelle des informations classifiées ont été confiées;
 - f. classifier: le fait d’évaluer une information concrète conformément au catalogue de classifications (art. 8) et de l’identifier formellement au moyen d’une mention de classification;
 - g. déclassifier: le fait d’annuler la mention de classification après la disparition de l’intérêt à maintenir la protection;
-- h. système informatique et de télécommunications: système et applications et fichiers de données disponibles sur ceux‑ci;
+- h.[^3-1] système informatique et système de télécommunications: les systèmes, ainsi que les applications et les ensembles de données intégrés à ces systèmes;
 - i. sécurité informatique: la sécurité informatique garantit la confidentialité, la disponibilité, l’intégrité et la compréhension lors du traitement électronique des informations;
 - j. codage: utilisation de transcriptions ou de pseudonymes;
 - k. chiffrement: déformation technique du texte en clair d’un niveau de qualité correspondant à l’état de la technique.
+
+[^3-1]: Nouvelle teneur selon l’annexe 2 ch. II 61 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 2 Classification
 
@@ -298,7 +300,7 @@ Le comité de coordination est appuyé par l’organe de coordination. Celui-ci 
 <sup>2</sup> L’organe de coordination est rattaché administrativement au Secrétariat général du Département fédéral de la défense, de la protection de la population et des sports.[^20a-2]
 
 [^20a-1]: Introduit par le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3207](https://fedlex.data.admin.ch/eli/oc/2010/428)).
-[^20a-2]: Nouvelle teneur selon le ch. 2 de l’annexe à l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1785](https://fedlex.data.admin.ch/eli/oc/2016/320)).
+[^20a-2]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1785](https://fedlex.data.admin.ch/eli/oc/2016/320)).
 
 ## Section 6 Dispositions finales
 
@@ -321,8 +323,8 @@ Sont abrogées:
 
 <sup>2</sup> ...[^22-3]
 
-[^22-1]: [[RO 1991 44](https://fedlex.data.admin.ch/eli/oc/1991/44_44_44), [1999 2424](https://fedlex.data.admin.ch/eli/oc/1999/371)art. 27 ch. 1]
-[^22-2]: [[RO 1990 887](https://fedlex.data.admin.ch/eli/oc/1990/887_887_887), [1999 2424](https://fedlex.data.admin.ch/eli/oc/1999/371)art. 27 ch. 3]
+[^22-1]: [[RO 1991 44](https://fedlex.data.admin.ch/eli/oc/1991/44_44_44); [1999 2424](https://fedlex.data.admin.ch/eli/oc/1999/371)art. 27 ch. 1]
+[^22-2]: [[RO 1990 887](https://fedlex.data.admin.ch/eli/oc/1990/887_887_887); [1999 2424](https://fedlex.data.admin.ch/eli/oc/1999/371)art. 27 ch. 3]
 [^22-3]: Les mod. peuvent être consultées au [RO 2007 3401](https://fedlex.data.admin.ch/eli/oc/2007/414).
 
 #### Art. 23

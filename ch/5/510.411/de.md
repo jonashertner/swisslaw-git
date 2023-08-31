@@ -4,11 +4,11 @@ title: "Verordnung vom 4. Juli 2007 über den Schutz von Informationen des Bunde
 short: ISchV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/414"
 language: de
-version: 2021-01-01
+version: 2023-09-01
 adopted: 2007-07-04
 in_force: 2007-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/414/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2007-414-20210101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/414/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/414/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2007-414-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/414/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/414/20210101/de"
 
 (Informationsschutzverordnung, ISchV)
 
-vom 4. Juli 2007 (Stand am 1. Januar 2021)
+vom 4. Juli 2007 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -64,10 +64,12 @@ In dieser Verordnung bedeuten:
 - e. Geheimnisträgerin oder Geheimnisträger: Person, der klassifizierte Informationen anvertraut wurden;
 - f. Klassifizieren: eine konkrete Information dem Klassifizierungskatalog (Art. 8) entsprechend beurteilen und mit dem Klassifizierungsvermerk formell kennzeichnen;
 - g. Entklassifizieren: den Klassifizierungsvermerk nach Wegfall der Schutzwürdigkeit streichen;
-- h. Informatik- und Telekommunikationssysteme: Systeme und die auf ihnen vorhandenen Anwendungen und Datensammlungen;
+- h.[^3-1] Informatik- und Telekommunikationssysteme: Systeme und die auf ihnen vorhandenen Anwendungen und Datenbestände;
 - i. Informatiksicherheit: die Informatiksicherheit stellt die Vertraulichkeit, Verfügbarkeit, Integrität und Nachvollziehbarkeit bei der elektronischen Bearbeitung von Informationen sicher;
 - j. Codierung: Anwendung von Umschreibungen und Decknamen;
 - k. Verschlüsselung: technische Umformung von Klartext, welche eine dem Stand der Technik entsprechende Qualität aufweist.
+
+[^3-1]: Fassung gemäss Anhang 2 Ziff. II 61 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 2. Abschnitt: Klassifizierungen
 
@@ -317,7 +319,7 @@ Es werden aufgehoben:
 - a. die Verordnung vom 10. Dezember 1990[^22-1] über die Klassifizierung und Behandlung von Informationen im zivilen Verwaltungsbereich;
 - b. die Verordnung vom 1. Mai 1990[^22-2] über den Schutz militärischer Informationen (Informationsschutzverordnung).
 
-<sup>2</sup> ...[^22-3]
+<sup>2</sup> …[^22-3]
 
 [^22-1]: [[AS 1991 44](https://fedlex.data.admin.ch/eli/oc/1991/44_44_44), [1999 2424](https://fedlex.data.admin.ch/eli/oc/1999/371)Art. 27 Ziff. 1]
 [^22-2]: [[AS 1990 887](https://fedlex.data.admin.ch/eli/oc/1990/887_887_887), [1999 2424](https://fedlex.data.admin.ch/eli/oc/1999/371)Art. 27 Ziff. 3]

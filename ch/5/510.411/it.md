@@ -4,11 +4,11 @@ title: "Ordinanza del 4 luglio 2007 sulla protezione delle informazioni della Co
 short: OPrI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/414"
 language: it
-version: 2021-01-01
+version: 2023-09-01
 adopted: 2007-07-04
 in_force: 2007-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/414/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2007-414-20210101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/414/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/414/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2007-414-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/414/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/414/20210101/it"
 
 (Ordinanza sulla protezione delle informazioni, OPrI)
 
-del 4 luglio 2007 (Stato 1° gennaio 2021)
+del 4 luglio 2007 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -64,10 +64,12 @@ Nella presente ordinanza si intende per:
 - e. detentore di segreti: persona cui sono confidate informazioni classificate;
 - f. classificare: valutare un’informazione concreta sulla base del catalogo di classificazione (art. 8), contrassegnandola formalmente con una menzione di classificazione;
 - g. declassificare: sopprimere la menzione di classificazione dopo che l’informazione ha cessato di essere degna di protezione;
-- h. sistemi informatici e di telecomunicazione: i sistemi nonché le applicazioni e le raccolte di dati presenti nei sistemi;
+- h.[^3-1] sistemi informatici e di telecomunicazione: i sistemi nonché le applicazioni e le raccolte di dati presenti nei sistemi;
 - i. sicurezza informatica: la sicurezza informatica garantisce la confidenzialità, la disponibilità, l’integrità e la verificabilità nell’ambito del trattamento elettronico di informazioni;
 - j. codificazione: impiego di trasposizioni e di nomi di copertura;
 - k. crittaggio: trasformazione tecnica di testi in chiaro, di qualità conforme allo stato della tecnica.
+
+[^3-1]: Nuovo testo giusta l’all. 2 n. II 61 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 2: Classificazione
 
