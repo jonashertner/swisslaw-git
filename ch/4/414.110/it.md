@@ -3,11 +3,11 @@ sr: "414.110"
 title: Legge federale del 4 ottobre 1991 sui politecnici federali (Legge sui PF)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/210_210_210"
 language: it
-version: 2022-01-01
+version: 2023-09-01
 adopted: 1991-10-04
 in_force: 1993-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20230901-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20220101/it"
 
 (Legge sui PF)
 
-del 4 ottobre 199 (Stato 1° gennaio 2022)
+del 4 ottobre 1991 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -418,7 +418,7 @@ Nelle pubblicazioni scientifiche devono essere menzionate tutte le persone che v
 I PF conferiscono:
 
 - a. diplomi;
-- [tab] a<sup>bis</sup>.[^19-1] titoli di *b**achelor* e di *master*;
+- a<sup>bis</sup>.[^19-1] titoli di *b**achelor* e di *master*;
 - b. dottorati;
 - c. la venia legendi.
 
@@ -438,11 +438,11 @@ I PF conferiscono:
 
 [^20-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
-### Sezione 3:**** Integrità scientifica e buona prassi scientifica
+### Sezione 3: Integrità scientifica e buona prassi scientifica
 
 [^chap2-sec3-1]
 
-[^chap2-sec3-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^chap2-sec3-1]: Introdotta dal n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
 #### Art. 20a
 
@@ -744,7 +744,7 @@ I rappresentanti di tutti i gruppi di membri dei PF partecipano, se interessati:
 
 [^32-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
-## Capitolo 5:**** Obiettivi strategici e finanze****
+## Capitolo 5: Obiettivi strategici e finanze
 
 [^chap5-1][^chap5-2]
 
@@ -893,7 +893,7 @@ La relazione sulla gestione contiene la relazione annuale e il conto annuale del
 
 <sup>5</sup> Il Consiglio federale può emanare prescrizioni sulle finanze e sulla contabilità.[^35a-3]
 
-[^35a-1]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° gen. 2015 ([RU 2013 389](https://fedlex.data.admin.ch/eli/oc/2013/66); [FF 2012 2727](https://fedlex.data.admin.ch/eli/fga/2012/428)).
+[^35a-1]: Introdotto dal n. I della LF del 28 set. 2012, in vigore dal 1° gen. 2015 ([RU 2013 389](https://fedlex.data.admin.ch/eli/oc/2013/66); [FF 2012 2727](https://fedlex.data.admin.ch/eli/fga/2012/428)).
 [^35a-2]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 [^35a-3]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
@@ -931,7 +931,7 @@ Nel quadro di quanto disposto dal Consiglio federale, il Consiglio dei PF, i PF 
 
 [^35aquater-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° mag. 2017 ([RU 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
-## Capitolo 6: Fondi e diritti su beni immateriali****
+## Capitolo 6: Fondi e diritti su beni immateriali
 
 [^chap6-1]
 
@@ -961,13 +961,13 @@ Nel quadro di quanto disposto dal Consiglio federale, il Consiglio dei PF, i PF 
 
 [^36-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
-## Capitolo 6*a*:**** Trattamento dei dati
+## Capitolo 6*a*: Trattamento dei dati
 
 [^chap6a-1]
 
 [^chap6a-1]: Introdotto dall’all. n. 2 della LF del 14 dic. 2012, in vigore dal 1° lug. 2013 ([RU 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 5959](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 
-### Sezione 1: Sistemi d’informazione concernenti il personale e di gestione degli studi****
+### Sezione 1: Sistemi d’informazione concernenti il personale e di gestione degli studi
 
 [^chap6a-sec1-1]
 
@@ -977,7 +977,7 @@ Nel quadro di quanto disposto dal Consiglio federale, il Consiglio dei PF, i PF 
 
 **Sistemi d’informazione concernenti il personale**[^36a-1]
 
-<sup>1</sup> Il Consiglio dei PF, i PF e gli istituti di ricerca gestiscono ognuno uno o più sistemi d’informazione concernenti il personale; in essi possono essere trattati anche dati personali degni di particolare protezione e profili della personalità. Ai sistemi d’informazione concernenti il personale si applica l’articolo 27 LPers[^36a-2]; se il rapporto di lavoro è retto dal diritto privato, tale articolo si applica per analogia.
+<sup>1</sup> Il Consiglio dei PF, i PF e gli istituti di ricerca gestiscono ognuno un sistema d’informazione concernente il personale nel quale possono essere trattati anche dati personali degni di particolare protezione.[^36a-2] Ai sistemi d’informazione concernenti il personale si applica l’articolo 27 LPers[^36a-3]; se il rapporto di lavoro è retto dal diritto privato, tale articolo si applica per analogia.
 
 <sup>2</sup> Il Consiglio dei PF può delegare il trattamento dei dati del suo personale a un PF o a un istituto di ricerca.
 
@@ -986,13 +986,14 @@ Nel quadro di quanto disposto dal Consiglio federale, il Consiglio dei PF, i PF 
 <sup>4</sup> Il Consiglio dei PF emana le disposizioni d’esecuzione e le sottopone per approvazione al Consiglio federale.
 
 [^36a-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° nov. 2021 ([RU 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 681](https://fedlex.data.admin.ch/eli/fga/2020/69)).
-[^36a-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^36a-2]: Nuovo testo giusta l’all. 1 n. II 32 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^36a-3]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 
 #### Art. 36b
 
 **Sistemi di gestione degli studi**
 
-<sup>1</sup> Ogni PF dispone di un sistema d’informazione per la gestione dei dati dei candidati, degli studenti, dei dottorandi e degli uditori nel quale possono essere trattati anche dati personali degni di particolare protezione e profili della personalità.
+<sup>1</sup> Ogni PF dispone di un sistema d’informazione per la gestione dei dati dei candidati, degli studenti, dei dottorandi e degli uditori nel quale possono essere trattati anche dati personali degni di particolare protezione.[^36b-1]
 
 <sup>2</sup>
 
@@ -1008,7 +1009,7 @@ I sistemi d’informazione servono per:
 
 <sup>4</sup> I dati possono essere gestiti esclusivamente in forma elettronica. In tal caso i documenti cartacei, dopo essere stati inseriti nel sistema d’informazione, vengono restituiti o distrutti.
 
-<sup>5</sup> I dati contenuti nei sistemi d’informazione possono essere comunicati mediante procedura di richiamo, per quanto sia necessario per l’adempimento dei compiti di cui al capoverso 2. I dati personali degni di particolare protezione e i profili della personalità possono essere comunicati mediante procedura di richiamo unicamente ai servizi competenti per la gestione degli studi in seno a ogni PF.
+<sup>5</sup> I dati contenuti nei sistemi d’informazione possono essere comunicati mediante procedura di richiamo, per quanto sia necessario per l’adempimento dei compiti di cui al capoverso 2. I dati personali degni di particolare protezione possono essere comunicati mediante procedura di richiamo unicamente ai servizi competenti per la gestione degli studi in seno a ogni PF.[^36b-2]
 
 <sup>6</sup>
 
@@ -1021,7 +1022,10 @@ I PF emanano disposizioni d’esecuzione concernenti:
 - e. le autorizzazioni d’accesso ai dati in seno ai PF;
 - f. la comunicazione a organizzazioni e persone che non fanno parte dei PF, mediante procedura di richiamo, di dati personali non degni di particolare protezione, registrati nei sistemi d’informazione.
 
-### Sezione 2:**** Trattamento dei dati personali nell’ambito di progetti di ricerca
+[^36b-1]: Nuovo testo giusta l’all. 1 n. II 32 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^36b-2]: Nuovo testo del per. giusta l’all. 1 n. II 32 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+
+### Sezione 2: Trattamento dei dati personali nell’ambito di progetti di ricerca
 
 [^chap6a-sec2-1]
 
@@ -1029,13 +1033,14 @@ I PF emanano disposizioni d’esecuzione concernenti:
 
 #### Art. 36c
 
-**Trattamento dei dati**
+**Trattamento dei dati**[^36c-1]
 
-<sup>1</sup> Nell’ambito di progetti di ricerca i PF e gli istituti di ricerca possono trattare dati personali, inclusi dati personali degni di particolare protezione e profili della personalità, se necessario per il progetto di ricerca.
+<sup>1</sup> Nell’ambito di progetti di ricerca i PF e gli istituti di ricerca possono trattare dati personali, inclusi dati personali degni di particolare protezione, se necessario per il progetto di ricerca.
 
-<sup>2</sup> Garantiscono l’osservanza delle disposizioni della legge federale del 19 giugno 1992[^36c-1] sulla protezione dei dati.
+<sup>2</sup> Garantiscono l’osservanza delle disposizioni della legge federale del 25 settembre 2020[^36c-2] sulla protezione dei dati.
 
-[^36c-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^36c-1]: Nuovo testo giusta l’all. 1 n. II 32 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^36c-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 36d
 
@@ -1057,7 +1062,7 @@ I PF emanano disposizioni d’esecuzione concernenti:
 
 <sup>2</sup> Questo obbligo di informazione sussiste anche se i dati personali sono raccolti presso terzi. In tal caso i PF e gli istituti di ricerca provvedono affinché i terzi adempiano l’obbligo di informazione. Se ciò non può essere garantito, i PF e gli istituti di ricerca informano essi stessi, senza indugio, le persone interessate.
 
-### Sezione 3:**** Trattamento dei dati personali nell’ambito dell’insegnamento
+### Sezione 3: Trattamento dei dati personali nell’ambito dell’insegnamento
 
 [^chap6a-sec3-1]
 
@@ -1071,7 +1076,7 @@ I PF emanano disposizioni d’esecuzione concernenti:
 
 [^36f-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
-## Capitolo 6*b*:**** Sicurezza
+## Capitolo 6*b*: Sicurezza
 
 [^chap6b-1]
 
@@ -1121,7 +1126,7 @@ I PF emanano disposizioni d’esecuzione concernenti:
 
 [^36i-1]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
 
-## Capitolo 7: Protezione giuridica, diritto disciplinare e disposizioni penali****
+## Capitolo 7: Protezione giuridica, diritto disciplinare e disposizioni penali
 
 [^chap7-1]
 
@@ -1202,13 +1207,13 @@ In caso di infrazioni disciplinari gravi o ripetute possono adottare le seguenti
 
 [^38-1]: Nuovo testo giusta l’art. 333 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nella versione della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
 
-## Capitolo 8:**** Disposizioni finali
+## Capitolo 8: Disposizioni finali
 
 [^chap8-1]
 
 [^chap8-1]: Originario capitolo 6.
 
-### Sezione 1: Alta sorveglianza, norme d’esecuzione****
+### Sezione 1: Alta sorveglianza, norme d’esecuzione
 
 [^chap8-sec1-1]
 
@@ -1228,7 +1233,7 @@ In caso di infrazioni disciplinari gravi o ripetute possono adottare le seguenti
 
 [^39-1]: Abrogata dal n. I della LF del 21 mar. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
-### Sezione 2: Modifica del diritto vigente****
+### Sezione 2: Modifica del diritto vigente
 
 [^chap8-sec2-1]
 
@@ -1253,13 +1258,13 @@ Sono abrogate:
 [^40-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3125](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 [^40-2]: [CS **4** 105; [RU 1959 533](https://fedlex.data.admin.ch/eli/oc/1959/535_557_533), [1970 1085](https://fedlex.data.admin.ch/eli/oc/1970/1089_1085_1085)art. 17 cpv. 1 e [3](https://fedlex.data.admin.ch/eli/oc/1970/3_3_3), [1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)art. 70]
 [^40-3]: [[RU 1965 415](https://fedlex.data.admin.ch/eli/oc/1965/417_421_415)]
-[^40-4]: [[RU 1970 1085](https://fedlex.data.admin.ch/eli/oc/1970/1089_1085_1085), [1975 1759](https://fedlex.data.admin.ch/eli/oc/1975/1759_1759_1759), [1980 886](https://fedlex.data.admin.ch/eli/oc/1980/886_886_886), 1991 2276]
+[^40-4]: [[RU 1970 1085](https://fedlex.data.admin.ch/eli/oc/1970/1089_1085_1085), [1975 1759](https://fedlex.data.admin.ch/eli/oc/1975/1759_1759_1759), [1980 886](https://fedlex.data.admin.ch/eli/oc/1980/886_886_886), 1991, 2276]
 [^40-5]: [[RU 1975 1759](https://fedlex.data.admin.ch/eli/oc/1975/1759_1759_1759)]
 [^40-6]: [[RU 1980 886](https://fedlex.data.admin.ch/eli/oc/1980/886_886_886)]
 [^40-7]: [[RU 1985 1452](https://fedlex.data.admin.ch/eli/oc/1985/1452_1452_1452)]
 [^40-8]: Le mod. possono essere consultate alla RU**2003** 4265.
 
-### Sezione 3:**** Disposizioni transitorie relative alla modifica del 21 marzo 2003
+### Sezione 3: Disposizioni transitorie relative alla modifica del 21 marzo 2003
 
 [^chap8-sec3-1]
 
@@ -1299,7 +1304,7 @@ Il Consiglio federale stabilisce mediante ordinanza il momento in cui i beni mob
 
 <sup>3</sup> Dall’entrata in vigore di detto regolamento, la Commissione di ricorso dei PF è competente a statuire sui ricorsi pendenti presso il Consiglio dei PF.
 
-### Sezione 3*a*:**** Disposizioni transitorie della modifica del 5 ottobre 2007
+### Sezione 3*a*: Disposizioni transitorie della modifica del 5 ottobre 2007
 
 [^chap8-sec3a-1]
 
@@ -1311,7 +1316,7 @@ L’articolo 17*a* si applica a tutti gli incarichi d’insegnamento esterni ass
 
 [^40e-1]: [RU 2008 431](https://fedlex.data.admin.ch/eli/oc/2008/108)
 
-### Sezione 3*b*:**** Disposizioni transitorie per il 2012
+### Sezione 3*b*: Disposizioni transitorie per il 2012
 
 [^chap8-sec3b-1]
 
@@ -1341,7 +1346,7 @@ L’articolo 17*a* si applica a tutti gli incarichi d’insegnamento esterni ass
 
 In deroga all’articolo 24 capoverso 1, il Consiglio federale nomina i membri del Consiglio dei PF per un periodo di cinque anni, con effetto dal 1° gennaio 2012.
 
-### Sezione 3*c*:**** Disposizione transitoria relativa alla modifica del 14 dicembre 2012
+### Sezione 3*c*: Disposizione transitoria relativa alla modifica del 14 dicembre 2012
 
 [^chap8-sec3c-1]
 
@@ -1351,7 +1356,7 @@ In deroga all’articolo 24 capoverso 1, il Consiglio federale nomina i membri d
 
 La durata della funzione degli altri membri delle direzioni delle scuole (art. 28 cpv. 4) termina con la stipulazione del nuovo contratto di lavoro, al più tardi tuttavia un anno dopo l’entrata in vigore della modifica dell’articolo 28.
 
-### Sezione 4: Referendum ed entrata in vigore****
+### Sezione 4: Referendum ed entrata in vigore
 
 [^chap8-sec4-1]
 

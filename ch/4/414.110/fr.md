@@ -3,11 +3,11 @@ sr: "414.110"
 title: Loi fédérale du 4 octobre 1991 sur les écoles polytechniques fédérales (Loi sur les EPF)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/210_210_210"
 language: fr
-version: 2022-01-01
+version: 2023-09-01
 adopted: 1991-10-04
 in_force: 1993-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20230901-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20220101/fr"
 
 (Loi sur les EPF)
 
-du 4 octobre 1991 (Etat le 1<sup>er</sup> janvier 2022)
+du 4 octobre 1991 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -419,7 +419,7 @@ Toute personne ayant collaboré, sur le plan scientifique, à une publication sc
 Les EPF décernent:
 
 - a. des diplômes;
-- [tab] a<sup>bis</sup>.[^19-1] des titres de bachelor et de master;
+- a<sup>bis</sup>.[^19-1] des titres de bachelor et de master;
 - b. des doctorats;
 - c. la venia legendi.
 
@@ -439,7 +439,7 @@ Les EPF décernent:
 
 [^20-1]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3251](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
-### Section 3**** Intégrité scientifique et bonnes pratiques scientifiques
+### Section 3 Intégrité scientifique et bonnes pratiques scientifiques
 
 [^chap2-sec3-1]
 
@@ -745,7 +745,7 @@ Les représentants de tous les groupes de personnes relevant des écoles partici
 
 [^32-1]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3251](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
-## Chapitre 5**** Objectifs stratégiques et finances****
+## Chapitre 5 Objectifs stratégiques et finances
 
 [^chap5-1][^chap5-2]
 
@@ -932,7 +932,7 @@ Le Conseil des EPF, les EPF et les établissements de recherche mettent chacun e
 
 [^35aquater-1]: Introduit par le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2917](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
-## Chapitre 6 Immeubles et droits sur des biens immatériels****
+## Chapitre 6 Immeubles et droits sur des biens immatériels
 
 [^chap6-1]
 
@@ -962,13 +962,13 @@ Le Conseil des EPF, les EPF et les établissements de recherche mettent chacun e
 
 [^36-1]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3251](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
-## Chapitre 6*a***** Traitement des données
+## Chapitre 6*a* Traitement des données
 
 [^chap6a-1]
 
 [^chap6a-1]: Introduit par l’annexe ch. 2 de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 
-### Section 1 Systèmes d’information concernant le personnel et systèmes de gestion des études****
+### Section 1 Systèmes d’information concernant le personnel et systèmes de gestion des études
 
 [^chap6a-sec1-1]
 
@@ -978,7 +978,7 @@ Le Conseil des EPF, les EPF et les établissements de recherche mettent chacun e
 
 **Systèmes d’information concernant le personnel**[^36a-1]
 
-<sup>1</sup> Le Conseil des EPF, les EPF et les établissements de recherche exploitent chacun un ou plusieurs systèmes d’information concernant le personnel; le traitement de données sensibles et de profils de la personnalité au moyen de ces systèmes est autorisé. Ces systèmes sont régis par l’art. 27 LPers[^36a-2], qui s’applique par analogie au traitement des données relatives aux rapports de travail de droit privé.
+<sup>1</sup> Le Conseil des EPF, les EPF et les établissements de recherche exploitent chacun un système d’information concernant le personnel dans lequel des données sensibles peuvent également être traitées.[^36a-2] Ces systèmes sont régis par l’art. 27 LPers[^36a-3], qui s’applique par analogie au traitement des données relatives aux rapports de travail de droit privé.
 
 <sup>2</sup> Le Conseil des EPF peut confier à une EPF ou à un établissement de recherche le traitement des données relatives à son personnel.
 
@@ -987,13 +987,14 @@ Le Conseil des EPF, les EPF et les établissements de recherche mettent chacun e
 <sup>4</sup> Le Conseil des EPF édicte les dispositions d’exécution et les soumet à l’approbation du Conseil fédéral.
 
 [^36a-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
-[^36a-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^36a-2]: Nouvelle teneur selon l’annexe 1 ch. II 32 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^36a-3]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 
 #### Art. 36b
 
 **Systèmes de gestion des études**
 
-<sup>1</sup> Pour la gestion des données concernant les candidats aux études, les étudiants, les candidats au doctorat et les auditeurs, chaque EPF exploite un système d’information permettant également de traiter les données sensibles et les profils de la personnalité.
+<sup>1</sup> Pour la gestion des données concernant les candidats aux études, les étudiants, les candidats au doctorat et les auditeurs, chaque EPF exploite un système d’information permettant également de traiter les données sensibles.[^36b-1]
 
 <sup>2</sup>
 
@@ -1009,7 +1010,7 @@ Les systèmes d’information sont utilisés dans les buts suivants:
 
 <sup>4</sup> Les données peuvent n’être traitées que sous forme électronique. Dans ce cas, les documents sur papier sont restitués ou détruits après que les données ont été saisies dans le système d’information.
 
-<sup>5</sup> L’accès en ligne aux données contenues dans les systèmes d’information peut être accordé pour autant que l’exécution des tâches mentionnées à l’al. 2 l’exige. Seuls les services chargés de la gestion des études au sein de chaque EPF ont accès en ligne aux données sensibles et profils de la personnalité.
+<sup>5</sup> L’accès en ligne aux données contenues dans les systèmes d’information peut être accordé pour autant que l’exécution des tâches mentionnées à l’al. 2 l’exige. Seuls les services chargés de la gestion des études au sein de chaque EPF ont accès en ligne aux données sensibles.[^36b-2]
 
 <sup>6</sup>
 
@@ -1022,7 +1023,10 @@ Les EPF édictent des dispositions d’exécution concernant les éléments suiv
 - e. les autorisations d’accès aux données au sein des EPF;
 - f. l’accès en ligne des organisations ou des personnes externes aux données non sensibles contenues dans les systèmes d’information.
 
-### Section 2**** Gestion de données personnelles dans le cadre de projets de recherche
+[^36b-1]: Nouvelle teneur selon l’annexe 1 ch. II 32 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^36b-2]: Nouvelle teneur de la phrase selon l’annexe 1 ch. II 32 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+
+### Section 2 Gestion de données personnelles dans le cadre de projets de recherche
 
 [^chap6a-sec2-1]
 
@@ -1030,13 +1034,14 @@ Les EPF édictent des dispositions d’exécution concernant les éléments suiv
 
 #### Art. 36c
 
-**Traitement des données**
+**Traitement des données**[^36c-1]
 
-<sup>1</sup> Les EPF et les établissements de recherche peuvent traiter des données personnelles, y compris des données sensibles et des profils de la personnalité, dans le cadre de projets de recherche dans la mesure où cela est nécessaire pour le projet de recherche concerné.
+<sup>1</sup> Les EPF et les établissements de recherche peuvent traiter des données personnelles, y compris des données sensibles, dans le cadre de projets de recherche, dans la mesure où cela est nécessaire pour le projet de recherche concerné.
 
-<sup>2</sup> Ils assurent, ce faisant, le respect des dispositions de la loi fédérale du 19 juin 1992 sur la protection des données[^36c-1].
+<sup>2</sup> Ils assurent, ce faisant, le respect des dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données[^36c-2].
 
-[^36c-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^36c-1]: Nouvelle teneur selon l’annexe 1 ch. II 32 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^36c-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 36d
 
@@ -1058,7 +1063,7 @@ Les EPF édictent des dispositions d’exécution concernant les éléments suiv
 
 <sup>2</sup> L’obligation d’informer vaut également dans les cas où les données personnelles sont collectées auprès de tiers. En pareil cas, les EPF et les établissements de recherche veillent à ce que ces tiers respectent leur obligation d’informer. Si ceux-ci ne sont pas en mesure de le garantir, ils informent eux-mêmes sans délai les personnes concernées.
 
-### Section 3**** Traitement des données personnelles dans l’enseignement
+### Section 3 Traitement des données personnelles dans l’enseignement
 
 [^chap6a-sec3-1]
 
@@ -1072,7 +1077,7 @@ Les EPF édictent des dispositions d’exécution concernant les éléments suiv
 
 [^36f-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
-## Chapitre 6*b***** Sécurité
+## Chapitre 6*b* Sécurité
 
 [^chap6b-1]
 
@@ -1122,7 +1127,7 @@ Les EPF édictent des dispositions d’exécution concernant les éléments suiv
 
 [^36i-1]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
 
-## Chapitre 7 Voies de recours, droit disciplinaire et dispositions pénales****
+## Chapitre 7 Voies de recours, droit disciplinaire et dispositions pénales
 
 [^chap7-1]
 
@@ -1203,13 +1208,13 @@ Est puni de l’amende quiconque:
 
 [^38-1]: Nouvelle teneur selon l’art. 333 du CP ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
 
-## Chapitre 8**** Dispositions finales
+## Chapitre 8 Dispositions finales
 
 [^chap8-1]
 
 [^chap8-1]: Anciennement chap. 6. Nouvelle teneur selon le ch. I de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3251](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
-### Section 1 Haute surveillance; dispositions d’exécution****
+### Section 1 Haute surveillance; dispositions d’exécution
 
 [^chap8-sec1-1]
 
@@ -1229,7 +1234,7 @@ Est puni de l’amende quiconque:
 
 [^39-1]: Abrogé par le ch. I de la LF du 21 mars 2003, avec effet au 1<sup>er</sup> janv. 2004 ([RO 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3251](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
-### Section 2 Modification du droit en vigueur****
+### Section 2 Modification du droit en vigueur
 
 [^chap8-sec2-1]
 
@@ -1260,7 +1265,7 @@ Sont abrogés:
 [^40-7]: [[RO 1985 1452](https://fedlex.data.admin.ch/eli/oc/1985/1452_1452_1452)]
 [^40-8]: Les mod. peuvent être consultées au [RO 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634).
 
-### Section 3**** Dispositions transitoires de la modification du 21 mars 2003
+### Section 3 Dispositions transitoires de la modification du 21 mars 2003
 
 [^chap8-sec3-1]
 
@@ -1300,7 +1305,7 @@ Le Conseil fédéral fixe par voie d’ordonnance la date à laquelle les EPF et
 
 <sup>3</sup> Dès l’entrée en vigueur du règlement, la Commission de recours interne des EPF est compétente pour statuer sur les recours pendants devant le Conseil des EPF.
 
-### Section 3*a***** Dispositions transitoires de la modification du 5 octobre 2007
+### Section 3*a* Dispositions transitoires de la modification du 5 octobre 2007
 
 [^chap8-sec3a-1]
 
@@ -1312,7 +1317,7 @@ L’art. 17*a* s’applique à tous les mandats d’enseignement externes déliv
 
 [^40e-1]: [RO 2008 431](https://fedlex.data.admin.ch/eli/oc/2008/108)
 
-### Section 3*b***** Dispositions transitoires pour l’année 2012
+### Section 3*b* Dispositions transitoires pour l’année 2012
 
 [^chap8-sec3b-1]
 
@@ -1342,7 +1347,7 @@ L’art. 17*a* s’applique à tous les mandats d’enseignement externes déliv
 
 En dérogation à l’art. 24, al. 1, le Conseil fédéral nomme les membres du Conseil des EPF au 1<sup>er</sup> janvier 2012 pour une période de cinq ans.
 
-### Section 3*c***** Disposition transitoire relative à la modification du 14 décembre 2012
+### Section 3*c* Disposition transitoire relative à la modification du 14 décembre 2012
 
 [^chap8-sec3c-1]
 
@@ -1352,7 +1357,7 @@ En dérogation à l’art. 24, al. 1, le Conseil fédéral nomme les membres du 
 
 La durée de fonction en cours des membres de la direction de l’école autres que le président (art. 28, al. 4) prend fin à l’établissement du nouveau contrat de travail, mais au plus tard un an après l’entrée en vigueur de l’art. 28 modifié.
 
-### Section 4 Référendum et entrée en vigueur****
+### Section 4 Référendum et entrée en vigueur
 
 [^chap8-sec4-1]
 

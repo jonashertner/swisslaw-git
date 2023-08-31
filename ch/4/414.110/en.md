@@ -3,11 +3,11 @@ sr: "414.110"
 title: Federal Act of 4 October 1991 on the Federal Institutes of Technology (ETH Act)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/210_210_210"
 language: en
-version: 2022-01-01
+version: 2023-09-01
 adopted: 1991-10-04
 in_force: 1993-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20220101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20230901/en/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20230901-en-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (ETH Act)
 
-of 4 October 1991 (Status as of 1 January 2022)
+of 4 October 1991 (Status as of 1 September 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -441,7 +441,7 @@ The two federal institutes of technology shall confer:
 
 [^20-1]: Amended by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
-### Section 3**** Scientific Integrity and Good Scientific Practice
+### Section 3 Scientific Integrity and Good Scientific Practice
 
 [^chap2-sec3-1]
 
@@ -617,7 +617,9 @@ Members in accordance with Article 24 paragraphs 1 letters c and d and 3 do not 
 - b. proposed candidates for the ETHZ and EPFL presidents and the directors of the research institutes;
 - c. election of the members of the ETH Appeals Commission and other decisions on ETH Appeals Commission matters.
 
-<sup>2</sup> The members of the ETH Board in accordance with Article 24 paragraph 1 letter c and paragraph 3 shall recuse themselves in relation to the following items of business;
+<sup>2</sup>
+
+The members of the ETH Board in accordance with Article 24 paragraph 1 letter c and paragraph 3 shall recuse themselves in relation to the following items of business:
 
 - a. oversight matters in accordance with Article 25 paragraph 4;
 - b. matters relating to financial supervision in accordance with Article 35*a*<sup>ter</sup>.
@@ -745,7 +747,7 @@ Representatives of all groups of ETHZ or EPFL members affected by an issue shall
 
 [^32-1]: Amended by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
-## Chapter 5**** Strategic Objectives and Finances****
+## Chapter 5 Strategic Objectives and Finances
 
 [^chap5-1][^chap5-2]
 
@@ -795,7 +797,7 @@ The ETH Board shall submit the following documents to the Federal Council:
 
 **Evaluation of performance**[^34a-1]
 
-<sup>1</sup> The Department shall regularly evaluate the extent to which the performance mandate has been discharged and Federal Council's strategic goals for the ETH Domain have been achieved and if necessary propose appropriate measures to the Federal Council.
+<sup>1</sup> The Department shall regularly evaluate the extent to which the performance mandate has been discharged and Federal Council's strategic goals for the ETH Domain have been achieved and, if necessary, propose appropriate measures to the Federal Council.
 
 <sup>2</sup> The Federal Council shall inform the Federal Assembly.
 
@@ -932,7 +934,7 @@ The ETH Board, the two federal institutes of technology and four research instit
 
 [^35aquater-1]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 May 2017 ([AS 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
-## Chapter 6 Real Estate and Intellectual Property Rights****
+## Chapter 6 Real Estate and Intellectual Property Rights
 
 [^chap6-1]
 
@@ -962,13 +964,13 @@ The ETH Board, the two federal institutes of technology and four research instit
 
 [^36-1]: Amended by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
-## Chapter 6*a***** Data processing
+## Chapter 6*a* Data Processing
 
 [^chap6a-1]
 
 [^chap6a-1]: Inserted by Annex No 2 of the FA of 14 Dec. 2012, in force since 1 July 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 
-### Section 1 Personnel information and study administration systems****
+### Section 1 Personnel Information and Study Administration Systems
 
 [^chap6a-sec1-1]
 
@@ -978,7 +980,7 @@ The ETH Board, the two federal institutes of technology and four research instit
 
 **Personnel information systems**[^36a-1]
 
-<sup>1</sup> The ETH Board, the two federal institutes of technology and the four research institutes within the ETH Domain shall each maintain one or more personnel information systems in which particularly sensitive personal data and personality profiles may also be processed. Article 27 FPA[^36a-2] applies to the personnel information systems and by analogy to private law terms of employment.
+<sup>1</sup> The ETH Board, the two federal institutes of technology and the four research institutes within the ETH Domain shall each maintain a personnel information system in which sensitive personal data may also be processed.[^36a-2] Article 27 FPA[^36a-3] applies to the personnel information systems and by analogy to private law terms of employment.
 
 <sup>2</sup> The ETH Board may delegate the processing of the data on its personnel to the ETHZ, the EPFL or one of the four research institutes within the ETH Domain.
 
@@ -987,13 +989,14 @@ The ETH Board, the two federal institutes of technology and four research instit
 <sup>4</sup> The ETH Board shall issue implementing provisions and submit these to the Federal Council for approval.
 
 [^36a-1]: Amended by No I of the FA of 19 March 2021, in force since 1 Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
-[^36a-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^36a-2]: Amended by Annex 1 No II 32 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^36a-3]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 
 #### Art. 36b
 
 **Study administration systems**
 
-<sup>1</sup> Both the ETHZ and EPFL shall administer an information system on prospective students, undergraduate and graduate students, doctoral students and auditors in which particularly sensitive personal data and personality profiles may be processed.
+<sup>1</sup> Both the ETHZ and EPFL shall each administer an information system on prospective students, undergraduate and graduate students, doctoral students and auditors in which sensitive personal data may be processed.[^36b-1]
 
 <sup>2</sup>
 
@@ -1009,7 +1012,7 @@ These information systems shall be used for:
 
 <sup>4</sup> Data may be administered exclusively in electronic form. In this case, documents in hardcopy form are either returned or destroyed once the data has been entered into the information system.
 
-<sup>5</sup> The data contained in the information systems, if required for performance of the tasks mentioned in paragraph 2 above, may be disclosed through a request procedure. Particularly sensitive data and personality profiles may only be disclosed through a request procedure to authorised employees working for student administration within the ETHZ or EPFL.
+<sup>5</sup> The data contained in the information systems, if required for performance of the tasks mentioned in paragraph 2 above, may be disclosed through a request procedure. Only the services responsible for study administration at the ETHZ and EPFL shall have online access to sensitive data.[^36b-2]
 
 <sup>6</sup>
 
@@ -1022,7 +1025,10 @@ The ETHZ and EPFL shall issue implementing provisions on:
 - e. access permissions within the ETHZ or EPFL;
 - f. the communication of non-sensitive data from the information systems to organisations and persons outside the ETHZ or EPFL through request procedures.
 
-### Section 2**** Handling of personal data in research projects
+[^36b-1]: Amended by Annex 1 No II 32 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^36b-2]: Second sentence amended by Annex 1 No II 32 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+
+### Section 2 Handling of Personal Data in Research Projects
 
 [^chap6a-sec2-1]
 
@@ -1030,13 +1036,14 @@ The ETHZ and EPFL shall issue implementing provisions on:
 
 #### Art. 36c
 
-**Data processing**
+**Data processing**[^36c-1]
 
-<sup>1</sup> Within the scope of research projects, the two federal institutes of technology and the four research institutes within the ETH Domain may process personal data, including particularly sensitive personal data and personal profiles, insofar as this is required for the given research project.
+<sup>1</sup> Within the scope of research projects, the two federal institutes of technology and the four research institutes within the ETH Domain may process personal data, including sensitive personal data, insofar as this is required for the given project.
 
-<sup>2</sup> In doing so, they shall ensure compliance with the provisions of the Federal Act of 19 June 1992[^36c-1] on Data Protection.
+<sup>2</sup> In doing so, they shall ensure compliance with the provisions of the Data Protection Act of 25 September 2023[^36c-2].
 
-[^36c-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^36c-1]: Amended by Annex 1 No II 32 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^36c-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 36d
 
@@ -1058,7 +1065,7 @@ The ETHZ and EPFL shall issue implementing provisions on:
 
 <sup>2</sup> The obligation to inform shall also apply if the personal data are obtained from third parties. In this case, the two federal institutes of technology and four research institutes within the ETH Domain shall ensure that the third parties fulfil their obligation to inform. If this cannot be guaranteed, the two federal institutes of technology and four research institutes within the ETH Domain shall immediately inform the persons concerned directly.
 
-### Section 3**** Handling Personal Data for Teaching
+### Section 3 Handling Personal Data for Teaching
 
 [^chap6a-sec3-1]
 
@@ -1072,7 +1079,7 @@ The ETHZ and EPFL shall issue implementing provisions on:
 
 [^36f-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
-## Chapter 6*b***** Security
+## Chapter 6*b* Security
 
 [^chap6b-1]
 
@@ -1122,7 +1129,7 @@ The ETHZ and EPFL shall issue implementing provisions on:
 
 [^36i-1]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
 
-## Chapter 7 Rights of Appeal, Disciplinary and Criminal Provisions****
+## Chapter 7 Rights of Appeal, Disciplinary and Criminal Provisions
 
 [^chap7-1]
 
@@ -1203,13 +1210,13 @@ Any person who:
 
 [^38-1]: Amended by Art. 333 of the Swiss Criminal Code ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in the version of the FA of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
 
-## Chapter 8**** Final Provisions
+## Chapter 8 Final Provisions
 
 [^chap8-1]
 
 [^chap8-1]: Originally Chapter 6.
 
-### Section 1 Supervision and Implementation Provisions****
+### Section 1 Supervision and Implementation Provisions
 
 [^chap8-sec1-1]
 
@@ -1229,7 +1236,7 @@ Any person who:
 
 [^39-1]: Repealed by No I of the FA of 21 March 2003, with effect from 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
-### Section 2 Amendment of Current Legislation****
+### Section 2 Amendment of Current Legislation
 
 [^chap8-sec2-1]
 
@@ -1260,7 +1267,7 @@ The following are repealed:
 [^40-7]: [[AS 1985 1452](https://fedlex.data.admin.ch/eli/oc/1985/1452_1452_1452)]
 [^40-8]: The amendments may be consulted under [AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634).
 
-### Section 3**** Transitional Provisions relating to the Amendment of 21 March 2003
+### Section 3 Transitional Provisions relating to the Amendment of 21 March 2003
 
 [^chap8-sec3-1]
 
@@ -1300,7 +1307,7 @@ The Federal Council shall issue an ordinance indicating the date on which the ow
 
 <sup>3</sup> As soon as these rules of procedure come into force, appeals pending before the ETH Board shall be transferred to the jurisdiction of the ETH Appeals Commission.
 
-### Section 3*a***** Transitional Provisions to the Amendment of 5 October 2007
+### Section 3*a* Transitional Provisions to the Amendment of 5 October 2007
 
 [^chap8-sec3a-1]
 
@@ -1312,7 +1319,7 @@ Article 17*a* applies to all external teaching assignments issued from 5 October
 
 [^40e-1]: [AS 2008 431](https://fedlex.data.admin.ch/eli/oc/2008/108)
 
-### Section 3*b***** Transitional Provisions for 2012
+### Section 3*b* Transitional Provisions for 2012
 
 [^chap8-sec3b-1]
 
@@ -1342,7 +1349,7 @@ Article 17*a* applies to all external teaching assignments issued from 5 October
 
 In derogation from Article 24 paragraph 1, the Federal Council shall elect the members of the ETH Board on 1 January 2012 for a five-year term of office.
 
-### Section 3*c***** Transitional Provision to the Amendment of 14 December 2012
+### Section 3*c* Transitional Provision to the Amendment of 14 December 2012
 
 [^chap8-sec3c-1]
 
@@ -1352,7 +1359,7 @@ In derogation from Article 24 paragraph 1, the Federal Council shall elect the m
 
 Current terms of office for other members of management boards (Art. 28 para. 4) shall end with issue of a new employment contract, but no later than one year after commencement of the amended Article 28.
 
-### Section 4 Referendum and Commencement****
+### Section 4 Referendum and Commencement
 
 [^chap8-sec4-1]
 

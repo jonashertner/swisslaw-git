@@ -3,11 +3,11 @@ sr: "414.110"
 title: Bundesgesetz vom 4. Oktober 1991 über die Eidgenössischen Technischen Hochschulen (ETH-Gesetz)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/210_210_210"
 language: de
-version: 2022-01-01
+version: 2023-09-01
 adopted: 1991-10-04
 in_force: 1993-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20230901-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20220101/de"
 
 (ETH-Gesetz)
 
-vom 4. Oktober 1991 (Stand am 1. Januar 2022)
+vom 4. Oktober 1991 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -126,7 +126,7 @@ Die ETH und die Forschungsanstalten können im Rahmen der strategischen Ziele de
 
 <sup>3</sup> An den ETH besteht Lehr-, Lern- und Forschungsfreiheit.
 
-<sup>4</sup> ...[^5-1]
+<sup>4</sup> …[^5-1]
 
 [^5-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2003, mit Wirkung seit 1. Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
@@ -275,7 +275,7 @@ Angehörige der Hochschulen sind:
 
 <sup>1</sup> Die Schulleitung stellt Assistenten für eine zeitlich begrenzte Tätigkeit in Lehre und Forschung an. Die Assistenten haben Gelegenheit, sich durch Forschung oder den Besuch von Lehrveranstaltungen weiterzubilden.
 
-<sup>2</sup> und <sup>3</sup> ...[^15-2]
+<sup>2</sup> und <sup>3</sup> …[^15-2]
 
 [^15-1]: Fassung gemäss Ziff. I des BG vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 [^15-2]: Aufgehoben durch Ziff. I des BG vom 21. März 2003, mit Wirkung seit 1. Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
@@ -419,7 +419,7 @@ In den wissenschaftlichen Veröffentlichungen müssen alle Personen aufgeführt 
 Die ETH verleihen:
 
 - a. Diplome;
-- [tab] a<sup>bis</sup>.[^19-1] Bachelor- und Mastertitel;
+- a<sup>bis</sup>.[^19-1] Bachelor- und Mastertitel;
 - b. Doktorate;
 - c. die *Venia legendi*.
 
@@ -439,7 +439,7 @@ Die ETH verleihen:
 
 [^20-1]: Fassung gemäss Ziff. I des BG vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
-### 3. Abschnitt:**** Wissenschaftliche Integrität und gute wissenschaftliche Praxis
+### 3. Abschnitt: Wissenschaftliche Integrität und gute wissenschaftliche Praxis
 
 [^chap2-sec3-1]
 
@@ -584,7 +584,7 @@ Der ETH-Rat:
 - c. erlässt Vorschriften über das Controlling und führt das strategische Controlling durch;
 - d. genehmigt die Entwicklungspläne des ETH-Bereichs und überwacht ihre Verwirklichung;
 - e.[^25-2] nimmt die in seine Zuständigkeit fallenden Anstellungen und Wahlen vor;
-- f.[^25-3] ...
+- f.[^25-3] …
 - g.[^25-4] ist für die Sicherstellung der Koordination und der Planung nach dem Hochschulförderungs- und -koordinationsgesetz vom 30. September 2011[^25-5] verantwortlich;
 - h. gibt sich eine Geschäftsordnung;
 - i. erfüllt die weiteren Aufgaben, die ihm durch dieses Gesetz übertragen werden.[^25-6]
@@ -660,7 +660,7 @@ Der ETH-Rat verfügt über einen Stab.
 
 <sup>2</sup> Der ETH-Rat legt die Organisation der ETH in ihren Grundzügen fest.[^27-1]
 
-<sup>3</sup> ...[^27-2]
+<sup>3</sup> …[^27-2]
 
 [^27-1]: Fassung gemäss Ziff. I des BG vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 [^27-2]: Aufgehoben durch Anhang Ziff. 2 des BG vom 14. Dez. 2012, mit Wirkung seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
@@ -745,7 +745,7 @@ Vertreter aller betroffenen Gruppen der Hochschulangehörigen wirken mit:
 
 [^32-1]: Fassung gemäss Ziff. I des BG vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
-## 5. Kapitel:**** Strategische Ziele und Finanzen****
+## 5. Kapitel: Strategische Ziele und Finanzen
 
 [^chap5-1][^chap5-2]
 
@@ -932,7 +932,7 @@ Der ETH-Rat, die ETH und die Forschungsanstalten betreiben im Rahmen der Vorgabe
 
 [^35aquater-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
-## 6. Kapitel: Grundstücke und Immaterialgüterrechte****
+## 6. Kapitel: Grundstücke und Immaterialgüterrechte
 
 [^chap6-1]
 
@@ -962,13 +962,13 @@ Der ETH-Rat, die ETH und die Forschungsanstalten betreiben im Rahmen der Vorgabe
 
 [^36-1]: Fassung gemäss Ziff. I des BG vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
-## 6*a*. Kapitel:**** Datenbearbeitung
+## 6*a*. Kapitel: Datenbearbeitung
 
 [^chap6a-1]
 
 [^chap6a-1]: Eingefügt durch Anhang Ziff. 2 des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 
-### 1. Abschnitt: Personalinformations- und Studienadministrationssysteme****
+### 1. Abschnitt: Personalinformations- und Studienadministrationssysteme
 
 [^chap6a-sec1-1]
 
@@ -978,7 +978,7 @@ Der ETH-Rat, die ETH und die Forschungsanstalten betreiben im Rahmen der Vorgabe
 
 **Personalinformationssysteme**[^36a-1]
 
-<sup>1</sup> Der ETH-Rat, die ETH und die Forschungsanstalten betreiben je ein oder mehrere Personalinformationssysteme; darin können auch besonders schützenswerte Personendaten und Persönlichkeitsprofile bearbeitet werden. Für die Personalinformationssysteme gilt Artikel 27 BPG[^36a-2], für privatrechtliche Arbeitsverhältnisse gilt er sinngemäss.
+<sup>1</sup> Der ETH-Rat, die ETH und die Forschungsanstalten betreiben je ein Personalinformationssystem, in dem auch besonders schützenswerte Personendaten bearbeitet werden können.[^36a-2] Für die Personalinformationssysteme gilt Artikel 27 BPG[^36a-3], für privatrechtliche Arbeitsverhältnisse gilt er sinngemäss.
 
 <sup>2</sup> Der ETH-Rat kann die Bearbeitung der Daten seines Personals einer ETH oder einer Forschungsanstalt übertragen.
 
@@ -987,13 +987,14 @@ Der ETH-Rat, die ETH und die Forschungsanstalten betreiben im Rahmen der Vorgabe
 <sup>4</sup> Der ETH-Rat erlässt die Ausführungsbestimmungen und unterbreitet sie dem Bundesrat zur Genehmigung.
 
 [^36a-1]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
-[^36a-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^36a-2]: Fassung gemäss Anhang 1 Ziff. II 32 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^36a-3]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 
 #### Art. 36b
 
 **Studienadministrationssysteme**
 
-<sup>1</sup> Jede ETH betreibt für die Verwaltung der Daten der Studienanwärter, Studierenden, Doktoranden und Hörer ein Informationssystem, in welchem auch besonders schützenswerte Personendaten und Persönlichkeitsprofile bearbeitet werden können.
+<sup>1</sup> Jede ETH betreibt für die Verwaltung der Daten der Studienanwärter, Studierenden, Doktoranden und Hörer ein Informationssystem, in dem auch besonders schützenswerte Personendaten bearbeitet werden können.[^36b-1]
 
 <sup>2</sup>
 
@@ -1009,7 +1010,7 @@ Die Informationssysteme dienen:
 
 <sup>4</sup> Die Daten können ausschliesslich elektronisch verwaltet werden. In diesem Fall werden Dokumente in Papierform nach deren Eingabe in das Informationssystem zurückgegeben oder vernichtet.
 
-<sup>5</sup> Die in den Informationssystemen enthaltenen Daten können, soweit es zur Erfüllung der unter Absatz 2 genannten Aufgaben notwendig ist, durch ein Abrufverfahren bekannt gegeben werden. Die Bekanntgabe besonders schützenswerter Daten und von Persönlichkeitsprofilen durch ein Abrufverfahren ist nur an die für die Studienadministration zuständigen Stellen innerhalb jeder ETH gestattet.
+<sup>5</sup> Die in den Informationssystemen enthaltenen Daten können, soweit es zur Erfüllung der unter Absatz 2 genannten Aufgaben notwendig ist, durch ein Abrufverfahren bekannt gegeben werden. Die Bekanntgabe besonders schützenswerter Personendaten durch ein Abrufverfahren ist nur an die für die Studienadministration zuständigen Stellen innerhalb jeder ETH gestattet.[^36b-2]
 
 <sup>6</sup>
 
@@ -1022,7 +1023,10 @@ Die ETH erlassen Ausführungsbestimmungen über:
 - e. die Zugriffsberechtigungen innerhalb der ETH;
 - f. die Bekanntgabe von nicht besonders schützenswerten Daten aus den Informationssystemen an Organisationen und Personen ausserhalb der ETH im Abrufverfahren.
 
-### 2. Abschnitt:**** Umgang mit Personendaten in Forschungsprojekten
+[^36b-1]: Fassung gemäss Anhang 1 Ziff. II 32 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^36b-2]: Fassung des zweiten Satzes gemäss Anhang 1 Ziff. II 32 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+
+### 2. Abschnitt: Umgang mit Personendaten in Forschungsprojekten
 
 [^chap6a-sec2-1]
 
@@ -1030,13 +1034,14 @@ Die ETH erlassen Ausführungsbestimmungen über:
 
 #### Art. 36c
 
-**Bearbeitung der Daten**
+**Bearbeitung der Daten**[^36c-1]
 
-<sup>1</sup> Die ETH und die Forschungsanstalten können im Rahmen von Forschungsprojekten Personendaten, einschliesslich besonders schützenswerter Personendaten sowie Persönlichkeitsprofile, bearbeiten, soweit dies für das entsprechende Forschungsprojekt erforderlich ist.
+<sup>1</sup> Die ETH und die Forschungsanstalten können im Rahmen von Forschungsprojekten Personendaten, einschliesslich besonders schützenswerter Personendaten, bearbeiten, soweit dies für das entsprechende Projekt erforderlich ist.
 
-<sup>2</sup> Sie stellen sicher, dass dabei die Bestimmungen des Bundesgesetzes vom 19. Juni 1992[^36c-1] über den Datenschutz eingehalten werden.
+<sup>2</sup> Sie stellen sicher, dass dabei die Bestimmungen des Datenschutzgesetzes vom 25. September 2020[^36c-2] eingehalten werden.
 
-[^36c-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^36c-1]: Fassung gemäss Anhang 1 Ziff. II 32 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^36c-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 36d
 
@@ -1058,7 +1063,7 @@ Die ETH erlassen Ausführungsbestimmungen über:
 
 <sup>2</sup> Die Informationspflicht gilt auch dann, wenn die Personendaten bei Dritten beschafft werden. In diesem Fall sorgen die ETH und die Forschungsanstalten dafür, dass die Dritten die Informationspflicht wahrnehmen. Kann dies nicht gewährleistet werden, so informieren die ETH und die Forschungsanstalten die betroffenen Personen umgehend selber.
 
-### 3. Abschnitt:**** Umgang mit Personendaten in der Lehre
+### 3. Abschnitt: Umgang mit Personendaten in der Lehre
 
 [^chap6a-sec3-1]
 
@@ -1072,7 +1077,7 @@ Die ETH erlassen Ausführungsbestimmungen über:
 
 [^36f-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
-## 6*b*. Kapitel:**** Sicherheit
+## 6*b*. Kapitel: Sicherheit
 
 [^chap6b-1]
 
@@ -1122,7 +1127,7 @@ Die ETH erlassen Ausführungsbestimmungen über:
 
 [^36i-1]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
 
-## 7. Kapitel: Rechtsschutz, Disziplinarrecht und Strafbestimmungen****
+## 7. Kapitel: Rechtsschutz, Disziplinarrecht und Strafbestimmungen
 
 [^chap7-1]
 
@@ -1203,13 +1208,13 @@ Mit Busse wird bestraft, wer:[^38-1]
 
 [^38-1]: Fassung gemäss Art. 333 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
 
-## 8. Kapitel:**** Schlussbestimmungen
+## 8. Kapitel: Schlussbestimmungen
 
 [^chap8-1]
 
 [^chap8-1]: Ursprünglich 6. Kap.
 
-### 1. Abschnitt: Oberaufsicht, Ausführungsbestimmungen****
+### 1. Abschnitt: Oberaufsicht, Ausführungsbestimmungen
 
 [^chap8-sec1-1]
 
@@ -1217,7 +1222,7 @@ Mit Busse wird bestraft, wer:[^38-1]
 
 #### Art. 39
 
-**...[^39-1]**
+**…[^39-1]**
 
 <sup>1</sup> Der Bundesrat übt die Oberaufsicht über die ETH und die Forschungsanstalten aus.
 
@@ -1229,7 +1234,7 @@ Mit Busse wird bestraft, wer:[^38-1]
 
 [^39-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2003, mit Wirkung seit 1. Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
-### 2. Abschnitt: Änderung bisherigen Rechts****
+### 2. Abschnitt: Änderung bisherigen Rechts
 
 [^chap8-sec2-1]
 
@@ -1249,7 +1254,7 @@ Es werden aufgehoben:
 
 <sup>2</sup> Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^40-8]
+…[^40-8]
 
 [^40-1]: Fassung gemäss Ziff. I des BG vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 [^40-2]: [BS **4** 103; [AS 1959 535](https://fedlex.data.admin.ch/eli/oc/1959/535_557_533); [1970 1089](https://fedlex.data.admin.ch/eli/oc/1970/1089_1085_1085)Art. 17; [1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)Art. 70]
@@ -1260,7 +1265,7 @@ Es werden aufgehoben:
 [^40-7]: [[AS 1985 1452](https://fedlex.data.admin.ch/eli/oc/1985/1452_1452_1452)]
 [^40-8]: Die Änderungen können unter [AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634)konsultiert werden.
 
-### 3. Abschnitt:**** Übergangsbestimmungen zur Änderung vom 21. März 2003
+### 3. Abschnitt: Übergangsbestimmungen zur Änderung vom 21. März 2003
 
 [^chap8-sec3-1]
 
@@ -1300,7 +1305,7 @@ Der Bundesrat bezeichnet auf dem Verordnungsweg den Zeitpunkt, an dem die Mobili
 
 <sup>3</sup> Mit dem Inkrafttreten der Geschäftsordnung gehen die beim ETH-Rat hängigen Beschwerden in die Zuständigkeit der ETH-Beschwerdekommission über.
 
-### 3*a*. Abschnitt:**** Übergangsbestimmungen zur Änderung vom 5. Oktober 2007
+### 3*a*. Abschnitt: Übergangsbestimmungen zur Änderung vom 5. Oktober 2007
 
 [^chap8-sec3a-1]
 
@@ -1312,7 +1317,7 @@ Artikel 17*a* gilt für alle externen Lehraufträge, die ab Inkrafttreten der Ä
 
 [^40e-1]: [AS 2008 431](https://fedlex.data.admin.ch/eli/oc/2008/108)
 
-### 3*b*. Abschnitt:**** Übergangsbestimmungen für das Jahr 2012
+### 3*b*. Abschnitt: Übergangsbestimmungen für das Jahr 2012
 
 [^chap8-sec3b-1]
 
@@ -1342,7 +1347,7 @@ Artikel 17*a* gilt für alle externen Lehraufträge, die ab Inkrafttreten der Ä
 
 Der Bundesrat wählt in Abweichung von Artikel 24 Absatz 1 die Mitglieder des ETH-Rates auf den 1. Januar 2012 für eine fünfjährige Periode.
 
-### 3*c*. Abschnitt:**** Übergangsbestimmung zur Änderung vom 14. Dezember 2012
+### 3*c*. Abschnitt: Übergangsbestimmung zur Änderung vom 14. Dezember 2012
 
 [^chap8-sec3c-1]
 
@@ -1352,7 +1357,7 @@ Der Bundesrat wählt in Abweichung von Artikel 24 Absatz 1 die Mitglieder des ET
 
 Laufende Amtsperioden der übrigen Mitglieder der Schulleitungen (Art. 28 Abs. 4) enden mit der Ausstellung des neuen Arbeitsvertrages, spätestens aber ein Jahr nach Inkrafttreten des geänderten Artikels 28.
 
-### 4. Abschnitt: Referendum und Inkrafttreten****
+### 4. Abschnitt: Referendum und Inkrafttreten
 
 [^chap8-sec4-1]
 
@@ -1360,7 +1365,7 @@ Laufende Amtsperioden der übrigen Mitglieder der Schulleitungen (Art. 28 Abs. 4
 
 #### Art. 41
 
-**...[^41-1]**
+**…[^41-1]**
 
 <sup>1</sup> Dieses Gesetz untersteht dem fakultativen Referendum.
 
