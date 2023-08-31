@@ -4,13 +4,13 @@ number: "131.4"
 title: Gesetz über die Harmonisierung der amtlichen Register
 short: "kantonales Registerharmonisierungsgesetz, kRHG"
 language: de
-version: 2009-01-15
-valid_until: 2023-08-31
-version_adopted: 2008-12-04
+version: 2023-09-01
+valid_until: 2026-02-28
+version_adopted: 2023-06-30
 adopted: 2008-12-04
 in_force: 2009-01-15
 url: "http://gdb.ow.ch/app/de/texts_of_law/131.4"
-pdf: "http://gdb.ow.ch/api/de/versions/1655/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1827/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1655/pdf_file"
 
 (kantonales Registerharmonisierungsgesetz, kRHG)
 
-vom 04.12.2008 (Stand 15.01.2009)
+vom 04.12.2008 (Stand 01.09.2023)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -78,9 +78,24 @@ beschliesst:
 
 <sup>1</sup> Die kantonale Datenplattform dient als zentrale Verwaltung der Personen-, Gebäude- und Wohnungsinformationen. Sie speichert die Daten der natürlichen und juristischen Personen mit ihren Zusatzdaten sowie die Gebäude- und Wohnungsdaten.
 
-<sup>2</sup> Die Einwohnergemeinden, die kantonalen Stellen und Dritte, soweit Ihnen Staatsaufgaben übertragen sind, haben im Abrufverfahren elektronischen Zugriff auf diejenigen Daten der kantonalen Datenplattform, die zur Erfüllung ihrer gesetzlichen Aufgaben notwendig sind.
+<sup>2</sup> Die Einwohner- und Bürgergemeinden, die kantonalen Stellen und Dritte, soweit ihnen Staatsaufgaben übertragen sind, haben im Abrufverfahren elektronischen Zugriff auf diejenigen Daten der kantonalen Datenplattform, die zur Erfüllung ihrer gesetzlichen Aufgaben notwendig sind.
 
-<sup>3</sup> Die Daten der kantonalen Datenplattform stehen den Einwohnergemeinden und den kantonalen Behörden unentgeltlich zur Verfügung.
+<sup>3</sup> Die Daten der kantonalen Datenplattform stehen den Gemeinden und den kantonalen Behörden unentgeltlich zur Verfügung.
+
+#### Art. 4a
+
+**Datenzugang für Kirchgemeinden**
+
+<sup>1</sup> Die Kirchgemeinden erhalten im Abrufverfahren elektronischen Zugriff auf diejenigen Daten der kantonalen Plattform, die sie zur Erfassung ihrer Mitglieder, zur Führung ihrer Stimmregister oder zur Erfüllung ihrer kirchlichen Aufgaben, wie sie insbesondere in den Kirchgemeindeordnungen umschrieben sind, benötigen. Der Datenzugang erfasst auch besonders schützenswerte Personendaten.
+
+<sup>2</sup> Die Kirchgemeinden können kirchenrechtlichen Institutionen die Mitgliederdaten zur Erfüllung des kirchlichen Auftrags bekanntgeben. Die kirchenrechtlichen Institutionen sind verpflichtet, die Vorgaben des Datenschutzgesetzes[^4a-1] zu beachten und insbesondere:
+
+- a. die erhaltenen Daten ausschliesslich zweckgebunden zu verwenden; und
+- b. die Datensicherheit mittels geeigneter Datenschutzinfrastruktur sicherzustellen.
+
+<sup>3</sup> Bei Widerhandlungen kann die Datenbekanntgabe an die kirchenrechtlichen Institutionen verweigert, eingeschränkt oder mit Auflagen versehen werden.
+
+[^4a-1]: GDB [137.1](http://gdb.ow.ch/data/137.1/de)
 
 ## 3. Aufgaben der Einwohnergemeinden
 
@@ -136,6 +151,8 @@ beschliesst:
 
 <sup>1</sup> Für die Auskunftserteilung gelten die Bestimmungen der Einwohnerregisterverordnung[^10-1]. Im Übrigen ist die Datenbekanntgabe an Private unzulässig.
 
+<sup>2</sup> Die mit der Aufsicht über die Register befassten Stellen können diejenigen Daten der kantonalen Datenplattform und der Register, einschliesslich besonders schützenswerter Personendaten, bearbeiten oder bearbeiten lassen, die sie zur Erfüllung ihrer Aufsichtstätigkeit benötigen.
+
 [^10-1]: GDB [113.11](http://gdb.ow.ch/data/113.11/de) (Art. 16)
 
 #### Art. 11
@@ -164,15 +181,11 @@ beschliesst:
 
 **Versichertennummer**
 
-<sup>1</sup> Die registerführenden Stellen nach Art. 2 Abs. 2 RHG müssen die erstmalige und umfassende Zuweisung und Bekanntgabe der Versichertennummer gemäss Art. 50e AHVG[^13-1] verlangen.
+<sup>1</sup> Organisationen und Personen im Sinn von Art. 153c Abs. 1 Bst. a Ziff. 4 AHVG[^13-1] dürfen die AHV-Nummer systematisch verwenden, soweit dies zur Erfüllung ihrer Verwaltungsaufgaben notwendig ist. Der Regierungsrat bestimmt die berechtigten Organisationen und Personen in Ausführungsbestimmungen.
 
-<sup>2</sup> Stellen und Institutionen, die mit dem Vollzug von kantonalem Recht betraut sind, dürfen zur Erfüllung ihrer Aufgaben die Versichertennummer nach AHVG systematisch verwenden. Sie darf nur aufgabenbezogen verwendet und entsprechend den gesetzlichen Vorgaben bekannt gegeben werden.
+<sup>2</sup> Die AHV-Nummer darf nur aufgabenbezogen und nach den Bestimmungen des AHVG verwendet und bekannt gegeben werden.
 
-<sup>3</sup> Die Versichertennummer ist auf der kantonalen Datenplattform zu speichern.
-
-<sup>4</sup> Die Versichertennummer muss von den Einwohnergemeinden, den kantonalen Stellen und Dritten, welche Staatsaufgaben wahrnehmen, gespeichert werden, soweit sie zur Erfüllung ihrer gesetzlichen Aufgaben notwendig ist.
-
-<sup>5</sup> Die kantonale Gesetzgebung kann von dieser Ermächtigung abweichende Einschränkungen oder Auflagen vorsehen.
+<sup>3–5</sup> …
 
 [^13-1]: SR [831.10](https://db.clex.ch/link/Bund/831.10/de)
 
@@ -213,5 +226,15 @@ beschliesst:
 [^17-1]: Vom Regierungsrat auf 15. Januar 2009 in Kraft gesetzt (OGS 2009, 2)
 [^17-2]: Art. 21 Abs. 1 RHG (SR [431.02](https://db.clex.ch/link/Bund/431.02/de)); vom Eidgenössischen Departement des Innern zur Kenntnis genommen am 4. Februar 2009
 [^17-3]: Art. 91 Abs. 2 BPR (SR [161.1](https://db.clex.ch/link/Bund/161.1/de)) sowie Art. 8 Abs. 3 BPRAS (SR [161.5](https://db.clex.ch/link/Bund/161.5/de)); Art. 2 Abs. 2 Bst. c des Registerharmonisierungsgesetzes sowie Art. 3 der Abstimmungsverordnung von der Bundeskanzlei genehmigt am 14. Januar 2009
+
+**Informationen zum Erlass**
+
+Ursprüngliche Fundstelle: OGS 2008, 109
+
+Ursprüngliches Inkrafttreten: 15. Januar 2009 (OGS 2009, 2)
+
+Geändert durch:
+
+\- Nachtrag zum Gesetz über den Datenschutz vom 30. Juni 2023 (OGS 2023, 21), Botschaft und Vorlage des Regierungsrats vom 27. März 2023, Kantonsratssitzungen vom 25. Mai und 30. Juni 2023 (22.23.01), in Kraft seit 1. September 2023 (OGS 2023, 26)
 
 OGS 2008, 109
