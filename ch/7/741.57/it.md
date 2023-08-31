@@ -4,11 +4,11 @@ title: "Ordinanza del 30 novembre 2018 concernente il sistema d'informazione sug
 short: OSIStr
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/782"
 language: it
-version: 2019-01-01
+version: 2023-09-01
 adopted: 2018-11-30
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/782/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2018-782-20190101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/782/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/782/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2018-782-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/782/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,17 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/782/20190101/it"
 
 (OSIStr)
 
-del 30 novembre 2018 (Stato 1° gennaio 2019)
+del 30 novembre 2018 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 89*i* capoverso 4, 89*l* capoverso 3 e 89*n* della legge federale del 19 dicembre 1958[^ingress-1] sulla circolazione stradale; visti gli articoli 5 capoverso 1 e 7 capoverso 1 della legge del 9 ottobre 1992[^ingress-2] sulla statistica federale (LStat); visti gli articoli 7 capoverso 2, 16 capoverso 2 e 36 capoverso 1 della legge federale del 19 giugno 1992[^ingress-3] sulla protezione dei dati,
+visti gli articoli 89*i* capoverso 4, 89*l* capoverso 3 e 89*n* della legge federale del 19 dicembre 1958[^ingress-1] sulla circolazione stradale (LCStr); visti gli articoli 5 capoverso 1 e 7 capoverso 1 della legge del 9 ottobre 1992[^ingress-2] sulla statistica federale (LStat); visti gli articoli 8 capoverso 3 e 33 della legge federale del 25 settembre 2020[^ingress-3] sulla protezione dei dati (LPD),[^ingress-4]
 
 ordina:
 
 [^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
 [^ingress-2]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
 [^ingress-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^ingress-4]: Nuovo testo giusta l’all. 2 n. II 78 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -281,10 +282,11 @@ L’USTRA compila semestralmente una statistica standardizzata degli incidenti s
 
 <sup>3</sup> I dati annuali anonimizzati sono messi a disposizione di terzi soltanto dopo la pubblicazione nella statistica degli incidenti stradali.
 
-<sup>4</sup> La comunicazione dei dati a fini statistici o di ricerca è retta dalla legge federale del 19 giugno 1992 sulla protezione dei dati e dall’ordinanza del 14 giugno 1993[^17-1] relativa alla legge federale sulla protezione dei dati, nonché dalla LStat e dall’ordinanza del 30 giugno 1993[^17-2] sulle rilevazioni statistiche.
+<sup>4</sup> La comunicazione dei dati a fini statistici o di ricerca è retta dalla LPD e dall’ordinanza del 31 agosto 2022[^17-1] sulla protezione dei dati, nonché dalla LStat nonché dall’ordinanza del 30 giugno 1993[^17-2] sulle rilevazioni statistiche.[^17-3]
 
 [^17-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^17-2]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^17-3]: Nuovo testo giusta l’all. 2 n. II 78 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 18
 
@@ -304,7 +306,7 @@ L’USTRA compila semestralmente una statistica standardizzata degli incidenti s
 
 L’ordinanza del 14 aprile 2010[^19-1] sul registro degli incidenti stradali è abrogata.
 
-[^19-1]: [[RU 2010 1659](https://fedlex.data.admin.ch/eli/oc/2010/250)[6415](https://fedlex.data.admin.ch/eli/oc/2010/906), [2011 4945](https://fedlex.data.admin.ch/eli/oc/2011/716), [2012 7153](https://fedlex.data.admin.ch/eli/oc/2012/864)]
+[^19-1]: [[RU 2010 1659](https://fedlex.data.admin.ch/eli/oc/2010/250), [6415](https://fedlex.data.admin.ch/eli/oc/2010/906); [2011 4945](https://fedlex.data.admin.ch/eli/oc/2011/716); [2012 7153](https://fedlex.data.admin.ch/eli/oc/2012/864)]
 
 #### Art. 20
 

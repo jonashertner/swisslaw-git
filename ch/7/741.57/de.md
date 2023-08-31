@@ -4,11 +4,11 @@ title: Verordnung vom 30. November 2018 über das Informationssystem Strassenver
 short: ISUV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/782"
 language: de
-version: 2019-01-01
+version: 2023-09-01
 adopted: 2018-11-30
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/782/20190101/de/xml/fedlex-data-admin-ch-eli-cc-2018-782-20190101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/782/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/782/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2018-782-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/782/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,17 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/782/20190101/de"
 
 (ISUV)
 
-vom 30. November 2018 (Stand am 1. Januar 2019)
+vom 30. November 2018 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 89*i* Absatz 4, 89*l* Absatz 3 und 89*n* des Strassenverkehrsgesetzes vom 19. Dezember 1958[^ingress-1], die Artikel 5 Absatz 1 und 7 Absatz 1 des Bundesstatistikgesetzes vom 9. Oktober 1992[^ingress-2] (BstatG) sowie die Artikel 7 Absatz 2, 16 Absatz 2 und 36 Absatz 1 des Bundesgesetzes vom 19. Juni 1992[^ingress-3] über den Datenschutz,
+gestützt auf die Artikel 89*i* Absatz 4, 89*l* Absatz 3 und 89*n* des Strassenverkehrsgesetzes vom 19. Dezember 1958[^ingress-1] (SVG), die Artikel 5 Absatz 1 und 7 Absatz 1 des Bundesstatistikgesetzes vom 9. Oktober 1992[^ingress-2] (BstatG) sowie die Artikel 8 Absatz 3 und 33 des Datenschutzgesetzes vom 25. September 2020[^ingress-3] (DSG),[^ingress-4]
 
 verordnet:
 
 [^ingress-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
 [^ingress-2]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
 [^ingress-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^ingress-4]: Fassung gemäss Anhang 2 Ziff. II 78 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -281,10 +282,11 @@ Das ASTRA erstellt halbjährlich eine standardisierte Strassenverkehrsunfall-Sta
 
 <sup>3</sup> Dritten werden anonymisierte Jahresdaten erst zur Verfügung gestellt, nachdem sie in der Strassenverkehrsunfall-Statistik publiziert worden sind.
 
-<sup>4</sup> Die Bekanntgabe von Daten zu Statistik- oder Forschungszwecken richtet sich nach dem Bundesgesetz vom 19. Juni 1992 über den Datenschutz und der Verordnung vom 14. Juni 1993[^17-1] zum Bundesgesetz über den Datenschutz sowie nach dem BStatG und der Statistikerhebungsverordnung vom 30. Juni 1993[^17-2].
+<sup>4</sup> Die Bekanntgabe von Daten zu Statistik- oder Forschungszwecken richtet sich nach dem DSG und der Datenschutzverordnung vom 31. August 2022[^17-1] sowie nach dem BStatG und der Statistikerhebungsverordnung vom 30. Juni 1993[^17-2].[^17-3]
 
 [^17-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^17-2]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^17-3]: Fassung gemäss Anhang 2 Ziff. II 78 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 18
 
@@ -304,7 +306,7 @@ Das ASTRA erstellt halbjährlich eine standardisierte Strassenverkehrsunfall-Sta
 
 Die Verordnung vom 14. April 2010[^19-1] über das Strassenverkehrsunfall-Register wird aufgehoben.
 
-[^19-1]: [[AS 2010 1659](https://fedlex.data.admin.ch/eli/oc/2010/250), [2011 4945](https://fedlex.data.admin.ch/eli/oc/2011/716), [2012 7153](https://fedlex.data.admin.ch/eli/oc/2012/864)]
+[^19-1]: [[AS 2010 1659](https://fedlex.data.admin.ch/eli/oc/2010/250); [2011 4945](https://fedlex.data.admin.ch/eli/oc/2011/716); [2012 7153](https://fedlex.data.admin.ch/eli/oc/2012/864)]
 
 #### Art. 20
 
