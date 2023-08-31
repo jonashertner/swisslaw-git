@@ -4,13 +4,12 @@ number: "111.2"
 title: Gesetz über den Erwerb und den Verlust des Kantons- und Gemeindebürgerrechts
 short: "Bürgerrechtsgesetz, BRG"
 language: de
-version: 2018-01-01
-valid_until: 2023-08-31
-version_adopted: 2017-05-31
+version: 2023-09-01
+version_adopted: 2023-06-30
 adopted: 1992-05-17
 in_force: 1992-05-17
 url: "http://gdb.ow.ch/app/de/texts_of_law/111.2"
-pdf: "http://gdb.ow.ch/api/de/versions/1643/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1823/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1643/pdf_file"
 
 (Bürgerrechtsgesetz, BRG)
 
-vom 17.05.1992 (Stand 01.01.2018)
+vom 17.05.1992 (Stand 01.09.2023)
 
 Das Volk des Kantons Obwalden erlässt,
 
@@ -216,13 +215,13 @@ als Gesetz:
 
 **Bearbeitung von Personendaten**
 
-<sup>1</sup> Die kantonalen und kommunalen Behörden können zur Erfüllung ihrer Aufgaben gemäss der eidgenössischen und kantonalen Bürgerrechtsgesetzgebung Personendaten bearbeiten, einschliesslich der Persönlichkeitsprofile und der besonders schützenswerten Daten über die religiösen Ansichten, die politischen Tätigkeiten, die Gesundheit, über Massnahmen der sozialen Hilfe und über administrative oder strafrechtliche Verfolgungen und Sanktionen.
+<sup>1</sup> Die kantonalen und kommunalen Behörden können zur Erfüllung ihrer Aufgaben gemäss der eidgenössischen und kantonalen Bürgerrechtsgesetzgebung Personendaten bearbeiten, einschliesslich der Daten, welche die Beurteilung der Eignungsvoraussetzungen des Bewerbers erlauben, und der besonders schützenswerten Daten über die religiösen Ansichten, die politischen Tätigkeiten, die Gesundheit, über Massnahmen der sozialen Hilfe und über administrative oder strafrechtliche Verfolgungen und Sanktionen.
 
 #### Art. 17c
 
 **Amtshilfe**
 
-<sup>1</sup> Für die Amtshilfe gilt Art. 45 BüG. Die Behörden des Kantons und der Gemeinden sind in Einzelfällen auf begründetes und schriftliches Gesuch hin verpflichtet, den mit dem Vollzug dieses Gesetzes betrauten kommunalen und kantonalen Behörden alle Daten bekannt zu geben, die für die Erfüllung ihrer Aufgaben notwendig sind.
+<sup>1</sup> Für die Amtshilfe gilt Art. 45 BüG. Die Behörden, Anstalten und Werke des Kantons und der Gemeinden sind in Einzelfällen auf begründetes und schriftliches Gesuch hin verpflichtet, den mit dem Vollzug dieses Gesetzes betrauten kommunalen und kantonalen Behörden alle Daten bekannt zu geben, die für die Erfüllung ihrer Aufgaben notwendig sind.
 
 #### Art. 18
 
@@ -387,6 +386,10 @@ geändert durch:
 
 \- Anhang zum Nachtrag zum Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches vom 3. Mai 2012, in Kraft seit 1. Januar 2013 (OGS 2012, 29 und 43),
 
-\- Nachtrag vom 31. Mai 2017 (OGS 2017, 32), Botschaft und Vorlage des Regierungsrats vom 10. Januar 2017, Kantonsratssitzungen vom 24. März und 31. Mai 2017 (22.17.01), Berichtigung (Referendumsfrist) vom 14. Juni 2017 (OGS 2017, 37), in Kraft seit 1. Januar 2018
+\- Nachtrag vom 31. Mai 2017 (OGS 2017, 32), Botschaft und Vorlage des Regierungsrats vom 10. Januar 2017, Kantonsratssitzungen vom 24. März und 31. Mai 2017 (22.17.01), Berichtigung (Referendumsfrist) vom 14. Juni 2017 (OGS 2017, 37), in Kraft seit 1. Januar 2018,
+
+Geändert durch:
+
+\- Nachtrag zum Gesetz über den Datenschutz vom 30. Juni 2023 (OGS 2023, 21), Botschaft und Vorlage des Regierungsrats vom 27. März 2023, Kantonsratssitzungen vom 25. Mai und 30. Juni 2023 (22.23.01), in Kraft seit 1. September 2023 (OGS 2023, 26)
 
 OGS 1993, 30
