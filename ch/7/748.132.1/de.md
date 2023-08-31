@@ -4,11 +4,11 @@ title: Verordnung vom 18. Dezember 1995 über den Flugsicherungsdienst (VFSD)
 short: VFSD
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/595_595_595"
 language: de
-version: 2022-05-01
+version: 2023-09-01
 adopted: 1995-12-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/595_595_595/20220501/de/xml/fedlex-data-admin-ch-eli-cc-1996-595_595_595-20220501-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/595_595_595/20220501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/595_595_595/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1996-595_595_595-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/595_595_595/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/595_595_595/20220501/de"
 
 (VFSD)
 
-vom 18. Dezember 1995 (Stand am 1. Mai 2022)
+vom 18. Dezember 1995 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -35,9 +35,9 @@ verordnet:
 [^ingress-8]: Durchführungsverordnung (EU) Nr. 391/2013 der Kommission vom 3. Mai 2013 zur Festlegung einer gemeinsamen Gebührenregelung für Flugsicherungsdienste.
 [^ingress-9]: Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)).
 
-## 1. Kapitel****:**** Allgemeine Bestimmungen
+## 1. Kapitel[^chap1-1]: Allgemeine Bestimmungen
 
-[^chap1-1][^chap1-2]
+[^chap1-2]
 
 [^chap1-1]: Gemäss Ziff. I der V vom 29. Juni 2011, in Kraft seit 1. Aug. 2011 ([AS 2011 3503](https://fedlex.data.admin.ch/eli/oc/2011/473)) wurden Abschnitte in Kapitel umbenannt.
 [^chap1-2]: Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)). Berichtigung vom 1. Okt. 2019 ([AS 2019 3083](https://fedlex.data.admin.ch/eli/oc/2019/563)).
@@ -176,13 +176,13 @@ Die Radiotelefonie mit Swiss Radar findet auf Englisch statt. Vorbehalten sind d
 
 [^5a-1]: Fassung gemäss Ziff. I der V vom 16. Febr. 2022, in Kraft seit 1. Mai 2022 ([AS 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)).
 
-## 2. Kapitel: Erbringung der Flugsicherungsaufgaben****
+## 2. Kapitel: Erbringung der Flugsicherungsaufgaben
 
 [^chap2-1]
 
 [^chap2-1]: Ursprünglich vor Art. 5. Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)).
 
-### 1. Abschnitt: Skyguide****
+### 1. Abschnitt: Skyguide
 
 [^chap2-sec1-1]
 
@@ -261,7 +261,7 @@ Die Skyguide finanziert ihre Aufgaben insbesondere durch:
 [^9-1]: Fassung gemäss Ziff. I der V vom 29. Juni 2011, in Kraft seit 1. Aug. 2011 ([AS 2011 3503](https://fedlex.data.admin.ch/eli/oc/2011/473)).
 [^9-2]: Eingefügt durch Ziff. I der V vom 16. Febr. 2022, in Kraft seit 1. Mai 2022 ([AS 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)).
 
-### 2. Abschnitt:**** Übertragung der Erbringung lokaler Flugsicherungsdienstleistungen
+### 2. Abschnitt: Übertragung der Erbringung lokaler Flugsicherungsdienstleistungen
 
 [^chap2-sec2-1]
 
@@ -303,7 +303,7 @@ Der Antrag des Flugplatzhalters oder der Skyguide muss folgende Angaben beinhalt
 - b. einen Umsetzungsplan mit zeitlichen Meilensteinen und dem beabsichtigten Zeitpunkt der Inbetriebnahme;
 - c. einen Beschrieb über den Umfang und das Angebot der Flugsicherungsdienstleistungen und -infrastruktur nach der Übernahme.
 
-### 3. Abschnitt:**** Flugwetterdienst
+### 3. Abschnitt: Flugwetterdienst
 
 [^chap2-sec3-1]
 
@@ -317,7 +317,7 @@ Das Bundesamt für Meteorologie und Klimatologie (MeteoSchweiz) erbringt den ziv
 
 [^9c-1]: Diese Dokumente können bei der ICAO bestellt oder abonniert werden.
 
-## 3. Kapitel:**** Finanzierung der Flugsicherung
+## 3. Kapitel: Finanzierung der Flugsicherung
 
 [^chap3-1]
 
@@ -739,7 +739,7 @@ Der Antrag muss sämtliche Angaben und Unterlagen enthalten, die für eine Beurt
 
 Das BAZL erstellt jährlich die schweizerische Flugsicherungsrechnung. Diese bietet eine Übersicht über die gesamten Kosten und Erträge der im schweizerischen Luftraum angebotenen Flugsicherungsdienste. Die für die Finanzierung der Flugsicherungsdienste verantwortlichen Stellen übermitteln dem BAZL die nötigen Informationen.
 
-## 4. Kapitel:**** Aufzeichnung von Hintergrundgesprächen bei der Flugsicherung
+## 4. Kapitel: Aufzeichnung von Hintergrundgesprächen bei der Flugsicherung
 
 [^chap4-1]
 
@@ -749,16 +749,17 @@ Das BAZL erstellt jährlich die schweizerische Flugsicherungsrechnung. Diese bie
 
 **Verantwortung und Einsatzgebiet**
 
-<sup>1</sup> Die Erbringer der Flugverkehrskontrolldienste für den zivilen Verkehr zeichnen für die Zwecke der Untersuchung von Flugunfällen und schweren Vorfällen nach den Artikeln 3 und 4 der Verordnung vom 17. Dezember 2014[^40a-1] über die Sicherheitsuntersuchung von Zwischenfällen im Verkehrswesen mit einem dafür geeigneten System (Ambient Voice Recording Equipment; AVRE) bei den Flugverkehrskontrollstellen Hintergrundgespräche und ‑geräusche auf.[^40a-2]
+<sup>1</sup> Der Erbringer der Flugverkehrskontrolldienste für den zivilen Verkehr zeichnet für die Zwecke der Untersuchung von Flugunfällen und schweren Vorfällen nach den Artikeln 3 und 4 der Verordnung vom 17. Dezember 2014[^40a-1] über die Sicherheitsuntersuchung von Zwischenfällen im Verkehrswesen mit einem dafür geeigneten System (Ambient Voice Recording Equipment; AVRE) bei den Flugverkehrskontrollstellen Hintergrundgespräche und ‑geräusche auf.[^40a-2]
 
-<sup>2</sup> Er führt die mit dem AVRE erstellte Datensammlung und ist das für den Datenschutz verantwortliche Organ.
+<sup>2</sup> Er führt die mit dem AVRE erstellte Datenbank und ist das für den Datenschutz verantwortliche Organ.[^40a-3]
 
 <sup>3</sup> Er darf das AVRE einzig an Arbeitsplätzen von Personen einsetzen, die Flugverkehrskontrolldienste erbringen (betroffene Fluglotsinnen und Fluglotsen).
 
 <sup>4</sup> Er stellt sicher, dass den betroffenen Fluglotsinnen und Fluglotsen nebst diesen Arbeitsplätzen unüberwachte Büro- und Pausenräume zur Verfügung stehen.
 
 [^40a-1]: [SR 742.161](https://fedlex.data.admin.ch/eli/cc/2015/26)
-[^40a-2]: Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)).
+[^40a-2]: Fassung gemäss Anhang 2 Ziff. II 84 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^40a-3]: Fassung gemäss Anhang 2 Ziff. II 84 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 40b
 
@@ -868,7 +869,7 @@ Nach Artikel 91 Absatz 1 Buchstabe i LFG wird bestraft, wer:
 - c. unbefugt auf Aufzeichnungen zugreift oder Aufzeichnungen, Informationen oder Randdaten unbefugt verwendet oder weitergibt oder die Pflicht zur vertraulichen Behandlung derselben verletzt;
 - d. die Vorschriften zu den technischen oder den organisatorischen Schutzmassnahmen missachtet.
 
-## 5. Kapitel:**** Übergangsbestimmungen
+## 5. Kapitel: Übergangsbestimmungen
 
 [^chap5-1]
 
@@ -912,7 +913,7 @@ Es werden aufgehoben:
 
 [^43-1]: Aufgehoben durch Ziff. I der V vom 17. Okt. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)).
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 6 Abs. 1)
 
@@ -1020,7 +1021,7 @@ Die Flugsicherungsaufgaben der Skyguide umfassen:
 [^annex1-lvlu1-2]: [SR 748.111.1](https://fedlex.data.admin.ch/eli/cc/2005/284)
 [^annex1-lvlu1-3]: Verordnung des Europäischen Parlaments und des Rates vom 14. Dezember 2005 über die Erstellung einer gemeinschaftlichen Liste der Luftfahrtunternehmen, gegen die in der Gemeinschaft eine Betriebsuntersagung ergangen ist, sowie über die Unterrichtung von Fluggästen über die Identität des ausführenden Luftfahrtunternehmens und zur Aufhebung des Artikels 9 der Richtlinie 2004/36/EG.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 22 und 25)
 
@@ -1048,6 +1049,6 @@ Die folgenden Flugplätze fallen unter die Kategorie II nach Artikel 25:
 - g. Regionalflugplatz Sitten;
 - h. Regionalflugplatz St. Gallen-Altenrhein.
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 [^t-3]: Eingefügt durch Ziff. II der V vom 29. Juni 2011 ([AS 2011 3503](https://fedlex.data.admin.ch/eli/oc/2011/473)). Aufgehoben durch Ziff. II der V vom 2. Nov. 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 4169](https://fedlex.data.admin.ch/eli/oc/2016/695)).

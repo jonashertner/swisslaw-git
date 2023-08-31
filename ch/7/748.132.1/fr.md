@@ -4,20 +4,20 @@ title: Ordonnance du 18 décembre 1995 sur le service de la navigation aérienne
 short: OSNA
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/595_595_595"
 language: fr
-version: 2022-05-01
+version: 2023-09-01
 adopted: 1995-12-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/595_595_595/20220501/fr/xml/fedlex-data-admin-ch-eli-cc-1996-595_595_595-20220501-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/595_595_595/20220501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/595_595_595/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1996-595_595_595-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/595_595_595/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le service de la navigation aérienne
 
-(OSNA)**[^t-1]**
+(OSNA)[^t-1]
 
-du 18 décembre 1995 (Etat le 1<sup>er</sup> mai 2022)
+du 18 décembre 1995 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: [RO 1996 1647](https://fedlex.data.admin.ch/eli/oc/1996/_1647_)
 
@@ -37,7 +37,7 @@ arrête:
 [^ingress-8]: Règlement d’exécution (UE) n<sup>o</sup> 391/2013 de la Commission du 3 mai 2013 établissant un système commun de tarification des services de navigation aérienne.
 [^ingress-9]: Nouvelle teneur selon le ch. I de l’O du 17 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)).
 
-## Chapitre 1******** Dispositions générales
+## Chapitre 1 Dispositions générales
 
 [^chap1-1][^chap1-2]
 
@@ -178,13 +178,13 @@ Les communications radiotéléphoniques avec Swiss Radar ont lieu en anglais. Le
 
 [^5a-1]: Nouvelle teneur selon le ch. I de l’O du 16 fév. 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)).
 
-## Chapitre 2 Tâches de la navigation aérienne****
+## Chapitre 2 Tâches de la navigation aérienne
 
 [^chap2-1]
 
 [^chap2-1]: Anciennement avant l’art 5. Nouvelle teneur selon le ch. I de l’O du 17 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)).
 
-### Section 1 Skyguide****
+### Section 1 Skyguide
 
 [^chap2-sec1-1]
 
@@ -263,7 +263,7 @@ Skyguide finance ses tâches notamment au moyen:
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2011, en vigueur depuis le 1<sup>er</sup> août 2011 ([RO 2011 3503](https://fedlex.data.admin.ch/eli/oc/2011/473)).
 [^9-2]: Introduite par le ch. I de l’O du 16 fév. 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)).
 
-### Section 2**** Délégation de la fourniture de services locaux de navigation aérienne
+### Section 2 Délégation de la fourniture de services locaux de navigation aérienne
 
 [^chap2-sec2-1]
 
@@ -305,7 +305,7 @@ La demande de l’exploitant d’aérodrome ou de Skyguide comprend les informat
 - b. un plan de mise en œuvre incluant notamment un calendrier des étapes et la date de mise en service prévue;
 - c. la description de l’étendue et de l’offre de services et d’infrastructures de navigation aérienne après la prise en charge des services.
 
-### Section 3**** Service de la météorologie aéronautique
+### Section 3 Service de la météorologie aéronautique
 
 [^chap2-sec3-1]
 
@@ -319,7 +319,7 @@ L’Office fédéral de météorologie et de climatologie (MétéoSuisse) assure
 
 [^9c-1]: Il est possible de commander ces documents ou de s’y abonner auprès de l’OACI.
 
-## Chapitre 3**** Financement du service de la navigation aérienne
+## Chapitre 3 Financement du service de la navigation aérienne
 
 [^chap3-1]
 
@@ -741,7 +741,7 @@ Doivent être joints à la demande toutes les informations et tous les documents
 
 L’OFAC établit chaque année le compte de la navigation aérienne suisse. Ce dernier offre un aperçu de l’ensemble des coûts et des recettes des services de navigation aérienne fournis dans l’espace aérien suisse. Les organismes financeurs des services de navigation aérienne transmettent à l’OFAC les informations nécessaires.
 
-## Chapitre 4**** Enregistrement des communications en arrière-plan dans le cadre du service de la navigation aérienne
+## Chapitre 4 Enregistrement des communications en arrière-plan dans le cadre du service de la navigation aérienne
 
 [^chap4-1]
 
@@ -751,16 +751,17 @@ L’OFAC établit chaque année le compte de la navigation aérienne suisse. Ce 
 
 **Compétence et domaine d’utilisation**
 
-<sup>1</sup> Les prestataires de services du contrôle de la circulation aérienne destinés au trafic civil enregistrent à l’aide d’un système adéquat (Ambient Voice Recording Équipment; AVRE) les communications en arrière-plan et les bruits de fond dans les organismes du contrôle de la circulation aérienne aux fins des enquêtes sur les accidents d’aviation et incidents graves au sens des art. 3 et 4 de l’ordonnance du 17 décembre 2014 sur les enquêtes de sécurité en cas d’incident dans le domaine des transports[^40a-1].[^40a-2]
+<sup>1</sup> Le prestataire de services du contrôle de la circulation aérienne destinés au trafic civil enregistre à l’aide d’un système adéquat (*Ambient Voice Recording Equipment*; AVRE) les communications en arrière-plan et les bruits de fond dans les organismes du contrôle de la circulation aérienne aux fins des enquêtes sur les accidents d’aviation et incidents graves au sens des art. 3 et 4 de l’ordonnance du 17 décembre 2014 sur les enquêtes de sécurité en cas d’incident dans le domaine des transports[^40a-1].[^40a-2]
 
-<sup>2</sup> Il gère le fichier de données constitué au moyen de l’AVRE et est l’organe responsable pour la protection des données.
+<sup>2</sup> Il gère la banque de données constituée au moyen de l’AVRE et est l’organe responsable pour la protection des données.[^40a-3]
 
 <sup>3</sup> Il n’est autorisé à utiliser l’AVRE qu’aux postes de travail de personnes fournissant des services de contrôle de la circulation aérienne (contrôleurs de la circulation aérienne concernés).
 
 <sup>4</sup> Il veille à ce que les contrôleurs de la circulation aérienne concernés disposent, en sus de leur poste de travail, de bureaux et locaux de pause non surveillés.
 
 [^40a-1]: [RS 742.161](https://fedlex.data.admin.ch/eli/cc/2015/26)
-[^40a-2]: Nouvelle teneur selon le ch. I de l’O du 17 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)).
+[^40a-2]: Nouvelle teneur selon l’annexe 2 ch. II 84 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^40a-3]: Nouvelle teneur selon l’annexe 2 ch. II 84 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 40b
 
@@ -870,7 +871,7 @@ Est puni aux termes de l’art. 91, al. 1, let. i, LA quiconque:
 - c. accède sans y être autorisé à des enregistrements ou utilise ou transmet à des tiers sans y être autorisé des enregistrements, informations ou données secondaires ou enfreint le devoir de traiter ces derniers de manière confidentielle;
 - d. n’observe pas les prescriptions relatives aux mesures de protection techniques ou organisationnelles.
 
-## Chapitre 5**** Dispositions transitoires
+## Chapitre 5 Dispositions transitoires
 
 [^chap5-1]
 
@@ -900,7 +901,7 @@ Sont abrogées:
 - b. l’ordonnance du 10 septembre 1986 relative à la perception de la redevance fédérale de sécurité aérienne[^42-2];
 - c. l’ordonnance du 23 août 1989 concernant la création de zones réglementées autour de certains aérodromes militaires[^42-3].
 
-[^42-1]: [[RO 1988 940](https://fedlex.data.admin.ch/eli/oc/1988/940_940_940), [1992 2399](https://fedlex.data.admin.ch/eli/oc/1992/2399_2399_2399)]
+[^42-1]: [[RO 1988 940](https://fedlex.data.admin.ch/eli/oc/1988/940_940_940); [1992 2399](https://fedlex.data.admin.ch/eli/oc/1992/2399_2399_2399)]
 [^42-2]: [[RO 1986 1683](https://fedlex.data.admin.ch/eli/oc/1986/1683_1683_1683)]
 [^42-3]: [[RO 1989 1761](https://fedlex.data.admin.ch/eli/oc/1989/1761_1761_1761)]
 
@@ -914,7 +915,7 @@ Sont abrogées:
 
 [^43-1]: Abrogé par le ch. I de l’O du 17 oct. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)).
 
-Annexe 1*[^t-2]*
+Annexe 1[^t-2]
 
 (art. 6, al. 1)
 
@@ -1055,7 +1056,7 @@ Les tâches de la navigation aérienne incombant à Skyguide comprennent:
 [^annex1-lvlu1-2]: [RS 748.111.1](https://fedlex.data.admin.ch/eli/cc/2005/284)
 [^annex1-lvlu1-3]: Règlement (CE) n<sup>o</sup> 2111/2005 du Parlement européen et du Conseil du 14 décembre 2005 concernant l’établissement d’une liste communautaire des transporteurs aériens qui font l’objet d’une interdiction d’exploitation dans la Communauté et l’information des passagers du transport aérien sur l’identité du transporteur aérien effectif, et abrogeant l’art. 9 de la directive 2004/36/CE.
 
-Annexe 2*[^t-3]*
+Annexe 2[^t-3]
 
 (art. 22 et 25)
 
@@ -1083,6 +1084,6 @@ Les aérodromes suivants sont attribués à la catégorie II visée à l’art. 
 - g. l’aérodrome régional de Sion;
 - h. l’aérodrome régional de Saint-Gall-Altenrhein.
 
-Annexe 3*[^t-4]*
+Annexe 3[^t-4]
 
 [^t-4]: Introduite par le ch. II de l’O du 29 juin 2011 ([RO 2011 3503](https://fedlex.data.admin.ch/eli/oc/2011/473)). Abrogée par le ch. II de l’O du 2 nov. 2016, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 4169](https://fedlex.data.admin.ch/eli/oc/2016/695)).

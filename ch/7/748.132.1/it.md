@@ -4,11 +4,11 @@ title: Ordinanza del 18 dicembre 1995 concernente il servizio della sicurezza ae
 short: OSA
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/595_595_595"
 language: it
-version: 2022-05-01
+version: 2023-09-01
 adopted: 1995-12-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/595_595_595/20220501/it/xml/fedlex-data-admin-ch-eli-cc-1996-595_595_595-20220501-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/595_595_595/20220501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/595_595_595/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1996-595_595_595-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/595_595_595/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/595_595_595/20220501/it"
 
 (OSA)
 
-del 18 dicembre 1995 (Stato 1° maggio 2022) (Stato 1° maggio 2022)
+del 18 dicembre 1995 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -27,7 +27,7 @@ in particolare del regolamento (CE) n. 549/2004[^ingress-6], del regolamento (CE
 
 ordina:
 
-[^ingress-1]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
+[^ingress-1]: RU **1996** 595 RS **748.0**
 [^ingress-2]: [RS 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
 [^ingress-3]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
 [^ingress-4]: [RS 0.748.112.12](https://fedlex.data.admin.ch/eli/cc/1986/1588_1588_1588)
@@ -37,9 +37,9 @@ ordina:
 [^ingress-8]: Regolamento di esecuzione (UE) n. 391/2013 della Commissione, del 3 maggio 2013, che istituisce un sistema di tariffazione comune per i servizi di navigazione aerea.
 [^ingress-9]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)).
 
-## Capitolo 1****:**** Disposizioni generali
+## Capitolo 1[^chap1-1]: Disposizioni generali
 
-[^chap1-1][^chap1-2]
+[^chap1-2]
 
 [^chap1-1]: L’unità di partizione «Sezione» è stata sostituita da «Capitolo» in tutto il presente testo giusta il n. I dell’O del 29 giu. 2011, in vigore dal 1° ago. 2011 ([RU 2011 3503](https://fedlex.data.admin.ch/eli/oc/2011/473)).
 [^chap1-2]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)). Correzione del 1° ott. 2019 ([RU 2019 3083](https://fedlex.data.admin.ch/eli/oc/2019/563)).
@@ -178,13 +178,13 @@ Le conversazioni radiotelefoniche con Swiss Radar si tengono in inglese. Sono fa
 
 [^5a-1]: Nuovo testo giusta il n. I dell’O del 16 feb. 2022, in vigore dal 1° mag. 2022 ([RU 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)).
 
-## Capitolo 2: Compiti della sicurezza aerea****
+## Capitolo 2: Compiti della sicurezza aerea
 
 [^chap2-1]
 
 [^chap2-1]: Originario avanti art. 5. Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)).
 
-### Sezione 1: Skyguide****
+### Sezione 1: Skyguide
 
 [^chap2-sec1-1]
 
@@ -263,7 +263,7 @@ Skyguide finanzia i suoi compiti segnatamente per mezzo:
 [^9-1]: Nuovo testo giusta il n. I dell’O del 29 giu. 2011, in vigore dal 1° ago. 2011 ([RU 2011 3503](https://fedlex.data.admin.ch/eli/oc/2011/473)).
 [^9-2]: Introdotta dal n. I dell’O del 16 feb. 2022, in vigore dal 1° mag. 2022 ([RU 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)).
 
-### Sezione 2:**** Delega della fornitura di servizi della sicurezza aerea locali
+### Sezione 2: Delega della fornitura di servizi della sicurezza aerea locali
 
 [^chap2-sec2-1]
 
@@ -305,7 +305,7 @@ La domanda dell’esercente dell’aerodromo o di Skyguide deve contenere i segu
 - b. un piano di attuazione contenente lo scadenzario delle tappe principali e la data prevista di messa in esercizio;
 - c. una descrizione della portata e dell’offerta dei servizi e dell’infrastruttura della sicurezza aerea dopo la loro presa a carico.
 
-### Sezione 3:**** Servizio di meteorologia aeronautica
+### Sezione 3: Servizio di meteorologia aeronautica
 
 [^chap2-sec3-1]
 
@@ -319,7 +319,7 @@ La domanda dell’esercente dell’aerodromo o di Skyguide deve contenere i segu
 
 [^9c-1]: Questi documenti possono essere ordinati o richiesti in abbonamento presso l’OACI.
 
-## Capitolo 3:**** Finanziamento del servizio della sicurezza aerea
+## Capitolo 3: Finanziamento del servizio della sicurezza aerea
 
 [^chap3-1]
 
@@ -741,7 +741,7 @@ La richiesta deve contenere tutte le indicazioni e i documenti necessari per val
 
 L’UFAC allestisce ogni anno il conto della sicurezza aerea svizzera. Quest’ultimo presenta una panoramica su costi e proventi totali dei servizi della sicurezza aerea forniti nello spazio aereo svizzero. Gli organi responsabili del finanziamento dei servizi della sicurezza aerea comunicano all’UFAC le informazioni necessarie.
 
-## Capitolo 4:**** Registrazione di conversazioni di fondo nel servizio della sicurezza aerea
+## Capitolo 4: Registrazione di conversazioni di fondo nel servizio della sicurezza aerea
 
 [^chap4-1]
 
@@ -753,7 +753,7 @@ L’UFAC allestisce ogni anno il conto della sicurezza aerea svizzera. Quest’u
 
 <sup>1</sup> Il fornitore dei servizi di controllo del traffico aereo civile registra, mediante un sistema idoneo (Ambient Voice Recording Equipment; AVRE), conversazioni e rumori di fondo presso gli organi di controllo del traffico aereo ai fini delle inchieste sugli incidenti e inconvenienti dell’aviazione civile secondo gli articoli 3 e 4 dell’ordinanza del 17 dicembre 2014[^40a-1] concernente le inchieste sulla sicurezza in caso di eventi imprevisti nei trasporti.[^40a-2]
 
-<sup>2</sup> Esso gestisce la collezione di dati allestita con l’AVRE ed è il servizio responsabile della protezione dei dati.
+<sup>2</sup> Esso gestisce la banca dati allestita con l’AVRE ed è il servizio responsabile della protezione dei dati.[^40a-3]
 
 <sup>3</sup> Esso può impiegare l’AVRE unicamente nei posti di lavoro di persone che forniscono i servizi di controllo del traffico aereo (controllori del traffico aereo interessati).
 
@@ -761,6 +761,7 @@ L’UFAC allestisce ogni anno il conto della sicurezza aerea svizzera. Quest’u
 
 [^40a-1]: [RS 742.161](https://fedlex.data.admin.ch/eli/cc/2015/26)
 [^40a-2]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)).
+[^40a-3]: Nuovo testo giusta l’all. 2 n. II 84 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 40b
 
@@ -870,7 +871,7 @@ Ai sensi dell’articolo 91 capoverso 1 lettera i LNA, è punito chiunque:
 - c. accede a registrazioni senza esserne autorizzato, utilizza o trasmette registrazioni, informazioni o dati marginali, oppure viola l’obbligo di trattare questi ultimi in modo confidenziale;
 - d. non rispetta le prescrizioni sui provvedimenti di protezione tecnici e organizzativi.
 
-## Capitolo 5:**** Disposizioni transitorie
+## Capitolo 5: Disposizioni transitorie
 
 [^chap5-1]
 
@@ -914,7 +915,7 @@ Sono abrogate:
 
 [^43-1]: Abrogato dal n. I dell’O del 17 ott. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)).
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 6 cpv. 1)
 
@@ -1028,7 +1029,7 @@ I compiti della sicurezza aerea di Skyguide comprendono:
 [^annex1-lvlu1-2]: [RS 748.111.1](https://fedlex.data.admin.ch/eli/cc/2005/284)
 [^annex1-lvlu1-3]: Regolamento del Parlamento europeo e del Consiglio, del 14 dicembre 2005, relativo all’istituzione di un elenco comunitario di vettori aerei soggetti a un divieto operativo all’interno della Comunità e alle informazioni da fornire ai passeggeri del trasporto aereo sull’identità del vettore aereo effettivo che abroga l’articolo 9 della direttiva 2004/36/CE.
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 22 e 25)
 
@@ -1056,6 +1057,6 @@ I seguenti aerodromi rientrano nella categoria II conformemente all’articolo 2
 - g. aerodromo regionale di Sion;
 - h aerodromo regionale di San Gallo-Altenrhein.
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 [^t-3]: Introdotto dal n. II dell’O del 29 giu. 2011 ([RU 2011 3503](https://fedlex.data.admin.ch/eli/oc/2011/473)). Abrogato dal n. II dell’O del 2 nov. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4169](https://fedlex.data.admin.ch/eli/oc/2016/695)).
