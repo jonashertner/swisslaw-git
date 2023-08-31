@@ -4,11 +4,11 @@ title: "Ordonnance du 25 mai 2011 sur l'utilisation des dénominations «montagn
 short: ODMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/340"
 language: fr
-version: 2021-01-01
+version: 2023-09-01
 adopted: 2011-05-25
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/340/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-340-20210101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/340/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/340/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2011-340-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/340/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/340/20210101/fr"
 
 (Ordonnance sur les dénominations «montagne» et «alpage», ODMA)
 
-du 25 mai 2011 (Etat le 1<sup>er</sup> janvier 2021)
+du 25 mai 2011 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -53,7 +53,7 @@ La présente ordonnance s’applique à l’utilisation des dénominations «mon
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5491](https://fedlex.data.admin.ch/eli/oc/2020/955)).
 
-## Section 2 Exigences auxquelles doivent satisfaire les produits et l’étiquetage****
+## Section 2 Exigences auxquelles doivent satisfaire les produits et l’étiquetage
 
 [^sec2-1]
 
@@ -127,7 +127,7 @@ Les dénominations «montagne» et «alpage» peuvent aussi être utilisées lor
 - d. pour les animaux: l’abattage et la découpe;
 - e.[^8-1] pour le miel: l’extraction et la transformation en miel prêt à la consommation.
 
-<sup>4</sup> et <sup>5</sup> ...[^8-2]
+<sup>4</sup> et <sup>5</sup> …[^8-2]
 
 [^8-1]: Introduite par le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5491](https://fedlex.data.admin.ch/eli/oc/2020/955)).
 [^8-2]: Abrogés par le ch. I de l’O du 18 oct. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6089](https://fedlex.data.admin.ch/eli/oc/2017/668)).
@@ -157,7 +157,7 @@ Les dénominations «montagne» et «alpage» peuvent aussi être utilisées lor
 [^9-1]: Introduit par le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6089](https://fedlex.data.admin.ch/eli/oc/2017/668)).
 [^9-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 
-## Section 3 Certification et contrôle****
+## Section 3 Certification et contrôle
 
 [^sec3-1]
 
@@ -198,7 +198,7 @@ Les organismes de certification doivent demander à l’Office fédéral de l’
   - 1\. mise en place d’une stratégie fondée sur l’évaluation des risques pour le contrôle des entreprises,
   - 2\. échange d’informations avec d’autres organismes de certification ou des tiers mandatés par ces derniers et avec les autorités chargées des tâches d’exécution,
   - 3\. application et suivi des mesures en vertu de l’art. 14*a*, al. 4, en cas d’irrégularités,
-  - 4\. respect des dispositions de la loi fédérale du 19 juin 1992 sur la protection des données[^11-3].
+  - 4\.[^11-3] respect des dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données[^11-4].
 
 <sup>2</sup> Ils doivent en outre satisfaire aux obligations visées aux art. 12 et 12*a*.
 
@@ -206,7 +206,8 @@ Les organismes de certification doivent demander à l’Office fédéral de l’
 
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6089](https://fedlex.data.admin.ch/eli/oc/2017/668)).
 [^11-2]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
-[^11-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^11-3]: Nouvelle teneur selon l’annexe 2 ch. II 127 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^11-4]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 12
 
@@ -260,7 +261,7 @@ Les exploitations visées à l’art. 12, al. 1, doivent:[^13-1]
 
 [^13-1]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5491](https://fedlex.data.admin.ch/eli/oc/2020/955)).
 
-## Section 4 Exécution****
+## Section 4 Exécution
 
 [^sec4-1]
 
@@ -315,7 +316,7 @@ L’OFAG procède à une inspection annuelle auprès des organismes de certifica
 
 [^14b-1]: Introduit par le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6089](https://fedlex.data.admin.ch/eli/oc/2017/668)).
 
-## Section 5 Dispositions finales****
+## Section 5 Dispositions finales
 
 [^sec5-1]
 
@@ -327,7 +328,7 @@ L’OFAG procède à une inspection annuelle auprès des organismes de certifica
 
 L’ordonnance du 8 novembre 2006 sur les désignations «montagne» et «alpage»[^15-1] est abrogée.
 
-[^15-1]: [[RO 2006 4833](https://fedlex.data.admin.ch/eli/oc/2006/747), [2008 5835](https://fedlex.data.admin.ch/eli/oc/2008/804)]
+[^15-1]: [[RO 2006 4833](https://fedlex.data.admin.ch/eli/oc/2006/747); [2008 5835](https://fedlex.data.admin.ch/eli/oc/2008/804)]
 
 #### Art. 16
 
@@ -347,7 +348,7 @@ L’ordonnance du 8 novembre 2006 sur les désignations «montagne» et «alpage
 
 <sup>7</sup> Les marques comprenant la dénomination «Alpes» qui ont été enregistrées entre le 1<sup>er</sup> janvier 2011 et le 31 décembre 2011 peuvent être utilisées jusqu’au 31 décembre 2013 pour des produits visés à l’art. 3, al. 2, ne satisfaisant pas aux exigences de la présente ordonnance.
 
-[^16-1]: [[RO 2006 4833](https://fedlex.data.admin.ch/eli/oc/2006/747), [2008 5835](https://fedlex.data.admin.ch/eli/oc/2008/804)]
+[^16-1]: [[RO 2006 4833](https://fedlex.data.admin.ch/eli/oc/2006/747); [2008 5835](https://fedlex.data.admin.ch/eli/oc/2008/804)]
 [^16-2]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6089](https://fedlex.data.admin.ch/eli/oc/2017/668)).
 
 #### Art. 16a

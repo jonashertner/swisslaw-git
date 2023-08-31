@@ -4,11 +4,11 @@ title: "Verordnung vom 25. Mai 2011 über die Verwendung der Bezeichnungen «Ber
 short: BAlV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/340"
 language: de
-version: 2021-01-01
+version: 2023-09-01
 adopted: 2011-05-25
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/340/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2011-340-20210101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/340/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/340/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2011-340-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/340/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/340/20210101/de"
 
 (Berg- und Alp-Verordnung, BAlV)
 
-vom 25. Mai 2011 (Stand am 1. Januar 2021)
+vom 25. Mai 2011 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -53,7 +53,7 @@ Diese Verordnung gilt für die Verwendung der Bezeichnungen «Berg» und «Alp»
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5491](https://fedlex.data.admin.ch/eli/oc/2020/955)).
 
-## 2. Abschnitt: Anforderungen an die Erzeugnisse und Kennzeichnung****
+## 2. Abschnitt: Anforderungen an die Erzeugnisse und Kennzeichnung
 
 [^sec2-1]
 
@@ -127,7 +127,7 @@ Die Bezeichnung «Berg» beziehungsweise «Alp» darf auch verwendet werden, wen
 - d. bei Tieren: die Schlachtung und Zerlegung;
 - e.[^8-1] bei Honig: das Herausschleudern und die Verarbeitung zu genussfertigem Honig.
 
-<sup>4</sup> und <sup>5</sup>...[^8-2]
+<sup>4</sup> und <sup>5</sup>…[^8-2]
 
 [^8-1]: Eingefügt durch Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5491](https://fedlex.data.admin.ch/eli/oc/2020/955)).
 [^8-2]: Aufgehoben durch Ziff. I der V vom 18. Okt. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6089](https://fedlex.data.admin.ch/eli/oc/2017/668)).
@@ -157,7 +157,7 @@ Die Bezeichnung «Berg» beziehungsweise «Alp» darf auch verwendet werden, wen
 [^9-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6089](https://fedlex.data.admin.ch/eli/oc/2017/668)).
 [^9-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst.
 
-## 3. Abschnitt: Zertifizierung und Kontrolle****
+## 3. Abschnitt: Zertifizierung und Kontrolle
 
 [^sec3-1]
 
@@ -198,7 +198,7 @@ Die Zertifizierungsstellen müssen für ihre Tätigkeit gemäss dieser Verordnun
   - 1\. Aufstellung einer risikobasierten Strategie für die Kontrolle der Betriebe,
   - 2\. Informationsaustausch mit anderen Zertifizierungsstellen oder von diesen beauftragten Dritten und mit den mit Vollzugsaufgaben beauftragten Behörden,
   - 3\. Anwendung und Weiterverfolgung der Massnahmen nach Artikel 14*a* Absatz 4 im Falle von Unregelmässigkeiten,
-  - 4\. Einhaltung der Vorschriften des Bundesgesetzes vom 19. Juni 1992[^11-3] über den Datenschutz.
+  - 4\.[^11-3] Einhaltung der Vorschriften des Datenschutzgesetzes vom 25. September 2020[^11-4].
 
 <sup>2</sup> Sie müssen zudem die Pflichten nach den Artikeln 12 und 12*a* erfüllen.
 
@@ -206,7 +206,8 @@ Die Zertifizierungsstellen müssen für ihre Tätigkeit gemäss dieser Verordnun
 
 [^11-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6089](https://fedlex.data.admin.ch/eli/oc/2017/668)).
 [^11-2]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
-[^11-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^11-3]: Fassung gemäss Anhang 2 Ziff. II 127 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^11-4]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 12
 
@@ -260,7 +261,7 @@ Die Betriebe nach Artikel 12 Absatz 1 müssen:[^13-1]
 
 [^13-1]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5491](https://fedlex.data.admin.ch/eli/oc/2020/955)).
 
-## 4. Abschnitt: Vollzug****
+## 4. Abschnitt: Vollzug
 
 [^sec4-1]
 
@@ -315,7 +316,7 @@ Das BLW führt jährlich eine Inspektion der nach Artikel 11 in der Schweiz zuge
 
 [^14b-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6089](https://fedlex.data.admin.ch/eli/oc/2017/668)).
 
-## 5. Abschnitt: Schlussbestimmungen****
+## 5. Abschnitt: Schlussbestimmungen
 
 [^sec5-1]
 
@@ -327,7 +328,7 @@ Das BLW führt jährlich eine Inspektion der nach Artikel 11 in der Schweiz zuge
 
 Die Berg- und Alp-Verordnung vom 8. November 2006[^15-1] wird aufgehoben.
 
-[^15-1]: [[AS 2006 4833](https://fedlex.data.admin.ch/eli/oc/2006/747), [2008 5835](https://fedlex.data.admin.ch/eli/oc/2008/804)]
+[^15-1]: [[AS 2006 4833](https://fedlex.data.admin.ch/eli/oc/2006/747); [2008 5835](https://fedlex.data.admin.ch/eli/oc/2008/804)]
 
 #### Art. 16
 
@@ -347,7 +348,7 @@ Die Berg- und Alp-Verordnung vom 8. November 2006[^15-1] wird aufgehoben.
 
 <sup>7</sup> Marken, die die Bezeichnung «Alpen» enthalten und die zwischen dem 1. Januar 2011 und dem 31. Dezember 2011 hinterlegt wurden, dürfen noch bis zum 31. Dezember 2013 für Erzeugnisse nach Artikel 3 Absatz 2 verwendet werden, die die Anforderungen dieser Verordnung nicht erfüllen.
 
-[^16-1]: [[AS 2006 4833](https://fedlex.data.admin.ch/eli/oc/2006/747), [2008 5835](https://fedlex.data.admin.ch/eli/oc/2008/804)]
+[^16-1]: [[AS 2006 4833](https://fedlex.data.admin.ch/eli/oc/2006/747); [2008 5835](https://fedlex.data.admin.ch/eli/oc/2008/804)]
 [^16-2]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6089](https://fedlex.data.admin.ch/eli/oc/2017/668)).
 
 #### Art. 16a

@@ -4,11 +4,11 @@ title: "Ordinanza del 25 maggio 2011 concernente l'impiego delle designazioni «
 short: ODMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/340"
 language: it
-version: 2021-01-01
+version: 2023-09-01
 adopted: 2011-05-25
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/340/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2011-340-20210101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/340/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/340/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2011-340-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/340/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/340/20210101/it"
 
 (Ordinanza sulle designazioni «montagna» e «alpe», ODMA)
 
-del 25 maggio 2011 (Stato 1° gennaio 2021)
+del 25 maggio 2011 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -53,7 +53,7 @@ La presente ordinanza si applica all’impiego delle designazioni «montagna» e
 
 [^3-1]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5491](https://fedlex.data.admin.ch/eli/oc/2020/955)).
 
-## Sezione 2: Esigenze riguardanti i prodotti e caratterizzazione****
+## Sezione 2: Esigenze riguardanti i prodotti e caratterizzazione
 
 [^sec2-1]
 
@@ -78,7 +78,7 @@ La presente ordinanza si applica all’impiego delle designazioni «montagna» e
 <sup>2</sup> La designazione «alpe» può essere impiegata per i prodotti d’origine animale soltanto se sono adempiute le esigenze riguardanti il foraggiamento di cui all’articolo 31 dell’ordinanza del 23 ottobre 2013[^5-1] sui pagamenti diretti.[^5-2]
 
 [^5-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^5-2]: Nuovo testo giusta il n. 12 dell’all. 9 dell’O del 23 ott. 2013 sui pagamenti diretti, in vigore dal 1° gen. 2014 ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
+[^5-2]: Nuovo testo giusta l’all. 9 n. 12 dell’O del 23 ott. 2013 sui pagamenti diretti, in vigore dal 1° gen. 2014 ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
 
 #### Art. 6
 
@@ -157,7 +157,7 @@ La designazione «montagna» o «alpe» può essere impiegata anche se le seguen
 [^9-1]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6089](https://fedlex.data.admin.ch/eli/oc/2017/668)).
 [^9-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013.
 
-## Sezione 3: Certificazione e controllo****
+## Sezione 3: Certificazione e controllo
 
 [^sec3-1]
 
@@ -198,7 +198,7 @@ Gli enti di certificazione devono essere autorizzati, su richiesta, dall’Uffic
   - 1\. elaborazione di una strategia basata sul rischio per il controllo delle aziende,
   - 2\. scambio di informazioni con altri enti di certificazione o con terzi incaricati da questi ultimi e con le autorità esecutive,
   - 3\. applicazione e monitoraggio dei provvedimenti adottati in virtù dell’articolo 14*a* capoverso 4 in caso di irregolarità,
-  - 4\. rispetto delle disposizioni della legge federale del 19 giugno 1992[^11-3] sulla protezione dei dati.
+  - 4\.[^11-3] rispetto delle disposizioni della legge federale del 25 settembre 2020[^11-4] sulla protezione dei dati.
 
 <sup>2</sup> Devono inoltre adempiere gli obblighi di cui agli articoli 12 e 12*a*.
 
@@ -206,7 +206,8 @@ Gli enti di certificazione devono essere autorizzati, su richiesta, dall’Uffic
 
 [^11-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6089](https://fedlex.data.admin.ch/eli/oc/2017/668)).
 [^11-2]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
-[^11-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^11-3]: Nuovo testo giusta l’all. 2 n. II 127 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^11-4]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 12
 
@@ -260,7 +261,7 @@ Le aziende di cui all’articolo 12 capoverso 1 devono:[^13-1]
 
 [^13-1]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5491](https://fedlex.data.admin.ch/eli/oc/2020/955)).
 
-## Sezione 4: Esecuzione****
+## Sezione 4: Esecuzione
 
 [^sec4-1]
 
@@ -315,7 +316,7 @@ L’UFAG ispeziona annualmente gli enti di certificazione autorizzati in Svizzer
 
 [^14b-1]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6089](https://fedlex.data.admin.ch/eli/oc/2017/668)).
 
-## Sezione 5: Disposizioni finali****
+## Sezione 5: Disposizioni finali
 
 [^sec5-1]
 
