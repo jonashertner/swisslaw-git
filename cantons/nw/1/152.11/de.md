@@ -4,13 +4,13 @@ number: "152.11"
 title: Vollzugsverordnung zum Gesetz über die Organisation des Regierungsrates und der Verwaltung
 short: "Regierungsratsverordnung, RRV"
 language: de
-version: 2022-07-01
-valid_until: 2023-08-31
-version_adopted: 2022-06-21
+version: 2023-09-01
+valid_until: 2023-11-30
+version_adopted: 2023-05-16
 adopted: 1998-07-07
 in_force: 1998-07-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/152.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1377/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1378/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1377/pdf_file"
 
 (Regierungsratsverordnung, RRV)
 
-vom 07.07.1998 (Stand 01.07.2022)
+vom 07.07.1998 (Stand 01.09.2023)
 
 Der Regierungsrat von Nidwalden,
 
@@ -664,7 +664,7 @@ beschliesst:
 
 - a. GIS Daten AG
 - b. Bahnhofparking Stans AG
-- c. Heizverbund untere Kniri AG Stans
+- c. …
 
 [^A13-1]: Berichtigung vom 22.09.2022 gemäss § 13 Publikationsverordnung
 
@@ -809,18 +809,20 @@ beschliesst:
   - 7\. Pflanzenschutz gemäss Landwirtschaftsgesetzgebung
   - 8\. Soziale Begleitmassnahmen
   - 9\. Beratung und Weiterbildung
-- c. Amt für Wald und Energie
+- c. Amt für Wald und Naturgefahren
   - 1\. Waldwirtschaft
   - 2\. Verwaltung der Staatswaldungen und der Waldungen kantonaler Stiftungen
   - 3\. Forstliche Erschliessungen und Verbauungen
-  - 4\. Naturgefahren (Lawinen, Rutschungen und Steinschlag)
+  - 4\. Naturgefahren
   - 5\. Wanderwege
   - 6\. Luftseilbahnen und Skilifte
-  - 7\. Energiewirtschaft (ohne Bergregal), einschliesslich fossile und erneuerbare Energien
-  - 8\. Elektrizitätsversorgung
-  - 9\. Energieberatung und Förderprogramm
-  - 10\. Wasserkraft
-- d. Amt für Umwelt
+  - 7\.–10. …
+  - 11\. Wasserbau Engelberger-Aa
+  - 12\. Gewässerunterhalt der Engelberger-Aa und des Vierwaldstättersees
+  - 13\. Aufsicht über den Wasserbau und den Gewässerunterhalt der Gemeinden und Privater
+  - 14\. Regulierung Vierwaldstättersee
+  - 15\. Überwachung von Stauanlagen
+- d. Amt für Umwelt und Energie
   - 1\. Schutz ober- und unterirdischer Gewässer
   - 2\. Abwasser
   - 3\. Wassergefährdende Flüssigkeiten
@@ -833,22 +835,20 @@ beschliesst:
   - 10\. Umweltgefährdende Stoffe
   - 11\. Nichtionisierende Strahlung (NIS) einschliesslich Lichtimmissionen
   - 12\. Trinkwasserversorgung in Notlagen
-  - 13\. Gewässernutzung (ohne Wasserkraft)
+  - 13\. Gewässernutzung
   - 14\. Bergregal, Nutzung des Untergrundes
   - 15\. Kantonsgeologie
   - 16\. Klima
   - 17\. Störfallvorsorge
-- e. Amt für Naturgefahren
-  - 1\. Wasserbau Engelberger-Aa
-  - 2\. Gewässerunterhalt der Engelberger-Aa und des Vierwaldstättersees
-  - 3\. Aufsicht über den Wasserbau und den Gewässerunterhalt der Gemeinden und Privater
-  - 4\. Regulierung Vierwaldstättersee
-  - 5\. Naturgefahren (Wasser, Erdbeben)
-  - 6\. Überwachung von Stauanlagen
+  - 18\. Energiewirtschaft, einschliesslich fossile und erneuerbare Energien
+  - 19\. Elektrizitätsversorgung
+  - 20\. Energieberatung und Förderprogramm
+- e. …
 
 <sup>2</sup> Der Landwirtschafts- und Umweltdirektion sind zugewiesen:
 
 - a. Kantonales Elektrizitätswerk Nidwalden (EWN)
+- b. Heizverbund untere Kniri AG Stans
 
 #### § A1-7
 
