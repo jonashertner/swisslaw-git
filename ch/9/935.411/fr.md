@@ -4,11 +4,11 @@ title: "Ordonnance du 24 juin 2015 sur les prestations de sécurité privées fo
 short: OPSP
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/451"
 language: fr
-version: 2021-01-01
+version: 2023-09-01
 adopted: 2015-06-24
 in_force: 2015-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/451/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-451-20210101-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/451/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/451/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2015-451-20230901-fr-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/451/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/451/20210101/fr"
 
 (OPSP)
 
-du 24 juin 2015 (État le 1<sup>er</sup> janvier 2021)
+du 24 juin 2015 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -43,7 +43,7 @@ Un environnement complexe est une zone qui répond aux critères suivants:
 
 <sup>2</sup> Lorsque la Confédération engage une entreprise pour l’exécution de tâches en matière de protection dans une zone qui ne constitue pas un environnement complexe au sens de l’al. 1, l’ordonnance du 24 juin 2015 sur l’engagement d’entreprises de sécurité[^1-4] s’applique.
 
-[^1-1]: Nouvelle teneur selon le ch. I de l’O du 11 novembre 2020, en vigueur depuis le 1<sup>er</sup> janvier 2021 ([RO 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
 [^1-2]: [RS 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180);[0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205);[0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226);[0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
 [^1-3]: [RS 0.518.521](https://fedlex.data.admin.ch/eli/cc/1982/1362_1362_1362);[0.518.522](https://fedlex.data.admin.ch/eli/cc/1982/1432_1432_1432)
 [^1-4]: [RS 124](https://fedlex.data.admin.ch/eli/cc/2015/435)
@@ -65,7 +65,7 @@ Est réputée apporter un soutien logistique à des forces armées ou à des for
 - e. le transport, l’entreposage ou le transbordement de matériel de guerre au sens de la LFMG ou de biens militaires spécifiques au sens de la LCB;
 - f. le transport du personnel des forces armées ou des forces de sécurité.
 
-[^1a-1]: Introduit par le ch. I de l’O du 11 novembre 2020, en vigueur depuis le 1<sup>er</sup> janvier 2021 ([RO 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
+[^1a-1]: Introduit par le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
 [^1a-2]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
 [^1a-3]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
 
@@ -77,7 +77,7 @@ Est réputée apporter un soutien logistique à des forces armées ou à des for
 
 <sup>2</sup> Est réputée entretenir un système d’armement toute entreprise qui procède pour le compte de forces armées ou de forces de sécurité à la maintenance ou la réparation de matériel de guerre au sens de la LFMG.
 
-[^1b-1]: Introduit par le ch. I de l’O du 11 novembre 2020, en vigueur depuis le 1<sup>er</sup> janvier 2021 ([RO 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
+[^1b-1]: Introduit par le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
 [^1b-2]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
 
 #### Art. 1c
@@ -88,7 +88,7 @@ Est réputée apporter un soutien logistique à des forces armées ou à des for
 
 <sup>2</sup> Est réputée assurer la formation du personnel de forces armées ou de forces de sécurité toute entreprise qui fournit au personnel de celles-ci une instruction ou un entraînement technique, tactique ou stratégique en relation étroite avec les fonctions essentielles qu’elles remplissent.
 
-[^1c-1]: Introduit par le ch. I de l’O du 11 novembre 2020, en vigueur depuis le 1<sup>er</sup> janvier 2021 ([RO 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
+[^1c-1]: Introduit par le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
 
 #### Art. 2
 
@@ -106,7 +106,7 @@ Une entreprise est considérée comme ayant adhéré au Code de conduite interna
 
 L’autorité compétente est le Secrétariat d’État du Département fédéral des affaires étrangères (Secrétariat d’État DFAE)[^3-1].
 
-[^3-1]: La dénomination de l’unité administrative a été adaptée au 1<sup>er</sup> janvier 2021 en application de l’art. 20, al. 2 de l’O du 7 octobre 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)). Il a été tenu compte de cette mod. dans tout le texte.
+[^3-1]: La dénomination de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2021 en application de l’art. 20, al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 4
 
@@ -190,7 +190,7 @@ Lorsqu’une des prestations de sécurité privées visées à l’art. 4, let. 
 
 <sup>4</sup> Le présent article n’est pas applicable lorsque l’activité constitue un soutien opérationnel.
 
-[^8a-1]: Introduit par le ch. I de l’O du 11 novembre 2020, en vigueur depuis le 1<sup>er</sup> janvier 2021 ([RO 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
+[^8a-1]: Introduit par le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
 [^8a-2]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
 [^8a-3]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
 
@@ -204,7 +204,7 @@ Lorsqu’une des prestations de sécurité privées visées à l’art. 4, let. 
 
 <sup>3</sup> Dans les cas d’importance mineure ou s’il existe des précédents, les autorités intéressées peuvent renoncer à traiter les demandes en commun et autoriser le Secrétariat d’État DFAE à prendre seul la décision.
 
-[^8b-1]: Introduit par le ch. I de l’O du 11 novembre 2020, en vigueur depuis le 1<sup>er</sup> janvier 2021 ([RO 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
+[^8b-1]: Introduit par le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
 
 #### Art. 9
 
@@ -278,9 +278,10 @@ Le Secrétariat d’État DFAE est en outre habilité à traiter les données se
 - e. désignation des autorités concernées;
 - f. copie du jugement et toute autre information liée au jugement.
 
-<sup>4</sup> Les données personnelles et les données sensibles sont proposées aux Archives fédérales quinze ans après avoir été traitées pour la dernière fois (art. 21 de la LF du 19 juin 1992 sur la protection des données[^12-1]).
+<sup>4</sup> Les données personnelles et les données sensibles sont proposées aux Archives fédérales quinze ans après avoir été traitées pour la dernière fois (art. 38 de la loi fédérale du 25 septembre 2020 sur la protection des données[^12-1]).[^12-2]
 
 [^12-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^12-2]: Nouvelle teneur selon l’annexe 2 ch. II 132 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 4 Assistance administrative en Suisse
 
@@ -350,7 +351,7 @@ Il contient en outre:
 
 <sup>2</sup> Le contrat-type est accessible en ligne.
 
-[^15-1]: Nouvelle teneur selon le ch. I de l’O du 11 novembre 2020, en vigueur depuis le 1<sup>er</sup> janvier 2021 ([RO 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
 
 #### Art. 16
 

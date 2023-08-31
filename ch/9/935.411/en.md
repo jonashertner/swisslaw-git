@@ -4,11 +4,11 @@ title: Ordinance of 24 June 2015 on Private Security Services provided Abroad (O
 short: OPSA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/451"
 language: en
-version: 2021-01-01
+version: 2023-09-01
 adopted: 2015-06-24
 in_force: 2015-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/451/20210101/en/xml/fedlex-data-admin-ch-eli-cc-2015-451-20210101-en-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/451/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/451/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2015-451-20230901-en-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/451/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (OPSA)
 
-of 24 June 2015 (Status as of 1 January 2021)
+of 24 June 2015 (Status as of 1 September 2023)
 
 The Swiss Federal Council,
 
@@ -42,7 +42,8 @@ A complex environment is any area:
 - a. experiencing or recovering from unrest, or instability due to natural disaster or armed conflict in terms of the Geneva Conventions[^1-1] and Additional Protocols I and II[^1-2];
 - b. where the rule of law has been substantially undermined; and
 - c. in which the capacity of the state authority to handle the situation is limited or non-existent.
-- [tab] <sup>2</sup> If the Confederation contracts with a company for the performance of protection tasks in an area that is not a complex environment in terms of paragraph 1, the Ordinance of 24 June 2015[^1-3] on the Use of Private Security Companies applies.
+
+<sup>2</sup> If the Confederation contracts with a company for the performance of protection tasks in an area that is not a complex environment in terms of paragraph 1, the Ordinance of 24 June 2015[^1-3] on the Use of Private Security Companies applies.
 
 [^1-1]: [SR 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180);[0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205);[0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226);[0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
 [^1-2]: [SR 0.518.521](https://fedlex.data.admin.ch/eli/cc/1982/1362_1362_1362);[0.518.522](https://fedlex.data.admin.ch/eli/cc/1982/1432_1432_1432)
@@ -252,7 +253,7 @@ The company is obliged to keep records of its activities. It must be able to pro
 
 <sup>1</sup>
 
-In order to fulfil its statutory duties, the State Secretariat FDFA is authorised to process particularly sensitive personal data on administrative or criminal prosecutions and sanctions as well as other personal data provided it relates to the following persons:
+In order to fulfil its statutory duties, the State Secretariat FDFA is authorised to process sensitive personal data on administrative or criminal prosecutions and sanctions as well as other personal data provided it relates to the following persons:[^12-1]
 
 - a. the members of the management board and the supervisory bodies;
 - b. the company personnel;
@@ -269,7 +270,7 @@ The following personal data may be processed:
 
 <sup>3</sup>
 
-The State Secretariat FDFA is also authorised to process the following particularly sensitive personal data on administrative or criminal prosecutions and sanctions:
+The State Secretariat FDFA is also authorised to process the following sensitive personal data on administrative or criminal prosecutions and sanctions:[^12-2]
 
 - a. name, first name, date of birth, domicile and nationality the person concerned;
 - b. identity of the company concerned;
@@ -278,9 +279,12 @@ The State Secretariat FDFA is also authorised to process the following particula
 - e. name of the authorities concerned;
 - f. copy of the judgment and any other information connected with the judgment.
 
-<sup>4</sup> Personal data and particularly sensitive personal data shall be offered 15 years after its final processing to the Federal Archives for archiving (Art. 21 of the Federal Act of 19 June 1992[^12-1] on Data protection).
+<sup>4</sup> Personal data and particularly sensitive personal data shall be offered 15 years after its final processing to the Federal Archives for archiving (Art. 38 of the Data Protection Act of 25 September 2020[^12-3]).[^12-4]
 
-[^12-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^12-1]: Amended by Annex 2 No II 132 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-2]: Amended by Annex 2 No II 132 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^12-4]: Amended by Annex 2 No II 132 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 4 Administrative Assistance in Switzerland
 

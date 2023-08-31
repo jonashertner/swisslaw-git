@@ -4,11 +4,11 @@ title: "Ordinanza del 24 giugno 2015 sulle prestazioni di sicurezza private forn
 short: OPSP
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/451"
 language: it
-version: 2021-01-01
+version: 2023-09-01
 adopted: 2015-06-24
 in_force: 2015-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/451/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2015-451-20210101-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/451/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/451/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2015-451-20230901-it-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/451/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/451/20210101/it"
 
 (OPSP)
 
-del 24 giugno 2015 (Stato 1° gennaio 2021)
+del 24 giugno 2015 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -64,7 +64,7 @@ Per sostegno logistico a forze armate o di sicurezza s’intendono le attività 
 - e. il trasporto, il deposito o il trasbordo di materiale bellico secondo la LMB o di beni militari speciali secondo la LBDI;
 - f. il trasporto di personale delle forze armate o di sicurezza.
 
-[^1a-1]: Introdotto dal n. I dell’O dell’11 novembre 2020, in vigore dal 1° gennaio 2021 ([RU 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
+[^1a-1]: Introdotto dalla cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
 [^1a-2]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
 [^1a-3]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
 
@@ -76,7 +76,7 @@ Per sostegno logistico a forze armate o di sicurezza s’intendono le attività 
 
 <sup>2</sup> Per manutenzione di sistemi d’arma s’intende la manutenzione o la riparazione di materiale bellico secondo la LMB per conto di forze armate o di sicurezza.
 
-[^1b-1]: Introdotto dal n. I dell’O dell’11 novembre 2020, in vigore dal 1° gennaio 2021 ([RU 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
+[^1b-1]: Introdotto dalla cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
 [^1b-2]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
 
 #### Art. 1c
@@ -87,7 +87,7 @@ Per sostegno logistico a forze armate o di sicurezza s’intendono le attività 
 
 <sup>2</sup> Per formazione di personale delle forze armate o di sicurezza s’intende l’istruzione o l’addestramento tecnico, tattico o strategico di personale delle forze armate o di sicurezza in stretta relazione con i loro compiti principali.
 
-[^1c-1]: Introdotto dal n. I dell’O dell’11 novembre 2020, in vigore dal 1° gennaio 2021 ([RU 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
+[^1c-1]: Introdotto dalla cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
 
 #### Art. 2
 
@@ -105,7 +105,7 @@ Si considera che un’impresa ha aderito al Codice di condotta internazionale pe
 
 L’autorità federale competente è la Segreteria di Stato del Dipartimento federale degli affari esteri (Segreteria di Stato DFAE)[^3-1].
 
-[^3-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ottobre 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gennaio 2021. Di detta mod. è tenuto conto in tutto il presente testo.
+[^3-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ottobre 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2021. Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 4
 
@@ -189,7 +189,7 @@ Se una prestazione di sicurezza privata secondo l’articolo 4 lettera a numeri 
 
 <sup>4</sup> Il presente articolo non è applicabile se l’attività costituisce un sostegno operativo.
 
-[^8a-1]: Introdotto dal n. I dell’O dell’11 novembre 2020, in vigore dal 1° gennaio 2021 ([RU 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
+[^8a-1]: Introdotto dalla cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
 [^8a-2]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
 [^8a-3]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
 
@@ -203,7 +203,7 @@ Se una prestazione di sicurezza privata secondo l’articolo 4 lettera a numeri 
 
 <sup>3</sup> In casi di importanza minore o qualora vi siano dei precedenti, le autorità interessate possono rinunciare a una trattazione comune e autorizzare la Segreteria di Stato DFAE a decidere autonomamente.
 
-[^8b-1]: Introdotto dal n. I dell’O dell’11 novembre 2020, in vigore dal 1° gennaio 2021 ([RU 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
+[^8b-1]: Introdotto dalla cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
 
 #### Art. 9
 
@@ -251,7 +251,7 @@ L’impresa è tenuta a documentare le sue attività. Deve essere in grado di me
 
 <sup>1</sup>
 
-Ai fini dell’adempimento dei suoi compiti legali, la Segreteria di Stato DFAE è autorizzata a trattare dati degni di particolare protezione relativi a perseguimenti e sanzioni penali o amministrativi nonché altri dati personali, se riguardano le persone seguenti:
+Ai fini dell’adempimento dei suoi compiti legali, la Segreteria di Stato del DFAE è autorizzata a trattare dati personali degni di particolare protezione concernenti perseguimenti e sanzioni amministrativi e penali nonché altri dati personali, se riguardano le persone seguenti:[^12-1]
 
 - a. i membri della direzione e degli organi di sorveglianza;
 - b. il personale dell’impresa;
@@ -268,7 +268,7 @@ Possono essere trattati i dati personali seguenti:
 
 <sup>3</sup>
 
-La Segreteria di Stato DFAE è inoltre autorizzata a trattare i seguenti dati degni di particolare protezione relativi a perseguimenti e sanzioni penali o amministrativi:
+La Segreteria di Stato del DFAE è inoltre autorizzata a trattare i seguenti dati personali degni di particolare protezione concernenti perseguimenti e sanzioni amministrativi e penali:[^12-2]
 
 - a. cognome, nome, data di nascita, domicilio e nazionalità della persona interessata;
 - b. identità dell’impresa interessata;
@@ -277,9 +277,12 @@ La Segreteria di Stato DFAE è inoltre autorizzata a trattare i seguenti dati de
 - e. designazione delle autorità coinvolte;
 - f. copia della sentenza e ogni altra informazione ad essa correlata.
 
-<sup>4</sup> I dati personali e i dati degni di particolare protezione sono offerti per archiviazione all’Archivio federale 15 anni dopo l’ultimo trattamento (art. 21 della LF del 19 giu. 1992[^12-1] sulla protezione dei dati).
+<sup>4</sup> I dati personali e i dati personali degni di particolare protezione sono offerti per archiviazione all’Archivio federale 15 anni dopo l’ultimo trattamento (art. 38 della legge federale del 25 settembre 2020[^12-3] sulla protezione dei dati).[^12-4]
 
-[^12-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^12-1]: Nuovo testo giusta l’all. 2 cifra II 132 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-2]: Nuovo testo giusta l’all. 2 cifra II 132 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^12-4]: Nuovo testo giusta l’all. 2 cifra II 132 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 4: Assistenza amministrativa in Svizzera
 
@@ -349,7 +352,7 @@ Il contratto contiene inoltre:
 
 <sup>2</sup> Il contratto tipo è reperibile online.
 
-[^15-1]: Nuovo testo giusta n. I dell’O dell’11 novembre 2020, in vigore dal 1° gennaio 2021 ([RU 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
+[^15-1]: Nuovo testo giusta cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
 
 #### Art. 16
 
@@ -369,7 +372,7 @@ Nelle regioni in cui non vi sono imprese che abbiano aderito all’ICoCA, il DFA
 
 **Disposizione transitoria**
 
-<sup>1</sup> Entro il 1° settembre 2018 l’autorità committente adegua i contratti in corso che non soddisfano le condizioni della LPSP.
+Entro il 1° settembre 2018 l’autorità committente adegua i contratti in corso che non soddisfano le condizioni della LPSP.
 
 #### Art. 19
 

@@ -4,11 +4,11 @@ title: Verordnung vom 24. Juni 2015 über die im Ausland erbrachten privaten Sic
 short: VPS
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/451"
 language: de
-version: 2021-01-01
+version: 2023-09-01
 adopted: 2015-06-24
 in_force: 2015-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/451/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2015-451-20210101-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/451/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/451/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2015-451-20230901-de-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/451/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/451/20210101/de"
 
 (VPS)
 
-vom 24. Juni 2015 (Stand am 1. Januar 2021)
+vom 24. Juni 2015 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -64,7 +64,7 @@ Als logistische Unterstützung von Streit- oder Sicherheitskräften gelten Täti
 - e. der Transport, die Lagerung oder der Umschlag von Kriegsmaterial nach dem KMG oder von besonderen militärischen Gütern nach dem GKG;
 - f. der Transport von Angehörigen von Streit- oder Sicherheitskräften.
 
-[^1a-1]: Eingefügt durch Ziff. I der V vom 11. November 2020, in Kraft seit 1. Januar 2021 ([AS 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
+[^1a-1]: Eingefügt durch Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
 [^1a-2]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
 [^1a-3]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
 
@@ -76,7 +76,7 @@ Als logistische Unterstützung von Streit- oder Sicherheitskräften gelten Täti
 
 <sup>2</sup> Als Wartung von Waffensystemen gilt die Instandhaltung oder die Reparatur von Kriegsmaterial nach dem KMG zugunsten von Streit- oder Sicherheitskräften.
 
-[^1b-1]: Eingefügt durch Ziff. I der V vom 11. November 2020, in Kraft seit 1. Januar 2021 ([AS 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
+[^1b-1]: Eingefügt durch Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
 [^1b-2]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
 
 #### Art. 1c
@@ -87,7 +87,7 @@ Als logistische Unterstützung von Streit- oder Sicherheitskräften gelten Täti
 
 <sup>2</sup> Als Ausbildung von Angehörigen von Streit- oder Sicherheitskräften gilt die Instruktion oder das Training technischer, taktischer oder strategischer Art von Angehörigen von Streit- oder Sicherheitskräften im engen Zusammenhang mit deren Kernaufgaben.
 
-[^1c-1]: Eingefügt durch Ziff. I der V vom 11. November 2020, in Kraft seit 1. Januar 2021 ([AS 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
+[^1c-1]: Eingefügt durch Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
 
 #### Art. 2
 
@@ -105,7 +105,7 @@ Als dem internationalen Verhaltenskodex für private Sicherheitsdienstleister (V
 
 Zuständige Behörde ist das Staatssekretariat des Eidgenössischen Departements für auswärtige Angelegenheiten (Staatssekretariat EDA)[^3-1].
 
-[^3-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Oktober 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Januar 2021 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
+[^3-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2021 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 4
 
@@ -189,7 +189,7 @@ Muss eine private Sicherheitsdienstleistung nach Artikel 4 Buchstabe a Ziffern 1
 
 <sup>4</sup> Dieser Artikel ist nicht anwendbar, wenn es sich bei der Tätigkeit um eine operationelle Unterstützung handelt.
 
-[^8a-1]: Eingefügt durch Ziff. I der V vom 11. November 2020, in Kraft seit 1. Januar 2021 ([AS 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
+[^8a-1]: Eingefügt durch Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
 [^8a-2]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
 [^8a-3]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
 
@@ -203,7 +203,7 @@ Muss eine private Sicherheitsdienstleistung nach Artikel 4 Buchstabe a Ziffern 1
 
 <sup>3</sup> Die beteiligten Behörden können in Fällen von geringer Bedeutung oder bei Vorliegen von Präzedenzentscheiden auf eine gemeinsame Behandlung verzichten und das Staatssekretariat EDA ermächtigen, allein zu entscheiden.
 
-[^8b-1]: Eingefügt durch Ziff. I der V vom 11. November 2020, in Kraft seit 1. Januar 2021 ([AS 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
+[^8b-1]: Eingefügt durch Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
 
 #### Art. 9
 
@@ -251,7 +251,7 @@ Das Unternehmen ist verpflichtet, seine Tätigkeiten zu dokumentieren. Es muss i
 
 <sup>1</sup>
 
-Zur Wahrnehmung seiner gesetzlichen Aufgaben ist das Staatssekretariat EDA befugt, besonders schützenswerte Personendaten zu administrativen oder strafrechtlichen Verfolgungen und Sanktionen sowie andere Personendaten zu bearbeiten, wenn diese die folgenden Personen betreffen:
+Zur Wahrnehmung ihrer gesetzlichen Aufgaben ist das Staatssekretariat EDA befugt, besonders schützenswerte Personendaten über verwaltungs- und strafrechtliche Verfolgungen oder Sanktionen sowie andere Personendaten zu bearbeiten, wenn diese die folgenden Personen betreffen:[^12-1]
 
 - a. die Mitglieder der Geschäftsleitung und die Aufsichtsorgane;
 - b. das Personal des Unternehmens;
@@ -268,7 +268,7 @@ Bearbeitet werden können die folgenden Personendaten:
 
 <sup>3</sup>
 
-Das Staatssekretariat EDA ist ausserdem befugt, die folgenden besonders schützenswerten Personendaten zu administrativen oder strafrechtlichen Verfolgungen und Sanktionen zu bearbeiten:
+Das Staatssekretariat EDA ist ausserdem befugt, die folgenden besonders schützenswerten Personendaten über verwaltungs- und strafrechtliche Verfolgungen oder Sanktionen zu bearbeiten:[^12-2]
 
 - a. Name, Vorname, Geburtsdatum, Wohnsitz und Nationalität der betroffenen Person;
 - b. Identität des betroffenen Unternehmens;
@@ -277,9 +277,12 @@ Das Staatssekretariat EDA ist ausserdem befugt, die folgenden besonders schütze
 - e. Bezeichnung der betroffenen Behörden;
 - f. Kopie des Urteils sowie alle anderen mit dem Urteil zusammenhängenden Informationen.
 
-<sup>4</sup> Personendaten und besonders schützenswerte Personendaten werden 15 Jahre nach der letzten Bearbeitung dem Bundesarchiv zur Archivierung angeboten (Art. 21 des BG vom 19. Juni 1992[^12-1] über den Datenschutz).
+<sup>4</sup> Personendaten und besonders schützenswerte Personendaten werden 15 Jahre nach der letzten Bearbeitung dem Bundesarchiv zur Archivierung angeboten (Art. 38 des Datenschutzgesetzes vom 25. September 2020[^12-3]).[^12-4]
 
-[^12-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^12-1]: Fassung gemäss Anhang 2 Ziff. II 132 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-2]: Fassung gemäss Anhang 2 Ziff. II 132 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^12-4]: Fassung gemäss Anhang 2 Ziff. II 132 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 4. Abschnitt: Amtshilfe innerhalb der Schweiz
 
@@ -349,7 +352,7 @@ Er enthält zudem:
 
 <sup>2</sup> Der Mustervertrag ist online zugänglich.
 
-[^15-1]: Fassung gemäss Ziff. I der V vom 11. November 2020, in Kraft seit 1. Januar 2021 ([AS 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
+[^15-1]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5323](https://fedlex.data.admin.ch/eli/oc/2020/921)).
 
 #### Art. 16
 
