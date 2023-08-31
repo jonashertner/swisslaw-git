@@ -4,11 +4,11 @@ title: Verordnung vom 2. September 2015 über die Strassentransportunternehmen (
 short: STUV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/597"
 language: de
-version: 2023-01-23
+version: 2023-09-01
 adopted: 2015-09-02
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/597/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2015-597-20230123-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/597/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/597/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2015-597-20230901-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/597/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/597/20230123/de"
 
 (STUV)
 
-vom 2. September 2015 (Stand am 23. Januar 2023)
+vom 2. September 2015 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -209,9 +209,13 @@ Zur Identifizierung der Verkehrsleiter und Verkehrsleiterinnen erfasst das BAV i
 
 #### Art. 14
 
-**Auskunfts- und Berichtigungsrecht**
+**Auskunfts- und Berichtigungsrecht**[^14-1]
 
-Verlangt eine Person Auskunft über ihre Daten oder deren Berichtigung, so muss sie beim BAV ein schriftliches Gesuch einreichen. Sie muss sich im Gesuch über ihre Identität ausweisen.
+Verlangt eine Person Auskunft über ihre Daten, so muss sie in der Form nach Artikel 16 der Datenschutzverordnung vom 31. August 2022[^14-2] ein Gesuch beim BAV einreichen. Die Geltendmachung des Berichtigungsrechts durch die betroffene Person richtet sich nach Artikel 41 des Datenschutzgesetzes vom 25. September 2020[^14-3].
+
+[^14-1]: Fassung gemäss Anhang 2 Ziff. II 82 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^14-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^14-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 ## 7. Abschnitt: Meldung an ausländische Behörden
 

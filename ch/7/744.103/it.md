@@ -4,11 +4,11 @@ title: Ordinanza del 2 settembre 2015 concernente i trasportatori su strada (OTS
 short: OTStr
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/597"
 language: it
-version: 2023-01-23
+version: 2023-09-01
 adopted: 2015-09-02
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/597/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2015-597-20230123-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/597/20230123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/597/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2015-597-20230901-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/597/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/597/20230123/it"
 
 (OATVM)
 
-del 2 settembre 2015 (Stato 23 gennaio 2023)
+del 2 settembre 2015 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -209,9 +209,13 @@ Per identificare i gestori dei trasporti l’UFT ne riporta nome e cognome, data
 
 #### Art. 14
 
-**Diritto d’accesso e di rettifica**
+**Diritto d’accesso e di rettifica**[^14-1]
 
-Per chiedere l’accesso ai propri dati o la loro rettifica, occorre presentare una domanda scritta all’UFT. Nella domanda è necessario identificarsi.
+Se una persona chiede l’accesso ai propri dati, deve presentare una domanda all’UFT nella forma prevista dall’articolo 16 dell’ordinanza del 31 agosto 2022[^14-2] sulla protezione dei dati. La pretesa del diritto alla rettifica è retta dall’articolo 41 della legge federale del 25 settembre 2020[^14-3] sulla protezione dei dati.
+
+[^14-1]: Nuovo testo giusta l’all. 2 n. II 82 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^14-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^14-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 ## Sezione 7: Notifica alle autorità estere
 

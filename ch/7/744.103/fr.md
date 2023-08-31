@@ -4,11 +4,11 @@ title: Ordonnance du 2 septembre 2015 sur les entreprises de transport par route
 short: OEnTR
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/597"
 language: fr
-version: 2023-01-23
+version: 2023-09-01
 adopted: 2015-09-02
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/597/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2015-597-20230123-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/597/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/597/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2015-597-20230901-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/597/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/597/20230123/fr"
 
 (OTVM)
 
-du 2 septembre 2015 (État le 23 janvier 2023)
+du 2 septembre 2015 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -209,9 +209,13 @@ A des fins d’identification des gestionnaires de transport, l’OFT consigne d
 
 #### Art. 14
 
-**Droit d’accès et de rectification**
+**Droit d’accès et de rectification**[^14-1]
 
-Si une personne demande des informations sur les données la concernant ou la rectification de ces données, elle doit en faire la demande écrite à l’OFT. Dans sa demande, elle doit attester son identité.
+Si une personne demande des informations sur les données la concernant, elle doit présenter une demande à l’OFT dans la forme prévue à l’art. 16 de l’ordonnance du 31 août 2022 sur la protection des données[^14-2]. L’exercice du droit à la rectification par la personne concernée est régi par l’art. 41 de la loi fédérale du 25 septembre 2020 sur la protection des données[^14-3].
+
+[^14-1]: Nouvelle teneur selon l’annexe 2 ch. II 82 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^14-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^14-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 ## Section 7 Information des autorités étrangères
 
