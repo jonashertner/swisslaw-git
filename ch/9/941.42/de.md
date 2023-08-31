@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 25. September 2020 über Vorläuferstoffe für explosio
 short: VSG
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/352"
 language: de
-version: 2023-01-23
+version: 2023-09-01
 adopted: 2020-09-25
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/352/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2022-352-20230123-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/352/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/352/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2022-352-20230901-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/352/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/352/20230123/de"
 
 (Vorläuferstoffgesetz, VSG)
 
-vom 25. September 2020 (Stand am 23. Januar 2023)
+vom 25. September 2020 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -332,14 +332,15 @@ Das Informationssystem enthält die folgenden Informationen:
 
 **Auskunfts- und Berichtigungsrecht**
 
-<sup>1</sup> Das Auskunftsrecht und das Recht, unrichtige Daten berichtigen zu lassen, richten sich nach dem Bundesgesetz vom 19. Juni 1992[^23-1] über den Datenschutz.
+<sup>1</sup> Das Auskunftsrecht und das Recht, unrichtige Daten berichtigen zu lassen, richten sich nach dem Bundesgesetz vom 25. September 2020[^23-1] über den Datenschutz.[^23-2]
 
 <sup>2</sup> Fedpol erteilt die Auskünfte nach Rücksprache mit der Behörde, von der die Daten stammen.
 
-<sup>3</sup> Bezüglich der Daten nach Artikel 18 Absatz 1 Buchstaben b–g bleiben die Artikel 8, 8*a* und 16 BPI[^23-2] vorbehalten.
+<sup>3</sup> Bezüglich der Daten nach Artikel 18 Absatz 1 Buchstaben b–g bleiben die Artikel 8, 8*a* und 16 BPI[^23-3] vorbehalten.
 
 [^23-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^23-2]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^23-2]: Fassung gemäss Art. 41 hiernach, in Kraft seit 1. Sept. 2023.
+[^23-3]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
 
 #### Art. 24
 
@@ -533,20 +534,15 @@ Die Änderung anderer Erlasse wird im Anhang geregelt.
 
 …[^40-1]
 
-[^40-1]: [BBl 2019 6567](https://fedlex.data.admin.ch/eli/fga/2019/2311). In der [Volksabstimmung vom 7. März 2021](http://www.admin.ch/ch/d/pore/va/20210307/index.html)abgelehnt ([BBl 2021 1185](https://fedlex.data.admin.ch/eli/fga/2021/1185)).
+[^40-1]: [BBl 2019 6567](https://fedlex.data.admin.ch/eli/fga/2019/2311). In der Volksabstimmung vom 7. März 2021 abgelehnt ([BBl 2021 1185](https://fedlex.data.admin.ch/eli/fga/2021/1185)).
 
 #### Art. 41
 
 **Koordination mit dem Bundesgesetz vom 25. September 2020 über den Datenschutz**
 
-Mit Inkrafttreten des Datenschutzgesetzes vom 25. September 2020[^41-1] lautet die nachstehende Bestimmung wie folgt:
+…[^41-1]
 
-Art. 23 Abs. 1
-
-<sup>1</sup> Das Auskunftsrecht und das Recht, unrichtige Daten berichtigen zu lassen, richten sich nach dem Bundesgesetz vom 25. September 2020[^41-2] über den Datenschutz.
-
-[^41-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491); [BBl 2020 7639](https://fedlex.data.admin.ch/eli/fga/2020/1998)
-[^41-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^41-1]: Die Koordinationsbestimmung kann unter [AS 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352)eingesehen werden.
 
 #### Art. 42
 

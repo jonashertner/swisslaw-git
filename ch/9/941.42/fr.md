@@ -4,11 +4,11 @@ title: Loi fédérale du 25 septembre 2020 sur les précurseurs de substances ex
 short: LPSE
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/352"
 language: fr
-version: 2023-01-23
+version: 2023-09-01
 adopted: 2020-09-25
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/352/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2022-352-20230123-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/352/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/352/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2022-352-20230901-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/352/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/352/20230123/fr"
 
 (LPSE)
 
-du 25 septembre 2020 (État le 23 janvier 2023)
+du 25 septembre 2020 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -332,14 +332,15 @@ Le système d’information contient les informations suivantes:
 
 **Droit d’accès et de rectification**
 
-<sup>1</sup> Le droit d’accès et le droit de faire rectifier les données incorrectes sont régis par la loi fédérale du 19 juin 1992 sur la protection des données[^23-1].
+<sup>1</sup> Le droit d’accès et le droit de faire rectifier les données incorrectes sont régis par la loi fédérale du 25 septembre 2020 sur la protection des données[^23-1].[^23-2]
 
 <sup>2</sup> fedpol fournit les renseignements après consultation de l’autorité dont proviennent les données.
 
-<sup>3</sup> Les art. 8, 8*a* et 16 LSIP[^23-2] sont réservés s’agissant des données visées à l’art. 18, al. 1, let. b à g.
+<sup>3</sup> Les art. 8, 8*a* et 16 LSIP[^23-3] sont réservés s’agissant des données visées à l’art. 18, al. 1, let. b à g.
 
 [^23-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^23-2]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^23-2]: Teneur selon l’art. 41 ci-après, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491)).
+[^23-3]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
 
 #### Art. 24
 
@@ -530,53 +531,23 @@ La modification d’autres actes est réglée en annexe.
 
 **Coordination avec la loi fédérale du 27 septembre 2019 sur les services d’identification électronique (LSIE)**
 
-Quel que soit l’ordre dans lequel la présente modification de la loi fédérale du 20 juin 2003 sur le système d’information commun aux domaines des étrangers et de l’asile (LDEA)[^40-1] (annexe, ch. 1) et la modification de la LDEA dans le cadre de la LSIE[^40-2] (annexe, ch. 1), à l’entrée en vigueur du dernier des deux actes ou à leur entrée en vigueur simultanée, la disposition ci-après a la teneur suivante:
+...[^40-1]
 
-Art. 9, al. 1, let. c
-
-<sup>1</sup>
-
-Le SEM peut permettre aux autorités et services ci-après d’accéder en ligne aux données relevant du domaine des étrangers qu’il a traitées ou fait traiter dans le système d’information:
-
-- c.
-
-  les autorités fédérales compétentes dans le domaine de la sécurité intérieure, exclusivement pour qu’elles puissent procéder à l’identification de personnes dans le cadre:
-
-  - 1\. de l’échange d’informations de police,
-  - 2\. des enquêtes de la police de sûreté ou de la police judiciaire,
-  - 3\. des procédures d’extradition,
-  - 4\. de l’entraide judiciaire et de l’assistance administrative,
-  - 5\. de la délégation de la poursuite et de la répression d’une infraction,
-  - 6\. de la lutte contre le blanchiment d’argent, le trafic de stupéfiants et le crime organisé,
-  - 6<sup>bis</sup>. de la lutte contre l’usage abusif de précurseurs de substances explosibles,
-  - 7\. du contrôle des pièces de légitimation,
-  - 8\. de l’attribution des données d’identification personnelle et de leur mise à jour au sens de la loi fédérale du 27 septembre 2019 sur les services d’identification électronique (LSIE)[^40-3],
-  - 9\. des recherches de personnes disparues,
-  - 10\. du contrôle des entrées dans le système de recherches informatisées visé à l’art. 15 de la loi fédérale du 13 juin 2008 sur les systèmes d’information de police de la Confédération (LSIP)[^40-4];
-
-[^40-1]: [RS 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
-[^40-2]: [FF 2019 6227](https://fedlex.data.admin.ch/eli/fga/2019/2311). Rejeté en [votation populaire du 7 mars 2021](http://www.admin.ch/ch/f/pore/va/20210307/index.html)([FF 2021 1185](https://fedlex.data.admin.ch/eli/fga/2021/1185)).
-[^40-3]: [FF 2019 6227](https://fedlex.data.admin.ch/eli/fga/2019/2311). Rejeté en [votation populaire du 7 mars 2021](http://www.admin.ch/ch/f/pore/va/20210307/index.html)([FF 2021 1185](https://fedlex.data.admin.ch/eli/fga/2021/1185)).
-[^40-4]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^40-1]: [FF 2019 6227](https://fedlex.data.admin.ch/eli/fga/2019/2311). Rejeté en votation populaire du 7 mars 2021 ([FF 2021 1185](https://fedlex.data.admin.ch/eli/fga/2021/1185)).
 
 #### Art. 41
 
 **Coordination avec la loi fédérale du 25 septembre 2020 sur la protection des données**
 
-À l’entrée en vigueur de la loi fédérale du 25 septembre 2020 sur la protection des données[^41-1], la disposition ci-après la teneur suivante:
+...[^41-1]
 
-Art. 23, al. 1
-
-<sup>1</sup> Le droit d’accès et le droit de faire rectifier les données incorrectes sont régis par la loi fédérale du 25 septembre 2020 sur la protection des données[^41-2].
-
-[^41-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491); [FF 2020 7397](https://fedlex.data.admin.ch/eli/fga/2020/1998)
-[^41-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^41-1]: La disp. de coordination peut être consultée au [RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352).
 
 #### Art. 42
 
 **Coordination avec la loi du 17 juin 2016 sur le casier judiciaire**
 
-…[^42-1]
+...[^42-1]
 
 [^42-1]: La disp. de coordination peut être consultée au [RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352).
 

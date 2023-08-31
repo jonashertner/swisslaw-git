@@ -4,11 +4,11 @@ title: Legge federale del 25 settembre 2020 sui precursori di sostanze esplodent
 short: LPre
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/352"
 language: it
-version: 2023-01-23
+version: 2023-09-01
 adopted: 2020-09-25
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/352/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2022-352-20230123-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/352/20230123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/352/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2022-352-20230901-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/352/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/352/20230123/it"
 
 (LPre)
 
-del 25 settembre 2020 (Stato 23 gennaio 2023)
+del 25 settembre 2020 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -276,7 +276,7 @@ Per trattare le domande di autorizzazione di acquisto e di autorizzazione eccezi
 
 [^18-1]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
 [^18-2]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^18-3]: Testo giusta l’art. 42, in vigore dal 23 gen. 2023 ([RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352), [600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
+[^18-3]: Testo giusta l’art. 42 qui avanti, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
 [^18-4]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
 [^18-5]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
 [^18-6]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
@@ -332,14 +332,15 @@ Il sistema d’informazione contiene le informazioni seguenti:
 
 **Diritto di accesso e di rettifica**
 
-<sup>1</sup> Il diritto di accesso e il diritto di far rettificare dati inesatti sono retti dalla legge federale del 19 giugno 1992[^23-1] sulla protezione dei dati.
+<sup>1</sup> Il diritto di accesso e il diritto di far rettificare dati inesatti sono retti dalla legge federale del 25 settembre 2020[^23-1] sulla protezione dei dati.[^23-2]
 
 <sup>2</sup> Fedpol fornisce le informazioni richieste dopo aver consultato l’autorità dalla quale provengono i dati.
 
-<sup>3</sup> Per i dati di cui all’articolo 18 capoverso 1 lettere b–g sono fatti salvi gli articoli 8, 8*a* e 16 LSIP[^23-2].
+<sup>3</sup> Per i dati di cui all’articolo 18 capoverso 1 lettere b–g sono fatti salvi gli articoli 8, 8*a* e 16 LSIP[^23-3].
 
 [^23-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^23-2]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^23-2]: Testo giusta l’art. 41 qui avanti, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491)).
+[^23-3]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
 
 #### Art. 24
 
@@ -531,31 +532,23 @@ La modifica di altri atti normativi è disciplinata nell’allegato.
 
 **Coordinamento con la legge del 27 settembre 2019 sull’Ie (LSIe)**
 
-Indipendentemente dal fatto che entri prima in vigore la presente modifica della legge federale del 20 giugno 2003[^40-1] sul sistema d’informazione per il settore degli stranieri e dell’asilo (LSISA; all. n. 1) o la modifica della LSISA nel quadro della LSIe[^40-2] (all. n. 1), alla seconda di queste entrate in vigore o in caso di entrata in vigore simultanea delle due leggi la disposizione qui appresso avrà il seguente tenore:
+... [^40-1]
 
-…
-
-[^40-1]: [RS 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
-[^40-2]: [FF 2019 5419](https://fedlex.data.admin.ch/eli/fga/2019/2311). Respinta nella [votazione popolare del 7 mar. 2021](http://www.admin.ch/ch/i/pore/va/20210307/index.html)([FF 2021 1185](https://fedlex.data.admin.ch/eli/fga/2021/1185)).
+[^40-1]: [FF 2019 5419](https://fedlex.data.admin.ch/eli/fga/2019/2311). Respinta nella votazione popolare del 7 marzo 2021 ([FF 2021 1185](https://fedlex.data.admin.ch/eli/fga/2021/1185)).
 
 #### Art. 41
 
 **Coordinamento con la legge federale del 25 settembre 2020 sulla protezione dei dati**
 
-All’entrata in vigore della legge federale del 25 settembre 2020[^41-1] sulla protezione dei dati la disposizione qui appresso avrà il seguente tenore:
+...[^41-1]
 
-Art. 23 cpv. 1
-
-<sup>1</sup> Il diritto di accesso e il diritto di far rettificare dati inesatti sono retti dalla legge federale del 25 settembre 2020[^41-2] sulla protezione dei dati.
-
-[^41-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491); [FF 2020 6695](https://fedlex.data.admin.ch/eli/fga/2020/1998)
-[^41-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^41-1]: La disp. di coordinamento può essere consultata alla [RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352).
 
 #### Art. 42
 
 **Coordinamento con la legge del 17 giugno 2016 sul casellario giudiziale**
 
-…[^42-1]
+...[^42-1]
 
 [^42-1]: Le disp. di possono essere consultate alla RU**2022** 352.
 
@@ -579,6 +572,6 @@ Allegato
 
 Gli atti normativi qui appresso sono modificati come segue:
 
-…[^annexu1-lvlu1-1]
+...[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352).
