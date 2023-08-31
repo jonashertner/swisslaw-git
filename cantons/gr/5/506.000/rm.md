@@ -5,12 +5,12 @@ title: "Lescha per promover la tgira da persunas malsaunas e l'assistenza da per
 short: "lescha per promover la tgira da persunas malsaunas, LTM"
 language: rm
 version: 2021-01-01
-corrected: 2021-02-08
+corrected: 2023-09-01
 version_adopted: 2020-08-26
 adopted: 2017-08-30
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/506.000"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3123/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3138/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -108,7 +108,7 @@ concluda:
 - e) regiun da provediment da la sanadad Surselva cun las vischnancas da Breil, Falera, Glion, Laax, Lumnezia, Medel (Lucmagn), Mustér, Sagogn, Schluein, Sumvitg, Sursaissa Mundaun, Trun, Tujetsch, Val S. Pieder, Val Stussavgia;
 - f) regiun da provediment da la sanadad Alvra/Viamala cun las vischnancas dad Alvra, Andeer, Avras, Bravuogn Filisur, Casti-Vargistagn, Cazas, Donat, Farera, Farschno, Flearda, Giuvaulta, Lantsch, Lon, Masagn, Maton, Runtgaglia, Scharàns, Schmitten, Seglias, Sufers, Tschappina, Tumleastga, Tusaun, Urmagn, Valragn, Vaz, Ziràn-Reschen;
 - g) regiun da provediment da la sanadad Surses cun la vischnanca da Surses;
-- h) regiun da provediment da la sanadad Partenz cun las vischnancas da Claustra-Serneus, Cunter en il Partenz, Fideris, Furna, Grüsch, Jenaz, Küblis, Luzein, Schiers, Seewis;
+- h) regiun da provediment da la sanadad Partenz cun las vischnancas da Claustra, Cunter en il Partenz, Fideris, Furna, Grüsch, Jenaz, Küblis, Luzein, Schiers, Seewis;
 - i) regiun da provediment da la sanadad Val Müstair cun la vischnanca da Val Müstair;
 - j) regiun da provediment da la sanadad Val Puschlav cun las vischnancas da Brusio, Puschlav;
 - k) regiun da provediment da la sanadad Bregaglia cun la vischnanca da Bregaglia;
@@ -122,7 +122,7 @@ concluda:
 
 #### Art. 9
 
-**2. organisaziun da las regiuns d'ospital e da planisaziun**
+**2. organisaziun da las regiuns da provediment da la sanadad**
 
 <sup>1</sup> Las vischnancas da las singulas regiuns da provediment da la sanadad ston s'organisar en moda cunvegnenta.
 

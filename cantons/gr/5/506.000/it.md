@@ -5,12 +5,12 @@ title: "Legge sulla promozione della cura degli ammalati e dell'assistenza alle 
 short: "Legge sulla cura degli ammalati, LCA"
 language: it
 version: 2021-01-01
-corrected: 2021-02-08
+corrected: 2023-09-01
 version_adopted: 2020-08-26
 adopted: 2017-08-30
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/506.000"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3123/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3138/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -108,7 +108,7 @@ decide:
 - e) regione di assistenza sanitaria Surselva con i Comuni di Breil/Brigels, Disentis/Mustér, Falera, Ilanz/Glion, Laax, Lumnezia, Medel (Lucmagn), Obersaxen Mundaun, Safiental, Sagogn, Schluein, Sumvitg, Trun, Tujetsch, Vals;
 - f) regione di assistenza sanitaria Albula/Viamala con i Comuni di Albula/Alvra, Andeer, Avers, Bergün Filisur, Casti-Wergenstein, Cazis, Domleschg, Donat, Ferrera, Flerden, Fürstenau, Lantsch/Lenz, Lohn, Masein, Mathon, Rheinwald, Rongellen, Rothenbrunnen, Schmitten, Scharans, Sils i.D., Sufers, Thusis, Tschappina, Vaz/Obervaz, Urmein, Zillis-Reischen;
 - g) regione di assistenza sanitaria Surses con il Comune di Surses;
-- h) regione di assistenza sanitaria Prättigau con i Comuni di Conters i.P., Fideris, Furna, Grüsch, Jenaz, Klosters-Serneus, Küblis, Luzein, Schiers, Seewis i.P.;
+- h) regione di assistenza sanitaria Prättigau con i Comuni di Conters i.P., Fideris, Furna, Grüsch, Jenaz, Klosters, Küblis, Luzein, Schiers, Seewis i.P.;
 - i) regione di assistenza sanitaria Val Müstair con il Comune di Val Müstair;
 - j) regione di assistenza sanitaria Valposchiavo con i Comuni di Brusio, Poschiavo;
 - k) regione di assistenza sanitaria Bregaglia con il Comune di Bregaglia;
@@ -122,7 +122,7 @@ decide:
 
 #### Art. 9
 
-**2. Organizzazione delle regioni ospedaliere e di pianificazione**
+**2. Organizzazione delle regioni di assistenza sanitaria**
 
 <sup>1</sup> I comuni delle singole regioni di assistenza sanitaria devono organizzarsi in modo opportuno.
 

@@ -5,12 +5,12 @@ title: Gesetz über die Förderung der Krankenpflege und der Betreuung von betag
 short: "Krankenpflegegesetz, KPG"
 language: de
 version: 2021-01-01
-corrected: 2021-02-08
+corrected: 2023-09-01
 version_adopted: 2020-08-26
 adopted: 2017-08-30
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/506.000"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3123/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3138/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -108,7 +108,7 @@ beschliesst:
 - e) Gesundheitsversorgungsregion Surselva mit den Gemeinden Breil/Brigels, Disentis/Mustér, Falera, Ilanz/Glion, Laax, Lumnezia, Medel (Lucmagn), Obersaxen Mundaun, Safiental, Sagogn, Schluein, Sumvitg, Trun, Tujetsch, Vals;
 - f) Gesundheitsversorgungsregion Albula/Viamala mit den Gemeinden Albula/Alvra, Andeer, Avers, Bergün Filisur, Casti-Wergenstein, Cazis, Domleschg, Donat, Ferrera, Flerden, Fürstenau, Lantsch/Lenz, Lohn, Masein, Mathon, Rheinwald, Rongellen, Rothenbrunnen, Schmitten, Scharans, Sils i.D., Sufers, Thusis, Tschappina, Vaz/Obervaz, Urmein, Zillis-Reischen;
 - g) Gesundheitsversorgungsregion Surses mit der Gemeinde Surses;
-- h) Gesundheitsversorgungsregion Prättigau mit den Gemeinden Conters i.P., Fideris, Furna, Grüsch, Jenaz, Klosters-Serneus, Küblis, Luzein, Schiers, Seewis i.P.;
+- h) Gesundheitsversorgungsregion Prättigau mit den Gemeinden Conters i.P., Fideris, Furna, Grüsch, Jenaz, Klosters, Küblis, Luzein, Schiers, Seewis i.P.;
 - i) Gesundheitsversorgungsregion Val Müstair mit der Gemeinde Val Müstair;
 - j) Gesundheitsversorgungsregion Valposchiavo mit den Gemeinden Brusio, Poschiavo;
 - k) Gesundheitsversorgungsregion Bregaglia mit der Gemeinde Bregaglia;
@@ -122,7 +122,7 @@ beschliesst:
 
 #### Art. 9
 
-**2. Organisation der Spital- und Planungsregionen**
+**2. Organisation der Gesundheitsversorgungsregionen**
 
 <sup>1</sup> Die Gemeinden der einzelnen Gesundheitsversorgungsregionen haben sich in zweckmässiger Weise zu organisieren.
 
