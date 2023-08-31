@@ -4,11 +4,11 @@ title: Ordinance of 17 December 2014 on the Safety Investigation of Transport In
 short: OSITI
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/26"
 language: en
-version: 2015-02-01
+version: 2023-09-01
 adopted: 2014-12-17
 in_force: 2015-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/26/20150201/en/xml/fedlex-data-admin-ch-eli-cc-2015-26-20150201-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/26/20150201/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/26/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2015-26-20230901-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/26/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (OSITI)
 
-of 17 December 2014 (Status as of 1 February 2015)
+of 17 December 2014 (Status as of 1 September 2023)
 
 The Swiss Federal Council,
 
@@ -281,13 +281,14 @@ The Swiss Maritime Navigation Office, the ship’s command, the Swiss Shipowners
 
 #### Art. 19
 
-**Report to foreign authorities**
+**Report to foreign authorities**[^19-1]
 
 <sup>1</sup> The STSB shall report incidents on Swiss sovereign territory involving foreign undertakings to the competent authorities in the states in which such undertakings are registered.
 
-<sup>2</sup> The report must not include sensitive personal data under Article 3 of the Federal Act of 19 June 1992[^19-1] on Data Protection.
+<sup>2</sup> The report must not include sensitive personal data under Article 5 letter c of the Data Protection Act of 25 September 2020[^19-2].
 
-[^19-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^19-1]: Amended by Annex 2 No II 81 of the Data Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^19-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 ## Section 4 Investigations
 

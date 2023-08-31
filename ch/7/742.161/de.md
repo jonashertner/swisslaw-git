@@ -4,11 +4,11 @@ title: Verordnung vom 17. Dezember 2014 über die Sicherheitsuntersuchung von Zw
 short: VSZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/26"
 language: de
-version: 2015-02-01
+version: 2023-09-01
 adopted: 2014-12-17
 in_force: 2015-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/26/20150201/de/xml/fedlex-data-admin-ch-eli-cc-2015-26-20150201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/26/20150201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/26/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2015-26-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/26/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/26/20150201/de"
 
 (VSZV)
 
-vom 17. Dezember 2014 (Stand am 1. Februar 2015)
+vom 17. Dezember 2014 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -277,13 +277,14 @@ Das Schweizerische Seeschifffahrtsamt, die Schiffsführung, die schweizerischen 
 
 #### Art. 19
 
-**Meldung an ausländische Behörden**
+**Meldung an ausländische Behörden**[^19-1]
 
 <sup>1</sup> Die SUST meldet Zwischenfälle auf schweizerischem Hoheitsgebiet, an denen ausländische Unternehmen beteiligt sind, den zuständigen Behörden in den Sitzstaaten dieser Unternehmen.
 
-<sup>2</sup> Die Meldung darf keine besonders schützenswerten Personendaten nach Artikel 3 des Bundesgesetzes vom 19. Juni 1992[^19-1] über den Datenschutz enthalten.
+<sup>2</sup> Die Meldung darf keine besonders schützenswerten Personendaten nach Artikel 5 Buchstabe c des Datenschutzgesetzes vom 25. September 2020[^19-2] enthalten.
 
-[^19-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^19-1]: Fassung gemäss Anhang 2 Ziff. II 81 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^19-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 ## 4. Abschnitt: Untersuchungsverfahren
 
@@ -705,8 +706,8 @@ Sie stellt ihre Berichte und Zusammenfassungen in den jeweiligen Bereichen von A
 
 Sie liefert die Informationen über Zwischenfälle:
 
-- a. im Bereich der Zivilluftfahrt an die Internationale Zivilluftfahrt-Organisation (*International Civil Aviation Organization*, ICAO), die Europäische Zivilluftfahrt-Konferenz (*European Civil Aviation Conference*, ECAC) und die Europäische Agentur für Flugsicherheit (*European Aviation Safety Age**n**cy*, EASA);
-- b. im Bereich der Seeschifffahrt an die Internationale Seeschifffahrts-Organisation (*International Maritime O**r**ganization*, IMO).
+- a. im Bereich der Zivilluftfahrt an die Internationale Zivilluftfahrt-Organisation (*International Civil Aviation Organization*, ICAO), die Europäische Zivilluftfahrt-Konferenz (*European Civil Aviation Conference*, ECAC) und die Europäische Agentur für Flugsicherheit (*European Aviation Safety Agency*, EASA);
+- b. im Bereich der Seeschifffahrt an die Internationale Seeschifffahrts-Organisation (*International Maritime Organization*, IMO).
 
 #### Art. 56
 
@@ -742,9 +743,9 @@ Die folgenden Erlasse werden aufgehoben:
 - 2\. Unfalluntersuchungsverordnung vom 28. Juni 2000[^59-2];
 - 3\. Verordnung vom 23. November 1994[^59-3] über die Untersuchung von Flugunfällen und schweren Vorfällen.
 
-[^59-1]: [[AS 2011 4589](https://fedlex.data.admin.ch/eli/oc/2011/652), [2011 4573](https://fedlex.data.admin.ch/eli/oc/2011/648)Art. 2 Bst. a]
-[^59-2]: [[AS 2000 2103](https://fedlex.data.admin.ch/eli/oc/2000/320), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 68, [2011 4573](https://fedlex.data.admin.ch/eli/oc/2011/648)Art. 2 Bst. b [4575](https://fedlex.data.admin.ch/eli/oc/2011/649)]
-[^59-3]: [[AS 1994 3037](https://fedlex.data.admin.ch/eli/oc/1994/3037_3037_3037), [1999 2495](https://fedlex.data.admin.ch/eli/oc/1999/385), [2011 4573](https://fedlex.data.admin.ch/eli/oc/2011/648)Art. 2 Bst. c [4579](https://fedlex.data.admin.ch/eli/oc/2011/650)]
+[^59-1]: [[AS 2011 4589](https://fedlex.data.admin.ch/eli/oc/2011/652); [2011 4573](https://fedlex.data.admin.ch/eli/oc/2011/648)Art. 2 Bst. a]
+[^59-2]: [[AS 2000 2103](https://fedlex.data.admin.ch/eli/oc/2000/320); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 68; [2011 4573](https://fedlex.data.admin.ch/eli/oc/2011/648)Art. 2 Bst. b, [4575](https://fedlex.data.admin.ch/eli/oc/2011/649)]
+[^59-3]: [[AS 1994 3037](https://fedlex.data.admin.ch/eli/oc/1994/3037_3037_3037); [1999 2495](https://fedlex.data.admin.ch/eli/oc/1999/385); [2011 4573](https://fedlex.data.admin.ch/eli/oc/2011/648)Art. 2 Bst. c, [4579](https://fedlex.data.admin.ch/eli/oc/2011/650)]
 
 #### Art. 60
 

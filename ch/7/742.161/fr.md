@@ -4,11 +4,11 @@ title: "Ordonnance du 17 décembre 2014 sur les enquêtes de sécurité en cas d
 short: OEIT
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/26"
 language: fr
-version: 2015-02-01
+version: 2023-09-01
 adopted: 2014-12-17
 in_force: 2015-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/26/20150201/fr/xml/fedlex-data-admin-ch-eli-cc-2015-26-20150201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/26/20150201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/26/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2015-26-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/26/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/26/20150201/fr"
 
 (OEIT)
 
-du 17 décembre 2014 (Etat le 1<sup>er</sup> février 2015)
+du 17 décembre 2014 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -66,7 +66,7 @@ On entend par incident:
 
 - a. dans le domaine des transports publics: tout événement au sens des art. 15 et 16;
 - b. dans le domaine de l’aviation civile: tout accident ou incident au sens de l’art. 2 du règlement (UE) n<sup>o</sup> 996/2010;
-- c. dans le domaine de la navigation maritime: tout incident imprévu sur lequel l’Etat du pavillon est tenu d’ordonner une enquête conformément à l’art. 94, ch. 7 de la Convention des Nations Unies du 10 décembre 1982 sur le droit de la mer[^3-1].
+- c. dans le domaine de la navigation maritime: tout incident imprévu sur lequel l’État du pavillon est tenu d’ordonner une enquête conformément à l’art. 94, ch. 7 de la Convention des Nations Unies du 10 décembre 1982 sur le droit de la mer[^3-1].
 
 [^3-1]: [RS 0.747.305.15](https://fedlex.data.admin.ch/eli/cc/2009/416)
 
@@ -275,11 +275,14 @@ L’Office suisse de la navigation maritime, le capitaine du navire, les compagn
 
 #### Art. 19
 
-**Déclaration aux autorités étrangères**
+**Déclaration aux autorités étrangères**[^19-1]
 
-Lorsqu’une entreprise étrangère est impliquée dans un incident survenu sur le territoire suisse, le SESE en avise les autorités compétentes de l’Etat dans lequel l’entreprise a son siège. La déclaration ne doit comporter aucune donnée sensible au sens de l’art. 3 de la loi fédérale du 19 juin 1992 sur la protection des données[^19-1].
+<sup>1</sup> Lorsqu’une entreprise étrangère est impliquée dans un incident survenu sur le territoire suisse, le SESE en avise les autorités compétentes de l’État dans lequel l’entreprise a son siège.
 
-[^19-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+<sup>2</sup> La déclaration ne doit comporter aucune donnée sensible au sens de l’art. 5, let. c, de la loi fédérale du 25 septembre 2020 sur la protection des données[^19-2].
+
+[^19-1]: Nouvelle teneur selon l’annexe 2 ch. II 81 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^19-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 ## Section 4 Procédure d’enquête
 
@@ -294,7 +297,7 @@ Lorsqu’une entreprise étrangère est impliquée dans un incident survenu sur 
 Il enquête sur les incidents survenus à l’étranger, uniquement lorsque:
 
 - a. les autorités suisses sont chargées d’enquêter sur un incident impliquant à l’étranger un aéronef suisse ou un aéronef construit en Suisse;
-- b. l’incident est survenu sur un territoire ne relevant d’aucun Etat; ou
+- b. l’incident est survenu sur un territoire ne relevant d’aucun État; ou
 - c. lorsqu’aucune autorité étrangère ne s’occupe de l’enquête.
 
 <sup>3</sup> Il enquête sur des incidents impliquant des aéronefs utilisés à des fins de douane ou de police, uniquement s’il y a lieu de supposer qu’une enquête est susceptible de fournir des résultats importants pour la prévention de futurs incidents.
@@ -384,7 +387,7 @@ Les autorités de poursuite pénale, les responsables de l’entreprise concern�
 
 <sup>2</sup> Les personnes chargées des travaux de sécurisation et de sauvetage et les autorités de poursuite pénale ont libre accès au lieu de l’accident.
 
-<sup>3</sup> L’accès est accordé aux représentants des autorités fédérales compétentes, aux personnes accréditées d’un Etat étranger, ainsi qu’à toute personne qui rend plausible l’existence d’un intérêt juridique à l’issue de l’enquête, à condition que le déroulement de celle-ci n’en soit pas entravé.
+<sup>3</sup> L’accès est accordé aux représentants des autorités fédérales compétentes, aux personnes accréditées d’un État étranger, ainsi qu’à toute personne qui rend plausible l’existence d’un intérêt juridique à l’issue de l’enquête, à condition que le déroulement de celle-ci n’en soit pas entravé.
 
 #### Art. 29
 
@@ -633,7 +636,7 @@ Peuvent demander à consulter le dossier:
 - a. les personnes directement concernées par l’enquête;
 - b. l’office fédéral compétent;
 - c. les autorités pénales;
-- d. les personnes impliquées dans l’enquête qui représentent un Etat étranger.
+- d. les personnes impliquées dans l’enquête qui représentent un État étranger.
 
 <sup>2</sup> La consultation du dossier peut être restreinte, refusée ou différée aussi longtemps que l’exigent les besoins de l’enquête en vertu de la présente ordonnance ou d’une autre enquête en cours.
 
@@ -738,9 +741,9 @@ Sont abrogées:
 - 2\. l’ordonnance du 28 juin 2000 sur les enquêtes en cas d’accident des transports publics[^59-2];
 - 3\. l’ordonnance du 23 novembre 1994 relative aux enquêtes sur les accidents d’aviation et sur les incidents graves[^59-3].
 
-[^59-1]: [[RO 2011 4589](https://fedlex.data.admin.ch/eli/oc/2011/652)[4573](https://fedlex.data.admin.ch/eli/oc/2011/648)art. 2 let. a]
-[^59-2]: [[RO 2000 2103](https://fedlex.data.admin.ch/eli/oc/2000/320)[2845](https://fedlex.data.admin.ch/eli/oc/2000/485), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)ch. II 68, [2011 4573](https://fedlex.data.admin.ch/eli/oc/2011/648)art. 2 let. b [4575](https://fedlex.data.admin.ch/eli/oc/2011/649)]
-[^59-3]: [[RO 1994 3037](https://fedlex.data.admin.ch/eli/oc/1994/3037_3037_3037), [1999 2495](https://fedlex.data.admin.ch/eli/oc/1999/385), [2011 4573](https://fedlex.data.admin.ch/eli/oc/2011/648)art. 2 let. c [4579](https://fedlex.data.admin.ch/eli/oc/2011/650)]
+[^59-1]: [[RO 2011 4589](https://fedlex.data.admin.ch/eli/oc/2011/652), [4573](https://fedlex.data.admin.ch/eli/oc/2011/648)art. 2 let. a]
+[^59-2]: [[RO 2000 2103](https://fedlex.data.admin.ch/eli/oc/2000/320), [2845](https://fedlex.data.admin.ch/eli/oc/2000/485); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)ch. II 68; [2011 4573](https://fedlex.data.admin.ch/eli/oc/2011/648)art. 2 let. b, [4575](https://fedlex.data.admin.ch/eli/oc/2011/649)]
+[^59-3]: [[RO 1994 3037](https://fedlex.data.admin.ch/eli/oc/1994/3037_3037_3037); [1999 2495](https://fedlex.data.admin.ch/eli/oc/1999/385); [2011 4573](https://fedlex.data.admin.ch/eli/oc/2011/648)art. 2 let. c, [4579](https://fedlex.data.admin.ch/eli/oc/2011/650)]
 
 #### Art. 60
 
@@ -762,6 +765,6 @@ Annexe
 
 Les ordonnances mentionnées ci-après sont modifiées comme suit:
 
-… [^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 2015 215](https://fedlex.data.admin.ch/eli/oc/2015/26).

@@ -4,11 +4,11 @@ title: Ordinanza del 17 dicembre 2014 concernente le inchieste sulla sicurezza i
 short: OIET
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/26"
 language: it
-version: 2015-02-01
+version: 2023-09-01
 adopted: 2014-12-17
 in_force: 2015-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/26/20150201/it/xml/fedlex-data-admin-ch-eli-cc-2015-26-20150201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/26/20150201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/26/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2015-26-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/26/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/26/20150201/it"
 
 (OIET)
 
-del 17 dicembre 2014 (Stato 1° febbraio 2015)
+del 17 dicembre 2014 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -275,13 +275,14 @@ L’Ufficio svizzero della navigazione marittima, il comandante della nave, le s
 
 #### Art. 19
 
-**Notifica alle autorità estere**
+**Notifica alle autorità estere**[^19-1]
 
 <sup>1</sup> Se un’impresa estera è coinvolta in un evento imprevisto avvenuto sul territorio svizzero, il SISI lo notifica alle autorità competenti dello Stato in cui ha sede l’impresa.
 
-<sup>2</sup> La notifica non può contenere dati personali degni di particolare protezione secondo l’articolo 3 della legge federale del 19 giugno 1992[^19-1] sulla protezione dei dati.
+<sup>2</sup> La notifica non può contenere dati personali degni di particolare protezione secondo l’articolo 5 lettera c della legge federale del 25 settembre 2020[^19-2] sulla protezione dei dati.
 
-[^19-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^19-1]: Nuovo testo giusta l’all. 2 n. II 81 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^19-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 ## Sezione 4: Procedura d’inchiesta
 
