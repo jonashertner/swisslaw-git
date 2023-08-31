@@ -4,11 +4,11 @@ title: "Lescha federala dals 25 da zercladur 1982 davart il provediment professi
 short: LPP
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/797_797_797"
 language: rm
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1982-06-25
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20230701/rm/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20230701-rm-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20230701/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20230901-rm-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20230901/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LPP)
 
-dals 25 da zercladur 1982 (versiun dals 1. da fanadur 2023) [0]
+dals 25 da zercladur 1982 (versiun dals 1. da settember 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -1072,7 +1072,7 @@ Sche l’instituziun da provediment conceda dapli che las prestaziuns minimalas,
 - 23\. las disposiziuns penalas (art. 75–79);
 - 24\. la cumpra (art. 79*b*);
 - 25\. il salari assicurabel e las entradas assicurablas (art. 79*c*);
-- 25*a*.[^49-20] l’elavuraziun da datas per attribuir u per verifitgar il numer da la AVS (art. 85*a* lit. f);
+- 25*a*.[^49-20] l’elavuraziun da datas per attribuir u per verifitgar il numer da la AVS (art. 85*a* al. 1 lit. f);
 - 25*b*.[^49-21] la communicaziun da datas per attribuir u per verifitgar il numer da la AVS (art. 86*a* al. 2 lit. b<sup>bis</sup>);
 - 26\. l’infurmaziun da las persunas assicuradas (art. 86*b*).
 
@@ -2441,7 +2441,9 @@ Avant ch’ellas ston vegnir pajadas èn las pretensiuns or d’instituziuns da 
 
 **Elavuraziun da datas persunalas**[^85a-1]
 
-Ils organs ch’èn incumbensads da realisar, da controllar u da survegliar la realisaziun da questa lescha èn autorisads d’elavurar u da laschar elavurar las datas da persunas, inclusiv las datas spezialmain sensiblas ed ils profils da la persunalitad, ch’els dovran per ademplir las incumbensas confidadas ad els tenor questa lescha, numnadamain per:[^85a-2]
+<sup>1</sup>
+
+Ils organs ch’èn incumbensads da realisar ubain da controllar u da survegliar la realisaziun da questa lescha èn autorisads d’elavurar u da laschar elavurar las datas persunalas, inclusiv datas persunalas spezialmain sensiblas, ch’els dovran per ademplir las incumbensas confidadas ad els tenor questa lescha, en spezial per:[^85a-2]
 
 - a. calcular ed incassar las contribuziuns d’assicuranza;
 - b. giuditgar dretgs da prestaziuns sco er calcular, garantir e coordinar talas cun prestaziuns d’autras assicuranzas socialas;
@@ -2450,9 +2452,12 @@ Ils organs ch’èn incumbensads da realisar, da controllar u da survegliar la r
 - e. far statisticas;
 - f.[^85a-3] attribuir u verifitgar il numer da la AVS.
 
+<sup>2</sup> Per ademplir questas incumbensas èn els ultra da quai autorisads d’elavurar u da laschar elavurar datas persunalas, che permettan en spezial da giuditgar la sanadad, la grevezza da la suffrientscha fisica u psichica, ils basegns e la situaziun economica da la persuna assicurada.[^85a-4]
+
 [^85a-1]: Integrà tras la cifra I da la LF dals 23 da zer. 2000, en vigur dapi il 1. da schan. 2001 ([AS 2000 2689](https://fedlex.data.admin.ch/eli/oc/2000/442); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)).
-[^85a-2]: Versiun tenor la cifra 9 da l’agiunta da la LF dals 23 da zer. 2006 (nov numer da l’AVS), en vigur dapi il 1. da dec. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^85a-2]: Versiun tenor la cifra II 81 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^85a-3]: Integrà tras la cifra 9 da l’agiunta da la LF dals 23 da zer. 2006 (nov numer d’assicuranza da la AVS), en vigur dapi il 1. da dec. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^85a-4]: Integrà tras la cifra II 81 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 85b
 

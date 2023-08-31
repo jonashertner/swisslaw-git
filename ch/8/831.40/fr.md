@@ -4,11 +4,11 @@ title: "Loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieill
 short: LPP
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/797_797_797"
 language: fr
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1982-06-25
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20230701-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20230901-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20230701/fr"
 
 (LPP)
 
-du 25 juin 1982 (État le 1<sup>er</sup> juillet 2023)
+du 25 juin 1982 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -47,7 +47,7 @@ arrête:
 
 **Assurance obligatoire des salariés et des chômeurs**[^2-1]
 
-<sup>1</sup> Sont soumis à l’assurance obligatoire les salariés qui ont plus de 17 ans et reçoivent d’un même employeur un salaire annuel supérieur à 22 050 francs[^2-2] (art. 7).
+<sup>1</sup> Sont soumis à l’assurance obligatoire les salariés qui ont plus de 17 ans et reçoivent d’un même employeur un salaire annuel supérieur à à 22 050 francs[^2-2] (art. 7).
 
 <sup>2</sup> Si le salarié est occupé par un employeur pendant moins d’une année, est considéré comme salaire annuel celui qu’il obtiendrait s’il était occupé toute l’année.
 
@@ -119,7 +119,7 @@ La deuxième partie de la présente loi fixe des exigences minimales.
 
 **Salaire coordonné**
 
-<sup>1</sup> La partie du salaire annuel comprise entre 25 725 et 88 200 francs[^8-1] doit être assurée. Cette partie du salaire est appelée «salaire coordonné».[^8-2]
+<sup>1</sup> La partie du salaire annuel comprise 25 725 et 88 200 francs[^8-1] doit être assurée. Cette partie du salaire est appelée «salaire coordonné».[^8-2]
 
 <sup>2</sup> Si le salaire coordonné n’atteint pas 3675 francs[^8-3] par an, il est arrondi à ce montant.[^8-4]
 
@@ -2439,7 +2439,9 @@ Avant d’être devenues exigibles, les prétentions envers des institutions de 
 
 **Traitement de données personnelles**[^85a-1]
 
-Les organes chargés d’appliquer la présente loi, d’en contrôler ou surveiller l’exécution sont habilités à traiter ou à faire traiter les données personnelles, y compris les données sensibles et les profils de la personnalité, qui leur sont nécessaires pour accomplir les tâches que leur assigne la présente loi, notamment pour:[^85a-2]
+<sup>1</sup>
+
+Les organes chargés d’appliquer la présente loi ou d’en contrôler ou surveiller l’exécution sont habilités à traiter ou à faire traiter les données personnelles, y compris les données sensibles, qui leur sont nécessaires pour accomplir les tâches que leur assigne la présente loi, notamment pour:[^85a-2]
 
 - a. calculer et percevoir les cotisations;
 - b. établir le droit aux prestations, les calculer, les allouer et les coordonner avec celles d’autres assurances sociales;
@@ -2448,9 +2450,12 @@ Les organes chargés d’appliquer la présente loi, d’en contrôler ou survei
 - e. établir des statistiques;
 - f.[^85a-3] attribuer le numéro AVS ou le vérifier.
 
+<sup>2</sup> Pour accomplir ces tâches, ils sont en outre habilités à traiter ou à faire traiter des données personnelles, notamment des données permettant d’évaluer la santé, la gravité de l’affection physique ou psychique, les besoins et la situation économique de la personne assurée.[^85a-4]
+
 [^85a-1]: Introduit par le ch. I de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2689](https://fedlex.data.admin.ch/eli/oc/2000/442); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)).
-[^85a-2]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^85a-2]: Nouvelle teneur selon l’annexe 1 ch. II 81 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^85a-3]: Introduite par l’annexe ch. 9 de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^85a-4]: Introduit par l’annexe 1 ch. II 81 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 85b
 

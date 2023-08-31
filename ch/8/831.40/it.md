@@ -4,11 +4,11 @@ title: "Legge federale del 25 giugno 1982 sulla previdenza professionale per la 
 short: LPP
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/797_797_797"
 language: it
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1982-06-25
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20230701-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20230901-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20230701/it"
 
 (LPP)
 
-del 25 giugno 1982 (Stato 1° luglio 2023)
+del 25 giugno 1982 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -2229,7 +2229,7 @@ Ogni Cantone designa un tribunale che, in ultima istanza cantonale, decide sulle
 [^74-1]: Nuovo testo giusta il n. I 14 dell’O dell’AF del 20 dic. 2006 che adegua taluni atti normativi alle disposizioni della L sul Tribunale federale e della L sul Tribunale amministrativo federale ([RU 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [FF 2006 7109](https://fedlex.data.admin.ch/eli/fga/2006/974)).
 [^74-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 [^74-3]: Introdotto dal n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^74-4]: Introdotto dal n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); FF 2007 5199).
+[^74-4]: Introdotto dal n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 
 ### Titolo secondo: Disposizioni penali
 
@@ -2448,7 +2448,9 @@ Prima di essere esigibili, le pretese verso istituti di previdenza e forme previ
 
 **Trattamento di dati personali**[^85a-1]
 
-Gli organi incaricati di applicare la presente legge o di controllarne o sorvegliarne l’esecuzione possono trattare o far trattare dati personali, compresi dati degni di particolare protezione e profili della personalità, di cui necessitano per adempiere i compiti conferiti loro dalla presente legge, segnatamente per:[^85a-2]
+<sup>1</sup>
+
+Gli organi incaricati di applicare la presente legge o di controllarne o sorvegliarne l’esecuzione possono trattare o far trattare dati personali, compresi dati personali degni di particolare protezione, di cui necessitano per adempiere i compiti conferiti loro dalla presente legge, segnatamente per:[^85a-2]
 
 - a. calcolare e riscuotere i contributi assicurativi;
 - b. stabilire il diritto alle prestazioni, nonché calcolarle, versarle e coordinarle con quelle di altre assicurazioni sociali;
@@ -2457,9 +2459,12 @@ Gli organi incaricati di applicare la presente legge o di controllarne o sorvegl
 - e. allestire statistiche;
 - f.[^85a-3] assegnare o verificare il numero AVS.
 
+<sup>2</sup> Per adempiere tali compiti possono inoltre trattare o far trattare dati personali che permettono segnatamente di valutare la salute, la gravità dell’infermità fisica o psichica, i bisogni e la situazione economica dell’assicurato.[^85a-4]
+
 [^85a-1]: Introdotto dal n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2689](https://fedlex.data.admin.ch/eli/oc/2000/442); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
-[^85a-2]: Nuovo testo giusta l’all. n. 9 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^85a-2]: Nuovo testo giusta l’all. 1 n. II 81 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^85a-3]: Introdotta dall’all. n. 9 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^85a-4]: Introdotto dall’all. 1 n. II 81 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 85b
 
