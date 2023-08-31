@@ -3,11 +3,11 @@ sr: "235.25"
 title: Ordinanza del 17 ottobre 2018 concernente il trattamento dei dati nel sistema «e-vent» di Comunicazione DFAE (Ordinanza «e-vent»)
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/650"
 language: it
-version: 2018-12-01
+version: 2023-09-01
 adopted: 2018-10-17
 in_force: 2018-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/650/20181201/it/xml/fedlex-data-admin-ch-eli-cc-2018-650-20181201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/650/20181201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/650/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2018-650-20230901-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/650/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,15 +16,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/650/20181201/it"
 
 (Ordinanza «e-vent»)
 
-del 17 ottobre 2018 (Stato 1° dicembre 2018)
+del 17 ottobre 2018 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
-visto l’articolo 57*h* capoverso 3 della legge del 21 marzo 1997[^ingress-1] sull’organizzazione del Governo e dell’Amministrazione,
+visto l’articolo 57*h*<sup>ter</sup> della legge del 21 marzo 1997[^ingress-1] sull’organizzazione del Governo e dell’Amministrazione (LOGA),[^ingress-2]
 
 ordina:
 
-[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-2]: Nuovo testo giusta l’all. 2 cifra II n. 33 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -134,7 +135,9 @@ Il Servizio delle conferenze DFAE emana un regolamento sul trattamento dei dati.
 
 <sup>1</sup> Gli accessi al sistema e il trattamento dei dati sono costantemente verbalizzati.
 
-<sup>2</sup> I verbali sono conservati per un anno.
+<sup>2</sup> I verbali sono conservati per un anno separatamente dal sistema in cui sono trattati i dati personali.[^13-1]
+
+[^13-1]: Nuovo testo giusta l’all. 2 cifra II n. 33 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 5: Entrata in vigore
 

@@ -3,11 +3,11 @@ sr: "235.25"
 title: Verordnung vom 17. Oktober 2018 über das Datenbearbeitungssystem «e-vent» der Kommunikation EDA (Verordnung «e-vent»)
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/650"
 language: de
-version: 2018-12-01
+version: 2023-09-01
 adopted: 2018-10-17
 in_force: 2018-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/650/20181201/de/xml/fedlex-data-admin-ch-eli-cc-2018-650-20181201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/650/20181201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/650/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2018-650-20230901-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/650/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,15 +16,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/650/20181201/de"
 
 (Verordnung «e-vent»)
 
-vom 17. Oktober 2018 (Stand am 1. Dezember 2018)
+vom 17. Oktober 2018 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 57*h* Absatz 3 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-1],
+gestützt auf Artikel 57*h*<sup>ter</sup> des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-1] (RVOG),[^ingress-2]
 
 verordnet:
 
-[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-2]: Fassung gemäss Anhang 2 Ziff. II 33 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -134,7 +135,9 @@ Der Konferenzdienst EDA erlässt ein Bearbeitungsreglement. Dieses enthält die 
 
 <sup>1</sup> Die Zugriffe auf das System und die Bearbeitungen werden laufend protokolliert.
 
-<sup>2</sup> Die Protokolle werden ein Jahr aufbewahrt.
+<sup>2</sup> Die Protokolle werden während einem Jahr getrennt vom System, in welchem die Personendaten bearbeitet werden, aufbewahrt.[^13-1]
+
+[^13-1]: Fassung gemäss Anhang 2 Ziff. II 33 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 5. Abschnitt: Inkrafttreten
 
