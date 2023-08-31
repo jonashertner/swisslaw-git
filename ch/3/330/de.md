@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 17. Juni 2016 über das Strafregister-Informationssyste
 short: StReG
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/600"
 language: de
-version: 2023-01-23
+version: 2023-09-01
 adopted: 2016-06-17
 in_force: 2023-01-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/600/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2022-600-20230123-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/600/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2022-600-20230901-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20230123/de"
 
 (Strafregistergesetz, StReG)
 
-vom 17. Juni 2016 (Stand am 23. Januar 2023)
+vom 17. Juni 2016 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -70,7 +70,7 @@ In diesem Gesetz bedeuten:
 
 **Bundesamt für Justiz**
 
-<sup>1</sup> Das Bundesamt für Justiz trägt als Datenherr die Verantwortung für VOSTRA.
+<sup>1</sup> Das Bundesamt für Justiz ist das für VOSTRA verantwortliche Bundesorgan.[^3-1]
 
 <sup>2</sup>
 
@@ -93,14 +93,15 @@ Die registerführende Stelle im Bundesamt für Justiz (registerführende Stelle)
   - 2\. Daten, die ihr von Bundes- oder ausländischen Behörden gemeldet werden (Art. 6 Abs. 2 und 7 Abs. 1).
 
 - k. Sie führt im Auftrag von eintragungspflichtigen Behörden (Art. 10 Abs. 3 Bst. b) oder von abfrageberechtigten Behörden (Art. 10 Abs. 6) Identitätsprüfungen durch.
-- l. Sie beantragt bei der Zentralen Ausgleichsstelle die Zuweisung einer AHV-Nummer[^3-1] nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^3-2] über die Alters- und Hinterlassenenversicherung zu einer in VOSTRA registrierten Person (Art. 10 Abs. 4) und fügt die AHV-Nummer und die dazu gehörenden identifizierenden Merkmale in VOSTRA ein.
+- l. Sie beantragt bei der Zentralen Ausgleichsstelle die Zuweisung einer AHV-Nummer[^3-2] nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^3-3] über die Alters- und Hinterlassenenversicherung zu einer in VOSTRA registrierten Person (Art. 10 Abs. 4) und fügt die AHV-Nummer und die dazu gehörenden identifizierenden Merkmale in VOSTRA ein.
 - m. Sie erstellt für nicht angeschlossene Bundesbehörden, ausländische Behörden und Privatpersonen Auszüge aus VOSTRA.
 - n. Sie sorgt für die automatische Weiterleitung von VOSTRA-Daten gemäss den Artikeln 58–64 an die zuständigen Stellen.
 - o. Sie bearbeitet Ersuchen schweizerischer Behörden um Auszug aus einem ausländischen Strafregister (Art. 26 und 49).
 - p. Sie leitet die vom System aufbereiteten Rückfall- und Kontrollmeldungen an die zuständigen Behörden weiter.
 
-[^3-1]: Ausdruck gemäss Anhang Ziff. 7 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
-[^3-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^3-1]: Fassung gemäss Anhang 2 Ziff. 2 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^3-2]: Ausdruck gemäss Anhang Ziff. 7 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
+[^3-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 4
 
@@ -225,9 +226,11 @@ Abweichungen von Absatz 1 sind in folgenden Fällen zugelassen:
 
 <sup>1</sup> Die Behörden, die über ein Zugangsrecht auf VOSTRA verfügen, sind nur insoweit zur Datenbearbeitung berechtigt, als sie diese Daten zur Erfüllung ihrer gesetzlichen Aufgaben benötigen.
 
-<sup>2</sup> Die aus VOSTRA bezogenen Strafdaten dürfen nicht in einer neuen Datensammlung aufbewahrt werden, es sei denn, dies sei zur Begründung eines getroffenen Entscheides, einer erlassenen Verfügung oder eines eingeleiteten Verfahrensschritts notwendig.
+<sup>2</sup> Die aus VOSTRA bezogenen Strafdaten dürfen nicht in einer neuen Datenbank aufbewahrt werden, es sei denn, dies sei zur Begründung eines getroffenen Entscheides, einer erlassenen Verfügung oder eines eingeleiteten Verfahrensschritts notwendig.[^12-1]
 
 <sup>3</sup> Behörden dürfen die aus VOSTRA bezogenen Daten nur weitergeben, wenn sie für die Weitergabe über eine ausdrückliche formell-gesetzliche Grundlage verfügen und die Weitergabe zu demselben Zweck erfolgt, zu dem sie diese Daten erhalten haben.
+
+[^12-1]: Fassung gemäss Anhang 2 Ziff. 2 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 13
 
@@ -1106,12 +1109,13 @@ Keine Auskunft wird erteilt über automatisch protokollierte Abfragen (Art. 25),
 
 <sup>4</sup> Die Auskunft wird mündlich in den Räumlichkeiten der registerführenden Stelle erteilt. Es wird kein direkter Einblick über den Computerbildschirm in VOSTRA gewährt. Ist die Person verzeichnet, so kann sie vor Ort alle sie betreffenden Datensätze einsehen. Die entsprechenden Datenblätter, welche die Einträge dokumentieren, dürfen nicht ausgehändigt werden.
 
-<sup>5</sup> Stellt die Person fest, dass ihre Daten nicht korrekt eingetragen sind, so kann sie ihre Ansprüche nach Artikel 25 des Bundesgesetzes vom 19. Juni 1992[^57-4] über den Datenschutz geltend machen.
+<sup>5</sup> Stellt die Person fest, dass ihre Daten nicht korrekt eingetragen sind, so kann sie ihre Ansprüche nach Artikel 41 des Datenschutzgesetzes vom 25. September 2020[^57-4] geltend machen.[^57-5]
 
 [^57-1]: [SR 312.1](https://fedlex.data.admin.ch/eli/cc/2010/226)
 [^57-2]: Fassung gemäss Anhang 2 Ziff. 1, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
 [^57-3]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^57-4]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^57-5]: Fassung gemäss Anhang 2 Ziff. 2 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 4. Kapitel: Automatische Weiterleitung von Daten aus VOSTRA an Behörden
 

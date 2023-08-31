@@ -4,11 +4,11 @@ title: "Loi fédérale du 17 juin 2016 sur le casier judiciaire informatique VOS
 short: LCJ
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/600"
 language: fr
-version: 2023-01-23
+version: 2023-09-01
 adopted: 2016-06-17
 in_force: 2023-01-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/600/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2022-600-20230123-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/600/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2022-600-20230901-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20230123/fr"
 
 (Loi sur le casier judiciaire, LCJ)[^t-1]
 
-du 17 juin 2016 (État le 23 janvier 2023)
+du 17 juin 2016 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -72,7 +72,7 @@ Au sens de la présente loi, on entend par:
 
 **Office fédéral de la justice**
 
-<sup>1</sup> L’Office fédéral de la justice est responsable de VOSTRA en qualité de maître du fichier.
+<sup>1</sup> L’Office fédéral de la justice est l’organe fédéral responsable de VOSTRA.[^3-1]
 
 <sup>2</sup>
 
@@ -95,13 +95,14 @@ Le service de l’Office fédéral de la justice qui gère le casier judiciaire 
   - 2\. les données qui lui sont transmises par des autorités fédérales ou étrangères (art. 6, al. 2, et 7, al. 1);
 
 - k. il mène des contrôles d’identité à la demande des autorités qui saisissent des données (art. 10, al. 3, let. b) et de celles ayant un droit de consultation (art. 10, al. 6);
-- l. il demande à la Centrale de compensation d’attribuer un numéro AVS au sens de l’art. 50*c* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^3-1] (numéro AVS) aux personnes inscrites au casier judiciaire (art. 10, al. 4); il enregistre dans VOSTRA ce numéro et les données d’identification qui y sont associées;
+- l. il demande à la Centrale de compensation d’attribuer un numéro AVS au sens de l’art. 50*c* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^3-2] (numéro AVS) aux personnes inscrites au casier judiciaire (art. 10, al. 4); il enregistre dans VOSTRA ce numéro et les données d’identification qui y sont associées;
 - m. il établit des extraits du casier judiciaire à l’intention des autorités fédérales non raccordées, des autorités étrangères et des particuliers;
 - n. il veille à ce que les données du casier judiciaire visées aux art. 58 à 64 soient communiquées automatiquement aux autorités compétentes;
 - o. il traite les demandes d’extraits d’un casier judiciaire étranger faites par les autorités suisses (art. 26 et 49);
 - p. il communique les avis de récidive et de contrôle émis par le système aux autorités compétentes.
 
-[^3-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^3-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de la LF du 25 septembre 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^3-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 4
 
@@ -226,9 +227,11 @@ Des dérogations à l’al. 1 sont admissibles dans les cas suivants:
 
 <sup>1</sup> Les autorités habilitées à consulter VOSTRA ne peuvent le faire que dans la mesure où l’accomplissement de leurs tâches légales l’exige.
 
-<sup>2</sup> Les données pénales de VOSTRA ne peuvent pas être conservées dans un autre fichier, à moins que cela ne soit nécessaire pour motiver une décision prise, une ordonnance rendue ou une étape de procédure engagée.
+<sup>2</sup> Les données pénales de VOSTRA ne peuvent pas être conservées dans une autre banque de données, à moins que cela ne soit nécessaire pour motiver une décision prise, une ordonnance rendue ou une étape de procédure engagée.[^12-1]
 
 <sup>3</sup> Les autorités ne peuvent communiquer les données de VOSTRA à des tiers que si une loi formelle les y autorise expressément et que le but de la communication des données est le même que celui de la consultation.
+
+[^12-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de la LF du 25 septembre 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 13
 
@@ -506,13 +509,15 @@ Les données suivantes sont enregistrées:
 
 **Journalisation des consultations effectuées par les autorités**
 
-<sup>1</sup> Lorsqu’une autorité consulte en ligne les données pénales du casier judiciaire, sont automatiquement enregistrés dans un fichier journal de VOSTRA le nom de cette autorité, la date et l’heure de la consultation, son but, les données pénales consultées et les personnes auxquelles elles se rapportent.
+<sup>1</sup> Lorsqu’une autorité consulte en ligne les données pénales du casier judiciaire, le nom de cette autorité, la date et l’heure de la consultation, son but, les données pénales consultées et les personnes auxquelles elles se rapportent sont automatiquement journalisés dans VOSTRA.[^25-1]
 
 <sup>2</sup> Les consultations effectuées par les autorités qui gèrent VOSTRA ne sont journalisées que lorsqu’elles servent à la saisie initiale des données pénales ou à l’établissement d’un extrait sur demande écrite d’une autorité.
 
 <sup>3</sup> Le Conseil fédéral définit la nature et la forme des données qui doivent être enregistrées.
 
 <sup>4</sup> Les données journalisées ne peuvent être utilisées que dans l’exercice du droit d’accès de la personne concernée (art. 57) ou en vue des contrôles effectués par le Service du casier judiciaire (art. 3, al. 2, let. g).
+
+[^25-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de la LF du 25 septembre 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 26
 
@@ -1110,12 +1115,13 @@ Les données journalisées (art. 25) ne lui sont pas communiquées lorsqu’elle
 
 <sup>4</sup> Les renseignements demandés sont donnés oralement, dans les locaux du Service du casier judiciaire. Le requérant n’est pas autorisé à consulter VOSTRA à l’écran. S’il est inscrit dans le système, il peut prendre connaissance sur place de toutes les données le concernant. Les documents sur lesquels figurent ces données ne lui sont pas remis.
 
-<sup>5</sup> Si le requérant constate que les données le concernant sont inexactes, il peut faire valoir les droits visés à l’art. 25 de la loi fédérale du 19 juin 1992 sur la protection des données[^57-4].
+<sup>5</sup> Si le requérant constate que les données le concernant sont inexactes, il peut faire valoir les droits visés à l’art. 41 de la loi fédérale du 25 septembre 2020 sur la protection des données[^57-4].[^57-5]
 
 [^57-1]: [RS 312.1](https://fedlex.data.admin.ch/eli/cc/2010/226)
 [^57-2]: Teneur selon l’annexe 2 ch. 1, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
 [^57-3]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^57-4]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^57-5]: Nouvelle teneur selon l’annexe 2 ch. 2 de la LF du 25 septembre 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Chapitre 4 Communication automatique de données du casier judiciaire à des autorités
 

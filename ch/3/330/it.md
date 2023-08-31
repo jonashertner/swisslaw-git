@@ -4,11 +4,11 @@ title: "Legge federale del 17 giugno 2016 sul casellario giudiziale informatizza
 short: LCaGi
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/600"
 language: it
-version: 2023-01-23
+version: 2023-09-01
 adopted: 2016-06-17
 in_force: 2023-01-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/600/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2022-600-20230123-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20230123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/600/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2022-600-20230901-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20230123/it"
 
 (Legge sul casellario giudiziale, LCaGi)
 
-del 17 giugno 2016 (Stato 23 gennaio 2023)
+del 17 giugno 2016 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -70,7 +70,7 @@ Nella presente legge s’intende per:
 
 **Ufficio federale di giustizia**
 
-<sup>1</sup> L’Ufficio federale di giustizia è responsabile di VOSTRA quale titolare della collezione di dati.
+<sup>1</sup> L’Ufficio federale di giustizia è l’organo federale responsabile di VOSTRA.[^3-1]
 
 <sup>2</sup>
 
@@ -93,14 +93,15 @@ Il servizio dell’Ufficio federale di giustizia che gestisce il casellario giud
   - 2\. i dati trasmessigli da autorità federali o estere (art. 6 cpv. 2 e 7 cpv. 1);
 
 - k. esegue controlli d’identità su richiesta delle autorità tenute a iscrivere dati (art. 10 cpv. 3 lett. b) o delle autorità che hanno diritto di consultarli (art. 10 cpv. 6);
-- l. chiede all’Ufficio centrale di compensazione di assegnare un numero AVS[^3-1] secondo l’articolo 50*c* della legge federale del 20 dicembre 1946[^3-2] sull’assicurazione per la vecchiaia e per i superstiti alle persone registrate in VOSTRA (art. 10 cpv. 4) e inserisce il numero AVS e i relativi dati identificativi in VOSTRA;
+- l. chiede all’Ufficio centrale di compensazione di assegnare un numero AVS[^3-2] secondo l’articolo 50*c* della legge federale del 20 dicembre 1946[^3-3] sull’assicurazione per la vecchiaia e per i superstiti alle persone registrate in VOSTRA (art. 10 cpv. 4) e inserisce il numero AVS e i relativi dati identificativi in VOSTRA;
 - m. allestisce estratti del casellario giudiziale per le autorità federali non collegate, le autorità estere e i privati;
 - n. provvede affinché i dati di VOSTRA di cui agli articoli 58–64 siano automaticamente comunicati alle autorità competenti;
 - o. tratta le richieste di estratti di un casellario giudiziale estero presentate da autorità svizzere (art. 26 e 49);
 - p. comunica alle autorità competenti gli avvisi di recidiva e di controllo generati dal sistema.
 
-[^3-1]: Espressione giusta l’all. n. 7 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Di detta mod. è tenuto conto in tutte le disp. menzionate nella RU.
-[^3-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^3-1]: Nuovo testo giusta l’all. 2 n. 2 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^3-2]: Espressione giusta l’all. n. 7 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Di detta mod. è tenuto conto in tutte le disp. menzionate nella RU.
+[^3-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 4
 
@@ -225,9 +226,11 @@ Sono ammesse deroghe al capoverso 1 nei casi seguenti:
 
 <sup>1</sup> Le autorità che hanno diritto di consultare VOSTRA possono trattare soltanto i dati necessari all’adempimento dei loro compiti legali.
 
-<sup>2</sup> I dati penali di VOSTRA non possono essere conservati in una nuova collezione di dati, salvo che ciò sia necessario per motivare una decisione presa o un passo procedurale intrapreso.
+<sup>2</sup> I dati penali di VOSTRA non possono essere conservati in una nuova banca dati, salvo che ciò sia necessario per motivare una decisione presa o un passo procedurale intrapreso.[^12-1]
 
 <sup>3</sup> Le autorità possono comunicare a terzi dati di VOSTRA soltanto in virtù di un’esplicita base legale formale e per il medesimo scopo per il quale hanno consultato i dati.
+
+[^12-1]: Nuovo testo giusta l’all. 2 n. 2 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 13
 
@@ -1106,12 +1109,13 @@ Non sono fornite informazioni sulle consultazioni verbalizzate automaticamente (
 
 <sup>4</sup> Le informazioni sono fornite oralmente nei locali del Servizio del casellario giudiziale. Il richiedente non può consultare VOSTRA direttamente allo schermo. Se è registrato nel sistema, può prendere visione sul posto di tutti i dati che lo concernono. I documenti nei quali figurano tali dati non gli sono consegnati.
 
-<sup>5</sup> Se constata che i dati che lo concernono sono inesatti, il richiedente può far valere i propri diritti secondo l’articolo 25 della legge federale del 19 giugno 1992[^57-4] sulla protezione dei dati.
+<sup>5</sup> Se constata che i dati che lo concernono sono inesatti, il richiedente può far valere i propri diritti secondo l’articolo 41 della legge federale del 25 settembre 2020[^57-4] sulla protezione dei dati.[^57-5]
 
 [^57-1]: [RS 312.1](https://fedlex.data.admin.ch/eli/cc/2010/226)
 [^57-2]: Testo giusta l’all. 2 n. 1, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)).
 [^57-3]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^57-4]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^57-5]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)). Nuovo testo giusta l’all. 2 n. 2 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Capitolo 4: Comunicazione automatica di dati di VOSTRA ad autorità
 
