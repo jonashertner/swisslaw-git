@@ -4,18 +4,18 @@ title: Schweizerisches Strafgesetzbuch vom 21. Dezember 1937
 short: StGB
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: de
-version: 2023-08-01
+version: 2023-09-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20230801/de/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20230801-de-xml-14.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20230901/de/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20230901-de-xml-36.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Schweizerisches Strafgesetzbuch
 
-vom 21. Dezember 1937 (Stand am 1. August 2023)
+vom 21. Dezember 1937 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -3230,9 +3230,19 @@ Wer eine Fernmeldeanlage zur Beunruhigung oder Belästigung missbraucht, wird, a
 
 [^179novies-1]
 
-Wer unbefugt besonders schützenswerte Personendaten oder Persönlichkeitsprofile, die nicht frei zugänglich sind, aus einer Datensammlung beschafft, wird auf Antrag mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+Wer unbefugt besonders schützenswerte Personendaten, die nicht für jedermann zugänglich sind, beschafft, wird auf Antrag mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
-[^179novies-1]: Eingefügt durch Anhang Ziff. 4 des BG vom 19. Juni 1992 über den Datenschutz, in Kraft seit 1. Juli 1993 ([AS 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [BBl 1988 II 413](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)).
+[^179novies-1]: Eingefügt durch Anhang Ziff. 4 des BG vom 19. Juni 1992 über den Datenschutz ([AS 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [BBl 1988 II 413](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)). Fassung gemäss Anhang 1 Ziff. II 26 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+
+### Identitätsmissbrauch
+
+#### Art. 179<sup>decies</sup>
+
+[^179decies-1]
+
+Wer die Identität einer anderen Person ohne deren Einwilligung verwendet, um dieser zu schaden oder um sich oder einem Dritten einen unrechtmässigen Vorteil zu verschaffen, wird auf Antrag mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe bestraft.
+
+[^179decies-1]: Eingefügt durch Anhang 1 Ziff. II 26 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Vierter Titel: Verbrechen und Vergehen gegen die Freiheit
 
@@ -5883,13 +5893,14 @@ Wird in Bundesvorschriften auf Bestimmungen verwiesen, die durch dieses Gesetz g
 
 [^349a-1]
 
-Die zuständigen Bundesbehörden dürfen Personendaten nur bekannt geben, wenn dafür eine Rechtsgrundlage im Sinne von Artikel 7 des Schengen-Datenschutzgesetzes vom 28. September 2018[^349a-2] (SDSG) besteht oder wenn:
+Die zuständigen Bundesbehörden dürfen Personendaten nur bekannt geben, wenn dafür eine Rechtsgrundlage im Sinne von Artikel 36 Absatz 1 des Datenschutzgesetzes vom 25. September 2020[^349a-2] (DSG) besteht oder wenn:[^349a-3]
 
 - a. die Bekanntgabe von Personendaten notwendig ist, um das Leben oder die körperliche Unversehrtheit der betroffenen Person oder eines Dritten zu schützen;
 - b. die betroffene Person ihre Personendaten allgemein zugänglich gemacht und die Bekanntgabe nicht ausdrücklich untersagt hat.
 
 [^349a-1]: Eingefügt durch Ziff. II 2 des BG vom 28. Sept. 2018 über die Umsetzung der Richtlinie (EU) 2016/680 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten zum Zwecke der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafvollstreckung, in Kraft seit 1. März 2019 ([AS 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^349a-2]: [SR 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
+[^349a-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^349a-3]: Fassung gemäss Anhang 1 Ziff. II 26 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### b. Gleichbehandlung
 
@@ -5919,7 +5930,7 @@ Ein angemessener Schutz wird gewährleistet durch:
 - b. einen völkerrechtlichen Vertrag;
 - c. spezifische Garantien.
 
-<sup>3</sup> Handelt es sich bei der bekanntgebenden Behörde um eine Bundesbehörde, so informiert sie den Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (Beauftragter) über die Kategorien von Bekanntgaben von Personendaten, die auf der Grundlage spezifischer Garantien nach Absatz 2 Buchstabe c erfolgen. Jede Bekanntgabe wird dokumentiert.
+<sup>3</sup> Handelt es sich bei der bekanntgebenden Behörde um eine Bundesbehörde, so informiert sie den Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB) über die Kategorien von Bekanntgaben von Personendaten, die auf der Grundlage spezifischer Garantien nach Absatz 2 Buchstabe c erfolgen. Jede Bekanntgabe wird dokumentiert.[^349c-2]
 
 <sup>4</sup>
 
@@ -5930,9 +5941,11 @@ In Abweichung von Absatz 1 können Personendaten der zuständigen Behörde eines
 - c. zur Verhütung, Feststellung oder Verfolgung einer Straftat, sofern der Bekanntgabe keine überwiegenden schutzwürdigen Interessen der betroffenen Person entgegenstehen;
 - d. zur Ausübung oder Durchsetzung von Rechtsansprüchen gegenüber einer für die Verhütung, Feststellung oder Verfolgung einer Straftat zuständigen Behörde, sofern der Bekanntgabe keine überwiegenden schutzwürdigen Interessen der betroffenen Person entgegenstehen.
 
-<sup>5</sup> Handelt es sich bei der bekanntgebenden Behörde um eine Bundesbehörde, so informiert sie den Beauftragten über die Bekanntgabe nach Absatz 4.
+<sup>5</sup> Handelt es sich bei der bekanntgebenden Behörde um eine Bundesbehörde, so informiert sie den EDÖB[^349c-3] über die Bekanntgabe nach Absatz 4.
 
 [^349c-1]: Eingefügt durch Ziff. II 2 des BG vom 28. Sept. 2018 über die Umsetzung der Richtlinie (EU) 2016/680 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten zum Zwecke der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafvollstreckung, in Kraft seit 1. März 2019 ([AS 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^349c-2]: Fassung gemäss Anhang 1 Ziff. II 26 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^349c-3]: Ausdruck gemäss Anhang 1 Ziff. II 26 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
 ### d. Bekanntgabe von Personendaten aus einem Schengen-Staat an einen Drittstaat oder an ein internationales Organ
 
@@ -5976,7 +5989,7 @@ Ist es, namentlich in Notfällen, nicht möglich, der zuständigen Behörde eine
 
 <sup>3</sup> Sie benachrichtigt die zuständige Behörde des Drittstaates unverzüglich über jede Bekanntgabe von Personendaten, sofern sie dies als zweckmässig erachtet.
 
-<sup>4</sup> Handelt es sich bei der zuständigen Behörde um eine Bundesbehörde, so informiert sie den Beauftragten unverzüglich über jede Bekanntgabe nach Absatz 1.
+<sup>4</sup> Handelt es sich bei der zuständigen Behörde um eine Bundesbehörde, so informiert sie den EDÖB unverzüglich über jede Bekanntgabe nach Absatz 1.
 
 <sup>5</sup> Sie dokumentiert jede Bekanntgabe von Personendaten. Der Bundesrat regelt die Einzelheiten.
 
@@ -6013,23 +6026,24 @@ Sie gibt dem Empfänger ausserdem alle weiteren Informationen bekannt, anhand de
 
 <sup>1</sup>
 
-Die betroffene Person kann vom Beauftragten verlangen, dass er prüft, ob allfällige Daten über sie rechtmässig bearbeitet werden, wenn:
+Die betroffene Person kann vom EDÖB verlangen, dass er prüft, ob allfällige Daten über sie rechtmässig bearbeitet werden, wenn:
 
-- a. ihr Recht auf Information über den Austausch von Daten über sie eingeschränkt oder aufgeschoben wird (Art. 18*a* und 18*b* des Bundesgesetzes vom 19. Juni 1992[^349g-2] über den Datenschutz);
-- b. ihr Auskunftsrecht verweigert, eingeschränkt oder aufgeschoben wird (Art. 17 und 18 SDSG[^349g-3]); oder
-- c. ihr Recht, die Berichtigung, die Vernichtung oder die Löschung von Daten über sie zu verlangen, teilweise oder ganz verweigert wird (Art. 19 Abs. 2 Bst. a SDSG).
+- a. ihr Recht auf Information über den Austausch von Daten über sie eingeschränkt oder aufgeschoben wird (Art. 19 und 20 DSG[^349g-2]);
+- b. ihr Auskunftsrecht verweigert, eingeschränkt oder aufgeschoben wird (Art. 25 und 26 DSG); oder
+- c. ihr Recht, die Berichtigung, die Vernichtung oder die Löschung von Daten über sie zu verlangen, teilweise oder ganz verweigert wird (Art. 41 Abs. 2 Bst. a DSG).[^349g-3]
 
-<sup>2</sup> Der Prüfung unterzogen werden kann ausschliesslich eine Bundesbehörde, die der Aufsicht des Beauftragten untersteht.
+<sup>2</sup> Der Prüfung unterzogen werden kann ausschliesslich eine Bundesbehörde, die der Aufsicht des EDÖB untersteht.
 
-<sup>3</sup> Der Beauftragte führt die Prüfung durch; er teilt der betroffenen Person mit, dass entweder keine Daten über sie unrechtmässig bearbeitet werden oder dass er im Falle von Fehlern bei der Bearbeitung der Personendaten eine Untersuchung nach Artikel 22 SDSG eröffnet hat.
+<sup>3</sup> Der EDÖB führt die Prüfung durch; er teilt der betroffenen Person mit, dass entweder keine Daten über sie unrechtmässig bearbeitet werden oder dass er im Falle von Fehlern bei der Bearbeitung der Personendaten eine Untersuchung nach Artikel 49 DSG eröffnet hat.[^349g-4]
 
-<sup>4</sup> Stellt der Beauftragte Fehler bei der Datenbearbeitung fest, so ordnet er an, dass die zuständige Bundesbehörde diese behebt.
+<sup>4</sup> Stellt der EDÖB Fehler bei der Datenbearbeitung fest, so ordnet er an, dass die zuständige Bundesbehörde diese behebt.
 
 <sup>5</sup> Die Mitteilung nach Absatz 3 lautet stets gleich und wird nicht begründet. Sie kann nicht angefochten werden.
 
 [^349g-1]: Eingefügt durch Ziff. II 2 des BG vom 28. Sept. 2018 über die Umsetzung der Richtlinie (EU) 2016/680 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten zum Zwecke der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafvollstreckung, in Kraft seit 1. März 2019 ([AS 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^349g-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^349g-3]: [SR 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
+[^349g-3]: Fassung gemäss Anhang 1 Ziff. II 26 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^349g-4]: Fassung gemäss Anhang 1 Ziff. II 26 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### h. Untersuchung
 
@@ -6037,16 +6051,18 @@ Die betroffene Person kann vom Beauftragten verlangen, dass er prüft, ob allfä
 
 [^349h-1]
 
-<sup>1</sup> Macht die betroffene Person glaubhaft, dass ein Austausch von Personendaten über sie gegen die Vorschriften zum Schutz von Personendaten verstossen könnte, kann sie vom Beauftragten die Eröffnung einer Untersuchung nach Artikel 22 SDSG[^349h-2] verlangen.
+<sup>1</sup> Macht die betroffene Person glaubhaft, dass ein Austausch von Personendaten über sie gegen die Vorschriften zum Schutz von Personendaten verstossen könnte, kann sie vom EDÖB die Eröffnung einer Untersuchung nach Artikel 49 DSG[^349h-2] verlangen.[^349h-3]
 
-<sup>2</sup> Eine Untersuchung kann ausschliesslich gegen eine Bundesbehörde eröffnet werden, die der Aufsicht des Beauftragten untersteht.
+<sup>2</sup> Eine Untersuchung kann ausschliesslich gegen eine Bundesbehörde eröffnet werden, die der Aufsicht des EDÖB untersteht.
 
 <sup>3</sup> Partei sind die betroffene Person und die Bundesbehörde, gegen die eine Untersuchung eröffnet wurde.
 
-<sup>4</sup> Ferner gelten die Artikel 23 und 24 SDSG.
+<sup>4</sup> Ferner gelten die Artikel 50 und 51 DSG.[^349h-4]
 
 [^349h-1]: Eingefügt durch Ziff. II 2 des BG vom 28. Sept. 2018 über die Umsetzung der Richtlinie (EU) 2016/680 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten zum Zwecke der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafvollstreckung, in Kraft seit 1. März 2019 ([AS 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^349h-2]: [SR 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
+[^349h-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^349h-3]: Fassung gemäss Anhang 1 Ziff. II 26 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^349h-4]: Fassung gemäss Anhang 1 Ziff. II 26 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 2. Zusammenarbeit mit INTERPOL
 
@@ -6088,12 +6104,13 @@ Die betroffene Person kann vom Beauftragten verlangen, dass er prüft, ob allfä
 
 <sup>1</sup> Der Austausch kriminalpolizeilicher Informationen richtet sich nach den Grundsätzen des Rechtshilfegesetzes vom 20. März 1981[^352-1] sowie nach den vom Bundesrat als anwendbar erklärten Statuten und Reglementen von INTERPOL.
 
-<sup>2</sup> Für den Austausch von Informationen zur Suche nach Vermissten, zur Identifizierung von Unbekannten und zu administrativen Zwecken gilt das Bundesgesetz vom 19. Juni 1992[^352-2] über den Datenschutz.
+<sup>2</sup> Für den Austausch von Informationen zur Suche nach Vermissten, zur Identifizierung von Unbekannten und zu administrativen Zwecken gilt das DSG[^352-2].[^352-3]
 
 <sup>3</sup> Das Bundesamt für Polizei kann den Zentralbüros anderer Staaten Informationen direkt vermitteln, wenn der Empfängerstaat den datenschutzrechtlichen Vorschriften von INTERPOL untersteht.
 
 [^352-1]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
 [^352-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^352-3]: Fassung gemäss Anhang 1 Ziff. II 26 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### d. Finanzhilfen und Abgeltungen
 
@@ -6172,7 +6189,7 @@ Die Daten dürfen verwendet werden:
 
 [^355a-1]
 
-<sup>1</sup> Das fedpol und der Nachrichtendienst des Bundes (NDB) können dem Europäischen Polizeiamt (Europol) Personendaten, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, weitergeben.[^355a-2]
+- [tab] <sup>1</sup> Das fedpol und der Nachrichtendienst des Bundes (NDB) können dem Europäischen Polizeiamt (Europol) Personendaten, einschliesslich besonders schützenswerter Personendaten, weitergeben.[^355a-2]
 
 <sup>2</sup> Für die Weitergabe dieser Daten gelten insbesondere die Voraussetzungen nach den Artikeln 3 und 10–13 des Abkommens vom 24. September 2004[^355a-3] zwischen der Schweizerischen Eidgenossenschaft und dem Europäischen Polizeiamt.
 
@@ -6181,7 +6198,7 @@ Die Daten dürfen verwendet werden:
 <sup>4</sup> Der Austausch von Personendaten mit Europol wird dem Austausch mit einer zuständigen Behörde eines Schengen-Staates gleichgesetzt (Art. 349*b*).[^355a-4]
 
 [^355a-1]: Eingefügt durch Art. 2 des BB vom 7. Okt. 2005 über die Genehmigung und die Umsetzung des Abk. zwischen der Schweiz und dem Europol, in Kraft seit 1. April 2006 ([AS 2006 1017](https://fedlex.data.admin.ch/eli/oc/2006/180); [BBl 2005 983](https://fedlex.data.admin.ch/eli/fga/2005/131)).
-[^355a-2]: Fassung gemäss Anhang 1 Ziff. 4 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^355a-2]: Fassung gemäss Anhang 2 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 1. Sept. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 [^355a-3]: [SR 0.362.2](https://fedlex.data.admin.ch/eli/cc/2006/181)
 [^355a-4]: Eingefügt durch Ziff. II 2 des BG vom 28. Sept. 2018 über die Umsetzung der Richtlinie (EU) 2016/680 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten zum Zwecke der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafvollstreckung, in Kraft seit 1. März 2019 ([AS 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 

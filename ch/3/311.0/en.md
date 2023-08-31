@@ -4,11 +4,11 @@ title: Swiss Criminal Code of 21 December 1937
 short: SCC
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: en
-version: 2023-08-01
+version: 2023-09-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20230801/en/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20230801-en-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230801/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20230901/en/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20230901-en-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230801/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 21 December 1937 (Status as of 1 August 2023)
+of 21 December 1937 (Status as of 1 September 2023)
 
 The Federal Assembly the Swiss Confederation,
 
@@ -3236,9 +3236,19 @@ Any person who uses a telecommunications installation in order to cause distress
 
 [^179novies-1]
 
-Any person who without authorisation obtains from a data collection personal data or personality profiles that are particularly sensitive and that are not freely accessible shall be liable on complaint to a custodial sentence not exceeding three years or to a monetary penalty.
+Any person who without authorisation obtains personal data that are particularly sensitive and that are not publicly accessible shall be liable on complaint to a custodial sentence not exceeding three years or to a monetary penalty.
 
-[^179novies-1]: Inserted by Annex No 4 of the FA of 19 June 1992 on Data Protection, in force since 1 July 1993 ([AS 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [BBl 1988 II 413](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)).
+[^179novies-1]: Inserted by Annex No 4 of the FA of 19 June 1992 on Data Protection, ([AS 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [BBl 1988 II 413](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)). Amended by Annex 1 No II 26 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+
+### Identity theft
+
+#### Art. 179<sup>decies</sup>
+
+[^179decies-1]
+
+Any person who uses the identity of another person without his or her consent in order to harm that person or in order to obtain an unlawful advantage for himself or herself or another shall be liable on complaint to a custodial sentence not exceeding one year or to a monetary penalty.
+
+[^179decies-1]: Inserted by Annex 1 No II 26 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Title Four: Felonies and Misdemeanours against Liberty
 
@@ -4961,7 +4971,7 @@ Any person who removes from official control an item of property which has been 
 
 Any person who breaks open, removes or renders ineffective an official mark and in particular an official seal which is used to close or identify an object shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
-### Breach of an expulsion order
+### Breach of an expulsion order order or a contact prohibition and exclusion order
 
 #### Art. 291
 
@@ -4987,8 +4997,6 @@ Any person who fails to comply with an official order that has been issued to hi
 
 [^293-1]: Amended by No I of the FA of 16 June 2017 (Publication of Official Secret Proceedings), in force since 1 March 2018 ([AS 2018 567](https://fedlex.data.admin.ch/eli/oc/2018/76); [BBl 2016 7329](https://fedlex.data.admin.ch/eli/fga/2016/1580)[7575](https://fedlex.data.admin.ch/eli/fga/2016/1624)).
 [^293-2]: Inserted by No I of the FA of 10 Oct. 1997 ([AS 1998 852](https://fedlex.data.admin.ch/eli/oc/1998/852_852_852); [BBl 1996 IV 525](https://fedlex.data.admin.ch/eli/fga/1996/4_525_533_449)). Amended by No I of the FA of 16 June 2017 (Publication of Official Secret Proceedings), in force since 1 March 2018 ([AS 2018 567](https://fedlex.data.admin.ch/eli/oc/2018/76); [BBl 2016 7329](https://fedlex.data.admin.ch/eli/fga/2016/1580)[7575](https://fedlex.data.admin.ch/eli/fga/2016/1624)).
-
-### Breach of an activity prohibition order or a contact prohibition and exclusion order
 
 #### Art. 294
 
@@ -5086,7 +5094,7 @@ shall be liable to a custodial sentence not exceeding three years or to a moneta
 
 <sup>3</sup> In the case of Articles 296 and 297, the right to prosecute is subject to a limitation period of two years.[^302-2]
 
-[^302-1]: Amended by No I of the FA of 5 Oct. 1950, in force since 5 Jan. 1951 ([AS 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1)16; BBl **1949** 1 1249).
+[^302-1]: Amended by No I of the FA of 5 Oct. 1950, in force since 5 Jan. 1951 ([AS 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1)16; [BBl 19491 1249](https://fedlex.data.admin.ch/eli/fga/19491/1249)).
 [^302-2]: Amended by No I of the FA of 22 March 2002 (Limitation of the Right to Prosecute), in force since 1 Oct. 2002 ([AS 2002 2986](https://fedlex.data.admin.ch/eli/oc/2002/428)2988; [BBl 2002 2673](https://fedlex.data.admin.ch/eli/fga/2002/342)[1649](https://fedlex.data.admin.ch/eli/fga/2002/204)).
 
 ### Title Seventeen: Felonies and Misdemeanours against the Administration of Justice
@@ -5890,13 +5898,14 @@ If reference is made in federal legislation to provisions being amended or repea
 
 [^349a-1]
 
-The competent federal authorities may only disclose personal data if there is a legal basis for doing so under Article 7 of the Schengen Data Protection Act of 28 September 2018[^349a-2] (SADP) or if:
+The competent federal authorities may only disclose personal data if there is a legal basis for doing so under Article 36 paragraph 1 of the Data Protection Act of 25 September 2020[^349a-2] (FADP) or if:[^349a-3]
 
 - a. disclosure of personal data is required to protect the life or physical integrity of the person concerned or of a third party;
 - b. the person concerned has made their personal data general accessible and has not expressly prohibited the disclosure of the data.
 
 [^349a-1]: Inserted by No II 2 of the FA of 28 Sept. 2018 on the implementation of Directive (EU) 2016/680 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, in force since 1 March 2019 ([AS 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^349a-2]: [SR 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
+[^349a-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^349a-3]: Amended by Annex 1 No II 26 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### b. Equal treatment
 
@@ -5926,7 +5935,7 @@ Adequate protection shall be ensured by:
 - b. an international treaty;
 - c. specific guarantees.
 
-<sup>3</sup> If the disclosing authority is a federal authority, it shall inform the Federal Data Protection and Information Commissioner (Commissioner) of the categories of disclosures of personal data made on the basis of specific guarantees pursuant to paragraph 2 letter c. Every disclosure is documented.
+<sup>3</sup> If the disclosing authority is a federal authority, it shall inform the Federal Data Protection and Information Commissioner (FDPIC) of the categories of disclosures of personal data made on the basis of specific guarantees pursuant to paragraph 2 letter c. Every disclosure is documented.[^349c-2]
 
 <sup>4</sup>
 
@@ -5937,9 +5946,11 @@ By way of derogation from paragraph 1, personal data may be disclosed to the com
 - c. to prevent, detect or prosecute a criminal offence, provided that disclosure does not conflict with the overriding legitimate interests of the data subject;
 - d. to exercise or enforce legal claims against an authority responsible for the prevention, detection or prosecution of a criminal offence, provided that disclosure does not conflict with the overriding legitimate interests of the data subject.
 
-<sup>5</sup> If the disclosing authority is a federal authority, it shall inform the Commissioner of the disclosures pursuant to paragraph 4.
+<sup>5</sup> If the disclosing authority is a federal authority, it shall inform the FDPIC[^349c-3] of the disclosures pursuant to paragraph 4.
 
 [^349c-1]: Inserted by No II 2 of the FA of 28 Sept. 2018 on the implementation of Directive (EU) 2016/680 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, in force since 1 March 2019 ([AS 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^349c-2]: Amended by Annex 1 No II 26 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^349c-3]: Abbreviation in accordance with Annex 1 No II 26 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)). This amendment has been made in the provisions specified in the AS.
 
 ### d. Disclosure of personal data by a Schengen State to a third country or an international body
 
@@ -5983,7 +5994,7 @@ Where it is not possible, in particular in cases of emergency, to disclose perso
 
 <sup>3</sup> It shall inform the competent authority of the third country without delay of any disclosure of personal data, provided it considers this appropriate.
 
-<sup>4</sup> If the responsible authority is a federal authority, it shall inform the Commissioner without delay of any disclosure pursuant to paragraph 1.
+<sup>4</sup> If the responsible authority is a federal authority, it shall inform the FDPIC without delay of any disclosure pursuant to paragraph 1.
 
 <sup>5</sup> It shall document each disclosure of personal data. The Federal Council shall regulate the details.
 
@@ -6020,25 +6031,43 @@ It shall also provide the recipient with any further information that can be use
 
 <sup>1</sup>
 
-The data subject may request the Commissioner to check whether any data relating to the data subject is being processed lawfully if:
+The data subject may request the FDPIC to check whether any data relating to the data subject is being processed lawfully if:
 
-- a. the data subject’s right to information about the exchange of data about them is restricted or deferred (Art. 18*a* and 18*b* of the Federal Act of 19 June 1992[^349g-2] on Data Protection);
-- b. his or her right to information is denied, restricted or deferred (Art. 17 and 18 SADP[^349g-3]); or
-- c. his or her right to request the rectification, destruction or deletion of data relating to him or her is partially or completely denied (Art. 19 para. 2 let. a SADP).
+- a. the data subject’s right to information about the exchange of data about them is restricted or deferred (Art. 19 and 20 FADP[^349g-2]);
+- b. his or her right to information is denied, restricted or deferred (Art. 25 and 26 FADP); or
+- c. his or her right to request the rectification, destruction or deletion of data relating to him or her is partially or completely denied (Art. 41 para. 2 let. a FADP).[^349g-3]
 
-<sup>2</sup> Only a federal authority under the supervision of the Commissioner may be examined.
+<sup>2</sup> Only a federal authority under the supervision of the FDPIC may be examined.
 
-<sup>3</sup> The Commissioner shall complete the verification; he shall notify the data subject that either no data relating to him or her has been unlawfully processed, or that he has opened an investigation pursuant to Article 22 SADP in the case of errors in the processing of personal data.
+<sup>3</sup> The Commissioner shall complete the verification; he shall notify the data subject that either no data relating to him or her has been unlawfully processed, or that he has opened an investigation pursuant to Article 49 FADP in the case of errors in the processing of personal data.[^349g-4]
 
-<sup>4</sup> If the Commissioner finds errors in the processing of the data, he shall order the competent federal authority to correct them.
+<sup>4</sup> If the FDPIC finds errors in the processing of the data, he shall order the competent federal authority to correct them.
 
 <sup>5</sup> The notification referred to in paragraph 3 shall always be worded in the same way and is not substantiated. It may not be contested.
 
 [^349g-1]: Inserted by No II 2 of the FA of 28 Sept. 2018 on the implementation of Directive (EU) 2016/680 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, in force since 1 March 2019 ([AS 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^349g-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^349g-3]: [SR 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
+[^349g-3]: Amended by Annex 1 No II 26 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^349g-4]: Amended by Annex 1 No II 26 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### h. Investigation
+
+#### Art. 349h
+
+[^349h-1]
+
+<sup>1</sup> If a data subject credibly demonstrates that an exchange of personal data concerning him or her could violate the provisions on the protection of personal data, he or she may request the FDPIC to open an investigation pursuant to Article 49 FADP[^349h-2].[^349h-3]
+
+<sup>2</sup> An investigation may only be opened against a federal authority that is under the supervision of the FDPIC.
+
+<sup>3</sup> The parties are the data subject and the federal authority against which the investigation has been opened.
+
+<sup>4</sup> Articles 50 and 51 FADP also apply.[^349h-4]
+
+[^349h-1]: Inserted by No II 2 of the FA of 28 Sept. 2018 on the implementation of Directive (EU) 2016/680 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, in force since 1 March 2019 ([AS 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^349h-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^349h-3]: Amended by Annex 1 No II 26 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^349h-4]: Amended by Annex 1 No II 26 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 2. Cooperation with INTERPOL
 
@@ -6048,26 +6077,11 @@ The data subject may request the Commissioner to check whether any data relating
 
 [^book3-tit4-lvl4-lvla-1]: Amended by Annex 1 No II 8 of the Criminal Procedure Code of 5 Oct. 2007, in force since 1 Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
-#### Art. 349h
-
-[^349h-1]
-
-<sup>1</sup> If a data subject credibly demonstrates that an exchange of personal data concerning him or her could violate the provisions on the protection of personal data, he or she may request the Commissioner to open an investigation pursuant to Article 22 SADP[^349h-2].
-
-<sup>2</sup> An investigation may only be opened against a federal authority that is under the supervision of the Commissioner.
-
-<sup>3</sup> The parties are the data subject and the federal authority against which the investigation has been opened.
-
-<sup>4</sup> Articles 23 and 24 SADP also apply.
-
-**Art. 350**
+#### Art. 350
 
 <sup>1</sup> The Federal Office of Police carries out the duties of a National Central Bureau in terms of the Constitution and General Regulations of the International Criminal Police Organization (INTERPOL).
 
 <sup>2</sup> It is responsible for coordinating the exchange of information between the federal and cantonal prosecution services on the one hand and the National Central Bureaus of other states and the General Secretariat of INTERPOL on the other.
-
-[^349h-1]: Inserted by No II 2 of the FA of 28 Sept. 2018 on the implementation of Directive (EU) 2016/680 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, in force since 1 March 2019 ([AS 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^349h-2]: [SR 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
 
 ### b. Tasks
 
@@ -6095,12 +6109,13 @@ The data subject may request the Commissioner to check whether any data relating
 
 <sup>1</sup> The exchange of police information is governed by the principles of the Mutual Assistance Act of 20 March 1981[^352-1] as well as the Constitution and General Regulations of INTERPOL declared to be applicable by the Federal Council.
 
-<sup>2</sup> The Federal Act of 19 June 1992[^352-2] on Data Protection applies to the exchange of information in connection with searches for missing persons and the identification of unknown persons and for administrative purposes.
+<sup>2</sup> The FADP[^352-2] applies to the exchange of information in connection with searches for missing persons and the identification of unknown persons and for administrative purposes.[^352-3]
 
 <sup>3</sup> The Federal Office may provide information directly to the Central Bureaus of other states provided the recipient state is subject to the INTERPOL data protection regulations.
 
 [^352-1]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
 [^352-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^352-3]: Amended by Annex 1 No II 26 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### d. Financial aid and other payments
 
@@ -6179,7 +6194,7 @@ The data may be used:
 
 [^355a-1]
 
-<sup>1</sup> fedpol and the Federal Intelligence Service (FIS) may pass on personal data, including sensitive personal data and personality profiles to the European Police Office (Europol).[^355a-2]
+<sup>1</sup> fedpol and the Federal Intelligence Service (FIS) may pass on personal data, including sensitive personal data to the European Police Office (Europol).[^355a-2]
 
 <sup>2</sup> The passing on of such data is subject in particular to the requirements of Articles 3 and 10–13 of the Agreement of 24 September 2004[^355a-3] between the Swiss Confederation and the European Police Office.
 
@@ -6188,7 +6203,7 @@ The data may be used:
 <sup>4</sup> The exchange of personal data with Europol is regarded as equivalent to an exchange with a competent authority of a Schengen State (Art. 349*b*).[^355a-4]
 
 [^355a-1]: Inserted by Art. 2 of the FedD of 7 Oct. 2005 on the Approval and Implementation of the Agreement between Switzerland and Europol, in force since 1 April 2006 ([AS 2006 1017](https://fedlex.data.admin.ch/eli/oc/2006/180)1018; [BBl 2005 983](https://fedlex.data.admin.ch/eli/fga/2005/131)).
-[^355a-2]: Amended by Annex 1 No 4 of the FedD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 22 Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^355a-2]: Amended by Annex 2 No 1 of the FedD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 1 Sept. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 [^355a-3]: SR **0.360.268.2**
 [^355a-4]: Inserted by No II 2 of the FA of 28 Sept. 2018 on the implementation of Directive (EU) 2016/680 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, in force since 1 March 2019 ([AS 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 

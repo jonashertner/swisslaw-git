@@ -4,18 +4,18 @@ title: Codice penale svizzero del 21 dicembre 1937
 short: CP
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: it
-version: 2023-08-01
+version: 2023-09-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20230801/it/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20230801-it-xml-14.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20230901/it/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20230901-it-xml-36.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Codice penale svizzero
 
-del 21 dicembre 1937 (Stato 1° agosto 2023)
+del 21 dicembre 1937 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -457,9 +457,9 @@ Quando l’avente diritto presenta querela contro uno dei compartecipi al reato,
 <sup>4</sup> Il numero e l’importo delle aliquote giornaliere sono fissati nella sentenza.
 
 [^34-1]: Nuovo testo giusta il n. I 1 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^34-2]: Nuovo testo giusta il n. I 1 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^34-3]: Nuovo testo del primo e del secondo per. giusta l’all. n. 5 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^34-4]: Per. introdotto dall’all. n. 5 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^34-2]: Nuovo testo del primo e del secondo per. giusta l’all. n. 5 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^34-3]: Nuovo testo del per. giusta l’all. n. 5 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^34-4]: Introdotto dall’all. n. 5 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Esazione
 
@@ -3218,9 +3218,19 @@ Chiunque utilizza abusivamente un impianto di telecomunicazione per inquietare o
 
 [^179novies-1]
 
-Chiunque sottrae da una collezione dati personali degni di particolare protezione o profili della personalità non liberamente accessibili è punito, a querela di parte, con una pena detentiva sino a tre anni o con una pena pecuniaria.
+Chiunque sottrae dati personali degni di particolare protezione che non sono accessibili a chiunque è punito, a querela di parte, con una pena detentiva sino a tre anni o con una pena pecuniaria.
 
-[^179novies-1]: Introdotto dall’all. n. 4 della LF del 19 giu. 1993 sulla protezione dei dati, in vigore dal 1° lug. 1993 ([RU 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [FF 1988 II 353](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)).
+[^179novies-1]: Introdotto dall’all. n. 4 della LF del 19 giu. 1993 sulla protezione dei dati ([RU 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [FF 1988 II 353](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)). Nuovo testo giusta l’all. 1 n. II 26 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+
+### Usurpazione d’identità
+
+#### Art. 179<sup>decies</sup>
+
+[^179decies-1]
+
+Chiunque utilizza l’identità di un’altra persona senza il suo consenso con l’intento di nuocerle oppure di procurare a sé stesso o a un terzo un vantaggio illecito è punito, a querela di parte, con una pena detentiva sino a un anno o con una pena pecuniaria.
+
+[^179decies-1]: Introdotto dall’all. 1 n. II 26 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Titolo quarto: Del crimini o dei delitti contro la libertà personale
 
@@ -5858,13 +5868,14 @@ Se in una disposizione di diritto penale è fatto riferimento a norme modificate
 
 [^349a-1]
 
-Le autorità federali competenti hanno il diritto di comunicare dati personali soltanto se esiste una base legale ai sensi dell’articolo 7 della legge del 28 settembre 2018[^349a-2] sulla protezione dei dati in ambito Schengen (LPDS) oppure se:
+Le autorità federali competenti hanno il diritto di comunicare dati personali soltanto se esiste una base legale ai sensi dell’articolo 36 capoverso 1 della legge federale del 25 settembre 2020[^349a-2] sulla protezione dei dati (LPD) oppure se:[^349a-3]
 
 - a. la comunicazione dei dati personali è necessaria per proteggere la vita o l’integrità fisica dell’interessato o di un terzo;
 - b. l’interessato ha reso i suoi dati personali accessibili a chiunque e non si è opposto espressamente alla comunicazione.
 
 [^349a-1]: Introdotto dal n. II 2 della LF del 28 set. 2018 che attua la direttiva (UE) 2016/680 relativa alla protezione delle persone fisiche con riguardo al trattamento dei dati personali a fini di prevenzione, indagine, accertamento e perseguimento di reati o esecuzione di sanzioni penali, in vigore dal 1° mar. 2019 ([RU 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^349a-2]: [RS 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
+[^349a-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^349a-3]: Nuovo testo giusta l’all. 1 n. II 26 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### b. Parità di trattamento
 
@@ -5894,7 +5905,7 @@ Una protezione adeguata è garantita:
 - b. da un trattato internazionale;
 - c. da garanzie specifiche.
 
-<sup>3</sup> Se è un’autorità federale, l’autorità che comunica i dati informa l’Incaricato federale della protezione dei dati e della trasparenza (Incaricato) sulle categorie delle comunicazioni di dati personali effettuate sulla base di garanzie specifiche secondo il capoverso 2 lettera c. Ogni comunicazione è documentata.
+<sup>3</sup> Se è un’autorità federale, l’autorità che comunica i dati informa l’Incaricato federale della protezione dei dati e della trasparenza (IFPDT) sulle categorie delle comunicazioni di dati personali effettuate sulla base di garanzie specifiche secondo il capoverso 2 lettera c. Ogni comunicazione è documentata.[^349c-2]
 
 <sup>4</sup>
 
@@ -5905,9 +5916,11 @@ In deroga al capoverso 1, possono essere comunicati dati personali all’autorit
 - c. prevenire, accertare o perseguire un reato, a condizione che nessun interesse degno di protezione e preponderante dell’interessato si opponga alla comunicazione;
 - d. esercitare o far valere un diritto davanti a un’autorità competente per prevenire, accertare o perseguire un reato, a condizione che nessun interesse degno di protezione e preponderante dell’interessato si opponga alla comunicazione.
 
-<sup>5</sup> Se è un’autorità federale, l’autorità che comunica i dati informa l’Incaricato sulla comunicazione di dati personali effettuata in virtù del capoverso 4.
+<sup>5</sup> Se è un’autorità federale, l’autorità che comunica i dati informa l’IFPDT[^349c-3] sulla comunicazione di dati personali effettuata in virtù del capoverso 4.
 
 [^349c-1]: Introdotto dal n. II 2 della LF del 28 set. 2018 che attua la direttiva (UE) 2016/680 relativa alla protezione delle persone fisiche con riguardo al trattamento dei dati personali a fini di prevenzione, indagine, accertamento e perseguimento di reati o esecuzione di sanzioni penali, in vigore dal 1° mar. 2019 ([RU 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^349c-2]: Nuovo testo giusta l’all. 1 n. II 26 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^349c-3]: Nuova espr. giusta l’all. 1 n. II 26 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 ### d. Comunicazione a uno Stato terzo o a un organo internazionale di dati personali provenienti da uno Stato Schengen
 
@@ -5951,7 +5964,7 @@ Se i dati personali non possono essere comunicati all’autorità competente di 
 
 <sup>3</sup> L’autorità competente informa senza indugio l’autorità competente dello Stato terzo in merito a qualsiasi comunicazione di dati personali, sempre che lo consideri appropriato.
 
-<sup>4</sup> Se è un’autorità federale, l’autorità competente informa l’Incaricato senza indugio sulle comunicazioni di dati personali effettuate in virtù del capoverso 1.
+<sup>4</sup> Se è un’autorità federale, l’autorità competente informa l’IFPDT senza indugio sulle comunicazioni di dati personali effettuate in virtù del capoverso 1.
 
 <sup>5</sup> L’autorità competente documenta le comunicazioni di dati personali. Il Consiglio federale disciplina le modalità.
 
@@ -5988,23 +6001,25 @@ Comunica inoltre al destinatario qualsiasi informazione che permette di distingu
 
 <sup>1</sup>
 
-L’interessato può chiedere all’Incaricato di verificare se gli eventuali dati che lo concernono sono trattati in modo lecito qualora:
+L’interessato può chiedere all’IFPDT di verificare se gli eventuali dati che lo concernono sono trattati in modo lecito qualora:
 
 - a. il suo diritto di essere informato su uno scambio di dati che lo concernono sia limitato o differito (art. 18*a* e 18*b* della legge federale del 19 giugno 1992[^349g-2] sulla protezione dei dati);
 - b. il suo diritto d’accesso sia negato, limitato o differito (art. 17 e 18 LPDS[^349g-3]); o
-- c. il suo diritto di esigere la rettifica, la distruzione o la cancellazione dei dati che lo concernono sia parzialmente o totalmente negato (art. 19 cpv. 2 lett. a LPDS).
+- c. il suo diritto di esigere la rettifica, la distruzione o la cancellazione dei dati che lo concernono sia parzialmente o totalmente negato (art. 41 cpv. 2 lett. a LPD).[^349g-4]
 
-<sup>2</sup> Una verifica può essere effettuata unicamente nei confronti di un’autorità federale soggetta alla sorveglianza dell’Incaricato.
+<sup>2</sup> Una verifica può essere effettuata unicamente nei confronti di un’autorità federale soggetta alla sorveglianza dell’IFPDT.
 
-<sup>3</sup> L’Incaricato effettua la verifica; comunica all’interessato che nessun dato che lo concerne è trattato in modo illecito oppure, se ha riscontrato errori nel trattamento dei dati personali, che ha aperto un’inchiesta conformemente all’articolo 22 LPDS.
+<sup>3</sup> L’IFPDT effettua la verifica; comunica all’interessato che nessun dato che lo concerne è trattato in modo illecito oppure, se ha riscontrato errori nel trattamento dei dati personali, che ha aperto un’inchiesta conformemente all’articolo 49 LPD.[^349g-5]
 
-<sup>4</sup> Se riscontra errori nel trattamento dei dati, l’Incaricato ordina all’autorità federale competente di porvi rimedio.
+<sup>4</sup> Se riscontra errori nel trattamento dei dati, l’IFPDT ordina all’autorità federale competente di porvi rimedio.
 
 <sup>5</sup> Le comunicazioni di cui al capoverso 3 hanno sempre lo stesso tenore e non vengono motivate. Non sono impugnabili.
 
 [^349g-1]: Introdotto dal n. II 2 della LF del 28 set. 2018 che attua la direttiva (UE) 2016/680 relativa alla protezione delle persone fisiche con riguardo al trattamento dei dati personali a fini di prevenzione, indagine, accertamento e perseguimento di reati o esecuzione di sanzioni penali, in vigore dal 1° mar. 2019 ([RU 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^349g-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^349g-3]: [RS 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
+[^349g-4]: Nuovo testo giusta l’all. 1 n. II 26 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^349g-5]: Nuovo testo giusta l’all. 1 n. II 26 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### h. Inchiesta
 
@@ -6012,16 +6027,18 @@ L’interessato può chiedere all’Incaricato di verificare se gli eventuali da
 
 [^349h-1]
 
-<sup>1</sup> Chi rende verosimile che uno scambio di dati personali che lo concernono potrebbe violare le disposizioni sulla protezione dei dati personali può chiedere all’Incaricato di aprire un’inchiesta ai sensi dell’articolo 22 LPDS[^349h-2].
+<sup>1</sup> Chi rende verosimile che uno scambio di dati personali che lo concernono potrebbe violare le disposizioni sulla protezione dei dati personali può chiedere all’IFPDT di aprire un’inchiesta ai sensi dell’articolo 49 LPD[^349h-2].[^349h-3]
 
-<sup>2</sup> Un’inchiesta può essere aperta unicamente nei confronti di un’autorità federale soggetta alla sorveglianza dell’Incaricato.
+<sup>2</sup> Un’inchiesta può essere aperta unicamente nei confronti di un’autorità federale soggetta alla sorveglianza dell’IFPDT.
 
 <sup>3</sup> L’interessato e l’autorità federale nei confronti della quale è stata aperta un’inchiesta hanno qualità di parte.
 
-<sup>4</sup> Per il rimanente sono applicabili gli articoli 23 e 24 LPDS.
+<sup>4</sup> Per il rimanente sono applicabili gli articoli 50 e 51 LPD.[^349h-4]
 
 [^349h-1]: Introdotto dal n. II 2 della LF del 28 set. 2018 che attua la direttiva (UE) 2016/680 relativa alla protezione delle persone fisiche con riguardo al trattamento dei dati personali a fini di prevenzione, indagine, accertamento e perseguimento di reati o esecuzione di sanzioni penali, in vigore dal 1° mar. 2019 ([RU 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^349h-2]: [RS 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
+[^349h-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^349h-3]: Nuovo testo giusta l’all. 1 n. II 26 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^349h-4]: Nuovo testo giusta l’all. 1 n. II 26 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 2. Collaborazione con INTERPOL
 
@@ -6063,12 +6080,13 @@ L’interessato può chiedere all’Incaricato di verificare se gli eventuali da
 
 <sup>1</sup> Lo scambio di informazioni di polizia criminale è retto dai principi della legge federale del 20 marzo 1981[^352-1] sull’assistenza internazionale in materia penale nonché dagli statuti e regolamenti d’INTERPOL dichiarati applicabili dal Consiglio federale.
 
-<sup>2</sup> La legge federale del 19 giugno 1992[^352-2] sulla protezione dei dati regge lo scambio d’informazioni destinate alla ricerca di persone scomparse e all’identificazione di sconosciuti e per scopi amministrativi.
+<sup>2</sup> Lo scambio d’informazioni destinate alla ricerca di persone scomparse e all’identificazione di sconosciuti e per scopi amministrativi è retto dalla LPD[^352-2].[^352-3]
 
 <sup>3</sup> L’Ufficio federale di polizia può trasmettere informazioni direttamente agli uffici centrali nazionali di altri Stati, se lo Stato destinatario soggiace alle prescrizioni d’INTERPOL in materia di protezione dei dati.
 
 [^352-1]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
 [^352-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^352-3]: Nuovo testo giusta l’all. 1 n. II 26 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### d. Aiuti finanziari e indennità
 
