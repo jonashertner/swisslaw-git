@@ -4,11 +4,11 @@ title: "Legge federale del 20 giugno 1986 su la caccia e la protezione dei mammi
 short: LCP
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/506_506_506"
 language: it
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1986-06-20
 in_force: 1988-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/506_506_506/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1988-506_506_506-20230701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/506_506_506/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1988-506_506_506-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20230701/it"
 
 (Legge sulla caccia, LCP)
 
-del 20 giugno 1986 (Stato 1° luglio 2023)
+del 20 giugno 1986 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -218,7 +218,7 @@ Necessita di un’autorizzazione della Confederazione chi vuole:
 
 [^12-1]: Nuovo testo giusta l’all. n. II 11 della LF del 22 mar. 2002 concernente l’adeguamento di disposizioni organizzative del diritto federale, in vigore dal 1° feb. 2003 ([RU 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3431](https://fedlex.data.admin.ch/eli/fga/2001/686)).
 [^12-2]: Introdotto dall’all. n. II 11 della LF del 22 mar. 2002 concernente l’adeguamento di disposizioni organizzative del diritto federale, in vigore dal 1° feb. 2003 ([RU 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3431](https://fedlex.data.admin.ch/eli/fga/2001/686)).
-[^12-3]: Introdotto dall’all n. 9 della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^12-3]: Introdotto dall’all. n. 9 della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 [^12-4]: Per. introdotto dall’all. n. 2 della L del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 13
@@ -377,7 +377,7 @@ Chi ha un’autorizzazione di caccia ne può essere privato dal giudice per uno 
 [^21-5]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
 [^21-6]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
 [^21-7]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^21-8]: Nuovo testo giusta l’all. n. II 8 della L del 20 giu. 2014 sulle derrate alimentari, in vigore dal 1° mag. 2017 ([RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5017](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+[^21-8]: Nuovo testo giusta il n. II 8 dell’all. della L del 20 giu. 2014 sulle derrate alimentari, in vigore dal 1° mag. 2017 ([RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5017](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 
 #### Art. 22
 
@@ -387,9 +387,10 @@ Chi ha un’autorizzazione di caccia ne può essere privato dal giudice per uno 
 
 <sup>2</sup> L’Ufficio federale comunica ai Cantoni un elenco delle persone cui l’autorizzazione è stata ritirata; questo elenco permette ai Cantoni di assicurare il ritiro dell’autorizzazione sul loro territorio.
 
-<sup>3</sup> L’Ufficio federale può conservare tali dati in una collezione elettronica di dati. Una volta scaduto il termine per il ritiro dell’autorizzazione di caccia, cancella le registrazioni elettroniche e distrugge le relative decisioni cantonali. Può conservare queste ultime dopo averle rese anonime per scopi scientifici o statistici.
+<sup>3</sup> L’Ufficio federale può conservare tali dati personali. Una volta scaduto il termine per il ritiro dell’autorizzazione di caccia, li cancella e distrugge le relative decisioni cantonali.[^22-2] Può conservare queste ultime dopo averle rese anonime per scopi scientifici o statistici.
 
 [^22-1]: Nuovo testo giusta il n. VIII 1 della LF del 24 mar. 2000 concernente l’istituzione e l’adeguamento di basi legali per il trattamento di dati personali, in vigore dal 1° set. 2000 ([RU 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 7979](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
+[^22-2]: Nuovo testo del primo e secondo per. giusta il 1 n. dell’all. II 87 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 23
 
@@ -430,7 +431,7 @@ Il Consiglio federale emana le disposizioni esecutive.
 
 [^25a-1]
 
-[^25a-1]: Introdotto dall’all. n. 10 della LF del 21 mar. 2003 sull’ingegneria genetica ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)). Abrogato dall’all. n. 128 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^25a-1]: Introdotto dall’all. n. 10 della LF del 21 mar. 2003 sull’ingegneria genetica ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)). Abrogato dal n. 128 dell’all. della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 26
 
@@ -470,6 +471,6 @@ I Cantoni disciplinano il diritto di perquisire i locali e gli impianti e di seq
 
 <sup>2</sup> Il Consiglio federale ne determina l’entrata in vigore.
 
-Data dell’entrata in vigore 1° aprile 1988[^29-1]
+Data dell’entrata in vigore:[^29-1] 1° aprile 1988
 
 [^29-1]: DCF del 29 feb. 1988.

@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 juin 1986 sur la chasse et la protection des mammif
 short: LChP
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/506_506_506"
 language: fr
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1986-06-20
 in_force: 1988-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/506_506_506/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1988-506_506_506-20230701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/506_506_506/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1988-506_506_506-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20230701/fr"
 
 (Loi sur la chasse, LChP)
 
-du 20 juin 1986 (État le 1<sup>er</sup> juillet 2023)
+du 20 juin 1986 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -403,9 +403,10 @@ Le retrait de l’autorisation de chasser peut être prononcé par le juge, pour
 
 <sup>2</sup> L’Office fédéral communique aux cantons la liste des personnes auxquelles l’autorisation a été retirée pour qu’ils puissent assurer le retrait de l’autorisation sur leur territoire.
 
-<sup>3</sup> Il peut conserver ces données dans un fichier électronique. À l’échéance du retrait de l’autorisation, il efface les inscriptions électroniques et détruit les décisions cantonales correspondantes. Il peut conserver celles-ci sous une forme anonyme à des fins scientifiques ou statistiques.
+<sup>3</sup> Il peut conserver ces données personnelles. À l’échéance du retrait de l’autorisation, il les efface et détruit les décisions cantonales correspondantes.[^22-2] Il peut conserver celles-ci sous une forme anonyme à des fins scientifiques ou statistiques.
 
 [^22-1]: Nouvelle teneur selon le ch.VIII 1 de la LF du 24 mars 2000 sur la création et l’adaptation de bases légales concernant le traitement de données personnelles, en vigueur depuis le 1<sup>er</sup> sept. 2000 ([RO 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 8381](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979))
+[^22-2]: Nouvelle teneur des phrases selon l’annexe 1 ch. II 87 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 23
 

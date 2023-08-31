@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 20. Juni 1986 über die Jagd und den Schutz wildlebende
 short: JSG
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/506_506_506"
 language: de
-version: 2023-07-01
+version: 2023-09-01
 adopted: 1986-06-20
 in_force: 1988-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/506_506_506/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1988-506_506_506-20230701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/506_506_506/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1988-506_506_506-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20230701/de"
 
 (Jagdgesetz, JSG)
 
-vom 20. Juni 1986 (Stand am 1. Juli 2023)
+vom 20. Juni 1986 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -388,10 +388,11 @@ Die Jagdberechtigung kann vom Gericht für mindestens ein Jahr und höchstens ze
 
 <sup>2</sup> Das Bundesamt stellt den Kantonen eine Liste der Personen zu, denen die Jagdberechtigung entzogen wurde; diese Liste dient den Kantonen dazu, den Entzug der Jagdberechtigung auf ihrem Gebiet zu gewährleisten.
 
-<sup>3</sup> Das Bundesamt darf diese Daten in einer elektronischen Datensammlung aufbewahren. Nach Ablauf des Entzugs der Jagdberechtigung löscht es die elektronischen Einträge und vernichtet die entsprechenden kantonalen Verfügungen. Es darf letztere in anonymisierter Form zu wissenschaftlichen oder statistischen Zwecken aufbewahren.
+<sup>3</sup> Das Bundesamt darf diese Personendaten aufbewahren. Nach Ablauf des Entzugs der Jagdberechtigung löscht es sie und vernichtet die entsprechenden kantonalen Verfügungen.[^22-3] Es darf letztere in anonymisierter Form zu wissenschaftlichen oder statistischen Zwecken aufbewahren.
 
 [^22-1]: Fassung gemäss Ziff. VIII 1 des BG vom 24. März 2000 über die Schaffung und die An-passung gesetzlicher Grundlagen für die Bearbeitung von Personendaten, in Kraft seit 1. Sept. 2000 ([AS 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [BBl 1999 9005](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
 [^22-2]: Fassung gemäss Ziff. I 12 des BG vom 17. Dez. 2021 über die Anpassung des Nebenstrafrechts an das geänderte Sanktionenrecht, in Kraft seit 1. Juli 2023 ([AS 2023 254](https://fedlex.data.admin.ch/eli/oc/2023/254); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^22-3]: Fassung des ersten und zweiten Satzes gemäss Anhang 1 Ziff. II 87 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 23
 
