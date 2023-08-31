@@ -3,11 +3,11 @@ sr: "363.1"
 title: "Ordinanza del 3 dicembre 2004 sull'utilizzo di profili del DNA nel procedimento penale e per l'identificazione di persone sconosciute o scomparse (Ordinanza sui profili del DNA)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/812"
 language: it
-version: 2023-08-01
+version: 2023-09-01
 adopted: 2004-12-03
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/812/20230801/it/xml/fedlex-data-admin-ch-eli-cc-2004-812-20230801-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20230801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/812/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2004-812-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20230801/it"
 
 (Ordinanza sui profili del DNA)
 
-del 3 dicembre 2004 (Stato 1° agosto 2023)
+del 3 dicembre 2004 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -211,12 +211,12 @@ L’autorità che ordina la misura informa fedpol entro sei mesi dal momento del
 
 **Principio**[^8-1]
 
-<sup>1</sup> Fedpol è detentore del sistema d’informazione ai sensi della legge federale del 19 giugno 1992[^8-2] sulla protezione dei dati ed è responsabile della sua intera gestione.
+<sup>1</sup> Fedpol è l’organo federale titolare del sistema d’informazione.[^8-2]
 
 <sup>2</sup> Emana un regolamento per il trattamento.
 
 [^8-1]: Nuovo testo giusta il n. I dell’O del 22 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3467](https://fedlex.data.admin.ch/eli/oc/2014/604)).
-[^8-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^8-2]: Nuovo testo giusta l’all. 2 n. II 47 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 9
 
@@ -313,7 +313,7 @@ Nei casi straordinari al di fuori degli orari di servizio regolari, l’Ufficio 
 
 <sup>6</sup> Nel corso dell’intera procedura, la pratica deve contenere le seguenti indicazioni: numero di controllo del profilo, cognome, nome e data di nascita della persona in questione.
 
-[^10-1]: Nuova espressione giusta il n. I dell’O del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^10-1]: Nuova espr. giusta il n. I dell’O del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)). Di detta mod. é tenuto conto in tutto il presente testo.
 [^10-2]: Nuovo testo giusta il n. I 14 dell’O del 15 ott. 2008 sugli adeguamenti alla LF sui sistemi d’informazione di polizia della Confederazione, in vigore dal 5 dic. 2008 ([RU 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
 [^10-3]: Nuovo testo giusta il n. I dell’O del 22 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3467](https://fedlex.data.admin.ch/eli/oc/2014/604)).
 [^10-4]: Nuovo testo giusta il n. I dell’O del 22 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3467](https://fedlex.data.admin.ch/eli/oc/2014/604)).
@@ -411,16 +411,18 @@ Quando fedpol riceve il profilo del DNA di una persona nell’ambito della coope
 
 **Protezione dei dati e segreto d’ufficio[^17-1]**
 
-<sup>1</sup> Il trattamento dei dati in base alla presente ordinanza è retto dalle disposizioni della legge federale del 19 giugno 1992[^17-2] sulla protezione dei dati.
+<sup>1</sup> Il trattamento dei dati in base alla presente ordinanza è retto dalle disposizioni della legge federale del 25 settembre 2020[^17-2] sulla protezione dei dati (LPD).[^17-3]
 
 <sup>2</sup> Chiunque tratta dati nel sistema d’informazione si accerta della loro esattezza.
 
-<sup>3</sup> I collaboratori dei laboratori sono tenuti al segreto conformemente all’articolo 35 della legge federale del 19 giugno 1992 sulla protezione dei dati. Se occupano una funzione ufficiale, sono inoltre soggetti al segreto d’ufficio ai sensi dell’articolo 320 del Codice penale[^17-3].[^17-4]
+<sup>3</sup> Alla violazione dell’obbligo professionale al segreto dei collaboratori dei laboratori si applica l’articolo 62 LPD.[^17-4] Se occupano una funzione ufficiale, sono inoltre soggetti al segreto d’ufficio ai sensi dell’articolo 320 del Codice penale[^17-5].[^17-6]
 
 [^17-1]: Nuovo testo giusta il n. I dell’O del 22 giu. 2005, in vigore dal 1° ago. 2005 ([RU 2005 3337](https://fedlex.data.admin.ch/eli/oc/2005/485)).
 [^17-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^17-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^17-4]: Nuovo testo giusta il n. I dell’O del 22 giu. 2005, in vigore dal 1° ago. 2005 ([RU 2005 3337](https://fedlex.data.admin.ch/eli/oc/2005/485)).
+[^17-3]: Nuovo testo giusta l’all. 2 n. II 47 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^17-4]: Nuovo testo giusta l’all. 2 n. II 47 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^17-5]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^17-6]: Nuovo testo giusta il n. I dell’O del 22 giu. 2005, in vigore dal 1° ago. 2005 ([RU 2005 3337](https://fedlex.data.admin.ch/eli/oc/2005/485)).
 
 #### Art. 18
 
@@ -455,16 +457,17 @@ Con l’istituzione responsabile concorda per iscritto:
 
 La sicurezza dei dati è disciplinata:
 
-- a. dagli articoli 20–23 dell’ordinanza del 14 giugno 1993[^19-1] relativa alla legge federale sulla protezione dei dati;
-- b. dall’ordinanza del 27 maggio 2020[^19-2] sui ciber-rischi.[^19-3]
+- a.[^19-1] dagli articoli 1–4 e 6 dell’ordinanza del 31 agosto 2022[^19-2] sulla protezione dei dati;
+- b. dall’ordinanza del 27 maggio 2020[^19-3] sui ciber-rischi.[^19-4]
 
 <sup>2</sup> I Cantoni garantiscono la sicurezza dei dati nel loro settore conformemente alle disposizioni di cui al capoverso 1. Sono fatte salve disposizioni cantonali più restrittive in materia di protezione dei dati.
 
 <sup>3</sup> Nel settore di loro competenza, fedpol e l’Ufficio di coordinamento adottano i provvedimenti organizzativi e tecnici atti a garantire la sicurezza dei dati personali.
 
-[^19-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^19-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^19-3]: Nuovo testo giusta l’all. n. 23 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^19-1]: Nuovo testo giusta l’all. 2 n. II 47 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^19-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^19-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^19-4]: Nuovo testo giusta l’all. n. 23 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## Sezione 5: Disposizioni finali
 

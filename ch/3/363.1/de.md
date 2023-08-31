@@ -3,11 +3,11 @@ sr: "363.1"
 title: Verordnung vom 3. Dezember 2004 über die Verwendung von DNA-Profilen im Strafverfahren und zur Identifizierung von unbekannten oder vermissten Personen (DNA-Profil-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/812"
 language: de
-version: 2023-08-01
+version: 2023-09-01
 adopted: 2004-12-03
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/812/20230801/de/xml/fedlex-data-admin-ch-eli-cc-2004-812-20230801-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20230801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/812/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2004-812-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20230801/de"
 
 (DNA-Profil-Verordnung)
 
-vom 3. Dezember 2004 (Stand am 1. August 2023)
+vom 3. Dezember 2004 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -211,12 +211,12 @@ Die anordnende Behörde informiert fedpol innerhalb von sechs Monaten ab dem Zei
 
 **Grundsatz**[^8-1]
 
-<sup>1</sup> Fedpol ist Inhaber des Informationssystems im Sinne des Bundesgesetzes vom 19. Juni 1992[^8-2] über den Datenschutz und für dessen Gesamtbetrieb verantwortlich.
+<sup>1</sup> Fedpol ist das für das Informationssystem verantwortliche Bundesorgan.[^8-2]
 
 <sup>2</sup> Es erlässt ein Bearbeitungsreglement.
 
 [^8-1]: Fassung gemäss Ziff. I der V vom 22. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3467](https://fedlex.data.admin.ch/eli/oc/2014/604)).
-[^8-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^8-2]: Fassung gemäss Anhang 2 Ziff. II 47 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 9
 
@@ -411,16 +411,18 @@ Erhält fedpol das DNA-Profil einer Person bei der internationalen Zusammenarbei
 
 **Datenschutz und Geheimhaltung der Informationen[^17-1]**
 
-<sup>1</sup> Die Datenbearbeitung im Rahmen dieser Verordnung richtet sich nach dem Bundesgesetz vom 19. Juni 1992[^17-2] über den Datenschutz.
+<sup>1</sup> Die Datenbearbeitung im Rahmen dieser Verordnung richtet sich nach dem Datenschutzgesetz vom 25. September 2020[^17-2] (DSG).[^17-3]
 
 <sup>2</sup> Jede Person, die im Informationssystem Daten bearbeitet, vergewissert sich über deren Richtigkeit.
 
-<sup>3</sup> Die Mitarbeiterinnen und Mitarbeiter der Labors sind zur Verschwiegenheit nach Artikel 35 des Bundesgesetzes vom 19. Juni 1992 über den Datenschutz verpflichtet. Sind sie in amtlicher Funktion tätig, so unterstehen sie zusätzlich dem Amtsgeheimnis nach Artikel 320 des Strafgesetzbuches[^17-3].[^17-4]
+<sup>3</sup> Bei einer Verletzung der beruflichen Schweigepflicht der Mitarbeiterinnen und Mitarbeiter der Labors findet Artikel 62 DSG Anwendung.[^17-4] Sind sie in amtlicher Funktion tätig, so unterstehen sie zusätzlich dem Amtsgeheimnis nach Artikel 320 des Strafgesetzbuches[^17-5].[^17-6]
 
 [^17-1]: Fassung gemäss Ziff. I der V vom 22. Juni 2005, in Kraft seit 1. Aug. 2005 ([AS 2005 3337](https://fedlex.data.admin.ch/eli/oc/2005/485)).
 [^17-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^17-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^17-4]: Fassung gemäss Ziff. I der V vom 22. Juni 2005, in Kraft seit 1. Aug. 2005 ([AS 2005 3337](https://fedlex.data.admin.ch/eli/oc/2005/485)).
+[^17-3]: Fassung gemäss Anhang 2 Ziff. II 47 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^17-4]: Fassung gemäss Anhang 2 Ziff. II 47 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^17-5]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^17-6]: Fassung gemäss Ziff. I der V vom 22. Juni 2005, in Kraft seit 1. Aug. 2005 ([AS 2005 3337](https://fedlex.data.admin.ch/eli/oc/2005/485)).
 
 #### Art. 18
 
@@ -455,16 +457,17 @@ Es vereinbart mit der verantwortlichen Institution schriftlich:
 
 Die Datensicherheit richtet sich nach:
 
-- a. den Artikeln 20–23 der Verordnung vom 14. Juni 1993[^19-1] zum Bundesgesetz über den Datenschutz;
-- b. der Cyberrisikenverordnung vom 27. Mai 2020[^19-2].[^19-3]
+- a.[^19-1] den Artikeln 1–4 und 6 der Datenschutzverordnung vom 31. August 2022[^19-2];
+- b. der Cyberrisikenverordnung vom 27. Mai 2020[^19-3].[^19-4]
 
 <sup>2</sup> Die Kantone gewährleisten die Datensicherheit in ihrem Bereich gemäss den Vorgaben nach Absatz 1. Weitergehende kantonale Bestimmungen zur Datensicherheit bleiben vorbehalten.
 
 <sup>3</sup> Fedpol und die Koordinationsstelle treffen in ihrem Bereich die erforderlichen organisatorischen und technischen Massnahmen zur Sicherung der Personendaten.
 
-[^19-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^19-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^19-3]: Fassung gemäss Anhang Ziff. 23 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^19-1]: Fassung gemäss Anhang 2 Ziff. II 47 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^19-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^19-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^19-4]: Fassung gemäss Anhang Ziff. 23 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## 5. Abschnitt: Schlussbestimmungen
 

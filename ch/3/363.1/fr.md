@@ -3,11 +3,11 @@ sr: "363.1"
 title: "Ordonnance du 3 décembre 2004 sur l'utilisation de profils d'ADN dans les procédures pénales et sur l'identification de personnes inconnues ou disparues (Ordonnance sur les profils d'ADN)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/812"
 language: fr
-version: 2023-08-01
+version: 2023-09-01
 adopted: 2004-12-03
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/812/20230801/fr/xml/fedlex-data-admin-ch-eli-cc-2004-812-20230801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20230801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/812/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2004-812-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20230801/fr"
 
 (Ordonnance sur les profils d’ADN)
 
-du 3 décembre 2004 (État le 1<sup>er</sup> août 2023)
+du 3 décembre 2004 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -211,12 +211,12 @@ L’autorité qui ordonne la mesure informe fedpol dans les six mois à compter 
 
 **Principe**[^8-1]
 
-<sup>1</sup> Fedpol est le maître du système d’information au sens de la loi fédérale du 19 juin 1992 sur la protection des données[^8-2] et est responsable de son exploitation globale.
+<sup>1</sup> Fedpol est l’organe fédéral responsable du système d’information.[^8-2]
 
 <sup>2</sup> Il édicte un règlement sur le traitement des données.
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3467](https://fedlex.data.admin.ch/eli/oc/2014/604)).
-[^8-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^8-2]: Nouvelle teneur selon l’annexe 2 ch. II 47 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 9
 
@@ -307,9 +307,9 @@ Dans les cas extraordinaires survenant en dehors des heures de service réguliè
 
 <sup>3</sup> Le laboratoire établit le profil et le transmet avec le numéro de contrôle de processus au Service de coordination exclusivement.[^10-3]
 
-<sup>4</sup> Le Service de coordination saisit le profil dans le système d’information, vérifie si une concordance s’établit avec les profils contenus dans le système d’information (comparaison des profils) et transmet le résultat à fedpol.[^10-4]
+<sup>4</sup> Le Service de coordination saisit le profil dans le système d’information, vérifie si une concordance s’établit avec les profils contenus dans le système d’information (comparaison des profils) et transmet le résultat aux Services AFIS ADN.[^10-4]
 
-<sup>5</sup> Fedpol relie, à l’aide du numéro de contrôle de processus, les concordances de profils d’ADN ou de traces biologiques communiquées par le Service de coordination avec les données relatives à des personnes ou à des traces biologiques et les données relatives aux lieux de l’infraction déjà contenues dans IPAS. Il met le résultat de la comparaison à la disposition de l’autorité requérante et des autres autorités concernées.
+<sup>5</sup> Fedpol relie, à l’aide du numéro de contrôle de processus, les concordances de profils d’ADN ou de traces biologiques communiquées par le Service de coordination avec les données relatives à des personnes ou à des traces biologiques et les données relatives aux lieux de l’infraction déjà contenues dans IPAS. Ils mettent le résultat de la comparaison à la disposition de l’autorité requérante et des autres autorités concernées.
 
 <sup>6</sup> Le dossier concernant le cas doit contenir les informations suivantes durant toute la procédure: numéro de contrôle de processus du profil, nom, prénom et date de naissance de la personne concernée.
 
@@ -411,16 +411,18 @@ Si fedpol, dans le cadre de la coopération internationale, reçoit le profil d�
 
 **Protection des données et confidentialité des informations[^17-1]**
 
-<sup>1</sup> Le traitement de données relevant de la présente ordonnance est régi par la loi fédérale du 19 juin 1992 sur la protection des données[^17-2].
+<sup>1</sup> Le traitement de données relevant de la présente ordonnance est régi par la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^17-2].[^17-3]
 
 <sup>2</sup> Toutes les personnes qui traitent des données dans le système d’information doivent s’assurer qu’elles sont correctes.
 
-<sup>3</sup> Les collaborateurs des laboratoires sont tenus de garder le secret en vertu de l’art. 35 de la loi fédérale du 19 juin 1992 sur la protection des données. S’ils occupent une fonction officielle, ils sont en outre soumis au secret de fonction au sens de l’art. 320 du code pénal[^17-3].[^17-4]
+<sup>3</sup> En cas de violation du devoir de discrétion par les collaborateurs des laboratoires, l’art. 62 LPD s’applique.[^17-4] S’ils occupent une fonction officielle, ils sont en outre soumis au secret de fonction au sens de l’art. 320 du code pénal[^17-5].[^17-6]
 
 [^17-1]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2005, en vigueur depuis le 1<sup>er</sup> août 2005 ([RO 2005 3337](https://fedlex.data.admin.ch/eli/oc/2005/485)).
 [^17-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^17-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^17-4]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2005, en vigueur depuis le 1<sup>er</sup> août 2005 ([RO 2005 3337](https://fedlex.data.admin.ch/eli/oc/2005/485)).
+[^17-3]: Nouvelle teneur selon l’annexe 2 ch. II 47 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^17-4]: Nouvelle teneur selon l’annexe 2 ch. II 47 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^17-5]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^17-6]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2005, en vigueur depuis le 1<sup>er</sup> août 2005 ([RO 2005 3337](https://fedlex.data.admin.ch/eli/oc/2005/485)).
 
 #### Art. 18
 
@@ -455,16 +457,17 @@ Il convient par écrit avec l’institution compétente:
 
 La sécurité des données est régie par:
 
-- a. les art. 20 à 23 de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^19-1];
-- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^19-2].[^19-3]
+- a.[^19-1] les art. 1 à 4 et 6 de l’ordonnance du 31 août 2022 sur la protection des données[^19-2];
+- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^19-3].[^19-4]
 
 <sup>2</sup> Les cantons garantissent la sécurité des données dans leur domaine conformément aux règles visées à l’al. 1. Les dispositions cantonales plus strictes relatives à la sécurité des données sont réservées.
 
 <sup>3</sup> Fedpol et le Service de coordination prennent, dans leurs domaines d’activité respectifs, les mesures organisationnelles et techniques nécessaires pour assurer la sécurité des données personnelles.
 
-[^19-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^19-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^19-3]: Nouvelle teneur selon l’annexe ch. 23 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^19-1]: Nouvelle teneur selon l’annexe 2 ch. II 47 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^19-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^19-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^19-4]: Nouvelle teneur selon l’annexe ch. 23 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## Section 5 Dispositions finales
 
@@ -490,7 +493,7 @@ Le DFJP et les cantons exécutent la présente ordonnance dans leurs domaines d�
 
 <sup>2</sup> Dans les cas motivés, le DFJP peut accorder une prolongation de délai.
 
-[^22-1]: [[RO 2000 1715](https://fedlex.data.admin.ch/eli/oc/2000/258); [2002 111](https://fedlex.data.admin.ch/eli/oc/2002/20)art. 19 ch. 1]
+[^22-1]: [[RO 2000 1715](https://fedlex.data.admin.ch/eli/oc/2000/258), [2002 111](https://fedlex.data.admin.ch/eli/oc/2002/20)art. 19 ch. 1]
 
 #### Art. 22a
 
