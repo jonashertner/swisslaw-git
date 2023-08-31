@@ -4,20 +4,22 @@ title: Loi fédérale du 6 octobre 1995 sur les entraves techniques au commerce 
 short: LETC
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725"
 language: fr
-version: 2017-05-01
+version: 2023-09-01
 adopted: 1995-10-06
 in_force: 1996-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725/20170501/fr/xml/fedlex-data-admin-ch-eli-cc-1996-1725_1725_1725-20170501-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/1725_1725_1725/20170501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1996-1725_1725_1725-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1725_1725_1725/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur les entraves techniques au commerce
+# Loi fédérale sur les entraves techniques au commerce\*
 
-(LETC)
+(LETC)[^t-1]
 
-du 6 octobre 1995 (État le 1<sup>er</sup> mai 2017)
+du 6 octobre 1995 (État le 1<sup>er</sup> septembre 2023)
+
+[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,10 +27,10 @@ vu la compétence de la Confédération en matière de politique extérieure, vu
 
 arrête:
 
-[^ingress-1]: [RS **1** 3]. Aux dispositions mentionnées correspondent actuellement les art. 54, 95 et 101 de la Cst du 18 avril 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^ingress-3]: [RS 0.632.401](https://fedlex.data.admin.ch/eli/cc/1972/3115_3169_2949)
-[^ingress-4]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)annexe 1A.6
+[^ingress-1]: [[RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)3]. Aux dispositions mentionnées correspondent actuellement les art. 54, 95 et 101 de la Cst du 18 avril 1999 ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
+[^ingress-2]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
+[^ingress-3]: [RS 0.632.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2413)
+[^ingress-4]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)annexe 1A.6
 [^ingress-5]: [FF 1995 II 489](https://fedlex.data.admin.ch/eli/fga/1995/2_521_489_393)
 [^ingress-6]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2001, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 883](https://fedlex.data.admin.ch/eli/oc/2002/155); [FF 2001 4729](https://fedlex.data.admin.ch/eli/fga/2001/845)).
 
@@ -116,13 +118,13 @@ Au sens de la présente loi, on entend par:
 
 #### Art. 4
 
-**Elaboration des prescriptions techniques en général**
+**Élaboration des prescriptions techniques en général**
 
 <sup>1</sup> Les prescriptions techniques sont formulées de manière à ne pas engendrer d’entraves techniques au commerce.
 
 <sup>2</sup>
 
-A cette fin, elles sont élaborées de manière à être compatibles avec celles des principaux partenaires commerciaux de la Suisse. Dans ce cadre, il est fait en sorte que les prescriptions techniques:
+À cette fin, elles sont élaborées de manière à être compatibles avec celles des principaux partenaires commerciaux de la Suisse. Dans ce cadre, il est fait en sorte que les prescriptions techniques:
 
 - a. soient si possible simples et transparentes; et
 - b. nécessitent des charges administratives et d’exécution aussi faibles que possible.
@@ -163,7 +165,7 @@ Les prescriptions techniques sur les exigences relatives aux produits sont élab
 
 #### Art. 4a
 
-**Elaboration des prescriptions techniques applicables à l’information sur le produit**[^4a-1]
+**Élaboration des prescriptions techniques applicables à l’information sur le produit**[^4a-1]
 
 <sup>1</sup>
 
@@ -186,11 +188,11 @@ La mention du siège ou du domicile d’une personne responsable peut être exig
 
 #### Art. 5
 
-**Elaboration des prescriptions techniques applicables aux aspects procéduraux de la mise sur le marché des produits[^5-1]**
+**Élaboration des prescriptions techniques applicables aux aspects procéduraux de la mise sur le marché des produits[^5-1]**
 
 <sup>1</sup>
 
-A moins que l’art. 4 n’y déroge impérativement:
+À moins que l’art. 4 n’y déroge impérativement:
 
 - a. en règle générale, plusieurs types de procédures d’évaluation de la conformité doivent être proposés; au moins l’un d’entre eux doit permettre à la personne qui fabrique ou met sur le marché le produit d’évaluer elle-même la conformité;
 - b. les essais et les évaluations de la conformité par des tiers, dans la mesure où ils constituent une condition de l’offre, de la mise sur le marché, de la mise en service, de l’utilisation ou de l’élimination de produits, doivent en règle générale relever du droit privé.
@@ -204,7 +206,7 @@ A moins que l’art. 4 n’y déroge impérativement:
 
 #### Art. 5a
 
-**Elaboration des prescriptions techniques applicables à l’installation, à la mise en service et à l’utilisation**[^5a-1]
+**Élaboration des prescriptions techniques applicables à l’installation, à la mise en service et à l’utilisation**[^5a-1]
 
 Les prescriptions techniques applicables à l’installation, à la mise en service, et à l’utilisation d’un produit ne doivent pas contenir d’exigences contraires à celles de sa mise sur le marché ni requérir d’en modifier la structure.
 
@@ -330,7 +332,7 @@ Dans le but d’empêcher la création d’entraves techniques au commerce, le C
 
 [^15-1]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2001, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 883](https://fedlex.data.admin.ch/eli/oc/2002/155); [FF 2001 4729](https://fedlex.data.admin.ch/eli/fga/2001/845)).
 
-### Section 7 Emoluments
+### Section 7 Émoluments
 
 #### Art. 16
 
@@ -426,8 +428,8 @@ L’information sur les produits mis sur le marché conformément au présent ch
 
 <sup>3</sup> L’information sur le produit et sa présentation ne doivent pas donner l’impression que le produit satisfait aux prescriptions techniques suisses.
 
-[^16e-1]: Nouvelle teneur selon le ch. II 10 de l’annexe à la L du 20 juin 2014 sur les denrées alimentaires, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5181](https://fedlex.data.admin.ch/eli/fga/2011/853)).
-[^16e-2]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^16e-1]: Nouvelle teneur selon le l’annexe ch. II 10 de la L du 20 juin 2014 sur les denrées alimentaires, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5181](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+[^16e-2]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
 
 ## Chapitre 4 Droits et devoirs des personnes concernées
 
@@ -473,7 +475,7 @@ Le rapport d’essai ou l’attestation de conformité établi par un organisme 
 
 <sup>3</sup> L’Office fédéral des affaires économiques extérieures[^18-1] peut, en accord avec l’office fédéral compétent, ordonner que les rapports d’essai ou les attestations de conformité n’ont pas valeur probante au sens de l’al. 2 lorsque des organismes suisses qualifiés, leurs rapports d’essai ou leurs attestations de conformité ne sont pas reconnus dans l’État de l’organisme étranger. Il prend en compte, dans sa décision, les intérêts économiques suisses, notamment en ce qui concerne le commerce extérieur.
 
-[^18-1]: Actuellement: Secrétariat d’État à l’économie (SECO), art. 5 de l’O du 14 juin 1999 sur l’organisation du Département fédéral de l’économie ([RS 172.216.1](https://fedlex.data.admin.ch/eli/cc/1999/344);voir [RO 2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 16).
+[^18-1]: Actuellement: Secrétariat d’Etat à l’économie (SECO), art. 5 de l’O du 14 juin 1999 sur l’organisation du Département fédéral de l’économie ([RS 172.216.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5327);voir [RO 2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 16).
 
 ### Section 2 Surveillance du marché
 
@@ -513,7 +515,7 @@ Les organes d’exécution peuvent notamment:
 
 <sup>8</sup> La loi fédérale du 20 décembre 1968 sur la procédure administrative[^19-1] est applicable.
 
-[^19-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^19-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 19a
 
@@ -532,7 +534,7 @@ Aux fins de la surveillance d’un produit mis sur le marché selon l’art. 16*
 - a. apporter la preuve que le produit satisfait aux prescriptions techniques visées à l’art. 16*a*, al. 1, let. a;
 - b. établir de manière crédible qu’il est légalement sur le marché de l’État membre de la CE ou de l’EEE concerné.
 
-<sup>2</sup> A des fins de surveillance du marché, la personne qui met un produit sur le marché selon l’art. 16*b* doit apporter la preuve prévue à l’al. 1, let. a.
+<sup>2</sup> À des fins de surveillance du marché, la personne qui met un produit sur le marché selon l’art. 16*b* doit apporter la preuve prévue à l’al. 1, let. a.
 
 <sup>3</sup> L’organe d’exécution compétent est habilité à prendre les mesures prévues à l’art. 19, al. 1 et 2. Il peut exiger que les prescriptions étrangères mentionnées ainsi que l’éventuelle déclaration ou attestation de conformité soient présentées dans une des langues officielles de la Suisse ou en anglais.
 
@@ -556,11 +558,11 @@ Aux fins de la surveillance d’un produit mis sur le marché selon l’art. 16*
 
 **Protection des données**
 
-<sup>1</sup> Les organes d’exécution sont habilités à traiter des données personnelles, y compris les informations concernant les poursuites et les sanctions administratives et pénales. Ils sont soumis aux dispositions relatives à la collecte de données personnelles selon l’art. 18 de la loi fédérale du 19 juin 1992 sur la protection des données[^20b-1].
+<sup>1</sup> Les organes d’exécution sont habilités à traiter des données personnelles, y compris les informations concernant les poursuites et les sanctions administratives et pénales.[^20b-1]
 
 <sup>2</sup> Les organes d’exécution peuvent conserver ces données sous forme électronique et les échanger lorsqu’une exécution uniforme de la présente loi l’exige.
 
-[^20b-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^20b-1]: Nouvelle teneur selon l’annexe 1 ch. II 93 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Section 3 Assistance administrative
 
@@ -611,7 +613,7 @@ Est puni d’une peine privative de liberté de trois ans au plus ou d’une pei
 - d. contrefait ou falsifie le rapport ou l’expertise d’une personne ou d’un organisme devant se prononcer sur des éléments déterminants pour l’offre, la mise sur le marché ou la mise en service de produits;
 - e. abuse de la signature ou de la marque d’une telle personne ou d’un tel organisme pour établir une fausse expertise ou un faux rapport.
 
-[^23-1]: Nouvelle teneur selon l’art. 333 du CP, dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^23-1]: Nouvelle teneur selon l'art. 333 du CP, dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
 
 #### Art. 24
 
@@ -623,7 +625,7 @@ Est puni d’une peine privative de liberté de trois ans au plus ou d’une pei
 - b. certifie, en tant qu’organisme d’essais, d’évaluation de la conformité ou d’homologation, un rapport inexact sur le respect des conditions de l’offre, de la mise sur le marché ou de la mise en service de produits;
 - c. établit un rapport au contenu inexact alors qu’il est chargé de se prononcer sur des éléments constituant une condition de l’accréditation, de l’attestation de conformité ou de l’homologation.
 
-[^24-1]: Nouvelle teneur selon l’art. 333 du CP, dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^24-1]: Nouvelle teneur selon l'art. 333 du CP, dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
 
 #### Art. 25
 
@@ -634,7 +636,7 @@ Est puni d’une peine privative de liberté de trois ans au plus ou d’une pei
 - a. en induisant en erreur l’organe d’un organisme d’accréditation, l’amène à constater faussement l’accréditation ou, en induisant en erreur une personne ou un organisme devant se prononcer sur les éléments constituant les conditions d’une accréditation, l’amène à établir une expertise ou un rapport inexact;
 - b. en induisant en erreur un organe d’un organisme d’essais, d’évaluation de la conformité ou d’homologation, l’amène à établir un rapport, un certificat ou une attestation inexacte de conformité d’un produit ou, en induisant en erreur une personne ou un organisme devant se prononcer sur les éléments conditionnant ces attestations, l’amène à établir une expertise ou un rapport inexact.
 
-[^25-1]: Nouvelle teneur selon l’art. 333 du CP, dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^25-1]: Nouvelle teneur selon l'art. 333 du CP, dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
 
 #### Art. 26
 
@@ -645,7 +647,7 @@ Est puni d’une peine privative de liberté de trois ans au plus ou d’une pei
 - a. utilise ou laisse utiliser des attestations d’accréditation, d’essais, de conformité ou d’homologation fausses ou inexactes faites par un tiers;
 - b. fait valoir frauduleusement une attestation d’accréditation, d’essais, de conformité et d’homologation de toute autre manière que celles prévues à la let. a et aux art. 23 à 25.
 
-[^26-1]: Nouvelle teneur selon l’art. 333 du CP, dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^26-1]: Nouvelle teneur selon l'art. 333 du CP, dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
 
 #### Art. 27
 
@@ -657,7 +659,7 @@ Les art. 23 à 26 et 28 s’appliquent aussi aux titres étrangers.
 
 #### Art. 28
 
-**Etablissement non autorisé de déclarations de conformité, apposition et utilisation non autorisées de signes de conformité**[^28-1]
+**Établissement non autorisé de déclarations de conformité, apposition et utilisation non autorisées de signes de conformité**[^28-1]
 
 Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque, pour tromper autrui dans les relations juridiques:
 
@@ -665,7 +667,7 @@ Est puni d’une peine privative de liberté de trois ans au plus ou d’une pei
 - b. appose le signe de conformité sur des produits ne répondant pas aux prescriptions techniques, ou met sur le marché des produits portant un tel signe;
 - c.[^28-2] établit des déclarations de conformité à des prescriptions techniques étrangères pour un produit non conforme aux prescriptions techniques de l’État en question.
 
-[^28-1]: Nouvelle teneur selon l’art. 333 du CP, dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^28-1]: Nouvelle teneur selon l'art. 333 du CP, dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
 [^28-2]: Introduite par le ch. I de la LF du 12 juin 2009, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6643](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
 
 #### Art. 28a
@@ -686,8 +688,8 @@ Est puni d’une peine privative de liberté d’un an au plus ou d’une peine 
 
 Les avantages patrimoniaux résultant d’actes illicites prévus aux art. 23 à 28 peuvent être confisqués conformément aux art. 69 et suivants du code pénal[^29-2].
 
-[^29-1]: Nouvelle teneur selon l’art. 334 du CP, dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
-[^29-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^29-1]: Nouvelle teneur selon l'art. 334 du CP, dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^29-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 30
 

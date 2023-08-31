@@ -4,11 +4,11 @@ title: Bundesgesetz vom 6. Oktober 1995 über die technischen Handelshemmnisse (
 short: THG
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725"
 language: de
-version: 2017-05-01
+version: 2023-09-01
 adopted: 1995-10-06
 in_force: 1996-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725/20170501/de/xml/fedlex-data-admin-ch-eli-cc-1996-1725_1725_1725-20170501-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/1725_1725_1725/20170501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1996-1725_1725_1725-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1725_1725_1725/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/1725_1725_1725/20170501/de"
 
 (THG)
 
-vom 6. Oktober 1995 (Stand am 1. Mai 2017)
+vom 6. Oktober 1995 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,10 +25,10 @@ gestützt auf die Zuständigkeit des Bundes in auswärtigen Angelegenheiten sowi
 
 beschliesst:
 
-[^ingress-1]: [BS **1** 3]. Den genannten Bestimmungen entsprechen heute die Art. 54, 95 und 101 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^ingress-3]: [SR 0.632.401](https://fedlex.data.admin.ch/eli/cc/1972/3115_3169_2949)
-[^ingress-4]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1A.6
+[^ingress-1]: [BS **1** 3]. Den genannten Bestimmungen entsprechen heute die Art. 54, 95 und 101 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
+[^ingress-2]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
+[^ingress-3]: [SR 0.632.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2413)
+[^ingress-4]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1A.6
 [^ingress-5]: [BBl 1995 II 521](https://fedlex.data.admin.ch/eli/fga/1995/2_521_489_393)
 [^ingress-6]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2001, in Kraft seit 1. Juni 2002 ([AS 2002 883](https://fedlex.data.admin.ch/eli/oc/2002/155); [BBl 2001 4963](https://fedlex.data.admin.ch/eli/fga/2001/845)).
 
@@ -429,9 +429,9 @@ Für ein Produkt, das nach diesem Kapitel in Verkehr gebracht wird, richtet sich
 
 <sup>3</sup> Die Produktinformation sowie die Aufmachung des Produkts dürfen nicht den Eindruck erwecken, dass das Produkt schweizerischen technischen Vorschriften entspricht.
 
-[^16e-1]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^16e-1]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 [^16e-2]: Fassung gemäss Anhang Ziff. II 10 des Lebensmittelgesetzes vom 20. Juni 2014, in Kraft seit 1. Mai 2017 ([AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [BBl 2011 5571](https://fedlex.data.admin.ch/eli/fga/2011/853)).
-[^16e-3]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^16e-3]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
 
 ## 4. Kapitel: Rechte und Pflichten der Betroffenen
 
@@ -477,7 +477,7 @@ Der Prüfbericht oder die Konformitätsbescheinigung einer ausländischen Stelle
 
 <sup>3</sup> Das Bundesamt für Aussenwirtschaft[^18-1] kann, im Einvernehmen mit dem im betreffenden Bereich zuständigen Bundesamt, verordnen, dass Prüfberichte oder Konformitätsbescheinigungen nicht als Nachweise im Sinne von Absatz 2 gelten, wenn geeignete schweizerische Stellen oder von diesen ausgestellte Prüfberichte oder Konformitätsbescheinigungen im Staat der ausländischen Stelle nicht anerkannt werden. Dabei sind die gesamtwirtschaftlichen Interessen der Schweiz, insbesondere die aussenwirtschaftlichen, zu berücksichtigen.
 
-[^18-1]: Heute: «Staatssekretariat für Wirtschaft (SECO)» (Art. 5 der Organisationsverordnung für das Eidgenössische Volkswirtschaftsdepartement vom 14. Juni 1999 – [SR 172.216.1](https://fedlex.data.admin.ch/eli/cc/1999/344); [AS 2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 16).
+[^18-1]: Heute: «Staatssekretariat für Wirtschaft (SECO)» (Art. 5 der Organisationsverordnung für das Eidgenössische Volkswirtschaftsdepartement vom 14. Juni 1999 – [SR 172.216.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5327); [AS 2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 16).
 
 ### 2. Abschnitt: Marktüberwachung
 
@@ -517,7 +517,7 @@ Sie können insbesondere:
 
 <sup>8</sup> Das Bundesgesetz vom 20. Dezember 1968[^19-1] über das Verwaltungsverfahren ist anwendbar.
 
-[^19-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^19-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 19a
 
@@ -546,7 +546,7 @@ Für die Marktüberwachung eines Produkts, das nach Artikel 16*a* Absatz 1 in Ve
 
 <sup>6</sup> Betrifft die Kontrolle nach Absatz 3 ein Lebensmittel und ist es zum Schutz der Bevölkerung erforderlich, eine Bewilligung zu widerrufen, so stellt das kantonale Vollzugsorgan dem BLV entsprechend Antrag.
 
-[^20-1]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^20-1]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 20a
 
@@ -562,11 +562,11 @@ Für die Marktüberwachung eines Produkts, das nach Artikel 16*a* Absatz 1 in Ve
 
 **Datenschutz**
 
-<sup>1</sup> Die Vollzugsorgane sind berechtigt, Personendaten einschliesslich Daten über administrative und strafrechtliche Verfolgungen und Sanktionen zu bearbeiten. Dabei gelten die Bestimmungen über die Beschaffung von Personendaten nach Artikel 18 des Bundesgesetzes vom 19. Juni 1992[^20b-1] über den Datenschutz.
+<sup>1</sup> Die Vollzugsorgane sind berechtigt, Personendaten, einschliesslich Daten über administrative und strafrechtliche Verfolgungen und Sanktionen, zu bearbeiten.[^20b-1]
 
 <sup>2</sup> Die Vollzugsorgane können die Daten elektronisch aufbewahren und, soweit für den einheitlichen Vollzug dieses Gesetzes erforderlich, untereinander austauschen.
 
-[^20b-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^20b-1]: Fassung gemäss Anhang 1 Ziff. II 93 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 3. Abschnitt: Amtshilfe
 
@@ -687,7 +687,7 @@ Mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe wird bestraft, wer vorsät
 
 Vermögensvorteile, die durch strafbare Handlungen nach den Artikeln 23–28 unrechtmässig erlangt worden sind, können nach den Artikeln 69 ff. des Strafgesetzbuches[^29-1] eingezogen werden.[^29-2]
 
-[^29-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^29-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^29-2]: Fassung gemäss Art. 334 des Strafgesetzbuches in der Fassung des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
 
 #### Art. 30

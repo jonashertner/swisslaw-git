@@ -4,11 +4,11 @@ title: Legge federale del 6 ottobre 1995 sugli ostacoli tecnici al commercio (LO
 short: LOTC
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725"
 language: it
-version: 2017-05-01
+version: 2023-09-01
 adopted: 1995-10-06
 in_force: 1996-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725/20170501/it/xml/fedlex-data-admin-ch-eli-cc-1996-1725_1725_1725-20170501-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/1725_1725_1725/20170501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1996-1725_1725_1725-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1725_1725_1725/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,22 +17,22 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/1725_1725_1725/20170501/it"
 
 (LOTC)
 
-del 6 ottobre 1995 (Stato 1° maggio 2017)
+del 6 ottobre 1995 (Stato 1° settembre 2023)
 
-Ingresso
+l’Assemblea federale della Confederazione Svizzera,
 
-vista la competenza della Confederazione in materia di affari esteri e visti gli articoli 31<sup>bis</sup> capoversi 1 e 2 e 64<sup>bis</sup> della Costituzione federale[^t-1]; in applicazione dell’Accordo del 21 giugno 2001[^t-2] di emendamento della Convenzione del 4 gennaio 1960 istitutiva dell’Associazione europea di libero scambio (AELS) e del suo allegato H; in applicazione dell’Accordo del 22 luglio 1972[^t-3] tra la Confederazione Svizzera e la Comunità economica europea; in applicazione dell’Accordo OMC del 15 aprile 1994[^t-4] sugli ostacoli tecnici agli scambi; visto il messaggio del Consiglio federale del 15 febbraio 1995[^t-5],[^t-6]
+vista la competenza della Confederazione in materia di affari esteri e visti gli articoli 31<sup>bis</sup> capoversi 1 e 2 e 64<sup>bis</sup> della Costituzione federale[^ingress-1]; in applicazione dell’Accordo del 21 giugno 2001[^ingress-2] di emendamento della Convenzione del 4 gennaio 1960 istitutiva dell’Associazione europea di libero scambio (AELS) e del suo allegato H; in applicazione dell’Accordo del 22 luglio 1972[^ingress-3] tra la Confederazione Svizzera e la Comunità economica europea; in applicazione dell’Accordo OMC del 15 aprile 1994[^ingress-4] sugli ostacoli tecnici agli scambi; visto il messaggio del Consiglio federale del 15 febbraio 1995[^ingress-5],[^ingress-6]
 
 decreta:
 
-## Capitolo 1: Scopo, campo d’applicazione e definizioni
+[^ingress-1]: [CS **1** 3]. A queste disp. corrispondono ora gli articoli 54, 95 e 101 della Cost. federale del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
+[^ingress-2]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
+[^ingress-3]: [RS 0.632.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2413)
+[^ingress-4]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), All. 1A.6
+[^ingress-5]: [FF 1995 II 393](https://fedlex.data.admin.ch/eli/fga/1995/2_521_489_393)
+[^ingress-6]: Nuovo testo giusta il n. I della LF del 14 dic. 2001, in vigore dal 1° giu. 2002 ([RU 2002 883](https://fedlex.data.admin.ch/eli/oc/2002/155); [FF 2001 4435](https://fedlex.data.admin.ch/eli/fga/2001/845)).
 
-[^t-1]: [CS **1** 3]. A queste disp. corrispondono ora gli articoli 54, 95 e 101 della Cost. federale del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^t-2]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^t-3]: [RS 0.632.401](https://fedlex.data.admin.ch/eli/cc/1972/3115_3169_2949)
-[^t-4]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)All. 1A.6
-[^t-5]: [FF 1995 II 393](https://fedlex.data.admin.ch/eli/fga/1995/2_521_489_393)
-[^t-6]: Nuovo testo giusta il n. I della LF del 14 dic. 2001, in vigore dal 1° giu. 2002 ([RU 2002 883](https://fedlex.data.admin.ch/eli/oc/2002/155); [FF 2001 4435](https://fedlex.data.admin.ch/eli/fga/2001/845)).
+## Capitolo 1: Scopo, campo d’applicazione e definizioni
 
 #### Art. 1
 
@@ -219,7 +219,7 @@ Nell’ambito di accordi internazionali sono trasmessi:
 - a. i progetti di prescrizioni tecniche e di prescrizioni concernenti i servizi per informazione e consultazione;
 - b. i testi adottati delle prescrizioni di cui alla lettera a.
 
-[^6-1]: Nuovo testo giusta il n. I del 14 dic. 2001, in vigore dal 1° giu. 2002 ([RU 2002 883](https://fedlex.data.admin.ch/eli/oc/2002/155); [FF 2001 4435](https://fedlex.data.admin.ch/eli/fga/2001/845)).
+[^6-1]: Nuovo testo giusta il n. I del 14 dic. 2001, in vigore dal 1° giugno 2002 ([RU 2002 883](https://fedlex.data.admin.ch/eli/oc/2002/155); [FF 2001 4435](https://fedlex.data.admin.ch/eli/fga/2001/845)).
 
 ## Capitolo 3: Competenze e compiti del Consiglio federale
 
@@ -316,7 +316,7 @@ Con l’intento di impedire la formazione di ostacoli tecnici al commercio, di r
 <sup>3</sup> Il capoverso 1 lettera f e il capoverso 2 si applicano anche alle prescrizioni dei Cantoni.[^14-3]
 
 [^14-1]: Nuovo testo giusta il n. I della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
-[^14-2]: Nuovo testo giusta il n. I del 14 dic. 2001, in vigore dal 1° giu. 2002 ([RU 2002 883](https://fedlex.data.admin.ch/eli/oc/2002/155); [FF 2001 4435](https://fedlex.data.admin.ch/eli/fga/2001/845)).
+[^14-2]: Nuovo testo giusta il n. I del 14 dicembre 2001, in vigore dal 1° giugno 2002 ([RU 2002 883](https://fedlex.data.admin.ch/eli/oc/2002/155); [FF 2001 4435](https://fedlex.data.admin.ch/eli/fga/2001/845)).
 [^14-3]: Introdotto dal n. I del 14 dic. 2001, in vigore dal 1° giu. 2002 ([RU 2002 883](https://fedlex.data.admin.ch/eli/oc/2002/155); [FF 2001 4435](https://fedlex.data.admin.ch/eli/fga/2001/845)).
 
 #### Art. 15
@@ -335,7 +335,7 @@ Con l’intento di impedire la formazione di ostacoli tecnici al commercio, di r
 
 <sup>1</sup> Gli organismi incaricati di compiti d’esecuzione in virtù della presente legge o di altre disposizioni nel settore delle prescrizioni tecniche possono riscuotere emolumenti.
 
-<sup>2</sup> …[^16-1]
+<sup>2</sup> ...[^16-1]
 
 [^16-1]: Abrogato dal n. I della LF del 12 giu. 2009, con effetto dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
 
@@ -427,9 +427,9 @@ Per i prodotti immessi in commercio in virtù del presente capitolo, l’informa
 
 <sup>3</sup> L’informazione sul prodotto e la presentazione dello stesso non devono dare l’impressione che il prodotto sia conforme alle prescrizioni tecniche svizzere.
 
-[^16e-1]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^16e-2]: Nuovo testo giusta il n. II 10 dell’all. alla L del 20 giu. 2014 sulle derrate alimentari, in vigore dal 1° mag. 2017 ([RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5017](https://fedlex.data.admin.ch/eli/fga/2011/853)).
-[^16e-3]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^16e-1]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^16e-2]: Nuovo testo giusta l’all. n. II 10 della L del 20 giu. 2014 sulle derrate alimentari, in vigore dal 1° mag. 2017 ([RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5017](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+[^16e-3]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
 
 ## Capitolo 4: Diritti e doveri delle persone interessate
 
@@ -475,7 +475,7 @@ Il rapporto d’esame o il certificato di conformità redatto da un organismo es
 
 <sup>3</sup> L’Ufficio federale dell’economia esterna[^18-1], d’intesa con l’ufficio federale competente per il settore interessato, può ordinare che i rapporti d’esame o i certificati di conformità non abbiano valore di prova ai sensi del capoverso 2 se organismi svizzeri qualificati, i loro rapporti d’esame o i loro certificati di conformità non sono riconosciuti nello Stato dell’organismo estero. Nella loro decisione, essi prendono in considerazione gli interessi svizzeri in materia di economia e di commercio estero.
 
-[^18-1]: Oggi: «Segreteria di Stato dell’economia (SECO)» (art. 5 dell’O del 14 giu. 1999 sull’organizzazione del Dipartimento federale dell’economia, della formazione e della ricerca; [RS 172.216.1](https://fedlex.data.admin.ch/eli/cc/1999/344), [RU 2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 16).
+[^18-1]: Oggi: «Segreteria di Stato dell’economia (SECO)» (art. 5 dell’O del 14 giu. 1999 sull’organizzazione del Dipartimento federale dell’economia, della formazione e della ricerca; [RS 172.216.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5327), [RU 2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 16).
 
 ### Sezione 2: Sorveglianza del mercato
 
@@ -515,7 +515,7 @@ In particolare, gli organi di esecuzione possono:
 
 <sup>8</sup> Si applica la legge federale del 20 dicembre 1968[^19-1] sulla procedura amministrativa.
 
-[^19-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^19-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 19a
 
@@ -558,11 +558,11 @@ Ai fini della sorveglianza di un prodotto immesso in commercio in virtù dell’
 
 **Protezione dei dati**
 
-<sup>1</sup> Gli organi di esecuzione sono autorizzati a trattare dati personali, compresi quelli concernenti procedimenti e sanzioni amministrativi o penali. A tal fine si applicano le disposizioni concernenti la raccolta di dati personali di cui all’articolo 18 della legge federale del 19 giugno 1992[^20b-1] sulla protezione dei dati.
+<sup>1</sup> Gli organi di esecuzione sono autorizzati a trattare dati personali, compresi quelli concernenti procedimenti e sanzioni amministrativi o penali.[^20b-1]
 
 <sup>2</sup> Gli organi di esecuzione possono conservare tali dati in forma elettronica e, per quanto necessario per un’esecuzione uniforme della presente legge, scambiarseli.
 
-[^20b-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^20b-1]: Nuovo testo giusta l’all. 1 n. II 93 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Sezione 3: Assistenza amministrativa
 
@@ -683,7 +683,7 @@ Gli articoli 23–26 e 28 sono parimenti applicabili ai documenti esteri.
 
 I vantaggi pecuniari derivanti da atti illeciti previsti negli articoli 23 a 28 possono essere confiscati giusta gli articoli 69 e seguenti del Codice penale[^29-1].[^29-2]
 
-[^29-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^29-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^29-2]: Nuovo testo giusta l’art. 333 del Codice penale, nel testo della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
 
 #### Art. 30
@@ -719,7 +719,7 @@ Le autorità competenti della Confederazione tengono elenchi:
 
 Data dell’entrata in vigore: 1° luglio 1996[^32-1]
 
-[^32-1]: DCF del 17 giu. 1996
+[^32-1]: DCF del 17 giu. 1996.
 
 Allegato
 
