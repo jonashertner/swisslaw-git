@@ -3,20 +3,20 @@ sr: "455.61"
 title: "Ordonnance du 1<sup>er</sup> septembre 2010 sur le système informatique relatif aux expériences sur animaux (Ordonnance animex-ch)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/563"
 language: fr
-version: 2022-02-01
+version: 2023-09-01
 adopted: 2010-09-01
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/563/20220201/fr/xml/fedlex-data-admin-ch-eli-cc-2010-563-20220201-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/563/20220201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/563/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2010-563-20230901-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/563/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le système informatique relatif aux expériences sur animaux
 
-(Ordonnance animex-ch)**[^t-1]**
+(Ordonnance animex-ch)[^t-1]
 
-du 1<sup>er</sup> septembre 2010 (Etat le 1<sup>er</sup> février 2022)
+du 1<sup>er</sup> septembre 2010 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> fév. 2022 ([RO 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)).
 
@@ -170,7 +170,7 @@ Le système informatique animex-ch contient les types de données suivants:[^10-
 - a. *données fixes relatives aux personnes, aux instituts, aux laboratoires et aux animaleries:* les données indispensables pour accéder au système ou pour identifier les personnes, les instituts, les laboratoires et les animaleries;
 - b.[^10-2] *données collectées dans le cadre de l’exécution:* les demandes, les autorisations et autres décisions, les rapports, les notifications, les résultats des contrôles, ainsi que les éventuelles instructions administratives, les questions posées et réponses données dans le cadre des procédures d’autorisation et de surveillance des expériences sur animaux et des animaleries, les documents relatifs à la gestion des attestations de la formation de base et de la formation qualifiante et les renvois à d’autres décisions cantonales émises dans le domaine de l’expérimentation animale et des animaleries;
 - c.[^10-3] *données système:* données servant à la gestion et à l’adaptation du système informatique aux besoins des autorités d’exécution, à savoir les listes de références visées à l’annexe 1, ch. 4, les profils, le matériel d’information, les phrases types, les textes explicatifs et des données semblables;
-- d.[^10-4] *données histor**isées:* données qui permettent de suivre les modifications apportées à une demande, à une autorisation, à une décision, à un rapport, à une notification ou aux rôles d’utilisateur.
+- d.[^10-4] *données historisées:* données qui permettent de suivre les modifications apportées à une demande, à une autorisation, à une décision, à un rapport, à une notification ou aux rôles d’utilisateur.
 
 <sup>2</sup> Les autorités cantonales, les membres des commissions cantonales de l’expérimentation animale et l’OSAV peuvent rédiger des notes de travail relatives aux différents dossiers.
 
@@ -326,13 +326,16 @@ L’OSAV et les autorités cantonales veillent au respect des dispositions sur l
 
 **Droits des personnes concernées**
 
-<sup>1</sup> Les droits des personnes dont les données sont traitées dans le système informatique animex-ch, notamment les droits d’information, de rectification ou d’effacement des données, sont régis par la loi fédérale du 19 juin 1992 sur la protection des données[^18-1].
+<sup>1</sup> Les droits des personnes dont les données sont traitées dans animex-ch, notamment les droits d’information, de rectification ou de destruction des données, sont régis par la loi fédérale du 25 septembre 2020 sur la protection des données[^18-1].[^18-2]
 
-<sup>2</sup> Si une personne veut faire valoir ses droits, elle doit prouver son identité et déposer une demande écrite à l’autorité d’exécution de son canton de domicile ou à l’OSAV.
+<sup>2</sup> Si une personne veut faire valoir ses droits, elle adresse une demande à l’autorité d’exécution de son canton de domicile ou à l’OSAV dans la forme prévue à l’art. 16 de l’ordonnance du 31 août 2022 sur la protection des données[^18-3].[^18-4]
 
 <sup>3</sup> L’autorité cantonale concernée et l’OSAV s’informent mutuellement des demandes reçues.
 
 [^18-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^18-2]: Nouvelle teneur selon l’annexe 2 ch. II 58 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^18-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^18-4]: Nouvelle teneur selon l’annexe 2 ch. II 58 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 19
 
@@ -411,7 +414,7 @@ Les dispositions suivantes entrent en vigueur le 1<sup>er</sup> janvier 2012:
 
 [^26-1]: [RS 916.472](https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727)
 
-Annexe 1*[^t-2]*
+Annexe 1[^t-2]
 
 (art. 10, al. 1, let. c et 3, et art. 11)
 
@@ -675,6 +678,6 @@ Annexe 2
 
 ## Modification du droit en vigueur
 
-...[^annex2-lvlu1-1]
+…[^annex2-lvlu1-1]
 
 [^annex2-lvlu1-1]: Les mod. peuvent être consultées au [RO 2010 3953](https://fedlex.data.admin.ch/eli/oc/2010/563).

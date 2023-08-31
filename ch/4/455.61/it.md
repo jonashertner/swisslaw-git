@@ -3,20 +3,20 @@ sr: "455.61"
 title: Ordinanza del 1° settembre 2010 concernente il sistema di informazione nell’ambito della sperimentazione animale (Ordinanza animex-ch)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/563"
 language: it
-version: 2022-02-01
+version: 2023-09-01
 adopted: 2010-09-01
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/563/20220201/it/xml/fedlex-data-admin-ch-eli-cc-2010-563-20220201-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/563/20220201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/563/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2010-563-20230901-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/563/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente il sistema di informazione nell’ambito della sperimentazione animale
 
-(Ordinanza animex-ch)**[^t-1]**
+(Ordinanza animex-ch)[^t-1]
 
-del 1° settembre 2010 (Stato 1° febbraio 2022) (Stato 1° febbraio 2022)
+del 1° settembre 2010 (Stato 1° settembre 2023)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° feb. 2022 ([RU 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)).
 
@@ -49,7 +49,7 @@ Essa comprende in particolare disposizioni riguardanti:
 - f. l’archiviazione dei dati;
 - g. le tasse e i costi.
 
-[^1-1]: Nuova espressione giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° feb. 2022 ([RU 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^1-1]: Nuova espr. giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° feb. 2022 ([RU 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 2
 
@@ -92,7 +92,7 @@ Esso:
 <sup>3</sup> L’USAV[^4-2] è responsabile del servizio specializzato e del sistema d’informazione animex-ch. Nello specifico adotta le misure necessarie per l’esercizio del sistema e per garantire la protezione e la sicurezza dei dati.
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3789](https://fedlex.data.admin.ch/eli/oc/2013/700)).
-[^4-2]: Nuova espressione giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3789](https://fedlex.data.admin.ch/eli/oc/2013/700)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^4-2]: Nuova esp. giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3789](https://fedlex.data.admin.ch/eli/oc/2013/700)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 5
 
@@ -176,7 +176,7 @@ Il sistema d’informazione animex-ch contiene i seguenti generi di dati:[^10-1]
 <sup>3</sup> I dati contenuti nel sistema d’informazione animex-ch sono elencati in modo esaustivo nell’allegato 1 numero 5.
 
 [^10-1]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° feb. 2022 ([RU 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)).
-[^10-2]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° feb. 2022 (RU **202****1** 926).
+[^10-2]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° feb. 2022 ([RU 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)).
 [^10-3]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° feb. 2022 ([RU 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)).
 [^10-4]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° feb. 2022 ([RU 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)).
 
@@ -321,13 +321,16 @@ L’USAV e le autorità cantonali provvedono affinché le disposizioni in materi
 
 **Diritti degli interessati**
 
-<sup>1</sup> I diritti delle persone i cui dati sono trattati nel sistema d’informazione animex-ch, in particolare i diritti d’informazione, di rettifica e di cancellazione dei dati, sono retti dalla legge federale del 19 giugno 1992[^18-1] sulla protezione dei dati.
+<sup>1</sup> I diritti delle persone i cui dati sono trattati in animex‑ch, in particolare i diritti d’accesso, di rettifica e di distruzione dei dati, sono retti dalla legge federale del 25 settembre 2020[^18-1] sulla protezione dei dati.[^18-2]
 
-<sup>2</sup> Se un interessato intende far valere determinati diritti, deve dimostrare la propria identità e presentare domanda scritta all’autorità d’esecuzione del Cantone di domicilio oppure all’USAV.
+<sup>2</sup> Se un interessato intende far valere i suoi diritti, deve presentare una domanda all’autorità di esecuzione del Cantone in cui è domiciliato o all’USAV nella forma prevista dall’articolo 16 dell’ordinanza del 31 agosto 2022[^18-3] sulla protezione dei dati.[^18-4]
 
 <sup>3</sup> L’autorità cantonale e l’USAV si informano reciprocamente sulle domande pervenute.
 
 [^18-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^18-2]: Nuovo testo giusta l’all. 2 n. II 58 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^18-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^18-4]: Nuovo testo giusta l’all. 2 n. II 58 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 19
 
@@ -408,7 +411,7 @@ Entrano in vigore il 1° gennaio 2012:
 
 [^26-1]: [RS 916.472](https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727)
 
-Allegato 1*[^t-2]*
+Allegato 1[^t-2]
 
 (art. 10 cpv. 1 lett. c e 3, nonché art. 11)
 

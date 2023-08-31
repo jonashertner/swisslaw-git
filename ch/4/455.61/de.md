@@ -3,20 +3,20 @@ sr: "455.61"
 title: Verordnung vom 1. September 2010 über das Informationssystem im Bereich der Tierversuche (Animex-ch-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/563"
 language: de
-version: 2022-02-01
+version: 2023-09-01
 adopted: 2010-09-01
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/563/20220201/de/xml/fedlex-data-admin-ch-eli-cc-2010-563-20220201-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/563/20220201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/563/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2010-563-20230901-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/563/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über das Informationssystem im Bereich der Tierversuche
 
-(Animex-ch-Verordnung)**[^t-1]**
+(Animex-ch-Verordnung)[^t-1]
 
-vom 1. September 2010 (Stand am 1. Februar 2022)
+vom 1. September 2010 (Stand am 1. September 2023)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Febr. 2022 ([AS 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)).
 
@@ -167,7 +167,7 @@ Das Informationssystem Animex-ch umfasst:[^9-1]
 
 Das Informationssystem Animex-ch enthält folgende Arten von Daten:[^10-1]
 
-- a. *Stammdaten über Personen, I**nstitute**, Laboratorien und Versuc**hstierhaltu**n**gen:* Daten, die die Grundlage für den Systemzugriff bilden oder der Identifikation der Personen, Institute, Laboratorien und Versuchstierhaltungen dienen;
+- a. *Stammdaten über Personen, Institute**, Laboratorien und Versuchstierhaltungen:* Daten, die die Grundlage für den Systemzugriff bilden oder der Identifikation der Personen, Institute, Laboratorien und Versuchstierhaltungen dienen;
 - b.[^10-2] *Vollzugsdaten*: Gesuche, Bewilligungen und andere Entscheide, Berichte, Meldungen, Kontrollergebnisse sowie allfällige administrative Anweisungen, Rückfragen und Rückantworten im Rahmen des Bewilligungs- und des Überwachungsverfahrens für Tierversuche und Versuchstierhaltungen, Unterlagen zur Verwaltung der Aus- und Weiterbildungsnachweise sowie Verweise auf weitere kantonale Verfügungen im Bereich Tierversuche und Versuchstierhaltungen;
 - c.[^10-3] *Systemdaten*: Daten, die der Verwaltung und der Anpassung des Informationssystems an die Vollzugsbedürfnisse dienen: Referenzlisten nach Anhang 1 Ziffer 4, Profile, Informationsmaterial, Textbausteine, Hilfetexte und ähnliche Daten;
 - d.[^10-4] *Historisierungsdaten:* Daten, die die Nachverfolgung von Änderungen eines Gesuchs, einer Bewilligung, eines Entscheids, eines Berichts, einer Meldung oder von Anwenderrollen im System ermöglichen.
@@ -322,13 +322,16 @@ Das BLV und die kantonalen Behörden sorgen dafür, dass die Bestimmungen zum Da
 
 **Rechte der betroffenen Personen**
 
-<sup>1</sup> Die Rechte der Personen, über die im Informationssystem Animex-ch Daten bearbeitet werden, insbesondere das Auskunfts-, das Berichtigungs- und das Löschungsrecht, richten sich nach dem Bundesgesetz vom 19. Juni 1992[^18-1] über den Datenschutz.
+<sup>1</sup> Die Rechte der Personen, über die im Animex-ch Daten bearbeitet werden, insbesondere das Auskunfts-, das Berichtigungs- und das Vernichtungsrecht, richten sich nach dem Datenschutzgesetz vom 25. September 2020[^18-1].[^18-2]
 
-<sup>2</sup> Will eine betroffene Person Rechte geltend machen, so muss sie sich über ihre Identität ausweisen und ein schriftliches Gesuch bei der Vollzugsbehörde des Kantons, in dem sie ihren Wohnsitz hat, oder beim BLV einreichen.
+<sup>2</sup> Will eine betroffene Person Rechte geltend machen, so muss sie in der Form nach Artikel 16 der Datenschutzverordnung vom 31. August 2022[^18-3] ein Gesuch bei der Vollzugsbehörde des Kantons, in dem sie ihren Wohnsitz hat, oder beim BLV einreichen.[^18-4]
 
 <sup>3</sup> Die jeweilige kantonale Behörde und das BLV informieren sich gegenseitig über eingegangene Gesuche.
 
 [^18-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^18-2]: Fassung gemäss Anhang 2 Ziff. II 58 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^18-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^18-4]: Fassung gemäss Anhang 2 Ziff. II 58 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 19
 
@@ -409,7 +412,7 @@ Es treten am 1. Januar 2012 in Kraft:
 
 [^26-1]: [SR 916.472](https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727)
 
-Anhang 1*[^t-2]*
+Anhang 1[^t-2]
 
 (Art. 10 Abs. 1 Bst. c und 3 sowie Art. 11)
 
