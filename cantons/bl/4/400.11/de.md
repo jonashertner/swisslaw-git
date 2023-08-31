@@ -4,13 +4,13 @@ number: "400.11"
 title: Verordnung zum Raumplanungs- und Baugesetz
 short: RBV
 language: de
-version: 2023-06-01
-valid_until: 2023-08-31
-version_adopted: 2023-05-09
+version: 2023-09-01
+valid_until: 2023-10-31
+version_adopted: 2023-06-20
 adopted: 1998-10-27
 in_force: 1999-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/400.11"
-pdf: "https://bl.clex.ch/api/de/versions/3620/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3630/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3620/pdf_file"
 
 (RBV)
 
-Vom 27.10.1998 (Stand 01.06.2023)
+Vom 27.10.1998 (Stand 01.09.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -1006,6 +1006,10 @@ Hauptdächer, Vordächer und offene, durchgehende Balkone. Andere Bauteile dürf
 
 <sup>1</sup> Bei der Inanspruchnahme von öffentlichem Areal ist vor der Aufnahme der Bauarbeiten die Bewilligung der Eigentümerin bzw. des Eigentümers einzuholen.
 
+<sup>2</sup> Die gemäss § 26 Abs. 4 Strassengesetz[^80-1] für die Bewilligung von Werkleitungen in Strassen zuständige Behörde koordiniert diese Bewilligung mit der Rückbaubewilligung.
+
+[^80-1]: [SGS 430](https://bl.clex.ch/data/430/de/art26)
+
 #### § 81
 
 **Abschrankungen**
@@ -1075,7 +1079,7 @@ Hauptdächer, Vordächer und offene, durchgehende Balkone. Andere Bauteile dürf
 
 #### § 87
 
-**Unterlagen für die Baueingabe**
+**Unterlagen für die Bau- und Rückbaueingabe**
 
 <sup>1</sup> Die Baubewilligungsbehörde stellt die Baugesuchsformulare und Spezialformulare zur Verfügung.
 
@@ -1094,10 +1098,12 @@ Hauptdächer, Vordächer und offene, durchgehende Balkone. Andere Bauteile dürf
 - b. bei Zentralheizungsanlagen, welche mit flüssigen, festen oder gasförmigen Brennstoffen betrieben werden, das Teilgesuch W;
 - c. bei Einrichtungen, die dem Umschlag oder der Lagerung von mehr als 450 Liter wassergefährdenden Flüssigkeiten dienen, das Teilgesuch T;
 - d. bei Neubauten, in denen sich regelmässig Personen aufhalten, das Formular über bauliche Zivilschutzmassnahmen;
-- e. bei Bauvorhaben, in denen in grösserem Umfang Aushub- oder Abbruchmaterial anfällt sowie bei Vorhaben, welche das Grundwasser direkt tangieren, die Deklaration «Boden - Abfall - Grundwasser»;
-- f. bei Industrie-, Gewerbe- oder landwirtschaftlichen Bauten, die Planunterlagen zusammen mit dem Einrichtungsgesuch und sofern notwendig mit der entsprechenden Emissionserklärung in 5-facher Ausfertigung;
+- e. bei Bauvorhaben, bei denen Aushub- oder Abbruchmaterial anfällt, sowie bei Vorhaben, welche das Grundwasser direkt tangieren, die Deklaration «Boden – Abfall – Grundwasser»;
+- f. bei Industrie-, Gewerbe- oder landwirtschaftlichen Bauten die Planunterlagen zusammen mit dem Einrichtungsgesuch und, sofern notwendig, mit der entsprechenden Emissionserklärung in 5-facher Ausfertigung;
 - g. die statischen Berechnungen auf Verlangen der Baubewilligungsbehörde. Im statischen Nachweis sind die Belastungsannahmen, die massgebenden Grundlagen und die Materialbeanspruchungen in den Haupttragelementen darzulegen. Der Ingenieur trägt die Verantwortung für die statischen Berechnungen;
-- h. der Nachweis von Massnahmen zum Schutz vor Schäden durch gravitative Naturgefahren.[^87-1]
+- h. der Nachweis von Massnahmen zum Schutz vor Schäden durch gravitative Naturgefahren gemäss § 101 Abs. 1 Bst. c. Raumplanungs- und Baugesetz[^87-1];
+- i. bei Bau- und Rückbauvorhaben, bei denen mehr als 200 m³ Bauabfälle oder bei denen belastete Bauabfälle anfallen, sowie beim Rückbau von Gebäuden ein Entsorgungskonzept mit Angaben, wie insbesondere zur Vorgehensweise, zu den vorgesehenen Verwertungs- und Entsorgungswegen sowie zur Art, Qualität und Menge der anfallenden Abfälle;
+- j. bei Rückbauvorhaben von Gebäuden oder Gebäudeteilen, die vor 1990 erstellt wurden, bei Boden- und Aushubarbeiten, bei denen ein Verdacht auf eine Schadstoffbelastung besteht, sowie bei Strassenrückbauten ein Bericht über die Schadstoffermittlung.
 
 <sup>4</sup> Die Baubewilligungsbehörde kann:
 
@@ -1114,7 +1120,7 @@ Hauptdächer, Vordächer und offene, durchgehende Balkone. Andere Bauteile dürf
 
 <sup>6</sup> Sofern Ausnahmen beantragt werden, sind diese klar erkennbar auszuweisen und zu begründen.
 
-[^87-1]: § 101 Abs. 1 Bst. c RBG, [SGS 400](https://bl.clex.ch/data/400/de/art101)
+[^87-1]: [RBG; SGS 400](https://bl.clex.ch/data/400/de/art101)
 
 #### § 88
 
@@ -1236,6 +1242,18 @@ Hauptdächer, Vordächer und offene, durchgehende Balkone. Andere Bauteile dürf
 <sup>1</sup> Solaranlagen und Wärmepumpen gemäss § 94 Abs. 1 Bst. e und j unterstehen einer vorgängigen Meldepflicht bei der zuständigen Baubewilligungsbehörde gemäss § 118 Abs. 1 und 3 RBG. Im Rahmen der Meldepflicht ist bei Wärmepumpen zudem ein Lärmschutznachweis zu erbringen.
 
 <sup>2</sup> Die Meldung hat mindestens 30 Tage vor Baubeginn schriftlich an die zuständige Baubewilligungsbehörde zu erfolgen mittels Meldung im Internet unter [www.bauinspektorat.bl.ch](http://www.bauinspektorat.bl.ch) oder mit den Formularen «Meldung Solaranlagen» bzw. «Meldung Wärmepumpen», welche bei der Baubewilligungsbehörde bezogen oder vom Internet heruntergeladen werden können.
+
+#### § 94b
+
+**Rückbauten, die keiner Bewilligung bedürfen**
+
+<sup>1</sup> Keiner Rückbaubewilligung bedürfen:
+
+- a. der Rückbau der in § 92 Abs. 1 und § 94 Abs. 1 aufgeführten Bauten und Anlagen;
+- b. Rückbauten, die nicht im Zusammenhang mit einem Neubau erfolgen und bei denen voraussichtlich weniger als 50 m³ Abfall anfällt;
+- c. Grabungen für Leitungsbauten oder ähnliches, bei denen weniger als 200 m³ Aushubmaterial anfällt.
+
+<sup>2</sup> Der bewilligungsfreie Rückbau von Bauten und Anlagen sowie bauliche Massnahmen, die keiner Rückbaubewilligung bedürfen, entbinden die Bauherrschaft nicht von der Einhaltung der Vorschriften über den Rückbau, über die Trennung, Verwertung und Entsorgung der anfallenden Abfälle sowie über die Schadstoffermittlung und -entfernung.
 
 ### 6.6 Beschwerdeverfahren (Organisation und Verfahren der Baurekurskommission)
 
