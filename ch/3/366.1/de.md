@@ -3,11 +3,11 @@ sr: "366.1"
 title: Verordnung vom 21. Juni 2013 über das Nationale Zentralbüro Interpol Bern (Interpol-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/466"
 language: de
-version: 2019-01-01
+version: 2023-09-01
 adopted: 2013-06-21
 in_force: 2013-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/466/20190101/de/xml/fedlex-data-admin-ch-eli-cc-2013-466-20190101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/466/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/466/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2013-466-20230901-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/466/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/466/20190101/de"
 
 (Interpol-Verordnung)
 
-vom 21. Juni 2013 (Stand am 1. Januar 2019)
+vom 21. Juni 2013 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -89,7 +89,7 @@ Folgende Behörden können im Abrufverfahren auf die Daten im polizeilichen Info
 - c. kantonale Polizeibehörden zur Erfüllung ihrer Aufgaben nach der Strafprozessordnung sowie kantonalen Polizeigesetzen;
 - d. die Zoll- und Grenzbehörden des Bundes zur Erfüllung ihrer Aufgaben nach dem Zollgesetz vom 18. März 2005[^4-6] und der Kantone im Rahmen ihrer gesetzlichen Aufgaben;
 - e. die Fremdenpolizeien der Kantone, soweit sie gemäss kantonalem Recht mit gerichts- und sicherheitspolizeilichen Aufgaben betraut sind;
-- f. der oder die Datenschutz- und Informationsschutzverantwortliche von fedpol zur Erfüllung der Kontrollaufgaben;
+- f.[^4-7] der Datenschutzberater oder die Datenschutzberaterin von fedpol zur Erfüllung der Kontrollaufgaben;
 - g. die mit Wartungsaufgaben betrauten Stellen zur Erfüllung ihrer Aufgaben.
 
 <sup>2</sup> Fedpol erlässt ein Bearbeitungsreglement.
@@ -100,6 +100,7 @@ Folgende Behörden können im Abrufverfahren auf die Daten im polizeilichen Info
 [^4-4]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
 [^4-5]: [SR 172.213.1](https://fedlex.data.admin.ch/eli/cc/2000/57)
 [^4-6]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-7]: Fassung gemäss Anhang 2 Ziff. II 48 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 5
 
@@ -182,12 +183,13 @@ Zusätzlich unterrichtet das NZB das Generalsekretariat von Interpol und die Nat
 - a. darüber, dass die Weitergabe der Daten an andere Stellen als ausländische Behörden mit Strafverfolgungs- und Polizeiaufgaben nur mit der ausdrücklichen Zustimmung des NZB im Einzelfall zulässig ist;
 - b. über alle anderen Bearbeitungsbeschränkungen, die dem NZB nach Massgabe der Gesetzgebung von Bund und Kantonen auferlegt sind.
 
-<sup>4</sup> Die Zustimmung nach Absatz 3 Buchstabe a erfolgt nach Massgabe des schweizerischen Rechts. Zuständig ist der Chef oder die Chefin des NZB. Der oder die Datenschutz- und Informationsschutzverantwortliche von fedpol ist vorgängig anzuhören.
+<sup>4</sup> Die Zustimmung nach Absatz 3 Buchstabe a erfolgt nach Massgabe des schweizerischen Rechts. Zuständig ist der Chef oder die Chefin des NZB. Der Datenschutzberater oder die Datenschutzberaterin von fedpol ist vorgängig anzuhören.[^11-2]
 
-<sup>5</sup> Beabsichtigt das NZB, Daten von sich in der Schweiz befindenden Asylsuchenden, anerkannten Flüchtlingen und Schutzbedürftigen an deren Heimat- oder Herkunftsstaat bekannt zu geben, so gelten die Voraussetzungen nach Artikel 2 der Asylverordnung 3 vom 11. August 1999[^11-2].
+<sup>5</sup> Beabsichtigt das NZB, Daten von sich in der Schweiz befindenden Asylsuchenden, anerkannten Flüchtlingen und Schutzbedürftigen an deren Heimat- oder Herkunftsstaat bekannt zu geben, so gelten die Voraussetzungen nach Artikel 2 der Asylverordnung 3 vom 11. August 1999[^11-3].
 
 [^11-1]: Siehe Fussnote zu Art. 2 Abs. 3.
-[^11-2]: [SR 142.314](https://fedlex.data.admin.ch/eli/cc/1999/361)
+[^11-2]: Fassung des dritten Satzes gemäss Anhang 2 Ziff. II 48 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^11-3]: [SR 142.314](https://fedlex.data.admin.ch/eli/cc/1999/361)
 
 #### Art. 12
 
@@ -201,11 +203,12 @@ Das NZB ist verpflichtet, Anfragen des Generalsekretariats von Interpol nach Mas
 - b. den Zugriff neuer Stellen auf Daten der Schweiz, die beim Generalsekretariat gespeichert sind;
 - c. das Abrufen und Speichern von Daten der Schweiz, die beim Generalsekretariat gespeichert sind, durch neue Stellen.
 
-<sup>2</sup> Der Entscheid über Anfragen nach Absatz 1 Buchstaben b und c bedarf der Zustimmung des Chefs oder der Chefin des NZB. Der oder die Datenschutz- und Informationsschutzverantwortliche von fedpol ist vorgängig anzuhören.
+<sup>2</sup> Der Entscheid über Anfragen nach Absatz 1 Buchstaben b und c bedarf der Zustimmung des Chefs oder der Chefin des NZB. Der Datenschutzberater oder die Datenschutzberaterin von fedpol ist vorgängig anzuhören.[^12-2]
 
 <sup>3</sup> Der Zugriff auf Daten der Schweiz, die beim Generalsekretariat gespeichert sind, oder das Abrufen solcher Daten ist für eine Stelle nur zulässig, wenn auch die Weitergabe der Daten an sie zulässig wäre.
 
 [^12-1]: Siehe Fussnote zu Art. 2 Abs. 3.
+[^12-2]: Fassung des zweiten Satzes gemäss Anhang 2 Ziff. II 48 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 13
 
@@ -237,7 +240,7 @@ Sämtliche vom NZB nicht mehr benötigten Daten werden gemäss Archivierungsgese
 
 #### Art. 16
 
-<sup>1</sup> Will eine Person Auskunft über die sie betreffenden Informationen, diese berichtigen oder löschen lassen, so muss sie sich über ihre Identität ausweisen (Kopie des Passes oder der Identitätskarte) und ein schriftliches Gesuch bei dem oder der Datenschutz- und Informationsschutzverantwortlichen von fedpol einreichen.
+<sup>1</sup> Will eine Person Auskunft über die sie betreffenden Informationen, so muss sie in der Form nach Artikel 16 der Datenschutzverordnung vom 31. August 2022[^16-1] ein Gesuch beim Datenschutzberater oder bei der Datenschutzberaterin von fedpol einreichen.[^16-2]
 
 <sup>2</sup> Die Auskunftserteilung richtet sich nach dem Recht des Gemeinwesens (anderer Staat, Bund, Kanton), dessen Behörde die Strafuntersuchung führt oder geführt hat. Fedpol leitet das Gesuch zum Entscheid an die zuständige Behörde weiter.
 
@@ -245,20 +248,28 @@ Sämtliche vom NZB nicht mehr benötigten Daten werden gemäss Archivierungsgese
 
 <sup>4</sup> Die Auskunft kann verweigert werden, soweit die Interessen der Strafverfolgung, Strafvollstreckung oder polizeilichen Verbrechensverhütung es erfordern.
 
-<sup>5</sup> Die Auskunftserteilung über Fahndungsdaten richtet sich nach der RIPOL-Verordnung vom 15. Oktober 2008[^16-1].
+<sup>5</sup> Die Auskunftserteilung über Fahndungsdaten richtet sich nach der RIPOL-Verordnung vom 15. Oktober 2008[^16-3].
 
-<sup>6</sup> Die Auskunftserteilung über Daten von Behörden anderer Staaten richtet sich nach Artikel 18 des Interpol-Reglements[^16-2].
+<sup>6</sup> Die Auskunftserteilung über Daten von Behörden anderer Staaten richtet sich nach Artikel 18 des Interpol-Reglements[^16-4].
 
-[^16-1]: [SR 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
-[^16-2]: Siehe Fussnote zu Art. 2 Abs. 3.
+<sup>7</sup> Die Geltendmachung weiterer Ansprüche durch die betroffene Person richtet sich nach Artikel 41 des Datenschutzgesetzes vom 25. September 2020[^16-5].[^16-6]
+
+[^16-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^16-2]: Fassung gemäss Anhang 2 Ziff. II 48 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^16-3]: [SR 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
+[^16-4]: Siehe Fussnote zu Art. 2 Abs. 3.
+[^16-5]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^16-6]: Eingefügt durch Anhang 2 Ziff. II 48 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 4. Abschnitt: Aufsicht und Datensicherung
 
 #### Art. 17
 
-<sup>1</sup> Der oder die Datenschutz- und Informationsschutzverantwortliche von fedpol beaufsichtigt die Bearbeitung von Personendaten im NZB.
+<sup>1</sup> Der Datenschutzberater oder die Datenschutzberaterin von fedpol beaufsichtigt die Bearbeitung von Personendaten im NZB.[^17-1]
 
 <sup>2</sup> Fedpol regelt die Zugriffs- und Zugangsberechtigung in einem Bearbeitungsreglement und sichert die Arbeitsräume gegen den Zutritt unbefugter Personen.
+
+[^17-1]: Fassung gemäss Anhang 2 Ziff. II 48 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 5. Abschnitt: Schlussbestimmungen
 
@@ -268,7 +279,7 @@ Sämtliche vom NZB nicht mehr benötigten Daten werden gemäss Archivierungsgese
 
 Die Interpol-Verordnung vom 1. Dezember 1986[^18-1] wird aufgehoben.
 
-[^18-1]: [[AS 1986 2318](https://fedlex.data.admin.ch/eli/oc/1986/2318_2318_2318), [1987 279](https://fedlex.data.admin.ch/eli/oc/1987/279_279_279), [1992 1618](https://fedlex.data.admin.ch/eli/oc/1992/1618_1618_1618)Anhang Ziff. 5, [1993 1962](https://fedlex.data.admin.ch/eli/oc/1993/1962_1962_1962)Art. 36 Ziff. 7, [1996 3097](https://fedlex.data.admin.ch/eli/oc/1996/3097_3097_3097), [1998 1561](https://fedlex.data.admin.ch/eli/oc/1998/1561_1561_1561), [2001 3316](https://fedlex.data.admin.ch/eli/oc/2001/494), [2005 1351](https://fedlex.data.admin.ch/eli/oc/2005/207), [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)I [11](https://fedlex.data.admin.ch/eli/oc/2008/6), [2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)Anhang Ziff. 6]
+[^18-1]: [[AS 1986 2318](https://fedlex.data.admin.ch/eli/oc/1986/2318_2318_2318); [1987 279](https://fedlex.data.admin.ch/eli/oc/1987/279_279_279); [1992 1618](https://fedlex.data.admin.ch/eli/oc/1992/1618_1618_1618)Anhang Ziff. 5; [1993 1962](https://fedlex.data.admin.ch/eli/oc/1993/1962_1962_1962)Art. 36 Ziff. 7; [1996 3097](https://fedlex.data.admin.ch/eli/oc/1996/3097_3097_3097); [1998 1561](https://fedlex.data.admin.ch/eli/oc/1998/1561_1561_1561); [2001 3316](https://fedlex.data.admin.ch/eli/oc/2001/494); [2005 1351](https://fedlex.data.admin.ch/eli/oc/2005/207); [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)I [11](https://fedlex.data.admin.ch/eli/oc/2008/6); [2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)Anhang Ziff. 6]
 
 #### Art. 19
 

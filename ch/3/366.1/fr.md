@@ -3,11 +3,11 @@ sr: "366.1"
 title: Ordonnance du 21 juin 2013 concernant le Bureau central national Interpol Bern (Ordonnance Interpol)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/466"
 language: fr
-version: 2019-01-01
+version: 2023-09-01
 adopted: 2013-06-21
 in_force: 2013-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/466/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-466-20190101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/466/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/466/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2013-466-20230901-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/466/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/466/20190101/fr"
 
 (Ordonnance Interpol)
 
-du 21 juin 2013 (Etat le 1<sup>er</sup> janvier 2019)
+du 21 juin 2013 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -52,7 +52,7 @@ Le BCN assure la liaison:
 
 Il assume également les tâches suivantes:
 
-- a. il coopère à la prévention et à la poursuite d’infractions et à l’exécution de peines et de mesures en procédant à des échanges d’informations de police avec les BCN d’autres Etats et le Secrétariat général d’Interpol, d’une part, et avec les autorités suisses de poursuite pénale, d’autre part;
+- a. il coopère à la prévention et à la poursuite d’infractions et à l’exécution de peines et de mesures en procédant à des échanges d’informations de police avec les BCN d’autres États et le Secrétariat général d’Interpol, d’une part, et avec les autorités suisses de poursuite pénale, d’autre part;
 - b. il peut traiter et échanger des informations en vue de faciliter la recherche de personnes disparues et l’identification d’inconnus;
 - c. il assure une permanence 24 heures sur 24 pour la réception de toutes les demandes Interpol et leur transmission aux services concernés de fedpol, d’une part, et pour le traitement et la coordination des affaires de police judiciaire urgentes, d’autre part;
 - d. il garantit l’accès au système d’information policière d’Interpol;
@@ -61,7 +61,7 @@ Il assume également les tâches suivantes:
 - g. il participe aux travaux stratégiques et opérationnels d’Interpol et représente la Suisse dans les groupes de travail institués dans ce domaine;
 - h. il délègue auprès du Secrétariat général d’Interpol une ou plusieurs personnes qui auront la qualité d’attachés de police.
 
-<sup>3</sup> Le statut de l’Organisation internationale de police criminelle[^2-1] et le règlement sur le traitement des données (règlement d’Interpol)[^2-2] sont applicables à l’échange d’informations de police entre le BCN et le Secrétariat général d’Interpol, d’une part, ainsi qu’entre le BCN et les BCN d’autres Etats, d’autre part, dans la mesure où ils sont compatibles avec le droit suisse.
+<sup>3</sup> Le statut de l’Organisation internationale de police criminelle[^2-1] et le règlement sur le traitement des données (règlement d’Interpol)[^2-2] sont applicables à l’échange d’informations de police entre le BCN et le Secrétariat général d’Interpol, d’une part, ainsi qu’entre le BCN et les BCN d’autres États, d’autre part, dans la mesure où ils sont compatibles avec le droit suisse.
 
 <sup>4</sup> Dans son activité, le BCN veille à ce que le droit suisse soit respecté, et il prend au besoin les mesures nécessaires à cet effet.
 
@@ -70,9 +70,9 @@ Il assume également les tâches suivantes:
 
 #### Art. 3
 
-**Echange d’informations par l’intermédiaire du système d’information policière d’Interpol**
+**Échange d’informations par l’intermédiaire du système d’information policière d’Interpol**
 
-<sup>1</sup> Le BCN peut procéder à l’échange d’informations avec le Secrétariat général d’Interpol et les BCN d’autres Etats par l’intermédiaire du système d’information policière d’Interpol, et consulter et enregistrer à cet effet des données provenant du système d’information du Secrétariat général.
+<sup>1</sup> Le BCN peut procéder à l’échange d’informations avec le Secrétariat général d’Interpol et les BCN d’autres États par l’intermédiaire du système d’information policière d’Interpol, et consulter et enregistrer à cet effet des données provenant du système d’information du Secrétariat général.
 
 <sup>2</sup> Il peut rendre accessibles en ligne des données relatives à des personnes ou à des objets et les enregistrer directement dans le système d’information policière d’Interpol.
 
@@ -89,7 +89,7 @@ Les autorités suivantes peuvent accéder en ligne aux données du système d’
 - c. les autorités cantonales de police, pour l’accomplissement des tâches qui leur incombent en vertu du code de procédure pénale du 5 octobre 2007 et des lois cantonales sur la police;
 - d. les autorités policières et les autorités douanières de la Confédération, pour l’accomplissement des tâches qui leur incombent en vertu de la loi du 18 mars 2005 sur les douanes[^4-6], et les autorités policières ou douanières des cantons, dans le cadre des tâches qui leur sont assignées par la loi;
 - e. les polices cantonales des étrangers, pour autant qu’elles exercent des tâches de police judiciaire ou de police de sécurité en vertu du droit cantonal;
-- f. le conseiller à la protection des données et des informations de fedpol, pour l’accomplissement de ses tâches de surveillance;
+- f.[^4-7] le conseiller à la protection des données de fedpol, pour l’accomplissement de ses tâches de surveillance;
 - g. les services chargés de la maintenance, pour l’accomplissement de leurs tâches.
 
 <sup>2</sup> Fedpol édicte un règlement de traitement.
@@ -100,10 +100,11 @@ Les autorités suivantes peuvent accéder en ligne aux données du système d’
 [^4-4]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
 [^4-5]: [RS 172.213.1](https://fedlex.data.admin.ch/eli/cc/2000/57)
 [^4-6]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-7]: Nouvelle teneur selon l’annexe 2 ch. II 48 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 5
 
-**Echange d’informations avec les autorités étrangères de poursuite pénale**
+**Échange d’informations avec les autorités étrangères de poursuite pénale**
 
 <sup>1</sup> Le BCN communique aux autorités étrangères de poursuite pénale les informations utiles à la prévention et à la poursuite d’infractions, ou encore à l’exécution de peines et de mesures.
 
@@ -111,7 +112,7 @@ Les autorités suivantes peuvent accéder en ligne aux données du système d’
 
 #### Art. 6
 
-**Echange d’informations avec les autorités cantonales de poursuite pénale**
+**Échange d’informations avec les autorités cantonales de poursuite pénale**
 
 <sup>1</sup> Si, pour la prévention ou la poursuite d’infractions ou pour l’exécution de peines ou de mesures, un canton a besoin d’informations d’une autorité étrangère de poursuite pénale, il peut s’adresser au BCN en le priant de transmettre sa demande de renseignements au BCN du pays concerné ou au Secrétariat général d’Interpol.
 
@@ -140,7 +141,7 @@ Pour prévenir ou élucider des infractions, le BCN peut donner des renseignemen
 
 <sup>2</sup> Le BCN peut, afin de prévenir et d’élucider les vols et les détournements de véhicules, obtenir des informations de personnes morales si l’une des conditions de l’al. 1 est remplie. Déposer plainte équivaut à un consentement.[^8-1]
 
-[^8-1]: Introduit par le ch. II de l’annexe 2 à l’O RIPOL du 26 oct. 2016, en vigueur depuis le 1<sup>er</sup> déc. 2016 ([RO 2016 3931](https://fedlex.data.admin.ch/eli/oc/2016/665)).
+[^8-1]: Introduit par l’annexe 2 ch. II de l’O RIPOL du 26 oct. 2016, en vigueur depuis le 1<sup>er</sup> déc. 2016 ([RO 2016 3931](https://fedlex.data.admin.ch/eli/oc/2016/665)).
 
 #### Art. 9
 
@@ -162,8 +163,8 @@ Pour procéder aux comparaisons avec les avis de recherche, le BCN peut obtenir 
 
 <sup>2</sup> Si le BCN constate qu’un véhicule volé à l’étranger est immatriculé en Suisse, il communique cette information aux autorités étrangères de poursuite pénale qui ont lancé l’avis de recherche.
 
-[^10-1]: Nouvelle teneur selon le ch. II 4 de l’annexe 4 à l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
-[^10-2]: Nouvelle teneur selon le ch. II 4 de l’annexe 4 à l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^10-1]: Nouvelle teneur selon l’annexe 4 ch. II 4 de l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^10-2]: Nouvelle teneur selon l’annexe 4 ch. II 4 de l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
 ## Section 2 Traitement des informations de police
 
@@ -177,17 +178,18 @@ Pour procéder aux comparaisons avec les avis de recherche, le BCN peut obtenir 
 
 <sup>3</sup>
 
-En outre, le BCN informe le Secrétariat général d’Interpol et les BCN d’autres Etats, soit lors de chaque communication de données, soit à l’avance au moyen d’une communication générale pour certaines catégories de données:
+En outre, le BCN informe le Secrétariat général d’Interpol et les BCN d’autres États, soit lors de chaque communication de données, soit à l’avance au moyen d’une communication générale pour certaines catégories de données:
 
 - a. du fait que la communication de données à des services n’ayant pas qualité d’autorités étrangères exerçant des tâches de poursuite pénale ou de police n’est autorisée que cas par cas et avec l’accord exprès du BCN;
 - b. de toutes les autres restrictions de traitement imposées au BCN en vertu de la législation de la Confédération et de celles des cantons.
 
-<sup>4</sup> L’autorisation visée à l’al. 3, let. a, est donnée selon les modalités prévues par le droit suisse. La décision incombe au chef du BCN. Le conseiller à la protection des données et des informations de fedpol est entendu au préalable.
+<sup>4</sup> L’autorisation visée à l’al. 3, let. a, est donnée selon les modalités prévues par le droit suisse. La décision incombe au chef du BCN. Le conseiller à la protection des données de fedpol est entendu au préalable.[^11-2]
 
-<sup>5</sup> Si le BCN envisage de communiquer au pays d’origine ou de provenance les données de requérants d’asile, de réfugiés reconnus ou de personnes nécessitant une protection qui séjournent en Suisse, les exigences prévues à l’art. 2 de l’ordonnance 3 du 11 août 1999 sur l’asile[^11-2] s’appliquent.
+<sup>5</sup> Si le BCN envisage de communiquer au pays d’origine ou de provenance les données de requérants d’asile, de réfugiés reconnus ou de personnes nécessitant une protection qui séjournent en Suisse, les exigences prévues à l’art. 2 de l’ordonnance 3 du 11 août 1999 sur l’asile[^11-3] s’appliquent.
 
 [^11-1]: Cf. note de bas de page se rapportant à l’art. 2, al. 3.
-[^11-2]: [RS 142.314](https://fedlex.data.admin.ch/eli/cc/1999/361)
+[^11-2]: Nouvelle teneur de la phrase selon l’annexe 2 ch. II 48 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^11-3]: [RS 142.314](https://fedlex.data.admin.ch/eli/cc/1999/361)
 
 #### Art. 12
 
@@ -201,11 +203,12 @@ Le BCN est tenu de répondre aux demandes du Secrétariat général d’Interpol
 - b. l’accès de nouveaux services à des données de la Suisse enregistrées auprès du Secrétariat général;
 - c. la consultation et l’enregistrement, par de nouveaux services, de données de la Suisse enregistrées auprès du Secrétariat général.
 
-<sup>2</sup> La décision relative aux demandes visées à l’al. 1, let. b et c, nécessite l’accord du chef du BCN. Le conseiller à la protection des données et des informations de fedpol est entendu au préalable.
+<sup>2</sup> La décision relative aux demandes visées à l’al. 1, let. b et c, nécessite l’accord du chef du BCN. Le conseiller à la protection des données de fedpol est entendu au préalable.[^12-2]
 
 <sup>3</sup> Un service n’est autorisé à accéder à des données de la Suisse enregistrées auprès du Secrétariat général ou à les consulter que si leur communication à ce service est également autorisée.
 
 [^12-1]: Cf. note de bas de page se rapportant à l’art. 2, al. 3.
+[^12-2]: Nouvelle teneur de la phrase selon l’annexe 2 ch. II 48 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 13
 
@@ -237,28 +240,36 @@ Toutes les données dont le BCN n’a plus besoin sont proposées aux Archives f
 
 #### Art. 16
 
-<sup>1</sup> Si une personne souhaite être informée des données la concernant, les faire rectifier ou effacer, elle doit justifier de son identité (copie du passeport ou de la carte d’identité) et adresser une demande écrite au conseiller à la protection des données et des informations de fedpol.
+<sup>1</sup> Si une personne souhaite être informée des données la concernant, elle doit présenter une demande au conseiller à la protection des données de fedpol dans la forme prévue à l’art. 16 de l’ordonnance du 31 août 2022 sur la protection des données[^16-1].[^16-2]
 
-<sup>2</sup> La communication des renseignements est régie par le droit de la collectivité publique (autre Etat, Confédération, canton) dont les autorités mènent ou ont mené l’enquête pénale. Fedpol transmet la requête à l’autorité compétente pour décision.
+<sup>2</sup> La communication des renseignements est régie par le droit de la collectivité publique (autre État, Confédération, canton) dont les autorités mènent ou ont mené l’enquête pénale. Fedpol transmet la requête à l’autorité compétente pour décision.
 
 <sup>3</sup> Si la procédure a été menée par fedpol et qu’elle n’a pas été déléguée à un canton, c’est fedpol qui statue sur la demande.
 
 <sup>4</sup> La communication d’un renseignement peut être refusée si elle risque de compromettre une poursuite pénale, l’exécution d’une peine ou la prévention d’un crime par la police.
 
-<sup>5</sup> Le droit d’accès aux données de recherche est régi par l’ordonnance RIPOL du 15 octobre 2008[^16-1].
+<sup>5</sup> Le droit d’accès aux données de recherche est régi par l’ordonnance RIPOL du 15 octobre 2008[^16-3].
 
-<sup>6</sup> Le droit d’accès aux données d’autorités d’autres Etats est régi par l’art. 18 du règlement d’Interpol[^16-2].
+<sup>6</sup> Le droit d’accès aux données d’autorités d’autres États est régi par l’art. 18 du règlement d’Interpol[^16-4].
 
-[^16-1]: [RS 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
-[^16-2]: Cf. note de bas de page se rapportant à l’art. 2, al. 3.
+<sup>7</sup> L’exercice d’autres droits par la personne concernée est régi par l’art. 41 de la loi fédérale du 25 septembre 2020 sur la protection des données[^16-5].[^16-6]
+
+[^16-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^16-2]: Nouvelle teneur selon l’annexe 2 ch. II 48 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^16-3]: [RS 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
+[^16-4]: Cf. note de bas de page se rapportant à l’art. 2, al. 3.
+[^16-5]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^16-6]: Introduit par l’annexe 2 ch. II 48 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 4 Surveillance et sécurité des données
 
 #### Art. 17
 
-<sup>1</sup> Le conseiller à la protection des données et des informations de fedpol exerce la surveillance du traitement des données personnelles par le BCN.
+<sup>1</sup> Le conseiller à la protection des données de fedpol exerce la surveillance du traitement des données personnelles par le BCN.[^17-1]
 
 <sup>2</sup> Fedpol détermine dans un règlement de traitement les autorisations d’accès aux données et aux locaux de travail, et il veille à ce que ces derniers soient inaccessibles à toute personne non autorisée.
+
+[^17-1]: Nouvelle teneur selon l’annexe 2 ch. II 48 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 5 Dispositions finales
 
@@ -268,7 +279,7 @@ Toutes les données dont le BCN n’a plus besoin sont proposées aux Archives f
 
 L’ordonnance Interpol du 1<sup>er</sup> décembre 1986[^18-1] est abrogée.
 
-[^18-1]: [[RO 1986 2318](https://fedlex.data.admin.ch/eli/oc/1986/2318_2318_2318), [1987 279](https://fedlex.data.admin.ch/eli/oc/1987/279_279_279), [1992 1618](https://fedlex.data.admin.ch/eli/oc/1992/1618_1618_1618)annexe ch. 5, [1993 1962](https://fedlex.data.admin.ch/eli/oc/1993/1962_1962_1962)art. 36 ch. 7, [1996 3097](https://fedlex.data.admin.ch/eli/oc/1996/3097_3097_3097), [1998 1561](https://fedlex.data.admin.ch/eli/oc/1998/1561_1561_1561), [2001 3316](https://fedlex.data.admin.ch/eli/oc/2001/494), [2005 1351](https://fedlex.data.admin.ch/eli/oc/2005/207), [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)I [11](https://fedlex.data.admin.ch/eli/oc/2008/6), [2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)annexe ch. 6]
+[^18-1]: [[RO 1986 2318](https://fedlex.data.admin.ch/eli/oc/1986/2318_2318_2318); [1987 279](https://fedlex.data.admin.ch/eli/oc/1987/279_279_279); [1992 1618](https://fedlex.data.admin.ch/eli/oc/1992/1618_1618_1618)annexe ch. 5; [1993 1962](https://fedlex.data.admin.ch/eli/oc/1993/1962_1962_1962)art. 36 ch. 7; [1996 3097](https://fedlex.data.admin.ch/eli/oc/1996/3097_3097_3097); [1998 1561](https://fedlex.data.admin.ch/eli/oc/1998/1561_1561_1561); [2001 3316](https://fedlex.data.admin.ch/eli/oc/2001/494); [2005 1351](https://fedlex.data.admin.ch/eli/oc/2005/207); [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)I [11](https://fedlex.data.admin.ch/eli/oc/2008/6); [2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)annexe ch. 6]
 
 #### Art. 19
 

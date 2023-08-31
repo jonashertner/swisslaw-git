@@ -3,11 +3,11 @@ sr: "366.1"
 title: "Ordinanza del 21 giugno 2013 sull'Ufficio centrale nazionale Interpol Berna (Ordinanza Interpol)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/466"
 language: it
-version: 2019-01-01
+version: 2023-09-01
 adopted: 2013-06-21
 in_force: 2013-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/466/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2013-466-20190101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/466/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/466/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2013-466-20230901-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/466/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/466/20190101/it"
 
 (Ordinanza Interpol)
 
-del 21 giugno 2013 (Stato 1° gennaio 2019)
+del 21 giugno 2013 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -34,7 +34,7 @@ ordina:
 
 L’Ufficio federale di polizia (fedpol) dirige l’Ufficio centrale nazionale (UCN) a tenore dell’articolo 32 dello Statuto dell’Organizzazione internazionale di polizia criminale[^1-1] (Interpol).
 
-[^1-1]: Statuto dell’Organizzazione internazionale di polizia criminale, entrato in vigore il 13 giugno 1956, nella versione del 7 ottobre 2008 entrata in vigore il 5 dicembre 2008. Lo Statuto è disponibile gratuitamente presso l’Ufficio federale di polizia (fedpol), Nussbaumstrasse 29, 3003 Berna, e può essere consultato sul sito Internet www.fedpol.admin.ch.
+[^1-1]: Statuto dell’Organizzazione internazionale di polizia criminale, entrato in vigore il 13 giugno 1956, nella versione del 7 ottobre 2008 entrata in vigore il 5 dicembre 2008. Lo Statuto è disponibile gratuitamente presso l’Ufficio federale di polizia (fedpol), Nussbaumstrasse 29, 3003 Berna, e può essere consultato sul sito Internet: www.fedpol.admin.ch
 
 #### Art. 2
 
@@ -66,7 +66,7 @@ Adempie inoltre i seguenti compiti:
 <sup>4</sup> Nella sua attività l’UCN è responsabile dell’osservanza del diritto svizzero e adotta, se necessario, i relativi provvedimenti.
 
 [^2-1]: Cfr. nota all’art. 1.
-[^2-2]: Regolamento del 2 novembre 2011 sul trattamento dei dati, entrato in vigore il 1° luglio 2012. Il regolamento è disponibile gratuitamente presso l’Ufficio federale di polizia (fedpol), Nussbaumstrasse 29, 3003 Berna e può essere consultato sul sito Internet www.fedpol.admin.ch.
+[^2-2]: Regolamento del 2 novembre 2011 sul trattamento dei dati, entrato in vigore il 1° luglio 2012. Il regolamento è disponibile gratuitamente presso l’Ufficio federale di polizia (fedpol), Nussbaumstrasse 29, 3003 Berna e può essere consultato sul sito Internet: www.fedpol.admin.ch
 
 #### Art. 3
 
@@ -89,7 +89,7 @@ Le autorità seguenti possono accedere ai dati del sistema d’informazione di p
 - c. le autorità cantonali di polizia, per adempiere i compiti loro assegnati dal Codice di procedura penale e dalle leggi cantonali in materia di polizia;
 - d. le autorità doganali e di confine della Confederazione, per adempiere i compiti loro assegnati dalla legge del 18 marzo 2005[^4-6] sulle dogane, nonché le autorità doganali e di confine dei Cantoni, nell’ambito dei compiti loro assegnati dalla legge;
 - e. le polizie cantonali degli stranieri, per quanto adempiano compiti di polizia giudiziaria e di sicurezza conformemente al diritto cantonale;
-- f. il consulente per la protezione dei dati e delle informazioni presso fedpol, per adempiere i suoi compiti di controllo;
+- f.[^4-7] il consulente per la protezione dei dati di fedpol, per adempiere i suoi compiti di controllo;
 - g. i servizi incaricati della manutenzione informatica, per adempiere i loro compiti.
 
 <sup>2</sup> Fedpol emana un regolamento sul trattamento dei dati.
@@ -100,6 +100,7 @@ Le autorità seguenti possono accedere ai dati del sistema d’informazione di p
 [^4-4]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
 [^4-5]: [RS 172.213.1](https://fedlex.data.admin.ch/eli/cc/2000/57)
 [^4-6]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-7]: Nuovo testo giusta l’all. 2 n. II 48 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 5
 
@@ -140,7 +141,7 @@ L’UCN può, per la prevenzione e il chiarimento di reati, ragguagliare persone
 
 <sup>2</sup> Allo scopo di prevenire e chiarire furti e sottrazioni di veicoli, l’UCN può chiedere informazioni a persone giuridiche se è adempiuto uno dei requisiti di cui al capoverso 1. La presentazione di una denuncia equivale in ogni caso a un’approvazione.[^8-1]
 
-[^8-1]: Introdotto dal n. II dell’all. 2 all’O RIPOL del 26 ott. 2016, in vigore dal 1° dic. 2016 ([RU 2016 3931](https://fedlex.data.admin.ch/eli/oc/2016/665)).
+[^8-1]: Introdotto dall’all. 2 n. II dell’O RIPOL del 26 ott. 2016, in vigore dal 1° dic. 2016 ([RU 2016 3931](https://fedlex.data.admin.ch/eli/oc/2016/665)).
 
 #### Art. 9
 
@@ -162,8 +163,8 @@ Per procedere a confronti con gli avvisi di ricerca, l’UCN può consultare i s
 
 <sup>2</sup> Se accerta che un veicolo rubato all’estero è immatricolato in Svizzera, l’UCN lo comunica alle autorità estere di perseguimento penale che hanno segnalato la ricerca.
 
-[^10-1]: Nuovo testo giusta il n. II 4 dell’all. 4 all’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
-[^10-2]: Nuovo testo giusta il n. II 4 dell’all. 4 all’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^10-1]: Nuovo testo giusta l’all. 4 n. II 4 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^10-2]: Nuovo testo giusta l’all. 4 n. II 4 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
 ## Sezione 2: Trattamento delle informazioni di polizia
 
@@ -182,12 +183,13 @@ Inoltre, a ogni comunicazione di dati o per determinate categorie di dati, l’U
 - a. che la trasmissione di dati ad altre autorità diverse dalle autorità estere con compiti di perseguimento penale e di polizia è autorizzata nel singolo caso solo con l’approvazione esplicita dell’UCN;
 - b. di tutte le altre restrizioni di trattamento, imposte all’UCN conformemente alla legislazione federale o cantonale.
 
-<sup>4</sup> L’autorizzazione ai sensi del capoverso 3 lettera a avviene conformemente al diritto svizzero. È competente il capo dell’UCN. Il consulente per la protezione dei dati e delle informazioni presso fedpol deve essere previamente consultato.
+<sup>4</sup> L’autorizzazione ai sensi del capoverso 3 lettera a avviene conformemente al diritto svizzero. È competente il capo dell’UCN. Il consulente per la protezione dei dati di fedpol deve essere previamente consultato.[^11-2]
 
-<sup>5</sup> Se l’UCN intende comunicare al Paese d’origine o di provenienza dati di richiedenti l’asilo, rifugiati riconosciuti e persone bisognose di protezione che si trovano in Svizzera, si applicano le condizioni di cui all’articolo 2 dell’ordinanza 3 dell’11 agosto 1999[^11-2] sull’asilo.
+<sup>5</sup> Se l’UCN intende comunicare al Paese d’origine o di provenienza dati di richiedenti l’asilo, rifugiati riconosciuti e persone bisognose di protezione che si trovano in Svizzera, si applicano le condizioni di cui all’articolo 2 dell’ordinanza 3 dell’11 agosto 1999[^11-3] sull’asilo.
 
 [^11-1]: Cfr. nota all’art. 2 cpv. 3.
-[^11-2]: [RS 142.314](https://fedlex.data.admin.ch/eli/cc/1999/361)
+[^11-2]: Nuovo testo del per. giusta l’all. 2 n. II 48 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^11-3]: [RS 142.314](https://fedlex.data.admin.ch/eli/cc/1999/361)
 
 #### Art. 12
 
@@ -201,11 +203,12 @@ L’UCN risponde alle domande del Segretariato generale di Interpol conformement
 - b. l’accesso da parte di nuovi uffici a dati della Svizzera registrati presso il Segretariato generale;
 - c. la consultazione e la registrazione, da parte di nuovi uffici, di dati della Svizzera registrati presso il Segretariato generale.
 
-<sup>2</sup> La decisione concernente richieste ai sensi del capoverso 1 lettere b e c necessita dell’autorizzazione del capo dell’UCN. Il consulente per la protezione dei dati e delle informazioni presso fedpol deve essere previamente consultato.
+<sup>2</sup> La decisione concernente richieste ai sensi del capoverso 1 lettere b e c necessita dell’autorizzazione del capo dell’UCN. Il consulente per la protezione dei dati di fedpol deve essere previamente consultato.[^12-2]
 
 <sup>3</sup> L’accesso a dati della Svizzera registrati presso il Segretariato generale, o la loro consultazione, è permesso a un ufficio solo se anche la trasmissione dei dati ad esso sarebbe ammessa.
 
 [^12-1]: Cfr. nota all’art. 2 cpv. 3.
+[^12-2]: Nuovo testo del per. giusta l’all. 2 n. II 48 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 13
 
@@ -237,7 +240,7 @@ Tutti i dati di cui l’UCN non ha più bisogno sono offerti all’Archivio fede
 
 #### Art. 16
 
-<sup>1</sup> Chi intende richiedere informazioni su dati che la concernono, farli rettificare o cancellare, deve comprovare la propria identità (copia del passaporto o della carta d’identità) e presentare una richiesta scritta al consulente per la protezione dei dati e delle informazioni di fedpol.
+<sup>1</sup> Chi intende richiedere informazioni su dati che lo concernono deve presentare al consulente per la protezione dei dati di fedpol una domanda nella forma prevista dall’articolo 16 dell’ordinanza del 31 agosto 2022[^16-1] sulla protezione dei dati.[^16-2]
 
 <sup>2</sup> Le informazioni sono fornite giusta il diritto dell’ente pubblico (Stato estero, Confederazione, Cantone) le cui autorità stanno istruendo o hanno istruito la causa penale. Fedpol inoltra la richiesta per decisione all’autorità competente.
 
@@ -245,20 +248,28 @@ Tutti i dati di cui l’UCN non ha più bisogno sono offerti all’Archivio fede
 
 <sup>4</sup> La richiesta può essere rifiutata per quanto lo richiedano gli interessi del procedimento penale, dell’esecuzione della pena o la prevenzione della criminalità da parte della polizia.
 
-<sup>5</sup> Le informazioni circa i dati segnaletici sono fornite conformemente all’ordinanza RIPOL del 15 ottobre 2008[^16-1].
+<sup>5</sup> Le informazioni circa i dati segnaletici sono fornite conformemente all’ordinanza RIPOL del 15 ottobre 2008[^16-3].
 
-<sup>6</sup> Le informazioni circa i dati di autorità di altri Stati sono fornite conformemente all’articolo 18 del Regolamento Interpol[^16-2].
+<sup>6</sup> Le informazioni circa i dati di autorità di altri Stati sono fornite conformemente all’articolo 18 del Regolamento Interpol[^16-4].
 
-[^16-1]: [RS 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
-[^16-2]: Cfr. nota all’art. 2 cpv. 3.
+<sup>7</sup> La pretesa di altri diritti della persona interessata è retta dall’articolo 41 della legge federale del 25 settembre 2020[^16-5] sulla protezione dei dati.[^16-6]
+
+[^16-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^16-2]: Nuovo testo giusta l’all. 2 n. II 48 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^16-3]: [RS 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
+[^16-4]: Cfr. nota all’art. 2 cpv. 3.
+[^16-5]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^16-6]: Introdotto dall’all. 2 n. II 48 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 4: Vigilanza e sicurezza dei dati
 
 #### Art. 17
 
-<sup>1</sup> Il consulente per la protezione dei dati e delle informazioni presso fedpol vigila sul trattamento dei dati personali presso l’UCN.
+<sup>1</sup> Il consulente per la protezione dei dati di fedpol vigila sul trattamento dei dati personali presso l’UCN.[^17-1]
 
 <sup>2</sup> Fedpol disciplina il diritto di disporre e di accedere ai dati in un regolamento sul trattamento dei dati e provvede affinché i locali di lavoro siano inaccessibili alle persone non autorizzate.
+
+[^17-1]: Nuovo testo giusta l’all. 2 n. II 48 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 5: Disposizioni finali
 
@@ -268,7 +279,7 @@ Tutti i dati di cui l’UCN non ha più bisogno sono offerti all’Archivio fede
 
 L’ordinanza Interpol del 1° dicembre 1986[^18-1] è abrogata.
 
-[^18-1]: [[RU 1986 2318](https://fedlex.data.admin.ch/eli/oc/1986/2318_2318_2318), [1987 279](https://fedlex.data.admin.ch/eli/oc/1987/279_279_279), [1992 1618](https://fedlex.data.admin.ch/eli/oc/1992/1618_1618_1618)all. n. 5, [1993 1962](https://fedlex.data.admin.ch/eli/oc/1993/1962_1962_1962)art. 36 n. 7, [1996 3097](https://fedlex.data.admin.ch/eli/oc/1996/3097_3097_3097), [1998 1561](https://fedlex.data.admin.ch/eli/oc/1998/1561_1561_1561), [2001 3316](https://fedlex.data.admin.ch/eli/oc/2001/494), [2005 1351](https://fedlex.data.admin.ch/eli/oc/2005/207), [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)I [11](https://fedlex.data.admin.ch/eli/oc/2008/6), [2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)all. n. 6]
+[^18-1]: [[RU 1986 2318](https://fedlex.data.admin.ch/eli/oc/1986/2318_2318_2318); [1987 279](https://fedlex.data.admin.ch/eli/oc/1987/279_279_279); [1992 1618](https://fedlex.data.admin.ch/eli/oc/1992/1618_1618_1618)all. n. 5; [1993 1962](https://fedlex.data.admin.ch/eli/oc/1993/1962_1962_1962)art. 36 n. 7; [1996 3097](https://fedlex.data.admin.ch/eli/oc/1996/3097_3097_3097); [1998 1561](https://fedlex.data.admin.ch/eli/oc/1998/1561_1561_1561); [2001 3316](https://fedlex.data.admin.ch/eli/oc/2001/494); [2005 1351](https://fedlex.data.admin.ch/eli/oc/2005/207); [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)I [11](https://fedlex.data.admin.ch/eli/oc/2008/6); [2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)all. n. 6]
 
 #### Art. 19
 
