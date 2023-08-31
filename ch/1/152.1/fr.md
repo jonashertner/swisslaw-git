@@ -4,11 +4,11 @@ title: "Loi fédérale du 26 juin 1998 sur l'archivage (LAr)"
 short: LAr
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/354"
 language: fr
-version: 2013-05-01
+version: 2023-09-01
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/354/20130501/fr/xml/fedlex-data-admin-ch-eli-cc-1999-354-20130501-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/354/20130501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/354/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1999-354-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/354/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/354/20130501/fr"
 
 (LAr)
 
-du 26 juin 1998 (Etat le 1<sup>er</sup> mai 2013)
+du 26 juin 1998 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -151,11 +151,13 @@ En règle générale, le délai de protection court à partir de la date du dern
 
 **Prolongation du délai de protection pour les données personnelles**
 
-<sup>1</sup> Les archives classées selon des noms de personnes et contenant des données personnelles sensibles ou des profils de la personnalité sont soumises à un délai de protection de 50 ans à moins que la personne concernée n’en ait autorisé la consultation.
+<sup>1</sup> Les archives classées selon des noms de personnes et contenant des données sensibles sont soumises à un délai de protection de 50 ans à moins que la personne concernée n’en ait autorisé la consultation.[^11-1]
 
 <sup>2</sup> Le délai de protection prolongé expire trois ans après le décès de la personne concernée. L’art. 12 est réservé.
 
 <sup>3</sup> Le département compétent peut autoriser la consultation de documents pendant le délai de protection prolongé, en l’assortissant de certaines charges, si les recherches ne portent pas expressément sur des personnes.
+
+[^11-1]: Nouvelle teneur selon l’annexe 1 ch. II 9 de la LF du 25 sept. 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 12
 
@@ -203,15 +205,17 @@ Lorsqu’il s’agit de données personnelles, les services qui ont versé des d
 
 #### Art. 15
 
-**Renseignements donnés aux personnes concernées et contestation**
+**Renseignements et contestation[^15-1]**
 
-<sup>1</sup> La communication de renseignements aux personnes concernées et le droit d’accès de celles-ci aux archives sont régis par les dispositions de la loi fédérale du 19 juin 1992 sur la protection des données[^15-1]. Il appartient au service versant de prononcer la décision de refus.
+<sup>1</sup> La communication de renseignements aux personnes concernées et le droit d’accès de celles-ci aux archives sont régis par les dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données[^15-2]. Il appartient au service versant de prononcer la décision de refus.[^15-3]
 
 <sup>2</sup> Les Archives fédérales peuvent en outre différer ou restreindre la communication de renseignements lorsqu’elle est incompatible avec une gestion administrative rationnelle.
 
 <sup>3</sup> Les personnes concernées ne peuvent pas exiger la destruction ni la rectification de données; elles ne peuvent qu’en faire mentionner le caractère litigieux ou inexact.
 
-[^15-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^15-1]: Nouvelle teneur selon l’annexe 1 ch. II 9 de la LF du 25 sept. 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^15-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^15-3]: Nouvelle teneur selon l’annexe 1 ch. II 9 de la LF du 25 sept. 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 16
 
@@ -297,7 +301,7 @@ Quiconque dévoile des informations tirées des archives soumises au délai de p
 
 **Modifications du droit en vigueur**
 
-…*[^25-1]*
+…[^25-1]
 
 [^25-1]: La mod. peut être consultée au [RO 1999 2243](https://fedlex.data.admin.ch/eli/oc/1999/354).
 
@@ -309,7 +313,7 @@ Quiconque dévoile des informations tirées des archives soumises au délai de p
 
 <sup>2</sup> Les documents au sens de l’arrêté ne peuvent plus être consultés par l’administration pendant 50 ans à partir de la date du dernier document d’une affaire ou d’un dossier.
 
-[^26-1]: [[RO 1993 375](https://fedlex.data.admin.ch/eli/oc/1993/375_375_375), [1995 4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)annexe ch. 3. [RO 2001 189](https://fedlex.data.admin.ch/eli/oc/2001/45)art. 1]
+[^26-1]: [[RO 1993 375](https://fedlex.data.admin.ch/eli/oc/1993/375_375_375); [1995 4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)annexe ch. 3. [RO 2001 189](https://fedlex.data.admin.ch/eli/oc/2001/45)art. 1]
 
 #### Art. 27
 

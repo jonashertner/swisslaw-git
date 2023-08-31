@@ -4,11 +4,11 @@ title: "Legge federale del 26 giugno 1998 sull'archiviazione (Legge sull'archivi
 short: LAr
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/354"
 language: it
-version: 2013-05-01
+version: 2023-09-01
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/354/20130501/it/xml/fedlex-data-admin-ch-eli-cc-1999-354-20130501-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/354/20130501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/354/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1999-354-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/354/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/354/20130501/it"
 
 (Legge sull’archiviazione, LAr)
 
-del 26 giugno 1998 (Stato 1° maggio 2013) (Stato 1° maggio 2013)
+del 26 giugno 1998 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -151,11 +151,13 @@ Il termine di protezione decorre di regola dalla data dell’ultimo documento di
 
 **Proroga del termine di protezione per i dati personali**
 
-<sup>1</sup> Gli archivi classificati in base a nomi di persona e contenenti dati personali degni di particolare protezione o profili della personalità sono soggetti ad un termine di protezione di 50 anni, salvo che la persona interessata ne abbia autorizzato la consultazione.
+<sup>1</sup> Gli archivi classificati in base a nomi di persona e contenenti dati personali degni di particolare protezione sono soggetti a un termine di protezione di 50 anni, salvo che la persona interessata ne abbia autorizzato la consultazione.[^11-1]
 
 <sup>2</sup> Il termine di protezione prorogato si estingue tre anni dopo la morte della persona interessata. È fatto salvo l’articolo 12.
 
 <sup>3</sup> Nel caso di ricerche che non si riferiscono espressamente a persone il dipartimento competente può autorizzare la consultazione durante la proroga del termine di protezione e limitarla per mezzo dell’imposizione di determinati oneri.
+
+[^11-1]: Nuovo testo giusta l’all. 1 n. II 9 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 12
 
@@ -203,15 +205,17 @@ Nel caso di dati personali i servizi mittenti possono, durante il termine di pro
 
 #### Art. 15
 
-**Informazioni destinate alle persone interessate; contestazione**
+**Informazioni e contestazione[^15-1]**
 
-<sup>1</sup> La comunicazione di informazioni e la concessione della consultazione alle persone interessate sono disciplinate dalle disposizioni della legge federale del 19 giugno 1992[^15-1] sulla protezione dei dati. I servizi mittenti decidono in merito al rifiuto di fornire informazioni.
+<sup>1</sup> La fornitura di informazioni e la concessione della consultazione alle persone interessate sono rette dalle disposizioni della legge federale del 25 settembre 2020[^15-2] sulla protezione dei dati. I servizi mittenti decidono in merito al rifiuto dell’informazione o della consultazione.[^15-3]
 
 <sup>2</sup> L’Archivio federale può inoltre differire o limitare la comunicazione di informazioni qualora essa sia incompatibile con una gestione amministrativa razionale.
 
 <sup>3</sup> Le persone interessate non possono esigere la distruzione o la rettifica di dati; devono limitarsi a segnalarne il carattere litigioso o l’inesattezza.
 
-[^15-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^15-1]: Nuovo testo giusta l’all. 1 n. II 9 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^15-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^15-3]: Nuovo testo giusta l’all. 1 n. II 9 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 16
 

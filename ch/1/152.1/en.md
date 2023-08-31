@@ -4,11 +4,11 @@ title: "Federal Act of 26 June 1998 on Archiving (Archiving Act, ArchA)"
 short: ArchA
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/354"
 language: en
-version: 2013-05-01
+version: 2023-09-01
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/354/20130501/en/xml/fedlex-data-admin-ch-eli-cc-1999-354-20130501-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/354/20130501/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/354/20230901/en/xml/fedlex-data-admin-ch-eli-cc-1999-354-20230901-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/354/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Archiving Act, ArchA)
 
-of 26 June 1998 (Status as of 1 May 2013)
+of 26 June 1998 (Status as of 1 September 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -155,11 +155,13 @@ The retention period normally begins on the date of the most recent document of 
 
 **Extended retention period for personal data**
 
-<sup>1</sup> Archive records that are classified according to the names of people and which contain sensitive personal data or personality profiles are subject to a retention period of 50 years, unless the person concerned has consented to their consultation.
+<sup>1</sup> Archive records that are classified according to the names of people and which contain sensitive personal data are subject to a retention period of 50 years, unless the person concerned has consented to their consultation.[^11-1]
 
 <sup>2</sup> The extended retention period ends three years after the death of the person concerned, subject to the provisions of Article 12.
 
 <sup>3</sup> Consultation for the purpose of research not related to specific persons may be permitted during the extended retention period by the department responsible, subject to the imposition of restrictive conditions.
+
+[^11-1]: Amended by Annex 1 No II 9 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 12
 
@@ -207,15 +209,17 @@ In the case of personal data, the bodies delivering the records may consult the 
 
 #### Art. 15
 
-**Information to persons concerned; Contesting information**
+**Information and contesting information[^15-1]**
 
-<sup>1</sup> The provision of information and granting permission to consult records to the persons concerned are governed by the provisions of the Federal Act of 19 June 1992[^15-1] on Data Protection. Refusals of information are issued by the bodies delivering the records.
+<sup>1</sup> The provision of information and granting permission to consult records to the persons concerned are governed by the provisions of the Data Protection Act of 25 September 2020[^15-2]. Rulings on refusals of information and permission to consult records are issued by the bodies delivering the records.[^15-3]
 
 <sup>2</sup> The Federal Archives may in addition defer or restrict the provision of information if such provision is not compatible with the efficient management of administrative activities.
 
 <sup>3</sup> The persons concerned may not request the destruction or correction of data; they may merely have the records annotated to the effect that the data is disputed or incorrect.
 
-[^15-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^15-1]: Amended by Annex 1 No II 9 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^15-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^15-3]: Amended by Annex 1 No II 9 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 16
 
@@ -311,7 +315,7 @@ Anyone who publishes information from archive records that is subject to the ret
 
 <sup>2</sup> Documents within the meaning of the Federal Decree may not be consulted by the federal administration for 50 years from the date of the most recent documents of a case or file.
 
-[^26-1]: [[AS 1993 375](https://fedlex.data.admin.ch/eli/oc/1993/375_375_375), [1995 4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)annex 1 No 3. [AS 2001 189](https://fedlex.data.admin.ch/eli/oc/2001/45)Art. 1]
+[^26-1]: [[AS 1993 375](https://fedlex.data.admin.ch/eli/oc/1993/375_375_375), [1995 4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Annex 1 No 3. [AS 2001 189](https://fedlex.data.admin.ch/eli/oc/2001/45)Art. 1]
 
 #### Art. 27
 

@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 26. Juni 1998 über die Archivierung (Archivierungsgese
 short: BGA
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/354"
 language: de
-version: 2013-05-01
+version: 2023-09-01
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/354/20130501/de/xml/fedlex-data-admin-ch-eli-cc-1999-354-20130501-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/354/20130501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/354/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1999-354-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/354/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/354/20130501/de"
 
 (Archivierungsgesetz, BGA)
 
-vom 26. Juni 1998 (Stand am 1. Mai 2013)
+vom 26. Juni 1998 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -153,11 +153,13 @@ Die Schutzfrist beginnt in der Regel mit dem Datum des jüngsten Dokuments eines
 
 **Verlängerte Schutzfrist für Personendaten**
 
-<sup>1</sup> Archivgut, das nach Personennamen erschlossen ist und besonders schützenswerte Personendaten oder Persönlichkeitsprofile enthält, unterliegt einer Schutzfrist von 50 Jahren, es sei denn, die betroffene Person habe einer Einsichtnahme zugestimmt.
+<sup>1</sup> Archivgut, das nach Personennamen erschlossen ist und besonders schützenswerte Personendaten enthält, unterliegt einer Schutzfrist von 50 Jahren, es sei denn, die betroffene Person habe einer Einsichtnahme zugestimmt.[^11-1]
 
 <sup>2</sup> Die verlängerte Schutzfrist endet drei Jahre nach dem Tod der betroffenen Person. Vorbehalten bleibt Artikel 12.
 
 <sup>3</sup> Für nicht-personenbezogene Nachforschungen kann die Einsichtnahme während der verlängerten Schutzfrist vom zuständigen Departement gestattet und durch Auflagen beschränkt werden.
+
+[^11-1]: Fassung gemäss Anhang 1 Ziff. II 9 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 12
 
@@ -205,15 +207,17 @@ Bei Personendaten können die abliefernden Stellen während der Schutzfrist in d
 
 #### Art. 15
 
-**Auskunft an betroffene Personen; Bestreitungsvermerk**
+**Auskunft und Bestreitungsvermerk[^15-1]**
 
-<sup>1</sup> Die Auskunfterteilung und Einsichtgewährung an die betroffenen Personen richten sich nach den Bestimmungen des Bundesgesetzes vom 19. Juni 1992[^15-1] über den Datenschutz. Auskunftverweigerungen werden durch die abliefernden Stellen verfügt.
+<sup>1</sup> Die Auskunfterteilung und Einsichtgewährung an die betroffenen Personen richten sich nach den Bestimmungen des Datenschutzgesetzes vom 25. September 2020[^15-2]. Auskunfts- und Einsichtsverweigerungen werden durch die abliefernden Stellen verfügt.[^15-3]
 
 <sup>2</sup> Das Bundesarchiv kann zudem die Auskunfterteilung aufschieben oder einschränken, wenn sie mit einer rationellen Verwaltungsführung nicht vereinbar ist.
 
 <sup>3</sup> Die betroffenen Personen können keine Vernichtung oder Berichtigung von Daten verlangen, sondern lediglich deren strittigen oder unrichtigen Charakter vermerken lassen.
 
-[^15-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^15-1]: Fassung gemäss Anhang 1 Ziff. II 9 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^15-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^15-3]: Fassung gemäss Anhang 1 Ziff. II 9 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 16
 
@@ -297,7 +301,7 @@ Wer Informationen aus Archivgut offenbart, das der Schutzfrist unterliegt oder a
 
 **Änderung bisherigen Rechts**
 
-…*[^25-1]*
+…[^25-1]
 
 [^25-1]: Die Änderung kann unter [AS 1999 2243](https://fedlex.data.admin.ch/eli/oc/1999/354)konsultiert werden.
 
@@ -309,7 +313,7 @@ Wer Informationen aus Archivgut offenbart, das der Schutzfrist unterliegt oder a
 
 <sup>2</sup> Die Unterlagen gemäss dem Bundesbeschluss bleiben während 50 Jahren ab dem Datum des jüngsten Dokuments eines Geschäftes oder eines Dossiers für die Einsichtnahme durch die Verwaltung gesperrt.
 
-[^26-1]: [[AS 1993 375](https://fedlex.data.admin.ch/eli/oc/1993/375_375_375), [1995 4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Anhang Ziff. 3. [AS 2001 189](https://fedlex.data.admin.ch/eli/oc/2001/45)Art. 1]
+[^26-1]: [[AS 1993 375](https://fedlex.data.admin.ch/eli/oc/1993/375_375_375); [1995 4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Anhang Ziff. 3. [AS 2001 189](https://fedlex.data.admin.ch/eli/oc/2001/45)Art. 1]
 
 #### Art. 27
 
