@@ -4,11 +4,11 @@ title: Bundesgesetz vom 19. Juni 2015 über die Informationssysteme des Bundes i
 short: IBSG
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/596"
 language: de
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2015-06-19
 in_force: 2016-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/596/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2016-596-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/596/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/596/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2016-596-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/596/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/596/20220101/de"
 
 (IBSG)
 
-vom 19. Juni 2015 (Stand am 1. Januar 2022)
+vom 19. Juni 2015 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -34,15 +34,16 @@ beschliesst:
 
 <sup>1</sup>
 
-Dieses Gesetz regelt die Bearbeitung von Personendaten (Daten), einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, in den Informationssystemen des Bundesamtes für Sport (BASPO) durch:
+Dieses Gesetz regelt die Bearbeitung von Personendaten (Daten), einschliesslich besonders schützenswerter Personendaten, in den Informationssystemen des Bundesamtes für Sport (BASPO) durch:[^1-1]
 
 - a. Behörden des Bundes, der Kantone und der Gemeinden;
-- b. nationale Sport- und Jugendverbände sowie deren Mitglied- und Unterorganisationen, soweit sie nach dem Sportförderungsgesetz vom 17. Juni 2011[^1-1] (SpoFöG) direkt oder indirekt unterstützt werden;
+- b. nationale Sport- und Jugendverbände sowie deren Mitglied- und Unterorganisationen, soweit sie nach dem Sportförderungsgesetz vom 17. Juni 2011[^1-2] (SpoFöG) direkt oder indirekt unterstützt werden;
 - c. Dritte, die Aufgaben im Zusammenhang mit der Sportförderung des Bundes erfüllen.
 
 <sup>2</sup> Es regelt zudem die Bearbeitung von Daten im Informationssystem der nationalen Agentur zur Bekämpfung von Doping.
 
-[^1-1]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^1-1]: Fassung gemäss Anhang 1 Ziff. II 34 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^1-2]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
 
 ## 2. Abschnitt: Allgemeine Bestimmungen für die Informationssysteme des BASPO
 
@@ -55,7 +56,7 @@ Dieses Gesetz regelt die Bearbeitung von Personendaten (Daten), einschliesslich 
 Die in Artikel 1 Absatz 1 genannten Stellen und Personen dürfen zur Erfüllung der Aufgaben, die dem Vollzug des SpoFöG[^2-1] dienen:
 
 - a. Daten bearbeiten und durch ein Abrufverfahren zugänglich machen, soweit es dieses Gesetz oder ein anderes Bundesgesetz ausdrücklich vorsieht;
-- b.[^2-2] ...
+- b.[^2-2] …
 - c. Daten in elektronischer Form bekannt geben, sofern ein angemessener Schutz gegen unbefugten Zugriff und unbefugtes Bearbeiten gewährleistet ist.
 
 <sup>2</sup> Die Stellen und Personen, bei denen Daten beschafft werden dürfen, sind zur unentgeltlichen Bekanntgabe verpflichtet.
@@ -77,9 +78,9 @@ Das BASPO ist für die Sicherheit der Informationssysteme und die Rechtmässigke
 
 #### Art. 4
 
-**Datenbearbeitung für Arbeiten an den Informationssystemen**
+[^4-1]
 
-Die mit Wartungs-, Unterhalts- oder Programmieraufgaben betrauten Personen dürfen Daten in den Informationssystemen nur bearbeiten, wenn dies zur Erfüllung ihrer Aufgaben erforderlich ist und die Datensicherheit gewährleistet ist. Die Daten dürfen dabei inhaltlich nicht verändert werden.
+[^4-1]: Aufgehoben durch Anhang 1 Ziff. II 34 des Datenschutzgesetzes vom 25. Sept. 2020, mit Wirkung seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 5
 
@@ -126,18 +127,19 @@ Das nationale Informationssystem für Sport dient den Behörden, Organisationen 
 
 **Daten**
 
-Das nationale Informationssystem für Sport enthält alle Personendaten und Informationen, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, die zur Erfüllung der Aufgaben in den Bereichen nach Artikel 8 notwendig sind, insbesondere:
+Das nationale Informationssystem für Sport enthält alle Personendaten und Informationen, einschliesslich besonders schützenswerter Personendaten, die zur Erfüllung der Aufgaben in den Bereichen nach Artikel 8 notwendig sind, insbesondere:[^9-1]
 
 - a. Personalien;
-- b. AHV-Nummer[^9-1];
+- b. AHV-Nummer[^9-2];
 - c. Hinweise über Aktivitäten, Funktionen und die Zugehörigkeit zu Leistungsgruppen;
 - d. Qualifikationen und Anerkennungen als Sportleiterin oder Sportleiter sowie deren Sistierung, Entzug oder Wegfall;
-- e. Daten nach Artikel 10 SpoFöG[^9-2], soweit sie zur Begründung eines Entscheids betreffend Erteilung, Sistierung oder Entzug von Anerkennungen als «Jugend und Sport»-Kader oder als Kader im Programm «Erwachsenensport Schweiz» erforderlich sind;
+- e. Daten nach Artikel 10 SpoFöG[^9-3], soweit sie zur Begründung eines Entscheids betreffend Erteilung, Sistierung oder Entzug von Anerkennungen als «Jugend und Sport»-Kader oder als Kader im Programm «Erwachsenensport Schweiz» erforderlich sind;
 - f. Angaben über Untersuchungen und die Verhängung von Massnahmen im Zusammenhang mit Verstössen gegen Bestimmungen des fairen und sicheren Sports;
 - g. freiwillig gemachte Angaben.
 
-[^9-1]: Ausdruck gemäss Anhang Ziff. 10 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
-[^9-2]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^9-1]: Fassung gemäss Anhang 1 Ziff. II 34 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^9-2]: Ausdruck gemäss Anhang Ziff. 10 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
+[^9-3]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
 
 #### Art. 10
 
@@ -193,13 +195,15 @@ Das Informationssystem für medizinische Daten dient der Gewährleistung des Arz
 
 **Daten**
 
-Das Informationssystem für medizinische Daten enthält alle Personendaten und Informationen, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, die zur Erfüllung der Aufgaben nach Artikel 13 notwendig sind, insbesondere:
+Das Informationssystem für medizinische Daten enthält alle Personendaten und Informationen, einschliesslich besonders schützenswerter Personendaten, die zur Erfüllung der Aufgaben nach Artikel 13 notwendig sind, insbesondere:[^14-1]
 
 - a. Personalien;
 - b. Daten über den Gesundheitszustand;
 - c. Zeugnisse und Gutachten von Fachpersonen;
 - d. Daten, die der Geschäftskontrolle dienen;
 - e. Daten, die freiwillig gemeldet werden.
+
+[^14-1]: Fassung gemäss Anhang 1 Ziff. II 34 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 15
 
@@ -236,13 +240,15 @@ Das Informationssystem für leistungsdiagnostische Daten unterstützt die Durchf
 
 **Daten**
 
-Das Informationssystem für leistungsdiagnostische Daten enthält alle Personendaten und Informationen, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, die zur Erfüllung der Aufgaben nach Artikel 17 notwendig sind, insbesondere:
+Das Informationssystem für leistungsdiagnostische Daten enthält alle Personendaten und Informationen, einschliesslich besonders schützenswerter Personendaten, die zur Erfüllung der Aufgaben nach Artikel 17 notwendig sind, insbesondere:[^18-1]
 
 - a. Personalien;
 - b. Daten der Leistungsdiagnostik;
 - c. psychologische Daten, einschliesslich Daten zur Persönlichkeit, Motivation, Befindlichkeit und Bewältigung von Herausforderungen;
 - d. Daten über den Gesundheitszustand;
 - e. Daten, die freiwillig gemeldet werden.
+
+[^18-1]: Fassung gemäss Anhang 1 Ziff. II 34 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 19
 
@@ -288,7 +294,7 @@ Das Informationssystem der Eidgenössischen Hochschule für Sport Magglingen (EH
 
 **Daten**
 
-Das Informationssystem der EHSM enthält alle Personendaten und Informationen, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, die zur Erfüllung der Aufgaben nach Artikel 21 notwendig sind, insbesondere:
+Das Informationssystem der EHSM enthält alle Personendaten und Informationen, einschliesslich besonders schützenswerter Personendaten, die zur Erfüllung der Aufgaben nach Artikel 21 notwendig sind, insbesondere:[^22-1]
 
 - a.
 
@@ -315,6 +321,8 @@ Das Informationssystem der EHSM enthält alle Personendaten und Informationen, e
   - 8\. Disziplinarentscheide,
   - 9\. Beurteilungen von Kompetenznachweisen,
   - 10\. Abschlussqualifikationen.
+
+[^22-1]: Fassung gemäss Anhang 1 Ziff. II 34 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 23
 
@@ -348,7 +356,7 @@ Das Informationssystem zur Kursevaluation dient dem BASPO zur Evaluation von Kur
 
 **Daten**
 
-Das Informationssystem zur Kursevaluation enthält alle Personendaten und Informationen, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, die für die Evaluation der Kurse und Lehrveranstaltungen notwendig sind, insbesondere:
+Das Informationssystem zur Kursevaluation enthält alle Personendaten und Informationen, einschliesslich besonders schützenswerter Personendaten, die für die Evaluation der Kurse und Lehrveranstaltungen notwendig sind, insbesondere:[^26-1]
 
 - a. Daten der einzelnen Kurse und Lehrveranstaltungen;
 - b. Personalien der Teilnehmerinnen und Teilnehmer, der Kursleiterinnen und Kursleiter sowie der Dozentinnen und Dozenten;
@@ -360,6 +368,8 @@ Das Informationssystem zur Kursevaluation enthält alle Personendaten und Inform
   - 2\. zu den Kursleiterinnen und Kursleitern sowie den Dozentinnen und Dozenten;
 
 - d. freiwillig gemachte Angaben von Kursleiterinnen und Kursleitern sowie Dozentinnen und Dozenten zu absolvierten Ausbildungen und bisherigen Aktivitäten.
+
+[^26-1]: Fassung gemäss Anhang 1 Ziff. II 34 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 27
 
@@ -417,10 +427,10 @@ Das Informationssystem der nationalen Agentur zur Bekämpfung von Doping dient z
 
 **Daten**
 
-Das Informationssystem der nationalen Agentur zur Bekämpfung von Doping enthält alle Personendaten und Informationen, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, die für die Dopingbekämpfung notwendig sind, insbesondere:
+Das Informationssystem der nationalen Agentur zur Bekämpfung von Doping enthält alle Personendaten und Informationen, einschliesslich besonders schützenswerter Personendaten, die für die Dopingbekämpfung notwendig sind, insbesondere:[^32-1]
 
 - a. Personalien der Sportlerin oder des Sportlers und Angaben zur Zugehörigkeit zu Sportverbänden;
-- b. Angaben zum Aufenthaltsort der Sportlerin oder des Sportlers, sofern sie oder er in einem Kontrollpool der nationalen Agentur zur Bekämpfung von Doping nach Artikel 19 Absatz 2 SpoFöG[^32-1] eingeteilt ist;
+- b. Angaben zum Aufenthaltsort der Sportlerin oder des Sportlers, sofern sie oder er in einem Kontrollpool der nationalen Agentur zur Bekämpfung von Doping nach Artikel 19 Absatz 2 SpoFöG[^32-2] eingeteilt ist;
 - c. Hinweise über Aktivitäten und Funktionen der Sportlerin oder des Sportlers sowie von Personen, die die Sportlerin oder den Sportler betreuen, trainieren oder behandeln;
 - d. medizinische Daten;
 - e. Ermittlungsdaten und Analysedaten von Dopingproben;
@@ -430,7 +440,8 @@ Das Informationssystem der nationalen Agentur zur Bekämpfung von Doping enthäl
 - i. Massnahmen nach Artikel 20 Absatz 4 SpoFöG;
 - j. freiwillig gemachte Angaben.
 
-[^32-1]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^32-1]: Fassung gemäss Anhang 1 Ziff. II 34 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^32-2]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
 
 #### Art. 33
 

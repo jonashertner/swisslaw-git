@@ -4,11 +4,11 @@ title: "Legge federale del 19 giugno 2015 sui sistemi d'informazione della Confe
 short: LSISpo
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/596"
 language: it
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2015-06-19
 in_force: 2016-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/596/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2016-596-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/596/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/596/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2016-596-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/596/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/596/20220101/it"
 
 (LSISpo)
 
-del 19 giugno 2015 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 19 giugno 2015 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -34,15 +34,16 @@ decreta:
 
 <sup>1</sup>
 
-La presente legge disciplina il trattamento dei dati personali (dati), compresi i dati personali degni di particolare protezione e i profili della personalità, nei sistemi d’informazione dell’Ufficio federale dello sport (UFSPO) da parte di:
+La presente legge disciplina il trattamento dei dati personali (dati), compresi i dati personali degni di particolare protezione, nei sistemi d’informazione dell’Ufficio federale dello sport (UFSPO) da parte di:[^1-1]
 
 - a. autorità federali, cantonali e comunali;
-- b. federazioni sportive e associazioni giovanili nazionali, come pure di loro organizzazioni affiliate e sottorganizzazioni, sempre che esse siano beneficiarie di un sostegno diretto o indiretto in virtù della legge del 17 giugno 2011[^1-1] sulla promozione dello sport (LPSpo);
+- b. federazioni sportive e associazioni giovanili nazionali, come pure di loro organizzazioni affiliate e sottorganizzazioni, sempre che esse siano beneficiarie di un sostegno diretto o indiretto in virtù della legge del 17 giugno 2011[^1-2] sulla promozione dello sport (LPSpo);
 - c. terzi che svolgono compiti in relazione con la promozione dello sport da parte della Confederazione.
 
 <sup>2</sup> Essa disciplina inoltre il trattamento dei dati nel sistema d’informazione dell’agenzia nazionale antidoping.
 
-[^1-1]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^1-1]: Nuovo testo giusta l’all. 1 n. II 34 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^1-2]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
 
 ## Sezione 2: Disposizioni generali per i sistemi d’informazione dell’UFSPO
 
@@ -77,9 +78,9 @@ LʼUFSPO è responsabile della sicurezza dei sistemi dʼinformazione e della leg
 
 #### Art. 4
 
-**Trattamento dei dati per lavori ai sistemi dʼinformazione**
+[^4-1]
 
-Le persone incaricate di compiti di manutenzione, esercizio o programmazione possono trattare i dati contenuti nei sistemi dʼinformazione solo se ciò è necessario per adempiere i loro compiti e se la sicurezza dei dati è garantita. Il contenuto dei dati non può essere modificato.
+[^4-1]: Abrogato dall’all. 1 n. II 34 della LF del 25 set. 2020 sulla protezione dei dati, con effetto dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 5
 
@@ -126,18 +127,19 @@ Il sistema nazionale dʼinformazione per lo sport serve alle autorità, alle org
 
 **Dati**
 
-Il sistema nazionale dʼinformazione per lo sport contiene tutti i dati personali e le informazioni, compresi i dati personali degni di particolare protezione e i profili della personalità, che sono necessari per lʼadempimento dei compiti negli ambiti di cui all’articolo 8, in particolare:
+Il sistema nazionale d’informazione per lo sport contiene tutti i dati personali e le informazioni, compresi i dati personali degni di particolare protezione, che sono necessari per l’adempimento dei compiti negli ambiti di cui all’articolo 8, in particolare:[^9-1]
 
 - a. le generalità;
-- b. il numero AVS[^9-1];
+- b. il numero AVS[^9-2];
 - c. indicazioni su attività, funzioni e appartenenza a gruppi di prestazione;
 - d. le qualifiche e i riconoscimenti di monitore di sport e indicazioni relative alla sospensione, revoca o decadenza di tali riconoscimenti;
-- e. i dati di cui allʼarticolo 10 LPSpo[^9-2], nella misura in cui siano necessari per motivare una decisione di rilascio, sospensione o revoca di riconoscimenti di quadro Gioventù e Sport o di quadro del programma Sport per gli adulti Svizzera;
+- e. i dati di cui allʼarticolo 10 LPSpo[^9-3], nella misura in cui siano necessari per motivare una decisione di rilascio, sospensione o revoca di riconoscimenti di quadro Gioventù e Sport o di quadro del programma Sport per gli adulti Svizzera;
 - f. indicazioni su inchieste e su misure pronunciate in relazione a violazioni delle norme per la correttezza e sicurezza nello sport;
 - g. i dati forniti volontariamente.
 
-[^9-1]: Nuova espr. giusta l’all. 10 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
-[^9-2]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^9-1]: Nuovo testo giusta l’all. 1 n. II 34 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^9-2]: Nuova espr. giusta l’all. 10 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^9-3]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
 
 #### Art. 10
 
@@ -193,13 +195,15 @@ Il sistema d’informazione per i dati medici serve a garantire il servizio medi
 
 **Dati**
 
-Il sistema d’informazione per i dati medici contiene tutti i dati personali e le informazioni, compresi i dati personali degni di particolare protezione e i profili della personalità, che sono necessari per l’adempimento dei compiti di cui all’articolo 13, in particolare:
+Il sistema d’informazione per i dati medici contiene tutti i dati personali e le informazioni, compresi i dati personali degni di particolare protezione, che sono necessari per l’adempimento dei compiti di cui all’articolo 13, in particolare:[^14-1]
 
 - a. le generalità;
 - b. i dati relativi allo stato di salute;
 - c. i certificati e le perizie di specialisti;
 - d. i dati necessari per la gestione dei fascicoli;
 - e. i dati forniti volontariamente.
+
+[^14-1]: Nuovo testo giusta l’all. 1 n. II 34 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 15
 
@@ -236,13 +240,15 @@ Il sistema d’informazione per i dati riguardanti la diagnostica delle prestazi
 
 **Dati**
 
-Il sistema d’informazione per i dati riguardanti la diagnostica delle prestazioni contiene tutti i dati personali e le informazioni, compresi i dati personali degni di particolare protezione e i profili della personalità, che sono necessari per l’adempimento dei compiti di cui all’articolo 17, in particolare:
+Il sistema d’informazione per i dati riguardanti la diagnostica delle prestazioni contiene tutti i dati personali e le informazioni, compresi i dati personali degni di particolare protezione, che sono necessari per l’adempimento dei compiti di cui all’articolo 17, in particolare:[^18-1]
 
 - a. le generalità;
 - b. i dati riguardanti la diagnostica delle prestazioni;
 - c. i dati psicologici, inclusi i dati relativi alla personalità, alla motivazione, allo stato d’animo e alla capacità di raccogliere le sfide;
 - d. i dati relativi allo stato di salute;
 - e. i dati forniti volontariamente.
+
+[^18-1]: Nuovo testo giusta l’all. 1 n. II 34 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 19
 
@@ -288,7 +294,7 @@ Il sistema d’informazione della Scuola universitaria federale dello sport di M
 
 **Dati**
 
-Il sistema d’informazione della SUFSM contiene tutti i dati personali e le informazioni, compresi i dati personali degni di particolare protezione e i profili della personalità, che sono necessari per l’adempimento dei compiti di cui all’articolo 21, in particolare:
+Il sistema d’informazione della SUFSM contiene tutti i dati personali e le informazioni, compresi i dati personali degni di particolare protezione, che sono necessari per l’adempimento dei compiti di cui all’articolo 21, in particolare:[^22-1]
 
 - a.
 
@@ -315,6 +321,8 @@ Il sistema d’informazione della SUFSM contiene tutti i dati personali e le inf
   - 8\. i provvedimenti disciplinari,
   - 9\. le valutazioni delle competenze,
   - 10\. le qualifiche finali.
+
+[^22-1]: Nuovo testo giusta l’all. 1 n. II 34 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 23
 
@@ -348,7 +356,7 @@ Il sistema d’informazione per la valutazione dei corsi serve all’UFSPO per l
 
 **Dati**
 
-Il sistema d’informazione per la valutazione dei corsi contiene tutti i dati personali e le informazioni, compresi i dati personali degni di particolare protezione e i profili della personalità, che sono necessari per la valutazione di corsi e attività didattiche, in particolare:
+Il sistema d’informazione per la valutazione dei corsi contiene tutti i dati personali e le informazioni, compresi i dati personali degni di particolare protezione, che sono necessari per la valutazione di corsi e attività didattiche, in particolare:[^26-1]
 
 - a. i dati relativi a singoli corsi e attività didattiche;
 - b. le generalità di partecipanti, capicorso e docenti;
@@ -360,6 +368,8 @@ Il sistema d’informazione per la valutazione dei corsi contiene tutti i dati p
   - 2\. sui capicorso e sui docenti;
 
 - d. i dati su formazioni assolte e attività pregresse forniti volontariamente da capicorso e docenti.
+
+[^26-1]: Nuovo testo giusta l’all. 1 n. II 34 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 27
 
@@ -417,10 +427,10 @@ Il sistema d’informazione dell’agenzia nazionale antidoping serve all’adem
 
 **Dati**
 
-Il sistema d’informazione dell’agenzia nazionale antidoping contiene tutti i dati personali e le informazioni, compresi i dati personali degni di particolare protezione e i profili della personalità, che sono necessari per la lotta contro il doping, in particolare:
+Il sistema d’informazione dell’agenzia nazionale antidoping contiene tutti i dati personali e le informazioni, compresi i dati personali degni di particolare protezione, che sono necessari per la lotta contro il doping, in particolare:[^32-1]
 
 - a. le generalità dell’atleta e indicazioni sulla sua appartenenza a una federazione sportiva;
-- b. indicazioni sul luogo di permanenza dell’atleta nella misura in cui questi sia assegnato a un pool di controllo dell’agenzia nazionale antidoping secondo l’articolo 19 capoverso 2 LPSpo[^32-1];
+- b. indicazioni sul luogo di permanenza dell’atleta nella misura in cui questi sia assegnato a un pool di controllo dell’agenzia nazionale antidoping secondo l’articolo 19 capoverso 2 LPSpo[^32-2];
 - c. informazioni su attività e funzioni dell’atleta e delle persone che lo accompagnano, lo allenano o lo sottopongono a trattamenti;
 - d. i dati medici;
 - e. i dati emersi dalle indagini o dall’analisi di campioni nei test antidoping;
@@ -430,7 +440,8 @@ Il sistema d’informazione dell’agenzia nazionale antidoping contiene tutti i
 - i. le misure di cui all’articolo 20 capoverso 4 LPSpo;
 - j. i dati forniti volontariamente.
 
-[^32-1]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^32-1]: Nuovo testo giusta l’all. 1 n. II 34 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^32-2]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
 
 #### Art. 33
 

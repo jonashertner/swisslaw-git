@@ -4,11 +4,11 @@ title: "Loi fédérale du 19 juin 2015 sur les systèmes d'information de la Con
 short: LSIS
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/596"
 language: fr
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2015-06-19
 in_force: 2016-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/596/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-596-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/596/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/596/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2016-596-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/596/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/596/20220101/fr"
 
 (LSIS)[^t-1]
 
-du 19 juin 2015 (Etat le 1<sup>er</sup> janvier 2022)
+du 19 juin 2015 (État le 1<sup>er</sup> septembre 2023)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -36,15 +36,16 @@ arrête:
 
 <sup>1</sup>
 
-La présente loi règle le traitement des données personnelles (données), y compris les données sensibles et les profils de la personnalité, dans les systèmes d’information de l’Office fédéral du sport (OFSPO) par:
+La présente loi règle le traitement des données personnelles (données), y compris des données sensibles, dans les systèmes d’information de l’Office fédéral du sport (OFSPO) par les services et personnes suivants:[^1-1]
 
 - a. les autorités fédérales, cantonales et communales;
-- b. les fédérations sportives et les associations de jeunesse nationales, ainsi que les organisations qui leur sont affiliées ou subordonnées, dans la mesure où elles bénéficient d’un soutien direct ou indirect en vertu de la loi du 17 juin 2011 sur l’encouragement du sport (LESp)[^1-1];
+- b. les fédérations sportives et les associations de jeunesse nationales, ainsi que les organisations qui leur sont affiliées ou subordonnées, dans la mesure où elles bénéficient d’un soutien direct ou indirect en vertu de la loi du 17 juin 2011 sur l’encouragement du sport (LESp)[^1-2];
 - c. les tiers accomplissant des tâches liées à l’encouragement fédéral du sport.
 
 <sup>2</sup> Elle règle au surplus le traitement des données dans le système d’information de l’agence nationale de lutte contre le dopage.
 
-[^1-1]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^1-1]: Nouvelle teneur selon l’annexe 1 ch. II 34 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^1-2]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
 
 ## Section 2 Dispositions générales régissant les systèmes d’information de l’OFSPO
 
@@ -79,9 +80,9 @@ L’OFSPO est responsable de la sécurité des systèmes d’information et de l
 
 #### Art. 4
 
-**Traitement de données aux fins de travaux sur les systèmes d’information**
+[^4-1]
 
-Les personnes chargées de la maintenance, de la gestion et de la programmation de systèmes d’information ne peuvent traiter des données que si elles sont nécessaires à l’accomplissement de leurs tâches et que la sécurité des données est garantie. Il ne doit en résulter aucune modification des données.
+[^4-1]: Abrogé par l’annexe 1 ch. II 34 de la LF du 25 sept. 2020 sur la protection des données, avec effet au 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 5
 
@@ -128,17 +129,18 @@ Le système d’information national pour le sport sert aux autorités, organisa
 
 **Données**
 
-Le système d’information national pour le sport contient toutes les données personnelles et informations nécessaires à l’accomplissement des tâches visées à l’art. 8, y compris des données sensibles et des profils de la personnalité, notamment:
+Le système d’information national pour le sport contient toutes les données personnelles et informations nécessaires à l’accomplissement des tâches visées à l’art. 8, y compris des données sensibles, notamment:[^9-1]
 
 - a. l’identité;
 - b. le numéro AVS;
 - c. des indications concernant les activités, les fonctions et l’appartenance à des groupes de performance;
 - d. les qualifications et certificats des moniteurs de sport, ainsi que leur suspension, retrait ou caducité;
-- e. des données au sens de l’art. 10 LESp[^9-1], pour autant qu’elles soient nécessaires pour justifier une décision d’attribution, de suspension ou de retrait des certificats de cadre «Jeunesse et sport» ou de cadre «Sport des adultes Suisse»;
+- e. des données au sens de l’art. 10 LESp[^9-2], pour autant qu’elles soient nécessaires pour justifier une décision d’attribution, de suspension ou de retrait des certificats de cadre «Jeunesse et sport» ou de cadre «Sport des adultes Suisse»;
 - f. des indications relatives aux enquêtes et au prononcé de mesures en cas de violation de dispositions relatives à l’éthique et à la sécurité dans le sport;
 - g. des données fournies volontairement.
 
-[^9-1]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^9-1]: Nouvelle teneur selon l’annexe 1 ch. II 34 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^9-2]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
 
 #### Art. 10
 
@@ -194,13 +196,15 @@ Le système d’information pour les données médicales sert à assurer le serv
 
 **Données**
 
-Le système d’information pour les données médicales contient toutes les données personnelles et informations nécessaires à l’accomplissement des tâches visées à l’art. 13, y compris des données sensibles et des profils de la personnalité, notamment:
+Le système d’information pour les données médicales contient toutes les données personnelles et informations nécessaires à l’accomplissement des tâches visées à l’art. 13, y compris des données sensibles, notamment:[^14-1]
 
 - a. l’identité;
 - b. l’état de santé;
 - c. les certificats et expertises;
 - d. des données servant au suivi des affaires;
 - e. des données fournies volontairement.
+
+[^14-1]: Nouvelle teneur selon l’annexe 1 ch. II 34 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 15
 
@@ -237,13 +241,15 @@ Le système d’information pour les résultats du diagnostic de performance ser
 
 **Données**
 
-Le système d’information pour les résultats du diagnostic de performance contient toutes les données personnelles et informations nécessaires à l’accomplissement des tâches visées à l’art. 17, y compris des données sensibles et des profils de la personnalité, notamment:
+Le système d’information pour les résultats du diagnostic de performance contient toutes les données personnelles et informations nécessaires à l’accomplissement des tâches visées à l’art. 17, y compris des données sensibles, notamment:[^18-1]
 
 - a. l’identité;
 - b. des données relatives au diagnostic de performance;
 - c. des données psychologiques, notamment des données relatives à la personnalité, à la motivation, à l’état d’esprit et et à la capacité de relever les défis;
 - d. des données relatives à l’état de santé;
 - e. des données fournies volontairement.
+
+[^18-1]: Nouvelle teneur selon l’annexe 1 ch. II 34 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 19
 
@@ -289,7 +295,7 @@ Le système d’information de la Haute école fédérale de sport de Macolin (H
 
 **Données**
 
-Le système d’information de la HEFSM contient toutes les données personnelles et informations nécessaires à l’accomplissement des tâches visées à l’art. 21, y compris des données sensibles et des profils de la personnalité, notamment:
+Le système d’information de la HEFSM contient toutes les données personnelles et informations nécessaires à l’accomplissement des tâches visées à l’art. 21, y compris des données sensibles, notamment:[^22-1]
 
 - a.
 
@@ -316,6 +322,8 @@ Le système d’information de la HEFSM contient toutes les données personnelle
   - 8\. les décisions disciplinaires,
   - 9\. les appréciations des évaluations de compétences,
   - 10\. les qualifications de fin d’études.
+
+[^22-1]: Nouvelle teneur selon l’annexe 1 ch. II 34 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 23
 
@@ -349,7 +357,7 @@ Le système d’information pour l’évaluation des cours sert à l’OFSPO à 
 
 **Données**
 
-Le système d’information pour l’évaluation des cours contient toutes les données personnelles et informations nécessaires à l’évaluation des cours et des prestations d’enseignement, y compris des données sensibles et des profils de la personnalité, notamment:
+Le système d’information pour l’évaluation des cours contient toutes les données personnelles et informations nécessaires à l’évaluation des cours et des prestations d’enseignement, y compris des données sensibles, notamment:[^26-1]
 
 - a. des données relatives aux différents cours et prestations d’enseignement;
 - b. l’identité des participants, des chefs de cours et des enseignants;
@@ -361,6 +369,8 @@ Le système d’information pour l’évaluation des cours contient toutes les d
   - 2\. les chefs de cours et les enseignants;
 
 - d. des indications fournies volontairement par les chefs de cours et les enseignants sur les formations accomplies et les activités réalisées.
+
+[^26-1]: Nouvelle teneur selon l’annexe 1 ch. II 34 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 27
 
@@ -418,10 +428,10 @@ Le système d’information de l’agence nationale de lutte contre le dopage se
 
 **Données**
 
-Le système d’information de l’agence nationale de lutte contre le dopage contient toutes les données personnelles et informations nécessaires à la lutte contre le dopage, y compris des données sensibles et des profils de la personnalité, notamment:
+Le système d’information de l’agence nationale de lutte contre le dopage contient toutes les données personnelles et informations nécessaires à la lutte contre le dopage, y compris des données sensibles, notamment:[^32-1]
 
 - a. l’identité du sportif et des indications sur son appartenance à une fédération sportive;
-- b. des indications sur le lieu de séjour du sportif s’il fait partie d’un groupe cible de l’agence nationale de lutte contre le dopage au sens de l’art. 19, al. 2, LESp[^32-1];
+- b. des indications sur le lieu de séjour du sportif s’il fait partie d’un groupe cible de l’agence nationale de lutte contre le dopage au sens de l’art. 19, al. 2, LESp[^32-2];
 - c. des indications sur les activités et les fonctions du sportif ainsi que des personnes qui l’accompagnent, l’entraînent ou le traitent;
 - d. des données médicales;
 - e. des données d’investigation et des données relatives à l’analyse d’échantillons;
@@ -431,7 +441,8 @@ Le système d’information de l’agence nationale de lutte contre le dopage co
 - i. des mesures au sens de l’art. 20, al. 4, LESp;
 - j. des données fournies volontairement.
 
-[^32-1]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^32-1]: Nouvelle teneur selon l’annexe 1 ch. II 34 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^32-2]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
 
 #### Art. 33
 
