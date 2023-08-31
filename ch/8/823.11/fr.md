@@ -4,11 +4,11 @@ title: "Loi fédérale du 6 octobre 1989 sur le service de l'emploi et la locati
 short: LSE
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/392_392_392"
 language: fr
-version: 2021-07-01
+version: 2023-09-01
 adopted: 1989-10-06
 in_force: 1991-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/392_392_392/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-1991-392_392_392-20210701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/392_392_392/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1991-392_392_392-20230901-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/20210701/fr"
 
 (LSE)
 
-du 6 octobre 1989 (Etat le 1<sup>er</sup> juillet 2021)
+du 6 octobre 1989 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -490,7 +490,7 @@ Les annonces publiques, les manifestations ou autres procédés destinés ou pro
 
 <sup>1</sup>
 
-Les organes chargés d’appliquer la présente loi ou d’en contrôler ou surveiller l’exécution sont habilités à traiter ou à faire traiter les données personnelles et les profils de la personnalité qui leur sont nécessaires pour accomplir les tâches que leur assigne la présente loi, notamment pour:
+Les organes chargés d’appliquer la présente loi ou d’en contrôler ou surveiller l’exécution sont habilités à traiter ou à faire traiter les données personnelles qui leur sont nécessaires pour accomplir les tâches que leur assigne la présente loi, notamment pour:[^33a-2]
 
 - a. enregistrer, conseiller et placer les demandeurs d’emploi;
 - b. enregistrer, annoncer ou attribuer les places vacantes;
@@ -504,10 +504,14 @@ Les organes chargés d’appliquer la présente loi ou d’en contrôler ou surv
 Peuvent être traitées les données personnelles sensibles qui concernent:
 
 - a. la santé et l’appartenance religieuse du demandeur d’emploi, lorsqu’elles sont nécessaires au placement;
-- b. les mesures prises ou prévues dans le cadre de l’exécution de la présente loi et de la loi du 25 juin 1982 sur l’assurance-chômage[^33a-2], lorsqu’elles sont susceptibles d’influer directement sur les prestations de l’assurance-chômage.
+- b. les mesures prises ou prévues dans le cadre de l’exécution de la présente loi et de la loi du 25 juin 1982 sur l’assurance-chômage[^33a-3], lorsqu’elles sont susceptibles d’influer directement sur les prestations de l’assurance-chômage.
+
+<sup>3</sup> Au surplus, les organes chargés d’appliquer la présente loi ou d’en contrôler ou surveiller l’exécution sont habilités à traiter ou à faire traiter des données personnelles qui permettent d’évaluer la situation personnelle et économique des bénéficiaires de prestations de conseil au sens de la présente loi.[^33a-4]
 
 [^33a-1]: Introduit par le ch. I de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2744](https://fedlex.data.admin.ch/eli/oc/2000/460); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)).
-[^33a-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^33a-2]: Nouvelle teneur selon l’annexe 1 ch. II 79 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^33a-3]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^33a-4]: Introduit par l’annexe 1 ch. II 79 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 34
 
@@ -606,7 +610,7 @@ L’organe de compensation de l’assurance-chômage (art. 83, al. 3, de la loi 
   - 4\. de contacter les demandeurs d’emploi,
   - 5\. de gérer les postes vacants.[^35-4]
 
-<sup>2</sup> Des données personnelles, y compris des données sensibles au sens de l’art. 33*a*, al. 2, et des profils de la personnalité, peuvent être traitées dans le système d’information visé à l’al. 1, let. a.[^35-5]
+<sup>2</sup> Des données personnelles, y compris des données sensibles au sens de l’art. 33*a*, al. 2, peuvent être traitées dans le système d’information visé à l’al. 1, let. a.[^35-5]
 
 <sup>3</sup>
 
@@ -623,7 +627,7 @@ Les organes suivants ont le droit d’accéder au système servant au placement 
 - j<sup>bis</sup>.[^35-15] les organes de l’aide sociale, en vue de la réinsertion professionnelle des personnes dans le cadre de la collaboration interinstitutionnelle prévue à l’art. 35*a*;
 - k.[^35-16] les autorités chargées par les cantons de contrôler le respect de l’obligation d’annoncer les postes vacants prévue à l’art. 21*a,* al. 3 et 4, de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^35-17].
 
-<sup>3bis</sup> L’échange de données personnelles, y compris de données sensibles et de profils de la personnalité, entre les systèmes d’information du service public de l’emploi et ceux de l’assurance-chômage est autorisé dans la mesure où il est nécessaire à l’exécution de la présente loi et de la LACI.[^35-18]
+<sup>3bis</sup> L’échange de données personnelles, y compris de données sensibles, entre les systèmes d’information du service public de l’emploi et ceux de l’assurance-chômage est autorisé dans la mesure où il est nécessaire à l’exécution de la présente loi et de la LACI.[^35-18]
 
 <sup>3ter</sup>
 
@@ -644,7 +648,7 @@ Le Conseil fédéral règle:
 - a. la responsabilité de la protection des données;
 - b. les données à saisir;
 - c. la durée de conservation des données;
-- d.[^35-20] l’étendue des droits d’accès et de traitement de données personnelles, y compris des données sensibles et des profils de la personnalité, octroyés aux personnes, aux services et aux organes mentionnés aux al. 3 et 3<sup>ter</sup>;
+- d.[^35-20] l’étendue des droits d’accès et de traitement de données personnelles, y compris des données sensibles, octroyés aux personnes, aux services et aux organes mentionnés aux al. 3 et 3<sup>ter</sup>;
 - e. l’organisation et l’exploitation du système d’information;
 - f. la collaboration entre les autorités concernées;
 - g. la sécurité des données.
@@ -653,7 +657,7 @@ Le Conseil fédéral règle:
 [^35-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 [^35-3]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 [^35-4]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^35-5]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-5]: Nouvelle teneur selon l’annexe 2 ch. 4 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^35-6]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 [^35-7]: Abrogées par l’annexe ch. 1 de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 [^35-8]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
@@ -666,9 +670,9 @@ Le Conseil fédéral règle:
 [^35-15]: Introduite par l’annexe ch. 1 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 [^35-16]: Introduite par l’art. 4 ch. 2 de la LF du 27 sept. 2019 sur la participation aux frais des cantons pour les contrôles relatifs à l’obligation d’annoncer les postes vacants, en vigueur du 1<sup>er</sup> janv. 2020 au 31 déc. 2023 ([RO 2020 811](https://fedlex.data.admin.ch/eli/oc/2020/149); [FF 2019 2671](https://fedlex.data.admin.ch/eli/fga/2019/785)).
 [^35-17]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^35-18]: Introduit par le ch. II 1 de la LF du 19 mars 2010 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)). Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-18]: Introduit par le ch. II 1 de la LF du 19 mars 2010 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)). Nouvelle teneur selon l’annexe 2 ch. 4 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^35-19]: Introduit par l’annexe ch. 1 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^35-20]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-20]: Nouvelle teneur selon l’annexe 2 ch. 4 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 35a
 
@@ -706,13 +710,13 @@ Les organes d’exécution de l’assurance-chômage et les services de l’assu
 
 #### Art. 35b
 
-**Fichier des entreprises de placement et de location de services autorisées**[^35b-1]
+**Registre des entreprises de placement et de location de services autorisées**[^35b-1]
 
-<sup>1</sup> Avec l’aide des autorités cantonales compétentes, le SECO gère, dans un système d’information approprié, un fichier des entreprises de placement et de location de services autorisées et de leurs responsables.
+<sup>1</sup> Avec l’aide des autorités cantonales compétentes, le SECO gère, dans un système d’information approprié, un registre des entreprises de placement et de location de services autorisées et de leurs responsables.
 
-<sup>2</sup> Ce fichier peut contenir des données sensibles sur le retrait, l’annulation ou le refus d’une autorisation.
+<sup>2</sup> Ce registre peut contenir des données sensibles sur le retrait, l’annulation ou le refus d’une autorisation.
 
-[^35b-1]: Introduit par le ch. I de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2744](https://fedlex.data.admin.ch/eli/oc/2000/460); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^35b-1]: Introduit par le ch. I de la LF du 23 juin 2000 ([RO 2000 2744](https://fedlex.data.admin.ch/eli/oc/2000/460); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)). Nouvelle teneur selon l’annexe 1 ch. II 79 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 36
 
