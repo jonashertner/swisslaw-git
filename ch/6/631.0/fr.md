@@ -4,22 +4,22 @@ title: Loi du 18 mars 2005 sur les douanes (LD)
 short: LD
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/249"
 language: fr
-version: 2022-09-01
+version: 2023-09-01
 adopted: 2005-03-18
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/249/20220901/fr/xml/fedlex-data-admin-ch-eli-cc-2007-249-20220901-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/249/20220901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/249/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2007-249-20230901-fr-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/249/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi sur les douanes<sup>∗</sup>
+# Loi sur les douanes\*
 
 (LD)[^t-1]
 
-du 18 mars 2005 (État le 1<sup>er</sup> septembre 2022)
+du 18 mars 2005 (État le 1<sup>er</sup> septembre 2023)
 
-[^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
+[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -27,7 +27,7 @@ vu les art. 57, al. 2, 101, 121, al. 1, et 133 de la Constitution[^ingress-1], v
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)
 
 ## Titre 1 Bases douanières
@@ -113,7 +113,7 @@ Au sens de la présente loi, on entend par:
 - h. *exportation:* l’acheminement de marchandises vers le territoire douanier étranger;
 - i. *transit:* le passage de marchandises à travers le territoire douanier.
 
-[^6-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^6-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 
 ### Chapitre 2 Assujettissement et bases de la perception des droits
 
@@ -125,7 +125,7 @@ Au sens de la présente loi, on entend par:
 
 Les marchandises introduites dans le territoire douanier ou sorties de celui-ci sont soumises aux droits de douane et doivent être taxées conformément aux dispositions de la présente loi et de la LTaD[^7-1].
 
-[^7-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^7-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 
 #### Art. 8
 
@@ -156,7 +156,7 @@ Le Conseil fédéral peut admettre en franchise:
 - l. le matériel d’emballage indigène;
 - m.[^8-2] le matériel de guerre de la Confédération et le matériel de protection civile de la Confédération et des cantons.
 
-[^8-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^8-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 [^8-2]: Nouvelle teneur selon le ch. II 3 de la LF du 17 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816); [FF 2010 5489](https://fedlex.data.admin.ch/eli/fga/2010/1098)).
 
 #### Art. 9
@@ -238,7 +238,7 @@ Les marchandises bénéficient de taux de droits de douane réduits en fonction 
 
 <sup>5</sup> Quiconque entend utiliser ou remettre après coup des marchandises taxées pour des emplois passibles de droits de douane moins élevés peut, dans les cas et les délais prévus par le DFF, demander le remboursement de la différence.
 
-[^14-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^14-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 
 #### Art. 15
 
@@ -404,7 +404,8 @@ Sont assujettis à l’obligation de déclarer:
 
 **Destination douanière**
 
-- [tab] En choisissant la destination douanière, la personne assujettie à l’obligation de déclarer établit si la marchandise est:
+En choisissant la destination douanière, la personne assujettie à l’obligation de déclarer établit si la marchandise est:
+
 - a. placée sous un régime douanier (art. 47 à 61);
 - b. placée dans un dépôt franc sous douane (art. 62 à 67);
 - c. réexportée hors du territoire douanier;
@@ -540,7 +541,12 @@ Le bureau de douane donne suite à la demande si la personne assujettie à l’o
 
 **Décision de taxation**
 
-Le bureau de douane fixe les droits de douane, établit la décision de taxation et la notifie à la personne assujettie à l’obligation de déclarer.
+<sup>1</sup> Le bureau de douane fixe les droits de douane, établit la décision de taxation et la notifie à la personne assujettie à l’obligation de déclarer.
+
+<sup>2</sup> Il peut rendre des décisions de taxation sous la forme d’une décision individuelle automatisée au sens de l’art. 21 de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^38-1].[^38-2]
+
+[^38-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^38-2]: Introduit par l’annexe 1 ch. II 48 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 39
 
@@ -1047,8 +1053,8 @@ Ne répondent pas non plus solidairement les entreprises de transport et leurs e
 <sup>6</sup> Quiconque reprend une entreprise avec l’actif et le passif assume les droits et obligations de celle-ci quant à la dette douanière. L’ancien débiteur répond solidairement avec le nouveau des dettes douanières nées avant la reprise pendant deux ans à compter de la communication ou de la publication de la reprise.
 
 [^70-1]: Abrogée par le ch. I de la LF du 18 mars 2016, avec effet au 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
-[^70-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^70-3]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^70-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^70-3]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^70-4]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 
 #### Art. 71
@@ -1104,7 +1110,7 @@ L’intérêt n’est pas dû:
 
 <sup>4</sup> La dette douanière se prescrit dans tous les cas par quinze ans à compter de la fin de l’année civile durant laquelle elle a pris naissance. Des délais de prescription plus longs selon les art. 11 et 12 DPA[^75-1] sont réservés.
 
-[^75-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^75-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### Chapitre 2 Garantie de la créance douanière
 
@@ -1168,7 +1174,7 @@ Le cautionnement douanier en tant que cautionnement solidaire garantit:
 
 <sup>2</sup> Au surplus, les dispositions du code des obligations[^80-1] s’appliquent.
 
-[^80-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^80-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Section 3 Décision de réquisition de sûretés et droit de gage douanier
 
@@ -1182,7 +1188,7 @@ Le cautionnement douanier en tant que cautionnement solidaire garantit:
 
 <sup>3</sup> La décision de réquisition de sûretés est assimilée à un jugement au sens de l’art. 80 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite (LP)[^81-1]. Elle est réputée ordonnance de séquestre au sens de l’art. 274 LP. L’opposition à l’ordonnance de séquestre est exclue.
 
-[^81-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^81-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 82
 
@@ -1262,7 +1268,7 @@ Les demandes doivent être présentées comme suit:
 - a. les demandes visées à l’al. 1: à l’organe qui a procédé à la taxation, dans un délai d’un an à compter de l’entrée en force de la décision de taxation; pour les taxations assorties d’une obligation de paiement conditionnelle, le délai est d’un an à compter de l’apurement du régime douanier choisi;
 - b. les demandes visées à l’al. 2: à la Direction générale des douanes, dans un délai d’un an à compter de l’entrée en force de la décision.[^86-3]
 
-[^86-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^86-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^86-2]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 [^86-3]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 
@@ -1320,7 +1326,7 @@ La poursuite par voie de saisie selon l’art. 42 LP[^88-1] est introduite:
 
 <sup>4</sup> La collocation définitive d’une créance contestée n’a pas lieu tant qu’une décision passée en force de l’OFDF fait défaut.
 
-[^88-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^88-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### Chapitre 5 Émoluments
 
@@ -1376,7 +1382,7 @@ L’OFDF peut percevoir des émoluments pour:
 <sup>3</sup> Le refus de prêter serment ou de faire la promesse solennelle peut entraîner une résiliation ordinaire au sens de l’art. 10, al. 3, let. a, de la loi du 24 mars 2000 sur le personnel de la Confédération[^91a-2].
 
 [^91a-1]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
-[^91a-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^91a-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 92
 
@@ -1510,7 +1516,7 @@ Pour exécuter les tâches qui lui sont confiées, en particulier pour garantir 
 
 <sup>2</sup> ...[^100-3]
 
-[^100-1]: [RS 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
+[^100-1]: [RS 364](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6323)
 [^100-2]: Introduit par l’annexe ch. 5 de la L du 20 mars 2008 sur l’usage de la contrainte, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5463](https://fedlex.data.admin.ch/eli/oc/2008/759); [FF 2006 2429](https://fedlex.data.admin.ch/eli/fga/2006/250)).
 [^100-3]: Abrogé par le ch. I de la LF du 18 mars 2016, avec effet au 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 
@@ -1548,12 +1554,15 @@ L’OFDF peut faire pratiquer une fouille corporelle ou un examen corporel sur u
 
 <sup>1</sup>
 
-L’OFDF peut établir l’identité d’une personne en la photographiant ou en relevant ses données biométriques:
+L’OFDF peut établir l’identité d’une personne en la photographiant ou en relevant ses données génétiques ou biométriques:[^103-1]
 
 - a. si cette personne est soupçonnée d’avoir commis ou de s’apprêter à commettre une infraction grave;
 - b. si un autre acte législatif prévoit l’établissement de l’identité de personnes.
 
-<sup>2</sup> Le Conseil fédéral détermine les données biométriques pouvant être relevées.
+<sup>2</sup> Le Conseil fédéral détermine les données génétiques et les données biométriques pouvant être relevées.[^103-2]
+
+[^103-1]: Nouvelle teneur selon l’annexe 1 ch. II 48 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^103-2]: Nouvelle teneur selon l’annexe 1 ch. II 48 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 104
 
@@ -1573,8 +1582,8 @@ L’OFDF peut provisoirement mettre en sûreté des objets et des valeurs patrim
 <sup>4</sup> L’OFDF peut ordonner une confiscation autonome d’objets et de valeurs patrimoniales au sens des art. 69 et 70 du code pénal[^104-3]. La procédure est régie par l’art. 66 DPA.
 
 [^104-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
-[^104-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^104-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^104-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+[^104-3]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 105
 
@@ -1586,7 +1595,7 @@ L’OFDF peut provisoirement mettre en sûreté des objets et des valeurs patrim
 
 <sup>3</sup> Il conduit immédiatement la personne arrêtée provisoirement à l’autorité compétente.
 
-[^105-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^105-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 106
 
@@ -1607,7 +1616,7 @@ Le Conseil fédéral règle:
 - a. dans quelle mesure le personnel de l’OFDF autre que celui du Corps des gardes-frontière a le droit de porter et d’utiliser des armes ou d’autres moyens d’autodéfense ou de contrainte;
 - b. l’usage de l’arme et des autres moyens d’autodéfense ou de contrainte.
 
-[^106-1]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^106-1]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 
 #### Art. 107
 
@@ -1619,7 +1628,7 @@ Le Conseil fédéral règle:
 
 <sup>3</sup> Les conditions prévues à l’art. 48 DPA[^107-1] s’appliquent à la perquisition dans des logements et autres locaux ainsi que sur des fonds clos attenant à une maison ou dans des constructions.
 
-[^107-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^107-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 108
 
@@ -1650,11 +1659,9 @@ L’OFDF peut utiliser des appareils automatiques de prise de vue et de relevé,
 
 **Systèmes d’information de l’OFDF**
 
-<sup>1</sup> L’OFDF peut traiter des données personnelles, y compris des données sensibles et des profils de la personnalité, lorsque cela est nécessaire à l’exécution des actes législatifs qu’il doit appliquer.
+<sup>1</sup>
 
-<sup>2</sup>
-
-Il peut gérer des systèmes d’information notamment pour:
+L’OFDF peut traiter des données personnelles, y compris des données sensibles, pour:
 
 - a. fixer et percevoir des redevances;
 - b. établir des analyses de risques;
@@ -1663,26 +1670,31 @@ Il peut gérer des systèmes d’information notamment pour:
 - e. établir des statistiques;
 - f. exécuter et analyser les activités de police dans le domaine du contrôle des personnes;
 - g. exécuter et analyser l’exécution des actes législatifs de la Confédération autres que douaniers;
-- h. exécuter et analyser les activités de lutte contre la criminalité.
+- h. exécuter et analyser les activités de lutte contre la criminalité.[^110-1]
 
-<sup>2bis</sup> Les systèmes d’information comportant des données personnelles, y compris des données sensibles, sont régis par les art. 110*a* à 110*f*.[^110-1]
+<sup>2</sup> Il peut gérer des systèmes d’information à cet effet. Il est en outre autorisé à faire du profilage, y compris du profilage à risque élevé, au sens de la LPD[^110-2] pour accomplir les tâches mentionnées à l’al. 1, let. a à c et e à h.[^110-3]
+
+<sup>2bis</sup> Les systèmes d’information comportant des données personnelles, y compris des données sensibles, sont régis par les art. 110*a* à 110*f*.[^110-4]
 
 <sup>3</sup>
 
-Le Conseil fédéral règle:[^110-2]
+Le Conseil fédéral règle:[^110-5]
 
 - a. l’organisation et l’exploitation des systèmes d’information;
 - b. les catalogues des données à saisir;
-- [tab] c.[^110-3] la reprise, dans un système d’information de l’OFDF, conformément à l’art. 111, al. 1, de données provenant d’autres systèmes d’information de la Confédération;
+- c.[^110-6] la reprise, dans un système d’information de l’OFDF, conformément à l’art. 111, al. 1, de données provenant d’autres systèmes d’information de la Confédération;
 - d. les autorisations de traitement;
-- d<sup>bis</sup>.[^110-4] la collecte et la communication des données visée aux art. 112 et 113;
+- d<sup>bis</sup>.[^110-7] la collecte et la communication des données visée aux art. 112 et 113;
 - e. la durée de conservation;
 - f. l’archivage et la destruction des données.
 
-[^110-1]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
-[^110-2]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
-[^110-3]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
-[^110-4]: Introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
+[^110-1]: Nouvelle teneur selon l’annexe 1 ch. II 48 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^110-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^110-3]: Nouvelle teneur selon l’annexe 1 ch. II 48 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^110-4]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
+[^110-5]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
+[^110-6]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
+[^110-7]: Introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 
 #### Art. 110a
 
@@ -1705,16 +1717,16 @@ Le système d’information sert à l’exécution de la présente loi, de la DP
 Le système d’information permet de traiter les données sensibles suivantes:
 
 - a. les indications permettant d’identifier une personne, de la localiser et de prendre contact avec elle;
-- b. les indications relatives à l’appartenance religieuse ainsi que des profils de la personnalité au sens de l’art. 3, let. d, de la loi fédérale du 19 juin 1992 sur la protection des données[^110a-4], pour autant que cela soit nécessaire, à titre exceptionnel, à la poursuite pénale;
+- b.[^110a-4] les indications relatives à l’appartenance religieuse, pour autant que cela soit nécessaire, à titre exceptionnel, à la poursuite pénale;
 - c. les indications relatives au soupçon d’infractions;
 - d. les indications relatives aux éléments objectifs d’infractions ainsi qu’aux objets et moyens de preuve séquestrés;
 - e. les indications relatives au déroulement de procédures pénales et de procédures d’assistance administrative et d’entraide judiciaire;
 - f. les indications relatives à la perception ou à la garantie des redevances, amendes et peines concernées.
 
 [^110a-1]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
-[^110a-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^110a-3]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
-[^110a-4]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^110a-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+[^110a-3]: [RS 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
+[^110a-4]: Nouvelle teneur selon l’annexe 1 ch. II 48 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 110b
 
@@ -1819,8 +1831,8 @@ Ont accès en ligne aux données visées à l’al. 2, let. a à c, les personne
 <sup>4</sup> Dans le cadre de conventions au sens de l’art. 97, l’accès en ligne aux données visées à l’al. 2, let. a à c, peut être accordé aux collaborateurs des autorités cantonales de police compétents en matière de lutte contre la criminalité.
 
 [^110e-1]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
-[^110e-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758).Le titre a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
-[^110e-3]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^110e-2]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851).Le titre a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
+[^110e-3]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 #### Art. 110f
 
@@ -1878,11 +1890,11 @@ Le système d’information permet de traiter notamment des données concernant:
 
 <sup>2</sup>
 
-Peuvent en particulier être communiquées les données et connexions de données suivantes, y compris des données sensibles et des profils de la personnalité:
+Peuvent en particulier être communiquées les données et connexions de données suivantes, y compris des données sensibles et des données issues d’un profilage, y compris d’un profilage à risque élevé:[^112-1]
 
 - a. indications sur l’identité de personnes;
 - b. indications sur l’assujettissement aux redevances;
-- c.[^112-1] indications sur les procédures en suspens ou achevées relevant du droit administratif, du droit pénal administratif et du droit pénal ainsi que sur les sanctions relevant de la compétence de l’OFDF;
+- c.[^112-2] indications sur les procédures en suspens ou achevées relevant du droit administratif, du droit pénal administratif et du droit pénal ainsi que sur les sanctions relevant de la compétence de l’OFDF;
 - d. indications sur l’introduction dans le territoire douanier, l’importation et l’exportation de marchandises;
 - e. indications sur des infractions ou des infractions potentielles, y compris les infractions aux actes législatifs de la Confédération autres que douaniers;
 - f. indications sur des franchissements de la frontière;
@@ -1895,21 +1907,26 @@ Peuvent en particulier être communiquées les données et connexions de donnée
 L’OFDF peut rendre accessibles par procédure d’appel les données suivantes aux autorités mentionnées ci-après si elles sont nécessaires à l’exécution des actes législatifs que ces autorités doivent appliquer:
 
 - a. données des déclarations en douane, aux autorités suisses;
-- b. données des systèmes d’information de l’OFDF, aux divers services de ce dernier;
+- b.[^112-3] …
 - c. données des systèmes d’information du Corps des gardes-frontière, aux autorités de police compétentes.
 
 <sup>5</sup> Le Conseil fédéral fixe les modalités; il détermine en particulier les données qui peuvent être communiquées et les buts dans lesquels elles peuvent l’être.
 
-<sup>6</sup> Les données communiquées doivent être utilisées exclusivement de manière conforme au but assigné. Elles ne doivent pas être transmises à des tiers sans l’assentiment de l’OFDF. L’art. 6, al. 1, de la loi fédérale du 19 juin 1992 sur la protection des données[^112-2] est réservé.
+<sup>6</sup> Les données communiquées doivent être utilisées exclusivement de manière conforme au but assigné. Elles ne doivent pas être transmises à des tiers sans l’assentiment de l’OFDF. L’art. 16, al. 1, LPD[^112-4] est réservé.[^112-5]
 
-[^112-1]: Nouvelle teneur selon le ch. I 16 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^112-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^112-1]: Nouvelle teneur selon l’annexe 1 ch. II 48 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^112-2]: Nouvelle teneur selon le ch. I 16 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^112-3]: Abrogée par l’annexe 1 ch. II 48 de la LF du 25 sept. 2020 sur la protection des données, avec effet au 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^112-4]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^112-5]: Nouvelle teneur de la phrase selon l’annexe 1 ch. II 48 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 113
 
-**Communication de données à des autorités étrangères**
+**Communication de données à des autorités étrangères**[^113-1]
 
-L’OFDF ne peut communiquer des données, y compris des données sensibles et des profils de la personnalité, à des autorités d’autres États ainsi qu’à des organisations supranationales ou internationales (autorités étrangères), dans des cas d’espèce ou en procédure d’appel, que si un traité international le prévoit.
+L’OFDF ne peut communiquer des données, y compris des données sensibles et des données issues d’un profilage, y compris d’un profilage à risque élevé, à des autorités d’autres États ainsi qu’à des organisations supranationales ou internationales (autorités étrangères), dans des cas d’espèce ou en procédure d’appel, que si un traité international le prévoit.
+
+[^113-1]: Nouvelle teneur selon l’annexe 1 ch. II 48 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Chapitre 2 Assistance administrative entre autorités suisses
 
@@ -1923,9 +1940,10 @@ L’OFDF ne peut communiquer des données, y compris des données sensibles et d
 
 <sup>1</sup> L’OFDF et les autres autorités suisses se fournissent l’assistance administrative et se soutiennent mutuellement dans l’exécution de leurs tâches.
 
-<sup>2</sup> Les autorités suisses fournissent à l’OFDF les données, y compris des données sensibles et des profils de la personnalité, qui sont nécessaires à l’exécution des actes législatifs qu’il doit appliquer.
+<sup>2</sup> Les autorités suisses fournissent à l’OFDF les données, y compris des données sensibles et des données issues d’un profilage, y compris d’un profilage à risque élevé, qui sont nécessaires à l’exécution des actes législatifs qu’il doit appliquer.[^114-2]
 
 [^114-1]: Abrogé par l’annexe ch. 2 de la L du 28 sept. 2012 sur l’assistance administrative fiscale, avec effet au 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
+[^114-2]: Nouvelle teneur selon l’annexe 1 ch. II 48 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Chapitre 3 Assistance administrative internationale
 
@@ -1994,7 +2012,7 @@ Pour obtenir des renseignement, des documents, des objets ou des valeurs patrimo
 <sup>2</sup> Les art. 45 à 60 DPA[^115e-2] sont applicables.
 
 [^115e-1]: Introduit par l’annexe ch. 2 de la L du 28 sept. 2012 sur l’assistance administrative fiscale, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
-[^115e-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^115e-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 115f
 
@@ -2037,7 +2055,7 @@ La personne visée par la demande d’assistance administrative peut prendre par
 <sup>3</sup> Un recours contre une décision incidente au sens de l’al. 2 ou contre la décision finale peut être formé auprès du Tribunal administratif fédéral, qui décide en dernière instance. La qualité pour recourir est régie par l’art. 48 de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^115i-2].
 
 [^115i-1]: Introduit par l’annexe ch. 2 de la L du 28 sept. 2012 sur l’assistance administrative fiscale, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
-[^115i-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^115i-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ## Titre 7 Voies de droit
 
@@ -2088,7 +2106,7 @@ Est puni d’une amende pouvant atteindre le quintuple du montant des droits de 
 
 <sup>4</sup> Si le montant des droits de douane soustrait ne peut être déterminé exactement, il est estimé dans le cadre de la procédure administrative.
 
-[^118-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^118-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 119
 
@@ -2159,7 +2177,7 @@ Sont réputés circonstances aggravantes:
 
 Si l’amende prévisible ne dépasse pas 100 000 francs et que l’enquête portant sur des personnes punissables en vertu de l’art. 6 DPA[^125-1] implique des mesures d’instruction hors de proportion avec la peine encourue, l’autorité peut renoncer à poursuivre ces personnes et condamner l’entreprise (art. 7 DPA) au paiement de l’amende.
 
-[^125-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^125-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 126
 
@@ -2186,7 +2204,7 @@ En tant que le fait constitutif d’une infraction douanière n’est pas réali
 
 <sup>3</sup> Le renvoi devant le juge de l’auteur d’une infraction à l’art. 285 ou 286 du code pénal[^127-1] est réservé.
 
-[^127-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^127-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 128
 
@@ -2196,7 +2214,7 @@ En tant que le fait constitutif d’une infraction douanière n’est pas réali
 
 <sup>2</sup> L’autorité compétente pour poursuivre et juger est l’OFDF.
 
-[^128-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^128-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 128a
 
@@ -2228,7 +2246,7 @@ La communication est différée ou il y est renoncé aux conditions suivantes:
 
 La prescription de l’action pénale fixée à l’art. 11, al. 2, DPA[^129-1] s’applique à toutes les infractions douanières.
 
-[^129-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^129-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Titre 9 Dispositions finales
 
@@ -2246,7 +2264,7 @@ Le Conseil fédéral exécute la présente loi.
 
 <sup>2</sup> La modification du droit en vigueur est réglée en annexe.
 
-[^131-1]: [RS **6** 469; [RO 1956 635](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639), [1959 1397](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)art. 11 ch. III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)annexe ch. 7, [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)ch. I 1, [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)ch. III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)ch. I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)annexe 2 ch. 2, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)appendice ch. 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92 [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)ch. I 1 art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)annexe ch. II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 50]
+[^131-1]: [[RS 6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7743)469; [RO 1956 635](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639), [1959 1397](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)art. 11 ch. III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)annexe ch. 7, [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)ch. I 1, [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)ch. III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)ch. I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)annexe 2 ch. 2, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)appendice ch. 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92 [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)ch. I 1 art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)annexe ch. II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 50]
 
 #### Art. 132
 
@@ -2266,7 +2284,7 @@ Le Conseil fédéral exécute la présente loi.
 
 <sup>7</sup> ...[^132-2]
 
-[^132-1]: [RS **6** 469; [RO 1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644), [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)annexe 2 ch. 2]
+[^132-1]: [[RS 6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7743)469; [RO 1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644), [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)annexe 2 ch. 2]
 [^132-2]: Abrogé par le ch. I de la LF du 18 mars 2016, avec effet au 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 
 #### Art. 132a

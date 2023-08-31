@@ -4,11 +4,11 @@ title: Legge del 18 marzo 2005 sulle dogane (LD)
 short: LD
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/249"
 language: it
-version: 2022-09-01
+version: 2023-09-01
 adopted: 2005-03-18
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/249/20220901/it/xml/fedlex-data-admin-ch-eli-cc-2007-249-20220901-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/249/20220901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/249/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2007-249-20230901-it-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/249/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/249/20220901/it"
 
 (LD)
 
-del 18 marzo 2005 (Stato 1° settembre 2022)
+del 18 marzo 2005 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visti gli articoli 57 capoverso 2, 101, 121 capoverso 1 e 133 della Costituzione
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)
 
 ## Titolo primo: Basi doganali
@@ -111,7 +111,7 @@ Ai fini della presente legge s’intende per:
 - h. *esportazione*: il trasporto di merci in territorio doganale estero;
 - i. *transito*: il trasporto di merci attraverso il territorio doganale.
 
-[^6-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^6-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 
 ### Capitolo 2: Obbligo doganale e basi della riscossione del dazio
 
@@ -123,7 +123,7 @@ Ai fini della presente legge s’intende per:
 
 Le merci introdotte nel territorio doganale o asportate da esso sono soggette all’obbligo doganale e devono essere tassate secondo la presente legge e la legge sulla tariffa delle dogane[^7-1].
 
-[^7-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^7-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 
 #### Art. 8
 
@@ -154,7 +154,7 @@ Il Consiglio federale può dichiarare esenti da dazio:
 - l. gli imballaggi indigeni;
 - m.[^8-2] il materiale bellico della Confederazione e il materiale della protezione civile della Confederazione e dei Cantoni.
 
-[^8-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^8-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 [^8-2]: Nuovo testo giusta il n. II 3 della LF del 17 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816); [FF 2010 5293](https://fedlex.data.admin.ch/eli/fga/2010/1098)).
 
 #### Art. 9
@@ -236,7 +236,7 @@ Per determinati impieghi delle merci sono applicate aliquote di dazio più basse
 
 <sup>5</sup> Chiunque intende successivamente utilizzare o cedere merci tassate per usi soggetti a dazi meno elevati può, nei casi e nei termini previsti dal DFF, chiedere la restituzione della differenza.
 
-[^14-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^14-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 
 #### Art. 15
 
@@ -461,7 +461,7 @@ L’UDSC stabilisce per i singoli uffici doganali:
 
 <sup>3</sup> Il diritto[^31-1] di controllo si estingue cinque anni dopo l’importazione della merce. È fatta salva l’apertura di un’inchiesta penale.
 
-[^31-1]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^31-1]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ### Capitolo 2: Imposizione
 
@@ -541,7 +541,12 @@ L’ufficio doganale accoglie la domanda se la persona soggetta all’obbligo di
 
 **Decisione d’imposizione**
 
-L’ufficio doganale stabilisce i tributi doganali, allestisce la decisione d’imposizione e la notifica alla persona soggetta all’obbligo di dichiarazione.
+<sup>1</sup> L’ufficio doganale stabilisce i tributi doganali, allestisce la decisione d’imposizione e la notifica alla persona soggetta all’obbligo di dichiarazione.
+
+<sup>2</sup> Può rendere decisioni di tassazione sotto forma di decisioni individuali automatizzate ai sensi dell’articolo 21 della legge federale del 25 settembre 2020[^38-1] sulla protezione dei dati (LPD).[^38-2]
+
+[^38-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^38-2]: Introdotto dall’all. 1 n. II 48 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 39
 
@@ -713,7 +718,7 @@ Nel regime di transito:
 
 <sup>4</sup> Il capoverso 3 non è applicabile se le merci sono state riesportate entro il termine stabilito e la loro identità è comprovata. La domanda dev’essere presentata entro 60 giorni dalla scadenza del termine fissato per questo regime doganale.
 
-[^49-1]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^49-1]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ### Sezione 4: Regime di deposito doganale
 
@@ -1050,8 +1055,8 @@ Neanche le imprese di trasporto e i loro dipendenti rispondono solidalmente, se 
 <sup>6</sup> Chi assume un’impresa con attivo e passivo subentra nei diritti e negli obblighi della stessa in materia di obbligazioni doganali. Per un periodo di due anni dalla comunicazione o dalla notifica dell’assunzione, il precedente debitore dell’imposta è solidalmente responsabile con quello nuovo per le obbligazioni doganali sorte prima dell’assunzione.
 
 [^70-1]: Abrogata dal n. I della LF del 18 mar. 2016, con effetto dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
-[^70-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^70-3]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^70-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^70-3]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^70-4]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 
 #### Art. 71
@@ -1107,7 +1112,7 @@ L’interesse di mora non è dovuto:
 
 <sup>4</sup> L’obbligazione doganale decade in ogni caso 15 anni dopo la fine dell’anno civile in cui è sorta. Restano salvi i termini di prescrizione più lunghi secondo gli articoli 11 e 12 DPA[^75-1].
 
-[^75-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^75-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### Capitolo 2: Garanzia dei crediti doganali
 
@@ -1171,7 +1176,7 @@ Con la fideiussione doganale solidale possono essere garantiti:
 
 <sup>2</sup> Per il rimanente si applica il Codice delle obbligazioni[^80-1].
 
-[^80-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^80-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Sezione 3: Ordine di prestare garanzia e diritto di pegno doganale
 
@@ -1185,7 +1190,7 @@ Con la fideiussione doganale solidale possono essere garantiti:
 
 <sup>3</sup> L’ordine di prestare garanzia è parificato a una sentenza giudiziaria a tenore dell’articolo 80 della legge federale dell’11 aprile 1889[^81-1] sull’esecuzione e sul fallimento (LEF). Esso è reputato decreto di sequestro ai sensi dell’articolo 274 LEF. L’opposizione al decreto di sequestro non è ammessa.
 
-[^81-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^81-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 82
 
@@ -1233,7 +1238,7 @@ Senza garanzia, le merci o le cose sequestrate sono liberate se il proprietario:
 
 Se per errore l’UDSC non ha stabilito un tributo doganale o ha stabilito un tributo doganale insufficiente, oppure ha restituito un importo troppo elevato di un tributo doganale, esso può riscuotere posticipatamente l’importo dovuto, purché ne comunichi l’intenzione entro un anno dalla decisione d’imposizione[^85-1].
 
-[^85-1]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^85-1]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 86
 
@@ -1267,7 +1272,7 @@ Le domande devono essere presentate come segue:
 - a. domande ai sensi del capoverso 1: all’ufficio che ha effettuato l’imposizione, entro un anno dal passaggio in giudicato della decisione d’imposizione; per le imposizioni con obbligo di pagamento condizionato il termine è di un anno a contare dalla conclusione del regime doganale scelto;
 - b. domande ai sensi del capoverso 2: alla Direzione generale delle dogane, entro un anno dal passaggio in giudicato della decisione.[^86-3]
 
-[^86-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^86-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^86-2]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 [^86-3]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 
@@ -1283,7 +1288,8 @@ Un pegno doganale può essere realizzato se:
 
 - a. il credito doganale così garantito è diventato esigibile; e
 - b. il termine di pagamento impartito al debitore doganale o al fideiussore è scaduto infruttuosamente.
-- [tab] <sup>2</sup> L’UDSC può realizzare immediatamente e senza il consenso del proprietario del pegno le merci o cose che sono esposte a rapido deprezzamento o che richiedono una manutenzione costosa.
+
+<sup>2</sup> L’UDSC può realizzare immediatamente e senza il consenso del proprietario del pegno le merci o cose che sono esposte a rapido deprezzamento o che richiedono una manutenzione costosa.
 
 <sup>3</sup> Il pegno è di norma realizzato mediante incanto pubblico. Il Consiglio federale può stabilire i principi relativi alla procedura; per il rimanente fanno stato le disposizioni del diritto cantonale vigente nel luogo dell’incanto.
 
@@ -1324,7 +1330,7 @@ Si procede per esecuzione in via di pignoramento secondo l’articolo 42 LEF[^88
 
 <sup>4</sup> La graduazione definitiva di un credito contestato non ha luogo finché manca una decisione dell’UDSC passata in giudicato.
 
-[^88-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^88-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### Capitolo 5: Tasse
 
@@ -1380,7 +1386,7 @@ L’UDSC può riscuotere tasse per:
 <sup>3</sup> Il rifiuto di prestare giuramento o promessa solenne può condurre alla disdetta ordinaria ai sensi dell’articolo 10 capoverso 3 lettera a della legge del 24 marzo 2000[^91a-2] sul personale federale.
 
 [^91a-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
-[^91a-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^91a-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 92
 
@@ -1410,11 +1416,11 @@ Il Consiglio federale è autorizzato a:
 - b. concordare con le autorità estere competenti l’impiego di agenti di collegamento dell’UDSC;
 - c. disciplinare l’estensione dei compiti previsti al capoverso 4.[^92-5]
 
-[^92-1]: Nuovo testo giusta il n. 3 dell’all. al DF del 15 dic. 2017 (recepimento del regolamento [UE] 2016/1624 relativo alla guardia di frontiera e costiera europea), in vigore dal 15 set. 2018 ([RU 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3561](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
-[^92-2]: Introdotto dall’art. 3 del DF del 3 ott. 2008 che approva e traspone gli scambi di note tra la Svizzera e la Comunità europea relativi al recepimento del regolamento FRONTEX e del regolamento RABIT ([RU 2009 4583](https://fedlex.data.admin.ch/eli/oc/2009/543); [FF 2008 1225](https://fedlex.data.admin.ch/eli/fga/2008/360)). Nuovo testo giusta il n. 3 dell’all. al DF del 15 dic. 2017 (recepimento del regolamento [UE] 2016/1624 relativo alla guardia di frontiera e costiera europea), in vigore dal 15 set. 2018 ([RU 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3561](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
-[^92-3]: Introdotto dall’art. 3 del DF del 3 ott. 2008 che approva e traspone gli scambi di note tra la Svizzera e la Comunità europea relativi al recepimento del regolamento FRONTEX e del regolamento RABIT ([RU 2009 4583](https://fedlex.data.admin.ch/eli/oc/2009/543); [FF 2008 1225](https://fedlex.data.admin.ch/eli/fga/2008/360)). Nuovo testo giusta il n. 3 dell’all. al DF del 15 dic. 2017 (recepimento del regolamento [UE] 2016/1624 relativo alla guardia di frontiera e costiera europea), in vigore dal 15 set. 2018 ([RU 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3561](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
-[^92-4]: Introdotto dal n. 3 dell’all. al DF del 15 dic. 2017 (recepimento del regolamento [UE] 2016/1624 relativo alla guardia di frontiera e costiera europea), in vigore dal 15 set. 2018 ([RU 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3561](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
-[^92-5]: Introdotto dal n. 3 dell’all. al DF del 15 dic. 2017 (recepimento del regolamento [UE] 2016/1624 relativo alla guardia di frontiera e costiera europea), in vigore dal 15 set. 2018 ([RU 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3561](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
+[^92-1]: Nuovo testo giusta l’all. n. 3 del DF del 15 dic. 2017 (recepimento del regolamento [UE] 2016/1624 relativo alla guardia di frontiera e costiera europea), in vigore dal 15 set. 2018 ([RU 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3561](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
+[^92-2]: Introdotto dall’art. 3 del DF del 3 ott. 2008 che approva e traspone gli scambi di note tra la Svizzera e la Comunità europea relativi al recepimento del regolamento FRONTEX e del regolamento RABIT ([RU 2009 4583](https://fedlex.data.admin.ch/eli/oc/2009/543); [FF 2008 1225](https://fedlex.data.admin.ch/eli/fga/2008/360)). Nuovo testo giusta l’all. n. 3 del DF del 15 dic. 2017 (recepimento del regolamento [UE] 2016/1624 relativo alla guardia di frontiera e costiera europea), in vigore dal 15 set. 2018 ([RU 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3561](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
+[^92-3]: Introdotto dall’art. 3 del DF del 3 ott. 2008 che approva e traspone gli scambi di note tra la Svizzera e la Comunità europea relativi al recepimento del regolamento FRONTEX e del regolamento RABIT ([RU 2009 4583](https://fedlex.data.admin.ch/eli/oc/2009/543); [FF 2008 1225](https://fedlex.data.admin.ch/eli/fga/2008/360)). Nuovo testo giusta l’all. n. 3 del DF del 15 dic. 2017 (recepimento del regolamento [UE] 2016/1624 relativo alla guardia di frontiera e costiera europea), in vigore dal 15 set. 2018 ([RU 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3561](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
+[^92-4]: Introdotto dall’all. n. 3 del DF del 15 dic. 2017 (recepimento del regolamento [UE] 2016/1624 relativo alla guardia di frontiera e costiera europea), in vigore dal 15 set. 2018 ([RU 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3561](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
+[^92-5]: Introdotto dall’all. n. 3 del DF del 15 dic. 2017 (recepimento del regolamento [UE] 2016/1624 relativo alla guardia di frontiera e costiera europea), in vigore dal 15 set. 2018 ([RU 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3561](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
 
 #### Art. 92a
 
@@ -1514,8 +1520,8 @@ Per l’adempimento dei compiti che le sono assegnati, in particolare per garant
 
 <sup>2</sup> ...[^100-3]
 
-[^100-1]: [RS 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
-[^100-2]: Introdotto dal n. 5 dell’all. alla L del 20 mar. 2008 sulla coercizone, in vigore dal 1° gen. 2009 ([RU 2008 5463](https://fedlex.data.admin.ch/eli/oc/2008/759); [FF 2006 2327](https://fedlex.data.admin.ch/eli/fga/2006/250)).
+[^100-1]: [RS 364](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6323)
+[^100-2]: Introdotto dall’all. n. 5 della L del 20 mar. 2008 sulla coercizone, in vigore dal 1° gen. 2009 ([RU 2008 5463](https://fedlex.data.admin.ch/eli/oc/2008/759); [FF 2006 2327](https://fedlex.data.admin.ch/eli/fga/2006/250)).
 [^100-3]: Abrogato dal n. I della LF del 18 mar. 2016, con effetto dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 
 #### Art. 101
@@ -1554,12 +1560,15 @@ L’UDSC può far perquisire o sottoporre alla visita personale una persona se:
 
 <sup>1</sup>
 
-L’UDSC può accertare l’identità di una persona fotografandola o rilevandone dati biometrici se:
+L’UDCS può accertare l’identità di una persona fotografandola o rilevandone dati genetici o biometrici se:[^103-1]
 
 - a. tale persona è sospettata di aver commesso o di essere potenzialmente in procinto di commettere gravi infrazioni; o
 - b. un altro disposto prevede l’accertamento dell’identità di persone.
 
-<sup>2</sup> Il Consiglio federale determina i dati biometrici che possono essere rilevati.
+<sup>2</sup> Il Consiglio federale determina i dati genetici e biometrici che possono essere rilevati. [^103-2]
+
+[^103-1]: Nuovo testo giusta l’all. 1 n. II 48 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^103-2]: Nuovo testo giusta l’all. 1 n. II 48 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 104
 
@@ -1579,8 +1588,8 @@ L’UDSC può mettere provvisoriamente al sicuro oggetti e valori patrimoniali, 
 <sup>4</sup> L’UDSC può ordinare la confisca indipendente di oggetti e valori patrimoniali di cui agli articoli 69 e 70 del Codice penale[^104-3]. La procedura è retta dall’articolo 66 DPA.
 
 [^104-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
-[^104-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^104-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^104-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+[^104-3]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 105
 
@@ -1592,7 +1601,7 @@ L’UDSC può mettere provvisoriamente al sicuro oggetti e valori patrimoniali, 
 
 <sup>3</sup> Esso consegna immediatamente la persona fermata all’autorità competente.
 
-[^105-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^105-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 106
 
@@ -1613,7 +1622,7 @@ Il Consiglio federale disciplina:
 - a. in quale misura il rimanente personale dell’UDSC è autorizzato a portare e utilizzare armi o altri mezzi di autodifesa e coattivi;
 - b. l’uso dell’arma e degli altri mezzi di autodifesa e coattivi.
 
-[^106-1]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^106-1]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 
 #### Art. 107
 
@@ -1625,7 +1634,7 @@ Il Consiglio federale disciplina:
 
 <sup>3</sup> Alla perquisizione di abitazioni e altri locali come pure di immobili cintati e attigui a una casa o di costruzioni si applicano le condizioni di cui all’articolo 48 DPA[^107-1].
 
-[^107-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^107-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 108
 
@@ -1656,11 +1665,9 @@ L’UDSC può impiegare telecamere e videoregistratori automatici nonché altri 
 
 **Sistemi d’informazione dell’UDSC**
 
-<sup>1</sup> L’UDSC può elaborare dati personali, inclusi quelli degni di particolare protezione e i profili della personalità, sempre che sia necessario per l’esecuzione dei disposti che esso deve applicare.
+<sup>1</sup>
 
-<sup>2</sup>
-
-L’UDSC può gestire sistemi d’informazione, segnatamente per:
+L’UDSC può elaborare dati personali, inclusi quelli degni di particolare protezione, per:
 
 - a. determinare e riscuotere tributi;
 - b. allestire analisi dei rischi;
@@ -1669,26 +1676,31 @@ L’UDSC può gestire sistemi d’informazione, segnatamente per:
 - e. allestire statistiche;
 - f. svolgere e analizzare attività di polizia nell’ambito dei controlli delle persone;
 - g. svolgere e analizzare l’esecuzione dei disposti federali di natura non doganale;
-- h. svolgere e analizzare attività nell’ambito della lotta alla criminalità.
+- h. svolgere e analizzare attività nell’ambito della lotta alla criminalità.[^110-1]
 
-<sup>2bis</sup> I sistemi d’informazione con dati personali, compresi dati degni di particolare protezione, sono disciplinati negli articoli 110*a*–110*f*.[^110-1]
+<sup>2</sup> A tal fine può gestire sistemi d’informazione. Per adempiere i compiti di cui al capoverso 1 lettere a–c ed e–h è inoltre autorizzato a effettuare profilazioni, incluse quelle a rischio elevato, ai sensi della LPD[^110-2].[^110-3]
+
+<sup>2bis</sup> I sistemi d’informazione con dati personali, compresi dati degni di particolare protezione, sono disciplinati negli articoli 110*a*–110*f*.[^110-4]
 
 <sup>3</sup>
 
-Il Consiglio federale disciplina:[^110-2]
+Il Consiglio federale disciplina:[^110-5]
 
 - a. l’organizzazione e la gestione dei sistemi d’informazione;
 - b. i cataloghi dei dati da registrare;
-- c.[^110-3] la ripresa in un sistema d’informazione dell’UDSC di dati provenienti da altri sistemi d’informazione della Confederazione nel quadro dell’articolo 111 capoverso 1;
+- c.[^110-6] la ripresa in un sistema d’informazione dell’UDSC di dati provenienti da altri sistemi d’informazione della Confederazione nel quadro dell’articolo 111 capoverso 1;
 - d. il diritto di elaborazione dei dati;
-- d<sup>bis</sup>.[^110-4] l’acquisizione e la comunicazione dei dati nel quadro degli articoli 112 e 113;
+- d<sup>bis</sup>.[^110-7] l’acquisizione e la comunicazione dei dati nel quadro degli articoli 112 e 113;
 - e. la durata di conservazione dei dati;
 - f. l’archiviazione e la distruzione dei dati.
 
-[^110-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
-[^110-2]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
-[^110-3]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
-[^110-4]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
+[^110-1]: Nuovo testo giusta l’all. 1 n. II 48 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^110-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^110-3]: Nuovo testo giusta l’all. 1 n. II 48 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^110-4]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
+[^110-5]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
+[^110-6]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
+[^110-7]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 
 #### Art. 110a
 
@@ -1711,16 +1723,16 @@ Il sistema d’informazione serve all’esecuzione della presente legge, del DPA
 Nel sistema d’informazione possono essere elaborati i seguenti dati personali degni di particolare protezione:
 
 - a. indicazioni necessarie per identificare, localizzare e contattare una persona;
-- b. indicazioni concernenti l’appartenenza religiosa, nonché profili della personalità ai sensi dell’articolo 3 lettera d della legge federale del 19 giugno 1992[^110a-4] sulla protezione dei dati, sempre che ciò sia eccezionalmente necessario per il perseguimento penale;
+- b.[^110a-4] indicazioni concernenti l’appartenenza religiosa, sempre che ciò sia eccezionalmente necessario per il perseguimento penale;
 - c. indicazioni su sospetti di infrazione;
 - d. indicazioni su elementi oggettivi di reato, nonché su oggetti e mezzi di prova sequestrati;
 - e. indicazioni sullo svolgimento di procedimenti penali e di procedure di assistenza giudiziaria e amministrativa;
 - f. indicazioni sulla riscossione e sull’assicurazione di tributi, multe e pene.
 
 [^110a-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
-[^110a-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^110a-3]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
-[^110a-4]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^110a-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+[^110a-3]: [RS 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
+[^110a-4]: Nuovo testo giusta l’all. 1 n. II 48 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 110b
 
@@ -1825,10 +1837,10 @@ Le seguenti persone hanno accesso, mediante procedura di richiamo, ai dati di cu
 <sup>4</sup> Nel quadro degli accordi di cui all’articolo 97 è possibile concedere l’accesso, mediante procedura di richiamo, ai dati di cui al capoverso 2 lettere a–c ai collaboratori delle autorità cantonali di polizia competenti per la lotta contro la criminalità.
 
 [^110e-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
-[^110e-2]: Nuovo testo giusta il n. 3 dell’all. al DF del 15 dic. 2017 (recepimento del regolamento [UE] 2016/1624 relativo alla guardia di frontiera e costiera europea), in vigore dal 15 set. 2018 ([RU 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3561](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
-[^110e-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^110e-4]: Il titolo è stato adattato in applicazione dell’art. 12 cpv. 2 della LF del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2019.
-[^110e-5]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^110e-2]: Nuovo testo giusta l’all. n. 3 del DF del 15 dic. 2017 (recepimento del regolamento [UE] 2016/1624 relativo alla guardia di frontiera e costiera europea), in vigore dal 15 set. 2018 ([RU 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3561](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
+[^110e-3]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^110e-4]: Il titolo è stato adattato in applicazione dell’art. 12 cpv. 2 della LF del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2019.
+[^110e-5]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 #### Art. 110f
 
@@ -1886,11 +1898,11 @@ Nel sistema d’informazione possono essere elaborati in particolare i dati rela
 
 <sup>2</sup>
 
-Possono in particolare essere comunicati i seguenti dati e connessioni di dati, inclusi i dati personali degni di particolare protezione e i profili della personalità:
+Possono in particolare essere comunicati i dati e le connessioni di dati seguenti, inclusi i dati personali degni di particolare protezione e i dati risultanti da una profilazione o da una profilazione a rischio elevato:[^112-1]
 
 - a. indicazioni concernenti l’identità di persone;
 - b. indicazioni concernenti gli assoggettamenti a tributi;
-- c.[^112-1] indicazioni concernenti procedimenti amministrativi e penali pendenti o conclusi, nonché sanzioni amministrative e penali rientranti nelle competenze dell’UDSC;
+- c.[^112-2] indicazioni concernenti procedimenti amministrativi e penali pendenti o conclusi, nonché sanzioni amministrative e penali rientranti nelle competenze dell’UDSC;
 - d indicazioni concernenti l’introduzione, l’importazione e l’esportazione di merci;
 - e. indicazioni concernenti reati commessi o la cui commissione è potenzialmente imminente, comprese le infrazioni a disposti federali di natura non doganale;
 - f. indicazioni concernenti passaggi del confine;
@@ -1903,27 +1915,32 @@ Possono in particolare essere comunicati i seguenti dati e connessioni di dati, 
 L’UDSC può rendere accessibili alle autorità menzionate qui appresso i seguenti dati mediante procedura di richiamo, sempre che essi siano necessari per l’esecuzione dei disposti che queste autorità devono applicare:
 
 - a. dati di dichiarazioni doganali: alle autorità svizzere;
-- b. dati provenienti da sistemi d’informazione dell’UDSC: agli organi di quest’ultima;
+- b.[^112-3] ...
 - c. dati provenienti da sistemi informatici del Corpo delle guardie di confine: alle competenti autorità di polizia.
 
 <sup>5</sup> Il Consiglio federale disciplina i particolari, segnatamente lo scopo e il contenuto della comunicazione di dati.
 
-<sup>6</sup> I dati comunicati devono essere utilizzati esclusivamente in modo conforme allo scopo previsto. Essi non possono essere trasmessi a terzi senza il consenso dell’UDSC. È fatto salvo l’articolo 6 capoverso 1 della legge federale del 19 giugno 1992[^112-2] sulla protezione dei dati.
+<sup>6</sup> I dati comunicati devono essere utilizzati esclusivamente in modo conforme allo scopo previsto. Essi non possono essere trasmessi a terzi senza il consenso dell’UDSC. È fatto salvo l’articolo 16 capoverso 1 LPD[^112-4].[^112-5]
 
-[^112-1]: Nuovo testo giusta il n. I 16 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^112-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^112-1]: Nuovo testo giusta l’all. 1 n. II 48 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^112-2]: Nuovo testo giusta il n. I 16 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^112-3]: Abrogata dal’all. 1 n. II 48 della LF del 25 set. 2020 sulla protezione dei dati, con effetto dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^112-4]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^112-5]: Nuovo testo del per. giusta l’all. 1 n. II 48 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 113
 
-**Comunicazione di dati ad autorità estere**
+**Comunicazione di dati ad autorità estere**[^113-1]
 
-L’UDSC può comunicare dati, inclusi i dati personali degni di particolare protezione e i profili della personalità, ad autorità di altri Stati nonché ad organizzazioni sopranazionali o internazionali (autorità estere) in singoli casi o mediante procedura di richiamo, sempre che un trattato internazionale lo preveda.
+L’UDSC può comunicare dati, inclusi i dati personali degni di particolare protezione e i dati risultanti da una profilazione o da una profilazione a rischio elevato, ad autorità di altri Stati nonché a organizzazioni sopranazionali o internazionali (autorità estere) in singoli casi o mediante procedura di richiamo, sempre che un trattato internazionale lo preveda.
+
+[^113-1]: Nuovo testo giusta l’all. 1 n. II 48 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Capitolo 2: Assistenza amministrativa tra autorità svizzere
 
 [^tit6-chap2-1]
 
-[^tit6-chap2-1]: Nuovo testo giusta il n. 2 dell’all. alla L del 28 set. 2012 sull’assistenza amministrativa fiscale, in vigore dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
+[^tit6-chap2-1]: Nuovo testo giusta l’all. n. 2 della L del 28 set. 2012 sull’assistenza amministrativa fiscale, in vigore dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 
 #### Art. 114
 
@@ -1931,15 +1948,16 @@ L’UDSC può comunicare dati, inclusi i dati personali degni di particolare pro
 
 <sup>1</sup> L’UDSC e altre autorità svizzere si prestano vicendevolmente assistenza amministrativa nell’adempimento dei loro compiti e collaborano mutualmente.
 
-<sup>2</sup> Le autorità svizzere comunicano all’UDSC dati, inclusi i dati personali degni di particolare protezione e i profili della personalità, sempre che ciò sia necessario per l’esecuzione dei disposti ch’esso deve applicare.
+<sup>2</sup> Le autorità svizzere comunicano all’UDSC dati, inclusi i dati personali degni di particolare protezione e i dati risultanti da una profilazione o da una profilazione a rischio elevato, sempre che ciò sia necessario per l’esecuzione dei disposti ch’esso deve applicare.[^114-2]
 
-[^114-1]: Abrogata dal n. 2 dell’all. alla L del 28 set. 2012 sull’assistenza amministrativa fiscale, con effetto dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
+[^114-1]: Abrogata dall’all. n. 2 della L del 28 set. 2012 sull’assistenza amministrativa fiscale, con effetto dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
+[^114-2]: Nuovo testo giusta l’all. 1 n. II 48 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Capitolo 3: Assistenza amministrativa internazionale
 
 [^tit6-chap3-1]
 
-[^tit6-chap3-1]: Introdotto dal n. 2 dell’all. alla L del 28 set. 2012 sull’assistenza amministrativa fiscale, in vigore dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
+[^tit6-chap3-1]: Introdotto dall’all. n. 2 della L del 28 set. 2012 sull’assistenza amministrativa fiscale, in vigore dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 
 #### Art. 115
 
@@ -1949,7 +1967,7 @@ L’UDSC può comunicare dati, inclusi i dati personali degni di particolare pro
 
 <sup>2</sup> Ove un trattato internazionale lo preveda, esso può concedere l’assistenza amministrativa anche d’ufficio.
 
-[^115-1]: Nuovo testo giusta il n. 2 dell’all. alla L del 28 set. 2012 sull’assistenza amministrativa, in vigore dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
+[^115-1]: Nuovo testo giusta l’all. n. 2 della L del 28 set. 2012 sull’assistenza amministrativa, in vigore dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 
 #### Art. 115a
 
@@ -1961,7 +1979,7 @@ L’UDSC può comunicare dati, inclusi i dati personali degni di particolare pro
 
 <sup>3</sup> Se l’autorità competente non è in grado di eseguire i provvedimenti richiesti, l’UDSC esegue l’assistenza amministrativa con l’ausilio dell’autorità competente.
 
-[^115a-1]: Introdotto dal n. 2 dell’all. alla L del 28 set. 2012 sull’assistenza amministrativa fiscale, in vigore dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
+[^115a-1]: Introdotto dall’all. n. 2 della L del 28 set. 2012 sull’assistenza amministrativa fiscale, in vigore dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 
 #### Art. 115b
 
@@ -1971,7 +1989,7 @@ L’UDSC può comunicare dati, inclusi i dati personali degni di particolare pro
 
 <sup>2</sup> Se queste condizioni non sono soddisfatte, l’autorità competente lo comunica per scritto all’autorità richiedente, dandole la possibilità di completare per scritto la domanda.
 
-[^115b-1]: Introdotto dal n. 2 dell’all. alla L del 28 set. 2012 sull’assistenza amministrativa fiscale, in vigore dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
+[^115b-1]: Introdotto dall’all. n. 2 della L del 28 set. 2012 sull’assistenza amministrativa fiscale, in vigore dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 
 #### Art. 115c
 
@@ -1979,7 +1997,7 @@ L’UDSC può comunicare dati, inclusi i dati personali degni di particolare pro
 
 Ai fini della produzione di informazioni, documentazione, oggetti o valori patrimoniali sono ammessi unicamente i provvedimenti previsti dal diritto svizzero e che possono essere applicati nell’ambito del diritto doganale o dei disposti federali di natura non doganale.
 
-[^115c-1]: Introdotto dal n. 2 dell’all. alla L del 28 set. 2012 sull’assistenza amministrativa fiscale, in vigore dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
+[^115c-1]: Introdotto dall’all. n. 2 della L del 28 set. 2012 sull’assistenza amministrativa fiscale, in vigore dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 
 #### Art. 115d
 
@@ -1991,7 +2009,7 @@ Ai fini della produzione di informazioni, documentazione, oggetti o valori patri
 
 <sup>3</sup> Se la persona interessata rifiuta di collaborare o di deporre, l’UDSC emana una decisione sull’obbligo di collaborare e di produrre informazioni, dati e documenti.
 
-[^115d-1]: Introdotto dal n. 2 dell’all. alla L del 28 set. 2012 sull’assistenza amministrativa fiscale, in vigore dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
+[^115d-1]: Introdotto dall’all. n. 2 della L del 28 set. 2012 sull’assistenza amministrativa fiscale, in vigore dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 
 #### Art. 115e
 
@@ -2001,8 +2019,8 @@ Ai fini della produzione di informazioni, documentazione, oggetti o valori patri
 
 <sup>2</sup> Gli articoli 45–60 DPA[^115e-2] sono applicabili.
 
-[^115e-1]: Introdotto dal n. 2 dell’all. alla L del 28 set. 2012 sull’assistenza amministrativa fiscale, in vigore dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
-[^115e-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^115e-1]: Introdotto dall’all. n. 2 della L del 28 set. 2012 sull’assistenza amministrativa fiscale, in vigore dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
+[^115e-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 115f
 
@@ -2010,7 +2028,7 @@ Ai fini della produzione di informazioni, documentazione, oggetti o valori patri
 
 Se è stata obbligata a collaborare conformemente all’articolo 115*d* o se sono stati ordinati provvedimenti coercitivi conformemente all’articolo 115*e*, la persona interessata dalla domanda può partecipare alla procedura e consultare gli atti.
 
-[^115f-1]: Introdotto dal n. 2 dell’all. alla L del 28 set. 2012 sull’assistenza amministrativa fiscale, in vigore dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
+[^115f-1]: Introdotto dall’all. n. 2 della L del 28 set. 2012 sull’assistenza amministrativa fiscale, in vigore dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 
 #### Art. 115g
 
@@ -2022,7 +2040,7 @@ Se è stata obbligata a collaborare conformemente all’articolo 115*d* o se son
 
 <sup>3</sup> Se il consenso riguarda soltanto una parte delle informazioni, della documentazione, degli oggetti o dei valori patrimoniali, alla parte rimanente si applica la procedura ordinaria.
 
-[^115g-1]: Introdotto dal n. 2 dell’all. alla L del 28 set. 2012 sull’assistenza amministrativa fiscale, in vigore dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
+[^115g-1]: Introdotto dall’all. n. 2 della L del 28 set. 2012 sull’assistenza amministrativa fiscale, in vigore dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 
 #### Art. 115h
 
@@ -2032,7 +2050,7 @@ Se è stata obbligata a collaborare conformemente all’articolo 115*d* o se son
 
 <sup>2</sup> Le informazioni, la documentazione, gli oggetti o i valori patrimoniali presumibilmente irrilevanti non possono essere trasmessi. L’autorità competente li rimuove o li rende irriconoscibili.
 
-[^115h-1]: Introdotto dal n. 2 dell’all. alla L del 28 set. 2012 sull’assistenza amministrativa fiscale, in vigore dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
+[^115h-1]: Introdotto dall’all. n. 2 della L del 28 set. 2012 amministrativa fiscale, in vigore dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 
 #### Art. 115i
 
@@ -2044,8 +2062,8 @@ Se è stata obbligata a collaborare conformemente all’articolo 115*d* o se son
 
 <sup>3</sup> Contro le decisioni incidentali di cui al capoverso 2 e la decisione finale può essere interposto ricorso al Tribunale amministrativo federale; quest’ultimo decide in via definitiva. La legittimazione a ricorrere è retta dall’articolo 48 della legge federale del 20 dicembre 1968[^115i-2] sulla procedura amministrativa.
 
-[^115i-1]: Introdotto dal n. 2 dell’all. alla L del 28 set. 2012 sull’assistenza amministrativa fiscale, in vigore dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
-[^115i-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^115i-1]: Introdotto dall’all. n. 2 della L del 28 set. 2012 sull’assistenza amministrativa fiscale, in vigore dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
+[^115i-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ## Titolo settimo: Protezione giuridica
 
@@ -2097,7 +2115,7 @@ Sono infrazioni doganali:
 
 <sup>4</sup> Se non può essere determinato esattamente, l’importo del tributo doganale frodato è stimato nell’ambito del procedimento amministrativo.
 
-[^118-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^118-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 119
 
@@ -2168,7 +2186,7 @@ Sono circostanze aggravanti:
 
 Se la multa applicabile non supera i 100 000 franchi e l’individuazione delle persone punibili in virtù dell’articolo 6 DPA[^125-1] implica provvedimenti d’inchiesta sproporzionati all’entità della pena, l’autorità può prescindere da un procedimento contro dette persone e, in loro vece, condannare l’azienda (art. 7 DPA) al pagamento della multa.
 
-[^125-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^125-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 126
 
@@ -2196,7 +2214,7 @@ Sempre che non sia adempita la fattispecie legale di un’infrazione doganale, �
 
 <sup>3</sup> È fatto salvo il rinvio a giudizio giusta gli articoli 285 o 286 del Codice penale[^127-1].
 
-[^127-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^127-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 128
 
@@ -2206,7 +2224,7 @@ Sempre che non sia adempita la fattispecie legale di un’infrazione doganale, �
 
 <sup>2</sup> L’UDSC è l’autorità competente per il perseguimento e il giudizio.
 
-[^128-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^128-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 128a
 
@@ -2238,7 +2256,7 @@ La comunicazione è differita o tralasciata se:
 
 La prescrizione dell’azione penale a tenore dell’articolo 11 capoverso 2 DPA[^129-1] si applica a tutte le infrazioni doganali.
 
-[^129-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^129-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Titolo nono: Disposizioni finali
 
@@ -2256,7 +2274,7 @@ Il Consiglio federale è incaricato dell’esecuzione della presente legge.
 
 <sup>2</sup> La modifica del diritto vigente è disciplinata in allegato.
 
-[^131-1]: [CS **6** 475; [RU 1956 639](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639)**,** **1959** 1400 art. 11 n. III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644),[1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)all. n. 7,[1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)n. I 1,[1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)n. III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)n. I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)all. 2 n. 2, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92 [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)n. I 1 art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)all. n. II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 50]
+[^131-1]: [CS **6** 475; [RU 1956 639](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639);**1959** 1400 art. 11 n. III; [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644);[1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)all. n. 7;[1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)n. I 1;[1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)n. III; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)n. I 3; [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)all. 2 n. 2; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 13; [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. VI 6; [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)n. I 1 art. 41; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)all. n. II 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 50]
 
 #### Art. 132
 

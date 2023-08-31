@@ -4,11 +4,11 @@ title: Zollgesetz vom 18. März 2005 (ZG)
 short: ZG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/249"
 language: de
-version: 2022-09-01
+version: 2023-09-01
 adopted: 2005-03-18
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/249/20220901/de/xml/fedlex-data-admin-ch-eli-cc-2007-249-20220901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/249/20220901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/249/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2007-249-20230901-de-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/249/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/249/20220901/de"
 
 (ZG)
 
-vom 18. März 2005 (Stand am 1. September 2022)
+vom 18. März 2005 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 57 Absatz 2, 101, 121 Absatz 1 und 133 der Bundesverfa
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)
 
 ## 1. Titel: Grundlagen des Zollwesens
@@ -111,7 +111,7 @@ Im Sinne dieses Gesetzes bedeuten:
 - h. *Ausfuhr:* das Überführen von Waren ins Zollausland;
 - i. *Durchfuhr:* das Befördern von Waren durch das Zollgebiet.
 
-[^6-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^6-1]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 
 ### 2. Kapitel: Zollpflicht und Zollerhebungsgrundlagen
 
@@ -123,7 +123,7 @@ Im Sinne dieses Gesetzes bedeuten:
 
 Waren, die ins Zollgebiet oder aus dem Zollgebiet verbracht werden, sind zollpflichtig und müssen nach diesem Gesetz sowie nach dem Zolltarifgesetz[^7-1] veranlagt werden.
 
-[^7-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^7-1]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 
 #### Art. 8
 
@@ -154,7 +154,7 @@ Der Bundesrat kann für zollfrei erklären:
 - l. inländisches Verpackungsmaterial;
 - m.[^8-2] Kriegsmaterial des Bundes und Zivilschutzmaterial des Bundes und der Kantone.
 
-[^8-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^8-1]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 [^8-2]: Fassung gemäss Ziff. II 3 des BG vom 17. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816); [BBl 2010 6055](https://fedlex.data.admin.ch/eli/fga/2010/1098)).
 
 #### Art. 9
@@ -234,7 +234,7 @@ Für bestimmte Verwendungen von Waren werden tiefere Zollansätze angewendet, we
 
 <sup>5</sup> Wer veranlagte Waren nachträglich zu Zwecken verwenden oder abgeben will, die tieferen Zollabgaben unterliegen, kann in den Fällen und innerhalb der Fristen, die das EFD vorsieht, die Differenz mit einem Rückerstattungsgesuch geltend machen.
 
-[^14-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^14-1]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 
 #### Art. 15
 
@@ -537,7 +537,12 @@ Die Zollstelle gibt dem Gesuch statt, wenn die anmeldepflichtige Person nachweis
 
 **Veranlagungsverfügung**
 
-Die Zollstelle setzt die Zollabgaben fest, stellt die Veranlagungsverfügung aus und eröffnet diese der anmeldepflichtigen Person.
+<sup>1</sup> Die Zollstelle setzt die Zollabgaben fest, stellt die Veranlagungsverfügung aus und eröffnet diese der anmeldepflichtigen Person.
+
+<sup>2</sup> Sie kann die Veranlagungsverfügung als automatisierte Einzelentscheidung nach Artikel 21 des Datenschutzgesetzes vom 25. September 2020[^38-1] (DSG) erlassen.[^38-2]
+
+[^38-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^38-2]: Eingefügt durch Anhang 1 Ziff. II 48 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 39
 
@@ -819,7 +824,7 @@ Die Bewilligung kann:
 
 <sup>1</sup> Waren aus offenen Zolllagern werden ausgelagert, indem sie in ein Zollverfahren, das für solche Waren bei der Einfuhr oder beim Verbringen ins Zollgebiet zulässig wäre, übergeführt oder zum Transitverfahren angemeldet und ausgeführt werden.
 
-- [tab] <sup>2</sup> Waren aus Lagern für Massengüter werden ausgelagert, indem sie in ein anderes Zollverfahren übergeführt werden. Bei der Überführung in den zollrechtlich freien Verkehr sind die Einfuhrzollabgaben zu entrichten.
+<sup>2</sup> Waren aus Lagern für Massengüter werden ausgelagert, indem sie in ein anderes Zollverfahren übergeführt werden. Bei der Überführung in den zollrechtlich freien Verkehr sind die Einfuhrzollabgaben zu entrichten.
 
 ### 5. Abschnitt: Verfahren der vorübergehenden Verwendung
 
@@ -1044,8 +1049,8 @@ Ebenfalls nicht solidarisch haften Transportunternehmen und ihre Angestellten, w
 <sup>6</sup> Wer ein Unternehmen mit Aktiven und Passiven übernimmt, tritt in die zollschuldnerischen Rechte und Pflichten des Unternehmens ein. Die bisherige Zollschuldnerin oder der bisherige Zollschuldner haftet mit der oder dem neuen während zwei Jahren ab der Mitteilung oder Auskündung der Übernahme solidarisch für die Zollschulden, die vor der Übernahme entstanden sind.
 
 [^70-1]: Aufgehoben durch Ziff. I des BG vom 18. März 2016, mit Wirkung seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
-[^70-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^70-3]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^70-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^70-3]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^70-4]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 
 #### Art. 71
@@ -1101,7 +1106,7 @@ Der Verzugszins ist nicht geschuldet:
 
 <sup>4</sup> Die Zollschuld verjährt in jedem Fall 15 Jahre nach Ablauf des Kalenderjahres, in dem sie entstanden ist. Vorbehalten bleiben längere Verjährungsfristen nach den Artikeln 11 und 12 VStrR[^75-1].
 
-[^75-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^75-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### 2. Kapitel: Sicherstellung von Zollforderungen
 
@@ -1165,7 +1170,7 @@ Durch die Zollbürgschaft als Solidarbürgschaft können sichergestellt werden:
 
 <sup>2</sup> Im Übrigen gilt das Obligationenrecht[^80-1].
 
-[^80-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^80-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### 3. Abschnitt: Sicherstellungsverfügung und Zollpfandrecht
 
@@ -1179,7 +1184,7 @@ Durch die Zollbürgschaft als Solidarbürgschaft können sichergestellt werden:
 
 <sup>3</sup> Die Sicherstellungsverfügung ist einem gerichtlichen Urteil im Sinne von Artikel 80 des Bundesgesetzes vom 11. April 1889[^81-1] über Schuldbetreibung und Konkurs (SchKG) gleichgestellt. Sie gilt als Arrestbefehl im Sinne von Artikel 274 SchKG. Die Einsprache gegen den Arrestbefehl ist ausgeschlossen.
 
-[^81-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^81-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 82
 
@@ -1259,7 +1264,7 @@ Gesuche sind wie folgt einzureichen:
 - a. Gesuche nach Absatz 1: innerhalb eines Jahres nach Eintritt der Rechtskraft der Veranlagungsverfügung bei der Stelle, die die Veranlagung vorgenommen hat; bei Veranlagungen mit bedingter Zahlungspflicht beträgt die Frist ein Jahr vom Abschluss des gewählten Zollverfahrens an;
 - b. Gesuche nach Absatz 2: innerhalb eines Jahres nach Eintritt der Rechtskraft der Verfügung bei der Oberzolldirektion.[^86-3]
 
-[^86-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^86-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^86-2]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 [^86-3]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 
@@ -1317,7 +1322,7 @@ Die Betreibung auf Pfändung nach Artikel 42 SchKG[^88-1] ist einzuleiten, wenn:
 
 <sup>4</sup> Die endgültige Kollokation einer bestrittenen Forderung unterbleibt, bis eine rechtskräftige Verfügung des BAZG vorliegt.
 
-[^88-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^88-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### 5. Kapitel: Gebühren
 
@@ -1373,7 +1378,7 @@ Das BAZG kann Gebühren erheben für:
 <sup>3</sup> Die Weigerung, den Eid oder das Gelübde zu leisten, kann zu einer ordentlichen Kündigung nach Artikel 10 Absatz 3 Buchstabe a des Bundespersonalgesetzes vom 24. März 2000[^91a-2] führen.
 
 [^91a-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
-[^91a-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^91a-2]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 92
 
@@ -1507,7 +1512,7 @@ Das BAZG ist zur Erfüllung der ihm übertragenen Aufgaben, insbesondere um den 
 
 <sup>2</sup> …[^100-3]
 
-[^100-1]: [SR 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
+[^100-1]: [SR 364](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6323)
 [^100-2]: Eingefügt durch Anhang Ziff. 5 des Zwangsanwendungsgesetzes vom 20. März 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5463](https://fedlex.data.admin.ch/eli/oc/2008/759); [BBl 2006 2489](https://fedlex.data.admin.ch/eli/fga/2006/250)).
 [^100-3]: Aufgehoben durch Ziff. I des BG vom 18. März 2016, mit Wirkung seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 
@@ -1545,12 +1550,15 @@ Das BAZG darf eine Person körperlich durchsuchen oder sie körperlich untersuch
 
 <sup>1</sup>
 
-Das BAZG darf durch Fotografieren oder durch Abnahme biometrischer Daten die Identität einer Person festhalten, sofern:
+Das BAZG darf durch Fotografieren oder durch Abnahme genetischer oder biometrischer Daten die Identität einer Person festhalten, sofern:[^103-1]
 
 - a. diese Person begangener oder möglicherweise bevorstehender schwerer Widerhandlungen verdächtigt wird; oder
 - b. ein anderer Erlass das Festhalten der Identität von Personen vorsieht.
 
-<sup>2</sup> Der Bundesrat legt fest, welche biometrischen Daten abgenommen werden dürfen.
+<sup>2</sup> Der Bundesrat legt fest, welche genetischen und biometrischen Daten abgenommen werden dürfen.[^103-2]
+
+[^103-1]: Fassung gemäss Anhang 1 Ziff. II 48 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^103-2]: Fassung gemäss Anhang 1 Ziff. II 48 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 104
 
@@ -1570,8 +1578,8 @@ Das BAZG kann Gegenstände und Vermögenswerte vorläufig sicherstellen, wenn di
 <sup>4</sup> Das BAZG kann eine selbstständige Einziehung von Gegenständen und Vermögenswerten nach den Artikeln 69 und 70 des Strafgesetzbuchs[^104-3] anordnen. Das Verfahren richtet sich nach Artikel 66 VStrR.
 
 [^104-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
-[^104-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^104-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^104-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+[^104-3]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 105
 
@@ -1583,7 +1591,7 @@ Das BAZG kann Gegenstände und Vermögenswerte vorläufig sicherstellen, wenn di
 
 <sup>3</sup> Es führt die vorläufig festgenommene Person unverzüglich der zuständigen Behörde zu.
 
-[^105-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^105-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 106
 
@@ -1604,7 +1612,7 @@ Der Bundesrat regelt:
 - a. inwieweit das übrige Personal des BAZG Waffen oder andere Selbstverteidigungs- und Zwangsmittel tragen und einsetzen darf;
 - b. den Gebrauch der Waffe und der übrigen Selbstverteidigungs- und Zwangsmittel im Einzelnen.
 
-[^106-1]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^106-1]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 
 #### Art. 107
 
@@ -1616,7 +1624,7 @@ Der Bundesrat regelt:
 
 <sup>3</sup> Für das Durchsuchen von Wohnungen und anderen Räumen sowie von unmittelbar zu einem Haus gehörenden umfriedeten Liegenschaften oder von Bauten gelten die Voraussetzungen nach Artikel 48 VStrR[^107-1].
 
-[^107-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^107-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 108
 
@@ -1647,11 +1655,9 @@ Das BAZG kann automatische Bildaufnahme- und Bildaufzeichnungsgeräte sowie ande
 
 **Informationssysteme des BAZG**
 
-<sup>1</sup> Das BAZG darf Personendaten, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, bearbeiten, sofern dies für den Vollzug der von ihr anzuwendenden Erlasse notwendig ist.
+<sup>1</sup>
 
-<sup>2</sup>
-
-Es darf Informationssysteme führen, namentlich betreffend:
+Das BAZG darf Personendaten, einschliesslich besonders schützenswerter Personendaten, bearbeiten betreffend:
 
 - a. das Veranlagen und das Erheben von Abgaben;
 - b. das Erstellen von Risikoanalysen;
@@ -1660,26 +1666,31 @@ Es darf Informationssysteme führen, namentlich betreffend:
 - e. das Erstellen von Statistiken;
 - f. das Durchführen und das Analysieren polizeilicher Tätigkeiten im Bereich der Personenkontrolle;
 - g. das Durchführen und das Analysieren des Vollzugs der nichtzollrechtlichen Erlasse des Bundes;
-- h. das Durchführen und das Analysieren von Tätigkeiten zur Verbrechensbekämpfung.
+- h. das Durchführen und das Analysieren von Tätigkeiten zur Verbrechensbekämpfung.[^110-1]
 
-<sup>2bis</sup> Die Informationssysteme mit Personendaten, einschliesslich besonders schützenswerter Personendaten, werden in den Artikeln 110*a*–110*f* geregelt.[^110-1]
+<sup>2</sup> Es darf zu diesem Zweck Informationssysteme führen. Es ist darüber hinaus für die Erfüllung der Aufgaben nach Absatz 1 Buchstaben a–c und e–h zum Profiling, einschliesslich zum Profiling mit hohem Risiko, nach DSG[^110-2] befugt.[^110-3]
+
+<sup>2bis</sup> Die Informationssysteme mit Personendaten, einschliesslich besonders schützenswerter Personendaten, werden in den Artikeln 110*a*–110*f* geregelt.[^110-4]
 
 <sup>3</sup>
 
-Der Bundesrat regelt:[^110-2]
+Der Bundesrat regelt:[^110-5]
 
 - a. die Organisation und den Betrieb der Informationssysteme;
 - b. die Kataloge der zu erfassenden Daten;
-- c.[^110-3] die Übernahme von Daten in ein Informationssystem des BAZG aus anderen Informationssystemen des Bundes im Rahmen von Artikel 111 Absatz 1;
+- c.[^110-6] die Übernahme von Daten in ein Informationssystem des BAZG aus anderen Informationssystemen des Bundes im Rahmen von Artikel 111 Absatz 1;
 - d. die Berechtigung zum Bearbeiten der Daten;
-- d<sup>bis</sup>.[^110-4] die Beschaffung und die Bekanntgabe der Daten im Rahmen der Artikel 112 und 113;
+- d<sup>bis</sup>.[^110-7] die Beschaffung und die Bekanntgabe der Daten im Rahmen der Artikel 112 und 113;
 - e. die Dauer des Aufbewahrens der Daten;
 - f. das Archivieren und das Vernichten der Daten.
 
-[^110-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
-[^110-2]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
-[^110-3]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
+[^110-1]: Fassung gemäss Anhang 1 Ziff. II 48 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^110-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^110-3]: Fassung gemäss Anhang 1 Ziff. II 48 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^110-4]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
+[^110-5]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
+[^110-6]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
+[^110-7]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 
 #### Art. 110a
 
@@ -1702,16 +1713,16 @@ Das Informationssystem dient dem Vollzug dieses Gesetzes, des VStrR[^110a-2] und
 Im Informationssystem können folgende besonders schützenswerte Personendaten bearbeitet werden:
 
 - a. Angaben zur Identifikation, Lokalisierung und Kontaktierung einer Person;
-- b. Angaben zur Religionszugehörigkeit sowie Persönlichkeitsprofile nach Artikel 3 Buchstabe d des Bundesgesetzes vom 19. Juni 1992[^110a-4] über den Datenschutz, sofern dies für die Strafverfolgung ausnahmsweise notwendig ist;
+- b.[^110a-4] Angaben zur Religionszugehörigkeit, falls dies für die Strafverfolgung ausnahmsweise erforderlich ist;
 - c. Angaben über Verdacht auf Widerhandlungen;
 - d. Angaben über objektive Elemente von Straftaten sowie über beschlagnahmte Gegenstände und Beweismittel;
 - e. Angaben über den Verlauf von Strafverfahren sowie von Amts- und Rechtshilfeverfahren;
 - f. Angaben über die Erhebung und Sicherung der betroffenen Abgaben, Bussen und Strafen.
 
 [^110a-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
-[^110a-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^110a-3]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
-[^110a-4]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^110a-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+[^110a-3]: [SR 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
+[^110a-4]: Fassung gemäss Anhang 1 Ziff. II 48 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 110b
 
@@ -1817,9 +1828,9 @@ Auf die Daten nach Absatz 2 Buchstaben a–c haben die folgenden Personen im Abr
 
 [^110e-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 [^110e-2]: Fassung gemäss Anhang Ziff. 3 des BB vom 15. Dez. 2017 (Übernahme der Verordnung [EU] 2016/1624 über die Europäische Grenz- und Küstenwache), in Kraft seit 15. Sept. 2018 ([AS 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [BBl 2017 4155](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
-[^110e-3]: Der Titel wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst.
-[^110e-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^110e-5]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^110e-3]: Der Titel wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2019 angepasst.
+[^110e-4]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^110e-5]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 #### Art. 110f
 
@@ -1877,11 +1888,11 @@ Im Informationssystem können insbesondere Daten bearbeitet werden von:
 
 <sup>2</sup>
 
-Es dürfen namentlich folgende Daten und Datenverbindungen, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, bekannt gegeben werden:
+Es dürfen namentlich folgende Daten und Datenverbindungen, einschliesslich besonders schützenswerter Personendaten sowie Daten, die auf einem Profiling, einschliesslich auf einem Profiling mit hohem Risiko, beruhen, bekannt gegeben werden:[^112-1]
 
 - a. Angaben über die Identität von Personen;
 - b. Angaben über Abgabepflichten;
-- c.[^112-1] Angaben über hängige und abgeschlossene Verwaltungs-, Verwaltungsstraf- und Strafverfahren sowie über verwaltungs-, verwaltungsstraf- und strafrechtliche Sanktionen aus dem Zuständigkeitsbereich des BAZG;
+- c.[^112-2] Angaben über hängige und abgeschlossene Verwaltungs-, Verwaltungsstraf- und Strafverfahren sowie über verwaltungs-, verwaltungsstraf- und strafrechtliche Sanktionen aus dem Zuständigkeitsbereich des BAZG;
 - d. Angaben über das Verbringen sowie die Ein- und Ausfuhr von Waren;
 - e. Angaben über begangene oder möglicherweise bevorstehende strafbare Handlungen, einschliesslich Widerhandlungen gegen nichtzollrechtliche Erlasse des Bundes;
 - f. Angaben über Grenzübertritte;
@@ -1889,19 +1900,26 @@ Es dürfen namentlich folgende Daten und Datenverbindungen, einschliesslich beso
 - [tab] <sup>3</sup> Die Daten nach Absatz 2 Buchstabe g dürfen Dritten bekannt gegeben werden, falls diese im Auftrag des BAZG die Bonität von Schuldnerinnen und Schuldnern überprüfen sollen. Die Dritten haben dem BAZG zuzusichern, dass sie die Daten ausschliesslich im Sinne ihres Auftrags verwenden.
 - [tab] <sup>4</sup> Das BAZG darf die folgenden Daten den nachfolgend genannten Behörden im Abrufverfahren zugänglich machen, sofern die Daten für den Vollzug der von diesen Behörden anzuwendenden Erlasse notwendig sind:
 - a. Daten von Zollanmeldungen: den inländischen Behörden;
-- b. Daten aus Informationssystemen des BAZG: den Dienststellen des BAZG;
+- b.[^112-3] …
 - c. Daten aus Informationssystemen des Grenzwachtkorps: den zuständigen Polizeibehörden.
-- [tab] <sup>5</sup> Der Bundesrat regelt die Einzelheiten, namentlich Zweck und Inhalt der Datenbekanntgabe.
-- [tab] <sup>6</sup> Die bekannt gegebenen Daten sind ausschliesslich zweckkonform zu verwenden. Sie dürfen ohne Zustimmung des BAZG nicht an Dritte weitergeleitet werden. Artikel 6 Absatz 1 des Bundesgesetzes vom 19. Juni 1992[^112-2] über den Datenschutz bleibt vorbehalten.
 
-[^112-1]: Fassung gemäss Ziff. I 16 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^112-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+<sup>5</sup> Der Bundesrat regelt die Einzelheiten, namentlich Zweck und Inhalt der Datenbekanntgabe.
+
+<sup>6</sup> Die bekannt gegebenen Daten sind ausschliesslich zweckkonform zu verwenden. Sie dürfen ohne Zustimmung des BAZG nicht an Dritte weitergeleitet werden. Artikel 16 Absatz 1 DSG[^112-4] bleibt vorbehalten.[^112-5]
+
+[^112-1]: Fassung gemäss Anhang 1 Ziff. II 48 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^112-2]: Fassung gemäss Ziff. I 16 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^112-3]: Aufgehoben durch Anhang 1 Ziff. II 48 des Datenschutzgesetzes vom 25. Sept. 2020, mit Wirkung seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^112-4]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^112-5]: Fassung des dritten Satzes gemäss Anhang 1 Ziff. II 48 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 113
 
-**Datenbekanntgabe an ausländische Behörden**
+**Datenbekanntgabe an ausländische Behörden**[^113-1]
 
-Das BAZG darf Behörden anderer Staaten sowie supranationaler und internationaler Organisationen (ausländische Behörden) Daten, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, im Einzelfall oder im Abrufverfahren nur bekannt geben, sofern ein völkerrechtlicher Vertrag dies vorsieht.
+Das BAZG darf Behörden anderer Staaten sowie supranationaler und internationaler Organisationen (ausländische Behörden) Daten, einschliesslich besonders schützenswerter Personendaten sowie Daten, die auf einem Profiling, einschliesslich auf einem Profiling mit hohem Risiko, beruhen, im Einzelfall oder im Abrufverfahren nur bekannt geben, sofern ein völkerrechtlicher Vertrag dies vorsieht.
+
+[^113-1]: Fassung gemäss Anhang 1 Ziff. II 48 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 2. Kapitel: Amtshilfe unter inländischen Behörden
 
@@ -1915,9 +1933,10 @@ Das BAZG darf Behörden anderer Staaten sowie supranationaler und internationale
 
 <sup>1</sup> Das BAZG und andere inländische Behörden leisten einander bei der Erfüllung ihrer Aufgaben Amtshilfe und unterstützen sich gegenseitig.
 
-<sup>2</sup> Die inländischen Behörden geben dem BAZG Daten, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, bekannt, sofern dies für den Vollzug der vom BAZG anzuwendenden Erlasse notwendig ist.
+<sup>2</sup> Die inländischen Behörden geben dem BAZG Daten, einschliesslich besonders schützenswerter Personendaten sowie Daten, die auf einem Profiling, einschliesslich auf einem Profiling mit hohem Risiko, beruhen, bekannt, sofern dies für den Vollzug der vom BAZG anzuwendenden Erlasse notwendig ist.[^114-2]
 
 [^114-1]: Aufgehoben durch Anhang Ziff. 2 des Steueramtshilfegesetzes vom 28. Sept. 2012, mit Wirkung seit 1. Febr. 2013 ([AS 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [BBl 2011 6193](https://fedlex.data.admin.ch/eli/fga/2011/914)).
+[^114-2]: Fassung gemäss Anhang 1 Ziff. II 48 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 3. Kapitel: Internationale Amtshilfe
 
@@ -1986,7 +2005,7 @@ Zum Zweck der Herausgabe von Informationen, Unterlagen, Gegenständen oder Verm�
 <sup>2</sup> Die Artikel 45–60 VStrR[^115e-2] sind anwendbar.
 
 [^115e-1]: Eingefügt durch Anhang Ziff. 2 des Steueramtshilfegesetzes vom 28. Sept. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [BBl 2011 6193](https://fedlex.data.admin.ch/eli/fga/2011/914)).
-[^115e-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^115e-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 115f
 
@@ -2029,7 +2048,7 @@ Die vom Ersuchen betroffene Person kann sich am Verfahren beteiligen und Einsich
 <sup>3</sup> Gegen Zwischenverfügungen nach Absatz 2 und die Schlussverfügung kann Beschwerde beim Bundesverwaltungsgericht erhoben werden; dieses entscheidet endgültig. Die Beschwerdeberechtigung richtet sich nach Artikel 48 des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^115i-2].
 
 [^115i-1]: Eingefügt durch Anhang Ziff. 2 des Steueramtshilfegesetzes vom 28. Sept. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [BBl 2011 6193](https://fedlex.data.admin.ch/eli/fga/2011/914)).
-[^115i-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^115i-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ## 7. Titel: Rechtsschutz
 
@@ -2080,7 +2099,7 @@ Mit Busse bis zum Fünffachen des hinterzogenen Zollabgabenbetrags wird bestraft
 
 <sup>4</sup> Lässt sich der hinterzogene Zollabgabenbetrag nicht genau ermitteln, so wird er im Rahmen des Verwaltungsverfahrens geschätzt.
 
-[^118-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^118-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 119
 
@@ -2151,7 +2170,7 @@ Als erschwerende Umstände gelten:
 
 Fällt eine Busse von höchstens 100 000 Franken in Betracht und würde die Ermittlung der nach Artikel 6 VStrR[^125-1] strafbaren Personen Untersuchungsmassnahmen bedingen, die im Hinblick auf die verwirkte Strafe unverhältnismässig wären, so kann die Behörde von einer Verfolgung dieser Personen absehen und an ihrer Stelle den Geschäftsbetrieb (Art.7 VStrR) zur Bezahlung der Busse verurteilen.
 
-[^125-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^125-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 126
 
@@ -2178,7 +2197,7 @@ Sofern nicht der Tatbestand einer Zollwiderhandlung erfüllt ist, wird mit Busse
 
 <sup>3</sup> Vorbehalten bleibt die Überweisung an ein Strafgericht nach Artikel 285 oder 286 des Strafgesetzbuchs[^127-1].
 
-[^127-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^127-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 128
 
@@ -2188,7 +2207,7 @@ Sofern nicht der Tatbestand einer Zollwiderhandlung erfüllt ist, wird mit Busse
 
 <sup>2</sup> Verfolgende und urteilende Behörde ist das BAZG.
 
-[^128-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^128-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 128a
 
@@ -2220,7 +2239,7 @@ Die Mitteilung wird aufgeschoben oder unterlassen, wenn:
 
 Die Verfolgungsverjährung nach Artikel 11 Absatz 2 VStrR[^129-1] gilt für sämtliche Zollwiderhandlungen.
 
-[^129-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^129-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## 9. Titel: Schlussbestimmungen
 
