@@ -3,11 +3,11 @@ sr: "810.211"
 title: "Ordonnance du 16 mars 2007 sur la transplantation d'organes, de tissus et de cellules d'origine humaine (Ordonnance sur la transplantation)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/280"
 language: fr
-version: 2023-08-01
+version: 2023-09-01
 adopted: 2007-03-16
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/280/20230801/fr/xml/fedlex-data-admin-ch-eli-cc-2007-280-20230801-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/280/20230801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/280/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2007-280-20230901-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/280/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/280/20230801/fr"
 
 (Ordonnance sur la transplantation)
 
-du 16 mars 2007 (État le 1<sup>er</sup> août 2023)
+du 16 mars 2007 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -24,7 +24,7 @@ vu les art. 2, al. 3, 8, al. 8, 9, al. 2, 10, al. 4 et 8, 14, al. 4, 15, 15*a*, 
 
 arrête:
 
-[^ingress-1]: [RS 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
+[^ingress-1]: [RS 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 15 nov. 2017 ([RO 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
 
 ## Chapitre 1 Objet, champ d’application et définitions
@@ -99,7 +99,7 @@ Au sens de la présente ordonnance, on entend par:
 [^2-2]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 15 nov. 2017 ([RO 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
 [^2-3]: Introduite par le ch. I 1 de l’O du 23 mars 2016 sur l’exécution de la législation relative à la transplantation, en vigueur depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1171](https://fedlex.data.admin.ch/eli/oc/2016/218)).
 [^2-4]: Introduite par le ch. I 1 de l’O du 23 mars 2016 sur l’exécution de la législation relative à la transplantation, en vigueur depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1171](https://fedlex.data.admin.ch/eli/oc/2016/218)).
-[^2-5]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+[^2-5]: [RS 810.305](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9250)
 
 ## Chapitre 2 Prélèvement d’organes, de tissus ou de cellules sur des personnes décédées
 
@@ -267,8 +267,8 @@ Le service chargé du suivi des donneurs vivants d’organes ou de cellules souc
 
 <sup>3</sup> Le montant à assurer pour une éventuelle invalidité est de 250 000 francs. La prestation d’assurance est calculée d’après les dispositions sur l’évaluation des indemnités pour atteinte à l’intégrité prévues dans l’annexe 3 de l’ordonnance du 20 décembre 1982 sur l’assurance-accidents[^11-2].
 
-[^11-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
-[^11-2]: [RS 832.202](https://fedlex.data.admin.ch/eli/cc/1983/38_38_38)
+[^11-1]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
+[^11-2]: [RS 832.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10192)
 
 #### Art. 12
 
@@ -294,7 +294,7 @@ Sont considérés comme autres coûts à rembourser en vertu de l’art. 14, al.
 <sup>3</sup> En cas de litige sur le versement de la somme forfaitaire entre l’assureur et l’institution commune, celle-ci rend une décision au sens de l’art. 5 de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^12a-2].
 
 [^12a-1]: Introduit par le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 15 nov. 2017 ([RO 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
-[^12a-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^12a-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 12b
 
@@ -315,7 +315,7 @@ L’institution commune informe l’Office fédéral de la santé publique (OFSP
 
 [^12b-1]: Introduit par le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 15 nov. 2017 ([RO 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
 [^12b-2]: Nouvelle teneur selon le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
-[^12b-3]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^12b-3]: [RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 [^12b-4]: Nouvelle teneur selon le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
 
 #### Art. 12c
@@ -717,7 +717,7 @@ Les organes, tissus ou cellules génétiquement modifiés doivent porter la ment
 
 L’ordonnance du 20 septembre 2013 sur les essais cliniques[^26-1] est applicable aux essais cliniques de transplantation d’organes, de tissus ou de cellules d’origine humaine.
 
-[^26-1]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+[^26-1]: [RS 810.305](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9250)
 
 #### Art. 27 à 33
 
@@ -791,7 +791,7 @@ La demande d’autorisation pour la transplantation, dans le cadre d’un traite
 - b. les documents et les formulaires rendant compte de l’information fournie à la donneuse ou au couple concerné et de leur consentement.
 
 [^37-1]: Abrogé par l’annexe 6 ch. 1 de l’O du 20 sept. 2013 sur les essais cliniques, avec effet au 1<sup>er</sup> janv. 2014 ([RO 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
-[^37-2]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^37-2]: [RS 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
 [^37-3]: Nouvelle teneur selon l’annexe 6 ch. 1 de l’O du 20 sept. 2013 sur les essais cliniques, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
 [^37-4]: Abrogé par l’annexe 6 ch. 1 de l’O du 20 sept. 2013 sur les essais cliniques, avec effet au 1<sup>er</sup> janv. 2014 ([RO 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
 
@@ -923,17 +923,19 @@ Le coordinateur local veille à ce qu’au sein de l’hôpital les procédures 
 
 <sup>2</sup> Ils peuvent transmettre les données non confidentielles à des autorités ou des institutions étrangères et à des organisations internationales.
 
-<sup>3</sup> Le traitement des données et les droits des personnes qui font l’objet d’un traitement de données sont régis par la loi fédérale du 19 juin 1992 sur la protection des données[^48-1].
+<sup>3</sup> Le traitement des données et les droits des personnes qui font l’objet d’un traitement de données sont régis par la loi fédérale du 25 septembre 2020 sur la protection des données[^48-1].[^48-2]
 
-[^48-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^48-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^48-2]: Nouvelle teneur selon l’annexe 2 ch. II 92 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 49
 
 **Sécurité des données**
 
-Les organes chargés de l’exécution de la législation prennent les mesures techniques et organisationnelles prévues par la législation sur la protection des données pour empêcher que des données personnelles ne soient perdues, traitées ou consultées sans autorisation, ou encore volées par des tiers. Ils établissent notamment le règlement de traitement prévu par l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^49-1].
+Les organes chargés de l’exécution de la législation prennent les mesures techniques et organisationnelles prévues par la législation sur la protection des données pour empêcher que des données personnelles ne soient perdues, traitées ou consultées sans autorisation, ou encore volées par des tiers. Ils établissent notamment le règlement de traitement prévu par l’ordonnance du 31 août 2022 sur la protection des données[^49-1].[^49-2]
 
-[^49-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^49-1]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^49-2]: Nouvelle teneur de la phrase selon l’annexe 2 ch. II 92 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### Section 2*a* Délégation de tâches à l’Institut suisse des produits thérapeutiques
 
@@ -949,7 +951,7 @@ Les organes chargés de l’exécution de la législation prennent les mesures t
 
 <sup>3</sup> L’Institut suisse des produits thérapeutiques prélève des émoluments pour son activité de surveillance conformément à l’ordonnance du 2 décembre 2011 sur les émoluments des produits thérapeutiques[^49a-1].
 
-[^49a-1]: [[RO 2012 705](https://fedlex.data.admin.ch/eli/oc/2012/108). RO 2018 3719 art. 15]. Voir actuellement l’O du 14 septembre 2018 de l’Institut suisse des produits thérapeutiques sur ses émoluments ([RS 812.214.5](https://fedlex.data.admin.ch/eli/cc/2018/593)).
+[^49a-1]: [[RO 2012 705](https://fedlex.data.admin.ch/eli/oc/2012/108). [RO 2018 3719](https://fedlex.data.admin.ch/eli/oc/2018/593)art. 15]. Voir actuellement l’O du 14 septembre 2018 de l’Institut suisse des produits thérapeutiques sur ses émoluments ([RS 812.214.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9377)).
 
 ### Section 2*b* Registre du service chargé du suivi des donneurs vivants
 
@@ -976,7 +978,7 @@ Il contient les données concernant les donneurs vivants:
 
 **Tâches du service chargé du suivi des donneurs vivants**
 
-<sup>1</sup> En sa qualité de maître du fichier, le service chargé du suivi des donneurs vivants est responsable du registre. Il veille à la sécurité du registre et à ce que les données personnelles soient traitées en toute légalité.
+<sup>1</sup> Le service chargé du suivi des donneurs vivants est responsable du registre.[^49c-1] Il veille à la sécurité du registre et à ce que les données personnelles soient traitées en toute légalité.
 
 <sup>2</sup>
 
@@ -986,6 +988,8 @@ Ses tâches sont les suivantes:
 - b. il attribue les droits d’accès et contrôle les accès des utilisateurs;
 - c. il assiste les utilisateurs en cas de problèmes liés à l’application;
 - d. il établit des statistiques sur les dons d’organes et de cellules souches hématopoïétiques provenant de donneurs vivants.
+
+[^49c-1]: Nouvelle teneur selon l’annexe 2 ch. II 92 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 49d
 
@@ -1112,7 +1116,7 @@ Lorsque des mesures s’avèrent nécessaires au vu des résultats des examens, 
 
 <sup>2</sup> Pour le traitement des données à des fins de recherche, l’art. 34*m* de l’ordonnance du 16 mars 2007 sur l’attribution d’organes[^49h-1] s’applique par analogie.
 
-[^49h-1]: [RS 810.212.4](https://fedlex.data.admin.ch/eli/cc/2007/281)
+[^49h-1]: [RS 810.212.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9242)
 
 ### Section 3 Registre des cellules souches
 
@@ -1173,7 +1177,7 @@ La communication se fait sous une forme pseudonymisée et comprend notamment:
 
 L’ordonnance du 26 juin 1996 sur le contrôle des transplants[^54-1] est abrogée.
 
-[^54-1]: [[RO 1996 2309](https://fedlex.data.admin.ch/eli/oc/1996/2309_2309_2309), [1999 1403](https://fedlex.data.admin.ch/eli/oc/1999/204), [2001 1508](https://fedlex.data.admin.ch/eli/oc/2001/221)[3294](https://fedlex.data.admin.ch/eli/oc/2001/490)ch. II 10, [2002 82](https://fedlex.data.admin.ch/eli/oc/2002/17)]
+[^54-1]: [[RO 1996 2309](https://fedlex.data.admin.ch/eli/oc/1996/2309_2309_2309); [1999 1403](https://fedlex.data.admin.ch/eli/oc/1999/204); [2001 1508](https://fedlex.data.admin.ch/eli/oc/2001/221), [3294](https://fedlex.data.admin.ch/eli/oc/2001/490)ch. II 10; [2002 82](https://fedlex.data.admin.ch/eli/oc/2002/17)]
 
 #### Art. 55
 
@@ -1207,7 +1211,7 @@ Elles présentent en même temps à ce fonds un décompte indiquant les moyens f
 <sup>7</sup> L’institution commune verse au service chargé du suivi des donneurs vivants la somme provenant des assureurs, visée à l’al. 6, pour payer les frais administratifs du registre de l’année concernée.
 
 [^56-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 15 nov. 2017 ([RO 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
-[^56-2]: Les tables de mortalité transversales pour la Suisse (1900–2150) selon l’année, le sexe et l’âge sont disponibles à l’adresse Internet suivante: www.bfs.admin.ch&gt;Trouver des statistiques&gt;Catalogues et banques de données&gt;Données&gt;Thème: Naissances et décès 01.04
+[^56-2]: Les tables de mortalité transversales pour la Suisse (1900–2150) selon l’année, le sexe et l’âge sont disponibles à l’adresse Internet suivante: www.bfs.admin.ch &gt; Trouver des statistiques &gt; Catalogues et banques de données &gt; Données &gt; Thème: Naissances et décès 01.04
 
 #### Art. 56a
 
@@ -1303,7 +1307,7 @@ Pour ce qui est de l’assurance, les données suivantes doivent être communiqu
 - b. si l’assurance-accidents est compétente: le nom de l’assureur-accidents, le numéro de sinistre et le nom de l’employeur;
 - c. si l’assurance-invalidité est compétente: l’office AI compétent au sens de l’art. 40 du règlement du 17 janvier 1961 sur l’assurance-invalidité[^annex2-lvlu1-lvl3-1] et le numéro AVS.
 
-[^annex2-lvlu1-lvl3-1]: [RS 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
+[^annex2-lvlu1-lvl3-1]: [RS 831.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10047)
 
 Annexe 3[^t-3]
 

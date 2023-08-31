@@ -3,11 +3,11 @@ sr: "810.211"
 title: "Verordnung vom 16. März 2007 über die Transplantation von menschlichen Organen, Geweben und Zellen (Transplantationsverordnung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/280"
 language: de
-version: 2023-08-01
+version: 2023-09-01
 adopted: 2007-03-16
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/280/20230801/de/xml/fedlex-data-admin-ch-eli-cc-2007-280-20230801-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/280/20230801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/280/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2007-280-20230901-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/280/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/280/20230801/de"
 
 (Transplantationsverordnung)
 
-vom 16. März 2007 (Stand am 1. August 2023)
+vom 16. März 2007 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -24,7 +24,7 @@ gestützt auf die Artikel 2 Absatz 3, 8 Absatz 8, 9 Absatz 2, 10 Absätze 4 und 
 
 verordnet:
 
-[^ingress-1]: [SR 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
+[^ingress-1]: [SR 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
 [^ingress-2]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ([AS 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
 
 ## 1. Kapitel: Gegenstand, Geltungsbereich und Begriffe
@@ -99,7 +99,7 @@ Im Sinne dieser Verordnung gelten als:
 [^2-2]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ([AS 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
 [^2-3]: Eingefügt durch Ziff. I 1 der V vom 23. März 2016 über den Vollzug der Transplantationsgesetzgebung, in Kraft seit 1. Mai 2016 ([AS 2016 1171](https://fedlex.data.admin.ch/eli/oc/2016/218)).
 [^2-4]: Eingefügt durch Ziff. I 1 der V vom 23. März 2016 über den Vollzug der Transplantationsgesetzgebung, in Kraft seit 1. Mai 2016 ([AS 2016 1171](https://fedlex.data.admin.ch/eli/oc/2016/218)).
-[^2-5]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+[^2-5]: [SR 810.305](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9250)
 
 ## 2. Kapitel: Entnahme von Organen, Geweben oder Zellen bei verstorbenen Personen
 
@@ -267,8 +267,8 @@ Die Lebendspende-Nachsorgestelle stellt die Nachverfolgung des Gesundheitszustan
 
 <sup>3</sup> Für den Invaliditätsfall ist eine Summe von 250 000 Franken zu versichern. Die Versicherungsleistung ist nach den Bestimmungen über die Bemessung der Integritätsentschädigung nach Anhang 3 der Verordnung vom 20. Dezember 1982[^11-2] über die Unfallversicherung zu berechnen.
 
-[^11-1]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
-[^11-2]: [SR 832.202](https://fedlex.data.admin.ch/eli/cc/1983/38_38_38)
+[^11-1]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
+[^11-2]: [SR 832.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10192)
 
 #### Art. 12
 
@@ -294,7 +294,7 @@ Als anderer Aufwand, der nach Artikel 14 Absatz 2 Buchstabe b des Transplantatio
 <sup>3</sup> Bei Streitigkeiten zwischen dem Versicherer und der gemeinsamen Einrichtung über die Entrichtung der Pauschale entscheidet die gemeinsame Einrichtung in der Form einer Verfügung im Sinne von Artikel 5 des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^12a-2].
 
 [^12a-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ([AS 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
-[^12a-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^12a-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 12b
 
@@ -315,7 +315,7 @@ Die gemeinsame Einrichtung informiert das Bundesamt für Gesundheit (BAG):
 
 [^12b-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ([AS 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
 [^12b-2]: Fassung gemäss Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
-[^12b-3]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^12b-3]: [SR 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 [^12b-4]: Fassung gemäss Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
 
 #### Art. 12c
@@ -722,7 +722,7 @@ Organe, Gewebe oder Zellen, die gentechnisch verändert wurden, müssen mit den 
 
 Für klinische Versuche der Transplantation menschlicher Organe, Gewebe und Zellen ist die Verordnung vom 20. September 2013[^26-1] über klinische Versuche anwendbar.
 
-[^26-1]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+[^26-1]: [SR 810.305](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9250)
 
 #### Art. 27–33
 
@@ -796,7 +796,7 @@ Für die Transplantation embryonaler oder fötaler Gewebe oder Zellen im Rahmen 
 - b. Unterlagen und Formulare betreffend die Information und die Zustimmung der Spenderin oder des betroffenen Paares.
 
 [^37-1]: Aufgehoben durch Anhang 6 Ziff. 1 der V vom 20. Sept. 2013 über klinische Versuche, mit Wirkung seit 1. Jan. 2014 ([AS 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
-[^37-2]: [SR 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^37-2]: [SR 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
 [^37-3]: Fassung gemäss Anhang 6 Ziff. 1 der V über klinische Versuche vom 20. Sept. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
 [^37-4]: Aufgehoben durch Anhang 6 Ziff. 1 der V vom 20. Sept. 2013 über klinische Versuche, mit Wirkung seit 1. Jan. 2014 ([AS 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
 
@@ -928,17 +928,19 @@ Die für die lokale Koordination zuständige Person muss sicherstellen, dass im 
 
 <sup>2</sup> Sie dürfen Daten, die nicht vertraulich sind, an ausländische Behörden und Institutionen sowie internationale Organisationen weitergeben.
 
-<sup>3</sup> Alle Datenbearbeitungen sowie die Rechte der Personen, deren Daten bearbeitet werden, richten sich nach dem Bundesgesetz vom 19. Juni 1992[^48-1] über den Datenschutz.
+<sup>3</sup> Alle Datenbearbeitungen sowie die Rechte der Personen, deren Daten bearbeitet werden, richten sich nach dem Datenschutzgesetz vom 25. September 2020[^48-1].[^48-2]
 
-[^48-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^48-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^48-2]: Fassung gemäss Anhang 2 Ziff. II 92 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 49
 
 **Datensicherheit**
 
-Die mit dem Vollzug beauftragten Stellen treffen die nach den datenschutzrechtlichen Bestimmungen erforderlichen organisatorischen und technischen Massnahmen, um die bearbeiteten Personendaten vor Verlust und unbefugter Bearbeitung, Kenntnisnahme oder Entwendung durch Dritte zu schützen. Sie erstellen namentlich die nach der Verordnung vom 14. Juni 1993[^49-1] zum Bundesgesetz über den Datenschutz notwendigen Bearbeitungsreglemente.
+Die mit dem Vollzug beauftragten Stellen treffen die nach den datenschutzrechtlichen Bestimmungen erforderlichen organisatorischen und technischen Massnahmen, um die bearbeiteten Personendaten vor Verlust und unbefugter Bearbeitung, Kenntnisnahme oder Entwendung durch Dritte zu schützen. Sie erstellen namentlich die nach der Datenschutzverordnung vom 31. August 2022[^49-1] notwendigen Bearbeitungsreglemente.[^49-2]
 
-[^49-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^49-1]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^49-2]: Fassung des zweiten Satzes gemäss Anhang 2 Ziff. II 92 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### 2*a**.* Abschnitt: Übertragung von Aufgaben an das Schweizerische Heilmittelinstitut
 
@@ -954,7 +956,7 @@ Die mit dem Vollzug beauftragten Stellen treffen die nach den datenschutzrechtli
 
 <sup>3</sup> Das Schweizerische Heilmittelinstitut erhebt die Gebühren für die Aufsicht nach der Heilmittel-Gebührenverordnung vom 2. Dezember 2011[^49a-1].
 
-[^49a-1]: [SR 812.214.5](https://fedlex.data.admin.ch/eli/cc/2018/593)
+[^49a-1]: [SR 812.214.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9377)
 
 ### 2*b*. Abschnitt: Register der Lebendspende-Nachsorgestelle
 
@@ -981,7 +983,7 @@ Es enthält Daten zu den Lebendspenderinnen und Lebendspendern, die:
 
 **Aufgaben der Lebendspende-Nachsorgestelle**
 
-<sup>1</sup> Die Lebendspende-Nachsorgestelle trägt als Inhaberin der Datensammlung die Verantwortung für das Register. Sie ist für die Sicherheit des Registers und die Rechtmässigkeit der Bearbeitung der Personendaten verantwortlich.
+<sup>1</sup> Die Lebendspende-Nachsorgestelle trägt die Verantwortung für das Register.[^49c-1] Sie ist für die Sicherheit des Registers und die Rechtmässigkeit der Bearbeitung der Personendaten verantwortlich.
 
 <sup>2</sup>
 
@@ -991,6 +993,8 @@ Sie hat folgende Aufgaben:
 - b. Sie vergibt die Zugriffsberechtigungen und kontrolliert die Zugriffe der Nutzerinnen und Nutzer.
 - c. Sie unterstützt die Nutzerinnen und Nutzer bei der Lösung von Anwendungsproblemen.
 - d. Sie erstellt Statistiken zur Lebendspende von Organen und Blut-Stammzellen.
+
+[^49c-1]: Fassung gemäss Anhang 2 Ziff. II 92 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 49d
 
@@ -1117,7 +1121,7 @@ Sind nach einer Lebendspende aufgrund der Untersuchungsergebnisse Massnahmen ang
 
 <sup>2</sup> Für die Bearbeitung von Daten zu Forschungszwecken gilt Artikel 34*m* der Organzuteilungsverordnung vom 16. März 2007[^49h-1] sinngemäss.
 
-[^49h-1]: [SR 810.212.4](https://fedlex.data.admin.ch/eli/cc/2007/281)
+[^49h-1]: [SR 810.212.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9242)
 
 ### 3. Abschnitt: Stammzellenregister
 
@@ -1307,9 +1311,8 @@ Der gemeinsamen Einrichtung müssen folgende Angaben zur Versicherung gemeldet w
 - a. bei Zuständigkeit der Krankenversicherung: Name des Krankenversicherers, Nummer der europäischen Krankenversicherungskarte oder Nummer der Versichertenkarte der Empfängerin oder des Empfängers für die obligatorische Krankenpflegeversicherung;
 - b. bei Zuständigkeit der Unfallversicherung: Name des Unfallversicherers, Schadennummer und Arbeitgeber;
 - c. bei Zuständigkeit der Invalidenversicherung: die zuständige IV-Stelle nach Artikel 40 der Verordnung vom 17. Januar 1961[^annex2-lvlu1-lvl3-1] über die Invalidenversicherung und die AHV-Nummer.
-- [tab]
 
-[^annex2-lvlu1-lvl3-1]: [SR 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
+[^annex2-lvlu1-lvl3-1]: [SR 831.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10047)
 
 Anhang 3[^t-3]
 
@@ -1323,7 +1326,6 @@ Die Pauschale nach Artikel 15*a* Absatz 2 des Transplantationsgesetzes für die 
 
 - a. für Organe: 9700 Franken;
 - b. für Blut-Stammzellen: 2150 Franken.
-- [tab]
 
 Anhang 4[^t-4]
 
@@ -1418,7 +1420,8 @@ Anhang 5[^t-5]
 
 ### 6 Vorgehen bei reaktivem Testergebnis auf HIV, HBV und HCV
 
-- 6\.1 Allgemein Ein Testergebnis gilt als reaktiv, wenn nach dem Stand von Wissenschaft und Technik auf das Vorhandensein einer Infektion beziehungsweise von Infektionsparametern geschlossen werden kann. Dies kann bedingen, dass verschiedene Tests kombiniert werden oder einzelne Testergebnisse wiederholt reaktiv sein müssen.
+- 6\.1 Allgemein
+- Ein Testergebnis gilt als reaktiv, wenn nach dem Stand von Wissenschaft und Technik auf das Vorhandensein einer Infektion beziehungsweise von Infektionsparametern geschlossen werden kann. Dies kann bedingen, dass verschiedene Tests kombiniert werden oder einzelne Testergebnisse wiederholt reaktiv sein müssen.
 - 6\.1.1 Bei einem reaktiven Testergebnis auf HIV, HBV, HCV oder andere Krankheitserreger darf transplantiert werden, wenn nach dem Stand von Wissenschaft und Technik Massnahmen zur Verminderung des Infektionsrisikos getroffen werden und die erforderliche Prophylaxe und Therapie durchgeführt werden. Die Transplantationszentren führen nach der Transplantation in geeignetem Abstand mindestens zwei Tests nach dem Stand von Wissenschaft und Technik durch und melden das Ergebnis der Nationalen Zuteilungsstelle.
 - 6\.1.2 Die empfangende Person ist umfassend über das potenzielle Gesundheitsrisiko aufzuklären. Falls sie dieses Risiko akzeptiert, muss sie dies schriftlich bestätigen. Ist eine vorgängige Information nicht möglich, so muss eine solche nach der Transplantation erfolgen.
 - 6\.2 Vorgehen bei reaktivem Testergebnis bei Organen und Inseln

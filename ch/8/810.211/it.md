@@ -3,11 +3,11 @@ sr: "810.211"
 title: "Ordinanza del 16 marzo 2007 concernente il trapianto di organi, tessuti e cellule umani (Ordinanza sui trapianti)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/280"
 language: it
-version: 2023-08-01
+version: 2023-09-01
 adopted: 2007-03-16
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/280/20230801/it/xml/fedlex-data-admin-ch-eli-cc-2007-280-20230801-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/280/20230801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/280/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2007-280-20230901-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/280/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/280/20230801/it"
 
 (Ordinanza sui trapianti)
 
-del 16 marzo 2007 (Stato 1° agosto 2023)
+del 16 marzo 2007 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -24,7 +24,7 @@ visti gli articoli 2 capoverso 3, 8 capoverso 8, 9 capoverso 2, 10 capoversi 4 e
 
 ordina:
 
-[^ingress-1]: [RS 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
+[^ingress-1]: [RS 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
 [^ingress-2]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 15 nov. 2017 ([RU 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
 
 ## Capitolo primo: Oggetto, campo d’applicazione e definizioni
@@ -100,7 +100,7 @@ Nell’ambito della presente ordinanza si intende per:
 [^2-2]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 15 nov. 2017 ([RU 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
 [^2-3]: Introdotta dal n. I 1 dell’O del 23 mar. 2016 concernente l’esecuzione della legislazione sui trapianti, in vigore dal 1° mag. 2016 ([RU 2016 1171](https://fedlex.data.admin.ch/eli/oc/2016/218)).
 [^2-4]: Introdotta dal n. I 1 dell’O del 23 mar. 2016 concernente l’esecuzione della legislazione sui trapianti, in vigore dal 1° mag. 2016 ([RU 2016 1171](https://fedlex.data.admin.ch/eli/oc/2016/218)).
-[^2-5]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+[^2-5]: [RS 810.305](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9250)
 
 ## Capitolo 2: Prelievo di organi, tessuti o cellule su persone decedute
 
@@ -268,8 +268,8 @@ Il servizio dei controlli postdonazione garantisce il controllo postoperatorio d
 
 <sup>3</sup> In caso di invalidità dev’essere assicurata una somma di 250 000 franchi. La prestazione assicurativa si calcola secondo le disposizioni sulle indennità per menomazione dell’integrità di cui all’allegato 3 dell’ordinanza del 20 dicembre 1982[^11-2] sull’assicurazione contro gli infortuni.
 
-[^11-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
-[^11-2]: [RS 832.202](https://fedlex.data.admin.ch/eli/cc/1983/38_38_38)
+[^11-1]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
+[^11-2]: [RS 832.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10192)
 
 #### Art. 12
 
@@ -295,7 +295,7 @@ Sono considerate altre spese secondo l’articolo 14 capoverso 2 lettera b della
 <sup>3</sup> In caso di contestazione tra l’assicuratore e l’istituzione comune in merito al versamento dell’importo forfettario, l’istituzione comune emana una decisione ai sensi dell’articolo 5 della legge federale del 20 dicembre 1968[^12a-2] sulla procedura amministrativa.
 
 [^12a-1]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 15 nov. 2017 ([RU 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
-[^12a-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^12a-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 12b
 
@@ -310,13 +310,15 @@ L’istituzione comune informa l’Ufficio federale della sanità pubblica (UFSP
 
 <sup>2</sup> Essa versa al servizio dei controlli postdonazione il dividendo di cui all’articolo 15*b* capoverso 3 della legge sui trapianti in due rate; la prima è versata entro il 15 gennaio e la seconda entro il 15 luglio.
 
+<sup>3</sup> Essa vigila sulla sicurezza degli investimenti del patrimonio del fondo e garantisce la liquidità necessaria.
+
 <sup>3</sup> Essa vigila sulla sicurezza degli investimenti del patrimonio del fondo e garantisce la liquidità necessaria. Il consiglio di fondazione dell’istituzione comune emana un regolamento sugli investimenti. Il reddito da capitale è destinato al fondo per i controlli postdonazione.[^12b-2]
 
 <sup>4</sup> L’istituzione comune trasmette all’UFSP entro la fine di giugno un rapporto annuale sulla sua attività. Il rapporto è parte integrante dei rapporti di cui all’articolo 46 della legge del 26 settembre 2014[^12b-3] sulla vigilanza sull’assicurazione malattie.[^12b-4]
 
 [^12b-1]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 15 nov. 2017 ([RU 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
 [^12b-2]: Nuovo testo giusta il n. I dell’O del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
-[^12b-3]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^12b-3]: [RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 [^12b-4]: Nuovo testo giusta il n. I dell’O del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
 
 #### Art. 12c
@@ -718,7 +720,7 @@ Gli organi, i tessuti o le cellule che sono stati geneticamente modificati devon
 
 Per le sperimentazioni cliniche di trapianti di organi, tessuti e cellule umane si applica l’ordinanza del 20 settembre 2013[^26-1] sulle sperimentazioni cliniche nella ricerca umana.
 
-[^26-1]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+[^26-1]: [RS 810.305](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9250)
 
 #### Art. 27 a 33
 
@@ -792,7 +794,7 @@ Per il trapianto di tessuti o cellule di embrioni o feti nell’ambito di un tra
 - b. i documenti e i moduli concernenti l’informazione e il consenso della donna donatrice o della coppia interessata.
 
 [^37-1]: Abrogato dall’all. 6 n. 1 dell’O del 20 set. 2013 sulle sperimentazioni cliniche, con effetto dal 1° gen. 2014 ([RU 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
-[^37-2]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^37-2]: [RS 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
 [^37-3]: Nuovo testo giusta l’all. 6 n. 1 dell’O del 20 set. 2013 sulle sperimentazioni cliniche, in vigore dal 1° gen. 2014 ([RU 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
 [^37-4]: Abrogato dall’all. 6 n. 1 dell’O del 20 set. 2013 sulle sperimentazioni cliniche, con effetto dal 1° gen. 2014 ([RU 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
 
@@ -924,17 +926,19 @@ La persona competente del coordinamento locale deve assicurare l’avvio e il co
 
 <sup>2</sup> Possono trasmettere dati non confidenziali ad autorità e istituzioni esteri nonché a organizzazioni internazionali.
 
-<sup>3</sup> Tutti i trattamenti di dati nonché i diritti delle persone i cui dati sono trattati, sono retti dalla legge federale del 19 giugno 1992[^48-1] sulla protezione dei dati.
+<sup>3</sup> Tutti i trattamenti di dati nonché i diritti delle persone i cui dati sono trattati sono retti dalla legge federale del 25 settembre 2020[^48-1] sulla protezione dei dati.[^48-2]
 
-[^48-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^48-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^48-2]: Nuovo testo giusta l’all. 2 n. II 92 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 49
 
 **Sicurezza dei dati**
 
-I servizi incaricati dell’esecuzione prendono le misure organizzative e tecniche necessarie secondo le disposizioni in materia di protezione dei dati affinché i dati personali trattati siano protetti dalla perdita e da qualsiasi trattamento o consultazione non autorizzati o da sottrazione da parte di terzi. Essi emanano segnatamente i necessari regolamenti per il trattamento dei dati secondo l’ordinanza del 14 giugno 1993[^49-1] relativa alla legge federale sulla protezione dei dati.
+I servizi incaricati dell’esecuzione prendono le misure organizzative e tecniche necessarie secondo le disposizioni in materia di protezione dei dati affinché i dati personali trattati siano protetti dalla perdita e da qualsiasi trattamento o consultazione non autorizzati o da sottrazione da parte di terzi. Essi emanano segnatamente i regolamenti necessari per il trattamento dei dati secondo l’ordinanza del 31 agosto 2022[^49-1] sulla protezione dei dati.[^49-2]
 
-[^49-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^49-1]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^49-2]: Nuovo testo del per. giusta l’all. 2 n. II 92 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### Sezione 2*a*: Delega di compiti all’Istituto svizzero per gli agenti terapeutici
 
@@ -950,7 +954,7 @@ I servizi incaricati dell’esecuzione prendono le misure organizzative e tecnic
 
 <sup>3</sup> Per l’attività di vigilanza, l’Istituto svizzero per gli agenti terapeutici riscuote emolumenti ai sensi dell’ordinanza del 2 dicembre 2011[^49a-1] sugli emolumenti per gli agenti terapeutici.
 
-[^49a-1]: [RS 812.214.5](https://fedlex.data.admin.ch/eli/cc/2018/593)
+[^49a-1]: [RS 812.214.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9377)
 
 ### Sezione 2*b*: Registro del servizio dei controlli postdonazione dei donatori viventi
 
@@ -977,7 +981,7 @@ Contiene dati sui donatori viventi che:
 
 **Compiti del servizio dei controlli postdonazione**
 
-<sup>1</sup> Il servizio dei controlli postdonazione, in qualità di detentore della raccolta di dati, è responsabile del registro. Risponde della sicurezza del registro e della legittimità del trattamento dei dati personali.
+<sup>1</sup> Il servizio dei controlli postdonazione, in qualità di detentore della raccolta di dati, è titolare del registro.[^49c-1] Risponde della sicurezza del registro e della legittimità del trattamento dei dati personali.
 
 <sup>2</sup>
 
@@ -987,6 +991,8 @@ Il servizio dei controlli postdonazione ha i seguenti compiti:
 - b. assegna i diritti di accesso e controlla gli accessi da parte degli utenti;
 - c. fornisce supporto agli utenti nella risoluzione di problemi di applicazione;
 - d. allestisce statistiche riguardanti la donazione di organi e cellule staminali del sangue da parte di persone viventi.
+
+[^49c-1]: Nuovo testo giusta l’all. 2 n. II 92 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 49d
 
@@ -1113,7 +1119,7 @@ Se, dopo una donazione da parte di persona vivente, i risultati degli esami indi
 
 <sup>2</sup> L’articolo 34*m* dell’ordinanza del 16 marzo 2007[^49h-1] sull’attribuzione di organi si applica per analogia al trattamento dei dati per scopi di ricerca.
 
-[^49h-1]: [RS 810.212.4](https://fedlex.data.admin.ch/eli/cc/2007/281)
+[^49h-1]: [RS 810.212.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9242)
 
 ### Sezione 3: Registro delle cellule staminali
 
@@ -1304,7 +1310,7 @@ All’istituzione comune devono essere notificati i seguenti dati concernenti gl
 - b. se la competenza è dell’assicurazione contro gli infortuni: il nome dell’assicuratore-infortuni, il numero del danno e il datore di lavoro;
 - c. se la competenza è dell’assicurazione per l’invalidità: il competente ufficio AI ai sensi dell’articolo 40 dell’ordinanza del 17 gennaio 1961[^annex2-lvlu1-lvl3-1] sull’assicurazione per l’invalidità e il numero AVS.
 
-[^annex2-lvlu1-lvl3-1]: [RS 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
+[^annex2-lvlu1-lvl3-1]: [RS 831.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10047)
 
 Allegato 3[^t-3]
 
