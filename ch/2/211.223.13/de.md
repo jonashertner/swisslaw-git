@@ -4,11 +4,11 @@ title: Bundesgesetz vom 30. September 2016 über die Aufarbeitung der fürsorger
 short: AFZFG
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/145"
 language: de
-version: 2021-07-01
+version: 2023-09-01
 adopted: 2016-09-30
 in_force: 2017-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/145/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2017-145-20210701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/145/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/145/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2017-145-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/145/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/145/20210701/de"
 
 (AFZFG)
 
-vom 30. September 2016 (Stand am 1. Juli 2021)
+vom 30. September 2016 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -125,14 +125,15 @@ Für den Solidaritätsbeitrag gilt überdies Folgendes:
 
 <sup>1</sup> Die zuständige Behörde prüft die Gesuche und entscheidet über die Gewährung des Solidaritätsbeitrags.
 
-<sup>2</sup> Sie darf besonders schützenswerte Personendaten nach Artikel 3 Buchstabe c des Bundesgesetzes vom 19. Juni 1992[^6-1] über den Datenschutz bearbeiten, soweit dies für die Erfüllung ihrer Aufgabe erforderlich ist.
+<sup>2</sup> Sie darf besonders schützenswerte Personendaten nach Artikel 5 Buchstabe c des Datenschutzgesetzes vom 25. September 2020[^6-1] bearbeiten, soweit dies für die Erfüllung ihrer Aufgabe erforderlich ist.[^6-2]
 
 <sup>3</sup> Sie hört vor ihrem Entscheid die beratende Kommission (Art. 18 Abs. 2) an.
 
-<sup>4</sup> ...[^6-2]
+<sup>4</sup> …[^6-3]
 
 [^6-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^6-2]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Streichung der Frist zur Einreichung der Gesuche um Solidaritätsbeiträge), mit Wirkung seit 1. Nov. 2020 ([AS 2020 4175](https://fedlex.data.admin.ch/eli/oc/2020/766); [BBl 2020 1639](https://fedlex.data.admin.ch/eli/fga/2020/396)[1653](https://fedlex.data.admin.ch/eli/fga/2020/398)).
+[^6-2]: Fassung gemäss Anhang 1 Ziff. II 17 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^6-3]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Streichung der Frist zur Einreichung der Gesuche um Solidaritätsbeiträge), mit Wirkung seit 1. Nov. 2020 ([AS 2020 4175](https://fedlex.data.admin.ch/eli/oc/2020/766); [BBl 2020 1639](https://fedlex.data.admin.ch/eli/fga/2020/396)[1653](https://fedlex.data.admin.ch/eli/fga/2020/398)).
 
 #### Art. 7
 
@@ -164,7 +165,7 @@ Die Solidaritätsbeiträge werden finanziert durch:
 - b. freiwillige Zuwendungen der Kantone;
 - c. weitere freiwillige Zuwendungen.
 
-<sup>2</sup> ...[^9-2]
+<sup>2</sup> …[^9-2]
 
 <sup>3</sup>
 
@@ -295,7 +296,7 @@ Die zuständige Behörde kann weitere Massnahmen im Interesse der Betroffenen er
 Der Bundesrat erlässt die Ausführungsbestimmungen. Dabei regelt er insbesondere die Einzelheiten:
 
 - a. des Gesuchsverfahrens für die Gewährung eines Solidaritätsbeitrags (Art. 5);
-- b.[^19-1] ...
+- b.[^19-1] …
 - c. der Finanzierung und Umsetzung weiterer Massnahmen nach Artikel 17.
 
 [^19-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Streichung der Frist zur Einreichung der Gesuche um Solidaritätsbeiträge), mit Wirkung seit 1. Nov. 2020 ([AS 2020 4175](https://fedlex.data.admin.ch/eli/oc/2020/766); [BBl 2020 1639](https://fedlex.data.admin.ch/eli/fga/2020/396)[1653](https://fedlex.data.admin.ch/eli/fga/2020/398)).
@@ -314,7 +315,7 @@ Forderungen, die ihren Rechtsgrund unmittelbar in einer fürsorgerischen Zwangsm
 
 <sup>1</sup> Das Bundesgesetz vom 21. März 2014[^21-1] über die Rehabilitierung administrativ versorgter Menschen wird aufgehoben.
 
-<sup>2</sup> ...[^21-2]
+<sup>2</sup> …[^21-2]
 
 [^21-1]: [[AS 2014 2293](https://fedlex.data.admin.ch/eli/oc/2014/385)]
 [^21-2]: Die Änderung kann unter [AS 2017 753](https://fedlex.data.admin.ch/eli/oc/2017/145)konsultiert werden.

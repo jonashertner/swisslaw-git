@@ -4,11 +4,11 @@ title: Legge federale del 30 settembre 2016 sulle misure coercitive a scopo assi
 short: LMCCE
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/145"
 language: it
-version: 2021-07-01
+version: 2023-09-01
 adopted: 2016-09-30
 in_force: 2017-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/145/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2017-145-20210701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/145/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/145/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2017-145-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/145/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/145/20210701/it"
 
 (LMCCE)
 
-del 30 settembre 2016 (Stato 1° luglio 2021) (Stato 1° luglio 2021)
+del 30 settembre 2016 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -125,14 +125,15 @@ Per il contributo di solidarietà vale inoltre quanto segue:
 
 <sup>1</sup> L’autorità competente esamina le domande e decide in merito alla concessione del contributo di solidarietà.
 
-<sup>2</sup> Se necessario all’adempimento dei suoi compiti, può trattare dati personali degni di particolare protezione ai sensi dell’articolo 3 lettera c della legge federale del 19 giugno 1992[^6-1] sulla protezione dei dati.
+<sup>2</sup> Se necessario all’adempimento dei suoi compiti, può trattare dati personali degni di particolare protezione ai sensi dell’articolo 5 lettera c della legge federale del 25 settembre 2020[^6-1] sulla protezione dei dati.[^6-2]
 
 <sup>3</sup> Prima di decidere sente la commissione consultiva (art. 18 cpv. 2).
 
-<sup>4</sup> ...[^6-2]
+<sup>4</sup> ...[^6-3]
 
 [^6-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^6-2]: Abrogato dal n. I della LF del 19 giu. 2020 (Soppressione del termine di presentazione delle domande per il contributo di solidarietà), con effetto dal 1° nov. 2020 ([RU 2020 4175](https://fedlex.data.admin.ch/eli/oc/2020/766); [FF 2020 1449](https://fedlex.data.admin.ch/eli/fga/2020/396)[1463](https://fedlex.data.admin.ch/eli/fga/2020/398)).
+[^6-2]: Nuovo testo giusta l’all. 1 n. II 17 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^6-3]: Abrogato dal n. I della LF del 19 giu. 2020 (Soppressione del termine di presentazione delle domande per il contributo di solidarietà), con effetto dal 1° nov. 2020 ([RU 2020 4175](https://fedlex.data.admin.ch/eli/oc/2020/766); [FF 2020 1449](https://fedlex.data.admin.ch/eli/fga/2020/396)[1463](https://fedlex.data.admin.ch/eli/fga/2020/398)).
 
 #### Art. 7
 

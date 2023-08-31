@@ -4,11 +4,11 @@ title: "Loi fédérale du 30 septembre 2016 sur les mesures de coercition à des
 short: LMCFA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/145"
 language: fr
-version: 2021-07-01
+version: 2023-09-01
 adopted: 2016-09-30
 in_force: 2017-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/145/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-145-20210701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/145/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/145/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2017-145-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/145/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/145/20210701/fr"
 
 (LMCFA)
 
-du 30 septembre 2016 (Etat le 1<sup>er</sup> juillet 2021)
+du 30 septembre 2016 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -102,10 +102,10 @@ Au surplus, sont applicables les règles suivantes:
 - b. en droit de la poursuite, elle est assimilée aux indemnités versées à titre de réparation morale au sens de l’art. 92, al. 1, ch. 9, de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^4-3];
 - c.[^4-4] elle n’entraîne aucune réduction des prestations de l’aide sociale, des prestations au sens de la loi du 6 octobre 2006 sur les prestations complémentaires (LPC)[^4-5] ni des prestations au sens de la loi fédérale du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés[^4-6].
 
-[^4-1]: RS **642****.****11**
-[^4-2]: RS **6****4****2.14**
-[^4-3]: RS **281****.****1**
-[^4-4]: Nouvelle teneur selon l’annexe ch.1 de la LF du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés, en vigueur depuis le 1<sup>er</sup> juil. ([RO 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373); [FF 2019 7797](https://fedlex.data.admin.ch/eli/fga/2019/2838)).
+[^4-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^4-2]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
+[^4-3]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^4-4]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373); [FF 2019 7797](https://fedlex.data.admin.ch/eli/fga/2019/2838)).
 [^4-5]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
 [^4-6]: [RS 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
 
@@ -125,14 +125,15 @@ Au surplus, sont applicables les règles suivantes:
 
 <sup>1</sup> L’autorité compétente examine les demandes et décide de l’octroi de la contribution de solidarité.
 
-<sup>2</sup> Elle peut traiter des données sensibles au sens de l’art. 3, let. c, de la loi fédérale du 19 juin 1992 sur la protection des données[^6-1] si cela est nécessaire à l’exécution de ses tâches.
+<sup>2</sup> Elle peut traiter des données sensibles au sens de l’art. 5, let. c, de la loi fédérale du 25 septembre 2020 sur la protection des données[^6-1] si cela est nécessaire à l’exécution de ses tâches.[^6-2]
 
 <sup>3</sup> Elle demande l’avis de la commission consultative (art. 18, al. 2) avant de prendre sa décision.
 
-<sup>4</sup> ...[^6-2]
+<sup>4</sup> ...[^6-3]
 
-[^6-1]: RS **23****5****.****1**
-[^6-2]: Abrogé par le ch. I de la LF du 19 juin 2020 (Suppression du délai de dépôt des demandes d’octroi d’une contribution de solidarité), avec effet au 1<sup>er</sup> nov. 2020 ([RO 2020 4175](https://fedlex.data.admin.ch/eli/oc/2020/766); [FF 2020 1573](https://fedlex.data.admin.ch/eli/fga/2020/396)[1587](https://fedlex.data.admin.ch/eli/fga/2020/398)).
+[^6-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^6-2]: Nouvelle teneur selon l’annexe 1 ch. II 17 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^6-3]: Abrogé par le ch. I de la LF du 19 juin 2020 (Suppression du délai de dépôt des demandes d’octroi d’une contribution de solidarité), avec effet au 1<sup>er</sup> nov. 2020 ([RO 2020 4175](https://fedlex.data.admin.ch/eli/oc/2020/766); [FF 2020 1573](https://fedlex.data.admin.ch/eli/fga/2020/396)[1587](https://fedlex.data.admin.ch/eli/fga/2020/398)).
 
 #### Art. 7
 
@@ -239,7 +240,7 @@ Pendant le délai de protection, l’accès au dossier est autorisé seulement d
 
 <sup>4</sup> Lorsqu’un canton fournit des prestations en faveur de personnes domiciliées dans un autre canton, il est indemnisé par ce dernier. L’art. 18, al. 2, LAVI est applicable.
 
-[^14-1]: RS **31****2****.****5**
+[^14-1]: [RS 312.5](https://fedlex.data.admin.ch/eli/cc/2008/232)
 
 ## Section 5 Étude scientifique et information du public
 

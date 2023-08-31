@@ -4,11 +4,11 @@ title: Federal Act of 30 September 2016 on Compulsory Social Measures and Placem
 short: CSMPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/145"
 language: en
-version: 2021-07-01
+version: 2023-09-01
 adopted: 2016-09-30
 in_force: 2017-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/145/20210701/en/xml/fedlex-data-admin-ch-eli-cc-2017-145-20210701-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/145/20210701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/145/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2017-145-20230901-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/145/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (CSMPA)
 
-of 30 September 2016 (Status as of 1 July 2021)
+of 30 September 2016 (Status as of 1 September 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -127,14 +127,15 @@ The following also applies to the solidarity contribution:
 
 <sup>1</sup> The competent authority shall examine the applications and decide whether to grant the solidarity contributions.
 
-<sup>2</sup> It may process sensitive personal data under Article 3 letter c of the Federal Act of 19 June 1992[^6-1] on Data Protection to the extent required to fulfil its task.
+<sup>2</sup> It may process sensitive personal data under Article 3 letter c of the Data Protection Act of 25 September 2020[^6-1] to the extent required to fulfil its task.[^6-2]
 
 <sup>3</sup> It shall consult the advisory committee (Art. 18 para. 2) before making its decision.
 
-<sup>4</sup> ...[^6-2]
+<sup>4</sup> ...[^6-3]
 
 [^6-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^6-2]: Repealed by No I of the FA of 19 June 2020 (Abolition of the Deadline for Submitting Applications for Solidarity Contributions), with effect from 1 Nov. 2020 ([AS 2020 4175](https://fedlex.data.admin.ch/eli/oc/2020/766); [BBl 2020 1639](https://fedlex.data.admin.ch/eli/fga/2020/396)[1653](https://fedlex.data.admin.ch/eli/fga/2020/398)).
+[^6-2]: Amended by Annex 1 No II 17 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^6-3]: Repealed by No I of the FA of 19 June 2020 (Abolition of the Deadline for Submitting Applications for Solidarity Contributions), with effect from 1 Nov. 2020 ([AS 2020 4175](https://fedlex.data.admin.ch/eli/oc/2020/766); [BBl 2020 1639](https://fedlex.data.admin.ch/eli/fga/2020/396)[1653](https://fedlex.data.admin.ch/eli/fga/2020/398)).
 
 #### Art. 7
 
