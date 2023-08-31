@@ -4,11 +4,11 @@ title: "Ordinanza del 16 gennaio 1991 sul collocamento e il personale a prestito
 short: OC
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/408_408_408"
 language: it
-version: 2021-10-01
+version: 2023-09-01
 adopted: 1991-01-16
 in_force: 1991-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/408_408_408/20211001/it/xml/fedlex-data-admin-ch-eli-cc-1991-408_408_408-20211001-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/408_408_408/20211001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/408_408_408/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1991-408_408_408-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/408_408_408/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/408_408_408/20211001/it"
 
 (Ordinanza sul collocamento; OC)
 
-del 16 gennaio 1991 (Stato 1° ottobre 2021)
+del 16 gennaio 1991 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -800,6 +800,7 @@ Le disposizioni concernenti la durata del lavoro disciplinano:
 - c. le ore straordinarie, il lavoro a turni, il lavoro notturno e domenicale;
 - d. le vacanze, i giorni di congedo e festivi;
 - e. le assenze;
+
 - f. i periodi di riposo e le pause;
 - g. i tempi di spostamento e di attesa.
 
@@ -893,7 +894,7 @@ Il contratto di lavoro deve essere generalmente concluso prima dell’entrata in
 
 ## Capitolo 3: Servizio pubblico di collocamento
 
-### Sezione 1: Compiti delle autorità preposte al mercato del lavoro****
+### Sezione 1: Compiti delle autorità preposte al mercato del lavoro
 
 [^chap3-sec1-1]
 
@@ -957,7 +958,7 @@ Il datore di lavoro sottoposto a tale obbligo deve comunicare al servizio pubbli
 [^53-2]: Nuovo testo giusta il n. I dell’O del 20 ott. 1999, in vigore dal 1° dic. 1999 ([RU 1999 2711](https://fedlex.data.admin.ch/eli/oc/1999/433)).
 [^53-3]: Nuovo testo giusta il n. I dell’O del 20 ott. 1999, in vigore dal 1° dic. 1999 ([RU 1999 2711](https://fedlex.data.admin.ch/eli/oc/1999/433)).
 
-### Sezione 3:**** Obbligo di annunciare i posti vacanti in caso di tasso di disoccupazione superiore alla media
+### Sezione 3: Obbligo di annunciare i posti vacanti in caso di tasso di disoccupazione superiore alla media
 
 [^chap3-sec3-1]
 
@@ -1073,7 +1074,7 @@ Ogni anno, nel quarto trimestre, il DEFR fissa per l’anno successivo:
 
 [^53f-1]: Introdotto dal n. I dell’O del 18 giu. 2021, in vigore dal 1° ott. 2021 ([RU 2021 402](https://fedlex.data.admin.ch/eli/oc/2021/402)).
 
-### Sezione 4: Formazione e collaborazione****
+### Sezione 4: Formazione e collaborazione
 
 [^chap3-sec4-1]
 
@@ -1110,7 +1111,7 @@ Ogni anno, nel quarto trimestre, il DEFR fissa per l’anno successivo:
 [^56-1]: Nuovo testo giusta il n. I dell’O del 20 ott. 1999, in vigore dal 1° dic. 1999 ([RU 1999 2711](https://fedlex.data.admin.ch/eli/oc/1999/433)).
 [^56-2]: Nuovo testo giusta il n. I dell’O del 20 ott. 1999, in vigore dal 1° dic. 1999 ([RU 1999 2711](https://fedlex.data.admin.ch/eli/oc/1999/433)).
 
-### Sezione 5: Trattamento dei dati e rapporto****
+### Sezione 5: Trattamento dei dati e rapporto
 
 [^chap3-sec5-1]
 
@@ -1144,17 +1145,21 @@ Le autorità preposte al mercato del lavoro possono comunicare alle persone in c
 
 #### Art. 58
 
-**Diritto della persona interessata a essere informata**[^58-1]
+**Diritti delle persone interessate**[^58-1]
 
 ### (art. 34*a*, 34*b* e 35 LC)
+
+[^58-2]
 
 <sup>1</sup>
 
 Le persone in cerca di lavoro e i datori di lavoro che si annunciano alle autorità preposte al mercato del lavoro sono informati su:
 
-- a. lo scopo dei sistemi d’informazione,
-- b. i dati trattati e i loro destinatari regolari,
-- c. i loro diritti.
+- a. l’identità e i dati di contatto del titolare;
+- b. lo scopo del sistema d’informazione;
+- c. i dati trattati;
+- d. se del caso, i destinatari o le categorie di destinatari i cui dati personali sono comunicati;
+- e. i loro diritti.[^58-3]
 
 <sup>2</sup>
 
@@ -1169,6 +1174,8 @@ La persona interessata può esigere dai servizi che trattano i dati che:
 <sup>4</sup> Qualsiasi correzione, aggiunta o distruzione di dati deve essere annunciata ai servizi ai quali questi dati sono stati comunicati, nonché ad altri servizi se la persona interessata lo desidera.
 
 [^58-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2903](https://fedlex.data.admin.ch/eli/oc/2000/505)).
+[^58-2]: Nuovo testo giusta l’all. 2 n. II 113 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^58-3]: Nuovo testo giusta l’all. 2 n. II 113 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 58a
 

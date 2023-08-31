@@ -4,11 +4,11 @@ title: "Ordonnance du 16 janvier 1991 sur le service de l'emploi et la location 
 short: OSE
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/408_408_408"
 language: fr
-version: 2021-10-01
+version: 2023-09-01
 adopted: 1991-01-16
 in_force: 1991-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/408_408_408/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-1991-408_408_408-20211001-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/408_408_408/20211001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/408_408_408/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1991-408_408_408-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/408_408_408/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/408_408_408/20211001/fr"
 
 (Ordonnance sur le service de l’emploi, OSE)
 
-du 16 janvier 1991 (Etat le 1<sup>er</sup> octobre 2021)
+du 16 janvier 1991 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -895,7 +895,7 @@ Le contrat de location de services doit en principe être conclu avant l’entr�
 
 ## Chapitre 3 Le service public de l’emploi
 
-### Section 1 Tâches des autorités du marché du travail****
+### Section 1 Tâches des autorités du marché du travail
 
 [^chap3-sec1-1]
 
@@ -959,7 +959,7 @@ L’employeur soumis à cette obligation doit communiquer à l’autorité comp�
 [^53-2]: Nouvelle teneur selon le ch. I de l’O du 20 oct. 1999, en vigueur depuis le 1<sup>er</sup> déc. 1999 ([RO 1999 2711](https://fedlex.data.admin.ch/eli/oc/1999/433)).
 [^53-3]: Nouvelle teneur selon le ch. I de l’O du 20 oct. 1999, en vigueur depuis le 1<sup>er</sup> déc. 1999 ([RO 1999 2711](https://fedlex.data.admin.ch/eli/oc/1999/433)).
 
-### Section 3**** Obligation de communiquer les postes vacants**** en cas de taux de chômage supérieur à la moyenne
+### Section 3 Obligation de communiquer les postes vacants en cas de taux de chômage supérieur à la moyenne
 
 [^chap3-sec3-1][^chap3-sec3-2]
 
@@ -1001,7 +1001,7 @@ Ils sont tenus de communiquer les indications suivantes:[^53b-1]
 - h.[^53b-3] nom de l’employeur;
 - i.[^53b-4] pour les bailleurs de service, nom de l’entreprise locataire de services.
 
-<sup>3</sup> ...[^53b-5]
+<sup>3</sup> …[^53b-5]
 
 <sup>4</sup> Le service public de l’emploi confirme la réception de la communication des postes vacants.
 
@@ -1073,7 +1073,7 @@ Le DEFR détermine chaque année au cours du quatrième trimestre pour l’anné
 
 [^53f-1]: Introduit par le ch. I de l’O du 18 juin 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 402](https://fedlex.data.admin.ch/eli/oc/2021/402)).
 
-### Section 4 Formation et collaboration****
+### Section 4 Formation et collaboration
 
 [^chap3-sec4-1]
 
@@ -1110,7 +1110,7 @@ Le DEFR détermine chaque année au cours du quatrième trimestre pour l’anné
 [^56-1]: Nouvelle teneur selon le ch. I de l’O du 20 oct. 1999, en vigueur depuis le 1<sup>er</sup> déc. 1999 ([RO 1999 2711](https://fedlex.data.admin.ch/eli/oc/1999/433)).
 [^56-2]: Nouvelle teneur selon le ch. I de l’O du 20 oct. 1999, en vigueur depuis le 1<sup>er</sup> déc. 1999 ([RO 1999 2711](https://fedlex.data.admin.ch/eli/oc/1999/433)).
 
-### Section 5 Traitement des données et rapport****
+### Section 5 Traitement des données et rapport
 
 [^chap3-sec5-1]
 
@@ -1144,17 +1144,21 @@ Les autorités dont relève le marché du travail peuvent communiquer aux demand
 
 #### Art. 58
 
-**Droit de la personne concernée à être renseignée**[^58-1]
+**Droits des personnes concernées**[^58-1]
 
 ### (art. 34*a*, 34*b* et 35 LSE)
+
+[^58-2]
 
 <sup>1</sup>
 
 Les demandeurs d’emploi et les employeurs qui s’annoncent aux autorités dont relève le marché du travail sont informés:
 
-- a. du but des systèmes d’information;
-- b. des données traitées et de leurs destinataires réguliers;
-- c. de leurs droits.
+- a. de l’identité et des coordonnées du responsable du traitement;
+- b. de la finalité du système d’information;
+- c. des données traitées;
+- d. le cas échéant, des destinataires ou des catégories de destinataires auxquelles des données sont transmises;
+- e. de leurs droits.[^58-3]
 
 <sup>2</sup>
 
@@ -1169,6 +1173,8 @@ La personne concernée peut exiger des services qui traitent les données qu’i
 <sup>4</sup> Toute correction, adjonction ou destruction de données doit être annoncée aux services auxquels ces données sont normalement communiquées ainsi qu’à d’autres services si la personne concernée le souhaite.
 
 [^58-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2903](https://fedlex.data.admin.ch/eli/oc/2000/505)).
+[^58-2]: Nouvelle teneur selon l’annexe 2 ch. II 113 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^58-3]: Nouvelle teneur selon l’annexe 2 ch. II 113 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 58a
 
@@ -1192,13 +1198,13 @@ Les placeurs privés ne peuvent accéder à aucune donnée du système d’infor
 
 #### Art. 59a
 
-**Fichier des entreprises de placement et de location de services autorisées**[^59a-1]
+**Registre des entreprises de placement et de location de services autorisées**[^59a-1]
 
 ### (art. 35*b* LSE)
 
-À l’exception des données visées à l’art. 35*b*, al. 2, LSE, le fichier peut être rendu accessible au public sur l’Internet ou sous forme d’imprimé.
+À l’exception des données visées à l’art. 35*b*, al. 2, LSE, le registre peut être rendu accessible au public sur l’Internet ou sous forme d’imprimé.
 
-[^59a-1]: Introduit par le ch. I de l’O du 20 oct. 1999 ([RO 1999 2711](https://fedlex.data.admin.ch/eli/oc/1999/433)). Nouvelle teneur selon le ch. I de l’O du 22 nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2903](https://fedlex.data.admin.ch/eli/oc/2000/505)).
+[^59a-1]: Introduit par le ch. I de l’O du 20 oct. 1999 ([RO 1999 2711](https://fedlex.data.admin.ch/eli/oc/1999/433)). Nouvelle teneur selon l’annexe 2 ch. II 113 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 60
 

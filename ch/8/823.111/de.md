@@ -4,11 +4,11 @@ title: "Verordnung vom 16. Januar 1991 über die Arbeitsvermittlung und den Pers
 short: AVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/408_408_408"
 language: de
-version: 2021-10-01
+version: 2023-09-01
 adopted: 1991-01-16
 in_force: 1991-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/408_408_408/20211001/de/xml/fedlex-data-admin-ch-eli-cc-1991-408_408_408-20211001-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/408_408_408/20211001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/408_408_408/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1991-408_408_408-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/408_408_408/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/408_408_408/20211001/de"
 
 (Arbeitsvermittlungsverordnung, AVV)
 
-vom 16. Januar 1991 (Stand am 1. Oktober 2021)
+vom 16. Januar 1991 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -388,7 +388,7 @@ Die Vermittlungsprovision zulasten von Personen, die für künstlerische und äh
 
 Beitragsberechtigt sind folgende Institutionen:
 
-- a.[^24-1] ...
+- a.[^24-1] …
 - b. der Cercle Commercial Suisse in Paris;
 - c. die Schweizerische Kommission für den Austausch von Stagiaires.
 
@@ -937,7 +937,7 @@ Die zuständigen Amtsstellen stellen sicher, dass bei Bedarf:[^52-1]
 
 #### Art. 53
 
-**...[^53-1]**
+**…[^53-1]**
 
 <sup>1</sup> Der Arbeitgeber ist meldepflichtig, wenn die Entlassungen oder eine Betriebsschliessung mindestens zehn Arbeitnehmer betreffen.
 
@@ -998,7 +998,7 @@ Sie müssen die folgenden Angaben übermitteln:
 - h.[^53b-1] Name des Arbeitgebers;
 - i.[^53b-2] bei Personalverleihern: Name des Einsatzbetriebs.
 
-<sup>3</sup> ...[^53b-3]
+<sup>3</sup> …[^53b-3]
 
 <sup>4</sup> Die öffentliche Arbeitsvermittlung bestätigt den Eingang der Meldungen.
 
@@ -1139,17 +1139,21 @@ Die Arbeitsmarktbehörden dürfen Stellensuchenden von Arbeitgebern gemeldete of
 
 #### Art. 58
 
-**Auskunftsrecht der betroffenen Person**[^58-1]
+**Rechte der betroffenen Personen**[^58-1]
 
 ### (Art. 34*a*, 34*b* und 35 AVG)
+
+[^58-2]
 
 <sup>1</sup>
 
 Stellensuchende und Arbeitgeber, die sich bei der Arbeitsmarktbehörde melden, werden orientiert über:
 
-- a. den Zweck der Informationssysteme;
-- b. die bearbeiteten Daten und über deren regelmässige Empfänger;
-- c. ihre Rechte.
+- a. die Identität und die Kontaktdaten des Verantwortlichen;
+- b. den Zweck des Informationssystems;
+- c. die bearbeiteten Daten;
+- d. gegebenenfalls die Empfängerinnen und Empfänger oder die Kategorien von Empfängerinnen und Empfängern, denen die Personendaten bekanntgegeben werden;
+- e. ihre Rechte.[^58-3]
 
 <sup>2</sup>
 
@@ -1164,6 +1168,8 @@ Eine betroffene Person kann von den Stellen, welche die Daten bearbeiten, verlan
 <sup>4</sup> Eine Berichtigung, Ergänzung oder Vernichtung von Daten ist auch denjenigen Stellen mitzuteilen, an welche die Daten weitergegeben werden, sowie weiteren Stellen, wenn es die betroffene Person wünscht.
 
 [^58-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2903](https://fedlex.data.admin.ch/eli/oc/2000/505)).
+[^58-2]: Fassung gemäss Anhang 2 Ziff. II 113 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^58-3]: Fassung gemäss Anhang 2 Ziff. II 113 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 58a
 
