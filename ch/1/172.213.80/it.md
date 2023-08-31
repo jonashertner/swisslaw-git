@@ -3,18 +3,18 @@ sr: "172.213.80"
 title: "Ordinanza del 25 novembre 1998 concernente lo Stato maggiore Presa d'ostaggi e ricatto"
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/73"
 language: it
-version: 1999-01-01
+version: 2023-09-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/73/19990101/it/xml/fedlex-data-admin-ch-eli-cc-1999-73-19990101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/73/19990101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/73/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1999-73-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/73/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente lo Stato maggiore Presa d’ostaggi e ricatto
 
-del 25 novembre 1998 (Stato 9 febbraio 1999)
+del 25 novembre 1998 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -201,9 +201,11 @@ Tutti i servizi delle organizzazioni d’allarme della Confederazione e dei Cant
 
 <sup>1</sup> Per assicurare i contatti in rapporto con gli interventi dello SMOR e il versamento delle indennità, il cognome, il nome, l’indirizzo, il numero di telefono, la professione, le conoscenze specifiche e la funzione in seno allo stato maggiore dei membri dello SMOR e di terze persone che possono essere mobilitate figurano in una banca dati.
 
-<sup>2</sup> Il DFGP è responsabile della banca dati in quanto detentore dei dati. Solo membri del DFGP o dello SMOR sono abilitati a trattare i dati.
+<sup>2</sup> Il DFGP è titolare della banca dati.[^14-1] Solo membri del DFGP o dello SMOR sono abilitati a trattare i dati.
 
 <sup>3</sup> I dati possono essere comunicati agli stati maggiori della Confederazione e dei Cantoni, sempreché sia necessario per superare la crisi.
+
+[^14-1]: Nuovo testo giusta l’all. 2 n. II 24 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 5: Formazione e prontezza d’allerta
 

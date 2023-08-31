@@ -3,18 +3,18 @@ sr: "172.213.80"
 title: Verordnung vom 25. November 1998 über den Sonderstab Geiselnahme und Erpressung
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/73"
 language: de
-version: 1999-01-01
+version: 2023-09-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/73/19990101/de/xml/fedlex-data-admin-ch-eli-cc-1999-73-19990101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/73/19990101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/73/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1999-73-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/73/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über den Sonderstab Geiselnahme und Erpressung
 
-vom 25. November 1998 (Stand am 9. Februar 1999)
+vom 25. November 1998 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -197,13 +197,17 @@ Sämtliche Stellen der Alarmorganisationen des Bundes und der Kantone sind verpf
 
 #### Art. 14
 
-**Datensammlung**
+**Datenbank[^14-1]**
 
-<sup>1</sup> Für die Kontaktaufnahme im Zusammenhang mit Einsätzen des SOGE und die Entschädigungszahlungen werden von den Angehörigen des SOGE sowie von beizuziehenden Personen Name, Vorname, Adresse, Telefonnummer, Beruf, Spezialkenntnisse und Funktion im SOGE in einer Datensammlung aufgenommen.
+<sup>1</sup> Für die Kontaktaufnahme im Zusammenhang mit Einsätzen des SOGE und die Entschädigungszahlungen werden von den Angehörigen des SOGE sowie von beizuziehenden Personen Name, Vorname, Adresse, Telefonnummer, Beruf, Spezialkenntnisse und Funktion im SOGE in einer Datenbank aufgenommen.[^14-2]
 
-<sup>2</sup> Das EJPD ist als Dateninhaber für die Datensammlung verantwortlich. Die Bearbeitung der Daten erfolgt ausschliesslich durch Angehörige des EJPD oder des SOGE.
+<sup>2</sup> Das EJPD ist für die Datenbank verantwortlich.[^14-3] Die Bearbeitung der Daten erfolgt ausschliesslich durch Angehörige des EJPD oder des SOGE.
 
 <sup>3</sup> Die Daten dürfen den Stäben des Bundes und der Kantone bekannt gegeben werden, soweit dies für Zwecke der Krisenbewältigung notwendig ist.
+
+[^14-1]: Fassung gemäss Anhang 2 Ziff. II 24 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^14-2]: Fassung gemäss Anhang 2 Ziff. II 24 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^14-3]: Fassung gemäss Anhang 2 Ziff. II 24 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 5. Abschnitt: Ausbildung und Alarmbereitschaft
 

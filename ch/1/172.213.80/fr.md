@@ -3,18 +3,18 @@ sr: "172.213.80"
 title: "Ordonnance du 25 novembre 1998 concernant l'État-major Prise d'otage et chantage"
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/73"
 language: fr
-version: 1999-01-01
+version: 2023-09-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/73/19990101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-73-19990101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/73/19990101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/73/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1999-73-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/73/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance concernant l’Etat-major «Prise d’otage et chantage»
+# Ordonnance concernant l’État-major «Prise d’otage et chantage»
 
-du 25 novembre 1998 (Etat le 9 février 1999)
+du 25 novembre 1998 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -30,18 +30,18 @@ arrête:
 
 **Objet**
 
-La présente ordonnance règle les tâches, les compétences, l’organisation et l’engagement de l’Etat-major «Prise d’otage et chantage» (EMPOC).
+La présente ordonnance règle les tâches, les compétences, l’organisation et l’engagement de l’État-major «Prise d’otage et chantage» (EMPOC).
 
 #### Art. 2
 
 **Engagement**
 
-<sup>1</sup> L’EMPOC est mis en oeuvre pour gérer une situation de crise, caractérisée par des menées de chantage,
+<sup>1</sup> L’EMPOC est mis en œuvre pour gérer une situation de crise, caractérisée par des menées de chantage,
 
 - a. qui est générée notamment par la commission ou la préparation d’infractions ressortissant à la juridiction fédérale, et
-- b. qui place les autorités de la Confédération ou d’un Etat étranger dans une situation les obligeant à agir.
+- b. qui place les autorités de la Confédération ou d’un État étranger dans une situation les obligeant à agir.
 
-<sup>2</sup> Il peut également être mis en oeuvre, après entente avec le canton concerné, lorsque d’autres infractions lèsent des intérêts prépondérants de la Confédération.
+<sup>2</sup> Il peut également être mis en œuvre, après entente avec le canton concerné, lorsque d’autres infractions lèsent des intérêts prépondérants de la Confédération.
 
 #### Art. 3
 
@@ -71,7 +71,7 @@ La présente ordonnance règle les tâches, les compétences, l’organisation e
 
 <sup>3</sup>
 
-Une fois mis en oeuvre, l’EMPOC est notamment chargé:
+Une fois mis en œuvre, l’EMPOC est notamment chargé:
 
 - a. de prendre les mesures d’urgence qui s’imposent;
 - b. d’assurer la liaison avec les états-majors de la Confédération, des cantons et de l’étranger;
@@ -151,7 +151,7 @@ L’unité permanente est opérationnelle en tout temps. Centrale de l’EMPOC, 
 
 #### Art. 10
 
-**Etat-major d’engagement**
+**État-major d’engagement**
 
 <sup>1</sup> Une fois convoquée, l’état-major d’engagement reprend aussi rapidement que possible l’ensemble des tâches attribuées à l’EMPOC en vertu de l’art. 5, al. 1 et 3.
 
@@ -171,7 +171,7 @@ Sont représentés dans l’état-major d’engagement les organes ci-dessous:
 
 **Moyens**
 
-<sup>1</sup> L’EMPOC dispose de locaux et d’équipements particuliers lorsqu’il est mis en oeuvre.
+<sup>1</sup> L’EMPOC dispose de locaux et d’équipements particuliers lorsqu’il est mis en œuvre.
 
 <sup>2</sup> Le DFJP est responsable de l’entretien de ces locaux et équipements et veille à obtenir les autres moyens nécessaires à l’accomplissement des tâches de l’EMPOC auprès des organes compétents de la Confédération et des cantons ou auprès de tiers.
 
@@ -195,13 +195,17 @@ Tous les services des organisations d’alarme de la Confédération et des cant
 
 #### Art. 14
 
-**Fichier**
+**Banque de données[^14-1]**
 
-<sup>1</sup> Les nom, prénom, adresse, numéro de téléphone, profession, connaissances spécifiques et fonction au sein de l’état-major des membres de l’EMPOC et des tierces personnes susceptibles d’êtres mobilisées sont rassemblées dans un fichier. Ces données servent à effectuer les prises de contact nécessaires en vue d’un engagement de l’EMPOC et à procéder au versement des indemnités.
+<sup>1</sup> Les nom, prénom, adresse, numéro de téléphone, profession, connaissances spécifiques et fonction au sein de l’état-major des membres de l’EMPOC et des tierces personnes susceptibles d’être mobilisées sont rassemblées dans une banque de données. Ces données servent à effectuer les prises de contact nécessaires en vue d’un engagement de l’EMPOC et à procéder au versement des indemnités.[^14-2]
 
-<sup>2</sup> Le DFJP a qualité de maître du fichier et, à ce titre, en est responsable. Seuls des membres du DFJP ou de l’EMPOC sont habilités à en traiter les données
+<sup>2</sup> Le DFJP est responsable de la banque de données.[^14-3] Seuls des membres du DFJP ou de l’EMPOC sont habilités à en traiter les données
 
 <sup>3</sup> Les données peuvent être communiquées aux états-majors de la Confédération et des cantons dans la mesure où elles sont nécessaires au règlement de la crise.
+
+[^14-1]: Nouvelle teneur selon l’annexe 2 ch. II 24 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^14-2]: Nouvelle teneur selon l’annexe 2 ch. II 24 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^14-3]: Nouvelle teneur selon l’annexe 2 ch. II 24 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 5 Formation et état d’alerte
 
@@ -213,7 +217,7 @@ L’EMPOC est responsable de la formation de ses membres.
 
 #### Art. 16
 
-**Etat d’alerte**
+**État d’alerte**
 
 L’EMPOC assure un dispositif permanent de mise en alerte de ses membres.
 
