@@ -4,11 +4,11 @@ title: "Ordonnance du 17 octobre 2012 sur la guerre électronique et l'explorati
 short: OGE
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/638"
 language: fr
-version: 2017-09-01
+version: 2023-09-01
 adopted: 2012-10-17
 in_force: 2012-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/638/20170901/fr/xml/fedlex-data-admin-ch-eli-cc-2012-638-20170901-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/638/20170901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/638/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2012-638-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/638/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/638/20170901/fr"
 
 (OGE)
 
-du 17 octobre 2012 (Etat le 1<sup>er</sup> septembre 2017)
+du 17 octobre 2012 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -28,17 +28,17 @@ arrête:
 [^ingress-1]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^ingress-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 [^ingress-3]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
-[^ingress-4]: Nouvelle teneur selon le ch. II 9 de l’annexe 4 à l’O du 16 août 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^ingress-4]: Nouvelle teneur selon l’annexe 4 ch. II 9 de l’O du 16 août 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
 
 ## Section 1 Exploration radio
 
 #### Art. 1
 
-**[Organe compétent](https://www.admin.ch/opc/fr/classified-compilation/20121395/index.html)**[^1-1]
+**Organe compétent**[^1-1]
 
 Le Centre des opérations électroniques (COE) est compétent pour l’exploration radio.
 
-[^1-1]: Nouvelle teneur selon le ch. II 9 de l’annexe 4 à l’O du 16 août 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^1-1]: Nouvelle teneur selon l’annexe 4 ch. II 9 de l’O du 16 août 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
 
 #### Art. 2
 
@@ -82,8 +82,8 @@ Les informations visées à l’al. 2 servent :
 
 <sup>4</sup> Les mandats d’exploration radio sont convenus par écrit. Ils définissent en particulier le domaine de l’exploration et la forme des résultats.
 
-[^3-1]: Nouvelle teneur selon le ch. II 9 de l’annexe 4 à l’O du 16 août 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
-[^3-2]: Introduite par le ch. II 9 de l’annexe 4 à l’O du 16 août 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^3-1]: Nouvelle teneur selon l’annexe 4 ch. II 9 de l’O du 16 août 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^3-2]: Introduite par l’annexe 4 ch. II 9 de l’O du 16 août 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
 
 #### Art. 4
 
@@ -97,7 +97,9 @@ Les informations visées à l’al. 2 servent :
 
 <sup>4</sup> Il peut utiliser les données saisies sur la base d’un mandat d’exploration radio pour exécuter un autre mandat d’exploration radio émis par le même mandant.
 
-<sup>5</sup> L’enregistrement de fichiers, le droit d’accès et le droit de consultation ainsi que l’archivage sont soumis aux dispositions légales applicables aux mandants concernés.
+<sup>5</sup> La déclaration des registres d’activité de traitement, le droit d’accès et le droit de consultation ainsi que l’archivage sont soumis aux dispositions légales applicables aux mandants concernés.[^4-1]
+
+[^4-1]: Nouvelle teneur selon l’annexe 2 ch. II 60 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 5
 
@@ -107,7 +109,7 @@ Les informations visées à l’al. 2 servent :
 
 <sup>2</sup> Les données visées aux art. 38, al. 4, let. b, et 5 LRens, sont réservées.[^5-1]
 
-[^5-1]: Nouvelle teneur selon le ch. II 9 de l’annexe 4 à l’O du 16 août 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^5-1]: Nouvelle teneur selon l’annexe 4 ch. II 9 de l’O du 16 août 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
 
 #### Art. 6
 
@@ -131,7 +133,7 @@ Les contacts en matière de renseignement du COE avec les organes spécialisés 
 
 [^811-1]
 
-[^811-1]: Abrogés par le ch. 5 de l’annexe à l’O du 16 août 2017 sur la surveillance des activités de renseignement, avec effet au 1<sup>er</sup> sept. 2017 ([RO 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)).
+[^811-1]: Abrogés par l’annexe ch. 5 de l’O du 16 août 2017 sur la surveillance des activités de renseignement, avec effet au 1<sup>er</sup> sept. 2017 ([RO 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)).
 
 ## Section 3 Guerre électronique de l’armée
 
@@ -167,7 +169,7 @@ Les contacts en matière de renseignement du COE avec les organes spécialisés 
 
 L’ordonnance du 15 octobre 2003 sur la guerre électronique est abrogée[^14-1].
 
-[^14-1]: [[RO 2003 3971](https://fedlex.data.admin.ch/eli/oc/2003/571), [2006 3719](https://fedlex.data.admin.ch/eli/oc/2006/565), [2007 4309](https://fedlex.data.admin.ch/eli/oc/2007/574), [2008 3217](https://fedlex.data.admin.ch/eli/oc/2008/432), [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)annexe 4 ch. II 19]
+[^14-1]: [[RO 2003 3971](https://fedlex.data.admin.ch/eli/oc/2003/571); [2006 3719](https://fedlex.data.admin.ch/eli/oc/2006/565); [2007 4309](https://fedlex.data.admin.ch/eli/oc/2007/574); [2008 3217](https://fedlex.data.admin.ch/eli/oc/2008/432); [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)annexe 4 ch. II 19]
 
 #### Art. 15
 

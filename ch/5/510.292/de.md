@@ -4,11 +4,11 @@ title: Verordnung vom 17. Oktober 2012 über die elektronische Kriegführung und
 short: VEKF
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/638"
 language: de
-version: 2017-09-01
+version: 2023-09-01
 adopted: 2012-10-17
 in_force: 2012-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/638/20170901/de/xml/fedlex-data-admin-ch-eli-cc-2012-638-20170901-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/638/20170901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/638/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2012-638-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/638/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/638/20170901/de"
 
 (VEKF)
 
-vom 17. Oktober 2012 (Stand am 1. September 2017)
+vom 17. Oktober 2012 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -97,7 +97,9 @@ Die Informationen nach Absatz 2 dienen:
 
 <sup>4</sup> Es darf Daten, die aufgrund eines Funkaufklärungsauftrags erfasst worden sind, auch zur Erfüllung eines anderen Funkaufklärungsauftrags des gleichen Auftraggebers verwenden.
 
-<sup>5</sup> Die Anmeldung von Datensammlungen, das Auskunfts- und Einsichtsrecht sowie die Archivierung richten sich nach den für den jeweiligen Auftraggeber geltenden rechtlichen Bestimmungen.
+<sup>5</sup> Die Meldung der Verzeichnisse der Bearbeitungstätigkeiten, das Auskunfts- und Einsichtsrecht sowie die Archivierung richten sich nach den für den jeweiligen Auftraggeber geltenden rechtlichen Bestimmungen.[^4-1]
+
+[^4-1]: Fassung gemäss Anhang 2 Ziff. II 60 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 5
 
@@ -127,7 +129,7 @@ Nachrichtendienstliche Kontakte des ZEO zu ausländischen Fachstellen erfolgen �
 
 ## 2. Abschnitt: …
 
-#### Art. 8-11
+#### Art. 8–11
 
 [^811-1]
 
@@ -167,7 +169,7 @@ Nachrichtendienstliche Kontakte des ZEO zu ausländischen Fachstellen erfolgen �
 
 Die Verordnung vom 15. Oktober 2003[^14-1] über die elektronische Kriegführung wird aufgehoben.
 
-[^14-1]: [[AS 2003 3971](https://fedlex.data.admin.ch/eli/oc/2003/571), [2006 3719](https://fedlex.data.admin.ch/eli/oc/2006/565), [2007 4309](https://fedlex.data.admin.ch/eli/oc/2007/574), [2008 3217](https://fedlex.data.admin.ch/eli/oc/2008/432), [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 Ziff. II 19]
+[^14-1]: [[AS 2003 3971](https://fedlex.data.admin.ch/eli/oc/2003/571); [2006 3719](https://fedlex.data.admin.ch/eli/oc/2006/565); [2007 4309](https://fedlex.data.admin.ch/eli/oc/2007/574); [2008 3217](https://fedlex.data.admin.ch/eli/oc/2008/432); [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 Ziff. II 19]
 
 #### Art. 15
 

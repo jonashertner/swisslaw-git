@@ -4,11 +4,11 @@ title: "Ordinanza del 17 ottobre 2012 sulla condotta della guerra elettronica e 
 short: OCGE
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/638"
 language: it
-version: 2017-09-01
+version: 2023-09-01
 adopted: 2012-10-17
 in_force: 2012-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/638/20170901/it/xml/fedlex-data-admin-ch-eli-cc-2012-638-20170901-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/638/20170901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/638/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2012-638-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/638/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/638/20170901/it"
 
 (OCGE)
 
-del 17 ottobre 2012 (Stato 1° settembre 2017)
+del 17 ottobre 2012 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -28,7 +28,7 @@ ordina:
 [^ingress-1]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^ingress-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 [^ingress-3]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
-[^ingress-4]: Nuovo testo giusta il n. II 9 dell’all. 4 all’O del 16 ago. 2017 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^ingress-4]: Nuovo testo giusta l’all. 4 n. II 9 dell’O del 16 ago. 2017 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
 
 ## Sezione 1: Esplorazione radio
 
@@ -38,7 +38,7 @@ ordina:
 
 L’esplorazione radio compete al Centro operazioni elettroniche (COE).
 
-[^1-1]: Nuovo testo giusta il n. II 9 dell’all. 4 all’O del 16 ago. 2017 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^1-1]: Nuovo testo giusta l’all. 4 n. II 9 dell’O del 16 ago. 2017 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
 
 #### Art. 2
 
@@ -82,8 +82,8 @@ Le informazioni di cui al capoverso 2 servono:
 
 <sup>4</sup> I mandati di esplorazione radio sono concordati per scritto. Vi si definisce il settore d’esplorazione e la forma dei risultati.
 
-[^3-1]: Nuovo testo giusta il n. II 9 dell’all. 4 all’O del 16 ago. 2017 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
-[^3-2]: Introdotta dal n. II 9 dell’all. 4 all’O del 16 ago. 2017 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^3-1]: Nuovo testo giusta l’all. 4 n. II 9 dell’O del 16 ago. 2017 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^3-2]: Introdotta dall’all. 4 n. II 9 dell’O del 16 ago. 2017 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
 
 #### Art. 4
 
@@ -97,7 +97,9 @@ Le informazioni di cui al capoverso 2 servono:
 
 <sup>4</sup> Può utilizzare i dati rilevati sulla base di un mandato di esplorazione radio anche per adempiere un altro mandato di esplorazione radio dello stesso mandante.
 
-<sup>5</sup> La notifica delle collezioni di dati, il diritto di informazione e di accesso nonché l’archiviazione sono retti dalle disposizioni legali applicabili al rispettivo mandante.
+<sup>5</sup> La notifica dei registri delle attività di trattamento di dati, il diritto di informazione e di accesso nonché l’archiviazione sono retti dalle disposizioni legali applicabili al rispettivo mandante.[^4-1]
+
+[^4-1]: Nuovo testo giusta l’all. 2 n. II 60 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 5
 
@@ -107,7 +109,7 @@ Le informazioni di cui al capoverso 2 servono:
 
 <sup>2</sup> Sono fatti salvi i dati secondo l’articolo 38 capoversi 4 lettera b e 5 LAIn.[^5-1]
 
-[^5-1]: Nuovo testo giusta il n. II 9 dell’all. 4 all’O del 16 ago. 2017 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^5-1]: Nuovo testo giusta l’all. 4 n. II 9 dell’O del 16 ago. 2017 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
 
 #### Art. 6
 
@@ -131,7 +133,7 @@ I contatti in materia di servizi informazioni tra il COE e servizi specializzati
 
 [^811-1]
 
-[^811-1]: Abrogati dal n. 5 dell’all. all’O del 16 ago. 2017 concernente la vigilanza sulle attività informative, con effetto dal 1° set. 2017 ([RU 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)).
+[^811-1]: Abrogati dall’all. n. 5 dell’O del 16 ago. 2017 concernente la vigilanza sulle attività informative, con effetto dal 1° set. 2017 ([RU 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)).
 
 ## Sezione 3: Condotta della guerra elettronica dell’esercito
 
@@ -175,7 +177,7 @@ L’ordinanza del 15 ottobre 2003[^14-1] concernente la guerra elettronica è ab
 
 Le ordinanze qui appresso sono modificate come segue:
 
-...**[^15-1]**
+...[^15-1]
 
 [^15-1]: Le mod. possono essere consultate alla [RU 2012 5527](https://fedlex.data.admin.ch/eli/oc/2012/638).
 
