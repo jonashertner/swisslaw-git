@@ -4,11 +4,11 @@ title: Bundesgesetz vom 19. Dezember 1986 gegen den unlauteren Wettbewerb (UWG)
 short: UWG
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/223_223_223"
 language: de
-version: 2022-12-01
+version: 2023-09-01
 adopted: 1986-12-19
 in_force: 1988-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/223_223_223/20221201/de/xml/fedlex-data-admin-ch-eli-cc-1988-223_223_223-20221201-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20221201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/223_223_223/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1988-223_223_223-20230901-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20221201/de"
 
 (UWG)
 
-vom 19. Dezember 1986 (Stand am 1. Dezember 2022)
+vom 19. Dezember 1986 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -389,11 +389,12 @@ Die für den Vollzug dieses Gesetzes zuständigen Bundesbehörden können im Rah
 - c. die finanzielle Abwicklung des Geschäfts;
 - d. die Sperrung von Postfächern.
 
-<sup>2</sup> Sie können die Daten bekannt geben, wenn die Datenempfänger zusichern, dass sie Gegenrecht halten und die Daten nur zur Bekämpfung unlauteren Geschäftsgebarens bearbeiten. Artikel 6 des Bundesgesetzes vom 19. Juni 1992[^22-1] über den Datenschutz bleibt vorbehalten.
+<sup>2</sup> Sie können die Daten bekannt geben, wenn die Datenempfänger zusichern, dass sie Gegenrecht halten und die Daten nur zur Bekämpfung unlauteren Geschäftsgebarens bearbeiten. Im Übrigen sind die Artikel 16 und 17 des Datenschutzgesetzes vom 25. September 2020[^22-1] anwendbar.[^22-2]
 
 <sup>3</sup> Handelt es sich beim Datenempfänger um eine internationale Organisation oder ein internationales Gremium, so können sie die Daten auch ohne Gegenrecht bekannt geben.
 
 [^22-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^22-2]: Fassung des zweiten Satzes gemäss Anhang 1 Ziff. II 23 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ## 4. Kapitel: Strafbestimmungen
 

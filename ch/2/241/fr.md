@@ -4,11 +4,11 @@ title: Loi fédérale du 19 décembre 1986 contre la concurrence déloyale (LCD)
 short: LCD
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/223_223_223"
 language: fr
-version: 2022-12-01
+version: 2023-09-01
 adopted: 1986-12-19
 in_force: 1988-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/223_223_223/20221201/fr/xml/fedlex-data-admin-ch-eli-cc-1988-223_223_223-20221201-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20221201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/223_223_223/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1988-223_223_223-20230901-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20221201/fr"
 
 (LCD)
 
-du 19 décembre 1986 (État le 1<sup>er</sup> décembre 2022)
+du 19 décembre 1986 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -392,12 +392,13 @@ Les autorités fédérales compétentes pour l’exécution de la présente loi 
 - c. les modalités financières de l’opération;
 - d. la fermeture de cases postales.
 
-<sup>2</sup> Elles peuvent communiquer les données si les destinataires garantissent qu’ils accordent la réciprocité et ne traiteront les données que pour lutter contre les pratiques commerciales déloyales. L’art. 6 de la loi fédérale du 19 juin 1992 sur la protection des données[^22-2] est réservé.
+<sup>2</sup> Elles peuvent communiquer les données si les destinataires garantissent qu’ils accordent la réciprocité et ne traiteront les données que pour lutter contre les pratiques commerciales déloyales. Les art. 16 et 17 de la loi fédérale du 25 septembre 2020 sur la protection des données[^22-2] s’appliquent pour le surplus.[^22-3]
 
 <sup>3</sup> Lorsque le destinataire des données est une organisation ou un organisme international, les données peuvent lui être communiquées même s’il n’accorde pas la réciprocité.
 
 [^22-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [FF 2009 5539](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
 [^22-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^22-3]: Nouvelle teneur de la phrase selon l’annexe 1 ch. II 23 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ## Chapitre 4 Dispositions pénales
 

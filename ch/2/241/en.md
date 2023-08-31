@@ -4,11 +4,11 @@ title: "Federal Act of 19 December 1986 on Unfair Competition (Unfair Competitio
 short: UCA
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/223_223_223"
 language: en
-version: 2022-12-01
+version: 2023-09-01
 adopted: 1986-12-19
 in_force: 1988-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/223_223_223/20221201/en/xml/fedlex-data-admin-ch-eli-cc-1988-223_223_223-20221201-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20221201/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/223_223_223/20230901/en/xml/fedlex-data-admin-ch-eli-cc-1988-223_223_223-20230901-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Unfair Competition Act, UCA)
 
-of 19 December 1986 (Status as of 1 December 2022)
+of 19 December 1986 (Status as of 1 September 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -99,10 +99,10 @@ A person acts unfairly if they:
 <sup>2</sup> Paragraph 1 letter s does not apply to voice telephony and to contracts concluded exclusively by the exchange of electronic mail or by comparable individual communication.[^3-15]
 
 [^3-1]: Amended by No I of the FA of 24 March 1995, in force since 1 Nov. 1995 ([AS 1995 4086](https://fedlex.data.admin.ch/eli/oc/1995/4086_4086_4086); [BBl 1994 III 442](https://fedlex.data.admin.ch/eli/fga/1994/3_442_449_403)).
-[^3-2]: Amended by Annex 2 No II 2 of the FA of 23 March 2001 on Consumer Credit, in force since 1 Jan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); BBl **1999** 3155).
-[^3-3]: Amended by Annex 2 No II 2 of the FA of 23 March 2001 on Consumer Credit, in force since 1 Jan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); BBl **1999** 3155).
+[^3-2]: Amended by Annex 2 No II 2 of the FA of 23 March 2001 on Consumer Credit, in force since 1 Jan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); [BBl 1999 III 3155](https://fedlex.data.admin.ch/eli/fga/1999/1_3155_2879_2697)).
+[^3-3]: Amended by Annex 2 No II 2 of the FA of 23 March 2001 on Consumer Credit, in force since 1 Jan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); [BBl 1999 III 3155](https://fedlex.data.admin.ch/eli/fga/1999/1_3155_2879_2697)).
 [^3-4]: Amended by No II of the FA of 13 Dec. 2013 (Repeal of Provisions on Advance Payment Contracts), in force since 1 July 2014 ([AS 2014 869](https://fedlex.data.admin.ch/eli/oc/2014/184); [BBl 2013 4631](https://fedlex.data.admin.ch/eli/fga/2013/864)[5793](https://fedlex.data.admin.ch/eli/fga/2013/1039)).
-[^3-5]: Inserted by Annex 2 No II 2 of the FA of 23 March 2001 on Consumer Credit, in force since 1 Jan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); BBl **1999** 3155).
+[^3-5]: Inserted by Annex 2 No II 2 of the FA of 23 March 2001 on Consumer Credit, in force since 1 Jan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); [BBl 1999 III 3155](https://fedlex.data.admin.ch/eli/fga/1999/1_3155_2879_2697)).
 [^3-6]: Inserted by Annex No 1 of the FA of 24 March 2006, in force since 1 April 2007 ([AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [BBl 2003 7951](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 [^3-7]: Inserted by No I of the FA of 17 June 2011, in force since 1 April 2012 ([AS 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [BBl 2009 6151](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
 [^3-8]: Inserted by No I of the FA of 17 June 2011, in force since 1 April 2012 ([AS 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [BBl 2009 6151](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
@@ -391,11 +391,12 @@ The federal authorities responsible for implementing this Act may in the context
 - c. the financial modalities of the transaction;
 - d. the closure of post office boxes.
 
-<sup>2</sup> They may disclose the data if the data recipients provide an assurance that they will grant reciprocal rights and only process data for the purpose of combating unfair business practices. Article 6 of the Federal Act of 19 June 1992[^22-1] on Data Protection remains reserved.
+<sup>2</sup> They may disclose the data if the data recipients provide an assurance that they will grant reciprocal rights and only process data for the purpose of combating unfair business practices. Articles 16 and 17 of the Data Protection Act of 25 September 2020[^22-1] otherwise apply.[^22-2]
 
 <sup>3</sup> If the data recipient is an international organisation or an international body, they may disclose the data without being granted reciprocal rights.
 
 [^22-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^22-2]: Second sentence amended by Annex 1 No II 23 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ## Chapter 4 Criminal Provisions
 
