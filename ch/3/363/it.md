@@ -3,11 +3,11 @@ sr: "363"
 title: "Legge federale del 20 giugno 2003 sull'utilizzo di profili del DNA nel procedimento penale e per l'identificazione di persone sconosciute o scomparse (Legge sui profili del DNA)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/811"
 language: it
-version: 2023-08-01
+version: 2023-09-01
 adopted: 2003-06-20
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/811/20230801/it/xml/fedlex-data-admin-ch-eli-cc-2004-811-20230801-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20230801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/811/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2004-811-20230901-it-xml-20.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20230801/it"
 
 (Legge sui profili del DNA)
 
-del 20 giugno 2003 (Stato 1° agosto 2023)
+del 20 giugno 2003 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -220,9 +220,9 @@ Durante la sua conservazione, il campione può essere utilizzato unicamente per 
 
 Nel sistema d’informazione sono registrati i profili del DNA concernenti:
 
-- a. persone sospettate di essere gli autori di crimini o delitti oppure di avervi partecipato (art. 3);
-- b. persone condannate (art. 5);
-- c. tracce e persone defunte (art. 4).
+- a. persone sospettate di essere gli autori di crimini o delitti oppure di avervi partecipato (art. 3[^11-1]);
+- b. persone condannate (art. 5[^11-2]);
+- c. tracce e persone defunte (art. 4[^11-3]).
 
 <sup>2</sup>
 
@@ -234,22 +234,27 @@ Nel sistema d’informazione sono inoltre registrati i profili del DNA di:
 
 <sup>3</sup> Se risulta adempiuta una delle condizioni di cui ai capoversi 1 e 2, nel sistema d’informazione sono registrati i profili del DNA trasmessi dall’estero nell’ambito della collaborazione internazionale e necessari in procedimenti svizzeri (art. 13).
 
-<sup>3bis</sup> Nel sistema d’informazione possono essere registrati i profili del DNA del cromosoma Y allestiti giusta l’articolo 255 capoverso 3 CPP[^11-1].[^11-2]
+<sup>3bis</sup> Nel sistema d’informazione possono essere registrati i profili del DNA del cromosoma Y allestiti giusta l’articolo 255 capoverso 3 CPP[^11-4].[^11-5]
 
 <sup>4</sup>
 
 Non sono registrati nel sistema d’informazione i profili del DNA concernenti:
 
-- a. vittime identificate (art. 3 cpv. 1 lett. b);
-- b. persone autorizzate ad accedere al luogo del reato e le cui tracce vanno distinte da quelle dell’autore del reato (art. 3 cpv. 1 lett. b);
-- c.[^11-3] persone scagionate nell’ambito di un’indagine a tappeto di cui all’articolo 256 CPP o 73*t* PPM[^11-4];
+- a. vittime identificate (art. 3 cpv. 1 lett. b[^11-6]);
+- b. persone autorizzate ad accedere al luogo del reato e le cui tracce vanno distinte da quelle dell’autore del reato (art. 3 cpv. 1 lett. b[^11-7]);
+- c.[^11-8] persone scagionate nell’ambito di un’indagine a tappeto di cui all’articolo 256 CPP o 73*t* PPM[^11-9];
 - d. persone scagionate dal sospetto di aver commesso il crimine o il delitto in questione;
 - e. persone che erano implicate in un procedimento che è stato abbandonato.
 
-[^11-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^11-2]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-[^11-3]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-[^11-4]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^11-1]: Ora: art. 255 cpv. 1 lett. a CPP o art. 73*s* cpv. 1 lett. a PPM
+[^11-2]: Ora: art. 257 CPP o art. 73*u* PPM
+[^11-3]: Ora: art. 255 cpv. 1 lett. c e d CPP o art. 73*s* cpv. 1 lett. c e d PPM
+[^11-4]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^11-5]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^11-6]: Ora: art. 255 cpv. 1 lett. b CPP o art. 73*s* cpv. 1 lett. b PPM
+[^11-7]: Ora: art. 255 cpv. 1 lett. b CPP o art. 73*s* cpv. 1 lett. b PPM
+[^11-8]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^11-9]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 
 #### Art. 12
 
@@ -259,7 +264,7 @@ Non sono registrati nel sistema d’informazione i profili del DNA concernenti:
 
 <sup>2</sup> I laboratori riconosciuti possono essere collegati online al sistema d’informazione. La decisione in merito al collegamento spetta al Dipartimento.
 
-[^12-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^12-1]: Nuovo testo giusta l’all. 2 n. 1 della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 13
 
@@ -294,9 +299,10 @@ Non sono registrati nel sistema d’informazione i profili del DNA concernenti:
 
 <sup>2</sup> Ognuno ha il diritto di informarsi presso fedpol se nel sistema d’informazione è registrato sotto il suo nome un profilo del DNA.
 
-<sup>3</sup> Il diritto all’informazione nonché il rifiuto, la limitazione o il differimento della stessa sono disciplinati dagli articoli 8 e 9 della legge federale del 19 giugno 1992[^15-1] sulla protezione dei dati.
+<sup>3</sup> Il diritto all’informazione nonché il rifiuto, la limitazione o il differimento della stessa sono disciplinati dagli articoli 25 e 26 della legge federale del 25 settembre 2020[^15-1] sulla protezione dei dati.[^15-2]
 
 [^15-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^15-2]: Nuovo testo giusta l’all. 1 n. II 31 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 16
 
@@ -387,6 +393,8 @@ I profili del DNA allestiti al di fuori di procedimenti penali ai sensi dell’a
 
 <sup>2</sup> L’autorità competente sopperisce alle spese relative al rilevamento e alla trasmissione dei campioni nonché a quelle di analisi e di valutazione.
 
+## Sezione 8: Disposizioni finali
+
 #### Art. 20a
 
 **Valutazione**[^20a-1]
@@ -396,8 +404,6 @@ I profili del DNA allestiti al di fuori di procedimenti penali ai sensi dell’a
 <sup>2</sup> Entro sei anni dall’entrata in vigore della modifica del 17 dicembre 2021 della presente legge, il Consiglio federale presenta al Parlamento un rapporto concernente in particolare l’attuazione dell’articolo 2*b*.
 
 [^20a-1]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-
-## Sezione 8: Disposizioni finali
 
 #### Art. 21
 

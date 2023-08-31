@@ -3,11 +3,11 @@ sr: "363"
 title: Bundesgesetz vom 20. Juni 2003 über die Verwendung von DNA-Profilen im Strafverfahren und zur Identifizierung von unbekannten oder vermissten Personen (DNA-Profil-Gesetz)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/811"
 language: de
-version: 2023-08-01
+version: 2023-09-01
 adopted: 2003-06-20
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/811/20230801/de/xml/fedlex-data-admin-ch-eli-cc-2004-811-20230801-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20230801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/811/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2004-811-20230901-de-xml-20.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20230801/de"
 
 (DNA-Profil-Gesetz)
 
-vom 20. Juni 2003 (Stand am 1. August 2023)
+vom 20. Juni 2003 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -221,9 +221,9 @@ Während ihrer Aufbewahrung darf die Probe einzig für Nachtypisierungen verwend
 
 In das Informationssystem werden die DNA-Profile aufgenommen von:
 
-- a. Personen, die als Täter oder Teilnehmer eines Verbrechens oder Vergehens verdächtigt werden (Art. 3);
-- b. verurteilten Personen (Art. 5);
-- c. Spuren und toten Personen (Art. 4)
+- a. Personen, die als Täter oder Teilnehmer eines Verbrechens oder Vergehens verdächtigt werden (Art. 3[^11-1]);
+- b. verurteilten Personen (Art. 5[^11-2]);
+- c. Spuren und toten Personen (Art. 4[^11-3]).
 
 <sup>2</sup>
 
@@ -235,22 +235,27 @@ In das Informationssystem aufgenommen werden zudem die DNA-Profile von:
 
 <sup>3</sup> Falls eine der unter den Absätzen 1 und 2 dieses Artikels vorgesehenen Bedingungen erfüllt ist, werden in das Informationssystem die DNA-Profile aufgenommen, die im Rahmen der internationalen Zusammenarbeit aus dem Ausland übermittelt und in schweizerischen Verfahren benötigt werden (Art. 13).
 
-<sup>3bis</sup> In das Informationssystem können die gestützt auf Artikel 255 Absatz 3 StPO[^11-1] erstellten Y-DNA-Profile aufgenommen werden.[^11-2]
+<sup>3bis</sup> In das Informationssystem können die gestützt auf Artikel 255 Absatz 3 StPO[^11-4] erstellten Y-DNA-Profile aufgenommen werden.[^11-5]
 
 <sup>4</sup>
 
 Nicht in das Informationssystem aufgenommen werden die DNA-Profile von:
 
-- a. identifizierten Opfern (Art. 3 Abs. 1 Bst. b);
-- b. tatortberechtigten Personen, deren Spuren von Täterspuren unterschieden werden müssen (Art. 3 Abs. 1 Bst. b);
-- c.[^11-3] Personen, die in einer Massenuntersuchung nach Artikel 256 StPO oder 73*t* MStP[^11-4] als Täter ausgeschlossen worden sind;
+- a. identifizierten Opfern (Art. 3 Abs. 1 Bst. b[^11-6]);
+- b. tatortberechtigten Personen, deren Spuren von Täterspuren unterschieden werden müssen (Art. 3 Abs. 1 Bst. b[^11-7]);
+- c.[^11-8] Personen, die in einer Massenuntersuchung nach Artikel 256 StPO oder 73*t* MStP[^11-9] als Täter ausgeschlossen worden sind;
 - d. verdächtigten Personen, bei denen sich herausgestellt hat, dass sie als Täter des in Frage stehenden Verbrechens oder Vergehens ausgeschlossen werden können;
 - e. Personen, die in ein Verfahren verwickelt waren, das eingestellt worden ist.
 
-[^11-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^11-2]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-[^11-3]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-[^11-4]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^11-1]: Heute: Art. 255 Abs. 1 Bst. a StPO oder Art. 73*s* Abs. 1 Bst. a MStP
+[^11-2]: Heute: Art. 257 StPO oder Art. 73*u* MStP
+[^11-3]: Heute: Art. 255 Abs. 1 Bst. c und d StPO oder Art. 73*s* Abs. 1 Bst. c und d MStP
+[^11-4]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^11-5]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^11-6]: Heute: 255 Abs. 1 Bst. b StPO oder Art. 73*s* Abs. 1 Bst. b MStP
+[^11-7]: Heute: 255 Abs. 1 Bst. b StPO oder Art. 73*s* Abs. 1 Bst. b MStP
+[^11-8]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^11-9]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 
 #### Art. 12
 
@@ -260,7 +265,7 @@ Nicht in das Informationssystem aufgenommen werden die DNA-Profile von:
 
 <sup>2</sup> Die anerkannten Labors können online an das Informationssystem angeschlossen werden. Das Departement entscheidet über den Anschluss.
 
-[^12-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^12-1]: Fassung gemäss Anhang 2 Ziff. 1 des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 13
 
@@ -295,9 +300,10 @@ Nicht in das Informationssystem aufgenommen werden die DNA-Profile von:
 
 <sup>2</sup> Jede Person hat das Recht, bei fedpol darüber Auskunft zu verlangen, ob unter ihrem Namen ein DNA-Profil im Informationssystem aufgenommen ist.
 
-<sup>3</sup> Das Auskunftsrecht sowie die Verweigerung, die Einschränkung oder das Aufschieben der Auskunft richten sich nach den Artikeln 8 und 9 des Bundesgesetzes vom 19. Juni 1992[^15-1] über den Datenschutz.
+<sup>3</sup> Das Auskunftsrecht sowie die Verweigerung, die Einschränkung oder das Aufschieben der Auskunft richten sich nach den Artikeln 25 und 26 des Datenschutzgesetzes vom 25. September 2020[^15-1].[^15-2]
 
 [^15-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^15-2]: Fassung gemäss Anhang 1 Ziff. II 31 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 16
 

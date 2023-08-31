@@ -3,11 +3,11 @@ sr: "363"
 title: Federal Act of 20 June 2003 on the Use of DNA Profiles in Criminal Proceedings and for Identifying Unidentified or Missing Persons (DNA Profiles Act)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/811"
 language: en
-version: 2023-08-01
+version: 2023-09-01
 adopted: 2003-06-20
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/811/20230801/en/xml/fedlex-data-admin-ch-eli-cc-2004-811-20230801-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20230801/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/811/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2004-811-20230901-en-xml-15.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (DNA Profiles Act)
 
-of 20 June 2003 (Status as of 1 August 2023)
+of 20 June 2003 (Status as of 1 September 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -223,9 +223,9 @@ While retained, the sample may only be used for retyping if this is required:
 
 The DNA profiles of the following shall be recorded in the information system:
 
-- a. persons suspected of committing or taking part in a felony or a misdemeanour (Art. 3);
-- b. convicted persons (Art. 5);
-- c. forensic evidence and deceased persons (Art. 4).
+- a. persons suspected of committing or taking part in a felony or a misdemeanour (Art. 3[^11-1]);
+- b. convicted persons (Art. 5[^11-2]);
+- c. forensic evidence and deceased persons (Art. 4[^11-3]).
 
 <sup>2</sup>
 
@@ -237,7 +237,7 @@ The DNA profiles of the following shall also be recorded in the information syst
 
 <sup>3</sup> DNA profiles transmitted from abroad as part of international co-operation and required in Swiss proceedings (Art. 13) shall be recorded in the information system if any of the conditions defined under paragraphs 1 and 2 of this Article is met.
 
-<sup>3bis</sup> Y-DNA profiles generated on the basis of Article 255 paragraph 3 CrimPC[^11-1] may be recorded in the information system.[^11-2]
+<sup>3bis</sup> Y-DNA profiles generated on the basis of Article 255 paragraph 3 CrimPC[^11-4] may be recorded in the information system.[^11-5]
 
 <sup>4</sup>
 
@@ -245,14 +245,17 @@ The DNA profiles of the following shall not be recorded in the information syste
 
 - a. identified victims (Art. 3 para. 1 let. b);
 - b. persons authorised to be at the scene of a crime whose biological material must be distinguished from those of perpetrators (Art. 3 para. 1 let. b);
-- c.[^11-3] persons who have been excluded from being the perpetrator in mass testing in accordance with Article 256 CrimPC or 73*t* MCPC[^11-4];
+- c.[^11-6] persons who have been excluded from being the perpetrator in mass testing in accordance with Article 256 CrimPC or 73*t* MCPC[^11-7];
 - d. suspects who have been excluded from being the perpetrator of the felony or misdemeanour in question;
 - e. persons who were involved in proceedings that have been abandoned.
 
-[^11-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^11-2]: Inserted by No I of the FA of 17 Dec. 2021, in force since 1 Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-[^11-3]: Amended by No I of the FA of 17 Dec. 2021, in force since 1 Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-[^11-4]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^11-1]: Presently: art. 255 para. 1 lett. a CrimPC or art. 73*s* para. 1 lett. a MStP.
+[^11-2]: Presently: art. 257 CrimPC or art. 73*u* MStP.
+[^11-3]: Presently: art. 255 para. 1 lett. c and d CrimPC or art. 73*s* para. 1 lett. c and d MStP.
+[^11-4]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^11-5]: Inserted by No I of the FA of 17 Dec. 2021, in force since 1 Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^11-6]: Amended by No I of the FA of 17 Dec. 2021, in force since 1 Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^11-7]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 
 #### Art. 12
 
@@ -262,7 +265,7 @@ The DNA profiles of the following shall not be recorded in the information syste
 
 <sup>2</sup> Authorised laboratories may be connected online with the information system. The Department decides on the connection.
 
-[^12-1]: Amended by No I of the FA of 17 Dec. 2021, in force since 1 Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^12-1]: Amended by Annex 2 No 1 of the FA of 17 Dec. 2021, in force since 1 Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 13
 
@@ -297,9 +300,10 @@ The DNA profiles of the following shall not be recorded in the information syste
 
 <sup>2</sup> Any person has the right to ask fedpol whether a DNA profile is recorded in the information system under their name.
 
-<sup>3</sup> Articles 8 and 9 of the Federal Act of 19 June 1992[^15-1] on Data Protection govern the right to, and the refusal, restriction or deferral of information.
+<sup>3</sup> Articles 25 and 26 of the Data Protection Act of 25 September 2020[^15-1] on Data Protection govern the right to, and the refusal, restriction or deferral of information.[^15-2]
 
 [^15-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^15-2]: Amended by Annex 1 No II 31 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 16
 
@@ -384,6 +388,14 @@ DNA profiles that have been generated outside criminal proceedings in accordance
 
 ## Section 7 Funding
 
+#### Art. 20
+
+<sup>1</sup> The Confederation shall fund the establishment and operation of the information system.
+
+<sup>2</sup> The ordering authority shall fund the collection and transmission of samples, and analysis and evaluation.
+
+## Section 8 Final Provisions
+
 #### Art. 20a
 
 **Evaluation**[^20a-1]
@@ -393,14 +405,6 @@ DNA profiles that have been generated outside criminal proceedings in accordance
 <sup>2</sup> No later than six years after Amendment of 17 December 2021 comes into force, the Federal Council shall submit a report to Parliament, in particular with regard to the implementation of Article 2*b*.
 
 [^20a-1]: Inserted by No I of the FA of 17 Dec. 2021, in force since 1 Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-
-#### Art. 20
-
-<sup>1</sup> The Confederation shall fund the establishment and operation of the information system.
-
-<sup>2</sup> The ordering authority shall fund the collection and transmission of samples, and analysis and evaluation.
-
-## Section 8 Final Provisions
 
 #### Art. 21
 

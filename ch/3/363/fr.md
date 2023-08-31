@@ -3,11 +3,11 @@ sr: "363"
 title: "Loi fédérale du 20 juin 2003 sur l'utilisation de profils d'ADN dans les procédures pénales et sur l'identification de personnes inconnues ou disparues (Loi sur les profils d'ADN)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/811"
 language: fr
-version: 2023-08-01
+version: 2023-09-01
 adopted: 2003-06-20
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/811/20230801/fr/xml/fedlex-data-admin-ch-eli-cc-2004-811-20230801-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20230801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/811/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2004-811-20230901-fr-xml-20.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20230801/fr"
 
 (Loi sur les profils d’ADN)
 
-du 20 juin 2003 (État le 1<sup>er</sup> août 2023)
+du 20 juin 2003 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -220,9 +220,9 @@ Pendant sa conservation, l’échantillon ne peut être utilisé que pour effect
 
 Sont saisis dans le système d’information les profils d’ADN:
 
-- a. des personnes soupçonnées d’avoir commis un crime ou un délit ou d’y avoir participé (art. 3);
-- b. des personnes condamnées (art. 5);
-- c. des personnes décédées et des traces (art. 4).
+- a. des personnes soupçonnées d’avoir commis un crime ou un délit ou d’y avoir participé (art. 3[^11-1]);
+- b. des personnes condamnées (art. 5[^11-2]);
+- c. des personnes décédées et des traces (art. 4[^11-3]).
 
 <sup>2</sup>
 
@@ -234,22 +234,27 @@ Sont saisis, en outre, dans le système d’information les profils d’ADN:
 
 <sup>3</sup> Sont saisis dans le système d’information, si une condition prévue aux al. 1 et 2 est réalisée, les profils d’ADN transmis de l’étranger dans le cadre de la collaboration internationale et utilisés dans des procédures en Suisse (art. 13).
 
-<sup>3bis</sup> Les profils d’ADN du chromosome Y établis en vertu de l’art. 255, al. 3, CPP[^11-1] peuvent être saisis dans le système d’information.[^11-2]
+<sup>3bis</sup> Les profils d’ADN du chromosome Y établis en vertu de l’art. 255, al. 3, CPP[^11-4] peuvent être saisis dans le système d’information.[^11-5]
 
 <sup>4</sup>
 
 Ne sont pas saisis dans le système d’information les profils d’ADN:
 
-- a. des victimes identifiées (art. 3, al. 1, let. b);
-- b. des personnes autorisées à se rendre sur les lieux d’une infraction et dont les traces doivent être distinguées de celles de l’auteur (art. 3, al. 1, let. b);
-- c.[^11-3] des personnes dont il s’est avéré, lors d’une enquête de grande envergure au sens des art. 256 CPP ou 73*t* PPM[^11-4], qu’elles ne pouvaient être les auteurs du crime;
+- a. des victimes identifiées (art. 3, al. 1, let. b[^11-6]);
+- b. des personnes autorisées à se rendre sur les lieux d’une infraction et dont les traces doivent être distinguées de celles de l’auteur (art. 3, al. 1, let. b[^11-7]);
+- c.[^11-8] des personnes dont il s’est avéré, lors d’une enquête de grande envergure au sens des art. 256 CPP ou 73*t* PPM[^11-9], qu’elles ne pouvaient être les auteurs du crime;
 - d. des personnes dont il s’est avéré qu’elles ne pouvaient être les auteurs du crime ou du délit dont elles ont été soupçonnées;
 - e. des personnes impliquées dans une procédure qui s’est conclue par un non-lieu.
 
-[^11-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^11-2]: Introduit par le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-[^11-3]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-[^11-4]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^11-1]: Actuellement: art. 255 al. 1 let. a CPP ou art. 73*s* al. 1 let. a PPM
+[^11-2]: Actuellement: art. 257 CPP ou art. 73*u* PPM
+[^11-3]: Actuellement: art. 255 al. 1 let. c et d CPP ou art. 73*s* al. 1 let. c et d PPM
+[^11-4]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^11-5]: Introduit par le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^11-6]: Actuellement: art. 255 al. 1 let. b CPP ou art. 73*s* al. 1 let. b PPM
+[^11-7]: Actuellement: art. 255 al. 1 let. b CPP ou art. 73*s* al. 1 let. b PPM
+[^11-8]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^11-9]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 
 #### Art. 12
 
@@ -259,7 +264,7 @@ Ne sont pas saisis dans le système d’information les profils d’ADN:
 
 <sup>2</sup> Les laboratoires reconnus peuvent être raccordés en ligne au système d’information. Le département décide du raccordement.
 
-[^12-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^12-1]: Nouvelle teneur selon l’annexe 2 ch. 1 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
 
 #### Art. 13
 
@@ -294,9 +299,10 @@ Ne sont pas saisis dans le système d’information les profils d’ADN:
 
 <sup>2</sup> Toute personne a le droit de demander à fedpol si un profil d’ADN a été saisi sous son nom dans le système d’information.
 
-<sup>3</sup> Le droit d’être renseigné de même que les cas dans lesquels la communication de renseignements peut être refusée, restreinte ou différée sont régis par les art. 8 et 9 de la loi fédérale du 19 juin 1992 sur la protection des données[^15-1].
+<sup>3</sup> Le droit d’être renseigné de même que les cas dans lesquels la communication de renseignements peut être refusée, restreinte ou différée sont régis par les art. 25 et 26 de la loi fédérale du 25 septembre 2020 sur la protection des données[^15-1].[^15-2]
 
 [^15-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^15-2]: Nouvelle teneur selon l’annexe 1 ch. II 31 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 16
 
