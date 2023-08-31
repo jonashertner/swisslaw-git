@@ -3,11 +3,11 @@ sr: "414.132.2"
 title: Ordinanza del 30 giugno 2015 sulla verifica degli studi che portano al bachelor e al master presso il Politecnico federale di Losanna (Ordinanza sulla verifica degli studi al PFL)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/476"
 language: it
-version: 2021-11-01
+version: 2023-09-01
 adopted: 2015-06-30
 in_force: 2016-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/476/20211101/it/xml/fedlex-data-admin-ch-eli-cc-2015-476-20211101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/476/20211101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/476/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2015-476-20230901-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/476/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/476/20211101/it"
 
 (Ordinanza sulla verifica degli studi al PFL)
 
-del 30 giugno 2015 (Stato 1° novembre 2021)
+del 30 giugno 2015 (Stato 1° settembre 2023)
 
 La Direzione del Politecnico federale di Losanna (Direzione del PFL),
 
@@ -184,11 +184,13 @@ Gli insegnanti svolgono in particolare i seguenti compiti:
 - a. fornire le informazioni necessarie sulle materie d’insegnamento per la pubblicazione nella scheda dei corsi;
 - b. informare gli studenti, se necessario, sul contenuto delle materie e sullo svolgimento delle prove;
 - c. procedere alle prove;
-- d. prendere, durante ogni prova orale, appunti che dovranno essere prodotti se la conferenza d’esame o le autorità di ricorso ne fanno richiesta;
+- d.[^13-1] prendere, durante ogni prova orale, appunti che potranno servire da base per fornire, se necessario, un parere alla conferenza d’esame o alle autorità di ricorso;
 - e. assegnare i voti delle prove e il voto finale della disciplina;
 - f. conservare per i sei mesi successivi alla fine del ciclo interessato (cap. 2*–*4) le prove scritte e gli appunti presi durante le prove orali; in caso di ricorso questo termine è prolungato fino alla conclusione della procedura.
 
 <sup>2</sup> Qualora gli insegnanti fossero impossibilitati a svolgere i loro compiti, il direttore di sezione designa dei sostituti.
+
+[^13-1]: Nuovo testo giusta il n. I dell’O della Direzione del PFL, del 27 lug. 2023, in vigore dal 1° set. 2023 ([RU 2023 447](https://fedlex.data.admin.ch/eli/oc/2023/447)).
 
 #### Art. 14
 
@@ -214,11 +216,11 @@ Per le discipline di semestre possono essere istituite commissioni di valutazion
 
 **Conferenza d’esame**
 
-<sup>1</sup> La conferenza d’esame si riunisce alla fine di ogni sessione. Ne fanno parte il vicepresidente per l’educazione, che la presiede, il direttore di sezione e il responsabile del servizio accademico. I membri della conferenza d’esame possono farsi sostituire dai loro supplenti.[^17-1]
+<sup>1</sup> La conferenza d’esame si riunisce alla fine di ogni sessione. Ne fanno parte il vicepresidente per gli affari accademici o il suo delegato, che la presiede, il direttore di sezione e il responsabile del servizio accademico. I membri della conferenza d’esame possono farsi sostituire dai loro supplenti.[^17-1]
 
 <sup>2</sup> La conferenza d’esame si pronuncia sui casi particolari in base alle disposizioni legali.
 
-[^17-1]: Nuovo testo giusta il n. I dell’O della Direzione del PFL, del 20 ago. 2019, in vigore dal 15 set. 2019 ([RU 2019 2641](https://fedlex.data.admin.ch/eli/oc/2019/492)).
+[^17-1]: Nuovo testo giusta il n. I dell’O della Direzione del PFL, del 27 lug. 2023, in vigore dal 1° set. 2023 ([RU 2023 447](https://fedlex.data.admin.ch/eli/oc/2023/447)).
 
 #### Art. 18
 
@@ -372,9 +374,23 @@ Possono essere ammessi con riserva al progetto di master gli studenti:
 
 <sup>2</sup> Su richiesta, il direttore di sezione può affidare la direzione del progetto di master a un professore, a un collaboratore scientifico con funzioni direttive di un’altra sezione o a un collaboratore scientifico.
 
-<sup>3</sup> L’esame del progetto di master consiste nella valutazione della presentazione finale seguita da un’interrogazione orale condotta dall’insegnante che ha diretto il progetto e da un esperto esterno al PFL designato dall’insegnante, in accordo con il direttore di sezione. Soltanto l’insegnante può invitare altre persone all’interrogazione orale; queste non partecipano alla valutazione.
+<sup>2bis</sup> Il progetto di master deve essere consegnato entro il termine fissato dal PFL. Se non è consegnato entro tale termine, il progetto di master è considerato non superato.[^30-1]
 
-<sup>4</sup> Se ritiene insufficiente il progetto dal punto di vista redazionale, l’insegnante può esigere dallo studente che lo rielabori entro due settimane dall’interrogazione orale.
+<sup>3</sup>
+
+L’esame del progetto di master consiste nella valutazione da parte dell’insegnante che ha diretto il progetto e di un esperto designato dall’insegnante d’intesa con il direttore di sezione:
+
+- a. del progetto di master; e
+- b. della discussione di fronte all’insegnante e all’esperto.[^30-2]
+
+<sup>3bis</sup> Soltanto l’insegnante può invitare altre persone alla discussione; queste ultime non partecipano alla valutazione.[^30-3]
+
+<sup>4</sup> Se la qualità redazionale del progetto di master è giudicata insufficiente, l’insegnante può esigere dallo studente che siano apportati i dovuti miglioramenti entro due settimane dalla discussione.[^30-4]
+
+[^30-1]: Introdotto dal n. I dell’O della Direzione del PFL, del 27 lug. 2023, in vigore dal 1° set. 2023 ([RU 2023 447](https://fedlex.data.admin.ch/eli/oc/2023/447)).
+[^30-2]: Nuovo testo giusta il n. I dell’O della Direzione del PFL, del 27 lug. 2023, in vigore dal 1° set. 2023 ([RU 2023 447](https://fedlex.data.admin.ch/eli/oc/2023/447)).
+[^30-3]: Introdotto dal n. I dell’O della Direzione del PFL, del 27 lug. 2023, in vigore dal 1° set. 2023 ([RU 2023 447](https://fedlex.data.admin.ch/eli/oc/2023/447)).
+[^30-4]: Nuovo testo giusta il n. I dell’O della Direzione del PFL, del 27 lug. 2023, in vigore dal 1° set. 2023 ([RU 2023 447](https://fedlex.data.admin.ch/eli/oc/2023/447)).
 
 #### Art. 31
 

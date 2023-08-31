@@ -3,11 +3,11 @@ sr: "414.132.2"
 title: Verordnung der ETH Lausanne vom 30. Juni 2015 über die Kontrolle des Bachelor- und des Masterstudiums (Studienkontrollverordnung ETHL)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/476"
 language: de
-version: 2021-11-01
+version: 2023-09-01
 adopted: 2015-06-30
 in_force: 2016-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/476/20211101/de/xml/fedlex-data-admin-ch-eli-cc-2015-476-20211101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/476/20211101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/476/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2015-476-20230901-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/476/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/476/20211101/de"
 
 (Studienkontrollverordnung ETHL)
 
-vom 30. Juni 2015 (Stand am 1. November 2021)
+vom 30. Juni 2015 (Stand am 1. September 2023)
 
 Die Schulleitung der Eidgenössischen Technischen Hochschule Lausanne (Schulleitung ETHL),
 
@@ -107,7 +107,7 @@ Ein Block gilt als bestanden, wenn:
 
 <sup>3</sup> Eine Gruppe gilt als bestanden, wenn in den darin enthaltenen Fächern die erforderliche Anzahl Kreditpunkte erreicht wird; eine Kompensation zwischen den Noten der einzelnen Fächer ist nicht zulässig.
 
-[^6-1]: Fassung gemäss Ziff. I der V der ETHL-Schulleitung vom 20. Aug. 2019, in Kraft seit 15. Sept. 2019 ([AS 2019 2641](https://fedlex.data.admin.ch/eli/oc/2019/492)).
+[^6-1]: Fassung gemäss Ziff. I der V der Schulleitung ETHL vom 20. Aug. 2019, in Kraft seit 15. Sept. 2019 ([AS 2019 2641](https://fedlex.data.admin.ch/eli/oc/2019/492)).
 
 #### Art. 7
 
@@ -184,11 +184,13 @@ Die Dozenten und Dozentinnen haben insbesondere folgende Aufgaben:
 - a. Sie stellen die nötigen Informationen über ihre Lehrinhalte bereit, damit diese im Verzeichnis der Lehrveranstaltungen veröffentlicht werden können.
 - b. Sie informieren die Studierenden gegebenenfalls über den Prüfungsstoff und den Ablauf der Prüfungen.
 - c. Sie führen die Prüfungen durch.
-- d. Sie machen sich von jeder mündlichen Prüfung Notizen; diese können von der Prüfungskonferenz oder von den Rekursbehörden eingefordert werden.
+- d.[^13-1] Sie machen sich von jeder mündlichen Prüfung Notizen, die ihnen als Grundlage für eine allfällige Stellungnahme zuhanden der Prüfungskonferenz oder der Rekursbehörden dienen.
 - e. Sie erteilen die Prüfungsnoten und die Schlussnote des Faches.
 - f. Sie bewahren die schriftlichen Prüfungen sowie die bei mündlichen Prüfungen gemachten Notizen nach dem Abschluss der betreffenden Studienstufe (2.–4. Kapitel) während sechs Monaten auf; im Falle eines Rekurses wird diese Frist bis zum Verfahrensende verlängert.
 
 <sup>2</sup> Kann der Dozent oder die Dozentin diese Aufgaben nicht erfüllen, so bestimmt der Vorsteher oder die Vorsteherin der Sektion einen Stellvertreter oder eine Stellvertreterin.
+
+[^13-1]: Fassung gemäss Ziff. I der V der Schulleitung ETHL vom 27. Juli 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 447](https://fedlex.data.admin.ch/eli/oc/2023/447)).
 
 #### Art. 14
 
@@ -214,11 +216,11 @@ Für die Semesterfächer können Bewertungskommissionen bestellt werden. Den Bew
 
 **Prüfungskonferenz**
 
-<sup>1</sup> Nach jeder Prüfungssession findet eine Prüfungskonferenz statt. Sie setzt sich zusammen aus dem Vizepräsidenten oder der Vizepräsidentin für Ausbildung (Vorsitz), dem Vorsteher oder der Vorsteherin der Sektion und dem Leiter oder der Leiterin des akademischen Dienstes. Die Mitglieder der Prüfungskonferenz können sich durch ihren Stellvertreter oder ihre Stellvertreterin vertreten lassen.[^17-1]
+<sup>1</sup> Nach jeder Prüfungssession findet eine Prüfungskonferenz statt. Sie setzt sich zusammen aus dem Vizepräsidenten oder der Vizepräsidentin für akademische Angelegenheiten oder dem oder der von ihm oder ihr Delegierten (Vorsitz), dem Vorsteher oder der Vorsteherin der Sektion und dem Leiter oder der Leiterin des akademischen Dienstes. Die Mitglieder der Prüfungskonferenz können sich durch ihren Stellvertreter oder ihre Stellvertreterin vertreten lassen.[^17-1]
 
 <sup>2</sup> Die Prüfungskonferenz entscheidet über besondere Fälle gemäss den geltenden gesetzlichen Bestimmungen.
 
-[^17-1]: Fassung gemäss Ziff. I der V der ETHL-Schulleitung vom 20. Aug. 2019, in Kraft seit 15. Sept. 2019 ([AS 2019 2641](https://fedlex.data.admin.ch/eli/oc/2019/492)).
+[^17-1]: Fassung gemäss Ziff. I der V der Schulleitung ETHL vom 27. Juli 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 447](https://fedlex.data.admin.ch/eli/oc/2023/447)).
 
 #### Art. 18
 
@@ -299,8 +301,8 @@ Die Grundstufe gilt als nicht bestanden, wenn:
 <sup>4</sup> Bei begründetem Fernbleiben von der Prüfung gemäss Artikel 10 prüft die Schule, ob von der betreffenden Person verlangt werden kann, dass sie die Grundstufe an der entsprechenden Prüfungssession im darauffolgenden Jahr abschliesst oder ob die Grundstufe als nicht bestanden gilt.
 
 [^23-1]: [SR 414.132.3](https://fedlex.data.admin.ch/eli/cc/2004/653)
-[^23-2]: Eingefügt durch Ziff. I der V der ETHL-Schulleitung vom 20. Aug. 2019, in Kraft seit 1. Juni 2019 ([AS 2019 2641](https://fedlex.data.admin.ch/eli/oc/2019/492)).
-[^23-3]: Fassung gemäss Ziff. I der V der ETHL-Schulleitung vom 20. Aug. 2019, in Kraft seit 15. Sept. 2019 ([AS 2019 2641](https://fedlex.data.admin.ch/eli/oc/2019/492)).
+[^23-2]: Eingefügt durch Ziff. I der V der Schulleitung ETHL vom 20. Aug. 2019, in Kraft seit 1. Juni 2019 ([AS 2019 2641](https://fedlex.data.admin.ch/eli/oc/2019/492)).
+[^23-3]: Fassung gemäss Ziff. I der V der Schulleitung ETHL vom 20. Aug. 2019, in Kraft seit 15. Sept. 2019 ([AS 2019 2641](https://fedlex.data.admin.ch/eli/oc/2019/492)).
 
 ## 3. Kapitel: Prüfungen der Bachelor- und der Masterstufe
 
@@ -372,9 +374,22 @@ Studierende können bedingt zur Masterarbeit zugelassen werden, sofern:
 
 <sup>2</sup> Auf Gesuch kann der Vorsteher oder die Vorsteherin der Sektion die Betreuung der Masterarbeit einem Professor, einer Professorin, einem leitenden wissenschaftlichen Mitarbeiter oder einer leitenden wissenschaftlichen Mitarbeiterin einer anderen Sektion oder einem wissenschaftlichen Mitarbeiter oder einer wissenschaftlichen Mitarbeiterin übertragen.
 
-<sup>3</sup> Die Prüfung der Masterarbeit besteht aus einer Bewertung der abschliessenden Präsentation, gefolgt von einer mündlichen Befragung durch den Dozenten oder die Dozentin, der oder die die Masterarbeit betreut hat, und durch einen Experten oder eine Expertin von ausserhalb der ETHL, der oder die vom Dozenten oder der Dozentin nach Absprache mit dem Vorsteher oder der Vorsteherin der Sektion bestimmt wird. Einzig der Dozent oder die Dozentin kann weitere Personen zur mündlichen Befragung einladen; diese wirken nicht an der Bewertung mit.
+<sup>2bis</sup> Die Masterarbeit muss innerhalb der von der ETHL vorgegebenen Frist eingereicht werden. Wird die Masterarbeit nicht fristgerecht eingereicht, so gilt sie als nicht bestanden.[^30-1]
 
-<sup>4</sup> Im Falle einer ungenügenden redaktionellen Qualität der Masterarbeit kann der Dozent oder die Dozentin verlangen, dass die Arbeit innerhalb von zwei Wochen nach der mündlichen Befragung verbessert wird.
+<sup>3</sup> Die Prüfung der Masterarbeit besteht aus der Bewertung durch den Dozenten oder die Dozentin, der oder die die Masterarbeit betreut hat, und durch einen Prüfungsexperten oder eine Prüfungsexpertin, der oder die vom Dozenten oder von der Dozentin nach Absprache mit dem Vorsteher oder der Vorsteherin der Sektion bestimmt wird:
+
+a. der Masterarbeit; und
+
+b. einer Verteidigung vor dem Dozenten oder der Dozentin und dem Prüfungsexperten oder der Prüfungsexpertin.[^30-2]
+
+<sup>3bis</sup> Einzig der Dozent oder die Dozentin kann weitere Personen zur Verteidigung einladen; diese wirken nicht an der Bewertung mit. [^30-3]
+
+<sup>4</sup> Wird die redaktionelle Qualität der Masterarbeit als ungenügend beurteilt, so kann der Dozent oder die Dozentin verlangen, dass der oder die Studierende die Arbeit innerhalb von zwei Wochen nach der Verteidigung nachbessert.[^30-4]
+
+[^30-1]: Eingefügt durch Ziff. I der V der Schulleitung ETHL vom 27. Juli 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 447](https://fedlex.data.admin.ch/eli/oc/2023/447)).
+[^30-2]: Fassung gemäss Ziff. I der V der Schulleitung ETHL vom 27. Juli 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 447](https://fedlex.data.admin.ch/eli/oc/2023/447)).
+[^30-3]: Eingefügt durch Ziff. I der V der Schulleitung ETHL vom 27. Juli 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 447](https://fedlex.data.admin.ch/eli/oc/2023/447)).
+[^30-4]: Fassung gemäss Ziff. I der V der Schulleitung ETHL vom 27. Juli 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 447](https://fedlex.data.admin.ch/eli/oc/2023/447)).
 
 #### Art. 31
 

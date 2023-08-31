@@ -3,11 +3,11 @@ sr: "414.132.2"
 title: "Ordonnance du 30 juin 2015 sur le contrôle des études menant au bachelor et au master à l'École polytechnique fédérale de Lausanne (Ordonnance sur le contrôle des études à l'EPFL)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/476"
 language: fr
-version: 2021-11-01
+version: 2023-09-01
 adopted: 2015-06-30
 in_force: 2016-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/476/20211101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-476-20211101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/476/20211101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/476/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2015-476-20230901-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/476/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/476/20211101/fr"
 
 (Ordonnance sur le contrôle des études à l’EPFL)
 
-du 30 juin 2015 (Etat le 1<sup>er</sup> novembre 2021)
+du 30 juin 2015 (État le 1<sup>er</sup> septembre 2023)
 
 La Direction de l’École polytechnique fédérale de Lausanne (Direction de l’EPFL),
 
@@ -185,11 +185,13 @@ L’enseignant remplit notamment les tâches suivantes:
 - a. donner les informations nécessaires sur ses matières d’enseignement pour qu’elles soient publiées dans la fiche de cours;
 - b. informer les étudiants, s’il y a lieu, du contenu des matières et du déroulement des épreuves;
 - c. conduire les épreuves;
-- d. prendre des notes de chaque épreuve orale, qu’il peut être appelé à produire auprès de la conférence d’examen ou des autorités de recours;
+- d.[^13-1] prendre des notes de chaque épreuve orale, qui lui servent de base pour fournir, s’il y a lieu, une prise de position à la conférence d’examen ou aux autorités de recours;
 - e. attribuer les notes des épreuves, ainsi que la note finale de branche;
 - f. conserver pendant six mois après la fin du cycle concerné (chap. 2 à 4) les épreuves écrites et les notes prises durant les épreuves orales; en cas de recours, ce délai est prolongé jusqu’au terme de la procédure.
 
 <sup>2</sup> S’il est empêché de remplir ses tâches, le directeur de section désigne un remplaçant.
+
+[^13-1]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 27 juil. 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 447](https://fedlex.data.admin.ch/eli/oc/2023/447)).
 
 #### Art. 14
 
@@ -215,11 +217,11 @@ Des commissions d’évaluation peuvent être mises sur pied pour les branches d
 
 **Conférence d’examen**
 
-<sup>1</sup> La conférence d’examen siège à l’issue de chaque session. Elle est composée du vice-président pour l’éducation, qui la préside, du directeur de section et du chef du service académique. Les membres de la conférence d’examen peuvent se faire représenter par leur suppléant.[^17-1]
+<sup>1</sup> La conférence d’examen siège à l’issue de chaque session. Elle est composée du vice-président académique ou de son délégué, qui la préside, du directeur de section et du chef du service académique. Les membres de la conférence d’examen peuvent se faire représenter par leur suppléant.[^17-1]
 
 <sup>2</sup> La conférence d’examen se prononce sur les cas particuliers conformément aux dispositions légales.
 
-[^17-1]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 20 août 2019, en vigueur depuis le 15 sept. 2019 ([RO 2019 2641](https://fedlex.data.admin.ch/eli/oc/2019/492)).
+[^17-1]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 27 juil. 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 447](https://fedlex.data.admin.ch/eli/oc/2023/447)).
 
 #### Art. 18
 
@@ -373,9 +375,23 @@ Peut être admis conditionnellement au projet de master l’étudiant qui:
 
 <sup>2</sup> Sur demande, le directeur de section peut confier la direction du projet de master à un professeur ou un maître d’enseignement et de recherche rattaché à une autre section ou à un collaborateur scientifique.
 
-<sup>3</sup> L’examen du projet de master consiste en une évaluation de sa présentation finale suivie d’une interrogation orale devant l’enseignant qui a dirigé le projet et un expert externe à l’EPFL désigné par l’enseignant en accord avec le directeur de section. Seul l’enseignant peut inviter d’autres personnes à l’interrogation orale; celles-ci ne participent pas à l’évaluation.
+<sup>2bis</sup> Le projet de master doit être déposé dans le délai imparti par l’EPFL. Le fait de ne pas déposer le projet de master dans ce délai, constitue un échec.[^30-1]
 
-<sup>4</sup> Si la qualité rédactionnelle du projet est jugée insuffisante, l’enseignant peut exiger que l’étudiant y remédie dans un délai de deux semaines à compter de l’interrogation orale.
+<sup>3</sup>
+
+L’examen du projet de master consiste en l’évaluation, par l’enseignant qui a dirigé le projet et un expert à l’examen désigné par l’enseignant en accord avec le directeur de section:
+
+- a. du projet de master, et
+- b. d’une soutenance devant l’enseignant et l’expert à l’examen.[^30-2]
+
+<sup>3bis</sup> Seul l’enseignant peut inviter d’autres personnes à la soutenance; celles-ci ne participent pas à l’évaluation.[^30-3]
+
+<sup>4</sup> Si la qualité rédactionnelle du projet est jugée insuffisante, l’enseignant peut exiger que l’étudiant y remédie dans un délai de deux semaines à compter de la soutenance.[^30-4]
+
+[^30-1]: Introduit par le ch. I de l’O de la Direction de l’EPFL du 27 juil. 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 447](https://fedlex.data.admin.ch/eli/oc/2023/447)).
+[^30-2]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 27 juil. 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 447](https://fedlex.data.admin.ch/eli/oc/2023/447)).
+[^30-3]: Introduit par le ch. I de l’O de la Direction de l’EPFL du 27 juil. 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 447](https://fedlex.data.admin.ch/eli/oc/2023/447)).
+[^30-4]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 27 juil. 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 447](https://fedlex.data.admin.ch/eli/oc/2023/447)).
 
 #### Art. 31
 
@@ -403,7 +419,7 @@ Peut être admis conditionnellement au projet de master l’étudiant qui:
 
 L’ordonnance du 14 juin 2004 sur le contrôle des études à l’EPFL[^33-1] est abrogée.
 
-[^33-1]: [[RO 2004 4323](https://fedlex.data.admin.ch/eli/oc/2004/652), [2006 4125](https://fedlex.data.admin.ch/eli/oc/2006/604), [2008 3721](https://fedlex.data.admin.ch/eli/oc/2008/495)]
+[^33-1]: [[RO 2004 4323](https://fedlex.data.admin.ch/eli/oc/2004/652); [2006 4125](https://fedlex.data.admin.ch/eli/oc/2006/604); [2008 3721](https://fedlex.data.admin.ch/eli/oc/2008/495)]
 
 #### Art. 34
 
@@ -411,7 +427,7 @@ L’ordonnance du 14 juin 2004 sur le contrôle des études à l’EPFL[^33-1] e
 
 Le chapitre 2 de l’ordonnance du 14 juin 2004 sur le contrôle des études à l’EPFL[^34-1] demeure applicable jusqu’au 31 août 2017 aux étudiants répétant le cycle propédeutique durant l’année académique 2016–2017.
 
-[^34-1]: [RO 2004 4323](https://fedlex.data.admin.ch/eli/oc/2004/652), [2006 4125](https://fedlex.data.admin.ch/eli/oc/2006/604), [2008 3721](https://fedlex.data.admin.ch/eli/oc/2008/495)
+[^34-1]: [RO 2004 4323](https://fedlex.data.admin.ch/eli/oc/2004/652); [2006 4125](https://fedlex.data.admin.ch/eli/oc/2006/604); [2008 3721](https://fedlex.data.admin.ch/eli/oc/2008/495)
 
 #### Art. 35
 
