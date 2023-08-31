@@ -3,18 +3,18 @@ sr: "824.095"
 title: Verordnung vom 20. August 2014 über das Informationssystem des Zivildienstes
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/482"
 language: de
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2014-08-20
 in_force: 2014-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/482/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2014-482-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/482/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/482/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2014-482-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/482/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über das Informationssystem des Zivildienstes
 
-vom 20. August 2014 (Stand am 1. Januar 2022)
+vom 20. August 2014 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -186,21 +186,23 @@ Das ZIVI übt die Aufsicht aus über:
 
 Die Datensicherheit richtet sich nach:
 
-- a. den Artikeln 8–12 der Verordnung vom 14. Juni 1993[^11-1] zum Bundesgesetz über den Datenschutz;
-- b.[^11-2] der Cyberrisikenverordnung vom 27. Mai 2020[^11-3];
-- c.[^11-4] …[^11-5]
+- a.[^11-1] den Artikeln 1–6 der Datenschutzverordnung vom 31. August 2022[^11-2];
+- b.[^11-3] der Cyberrisikenverordnung vom 27. Mai 2020[^11-4];
+- c.[^11-5] …[^11-6]
 
 <sup>2</sup> Die nach Artikel 7 berechtigten Behörden und privaten Personen und Institutionen treffen die nach den datenschutzrechtlichen Bestimmungen erforderlichen organisatorischen und technischen Massnahmen, damit ihre Personendaten vor Verlust, vor Entwendung und gegen unbefugte Bearbeitung oder Kenntnisnahme geschützt sind.
 
 <sup>3</sup> Das ZIVI erlässt ein Bearbeitungsreglement, das die erforderlichen Regelungen über organisatorische und sicherheitstechnische Massnahmen sowie die nötigen Bestimmungen über die Kontrolle der Datenbearbeitung enthält.
 
-<sup>4</sup> Es sorgt dafür, dass automatisch protokolliert wird, welche Benützerin oder welcher Benützer zu welchem Zeitpunkt den aktuellen Datenstand herbeigeführt hat.
+<sup>4</sup> Jede Bearbeitung von Daten im E-ZIVI wird protokolliert. Die Protokolle werden während einem Jahr getrennt vom System, in welchem die Personendaten bearbeitet werden, aufbewahrt.[^11-7]
 
-[^11-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^11-2]: Fassung gemäss Anhang Ziff. 31 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^11-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^11-4]: Aufgehoben durch Anhang Ziff. 31 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^11-5]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6699](https://fedlex.data.admin.ch/eli/oc/2017/746)).
+[^11-1]: Fassung gemäss Anhang 2 Ziff. II 115 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^11-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^11-3]: Fassung gemäss Anhang Ziff. 31 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^11-4]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^11-5]: Aufgehoben durch Anhang Ziff. 31 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^11-6]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6699](https://fedlex.data.admin.ch/eli/oc/2017/746)).
+[^11-7]: Fassung gemäss Anhang 2 Ziff. II 115 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 4. Abschnitt: Aufbewahrung, Archivierung und Statistik
 
@@ -218,11 +220,12 @@ Während fünf Jahren werden aufbewahrt:
 
 **Archivierung**
 
-<sup>1</sup> Nach Ablauf der Aufbewahrungsdauer werden nach Artikel 21 des Bundesgesetzes vom 19. Juni 1992[^13-1] über den Datenschutz alle Daten vom ZIVI dem Bundesarchiv abgeliefert, anonymisiert oder vernichtet.
+<sup>1</sup> Nach Ablauf der Aufbewahrungsdauer werden nach Artikel 38 des Datenschutzgesetzes vom 25. September 2020[^13-1] alle Daten vom ZIVI dem Bundesarchiv abgeliefert, anonymisiert oder vernichtet.[^13-2]
 
 <sup>2</sup> Die dem Bundesarchiv abgelieferten Daten werden in E-ZIVI vernichtet.
 
 [^13-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^13-2]: Fassung gemäss Anhang 2 Ziff. II 115 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 14
 
@@ -272,7 +275,7 @@ Falls nach Inkrafttreten dieser Verordnung das bisherige Informationssystem ZIVI
 
 Diese Verordnung tritt am 15. September 2014 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 7 Abs. 4)
 

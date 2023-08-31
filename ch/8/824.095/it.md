@@ -3,18 +3,18 @@ sr: "824.095"
 title: "Ordinanza del 20 agosto 2014 sul sistema d'informazione del servizio civile"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/482"
 language: it
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2014-08-20
 in_force: 2014-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/482/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2014-482-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/482/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/482/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2014-482-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/482/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sul sistema d’informazione del servizio civile
 
-del 20 agosto 2014 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 20 agosto 2014 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -186,21 +186,23 @@ Il CIVI esercita la sorveglianza su:
 
 La sicurezza dei dati si fonda su:
 
-- a. gli articoli 8–12 dell’ordinanza del 14 giugno 1993[^11-1] relativa alla legge federale sulla protezione dei dati;
-- b.[^11-2] l’ordinanza del 27 maggio 2020[^11-3] sui ciber-rischi;
-- c.[^11-4] ...[^11-5]
+- a.[^11-1] gli articoli 1–6 dell’ordinanza del 31 agosto 2022[^11-2] sulla protezione dei dati;
+- b.[^11-3] l’ordinanza del 27 maggio 2020[^11-4] sui ciber-rischi;
+- c.[^11-5] ...[^11-6]
 
 <sup>2</sup> Le autorità, i privati e le istituzioni autorizzati secondo l’articolo 7 adottano i provvedimenti organizzativi e tecnici necessari secondo le disposizioni in materia di protezione dei dati affinché i loro dati personali siano protetti dalla perdita, dalla sottrazione e da trattamenti o consultazioni non autorizzati.
 
 <sup>3</sup> Il CIVI emana un regolamento per il trattamento dei dati che contempla le normative necessarie in materia di misure organizzative e di sicurezza nonché le disposizioni necessarie sul controllo del trattamento dei dati.
 
-<sup>4</sup> Esso provvede affinché sia registrato automaticamente quale utente ha effettuato l’ultima modifica dei dati e il momento in cui è avvenuta tale operazione.
+<sup>4</sup> Ogni trattamento di dati è verbalizzato in E-ZIVI. I verbali sono conservati per un anno separatamente dal sistema in cui sono trattati i dati personali.[^11-7]
 
-[^11-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^11-2]: Nuovo testo giusta l’all. n. 31 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^11-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^11-4]: Abrogata dall’all. n. 31 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^11-5]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6699](https://fedlex.data.admin.ch/eli/oc/2017/746)).
+[^11-1]: Nuovo testo giusta l’all. 2 n. II 115 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^11-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^11-3]: Nuovo testo giusta l’all. n. 31 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^11-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^11-5]: Abrogata dall’all. n. 31 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^11-6]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6699](https://fedlex.data.admin.ch/eli/oc/2017/746)).
+[^11-7]: Nuovo testo giusta l’all. 2 n. II 115 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 4: Conservazione, archiviazione e statistica
 
@@ -218,11 +220,12 @@ Sono conservati per la durata di cinque anni i dati riguardanti:
 
 **Archiviazione**
 
-<sup>1</sup> Scaduto il termine di conservazione, il CIVI trasmette all’Archivio federale, rende anonimi o distrugge tutti i dati secondo l’articolo 21 della legge federale del 19 giugno 1992[^13-1] sulla protezione dei dati.
+<sup>1</sup> Dopo la scadenza della durata di conservazione, l’autorità esecutiva trasmette tutti i dati all’Archivio federale, li anonimizza o li distrugge, secondo l’articolo 38 della legge federale del 25 settembre 20202[^13-1] sulla protezione dei dati.[^13-2]
 
 <sup>2</sup> I dati trasmessi all’Archivio federale sono distrutti nel sistema E-ZIVI.
 
 [^13-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^13-2]: Nuovo testo giusta l’all. 2 n. II 115 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 14
 
@@ -272,7 +275,7 @@ Se dopo l’entrata in vigore della presente ordinanza sopravvengono gravi malfu
 
 La presente ordinanza entra in vigore il 15 settembre 2014.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 7 cpv. 4)
 

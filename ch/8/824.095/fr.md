@@ -3,18 +3,18 @@ sr: "824.095"
 title: "Ordonnance du 20 août 2014 sur le système d'information du service civil"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/482"
 language: fr
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2014-08-20
 in_force: 2014-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/482/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-482-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/482/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/482/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2014-482-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/482/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le système d’information du service civil
 
-du 20 août 2014 (Etat le 1<sup>er</sup> janvier 2022)
+du 20 août 2014 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -185,21 +185,23 @@ Le CIVI exerce la surveillance:
 
 La sécurité des données est régie par les dispositions suivantes:
 
-- a. les art. 8 à 12 de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^11-1];
-- b.[^11-2] l’ordonnance du 27 mai 2020 sur les cyberrisques[^11-3];
-- c.[^11-4] …[^11-5]
+- a.[^11-1] les art. 1 à 6 de l’ordonnance du 31 août 2022 sur la protection des données[^11-2];
+- b.[^11-3] l’ordonnance du 27 mai 2020 sur les cyberrisques[^11-4];
+- c.[^11-5] …[^11-6]
 
 <sup>2</sup> Les autorités, les particuliers et les institutions privées autorisées en vertu de l’art. 7 prennent les mesures organisationnelles et techniques requises, conformément au droit de la protection des données, afin de protéger les données personnelles contre toute perte ou tout vol et contre tout traitement ou consultation non autorisés.
 
 <sup>3</sup> Le CIVI édicte un règlement de traitement qui contient les dispositions requises sur les mesures organisationnelles, les mesures de sécurité et le contrôle du traitement des données.
 
-<sup>4</sup> Il veille à l’établissement automatique d’un historique indiquant quel est l’utilisateur à l’origine de l’état des données du moment et quand il est intervenu.
+<sup>4</sup> Tout traitement de données figurant dans le système E-ZIVI est consigné dans un procès-verbal de journalisation. Celui-ci est conservé durant un an, séparément du système dans lequel les données personnelles sont traitées.[^11-7]
 
-[^11-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^11-2]: Nouvelle teneur selon l’annexe ch. 31 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^11-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^11-4]: Abrogée par l’annexe ch. 31 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^11-5]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6699](https://fedlex.data.admin.ch/eli/oc/2017/746)).
+[^11-1]: Nouvelle teneur selon l’annexe 2 ch. II 115 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^11-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^11-3]: Nouvelle teneur selon l’annexe ch. 31 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^11-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^11-5]: Abrogée par l’annexe ch. 31 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^11-6]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6699](https://fedlex.data.admin.ch/eli/oc/2017/746)).
+[^11-7]: Nouvelle teneur selon l’annexe 2 ch. II 115 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 4 Conservation, archivage et statistiques
 
@@ -217,10 +219,11 @@ Sont conservées pendant cinq ans:
 
 **Archivage**
 
-- [tab] <sup>1</sup> A l’échéance de la durée de conservation, le CIVI transmet aux Archives fédérales, rend anonymes ou détruit toutes les données, conformément à l’art. 21 de la loi fédérale du 19 juin 1992 sur la protection des données[^13-1].
+- [tab] <sup>1</sup> À l’échéance de la durée de conservation, le CIVI transmet aux Archives fédérales, rend anonymes ou détruit toutes les données, conformément à l’art. 38 de la loi fédérale du 25 septembre 2020 sur la protection des données[^13-1].[^13-2]
 - [tab] <sup>2</sup> Les données transmises aux Archives fédérales sont détruites dans le système E‑ZIVI.
 
 [^13-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^13-2]: Nouvelle teneur selon l’annexe 2 ch. II 115 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 14
 
@@ -270,7 +273,7 @@ Si, après l’entrée en vigueur de la présente ordonnance, le système d’in
 
 La présente ordonnance entre en vigueur le 15 septembre 2014.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 7, al. 4)
 
