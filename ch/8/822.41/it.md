@@ -4,11 +4,11 @@ title: "Legge federale del 17 giugno 2005 concernente i provvedimenti in materia
 short: LLN
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/71"
 language: it
-version: 2020-01-01
+version: 2023-09-01
 adopted: 2005-06-17
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/71/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2007-71-20200101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/71/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/71/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2007-71-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/71/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/71/20200101/it"
 
 (Legge contro il lavoro nero, LLN)
 
-del 17 giugno 2005 (Stato 1° gennaio 2020)
+del 17 giugno 2005 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visto l’articolo 110 capoverso 1 lettere a, b e d della Costituzione federale[
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2002 3243](https://fedlex.data.admin.ch/eli/fga/2002/520)
 
 ## Sezione 1: Oggetto
@@ -56,7 +56,7 @@ La procedura semplificata di cui all’articolo 3 non è applicabile:
 - b. al coniuge e ai figli del datore di lavoro occupati nell’azienda.
 
 [^2-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [FF 2016 125](https://fedlex.data.admin.ch/eli/fga/2016/44)).
-[^2-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^2-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 3
 
@@ -68,8 +68,8 @@ La procedura semplificata di cui all’articolo 3 non è applicabile:
 
 <sup>3</sup> Il Consiglio federale disciplina i particolari.
 
-[^3-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^3-2]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
+[^3-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^3-2]: [RS 642.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8202)
 [^3-3]: Nuovo testo giusta il n. I della LF del 17 mar. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [FF 2016 125](https://fedlex.data.admin.ch/eli/fga/2016/44)).
 
 ## Sezione 3: Organi cantonali di controllo
@@ -215,12 +215,12 @@ L’organo cantonale di controllo o i terzi ai quali i Cantoni hanno delegato at
 
 [^12-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [FF 2016 125](https://fedlex.data.admin.ch/eli/fga/2016/44)).
 [^12-2]: Nuovo testo giusta il n. I della LF del 17 mar. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [FF 2016 125](https://fedlex.data.admin.ch/eli/fga/2016/44)).
-[^12-3]: Introdotta dal n. 7 dell’all. alla LF del 6 ott. 2006 (5<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2008 ([RU 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722)5148; [FF 2005 3989](https://fedlex.data.admin.ch/eli/fga/2005/719)).
-[^12-4]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
-[^12-5]: [RS 823.20](https://fedlex.data.admin.ch/eli/cc/2003/231)
-[^12-6]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
-[^12-7]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^12-8]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
+[^12-3]: Introdotta dall’all. n. 7 della LF del 6 ott. 2006 (5<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2008 ([RU 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722)5148; [FF 2005 3989](https://fedlex.data.admin.ch/eli/fga/2005/719)).
+[^12-4]: [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
+[^12-5]: [RS 823.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9950)
+[^12-6]: [RS 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
+[^12-7]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^12-8]: [RS 642.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8202)
 [^12-9]: Introdotto dal n. I della LF del 17 mar. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [FF 2016 125](https://fedlex.data.admin.ch/eli/fga/2016/44)).
 [^12-10]: Introdotto dal n. I della LF del 17 mar. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [FF 2016 125](https://fedlex.data.admin.ch/eli/fga/2016/44)).
 
@@ -255,9 +255,9 @@ Nell’ambito di un procedimento d’espulsione o di allontanamento, le autorit�
 
 <sup>3</sup> La competenza per territorio è retta dall’articolo 34 del Codice di procedura civile[^15-2].[^15-3]
 
-[^15-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^15-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^15-3]: Nuovo testo giusta il n. 19 dell’all. alla LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
+[^15-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^15-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
+[^15-3]: Nuovo testo giusta l’all. n. 19 della LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 
 ## Sezione 10: Finanziamento
 
@@ -270,23 +270,27 @@ Nell’ambito di un procedimento d’espulsione o di allontanamento, le autorit�
 <sup>3</sup> La Confederazione può porre a carico del fondo di compensazione dell’AVS, del fondo dell’assicurazione contro la disoccupazione, dell’Istituto nazionale svizzero di assicurazione contro gli infortuni e della cassa suppletiva secondo la legge del 20 marzo 1981[^16-2] sull’assicurazione contro gli infortuni una parte delle spese che deve assumere. Il Consiglio federale disciplina l’importo di tale onere. Il relativo contributo del fondo di compensazione dell’AVS è finanziato mediante supplementi prelevati in virtù dell’articolo 14<sup>bis</sup> della legge federale del 20 dicembre 1946[^16-3] sull’assicurazione per la vecchiaia e per i superstiti.
 
 [^16-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [FF 2016 125](https://fedlex.data.admin.ch/eli/fga/2016/44)).
-[^16-2]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^16-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^16-2]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^16-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
-## Sezione 11: Protezione dei dati e disposizioni penali
+## Sezione 11: Trattamento di dati e disposizioni penali
+
+[^sec11-1]
+
+[^sec11-1]: Nuovo testo giusta l’all. 1 n. II 78 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 17
 
-**Protezione dei dati**
+**Trattamento di dati personali[^17-1]**
 
 <sup>1</sup>
 
-L’organo cantonale di controllo è autorizzato a elaborare dati su persone fisiche e giuridiche:
+L’organo cantonale di controllo è autorizzato a trattare dati personali:[^17-2]
 
 - a. contenuti nei verbali dei controlli in cui sono stati scoperti uno o più casi di inosservanza dell’obbligo di annuncio e di autorizzazione secondo l’articolo 6;
 - b. desunti da comunicazioni pervenutegli dalle autorità competenti per l’oggetto del controllo.
 
-<sup>2</sup> Le autorità cantonali competenti per le sanzioni di cui all’articolo 13 sono autorizzate a elaborare dati concernenti persone fisiche e giuridiche cui è stata inflitta una sanzione amministrativa o penale.
+<sup>2</sup> Le autorità cantonali competenti per le sanzioni di cui all’articolo 13 sono autorizzate a trattare dati concernenti persone fisiche cui è stata inflitta una sanzione amministrativa o penale.[^17-3]
 
 <sup>3</sup>
 
@@ -297,9 +301,28 @@ Il Consiglio federale emana le disposizioni d’esecuzione. Disciplina in partic
 - c. la durata di conservazione dei dati;
 - d. l’anonimizzazione e la distruzione dei dati personali alla scadenza della durata di conservazione.
 
-<sup>4</sup> Le disposizioni della legge federale del 19 giugno 1992[^17-1] sulla protezione dei dati concernenti l’esattezza dei dati e il diritto d’accesso sono applicabili.
+<sup>4</sup> Le disposizioni della legge federale del 25 settembre 2020[^17-4] sulla protezione dei dati concernenti l’esattezza dei dati e il diritto d’accesso sono applicabili.[^17-5]
 
-[^17-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^17-1]: Nuovo testo giusta l’all. 1 n. II 78 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^17-2]: Nuovo testo giusta l’all. 1 n. II 78 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^17-3]: Nuovo testo giusta l’all. 1 n. II 78 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^17-4]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^17-5]: Nuovo testo giusta l’all. 1 n. II 78 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+
+#### Art. 17a
+
+**Trattamento di dati concernenti persone giuridiche**[^17a-1]
+
+<sup>1</sup>
+
+L’organo cantonale di controllo è autorizzato a trattare i dati concernenti persone giuridiche:
+
+- a. contenuti nei verbali dei controlli in cui sono stati scoperti uno o più casi di inosservanza dell’obbligo di annuncio e di autorizzazione secondo l’articolo 6;
+- b. desunti da comunicazioni pervenutegli dalle autorità competenti per l’oggetto del controllo.
+
+<sup>2</sup> Le autorità cantonali competenti per le sanzioni di cui all’articolo 13 sono autorizzate a trattare dati concernenti persone giuridiche cui è stata inflitta una sanzione amministrativa o penale.
+
+[^17a-1]: Introdotto dall’all. 1 n. II 78 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 18
 
@@ -313,7 +336,7 @@ Chiunque, intenzionalmente, ostacola o vanifica un controllo secondo gli articol
 
 Agli organi cantonali di controllo si applicano le disposizioni degli articoli 312 segg. del Codice penale[^19-1] concernenti i reati contro i doveri d’ufficio.
 
-[^19-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^19-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ## Sezione 12: Valutazione
 

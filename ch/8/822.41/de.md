@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 17. Juni 2005 über Massnahmen zur Bekämpfung der Schw
 short: BGSA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/71"
 language: de
-version: 2020-01-01
+version: 2023-09-01
 adopted: 2005-06-17
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/71/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2007-71-20200101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/71/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/71/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2007-71-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/71/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/71/20200101/de"
 
 (Bundesgesetz gegen die Schwarzarbeit, BGSA)
 
-vom 17. Juni 2005 (Stand am 1. Januar 2020)
+vom 17. Juni 2005 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 110 Absatz 1 Buchstaben a, b und d der Bundesverfassung[^i
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2002 3605](https://fedlex.data.admin.ch/eli/fga/2002/520)
 
 ## 1. Abschnitt: Gegenstand
@@ -56,7 +56,7 @@ Das vereinfachte Verfahren nach Artikel 3 ist nicht anwendbar für:
 - b. die Mitarbeit des Ehegatten oder der Ehegattin sowie der Kinder im eigenen Betrieb.
 
 [^2-1]: Fassung gemäss Ziff. I des BG vom 17. März 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [BBl 2016 157](https://fedlex.data.admin.ch/eli/fga/2016/44)).
-[^2-2]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^2-2]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 3
 
@@ -68,8 +68,8 @@ Das vereinfachte Verfahren nach Artikel 3 ist nicht anwendbar für:
 
 <sup>3</sup> Der Bundesrat regelt die Einzelheiten.
 
-[^3-1]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^3-2]: [SR 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
+[^3-1]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^3-2]: [SR 642.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8202)
 [^3-3]: Fassung gemäss Ziff. I des BG vom 17. März 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [BBl 2016 157](https://fedlex.data.admin.ch/eli/fga/2016/44)).
 
 ## 3. Abschnitt: Kantonale Kontrollorgane
@@ -178,7 +178,9 @@ Die Behörden, die für die Sanktionen und administrativen Massnahmen im Zusamme
 
 <sup>1</sup> Die kantonalen Steuerbehörden erstatten den kantonalen Ausgleichskassen Meldung, wenn sie feststellen, dass Einkommen aus unselbständiger Erwerbstätigkeit überhaupt nicht deklariert wurden. Der Bundesrat legt einen Mindestbetrag für das zu meldende Einkommen fest.
 
-<sup>2</sup> Die für die Arbeitslosenversicherung zuständigen Behörden der Kantone und des Bundes, die für den Vollzug der Sozialversicherungsgesetzgebung zuständigen Behörden der Kantone und des Bundes sowie die in diesen Bereichen zuständigen privaten Organisationen geben die Ergebnisse ihrer Kontrollen den Asyl- und Ausländerbehörden bekannt, wenn:
+<sup>2</sup>
+
+Die für die Arbeitslosenversicherung zuständigen Behörden der Kantone und des Bundes, die für den Vollzug der Sozialversicherungsgesetzgebung zuständigen Behörden der Kantone und des Bundes sowie die in diesen Bereichen zuständigen privaten Organisationen geben die Ergebnisse ihrer Kontrollen den Asyl- und Ausländerbehörden bekannt, wenn:
 
 - a.[^12-1] die betroffene Person aus unselbstständiger oder selbstständiger Erwerbstätigkeit ein Einkommen erzielt hat, für das die Sozialversicherungsbeiträge an die AHV, IV, EO oder ALV oder die Familienzulagen nicht entrichtet wurden; und
 - b. sich nicht sogleich ergibt, dass der Aufenthalt der betroffenen Person mit den geltenden Bestimmungen übereinstimmt.
@@ -214,11 +216,11 @@ Das kantonale Kontrollorgan oder Dritte, an die die Kantone Kontrolltätigkeiten
 [^12-1]: Fassung gemäss Ziff. I des BG vom 17. März 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [BBl 2016 157](https://fedlex.data.admin.ch/eli/fga/2016/44)).
 [^12-2]: Fassung gemäss Ziff. I des BG vom 17. März 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [BBl 2016 157](https://fedlex.data.admin.ch/eli/fga/2016/44)).
 [^12-3]: Eingefügt durch Anhang Ziff. 7 des BG vom 6. Okt. 2006 (5. IV-Revision), in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722)5147; [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
-[^12-4]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
-[^12-5]: [SR 823.20](https://fedlex.data.admin.ch/eli/cc/2003/231)
-[^12-6]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
-[^12-7]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^12-8]: [SR 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
+[^12-4]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
+[^12-5]: [SR 823.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9950)
+[^12-6]: [SR 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
+[^12-7]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^12-8]: [SR 642.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8202)
 [^12-9]: Eingefügt durch Ziff. I des BG vom 17. März 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [BBl 2016 157](https://fedlex.data.admin.ch/eli/fga/2016/44)).
 [^12-10]: Eingefügt durch Ziff. I des BG vom 17. März 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [BBl 2016 157](https://fedlex.data.admin.ch/eli/fga/2016/44)).
 
@@ -253,8 +255,8 @@ Im Rahmen eines Weg- oder Ausweisungsverfahrens weisen die Behörden die betroff
 
 <sup>3</sup> Die örtliche Zuständigkeit richtet sich nach Artikel 34 der Zivilprozessordnung[^15-2].[^15-3]
 
-[^15-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^15-2]: [<sup>SR</sup> <sup>272</sup>](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^15-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^15-2]: [<sup>SR</sup> <sup>272</sup>](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 [^15-3]: Fassung gemäss Anhang Ziff. 19 des BG vom 15. Juni 2018 (Revision des Verjährungsrechts), in Kraft seit 1. Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 
 ## 10. Abschnitt: Finanzierung
@@ -268,23 +270,27 @@ Im Rahmen eines Weg- oder Ausweisungsverfahrens weisen die Behörden die betroff
 <sup>3</sup> Der Bund kann einen Teil der von ihm getragenen Kosten dem Ausgleichsfonds der AHV, dem Arbeitslosenversicherungsfonds, der Schweizerischen Unfallversicherungsanstalt und der Ersatzkasse nach dem Bundesgesetz vom 20. März 1981[^16-2] über die Unfallversicherung belasten. Der Bundesrat regelt die Höhe der Belastung. Der Beitrag des Ausgleichsfonds der AHV an die Kosten wird aus den Zuschlägen finanziert, die gestützt auf Artikel 14<sup>bis</sup> des Bundesgesetzes vom 20. Dezember 1946[^16-3] über die Alters- und Hinterlassenenversicherung erhoben werden.
 
 [^16-1]: Fassung gemäss Ziff. I des BG vom 17. März 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [BBl 2016 157](https://fedlex.data.admin.ch/eli/fga/2016/44)).
-[^16-2]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^16-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^16-2]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^16-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
-## 11. Abschnitt: Datenschutz und Strafbestimmungen
+## 11. Abschnitt: Datenbearbeitung und Strafbestimmungen
+
+[^sec11-1]
+
+[^sec11-1]: Fassung gemäss Anhang 1 Ziff. II 78 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 17
 
-**Datenschutz**
+**Bearbeitung von Personendaten[^17-1]**
 
 <sup>1</sup>
 
-Das kantonale Kontrollorgan ist befugt, folgende Daten über natürliche und juristische Personen zu bearbeiten:
+Das kantonale Kontrollorgan ist befugt, folgende Personendaten zu bearbeiten: [^17-2]
 
 - a. Daten, die in den Kontrollprotokollen enthalten sind, sofern die Kontrollen einen oder mehrere Fälle von Missachtung der Melde- und Bewilligungspflichten nach Artikel 6 aufgedeckt haben;
 - b. Daten aus Mitteilungen, die das kantonale Kontrollorgan von den für den Kontrollgegenstand zuständigen Behörden erhalten hat.
 
-<sup>2</sup> Die für die Sanktionen nach Artikel 13 zuständigen kantonalen Behörden sind befugt, Daten über natürliche und juristische Personen zu bearbeiten, gegen die eine administrative oder strafrechtliche Sanktion verhängt worden ist.
+<sup>2</sup> Die für die Sanktionen nach Artikel 13 zuständigen kantonalen Behörden sind befugt, Daten über natürliche Personen zu bearbeiten, gegen die eine administrative oder strafrechtliche Sanktion verhängt worden ist.[^17-3]
 
 <sup>3</sup>
 
@@ -295,9 +301,28 @@ Der Bundesrat erlässt die Ausführungsbestimmungen. Er regelt insbesondere:
 - c. die Dauer der Aufbewahrung der Daten;
 - d. die Anonymisierung und Vernichtung der Personendaten nach Ablauf der Aufbewahrungsdauer.
 
-<sup>4</sup> Die Bestimmungen des Bundesgesetzes vom 19. Juni 1992[^17-1] über den Datenschutz betreffend die Richtigkeit der Daten und das Auskunftsrecht sind anwendbar.
+<sup>4</sup> Die Bestimmungen des Datenschutzgesetzes vom 25. September 2020[^17-4] betreffend die Richtigkeit der Daten und das Auskunftsrecht sind anwendbar.[^17-5]
 
-[^17-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^17-1]: Fassung gemäss Anhang 1 Ziff. II 78 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^17-2]: Fassung gemäss Anhang 1 Ziff. II 78 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^17-3]: Fassung gemäss Anhang 1 Ziff. II 78 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^17-4]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^17-5]: Fassung gemäss Anhang 1 Ziff. II 78 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+
+#### Art. 17a
+
+**Bearbeitung von Daten juristischer Personen**[^17a-1]
+
+<sup>1</sup>
+
+Das kantonale Kontrollorgan ist befugt, folgende Daten juristischer Personen zu bearbeiten:
+
+- a. Daten, die in den Kontrollprotokollen enthalten sind, sofern die Kontrollen einen oder mehrere Fälle von Missachtung der Melde- und Bewilligungspflichten nach Artikel 6 aufgedeckt haben;
+- b. Daten aus Mitteilungen, die das kantonale Kontrollorgan von den für den Kontrollgegenstand zuständigen Behörden erhalten hat.
+
+<sup>2</sup> Die für die Sanktionen nach Artikel 13 zuständigen kantonalen Behörden sind befugt, Daten juristischer Personen zu bearbeiten, gegen die eine administrative oder strafrechtliche Sanktion verhängt worden ist.
+
+[^17a-1]: Eingefügt durch Anhang 1 Ziff. II 78 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 18
 
@@ -311,7 +336,7 @@ Wer vorsätzlich Kontrollen nach den Artikeln 6 und 7 erschwert oder vereitelt o
 
 Auf die kantonalen Kontrollorgane sind die Artikel 312 ff. des Strafgesetzbuches[^19-1] betreffend strafbare Handlungen gegen die Amtspflicht anwendbar.
 
-[^19-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^19-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ## 12. Abschnitt: Evaluation
 
