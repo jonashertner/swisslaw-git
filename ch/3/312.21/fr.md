@@ -4,11 +4,11 @@ title: Ordonnance du 7 novembre 2012 sur la protection extraprocédurale des té
 short: OTém
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/815"
 language: fr
-version: 2022-06-01
+version: 2023-09-01
 adopted: 2012-11-07
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/815/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2012-815-20220601-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/815/20220601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/815/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2012-815-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/815/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/815/20220601/fr"
 
 (OTém)
 
-du 7 novembre 2012 (Etat le 1<sup>er</sup> juin 2022)
+du 7 novembre 2012 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -237,9 +237,11 @@ Lors de toute communication de données, le Service de protection des témoins i
 
 <sup>1</sup> Tout traitement de données dans ZEUSS est journalisé.
 
-<sup>2</sup> Les procès-verbaux sont conservés pendant un an.
+<sup>2</sup> Les procès-verbaux de journalisation sont conservés pendant un an, séparément du système dans lequel les données personnelles sont traitées.[^13-1]
 
 <sup>3</sup> Ils ne peuvent être consultés que par les organes responsables du respect des prescriptions en matière de protection des données.
+
+[^13-1]: Nouvelle teneur selon l’annexe 2 ch. II 36 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 14
 
@@ -259,16 +261,17 @@ Lors de toute communication de données, le Service de protection des témoins i
 
 La sécurité des données est garantie par:
 
-- a. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^15-1];
-- b.[^15-2] l’ordonnance du 27 mai 2020 sur les cyberrisques[^15-3];
-- c.[^15-4] …
+- a.[^15-1] l’ordonnance du 31 août 2022 sur la protection des données[^15-2];
+- b.[^15-3] l’ordonnance du 27 mai 2020 sur les cyberrisques[^15-4];
+- c.[^15-5] …
 
 <sup>2</sup> Le Service de protection des témoins prend les autres mesures nécessaires du point de vue organisationnel et technique pour empêcher les tiers non autorisés d’accéder aux données.
 
-[^15-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^15-2]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^15-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^15-4]: Abrogée par l’annexe ch. 14 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^15-1]: Nouvelle teneur selon l’annexe 2 ch. II 36 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^15-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^15-3]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^15-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^15-5]: Abrogée par l’annexe ch. 14 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## Section 6 Coopération internationale
 

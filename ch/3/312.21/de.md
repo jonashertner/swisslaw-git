@@ -4,11 +4,11 @@ title: Verordnung vom 7. November 2012 über den ausserprozessualen Zeugenschutz
 short: ZeugSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/815"
 language: de
-version: 2022-06-01
+version: 2023-09-01
 adopted: 2012-11-07
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/815/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2012-815-20220601-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/815/20220601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/815/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2012-815-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/815/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/815/20220601/de"
 
 (ZeugSV)
 
-vom 7. November 2012 (Stand am 1. Juni 2022)
+vom 7. November 2012 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -237,9 +237,11 @@ Die Zeugenschutzstelle informiert die Empfängerinnen und Empfänger bei jeder B
 
 <sup>1</sup> Jede Bearbeitung von Daten in ZEUSS wird protokolliert.
 
-<sup>2</sup> Die Protokolle werden ein Jahr aufbewahrt.
+<sup>2</sup> Die Protokolle werden während einem Jahr getrennt vom System, in welchem die Personendaten bearbeitet werden, aufbewahrt.[^13-1]
 
 <sup>3</sup> Sie sind ausschliesslich den für die Einhaltung der datenschutzrechtlichen Vorgaben zuständigen Organen zugänglich.
+
+[^13-1]: Fassung gemäss Anhang 2 Ziff. II 36 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 14
 
@@ -259,16 +261,17 @@ Die Zeugenschutzstelle informiert die Empfängerinnen und Empfänger bei jeder B
 
 Für die Gewährleistung der Datensicherheit gelten:
 
-- a. die Verordnung vom 14. Juni 1993[^15-1] zum Bundesgesetz über den Datenschutz;
-- b.[^15-2] die Cyberrisikenverordnung vom 27. Mai 2020[^15-3];
-- c.[^15-4] …
+- a.[^15-1] die Datenschutzverordnung vom 31. August 2022[^15-2];
+- b.[^15-3] die Cyberrisikenverordnung vom 27. Mai 2020[^15-4];
+- c.[^15-5] …
 
 <sup>2</sup> Die Zeugenschutzstelle trifft die weiteren erforderlichen organisatorischen und technischen Massnahmen, um den Zugriff unbefugter Personen auf die Daten zu verhindern.
 
-[^15-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^15-2]: Fassung gemäss Anhang Ziff. 14 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^15-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^15-4]: Aufgehoben durch Anhang Ziff. 14 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^15-1]: Fassung gemäss Anhang 2 Ziff. II 36 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^15-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^15-3]: Fassung gemäss Anhang Ziff. 14 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^15-4]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^15-5]: Aufgehoben durch Anhang Ziff. 14 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## 6. Abschnitt: Zusammenarbeit mit dem Ausland
 

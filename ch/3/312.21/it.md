@@ -4,11 +4,11 @@ title: Ordinanza del 7 novembre 2012 sulla protezione extraprocessuale dei testi
 short: OPTes
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/815"
 language: it
-version: 2022-06-01
+version: 2023-09-01
 adopted: 2012-11-07
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/815/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2012-815-20220601-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/815/20220601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/815/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2012-815-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/815/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/815/20220601/it"
 
 (OPTes)
 
-del 7 novembre 2012 (Stato 1° giugno 2022)
+del 7 novembre 2012 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -237,9 +237,11 @@ In occasione di ogni trasmissione di dati il Servizio di protezione dei testimon
 
 <sup>1</sup> Ogni trattamento di dati in ZEUSS è registrato.
 
-<sup>2</sup> Le registrazioni sono conservate per un anno.
+<sup>2</sup> I verbali sono conservati per un anno separatamente dal sistema in cui sono trattati i dati personali.[^13-1]
 
 <sup>3</sup> Esse sono accessibili esclusivamente agli organi responsabili del rispetto delle prescrizioni sulla protezione dei dati.
+
+[^13-1]: Nuovo testo giusta l’all. 2 n. II 36 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 14
 
@@ -259,16 +261,17 @@ In occasione di ogni trasmissione di dati il Servizio di protezione dei testimon
 
 Per garantire la sicurezza dei dati si applicano:
 
-- a. l’ordinanza del 14 giugno 1993[^15-1] relativa alla legge federale sulla protezione dei dati;
-- b.[^15-2] l’ordinanza del 27 maggio 2020[^15-3] sui ciber-rischi;
-- c.[^15-4] ...
+- a.[^15-1] l’ordinanza del 31 agosto 2022[^15-2] sulla protezione dei dati;
+- b.[^15-3] l’ordinanza del 27 maggio 2020[^15-4] sui ciber-rischi;
+- c.[^15-5] ...
 
 <sup>2</sup> Il Servizio di protezione dei testimoni adotta le ulteriori misure organizzative e tecniche necessarie per impedire che persone non autorizzate accedano ai dati.
 
-[^15-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^15-2]: Nuovo testo giusta l’all. n. 14 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
-[^15-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^15-4]: Abrogata dall’all. n. 14 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^15-1]: Nuovo testo giusta l’all. 2 n. II 36 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^15-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^15-3]: Nuovo testo giusta l’all. n. 14 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^15-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^15-5]: Abrogata dall’all. n. 14 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## Sezione 6: Cooperazione con l’estero
 
