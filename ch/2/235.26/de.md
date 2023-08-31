@@ -3,11 +3,11 @@ sr: "235.26"
 title: Verordnung vom 25. September 2020 über das Informationssystem Plato (Plato-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/747"
 language: de
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2020-09-25
 in_force: 2020-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/747/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2020-747-20220101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/747/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/747/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2020-747-20230901-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/747/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,17 +16,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/747/20220101/de"
 
 (Plato-Verordnung)
 
-vom 25. September 2020 (Stand am 1. Januar 2022)
+vom 25. September 2020 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 29 des Bundesgesetzes vom 18. Dezember 2020[^ingress-1] über die Bearbeitung von Personendaten durch das Eidgenössischen Departement für auswärtige Angelegenheiten[^ingress-2] und auf Artikel 57*h* Absatz 3 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-3],
+gestützt auf Artikel 29 des Bundesgesetzes vom 18. Dezember 2020[^ingress-1] über die Bearbeitung von Personendaten durch das Eidgenössischen Departement für auswärtige Angelegenheiten und auf Artikel 57*h*<sup>ter</sup> des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-2] (RVOG),[^ingress-3]
 
 verordnet:
 
-[^ingress-1]: [SR 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
-[^ingress-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Dez. 2021 angepasst.
-[^ingress-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-1]: [SR 235.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6021)
+[^ingress-2]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-3]: Fassung gemäss Anhang 2 Ziff. II 34 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -50,8 +50,8 @@ Das Plato dient dem EDA zur Erfüllung seiner Aufgaben, die durch die Abteilung 
 - f. der logistischen Bereitstellung von Einsatzmaterial;
 - g. der Erstellung von Statistiken.
 
-[^2-1]: [SR 193.9](https://fedlex.data.admin.ch/eli/cc/2004/253)
-[^2-2]: [SR 172.211.31](https://fedlex.data.admin.ch/eli/cc/1988/950_950_950)
+[^2-1]: [SR 193.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5683)
+[^2-2]: [SR 172.211.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5280)
 
 #### Art. 3
 
@@ -154,7 +154,9 @@ Die AMS und der Direktionsbereich HH/SKH erlassen ein Bearbeitungsreglement. Die
 
 <sup>1</sup> Die Zugriffe auf das Plato und die Bearbeitungen werden laufend protokolliert.
 
-<sup>2</sup> Die Protokolle werden ein Jahr aufbewahrt.
+<sup>2</sup> Die Protokolle werden während einem Jahr getrennt vom System, in welchem die Personendaten bearbeitet werden, aufbewahrt.[^14-1]
+
+[^14-1]: Fassung gemäss Anhang 2 Ziff. II 34 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 5. Abschnitt: Inkrafttreten
 
@@ -162,7 +164,7 @@ Die AMS und der Direktionsbereich HH/SKH erlassen ein Bearbeitungsreglement. Die
 
 Diese Verordnung tritt am 1. November 2020 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 5 Abs. 2)
 
@@ -223,7 +225,7 @@ Anhang*[^t-1]*
 - 49\. Weiterbildungsbedarf
 - 50\. Angaben zu Kursen (Kursname, Kurstyp, Ort, Teilnahmetyp, Teilnahmestatus)
 
-[^annexu1-lvlu1-lvlI-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^annexu1-lvlu1-lvlI-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ### II. Angaben zum Pass
 

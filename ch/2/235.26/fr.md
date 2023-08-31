@@ -3,11 +3,11 @@ sr: "235.26"
 title: "Ordonnance du 25 septembre 2020 sur le système d'information Plato (Ordonnance Plato)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/747"
 language: fr
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2020-09-25
 in_force: 2020-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/747/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-747-20220101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/747/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/747/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2020-747-20230901-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/747/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,17 +16,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/747/20220101/fr"
 
 (Ordonnance Plato)
 
-du 25 septembre 2020 (Etat le 1<sup>er</sup> janvier 2022)
+du 25 septembre 2020 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
-vu l’art. 29 de la loi fédérale du 18 décembre 2020 sur le traitement des données personnelles par le Département fédéral des affaires étrangères[^ingress-1],[^ingress-2] vu l’art. 57*h*, al. 3, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^ingress-3],
+vu l’art. 29 de la loi fédérale du 18 décembre 2020 sur le traitement des données personnelles par le Département fédéral des affaires étrangères[^ingress-1], vu l’art. 57*h*<sup>ter</sup> de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration (LOGA)[^ingress-2],[^ingress-3]
 
 arrête:
 
-[^ingress-1]: [RS 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
-[^ingress-2]: Le renvoi a été adapté au 1<sup>er</sup> déc. 2021 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
-[^ingress-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-1]: [RS 235.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6021)
+[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-3]: Nouvelle teneur selon l’annexe 2 ch. II 34 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 1 Dispositions générales
 
@@ -50,8 +50,8 @@ Plato permet au DFAE de remplir ses tâches, à savoir celles assumées par la D
 - f. à la logistique du matériel d’intervention;
 - g. à l’établissement de statistiques.
 
-[^2-1]: [RS 193.9](https://fedlex.data.admin.ch/eli/cc/2004/253)
-[^2-2]: [RS 172.211.31](https://fedlex.data.admin.ch/eli/cc/1988/950_950_950)
+[^2-1]: [RS 193.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5683)
+[^2-2]: [RS 172.211.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5280)
 
 #### Art. 3
 
@@ -154,7 +154,9 @@ La DSH et le Domaine AH/CSA édictent un règlement relatif au traitement des do
 
 <sup>1</sup> Les accès à Plato et les modifications qui y sont effectuées sont journalisés en permanence.
 
-<sup>2</sup> Les procès-verbaux de journalisation sont conservés pendant un an.
+<sup>2</sup> Les procès-verbaux de journalisation sont conservés pendant un an, séparément du système dans lequel les données personnelles sont traitées.[^14-1]
+
+[^14-1]: Nouvelle teneur selon l’annexe 2 ch. II 34 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 5 Entrée en vigueur
 
@@ -162,7 +164,7 @@ La DSH et le Domaine AH/CSA édictent un règlement relatif au traitement des do
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> novembre 2020.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 5, al. 2)
 
@@ -223,7 +225,7 @@ Annexe*[^t-1]*
 - 49\. Besoins de formation continue
 - 50\. Indications relatives aux cours (nom du cours, type de cours, lieu, type de participants, statut de participation)
 
-[^annexu1-lvlu1-lvlI-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^annexu1-lvlu1-lvlI-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ### II. Indications relatives au passeport
 
