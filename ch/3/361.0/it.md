@@ -3,11 +3,11 @@ sr: "361.0"
 title: Ordinanza del 26 ottobre 2016 sul sistema di ricerca informatizzato di polizia (Ordinanza RIPOL)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/665"
 language: it
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2016-10-26
 in_force: 2016-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2016-665-20230101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2016-665-20230901-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20230101/it"
 
 (Ordinanza RIPOL)
 
-del 26 ottobre 2016 (Stato 1° gennaio 2023)
+del 26 ottobre 2016 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -49,18 +49,20 @@ La presente ordinanza disciplina per il sistema di ricerca informatizzato di pol
 
 <sup>1</sup>
 
-L’Ufficio federale di polizia (fedpol) è il detentore della banca dati ed è responsabile del RIPOL. Assolve i compiti seguenti:
+L’Ufficio federale di polizia (fedpol) è l’organo federale responsabile del RIPOL. Assolve i compiti seguenti:[^2-1]
 
 - a. è responsabile dell’utilizzo e del trattamento conformi alla legge della banca dati e garantisce la sicurezza informatica;
 - b. coordina le proprie attività con le autorità partecipanti al RIPOL;
 - c. tratta le richieste di informazioni;
 - d. rilascia all’utente le autorizzazioni necessarie per l’utilizzo del sistema;
 - e. vigila sul rispetto della presente ordinanza e delle direttive emanate sulla base della medesima;
-- f. emana un regolamento sul trattamento dei dati ai sensi dell’articolo 21 dell’ordinanza del 14 giugno 1993[^2-1] relativa alla legge federale sulla protezione dei dati.
+- f.[^2-2] emana un regolamento sul trattamento dei dati ai sensi dell’articolo 6 dell’ordinanza del 31 agosto 2022[^2-3] sulla protezione dei dati (OPDa).
 
 <sup>2</sup> Le autorità partecipanti sono responsabili nel proprio settore del trattamento dei dati nel RIPOL. Sono in particolare responsabili dell’esattezza dei dati da loro inseriti o notificati.
 
-[^2-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^2-1]: Nuovo testo giusta l’all. 2 n. II 42 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^2-2]: Nuovo testo giusta l’all. 2 n. II 42 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^2-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 #### Art. 3
 
@@ -337,13 +339,20 @@ Fedpol disciplina nel regolamento sul trattamento dei dati i tipi di segnalazion
 
 **Diritti degli interessati**
 
-<sup>1</sup> I diritti degli interessati, segnatamente il diritto di accesso, rettifica e cancellazione, sono retti dalle disposizioni della legge federale del 19 giugno 1992[^13-1] sulla protezione dei dati.
+<sup>1</sup> I diritti degli interessati, segnatamente il diritto di accesso, rettifica e distruzione, sono retti dalle disposizioni della legge federale del 25 settembre 2020[^13-1] sulla protezione dei dati.[^13-2]
 
-<sup>2</sup> La persona interessata che volesse far valere i propri diritti deve comprovare la sua identità e presentare una domanda scritta a fedpol o a un’autorità di polizia del Cantone. Se la domanda concerne anche informazioni su segnalazioni effettuate sulla base di una richiesta estera, essa deve contenere il consenso a consultare l’autorità estera.
+<sup>1bis</sup> Le domande d’informazioni sulla segnalazione di una persona interessata per l’arresto a scopo di estradizione sono rette dall’articolo 8*a* LSIP[^13-3].[^13-4]
+
+<sup>2</sup> La persona interessata che intende far valere i propri diritti deve presentare a fedpol o a un’autorità di polizia del Cantone una domanda nella forma prevista dall’articolo 16 ODPa[^13-5].[^13-6] Se la domanda concerne anche informazioni su segnalazioni effettuate sulla base di una richiesta estera, essa deve contenere il consenso a consultare l’autorità estera.
 
 <sup>3</sup> Le autorità federali e cantonali decidono d’intesa con l’autorità che ha iscritto o fatto iscrivere i dati nel sistema e notificano la decisione con atto impugnabile. Esse informano fedpol della loro decisione.
 
 [^13-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^13-2]: Nuovo testo giusta l’all. 2 n. II 42 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^13-3]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^13-4]: Introdotto dall’all. 2 n. II 42 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^13-5]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^13-6]: Nuovo testo giusta l’all. 2 n. II 42 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 14
 
@@ -355,24 +364,28 @@ Fedpol disciplina nel regolamento sul trattamento dei dati i tipi di segnalazion
 
 La sicurezza dei dati è disciplinata:
 
-- a. dall’ordinanza del 14 giugno 1993[^14-1] relativa alla legge federale sulla protezione dei dati;
-- b. dall’ordinanza del 27 maggio 2020[^14-2] sui ciber-rischi.[^14-3]
+- a.[^14-1] dall’OPDa[^14-2];
+- b. dall’ordinanza del 27 maggio 2020[^14-3] sui ciber-rischi.[^14-4]
 
 <sup>3</sup> Le autorità partecipanti adottano, nei rispettivi settori, le misure adeguate d’ordine organizzativo e tecnico in virtù delle disposizioni in materia di protezione dei dati.
 
 <sup>4</sup> Il fornitore di servizi informatici incaricato dal DFGP assicura che i dati e i programmi del RIPOL possano essere ricostituiti in caso di distruzione, furto o perdita.
 
-[^14-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^14-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^14-3]: Nuovo testo giusta l’all. n. 18 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-1]: Nuovo testo giusta l’all. 2 n. II 42 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^14-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^14-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^14-4]: Nuovo testo giusta l’all. n. 18 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 15
 
 **Verbalizzazione**
 
-<sup>1</sup> Gli utenti che trattano o mutano dati sono registrati costantemente nel RIPOL. Il verbale è conservato per un anno.
+<sup>1</sup> Gli utenti che trattano o mutano dati sono registrati costantemente nel RIPOL. Il verbale è conservato per un anno separatamente dal sistema in cui sono trattati i dati personali.[^15-1]
 
-<sup>2</sup> Le consultazioni relative a persone e a danneggiati sono registrate costantemente e conservate per un anno.
+<sup>2</sup> Le consultazioni relative a persone e a danneggiati sono registrate costantemente. I verbali sono conservati per un anno separatamente dal sistema in cui sono trattati i dati personali.[^15-2]
+
+[^15-1]: Novo testo del per. giusta l’all. 2 n. II 42 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^15-2]: Nuovo testo giusta l’all. 2 n. II 42 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 16
 

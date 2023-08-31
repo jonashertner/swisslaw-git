@@ -3,11 +3,11 @@ sr: "361.0"
 title: Verordnung vom 26. Oktober 2016 über das automatisierte Polizeifahndungssystem (RIPOL-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/665"
 language: de
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2016-10-26
 in_force: 2016-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2016-665-20230101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2016-665-20230901-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20230101/de"
 
 (RIPOL-Verordnung)
 
-vom 26. Oktober 2016 (Stand am 1. Januar 2023)
+vom 26. Oktober 2016 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -49,18 +49,20 @@ Diese Verordnung regelt für das automatisierte Polizeifahndungssystem (RIPOL):
 
 <sup>1</sup>
 
-Das Bundesamt für Polizei (fedpol) ist Inhaber der Datenbank und trägt die Verantwortung für RIPOL. Es übernimmt dabei folgende Aufgaben:
+Das Bundesamt für Polizei (fedpol) ist das für RIPOL verantwortliche Bundesorgan. Es übernimmt dabei folgende Aufgaben:[^2-1]
 
 - a. Es ist verantwortlich für die rechtmässige Nutzung und Bearbeitung der Datenbank und gewährt die Informatiksicherheit.
 - b. Es koordiniert seine Tätigkeiten mit den am RIPOL beteiligten Behörden.
 - c. Es behandelt Auskunftsbegehren.
 - d. Es erteilt der Benutzerin oder dem Benutzer die notwendigen Bewilligungen für den Gebrauch des Systems.
 - e. Es überwacht die Einhaltung dieser Verordnung und die gestützt darauf erlassenen Weisungen.
-- f. Es erlässt ein Bearbeitungsreglement nach Artikel 21 der Verordnung vom 14. Juni 1993[^2-1] zum Bundesgesetz über den Datenschutz.
+- f.[^2-2] Es erlässt ein Bearbeitungsreglement nach Artikel 6 der Datenschutzverordnung vom 31. August 2022[^2-3] (DSV).
 
 <sup>2</sup> Die beteiligten Behörden tragen in ihrem Bereich die Verantwortung für die Datenverarbeitung im RIPOL. Sie sind insbesondere verantwortlich dafür, dass die Daten, die sie melden oder eingeben, richtig sind.
 
-[^2-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^2-1]: Fassung gemäss Anhang 2 Ziff. II 42 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^2-2]: Fassung gemäss Anhang 2 Ziff. II 42 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^2-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 #### Art. 3
 
@@ -337,13 +339,20 @@ Die Arten der Ausschreibungen sowie deren Prüfung und Verbreitung müssen von f
 
 **Rechte der Betroffenen**
 
-<sup>1</sup> Die Rechte der Betroffenen, insbesondere das Auskunfts-, Berichtigungs- und Löschungsrecht, richten sich nach den Bestimmungen des Bundesgesetzes vom 19. Juni 1992[^13-1] über den Datenschutz.
+<sup>1</sup> Die Rechte der Betroffenen, insbesondere das Auskunfts-, Berichtigungs- und Vernichtungsrecht, richten sich nach den Bestimmungen des Datenschutzgesetzes vom 25. September 2020[^13-1].[^13-2]
 
-<sup>2</sup> Will eine betroffene Person Rechte geltend machen, so hat sie sich über ihre Identität auszuweisen und ein schriftliches Gesuch bei fedpol oder einer Polizeibehörde des Kantons einzureichen. Umfasst das Gesuch auch Auskünfte über Ausschreibungen auf der Grundlage eines ausländischen Ersuchens, hat das Gesuch eine Zustimmung zur Rücksprache mit der ausländischen Behörde zu enthalten.
+<sup>1bis</sup> Gesuche um Auskunft darüber, ob eine betroffene Person zur Festnahme zum Zweck der Auslieferung ausgeschrieben ist, richten sich nach Artikel 8*a* BPI[^13-3].[^13-4]
+
+<sup>2</sup> Will eine betroffene Person Rechte geltend machen, so muss sie in der Form nach Artikel 16 DSV[^13-5] ein Gesuch bei fedpol oder einer Polizeibehörde des Kantons einreichen.[^13-6] Umfasst das Gesuch auch Auskünfte über Ausschreibungen auf der Grundlage eines ausländischen Ersuchens, hat das Gesuch eine Zustimmung zur Rücksprache mit der ausländischen Behörde zu enthalten.
 
 <sup>3</sup> Die Behörden des Bundes und der Kantone entscheiden nach Rücksprache mit der Behörde, welche die Daten eingetragen hat oder hat eintragen lassen, und eröffnen ihren Entscheid mit einer beschwerdefähigen Verfügung. Sie informieren fedpol über ihren Entscheid.
 
 [^13-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^13-2]: Fassung gemäss Anhang 2 Ziff. II 42 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^13-3]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^13-4]: Eingefügt durch Anhang 2 Ziff. II 42 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^13-5]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^13-6]: Fassung gemäss Anhang 2 Ziff. II 42 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 14
 
@@ -355,24 +364,28 @@ Die Arten der Ausschreibungen sowie deren Prüfung und Verbreitung müssen von f
 
 Die Datensicherheit richtet sich nach:
 
-- a. der Verordnung vom 14. Juni 1993[^14-1] zum Bundesgesetz über den Datenschutz;
-- b. der Cyberrisikenverordnung vom 27. Mai 2020[^14-2].[^14-3]
+- a.[^14-1] der DSV[^14-2];
+- b. der Cyberrisikenverordnung vom 27. Mai 2020[^14-3].[^14-4]
 
 <sup>3</sup> Die beteiligten Behörden treffen in ihren Bereichen die gemäss den datenschutzrechtlichen Bestimmungen angemessenen organisatorischen und technischen Massnahmen.
 
 <sup>4</sup> Der vom EJPD beauftragte Informatik-Leistungserbringer sorgt dafür, dass die Daten und Programme des RIPOL nach allfälliger Zerstörung, Entwendung oder Verlust wiederhergestellt werden können.
 
-[^14-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^14-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^14-3]: Fassung gemäss Anhang Ziff. 18 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-1]: Fassung gemäss Anhang 2 Ziff. II 42 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^14-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^14-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^14-4]: Fassung gemäss Anhang Ziff. 18 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 15
 
 **Protokollierung**
 
-<sup>1</sup> Im RIPOL werden die Benutzerinnen und Benutzer, welche die Daten erfassen oder mutieren, laufend protokolliert. Das Protokoll ist während eines Jahres aufzubewahren.
+<sup>1</sup> Im RIPOL werden die Benutzerinnen und Benutzer, welche die Daten erfassen oder mutieren, laufend protokolliert. Das Protokoll ist während einem Jahr getrennt vom System, in welchem die Personendaten bearbeitet werden, aufzubewahren.[^15-1]
 
-<sup>2</sup> Die Abfragen betreffend Personen und Geschädigte werden laufend protokolliert und während eines Jahres aufbewahrt.
+<sup>2</sup> Die Abfragen betreffend Personen und Geschädigte werden laufend protokolliert. Die Protokolle werden während einem Jahr getrennt vom System, in welchem die Personendaten bearbeitet werden, aufbewahrt.[^15-2]
+
+[^15-1]: Fassung des zweiten Satzes gemäss Anhang 2 Ziff. II 42 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^15-2]: Fassung gemäss Anhang 2 Ziff. II 42 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 16
 

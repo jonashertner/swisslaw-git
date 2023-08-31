@@ -3,11 +3,11 @@ sr: "361.0"
 title: Ordonnance du 26 octobre 2016 sur le système de recherches informatisées de police (Ordonnance RIPOL)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/665"
 language: fr
-version: 2023-01-01
+version: 2023-09-01
 adopted: 2016-10-26
 in_force: 2016-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-665-20230101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2016-665-20230901-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20230101/fr"
 
 (Ordonnance RIPOL)
 
-du 26 octobre 2016 (État le 1<sup>er</sup> janvier 2023)
+du 26 octobre 2016 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -49,18 +49,20 @@ La présente ordonnance règle, pour le système de recherches informatisées de
 
 <sup>1</sup>
 
-L’Office fédéral de la police (fedpol) est maître du fichier et responsable du RIPOL. Il assume les tâches suivantes:
+L’Office fédéral de la police (fedpol) est l’organe fédéral responsable du RIPOL. Il assume les tâches suivantes:[^2-1]
 
 - a. il est responsable de l’utilisation et du traitement licite des données du système et en garantit la sécurité informatique;
 - b. il coordonne ses activités avec les autorités qui participent au RIPOL;
 - c. il traite les demandes de renseignement;
 - d. il délivre aux utilisateurs les autorisations nécessaires à l’emploi du système;
 - e. il veille à ce que la présente ordonnance et les instructions qui en découlent soient respectées;
-- f. il édicte un règlement sur le traitement des données, au sens de l’art. 21 de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^2-1].
+- f.[^2-2] il édicte un règlement sur le traitement des données, au sens de l’art. 6 de l’ordonnance du 31 août 2022 sur la protection des données (OPDo)[^2-3].
 
 <sup>2</sup> Les autorités concernées sont responsables du traitement, au sein du RIPOL, des données qui relèvent de leur domaine. Elles sont en particulier responsables de l’exactitude des données qu’elles annoncent ou introduisent.
 
-[^2-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^2-1]: Nouvelle teneur selon l’annexe 2 ch. II 42 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^2-2]: Nouvelle teneur selon l’annexe 2 ch. II 42 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^2-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 #### Art. 3
 
@@ -194,9 +196,9 @@ Dans l’accomplissement de leurs tâches légales, les autorités suivantes peu
 [^6-14]: Introduite par l’art. 17 ch. 1 de l’O Ordipro du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> mai 2019 ([RO 2019 1089](https://fedlex.data.admin.ch/eli/oc/2019/209)).
 [^6-15]: Introduite par l’art. 17 ch. 1 de l’O Ordipro du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> mai 2019 ([RO 2019 1089](https://fedlex.data.admin.ch/eli/oc/2019/209)).
 [^6-16]: Introduite par le ch. I 10 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^6-17]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
-[^6-18]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
-[^6-19]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
+[^6-17]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649), [675](https://fedlex.data.admin.ch/eli/oc/2022/675)).
+[^6-18]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649), [675](https://fedlex.data.admin.ch/eli/oc/2022/675)).
+[^6-19]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649), [675](https://fedlex.data.admin.ch/eli/oc/2022/675)).
 
 #### Art. 7
 
@@ -338,13 +340,20 @@ Fedpol règle dans son règlement de traitement les sortes de signalements ainsi
 
 **Droits des personnes concernées**
 
-<sup>1</sup> Les droits des personnes concernées, notamment le droit à la consultation, à la rectification et à la suppression de données, sont régis par les dispositions de la loi fédérale du 19 juin 1992 sur la protection des données[^13-1].
+<sup>1</sup> Les droits des personnes concernées, notamment le droit à la consultation, à la rectification et à la destruction de données, sont régis par les dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données[^13-1].[^13-2]
 
-<sup>2</sup> Pour faire valoir ses droits, la personne concernée doit justifier de son identité et présenter une demande écrite à fedpol ou à une autorité cantonale de police. Si la requête concerne également des renseignements sur des inscriptions émanant d’une autorité étrangère, elle doit contenir un accord de consultation de l’autorité étrangère concernée.
+<sup>1bis</sup> Les demandes de renseignement sur l’existence d’un signalement en vue d’une arrestation d’une personne concernée aux fins d’extradition sont régies par l’article 8*a* de la LSIP[^13-3].[^13-4]
+
+<sup>2</sup> Pour faire valoir ses droits, la personne concernée doit présenter une demande à fedpol ou à une autorité cantonale de police dans la forme prévue à l’art. 16 OPDo[^13-5].[^13-6] Si la requête concerne également des renseignements sur des inscriptions émanant d’une autorité étrangère, elle doit contenir un accord de consultation de l’autorité étrangère concernée.
 
 <sup>3</sup> Les autorités de la Confédération et des cantons statuent après avoir consulté l’autorité qui a inscrit ou fait inscrire les données et notifient leur décision en indiquant les voies de recours. Elles informent fedpol de leur décision.
 
 [^13-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^13-2]: Nouvelle teneur selon l’annexe 2 ch. II 42 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^13-3]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^13-4]: Introduit par l’annexe 2 ch. II 42 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^13-5]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^13-6]: Nouvelle teneur selon l’annexe 2 ch. II 42 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 14
 
@@ -356,24 +365,28 @@ Fedpol règle dans son règlement de traitement les sortes de signalements ainsi
 
 La sécurité des données est régie par:
 
-- a. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^14-1];
-- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^14-2].[^14-3]
+- a.[^14-1] l’OPDo[^14-2];
+- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^14-3].[^14-4]
 
 <sup>3</sup> Les autorités concernées adoptent, dans leur domaine, les mesures organisationnelles et techniques qui s’imposent conformément aux dispositions légales sur la protection des données.
 
 <sup>4</sup> Le fournisseur de prestations informatiques mandaté par le DFJP veille à ce que les données et les programmes du RIPOL puissent être reconstitués en cas de panne, de vol ou de perte.
 
-[^14-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^14-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^14-3]: Nouvelle teneur selon l’annexe ch. 18 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-1]: Nouvelle teneur selon l’annexe 2 ch. II 42 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^14-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^14-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^14-4]: Nouvelle teneur selon l’annexe ch. 18 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 15
 
 **Journalisation**
 
-<sup>1</sup> Les utilisateurs qui enregistrent ou modifient des données dans le RIPOL font en permanence l’objet d’un procès-verbal. Celui-ci doit être conservé pendant un an.
+<sup>1</sup> Les utilisateurs qui enregistrent ou modifient des données dans le RIPOL font en permanence l’objet d’un procès-verbal. Celui-ci doit être conservé pendant un an, séparément du système dans lequel les données personnelles sont traitées.[^15-1]
 
-<sup>2</sup> Les consultations relatives aux personnes et aux lésés font en permanence l’objet d’un procès-verbal et sont conservées durant une année.
+<sup>2</sup> Les consultations relatives aux personnes et aux lésés font en permanence l’objet d’un procès-verbal de journalisation. Celui-ci est conservé durant un an, séparément du système dans lequel les données personnelles sont traitées.[^15-2]
+
+[^15-1]: Nouvelle teneur de la phrase selon l’annexe 2 ch. II 42 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^15-2]: Nouvelle teneur selon l’annexe 2 ch. II 42 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 16
 
