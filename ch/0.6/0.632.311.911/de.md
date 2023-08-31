@@ -3,34 +3,33 @@ sr: "0.632.311.911"
 title: Freihandelsabkommen vom 24. Juni 2013 zwischen den EFTA-Staaten und Bosnien und Herzegowina (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/19"
 language: de
-version: 2015-01-01
+version: 2023-09-01
 adopted: 2013-06-24
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/19/20150101/de/xml/fedlex-data-admin-ch-eli-cc-2015-19-20150101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/19/20150101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/19/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2015-19-20230901-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/19/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Freihandelsabkommen zwischen den EFTA-Staaten und Bosnien und Herzegowina****
+# Freihandelsabkommen zwischen den EFTA-Staaten und Bosnien und Herzegowina
 
 AS **2015** 85; BBl **2014** 1185 1309[^t-1]
 
-Übersetzung*[^t-2]*
+Übersetzung
 
 Abgeschlossen in Trondheim am 24. Juni 2013
 
-Von der Bundesversammlung genehmigt am 17. März 2014[^t-3]
+Von der Bundesversammlung genehmigt am 17. März 2014[^t-2]
 
 Ratifikationsurkunde von der Schweiz hinterlegt am 7. April 2014
 
 In Kraft getreten für die Schweiz am 1. Januar 2015
 
-(Stand am 1. Januar 2015)
+(Stand am 1. September 2023)
 
 [^t-1]: Die Anhänge zum Abkommen werden weder in der AS noch in der SR veröffentlicht. Sie können beim Bundesamt für Bauten und Logistik BBL, Verkauf Bundespublikationen, 3003 Bern bezogen oder auf der Internetseite des EFTA-Sekretariates eingesehen werden: www.efta.int/free-trade/free-trade-agreements.aspx.
-[^t-2]: Übersetzung des englischen Originaltextes.
-[^t-3]: Art. 1 Abs. 1 Bst. a des BB vom 17. März 2014 ([AS 2015 83](https://fedlex.data.admin.ch/eli/oc/2015/18)).
+[^t-2]: Art. 1 Abs. 1 Bst. a des BB vom 17. März 2014 ([AS 2015 83](https://fedlex.data.admin.ch/eli/oc/2015/18)).
 
 Präambel
 
@@ -76,9 +75,9 @@ ihre Bereitschaft bekundend, die Möglichkeit zur Entwicklung und Vertiefung ihr
 
 haben zur Erreichung dieser Ziele folgendes Freihandelsabkommen (nachfolgend als dieses «Abkommen» bezeichnet) abgeschlossen:
 
-[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
-[^ingress-3]: [SR 0.820.1](https://fedlex.data.admin.ch/eli/cc/1948/915_891_861)
+[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
+[^ingress-3]: [SR 0.820.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3596)
 
 ## 1. Kapitel Allgemeine Bestimmungen
 
@@ -99,7 +98,7 @@ Die Ziele dieses Abkommens, das auf Handelsbeziehungen zwischen marktwirtschaftl
 - (e) die Entwicklung des internationalen Handels auf eine Weise, die zum Ziel der nachhaltigen Entwicklung beiträgt und sicherstellt, dass dieses Ziel in der Handelsbeziehung der Vertragsparteien eingeschlossen ist und in ihr Ausdruck findet; und
 - (f) auf diese Weise einen Beitrag zur harmonischen Entwicklung und Ausweitung des Welthandels zu leisten.
 
-[^1-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117),Anhang 1A.1
+[^1-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235),Anhang 1A.1
 
 #### Art. 2
 
@@ -109,7 +108,7 @@ Die Ziele dieses Abkommens, das auf Handelsbeziehungen zwischen marktwirtschaftl
 
 <sup>2.</sup> Gestützt auf die mit dem Zollvertrag vom 29. März 1923[^2-1] zwischen der Schweiz und Liechtenstein errichtete Zollunion vertritt die Schweiz Liechtenstein in den darunter fallenden Angelegenheiten.
 
-[^2-1]: [SR 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
+[^2-1]: [SR 0.631.112.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2001)
 
 #### Art. 3
 
@@ -127,12 +126,14 @@ Die Ziele dieses Abkommens, das auf Handelsbeziehungen zwischen marktwirtschaftl
 
 <sup>1.</sup>
 
-Sofern nicht in Artikel 8 abweichend bestimmt, findet dieses Abkommen Anwendung:
+Sofern nicht in Anhang IX abweichend bestimmt, findet dieses Abkommen Anwendung:
 
 - (a) auf das Festland, Binnengewässer und die Hoheitsgewässer einer Vertragspartei sowie auf den Luftraum über ihrem Hoheitsgebiet in Übereinstimmung mit dem Völkerrecht; und
-- (b) ausserhalb der Hoheitsgewässer auf Massnahmen, die von einer Vertragspartei in Ausübung ihrer Souveränitätsrechte oder ihrer Gerichtsbarkeit gemäss Völkerrecht getroffen werden.
+- (b) ausserhalb der Hoheitsgewässer auf Massnahmen, die von einer Vertragspartei in Ausübung ihrer Souveränitätsrechte oder ihrer Gerichtsbarkeit gemäss Völkerrecht getroffen werden.[^4-1]
 
 <sup>2.</sup> Dieses Abkommen gilt mit Ausnahme des Warenverkehrs nicht für das norwegische Hoheitsgebiet von Svalbard.
+
+[^4-1]: Fassung gemäss Abk. vom 7. Juli 2022, von der Bundesversammlung genehmigt am 18. März 2021, in Kraft für die schweiz seit 1. Sept. 2023 ([AS 2023 577](https://fedlex.data.admin.ch/eli/oc/2023/577); [2021 644](https://fedlex.data.admin.ch/eli/oc/2021/644)Art. 1 Abs. 2 Bst. b Ziff. 3 ; [BBl 2021 344](https://fedlex.data.admin.ch/eli/fga/2021/344)).
 
 #### Art. 5
 
@@ -164,19 +165,15 @@ Dieses Kapitel gilt für die folgenden Erzeugnisse:
 
 <sup>2.</sup> Jeder EFTA-Staat und Bosnien und Herzegowina haben bilateral ein Abkommen über den Handel mit landwirtschaftlichen Erzeugnissen abgeschlossen. Diese Abkommen bilden Bestandteil der Instrumente zur Errichtung einer Freihandelszone zwischen den EFTA-Staaten und Bosnien und Herzegowina.
 
-[^7-1]: [SR 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)
+[^7-1]: [SR 0.632.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2229)
 
 #### Art. 8
 
-**Ursprungsregeln und administrative Zusammenarbeit**
+**Ursprungsregeln und administrative Zusammenarbeit**[^8-1]
 
-<sup>1.</sup> Die Bestimmungen zu den Ursprungsregeln und den Methoden der administrativen Zusammenarbeit sind im Protokoll über die Ursprungsregeln festgelegt.
+Die Bestimmungen zu den Ursprungsregeln und den Methoden der administrativen Zusammenarbeit sind in Anhang IX aufgeführt.
 
-<sup>2.</sup> Ab Inkrafttreten des Regionalen Übereinkommens über Pan-Europa-Mittelmeer-Präferenzursprungsregeln[^8-1] (nachfolgend als das «Übereinkommen» bezeichnet) gelangt das Protokoll über die Ursprungsregeln für die Vertragsparteien nicht mehr zur Anwendung und die Rechte und Pflichten der Vertragsparteien in Bezug auf die Ursprungsregeln und die administrative Zusammenarbeit zwischen den Zollbehörden der Vertragsparteien richten sich unbeschadet von Artikel 16 nach dem Übereinkommen.
-
-<sup>3.</sup> Tritt eine Vertragspartei vom Übereinkommen zurück, nehmen die Vertragsparteien umgehend Verhandlungen über neue Ursprungsregeln für dieses Abkommen auf. Bis neue Regeln in Kraft treten, finden die im Übereinkommen enthaltenen Ursprungsregeln *mutatis mutandis* auf dieses Abkommen Anwendung, wobei die Kumulation ausschliesslich zwischen den Vertragsparteien zugelassen ist.
-
-[^8-1]: [SR 0.946.31](https://fedlex.data.admin.ch/eli/cc/2012/19)
+[^8-1]: Fassung gemäss Abk. vom 7. Juli 2022, von der Bundesversammlung genehmigt am 18. März 2021, in Kraft für die schweiz seit 1. Sept. 2023 ([AS 2023 577](https://fedlex.data.admin.ch/eli/oc/2023/577); [2021 644](https://fedlex.data.admin.ch/eli/oc/2021/644)Art. 1 Abs. 2 Bst. b Ziff. 3 ; [BBl 2021 344](https://fedlex.data.admin.ch/eli/fga/2021/344)).
 
 #### Art. 9
 
@@ -186,7 +183,7 @@ Dieses Kapitel gilt für die folgenden Erzeugnisse:
 
 <sup>2.</sup> Als Zoll und Abgabe gleicher Wirkung gilt jede Abgabe oder Gebühr jeglicher Art, einschliesslich jeglicher Art von Zusatzbesteuerung und Zusatzgebühr, die im Zusammenhang mit der Ein- oder Ausfuhr einer Ware erhoben wird, nicht jedoch eine Abgabe, die im Einklang mit den Artikeln III und VIII GATT 1994[^9-1] erhoben wird.
 
-[^9-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.1
+[^9-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.1
 
 #### Art. 10
 
@@ -209,9 +206,9 @@ Der Ausgangszoll, auf den die schrittweisen Senkungen nach diesem Abkommen anzuw
 
 **Mengenmässige Beschränkungen**
 
-Für die Rechte und Pflichten der Vertragsparteien in Bezug auf mengenmässige Beschränkungen findet Artikel XI GATT 1994[^11-1] Anwendung, der hiermit *mut**a**tis mutandis* zum Bestandteil dieses Abkommens erklärt wird.
+Für die Rechte und Pflichten der Vertragsparteien in Bezug auf mengenmässige Beschränkungen findet Artikel XI GATT 1994[^11-1] Anwendung, der hiermit *mutatis mutandis* zum Bestandteil dieses Abkommens erklärt wird.
 
-[^11-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.1
+[^11-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.1
 
 #### Art. 12
 
@@ -221,7 +218,7 @@ Für die Rechte und Pflichten der Vertragsparteien in Bezug auf mengenmässige B
 
 <sup>2.</sup> Exporteuren darf keine Rückerstattung von inländischen Steuern gewährt werden, die über den Betrag der indirekten Steuern hinausgeht, der auf den für die Ausfuhr in das Hoheitsgebiet einer Vertragspartei bestimmten Waren erhoben wird.
 
-[^12-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.1
+[^12-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.1
 
 #### Art. 13
 
@@ -231,7 +228,7 @@ Für die Rechte und Pflichten der Vertragsparteien in Bezug auf mengenmässige B
 
 <sup>2.</sup> Die Vertragsparteien tauschen Namen und Adressen von Kontaktstellen mit gesundheitspolizeilichen und pflanzenschutzrechtlichen Fachkenntnissen aus, um die Kommunikation und den Informationsaustausch zu erleichtern.
 
-[^13-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117),Anhang 1A.4
+[^13-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235),Anhang 1A.4
 
 #### Art. 14
 
@@ -241,7 +238,7 @@ Für die Rechte und Pflichten der Vertragsparteien in Bezug auf mengenmässige B
 
 <sup>2.</sup> Die Vertragsparteien verstärken ihre Zusammenarbeit auf dem Gebiet der technischen Vorschriften, der Normen und der Konformitätsbewertung, um das gegenseitige Verständnis ihrer jeweiligen Systeme zu verbessern und den Zugang zu ihren jeweiligen Märkten zu erleichtern.
 
-[^14-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.6
+[^14-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.6
 
 #### Art. 15
 
@@ -267,8 +264,8 @@ Zur Erleichterung des Handels zwischen den EFTA-Staaten und Bosnien und Herzegow
 
 Für die Rechte und Pflichten der Vertragsparteien in Bezug auf staatliche Handelsunternehmen finden Artikel XVII GATT 1994[^17-1] und die Vereinbarung zur Auslegung des Artikels XVII des Allgemeinen Zoll- und Handelsabkommens 1994[^17-2] Anwendung, die hiermit *mutatis mutandis* zu Bestandteilen dieses Abkommens erklärt werden.
 
-[^17-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.1
-[^17-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.1.b
+[^17-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.1
+[^17-2]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.1.b
 
 #### Art. 18
 
@@ -297,8 +294,8 @@ Soweit sie geeignet sind, den Handel zwischen einem EFTA-Staat und Bosnien und H
 
 <sup>3.</sup> Falls die Situation durch die Konsultationen nach Absatz 2 nicht bereinigt wird, kann die Vertragspartei, die eine Untersuchung einleiten will, in Übereinstimmung mit den Bestimmungen von Absatz 1 verfahren.
 
-[^19-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.1
-[^19-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.13
+[^19-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.1
+[^19-2]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.13
 
 #### Art. 20
 
@@ -310,8 +307,8 @@ Soweit sie geeignet sind, den Handel zwischen einem EFTA-Staat und Bosnien und H
 
 <sup>3.</sup> Vier Jahre nach Inkrafttreten dieses Abkommens können die Vertragsparteien im Gemischten Ausschuss das Funktionieren der Absätze 1 und 2 dieses Artikels überprüfen. Danach können die Vertragsparteien im Gemischten Ausschuss alle zwei Jahre Überprüfungen dieser Angelegenheit durchführen.
 
-[^20-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.1
-[^20-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.8
+[^20-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.1
+[^20-2]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.8
 
 #### Art. 21
 
@@ -319,8 +316,8 @@ Soweit sie geeignet sind, den Handel zwischen einem EFTA-Staat und Bosnien und H
 
 Die Rechte und Pflichten der Vertragsparteien in Bezug auf allgemeine Schutzmassnahmen richten sich nach Artikel XIX GATT 1994[^21-1] und nach dem WTO-Übereinkommen über Schutzmassnahmen[^21-2]. Ergreift eine Vertragspartei allgemeine Schutzmassnahmen, so erstreckt sie diese nicht auf Einfuhren von Ursprungserzeugnissen aus einer oder mehreren Vertragsparteien, falls solche Einfuhren nicht allein für sich selber einen ernsthaften Schaden verursachen oder zu verursachen drohen. Die Vertragspartei, die die Massnahme ergreift, weist nach, dass ein solcher Ausschluss im Einklang mit den WTO-Regeln und der diesbezüglichen Praxis steht.
 
-[^21-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.1
-[^21-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.14
+[^21-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.1
+[^21-2]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.14
 
 #### Art. 22
 
@@ -356,7 +353,7 @@ Sind die Bedingungen von Absatz 1 erfüllt, so kann die einführende Vertragspar
 
 <sup>10.</sup> Fünf Jahre nach Inkrafttreten dieses Abkommens überprüfen die Vertragsparteien im Gemischten Ausschuss, ob die Beibehaltung der Möglichkeit, zwischen ihnen bilateral Schutzmassnahmen zu ergreifen, erforderlich ist. Beschliessen die Vertragsparteien nach der ersten Überprüfung die Beibehaltung dieser Möglichkeit, unterziehen sie danach alle zwei Jahre diese Frage im Gemischten Ausschuss einer Überprüfung.
 
-[^22-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.14
+[^22-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.14
 
 #### Art. 23
 
@@ -381,7 +378,7 @@ Führt die Einhaltung der Bestimmungen dieses Kapitels:
 
 Für die Rechte und Pflichten der Vertragsparteien nach diesem Kapitel finden bezüglich der allgemeinen Ausnahmen und der Ausnahmen zur Wahrung der Sicherheit die Artikel XX und XXI GATT 1994[^24-1] Anwendung, die hiermit *mutatis mutandis* zu Bestandteilen dieses Abkommens erklärt werden.
 
-[^24-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.1
+[^24-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.1
 
 ## 3. Kapitel Schutz des geistigen Eigentums
 
@@ -397,7 +394,7 @@ Für die Rechte und Pflichten der Vertragsparteien nach diesem Kapitel finden be
 
 <sup>4.</sup> Die Vertragsparteien vereinbaren, auf Ersuchen einer Vertragspartei die Bestimmungen über den Schutz der Rechte an geistigem Eigentum in diesem Artikel und in Anhang VII zu überprüfen, um das Schutzniveau weiter zu verbessern und um Handelsverzerrungen, die sich aus dem gegenwärtigen Umfang des Schutzes der Rechte an geistigem Eigentum ergeben, zu vermeiden oder zu beseitigen.
 
-[^25-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1C
+[^25-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1C
 
 ## 4. Kapitel Investitionen, Dienstleistungen und öffentliches Beschaffungswesen
 
@@ -431,7 +428,7 @@ Die Vertragsparteien anerkennen die Bedeutung der Förderung von Investitions- u
 
 <sup>3.</sup> Die Vertragsparteien verpflichten sich, die Absätze 1 und 2 laufend zu überprüfen, um in Übereinstimmung mit Artikel V GATS ein Abkommen zur Liberalisierung des Dienstleistungshandels zwischen ihnen zu schaffen.
 
-[^27-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1.B
+[^27-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1B
 
 #### Art. 28
 
@@ -465,17 +462,17 @@ Unter Vorbehalt der Bestimmungen von Artikel 31 verpflichten sich die Vertragspa
 
 Bei bestehenden oder drohenden schwerwiegenden Zahlungsschwierigkeiten kann der betreffende EFTA-Staat oder Bosnien und Herzegowina in Übereinstimmung mit den Bedingungen nach GATT 1994[^31-1] und GATS[^31-2] sowie den Artikeln des Übereinkommens über den Internationalen Währungsfonds[^31-3] Beschränkungen für laufende Zahlungen und den Zahlungsverkehr erlassen, sofern solche Massnahmen unbedingt erforderlich sind. Die Massnahmen werden vorübergehend, gerecht und nichtdiskriminierend angewendet. Der betreffende EFTA-Staat oder gegebenenfalls Bosnien und Herzegowina informiert die anderen Vertragsparteien unverzüglich über solche Massnahmen und unterbreitet so schnell wie möglich einen Zeitplan für deren Beseitigung.
 
-[^31-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.1
-[^31-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1.B
-[^31-3]: [SR 0.979.1](https://fedlex.data.admin.ch/eli/cc/1992/2571_2571_2571)
+[^31-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.1
+[^31-2]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1B
+[^31-3]: [SR 0.979.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4695)
 
 #### Art. 32
 
 **Ausnahmen**
 
-Für die Rechte und Pflichten der Vertragsparteien nach diesem Kapitel finden bezüglich der allgemeinen Ausnahmen und der Ausnahmen zur Wahrung der Sicherheit *mutatis mutandis* Artikel 24 dieses Abkommens sowie Artikel XIV Buchstaben a) bis c) und Artikel XIV<sup>bis</sup> Absatz 1 GATS[^32-1] Anwendung, die hiermit *mut**a**tis mutandis* zu Bestandteilen dieses Abkommens erklärt werden.
+Für die Rechte und Pflichten der Vertragsparteien nach diesem Kapitel finden bezüglich der allgemeinen Ausnahmen und der Ausnahmen zur Wahrung der Sicherheit *mutatis mutandis* Artikel 24 dieses Abkommens sowie Artikel XIV Buchstaben a) bis c) und Artikel XIV<sup>bis</sup> Absatz 1 GATS[^32-1] Anwendung, die hiermit *mutatis mutandis* zu Bestandteilen dieses Abkommens erklärt werden.
 
-[^32-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1.B
+[^32-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1B
 
 ## 6. Kapitel Handel und nachhaltige Entwicklung
 
@@ -537,7 +534,7 @@ Die Vertragsparteien erinnern an die sich aus der Mitgliedschaft in der IAO[^37-
 
 <sup>4.</sup> Die Verletzung von grundlegenden Prinzipien und Rechten bei der Arbeit wird nicht als legitimer Wettbewerbsvorteil geltend gemacht oder sonst zu diesem Zweck verwendet. Arbeitsstandards dürfen nicht für handelsprotektionistische Zwecke verwendet werden.
 
-[^37-1]: [SR 0.820.1](https://fedlex.data.admin.ch/eli/cc/1948/915_891_861)
+[^37-1]: [SR 0.820.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3596)
 
 #### Art. 38
 
@@ -653,8 +650,8 @@ Der Gemischte Ausschuss:
 <sup>11.</sup> Streitigkeiten in derselben Angelegenheit, die sich nach diesem Abkommen und dem WTO-Abkommen ergeben, können nach freier Wahl der beschwerdeführenden Vertragspartei im einen oder anderen Forum beigelegt werden. Die Wahl des einen Forums schliesst die Benutzung des anderen Forums aus. Für den Zweck dieses Absatzes gelten Streitbeilegungsverfahren nach dem WTO-Abkommen oder diesem Abkommen als eingeleitet, wenn eine Vertragspartei die Einsetzung eines Schiedsgerichts beantragt. Bevor eine Vertragspartei ein Streitbeilegungsverfahren nach der WTO-Vereinbarung über Regeln und Verfahren für die Streitbeilegung[^45-3] gegen eine andere Vertragspartei in einer Angelegenheit einleitet, die unter dieses Abkommen und das WTO-Abkommen fällt, unterrichtet sie alle anderen Vertragsparteien über ihre Absicht.
 
 [^45-1]: Für den Zweck dieses Kapitels werden die Begriffe «Vertragspartei» und «Streitpartei» unabhängig davon verwendet, ob an der Streitigkeit zwei oder mehr Vertragsparteien beteiligt sind.
-[^45-2]: [SR 0.193.212](https://fedlex.data.admin.ch/eli/cc/26/305_271_293)
-[^45-3]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 2
+[^45-2]: [SR 0.193.212](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/756)
+[^45-3]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 2
 
 #### Art. 46
 
@@ -714,7 +711,7 @@ Die Vertragsparteien überprüfen dieses Abkommen im Hinblick auf die weiteren E
 
 <sup>3.</sup> Jeder EFTA-Staat, der vom Übereinkommen zur Errichtung der Europäischen Freihandelsassoziation[^52-1] zurücktritt, hört am Tag, an dem sein Rücktrittwirksam wird, *ipso facto* auf, Vertragspartei dieses Abkommens zu sein.
 
-[^52-1]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^52-1]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 #### Art. 53
 
@@ -774,7 +771,7 @@ Inhaltsverzeichnis
 
 - Art. 25 Schutz des geistigen Eigentums
 
-**4. Kapitel: Investitionen, Dienstleistungen und öffentliches Beschaffungsw****e****sen**
+**4. Kapitel: Investitionen, Dienstleistungen und öffentliches Beschaffungswesen**
 
 - Art. 26 Investitionen
 - Art. 27 Dienstleistungshandel
@@ -821,7 +818,7 @@ Inhaltsverzeichnis
 - Art. 53 Inkrafttreten
 - Art. 54 Depositar
 
-## Liste der Anhänge****
+## Liste der Anhänge
 
 [^annexu1-lvlu2-1]
 
@@ -838,6 +835,7 @@ Inhaltsverzeichnis
 <tr><td>Annex VI</td><td colspan="3">Referred to in Article 16 – Mandate of the Sub-Committee on Rules of Origin, Customs Procedures and Trade Facilitation</td></tr>
 <tr><td>Annex VII</td><td colspan="3">Referred to in Article 25 – Protection of Intellectual Property</td></tr>
 <tr><td>Annex VIII</td><td colspan="3">Transitional Arrangement</td></tr>
+<tr><td>Annex IX</td><td colspan="3">Bestimmung des Begriffs «Erzeugnisse mit Ursprung in» oder «Ursprungserzeugnisse» und Methoden der Zusammenarbeit der Verwaltungen</td></tr>
 <tr><td>Protocol on Rules of Origin</td><td colspan="3">Referred to in Article 8 – Definition of the Concept of «Originating Products» and Methods of Administrative Cooperation</td></tr>
 <tr><td></td><td colspan="2">Appendix 1 to the Protocol on Rules of Origin</td><td>Introductory Notes to the List in Appendix 2</td></tr>
 <tr><td></td><td colspan="2">Appendix 2 to the Protocol on Rules of Origin</td><td>List of working or processing required to be carried out on non-originating materials in order that the product manufactured can obtain originating status</td></tr>

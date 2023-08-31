@@ -3,40 +3,33 @@ sr: "0.632.311.911"
 title: "Accord de libre-échange du 24 juin 2013 entre les États de l'AELE et la Bosnie et Herzégovine (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/19"
 language: fr
-version: 2015-01-01
+version: 2023-09-01
 adopted: 2013-06-24
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/19/20150101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-19-20150101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/19/20150101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/19/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2015-19-20230901-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/19/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Accord de libre-échange entre les Etats de l’AELE et la Bosnie et Herzégovine****
+# Accord de libre-échange entre les États de l’AELE et la Bosnie et Herzégovine
 
 RO **2015** 85; FF **2014** 1137 1291[^t-1]
 
-Traduction*[^t-2]*
+Traduction
 
-Signé à Trondheim le 24 juin 2013
+Signé à Trondheim le 24 juin 2013 Approuvé par l’Assemblée fédérale le 17 mars 2014[^t-2] Instrument de ratification déposé par la Suisse le 7 avril 2014 Entré en vigueur pour la Suisse le 1<sup>er</sup> janvier 2015
 
-Approuvé par l’Assemblée fédérale le 17 mars 2014[^t-3]
+(État le 1<sup>er</sup> septembre 2023)
 
-Instrument de ratification déposé par la Suisse le 7 avril 2014
-
-Entré en vigueur pour la Suisse le 1<sup>er</sup> janvier 2015
-
-(Etat le 1<sup>er</sup> janvier 2015)
-
-[^t-1]: Les annexes à l’Ac. ne sont publiées ni au RO ni au RS. Elles peuvent être obtenues auprès de l’Office fédéral des constructions et de la logistique OFCL, Ventes des publications fédérales, 3003 Berne, et sont disponibles sur le site Internet du Secrétariat de l’AELE: www.efta.int/free-trade/free-trade-agreements.aspx
-[^t-2]: Traduction du texte original anglais.
-[^t-3]: Art. 1 al. 1 let. a de l’AF du 17 mars 2014 ([RO 2015 83](https://fedlex.data.admin.ch/eli/oc/2015/18)).
+[^t-1]: Les annexes à l’Ac. ne sont publiées ni au RO ni au RS. Elles peuvent être obtenues auprès de l’Office fédéral des constructions et de la logistique OFCL, Ventes des publications fédérales, 3003 Berne, et sont disponibles sur le site Internet du Secrétariat de l’AELE: [www.efta.int/free-trade/free-trade-agreements.aspx](https://www.efta.int/free-trade/free-trade-agreements.aspx)
+[^t-2]: Art. 1 al. 1 let. a de l’AF du 17 mars 2014 ([RO 2015 83](https://fedlex.data.admin.ch/eli/oc/2015/18)).
 
 *Préambule*
 
 L’Islande, la Principauté de Liechtenstein, le Royaume de Norvège et la Confédération suisse
 
-(ci-après dénommés «Etats de l’AELE»),
+(ci-après dénommés «États de l’AELE»),
 
 *d’une part,*
 
@@ -48,37 +41,37 @@ la Bosnie et Herzégovine,
 
 ci-après dénommés individuellement «Partie» ou collectivement «Parties»:
 
-reconnaissant leur vœu commun de renforcer les liens entre les Etats de l’AELE, d’une part, et la Bosnie et Herzégovine, d’autre part, en établissant des relations étroites et durables;
+reconnaissant leur vœu commun de renforcer les liens entre les États de l’AELE, d’une part, et la Bosnie et Herzégovine, d’autre part, en établissant des relations étroites et durables,
 
-rappelant leur intention de participer activement au processus euro-méditerranéen d’intégration économique et exprimant leur disposition à coopérer pour rechercher des voies et des moyens permettant de renforcer ce processus;
+rappelant leur intention de participer activement au processus euro-méditerranéen d’intégration économique et exprimant leur disposition à coopérer pour rechercher des voies et des moyens permettant de renforcer ce processus,
 
-réaffirmant leur attachement à la démocratie, à l’Etat de droit, au respect des droits de l’homme et des libertés fondamentales conformément à leurs obligations régies par le droit international, y compris la Charte des Nations Unies[^ingress-1] et la Déclaration universelle des droits de l’homme;
+réaffirmant leur attachement à la démocratie, à l’État de droit, au respect des droits de l’homme et des libertés fondamentales conformément à leurs obligations régies par le droit international, y compris la Charte des Nations Unies[^ingress-1] et la Déclaration universelle des droits de l’homme,
 
-désireux de créer des conditions favorables au développement et à la diversification des échanges commerciaux entre eux et à la promotion de leur coopération commerciale et économique dans des domaines d’intérêt commun, en se fondant sur l’égalité, le bénéfice mutuel, la non-discrimination et le droit international;
+désireux de créer des conditions favorables au développement et à la diversification des échanges commerciaux entre eux et à la promotion de leur coopération commerciale et économique dans des domaines d’intérêt commun, en se fondant sur l’égalité, le bénéfice mutuel, la non-discrimination et le droit international,
 
-déterminés à promouvoir et à poursuivre le renforcement du système commercial multilatéral en se fondant sur leurs droits et obligations respectifs découlant de l’Accord de Marrakech instituant l’Organisation mondiale du commerce[^ingress-2] (ci-après dénommé «Accord sur l’OMC») et sur les autres accords négociés dans ce cadre, contribuant ainsi à l’expansion et au développement harmonieux du commerce mondial;
+déterminés à promouvoir et à poursuivre le renforcement du système commercial multilatéral en se fondant sur leurs droits et obligations respectifs découlant de l’Accord de Marrakech instituant l’Organisation mondiale du commerce[^ingress-2] (ci-après dénommé «Accord sur l’OMC») et sur les autres accords négociés dans ce cadre, contribuant ainsi à l’expansion et au développement harmonieux du commerce mondial,
 
-réaffirmant leur attachement à atteindre l’objectif du développement durable et reconnaissant l’importance de la cohérence et du soutien réciproque des politiques commerciales, environnementales et du travail à cet égard;
+réaffirmant leur attachement à atteindre l’objectif du développement durable et reconnaissant l’importance de la cohérence et du soutien réciproque des politiques commerciales, environnementales et du travail à cet égard,
 
-rappelant leurs droits et obligations en vertu d’accords environnementaux multilatéraux auxquels ils sont parties, ainsi que le respect des principes et des droits fondamentaux du travail, y compris les principes inscrits dans les conventions afférentes de l’Organisation internationale du travail[^ingress-3] (ci-après dénommé «OIT») auxquelles ils sont parties;
+rappelant leurs droits et obligations en vertu d’accords environnementaux multilatéraux auxquels ils sont parties, ainsi que le respect des principes et des droits fondamentaux du travail, y compris les principes inscrits dans les conventions afférentes de l’Organisation internationale du travail[^ingress-3] (ci-après dénommé «OIT») auxquelles ils sont parties,
 
-désireux de créer de nouveaux emplois et d’améliorer le niveau de vie, ainsi qu’un haut niveau de protection de la santé, de la sécurité et de l’environnement;
+désireux de créer de nouveaux emplois et d’améliorer le niveau de vie, ainsi qu’un haut niveau de protection de la santé, de la sécurité et de l’environnement,
 
-déterminés à appliquer le présent Accord en vue de préserver et de protéger l’environnement par le biais d’une gestion environnementale judicieuse et de promouvoir une utilisation optimale des ressources mondiales conformément à l’objectif du développement durable;
+déterminés à appliquer le présent Accord en vue de préserver et de protéger l’environnement par le biais d’une gestion environnementale judicieuse et de promouvoir une utilisation optimale des ressources mondiales conformément à l’objectif du développement durable,
 
-affirmant leur attachement à prévenir et combattre la corruption dans les échanges et les investissements internationaux et à promouvoir les principes de transparence et de bonne gouvernance publique;
+affirmant leur attachement à prévenir et combattre la corruption dans les échanges et les investissements internationaux et à promouvoir les principes de transparence et de bonne gouvernance publique,
 
-reconnaissant l’importance de la gouvernance d’entreprise et de la responsabilité sociale des entreprises pour le développement durable et affirmant leur volonté d’encourager les entreprises à respecter les directives et principes internationalement reconnus en la matière, tels que les Principes directeurs de l’OCDE à l’intention des entreprises multinationales, les Principes de gouvernance d’entreprise de l’OCDE et le Pacte mondial des Nations Unies;
+reconnaissant l’importance de la gouvernance d’entreprise et de la responsabilité sociale des entreprises pour le développement durable et affirmant leur volonté d’encourager les entreprises à respecter les directives et principes internationalement reconnus en la matière, tels que les Principes directeurs de l’OCDE à l’intention des entreprises multinationales, les Principes de gouvernance d’entreprise de l’OCDE et le Pacte mondial des Nations Unies,
 
-déclarant leur volonté d’examiner la possibilité de développer et d’approfondir leurs relations économiques en vue de les étendre à des domaines non couverts par le présent Accord;
+déclarant leur volonté d’examiner la possibilité de développer et d’approfondir leurs relations économiques en vue de les étendre à des domaines non couverts par le présent Accord,
 
-convaincus que le présent Accord renforcera la compétitivité de leurs entreprises sur les marchés mondiaux et qu’il créera des conditions encourageant entre eux les relations dans les domaines de l’économie, du commerce et des investissements;
+convaincus que le présent Accord renforcera la compétitivité de leurs entreprises sur les marchés mondiaux et qu’il créera des conditions encourageant entre eux les relations dans les domaines de l’économie, du commerce et des investissements,
 
 ont décidé, dans l’intention d’atteindre les objectifs mentionnés ci-dessus, de conclure l’Accord suivant (ci-après dénommé «présent Accord»):
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
-[^ingress-3]: [RS 0.820.1](https://fedlex.data.admin.ch/eli/cc/1948/915_891_861)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
+[^ingress-3]: [RS 0.820.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3596)
 
 ## Chapitre 1 Dispositions générales
 
@@ -86,7 +79,7 @@ ont décidé, dans l’intention d’atteindre les objectifs mentionnés ci-dess
 
 **Objectifs**
 
-<sup>1.</sup> Les Etats de l’AELE et la Bosnie et Herzégovine établissent par le présent Accord et les accords complémentaires sur les échanges de produits agricoles, conclus simultanément entre chaque Etat de l’AELE et la Bosnie et Herzégovine, une zone de libre-échange en vue de stimuler la prospérité et le développement durable sur leurs territoires.
+<sup>1.</sup> Les États de l’AELE et la Bosnie et Herzégovine établissent par le présent Accord et les accords complémentaires sur les échanges de produits agricoles, conclus simultanément entre chaque État de l’AELE et la Bosnie et Herzégovine, une zone de libre-échange en vue de stimuler la prospérité et le développement durable sur leurs territoires.
 
 <sup>2.</sup>
 
@@ -99,17 +92,17 @@ Les objectifs du présent Accord, qui repose sur les relations commerciales entr
 - (e) développer les échanges commerciaux internationaux de manière à contribuer à la réalisation de l’objectif du développement durable et à garantir que cet objectif soit intégré dans les relations commerciales entre les Parties et qu’il s’y reflète; et
 - (f) contribuer ainsi à l’expansion et au développement harmonieux du commerce mondial.
 
-[^1-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.1
+[^1-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.1
 
 #### Art. 2
 
 **Relations commerciales régies par le présent Accord**
 
-<sup>1.</sup> Le présent Accord s’applique aux relations commerciales entre chacun des Etats de l’AELE, d’une part, et la Bosnie et Herzégovine, d’autre part, mais ne s’applique pas aux relations commerciales entre les différents Etats de l’AELE, sauf disposition contraire du présent Accord.
+<sup>1.</sup> Le présent Accord s’applique aux relations commerciales entre chacun des États de l’AELE, d’une part, et la Bosnie et Herzégovine, d’autre part, mais ne s’applique pas aux relations commerciales entre les différents États de l’AELE, sauf disposition contraire du présent Accord.
 
 <sup>2.</sup> En vertu de l’union douanière établie entre la Suisse et la Principauté de Liechtenstein par le traité du 29 mars 1923[^2-1], la Suisse représente la Principauté de Liechtenstein pour toutes les questions couvertes en la matière.
 
-[^2-1]: [RS 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
+[^2-1]: [RS 0.631.112.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2001)
 
 #### Art. 3
 
@@ -117,7 +110,7 @@ Les objectifs du présent Accord, qui repose sur les relations commerciales entr
 
 <sup>1.</sup> Les Parties confirment leurs droits et obligations prévus par l’Accord sur l’OMC, les autres accords négociés sous ses auspices auxquels elles sont parties et tout autre accord international auquel elles sont parties.
 
-<sup>2.</sup> Les dispositions du présent Accord sont sans préjudice de l’interprétation ou de l’application de droits ou d’obligations découlant d’autres accords internationaux relatifs aux investissements auxquels la Bosnie et Herzégovine et un ou plusieurs Etats de l’AELE sont parties.
+<sup>2.</sup> Les dispositions du présent Accord sont sans préjudice de l’interprétation ou de l’application de droits ou d’obligations découlant d’autres accords internationaux relatifs aux investissements auxquels la Bosnie et Herzégovine et un ou plusieurs États de l’AELE sont parties.
 
 <sup>3.</sup> Si une Partie estime que le maintien ou la constitution, par une autre Partie, d’une union douanière, d’une zone de libre-échange, d’un arrangement relatif au commerce frontalier ou d’un autre accord préférentiel porte atteinte au régime des relations commerciales instauré par le présent Accord, elle peut demander à engager des consultations avec la Partie en question. Cette dernière ménage une possibilité adéquate de mener des consultations avec la Partie requérante.
 
@@ -127,12 +120,14 @@ Les objectifs du présent Accord, qui repose sur les relations commerciales entr
 
 <sup>1.</sup>
 
-Sauf indication contraire spécifiée à l’art. 8, le présent Accord s’applique:
+À moins que l’Annexe IX prévoie des dispositions différentes, le présent Accord s’applique:
 
-- (a) au territoire terrestre, aux eaux intérieures, aux eaux territoriales de chaque Partie, ainsi qu’à son espace aérien territorial, conformément au droit international; et
-- (b) au-delà des eaux territoriales, en ce qui concerne les mesures prises par une Partie dans l’exercice de ses droits souverains ou de sa juridiction, conformément au droit international.
+- (a) au territoire terrestre, aux eaux intérieures, aux eaux territoriales de chaque Partie, ainsi qu’à son espace aérien territorial, conformément au droit international, et
+- (b) au-delà des eaux territoriales, en ce qui concerne les mesures prises par une Partie dans l’exercice de ses droits souverains ou de sa juridiction, conformément au droit international.[^4-1]
 
 <sup>2.</sup> Le présent Accord ne s’applique pas au territoire norvégien du Svalbard, sauf pour le commerce des marchandises.
+
+[^4-1]: Nouvelle teneur selon le Prot. du 7 juil. 2022, approuvé par l’Ass. féd. le 18 mars 2021, en vigueur pour la Suisse depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 577](https://fedlex.data.admin.ch/eli/oc/2023/577); [2021 644](https://fedlex.data.admin.ch/eli/oc/2021/644)art. 1, al. 2, let. b, n<sup>o</sup> 3; [FF 2021 344](https://fedlex.data.admin.ch/eli/fga/2021/344)).
 
 #### Art. 5
 
@@ -162,31 +157,27 @@ Le présent chapitre s’applique aux produits suivants:
 - (b) les produits agricoles transformés figurant à l’Annexe II, compte tenu des modalités particulières prévues par cette Annexe; et
 - (c) le poisson et les autres produits de la mer figurant à l’Annexe III.
 
-<sup>2.</sup> Chaque Etat de l’AELE a conclu bilatéralement avec la Bosnie et Herzégovine un accord sur le commerce des produits agricoles. Ces accords font partie des instruments établissant une zone de libre-échange entre les Etats de l’AELE et la Bosnie et Herzégovine.
+<sup>2.</sup> Chaque État de l’AELE a conclu bilatéralement avec la Bosnie et Herzégovine un accord sur le commerce des produits agricoles. Ces accords font partie des instruments établissant une zone de libre-échange entre les États de l’AELE et la Bosnie et Herzégovine.
 
-[^7-1]: [RS 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)
+[^7-1]: [RS 0.632.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2229)
 
 #### Art. 8
 
-**Règles d’origine et coopération administrative**
+**Règles d’origine et coopération administrative**[^8-1]
 
-<sup>1.</sup> Les dispositions relatives aux règles d’origine et aux méthodes de coopération administrative figurent dans le Protocole sur les règles d’origine.
+Les dispositions relatives aux règles d’origine et aux méthodes de coopération administrative figurent dans l’Annexe IX.
 
-<sup>2.</sup> A compter de la date d’entrée en vigueur, pour les Parties, de la Convention régionale sur les règles d’origine préférentielles paneuroméditerranéennes[^8-1] (ci-après dénommée «la Convention»), le Protocole sur les règles d’origine ne s’applique plus, et les droits et obligations des Parties relatifs aux règles d’origine et à la coopération administrative entre les autorités douanières des Parties sont régis par la Convention, sans préjudice de l’art. 16.
-
-<sup>3.</sup> Si une Partie dénonce la Convention, les Parties engagent immédiatement des négociations pour déterminer les nouvelles règles d’origine applicables au présent Accord. Jusqu’à l’entrée en vigueur de ces nouvelles règles, les règles d’origine prévues par la Convention s’appliquent *mutatis mutandis* au présent Accord, le cumul étant autorisé uniquement entre les Parties.
-
-[^8-1]: [RS 0.946.31](https://fedlex.data.admin.ch/eli/cc/2012/19)
+[^8-1]: Nouvelle teneur selon le Prot. du 7 juil. 2022, approuvé par l’Ass. féd. le 18 mars 2021, en vigueur pour la Suisse depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 577](https://fedlex.data.admin.ch/eli/oc/2023/577); [2021 644](https://fedlex.data.admin.ch/eli/oc/2021/644)art. 1, al. 2, let. b, n<sup>o</sup> 3; [FF 2021 344](https://fedlex.data.admin.ch/eli/fga/2021/344)).
 
 #### Art. 9
 
 **Droits de douane**
 
-<sup>1.</sup> Dès l’entrée en vigueur du présent Accord, les Parties abolissent tous les droits de douane et taxes d’effet équivalent aux droits de douane sur les importations et les exportations des produits originaires d’un Etat de l’AELE ou de la Bosnie et Herzégovine couverts par l’art. 7, al. 1, let. a, sauf disposition contraire figurant à l’Annexe IV du présent Accord. Elles ne mettent en place aucun nouveau droit de douane.
+<sup>1.</sup> Dès l’entrée en vigueur du présent Accord, les Parties abolissent tous les droits de douane et taxes d’effet équivalent aux droits de douane sur les importations et les exportations des produits originaires d’un État de l’AELE ou de la Bosnie et Herzégovine couverts par l’art. 7, al. 1, let. a, sauf disposition contraire figurant à l’Annexe IV du présent Accord. Elles ne mettent en place aucun nouveau droit de douane.
 
 <sup>2.</sup> Les droits de douane et taxes d’effet équivalent aux droits de douane comprennent tout droit ou taxe, quelle que soit sa nature, y compris toute forme de surtaxe ou de surcoût imposé en relation avec l’importation ou l’exportation d’un produit, à l’exception de taxes imposées conformément aux art. III et VIII du GATT 1994[^9-1].
 
-[^9-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.1
+[^9-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.1
 
 #### Art. 10
 
@@ -196,7 +187,7 @@ Le présent chapitre s’applique aux produits suivants:
 
 Les droits de base auxquels les réductions successives énoncées dans le présent Accord sont applicables sont:
 
-- (a) le taux de la nation la plus favorisée (taux NPF) appliqué par les Etats de l’AELE le 1<sup>er</sup> janvier 2011;
+- (a) le taux de la nation la plus favorisée (taux NPF) appliqué par les États de l’AELE le 1<sup>er</sup> janvier 2011;
 - (b) le tarif douanier consolidé appliqué par la Bosnie et Herzégovine en 2011[^10-1].
 
 <sup>2.</sup> Si, avant, lors de ou après l’entrée en vigueur du présent Accord, une réduction tarifaire quelle qu’elle soit est appliquée *erga omnes*, ces droits réduits se substituent aux droits de base mentionnés à l’al. 1 dès la date de leur application, ou à partir de l’entrée en vigueur du présent Accord, si celle-ci intervient ultérieurement.
@@ -211,7 +202,7 @@ Les droits de base auxquels les réductions successives énoncées dans le prés
 
 Les droits et obligations des Parties relatifs aux restrictions quantitatives sont régis par l’art. XI du GATT 1994[^11-1], qui est incorporé *mutatis mutandis* au présent Accord et en fait partie intégrante.
 
-[^11-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.1
+[^11-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.1
 
 #### Art. 12
 
@@ -221,7 +212,7 @@ Les droits et obligations des Parties relatifs aux restrictions quantitatives so
 
 <sup>2.</sup> Les exportateurs ne peuvent pas bénéficier, pour les produits exportés vers l’une des Parties, d’un remboursement des taxes intérieures supérieur au montant des impositions indirectes qui ont frappé ces produits.
 
-[^12-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.1
+[^12-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.1
 
 #### Art. 13
 
@@ -231,7 +222,7 @@ Les droits et obligations des Parties relatifs aux restrictions quantitatives so
 
 <sup>2.</sup> Les Parties échangent les noms et adresses de points de contact pour les affaires relevant du domaine sanitaire et phytosanitaire, afin de faciliter la communication et l’échange d’informations.
 
-[^13-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.4
+[^13-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.4
 
 #### Art. 14
 
@@ -241,13 +232,13 @@ Les droits et obligations des Parties relatifs aux restrictions quantitatives so
 
 <sup>2.</sup> Les Parties renforcent leur coopération en matière de réglementations techniques, de normes et de procédures d’évaluation de la conformité en vue d’accroître la compréhension mutuelle de leurs systèmes respectifs et de faciliter l’accès à leurs marchés respectifs.
 
-[^14-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.6
+[^14-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.6
 
 #### Art. 15
 
 **Facilitation des échanges**
 
-Conformément aux dispositions prévues à l’Annexe V visant à faciliter les échanges entre les Etats de l’AELE et la Bosnie et Herzégovine, les Parties:
+Conformément aux dispositions prévues à l’Annexe V visant à faciliter les échanges entre les États de l’AELE et la Bosnie et Herzégovine, les Parties:
 
 - (a) simplifient, dans toute la mesure possible, les procédures régissant le commerce des marchandises et des services qui leur sont liés;
 - (b) encouragent entre elles la coopération dans le but de renforcer leur participation au développement et à la mise en œuvre des conventions et des recommandations internationales en matière de facilitation des échanges; et
@@ -263,12 +254,12 @@ Conformément aux dispositions prévues à l’Annexe V visant à faciliter les 
 
 #### Art. 17
 
-**Entreprises commerciales d’Etat**
+**Entreprises commerciales d’État**
 
-Les droits et obligations des Parties relatifs aux entreprises commerciales d’Etat sont régis par l’art. XVII du GATT 1994[^17-1] et le Mémorandum d’accord sur l’interprétation de l’art. XVII du GATT 1994[^17-2], qui sont incorporés *mutatis muta**n**dis* au présent Accord et en font partie intégrante.
+Les droits et obligations des Parties relatifs aux entreprises commerciales d’État sont régis par l’art. XVII du GATT 1994[^17-1] et le Mémorandum d’accord sur l’interprétation de l’art. XVII du GATT 1994[^17-2], qui sont incorporés *mutatis mutandis* au présent Accord et en font partie intégrante.
 
-[^17-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.1
-[^17-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.1.b
+[^17-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.1
+[^17-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.1.b
 
 #### Art. 18
 
@@ -276,7 +267,7 @@ Les droits et obligations des Parties relatifs aux entreprises commerciales d’
 
 <sup>1.</sup>
 
-Sont incompatibles avec le bon fonctionnement du présent Accord, dans la mesure où ils sont susceptibles d’affecter les échanges entre un Etat de l’AELE et la Bosnie et Herzégovine:
+Sont incompatibles avec le bon fonctionnement du présent Accord, dans la mesure où ils sont susceptibles d’affecter les échanges entre un État de l’AELE et la Bosnie et Herzégovine:
 
 - (a) tous les accords entre entreprises, les décisions d’associations d’entreprises et les pratiques concertées entre entreprises qui ont pour objet ou pour effet de prévenir, de restreindre ou de fausser la concurrence; et
 - (b) l’exploitation abusive, par une ou plusieurs entreprises, d’une position dominante sur l’ensemble ou une partie substantielle du territoire d’une Partie.
@@ -293,12 +284,12 @@ Sont incompatibles avec le bon fonctionnement du présent Accord, dans la mesure
 
 <sup>1.</sup> Les droits et obligations des Parties relatifs aux subventions et aux mesures compensatoires sont régis par les art. VI et XVI du GATT 1994[^19-1] et par l’Accord de l’OMC sur les subventions et les mesures compensatoires[^19-2], sous réserve des dispositions prévues à l’al. 2.
 
-<sup>2.</sup> Avant qu’un Etat de l’AELE ou la Bosnie et Herzégovine, selon le cas, n’entame une enquête visant à déterminer l’existence, le degré et l’impact de toute subvention alléguée dans un Etat de l’AELE ou en Bosnie et Herzégovine, conformément à l’art. 11 de l’Accord de l’OMC sur les subventions et les mesures compensatoires, la Partie qui envisage une telle enquête le notifie par écrit à la Partie dont les marchandises sont soumises à l’enquête et elle ménage une période de 45 jours pour trouver une solution mutuellement acceptable. Les consultations ont lieu au sein du Comité mixte, si l’une des Parties en fait la demande dans un délai de 20 jours à compter de la réception de la notification.
+<sup>2.</sup> Avant qu’un État de l’AELE ou la Bosnie et Herzégovine, selon le cas, n’entame une enquête visant à déterminer l’existence, le degré et l’impact de toute subvention alléguée dans un État de l’AELE ou en Bosnie et Herzégovine, conformément à l’art. 11 de l’Accord de l’OMC sur les subventions et les mesures compensatoires, la Partie qui envisage une telle enquête le notifie par écrit à la Partie dont les marchandises sont soumises à l’enquête et elle ménage une période de 45 jours pour trouver une solution mutuellement acceptable. Les consultations ont lieu au sein du Comité mixte, si l’une des Parties en fait la demande dans un délai de 20 jours à compter de la réception de la notification.
 
 <sup>3.</sup> Si les consultations visées à l’al. 2 ne redressent pas la situation, la Partie envisageant l’ouverture d’une enquête peut procéder conformément aux dispositions de l’al. 1.
 
-[^19-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.1
-[^19-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.13
+[^19-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.1
+[^19-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.13
 
 #### Art. 20
 
@@ -310,8 +301,8 @@ Sont incompatibles avec le bon fonctionnement du présent Accord, dans la mesure
 
 <sup>3.</sup> Quatre ans après l’entrée en vigueur du présent Accord, les Parties peuvent réexaminer, au sein du Comité mixte, l’application des al. 1 et 2 du présent article. Elles pourront ensuite procéder à des réexamens bisannuels de ces éléments au sein du Comité mixte.
 
-[^20-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.1
-[^20-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.8
+[^20-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.1
+[^20-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.8
 
 #### Art. 21
 
@@ -319,8 +310,8 @@ Sont incompatibles avec le bon fonctionnement du présent Accord, dans la mesure
 
 Les droits et obligations des Parties relatifs aux mesures de sauvegarde générales sont régis par l’art. XIX du GATT 1994[^21-1] et par l’Accord de l’OMC sur les sauvegardes[^21-2]. Lorsqu’elle prend des mesures de sauvegarde générales, une Partie exclut les importations d’un produit originaire d’une ou plusieurs Parties lorsque ces importations, en elles-mêmes et à elles seules, ne causent pas ou ne menacent pas de causer un dommage grave. La Partie qui prend la mesure démontre qu’une telle exclusion est conforme aux règles et aux pratiques de l’OMC.
 
-[^21-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.1
-[^21-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.14
+[^21-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.1
+[^21-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.14
 
 #### Art. 22
 
@@ -336,7 +327,7 @@ Les droits et obligations des Parties relatifs aux mesures de sauvegarde génér
 
 Si les conditions visées à l’al. 1 sont remplies, la Partie importatrice peut adopter des mesures consistant à:
 
-- (a) suspendre l’abaissement du taux du droit de douane prévu par le présent Accord pour le produit; ou
+- (a) suspendre l’abaissement du taux du droit de douane prévu par le présent Accord pour le produit, ou
 - (b)
 
   relever le taux du droit de douane du produit à un niveau n’excédant pas la plus faible valeur entre:
@@ -348,7 +339,7 @@ Si les conditions visées à l’al. 1 sont remplies, la Partie importatrice peu
 
 <sup>6.</sup> Dans un délai de 30 jours à compter de la date de notification visée à l’al. 3, le Comité mixte examine l’information ainsi fournie, afin de faciliter une résolution mutuellement acceptable de l’affaire. En l’absence d’une telle résolution, la Partie importatrice peut adopter une mesure selon l’al. 4 pour remédier au problème. Lors du choix de la mesure de sauvegarde bilatérale, la priorité doit être accordée à la mesure perturbant le moins le fonctionnement du présent Accord. La mesure de sauvegarde bilatérale est immédiatement notifiée aux autres Parties et au Comité mixte. Elle fait l’objet de consultations périodiques par le Comité mixte, en particulier afin d’établir un calendrier de sa levée dès que les circonstances le permettent.
 
-<sup>7.</sup> A l’expiration de la mesure de sauvegarde bilatérale, le taux du droit de douane est le taux qui aurait été appliqué en l’absence de la mesure.
+<sup>7.</sup> À l’expiration de la mesure de sauvegarde bilatérale, le taux du droit de douane est le taux qui aurait été appliqué en l’absence de la mesure.
 
 <sup>8.</sup> Si les circonstances sont critiques et qu’un délai entraînerait un dommage difficile à réparer, une Partie peut prendre une mesure de sauvegarde bilatérale provisoire, suite à une preuve préliminaire claire démontrant que l’accroissement des importations constitue une cause substantielle de dommage grave ou de menace d’un tel dommage pour l’industrie domestique. La Partie qui entend prendre une telle mesure le notifie immédiatement par écrit aux autres Parties et au Comité mixte. Les procédures prévues aux al. 2 à 6 sont engagées dans un délai de 30 jours à compter de la date de cette notification.
 
@@ -356,7 +347,7 @@ Si les conditions visées à l’al. 1 sont remplies, la Partie importatrice peu
 
 <sup>10.</sup> Cinq ans après la date d’entrée en vigueur du présent Accord, les Parties réexaminent au sein du Comité mixte s’il est nécessaire de maintenir la possibilité de prendre des mesures de sauvegarde bilatérales entre elles. Si les Parties décident de maintenir une telle possibilité après ce premier réexamen, elles réexaminent la question par la suite à un rythme biennal au sein du Comité mixte.
 
-[^22-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.14
+[^22-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.14
 
 #### Art. 23
 
@@ -366,7 +357,7 @@ Si les conditions visées à l’al. 1 sont remplies, la Partie importatrice peu
 
 Lorsque l’application des dispositions du présent chapitre entraîne:
 
-- (a) une grave pénurie ou un risque de grave pénurie de denrées alimentaires ou d’autres produits de première nécessité pour la Partie exportatrice; ou
+- (a) une grave pénurie ou un risque de grave pénurie de denrées alimentaires ou d’autres produits de première nécessité pour la Partie exportatrice, ou
 - (b) la réexportation vers un pays tiers à l’encontre duquel la Partie exportatrice maintient, pour un produit, des restrictions quantitatives à l’exportation, des droits de douane à l’exportation ou des mesures ou taxes d’effet équivalent, et que cela cause, ou menace de causer, des difficultés considérables pour la Partie exportatrice,
 
 <sup>2.</sup> Avant de prendre une mesure visée à l’al. 1, la Partie envisageant de prendre une telle mesure fournit au Comité mixte toutes les informations pertinentes en vue de trouver une solution acceptable pour les Parties. Au sein du Comité mixte, les Parties peuvent convenir de tout moyen nécessaire pour résoudre les difficultés. En l’absence d’un accord dans les 30 jours suivant la notification de l’affaire au Comité mixte, la Partie exportatrice peut appliquer des mesures à l’exportation du produit en question en vertu du présent article.
@@ -381,7 +372,7 @@ Lorsque l’application des dispositions du présent chapitre entraîne:
 
 Les droits et obligations des Parties quant aux exceptions générales et aux exceptions concernant la sécurité relevant du présent chapitre sont régis par les art. XX et XXI du GATT 1994[^24-1], qui sont incorporés *mutatis mutandis* au présent Accord et en font partie intégrante.
 
-[^24-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.1
+[^24-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.1
 
 ## Chapitre 3 Protection de la propriété intellectuelle
 
@@ -393,11 +384,11 @@ Les droits et obligations des Parties quant aux exceptions générales et aux ex
 
 <sup>2.</sup> Les Parties accordent aux ressortissants des autres Parties un traitement non moins favorable que celui qu’elles accordent à leurs propres ressortissants. Les exceptions à cette obligation doivent être conformes aux dispositions matérielles des art. 3 et 5 de l’Accord de l’OMC du 15 avril 1994 sur les aspects des droits de propriété intellectuelle qui touchent au commerce[^25-1] (ci-après dénommé «Accord sur les ADPIC»).
 
-<sup>3.</sup> Les Parties accordent aux ressortissants des autres Parties un traitement non moins favorable que celui accordé aux ressortissants de tout autre Etat. Les exceptions à cette obligation doivent être conformes aux dispositions matérielles de l’Accord sur les ADPIC, en particulier aux art. 4 et 5.
+<sup>3.</sup> Les Parties accordent aux ressortissants des autres Parties un traitement non moins favorable que celui accordé aux ressortissants de tout autre État. Les exceptions à cette obligation doivent être conformes aux dispositions matérielles de l’Accord sur les ADPIC, en particulier aux art. 4 et 5.
 
 <sup>4.</sup> Les Parties conviennent, à la demande d’une Partie, de réexaminer les dispositions sur la protection des droits de propriété intellectuelle contenues dans le présent article et dans l’Annexe VII, en vue d’améliorer les niveaux de protection et d’éviter les distorsions commerciales causées par les niveaux actuels de protection des droits de propriété intellectuelle ou d’y remédier.
 
-[^25-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1C
+[^25-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1C
 
 ## Chapitre 4 Investissements, services et marchés publics
 
@@ -431,7 +422,7 @@ Les Parties reconnaissent l’importance de la promotion des flux d’investisse
 
 <sup>3.</sup> Les Parties s’engagent à maintenir les al. 1 et 2 à l’examen en vue d’établir un accord de libéralisation du commerce des services entre elles, conformément à l’art. V de l’AGCS.
 
-[^27-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1.B
+[^27-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1B
 
 #### Art. 28
 
@@ -457,25 +448,25 @@ Sous réserve des dispositions de l’art. 31, les Parties s’engagent à autor
 
 <sup>1.</sup> Sous réserve des dispositions de l’art. 31, les Parties veillent à ce que les capitaux destinés à des investissements effectués dans des entreprises créées conformément à leur législation respective, les revenus en découlant et les montants résultant de la liquidation des investissements soient librement transférables.
 
-<sup>2.</sup> Les Parties se consultent en vue de faciliter les mouvements de capitaux entre les Etats de l’AELE et la Bosnie et Herzégovine et de parvenir à leur libéralisation complète dès que les conditions sont réunies.
+<sup>2.</sup> Les Parties se consultent en vue de faciliter les mouvements de capitaux entre les États de l’AELE et la Bosnie et Herzégovine et de parvenir à leur libéralisation complète dès que les conditions sont réunies.
 
 #### Art. 31
 
 **Difficultés de balance des paiements**
 
-Si un Etat de l’AELE ou la Bosnie et Herzégovine rencontre de graves difficultés de balance des paiements ou y est exposé, l’Etat de l’AELE concerné ou la Bosnie et Herzégovine peut, conformément aux conditions prévues par le GATT 1994[^31-1], l’AGCS[^31-2] et les Statuts du Fonds monétaire international[^31-3], adopter des mesures commerciales restrictives concernant les transactions courantes et les mouvements de capitaux si celles-ci sont strictement nécessaires. Ces mesures sont limitées dans le temps et appliquées de manière équitable et non discriminatoire. L’Etat de l’AELE concerné ou la Bosnie et Herzégovine, selon le cas, en informe immédiatement les autres Parties et leur fournit dans les meilleurs délais un calendrier de la levée de ces mesures.
+Si un État de l’AELE ou la Bosnie et Herzégovine rencontre de graves difficultés de balance des paiements ou y est exposé, l’État de l’AELE concerné ou la Bosnie et Herzégovine peut, conformément aux conditions prévues par le GATT 1994[^31-1], l’AGCS[^31-2] et les Statuts du Fonds monétaire international[^31-3], adopter des mesures commerciales restrictives concernant les transactions courantes et les mouvements de capitaux si celles-ci sont strictement nécessaires. Ces mesures sont limitées dans le temps et appliquées de manière équitable et non discriminatoire. L’État de l’AELE concerné ou la Bosnie et Herzégovine, selon le cas, en informe immédiatement les autres Parties et leur fournit dans les meilleurs délais un calendrier de la levée de ces mesures.
 
-[^31-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.1
-[^31-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1.B
-[^31-3]: [RS 0.979.1](https://fedlex.data.admin.ch/eli/cc/1992/2571_2571_2571)
+[^31-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.1
+[^31-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1B
+[^31-3]: [RS 0.979.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4695)
 
 #### Art. 32
 
 **Exceptions**
 
-S’agissant des exceptions générales et des exceptions concernant la sécurité, les droits et obligations des Parties au titre du présent chapitre sont régis *mutatis* *muta**n**dis* par l’art. 24 du présent Accord, ainsi que par les art. XIV, let. a à c, et XIV*bis*, par. 1, de l’AGCS[^32-1], qui sont incorporés *mutatis mutandis* au présent Accord et en font partie intégrante.
+S’agissant des exceptions générales et des exceptions concernant la sécurité, les droits et obligations des Parties au titre du présent chapitre sont régis *mutatis* *mutandis* par l’art. 24 du présent Accord, ainsi que par les art. XIV, let. a à c, et XIV*bis*, par. 1, de l’AGCS[^32-1], qui sont incorporés *mutatis mutandis* au présent Accord et en font partie intégrante.
 
-[^32-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1.B
+[^32-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1B
 
 ## Chapitre 6 Commerce et développement durable
 
@@ -537,7 +528,7 @@ Les Parties rappellent leurs obligations découlant de leur qualité de membre d
 
 <sup>4.</sup> Le non-respect de principes et de droits fondamentaux au travail ne peut être avancé ou utilisé comme un avantage comparatif légitime. Les normes du travail ne peuvent pas être utilisées à des fins protectionnistes.
 
-[^37-1]: [RS 0.820.1](https://fedlex.data.admin.ch/eli/cc/1948/915_891_861)
+[^37-1]: [RS 0.820.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3596)
 
 #### Art. 38
 
@@ -592,7 +583,7 @@ Les Parties réexaminent périodiquement au sein du Comité mixte les progrès r
 Le Comité mixte:
 
 - (a) supervise et examine la mise en œuvre du présent Accord notamment par un réexamen complet de l’application de ses dispositions, en tenant dûment compte des procédures de réexamen spécifiques prévues par le présent Accord;
-- (b) continue d’examiner la possibilité d’éliminer les obstacles au commerce et autres mesures restrictives demeurant dans le commerce entre les Etats de l’AELE et la Bosnie et Herzégovine;
+- (b) continue d’examiner la possibilité d’éliminer les obstacles au commerce et autres mesures restrictives demeurant dans le commerce entre les États de l’AELE et la Bosnie et Herzégovine;
 - (c) supervise le développement du présent Accord;
 - (d) supervise le travail des sous-comités et des groupes de travail institués en vertu du présent Accord;
 - (e) œuvre à résoudre les différends pouvant survenir quant à l’interprétation ou à l’application du présent Accord; et
@@ -604,7 +595,7 @@ Le Comité mixte:
 
 <sup>5.</sup> Il prend ses décisions et formule ses recommandations par consensus.
 
-<sup>6.</sup> Il se réunit chaque fois que cela est nécessaire, par consentement mutuel, mais normalement tous les deux ans. Les réunions du Comité mixte sont présidées conjointement par l’un des Etats de l’AELE et par la Bosnie et Herzégovine. Le Comité mixte établit ses règles de procédure.
+<sup>6.</sup> Il se réunit chaque fois que cela est nécessaire, par consentement mutuel, mais normalement tous les deux ans. Les réunions du Comité mixte sont présidées conjointement par l’un des États de l’AELE et par la Bosnie et Herzégovine. Le Comité mixte établit ses règles de procédure.
 
 <sup>7.</sup> Une Partie peut demander en tout temps, par notification écrite adressé aux autres Parties, la tenue d’une réunion spéciale du Comité mixte. Une telle réunion a lieu dans les 30 jours à compter de la réception de la demande, à moins que les Parties n’en conviennent autrement.
 
@@ -636,7 +627,7 @@ Le Comité mixte:
 
 <sup>3.</sup> Une Partie qui n’est pas impliquée dans le différend est en droit, à condition d’en faire la demande par écrit aux Parties au différend, de soumettre des observations écrites au panel arbitral, de recevoir les communications écrites, y compris les annexes, de la part des Parties au différend, d’assister aux auditions et de s’exprimer par oral.
 
-<sup>4.</sup> Le panel arbitral se compose de trois membres, nommés conformément au Règlement facultatif de la Cour permanente d’arbitrage pour l’arbitrage des différends entre deux Etats[^45-2], entré en vigueur le 20 octobre 1992 (ci-après dénommé «Règlement facultatif»). Si un membre du panel arbitral ne participe pas à l’arbitrage, les autres membres sont libres de poursuivre l’arbitrage et de rendre toute décision, nonobstant l’absence du membre, à moins qu’une Partie au différend ne s’y oppose.
+<sup>4.</sup> Le panel arbitral se compose de trois membres, nommés conformément au Règlement facultatif de la Cour permanente d’arbitrage pour l’arbitrage des différends entre deux États[^45-2], entré en vigueur le 20 octobre 1992 (ci-après dénommé «Règlement facultatif»). Si un membre du panel arbitral ne participe pas à l’arbitrage, les autres membres sont libres de poursuivre l’arbitrage et de rendre toute décision, nonobstant l’absence du membre, à moins qu’une Partie au différend ne s’y oppose.
 
 <sup>5.</sup> Le panel arbitral examine l’affaire qui lui est soumise dans la demande de constitution d’un panel arbitral à la lumière des dispositions du présent Accord, appliquées et interprétées conformément aux règles d’interprétation du droit international public. La sentence du panel arbitral est définitive et contraignante pour les Parties au différend. Les sentences du panel arbitral sont rendues publiques, à moins que les Parties au différend n’en conviennent autrement.
 
@@ -648,13 +639,13 @@ Le Comité mixte:
 
 <sup>9.</sup> Les frais d’arbitrage, y compris la rémunération des membres du panel arbitral, sont supportés à parts égales par les Parties au différend. Chaque Partie supporte ses frais d’arbitrage, en particulier ceux relatifs à sa représentation, à ses témoins et experts, et aux déclarations qu’elle a soumises au panel arbitral.
 
-<sup>10.</sup> A moins qu’il ne soit spécifié autrement dans le présent Accord ou que les Parties au différend n’en conviennent différemment, le Règlement facultatif s’applique.
+<sup>10.</sup> À moins qu’il ne soit spécifié autrement dans le présent Accord ou que les Parties au différend n’en conviennent différemment, le Règlement facultatif s’applique.
 
 <sup>11.</sup> Les différends concernant la même affaire et relevant à la fois du présent Accord et de l’Accord sur l’OMC peuvent être réglés indifféremment dans le forum choisi par la Partie plaignante. Le forum choisi est employé à l’exclusion de l’autre. Aux fins du présent alinéa, une procédure de règlement des différends en vertu de l’Accord sur l’OMC ou du présent Accord est réputée engagée lors de la présentation, par une Partie, d’une demande de constitution d’un panel arbitral. Lorsqu’une Partie a l’intention d’engager, contre une autre Partie, une procédure de règlement des différends en vertu du Mémorandum d’accord de l’OMC sur les règles et procédures régissant le règlement des différends[^45-3] concernant une affaire qui relève à la fois du présent Accord et de l’Accord sur l’OMC, elle le notifie préalablement aux autres Parties.
 
 [^45-1]: Aux fins du présent chapitre, les termes «Partie» et «Partie au différend» sont utilisés que les Parties impliquées dans le différend soient deux ou plus.
-[^45-2]: [RS 0.193.212](https://fedlex.data.admin.ch/eli/cc/26/305_271_293)
-[^45-3]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 2
+[^45-2]: [RS 0.193.212](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/756)
+[^45-3]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 2
 
 #### Art. 46
 
@@ -692,7 +683,7 @@ Les Parties entreprennent de réexaminer le présent Accord à la lumière des d
 
 **Amendements**
 
-<sup>1.</sup> Les Parties peuvent convenir d’amender le présent Accord. Exception faite des amendements régis par l’art. 43, al. 8, les amendements au présent Accord sont soumis aux Parties pour ratification, acceptation ou approbation. A moins que les Parties n’en conviennent autrement, les amendements entrent en vigueur le premier jour du troisième mois suivant le dépôt du dernier instrument de ratification, d’acceptation ou d’approbation.
+<sup>1.</sup> Les Parties peuvent convenir d’amender le présent Accord. Exception faite des amendements régis par l’art. 43, al. 8, les amendements au présent Accord sont soumis aux Parties pour ratification, acceptation ou approbation. À moins que les Parties n’en conviennent autrement, les amendements entrent en vigueur le premier jour du troisième mois suivant le dépôt du dernier instrument de ratification, d’acceptation ou d’approbation.
 
 <sup>2.</sup> Le texte des amendements, de même que les instruments de ratification, d’acceptation ou d’approbation sont déposés auprès du Dépositaire.
 
@@ -700,9 +691,9 @@ Les Parties entreprennent de réexaminer le présent Accord à la lumière des d
 
 **Adhésion**
 
-<sup>1.</sup> Tout Etat qui devient membre de l’Association européenne de libre-échange peut adhérer au présent Accord, sous réserve que le Comité mixte approuve cette adhésion, aux termes et conditions à convenir par les Parties. L’instrument d’adhésion est déposé auprès du Dépositaire.
+<sup>1.</sup> Tout État qui devient membre de l’Association européenne de libre-échange peut adhérer au présent Accord, sous réserve que le Comité mixte approuve cette adhésion, aux termes et conditions à convenir par les Parties. L’instrument d’adhésion est déposé auprès du Dépositaire.
 
-<sup>2.</sup> A l’égard d’un Etat qui y adhère, le présent Accord entre en vigueur le premier jour du troisième mois suivant le dépôt de son instrument d’adhésion ou l’approbation des termes de son adhésion par les Parties existantes, si celle-ci intervient ultérieurement.
+<sup>2.</sup> À l’égard d’un État qui y adhère, le présent Accord entre en vigueur le premier jour du troisième mois suivant le dépôt de son instrument d’adhésion ou l’approbation des termes de son adhésion par les Parties existantes, si celle-ci intervient ultérieurement.
 
 #### Art. 52
 
@@ -712,9 +703,9 @@ Les Parties entreprennent de réexaminer le présent Accord à la lumière des d
 
 <sup>2.</sup> Si la Bosnie et Herzégovine se retire, le présent Accord prend fin au moment où ce retrait prend effet.
 
-<sup>3.</sup> Tout Etat de l’AELE qui se retire de la Convention instituant l’Association européenne de libre-échange[^52-1] cesse *ipso facto* d’être une Partie au présent Accord le jour même où ce retrait prend effet.
+<sup>3.</sup> Tout État de l’AELE qui se retire de la Convention instituant l’Association européenne de libre-échange[^52-1] cesse *ipso facto* d’être une Partie au présent Accord le jour même où ce retrait prend effet.
 
-[^52-1]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^52-1]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 #### Art. 53
 
@@ -722,11 +713,11 @@ Les Parties entreprennent de réexaminer le présent Accord à la lumière des d
 
 <sup>1.</sup> Le présent Accord est soumis à la ratification, à l’acceptation ou à l’approbation, conformément aux exigences constitutionnelles respectives des Parties. Les instruments de ratification, d’acceptation ou d’approbation sont déposés auprès du Dépositaire.
 
-<sup>2.</sup> Le présent Accord entre en vigueur, pour celles des Parties qui ont déposé leurs instruments de ratification, d’acceptation ou d’approbation auprès du Dépositaire, ou pour celles qui lui ont notifié l’application provisoire, le premier jour du troisième mois suivant le dépôt du dernier instrument de ratification, d’acceptation ou d’approbation, ou de la notification de l’application provisoire, à condition qu’au moins un Etat de l’AELE et la Bosnie et Herzégovine soient au nombre de ces Parties.
+<sup>2.</sup> Le présent Accord entre en vigueur, pour celles des Parties qui ont déposé leurs instruments de ratification, d’acceptation ou d’approbation auprès du Dépositaire, ou pour celles qui lui ont notifié l’application provisoire, le premier jour du troisième mois suivant le dépôt du dernier instrument de ratification, d’acceptation ou d’approbation, ou de la notification de l’application provisoire, à condition qu’au moins un État de l’AELE et la Bosnie et Herzégovine soient au nombre de ces Parties.
 
-<sup>3.</sup> Pour un Etat de l’AELE qui dépose son instrument de ratification, d’acceptation ou d’approbation après l’entrée en vigueur du présent Accord, celui-ci entre en vigueur le premier jour du troisième mois suivant le dépôt de son instrument de ratification, d’acceptation ou d’approbation.
+<sup>3.</sup> Pour un État de l’AELE qui dépose son instrument de ratification, d’acceptation ou d’approbation après l’entrée en vigueur du présent Accord, celui-ci entre en vigueur le premier jour du troisième mois suivant le dépôt de son instrument de ratification, d’acceptation ou d’approbation.
 
-<sup>4.</sup> Si ses exigences constitutionnelles le permettent, un Etat de l’AELE ou la Bosnie et Herzégovine peut appliquer le présent Accord provisoirement en attendant de le ratifier, de l’accepter ou de l’approuver. L’application provisoire du présent Accord est notifiée au Dépositaire.
+<sup>4.</sup> Si ses exigences constitutionnelles le permettent, un État de l’AELE ou la Bosnie et Herzégovine peut appliquer le présent Accord provisoirement en attendant de le ratifier, de l’accepter ou de l’approuver. L’application provisoire du présent Accord est notifiée au Dépositaire.
 
 #### Art. 54
 
@@ -761,7 +752,7 @@ Table des matières
 - Art. 14 Réglementations techniques
 - Art. 15 Facilitation des échanges
 - Art. 16 Sous-comité sur les règles d’origine, les procédures douanières et la facilitation des échanges
-- Art. 17 Entreprises commerciales d’Etat
+- Art. 17 Entreprises commerciales d’État
 - Art. 18 Règles de concurrence applicables aux entreprises
 - Art. 19 Subventions et mesures compensatoires
 - Art. 20 Mesures antidumping
@@ -821,11 +812,11 @@ Table des matières
 - Art. 53 Entrée en vigueur
 - Art. 54 Dépositaire
 
-## Liste des annexes****
+## Liste des annexes
 
 [^annexu1-lvlu2-1]
 
-[^annexu1-lvlu2-1]: Les annexes ne sont disponibles qu’en anglais et peuvent être consultées sur le site Internet de l’AELE, à l’adresse suivante: www.efta.int/free-trade/free-trade-agreements/bosnia-and-herzegovina.aspx
+[^annexu1-lvlu2-1]: Ces documents ne sont pas publiés au RO ([RO 2023 577](https://fedlex.data.admin.ch/eli/oc/2023/577)). Ils ne sont disponibles qu’en anglais et peuvent être consultées sur le site Internet de l’AELE, à l’adresse suivante: [www.efta.int](http://www.efta.int) &gt; Global Trade relations &gt; Free Trade Agreements &gt; Bosnia and Herzegovina
 
 <table>
 <tr><td>Annex I</td><td colspan="3">Referred to in Subparagraph 1 (a) of Article 7 – Excluded Products</td></tr>
@@ -838,6 +829,7 @@ Table des matières
 <tr><td>Annex VI</td><td colspan="3">Referred to in Article 16 – Mandate of the Sub-Committee on Rules of Origin, Customs Procedures and Trade Facilitation</td></tr>
 <tr><td>Annex VII</td><td colspan="3">Referred to in Article 25 – Protection of Intellectual Property</td></tr>
 <tr><td>Annex VIII</td><td colspan="3">Transitional Arrangement</td></tr>
+<tr><td>Annex IX</td><td colspan="3">Concerning the Definition of the Concept of “Originating Products” and Methods of Administrative Cooperation</td></tr>
 <tr><td>Protocol on Rules of Origin</td><td colspan="3">Referred to in Article 8 – Definition of the Concept of «Originating Products» and Methods of Administrative Cooperation</td></tr>
 <tr><td></td><td colspan="2">Appendix 1 to the Protocol on Rules of Origin</td><td>Introductory Notes to the List in Appendix 2</td></tr>
 <tr><td></td><td colspan="2">Appendix 2 to the Protocol on Rules of Origin</td><td>List of working or processing required to be carried out on non-originating materials in order that the product manufactured can obtain originating status</td></tr>
@@ -851,7 +843,7 @@ Table des matières
 Champ d’application le 10 décembre 2014
 
 <table>
-<tr><th>Etats parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Bosnie et Herzégovine</td><td>17 octobre</td><td>2014</td><td>1<sup>er</sup> janvier</td><td>2015</td></tr>
 <tr><td>Islande</td><td>7 juillet</td><td>2014</td><td>1<sup>er</sup> janvier</td><td>2015</td></tr>
 <tr><td>Liechtenstein</td><td>30 avril</td><td>2014</td><td>1<sup>er</sup> janvier</td><td>2015</td></tr>
