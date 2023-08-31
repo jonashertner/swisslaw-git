@@ -4,11 +4,11 @@ title: Loi fédérale du 18 décembre 1987 sur le droit international privé (LD
 short: LDIP
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776"
 language: fr
-version: 2022-07-01
+version: 2023-09-01
 adopted: 1987-12-18
 in_force: 1989-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20220701-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20230901-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20220701/fr"
 
 (LDIP)
 
-du 18 décembre 1987 (Etat le 1<sup>er</sup> juillet 2022)
+du 18 décembre 1987 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -826,7 +826,7 @@ Toutefois, la décision rendue dans un État dont aucun des époux ou seul l’�
 
 [^65-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
-## Chapitre 3*a***** Partenariat enregistré
+## Chapitre 3*a* Partenariat enregistré
 
 [^chap3a-1]
 
@@ -1035,7 +1035,7 @@ Les tribunaux suisses désignés aux art. 79 et 80 sont aussi compétents pour c
 
 <sup>2</sup> Les dispositions de la présente loi relatives au nom (art. 39), à la protection des mineurs (art. 85) et aux successions (art. 96) sont réservées.
 
-## Chapitre 5 Tutelle, protection de l’adulte et autres mesures protectrices****
+## Chapitre 5 Tutelle, protection de l’adulte et autres mesures protectrices
 
 [^chap5-1]
 
@@ -1292,7 +1292,7 @@ Les décisions étrangères en matière de droits réels mobiliers sont reconnue
 
 [^108-1]: Abrogée par l’art. 2 de l’AF du 3 oct. 2008 portant approbation et mise en œuvre de la Conv. de La Haye sur la loi applicable à certains droits sur des titres détenus auprès d’un intermédiaire, avec effet au 1<sup>er</sup> janv. 2010 ([RO 2009 6579](https://fedlex.data.admin.ch/eli/oc/2009/814); [FF 2006 8817](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
 
-## Chapitre 7*a***** Titres intermédiés
+## Chapitre 7*a* Titres intermédiés
 
 [^chap7a-1]
 
@@ -1598,22 +1598,23 @@ Les tribunaux suisses du domicile ou, à défaut de domicile, ceux de la réside
 
 <sup>1</sup> La compétence pour connaître des actions relatives à des accidents nucléaires est régie par la Convention du 29 juillet 1960 sur la responsabilité civile dans le domaine de l’énergie nucléaire amendée par le protocole additionnel du 28 janvier 1964, par le protocole du 16 novembre 1982 et par le protocole du 12 février 2004 (Convention de Paris)[^130-2].
 
-<sup>2</sup> Si les tribunaux suisses sont compétents aux termes de cette convention, l’action doit être intentée dans le canton sur le territoire duquel l’accident est survenu ou, si le lieu de l’accident se trouve en dehors du territoire des Etats parties à la convention ou ne peut être déterminé avec certitude, dans le canton sur le territoire duquel se trouve l’installation nucléaire de l’exploitant responsable. S’il existe plusieurs fors selon les règles qui précèdent, l’action doit être intentée dans le canton le plus étroitement lié à l’accident et le plus affecté par ses conséquences au sens de l’art. 13, par. (f), ch. (ii), de la Convention de Paris.
+<sup>2</sup> Si les tribunaux suisses sont compétents aux termes de cette convention, l’action doit être intentée dans le canton sur le territoire duquel l’accident est survenu ou, si le lieu de l’accident se trouve en dehors du territoire des États parties à la convention ou ne peut être déterminé avec certitude, dans le canton sur le territoire duquel se trouve l’installation nucléaire de l’exploitant responsable. S’il existe plusieurs fors selon les règles qui précèdent, l’action doit être intentée dans le canton le plus étroitement lié à l’accident et le plus affecté par ses conséquences au sens de l’art. 13, par. (f), ch. (ii), de la Convention de Paris.
 
-<sup>3</sup> Les règles de compétence prévues à l’al. 2 s’appliquent par analogie aux actions qui ne relèvent pas de la Convention de Paris. Dans un tel cas, si ni le lieu de l’accident ni l’installation nucléaire ne se situent en Suisse, l’action peut également être intentée dans le canton sur le territoire duquel le dommage est survenu. Si des dommages se sont produits dans différents cantons, le plus affecté par les conséquences de l’accident est compétent.
+<sup>3</sup> Les règles de compétence prévues à l’al. 2 s’appliquent par analogie aux actions qui ne relèvent pas de la Convention de Paris. Dans un tel cas, si ni le lieu de l’accident ni l’installation nucléaire ne se situent en Suisse, l’action peut également être intentée dans le canton sur le territoire duquel le dommage est survenu. Si des dommages se sont produits dans différents cantons, le plus affecté par les conséquences de l’accident est compétent.[^130-3]
 
 [^130-1]: Nouvelle teneur selon l’annexe ch. II 3 de la LF du 13 juin 2008 sur la responsabilité civile en matière nucléaire, en vigueur depuis le 1<sup>er</sup> janv. 2022, publiée le 27 janv. 2022 ([RO 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 5125](https://fedlex.data.admin.ch/eli/fga/2007/761)).
 [^130-2]: [RS 0.732.44](https://fedlex.data.admin.ch/eli/cc/2022/44)
+[^130-3]: Nouvelle teneur selon l’annexe 2 ch. 1 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
-### b. Droit d’accès à un fichier de données
+### b. Droit d’accès ou de consultation par rapport à un traitement de données personnelles
 
 #### Art. 130a
 
 [^130a-1]
 
-Les actions en exécution du droit d’accès dirigées contre le maître du fichier peuvent être intentées devant les tribunaux mentionnés à l’art. 129 ou devant les tribunaux suisses du lieu où le fichier est géré ou utilisé.
+Les actions en exécution du droit d’accès ou de consultation par rapport à un traitement de données personnelles peuvent être intentées devant les tribunaux mentionnés à l’art. 129.
 
-[^130a-1]: Introduit par l’annexe ch. II 3 de la LF du 13 juin 2008 sur la responsabilité civile en matière nucléaire, en vigueur depuis le 1<sup>er</sup> janv. 2022, publiée le 27 janv. 2022 ([RO 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 5125](https://fedlex.data.admin.ch/eli/fga/2007/761)).
+[^130a-1]: Introduit par l’annexe ch. II 3 de la LF du 13 juin 2008 sur la responsabilité civile en matière nucléaire ([RO 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 5125](https://fedlex.data.admin.ch/eli/fga/2007/761)). Nouvelle teneur selon l’annexe 2 ch. 1 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 3. Action directe contre l’assureur
 
@@ -1698,12 +1699,12 @@ Les prétentions résultant des immissions dommageables provenant d’un immeubl
 
 <sup>2</sup>
 
-Lorsque l’installation nucléaire de l’exploitant responsable se trouve dans un Etat membre de la Convention de Paris[^138a-2], le droit de cet Etat détermine:
+Lorsque l’installation nucléaire de l’exploitant responsable se trouve dans un État membre de la Convention de Paris[^138a-2], le droit de cet État détermine:
 
 - a. si le devoir de réparation des dommages nucléaires imposé à l’exploitant a un champ d’application plus large qu’indiqué à l’art. 2, par. (b), de la convention;
 - b. si et dans quelle mesure un dommage nucléaire fait l’objet d’une indemnité dans les cas visés à l’art. 9 de la convention.
 
-<sup>3</sup> L’al. 2 s’applique par analogie à l’exploitant d’une installation nucléaire se trouvant dans un Etat non membre de la Convention de Paris si cet Etat prévoit une réglementation au moins équivalente à l’égard de la Suisse.
+<sup>3</sup> L’al. 2 s’applique par analogie à l’exploitant d’une installation nucléaire se trouvant dans un État non membre de la Convention de Paris si cet État prévoit une réglementation au moins équivalente à l’égard de la Suisse.
 
 [^138a-1]: Introduit par l’annexe ch. II 3 de la LF du 13 juin 2008 sur la responsabilité civile en matière nucléaire, en vigueur depuis le 1<sup>er</sup> janv. 2022, publiée le 27 janv. 2022 ([RO 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 5125](https://fedlex.data.admin.ch/eli/fga/2007/761)).
 [^138a-2]: [RS 0.732.44](https://fedlex.data.admin.ch/eli/cc/2022/44)
@@ -1847,7 +1848,7 @@ Elles sont en outre reconnues:
 [^149-1]: Nouvelle teneur selon l’art. 3 ch. 3 de l’AF du 11 déc. 2009 (Approbation et mise en oeuvre de la Conv. de Lugano), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [FF 2009 1497](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 [^149-2]: Nouvelle teneur selon l’annexe ch. II 3 de la LF du 13 juin 2008 sur la responsabilité civile en matière nucléaire, en vigueur depuis le 1<sup>er</sup> janv. 2022, publiée le 27 janv. 2022 ([RO 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 5125](https://fedlex.data.admin.ch/eli/fga/2007/761)).
 
-## Chapitre 9*a***** Trusts
+## Chapitre 9*a* Trusts
 
 [^chap9a-1]
 

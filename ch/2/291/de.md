@@ -4,11 +4,11 @@ title: Bundesgesetz vom 18. Dezember 1987 über das Internationale Privatrecht (
 short: IPRG
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776"
 language: de
-version: 2022-07-01
+version: 2023-09-01
 adopted: 1987-12-18
 in_force: 1989-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20220701/de/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20220701-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20230901-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20220701/de"
 
 (IPRG)
 
-vom 18. Dezember 1987 (Stand am 1. Juli 2022)
+vom 18. Dezember 1987 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -341,7 +341,7 @@ Die Staatsangehörigkeit einer natürlichen Person bestimmt sich nach dem Recht 
 <sup>3</sup> Ist dieses Gesetz auf Staatenlose oder Flüchtlinge anzuwenden, so gilt der Wohnsitz an Stelle der Staatsangehörigkeit.
 
 [^24-1]: [SR 0.142.40](https://fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150)
-[^24-2]: [[AS 1980 1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718); [1986 2062](https://fedlex.data.admin.ch/eli/oc/1986/2062_2062_2062); [1987 1674](https://fedlex.data.admin.ch/eli/oc/1987/1674_1674_1674); [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938), [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 3 Abs. 1; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)Ziff. I 8.1, [2876](https://fedlex.data.admin.ch/eli/oc/1994/2876_2876_2876), [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146)Ziff. II 1, [4356](https://fedlex.data.admin.ch/eli/oc/1995/4356_4356_4356); [1997 2372](https://fedlex.data.admin.ch/eli/oc/1997/2372_2372_2372), [2394](https://fedlex.data.admin.ch/eli/oc/1997/2394_2394_2394); [1998 1582](https://fedlex.data.admin.ch/eli/oc/1998/1582_1582_1582). [AS 1999 2262](https://fedlex.data.admin.ch/eli/oc/1999/358)Art. 120 Bst. a]. Heute: BG vom 26. Juni 1998 ([SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)).
+[^24-2]: [[AS 1980 1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718); [1986 2062](https://fedlex.data.admin.ch/eli/oc/1986/2062_2062_2062); [1987 1674](https://fedlex.data.admin.ch/eli/oc/1987/1674_1674_1674); [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938), [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 3 Abs. 1; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)Ziff. I 8.1, [2876](https://fedlex.data.admin.ch/eli/oc/1994/2876_2876_2876); [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146)Ziff. II 1, [4356](https://fedlex.data.admin.ch/eli/oc/1995/4356_4356_4356); [1997 2372](https://fedlex.data.admin.ch/eli/oc/1997/2372_2372_2372), [2394](https://fedlex.data.admin.ch/eli/oc/1997/2394_2394_2394); [1998 1582](https://fedlex.data.admin.ch/eli/oc/1998/1582_1582_1582). [AS 1999 2262](https://fedlex.data.admin.ch/eli/oc/1999/358)Art. 120 Bst. a]. Heute: BG vom 26. Juni 1998 ([SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)).
 
 ### 5. Abschnitt: Anerkennung und Vollstreckung ausländischer Entscheidungen
 
@@ -559,8 +559,8 @@ Die Eheschliessung in der Schweiz untersteht schweizerischem Recht.
 
 <sup>3</sup> …[^45-2]
 
-[^45-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); BBl **201****9** 8595; **2020** 1273).
-[^45-2]: Eingefügt durch Anhang Ziff. 17 des Partnerschaftsgesetzes vom 18. Juni 2004 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)). Aufgehoben durch Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), mit Wirkung seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); BBl **20****19** 8595; **2020** 1273).
+[^45-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^45-2]: Eingefügt durch Anhang Ziff. 17 des Partnerschaftsgesetzes vom 18. Juni 2004 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)). Aufgehoben durch Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), mit Wirkung seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### IV. Ungültigerklärung der Ehe
 
@@ -827,7 +827,7 @@ Ist jedoch die Entscheidung in einem Staat ergangen, dem kein oder nur der klage
 
 [^65-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
-## 3*a*. Kapitel:**** Eingetragene Partnerschaft****
+## 3*a*. Kapitel: Eingetragene Partnerschaft
 
 [^chap3a-1][^chap3a-2]
 
@@ -1037,7 +1037,7 @@ Die nach Artikel 79 und 80 zuständigen schweizerischen Gerichte entscheiden ebe
 
 <sup>2</sup> Die Bestimmungen dieses Gesetzes über den Namen (Art. 39), den Schutz Minderjähriger (Art. 85) und das Erbrecht (Art. 96) sind vorbehalten.
 
-## 5. Kapitel: Vormundschaft, Erwachsenenschutz und andere Schutzmassnahmen****
+## 5. Kapitel: Vormundschaft, Erwachsenenschutz und andere Schutzmassnahmen
 
 [^chap5-1]
 
@@ -1293,7 +1293,7 @@ Ausländische Entscheidungen über dingliche Rechte an beweglichen Sachen werden
 
 [^108-1]: Aufgehoben durch Art. 2 des BB vom 3. Okt. 2008 über die Genehmigung und die Umsetzung des Übereinkommens über die auf bestimmte Rechte an intermediärverwahrten Wertpapieren anzuwendende Rechtsordnung, mit Wirkung seit 1. Jan. 2010 ([AS 2009 6579](https://fedlex.data.admin.ch/eli/oc/2009/814); [BBl 2006 9315](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
 
-## 7*a*. Kapitel:**** Intermediärverwahrte Wertpapiere
+## 7*a*. Kapitel: Intermediärverwahrte Wertpapiere
 
 [^chap7a-1]
 
@@ -1592,7 +1592,7 @@ Für Klagen aus ungerechtfertigter Bereicherung sind die schweizerischen Gericht
 <sup>2</sup> …[^129-2]
 
 [^129-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^129-2]: Aufgehoben durch Art. 3 Ziff. 3 des BB vom 11. Dez. 2009 (Genehmigung und Umsetzung des Lugano-Übereink.), mit Wirkung seit 1. Jan. 2011 (AS **2****010** 5601; [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
+[^129-2]: Aufgehoben durch Art. 3 Ziff. 3 des BB vom 11. Dez. 2009 (Genehmigung und Umsetzung des Lugano-Übereink.), mit Wirkung seit 1. Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 
 ### 2. Im Besonderen
 
@@ -1606,20 +1606,21 @@ Für Klagen aus ungerechtfertigter Bereicherung sind die schweizerischen Gericht
 
 <sup>2</sup> Sind nach diesem Übereinkommen die schweizerischen Gerichte zuständig, so ist die Klage in dem Kanton einzureichen, auf dessen Gebiet das Ereignis eingetreten ist, oder, wenn der Ort des Ereignisses ausserhalb der Hoheitsgebiete der Vertragsparteien liegt oder nicht mit Sicherheit bestimmt werden kann, in demjenigen Kanton, auf dessen Gebiet sich die Kernanlage des haftpflichtigen Inhabers befindet. Bestehen nach diesen Regeln mehrere Gerichtsstände, so ist die Klage in demjenigen Kanton einzureichen, der im Sinne von Artikel 13 Absatz (f) Ziffer (ii) des Übereinkommens die engste Verbindung zum Ereignis aufweist und am meisten von seinen Auswirkungen betroffen ist.
 
-<sup>3</sup> Die Zuständigkeitsordnung nach Absatz 2 gilt sinngemäss auch für Klagen aus nuklearen Ereignissen, auf die das Übereinkommen nicht anwendbar ist. Befinden sich bei einer solchen Klage weder der Ort des Ereignisses noch die Kernanlage in der Schweiz, so kann auch in demjenigen Kanton geklagt werden, auf dessen Gebiet der geltend gemachte Schaden eingetreten ist. Ist in mehreren Kantonen ein Schaden eingetreten, ist derjenige Kanton zuständig, der am meisten von den Auswirkungen des Ereignisses betroffen ist.
+<sup>3</sup> Die Zuständigkeitsordnung nach Absatz 2 gilt sinngemäss auch für Klagen aus nuklearen Ereignissen, auf die das Übereinkommen nicht anwendbar ist. Befinden sich bei einer solchen Klage weder der Ort des Ereignisses noch die Kernanlage in der Schweiz, so kann auch in demjenigen Kanton geklagt werden, auf dessen Gebiet der geltend gemachte Schaden eingetreten ist. Ist in mehreren Kantonen ein Schaden eingetreten, ist derjenige Kanton zuständig, der am meisten von den Auswirkungen des Ereignisses betroffen ist.[^130-3]
 
 [^130-1]: Fassung gemäss Anhang Ziff. II 3 des Kernenergiehaftpflichtgesetzes vom 13. Juni 2008, in Kraft seit 1. Jan. 2022, veröffentlicht am 27. Jan. 2022 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
 [^130-2]: [SR 0.732.44](https://fedlex.data.admin.ch/eli/cc/2022/44)
+[^130-3]: Fassung gemäss Anhang 2 Ziff. 1 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
-### b. Auskunftsrecht im Zusammenhang mit Datensammlungen
+### b. Auskunfts- und Einsichtsrechte im Zusammenhang mit Personendaten
 
 #### Art. 130a
 
 [^130a-1]
 
-Klagen zur Durchsetzung des Auskunftsrechts gegen den Inhaber einer Datensammlung können bei den in Artikel 129 genannten Gerichten oder bei den schweizerischen Gerichten am Ort, wo die Datensammlung geführt oder verwendet wird, eingereicht werden.
+Klagen zur Durchsetzung des Auskunfts- oder Einsichtsrechts im Zusammenhang mit der Bearbeitung von Personendaten können bei den in Artikel 129 genannten Gerichten eingereicht werden.
 
-[^130a-1]: Eingefügt durch Anhang Ziff. II 3 des Kernenergiehaftpflichtgesetzes vom 13. Juni 2008, in Kraft seit 1. Jan. 2022, veröffentlicht am 27. Jan. 2022 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
+[^130a-1]: Eingefügt durch Anhang Ziff. II 3 des Kernenergiehaftpflichtgesetzes vom 13. Juni 2008 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)). Fassung gemäss Anhang 2 Ziff. 1 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 3. Unmittelbares Forderungsrecht
 
@@ -1853,7 +1854,7 @@ Eine ausländische Entscheidung wird ferner anerkannt:
 [^149-1]: Fassung gemäss Art. 3 Ziff. 3 des BB vom 11. Dez. 2009 (Genehmigung und Umsetzung des Lugano-Übereink.), in Kraft seit 1. Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 [^149-2]: Fassung gemäss Anhang Ziff. II 3 des Kernenergiehaftpflichtgesetzes vom 13. Juni 2008, in Kraft seit 1. Jan. 2022, veröffentlicht am 27. Jan. 2022 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
 
-## 9*a.* Kapitel:**** Trusts
+## 9*a.* Kapitel: Trusts
 
 [^chap9a-1]
 
@@ -1865,7 +1866,7 @@ Eine ausländische Entscheidung wird ferner anerkannt:
 
 Als Trusts gelten rechtsgeschäftlich errichtete Trusts im Sinne des Haager Übereinkommens vom 1. Juli 1985[^149a-1] über das auf Trusts anzuwendende Recht und über ihre Anerkennung, unabhängig davon, ob sie im Sinne von Artikel 3 des Übereinkommens schriftlich nachgewiesen sind.
 
-[^149a-1]: SR **0****.****221.371**
+[^149a-1]: [SR 0.221.371](https://fedlex.data.admin.ch/eli/cc/2007/375)
 
 ### II. Zuständigkeit
 
@@ -2290,7 +2291,7 @@ Sobald die Anerkennung des ausländischen Konkursdekrets beantragt ist, kann das
 <sup>2</sup> Massgebend für die Berechnung der Fristen nach den Artikeln 285–288*a* und 292 SchKG ist der Zeitpunkt der ausländischen Konkurseröffnung.[^171-2]
 
 [^171-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^171-2]: Eingefügt durch Ziff. I des BG vom 16. März 2018, in Kraft seit 1. Jan. 2019 (AS **2****018** 3263; [BBl 2017 4125](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
+[^171-2]: Eingefügt durch Ziff. I des BG vom 16. März 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [BBl 2017 4125](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
 
 ### 3. Kollokationsplan
 

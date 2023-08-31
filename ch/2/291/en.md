@@ -4,11 +4,11 @@ title: Federal Act on Private International Law (PILA)
 short: PILA
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776"
 language: en
-version: 2022-07-01
+version: 2023-09-01
 adopted: 1987-12-18
 in_force: 1989-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20220701/en/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20220701-en-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20220701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20230901/en/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20230901-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20230901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (PILA)
 
-of 18 December 1987 (Status as of 1 July 2022)
+of 18 December 1987 (Status as of 1 September 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -829,7 +829,7 @@ However, a decree that was issued in a state of which neither spouse or only the
 
 [^65-1]: Amended by Annex No 2 of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
-## Chapter 3*a***** Registered Partnership****
+## Chapter 3*a* Registered Partnership
 
 [^chap3a-1][^chap3a-2]
 
@@ -1039,7 +1039,7 @@ The Swiss courts referred to in Articles 79 and 80 also have jurisdiction to hea
 
 <sup>2</sup> The provisions of this Act relating to the name (Art. 39), the protection of minors (Art. 85) and succession (Art. 96) are reserved.
 
-## Chapter 5 Guardianship, Protection of Adults and Other Protective Measures****
+## Chapter 5 Guardianship, Protection of Adults and Other Protective Measures
 
 [^chap5-1]
 
@@ -1295,7 +1295,7 @@ Foreign decisions on rights *in rem* in movable property are recognised in Switz
 
 [^108-1]: Repealed by Art. 2 of the FD of 3 Oct. 2008 on the Approval and Implementation of the Convention on the Law Applicable to Certain Rights in Respect of Securities held with an Intermediary, with effect from 1 Jan. 2010 ([AS 2009 6579](https://fedlex.data.admin.ch/eli/oc/2009/814); [BBl 2006 9315](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
 
-## Chapter 7*a***** Intermediated securities
+## Chapter 7*a* Intermediated securities
 
 [^chap7a-1]
 
@@ -1608,20 +1608,21 @@ The Swiss courts at the domicile or, in the absence of a domicile, at the habitu
 
 <sup>2</sup> If the Swiss courts have jurisdiction under this Convention, the action shall be brought in the canton in whose territory the incident occurred, or, where the place of the incident lies outside the sovereign territory of the contracting parties or cannot be determined with certainty, in the canton in whose territory the nuclear installation of the operator liable is located. If several courts have jurisdiction in accordance with these rules, the action shall be brought in the canton that in accordance with Article 13 paragraph (f) number (ii) of the Convention is most closely related to the incident and is the most affected by its effects.
 
-<sup>3</sup> The rules on jurisdiction in paragraph 2 also apply by analogy to actions arising from nuclear incidents to which the Convention does not apply. If in the case of such an action, neither the place of the incident nor that of the nuclear installation lies in Switzerland, the action may also be filed in the canton in whose territory the alleged damage occurred. If damage occurred in two or more cantons, the canton that is most affected by the incident shall have jurisdiction.
+<sup>3</sup> The rules on jurisdiction in paragraph 2 also apply by analogy to actions arising from nuclear incidents to which the Convention does not apply. If in the case of such an action, neither the place of the incident nor that of the nuclear installation lies in Switzerland, the action may also be filed in the canton in whose territory the alleged damage occurred. If damage occurred in two or more cantons, the canton that is most affected by the incident shall have jurisdiction.[^130-3]
 
 [^130-1]: Amended by Annex No II 3 of the Nuclear Energy Liability Act of 13 June 2008, in force since 1 Jan. 2022, published 27 Jan. 2022 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
 [^130-2]: [SR 0.732.44](https://fedlex.data.admin.ch/eli/cc/2022/44)
+[^130-3]: Amended by Annex 2 No 1 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
-### b. Right of access in connection with databases
+### b. Right to information or access in connection with personal data
 
 #### Art. 130a
 
 [^130a-1]
 
-Actions to enforce the right of access directed against the controller of a database may be brought before the courts mentioned in Article 129 or before the Swiss courts at the place where the database is managed or used.
+Actions to enforce the right to information or access in connection with the processing of personal data may be brought before the courts mentioned in Article 129.
 
-[^130a-1]: Inserted by Annex No II 3 of the Nuclear Energy Liability Act of 13 June 2008, in force since 1 Jan. 2022, published 27 Jan. 2022 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
+[^130a-1]: Inserted by Annex No II 3 of the Nuclear Energy Liability Act of 13 June 2008 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)). Amended by Annex 2 No 1 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 3. Direct action against an insurer
 
@@ -1855,7 +1856,7 @@ They are also recognised:
 [^149-1]: Amended by Art. 3 No 3 of the FD of 11 Dec. 2009 (Approval and Implementation of the Lugano Convention), in force since 1 Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 [^149-2]: Amended by Annex No II 3 of the Nuclear Energy Liability Act of 13 June 2008, in force since 1 Jan. 2022, published 27 Jan. 2022 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
 
-## Chapter 9*a***** Trusts
+## Chapter 9*a* Trusts
 
 [^chap9a-1]
 

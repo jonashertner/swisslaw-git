@@ -4,11 +4,11 @@ title: Legge federale del 18 dicembre 1987 sul diritto internazionale privato (L
 short: LDIP
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776"
 language: it
-version: 2022-07-01
+version: 2023-09-01
 adopted: 1987-12-18
 in_force: 1989-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20220701/it/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20220701-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20230901-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20220701/it"
 
 (LDIP)
 
-del 18 dicembre 1987 (Stato 1° luglio 2022)
+del 18 dicembre 1987 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -824,7 +824,7 @@ Tuttavia, la decisione pronunciata in uno Stato di cui nessuno dei coniugi o sol
 
 [^65-1]: Nuovo testo giusta l’all. n. 2 della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
-## Capitolo 3*a*:**** Unione domestica registrata
+## Capitolo 3*a*: Unione domestica registrata
 
 [^chap3a-1]
 
@@ -1033,7 +1033,7 @@ I tribunali svizzeri competenti giusta gli articoli 79 e 80 decidono parimente s
 
 <sup>2</sup> Sono fatte salve le disposizioni della presente legge concernenti il nome (art. 39), la protezione dei minori (art. 85) e il diritto successorio (art. 96).
 
-## Capitolo 5: Tutela, protezione degli adulti e altri provvedimenti protettivi****
+## Capitolo 5: Tutela, protezione degli adulti e altri provvedimenti protettivi
 
 [^chap5-1]
 
@@ -1290,7 +1290,7 @@ Le decisioni straniere concernenti diritti reali su cose mobili sono riconosciut
 
 [^108-1]: Abrogata dall’art. 2 del DF del 3 ott. 2008 che approva e traspone nel diritto svizzero la Conv. dell’Aia sulla L applicabile ad alcuni diritti su strumenti finanziari detenuti presso un intermediario, con effetto dal 1° gen. 2010 ([RU 2009 6579](https://fedlex.data.admin.ch/eli/oc/2009/814); [FF 2006 8533](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
 
-## Capitolo 7*a*:**** Strumenti finanziari detenuti presso un intermediario
+## Capitolo 7*a*: Strumenti finanziari detenuti presso un intermediario
 
 [^chap7a-1]
 
@@ -1598,20 +1598,21 @@ Per le azioni derivanti da indebito arricchimento sono competenti i tribunali sv
 
 <sup>2</sup> Se secondo la Convenzione di Parigi sono competenti i tribunali svizzeri, l’azione deve essere promossa nel Cantone in cui si è prodotto l’incidente oppure, se il luogo dell’incidente si trova fuori dal territorio delle Parti contraenti o non può essere determinato con certezza, nel Cantone in cui è situato l’impianto nucleare dell’esercente civilmente responsabile. Se risultano competenti più fori, l’azione deve essere promossa nel Cantone che presenta il legame più stretto con l’incidente e ne subisce maggiormente le conseguenze ai sensi dell’articolo 13 paragrafo (f) capoverso (ii) della Convenzione di Parigi.
 
-<sup>3</sup> L’ordinamento delle competenze di cui al capoverso 2 si applica per analogia anche alle azioni in materia di incidenti nucleari alle quali non è applicabile la Convenzione di Parigi. Se, in un siffatto caso, né il luogo del sinistro nucleare né l’impianto nucleare si trovano in Svizzera, l’azione può essere proposta nel Cantone in cui si è prodotto il danno. Se si sono prodotti danni in più di un Cantone, è competente il Cantone che subisce maggiormente le conseguenze dell’incidente.
+<sup>3</sup> L’ordinamento delle competenze di cui al capoverso 2 si applica per analogia anche alle azioni in materia di incidenti nucleari alle quali non è applicabile la Convenzione di Parigi. Se, in un siffatto caso, né il luogo del sinistro nucleare né l’impianto nucleare si trovano in Svizzera, l’azione può essere proposta nel Cantone in cui si è prodotto il danno. Se si sono prodotti danni in più di un Cantone, è competente il Cantone che subisce maggiormente le conseguenze dell’incidente.[^130-3]
 
 [^130-1]: Nuovo testo giusta l’all. n. II 3 della LF del 13 giu. 2008 sulla responsabilità civile in materia nucleare, in vigore dal 1° gen. 2022, pubblicato il 27 gen. 2022 ([RU 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 4957](https://fedlex.data.admin.ch/eli/fga/2007/761)).
 [^130-2]: [RS 0.732.44](https://fedlex.data.admin.ch/eli/cc/2022/44)
+[^130-3]: Nuovo testo giusta l’all. 2 n. 1 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
-### b. Diritto d’accesso in relazione a collezioni di dati
+### b. Diritto d’accesso e di consultazione in relazione al trattamento di dati personali
 
 #### Art. 130a
 
 [^130a-1]
 
-Per le azioni intese a dare esecuzione al diritto d’accesso nei confronti del titolare di una collezione di dati sono competenti i tribunali menzionati nell’articolo 129 oppure i tribunali svizzeri del luogo nel quale la collezione di dati è gestita o utilizzata.
+Per le azioni intese a dare esecuzione al diritto d’accesso o di consultazione in relazione al trattamento di dati personali sono competenti i tribunali menzionati nell’articolo 129.
 
-[^130a-1]: Introdotto dall’all. n. II 3 della LF del 13 giu. 2008 sulla responsabilità civile in materia nucleare, in vigore dal 1° gen. 2022, pubblicato il 27 gen. 2022 ([RU 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 4957](https://fedlex.data.admin.ch/eli/fga/2007/761)).
+[^130a-1]: Introdotto dall’all. n. II 3 della LF del 13 giu. 2008 sulla responsabilità civile in materia nucleare ([RU 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 4957](https://fedlex.data.admin.ch/eli/fga/2007/761)). Nuovo testo giusta l’all. 2 n. 1 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 3. Diritto di credito diretto
 
@@ -1845,7 +1846,7 @@ La decisione straniera è inoltre riconosciuta se:
 [^149-1]: Nuovo testo giusta l’art. 3 n. 3 del DF dell’11 dic. 2009 (approvazione ed esecuzione della Conv. di Lugano), in vigore dal 1° gen. 2011 ([RU 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [FF 2009 1435](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 [^149-2]: Nuovo testo giusta l’all. n. II 3 della LF del 13 giu. 2008 sulla responsabilità civile in materia nucleare, in vigore dal 1° gen. 2022, pubblicato il 27 gen. 2022 ([RU 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 4957](https://fedlex.data.admin.ch/eli/fga/2007/761)).
 
-## Capitolo 9*a*:**** Trust
+## Capitolo 9*a*: Trust
 
 [^chap9a-1]
 
@@ -2441,10 +2442,6 @@ Se pronunciato dall’autorità competente, il decreto straniero che omologa il 
 
 [^chap12-lvlIV-lvla-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
-### b. Procedura
-
-### 3. Destituzione
-
 #### Art. 180
 
 <sup>1</sup>
@@ -2459,7 +2456,18 @@ Un arbitro può essere ricusato se:
 
 <sup>3</sup> *...*[^180-4]
 
-**Art. 180**a*[^180-5]*
+[^180-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^180-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^180-3]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^180-4]: Abrogato dal n. I della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+
+### b. Procedura
+
+### 3. Destituzione
+
+#### Art. 180a
+
+[^180a-1]
 
 <sup>1</sup> Salvo diversa pattuizione delle parti e purché il procedimento arbitrale non sia ancora concluso, l’istanza di ricusa, scritta e motivata, dev’essere proposta all’arbitro ricusato e comunicata agli altri arbitri entro 30 giorni dal momento in cui l’instante è venuto a conoscenza del motivo di ricusa o avrebbe potuto venirne a conoscenza usando la dovuta attenzione.
 
@@ -2467,18 +2475,14 @@ Un arbitro può essere ricusato se:
 
 <sup>3</sup> Salvo diversa pattuizione delle parti, durante la procedura di ricusa il tribunale arbitrale può continuare il procedimento fino e compresa la pronuncia del lodo, senza escludere l’arbitro ricusato.
 
-**Art. 180**b*[^180-6]*
+**Art. 180**b[^180a-2]
 
 <sup>1</sup> Ciascun arbitro può essere destituito per accordo tra le parti.
 
 <sup>2</sup> Se un arbitro non si dimostra in grado di adempiere i suoi compiti in un termine utile o di agire con la cura richiesta dalle circostanze, una parte può, salvo diversa pattuizione, chiederne la destituzione al giudice con istanza scritta e motivata. Il giudice decide definitivamente.
 
-[^180-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^180-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^180-3]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^180-4]: Abrogato dal n. I della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^180-5]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^180-6]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^180a-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^180a-2]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 ### V. Litispendenza
 
@@ -2535,7 +2539,7 @@ Il procedimento arbitrale è pendente appena una parte adisca l’arbitro o gli 
 
 Se è necessaria un’ulteriore collaborazione giudiziale, il giudice competente è quello del luogo di sede del tribunale arbitrale.
 
-**Art. 185**a*[^185-1]*
+**Art. 185**a[^185-1]
 
 <sup>1</sup> Un tribunale arbitrale con sede all’estero o una parte a un procedimento arbitrale estero può chiedere la collaborazione del giudice del luogo in cui deve essere eseguito un provvedimento cautelare o conservativo. L’articolo 183 capoversi 2 e 3 si applica per analogia.
 
