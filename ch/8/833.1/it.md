@@ -4,11 +4,11 @@ title: "Legge federale del 19 giugno 1992 sull'assicurazione militare (LAM)"
 short: LAM
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043"
 language: it
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1992-06-19
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1993-3043_3043_3043-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/3043_3043_3043/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1993-3043_3043_3043-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/3043_3043_3043/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/3043_3043_3043/20230101/it"
 
 (LAM)
 
-del 19 giugno 1992 (Stato 1° gennaio 2023)
+del 19 giugno 1992 (Stato 1° settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -1261,7 +1261,9 @@ L’assicurazione militare prende, sino alla fine dell’accertamento, i provved
 
 **Trattamento di dati personali**[^94a-1]
 
-Gli organi incaricati di applicare la presente legge o di controllarne o sorvegliarne l’esecuzione, possono trattare o far trattare dati personali, compresi dati degni di particolare protezione e profili della personalità, di cui necessitano per adempiere i compiti conferiti loro dalla presente legge, segnatamente per:[^94a-2]
+<sup>1</sup>
+
+Gli organi incaricati di applicare la presente legge o di controllarne o sorvegliarne l’esecuzione possono trattare o far trattare dati personali, compresi dati personali degni di particolare protezione, di cui necessitano per adempiere i compiti conferiti loro dalla presente legge, segnatamente per:[^94a-2]
 
 - a. stabilire il diritto alle prestazioni, nonché per calcolarle, versarle e coordinarle con quelle di altre assicurazioni sociali;
 - b. calcolare e riscuotere i contributi assicurativi;
@@ -1269,10 +1271,14 @@ Gli organi incaricati di applicare la presente legge o di controllarne o sorvegl
 - d. allestire statistiche;
 - e.[^94a-3] assegnare o verificare il numero AVS[^94a-4].
 
+<sup>2</sup> Per adempiere tali compiti possono inoltre effettuare profilazioni, incluse quelle a rischio elevato, ai sensi della legge federale del 25 settembre 2020[^94a-5] sulla protezione dei dati (LPD) ed emanare decisioni individuali automatizzate ai sensi dell’articolo 21 LPD.[^94a-6]
+
 [^94a-1]: Introdotto dal n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2765](https://fedlex.data.admin.ch/eli/oc/2000/465); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
-[^94a-2]: Nuovo testo giusta l’all. n. 13 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^94a-2]: Nuovo testo giusta l’all. 1 n. II 84 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^94a-3]: Introdotta dell’all. n. 13 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^94a-4]: Nuova espr. giusta l’all. n. 33 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^94a-5]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^94a-6]: Introdotto dall’all. 1 n. II 84 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 94b
 
@@ -1304,7 +1310,6 @@ Purché nessun interesse privato preponderante vi si opponga, gli organi incaric
 - g. alle organizzazioni d’assistenza ai militari e alle loro famiglie, qualora ne necessitino per decidere in merito a domande di aiuto;
 - h. alle autorità istruttorie penali, qualora ne necessitino per denunciare o impedire un crimine;
 - [tab] h<sup>bis</sup>.[^95a-7]al SIC o agli organi di sicurezza dei Cantoni a destinazione del SIC, qualora sussista una minaccia concreta per la sicurezza interna o esterna secondo l’articolo 19 capoverso 2 della legge federale del 25 settembre 2015[^95a-8] sulle attività informative;
-
 - i.
 
   in singoli casi e su richiesta scritta e motivata:
@@ -1517,7 +1522,7 @@ Allegato
 
 [^annexu1-lvlu1-lvl1-1]
 
-[^annexu1-lvlu1-lvl1-1]: [[RU 1949 1705](https://fedlex.data.admin.ch/eli/oc/1949/1671_1775_1705); [1956 825](https://fedlex.data.admin.ch/eli/oc/1956/759_815_825); [1959 293](https://fedlex.data.admin.ch/eli/oc/1959/303_316_293); [1964 245](https://fedlex.data.admin.ch/eli/oc/1964/253_245_245); [1968 580](https://fedlex.data.admin.ch/eli/oc/1968/563_588_580); [1971 1959](https://fedlex.data.admin.ch/eli/oc/1971/__1959); [1972 1069](https://fedlex.data.admin.ch/eli/oc/1972/897_909_1069)art. 15 n. 1; [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 5, [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)art. 116; [1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882); [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)]
+[^annexu1-lvlu1-lvl1-1]: [[RU 1949 1705](https://fedlex.data.admin.ch/eli/oc/1949/1671_1775_1705); [1956 825](https://fedlex.data.admin.ch/eli/oc/1956/759_815_825); [1959 293](https://fedlex.data.admin.ch/eli/oc/1959/303_316_293); [1964 245](https://fedlex.data.admin.ch/eli/oc/1964/253_245_245); [1968 580](https://fedlex.data.admin.ch/eli/oc/1968/563_588_580); [1971 1959](https://fedlex.data.admin.ch/eli/oc/1971/__1959); [1972 1069](https://fedlex.data.admin.ch/eli/oc/1972/897_909_1069)art. 15 n.1; [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 5, [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)art. 116; [1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882); [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)]
 
 Abrogata
 

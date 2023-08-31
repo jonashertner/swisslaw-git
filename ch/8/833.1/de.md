@@ -4,11 +4,11 @@ title: Bundesgesetz vom 19. Juni 1992 über die Militärversicherung (MVG)
 short: MVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043"
 language: de
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1992-06-19
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1993-3043_3043_3043-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/3043_3043_3043/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1993-3043_3043_3043-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/3043_3043_3043/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/3043_3043_3043/20230101/de"
 
 (MVG)
 
-vom 19. Juni 1992 (Stand am 1. Januar 2023)
+vom 19. Juni 1992 (Stand am 1. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1254,7 +1254,9 @@ Die Militärversicherung trifft bis zum Abschluss des Erhebungsverfahrens die no
 
 **Bearbeiten von Personendaten**[^94a-1]
 
-Die mit der Durchführung, der Kontrolle oder der Beaufsichtigung der Durchführung dieses Gesetzes betrauten Organe sind befugt, die Personendaten, einschliesslich besonders schützenswerter Daten und Persönlichkeitsprofile, zu bearbeiten oder bearbeiten zu lassen, die sie benötigen, um die ihnen nach diesem Gesetz übertragenen Aufgaben zu erfüllen, namentlich um:[^94a-2]
+<sup>1</sup>
+
+Die mit der Durchführung oder mit der Kontrolle oder Beaufsichtigung der Durchführung dieses Gesetzes betrauten Organe sind befugt, die Personendaten, einschliesslich besonders schützenswerter Personendaten, zu bearbeiten oder bearbeiten zu lassen, die sie benötigen, um die ihnen nach diesem Gesetz übertragenen Aufgaben zu erfüllen, namentlich um:[^94a-2]
 
 - a. Leistungsansprüche zu beurteilen sowie Leistungen zu berechnen, zu gewähren und mit Leistungen anderer Sozialversicherungen zu koordinieren;
 - b. Versicherungsbeiträge zu berechnen und zu erheben;
@@ -1262,10 +1264,14 @@ Die mit der Durchführung, der Kontrolle oder der Beaufsichtigung der Durchführ
 - d. Statistiken zu führen;
 - e.[^94a-3] die AHV-Nummer[^94a-4] zuzuweisen oder zu verifizieren.
 
+<sup>2</sup> Zur Erfüllung dieser Aufgaben sind sie darüber hinaus zum Profiling, einschliesslich zum Profiling mit hohem Risiko, nach dem Datenschutzgesetz vom 25. September 2020[^94a-5] (DSG) und zum Erlass von automatisierten Einzelentscheidungen nach Artikel 21 DSG befugt.[^94a-6]
+
 [^94a-1]: Eingefügt durch Ziff. I des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2765](https://fedlex.data.admin.ch/eli/oc/2000/465); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)).
-[^94a-2]: Fassung gemäss Anhang Ziff. 13 des BG vom 23. Juni 2006 (Neue AHV-Versichertennummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^94a-2]: Fassung gemäss Anhang 1 Ziff. II 84 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^94a-3]: Eingefügt durch Anhang Ziff. 13 des BG vom 23. Juni 2006 (Neue AHV-Versichertennummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^94a-4]: Ausdruck gemäss Anhang Ziff. 33 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
+[^94a-5]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^94a-6]: Eingefügt durch Anhang 1 Ziff. II 84 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 94b
 

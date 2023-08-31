@@ -4,11 +4,11 @@ title: "Loi fédérale du 19 juin 1992 sur l'assurance militaire (LAM)"
 short: LAM
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043"
 language: fr
-version: 2023-01-01
+version: 2023-09-01
 adopted: 1992-06-19
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-3043_3043_3043-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/3043_3043_3043/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1993-3043_3043_3043-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/3043_3043_3043/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/3043_3043_3043/20230101/fr"
 
 (LAM)
 
-du 19 juin 1992 (État le 1<sup>er</sup> janvier 2023)
+du 19 juin 1992 (État le 1<sup>er</sup> septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -1259,7 +1259,9 @@ L’assurance militaire prend, jusqu’à la fin de l’instruction, les mesures
 
 **Traitement de données personnelles**[^94a-1]
 
-Les organes chargés d’appliquer la présente loi, d’en contrôler ou surveiller l’exécution sont habilités à traiter et à faire traiter les données personnelles, y compris les données sensibles et les profils de la personnalité, qui leur sont nécessaires pour accomplir les tâches que leur assigne cette loi, notamment pour:[^94a-2]
+<sup>1</sup>
+
+Les organes chargés d’appliquer la présente loi ou d’en contrôler ou surveiller l’exécution sont habilités à traiter ou à faire traiter les données personnelles, y compris les données sensibles, qui leur sont nécessaires pour accomplir les tâches que leur assigne la présente loi, notamment pour:[^94a-2]
 
 - a. établir le droit aux prestations, les calculer, les allouer et les coordonner avec celles d’autres assurances sociales;
 - b. calculer et percevoir les cotisations;
@@ -1267,10 +1269,14 @@ Les organes chargés d’appliquer la présente loi, d’en contrôler ou survei
 - d. établir des statistiques;
 - e.[^94a-3] attribuer ou vérifier le numéro AVS[^94a-4].
 
+<sup>2</sup> Pour accomplir ces tâches, ils sont en outre habilités à faire du profilage, y compris du profilage à risque élevé, au sens de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^94a-5] et à rendre des décisions individuelles automatisées selon l’art. 21 LPD.[^94a-6]
+
 [^94a-1]: Introduit par le ch. I de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2765](https://fedlex.data.admin.ch/eli/oc/2000/465); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)).
-[^94a-2]: Nouvelle teneur selon l’annexe ch. 13 de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^94a-2]: Nouvelle teneur selon l’annexe 1 ch. II 84 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^94a-3]: Introduite par l’annexe ch. 13 de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^94a-4]: Nouvelle expression selon l’annexe ch. 33 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
+[^94a-5]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^94a-6]: Introduit par l’annexe 1 ch. II 84 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 94b
 
