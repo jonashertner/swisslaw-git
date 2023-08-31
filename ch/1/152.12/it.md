@@ -3,18 +3,18 @@ sr: "152.12"
 title: "Regolamento del Tribunale penale federale del 17 gennaio 2006 concernente l'archiviazione"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/186"
 language: it
-version: 2007-01-01
+version: 2023-09-01
 adopted: 2006-01-17
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/186/20070101/it/xml/fedlex-data-admin-ch-eli-cc-2006-186-20070101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/186/20070101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/186/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2006-186-20230901-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/186/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Regolamento del Tribunale penale federale concernente l’archiviazione
 
-del 17 gennaio 2006 (Stato 1° gennaio 2007)
+del 17 gennaio 2006 (Stato 1° settembre 2023)
 
 Il Tribunale penale federale,
 
@@ -54,11 +54,14 @@ adotta il seguente regolamento:
 
 #### Art. 3
 
-**Incarti penali**
+**Atti procedurali[^3-1]**
 
-<sup>1</sup> Nei procedimenti in cui il Tribunale decide quale autorità di reclamo o in prima istanza gli atti procedurali sono archiviati permanentemente.
+<sup>1</sup> Gli atti procedurali relativi alle decisioni di tutte le corti del Tribunale penale federale sono archiviati permanentemente.[^3-2]
 
 <sup>2</sup> Il presidente del collegio giudicante può, in un caso concreto, aggiungere ulteriori atti al fascicolo.
+
+[^3-1]: Nuovo testo giusta il n. I dell’O del TPF del 9 mar. 2023, in vigore dal 1° set. 2023 ([RU 2023 209](https://fedlex.data.admin.ch/eli/oc/2023/209)).
+[^3-2]: Nuovo testo giusta il n. I dell’O del TPF del 9 mar. 2023, in vigore dal 1° set. 2023 ([RU 2023 209](https://fedlex.data.admin.ch/eli/oc/2023/209)).
 
 #### Art. 4
 
@@ -70,11 +73,12 @@ Gli incarti concernenti controlli telefonici e inchieste mascherate vengono cons
 
 **Atti concernenti il personale e documenti contabili**
 
-<sup>1</sup> Gli atti concernenti il personale sono archiviati secondo le disposizioni della legge federale del 19 giugno 1992[^5-1] sulla protezione dei dati.
+<sup>1</sup> Gli atti concernenti il personale sono archiviati secondo le disposizioni della legge federale del 25 settembre 2020[^5-1] sulla protezione dei dati.[^5-2]
 
 <sup>2</sup> I documenti contabili vengono archiviati conformemente alla legislazione federale vigente.
 
 [^5-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^5-2]: Nuovo testo giusta il n. I dell’O del TPF del 9 mar. 2023, in vigore dal 1° set. 2023 ([RU 2023 209](https://fedlex.data.admin.ch/eli/oc/2023/209)).
 
 #### Art. 6
 

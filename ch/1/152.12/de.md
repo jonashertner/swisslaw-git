@@ -3,18 +3,18 @@ sr: "152.12"
 title: Reglement vom 17. Januar 2006 über die Archivierung beim Bundesstrafgericht
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/186"
 language: de
-version: 2007-01-01
+version: 2023-09-01
 adopted: 2006-01-17
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/186/20070101/de/xml/fedlex-data-admin-ch-eli-cc-2006-186-20070101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/186/20070101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/186/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2006-186-20230901-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/186/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Reglement über die Archivierung beim Bundesstrafgericht
 
-vom 17. Januar 2006 (Stand am 1. Januar 2007)
+vom 17. Januar 2006 (Stand am 1. September 2023)
 
 Das Bundesstrafgericht,
 
@@ -54,11 +54,14 @@ beschliesst:
 
 #### Art. 3
 
-**Strafakten**
+**Verfahrensakten[^3-1]**
 
-<sup>1</sup> Entscheidet das Bundesstrafgericht als Beschwerdeinstanz oder erstinstanzlich, so werden die Verfahrensakten dauerhaft archiviert.
+<sup>1</sup> Sämtliche Kammern des Bundesstrafgerichts archivieren die Verfahrensakten zu ihren Entscheiden dauerhaft.[^3-2]
 
 <sup>2</sup> Der Präsident oder die Präsidentin des Spruchkörpers kann in einem konkreten Fall weitere Akten beilegen.
+
+[^3-1]: Fassung gemäss Ziff. I der V des BstGer vom 9. März 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 209](https://fedlex.data.admin.ch/eli/oc/2023/209)).
+[^3-2]: Fassung gemäss Ziff. I der V des BstGer vom 9. März 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 209](https://fedlex.data.admin.ch/eli/oc/2023/209)).
 
 #### Art. 4
 
@@ -70,11 +73,12 @@ Akten über Telefonkontrollen und verdeckte Ermittlungen werden separat aufbewah
 
 **Personal- und Buchhaltungsakten**
 
-<sup>1</sup> Die Personalakten werden nach den Bestimmungen des Bundesgesetzes vom 19. Juni 1992[^5-1] über den Datenschutz archiviert.
+<sup>1</sup> Die Personalakten werden nach dem Datenschutzgesetz vom 25. September 2020[^5-1] archiviert.[^5-2]
 
 <sup>2</sup> Die Buchhaltungsakten werden unter Berücksichtigung des geltenden Bundesrechts archiviert.
 
 [^5-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^5-2]: Fassung gemäss Ziff. I der V des BstGer vom 9. März 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 209](https://fedlex.data.admin.ch/eli/oc/2023/209)).
 
 #### Art. 6
 

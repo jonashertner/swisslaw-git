@@ -3,18 +3,18 @@ sr: "152.12"
 title: "Règlement du 17 janvier 2006 sur l'archivage au Tribunal pénal fédéral"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/186"
 language: fr
-version: 2007-01-01
+version: 2023-09-01
 adopted: 2006-01-17
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/186/20070101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-186-20070101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/186/20070101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/186/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2006-186-20230901-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/186/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Règlement sur l’archivage au Tribunal pénal fédéral
 
-du 17 janvier 2006 (État le 1<sup>er</sup> janvier 2007)
+du 17 janvier 2006 (État le 1<sup>er</sup> septembre 2023)
 
 Le Tribunal pénal fédéral,
 
@@ -54,11 +54,14 @@ arrête:
 
 #### Art. 3
 
-**Dossiers pénaux**
+**Actes de procédure[^3-1]**
 
-<sup>1</sup> Les actes des causes dans lesquelles le Tribunal pénal fédéral statue en tant qu’autorité de recours ou de première instance sont durablement archivés.
+<sup>1</sup> Toutes les cours du Tribunal pénal fédéral archivent durablement les actes des procédures dans lesquelles elles statuent.[^3-2]
 
 <sup>2</sup> Le président de la cour appelée à statuer peut, dans un cas concret, y ajouter d’autres actes.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du TPF du 9 mars 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 209](https://fedlex.data.admin.ch/eli/oc/2023/209)).
+[^3-2]: Nouvelle teneur selon le ch. I de l’O du TPF du 9 mars 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 209](https://fedlex.data.admin.ch/eli/oc/2023/209)).
 
 #### Art. 4
 
@@ -70,11 +73,12 @@ Les dossiers relatifs aux contrôles téléphoniques et à l’investigation sec
 
 **Dossiers concernant le personnel et la comptabilité**
 
-<sup>1</sup> Les dossiers concernant le personnel sont archivés selon les dispositions de la loi fédérale du 19 juin 1992 sur la protection des données[^5-1].
+<sup>1</sup> Les dossiers concernant le personnel sont archivés selon les dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données[^5-1].[^5-2]
 
 <sup>2</sup> Les pièces comptables sont archivées selon le droit fédéral en vigueur.
 
 [^5-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^5-2]: Nouvelle teneur selon le ch. I de l’O du TPF du 9 mars 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 209](https://fedlex.data.admin.ch/eli/oc/2023/209)).
 
 #### Art. 6
 
@@ -116,9 +120,11 @@ Les actes (dossiers, moyens de preuve, etc.) mis à disposition par d’autres a
 
 <sup>2</sup> Les dossiers sont soumis au délai de protection de 50 ans prévu par l’art. 11 LAr, à moins que les parties à la procédure n’aient été exclusivement des institutions ou des établissements publics.
 
-<sup>3</sup> D’autres documents peuvent bénéficier du délai de protection de 50 ans s’ils contiennent des données personnelles particulièrement dignes de protection.
+<sup>3</sup> D’autres documents peuvent bénéficier du délai de protection de 50 ans s’ils contiennent des données sensibles.[^10-1]
 
 <sup>4</sup> Les procès-verbaux des séances plénières, de la direction du tribunal et des cours sont soumis au délai de protection de 50 ans.
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du TPF du 9 mars 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 209](https://fedlex.data.admin.ch/eli/oc/2023/209)).
 
 #### Art. 11
 
