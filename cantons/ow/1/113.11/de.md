@@ -4,13 +4,12 @@ number: "113.11"
 title: Verordnung über das Einwohnerregister
 short: "Einwohnerregisterverordnung, ERV"
 language: de
-version: 2013-01-01
-valid_until: 2023-08-31
-version_adopted: 2012-05-03
+version: 2023-09-01
+version_adopted: 2023-06-30
 adopted: 2008-12-04
 in_force: 2009-01-15
 url: "http://gdb.ow.ch/app/de/texts_of_law/113.11"
-pdf: "http://gdb.ow.ch/api/de/versions/1646/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1824/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,13 +18,13 @@ pdf: "http://gdb.ow.ch/api/de/versions/1646/pdf_file"
 
 (Einwohnerregisterverordnung, ERV)
 
-vom 04.12.2008 (Stand 01.01.2013)
+vom 04.12.2008 (Stand 01.09.2023)
 
 Der Kantonsrat des Kantons Obwalden,
 
 in Ausführung des Registerharmonisierungsgesetzes (RHG) vom 23. Juni 2006[^ingress-1], von Artikel 4 Absatz 1 und Artikel 12 Absatz 2 des Ausweisgesetzes (AwG) vom 22. Juni 2001[^ingress-2], Artikel 59 Absatz 4 des Bundesgesetzes über die Ausländerinnen und Ausländer (AuG) vom 16. Dezember 2005[^ingress-3] sowie von Artikel 5 Absatz 1 und Artikel 14 des kantonalen Registerharmonisierungsgesetzes (kRHG) vom 4. Dezember 2008[^ingress-4],
 
-gestützt auf Artikel 17 Absatz 2 und Artikel 44 sowie 72 Ziffer 2 und 3 der Kantonsverfassung vom 19. Mai 1968[^ingress-5],
+gestützt auf Artikel 17 Absatz 2 und Artikel 44 sowie 72 Ziffer 2 und 3 der Kantonsverfassung (KV) vom 19. Mai 1968[^ingress-5],
 
 beschliesst:
 
@@ -55,17 +54,23 @@ beschliesst:
 
 <sup>2</sup> Werden Daten ausschliesslich für schützenswerte ideelle Zwecke verwendet und nicht an Dritte weitergegeben, so können sie nach bestimmten Gesichtspunkten geordnet bekannt gegeben werden.
 
+<sup>2a</sup> Den Einrichtungen des öffentlichen Rechts gemäss Art. 107 KV[^2-1] sind die notwendigen Grundangaben zur Führung ihrer Bürgerregister bekannt zu geben.
+
 <sup>3</sup> Im Übrigen gilt das Datenschutzgesetz.
+
+[^2-1]: GDB [101.0](http://gdb.ow.ch/data/101.0/de)
 
 ## 2. Organisation und Aufgaben
 
 #### Art. 3
 
-**Kanton a. Regierungsrat**
+**Kanton a. Aufsicht**
 
 <sup>1</sup> Der Regierungsrat ist Aufsichtsbehörde.
 
 <sup>2</sup> Er kann nach Anhören der Einwohnergemeinden in Ausführungsbestimmungen ergänzende Vorschriften über die Organisation, die Aufgaben, das Verfahren und die Gebühren erlassen.
+
+<sup>3</sup> Das Amt für Justiz ist befugt, die Personendaten, einschliesslich besonders schützenswerter Daten, die es benötigt, um die Aufsicht über die Einwohnerregister für den Regierungsrat wahrzunehmen, zu bearbeiten oder bearbeiten zu lassen. Zur Erfüllung der Aufsichtstätigkeit kann es auf die betreffenden Register, Informationssysteme und Datenbanken zugreifen.
 
 #### Art. 4
 
@@ -329,6 +334,8 @@ Ursprüngliche Fundstelle: OGS 2008, 110
 
 geändert durch
 
-\- Anhang zum Nachtrag zum Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches vom 3. Mai 2012, in Kraft seit 1. Januar 2013 (OGS 2012, 29 und 43)
+\- Anhang zum Nachtrag zum Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches vom 3. Mai 2012, in Kraft seit 1. Januar 2013 (OGS 2012, 29 und 43),
+
+\- Nachtrag zum Gesetz über den Datenschutz vom 30. Juni 2023 (OGS 2023, 21), Botschaft und Vorlage des Regierungsrats vom 27. März 2023, Kantonsratssitzungen vom 25. Mai und 30. Juni 2023 (22.23.01), in Kraft seit 1. September 2023 (OGS 2023, 26)
 
 OGS 2008, 110
