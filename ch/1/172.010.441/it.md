@@ -3,11 +3,11 @@ sr: "172.010.441"
 title: "Ordinanza del 3 aprile 2019 sulla gestione elettronica degli affari nell'Amministrazione federale (Ordinanza GEVER)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/253"
 language: it
-version: 2021-01-01
+version: 2023-09-01
 adopted: 2019-04-03
 in_force: 2020-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/253/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2019-253-20210101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/253/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/253/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2019-253-20230901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/253/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,15 +16,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/253/20210101/it"
 
 (Ordinanza GEVER)
 
-del 3 aprile 2019 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 3 aprile 2019 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
-visto l’articolo 57*h* capoverso 3 della legge del 21 marzo 1997[^ingress-1] sull’organizzazione del Governo e dell’Amministrazione (LOGA),
+visto l’articolo 57*h*<sup>ter</sup> della legge del 21 marzo 1997[^ingress-1] sull’organizzazione del Governo e dell’Amministrazione (LOGA),[^ingress-2]
 
 ordina:
 
 [^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-2]: Nuovo testo giusta l’all. 2 n. II 15 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -57,9 +58,10 @@ La presente ordinanza si applica:
 
 <sup>2</sup> Sono considerate pertinenti a un affare le informazioni necessarie a documentare l’attività amministrativa ai sensi dell’articolo 22 OLOGA[^2-1].
 
-<sup>3</sup> È considerato sistema di gestione degli affari ogni sistema informatico che, ai sensi dell’articolo 57*h* LOGA, serve alla registrazione, alla gestione, all’indicizzazione e al controllo della corrispondenza e degli affari.
+<sup>3</sup> È considerato sistema di gestione degli affari ogni sistema informatico che, ai sensi dell’articolo 57*h* LOGA, serve al trattamento degli affari e alla gestione di documenti, inclusa la corrispondenza.[^2-2]
 
 [^2-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^2-2]: Nuovo testo giusta l’all. 2 n. II 15 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 3
 
@@ -178,30 +180,33 @@ I sistemi di gestione degli affari registrano gli accessi alle informazioni, la 
 
 I sistemi di gestione degli affari consentono di associare conferme elettroniche alle informazioni, in particolare per attestarne la presa di conoscenza oppure per ottenere o concedere un’autorizzazione.
 
-Sezione 4: Strategia GEVER e competenzenell’Amministrazione federale**[^t-1]**
+## Sezione 4: Strategia GEVER e competenzenell’Amministrazione federale
+
+[^sec4-1]
+
+[^sec4-1]: Nuovo testo giusta l’all. n. 6 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
 
 #### Art. 15
 
-**Strategia GEVER**[^annex4-15-1]
+**Strategia GEVER**[^15-1]
 
 <sup>1</sup> Su proposta del settore Trasformazione digitale e governance delle TIC della Cancelleria federale (settore TDT della CaF) e dopo aver sentito la Conferenza dei segretari generali (CSG), il cancelliere della Confederazione definisce la strategia della Confederazione in materia di gestione degli affari dell’Amministrazione federale (strategia GEVER).
 
 <sup>2</sup> L’elaborazione e la realizzazione della strategia GEVER sono coordinate dal settore TDT della CaF.
 
-[^t-1]: Nuovo testo giusta l’all. n. 6 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
-[^annex4-15-1]: Nuovo testo giusta l’all. n. 6 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^15-1]: Nuovo testo giusta l’all. n. 6 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
 
 #### Art. 16
 
-[^annex4-16-1]
+[^16-1]
 
-[^annex4-16-1]: Abrogato dall’all. n. 6 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, con effetto dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^16-1]: Abrogato dall’all. n. 6 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, con effetto dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
 
 #### Art. 17
 
 **Gruppo tecnico GEVER Confederazione**
 
-<sup>1</sup> Il Gruppo tecnico GEVER Confederazione (Gruppo tecnico) si compone di un rappresentante del Servizio GEVER Confederazione e di un rappresentante di ogni dipartimento e della Cancelleria federale. Il rappresentante del Servizio GEVER Confederazione presiede il Gruppo tecnico.[^annex4-17-1]
+<sup>1</sup> Il Gruppo tecnico GEVER Confederazione (Gruppo tecnico) si compone di un rappresentante del Servizio GEVER Confederazione e di un rappresentante di ogni dipartimento e della Cancelleria federale. Il rappresentante del Servizio GEVER Confederazione presiede il Gruppo tecnico.[^17-1]
 
 <sup>2</sup>
 
@@ -213,7 +218,7 @@ I rappresentanti dei dipartimenti e della Cancelleria federale:
 
 <sup>3</sup> Ogni membro del Gruppo tecnico dispone di un voto. In caso di parità di voti, il voto del presidente è preponderante.
 
-<sup>4</sup> Partecipano alle sedute con voto consultivo un rappresentante dell’Archivio federale svizzero e un rappresentante del Centro servizi informatici del Dipartimento federale dell’economia, della formazione e della ricerca (ISCeco). In casi specifici il Gruppo tecnico può far capo alla consulenza di altre persone.[^annex4-17-2]
+<sup>4</sup> Partecipano alle sedute con voto consultivo un rappresentante dell’Archivio federale svizzero e un rappresentante del Centro servizi informatici del Dipartimento federale dell’economia, della formazione e della ricerca (ISCeco). In casi specifici il Gruppo tecnico può far capo alla consulenza di altre persone.[^17-2]
 
 <sup>5</sup>
 
@@ -223,11 +228,11 @@ Il Gruppo tecnico sostiene il Servizio GEVER per:
 - b. la valutazione e il consolidamento dei requisiti relativi agli affari del sistema GEVER standardizzato;
 - c. la redazione e l’aggiornamento della guida di GEVER.
 
-<sup>6</sup> Il Gruppo tecnico prepara le decisioni del settore TDT della CaF relative a GEVER standardizzato, segnatamente le decisioni relative alla configurazione specialistica e all’ordine di priorità dei requisiti relativi agli affari.[^annex4-17-3]
+<sup>6</sup> Il Gruppo tecnico prepara le decisioni del settore TDT della CaF relative a GEVER standardizzato, segnatamente le decisioni relative alla configurazione specialistica e all’ordine di priorità dei requisiti relativi agli affari.[^17-3]
 
-[^annex4-17-1]: Nuovo testo giusta l’all. n. 6 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
-[^annex4-17-2]: Nuovo testo giusta l’all. n. 6 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
-[^annex4-17-3]: Nuovo testo giusta l’all. n. 6 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^17-1]: Nuovo testo giusta l’all. n. 6 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^17-2]: Nuovo testo giusta l’all. n. 6 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^17-3]: Nuovo testo giusta l’all. n. 6 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
 
 #### Art. 18
 
@@ -239,8 +244,8 @@ Il Gruppo tecnico sostiene il Servizio GEVER per:
 
 Esso ha segnatamente i compiti seguenti:
 
-- a.[^annex4-18-1] prepara gli affari del Gruppo tecnico ed esegue i mandati che questo gli affida;
-- b. e c.[^annex4-18-2] *...*
+- a.[^18-1] prepara gli affari del Gruppo tecnico ed esegue i mandati che questo gli affida;
+- b. e c.[^18-2] *...*
 - d. riunisce i requisiti richiesti dai dipartimenti e dalla Cancelleria federale relativi agli affari per il sistema GEVER standardizzato, li valuta in particolare sotto il profilo del loro contributo all’attuazione della strategia GEVER, li consolida e li ordina per priorità all’indirizzo del Gruppo tecnico. Nell’attuazione dei requisiti relativi agli affari in seno al servizio standard TIC tiene conto degli interessi in campo dal punto di vista degli affari;
 - e. inizia, accompagna e coordina progetti volti all’identificazione e all’attuazione di processi di gestione di affari tra unità amministrative nonché di progetti in materia di governo elettronico, che possono essere realizzati parzialmente o integralmente con il sistema GEVER standardizzato. Sostiene le unità amministrative nei relativi progetti di attuazione e garantisce in particolare l’aggiornamento delle necessarie configurazioni del sistema GEVER standardizzato;
 - f. riunisce i requisiti richiesti dai dipartimenti e dalla Cancelleria federale relativi alla configurazione specializzata in uso a livello federale per il sistema GEVER standardizzato e formula proposte di modifica all’indirizzo del Gruppo tecnico. Nell’attuazione della configurazione specializzata nel sistema GEVER standardizzato tiene conto degli interessi in campo;
@@ -254,8 +259,8 @@ Esso ha segnatamente i compiti seguenti:
 
 <sup>4</sup> Per l’adempimento dei suoi compiti, può istituire gruppi di lavoro temporanei. I dipartimenti e la Cancelleria federale nominano i loro rappresentanti.
 
-[^annex4-18-1]: Nuovo testo giusta l’all. n. 6 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
-[^annex4-18-2]: Abrogati dall’all. n. 6 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, con effetto dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^18-1]: Nuovo testo giusta l’all. n. 6 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^18-2]: Abrogati dall’all. n. 6 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, con effetto dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
 
 ## Sezione 5: Disposizioni finali
 
@@ -265,11 +270,11 @@ Esso ha segnatamente i compiti seguenti:
 
 Sono abrogate:
 
-- a. l’ordinanza GEVER del 30 novembre 2012[^annex4-sec5-19-1];
-- b. le istruzioni del DFI del 13 giugno 1999[^annex4-sec5-19-2] sulla gestione degli atti nell’amministrazione federale.
+- a. l’ordinanza GEVER del 30 novembre 2012[^19-1];
+- b. le istruzioni del DFI del 13 giugno 1999[^19-2] sulla gestione degli atti nell’amministrazione federale.
 
-[^annex4-sec5-19-1]: [[RU 2012 6669](https://fedlex.data.admin.ch/eli/oc/2012/808), [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155)]
-[^annex4-sec5-19-2]: [[FF 1999 4679](https://fedlex.data.admin.ch/eli/fga/1999/1_5428_4988_4679)]
+[^19-1]: [[RU 2012 6669](https://fedlex.data.admin.ch/eli/oc/2012/808), [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155)]
+[^19-2]: [[FF 1999 4679](https://fedlex.data.admin.ch/eli/fga/1999/1_5428_4988_4679)]
 
 #### Art. 20
 
@@ -277,9 +282,9 @@ Sono abrogate:
 
 Gli atti normativi qui appresso sono modificati come segue:
 
-...[^annex4-sec5-20-1]
+...[^20-1]
 
-[^annex4-sec5-20-1]: Le mod. possono essere consultate alla [RU 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253).
+[^20-1]: Le mod. possono essere consultate alla [RU 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253).
 
 #### Art. 21
 

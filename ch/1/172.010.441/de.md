@@ -3,11 +3,11 @@ sr: "172.010.441"
 title: Verordnung vom 3. April 2019 über die elektronische Geschäftsverwaltung in der Bundesverwaltung (GEVER-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/253"
 language: de
-version: 2021-01-01
+version: 2023-09-01
 adopted: 2019-04-03
 in_force: 2020-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/253/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2019-253-20210101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/253/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/253/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2019-253-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/253/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,15 +16,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/253/20210101/de"
 
 (GEVER-Verordnung)
 
-vom 3. April 2019 (Stand am 1. Januar 2021)
+vom 3. April 2019 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 57*h* Absatz 3 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-1] (RVOG),
+gestützt auf Artikel 57*h*<sup>ter</sup> des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-1] (RVOG),[^ingress-2]
 
 verordnet:
 
 [^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-2]: Fassung gemäss Anhang 2 Ziff. II 15 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -57,9 +58,10 @@ Diese Verordnung gilt für:
 
 <sup>2</sup> Geschäftsrelevant sind Informationen, die für den Nachweis der Geschäftstätigkeit im Sinne von Artikel 22 RVOV[^2-1] notwendig sind.
 
-<sup>3</sup> Als Geschäftsverwaltungssystem gilt ein Informatiksystem, das im Sinne von Artikel 57*h* RVOG der Registrierung, Verwaltung, Indexierung und Kontrolle von Schriftverkehr und Geschäften dient.
+<sup>3</sup> Als Geschäftsverwaltungssystem gilt ein Informatiksystem, das im Sinne von Artikel 57*h* RVOG der Abwicklung von Geschäftsprozessen sowie der Verwaltung von Dokumenten, einschliesslich der Korrespondenz, dient.[^2-2]
 
 [^2-1]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^2-2]: Fassung gemäss Anhang 2 Ziff. II 15 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 3
 
@@ -243,7 +245,7 @@ Die Fachgruppe unterstützt die Fachstelle GEVER Bund bei:
 Die Fachstelle hat namentlich folgende Aufgaben:
 
 - a.[^18-1] Sie bereitet die Geschäfte der Fachgruppe GEVER Bund vor und erfüllt die ihr von der Fachgruppe erteilten Aufträge.
-- b. und c.[^18-2] ...
+- b. und c.[^18-2] …
 - d. Sie nimmt Geschäftsanforderungen an das standardisierte GEVER auf Stufe der Departemente und der Bundeskanzlei auf, prüft diese insbesondere auf deren Beitrag zur Umsetzung der GEVER-Geschäftsstrategie und nimmt eine Konsolidierung sowie Priorisierung der Anforderungen zuhanden der Fachgruppe GEVER Bund vor. Sie nimmt die Interessen für die Umsetzung der Geschäftsanforderungen im IKT-Standarddienst GEVER aus Geschäftssicht wahr.
 - e. Sie initiiert, begleitet und koordiniert Vorhaben zur Identifikation und Umsetzung von verwaltungseinheitsübergreifenden Geschäftsprozessen und E-Government-Vorhaben, die ganz oder teilweise mit dem standardisierten GEVER abgewickelt werden können. Sie unterstützt die Verwaltungseinheiten bei entsprechenden Umsetzungsvorhaben und stellt insbesondere die Aktualisierung der dazu notwendigen Konfigurationen des standardisierten GEVER sicher.
 - f. Sie nimmt Anforderungen an die bundesweit geltende fachliche Konfiguration des standardisierten GEVER auf Stufe der Departemente und der Bundeskanzlei auf und stellt zuhanden der Fachgruppe GEVER Bund Änderungsanträge. Sie nimmt die Interessen für die Umsetzung der fachlichen Konfiguration im standardisierten GEVER wahr.
@@ -271,7 +273,7 @@ Es werden aufgehoben:
 - a. die GEVER-Verordnung vom 30. November 2012[^19-1];
 - b. die Weisungen des EDI vom 13. Juni 1999[^19-2] über die Aktenführung in der Bundesverwaltung.
 
-[^19-1]: [[AS 2012 6669](https://fedlex.data.admin.ch/eli/oc/2012/808), [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155)]
+[^19-1]: [[AS 2012 6669](https://fedlex.data.admin.ch/eli/oc/2012/808); [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155)]
 [^19-2]: [[BBl 1999 5428](https://fedlex.data.admin.ch/eli/fga/1999/1_5428_4988_4679)]
 
 #### Art. 20
@@ -280,7 +282,7 @@ Es werden aufgehoben:
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^20-1]
+…[^20-1]
 
 [^20-1]: Die Änderungn können unter [AS 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)konsultiert werden.
 

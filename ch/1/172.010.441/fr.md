@@ -3,11 +3,11 @@ sr: "172.010.441"
 title: "Ordonnance du 3 avril 2019 sur la gestion électronique des affaires dans l'administration fédérale (Ordonnance GEVER)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/253"
 language: fr
-version: 2021-01-01
+version: 2023-09-01
 adopted: 2019-04-03
 in_force: 2020-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/253/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-253-20210101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/253/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/253/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2019-253-20230901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/253/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,15 +16,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/253/20210101/fr"
 
 (Ordonnance GEVER)
 
-du 3 avril 2019 (Etat le 1<sup>er</sup> janvier 2021)
+du 3 avril 2019 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
-vu l’art. 57*h*, al. 3, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration (LOGA)[^ingress-1],
+vu l’art. 57*h*<sup>ter</sup> de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration (LOGA)[^ingress-1],[^ingress-2]
 
 arrête:
 
 [^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-2]: Nouvelle teneur selon l’annexe 2 ch. II 15 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 1 Dispositions générales
 
@@ -57,9 +58,10 @@ La présente ordonnance s’applique:
 
 <sup>2</sup> Sont considérées comme importantes pour les affaires les informations nécessaires à la consignation de l’activité de l’administration fédérale au sens de l’art. 22 OLOGA[^2-1].
 
-<sup>3</sup> Par système de gestion des affaires, on entend un système informatique visant à enregistrer, gérer, indexer et contrôler la correspondance et les dossiers au sens de l’art. 57*h* LOGA.
+<sup>3</sup> Par système de gestion des affaires, on entend un système informatique visant à assurer le bon déroulement des processus opérationnels et de gérer des documents, correspondance y comprise, au sens de l’art. 57*h* LOGA.[^2-2]
 
 [^2-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^2-2]: Nouvelle teneur selon l’annexe 2 ch. II 15 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 3
 
@@ -134,7 +136,7 @@ Les unités administratives détruisent les documents physiques trois mois aprè
 
 **Destruction des informations sans valeur archivistique**
 
-Les informations sans valeur archivistique peuvent être détruites au terme du délai de conservation fixé par l’unité administrative, pour autant qu’aucun autre acte ne prévoie un délai de conservation plus long
+Les informations sans valeur archivistique peuvent être détruites au terme du délai de conservation fixé par l’unité administrative, pour autant qu’aucun autre acte ne prévoie un délai de conservation plus long.
 
 #### Art. 10
 
@@ -178,7 +180,7 @@ Les systèmes de gestion des affaires journalisent l’accès aux informations, 
 
 Les systèmes de gestion des affaires permettent de confirmer des informations par voie électronique, notamment pour confirmer une prise de connaissance, pour requérir une approbation et pour donner son approbation
 
-## Section 4 Stratégie GEVER et compétences dans l’administration fédérale****
+## Section 4 Stratégie GEVER et compétences dans l’administration fédérale
 
 [^sec4-1]
 
