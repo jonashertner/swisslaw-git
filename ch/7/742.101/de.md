@@ -4,20 +4,20 @@ title: Eisenbahngesetz vom 20. Dezember 1957 (EBG)
 short: EBG
 eli: "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347"
 language: de
-version: 2022-01-01
+version: 2023-09-01
 adopted: 1957-12-20
 in_force: 1958-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/335_341_347/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1958-335_341_347-20220101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1958/335_341_347/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/335_341_347/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1958-335_341_347-20230901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1958/335_341_347/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Eisenbahngesetz
 
-(EBG)**[^t-1]**
+(EBG)[^t-1]
 
-vom 20. Dezember 1957 (Stand am 1. Januar 2022)
+vom 20. Dezember 1957 (Stand am 1. September 2023)
 
 [^t-1]: Abkürzung eingefügt durch Ziff. I des BG vom 20. März 1998, in Kraft seit 1. Jan. 1999 ([AS 1998 2835](https://fedlex.data.admin.ch/eli/oc/1998/2835_2835_2835); [BBl 1997 I 909](https://fedlex.data.admin.ch/eli/fga/1997/1_909_853_809)).
 
@@ -31,7 +31,7 @@ beschliesst:
 [^ingress-2]: Fassung gemäss Ziff. II 3 des BG vom 21. Juni 2013 über die Finanzierung und den Ausbau der Eisenbahninfrastruktur, in Kraft seit 1. Jan. 2016 ([AS 2015 651](https://fedlex.data.admin.ch/eli/oc/2015/106); [BBl 2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305)).
 [^ingress-3]: [BBl 1956 I 213](https://fedlex.data.admin.ch/eli/fga/1956/1_213_205_)
 
-## 1. Kapitel: Allgemeine Bestimmungen****
+## 1. Kapitel: Allgemeine Bestimmungen
 
 [^chap1-1]
 
@@ -82,14 +82,14 @@ Eisenbahnunternehmen sind Unternehmen, die:
 
 [^4-1]: Aufgehoben durch Anhang Ziff. 18 des Gerichtsstandsgesetzes vom 24. März 2000, mit Wirkung seit 1. Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
 
-## 2. Kapitel:**** Eisenbahnunternehmen****
+## 2. Kapitel: Eisenbahnunternehmen
 
 [^chap2-1][^chap2-2]
 
 [^chap2-1]: Fassung gemäss Ziff. I des BG vom 20. März 1998, in Kraft seit 1. Okt. 2000 ([AS 1998 2835](https://fedlex.data.admin.ch/eli/oc/1998/2835_2835_2835); [BBl 1997 I 909](https://fedlex.data.admin.ch/eli/fga/1997/1_909_853_809)).
 [^chap2-2]: Fassung gemäss Ziff. II 13 des BG vom 20. März 2009 über die Bahnreform 2, in Kraft seit 1. Jan. 2010 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 
-### 1. Abschnitt: Infrastrukturbetreiberinnen****
+### 1. Abschnitt: Infrastrukturbetreiberinnen
 
 [^chap2-sec1-1]
 
@@ -212,7 +212,7 @@ Das BAV entzieht die Sicherheitsgenehmigung jederzeit ohne Anspruch auf Entschä
 
 [^8b-1]: Eingefügt durch Ziff. I 4 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)). Fassung gemäss Ziff. I 3 des BG vom 28. Sept. 2018 über die Organisation der Bahninfrastruktur, in Kraft seit 1. Juli 2020 ([AS 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [BBl 2016 8661](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 
-### 2. Abschnitt: Eisenbahnverkehrsunternehmen****
+### 2. Abschnitt: Eisenbahnverkehrsunternehmen
 
 [^chap2-sec2-1]
 
@@ -357,7 +357,7 @@ Der Bundesrat legt in einem Netznutzungskonzept die Anzahl Trassen fest, die fü
 
 [^9c-1]: Urspünglich Art. 9*b*. Eingefügt durch Ziff. I des BG vom 20. März 1998 ([AS 1998 2835](https://fedlex.data.admin.ch/eli/oc/1998/2835_2835_2835); [BBl 1997 I 909](https://fedlex.data.admin.ch/eli/fga/1997/1_909_853_809)). Fassung gemäss Ziff. I 3 des BG vom 28. Sept. 2018 über die Organisation der Bahninfrastruktur, in Kraft seit 1. Juli 2020 ([AS 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [BBl 2016 8661](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 
-## 2*a*. Kapitel:**** Trassenvergabestelle
+## 2*a*. Kapitel: Trassenvergabestelle
 
 [^chap2a-1]
 
@@ -649,7 +649,7 @@ Zur Aufsicht des Bundesrates gehören insbesondere folgende Befugnisse:
 
 <sup>3</sup> Die Trassenvergabestelle ist in ihrem Zuständigkeitsbereich zur Beschwerde gegen Verfügungen der RailCom oder anderer Bundesbehörden sowie gegen Entscheide des Bundesverwaltungsgerichts berechtigt.
 
-## 3. Kapitel: Aufsicht****
+## 3. Kapitel: Aufsicht
 
 [^chap3-1]
 
@@ -798,13 +798,11 @@ Es kann nach einer Verhältnismässigkeitsprüfung der Öffentlichkeit besonders
 
 **Datenbearbeitung durch Konzessionsinhaberinnen**[^16a-1]
 
-<sup>1</sup> Die Konzessionsinhaberinnen unterstehen für ihre konzessionierten Tätigkeiten den Artikeln 16–25<sup>bis</sup> des Bundesgesetzes vom 19. Juni 1992[^16a-2] über den Datenschutz (DSG).
+<sup>1</sup> Die Unternehmen unterstehen für ihre konzessionierten und bewilligten Tätigkeiten den Artikeln 33–42 des Datenschutzgesetzes vom 25. September 2020[^16a-2] (DSG). Handeln sie dabei privatrechtlich, so unterstehen sie stattdessen den Artikeln 30–32 DSG.
 
-<sup>2</sup> Sie können besonders schützenswerte Personendaten sowie Persönlichkeitsprofile bearbeiten, soweit dies für die Sicherheit der Infrastruktur, insbesondere für deren Bau und Betrieb, erforderlich ist. Dies gilt auch für Dritte, die Aufgaben der Konzessionsinhaberinnen wahrnehmen. Diese bleiben für die Einhaltung der Datenschutzvorschriften verantwortlich.
+<sup>2</sup> Sie können Personendaten, einschliesslich besonders schützenswerter Personendaten, bearbeiten, soweit dies für die Sicherheit der Infrastruktur, insbesondere für deren Bau und Betrieb, erforderlich ist. Dies gilt auch für Dritte, die Aufgaben der Konzessionsinhaberinnen wahrnehmen. Diese bleiben für die Einhaltung der Datenschutzvorschriften verantwortlich.
 
-<sup>3</sup> Die Aufsicht richtet sich nach Artikel 27 DSG.
-
-[^16a-1]: Eingefügt durch Ziff. II 13 des BG vom 20. März 2009 über die Bahnreform 2, in Kraft seit 1. Jan. 2010 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)).
+[^16a-1]: Eingefügt durch Ziff. II 13 des BG vom 20. März 2009 über die Bahnreform 2 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)). Fassung gemäss Anhang 1 Ziff. II 61 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^16a-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 16b
@@ -825,13 +823,13 @@ Es kann nach einer Verhältnismässigkeitsprüfung der Öffentlichkeit besonders
 
 [^16b-1]: Eingefügt durch Ziff. II 13 des BG vom 20. März 2009 über die Bahnreform 2, in Kraft seit 1. Jan. 2010 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 
-## 4. Kapitel: Planung, Bau und Betrieb****
+## 4. Kapitel: Planung, Bau und Betrieb
 
 [^chap4-1]
 
 [^chap4-1]: Fassung gemäss Ziff. II 13 des BG vom 20. März 2009 über die Bahnreform 2, in Kraft seit 1. Jan. 2010 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 
-### 1. Abschnitt: Grundsätze****
+### 1. Abschnitt: Grundsätze
 
 [^chap4-sec1-1]
 
@@ -903,7 +901,7 @@ Er kann:
 
 [^17c-1]: Eingefügt durch Ziff. I 4 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 
-### 2. Abschnitt: Plangenehmigungsverfahren****
+### 2. Abschnitt: Plangenehmigungsverfahren
 
 [^chap4-sec2-1]
 
@@ -1099,7 +1097,7 @@ Die kantonale Behörde hört das BAV vor der Bewilligung einer Nebenanlage an:
 [^18m-1]: Eingefügt durch Ziff. I 9 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 [^18m-2]: Ausdruck gemäss Ziff. II 13 des BG vom 20. März 2009 über die Bahnreform 2, in Kraft seit 1. Jan. 2010 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)). Diese Änderung wurde im ganzen Erlass berücksichtigt.
 
-### 3. Abschnitt: Projektierungszonen****
+### 3. Abschnitt: Projektierungszonen
 
 [^chap4-sec3-1]
 
@@ -1140,7 +1138,7 @@ Die kantonale Behörde hört das BAV vor der Bewilligung einer Nebenanlage an:
 
 [^18p-1]: Eingefügt durch Ziff. I 9 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 
-### 4. Abschnitt: Baulinien****
+### 4. Abschnitt: Baulinien
 
 [^chap4-sec4-1]
 
@@ -1194,7 +1192,7 @@ Im Einvernehmen mit dem BAV können neben Baulinien im Sinne dieses Gesetzes auc
 
 [^18t-1]: Ursprünglich Art. 18*h*. Eingefügt durch Ziff. I des BG vom 8. Okt. 1982, in Kraft seit 1. Jan. 1985 ([AS 1984 1429](https://fedlex.data.admin.ch/eli/oc/1984/1429_1429_1429); [BBl 1981 I 325](https://fedlex.data.admin.ch/eli/fga/1981/1_325_349_313)).
 
-### 5. Abschnitt: Entschädigung für Eigentumsbeschränkungen****
+### 5. Abschnitt: Entschädigung für Eigentumsbeschränkungen
 
 [^chap4-sec5-1]
 
@@ -1219,7 +1217,7 @@ Im Einvernehmen mit dem BAV können neben Baulinien im Sinne dieses Gesetzes auc
 [^18u-3]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
 [^18u-4]: Fassung des zweiten Satzes gemäss Anhang Ziff. 13 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
-### 6. Abschnitt: Landumlegung****
+### 6. Abschnitt: Landumlegung
 
 [^chap4-sec6-1]
 
@@ -1250,7 +1248,7 @@ Für das Landumlegungsverfahren gilt:
 [^18v-1]: Eingefügt durch Ziff. I 9 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 [^18v-2]: Aufgehoben durch Ziff. II 13 des BG vom 20. März 2009 über die Bahnreform 2, mit Wirkung seit 1. Jan. 2010 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 
-### 7. Abschnitt: Sicherheit****
+### 7. Abschnitt: Sicherheit
 
 [^chap4-sec7-1]
 
@@ -1337,7 +1335,7 @@ Die Eisenbahnunternehmen dürfen die für ihren Dienst notwendigen elektrischen 
 
 [^23-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [BBl 2013 7185](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
 
-### 7*a*. Abschnitt:**** Interoperabilität mit dem europäischen Eisenbahnsystem
+### 7*a*. Abschnitt: Interoperabilität mit dem europäischen Eisenbahnsystem
 
 [^chap4-sec7a-1]
 
@@ -1465,7 +1463,7 @@ Der Bundesrat kann eine vom BAV unabhängige Konformitätsbewertungsstelle erric
 
 Das BAV ist befugt, die für die Interoperabilität erforderlichen Daten bei den Eisenbahnunternehmen zu erheben, diese Daten zu bearbeiten und sie zu veröffentlichen.
 
-### 8. Abschnitt: Kreuzungen zwischen öffentlichen Strassen und Bahnen****
+### 8. Abschnitt: Kreuzungen zwischen öffentlichen Strassen und Bahnen
 
 [^chap4-sec8-1]
 
@@ -1556,7 +1554,7 @@ Die Artikel 24–27 und 29 finden entsprechende Anwendung auf Kreuzungen zwische
 
 Die Artikel 25–31 finden insoweit keine Anwendung, als zwischen den Beteiligten abweichende Vereinbarungen über die Kosten bestehen oder getroffen werden.
 
-### 8*a*. Abschnitt:**** Vorhaltekosten der Wehrdienste
+### 8*a*. Abschnitt: Vorhaltekosten der Wehrdienste
 
 [^chap4-sec8a-1]
 
@@ -1570,7 +1568,7 @@ Die Artikel 25–31 finden insoweit keine Anwendung, als zwischen den Beteiligte
 
 <sup>3</sup> Das UVEK legt insbesondere fest, welche Leistungen die Vorbereitung der Wehrdienste auf Einsätze umfassen kann und wie die Vorhaltekosten zu berechnen sind.
 
-### 9. Abschnitt: Zusammenarbeit zwischen den Bahnen****
+### 9. Abschnitt: Zusammenarbeit zwischen den Bahnen
 
 [^chap4-sec9-1]
 
@@ -1667,13 +1665,14 @@ Das BAV und die Beauftragten vereinbaren schriftlich Inhalt und Umfang der Syste
 
 <sup>7</sup> Die Übertragung von Systemaufgaben gemäss diesem Artikel gilt nicht als öffentlicher Auftrag im Sinne des BöB[^37-4]. Sie unterliegt nicht der Beschwerde.
 
-<sup>8</sup> Artikel 10*a* DSG[^37-5] ist anwendbar.
+<sup>8</sup> Artikel 9 DSG[^37-5] ist anwendbar.[^37-6]
 
 [^37-1]: Fassung gemäss Ziff. I 3 des BG vom 28. Sept. 2018 über die Organisation der Bahninfrastruktur, in Kraft seit 1. Juli 2020 ([AS 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [BBl 2016 8661](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 [^37-2]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
 [^37-3]: [SR 742.140](https://fedlex.data.admin.ch/eli/cc/2015/107)
 [^37-4]: [SR 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
 [^37-5]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^37-6]: Fassung gemäss Anhang 1 Ziff. II 61 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 37a
 
@@ -1685,7 +1684,7 @@ Das BAV und die Beauftragten vereinbaren schriftlich Inhalt und Umfang der Syste
 
 [^37a-1]: Eingefügt durch Ziff. I 3 des BG vom 28. Sept. 2018 über die Organisation der Bahninfrastruktur, in Kraft seit 1. Jan. 2021 ([AS 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [BBl 2016 8661](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 
-### 10. Abschnitt: Betriebsunterbruch****
+### 10. Abschnitt: Betriebsunterbruch
 
 [^chap4-sec10-1]
 
@@ -1705,7 +1704,7 @@ Das BAV und die Beauftragten vereinbaren schriftlich Inhalt und Umfang der Syste
 [^38-2]: Aufgehoben durch Ziff. II 13 des BG vom 20. März 2009 über die Bahnreform 2, mit Wirkung seit 1. Jan. 2010 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 [^38-3]: Eingefügt durch Anhang Ziff. II 3 des Gütertransportgesetzes vom 25. Sept. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328); [BBl 2014 3827](https://fedlex.data.admin.ch/eli/fga/2014/923)).
 
-### 11. Abschnitt: Nebenbetriebe****
+### 11. Abschnitt: Nebenbetriebe
 
 [^chap4-sec11-1]
 
@@ -1726,7 +1725,7 @@ Das BAV und die Beauftragten vereinbaren schriftlich Inhalt und Umfang der Syste
 [^39-1]: Fassung gemäss Ziff. II 13 des BG vom 20. März 2009 über die Bahnreform 2, in Kraft seit 1. Jan. 2010 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 [^39-2]: Eingefügt durch Anhang Ziff. 2 des BG vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [BBl 2013 7185](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
 
-### 12. Abschnitt: Zuständigkeit des BAV bei Streitigkeiten****
+### 12. Abschnitt: Zuständigkeit des BAV bei Streitigkeiten
 
 [^chap4-sec12-1]
 
@@ -1756,7 +1755,7 @@ Das BAV entscheidet nach Anhörung der Beteiligten über Streitigkeiten betreffe
 [^40-6]: Fassung gemäss Ziff. I 3 des BG vom 28. Sept. 2018 über die Organisation der Bahninfrastruktur, in Kraft seit 1. Juli 2020 ([AS 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [BBl 2016 8661](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 [^40-7]: Fassung gemäss Ziff. II 13 des BG vom 20. März 2009 über die Bahnreform 2, in Kraft seit 1. Jan. 2010 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 
-### 12*a*. Abschnitt: Kommission für den Eisenbahnverkehr****
+### 12*a*. Abschnitt: Kommission für den Eisenbahnverkehr
 
 [^chap4-sec12a-1]
 
@@ -1887,7 +1886,7 @@ Sie überwacht:
 
 [^40aocties-1]: Eingefügt durch Ziff. I 3 des BG vom 28. Sept. 2018 über die Organisation der Bahninfrastruktur, in Kraft seit 1. Juli 2020 ([AS 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [BBl 2016 8661](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 
-### 13. Abschnitt:**** Haftung****
+### 13. Abschnitt: Haftung
 
 [^chap4-sec13-1][^chap4-sec13-2]
 
@@ -1955,7 +1954,7 @@ Soweit dieses Gesetz nichts anderes vorsieht, richtet sich die Haftung nach den 
 
 [^40f-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-## 5. Kapitel: Besondere Leistungen für öffentliche Verwaltungen****
+## 5. Kapitel: Besondere Leistungen für öffentliche Verwaltungen
 
 [^chap5-1]
 
@@ -2026,7 +2025,7 @@ Die Bundesgesetzgebung über den Schutz der Gesundheit von Menschen und Tieren, 
 
 [^48-1]: Fassung gemäss Anhang Ziff. 75 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-## 5*a*. Kapitel:**** Ausbau der Infrastruktur
+## 5*a*. Kapitel: Ausbau der Infrastruktur
 
 [^chap5a-1]
 
@@ -2104,14 +2103,14 @@ Der Ausbau der Infrastruktur hat folgende Ziele:
 
 <sup>3</sup> Die Vereinbarungen werden durch das UVEK abgeschlossen. Geringfügige Anpassungen, insbesondere solche technischer oder organisatorischer Natur, können vom BAV vereinbart werden.
 
-## 6. Kapitel:**** Finanzierung der Infrastruktur****
+## 6. Kapitel: Finanzierung der Infrastruktur
 
 [^chap6-1][^chap6-2]
 
 [^chap6-1]: Fassung gemäss Ziff. I des BG vom 24. März 1995, in Kraft seit 1. Jan. 1996 ([AS 1995 3680](https://fedlex.data.admin.ch/eli/oc/1995/3680_3680_3680); [BBl 1994 I 497](https://fedlex.data.admin.ch/eli/fga/1994/1_497_485_441)).
 [^chap6-2]: Fassung gemäss Ziff. II 13 des BG vom 20. März 2009 über die Bahnreform 2, in Kraft seit 1. Jan. 2010 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 
-### 1. Abschnitt: Im Allgemeinen****
+### 1. Abschnitt: Im Allgemeinen
 
 [^chap6-sec1-1]
 
@@ -2259,7 +2258,7 @@ Aufgehoben
 [^57-2]: Fassung des zweiten Satzes gemäss Ziff. I 6 des BG vom 19. März 2021 über administrative Erleichterungen und eine Entlastung des Bundeshaushalts, in Kraft seit 1. Jan. 2022 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 [^57-3]: Eingefügt durch Ziff. I 6 des BG vom 17. März 2017 über das Stabilisierungsprogramm 2017–2019, in Kraft seit 1. Jan. 2018 ([AS 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [BBl 2016 4691](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
 
-### 2. Abschnitt: Finanzierung des Ausbaus der Infrastruktur****
+### 2. Abschnitt: Finanzierung des Ausbaus der Infrastruktur
 
 [^chap6-sec2-1]
 
@@ -2333,7 +2332,7 @@ Der Bundesrat erstattet der Bundesversammlung jährlich Bericht über die Finanz
 
 [^58e-1]: Eingefügt durch Ziff. II 3 des BG vom 21. Juni 2013 über die Finanzierung und den Ausbau der Eisenbahninfrastruktur, in Kraft seit 1. Jan. 2016 ([AS 2015 651](https://fedlex.data.admin.ch/eli/oc/2015/106); [BBl 2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305)).
 
-## 7. Kapitel: Hilfe bei grossen Naturschäden****
+## 7. Kapitel: Hilfe bei grossen Naturschäden
 
 [^chap7-1]
 
@@ -2359,7 +2358,7 @@ Der Bund kann den von grossen Naturschäden betroffenen Eisenbahnunternehmen Fin
 
 [^61a-1]: Ursprünglich Art. 60*a*. Eingefügt durch Anhang Ziff. 16 des BG vom 5. Okt. 1990 über Finanzhilfen und Abgeltungen ([AS 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); [BBl 1987 I 369](https://fedlex.data.admin.ch/eli/fga/1987/1_369_369_297)). Aufgehoben durch Ziff. II 13 des BG vom 20. März 2009 über die Bahnreform 2, mit Wirkung seit 1. Jan. 2010 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 
-## 8. Kapitel:**** Trennung von Verkehr und Infrastruktur
+## 8. Kapitel: Trennung von Verkehr und Infrastruktur
 
 [^chap8-1]
 
@@ -2427,7 +2426,7 @@ Zur Infrastruktur gehören auch Betrieb und Unterhalt der Bauten, Anlagen und Ei
 
 Die Infrastruktur nach Artikel 62 Absätze 1 und 2 ist von kantonalen und kommunalen Liegenschaftssteuern befreit.
 
-## 9. Kapitel: Rechnungswesen****
+## 9. Kapitel: Rechnungswesen
 
 [^chap9-1]
 
@@ -2479,7 +2478,7 @@ Gewinnausschüttungen und die Verzinsung von Eigenkapital zulasten der Spartenre
 
 [^74-1]: Aufgehoben durch Ziff. II 13 des BG vom 20. März 2009 über die Bahnreform 2, mit Wirkung seit 1. Jan. 2010 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 
-## 10. Kapitel: Kaufrecht der Gemeinwesen****
+## 10. Kapitel: Kaufrecht der Gemeinwesen
 
 [^chap10-1]
 
@@ -2509,7 +2508,7 @@ Ist die Festsetzung des Erwerbspreises streitig, so erlässt das BAV eine Verfü
 
 [^79-1]: Fassung gemäss Anhang Ziff. 15 der V vom 3. Febr. 1993 über Vorinstanzen des Bundesgerichts und des Eidgenössischen Versicherungsgerichts, in Kraft seit 1. Jan. 1994 ([AS 1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)).
 
-## 11. Kapitel:**** Sicherheitsrelevante Tätigkeiten im Eisenbahnbereich
+## 11. Kapitel: Sicherheitsrelevante Tätigkeiten im Eisenbahnbereich
 
 [^chap11-1]
 
@@ -2609,7 +2608,7 @@ Der Bundesrat:
 
 <sup>2</sup> Er bezeichnet die sicherheitsrelevanten Tätigkeiten im Eisenbahnbereich.
 
-## 12. Kapitel: Strafbestimmungen und Verwaltungsmassnahmen****
+## 12. Kapitel: Strafbestimmungen und Verwaltungsmassnahmen
 
 [^chap12-1]
 
@@ -2753,7 +2752,7 @@ Polizei- und Strafbehörden haben alle Verstösse, die eine Massnahme nach Artik
 
 [^90-1]: Aufgehoben durch Ziff. I des BG vom 20. März 1998, mit Wirkung seit 1. Jan. 1999 ([AS 1998 2835](https://fedlex.data.admin.ch/eli/oc/1998/2835_2835_2835); [BBl 1997 I 909](https://fedlex.data.admin.ch/eli/fga/1997/1_909_853_809)).
 
-## 13. Kapitel: Schlussbestimmungen****
+## 13. Kapitel: Schlussbestimmungen
 
 [^chap13-1]
 
@@ -2846,10 +2845,10 @@ Unter Vorbehalt der gestützt darauf begründeten Rechte und Forderungen von Bun
 [^96-2]: [BS **8** 586]
 [^96-3]: [BS **7** 217]
 [^96-4]: [BS **7** 220]
-[^96-5]: [BS **7** 117; [AS 1949 563](https://fedlex.data.admin.ch/eli/oc/1949/563_569_571)Art. 55 Bst. c, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 17. [AS 1998 2835](https://fedlex.data.admin.ch/eli/oc/1998/2835_2835_2835)Ziff. II 1]
+[^96-5]: [BS **7** 117; [AS 1949 563](https://fedlex.data.admin.ch/eli/oc/1949/563_569_571)Art. 55 Bst. c; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 17. [AS 1998 2835](https://fedlex.data.admin.ch/eli/oc/1998/2835_2835_2835)Ziff. II 1]
 [^96-6]: [BS **7** 979]
 [^96-7]: [BS **3** 531]
-[^96-8]: [BS **7** 27; [AS 1958 335](https://fedlex.data.admin.ch/eli/oc/1958/335_341_347)Art. 96 Abs. 1 Ziff. 8 und Abs. 3, **1986** 1974 Art. 53 Ziff. 5, **2010** 1881 Anhang 1 Ziff. II 23. [AS 2011 3961](https://fedlex.data.admin.ch/eli/oc/2011/565)Art. 11 Abs. 1]
+[^96-8]: [BS **7** 27; [AS 1958 335](https://fedlex.data.admin.ch/eli/oc/1958/335_341_347)Art. 96 Abs. 1 Ziff. 8 und Abs. 3; **1986** 1974 Art. 53 Ziff. 5; **2010** 1881 Anhang 1 Ziff. II 23. [AS 2011 3961](https://fedlex.data.admin.ch/eli/oc/2011/565)Art. 11 Abs. 1]
 [^96-9]: [SR 744.21](https://fedlex.data.admin.ch/eli/cc/1951/665_663_685). Heute: BG über die Trolleybusunternehmen.
 [^96-10]: [BS **7** 30]
 [^96-11]: [BS **7** 234; [AS 1958 335](https://fedlex.data.admin.ch/eli/oc/1958/335_341_347)Art. 96 Abs. 1 Ziff. 11. [AS 2003 210](https://fedlex.data.admin.ch/eli/oc/2003/28)Ziff. I 13]
@@ -2881,19 +2880,19 @@ Datum des Inkrafttretens: 1. Juli 1958[^97-2]
 [^97-1]: Zweiter Satz eingefügt durch Ziff. I des BG vom 24. März 1995, in Kraft seit 1. Jan. 1996 ([AS 1995 3680](https://fedlex.data.admin.ch/eli/oc/1995/3680_3680_3680); [BBl 1994 I 497](https://fedlex.data.admin.ch/eli/fga/1994/1_497_485_441)).
 [^97-2]: BRB vom 24. Juni 1958
 
-## Übergangsbestimmungen der Änderung vom 24. März 1995****
+## Übergangsbestimmungen der Änderung vom 24. März 1995
 
 [^u1-1]
 
 [^u1-1]: [AS 1995 3680](https://fedlex.data.admin.ch/eli/oc/1995/3680_3680_3680); [BBl 1994 I 497](https://fedlex.data.admin.ch/eli/fga/1994/1_497_485_441). Aufgehoben durch Ziff. II 13 des BG vom 20. März 2009 über die Bahnreform 2, mit Wirkung seit 1. Jan. 2010 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 
-## Übergangsbestimmungen der Änderung vom 20. März 1998****
+## Übergangsbestimmungen der Änderung vom 20. März 1998
 
 [^u2-1]
 
 [^u2-1]: [AS 1998 2835](https://fedlex.data.admin.ch/eli/oc/1998/2835_2835_2835); [BBl 1997 I 909](https://fedlex.data.admin.ch/eli/fga/1997/1_909_853_809). Aufgehoben durch Ziff. II 13 des BG vom 20. März 2009 über die Bahnreform 2, mit Wirkung seit 1. Jan. 2010 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 
-## Schlussbestimmungen zur Änderung vom 18. Juni 1999****
+## Schlussbestimmungen zur Änderung vom 18. Juni 1999
 
 [^u3-1]
 
@@ -2907,7 +2906,7 @@ Datum des Inkrafttretens: 1. Juli 1958[^97-2]
 
 [^u3-2]: [[AS 1991 1319](https://fedlex.data.admin.ch/eli/oc/1991/1319_1319_1319)]
 
-## Übergangsbestimmung zur Änderung vom 20. März 2009****
+## Übergangsbestimmung zur Änderung vom 20. März 2009
 
 [^u4-1]
 
@@ -2917,7 +2916,7 @@ Die bestehende Eisenbahninfrastruktur der SBB im Zeitpunkt des Inkrafttretens vo
 
 [^u4-2]: [AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)
 
-## Übergangsbestimmung zur Änderung vom 16. März 2012****
+## Übergangsbestimmung zur Änderung vom 16. März 2012
 
 [^u5-1]
 
@@ -2925,7 +2924,7 @@ Die bestehende Eisenbahninfrastruktur der SBB im Zeitpunkt des Inkrafttretens vo
 
 Der Bundesrat legt fest, bis wann der Nachweis, dass ein Teilsystem nach Artikel 23*c* die grundlegenden Anforderungen erfüllt, auf andere Weise als durch Konformitätsbescheinigungen von Konformitätsbewertungsstellen geführt werden kann.
 
-## Übergangsbestimmungen zur Änderung vom 28. September 2018****
+## Übergangsbestimmungen zur Änderung vom 28. September 2018
 
 [^u6-1]
 
@@ -2953,6 +2952,6 @@ Der Bundesrat legt fest, bis wann der Nachweis, dass ein Teilsystem nach Artikel
 [^u6-2]: [SR 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
 [^u6-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-Anhang*[^t-2]*
+Anhang[^t-2]
 
 [^t-2]: Eingefügt durch Ziff. I 9 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591). Aufgehoben durch Anhang Ziff. 2 des BG vom 26. Sept. 2014, mit Wirkung seit 1. Jan. 2016 ([AS 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [BBl 2013 7185](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
