@@ -4,13 +4,13 @@ number: "600"
 title: Gesetz über die Steuerung der Finanzen und Leistungen
 short: FLG
 language: de
-version: 2017-12-01
-valid_until: 2023-08-31
-version_adopted: 2017-09-11
+version: 2023-09-01
+valid_until: 2023-12-31
+version_adopted: 2023-06-19
 adopted: 2010-09-13
 in_force: 2011-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/600"
-pdf: "https://srl.lu.ch/api/de/versions/3152/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4160/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3152/pdf_file"
 
 (FLG)
 
-vom 13.09.2010 (Stand 01.12.2017)
+vom 13.09.2010 (Stand 01.09.2023)
 
 Der Kantonsrat des Kantons Luzern,
 
@@ -117,7 +117,9 @@ beschliesst:
 
 **Auswirkung der Schuldenbremsen auf den Aufgaben- und Finanzplan**
 
-<sup>1</sup> Zeichnet sich im Aufgaben- und Finanzplan eine Überschreitung der Schuldengrenze ab oder liegt der Ertragsüberschuss des Ausgleichskontos im letzten Planjahr unter 100 Millionen Franken, leitet der Regierungsrat Massnahmen ein und integriert sie in den nächsten Aufgaben- und Finanzplan.
+<sup>1</sup> Im Aufgaben- und Finanzplan ist anzustreben, dass der Handlungsspielraum bei den Nettoschulden zur Einhaltung der Schuldengrenze und der Saldo des statistischen Ausgleichskontos mindestens 100 Millionen Franken plus den doppelten Betrag der durchschnittlich eingeplanten jährlichen Ausschüttungen der Schweizerischen Nationalbank betragen.
+
+<sup>1<sup>bis</sup></sup> Zeichnet sich im letzten Planjahr des Aufgaben- und Finanzplans ab, dass beim Handlungsspielraum bei den Nettoschulden oder beim Saldo des Ausgleichskontos der Mindestbetrag gemäss Absatz 1 unterschritten wird, leitet der Regierungsrat Massnahmen ein und integriert diese in den nächsten Aufgaben- und Finanzplan.
 
 <sup>2</sup> …
 
@@ -128,6 +130,8 @@ beschliesst:
 <sup>1</sup> Im Voranschlag muss das Ausgleichskonto mindestens ausgeglichen sein und die Schuldengrenze eingehalten werden.
 
 <sup>2</sup> Ein Aufwandüberschuss in der Erfolgsrechnung darf im Voranschlag nur vorgesehen werden, wenn die Vorgaben von Absatz 1 eingehalten werden. Er darf höchstens 4 Prozent des Bruttoertrages einer Einheit der Staatssteuern betragen.
+
+<sup>3</sup> Liegt der im Voranschlag berücksichtigte Ertrag aus der Ausschüttung der Schweizerischen Nationalbank unter dem im Aufgaben- und Finanzplan des Vorjahres für das erste Planjahr eingeplanten Wert, erhöht sich der gemäss Absatz 2 zulässige Aufwandüberschuss um diese Differenz.
 
 #### § 7b
 
@@ -390,7 +394,7 @@ Beteiligungsstrategie zur Genehmigung vor.
 
 <sup>1</sup> Wird die Erfüllung kantonaler Aufgaben Personen oder Organisationen ausserhalb der Verwaltung übertragen, schliesst das zuständige Departement oder die zuständige Dienststelle mit ihnen unter Vorbehalt der Ausgabenbefugnis auf der Grundlage der mehrjährigen Leistungsplanung eine Leistungsvereinbarung ab.
 
-<sup>2</sup> Das Departement oder die Dienststelle berücksichtigt dabei die der Aufgabe zugrunde liegenden Spezialgesetze sowie das Gesetz über die öffentlichen Beschaffungen vom 19. Oktober 1998[^20i-1] und das Staatsbeitragsgesetz vom 17. September 1996[^20i-2].
+<sup>2</sup> Das Departement oder die Dienststelle berücksichtigt dabei die der Aufgabe zugrunde liegenden Spezialgesetze sowie die Interkantonale Vereinbarung über das öffentliche Beschaffungswesen vom 15. November 2019[^20i-1], das Einführungsgesetz zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen vom 12. September 2022[^20i-2] und das Staatsbeitragsgesetz vom 17. September 1996[^20i-3].
 
 <sup>3</sup> Die Leistungsvereinbarung regelt insbesondere
 
@@ -403,8 +407,9 @@ Beteiligungsstrategie zur Genehmigung vor.
 
 <sup>5</sup> Leistungsvereinbarungen mit Organisationen von grosser Bedeutung oder mit hohem Risiko, an denen der Kanton beteiligt ist, bedürfen der Genehmigung des Regierungsrates. Dieser bezeichnet die betreffenden Organisationen in der Verordnung.
 
-[^20i-1]: SRL Nr. [733](https://srl.lu.ch/data/733/de)
-[^20i-2]: SRL Nr. [601](https://srl.lu.ch/data/601/de)
+[^20i-1]: SRL Nr. [733b](https://srl.lu.ch/data/733b/de)
+[^20i-2]: SRL Nr. [733c](https://srl.lu.ch/data/733c/de)
+[^20i-3]: SRL Nr. [601](https://srl.lu.ch/data/601/de)
 
 #### § 20j
 
@@ -644,8 +649,8 @@ Genehmigung zu unterbreiten.
 
 - a. die Universität Luzern,
 - b. die Lustat Statistik Luzern,
-- c. das Luzerner Kantonsspital,
-- d. die Luzerner Psychiatrie,
+- c. die Luzerner Kantonsspital Gruppe,
+- d. die Luzerner Psychiatrie AG,
 - e. den Verkehrsverbund Luzern,
 - f. die Pädagogische Hochschule Luzern.
 
