@@ -3,20 +3,19 @@ canton: SO
 number: "113.114"
 title: Verordnung über Abstimmungs- und Wahlplakate
 language: de
-version: 2015-09-01
-valid_until: 2023-08-31
-version_adopted: 2015-06-22
+version: 2023-09-01
+version_adopted: 2023-06-20
 adopted: 2015-06-22
 in_force: 2015-09-01
 url: "https://bgs.so.ch/app/de/texts_of_law/113.114"
-pdf: "https://bgs.so.ch/api/de/versions/4413/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5402/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über Abstimmungs- und Wahlplakate
 
-Vom 22.06.2015 (Stand 01.09.2015)
+Vom 22.06.2015 (Stand 01.09.2023)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -29,9 +28,11 @@ beschliesst:
 
 #### § 1
 
-**Zweck**
+**Inhalt und Zweck**
 
 <sup>1</sup> Diese Verordnung regelt das Plakatieren und Werben bei eidgenössischen, kantonalen, regionalen und kommunalen Abstimmungen und Wahlen.
+
+<sup>1<sup>bis</sup></sup> Sie dient insbesondere der Verkehrssicherheit.
 
 <sup>2</sup> Vorbehalten bleibt § 3 Absatz 2.
 
@@ -55,9 +56,11 @@ beschliesst:
 
 **Grundsatz**
 
-<sup>1</sup> Das Aufstellen von Abstimmungs- und Wahlplakaten sowie Abstimmungs- und Wahlwerbungen ist bewilligungsfrei.
+<sup>1</sup> Das Aufstellen und Anbringen von Abstimmungs- und Wahlplakaten sowie Abstimmungs- und Wahlwerbungen auf oder an öffentlichen Sachen im Gemeingebrauch ist bewilligungsfrei.
 
-<sup>2</sup> Abstimmungs- und Wahlplakate an Kandelabern dürfen die Grösse von 1 m² nicht überschreiten.
+<sup>1<sup>bis</sup></sup> Nicht erlaubt ist das Aufstellen und Anbringen von Abstimmungs- und Wahlplakaten sowie Abstimmungs- und Wahlwerbungen auf oder an öffentlichen Sachen im Verwaltungsvermögen wie beispielsweise Verwaltungsgebäuden, Werkhöfen, Schulhäusern, Haftanstalten sowie an allen dazugehörigen Bauten und Anlagen wie zum Beispiel Zäunen, Unterständen, Absperrungen, Schutzeinrichtungen oder Masten.
+
+<sup>2</sup> Abstimmungs- und Wahlplakate an Kandelabern dürfen die Grösse des Formats F4 (89,5x128cm) nicht überschreiten.
 
 <sup>3</sup> Der Name der verantwortlichen Person, Organisation oder des Komitees muss ersichtlich sein.
 
@@ -68,38 +71,46 @@ beschliesst:
 
 #### § 5
 
-**Verbot**
+**Verbot aus Gründen der Verkehrssicherheit**
 
-<sup>1</sup> Aus Gründen der Verkehrssicherheit verboten sind:
+<sup>1</sup> Aus Gründen der Verkehrssicherheit sind Abstimmungs- und Wahlplakate sowie Abstimmungs- und Wahlwerbungen insbesondere an folgenden Standorten verboten:
 
-- a) Plakate über der Strasse, an und über Brücken, Tunneln und Unterführungen;
-- b) Plakate an Örtlichkeiten, wo die Sicht für die Verkehrsteilnehmenden ganz offensichtlich eingeschränkt wird und dadurch verkehrsgefährdende Situationen entstehen;
-- c) Plakate im Kreisel und bis 20 m davor;
-- d) Plakate an Verkehrssignalständern jeglicher Art;
-- e) Plakate, die in das Lichtraumprofil der Fahrbahn vorstehen;
-- f) Plakate auf und im Bereich von Autobahnen;
-- g) gezielt beleuchtete oder projizierte, freistehende Plakate im Bereich von Strassen;
-- h) Plakate, die wegen ihrer offensichtlichen Auffälligkeit (Grösse und Farbe) zu stark vom Verkehrsgeschehen ablenken;
-- i) Plakate, die mit Verkehrssignalen verwechselt werden könnten;
-- j) mehrere Plakate, die in dichter Folge aufgestellt sind.
+- a) über der Fahrbahn, an und über Brücken, Tunneln und Unterführungen;
+- b) an Örtlichkeiten, wo die Sicht für die Verkehrsteilnehmenden offensichtlich eingeschränkt und damit die Verkehrssicherheit beeinträchtigt wird wie beispielsweise in Kurven, bei Kuppen, Bahnübergängen, Haltestellen, Baustellen, Ein- oder Ausfahrten oder bei Verzweigungen;
+- c) in und bis 20m um Kreiseln;
+- d) an Signalen und bis 10m um Signale;
+- e) im Lichtraumprofil der Strasse;
+- f) an Autobahnen und Autostrassen, deren Einrichtungen und Nebenanlagen sowie den dazugehörigen Perimeter der Zu- und Abfahrten;
+- f<sup>bis</sup>) im Bereich von Fussgängerwarteräumen und bis 20m davor;
+- f<sup>ter</sup>) auf Gehwegen und Verkehrsflächen, wenn sie Fussgänger behindern.
+- g) …
+- h) …
+- i) …
+- j) …
+
+<sup>2</sup> Zudem verboten sind Abstimmungs- und Wahlplakate sowie Abstimmungs- und Wahlwerbungen,
+
+- a) die mit Verkehrssignalen verwechselt werden könnten;
+- b) die freistehend im Bereich von Strassen gezielt beleuchtet oder projiziert werden;
+- c) die wegen ihrer offensichtlichen Auffälligkeit (Art, Grösse oder Farbe) zu stark vom Verkehrsgeschehen ablenken und somit die Verkehrssicherheit beeinträchtigen können.
 
 #### § 6
 
 **Befristung**
 
-<sup>1</sup> Abstimmungs- und Wahlplakate dürfen frühestens sechs Wochen vor dem Urnengang aufgestellt oder aufgehängt werden und sind bis spätestens eine Woche nach dem Urnengang wieder zu entfernen.
+<sup>1</sup> Abstimmungs- und Wahlplakate sowie Abstimmungs- und Wahlwerbungen dürfen frühestens am 7. letzten Samstag, 7.00 Uhr vor dem Urnengang aufgestellt oder angebracht werden und sind bis spätestens eine Woche nach dem Urnengang wieder zu entfernen.
 
 #### § 7
 
 **Entfernung**
 
-<sup>1</sup> Die zuständigen kommunalen Behörden können die Verantwortlichen formlos auffordern, dieser Verordnung widersprechende Plakate innert angemessener Frist zu entfernen.
+<sup>1</sup> Die zuständigen kommunalen oder kantonalen Behörden können die Verantwortlichen formlos auffordern, dieser Verordnung widersprechende Plakate innert angemessener Frist zu entfernen.
 
-<sup>2</sup> Wird der Aufforderung nicht nachgekommen, kann die zuständige kommunale Behörde die Anordnung zur Entfernung innert 3 Tagen unter Androhung der Ersatzvornahme verfügen.
+<sup>2</sup> Wird der Aufforderung nicht nachgekommen, kann die zuständige kommunale oder kantonale Behörde die Anordnung zur Entfernung innert 3 Tagen unter Androhung der Ersatzvornahme verfügen.
 
-<sup>3</sup> Plakate, welche die Verkehrssicherheit gefährden, werden von der Polizei oder dem zuständigen Kreisbauamt ohne vorgängige Rücksprache mit der verantwortlichen Person oder Organisation unverzüglich entfernt.
+<sup>3</sup> Abstimmungs- und Wahlplakate sowie Abstimmungs- und Wahlwerbungen, welche die Verkehrssicherheit beeinträchtigen, werden von der Polizei oder dem zuständigen Kreisbauamt ohne vorgängige Rücksprache mit der verantwortlichen Person oder Organisation unverzüglich entfernt sowie im Wiederholungsfall entsorgt.
 
-<sup>4</sup> Sind Abstimmungs- und Wahlplakate nicht spätestens eine Woche nach dem Urnengang vollständig entfernt, können sie von der Gemeinde oder dem Kanton ohne vorherige Androhung der Ersatzvornahme unverzüglich beseitigt werden.
+<sup>4</sup> Ausserhalb der Befristung von § 6 aufgestellte oder angebrachte Abstimmungs- und Wahlplakate können von der Gemeinde oder dem Kanton ohne vorherige Androhung der Ersatzvornahme unverzüglich beseitigt und entsorgt werden.
 
 <sup>5</sup> Die Kosten der Ersatzvornahmen tragen die verantwortlichen Personen oder Organisationen.
 
