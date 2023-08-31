@@ -3,11 +3,11 @@ sr: "235.21"
 title: "Ordonnance du 22 mars 2019 sur le système d'information Ordipro (Ordonnance Ordipro)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/209"
 language: fr
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2019-03-22
 in_force: 2019-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/209/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-209-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/209/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/209/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2019-209-20230901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/209/20230901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/209/20220101/fr"
 
 (Ordonnance Ordipro)
 
-du 22 mars 2019 (Etat le 1<sup>er</sup> janvier 2022)
+du 22 mars 2019 (État le 1<sup>er</sup> septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -213,7 +213,9 @@ Le Protocole du DFAE et la Mission de Genève édictent un règlement sur le tra
 
 <sup>1</sup> Les accès au système et les traitements qui y sont effectués sont journalisés en permanence.
 
-<sup>2</sup> Les procès-verbaux de journalisation sont conservés pendant un an.
+<sup>2</sup> Les procès-verbaux de journalisation sont conservés pendant un an, séparément du système dans lequel les données personnelles sont traitées.[^15-1]
+
+[^15-1]: Nouvelle teneur selon l’annexe 2 ch. II 30 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 5 Dispositions finales
 
@@ -241,7 +243,7 @@ Les actes mentionnés ci-après sont modifiés comme suit:
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> mai 2019.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 4, al. 2, 7, al. 2 et 3, ainsi que 8, al. 1)
 

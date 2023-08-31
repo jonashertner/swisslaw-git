@@ -3,11 +3,11 @@ sr: "235.21"
 title: "Ordinanza del 22 marzo 2019 concernente il sistema d'informazione Ordipro (Ordinanza Ordipro)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/209"
 language: it
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2019-03-22
 in_force: 2019-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/209/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2019-209-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/209/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/209/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2019-209-20230901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/209/20230901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/209/20220101/it"
 
 (Ordinanza Ordipro)
 
-del 22 marzo 2019 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 22 marzo 2019 (Stato 1° settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -215,7 +215,9 @@ Il Protocollo DFAE e la Missione di Ginevra emanano un regolamento per il tratta
 
 <sup>1</sup> Gli accessi al sistema e il trattamento dei dati sono costantemente verbalizzati.
 
-<sup>2</sup> I verbali sono conservati per un anno.
+<sup>2</sup> I verbali sono conservati per un anno separatamente dal sistema in cui sono trattati i dati personali.[^15-1]
+
+[^15-1]: Nuovo testo giusta l’all. 2 n. II 30 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 5: Disposizioni finali
 
@@ -243,7 +245,7 @@ Gli atti normativi qui appresso sono modificati come segue:
 
 La presente ordinanza entra in vigore il 1° maggio 2019.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 4 cpv. 2, 7 cpv. 2 e 3, nonché 8 cpv. 1)
 

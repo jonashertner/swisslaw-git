@@ -3,11 +3,11 @@ sr: "235.21"
 title: Verordnung vom 22. März 2019 über das Informationssystem Ordipro (Ordipro-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/209"
 language: de
-version: 2022-01-01
+version: 2023-09-01
 adopted: 2019-03-22
 in_force: 2019-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/209/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2019-209-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/209/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/209/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2019-209-20230901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/209/20230901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/209/20220101/de"
 
 (Ordipro-Verordnung)
 
-vom 22. März 2019 (Stand am 1. Januar 2022)
+vom 22. März 2019 (Stand am 1. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -214,7 +214,9 @@ Das Protokoll EDA und die Mission Genf erlassen ein Bearbeitungsreglement. Diese
 
 <sup>1</sup> Die Zugriffe auf das System und die Bearbeitungen werden laufend protokolliert.
 
-<sup>2</sup> Die Protokolle werden ein Jahr aufbewahrt.
+<sup>2</sup> Die Protokolle werden während einem Jahr getrennt vom System, in welchem die Personendaten bearbeitet werden, aufbewahrt.[^15-1]
+
+[^15-1]: Fassung gemäss Anhang 2 Ziff. II 30 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 5. Abschnitt: Schlussbestimmungen
 
