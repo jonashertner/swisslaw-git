@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision de l’ordonnance sur l’état civil (OEC) et de l’ordonnance sur les émoluments en matière d’état civil (OEEC)
 document: Projet mis en consultation
 language: fr

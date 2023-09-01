@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione dell’ordinanza sullo stato civile (OSC) e dell’ordinanza sugli emolumenti in materia di stato civile (OESC)
 document: Progetto posto in consultazione
 language: it
