@@ -3,13 +3,13 @@ canton: FR
 number: "122.0.15"
 title: Protokollreglement
 language: de
-version: 2022-02-01
-valid_until: 2023-09-03
-version_adopted: 2022-02-18
+version: 2023-09-04
+valid_until: 2025-10-16
+version_adopted: 2023-09-04
 adopted: 2023-09-04
 in_force: 2023-09-04
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.0.15"
-pdf: "https://bdlf.fr.ch/api/de/versions/7237/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7914/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,11 +18,11 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7237/pdf_file"
 
 Protokollreglement
 
-vom 10.12.2018 (Fassung in Kraft getreten am 01.02.2022)
+vom 04.09.2023 (Fassung in Kraft getreten am 04.09.2023)
 
 Der Staatsrat des Kantons Freiburg
 
-gestützt auf Artikel 26 Abs. 2 des Gesetzes vom 16. Oktober 2001 über die Organisation des Staatsrates und der Verwaltung;
+gestützt auf Artikel 26 Abs. 2 des Gesetzes vom 16. Oktober 2001 über die Organisation des Staatsrates und der Verwaltung (SVOG);
 
 auf Antrag der Staatskanzlei,
 
@@ -34,37 +34,35 @@ beschliesst:
 
 **Definition**
 
-<sup>1</sup> In diesem Reglement wird festgelegt, welche Rangordnungs- und Gewohnheitsvorschriften bei den amtlichen Feiern, Veranstaltungen und Beziehungen beachtet werden müssen.
-
-<sup>2</sup> In der französischen Version dieses Reglements wird für eine bessere Lesbarkeit das generische Maskulinum verwendet. Die männlichen Bezeichnungen gelten auch für Personen weiblichen Geschlechts und für Funktionen, die von Frauen ausgeübt werden.
+<sup>1</sup> In diesem Reglement wird festgelegt, welche Rangordnungs- und Gewohnheitsregelungen bei den amtlichen Feiern, Veranstaltungen und Beziehungen beachtet werden müssen.
 
 #### Art. 2
 
 **Geltungsbereich**
 
-<sup>1</sup> Dieses Reglement gilt für die Public Relations des Kantons Freiburg im Allgemeinen und für diejenigen der Kantonsregierung im Besonderen. Die Vorschriften werden in Richtlinien näher festgelegt.
+<sup>1</sup> Dieses Reglement gilt für die Public Relations des Kantons Freiburg im Allgemeinen und für diejenigen der Kantonsregierung im Besonderen. Die Regelungen werden wenn nötig in Richtlinien näher festgelegt.
 
 <sup>2</sup> Der Grosse Rat und die Gerichtsbehörden erlassen ihr eigenes Protokollreglement.
 
 <sup>3</sup> Bei kantonalen Veranstaltungen mit mehreren Behörden gilt das Reglement der organisierenden Behörde.
 
-<sup>4</sup> Bei Beziehungen und Veranstaltungen auf Bundesebene gilt dieses Reglement ergänzend zum Protokoll des Bundes.
+<sup>4</sup> In den Beziehungen und Veranstaltungen mit dem Bund gilt dieses Reglement ergänzend zum Protokoll des Bundes.
 
-## 2 Rangfolge
+## 2 Rangordnung
 
 #### Art. 3
 
 **Grundsatz**
 
-<sup>1</sup> Welche Rangordnung bei vom Staatsrat organisierten Veranstaltungen, Empfängen und Besuchen eingehalten werden muss, wird in Anhang 1 beschrieben.
+<sup>1</sup> Welche Rangordnung bei vom Staatsrat organisierten Veranstaltungen, Empfängen und Besuchen eingehalten werden muss, wird im Anhang beschrieben.
 
-<sup>2</sup> Die Präsidentin oder der Präsident des Staatsrats ist ausserhalb der Sessionen des Grossen Rates in der Rangordnung höher als die Präsidentin oder der Präsident des Parlaments.
+<sup>2</sup> Die Präsidentin oder der Präsident des Staatsrats steht ausserhalb der Sessionen des Grossen Rates in der Rangordnung höher als die Präsidentin oder der Präsident des Parlaments.
 
 <sup>3</sup> Da der Staatsrat für die Aussenbeziehungen des Kantons zuständig ist, hat er ausserdem bei derartigen Veranstaltungen den Vorsitz.
 
-<sup>4</sup> Haben zwei Personen denselben Rang, so bestimmen die Dienstjahre in der Funktion oder im Auftrag und subsidiär das Alter, wer Vorrang hat.
+<sup>4</sup> Haben zwei Personen denselben Rang, so bestimmt das Dienstalter in der Funktion oder im Auftrag und subsidiär das Alter, wer Vorrang hat.
 
-<sup>5</sup> Ein Mitglied des Staatsrats kann erst Präsidentin oder Präsident des Staatsrats werden, wenn während seiner Amtszeit alle seine Kolleginnen und Kollegen, die vor ihm gewählt wurden, die Präsidentschaft innehatten.
+<sup>5</sup> Ein Mitglied des Staatsrats kann erst Präsidentin oder Präsident des Staatsrats werden, nachdem alle ihre oder seine Kolleginnen und Kollegen, die vor ihr oder ihm gewählt wurden, die Präsidentschaft innehatten.
 
 #### Art. 4
 
@@ -76,7 +74,7 @@ beschliesst:
 
 **Begrüssungen**
 
-<sup>1</sup> Die Rangordnungsliste befindet sich in Anhang 1. Bei protokollarischen Zeremonien wird indessen empfohlen, die wichtigsten Behörden und die Personen mit einem besonderen Bezug zur Veranstaltung persönlich zu begrüssen, um die Wortmeldungen nicht zu verlängern. Für alle übrigen Teilnehmerinnen und Teilnehmer wird eine allgemeine Formel benützt.
+<sup>1</sup> Die Rangordnungsliste befindet sich im Anhang. Bei protokollarischen Zeremonien wird indessen empfohlen, nur die wichtigsten Behörden und die Personen mit einem besonderen Bezug zur Veranstaltung persönlich zu begrüssen, um die Wortmeldungen nicht zu verlängern. Für alle übrigen Teilnehmerinnen und Teilnehmer wird eine allgemeine Formel benützt.
 
 <sup>2</sup> Im Allgemeinen begrüsst nur die erste Rednerin oder der erste Redner die Teilnehmerinnen und Teilnehmer ausführlich.
 
@@ -90,30 +88,28 @@ beschliesst:
 
 #### Art. 7
 
-**Fahnen**
-
 <sup>1</sup> Die Staatskanzlei ist für die Beflaggung verantwortlich. Sie kann diese Aufgabe dem Hochbauamt übertragen.
 
-<sup>2</sup> Die Freiburger Fahne wird bei folgenden Gelegenheiten auf dem Rathaus, auf der Staatskanzlei und auf gewissen wichtigen kantonalen Verwaltungsgebäuden gehisst:
+<sup>2</sup> Die Freiburger Fahne wird bei folgenden Gelegenheiten auf dem Rathaus, auf dem Gebäude der Staatskanzlei an der Chorherrengasse 17 und auf gewissen wichtigen kantonalen Verwaltungsgebäuden gehisst:
 
-- a) zum Nationalfeiertag am 1. August;
+- a) am Nationalfeiertag am 1. August;
 - b) an Fronleichnam;
-- c) bei Besuchen von Kantonsregierungen, Botschaftern, Staatschefs oder Regierungen ausländischer Staaten (grundsätzlich nur auf der Staatskanzlei).
+- c) bei Besuchen von Staatschefs oder Regierungen ausländischer Staaten.
 
-<sup>3</sup> Die Fahnen werden bei wichtigen Trauerfällen auf Halbmast gesetzt (s. 7. Abschnitt).
+<sup>3</sup> Die Fahnen werden bei wichtigen Trauerfällen auf halbmast gesetzt (s. Todesfälle und Begräbnisse, Kapitel 7).
 
-<sup>4</sup> Die Beflaggung oder das Auf-Halbmast-Setzen kann bei weiteren Umständen, bei wichtigen kantonalen und nationalen Veranstaltungen auf Ersuchen des Bundes angeordnet werden.
+<sup>4</sup> Die Beflaggung oder das Setzen auf halbmast kann bei weiteren Umständen, bei wichtigen Veranstaltungen im Leben des Kantons oder des Landes auf Anfrage des Bundes angeordnet werden.
 
 #### Art. 8
 
 **Kantonsbanner**
 
-<sup>1</sup> Das Kantonsbanner mit Gendarmerie-Pikett (Ehrengarde) wird bei folgenden Feiern mitgeführt:
+<sup>1</sup> Das Kantonsbanner mit Gendarmeriepikett (Ehrengarde) wird bei folgenden Feiern mitgeführt:
 
 - a) Umzug bei der Konstituierung der Behörden zu Beginn der Legislaturperiode;
 - b) Vereidigung der Aspirantinnen und Aspiranten der Polizeischule.
 
-<sup>2</sup> Es wird ebenfalls bei Empfängen, die auf Freiburger Gebiet zu Ehren der Bundespräsidentin, des Bundespräsidenten, eines neuen Mitglieds des Bundesrats oder der Präsidentinnen oder Präsidenten der eidgenössischen Räte organisiert werden, mitgeführt.
+<sup>2</sup> Es wird ebenfalls bei Empfängen, die auf Freiburger Gebiet zu Ehren der Bundespräsidentin oder des Bundespräsidenten, eines neuen Mitglieds des Bundesrats und der Präsidentinnen oder der Präsidenten der eidgenössischen Räte organisiert werden, mitgeführt.
 
 <sup>3</sup> Die Staatskanzlei kann das Kantonsbanner für weitere Veranstaltungen aufbieten.
 
@@ -125,7 +121,7 @@ beschliesst:
 
 <sup>1</sup> Die Modalitäten der Empfänge werden vom Staatsrat auf Vorschlag der Staatskanzlei und gegebenenfalls nach Absprache mit den betroffenen Personen und Behörden festgelegt.
 
-<sup>2</sup> Die Staatskanzlei führt eine Liste der Behörden nach, die traditionsgemäss an den vom Staatsrat organisierten protokollarischen Ereignissen teilnehmen.
+<sup>2</sup> Die Staatskanzlei führt eine Liste der Behörden, die traditionsgemäss an den vom Staatsrat organisierten protokollarischen Ereignissen teilnehmen, nach.
 
 ### 4.2 Beim Bundesrat akkreditierte Botschafterinnen und Botschafter und Generalkonsulinnen und Generalkonsuln
 
@@ -133,11 +129,13 @@ beschliesst:
 
 **Botschafterinnen und Botschafter**
 
-<sup>1</sup> In der Regel empfängt der Staatsrat jährlich 2 Botschafterinnen oder Botschafter von Ländern, mit denen der Kanton besondere Verbindungen unterhält. Nach dem offiziellen Empfang folgt ein Essen, an dem die Regierung in corpore oder mit einer Delegation teilnimmt.
+<sup>1</sup> In der Regel beantwortet der Staatsrat die Besuchsgesuche von Botschafterinnen und Botschaftern, die vom Protokoll des Bundes (Protokoll des Eidgenössischen Departements für auswärtige Angelegenheiten) an ihn gerichtet werden.
 
-<sup>2</sup> Die Botschafterempfänge werden von der Staatskanzlei, die vom Staatssekretariat, Protokoll, des Eidgenössisches Departements für auswärtige Angelegenheiten unterstützt wird, organisiert.
+<sup>2</sup> Der offizielle Empfang wird in Form eines Essens organisiert, an dem die Präsidentin oder der Präsident des Staatsrats, die Staatskanzlerin oder der Staatskanzler (oder die Vizekanzlerin oder der Vizekanzler) in Begleitung einer Mitarbeiterin oder einem Mitarbeiter des Sektors Aussenbeziehungen bei der Staatskanzlei teilnimmt.
 
-<sup>3</sup> Bei Bedarf beauftragt der Staatsrat seine Präsidentin oder seinen Präsidenten und die Staatskanzlerin oder den Staatskanzler mit dem Empfang weiterer Botschafterinnen und Botschafter, die um ein Treffen gebeten haben.
+<sup>3</sup> Das Besuchsgesuch wird in das Bordereau einer Sitzung des Staatsrats eingetragen. Bei Interesse können weitere Mitglieder des Staatsrats am offiziellen Empfang teilnehmen.
+
+<sup>4</sup> Empfänge von Botschafterinnen und Botschaftern werden von der Staatskanzlei mit Unterstützung des Protokolls des Bundes organisiert.
 
 #### Art. 11
 
@@ -149,25 +147,25 @@ beschliesst:
 
 ### 4.3 Bundesbehörden
 
-### 4.3.1 Wahl in den Bundesrat, zur Bundespräsidentin oder zum Bundespräsidenten des Nationalrats oder des Ständerats
+### 4.3.1 Wahl in den Bundesrat, zur Bundespräsidentin oder zum Bundespräsidenten, zur Präsidentin oder zum Präsidenten des Nationalrats oder des Ständerats
 
 #### Art. 12
 
 **Wahl einer Freiburgerin oder eines Freiburgers**
 
-<sup>1</sup> Kandidiert eine Freiburgerin oder ein Freiburger für den Bundesrat, für das Bundespräsidium oder für das Präsidium des National- oder des Ständerats, so begibt sich am Tag der Wahl eine Delegation des Kantons, angeführt von einer Vertretung des Staatsrats, ins Bundeshaus.
+<sup>1</sup> Im Falle einer Freiburger Kandidatur begibt sich am Wahltag eine Delegation des Kantons, die von einer Vertretung des Staatsrats angeführt wird, ins Bundeshaus.
 
-<sup>2</sup> Wird eine Freiburgerin oder ein Freiburger in den Bundesrat gewählt, so begeben sich die übrigen Mitglieder der Regierung umgehend nach Bern, und der Staatsrat überbringt der oder dem Gewählten grundsätzlich in corpore die Glückwünsche des Kantons Freiburg.
+<sup>2</sup> Wird eine Freiburgerin oder ein Freiburger in den Bundesrat gewählt, so begeben sich die übrigen Mitglieder der Regierung umgehend nach Bern, und der Staatsrat überbringt der oder dem Gewählten im Normalfall in corpore die Glückwünsche des Kantons Freiburg.
 
-<sup>3</sup> In den Salons des Bundeshauses wird ein Aperitif offeriert.
+<sup>3</sup> In den Sälen des Bundeshauses wird ein Aperitif offeriert.
 
-<sup>4</sup> Im Kanton wird ein Empfang zu Ehren der gewählten Person organisiert, und der offizielle Festakt findet grundsätzlich in Freiburg statt.
+<sup>4</sup> Im Kanton wird ein Empfang zu Ehren der gewählten Person organisiert.
 
 #### Art. 13
 
 **Wahl einer Persönlichkeit aus einem anderen Kanton**
 
-<sup>1</sup> Fährt der offizielle Zug, der die gewählte Persönlichkeit in ihren Wohnkanton führt, durch Freiburger Gebiet, so wird ein Empfang organisiert.
+<sup>1</sup> Auf Verlangen wird ein Empfang organisiert, wenn der offizielle Zug, der die gewählte Persönlichkeit in ihren Wohnkanton führt, durch Freiburger Gebiet fährt.
 
 ### 4.3.2 Wahl einer Freiburgerin oder eines Freiburgers in ein Bundesgericht oder zur Präsidentin oder zum Präsidenten eines Bundesgerichts
 
@@ -183,53 +181,53 @@ beschliesst:
 
 <sup>1</sup> Bei einem offiziellen Besuch des Bundesrats oder eines seiner Mitglieder wird ein Empfang organisiert.
 
-<sup>2</sup> Handelt es sich um einen von Dritten organisierten Besuch, so delegiert der Staatsrat grundsätzlich eines seiner Mitglieder, falls er offiziell eingeladen wurde.
+<sup>2</sup> Handelt es sich um einen von Dritten organisierten Besuch, so delegiert der Staatsrat im Normalfall eines seiner Mitglieder, falls er offiziell eingeladen wird.
 
 #### Art. 16
 
-**Generalstabsoffizierinnen und Generalstabsoffiziere**
+**Höhere Offizierinnen und Offiziere**
 
-<sup>1</sup> Im Allgemeinen lädt der Staatsrat alle zwei Jahre die Chefin oder den Chef der Armee und die höheren Offizierinnen und Offiziere, die Freiburg nahe stehen, zu einem Treffen ein, an dem für den Kanton interessante Fragen im Zusammenhang mit der Armee besprochen werden.
+<sup>1</sup> Im Allgemeinen lädt der Staatsrat alle zwei Jahre die Chefin oder den Chef der Armee und die höheren Offizierinnen und Offiziere, die Freiburg nahestehen, zu einem Treffen ein, an dem für den Kanton interessante Fragen im Zusammenhang mit der Armee besprochen werden.
 
 #### Art. 17
 
 **Sitzung einer eidgenössischen Kommission oder weiterer Bundesbehörden**
 
-<sup>1</sup> Tagt eine eidgenössische Kommission, die grundsätzlich von einem Freiburger Mitglied des Bundesparlaments präsidiert wird, im Kanton Freiburg, so wird ein Treffen mit einer Delegation des Staatsrats organisiert.
+<sup>1</sup> Tagt eine eidgenössische Kommission, die im Normalfall von einem Freiburger Mitglied der Eidgenössischen Kammern präsidiert wird, im Kanton Freiburg, so wird ein Treffen mit einer Staatsratsdelegation organisiert. Der Staatsrat offeriert ein Essen.
 
 ### 4.4 Regierungen anderer Kantone, interkantonale Direktoren- und Staatsschreiberkonferenzen
 
 #### Art. 18
 
-**Regierungen anderer Kantone**
+**Regierungen der übrigen Kantone**
 
-<sup>1</sup> Im Allgemeinen lädt der Staatsrat jedes Jahr eine andere Kantonsregierung ein und nimmt die Einladung einer anderen Regierung an.
+<sup>1</sup> Im Allgemeinen empfängt der Staatsrat jedes Jahr eine Kantonsregierung zu einem Höflichkeitsbesuch und nimmt die Einladung einer anderen Regierung an.
 
 #### Art. 19
 
 **Interkantonale Direktoren- und Staatsschreiberkonferenzen**
 
-<sup>1</sup> Wenn sie im Kanton Freiburg organisiert werden, werden sie von der betreffenden Behörde vorbereitet.
+<sup>1</sup> Werden diese Versammlungen im Kanton Freiburg organisiert, so werden sie von der betreffenden Behörde vorbereitet.
 
 ### 4.5 Freiburger Behörden
 
 #### Art. 20
 
-**Konstituierung des Staatsrats**
+**Konstituierung des Staatsrats nach den allgemeinen Wahlen oder nach der Wahl eines Mitglieds der Regierung während der Legislaturperiode**
 
-<sup>1</sup> Bei der Konstituierung des Staatsrats nach den allgemeinen Wahlen oder bei der Wahl eines Mitglieds der Regierung während der Legislaturperiode offeriert der Staatsrat am ersten Tag der ordentlichen Session nach der Wahl einen Empfang mit einem Auftritt des Musikkorps Landwehr.
+<sup>1</sup> Der Staatsrat offeriert am ersten Tag der ordentlichen Session nach der Wahl einen Empfang mit einem Auftritt des Musikkorps Landwehr.
 
 #### Art. 21
 
-**Begegnung mit den ehemaligen Mitgliedern des Staatsrats und den alt Staatskanzlerinnen und Staatskanzlern und den alt Vizekanzlerinnen und Vizekanzlern**
+**Begegnung mit den ehemaligen Mitgliedern des Staatsrats und den alt Staatskanzlerinnen und alt Staatskanzlern und alt Vizekanzlerinnen und alt Vizekanzlern**
 
-<sup>1</sup> Einmal im Jahr lädt die Regierung die ehemaligen Mitglieder des Staatsrats, die alt Staatskanzlerinnen und Staatskanzler, alt Vizekanzlerinnen und Vizekanzler und ihre Ehegattinnen und Ehegatten ein.
+<sup>1</sup> Einmal im Jahr lädt die Regierung die ehemaligen Mitglieder des Staatsrats, die alt Staatskanzlerinnen und alt Staatskanzler, die alt Vizekanzlerinnen und alt Vizekanzler und ihre Ehegattinnen und Ehegatten zu einem Treffen mit Essen ein.
 
 #### Art. 22
 
-**Begegnung mit den Gesetzgebungs- und Gerichtsbehörden**
+**Begegnung mit den Legislativ- und Gerichtsbehörden**
 
-<sup>1</sup> Einmal pro Legislaturperiode trifft sich der Staatsrat mit dem Büro des Grossen Rates und mit den Gerichtsbehörden des Kantons.
+<sup>1</sup> Einmal pro Legislaturperiode lädt der Staatsrat das Büro des Grossen Rates und die Gerichtsbehörden des Kantons zu einem Treffen zum Netzwerken ein.
 
 ### 4.6 Weitere Empfänge
 
@@ -237,146 +235,137 @@ beschliesst:
 
 **Neujahrswünsche des Staatsrats an die Behörden**
 
-<sup>1</sup> Im Laufe des Monats Januar überbringt der Staatsrat den kantonalen legislativen, Gerichts- und offiziell anerkannten kirchlichen Behörden seine Neujahrswünsche.
+<sup>1</sup> Zu Jahresanfang, im Januar, überbringt der Staatsrat der kantonalen Legislative, den kantonalen Gerichtsbehörden und den offiziell anerkannten geistlichen Behörden seine Neujahrswünsche.
 
-<sup>2</sup> Die Präsidentin oder der Präsident des Staatsrats hält eine Ansprache, auf die turnusgemäss eine Vertreterin oder ein Vertreter einer der drei eingeladenen kirchlichen Behörden antwortet.
+<sup>2</sup> Die Präsidentin oder der Präsident des Staatsrats hält zu diesem Anlass eine Ansprache; eine Vertreterin oder ein Vertreter der gesetzgebenden oder richterlichen Behörden und eine Vertreterin oder ein Vertreter der geistlichen Behörden antworten in einem bestimmten Turnus darauf.
 
 #### Art. 24
 
-**Jahrestag der Schlacht von Murten**
+**Feier in Memoriam**
 
-<sup>1</sup> Aufgrund der Vereinbarung von 1879 zwischen dem Domkapitel St. Nikolaus und dem Staatsrat wird der Jahrestag der Schlacht von Murten traditionell am dritten Junisonntag mit einem Dankgottesdienst in der Kathedrale St. Nikolaus in Freiburg begangen.
+<sup>1</sup> Das Gedenken an die im Aktivdienst gefallenen Soldaten und dasjenige an die Schlacht von Murten werden jedes Jahr am Sonntag, der dem 11. November am nächsten liegt, begangen.
+
+<sup>2</sup> Diese Feier wird von der Freiburger Offiziersgesellschaft organisiert, und im Anschluss daran offeriert der Staatsrat einen Aperitif.
 
 #### Art. 25
 
-**In Memoriam**
-
-<sup>1</sup> Das Gedenken an die im Aktivdienst gefallenen Soldaten wird jedes Jahr am Sonntag, der dem 11. November am nächsten liegt, gefeiert.
-
-#### Art. 26
-
-**Persönlichkeiten, die sich besonders ausgezeichnet haben oder ihre Amtszeit beenden**
+**Persönlichkeit, die sich besonders ausgezeichnet hat oder ihre Amtszeit beendet**
 
 <sup>1</sup> Der Staatsrat trifft diese Persönlichkeit in corpore oder mit einer Delegation.
 
 ## 5 Vertretung des Staatsrats an Veranstaltungen
 
-#### Art. 27
+#### Art. 26
 
 **Grundsatz**
 
 <sup>1</sup> Der Staatsrat lässt sich an Veranstaltungen, die an Sonn- oder Feiertagen stattfinden, nicht vertreten, es sei denn, es handle sich um eine kantonale, nationale oder internationale Veranstaltung.
 
-<sup>2</sup> Leistet der Staatsrat einer Einladung Folge, so lässt er sich grundsätzlich durch eines seiner Mitglieder vertreten.
+<sup>2</sup> Leistet der Staatsrat einer Einladung Folge, so lässt er sich im Normalfall von einem seiner Mitglieder vertreten.
 
-<sup>3</sup> Der Staatsrat kann sich auch durch die Präsidentin oder den Präsidenten des Grossen Rates, die Staatskanzlerin oder den Staatskanzler, eine Magistratsperson oder eine Amtsvorsteherin oder einen Amtsvorsteher vertreten lassen.
+<sup>3</sup> Er kann sich auch von der Präsidentin oder vom Präsidenten des Grossen Rates, von der Staatskanzlerin oder vom Staatskanzler, von einer Magistratsperson oder einer Amtsvorsteherin oder einem Amtsvorsteher vertreten lassen.
 
-#### Art. 28
+#### Art. 27
 
 **Nationale Veranstaltungen und solche eines anderen Kantons**
 
 <sup>1</sup> Nimmt der Staatsrat eine Einladung des Bundesrats oder einer anderen Kantonsregierung an, so bezeichnet er seine Vertretung nach den Wünschen des Gastgebers.
 
+#### Art. 28
+
+**Regionale oder kantonale öffentliche Veranstaltung ausserhalb des Kantons**
+
+<sup>1</sup> Im Normalfall kann sich die Freiburger Regierung nur dann offiziell vertreten lassen, wenn sie von der Regierung dieses Kantons eingeladen wurde oder diese ebenfalls an der Veranstaltung teilnimmt. Falls nötig erkundigt sich die Staatskanzlei bei den Organisatoren nach der Teilnahme der Behörden des betreffenden Kantons.
+
+<sup>2</sup> Nimmt ein Mitglied des Staatrats aus persönlichen Gründen und auf Einladung der Organisatoren an einer ausserkantonalen Veranstaltung teil, so ist es verpflichtet, die Staatskanzlei des betreffenden Kantons zu benachrichtigen.
+
 #### Art. 29
-
-**Regionale oder kantonale öffentliche Veranstaltungen ausserhalb des Kantons**
-
-<sup>1</sup> Grundsätzlich kann sich die Freiburger Regierung nur dann offiziell vertreten lassen, wenn sie von der Regierung dieses Kantons eingeladen wurde oder diese ebenfalls an der Veranstaltung teilnimmt. Falls nötig erkundigt sich die Staatskanzlei bei den Organisatoren nach der Teilnahme der Behörden des betreffenden Kantons.
-
-<sup>2</sup> Nimmt ein Mitglied des Staatsrats als Privatperson und auf Einladung der Organisatoren an einer ausserkantonalen Veranstaltung teil, so ist es verpflichtet, die Staatskanzlei des betreffenden Kantons zu benachrichtigen.
-
-#### Art. 30
 
 **Traditionelle Veranstaltungen im Kanton**
 
-<sup>1</sup> Der Staatsrat nimmt grundsätzlich mit einer Delegation an folgenden Veranstaltungen, die traditionell im Kanton organisiert werden und an die er regelmässig eingeladen wird, teil:
+<sup>1</sup> Der Staatsrat nimmt im Normalfall mit einer Delegation an folgenden Veranstaltungen, die traditionell im Kanton organisiert werden und an die er regelmässig eingeladen wird, teil:
 
-- a) Empfang der neuen Präsidentin oder des neuen Präsidenten des Staatsrats oder eines neuen Mitglieds der Regierung;
+- a) Empfang der neuen Präsidentin oder des neuen Präsidenten oder eines neuen Mitglieds der Regierung;
 - b) Empfang der neuen Grossratspräsidentin oder des neuen Grossratspräsidenten;
-- c) Vereidigung der Asprirantinnen und Aspiranten der Polizeischule;
+- c) Vereidigung der Aspirantinnen und Aspiranten der Polizeischule;
 - d) Dies academicus;
 - e) Solennität zur Erinnerung an die Schlacht von Murten;
 - f) Dreikönigsabend des Musikkorps Landwehr und des Freiburgischen Grenadierkorps und Fahnenübergabe des Cadre Noir et Blanc;
 - g) Kantonale Sport- und Kulturfeste.
 
-#### Art. 31
+#### Art. 30
 
 **Kantonale oder überkantonale Veranstaltungen zu bestimmten Themen**
 
-<sup>1</sup> Wenn solche Veranstaltungen im Kanton stattfinden, lässt sich der Staatsrat grundsätzlich von derjenigen Direktionsvorsteherin oder demjenigen Direktionsvorsteher vertreten, die oder der vom Thema betroffen ist.
+<sup>1</sup> Wenn solche Veranstaltungen im Kanton stattfinden, lässt sich der Staatsrat im Normalfall von derjenigen Direktionsvorsteherin oder demjenigen Direktionsvorsteher vertreten, die oder der vom Thema betroffen ist.
 
-#### Art. 32
+#### Art. 31
 
 **Regionale und örtliche Veranstaltungen**
 
-<sup>1</sup> Im Allgemeinen lässt sich der Staatsrat an regionalen und örtlichen Veranstaltungen wie Jubiläen oder Feiern eines bedeutenden geschichtlichen Ereignisses nicht vertreten.
+<sup>1</sup> Im Allgemeinen lässt sich der Staatsrat an regionalen oder örtlichen Veranstaltungen nur vertreten, wenn es sich um Jubiläen oder Feiern eines bedeutenden geschichtlichen Ereignisses handelt.
 
-<sup>2</sup> An einer bedeutenden regionalen Veranstaltung kann allerdings ein Mitglied des Staatsrats, das in dieser Region wohnt oder aus der Region stammt, als Einzelperson teilnehmen.
+<sup>2</sup> An einer bedeutenden regionalen Veranstaltung kann allerdings ein Mitglied des Staatsrats, das in dieser Region wohnt oder aus der Region stammt, einzeln teilnehmen.
 
-#### Art. 33
+#### Art. 32
 
 **Kirchliche Veranstaltungen**
 
-<sup>1</sup> Auf Einladung lässt sich der Staatsrat an einer Bischofsweihe, der Weihe eines Vaterabts, der Ordination oder Primiz eines Priesters oder der Einsetzung einer Pfarrerin oder eines Pfarrers vertreten.
+<sup>1</sup> Auf Einladung lässt sich der Staatsrat an einer Bischofsweihe, der Weihe eines Vaterabts, der Ordination oder Primiz eines Priesters und der Einsetzung einer Pfarrerin oder eines Pfarrers vertreten.
 
-<sup>2</sup> In der Tradition der Beziehungen mit den Klöstern trifft der Staatsrat jedes Jahr die Gemeinschaften von Hauterive, der Kapuziner und der Franziskaner.
+<sup>2</sup> In der Tradition der Beziehungen mit den Klöstern trifft der Staatsrat die Gemeinschaft von Altenryf jedes Jahr und diejenigen der Kapuziner und der Franziskaner abwechslungsweise jedes zweite Jahr.
 
-<sup>3</sup> Auf Einladung nimmt der Staatsrat mit einer Delegation an den wichtigsten kirchlichen Feiern in der Stadt Freiburg teil (Fronleichnam, Messen an Ostern, am eidgenössischen Dank-, Buss- und Bettag und an Weihnachten).
+<sup>3</sup> Für kirchliche Feiern in der Stadt Freiburg:
 
-## 6 Ehrenkomitee und Schirmherrschaft
+- a) Auf Einladung nimmt der Staatsrat mit einer Delegation an den wichtigsten kirchlichen Feiern in der Stadt Freiburg teil (Fronleichnam, Messen an Ostern, am eidgenössischen Dank-, Buss- und Bettag und an Weihnachten).
+- b) In Erinnerung an das Abkommen von 1879 zwischen dem Domkapitel St. Nikolaus und dem Staatsrat wird der Pfarrei St. Nikolaus eine jährliche Entschädigung für die Organisation und Durchführung religiöser Feiern gewährt, zu denen die Behörden eingeladen werden.
+
+## 6 Ehrenkomitee und Patronat
+
+#### Art. 33
+
+<sup>1</sup> Der Staatsrat kann die Mitwirkung in einem Ehrenkomitee oder die Übernahme des Patronats für eine Veranstaltung annehmen, wenn diese von allgemeinem Interesse ist und den ganzen Kanton betrifft.
+
+## 7 Tod und Beerdigungen
 
 #### Art. 34
 
-<sup>1</sup> Der Staatsrat kann das Mitwirken in einem Ehrenkomitee oder die Übernahme der Schirmherrschaft für eine Veranstaltung annehmen, wenn diese von allgemeinem Interesse ist und den ganzen Kanton betrifft.
+<sup>1</sup> Der Staatsrat nimmt gemäss den Grundsätzen in den internen Weisungen an den Feiern im Zusammenhang mit dem Todesfall einer Persönlichkeit teil.
 
-## 7 Todesfälle und Begräbnisse
-
-#### Art. 35
-
-<sup>1</sup> Der Staatsrat nimmt an den Feiern im Zusammenhang mit dem Todesfall einer Persönlichkeit gemäss den Grundsätzen in den internen Weisungen teil.
-
-<sup>2</sup> Allerdings haben der Wille der verstorbenen Person oder ihrer Familie oder gegebenenfalls der betreffenden Behörde Vorrang.
+<sup>2</sup> Allerdings ist der Wille der verstorbenen Person oder ihrer Familie und gegebenenfalls der betreffenden Behörde massgebend.
 
 ## 8 Ehrenwein
 
-#### Art. 36
+#### Art. 35
 
-<sup>1</sup> Ein Ehrenwein wird offeriert an internationalen, nationalen und interkantonalen Veranstaltungen, die auf Freiburger Gebiet stattfinden.
+<sup>1</sup> Ein Ehrenwein wird an internationalen, nationalen und interkantonalen Veranstaltungen, die auf Freiburger Gebiet stattfinden, offeriert.
 
-<sup>2</sup> An kantonalen Veranstaltungen wird ein Ehrenwein grundsätzlich nur offeriert, wenn es sich um einen Geburtstag oder ein Jubiläum handelt.
+<sup>2</sup> An kantonalen Veranstaltungen wird ein Ehrenwein im Normalfall nur offeriert, wenn es sich um einen Geburtstag oder ein Jubiläum handelt.
 
 <sup>3</sup> Die Staatskanzlei ist für die Genehmigung des Ehrenweins verantwortlich.
 
-## 9 Offizielle Korps des Staatsrats
+## 9 Freiburgisches Grenadierkorps, Musikkorps Landwehr, Cadre Noir et Blanc und Amicale de la Batterie de campagne 13 Fribourg
 
-#### Art. 37
+#### Art. 36
 
 <sup>1</sup> Das Freiburgische Grenadierkorps, das Musikkorps Landwehr, das Cadre Noir et Blanc und die Amicale de la Batterie de campagne 13 Fribourg bilden die vier offiziellen Korps des Staatsrats und stehen ihm zur Verfügung, um ihn zu begleiten oder den Kanton an offiziellen Ehrungen zu vertreten.
 
-<sup>2</sup> Die Staatskanzlei ist mit den Beziehungen zu diesen vier Korps beauftragt.
+<sup>2</sup> Die Staatskanzlei ist mit den Beziehungen mit diesen vier Korps beauftragt.
 
-<sup>3</sup> Für offizielle Auftritte im Namen des Staatsrats erhalten die Korps eine symbolische Vergütung.
+<sup>3</sup> Der Staat kann ihnen eine jährliche finanzielle Unterstützung gewähren und/oder ihnen ein symbolisches Entgelt für offiziell im Namen des Staatsrats erbrachte Leistungen zahlen.
 
-<sup>4</sup> Falls diese Auftritte ausserhalb des Kantons stattfinden, kann sich der Staat an den Transportkosten beteiligen, jedoch nur nach vorgängiger Abmachung. Die übrigen Kosten gehen zulasten der Organisatoren.
+<sup>4</sup> Falls diese Auftritte ausserhalb des Kantons stattfinden, kann sich der Staat an den Fahrtkosten beteiligen, jedoch nur nach vorgängiger Abmachung. Die übrigen Kosten gehen zulasten der Organisatoren.
 
 ## 10 Hundertjährige
 
-#### Art. 38
+#### Art. 37
 
 <sup>1</sup> Der Staatsrat ehrt die im Kanton wohnhaften Personen an ihrem 100. Geburtstag.
 
 ## 11 Schlussbestimmungen
 
-#### Art. 39
-
-**Umsetzung und Kommunikation**
+#### Art. 38
 
 <sup>1</sup> Die Staatskanzlei ist für die Umsetzung dieses Reglements und die Kommunikation im Zusammenhang mit allen darin erwähnten Veranstaltungen verantwortlich.
 
-#### Art. 40
-
-**Aufhebung bisherigen Rechts**
-
-<sup>1</sup> Das nicht veröffentlichte Reglement vom 29. November 2011 über protokollarische Formen des Staatsrats des Kantons Freiburg wird aufgeghoben.
-
-2019\_005
+2023\_097
