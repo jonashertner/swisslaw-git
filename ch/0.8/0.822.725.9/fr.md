@@ -3,11 +3,11 @@ sr: "0.822.725.9"
 title: "Convention n<sup>o</sup> 159 du 20 juin 1983 concernant la réadaptation professionnelle et l'emploi des personnes handicapées"
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/967_967_967"
 language: fr
-version: 2018-07-03
+version: 2023-09-06
 adopted: 1983-06-20
 in_force: 1986-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/967_967_967/20180703/fr/xml/fedlex-data-admin-ch-eli-cc-1986-967_967_967-20180703-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/967_967_967/20180703/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/967_967_967/20230906/fr/xml/fedlex-data-admin-ch-eli-cc-1986-967_967_967-20230906-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/967_967_967/20230906/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,23 +20,23 @@ Texte original
 
 Conclue à Genève le 20 juin 1983 Approuvée par l’Assemblée fédérale le 21 mars 1985[^t-1] Instrument de ratification déposé par la Suisse le 20 juin 1985 Entrée en vigueur pour la Suisse le 20 juin 1986
 
-(Etat le 3 juillet 2018)
+(État le 6 septembre 2023)
 
 [^t-1]: [RO 1986 966](https://fedlex.data.admin.ch/eli/oc/1986/966_966_966)
 
 *La Conférence générale de l’Organisation internationale du Travail,*
 
-convoquée à Genève par le Conseil d’administration du Bureau international du Travail, et s’y étant réunie le 1<sup>er</sup> juin 1983 en sa soixante-neuvième session;
+convoquée à Genève par le Conseil d’administration du Bureau international du Travail, et s’y étant réunie le 1<sup>er</sup> juin 1983 en sa soixante-neuvième session,
 
-notant les normes internationales existantes énoncées dans la recommandation sur l’adaptation et la réadaptation professionnelles des invalides, 1955, et dans la recommandation sur la mise en valeur des ressources humaines, 1975;
+notant les normes internationales existantes énoncées dans la recommandation sur l’adaptation et la réadaptation professionnelles des invalides, 1955, et dans la recommandation sur la mise en valeur des ressources humaines, 1975,
 
-notant que depuis l’adoption de la recommandation sur l’adaptation et la réadaptation professionnelles des invalides, 1955, la manière d’envisager les besoins de réadaptation, le domaine d’intervention et l’organisation des services de réadaptation, ainsi que la législation et la pratique de nombreux Membres concernant les questions couvertes par ladite recommandation ont évolué de manière significative;
+notant que depuis l’adoption de la recommandation sur l’adaptation et la réadaptation professionnelles des invalides, 1955, la manière d’envisager les besoins de réadaptation, le domaine d’intervention et l’organisation des services de réadaptation, ainsi que la législation et la pratique de nombreux Membres concernant les questions couvertes par ladite recommandation ont évolué de manière significative,
 
-considérant que l’Assemblée générale des Nations Unies a proclamé 1981 Année internationale des personnes handicapées, avec pour thème «pleine participation et égalité» et qu’un Programme d’action mondial concernant les personnes handicapées, de large portée, doit mettre sur pied des mesures efficaces, aux niveaux international et national, en vue de la réalisation des objectifs de «pleine participation» des personnes handicapées à la vie sociale et au développement et d’«égalité»;
+considérant que l’Assemblée générale des Nations Unies a proclamé 1981 Année internationale des personnes handicapées, avec pour thème «pleine participation et égalité» et qu’un Programme d’action mondial concernant les personnes handicapées, de large portée, doit mettre sur pied des mesures efficaces, aux niveaux international et national, en vue de la réalisation des objectifs de «pleine participation» des personnes handicapées à la vie sociale et au développement et d’«égalité»,
 
-considérant que, par suite de cette évolution, il est approprié d’adopter de nouvelles normes internationales en la matière, qui tiennent compte en particulier de la nécessité d’assurer l’égalité de chances et de traitement à toutes les catégories de personnes handicapées, dans les zones rurales aussi bien qu’urbaines, afin qu’elles puissent exercer un emploi et s’insérer dans la collectivité;
+considérant que, par suite de cette évolution, il est approprié d’adopter de nouvelles normes internationales en la matière, qui tiennent compte en particulier de la nécessité d’assurer l’égalité de chances et de traitement à toutes les catégories de personnes handicapées, dans les zones rurales aussi bien qu’urbaines, afin qu’elles puissent exercer un emploi et s’insérer dans la collectivité,
 
-après avoir décidé d’adopter certaines propositions concernant la réadaptation professionnelle qui constitue la quatrième question à l’ordre du jour de la session;
+après avoir décidé d’adopter certaines propositions concernant la réadaptation professionnelle qui constitue la quatrième question à l’ordre du jour de la session,
 
 après avoir décidé que ces propositions prendront la forme d’une convention internationale,
 
@@ -143,10 +143,10 @@ Les versions française et anglaise du texte de la présente convention font ég
 
 (Suivent les signatures)
 
-Champ d’application le 3 juillet 2018**[^t-2]**
+Champ d’application le 6 septembre 2023[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afghanistan</td><td>7 avril</td><td>2010</td><td>7 avril</td><td>2011</td></tr>
 <tr><td>Allemagne</td><td>14 novembre</td><td>1989</td><td>14 novembre</td><td>1990</td></tr>
 <tr><td>Argentine</td><td>13 avril</td><td>1987</td><td>13 avril</td><td>1988</td></tr>
@@ -168,11 +168,11 @@ Champ d’application le 3 juillet 2018**[^t-2]**
 <tr><td>Croatie</td><td>8 octobre</td><td>1991 S</td><td>8 octobre</td><td>1991</td></tr>
 <tr><td>Cuba</td><td>3 octobre</td><td>1996</td><td>3 octobre</td><td>1997</td></tr>
 <tr><td>Danemark</td><td>1<sup>er</sup> avril</td><td>1985</td><td>1<sup>er</sup> avril</td><td>1986</td></tr>
-<tr><td>Egypte</td><td>3 août</td><td>1988</td><td>3 août</td><td>1989</td></tr>
+<tr><td>Égypte</td><td>3 août</td><td>1988</td><td>3 août</td><td>1989</td></tr>
 <tr><td>El Salvador</td><td>19 décembre</td><td>1986</td><td>19 décembre</td><td>1987</td></tr>
-<tr><td>Equateur</td><td>20 mai</td><td>1988</td><td>20 mai</td><td>1989</td></tr>
+<tr><td>Équateur</td><td>20 mai</td><td>1988</td><td>20 mai</td><td>1989</td></tr>
 <tr><td>Espagne</td><td>2 août</td><td>1990</td><td>2 août</td><td>1991</td></tr>
-<tr><td>Ethiopie</td><td>28 janvier</td><td>1991</td><td>28 janvier</td><td>1992</td></tr>
+<tr><td>Éthiopie</td><td>28 janvier</td><td>1991</td><td>28 janvier</td><td>1992</td></tr>
 <tr><td>Fidji</td><td>1<sup>er</sup> décembre</td><td>2004</td><td>1<sup>er</sup> décembre</td><td>2005</td></tr>
 <tr><td>Finlande</td><td>24 avril</td><td>1985</td><td>24 avril</td><td>1986</td></tr>
 <tr><td>France</td><td>16 mars</td><td>1989</td><td>16 mars</td><td>1990</td></tr>
@@ -190,7 +190,7 @@ Champ d’application le 3 juillet 2018**[^t-2]**
 <tr><td>Liban</td><td>23 février</td><td>2000</td><td>23 février</td><td>2001</td></tr>
 <tr><td>Lituanie</td><td>26 septembre</td><td>1994</td><td>26 septembre</td><td>1995</td></tr>
 <tr><td>Luxembourg</td><td>21 mars</td><td>2001</td><td>21 mars</td><td>2002</td></tr>
-<tr><td>Macédoine</td><td>17 novembre</td><td>1991 S</td><td>17 novembre</td><td>1991</td></tr>
+<tr><td>Macédoine du Nord</td><td>17 novembre</td><td>1991 S</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Madagascar</td><td>3 juin</td><td>1998</td><td>3 juin</td><td>1999</td></tr>
 <tr><td>Malawi</td><td>1<sup>er</sup> octobre</td><td>1986</td><td>1<sup>er</sup> octobre</td><td>1987</td></tr>
 <tr><td>Mali</td><td>12 juin</td><td>1995</td><td>12 juin</td><td>1996</td></tr>
@@ -227,9 +227,10 @@ Champ d’application le 3 juillet 2018**[^t-2]**
 <tr><td>Turquie</td><td>26 juin</td><td>2000</td><td>26 juin</td><td>2001</td></tr>
 <tr><td>Ukraine</td><td>15 mai</td><td>2003</td><td>15 mai</td><td>2004</td></tr>
 <tr><td>Uruguay</td><td>13 janvier</td><td>1988</td><td>13 janvier</td><td>1989</td></tr>
+<tr><td>Vietnam</td><td>25 mars</td><td>2019</td><td>25 mars</td><td>2020</td></tr>
 <tr><td>Yémen</td><td>18 novembre</td><td>1991</td><td>18 novembre</td><td>1992</td></tr>
 <tr><td>Zambie</td><td>5 janvier</td><td>1989</td><td>5 janvier</td><td>1990</td></tr>
 <tr><td>Zimbabwe</td><td>27 août</td><td>1998</td><td>27 août</td><td>1999</td></tr>
 </table>
 
-[^t-2]: RO **1986** 972, [1987 1460](https://fedlex.data.admin.ch/eli/oc/1987/1460_1460_1460), [1989 1424](https://fedlex.data.admin.ch/eli/oc/1989/1424_1424_1424), [1990 1608](https://fedlex.data.admin.ch/eli/oc/1990/1608_1608_1608), [1992 725](https://fedlex.data.admin.ch/eli/oc/1992/725_725_725), [2002 2757](https://fedlex.data.admin.ch/eli/oc/2002/404), [2005 4449](https://fedlex.data.admin.ch/eli/oc/2005/577), [2010 4233](https://fedlex.data.admin.ch/eli/oc/2010/609), [2013 1295](https://fedlex.data.admin.ch/eli/oc/2013/293), [2018 2741](https://fedlex.data.admin.ch/eli/oc/2018/401). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1986 967](https://fedlex.data.admin.ch/eli/oc/1986/967_967_967); [1987 1460](https://fedlex.data.admin.ch/eli/oc/1987/1460_1460_1460); [1989 1424](https://fedlex.data.admin.ch/eli/oc/1989/1424_1424_1424); [1990 1608](https://fedlex.data.admin.ch/eli/oc/1990/1608_1608_1608); [1992 725](https://fedlex.data.admin.ch/eli/oc/1992/725_725_725); [2002 2757](https://fedlex.data.admin.ch/eli/oc/2002/404); [2005 4449](https://fedlex.data.admin.ch/eli/oc/2005/577); [2010 4233](https://fedlex.data.admin.ch/eli/oc/2010/609); [2013 1295](https://fedlex.data.admin.ch/eli/oc/2013/293); [2018 2741](https://fedlex.data.admin.ch/eli/oc/2018/401); [2023 502](https://fedlex.data.admin.ch/eli/oc/2023/502). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

@@ -3,11 +3,11 @@ sr: "0.822.725.9"
 title: Übereinkommen Nr. 159 vom 20. Juni 1983 über die berufliche Rehabilitation und die Beschäftigung der Behinderten
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/967_967_967"
 language: de
-version: 2018-07-03
+version: 2023-09-06
 adopted: 1983-06-20
 in_force: 1986-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/967_967_967/20180703/de/xml/fedlex-data-admin-ch-eli-cc-1986-967_967_967-20180703-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/967_967_967/20180703/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/967_967_967/20230906/de/xml/fedlex-data-admin-ch-eli-cc-1986-967_967_967-20230906-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/967_967_967/20230906/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1986** 967; BBl **1984** II 419
 
 Abgeschlossen in Genf am 20. Juni 1983 Von der Bundesversammlung genehmigt am 21. März 1985[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 20. Juni 1985 In Kraft getreten für die Schweiz am 20. Juni 1986
 
-(Stand am 3. Juli 2018)
+(Stand am 6. September 2023)
 
 [^t-1]: [AS 1986 966](https://fedlex.data.admin.ch/eli/oc/1986/966_966_966)
 
@@ -143,7 +143,7 @@ Der französische und der englische Wortlaut dieses Übereinkommens sind in glei
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 3. Juli 2018**[^t-2]**
+Geltungsbereich am 6. September 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -229,7 +229,8 @@ Geltungsbereich am 3. Juli 2018**[^t-2]**
 <tr><td>Ukraine</td><td>15. Mai</td><td>2003</td><td>15. Mai</td><td>2004</td></tr>
 <tr><td>Ungarn</td><td>20. Juni</td><td>1984</td><td>20. Juni</td><td>1985</td></tr>
 <tr><td>Uruguay</td><td>13. Januar</td><td>1988</td><td>13. Januar</td><td>1989</td></tr>
+<tr><td>Vietnam</td><td>25. März</td><td>2019</td><td>25. März</td><td>2020</td></tr>
 <tr><td>Zypern</td><td>13. April</td><td>1987</td><td>13. April</td><td>1988</td></tr>
 </table>
 
-[^t-2]: [AS 1986 967](https://fedlex.data.admin.ch/eli/oc/1986/967_967_967), [1987 1460](https://fedlex.data.admin.ch/eli/oc/1987/1460_1460_1460), [1989 1424](https://fedlex.data.admin.ch/eli/oc/1989/1424_1424_1424), [1990 1608](https://fedlex.data.admin.ch/eli/oc/1990/1608_1608_1608), [1992 725](https://fedlex.data.admin.ch/eli/oc/1992/725_725_725), [2002 2757](https://fedlex.data.admin.ch/eli/oc/2002/404), [2005 4449](https://fedlex.data.admin.ch/eli/oc/2005/577), [2010 4233](https://fedlex.data.admin.ch/eli/oc/2010/609), [2013 1295](https://fedlex.data.admin.ch/eli/oc/2013/293)und [2018 2741](https://fedlex.data.admin.ch/eli/oc/2018/401). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1986 967](https://fedlex.data.admin.ch/eli/oc/1986/967_967_967); [1987 1460](https://fedlex.data.admin.ch/eli/oc/1987/1460_1460_1460); [1989 1424](https://fedlex.data.admin.ch/eli/oc/1989/1424_1424_1424); [1990 1608](https://fedlex.data.admin.ch/eli/oc/1990/1608_1608_1608); [1992 725](https://fedlex.data.admin.ch/eli/oc/1992/725_725_725); [2002 2757](https://fedlex.data.admin.ch/eli/oc/2002/404); [2005 4449](https://fedlex.data.admin.ch/eli/oc/2005/577); [2010 4233](https://fedlex.data.admin.ch/eli/oc/2010/609); [2013 1295](https://fedlex.data.admin.ch/eli/oc/2013/293); [2018 2741](https://fedlex.data.admin.ch/eli/oc/2018/401); [2023 502](https://fedlex.data.admin.ch/eli/oc/2023/502). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
