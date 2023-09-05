@@ -3,11 +3,11 @@ sr: "0.822.725.0"
 title: "Convention n<sup>o</sup> 150 du 26 juin 1978 concernant l'administration du travail: rôle, fonctions et organisation"
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/327_327_327"
 language: fr
-version: 2016-03-29
+version: 2023-09-06
 adopted: 1978-06-26
 in_force: 1982-03-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/327_327_327/20160329/fr/xml/fedlex-data-admin-ch-eli-cc-1982-327_327_327-20160329-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/327_327_327/20160329/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/327_327_327/20230906/fr/xml/fedlex-data-admin-ch-eli-cc-1982-327_327_327-20230906-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/327_327_327/20230906/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,31 +18,25 @@ RO **1982** 327; FF **1980** II 444
 
 Texte original
 
-Conclue à Genève le 26 juin 1978
+Conclue à Genève le 26 juin 1978 Approuvée par l’Assemblée fédérale le 16 décembre 1980[^t-1] Instrument de ratification déposé par la Suisse le 3 mars 1981 Entrée en vigueur pour la Suisse le 3 mars 1982
 
-Approuvée par l’Assemblée fédérale le 16 décembre 1980[^t-1]
-
-Instrument de ratification déposé par la Suisse le 3 mars 1981
-
-Entrée en vigueur pour la Suisse le 3 mars 1982
-
-(Etat le 29 mars 2016)
+(État le 6 septembre 2023)
 
 [^t-1]: [RO 1982 326](https://fedlex.data.admin.ch/eli/oc/1982/326_326_326)
 
 La Conférence générale de l’Organisation internationale du Travail,
 
-convoquée à Genève par le Conseil d’administration du Bureau international du Travail, et s’y étant réunie le 7 juin 1978, en sa soixante-quatrième session;
+convoquée à Genève par le Conseil d’administration du Bureau international du Travail, et s’y étant réunie le 7 juin 1978, en sa soixante-quatrième session,
 
-rappelant les termes des conventions et recommandations internationales du travail existantes – notamment de la convention sur l’inspection du travail, 1947[^ingress-1], de la convention sur l’inspection du travail (agriculture), 1969, et de la convention sur le service de l’emploi, 1948[^ingress-2] – qui demandent la mise en œuvre de certaines activités particulières relevant de l’administration du travail;
+rappelant les termes des conventions et recommandations internationales du travail existantes – notamment de la convention sur l’inspection du travail, 1947[^ingress-1], de la convention sur l’inspection du travail (agriculture), 1969, et de la convention sur le service de l’emploi, 1948[^ingress-2] – qui demandent la mise en œuvre de certaines activités particulières relevant de l’administration du travail,
 
-considérant qu’il est souhaitable d’adopter des instruments formulant des directives relatives au système d’administration du travail dans son ensemble;
+considérant qu’il est souhaitable d’adopter des instruments formulant des directives relatives au système d’administration du travail dans son ensemble,
 
-rappelant les termes de la convention sur la politique de l’emploi, 1964, et de la convention sur la mise en valeur des ressources humaines, 1975; rappelant aussi l’objectif du plein emploi convenablement rémunéré, et convaincue de la nécessité d’adopter une politique d’administration du travail qui soit de nature à permettre la poursuite de cet objectif et à donner effet aux buts desdites conventions;
+rappelant les termes de la convention sur la politique de l’emploi, 1964, et de la convention sur la mise en valeur des ressources humaines, 1975; rappelant aussi l’objectif du plein emploi convenablement rémunéré, et convaincue de la nécessité d’adopter une politique d’administration du travail qui soit de nature à permettre la poursuite de cet objectif et à donner effet aux buts desdites conventions,
 
-reconnaissant la nécessité de respecter pleinement l’autonomie des organisations d’employeurs et de travailleurs; rappelant à cet égard les termes des conventions et recommandations internationales du travail existantes qui garantissent la liberté et les droits syndicaux et d’organisation et de négociation collective – particulièrement la convention sur la liberté syndicale et la protection du droit syndical, 1948[^ingress-3], et la convention sur le droit d’organisation et de négociation collective, 1949[^ingress-4] – et qui interdisent tous actes d’ingérence de la part des autorités publiques de nature à limiter ces droits ou à en entraver l’exercice légal; considérant également que les organisations d’employeurs et de travailleurs jouent un rôle essentiel dans la poursuite des objectifs du progrès économique, social et culturel;
+reconnaissant la nécessité de respecter pleinement l’autonomie des organisations d’employeurs et de travailleurs; rappelant à cet égard les termes des conventions et recommandations internationales du travail existantes qui garantissent la liberté et les droits syndicaux et d’organisation et de négociation collective – particulièrement la convention sur la liberté syndicale et la protection du droit syndical, 1948[^ingress-3], et la convention sur le droit d’organisation et de négociation collective, 1949[^ingress-4] – et qui interdisent tous actes d’ingérence de la part des autorités publiques de nature à limiter ces droits ou à en entraver l’exercice légal; considérant également que les organisations d’employeurs et de travailleurs jouent un rôle essentiel dans la poursuite des objectifs du progrès économique, social et culturel,
 
-après avoir décidé d’adopter certaines propositions relatives à l’administration du travail: rôle, fonctions et organisation, question qui constitue le quatrième point à l’ordre du jour de la session;
+après avoir décidé d’adopter certaines propositions relatives à l’administration du travail: rôle, fonctions et organisation, question qui constitue le quatrième point à l’ordre du jour de la session,
 
 après avoir décidé que ces propositions prendraient la forme d’une convention internationale,
 
@@ -102,7 +96,7 @@ Si les conditions nationales l’exigent pour satisfaire les besoins du nombre l
 
 #### Art. 8
 
-Dans la mesure où la législation et la pratique nationales le permettent, les organes compétents au sein du système d’administration du travail devront participer à la préparation de la politique nationale dans le domaine des relations internationales du travail et à la représentation de l’Etat dans ce domaine ainsi qu’à la préparation des mesures qui doivent être prises à cet effet à l’échelon national.
+Dans la mesure où la législation et la pratique nationales le permettent, les organes compétents au sein du système d’administration du travail devront participer à la préparation de la politique nationale dans le domaine des relations internationales du travail et à la représentation de l’État dans ce domaine ainsi qu’à la préparation des mesures qui doivent être prises à cet effet à l’échelon national.
 
 #### Art. 9
 
@@ -163,10 +157,10 @@ Au cas où la Conférence adopterait une nouvelle convention portant révision t
 
 Les versions française et anglaise du texte de la présente convention font également foi.
 
-Champ d’application le 29 mars 2016**[^t-2]**
+Champ d’application le 6 septembre 2023[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>24 juillet</td><td>2002</td><td>24 juillet</td><td>2003</td></tr>
 <tr><td>Algérie</td><td>26 janvier</td><td>1984</td><td>26 janvier</td><td>1985</td></tr>
 <tr><td>Allemagne</td><td>26 février</td><td>1981</td><td>26 février</td><td>1982</td></tr>
@@ -191,10 +185,10 @@ Champ d’application le 29 mars 2016**[^t-2]**
 <tr><td>Cuba</td><td>29 décembre</td><td>1980</td><td>29 décembre</td><td>1981</td></tr>
 <tr><td>Danemark</td><td>5 juin</td><td>1981</td><td>5 juin</td><td>1982</td></tr>
 <tr><td>Dominique</td><td>26 juillet</td><td>2004</td><td>26 juillet</td><td>2005</td></tr>
-<tr><td>Egypte</td><td>5 décembre</td><td>1991</td><td>5 décembre</td><td>1992</td></tr>
+<tr><td>Égypte</td><td>5 décembre</td><td>1991</td><td>5 décembre</td><td>1992</td></tr>
 <tr><td>El Salvador</td><td>2 février</td><td>2001</td><td>2 février</td><td>2002</td></tr>
 <tr><td>Espagne</td><td>3 mars</td><td>1982</td><td>3 mars</td><td>1983</td></tr>
-<tr><td>Etats-Unis</td><td>3 mars</td><td>1995</td><td>3 mars</td><td>1996</td></tr>
+<tr><td>États-Unis</td><td>3 mars</td><td>1995</td><td>3 mars</td><td>1996</td></tr>
 <tr><td>Finlande</td><td>25 février</td><td>1980</td><td>25 février</td><td>1981</td></tr>
 <tr><td>Gabon</td><td>11 octobre</td><td>1979</td><td>11 octobre</td><td>1980</td></tr>
 <tr><td>Ghana</td><td>27 mai</td><td>1986</td><td>27 mai</td><td>1987</td></tr>
@@ -212,7 +206,7 @@ Champ d’application le 29 mars 2016**[^t-2]**
 <tr><td>Liban</td><td>4 avril</td><td>2005</td><td>4 avril</td><td>2006</td></tr>
 <tr><td>Libéria</td><td>2 juin</td><td>2003</td><td>2 juin</td><td>2004</td></tr>
 <tr><td>Luxembourg</td><td>21 mars</td><td>2001</td><td>21 mars</td><td>2002</td></tr>
-<tr><td>Macédoine</td><td>22 juillet</td><td>2013</td><td>22 juillet</td><td>2014</td></tr>
+<tr><td>Macédoine du Nord</td><td>22 juillet</td><td>2013</td><td>22 juillet</td><td>2014</td></tr>
 <tr><td>Malawi</td><td>19 novembre</td><td>1999</td><td>19 novembre</td><td>2000</td></tr>
 <tr><td>Mali</td><td>23 janvier</td><td>2008</td><td>23 janvier</td><td>2009</td></tr>
 <tr><td>Maroc</td><td>3 avril</td><td>2009</td><td>3 avril</td><td>2010</td></tr>
@@ -231,9 +225,10 @@ Champ d’application le 29 mars 2016**[^t-2]**
 <tr><td>Royaume-Uni\*</td><td>19 mars</td><td>1980</td><td>19 mars</td><td>1981</td></tr>
 <tr><td>Gibraltar</td><td>11 août</td><td>1980</td><td>11 août</td><td>1980</td></tr>
 <tr><td>Guernesey</td><td>12 mai</td><td>1981</td><td>12 mai</td><td>1981</td></tr>
-<tr><td>Ile de Man</td><td>12 mai</td><td>1981</td><td>12 mai</td><td>1981</td></tr>
+<tr><td>Île de Man</td><td>12 mai</td><td>1981</td><td>12 mai</td><td>1981</td></tr>
 <tr><td>Sainte-Hélène</td><td>11 août</td><td>1980</td><td>11 août</td><td>1980</td></tr>
 <tr><td>Russie</td><td>2 juillet</td><td>1998</td><td>2 juillet</td><td>1999</td></tr>
+<tr><td>Rwanda</td><td>16 mai</td><td>2019</td><td>16 mai</td><td>2020</td></tr>
 <tr><td>Saint-Marin</td><td>19 avril</td><td>1988</td><td>19 avril</td><td>1989</td></tr>
 <tr><td>Serbie</td><td>15 mars</td><td>2013</td><td>15 mars</td><td>2014</td></tr>
 <tr><td>Seychelles</td><td>23 novembre</td><td>1999</td><td>23 novembre</td><td>2000</td></tr>
@@ -248,11 +243,7 @@ Champ d’application le 29 mars 2016**[^t-2]**
 <tr><td>Venezuela</td><td>17 août</td><td>1983</td><td>17 août</td><td>1984</td></tr>
 <tr><td>Zambie</td><td>19 août</td><td>1980</td><td>19 août</td><td>1981</td></tr>
 <tr><td>Zimbabwe</td><td>27 août</td><td>1998</td><td>27 août</td><td>1999</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation internationale du travail: www.ilo.org/ilolex/french/convdisp1.htm ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> La conv. n'est pas applicable à l’Ile Norfolk.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Applicable avec modification.</td></tr>
-<tr><td colspan="5"><sup>c</sup> Du 30 mars 1981 au 30 juin 1997, la conv. était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. Le 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la conv. est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
-<tr><td colspan="5"><sup>d</sup> Du 13 sept. 1999 au 19 déc. 1999, la conv. était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. A partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 7 mars 2003, la conv. est également applicable à la RAS Macao à partir du 7 mars 2003.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation internationale du Travail: [www.ilo.org](http://www.ilo.org) &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La conv. n’est pas applicable à l’Île Norfolk. <sup>b</sup> Applicable avec modification. <sup>c</sup> Du 30 mars 1981 au 30 juin 1997, la conv. était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. Le 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la conv. est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>d</sup> Du 13 sept. 1999 au 19 déc. 1999, la conv. était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 7 mars 2003, la conv. est également applicable à la RAS Macao à partir du 7 mars 2003.</td></tr>
 </table>
 
-[^t-2]: [RO 1982 327](https://fedlex.data.admin.ch/eli/oc/1982/327_327_327), [1983 619](https://fedlex.data.admin.ch/eli/oc/1983/619_619_619), [1985 824](https://fedlex.data.admin.ch/eli/oc/1985/824_824_824), [1986 1193](https://fedlex.data.admin.ch/eli/oc/1986/1193_1193_1193), [1987 1458](https://fedlex.data.admin.ch/eli/oc/1987/1458_1458_1458), [1991 625](https://fedlex.data.admin.ch/eli/oc/1991/625_625_625), [2005 1773](https://fedlex.data.admin.ch/eli/oc/2005/290), [2008 35](https://fedlex.data.admin.ch/eli/oc/2008/15), [2013 971](https://fedlex.data.admin.ch/eli/oc/2013/204), [2016 1241](https://fedlex.data.admin.ch/eli/oc/2016/245). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1982 327](https://fedlex.data.admin.ch/eli/oc/1982/327_327_327); [1983 619](https://fedlex.data.admin.ch/eli/oc/1983/619_619_619); [1985 824](https://fedlex.data.admin.ch/eli/oc/1985/824_824_824); [1986 1193](https://fedlex.data.admin.ch/eli/oc/1986/1193_1193_1193); [1987 1458](https://fedlex.data.admin.ch/eli/oc/1987/1458_1458_1458); [1991 625](https://fedlex.data.admin.ch/eli/oc/1991/625_625_625); [2005 1773](https://fedlex.data.admin.ch/eli/oc/2005/290); [2008 35](https://fedlex.data.admin.ch/eli/oc/2008/15); [2013 971](https://fedlex.data.admin.ch/eli/oc/2013/204); [2016 1241](https://fedlex.data.admin.ch/eli/oc/2016/245); [2023 501](https://fedlex.data.admin.ch/eli/oc/2023/501). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)

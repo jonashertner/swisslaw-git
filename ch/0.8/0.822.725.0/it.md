@@ -3,11 +3,11 @@ sr: "0.822.725.0"
 title: "Convenzione n. 150 del 26 giugno 1978 concernente l'amministrazione del lavoro: ruolo, funzioni e organizzazione"
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/327_327_327"
 language: it
-version: 2016-03-29
+version: 2023-09-06
 adopted: 1978-06-26
 in_force: 1982-03-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/327_327_327/20160329/it/xml/fedlex-data-admin-ch-eli-cc-1982-327_327_327-20160329-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/327_327_327/20160329/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/327_327_327/20230906/it/xml/fedlex-data-admin-ch-eli-cc-1982-327_327_327-20230906-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/327_327_327/20230906/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,20 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/327_327_327/20160329/it"
 
 RU **1982** 327; FF **1980** II 433
 
-Traduzione*[^t-1]*
+Traduzione
 
-Conclusa a Ginevra il 26 giugno 1978
+Conclusa a Ginevra il 26 giugno 1978 Approvata dall’Assemblea federale il 16 dicembre 1980[^t-1] Ratificata con strumenti depositati dalla Svizzera il 3 marzo 1981 Entrata in vigore per la Svizzera il 3 marzo 1982
 
-Approvata dall’Assemblea federale il 16 dicembre 1980[^t-2]
+(Stato 6 settembre 2023)
 
-Ratificata con strumenti depositati dalla Svizzera il 3 marzo 1981
-
-Entrata in vigore per la Svizzera il 3 marzo 1982
-
-(Stato 29 marzo 2016)
-
-[^t-1]: Dal testo originale francese.
-[^t-2]: [RU 1982 326](https://fedlex.data.admin.ch/eli/oc/1982/326_326_326)
+[^t-1]: [RU 1982 326](https://fedlex.data.admin.ch/eli/oc/1982/326_326_326)
 
 La Conferenza generale dell’Organizzazione internazionale del Lavoro,
 
@@ -162,7 +155,7 @@ l. Ove la Conferenza adottasse una nuova convenzione con revisione totale o parz
 
 Le versioni francese e inglese del presente testo fanno parimente fede.
 
-Campo d’applicazione il 29 marzo 2016**[^t-3]**
+Campo d’applicazione il 6 settembre 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -211,7 +204,7 @@ Campo d’applicazione il 29 marzo 2016**[^t-3]**
 <tr><td>Libano</td><td>4 aprile</td><td>2005</td><td>4 aprile</td><td>2006</td></tr>
 <tr><td>Liberia</td><td>2 giugno</td><td>2003</td><td>2 giugno</td><td>2004</td></tr>
 <tr><td>Lussemburgo</td><td>21 marzo</td><td>2001</td><td>21 marzo</td><td>2002</td></tr>
-<tr><td>Macedonia</td><td>22 luglio</td><td>2013</td><td>22 luglio</td><td>2014</td></tr>
+<tr><td>Macedonia del Nord</td><td>22 luglio</td><td>2013</td><td>22 luglio</td><td>2014</td></tr>
 <tr><td>Malawi</td><td>19 novembre</td><td>1999</td><td>19 novembre</td><td>2000</td></tr>
 <tr><td>Mali</td><td>23 gennaio</td><td>2008</td><td>23 gennaio</td><td>2009</td></tr>
 <tr><td>Marocco</td><td>3 aprile</td><td>2009</td><td>3 aprile</td><td>2010</td></tr>
@@ -230,6 +223,7 @@ Campo d’applicazione il 29 marzo 2016**[^t-3]**
 <tr><td>Sant'Elena</td><td>11 agosto</td><td>1980</td><td>11 agosto</td><td>1980</td></tr>
 <tr><td>Rep. Centrafricana</td><td>5 giugno</td><td>2006</td><td>5 giugno</td><td>2007</td></tr>
 <tr><td>Romania</td><td>4 novembre</td><td>2008</td><td>4 novembre</td><td>2009</td></tr>
+<tr><td>Ruanda</td><td>16 maggio</td><td>2019</td><td>16 maggio</td><td>2020</td></tr>
 <tr><td>Russia</td><td>2 luglio</td><td>1998</td><td>2 luglio</td><td>1999</td></tr>
 <tr><td>San Marino</td><td>19 aprile</td><td>1988</td><td>19 aprile</td><td>1989</td></tr>
 <tr><td>Seicelle</td><td>23 novembre</td><td>1999</td><td>23 novembre</td><td>2000</td></tr>
@@ -247,11 +241,11 @@ Campo d’applicazione il 29 marzo 2016**[^t-3]**
 <tr><td>Venezuela</td><td>17 agosto</td><td>1983</td><td>17 agosto</td><td>1984</td></tr>
 <tr><td>Zambia</td><td>19 agosto</td><td>1980</td><td>19 agosto</td><td>1981</td></tr>
 <tr><td>Zimbabwe</td><td>27 agosto</td><td>1998</td><td>27 agosto</td><td>1999</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi francesi e inglesi si possono consultare sul sito Internet dell’Organizzazione internazionale del lavoro: www.ilo.org/ilolex/french/convdisp1.htm od ottenere presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi francesi e inglesi si possono consultare sul sito Internet dell’Organizzazione internazionale del lavoro: www.ilo.org &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour od ottenere presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> La Conv. non vale per l’Isola Norfolk.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Applicable con modifica.</td></tr>
 <tr><td colspan="5"><sup>c</sup> Dal 30 mar. 1981 al 30 giu. 1997, la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 6 giu. 1997, la Conv. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997.</td></tr>
 <tr><td colspan="5"><sup>d</sup> Dal 13 set. 1999 al 19 dic. 1999, la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Dal 20 dic. 1999, Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 7 mar. 2003, la Conv. è applicabile anche alla RAS Macao dal 7 mar. 2003.</td></tr>
 </table>
 
-[^t-3]: [RU 1982 327](https://fedlex.data.admin.ch/eli/oc/1982/327_327_327), [1983 619](https://fedlex.data.admin.ch/eli/oc/1983/619_619_619), [1985 824](https://fedlex.data.admin.ch/eli/oc/1985/824_824_824), [1986 1193](https://fedlex.data.admin.ch/eli/oc/1986/1193_1193_1193), [1987 1458](https://fedlex.data.admin.ch/eli/oc/1987/1458_1458_1458), [1991 625](https://fedlex.data.admin.ch/eli/oc/1991/625_625_625), [2005 1773](https://fedlex.data.admin.ch/eli/oc/2005/290), [2008 35](https://fedlex.data.admin.ch/eli/oc/2008/15), [2013 971](https://fedlex.data.admin.ch/eli/oc/2013/204)e [2016 1241](https://fedlex.data.admin.ch/eli/oc/2016/245). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1982 327](https://fedlex.data.admin.ch/eli/oc/1982/327_327_327); [1983 619](https://fedlex.data.admin.ch/eli/oc/1983/619_619_619); [1985 824](https://fedlex.data.admin.ch/eli/oc/1985/824_824_824); [1986 1193](https://fedlex.data.admin.ch/eli/oc/1986/1193_1193_1193); [1987 1458](https://fedlex.data.admin.ch/eli/oc/1987/1458_1458_1458); [1991 625](https://fedlex.data.admin.ch/eli/oc/1991/625_625_625); [2005 1773](https://fedlex.data.admin.ch/eli/oc/2005/290); [2008 35](https://fedlex.data.admin.ch/eli/oc/2008/15); [2013 971](https://fedlex.data.admin.ch/eli/oc/2013/204); [2016 1241](https://fedlex.data.admin.ch/eli/oc/2016/245); [2023 501](https://fedlex.data.admin.ch/eli/oc/2023/501). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
