@@ -4,7 +4,7 @@ number: "963.41.2"
 title: RÈGLEMENT du 15.01.2014 sur la participation aux frais du service de défense contre l’incendie et de secours (RPFSDIS)
 short: RPFSDIS
 language: fr
-version: 2014-01-01
+version: 2023-09-06
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/963.41.2?id=ce5eefb1-e941-482b-83dd-0d4447aff878"
 ---
 
@@ -55,13 +55,13 @@ arrête
 
 **[^chapterChapitreII-1]**
 
-<sup>1</sup> L'ECA, après consultation de la Fédération vaudoise des sapeurs-pompiers (FVSP) s'agissant de la planification générale des besoins, détermine la dotation nécessaire en équipements, matériel et véhicules (ci-après : les moyens) du SDIS, sur la base des exigences fixées par le standard de sécurité cantonal et en fonction des missions attribuées aux intervenants.
+<sup>1</sup> L'ECA après consultation de la Fédération vaudoise des sapeurs-pompiers (FVSP) s'agissant de la planification générale des besoins, détermine la dotation nécessaire en équipements, matériel et véhicules (ci-après : moyens) du SDIS, sur la base des exigences fixées par le standard de sécurité SDIS et en fonction des missions attribuées aux intervenants.
 
-<sup>2</sup> Il planifie les acquisitions ou les remplacements nécessaires et établit un plan d'investissement pour garantir durablement le respect du standard de sécurité cantonal.
+<sup>2</sup> Il planifie les acquisitions ou les remplacements nécessaires et établit un plan d'investissement pour garantir durablement le respect du standard de sécurité SDIS.
 
 <sup>3</sup> La planification peut être ajustée en fonction de l'évolution de la situation.
 
-[^chapterChapitreII-1]: Modif. 1 du 06.09.2023: Modification Al. 1-2; entrée en vigueur au 06.09.2023; Introduction Art. 28a; entrée en vigueur au 06.09.2023
+[^chapterChapitreII-1]: Modif. 1 du 06.09.2023: Modification Al. 1-2; entrée en vigueur au 06.09.2023
 
 #### Art. 3
 
@@ -109,10 +109,10 @@ arrête
 
 <sup>2</sup> Les montants du tarif versés par membre participant doivent être compris dans les limites suivantes :
 
-- a. exercices : de 20 à 25 francs de l'heure ;
-- b. interventions : de 30 à 35 francs de l'heure.
+- a. exercices : de 20 à 35 francs de l'heure ;
+- b. interventions : de 30 à 45 francs de l'heure.
 
-[^7-1]: Modif. 1 du 06.09.2023: Modification Al. 2, a-b; entrée en vigueur au 06.09.2023; Introduction Art. 28a; entrée en vigueur au 06.09.2023
+[^7-1]: Modif. 1 du 06.09.2023: Modification Al. 2, a-b; entrée en vigueur au 06.09.2023
 
 #### Art. 9
 
@@ -124,9 +124,9 @@ arrête
 
 **[^9-1]**
 
-<sup>1</sup> L'ECA participe au maximum à hauteur de 5 francs par an et par sapeur incorporé au paiement de la cotisation à la Caisse de secours de la Fédération suisse des sapeurs-pompiers.
+<sup>1</sup> L'ECA prend en charge le financement de l'assurance complémentaire des sapeurs-pompiers, au sens de l'article 73e LAIEN, auprès de la Coordination suisse des sapeurs-pompiers (CSSP).
 
-[^9-1]: Modif. 1 du 06.09.2023: Modification Al. 1; entrée en vigueur au 06.09.2023; Introduction Art. 28a; entrée en vigueur au 06.09.2023
+[^9-1]: Modif. 1 du 06.09.2023: Modification Al. 1; entrée en vigueur au 06.09.2023
 
 ### Sous-section II Frais de formation cantonale des membres des SDIS
 
@@ -134,14 +134,14 @@ arrête
 
 **[^subsectionSoussectionII-1]**
 
-<sup>1</sup> Un montant forfaitaire de 100 francs par participant est versé par jour de formation organisé par l'ECA.
+<sup>1</sup> Un montant forfaitaire compris dans la limite de 100 à 150 francs par participant est versé par jour de formation organisé par l'ECA.
 
 <sup>2</sup> Chaque participant à un cours exigeant une formation théorique préalable et individuelle perçoit pour celle-ci un montant forfaitaire unique de :
 
 - a. 25 francs pour les cours de moins d'un jour ;
 - b. 50 francs pour les cours d'un jour et plus.
 
-[^subsectionSoussectionII-1]: Modif. 1 du 06.09.2023: Modification Al. 1; entrée en vigueur au 06.09.2023; Introduction Art. 28a; entrée en vigueur au 06.09.2023
+[^subsectionSoussectionII-1]: Modif. 1 du 06.09.2023: Modification Al. 1; entrée en vigueur au 06.09.2023
 
 ### Sous-section III Frais d'entretien des moyens propriété des communes ou entités intercommunales exploitant un SDIS
 
@@ -149,11 +149,11 @@ arrête
 
 **[^subsectionSoussectionIII-1]**
 
-<sup>1</sup> Pour autant qu'ils soient reconnus nécessaires au respect du standard de sécurité cantonal, les véhicules propriété des communes ou entités intercommunales exploitant un SDIS sont mis au bénéfice des mêmes participations ou prestations que celles prévues à l'article 5, alinéa 2.
+<sup>1</sup> Pour autant qu'ils soient reconnus nécessaires au respect du standard de sécurité SDIS, les véhicules propriété des communes ou entités intercommunales exploitant un SDIS sont mis au bénéfice des mêmes participations ou prestations que celles prévues à l'article 5, alinéa 2.
 
 <sup>2</sup> La participation aux autres frais d'entretien et de maintenance des véhicules désignés à l'alinéa 1 fait l'objet d'un montant forfaitaire annuel de 800 francs par véhicule de moins de 6 tonnes et de 1'500 francs par véhicule de 6 tonnes ou plus. Font exception les frais d'entretien et de réparation nécessaires à l'engagement opérationnel des échelles automobiles et des véhicules tonne-pompe, qui sont couverts intégralement par l'ECA moyennant une analyse de la situation au cas par cas.
 
-[^subsectionSoussectionIII-1]: Modif. 1 du 06.09.2023: Modification Al. 1; entrée en vigueur au 06.09.2023; Introduction Art. 28a; entrée en vigueur au 06.09.2023
+[^subsectionSoussectionIII-1]: Modif. 1 du 06.09.2023: Modification Al. 1; entrée en vigueur au 06.09.2023
 
 ### Sous-section IV Détachements de premier secours (DPS)
 
@@ -163,15 +163,14 @@ arrête
 
 <sup>1</sup> Une directive de l'ECA règle la participation financière aux frais des DPS mentionnés ci-dessous, dans les limites suivantes :
 
-- a. frais de permanence, définis en fonction de la catégorie de site opérationnel DPS, au sens de l'article 16, alinéas 2 et 3 du règlement du 15 décembre 2010 d'application de la loi du 2 mars 2010 sur le service de défense contre l'incendie et de secours (RLSDIS)[^13-1] , compris dans les limites de 40 à 60 francs par personne et par jour de permanence ;
-- b. frais administratifs de gestion du DPS, compris dans les limites de 20 à 30 francs par incorporé DPS et par année, au sens de l'article 20, alinéa 2 RLSDIS ;
-- c. émoluments perçus par le Service des automobiles et de la navigation (SAN) pour l'acquisition du permis C1, sur la base d'un montant forfaitaire de 140 francs par permis C1 délivré ;
+- a. frais de permanence, définis en fonction de la catégorie de site opérationnel DPS, au sens de l'article 16, alinéa 2 et 3 du règlement du 15 décembre 2010 d'application de la loi du 2 mars 2010 sur le service de défense contre l'incendie et de secours (RLSDIS), compris dans les limites de 70 à 100 francs par personne et par jour de permanence ;
+- b. frais administratifs de gestion du DPS, compris dans les limites de 20 à 35 francs par incorporé DPS et par année, au sens de l'article 20, alinéa 2 RLSDIS ;
+- c. émoluments perçus par le Service des automobiles et de la navigation (SAN) pour l'acquisition du permis C1, sur la base du tarif effectif par permis C1 délivré ;
 - d. frais d'examens médicaux pour les titulaires d'un permis C1, sur la base d'un montant forfaitaire annuel de 135 francs pour 50% de l'effectif du DPS, déterminé conformément à l'article 20, alinéa 2 RLSDIS ;
 - e. frais d'examens médicaux pour porteur d'appareil respiratoire isolant, sur la base d'un montant forfaitaire annuel de 135 francs pour 50% de l'effectif du DPS, déterminé conformément à l'article 20, alinéa 2 RLSDIS ;
 - f. émoluments inhérents aux concessions de radiocommunication, sur la base des frais effectifs facturés par l'Office fédéral de la communication (OFCOM) correspondant aux canaux de radiocommunication reconnus par l'ECA.
 
-[^subsectionSoussectionIV-1]: Modif. 1 du 06.09.2023: Modification Al. 1, a-c; entrée en vigueur au 06.09.2023; Introduction Art. 28a; entrée en vigueur au 06.09.2023
-[^13-1]: Règlement du 15.12.2010 d'application de la loi du 02.03.2010 sur le service de défense contre l'incendie et de secours ([BLV 963.15.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/963.15.1?id=7dbafd45-12e5-4673-903e-6b52ff842df8))
+[^subsectionSoussectionIV-1]: Modif. 1 du 06.09.2023: Modification Al. 1, a-c; entrée en vigueur au 06.09.2023
 
 ### Sous-section V Service de défense contre l'incendie et de secours de la Ville de Lausanne (SDIS Lausanne)
 
@@ -181,9 +180,9 @@ arrête
 
 <sup>1</sup> Les frais d'exercices, d'intervention, de formation interne et de permanence des membres professionnels du SDIS Lausanne font l'objet d'une participation financière, selon les modalités prévues par le présent règlement.
 
-<sup>2</sup> Cette participation financière est limitée aux frais nécessaires au respect du standard de sécurité cantonal. Elle est calculée sur la base d'un montant de 65 francs par heure et par sapeur-pompier professionnel.
+<sup>2</sup> Cette participation financière est limitée aux frais nécessaires au respect du standard de sécurité SDIS. Elle est calculée sur la base d'un montant fixé entre 65 et 85 francs par heure et par sapeur-pompier professionnel.
 
-[^subsectionSoussectionV-1]: Modif. 1 du 06.09.2023: Modification Al. 2; entrée en vigueur au 06.09.2023; Introduction Art. 28a; entrée en vigueur au 06.09.2023
+[^subsectionSoussectionV-1]: Modif. 1 du 06.09.2023: Modification Al. 2; entrée en vigueur au 06.09.2023
 
 #### Art. 15
 
@@ -201,13 +200,13 @@ arrête
 
 <sup>2</sup> Les tarifs des soldes prises en charge sont fixés dans une directive établie par l'ECA. Ils sont différenciés en fonction des attributions et du genre de prestations, et compris dans les limites suivantes :
 
-- a. commandant de cours de 37 à 50 francs de l'heure ;
-- b. chef de classe de 30 à 40 francs de l'heure ;
-- c. personnel auxiliaire de 22 à 30 francs de l'heure.
+- a. commandant de cours de 40 à 50 francs de l'heure ;
+- b. chef de classe de 35 à 45 francs de l'heure ;
+- c. personnel auxiliaire de 25 à 35 francs de l'heure.
 
 <sup>3</sup> Des indemnités pour frais de déplacement et frais divers sont définies dans une directive établie par l'ECA et peuvent être allouées aux personnels engagés pour la formation des sapeurs-pompiers.
 
-[^sectionSectionII-1]: Modif. 1 du 06.09.2023: Modification Al. 2, a-c; entrée en vigueur au 06.09.2023; Introduction Art. 28a; entrée en vigueur au 06.09.2023
+[^sectionSectionII-1]: Modif. 1 du 06.09.2023: Modification Al. 2, a-c; entrée en vigueur au 06.09.2023
 [^16-1]: Loi du 17.11.1952 concernant l'assurance des bâtiments et du mobilier contre l'incendie et les éléments naturels ([BLV 963.41](https://prestations.vd.ch/pub/blv-publication/actes/consolide/963.41?id=6752fd2c-215b-4dff-9bd6-e0e0587e2cd4))
 
 ### Section III Prestations fournies aux services de défense incendie et de secours internes
@@ -310,6 +309,14 @@ Ces montants peuvent être augmentés de 10% si la construction obtient le label
 #### Art. 28
 
 <sup>1</sup> Le règlement du 19 mai 1999 sur la participation aux frais de prévention et de défense contre l'incendie et les éléments naturels (RPFIEN) est abrogé.
+
+#### Art. 28a
+
+**Disposition transitoire de la modification du 6 septembre 2023 [^28-1]**
+
+<sup>1</sup> La modification du 6 septembre 2023 du présent règlement prend effet au 1er janvier 2023
+
+[^28-1]: Modif. 1 du 06.09.2023: Introduction Art. 28a; entrée en vigueur au 06.09.2023
 
 #### Art. 29
 
