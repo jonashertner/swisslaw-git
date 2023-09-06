@@ -3,30 +3,24 @@ sr: "0.822.720.5"
 title: Convenzione n. 105 del 25 giugno 1957 concernente la soppressione del lavoro forzato
 eli: "https://fedlex.data.admin.ch/eli/cc/1958/485_507_507"
 language: it
-version: 2018-06-12
+version: 2023-09-07
 adopted: 1957-06-25
 in_force: 1959-07-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/485_507_507/20180612/it/xml/fedlex-data-admin-ch-eli-cc-1958-485_507_507-20180612-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1958/485_507_507/20180612/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/485_507_507/20230907/it/xml/fedlex-data-admin-ch-eli-cc-1958-485_507_507-20230907-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1958/485_507_507/20230907/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Convenzione Nr. 105 concernente la soppressione del lavoro forzato
+# Convenzione n. 105 concernente la soppressione del lavoro forzato
 
 RU **1958** 507; FF **1958** I 571 ediz. franc. **1958** I 530 ediz. ted.
 
 Traduzione
 
-Adottata a Ginevra il 25 giugno 1957
+Adottata a Ginevra il 25 giugno 1957 Approvata dall’Assemblea federale il 18 giugno 1958[^t-1] Ratificata dalla Svizzera con strumento depositato il 18 luglio 1958 Entrata in vigore per la Svizzera il 18 luglio 1959
 
-Approvata dall’Assemblea federale il 18 giugno 1958[^t-1]
-
-Ratificata dalla Svizzera con strumento depositato il 18 luglio 1958
-
-Entrata in vigore per la Svizzera il 18 luglio 1959
-
-(Stato 12 giugno 2018)
+(Stato 7 settembre 2023)
 
 [^t-1]: [RU 1958 505](https://fedlex.data.admin.ch/eli/oc/1958/483_505_505)
 
@@ -114,10 +108,10 @@ Nel caso in cui la Conferenza adottasse una nuova convenzione a totale o parzial
 
 I testi francese e inglese della presente convenzione fanno ugualmente fede.
 
-Campo d’applicazione il 12 giugno 2018**[^t-2]**
+Campo d’applicazione il 7 settembre 2023[^t-2]
 
 <table>
-<tr><th>Stati partecipanti</th><th>Ratifica Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Afghanistan</td><td>16 maggio</td><td>1963</td><td>16 maggio</td><td>1964</td></tr>
 <tr><td>Albania</td><td>27 febbraio</td><td>1997</td><td>27 febbraio</td><td>1998</td></tr>
 <tr><td>Algeria</td><td>12 giugno</td><td>1969</td><td>12 giugno</td><td>1970</td></tr>
@@ -152,7 +146,7 @@ Campo d’applicazione il 12 giugno 2018**[^t-2]**
 <tr><td>Ceca, Repubblica</td><td>6 agosto</td><td>1996</td><td>6 agosto</td><td>1997</td></tr>
 <tr><td>Ciad</td><td>8 giugno</td><td>1961</td><td>8 giugno</td><td>1962</td></tr>
 <tr><td>Cile</td><td>1° febbraio</td><td>1999</td><td>1° febbraio</td><td>2000</td></tr>
-<tr><td>Cina</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Cina</td><td>12 agosto</td><td>2022</td><td>12 agosto</td><td>2023</td></tr>
 <tr><td>[tab] Hong Kong <sup>a</sup></td><td>6 giugno</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
 <tr><td>[tab] Macao <sup>b</sup> <sup>c</sup></td><td>20 dicembre</td><td>1999</td><td>20 dicembre</td><td>1999</td></tr>
 <tr><td>Cipro</td><td>23 settembre</td><td>1960 S</td><td>23 settembre</td><td>1960</td></tr>
@@ -160,7 +154,6 @@ Campo d’applicazione il 12 giugno 2018**[^t-2]**
 <tr><td>Comore</td><td>23 ottobre</td><td>1978 S</td><td>23 ottobre</td><td>1978</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>26 novembre</td><td>1999</td><td>26 novembre</td><td>2000</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>20 giugno</td><td>2001</td><td>20 giugno</td><td>2002</td></tr>
-<tr><td>Cook, Isole</td><td>12 giugno</td><td>2015</td><td>12 giugno</td><td>2016</td></tr>
 <tr><td>Costa Rica</td><td>4 maggio</td><td>1959</td><td>4 maggio</td><td>1960</td></tr>
 <tr><td>Côte d’Ivoire</td><td>5 maggio</td><td>1961</td><td>5 maggio</td><td>1962</td></tr>
 <tr><td>Croazia</td><td>5 marzo</td><td>1997</td><td>5 marzo</td><td>1998</td></tr>
@@ -176,6 +169,7 @@ Campo d’applicazione il 12 giugno 2018**[^t-2]**
 <tr><td>Emirati Arabi Uniti</td><td>24 febbraio</td><td>1997</td><td>24 febbraio</td><td>1998</td></tr>
 <tr><td>Eritrea</td><td>22 febbraio</td><td>2000</td><td>22 febbraio</td><td>2001</td></tr>
 <tr><td>Estonia</td><td>7 febbraio</td><td>1996</td><td>7 febbraio</td><td>1997</td></tr>
+<tr><td>Eswatini</td><td>28 febbraio</td><td>1979</td><td>28 febbraio</td><td>1980</td></tr>
 <tr><td>Etiopia</td><td>24 marzo</td><td>1999</td><td>24 marzo</td><td>2000</td></tr>
 <tr><td>Figi</td><td>19 aprile</td><td>1974 S</td><td>19 aprile</td><td>1974</td></tr>
 <tr><td>Filippine</td><td>17 novembre</td><td>1960</td><td>17 novembre</td><td>1961</td></tr>
@@ -225,7 +219,7 @@ Campo d’applicazione il 12 giugno 2018**[^t-2]**
 <tr><td>Libia</td><td>13 giugno</td><td>1961</td><td>13 giugno</td><td>1962</td></tr>
 <tr><td>Lituania</td><td>26 settembre</td><td>1994</td><td>26 settembre</td><td>1995</td></tr>
 <tr><td>Lussemburgo</td><td>24 luglio</td><td>1964</td><td>24 luglio</td><td>1965</td></tr>
-<tr><td>Macedonia</td><td>15 luglio</td><td>2003</td><td>15 luglio</td><td>2004</td></tr>
+<tr><td>Macedonia del Nord</td><td>15 luglio</td><td>2003</td><td>15 luglio</td><td>2004</td></tr>
 <tr><td>Madagascar</td><td>6 giugno</td><td>2007</td><td>6 giugno</td><td>2008</td></tr>
 <tr><td>Malawi</td><td>19 novembre</td><td>1999</td><td>19 novembre</td><td>2000</td></tr>
 <tr><td>Maldive</td><td>4 gennaio</td><td>2013</td><td>4 gennaio</td><td>2014</td></tr>
@@ -247,6 +241,7 @@ Campo d’applicazione il 12 giugno 2018**[^t-2]**
 <tr><td>Nigeria</td><td>17 ottobre</td><td>1960 S</td><td>17 ottobre</td><td>1960</td></tr>
 <tr><td>Norvegia</td><td>14 aprile</td><td>1958</td><td>14 aprile</td><td>1959</td></tr>
 <tr><td>Nuova Zelanda</td><td>14 giugno</td><td>1968</td><td>14 giugno</td><td>1969</td></tr>
+<tr><td>Cook, Isole</td><td>12 giugno</td><td>2015</td><td>12 giugno</td><td>2016</td></tr>
 <tr><td>Niue</td><td>14 giugno</td><td>1968</td><td>14 giugno</td><td>1969</td></tr>
 <tr><td>Tokelau</td><td>14 giugno</td><td>1968</td><td>14 giugno</td><td>1969</td></tr>
 <tr><td>Oman</td><td>21 luglio</td><td>2005</td><td>21 luglio</td><td>2006</td></tr>
@@ -301,7 +296,6 @@ Campo d’applicazione il 12 giugno 2018**[^t-2]**
 <tr><td>Suriname</td><td>15 giugno</td><td>1976 S</td><td>15 giugno</td><td>1976</td></tr>
 <tr><td>Svezia</td><td>2 giugno</td><td>1958</td><td>2 giugno</td><td>1959</td></tr>
 <tr><td>Svizzera</td><td>18 luglio</td><td>1958</td><td>18 luglio</td><td>1959</td></tr>
-<tr><td>Swaziland</td><td>28 febbraio</td><td>1979</td><td>28 febbraio</td><td>1980</td></tr>
 <tr><td>Tagikistan</td><td>23 settembre</td><td>1999</td><td>23 settembre</td><td>2000</td></tr>
 <tr><td>Tanzina</td><td>22 giugno</td><td>1964 S</td><td>22 giugno</td><td>1964</td></tr>
 <tr><td>Thailandia</td><td>2 dicembre</td><td>1969</td><td>2 dicembre</td><td>1970</td></tr>
@@ -317,15 +311,16 @@ Campo d’applicazione il 12 giugno 2018**[^t-2]**
 <tr><td>Uzbekistan</td><td>15 dicembre</td><td>1997</td><td>15 dicembre</td><td>1998</td></tr>
 <tr><td>Vanuatu</td><td>28 agosto</td><td>2006</td><td>28 agosto</td><td>2007</td></tr>
 <tr><td>Venezuela</td><td>16 novembre</td><td>1964</td><td>16 novembre</td><td>1965</td></tr>
+<tr><td>Vietnam</td><td>14 luglio</td><td>2020 A</td><td>14 luglio</td><td>2021</td></tr>
 <tr><td>Yemen <sup>d</sup></td><td>14 aprile</td><td>1969 S</td><td>14 aprile</td><td>1969</td></tr>
 <tr><td>Zambia</td><td>22 febbraio</td><td>1965</td><td>22 febbraio</td><td>1966</td></tr>
 <tr><td>Zimbabwe</td><td>27 agosto</td><td>1998</td><td>27 agosto</td><td>1999</td></tr>
 <tr><td colspan="5">\* Riserve e dichiarazioni.</td></tr>
-<tr><td colspan="5">Le riserve e dichiarazioni non sono pubblicate nella RU. I testi francese e inglese possono essere consultati sul sito internet dell’Organizzazione internazionale del lavoro: www.ilo.org/ilolex/french/convdisp1.htm oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">Le riserve e dichiarazioni non sono pubblicate nella RU. I testi francesi e inglesi si possono consultare sul sito internet dell’Organizzazione internazionale del lavoro: www.ilo.org &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions o ottenere presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Dal 25 nov. 1959 al 30 giu. no 1997 la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Il 1° lug. 1997 Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 6 giu. 1997 la Conv. è applicabile dal 1° lug. 1997 anche alla RAS Hong Kong.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Applicabile senza modifica.</td></tr>
 <tr><td colspan="5"><sup>c</sup> Dal 4 ott. 1999 al 19 dic. 1999 la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Il 20 dic. 1999 Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 13 dic. 1999 la Conv. è applicabile dal 20 dic. 1999 anche alla RAS Macao.</td></tr>
 <tr><td colspan="5"><sup>d</sup> 22 mag. 1990: Unificazione della Repubblica Araba dello Yemen e della Repubblica Democratica Popolare dello Yemen che diventano Repubblica dello Yemen.</td></tr>
 </table>
 
-[^t-2]: [RU 1973 1684](https://fedlex.data.admin.ch/eli/oc/1973/1684_1684_1684), [1975 2502](https://fedlex.data.admin.ch/eli/oc/1975/2502_2502_2502), [1982 840](https://fedlex.data.admin.ch/eli/oc/1982/840_840_840), [1985 290](https://fedlex.data.admin.ch/eli/oc/1985/290_290_290), [1992 673](https://fedlex.data.admin.ch/eli/oc/1992/673_673_673), [2005 1853](https://fedlex.data.admin.ch/eli/oc/2005/310), [2008 31](https://fedlex.data.admin.ch/eli/oc/2008/13), [2010 3991](https://fedlex.data.admin.ch/eli/oc/2010/570), [2013 967](https://fedlex.data.admin.ch/eli/oc/2013/202)e [2018 2533](https://fedlex.data.admin.ch/eli/oc/2018/368). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1973 1684](https://fedlex.data.admin.ch/eli/oc/1973/1684_1684_1684); [1975 2502](https://fedlex.data.admin.ch/eli/oc/1975/2502_2502_2502); [1982 840](https://fedlex.data.admin.ch/eli/oc/1982/840_840_840); [1985 290](https://fedlex.data.admin.ch/eli/oc/1985/290_290_290); [1992 673](https://fedlex.data.admin.ch/eli/oc/1992/673_673_673); [2005 1853](https://fedlex.data.admin.ch/eli/oc/2005/310); [2008 31](https://fedlex.data.admin.ch/eli/oc/2008/13); [2010 3991](https://fedlex.data.admin.ch/eli/oc/2010/570); [2013 967](https://fedlex.data.admin.ch/eli/oc/2013/202); [2018 2533](https://fedlex.data.admin.ch/eli/oc/2018/368); [2023 499](https://fedlex.data.admin.ch/eli/oc/2023/499). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

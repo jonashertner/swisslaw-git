@@ -3,11 +3,11 @@ sr: "0.822.720.5"
 title: Übereinkommen Nr. 105 vom 25. Juni 1957 über die Abschaffung der Zwangsarbeit
 eli: "https://fedlex.data.admin.ch/eli/cc/1958/485_507_507"
 language: de
-version: 2018-06-12
+version: 2023-09-07
 adopted: 1957-06-25
 in_force: 1959-07-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/485_507_507/20180612/de/xml/fedlex-data-admin-ch-eli-cc-1958-485_507_507-20180612-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1958/485_507_507/20180612/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/485_507_507/20230907/de/xml/fedlex-data-admin-ch-eli-cc-1958-485_507_507-20230907-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1958/485_507_507/20230907/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1958** 485; BBl **1958** I 530
 
 Angenommen in Genf am 25. Juni 1957 Von der Bundesversammlung genehmigt am 18. Juni 1958[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 18. Juli 1958 In Kraft getreten für die Schweiz am 18. Juli 1959
 
-(Stand am 12. Juni 2018)
+(Stand am 7. September 2023)
 
 [^t-1]: [AS 1958 483](https://fedlex.data.admin.ch/eli/oc/1958/483_505_505)
 
@@ -108,7 +108,7 @@ Nimmt die Konferenz ein neues Übereinkommen an, welches das vorliegende Überei
 
 Der französische und der englische Wortlaut dieses Übereinkommens sind in gleicher Weise massgebend.
 
-Geltungsbereich am 12. Juni 2018**[^t-2]**
+Geltungsbereich am 7. September 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Nachfolgeerklärung (N)</th><th></th><th colspan="2">Inkrafttreten</th><th></th></tr>
@@ -141,10 +141,9 @@ Geltungsbereich am 12. Juni 2018**[^t-2]**
 <tr><td>Burkina Faso</td><td>25. August</td><td>1997</td><td colspan="2">25. August</td><td>1998</td></tr>
 <tr><td>Burundi</td><td>11. März</td><td>1963 N</td><td colspan="2">11. März</td><td>1963</td></tr>
 <tr><td>Chile</td><td>1. Februar</td><td>1999</td><td colspan="2">1. Februar</td><td>2000</td></tr>
-<tr><td>China</td><td></td><td></td><td colspan="2"></td><td></td></tr>
+<tr><td>China</td><td>12. August</td><td>2022</td><td colspan="2">12. August</td><td>2023</td></tr>
 <tr><td>Hongkong <sup>a</sup></td><td>6. Juni</td><td>1997</td><td colspan="2">1. Juli</td><td>1997</td></tr>
 <tr><td>Macau <sup>b c</sup></td><td>20. Dezember</td><td>1999</td><td colspan="2">20. Dezember</td><td>1999</td></tr>
-<tr><td>Cook-Inseln</td><td>12. Juni</td><td>2015</td><td colspan="2">12. Juni</td><td>2016</td></tr>
 <tr><td>Costa Rica</td><td>4. Mai</td><td>1959</td><td colspan="2">4. Mai</td><td>1960</td></tr>
 <tr><td>Côte d’Ivoire</td><td>5. Mai</td><td>1961</td><td colspan="2">5. Mai</td><td>1962</td></tr>
 <tr><td>Dänemark</td><td>17. Januar</td><td>1958</td><td colspan="2">17. Januar</td><td>1959</td></tr>
@@ -158,6 +157,7 @@ Geltungsbereich am 12. Juni 2018**[^t-2]**
 <tr><td>El Salvador</td><td>18. November</td><td>1958</td><td colspan="2">18. November</td><td>1959</td></tr>
 <tr><td>Eritrea</td><td>22. Februar</td><td>2000</td><td colspan="2">22. Februar</td><td>2001</td></tr>
 <tr><td>Estland</td><td>7. Februar</td><td>1996</td><td colspan="2">7. Februar</td><td>1997</td></tr>
+<tr><td>Eswatini</td><td>28. Februar</td><td>1979</td><td colspan="2">28. Februar</td><td>1980</td></tr>
 <tr><td>Fidschi</td><td>19. April</td><td>1974 N</td><td colspan="2">19. April</td><td>1974</td></tr>
 <tr><td>Finnland</td><td>27. Mai</td><td>1960</td><td colspan="2">27. Mai</td><td>1961</td></tr>
 <tr><td>Frankreich\*</td><td>18. Dezember</td><td>1969</td><td colspan="2">18. Dezember</td><td>1970</td></tr>
@@ -222,7 +222,6 @@ Geltungsbereich am 12. Juni 2018**[^t-2]**
 <tr><td>Marokko</td><td>1. Dezember</td><td>1966</td><td colspan="2">1. Dezember</td><td>1967</td></tr>
 <tr><td>Mauretanien</td><td>3. April</td><td>1997</td><td colspan="2">3. April</td><td>1998</td></tr>
 <tr><td>Mauritius</td><td>2. Dezember</td><td>1969 N</td><td colspan="2">2. Dezember</td><td>1969</td></tr>
-<tr><td>Mazedonien</td><td>15. Juli</td><td>2003</td><td colspan="2">15. Juli</td><td>2004</td></tr>
 <tr><td>Mexiko</td><td>1. Juni</td><td>1959</td><td colspan="2">1. Juni</td><td>1960</td></tr>
 <tr><td>Moldau</td><td>10. März</td><td>1993</td><td colspan="2">10. März</td><td>1994</td></tr>
 <tr><td>Mongolei</td><td>15. März</td><td>2005</td><td colspan="2">15. März</td><td>2006</td></tr>
@@ -232,6 +231,8 @@ Geltungsbereich am 12. Juni 2018**[^t-2]**
 <tr><td>Nauru</td><td>5. September</td><td>1968 N</td><td colspan="2">5. September</td><td>1968</td></tr>
 <tr><td>Nepal</td><td>30. August</td><td>2007</td><td colspan="2">30. August</td><td>2008</td></tr>
 <tr><td>Neuseeland</td><td>14. Juni</td><td>1968</td><td colspan="2">14. Juni</td><td>1969</td></tr>
+<tr><td>Cook-Inseln</td><td>12. Juni</td><td>2015</td><td colspan="2">12. Juni</td><td>2016</td></tr>
+<tr><td>Niue</td><td>14. Juni</td><td>1968</td><td colspan="2">14. Juni</td><td>1969</td></tr>
 <tr><td>Tokelau</td><td>14. Juni</td><td>1968</td><td colspan="2">14. Juni</td><td>1969</td></tr>
 <tr><td>Nicaragua</td><td>31. Oktober</td><td>1967</td><td colspan="2">31. Oktober</td><td>1968</td></tr>
 <tr><td>Niederlande</td><td>18. Februar</td><td>1959</td><td colspan="2">18. Februar</td><td>1960</td></tr>
@@ -242,6 +243,7 @@ Geltungsbereich am 12. Juni 2018**[^t-2]**
 <tr><td>Sint Maarten</td><td>18. Februar</td><td>1959</td><td colspan="2">18. Februar</td><td>1960</td></tr>
 <tr><td>Niger</td><td>23. März</td><td>1962</td><td colspan="2">23. März</td><td>1963</td></tr>
 <tr><td>Nigeria</td><td>17. Oktober</td><td>1960 N</td><td colspan="2">17. Oktober</td><td>1960</td></tr>
+<tr><td>Nordmazedonien</td><td>15. Juli</td><td>2003</td><td colspan="2">15. Juli</td><td>2004</td></tr>
 <tr><td>Norwegen</td><td>14. April</td><td>1958</td><td colspan="2">14. April</td><td>1959</td></tr>
 <tr><td>Oman</td><td>21. Juli</td><td>2005</td><td colspan="2">21. Juli</td><td>2006</td></tr>
 <tr><td>Österreich</td><td>5. März</td><td>1958</td><td colspan="2">5. März</td><td>1959</td></tr>
@@ -281,7 +283,6 @@ Geltungsbereich am 12. Juni 2018**[^t-2]**
 <tr><td>Sudan</td><td>22. Oktober</td><td>1970</td><td colspan="2">22. Oktober</td><td>1971</td></tr>
 <tr><td>Südsudan</td><td>29. April</td><td>2012</td><td colspan="2">29. April</td><td>2013</td></tr>
 <tr><td>Suriname</td><td>15. Juni</td><td>1976 N</td><td colspan="2">15. Juni</td><td>1976</td></tr>
-<tr><td>Swasiland</td><td>28. Februar</td><td>1979</td><td colspan="2">28. Februar</td><td>1980</td></tr>
 <tr><td>Syrien</td><td>23. Oktober</td><td>1958</td><td colspan="2">23. Oktober</td><td>1959</td></tr>
 <tr><td>Tadschikistan</td><td>23. September</td><td>1999</td><td colspan="2">23. September</td><td>2000</td></tr>
 <tr><td>Tansania</td><td>22. Juni</td><td>1964 N</td><td>22. Juni</td><td colspan="2">1964</td></tr>
@@ -313,14 +314,15 @@ Geltungsbereich am 12. Juni 2018**[^t-2]**
 <tr><td>Montserrat</td><td>10. Juni</td><td>1958</td><td colspan="2">17. Januar</td><td>1959</td></tr>
 <tr><td>St. Helena</td><td>10. Juni</td><td>1958</td><td colspan="2">17. Januar</td><td>1959</td></tr>
 <tr><td>Vereinigte Staaten\*</td><td>25. September</td><td>1991</td><td colspan="2">25. September</td><td>1992</td></tr>
+<tr><td>Vietnam</td><td>14. Juli</td><td>2020 B</td><td colspan="2">14. Juli</td><td>2021</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>9. Juni</td><td>1964</td><td colspan="2">9. Juni</td><td>1965</td></tr>
 <tr><td>Zypern</td><td>23. September</td><td>1960 N</td><td colspan="2">23. September</td><td>1960</td></tr>
 <tr><td colspan="6">\* Vorbehalte und Erklärungen.</td></tr>
-<tr><td colspan="6">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Internationalen Arbeitsorganisation: www.ilo.org/ilolex/french/convdisp1.htm eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="6">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Internationalen Arbeitsorganisation: www.ilo.org &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="6"><sup>a</sup> Vom 25. Nov. 1959 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.</td></tr>
 <tr><td colspan="6"><sup>b</sup> Ohne Abweichungen anwendbar.</td></tr>
 <tr><td colspan="6"><sup>c</sup> Vom 4. Okt. 1999 bis zum 19. Dez. 1999 war das Übereink. auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dez. 1999 bildet Macau eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 13. Dez. 1999 ist das Übereink. seit dem 20. Dez. 1999 auch in der SAR Macau anwendbar.</td></tr>
 <tr><td colspan="6"><sup>d</sup> 22. Mai 1990: Vereinigung der Jemenitischen Arabischen Republik und der Demokratischen Volksrepublik Jemen zur Republik Jemen.</td></tr>
 </table>
 
-[^t-2]: [AS 1973 1684](https://fedlex.data.admin.ch/eli/oc/1973/1684_1684_1684), [1975 2502](https://fedlex.data.admin.ch/eli/oc/1975/2502_2502_2502), [1982 840](https://fedlex.data.admin.ch/eli/oc/1982/840_840_840), [1985 290](https://fedlex.data.admin.ch/eli/oc/1985/290_290_290), [1992 673](https://fedlex.data.admin.ch/eli/oc/1992/673_673_673), [2005 1853](https://fedlex.data.admin.ch/eli/oc/2005/310), [2008 31](https://fedlex.data.admin.ch/eli/oc/2008/13), [2010 3991](https://fedlex.data.admin.ch/eli/oc/2010/570), [2013 967](https://fedlex.data.admin.ch/eli/oc/2013/202)und [2018 2533](https://fedlex.data.admin.ch/eli/oc/2018/368). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1973 1684](https://fedlex.data.admin.ch/eli/oc/1973/1684_1684_1684); [1975 2502](https://fedlex.data.admin.ch/eli/oc/1975/2502_2502_2502); [1982 840](https://fedlex.data.admin.ch/eli/oc/1982/840_840_840); [1985 290](https://fedlex.data.admin.ch/eli/oc/1985/290_290_290); [1992 673](https://fedlex.data.admin.ch/eli/oc/1992/673_673_673); [2005 1853](https://fedlex.data.admin.ch/eli/oc/2005/310); [2008 31](https://fedlex.data.admin.ch/eli/oc/2008/13); [2010 3991](https://fedlex.data.admin.ch/eli/oc/2010/570); [2013 967](https://fedlex.data.admin.ch/eli/oc/2013/202); [2018 2533](https://fedlex.data.admin.ch/eli/oc/2018/368); [2023 499](https://fedlex.data.admin.ch/eli/oc/2023/499). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty%20).
