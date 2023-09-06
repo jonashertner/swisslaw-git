@@ -3,11 +3,11 @@ sr: "0.822.728.2"
 title: "Convenzione n. 182 del 17 giugno 1999 concernente il divieto delle forme più manifeste di sfruttamento del fanciullo sul lavoro e l'azione immediata volta alla loro abolizione"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/168"
 language: it
-version: 2019-10-29
+version: 2023-09-07
 adopted: 1999-06-17
 in_force: 2001-06-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/168/20191029/it/xml/fedlex-data-admin-ch-eli-cc-2003-168-20191029-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/168/20191029/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/168/20230907/it/xml/fedlex-data-admin-ch-eli-cc-2003-168-20230907-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/168/20230907/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2003** 927; FF **2000** 277
 
 Traduzione
 
-Conclusa a Ginevra il 17 giugno 1999
+Conclusa a Ginevra il 17 giugno 1999 Approvata dall’Assemblea federale il 9 marzo 2000 [^t-1] Ratificata con strumenti depositati dalla Svizzera il 28 giugno 2000 Entrata in vigore per la Svizzera il 28 giugno 2001
 
-Approvata dall’Assemblea federale il 9 marzo 2000 [^t-1]
-
-Ratificata con strumenti depositati dalla Svizzera il 28 giugno 2000
-
-Entrata in vigore per la Svizzera il 28 giugno 2001
-
-(Stato 29 ottobre 2019)
+(Stato 7 settembre 2023)
 
 [^t-1]: Art. 1 cpv. 1 lett. c del DF del 9 mar. 2000 ([RU 2003 926](https://fedlex.data.admin.ch/eli/oc/2003/167)).
 
@@ -163,7 +157,7 @@ Nel caso in cui la Conferenza adottasse una nuova Convenzione comportante una re
 
 I testi francese e inglese della presente Convenzione fanno parimenti fede.
 
-Campo d’applicazione il 29 ottobre 2019**[^t-2]**
+Campo d’applicazione il 7 settembre 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th colspan="2"></th></tr>
@@ -338,6 +332,7 @@ Campo d’applicazione il 29 ottobre 2019**[^t-2]**
 <tr><td>Thailandia</td><td>16 febbraio</td><td>2001</td><td>16 febbraio</td><td colspan="2">2002</td></tr>
 <tr><td>Timor-Leste</td><td>16 giugno</td><td>2009</td><td>16 giugno</td><td colspan="2">2010</td></tr>
 <tr><td>Togo</td><td>19 settembre</td><td>2000</td><td>19 settembre</td><td colspan="2">2001</td></tr>
+<tr><td>Tonga</td><td>4 agosto</td><td>2020</td><td>4 agosto</td><td colspan="2">2021</td></tr>
 <tr><td>Trinidad e Tobago</td><td>23 aprile</td><td>2003</td><td>23 aprile</td><td colspan="2">2004</td></tr>
 <tr><td>Tunisia</td><td>28 febbraio</td><td>2000</td><td>28 febbraio</td><td colspan="2">2001</td></tr>
 <tr><td>Turchia</td><td>2 agosto</td><td>2001</td><td>2 agosto</td><td colspan="2">2002</td></tr>
@@ -354,9 +349,9 @@ Campo d’applicazione il 29 ottobre 2019**[^t-2]**
 <tr><td>Yemen</td><td>15 giugno</td><td>2000</td><td>15 giugno</td><td colspan="2">2001</td></tr>
 <tr><td>Zambia</td><td>10 dicembre</td><td>2001</td><td>10 dicembre</td><td colspan="2">2002</td></tr>
 <tr><td>Zimbabwe</td><td>11 dicembre</td><td>2000</td><td>11 dicembre</td><td colspan="2">2001</td></tr>
-<tr><td colspan="6"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi in inglese possono essere ottenuti sul sito Internet dell'Organizzazione internazionale marittima (IMO): www.imo.org/ &gt; Publications &gt; Catalogue & Code Listings, oppure presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="6"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi in inglese possono essere ottenuti sul sito internet dell’Organizzazione internazionale marittima (IMO): www.ilo.org &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour, oppure presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="6"><sup>a</sup> Non si applica alle Isole Faeröer né alla Groenlandia.</td></tr>
 <tr><td colspan="6"><sup>b</sup> S’applica senza mod. a Guernesey (ad eccezione di «Bailiwick» di Guernesey, la cui autorità si estende alle isole di Aurigny e Sercq).</td></tr>
 </table>
 
-[^t-2]: [RU 2003 927](https://fedlex.data.admin.ch/eli/oc/2003/168), [2005 1781](https://fedlex.data.admin.ch/eli/oc/2005/294), [2006 4209](https://fedlex.data.admin.ch/eli/oc/2006/632), [2010 4235](https://fedlex.data.admin.ch/eli/oc/2010/610), [2013 413](https://fedlex.data.admin.ch/eli/oc/2013/77), [2016 1245](https://fedlex.data.admin.ch/eli/oc/2016/247), [2019 3523](https://fedlex.data.admin.ch/eli/oc/2019/646). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2003 927](https://fedlex.data.admin.ch/eli/oc/2003/168); [2005 1781](https://fedlex.data.admin.ch/eli/oc/2005/294); [2006 4209](https://fedlex.data.admin.ch/eli/oc/2006/632); [2010 4235](https://fedlex.data.admin.ch/eli/oc/2010/610); [2013 413](https://fedlex.data.admin.ch/eli/oc/2013/77); [2016 1245](https://fedlex.data.admin.ch/eli/oc/2016/247); [2019 3523](https://fedlex.data.admin.ch/eli/oc/2019/646); [2023 503](https://fedlex.data.admin.ch/eli/oc/2023/503). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

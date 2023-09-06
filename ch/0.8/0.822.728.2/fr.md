@@ -3,11 +3,11 @@ sr: "0.822.728.2"
 title: "Convention n<sup>o</sup> 182 du 17 juin 1999 concernant l'interdiction des pires formes de travail des enfants et l'action immédiate en vue de leur élimination"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/168"
 language: fr
-version: 2019-10-29
+version: 2023-09-07
 adopted: 1999-06-17
 in_force: 2001-06-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/168/20191029/fr/xml/fedlex-data-admin-ch-eli-cc-2003-168-20191029-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/168/20191029/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/168/20230907/fr/xml/fedlex-data-admin-ch-eli-cc-2003-168-20230907-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/168/20230907/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Genève le 17 juin 1999 Approuvée par l’Assemblée fédérale le 9 mars 2000[^t-1] Instrument de ratification déposé par la Suisse le 28 juin 2000 Entrée en vigueur pour la Suisse le 28 juin 2001
 
-(Etat le 29 octobre 2019)
+(État le 7 septembre 2023)
 
 [^t-1]: Art. 1 al. 1 let. c de l’AF du 9 mars 2000 ([RO 2003 926](https://fedlex.data.admin.ch/eli/oc/2003/167))
 
@@ -157,7 +157,7 @@ Au cas où la Conférence adopterait une nouvelle convention portant révision t
 
 Les versions française et anglaise du texte de la présente Convention font également foi.
 
-Champ d’application le 29 octobre 2019**[^t-2]**
+Champ d’application le 7 septembre 2023[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th colspan="2"></th></tr>
@@ -305,7 +305,7 @@ Champ d’application le 29 octobre 2019**[^t-2]**
 <tr><td>République tchèque</td><td>19 juin</td><td>2001</td><td>19 juin</td><td colspan="2">2002</td></tr>
 <tr><td>Roumanie</td><td>13 décembre</td><td>2000</td><td>13 décembre</td><td colspan="2">2001</td></tr>
 <tr><td>Royaume-Uni</td><td>22 mars</td><td>2000</td><td>22 mars</td><td colspan="2">2001</td></tr>
-<tr><td>[tab] Guernesey <sup>b</sup></td><td>15 octobre</td><td>2001</td><td>15 octobre</td><td colspan="2">2001</td></tr>
+<tr><td>Guernesey <sup>b</sup></td><td>15 octobre</td><td>2001</td><td>15 octobre</td><td colspan="2">2001</td></tr>
 <tr><td>Russie</td><td>25 mars</td><td>2003</td><td>25 mars</td><td colspan="2">2004</td></tr>
 <tr><td>Rwanda</td><td>23 mai</td><td>2000</td><td>23 mai</td><td colspan="2">2001</td></tr>
 <tr><td>Sainte-Lucie</td><td>6 décembre</td><td>2000</td><td>6 décembre</td><td colspan="2">2001</td></tr>
@@ -335,6 +335,7 @@ Champ d’application le 29 octobre 2019**[^t-2]**
 <tr><td>Thaïlande</td><td>16 février</td><td>2001</td><td>16 février</td><td colspan="2">2002</td></tr>
 <tr><td>Timor-Leste</td><td>16 juin</td><td>2009</td><td>16 juin</td><td colspan="2">2010</td></tr>
 <tr><td>Togo</td><td>19 septembre</td><td>2000</td><td>19 septembre</td><td colspan="2">2001</td></tr>
+<tr><td>Tonga</td><td>4 août</td><td>2020</td><td>4 août</td><td colspan="2">2021</td></tr>
 <tr><td>Trinité-et-Tobago</td><td>23 avril</td><td>2003</td><td>23 avril</td><td colspan="2">2004</td></tr>
 <tr><td>Tunisie</td><td>28 février</td><td>2000</td><td>28 février</td><td colspan="2">2001</td></tr>
 <tr><td>Turkménistan</td><td>15 novembre</td><td>2010</td><td>15 novembre</td><td>2011</td></tr>
@@ -348,7 +349,7 @@ Champ d’application le 29 octobre 2019**[^t-2]**
 <tr><td>Yémen</td><td>15 juin</td><td>2000</td><td>15 juin</td><td colspan="2">2001</td></tr>
 <tr><td>Zambie</td><td>10 décembre</td><td>2001</td><td>10 décembre</td><td colspan="2">2002</td></tr>
 <tr><td>Zimbabwe</td><td>11 décembre</td><td>2000</td><td>11 décembre</td><td colspan="2">2001</td></tr>
-<tr><td colspan="6">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation internationale du Travail: www.ilo.org &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Non applicable aux îles Féroé et au Groenland. <sup>b</sup> Applicable sans modification à Guernesey (à l’exception de «Bailiwick» de Guernesey dont l’autorité s’étend aux îles d’Aurigny et Sercq).</td></tr>
+<tr><td colspan="6">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation internationale du Travail: [www.ilo.org](http://www.ilo.org) &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Non applicable aux îles Féroé et au Groenland. <sup>b</sup> Applicable sans modification à Guernesey (à l’exception de «Bailiwick» de Guernesey dont l’autorité s’étend aux îles d’Aurigny et Sercq).</td></tr>
 </table>
 
-[^t-2]: [RO 2003 927](https://fedlex.data.admin.ch/eli/oc/2003/168), [2005 1781](https://fedlex.data.admin.ch/eli/oc/2005/294), [2006 4209](https://fedlex.data.admin.ch/eli/oc/2006/632), [2010 4235](https://fedlex.data.admin.ch/eli/oc/2010/610), [2013 413](https://fedlex.data.admin.ch/eli/oc/2013/77), [2016 1245](https://fedlex.data.admin.ch/eli/oc/2016/247), [2019 3523](https://fedlex.data.admin.ch/eli/oc/2019/646). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2003 927](https://fedlex.data.admin.ch/eli/oc/2003/168); [2005 1781](https://fedlex.data.admin.ch/eli/oc/2005/294); [2006 4209](https://fedlex.data.admin.ch/eli/oc/2006/632); [2010 4235](https://fedlex.data.admin.ch/eli/oc/2010/610); [2013 413](https://fedlex.data.admin.ch/eli/oc/2013/77); [2016 1245](https://fedlex.data.admin.ch/eli/oc/2016/247); [2019 3523](https://fedlex.data.admin.ch/eli/oc/2019/646); [2023 503](https://fedlex.data.admin.ch/eli/oc/2023/503). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty%20)

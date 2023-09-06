@@ -3,11 +3,11 @@ sr: "0.822.728.2"
 title: Übereinkommen Nr. 182 vom 17. Juni 1999 über das Verbot und unverzügliche Massnahmen zur Beseitigung der schlimmsten Formen der Kinderarbeit
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/168"
 language: de
-version: 2019-10-29
+version: 2023-09-07
 adopted: 1999-06-17
 in_force: 2001-06-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/168/20191029/de/xml/fedlex-data-admin-ch-eli-cc-2003-168-20191029-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/168/20191029/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/168/20230907/de/xml/fedlex-data-admin-ch-eli-cc-2003-168-20230907-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/168/20230907/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 28. Juni 2000
 
 In Kraft getreten für die Schweiz am 28. Juni 2001
 
-(Stand am 29. Oktober 2019)
+(Stand am 7. September 2023)
 
 [^t-1]: Art. 1 Abs. 1 Bst. c des BB vom 9. März 2000 ([AS 2003 926](https://fedlex.data.admin.ch/eli/oc/2003/167)).
 
@@ -163,7 +163,7 @@ Nimmt die Konferenz ein neues Übereinkommen an, welches das vorliegende Überei
 
 Der französische und der englische Wortlaut dieses Übereinkommens sind in gleicher Weise verbindlich.
 
-Geltungsbereich am 29. Oktober 2019**[^t-2]**
+Geltungsbereich am 7. September 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -332,7 +332,7 @@ Geltungsbereich am 29. Oktober 2019**[^t-2]**
 <tr><td>Tansania</td><td>12. September</td><td>2001</td><td>12. September</td><td>2002</td></tr>
 <tr><td>Thailand</td><td>16. Februar</td><td>2001</td><td>16. Februar</td><td>2002</td></tr>
 <tr><td>Timor-Leste</td><td>16. Juni</td><td>2009</td><td>16. Juni</td><td>2010</td></tr>
-<tr><td>Togo</td><td>19. September</td><td>2000</td><td>19. September</td><td>2001</td></tr>
+<tr><td>Tonga</td><td>4. August</td><td>2020</td><td>4. August</td><td>2021</td></tr>
 <tr><td>Trinidad und Tobago</td><td>23. April</td><td>2003</td><td>23. April</td><td>2004</td></tr>
 <tr><td>Tschad</td><td>6. November</td><td>2000</td><td>6. November</td><td>2001</td></tr>
 <tr><td>Tschechische Republik</td><td>19. Juni</td><td>2001</td><td>19. Juni</td><td>2002</td></tr>
@@ -357,4 +357,4 @@ Geltungsbereich am 29. Oktober 2019**[^t-2]**
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Internationale Arbeitsorganisation: www.ilo.org &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Nicht anwendbar auf die Färöer-Inseln und Grönland. <sup>b</sup> Anwendung ohne Abweichungen auf Guernsey (mit Ausnahme des «Bailiwick» Guernsey, welchem die Inseln Alderney und Sark unterstehen).</td></tr>
 </table>
 
-[^t-2]: [AS 2003 927](https://fedlex.data.admin.ch/eli/oc/2003/168), [2005 1781](https://fedlex.data.admin.ch/eli/oc/2005/294), [2006 4209](https://fedlex.data.admin.ch/eli/oc/2006/632), [2010 4235](https://fedlex.data.admin.ch/eli/oc/2010/610), [2013 413](https://fedlex.data.admin.ch/eli/oc/2013/77), [2016 1245](https://fedlex.data.admin.ch/eli/oc/2016/247)und [2019 3523](https://fedlex.data.admin.ch/eli/oc/2019/646). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: Diese Veröffentlichung ergänzt die früheren in [AS 2003 927](https://fedlex.data.admin.ch/eli/oc/2003/168); [2005 1781](https://fedlex.data.admin.ch/eli/oc/2005/294); [2006 4209](https://fedlex.data.admin.ch/eli/oc/2006/632); [2010 4235](https://fedlex.data.admin.ch/eli/oc/2010/610); [2013 413](https://fedlex.data.admin.ch/eli/oc/2013/77); [2016 1245](https://fedlex.data.admin.ch/eli/oc/2016/247); [2019 3523](https://fedlex.data.admin.ch/eli/oc/2019/646); [2023 503](https://fedlex.data.admin.ch/eli/oc/2023/503). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht www.fedlex.admin.ch/de/treaty
