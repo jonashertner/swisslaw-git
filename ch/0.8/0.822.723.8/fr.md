@@ -3,11 +3,11 @@ sr: "0.822.723.8"
 title: "Convention n<sup>o</sup> 138 du 26 juin 1973 concernant l'âge minimum d'admission à l'emploi"
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/204"
 language: fr
-version: 2019-06-14
+version: 2023-09-07
 adopted: 1973-06-26
 in_force: 2000-08-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/204/20190614/fr/xml/fedlex-data-admin-ch-eli-cc-2001-204-20190614-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/204/20190614/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/204/20230907/fr/xml/fedlex-data-admin-ch-eli-cc-2001-204-20230907-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/204/20230907/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,15 +18,9 @@ RO **2001** 1427; FF **1999** 475
 
 Texte original
 
-Conclue à Genève le 26 juin 1973
+Conclue à Genève le 26 juin 1973 Approuvée par l’Assemblée fédérale le 18 mars 1999[^t-1] Instrument de ratification déposé par la Suisse le 17 août 1999[^t-2] Entrée en vigueur pour la Suisse le 17 août 2000[^t-3]
 
-Approuvée par l’Assemblée fédérale le 18 mars 1999[^t-1]
-
-Instrument de ratification déposé par la Suisse le 17 août 1999[^t-2]
-
-Entrée en vigueur pour la Suisse le 17 août 2000[^t-3]
-
-(Etat le 14 juin 2019)
+(État le 7 septembre 2023)
 
 [^t-1]: [RO 2001 1426](https://fedlex.data.admin.ch/eli/oc/2001/203)
 [^t-2]: Lors de la ratification, la Suisse a dénoncé les Conv. OIT suivantes, avec effet au 17 août 2000: Conv. n<sup>o</sup> 58 (révisée) sur l’âge minimum (travail maritime) du 24 oct. 1936 [[RO 1960 508](https://fedlex.data.admin.ch/eli/oc/1960/473_508_494), [1962 1403](https://fedlex.data.admin.ch/eli/oc/1962/1357_1403_1411)[1404](https://fedlex.data.admin.ch/eli/oc/1962/1359_1404_1413)art. 1] Conv. n<sup>o</sup> 123 sur l’âge minimum (travaux souterrains) du 22 juin 1965 [[RO 1968 175](https://fedlex.data.admin.ch/eli/oc/1968/166_175_175)]
@@ -34,13 +28,13 @@ Entrée en vigueur pour la Suisse le 17 août 2000[^t-3]
 
 La Conférence générale de l’Organisation internationale du Travail,
 
-convoquée à Genève par le Conseil d’administration du Bureau international du Travail, et s’y étant réunie le 6 juin 1973, en sa cinquante-huitième session;
+convoquée à Genève par le Conseil d’administration du Bureau international du Travail, et s’y étant réunie le 6 juin 1973, en sa cinquante-huitième session,
 
-après avoir décidé d’adopter diverses propositions relatives à l’âge minimum d’admission à l’emploi, question qui constitue le quatrième point à l’ordre du jour de la session;
+après avoir décidé d’adopter diverses propositions relatives à l’âge minimum d’admission à l’emploi, question qui constitue le quatrième point à l’ordre du jour de la session,
 
-notant les termes de la convention sur l’âge minimum (industrie)[^ingress-1], 1919, de la convention sur l’âge minimum (travail maritime), 1920, de la convention sur l’âge minimum (agriculture), 1921, de la convention sur l’âge minimum (soutiers et chauffeurs)[^ingress-2], 1921, de la convention sur l’âge minimum (travaux non industriels), 1932, de la convention (révisée) sur l’âge minimum (travail maritime)[^ingress-3], 1936, de la convention (révisée) de l’âge minimum (industrie), 1937, de la convention (révisée) sur l’âge minimum (travaux non industriels), 1937, de la convention sur l’âge minimum (pêcheurs), 1959, et de la convention sur l’âge minimum (travaux souterrains)[^ingress-4], 1965;
+notant les termes de la convention sur l’âge minimum (industrie)[^ingress-1], 1919, de la convention sur l’âge minimum (travail maritime), 1920, de la convention sur l’âge minimum (agriculture), 1921, de la convention sur l’âge minimum (soutiers et chauffeurs)[^ingress-2], 1921, de la convention sur l’âge minimum (travaux non industriels), 1932, de la convention (révisée) sur l’âge minimum (travail maritime)[^ingress-3], 1936, de la convention (révisée) de l’âge minimum (industrie), 1937, de la convention (révisée) sur l’âge minimum (travaux non industriels), 1937, de la convention sur l’âge minimum (pêcheurs), 1959, et de la convention sur l’âge minimum (travaux souterrains)[^ingress-4], 1965,
 
-considérant que le moment est venu d’adopter un instrument général sur ce sujet, qui devrait graduellement remplacer les instruments existants applicables à des secteurs économiques limités, en vue de l’abolition totale du travail des enfants;
+considérant que le moment est venu d’adopter un instrument général sur ce sujet, qui devrait graduellement remplacer les instruments existants applicables à des secteurs économiques limités, en vue de l’abolition totale du travail des enfants,
 
 après avoir décidé que cet instrument prendrait la forme d’une convention internationale,
 
@@ -152,7 +146,7 @@ La législation nationale pourra autoriser l’emploi à des travaux légers des
 
 <sup>2.</sup> L’entrée en vigueur de la présente Convention ne ferme pas à une ratification ultérieure la convention (révisée) sur l’âge minimum (travail maritime), 1936, la convention (révisée) de l’âge minimum (industrie), 1937, la convention (révisée) sur l’âge minimum (travaux non industriels), 1937, la convention sur l’âge minimum (pêcheurs), 1959, et la convention sur l’âge minimum (travaux souterrains), 1965.
 
-<sup>3.</sup> La convention sur l’âge minimum (industrie), 1919, la convention sur l’âge minimum (travail maritime), 1920, la convention sur l’âge minimum (agriculture), 1921, et la convention sur l’âge minimum (soutiers et chauffeurs), 1921, seront fermées à toute ratification ultérieure lorsque tous les Etats Membres parties à ces conventions consentiront à cette fermeture, soit en ratifiant la présente Convention, soit par une déclaration communiquée au Directeur général du Bureau international du Travail.
+<sup>3.</sup> La convention sur l’âge minimum (industrie), 1919, la convention sur l’âge minimum (travail maritime), 1920, la convention sur l’âge minimum (agriculture), 1921, et la convention sur l’âge minimum (soutiers et chauffeurs), 1921, seront fermées à toute ratification ultérieure lorsque tous les États Membres parties à ces conventions consentiront à cette fermeture, soit en ratifiant la présente Convention, soit par une déclaration communiquée au Directeur général du Bureau international du Travail.
 
 <sup>4.</sup>
 
@@ -224,10 +218,10 @@ Les versions française et anglaise du texte de la présente Convention font ég
 
 (Suivent les signatures)
 
-Champ d’application le 14 juin 2019**[^t-4]**
+Champ d’application le 7 septembre 2023[^t-4]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th colspan="2"></th></tr>
+<tr><th>États parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th colspan="2"></th></tr>
 <tr><td>Afghanistan <sup>a</sup></td><td>7 avril</td><td>2010</td><td>7 avril</td><td colspan="2">2011</td></tr>
 <tr><td>Afrique du Sud <sup>b</sup></td><td>30 mars</td><td>2000</td><td>30 mars</td><td colspan="2">2001</td></tr>
 <tr><td>Albanie <sup>c</sup></td><td>16 février</td><td>1998</td><td>16 février</td><td colspan="2">1999</td></tr>
@@ -242,6 +236,7 @@ Champ d’application le 14 juin 2019**[^t-4]**
 <tr><td>Azerbaïdjan <sup>c</sup></td><td>19 mai</td><td>1992</td><td>19 mai</td><td colspan="2">1993</td></tr>
 <tr><td>Bahamas <sup>a</sup></td><td>31 octobre</td><td>2001</td><td>31 octobre</td><td colspan="2">2002</td></tr>
 <tr><td>Bahreïn <sup>b</sup></td><td>7 mars</td><td>2012</td><td>7 mars</td><td>2013</td></tr>
+<tr><td>Bangladesh</td><td>22 mars</td><td>2022</td><td>22 mars</td><td>2023</td></tr>
 <tr><td>Barbade <sup>c</sup></td><td>4 janvier</td><td>2000</td><td>4 janvier</td><td colspan="2">2001</td></tr>
 <tr><td>Bélarus <sup>c</sup></td><td>3 mai</td><td>1979</td><td>3 mai</td><td colspan="2">1980</td></tr>
 <tr><td>Belgique <sup>b</sup></td><td>19 avril</td><td>1988</td><td>19 avril</td><td colspan="2">1989</td></tr>
@@ -260,8 +255,8 @@ Champ d’application le 14 juin 2019**[^t-4]**
 <tr><td>Cap-Vert <sup>b</sup></td><td>7 février</td><td>2011</td><td>7 février</td><td colspan="2">2012</td></tr>
 <tr><td>Chili <sup>b</sup></td><td>1<sup>er</sup> février</td><td>1999</td><td>1<sup>er</sup> février</td><td colspan="2">2000</td></tr>
 <tr><td>Chine\* <sup>c</sup></td><td>28 avril</td><td>1999</td><td>28 avril</td><td colspan="2">2000</td></tr>
-<tr><td>[tab] Hong Kong\* <sup>b d</sup></td><td>28 avril</td><td>1999</td><td>28 avril</td><td colspan="2">2000</td></tr>
-<tr><td>[tab] Macao <sup>c e</sup></td><td>6 octobre</td><td>2000</td><td>6 octobre</td><td colspan="2">2000</td></tr>
+<tr><td>Hong Kong\* <sup>b d</sup></td><td>28 avril</td><td>1999</td><td>28 avril</td><td colspan="2">2000</td></tr>
+<tr><td>Macao <sup>c e</sup></td><td>6 octobre</td><td>2000</td><td>6 octobre</td><td colspan="2">2000</td></tr>
 <tr><td>Chypre <sup>b</sup></td><td>2 octobre</td><td>1997</td><td>2 octobre</td><td colspan="2">1998</td></tr>
 <tr><td>Colombie <sup>b</sup></td><td>2 février</td><td>2001</td><td>2 février</td><td colspan="2">2002</td></tr>
 <tr><td>Comores <sup>b</sup></td><td>17 mars</td><td>2004</td><td>17 mars</td><td colspan="2">2005</td></tr>
@@ -275,15 +270,15 @@ Champ d’application le 14 juin 2019**[^t-4]**
 <tr><td>Danemark <sup>b</sup> <sup>f</sup></td><td>13 novembre</td><td>1997</td><td>13 novembre</td><td colspan="2">1998</td></tr>
 <tr><td>Djibouti <sup>c</sup></td><td>14 juin</td><td>2005</td><td>14 juin</td><td colspan="2">2006</td></tr>
 <tr><td>Dominique <sup>b</sup></td><td>27 septembre</td><td>1983</td><td>27 septembre</td><td colspan="2">1984</td></tr>
-<tr><td>Egypte <sup>b</sup></td><td>9 juin</td><td>1999</td><td>9 juin</td><td colspan="2">2000</td></tr>
+<tr><td>Égypte <sup>b</sup></td><td>9 juin</td><td>1999</td><td>9 juin</td><td colspan="2">2000</td></tr>
 <tr><td>El Salvador <sup>a</sup></td><td>23 janvier</td><td>1996</td><td>23 janvier</td><td colspan="2">1997</td></tr>
-<tr><td>Emirats arabes unis <sup>b</sup></td><td>2 octobre</td><td>1998</td><td>2 octobre</td><td colspan="2">1999</td></tr>
-<tr><td>Equateur <sup>b</sup></td><td>19 septembre</td><td>2000</td><td>19 septembre</td><td colspan="2">2001</td></tr>
-<tr><td>Erythrée <sup>a</sup></td><td>22 février</td><td>2000</td><td>22 février</td><td colspan="2">2001</td></tr>
+<tr><td>Émirats arabes unis <sup>b</sup></td><td>2 octobre</td><td>1998</td><td>2 octobre</td><td colspan="2">1999</td></tr>
+<tr><td>Équateur <sup>b</sup></td><td>19 septembre</td><td>2000</td><td>19 septembre</td><td colspan="2">2001</td></tr>
+<tr><td>Érythrée <sup>a</sup></td><td>22 février</td><td>2000</td><td>22 février</td><td colspan="2">2001</td></tr>
 <tr><td>Espagne <sup>c</sup></td><td>16 mai</td><td>1977</td><td>16 mai</td><td colspan="2">1978</td></tr>
 <tr><td>Estonie <sup>b</sup></td><td>15 mars</td><td>2007</td><td>15 mars</td><td>2008</td></tr>
 <tr><td>Eswatini <sup>b</sup></td><td>23 octobre</td><td>2002</td><td>23 octobre</td><td>2003</td></tr>
-<tr><td>Ethiopie <sup>a</sup></td><td>27 mai</td><td>1999</td><td>27 mai</td><td colspan="2">2000</td></tr>
+<tr><td>Éthiopie <sup>a</sup></td><td>27 mai</td><td>1999</td><td>27 mai</td><td colspan="2">2000</td></tr>
 <tr><td>Fidji <sup>b</sup></td><td>3 janvier</td><td>2003</td><td>3 janvier</td><td colspan="2">2004</td></tr>
 <tr><td>Finlande <sup>b</sup></td><td>13 janvier</td><td>1976</td><td>13 janvier</td><td colspan="2">1977</td></tr>
 <tr><td>France <sup>c</sup></td><td>13 juillet</td><td>1990</td><td>13 juillet</td><td colspan="2">1991</td></tr>
@@ -301,6 +296,7 @@ Champ d’application le 14 juin 2019**[^t-4]**
 <tr><td>Haïti <sup>a</sup></td><td>3 juin</td><td>2009</td><td>3 juin</td><td>2010</td></tr>
 <tr><td>Honduras <sup>a</sup></td><td>9 juin</td><td>1980</td><td>9 juin</td><td colspan="2">1981</td></tr>
 <tr><td>Hongrie <sup>c</sup></td><td>28 mai</td><td>1998</td><td>28 mai</td><td colspan="2">1999</td></tr>
+<tr><td>Îles Salomon <sup>a</sup></td><td>22 avril</td><td>2013</td><td>22 avril</td><td>2014</td></tr>
 <tr><td>Inde <sup>a</sup></td><td>13 juin</td><td>2017</td><td>13 juin</td><td colspan="2">2018</td></tr>
 <tr><td>Indonésie <sup>b</sup></td><td>7 juin</td><td>1999</td><td>7 juin</td><td colspan="2">2000</td></tr>
 <tr><td>Iraq <sup>b</sup></td><td>13 février</td><td>1985</td><td>13 février</td><td colspan="2">1986</td></tr>
@@ -338,6 +334,7 @@ Champ d’application le 14 juin 2019**[^t-4]**
 <tr><td>Mongolie <sup>b</sup></td><td>16 décembre</td><td>2002</td><td>16 décembre</td><td colspan="2">2003</td></tr>
 <tr><td>Monténégro <sup>b</sup></td><td>3 juin</td><td>2006 S</td><td>3 juin</td><td>2006</td></tr>
 <tr><td>Mozambique <sup>b</sup></td><td>16 juin</td><td>2003</td><td>16 juin</td><td colspan="2">2004</td></tr>
+<tr><td>Myanmar</td><td>8 juin</td><td>2020</td><td>8 juin</td><td>2021</td></tr>
 <tr><td>Namibie <sup>a</sup></td><td>15 novembre</td><td>2000</td><td>15 novembre</td><td colspan="2">2001</td></tr>
 <tr><td>Népal <sup>a</sup></td><td>30 mai</td><td>1997</td><td>30 mai</td><td colspan="2">1998</td></tr>
 <tr><td>Nicaragua <sup>a</sup></td><td>2 novembre</td><td>1981</td><td>2 novembre</td><td colspan="2">1982</td></tr>
@@ -352,7 +349,7 @@ Champ d’application le 14 juin 2019**[^t-4]**
 <tr><td>Papouasie-Nouvelle-Guinée <sup>c</sup></td><td>2 juin</td><td>2000</td><td>2 juin</td><td colspan="2">2001</td></tr>
 <tr><td>Paraguay <sup>a</sup></td><td>3 mars</td><td>2004</td><td>3 mars</td><td colspan="2">2005</td></tr>
 <tr><td>Pays-Bas\* <sup>b</sup></td><td>14 septembre</td><td>1976</td><td>14 septembre</td><td colspan="2">1977</td></tr>
-<tr><td>[tab] Aruba <sup>a</sup> <sup>e</sup></td><td>24 mars</td><td>1987</td><td>24 mars</td><td colspan="2">1987</td></tr>
+<tr><td>Aruba <sup>a</sup> <sup>e</sup></td><td>24 mars</td><td>1987</td><td>24 mars</td><td colspan="2">1987</td></tr>
 <tr><td>Pérou <sup>a</sup></td><td>13 novembre</td><td>2002</td><td>13 novembre</td><td colspan="2">2003</td></tr>
 <tr><td>Philippines <sup>b</sup></td><td>4 juin</td><td>1998</td><td>4 juin</td><td colspan="2">1999</td></tr>
 <tr><td>Pologne <sup>b</sup></td><td>22 mars</td><td>1978</td><td>22 mars</td><td colspan="2">1979</td></tr>
@@ -368,7 +365,6 @@ Champ d’application le 14 juin 2019**[^t-4]**
 <tr><td>Saint-Kitts-et-Nevis <sup>c</sup></td><td>3 juin</td><td>2005</td><td>3 juin</td><td colspan="2">2006</td></tr>
 <tr><td>Saint-Marin <sup>c</sup></td><td>1<sup>er</sup> février</td><td>1995</td><td>1<sup>er</sup> février</td><td colspan="2">1996</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines <sup>a</sup></td><td>25 juillet</td><td>2006</td><td>25 juillet</td><td colspan="2">2007</td></tr>
-<tr><td>Salomon, Iles <sup>b</sup></td><td>22 avril</td><td>2013</td><td>22 avril</td><td>2014</td></tr>
 <tr><td>Samoa <sup>b</sup></td><td>29 octobre</td><td>2008</td><td>29 octobre</td><td>2009</td></tr>
 <tr><td>Sao Tomé-et-Principe <sup>a</sup></td><td>4 mai</td><td>2005</td><td>4 mai</td><td colspan="2">2006</td></tr>
 <tr><td>Sénégal\* <sup>b</sup></td><td>15 décembre</td><td>1999</td><td>15 décembre</td><td colspan="2">2000</td></tr>
@@ -382,8 +378,8 @@ Champ d’application le 14 juin 2019**[^t-4]**
 <tr><td>Soudan du Sud <sup>a</sup></td><td>29 avril</td><td>2012</td><td>29 avril</td><td colspan="2">2013</td></tr>
 <tr><td>Sri-Lanka <sup>a</sup></td><td>11 février</td><td>2000</td><td>11 février</td><td colspan="2">2001</td></tr>
 <tr><td>Suède <sup>b</sup></td><td>23 avril</td><td>1990</td><td>23 avril</td><td colspan="2">1991</td></tr>
-<tr><td>Suriname <sup>c</sup></td><td>15 janvier</td><td>2018</td><td>15 janvier</td><td colspan="2">2019</td></tr>
 <tr><td>Suisse\* <sup>b</sup></td><td>17 août</td><td>1999</td><td>17 août</td><td colspan="2">2000</td></tr>
+<tr><td>Suriname <sup>c</sup></td><td>15 janvier</td><td>2018</td><td>15 janvier</td><td colspan="2">2019</td></tr>
 <tr><td>Syrie <sup>b</sup></td><td>18 septembre</td><td>2001</td><td>18 septembre</td><td colspan="2">2002</td></tr>
 <tr><td>Tadjikistan <sup>c</sup></td><td>26 novembre</td><td>1993</td><td>26 novembre</td><td colspan="2">1994</td></tr>
 <tr><td>Tanzanie <sup>a</sup></td><td>16 décembre</td><td>1998</td><td>16 décembre</td><td colspan="2">1999</td></tr>
@@ -401,16 +397,10 @@ Champ d’application le 14 juin 2019**[^t-4]**
 <tr><td>Yémen <sup>a</sup></td><td>15 juin</td><td>2000</td><td>15 juin</td><td colspan="2">2001</td></tr>
 <tr><td>Zambie <sup>b</sup></td><td>9 février</td><td>1976</td><td>9 février</td><td colspan="2">1977</td></tr>
 <tr><td>Zimbabwe <sup>a</sup></td><td>6 juin</td><td>2000</td><td>6 juin</td><td colspan="2">2001</td></tr>
-<tr><td colspan="6">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation internationale du Travail: www.ilo.org &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour, ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="6"><sup>a</sup> L’âge minimum spécifié en application de l’art. 2, al. 1, est de 14 ans.</td></tr>
-<tr><td colspan="6"><sup>b</sup> L’âge minimum spécifié en application de l’art. 2, al. 1, est de 15 ans.</td></tr>
-<tr><td colspan="6"><sup>c</sup> L’âge minimum spécifié en application de l’art. 2, al. 1, est de 16 ans.</td></tr>
-<tr><td colspan="6"><sup>d</sup> Applicable avec modification.</td></tr>
-<tr><td colspan="6"><sup>e</sup> Applicable sans modification.</td></tr>
-<tr><td colspan="6"><sup>f</sup> Non applicable aux îles Féroé et à Groenland.</td></tr>
+<tr><td colspan="6">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation internationale du Travail: [www.ilo.org](http://www.ilo.org) &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour, ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> L’âge minimum spécifié en application de l’art. 2, al. 1, est de 14 ans. <sup>b</sup> L’âge minimum spécifié en application de l’art. 2, al. 1, est de 15 ans. <sup>c</sup> L’âge minimum spécifié en application de l’art. 2, al. 1, est de 16 ans. <sup>d</sup> Applicable avec modification. <sup>e</sup> Applicable sans modification. <sup>f</sup> Non applicable aux îles Féroé et à Groenland.</td></tr>
 </table>
 
-[^t-4]: La présente publication complète celles qui figurent au [RO 2001 1427](https://fedlex.data.admin.ch/eli/oc/2001/204), [2005 1751](https://fedlex.data.admin.ch/eli/oc/2005/281), [2006 4207](https://fedlex.data.admin.ch/eli/oc/2006/631), [2010 3995](https://fedlex.data.admin.ch/eli/oc/2010/572), [2013 407](https://fedlex.data.admin.ch/eli/oc/2013/74), [2014 1225](https://fedlex.data.admin.ch/eli/oc/2014/265), [2018 3075](https://fedlex.data.admin.ch/eli/oc/2018/488)et **2019** 2009. Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-4]: [RO 2001 1427](https://fedlex.data.admin.ch/eli/oc/2001/204); [2005 1751](https://fedlex.data.admin.ch/eli/oc/2005/281); [2006 4207](https://fedlex.data.admin.ch/eli/oc/2006/631); [2010 3995](https://fedlex.data.admin.ch/eli/oc/2010/572); [2013 407](https://fedlex.data.admin.ch/eli/oc/2013/74); [2014 1225](https://fedlex.data.admin.ch/eli/oc/2014/265); [2018 3075](https://fedlex.data.admin.ch/eli/oc/2018/488); [2019 2009](https://fedlex.data.admin.ch/eli/oc/2019/368); [2023 500](https://fedlex.data.admin.ch/eli/oc/2023/500). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
 
 Réserves et déclarations
 

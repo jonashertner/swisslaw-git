@@ -3,11 +3,11 @@ sr: "0.822.723.8"
 title: "Convenzione n. 138 del 26 giugno 1973 concernente l'età minima di ammissione all'impiego"
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/204"
 language: it
-version: 2019-06-14
+version: 2023-09-07
 adopted: 1973-06-26
 in_force: 2000-08-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/204/20190614/it/xml/fedlex-data-admin-ch-eli-cc-2001-204-20190614-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/204/20190614/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/204/20230907/it/xml/fedlex-data-admin-ch-eli-cc-2001-204-20230907-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/204/20230907/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,19 +18,13 @@ RU **2001** 1427; FF **1999** 447
 
 Traduzione
 
-Conclusa a Ginevra il 26 giugno 1973
+Conclusa a Ginevra il 26 giugno 1973 Approvata dall’Assemblea federale il 18 marzo 1999 [^t-1] Ratificata con strumenti depositati dalla Svizzera il 17 agosto 1999 [^t-2] Entrata in vigore per la Svizzera il 17 agosto 2000 [^t-3]
 
-Approvata dall’Assemblea federale il 18 marzo 1999 [^t-1]
-
-Ratificata con strumenti depositati dalla Svizzera il 17 agosto 1999 [^t-2]
-
-Entrata in vigore per la Svizzera il 17 agosto 2000 [^t-3]
-
-(Stato 14 giugno 2019)
+(Stato 7 settembre 2023)
 
 [^t-1]: [RU 2001 1426](https://fedlex.data.admin.ch/eli/oc/2001/203)
-[^t-2]: In occasione della ratifica, la Svizzera ha preannunciato le seguenti Conv. dell’OIL con effetto al 17 ago. 2000: Conv. n. 58 del 24 ott. 1936 che determina l’età minima per l’ammissione dei fanciulli al lavoro marittimo [RU **1960** 494, **1962** 1411 1413 art. 1]. Conv. n. 123 del 22 giu. 1965 sull’età minima di ammissione ai lavori sotterranei nelle miniere [RU **1968** 175].
-[^t-3]: All’atto dell’entrata in vigore, la Svizzera è liberata con effetto immediato dagli obblighi che scaturiscono dalle seguenti Conv. dell’OIL: Conv. n. 5 del 28 nov. 1919 che fissa l’età minima per l’ammissione dei fanciulli ai lavori industriali [CS **14** 8; RU **1962** 1411 1413 art. 1]. Conv. n. 15 dell’11 nov. 1921 concernente l’età minima per l’assunzione nel servizio delle stive e delle caldaia [RU **1960** 484, **1962** 1411 1413 art. 1].
+[^t-2]: In occasione della ratifica, la Svizzera ha denunciato le seguenti Conv. dell’OIL con effetto al 17 ago. 2000: Conv. n. 58 del 24 ott. 1936 che determina l’età minima per l’ammissione dei fanciulli al lavoro marittimo [RU **1960** 494; **1962** 1411, 1413 art. 1]. Conv. n. 123 del 22 giu. 1965 sull’età minima di ammissione ai lavori sotterranei nelle miniere [RU **1968** 175].
+[^t-3]: All’atto dell’entrata in vigore, la Svizzera è liberata con effetto immediato dagli obblighi che scaturiscono dalle seguenti Conv. dell’OIL: Conv. n. 5 del 28 nov. 1919 che fissa l’età minima per l’ammissione dei fanciulli ai lavori industriali [CS **14** 8; RU **1962** 1411, 1413 art. 1]. Conv. n. 15 dell’11 nov. 1921 concernente l’età minima per l’assunzione nel servizio delle stive e delle caldaia [RU **1960** 484; **1962** 1411, 1413 art. 1].
 
 La Conferenza generale dell’Organizzazione internazionale del lavoro,
 
@@ -46,9 +40,9 @@ dopo aver deciso che tale strumento avrebbe la forma di una convenzione internaz
 
 adotta oggi, 26 giugno 1973, la Convenzione seguente, denominata Convenzione sull’età minima, 1973:
 
-[^ingress-1]: [CS **14** 8; [RU 1962 1411](https://fedlex.data.admin.ch/eli/oc/1962/1357_1403_1411)[1413](https://fedlex.data.admin.ch/eli/oc/1962/1359_1404_1413)art. 1]
-[^ingress-2]: [[RU 1960 484](https://fedlex.data.admin.ch/eli/oc/1960/465_498_484), [1962 1411](https://fedlex.data.admin.ch/eli/oc/1962/1357_1403_1411)[1413](https://fedlex.data.admin.ch/eli/oc/1962/1359_1404_1413)art. 1]
-[^ingress-3]: [[RU 1960 494](https://fedlex.data.admin.ch/eli/oc/1960/473_508_494), [1962 1411](https://fedlex.data.admin.ch/eli/oc/1962/1357_1403_1411)[1413](https://fedlex.data.admin.ch/eli/oc/1962/1359_1404_1413)art. 1]
+[^ingress-1]: [CS **14** 8; [RU 1962 1411](https://fedlex.data.admin.ch/eli/oc/1962/1357_1403_1411), [1413](https://fedlex.data.admin.ch/eli/oc/1962/1359_1404_1413)art. 1]
+[^ingress-2]: [[RU 1960 484](https://fedlex.data.admin.ch/eli/oc/1960/465_498_484), [1962 1411](https://fedlex.data.admin.ch/eli/oc/1962/1357_1403_1411), [1413](https://fedlex.data.admin.ch/eli/oc/1962/1359_1404_1413)art. 1]
+[^ingress-3]: [[RU 1960 494](https://fedlex.data.admin.ch/eli/oc/1960/473_508_494), [1962 1411](https://fedlex.data.admin.ch/eli/oc/1962/1357_1403_1411), [1413](https://fedlex.data.admin.ch/eli/oc/1962/1359_1404_1413)art. 1]
 [^ingress-4]: [[RU 1968 175](https://fedlex.data.admin.ch/eli/oc/1968/166_175_175)]
 
 #### Art. 1
@@ -224,7 +218,7 @@ Le versioni francese e inglese del testo della presente Convenzione fanno parime
 
 (Seguono le firme)
 
-Campo d’applicazione il 14 giugno 2019**[^t-4]**
+Campo d’applicazione il 7 settembre 2023[^t-4]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -236,10 +230,11 @@ Campo d’applicazione il 14 giugno 2019**[^t-4]**
 <tr><td>Arabia Saudita <sup>c</sup></td><td>2 aprile</td><td>2014</td><td>2 aprile</td><td>2015</td></tr>
 <tr><td>Argentina <sup>b</sup></td><td>11 novembre</td><td>1996</td><td>11 novembre</td><td>1997</td></tr>
 <tr><td>Armenia <sup>b</sup></td><td>27 gennaio</td><td>2006</td><td>27 gennaio</td><td>2007</td></tr>
-<tr><td>Austria<sup>c</sup></td><td>18 settembre</td><td>2000</td><td>18 settembre</td><td>2001</td></tr>
+<tr><td>Austria <sup>c</sup></td><td>18 settembre</td><td>2000</td><td>18 settembre</td><td>2001</td></tr>
 <tr><td>Azerbaigian <sup>b</sup></td><td>19 maggio</td><td>1992</td><td>19 maggio</td><td>1993</td></tr>
 <tr><td>Bahamas <sup>a</sup></td><td>31 ottobre</td><td>2001</td><td>31 ottobre</td><td>2002</td></tr>
 <tr><td>Bahrein <sup>c</sup></td><td>7 marzo</td><td>2012</td><td>7 marzo</td><td>2013</td></tr>
+<tr><td>Bangladesh</td><td>22 marzo</td><td>2022</td><td>22 marzo</td><td>2023</td></tr>
 <tr><td>Barbados <sup>b</sup></td><td>4 gennaio</td><td>2000</td><td>4 gennaio</td><td>2001</td></tr>
 <tr><td>Belarus <sup>b</sup></td><td>3 maggio</td><td>1979</td><td>3 maggio</td><td>1980</td></tr>
 <tr><td>Belgio <sup>c</sup></td><td>19 aprile</td><td>1988</td><td>19 aprile</td><td>1989</td></tr>
@@ -339,6 +334,7 @@ Campo d’applicazione il 14 giugno 2019**[^t-4]**
 <tr><td>Mongolia <sup>c</sup></td><td>16 dicembre</td><td>2002</td><td>16 dicembre</td><td>2003</td></tr>
 <tr><td>Montenegro <sup>c</sup></td><td>3 giugno</td><td>2006 S</td><td>3 giugno</td><td>2006</td></tr>
 <tr><td>Mozambico <sup>c</sup></td><td>16 giugno</td><td>2003</td><td>16 giugno</td><td>2004</td></tr>
+<tr><td>Myanmar</td><td>8 giugno</td><td>2020</td><td>8 giugno</td><td>2021</td></tr>
 <tr><td>Namibia <sup>a</sup></td><td>15 novembre</td><td>2000</td><td>15 novembre</td><td>2001</td></tr>
 <tr><td>Nepal <sup>a</sup></td><td>30 maggio</td><td>1997</td><td>30 maggio</td><td>1998</td></tr>
 <tr><td>Nicaragua <sup>a</sup></td><td>2 novembre</td><td>1981</td><td>2 novembre</td><td>1982</td></tr>
@@ -401,7 +397,7 @@ Campo d’applicazione il 14 giugno 2019**[^t-4]**
 <tr><td>Yemen <sup>a</sup></td><td>15 giugno</td><td>2000</td><td>15 giugno</td><td>2001</td></tr>
 <tr><td>Zambia <sup>c</sup></td><td>9 febbraio</td><td>1976</td><td>9 febbraio</td><td>1977</td></tr>
 <tr><td>Zimbabwe <sup>a</sup></td><td>6 giugno</td><td>2000</td><td>6 giugno</td><td>2001</td></tr>
-<tr><td colspan="6">\* Riserve e dichiarazioni. Le riserve e dichiarazioni, ad eccezione di quelle della Svizzera, non sono pubblicate nella RU. I testi francesi e inglesi si possono consultare sul Sito Internet dell’Organizzazione internazionale del lavoro: www.ilo.org &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions o ottenere presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="6">\* Riserve e dichiarazioni. Le riserve e dichiarazioni, ad eccezione di quelle della Svizzera, non sono pubblicate nella RU. I testi francesi e inglesi si possono consultare sul sito internet dell’Organizzazione internazionale del lavoro: www.ilo.org &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions o ottenere presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="6"><sup>a</sup> L’età minima conformemente all’art. 2 par. 1 è fissata a 14 anni.</td></tr>
 <tr><td colspan="6"><sup>b</sup> L’età minima conformemente all’art. 2 par. 1 è fissata a 16 anni.</td></tr>
 <tr><td colspan="6"><sup>c</sup> L’età minima conformemente all’art. 2 par. 1 è fissata a 15 anni.</td></tr>
@@ -410,7 +406,7 @@ Campo d’applicazione il 14 giugno 2019**[^t-4]**
 <tr><td colspan="6"><sup>f</sup> Non si applica alle Isole Faeröer né alla Groenlandia.</td></tr>
 </table>
 
-[^t-4]: [RU 2001 1427](https://fedlex.data.admin.ch/eli/oc/2001/204), [2005 1751](https://fedlex.data.admin.ch/eli/oc/2005/281), [2006 4207](https://fedlex.data.admin.ch/eli/oc/2006/631),[2010 3995](https://fedlex.data.admin.ch/eli/oc/2010/572), [2013 407](https://fedlex.data.admin.ch/eli/oc/2013/74), [2014 1225](https://fedlex.data.admin.ch/eli/oc/2014/265), [2018 3075](https://fedlex.data.admin.ch/eli/oc/2018/488)e [2019 2009](https://fedlex.data.admin.ch/eli/oc/2019/368). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-4]: [RU 2001 1427](https://fedlex.data.admin.ch/eli/oc/2001/204); [2005 1751](https://fedlex.data.admin.ch/eli/oc/2005/281); [2006 4207](https://fedlex.data.admin.ch/eli/oc/2006/631); [2010 3995](https://fedlex.data.admin.ch/eli/oc/2010/572); [2013 407](https://fedlex.data.admin.ch/eli/oc/2013/74); [2014 1225](https://fedlex.data.admin.ch/eli/oc/2014/265); [2018 3075](https://fedlex.data.admin.ch/eli/oc/2018/488); [2019 2009](https://fedlex.data.admin.ch/eli/oc/2019/368); [2023 500](https://fedlex.data.admin.ch/eli/oc/2023/500). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Riserve e dichiarazioni
 

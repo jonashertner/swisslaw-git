@@ -3,11 +3,11 @@ sr: "0.822.723.8"
 title: Übereinkommen Nr. 138 vom 26. Juni 1973 über das Mindestalter für die Zulassung zur Beschäftigung
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/204"
 language: de
-version: 2019-06-14
+version: 2023-09-07
 adopted: 1973-06-26
 in_force: 2000-08-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/204/20190614/de/xml/fedlex-data-admin-ch-eli-cc-2001-204-20190614-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/204/20190614/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/204/20230907/de/xml/fedlex-data-admin-ch-eli-cc-2001-204-20230907-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/204/20230907/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 17. August 1999[^t-2]
 
 In Kraft getreten für die Schweiz am 17. August 2000[^t-3]
 
-(Stand am 14. Juni 2019)
+(Stand am 7. September 2023)
 
 [^t-1]: [AS 2001 1426](https://fedlex.data.admin.ch/eli/oc/2001/203)
 [^t-2]: Anlässlich der Ratifikation hat die Schweiz die folgenden ILO-Übereinkommen mit Wirkung auf den 17. August 2000 gekündigt: Übereinkommen Nr. 58 über das Mindestalter (Seeschifffahrt) vom 24. Oktober 1936 [AS **1960** 473, **1962** 1357 1359 Art. 1]; Übereinkommen Nr. 123 über das Mindestalter (Untertagearbeiten) vom 22. Juni 1965 [AS **1968** 166].
@@ -220,7 +220,7 @@ Der französische und der englische Wortlaut dieses Übereinkommens sind in glei
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 14. Juni 2019**[^t-4]**
+Geltungsbereich am 7. September 2023[^t-4]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -237,6 +237,7 @@ Geltungsbereich am 14. Juni 2019**[^t-4]**
 <tr><td>Äthiopien <sup>a</sup></td><td>27. Mai</td><td>1999</td><td>27. Mai</td><td>2000</td></tr>
 <tr><td>Bahamas <sup>a</sup></td><td>31. Oktober</td><td>2001</td><td>31. Oktober</td><td>2002</td></tr>
 <tr><td>Bahrain <sup>c</sup></td><td>7. März</td><td>2012</td><td>7. März</td><td>2013</td></tr>
+<tr><td>Bangladesch</td><td>22. März</td><td>2022</td><td>22. März</td><td>2023</td></tr>
 <tr><td>Barbados <sup>c</sup></td><td>4. Januar</td><td>2000</td><td>4. Januar</td><td>2001</td></tr>
 <tr><td>Belarus <sup>c</sup></td><td>3. Mai</td><td>1979</td><td>3. Mai</td><td>1980</td></tr>
 <tr><td>Belgien <sup>b</sup></td><td>19. April</td><td>1988</td><td>19. April</td><td>1989</td></tr>
@@ -329,6 +330,7 @@ Geltungsbereich am 14. Juni 2019**[^t-4]**
 <tr><td>Mongolei <sup>b</sup></td><td>16. Dezember</td><td>2002</td><td>16. Dezember</td><td>2003</td></tr>
 <tr><td>Montenegro <sup>b</sup></td><td>3. Juni</td><td>2006 N</td><td>3. Juni</td><td>2006</td></tr>
 <tr><td>Mosambik <sup>b</sup></td><td>16. Juni</td><td>2003</td><td>16. Juni</td><td>2004</td></tr>
+<tr><td>Myanmar</td><td>8. Juni</td><td>2020</td><td>8. Juni</td><td>2021</td></tr>
 <tr><td>Namibia <sup>a</sup></td><td>15. November</td><td>2000</td><td>15. November</td><td>2001</td></tr>
 <tr><td>Nepal <sup>a</sup></td><td>30. Mai</td><td>1997</td><td>30. Mai</td><td>1998</td></tr>
 <tr><td>Nicaragua <sup>a</sup></td><td>2. November</td><td>1981</td><td>2. November</td><td>1982</td></tr>
@@ -397,7 +399,8 @@ Geltungsbereich am 14. Juni 2019**[^t-4]**
 <tr><td>Vietnam <sup>b</sup></td><td>24. Juni</td><td>2003</td><td>24. Juni</td><td>2004</td></tr>
 <tr><td>Zentralafrikanische Republik <sup>a</sup></td><td>28. Juni</td><td>2000</td><td>28. Juni</td><td>2001</td></tr>
 <tr><td>Zypern <sup>b</sup></td><td>2. Oktober</td><td>1997</td><td>2. Oktober</td><td>1998</td></tr>
-<tr><td colspan="5">\* Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Internationale Arbeitsorganisation: www.ilo.org &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen.</td></tr>
+<tr><td colspan="5">[tab] Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Internationalen Arbeitsorganisation: www.ilo.org &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Das Mindestalter nach Art. 2 Abs. 1 ist auf 14 Jahre festgesetzt.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Das Mindestalter nach Art. 2 Abs. 1 ist auf 15 Jahre festgesetzt.</td></tr>
 <tr><td colspan="5"><sup>c</sup> Das Mindestalter nach Art. 2 Abs. 1 ist auf 16 Jahre festgesetzt.</td></tr>
@@ -406,7 +409,7 @@ Geltungsbereich am 14. Juni 2019**[^t-4]**
 <tr><td colspan="5"><sup>f</sup> Nicht anwendbar auf die Färöer-Inseln und Grönland.</td></tr>
 </table>
 
-[^t-4]: [AS 2001 1427](https://fedlex.data.admin.ch/eli/oc/2001/204), [2005 1751](https://fedlex.data.admin.ch/eli/oc/2005/281), [2006 4207](https://fedlex.data.admin.ch/eli/oc/2006/631), [2010 3995](https://fedlex.data.admin.ch/eli/oc/2010/572), [2013 407](https://fedlex.data.admin.ch/eli/oc/2013/74), [2014 1225](https://fedlex.data.admin.ch/eli/oc/2014/265), [2018 3075](https://fedlex.data.admin.ch/eli/oc/2018/488), [2019 2009](https://fedlex.data.admin.ch/eli/oc/2019/368). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-4]: [AS 2001 1427](https://fedlex.data.admin.ch/eli/oc/2001/204), [2005 1751](https://fedlex.data.admin.ch/eli/oc/2005/281), [2006 4207](https://fedlex.data.admin.ch/eli/oc/2006/631), [2010 3995](https://fedlex.data.admin.ch/eli/oc/2010/572), [2013 407](https://fedlex.data.admin.ch/eli/oc/2013/74), [2014 1225](https://fedlex.data.admin.ch/eli/oc/2014/265), [2018 3075](https://fedlex.data.admin.ch/eli/oc/2018/488), [2019 2009](https://fedlex.data.admin.ch/eli/oc/2019/368); [2023 500](https://fedlex.data.admin.ch/eli/oc/2023/500). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty%20).
 
 Vorbehalte und Erklärungen
 
