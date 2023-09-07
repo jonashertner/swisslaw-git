@@ -4,20 +4,21 @@ number: "161.112"
 title: Geschäftsordnung des Obergerichts
 short: GO OG
 language: de
-version: 2011-01-01
-valid_until: 2023-09-07
-version_adopted: 2010-10-01
+version: 2023-09-08
+version_adopted: 2023-08-31
 adopted: 2010-10-01
 in_force: 2011-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/161.112"
-pdf: "https://bgs.zg.ch/api/de/versions/872/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2483/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Geschäftsordnung des Obergerichts
 
-Vom 1. Oktober 2010 (Stand 1. Januar 2011)
+(GO OG)
+
+Vom 1. Oktober 2010 (Stand 8. September 2023)
 
 Das Obergericht des Kantons Zug,
 
@@ -51,8 +52,8 @@ beschliesst:
   - 2\. der Mitglieder der Abteilungen und Kammern,
   - 3\. der Abteilungspräsidentinnen bzw. Abteilungspräsidenten (ohne Justizverwaltungsabteilung) aus den Mitgliedern der jeweiligen Abteilung,
   - 4\. der Mitglieder der Schlichtungsbehörde Arbeitsrecht,
-  - 5\. der Mitglieder und Ersatzmitglieder sowie der Präsidentin bzw. des Präsidenten und der Vizepräsidentin bzw. des Vizepräsidenten der Anwaltsprüfungskommission und der Aufsichtskommission über die Rechtsanwälte;
-- f) Änderung des Beschäftigungsgrads der Mitglieder der Gerichte während der laufenden Amtsperiode bis zu höchstens 20 % im Rahmen der für ein Gericht gesamthaft festgelegten Stellenprozente;
+  - 5\. der Mitglieder und Ersatzmitglieder sowie der Präsidentin bzw. des Präsidenten der Anwaltsprüfungskommission und der Aufsichtskommission über die Rechtsanwältinnen und Rechtsanwälte;
+- f) Änderung des Beschäftigungsgrads der Mitglieder der Gerichte während der laufenden Amtsperiode bis zu höchstens 50 % im Rahmen der für ein Gericht gesamthaft festgelegten Stellenprozente;
 - g) Zuteilung der Personalstellen;
 - h) Ernennung der Leitenden Oberstaatsanwältin bzw. des Leitenden Oberstaatsanwalts und der Oberstaatsanwältinnen und Oberstaatsanwälte sowie Festsetzung deren Anfangsgehalts und Vornahme von Gehaltskürzungen;
 - i) Erlass genereller Weisungen für die Tätigkeit der Abteilungen;
@@ -73,7 +74,7 @@ beschliesst:
 <sup>1</sup> Das Obergericht umfasst folgende Abteilungen:
 
 - a) die I. und II. Zivilabteilung;
-- b) die Strafabteilung;
+- b) die I. und II. Strafabteilung;
 - c) die I. und II. Beschwerdeabteilung;
 - d) die Justizverwaltungsabteilung.
 
@@ -97,7 +98,13 @@ beschliesst:
 
 **Strafabteilung**
 
-<sup>1</sup> Die Strafabteilung behandelt alle Berufungen in Strafsachen, inklusive Jugendstrafsachen.
+<sup>1</sup> Die I. Strafabteilung behandelt alle Berufungen, die gegen Urteile des Strafgerichts als Kollegialgericht erhoben werden. Sie ist überdies zuständig für Ausstandstreitigkeiten nach Art. 59 Abs. 1 Bst. c StPO[^6-1], Revisionsgesuche nach Art. 21 Abs. 1 Bst. b StPO sowie Stellungnahmen im Ermächtigungsverfahren nach Art. 103 Abs. 2 GOG[^6-2].
+
+<sup>2</sup> Die II. Strafabteilung behandelt alle Berufungen, die gegen Urteile der Einzelrichterinnen und Einzelrichter am Strafgericht erhoben werden. Sie ist zudem Berufungsinstanz in Jugendstrafsachen (Art. 7 Abs. 1. Bst. d JStPO[^6-3]).
+
+[^6-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^6-2]: BGS [161.1](https://bgs.zg.ch/data/161.1/de)
+[^6-3]: SR [312.1](https://db.clex.ch/link/Bund/312.1/de)
 
 #### § 7
 
@@ -139,7 +146,9 @@ beschliesst:
 - c) Leitung der Geschäfte der Justizverwaltungsabteilung;
 - d) Überwachung der Tätigkeit der Abteilungen und der Kanzlei;
 - e) Erledigung der Geschäfte, welche gemäss Gesetzgebung oder gestützt auf § 8 Abs. 2 dieser Geschäftsordnung dem Präsidium zugewiesen sind;
-- f) Vertretung des Gerichts nach aussen.
+- f) Entscheid über den Forderungsverzicht gemäss § 15 FHG für die gesamte Zivil- und Strafrechtspflege;
+- g) Entscheid über die Stundung und den Erlass von Kosten abgeschlossener Verfahren;
+- h) Vertretung des Gerichts nach aussen.
 
 <sup>2</sup> Sie bzw. er wird im Bereich der Justizverwaltung durch die Vizepräsidentin bzw. den Vizepräsidenten vertreten. Ist diese bzw. dieser verhindert, übernimmt das amtsälteste Mitglied des Obergerichts die Vertretung.
 
@@ -270,7 +279,7 @@ beschliesst:
 
 **In-Kraft-Treten und Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Diese Geschäftsordnung tritt unter Vorbehalt der Genehmigung durch den Kantonsrat am 1. Januar 2011 in Kraft.
+<sup>1</sup> …
 
 <sup>2</sup> Mit dem In-Kraft-Treten dieser Geschäftsordnung wird die Geschäftsordnung des Obergerichts vom 23. September 1997[^20-1] aufgehoben.
 
