@@ -3,20 +3,19 @@ canton: BL
 number: "155.11"
 title: Verordnung über die Vergütungen während der Ausbildung
 language: de
-version: 2021-01-01
-valid_until: 2023-09-07
-version_adopted: 2020-11-10
+version: 2023-09-08
+version_adopted: 2023-08-29
 adopted: 2009-03-24
 in_force: 2009-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/155.11"
-pdf: "https://bl.clex.ch/api/de/versions/3685/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3707/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Vergütungen während der Ausbildung
 
-Vom 24.03.2009 (Stand 01.01.2021)
+Vom 24.03.2009 (Stand 08.09.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -64,7 +63,9 @@ beschliesst:
 
 **Familiäre Verpflichtungen**
 
-<sup>1</sup> Entschliesst sich jemand mit familiären Verpflichtungen zu einem Ausbildungsverhältnis, so kann ihm die Anstellungsbehörde, für Lehrpersonen die Bildungs-, Kultur- und Sportdirektion, eine von den obgenannten Beträgen abweichende Vergütung gewähren.
+<sup>1</sup> Entschliesst sich jemand mit familiären Verpflichtungen zu einem Ausbildungsverhältnis, so kann ihr bzw. ihm die Anstellungsbehörde, für Lehrpersonen die Bildungs-, Kultur- und Sportdirektion, eine zusätzliche Vergütung von monatlich maximal CHF 500.– gewähren.
+
+<sup>2</sup> Kommt das Ausbildungsverhältnis im Rahmen einer Zweitausbildung gemäss § 4a zustande, so kann eine zusätzliche Vergütung nur gewährt werden, wenn das Pensum maximal 60 % beträgt.
 
 #### § 4a
 
@@ -91,6 +92,14 @@ beschliesst:
 <sup>1</sup> Der Lehrbetrieb übernimmt die Kosten für die obligatorischen Lehrmittel der Lehranstalten. Er trägt die Schulungs- und Kurskosten der entsprechenden Lehranstalten, falls vertraglich nichts anderes festgelegt wurde. Bei angeordneten Änderungen des Einsatzorts leistet er Beiträge an die Reise, Verpflegung und Unterkunft.
 
 <sup>2</sup> Die in Ausbildung Stehenden tragen die Kosten für Arbeits- und Schulwege. Sie sind ihrem Lehrbetrieb für gewährte Unterkunft und Verpflegung entschädigungspflichtig. Abweichende Regelungen bei einem Schulort ausserhalb der Region sind individuell zu verabreden.
+
+#### § 6a
+
+**Umweltschutzabonnement für Lernende**
+
+<sup>1</sup> Lernende in der Grundbildung haben unabhängig ihres Alters Anspruch auf Erstattung des Jahresumweltschutzabonnements (U-Abo) des Tarifverbunds Nordwestschweiz im Wert des U-Abos für die Jugend.
+
+<sup>2</sup> Die Richtlinie regelt die Einzelheiten.
 
 #### § 7
 
