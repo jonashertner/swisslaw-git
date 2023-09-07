@@ -4,13 +4,13 @@ number: "837.211"
 title: Verordnung zum Gesetz zum Bundesgesetz über die Krankenversicherung
 short: V KVGG
 language: de
-version: 2022-11-01
-valid_until: 2023-09-07
-version_adopted: 2022-08-24
+version: 2023-09-08
+valid_until: 2024-04-30
+version_adopted: 2023-09-06
 adopted: 2016-03-16
 in_force: 2016-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/837.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3236/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3339/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3236/pdf_file"
 
 (V KVGG)
 
-Vom 16.03.2016 (Stand 01.11.2022)
+Vom 16.03.2016 (Stand 08.09.2023)
 
 Der Regierungsrat des Kantons Aargau,
 
