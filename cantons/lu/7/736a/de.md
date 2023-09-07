@@ -3,20 +3,20 @@ canton: LU
 number: 736a
 title: Beschluss über die gemeindeweise Inkraftsetzung von neuen Bestimmungen im Planungs- und Baurecht
 language: de
-version: 2023-07-04
-valid_until: 2023-09-07
-version_adopted: 2023-07-04
+version: 2023-09-08
+valid_until: 2023-10-30
+version_adopted: 2023-09-08
 adopted: 2017-07-04
 in_force: 2017-07-04
 url: "https://srl.lu.ch/app/de/texts_of_law/736a"
-pdf: "https://srl.lu.ch/api/de/versions/4094/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4128/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss über die gemeindeweise Inkraftsetzung von neuen Bestimmungen im Planungs- und Baurecht
 
-vom 04.07.2017 (Stand 04.07.2023)
+vom 04.07.2017 (Stand 08.09.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -63,6 +63,7 @@ beschliesst:
 <tr><td>Grossdietwil</td><td>30. November 2022</td><td>27. Juni 2023</td></tr>
 <tr><td>Ermensee</td><td>5. September 2022</td><td>4. Juli 2023</td></tr>
 <tr><td>Sempach</td><td>5. April 2022</td><td>4. Juli 2023</td></tr>
+<tr><td>Ufhusen</td><td>1. Dezember 2022</td><td>8. September 2023</td></tr>
 </table>
 
 [^Ziff1-1]: SRL Nr. [735](https://srl.lu.ch/data/735/de)
