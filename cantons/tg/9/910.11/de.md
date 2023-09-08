@@ -4,13 +4,13 @@ number: "910.11"
 title: Landwirtschaftsverordnung
 short: LwV
 language: de
-version: 2023-01-01
-valid_until: 2023-09-08
-version_adopted: 2022-10-25
+version: 2023-09-09
+valid_until: 2024-07-31
+version_adopted: 2023-09-05
 adopted: 2001-04-10
 in_force: 2001-05-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/910.11"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2567/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2695/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ LwV
 
 (LwV)
 
-vom 10.04.2001 (Stand 01.01.2023)
+vom 10.04.2001 (Stand 09.09.2023)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -517,9 +517,12 @@ vom 10.04.2001 (Stand 01.01.2023)
 
 **Vollzugsübertragung**
 
-<sup>1</sup> Der Vollzug der bundesrechtlichen Bestimmungen über die Gewährung von Investitionskrediten und Betriebshilfedarlehen wird der Genossenschaft für landwirtschaftliche Investitionskredite und Betriebshilfe (GLIB) übertragen.
+<sup>1</sup> Der Vollzug der Bestimmungen über die Gewährung von Investitionskrediten und Betriebshilfedarlehen gemäss der Verordnung über die Strukturverbesserungen in der Landwirtschaft (Strukturverbesserungsverordnung, SVV)[^38-1] und der Verordnung über die sozialen Begleitmassnahmen in der Landwirtschaft (SBMV)[^38-2] wird der Genossenschaft für landwirtschaftliche Investitionskredite und Betriebshilfe (GLIB) übertragen.
 
 <sup>2</sup> Das Departement beaufsichtigt den Vollzug und kann Weisungen erteilen.
+
+[^38-1]: SR [913.1](https://db.clex.ch/link/Bund/913.1/de)
+[^38-2]: SR [914.11](https://db.clex.ch/link/Bund/914.11/de)
 
 #### § 39
 
@@ -556,6 +559,12 @@ vom 10.04.2001 (Stand 01.01.2023)
 <sup>1</sup> Die Haftung der GLIB sowie die Verantwortlichkeit ihrer Organe und Angestellten richten sich nach dem Gesetz über die Verantwortlichkeit (Verantwortlichkeitsgesetz)[^43-1].
 
 [^43-1]: RB [170.3](https://www.rechtsbuch.tg.ch/data/170.3/de)
+
+#### § 43a
+
+**Betriebshilfe**
+
+<sup>1</sup> Bewirtschaftenden von landwirtschaftlichen Betrieben können Betriebshilfedarlehen im Betrag von Fr. 20'000 bis Fr. 200'000 gewährt werden.
 
 ## 7. Schlussbestimmungen
 
