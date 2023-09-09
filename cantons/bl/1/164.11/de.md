@@ -4,13 +4,13 @@ number: "164.11"
 title: Verordnung zum Gesetz über die elektronische Geschäftsabwicklung und Kommunikation
 short: "E-Government-Verordnung, Vo E-GovG"
 language: de
-version: 2022-01-01
-valid_until: 2023-09-09
-version_adopted: 2021-12-14
+version: 2023-09-10
+valid_until: 2024-03-13
+version_adopted: 2023-08-29
 adopted: 2021-12-14
 in_force: 2022-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/164.11"
-pdf: "https://bl.clex.ch/api/de/versions/3169/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3706/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3169/pdf_file"
 
 (E-Government-Verordnung, Vo E-GovG)
 
-Vom 14.12.2021 (Stand 01.01.2022)
+Vom 14.12.2021 (Stand 10.09.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -117,7 +117,7 @@ beschliesst:
 
 [^8-1]: [SGS 140.51](https://bl.clex.ch/data/140.51/de/art18)
 
-## 3 Nutzung der Online-Service-Plattform
+## 3 Elektronische Geschäftsabwicklung und Kommunikation
 
 #### § 9
 
@@ -126,6 +126,19 @@ beschliesst:
 <sup>1</sup> Die leistungserbringende Behörde kann für den Austausch von Daten und Dokumenten im Rahmen von Behördengängen festschreiben, welche der anerkannten Plattformen genutzt werden muss.
 
 <sup>2</sup> Jede Behörde verfügt über eine E-Mail-Adresse und ein elektronisches Konto bei den vom Kanton anerkannten Zustellplattformen, über die Benutzerinnen und Benutzer mit der Behörde elektronisch kommunizieren können.
+
+#### § 9a
+
+**Elektronische Rechnungsstellung**
+
+<sup>1</sup> Vertragsparteien des Kantons haben ihre Rechnungen als strukturierte Daten einzureichen, wenn sie mindestens 1 der nachfolgenden Kriterien erfüllen:
+
+- a. Sie bieten die Einreichung strukturierter Daten bereits an.
+- b. Sie stellen den kantonalen Behörden insgesamt mehr als 100 Rechnungen pro Jahr zu.
+
+<sup>2</sup> Die Finanzverwaltung kann Ausnahmen von Abs. 1 Bst. b gewähren, wenn die Einreichung strukturierter Daten für die Vertragspartei mit unverhältnismässigem Aufwand verbunden ist.
+
+<sup>3</sup> Die Finanzverwaltung regelt die weiteren Modalitäten, nach denen Vertragsparteien ihre Rechnungen dem Kanton elektronisch einreichen.
 
 #### § 10
 
