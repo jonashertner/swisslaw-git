@@ -4,13 +4,13 @@ number: "164"
 title: Gesetz über die elektronische Geschäftsabwicklung und Kommunikation
 short: "E-Government-Gesetz, E-GovG"
 language: de
-version: 2022-01-01
-valid_until: 2023-09-09
+version: 2023-09-10
+valid_until: 2023-12-31
 version_adopted: 2020-09-10
 adopted: 2020-09-10
 in_force: 2022-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/164"
-pdf: "https://bl.clex.ch/api/de/versions/3901/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3904/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3901/pdf_file"
 
 (E-Government-Gesetz, E-GovG)
 
-Vom 10.09.2020 (Stand 01.01.2022)
+Vom 10.09.2020 (Stand 10.09.2023)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -85,6 +85,9 @@ beschliesst:[^ingress-2]
 <sup>1</sup> Die Behörden stellen zur Verfügung:
 
 - a. im Rahmen von Behördengängen ein elektronisches Zahlungsverfahren;
+- b. die elektronische Rechnungsstellung durch sie und an sie.
+
+<sup>2</sup> Der Regierungsrat legt fest, unter welchen Kriterien Rechnungen elektronisch einzureichen sind, und bestimmt die Ausnahmen.
 
 #### § 6
 
