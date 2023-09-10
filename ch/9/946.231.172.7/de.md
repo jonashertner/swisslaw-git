@@ -3,18 +3,18 @@ sr: "946.231.172.7"
 title: Verordnung vom 8. Juni 2012 über Massnahmen gegenüber Syrien
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/394"
 language: de
-version: 2023-08-03
+version: 2023-09-11
 adopted: 2012-06-08
 in_force: 2012-06-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20230803/de/xml/fedlex-data-admin-ch-eli-cc-2012-394-20230803-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20230803/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20230911/de/xml/fedlex-data-admin-ch-eli-cc-2012-394-20230911-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20230911/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Syrien
 
-vom 8. Juni 2012 (Stand am 3. August 2023)
+vom 8. Juni 2012 (Stand am 11. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -309,7 +309,7 @@ Das SECO kann die Freigabe von gesperrten Geldern und wirtschaftlichen Ressource
 [^10-1]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 3. März 2023 um 18.00 Uhr ([AS 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
 [^10-2]: Eingefügt durch Ziff. I der V vom 16. Okt. 2019 ([AS 2019 3429](https://fedlex.data.admin.ch/eli/oc/2019/622)). Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 3. März 2023 um 18.00 Uhr ([AS 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
 [^10-3]: Eingefügt durch Ziff. I der V vom 3. März 2023, in Kraft seit 3. März 2023 um 18.00 Uhr ([AS 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
-[^10-4]: Eingefügt durch Ziff. I der V vom 10. März 2023, in Kraft vom 10. März 2023 um 18.00 Uhr bis zum 11. Sept. 2023 ([AS 2023 118](https://fedlex.data.admin.ch/eli/oc/2023/118)).
+[^10-4]: Eingefügt durch Ziff. I der V vom 10. März 2023, in Kraft vom 10. März 2023 um 18.00 Uhr bis zum 11. Sept. 2023, verlängert bis zum 11. März 2024 ([AS 2023 118](https://fedlex.data.admin.ch/eli/oc/2023/118), [476](https://fedlex.data.admin.ch/eli/oc/2023/476)).
 [^10-5]: Eingefügt durch Ziff. I der V vom 19. Dez. 2012, in Kraft seit 21. Dez. 2012 ([AS 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
 [^10-6]: Eingefügt durch Ziff. I der V vom 17. Dez. 2014, in Kraft seit 17. Dez. 2014 ([AS 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
 [^10-7]: Eingefügt durch Ziff. I der V vom 17. Dez. 2014, in Kraft seit 17. Dez. 2014 ([AS 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).

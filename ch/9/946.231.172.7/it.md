@@ -3,18 +3,18 @@ sr: "946.231.172.7"
 title: "Ordinanza dell' 8 giugno 2012 che istituisce provvedimenti nei confronti della Siria"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/394"
 language: it
-version: 2023-08-03
+version: 2023-09-11
 adopted: 2012-06-08
 in_force: 2012-06-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20230803/it/xml/fedlex-data-admin-ch-eli-cc-2012-394-20230803-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20230803/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20230911/it/xml/fedlex-data-admin-ch-eli-cc-2012-394-20230911-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20230911/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Siria
 
-dell’8 giugno 2012 (Stato 3 agosto 2023)
+dell’8 giugno 2012 (Stato 11 settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -311,7 +311,7 @@ La SECO, eccezionalmente, può autorizzare la liberazione di risorse economiche 
 [^10-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 3 mar. 2023 alle 18.00 ([RU 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
 [^10-2]: Introdotto dal n. I dell’O del 16 ott. 2019 ([RU 2019 3429](https://fedlex.data.admin.ch/eli/oc/2019/622)). Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 3 mar. 2023 alle 18.00 ([RU 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
 [^10-3]: Introdotto dal n. I dell’O del 3 mar. 2023, in vigore dal 3 mar. 2023 alle 18.00 ([RU 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
-[^10-4]: Introdotto dal n. I dell’O del 10 mar. 2023, in vigore dal 10 mar. 2023 alle 18.00 all’11 set. 2023 ([RU 2023 118](https://fedlex.data.admin.ch/eli/oc/2023/118)).
+[^10-4]: Introdotto dal n. I dell’O del 10 mar. 2023, in vigore dal 10 mar. 2023 alle 18.00 all’11 set. 2023, prolungato fino all’11 mar. 2024 ([RU 2023 118](https://fedlex.data.admin.ch/eli/oc/2023/118), [476](https://fedlex.data.admin.ch/eli/oc/2023/476)).
 [^10-5]: Introdotta dal n. I dell’O del 19 dic. 2012, in vigore dal 21 dic. 2012 ([RU 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
 [^10-6]: Introdotta dal n. I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
 [^10-7]: Introdotta dal n. I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
