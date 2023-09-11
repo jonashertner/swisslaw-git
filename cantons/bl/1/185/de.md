@@ -4,13 +4,12 @@ number: "185"
 title: Finanzausgleichsgesetz
 short: FAG
 language: de
-version: 2023-01-01
-valid_until: 2023-09-11
-version_adopted: 2022-09-15
+version: 2023-09-12
+version_adopted: 2023-03-30
 adopted: 2009-06-25
 in_force: 2010-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/185"
-pdf: "https://bl.clex.ch/api/de/versions/3501/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3720/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3501/pdf_file"
 
 (FAG)
 
-Vom 25.06.2009 (Stand 01.01.2023)
+Vom 25.06.2009 (Stand 12.09.2023)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -266,6 +265,14 @@ beschliesst:[^ingress-2]
 <sup>1<sup>bis</sup></sup> Zur Kompensation der EL-Entlastung des Kantons durch die kommunale Pflegefinanzierung in den Jahren 2011-2015 erstattet der Kanton den Einwohnergemeinden bis Ende des Jahres 2020 insgesamt CHF 45 Mio. An diesen Betrag wird die Zahlung von CHF 15 Mio. gemäss Beschluss des Landrats vom 28. Januar 2016 angerechnet.
 
 <sup>2</sup> Der einzelne Gemeindeanteil richtet sich nach der gewichteten Anzahl hochbetagter Einwohner und Einwohnerinnen sowie nach deren wirtschaftlichen Verhältnissen. Der Regierungsrat regelt die Einzelheiten.
+
+#### § 15d
+
+**Leistungen der Einwohnergemeinden, Ausfallentschädigung Kinderbetreuung Covid-19**
+
+<sup>1</sup> Zur anteilmässigen Kompensation der durch Kanton und Bund vorgeleisteten Ausfallentschädigung Kinderbetreuung Covid-19 leisten die Einwohnergemeinden dem Kanton im Jahr 2020 einmalig CHF 1'604'192.–.
+
+<sup>2</sup> Der einzelne Gemeindeanteil richtet sich nach der Einwohnerzahl.
 
 ## 5 Schlussbestimmungen
 
