@@ -4,11 +4,11 @@ title: Verordnung vom 10. November 2021 über das Einreise- und Ausreisesystem (
 short: EESV
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/734"
 language: de
-version: 2023-09-01
+version: 2023-09-13
 adopted: 2021-11-10
 in_force: 2022-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/734/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2021-734-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/734/20230913/de/xml/fedlex-data-admin-ch-eli-cc-2021-734-20230913-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20230913/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20230901/de"
 
 (EESV)
 
-vom 10. November 2021 (Stand am 1. September 2023)
+vom 10. November 2021 (Stand am 13. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -105,9 +105,11 @@ Die Abfrage des EES zur Prüfung von Visumgesuchen und zum Entscheid über solch
 
 <sup>1</sup> Ergibt die Abfrage des EES zur Überprüfung von Drittstaatsangehörigen nach Artikel 5, dass zur betreffenden Person noch kein persönliches EES-Dossier erstellt wurde, so kann die abfragende Stelle ein solches erstellen.
 
-<sup>2</sup> Ergibt die Abfrage, dass zur betreffenden Person der Zeitpunkt der Einreise in den Schengen-Raum oder der Ausreise aus dem Schengen-Raum oder die Einreiseverweigerung im EES nicht erfasst wurde, so kann die abfragende Stelle diesen oder diese erfassen.
+<sup>2</sup> Ergibt die Abfrage, dass zur betreffenden Person der Zeitpunkt der Einreise in den Schengen-Raum oder der Ausreise aus dem Schengen-Raum oder die Einreiseverweigerung im EES nicht erfasst wurde, so kann die abfragende Stelle diesen oder diese erfassen.[^6-1]
 
 <sup>3</sup> Ergibt die Abfrage, dass zur betreffenden Person bereits Daten im EES erfasst wurden, so kann die abfragende Stelle diese Daten aktualisieren.
+
+[^6-1]: Erratum vom 13. Sept. 2023, betrifft nur den italienischen Text ([AS 2023 508](https://fedlex.data.admin.ch/eli/oc/2023/508))
 
 #### Art. 7
 

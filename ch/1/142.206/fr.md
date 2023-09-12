@@ -4,11 +4,11 @@ title: Ordonnance du 10 novembre 2021 sur le système d’entrée et de sortie (
 short: OEES
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/734"
 language: fr
-version: 2023-09-01
+version: 2023-09-13
 adopted: 2021-11-10
 in_force: 2022-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/734/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2021-734-20230901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/734/20230913/fr/xml/fedlex-data-admin-ch-eli-cc-2021-734-20230913-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20230913/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20230901/fr"
 
 (OEES)
 
-du 10 novembre 2021 (État le 1<sup>er</sup> septembre 2023)
+du 10 novembre 2021 (État le 13 septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -105,9 +105,11 @@ La consultation de l’EES aux fins de l’examen des demandes de visas et des d
 
 <sup>1</sup> S’il ressort de la consultation de l’EES aux fins de vérification de l’identité d’un ressortissant d’un État tiers visée à l’art. 5 qu’aucun dossier individuel EES n’a encore été créé, le service qui consulte le système peut en créer un.
 
-<sup>2</sup> S’il ressort de la consultation que la date d’entrée dans l’espace Schengen, la date de sortie de cet espace ou le refus d’entrée n’ont pas été saisis dans l’EES, le service qui consulte le système peut les y saisir.
+<sup>2</sup> S’il ressort de la consultation que la date d’entrée dans l’espace Schengen, la date de sortie de cet espace ou le refus d’entrée n’ont pas été saisis dans l’EES, le service qui consulte le système peut les y saisir.[^6-1]
 
 <sup>3</sup> S’il ressort de la consultation que des données relatives à l’intéressé ont déjà été saisies dans l’EES, le service qui consulte le système peut les mettre à jour.
+
+[^6-1]: Erratum du 13 sept. 2023, ne concerne que le texte italien ([RO 2023 508](https://fedlex.data.admin.ch/eli/oc/2023/508)).
 
 #### Art. 7
 

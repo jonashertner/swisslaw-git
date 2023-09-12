@@ -4,11 +4,11 @@ title: Ordinanza del 10 novembre 2021 sul sistema di ingressi/uscite (OEES)
 short: OEES
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/734"
 language: it
-version: 2023-09-01
+version: 2023-09-13
 adopted: 2021-11-10
 in_force: 2022-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/734/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2021-734-20230901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/734/20230913/it/xml/fedlex-data-admin-ch-eli-cc-2021-734-20230913-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20230913/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20230901/it"
 
 (OEES)
 
-del 10 novembre 2021 (Stato 1° settembre 2023)
+del 10 novembre 2021 (Stato 13 settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -105,9 +105,11 @@ La consultazione dell’EES ai fini dell’esame delle domande di visto e della 
 
 <sup>1</sup> Se dalla consultazione dell’EES ai fini della verifica dell’identità di un cittadino di uno Stato terzo ai sensi dell’articolo 5 emerge che sull’interessato non è stato ancora allestito alcun fascicolo EES individuale, il servizio che effettua la consultazione può, se del caso, allestirne uno.
 
-<sup>2</sup> Se dalla consultazione emerge che nell’EES non è stata registrata la data dell’entrata nello spazio Schengen o della partenza dallo spazio Schengen dell’interessato oppure non è stato registrato il divieto d’entrata di cui è oggetto, il servizio che effettua la consultazione può registrare il dato mancante.
+<sup>2</sup> Se dalla consultazione emerge che nell’EES non è stata registrata la data dell’entrata nello spazio Schengen o della partenza dallo spazio Schengen dell’interessato oppure non è stato registrato il rifiuto d’entrata di cui è oggetto, il servizio che effettua la consultazione può registrare il dato mancante.[^6-1]
 
 <sup>3</sup> Se dalla consultazione emerge che nell’EES sono già stati registrati dati concernenti l’interessato, il servizio che effettua la consultazione può aggiornarli.
+
+[^6-1]: Correzione del 13 set. 2023 ([RU 2023 508](https://fedlex.data.admin.ch/eli/oc/2023/508)).
 
 #### Art. 7
 
@@ -389,11 +391,13 @@ Gli accordi di associazione alla normativa di Schengen comprendono:
 [^annex1-lvlu1-5]: [RS 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
 [^annex1-lvlu1-6]: [RS 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
 
-Allegato 2
+Allegato 2[^t-1]
 
 (art. 3, 4 cpv. 2, 5 cpv. 3, 7 cpv. 2, 8 cpv. 2, 9 cpv. 2, 14 cpv. 2 e 3, 16, nonché 21 cpv. 2)
 
 ## Elenco dei dati, servizi autorizzati all’accesso e portata dei diritti di accesso nell’EES
+
+[^t-1]: Aggiornato dalla correzione del 13 set. 2023 ([RU 2023 508](https://fedlex.data.admin.ch/eli/oc/2023/508)).
 
 Legenda
 
@@ -467,11 +471,11 @@ Servizi autorizzati all’accesso:
 <tr><td>Durata della proroga del soggiorno autorizzato</td><td>A</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
 <tr><td>Motivi della proroga</td><td>A</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
 <tr><td>Codice dello Stato di rilascio</td><td>A</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td colspan="11">V. Dati relativi al respingimento</td></tr>
+<tr><td colspan="11">V. Dati relativi al rifiuto d’entrata</td></tr>
 <tr><td>Data e ora della decisione</td><td></td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Valico di frontiera presso cui ha avuto luogo il respingimento</td><td></td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Valico di frontiera presso cui ha avuto luogo il rifiuto d’entrata</td><td></td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
 <tr><td>Autorità competente</td><td></td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Motivi del respingimento</td><td>A</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Motivi del rifiuto d’entrata</td><td>A</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
 <tr><td>Numero della vignetta di visto</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td></tr>
 <tr><td colspan="11">VI. Calcolatore automatic</td></tr>
 <tr><td>Durata massima rimanente di soggiorno autorizzato sulla base delle date d’ingresso previste</td><td></td><td>A</td><td>A</td><td></td><td>A1</td><td>A1</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
