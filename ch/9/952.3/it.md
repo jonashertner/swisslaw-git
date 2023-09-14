@@ -3,18 +3,18 @@ sr: "952.3"
 title: Ordinanza del 16 marzo 2023 concernente mutui supplementari a sostegno della liquidità e la concessione da parte della Confederazione di garanzie in caso di dissesto per mutui a sostegno della liquidità erogati dalla Banca nazionale svizzera a banche di rilevanza sistemica
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/135"
 language: it
-version: 2023-03-20
+version: 2023-09-15
 adopted: 2023-03-16
 in_force: 2023-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/135/20230320/it/xml/fedlex-data-admin-ch-eli-cc-2023-135-20230320-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/135/20230320/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/135/20230915/it/xml/fedlex-data-admin-ch-eli-cc-2023-135-20230915-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/135/20230915/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente mutui supplementari a sostegno della liquidità e la concessione da parte della Confederazione di garanzie in caso di dissesto per mutui a sostegno della liquidità erogati dalla Banca nazionale svizzera a banche di rilevanza sistemica
 
-del 16 marzo 2023 (Stato 20 marzo 2023)
+del 16 marzo 2023 (Stato 15 settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -35,18 +35,18 @@ ordina:
 La presente ordinanza disciplina:
 
 - a. i mutui supplementari a sostegno della liquidità erogati dalla Banca nazionale svizzera (BNS) a una banca di rilevanza sistemica;
-- b. le garanzie in caso di dissesto concesse dalla Confederazione alla BNS per mutui a sostegno della liquidità erogati dalla BNS a banche di rilevanza sistemica;
-- c. lo scambio di informazioni tra il Dipartimento federale delle finanze (DFF), l’Autorità federale di vigilanza sui mercati finanziari (FINMA) e la BNS;
-- d. la riduzione dei rischi;
-- e. gli interessi, i premi di rischio, il premio per la messa a disposizione di una garanzia in caso di dissesto e i costi per prestazioni di terzi;
+- b. a d.[^1-1] ...
+- e.[^1-2] gli interessi e i costi per prestazioni di terzi;
 - f. gli obblighi del mutuatario;
-- g. ulteriori provvedimenti;
-- h. il privilegio nel fallimento per mutui a sostegno della liquidità; e
-- i.[^1-1] la garanzia a copertura delle perdite.
+- g. ulteriori provvedimenti; e
+- h. il privilegio nel fallimento per mutui a sostegno della liquidità;
+- i.[^1-3] ...
 
 <sup>2</sup> La presente ordinanza intende contribuire a garantire la stabilità dell’economia svizzera e del sistema finanziario svizzero nel caso di sviluppi imprevisti.
 
-[^1-1]: Introdotta dal n. I dell’O del 19 mar. 2023, in vigore dal 19 mar. 2023 alle ore 20.00 ([RU 2023 136](https://fedlex.data.admin.ch/eli/oc/2023/136)).
+[^1-1]: Abrogate dal n. I dell’O del 6 set. 2023, con effetto dal 15 set. 2023 ([RU 2023 495](https://fedlex.data.admin.ch/eli/oc/2023/495)).
+[^1-2]: Nuovo testo giusta il n. I dell’O del 6 set. 2023, in vigore dal 15 set. 2023 ([RU 2023 495](https://fedlex.data.admin.ch/eli/oc/2023/495)).
+[^1-3]: Introdotta dal n. I dell’O del 19 mar. 2023 ([RU 2023 136](https://fedlex.data.admin.ch/eli/oc/2023/136)). Abrogata dal n. I dell’O del 6 set. 2023, con effetto dal 15 set. 2023 ([RU 2023 495](https://fedlex.data.admin.ch/eli/oc/2023/495)).
 
 #### Art. 2
 
@@ -87,9 +87,7 @@ Sono considerati mutui a sostegno della liquidità erogati dalla BNS a una banca
 
 **Concessione di garanzie in caso di dissesto**
 
-<sup>1</sup> La Confederazione può concedere garanzie in caso di dissesto alla BNS per mutui a sostegno della liquidità. La Confederazione valuta i rischi connessi con la concessione di garanzie in caso di dissesto considerando, in particolare, il privilegio nel fallimento secondo l’articolo 11.
-
-<sup>2</sup> Con una garanzia in caso di dissesto la Confederazione si impegna ad assumersi, al termine di una procedura di fallimento bancario nei confronti del mutuatario e nella misura dei mezzi finanziari stanziati, un’eventuale perdita definitiva della BNS derivante dai mutui a sostegno della liquidità garantiti dalla Confederazione, compresi gli interessi maturati e il premio della BNS di cui all’articolo 8 capoverso 2.
+<sup>1 e <sup>2</sup></sup> ...[^4-1]
 
 <sup>3</sup>
 
@@ -101,67 +99,41 @@ Per la concessione di una garanzia in caso di dissesto devono essere adempiute l
 
 <sup>4</sup> I mutui a sostegno della liquidità con garanzia in caso di dissesto sono erogati quando il mutuatario ha esaurito le fonti di finanziamento reperibili con i propri mezzi. In occasione della prima erogazione, la BNS conferma al DFF che il mutuatario e il gruppo finanziario non dispongono più di alcuna garanzia adeguata per garantire mutui straordinari a sostegno della liquidità e che i mutui supplementari a sostegno della liquidità sono esauriti. La FINMA conferma al DFF che il mutuatario e il gruppo finanziario non dispongono di altre fonti di finanziamento.
 
-<sup>5</sup> Non sussiste alcun diritto alla concessione da parte della Confederazione alla BNS di una garanzia in caso di dissesto per i mutui a sostegno della liquidità erogati al mutuatario.
+<sup>5 e <sup>6</sup></sup> ...[^4-2]
 
-<sup>6</sup> I dettagli concernenti i mutui a sostegno della liquidità con garanzia in caso di dissesto sono disciplinati nel contratto di garanzia concluso tra la Confederazione e la BNS nonché nel contratto concluso tra la BNS e il mutuatario relativo al credito quadro.
+[^4-1]: Abrogati dal n. I dell’O del 6 set. 2023, con effetto dal 15 set. 2023 ([RU 2023 495](https://fedlex.data.admin.ch/eli/oc/2023/495)).
+[^4-2]: Abrogati dal n. I dell’O del 6 set. 2023, con effetto dal 15 set. 2023 ([RU 2023 495](https://fedlex.data.admin.ch/eli/oc/2023/495)).
 
 #### Art. 5
 
-**Stanziamento del credito**
+[^5-1]
 
-Lo stanziamento del credito d’impegno necessario è retto dall’articolo 28 della legge federale del 7 ottobre 2005[^5-1] sulle finanze della Confederazione.
-
-[^5-1]: [RS 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
+[^5-1]: Abrogato dal n. I dell’O del 6 set. 2023, con effetto dal 15 set. 2023 ([RU 2023 495](https://fedlex.data.admin.ch/eli/oc/2023/495)).
 
 #### Art. 5a
 
-**Fondi propri di base supplementari**[^5a-1]
+[^5a-1]
 
-Al momento dello stanziamento del credito secondo l’articolo 5 la FINMA può ordinare al mutuatario e al gruppo finanziario di ammortizzare fondi propri di base supplementari.
+[^5a-1]: Introdotto dal n. I dell’O del 19 mar. 2023 ([RU 2023 136](https://fedlex.data.admin.ch/eli/oc/2023/136)). Abrogato dal n. I dell’O del 6 set. 2023, con effetto dal 15 set. 2023 ([RU 2023 495](https://fedlex.data.admin.ch/eli/oc/2023/495)).
 
-[^5a-1]: Introdotto dal n. I dell’O del 19 mar. 2023, in vigore dal 19 mar. 2023 alle ore 20.00 ([RU 2023 136](https://fedlex.data.admin.ch/eli/oc/2023/136)).
+#### Art. 6 e 7
 
-#### Art. 6
+[^67-1]
 
-**Scambio di informazioni e trattamento dei dati**
-
-<sup>1</sup> Il DFF, la FINMA e la BNS si scambiano informazioni non disponibili pubblicamente, necessarie segnatamente per la concessione, la gestione, la sorveglianza e la liquidazione di mutui a sostegno della liquidità e garanzie in caso di dissesto.
-
-<sup>2</sup> Le autorità di cui al capoverso 1, compreso il Controllo federale delle finanze, nonché i terzi cui si fa capo per l’esecuzione della presente ordinanza possono trattare, collegare tra loro e comunicarsi i dati personali e le altre informazioni di cui necessitano ai fini dell’esecuzione della presente ordinanza, segnatamente per la concessione, la gestione, la sorveglianza e la liquidazione di mutui a sostegno della liquidità e garanzie, e per il monitoraggio del mercato.
-
-<sup>3</sup> L’accesso in virtù della legge del 17 dicembre 2004[^6-1] sulla trasparenza a queste informazioni e a questi dati è escluso.
-
-[^6-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
-
-#### Art. 7
-
-**Riduzione dei rischi e rimborso**
-
-<sup>1</sup> La FINMA e la BNS quale mutuante provvedono, per quanto possibile, affinché i rischi della Confederazione derivanti dalle garanzie in caso di dissesto vengano ridotti.
-
-<sup>2</sup> A complemento della sua attività di vigilanza, la FINMA controlla in che modo sono utilizzati i mutui a sostegno della liquidità con garanzia in caso di dissesto. A tal fine può adottare segnatamente tutte le misure di cui all’articolo 26 LBCR[^7-1], indipendentemente dal fatto che siano state decise misure di protezione.
-
-<sup>3</sup> Il mutuatario deve rimborsare i mutui a sostegno della liquidità con garanzia in caso di dissesto prima degli altri mutui che la BNS gli ha concesso. È fatto salvo il rimborso anticipato di mutui straordinari a sostegno della liquidità, se a seguito di cambiamenti del mercato non sussistono più garanzie sufficienti o se, in casi motivati, la Confederazione ha previamente acconsentito a un simile rimborso di un mutuo straordinario o supplementare a sostegno della liquidità.
-
-[^7-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^67-1]: Abrogati dal n. I dell’O del 6 set. 2023, con effetto dal 15 set. 2023 ([RU 2023 495](https://fedlex.data.admin.ch/eli/oc/2023/495)).
 
 #### Art. 8
 
-**Interessi, premi di rischio, premio per la messa a disposizione di una garanzia in caso di dissesto e costi per prestazioni di terzi**
+**Interessi e costi per prestazioni di terzi[^8-1]**
 
 <sup>1</sup> La BNS ha diritto a riscuotere interessi sui mutui a sostegno della liquidità con garanzia in caso di dissesto.
 
-<sup>2</sup> A titolo di compensazione dei rischi assunti con i mutui a sostegno della liquidità con garanzia in caso di dissesto, la Confederazione e la BNS hanno diritto a un premio di rischio ciascuna. I premi di rischio sono commisurati all’ammontare dei mutui a sostegno della liquidità con garanzia in caso di dissesto erogati e sono stabiliti nel singolo caso. La Confederazione e la BNS possono adeguare il proprio premio di rischio, in particolare in base all’evoluzione della situazione di rischio.
-
-<sup>3</sup> La Confederazione ha diritto a un premio per la messa a disposizione di una garanzia in caso di dissesto. Esso è commisurato all’ammontare della garanzia in caso di dissesto ed è stabilito nel singolo caso.
-
-<sup>4</sup> La BNS addebita i premi di cui ai capoversi 2 e 3 al mutuatario nel momento in cui gli concede un mutuo e accredita alla Confederazione il premio di rischio e il premio per la messa a disposizione di una garanzia in caso di dissesto che le spettano.
-
-<sup>5</sup> I dettagli sono disciplinati nel contratto di garanzia concluso tra la Confederazione e la BNS nonché nel contratto concluso tra la BNS e il mutuatario relativo al credito quadro.
-
-<sup>6</sup> Nell’ambito di una procedura di fallimento la BNS è autorizzata e tenuta a far valere, a nome della Confederazione, i premi maturati di cui ai capoversi 2 e 3.
+<sup>2 a <sup>6</sup></sup> ...[^8-2]
 
 <sup>7</sup> I costi per prestazioni di terzi sostenuti dalla Confederazione o dalla BNS per la concessione di mutui a sostegno della liquidità con garanzia in caso di dissesto sono addebitati al mutuatario.
+
+[^8-1]: Nuovo testo giusta il n. I dell’O del 6 set. 2023, in vigore dal 15 set. 2023 ([RU 2023 495](https://fedlex.data.admin.ch/eli/oc/2023/495)).
+[^8-2]: Abrogati dal n. I dell’O del 6 set. 2023, con effetto dal 15 set. 2023 ([RU 2023 495](https://fedlex.data.admin.ch/eli/oc/2023/495)).
 
 #### Art. 9
 
@@ -195,47 +167,15 @@ Durante il periodo di validità del contratto concluso tra la BNS e il mutuatari
 
 #### Art. 10a
 
-**Deroghe alla legge sulla fusione**[^10a-1]
+[^10a-1]
 
-<sup>1</sup>
+[^10a-1]: Introdotto dal n. I dell’O del 19 mar. 2023 ([RU 2023 136](https://fedlex.data.admin.ch/eli/oc/2023/136)). Abrogato dal n. I dell’O del 6 set. 2023, con effetto dal 15 set. 2023 ([RU 2023 495](https://fedlex.data.admin.ch/eli/oc/2023/495)).
 
-Nel caso di transazioni secondo la legge del 3 ottobre 2003[^10a-2] sulla fusione (LFus) eseguite tra banche assoggettate alla vigilanza della FINMA che hanno rilevanza sistemica o che fanno parte di un gruppo finanziario di rilevanza sistemica secondo l’articolo 7 LBCR e che sono attive a livello internazionale, oppure tra le loro società del gruppo, si applica quanto segue, se ciò è necessario per la tutela dell’economia svizzera e del sistema finanziario svizzero:
+#### Art. 11 a 13
 
-- a. l’esecuzione di queste transazioni non richiede alcuna decisione dell’assemblea generale delle società partecipanti se la transazione avviene d’intesa con la FINMA;
-- b. gli articoli 11, 14, 15 e 16 LFus non sono applicabili se la transazione avviene d’intesa con la FINMA;
-- c. d’intesa con la FINMA è possibile derogare a ulteriori requisiti della LFus relativi a transazioni se le circostanze particolari lo esigono. In questo caso la FINMA consulta previamente le autorità cantonali del registro di commercio interessate e l’Ufficio federale del registro di commercio.
+[^1113-1]
 
-<sup>2</sup> Le decisioni della FINMA sono vincolanti per le autorità del registro di commercio.
-
-[^10a-1]: Introdotto dal n. I dell’O del 19 mar. 2023, in vigore dal 19 mar. 2023 alle ore 20.00 ([RU 2023 136](https://fedlex.data.admin.ch/eli/oc/2023/136)).
-[^10a-2]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
-
-#### Art. 11
-
-**Privilegio nel fallimento per i crediti concernenti mutui a sostegno della liquidità con garanzia in caso di dissesto**
-
-In deroga all’articolo 219 capoverso 4 LEF[^11-1], i crediti della BNS derivanti da mutui a sostegno della liquidità con garanzia in caso di dissesto nonché gli interessi e i premi maturati di cui all’articolo 8 sono collocati nella seconda classe secondo l’articolo 219 capoverso 4 LEF. In deroga all’articolo 220 capoverso 1 LEF, gli altri crediti all’interno della seconda classe di cui all’articolo 219 capoverso 4 lettere a–f LEF nonché i crediti derivanti da mutui supplementari a sostegno della liquidità devono essere soddisfatti prioritariamente.
-
-[^11-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-
-#### Art. 12
-
-**Richiesta della garanzia in caso di dissesto da parte della BNS**
-
-<sup>1</sup>
-
-La richiesta della garanzia in caso di dissesto da parte della BNS presuppone che:
-
-- a. la BNS abbia fatto valere interamente, nell’ambito della procedura di fallimento, i mutui a sostegno della liquidità con garanzia in caso di dissesto, gli interessi maturati, il suo premio di rischio e, a nome della Confederazione, il premio per la messa a disposizione di una garanzia in caso di dissesto e quello di rischio maturati; e
-- b. la procedura di fallimento si sia conclusa con decisione passata in giudicato.
-
-<sup>2</sup> Eventuali ulteriori condizioni per la richiesta della garanzia in caso di dissesto sono definite dalla Confederazione e dalla BNS nel contratto di garanzia.
-
-#### Art. 13
-
-**Esigibilità**
-
-Il credito coperto da una garanzia in caso di dissesto diventa esigibile cinque anni dopo la conclusione della procedura di fallimento con decisione passata in giudicato.
+[^1113-1]: Abrogati dal n. I dell’O del 6 set. 2023, con effetto dal 15 set. 2023 ([RU 2023 495](https://fedlex.data.admin.ch/eli/oc/2023/495)).
 
 #### Art. 14
 
@@ -248,36 +188,26 @@ Il credito coperto da una garanzia in caso di dissesto diventa esigibile cinque 
 [^14-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^14-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 
-## Sezione 3*a*: Garanzia a copertura delle perdite
-
-[^sec3a-1]
-
-[^sec3a-1]: Introdotta dal n. I dell’O del 19 mar. 2023, in vigore dal 19 mar. 2023 alle ore 20.00 ([RU 2023 136](https://fedlex.data.admin.ch/eli/oc/2023/136)).
+## Sezione 3*a*: ...
 
 #### Art. 14a
 
-<sup>1</sup> Nel quadro di una transazione eseguita secondo la LFus tra banche assoggettate alla vigilanza della FINMA che hanno rilevanza sistemica o che fanno parte di un gruppo finanziario di rilevanza sistemica secondo l’articolo 7 LBCR e che sono attive a livello internazionale, la Confederazione può concedere alla banca assuntrice una garanzia a copertura delle perdite per gli attivi da liquidare della banca assunta.
+[^14a-1]
 
-<sup>2</sup> L’articolo 5 si applica per analogia alla concessione della garanzia a copertura delle perdite. La garanzia a copertura delle perdite ammonta al massimo a 9 miliardi di franchi svizzeri.[^14a-1]
+[^14a-1]: Introdotto dal n. I dell’O del 19 mar. 2023 ([RU 2023 136](https://fedlex.data.admin.ch/eli/oc/2023/136)). Abrogato dal n. I dell’O del 6 set. 2023, con effetto dal 15 set. 2023 ([RU 2023 495](https://fedlex.data.admin.ch/eli/oc/2023/495)).
 
-<sup>3</sup>
+## Sezione 4: Entrata in vigore e durata di validità
 
-Per il versamento della garanzia a copertura delle perdite devono essere adempiute le seguenti condizioni:
+[^sec4-1]
 
-- a. tutti gli attivi da liquidare sono stati realizzati definitivamente;
-- b.[^14a-2] la banca assuntrice di cui al capoverso 1 ha sostenuto perdite definitive di 5 miliardi di franchi svizzeri sugli attivi da liquidare;
-- c.[^14a-3] la FINMA sorveglia l’adempimento delle condizioni di cui alle lettere a e b e conferma alla Confederazione le perdite di 5 miliardi di franchi svizzeri subite definitivamente dalla banca assuntrice e le perdite definitive da coprire con la garanzia.
-
-<sup>4</sup> I dettagli concernenti la garanzia a copertura delle perdite sono disciplinati nel contratto di garanzia concluso tra la Confederazione e la banca assuntrice di cui al capoverso 1.
-
-[^14a-1]: La correzione del 20 mar. 2023 concerne soltanto il testo francese ([RU 2023 137](https://fedlex.data.admin.ch/eli/oc/2023/137)).
-[^14a-2]: La correzione del 20 mar. 2023 concerne soltanto il testo francese ([RU 2023 137](https://fedlex.data.admin.ch/eli/oc/2023/137)).
-[^14a-3]: La correzione del 20 mar. 2023 concerne soltanto il testo francese ([RU 2023 137](https://fedlex.data.admin.ch/eli/oc/2023/137)).
-
-## Sezione 4: Entrata in vigore
+[^sec4-1]: Nuovo testo giusta il n. I dell’O del 6 set. 2023, in vigore dal 15 set. 2023 ([RU 2023 495](https://fedlex.data.admin.ch/eli/oc/2023/495)).
 
 #### Art. 15
 
 <sup>1</sup> La presente ordinanza entra in vigore il 16 marzo 2023 alle ore 20.00.
 
 <sup>2</sup> Si applica per un periodo di sei mesi dalla data d’entrata in vigore.
+
+<sup>3</sup> La durata di validità della presente ordinanza è prorogata sino al 16 marzo 2027.[^15-1]
+
+[^15-1]: Introdotto dal n. I dell’O del 6 set. 2023, in vigore dal 15 set. 2023 ([RU 2023 495](https://fedlex.data.admin.ch/eli/oc/2023/495)).
