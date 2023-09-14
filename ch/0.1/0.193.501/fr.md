@@ -3,11 +3,11 @@ sr: "0.193.501"
 title: "Statut de la Cour internationale de Justice, du 26 juin 1945"
 eli: "https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010"
 language: fr
-version: 2017-11-22
+version: 2023-09-15
 adopted: 1945-06-26
 in_force: 1948-07-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010/20171122/fr/xml/fedlex-data-admin-ch-eli-cc-1948-1048_1037_1010-20171122-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1948/1048_1037_1010/20171122/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010/20230915/fr/xml/fedlex-data-admin-ch-eli-cc-1948-1048_1037_1010-20230915-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1948/1048_1037_1010/20230915/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,13 +18,9 @@ RO **1948** 1037; FF **1947** II 525
 
 Texte original
 
-Approuvé par l'Assemblée fédérale le 12 mars 1948[^t-1]
+Approuvé par l’Assemblée fédérale le 12 mars 1948[^t-1] Instrument d’adhésion déposé par la Suisse le 28 juillet 1948 Entré en vigueur pour la Suisse le 28 juillet 1948
 
-Instrument d’adhésion déposé par la Suisse le 28 juillet 1948
-
-Entré en vigueur pour la Suisse le 28 juillet 1948
-
-(Etat le 22 novembre 2017)
+(État le 15 septembre 2023)
 
 [^t-1]: [RO 1948 1033](https://fedlex.data.admin.ch/eli/oc/1948/1045_1033_1007)
 
@@ -32,7 +28,7 @@ Entré en vigueur pour la Suisse le 28 juillet 1948
 
 La Cour internationale de Justice instituée par la Charte des Nations Unies[^1-1] comme organe judiciaire principal de l’Organisation sera constituée et fonctionnera conformément aux dispositions du présent Statut.
 
-[^1-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^1-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 ## Chapitre I Organisation de la Cour
 
@@ -42,9 +38,9 @@ La Cour est un corps de magistrats indépendants, élus, sans égard à leur nat
 
 #### Art. 3
 
-<sup>1.</sup> La Cour se compose de quinze membres. Elle ne pourra comprendre plus d’un ressortissant du même Etat.
+<sup>1.</sup> La Cour se compose de quinze membres. Elle ne pourra comprendre plus d’un ressortissant du même État.
 
-<sup>2.</sup> A cet égard, celui qui pourrait être considéré comme le ressortissant de plus d’un Etat sera censé être ressortissant de celui où il exerce habituellement ses droits civils et politiques.
+<sup>2.</sup> À cet égard, celui qui pourrait être considéré comme le ressortissant de plus d’un État sera censé être ressortissant de celui où il exerce habituellement ses droits civils et politiques.
 
 #### Art. 4
 
@@ -52,13 +48,13 @@ La Cour est un corps de magistrats indépendants, élus, sans égard à leur nat
 
 <sup>2.</sup> En ce qui concerne les Membres des Nations Unies qui ne sont pas représentés à la Cour permanente d’Arbitrage, les candidats seront présentés par des groupes nationaux, désignés à cet effet par leurs gouvernements, dans les mêmes conditions que celles stipulées pour les membres de la Cour permanente d’Arbitrage par l’art. 44 de la Convention de La Haye de 1907 sur le règlement pacifique des conflits[^4-1].
 
-<sup>3.</sup> En l’absence d’accord spécial, l’Assemblée générale, sur la recommandation du Conseil de Sécurité, réglera les conditions auxquelles peut participer à l’élection des membres de la Cour un Etat qui, tout en étant partie au présent Statut, n’est pas membre des Nations Unies.
+<sup>3.</sup> En l’absence d’accord spécial, l’Assemblée générale, sur la recommandation du Conseil de Sécurité, réglera les conditions auxquelles peut participer à l’élection des membres de la Cour un État qui, tout en étant partie au présent Statut, n’est pas membre des Nations Unies.
 
-[^4-1]: [RS 0.193.212](https://fedlex.data.admin.ch/eli/cc/26/305_271_293)
+[^4-1]: [RS 0.193.212](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/756)
 
 #### Art. 5
 
-<sup>1.</sup> Trois mois au moins avant la date de l’élection, le Secrétaire général des Nations Unies invite par écrit les membres de la Cour permanente d’Arbitrage appartenant aux Etats qui sont parties au présent Statut, ainsi que les membres des groupes nationaux désignés conformément au par. 2 de l’art. 4, à procéder dans un délai déterminé, par groupes nationaux, à la présentation de personnes en situation de remplir les fonctions de membre de la Cour.
+<sup>1.</sup> Trois mois au moins avant la date de l’élection, le Secrétaire général des Nations Unies invite par écrit les membres de la Cour permanente d’Arbitrage appartenant aux États qui sont parties au présent Statut, ainsi que les membres des groupes nationaux désignés conformément au par. 2 de l’art. 4, à procéder dans un délai déterminé, par groupes nationaux, à la présentation de personnes en situation de remplir les fonctions de membre de la Cour.
 
 <sup>2.</sup> Chaque groupe ne peut, en aucun cas, présenter plus de quatre personnes, dont deux au plus de sa nationalité. En aucun cas, il ne peut être présenté un nombre de candidats plus élevé que le double des sièges à pourvoir.
 
@@ -86,7 +82,7 @@ Dans toute élection, les électeurs auront en vue que les personnes appelées �
 
 <sup>2.</sup> Le vote au Conseil de Sécurité, soit pour l’élection des juges, soit pour la nomination des membres de la commission visée à l’art. 12 ci‑après, ne comportera aucune distinction entre membres permanents et membres non permanents du Conseil de Sécurité.
 
-<sup>3.</sup> Au cas où le double scrutin de l’Assemblée générale et du Conseil de Sécurité se porterait sur plus d’un ressortissant du même Etat, le plus âgé est seul élu.
+<sup>3.</sup> Au cas où le double scrutin de l’Assemblée générale et du Conseil de Sécurité se porterait sur plus d’un ressortissant du même État, le plus âgé est seul élu.
 
 #### Art. 11
 
@@ -152,7 +148,7 @@ Tout membre de la Cour doit, avant d’entrer en fonction, en séance publique, 
 
 #### Art. 21
 
-<sup>1.</sup> La Cour nomme, pour trois ans, son Président et son Vice‑Président ; ils sont rééligibles.
+<sup>1.</sup> La Cour nomme, pour trois ans, son Président et son Vice‑Président; ils sont rééligibles.
 
 <sup>2.</sup> Elle nomme son Greffier et peut pourvoir à la nomination de tels autres fonctionnaires qui seraient nécessaires.
 
@@ -252,7 +248,7 @@ Les frais de la Cour sont supportés par les Nations Unies de la manière que l�
 
 #### Art. 34
 
-<sup>1.</sup> Seuls les Etats ont qualité pour se présenter devant la Cour.
+<sup>1.</sup> Seuls les États ont qualité pour se présenter devant la Cour.
 
 <sup>2.</sup> La Cour, dans les conditions prescrites par son Règlement, pourra demander aux organisations internationales publiques des renseignements relatifs aux affaires portées devant elle, et recevra également lesdits renseignements qui lui seraient présentés par ces organisations de leur propre initiative.
 
@@ -260,11 +256,11 @@ Les frais de la Cour sont supportés par les Nations Unies de la manière que l�
 
 #### Art. 35
 
-<sup>1.</sup> La Cour est ouverte aux Etats parties au présent Statut.
+<sup>1.</sup> La Cour est ouverte aux États parties au présent Statut.
 
-<sup>2.</sup> Les conditions auxquelles elle est ouverte aux autres Etats sont, sous réserve des dispositions particulières des traités en vigueur, réglées par le Conseil de Sécurité, et, dans tous les cas, sans qu’il puisse en résulter pour les parties aucune inégalité devant la Cour.
+<sup>2.</sup> Les conditions auxquelles elle est ouverte aux autres États sont, sous réserve des dispositions particulières des traités en vigueur, réglées par le Conseil de Sécurité, et, dans tous les cas, sans qu’il puisse en résulter pour les parties aucune inégalité devant la Cour.
 
-<sup>3.</sup> Lorsqu’un Etat, qui n’est pas Membre des Nations Unies, est partie en cause, la Cour fixera la contribution aux frais de la Cour que cette partie devra supporter. Toutefois, cette disposition ne s’appliquera pas, si cet Etat participe aux dépenses de la Cour.
+<sup>3.</sup> Lorsqu’un État, qui n’est pas Membre des Nations Unies, est partie en cause, la Cour fixera la contribution aux frais de la Cour que cette partie devra supporter. Toutefois, cette disposition ne s’appliquera pas, si cet État participe aux dépenses de la Cour.
 
 #### Art. 36
 
@@ -272,14 +268,14 @@ Les frais de la Cour sont supportés par les Nations Unies de la manière que l�
 
 <sup>2.</sup>
 
-Les Etats parties au présent Statut pourront, à n’importe quel moment, déclarer reconnaître comme obligatoire de plein droit et sans convention spéciale, à l’égard de tout autre Etat acceptant la même obligation, la juridiction de la Cour sur tous les différends d’ordre juridique ayant pour objet:
+Les États parties au présent Statut pourront, à n’importe quel moment, déclarer reconnaître comme obligatoire de plein droit et sans convention spéciale, à l’égard de tout autre État acceptant la même obligation, la juridiction de la Cour sur tous les différends d’ordre juridique ayant pour objet:
 
 - a. l’interprétation d’un traité;
 - b. tout point de droit international,
 - c. la réalité de tout fait qui, s’il était établi, constituerait la violation d’un engagement international;
 - d. la nature ou l’étendue de la réparation due pour la rupture d’un engagement international.
 
-<sup>3.</sup> Les déclarations ci‑dessus visées pourront être faites purement et simplement ou sous condition de réciprocité de la part de plusieurs ou de certains Etats, ou pour un délai déterminé.
+<sup>3.</sup> Les déclarations ci‑dessus visées pourront être faites purement et simplement ou sous condition de réciprocité de la part de plusieurs ou de certains États, ou pour un délai déterminé.
 
 <sup>4.</sup> Ces déclarations seront remises au Secrétaire général des Nations Unies qui en transmettra copie aux parties au présent Statut ainsi qu’au Greffier de la Cour.
 
@@ -287,7 +283,7 @@ Les Etats parties au présent Statut pourront, à n’importe quel moment, décl
 
 <sup>6.</sup> En cas de contestation sur le point de savoir si la Cour est compétente, la Cour décide.
 
-[^36-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^36-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 [^36-2]: [RO **37** 770]
 
 #### Art. 37
@@ -300,7 +296,7 @@ Lorsqu’un traité ou une convention en vigueur prévoit le renvoi à une jurid
 
 La Cour, dont la mission est de régler conformément au droit international les différends qui lui sont soumis, applique:
 
-- a. les conventions internationales, soit générales, soit spéciales, établissant des règles expressément reconnues par les Etats en litige,
+- a. les conventions internationales, soit générales, soit spéciales, établissant des règles expressément reconnues par les États en litige;
 - b. la coutume internationale comme preuve d’une pratique générale acceptée comme étant le droit;
 - c. les principes généraux de droit reconnus par les nations civilisées;
 - d. sous réserve de la disposition de l’art. 59, les décisions judiciaires et la doctrine des publicistes les plus qualifiés des différentes nations, comme moyen auxiliaire de détermination des règles de droit.
@@ -313,7 +309,7 @@ La Cour, dont la mission est de régler conformément au droit international les
 
 <sup>1.</sup> Les langues officielles de la Cour sont le français et l’anglais. Si les parties sont d’accord pour que toute la procédure ait lieu en français, le jugement sera prononcé en cette langue. Si les parties sont d’accord pour que toute la procédure ait lieu en anglais, le jugement sera prononcé en cette langue.
 
-<sup>2.</sup> A défaut d’un accord fixant la langue dont il sera fait usage, les parties pourront employer pour les plaidoiries celle des deux langues qu’elles préféreront, et l’arrêt de la Cour sera rendu en français et en anglais. En ce cas, la Cour désignera en même temps celui des deux textes qui fera foi.
+<sup>2.</sup> À défaut d’un accord fixant la langue dont il sera fait usage, les parties pourront employer pour les plaidoiries celle des deux langues qu’elles préféreront, et l’arrêt de la Cour sera rendu en français et en anglais. En ce cas, la Cour désignera en même temps celui des deux textes qui fera foi.
 
 <sup>3.</sup> La Cour, à la demande de toute partie, autorisera l’emploi par cette partie d’une langue autre que le français ou l’anglais.
 
@@ -323,7 +319,7 @@ La Cour, dont la mission est de régler conformément au droit international les
 
 <sup>2.</sup> Le Greffier donne immédiatement communication de la requête à tous intéressés.
 
-<sup>3.</sup> Il en informe également les Membres des Nations Unies par l’entremise du Secrétaire général, ainsi que les autres Etats admis à ester en justice devant la Cour.
+<sup>3.</sup> Il en informe également les Membres des Nations Unies par l’entremise du Secrétaire général, ainsi que les autres États admis à ester en justice devant la Cour.
 
 #### Art. 41
 
@@ -353,7 +349,7 @@ La Cour, dont la mission est de régler conformément au droit international les
 
 #### Art. 44
 
-<sup>1.</sup> Pour toute notification à faire à d’autres personnes que les agents, conseils et avocats, la Cour s’adresse directement au gouvernement de l’Etat sur le territoire duquel la notification doit produire effet.
+<sup>1.</sup> Pour toute notification à faire à d’autres personnes que les agents, conseils et avocats, la Cour s’adresse directement au gouvernement de l’État sur le territoire duquel la notification doit produire effet.
 
 <sup>2.</sup> Il en est de même s’il s’agit de faire procéder sur place à l’établissement de tous moyens de preuve.
 
@@ -381,7 +377,7 @@ La Cour peut, même avant tout débat, demander aux agents de produire tout docu
 
 #### Art. 50
 
-A tout moment, la Cour peut confier une enquête ou une expertise à toute personne, corps, bureau, commission ou organe de son choix.
+À tout moment, la Cour peut confier une enquête ou une expertise à toute personne, corps, bureau, commission ou organe de son choix.
 
 #### Art. 51
 
@@ -447,13 +443,13 @@ L’arrêt est définitif et sans recours. En cas de contestation sur le sens et
 
 #### Art. 62
 
-<sup>1.</sup> Lorsqu’un Etat estime que, dans un différend, un intérêt d’ordre juridique est pour lui en cause, il peut adresser à la Cour une requête, à fin d’intervention.
+<sup>1.</sup> Lorsqu’un État estime que, dans un différend, un intérêt d’ordre juridique est pour lui en cause, il peut adresser à la Cour une requête, à fin d’intervention.
 
 <sup>2.</sup> La Cour décide.
 
 #### Art. 63
 
-<sup>1.</sup> Lorsqu’il s’agit de l’interprétation d’une convention à laquelle ont participé d’autres Etats que les parties en litige, le Greffier les avertit sans délai.
+<sup>1.</sup> Lorsqu’il s’agit de l’interprétation d’une convention à laquelle ont participé d’autres États que les parties en litige, le Greffier les avertit sans délai.
 
 <sup>2.</sup> Chacun d’eux a le droit d’intervenir au procès, et s’il exerce cette faculté, l’interprétation contenue dans la sentence est également obligatoire à son égard.
 
@@ -469,21 +465,21 @@ S’il n’en est autrement décidé par la Cour, chaque partie supporte ses fra
 
 <sup>2.</sup> Les questions sur lesquelles l’avis consultatif de la Cour est demandé sont exposées à la Cour par une requête écrite qui formule, en termes précis, la question sur laquelle l’avis de la Cour est demandé. Il y est joint tout document pouvant servir à élucider la question.
 
-[^65-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^65-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 66
 
-<sup>1.</sup> Le Greffier notifie immédiatement la requête demandant l’avis consultatif à tous les Etats admis à ester en justice devant la Cour.
+<sup>1.</sup> Le Greffier notifie immédiatement la requête demandant l’avis consultatif à tous les États admis à ester en justice devant la Cour.
 
-<sup>2.</sup> En outre, à tout Etat admis à ester devant la Cour et à toute organisation internationale jugés, par la Cour ou par le Président si elle ne siège pas, susceptibles de fournir des renseignements sur la question, le Greffier fait connaître, par communication spéciale et directe, que la Cour est disposée à recevoir des exposés écrits dans un délai à fixer par le Président, ou à entendre des exposés oraux au cours d’une audience publique tenue à cet effet.
+<sup>2.</sup> En outre, à tout État admis à ester devant la Cour et à toute organisation internationale jugés, par la Cour ou par le Président si elle ne siège pas, susceptibles de fournir des renseignements sur la question, le Greffier fait connaître, par communication spéciale et directe, que la Cour est disposée à recevoir des exposés écrits dans un délai à fixer par le Président, ou à entendre des exposés oraux au cours d’une audience publique tenue à cet effet.
 
-<sup>3.</sup> Si un de ces Etats, n’ayant pas été l’objet de la communication spéciale visée au par. 2 du présent article, exprime le désir de soumettre un exposé écrit ou d’être entendu, la Cour statue.
+<sup>3.</sup> Si un de ces États, n’ayant pas été l’objet de la communication spéciale visée au par. 2 du présent article, exprime le désir de soumettre un exposé écrit ou d’être entendu, la Cour statue.
 
-<sup>4.</sup> Les Etats ou organisations qui ont présenté des exposés écrits ou oraux sont admis à discuter les exposés faits par d’autres Etats et organisations dans les formes, mesures et délais fixés, dans chaque cas d’espèce, par la Cour ou, si elle ne siège pas, par le Président. A cet effet, le Greffier communique, en temps voulu, les exposés écrits aux Etats ou organisations qui en ont eux‑mêmes présenté.
+<sup>4.</sup> Les États ou organisations qui ont présenté des exposés écrits ou oraux sont admis à discuter les exposés faits par d’autres États et organisations dans les formes, mesures et délais fixés, dans chaque cas d’espèce, par la Cour ou, si elle ne siège pas, par le Président. À cet effet, le Greffier communique, en temps voulu, les exposés écrits aux États ou organisations qui en ont eux‑mêmes présenté.
 
 #### Art. 67
 
-La Cour prononcera ses avis consultatifs en audience publique, le Secrétaire général et les représentants des Membres des Nations Unies, des autres Etats et des organisations internationales directement intéressés étant prévenus.
+La Cour prononcera ses avis consultatifs en audience publique, le Secrétaire général et les représentants des Membres des Nations Unies, des autres États et des organisations internationales directement intéressés étant prévenus.
 
 #### Art. 68
 
@@ -493,18 +489,18 @@ Dans l’exercice de ses attributions consultatives, la Cour s’inspirera en ou
 
 #### Art. 69
 
-Les amendements au présent Statut seront effectués par la même procédure que celle prévue pour les amendements à la Charte des Nations Unies[^69-1], sous réserve des dispositions qu’adopterait l’Assemblée générale, sur la recommandation du Conseil de Sécurité, pour régler la participation à cette procédure des Etats qui, tout en ayant accepté le présent Statut de la Cour, ne sont pas Membres des Nations Unies.
+Les amendements au présent Statut seront effectués par la même procédure que celle prévue pour les amendements à la Charte des Nations Unies[^69-1], sous réserve des dispositions qu’adopterait l’Assemblée générale, sur la recommandation du Conseil de Sécurité, pour régler la participation à cette procédure des États qui, tout en ayant accepté le présent Statut de la Cour, ne sont pas Membres des Nations Unies.
 
-[^69-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^69-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 70
 
 La Cour pourra proposer les amendements qu’elle jugera nécessaire d’apporter au présent Statut, par la voie de communications écrites adressées au Secrétaire général, aux fins d’examen conformément aux dispositions de l’art. 69.
 
-Champ d’application le 22 novembre 2017**[^t-2]**
+Champ d’application le 15 septembre 2023[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Participation dès le</th><th></th><th>Date du dépôt de la dernière déclaration de reconnaissance obligatoire selon l’art. 36 du Statut</th><th></th></tr>
+<tr><th>États parties</th><th>Participation dès le</th><th></th><th>Date du dépôt de la dernière déclaration de reconnaissance obligatoire selon l’art. 36 du Statut</th><th></th></tr>
 <tr><td>Afghanistan</td><td>19 novembre</td><td>1946</td><td></td><td></td></tr>
 <tr><td>Afrique du Sud <sup>a</sup></td><td>7 novembre</td><td>1945</td><td></td><td></td></tr>
 <tr><td>Albanie</td><td>14 décembre</td><td>1955</td><td></td><td></td></tr>
@@ -538,14 +534,14 @@ Champ d’application le 22 novembre 2017**[^t-2]**
 <tr><td>Burundi</td><td>18 septembre</td><td>1962</td><td></td><td></td></tr>
 <tr><td>Cambodge\*</td><td>14 décembre</td><td>1955</td><td>19 septembre</td><td>1957</td></tr>
 <tr><td>Cameroun\*</td><td>20 septembre</td><td>1960</td><td>3 mars</td><td>1994</td></tr>
-<tr><td>Canada</td><td>9 novembre</td><td>1945</td><td>10 mai</td><td>1994</td></tr>
+<tr><td>Canada <sup>d</sup></td><td>9 novembre</td><td>1945</td><td></td><td></td></tr>
 <tr><td>Cap-Vert</td><td>16 septembre</td><td>1975</td><td></td><td></td></tr>
 <tr><td>Chili</td><td>24 octobre</td><td>1945</td><td></td><td></td></tr>
 <tr><td>Chine</td><td>25 octobre</td><td>1971</td><td></td><td></td></tr>
-<tr><td>[tab] Hong Kong <sup>d</sup></td><td>1<sup>er</sup> juillet</td><td>1997</td><td></td><td></td></tr>
-<tr><td>[tab] Macao <sup>e</sup></td><td>20 décembre</td><td>1999</td><td></td><td></td></tr>
+<tr><td>[tab] Hong Kong <sup>e</sup></td><td>1<sup>er</sup> juillet</td><td>1997</td><td></td><td></td></tr>
+<tr><td>[tab] Macao <sup>f</sup></td><td>20 décembre</td><td>1999</td><td></td><td></td></tr>
 <tr><td>Chypre\*</td><td>20 septembre</td><td>1960</td><td>3 septembre</td><td>2002</td></tr>
-<tr><td>Colombie <sup>f</sup></td><td>5 novembre</td><td>1945</td><td></td><td></td></tr>
+<tr><td>Colombie <sup>g</sup></td><td>5 novembre</td><td>1945</td><td></td><td></td></tr>
 <tr><td>Comores</td><td>12 novembre</td><td>1975</td><td></td><td></td></tr>
 <tr><td>Congo (Brazzaville)</td><td>20 septembre</td><td>1960</td><td></td><td></td></tr>
 <tr><td>Congo (Kinshasa)</td><td>20 septembre</td><td>1960</td><td>8 février</td><td>1989</td></tr>
@@ -558,18 +554,19 @@ Champ d’application le 22 novembre 2017**[^t-2]**
 <tr><td>Danemark</td><td>24 octobre</td><td>1945</td><td>10 décembre</td><td>1956</td></tr>
 <tr><td>Djibouti\*</td><td>20 septembre</td><td>1977</td><td>2 septembre</td><td>2005</td></tr>
 <tr><td>Dominique\*</td><td>18 décembre</td><td>1978</td><td>24 mars</td><td>2006</td></tr>
-<tr><td>Egypte</td><td>24 octobre</td><td>1945</td><td>22 juillet</td><td>1957</td></tr>
+<tr><td>Égypte</td><td>24 octobre</td><td>1945</td><td>22 juillet</td><td>1957</td></tr>
 <tr><td>El Salvador\*</td><td>24 octobre</td><td>1945</td><td>27 novembre</td><td>1978</td></tr>
-<tr><td>Emirats arabes unis</td><td>9 décembre</td><td>1971</td><td></td><td></td></tr>
-<tr><td>Equateur</td><td>21 décembre</td><td>1945</td><td></td><td></td></tr>
-<tr><td>Erythrée</td><td>28 mai</td><td>1993</td><td></td><td></td></tr>
+<tr><td>Émirats arabes unis</td><td>9 décembre</td><td>1971</td><td></td><td></td></tr>
+<tr><td>Équateur</td><td>21 décembre</td><td>1945</td><td></td><td></td></tr>
+<tr><td>Érythrée</td><td>28 mai</td><td>1993</td><td></td><td></td></tr>
 <tr><td>Espagne\*</td><td>14 décembre</td><td>1955</td><td>29 octobre</td><td>1990</td></tr>
 <tr><td>Estonie\*</td><td>13 septembre</td><td>1991</td><td>21 octobre</td><td>1991</td></tr>
-<tr><td>Etats-Unis <sup>g</sup></td><td>24 octobre</td><td>1945</td><td></td><td></td></tr>
-<tr><td>Ethiopie</td><td>13 novembre</td><td>1945</td><td></td><td></td></tr>
+<tr><td>Eswatini\*</td><td>24 septembre</td><td>1968</td><td>25 mai</td><td>1969</td></tr>
+<tr><td>États-Unis <sup>h</sup></td><td>24 octobre</td><td>1945</td><td></td><td></td></tr>
+<tr><td>Éthiopie</td><td>13 novembre</td><td>1945</td><td></td><td></td></tr>
 <tr><td>Fidji</td><td>13 octobre</td><td>1970</td><td></td><td></td></tr>
 <tr><td>Finlande</td><td>14 décembre</td><td>1955</td><td>25 juin</td><td>1958</td></tr>
-<tr><td>France <sup>h</sup></td><td>24 octobre</td><td>1945</td><td></td><td></td></tr>
+<tr><td>France <sup>i</sup></td><td>24 octobre</td><td>1945</td><td></td><td></td></tr>
 <tr><td>Gabon</td><td>20 septembre</td><td>1960</td><td></td><td></td></tr>
 <tr><td>Gambie\*</td><td>21 septembre</td><td>1965</td><td>22 juin</td><td>1966</td></tr>
 <tr><td>Géorgie\*</td><td>31 juillet</td><td>1992</td><td>20 juin</td><td>1995</td></tr>
@@ -584,32 +581,33 @@ Champ d’application le 22 novembre 2017**[^t-2]**
 <tr><td>Haïti\*</td><td>24 octobre</td><td>1945</td><td>4 octobre</td><td>1921</td></tr>
 <tr><td>Honduras\*</td><td>17 décembre</td><td>1945</td><td>6 juin</td><td>1989</td></tr>
 <tr><td>Hongrie\*</td><td>14 décembre</td><td>1955</td><td>22 octobre</td><td>1992</td></tr>
-<tr><td>Iles Marshall\*</td><td>13 septembre</td><td>1991</td><td>24 avril</td><td>2013</td></tr>
-<tr><td>Inde\*</td><td>30 octobre</td><td>1945</td><td>15 septembre</td><td>1974</td></tr>
+<tr><td>Îles Marshall\*</td><td>13 septembre</td><td>1991</td><td>24 avril</td><td>2013</td></tr>
+<tr><td>Îles Salomon</td><td>19 septembre</td><td>1978</td><td></td><td></td></tr>
+<tr><td>Inde\*</td><td>30 octobre</td><td>1945</td><td>27 septembre</td><td>2019</td></tr>
 <tr><td>Indonésie</td><td>28 septembre</td><td>1950</td><td></td><td></td></tr>
-<tr><td>Iran</td><td>24 octobre</td><td>1945</td><td></td><td></td></tr>
+<tr><td>Iran\*</td><td>24 octobre</td><td>1945</td><td>26 juin</td><td>2023</td></tr>
 <tr><td>Iraq</td><td>21 décembre</td><td>1945</td><td></td><td></td></tr>
-<tr><td>Irlande</td><td>14 décembre</td><td>1955</td><td>15 décembre</td><td>2011</td></tr>
+<tr><td>Irlande\*</td><td>14 décembre</td><td>1955</td><td>15 décembre</td><td>2011</td></tr>
 <tr><td>Islande</td><td>19 novembre</td><td>1946</td><td></td><td></td></tr>
-<tr><td>Israël <sup>i</sup></td><td>11 mai</td><td>1949</td><td></td><td></td></tr>
+<tr><td>Israël <sup>j</sup></td><td>11 mai</td><td>1949</td><td></td><td></td></tr>
 <tr><td>Italie\*</td><td>14 décembre</td><td>1955</td><td>25 novembre</td><td>2014</td></tr>
 <tr><td>Jamaïque</td><td>18 septembre</td><td>1962</td><td></td><td></td></tr>
 <tr><td>Japon\*</td><td>18 décembre</td><td>1956</td><td>6 octobre</td><td>2015</td></tr>
 <tr><td>Jordanie</td><td>14 décembre</td><td>1955</td><td></td><td></td></tr>
 <tr><td>Kazakhstan</td><td>2 mars</td><td>1992</td><td></td><td></td></tr>
-<tr><td>Kenya\*</td><td>16 décembre</td><td>1963</td><td>19 avril</td><td>1965</td></tr>
+<tr><td>Kenya <sup>k</sup></td><td>16 décembre</td><td>1963</td><td></td><td></td></tr>
 <tr><td>Kirghizistan</td><td>2 mars</td><td>1992</td><td></td><td></td></tr>
 <tr><td>Koweït</td><td>14 mai</td><td>1963</td><td></td><td></td></tr>
 <tr><td>Laos</td><td>14 décembre</td><td>1955</td><td></td><td></td></tr>
 <tr><td>Lesotho\*</td><td>17 octobre</td><td>1966</td><td>6 septembre</td><td>2000</td></tr>
-<tr><td>Lettonie</td><td>13 septembre</td><td>1991</td><td></td><td></td></tr>
+<tr><td>Lettonie\*</td><td>13 septembre</td><td>1991</td><td>24 septembre</td><td>2019</td></tr>
 <tr><td>Liban</td><td>24 octobre</td><td>1945</td><td></td><td></td></tr>
 <tr><td>Libéria\*</td><td>2 novembre</td><td>1945</td><td>20 mars</td><td>1952</td></tr>
 <tr><td>Libye</td><td>14 décembre</td><td>1955</td><td></td><td></td></tr>
 <tr><td>Liechtenstein\*</td><td>29 mars</td><td>1950</td><td>29 mars</td><td>1950</td></tr>
 <tr><td>Lituanie\*</td><td>13 septembre</td><td>1991</td><td>26 septembre</td><td>2012</td></tr>
 <tr><td>Luxembourg\*</td><td>24 octobre</td><td>1945</td><td>15 septembre</td><td>1930</td></tr>
-<tr><td>Macédoine <sup>c</sup></td><td>8 avril</td><td>1993</td><td></td><td></td></tr>
+<tr><td>Macédoine du Nord <sup>c</sup></td><td>8 avril</td><td>1993</td><td></td><td></td></tr>
 <tr><td>Madagascar\*</td><td>20 septembre</td><td>1960</td><td>2 juillet</td><td>1992</td></tr>
 <tr><td>Malaisie</td><td>17 septembre</td><td>1957</td><td></td><td></td></tr>
 <tr><td>Malawi\*</td><td>1<sup>er</sup> décembre</td><td>1964</td><td>12 décembre</td><td>1966</td></tr>
@@ -624,7 +622,7 @@ Champ d’application le 22 novembre 2017**[^t-2]**
 <tr><td>Moldova</td><td>2 mars</td><td>1992</td><td></td><td></td></tr>
 <tr><td>Monaco</td><td>28 mai</td><td>1993</td><td></td><td></td></tr>
 <tr><td>Mongolie</td><td>27 octobre</td><td>1961</td><td></td><td></td></tr>
-<tr><td>Monténégro\*</td><td>28 juin</td><td>2006</td><td>25 avril</td><td>1999</td></tr>
+<tr><td>Monténégro\* <sup>l</sup></td><td>28 juin</td><td>2006</td><td>25 avril</td><td>1999</td></tr>
 <tr><td>Mozambique</td><td>16 septembre</td><td>1975</td><td></td><td></td></tr>
 <tr><td>Myanmar</td><td>19 avril</td><td>1948</td><td></td><td></td></tr>
 <tr><td>Namibie</td><td>23 avril</td><td>1990</td><td></td><td></td></tr>
@@ -660,11 +658,10 @@ Champ d’application le 22 novembre 2017**[^t-2]**
 <tr><td>Saint-Marin</td><td>2 mars</td><td>1992</td><td></td><td></td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>16 septembre</td><td>1980</td><td></td><td></td></tr>
 <tr><td>Sainte-Lucie</td><td>18 septembre</td><td>1979</td><td></td><td></td></tr>
-<tr><td>Salomon, Iles</td><td>19 septembre</td><td>1978</td><td></td><td></td></tr>
 <tr><td>Samoa</td><td>15 décembre</td><td>1976</td><td></td><td></td></tr>
 <tr><td>Sao Tomé-et-Principe</td><td>16 septembre</td><td>1975</td><td></td><td></td></tr>
 <tr><td>Sénégal\*</td><td>28 septembre</td><td>1960</td><td>22 octobre</td><td>1985</td></tr>
-<tr><td>Serbie\* <sup>j</sup></td><td>1<sup>er</sup> novembre</td><td>2000</td><td>25 avril</td><td>1999</td></tr>
+<tr><td>Serbie\* <sup>l</sup></td><td>1<sup>er</sup> novembre</td><td>2000</td><td>25 avril</td><td>1999</td></tr>
 <tr><td>Seychelles</td><td>21 septembre</td><td>1976</td><td></td><td></td></tr>
 <tr><td>Sierra Leone</td><td>27 septembre</td><td>1961</td><td></td><td></td></tr>
 <tr><td>Singapour</td><td>21 septembre</td><td>1965</td><td></td><td></td></tr>
@@ -676,7 +673,6 @@ Champ d’application le 22 novembre 2017**[^t-2]**
 <tr><td>Suède\*</td><td>19 novembre</td><td>1946</td><td>6 avril</td><td>1957</td></tr>
 <tr><td>Suisse\*</td><td>28 juillet</td><td>1948</td><td>28 juillet</td><td>1948</td></tr>
 <tr><td>Suriname\*</td><td>4 décembre</td><td>1975</td><td>31 août</td><td>1987</td></tr>
-<tr><td>Swaziland\*</td><td>24 septembre</td><td>1968</td><td>25 mai</td><td>1969</td></tr>
 <tr><td>Syrie</td><td>24 octobre</td><td>1945</td><td></td><td></td></tr>
 <tr><td>Tadjikistan</td><td>2 mars</td><td>1992</td><td></td><td></td></tr>
 <tr><td>Tanzanie</td><td>26 avril</td><td>1964</td><td></td><td></td></tr>
@@ -687,39 +683,27 @@ Champ d’application le 22 novembre 2017**[^t-2]**
 <tr><td>Trinité-et-Tobago</td><td>18 septembre</td><td>1962</td><td></td><td></td></tr>
 <tr><td>Tunisie</td><td>12 novembre</td><td>1956</td><td></td><td></td></tr>
 <tr><td>Turkménistan</td><td>2 mars</td><td>1992</td><td></td><td></td></tr>
-<tr><td>Turquie <sup>k</sup></td><td>24 octobre</td><td>1945</td><td></td><td></td></tr>
+<tr><td>Turquie <sup>m</sup></td><td>24 octobre</td><td>1945</td><td></td><td></td></tr>
 <tr><td>Ukraine</td><td>24 octobre</td><td>1945</td><td></td><td></td></tr>
 <tr><td>Uruguay\*</td><td>18 décembre</td><td>1945</td><td>19 janvier</td><td>1921</td></tr>
 <tr><td>Vanuatu</td><td>15 septembre</td><td>1981</td><td></td><td></td></tr>
 <tr><td>Venezuela</td><td>15 novembre</td><td>1945</td><td></td><td></td></tr>
 <tr><td>Vietnam</td><td>20 septembre</td><td>1977</td><td></td><td></td></tr>
-<tr><td>Yémen <sup>l</sup></td><td>30 septembre</td><td>1947</td><td></td><td></td></tr>
+<tr><td>Yémen <sup>n</sup></td><td>30 septembre</td><td>1947</td><td></td><td></td></tr>
 <tr><td>Zambie</td><td>1<sup>er</sup> décembre</td><td>1964</td><td></td><td></td></tr>
 <tr><td>Zimbabwe</td><td>25 août</td><td>1980</td><td></td><td></td></tr>
-<tr><td colspan="5">\* Réserves et déclarations ainsi que les déclarations selon art. 36 du Statut. \*\* Objections. Les réserves, déclarations et les objections ainsi que les déclarations concernant l’art. 36 du Statut, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: https://untreaty.un.org/ ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> La déclaration de l’Union sud-africaine du 12 sept. 1955 (RO **1959** 310) a été retirée le 12 avril 1967; ce retrait prend effet à compter de la même date.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Les déclarations de la Bolivie, du Brésil, du Guatemala (non publiées au RO) et de la Thaïlande (RO **1959** 310), faites pour des durées limitées, sont venues à expiration.</td></tr>
-<tr><td colspan="5"><sup>c</sup> Le 28 mai 1999 les Gouvernements de Bosnie-Herzégovine, de Croatie, de Slovénie et de Macédoine ont déposé une communication concernant la déclaration selon l’art. 36 de la République fédéral de Yougoslavie (aujourd’hui Serbie) daté du 25 avril 1999.</td></tr>
-<tr><td colspan="5"><sup>d</sup> Du 20 juin 1997 au 30 juin 1997, le Statut était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. A partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 20 juin 1997, le Statut est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
-<tr><td colspan="5"><sup>e</sup> Du 13 déc. 1999 au 19 déc. 1999, le Statut était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. A partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 13 déc. 1999, le Statut est également applicable à la RAS Macao à partir du 20 déc. 1999.</td></tr>
-<tr><td colspan="5"><sup>f</sup> Le 5 décembre 2001, le Gouvernement colombien a notifié au Secrétaire général des Nations Unies l’abrogation de sa déclaration du 30 octobre 1937 (RO **1970** 1337). Cette abrogation a pris effet le 5 décembre 2001.</td></tr>
-<tr><td colspan="5"><sup>g</sup> La déclaration des Etats-Unis du 26 août 1946 (RO **1959** 294, **1984** 977) a été retirée le 7 oct. 1985 avec effet le 7 avril 1986.</td></tr>
-<tr><td colspan="5"><sup>h</sup> Le 10 janv. 1974, le Gouvernement français a notifié au Secrétaire général des Nations Unies l’abrogation de sa déclaration du 20 mai 1966 (RO **1970** 1337). Cette abrogation a pris effet le 10 janv. 1974.</td></tr>
-<tr><td colspan="5"><sup>i</sup> La déclaration d’Israël du 17 oct. 1956 (RO **1959** 298, **1984** 977) a été retirée le 19 nov. 1985; ce retrait prend effet à compter de la même date.</td></tr>
-<tr><td colspan="5"><sup>j</sup> Jusqu’à son démembrement, la République fédérale de Yougoslavie fut l’un des membres originaires des Nations Unies selon l’art. 3 de la Charte (RS **0.120**, ratification: 19.10.1945/entrée en vigueur: 24.10.1945) et du présent Statut (participation dès le 24.10.1945). Le 4 fév. 2003, la République fédérale socialiste de Yougoslavie devient la Serbie-et-Monténégro.</td></tr>
-<tr><td colspan="5"><sup>k</sup> La déclaration de la Turquie (RO **1959** 1031, **1970** 1335), faite pour une durée limitée, est venue à expiration.</td></tr>
-<tr><td colspan="5"><sup>l</sup> Le 22 mai 1990: Unification de la République Arabe du Yémen et la République démocratique populaire du Yémen en la République du Yémen.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations ainsi que les déclarations selon art. 36 du Statut. \*\* Objections. Les réserves, déclarations et objections, ainsi que les déclarations concernant l’art. 36 du Statut ne sont pas publiées au RO, à l’exception des réserves et déclarations de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org](http://treaties.un.org/) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La déclaration de l’Union sud-africaine du 12 sept. 1955 (RO **1959** 310) a été retirée le 12 avril 1967; ce retrait prend effet à compter de la même date. <sup>b</sup> Les déclarations de la Bolivie, du Brésil, du Guatemala (non publiées au RO) et de la Thaïlande (RO **1959** 310), faites pour des durées limitées, sont venues à expiration. <sup>c</sup> Le 28 mai 1999 les Gouvernements de Bosnie-Herzégovine, de Croatie, de Slovénie et de Macédoine du Nord ont déposé une communication concernant la déclaration selon l’art. 36 de la République fédéral de Yougoslavie (aujourd’hui Serbie) daté du 25 avril 1999. <sup>d</sup> La déclaration du Canada du 10 mai 1994 (RO **2005** 993) a été abrogée le 28 août 2023. L’abrogation a pris effet le 28 août 2023. <sup>e</sup> Du 20 juin 1997 au 30 juin 1997, le Statut était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 20 juin 1997, le Statut est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>f</sup> Du 13 déc. 1999 au 19 déc. 1999, le Statut était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 13 déc. 1999, le Statut est également applicable à la RAS Macao à partir du 20 déc. 1999. <sup>g</sup> Le 5 décembre 2001, le Gouvernement colombien a notifié au Secrétaire général des Nations Unies l’abrogation de sa déclaration du 30 octobre 1937 (RO **1970** 1337). Cette abrogation a pris effet le 5 décembre 2001. <sup>h</sup> La déclaration des États-Unis du 26 août 1946 (RO **1959** 294, **1984** 977) a été retirée le 7 oct. 1985 avec effet le 7 avril 1986. <sup>i</sup> Le 10 janv. 1974, le Gouvernement français a notifié au Secrétaire général des Nations Unies l’abrogation de sa déclaration du 20 mai 1966 (RO **1970** 1337). Cette abrogation a pris effet le 10 janv. 1974. <sup>j</sup> La déclaration d’Israël du 17 oct. 1956 (RO **1959** 298, **1984** 977) a été retirée le 19 nov. 1985; ce retrait prend effet à compter de la même date. <sup>k</sup> La déclaration du Kenya du 12 avril 1965 (RO **1965** 150) a été retirée le 24 septembre 2021. Le retrait a pris effet le 24 septembre 2021. <sup>l</sup> Jusqu’à son démembrement, la République fédérale de Yougoslavie fut l’un des membres originaires des Nations Unies selon l’art. 3 de la Charte (RS **0.120**, ratification: 19.10.1945/entrée en vigueur: 24.10.1945) et du présent Statut (participation dès le 24.10.1945). Le 4 fév. 2003, la République fédérale socialiste de Yougoslavie devient la Serbie-et-Monténégro. <sup>m</sup> La déclaration de la Turquie (RO **1959** 1031, **1970** 1335), faite pour une durée limitée, est venue à expiration. <sup>n</sup> Le 22 mai 1990: Unification de la République Arabe du Yémen et la République démocratique populaire du Yémen en la République du Yémen.</td></tr>
 </table>
 
-[^t-2]: [RO 1970 1332](https://fedlex.data.admin.ch/eli/oc/1970/1336_1332_1333), [1971 1816](https://fedlex.data.admin.ch/eli/oc/1971/1811_1816_1816), [1974 985](https://fedlex.data.admin.ch/eli/oc/1974/985_985_985), [1975 449](https://fedlex.data.admin.ch/eli/oc/1975/451_449_449), [1976 2859](https://fedlex.data.admin.ch/eli/oc/1976/2859_2859_2859), [1978 452](https://fedlex.data.admin.ch/eli/oc/1978/452_452_452), [1982 439](https://fedlex.data.admin.ch/eli/oc/1982/439_439_439), [1983 1090](https://fedlex.data.admin.ch/eli/oc/1983/1090_1090_1090)[1679](https://fedlex.data.admin.ch/eli/oc/1983/1679_1679_1679), [1984 977](https://fedlex.data.admin.ch/eli/oc/1984/977_977_977), [1985 1371](https://fedlex.data.admin.ch/eli/oc/1985/1371_1371_1371), [1986 528](https://fedlex.data.admin.ch/eli/oc/1986/528_528_528), [1987 425](https://fedlex.data.admin.ch/eli/oc/1987/425_425_425), [1988 2015](https://fedlex.data.admin.ch/eli/oc/1988/2015_2015_2015), [1990 561](https://fedlex.data.admin.ch/eli/oc/1990/561_561_561), [1991 900](https://fedlex.data.admin.ch/eli/oc/1991/900_900_900), [1994 1149](https://fedlex.data.admin.ch/eli/oc/1994/1149_1149_1149), [2005 993](https://fedlex.data.admin.ch/eli/oc/2005/112), [2008 89](https://fedlex.data.admin.ch/eli/oc/2008/34), [2010 3453](https://fedlex.data.admin.ch/eli/oc/2010/485), [2012 615](https://fedlex.data.admin.ch/eli/oc/2012/90), [2015 2433](https://fedlex.data.admin.ch/eli/oc/2015/453)et **2018** 19. Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+## Déclarations selon l’art. 36 du Statut
 
-Réserves et déclarations, ainsi que les déclarations selon art. 36 du Statut
+[^t-2]: [RO 1970 1332](https://fedlex.data.admin.ch/eli/oc/1970/1336_1332_1333); [1971 1816](https://fedlex.data.admin.ch/eli/oc/1971/1811_1816_1816); [1974 985](https://fedlex.data.admin.ch/eli/oc/1974/985_985_985); [1975 449](https://fedlex.data.admin.ch/eli/oc/1975/451_449_449); [1976 2859](https://fedlex.data.admin.ch/eli/oc/1976/2859_2859_2859); [1978 452](https://fedlex.data.admin.ch/eli/oc/1978/452_452_452); [1982 439](https://fedlex.data.admin.ch/eli/oc/1982/439_439_439); [1983 1090](https://fedlex.data.admin.ch/eli/oc/1983/1090_1090_1090), [1679](https://fedlex.data.admin.ch/eli/oc/1983/1679_1679_1679); [1984 977](https://fedlex.data.admin.ch/eli/oc/1984/977_977_977); [1985 1371](https://fedlex.data.admin.ch/eli/oc/1985/1371_1371_1371); [1986 528](https://fedlex.data.admin.ch/eli/oc/1986/528_528_528); [1987 425](https://fedlex.data.admin.ch/eli/oc/1987/425_425_425); [1988 2015](https://fedlex.data.admin.ch/eli/oc/1988/2015_2015_2015); [1990 561](https://fedlex.data.admin.ch/eli/oc/1990/561_561_561); [1991 900](https://fedlex.data.admin.ch/eli/oc/1991/900_900_900); [1994 1149](https://fedlex.data.admin.ch/eli/oc/1994/1149_1149_1149); [2005 993](https://fedlex.data.admin.ch/eli/oc/2005/112); [2008 89](https://fedlex.data.admin.ch/eli/oc/2008/34); [2010 3453](https://fedlex.data.admin.ch/eli/oc/2010/485); [2012 615](https://fedlex.data.admin.ch/eli/oc/2012/90); [2015 2433](https://fedlex.data.admin.ch/eli/oc/2015/453); [2018 19](https://fedlex.data.admin.ch/eli/oc/2018/8); [2023 523](https://fedlex.data.admin.ch/eli/oc/2023/523). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Suisse
 
-Le Conseil fédéral suisse, dûment autorisé à cet effet par un arrêté fédéral pris le 12 mars 1948[^t-3] par l’Assemblée fédérale de la Confédération suisse et entré en vigueur le 17 juin 1948,
+Le Conseil fédéral suisse, dûment autorisé à cet effet par un arrêté fédéral pris le 12 mars 1948[^scopeu1-lvlu1-1] par l’Assemblée fédérale de la Confédération suisse et entré en vigueur le 17 juin 1948,
 
-déclare par les présentes que la Confédération suisse reconnaît comme obligatoire de plein droit et sans convention spéciale, à l’égard de tout autre Etat acceptant la même obligation, la juridiction de la Cour internationale de Justice sur tous les différends d’ordre juridique ayant pour objet:
+déclare par les présentes que la Confédération suisse reconnaît comme obligatoire de plein droit et sans convention spéciale, à l’égard de tout autre État acceptant la même obligation, la juridiction de la Cour internationale de Justice sur tous les différends d’ordre juridique ayant pour objet:
 
 - a. l’interprétation d’un traité;
 - b. tout point de droit international;
@@ -728,4 +712,4 @@ déclare par les présentes que la Confédération suisse reconnaît comme oblig
 
 Cette déclaration, qui est fondée sur l’art. 36 du Statut de la Cour internationale de Justice, portera effet dès la date à laquelle la Confédération suisse sera devenue partie à ce Statut et aussi longtemps qu’elle n’aura pas été abrogée moyennant un préavis d’un an.
 
-[^t-3]: [RO 1948 1033](https://fedlex.data.admin.ch/eli/oc/1948/1045_1033_1007)
+[^scopeu1-lvlu1-1]: [RO 1948 1033](https://fedlex.data.admin.ch/eli/oc/1948/1045_1033_1007)

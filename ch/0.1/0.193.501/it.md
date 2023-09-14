@@ -3,11 +3,11 @@ sr: "0.193.501"
 title: "Statuto della Corte internazionale di Giustizia, del 26 giugno 1945"
 eli: "https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010"
 language: it
-version: 2017-11-22
+version: 2023-09-15
 adopted: 1945-06-26
 in_force: 1948-07-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010/20171122/it/xml/fedlex-data-admin-ch-eli-cc-1948-1048_1037_1010-20171122-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1948/1048_1037_1010/20171122/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010/20230915/it/xml/fedlex-data-admin-ch-eli-cc-1948-1048_1037_1010-20230915-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1948/1048_1037_1010/20230915/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Atto d’adesione depositato dalla Svizzera il 28 luglio 1948 Approvato dall’AF il 12 marzo 1948[^t-1] Entrato in vigore per la Svizzera il 28 luglio 1948
 
-(Stato 22 novembre 2017)
+(Stato 15 settembre 2023)
 
 [^t-1]: [RU 1948 1007](https://fedlex.data.admin.ch/eli/oc/1948/1045_1033_1007)
 
@@ -28,7 +28,7 @@ Atto d’adesione depositato dalla Svizzera il 28 luglio 1948 Approvato dall’A
 
 La Corte internazionale di Giustizia istituita dalla Carta delle Nazioni Unite[^1-1] come organo giudiziario principale dell’Organizzazione è costituita e svolge la sua attività conformemente alle disposizioni del presente Statuto.
 
-[^1-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^1-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 ## Capo I: Organizzazione della Corte
 
@@ -50,7 +50,7 @@ La Corte è un consesso di magistrati indipendenti, eletti, senza riguardo alla 
 
 <sup>3.</sup> In mancanza d’accordo speciale, l’Assemblea generale, su raccomandazione del Consiglio di Sicurezza, regolerà le condizioni alle quali può partecipare all’elezione dei membri della Corte uno Stato che, pur essendo parte del presente Statuto, non è membro delle Nazioni Unite.
 
-[^4-1]: [RS 0.193.212](https://fedlex.data.admin.ch/eli/cc/26/305_271_293)
+[^4-1]: [RS 0.193.212](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/756)
 
 #### Art. 5
 
@@ -281,7 +281,7 @@ Le spese della Corte vengono sostenute dalle Nazioni Unite nel modo che sarà st
 
 <sup>6.</sup> In caso di contestazione circa il sapere se la Corte sia o non sia competente, decide la Corte.
 
-[^36-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^36-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 [^36-2]: [RU **37** 862]
 
 #### Art. 37
@@ -463,7 +463,7 @@ Salvo contraria decisione della Corte, ogni parte sostiene le proprie spese di p
 
 <sup>2.</sup> Le questioni per le quali è chiesto il parere consultivo della Corte sono esposte alla Corte per mezzo di una richiesta scritta che formula, in termini precisi, la questione sulla quale è domandato il parere della Corte. Ad essa sono allegati tutti i documenti che possono servire ad elucidare la questione.
 
-[^65-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^65-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 66
 
@@ -489,13 +489,13 @@ Nell’esercizio delle sue attribuzioni consultive, la Corte si ispirerà inoltr
 
 Gli emendamenti al presente Statuto saranno eseguiti seguendo una procedura analoga a quella prevista per gli emendamenti alla Carta delle Nazioni Unite[^69-1], con riserva delle disposizioni che potrebbe adottare l’Assemblea generale, su raccomandazione del Consiglio di Sicurezza, per regolare la partecipazione a questa procedura degli Stati che, pur avendo accettato il presente Statuto, non sono Membri delle Nazioni Unite.
 
-[^69-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^69-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 70
 
 La Corte può proporre gli emendamenti che essa reputerà necessario di apportare al presente Statuto, mediante comunicazioni scritte dirette al Segretario generale, perché siano esaminati conformemente alle disposizioni dell’articolo 69.
 
-Campo d’applicazione il 22 novembre 2017**[^t-2]**
+Campo d’applicazione il 15 settembre 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Dal</th><th></th><th colspan="2">Data del deposito dell’ultima dichiarazione di riconoscimento della giurisdizione obbligatoria giusta l’art. 36 dello Statuto</th><th></th></tr>
@@ -520,25 +520,25 @@ Campo d’applicazione il 22 novembre 2017**[^t-2]**
 <tr><td>Belize</td><td>25 settembre</td><td>1981</td><td></td><td colspan="2"></td></tr>
 <tr><td>Benin</td><td>20 settembre</td><td>1960</td><td></td><td colspan="2"></td></tr>
 <tr><td>Bhutan</td><td>21 settembre</td><td>1971</td><td></td><td colspan="2"></td></tr>
-<tr><td>Bolivia <sup>f</sup></td><td>14 novembre</td><td>1945</td><td></td><td colspan="2"></td></tr>
-<tr><td>Bosnia e Erzegovina <sup>a</sup></td><td>22 maggio</td><td>1992</td><td></td><td colspan="2"></td></tr>
+<tr><td>Bolivia <sup>a</sup></td><td>14 novembre</td><td>1945</td><td></td><td colspan="2"></td></tr>
+<tr><td>Bosnia e Erzegovina <sup>b</sup></td><td>22 maggio</td><td>1992</td><td></td><td colspan="2"></td></tr>
 <tr><td>Botswana<sup>\*</sup></td><td>17 ottobre</td><td>1966</td><td>16 marzo</td><td colspan="2">1970</td></tr>
-<tr><td>Brasile <sup>f</sup></td><td>24 ottobre</td><td>1945</td><td></td><td colspan="2"></td></tr>
+<tr><td>Brasile <sup>a</sup></td><td>24 ottobre</td><td>1945</td><td></td><td colspan="2"></td></tr>
 <tr><td>Brunei</td><td>21 settembre</td><td>1984</td><td></td><td colspan="2"></td></tr>
 <tr><td>Bulgaria<sup>\*</sup></td><td>14 dicembre</td><td>1955</td><td>2 dicembre</td><td colspan="2">2015</td></tr>
 <tr><td>Burkina Faso</td><td>20 settembre</td><td>1960</td><td></td><td colspan="2"></td></tr>
 <tr><td>Burundi</td><td>18 settembre</td><td>1962</td><td></td><td colspan="2"></td></tr>
 <tr><td>Cambogia<sup>\*</sup></td><td>14 dicembre</td><td>1955</td><td>19 settembre</td><td colspan="2">1957</td></tr>
 <tr><td>Camerun<sup>\*</sup></td><td>20 settembre</td><td>1960</td><td>3 marzo</td><td colspan="2">1994</td></tr>
-<tr><td>Canada</td><td>9 novembre</td><td>1945</td><td>10 maggio</td><td colspan="2">1994</td></tr>
+<tr><td>Canada <sup>c</sup></td><td>9 novembre</td><td>1945</td><td></td><td colspan="2"></td></tr>
 <tr><td>Capo Verde</td><td>16 settembre</td><td>1975</td><td></td><td colspan="2"></td></tr>
 <tr><td>Ciad</td><td>20 settembre</td><td>1960</td><td></td><td colspan="2"></td></tr>
 <tr><td>Cile</td><td>24 ottobre</td><td>1945</td><td></td><td colspan="2"></td></tr>
 <tr><td>Cina</td><td>25 ottobre</td><td>1971</td><td></td><td colspan="2"></td></tr>
-<tr><td>Hong Kong <sup>b</sup></td><td>1° luglio</td><td>1997</td><td></td><td colspan="2"></td></tr>
-<tr><td>Macao <sup>c</sup></td><td>20 dicembre</td><td>1999</td><td></td><td colspan="2"></td></tr>
+<tr><td>Hong Kong <sup>d</sup></td><td>1° luglio</td><td>1997</td><td></td><td colspan="2"></td></tr>
+<tr><td>Macao <sup>e</sup></td><td>20 dicembre</td><td>1999</td><td></td><td colspan="2"></td></tr>
 <tr><td>Cipro<sup>\*</sup></td><td>20 settembre</td><td>1960</td><td>3 settembre</td><td colspan="2">2002</td></tr>
-<tr><td>Colombia <sup>g</sup></td><td>5 novembre</td><td>1945</td><td></td><td colspan="2"></td></tr>
+<tr><td>Colombia <sup>f</sup></td><td>5 novembre</td><td>1945</td><td></td><td colspan="2"></td></tr>
 <tr><td>Comore</td><td>12 novembre</td><td>1975</td><td></td><td colspan="2"></td></tr>
 <tr><td>Congo (Brazzaville)</td><td>20 settembre</td><td>1960</td><td></td><td colspan="2"></td></tr>
 <tr><td>Congo (Kinshasa)</td><td>20 settembre</td><td>1960</td><td>8 febbraio</td><td colspan="2">1889</td></tr>
@@ -546,7 +546,7 @@ Campo d’applicazione il 22 novembre 2017**[^t-2]**
 <tr><td>Corea (Sud)</td><td>13 settembre</td><td>1991</td><td></td><td colspan="2"></td></tr>
 <tr><td>Costa Rica<sup>\* \*\*</sup></td><td>2 novembre</td><td>1945</td><td>20 febbraio</td><td colspan="2">1973</td></tr>
 <tr><td>Côte d’Ivoire</td><td>20 settembre</td><td>1960</td><td>29 agosto</td><td colspan="2">2001</td></tr>
-<tr><td>Croazia <sup>a</sup></td><td>22 maggio</td><td>1992</td><td></td><td colspan="2"></td></tr>
+<tr><td>Croazia <sup>b</sup></td><td>22 maggio</td><td>1992</td><td></td><td colspan="2"></td></tr>
 <tr><td>Cuba</td><td>24 ottobre</td><td>1945</td><td></td><td colspan="2"></td></tr>
 <tr><td>Danimarca</td><td>24 ottobre</td><td>1945</td><td>10 dicembre</td><td colspan="2">1956</td></tr>
 <tr><td>Dominica<sup>\*</sup></td><td>18 dicembre</td><td>1978</td><td>24 marzo</td><td colspan="2">2006</td></tr>
@@ -556,11 +556,12 @@ Campo d’applicazione il 22 novembre 2017**[^t-2]**
 <tr><td>Emirati Arabi Uniti</td><td>9 dicembre</td><td>1971</td><td></td><td colspan="2"></td></tr>
 <tr><td>Eritrea</td><td>28 maggio</td><td>1993</td><td></td><td colspan="2"></td></tr>
 <tr><td>Estonia<sup>\*</sup></td><td>13 settembre</td><td>1991</td><td>21 ottobre</td><td colspan="2">1991</td></tr>
+<tr><td>Eswatini<sup>\*</sup></td><td>24 settembre</td><td>1968</td><td>26 maggio</td><td colspan="2">1969</td></tr>
 <tr><td>Etiopia</td><td>13 novembre</td><td>1945</td><td></td><td colspan="2"></td></tr>
 <tr><td>Figi</td><td>13 ottobre</td><td>1970</td><td></td><td colspan="2"></td></tr>
 <tr><td>Filippine<sup>\*</sup></td><td>24 ottobre</td><td>1945</td><td>18 gennaio</td><td colspan="2">1972</td></tr>
 <tr><td>Finlandia</td><td>14 dicembre</td><td>1955</td><td>25 giugno</td><td colspan="2">1958</td></tr>
-<tr><td>Francia <sup>h</sup></td><td>24 ottobre</td><td>1945</td><td></td><td colspan="2"></td></tr>
+<tr><td>Francia <sup>g</sup></td><td>24 ottobre</td><td>1945</td><td></td><td colspan="2"></td></tr>
 <tr><td>Gabon</td><td>20 settembre</td><td>1960</td><td></td><td colspan="2"></td></tr>
 <tr><td>Gambia<sup>\*</sup></td><td>21 settembre</td><td>1965</td><td>22 giugno</td><td colspan="2">1966</td></tr>
 <tr><td>Georgia<sup>\*</sup></td><td>31 luglio</td><td>1992</td><td>20 giugno</td><td colspan="2">1995</td></tr>
@@ -572,35 +573,35 @@ Campo d’applicazione il 22 novembre 2017**[^t-2]**
 <tr><td>Giordania</td><td>14 dicembre</td><td>1955</td><td></td><td colspan="2"></td></tr>
 <tr><td>Grecia<sup>\*</sup></td><td>25 ottobre</td><td>1945</td><td>14 gennaio</td><td colspan="2">2015</td></tr>
 <tr><td>Grenada</td><td>17 settembre</td><td>1974</td><td></td><td colspan="2"></td></tr>
-<tr><td>Guatemala <sup>f</sup></td><td>21 novembre</td><td>1945</td><td></td><td colspan="2"></td></tr>
+<tr><td>Guatemala <sup>a</sup></td><td>21 novembre</td><td>1945</td><td></td><td colspan="2"></td></tr>
 <tr><td>Guinea</td><td>12 dicembre</td><td>1958</td><td>4 dicembre</td><td colspan="2">1998</td></tr>
 <tr><td>Guinea equatoriale<sup>\*</sup></td><td>12 novembre</td><td>1968</td><td>21 agosto</td><td colspan="2">2017</td></tr>
 <tr><td>Guinea-Bissau</td><td>17 settembre</td><td>1974</td><td>7 agosto</td><td colspan="2">1989</td></tr>
 <tr><td>Guyana</td><td>20 settembre</td><td>1966</td><td></td><td colspan="2"></td></tr>
 <tr><td>Haiti<sup>\*</sup></td><td>24 ottobre</td><td>1945</td><td>4 ottobre</td><td colspan="2">1921</td></tr>
 <tr><td>Honduras<sup>\*</sup></td><td>17 dicembre</td><td>1945</td><td>6 giugno</td><td colspan="2">1986</td></tr>
-<tr><td>India<sup>\*</sup></td><td>30 ottobre</td><td>1945</td><td>15 settembre</td><td colspan="2">1974</td></tr>
+<tr><td>India<sup>\*</sup></td><td>30 ottobre</td><td>1945</td><td>27 settembre</td><td colspan="2">2019</td></tr>
 <tr><td>Indonesia</td><td>28 settembre</td><td>1950</td><td></td><td colspan="2"></td></tr>
-<tr><td>Iran</td><td>24 ottobre</td><td>1945</td><td></td><td colspan="2"></td></tr>
+<tr><td>Iran<sup>\*</sup></td><td>24 ottobre</td><td>1945</td><td>26 giugno</td><td colspan="2">2023</td></tr>
 <tr><td>Iraq</td><td>21 dicembre</td><td>1945</td><td></td><td colspan="2"></td></tr>
-<tr><td>Irlanda</td><td>14 dicembre</td><td>1955</td><td>15 dicembre</td><td colspan="2">2011</td></tr>
+<tr><td>Irlanda<sup>\*</sup></td><td>14 dicembre</td><td>1955</td><td>15 dicembre</td><td colspan="2">2011</td></tr>
 <tr><td>Islanda</td><td>19 novembre</td><td>1946</td><td></td><td colspan="2"></td></tr>
-<tr><td>Israele <sup>i</sup></td><td>11 maggio</td><td>1949</td><td></td><td colspan="2"></td></tr>
+<tr><td>Israele <sup>h</sup></td><td>11 maggio</td><td>1949</td><td></td><td colspan="2"></td></tr>
 <tr><td>Italia<sup>\*</sup></td><td>14 dicembre</td><td>1955</td><td>25 novembre</td><td colspan="2">2014</td></tr>
 <tr><td>Kazakstan</td><td>2 marzo</td><td>1992</td><td></td><td colspan="2"></td></tr>
-<tr><td>Kenya<sup>\*</sup></td><td>16 dicembre</td><td>1963</td><td>19 aprile</td><td colspan="2">1965</td></tr>
+<tr><td>Kenya <sup>i</sup></td><td>16 dicembre</td><td>1963</td><td></td><td colspan="2"></td></tr>
 <tr><td>Kirghizistan</td><td>2 marzo</td><td>1992</td><td></td><td colspan="2"></td></tr>
 <tr><td>Kuwait</td><td>14 maggio</td><td>1963</td><td></td><td colspan="2"></td></tr>
 <tr><td>Laos</td><td>14 dicembre</td><td>1955</td><td></td><td colspan="2"></td></tr>
 <tr><td>Lesotho<sup>\*</sup></td><td>17 ottobre</td><td>1966</td><td>6 settembre</td><td colspan="2">2000</td></tr>
-<tr><td>Lettonia</td><td>13 settembre</td><td>1991</td><td></td><td colspan="2"></td></tr>
+<tr><td>Lettonia<sup>\*</sup></td><td>13 settembre</td><td>1991</td><td>24 settembre</td><td colspan="2">2019</td></tr>
 <tr><td>Libano</td><td>24 ottobre</td><td>1945</td><td></td><td colspan="2"></td></tr>
 <tr><td>Liberia<sup>\*</sup></td><td>2 novembre</td><td>1945</td><td>20 marzo</td><td colspan="2">1952</td></tr>
 <tr><td>Libia</td><td>14 dicembre</td><td>1955</td><td></td><td colspan="2"></td></tr>
 <tr><td>Liechtenstein<sup>\*</sup></td><td>29 marzo</td><td>1950</td><td>29 marzo</td><td colspan="2">1950</td></tr>
 <tr><td>Lituania<sup>\*</sup></td><td>13 settembre</td><td>1991</td><td>26 settembre</td><td colspan="2">2012</td></tr>
 <tr><td>Lussemburgo<sup>\*</sup></td><td>24 ottobre</td><td>1945</td><td>15 settembre</td><td colspan="2">1930</td></tr>
-<tr><td>Macedonia <sup>a</sup></td><td>8 aprile</td><td>1993</td><td></td><td colspan="2"></td></tr>
+<tr><td>Macedonia del Nord <sup>b</sup></td><td>8 aprile</td><td>1993</td><td></td><td colspan="2"></td></tr>
 <tr><td>Madagascar<sup>\*</sup></td><td>20 settembre</td><td>1960</td><td>2 luglio</td><td colspan="2">1992</td></tr>
 <tr><td>Malawi<sup>\*</sup></td><td>1° dicembre</td><td>1964</td><td>12 dicembre</td><td colspan="2">1966</td></tr>
 <tr><td>Malaysia</td><td>17 settembre</td><td>1957</td><td></td><td colspan="2"></td></tr>
@@ -616,7 +617,7 @@ Campo d’applicazione il 22 novembre 2017**[^t-2]**
 <tr><td>Moldova</td><td>2 marzo</td><td>1992</td><td></td><td colspan="2"></td></tr>
 <tr><td>Monaco</td><td>28 maggio</td><td>1993</td><td></td><td colspan="2"></td></tr>
 <tr><td>Mongolia</td><td>27 ottobre</td><td>1961</td><td></td><td colspan="2"></td></tr>
-<tr><td>Montenegro<sup>\*</sup> <sup>d</sup></td><td>28 giugno</td><td>2006</td><td>25 aprile</td><td colspan="2">1999</td></tr>
+<tr><td>Montenegro<sup>\*</sup> <sup>j</sup></td><td>28 giugno</td><td>2006</td><td>25 aprile</td><td colspan="2">1999</td></tr>
 <tr><td>Mozambico</td><td>16 settembre</td><td>1975</td><td></td><td colspan="2"></td></tr>
 <tr><td>Myanmar</td><td>19 aprile</td><td>1948</td><td></td><td colspan="2"></td></tr>
 <tr><td>Namibia</td><td>23 aprile</td><td>1990</td><td></td><td colspan="2"></td></tr>
@@ -654,30 +655,29 @@ Campo d’applicazione il 22 novembre 2017**[^t-2]**
 <tr><td>São Tomé e Príncipe</td><td>16 settembre</td><td>1975</td><td></td><td colspan="2"></td></tr>
 <tr><td>Seicelle</td><td>21 settembre</td><td>1976</td><td></td><td colspan="2"></td></tr>
 <tr><td>Senegal<sup>\*</sup></td><td>28 settembre</td><td>1960</td><td>2 ottobre</td><td colspan="2">1985</td></tr>
-<tr><td>Serbia<sup>\*</sup> <sup>d</sup></td><td>1° novembre</td><td>2000</td><td>25 aprile</td><td colspan="2">1999</td></tr>
+<tr><td>Serbia<sup>\*</sup> <sup>j</sup></td><td>1° novembre</td><td>2000</td><td>25 aprile</td><td colspan="2">1999</td></tr>
 <tr><td>Sierra Leone</td><td>27 settembre</td><td>1961</td><td></td><td colspan="2"></td></tr>
 <tr><td>Singapore</td><td>21 settembre</td><td>1965</td><td></td><td colspan="2"></td></tr>
 <tr><td>Siria</td><td>24 ottobre</td><td>1945</td><td></td><td colspan="2"></td></tr>
 <tr><td>Slovacchia<sup>\*</sup></td><td>19 gennaio</td><td>1993</td><td>28 maggio</td><td colspan="2">2004</td></tr>
-<tr><td>Slovenia <sup>a</sup></td><td>22 maggio</td><td>1992</td><td></td><td colspan="2"></td></tr>
+<tr><td>Slovenia <sup>b</sup></td><td>22 maggio</td><td>1992</td><td></td><td colspan="2"></td></tr>
 <tr><td>Somalia<sup>\*</sup></td><td>20 settembre</td><td>1960</td><td>11 aprile</td><td colspan="2">1963</td></tr>
 <tr><td>Spagna<sup>\*</sup></td><td>14 dicembre</td><td>1955</td><td>29 ottobre</td><td colspan="2">1990</td></tr>
 <tr><td>Sri Lanka</td><td>14 dicembre</td><td>1955</td><td></td><td colspan="2"></td></tr>
-<tr><td>Stati Uniti <sup>j</sup></td><td>24 ottobre</td><td>1945</td><td></td><td colspan="2"></td></tr>
-<tr><td>Sudafrica <sup>k</sup></td><td>7 novembre</td><td>1945</td><td></td><td colspan="2"></td></tr>
+<tr><td>Stati Uniti <sup>k</sup></td><td>24 ottobre</td><td>1945</td><td></td><td colspan="2"></td></tr>
+<tr><td>Sudafrica <sup>l</sup></td><td>7 novembre</td><td>1945</td><td></td><td colspan="2"></td></tr>
 <tr><td>Sudan<sup>\*</sup></td><td>12 novembre</td><td>1956</td><td>2 gennaio</td><td colspan="2">1958</td></tr>
 <tr><td>Suriname<sup>\*</sup></td><td>4 dicembre</td><td>1975</td><td>31 agosto</td><td colspan="2">1987</td></tr>
 <tr><td>Svezia<sup>\*</sup></td><td>19 novembre</td><td>1946</td><td>6 aprile</td><td colspan="2">1957</td></tr>
 <tr><td>Svizzera<sup>\*</sup></td><td>28 luglio</td><td>1948</td><td>28 luglio</td><td colspan="2">1948</td></tr>
-<tr><td>Swaziland<sup>\*</sup></td><td>24 settembre</td><td>1968</td><td>26 maggio</td><td colspan="2">1969</td></tr>
 <tr><td>Tagikistan</td><td>2 marzo</td><td>1992</td><td></td><td colspan="2"></td></tr>
 <tr><td>Tanzania</td><td>26 aprile</td><td>1964</td><td></td><td colspan="2"></td></tr>
-<tr><td>Thailandia <sup>f</sup></td><td>16 dicembre</td><td>1946</td><td></td><td colspan="2"></td></tr>
+<tr><td>Thailandia <sup>a</sup></td><td>16 dicembre</td><td>1946</td><td></td><td colspan="2"></td></tr>
 <tr><td>Timor Est<sup>\*</sup></td><td>27 settembre</td><td>2002</td><td>4 ottobre</td><td colspan="2">2012</td></tr>
 <tr><td>Togo<sup>\*</sup></td><td>20 settembre</td><td>1960</td><td>24 ottobre</td><td colspan="2">1979</td></tr>
 <tr><td>Trinidad e Tobago</td><td>18 settembre</td><td>1962</td><td></td><td colspan="2"></td></tr>
 <tr><td>Tunisia</td><td>12 novembre</td><td>1956</td><td></td><td colspan="2"></td></tr>
-<tr><td>Turchia <sup>l</sup></td><td>24 ottobre</td><td>1945</td><td></td><td colspan="2"></td></tr>
+<tr><td>Turchia <sup>m</sup></td><td>24 ottobre</td><td>1945</td><td></td><td colspan="2"></td></tr>
 <tr><td>Turkmenistan</td><td>2 marzo</td><td>1992</td><td></td><td colspan="2"></td></tr>
 <tr><td>Ucraina</td><td>24 ottobre</td><td>1945</td><td></td><td colspan="2"></td></tr>
 <tr><td>Uganda<sup>\*</sup></td><td>25 ottobre</td><td>1962</td><td>3 ottobre</td><td colspan="2">1963</td></tr>
@@ -687,29 +687,18 @@ Campo d’applicazione il 22 novembre 2017**[^t-2]**
 <tr><td>Vanuatu</td><td>15 settembre</td><td>1981</td><td></td><td colspan="2"></td></tr>
 <tr><td>Venezuela</td><td>15 novembre</td><td>1945</td><td></td><td colspan="2"></td></tr>
 <tr><td>Vietnam</td><td>20 settembre</td><td>1977</td><td></td><td colspan="2"></td></tr>
-<tr><td>Yemen <sup>e</sup></td><td>30 settembre</td><td>1947</td><td></td><td colspan="2"></td></tr>
+<tr><td>Yemen <sup>n</sup></td><td>30 settembre</td><td>1947</td><td></td><td colspan="2"></td></tr>
 <tr><td>Zambia</td><td>1° dicembre</td><td>1964</td><td></td><td colspan="2"></td></tr>
 <tr><td>Zimbabwe</td><td>25 agosto</td><td>1980</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="6">\* Riserve. \*\* Dichiarazioni e obiezioni. Le riserve e dichiarazioni, nonché le dichiarazioni previste dall’articolo 36 dello Statuto non sono pubblicate nella RU, ad eccezione di quelle della Svizzera. I testi francese e inglese possono essere consultati sul sito internet dell’Organizzazione delle Nazioni Unite: https://treaties.un.org/ oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="6"><sup>a</sup> Il 28 mag. 1999 i Governi di Bosnia ed Erzegovina, Croazia, Slovenia e Macedonia hanno depositato una comunicazione concernente la dichiarazione prevista dall’art. 36 par. 2 fatta dalla Repubblica federale di Jugoslavia (oggi Serbia) il 25 apr. 1999.</td></tr>
-<tr><td colspan="6"><sup>b</sup> Dal 20 giu. 1997 al 30 giu. 1997 lo Statuto era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Il 1° lug. 1997 Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 20 giu. 1997 lo Statuto è applicabile dal 1° lug. 1997 anche alla RAS Hong Kong.</td></tr>
-<tr><td colspan="6"><sup>c</sup> Dal 13 dic. 1999 al 19 dic. 1999 lo Statuto era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Il 20 dic. 1999 Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 13 dic. 1999 lo Statuto è applicabile dal 20 dic. 1999 anche alla RAS Macao.</td></tr>
-<tr><td colspan="6"><sup>d</sup> Fino alla sua dissoluzione, la Repubblica federale socialista di Jugoslavia è stata uno dei membri originari delle Nazioni Unite secondo l’art. 3 dello Statuto (RS **0.120,** ratifica: 19.10.1945/entrata in vigore: 24.10.1945) e uno dei membri originari del presente Statuto (partecipazione: dal 24.10.1945). Il 4 feb. 2003 la Repubblica federale di Jugoslavia è diventata Serbia e Montenegro.</td></tr>
-<tr><td colspan="6"><sup>e</sup> 22 mag. 1990: Unificazione della Repubblica araba dello Yemen e della Repubblica democratica popolare dello Yemen che diventano Repubblica dello Yemen.</td></tr>
-<tr><td colspan="6"><sup>f</sup> Le dichiarazioni di Bolivia, Brasile, Guatemala (non pubblicate nella RU) e Thailandia (RU **1959** 288), limitate nel tempo, sono giunte a scadenza.</td></tr>
-<tr><td colspan="6"><sup>g</sup> Il 5 dic. 2001, il Governo columbiano ha notificato al Segretario generale delle Nazioni Unite l’abrogazione della sua dichiarazione del 30 ott. 1937 (RU **1970** 1337). L’abrogazione ha preso effetto il 5 dic. 2001.</td></tr>
-<tr><td colspan="6"><sup>h</sup> Il 10 gen. 1974, il Governo francese ha notificato al Segretario generale delle Nazioni Unite l’abrogazione della sua dichiarazione del 20 mag. 1966 (RU **1970** 1337). L’abrogazione ha preso effetto il 10 gen. 1974.</td></tr>
-<tr><td colspan="6"><sup>i</sup> La dichiarazione d’Israele del 17 ott. 1956 (RU **1959** 285, **1984** 977) è stata ritirata il 19 nov. 1985 con effetto dalla stessa data.</td></tr>
-<tr><td colspan="6"><sup>j</sup> La dichiarazione degli Stati Uniti del 26 ago. 1946 (RU **1959** 287, **1984** 977) è stata ritirata il 7 ott. 1985 con effetto dal 7 apr. 1986.</td></tr>
-<tr><td colspan="6"><sup>k</sup> La dichiarazione dell’Unione Sudafricana del 12 set. 1955 (RU **1959** 288) è stata revocata il 12 apr. 1967 con effetto immediato.</td></tr>
-<tr><td colspan="6"><sup>l</sup> La dichiarazione della Turchia (RU **1959** 1019, **1970** 1336), limitata nel tempo, è giunta a scadenza.</td></tr>
+<tr><td colspan="6">\* Riserve. \*\* Dichiarazioni e obiezioni. Le riserve, dichiarazioni e obiezioni, nonché le dichiarazioni previste dall’articolo 36 dello Statuto non sono pubblicate nella RU, ad eccezione delle dichiarazioni della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org](http://treaties.un.org/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="6"><sup>a</sup> Le dichiarazioni di Bolivia, Brasile, Guatemala (non pubblicate nella RU) e Thailandia (RU **1959** 288), limitate nel tempo, sono giunte a scadenza. <sup>b</sup> Il 28 mag. 1999 i Governi di Bosnia ed Erzegovina, Croazia, Slovenia e Macedonia del Nord hanno depositato una comunicazione concernente la dichiarazione prevista dall’art. 36 par. 2 fatta dalla Repubblica federale di Jugoslavia (oggi Serbia) il 25 apr. 1999. <sup>c</sup> La dichiarazione del Canada del 10 mag. 1994 (RU **2005** 993) è stata abrogata il 28 ago. 2023. L’abrogazione ha preso effetto il 28 ago. 2023. <sup>d</sup> Dal 20 giu. 1997 al 30 giu. 1997 lo Statuto era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Il 1° lug. 1997 Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 20 giu. 1997 lo Statuto è applicabile dal 1° lug. 1997 anche alla RAS Hong Kong. <sup>e</sup> Dal 13 dic. 1999 al 19 dic. 1999 lo Statuto era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Il 20 dic. 1999 Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 13 dic. 1999 lo Statuto è applicabile dal 20 dic. 1999 anche alla RAS Macao. <sup>f</sup> Il 5 dic. 2001, il Governo columbiano ha notificato al Segretario generale delle Nazioni Unite l’abrogazione della sua dichiarazione del 30 ott. 1937 (RU **1970** 1337). L’abrogazione ha preso effetto il 5 dic. 2001. <sup>g</sup> Il 10 gen. 1974, il Governo francese ha notificato al Segretario generale delle Nazioni Unite l’abrogazione della sua dichiarazione del 20 mag. 1966 (RU **1970** 1337). L’abrogazione ha preso effetto il 10 gen. 1974. <sup>h</sup> La dichiarazione d’Israele del 17 ott. 1956 (RU **1959** 285, **1984** 977) è stata ritirata il 19 nov. 1985 con effetto dalla stessa data. <sup>i</sup> La dichiarazione del Kenya del 12 apr. 1956 (RU **1965** 148) è stata ritirata il 24 set. 2021. Il ritiro ha preso effetto il 24 set. 2021. <sup>j</sup> Fino alla sua dissoluzione, la Repubblica federale socialista di Jugoslavia è stata uno dei membri originari delle Nazioni Unite secondo l’art. 3 dello Statuto (RS **0.120,** ratifica: 19.10.1945/entrata in vigore: 24.10.1945) e uno dei membri originari del presente Statuto (partecipazione: dal 24.10.1945). Il 4 feb. 2003 la Repubblica federale di Jugoslavia è diventata Serbia e Montenegro. <sup>k</sup> La dichiarazione degli Stati Uniti del 26 ago. 1946 (RU **1959** 287, **1984** 977) è stata ritirata il 7 ott. 1985 con effetto dal 7 apr. 1986. <sup>l</sup> La dichiarazione dell’Unione Sudafricana del 12 set. 1955 (RU **1959** 288) è stata revocata il 12 apr. 1967 con effetto immediato. <sup>m</sup> La dichiarazione della Turchia (RU **1959** 1019, **1970** 1336), limitata nel tempo, è giunta a scadenza. <sup>n</sup> 22 mag. 1990: Unificazione della Repubblica araba dello Yemen e della Repubblica democratica popolare dello Yemen che diventano Repubblica dello Yemen.</td></tr>
 </table>
 
-## Riserve e dichiarazioni, obiezioni e dichiarazioni previste dall’articolo 36
+## Dichiarazioni previste dall’articolo 36
 
-[^t-2]: [RU 1970 1333](https://fedlex.data.admin.ch/eli/oc/1970/1336_1332_1333), [1971 1816](https://fedlex.data.admin.ch/eli/oc/1971/1811_1816_1816), [1974 985](https://fedlex.data.admin.ch/eli/oc/1974/985_985_985), [1975 449](https://fedlex.data.admin.ch/eli/oc/1975/451_449_449), [1976 2859](https://fedlex.data.admin.ch/eli/oc/1976/2859_2859_2859), [1978 452](https://fedlex.data.admin.ch/eli/oc/1978/452_452_452), [1982 439](https://fedlex.data.admin.ch/eli/oc/1982/439_439_439), [1983 1090](https://fedlex.data.admin.ch/eli/oc/1983/1090_1090_1090)[1679](https://fedlex.data.admin.ch/eli/oc/1983/1679_1679_1679), [1984 977](https://fedlex.data.admin.ch/eli/oc/1984/977_977_977), [1985 1371](https://fedlex.data.admin.ch/eli/oc/1985/1371_1371_1371), [1986 528](https://fedlex.data.admin.ch/eli/oc/1986/528_528_528), [1987 425](https://fedlex.data.admin.ch/eli/oc/1987/425_425_425), [1988 2015](https://fedlex.data.admin.ch/eli/oc/1988/2015_2015_2015), [1990 561](https://fedlex.data.admin.ch/eli/oc/1990/561_561_561), [1991 900](https://fedlex.data.admin.ch/eli/oc/1991/900_900_900), [1994 1149](https://fedlex.data.admin.ch/eli/oc/1994/1149_1149_1149), [2005 993](https://fedlex.data.admin.ch/eli/oc/2005/112), [2008 89](https://fedlex.data.admin.ch/eli/oc/2008/34), [2010 3453](https://fedlex.data.admin.ch/eli/oc/2010/485), [2012 615](https://fedlex.data.admin.ch/eli/oc/2012/90), [2015 2433](https://fedlex.data.admin.ch/eli/oc/2015/453)e [2018 19](https://fedlex.data.admin.ch/eli/oc/2018/8). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1970 1333](https://fedlex.data.admin.ch/eli/oc/1970/1336_1332_1333); [1971 1816](https://fedlex.data.admin.ch/eli/oc/1971/1811_1816_1816); [1974 985](https://fedlex.data.admin.ch/eli/oc/1974/985_985_985); [1975 449](https://fedlex.data.admin.ch/eli/oc/1975/451_449_449); [1976 2859](https://fedlex.data.admin.ch/eli/oc/1976/2859_2859_2859); [1978 452](https://fedlex.data.admin.ch/eli/oc/1978/452_452_452); [1982 439](https://fedlex.data.admin.ch/eli/oc/1982/439_439_439); [1983 1090](https://fedlex.data.admin.ch/eli/oc/1983/1090_1090_1090), [1679](https://fedlex.data.admin.ch/eli/oc/1983/1679_1679_1679); [1984 977](https://fedlex.data.admin.ch/eli/oc/1984/977_977_977); [1985 1371](https://fedlex.data.admin.ch/eli/oc/1985/1371_1371_1371); [1986 528](https://fedlex.data.admin.ch/eli/oc/1986/528_528_528); [1987 425](https://fedlex.data.admin.ch/eli/oc/1987/425_425_425); [1988 2015](https://fedlex.data.admin.ch/eli/oc/1988/2015_2015_2015); [1990 561](https://fedlex.data.admin.ch/eli/oc/1990/561_561_561); [1991 900](https://fedlex.data.admin.ch/eli/oc/1991/900_900_900); [1994 1149](https://fedlex.data.admin.ch/eli/oc/1994/1149_1149_1149); [2005 993](https://fedlex.data.admin.ch/eli/oc/2005/112); [2008 89](https://fedlex.data.admin.ch/eli/oc/2008/34); [2010 3453](https://fedlex.data.admin.ch/eli/oc/2010/485); [2012 615](https://fedlex.data.admin.ch/eli/oc/2012/90); [2015 2433](https://fedlex.data.admin.ch/eli/oc/2015/453); [2018 19](https://fedlex.data.admin.ch/eli/oc/2018/8); [2023 523](https://fedlex.data.admin.ch/eli/oc/2023/523). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
-Svizzera**[^scopeu1-lvlu1-1]**
+Svizzera[^scopeu1-lvlu1-1]
 
 Il Consiglio federale autorizzato da un decreto federale dell'Assemblea federale del 12 marzo 1948 ed entrato in vigore il 17 giugno 1948,
 
