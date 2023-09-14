@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung des Krankenversicherungsaufsichtsgesetzes (KVAG): Teilnahme der Kantone am Prämiengenehmigungsverfahren, Ausgleich von zu hohen Prämieneinnahmen"
 document: Vernehmlassungsvorlage
 language: de

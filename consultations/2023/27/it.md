@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica della legge sulla vigilanza sull’assicurazione malattie (LVAMal): Partecipazione dei Cantoni alla procedura di approvazione dei premi, compensazione dei premi incassati in eccesso"
 document: Progetto posto in consultazione
 language: it

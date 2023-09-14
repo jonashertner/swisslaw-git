@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification de la loi sur la surveillance de l’assurance-maladie (LSAMal): Participation des cantons à la procédure d’approbation des primes, compensation des primes encaissées en trop"
 document: Projet mis en consultation
 language: fr
