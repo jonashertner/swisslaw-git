@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Verordnung über die Mindestbesteuerung grosser Unternehmensgruppen (Mindestbesteuerungsverordnung, MindStV)"
 document: Vernehmlassungsvorlage
 language: de
