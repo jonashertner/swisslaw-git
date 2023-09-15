@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la loi sur le droit d’auteur (LDA)
 document: Projet mis en consultation
 language: fr
