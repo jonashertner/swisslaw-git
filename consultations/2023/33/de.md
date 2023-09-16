@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 19.433 n Pa. Iv. RK-NR. StGB-Tatbestände mit Stalking ergänzen
 document: Vernehmlassungsvorlage
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 19.433 n Iv. pa. CAG-CN. Includere lo stalking nelle fattispecie del Codice penale
 document: Progetto posto in consultazione
 language: it

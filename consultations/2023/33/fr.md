@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "19.433 n Iv. pa. CAJ-CN. Etendre au harcèlement obsessionnel («stalking») le champ d'application des dispositions du CP relatives aux délits"
 document: Projet mis en consultation
 language: fr
