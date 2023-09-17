@@ -3,13 +3,12 @@ canton: TG
 number: "414.26"
 title: Reglement über den Studiengang Sekundarstufe I der Pädagogischen Hochschule Thurgau
 language: de
-version: 2021-09-01
-valid_until: 2023-09-17
-version_adopted: 2020-08-31
+version: 2023-09-18
+version_adopted: 2023-09-04
 adopted: 2011-02-24
 in_force: 2011-03-19
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/414.26"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2382/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2697/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2382/pdf_file"
 
 Studiengang Sekundarstufe I - Reglement PHTG
 
-vom 24.02.2011 (Stand 01.09.2021)
+vom 24.02.2011 (Stand 18.09.2023)
 
 Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf § 13 Abs. 1 Ziff. 5 des Gesetzes über die tertiäre Bildung (Tertiärbildungsgesetz)[^ingress-1].
 
@@ -30,11 +29,11 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 **Ziele, Umfang und Struktur der Ausbildung**
 
-<sup>1</sup> Der Studiengang Sekundarstufe I der Pädagogischen Hochschule Thurgau (PHTG) führt zur Lehrbefähigung für die Sekundarstufe I (Schuljahre 9 bis 11) gemäss Reglement der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen[^1-1].
+<sup>1</sup> Der Studiengang Sekundarstufe I der Pädagogischen Hochschule Thurgau (PHTG) führt zur Lehrbefähigung für die Sekundarstufe I (Schuljahre 9 bis 11) gemäss dem Reglement der Konferenz der kantonalen Erziehungsdirektorinnen und -direktoren (EDK) über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen[^1-1].
 
 <sup>2</sup> Es können zusätzlich Lehrbefähigungen für weitere Fächer der Sekundarstufe I erworben werden.
 
-<sup>3</sup> Ziele, Umfang, Struktur und Profilbildung des im Modulsystem konzipierten Studiengangs werden im Studienplan geregelt.
+<sup>3</sup> Ziele, Umfang, Struktur und Profilbildung des im Modulsystem konzipierten Studiengangs und Studiengangvarianten werden in Studienplänen geregelt.
 
 [^1-1]: [https://edudoc.ch/record/202452/files/Regl\_Lehrdiplome\_d.pdf](https://edudoc.ch/record/202452/files/Regl_Lehrdiplome_d.pdf)
 
@@ -44,21 +43,25 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 <sup>1</sup> Für das Zulassungs- und Aufnahmeverfahren wird eine Aufnahmekommission eingesetzt.
 
-<sup>2</sup> Sie setzt sich zusammen aus dem Prorektor oder der Prorektorin Lehre und den Leitern oder Leiterinnen Aufnahmeverfahren aller Studiengänge.
+<sup>2</sup> Sie setzt sich zusammen aus dem Prorektor oder der Prorektorin Ausbildung und den Leitern oder Leiterinnen Aufnahmeverfahren aller Studiengänge.
 
 #### § 2
 
 **Generelle Zulassung**
 
-<sup>1</sup> Wer über eine gymnasiale Maturität oder ein schweizerisches Hochschuldiplom verfügt, wird ohne Aufnahmeverfahren zum Studium zugelassen.
+<sup>1</sup> Wer über eine gymnasiale Maturität oder ein schweizerisches Hochschuldiplom verfügt, wird ohne Aufnahmeverfahren zum Integrierten Bachelor-Master-Studiengang Sekundarstufe I zugelassen.
 
-<sup>2</sup> Wer über eine Berufsmaturität oder Fachmaturität verfügt und die Ergänzungsprüfung gemäss dem Reglement der EDK über die Ergänzungsprüfung für die Zulassung von Inhaberinnen und Inhabern eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses zu den universitären Hochschulen[^2-1] bestanden hat, ist wie Inhaber und Inhaberinnen einer gymnasialen Maturität zugelassen.
+<sup>2</sup> Wer über eine Berufsmaturität oder Fachmaturität verfügt und die Ergänzungsprüfung gemäss dem Reglement der EDK über die Ergänzungsprüfung für die Zulassung von Inhaberinnen und Inhabern eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses zu den universitären Hochschulen[^2-1] bestanden hat, ist wie Inhaber und Inhaberinnen einer gymnasialen Maturität zum Integrierten Bachelor-Master-Studiengang Sekundarstufe I zugelassen.
+
+<sup>2<sup>bis</sup></sup> Inhaberinnen und Inhaber eines Abschlusses einer dreijährigen anerkannten Schule der Sekundarstufe II oder eines eidgenössischen Fähigkeitszeugnisses mit mehrjähriger Berufserfahrung, die den Äquivalenznachweis zur Ergänzungsprüfung für die Zulassung von Inhaberinnen und Inhabern eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses zu den universitären Hochschulen an einer anderen Ausbildungsinstitution erfolgreich erbracht haben, sind zum Integrierten Bachelor-Master-Studiengang Sekundarstufe I ebenfalls zugelassen.
 
 <sup>3</sup> Bei Personen, die über eine ausländische Maturität oder ein ausländisches Hochschuldiplom verfügen, kann die Aufnahmekommission für die Zulassung aufgrund einer Gleichwertigkeitsprüfung zusätzliche Leistungen verlangen oder Auflagen anordnen. Die Hochschulleitung erlässt ergänzende Richtlinien.
 
-<sup>4</sup> Personen, die über ein von der EDK anerkanntes Lehrdiplom für die Primarstufe (Schuljahre 3 bis 8, alle sechs Schuljahre oder einen Teil davon) verfügen, welches im Rahmen eines Bachelorstudiums an einer Hochschule erworben wurde, sind direkt zum Masterstudium zugelassen.
+<sup>4</sup> Personen, die über ein von der EDK anerkanntes Lehrdiplom für die Primarstufe (Schuljahre 3 bis 8, alle sechs Schuljahre oder einen Teil davon) verfügen, sind direkt zum Masterstudiengang Sekundarstufe I basierend auf Primarlehrdiplom (Stufenerweiterung) zugelassen. Bei Inhaberinnen und Inhabern eines von der EDK anerkannten altrechtlichen Primarlehrdiploms (Schuljahre 3 bis 8 oder einen Teil davon) kann die Zulassung mit zusätzlichen Auflagen im Bereich des wissenschaftlichen Arbeitens verbunden sein.
 
-<sup>5</sup> Inhaber und Inhaberinnen eines von der EDK anerkannten altrechtlichen Lehrdiploms für die Primarstufe (Schuljahre 3 bis 8) sind direkt zum Masterstudium zugelassen, wenn sie über eine mindestens dreijährige Unterrichtspraxis auf der Sekundarstufe I und / oder der Primarstufe (Schuljahre 3 bis 8) bei einem Beschäftigungsgrad von mindestens 50 Prozent verfügen.
+<sup>5</sup> …
+
+<sup>6</sup> Personen, die über einen Bachelorabschluss einer Universität oder Fachhochschule in mindestens einem für die Sekundarstufe I relevanten Unterrichtsfach verfügen, sind zum Konsekutiven Masterstudiengang Sekundarstufe I basierend auf fachwissenschaftlichem Hochschulabschluss zugelassen. Je nach Vorbildung kann die Zulassung mit Auflagen verbunden sein. Die Hochschulleitung erlässt ergänzende Richtlinien.
 
 [^2-1]: [https://edudoc.ch/record/93449/files/Regl\_Passerelle\_d.pdf](https://edudoc.ch/record/93449/files/Regl_Passerelle_d.pdf)
 
@@ -74,30 +77,15 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 **Anmeldung**
 
-<sup>1</sup> Der Prorektor oder die Prorektorin Lehre legt die Anmeldetermine fest und publiziert sie.
+<sup>1</sup> Der Prorektor oder die Prorektorin Ausbildung legt die Anmeldetermine fest und publiziert sie.
 
-<sup>2</sup> Der Anmeldung sind sämtliche für die Aufnahme oder die Zulassung zum Aufnahmeverfahren erforderlichen Unterlagen beizulegen, so namentlich Nachweise über Ausbildungsabschlüsse, andere Qualifikationen oder die Berufserfahrung und den Allgemeinbildungsstand. Es können zusätzliche Unterlagen verlangt werden.
+<sup>2</sup> Der Anmeldung sind sämtliche für die Aufnahme erforderlichen Unterlagen beizulegen, so namentlich Nachweise über Ausbildungsabschlüsse, andere Qualifikationen oder die Berufserfahrung und den Allgemeinbildungsstand. Es können zusätzliche Unterlagen verlangt werden.
 
 <sup>3</sup> Zur Abklärung der Vertrauenswürdigkeit und des Leumunds ist ein aktueller Strafregisterauszug oder bei Wohnsitz im Ausland eine gleichwertige Urkunde vorzulegen. Die Aufnahmekommission kann weitere Abklärungen anordnen und insbesondere Einsicht in Strafurteile verlangen.
 
 <sup>4</sup> Die Kosten für die einzureichenden Unterlagen und Abklärungen trägt der Kandidat oder die Kandidatin.
 
-#### § 4
-
-**Spezielle Zulassung**
-
-<sup>1</sup> Wer über eine der folgenden Vorbildungen verfügt, kann über ein Aufnahmeverfahren zugelassen werden:
-
-- 1\. Fachmaturität
-- 2\. Diplom einer Fachmittelschule
-- 3\. Berufsmaturität
-- 4\. Abschluss einer mindestens dreijährigen anerkannten Berufsausbildung und mehrjährige Berufserfahrung
-
-<sup>2</sup> Die PHTG kann das Aufnahmeverfahren extern durchführen lassen. Es bestätigt die Äquivalenz zur Ergänzungsprüfung gemäss dem Reglement der EDK über die Ergänzungsprüfung für die Zulassung von Inhaberinnen und Inhabern eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses zu den universitären Hochschulen.
-
-<sup>3–4</sup> …
-
-#### § 5
+#### § 4–5
 
 **…**
 
@@ -105,18 +93,14 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 **Zulassung sur dossier**
 
-<sup>1</sup> Für die Zulassung sur dossier sind die folgenden Voraussetzungen zu erfüllen:
-
-- 1\. Mindestalter 30 Jahre
-- 2\. Berufsmaturität oder gleichwertige Vorbildung
-- 3\. nachgewiesene Berufstätigkeit im Umfang von 300 Stellenprozenten nach Abschluss der Ausbildung; dieser Umfang kann auf Berufstätigkeiten im Zeitraum von maximal sieben Jahren verteilt sein
+<sup>1</sup> Für die Zulassung sur dossier zum Integrierten Bachelor-Master-Studiengang Sekundarstufe I gelten die Voraussetzungen gemäss Art. 2 Abs. 2 des Reglements der EDK über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen.
 
 <sup>2</sup> Das Zulassungsverfahren sur dossier umfasst
 
 - 1\. eine Standortbestimmung und
 - 2\. eine Prüfung, in der die Kandidaten und Kandidatinnen den Nachweis ihrer Studierfähigkeit zu erbringen haben.
 
-<sup>3</sup> Der Prorektor oder die Prorektorin Lehre ist zuständig für die Organisation und Durchführung des Zulassungsverfahrens sur dossier. Die Hochschulleitung erlässt ergänzende Richtlinien.
+<sup>3</sup> Der Prorektor oder die Prorektorin Ausbildung ist zuständig für die Organisation und Durchführung des Zulassungsverfahrens sur dossier. Die Hochschulleitung erlässt ergänzende Richtlinien.
 
 #### § 5b
 
@@ -136,7 +120,7 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 <sup>1</sup> Wer an der PHTG, einer anderen Pädagogischen Hochschule oder einer anerkannten Lehrerbildungsinstitution infolge Nichteignung zum Beruf, einer strafrechtlichen Verurteilung, eines disziplinarrechtlichen Vergehens oder Nichtbestehens von Leistungsnachweisen, Praktika oder weiteren Qualifikationsleistungen vom Weiterstudium ausgeschlossen wurde, kann frühestens nach einer zweijährigen Wartefrist zum Studium zugelassen werden.
 
-<sup>2</sup> Erfolgte der Ausschluss aufgrund des Nichtbestehens von Leistungsnachweisen, Praktika oder weiteren Qualifikationsleistungen ist eine Zulassung zum Studium vor Ablauf der Wartefrist möglich, wenn der Student oder die Studentin nachweist, dass die Anforderungen, die zum Nichtbestehen geführt haben, nicht Bestandteil des Studiengangs sind, für den die Zulassung beantragt wird.
+<sup>2</sup> Erfolgte der Ausschluss aufgrund des Nichtbestehens von Leistungsnachweisen, Praktika oder weiteren Qualifikationsleistungen, ist eine Zulassung zum Studium vor Ablauf der Wartefrist möglich, wenn der Student oder die Studentin nachweist, dass die Anforderungen, die zum Nichtbestehen geführt haben, nicht Bestandteil des Studiengangs sind, für den die Zulassung beantragt wird.
 
 #### § 8
 
@@ -197,7 +181,7 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 **Ordentliche Abklärung**
 
-<sup>1</sup> Die ordentliche Abklärung erfolgt während des ersten Studienjahres.
+<sup>1</sup> Die ordentliche Abklärung erfolgt zu Beginn des Studiums.
 
 <sup>2</sup> Die Beurteilung der vorausgesetzten Berufseignung basiert auf einer Standortbestimmung, die sich aus folgenden Elementen zusammensetzt:
 
@@ -227,7 +211,7 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 <sup>2</sup> Bei Zweifeln an der Berufseignung kann die Beurteilungskonferenz die Abklärungszeit verlängern oder vertiefte Abklärungen treffen und hierzu weitere Beurteilungspersonen beiziehen. Der Student oder die Studentin ist zur Mitwirkung verpflichtet. Der Leiter oder die Leiterin des Studiengangs teilt dem Studenten oder der Studentin das Ergebnis der Abklärungen mit.
 
-<sup>3</sup> Bei zumindest teilweise fehlender Berufseignung ordnet die Beurteilungskonferenz in den betreffenden Teilbereichen Auflagen zur Verbesserung an, wenn Aussicht auf genügende Entwicklung besteht. Allfällige Kosten gehen zu Lasten des Studenten oder der Studentin.
+<sup>3</sup> Bei zumindest teilweise fehlender Berufseignung ordnet die Beurteilungskonferenz in den betreffenden Teilbereichen Auflagen zur Verbesserung an, wenn Aussicht auf genügende Entwicklung besteht. Allfällige Kosten gehen zulasten des Studenten oder der Studentin.
 
 #### § 16
 
@@ -253,9 +237,9 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 <sup>2</sup> Leistungsnachweise werden vom zuständigen Dozenten oder der zuständigen Dozentin durchgeführt.
 
-<sup>3</sup> Der Prorektor oder die Prorektorin Lehre kann den Zusammenzug von Leistungsnachweisen mehrerer Module für die Qualifikation anordnen. Er oder sie regelt die Verrechnung der Qualifikationen der Leistungsnachweise zu einer zusammenfassenden Qualifikation.
+<sup>3</sup> Der Prorektor oder die Prorektorin Ausbildung kann den Zusammenzug von Leistungsnachweisen mehrerer Module für die Qualifikation anordnen. Er oder sie regelt die Verrechnung der Qualifikationen der Leistungsnachweise zu einer zusammenfassenden Qualifikation.
 
-<sup>4</sup> Der Prorektor oder die Prorektorin Lehre kann bei nachgewiesener genügender Leistungsfähigkeit von Leistungsnachweisen befreien. Er oder sie setzt die Qualifikation aufgrund der nachgewiesenen Leistungsfähigkeit fest.
+<sup>4</sup> …
 
 <sup>5</sup> Wer unerlaubte Hilfsmittel verwendet oder sich anderweitig unerlaubte Vorteile verschafft, hat den Leistungsnachweis nicht erfüllt.
 
@@ -274,7 +258,7 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 - 7\. Portfolio
 - 8\. Präsenzleistungen
 
-<sup>2</sup> Sie können aus mehreren Teilen mit verschiedenen Formen bestehen.
+<sup>2</sup> …
 
 #### § 20
 
@@ -282,7 +266,7 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 <sup>1</sup> Der zuständige Dozent oder die zuständige Dozentin beurteilt die Leistung entweder anhand der Bewertungsskala des European Credit Transfer and Accumulation System (ECTS) oder mit den Prädikaten «erfüllt» und «nicht erfüllt».
 
-<sup>2</sup> Der Prorektor oder die Prorektorin Lehre bestimmt, wann die Skala und wann die Beurteilung durch Prädikate zur Anwendung gelangt.
+<sup>2</sup> Der Prorektor oder die Prorektorin Ausbildung bestimmt, wann die Skala und wann die Beurteilung durch Prädikate zur Anwendung gelangt.
 
 <sup>3</sup> Die Skala sieht folgende Noten vor:
 
@@ -310,7 +294,7 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 <sup>3<sup>ter</sup></sup> Ein wiederholter Leistungsnachweis wird maximal mit dem Prädikat «erfüllt» beziehungsweise mit der Note «E» beurteilt.
 
-<sup>4</sup> Der Prorektor oder die Prorektorin Lehre kann auf Antrag der für den Leistungsnachweis verantwortlichen Dozenten oder Dozentinnen Ausnahmen erlauben und gleichzeitig Auflagen oder andere Massnahmen anordnen.
+<sup>4</sup> Der Prorektor oder die Prorektorin Ausbildung kann in begründeten Fällen auf Antrag des Leiters oder der Leiterin des Studiengangs Ausnahmen erlauben und gleichzeitig Auflagen oder andere Massnahmen anordnen.
 
 <sup>5</sup> Die Hochschulleitung erlässt ergänzende Richtlinien.
 
@@ -324,13 +308,13 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 **Leistungsnachweise als Voraussetzung für das weitere Studium**
 
-<sup>1</sup> Der Prorektor oder die Prorektorin Lehre kann bestimmen, welche Leistungsnachweise erfüllt sein müssen, damit eine weiterführende Lehrveranstaltung besucht oder die Diplomprüfung absolviert werden kann.
+<sup>1</sup> Der Prorektor oder die Prorektorin Ausbildung kann bestimmen, welche Leistungsnachweise erfüllt sein müssen, damit eine weiterführende Lehrveranstaltung besucht oder die Diplomprüfung absolviert werden kann.
 
 #### § 24
 
-**Anerkennung von Ausbildungsteilen**
+**Anrechnung bereits erbrachter Leistungen**
 
-<sup>1</sup> Bereits vor dem Studium erbrachte formale, nicht-formale oder informelle Studien- und Bildungsleistungen können gemäss den Vorgaben von Art. 12 des Reglements der EDK über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen angerechnet werden.
+<sup>1</sup> Bereits vor dem Studium erbrachte formale Studien- und Bildungsleistungen sowie validierte Unterrichtspraxis können gemäss den Vorgaben von Art. 12 Abs. 1 des Reglements der EDK über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen angerechnet werden.
 
 <sup>2</sup> Die Hochschulleitung regelt das Anrechnungsverfahren durch Richtlinien.
 
@@ -338,11 +322,11 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 #### § 25
 
-**Abschluss Bachelorstudium**
+**Abschluss Bachelorstudium im Rahmen des Integrierten Bachelor-Master-Studiengangs Sekundarstufe I**
 
 <sup>1</sup> Das Bachelorstudium gilt als erfolgreich abgeschlossen, wenn
 
-- 1\. die Eignungsabklärung erfolgreich abgeschlossen wurde,
+- 1\. die Berufseignungsabklärung erfolgreich abgeschlossen wurde,
 - 2\. Studienleistungen im Umfang von mindestens 180 ECTS-Kreditpunkten erworben und
 - 3\. die entsprechenden Leistungen im Portfolio erbracht wurden.
 
@@ -356,7 +340,7 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 **Masterarbeit**
 
-<sup>1</sup> Mit der Masterarbeit weisen die Studenten und Studentinnen nach, dass sie eine berufsrelevante Fragestellung unter Berücksichtigung wissenschaftlicher Methoden und Erkenntnisse bearbeiten können.
+<sup>1</sup> Mit der Masterarbeit weisen die Studenten und Studentinnen nach, dass sie eine berufsrelevante Fragestellung unter Berücksichtigung wissenschaftlicher Methoden und Erkenntnisse bearbeiten können. Die Masterarbeit muss zwingend einen zielstufenspezifischen berufspraktischen Bezug aufweisen.
 
 <sup>2</sup> Die Hochschulleitung erlässt Richtlinien zum Verfassen der Masterarbeit.
 
@@ -397,17 +381,17 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 **Anmeldung**
 
-<sup>1</sup> Der Prorektor oder die Prorektorin Lehre legt die Anmeldefristen für die Diplomprüfungen fest.
+<sup>1</sup> Der Prorektor oder die Prorektorin Ausbildung legt die Anmeldefristen für die Diplomprüfungen fest.
 
 #### § 30
 
 **Prüfungsform**
 
-<sup>1</sup> Die Diplomprüfung umfasst ein Kolloquium auf der Grundlage des persönlichen Portfolios.
+<sup>1</sup> Die Diplomprüfung umfasst ein Kolloquium auf der Grundlage der Masterarbeit.
 
-<sup>2</sup> Das Portfolio besteht aus einer geordneten und kommentierten Sammlung von Dokumenten individueller Lernerfahrungen. Es wird während der Ausbildung selbstverantwortlich geführt.
+<sup>2</sup> …
 
-<sup>3</sup> Die Hochschulleitung erlässt Richtlinien zur Führung der Portfolios.
+<sup>3</sup> Die Hochschulleitung erlässt Richtlinien zur Diplomprüfung.
 
 #### § 31
 
@@ -415,15 +399,16 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 <sup>1</sup> Zur Diplomprüfung wird zugelassen, wer
 
-- 1\. das Bachelorstudium erfolgreich abgeschlossen hat oder über einen gleichwertigen Zwischenabschluss verfügt,
-- 2\. das Portfolio fristgerecht abgegeben hat und
-- 3\. zur Prüfung angemeldet ist.
+- 1\. die Berufseignungsabklärung bestanden hat,
+- 2\. die entsprechenden Leistungen im Portfolio erbracht hat,
+- 3\. die Masterarbeit bestanden hat und
+- 4\. zur Prüfung angemeldet ist.
 
 #### § 32
 
 **Durchführung**
 
-<sup>1</sup> Der Prorektor oder die Prorektorin Lehre ist für die Durchführung der Prüfungen verantwortlich und ernennt die Prüfenden sowie die Experten und Expertinnen.
+<sup>1</sup> Der Prorektor oder die Prorektorin Ausbildung ist für die Durchführung der Prüfungen verantwortlich und ernennt die Prüfenden sowie die Experten und Expertinnen.
 
 <sup>2</sup> Die Prüfenden werden in der Durchführung der Prüfung und in der Bewertung von den Experten oder Expertinnen beraten.
 
@@ -431,9 +416,9 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 **Bewertung**
 
-<sup>1</sup> Kolloquium und Portfolio werden anhand der ECTS-Bewertungsskala bewertet.
+<sup>1</sup> Die Diplomprüfung wird anhand der ECTS-Bewertungsskala bewertet.
 
-<sup>2</sup> Der Prorektor oder die Prorektorin Lehre regelt die Verrechnung der Einzelqualifikationen zu einer Gesamtqualifikation.
+<sup>2</sup> …
 
 #### § 34
 
@@ -443,7 +428,7 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 <sup>2</sup> Wer unerlaubte Hilfsmittel verwendet oder sich anderweitig unerlaubte Vorteile verschafft, hat die Prüfung nicht bestanden.
 
-<sup>3</sup> Eine nicht bestandene Diplomprüfung kann einmal wiederholt werden. Die Wiederholung kann sowohl Nachbesserungen des Portfolios als auch ein erneutes Kolloquium oder beides umfassen.
+<sup>3</sup> Eine nicht bestandene Diplomprüfung kann einmal wiederholt werden.
 
 <sup>4</sup> Bei erneutem Nichtbestehen ordnet die Hochschulleitung den Ausschluss vom Studium an der PHTG an.
 
@@ -463,12 +448,18 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 <sup>5</sup> Zudem wird der Titel «Master of Arts PHTG in Secondary Education» verliehen.
 
-<sup>6</sup> Lehrbefähigungen für zusätzliche Fächer der Sekundarstufe werden mit einem Erweiterungsdiplom nach den Vorgaben der EDK bescheinigt
+<sup>6</sup> Lehrbefähigungen für zusätzliche Fächer der Sekundarstufe I werden mit einem Erweiterungsdiplom nach den Vorgaben der EDK bescheinigt.
 
 ## 7. Schlussbestimmung
 
 #### § 36
 
 **…**
+
+#### § 37
+
+**Übergangsbestimmung**
+
+<sup>1</sup> Studenten und Studentinnen der Studienjahrgänge 2022/2023 und aller vorhergehenden Studienjahrgänge beenden ihr Studium nach dem Reglement über den Studiengang Sekundarstufe I der Pädagogischen Hochschule Thurgau in der Fassung vom 31. August 2020.
 
 ABl. 11/2011
