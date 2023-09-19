@@ -3,11 +3,11 @@ sr: "131.233"
 title: "Verfassung von Republik und Kanton Neuenburg, vom 24. September 2000"
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/523_fga"
 language: de
-version: 2022-09-22
+version: 2023-09-20
 adopted: 2000-09-24
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/523_fga/20220922/de/xml/fedlex-data-admin-ch-eli-cc-2001-523_fga-20220922-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/523_fga/20220922/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/523_fga/20230920/de/xml/fedlex-data-admin-ch-eli-cc-2001-523_fga-20230920-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/523_fga/20230920/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/523_fga/20220922/de"
 
 Übersetzung[^t-1]
 
-vom 24. September 2000 (Stand am 22. September 2022)[^t-2]
+vom 24. September 2000 (Stand am 20. September 2023)[^t-2]
 
 [^t-1]: Der Text in der französischen Originalsprache findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
 [^t-2]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleis-tungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
@@ -130,6 +130,18 @@ Im Rahmen ihrer Zuständigkeiten und in Ergänzung zur Initiative und Verantwort
 <sup>1</sup> Staat und Gemeinden haften für Schäden, die ihre Amtsträger in Ausübung ihrer Tätigkeiten Dritten widerrechtlich verursachen.
 
 <sup>2</sup> Das Gesetz bestimmt, unter welchen Voraussetzungen Staat und Gemeinden für Schäden haften, die ihre Amtsträger rechtmässig verursachen.
+
+### Aufsicht über die Geschäftsführung und die Finanzen
+
+#### Art. 6a
+
+[^6a-1]
+
+<sup>1</sup> Ein unabhängiges Organ wird beauftragt, die Geschäftsführung der Behörden und der Verwaltung sowie die Haushaltsführung zu beaufsichtigen.
+
+<sup>2</sup> Das Gesetz umschreibt dessen Form, Befugnisse und Betrieb. Es kann die Befugnisse dieses Organs auf die Kontrolle anderer Einheiten, die vom Staat geschaffen werden oder mit denen dieser zusammenarbeitet, sowie auf die Gemeinden ausdehnen.
+
+[^6a-1]: Angenommen in der [Volksabstimmung vom 15. Mai 2022](http://www.admin.ch/ch/d/pore/va/20220515/index.html), in Kraft seit 1. Okt. 2022. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 8, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ## Zweiter Titel: Grundrechte, Sozialziele und soziale Aufgaben
 
@@ -1175,6 +1187,10 @@ Arbeit
 
 **Atomanlage** 42<sup>3</sup>, 61
 
+Aufsicht
+
+– über die Geschäfts- und Haushaltsführung 6*a*
+
 Ausbildung
 
 – Aufgabe des Staats 5<sup>1</sup>
@@ -1315,7 +1331,7 @@ Fernmeldeverkehr
 
 – Kommunikations- und Informationsfreiheit 11<sup>1</sup>
 
-Finanzen 57, 71, 80
+Finanzen 6*a*, 57, 71, 80
 
 Folter
 
@@ -1348,6 +1364,8 @@ Gegenentwurf
 Gemeinden
 
 – Aufgaben 5
+
+– Aufsicht über die Geschäfts- und Haushaltsführung 6*a*
 
 – finanzielle Beteiligung an den Kirchen 98<sup>3</sup>
 
@@ -1388,6 +1406,8 @@ Gesamterneuerung
 – des Grossen Rates 53
 
 – des Staatsrates 67
+
+Geschäftsführung Aufsicht 6*a*
 
 Gesetz
 

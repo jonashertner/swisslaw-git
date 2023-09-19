@@ -3,18 +3,18 @@ sr: "131.233"
 title: "Constitution de la République et Canton de Neuchâtel, du 24 septembre 2000"
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/523_fga"
 language: fr
-version: 2022-09-22
+version: 2023-09-20
 adopted: 2000-09-24
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/523_fga/20220922/fr/xml/fedlex-data-admin-ch-eli-cc-2001-523_fga-20220922-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/523_fga/20220922/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/523_fga/20230920/fr/xml/fedlex-data-admin-ch-eli-cc-2001-523_fga-20230920-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/523_fga/20230920/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Constitution de la République et Canton de Neuchâtel
 
-du 24 septembre 2000 (État le 22 septembre 2022)[^t-1]
+du 24 septembre 2000 (État le 20 septembre 2023)[^t-1]
 
 [^t-1]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
 
@@ -123,6 +123,18 @@ Dans les limites de leurs compétences et en complément de l’initiative et de
 <sup>1</sup> L’État et les communes répondent des dommages que leurs agents, dans l’exercice de leurs fonctions, causent sans droit à des tiers.
 
 <sup>2</sup> La loi fixe les conditions auxquelles l’État et les communes répondent des dommages que leurs agents causent de manière licite.
+
+### Surveillance de la gestion et des finances
+
+#### Art. 6a
+
+[^6a-1]
+
+<sup>1</sup> Un organe indépendant est chargé de surveiller la gestion des autorités et de l’administration ainsi que la tenue des finances.
+
+<sup>2</sup> La loi définit sa forme, ses compétences et son fonctionnement. Elle peut étendre les compétences de cet organe au contrôle d’autres entités créées par l’État ou avec lesquelles celui-ci collabore ainsi qu’aux communes.
+
+[^6a-1]: Accepté en [votation populaire du 15 mai 2022](http://www.admin.ch/ch/f/pore/va/20220515/index.html), en vigueur depuis le 1<sup>er</sup> oct. 2022. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 8, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ## Titre II Droits fondamentaux, buts et mandats sociaux
 
@@ -1403,6 +1415,7 @@ Vote
 - – surveillance 59
 - – division en départements 77<sup>2</sup>
 - – informations 79
+- – surveillance 6*a*
 
 - – corps électoral 37
 
@@ -1420,6 +1433,7 @@ Vote
 
 - – exercice du pouvoir 1<sup>2</sup>
 - – généralités 46 à 86
+- – surveillance 6*a*
 
 - – administration 89<sup>2</sup>
 
@@ -1617,6 +1631,8 @@ Vote
 - – droit au respect 11<sup>1</sup>
 - – mesures 34<sup>2</sup>
 
+- – surveillance 6*a*
+
 - – tâches de l’État 5<sup>1</sup>
 - – égalité 8<sup>2</sup>
 - – droit de l’enfant 14<sup>2</sup>
@@ -1783,6 +1799,7 @@ Vote
 
 - – par le Grand Conseil 59, 79
 - – par le Conseil d’État 73, 77
+- – de la gestion des autorités et de l’administration, ainsi que des finances 6*a*
 - – des autorités judiciaires 83
 - – des autorités communales 96
 

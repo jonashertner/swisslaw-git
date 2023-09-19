@@ -3,11 +3,11 @@ sr: "131.233"
 title: "Costituzione della Repubblica e Cantone di Neuchâtel, del 24 settembre 2000"
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/523_fga"
 language: it
-version: 2022-09-22
+version: 2023-09-20
 adopted: 2000-09-24
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/523_fga/20220922/it/xml/fedlex-data-admin-ch-eli-cc-2001-523_fga-20220922-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/523_fga/20220922/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/523_fga/20230920/it/xml/fedlex-data-admin-ch-eli-cc-2001-523_fga-20230920-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/523_fga/20230920/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,9 +16,10 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/523_fga/20220922/it"
 
 Traduzione[^t-1]
 
-del 24 settembre 2000 (Stato 22 settembre 2022) (Stato 22 settembre 2022)
+del 24 settembre 2000 (Stato 20 settembre 2023)[^t-2]
 
 [^t-1]: Il testo nella lingua originale è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
+[^t-2]: La presente pubblicazione si basa sulle mod. contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell’ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
 
 Il Popolo del Cantone di Neuchâtel,
 
@@ -129,6 +130,18 @@ Nei limiti delle loro competenze e a complemento dell’iniziativa e della respo
 <sup>1</sup> Lo Stato e i Comuni rispondono dei danni che i loro agenti causano illecitamente a terzi nell’esercizio delle loro funzioni.
 
 <sup>2</sup> La legge stabilisce a quali condizioni lo Stato e i Comuni rispondono dei danni che i loro agenti causano lecitamente.
+
+### Vigilanza sulla gestione e sulle finanze
+
+#### Art. 6a
+
+[^6a-1]
+
+<sup>1</sup> Un organo indipendente è incaricato di vigilare sulla gestione da parte delle autorità e dell’amministrazione, nonché sulla gestione delle finanze.
+
+<sup>2</sup> La legge ne disciplina l’organizzazione, le competenze e il funzionamento. La legge può estendere le competenze di tale organo al controllo di altre entità create dallo Stato o con le quali quest’ultimo collabora, nonché ai Comuni.
+
+[^6a-1]: Accettato nella [votazione popolare del 15 mag. 2022](http://www.admin.ch/ch/i/pore/va/20220515/index.html), in vigore dal 1° ott. 2022. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 8, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ## Titolo secondo: Diritti fondamentali, obiettivi e mandati sociali
 
@@ -1273,6 +1286,12 @@ Garanzia
 
 **Garanzie procedurali giudiziarie** 29
 
+**Gestione**
+
+– delle autorità giudiziarie59
+
+– sulle finanze 6*a*
+
 **Gran Consiglio** 2, 46
 
 **Grazia** 61
@@ -1845,6 +1864,7 @@ Voto
 - [tab] – del Gran Consiglio 59
 - [tab] – del Tribunale cantonale 83
 - [tab] – dello Stato 96
+- [tab] – sulla gestione e sulle finanze 6*a*
 
 - [tab] – dignitosa, salario minimo 34*a*
 - [tab] – familiare 34
