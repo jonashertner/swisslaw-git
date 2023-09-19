@@ -3,11 +3,11 @@ sr: "131.227"
 title: "Costituzione del Cantone di Argovia, del 25 giugno 1980"
 eli: "https://fedlex.data.admin.ch/eli/cc/1981/2_249_249_253_fga"
 language: it
-version: 2021-09-21
+version: 2023-09-20
 adopted: 1980-06-25
 in_force: 1982-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/2_249_249_253_fga/20210921/it/xml/fedlex-data-admin-ch-eli-cc-1981-2_249_249_253_fga-20210921-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1981/2_249_249_253_fga/20210921/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/2_249_249_253_fga/20230920/it/xml/fedlex-data-admin-ch-eli-cc-1981-2_249_249_253_fga-20230920-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1981/2_249_249_253_fga/20230920/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1981/2_249_249_253_fga/20210921/it"
 
 Traduzione[^t-1]
 
-del 25 giugno 1980 (Stato 21 settembre 2021)[^t-2]
+del 25 giugno 1980 (Stato 20 settembre 2023)[^t-2]
 
 [^t-1]: Il testo nella lingua originale è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
 [^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell'ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
@@ -729,20 +729,24 @@ La votazione popolare su nuove spese concernenti costruzioni o sussidi di costru
 
 #### § 69
 
-**Eleggibilità, incompatibilità e astensione**
+**Eleggibilità, incompatibilità, astensione e destituzione[^69-1]**
 
-<sup>1</sup> Sono eleggibili al Gran Consiglio, al Consiglio di Stato, nei tribunali e alle cariche istituite dalla presente Costituzione gli aventi diritto di voto nel Cantone. La legge determina le eccezioni applicabili ai tribunali.[^69-1]
+<sup>1</sup> Sono eleggibili al Gran Consiglio, al Consiglio di Stato, nei tribunali e alle cariche istituite dalla presente Costituzione gli aventi diritto di voto nel Cantone. La legge determina le eccezioni applicabili ai tribunali.[^69-2]
 
 <sup>2</sup> Per le cariche che richiedono conoscenze speciali possono essere previste condizioni di eleggibilità supplementari.
 
-<sup>3</sup> Nessuno può essere simultaneamente membro del Gran Consiglio e del Consiglio di Stato, né membro di una di queste autorità e del Tribunale cantonale o del Tribunale della magistratura. Ulteriori incompatibilità sono stabilite dalla legge.[^69-2]
+<sup>3</sup> Nessuno può essere simultaneamente membro del Gran Consiglio e del Consiglio di Stato, né membro di una di queste autorità e del Tribunale cantonale o del Tribunale della magistratura. Ulteriori incompatibilità sono stabilite dalla legge.[^69-3]
 
 <sup>4</sup> Chi si trova in un rapporto di servizio di diritto pubblico sottostante al diritto cantonale non può far parte del Gran Consiglio. Le eccezioni compatibili con il principio della divisione dei poteri sono determinate dalla legge.
 
 <sup>5</sup> I membri delle autorità e i funzionari devono astenersi negli affari che li concernono direttamente.
 
-[^69-1]: Accettato nella votazione popolare dell’11 mar. 2012, in vigore dal 1° gen. 2013. Garanzia dell’AF dell’11 mar. 2013 ([FF 2013 2251](https://fedlex.data.admin.ch/eli/fga/2013/457)art. 1 n. 5 [195](https://fedlex.data.admin.ch/eli/fga/2013/6)).
+<sup>6</sup> La legge disciplina la sospensione e la destituzione dei membri delle autorità.[^69-4]
+
+[^69-1]: Accettato nella [[votazione popolare del 15 mag. 202](http://www.admin.ch/ch/i/pore/va/20120923/index.html)2](http://www.admin.ch/ch/i/pore/va/20220515/index.html), in vigore dal 1° mag. 2024. Garanzia dell’AF del 20 set. 2023 ([[FF 2023 2331](https://www.fedlex.admin.ch/eli/fga/2013/1482/it)](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 5 cpv. 1, [[1495](https://www.fedlex.admin.ch/eli/fga/2013/855/it)](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 [^69-2]: Accettato nella votazione popolare dell’11 mar. 2012, in vigore dal 1° gen. 2013. Garanzia dell’AF dell’11 mar. 2013 ([FF 2013 2251](https://fedlex.data.admin.ch/eli/fga/2013/457)art. 1 n. 5 [195](https://fedlex.data.admin.ch/eli/fga/2013/6)).
+[^69-3]: Accettato nella votazione popolare dell’11 mar. 2012, in vigore dal 1° gen. 2013. Garanzia dell’AF dell’11 mar. 2013 ([FF 2013 2251](https://fedlex.data.admin.ch/eli/fga/2013/457)art. 1 n. 5 [195](https://fedlex.data.admin.ch/eli/fga/2013/6)).
+[^69-4]: Accettato nella [[votazione popolare del 15 mag. 202](http://www.admin.ch/ch/i/pore/va/20120923/index.html)2](http://www.admin.ch/ch/i/pore/va/20220515/index.html), in vigore dal 1° mag. 2024. Garanzia dell’AF del 20 set. 2023 ([[FF 2023 2331](https://www.fedlex.admin.ch/eli/fga/2013/1482/it)](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 5 cpv. 1, [[1495](https://www.fedlex.admin.ch/eli/fga/2013/855/it)](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 #### § 70
 
@@ -752,8 +756,8 @@ La votazione popolare su nuove spese concernenti costruzioni o sussidi di costru
 
 <sup>2</sup> Tenuto conto del § 61 della presente Costituzione, la legge determina i collaboratori eletti per un periodo amministrativo e quelli assunti su base contrattuale.[^70-2]
 
-[^70-1]: Accettato nella [votazione popolare del 24 set. 2000](http://www.admin.ch/ch/i/pore/va/20000924/index.html), in vigore dal 1° lug. 2002. Garanzia. Garanzia dell’AF dell’11 dic. 2001 ([FF 2001 5802](https://fedlex.data.admin.ch/eli/fga/2001/1125)art. 1 n. 6 [4365](https://fedlex.data.admin.ch/eli/fga/2001/813)).
-[^70-2]: Accettato nella [votazione popolare del 24 set. 2000](http://www.admin.ch/ch/i/pore/va/20000924/index.html), in vigore dal 1° lug. 2002. Garanzia. dell’AF dell’11 dic. 2001 ([FF 2001 5802](https://fedlex.data.admin.ch/eli/fga/2001/1125)art. 1 n. 6 [4365](https://fedlex.data.admin.ch/eli/fga/2001/813)).
+[^70-1]: Accettato nella [votazione popolare del 24 set. 2000](http://www.admin.ch/ch/i/pore/va/20000924/index.html), in vigore dal 1° lug. 2002. Garanzia dell’AF dell’11 dic. 2001 ([FF 2001 5802](https://fedlex.data.admin.ch/eli/fga/2001/1125)art. 1 n. 6 [4365](https://fedlex.data.admin.ch/eli/fga/2001/813)).
+[^70-2]: Accettato nella [votazione popolare del 24 set. 2000](http://www.admin.ch/ch/i/pore/va/20000924/index.html), in vigore dal 1° lug. 2002. Garanzia dell’AF dell’11 dic. 2001 ([FF 2001 5802](https://fedlex.data.admin.ch/eli/fga/2001/1125)art. 1 n. 6 [4365](https://fedlex.data.admin.ch/eli/fga/2001/813)).
 
 #### § 71
 
@@ -767,7 +771,7 @@ La sede del Gran Consiglio, del Consiglio di Stato e del Tribunale cantonale è 
 
 La lingua ufficiale è il tedesco. Le autorità e gli uffici possono comunicare anche in altre lingue nazionali o in inglese se non ne derivano svantaggi per altri partecipanti al procedimento.
 
-[^71a-1]: Accettato nella [votazione popolare del 13 giu. 2010](http://www.admin.ch/ch/i/pore/va/20100613/index.html), in vigore dal 1° gen. 2011. Garanzia. dell’AF del 29 sett. 2011 ([FF 2011 6777](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 n. 7 [4015](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^71a-1]: Accettato nella [votazione popolare del 13 giu. 2010](http://www.admin.ch/ch/i/pore/va/20100613/index.html), in vigore dal 1° gen. 2011. Garanzia dell’AF del 29 sett. 2011 ([FF 2011 6777](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 n. 7 [4015](https://fedlex.data.admin.ch/eli/fga/2011/693)).
 
 #### § 72
 
@@ -779,8 +783,8 @@ La lingua ufficiale è il tedesco. Le autorità e gli uffici possono comunicare 
 
 <sup>3</sup> La legge determina le eccezioni che si impongono a tutela di interessi pubblici e privati.
 
-[^72-1]: Accettato nella votazione popolare dell’11 mar. 2007, in vigore dal 1° lug. 2008. Garanzia. dell’AF del 6 mar. 2008 ([FF 2008 2171](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1 n. 9, [2007 6913](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
-[^72-2]: Accettato nella votazione popolare dell’11 mar. 2007, in vigore dal 1° lug. 2008. Garanzia. dell’AF del 6 mar. 2008 ([FF 2008 2171](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1 n. 9, [2007 6913](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+[^72-1]: Accettato nella votazione popolare dell’11 mar. 2007, in vigore dal 1° lug. 2008. Garanzia dell’AF del 6 mar. 2008 ([FF 2008 2171](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1 n. 9, [2007 6913](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+[^72-2]: Accettato nella votazione popolare dell’11 mar. 2007, in vigore dal 1° lug. 2008. Garanzia dell’AF del 6 mar. 2008 ([FF 2008 2171](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1 n. 9, [2007 6913](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
 
 #### § 73
 
@@ -808,7 +812,7 @@ Prima di entrare in funzione, i membri delle autorità e i funzionari s’impegn
 
 <sup>4</sup> I membri del Gran Consiglio non possono essere tenuti a rispondere in giudizio di quanto da essi dichiarato in Gran Consiglio e nelle sue commissioni. Il Gran Consiglio può tuttavia levare tale immunità nei casi di abuso manifesto.
 
-[^75-1]: Accettato nella [votazione popolare del 27 set. 2009](http://www.admin.ch/ch/i/pore/va/20090927/index.html), in vigore dal 1° mar. 2010. Garanzia. dell’AF dell’8 dic. 2010 ([FF 2011 253](https://fedlex.data.admin.ch/eli/fga/2011/15)art. 1 n. 1, [2010 4295](https://fedlex.data.admin.ch/eli/fga/2010/839)).
+[^75-1]: Accettato nella [votazione popolare del 27 set. 2009](http://www.admin.ch/ch/i/pore/va/20090927/index.html), in vigore dal 1° mar. 2010. Garanzia dell’AF dell’8 dic. 2010 ([FF 2011 253](https://fedlex.data.admin.ch/eli/fga/2011/15)art. 1 n. 1, [2010 4295](https://fedlex.data.admin.ch/eli/fga/2010/839)).
 [^75-2]: Accettato nella [votazione popolare del 27 set. 2009](http://www.admin.ch/ch/i/pore/va/20090927/index.html), in vigore dal 1° mar. 2010. Garanzia dell’AF dell’8 dic. 2010 ([FF 2011 253](https://fedlex.data.admin.ch/eli/fga/2011/15)art. 1 n. 1, [2010 4295](https://fedlex.data.admin.ch/eli/fga/2010/839)).
 [^75-3]: Accettato nella [votazione popolare del 27 set. 2009](http://www.admin.ch/ch/i/pore/va/20090927/index.html), in vigore dal 1° mar. 2010. Garanzia dell’AF dell’8 dic. 2010 ([FF 2011 253](https://fedlex.data.admin.ch/eli/fga/2011/15)art. 1 n. 1, [2010 4295](https://fedlex.data.admin.ch/eli/fga/2010/839)).
 
@@ -816,13 +820,17 @@ Prima di entrare in funzione, i membri delle autorità e i funzionari s’impegn
 
 #### § 76
 
-**1. Statuto e composizione**
+**1. Statuto, composizione e supplenza[^76-1]**
 
 <sup>1</sup> Il Gran Consiglio è l’autorità legislativa e la suprema autorità di vigilanza del Cantone.
 
-<sup>2</sup> Esso si compone di 140 membri.[^76-1]
+<sup>2</sup> Esso si compone di 140 membri.[^76-2]
 
-[^76-1]: Accettato nella [votazione popolare del 18 mag. 2003](http://www.admin.ch/ch/i/pore/va/20030518/index.html), in vigore dal 1° set. 2004. Garanzia dell’AF del 10 mar. 2004 ([FF 2004 1203](https://fedlex.data.admin.ch/eli/fga/2004/263)art. 1 n. 5, [2003 7009](https://fedlex.data.admin.ch/eli/fga/2003/1380)).
+<sup>3</sup> La legge disciplina la supplenza dei membri impediti a lungo termine.[^76-3]
+
+[^76-1]: Accettato nella [[votazione popolare del 15 mag. 202](http://www.admin.ch/ch/i/pore/va/20120923/index.html)2](http://www.admin.ch/ch/i/pore/va/20220515/index.html), in vigore dal 1° gen. 2023. Garanzia dell’AF del 20 set. 2023 ([[FF 2023 2331](https://www.fedlex.admin.ch/eli/fga/2013/1482/it)](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 5 cpv. 2, [[1495](https://www.fedlex.admin.ch/eli/fga/2013/855/it)](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^76-2]: Accettato nella [votazione popolare del 18 mag. 2003](http://www.admin.ch/ch/i/pore/va/20030518/index.html), in vigore dal 1° set. 2004. Garanzia dell’AF del 10 mar. 2004 ([FF 2004 1203](https://fedlex.data.admin.ch/eli/fga/2004/263)art. 1 n. 5, [2003 7009](https://fedlex.data.admin.ch/eli/fga/2003/1380)).
+[^76-3]: Accettato nella [votazione popolare del 25 set. 2022](http://www.admin.ch/ch/i/pore/va/20220925/index.html), in vigore dal 1° gen. 2023. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 5 cpv. 2, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 #### § 77
 
@@ -1482,7 +1490,7 @@ Per quanto concerne il diritto di chiedere votazioni popolari facoltative ai sen
 - h. la domanda di referendum dev’essere depositata alla Cancelleria dello Stato entro il termine di referendum;
 - i. la Cancelleria dello Stato può far rimediare ai difetti dell’attestazione prima e dopo la scadenza del termine di referendum, se la riuscita formale del referendum ne dipende;
 - k. sono nulle le firme che figurano su liste che non soddisfanno alle esigenze menzionate o che sono state depositate dopo la scadenza del termine di referendum, nonché quelle di persone il cui diritto di voto non è stato attestato o riguardo alle quali l’attestazione risulta nulla o accordata a torto;
-- 1\. scaduto il termine di referendum, il Consiglio di Stato accerta se il referendum è formalmente riuscito e pubblica la relativa decisione nel Foglio ufficiale del Cantone di Argovia, indicando il numero delle firme valide e quello delle firme nulle.
+- l. scaduto il termine di referendum, il Consiglio di Stato accerta se il referendum è formalmente riuscito e pubblica la relativa decisione nel Foglio ufficiale del Cantone di Argovia, indicando il numero delle firme valide e quello delle firme nulle.
 
 [^131-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
@@ -1525,6 +1533,7 @@ Amministrazione 77
 - [tab] – della Giustizia 15, 96
   - [tab] – distretti 102
 
+- [tab] – destituzione 69
 - [tab] – dipartimenti 93
 - [tab] – direzione 90
 - [tab] – diritto alle informazioni 13
@@ -1641,10 +1650,12 @@ Cantone
 
 Cariche pubbliche
 
+- [tab] – destituzione 69
 - [tab] – durata 70, 83
 - [tab] – eleggibilità alle 69
 - [tab] – incompatibilità 69
 - [tab] – richiedenti conoscenze speciali 69
+- [tab] – sospensione 69
 
 **Censura** 13
 
@@ -1780,6 +1791,7 @@ Comune (i)
 **Consiglio di Stato** 87 ss
 
 - [tab] – amministrazione cantonale 93
+- [tab] – collegialità 92
 - [tab] – competenze 89 ss
   - [tab] – attività governative 89
   - [tab] – attività normativa 91
@@ -1793,6 +1805,7 @@ Comune (i)
 - [tab] – composizione 87
 - [tab] – consultazioni 66
 - [tab] – deleghe 93
+- [tab] – destituzione 69
 - [tab] – dipartimenti 93
 - [tab] – durata della funzione 71
 - [tab] – eleggibilità al 69
@@ -1806,7 +1819,7 @@ Comune (i)
 - [tab] – organizzazione e regolamentazioni 94
 - [tab] – organo consultivo del 31
 - [tab] – sede ufficiale 71
-- [tab] – collegialità 92
+- [tab] – sospensione 69
 - [tab] – vigilanza 93
 
 **Consorzio**

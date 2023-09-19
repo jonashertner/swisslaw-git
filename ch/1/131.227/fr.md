@@ -3,11 +3,11 @@ sr: "131.227"
 title: "Constitution du canton d'Argovie, du 25 juin 1980"
 eli: "https://fedlex.data.admin.ch/eli/cc/1981/2_249_249_253_fga"
 language: fr
-version: 2021-09-21
+version: 2023-09-20
 adopted: 1980-06-25
 in_force: 1982-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/2_249_249_253_fga/20210921/fr/xml/fedlex-data-admin-ch-eli-cc-1981-2_249_249_253_fga-20210921-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1981/2_249_249_253_fga/20210921/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/2_249_249_253_fga/20230920/fr/xml/fedlex-data-admin-ch-eli-cc-1981-2_249_249_253_fga-20230920-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1981/2_249_249_253_fga/20230920/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1981/2_249_249_253_fga/20210921/fr"
 
 Traduction[^t-1]
 
-du 25 juin 1980 (État le 21 septembre 2021)[^t-2]
+du 25 juin 1980 (État le 20 septembre 2023)[^t-2]
 
 [^t-1]: Le texte original est publié, sous le même chiffre, dans l’édition allemande du présent recueil.
 [^t-2]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
@@ -815,13 +815,17 @@ Avant leur entrée en fonction, les membres des autorités et les fonctionnaires
 
 #### § 76
 
-**1. Position et composition**
+**1. Position, composition et suppléance[^76-1]**
 
 <sup>1</sup> Le Grand Conseil est l’autorité législative et la plus haute autorité de surveillance du canton.
 
-<sup>2</sup> Il se compose de 140 membres.[^76-1]
+<sup>2</sup> Il se compose de 140 membres.[^76-2]
 
-[^76-1]: Accepté en [votation populaire du 18 mai 2003](http://www.admin.ch/ch/f/pore/va/20030518/index.html), en vigueur depuis le 1<sup>er</sup> sept. 2004. Garantie de l’Ass. féd. du 10 mars 2004 ([FF 2004 1273](https://fedlex.data.admin.ch/eli/fga/2004/263)art. 1 ch. 5, [2003 7377](https://fedlex.data.admin.ch/eli/fga/2003/1380)).
+<sup>3</sup> La loi règle la suppléance des membres empêchés à long terme.[^76-3]
+
+[^76-1]: Accepté en [votation populaire du 25 sept. 2022](http://www.admin.ch/ch/f/pore/va/20220925/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2023. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 5 al. 2, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^76-2]: Accepté en [votation populaire du 18 mai 2003](http://www.admin.ch/ch/f/pore/va/20030518/index.html), en vigueur depuis le 1<sup>er</sup> sept. 2004. Garantie de l’Ass. féd. du 10 mars 2004 ([FF 2004 1273](https://fedlex.data.admin.ch/eli/fga/2004/263)art. 1 ch. 5, [2003 7377](https://fedlex.data.admin.ch/eli/fga/2003/1380)).
+[^76-3]: Accepté en [votation populaire du 25 sept. 2022](http://www.admin.ch/ch/f/pore/va/20220925/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2023. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 5 al. 2, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 #### § 77
 
@@ -1917,6 +1921,7 @@ Grand Conseil
 - – position et composition 76<sup>2</sup>
 - – répartition des mandats 77<sup>3</sup>
 - – responsabilités 75
+- – suppléance 76<sup>3</sup>
 - – attributions
   - – financières 81
   - – législation 78

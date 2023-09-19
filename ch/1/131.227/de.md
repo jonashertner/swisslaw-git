@@ -3,18 +3,18 @@ sr: "131.227"
 title: "Verfassung des Kantons Aargau, vom 25. Juni 1980"
 eli: "https://fedlex.data.admin.ch/eli/cc/1981/2_249_249_253_fga"
 language: de
-version: 2021-09-21
+version: 2023-09-20
 adopted: 1980-06-25
 in_force: 1982-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/2_249_249_253_fga/20210921/de/xml/fedlex-data-admin-ch-eli-cc-1981-2_249_249_253_fga-20210921-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1981/2_249_249_253_fga/20210921/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/2_249_249_253_fga/20230920/de/xml/fedlex-data-admin-ch-eli-cc-1981-2_249_249_253_fga-20230920-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1981/2_249_249_253_fga/20230920/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verfassung des Kantons Aargau
 
-vom 25. Juni 1980 (Stand am 21. September 2021)[^t-1]
+vom 25. Juni 1980 (Stand am 20. September 2023)[^t-1]
 
 [^t-1]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
 
@@ -809,13 +809,17 @@ Die Mitglieder von Behörden und die Beamten werden vor Amtsantritt auf Verfassu
 
 #### § 76
 
-**1. Stellung und Zusammensetzung**
+**1. Stellung, Zusammensetzung und Vertretung[^76-1]**
 
 <sup>1</sup> Der Grosse Rat ist die gesetzgebende und die oberste aufsichtsführende Behörde des Kantons.
 
-<sup>2</sup> Er besteht aus hundertvierzig Mitgliedern.[^76-1]
+<sup>2</sup> Er besteht aus hundertvierzig Mitgliedern.[^76-2]
 
-[^76-1]: Angenommen in der [Volksabstimmung vom 18. Mai 2003](http://www.admin.ch/ch/d/pore/va/20030518/index.html), in Kraft seit 1. Sept. 2004. Gewährleistungsbeschluss vom 10. März 2004 ([BBl 2004 1393](https://fedlex.data.admin.ch/eli/fga/2004/263)Art. 1 Ziff. 5, [2003 8087](https://fedlex.data.admin.ch/eli/fga/2003/1380)).
+<sup>3</sup> Das Gesetz regelt die Vertretung längerfristig verhinderter Mitglieder.[^76-3]
+
+[^76-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2022](http://www.admin.ch/ch/d/pore/va/20220925/index.html), in Kraft seit 1. Jan. 2023. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 5 Abs. 2, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^76-2]: Angenommen in der [Volksabstimmung vom 18. Mai 2003](http://www.admin.ch/ch/d/pore/va/20030518/index.html), in Kraft seit 1. Sept. 2004. Gewährleistungsbeschluss vom 10. März 2004 ([BBl 2004 1393](https://fedlex.data.admin.ch/eli/fga/2004/263)Art. 1 Ziff. 5, [2003 8087](https://fedlex.data.admin.ch/eli/fga/2003/1380)).
+[^76-3]: Angenommen in der [Volksabstimmung vom 25. Sept. 2022](http://www.admin.ch/ch/d/pore/va/20220925/index.html), in Kraft seit 1. Jan. 2023. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 5 Abs. 2, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 #### § 77
 
@@ -1833,6 +1837,7 @@ Grosser Rat
 - – Planung 79
 - – Sitzverteilung 77<sup>3</sup>
 - – Verantwortlichkeit 75
+- – Vertretung 76<sup>3</sup>
 - – Volkswahl 61<sup>1</sup><sup>a</sup>
 - – Vorschlagsrecht 85
 - – Wahl 77
