@@ -4,13 +4,13 @@ number: "217.15"
 title: Universitätsstatut
 short: US
 language: de
-version: 2022-05-01
-valid_until: 2023-09-19
-version_adopted: 2022-03-07
+version: 2023-09-20
+valid_until: 2024-12-31
+version_adopted: 2024-03-01
 adopted: 2024-08-30
 in_force: 2025-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/217.15"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3346/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3644/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3346/pdf_file"
 
 (US)
 
-vom 25.10.2010 (Stand 01.05.2022)
+vom 25.10.2010 (Stand 20.09.2023)
 
 Der Universitätsrat der Universität St.Gallen
 
@@ -545,11 +545,11 @@ als Statut:[^ingress-2]
 
 <sup>1</sup> Die Anstellungsbedingungen der Dozierenden sind im jeweiligen Wahlbeschluss festgelegt. Sie richten sich nach den Regelungen in diesem Statut, sofern der Universitätsrat keine besonderen Vorschriften erlassen hat. Im Übrigen sind die Bestimmungen für das Staatspersonal des Kantons St.Gallen anwendbar.
 
-<sup>2</sup> Für die Besoldung gilt die Gehaltsordnung für den Lehrkörper und das Verwaltungspersonal der Hochschule St.Gallen für Wirtschafts- und Sozialwissenschaften.[^48-1]
+<sup>2</sup> Für die Besoldung gilt das Personalreglement der Universität St.Gallen (HSG) vom 5. Mai 2014.[^48-1]
 
-<sup>3</sup> Der Universitätsrat erlässt ein Personalreglement, das von der Regierung genehmigt wird.
+<sup>3</sup> …
 
-[^48-1]: sGS [217.31](https://www.gesetzessammlung.sg.ch/data/217.31/de).
+[^48-1]: sGS [217.32](https://www.gesetzessammlung.sg.ch/data/217.32/de).
 
 #### Art. 49
 
