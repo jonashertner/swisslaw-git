@@ -4,18 +4,18 @@ title: "Verfassung des Kantons Bern, vom 6. Juni 1993 (KV)"
 short: KV
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/1_401_401_361_fga"
 language: de
-version: 2022-09-22
+version: 2023-09-20
 adopted: 1993-06-06
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1_401_401_361_fga/20220922/de/xml/fedlex-data-admin-ch-eli-cc-1994-1_401_401_361_fga-20220922-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/1_401_401_361_fga/20220922/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1_401_401_361_fga/20230920/de/xml/fedlex-data-admin-ch-eli-cc-1994-1_401_401_361_fga-20230920-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/1_401_401_361_fga/20230920/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verfassung des Kantons Bern
 
-vom 6. Juni 1993 (Stand am 22. September 2022)[^t-1]
+vom 6. Juni 1993 (Stand am 20. September 2023)[^t-1]
 
 [^t-1]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
 
@@ -733,11 +733,14 @@ Ferner unterliegen der Volksabstimmung, wenn das Referendum zustande gekommen is
 
 <sup>1</sup> Eine Abstimmungsvorlage ist angenommen, wenn sie die Mehrheit der im Kanton gültig abgegebenen Stimmen erhalten hat.
 
-<sup>2</sup> Der Grosse Rat kann in einer Vorlage, die der Volksabstimmung untersteht, einen Eventualantrag stellen. Findet die Volksabstimmung statt, so ist neben der Hauptvorlage auch der Eventualantrag den Stimmberechtigten zu unterbreiten. Findet keine Volksabstimmung statt, so fällt der Eventualantrag dahin.
+<sup>2</sup> Der Grosse Rat kann in einer Vorlage, die der Volksabstimmung untersteht, einen Eventualantrag stellen. Findet die Volksabstimmung statt und wird kein Volksvorschlag nach Absatz 3 eingereicht, so ist neben der Hauptvorlage auch der Eventualantrag den Stimmberechtigten zu unterbreiten. Findet keine Volksabstimmung statt oder wird ein Volksvorschlag eingereicht, so fällt der Eventualantrag dahin.[^63-1]
 
-<sup>3</sup> Stellt der Grosse Rat keinen Eventualantrag, können 10 000 Stimmberechtigte innert drei Monaten seit Publikation eines Gesetzes oder eines Grundsatzbeschlusses einen Volksvorschlag einreichen. Dieser gilt als Referendum.
+<sup>3</sup> 10 000 Stimmberechtigte können innert drei Monaten seit Publikation eines Gesetzes oder eines Grundsatzbeschlusses einen Volksvorschlag einreichen. Dieser gilt als Referendum.[^63-2]
 
 <sup>4</sup> Bei Eventualanträgen und Volksvorschlägen findet das gleiche Abstimmungsverfahren wie bei einem Gegenvorschlag zu einer Initiative Anwendung.
+
+[^63-1]: Angenommen in der [Volksabstimmung vom 15. Mai 2022](http://www.admin.ch/ch/d/pore/va/20220515/index.html), in Kraft seit 15. Mai 2022. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 2, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^63-2]: Angenommen in der [Volksabstimmung vom 15. Mai 2022](http://www.admin.ch/ch/d/pore/va/20220515/index.html), in Kraft seit 15. Mai 2022. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 2, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### 4.5 Mitwirkung
 

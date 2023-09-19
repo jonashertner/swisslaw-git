@@ -4,11 +4,11 @@ title: "Costituzione del Cantone di Berna, del 6 giugno 1993 (CostC)"
 short: CostC
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/1_401_401_361_fga"
 language: it
-version: 2022-09-22
+version: 2023-09-20
 adopted: 1993-06-06
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1_401_401_361_fga/20220922/it/xml/fedlex-data-admin-ch-eli-cc-1994-1_401_401_361_fga-20220922-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/1_401_401_361_fga/20220922/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1_401_401_361_fga/20230920/it/xml/fedlex-data-admin-ch-eli-cc-1994-1_401_401_361_fga-20230920-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/1_401_401_361_fga/20230920/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/1_401_401_361_fga/20220922/it"
 
 Traduzione[^t-1]
 
-del 6 giugno 1993 (Stato 22 settembre 2022)[^t-2]
+del 6 giugno 1993 (Stato 20 settembre 2023)[^t-2]
 
 [^t-1]: Accettata nella votazione popolare del 6 giu. 1993. Garanzia dell'AF del 22 set. 1994 (FF **1994** I 361, III 1688). Il testo nella lingua originale è pubblicato sotto lo stesso numero nelle ediz. franc. e ted. della presente Raccolta.
 [^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell’ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
@@ -736,11 +736,14 @@ Sottostanno inoltre al voto del Popolo, in caso di riuscita formale del referend
 
 <sup>1</sup> Un progetto sottoposto a votazione popolare è accettato se ottiene la maggioranza dei voti validamente espressi nel Cantone.
 
-<sup>2</sup> Il Gran Consiglio può prevedere che un progetto sottostante a votazione popolare sia corredato di una proposta subordinata. Se la votazione popolare ha luogo, agli aventi diritto di voto è sottoposta, insieme al progetto principale, anche la proposta subordinata. Se la votazione popolare non ha luogo, la proposta subordinata decade.
+<sup>2</sup> Il Gran Consiglio può prevedere che un progetto sottostante a votazione popolare sia corredato di una proposta subordinata. Se la votazione popolare ha luogo e non è sottoposto alcun progetto del Popolo secondo il capoverso 3, agli aventi diritto di voto è sottoposta, insieme al progetto principale, anche la proposta subordinata. Se la votazione popolare non ha luogo o se è sottoposto un progetto del Popolo, la proposta subordinata decade.[^63-1]
 
-<sup>3</sup> Se il Gran Consiglio non presenta una proposta subordinata, 10 000 aventi diritto di voto possono proporre un progetto del Popolo entro tre mesi dalla pubblicazione del progetto di legge o del progetto di decisione di principio. Il progetto del Popolo ha la valenza di un referendum.
+<sup>3</sup> 10 000 aventi diritto di voto possono proporre un progetto del Popolo entro tre mesi dalla pubblicazione del progetto di legge o del progetto di decisione di principio. Il progetto del Popolo ha la valenza di un referendum.[^63-2]
 
 <sup>4</sup> La procedura in caso di votazioni su proposte subordinate o su progetti del Popolo è la stessa di quella applicabile in caso di iniziative con controprogetto.
+
+[^63-1]: Accettato nella [votazione popolare del 15 mag. 2022](http://www.admin.ch/ch/i/pore/va/20220515/index.html), in vigore dal 15 mag. 2022. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 2, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^63-2]: Accettato nella [votazione popolare del 15 mag. 2022](http://www.admin.ch/ch/i/pore/va/20220515/index.html), in vigore dal 15 mag. 2022. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 2, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### 4.5 Partecipazione
 

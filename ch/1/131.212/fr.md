@@ -4,18 +4,18 @@ title: "Constitution du canton de Berne, du 6 juin 1993 (ConstC)"
 short: ConstC
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/1_401_401_361_fga"
 language: fr
-version: 2022-09-22
+version: 2023-09-20
 adopted: 1993-06-06
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1_401_401_361_fga/20220922/fr/xml/fedlex-data-admin-ch-eli-cc-1994-1_401_401_361_fga-20220922-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/1_401_401_361_fga/20220922/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1_401_401_361_fga/20230920/fr/xml/fedlex-data-admin-ch-eli-cc-1994-1_401_401_361_fga-20230920-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/1_401_401_361_fga/20230920/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Constitution du canton de Berne
 
-du 6 juin 1993 (État le 22 septembre 2022)[^t-1]
+du 6 juin 1993 (État le 20 septembre 2023)[^t-1]
 
 [^t-1]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
 
@@ -733,11 +733,14 @@ Sont en outre soumis au vote populaire, lorsque celui-ci est demandé:
 
 <sup>1</sup> Un projet soumis au vote populaire est accepté lorsqu’il a recueilli la majorité des suffrages valablement exprimés dans le canton.
 
-<sup>2</sup> Le Grand Conseil peut joindre un projet alternatif à tout projet soumis à la votation facultative ou obligatoire. Si le vote populaire a lieu, le corps électoral se prononce sur le projet principal et sur le projet alternatif. Si, en cas de votation facultative, le vote populaire n’est pas demandé, le projet alternatif est caduc.
+<sup>2</sup> Le Grand Conseil peut joindre un projet alternatif à tout projet soumis à la votation facultative ou obligatoire. Si le vote populaire a lieu et si aucun projet populaire selon l’al. 3 n’est soumis, le corps électoral se prononce sur le projet principal et sur le projet alternatif. Si, en cas de votation facultative, le vote populaire n’est pas demandé ou si un projet populaire est soumis, le projet alternatif est caduc.[^63-1]
 
-<sup>3</sup> 10 000 citoyens et citoyennes peuvent proposer un projet populaire dans les trois mois qui suivent la publication d’un projet de loi ou d’arrêté de principe si le Grand Conseil renonce à présenter lui-même un projet alternatif. Le projet populaire a également la valeur d’une demande de vote populaire sur le projet du Grand Conseil.
+<sup>3</sup> 10 000 citoyens et citoyennes peuvent proposer un projet populaire dans les trois mois qui suivent la publication d’un projet de loi ou d’arrêté de principe. Le projet populaire a également la valeur d’une demande de vote populaire sur le projet du Grand Conseil.[^63-2]
 
 <sup>4</sup> Lorsqu’un projet alternatif ou un projet populaire est présenté, le vote a lieu selon la procédure applicable à une initiative avec contre-projet.
+
+[^63-1]: Accepté en [votation populaire du 15 mai 2022](http://www.admin.ch/ch/f/pore/va/20220515/index.html), en vigueur depuis le 15 mai 2022. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 2, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^63-2]: Accepté en [votation populaire du 15 mai 2022](http://www.admin.ch/ch/f/pore/va/20220515/index.html), en vigueur depuis le 15 mai 2022. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 2, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### 4.5 Participation au processus de formation de l’opinion
 
