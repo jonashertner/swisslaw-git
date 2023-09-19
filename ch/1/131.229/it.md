@@ -3,18 +3,18 @@ sr: "131.229"
 title: "Costituzione della Repubblica e Cantone Ticino, del 14 dicembre 1997"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/5_5494_4818_4364_fga"
 language: it
-version: 2022-09-22
+version: 2023-09-20
 adopted: 1997-12-14
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/5_5494_4818_4364_fga/20220922/it/xml/fedlex-data-admin-ch-eli-cc-1998-5_5494_4818_4364_fga-20220922-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/5_5494_4818_4364_fga/20220922/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/5_5494_4818_4364_fga/20230920/it/xml/fedlex-data-admin-ch-eli-cc-1998-5_5494_4818_4364_fga-20230920-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/5_5494_4818_4364_fga/20230920/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Costituzione della Repubblica e Cantone Ticino
 
-del 14 dicembre 1997 (Stato 22 settembre 2022)[^t-1]
+del 14 dicembre 1997 (Stato 20 settembre 2023)[^t-1]
 
 [^t-1]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell’ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
 
@@ -191,6 +191,24 @@ Ognuno è tenuto ad adempiere ai doveri previsti dalla Costituzione e dalle legg
 Se un salario minimo non è garantito da un contratto collettivo di lavoro (d’obbligatorietà generale o con salario minimo obbligatorio), esso è stabilito dal Consiglio di Stato e corrisponde a una percentuale del salario mediano nazionale per mansione e settore economico interessati.[^13-1]
 
 [^13-1]: Accettato in votazione popolare il 14 giu. 2015, in vigore dal 1° set. 2015. Garanzia dell’AF del 12 giu. 2017 ([FF 2017 3803](https://fedlex.data.admin.ch/eli/fga/2017/1119)art. 3 [1307](https://fedlex.data.admin.ch/eli/fga/2017/279)). Vedi anche la disp. trans. di questa mod. alla fine del presente testo.
+
+### Inclusione delle persone con disabilità e riconoscimento della lingua dei segni italiana
+
+#### Art. 13a
+
+[^13a-1]
+
+<sup>1</sup> Il Cantone e i Comuni tengono conto dei bisogni specifici delle persone con disabilità e delle loro famiglie.
+
+<sup>2</sup> Essi adottano le necessarie misure per assicurare la loro autonomia e per favorire la loro inclusione sociale, formativa, professionale, politica, sportiva e culturale, come pure il loro sviluppo in seno alla famiglia.
+
+<sup>3</sup> Nel rapporto con il Cantone, con i Comuni e con le altre corporazioni e istituzioni di diritto pubblico le persone con disabilità hanno il diritto di ottenere informazioni e di comunicare in una forma adatta ai loro bisogni e alle loro capacità.
+
+<sup>4</sup> Le persone con disabilità uditiva, sordocieche o con disturbi di linguaggio hanno diritto a ricorrere alla lingua dei segni italiana nel rapporto con le amministrazioni e con i servizi del Cantone, dei Comuni e delle altre corporazioni e istituzioni di diritto pubblico.
+
+<sup>5</sup> La lingua dei segni italiana è riconosciuta.
+
+[^13a-1]: Accettato nella votazione popolare del 30 ott. 2022, in vigore dal 1° gen. 2023. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 6, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Obiettivi sociali
 
@@ -1352,7 +1370,7 @@ Diritti (o)
 
 - [tab] – individuali e sociali 4
 - [tab] – ineleggibilità 29*a*
-- [tab] – sociali
+- [tab] – sociali 13 ss
   - [tab] – all’alloggio 13<sup>1</sup>
   - [tab] – alla formazione scolastica 13<sup>2</sup>
 
@@ -1428,6 +1446,15 @@ Garanzia
 
 **Imposte** 59<sup>d</sup>
 
+Inclusione
+
+- [tab] – culturale 13*a*
+- [tab] – formativa 13*a*
+- [tab] – politica 13*a*
+- [tab] – professionale 13*a*
+- [tab] – sociale 13*a*
+- [tab] – sportiva 13*a*
+
 Incompatibilità
 
 - [tab] – per altre cariche 54
@@ -1466,6 +1493,11 @@ Istruzione pubblica
 Leggi straniere 4
 
 **Libertà** v. Diritti
+
+Lingua
+
+- [tab] – dei segni 13*a*
+- [tab] – e cultura del Cantone Ticino 1
 
 Mercato del lavoro
 
@@ -1524,6 +1556,8 @@ Partiti
 - [tab] – sistema proporzionale 58
 
 **Patriziato** 22
+
+**Persone con disabilità** 13*a*
 
 **Prestazioni sociosanitarie** 15
 

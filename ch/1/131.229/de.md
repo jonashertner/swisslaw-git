@@ -3,11 +3,11 @@ sr: "131.229"
 title: "Verfassung von Republik und Kanton Tessin, vom 14. Dezember 1997"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/5_5494_4818_4364_fga"
 language: de
-version: 2022-09-22
+version: 2023-09-20
 adopted: 1997-12-14
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/5_5494_4818_4364_fga/20220922/de/xml/fedlex-data-admin-ch-eli-cc-1998-5_5494_4818_4364_fga-20220922-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/5_5494_4818_4364_fga/20220922/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/5_5494_4818_4364_fga/20230920/de/xml/fedlex-data-admin-ch-eli-cc-1998-5_5494_4818_4364_fga-20230920-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/5_5494_4818_4364_fga/20230920/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/5_5494_4818_4364_fga/20220922/de"
 
 Übersetzung[^t-1]
 
-vom 14. Dezember 1997 (Stand am 22. September 2022)[^t-2]
+vom 14. Dezember 1997 (Stand am 20. September 2023)[^t-2]
 
 [^t-1]: Der Text in der italenischen Originalsprache findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
 [^t-2]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
@@ -192,6 +192,24 @@ Jedermann muss die Pflichten erfüllen, die ihm Verfassung und Gesetze auferlege
 <sup>3</sup> Jede Person hat Anspruch auf einen Mindestlohn, der ihr ein würdiges Dasein sichert. Ist ein Mindestlohn nicht durch einen Gesamtarbeitsvertrag garantiert, der allgemeinverbindlich ist oder der einen obligatorischen Mindestlohn vorsieht, so wird ein solcher vom Staatsrat festgelegt in Form eines prozentualen Anteils des nationalen Medianlohnes für die entsprechende Art der Aufgabe im entsprechenden Wirtschaftszweig.[^13-1]
 
 [^13-1]: Angenommen in der [Volksabstimmung vom 14. Juni 2015](http://www.admin.ch/ch/d/pore/va/20150614/index.html), in Kraft seit 1. Sept. 2015. Gewährleistungsbeschluss vom 12. Juni 2017 ([BBl 2017 4419](https://fedlex.data.admin.ch/eli/fga/2017/1119)Art. 3, [1499](https://fedlex.data.admin.ch/eli/fga/2017/279)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
+
+### Eingliederung von Menschen mit Behinderungen und Anerkennung der italienischen Gebärdensprache
+
+#### Art. 13a
+
+[^13a-1]
+
+<sup>1</sup> Der Kanton und die Gemeinden tragen den besonderen Bedürfnissen von Menschen mit Behinderungen und von ihren Familien Rechnung.
+
+<sup>2</sup> Sie treffen die erforderlichen Massnahmen, um ihre Selbstständigkeit sicherzustellen und ihre soziale, bildungsmässige, berufliche, politische, sportliche und kulturelle Eingliederung wie auch ihre Entwicklung im Schosse der Familien zu fördern.
+
+<sup>3</sup> Im Verkehr mit dem Kanton, den Gemeinden und anderen öffentlich-rechtlichen Körperschaften und Institutionen haben Menschen mit Behinderungen das Recht, Informationen zu erhalten und in einer Form, die ihren Bedürfnissen und Fähigkeiten angepasst ist, zu kommunizieren.
+
+<sup>4</sup> Schwerhörige, Taubblinde oder Menschen mit Sprachstörungen haben das Recht, im Verkehr mit dem Kanton, den Gemeinden und anderen öffentlich-rechtlichen Körperschaften und Institutionen die italienische Gebärdensprache zu verwenden.
+
+<sup>5</sup> Die italienische Gebärdensprache wird anerkannt.
+
+[^13a-1]: Angenommen in der Volksabstimmung vom 30. Okt. 2022, in Kraft seit 1. Jan. 2023. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 6, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Sozialziele
 
@@ -1247,6 +1265,8 @@ Beamte (Bedienstete)
 
 **Begnadigung** 59<sup>o</sup>
 
+**Behinderung** 13*a*
+
 Behörden
 
 - [tab] – Auftrag an die Behörden 50
@@ -1303,6 +1323,8 @@ Diskriminierung
 
 **Einbürgerung** s. Bürgerrecht
 
+**Eingliederung** 13*a*
+
 **Ernährung** 14<sup>n</sup>
 
 **Familie** 14<sup>f</sup>
@@ -1321,6 +1343,8 @@ Garantie
 - [tab] – der Individual- uns Sozialrechte 4, 8
 - [tab] – des Stimmgeheimnisses 31
 - [tab] – prozessuale –n 10
+
+**Gebärdensprache** 13*a*
 
 Gemeinde(n)
 

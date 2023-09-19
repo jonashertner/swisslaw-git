@@ -3,11 +3,11 @@ sr: "131.229"
 title: "Constitution de la République et canton du Tessin, du 14 décembre 1997"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/5_5494_4818_4364_fga"
 language: fr
-version: 2022-09-22
+version: 2023-09-20
 adopted: 1997-12-14
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/5_5494_4818_4364_fga/20220922/fr/xml/fedlex-data-admin-ch-eli-cc-1998-5_5494_4818_4364_fga-20220922-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/5_5494_4818_4364_fga/20220922/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/5_5494_4818_4364_fga/20230920/fr/xml/fedlex-data-admin-ch-eli-cc-1998-5_5494_4818_4364_fga-20230920-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/5_5494_4818_4364_fga/20230920/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/5_5494_4818_4364_fga/20220922/fr"
 
 Traduction[^t-1]
 
-du 14 décembre 1997 (État le 22 septembre 2022)[^t-2]
+du 14 décembre 1997 (État le 20 septembre 2023)[^t-2]
 
 [^t-1]: Le texte original est publié, sous le même chiffre, dans l’édition italienne du présent recueil.
 [^t-2]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
@@ -25,13 +25,13 @@ du 14 décembre 1997 (État le 22 septembre 2022)[^t-2]
 
 Le peuple tessinois,
 
-dans le but de garantir la coexistence pacifique dans le respect de la dignité humaine, des libertés fondamentales et de la justice sociale;
+dans le but de garantir la coexistence pacifique dans le respect de la dignité humaine, des libertés fondamentales et de la justice sociale,
 
-convaincu que ces idéaux se réalisent dans une société démocratique de citoyens qui recherchent le bien commun;
+convaincu que ces idéaux se réalisent dans une société démocratique de citoyens qui recherchent le bien commun,
 
-fidèle à l’engagement historique de représenter la culture italienne dans la Confédération suisse;
+fidèle à l’engagement historique de représenter la culture italienne dans la Confédération suisse,
 
-conscient que la responsabilité à l’égard des générations futures implique une activité humaine qui ménage la nature et un usage des connaissances humaines qui respecte l’homme et son environnement;
+conscient que la responsabilité à l’égard des générations futures implique une activité humaine qui ménage la nature et un usage des connaissances humaines qui respecte l’homme et son environnement,
 
 se donne la constitution suivante
 
@@ -200,6 +200,24 @@ Toute personne est tenue d’accomplir les devoirs prévus par la constitution e
 En l’absence d’un salaire minimal garanti par une convention collective de travail de portée obligatoire ou prévoyant un salaire minimal obligatoire, le salaire minimal est fixé par le Conseil d’État, sous la forme d’un pourcentage du salaire médian national pour l’activité et la branche économique concernées.[^13-1]
 
 [^13-1]: Accepté en [votation populaire du 14 juin 2015](http://www.admin.ch/ch/f/pore/va/20150614/index.html), en vigueur depuis le 1<sup>er</sup> sept. 2015. Garantie de l’Ass. féd. du 12 juin 2017 ([FF 2017 4141](https://fedlex.data.admin.ch/eli/fga/2017/1119)art. 3, [1383](https://fedlex.data.admin.ch/eli/fga/2017/279)). Voir disp. trans. de cette mod. à la fin du texte.
+
+### Intégration des personnes handicapées et reconnaissance de la langue des signes italienne
+
+#### Art. 13a
+
+[^13a-1]
+
+<sup>1</sup> Le canton et les communes tiennent compte des besoins spécifiques des personnes handicapées et de leurs familles.
+
+<sup>2</sup> Ils adoptent les mesures nécessaires pour assurer leur autonomie et pour favoriser leur intégration aux niveaux de la société, de la formation, du monde professionnel, de la politique, du sport et de la culture, ainsi que leur développement au sein de la famille.
+
+<sup>3</sup> Dans les relations avec le canton, les communes et les autres corporations et institutions de droit public, les personnes handicapées ont le droit d’obtenir des informations et de communiquer sous une forme adaptée à leurs besoins et capacités.
+
+<sup>4</sup> Les personnes malentendantes, sourdes-aveugles ou ayant des troubles du langage ont le droit d’utiliser la langue des signes italienne dans les relations avec les administrations et les services du canton, des communes et d’autres corporations et institutions de droit public.
+
+<sup>5</sup> La langue des signes italienne est reconnue.
+
+[^13a-1]: Accepté en votation populaire du 30 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 6, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Buts sociaux
 
@@ -1435,6 +1453,8 @@ Garantie
 - [tab] – siège 5
 - [tab] – tâches et rôle lors d’une initiative 37–41
 
+**Handicapés** 13*a*
+
 **Impôts** 59<sup>d</sup>
 
 Incompatibilité/s
@@ -1484,6 +1504,8 @@ Juges
 Cf. aussi Éligibilité, Incompatibilité,
 
 Prêteurs, Tribunaux
+
+**Langue des signes** 13*a*
 
 **Liberté/s**
 
