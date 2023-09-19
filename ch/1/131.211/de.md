@@ -3,18 +3,18 @@ sr: "131.211"
 title: "Verfassung des Kantons Zürich, vom 27. Februar 2005"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/14_fga"
 language: de
-version: 2023-03-06
+version: 2023-09-20
 adopted: 2005-02-27
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/14_fga/20230306/de/xml/fedlex-data-admin-ch-eli-cc-2006-14_fga-20230306-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/14_fga/20230306/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/14_fga/20230920/de/xml/fedlex-data-admin-ch-eli-cc-2006-14_fga-20230920-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/14_fga/20230920/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verfassung des Kantons Zürich
 
-vom 27. Februar 2005 (Stand am 6. März 2023)[^t-1]
+vom 27. Februar 2005 (Stand am 20. September 2023)[^t-1]
 
 [^t-1]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
 
@@ -182,7 +182,9 @@ Jede Person hat das Recht auf Zugang zu amtlichen Dokumenten, soweit nicht über
 
 <sup>1</sup> Die Sozialziele der Bundesverfassung[^19-1] sind auch Sozialziele des Kantons und der Gemeinden.
 
-<sup>2</sup> Kanton und Gemeinden setzen sich im Weiteren dafür ein, dass
+<sup>2</sup>
+
+Kanton und Gemeinden setzen sich im Weiteren dafür ein, dass:
 
 - a. Eltern vor und nach der Geburt eines Kindes nicht in eine Notlage geraten;
 - b. Voraussetzungen für die Betreuung von Kindern innerhalb und ausserhalb der Familie geschaffen werden;
@@ -1165,6 +1167,18 @@ Kanton und Gemeinden sorgen für eine geordnete Besiedlung, die zweckmässige un
 
 <sup>3</sup> Er sorgt für eine sichere und wirtschaftliche Elektrizitätsversorgung.
 
+### Stoffkreisläufe
+
+#### Art. 106a
+
+[^106a-1]
+
+<sup>1</sup> Kanton und Gemeinden schaffen günstige Rahmenbedingungen für einen schonenden Umgang mit Rohstoffen, Materialien und Gütern sowie für die Schliessung von Stoffkreisläufen.
+
+<sup>2</sup> Sie treffen Massnahmen zur Vermeidung von Abfällen sowie zur Wiederverwendung und stofflichen Verwertung von Materialien und Gütern.
+
+[^106a-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2022](http://www.admin.ch/ch/d/pore/va/20220925/index.html), in Kraft seit 1. April 2023. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 1, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+
 ### Wirtschaft und Arbeit
 
 #### Art. 107
@@ -1482,7 +1496,9 @@ Erlasse und Anordnungen, die in einem nach der früheren Verfassung gültigen Ve
 
 #### Art. 138
 
-<sup>1</sup> Die Behörden treffen innert fünf Jahren nach Inkrafttreten dieser Verfassung die Vorkehrungen, um
+<sup>1</sup>
+
+Die Behörden treffen innert fünf Jahren nach Inkrafttreten dieser Verfassung die Vorkehrungen, um:
 
 - a. die Grundrechte gemäss den Artikel 11 Absatz 4, 14 und 17 zu gewährleisten;
 - b. das Rechtspflegeverfahren an die Vorgaben gemäss den Artikel 76, 77 und 79 Absatz 2 anzupassen.
@@ -1553,6 +1569,8 @@ Die Zahlen verweisen auf die Artikel der Verfassung
 - – gesetzliche Grundlage 38 <sup>1d</sup>
 - – Gesamtbelastung mit 125 <sup>3a</sup>
 - – Grundsätze 125, 126
+
+**Abfälle** s. Stoffkreisläufe
 
 **Abstimmung** 32, 33, 71 <sup>1b</sup>, 144
 
@@ -1896,7 +1914,7 @@ Kirchen
 - – Wahl der Pfarrer 130 <sup>3d</sup>
 - – weitere Religionsgemeinschaften 131
 
-**K****lima** 102*a*
+**Klima** 102*a*
 
 **Kommissionen**
 
@@ -2016,6 +2034,8 @@ Revision der Kantonsverfassung
 
 **Richter**, Amtsdauer der 41 <sup>2</sup>
 
+**Rohstoffe** s. Stoffkreisläufe
+
 **Schule**
 
 - – Bildung s. Bildung
@@ -2098,6 +2118,8 @@ Stimmrecht 22
 
 - – Stimmende
   - – Zustimmung für Änderung im Bestand der Gemeinden 84 <sup>1, 2</sup>
+
+Stoffkreisläufe 106*a*
 
 Strafrechtspflege 76
 

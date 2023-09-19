@@ -3,11 +3,11 @@ sr: "131.211"
 title: "Constitution du canton de Zurich, du 27 février 2005"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/14_fga"
 language: fr
-version: 2023-03-06
+version: 2023-09-20
 adopted: 2005-02-27
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/14_fga/20230306/fr/xml/fedlex-data-admin-ch-eli-cc-2006-14_fga-20230306-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/14_fga/20230306/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/14_fga/20230920/fr/xml/fedlex-data-admin-ch-eli-cc-2006-14_fga-20230920-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/14_fga/20230920/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/14_fga/20230306/fr"
 
 Traduction[^t-1]
 
-du 27 février 2005 (État le 6 mars 2023)[^t-2]
+du 27 février 2005 (État le 20 septembre 2023)[^t-2]
 
 [^t-1]: Le texte original est publié, sous le même chiffre, dans l’édition allemande du présent recueil.
 [^t-2]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
@@ -1168,6 +1168,18 @@ L’État et les communes veillent à une occupation rationnelle du territoire, 
 
 <sup>3</sup> Il veille à ce que l’approvisionnement en électricité soit sûr et économiquement optimal.
 
+### Cycles des matières
+
+#### Art. 106a
+
+[^106a-1]
+
+<sup>1</sup> Le canton et les communes créent des conditions favorables à une utilisation parcimonieuse des matières premières, des matériaux et des produits et à la fermeture des cycles des matières.
+
+<sup>2</sup> Ils prennent des mesures pour éviter les déchets et pour réutiliser et recycler les matériaux et les produits.
+
+[^106a-1]: Accepté en [votation populaire du 25 sept. 2022](http://www.admin.ch/ch/f/pore/va/20220925/index.html), en vigueur depuis le 1<sup>er</sup> avr. 2023. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 1, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+
 ### Économie et travail
 
 #### Art. 107
@@ -1717,6 +1729,8 @@ Contre-projet
 **Contrôle des normes** 79
 
 **Cour suprême** 74 <sup>2</sup>
+
+**Cycle des matières** 106*a*
 
 **Culture** 120
 

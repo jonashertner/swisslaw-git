@@ -3,11 +3,11 @@ sr: "131.211"
 title: "Costituzione del Cantone di Zurigo, del 27 febbraio 2005"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/14_fga"
 language: it
-version: 2023-03-06
+version: 2023-09-20
 adopted: 2005-02-27
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/14_fga/20230306/it/xml/fedlex-data-admin-ch-eli-cc-2006-14_fga-20230306-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/14_fga/20230306/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/14_fga/20230920/it/xml/fedlex-data-admin-ch-eli-cc-2006-14_fga-20230920-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/14_fga/20230920/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/14_fga/20230306/it"
 
 Traduzione[^t-1]
 
-del 27 febbraio 2005 (Stato 6 marzo 2023)[^t-2]
+del 27 febbraio 2005 (Stato 20 settembre 2023)[^t-2]
 
 [^t-1]: Il testo nella lingua originale è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
 [^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell’ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
@@ -1170,6 +1170,18 @@ Il Cantone e i Comuni provvedono a un’occupazione razionale del territorio, a 
 
 <sup>3</sup> Il Cantone provvede altresì affinché l’approvvigionamento elettrico sia sicuro ed economico.
 
+### Cicli dei materiali
+
+#### Art. 106a
+
+[^106a-1]
+
+<sup>1</sup> Il Cantone e i Comuni creano condizioni favorevoli a un’utilizzazione parsimoniosa delle materie prime, dei materiali e dei prodotti nonché alla chiusura dei cicli dei materiali.
+
+<sup>2</sup> Essi prendono provvedimenti per evitare la produzione di rifiuti e per riutilizzare e riciclare i materiali e i prodotti.
+
+[^106a-1]: Accettato nella [votazione popolare del 27 feb. 2005](http://www.admin.ch/ch/i/pore/va/20050227/index.html), in vigore dal 1° apr. 2023. Garanzia dell’AF del 20 set. 2023 ([FF 2023 1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)art. 1 [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+
 ### Economia e lavoro
 
 #### Art. 107
@@ -1779,6 +1791,8 @@ Chiesa (e)
 
 - [tab] – ed altre comunità religiose 130
 - [tab] – riconoscimento come enti autonomi di diritto pubblico 130
+
+Cicli dei materiali 106*a*
 
 Cittadinanza 20 ss
 
@@ -2397,6 +2411,8 @@ Istruzione
 
 - [tab] – sistema 62
 
+Materie prime 106*a*
+
 Municipio
 
 - [tab] – organi dei Comuni 87
@@ -2575,6 +2591,8 @@ Revisione della Costituzione
 
 - [tab] – competenze normativa del Gran Consiglio 54
 - [tab] – della Costituzione cantonale 132
+
+Rifiuti 106*a*
 
 Scuola (e)
 
