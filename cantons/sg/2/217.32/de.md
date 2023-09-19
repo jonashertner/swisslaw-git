@@ -3,20 +3,20 @@ canton: SG
 number: "217.32"
 title: Personalreglement der Universität St.Gallen (HSG)
 language: de
-version: 2022-05-01
-valid_until: 2023-09-19
-version_adopted: 2022-03-07
+version: 2023-09-20
+valid_until: 2024-12-31
+version_adopted: 2024-03-01
 adopted: 2014-05-05
 in_force: 2014-10-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/217.32"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3345/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3645/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Personalreglement der Universität St.Gallen (HSG)
 
-vom 05.05.2014 (Stand 01.05.2022)
+vom 05.05.2014 (Stand 20.09.2023)
 
 Der Universitätsrat der Universität St.Gallen
 
@@ -194,11 +194,27 @@ nachfolgendes Personalreglement:[^ingress-4]
 
 **Anspruch auf Lohn, Zulagen und weitere Entschädigungen**
 
-<sup>1</sup> Der Anspruch auf Lohn, Zulagen und weitere Entschädigungen richtet sich nach der Gehaltsordnung für den Lehrkörper und das Verwaltungspersonal der Hochschule St.Gallen für Wirtschafts- und Sozialwissenschaften vom 12. Oktober 1971[^15-1].
+<sup>1</sup> Der Anspruch auf Lohn, Zulagen und weitere Entschädigungen der Dozierenden, der Doktorierenden, Assistierenden, der wissenschaftlichen Mitarbeiterinnen und Mitarbeiter, der SNF-finanzierten Mitarbeiterinnen und Mitarbeiter sowie der Lehrbeauftragten richtet sich nach diesem Erlass und dem zugehörigen Anhang.
+
+<sup>1<sup>bis</sup></sup> Die Löhne und weiteren Entschädigungen nach dem Anhang dieses Erlasses werden bei einer allgemeinen Änderung der Löhne für das Staatspersonal entsprechend angepasst. Die Staatskanzlei in Absprache mit dem Bildungsdepartement wird ermächtigt, den Anhang dieses Erlasses in diesem Sinn nachzuführen.
+
+<sup>1<sup>ter</sup></sup> Der Anspruch auf Lohn, Zulagen und weitere Entschädigungen für die Mitarbeiterinnen und Mitarbeiter der Universitätsverwaltung richtet sich nach dem Personalrecht des Kantons, soweit dieser Erlass nichts anderes vorsieht.
+
+<sup>1<sup>quater</sup></sup> Die Entschädigung der Rektorin oder des Rektors wird durch den Universitätsrat festgelegt. Sie bedarf der Genehmigung durch die Regierung.
+
+<sup>1quinqies</sup> Die Prorektorinnen oder Prorektoren beziehen eine Funktionszulage. Sie wird durch den Universitätsrat festgelegt.
+
+<sup>1<sup>sexies</sup></sup> Für weitere Funktionen der Universitätsverwaltung kann der Universitätsrat eine Zulage bewilligen.
 
 <sup>2</sup> Die Organisationseinheiten können im Rahmen des Budgets der Universität bzw. der Institute weitere Zulagen und Entschädigungen ausrichten. Der Universitätsrat erlässt unter Beachtung von Art. 8 Abs. 2 dieses Erlasses Vorschriften über deren Rahmenbedingungen und Voraussetzungen.
 
-[^15-1]: sGS [217.31](https://www.gesetzessammlung.sg.ch/data/217.31/de).
+#### Art. 15a
+
+**Institutsleitendenzulage**
+
+<sup>1</sup> Für Direktorinnen oder Direktoren der Institute kann der Universitätsrat eine Institutsleitendenzulage im Sinne einer Funktionszulage bewilligen. Die Institutsleitendenzulage darf 25 Prozent des dem Beschäftigungsgrad entsprechenden Grundlohns nicht überschreiten.
+
+<sup>2</sup> Der Universitätsrat erlässt ausführende Vorschriften zur Institutsleitendenzulage.
 
 #### Art. 16
 
@@ -535,5 +551,13 @@ nachfolgendes Personalreglement:[^ingress-4]
 <sup>1</sup> Die Bereinigung der Zeitguthaben nach Art. 43 der Personalverordnung vom 13. Dezember 2011[^52-1] erfolgt innerhalb von 24 Monaten nach Vollzugsbeginn dieses Erlasses.
 
 [^52-1]: sGS [143.11](https://www.gesetzessammlung.sg.ch/data/143.11/de).
+
+#### Art. 53
+
+**Übergangsbestimmung des II. Nachtrags vom 1. März 2024**
+
+<sup>1</sup> Für die Zeit vom 20. September 2023 bis 31. Dezember 2023 richten sich die Ansprüche auf Lohn, Zulagen und weitere Entschädigungen sachgemäss nach der Gehaltsordnung für den Lehrkörper und das Verwaltungspersonal der Hochschule St.Gallen für Wirtschafts- und Sozialwissenschaften vom 12. Oktober 1971[^53-1] und den zugehörigen Ausführungsbestimmungen.
+
+[^53-1]: sGS [217.31](https://www.gesetzessammlung.sg.ch/data/217.31/de).
 
 nGS -
