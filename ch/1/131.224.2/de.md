@@ -3,18 +3,18 @@ sr: "131.224.2"
 title: "Verfassung für den Eidgenössischen Stand Appenzell I. Rh., vom 24. November 1872"
 eli: "https://fedlex.data.admin.ch/eli/cc/1872/3_842_832_842_fga"
 language: de
-version: 2022-09-22
+version: 2023-09-20
 adopted: 1872-11-24
 in_force: 1873-04-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1872/3_842_832_842_fga/20220922/de/xml/fedlex-data-admin-ch-eli-cc-1872-3_842_832_842_fga-20220922-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1872/3_842_832_842_fga/20220922/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1872/3_842_832_842_fga/20230920/de/xml/fedlex-data-admin-ch-eli-cc-1872-3_842_832_842_fga-20230920-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1872/3_842_832_842_fga/20230920/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verfassung für den Eidgenössischen Stand Appenzell I. Rh.
 
-vom 24. Wintermonat 1872 (Stand am 22. September 2022)[^t-1]
+vom 24. Wintermonat 1872 (Stand am 20. September 2023)[^t-1]
 
 [^t-1]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
 
@@ -196,15 +196,15 @@ Das Niederlassungswesen wird im Sinne der Bundesbestimmungen behandelt.
 
 #### Art. 15
 
-<sup>1</sup> Der eidgenössische Stand Appenzell Innerrhoden teilt sich in sechs Bezirke:
+<sup>1</sup>
 
-<table>
-<tr><td>Appenzell,</td><td>Schlatt-Haslen,</td></tr>
-<tr><td>Schwende,</td><td>Gonten,</td></tr>
-<tr><td>Rüte,</td><td>Oberegg.</td></tr>
-</table>
+Der eidgenössische Stand Appenzell Innerrhoden teilt sich in fünf Bezirke:
+
+- [tab] Appenzell, Schwende-Rüte, Schlatt-Haslen, Gonten, Oberegg.[^15-1]
 
 <sup>2</sup> Appenzell ist der Hauptort des Kantons und als solcher Sitz der Kantonsbehörden.
+
+[^15-1]: Angenommen an der Landsgemeinde vom 24. April 2022, in Kraft seit 1. Mai 2022. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 3, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ## III. Abschnitt: Öffentliche Rechte und Pflichten des Einzelnen
 
@@ -304,13 +304,14 @@ Die ordentliche Landsgemeinde wählt in den Jahren der Gesamterneuerung des Nati
 
 <sup>1</sup> Der Grosse Rat hat 50 Sitze.
 
-<sup>2</sup> Jedem der sechs Bezirke werden zunächst vier Sitze zugewiesen, unter jeweiliger Anrechnung von 4/50 der Gesamteinwohnerzahl. Die restlichen 26 Sitze werden proportional zu den Restbevölkerungszahlen zugewiesen, unter Abrundung von Bruchteilen. Restmandate werden den Bezirken der Grösse der abgerundeten Bruchteile nach zugewiesen, bei Gleichheit entscheidet das Los.
+<sup>2</sup> Jedem Bezirk werden zunächst vier Sitze zugewiesen, unter jeweiliger Anrechnung von 4/50 der Gesamteinwohnerzahl. Die restlichen 30 Sitze werden proportional zu den Restbevölkerungszahlen zugewiesen, unter Abrundung von Bruchteilen. Restmandate werden den Bezirken der Grösse der abgerundeten Bruchteile nach zugewiesen, bei Gleichheit entscheidet das Los.[^22-2]
 
 <sup>3</sup> Grundlage für die Zuweisung bildet die Bevölkerungszahl gemäss kantonaler Einwohnerkontrolle am letzten Tag des Vorjahres zum Erneuerungswahljahr.
 
 <sup>4</sup> Die Standeskommission weist den Bezirken die Sitze zu. Über Anstände entscheidet der Grosse Rat endgültig.
 
 [^22-1]: Angenommen an der Landsgemeinde vom 1. Mai 2011, in Kraft seit 1. Mai 2011. Gewährleistungsbeschluss vom 11. März 2013 ([BBl 2013 2617](https://fedlex.data.admin.ch/eli/fga/2013/456)Art. 1 Ziff. 2; [2012 8513](https://fedlex.data.admin.ch/eli/fga/2012/1505)).
+[^22-2]: Angenommen an der Landsgemeinde vom 24. April 2022, in Kraft seit 1. Mai 2022. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 3, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)). Siehe auch Art. 4 der UeB am Schluss des Textes.
 
 #### Art. 23
 
@@ -693,6 +694,18 @@ Den Kirchen- und Schulräten steht die Leitung der ihnen anheim gestellten Verwa
 
 [^u1-3-1]: Angenommen an der Landsgemeinde vom 29. April 2012. Gewährleistungsbeschluss vom 11. März 2013 ([BBl 2013 2619](https://fedlex.data.admin.ch/eli/fga/2013/457)Art. 1 Ziff. 2 [195](https://fedlex.data.admin.ch/eli/fga/2013/6)). Nach Vollzug aufgehoben durch Beschluss der Standeskommission vom 18. Aug. 2014.
 
+#### Art. 4
+
+[^u1-4-1]
+
+<sup>1</sup> Die Neuregelung der Sitzverteilung für den Grossen Rat nach Artikel 22 Absatz 2 gilt erst ab den Neuwahlen im Jahr 2023.
+
+<sup>2</sup> Bis zu den Neuwahlen 2023 behalten alle Bezirke ihre bisherigen Grossratssitze, der Bezirk Schwende-Rüte übernimmt die Sitze der Bezirke Schwende und Rüte.
+
+<sup>3</sup> Die Grossratsmandate für die Amtsperiode 2019 bis 2023 gelten bis zu den Neuwahlen im Jahr 2023.
+
+[^u1-4-1]: Angenommen in der [Volksabstimmung vom 24. April 2022](http://www.admin.ch/ch/d/pore/va/20220424/index.html), in Kraft seit 1. Mai 2022. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 3, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+
 ## Sachregister
 
 Die Zahlen verweisen auf die Artikel und Artikelteile der Verfassung
@@ -956,6 +969,7 @@ Wahlen
   - – Präsident 29<sup>bis</sup>
   - – Wahl 33<sup>3</sup>
 
+- – Sitze im Grossen Rat 22, UeB 4
 - – Bezirksrat 36
 
 - – Bundesglied der schweizerischen Eidgenossenschaft 1

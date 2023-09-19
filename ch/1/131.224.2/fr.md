@@ -3,11 +3,11 @@ sr: "131.224.2"
 title: "Constitution du canton d'Appenzell Rhodes-Intérieures, du 24 novembre 1872"
 eli: "https://fedlex.data.admin.ch/eli/cc/1872/3_842_832_842_fga"
 language: fr
-version: 2022-09-22
+version: 2023-09-20
 adopted: 1872-11-24
 in_force: 1873-04-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1872/3_842_832_842_fga/20220922/fr/xml/fedlex-data-admin-ch-eli-cc-1872-3_842_832_842_fga-20220922-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1872/3_842_832_842_fga/20220922/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1872/3_842_832_842_fga/20230920/fr/xml/fedlex-data-admin-ch-eli-cc-1872-3_842_832_842_fga-20230920-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1872/3_842_832_842_fga/20230920/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1872/3_842_832_842_fga/20220922/fr"
 
 Traduction[^t-1]
 
-du 24 novembre 1872 (État le 22 septembre 2022)[^t-2]
+du 24 novembre 1872 (État le 20 septembre 2023)[^t-2]
 
 [^t-1]: Le texte en langue originale est publié, sous le même chiffre, dans l’édition allemande du présent recueil.
 [^t-2]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
@@ -47,7 +47,7 @@ du 24 novembre 1872 (État le 22 septembre 2022)[^t-2]
 
 [^3-1]
 
-L’Étaglise catholique romaine et l’Étaglise évangélique réformée sont reconnues corporations de droit public. Elles règlent de manière indépendante leurs affaires internes.
+L’Église catholique romaine et l’Église évangélique réformée sont reconnues corporations de droit public. Elles règlent de manière indépendante leurs affaires internes.
 
 [^3-1]: Accepté par la *Landsgemeinde* du 27 avr. 2003, en vigueur depuis le 27 avr. 2003. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 3, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 
@@ -90,7 +90,7 @@ L’Étaglise catholique romaine et l’Étaglise évangélique réformée sont 
 
 [^7-1]
 
-Tous les habitants du canton ainsi que les communautés et les cercles ont le droit de présenter leurs voeux et revendications aux autorités locales et cantonales.
+Tous les habitants du canton ainsi que les communautés et les cercles ont le droit de présenter leurs vœux et revendications aux autorités locales et cantonales.
 
 [^7-1]: Accepté par la *Landsgemeinde* du 25 avr. 1982, en vigueur depuis le 25 avr. 1982. Garantie de l’Ass. féd. du 16 déc. 1982 ([FF 1982 III 1087](https://fedlex.data.admin.ch/eli/fga/1982/3__1087_)art. 1 ch. 3 725).
 
@@ -199,15 +199,15 @@ Les conditions de l’établissement sont réglées d’après les dispositions 
 
 #### Art. 15
 
-<sup>1</sup> Le canton d’Appenzell Rhodes-Intérieures se divise en six districts:
+<sup>1</sup>
 
-Appenzell, Schlatt-Haslen,
+Le canton d’Appenzell Rhodes-Intérieures se divise en cinq districts:
 
-Schwende, Gonten,
-
-Rüte, Oberegg.
+- [tab] Appenzell, Schwende-Rüte, Schlatt-Haslen, Gonten, Oberegg.[^15-1]
 
 <sup>2</sup> Appenzell est le chef-lieu du canton et, en tant que tel, le siège des autorités cantonales.
+
+[^15-1]: Accepté par la *Landsgemeinde* du 24 avr. 2022, en vigueur depuis le 1<sup>er</sup> mai 2022. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 3, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ## Section III Droits publics et obligations de l’individu
 
@@ -307,13 +307,14 @@ Les dispositions suivantes s’appliquent encore à la *Landsgemeinde*:
 
 <sup>1</sup> Le Grand Conseil compte 50 sièges.
 
-<sup>2</sup> Chacun des six districts reçoit d’abord quatre sièges, qui sont imputés sur les 4/50<sup>e</sup> du nombre des habitants du district. Les 26 autres sièges sont attribués proportionnellement au nombre d’habitants restants, les fractions étant arrondies à l’unité inférieure. Les mandats qui subsistent sont attribués aux districts en fonction de la valeur des fractions arrondies; en cas d’égalité, le sort décide.
+<sup>2</sup> Chaque district reçoit d’abord quatre sièges, qui sont imputés sur les 4/50<sup>e</sup> du nombre des habitants du district. Les 30 autres sièges sont attribués proportionnellement au nombre d’habitants restants, les fractions étant arrondies à l’unité inférieure. Les mandats qui subsistent sont attribués aux districts en fonction de la valeur des fractions arrondies; en cas d’égalité, le sort décide.[^22-2]
 
 <sup>3</sup> Les sièges sont attribués sur la base du nombre d’habitants recensés par le contrôle cantonal des habitants le dernier jour de l’année précédant le renouvellement intégral du Grand Conseil.
 
 <sup>4</sup> Le Conseil d’État attribue les sièges aux districts. Le Grand Conseil tranche en cas de contestation.
 
 [^22-1]: Accepté par la *Landsgemeinde* du 1<sup>er</sup> mai 2011, en vigueur depuis le 1<sup>er</sup> mai 2011. Garantie de l’Ass. féd. du 11 mars 2013 ([FF 2013 2335](https://fedlex.data.admin.ch/eli/fga/2013/456)art. 1 ch. 2, [2012 7877](https://fedlex.data.admin.ch/eli/fga/2012/1505)).
+[^22-2]: Accepté par la *Landsgemeinde* du 24 avr. 2022, en vigueur depuis le 1<sup>er</sup> mai 2022. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 3, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)). Voir aussi l’art. 4 des disp. trans. à la fin du texte.
 
 #### Art. 23
 
@@ -665,7 +666,7 @@ Les conseils de paroisse et les commissions scolaires dirigent les administratio
 
 <sup>3</sup> Les dispositions de l’art. 7<sup>bis</sup> s’appliquent par analogie aux initiatives ayant une révision partielle pour objectif.
 
-<sup>4</sup> Si une révision totale est demandée par le Grand Conseil ou par voie d’initiative, la *Landsgemeinde* doit d’abord décider s’il y a lieu ou non de procéder à une telle revision. Si la *Landsgemeinde* décide la révision totale, le Grand Conseil élabore une nouvelle Constitution et la soumet au plus tard à la troisième *Landsgemeinde* ordinaire suivant la votation préalable. Ce délai peut être prolongé de façon appropriée lors de la deuxième *Landsgemeinde* ordinaire suivant la votation préalable.
+<sup>4</sup> Si une révision totale est demandée par le Grand Conseil ou par voie d’initiative, la *Landsgemeinde* doit d’abord décider s’il y a lieu ou non de procéder à une telle révision. Si la *Landsgemeinde* décide la révision totale, le Grand Conseil élabore une nouvelle Constitution et la soumet au plus tard à la troisième *Landsgemeinde* ordinaire suivant la votation préalable. Ce délai peut être prolongé de façon appropriée lors de la deuxième *Landsgemeinde* ordinaire suivant la votation préalable.
 
 <sup>5</sup> Les révisions totales et partielles de la Constitution doivent être traitées par le Grand Conseil en deux lectures.
 
@@ -695,6 +696,18 @@ Les conseils de paroisse et les commissions scolaires dirigent les administratio
 [^u1-3-1]
 
 [^u1-3-1]: Accepté par la *Landsgemeinde* du 29 avr. 2012. Garantie de l’Ass. féd. du 11 mars 2013 ([FF 2013 2337](https://fedlex.data.admin.ch/eli/fga/2013/457)art. 1 ch. 3, [193](https://fedlex.data.admin.ch/eli/fga/2013/6)). Abrogé par la D du Conseil d’Etat du 18 août 2014, après exécution.
+
+#### Art. 4
+
+[^u1-4-1]
+
+<sup>1</sup> La nouvelle procédure d’attribution des sièges au Grand Conseil selon l’art. 22, al. 2, ne s’applique qu’à partir des élections de 2023.
+
+<sup>2</sup> Jusqu’aux élections de 2023, tous les districts gardent leurs sièges actuels au Grand Conseil; le district de Schwende-Rüte reprend ceux des districts de Schwende et de Rüte.
+
+<sup>3</sup> Les mandats au Grand Conseil pour la législature 2019 à 2023 subsistent jusqu’aux élections de 2023.
+
+[^u1-4-1]: Accepté par la *Landsgemeinde* du 24 avr. 2022, en vigueur depuis le 1<sup>er</sup> mai 2022. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 3, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ## Index des matières
 
@@ -736,7 +749,7 @@ Communes 4, 15, 19, 24
 
 – frontières des 27<sup>2</sup>
 
-cf. aussi Étacoles, Étaglises
+cf. aussi Écoles, Églises
 
 Comptes 11<sup>1</sup>
 
@@ -828,17 +841,17 @@ Domicile
 
 Droits
 
-Étacoles 12, 46
+Écoles 12, 46
 
 – commission scolaire 18, 46, 47
 
 – communes scolaires 12, 18, 46
 
-Étagalité
+Égalité
 
 – des citoyens et devant la loi 2
 
-Étaglise/s 3, 5<sup>1</sup>, 46, 47
+Église/s 3, 5<sup>1</sup>, 46, 47
 
 – élection 18<sup>1</sup>,
 
@@ -848,7 +861,7 @@ Droits
 
 cf. aussi Paroisse
 
-Étalection/s 1
+Élection/s 1
 
 – participation 1
 
@@ -868,11 +881,11 @@ cf. aussi Paroisse
 
 – fédérales 33<sup>4</sup>
 
-Étaligibilité 16<sup>1bis</sup>, 20<sup>2</sup>, 35, 38
+Éligibilité 16<sup>1bis</sup>, 20<sup>2</sup>, 35, 38
 
-Étamoluments 29<sup>1</sup>
+Émoluments 29<sup>1</sup>
 
-Enseignement, cf. Étacoles
+Enseignement, cf. Écoles
 
 État
 
@@ -928,7 +941,7 @@ Grand Conseil 22–29<sup>bis</sup>
 
 – membres du 20<sup>2</sup>
 
-– élections du 22
+– élections du 22, 4 disp. trans.
 
 – élections par le 18, 29
 
@@ -1158,7 +1171,7 @@ Vote/Votations
 
 - [tab] – instance de recours contre les décisions du droit des assurances sociales 40<sup>2</sup>
 
-- [tab] – voeux et revendications présentés aux 7
+- [tab] – vœux et revendications présentés aux 7
 - [tab] – surveillance des 10, 29<sup>1</sup>
 - [tab] – siège des 15
 - [tab] – autorité de recours 18<sup>3</sup>
@@ -1174,7 +1187,7 @@ Vote/Votations
 
 - [tab] – coopératives d’exploitation 10<sup>4</sup>, 40<sup>7</sup>
 
-- [tab] – ouvert au publique 11
+- [tab] – ouvert au public 11
 - [tab] – fixé par le Grand Conseil 29<sup>4</sup>
 
 - [tab] – monopole 2<sup>3</sup>
@@ -1205,7 +1218,7 @@ Vote/Votations
 - [tab] – fédéral 2, 7<sup>3</sup>, 8, 14
 - [tab] – corporations de droit public 3
 - [tab] – réels immobiliers 4<sup>2</sup>
-- [tab] – de présenter des voeux et revendications 7
+- [tab] – de présenter des vœux et revendications 7
 - [tab] – d’initiative 7<sup>bis.7</sup>
 - [tab] – de vote 7<sup>2</sup>, 16, 17, 33<sup>1</sup>, 46<sup>1</sup>,
 - [tab] – droit de regard et d’intervention du canton 10
@@ -1256,5 +1269,5 @@ Vote/Votations
 - [tab] – droit de vote 7, 16, 17, 33, 46
 - [tab] – soumettre au vote de la *Landsgemeinde* 7
 - [tab] – secret au Grand Conseil 7<sup>ter</sup>
-- [tab] – objets de vote à la *Landsgemeinde* extraor dinaire 21
+- [tab] – objets de vote à la *Landsgemeinde* extraordinaire 21
 - [tab]

@@ -3,11 +3,11 @@ sr: "131.224.2"
 title: "Costituzione del Cantone di Appenzello Interno, del 24 novembre 1872"
 eli: "https://fedlex.data.admin.ch/eli/cc/1872/3_842_832_842_fga"
 language: it
-version: 2022-09-22
+version: 2023-09-20
 adopted: 1872-11-24
 in_force: 1873-04-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1872/3_842_832_842_fga/20220922/it/xml/fedlex-data-admin-ch-eli-cc-1872-3_842_832_842_fga-20220922-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1872/3_842_832_842_fga/20220922/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1872/3_842_832_842_fga/20230920/it/xml/fedlex-data-admin-ch-eli-cc-1872-3_842_832_842_fga-20230920-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1872/3_842_832_842_fga/20230920/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1872/3_842_832_842_fga/20220922/it"
 
 Traduzione[^t-1]
 
-del 24 novembre 1872 (Stato 22 settembre 2022)[^t-2]
+del 24 novembre 1872 (Stato 20 settembre 2023)[^t-2]
 
 [^t-1]: Il testo nella lingua originale è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
 [^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell’ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
@@ -199,15 +199,15 @@ Le questioni inerenti al domicilio sono trattate ai sensi di quanto disposto dal
 
 #### Art. 15
 
-<sup>1</sup> Il Cantone di Appenzello Interno è suddiviso in sei Distretti:
+<sup>1</sup>
 
-Appenzello, Schlatt-Haslen,
+Il Cantone di Appenzello Interno è suddiviso in cinque Distretti:
 
-Schwende, Gonten,
-
-Rüte, Oberegg.
+- [tab] Appenzello, Gonten, Schwende-Rüte, Schlatt-Haslen, Oberegg.[^15-1]
 
 <sup>2</sup> Appenzello è la capitale del Cantone e, in quanto tale, sede delle autorità cantonali.
+
+[^15-1]: Accettato nella Landsgemeinde del 24 apr. 2022, in vigore dal 1° mag. 2022. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 3, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ## Sezione III: Diritti pubblici e doveri individuali
 
@@ -307,13 +307,14 @@ Alla Landsgemeinde si applicano per altro le seguenti disposizioni:
 
 <sup>1</sup> Il Gran Consiglio conta 50 seggi.
 
-<sup>2</sup> A ciascuno dei sei Distretti sono dapprima attribuiti quattro seggi, che sono loro computati in ragione di 4/50 del numero complessivo di abitanti. I restanti 26 seggi sono attribuiti proporzionalmente al numero di abitanti rimanenti, arrotondando le frazioni. I seggi residui sono attribuiti in funzione dell’entità delle frazioni arrotondate; in caso di parità decide la sorte.
+<sup>2</sup> A ciascun Distretto sono dapprima attribuiti quattro seggi, che sono loro computati in ragione di 4/50 del numero complessivo di abitanti. I restanti 30 seggi sono attribuiti proporzionalmente al numero di abitanti rimanenti, arrotondando le frazioni. I seggi residui sono attribuiti in funzione dell’entità delle frazioni arrotondate; in caso di parità decide la sorte.[^22-2]
 
 <sup>3</sup> I seggi sono attribuiti in base al numero di abitanti recensito dal controllo cantonale degli abitanti l’ultimo giorno dell’anno precedente il rinnovo integrale del Gran Consiglio.
 
 <sup>4</sup> Il Consiglio di Stato attribuisce i seggi ai Distretti. Il Gran Consiglio decide definitivamente in caso di controversie.
 
 [^22-1]: Accettato dalla Landsgemeinde del 1° mag. 2011, in vigore dal 1° mag. 2011. Garanzia dell’AF dell’11 mar. 2013 ([FF 2013 2249](https://fedlex.data.admin.ch/eli/fga/2013/456)art. 1 n. 2 [2012 7501](https://fedlex.data.admin.ch/eli/fga/2012/1505)).
+[^22-2]: Accettato nella Landsgemeinde del 24 apr. 2022, in vigore dal 1° mag. 2022. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 3, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)). Vedi anche l’art. 4 delle disp. trans. alla fine del presente testo.
 
 #### Art. 23
 
@@ -692,7 +693,19 @@ Il Consiglio parrocchiale e il Consiglio scolastico dirigono le amministrazioni 
 
 [^3-2]
 
-[^3-2]: Accettato dalla Landsgemeinde del 29 apr. 2012. Garanzia dell’AF dell’11 mar. 2013 ([FF 2013 2251](https://fedlex.data.admin.ch/eli/fga/2013/457)art. 1 n. 3 in vigore dal). Abrogato dalla Dec. del Consiglio di Stato del 18 ago. 2014, dopo esecuzione.
+[^3-2]: Accettato dalla Landsgemeinde del 29 apr. 2012. Garanzia dell’AF dell’11 mar. 2013 ([FF 2013 2251](https://fedlex.data.admin.ch/eli/fga/2013/457)art. 1 n. 3 [195](https://fedlex.data.admin.ch/eli/fga/2013/6)). Abrogato dalla Dec. del Consiglio di Stato del 18 ago. 2014, dopo esecuzione.
+
+#### Art. 4
+
+[^4-4]
+
+<sup>1</sup> La nuova procedura di attribuzione dei seggi in seno al Gran Consiglio secondo l’articolo 22 capoverso 2 si applica a partire dalle elezioni del 2023.
+
+<sup>2</sup> Fino ad allora, tutti i Distretti conservano i seggi attuali in seno al Gran Consiglio; il Distretto di Schwende-Rüte riprende i seggi dei Distretti di Schwende e di Rüte.
+
+<sup>3</sup> I seggi in seno al Gran Consiglio per la legislatura 2019−2023 sussistono fino alle elezioni del 2023.
+
+[^4-4]: Accettato nella Landsgemeinde del 24 apr. 2022, in vigore dal 1° mag. 2022. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 3, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ## Indice delle materie
 
