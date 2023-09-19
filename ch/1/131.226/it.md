@@ -3,18 +3,18 @@ sr: "131.226"
 title: "Costituzione del Cantone dei Grigioni, del 14 settembre 2003"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/232_fga"
 language: it
-version: 2022-03-16
+version: 2023-09-20
 adopted: 2003-09-14
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/232_fga/20220316/it/xml/fedlex-data-admin-ch-eli-cc-2004-232_fga-20220316-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/232_fga/20220316/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/232_fga/20230920/it/xml/fedlex-data-admin-ch-eli-cc-2004-232_fga-20230920-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/232_fga/20230920/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Costituzione del Cantone dei Grigioni
 
-del 18 maggio 2003/14 settembre 2003 (Stato 16 marzo 2022)[^t-1]
+del 18 maggio 2003/14 settembre 2003 (Stato 20 settembre 2023)[^t-1]
 
 [^t-1]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell’ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
 
@@ -185,7 +185,9 @@ Un’iniziativa è nulla in tutto o in parte se:
 
 <sup>2</sup> Una dichiarazione di nullità parziale è possibile solo se la volontà delle promotrici e dei promotori non viene in tal modo alterata e se la proposta rimane sensata nel suo insieme.
 
-<sup>3</sup> Il Gran Consiglio decide in merito alla nullità. Il relativo decreto può essere impugnato dinanzi al Tribunale amministrativo.
+<sup>3</sup> Il Gran Consiglio decide in merito alla nullità. Il relativo decreto può essere impugnato dinanzi al Tribunale d’appello.[^14-1]
+
+[^14-1]: Accettato nella [votazione popolare del 27 nov. 2022](http://www.admin.ch/ch/i/pore/va/20221127/index.html), in vigore dal 1° gen. 2025. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Procedura
 
@@ -258,7 +260,11 @@ Su richiesta di 1500 aventi diritto di voto o di un decimo dei comuni sono sotto
 
 <sup>2</sup> A tale scopo essi possono essere sostenuti dal Cantone e dai comuni, se nei loro obiettivi e nella loro organizzazione rispecchiano i principi democratici e dello Stato di diritto.
 
-## IV. Autorità e tribunali
+## IV. Autorità cantonali
+
+[^lvlIV-1]
+
+[^lvlIV-1]: Accettato nella [votazione popolare del 27 nov. 2022](http://www.admin.ch/ch/i/pore/va/20221127/index.html), in vigore dal 1° gen. 2025. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### 1. Disposizioni generali
 
@@ -266,34 +272,44 @@ Su richiesta di 1500 aventi diritto di voto o di un decimo dei comuni sono sotto
 
 #### Art. 21
 
-<sup>1</sup> Può essere eletto nelle autorità e nei tribunali cantonali nonché nel Consiglio degli Stati chiunque abbia diritto di voto nel Cantone. La legge può prevedere che il requisito di eleggibilità debba essere soddisfatto soltanto al momento dell’assunzione della carica.[^21-1]
+<sup>1</sup> Può essere eletto nelle autorità cantonali nonché nel Consiglio degli Stati chiunque abbia diritto di voto nel Cantone. La legge può prevedere che il requisito di eleggibilità debba essere soddisfatto soltanto al momento dell’assunzione della carica.[^21-1]
 
-<sup>2</sup> Altri requisiti di eleggibilità per le autorità e i tribunali cantonali nonché le condizioni di assunzione del personale statale sono disciplinati tramite legge.
+<sup>1bis</sup> Nella legge è possibile prescindere dal requisito del domicilio quale requisito di eleggibilità per i membri delle autorità giudiziarie.[^21-2]
 
-<sup>3</sup> La legge disciplina la sospensione e la destituzione di membri di autorità e tribunali.[^21-2]
+<sup>2</sup> Altri requisiti di eleggibilità per i membri di autorità cantonali nonché le condizioni di assunzione del personale statale sono disciplinati tramite legge.[^21-3]
 
-[^21-1]: Accettato nella [votazione popolare del 26 nov. 2006](http://www.admin.ch/ch/i/pore/va/20061126/index.html), in vigore dal 1° gen. 2007. Garanzia dell’AF del 6 mar. 2008 ([FF 2008 2171](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1 n. 8; [2007 6913](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
-[^21-2]: Accettato nella [votazione popolare del 26 nov. 2006](http://www.admin.ch/ch/i/pore/va/20061126/index.html), in vigore dal 1° gen. 2007. Garanzia dell’AF del 6 mar. 2008 ([FF 2008 2171](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1 n. 8; [2007 6913](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+<sup>3</sup> La legge disciplina la sospensione e la destituzione di membri di autorità cantonali.[^21-4]
+
+[^21-1]: Accettato nella [votazione popolare del 27 nov. 2022](http://www.admin.ch/ch/i/pore/va/20221127/index.html), in vigore dal 1° gen. 2025. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^21-2]: Accettato nella [votazione popolare del 27 nov. 2022](http://www.admin.ch/ch/i/pore/va/20221127/index.html), in vigore dal 1° gen. 2025. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^21-3]: Accettato nella [votazione popolare del 27 nov. 2022](http://www.admin.ch/ch/i/pore/va/20221127/index.html), in vigore dal 1° gen. 2025. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^21-4]: Accettato nella [votazione popolare del 27 nov. 2022](http://www.admin.ch/ch/i/pore/va/20221127/index.html), in vigore dal 1° gen. 2025. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Incompatibilità
 
 #### Art. 22
 
-<sup>1</sup> Nessuno può rivestire una carica in seno alla propria diretta autorità di vigilanza.
+<sup>1</sup> Nessuno può rivestire una carica in seno alla propria autorità di impugnazione cantonale o alla propria autorità di vigilanza diretta. La legge può prevedere delle deroghe.[^22-1]
 
 <sup>2</sup> I membri del Governo e delle autorità giudiziarie nonché il personale cantonale impiegato a tempo pieno non possono essere membri del Gran Consiglio.
 
-<sup>3</sup> Una o un giudice non può essere contemporaneamente membro del Governo o di un’altra autorità giudiziaria nel Cantone.
+<sup>3</sup> Una o un giudice non può essere membro del Governo.[^22-2]
 
-<sup>4</sup> I membri del Governo e i membri a tempo pieno di un’autorità giudiziaria non possono essere eletti nell’Assemblea federale o nel Tribunale federale.
+<sup>4</sup> I membri del Governo e i membri delle autorità giudiziarie impiegati a tempo pieno non possono essere eletti nell’Assemblea federale o nel Tribunale federale.[^22-3]
 
 <sup>5</sup> La legge disciplina altri casi di incompatibilità relativi a cariche e compiti, regola l’esclusione per legami di parentela nonché le eccezioni.
+
+[^22-1]: Accettato nella [votazione popolare del 27 nov. 2022](http://www.admin.ch/ch/i/pore/va/20221127/index.html), in vigore dal 1° gen. 2025. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^22-2]: Accettato nella [votazione popolare del 27 nov. 2022](http://www.admin.ch/ch/i/pore/va/20221127/index.html), in vigore dal 1° gen. 2025. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^22-3]: Accettato nella [votazione popolare del 27 nov. 2022](http://www.admin.ch/ch/i/pore/va/20221127/index.html), in vigore dal 1° gen. 2025. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Durata del mandato
 
 #### Art. 23
 
-I membri del Gran Consiglio, del Governo, dei tribunali e del Consiglio degli Stati sono eletti per una durata di quattro anni.
+I membri del Gran Consiglio e del Gover-no, i membri ordinari delle autorità giudiziarie nonché i membri del Consiglio degli Stati sono eletti per una durata di quattro anni.[^23-1]
+
+[^23-1]: Accettato nella [votazione popolare del 27 nov. 2022](http://www.admin.ch/ch/i/pore/va/20221127/index.html), in vigore dal 1° gen. 2025. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Immunità
 
@@ -378,10 +394,12 @@ Sono considerate importanti in particolare le disposizioni per le quali la Costi
 - 2\. la cerchia delle e dei contribuenti, l’oggetto e le basi di calcolo dei tributi, per quanto essi non siano di natura irrisoria;
 - 3\. lo scopo, il contenuto e l’entità di importanti prestazioni statali;
 - 4\. i principi della suddivisione dei compiti tra Cantone e comuni;
-- 5\. i principi relativi all’organizzazione e ai compiti delle autorità e dei tribunali;
+- 5\.[^31-1] i principi relativi all’organizzazione e ai compiti delle autorità cantonali;
 - 6\. il tipo e l’ampiezza della delega di compiti derivanti dalla sovranità e di altri importanti compiti pubblici a enti esterni all’Amministrazione cantonale.
 
 <sup>3</sup> La validità delle leggi può essere limitata. Prima di essere prorogate, le leggi vanno esaminate circa la loro efficacia.
+
+[^31-1]: Accettato nella [votazione popolare del 27 nov. 2022](http://www.admin.ch/ch/i/pore/va/20221127/index.html), in vigore dal 1° gen. 2025. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Ulteriori competenze normative
 
@@ -397,9 +415,11 @@ Sono considerate importanti in particolare le disposizioni per le quali la Costi
 
 #### Art. 33
 
-<sup>1</sup> Il Gran Consiglio esercita la vigilanza sul Governo nonché sul Tribunale cantonale e sul Tribunale amministrativo.
+<sup>1</sup> Il Gran Consiglio esercita la vigilanza sul Governo nonché sul Tribunale d’appello e sul Tribunale della magistratura.[^33-1]
 
 <sup>2</sup> Gli compete l’alta vigilanza sull’Amministrazione, sugli altri settori della giustizia e su altri enti che svolgono compiti pubblici.
+
+[^33-1]: Accettato nella [votazione popolare del 27 nov. 2022](http://www.admin.ch/ch/i/pore/va/20221127/index.html), in vigore dal 1° gen. 2025. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Programmazione governativa
 
@@ -431,8 +451,10 @@ Il Gran Consiglio elegge:
 
 - 1\. i suoi organi e le sue commissioni;
 - 2\. la presidenza del Governo;
-- 3\. i membri del Tribunale cantonale e del Tribunale amministrativo;
+- 3\.[^36-1] i membri del Tribunale d’appello e del Tribunale della magistratura;
 - 4\. altre e altri titolari di mandati, a norma di legge.
+
+[^36-1]: Accettato nella [votazione popolare del 27 nov. 2022](http://www.admin.ch/ch/i/pore/va/20221127/index.html), in vigore dal 1° ott. 2023. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Domande di grazia
 
@@ -558,25 +580,32 @@ Ulteriori compiti del Governo sono segnatamente:
 
 <sup>1</sup> Il Cantone può affidare compiti pubblici a enti esterni all’Amministrazione cantonale.
 
-<sup>2</sup> Devono essere garantiti la vigilanza da parte del Governo, una cooperazione appropriata del Gran Consiglio e l’accesso ai rimedi giuridici.
+<sup>2</sup> Devono essere garantite una vigilanza sufficiente, una cooperazione appropriata del Gran Consiglio e la protezione giuridica.[^50-1]
 
-<sup>3</sup> Qualora non sia prescritto un atto legislativo sotto forma di legge, gli istituti autonomi di diritto pubblico cantonale possono emanare ordinanze, nella misura in cui vi siano espressamente autorizzati dalla legge.[^50-1]
+<sup>3</sup> Qualora non sia prescritto un atto legislativo sotto forma di legge, gli istituti autonomi di diritto pubblico cantonale possono emanare ordinanze, nella misura in cui vi siano espressamente autorizzati dalla legge.[^50-2]
 
-[^50-1]: Accettato nella [votazione popolare del 24 set. 2006](http://www.admin.ch/ch/i/pore/va/20060924/index.html), in vigore dal 1° gen. 2007. Garanzia dell’AF del 6 mar. 2008 ([FF 2008 2171](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1 n. 8; [2007 6913](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+[^50-1]: Accettato nella [votazione popolare del 27 nov. 2022](http://www.admin.ch/ch/i/pore/va/20221127/index.html), in vigore dal 1° gen. 2025. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^50-2]: Accettato nella [votazione popolare del 24 set. 2006](http://www.admin.ch/ch/i/pore/va/20060924/index.html), in vigore dal 1° gen. 2007. Garanzia dell’AF del 6 mar. 2008 ([FF 2008 2171](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1 n. 8; [2007 6913](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
 
-### 4. Tribunali
+### 4. Autorità giudiziarie
+
+[^lvlIV-lvl4-1]
+
+[^lvlIV-lvl4-1]: Accettato nella [votazione popolare del 27 nov. 2022](http://www.admin.ch/ch/i/pore/va/20221127/index.html), in vigore dal 1° gen. 2025. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Indipendenza e imparzialità
 
 #### Art. 51
 
-<sup>1</sup> Sono garantite l’indipendenza e l’imparzialità dei tribunali. Nella loro giurisprudenza i tribunali sono vincolati unicamente al diritto.
+<sup>1</sup> Sono garantite l’indipendenza e l’imparzialità delle autorità giudiziarie. Nella loro giurisprudenza le autorità giudiziarie sono vincolate unicamente al diritto.[^51-1]
 
-<sup>2</sup> Riservata la competenza del Gran Consiglio, l’amministrazione della giustizia compete ai tribunali.
+<sup>2</sup> Fatte salve le competenze del Gran Consiglio, l’amministrazione della giustizia compete alle autorità giudiziarie.[^51-2]
 
-<sup>3</sup> Le ed i giudici non possono rappresentare dinanzi alla propria autorità le parti coinvolte in procedure contenziose.
+<sup>3</sup> e <sup>4</sup> *...*[^51-3]
 
-<sup>4</sup> Ai membri di un’autorità giudiziaria impiegati a tempo pieno è vietato esercitare un’attività accessoria. La legge può prevedere delle deroghe.
+[^51-1]: Accettato nella [votazione popolare del 27 nov. 2022](http://www.admin.ch/ch/i/pore/va/20221127/index.html), in vigore dal 1° gen. 2025. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^51-2]: Accettato nella [votazione popolare del 27 nov. 2022](http://www.admin.ch/ch/i/pore/va/20221127/index.html), in vigore dal 1° gen. 2025. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^51-3]: Abrogati nella [votazione popolare del 27 nov. 2022](http://www.admin.ch/ch/i/pore/va/20221127/index.html), con effetto dal 1° gen. 2025. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Finanze, cooperazione in Gran Consiglio e legislazione
 
@@ -584,23 +613,33 @@ Ulteriori compiti del Governo sono segnatamente:
 
 [^51a-1]
 
-<sup>1</sup> Il Tribunale cantonale e il Tribunale amministrativo sottopongono al Gran Consiglio per approvazione il progetto di preventivo, nonché il conto annuale e il rapporto annuale.
+<sup>1</sup> Il Tribunale d’appello sottopone al Gran Consiglio per approvazione il progetto di preventivo, nonché il conto annuale e il rapporto di gestione.[^51a-2]
 
-<sup>2</sup> Le e i presidenti prendono parte alle sedute del Gran Consiglio sul preventivo, sul conto annuale e sui rapporti annuali dei tribunali. Essi hanno voto consultivo e possono presentare proposte.
+<sup>1bis</sup> Esso può rivolgersi al Gran Consiglio per proporre modifiche della Costituzione e di leggi concernenti l’amministrazione della giustizia.[^51a-3]
 
-<sup>3</sup> Qualora non sia prescritta la forma di legge, il Tribunale cantonale e il Tribunale amministrativo possono emanare ordinanze nell’ambito dell’amministrazione della giustizia e della vigilanza sulla giustizia, se sono espressamente autorizzati dalla legge a farlo.
+<sup>2</sup> La o il presidente del Tribunale d’appello prende parte alle sedute del Gran Consiglio sul preventivo, sul conto annuale e sul rapporto di gestione nonché su progetti normativi proposti dal Tribunale d’appello. La o il presidente ha voto consultivo e può presentare proposte.[^51a-4]
+
+<sup>3</sup> Qualora non sia prescritta la forma di legge, i tribunali possono emanare ordinanze nell’ambito dell’amministrazione della giustizia, se sono espressamente autorizzati dalla legge a farlo.[^51a-5]
 
 [^51a-1]: Accettato nella [votazione popolare del 26 nov. 2006](http://www.admin.ch/ch/i/pore/va/20061126/index.html), in vigore dal 1° gen. 2007. Garanzia dell’AF del 6 mar. 2008 ([FF 2008 2171](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1 n. 8; [2007 6913](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+[^51a-2]: Accettato nella [votazione popolare del 27 nov. 2022](http://www.admin.ch/ch/i/pore/va/20221127/index.html), in vigore dal 1° lug. 2024. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^51a-3]: Accettato nella [votazione popolare del 27 nov. 2022](http://www.admin.ch/ch/i/pore/va/20221127/index.html), in vigore dal 1° gen. 2025. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^51a-4]: Accettato nella [votazione popolare del 27 nov. 2022](http://www.admin.ch/ch/i/pore/va/20221127/index.html), in vigore dal 1° lug. 2024. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^51a-5]: Accettato nella [votazione popolare del 27 nov. 2022](http://www.admin.ch/ch/i/pore/va/20221127/index.html), in vigore dal 1° apr. 2023. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Vigilanza sulla giustizia
 
 #### Art. 52
 
-<sup>1</sup> Il Tribunale cantonale esercita la vigilanza su tutti i settori della giustizia civile e penale.
+<sup>1</sup> Il Tribunale d’appello esercita la vigilanza sulla giustizia civile, sulla giustizia penale e sulla giustizia amministrativa, nella misura in cui queste competano alle autorità giudiziarie. La legge può attribuire ulteriori compiti di vigilanza al Tribunale d’appello.[^52-1]
 
-<sup>2</sup> Il Gran Consiglio esercita la vigilanza sul Tribunale cantonale, sul Tribunale amministrativo come pure l’alta vigilanza sugli altri settori della giustizia.
+<sup>2</sup> Il Gran Consiglio esercita la vigilanza sul Tribunale d’appello e sul Tribunale della magistratura nonché l’alta vigilanza sulle autorità soggette alla vigilanza del Tribunale d’appello.[^52-2]
 
-<sup>3</sup> La vigilanza e l’alta vigilanza si limitano alla gestione delle pratiche e all’amministrazione della giustizia.
+<sup>3</sup> La vigilanza e l’alta vigilanza sulle autorità giudiziarie si limitano all’amministrazione della giustizia.[^52-3]
+
+[^52-1]: Accettato nella [votazione popolare del 27 nov. 2022](http://www.admin.ch/ch/i/pore/va/20221127/index.html), in vigore dal 1° gen. 2025. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^52-2]: Accettato nella [votazione popolare del 27 nov. 2022](http://www.admin.ch/ch/i/pore/va/20221127/index.html), in vigore dal 1° gen. 2025. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^52-3]: Accettato nella [votazione popolare del 27 nov. 2022](http://www.admin.ch/ch/i/pore/va/20221127/index.html), in vigore dal 1° gen. 2025. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Carattere pubblico dei dibattimenti in tribunale
 
@@ -614,30 +653,43 @@ Per quanto la legge non preveda deroghe, i dibattimenti fra le parti in tribunal
 
 La giurisdizione civile e penale è esercitata:
 
-- 1\. dal Tribunale cantonale;
-- 2\.[^54-1] dai tribunali regionali quali tribunali cantonali inferiori;
-- 3\.[^54-2] …
+- 1\.[^54-1] dal Tribunale d’appello;
+- 2\.[^54-2] dai tribunali regionali quali tribunali cantonali inferiori;
+- 3\.[^54-3] …
+- 4\.[^54-4] dal giudice cantonale dei provvedimenti coercitivi;
+- 5\.[^54-5] dalle autorità di conciliazione.
 
-[^54-1]: Accettato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html), in vigore dal 1° gen. 2017. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4, [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
-[^54-2]: Abrogato nella [votazione popolare del 17 mag. 2009](http://www.admin.ch/ch/i/pore/va/20090517/index.html)con effetto dal 1° gen. 2011. Garanzia dell’AF dell’8 giu. 2010 ([FF 2010 3839](https://fedlex.data.admin.ch/eli/fga/2010/748)art. 1 n. 5, [1905](https://fedlex.data.admin.ch/eli/fga/2010/378)).
+[^54-1]: Accettato nella [votazione popolare del 27 nov. 2022](http://www.admin.ch/ch/i/pore/va/20221127/index.html), in vigore dal 1° gen. 2025. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^54-2]: Accettato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html), in vigore dal 1° gen. 2017. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4, [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^54-3]: Abrogato nella [votazione popolare del 17 mag. 2009](http://www.admin.ch/ch/i/pore/va/20090517/index.html)con effetto dal 1° gen. 2011. Garanzia dell’AF dell’8 giu. 2010 ([FF 2010 3839](https://fedlex.data.admin.ch/eli/fga/2010/748)art. 1 n. 5, [1905](https://fedlex.data.admin.ch/eli/fga/2010/378)).
+[^54-4]: Accettato nella [votazione popolare del 27 nov. 2022](http://www.admin.ch/ch/i/pore/va/20221127/index.html), in vigore dal 1° gen. 2025. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^54-5]: Accettato nella [votazione popolare del 27 nov. 2022](http://www.admin.ch/ch/i/pore/va/20221127/index.html), in vigore dal 1° gen. 2025. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Giurisdizione costituzionale e amministrativa
 
 #### Art. 55
 
-<sup>1</sup> Il giudizio in ultima istanza di controversie di diritto pubblico spetta al Tribunale amministrativo, per quanto la legge non disponga altrimenti.
+<sup>1</sup>
+
+La giurisdizione amministrativa viene esercitata:
+
+- 1\. dal Tribunale d’appello;
+- 2\. dal Tribunale della magistratura;
+- 3\. da altri tribunali amministrativi speciali.[^55-1]
 
 <sup>2</sup>
 
-In veste di corte costituzionale, il Tribunale amministrativo giudica:
+In veste di corte costituzionale, il Tribunale d’appello giudica:[^55-2]
 
 - 1\. i ricorsi per violazione di diritti costituzionali e politici nonché per violazione del principio della preminenza del diritto di rango superiore;
-- 2\.[^55-1] i ricorsi per violazione dell’autonomia dei comuni e di altri enti di diritto pubblico, nonché delle Chiese riconosciute dallo Stato.[^55-2]
+- 2\.[^55-3] i ricorsi per violazione dell’autonomia dei comuni e di altri enti di diritto pubblico, nonché delle Chiese riconosciute dallo Stato.[^55-4]
 
 <sup>3</sup> Nelle pratiche di diritto costituzionale le leggi e le ordinanze possono essere sia impugnate direttamente sia esaminate in caso di applicazione.
 
-[^55-1]: Accettato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html), in vigore dal 1° gen. 2017. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4, [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
-[^55-2]: Accettato nella [votazione popolare del 26 nov. 2006](http://www.admin.ch/ch/i/pore/va/20061126/index.html), in vigore dal 1° gen. 2007. Garanzia dell’AF del 6 mar. 2008 ([FF 2008 2171](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1 n. 8; [2007 6913](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+[^55-1]: Accettato nella [votazione popolare del 27 nov. 2022](http://www.admin.ch/ch/i/pore/va/20221127/index.html), in vigore dal 1° gen. 2025. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^55-2]: Accettato nella [votazione popolare del 27 nov. 2022](http://www.admin.ch/ch/i/pore/va/20221127/index.html), in vigore dal 1° gen. 2025. Garanzia dell’AF del 20 set. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^55-3]: Accettato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html), in vigore dal 1° gen. 2018. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4, [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^55-4]: Accettato nella [votazione popolare del 26 nov. 2006](http://www.admin.ch/ch/i/pore/va/20061126/index.html), in vigore dal 1° gen. 2007. Garanzia dell’AF del 6 mar. 2008 ([FF 2008 2171](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1 n. 8; [2007 6913](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
 
 ### Ulteriori autorità giudiziarie e extragiudiziarie
 
@@ -813,7 +865,7 @@ Il Cantone è suddiviso nelle regioni seguenti:
 
 [^72-1]
 
-[^72-1]: Abrogato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html)con effetto dal 1° gen. 2017. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4, [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^72-1]: Abrogato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html)con effetto dal 1° gen. 2018. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4, [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### C. Organizzazione e vigilanza
 
@@ -821,7 +873,7 @@ Il Cantone è suddiviso nelle regioni seguenti:
 
 [^73-1]
 
-[^73-1]: Abrogato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html)con effetto dal 1° gen. 2017. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4, [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^73-1]: Abrogato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html)con effetto dal 1° gen. 2018. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4, [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### Vigilanza
 
@@ -1240,7 +1292,6 @@ Amministrazione cantonale
 - – alta vigilanza 33
 - – dipartimenti 49
 - – direzione e sorveglianza 43
-- – Tribunale amministrativo v. Tribunali
 - – vigilanza 22, 30, 33, 47, 50, 52, 67, 74, 83, 97, 99 v. anche Vigilanza, Autorità, Cantone
 
 Autorità
@@ -1316,15 +1367,6 @@ Cantone
 
 - – trasferimento delle competenze
   - – ad altri enti che svolgono compiti pubblici 50
-
-- – Tribunale cantonale
-  - – cooperazione in Gran Consiglio 51*a*<sup>2</sup>
-  - – elezioni 36
-  - – finanze 51*a*<sup>1</sup>
-  - – giurisdizione civile e penale 54
-  - – legislazione 51*a*<sup>3</sup>
-  - – vigilanza dal Gran Consiglio 33, 52
-  - – vigilanza sulla giustizia 52
 
 **Catastrofi**. Protezione da 79
 
@@ -1432,12 +1474,12 @@ Confederazione
 Conto consuntivo
 
 - – approvazione del 35
-- – del Tribunale cantonale e Tribunale amministrativo 51*a*
+- – del Tribunale d’appello 51*a*
 - – referendum facoltativo 17
 
 Conto preventivo
 
-- – del Tribunale cantonale e Tribunale amministrativo 51*a*
+- – del Tribunale d’appello 51*a*
 - – fissaggio da parte del Gran Consiglio 35
 - – approvazione da parte del Governo 46
 - – referendum facoltativo 17
@@ -1529,8 +1571,8 @@ Elezioni
 - – da parte del Governo 47
 - – da parte del Gran Consiglio
   - – presidenza del Governo 36, 40
-  - – Tribunale amministrativo 36
-  - – Tribunale cantonale 36
+  - – del Tribunale d’appello 36
+  - – del Tribunale della magistratura 36
 
 - – popolare
   - – Consiglio nazionale e del Consiglio degli Stati 11, 57
@@ -1641,7 +1683,7 @@ Gran Consiglio
 - – iniziativa cantonale 59
 - – legiferazione 31, 32
 - – obiettivi politici e linee guida, programmazione governativa 34
-- – partecipazione dei presidenti del Tribunale cantonale e del Tribunale amministrativo in sessioni 51*a*<sup>2</sup>
+- – partecipazione del presidente del Tribunale d'appello in sessioni 51*a*<sup>2</sup>
 - – preventivo e consuntivo 46
 - – pubblicità delle sedute 29
 - – referendum cantonale 58
@@ -1827,7 +1869,7 @@ Pubblicità
 **Rapporto**
 
 - – del Governo 47
-- – del Tribunale cantonale e del Tribunale amministrativo 51*a*<sup>1</sup>
+- – del Tribunale d'appello 51*a*<sup>1</sup>
 
 Referendum
 
@@ -1948,7 +1990,7 @@ Tribunale (i)
 - – eleggibilità 21
 - – elezione membri
   - – tribunali regionali 11
-  - – Tribunale cantonale e Tribunale amministrativo 36
+  - – Tribunale d'appello e Tribunale della magistratura 36
 
 - – giurisdizione 54, 55
 - – incompatibilità 22
@@ -1960,21 +2002,23 @@ Tribunale (i)
 - – rapporto annuale 51*a*
 - – separazione e limitazione dei poteri 4
 - – sospensione e destituzione 21<sup>3</sup>
-- – Tribunale amministrativo
-  - – elezione 36
-  - – finanze 51*a*<sup>1</sup>
-  - – giurisdizione costituzionale e amministrativa 55
-  - – legislazione 51*a*<sup>3</sup>
-  - – nullità di un’iniziativa 14
-  - – partecipazione alle sedute del Gran Consiglio 51*a*<sup>2</sup>
-  - – vigilanza da parte del Gran Consiglio 33, 52
-
-- – Tribunale cantonale
-  - – elezione 36
-  - – finanze 51*a*<sup>1</sup>
+- – Tribunale d’appello
+  - – elezioni 36
+  - – finanze, cooperazione in Gran Consiglio e legislazione 51*a*<sup>3</sup>
   - – giurisdizione civile e penale 54
-  - – vigilanza da parte del Gran Consiglio 33, 52
+  - – giurisdizione costituzionale e amministrativa 55
+  - – nullità 14
+  - – vigilanza e alta vigilanza 33
   - – vigilanza sulla giustizia 52
+
+- – Tribunale della magistratura
+  - – elezioni 36
+  - – giurisdizione costituzionale e amministrativa 55
+  - – vigilanza e alta vigilanza 33
+  - – vigilanza sulla giustizia 52
+
+- – tribunali amministrativi speciali
+  - – giurisdizione amministrativa 55
 
 - – tribunali regionali
   - – elezione 11
@@ -2007,12 +2051,9 @@ Vigilanza (alta vigilanza)
 
 - – del Gran Consiglio
   - – finanze 97
-  - – giustizia 52
+  - – giustizia 33, 52
   - – Governo 33
   - – istanza suprema di vigilanza 30
-
-- – del Tribunale cantonale
-  - – giustizia civile e penale 52
 
 Votazione
 
@@ -2031,6 +2072,3 @@ Votazione
 - – sulle varianti 19
 
 Voto v. Votazione
-
-- [tab]
-- [tab]

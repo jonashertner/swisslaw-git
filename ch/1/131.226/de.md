@@ -3,18 +3,18 @@ sr: "131.226"
 title: "Verfassung des Kantons Graubünden, vom 14. September 2003"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/232_fga"
 language: de
-version: 2022-03-16
+version: 2023-09-20
 adopted: 2003-09-14
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/232_fga/20220316/de/xml/fedlex-data-admin-ch-eli-cc-2004-232_fga-20220316-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/232_fga/20220316/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/232_fga/20230920/de/xml/fedlex-data-admin-ch-eli-cc-2004-232_fga-20230920-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/232_fga/20230920/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verfassung des Kantons Graubünden
 
-vom 18. Mai 2003/14. September 2003 (Stand am 16. März 2022)[^t-1]
+vom 18. Mai 2003/14. September 2003 (Stand am 20. September 2023)[^t-1]
 
 [^t-1]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleis-tungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
 
@@ -185,7 +185,9 @@ Eine Initiative ist ganz oder teilweise ungültig, wenn sie:
 
 <sup>2</sup> Sie kann teilweise für ungültig erklärt werden, falls dadurch der Wille der Initiantinnen und Initianten nicht verfälscht wird und die Vorlage ein sinnvolles Ganzes ergibt.
 
-<sup>3</sup> Über die Ungültigkeit entscheidet der Grosse Rat. Dieser Entscheid ist an das Verwaltungsgericht weiterziehbar.
+<sup>3</sup> Über die Ungültigkeit entscheidet der Grosse Rat. Dieser Entscheid ist an das Obergericht weiterziehbar.[^14-1]
+
+[^14-1]: Angenommen in der [Volksabstimmung vom 27. Nov. 2022](http://www.admin.ch/ch/d/pore/va/20221127/index.html), in Kraft seit 1. Jan. 2025. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Verfahren
 
@@ -258,7 +260,11 @@ Wenn 1500 Stimmberechtigte oder ein Zehntel der Gemeinden es verlangen, werden d
 
 <sup>2</sup> Sie können dabei vom Kanton unterstützt werden, sofern ihre Ziele und ihr Aufbau demokratischen und rechtsstaatlichen Grundsätzen entsprechen.
 
-## IV. Behörden und Gerichte
+## IV. Kantonale Behörden
+
+[^lvlIV-1]
+
+[^lvlIV-1]: Angenommen in der [Volksabstimmung vom 27. Nov. 2022](http://www.admin.ch/ch/d/pore/va/20221127/index.html), in Kraft seit 1. Jan. 2025. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### 1. Allgemeines
 
@@ -266,34 +272,44 @@ Wenn 1500 Stimmberechtigte oder ein Zehntel der Gemeinden es verlangen, werden d
 
 #### Art. 21
 
-<sup>1</sup> In die kantonalen Behörden und Gerichte sowie in den Ständerat sind die Stimmberechtigten des Kantons wählbar. Das Gesetz kann vorsehen, dass die Wählbarkeitsvoraussetzung erst bei Amtsantritt erfüllt sein muss.[^21-1]
+<sup>1</sup> In die kantonalen Behörden sowie in den Ständerat sind die Stimmberechtigten des Kantons wählbar. Das Gesetz kann vorsehen, dass die Wählbarkeitsvoraussetzung erst bei Amtsantritt erfüllt sein muss.[^21-1]
 
-<sup>2</sup> Weitere Wählbarkeitsvoraussetzungen für die kantonalen Behörden und Gerichte sowie die Anstellungsvoraussetzungen für das Staatspersonal werden durch Gesetz geregelt.
+<sup>1bis</sup> Für die Mitglieder der richterlichen Behörden kann im Gesetz vom Wohnsitzerfordernis als Wählbarkeitsvoraussetzung abgesehen werden.[^21-2]
 
-<sup>3</sup> Das Gesetz regelt die Einstellung im Amt und die Amtsenthebung von Mitgliedern von Behörden und Gerichten.[^21-2]
+<sup>2</sup> Weitere Wählbarkeitsvoraussetzungen für die Mitglieder von kantonalen Behörden sowie die Anstellungsvoraussetzungen für das Staatspersonal werden durch Gesetz geregelt.[^21-3]
 
-[^21-1]: Angenommen in der [Volksabstimmung vom 26. Nov. 2006](http://www.admin.ch/ch/d/pore/va/20061126/index.html), in Kraft seit 1. Jan. 2007. Gewährleistungsbeschluss vom 6. März 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)Art. 1 Ziff. 8; [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
-[^21-2]: Angenommen in der [Volksabstimmung vom 26. Nov. 2006](http://www.admin.ch/ch/d/pore/va/20061126/index.html), in Kraft seit 1. Jan. 2007. Gewährleistungsbeschluss vom 6. März 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)Art. 1 Ziff. 8; [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+<sup>3</sup> Das Gesetz regelt die Einstellung im Amt und die Amtsenthebung von Mitgliedern von kantonalen Behörden.[^21-4]
+
+[^21-1]: Angenommen in der [Volksabstimmung vom 27. Nov. 2022](http://www.admin.ch/ch/d/pore/va/20221127/index.html), in Kraft seit 1. Jan. 2025. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^21-2]: Angenommen in der [Volksabstimmung vom 27. Nov. 2022](http://www.admin.ch/ch/d/pore/va/20221127/index.html), in Kraft seit 1. Jan. 2025. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^21-3]: Angenommen in der [Volksabstimmung vom 27. Nov. 2022](http://www.admin.ch/ch/d/pore/va/20221127/index.html), in Kraft seit 1. Jan. 2025. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^21-4]: Angenommen in der [Volksabstimmung vom 27. Nov. 2022](http://www.admin.ch/ch/d/pore/va/20221127/index.html), in Kraft seit 1. Jan. 2025. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Unvereinbarkeiten
 
 #### Art. 22
 
-<sup>1</sup> Niemand darf seiner unmittelbaren Aufsichtsbehörde angehören.
+<sup>1</sup> Niemand darf seiner kantonalen Rechtsmittelbehörde oder seiner unmittelbaren Aufsichtsbehörde angehören. Das Gesetz kann Ausnahmen vorsehen.[^22-1]
 
 <sup>2</sup> Mitglieder der Regierung und der richterlichen Behörden sowie das voll- und hauptamtliche Personal des Kantons dürfen nicht dem Grossen Rat angehören.
 
-<sup>3</sup> Richterinnen und Richter dürfen nicht gleichzeitig der Regierung oder einer anderen richterlichen Behörde im Kanton angehören.
+<sup>3</sup> Richterinnen und Richter dürfen nicht der Regierung angehören.[^22-2]
 
-<sup>4</sup> Mitglieder der Regierung und die vollamtlichen Mitglieder einer richterlichen Behörde dürfen nicht der Bundesversammlung oder dem Bundesgericht angehören.
+<sup>4</sup> Mitglieder der Regierung und Mitglieder der richterlichen Behörden, die im Vollpensum tätig sind, dürfen nicht der Bundesversammlung oder dem Bundesgericht angehören.[^22-3]
 
 <sup>5</sup> Das Gesetz regelt weitere Fälle der Unvereinbarkeit von Ämtern und Aufgaben, den Verwandtenausschluss sowie die Ausnahmen.
+
+[^22-1]: Angenommen in der [Volksabstimmung vom 27. Nov. 2022](http://www.admin.ch/ch/d/pore/va/20221127/index.html), in Kraft seit 1. Jan. 2025. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^22-2]: Angenommen in der [Volksabstimmung vom 27. Nov. 2022](http://www.admin.ch/ch/d/pore/va/20221127/index.html), in Kraft seit 1. Jan. 2025. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^22-3]: Angenommen in der [Volksabstimmung vom 27. Nov. 2022](http://www.admin.ch/ch/d/pore/va/20221127/index.html), in Kraft seit 1. Jan. 2025. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Amtsdauer
 
 #### Art. 23
 
-Die Amtsdauer des Grossen Rates, der Regierung, der Gerichte sowie der Mitglieder des Ständerates beträgt vier Jahre.
+Die Amtsdauer des Grossen Rates, der Regierung, der ordentlichen Mitglieder der richterlichen Behörden sowie der Mitglieder des Ständerates beträgt vier Jahre.[^23-1]
+
+[^23-1]: Angenommen in der [Volksabstimmung vom 27. Nov. 2022](http://www.admin.ch/ch/d/pore/va/20221127/index.html), in Kraft seit 1. Jan. 2025. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Immunität
 
@@ -378,10 +394,12 @@ Wichtige Bestimmungen sind insbesondere jene, für welche die Verfassung das Ges
 - 2\. Kreis der Abgabepflichtigen, Gegenstand und Bemessungsgrundlagen von Abgaben, soweit diese nicht von geringfügiger Natur sind;
 - 3\. Zweck, Inhalt und Umfang von bedeutenden staatlichen Leistungen;
 - 4\. Grundsätze der Aufgabenverteilung zwischen Kanton und Gemeinden;
-- 5\. Grundsätze von Organisation und Aufgaben der Behörden und Gerichte;
+- 5\.[^31-1] Grundsätze von Organisation und Aufgaben der kantonalen Behörden;
 - 6\. Art und Umfang der Übertragung von hoheitlichen und anderen bedeutenden öffentlichen Aufgaben an Trägerschaften ausserhalb der kantonalen Verwaltung.
 
 <sup>3</sup> Die Gültigkeit der Gesetze kann befristet werden. Vor der Verlängerung sind die Gesetze auf ihre Wirksamkeit zu prüfen.
+
+[^31-1]: Angenommen in der [Volksabstimmung vom 27. Nov. 2022](http://www.admin.ch/ch/d/pore/va/20221127/index.html), in Kraft seit 1. Jan. 2025. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Weitere Rechtsetzungskompetenzen
 
@@ -397,9 +415,11 @@ Wichtige Bestimmungen sind insbesondere jene, für welche die Verfassung das Ges
 
 #### Art. 33
 
-<sup>1</sup> Der Grosse Rat übt die Aufsicht über die Regierung sowie das Kantonsgericht und das Verwaltungsgericht aus.
+<sup>1</sup> Der Grosse Rat übt die Aufsicht über die Regierung sowie das Obergericht und das Justizgericht aus.[^33-1]
 
 <sup>2</sup> Ihm obliegt die Oberaufsicht über die Verwaltung, die anderen Zweige der Rechtspflege und über andere Träger öffentlicher Aufgaben.
+
+[^33-1]: Angenommen in der [Volksabstimmung vom 27. Nov. 2022](http://www.admin.ch/ch/d/pore/va/20221127/index.html), in Kraft seit 1. Jan. 2025. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Planung
 
@@ -431,8 +451,10 @@ Der Grosse Rat wählt:
 
 - 1\. seine Organe und Kommissionen;
 - 2\. das Präsidium der Regierung;
-- 3\. die Mitglieder des Kantonsgerichtes und des Verwaltungsgerichtes;
+- 3\.[^36-1] die Mitglieder des Obergerichts und des Justizgerichts;
 - 4\. weitere Amtsinhaberinnen und -inhaber nach Massgabe der Gesetzgebung.
+
+[^36-1]: Angenommen in der [Volksabstimmung vom 27. Nov. 2022](http://www.admin.ch/ch/d/pore/va/20221127/index.html), in Kraft seit 1. Okt. 2023. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Begnadigung
 
@@ -558,25 +580,32 @@ Weitere Aufgaben der Regierung sind insbesondere:
 
 <sup>1</sup> Der Kanton kann die Erfüllung von öffentlichen Aufgaben Trägern ausserhalb der kantonalen Verwaltung übertragen.
 
-<sup>2</sup> Die Aufsicht durch die Regierung, eine angemessene Mitwirkung des Grossen Rates und der Rechtsschutz müssen sichergestellt sein.
+<sup>2</sup> Eine hinreichende Aufsicht, eine angemessene Mitwirkung des Grossen Rates und der Rechtsschutz müssen sichergestellt sein.[^50-1]
 
-<sup>3</sup> Soweit nicht die Form des Gesetzes vorgeschrieben ist, können selbstständige Anstalten des kantonalen öffentlichen Rechts Verordnungen erlassen, wenn sie durch Gesetz ausdrücklich dazu ermächtigt werden.[^50-1]
+<sup>3</sup> Soweit nicht die Form des Gesetzes vorgeschrieben ist, können selbstständige Anstalten des kantonalen öffentlichen Rechts Verordnungen erlassen, wenn sie durch Gesetz ausdrücklich dazu ermächtigt werden.[^50-2]
 
-[^50-1]: Angenommen in der [Volksabstimmung vom 24. Sept. 2006](http://www.admin.ch/ch/d/pore/va/20060924/index.html), in Kraft seit 1. Jan. 2007. Gewährleistungsbeschluss vom 6. März 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)Art. 1 Ziff. 8; [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+[^50-1]: Angenommen in der [Volksabstimmung vom 27. Nov. 2022](http://www.admin.ch/ch/d/pore/va/20221127/index.html), in Kraft seit 1. Jan. 2025. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^50-2]: Angenommen in der [Volksabstimmung vom 24. Sept. 2006](http://www.admin.ch/ch/d/pore/va/20060924/index.html), in Kraft seit 1. Jan. 2007. Gewährleistungsbeschluss vom 6. März 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)Art. 1 Ziff. 8; [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
 
-### 4. Gerichte
+### 4. Richterliche Behörden
+
+[^lvlIV-lvl4-1]
+
+[^lvlIV-lvl4-1]: Angenommen in der [Volksabstimmung vom 27. Nov. 2022](http://www.admin.ch/ch/d/pore/va/20221127/index.html), in Kraft seit 1. Jan. 2025. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Unabhängigkeit und Unparteilichkeit
 
 #### Art. 51
 
-<sup>1</sup> Die Unabhängigkeit und die Unparteilichkeit der Gerichte sind gewährleistet. Die Gerichte sind in ihrer Rechtsprechung nur dem Recht verpflichtet.
+<sup>1</sup> Die Unabhängigkeit und die Unparteilichkeit der richterlichen Behörden sind gewährleistet. Die richterlichen Behörden sind in ihrer Rechtsprechung nur dem Recht verpflichtet.[^51-1]
 
-<sup>2</sup> Die Justizverwaltung ist unter Vorbehalt der Befugnisse des Grossen Rates Sache der Gerichte.
+<sup>2</sup> Die Justizverwaltung ist unter Vorbehalt der Befugnisse des Grossen Rates Sache der richterlichen Behörden.[^51-2]
 
-<sup>3</sup> Richterinnen und Richter dürfen Parteien nicht in streitigen Verfahren vor der eigenen Instanz vertreten.
+<sup>3</sup> und <sup>4</sup> ...[^51-3]
 
-<sup>4</sup> Vollamtlichen Mitgliedern einer richterlichen Behörde ist jede Nebenbeschäftigung untersagt. Das Gesetz kann Ausnahmen vorsehen.
+[^51-1]: Angenommen in der [Volksabstimmung vom 27. Nov. 2022](http://www.admin.ch/ch/d/pore/va/20221127/index.html), in Kraft seit 1. Jan. 2025. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^51-2]: Angenommen in der [Volksabstimmung vom 27. Nov. 2022](http://www.admin.ch/ch/d/pore/va/20221127/index.html), in Kraft seit 1. Jan. 2025. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^51-3]: Aufgehoben in der [Volksabstimmung vom 27. Nov. 2022](http://www.admin.ch/ch/d/pore/va/20221127/index.html), mit Wirkung seit 1. Jan. 2025. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Finanzen, Mitwirkung im Grossen Rat und Rechtsetzung
 
@@ -584,23 +613,33 @@ Weitere Aufgaben der Regierung sind insbesondere:
 
 [^51a-1]
 
-<sup>1</sup> Das Kantons- und das Verwaltungsgericht unterbreiten dem Grossen Rat den Entwurf für ihr Budget sowie die Rechnung und den Jahresbericht zur Genehmigung.
+<sup>1</sup> Das Obergericht unterbreitet dem Grossen Rat den Entwurf für das Budget sowie die Rechnung und den Geschäftsbericht zur Genehmigung.[^51a-2]
 
-<sup>2</sup> Die Präsidentinnen und Präsidenten nehmen an den Sitzungen des Grossen Rates zum Budget, zur Rechnung und zu den Jahresberichten der Gerichte teil. Sie haben beratende Stimme und können Anträge stellen.
+<sup>1bis</sup> Es kann an den Grossen Rat gelangen, um die Justizverwaltung betreffende Verfassungs- und Gesetzesänderungen anzuregen.[^51a-3]
 
-<sup>3</sup> Soweit nicht die Form des Gesetzes vorgeschrieben ist, können das Kantons- und das Verwaltungsgericht auf dem Gebiet der Justizverwaltung und -aufsicht Verordnungen erlassen, wenn sie durch Gesetz ausdrücklich dazu ermächtigt werden.
+<sup>2</sup> Die Präsidentin oder der Präsident des Obergerichts nimmt an den Sitzungen des Grossen Rates zum Budget, zur Rechnung und zum Geschäftsbericht sowie zu den vom Obergericht angeregten Rechtsetzungsvorhaben teil. Sie oder er hat beratende Stimme und kann Anträge stellen.[^51a-4]
+
+<sup>3</sup> Soweit nicht die Form des Gesetzes vorgeschrieben ist, können die Gerichte auf dem Gebiet der Justizverwaltung Verordnungen erlassen, wenn sie durch Gesetz ausdrücklich dazu ermächtigt werden.[^51a-5]
 
 [^51a-1]: Angenommen in der [Volksabstimmung vom 26. Nov. 2006](http://www.admin.ch/ch/d/pore/va/20061126/index.html), in Kraft seit 1. Jan. 2007. Gewährleistungsbeschluss vom 6. März 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)Art. 1 Ziff. 8; [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+[^51a-2]: Angenommen in der [Volksabstimmung vom 27. Nov. 2022](http://www.admin.ch/ch/d/pore/va/20221127/index.html), in Kraft seit 1. Juli 2024. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^51a-3]: Angenommen in der [Volksabstimmung vom 27. Nov. 2022](http://www.admin.ch/ch/d/pore/va/20221127/index.html), in Kraft seit 1. Jan. 2025. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^51a-4]: Angenommen in der [Volksabstimmung vom 27. Nov. 2022](http://www.admin.ch/ch/d/pore/va/20221127/index.html), in Kraft seit 1. Juli 2024. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^51a-5]: Angenommen in der [Volksabstimmung vom 27. Nov. 2022](http://www.admin.ch/ch/d/pore/va/20221127/index.html), in Kraft seit 1. April 2023. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Justizaufsicht
 
 #### Art. 52
 
-<sup>1</sup> Das Kantonsgericht übt die Aufsicht über alle Bereiche der Zivil- und Strafrechtspflege aus.
+<sup>1</sup> Das Obergericht übt die Aufsicht über die Zivil-, die Straf- und die Verwaltungsrechtspflege aus, soweit diese den richterlichen Behörden obliegen. Dem Obergericht können weitere Aufsichtsaufgaben durch Gesetz zugewiesen werden.[^52-1]
 
-<sup>2</sup> Der Grosse Rat übt die Aufsicht über das Kantonsgericht und das Verwaltungsgericht sowie die Oberaufsicht über die anderen Zweige der Rechtspflege aus.
+<sup>2</sup> Der Grosse Rat übt die Aufsicht über das Obergericht und das Justizgericht sowie die Oberaufsicht über die vom Obergericht beaufsichtigten Behörden aus.[^52-2]
 
-<sup>3</sup> Aufsicht und Oberaufsicht beschränken sich auf die Geschäftsführung und die Justizverwaltung.
+<sup>3</sup> Aufsicht und Oberaufsicht gegenüber den richterlichen Behörden beschränken sich auf die Justizverwaltung.[^52-3]
+
+[^52-1]: Angenommen in der [Volksabstimmung vom 27. Nov. 2022](http://www.admin.ch/ch/d/pore/va/20221127/index.html), in Kraft seit 1. Jan. 2025. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^52-2]: Angenommen in der [Volksabstimmung vom 27. Nov. 2022](http://www.admin.ch/ch/d/pore/va/20221127/index.html), in Kraft seit 1. Jan. 2025. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^52-3]: Angenommen in der [Volksabstimmung vom 27. Nov. 2022](http://www.admin.ch/ch/d/pore/va/20221127/index.html), in Kraft seit 1. Jan. 2025. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Öffentlichkeit der Gerichtsverhandlungen
 
@@ -614,30 +653,43 @@ Die Parteiverhandlungen vor Gericht sind unter Vorbehalt gesetzlicher Ausnahmen 
 
 Die Zivil- und die Strafgerichtsbarkeit werden ausgeübt durch:
 
-- 1\. das Kantonsgericht;
-- 2\.[^54-1] die Regionalgerichte als untere kantonale Gerichte;
-- 3\.[^54-2] …
+- 1\.[^54-1] das Obergericht;
+- 2\.[^54-2] die Regionalgerichte als untere kantonale Gerichte;
+- 3\.[^54-3] …
+- 4\.[^54-4] das kantonale Zwangsmassnahmengericht;
+- 5\.[^54-5] die Schlichtungsbehörden.
 
-[^54-1]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 1. Jan. 2017. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4, [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
-[^54-2]: Aufgehoben in der [Volksabstimmung vom 17. Mai 2009](http://www.admin.ch/ch/d/pore/va/20090517/index.html), mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 8. Juni 2010 ([BBl 2010 4365](https://fedlex.data.admin.ch/eli/fga/2010/748)Art. 1 Ziff. 5, [2153](https://fedlex.data.admin.ch/eli/fga/2010/378)).
+[^54-1]: Angenommen in der [Volksabstimmung vom 27. Nov. 2022](http://www.admin.ch/ch/d/pore/va/20221127/index.html), in Kraft seit 1. Jan. 2025. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^54-2]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 1. Jan. 2017. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4, [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^54-3]: Aufgehoben in der [Volksabstimmung vom 17. Mai 2009](http://www.admin.ch/ch/d/pore/va/20090517/index.html), mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 8. Juni 2010 ([BBl 2010 4365](https://fedlex.data.admin.ch/eli/fga/2010/748)Art. 1 Ziff. 5, [2153](https://fedlex.data.admin.ch/eli/fga/2010/378)).
+[^54-4]: Angenommen in der [Volksabstimmung vom 27. Nov. 2022](http://www.admin.ch/ch/d/pore/va/20221127/index.html), in Kraft seit 1. Jan. 2025. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^54-5]: Angenommen in der [Volksabstimmung vom 27. Nov. 2022](http://www.admin.ch/ch/d/pore/va/20221127/index.html), in Kraft seit 1. Jan. 2025. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Verfassungs- und Verwaltungsgerichtsbarkeit
 
 #### Art. 55
 
-<sup>1</sup> Die letztinstanzliche Beurteilung von öffentlich-rechtlichen Streitigkeiten obliegt dem Verwaltungsgericht, sofern nicht ein Gesetz etwas anderes bestimmt.
+<sup>1</sup>
+
+Die Verwaltungsgerichtsbarkeit wird ausgeübt durch:
+
+- 1\. das Obergericht;
+- 2\. das Justizgericht;
+- 3\. weitere Spezialverwaltungsgerichte.[^55-1]
 
 <sup>2</sup>
 
-Das Verwaltungsgericht beurteilt als Verfassungsgericht:
+Das Obergericht beurteilt als Verfassungsgericht:[^55-2]
 
 - 1\. Beschwerden wegen Verletzung von verfassungsmässigen und politischen Rechten sowie des Grundsatzes des Vorrangs von übergeordnetem Recht;
-- 2\.[^55-1] Beschwerden wegen Verletzung der Autonomie der Gemeinden und anderer öffentlich-rechtlicher Körperschaften sowie der Landeskirchen.[^55-2]
+- 2\.[^55-3] Beschwerden wegen Verletzung der Autonomie der Gemeinden und anderer öffentlich-rechtlicher Körperschaften sowie der Landeskirchen.[^55-4]
 
 <sup>3</sup> Im verfassungsgerichtlichen Verfahren können Gesetze und Verordnungen sowohl unmittelbar angefochten als auch im Anwendungsfall überprüft werden.
 
-[^55-1]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 1. Jan. 2017. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4, [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
-[^55-2]: Angenommen in der [Volksabstimmung vom 26. Nov. 2006](http://www.admin.ch/ch/d/pore/va/20061126/index.html), in Kraft seit 1. Jan. 2007. Gewährleistungsbeschluss vom 6. März 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)Art. 1 Ziff. 8; [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+[^55-1]: Angenommen in der [Volksabstimmung vom 27. Nov. 2022](http://www.admin.ch/ch/d/pore/va/20221127/index.html), in Kraft seit 1. Jan. 2025. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^55-2]: Angenommen in der [Volksabstimmung vom 27. Nov. 2022](http://www.admin.ch/ch/d/pore/va/20221127/index.html), in Kraft seit 1. Jan. 2025. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^55-3]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 1. Jan. 2018. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4, [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^55-4]: Angenommen in der [Volksabstimmung vom 26. Nov. 2006](http://www.admin.ch/ch/d/pore/va/20061126/index.html), in Kraft seit 1. Jan. 2007. Gewährleistungsbeschluss vom 6. März 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)Art. 1 Ziff. 8; [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
 
 ### Weitere richterliche sowie aussergerichtliche Behörden
 
@@ -813,7 +865,7 @@ Der Kanton ist in folgende Regionen gegliedert:
 
 [^72-1]
 
-[^72-1]: Aufgehoben durch die [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), mit Wirkung seit 1. Jan. 2017. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4, [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^72-1]: Aufgehoben durch die [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), mit Wirkung seit 1. Jan. 2018. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4, [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### C. Organisation und Aufsicht
 
@@ -821,7 +873,7 @@ Der Kanton ist in folgende Regionen gegliedert:
 
 [^73-1]
 
-[^73-1]: Aufgehoben durch die [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), mit Wirkung seit 1. Jan. 2017. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4, [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^73-1]: Aufgehoben durch die [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), mit Wirkung seit 1. Jan. 2018. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4, [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### Aufsicht
 
@@ -1268,7 +1320,7 @@ Amt
   - – Gewässer 83
   - – Kirchgemeinden 99
 
-- – des Kantonsgerichts
+- – des Obergerichts
   - – Zivil- und Strafrechtspflege 52
 
 - – der Regierung
@@ -1313,7 +1365,7 @@ Behörden
 
 Berichterstattung
 
-- – des Kantons- und Verwaltungsgerichts 51*a*<sup>1</sup>
+- – des Obergerichts 51*a*<sup>1</sup>
 - – der Regierung 47
 
 Berufsgeheimnis 28
@@ -1339,7 +1391,7 @@ Bezirke 108
 
 **Budget**
 
-- – des Kantons- und Verwaltungsgerichts 51*a*<sup>1</sup>
+- – des Obergerichts 51*a*<sup>1</sup>
 - – Fehlende Referendumsfähigkeit 17
 - – Festsetzung durch Grossen Rat 35
 - – Verabschiedung durch Regierung 46
@@ -1458,18 +1510,17 @@ Gerichte
 - – Gewaltenteilung und Gewalten-hemmung 4
 - – Information 25
 - – Jahresbericht 51*a*
-- – Kantonsgericht
+- – Justizgericht
   - – Aufsicht durch Grossen Rat 33, 52
   - – Justizaufsicht 52
   - – Wahl 36
-  - – Zivil- und Strafgerichtsbarkeit 54
 
 - – Öffentlichkeit der Verhandlungen 53
 - – Organisation der Gerichte, Justizverwaltung 31<sup>2</sup>, 51
 - – Rechnung 51*a*
 - – Unabhängigkeit und Unparteilichkeit 51
 - – Unvereinbarkeiten 22
-- – Verwaltungsgericht
+- – Obergericht
   - – Aufsicht durch Grossen Rat 33, 52
   - – Gültigkeit von Initiativen 14
   - – Finanzen 51*a*<sup>1</sup>
@@ -1477,11 +1528,12 @@ Gerichte
   - – Rechtsetzung 51*a*<sup>3</sup>
   - – Verfassungs- und Verwaltungsgerichtsbarkeit 55
   - – Wahl 36
+  - – Zivil- und Strafgerichtsbarkeit 54
 
 - – Wählbarkeit 21
 - – Wahl der Mitglieder des/der
   - – Regionalgerichte 11
-  - – Kantons- und Verwaltungsgerichts 36
+  - – Obergerichts und Justizgerichts 36
 
 - – weitere richterliche sowie aussergerichtliche Behörden 56
 
@@ -1591,7 +1643,7 @@ Gerichte
 - – Rechtsetzungsbefugnisse 31, 32
 - – Standesinitiative 59
 - – Stellung der Ratsmitglieder 28
-- – Teilnahme der Präsidenten von Kantons- und Verwaltungsgericht an den Sitzungen 51*a*<sup>2</sup>
+- – Teilnahme des Präsidiums des Obergerichts an den Sitzungen 51*a*<sup>2</sup>
 - – Unvereinbarkeiten 22
 - – Verteilung der Sitze 27
 - – Wahl des Grossen Rates 11
@@ -1642,20 +1694,12 @@ Kanton
 - – Finanzausgleich 96
 - – Interessenvertretung 41
 - – Interkantonale und internationale Verträge 16, 17, 32, 45
+- – Kantonale Behörden 21-59
 - – Kantonales Recht 43, 60, 65, 74, 99
 - – Kantonale Verwaltung 49, 50
 - – Kantonsgebiet
   - – Einteilung 68
   - – Wahlkreis 39, 57
-
-- – Kantonsgericht
-  - – Aufsicht durch Grossen Rat 33, 52
-  - – Finanzen 51*a*<sup>1</sup>
-  - – Justizaufsicht 52
-  - – Mitwirkung im Grossen Rat 51*a*<sup>2</sup>
-  - – Rechtsetzungskompetenzen 51*a*<sup>3</sup>
-  - – Wahl 36
-  - – Zivil- und Strafgerichtsbarkeit 54
 
 - – Kantonsreferendum 58
 - – Kantonsverfassung
@@ -1778,7 +1822,7 @@ Monopole 85
 
 **Rechnung**
 
-- – des Kantons- und Verwaltungsgerichts 51*a*<sup>1</sup>
+- – des Obergerichts 51*a*<sup>1</sup>
 - – fakultatives Referendum 17
 - – Genehmigung 35
 
@@ -1850,7 +1894,7 @@ Regierung
 
 Revision s. Verfassung
 
-Richter s. Gerichte
+Richterliche Behörden 51-56
 
 **Schlussbestimmungen** 102–107
 
@@ -1869,6 +1913,8 @@ Soziales
 
 - – Familie 88
 - – Integration 86
+
+Spezialverwaltungsgerichte 55
 
 Sport und Freizeitgestaltung 91
 
@@ -1967,9 +2013,7 @@ Verwaltung
 - – Departemente 49
 - – Leitung und Aufsicht 43
 - – Oberaufsicht 33
-- – Verwaltungsgericht s. Gerichte
-
-Verwaltungsgerichtsbarkeit 55
+- – Verwaltungsgerichtsbarkeit 55
 
 Volksabstimmungen
 
@@ -1997,9 +2041,9 @@ Wahlbefugnisse des Volks 11
 Wahlen
 
 - – durch den Grossen Rat
-  - – Kantonsgericht 36
+  - – Justizgericht 36
+  - – Obergericht 36
   - – Präsidium der Regierung 36, 40
-  - – Verwaltungsgericht 36
 
 - – durch die Regierung 47
 - – Volkswahlen

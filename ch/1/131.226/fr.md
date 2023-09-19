@@ -3,11 +3,11 @@ sr: "131.226"
 title: "Constitution du Canton des Grisons, du 14 septembre 2003"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/232_fga"
 language: fr
-version: 2022-03-16
+version: 2023-09-20
 adopted: 2003-09-14
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/232_fga/20220316/fr/xml/fedlex-data-admin-ch-eli-cc-2004-232_fga-20220316-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/232_fga/20220316/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/232_fga/20230920/fr/xml/fedlex-data-admin-ch-eli-cc-2004-232_fga-20230920-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/232_fga/20230920/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/232_fga/20220316/fr"
 
 Traduction[^t-1]
 
-du 18 mai 2003/14 septembre 2003 (État le 16 mars 2022)[^t-2]
+du 18 mai 2003/14 septembre 2003 (État le 20 septembre 2023)[^t-2]
 
 [^t-1]: Les textes originaux sont publiés, sous le même chiffre, dans les éditions allemande et italienne du présent recueil.
 [^t-2]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
@@ -61,7 +61,7 @@ Le Canton des Grisons est un État de droit libéral, démocratique et social.
 
 <sup>3</sup> Les communes choisissent leurs langues officielles ainsi que les langues dans lesquelles l’enseignement est dispensé dans les écoles dans les limites de leurs compétences et en collaboration avec le Canton. Ce choix doit être fait compte tenu des langues traditionnellement parlées par leurs populations et dans le respect des minorités linguistiques traditionnellement implantées sur leur territoire.[^3-1]
 
-[^3-1]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2015. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4 [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^3-1]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2015. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4, [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### Séparation et équilibre des pouvoirs
 
@@ -121,7 +121,7 @@ Les garanties de procédure et la protection juridique sont garanties dans les l
 
 <sup>4</sup> Dans les limites du droit communal, les communes peuvent accorder aux Suisses et aux Suissesses de l’étranger ainsi qu’aux personnes de nationalité étrangère le droit de vote ainsi que le droit d’éligibilité actif ou passif en matière communale.
 
-[^9-1]: Accepté en [votation populaire du 11 mars 2012](http://www.admin.ch/ch/f/pore/va/20120311/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2013. Garantie de l’Ass. féd. du 11 mars 2013 ([FF 2013 2337](https://fedlex.data.admin.ch/eli/fga/2013/457)art. 1 ch. 4 193).
+[^9-1]: Accepté en [votation populaire du 11 mars 2012](http://www.admin.ch/ch/f/pore/va/20120311/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2013. Garantie de l’Ass. féd. du 11 mars 2013 ([FF 2013 2337](https://fedlex.data.admin.ch/eli/fga/2013/457)art. 1 ch. 4, 193).
 
 ### Principes en matière d’élections et de votations
 
@@ -131,13 +131,13 @@ Les garanties de procédure et la protection juridique sont garanties dans les l
 
 <sup>2</sup> Les objets soumis en votation doivent être présentés de manière simple et aisément compréhensible. Les autorités doivent garantir que le processus de formation de l’opinion et que l’expression de la volonté populaire ne sont pas biaisés.
 
-[^10-1]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2017. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4 [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^10-1]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2017. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4, [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### Personnes et autorités élues par le peuple
 
 #### Art. 11
 
-Les personnes ayant le droit de vote élisent
+Les personnes ayant le droit de vote élisent:
 
 - 1\. les membres du Grand Conseil ainsi que leurs suppléants ou suppléantes;
 - 2\. les membres du Gouvernement;
@@ -147,8 +147,8 @@ Les personnes ayant le droit de vote élisent
 - 7\. les membres des autorités communales, dans la mesure où la législation prévoit ce mode d’élection;
 - 8\. les autres autorités et titulaires d’une fonction publique, dans la mesure où la législation prévoit ce mode d’élection.
 
-[^11-1]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2015. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4 [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
-[^11-2]: Abrogés en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), avec effet au 1<sup>er</sup> janv. 2015. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4 [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^11-1]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2015. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4, [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^11-2]: Abrogés en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), avec effet au 1<sup>er</sup> janv. 2015. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4, [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### 2. Initiative populaire
 
@@ -188,7 +188,9 @@ L’initiative est irrecevable en tout ou en partie si:
 
 <sup>2</sup> Elle peut être déclarée partiellement irrecevable si la volonté de ses auteurs ne s’en trouve pas faussée et si la logique et l’unité du projet ne sont pas compromises.
 
-<sup>3</sup> C’est au Grand Conseil qu’il appartient de juger de la recevabilité des initiatives. Sa décision peut être l’objet d’un recours au Tribunal administratif.
+<sup>3</sup> C’est au Grand Conseil qu’il appartient de juger de la recevabilité des initiatives. Sa décision peut être l’objet d’un recours à la Cour suprême.[^14-1]
+
+[^14-1]: Accepté en [votation populaire du 27 nov. 2022](http://www.admin.ch/ch/f/pore/va/20221127/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2025. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Procédure
 
@@ -215,7 +217,7 @@ Sont obligatoirement soumis au vote du peuple:
 - 5\. les décrets du Grand Conseil relatifs à des questions de principe au sens de l’art. 19, al. 1;
 - 6\.[^16-1] …
 
-[^16-1]: Abrogé en [votation populaire du 3 mars 2013](http://www.admin.ch/ch/f/pore/va/20130303/index.html), avec effet au 1<sup>er</sup> mai 2013. Garantie de l’Ass. féd. du 24 sept. 2014 ([FF 2014 7615](https://fedlex.data.admin.ch/eli/fga/2014/1644)art. 1 ch. 6 [3573](https://fedlex.data.admin.ch/eli/fga/2014/868)).
+[^16-1]: Abrogé en [votation populaire du 3 mars 2013](http://www.admin.ch/ch/f/pore/va/20130303/index.html), avec effet au 1<sup>er</sup> mai 2013. Garantie de l’Ass. féd. du 24 sept. 2014 ([FF 2014 7615](https://fedlex.data.admin.ch/eli/fga/2014/1644)art. 1 ch. 6, [3573](https://fedlex.data.admin.ch/eli/fga/2014/868)).
 
 ### Référendum facultatif
 
@@ -261,7 +263,11 @@ Sont obligatoirement soumis au vote du peuple:
 
 <sup>2</sup> Leurs activités peuvent être soutenues par le canton à condition que leur organisation et leurs objectifs soient conformes aux principes de la démocratie et du droit.
 
-## IV. Autorités et tribunaux
+## IV. Autorités cantonales
+
+[^lvlIV-1]
+
+[^lvlIV-1]: Accepté en [votation populaire du 27 nov. 2022](http://www.admin.ch/ch/f/pore/va/20221127/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2025. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### 1. Généralités
 
@@ -269,34 +275,44 @@ Sont obligatoirement soumis au vote du peuple:
 
 #### Art. 21
 
-<sup>1</sup> Sont éligibles aux autorités et tribunaux du canton ainsi qu’au Conseil des États les citoyens ayant le droit de vote dans le canton. La loi peut prévoir que la condition d’éligibilité doit être remplie seulement lors de l’entrée en fonction.[^21-1]
+<sup>1</sup> Sont éligibles aux autorités cantonales ainsi qu’au Conseil des États les citoyens ayant le droit de vote dans le canton. La loi peut prévoir que la condition d’éligibilité doit être remplie seulement lors de l’entrée en fonction.[^21-1]
 
-<sup>2</sup> Les autres conditions d’éligibilité aux autorités et tribunaux du canton ainsi que les conditions d’engagement du personnel de l’État sont régies par la loi.
+<sup>1bis</sup> La loi peut prévoir que l’obligation de domicile comme condition d’éligibilité ne s’applique pas aux membres des autorités judiciaires.[^21-2]
 
-<sup>3</sup> La loi régit la suspension et la destitution des membres des autorités et des tribunaux.[^21-2]
+<sup>2</sup> Les autres conditions d’éligibilité applicables aux membres des autorités cantonales ainsi que les conditions d’engagement du personnel de l’État sont régies par la loi.[^21-3]
 
-[^21-1]: Accepté en [votation populaire du 26 nov. 2006](http://www.admin.ch/ch/f/pore/va/20061126/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2007. Garantie de l’Ass. féd. du 6 mars 2008 ([FF 2008 2273](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1, ch. 8, [2007 7197](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
-[^21-2]: Accepté en [votation populaire du 26 nov. 2006](http://www.admin.ch/ch/f/pore/va/20061126/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2007. Garantie de l’Ass. féd. du 6 mars 2008 ([FF 2008 2273](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1, ch. 8, [2007 7197](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+<sup>3</sup> La loi régit la suspension et la destitution des membres des autorités cantonales.[^21-4]
+
+[^21-1]: Accepté en [votation populaire du 27 nov. 2022](http://www.admin.ch/ch/f/pore/va/20221127/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2025. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^21-2]: Accepté en [votation populaire du 27 nov. 2022](http://www.admin.ch/ch/f/pore/va/20221127/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2025. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^21-3]: Accepté en [votation populaire du 27 nov. 2022](http://www.admin.ch/ch/f/pore/va/20221127/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2025. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^21-4]: Accepté en [votation populaire du 27 nov. 2022](http://www.admin.ch/ch/f/pore/va/20221127/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2025. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Incompatibilités
 
 #### Art. 22
 
-<sup>1</sup> Nul ne peut être membre de son autorité de surveillance directe.
+<sup>1</sup> Nul ne peut être membre de son autorité cantonale de recours ou de son autorité de surveillance directe. La loi peut prévoir des exceptions.[^22-1]
 
 <sup>2</sup> Les membres du Gouvernement et des autorités judiciaires, de même que les membres du personnel de l’État engagés à plein temps ou à titre principal ne peuvent pas siéger au Grand Conseil.
 
-<sup>3</sup> Les personnes qui revêtent une fonction de juge dans le canton ne peuvent pas être en même temps membres du Gouvernement ou d’une autre autorité judiciaire du canton.
+<sup>3</sup> Les juges ne peuvent pas être membres du Gouvernement.[^22-2]
 
-<sup>4</sup> Les membres du Gouvernement et les membres d’une autorité judiciaire qui exercent leur fonction à plein temps ne sont éligibles ni aux Chambres fédérales ni au Tribunal fédéral.
+<sup>4</sup> Les membres du Gouvernement et les membres des autorités judiciaires qui exercent leur fonction à plein temps ne sont éligibles ni aux Chambres fédérales ni au Tribunal fédéral.[^22-3]
 
 <sup>5</sup> Les autres cas d’incompatibilité de fonctions et de tâches, les restrictions liées à la parenté ainsi que les exceptions sont régies par la loi.
+
+[^22-1]: Accepté en [votation populaire du 27 nov. 2022](http://www.admin.ch/ch/f/pore/va/20221127/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2025. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^22-2]: Accepté en [votation populaire du 27 nov. 2022](http://www.admin.ch/ch/f/pore/va/20221127/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2025. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^22-3]: Accepté en [votation populaire du 27 nov. 2022](http://www.admin.ch/ch/f/pore/va/20221127/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2025. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Durée de fonction
 
 #### Art. 23
 
-Pour les membres du Grand Conseil, du Gouvernement, des tribunaux et du Conseil des États, la durée de fonction est de quatre ans.
+La durée de fonction est de quatre ans pour les membres du Grand Conseil et du Gouvernement, les membres ordinaires des autorités judiciaires et les membres du Conseil des États.[^23-1]
+
+[^23-1]: Accepté en [votation populaire du 27 nov. 2022](http://www.admin.ch/ch/f/pore/va/20221127/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2025. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Immunité
 
@@ -320,7 +336,7 @@ Les autorités et les tribunaux informent régulièrement le public de leurs act
 
 <sup>2</sup> Le législateur peut prévoir des exceptions. En cas de dommages résultant d’actions conformes à la loi, il peut prévoir que les autorités engagent leur responsabilité lorsque l’équité l’exige.
 
-[^26-1]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2015. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4 [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^26-1]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2015. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4, [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### 2. Le Grand Conseil
 
@@ -341,7 +357,7 @@ Les autorités et les tribunaux informent régulièrement le public de leurs act
 <sup>5</sup> La suppléance est régie par la loi.
 
 [^27-1]: Accepté en [votation populaire du 13 juin 2021](http://www.admin.ch/ch/f/pore/va/20210613/index.html), en vigueur depuis le 1<sup>er</sup> oct. 2021. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 2; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
-[^27-2]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2015. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4 [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^27-2]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2015. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4, [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### Statut des membres du conseil
 
@@ -381,10 +397,12 @@ Sont considérées comme importantes notamment les dispositions qui doivent êtr
 - 2\. la qualité de contribuable, l’objet des impôts et la manière de les calculer, à moins qu’il ne s’agisse de modifications de peu d’importance;
 - 3\. le but, l’objet et l’envergure des prestations importantes de l’État;
 - 4\. les principes de la répartition des tâches entre le Canton et les communes;
-- 5\. le principe de l’organisation et des tâches des autorités et des tribunaux;
+- 5\.[^31-1] le principe de l’organisation et des tâches des autorités cantonales;
 - 6\. la nature et l’envergure du transfert de tâches relevant de la puissance publique de l’État à des organismes extérieurs à l’administration cantonale.
 
 <sup>3</sup> La validité des lois peut être limitée dans le temps. Avant d’être prorogées, les lois doivent être examinées quant à leur efficacité.
+
+[^31-1]: Accepté en [votation populaire du 27 nov. 2022](http://www.admin.ch/ch/f/pore/va/20221127/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2025. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Autres compétences législatives
 
@@ -400,9 +418,11 @@ Sont considérées comme importantes notamment les dispositions qui doivent êtr
 
 #### Art. 33
 
-<sup>1</sup> Le Grand Conseil exerce la surveillance sur le Gouvernement ainsi que sur le Tribunal cantonal et le Tribunal administratif.
+<sup>1</sup> Le Grand Conseil exerce la surveillance sur le Gouvernement ainsi que sur la Cour suprême et le Tribunal de la magistrature.[^33-1]
 
 <sup>2</sup> Il exerce la haute surveillance sur l’administration, les autres secteurs de la justice et sur les autres organismes investis de tâches publiques.
+
+[^33-1]: Accepté en [votation populaire du 27 nov. 2022](http://www.admin.ch/ch/f/pore/va/20221127/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2025. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Planification
 
@@ -424,7 +444,7 @@ Sont considérées comme importantes notamment les dispositions qui doivent êtr
 
 <sup>3</sup> Il décide de manière définitive des nouvelles dépenses uniques n’excédant pas un million de francs ainsi que des nouvelles dépenses périodiques n’excédant pas 300 000 francs par année.
 
-[^35-1]: Accepté en [votation populaire du 26 sept. 2004](http://www.admin.ch/ch/f/pore/va/20040926/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2005. Garantie de l’Ass. féd. du 6 oct. 2005 ([FF 2005 5625](https://fedlex.data.admin.ch/eli/fga/2005/963)art. 1, ch. 5 [2715](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^35-1]: Accepté en [votation populaire du 26 sept. 2004](http://www.admin.ch/ch/f/pore/va/20040926/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2005. Garantie de l’Ass. féd. du 6 oct. 2005 ([FF 2005 5625](https://fedlex.data.admin.ch/eli/fga/2005/963)art. 1, ch. 5, [2715](https://fedlex.data.admin.ch/eli/fga/2005/452)).
 
 ### Élections
 
@@ -434,8 +454,10 @@ Le Grand Conseil élit:
 
 - 1\. ses organes et ses commissions;
 - 2\. le président ou la présidente du Gouvernement;
-- 3\. les membres du Tribunal cantonal et du Tribunal administratif;
+- 3\.[^36-1] les membres de la Cour suprême et du Tribunal de la magistrature;
 - 4\. les membres des autres autorités et organes désignés par la loi.
+
+[^36-1]: Accepté en [votation populaire du 27 nov. 2022](http://www.admin.ch/ch/f/pore/va/20221127/index.html), en vigueur depuis le 1<sup>er</sup> oct. 2023. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Grâce
 
@@ -561,25 +583,32 @@ En outre, le Gouvernement s’occupe notamment:
 
 <sup>1</sup> Le Canton peut confier certaines tâches publiques à des organismes extérieurs à l’administration cantonale.
 
-<sup>2</sup> La surveillance par le Gouvernement, une participation adéquate du Grand Conseil et la protection juridique doivent être garanties.
+<sup>2</sup> Une surveillance suffisante, une participation adéquate du Grand Conseil et la protection juridique doivent être garanties.[^50-1]
 
-<sup>3</sup> Les établissements autonomes de droit public cantonal peuvent édicter des ordonnances si la législation les y habilite expressément et si la matière à régler ne doit pas l’être impérativement au degré législatif.[^50-1]
+<sup>3</sup> Les établissements autonomes de droit public cantonal peuvent édicter des ordonnances si la législation les y habilite expressément et si la matière à régler ne doit pas l’être impérativement au degré législatif.[^50-2]
 
-[^50-1]: Accepté en [votation populaire du 24 sept. 2006](http://www.admin.ch/ch/f/pore/va/20060924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2007. Garantie de l’Ass. féd. du 6 mars 2008 ([FF 2008 2273](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1, ch. 8, [2007 7197](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+[^50-1]: Accepté en [votation populaire du 27 nov. 2022](http://www.admin.ch/ch/f/pore/va/20221127/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2025. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^50-2]: Accepté en [votation populaire du 24 sept. 2006](http://www.admin.ch/ch/f/pore/va/20060924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2007. Garantie de l’Ass. féd. du 6 mars 2008 ([FF 2008 2273](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1, ch. 8; [2007 7197](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
 
-### 4. Tribunaux
+### 4. Autorités judiciaires
+
+[^lvlIV-lvl4-1]
+
+[^lvlIV-lvl4-1]: Accepté en [votation populaire du 27 nov. 2022](http://www.admin.ch/ch/f/pore/va/20221127/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2025. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Indépendance et impartialité
 
 #### Art. 51
 
-<sup>1</sup> L’indépendance et l’impartialité des tribunaux sont garanties. La jurisprudence des tribunaux ne doit être dictée que par le droit.
+<sup>1</sup> L’indépendance et l’impartialité des autorités judiciaires sont garanties. La jurisprudence des autorités judiciaires ne doit être dictée que par le droit.[^51-1]
 
-<sup>2</sup> Sous réserve des compétences du Grand Conseil, l’administration de la justice incombe aux tribunaux.
+<sup>2</sup> Sous réserve des compétences du Grand Conseil, l’administration de la justice incombe aux autorités judiciaires.[^51-2]
 
-<sup>3</sup> Les juges ne sont pas autorisés à représenter une partie en matière contentieuse devant leur propre instance.
+<sup>3</sup> et <sup>4</sup> …[^51-3]
 
-<sup>4</sup> Les membres d’une autorité judiciaire qui exercent leur fonction à plein temps ne sont pas autorisés à avoir une occupation accessoire. La loi peut autoriser des exceptions.
+[^51-1]: Accepté en [votation populaire du 27 nov. 2022](http://www.admin.ch/ch/f/pore/va/20221127/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2025. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^51-2]: Accepté en [votation populaire du 27 nov. 2022](http://www.admin.ch/ch/f/pore/va/20221127/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2025. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^51-3]: Abrogés en [votation populaire du 27 nov. 2022](http://www.admin.ch/ch/f/pore/va/20221127/index.html), avec effet au 1<sup>er</sup> janv. 2025. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Finances, droits de participation aux délibérations du Grand Conseil et compétences législatives
 
@@ -587,23 +616,33 @@ En outre, le Gouvernement s’occupe notamment:
 
 [^51a-1]
 
-<sup>1</sup> Le Tribunal cantonal et le Tribunal administratif soumettent à l’approbation du Grand Conseil leur projet de budget, leurs comptes annuels et leur rapport de gestion.
+<sup>1</sup> La Cour suprême soumet à l’approbation du Grand Conseil son projet de budget ainsi que ses comptes annuels et son rapport de gestion.[^51a-2]
 
-<sup>2</sup> Les présidents participent aux séances du Grand Conseil consacrées à l’examen du budget, des comptes annuels et des rapports de gestion des tribunaux. Ils ont voix consultative et peuvent émettre des propositions.
+<sup>1bis</sup> Elle peut adresser au Grand Conseil des propositions de modifications constitutionnelles et de projets de lois portant sur l’administration de la justice.[^51a-3]
 
-<sup>3</sup> Le Tribunal cantonal et le Tribunal administratif peuvent édicter des ordonnances concernant l’administration et la surveillance de la justice si la législation les y habilite expressément et si la matière à régler ne doit pas l’être impérativement au degré législatif.
+<sup>2</sup> Le président ou la présidente de la Cour suprême participe aux séances du Grand Conseil sur le budget, les comptes annuels et le rapport de gestion ainsi que sur les projets normatifs proposés par la Cour suprême. Il ou elle a voix consultative et peut soumettre des propositions.[^51a-4]
 
-[^51a-1]: Accepté en [votation populaire du 26 nov. 2006](http://www.admin.ch/ch/f/pore/va/20061126/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2007. Garantie de l’Ass. féd. du 6 mars 2008 ([FF 2008 2273](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1, ch. 8, [2007 7197](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+<sup>3</sup> Les tribunaux peuvent édicter des ordonnances concernant l’administration de la justice si la loi les y habilite expressément et si la matière à régler ne doit pas l’être impérativement au degré législatif.[^51a-5]
+
+[^51a-1]: Accepté en [votation populaire du 26 nov. 2006](http://www.admin.ch/ch/f/pore/va/20061126/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2007. Garantie de l’Ass. féd. du 6 mars 2008 ([FF 2008 2273](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1, ch. 8; [2007 7197](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+[^51a-2]: Accepté en [votation populaire du 27 nov. 2022](http://www.admin.ch/ch/f/pore/va/20221127/index.html), en vigueur depuis le 1<sup>er</sup> juil. 2024. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^51a-3]: Accepté en [votation populaire du 27 nov. 2022](http://www.admin.ch/ch/f/pore/va/20221127/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2025. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^51a-4]: Accepté en [votation populaire du 27 nov. 2022](http://www.admin.ch/ch/f/pore/va/20221127/index.html), en vigueur depuis le 1<sup>er</sup> juil. 2024. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^51a-5]: Accepté en [votation populaire du 27 nov. 2022](http://www.admin.ch/ch/f/pore/va/20221127/index.html), en vigueur depuis le 1<sup>er</sup> avr. 2023. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Surveillance des autorités judiciaires
 
 #### Art. 52
 
-<sup>1</sup> Le Tribunal cantonal exerce la surveillance sur tous les domaines de la justice, tant en matière civile qu’en matière pénale.
+<sup>1</sup> La Cour suprême exerce la surveillance sur la justice en matière civile, pénale et administrative dans la mesure où celle-ci relève des autorités judiciaires. La loi peut lui confier d’autres tâches de surveillance.[^52-1]
 
-<sup>2</sup> Le Grand Conseil exerce la surveillance sur le Tribunal cantonal et le Tribunal administratif ainsi que la haute surveillance sur les autres secteurs de l’administration de la justice.
+<sup>2</sup> Le Grand Conseil exerce la surveillance sur la Cour suprême et le Tribunal de la magistrature ainsi que la haute surveillance sur les autorités soumises à la surveillance de la Cour suprême.[^52-2]
 
-<sup>3</sup> La surveillance et la haute surveillance se limitent aux domaines de la gestion et de l’administration.
+<sup>3</sup> La surveillance et la haute surveillance se limitent à l’administration des autorités judiciaires.[^52-3]
+
+[^52-1]: Accepté en [votation populaire du 27 nov. 2022](http://www.admin.ch/ch/f/pore/va/20221127/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2025. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^52-2]: Accepté en [votation populaire du 27 nov. 2022](http://www.admin.ch/ch/f/pore/va/20221127/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2025. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^52-3]: Accepté en [votation populaire du 27 nov. 2022](http://www.admin.ch/ch/f/pore/va/20221127/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2025. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Publicité des débats
 
@@ -617,29 +656,43 @@ Sous réserve des exceptions prévues par la loi, les débats sont publics.
 
 La juridiction civile et la juridiction pénale sont exercées par:
 
-- 1\. le Tribunal cantonal;
-- 2\.[^54-1] les tribunaux régionaux en tant que tribunaux de première instance du canton;
-- 3\.[^54-2] …
+- 1\.[^54-1] la Cour suprême;
+- 2\.[^54-2] les tribunaux régionaux en tant que tribunaux de première instance du canton;
+- 3\.[^54-3] …
+- 4\.[^54-4] le Tribunal cantonal des mesures de contrainte;
+- 5\.[^54-5] les autorités de conciliation.
 
-[^54-1]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2017. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4 [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
-[^54-2]: Abrogé en [votation populaire du 17 mai 2009](http://www.admin.ch/ch/f/pore/va/20090517/index.html), avec effet au 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 8 juin 2010 ([FF 2010 3977](https://fedlex.data.admin.ch/eli/fga/2010/748)art. 1 ch. 5 [1955](https://fedlex.data.admin.ch/eli/fga/2010/378)).
+[^54-1]: Accepté en [votation populaire du 27 nov. 2022](http://www.admin.ch/ch/f/pore/va/20221127/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2025. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^54-2]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2017. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4, [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^54-3]: Abrogé en [votation populaire du 17 mai 2009](http://www.admin.ch/ch/f/pore/va/20090517/index.html), avec effet au 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 8 juin 2010 ([FF 2010 3977](https://fedlex.data.admin.ch/eli/fga/2010/748)art. 1 ch. 5, [1955](https://fedlex.data.admin.ch/eli/fga/2010/378)).
+[^54-4]: Accepté en [votation populaire du 27 nov. 2022](http://www.admin.ch/ch/f/pore/va/20221127/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2025. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^54-5]: Accepté en [votation populaire du 27 nov. 2022](http://www.admin.ch/ch/f/pore/va/20221127/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2025. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Juridiction constitutionnelle et juridiction administrative
 
 #### Art. 55
 
-<sup>1</sup> En dernier ressort, le jugement des litiges de droit public relève du Tribunal administratif, à moins que la loi n’en dispose autrement.
+<sup>1</sup>
+
+La juridiction administrative est exercée par:
+
+- 1\. la Cour suprême;
+- 2\. le Tribunal de la magistrature;
+- 3\. d’autres tribunaux administratifs spéciaux.[^55-1]
 
 <sup>2</sup>
 
-Le Tribunal administratif fonctionne comme cour constitutionnelle lorsqu’il est appelé à connaître:
+La Cour suprême fonctionne comme cour constitutionnelle lorsqu’elle est appelée à connaître:[^55-2]
 
 - 1\. de recours pour violation de droits constitutionnels, de droits politiques ou du principe de la primauté du droit de rang supérieur;
-- 2\.[^55-1] de recours pour violation de l’autonomie des communes, d’autres corporations de droit public ou des Églises reconnues par l’État.
+- 2\.[^55-3] de recours pour violation de l’autonomie des communes, d’autres corporations de droit public ou des Églises reconnues par l’État.[^55-4]
 
 <sup>3</sup> Dans le cadre de la procédure devant la juridiction constitutionnelle, les lois et ordonnances peuvent être contestées directement ou alors examinées dans le contexte de leur application concrète.
 
-[^55-1]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2017. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4 [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^55-1]: Accepté en [votation populaire du 27 nov. 2022](http://www.admin.ch/ch/f/pore/va/20221127/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2025. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^55-2]: Accepté en [votation populaire du 27 nov. 2022](http://www.admin.ch/ch/f/pore/va/20221127/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2025. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^55-3]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4, [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^55-4]: Accepté en votation populaire 26 nov. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007. Garantie de l’Ass. féd. du 6 mars 2008 (FF **2008** 2493 art. 1 ch. 8; **2007** 7663).
 
 ### Autres autorités judiciaires ou extrajudiciaires
 
@@ -753,7 +806,7 @@ Toute commune politique doit être dotée:
 
 [^lvlV-lvl2-1]
 
-[^lvlV-lvl2-1]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2015. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4 [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^lvlV-lvl2-1]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2015. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4, [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### A. Subdivisions du territoire cantonal
 
@@ -781,13 +834,13 @@ Le Canton se compose des régions suivantes:
 
 <sup>2</sup> La loi règle l’appartenance des communes à ces régions.
 
-[^68-1]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2015. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4 [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^68-1]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2015. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4, [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 #### Art. 69
 
 [^69-1]
 
-[^69-1]: Abrogé en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), avec effet au 1<sup>er</sup> janv. 2015. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4 [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^69-1]: Abrogé en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), avec effet au 1<sup>er</sup> janv. 2015. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4, [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### B. Statut et tâches
 
@@ -795,7 +848,7 @@ Le Canton se compose des régions suivantes:
 
 [^70-1]
 
-[^70-1]: Abrogé en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), avec effet au 1<sup>er</sup> janv. 2015. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4 [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^70-1]: Abrogé en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), avec effet au 1<sup>er</sup> janv. 2015. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4, [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### Régions
 
@@ -809,13 +862,13 @@ Le Canton se compose des régions suivantes:
 
 <sup>3</sup> Les régions sont les circonscriptions judiciaires des tribunaux régionaux.
 
-[^71-1]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2015. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4 [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^71-1]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2015. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4, [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 #### Art. 72
 
 [^72-1]
 
-[^72-1]: Abrogé en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), avec effet au 1<sup>er</sup> janv. 2017. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4 [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^72-1]: Abrogé en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), avec effet au 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4, [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### C. Organisation et surveillance
 
@@ -823,7 +876,7 @@ Le Canton se compose des régions suivantes:
 
 [^73-1]
 
-[^73-1]: Abrogé en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), avec effet au 1<sup>er</sup> janv. 2017. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4 [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^73-1]: Abrogé en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), avec effet au 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4, [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### Surveillance
 
@@ -835,7 +888,7 @@ Le Canton se compose des régions suivantes:
 
 <sup>2</sup> Pour ce qui est des tâches qui ont été confiées aux régions par les communes, la surveillance se limite au contrôle de leur légalité, à moins que la loi n’en dispose autrement.
 
-[^74-1]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2015. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4 [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^74-1]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2015. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4, [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ## VI. Tâches publiques
 
@@ -861,7 +914,7 @@ Le Canton se compose des régions suivantes:
 
 <sup>2</sup> Le Canton, les régions et les communes coopèrent dans l’accomplissement des tâches publiques. La collaboration avec le secteur privé doit être recherchée le plus souvent possible.[^76-1]
 
-[^76-1]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2015. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4 [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^76-1]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2015. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4, [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### Décentralisation de l’activité de l’État
 
@@ -931,7 +984,7 @@ Le Canton et les communes s’efforcent d’assurer une utilisation et un dével
 
 Le canton ne prend pas de participations dans des entreprises qui investissent dans des centrales électriques à charbon. Il veille, dans le cadre de ses possibilités juridiques et politiques, à ce que les entreprises à participation cantonale renoncent à leurs investissements dans des centrales à charbon.
 
-[^83a-1]: Accepté en [votation populaire du 14 juin 2015](http://www.admin.ch/ch/f/pore/va/20150614/index.html), en vigueur depuis le 1<sup>er</sup> nov. 2016. Garantie de l’Ass. féd. du 27 sept. 2016 ([FF 2016 7687](https://fedlex.data.admin.ch/eli/fga/2016/1680)art. 3 3547).
+[^83a-1]: Accepté en [votation populaire du 14 juin 2015](http://www.admin.ch/ch/f/pore/va/20150614/index.html), en vigueur depuis le 1<sup>er</sup> nov. 2016. Garantie de l’Ass. féd. du 27 sept. 2016 ([FF 2016 7687](https://fedlex.data.admin.ch/eli/fga/2016/1680)art. 3, 3547).
 
 ### 4. Économie
 
@@ -947,7 +1000,7 @@ Le canton ne prend pas de participations dans des entreprises qui investissent d
 
 <sup>4</sup> Ils prennent des mesures pour limiter autant que possible la densité de la réglementation et la charge administrative auxquelles sont soumises les entreprises, en particulier les petites et moyennes entreprises (PME).[^84-1]
 
-[^84-1]: Accepté en votation populaire du 29 janv. 2012, en vigueur depuis le 29 janv. 2012. Garantie de l’Ass. féd. du 11 mars 2013 ([FF 2013 2337](https://fedlex.data.admin.ch/eli/fga/2013/457)art. 1 ch. 4 193).
+[^84-1]: Accepté en votation populaire du 29 janv. 2012, en vigueur depuis le 29 janv. 2012. Garantie de l’Ass. féd. du 11 mars 2013 ([FF 2013 2337](https://fedlex.data.admin.ch/eli/fga/2013/457)art. 1 ch. 4, 193).
 
 ### Régales et monopoles
 
@@ -1222,7 +1275,7 @@ Sous réserve des exceptions suivantes, les autorités administratives et judici
 
 <sup>4</sup> La responsabilité des cercles, des districts et des syndicats régionaux ainsi que la surveillance de ces corporations sont garantis tant que ces dernières subsistent, dans la mesure prévue par la constitution du Canton des Grisons du 18 mai 2003/14 septembre 2003.
 
-[^108-1]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html). Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4 [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)). L’al. 1 entre en vigueur le 1<sup>er</sup> mars 2014; les al. 2 à 4 entrent en vigueur le 1<sup>er</sup> janv. 2015.
+[^108-1]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html). Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4, [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)). L’al. 1 entre en vigueur le 1<sup>er</sup> mars 2014; les al. 2 à 4 entrent en vigueur le 1<sup>er</sup> janv. 2015.
 
 ## Index des matières
 
@@ -1234,9 +1287,8 @@ Administration cantonale
 - – direction et surveillance 43
 - – haute surveillance 33
 - – surveillance 22, 30, 33, 47, 50, 52, 67, 74, 83, 97, 99 v. aussi Surveillance, Autorités, Canton
-- – Tribunal administratif v. Tribunaux
 
-Age
+Âge
 
 - – comme condition du droit de vote 9
 
@@ -1275,7 +1327,7 @@ Autorités
 
 Budget
 
-- – du Tribunal cantonal et Tribunal administratif 51*a*
+- – de la Cour suprême 51*a*
 - – fixation par le Grand Conseil 35
 - – approbation par le Gouvernement 46
 - – référendum facultatif 17
@@ -1340,13 +1392,7 @@ Canton
   - – aux syndicats régionaux 72
 
 - – Tribunal cantonal
-  - – compétences législatives 51*a*<sup>3</sup>
-  - – élections 36
-  - – finances 51*a*<sup>1</sup>
-  - – juridiction civile et juridiction pénale 54
-  - – participation aux délibérations du Grand Conseil 51*a*<sup>2</sup>
-  - – surveillance par le Grand Conseil 33, 52
-  - – surveillance sur la justice 52
+  - – mesures de contrainte 54
 
 **Catastrophe** protection en cas de 79
 
@@ -1425,7 +1471,7 @@ Communes
 Compte
 
 - – approbation 35
-- – du Tribunal cantonal e Tribunal administratif 51*a*
+- – Cour suprême 51*a*
 - – référendum facultatif 17
 
 Confédération
@@ -1561,9 +1607,9 @@ Droit(s)
 Élections
 
 - – par le Grand Conseil
+  - – Cour suprême 36
   - – président ou la présidente du Gouvernement 36, 40
-  - – Tribunal administratif 36
-  - – Tribunal cantonal 36
+  - – Tribunal magistrature 36
   - – Tribunaux régionaux 11
 
 - – par le Gouvernement 47
@@ -1677,7 +1723,7 @@ Grand Conseil
 - – initiative cantonale 59
 - – législation 31, 32
 - – objectifs politiques et planification 34
-- – participation des présidents du Tribunal cantonal et du Tribunal administratif au séances 51*a*<sup>2</sup>
+- – participation du président ou de la présidente de la Cour suprême 51*a*<sup>2</sup>
 - – pouvoir de légiférer 31, 32
 - – publicité des séances 29
 - – référendum cantonal 58
@@ -1864,8 +1910,8 @@ Publicité
 
 Rapport
 
+- – de la Cour suprême 51*a*<sup>1</sup>
 - – du Gouvernement 47
-- – du Tribunal cantonal et du Tribunal administratif 51*a*<sup>1</sup>
 
 **Recherche** 90
 
@@ -1929,6 +1975,9 @@ Social
 Surveillance (haute surveillance)
 
 - – autorité de surveillance. incompatibilités 22
+- – de la Cour suprême
+  - – justice en matière civile, pénale et administrative 52
+
 - – du Canton
   - – eaux 83
   - – paroisses 99
@@ -1943,9 +1992,7 @@ Surveillance (haute surveillance)
   - – régions 74
   - – communes 67
   - – organismes chargés de tâches publiques 47, 50
-
-- – du Tribunal cantonal
-  - – justice en matière civile et pénale 52
+  - [tab]
 
 **Syndicats régionaux** 69, 72, 74, 107
 
@@ -1962,9 +2009,18 @@ Tribunaux
 - – autres autorités judiciaires ou extrajudiciaires 56
 - – circonscriptions de juridiction 71
 - – compte annuel 51*a*
+- – Cour suprême
+  - – élection 36
+  - – finances 51*a*<sup>1</sup>
+  - – juridiction constitutionnelle et administrative 55
+  - – législation 51*a*<sup>3</sup>
+  - – participation aux séances du Grand Conseil 51*a*<sup>2</sup>
+  - – recevabilité des initiatives 14
+  - – surveillance par le Grand Conseil 33, 52
+
 - – durée de fonction 23, 105
 - – élection des membres
-  - – Tribunal cantonal et Tribunal administratif 36
+  - – Cour suprême et Tribunal de la magistrature 36
 
 - – éligibilité 21
 - – incompatibilités 22
@@ -1979,21 +2035,9 @@ Tribunaux
 - – séparation et équilibre des pouvoirs 4
 - – surveillance de la justice 52
 - – suspension et destitution 21<sup>3</sup>
-- – Tribunal administratif
+- – Tribunal de la magistrature
   - – élection 36
-  - – finances 51*a*<sup>1</sup>
-  - – juridiction constitutionnelle et administrative 55
-  - – législation 51*a*<sup>3</sup>
-  - – participation aux séances du Grand Conseil 51*a*<sup>2</sup>
-  - – recevabilité des initiatives 14
   - – surveillance par le Grand Conseil 33, 52
-
-- – Tribunal cantonal
-  - – élection 36
-  - – finances 51*a*<sup>1</sup>
-  - – juridiction civile et pénale 54
-  - – surveillance par le Grand Conseil 33, 52
-  - – surveillance sur tous les domaines de la justice 52
 
 - – tribunaux régionaux
   - – élection 11

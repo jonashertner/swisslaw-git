@@ -3,11 +3,11 @@ sr: "131.226"
 title: Constituziun dal chantun Grischun dals 18 da matg 2003/14 da settember 2003
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/232_fga"
 language: rm
-version: 2022-03-16
+version: 2023-09-20
 adopted: 2003-09-14
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/232_fga/20220316/rm/xml/fedlex-data-admin-ch-eli-cc-2004-232_fga-20220316-rm-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/232_fga/20220316/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/232_fga/20230920/rm/xml/fedlex-data-admin-ch-eli-cc-2004-232_fga-20230920-rm-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/232_fga/20230920/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,9 +16,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/232_fga/20220316/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-dals 18 da matg 2003/14 da settember 2003 (versiun dals 16 da mars 2022)[^t-1]
+dals 18 da matg 2003/14 da settember 2003 (versiun dals 20 da settember 2023)[^t-1]
 
-[^t-1]: Questa publicaziun sa basa sin las midadas en il rom da las garanzias federalas publitgadas en il BBl. Ella po divergiar temporarmain da la publicaziun en la collecziun da leschas chantunalas. La data da la versiun è pia quella da l'ultima garanzia federala publitgada en il Fegl uffizial federal.
+[^t-1]: Questa publicaziun sa basa sin las midadas en il rom da las garanzias federalas publitgadas en il BBl. Ella po divergiar temporarmain da la publicaziun en la collecziun da leschas chantunalas. La data da la versiun è pia quella da l’ultima garanzia federala publitgada en il Fegl uffizial federal.
 
 Nus, il pievel dal chantun Grischun,
 
@@ -60,7 +60,7 @@ Il chantun Grischun è in stadi da dretg liberal, democratic e social.
 
 <sup>3</sup> Las vischnancas determineschan lur linguas uffizialas e lur linguas da scola, e quai en il rom da lur cumpetenza ed en cooperaziun cun il chantun. En quest connex respectan ellas la cumposiziun linguistica usitada e resguardan las minoritads linguisticas tradiziunalas.[^3-1]
 
-[^3-1]: Acceptada dal pievel ils 23 da sett. 2012, entrada en vigur il 1. da schan. 2015; garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^3-1]: Acceptà en la votaziun dal pievel dals 23 da sett. 2012, en vigur dapi il 1. da schan. 2015. Garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### Separaziun e limitaziun da las pussanzas
 
@@ -120,7 +120,7 @@ Las garanzias da procedura e la protecziun legala èn garantidas en il rom da la
 
 <sup>4</sup> A norma dal dretg communal pon las vischnancas conceder a las Svizras ed als Svizzers a l’exteriur respectivamain a las estras ed als esters il dretg da votar sco er il dretg d’eleger activ e passiv en chaussas communalas.
 
-[^9-1]: Acceptada dal pievel ils 11 da mars 2012, entrada en vigur il 1. da schan. 2013; garanzia dals 11 da mars 2013 ([BBl 2013 2619](https://fedlex.data.admin.ch/eli/fga/2013/457)art. 1 cifra 4 [195](https://fedlex.data.admin.ch/eli/fga/2013/6)).
+[^9-1]: Acceptà en la votaziun dal pievel dals 11 da mars 2012, en vigur dapi il 1. da schan. 2013. Garanzia dals 11 da mars 2013 ([BBl 2013 2619](https://fedlex.data.admin.ch/eli/fga/2013/457)art. 1 cifra 4 [195](https://fedlex.data.admin.ch/eli/fga/2013/6)).
 
 ### Princips d’elecziun e da votaziun
 
@@ -130,7 +130,7 @@ Las garanzias da procedura e la protecziun legala èn garantidas en il rom da la
 
 <sup>2</sup> Ils projects da votaziun duain esser simpels ed enclegentaivels. I sto vegnir garantida ina furmaziun ed ina manifestaziun nunfalsifitgada da la voluntad.
 
-[^10-1]: Acceptada dal pievel ils 23 da sett. 2012, entrada en vigur il 1. da schan. 2017; garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^10-1]: Acceptà en la votaziun dal pievel dals 23 da sett. 2012, en vigur dapi il 1. da schan. 2017. Garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### Cumpetenzas electoralas
 
@@ -146,8 +146,8 @@ Las persunas cun dretg da votar elegian:
 - 7\. las commembras ed ils commembers da las autoritads communalas a norma da la legislaziun;
 - 8\. ulteriuras autoritads, titularas e titulars d’in uffizi a norma da la legislaziun.
 
-[^11-1]: Acceptada dal pievel ils 23 da sett. 2012, entrada en vigur il 1. da schan. 2015; garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
-[^11-2]: Abolì en la votaziun dal pievel ils 23 da sett. 2012, cun effect a partir dal 1. da schan. 2015; garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^11-1]: Acceptà en la votaziun dal pievel dals 23 da sett. 2012, en vigur dapi il 1. da schan. 2015. Garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^11-2]: Abolì tras la votaziun dal pievel ils 23 da sett. 2012, cun effect dapi il 1. da schan. 2015. Garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### 2. Iniziativa dal pievel
 
@@ -155,16 +155,16 @@ Las persunas cun dretg da votar elegian:
 
 #### Art. 12
 
-<sup>1</sup> 4 000 persunas cun dretg da votar u in settavel da las vischnancas pon pretender cun ina iniziativa ina revisiun totala u parziala da la constituziun chantunala.
+<sup>1</sup> 4000 persunas cun dretg da votar u in settavel da las vischnancas pon pretender cun ina iniziativa ina revisiun totala u parziala da la constituziun chantunala.
 
 <sup>2</sup>
 
-3 000 persunas cun dretg da votar u in otgavel da las vischnancas pon pretender cun ina iniziativa:
+3000 persunas cun dretg da votar u in otgavel da las vischnancas pon pretender cun ina iniziativa:
 
 - 1\. da relaschar, da midar u d’abolir ina lescha u in conclus suttamess tenor la constituziun a la votaziun dal pievel;
 - 2\. d’inoltrar ina iniziativa dals chantuns a l’assamblea federala.
 
-### Forma
+### Furma
 
 #### Art. 13
 
@@ -187,7 +187,9 @@ Ina iniziativa è totalmain u parzialmain nunvalaivla, sch’ella:
 
 <sup>2</sup> Ella po vegnir declerada per parzialmain nunvalaivla, sche la voluntad da las iniziantas e dals iniziants na vegn betg sfalsifitgada tras quai e sch’ina unitad raschunaivla resorta dal project.
 
-<sup>3</sup> Davart la nunvalaivladad decida il cussegl grond. Cunter questa decisiun po vegnir recurrì tar la dretgira administrativa.
+<sup>3</sup> Davart la nunvalaivladad decida il Cussegl grond. Cunter questa decisiun po vegnir recurrì tar la Dretgira superiura.[^14-1]
+
+[^14-1]: Acceptà en la votaziun dal pievel dals 27 da nov. 2022, en vigur dapi il 1. da schan. 2025. Garanzia dals 20 da sett. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Procedura
 
@@ -214,7 +216,7 @@ A la votaziun dal pievel vegnan suttamess:
 - 5\. conclus dal cussegl grond davart dumondas da princip tenor l’artitgel 19 alinea 1;
 - 6\.[^16-1] …
 
-[^16-1]: Abolì en la votaziun dal pievel dals 3 da mars 2013, cun effect a partir dal 1. da matg 2013; garanzia dals 24 da sett. 2014 ([BBl 2014 7859](https://fedlex.data.admin.ch/eli/fga/2014/1644)art. 1 cifra 6 [3723](https://fedlex.data.admin.ch/eli/fga/2014/868)).
+[^16-1]: Abolì tras la votaziun dal pievel dals 3 da mars 2013, cun effect dapi il 1. da matg 2013. Garanzia dals 24 da sett. 2014 ([BBl 2014 7859](https://fedlex.data.admin.ch/eli/fga/2014/1644)art. 1 cifra 6 [3723](https://fedlex.data.admin.ch/eli/fga/2014/868)).
 
 ### Referendum facultativ
 
@@ -222,7 +224,7 @@ A la votaziun dal pievel vegnan suttamess:
 
 <sup>1</sup>
 
-Sche 1 500 persunas cun dretg da votar u in dieschavel da las vischnancas pretendan il referendum facultativ, vegnan suttamess a la votaziun dal pievel:
+Sche 1500 persunas cun dretg da votar u in dieschavel da las vischnancas pretendan il referendum facultativ, vegnan suttamess a la votaziun dal pievel:
 
 - 1\. il decret, la midada u l’aboliziun da leschas;
 - 2\. la conclusiun, la midada u la visada da contracts interchantunals ed internaziunals cun in cuntegn che mida la lescha;
@@ -260,7 +262,11 @@ Sche 1 500 persunas cun dretg da votar u in dieschavel da las vischnancas preten
 
 <sup>2</sup> Ellas pon vegnir sustegnidas dal chantun, premess che lur finamiras e che lur organisaziun correspundian als princips democratics ed als princips dal stadi da dretg.
 
-## IV. Autoritads e dretgiras
+## IV. Autoritads chantunalas
+
+[^lvlIV-1]
+
+[^lvlIV-1]: Acceptà en la votaziun dal pievel dals 27 da nov. 2022, en vigur dapi il 1. da schan. 2025. Garanzia dals 20 da sett. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### 1. En general
 
@@ -268,34 +274,44 @@ Sche 1 500 persunas cun dretg da votar u in dieschavel da las vischnancas preten
 
 #### Art. 21
 
-<sup>1</sup> En las autoritads ed en las dretgiras chantunalas sco er en il cussegl dals chantuns èn elegiblas las persunas cun dretg da votar en il chantun. La lescha po prevair che la premissa d’elegibladad stoppia esser ademplida pir il mument da l’entrada en uffizi.[^21-1]
+<sup>1</sup> En las autoritads chantunalas sco er en il Cussegl dals chantuns èn elegiblas las persunas cun dretg da votar en il chantun. La lescha po prevair che la premissa d’elegibladad stoppia esser ademplida pir il mument da l’entrada en uffizi.[^21-1]
 
-<sup>2</sup> Ulteriuras premissas d’elegibladad per las autoritads e per las dretgiras chantunalas sco er las cundiziuns d’engaschament dal persunal chantunal vegnan regladas en la lescha.
+<sup>1bis</sup> Per las commembras ed ils commembers da las autoritads giudizialas po la lescha desister da la necessitad da domicil sco premissa d’elegibladad.[^21-2]
 
-<sup>3</sup> La lescha regla la suspensiun da l’uffizi e la destituziun da l’uffizi dals commembers d’autoritads e da dretgiras.[^21-2]
+<sup>2</sup> Ulteriuras premissas d’elegibladad per las commembras ed ils commembers d’autoritads chantunalas sco er las cundiziuns d’engaschament dal persunal chantunal vegnan regladas en la lescha.[^21-3]
 
-[^21-1]: Acceptada dal pievel ils 26 da nov. 2006, entrada en vigur il 1. da schan. 2007; garanzia dals 6 da mars 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1 cifra 8, [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
-[^21-2]: Acceptada dal pievel ils 26 da nov. 2006, entrada en vigur il 1. da schan. 2007; garanzia dals 6 da mars 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1 cifra 8, [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+<sup>3</sup> La lescha regla la suspensiun da l’uffizi e la destituziun da l’uffizi da las commembras e dals commembers d’autoritads chantunalas.[^21-4]
+
+[^21-1]: Acceptà en la votaziun dal pievel dals 27 da nov. 2022, en vigur dapi il 1. da schan. 2025. Garanzia dals 20 da sett. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^21-2]: Acceptà en la votaziun dal pievel dals 27 da nov. 2022, en vigur dapi il 1. da schan. 2025. Garanzia dals 20 da sett. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^21-3]: Acceptà en la votaziun dal pievel dals 27 da nov. 2022, en vigur dapi il 1. da schan. 2025. Garanzia dals 20 da sett. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^21-4]: Acceptà en la votaziun dal pievel dals 27 da nov. 2022, en vigur dapi il 1. da schan. 2025. Garanzia dals 20 da sett. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Incumpa-tibilitads
 
 #### Art. 22
 
-<sup>1</sup> Nagin na po appartegnair a sia autoritad directa da surveglianza.
+<sup>1</sup> Nagin na po appartegnair a sia autoritad chantunala da meds legals u a sia autoritad directa da surveglianza. La lescha po prevair excepziuns.[^22-1]
 
 <sup>2</sup> Commembras e commembers da la regenza e da las autoritads giudizialas sco er il persunal chantunal en uffizi cumplain e principal na pon betg appartegnair al cussegl grond.
 
-<sup>3</sup> Derschadras e derschaders na pon betg appartegnair il medem mument a la regenza u ad in’autra autoritad giudiziala en il chantun.
+<sup>3</sup> Derschadras e derschaders na pon betg appartegnair a la Regenza.[^22-2]
 
-<sup>4</sup> Las commembras ed ils commembers da la regenza sco er las commembras ed ils commembers en uffizi cumplain d’ina autoritad giudiziala na pon betg appartegnair a l’assamblea federala u al tribunal federal.
+<sup>4</sup> Las commembras ed ils commembers da la Regenza sco er las commembras ed ils commembers da las autoritads giudizialas, che lavuran en in pensum cumplain, na pon betg appartegnair a l’Assamblea federala u al Tribunal federal.[^22-3]
 
 <sup>5</sup> La lescha regla ulteriurs cas d’incumpatibilitad d’uffizis e d’incumbensas, l’exclusiun da parentas e da parents sco er las excepziuns.
+
+[^22-1]: Acceptà en la votaziun dal pievel dals 27 da nov. 2022, en vigur dapi il 1. da schan. 2025. Garanzia dals 20 da sett. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^22-2]: Acceptà en la votaziun dal pievel dals 27 da nov. 2022, en vigur dapi il 1. da schan. 2025. Garanzia dals 20 da sett. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^22-3]: Acceptà en la votaziun dal pievel dals 27 da nov. 2022, en vigur dapi il 1. da schan. 2025. Garanzia dals 20 da sett. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Perioda d’uffizi
 
 #### Art. 23
 
-La perioda d’uffizi dal cussegl grond, da la regenza, da las dretgiras sco er da las commembras e dals commembers dal cussegl dals chantuns munta a quatter onns.
+La perioda d’uffizi dal Cussegl grond, da la Regenza, da las commembras e dals commembers ordinaris da las autoritads giudizialas sco er da las commembras e dals commembers dal Cussegl dals chantuns munta a quatter onns.[^23-1]
+
+[^23-1]: Acceptà en la votaziun dal pievel dals 27 da nov. 2022, en vigur dapi il 1. da schan. 2025. Garanzia dals 20 da sett. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Immunitad
 
@@ -319,7 +335,7 @@ Las autoritads e las dretgiras infurmeschan regularmain la publicitad davart lur
 
 <sup>2</sup> La lescha po prevair excepziuns sco er ina responsabladad da duaivladad per donns chaschunads tras in agir legal.
 
-[^26-1]: Acceptada dal pievel ils 23 da sett. 2012, entrada en vigur il 1. da schan. 2015; garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^26-1]: Acceptà en la votaziun dal pievel dals 23 da sett. 2012, en vigur dapi il 1. da schan. 2015. Garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### 2. Il cussegl grond
 
@@ -331,7 +347,7 @@ Las autoritads e las dretgiras infurmeschan regularmain la publicitad davart lur
 
 <sup>1</sup> Il cussegl grond sa cumpona da 120 commembras e commembers.
 
-<sup>2</sup> L'elecziun succeda tenor la procedura electorala da proporz. La lescha po prevair quorums minimals ed ina cundiziun da maiorz.[^27-1]
+<sup>2</sup> L’elecziun succeda tenor la procedura electorala da proporz. La lescha po prevair quorums minimals ed ina cundiziun da maiorz.[^27-1]
 
 <sup>3</sup> Il chantun è dividì en maximalmain 39 circuls electorals. La lescha regla, a tge circul electoral che las vischnancas appartegnan, sco er las consequenzas da fusiuns da vischnancas per il dumber dals circuls electorals.[^27-2]
 
@@ -339,8 +355,8 @@ Las autoritads e las dretgiras infurmeschan regularmain la publicitad davart lur
 
 <sup>5</sup> La lescha regla la suppleanza.
 
-[^27-1]: Acceptada dal pievel ils 13 da zercl. 2021, entrada en vigur il 1. da oct. 2021; garanzia dals 16 da mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 2, [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
-[^27-2]: Acceptada dal pievel ils 23 da sett. 2012, entrada en vigur il 1. da schan. 2015; garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^27-1]: Acceptà en la votaziun dal pievel dals 13 da zer. 2021, en vigur dapi il 1. da oct. 2021. Garanzia dals 16 da mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 2, [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^27-2]: Acceptà en la votaziun dal pievel dals 23 da sett. 2012, en vigur dapi il 1. da schan. 2015. Garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### Posiziun da las commembras e dals commembers dal cussegl grond
 
@@ -380,10 +396,12 @@ Disposiziuns impurtantas èn spezialmain quellas, per las qualas la constituziun
 - 2\. il circul da las contribuentas e dals contribuents, l’object e la basa da calculaziun da las taxas, uschenavant che quellas n’èn betg da natira irrelevanta;
 - 3\. l’intent, il cuntegn e la dimensiun da prestaziuns statalas impurtantas;
 - 4\. ils princips da la repartiziun da las incumbensas tranter il chantun e las vischnancas;
-- 5\. ils princips da l’organisaziun e da las incumbensas da las autoritads e da las dretgiras;
+- 5\.[^31-1] ils princips da l’organisaziun e da las incumbensas da las autoritads chantunalas;
 - 6\. il gener e la dimensiun dal transferiment d’incumbensas suveranas e d’autras incumbensas publicas impurtantas a purtadras ed a purtaders ordaifer l’administraziun chantunala.
 
 <sup>3</sup> La valaivladad da las leschas po vegnir limitada. Avant che prolungar sto vegnir examinada l’efficacitad da las leschas.
+
+[^31-1]: Acceptà en la votaziun dal pievel dals 27 da nov. 2022, en vigur dapi il 1. da schan. 2025. Garanzia dals 20 da sett. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Ulteriuras cumpetenzas legislativas
 
@@ -399,9 +417,11 @@ Disposiziuns impurtantas èn spezialmain quellas, per las qualas la constituziun
 
 #### Art. 33
 
-<sup>1</sup> Il cussegl grond ha la surveglianza da la regenza sco er da la dretgira chantunala e da la dretgira administrativa.
+<sup>1</sup> Il Cussegl grond ha la surveglianza da la Regenza sco er da la Dretgira superiura e da la Dretgira da giustia.[^33-1]
 
 <sup>2</sup> El è responsabel per la surveglianza suprema da l’administraziun, dals ulteriurs secturs da la giurisdicziun sco er d’autras purtadras e d’auters purtaders d’incumbensas publicas.
+
+[^33-1]: Acceptà en la votaziun dal pievel dals 27 da nov. 2022, en vigur dapi il 1. da schan. 2025. Garanzia dals 20 da sett. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Planisaziun
 
@@ -421,7 +441,7 @@ Disposiziuns impurtantas èn spezialmain quellas, per las qualas la constituziun
 
 <sup>3</sup> El concluda definitivamain davart novas expensas singulas fin ad 1 milliun francs e davart novas expensas regularas annualas fin a 300 000 francs.
 
-[^35-1]: Acceptada dal pievel ils 26 da sett. 2004, entrada en vigur il 1. da schan. 2005; garanzia dals 6 d’oct. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)art. 1 cifra 5 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^35-1]: Acceptà en la votaziun dal pievel dals 26 da sett. 2004, en vigur dapi il 1. da schan. 2005. Garanzia dals 6 d’oct. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)art. 1 cifra 5 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
 
 ### Elecziuns
 
@@ -431,10 +451,12 @@ Il cussegl grond elegia:
 
 - 1\. ses organs e sias cumissiuns;
 - 2\. il presidi da la regenza;
-- 3\. las commembras ed ils commembers da la dretgira chantunala e da la dretgira administrativa;
+- 3\.[^36-1] las commembras ed ils commembers da la Dretgira superiura e da la Dretgira da giustia;
 - 4\. ulteriuras titularas ed ulteriurs titulars d’in uffizi a norma da la legislaziun.
 
-### Elecziuns
+[^36-1]: Acceptà en la votaziun dal pievel dals 27 da nov. 2022, en vigur dapi il 1. d’oct. 2023. Garanzia dals 20 da sett. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+
+### Grazia
 
 #### Art. 37
 
@@ -558,25 +580,32 @@ Ulteriuras incumbensas da la regenza èn spezialmain:
 
 <sup>1</sup> Il chantun po delegar l’adempliment d’incumbensas publicas a purtadras ed a purtaders ordaifer l’administraziun chantunala.
 
-<sup>2</sup> La surveglianza tras la regenza, ina cooperaziun commensurada dal cussegl grond e la protecziun legala ston esser garantidas.
+<sup>2</sup> Ina surveglianza suffizienta, ina cooperaziun commensurada dal Cussegl grond e la protecziun legala ston esser garantidas.[^50-1]
 
-<sup>3</sup> Uschenavant che la furma da la lescha n’è betg prescritta, pon instituts autonoms dal dretg public chantunal relaschar ordinaziuns, sch’els vegnan autorisads explicitamain da la lescha da far quai.[^50-1]
+<sup>3</sup> Uschenavant che la furma da la lescha n’è betg prescritta, pon instituts autonoms dal dretg public chantunal relaschar ordinaziuns, sch’els vegnan autorisads explicitamain da la lescha da far quai.[^50-2]
 
-[^50-1]: Acceptada dal pievel ils 24 da sett. 2006, entrada en vigur il 1. da schan. 2007; garanzia dals 6 da mars 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1 cifra 8, [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+[^50-1]: Acceptà en la votaziun dal pievel dals 27 da nov. 2022, en vigur dapi il 1. da schan. 2025. Garanzia dals 20 da sett. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^50-2]: Acceptà en la votaziun dal pievel dals 24 da sett. 2006, en vigur dapi il 1. da schan. 2007. Garanzia dals 6 da mars 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1 cifra 8, [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
 
-### 4. Dretgiras
+### 4. Autoritads giudizialas
+
+[^lvlIV-lvl4-1]
+
+[^lvlIV-lvl4-1]: Acceptà en la votaziun dal pievel dals 27 da nov. 2022, en vigur dapi il 1. da schan. 2025. Garanzia dals 20 da sett. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Independenza ed imparzialitad
 
 #### Art. 51
 
-<sup>1</sup> L’independenza e l’imparzialitad da las dretgiras èn garantidas. En lur giurisdicziun èn las dretgiras obligadas mo al dretg.
+<sup>1</sup> L’independenza e l’imparzialitad da las autoritads giudizialas èn garantidas. En lur giurisdicziun èn las autoritads giudizialas obligadas mo al dretg.[^51-1]
 
-<sup>2</sup> L’administraziun giudiziala è, cun resalva da las cumpetenzas dal cussegl grond, chaussa da las dretgiras.
+<sup>2</sup> L’administraziun giudiziala è, cun resalva da las cumpetenzas dal Cussegl grond, chaussa da las autoritads giudizialas.[^51-2]
 
-<sup>3</sup> En proceduras dispitaivlas na dastgan derschadras e derschaders betg represchentar partidas davant l’atgna instanza.
+<sup>3</sup> e <sup>4</sup> … [^51-3]
 
-<sup>4</sup> A commembras ed a commembers en uffizi cumplain d’ina autoritad giudiziala è scumandada tutta occupaziun accessorica. La lescha po prevair excepziuns.
+[^51-1]: Acceptà en la votaziun dal pievel dals 27 da nov. 2022, en vigur dapi il 1. da schan. 2025. Garanzia dals 20 da sett. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^51-2]: Acceptà en la votaziun dal pievel dals 27 da nov. 2022, en vigur dapi il 1. da schan. 2025. Garanzia dals 20 da sett. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^51-3]: Abolì tras la votaziun dal pievel dals 27 da nov. 2022, cun effect dapi il 1. da schan. 2025. Garanzia dals 20 da sett. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Finanzas, cooperaziun en il cussegl grond e legislaziun
 
@@ -584,23 +613,33 @@ Ulteriuras incumbensas da la regenza èn spezialmain:
 
 [^51a-1]
 
-<sup>1</sup> La dretgira chantunala e la dretgira administrativa suttamettan al cussegl grond il sboz per lur preventiv sco er il quint ed il rapport annual per l’approvaziun.
+<sup>1</sup> La Dretgira superiura suttametta al Cussegl grond il sboz per il preventiv sco er il quint ed il rapport da gestiun per l’approvaziun.[^51a-2]
 
-<sup>2</sup> Las presidentas ed ils presidents prendan part da las sesidas dal cussegl grond davart il preventiv, davart il quint e davart ils rapports annuals da las dretgiras. Ellas ed els han vusch consultativa e pon far propostas.
+<sup>1bis</sup> Ella po sa drizzar al Cussegl grond per proponer midadas constituziunalas e midadas da lescha che pertutgan l’administraziun giudiziala.[^51a-3]
 
-<sup>3</sup> Uschenavant che la furma da la lescha n’è betg prescritta, pon la dretgira chantunala e la dretgira administrativa relaschar ordinaziuns en il sectur da l’administraziun giudiziala e da la surveglianza da la giustia, sch’ellas vegnan autorisadas explicitamain tras la lescha da far quai.
+<sup>2</sup> La presidenta u il president da la Dretgira superiura prenda part da las sesidas dal Cussegl grond davart il preventiv, davart il quint e davart il rapport da gestiun sco er davart ils projects legislativs proponids da la Dretgira superiura. Ella u el ha vusch consultativa e po far propostas.[^51a-4]
 
-[^51a-1]: Acceptada dal pievel ils 26 da nov. 2006, entrada en vigur il 1. da schan. 2007; garanzia dals 6 da mars 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1 cifra 8, [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+<sup>3</sup> Uschenavant che la furma da la lescha n’è betg prescritta, pon las dretgiras relaschar ordinaziuns en il sectur da l’administraziun giudiziala, sch’ellas vegnan autorisadas explicitamain tras la lescha da far quai.[^51a-5]
+
+[^51a-1]: Acceptà en la votaziun dal pievel dals 26 da nov. 2006, en vigur dapi il 1. da schan. 2007. Garanzia dals 6 da mars 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1 cifra 8, [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+[^51a-2]: Acceptà en la votaziun dal pievel dals 27 da nov. 2022, en vigur dapi il 1. da fan. 2024. Garanzia dals 20 da sett. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^51a-3]: Acceptà en la votaziun dal pievel dals 27 da nov. 2022, en vigur dapi il 1. da schan. 2025. Garanzia dals 20 da sett. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^51a-4]: Acceptà en la votaziun dal pievel dals 27 da nov. 2022, en vigur dapi il 1. da fan. 2024. Garanzia dals 20 da sett. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^51a-5]: Acceptà en la votaziun dal pievel dals 27 da nov. 2022, en vigur dapi il 1. d’avr. 2023. Garanzia dals 20 da sett. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Surveglianza da la giustia
 
 #### Art. 52
 
-<sup>1</sup> La dretgira chantunala ha la surveglianza da tut ils secturs da la giurisdicziun civila e penala.
+<sup>1</sup> La Dretgira superiura ha la surveglianza da la giurisdicziun civila, penala ed administrativa, uschenavant che quella è chaussa da las autoritads giudizialas. A la Dretgira superiura pon vegnir attribuidas tras la lescha ulteriuras incumbensas da surveglianza.[^52-1]
 
-<sup>2</sup> Il cussegl grond ha la surveglianza da la dretgira chantunala e da la dretgira administrativa sco er la surveglianza suprema dals ulteriurs secturs da la giurisdicziun.
+<sup>2</sup> Il Cussegl grond ha la surveglianza da la Dretgira superiura e da la Dretgira da giustia sco er la surveglianza suprema da las autoritads che vegnan survegliadas da la Dretgira superiura.[^52-2]
 
-<sup>3</sup> La surveglianza e la surveglianza suprema sa restrenschan sin la gestiun e sin l’administraziun giudiziala.
+<sup>3</sup> La surveglianza e la surveglianza suprema da las autoritads giudizialas sa restrenschan a l’administraziun giudiziala.[^52-3]
+
+[^52-1]: Acceptà en la votaziun dal pievel dals 27 da nov. 2022, en vigur dapi il 1. da schan. 2025. Garanzia dals 20 da sett. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^52-2]: Acceptà en la votaziun dal pievel dals 27 da nov. 2022, en vigur dapi il 1. da schan. 2025. Garanzia dals 20 da sett. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^52-3]: Acceptà en la votaziun dal pievel dals 27 da nov. 2022, en vigur dapi il 1. da schan. 2025. Garanzia dals 20 da sett. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Publicitad da las tractativas giudizialas
 
@@ -614,30 +653,43 @@ Las tractativas da las partidas davant dretgira èn publicas cun resalva da las 
 
 La giurisdicziun civila e penala vegn exequida da:
 
-- 1\. la dretgira chantunala;
-- 2\.[^54-1] las dretgiras regiunalas sco dretgiras chantunalas inferiuras;
-- 3\.[^54-2] …
+- 1\.[^54-1] la Dretgira superiura;
+- 2\.[^54-2] las dretgiras regiunalas sco dretgiras chantunalas inferiuras;
+- 3\.[^54-3] …
+- 4\.[^54-4] la Dretgira chantunala da mesiras repressivas;
+- 5\.[^54-5] las autoritads da mediaziun.
 
-[^54-1]: Acceptada dal pievel ils 23 da sett. 2012, entrada en vigur il 1. da schan. 2017; garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
-[^54-2]: Abolì tras il conclus dal pievel dals 17 da matg 2009, cun effect a partir dal 1. da schan. 2011; garanzia dals 8 da zercl. 2010 ([BBl 2010 4365](https://fedlex.data.admin.ch/eli/fga/2010/748)art. 1 cifra 5 [2153](https://fedlex.data.admin.ch/eli/fga/2010/378)).
+[^54-1]: Acceptà en la votaziun dal pievel dals 27 da nov. 2022, en vigur dapi il 1. da schan. 2025. Garanzia dals 20 da sett. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^54-2]: Acceptà en la votaziun dal pievel dals 23 da sett. 2012, en vigur dapi il 1. da schan. 2017. Garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^54-3]: Abolì tras il conclus dal pievel dals 17 da matg 2009, cun effect dapi il 1. da schan. 2011. Garanzia dals 8 da zer. 2010 ([BBl 2010 4365](https://fedlex.data.admin.ch/eli/fga/2010/748)art. 1 cifra 5 [2153](https://fedlex.data.admin.ch/eli/fga/2010/378)).
+[^54-4]: Acceptà en la votaziun dal pievel dals 27 da nov. 2022, en vigur dapi il 1. da schan. 2025. Garanzia dals 20 da sett. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^54-5]: Acceptà en la votaziun dal pievel dals 27 da nov. 2022, en vigur dapi il 1. da schan. 2025. Garanzia dals 20 da sett. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Giurisdicziun constituziunala ed administrativa
 
 #### Art. 55
 
-<sup>1</sup> La dretgira administrativa ha l’incumbensa da giuditgar en ultima instanza dispitas da dretg public, uschenavant ch’ina lescha na dispona betg autramain.
+<sup>1</sup>
+
+La giurisdicziun administrativa vegn exequida da:
+
+- 1\. la Dretgira superiura;
+- 2\. la Dretgira da giustia;
+- 3\. ulteriuras dretgiras administrativas spezialas.[^55-1]
 
 <sup>2</sup>
 
-La dretgira administrativa giuditgescha sco dretgira constituziunala:
+La Dretgira superiura giuditgescha sco dretgira constituziunala:[^55-2]
 
 - 1\. recurs pervia da violaziun da dretgs constituziunals e politics sco er dal princip da la precedenza dal dretg surordinà;
-- 2\.[^55-1] recurs pervia da violaziun da l’autonomia da las vischnancas e d’autras corporaziuns da dretg public sco er da las baselgias chantunalas.[^55-2]
+- 2\.[^55-3] recurs pervia da violaziun da l’autonomia da las vischnancas e d’autras corporaziuns da dretg public sco er da las baselgias chantunalas.[^55-4]
 
 <sup>3</sup> En la procedura dal dretg constituziunal pon leschas ed ordinaziuns vegnir contestadas directamain sco er vegnir examinadas en il cas d’applicaziun.
 
-[^55-1]: Acceptada dal pievel ils 23 da sett. 2012, entrada en vigur il 1. da schan. 2018; garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
-[^55-2]: Acceptada dal pievel ils 26 da nov. 2006, entrada en vigur il 1. da schan. 2007; garanzia dals 6 da mars 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1 cifra 8, [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+[^55-1]: Acceptà en la votaziun dal pievel dals 27 da nov. 2022, en vigur dapi il 1. da schan. 2025. Garanzia dals 20 da sett. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^55-2]: Acceptà en la votaziun dal pievel dals 27 da nov. 2022, en vigur dapi il 1. da schan. 2025. Garanzia dals 20 da sett. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 4, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^55-3]: Acceptà en la votaziun dal pievel dals 23 da sett. 2012, en vigur dapi il 1. da schan. 2018. Garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4, [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^55-4]: Acceptà en la votaziun dal pievel dals 26 da nov. 2006, en vigur dapi il 1. da schan. 2007. Garanzia dals 6 da mars 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1 cifra 8, [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
 
 ### Ulteriuras autoritads giudizialas sco er autoritads extragiudizialas
 
@@ -751,7 +803,7 @@ Ils organs obligatorics da las vischnancas politicas èn:
 
 [^lvlV-lvl2-1]
 
-[^lvlV-lvl2-1]: Acceptada dal pievel ils 23 da sett. 2012, entrada en vigur il 1. da schan. 2015; garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^lvlV-lvl2-1]: Acceptà en la votaziun dal pievel dals 23 da sett. 2012, en vigur dapi il 1. da schan. 2015. Garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### A. Divisiun dal territori chantunal
 
@@ -779,13 +831,13 @@ Il chantun è dividì en las suandantas regiuns:
 
 <sup>2</sup> La lescha regla, a tge regiun che las vischnancas appartegnan.
 
-[^68-1]: Acceptada dal pievel ils 23 da sett. 2012, entrada en vigur il 1. da schan. 2015; garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^68-1]: Acceptà en la votaziun dal pievel dals 23 da sett. 2012, en vigur dapi il 1. da schan. 2015. Garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 #### Art. 69
 
 [^69-1]
 
-[^69-1]: Abolì en la votaziun dal pievel ils 23 da sett. 2012, cun effect a partir dal 1. da schan. 2015; garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^69-1]: Abolì tras la votaziun dal pievel ils 23 da sett. 2012, cun effect dapi il 1. da schan. 2015. Garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### B. Posiziun giuridica ed incumbensas
 
@@ -793,7 +845,7 @@ Il chantun è dividì en las suandantas regiuns:
 
 [^70-1]
 
-[^70-1]: Abolì en la votaziun dal pievel ils 23 da sett. 2012, cun effect a partir dal 1. da schan. 2015; garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^70-1]: Abolì tras la votaziun dal pievel ils 23 da sett. 2012, cun effect dapi il 1. da schan. 2015. Garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 #### Art. 71
 
@@ -805,13 +857,13 @@ Il chantun è dividì en las suandantas regiuns:
 
 <sup>3</sup> Las regiuns furman ils circuls da dretgira per las dretgiras regiunalas.
 
-[^71-1]: Acceptada dal pievel ils 23 da sett. 2012, entrada en vigur il 1. da schan. 2015; garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^71-1]: Acceptà en la votaziun dal pievel dals 23 da sett. 2012, en vigur dapi il 1. da schan. 2015. Garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 #### Art. 72
 
 [^72-1]
 
-[^72-1]: Abolì en la votaziun dal pievel ils 23 da sett. 2012, cun effect a partir dal 1. da schan. 2018; garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^72-1]: Abolì tras la votaziun dal pievel dals 23 da nov. 2012, cun effect dapi il 1. da schan. 2018. Garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4, [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### C. Organisaziun e surveglianza
 
@@ -819,7 +871,7 @@ Il chantun è dividì en las suandantas regiuns:
 
 [^73-1]
 
-[^73-1]: Abolì en la votaziun dal pievel ils 23 da sett. 2012, cun effect a partir dal 1. da schan. 2018; garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^73-1]: Abolì tras la votaziun dal pievel dals 23 da nov. 2012, cun effect dapi il 1. da schan. 2018. Garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4, [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### Surveglianza
 
@@ -831,7 +883,7 @@ Il chantun è dividì en las suandantas regiuns:
 
 <sup>2</sup> En il sectur d’incumbensas delegadas da las vischnancas a las regiuns sa restrenscha la surveglianza a la controlla giuridica, uschenavant che la lescha na dispona betg autramain.
 
-[^74-1]: Acceptada dal pievel ils 23 da sett. 2012, entrada en vigur il 1. da schan. 2015; garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^74-1]: Acceptà en la votaziun dal pievel dals 23 da sett. 2012, en vigur dapi il 1. da schan. 2015. Garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ## VI. Incumbensas publicas
 
@@ -857,7 +909,7 @@ Il chantun è dividì en las suandantas regiuns:
 
 <sup>2</sup> Il chantun, las regiuns e las vischnancas coopereschan per ademplir las incumbensas publicas. Tenor pussaivladad duai vegnir cuntanschida la collavuraziun cun persunas privatas.[^76-1]
 
-[^76-1]: Acceptada dal pievel ils 23 da sett. 2012, entrada en vigur il 1. da schan. 2015; garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^76-1]: Acceptà en la votaziun dal pievel dals 23 da sett. 2012, en vigur dapi il 1. da schan. 2015. Garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### Adempliment decentral da las incumbensas
 
@@ -927,7 +979,7 @@ Il chantun e las vischnancas prendan en mira ina utilisaziun ed in svilup cunveg
 
 Il chantun na sa participescha betg ad interpresas che fan investiziuns en ovras electricas a charvun. En il rom da sias pussaivladads giuridicas e politicas procura el che las interpresas cun participaziun dal chantun desistian da far investiziuns en ovras electricas a charvun.
 
-[^83a-1]: Acceptada dal pievel ils 14 da zercl. 2015, entrada en vigur il 1. da nov. 2016; garanzia dals 27 da sett. 2016 ([BBl 2016 7899](https://fedlex.data.admin.ch/eli/fga/2016/1680)art. 3 [3705](https://fedlex.data.admin.ch/eli/fga/2016/711)).
+[^83a-1]: Acceptà en la votaziun dal pievel dals 14 da zer. 2015, en vigur dapi il 1. da nov. 2016. Garanzia dals 27 da sett. 2016 ([BBl 2016 7899](https://fedlex.data.admin.ch/eli/fga/2016/1680)art. 3 [3705](https://fedlex.data.admin.ch/eli/fga/2016/711)).
 
 ### 4. Economia
 
@@ -943,7 +995,7 @@ Il chantun na sa participescha betg ad interpresas che fan investiziuns en ovras
 
 <sup>4</sup> Els prendan mesiras per limitar tant sco pussaivel il dumber da regulaziuns e la chargia administrativa per interpresas, en spezial per las interpresas pitschnas e mesaunas (IPM).[^84-1]
 
-[^84-1]: Acceptada dal pievel ils 29 da schan. 2012, entrada en vigur il 29 da schan. 2012; garanzia dals 11 da mars 2013 ([BBl 2013 2619](https://fedlex.data.admin.ch/eli/fga/2013/457)art. 1 cifra 4, **2012** 195).
+[^84-1]: Acceptà en la votaziun dal pievel dals 29 da schan. 2012, en vigur dapi il 29 da schan. 2012. Garanzia dals 11 da mars 2013 ([BBl 2013 2619](https://fedlex.data.admin.ch/eli/fga/2013/457)art. 1 cifra 4, **2012** 195).
 
 ### Regals e monopols
 
@@ -1219,6 +1271,6 @@ Cun resalva da las suandantas excepziuns restan las commembras ed ils commembers
 
 <sup>3</sup> A partir dal mument che la divisiun dal chantun en regiuns è entrada en vigur na dastgan vegnir delegadas pli naginas incumbensas als circuls ed a las corporaziuns regiunalas.
 
-<sup>4</sup> La responsabladad dal stadi per ils circuls, per ils districts e per las corporaziuns regiunalas sco er lur surveglianza èn garantidas durant lur entira existenza en la dimensiun ch’era previssa en la constituziun dal chantun Grischun dals 18 da matg 2003 / 14 da settember 2003.
+<sup>4</sup> La responsabladad dal stadi per ils circuls, per ils districts e per las corporaziuns regiunalas sco er lur surveglianza èn garantidas durant lur entira existenza en la dimensiun ch’era previsa en la constituziun dal chantun Grischun dals 18 da matg 2003 / 14 da settember 2003.
 
-[^108-1]: Acceptada dal pievel ils 23 da sett. 2012, entrada en vigur il 1. da mars 2014, ils alineas 2-4 il 1. da schan. 2015; garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^108-1]: Acceptà en la votaziun dal pievel dals 23 da sett. 2012, en vigur dapi il 1. da mars 2014, ils alineas 2–4 il 1. da schan. 2015. Garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
