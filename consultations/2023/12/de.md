@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Strategie der Internationalen Zusammenarbeit 2025–2028
 document: Vernehmlassungsvorlage
 language: de

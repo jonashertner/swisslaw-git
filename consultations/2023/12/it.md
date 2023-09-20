@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Strategia di cooperazione internazionale 2025–2028
 document: Progetto posto in consultazione
 language: it
