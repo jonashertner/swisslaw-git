@@ -3,16 +3,16 @@ sr: "0.312.1"
 title: Statut de Rome de la Cour pénale internationale du 17 juillet 1998
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/586"
 language: fr
-version: 2022-05-12
+version: 2023-09-21
 adopted: 1998-07-17
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/586/20220512/fr/xml/fedlex-data-admin-ch-eli-cc-2002-586-20220512-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/586/20220512/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/586/20230921/fr/xml/fedlex-data-admin-ch-eli-cc-2002-586-20230921-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/586/20230921/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Statut de Rome de la Cour pénale internationale****
+# Statut de Rome de la Cour pénale internationale
 
 RO **2002** 3743; FF **2001** 359[^t-1]
 
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 12 octobre 2001
 
 Entré en vigueur pour la Suisse le 1<sup>er</sup> juillet 2002
 
-(Etat le 12 mai 2022)
+(État le 21 septembre 2023)
 
 [^t-1]: Les Am. du 10 juin 2010 ([RS 0.312.12](https://fedlex.data.admin.ch/eli/cc/2015/645); [RO 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645)) et du 11 juin 2010 ([RS [0.312.11](http://www.admin.ch/ch/d/sr/c0_784_405_1.html)](https://fedlex.data.admin.ch/eli/cc/2015/644); [[RO 2015 3825](http://www.admin.ch/ch/d/as/2002/3130.pdf)](https://fedlex.data.admin.ch/eli/oc/2015/644)) sont insérés dans ce texte, mais ils sont applicables uniquement aux Etats les ayant ratifiés. Voir en conséquence leur propre champ d’application.
 [^t-2]: Art. 1 al. 1 de l’AF du 22 juin 2001 ([RO 2002 3741](https://fedlex.data.admin.ch/eli/oc/2002/585))
@@ -110,7 +110,7 @@ La compétence de la Cour est limitée aux crimes les plus graves qui touchent l
 
 <sup>2.</sup> …[^5-1]
 
-[^5-1]: Abrogé par le ch. 1 de l’annexe I des Am. du 11 juin 2010 relatifs au crime d’agression, approuvés par l’Ass. féd. le 20 mars 2015, avec effet pour la Suisse au 10 sept. 2016 ([RO 2015 3825](https://fedlex.data.admin.ch/eli/oc/2015/644); [FF 2014 1973](https://fedlex.data.admin.ch/eli/fga/2014/401)).
+[^5-1]: Abrogé par le ch. 1 de l’annexe I des Am. du 11 juin 2010 relatifs au crime d’agression, approuvés par l’Ass. féd. le 20 mars 2015, avec effet pour la Suisse au 10 sept. 2016 ([RO 2015 3825](https://fedlex.data.admin.ch/eli/oc/2015/644), [3823](https://fedlex.data.admin.ch/eli/oc/2015/643); [FF 2014 1973](https://fedlex.data.admin.ch/eli/fga/2014/401)).
 
 #### Art. 6
 
@@ -243,27 +243,29 @@ Aux fins du Statut, on entend par «crimes de guerre»:
   - x) le fait de déclarer qu’il ne sera pas fait de quartier;
   - xi) le fait de soumettre des personnes d’une autre partie au conflit tombées en son pouvoir à des mutilations ou à des expériences médicales ou scientifiques quelles qu’elles soient qui ne sont ni motivées par un traitement médical, dentaire ou hospitalier, ni effectuées dans l’intérêt de ces personnes, et qui entraînent la mort de celles‑ci ou mettent sérieusement en danger leur santé;
   - xii) le fait de détruire ou de saisir les biens d’un adversaire, sauf si ces destructions ou saisies sont impérieusement commandées par les nécessités du conflit;
-  - xiii)[^8-5] Le fait d’employer du poison ou des armes empoisonnées;
-  - xiv)[^8-6] Le fait d’employer des gaz asphyxiants, toxiques ou similaires, ainsi que tous liquides, matières ou procédés analogues;
-  - xv)[^8-7] Le fait d’utiliser des balles qui s’épanouissent ou s’aplatissent facilement dans le corps humain, telles que des balles dont l’enveloppe dure ne recouvre pas entièrement le centre ou est percée d’entailles;
-  - [tab] xvi)[^8-8] le fait d’utiliser des armes qui utilisent des agents microbiens ou autres agents biologiques, ainsi que des toxines, quels qu’en soient l’origine ou le mode de production;
-  - [tab] xvii)[^8-9] le fait d’utiliser des armes ayant comme principal effet de blesser par des éclats qui ne sont pas localisables par rayons X dans le corps humain;
-  - [tab] xviii)[^8-10] le fait d’utiliser des armes à laser spécifiquement conçues de telle façon que leur seule fonction de combat ou une de leurs fonctions de combat fût de provoquer la cécité permanente chez des personnes dont la vision est non améliorée, c’est-à-dire qui regardent à l’œil nu ou qui portent des dispositifs de correction de la vue;
+  - xiii)[^8-5] le fait d’employer du poison ou des armes empoisonnées;
+  - xiv)[^8-6] le fait d’employer des gaz asphyxiants, toxiques ou similaires, ainsi que tous liquides, matières ou procédés analogues;
+  - xv)[^8-7] le fait d’utiliser des balles qui s’épanouissent ou s’aplatissent facilement dans le corps humain, telles que des balles dont l’enveloppe dure ne recouvre pas entièrement le centre ou est percée d’entailles;
+  - xvi)[^8-8] le fait d’utiliser des armes qui utilisent des agents microbiens ou autres agents biologiques, ainsi que des toxines, quels qu’en soient l’origine ou le mode de production;
+  - xvii)[^8-9] le fait d’utiliser des armes ayant comme principal effet de blesser par des éclats qui ne sont pas localisables par rayons X dans le corps humain;
+  - xviii)[^8-10] le fait d’utiliser des armes à laser spécifiquement conçues de telle façon que leur seule fonction de combat ou une de leurs fonctions de combat fût de provoquer la cécité permanente chez des personnes dont la vision est non améliorée, c’est-à-dire qui regardent à l’œil nu ou qui portent des dispositifs de correction de la vue;
+  - xix)[^8-11] le fait d’affamer délibérément des civils comme méthode de guerre, en les privant de biens indispensables à leur survie, y compris en empêchant intentionnellement l’envoi des secours.
 
 - f) l’al. e) du par. 2 s’applique aux conflits armés ne présentant pas un caractère international et ne s’applique donc pas aux situations de troubles et tensions internes telles que les émeutes, les actes isolés et sporadiques de violence ou les actes de nature similaire. Il s’applique aux conflits armés qui opposent de manière prolongée sur le territoire d’un État les autorités du gouvernement de cet État et des groupes armés organisés ou des groupes armés organisés entre eux.
 
 <sup>3.</sup> Rien dans le par. 2, al. c) et e), n’affecte la responsabilité d’un gouvernement de maintenir ou rétablir l’ordre public dans l’État ou de défendre l’unité et l’intégrité territoriale de l’État par tous les moyens légitimes.
 
 [^8-1]: [RS 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180), [RS 0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205), [RS 0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226), [RS 0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
-[^8-2]: Introduit par l’annexe I des Am. du 14 déc. 2017, approuvés par l’Ass. féd. le 20 déc. 2019, en vigueur pour la Suisse depuis le 7 juil. 2021 ([RO 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334); [FF 2019 3781](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
-[^8-3]: Introduit par l’annexe II des Am. du 14 déc. 2017, approuvés par l’Ass. féd. le 20 déc. 2019, en vigueur pour la Suisse depuis le 7 juil. 2021 ([RO 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334); [FF 2019 3781](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
-[^8-4]: Introduit par l’annexe III des Am. du 14 déc. 2017, approuvés par l’Ass. féd. le 20 déc. 2019, en vigueur pour la Suisse depuis le 7 juil. 2021 ([RO 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334); [FF 2019 3781](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
-[^8-5]: Introduit par l’annexe I des Am. du 10 juin 2010 relatifs aux crimes de guerre, approuvés par l’Ass. féd. le 20 mars 2015, en vigueur pour la Suisse depuis le 10 sept. 2016 ([RO 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645); [FF 2014 1973](https://fedlex.data.admin.ch/eli/fga/2014/401)).
-[^8-6]: Introduit par l’annexe I I des Am. du 10 juin 2010 relatifs aux crimes de guerre, approuvés par l’Ass. féd. le 20 mars 2015, en vigueur pour la Suisse depuis le 10 sept. 2016 ([RO 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645); [FF 2014 1973](https://fedlex.data.admin.ch/eli/fga/2014/401)).
-[^8-7]: Introduit par l’annexe I I des Am. du 10 juin 2010 relatifs aux crimes de guerre, approuvés par l’Ass. féd. le 20 mars 2015, en vigueur pour la Suisse depuis le 10 sept. 2016 ([RO 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645); [FF 2014 1973](https://fedlex.data.admin.ch/eli/fga/2014/401)).
-[^8-8]: Introduit par l’annexe I des Am. du 14 déc. 2017, approuvés par l’Ass. féd. le 20 déc. 2019, en vigueur pour la Suisse depuis le 7 juil. 2021 ([RO 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334); [FF 2019 3781](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
-[^8-9]: Introduit par l’annexe II des Am. du 14 déc. 2017, approuvés par l’Ass. féd. le 20 déc. 2019, en vigueur pour la Suisse depuis le 7 juil. 2021 ([RO 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334); [FF 2019 3781](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
-[^8-10]: Introduit par l’annexe III des Am. du 14 déc. 2017, approuvés par l’Ass. féd. le 20 déc. 2019, en vigueur pour la Suisse depuis le 7 juil. 2021 ([RO 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334); [FF 2019 3781](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
+[^8-2]: Introduit par l’annexe I des Am. du 14 déc. 2017, approuvés par l’Ass. féd. le 20 déc. 2019, en vigueur pour la Suisse depuis le 7 juil. 2021 ([RO 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334), [333](https://fedlex.data.admin.ch/eli/oc/2021/333); [FF 2019 3781](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
+[^8-3]: Introduit par l’annexe II des Am. du 14 déc. 2017, approuvés par l’Ass. féd. le 20 déc. 2019, en vigueur pour la Suisse depuis le 7 juil. 2021 ([RO 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334), [333](https://fedlex.data.admin.ch/eli/oc/2021/333); [FF 2019 3781](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
+[^8-4]: Introduit par l’annexe III des Am. du 14 déc. 2017, approuvés par l’Ass. féd. le 20 déc. 2019, en vigueur pour la Suisse depuis le 7 juil. 2021 ([RO 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334), [333](https://fedlex.data.admin.ch/eli/oc/2021/333); [FF 2019 3781](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
+[^8-5]: Introduit par l’annexe I des Am. du 10 juin 2010 relatifs aux crimes de guerre, approuvés par l’Ass. féd. le 20 mars 2015, en vigueur pour la Suisse depuis le 10 sept. 2016 ([RO 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645), [3823](https://fedlex.data.admin.ch/eli/oc/2015/643); [FF 2014 1973](https://fedlex.data.admin.ch/eli/fga/2014/401)).
+[^8-6]: Introduit par l’annexe I I des Am. du 10 juin 2010 relatifs aux crimes de guerre, approuvés par l’Ass. féd. le 20 mars 2015, en vigueur pour la Suisse depuis le 10 sept. 2016 ([RO 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645), [3823](https://fedlex.data.admin.ch/eli/oc/2015/643); [FF 2014 1973](https://fedlex.data.admin.ch/eli/fga/2014/401)).
+[^8-7]: Introduit par l’annexe I I des Am. du 10 juin 2010 relatifs aux crimes de guerre, approuvés par l’Ass. féd. le 20 mars 2015, en vigueur pour la Suisse depuis le 10 sept. 2016 ([RO 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645), [3823](https://fedlex.data.admin.ch/eli/oc/2015/643); [FF 2014 1973](https://fedlex.data.admin.ch/eli/fga/2014/401)).
+[^8-8]: Introduit par l’annexe I des Am. du 14 déc. 2017, approuvés par l’Ass. féd. le 20 déc. 2019, en vigueur pour la Suisse depuis le 7 juil. 2021 ([RO 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334), [333](https://fedlex.data.admin.ch/eli/oc/2021/333); [FF 2019 3781](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
+[^8-9]: Introduit par l’annexe II des Am. du 14 déc. 2017, approuvés par l’Ass. féd. le 20 déc. 2019, en vigueur pour la Suisse depuis le 7 juil. 2021 ([RO 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334), [333](https://fedlex.data.admin.ch/eli/oc/2021/333); [FF 2019 3781](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
+[^8-10]: Introduit par l’annexe III des Am. du 14 déc. 2017, approuvés par l’Ass. féd. le 20 déc. 2019, en vigueur pour la Suisse depuis le 7 juil. 2021 ([RO 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334), [333](https://fedlex.data.admin.ch/eli/oc/2021/333); [FF 2019 3781](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
+[^8-11]: Introduit par l’annexe I des Am. du 6 déc. 2019, approuvés par l’Ass. féd. le 18 mars 2022, en vigueur pour la Suisse depuis le 21 sept. 2023 ([RO 2023 303](https://fedlex.data.admin.ch/eli/oc/2023/303), [302](https://fedlex.data.admin.ch/eli/oc/2023/302); [FF 2022 708](https://fedlex.data.admin.ch/eli/fga/2022/708)).
 
 #### Art. 8<sup>bis</sup>
 
@@ -283,7 +285,7 @@ Aux fins du par. 1, on entend par «acte d’agression» l’emploi par un État
 - f) le fait pour un État de permettre que son territoire, qu’il a mis à la disposition d’un autre État, serve à la commission par cet autre État d’un acte d’agression contre un État tiers;
 - g) l’envoi par un État ou au nom d’un État de bandes, groupes, troupes irrégulières ou mercenaires armés qui exécutent contre un autre État des actes assimilables à ceux de forces armées d’une gravité égale à celle des actes énumérés ci-dessus, ou qui apportent un concours substantiel à de tels actes.
 
-[^8bis-1]: Introduit par le ch. 2 de l’annexe I des Am. du 11 juin 2010 relatifs au crime d’agression, approuvés par l’Ass. féd. le 20 mars 2015, en vigueur pour la Suisse depuis le 10 sept. 2016 ([RO 2015 3825](https://fedlex.data.admin.ch/eli/oc/2015/644); [FF 2014 1973](https://fedlex.data.admin.ch/eli/fga/2014/401)).
+[^8bis-1]: Introduit par le ch. 2 de l’annexe I des Am. du 11 juin 2010 relatifs au crime d’agression, approuvés par l’Ass. féd. le 20 mars 2015, en vigueur pour la Suisse depuis le 10 sept. 2016 ([RO 2015 3825](https://fedlex.data.admin.ch/eli/oc/2015/644), [3823](https://fedlex.data.admin.ch/eli/oc/2015/643); [FF 2014 1973](https://fedlex.data.admin.ch/eli/fga/2014/401)).
 [^8bis-2]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
 
 #### Art. 9
@@ -302,7 +304,7 @@ Des amendements aux éléments des crimes peuvent être proposés par:
 
 <sup>3.</sup> Les éléments des crimes et les amendements s’y rapportant sont conformes au présent Statut.
 
-[^9-1]: Nouvelle teneur selon le ch. 6 de l’annexe I des Am. du 11 juin 2010 relatifs au crime d’agression, approuvés par l’Ass. féd. le 20 mars 2015, en vigueur pour la Suisse depuis le 10 sept. 2016 ([RO 2015 3825](https://fedlex.data.admin.ch/eli/oc/2015/644); [FF 2014 1973](https://fedlex.data.admin.ch/eli/fga/2014/401)).
+[^9-1]: Nouvelle teneur selon le ch. 6 de l’annexe I des Am. du 11 juin 2010 relatifs au crime d’agression, approuvés par l’Ass. féd. le 20 mars 2015, en vigueur pour la Suisse depuis le 10 sept. 2016 ([RO 2015 3825](https://fedlex.data.admin.ch/eli/oc/2015/644), [3823](https://fedlex.data.admin.ch/eli/oc/2015/643); [FF 2014 1973](https://fedlex.data.admin.ch/eli/fga/2014/401)).
 
 #### Art. 10
 
@@ -389,7 +391,7 @@ La Cour peut exercer sa compétence à l’égard d’un crime visé à l’art.
 
 <sup>10.</sup> Le présent article est sans préjudice des dispositions relatives à l’exercice de la compétence à l’égard des autres crimes visés à l’art. 5.
 
-[^15bis-1]: Introduit par le ch. 6 de l’annexe I des Am. du 11 juin 2010 relatifs au crime d’agression, approuvés par l’Ass. féd. le 20 mars 2015, en vigueur pour la Suisse depuis le 10 sept. 2016 ([RO 2015 3825](https://fedlex.data.admin.ch/eli/oc/2015/644); [FF 2014 1973](https://fedlex.data.admin.ch/eli/fga/2014/401)).
+[^15bis-1]: Introduit par le ch. 6 de l’annexe I des Am. du 11 juin 2010 relatifs au crime d’agression, approuvés par l’Ass. féd. le 20 mars 2015, en vigueur pour la Suisse depuis le 10 sept. 2016 ([RO 2015 3825](https://fedlex.data.admin.ch/eli/oc/2015/644), [3823](https://fedlex.data.admin.ch/eli/oc/2015/643); [FF 2014 1973](https://fedlex.data.admin.ch/eli/fga/2014/401)).
 
 #### Art. 15<sup>ter</sup>
 
@@ -405,7 +407,7 @@ La Cour peut exercer sa compétence à l’égard d’un crime visé à l’art.
 
 <sup>5.</sup> Le présent article est sans préjudice des dispositions relatives à l’exercice de la compétence à l’égard des autres crimes visés à l’art. 5.
 
-[^15ter-1]: Introduit par le ch. 4 de l’annexe I des Am. du 11 juin 2010 relatifs au crime d’agression, approuvés par l’Ass. féd. le 20 mars 2015, en vigueur pour la Suisse depuis le 10 sept. 2016 ([RO 2015 3825](https://fedlex.data.admin.ch/eli/oc/2015/644); [FF 2014 1973](https://fedlex.data.admin.ch/eli/fga/2014/401)).
+[^15ter-1]: Introduit par le ch. 4 de l’annexe I des Am. du 11 juin 2010 relatifs au crime d’agression, approuvés par l’Ass. féd. le 20 mars 2015, en vigueur pour la Suisse depuis le 10 sept. 2016 ([RO 2015 3825](https://fedlex.data.admin.ch/eli/oc/2015/644), [3823](https://fedlex.data.admin.ch/eli/oc/2015/643); [FF 2014 1973](https://fedlex.data.admin.ch/eli/fga/2014/401)).
 
 #### Art. 16
 
@@ -507,7 +509,7 @@ Quiconque a été jugé par une autre juridiction pour un comportement tombant a
 - a) avait pour but de soustraire la personne concernée à sa responsabilité pénale pour des crimes relevant de la compétence de la Cour, ou
 - b) n’a pas été au demeurant menée de manière indépendante ou impartiale, dans le respect des garanties d’un procès équitable prévues par le droit international, mais d’une manière qui, dans les circonstances, était incompatible avec l’intention de traduire l’intéressé en justice.
 
-[^20-1]: Nouvelle teneur selon le ch. 7 de l’annexe I des Am. du 11 juin 2010 relatifs au crime d’agression, approuvés par l’Ass. féd. le 20 mars 2015, en vigueur pour la Suisse depuis le 10 sept. 2016 ([RO 2015 3825](https://fedlex.data.admin.ch/eli/oc/2015/644); [FF 2014 1973](https://fedlex.data.admin.ch/eli/fga/2014/401)).
+[^20-1]: Nouvelle teneur selon le ch. 7 de l’annexe I des Am. du 11 juin 2010 relatifs au crime d’agression, approuvés par l’Ass. féd. le 20 mars 2015, en vigueur pour la Suisse depuis le 10 sept. 2016 ([RO 2015 3825](https://fedlex.data.admin.ch/eli/oc/2015/644), [3823](https://fedlex.data.admin.ch/eli/oc/2015/643); [FF 2014 1973](https://fedlex.data.admin.ch/eli/fga/2014/401)).
 
 #### Art. 21
 
@@ -578,7 +580,7 @@ Aux termes du présent Statut, une personne est pénalement responsable et peut 
 
 <sup>4.</sup> Aucune disposition du présent Statut relative à la responsabilité pénale des individus n’affecte la responsabilité des États en droit international.
 
-[^25-1]: Introduit par le ch. 5 de l’annexe I des Am. du 11 juin 2010 relatifs au crime d’agression, approuvés par l’Ass. féd. le 20 mars 2015, en vigueur pour la Suisse depuis le 10 sept. 2016 ([RO 2015 3825](https://fedlex.data.admin.ch/eli/oc/2015/644); [FF 2014 1973](https://fedlex.data.admin.ch/eli/fga/2014/401)).
+[^25-1]: Introduit par le ch. 5 de l’annexe I des Am. du 11 juin 2010 relatifs au crime d’agression, approuvés par l’Ass. féd. le 20 mars 2015, en vigueur pour la Suisse depuis le 10 sept. 2016 ([RO 2015 3825](https://fedlex.data.admin.ch/eli/oc/2015/644), [3823](https://fedlex.data.admin.ch/eli/oc/2015/643); [FF 2014 1973](https://fedlex.data.admin.ch/eli/fga/2014/401)).
 
 #### Art. 26
 
@@ -2282,7 +2284,7 @@ L’original du présent Statut, dont les textes anglais, arabe, chinois, espagn
 
 *En foi de quoi,* les soussignés, à ce dûment autorisés par leur gouvernement respectif, ont signé le présent Statut. Fait à Rome ce dix-septième jour de juillet de l’an mil neuf cent quatre-vingt-dix-huit. *(Suivent les signatures)*
 
-Champ d’application le 12 mai 2022**[^t-3]**
+Champ d’application le 12 mai 2022[^t-3]
 
 <table>
 <tr><th colspan="3">États parties</th><th colspan="2">Ratification Adhésion (A) Succession (S)</th><th colspan="2"></th><th>Entrée en vigueur</th><th></th></tr>

@@ -3,16 +3,16 @@ sr: "0.312.1"
 title: Römer Statut des Internationalen Strafgerichtshofs vom 17. Juli 1998
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/586"
 language: de
-version: 2022-05-12
+version: 2023-09-21
 adopted: 1998-07-17
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/586/20220512/de/xml/fedlex-data-admin-ch-eli-cc-2002-586-20220512-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/586/20220512/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/586/20230921/de/xml/fedlex-data-admin-ch-eli-cc-2002-586-20230921-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/586/20230921/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Römer Statut des Internationalen Strafgerichtshofs**** ****
+# Römer Statut des Internationalen Strafgerichtshofs
 
 AS **2002** 3743; BBl **2001** 391[^t-1][^t-2]
 
@@ -20,7 +20,7 @@ AS **2002** 3743; BBl **2001** 391[^t-1][^t-2]
 
 Abgeschlossen in Rom am 17. Juli 1998 Von der Bundesversammlung genehmigt am 22. Juni 2001[^t-3] Ratifikationsurkunde durch die Schweiz hinterlegt am 12. Oktober 2001 In Kraft getreten für die Schweiz am 1. Juli 2002
 
-(Stand am 12. Mai 2022)
+(Stand am 21. September 2023)
 
 [^t-1]: Der Titel der abgestimmten deutschen Übersetzung dieses Vertrags lautet: «Römisches Statut des Internationalen Strafgerichtshofs». Es wurde Einvernehmen unter den Beteiligten erzielt, dass jede Seite in innerstaatlichen Dokumenten die Bezeichnung «Römer Statut des Internationalen Strafgerichtshofs» verwenden kann.
 [^t-2]: Die Änd. vom 10. Juni 2010 ([SR [0.312.12](http://www.admin.ch/ch/d/sr/c0_784_405_1.html)](https://fedlex.data.admin.ch/eli/cc/2015/645); [[AS 2015](http://www.admin.ch/ch/d/as/2002/3130.pdf)3833](https://fedlex.data.admin.ch/eli/oc/2015/645)) und 11. Juni 2010 ([SR [0.312.11](http://www.admin.ch/ch/d/sr/c0_784_405_1.html)](https://fedlex.data.admin.ch/eli/cc/2015/644); [[AS 2015 3825](http://www.admin.ch/ch/d/as/2002/3130.pdf)](https://fedlex.data.admin.ch/eli/oc/2015/644)) sind im vorliegenden Text eingebaut, gelten aber nur im Verhältnis zu jenen Staaten, die ihnen beigetreten sind. Siehe die entsprechenden Geltungsbereiche.
@@ -171,7 +171,7 @@ Im Sinne dieses Statuts bedeutet «Verbrechen gegen die Menschlichkeit» jede de
 
 - a)
 
-  schwere Verletzungen der Genfer Abkommen vom 12. August 1949[^8-1], nämlich jede der folgenden Handlungen gegen die nach dem jeweiligen Genfer Abkommen geschützten Personen oder Güter:
+  Schwere Verletzungen der Genfer Abkommen vom 12. August 1949[^8-1], nämlich jede der folgenden Handlungen gegen die nach dem jeweiligen Genfer Abkommen geschützten Personen oder Güter:
 
   - i) vorsätzliche Tötung;
   - ii) Folter oder unmenschliche Behandlung einschliesslich biologischer Versuche;
@@ -180,11 +180,11 @@ Im Sinne dieses Statuts bedeutet «Verbrechen gegen die Menschlichkeit» jede de
   - v) Nötigung eines Kriegsgefangenen oder einer anderen geschützten Person zur Dienstleistung in den Streitkräften einer feindlichen Macht;
   - vi) vorsätzlicher Entzug des Rechts eines Kriegsgefangenen oder einer anderen geschützten Person auf ein unparteiisches ordentliches Gerichtsverfahren;
   - vii) rechtswidrige Vertreibung oder Überführung[^8-3] oder rechtswidrige Gefangenhaltung;
-  - viii) Geiselnahme;
+  - viii) Geiselnahme.
 
 - b)
 
-  andere schwere Verstösse gegen die innerhalb des feststehenden Rahmens des Völkerrechts im internationalen bewaffneten Konflikt anwendbaren Gesetze und Gebräuche, nämlich jede der folgenden Handlungen:
+  Andere schwere Verstösse gegen die innerhalb des feststehenden Rahmens des Völkerrechts im internationalen bewaffneten Konflikt anwendbaren Gesetze und Gebräuche, nämlich jede der folgenden Handlungen:
 
   - i) vorsätzliche Angriffe auf die Zivilbevölkerung als solche oder auf einzelne Zivilpersonen, die an den Feindseligkeiten nicht unmittelbar teilnehmen;
   - ii) vorsätzliche Angriffe auf zivile Objekte, das heisst auf Objekte, die nicht militärische Ziele sind;
@@ -214,21 +214,21 @@ Im Sinne dieses Statuts bedeutet «Verbrechen gegen die Menschlichkeit» jede de
   - xxvi) die Zwangsverpflichtung oder Eingliederung von Kindern unter fünfzehn Jahren in die nationalen Streitkräfte oder ihre Verwendung zur aktiven Teilnahme an Feindseligkeiten;
   - [tab] xxvii)[^8-5] die Verwendung von Waffen, die mikrobielle oder andere biologische Agenzien oder Toxine verwenden, ungeachtet ihres Ursprungs oder ihrer Herstellungsmethode;
   - [tab] xxviii)[^8-6] die Verwendung von Waffen, deren Hauptwirkung darin besteht, durch Splitter zu verletzen, die im menschlichen Körper durch Röntgenstrahlen nicht entdeckt werden können;
-  - [tab] xxix)[^8-7] die Verwendung von Laserwaffen, die eigens dazu entworfen sind, sei es als ihre einzige Kampfaufgabe oder als eine ihrer Kampfaufgaben, die dauerhafte Erblindung des unbewehrten Auges, das heisst des blossen Auges oder des Auges mit Sehhilfe, zu verursachen;
+  - [tab] xxix)[^8-7] die Verwendung von Laserwaffen, die eigens dazu entworfen sind, sei es als ihre einzige Kampfaufgabe oder als eine ihrer Kampfaufgaben, die dauerhafte Erblindung des unbewehrten Auges, das heisst des blossen Auges oder des Auges mit Sehhilfe, zu verursachen.
 
 - c)
 
-  im Fall eines bewaffneten Konflikts, der keinen internationalen Charakter hat, schwere Verstösse gegen den gemeinsamen Artikel 3 der vier Genfer Abkommen vom 12. August 1949, nämlich die Verübung jeder der folgenden Handlungen gegen Personen, die nicht unmittelbar an den Feindseligkeiten teilnehmen, einschliesslich der Angehörigen der Streitkräfte, welche die Waffen gestreckt haben, und der Personen, die durch Krankheit, Verwundung, Gefangennahme oder eine andere Ursache ausser Gefecht befindlich sind:
+  Im Fall eines bewaffneten Konflikts, der keinen internationalen Charakter hat, schwere Verstösse gegen den gemeinsamen Artikel 3 der vier Genfer Abkommen vom 12. August 1949, nämlich die Verübung jeder der folgenden Handlungen gegen Personen, die nicht unmittelbar an den Feindseligkeiten teilnehmen, einschliesslich der Angehörigen der Streitkräfte, welche die Waffen gestreckt haben, und der Personen, die durch Krankheit, Verwundung, Gefangennahme oder eine andere Ursache ausser Gefecht befindlich sind:
 
   - i) Angriffe auf Leib und Leben, insbesondere vorsätzliche Tötung jeder Art, Verstümmelung, grausame Behandlung und Folter;
   - ii) die Beeinträchtigung der persönlichen Würde, insbesondere entwürdigende und erniedrigende Behandlung;
   - iii) Geiselnahme;
-  - iv) Verurteilungen und Hinrichtungen ohne vorhergehendes Urteil eines ordentlich bestellten Gerichts, das die allgemein als unerlässlich anerkannten Rechtsgarantien bietet;
+  - iv) Verurteilungen und Hinrichtungen ohne vorhergehendes Urteil eines ordentlich bestellten Gerichts, das die allgemein als unerlässlich anerkannten Rechtsgarantien bietet.
 
-- d) Absatz 2 Buchstabe c findet Anwendung auf bewaffnete Konflikte, die keinen internationalen Charakter haben, und somit nicht auf Fälle innerer Unruhen und Spannungen wie Tumulte, vereinzelt auftretende Gewalttaten oder andere ähnliche Handlungen;
+- d) Absatz 2 Buchstabe c findet Anwendung auf bewaffnete Konflikte, die keinen internationalen Charakter haben, und somit nicht auf Fälle innerer Unruhen und Spannungen wie Tumulte, vereinzelt auftretende Gewalttaten oder andere ähnliche Handlungen.
 - e)
 
-  andere schwere Verstösse gegen die innerhalb des feststehenden Rahmens des Völkerrechts anwendbaren Gesetze und Gebräuche im bewaffneten Konflikt, der keinen internationalen Charakter hat, nämlich jede der folgenden Handlungen:
+  Andere schwere Verstösse gegen die innerhalb des feststehenden Rahmens des Völkerrechts anwendbaren Gesetze und Gebräuche im bewaffneten Konflikt, der keinen internationalen Charakter hat, nämlich jede der folgenden Handlungen:
 
   - i) vorsätzliche Angriffe auf die Zivilbevölkerung als solche oder auf einzelne Zivilpersonen, die an den Feindseligkeiten nicht unmittelbar teilnehmen;
   - ii) vorsätzliche Angriffe auf Gebäude, Material, Sanitätseinheiten, Sanitätstransportmittel und Personal, die in Übereinstimmung mit dem Völkerrecht mit den Schutzzeichen der Genfer Abkommen versehen sind;
@@ -248,6 +248,7 @@ Im Sinne dieses Statuts bedeutet «Verbrechen gegen die Menschlichkeit» jede de
   - xvi)[^8-12] die Verwendung von Waffen, die mikrobielle oder andere biologische Agenzien oder Toxine verwenden, ungeachtet ihres Ursprungs oder ihrer Herstellungsmethode;
   - [tab] xvii)[^8-13] die Verwendung von Waffen, deren Hauptwirkung darin besteht, durch Splitter zu verletzen, die im menschlichen Körper durch Röntgenstrahlen nicht entdeckt werden können;
   - [tab] xviii)[^8-14] die Verwendung von Laserwaffen, die eigens dazu entworfen sind, sei es als ihre einzige Kampfaufgabe oder als eine ihrer Kampfaufgaben, die dauerhafte Erblindung des unbewehrten Auges, das heisst des blossen Auges oder des Auges mit Sehhilfe, zu verursachen;
+  - [tab] xix)[^8-15] das vorsätzliche Aushungern von Zivilpersonen als Methode der Kriegführung durch das Vorenthalten der für sie lebensnotwendigen Gegenstände, einschliesslich der vorsätzlichen Behinderung von Hilfslieferungen.
 
 - f) Absatz 2 Buchstabe e findet Anwendung auf bewaffnete Konflikte, die keinen internationalen Charakter haben, und somit nicht auf Fälle innerer Unruhen und Spannungen wie Tumulte, vereinzelt auftretende Gewalttaten oder andere ähnliche Handlungen. Er findet Anwendung auf bewaffnete Konflikte, die im Hoheitsgebiet eines Staates stattfinden, wenn zwischen den staatlichen Behörden und organisierten bewaffneten Gruppen oder zwischen solchen Gruppen ein lang anhaltender bewaffneter Konflikt besteht.
 
@@ -257,16 +258,17 @@ Im Sinne dieses Statuts bedeutet «Verbrechen gegen die Menschlichkeit» jede de
 [^8-2]: D, A: Eigentum
 [^8-3]: A: Verschleppung oder Versetzung
 [^8-4]: D, A: Eigentums
-[^8-5]: Eingefügt durch Anhang I der Änd. vom 14. Dez. 2017, von der BVers genehmigt am 20. Dez. 2019 und in Kraft getreten für die Schweiz am 7. Juli 2021 ([AS 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334); [BBl 2019 3909](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
-[^8-6]: Eingefügt durch Anhang II der Änd. vom 14. Dez. 2017, von der BVers genehmigt am 20. Dez. 2019 und in Kraft getreten für die Schweiz am 7. Juli 2021 ([AS 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334); [BBl 2019 3909](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
-[^8-7]: Eingefügt durch Anhang III der Änd. vom 14. Dez. 2017, von der BVers genehmigt am 20. Dez. 2019 und in Kraft getreten für die Schweiz am 7. Juli 2021 ([AS 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334); [BBl 2019 3909](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
+[^8-5]: Eingefügt durch Anhang I der Änd. vom 14. Dez. 2017, von der BVers genehmigt am 20. Dez. 2019 und in Kraft getreten für die Schweiz am 7. Juli 2021 ([AS 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334), [333](https://fedlex.data.admin.ch/eli/oc/2021/333); [BBl 2019 3909](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
+[^8-6]: Eingefügt durch Anhang II der Änd. vom 14. Dez. 2017, von der BVers genehmigt am 20. Dez. 2019 und in Kraft getreten für die Schweiz am 7. Juli 2021 ([AS 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334), [333](https://fedlex.data.admin.ch/eli/oc/2021/333); [BBl 2019 3909](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
+[^8-7]: Eingefügt durch Anhang III der Änd. vom 14. Dez. 2017, von der BVers genehmigt am 20. Dez. 2019 und in Kraft getreten für die Schweiz am 7. Juli 2021 ([AS 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334), [333](https://fedlex.data.admin.ch/eli/oc/2021/333); [BBl 2019 3909](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
 [^8-8]: D, A: Eigentums
-[^8-9]: Eingefügt durch Anhang 1 der Änderungen betreffend die Kriegsverbrechen vom 10. Juni 2010, von der BVers genehmigt am 20. März 2015 und in Kraft getreten für die Schweiz am 10. Sept. 2016 ([AS 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645); [BBl 2014 2045](https://fedlex.data.admin.ch/eli/fga/2014/401)).
-[^8-10]: Eingefügt durch Anhang 1 der Änderungen betreffend die Kriegsverbrechen vom 10. Juni 2010, von der BVers genehmigt am 20. März 2015 und in Kraft getreten für die Schweiz am 10. Sept. 2016 ([AS 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645); [BBl 2014 2045](https://fedlex.data.admin.ch/eli/fga/2014/401)).
-[^8-11]: Eingefügt durch Anhang 1 der Änderungen betreffend die Kriegsverbrechen vom 10. Juni 2010, von der BVers genehmigt am 20. März 2015 und in Kraft getreten für die Schweiz am 10. Sept. 2016 ([AS 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645); [BBl 2014 2045](https://fedlex.data.admin.ch/eli/fga/2014/401)).
-[^8-12]: Eingefügt durch Anhang I der Änd. vom 14. Dez. 2017, von der BVers genehmigt am 20. Dez. 2019 und in Kraft getreten für die Schweiz am 7. Juli 2021 ([AS 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334); [BBl 2019 3909](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
-[^8-13]: Eingefügt durch Anhang II der Änd. vom 14. Dez. 2017, von der BVers genehmigt am 20. Dez. 2019 und in Kraft getreten für die Schweiz am 7. Juli 2021 ([AS 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334); [BBl 2019 3909](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
-[^8-14]: Eingefügt durch Anhang III der Änd. vom 14. Dez. 2017, von der BVers genehmigt am 20. Dez. 2019 und in Kraft getreten für die Schweiz am 7. Juli 2021 ([AS 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334); [BBl 2019 3909](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
+[^8-9]: Eingefügt durch Anhang 1 der Änderungen betreffend die Kriegsverbrechen vom 10. Juni 2010, von der BVers genehmigt am 20. März 2015 und in Kraft getreten für die Schweiz am 10. Sept. 2016 ([AS 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645), [3823](https://fedlex.data.admin.ch/eli/oc/2015/643); [BBl 2014 2045](https://fedlex.data.admin.ch/eli/fga/2014/401)).
+[^8-10]: Eingefügt durch Anhang 1 der Änderungen betreffend die Kriegsverbrechen vom 10. Juni 2010, von der BVers genehmigt am 20. März 2015 und in Kraft getreten für die Schweiz am 10. Sept. 2016 ([AS 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645), [3823](https://fedlex.data.admin.ch/eli/oc/2015/643); [BBl 2014 2045](https://fedlex.data.admin.ch/eli/fga/2014/401)).
+[^8-11]: Eingefügt durch Anhang 1 der Änderungen betreffend die Kriegsverbrechen vom 10. Juni 2010, von der BVers genehmigt am 20. März 2015 und in Kraft getreten für die Schweiz am 10. Sept. 2016 ([AS 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645), [3823](https://fedlex.data.admin.ch/eli/oc/2015/643); [BBl 2014 2045](https://fedlex.data.admin.ch/eli/fga/2014/401)).
+[^8-12]: Eingefügt durch Anhang I der Änd. vom 14. Dez. 2017, von der BVers genehmigt am 20. Dez. 2019 und in Kraft getreten für die Schweiz am 7. Juli 2021 ([AS 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334), [333](https://fedlex.data.admin.ch/eli/oc/2021/333); [BBl 2019 3909](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
+[^8-13]: Eingefügt durch Anhang II der Änd. vom 14. Dez. 2017, von der BVers genehmigt am 20. Dez. 2019 und in Kraft getreten für die Schweiz am 7. Juli 2021 ([AS 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334), [333](https://fedlex.data.admin.ch/eli/oc/2021/333); [BBl 2019 3909](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
+[^8-14]: Eingefügt durch Anhang III der Änd. vom 14. Dez. 2017, von der BVers genehmigt am 20. Dez. 2019 und in Kraft getreten für die Schweiz am 7. Juli 2021 ([AS 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334), [333](https://fedlex.data.admin.ch/eli/oc/2021/333); [BBl 2019 3909](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
+[^8-15]: Eingefügt durch Anhang I der Änd. vom 6. Dez. 2019, von der BVers genehmigt am 18. März. 2022 und in Kraft getreten für die Schweiz am 21. Sept. 2023 ([AS 2023 303](https://fedlex.data.admin.ch/eli/oc/2023/303), [302](https://fedlex.data.admin.ch/eli/oc/2023/302); [BBl 2022 708](https://fedlex.data.admin.ch/eli/fga/2022/708)).
 
 #### Art. 8<sup>bis</sup>
 
@@ -1900,10 +1902,16 @@ Erhält ein Vertragsstaat ein Ersuchen auf Grund dieses Teiles, in dessen Zusamm
 
 **Erledigung von Ersuchen nach den Artikeln 93 und 96**
 
-- [tab] 1. Rechtshilfeersuchen werden nach dem im Recht des ersuchten Staates vorgesehenen Verfahren und, soweit durch dieses Recht nicht verboten, in der in dem Ersuchen angegebenen Weise erledigt; in diesem Sinne hält der ersuchte Staat insbesondere jedes beschriebene Verfahren ein oder gestattet den im Ersuchen genannten Personen, bei der Erledigung anwesend und behilflich zu sein.
-- [tab] 2. Im Fall eines dringenden Ersuchens werden die beigebrachten Unterlagen oder Beweismittel auf Ersuchen des Gerichtshofs beschleunigt versandt.
-- [tab] 3. Antworten des ersuchten Staates werden in ihrer Originalsprache und -form übermittelt.
-- [tab] 4. Unbeschadet anderer Artikel dieses Teiles kann der Ankläger, sofern dies für die erfolgreiche Erledigung eines Ersuchens notwendig ist, das ohne Zwangsmassnahmen erledigt werden kann – so insbesondere auch die Befragung einer Person oder die Beweiserhebung von ihr auf freiwilliger Grundlage, einschliesslich einer solchen Vorgehensweise in Abwesenheit der Behörden des ersuchten Vertragsstaats, falls dies für die Erledigung des Ersuchens entscheidend ist, und die nicht mit der Vornahme von Veränderungen verbundene Untersuchung einer öffentlichen Stätte oder eines sonstigen öffentlichen Ortes –, dieses Ersuchen wie folgt unmittelbar im Hoheitsgebiet eines Staates erledigen:
+<sup>1.</sup> Rechtshilfeersuchen werden nach dem im Recht des ersuchten Staates vorgesehenen Verfahren und, soweit durch dieses Recht nicht verboten, in der in dem Ersuchen angegebenen Weise erledigt; in diesem Sinne hält der ersuchte Staat insbesondere jedes beschriebene Verfahren ein oder gestattet den im Ersuchen genannten Personen, bei der Erledigung anwesend und behilflich zu sein.
+
+<sup>2.</sup> Im Fall eines dringenden Ersuchens werden die beigebrachten Unterlagen oder Beweismittel auf Ersuchen des Gerichtshofs beschleunigt versandt.
+
+<sup>3.</sup> Antworten des ersuchten Staates werden in ihrer Originalsprache und -form übermittelt.
+
+<sup>4.</sup>
+
+Unbeschadet anderer Artikel dieses Teiles kann der Ankläger, sofern dies für die erfolgreiche Erledigung eines Ersuchens notwendig ist, das ohne Zwangsmassnahmen erledigt werden kann – so insbesondere auch die Befragung einer Person oder die Beweiserhebung von ihr auf freiwilliger Grundlage, einschliesslich einer solchen Vorgehensweise in Abwesenheit der Behörden des ersuchten Vertragsstaats, falls dies für die Erledigung des Ersuchens entscheidend ist, und die nicht mit der Vornahme von Veränderungen verbundene Untersuchung einer öffentlichen Stätte oder eines sonstigen öffentlichen Ortes –, dieses Ersuchen wie folgt unmittelbar im Hoheitsgebiet eines Staates erledigen:
+
 - a) Wenn der ersuchte Vertragsstaat der Staat ist, in dessen Hoheitsgebiet das Verbrechen begangen worden sein soll, und nach Artikel 18 oder 19 eine Entscheidung ergangen ist, dass die Sache zulässig ist, kann der Ankläger das Ersuchen nach sämtlichen möglichen Konsultationen mit dem ersuchten Vertragsstaat unmittelbar erledigen;
 - b) in anderen Fällen kann der Ankläger das Ersuchen nach Konsultationen mit dem ersuchten Vertragsstaat und unter allen sinnvollen Bedingungen oder Anliegen dieses Vertragsstaats erledigen. Stellt der ersuchte Vertragsstaat Probleme bei der Erledigung eines Ersuchens nach diesem Buchstaben fest, so konsultiert er unverzüglich den Gerichtshof, um die Angelegenheit zu regeln.
 
@@ -2219,7 +2227,7 @@ Die Urschrift dieses Statuts, dessen arabischer, chinesischer, englischer, franz
 
 *Zu Urkund dessen* haben die von ihren Regierungen hierzu gehörig befugten Unterzeichneten dieses Statut unterschrieben. Geschehen zu Rom am 17. Juli 1998. (Es folgen die Unterschriften)
 
-Geltungsbereich am 12. Mai 2022**[^t-4]**
+Geltungsbereich am 12. Mai 2022[^t-4]
 
 <table>
 <tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -2371,7 +2379,7 @@ Geltungsbereich am 12. Mai 2022**[^t-4]**
 
 Vorbehalte und Erklärungen
 
-Schweiz**[^t-5]**
+Schweiz[^t-5]
 
 Erklärungen der Schweiz auf Grund des Artikels 87 Absätze 1 und 2
 
