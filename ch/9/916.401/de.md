@@ -4,11 +4,11 @@ title: Tierseuchenverordnung vom 27. Juni 1995 (TSV)
 short: TSV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716"
 language: de
-version: 2023-08-03
+version: 2023-09-22
 adopted: 1995-06-27
 in_force: 1995-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20230803/de/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20230803-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20230803/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20230922/de/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20230922-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20230922/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20230803/de"
 
 (TSV)
 
-vom 27. Juni 1995 (Stand am 3. August 2023)
+vom 27. Juni 1995 (Stand am 22. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -3957,11 +3957,12 @@ Samen von Stieren, die serologisch positiv sind oder waren, darf nicht für die 
 
 **Amtliche Anerkennung und Überwachung**[^174b-1]
 
-<sup>1</sup> Alle Rinder-, Büffel- und Bisonbestände gelten als amtlich anerkannt BVD-frei. Bei Ansteckungsverdacht und im Verdachts- oder Seuchenfall wird dem betroffenen Bestand die amtliche Anerkennung bis zur Aufhebung der Sperre suspendiert beziehungsweise entzogen.
+<sup>1</sup> Alle Rinder-, Büffel- und Bisonbestände gelten als amtlich anerkannt BVD-frei. Bei Ansteckungsverdacht und im Verdachts- oder Seuchenfall wird dem betroffenen Bestand die amtliche Anerkennung bis zur Aufhebung aller Sperren suspendiert beziehungsweise entzogen.[^174b-2]
 
 <sup>2</sup> Das BLV erlässt Vorschriften technischer Art über die Durchführung der Überwachung der Tierbestände. Es kann darin vorschreiben, dass die neugeborenen Kälber und die Totgeburten bis spätestens fünf Tage nach der Geburt virologisch auf BVD untersucht und die neugeborenen Kälber unter Verbringungssperre gestellt werden, bis ein negatives Untersuchungsergebnis vorliegt.
 
 [^174b-1]: Fassung gemäss Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Nov. 2022 ([AS 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^174b-2]: Berichtigung vom 22. Sept. 2023 ([AS 2023 537](https://fedlex.data.admin.ch/eli/oc/2023/537)).
 
 #### Art. 174c
 
@@ -6074,7 +6075,9 @@ Das BLV kann im Einvernehmen mit dem Zentrum für Bienenforschung Vorschriften t
 
 Tierverluste nach Artikel 32 Absatz 1 Buchstaben a, b und d TSG werden nicht entschädigt.
 
-**Art. 274**h[^274g-1]Apinella
+#### Art. 274h
+
+**Apinella**[^274h-1]
 
 <sup>1</sup>
 
@@ -6099,14 +6102,14 @@ Für die Daten nach Absatz 1 gelten folgende Zugriffsrechte:
 
 <sup>3</sup> Das BLV ist verantwortlich für die Einhaltung der Datenschutzvorschriften sowie der Vorgaben zur Daten- und Informatiksicherheit.
 
-<sup>4</sup> Die Daten dürfen längstens 30 Jahre im Informationssystem aufbewahrt werden. Die Archivierung richtet sich nach den Bestimmungen des Archivierungsgesetzes vom 26. Juni 1998[^274g-2]. Anonymisierte Daten dürfen über die Frist von 30 Jahren hinaus aufbewahrt werden.
+<sup>4</sup> Die Daten dürfen längstens 30 Jahre im Informationssystem aufbewahrt werden. Die Archivierung richtet sich nach den Bestimmungen des Archivierungsgesetzes vom 26. Juni 1998[^274h-2]. Anonymisierte Daten dürfen über die Frist von 30 Jahren hinaus aufbewahrt werden.
 
 <sup>5</sup> Der Kantonstierarzt ist verpflichtet, Imker zu suchen, die sich bereit erklären, Apinella zu verwenden. Deren Auswahl sollte nach Möglichkeit eine repräsentative Aussage über das Vorkommen des Kleinen Beutekäfers im Kanton erlauben. Der Kantonstierarzt meldet dem BLV die Daten nach Absatz 1 Buchstabe a.
 
 <sup>6</sup> Die Imker, die sich zur Verwendung von Apinella bereit erklärt haben, müssen ihre Bienenvölker zwischen Mai und Oktober alle zwei Wochen auf den Befall mit dem Kleinen Beutenkäfer kontrollieren und das Ergebnis der Kontrolle in Apinella erfassen.
 
-[^274g-1]: Eingefügt durch Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Nov. 2022 ([AS 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
-[^274g-2]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^274h-1]: Eingefügt durch Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Nov. 2022 ([AS 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^274h-2]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
 
 ### 5. Kapitel: Seuchen der Wassertiere
 

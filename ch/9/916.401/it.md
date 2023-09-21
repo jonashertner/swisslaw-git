@@ -4,11 +4,11 @@ title: Ordinanza del 27 giugno 1995 sulle epizoozie (OFE)
 short: OFE
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716"
 language: it
-version: 2023-08-03
+version: 2023-09-22
 adopted: 1995-06-27
 in_force: 1995-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20230803/it/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20230803-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20230803/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20230922/it/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20230922-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20230922/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20230803/it"
 
 (OFE)
 
-del 27 giugno 1995 (Stato 3 agosto 2023)
+del 27 giugno 1995 (Stato 22 settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -3965,11 +3965,12 @@ Il seme dei tori la cui analisi sierologica è od era positiva non può essere i
 
 **Riconoscimento ufficiale e sorveglianza**[^174b-1]
 
-<sup>1</sup> Tutti gli effettivi di bovini, bufali e bisonti sono riconosciuti ufficialmente indenni da BVD. In caso di sospetto di contagio, di sospetto di epizoozia o di epizoozia, all’effettivo interessato è sospeso o revocato il riconoscimento ufficiale fino alla cessazione del sequestro.
+<sup>1</sup> Tutti gli effettivi di bovini, bufali e bisonti sono riconosciuti ufficialmente indenni da BVD. In caso di sospetto di contagio, di sospetto di epizoozia o di epizoozia, all’effettivo interessato è sospeso o revocato il riconoscimento ufficiale fino alla cessazione di tutti i sequestri.[^174b-2]
 
 <sup>2</sup> L’USAV emana prescrizioni tecniche riguardo allo svolgimento della sorveglianza degli effettivi di animali. Esso può inoltre prescrivere l’esame virologico riguardo alla BVD nei vitelli neonati e in quelli nati morti entro cinque giorni dal parto, e imporre un divieto di trasferimento per i vitelli neonati fino all’esito negativo delle analisi.
 
 [^174b-1]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^174b-2]: Correzione del 22 set. 2023 ([RU 2023 537](https://fedlex.data.admin.ch/eli/oc/2023/537)).
 
 #### Art. 174c
 

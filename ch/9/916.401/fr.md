@@ -4,11 +4,11 @@ title: Ordonnance du 27 juin 1995 sur les épizooties (OFE)
 short: OFE
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716"
 language: fr
-version: 2023-08-03
+version: 2023-09-22
 adopted: 1995-06-27
 in_force: 1995-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20230803/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20230803-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20230803/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20230922/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20230922-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20230922/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20230803/fr"
 
 (OFE)
 
-du 27 juin 1995 (État le 3 août 2023)
+du 27 juin 1995 (État le 22 septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -2443,7 +2443,7 @@ Sur proposition du vétérinaire cantonal et pour autant que la situation épizo
 - a. une réduction du rayon des zones de protection et de surveillance (art. 88, al. 1 et 2);
 - b. l’estivage et l’hivernage dans les zones de protection et de surveillance (art. 90 et 92);
 - c.[^95-1] …
-- d. autoriser l’abattage d’animaux non suspects en dehors des zones de protection et de surveillance, lorsqu’elles subsistent depuis plus de 21 jours (art. 90 et 92).
+- d. l’abattage d’animaux non suspects en dehors des zones de protection et de surveillance, lorsqu’elles subsistent depuis plus de 21 jours (art. 90 et 92).
 
 [^95-1]: Abrogée par le ch. I de l’O du 15 mars 1999, avec effet au 1<sup>er</sup> juil. 1999 ([RO 1999 1523](https://fedlex.data.admin.ch/eli/oc/1999/229)).
 
@@ -3970,11 +3970,12 @@ La semence de taureaux qui sont sérologiquement positifs ou qui l’ont été n
 
 **Reconnaissance officielle et surveillance**[^174b-1]
 
-<sup>1</sup> Tous les troupeaux de bovins, de buffles et de bisons sont considérés comme officiellement indemnes de BVD. En cas d’exposition à la contagion, de suspicion ou de constat de BVD, la reconnaissance officielle est, suspendue ou retirée jusqu’à la levée du séquestre.
+<sup>1</sup> Tous les troupeaux de bovins, de buffles et de bisons sont considérés comme officiellement indemnes de BVD. En cas d’exposition à la contagion, de suspicion ou de constat de BVD, la reconnaissance officielle est, suspendue ou retirée jusqu’à la levée de toutes les mesures d’interdiction.[^174b-2]
 
 <sup>2</sup> L’OSAV édicte des dispositions techniques concernant la mise en œuvre du programme de surveillance des troupeaux. Il peut exiger que les veaux nouveau-nés et mort-nés soient soumis à un examen virologique de dépistage de la BVD cinq jours au plus tard après leur naissance et que les veaux nouveau-nés soient frappés d’une interdiction de transport jusqu’à obtention du résultat négatif des analyses.
 
 [^174b-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^174b-2]: Erratum du 22 sept. 2023 ([RO 2023 537](https://fedlex.data.admin.ch/eli/oc/2023/537)).
 
 #### Art. 174c
 
