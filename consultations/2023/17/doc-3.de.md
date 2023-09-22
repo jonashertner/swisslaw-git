@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Botschaft zur Förderung der Kultur in den Jahren 2025–2028 (Kulturbotschaft)
 document: Vernehmlassungsvorlage-5
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Messaggio concernente la promozione della cultura negli anni 2025–2028 (messaggio sulla cultura)
 document: Progetto posto in consultazione-2
 language: it

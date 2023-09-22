@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Message concernant l’encouragement de la culture pour la période 2025 à 2028 (Message culture)
 document: Projet mis en consultation-7
 language: fr
