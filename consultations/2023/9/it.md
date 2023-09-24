@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Promozione dell’educazione, della ricerca e dell’innovazione negli anni 2025–2028 (Messagio ERI 25–28)"
 document: Progetti posto in consultazione e rapporto
 language: it

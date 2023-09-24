@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Förderung von Bildung, Forschung und Innovation in den Jahren 2025–2028 (BFI-Botschaft 25–28)"
 document: Vernehmlassungsvorlagen und erläuternder Bericht
 language: de

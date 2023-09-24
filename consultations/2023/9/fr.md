@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Encouragement de la formation, de la recherche et de l’innovation pendant les années 2025 à 2028 (message FRI 25-28)"
 document: Projets mis en consultation et rapport
 language: fr
