@@ -4,11 +4,11 @@ title: Militärstrafgesetz vom 13. Juni 1927 (MStG)
 short: MStG
 eli: "https://fedlex.data.admin.ch/eli/cc/43/359_375_369"
 language: de
-version: 2023-07-01
+version: 2023-09-25
 adopted: 1927-06-13
 in_force: 1928-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20230701/de/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20230701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20230925/de/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20230925-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20230925/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20230701/de"
 
 (MStG)
 
-vom 13. Juni 1927 (Stand am 1. Juli 2023)
+vom 13. Juni 1927 (Stand am 25. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -2876,9 +2876,9 @@ Der mündlichen üblen Nachrede und der mündlichen Verleumdung ist die Äusseru
 
 #### Art. 148
 
-<sup>1.</sup> Wer jemanden in anderer Weise durch Wort, Schrift, Bild, Gebärde oder Tätlichkeiten in seiner Ehre angreift, wird auf Antrag des Verletzten oder der Stelle, die für die Erteilung des Befehls zur Anhebung der Voruntersuchung zuständig ist, mit Geldstrafe bis zu 90 Tagessätzen bestraft.[^148-1]
+<sup>1.</sup> Wer jemanden in anderer Weise durch Wort, Schrift, Bild, Gebärde oder Tätlichkeiten in seiner Ehre angreift, wird auf Antrag des Verletzten oder der Stelle, die für die Erteilung des Befehls zur Anhebung der Voruntersuchung zuständig ist, mit Geldstrafe bis zu 90 Tagessätzen bestraft.[^148-1] [^148-2]
 
-…[^148-2]
+…[^148-3]
 
 In leichten Fällen erfolgt disziplinarische Bestrafung.
 
@@ -2886,11 +2886,12 @@ In leichten Fällen erfolgt disziplinarische Bestrafung.
 
 Ist die Beschimpfung unmittelbar mit einer Beschimpfung oder Tätlichkeit erwidert worden, so kann das Gericht einen Täter oder beide von Strafe befreien.
 
-<sup>3.</sup> …[^148-3]
+<sup>3.</sup> …[^148-4]
 
 [^148-1]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^148-2]: Zweiter Absatz aufgehoben durch Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, mit Wirkung seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^148-3]: Aufgehoben durch Ziff. I 2 des BG vom 23. März 1979, mit Wirkung seit 1. Jan. 1980 ([AS 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [BBl 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
+[^148-2]: Die Berichtigung der RedK der BVers vom 21. Sept. 2023, veröffentlicht am 25. Sept. 2023, betrifft nur den italienischen Text ([AS 2023 538](https://fedlex.data.admin.ch/eli/oc/2023/538)).
+[^148-3]: Zweiter Absatz aufgehoben durch Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, mit Wirkung seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^148-4]: Aufgehoben durch Ziff. I 2 des BG vom 23. März 1979, mit Wirkung seit 1. Jan. 1980 ([AS 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [BBl 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
 
 ### Antragsrecht
 

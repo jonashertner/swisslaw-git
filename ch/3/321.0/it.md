@@ -4,18 +4,18 @@ title: Codice penale militare del 13 giugno 1927 (CPM)
 short: CPM
 eli: "https://fedlex.data.admin.ch/eli/cc/43/359_375_369"
 language: it
-version: 2023-07-01
+version: 2023-09-25
 adopted: 1927-06-13
 in_force: 1928-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20230701/it/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20230701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20230925/it/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20230925-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20230925/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Codice penale militare
 
-del 13 giugno 1927 (Stato 1° luglio 2023)
+del 13 giugno 1927 (Stato 25 settembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -2860,7 +2860,7 @@ Alla diffamazione e alla calunnia verbali sono parificate la diffamazione e la c
 
 [^148-1]
 
-<sup>1.</sup> Chiunque offende in altro modo con parole, scritti, immagini, gesti o vie di fatto l’onore di una persona è punito, a querela della parte lesa o dell’autorità competente a dare l’ordine di procedere all’istruzione preparatoria, con una pena pecuniaria sino a 90 aliquote giornaliere o con la multa.[^148-2]
+\1. Chiunque offende in altro modo con parole, scritti, immagini, gesti o vie di fatto l’onore di una persona è punito, a querela della parte lesa o dell’autorità competente a dare l’ordine di procedere all’istruzione preparatoria, con una pena pecuniaria sino a 90 aliquote giornaliere.[^148-2]
 
 ...[^148-3]
 
@@ -2873,7 +2873,7 @@ Se all’ingiuria si è immediatamente risposto con ingiuria o con vie di fatto,
 <sup>3.</sup> …[^148-4]
 
 [^148-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
-[^148-2]: Nuovo testo giusta il n. I della LF del 21 dic. 1950, in vigore dal 1° luglio 1951 ([RU 1951 435](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435); FF **1949** 685).
+[^148-2]: Correzione della Commissione di redazione dell’AF del 21 set. 2023, pubblicata il 25 set. 2023 ([RU 2023 538](https://fedlex.data.admin.ch/eli/oc/2023/538)).
 [^148-3]: Secondo comma abrogato dal n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^148-4]: Abrogato dal n. I 2 della LF del 23 mar. 1979, con effetto dal 1° gen. 1980 ([RU 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [FF 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
 

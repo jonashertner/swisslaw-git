@@ -4,11 +4,11 @@ title: Code pénal militaire du 13 juin 1927 (CPM)
 short: CPM
 eli: "https://fedlex.data.admin.ch/eli/cc/43/359_375_369"
 language: fr
-version: 2023-07-01
+version: 2023-09-25
 adopted: 1927-06-13
 in_force: 1928-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20230701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20230925/fr/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20230925-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20230925/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20230701/fr"
 
 (CPM)
 
-du 13 juin 1927 (État le 1<sup>er</sup> juillet 2023)
+du 13 juin 1927 (État le 25 septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -2923,7 +2923,7 @@ L’infraction est punie disciplinairement si elle est de peu de gravité.
 
 [^148-1]
 
-<sup>1.</sup> Quiconque, de toute autre manière, attaque autrui dans son honneur par la parole, l’écriture, l’image, le geste ou par des voies de fait, est, sur plainte du lésé ou de l’organe compétent pour rendre l’ordonnance de procéder à une enquête, puni d’une peine pécuniaire de 90 jours-amende au plus.
+<sup>1.</sup> Quiconque, de toute autre manière, attaque autrui dans son honneur par la parole, l’écriture, l’image, le geste ou par des voies de fait, est, sur plainte du lésé ou de l’organe compétent pour rendre l’ordonnance de procéder à une enquête, puni d’une peine pécuniaire de 90 jours-amende au plus.[^148-2]
 
 Abrogé (2<sup>e</sup> par.)
 
@@ -2934,6 +2934,7 @@ L’infraction est punie disciplinairement si elle est de peu de gravité.
 Si l’injurié riposte immédiatement par une injure ou par des voies de fait, le juge peut renoncer à prononcer une peine contre les deux auteurs ou l’un d’eux.
 
 [^148-1]: Nouvelle teneur selon le ch. I 2 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^148-2]: Erratum de la CdR de l’Ass. féd. du 21 sept. 2023, publié le 25 sept. 2023, ne concerne que le texte italien ([RO 2023 538](https://fedlex.data.admin.ch/eli/oc/2023/538)).
 
 ### Droit de plainte
 
