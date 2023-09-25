@@ -4,11 +4,11 @@ title: "Verordnung vom 4. Dezember 2015 über die Vermeidung und die Entsorgung 
 short: VVEA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: de
-version: 2023-01-01
+version: 2023-09-26
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2015-891-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20230926/de/xml/fedlex-data-admin-ch-eli-cc-2015-891-20230926-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20230926/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20230101/de"
 
 (Abfallverordnung, VVEA)
 
-vom 4. Dezember 2015 (Stand am 1. Januar 2023)
+vom 4. Dezember 2015 (Stand am 26. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -1344,7 +1344,7 @@ Anhang 5[^t-4]
 
 ## Anforderungen an Abfälle zur Ablagerung
 
-[^t-4]: Bereinigt gemäss Ziff. II der V vom 21. Sept. 2018 ([AS 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)) und vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^t-4]: Bereinigt gemäss Ziff. II der V vom 21. Sept. 2018 ([AS 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)) und vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)). Die Berichtigung vom 26. Sept. 2023 betrifft nur den italienischen Text ([AS 2023 543](https://fedlex.data.admin.ch/eli/oc/2023/543)).
 
 ### 1 Auf Typ A zugelassene Abfälle
 

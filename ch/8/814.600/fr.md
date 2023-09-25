@@ -4,11 +4,11 @@ title: "Ordonnance du 4 décembre 2015 sur la limitation et l'élimination des d
 short: OLED
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: fr
-version: 2023-01-01
+version: 2023-09-26
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-891-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20230926/fr/xml/fedlex-data-admin-ch-eli-cc-2015-891-20230926-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20230926/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20230101/fr"
 
 (Ordonnance sur les déchets, OLED)
 
-du 4 décembre 2015 (État le 1<sup>er</sup> janvier 2023)
+du 4 décembre 2015 (État le 26 septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -515,7 +515,7 @@ Les détenteurs d’installations doivent les exploiter:
 
 - a.[^32-1] de sorte qu’au moins 55 % du potentiel énergétique des déchets urbains et des déchets de composition analogue soient utilisés en dehors de l’installation; l’utilisation d’énergie à des fins de captage du CO<sub>2</sub> dans les fumées équivaut à une utilisation en dehors de l’installation;
 - b. de sorte que les composés organiques halogénés soient détruits au maximum et qu’un minimum de ces substances se forme lors du processus;
-- c.[^32-2] de sorte que les déchets spéciaux dont la teneur en composés organiques halogénés liés dépasse 1 % en poids soient traités à une température minimale de 1100 °C pendant au moins deux secondes ; l’autorité peut autoriser d’autres températures minimales ainsi que d’autres temps de séjour s’il est prouvé qu’il n’en résulte pas davantage de résidus de combustion et que ces résidus ne contiennent pas davantage de polluants organiques tels que HAP, PCDD, PCDF ou PCB;
+- c.[^32-2] de sorte que les déchets spéciaux dont la teneur en composés organiques halogénés liés dépasse 1 % en poids soient traités à une température minimale de 1100 °C pendant au moins deux secondes; l’autorité peut autoriser d’autres températures minimales ainsi que d’autres temps de séjour s’il est prouvé qu’il n’en résulte pas davantage de résidus de combustion et que ces résidus ne contiennent pas davantage de polluants organiques tels que HAP, PCDD, PCDF ou PCB;
 - d.[^32-3] de sorte que les déchets liquides dont le point d’éclair est inférieur à 60 °C et les déchets spéciaux infectieux soient séparés des autres déchets et amenés le plus directement possible dans la chambre où a lieu le traitement thermique;
 - e. de sorte que la teneur des mâchefers en imbrûlés, exprimée en carbone organique total (COT), n’excède pas 2 % en poids;
 - f. de sorte que, en cas de dérangement, le traitement de tous les déchets qui se trouvent dans la chambre de traitement thermique puisse être achevé;
@@ -1342,7 +1342,7 @@ Annexe 5[^t-4]
 
 ## Exigences relatives aux déchets mis en décharge
 
-[^t-4]: Mise à jour par l’erratum du 3 oct. 2017 ([RO 2017 5137](https://fedlex.data.admin.ch/eli/oc/2017/561)), le ch. II des O du 21 sept. 2018 ([RO 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)) et du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^t-4]: Mise à jour par l’erratum du 3 oct. 2017 ([RO 2017 5137](https://fedlex.data.admin.ch/eli/oc/2017/561)), le ch. II des O du 21 sept. 2018 ([RO 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)), du 23 fév. 2022 ([RO 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)) et l’erratum du 26 sept. 2023 ([RO 2023 543](https://fedlex.data.admin.ch/eli/oc/2023/543)).
 
 ### 1 Déchets admis dans les décharges de type A
 
@@ -1531,7 +1531,7 @@ Test 2
   - g. les cendres de grille et de foyer issues du traitement thermique de bois qui n’est pas réputé bois de chauffage au sens de l’annexe 5, ch. 31, al. 2, OPair et dont la teneur en COT ne dépasse pas 20 000 mg par kg;
   - h. les matériaux minéraux non combustibles provenant des buttes pare-balles.
 
-- 4\.2 Les résidus du traitement thermique des déchets doivent contenir aussi peu de dioxines (PCDD) et de furanes (PCDF) que l’état de la technique le permet, mais au maximum 3 μg TEQ par kg. La teneur est calculée à partir de facteurs d’équivalence toxique (FET), conformément à l’état de la technique.
+- 4\.2 Les résidus du traitement thermique des déchets doivent contenir aussi peu de dioxines (PCDD) et de furanes (PCDF) que l’état de la technique le permet, mais au maximum 1 μg TEQ par kg. La teneur est calculée à partir de facteurs d’équivalence toxique (FET), conformément à l’état de la technique.
 - 4\.3
 
   Les mâchefers provenant d’installations d’incinération des déchets urbains ou des déchets de composition analogue peuvent être stockés définitivement dans des décharges ou des compartiments de type D:

@@ -4,11 +4,11 @@ title: "Ordinance of 4 December 2015 on the Avoidance and the Disposal of Waste 
 short: ADWO
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: en
-version: 2023-01-01
+version: 2023-09-26
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2015-891-20230101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20230926/en/xml/fedlex-data-admin-ch-eli-cc-2015-891-20230926-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20230926/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Waste Ordinance, ADWO)
 
-of 4 December 2015 (Status as of 1 January 2023)
+of 4 December 2015 (Status as of 26 September 2023)
 
 The Swiss Federal Council,
 
@@ -1347,7 +1347,7 @@ Annex 5[^t-4]
 
 ## Requirements for landfill waste
 
-[^t-4]: Revised by No II of the O of 21 Sept. 2018 ([AS 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)) and of 23 Feb. 2022, in force since 1 April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^t-4]: Revised by No II of the O of 21 Sept. 2018 ([AS 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)) and of 23 Feb. 2022, in force since 1 April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)). The correction of 26 Sept. 2023 relates to the Italian text only ([AS 2023 543](https://fedlex.data.admin.ch/eli/oc/2023/543)).
 
 ### 1 Type A acceptable waste
 

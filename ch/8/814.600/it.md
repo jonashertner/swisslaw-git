@@ -4,11 +4,11 @@ title: "Ordinanza del 4 dicembre 2015 sulla prevenzione e lo smaltimento dei rif
 short: OPSR
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: it
-version: 2023-01-01
+version: 2023-09-26
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2015-891-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20230926/it/xml/fedlex-data-admin-ch-eli-cc-2015-891-20230926-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20230926/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20230101/it"
 
 (Ordinanza sui rifiuti, OPSR)
 
-del 4 dicembre 2015 (Stato 1° gennaio 2023)
+del 4 dicembre 2015 (Stato 26 settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -974,11 +974,13 @@ Allegato 1[^t-1]
 [^annex1-lvlu1-2]: Materiale di scavo e di sgombero che soddisfa i requisiti di cui all’all. 3 n. 1.
 [^annex1-lvlu1-3]: Materiale di scavo e di sgombero che soddisfa i requisiti di cui all’all. 3 n. 2.
 
-Allegato 2
+Allegato 2[^t-2]
 
 (art. 6 cpv. 3, 36 cpv. 1, 42 cpv. 2 e 43 cpv. 2)
 
 ## Requisiti applicabili all’ubicazione di discariche e alle relative opere di costruzione
+
+[^t-2]: Aggiornato dalla correzione del 26 set. 2023 ([RU 2023 543](https://fedlex.data.admin.ch/eli/oc/2023/543)).
 
 ### 1 Ubicazione di discariche
 
@@ -1059,7 +1061,7 @@ Allegato 2
 
   Le discariche e i compartimenti di tipo C, D ed E devono essere muniti di dispositivi per il drenaggio costituiti dai seguenti elementi:
 
-  - a. sul fondo e sui fianchi, uno strato di drenaggio di buona permeabilità realizzato con materiale conforme ai requisiti di cui all’allegato 5 numero 2;
+  - a. sul fondo e sui fianchi, uno strato di drenaggio di buona permeabilità realizzato con materiale conforme ai requisiti di cui all’allegato 5 numero 2.3;
   - b. all’interno dello strato di drenaggio, condotte di drenaggio destinate a raccogliere ed evacuare l’acqua d’infiltrazione;
   - c. se dal sottosuolo o dai lati della discarica esiste il rischio di infiltrazioni di acqua, impianti idonei collocati sotto l’impermeabilizzazione.
 
@@ -1084,13 +1086,13 @@ Allegato 2
 - 2\.5.2 Nel terzo superiore delle misure di impermeabilizzazione e nello strato di drenaggio può essere utilizzato soltanto materiale conforme ai requisiti di cui all’allegato 3 numero 1. Per gli strati inferiori delle misure di impermeabilizzazione può essere utilizzato materiale che soddisfi almeno i requisiti per il deposito nel tipo di discarica predisposto e che, in un’ottica di tecnica costruttiva, sia idoneo alla misura prevista.
 - 2\.5.3 Qualora vengano adottate misure per prevenire possibili effetti dannosi o molesti delle discariche sull’ambiente, la chiusura definitiva della superficie dev’essere effettuata soltanto dopo l’attuazione di queste misure, se ciò è necessario per garantire la stabilità della chiusura della superficie. Fino ad allora, mediante misure idonee, occorre impedire qualsiasi erosione.
 
-Allegato 3[^t-2]
+Allegato 3[^t-3]
 
 (art. 17 cpv. 1 e 19)
 
 ## Requisiti applicabili al materiale di scavo e di sgombero
 
-[^t-2]: Aggiornato dal n. II dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^t-3]: Aggiornato dal n. II dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 
 - 1
 
@@ -1160,13 +1162,13 @@ Allegato 3[^t-2]
 
 - 3 Se il materiale di scavo e di sgombero contiene sostanze per le quali non sono stati fissati valori limite, l’autorità valuta i rifiuti caso per caso conformemente alle prescrizioni della legislazione sulla protezione dell’ambiente e delle acque, con l’approvazione dell’UFAM.
 
-Allegato 4[^t-3]
+Allegato 4[^t-4]
 
 (art. 19 cpv. 3 e 24)
 
 ## Requisiti applicabili ai rifiuti impiegati per la fabbricazione di cemento e calcestruzzo
 
-[^t-3]: Aggiornato dal n. II dell’O del 12 feb. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)) e dal n. III dell’O del 20 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
+[^t-4]: Aggiornato dal n. II dell’O del 12 feb. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)) e dal n. III dell’O del 20 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
 ### 1 Utilizzo dei rifiuti come materia prima e come sostanza di correzione della farina cruda
 
@@ -1334,13 +1336,13 @@ Allegato 4[^t-3]
 - 4\.1 I detentori di impianti per la fabbricazione di clinker di cemento, cemento o calcestruzzo devono provare che sono soddisfatti i requisiti di cui ai numeri 1–3. In tale contesto, previa approvazione dell’autorità, possono limitare le analisi chimiche alle sostanze per le quali non è esclusa una contaminazione a causa del tipo e della provenienza dei rifiuti.
 - 4\.2 Se i rifiuti contengono sostanze pericolose per l’ambiente per le quali i numeri 1–3 non contemplano valori limite, previa approvazione dell’UFAM l’autorità li stabilisce per il singolo caso conformemente alle prescrizioni della legislazione sulla protezione dell’ambiente e delle acque.
 
-Allegato 5[^t-4]
+Allegato 5[^t-5]
 
 (art. 19 cpv. 3, 25 cpv. 1, 39 cpv. 2 e 40 cpv. 3)
 
 ## Requisiti applicabili ai rifiuti in vista del deposito definitivo
 
-[^t-4]: Aggiornato dalla correzione del 19 lug. 2016 ([RU 2016 2629](https://fedlex.data.admin.ch/eli/oc/2016/417)), dai n. II delle O del 21 set. 2018 ([RU 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)) e del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^t-5]: Aggiornato dalla correzione del 19 lug. 2016 ([RU 2016 2629](https://fedlex.data.admin.ch/eli/oc/2016/417)), dai n. II delle O del 21 set. 2018 ([RU 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)) e del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 
 ### 1 Rifiuti depositabili in discariche e compartimenti di tipo A
 
@@ -1638,13 +1640,13 @@ Gli atti normativi qui appresso sono modificati come segue:
 
 [^annex6-lvlu1-1]: Le mod. possono essere consultate alla [RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891).
 
-Allegato 7[^t-5]
+Allegato 7[^t-6]
 
 (art. 14*a*)
 
 ## Requisiti dei rifiuti di legno destinati al riciclaggio e alla valorizzazione termica
 
-[^t-5]: Introdotto dal n. II dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 778](https://fedlex.data.admin.ch/eli/oc/2022/778)).
+[^t-6]: Introdotto dal n. II dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 778](https://fedlex.data.admin.ch/eli/oc/2022/778)).
 
 ### 1 Riciclaggio dei rifiuti di legno
 
