@@ -4,11 +4,11 @@ title: "Loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieill
 short: LPP
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/797_797_797"
 language: fr
-version: 2023-09-01
+version: 2023-09-26
 adopted: 1982-06-25
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20230901-fr-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20230926/fr/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20230926-fr-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20230926/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20230901/fr"
 
 (LPP)
 
-du 25 juin 1982 (État le 1<sup>er</sup> septembre 2023)
+du 25 juin 1982 (État le 26 septembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -47,7 +47,7 @@ arrête:
 
 **Assurance obligatoire des salariés et des chômeurs**[^2-1]
 
-<sup>1</sup> Sont soumis à l’assurance obligatoire les salariés qui ont plus de 17 ans et reçoivent d’un même employeur un salaire annuel supérieur à à 22 050 francs[^2-2] (art. 7).
+<sup>1</sup> Sont soumis à l’assurance obligatoire les salariés qui ont plus de 17 ans et reçoivent d’un même employeur un salaire annuel supérieur à 22 050 francs[^2-2] (art. 7).
 
 <sup>2</sup> Si le salarié est occupé par un employeur pendant moins d’une année, est considéré comme salaire annuel celui qu’il obtiendrait s’il était occupé toute l’année.
 
@@ -119,7 +119,7 @@ La deuxième partie de la présente loi fixe des exigences minimales.
 
 **Salaire coordonné**
 
-<sup>1</sup> La partie du salaire annuel comprise 25 725 et 88 200 francs[^8-1] doit être assurée. Cette partie du salaire est appelée «salaire coordonné».[^8-2]
+<sup>1</sup> La partie du salaire annuel comprise entre 25 725 et 88 200 francs[^8-1] doit être assurée. Cette partie du salaire est appelée «salaire coordonné».[^8-2]
 
 <sup>2</sup> Si le salaire coordonné n’atteint pas 3675 francs[^8-3] par an, il est arrondi à ce montant.[^8-4]
 
@@ -452,7 +452,7 @@ L’avoir de vieillesse déterminant pour le calcul comprend:
 <sup>4</sup> Pour un taux d’invalidité au sens de l’AI inférieur à 50 %, la quotité de la rente est la suivante:
 
 <table>
-<tr><th>Taux d’invalidité</th><th>Quotité de la rente</th></tr>
+<tr><td>Taux d’invalidité</td><td>Quotité de la rente</td></tr>
 <tr><td>49 %</td><td>47,5 %</td></tr>
 <tr><td>48 %</td><td>45 %</td></tr>
 <tr><td>47 %</td><td>42,5 %</td></tr>
@@ -1690,7 +1690,7 @@ Elle est tenue:
 
 <sup>3</sup> L’AFF et l’institution supplétive conviennent des modalités dans un contrat de droit public.
 
-[^60b-1]: Introduit par le ch. I de la LF du 25 sept. 2020, en vigueur du 26 sept. 2020 au 25 sept. 2023 ([RO 2020 3845](https://fedlex.data.admin.ch/eli/oc/2020/712); [FF 2020 6135](https://fedlex.data.admin.ch/eli/fga/2020/1553)).
+[^60b-1]: Introduit par le ch. I de la LF du 25 sept. 2020 ([RO 2020 3845](https://fedlex.data.admin.ch/eli/oc/2020/712); [FF 2020 6135](https://fedlex.data.admin.ch/eli/fga/2020/1553)). Nouvelle teneur selon le ch. I de la LF du 16 juin 2023, en vigueur du 26 sept. 2023 au 25 sept. 2027 ([RO 2023 323](https://fedlex.data.admin.ch/eli/oc/2023/323); [FF 2023 391](https://fedlex.data.admin.ch/eli/fga/2023/391)).
 
 ### Titre 4 Surveillance et haute surveillance
 

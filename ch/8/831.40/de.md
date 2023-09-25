@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 25. Juni 1982 über die berufliche Alters-, Hinterlasse
 short: BVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/797_797_797"
 language: de
-version: 2023-09-01
+version: 2023-09-26
 adopted: 1982-06-25
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20230901-de-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20230926/de/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20230926-de-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20230926/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20230901/de"
 
 (BVG)
 
-vom 25. Juni 1982 (Stand am 1. September 2023)
+vom 25. Juni 1982 (Stand am 26. September 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -880,7 +880,7 @@ Die Vorsorgeeinrichtung muss der Fachstelle den Eintritt der Fälligkeit folgend
 
 - a. Auszahlung der Leistung als einmalige Kapitalabfindung in der Höhe von mindestens 1000 Franken;
 - b. Barauszahlung nach Artikel 5 FZG[^40-3] in der Höhe von mindestens 1000 Franken;
-- c. Vorbezug zur Wohneigentumsförderung nach Artikel 30*c* des vorliegenden Gesetzes und nach Artikel 331*e* OR[^40-4].
+- c. Vorbezug zur Wohneigentumsförderung nach Artikel 30c des vorliegenden Gesetzes und nach Artikel 331e OR[^40-4].
 
 <sup>4</sup> Sie muss der Fachstelle auch die Verpfändung von Vorsorgeguthaben dieser Versicherten nach Artikel 30*b* sowie die Pfandverwertung dieses Guthabens melden.
 
@@ -1690,7 +1690,7 @@ Sie ist verpflichtet:
 
 <sup>3</sup> Die EFV und die Auffangeinrichtung vereinbaren die Einzelheiten in einem öffentlich-rechtlichen Vertrag.
 
-[^60b-1]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2020, in Kraft vom 26. Sept. 2020 bis zum 25. Sept. 2023 ([AS 2020 3845](https://fedlex.data.admin.ch/eli/oc/2020/712); [BBl 2020 6343](https://fedlex.data.admin.ch/eli/fga/2020/1553)).
+[^60b-1]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2020 ([AS 2020 3845](https://fedlex.data.admin.ch/eli/oc/2020/712); [BBl 2020 6343](https://fedlex.data.admin.ch/eli/fga/2020/1553)). Fassung gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft vom 26. Sept. 2023 bis zum 25. Sept. 2027 ([AS 2023 323](https://fedlex.data.admin.ch/eli/oc/2023/323); [BBl 2023 391](https://fedlex.data.admin.ch/eli/fga/2023/391)).
 
 ### Vierter Titel: Aufsicht und Oberaufsicht
 

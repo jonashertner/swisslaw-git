@@ -4,11 +4,11 @@ title: "Lescha federala dals 25 da zercladur 1982 davart il provediment professi
 short: LPP
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/797_797_797"
 language: rm
-version: 2023-09-01
+version: 2023-09-26
 adopted: 1982-06-25
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20230901-rm-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20230901/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20230926/rm/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20230926-rm-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20230926/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LPP)
 
-dals 25 da zercladur 1982 (versiun dals 1. da settember 2023)
+dals 25 da zercladur 1982 (versiun dals 26 da settember 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -1692,7 +1692,7 @@ Ella è obligada:
 
 <sup>3</sup> La AFF e l’instituziun auxiliara fixeschan ils detagls en in contract da dretg public.
 
-[^60b-1]: Integrà tras la cifra I da la LF dals 25 da sett. 2020, en vigur dals 26 da sett. 2020 fin ils 25 da sett. 2023 ([AS 2020 3845](https://fedlex.data.admin.ch/eli/oc/2020/712); [BBl 2020 6343](https://fedlex.data.admin.ch/eli/fga/2020/1553)).
+[^60b-1]: Integrà tras la cifra I da la LF dals 25 da sett. 2020 ([AS 2020 3845](https://fedlex.data.admin.ch/eli/oc/2020/712); [BBl 2020 6343](https://fedlex.data.admin.ch/eli/fga/2020/1553)). Versiun tenor la cifra I da la LF dals 16 da zer. 2023, en vigur dals 26 da sett. 2023 fin ils 25 da sett. 2027 ([AS 2023 323](https://fedlex.data.admin.ch/eli/oc/2023/323); [BBl 2023 391](https://fedlex.data.admin.ch/eli/fga/2023/391)).
 
 ### 4. titel Surveglianza e surveglianza suprema
 
