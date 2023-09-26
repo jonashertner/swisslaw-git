@@ -3,18 +3,18 @@ sr: "916.443.107"
 title: "Verordnung des BLV vom 6. August 2021 über Massnahmen gegen die Verschleppung der Afrikanischen Schweinepest im Verkehr mit den Mitgliedstaaten der Europäischen Union, Island und Norwegen"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/474"
 language: de
-version: 2023-08-25
+version: 2023-09-27
 adopted: 2021-08-06
 in_force: 2021-08-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/474/20230825/de/xml/fedlex-data-admin-ch-eli-cc-2021-474-20230825-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/474/20230825/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/474/20230927/de/xml/fedlex-data-admin-ch-eli-cc-2021-474-20230927-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/474/20230927/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über Massnahmen gegen die Verschleppung der Afrikanischen Schweinepest im Verkehr mit den Mitgliedstaaten der Europäischen Union, Island und Norwegen
 
-vom 6. August 2021 (Stand am 25. August 2023)
+vom 6. August 2021 (Stand am 27. September 2023)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -64,8 +64,8 @@ Die Einfuhr von lebenden Tieren und Tierprodukten nach Artikel 1 Absatz 2 aus de
 
 <sup>2</sup> Die Einfuhr von lebenden Wildschweinen aus dem gesamten Hoheitsgebiet von Mitgliedstaaten der EU, Island und Norwegen ist verboten.
 
-[^2-1]: Fassung gemäss Ziff. I der V des BLV vom 23. Aug. 2023, in Kraft seit 25. Aug. 2023 ([AS 2023 467](https://fedlex.data.admin.ch/eli/oc/2023/467)).
-[^2-2]: Durchführungsverordnung (EU) 2023/594 der Kommission vom 16. März 2023 mit besonderen Seuchenbekämpfungsmassnahmen in Bezug auf die Afrikanische Schweinepest und zur Aufhebung der Durchführungsverordnung (EU) 2021/605, ABl. L 79 vom 17.3.2023, S. 65; zuletzt geändert durch Durchführungsverordnung (EU) 2023/1590, ABl. L 195 vom 3.8.2023, S. 4.
+[^2-1]: Fassung gemäss Ziff. I der V des BLV vom 22. Sept. 2023, in Kraft seit 27. Sept. 2023 ([AS 2023 545](https://fedlex.data.admin.ch/eli/oc/2023/545)).
+[^2-2]: Durchführungsverordnung (EU) 2023/594 der Kommission vom 16. März 2023 mit besonderen Seuchenbekämpfungsmassnahmen in Bezug auf die Afrikanische Schweinepest und zur Aufhebung der Durchführungsverordnung (EU) 2021/605, ABl. L 79 vom 17.3.2023, S. 65; zuletzt geändert durch Durchführungsverordnung (EU) 2023/1677, ABl. L 216 vom 1.9.2023, S. 39.
 [^2-3]: Delegierte Verordnung (EU) 2020/687 der Kommission vom 17. Dezember 2019 zur Ergänzung der Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates hinsichtlich Vorschriften für die Prävention und Bekämpfung bestimmter gelisteter Seuchen, ABl. L 174 vom 3.6.2020, S. 64; geändert durch Delegierte Verordnung (EU) 2021/1140, ABl. L 247 vom 13.7.2021, S. 50.
 
 #### Art. 3
@@ -137,7 +137,7 @@ Anhang[^t-1]
 
 ## Betroffene Mitgliedstaaten und Gebiete
 
-[^t-1]: Fassung gemäss Ziff. II der V des BLV vom 23. Aug. 2023, in Kraft seit 25. Aug 2023 ([AS 2023 467](https://fedlex.data.admin.ch/eli/oc/2023/467)).
+[^t-1]: Fassung gemäss Ziff. II der V des BLV vom 23. Aug. 2023 ([AS 2023 467](https://fedlex.data.admin.ch/eli/oc/2023/467)). Bereinigt gemäss Ziff. II der V des BLV vom 22. Sept. 2023, in Kraft seit 27. Sept. 2023 ([AS 2023 545](https://fedlex.data.admin.ch/eli/oc/2023/545)).
 
 ### 1 Sperrzonen und infizierte Zonen nach der Durchführungsverordnung (EU) 2023/594
 
@@ -253,10 +253,20 @@ Kroatien
 
 ### 2.1 Infizierte Zonen
 
-Es gibt keine Mitgliedstaaten der EU mit infizierten Zonen nach der Delegierten Verordnung (EU) 2020/687[^annexu1-lvlu1-lvl2-lvl21-1], die ausserhalb der unter Ziffer 1 genannten Gebiete liegen.
+Die Mitgliedstaaten der EU mit infizierten Zonen nach der Delegierten Verordnung (EU) 2020/687[^annexu1-lvlu1-lvl2-lvl21-1], die ausserhalb der unter Ziffer 1 genannten Gebiete liegen, sind im folgenden Durchführungsbeschluss festgelegt:
+
+<table>
+<tr><th>EU-Grunderlass</th><th>Titel und Publikationsdatum des Grunderlasses sowie Änderungserlasse mit Publikationsdaten</th></tr>
+<tr><td>Durchführungsbeschluss (EU) 2023/1778</td><td>Durchführungsbeschluss (EU) 2023/1778 der Kommission vom 12. September 2023 betreffend bestimmte vorläufige Sofortmassnahmen in Bezug auf die Afrikanische Schweinepest in Schweden; Fassung gemäss ABl. L 228 vom 15.9.2023, S. 251</td></tr>
+</table>
 
 [^annexu1-lvlu1-lvl2-lvl21-1]: Siehe Fussnote zu Art. 2 Abs. 1 Bst. b.
 
 ### 2.2 Sperrzonen
 
-Es gibt keine Mitgliedstaaten der EU mit Sperrzonen nach der Delegierten Verordnung (EU) 2020/687, die ausserhalb der unter Ziffer 1 genannten Gebiete liegen.
+Die Mitgliedstaaten der EU mit Sperrzonen nach der Delegierten Verordnung (EU) 2020/687, die ausserhalb der unter Ziffer 1 genannten Gebiete liegen, sind im folgenden Durchführungsbeschluss festgelegt:
+
+<table>
+<tr><th>EU-Grunderlass</th><th>Titel und Publikationsdatum des Grunderlasses sowie Änderungserlasse mit Publikationsdaten</th></tr>
+<tr><td>Durchführungsbeschluss (EU) 2023/1684</td><td>Durchführungsbeschluss (EU) 2023/1684 der Kommission vom 31. August 2023 betreffend bestimmte vorläufige Sofortmassnahmen in Bezug auf die Afrikanische Schweinepest in Italien; Fassung gemäss ABl. L 217 vom 4.9.2023, S. 123</td></tr>
+</table>
