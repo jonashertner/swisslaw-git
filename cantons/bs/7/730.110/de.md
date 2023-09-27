@@ -4,13 +4,13 @@ number: "730.110"
 title: Bau- und Planungsverordnung
 short: BPV
 language: de
-version: 2021-06-17
-valid_until: 2023-09-27
-version_adopted: 2021-06-08
+version: 2023-09-28
+valid_until: 2025-10-31
+version_adopted: 2023-09-19
 adopted: 2000-12-19
 in_force: 2001-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/730.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5271/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6571/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Bau- und Planungsverordnung | Hochbauten
 
 (BPV)
 
-Vom 19. Dezember 2000 (Stand 17. Juni 2021)
+Vom 19. Dezember 2000 (Stand 28. September 2023)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -39,9 +39,11 @@ beschliesst:
 
 #### § 1
 
-<sup>1</sup> Für die Beurteilung der Baureife von Grundstücken ist das Hochbau- und Planungsamt zuständig.
+<sup>1</sup> Für die Beurteilung der Baureife von Grundstücken ist das Hochbau- und Planungsamt[^1-1] zuständig.
 
 <sup>2</sup> Seine Entscheide im Baubewilligungsverfahren sind für die Bewilligungsbehörde verbindlich.
+
+[^1-1]: umbenannt von Hochbau- und Planungsamt in Abteilung Städtebau und Architektur
 
 ### 2. Bodenordnungskommission
 
@@ -49,35 +51,41 @@ beschliesst:
 
 #### § 2
 
-<sup>1</sup> Zur Prüfung der planungsrechtlichen Baureife wird dem Hochbau- und Planungsamt eine Bodenordnungskommission beigeordnet.
+<sup>1</sup> Zur Prüfung der planungsrechtlichen Baureife wird dem Hochbau- und Planungsamt[^2-1] eine Bodenordnungskommission beigeordnet.
 
 <sup>2</sup> Die Kommission bezeichnet die Grundstücke, deren Lage, Form oder Grösse für die zulässige bauliche Nutzung nicht zweckmässig ist, und Grundstücke, deren Grenzen für die zulässige Nutzung des umliegenden Gebietes allenfalls verändert werden müssen.
 
 <sup>3</sup> Sie unterrichtet und berät die Eigentümerinnen oder Eigentümer dieser Grundstücke.
 
-<sup>4</sup> Sie prüft Bauvorhaben auf diesen Grundstücken auf ihre Baureife. Das Hochbau- und Planungsamt, das Bauinspektorat[^2-1], das Grundbuch- und Vermessungsamt und der zuständige Gemeinderat können ihr weitere Baubegehren zur Prüfung überweisen.
+<sup>4</sup> Sie prüft Bauvorhaben auf diesen Grundstücken auf ihre Baureife. Das Hochbau- und Planungsamt[^2-2], das Bauinspektorat[^2-3], das Grundbuch- und Vermessungsamt und der zuständige Gemeinderat können ihr weitere Baubegehren zur Prüfung überweisen.
 
-[^2-1]: § 2 Abs. 4: Jetzt: Bau- und Gastgewerbeinspektorat.
+[^2-1]: umbenannt von Hochbau- und Planungsamt in Abteilung Städtebau und Architektur
+[^2-2]: umbenannt von Hochbau- und Planungsamt in Abteilung Städtebau und Architektur
+[^2-3]: § 2 Abs. 4: Umbenennung in Bau- und Gastgewerbeinspektorat.
 
 ### b) Organisation
 
 #### § 3
 
-<sup>1</sup> Die Kommission besteht aus je einem Vertreter oder einer Vertreterin des Hochbau- und Planungsamtes, des Bauinspektorates[^3-1], des Grundbuch- und Vermessungsamtes und einer nicht der Verwaltung angehörenden, vom Hochbau- und Planungsamt im Einvernehmen mit den beteiligten Ämtern zu bestimmenden Fachperson.
+<sup>1</sup> Die Kommission besteht aus je einem Vertreter oder einer Vertreterin des Hochbau- und Planungsamtes[^3-1], des Bauinspektorates[^3-2], des Grundbuch- und Vermessungsamtes und einer nicht der Verwaltung angehörenden, vom Hochbau- und Planungsamt im Einvernehmen mit den beteiligten Ämtern zu bestimmenden Fachperson.
 
 <sup>2</sup> Wenn Grundstücke oder Bauvorhaben in Riehen und Bettingen zu beurteilen sind, wird sie durch eine Delegierte oder einen Delegierten dieser Gemeinden ergänzt.
 
-<sup>3</sup> Die Kommission wird vom Hochbau- und Planungsamt von Amts wegen oder auf Begehren eines beteiligten Amtes oder einer Gemeinde einberufen.
+<sup>3</sup> Die Kommission wird vom Hochbau- und Planungsamt[^3-3] von Amts wegen oder auf Begehren eines beteiligten Amtes oder einer Gemeinde einberufen.
 
-[^3-1]: § 3 Abs. 1: Jetzt: Bau- und Gastgewerbeinspektorat.
+[^3-1]: umbenannt von Hochbau- und Planungsamt in Abteilung Städtebau und Architektur
+[^3-2]: § 3 Abs. 1: Jetzt: Bau- und Gastgewerbeinspektorat.
+[^3-3]: umbenannt von Hochbau- und Planungsamt in Abteilung Städtebau und Architektur
 
 ### c) Wirkungen der Entscheide
 
 #### § 4
 
-<sup>1</sup> Entscheide der Kommission im Baubewilligungsverfahren sind für das Hochbau- und Planungsamt verbindlich.
+<sup>1</sup> Entscheide der Kommission im Baubewilligungsverfahren sind für das Hochbau- und Planungsamt[^4-1] verbindlich.
 
 <sup>2</sup> Befunde, Bescheide und Auskünfte der Kommission ausserhalb des Baubewilligungsverfahrens begründen keine Rechte und Pflichten und können nicht angefochten werden.
+
+[^4-1]: umbenannt von Hochbau- und Planungsamt in Abteilung Städtebau und Architektur
 
 ### 2. Kapitel: Bebauung
 
@@ -87,7 +95,9 @@ beschliesst:
 
 <sup>1</sup> Gesuche um Bewilligung von Nutzungsverlagerungen sind im Baubegehren zu stellen und schriftlich zu begründen.
 
-<sup>2</sup> Für die Beurteilung ist das Hochbau- und Planungsamt zuständig. Seine Entscheide sind für die Bewilligungsbehörde verbindlich.
+<sup>2</sup> Für die Beurteilung ist das Hochbau- und Planungsamt[^5-1] zuständig. Seine Entscheide sind für die Bewilligungsbehörde verbindlich.
+
+[^5-1]: umbenannt von Hochbau- und Planungsamt in Abteilung Städtebau und Architektur
 
 ### II. Vorragende Bauteile (§ 17 BPG)
 
@@ -915,82 +925,96 @@ beschliesst:
 
 ### (2.A.)I. Der kantonale Richtplan
 
-### (2.A.I.)1. Die Grundlagen des Richtplanes
+### (2.A.I.)1.
 
 #### § 70
 
-<sup>1</sup> Der kantonale Richtplan wird aus den Teilplänen Landschaft, Siedlung, Verkehr, Versorgung und Entsorgung sowie öffentliche Bauten und Anlagen zusammengestellt.
+**Zweck, Form und Inhalt des kantonalen Richtplans**
 
-<sup>2</sup> Die Teilpläne werden vom Hochbau- und Planungsamt in Zusammenarbeit mit den Gemeinden und den fachlich zuständigen Behörden erarbeitet.
+<sup>1</sup> Der kantonale Richtplan zeigt auf, wie sich der Kanton räumlich entwickeln soll und wie die raumwirksamen Tätigkeiten aufeinander abgestimmt werden.
 
-<sup>3</sup> Die Zusammenstellung der Unterlagen besorgen in Zusammenarbeit mit den Gemeinden und den übrigen beteiligten Ämtern:
+<sup>2</sup> Der kantonale Richtplan setzt sich zusammen aus einer kantonalen Raumentwicklungsstrategie sowie Aussagen insbesondere zu folgenden Sachgebieten:
 
-- a) für die Teilpläne Landschaft und Siedlung: das Hochbau- und Planungsamt;
-- b) für die Teilpläne Landschaft und Siedlung: das Hochbau- und Planungsamt;
-- c) für den Teilplan Versorgung und Entsorgung: die Industriellen Werke Basel (Energie- und Wasserversorgung) und das Amt für Umwelt und Energie (Abwasser- und Abfallbeseitigung);
-- d) für den Teilplan öffentliche Bauten und Anlagen: die Immobilien Basel-Stadt des Finanzdepartements.
+- a) Siedlung;
+- b) Natur und Landschaft;
+- c) Agglomeration;
+- d) Mobilität;
+- e) Ver- und Entsorgung.
+
+<sup>3</sup> Die Planungen des Bundes, der Gemeinden, der benachbarten Kantone und Länder sind zu berücksichtigen.
+
+- a) …
+- b) …
+- c) …
+- d) …
 
 ### (2.A.I.)2. Teilpläne
 
 #### § 71
 
-<sup>1</sup> Die beteiligten Behörden wirken gemeinsam darauf hin, dass die Teilpläne vollständig, aktuell und klar sind und dass sie in sich und untereinander keine Widersprüche enthalten. Auf verbleibende Differenzen ist im Entwurf des Richtplanes und im Erläuterungsbericht hinzuweisen.
+**Zuständigkeiten**
 
-<sup>2</sup> Zu den Kommissionssitzungen eingeladen werden ferner die für die jeweils behandelten Planteile verantwortlichen Behörden, Ämter und öffentlichen Anstalten, die in der Kommission nicht vertreten sind.
+<sup>1</sup> Für die Erarbeitung der Inhalte ist die Dienststelle Städtebau & Architektur zuständig. Einbezogen werden die mit raumwirksamen Aufgaben betrauten kantonalen Ämter, Fachstellen und Betriebe sowie die Gemeindebehörden.
 
-<sup>3</sup> Die Kommission kann Interessenvertreterinnen und Interessenvertreter sowie Sachverständige beiziehen.
+<sup>2</sup> Eine Richtplankommission prüft die Richtplaninhalte. Sie wirkt darauf hin, dass diese vollständig, aktuell und klar sind und dass sie in sich und untereinander keine Widersprüche enthalten. Auf verbleibende räumliche Zielkonflikte ist im kantonalen Richtplan und im Erläuterungsbericht hinzuweisen. Sie berichtet dem Regierungsrat über den wesentlichen Inhalt der Änderungen und über die wichtigsten Ergebnisse des öffentlichen Mitwirkungsverfahrens.
 
-### (2.A.I.)3. Die Ausarbeitung des Richtplans
+<sup>3</sup> Die Richtplankommission setzt sich zusammen aus der Leiterin oder dem Leiter der Dienststelle Städtebau & Architektur (Vorsitz), den Vertretungen der Departemente sowie der Gemeinden Bettingen und Riehen.
 
-### (2.A.I.3.)a) Planbereinigung
+<sup>4</sup> Die Richtplankommission kann einen Ausschuss zur Vorbereitung ihrer Arbeiten einsetzen. Er wird geleitet von der Kantonsplanerin oder dem Kantonsplaner.
+
+<sup>5</sup> Bei Bedarf können die Richtplankommission oder sein Ausschuss Vertretende von Interessengruppen anhören sowie Sachverständige beiziehen.
+
+### (2.A.I.)3.
+
+### (2.A.I.3.)a)
 
 #### § 72
 
-<sup>1</sup> Eine Planungskommission besorgt die Planbereinigung. Sie besteht aus der Leiterin oder dem Leiter der Hauptabteilung Planung des Hochbau- und Planungsamtes (Vorsitz), den übrigen Mitgliedern des vorbereitenden Ausschusses, je einer Vertreterin oder einem Vertreter der für die Zusammenstellung der Unterlagen zuständigen Stellen und je einer Vertreterin oder einem Vertreter der Gemeinden Bettingen und Riehen und Departemente.
+**Begehren um Anpassung**
 
-### (2.A.I.3.)b) Vorbereitung der Planbereinigung
+<sup>1</sup> Die mit raumwirksamen Aufgaben betrauten kantonalen Ämter, Fachstellen und Betriebe sowie die Gemeindebehörden, das für die Raumplanung zuständige eidgenössische Departement und die benachbarten Kantone und Länder können Anpassungen des kantonalen Richtplans beantragen.
+
+### (2.A.I.3.)b)
 
 #### § 73
 
-<sup>1</sup> Die Arbeiten der Planungskommission werden von einem Planungsausschuss vorbereitet, der sich aus der Leiterin oder dem Leiter der Hauptabteilung Planung des Hochbau- und Planungsamtes (Vorsitz), der oder dem Informationsbeauftragten des Regierungsrates[^73-1], der Leiterin oder dem Leiter der Rechtsabteilung des Bau- und Verkehrsdepartements, der Leiterin oder dem Leiter des Amtes für Mobilität des Bau- und Verkehrsdepartements, der Generalsekretärin und Leiterin Stab WSU oder dem Generalsekretär und Leiter Stab WSU, der baselstädtischen Vertreterin oder dem baselstädtischen Vertreter in der Regionalplanungsstelle beider Basel und der Leiterin oder dem Leiter der Abteilung Kantons- und Stadtentwicklung des Präsidialdepartements zusammensetzt.
+**…**
 
-<sup>2</sup> Der Planungsausschuss sorgt dafür, dass die Planungen der benachbarten Kantone und Länder berücksichtigt werden, und bearbeitet Vorschläge für die Planbereinigung.
-
-<sup>3</sup> Er holt den Entscheid des Regierungsrates ein, wenn über einen zum notwendigen Inhalt des Richtplanes gehörenden Gegenstand kein Beschluss der Planungskommission zustande kommt oder wenn es ein betroffener Träger raumwirksamer Aufgaben verlangt.
-
-[^73-1]: § 73 Abs. 1: Gemäss RRB vom 4. 12. 2012 lautet die Bezeichnung neu "Regierungssprecherin oder Regierungssprecher".
-
-### (2.A.I.)4. Information und Mitwirkung der Bevölkerung
+### (2.A.I.)4.
 
 #### § 74
 
-<sup>1</sup> Das Bau- und Verkehrsdepartement orientiert die Bevölkerung über die Ziele und über den zeitlichen und organisatorischen Ablauf der vorgesehenen Planungen.
+**Information und Mitwirkung der Bevölkerung**
 
-<sup>2</sup> Gleichzeitig veranlasst das Hochbau- und Planungsamt, dass jedermann zu den vorgesehenen Teilplanungen und zum Richtplan Anregungen unterbreiten kann. Diese sind von den jeweils zuständigen Stellen zu prüfen. Zu Eingaben, die Belange der Richtplanung unmittelbar berühren, wird in einem Bericht Stellung genommen, der beim Hochbau- und Planungsamt eingesehen werden kann.
+<sup>1</sup> Der kantonale Richtplan wird jeweils in seiner aktuellen Fassung veröffentlicht.
 
-### (2.A.I.)5. Beschluss und Genehmigung
+<sup>2</sup> Bei Änderungen des kantonalen Richtplans orientiert das Bau- und Verkehrsdepartement im Namen des Regierungsrats die Bevölkerung über die Ziele und Inhalte der vorgesehenen Planungen und sorgt dafür, dass zu den vorgesehenen Inhalten schriftliche Anregungen unterbreitet werden können.
+
+<sup>3</sup> Zu den Anregungen wird in einem Bericht Stellung genommen, der veröffentlicht wird.
+
+#### § 74a
+
+**Überprüfung und Berichterstattung**
+
+<sup>1</sup> Die Dienststelle Städtebau & Architektur führt die Überprüfung des kantonalen Richtplans gemäss Art. 9 Abs. 1 RPV durch. Sie berichtet hierüber der Richtplankommission zuhanden des Regierungsrates und unterbreitet bei Bedarf einen Vorschlag zur Anpassung des Richtplans.
+
+### (2.A.I.)5.
 
 #### § 75
 
-<sup>1</sup> Die Planungskommission berichtet dem Regierungsrat über den wesentlichen Inhalt des Richtplanes und über die wichtigen Ergebnisse des Planbereinigungsverfahrens.
+**…**
 
-<sup>2</sup> Der Regierungsrat beschliesst den Richtplan.
-
-<sup>3</sup> Die Staatskanzlei holt die Genehmigung des Bundesrates ein.
-
-### (2.A.I.)6. Anpassung
+### (2.A.I.)6.
 
 #### § 76
 
-<sup>1</sup> Die mit raumwirksamen Aufgaben betrauten Behörden des Kantons und seiner Gemeinden, das für die Raumplanung zuständige eidgenössische Departement und die benachbarten Kantone und Länder können Anpassungen des Richtplanes im ordentlichen Verfahren beantragen.
+**…**
 
-### (2.A.I.)7. Öffentlichkeit
+### (2.A.I.)7.
 
 #### § 77
 
-<sup>1</sup> Der Richtplan kann beim Hochbau- und Planungsamt und bei den Gemeinden eingesehen werden.
-
-<sup>2</sup> Der Regierungsrat kann andere Arten der Bekanntmachung beschliessen.
+**…**
 
 ### (2.A.)II. Weitere Richtpläne
 
@@ -1014,9 +1038,11 @@ beschliesst:
 
 #### § 80
 
-<sup>1</sup> Vor der Planauflage unterbreiten die Gemeinden Bettingen und Riehen ihre Entwürfe von Zonen-, Linien- und Bebauungsplänen und der nach Art. 47 der Raumplanungsverordnung zu erstattenden Berichte dem Hochbau- und Planungsamt zur Vorprüfung.
+<sup>1</sup> Vor der Planauflage unterbreiten die Gemeinden Bettingen und Riehen ihre Entwürfe von Zonen-, Linien- und Bebauungsplänen und der nach Art. 47 der Raumplanungsverordnung zu erstattenden Berichte dem Hochbau- und Planungsamt[^80-1] zur Vorprüfung.
 
 <sup>2</sup> Die Vorprüfung von Planänderungen kann unterbleiben, wenn keine Interessen der Allgemeinheit oder schutzwürdige Interessen Privater, die der Änderung nicht zugestimmt haben, berührt werden.
+
+[^80-1]: umbenannt von Hochbau- und Planungsamt in Abteilung Städtebau und Architektur
 
 ### (2.B.)3. Planungszonen
 
@@ -1024,11 +1050,12 @@ beschliesst:
 
 <sup>1</sup> Über die Vereinbarkeit von Bauvorhaben mit den Vorschriften über Planungszonen entscheidet das Bauinspektorat[^80a-1] auf Antrag der planenden Behörden.
 
-<sup>2</sup> Bei Verfügungen über Grundstücke ausserhalb des Baubewilligungsverfahrens entscheidet das Hochbau- und Planungsamt und bei Planungen der Gemeinden der Gemeinderat.
+<sup>2</sup> Bei Verfügungen über Grundstücke ausserhalb des Baubewilligungsverfahrens entscheidet das Hochbau- und Planungsamt[^80a-2] und bei Planungen der Gemeinden der Gemeinderat.
 
 <sup>3</sup> Ohne Zustimmung zulässig ist die Veräusserung oder Verpfändung von Grundstücken.
 
 [^80a-1]: § 80a Abs. 1: Jetzt: Bau- und Gastgewerbeinspektorat.
+[^80a-2]: umbenannt von Hochbau- und Planungsamt in Abteilung Städtebau und Architektur
 
 ### (2.B.)4. Öffentlichkeit der Pläne
 
