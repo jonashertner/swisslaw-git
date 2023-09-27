@@ -4,13 +4,13 @@ number: "531.200"
 title: Gesetz über die Gewährleistung der öffentlichen Sicherheit
 short: "Polizeigesetz, PolG"
 language: de
-version: 2022-01-01
-valid_until: 2023-09-27
-version_adopted: 2020-12-08
+version: 2023-09-28
+valid_until: 2024-05-31
+version_adopted: 2023-09-28
 adopted: 2005-12-06
 in_force: 2007-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/531.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3142/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3349/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3142/pdf_file"
 
 (Polizeigesetz, PolG)
 
-Vom 06.12.2005 (Stand 01.01.2022)
+Vom 06.12.2005 (Stand 28.09.2023)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -605,10 +605,7 @@ beschliesst:
 
 <sup>7</sup> Die Kantonspolizei teilt den betroffenen Personen spätestens mit Abschluss der präventiven verdeckten Fahndung mit, dass nach ihnen verdeckt gefahndet worden ist.
 
-<sup>8</sup> Die Mitteilung gemäss Absatz 7 kann mit Zustimmung des Zwangsmassnahmengerichts aufgeschoben oder unterlassen werden, wenn
-
-- a) die Erkenntnisse nicht zu Beweiszwecken verwendet werden, und
-- b) der Aufschub oder die Unterlassung zum Schutz überwiegender öffentlicher oder privater Interessen notwendig ist.
+<sup>8</sup> …
 
 #### § 35d
 
@@ -682,7 +679,7 @@ beschliesst:
 
 <sup>2</sup> Der automatisierte Abgleich ist zulässig mit
 
-- a) polizeilichen Personen- und Sachfahndungsregistern,
+- a) …
 - b) Listen von Kontrollschildern von Fahrzeugen, deren Halterinnen und Halter der Führerausweis entzogen oder verweigert worden ist,
 - c) konkreten Fahndungsaufträgen der Kantonspolizei.
 
