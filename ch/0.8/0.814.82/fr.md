@@ -3,11 +3,11 @@ sr: "0.814.82"
 title: Convention de Minamata du 10 octobre 2013 sur le mercure
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/467"
 language: fr
-version: 2023-06-27
+version: 2023-09-28
 adopted: 2013-10-10
 in_force: 2017-08-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/467/20230627/fr/xml/fedlex-data-admin-ch-eli-cc-2017-467-20230627-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/467/20230627/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/467/20230928/fr/xml/fedlex-data-admin-ch-eli-cc-2017-467-20230928-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/467/20230928/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 25 mai 2016[^t-2]
 
 Entrée en vigueur pour la Suisse le 16 août 2017
 
-(État le 27 juin 2023)
+(État le 28 septembre 2023)
 
 [^t-1]: [RO 2017 3915](https://fedlex.data.admin.ch/eli/oc/2017/466)
 [^t-2]: Erratum du 5 nov. 2019 ([RO 2019 3439](https://fedlex.data.admin.ch/eli/oc/2019/626)).
@@ -826,9 +826,11 @@ L’original de la présente Convention, dont les textes anglais, arabe, chinois
 
 *En foi de quoi* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Kumamoto (Japon), le dix octobre deux mille treize. (Suivent les signatures)
 
-Annexe A
+Annexe A[^t-3]
 
 ## Produits contenant du mercure ajouté
+
+[^t-3]: Nouvelle teneur selon la D MC-4/3 de la Conférence des Parties du 25 mars 2022, en vigueur pour la Suisse depuis le 28 sept. 2023 ([RO 2023 446](https://fedlex.data.admin.ch/eli/oc/2023/446)).
 
 Les produits ci-après sont exclus de la présente annexe:
 
@@ -845,12 +847,20 @@ Les produits ci-après sont exclus de la présente annexe:
 <tr><td>Piles, à l’exception des piles boutons zinc-oxyde d’argent et zinc‑air à teneur en mercure &lt; 2 %</td><td>2020</td></tr>
 <tr><td>Commutateurs et relais, à l’exception des ponts de mesure de capacité et de perte à très haute précision et des commutateurs et relais radio haute fréquence pour instruments de surveillance et de contrôle possédant une teneur maximale en mercure de 20 mg par pont, commutateur ou relais</td><td>2020</td></tr>
 <tr><td>Lampes fluorescentes compactes d’éclairage ordinaire de puissance ≤ 30 W à teneur en mercure supérieure à 5 mg par bec de lampe</td><td>2020</td></tr>
+<tr><td>Lampes fluorescentes compactes d’éclairage ordinaire avec ballast intégré (CFL.i) de puissance ≤ 30 W à teneur en mercure inférieure à 5 mg par bec de lampe</td><td>2025</td></tr>
 <tr><td>Tubes fluorescents linéaires d’éclairage ordinaire: a) au phosphore à trois bandes de puissance &lt; 60 W à teneur en mercure supérieure à 5 mg par lampe; b) au phosphore d’halophosphate de puissance ≤ 40 W à teneur en mercure supérieure à 10 mg par lampe.</td><td>2020</td></tr>
 <tr><td>Lampes d’éclairage ordinaire à vapeur de mercure sous haute pression</td><td>2020</td></tr>
 <tr><td>Mercure contenu dans les lampes fluorescentes à cathode froide et à électrodes externes pour affichages électroniques: a) de faible longueur (≤ 500 mm) à teneur en mercure supérieure à 3,5 mg par lampe; b) de longueur moyenne (&gt; 500 mm et ≤ 1500 mm) à teneur en mercure supérieure à 5 mg par lampe; c) de grande longueur (&gt; 1500 mm) à teneur en mercure supérieure à 13 mg par lampe.</td><td>2020</td></tr>
+<tr><td>Lampes fluorescentes à cathode froide et à électrodes externes pour affichages électroniques de toutes les longueurs ne faisant partie d’aucune des catégories de la liste précédente</td><td>2025</td></tr>
 <tr><td>Cosmétiques (à teneur en mercure supérieure à 1 ppm), y compris les savons et crèmes de blanchissement de la peau, mais à l’exclusion des cosmétiques pour la zone oculaire dans lesquels le mercure est utilisé comme agent de conservation pour lequel aucun substitut efficace et sans danger n’est disponible[^annexA-lvlu1-partI-1]</td><td>2020</td></tr>
 <tr><td>Pesticides, biocides et antiseptiques locaux</td><td>2020</td></tr>
 <tr><td>Les instruments de mesure non électroniques ci-après, à l’exception de ceux incorporés dans des équipements de grande taille ou utilisés pour des mesures à haute précision, lorsqu’aucune solution de remplacement convenable sans mercure n’est disponible: a) baromètres; b) hygromètres; c) manomètres; d) thermomètres; e) sphygmomanomètres.</td><td>2020</td></tr>
+<tr><td>Jauges de contrainte pour pléthysmographes</td><td>2025</td></tr>
+<tr><td>Les instruments de mesure électriques et électroniques ci-après, à l’exception de ceux incorporés dans des équipements de grande taille ou utilisés pour des mesures à haute précision, lorsqu’aucune solution de remplacement convenable sans mercure n’est disponible: a) Transducteurs, transmetteurs et capteurs de pression de fusion</td><td>2025</td></tr>
+<tr><td>Pompes à vide au mercure</td><td>2025</td></tr>
+<tr><td>Appareils et masses d’équilibrage de roues</td><td>2025</td></tr>
+<tr><td>Pellicules et papiers photographiques</td><td>2025</td></tr>
+<tr><td>Propergols pour satellites et vaisseaux spatiaux</td><td>2025</td></tr>
 </table>
 
 [^annexA-lvlu1-partI-1]: Les cosmétiques, savons et crèmes qui contiennent du mercure sous forme de contaminant à l’état de traces ne sont pas visés.
@@ -858,8 +868,9 @@ Les produits ci-après sont exclus de la présente annexe:
 ### Deuxième partie: produits soumis au par. 3 de l’art. 4
 
 <table>
-<tr><td>Produits contenant du mercure ajouté</td><td>Dispositions</td></tr>
+<tr><th>Produits contenant du mercure ajouté</th><th>Dispositions</th></tr>
 <tr><td>Amalgames dentaires</td><td>Les mesures qu’une Partie doit prendre pour éliminer progressivement l’utilisation d’amalgames dentaires doivent tenir compte de sa situation nationale et des orientations internationales pertinentes et comprendre deux ou plusieurs des mesures suivantes: i) définir des objectifs nationaux de prévention des caries et de promotion de l’hygiène dentaire pour réduire autant que possible le besoin de restauration dentaire; ii) définir des objectifs nationaux visant à réduire autant que possible leur utilisation; iii) promouvoir l’utilisation de matériaux de restauration dentaire économiques et cliniquement efficaces qui ne contiennent pas de mercure; iv) promouvoir les activités de recherche-développement axées sur des matériaux de restauration dentaire de qualité qui ne contiennent pas de mercure; v) encourager les organisations professionnelles représentatives et les écoles de médecine dentaire à éduquer et former les professionnels du secteur dentaire et les étudiants à l’utilisation de matériaux de restauration dentaire sans mercure et à la promotion des meilleures pratiques de gestion; vi) décourager les polices d’assurance et programmes qui privilégient les amalgames plutôt que les matériaux de restauration dentaire sans mercure; vii) encourager les polices d’assurance et programmes qui favorisent l’utilisation de matériaux de restauration dentaire de qualité sans mercure; viii) restreindre l’utilisation d’amalgames dentaires à leur forme encapsulée; ix) promouvoir l’utilisation des meilleures pratiques environnementales dans les établissements de soins dentaires afin de réduire les rejets de mercure et de composés du mercure dans l’eau et le sol.</td></tr>
+<tr><td></td><td>En outre, les Parties doivent: i) proscrire ou empêcher, en prenant des mesures appropriées, l’utilisation de mercure en vrac par les praticiens dentaires; ii) proscrire ou empêcher, en prenant des mesures appropriées, ou déconseiller l’utilisation d’amalgames dentaires dans les interventions sur des dents de lait, des patients de moins de 15 ans et des femmes enceintes ou allaitantes, à moins que le praticien de l’art dentaire ne l’estime nécessaire en raison des besoins du patient.</td></tr>
 </table>
 
 Annexe B
@@ -1068,7 +1079,7 @@ En cas de désaccord au sujet de la compétence de la commission de conciliation
 
 Les frais de la commission de conciliation sont supportés par les parties au différend à parts égales, à moins qu’elles n’en conviennent autrement. La commission tient un relevé de tous ses frais et en fournit un état final aux parties.
 
-Champ d’application le 27 juin 2023[^t-3]
+Champ d’application le 27 juin 2023[^t-4]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -1220,4 +1231,4 @@ Champ d’application le 27 juin 2023[^t-3]
 <tr><td colspan="5">\* Réserves et déclarations Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-3]: [RO 2017 3917](https://fedlex.data.admin.ch/eli/oc/2017/467), [5133](https://fedlex.data.admin.ch/eli/oc/2017/559); [2018 1353](https://fedlex.data.admin.ch/eli/oc/2018/219), [3439](https://fedlex.data.admin.ch/eli/oc/2018/558); [2019 967](https://fedlex.data.admin.ch/eli/oc/2019/174), [2557](https://fedlex.data.admin.ch/eli/oc/2019/471); [2020 347](https://fedlex.data.admin.ch/eli/oc/2020/55), [1875](https://fedlex.data.admin.ch/eli/oc/2020/386), [3579](https://fedlex.data.admin.ch/eli/oc/2020/638); [2021 130](https://fedlex.data.admin.ch/eli/oc/2021/130), [540](https://fedlex.data.admin.ch/eli/oc/2021/540); [2022 589](https://fedlex.data.admin.ch/eli/oc/2022/589); [2023 342](https://fedlex.data.admin.ch/eli/oc/2023/342). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty
+[^t-4]: [RO 2017 3917](https://fedlex.data.admin.ch/eli/oc/2017/467), [5133](https://fedlex.data.admin.ch/eli/oc/2017/559); [2018 1353](https://fedlex.data.admin.ch/eli/oc/2018/219), [3439](https://fedlex.data.admin.ch/eli/oc/2018/558); [2019 967](https://fedlex.data.admin.ch/eli/oc/2019/174), [2557](https://fedlex.data.admin.ch/eli/oc/2019/471); [2020 347](https://fedlex.data.admin.ch/eli/oc/2020/55), [1875](https://fedlex.data.admin.ch/eli/oc/2020/386), [3579](https://fedlex.data.admin.ch/eli/oc/2020/638); [2021 130](https://fedlex.data.admin.ch/eli/oc/2021/130), [540](https://fedlex.data.admin.ch/eli/oc/2021/540); [2022 589](https://fedlex.data.admin.ch/eli/oc/2022/589); [2023 342](https://fedlex.data.admin.ch/eli/oc/2023/342). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](http://www.fedlex.admin.ch/fr/treaty)

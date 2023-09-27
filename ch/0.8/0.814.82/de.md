@@ -3,11 +3,11 @@ sr: "0.814.82"
 title: Übereinkommen von Minamata vom 10. Oktober 2013 über Quecksilber
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/467"
 language: de
-version: 2023-06-27
+version: 2023-09-28
 adopted: 2013-10-10
 in_force: 2017-08-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/467/20230627/de/xml/fedlex-data-admin-ch-eli-cc-2017-467-20230627-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/467/20230627/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/467/20230928/de/xml/fedlex-data-admin-ch-eli-cc-2017-467-20230928-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/467/20230928/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 25. Mai 2016[^t-2]
 
 In Kraft getreten für die Schweiz am 16. August 2017
 
-(Stand am 27. Juni 2023)
+(Stand am 28. September 2023)
 
 [^t-1]: Art. 1 Abs. 1 des BB vom 18. Dez. 2015 ([AS 2017 3915](https://fedlex.data.admin.ch/eli/oc/2017/466)).
 [^t-2]: Berichtigung vom 5. Nov. 2019 ([AS 2019 3439](https://fedlex.data.admin.ch/eli/oc/2019/626)).
@@ -826,9 +826,11 @@ Die Urschrift dieses Übereinkommens, dessen arabischer, chinesischer, spanische
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Kumamoto, Japan, am 10. Oktober 2013. (Es folgen die Unterschriften)
 
-Anlage A
+Anlage A[^t-3]
 
 ## Mit Quecksilber versetzte Produkte
+
+[^t-3]: Fassung gemäss Beschluss Nr. MC-4/3 der Vertragsparteienkonferenz vom 25. März 2022, in Kraft für die Schweiz seit 28. Sept. 2023 ([AS 2023 446](https://fedlex.data.admin.ch/eli/oc/2023/446)).
 
 Die folgenden Produkte sind von dieser Anlage ausgeschlossen:
 
@@ -845,12 +847,20 @@ Die folgenden Produkte sind von dieser Anlage ausgeschlossen:
 <tr><td>Batterien mit Ausnahme von Zink-Silberoxid-Knopfzellen mit einem Quecksilbergehalt &lt; 2 Prozent und Zink-Luft-Knopfzellen mit einem Quecksilbergehalt &lt; 2 Prozent</td><td>2020</td></tr>
 <tr><td>Schalter und Relais mit Ausnahme von Höchstpräzisions-Kapazitäts- und ‑Verlustfaktor-Messbrücken und Hochfrequenz-Radiofrequenz-Schaltern und ‑Relais in Überwachungs- und Kontrollinstrumenten mit einem Quecksilber-Höchstgehalt von 20 mg je Brücke, Schalter oder Relais</td><td>2020</td></tr>
 <tr><td>Kompaktleuchtstofflampen (CFL) für allgemeine Beleuchtungszwecke mit ≤ 30 Watt und einem Quecksilbergehalt von mehr als 5 mg je Brennstelle</td><td>2020</td></tr>
-<tr><td>lineare Leuchtstofflampen (LFL) für allgemeine Beleuchtungszwecke: a) Tri-Phosphor-Lampen &lt; 60 Watt mit einem Quecksilbergehalt von mehr als 5 mg je Lampe b) Halophosphatlampen ≤ 40 Watt mit einem Quecksilbergehalt von mehr als 10 mg je Lampe</td><td>2020</td></tr>
+<tr><td>Kompaktleuchtstofflampen mit eingebautem Vorschaltgerät (CFL.i) für allgemeine Beleuchtungszwecke mit ≤ 30 Watt und einem Quecksilbergehalt von höchstens 5 mg je Brennstelle</td><td>2025</td></tr>
+<tr><td>lineare Leuchtstofflampen (LFL) für allgemeine Beleuchtungszwecke: a) Tri-Phosphor-Lampen &lt; 60 Watt mit einem Quecksilbergehalt von mehr als 5 mg je Lampe; b) Halophosphatlampen ≤ 40 Watt mit einem Quecksilbergehalt von mehr als 10 mg je Lampe.</td><td>2020</td></tr>
 <tr><td>Hochdruck-Quecksilberdampflampen (HPMV) für allgemeine Beleuchtungszwecke</td><td>2020</td></tr>
-<tr><td>Quecksilber in Kaltkathoden-Leuchtstofflampen und Leuchtstofflampen mit externen Elektroden (CCFL und EEFL) für elektronische Displays: a) geringe Länge (≤ 500 mm) mit einem Quecksilbergehalt von mehr als 3,5 mg je Lampe b) mittlere Länge (&gt; 500 mm und ≤ 1500 mm) mit einem Quecksilbergehalt von mehr als 5 mg je Lampe c) grosse Länge (&gt; 1500 mm) mit einem Quecksilbergehalt von mehr als 13 mg je Lampe</td><td>2020</td></tr>
+<tr><td>Quecksilber in Kaltkathoden-Leuchtstofflampen und Leuchtstofflampen mit externen Elektroden (CCFL und EEFL) für elektronische Displays: a) geringe Länge (≤ 500 mm) mit einem Quecksilbergehalt von mehr als 3,5 mg je Lampe; b) mittlere Länge (&gt; 500 mm und ≤ 1500 mm) mit einem Quecksilbergehalt von mehr als 5 mg je Lampe; c) grosse Länge (&gt; 1500 mm) mit einem Quecksilbergehalt von mehr als 13 mg je Lampe.</td><td>2020</td></tr>
+<tr><td>Kaltkathoden-Leuchtstofflampen und Leuchtstofflampen mit externen Elektroden (CCFL und EEFL) aller Länge für elektronische Displays, die keiner Kategorie der vorhergehenden Liste zugeordnet sind</td><td>2025</td></tr>
 <tr><td>Kosmetika (mit einem Quecksilbergehalt von mehr als 1 ppm) einschliesslich hautaufhellender Seifen und Cremes, jedoch Kosmetika für den Augenbereich ausschliessend, in denen Quecksilber als Konservierungsstoff verwendet wird und für die keine wirksamen und sicheren Ersatz-Konservierungsstoffe verfügbar sind[^annexA-lvlu1-partI-1]</td><td>2020</td></tr>
 <tr><td>Pestizide, Biozide und topische Antiseptika</td><td>2020</td></tr>
 <tr><td>folgende nicht elektronische Messgeräte mit Ausnahme von nicht elektronischen Messgeräten, die in Grossgeräten eingebaut sind, und solchen, die für hochpräzise Messungen verwendet werden, sofern keine geeignete quecksilberfreie Alternative verfügbar ist: a) Barometer; b) Hygrometer; c) Manometer; d) Thermometer; e) Sphygmomanometer (Blutdruckmessgeräte).</td><td>2020</td></tr>
+<tr><td>Dehnungsmessstreifen für Plethysmografen;</td><td>2025</td></tr>
+<tr><td>folgende elektrische und elektronische Messgeräte mit Ausnahme solcher, die in Grossgeräten eingebaut sind, sowie solcher, die für hochpräzise Messungen verwendet werden, sofern keine geeignete quecksilberfreie Alternative verfügbar ist: a) Schmelzedruckwandler, Schmelzedrucktransmitter und Schmelzedrucksensoren</td><td>2025</td></tr>
+<tr><td>Quecksilbervakuumpumpen</td><td>2025</td></tr>
+<tr><td>Wuchtgewichte für Reifen und Räder</td><td>2025</td></tr>
+<tr><td>Filme und fotografische Papiere</td><td>2025</td></tr>
+<tr><td>Treibstoffe für Satelliten und Raumfahrzeuge</td><td>2025</td></tr>
 </table>
 
 [^annexA-lvlu1-partI-1]: Hiermit wird bezweckt, dass Kosmetika, Seifen oder Cremes mit Quecksilber-Spurenverunreinigungen nicht erfasst werden.
@@ -858,8 +868,9 @@ Die folgenden Produkte sind von dieser Anlage ausgeschlossen:
 ### Teil II: Produkte, die Artikel 4 Absatz 3 unterliegen
 
 <table>
-<tr><td>Mit Quecksilber versetzte Produkte</td><td>Bestimmungen</td></tr>
+<tr><th>Mit Quecksilber versetzte Produkte</th><th>Bestimmungen</th></tr>
 <tr><td>Dentalamalgam</td><td>Die von einer Vertragspartei für die stufenweise Verringerung der Verwendung von Dentalamalgam zu ergreifenden Massnahmen berücksichtigen die nationalen Gegebenheiten der Vertragspartei sowie einschlägige internationale Leitlinien und schliessen zwei oder mehr Massnahmen aus der nachstehenden Liste ein: i) Festlegung nationaler Ziele für die Kariesprävention und die Gesundheitsförderung, wodurch die Notwendigkeit von Zahnfüllungsmassnahmen minimiert wird; ii) Festlegung nationaler Ziele für die Minimierung seiner Verwendung; iii) Förderung der Verwendung kostengünstiger und klinisch wirksamer quecksilberfreier alternativer Füllungsmaterialien; iv) Förderung der Erforschung und Entwicklung hochwertiger quecksilberfreier Füllungsmaterialien; v) Bestärkung von repräsentativen Berufsverbänden, zahnmedizinischen Fakultäten und Ausbildungseinrichtungen, Zahnärztinnen, Zahnärzte und Studierende der Zahnmedizin sowie Angehörige und Auszubildende zahnmedizinischer Berufe in der Verwendung quecksilberfreier alternativer Füllungsmaterialien und in der Förderung von besten Handhabungspraktiken aus- und weiterzubilden; vi) Abraten von Versicherungspolicen und ‑programmen, in denen der Verwendung von Dentalamalgam gegenüber quecksilberfreien Füllungsmaterialien der Vorzug gegeben wird; vii) Ermutigung zu Versicherungspolicen und ‑programmen, in denen der Verwendung von hochwertigen Alternativen zu Dentalamalgam für Füllungsmassnahmen der Vorzug gegeben wird; viii) Beschränkung der Verwendung von Dentalamalgam auf dessen verkapselte Form; ix) Förderung des Einsatzes der besten Umweltschutzpraktiken in zahnmedizinischen Einrichtungen zur Verringerung der Freisetzungen von Quecksilber und Quecksilberverbindungen in das Wasser und den Boden.</td></tr>
+<tr><td>[tab]</td><td>[tab] Des Weiteren müssen die Parteien: i) die Verwendung von Quecksilber in loser Form durch zahnmedizinische Fachpersonen mit geeigneten Massnahmen verbieten oder verhindern; ii) die Verwendung von Dentalamalgam bei der Behandlung von Milchzähnen, von Patientinnen und Patienten unter fünfzehn Jahren sowie von Schwangeren oder Stillenden durch geeignete Massnahmen verbieten oder verhindern beziehungsweise davon abraten, es sei denn, die zahnmedizinische Fachperson erachtet dies wegen der spezifischen medizinischen Erfordernisse bei der Patientin oder dem Patienten als notwendig.</td></tr>
 </table>
 
 Anlage B
@@ -1071,7 +1082,7 @@ Bei Uneinigkeit darüber, ob die Vergleichskommission für die Prüfung einer ih
 
 Die Kosten der Vergleichskommission werden von den Streitparteien zu gleichen Teilen getragen, wenn sie nichts anderes vereinbaren. Die Kommission führt über alle ihre Kosten Buch und legt den Parteien eine Schlussabrechnung vor.
 
-Geltungsbereich am 27. Juni 2023[^t-3]
+Geltungsbereich am 27. Juni 2023[^t-4]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -1223,4 +1234,4 @@ Geltungsbereich am 27. Juni 2023[^t-3]
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-3]: [AS 2017 3917](https://fedlex.data.admin.ch/eli/oc/2017/467), [5133](https://fedlex.data.admin.ch/eli/oc/2017/559); [2018 1353](https://fedlex.data.admin.ch/eli/oc/2018/219), [3439](https://fedlex.data.admin.ch/eli/oc/2018/558); [2019 967](https://fedlex.data.admin.ch/eli/oc/2019/174), [2557](https://fedlex.data.admin.ch/eli/oc/2019/471); [2020 347](https://fedlex.data.admin.ch/eli/oc/2020/55), [1875](https://fedlex.data.admin.ch/eli/oc/2020/386), [3579](https://fedlex.data.admin.ch/eli/oc/2020/638); [2021 130](https://fedlex.data.admin.ch/eli/oc/2021/130), [540](https://fedlex.data.admin.ch/eli/oc/2021/540); [2022 589](https://fedlex.data.admin.ch/eli/oc/2022/589); [2023 342](https://fedlex.data.admin.ch/eli/oc/2023/342). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-4]: [AS 2017 3917](https://fedlex.data.admin.ch/eli/oc/2017/467), [5133](https://fedlex.data.admin.ch/eli/oc/2017/559); [2018 1353](https://fedlex.data.admin.ch/eli/oc/2018/219), [3439](https://fedlex.data.admin.ch/eli/oc/2018/558); [2019 967](https://fedlex.data.admin.ch/eli/oc/2019/174), [2557](https://fedlex.data.admin.ch/eli/oc/2019/471); [2020 347](https://fedlex.data.admin.ch/eli/oc/2020/55), [1875](https://fedlex.data.admin.ch/eli/oc/2020/386), [3579](https://fedlex.data.admin.ch/eli/oc/2020/638); [2021 130](https://fedlex.data.admin.ch/eli/oc/2021/130), [540](https://fedlex.data.admin.ch/eli/oc/2021/540); [2022 589](https://fedlex.data.admin.ch/eli/oc/2022/589); [2023 342](https://fedlex.data.admin.ch/eli/oc/2023/342). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

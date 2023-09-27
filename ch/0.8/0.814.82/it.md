@@ -3,11 +3,11 @@ sr: "0.814.82"
 title: Convenzione di Minamata del 10 ottobre 2013 sul mercurio
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/467"
 language: it
-version: 2023-06-27
+version: 2023-09-28
 adopted: 2013-10-10
 in_force: 2017-08-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/467/20230627/it/xml/fedlex-data-admin-ch-eli-cc-2017-467-20230627-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/467/20230627/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/467/20230928/it/xml/fedlex-data-admin-ch-eli-cc-2017-467-20230928-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/467/20230928/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa il 10 ottobre 2013 Approvata dall’Assemblea federale il 18 dicembre 2015[^t-1] Strumento di ratifica depositato dalla Svizzera il 25 maggio 2016[^t-2] Entrata in vigore per la Svizzera il 16 agosto 2017
 
-(Stato 27 giugno 2023)
+(Stato 28 settembre 2023)
 
 [^t-1]: [RU 2017 3915](https://fedlex.data.admin.ch/eli/oc/2017/466)
 [^t-2]: Correzione del 5 nov. 2019 ([RU 2019 3439](https://fedlex.data.admin.ch/eli/oc/2019/626)).
@@ -820,9 +820,11 @@ L’originale della presente convenzione, i cui testi in lingua araba, cinese, i
 
 *In fede di che*, i sottoscritti debitamente autorizzati a tal fine hanno firmato la presente convenzione. Fatto a Kumamoto, Giappone, il dieci ottobre duemilatredici. (Seguono le firme)
 
-Allegato A
+Allegato A[^t-3]
 
 ## Prodotti con aggiunta di mercurio
+
+[^t-3]: Nuovo testo giusta la Dec. MC-4/3 della conferenza delle parti del 25 mar. 2022 , in vigore per la Svizzera dal 28 set. 2023 ([RU 2023 446](https://fedlex.data.admin.ch/eli/oc/2023/446)).
 
 I prodotti elencati qui di seguito sono esclusi dal presente allegato:
 
@@ -839,21 +841,30 @@ I prodotti elencati qui di seguito sono esclusi dal presente allegato:
 <tr><td>Pile, ad eccezione delle pile a bottone all’ossido di argento e zinco con un tenore di mercurio &lt; 2 % e pile a bottone zinco‑aria con un tenore di mercurio &lt; 2 %</td><td>2020</td></tr>
 <tr><td>Interruttori e relè, ad eccezione dei ponti per la misurazione della capacitanza e delle perdite ad elevata accuratezza e degli interruttori e relè RF ad alta frequenza negli strumenti di monitoraggio e controllo (tenore massimo di mercurio pari a 20 mg di mercurio per ponte, interruttore o relè)</td><td>2020</td></tr>
 <tr><td>Lampade fluorescenti compatte per usi generali di illuminazione ≤ 30 watt con un tenore di mercurio superiore a 5 mg per bruciatore</td><td>2020</td></tr>
-<tr><td>Lampade fluorescenti lineari (LFL) per usi generali di illuminazione: a) a trifosfori &lt; 60 watt con un tenore di mercurio superiore a 5 mg per lampadina; b) a fosfori alosfosfati ≤ 40 watt con un tenore di mercurio superiore a 10mg per lampada.</td><td>2020</td></tr>
-<tr><td>Lampade al vapore di mercurio ad alta pressione (HPMV) per usi generali di illuminazione.</td><td>2020</td></tr>
-<tr><td>Mercurio in lampade fluorescenti a catodo freddo e lampade fluorescenti con elettrodo esterno (CCFL e EEFL) per display elettronici: a) lampade corte (≤ 500 mm) con tenore di mercurio superiore a 3,5 mg per lampada b) lampade medie (&gt; 500 mm e ≤ 1500 mm) con tenore di mercurio superiore a 5 mg per lampada c) lampade lunghe (&gt; 1500 mm) con tenore id mercurio superiore a 13 mg per lampada</td><td>2020</td></tr>
+<tr><td>Lampade fluorescenti compatte per usi generali di illuminazione con regolatore integrato (CFL.i) ≤ 30 watt con un tenore di mercurio inferiore a 5 mg per bruciatore</td><td>2025</td></tr>
+<tr><td>Lampade fluorescenti lineari (LFL) per usi generali di illuminazione: a) a trifosfori &lt; 60 watt con un tenore di mercurio superiore a 5 mg per lampada b) a fosfori alosfosfati ≤ 40 watt con un tenore di mercurio superiore a 10 mg per lampada</td><td>2020</td></tr>
+<tr><td>Lampade al vapore di mercurio ad alta pressione (HPMV) per usi generali di illuminazione</td><td>2020</td></tr>
+<tr><td>Mercurio in lampade fluorescenti a catodo freddo e lampade fluorescenti con elettrodo esterno (CCFL e EEFL) per display elettronici: a) lampade corte (≤ 500 mm) con tenore di mercurio superiore a 3,5 mg per lampada b) lampade medie (&gt; 500 mm e ≤ 1500 mm) con tenore di mercurio superiore a 5 mg per lampada c) lampade lunghe (&gt; 1500 mm) con tenore di mercurio superiore a 13 mg per lampada</td><td>2020</td></tr>
+<tr><td>Lampade fluorescenti a catodo freddo e lampade fluorescenti con elettrodo esterno (CCFL e EEFL) per display elettronici di qualsiasi lunghezza non appartenenti a nessuna delle categorie dell’elenco precedente</td><td>2025</td></tr>
 <tr><td>Cosmetici (con tenore di mercurio superiore a 1 ppm) comprendenti saponi e creme schiarenti, ma ad esclusione dei cosmetici per la zona degli occhi in cui il mercurio è utilizzato come agente di conservazione per il quale non sono disponibili alternative efficaci e sicure[^annexA-lvlu1-partI-1]</td><td>2020</td></tr>
 <tr><td>Pesticidi, biocidi e antisettici topici</td><td>2020</td></tr>
-<tr><td>I dispositivi di misurazione non elettronici seguenti, ad eccezione dei dispositivi di misurazione non elettronici, incorporati in apparecchiature di grandi dimensioni o utilizzati per misurazioni ad alta precisione, qualora non siano disponibili alternative adeguate prive di mercurio; a) barometri; b) igrometri; c) manometri; d) termometri; e) sfigmomanometri.</td><td>2020</td></tr>
+<tr><td>I dispositivi di misurazione non elettronici seguenti, ad eccezione dei dispositivi di misurazione non elettronici incorporati in apparecchiature di grandi dimensioni o utilizzati per misurazioni ad alta precisione, qualora non siano disponibili alternative adeguate prive di mercurio: a) barometri b) igrometri c) manometri d) termometri e) sfigmomanometri</td><td>2020</td></tr>
+<tr><td>Estensimetri per pletismografi</td><td>2025</td></tr>
+<tr><td>I dispositivi di misurazione elettrici ed elettronici seguenti, ad eccezione di quelli incorporati in apparecchiature di grandi dimensioni o utilizzati per misurazioni ad alta precisione, qualora non siano disponibili alternative adeguate prive di mercurio: a) trasduttori, trasmettitori e sensori di pressione di fusione</td><td>2025</td></tr>
+<tr><td>Pompe da vuoto a mercurio</td><td>2025</td></tr>
+<tr><td>Apparecchi e pesi equilibratori per ruote</td><td>2025</td></tr>
+<tr><td>Pellicola e carta fotografica</td><td>2025</td></tr>
+<tr><td>Propellenti per satelliti e astronavi</td><td>2025</td></tr>
 </table>
 
-[^annexA-lvlu1-partI-1]: I cosmetici, saponi o creme contenenti mercurio sotto forma di contaminante in tracce non considerati.
+[^annexA-lvlu1-partI-1]: I cosmetici, i saponi e le creme contenenti mercurio sotto forma di contaminante in tracce non sono considerati.
 
 ### Parte II: Prodotti soggetti all’articolo 4, paragrafo 3
 
 <table>
-<tr><td>Prodotti con aggiunta di mercurio</td><td>Disposizioni</td></tr>
-<tr><td>Amalgama dentale</td><td>Le misure che una parte è tenuta ad adottare per eliminare progressivamente l’amalgama dentale tengono conto delle sue circostanze nazionali e degli orientamenti internazionali in materia e comprendono due o più misure tra quelle elencate in appresso: i) fissazione di obiettivi nazionali in materia di prevenzione delle carie dentali e promozione dell’igiene dentale, in modo da ridurre al minimo le esigenze in materia di otturazioni dentali; ii) fissazione di obiettivi nazionali destinati a minimizzarne l’uso; iii) promozione, per le otturazioni dentali, dell’uso di alternative senza mercurio, clinicamente efficaci e efficienti sotto il profilo dei costi; iv) promozione della ricerca e dello sviluppo di materiali di qualità senza mercurio per le otturazioni dentali; v) incentivazione delle organizzazioni professionali rappresentative e delle facoltà di odontoiatria a educare e formare i professionisti e gli studenti di questo settore affinché utilizzino alternative senza mercurio per le otturazioni dentali e promuovano le migliori pratiche in materia di gestione; vi) disincentivazione delle polizze assicurative e dei programmi che favoriscono l’uso dell’amalgama rispetto alle otturazioni che non utilizzano mercurio; vii) incentivazione delle polizze assicurative e di programmi che favoriscono l’uso di alternative di qualità all’amalgama dentale per le otturazioni dentali; viii) limitazione dell’uso dell’amalgama dentale alla sua forma incapsulata; ix) promozione dell’uso delle migliori pratiche ambientali negli ambulatori dentistici per ridurre i rilasci di mercurio e dei suoi composti nell’acqua e nel suolo.</td></tr>
+<tr><th>Prodotti con aggiunta di mercurio</th><th>Disposizioni</th></tr>
+<tr><td>Amalgama dentale</td><td>Le misure che una parte è tenuta ad adottare per eliminare progressivamente l’amalgama dentale tengono conto delle sue circostanze nazionali e degli orientamenti internazionali in materia e comprendono due o più misure tra quelle elencate in appresso: i) fissazione di obiettivi nazionali in materia di prevenzione delle carie dentali e promozione dell’igiene dentale, in modo da ridurre al minimo le esigenze in materia di otturazioni dentali; ii) fissazione di obiettivi nazionali destinati a minimizzarne l’uso; iii) promozione, per le otturazioni dentali, dell’uso di alternative senza mercurio, clinicamente efficaci e efficienti sotto il profilo dei costi; iv) promozione della ricerca e dello sviluppo di materiali di qualità senza mercurio per le otturazioni dentali; v) incentivazione delle organizzazioni professionali rappresentative e delle facoltà di odontoiatria a educare e formare i professionisti e gli studenti di questo settore affinché utilizzino alternative senza mercurio per le otturazioni dentali e promuovano le migliori pratiche in materia di gestione; vi) disincentivazione delle polizze assicurative e dei programmi che favoriscono l’uso dell’amalgama rispetto alle otturazioni che non utilizzano mercurio; vii) incentivazione delle polizze assicurative e di programmi che favoriscono l’uso di alternative di qualità senza mercurio per le otturazioni dentali; viii) limitazione dell’uso dell’amalgama dentale alla sua forma incapsulata; ix) promozione dell’uso delle migliori pratiche ambientali negli ambulatori dentistici per ridurre i rilasci di mercurio e dei suoi composti nell’acqua e nel suolo.</td></tr>
+<tr><td></td><td>Le Parti devono altresì: i) vietare o impedire, adottando misure appropriate, l’uso di mercurio in forma sfusa da parte degli specialisti in ambito odontoiatrico; ii) vietare o impedire, adottando misure appropriate, o sconsigliare l’uso di amalgami dentali negli interventi sui denti da latte, su pazienti di età inferiore ai 15 anni e su donne incinte o in fase di allattamento, a meno che lo specialista in ambito odontoiatrico non lo ritenga necessario alla luce delle esigenze del paziente.</td></tr>
 </table>
 
 Allegato B
@@ -1062,7 +1073,7 @@ In caso di disaccordo sulla competenza della commissione di conciliazione, è qu
 
 Se non altrimenti concordato, le spese della commissione di conciliazione sono a carico in ugual misura delle parti della disputa. La commissione tiene un registro delle proprie spese e fornisce alle parti un rendiconto conclusivo.
 
-Campo d’applicazione il 27 giugno 2023[^t-3]
+Campo d’applicazione il 27 giugno 2023[^t-4]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -1214,4 +1225,4 @@ Campo d’applicazione il 27 giugno 2023[^t-3]
 <tr><td colspan="5">\* Riserve e dichiarazioni Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [https://treaties.un.org](https://treaties.un.org) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies o richiedere alla Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-3]: [RU 2017 3917](https://fedlex.data.admin.ch/eli/oc/2017/467), [5133](https://fedlex.data.admin.ch/eli/oc/2017/559); [2018 1353](https://fedlex.data.admin.ch/eli/oc/2018/219), [3439](https://fedlex.data.admin.ch/eli/oc/2018/558); [2019 967](https://fedlex.data.admin.ch/eli/oc/2019/174), [2557](https://fedlex.data.admin.ch/eli/oc/2019/471); [2020 347](https://fedlex.data.admin.ch/eli/oc/2020/55), [1875](https://fedlex.data.admin.ch/eli/oc/2020/386), [3579](https://fedlex.data.admin.ch/eli/oc/2020/638); [2021 130](https://fedlex.data.admin.ch/eli/oc/2021/130), [540](https://fedlex.data.admin.ch/eli/oc/2021/540); [2022 589](https://fedlex.data.admin.ch/eli/oc/2022/589); [2023 342](https://fedlex.data.admin.ch/eli/oc/2023/342). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» ([www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)).
+[^t-4]: [RU 2017 3917](https://fedlex.data.admin.ch/eli/oc/2017/467), [5133](https://fedlex.data.admin.ch/eli/oc/2017/559); [2018 1353](https://fedlex.data.admin.ch/eli/oc/2018/219), [3439](https://fedlex.data.admin.ch/eli/oc/2018/558); [2019 967](https://fedlex.data.admin.ch/eli/oc/2019/174), [2557](https://fedlex.data.admin.ch/eli/oc/2019/471); [2020 347](https://fedlex.data.admin.ch/eli/oc/2020/55), [1875](https://fedlex.data.admin.ch/eli/oc/2020/386), [3579](https://fedlex.data.admin.ch/eli/oc/2020/638); [2021 130](https://fedlex.data.admin.ch/eli/oc/2021/130), [540](https://fedlex.data.admin.ch/eli/oc/2021/540); [2022 589](https://fedlex.data.admin.ch/eli/oc/2022/589); [2023 342](https://fedlex.data.admin.ch/eli/oc/2023/342). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» ([www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)).
