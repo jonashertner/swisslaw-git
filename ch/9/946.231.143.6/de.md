@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: Verordnung vom 11. November 2015 über Massnahmen gegenüber der Islamischen Republik Iran
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: de
-version: 2023-06-01
+version: 2023-09-29
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20230601/de/xml/fedlex-data-admin-ch-eli-cc-2016-15-20230601-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20230601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20230929/de/xml/fedlex-data-admin-ch-eli-cc-2016-15-20230929-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20230929/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber der Islamischen Republik Iran
 
-vom 11. November 2015 (Stand am 1. Juni 2023)
+vom 11. November 2015 (Stand am 29. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -59,6 +59,24 @@ In dieser Verordnung bedeuten:
 <sup>3</sup> Die Verbote nach den Absätzen 1 und 2 gelten auch für andere Güter, die ganz oder teilweise für die Entwicklung von Trägersystemen für Kernwaffen im Iran bestimmt sein könnten.
 
 <sup>4</sup> Die Beschaffung, die Einfuhr, die Durchfuhr, die Beförderung und die Vermittlung von Gütern, Technologie und Software nach Anhang 1 aus dem Iran sind verboten.
+
+#### Art. 2a
+
+**Verbote betreffend Güter und Technologie für unbemannte Luftfahrzeuge**[^2a-1]
+
+<sup>1</sup> Der Verkauf, die Lieferung, die Ausfuhr und die Durchfuhr von Gütern und Technologie für unbemannte Luftfahrzeuge nach Anhang 1*a* an iranische Personen oder Organisationen oder zur Verwendung im Iran sind verboten.
+
+<sup>2</sup> Dienstleistungen jeder Art, einschliesslich Finanzdienstleistungen, Vermittlungsdiensten und technischer Beratung, der Gewährung von Finanzmitteln sowie Investitionen, Beteiligungen und Joint Ventures, im Zusammenhang mit dem Verkauf, der Lieferung, der Ausfuhr, der Durchfuhr, der Bereitstellung, der Instandhaltung, der Herstellung oder der Verwendung von Gütern und Technologie nach Anhang 1*a* sind verboten.
+
+<sup>3</sup> Die Beschaffung, die Einfuhr, die Durchfuhr, die Beförderung und die Vermittlung von Gütern und Technologie nach Anhang 1*a* aus dem Iran sind verboten.
+
+<sup>4</sup> b. humanitäre Zwecke, gesundheitliche Notlagen, die dringende Abwendung oder Eindämmung eines Ereignisses, das voraussichtlich schwerwiegende und weitreichende Auswirkungen auf die Gesundheit und Sicherheit von Menschen oder auf die Umwelt haben wird, oder die Bewältigung von Naturkatastrophen.
+
+Das Staatsekretariat für Wirtschaft (SECO) kann den Verkauf, die Lieferung, die Weitergabe, die Durchfuhr oder die Ausfuhr von Gütern und Technologien nach Anhang 1*a* oder die damit verbundene Bereitstellung von technischer und finanzieller Hilfe für nichtmilitärische Zwecke und für nichtmilitärische Endnutzerinnen und Endnutzer bewilligen, wenn die Güter oder Technologien oder die damit verbundene technische oder finanzielle Hilfe erforderlich sind für:
+
+- a. medizinische oder pharmazeutische Zwecke;
+
+[^2a-1]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023, in Kraft seit 29. Sept. 2023 um 18.00 Uhr ([AS 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
 
 #### Art. 3
 
@@ -200,6 +218,8 @@ Das Verbot nach Absatz 2 Buchstabe a gilt nicht für die Erbringung humanitärer
 - e. die Beschäftigten, Beitragsempfängerinnen und -empfänger, Tochtergesellschaften oder Durchführungspartner der in den Buchstaben a−d genannten Organisationen, soweit sie in dieser Eigenschaft handeln;
 - f. alle weiteren vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bestimmten Akteure.[^7-1]
 
+<sup>3bis</sup> Das Verbot nach Absatz 2 Buchstabe a gilt zudem nicht, wenn die Überweisung von Geldern oder das Zurverfügungstellen von Geldern oder wirtschaftlichen Ressourcen an die in Anhang 6*a* erwähnten natürlichen Personen, Unternehmen und Organisationen erforderlich ist für die Durchführung humanitärer Aktivitäten in Iran durch öffentliche Stellen oder durch Unternehmen und Organisationen, die für die Durchführung solcher Aktivitäten Beiträge des Bundes erhalten.[^7-2]
+
 <sup>4</sup>
 
 Das SECO kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte und die Freigabe gesperrter wirtschaftlicher Ressourcen ausnahmsweise bewilligen zur:
@@ -208,15 +228,19 @@ Das SECO kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermög
 - b. Erfüllung bestehender Verträge;
 - c. Erfüllung von Forderungen, die Gegenstand einer bestehenden Entscheidung eines Gerichts, einer Verwaltungsstelle oder eines Schiedsgerichts sind;
 - d. Erfüllung amtlicher Tätigkeiten iranischer diplomatischer oder konsularischer Vertretungen;
-- e. Umsetzung des JCPOA[^7-2]; oder
-- f. Wahrung schweizerischer Interessen.[^7-3]
+- e. Umsetzung des JCPOA[^7-3]; oder
+- f. Wahrung schweizerischer Interessen.[^7-4]
 
-<sup>5</sup> Es bewilligt Ausnahmen nach Absatz 4 nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements und, falls anwendbar, in Übereinstimmung mit den massgeblichen Resolutionen des Sicherheitsrats der Vereinten Nationen.[^7-4]
+<sup>4bis</sup> Das SECO kann Ausnahmen von den Verboten nach den Absätzen 1 und 2 im Zusammenhang mit den natürlichen Personen, Unternehmen und Organisationen nach Anhang 6*a* bewilligen, um die Durchführung humanitärer Aktivitäten oder die Unterstützung der Zivilbevölkerung in Iran zu ermöglichen.[^7-5]
+
+<sup>5</sup> Es bewilligt Ausnahmen nach Absatz 4 nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements und, falls anwendbar, in Übereinstimmung mit den massgeblichen Resolutionen des Sicherheitsrats der Vereinten Nationen.[^7-6]
 
 [^7-1]: Fassung gemäss Ziff. I 9 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
-[^7-2]: Der Text des Gemeinsamen umfassenden Aktionsplans ist in Anhang A der Resolution 2231 (2015) des Sicherheitsrats der Vereinten Nationen enthalten. Die Resolution 2231 (2015) ist auf Französisch und Englisch abrufbar unter: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt;Sanctions &gt; Comité des sanctions &gt; Résolutions.
-[^7-3]: Fassung gemäss Ziff. I 9 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
-[^7-4]: Eingefügt durch Ziff. I 9 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^7-2]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023, in Kraft seit 29. Sept. 2023 um 18.00 Uhr ([AS 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
+[^7-3]: Der Text des Gemeinsamen umfassenden Aktionsplans ist in Anhang A der Resolution 2231 (2015) des Sicherheitsrats der Vereinten Nationen enthalten. Die Resolution 2231 (2015) ist auf Französisch und Englisch abrufbar unter: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt;Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^7-4]: Fassung gemäss Ziff. I 9 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^7-5]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023, in Kraft seit 29. Sept. 2023 um 18.00 Uhr ([AS 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
+[^7-6]: Eingefügt durch Ziff. I 9 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 8
 
@@ -244,19 +268,21 @@ Das SECO kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermög
 
 **Ein- und Durchreiseverbot**
 
-<sup>1</sup> Die Einreise in die Schweiz oder die Durchreise durch die Schweiz ist den in den Anhängen 5 und 6 aufgeführten natürlichen Personen verboten.
+<sup>1</sup> Die Einreise in die Schweiz und die Durchreise durch die Schweiz sind den natürlichen Personen nach den Anhängen 5, 6 und 6*a* verboten.[^10-1]
 
-<sup>2</sup> Das Staatssekretariat für Migration (SEM) kann in Übereinstimmung mit den Beschlüssen des zuständigen Komitees des Sicherheitsrats der Vereinten Nationen Ausnahmen für natürliche Personen nach Anhang 5 bewilligen.[^10-1]
+<sup>2</sup> Das Staatssekretariat für Migration (SEM) kann in Übereinstimmung mit den Beschlüssen des zuständigen Komitees des Sicherheitsrats der Vereinten Nationen Ausnahmen für natürliche Personen nach Anhang 5 bewilligen.[^10-2]
 
 <sup>3</sup>
 
-Es kann für natürliche Personen nach Anhang 6 Ausnahmen gewähren:
+Es kann für natürliche Personen nach den Anhängen 6 und 6*a* Ausnahmen gewähren:[^10-3]
 
 - a. aus erwiesenen humanitären Gründen;
 - b. zwecks Teilnahme an Tagungen internationaler Gremien oder an einem politischen Dialog betreffend den Iran; oder
 - c. zur Wahrung schweizerischer Interessen.
 
-[^10-1]: Fassung gemäss Ziff. I 9 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^10-1]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 29. Sept. 2023 um 18.00 Uhr ([AS 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
+[^10-2]: Fassung gemäss Ziff. I 9 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^10-3]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 29. Sept. 2023 um 18.00 Uhr ([AS 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
 
 #### Art. 11
 
@@ -311,9 +337,9 @@ Die Listen, die der Sicherheitsrat der Vereinten Nationen betreffend natürliche
 
 **Veröffentlichung**[^14a-1]
 
-Die Einträge nach den Anhängen 5–7 werden weder in der Amtlichen Sammlung des Bundesrechts (AS) noch in der Systematischen Sammlung des Bundesrechts (SR) veröffentlicht.
+Die Einträge nach den Anhängen 5–7 werden in der Amtlichen Sammlung des Bundesrechts (AS) und in der Systematischen Sammlung des Bundesrechts (SR) nur durch Verweis veröffentlicht.
 
-[^14a-1]: Eingefügt durch Ziff. I 12 der V vom 4. März 2016 über die automatische Übernahme von Sanktionslisten des Sicherheitsrats der Vereinten Nationen, in Kraft seit 4. März 2016 ([AS 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+[^14a-1]: Eingefügt durch Ziff. I 12 der V vom 4. März 2016 über die automatische Übernahme von Sanktionslisten des Sicherheitsrats der Vereinten Nationen ([AS 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)). Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 29. Sept. 2023 um 18.00 Uhr ([AS 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
 
 #### Art. 15
 
@@ -323,17 +349,27 @@ Die Verordnung vom 19. Januar 2011[^15-1] über Massnahmen gegenüber der Islami
 
 [^15-1]: [[AS 2011 383](https://fedlex.data.admin.ch/eli/oc/2011/61); [2012 3869](https://fedlex.data.admin.ch/eli/oc/2012/453); [2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)Ziff. I 15, [955](https://fedlex.data.admin.ch/eli/oc/2013/197), [2155](https://fedlex.data.admin.ch/eli/oc/2013/459), [3285](https://fedlex.data.admin.ch/eli/oc/2013/632), [5499](https://fedlex.data.admin.ch/eli/oc/2013/879);[2014 3055](https://fedlex.data.admin.ch/eli/oc/2014/519),[3365](https://fedlex.data.admin.ch/eli/oc/2014/584), [4697](https://fedlex.data.admin.ch/eli/oc/2014/789);[2015 1369](https://fedlex.data.admin.ch/eli/oc/2015/283), [2727](https://fedlex.data.admin.ch/eli/oc/2015/512), [2843](https://fedlex.data.admin.ch/eli/oc/2015/531)]
 
+#### Art. 15a
+
+**Übergangsbestimmung zur Änderung vom 29. September 2023**[^15a-1]
+
+Für Güter und Technologien nach Anhang 1*a* gelten die Verbote nach Artikel 2*a* Absätze 1–3 bis zum 27. Oktober 2023 nicht für Verpflichtungen aus vor dem 29. September 2023 geschlossenen Verträgen.
+
+[^15a-1]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023, in Kraft seit 29. Sept. 2023 um 18.00 Uhr ([AS 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
+
 #### Art. 16
 
 **Inkrafttreten**
 
 Diese Verordnung tritt am 17. Januar 2016 um 12.00 Uhr in Kraft.
 
-Anhang 1
+Anhang 1[^t-1]
 
-(Art. 2 Abs. 1)
+(Art. 2 Abs. 1, 2 und 4)
 
-## Güter, Technologie und Software, die unter die Verbote nach Artikel 2 fallen
+## Güter, Technologie und Software für Trägersysteme, die unter die Verbote nach Artikel 2 fallen
+
+[^t-1]: Bereinigt gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 29. Sept. 2023 um 18.00 Uhr ([AS 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
 
 ### Güter, Technologie und Software
 
@@ -343,6 +379,68 @@ Anhang 1
 
 [^annex1-lvlu1-lvlu1-1]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
 [^annex1-lvlu1-lvlu1-2]: [SR 514.511](https://fedlex.data.admin.ch/eli/cc/1998/808_808_808)
+
+Anhang 1a[^t-2]
+
+(Art. 2*a* Abs. 1–4)
+
+## Güter und Technologie, die unter die Verbote nach Artikel 2*a* fallen
+
+[^t-2]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023, in Kraft seit 29. Sept. 2023 um 18.00 Uhr ([AS 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
+
+### A. Kategorie 1 – Unbemannte Luftfahrzeuge
+
+<table>
+<tr><th>HS-Code</th><th>Beschreibung</th></tr>
+<tr><td>8806.91</td><td>Luftfahrzeuge ohne Besatzung, nicht zum Befördern von Passagieren hergerichtet, nicht ausschliesslich zum ferngesteuerten Betrieb hergerichtet, mit einem höchstzulässigen Abfluggewicht von nicht mehr als 250 g</td></tr>
+<tr><td>8806.92</td><td>Luftfahrzeuge ohne Besatzung, nicht zum Befördern von Passagieren hergerichtet, nicht ausschliesslich zum ferngesteuerten Betrieb hergerichtet, mit einem höchstzulässigen Abfluggewicht von mehr als 250 g, jedoch nicht mehr als 7 kg</td></tr>
+<tr><td>8806.93</td><td>Luftfahrzeuge ohne Besatzung, nicht zum Befördern von Passagieren hergerichtet, nicht ausschliesslich zum ferngesteuerten Betrieb hergerichtet, mit einem höchstzulässigen Abfluggewicht von mehr als 7 kg, jedoch nicht mehr als 25 kg</td></tr>
+<tr><td>8806.94</td><td>Luftfahrzeuge ohne Besatzung, nicht zum Befördern von Passagieren hergerichtet, nicht ausschliesslich zum ferngesteuerten Betrieb hergerichtet, mit einem höchstzulässigen Abfluggewicht von mehr als 25 kg, jedoch nicht mehr als 150 kg</td></tr>
+<tr><td>8806.99</td><td>Luftfahrzeuge ohne Besatzung, nicht zum Befördern von Passagieren hergerichtet, nicht ausschliesslich zum ferngesteuerten Betrieb hergerichtet, mit einem höchstzulässigen Abfluggewicht von mehr als 150 kg</td></tr>
+</table>
+
+### B. Kategorie 2 – Antriebs- und Navigationselemente
+
+<table>
+<tr><th>HS-Code</th><th>Beschreibung</th></tr>
+<tr><td>ex 8411.11</td><td>Turbostrahltriebwerke für Luftfahrzeuge mit einer Schubkraft von nicht mehr als 25 kN</td></tr>
+<tr><td>ex 8411.12</td><td>Turbostrahltriebwerke für Luftfahrzeuge mit einer Schubkraft von mehr als 25 kN</td></tr>
+<tr><td>ex 8411.21</td><td>Turbopropellertriebwerke für Luftfahrzeuge mit einer Leistung von nicht mehr als 1100 kW</td></tr>
+<tr><td>ex 8411.22</td><td>Turbopropellertriebwerke für Luftfahrzeuge mit einer Leistung von mehr als 1100 kW</td></tr>
+<tr><td>ex 8411.91</td><td>Speziell konzipierte Teile für Turbostrahltriebwerke oder Turbopropellertriebwerke für Luftfahrzeuge</td></tr>
+<tr><td>8407.10</td><td>Hubkolben- oder Kreiskolbenmotoren mit Funkenzündung (Verbrennungsmotoren) für Luftfahrzeuge</td></tr>
+<tr><td>8409.10</td><td>Teile, erkennbar als ausschliesslich oder hauptsächlich für Kolbenmotoren für Luftfahrzeuge bestimmt</td></tr>
+<tr><td>ex 8408.90</td><td>Kolbenmotoren mit Kompressionszündung für Luftfahrzeuge</td></tr>
+<tr><td>ex 9014.20</td><td>Trägheitsnavigationssysteme, Trägheitsplattformen (Intertial measurement Unit IMU), Beschleunigungsmesser oder Kreisel</td></tr>
+<tr><td>ex 8526.10</td><td>Radar für Luftfahrzeuge ohne Besatzung und speziell konzipierte Bestandteile hierfür</td></tr>
+<tr><td>ex 8529.90</td><td>Radar für Luftfahrzeuge ohne Besatzung und speziell konzipierte Bestandteile hierfür</td></tr>
+<tr><td>ex 8526.91</td><td>Geräte für Funknavigation für Luftfahrzeuge und speziell konzipierte Bestandteile hierfür</td></tr>
+<tr><td>ex 8529.90</td><td>Geräte für Funknavigation für Luftfahrzeuge und speziell konzipierte Bestandteile hierfür</td></tr>
+<tr><td>ex 8807.30</td><td>Flugsteuerorgane (FCU) für Luftfahrzeuge ohne Besatzung (UAV)</td></tr>
+<tr><td>ex 8807.30</td><td>Fernsteuerungsgeräte für Luftfahrzeuge ohne Besatzung (UAV)</td></tr>
+</table>
+
+### C. Kategorie 3 – Elektronische Bauelemente und Systeme
+
+<table>
+<tr><th>HS-Code</th><th>Beschreibung</th></tr>
+<tr><td>ex 8542.31</td><td>Integrierte Schaltungen wie folgt: FPGA (Field Programmable Gate Array, anwenderprogrammierbares Logikgatter), Mikrocontroller, Mikroprozessor, Signalprozessor, Signalanalysator</td></tr>
+<tr><td>ex 8542.39</td><td>Integrierte Schaltungen wie folgt: FPGA (Field Programmable Gate Array, anwenderprogrammierbares Logikgatter), Mikrocontroller, Mikroprozessor, Signalprozessor, Signalanalysator</td></tr>
+<tr><td>ex 8542.33</td><td>MMIC (monolithisch integrierte Mikrowellenschaltkreise)</td></tr>
+<tr><td>ex 8548.00</td><td>HF- oder EMI-Abschirmungen gegen elektromagnetische Interferenzen, geeignet für Luftfahrzeuge</td></tr>
+<tr><td>8525.83</td><td>Nachtsichtgeräte</td></tr>
+<tr><td>ex 8525.89</td><td>(Sichtlicht- oder Wärmebild-) Kameras, besonders konzipiert für die Verwendung in Luftfahrzeugen ohne Besatzung</td></tr>
+<tr><td>ex 9006.30</td><td>Luftbild-Überwachungskamera</td></tr>
+<tr><td>ex 9025.80</td><td>Wärmesensoren für UAV-Kameras</td></tr>
+<tr><td>ex 9027.50</td><td>Wärmesensoren für UAV-Kameras</td></tr>
+</table>
+
+### D. Kategorie 4 – Sonstige Güter
+
+- 1\. Ausrüstung für Satellitennavigationssysteme, einschliesslich für den Empfang von GNSS-Signalen geeigneter Antennen
+- 2\. luftgestützte Laser-Entfernungsmesser
+- 3\. LIDAR (Light Detection and Ranging)-Systeme
+- 4\. Technologie, die für die Erprobung, Entwicklung oder Herstellung der vorstehend in der Liste aufgeführten Ausrüstung konzipiert oder speziell angepasst wurde
 
 Anhang 2
 
@@ -601,7 +699,7 @@ Ausgenommen von den Ziffern 1–3 ist:
 
 - b. Software, die allgemein zugänglich ist.
 
-Anhang 5[^t-1]
+Anhang 5[^t-3]
 
 (Art. 7 Abs. 1, 10 Abs. 1 und 2, 11 Bst. b sowie Art. 14 und 14*a*)
 
@@ -609,7 +707,7 @@ Anhang 5[^t-1]
 
 [^annex5-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. I 12 der V vom 4. März 2016 über die automatische Übernahme von Sanktionslisten des Sicherheitsrats der Vereinten Nationen, in Kraft seit 4. März 2016 ([AS 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+[^t-3]: Fassung gemäss Ziff. I 12 der V vom 4. März 2016 über die automatische Übernahme von Sanktionslisten des Sicherheitsrats der Vereinten Nationen, in Kraft seit 4. März 2016 ([AS 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
 [^annex5-lvlu1-1]: Dieser Anhang wird weder in der AS noch in der SR veröffentlicht. Sein Inhalt kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/435](https://fedlex.data.admin.ch/eli/oc/2022/435) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 **Anmerkung**
@@ -620,7 +718,7 @@ Anhang 5[^t-1]
 
 [^annex5-lvlu1-2]: Die Liste ist im Internet unter folgender Adresse abrufbar: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; 2231 (2015) &gt; 2231 list.
 
-Anhang 6[^t-2]
+Anhang 6[^t-4]
 
 (Art. 7 Abs. 1, 10 Abs. 1 und 3 sowie 11 Bst. b)
 
@@ -628,10 +726,21 @@ Anhang 6[^t-2]
 
 [^annex6-lvlu1-1]
 
-[^t-2]: Bereinigt gemäss Ziff. I der V des WBF vom 27. Jan. 2016 ([AS 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)), vom 17. Mai 2016 ([AS 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), vom 31. Okt. 2016 ([AS 2016 3699](https://fedlex.data.admin.ch/eli/oc/2016/623)), vom 26. Jan. 2017 ([AS 2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59)), vom 19. Juni 2018 ([AS 2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349)), vom 17. Juni 2019 ([AS 2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)), vom 29. Nov. 2019 ([AS 2019 4093](https://fedlex.data.admin.ch/eli/oc/2019/714)), vom 6. Juli 2020 ([AS 2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)), vom 26. Nov. 2020 ([AS 2020 4933](https://fedlex.data.admin.ch/eli/oc/2020/878)), vom 17. Aug. 2021 ([AS 2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491)), vom 2. Aug. 2022 ([AS 2022 435](https://fedlex.data.admin.ch/eli/oc/2022/435)) und vom 10. Mai 2023, in Kraft seit 11. Mai 2023 um 18.00 Uhr ([AS 2023 227](https://fedlex.data.admin.ch/eli/oc/2023/227)).
+[^t-4]: Bereinigt gemäss Ziff. I der V des WBF vom 27. Jan. 2016 ([AS 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)), vom 17. Mai 2016 ([AS 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), vom 31. Okt. 2016 ([AS 2016 3699](https://fedlex.data.admin.ch/eli/oc/2016/623)), vom 26. Jan. 2017 ([AS 2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59)), vom 19. Juni 2018 ([AS 2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349)), vom 17. Juni 2019 ([AS 2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)), vom 29. Nov. 2019 ([AS 2019 4093](https://fedlex.data.admin.ch/eli/oc/2019/714)), vom 6. Juli 2020 ([AS 2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)), vom 26. Nov. 2020 ([AS 2020 4933](https://fedlex.data.admin.ch/eli/oc/2020/878)), vom 17. Aug. 2021 ([AS 2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491)), vom 2. Aug. 2022 ([AS 2022 435](https://fedlex.data.admin.ch/eli/oc/2022/435)) und vom 10. Mai 2023, in Kraft seit 11. Mai 2023 um 18.00 Uhr ([AS 2023 227](https://fedlex.data.admin.ch/eli/oc/2023/227)).
 [^annex6-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/227](https://fedlex.data.admin.ch/eli/oc/2023/227) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
-Anhang 7[^t-3]
+Anhang 6a[^t-5]
+
+(Art. 7 Abs. 1, 10 Abs. 1 und 3 und 11 Bst. b)
+
+## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten**
+
+[^annex6a-lvlu1-1]
+
+[^t-5]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023, in Kraft seit 29. Sept. 2023 um 18.00 Uhr ([AS 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
+[^annex6a-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2023/555](https://fedlex.data.admin.ch/eli/oc/2023/555) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+
+Anhang 7[^t-6]
 
 (Art. 7 Abs. 1 und 11 Bst. b)
 
@@ -639,5 +748,5 @@ Anhang 7[^t-3]
 
 [^annex7-lvlu1-1]
 
-[^t-3]: Bereinigt gemäss Ziff. I der V des WBF vom 17. Mai 2016 ([AS 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), vom 1. Mai 2017 ([AS 2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273)), vom 23. April 2018 ([AS 2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245)), vom 7. Mai 2019 ([AS 2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261)), vom 29. April 2020 ([AS 2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278)), vom 27. April 2021 ([AS 2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)) und vom 24. Mai 2022, in Kraft seit 25. Mai 2022 um 18.00 Uhr ([AS 2022 316](https://fedlex.data.admin.ch/eli/oc/2022/316)).
+[^t-6]: Bereinigt gemäss Ziff. I der V des WBF vom 17. Mai 2016 ([AS 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), vom 1. Mai 2017 ([AS 2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273)), vom 23. April 2018 ([AS 2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245)), vom 7. Mai 2019 ([AS 2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261)), vom 29. April 2020 ([AS 2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278)), vom 27. April 2021 ([AS 2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)) und vom 24. Mai 2022, in Kraft seit 25. Mai 2022 um 18.00 Uhr ([AS 2022 316](https://fedlex.data.admin.ch/eli/oc/2022/316)).
 [^annex7-lvlu1-1]: Dieser Anhang wird weder in der AS noch in der SR veröffentlicht. Sein Inhalt kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/435](https://fedlex.data.admin.ch/eli/oc/2022/435) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.

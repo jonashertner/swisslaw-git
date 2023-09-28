@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: "Ordonnance du 11 novembre 2015 instituant des mesures à l'encontre de la République islamique d'Iran"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: fr
-version: 2023-06-01
+version: 2023-09-29
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20230601/fr/xml/fedlex-data-admin-ch-eli-cc-2016-15-20230601-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20230601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20230929/fr/xml/fedlex-data-admin-ch-eli-cc-2016-15-20230929-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20230929/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République islamique d’Iran
 
-du 11 novembre 2015 (État le 1<sup>er</sup> juin 2023)
+du 11 novembre 2015 (État le 29 septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -59,6 +59,24 @@ Au sens de la présente ordonnance, on entend par:
 <sup>3</sup> Les interdictions prévues aux al. 1 et 2 s’appliquent également à d’autres biens qui pourraient être destinés, en totalité ou en partie, au développement de systèmes vecteurs d’armes nucléaires en Iran.
 
 <sup>4</sup> L’acquisition, l’importation, le transport et le courtage, à partir de l’Iran, de biens, technologies et logiciels visés à l’annexe 1 sont interdits.
+
+#### Art. 2a
+
+**Interdiction concernant les biens et technologies servant aux véhicules aériens sans pilote**[^2a-1]
+
+<sup>1</sup> La vente, la livraison, l’exportation et le transit de biens et technologies servant aux véhicules aériens sans pilote visés à l’annexe 1*a*, à destination de personnes ou d’entités iraniennes ou destinés à un usage en Iran, sont interdits.
+
+<sup>2</sup> Les services de toute sorte, y compris les services financiers, les services de courtage et la formation technique, l’octroi de moyens financiers, ainsi que les investissements, les participations et les coentreprises liés à la vente, à la livraison, à l’exportation, au transit, à la fourniture, à l’entretien, à la fabrication ou à l’utilisation des biens et technologies visés à l’annexe 1*a* sont interdits.
+
+<sup>3</sup> L’acquisition, l’importation, le transit, le transport et le courtage, à partir de l’Iran, de biens et technologies visés à l’annexe 1*a* sont interdits.
+
+<sup>4</sup> b. à des fins humanitaires, à des urgences sanitaires, à la prévention ou à l’atténuation à titre urgent d’un événement susceptible d’avoir des effets graves et importants sur la santé et la sécurité humaines ou sur l’environnement, ou en réaction à des catastrophes naturelles.
+
+Le Secrétariat d’État à l’économie (SECO) peut autoriser la vente, la fourniture, le transfert, le transit ou l’exportation de biens et technologies visés à l’annexe 1*a* ou la fourniture d’une assistance technique ou d’une aide financière y afférentes destinés à un usage non militaire et à un utilisateur final non militaire après avoir établi que ces biens ou technologies ou l’assistance technique et l’aide financière y afférentes sont nécessaires:
+
+- a. à des fins médicales ou pharmaceutiques;
+
+[^2a-1]: Introduit par le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 29 sept. 2023 à 18 heures ([RO 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
 
 #### Art. 3
 
@@ -180,7 +198,7 @@ L’entreprise ayant l’intention de conclure un accord avec une personne ou un
 
 **Gel des avoirs et des ressources économiques**
 
-<sup>1</sup> Les avoirs et les ressources économiques appartenant à ou sous contrôle des personnes physiques, entreprises et entités citées aux annexes 5, 6 et 7 sont gelés.
+<sup>1</sup> Les avoirs et les ressources économiques appartenant à ou sous contrôle des personnes physiques, entreprises et entités citées aux annexes 5 à 7 sont gelés.[^7-1]
 
 <sup>2</sup>
 
@@ -198,7 +216,9 @@ L’interdiction prévue à l’al. 2, let. a, ne s’applique pas à l’achemi
 - c. les organisations humanitaires dotées du statut d’observateur auprès de l’Assemblée générale des Nations Unies et les membres de ces organisations;
 - d. les organisations non gouvernementales bénéficiant d’un financement bilatéral ou multilatéral qui participent aux plans d’aide humanitaire des Nations Unies, aux plans d’aide aux réfugiés, à d’autres appels à contributions des Nations Unies ou aux structures humanitaires coordonnées par le Bureau de la coordination des affaires humanitaires des Nations Unies (OCHA);
 - e. les employés, bénéficiaires, organes subsidiaires ou partenaires de réalisation des entités mentionnées aux let. a à d, lorsqu’ils agissent en cette qualité;
-- f. tous les autres acteurs tels que déterminés par le comité compétent du Conseil de sécurité des Nations Unies.[^7-1]
+- f. tous les autres acteurs tels que déterminés par le comité compétent du Conseil de sécurité des Nations Unies.[^7-2]
+
+<sup>3bis</sup> L’interdiction prévue à l’al. 2, let. a, ne s’applique pas non plus lorsque le transfert ou la mise à disposition d’avoirs ou de ressources économiques à des personnes physiques, entreprises et entités citées à l’annexe 6*a* est nécessaire à la réalisation d’activités humanitaires en Iran par des services publics ou par des entreprises et entités recevant des contributions de la Confédération pour la réalisation de ces activités.[^7-3]
 
 <sup>4</sup>
 
@@ -208,15 +228,20 @@ Le SECO peut, exceptionnellement, autoriser des versements prélevés sur des co
 - b. d’honorer des contrats existants;
 - c. d’honorer des créances en application d’une décision judiciaire, administrative ou arbitrale;
 - d. de permettre l’exercice des activités officielles de représentations diplomatiques ou consulaires iraniennes;
-- e. de mettre en œuvre le Plan d’action global commun[^7-2], ou
-- f. de sauvegarder les intérêts de la Suisse.[^7-3]
+- e. de mettre en œuvre le Plan d’action global commun[^7-4], ou
+- f. de sauvegarder les intérêts de la Suisse.[^7-5]
 
-<sup>5</sup> Il accorde les dérogations prévues à l’al. 4 après consultation des services compétents du DFAE et du Département fédéral des finances et, le cas échéant, en conformité avec les résolutions pertinentes du Conseil de sécurité des Nations Unies.[^7-4]
+<sup>4bis</sup> Le SECO peut autoriser des dérogations aux interdictions prévues aux al. 1 et 2 visant les personnes physiques, entreprises et entités citées à l’annexe 6*a* pour permettre la réalisation d’activités humanitaires ou la fourniture d’une aide à la population civile en Iran.[^7-6]
 
-[^7-1]: Nouvelle teneur selon le ch. I 9 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
-[^7-2]: Le texte du Plan d’action global commun figure à l’annexe A de la résolution 2231 (2015) du Conseil de sécurité des Nations Unies. La résolution 2231 (2015) du Conseil de sécurité des Nations Unies peut être consultée à l’adresse suivante: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Documents &gt; Résolutions.
-[^7-3]: Nouvelle teneur selon le ch. I 9 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
-[^7-4]: Introduit par le ch. I 9 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+<sup>5</sup> Il accorde les dérogations prévues à l’al. 4 après consultation des services compétents du DFAE et du Département fédéral des finances et, le cas échéant, en conformité avec les résolutions pertinentes du Conseil de sécurité des Nations Unies.[^7-7]
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 29 sept. 2023 à 18 heures ([RO 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
+[^7-2]: Nouvelle teneur selon le ch. I 9 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^7-3]: Introduit par le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 29 sept. 2023 à 18 heures ([RO 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
+[^7-4]: Le texte du Plan d’action global commun figure à l’annexe A de la résolution 2231 (2015) du Conseil de sécurité des Nations Unies. La résolution 2231 (2015) du Conseil de sécurité des Nations Unies peut être consultée à l’adresse suivante: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Documents &gt; Résolutions.
+[^7-5]: Nouvelle teneur selon le ch. I 9 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^7-6]: Introduit par le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 29 sept. 2023 à 18 heures ([RO 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
+[^7-7]: Introduit par le ch. I 9 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 8
 
@@ -244,19 +269,21 @@ Le SECO peut, exceptionnellement, autoriser des versements prélevés sur des co
 
 **Interdiction de séjour et de transit**
 
-<sup>1</sup> L’entrée en Suisse et le transit par la Suisse sont interdits aux personnes physiques citées aux annexes 5 et 6.
+<sup>1</sup> L’entrée en Suisse et le transit par la Suisse sont interdits aux personnes physiques citées aux annexes 5, 6 et 6*a*.[^10-1]
 
-<sup>2</sup> Le Secrétariat d’État aux migrations (SEM) peut accorder des dérogations en conformité avec les décisions du comité compétent du Conseil de sécurité des Nations Unies pour des personnes physiques visées à l’annexe 5.[^10-1]
+<sup>2</sup> Le Secrétariat d’État aux migrations (SEM) peut accorder des dérogations en conformité avec les décisions du comité compétent du Conseil de sécurité des Nations Unies pour des personnes physiques visées à l’annexe 5.[^10-2]
 
 <sup>3</sup>
 
-Il peut, pour des personnes physiques visées à l’annexe 6, accorder des dérogations:
+Il peut, pour des personnes physiques visées aux annexe 6 et 6*a*, accorder des dérogations:[^10-3]
 
 - a. s’il existe des motifs humanitaires avérés;
 - b. si la personne se déplace pour assister à des réunions d’organismes internationaux ou pour mener un dialogue politique concernant l’Iran, ou
 - c. si la sauvegarde d’intérêts suisses l’exige.
 
-[^10-1]: Nouvelle teneur selon le ch. I 9 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 29 sept. 2023 à 18 heures ([RO 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
+[^10-2]: Nouvelle teneur selon le ch. I 9 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^10-3]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 29 sept. 2023 à 18 heures ([RO 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
 
 #### Art. 11
 
@@ -315,9 +342,9 @@ Les listes relatives à des personnes physiques, entreprises et entités que le 
 
 **Publication**[^14a-1]
 
-Les inscriptions figurant aux annexes 5 à 7 ne sont publiées ni au Recueil officiel du droit fédéral (RO), ni au Recueil systématique du droit fédéral (RS).
+Les inscriptions figurant aux annexes 5 à 7 sont publiées au Recueil officiel du droit fédéral (RO) et au Recueil systématique du droit fédéral (RS) uniquement sous la forme d’un renvoi.
 
-[^14a-1]: Introduit par le ch. I 12 de l’O du 4 mars 2016 sur la reprise automatique des listes de sanctions du Conseil de sécurité des Nations Unies, en vigueur depuis le 4 mars 2016 ([RO 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+[^14a-1]: Introduit par le ch. I 12 de l’O du 4 mars 2016 sur la reprise automatique des listes de sanctions du Conseil de sécurité des Nations Unies ([RO 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)). Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 29 sept. 2023 à 18 heures ([RO 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
 
 #### Art. 15
 
@@ -327,17 +354,27 @@ L’ordonnance du 19 janvier 2011 instituant des mesures à l’encontre de la R
 
 [^15-1]: [[RO 2011 383](https://fedlex.data.admin.ch/eli/oc/2011/61); [2012 3869](https://fedlex.data.admin.ch/eli/oc/2012/453); [2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)ch. I 15, [955](https://fedlex.data.admin.ch/eli/oc/2013/197), [2155](https://fedlex.data.admin.ch/eli/oc/2013/459), [3285](https://fedlex.data.admin.ch/eli/oc/2013/632), [5499](https://fedlex.data.admin.ch/eli/oc/2013/879);[2014 3055](https://fedlex.data.admin.ch/eli/oc/2014/519),[3365](https://fedlex.data.admin.ch/eli/oc/2014/584), [4697](https://fedlex.data.admin.ch/eli/oc/2014/789);[2015 1369](https://fedlex.data.admin.ch/eli/oc/2015/283), [2727](https://fedlex.data.admin.ch/eli/oc/2015/512), [2843](https://fedlex.data.admin.ch/eli/oc/2015/531)]
 
+#### Art. 15a
+
+**Dispositions transitoires relatives à la modification du 29 septembre 2023**[^15a-1]
+
+Pour les biens et technologies visés à l’annexe 1*a*, les interdictions prévues à l’art. 2*a*, al. 1 à 3, ne s’appliquent pas jusqu’au 27 octobre 2023 aux obligations découlant d’un contrat conclu avant le 29 septembre 2023.
+
+[^15a-1]: Introduit par le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 29 sept. 2023 à 18 heures ([RO 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
+
 #### Art. 16
 
 **Entrée en vigueur**
 
 La présente ordonnance entre en vigueur le 17 janvier 2016 à 12 heures.
 
-Annexe 1
+Annexe 1[^t-1]
 
-(art. 2, al. 1)
+(art. 2, al. 1, 2 et 4)
 
-## Biens, technologies et logiciels visés par les interdictions prévues à l’art. 2
+## Biens, technologies et logiciels servant à des systèmes vecteurs visés par les interdictions prévues à l’art. 2
+
+[^t-1]: Mise à jour selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 29 sept. 2023 à 18 heures ([RO 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
 
 ### Biens, technologies et logiciel
 
@@ -347,6 +384,68 @@ Annexe 1
 
 [^annex1-lvlu1-lvlu1-1]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
 [^annex1-lvlu1-lvlu1-2]: [RS 514.511](https://fedlex.data.admin.ch/eli/cc/1998/808_808_808)
+
+Annexe 1a[^t-2]
+
+(art. 2*a*, al. 1 à 4)
+
+## Biens et technologie visés par les interdictions prévues à l’art 2*a*
+
+[^t-2]: Introduite par le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 29 sept. 2023 à 18 heures ([RO 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
+
+### A. Catégorie 1 – Véhicules aériens sans pilote
+
+<table>
+<tr><th>Code SH</th><th>Description</th></tr>
+<tr><td>8806.91</td><td>Véhicules aériens sans pilote, autres que ceux conçus pour le transport de passagers, autres que ceux conçus uniquement pour être téléguidés, d’un poids maximal au décollage n’excédant pas 250 g</td></tr>
+<tr><td>8806.92</td><td>Véhicules aériens sans pilote, autres que ceux conçus pour le transport de passagers, autres que ceux conçus uniquement pour être téléguidés, d’un poids maximal au décollage excédant 250 g mais n’excédant pas 7 kg</td></tr>
+<tr><td>8806.93</td><td>Véhicules aériens sans pilote, autres que ceux conçus pour le transport de passagers, autres que ceux conçus uniquement pour être téléguidés, d’un poids maximal au décollage excédant 7 kg mais n’excédant pas 25 kg</td></tr>
+<tr><td>8806.94</td><td>Véhicules aériens sans pilote, autres que ceux conçus pour le transport de passagers, autres que ceux conçus uniquement pour être téléguidés, d’un poids maximal au décollage excédant 25 kg mais n’excédant pas 150 kg</td></tr>
+<tr><td>8806.99</td><td>Véhicules aériens sans pilote, autres que ceux conçus pour le transport de passagers, autres que ceux conçus uniquement pour être téléguidés, d’un poids maximal au décollage excédant 150 kg</td></tr>
+</table>
+
+### B. Catégorie 2 – Éléments de propulsion et de navigation
+
+<table>
+<tr><th>Code SH</th><th>Description</th></tr>
+<tr><td>ex 8411.11</td><td>Turboréacteurs destinés aux aéronefs, d’une poussée n’excédant pas 25 kN</td></tr>
+<tr><td>ex 8411.12</td><td>Turboréacteurs destinés aux aéronefs, d’une poussée excédant 25 kN</td></tr>
+<tr><td>ex 8411.21</td><td>Turbopropulseurs destinés aux aéronefs, d’une puissance n’excédant pas 1100 kW</td></tr>
+<tr><td>ex 8411.22</td><td>Turbopropulseurs destinés aux aéronefs, d’une puissance excédant 1100 kW</td></tr>
+<tr><td>ex 8411.91</td><td>Parties spécialement conçues pour turboréacteurs ou turbopropulseurs destinés aux aéronefs</td></tr>
+<tr><td>8407.10</td><td>Moteurs à piston alternatif ou rotatif, à allumage par étincelles (moteurs à explosion) pour l’aviation</td></tr>
+<tr><td>8409.10</td><td>Parties reconnaissables comme étant exclusivement ou principalement destinées aux moteurs à piston pour l’aviation</td></tr>
+<tr><td>ex 8408.90</td><td>Moteurs à piston, à allumage par compression pour aéronefs</td></tr>
+<tr><td>ex 9014.20</td><td>Systèmes de navigation à inertie, unités de mesure inertielles (IMU), accéléromètres ou gyroscopes</td></tr>
+<tr><td>ex 8526.10</td><td>Radars pour véhicules aériens sans pilote et leurs composants spécialement conçus</td></tr>
+<tr><td>ex 8529.90</td><td>Radars pour véhicules aériens sans pilote et leurs composants spécialement conçus</td></tr>
+<tr><td>ex 8526.91</td><td>Appareils de radionavigation pour aéronefs et leurs composants spécialement conçus</td></tr>
+<tr><td>ex 8529.90</td><td>Appareils de radionavigation pour aéronefs et leurs composants spécialement conçus</td></tr>
+<tr><td>ex 8807.30</td><td>Contrôle de vol pour véhicule aérien sans pilote (UAV)</td></tr>
+<tr><td>ex 8807.30</td><td>Télécommande pour les véhicules aériens sans pilote (UAV)</td></tr>
+</table>
+
+### C. Catégorie 3 – Composants et dispositifs électroniques
+
+<table>
+<tr><th>Code SH</th><th>Description</th></tr>
+<tr><td>ex 8542.31</td><td>Circuits intégrés, comme suit: Réseau programmable de portes (FPGA), microcontrôleur, microprocesseur, dispositif de traitement des signaux, analyseur de signaux</td></tr>
+<tr><td>ex 8542.39</td><td>Circuits intégrés, comme suit: Réseau programmable de portes (FPGA), microcontrôleur, microprocesseur, dispositif de traitement des signaux, analyseur de signaux</td></tr>
+<tr><td>ex 8542.33</td><td>Amplificateur «MMIC»</td></tr>
+<tr><td>ex 8548.00</td><td>Filtre «RF» ou filtre à interférence électromagnétique (EMI) adapté aux aéronefs</td></tr>
+<tr><td>8525.83</td><td>Appareils à vision nocturne</td></tr>
+<tr><td>ex 8525.89</td><td>Caméras (visibles ou thermiques) spécialement conçues pour les véhicules aériens sans pilote</td></tr>
+<tr><td>ex 9006.30</td><td>Caméras pour photographie aérienne</td></tr>
+<tr><td>ex 9025.80</td><td>Capteurs thermiques pour caméras équipant des UAV</td></tr>
+<tr><td>ex 9027.50</td><td>Capteurs thermiques pour caméras équipant des UAV</td></tr>
+</table>
+
+### D. Catégorie 4 – Autres biens
+
+- 1\. Équipements de «système de navigation par satellite», y compris les antennes adaptées à la réception des signaux GNSS
+- 2\. Laser pour la mesure des distances aéroporté
+- 3\. Systèmes LIDAR
+- 4\. Technologies, conçues ou spécifiquement adaptées au test, au développement ou à la production des équipements énumérés ci-dessus
 
 Annexe 2
 
@@ -606,7 +705,7 @@ Les ch. 1 à 3 ne s’appliquent pas:
 
 - b) aux logiciels qui se trouvent dans le domaine public.
 
-Annexe 5[^t-1]
+Annexe 5[^t-3]
 
 (art. 7, al. 1, 10, al. 1 et 2, 11, let. b, 14 et 14*a*)
 
@@ -614,7 +713,7 @@ Annexe 5[^t-1]
 
 [^annex5-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. I 12 de l’O du 4 mars 2016 sur la reprise automatique des listes de sanctions du Conseil de sécurité des Nations Unies, en vigueur depuis le 4 mars 2016 ([RO 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+[^t-3]: Nouvelle teneur selon le ch. I 12 de l’O du 4 mars 2016 sur la reprise automatique des listes de sanctions du Conseil de sécurité des Nations Unies, en vigueur depuis le 4 mars 2016 ([RO 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
 [^annex5-lvlu1-1]: Cette annexe n’est publiée ni au RO ni au RS. Le texte de l’annexe peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/435](https://fedlex.data.admin.ch/eli/oc/2022/435) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 **Remarque**
@@ -625,7 +724,7 @@ Annexe 5[^t-1]
 
 [^annex5-lvlu1-2]: La liste peut être consultée Internet, à l’adresse suivante: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; 2231 (2015) &gt; Liste établie en application de la résolution 2231 (2015).
 
-Annexe 6[^t-2]
+Annexe 6[^t-4]
 
 (art. 7, al. 1, 10, al. 1 et 3, et 11, let. b)
 
@@ -633,10 +732,21 @@ Annexe 6[^t-2]
 
 [^annex6-lvlu1-1]
 
-[^t-2]: Mise à jour par le ch. I des O du DEFR du 27 janv. 2016 ([RO 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)), du 17 mai 2016 ([RO 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), du 31 oct. 2016 ([RO 2016 3699](https://fedlex.data.admin.ch/eli/oc/2016/623)), du 26 janv. 2017 ([RO 2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59)), du 19 juin 2018 ([RO 2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349)), du 17 juin 2019 ([RO 2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)), du 29 nov. 2019 ([RO 2019 4093](https://fedlex.data.admin.ch/eli/oc/2019/714)), du 6 juil. 2020 ([RO 2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)), du 26 nov. 2020 ([RO 2020 4933](https://fedlex.data.admin.ch/eli/oc/2020/878)), du 17 août 2021 ([RO 2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491)), du 2 août 2022 ([RO 2022 435](https://fedlex.data.admin.ch/eli/oc/2022/435)) et du 10 mai 2023, en vigueur depuis le 11 mai 2023 à 18 heures ([RO 2023 227](https://fedlex.data.admin.ch/eli/oc/2023/227)).
+[^t-4]: Mise à jour par le ch. I des O du DEFR du 27 janv. 2016 ([RO 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)), du 17 mai 2016 ([RO 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), du 31 oct. 2016 ([RO 2016 3699](https://fedlex.data.admin.ch/eli/oc/2016/623)), du 26 janv. 2017 ([RO 2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59)), du 19 juin 2018 ([RO 2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349)), du 17 juin 2019 ([RO 2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)), du 29 nov. 2019 ([RO 2019 4093](https://fedlex.data.admin.ch/eli/oc/2019/714)), du 6 juil. 2020 ([RO 2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)), du 26 nov. 2020 ([RO 2020 4933](https://fedlex.data.admin.ch/eli/oc/2020/878)), du 17 août 2021 ([RO 2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491)), du 2 août 2022 ([RO 2022 435](https://fedlex.data.admin.ch/eli/oc/2022/435)) et du 10 mai 2023, en vigueur depuis le 11 mai 2023 à 18 heures ([RO 2023 227](https://fedlex.data.admin.ch/eli/oc/2023/227)).
 [^annex6-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/227](https://fedlex.data.admin.ch/eli/oc/2023/227) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
-Annexe 7[^t-3]
+Annexe 6a[^t-5]
+
+(art. 7, al. 1, 10, al. 1 et 3, et 11, let. b)
+
+## Personnes physiques visées par les sanctions financières et par l’interdiction d’entrée et de transit, et entreprises et entités visées par les sanctions financières
+
+[^annex6a-lvlu1-1]
+
+[^t-5]: Introduite par le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 29 sept. 2023 à 18 heures ([RO 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
+[^annex6a-lvlu1-1]: Le contenu de la présente annexe est publié au RO et au RS uniquement sous la forme d’un renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/555](https://fedlex.data.admin.ch/eli/oc/2023/555) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+
+Annexe 7[^t-6]
 
 (art. 7, al. 1, et 11, let. b)
 
@@ -644,5 +754,5 @@ Annexe 7[^t-3]
 
 [^annex7-lvlu1-1]
 
-[^t-3]: Mise à jour par le ch. I des O du DEFR du 17 mai 2016 ([RO 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), du 1<sup>er</sup> mai 2017 ([RO 2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273)), du 23 avr. 2018 ([RO 2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245)), du 7 mai 2019 ([RO 2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261)), du 29 avr. 2020 ([RO 2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278)), du 27 avr. 2021 ([RO 2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)) et du 24 mai 2022, en vigueur depuis le 25 mai 2022 à 18 heures ([RO 2022 316](https://fedlex.data.admin.ch/eli/oc/2022/316)).
+[^t-6]: Mise à jour par le ch. I des O du DEFR du 17 mai 2016 ([RO 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), du 1<sup>er</sup> mai 2017 ([RO 2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273)), du 23 avr. 2018 ([RO 2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245)), du 7 mai 2019 ([RO 2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261)), du 29 avr. 2020 ([RO 2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278)), du 27 avr. 2021 ([RO 2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)) et du 24 mai 2022, en vigueur depuis le 25 mai 2022 à 18 heures ([RO 2022 316](https://fedlex.data.admin.ch/eli/oc/2022/316)).
 [^annex7-lvlu1-1]: Cette annexe n’est publiée ni au RO ni au RS. Le texte de l’annexe peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/435](https://fedlex.data.admin.ch/eli/oc/2022/435) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
