@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2023-09-26
+version: 2023-09-30
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20230926/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20230926-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20230926/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20230930/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20230930-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20230930/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 26. September 2023)
+vom 4. März 2022 (Stand am 30. September 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -610,20 +610,19 @@ Die Verbote nach den Absätzen 1 und 2 gelten nicht für:
 
 <sup>1</sup> Die Einfuhr, der Transport und der Kauf von Eisen- und Stahlerzeugnissen gemäss Anhang 17 aus der Russischen Föderation oder mit Ursprung in der Russischen Föderation sind verboten.
 
-<sup>2</sup> …[^14a-2]
+<sup>2</sup> Die Einfuhr, der Transport und der Kauf von Eisen- und Stahlerzeugnissen gemäss Anhang 17, die in einem Drittstaat unter Verwendung von Eisen- und Stahlerzeugnissen aus der Russischen Föderation oder mit Ursprung in der Russischen Föderation verarbeitet wurden, sind verboten.
 
 <sup>3</sup> Die direkte oder indirekte Bereitstellung von technischer Hilfe, Vermittlungsdiensten, Finanzmitteln oder finanzieller Unterstützung, einschliesslich Finanzderivaten, sowie Versicherungen und Rückversicherungen im Zusammenhang mit den Tätigkeiten nach den Absätzen 1 und 2 ist verboten.
 
-<sup>4</sup> Die Verbote nach Absatz 1 gelten nicht für den Kauf von Gütern, die Teil der von der EU festgelegten Einfuhrkontingente sind, und für die Einfuhr, die Durchfuhr und den Transport dieser Güter in und durch die Schweiz.[^14a-3]
+<sup>4</sup> Die Verbote nach Absatz 1 gelten nicht für den Kauf von Gütern, die Teil der von der EU festgelegten Einfuhrkontingente sind, und für die Einfuhr, die Durchfuhr und den Transport dieser Güter in und durch die Schweiz.[^14a-2]
 
-<sup>4bis</sup> Die Verbote nach Absatz 2 gelten nicht für den Kauf von Gütern, die Teil der von der EU festgelegten Einfuhrkontingente sind, und für die Einfuhr, die Durchfuhr und den Transport dieser Güter in und durch die Schweiz, sofern zum Zeitpunkt der Einfuhr in die Schweiz ein Nachweis vorgelegt wird über das Ursprungsland der Eisen- und Stahlvorprodukte, die für die Verarbeitung dieser Güter in einem Drittland verwendet wurden.[^14a-4]
+<sup>4bis</sup> Die Verbote nach Absatz 2 gelten nicht für den Kauf von Gütern, die Teil der von der EU festgelegten Einfuhrkontingente sind, und für die Einfuhr, die Durchfuhr und den Transport dieser Güter in und durch die Schweiz, sofern zum Zeitpunkt der Einfuhr in die Schweiz ein Nachweis vorgelegt wird über das Ursprungsland der Eisen- und Stahlvorprodukte, die für die Verarbeitung dieser Güter in einem Drittland verwendet wurden.[^14a-3]
 
 <sup>5</sup> Das SECO kann Ausnahmen von den Verboten nach den Absätzen 1 und 2 bewilligen, sofern dies erforderlich ist für die Einrichtung und den Betrieb ziviler nuklearer Kapazitäten, ihre Instandhaltung, ihre Versorgung mit und die Wiederaufbereitung von Brennelementen und ihre Sicherheit und die Weiterführung der Planung, des Baus und die Abnahmetests für die Indienststellung ziviler Atomanlagen, die Lieferung von Ausgangsstoffen zur Herstellung medizinischer Radioisotope und ähnlicher medizinischer Anwendungen oder kritischer Technologien zur radiologischen Umweltüberwachung sowie für die zivile nukleare Zusammenarbeit, insbesondere im Bereich Forschung und Entwicklung.
 
-[^14a-1]: Eingefügt durch Ziff. I der V vom 25. März 2022 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^14a-2]: Tritt am 30. Sept. 2023 in Kraft ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^14a-3]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^14a-4]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^14a-1]: Eingefügt durch Ziff. I der V vom 25. März 2022 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr, Abs. 2 in Kraft seit 30. Sept. 2023 ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^14a-2]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^14a-3]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 
 #### Art. 14b
 

@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2023-09-26
+version: 2023-09-30
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20230926/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20230926-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20230926/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20230930/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20230930-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20230930/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 26 settembre 2023)
+del 4 marzo 2022 (Stato 30 settembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -225,7 +225,7 @@ I divieti e gli obblighi di autorizzazione secondo l’articolo 4 capoversi 1, 2
 - c. all’esportazione temporanea di oggetti per un uso da parte dei media;
 - d. ad aggiornamenti di software;
 - e.[^6-3] a essere usati come dispositivi di comunicazione di uso quotidiano; o
-- f.[^6-4] ...
+- f.[^6-4] …
 - g.
 
   a uso personale da parte di persone fisiche che si recano nella Federazione Russa o dei loro familiari che li accompagnano, a condizione che siano appartenenti a tali persone e non siano destinati alla vendita, e limitatamente agli oggetti seguenti:
@@ -607,20 +607,19 @@ I divieti di cui ai capoversi 1 e 2 non si applicano:
 
 <sup>1</sup> Sono vietati l’importazione, il trasporto e l’acquisto dei prodotti siderurgici di cui all’allegato 17 provenienti dalla Federazione Russa o originari della Federazione Russa.
 
-<sup>2</sup> ...[^14a-2]
+<sup>2</sup> Sono vietati l’importazione, il trasporto e l’acquisto dei prodotti siderurgici di cui all’allegato 17 che sono stati sottoposti a trasformazione in un Paese terzo e incorporano prodotti siderurgici provenienti dalla Federazione Russa o originari della Federazione Russa.
 
 <sup>3</sup> È vietato fornire, direttamente o indirettamente, assistenza tecnica, servizi di intermediazione, mezzi finanziari o sostegno finanziario, compresi derivati, assicurazioni o riassicurazioni, in relazione con le attività di cui ai capoversi 1 e 2.
 
-<sup>4</sup> I divieti di cui al capoverso 1 non si applicano all’acquisto dei beni che rientrano nei contingenti di importazione stabiliti dall’UE, né all’importazione, al transito e al trasporto in e attraverso la Svizzera di tali beni.[^14a-3]
+<sup>4</sup> I divieti di cui al capoverso 1 non si applicano all’acquisto dei beni che rientrano nei contingenti di importazione stabiliti dall’UE, né all’importazione, al transito e al trasporto in e attraverso la Svizzera di tali beni.[^14a-2]
 
-<sup>4bis</sup> I divieti di cui al capoverso 2 non si applicano all’acquisto dei beni che rientrano nei contingenti di importazione stabiliti dall’UE, né all’importazione, al transito e al trasporto in e attraverso la Svizzera di tali beni, a condizione che all’atto dell’importazione in Svizzera sia apportata la prova attestante il Paese di origine dei fattori produttivi siderurgici impiegati per la trasformazione dei beni in un Paese terzo.[^14a-4]
+<sup>4bis</sup> I divieti di cui al capoverso 2 non si applicano all’acquisto dei beni che rientrano nei contingenti di importazione stabiliti dall’UE, né all’importazione, al transito e al trasporto in e attraverso la Svizzera di tali beni, a condizione che all’atto dell’importazione in Svizzera sia apportata la prova attestante il Paese di origine dei fattori produttivi siderurgici impiegati per la trasformazione dei beni in un Paese terzo.[^14a-3]
 
 <sup>5</sup> La SECO può autorizzare deroghe ai divieti di cui ai capoversi 1 e 2 se ciò è necessario per la costituzione, la gestione, la manutenzione, l’approvvigionamento e il ritrattamento del combustibile e la sicurezza delle capacità nucleari a uso civile, nonché la continuazione della progettazione, della costruzione e dell’attivazione necessaria per il completamento degli impianti nucleari civili, la fornitura di materiale precursore per la produzione di radioisotopi medici e applicazioni mediche analoghe, o di tecnologie critiche per il controllo delle radiazioni ambientali, e la cooperazione nucleare per fini civili, in particolare nel settore della ricerca e dello sviluppo.
 
-[^14a-1]: Introdotto dal n. I dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^14a-2]: In vigore dal 30 set. 2023 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^14a-3]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^14a-4]: Introdotto dal n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^14a-1]: Introdotto dal n. I dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00, il cpv. 2 in vigore dal 30 set. 2023 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^14a-2]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^14a-3]: Introdotto dal n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 
 #### Art. 14b
 
@@ -764,7 +763,7 @@ La SECO può, in via eccezionale, autorizzare prelievi da conti bloccati, trasfe
 - b. rispettare contratti esistenti;
 - c. soddisfare crediti in applicazione di una decisione giudiziaria, amministrativa o arbitrale;
 - d.[^15-6] svolgere attività ufficiali di rappresentanze diplomatiche o consolari o di organizzazioni internazionali che godono di immunità conformemente al diritto internazionale;
-- e.[^15-7] ...
+- e.[^15-7] …
 - f. permettere lo svolgimento di attività umanitarie o di aiuto alla popolazione civile in relazione alla situazione in Ucraina;
 - g.[^15-8] la prevenzione o la mitigazione di un evento che potrebbe avere conseguenze gravi e rilevanti sulla salute e sulla sicurezza delle persone o sull’ambiente.[^15-9]
 
@@ -1483,8 +1482,8 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 
 [^29c-1]: Introdotto dal n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
 [^29c-2]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
-[^29c-3]: Questo Concordato intercantonale può essere consultato all’indirizzo www.lexfind.ch/fe/de/tol/33879/versions/219579/de
-[^29c-4]: Questo Concordato intercantonale può essere consultato all’indirizzo www.lexfind.ch/fe/de/tol/33884/versions/219203/de
+[^29c-3]: Questo Concordato intercantonale può essere consultato all’indirizzo [www.lexfind.ch/fe/de/tol/33879/versions/219579/de](https://www.lexfind.ch/fe/de/tol/33879/versions/219579/de)
+[^29c-4]: Questo Concordato intercantonale può essere consultato all’indirizzo [www.lexfind.ch/fe/de/tol/33884/versions/219203/de](https://www.lexfind.ch/fe/de/tol/33884/versions/219203/de)
 
 #### Art. 30
 
@@ -1588,9 +1587,11 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 
 [^sec4b-1]: Introdotta dal n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 
-**Art. 30**d
+#### Art. 30d
 
-<sup>1</sup> D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare deroghe ai divieti di cui agli articoli 4, 5, 9*a* e 11*a* per la vendita, la fornitura, l’esportazione, il transito attraverso la Svizzera o il transito attraverso la Federazione Russa dei beni elencati in tali articoli o di altri servizi connessi per l’esercizio e la manutenzione essenziale dell’oleodotto del Consorzio per l’oleodotto del Caspio (oleodotto CPC) e della relativa infrastruttura, necessari per il trasporto di beni della voce di tariffa doganale 2709 00 originari del Kazakhstan per i quali soltanto il caricamento, la partenza o il transito avviene nella Federazione Russa, dopo aver accertato che:
+<sup>1</sup>
+
+D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare deroghe ai divieti di cui agli articoli 4, 5, 9*a* e 11*a* per la vendita, la fornitura, l’esportazione, il transito attraverso la Svizzera o il transito attraverso la Federazione Russa dei beni elencati in tali articoli o di altri servizi connessi per l’esercizio e la manutenzione essenziale dell’oleodotto del Consorzio per l’oleodotto del Caspio (oleodotto CPC) e della relativa infrastruttura, necessari per il trasporto di beni della voce di tariffa doganale 2709 00 originari del Kazakhstan per i quali soltanto il caricamento, la partenza o il transito avviene nella Federazione Russa, dopo aver accertato che:
 
 - a. la vendita, la fornitura, l’esportazione, il transito attraverso la Svizzera o il transito attraverso la Federazione Russa o i servizi connessi sono necessari per l’esercizio, la manutenzione essenziale, la riparazione o la sostituzione di componenti dell’oleodotto CPC e della relativa infrastruttura;
 - b. il tipo di beni e servizi richiesti era già in precedenza esportato o prestato nella Federazione Russa da uno Stato membro dello SEE, da un partner o dalla Svizzera per l’esercizio, la manutenzione essenziale, la riparazione o la sostituzione di componenti dell’oleodotto CPC e della relativa infrastruttura;
@@ -1699,7 +1700,7 @@ L’articolo 11*a* non si applica agli affari riguardanti:
 
 <sup>11</sup> L’articolo 12 non si applica agli affari concordati in via contrattuale prima del 28 aprile 2022 ed eseguiti entro il 29 agosto 2022.[^35-8]
 
-<sup>12</sup> e <sup>13</sup> ...[^35-9]
+<sup>12</sup> e <sup>13</sup> …[^35-9]
 
 <sup>14</sup> L’articolo 28*c* capoverso 1 non si applica agli affari concordati in via contrattuale prima del 28 aprile 2022 ed eseguiti entro il 29 ottobre 2022.[^35-10]
 
@@ -1736,7 +1737,7 @@ L’articolo 9 capoversi 1, 4 e 5 non si applica agli affari riguardanti:
 - e.[^35-19] la fornitura di servizi, comprese l’assistenza tecnica e l’intermediazione, in relazione con i beni di cui all’allegato 3 numero 4 concordati in via contrattuale prima del 29 marzo 2023 ed eseguiti entro il 27 aprile 2023;
 - f.[^35-20] la fornitura di finanziamenti o di assistenza finanziaria in relazione con i beni di cui di cui all’allegato 3 numero 4 concordati prima del 29 marzo 2023 ed eseguiti entro il 27 aprile 2023.[^35-21]
 
-<sup>21</sup> e <sup>23</sup>...[^35-22]
+<sup>21</sup> e <sup>23</sup>…[^35-22]
 
 <sup>24</sup>
 

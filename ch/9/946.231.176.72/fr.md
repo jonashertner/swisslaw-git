@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: fr
-version: 2023-09-26
+version: 2023-09-30
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20230926/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20230926-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20230926/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20230930/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20230930-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20230930/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures en lien avec la situation en Ukraine
 
-du 4 mars 2022 (État le 26 septembre 2023)
+du 4 mars 2022 (État le 30 septembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -605,20 +605,19 @@ Les interdictions prévues aux al. 1 et 2 ne s’appliquent pas:
 
 <sup>1</sup> L’importation, le transport et l’achat des produits sidérurgiques visés à l’annexe 17 originaires ou provenant de la Fédération de Russie sont interdits.
 
-<sup>2</sup> …[^14a-2]
+<sup>2</sup> L’importation, le transport et l’achat de produits sidérurgiques visés à l’annexe 17 qui ont fait l’objet de transformations dans un État tiers au moyen de produits sidérurgiques originaires ou provenant de la Fédération de Russie sont interdits.
 
 <sup>3</sup> La fourniture, directe ou indirecte, d’une assistance technique, de services de courtage, de moyens financiers ou d’une aide financière, y compris les produits financiers dérivés, ainsi que de produits d’assurance et de réassurance en rapport avec les activités visées aux al. 1 et 2 est interdite.
 
-<sup>4</sup> Les interdictions prévues à l’al. 1 ne s’appliquent pas à l’achat de biens faisant partie des quotas de volume d’importation fixés par l’Union européenne ni à l’importation, au transit et au transport de ces biens en Suisse ou par la Suisse.[^14a-3]
+<sup>4</sup> Les interdictions prévues à l’al. 1 ne s’appliquent pas à l’achat de biens faisant partie des quotas de volume d’importation fixés par l’Union européenne ni à l’importation, au transit et au transport de ces biens en Suisse ou par la Suisse.[^14a-2]
 
-<sup>4bis</sup> Les interdictions prévues à l’al. 2 ne s’appliquent pas à l’achat de biens faisant partie des quotas de volume d’importation fixés par l’Union européenne ni à l’importation, au transit et au transport de ces biens en Suisse ou par la Suisse, pour autant que, au moment de l’importation, une preuve du pays d’origine des intrants sidérurgiques utilisés pour la transformation de ces biens dans un pays tiers soit fournie.[^14a-4]
+<sup>4bis</sup> Les interdictions prévues à l’al. 2 ne s’appliquent pas à l’achat de biens faisant partie des quotas de volume d’importation fixés par l’Union européenne ni à l’importation, au transit et au transport de ces biens en Suisse ou par la Suisse, pour autant que, au moment de l’importation, une preuve du pays d’origine des intrants sidérurgiques utilisés pour la transformation de ces biens dans un pays tiers soit fournie.[^14a-3]
 
 <sup>5</sup> Le SECO peut autoriser des dérogations aux interdictions prévues aux al. 1 et 2, si cela est nécessaire à l’établissement, à l’exploitation, à l’entretien, à l’approvisionnement en combustible, au retraitement du combustible et à la sûreté des capacités nucléaires civiles, et à la poursuite de la conception, de la construction et de la mise en service exigées pour la réalisation d’installations nucléaires civiles, à la fourniture de matériaux précurseurs pour la production de radio-isotopes médicaux et d’applications médicales similaires, ou de technologies critiques pour la surveillance des rayonnements dans l’environnement, ainsi qu’à une coopération nucléaire civile, en particulier dans le domaine de la recherche et du développement.
 
-[^14a-1]: Introduit par le ch. I de l’O du 25 mars 2022 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^14a-2]: Entre en vigueur le 30 sept. 2023 ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^14a-3]: Nouvelle teneur selon le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^14a-4]: Introduit par le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^14a-1]: Introduit par le ch. I de l’O du 25 mars 2022 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures, sous réserve de l’al. 2, en vigueur depuis le 30 sept. 2023 ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^14a-2]: Nouvelle teneur selon le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^14a-3]: Introduit par le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 
 #### Art. 14b
 
