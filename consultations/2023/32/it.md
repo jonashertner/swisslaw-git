@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Credito d’impegno per il programma di promozione della ricerca SWEETER (SWiss research for the EnErgy Transition and Emissions Reduction) per gli anni dal 2025 al 2036
 document: Progetto posto in consultazione
 language: it

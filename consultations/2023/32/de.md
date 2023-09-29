@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verpflichtungskredit für das Forschungsförderinstrument SWEETER (SWiss research for the EnErgy Transition and Emissions Reduction) für die Jahre 2025‒2036
 document: Vernehmlassungsvorlage
 language: de
