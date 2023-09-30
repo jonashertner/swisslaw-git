@@ -4,13 +4,12 @@ number: "813.14"
 title: Verordnung über die Heilmittel und die Betäubungsmittel
 short: "Heilmittel- und Betäubungsmittelverordnung, HBV"
 language: de
-version: 2019-09-01
-valid_until: 2023-09-30
-version_adopted: 2019-04-30
+version: 2023-10-01
+version_adopted: 2023-06-06
 adopted: 2019-04-30
 in_force: 2019-09-01
 url: "https://bgs.so.ch/app/de/texts_of_law/813.14"
-pdf: "https://bgs.so.ch/api/de/versions/4851/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5396/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4851/pdf_file"
 
 (Heilmittel- und Betäubungsmittelverordnung, HBV)
 
-Vom 30.04.2019 (Stand 01.09.2019)
+Vom 30.04.2019 (Stand 01.10.2023)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -47,7 +46,7 @@ beschliesst:
 
 **Zuständigkeiten**
 
-<sup>1</sup> Der Kantonsapotheker oder die Kantonsapothekerin ist für den Vollzug des HMG[^2-1], des BetmG[^2-2] und der TAMV[^2-3] zuständig, sofern nachfolgend nichts anderes bestimmt wird.
+<sup>1</sup> Das Gesundheitsamt ist für den Vollzug des HMG[^2-1], des BetmG[^2-2] und der TAMV[^2-3] zuständig, sofern nachfolgend nichts anderes bestimmt wird.
 
 <sup>2</sup> Der Kantonsarzt oder die Kantonsärztin:
 
@@ -58,7 +57,7 @@ beschliesst:
 
 <sup>3</sup> Der Kantonstierarzt oder die Kantonstierärztin ist in den Bereichen des HMG[^2-4] und des BetmG[^2-5] bei den tierärztlichen Privatapotheken und den übrigen Einrichtungen gemäss Artikel 30 Absatz 1 TAMV[^2-6] für die Durchführung von Inspektionen zuständig.
 
-<sup>4</sup> Der Kantonsapotheker oder die Kantonsapothekerin, der Kantonsarzt oder die Kantonsärztin und der Kantonstierarzt oder die Kantonstierärztin können in ihren jeweiligen Zuständigkeitsbereichen im Rahmen des übergeordneten Rechts Richtlinien erlassen.
+<sup>4</sup> Das Gesundheitsamt, der Kantonsarzt oder die Kantonsärztin und der Kantonstierarzt oder die Kantonstierärztin können in ihren jeweiligen Zuständigkeitsbereichen im Rahmen des übergeordneten Rechts Richtlinien erlassen.
 
 [^2-1]: SR [812.21](https://db.clex.ch/link/Bund/812.21/de).
 [^2-2]: SR [812.121](https://db.clex.ch/link/Bund/812.121/de).
@@ -109,7 +108,7 @@ beschliesst:
 
 <sup>2</sup> Die Berufsausübungsbewilligung oder die Betriebsbewilligung beinhaltet die Bewilligung zur Anwendung von bestimmten, verschreibungspflichtigen Arzneimitteln durch die in Absatz 1 genannten Personen.
 
-<sup>3</sup> Der Kantonsapotheker oder die Kantonsapothekerin bestimmt auf Antrag der betroffenen Berufsorganisationen und der jeweiligen Inhaber und Inhaberinnen von Bewilligungen hin in einer Richtlinie die Arzneimittel, welche die in Absatz 1 genannten Personen im Rahmen der Berufsausübung anwenden dürfen.
+<sup>3</sup> Das Gesundheitsamt bestimmt auf Antrag der betroffenen Berufsorganisationen und der jeweiligen Inhaber und Inhaberinnen von Bewilligungen hin in einer Richtlinie die Arzneimittel, welche die in Absatz 1 genannten Personen im Rahmen der Berufsausübung anwenden dürfen.
 
 [^6-1]: SR [812.21](https://db.clex.ch/link/Bund/812.21/de).
 [^6-2]: SR [812.212.21](https://db.clex.ch/link/Bund/812.212.21/de).
@@ -152,39 +151,35 @@ beschliesst:
 
 #### § 10
 
-**Lagerung**
+**…**
 
-<sup>1</sup> Betäubungsmittel müssen diebstahlsicher aufbewahrt werden. Die gelagerte Menge an Betäubungsmitteln ist entsprechend dem aktuellen Bedarf möglichst gering zu halten.
-
-<sup>2</sup> Der Kantonsapotheker oder die Kantonsapothekerin kann im Einzelfall abweichende oder weitergehende Sicherheitsvorkehrungen anordnen, sofern Betäubungsmittel in grossen Mengen gelagert werden.
-
-### 2.3. Rezepte
+### 2.3. Verschreibungen
 
 #### § 11
 
 **Ausstellung**
 
-<sup>1</sup> Einzig Ärzte und Ärztinnen, Zahnärzte und Zahnärztinnen, Chiropraktoren und Chiropraktorinnen sowie Tierärzte und Tierärztinnen sind im Rahmen ihrer beruflichen Kompetenzen zur Ausstellung von Rezepten für Arzneimittel berechtigt.
+<sup>1</sup> Einzig Ärzte und Ärztinnen, Zahnärzte und Zahnärztinnen, Chiropraktoren und Chiropraktorinnen sowie Tierärzte und Tierärztinnen sind im Rahmen ihrer beruflichen Kompetenzen zur Verschreibung von Arzneimitteln berechtigt.
 
 #### § 12
 
-**Verschreibung**
+**Erforderliche Angaben und Gültigkeitsdauer**
 
-<sup>1</sup> Rezepte sind gültig, wenn sie nach den Vorschriften der Pharmakopöe ausgestellt werden und folgende Angaben enthalten:
+<sup>1</sup> Bei der Verschreibung von Humanarzneimitteln, von Humanarzneimitteln mit kontrollierten Substanzen und von Tierarzneimitteln sind die einschlägigen Vorschriften der VAM[^12-1], der Verordnung über die Betäubungsmittelkontrolle (Betäubungsmittelkontrollverordnung, BetmKV) vom 25. Mai 2011[^12-2] und der TAMV[^12-3] zu beachten.
 
-- a) den Namen und Vornamen der ausstellenden Person sowie deren Praxis oder Betriebsadresse in Druckschrift;
-- b) die eigenhändige Unterschrift oder die qualifizierte elektronische Signatur im Sinne von Artikel 14 Absatz 2<sup>bis</sup> des Bundesgesetzes betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Fünfter Teil: Obligationenrecht, OR) vom 30. März 1911[^12-1];
-- c) den Namen und Vornamen sowie das Geburtsdatum des Patienten oder der Patientin;
-- d) das Datum der Ausstellung;
-- e) die Art und Menge das abzugebenden Heilmittels sowie die Dosierung.
+- a) …
+- b) …
+- c) …
+- d) …
+- e) …
 
-<sup>2</sup> Rezepte für Arzneimittel sind, wenn nichts anderes verordnet wurde oder sich aus den Umständen ergibt, längstens sechs Monate, Dauerrezepte ein Jahr gültig.
+<sup>2</sup> Verschreibungen von Humanarzneimitteln ohne kontrollierte Substanzen sind, wenn nichts anderes verordnet wurde oder sich aus den Umständen ergibt, längstens sechs Monate, Dauerverschreibungen ein Jahr gültig.
 
-<sup>3</sup> Rezepte für Betäubungsmittel werden nach den Vorschriften der Pharmakopöe und der Verordnung über die Betäubungsmittelkontrolle (Betäubungsmittelkontrollverordnung, BetmKV) vom 25. Mai 2011[^12-2] ausgestellt. Sie sind nur gültig, sofern sie auf den vom Kantonsapotheker oder von der Kantonsapothekerin abgegebenen Rezeptformularen ausgestellt werden.
+<sup>3</sup> …
 
-<sup>4</sup> Rezepte für Tierarzneimittel werden nach den Vorschriften der TAMV[^12-3] ausgestellt.
+<sup>4</sup> …
 
-[^12-1]: SR [220](https://db.clex.ch/link/Bund/220/de).
+[^12-1]: SR [812.212.21](https://db.clex.ch/link/Bund/812.212.21/de).
 [^12-2]: SR [812.121.1](https://db.clex.ch/link/Bund/812.121.1/de).
 [^12-3]: SR [812.212.27](https://db.clex.ch/link/Bund/812.212.27/de).
 
@@ -192,39 +187,35 @@ beschliesst:
 
 **Ausführung**
 
-<sup>1</sup> Rezepte sind nach den Vorschriften der ausstellenden Person auszuführen. Enthält das Rezept Unstimmigkeiten, hat die Abgabestelle mit der ausstellenden Person Kontakt aufzunehmen. Hinsichtlich der Substitution von Originalpräparaten durch Generika ist Artikel 52a des Bundesgesetzes über die Krankenversicherung (KVG) vom 18. März 1994[^13-1] auch im überobligatorischen Bereich sinngemäss anwendbar.
+<sup>1</sup> Verschreibungen sind nach den Vorschriften der ausstellenden Person auszuführen. Enthält die Verschreibung Unstimmigkeiten, hat die Abgabestelle mit der ausstellenden Person Kontakt aufzunehmen. Hinsichtlich der Substitution von Originalpräparaten durch Generika ist Artikel 52a des Bundesgesetzes über die Krankenversicherung (KVG) vom 18. März 1994[^13-1] auch im überobligatorischen Bereich sinngemäss anwendbar.
 
-<sup>2</sup> Die Abgabestelle hat bei auffälligen Rezepten zu prüfen, ob dieses durch eine berechtigte Person ausgestellt wurde. Bestehen Zweifel hinsichtlich der Identität der Person, auf welche das Rezept ausgestellt worden ist, hat die Abgabestelle einen Identitätsnachweis zu verlangen.
+<sup>2</sup> Die Abgabestelle hat bei einer auffälligen Verschreibung zu prüfen, ob diese durch eine berechtigte Person ausgestellt wurde. Bestehen Zweifel hinsichtlich der Identität der Person, auf welche die Verschreibung ausgestellt worden ist, hat die Abgabestelle einen Identitätsnachweis zu verlangen.
 
-<sup>3</sup> Auf Rezepten für verschreibungspflichtige Arzneimittel sind bei jeder Abgabe der Name der Abgabestelle und das Datum der Abgabe zu vermerken.
+<sup>3</sup> Auf Verschreibungen für verschreibungspflichtige Arzneimittel sind bei jeder Abgabe der Name der Abgabestelle und das Datum der Abgabe zu vermerken.
 
 [^13-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
 
 #### § 14
 
-**Abgabe ohne Rezept**
-
-<sup>1</sup> Wer ein verschreibungspflichtiges Arzneimittel ohne Rezept im Sinne von Artikel 24 Absatz 1 Buchstabe a Ziffer 2 HMG[^14-1] abgibt, hat dies unter Angabe des Grundes zu dokumentieren.
-
-[^14-1]: SR [812.21](https://db.clex.ch/link/Bund/812.21/de).
+**…**
 
 #### § 15
 
-**Rückgabe und Zurückbehaltung der Rezepte**
+**Rückgabe und Zurückbehaltung von Verschreibungen**
 
-<sup>1</sup> Rezepte sind der überbringenden Person auf Verlangen zurückzugeben.
+<sup>1</sup> Verschreibungen sind der überbringenden Person auf Verlangen zurückzugeben.
 
-<sup>2</sup> Auffällige oder missbräuchlich verwendete Rezepte sind dem Kantonsapotheker oder der Kantonsapothekerin zuzustellen.
+<sup>2</sup> Bei einer auffälligen Verschreibung oder bei Verdacht auf missbräuchliche Verwendung ist die Verschreibung dem Gesundheitsamt oder, wenn es sich um Verschreibungen von Tierarzneimitteln handelt, dem Kantonstierarzt oder der Kantonstierärztin zuzustellen.
 
-### 3. Detailhandelsgeschäfte
+### 3. Abgabestellen
 
 ### 3.1. Allgemeine Bestimmungen
 
 #### § 16
 
-**Detailhandelsgeschäfte**
+**Bewilligungspflicht**
 
-<sup>1</sup> Folgende Einrichtungen bedürfen für die Abgabe von Arzneimitteln der Abgabekategorien A-D einer Detailhandelsbewilligung des Departements des Innern oder, bei Abgabe von Tierarzneimitteln ausserhalb von tierärztlichen Privatapotheken, des Kantonstierarztes oder der Kantonstierärztin:
+<sup>1</sup> Folgende Einrichtungen bedürfen für die Abgabe von Arzneimitteln der Abgabekategorien A-D einer Bewilligung des Departements des Innern oder, bei Abgabe von Tierarzneimitteln ausserhalb von tierärztlichen Privatapotheken, des Kantonstierarztes oder der Kantonstierärztin:
 
 - a) öffentliche Apotheken;
 - b) ärztliche, zahnärztliche und tierärztliche Privatapotheken;
@@ -242,13 +233,13 @@ beschliesst:
 
 **Räumlichkeiten und Einrichtungen**
 
-<sup>1</sup> Detailhandelsgeschäfte sind so einzurichten, dass Arzneimittel der Abgabekategorien A-D Fremdpersonen nicht zugänglich sind.
+<sup>1</sup> Abgabestellen sind so einzurichten, dass Arzneimittel der Abgabekategorien A-D Fremdpersonen nicht zugänglich sind.
 
 <sup>2</sup> Die Anforderungen an die Hygiene richten sich sinngemäss nach den Artikeln 6, 9, 10, 14 und 20 der Verordnung des EDI über die Hygiene beim Umgang mit Lebensmitteln (Hygieneverordnung EDI, HyV) vom 16. Dezember 2016[^17-1].
 
 <sup>3</sup> Öffentliche Apotheken verfügen über einen separaten Raum für Herstellungstätigkeiten und analytische Arbeiten. Sofern in Drogerien entsprechende Tätigkeiten vorgenommen werden, müssen diese ebenfalls über einen solchen Raum verfügen.
 
-<sup>4</sup> Die Baupläne für die Neueinrichtung, die Verlegung, den Umbau oder für wesentliche Veränderungen von Detailhandelsgeschäften sind dem Departement des Innern oder, sofern es sich um Detailhandelsgeschäfte handelt, die Tierarzneimittel abgeben, dem Kantonstierarzt oder der Kantonstierärztin zur vorgängigen Begutachtung einzureichen.
+<sup>4</sup> Die Baupläne für die Neueinrichtung, die Verlegung, den Umbau oder für wesentliche Veränderungen von Abgabestellen sind dem Departement des Innern oder, sofern es sich um Abgabestellen handelt, die Tierarzneimittel abgeben, dem Kantonstierarzt oder der Kantonstierärztin zur vorgängigen Begutachtung einzureichen.
 
 [^17-1]: SR [817.024.1](https://db.clex.ch/link/Bund/817.024.1/de).
 
@@ -278,13 +269,24 @@ beschliesst:
 
 <sup>1</sup> Arzneimittel der Abgabekategorien A-D sind getrennt von anderen Waren aufzubewahren.
 
-<sup>2</sup> Detailhandelsgeschäfte lagern keine Arzneimittel, zu deren Abgabe oder Verarbeitung sie nicht befugt sind. Die Rücknahme von Arzneimitteln zwecks fachgerechter Entsorgung ist zulässig.
+<sup>2</sup> Abgabestellen lagern keine Arzneimittel, zu deren Abgabe oder Verarbeitung sie nicht befugt sind. Die Rücknahme von Arzneimitteln zwecks fachgerechter Entsorgung ist zulässig.
+
+<sup>3</sup> Die Aufbewahrung von kontrollierten Substanzen richtet sich nach Artikel 54 BetmKV[^20-1]. Das Gesundheitsamt und der Kantonstierarzt oder die Kantonstierärztin können im Einzelfall weitergehende Sicherheitsvorkehrungen verlangen, sofern kontrollierte Substanzen in grösseren Mengen gelagert werden.
+
+[^20-1]: SR [812.121.1](https://db.clex.ch/link/Bund/812.121.1/de).
 
 #### § 21
 
-**Aufbewahrung**
+**Belege**
 
-<sup>1</sup> Rechnungen, welche Arzneimittel betreffen, müssen fünf Jahre aufbewahrt werden. Die einzelnen Rechnungspositionen müssen vollständig ersichtlich sein.
+<sup>1</sup> Belege, die Arzneimittel betreffen, müssen fünf Jahre in der Abgabestelle aufbewahrt werden. Die einzelnen Positionen müssen vollständig ersichtlich sein.
+
+<sup>2</sup> Werden die Belege ausschliesslich in elektronischer Form aufbewahrt, müssen die Eintragungen datiert und unveränderbar gespeichert werden.
+
+<sup>3</sup> Die Aufbewahrung von Belegen betreffend Tierarzneimittel und kontrollierte Substanzen richtet sich nach Artikel 29 TAMV[^21-1] und den Artikeln 62 ff. BetmKV[^21-2].
+
+[^21-1]: SR [812.212.27](https://db.clex.ch/link/Bund/812.212.27/de).
+[^21-2]: SR [812.121.1](https://db.clex.ch/link/Bund/812.121.1/de).
 
 ### 3.2. Öffentliche Apotheken und Drogerien
 
@@ -296,12 +298,13 @@ beschliesst:
 
 <sup>2</sup> Als gesamtverantwortliche Leitungsperson einer öffentlichen Apotheke ist ein Apotheker oder eine Apothekerin mit einer Berufsausübungsbewilligung zu bezeichnen.
 
-<sup>3</sup> Apotheker und Apothekerinnen, die über die entsprechenden Fachkenntnisse verfügen, sind nach vorgängiger Meldung beim Kantonsapotheker oder bei der Kantonsapothekerin zudem berechtigt:
+<sup>3</sup> Apotheker und Apothekerinnen, die über die entsprechenden Fachkenntnisse verfügen, sind nach vorgängiger Meldung beim Gesundheitsamt zudem berechtigt:
 
 - a) Ärzte und Ärztinnen, Patienten und Patientinnen sowie Kunden und Kundinnen in Fragen betreffend die Förderung und Erhaltung der Gesundheit und die Verhütung von Krankheiten zu beraten;
 - b) Blutdruckmessungen vorzunehmen sowie Stoffwechselparameter und Lipide zu bestimmen;
 - c) an Personen, welche das 16. Altersjahr vollendet haben und kein impfspezifisches Gesundheitsrisiko, wie insbesondere Schwangerschaft, aufweisen, ohne ärztliche Verschreibungen folgende Impfungen vorzunehmen:
   - 1\. Impfungen gegen Grippe;
+  - 1<sup>bis</sup>. Impfungen gegen Covid-19;
   - 2\. Impfungen gegen Diphtherie, Tetanus, Pertussis und Polio;
   - 3\. Impfungen gegen Frühsommer-Meningitis;
   - 4\. Impfungen gegen Hepatitis A, Hepatitis B und Hepatitis A und B;
@@ -325,7 +328,22 @@ beschliesst:
 
 <sup>3</sup> Drogisten und Drogistinnen dürfen unblutige Körperfunktionsmessungen vornehmen, sofern sie in der Lage sind, diese gemäss dem aktuellen Stand der Wissenschaft auszuführen.
 
-### 3.3. Weitere Detailhandelsgeschäfte
+#### § 23bis
+
+**Eingeschränkte Stellvertretung in Drogerien**
+
+<sup>1</sup> Auf Gesuch hin bewilligt das Gesundheitsamt einer Drogerie die eingeschränkte Stellvertretung der gesamtverantwortlichen Leitungsperson durch einen Drogisten oder eine Drogistin mit einem eidgenössischen Fähigkeitszeugnis, sofern diese oder dieser:
+
+- a) mindestens zwei Jahre in einer Drogerie praktisch tätig war;
+- b) den Stellvertretungskurs des Schweizerischen Drogistenverbandes für die befristete Übernahme einer Stellvertretung in einer Drogerie absolviert hat.
+
+<sup>2</sup> Die Bewilligung ist auf maximal zwei Jahre befristet und kann auf Gesuch hin verlängert werden.
+
+<sup>3</sup> Sie berechtigt zu Stellvertretungen während maximal 40 Prozent der Wochenöffnungszeit, höchstens jedoch während 24 Stunden pro Woche in der in der Bewilligung bezeichneten Drogerie.
+
+<sup>4</sup> Während der Dauer der Stellvertretung muss die Rücksprachemöglichkeit mit der gesamtverantwortlichen Leitungsperson gewährleistet sein.
+
+### 3.3. Weitere Abgabestellen
 
 #### § 24
 
@@ -357,11 +375,15 @@ beschliesst:
 
 #### § 27
 
-**Bewilligung zur Lagerung von Blut und Blutprodukten**
+**Bewilligung zur Lagerung von Blut und labilen Blutprodukten**
 
-<sup>1</sup> Die Bewilligung zur Lagerung von Blut und Blutprodukten wird erteilt, wenn die Voraussetzungen gemäss Artikel 34 Absatz 4 HMG[^27-1] erfüllt sind.
+<sup>1</sup> Die Bewilligung zur Führung eines Betriebs, der Blut und labile Blutprodukte nur lagert, wird erteilt, wenn:
 
-[^27-1]: SR [812.21](https://db.clex.ch/link/Bund/812.21/de).
+- a) dem Betrieb eine verantwortliche leitende Person vorsteht, welche die unmittelbare Aufsicht ausübt und über eine hinreichende fachliche Ausbildung verfügt;
+- b) geeignete Räumlichkeiten und Einrichtungen vorhanden sind;
+- c) ein geeignetes Qualitätssicherungssystem betrieben wird;
+- d) die Sicherheit der Produkte gewährleistet ist;
+- e) genügend Personal mit hinreichender fachlicher Ausbildung eingesetzt wird.
 
 ## 5. Übergangs- und Schlussbestimmungen
 
