@@ -4,11 +4,11 @@ title: "Ordonnance du 18 mai 2005 concernant la mise sur le marché et l'utilisa
 short: OPBio
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/468"
 language: fr
-version: 2022-09-01
+version: 2023-10-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20220901/fr/xml/fedlex-data-admin-ch-eli-cc-2005-468-20220901-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20231001/fr/xml/fedlex-data-admin-ch-eli-cc-2005-468-20231001-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20231001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220901/fr"
 
 (Ordonnance sur les produits biocides, OPBio)
 
-du 18 mai 2005 (État le 1<sup>er</sup> septembre 2022)
+du 18 mai 2005 (État le 1<sup>er</sup> octobre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -68,7 +68,7 @@ La présente ordonnance ne s’applique pas:
 - c. au transport des produits biocides et des articles traités par voie routière, ferrée, navigable, aérienne, ou par conduite;
 - d. aux denrées alimentaires et aux aliments pour animaux utilisés comme répulsifs ou appâts;
 - e. aux produits biocides utilisés comme auxiliaires technologiques au sens de l’art. 3, al. 2, let. i, de l’ordonnance du 26 octobre 2011 sur les aliments pour animaux (OSALA)[^1a-2] et de l’art. 2, al. 1, ch. 23, de l’ordonnance du 16 décembre 2016 sur les denrées alimentaires et les objets usuels (ODAlOUs)[^1a-3];
-- f.[^1a-4] ...
+- f.[^1a-4] …
 
 <sup>4</sup> Les art. 42 et 45 s’appliquent aux produits biocides et aux articles traités qui sont importés puis réexportés après que seul leur étiquetage a été modifié.[^1a-5]
 
@@ -344,8 +344,8 @@ On distingue les types d’autorisation suivants:
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2014, en vigueur depuis le 15 juil. 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 [^7-2]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 [^7-3]: Cf. note de bas de page relative à l’art. 1*b*, al. 3.
-[^7-4]: Nouvelle teneur selon le ch. I de l’O de l’OFSP du 23 mai 2019, en vigueur depuis le 1<sup>er</sup> juil. 2019 ([RO 2019 1927](https://fedlex.data.admin.ch/eli/oc/2019/354)).
-[^7-5]: Règlement délégué (UE) n<sup>o</sup> 1062/2014 de la Commission du 4 août 2014 relatif au programme de travail pour l’examen systématique de toutes les substances actives existantes contenues dans les produits visés dans le règlement (UE) n<sup>o</sup> 528/2012 du Parlement européen et du Conseil, JO L 294 du 10.10.2014, p. 1; modifié en dernier lieu par le règlement délégué (UE) 2019/227, JO L 37 du 8.2.2019, p. 1.
+[^7-4]: Nouvelle teneur selon le ch. I de l’O de l’OFSP du 5 sept. 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 518](https://fedlex.data.admin.ch/eli/oc/2023/518)).
+[^7-5]: Règlement délégué (UE) n<sup>o</sup> 1062/2014 de la Commission du 4 août 2014 relatif au programme de travail pour l’examen systématique de toutes les substances actives existantes contenues dans les produits visés dans le règlement (UE) n<sup>o</sup> 528/2012 du Parlement européen et du Conseil, JO L 294 du 10.10.2014, p. 1; modifié en dernier lieu par le règlement délégué (UE) 2022/825, JO L 147 du 30.5.2022, p. 3.
 [^7-6]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 [^7-7]: Cf. note de bas de page relative à l’art. 1*b*, al. 3.
 [^7-8]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
@@ -372,7 +372,7 @@ On distingue les types d’autorisation suivants:
 <tr><td>l.[^8-9] autorisation de produits biocides identiques:</td><td>1. – 10 ans pour des autorisations fondées sur une autorisation ordinaire A<sub>L</sub> – 5 ans pour des autorisations fondées sur une autorisation A<sub>L</sub> contenant une substance active dont la substitution est envisagée ou – 4 ans pour des autorisations fondées sur une autorisation A<sub>L</sub> contenant une substance active autorisée par l’art. 5, par. 2, du règlement (UE) n<sup>o</sup> 528/2012, 2. 10 ans pour les produits biocides dont l’autorisation se fonde sur une reconnaissance ou une reconnaissance de l’Union, 3. aussi longtemps que l’autorisation pour le produit de référence est valable, pour les produits biocides dont l’autorisation se fonde sur une autorisation A<sub>N</sub> ou A<sub>C</sub>.</td></tr>
 </table>
 
-<sup>2</sup> à <sup>4</sup> ...[^8-10]
+<sup>2</sup> à <sup>4</sup> …[^8-10]
 
 <sup>5</sup> Lorsque l’autorisation du produit biocide a expiré, sa mise sur le marché, sa remise aux utilisateurs finaux et son emploi à titre professionnel ou commercial sont régis par l’art. 26*a*.[^8-11]
 
@@ -911,7 +911,7 @@ Les organes d’évaluation évaluent les dossiers dans leur domaine de compéte
 - c<sup>bis</sup>.[^17-4] pour les dossiers afférents aux autorisations A<sub>N</sub>: en vue de déterminer si la substance active est adaptée à l’utilisation et au type de produit demandés; une évaluation au sens de la let. d est effectuée en cas de risque accru ou dans d’autres cas justifiés;
 - d. pour les autres dossiers: conformément à l’état des connaissances techniques et scientifiques.[^17-5]
 
-<sup>2</sup> ...[^17-6]
+<sup>2</sup> …[^17-6]
 
 <sup>3</sup> Les organes d’évaluation procèdent à une évaluation comparative au sens de l’art. 11*g* pour les produits biocides contenant des substances actives dont la substitution est envisagée.
 
@@ -1102,7 +1102,7 @@ Il modifie une autorisation sur demande justifiée du titulaire. Ce faisant, il 
 
 <sup>1</sup> Les conditions prévues à l’art. 24, al. 1 et 2, s’appliquent par analogie à la révocation.[^25-1]
 
-<sup>2</sup> ...[^25-2]
+<sup>2</sup> …[^25-2]
 
 <sup>3</sup> En accord avec les organes d’évaluation, l’organe de réception des notifications peut révoquer une autorisation de commerce parallèle si l’autorisation du produit biocide est révoquée dans l’État d’origine pour des raisons de sécurité ou d’efficacité*.*
 
@@ -1582,7 +1582,7 @@ Au lieu de figurer sur l’étiquette, les indications visées aux al. 3, let. c
 - a. sur l’emballage, ou
 - b. dans une notice explicative jointe à l’emballage.[^38-7]
 
-<sup>6</sup> ...[^38-8]
+<sup>6</sup> …[^38-8]
 
 [^38-1]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2014, en vigueur depuis le 15 juil. 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 [^38-2]: Nouvelle teneur selon le ch. I de l’O du 5 juin 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
@@ -1672,7 +1672,7 @@ La documentation comprend au minimum:
 
 <sup>3</sup> Le produit biocide ne doit être employé que pour l’usage prévu. Seuls sont admis les appareils permettant un emploi correct et ciblé du produit biocide.
 
-<sup>4</sup> ...[^41-2]
+<sup>4</sup> …[^41-2]
 
 [^41-1]: Introduit par le ch. I de l’O du 20 juin 2014, en vigueur depuis le 15 juil. 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 [^41-2]: Abrogé par le ch. I de l’O du 20 juin 2014, avec effet au 15 juil. 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
@@ -2110,8 +2110,8 @@ Annexe 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nouvelle teneur selon le ch. I de l’O de l’OFSP du 9 août 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 445](https://fedlex.data.admin.ch/eli/oc/2022/445)).
-[^annex2-lvlu1-1]: Cette annexe n’est publiée ni au RO ni au RS. Le texte de l’annexe peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/445](https://fedlex.data.admin.ch/eli/oc/2022/445) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi. La liste de l’Union des substances actives approuvées a effet dans la version du 1<sup>er</sup> sept. 2022.
+[^t-2]: Nouvelle teneur selon le ch. I de l’O de l’OFSP du 9 août 2022 ([RO 2022 445](https://fedlex.data.admin.ch/eli/oc/2022/445)). Mise à jour par le ch. II de l’O de l’OFSP du 5 sept. 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 518](https://fedlex.data.admin.ch/eli/oc/2023/518)).
+[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/518](https://fedlex.data.admin.ch/eli/oc/2023/518) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi. La liste de l’Union des substances actives approuvées a effet dans la version du 1<sup>er</sup> octobre 2023.
 
 Annexe 3[^t-3]
 

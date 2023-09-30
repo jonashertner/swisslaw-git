@@ -4,11 +4,11 @@ title: "Ordinanza del 18 maggio 2005 concernente l'immissione sul mercato e l'ut
 short: OBioc
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/468"
 language: it
-version: 2022-09-01
+version: 2023-10-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20220901/it/xml/fedlex-data-admin-ch-eli-cc-2005-468-20220901-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20231001/it/xml/fedlex-data-admin-ch-eli-cc-2005-468-20231001-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20231001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220901/it"
 
 (Ordinanza sui biocidi, OBioc)
 
-del 18 maggio 2005 (Stato 1° settembre 2022)
+del 18 maggio 2005 (Stato 1° ottobre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -345,8 +345,8 @@ Per i biocidi sono previsti i seguenti tipi di omologazione:
 [^7-1]: Nuovo testo giusta il n. I dell’O del 20 giu. 2014, in vigore dal 15 lug. 2014 ([RU 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 [^7-2]: Nuovo testo giusta il n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 [^7-3]: Cfr. nota a piè di pagina relativa all’art. 1*b* cpv. 3.
-[^7-4]: Nuovo testo giusta il n. I dell’O dell’UFSP del 23 mag. 2019, in vigore dal 1° lug. 2019 ([RU 2019 1927](https://fedlex.data.admin.ch/eli/oc/2019/354)).
-[^7-5]: Regolamento delegato (UE) n. 1062/2014 della Commissione, del 4 agosto 2014, relativo al programma di lavoro per l’esame sistematico di tutti i principi attivi contenuti nei biocidi di cui al regolamento (UE) n. 528/2012 del Parlamento europeo e del Consiglio, GU L 294 del 10.10.2014, pag. 1; modificato da ultimo dal regolamento delegato (UE) 2019/227, GU L 37 dell’8.2.2019, pag. 1.
+[^7-4]: Nuovo testo giusta il n. I dell’O dell’UFSP del 5 set. 2023, in vigore dal 1° ott. 2023 ([RU 2023 518](https://fedlex.data.admin.ch/eli/oc/2023/518)).
+[^7-5]: Regolamento delegato (UE) n. 1062/2014 della Commissione, del 4 agosto 2014, relativo al programma di lavoro per l’esame sistematico di tutti i principi attivi contenuti nei biocidi di cui al regolamento (UE) n. 528/2012 del Parlamento europeo e del Consiglio, GU L 294 del 10.10.2014, pag. 1; modificato da ultimo dal regolamento delegato (UE) 2022/825, GU L 147 del 30.5.2022, pag. 3.
 [^7-6]: Nuovo testo giusta il n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 [^7-7]: Cfr. nota a piè di pagina relativa all’art. 1*b* cpv. 3.
 [^7-8]: Nuovo testo giusta il n. I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
@@ -2106,8 +2106,8 @@ Allegato 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nuovo testo giusta il n. I dell’O dell’UFSP del 9 ago. 2022, in vigore dal 1° set. 2022 ([RU 2022 445](https://fedlex.data.admin.ch/eli/oc/2022/445)).
-[^annex2-lvlu1-1]: Questo all. non è pubblicato né nella RU. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/445](https://fedlex.data.admin.ch/eli/oc/2022/445) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando. Fa stato la versione del 1° set. 2022.
+[^t-2]: Nuovo testo giusta il n. I dell’O dell’UFSP del 9 ago. 2022 ([RU 2022 445](https://fedlex.data.admin.ch/eli/oc/2022/445)). Aggiornao dal n. II dell’O dell’UFSP del 5 set. 2023, in vigore dal 1° ott. 2023 ([RU 2023 518](https://fedlex.data.admin.ch/eli/oc/2023/518)).
+[^annex2-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/518](https://fedlex.data.admin.ch/eli/oc/2023/518) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando. Fa stato la versione del 1° ott. 2023.
 
 Allegato 3[^t-3]
 

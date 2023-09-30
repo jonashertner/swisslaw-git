@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Mai 2005 über das Inverkehrbringen von und den Umgan
 short: VBP
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/468"
 language: de
-version: 2022-09-01
+version: 2023-10-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20220901/de/xml/fedlex-data-admin-ch-eli-cc-2005-468-20220901-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20231001/de/xml/fedlex-data-admin-ch-eli-cc-2005-468-20231001-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20231001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220901/de"
 
 (Biozidprodukteverordnung, VBP)
 
-vom 18. Mai 2005 (Stand am 1. September 2022)
+vom 18. Mai 2005 (Stand am 1. Oktober 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -347,8 +347,8 @@ Für Biozidprodukte gibt es folgende Zulassungsarten:
 [^7-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 [^7-2]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 [^7-3]: Siehe Fussnote zu Art. 1*b* Abs. 3.
-[^7-4]: Fassung gemäss Ziff. I der V des BAG vom 23. Mai 2019, in Kraft seit 1. Juli 2019 ([AS 2019 1927](https://fedlex.data.admin.ch/eli/oc/2019/354)).
-[^7-5]: Delegierte Verordnung (EU) Nr. 1062/2014 der Kommission vom 4. August 2014 über das Arbeitsprogramm zur systematischen Prüfung aller in Biozidprodukten enthaltenen alten Wirkstoffe gemäss der Verordnung (EU) Nr. 528/2012 des Europäischen Parlaments und des Rates, ABl. L 294 vom 10.10.2014, S. 1; zuletzt geändert durch Delegierte Verordnung (EU) 2019/227, ABl. 37 vom 8.2.2019, S. 1.
+[^7-4]: Fassung gemäss Ziff. I der V des BAG vom 5. Sept. 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 518](https://fedlex.data.admin.ch/eli/oc/2023/518)).
+[^7-5]: Delegierte Verordnung (EU) Nr. 1062/2014 der Kommission vom 4. August 2014 über das Arbeitsprogramm zur systematischen Prüfung aller in Biozidprodukten enthaltenen alten Wirkstoffe gemäss der Verordnung (EU) Nr. 528/2012 des Europäischen Parlaments und des Rates, ABl. L 294 vom 10.10.2014, S. 1; zuletzt geändert durch delegierte Verordnung (EU) 2022/825, ABl. L 147 vom 30.5.2022, S. 3.
 [^7-6]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 [^7-7]: Siehe Fussnote zu Art. 1*b* Abs. 3.
 [^7-8]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
@@ -2116,8 +2116,8 @@ Anhang 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Fassung gemäss Ziff. I der V des BAG vom 9. Aug. 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 445](https://fedlex.data.admin.ch/eli/oc/2022/445)).
-[^annex2-lvlu1-1]: Dieser Anhang wird weder in der AS noch in der SR veröffentlicht. Sein Inhalt kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/445](https://fedlex.data.admin.ch/eli/oc/2022/445) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung durch Verweis eines Textteils. Die Unionsliste der genehmigten Wirkstoffe gilt in der Fassung vom 1. Sept. 2022.
+[^t-2]: Fassung gemäss Ziff. I der V des BAG vom 9. Aug. 2022 ([AS 2022 445](https://fedlex.data.admin.ch/eli/oc/2022/445)). Bereinigt gemäss Ziff. II der V des BAG vom 5. Sept. 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 518](https://fedlex.data.admin.ch/eli/oc/2023/518)).
+[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/518](https://fedlex.data.admin.ch/eli/oc/2023/518) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung durch Verweis eines Textteils. Die Unionsliste der genehmigten Wirkstoffe gilt in der Fassung vom 1. Oktober 2023.
 
 Anhang 3[^t-3]
 

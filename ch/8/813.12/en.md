@@ -4,11 +4,11 @@ title: "Ordinance of 18 May 2005 on the Placing on the Market and Handling of Bi
 short: OBP
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/468"
 language: en
-version: 2022-09-01
+version: 2023-10-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20220901/en/xml/fedlex-data-admin-ch-eli-cc-2005-468-20220901-en-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20231001/en/xml/fedlex-data-admin-ch-eli-cc-2005-468-20231001-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20231001/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Ordinance on Biocidal Products, OBP)
 
-of 18 May 2005 (Status as of 1 September 2022)
+of 18 May 2005 (Status as of 1 October 2023)
 
 The Swiss Federal Council,
 
@@ -47,7 +47,8 @@ This Ordinance regulates:
   - 1\. the types of authorisation, including the recognition of authorisations of a Member State of the European Union (EU) or the European Free Trade Association (EFTA) and of Union authorisations, and including parallel trade in biocidal products,
   - 2\. the authorisation procedures,
   - 3\. the protection and use of owners’ data from previous applications for the benefit of subsequent applicants,
-  - 4\. classification, packaging, labelling and the safety data sheet;
+
+- 4\. classification, packaging, labelling and the safety data sheet;
 
 - b. particular aspects of the handling of biocidal products and treated articles.
 
@@ -349,8 +350,8 @@ The following types of authorisation exist for biocidal products:
 [^7-1]: Amended by No I of the O of 20 June 2014, in force since 15 July 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 [^7-2]: Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 [^7-3]: See footnote to Art. 1*b* para. 3.
-[^7-4]: Amended by No I of the FOPH O of the of 23 May 2019, in force since 1 July 2019 AS **2018** 1927).
-[^7-5]: Commission Delegated Regulation (EU) No 1062/2014 of 4 August 2014 on the work programme for the systematic examination of all existing active substances contained in biocidal products referred to in Regulation (EU) No 528/2012 of the European Parliament and of the Council, OJ L 294 of 10 October 2014, p. 1; last amended by Delegated Regulation (EU) 2019/227, OJ L 37 of 8.2.2019, p. 1.
+[^7-4]: Amended by No I of the FOPH O of the of 5 Sept. 20232019, in force since 1 Oct. 2023 ([AS 2023 518](https://fedlex.data.admin.ch/eli/oc/2023/518)).
+[^7-5]: Commission Delegated Regulation (EU) No 1062/2014 of 4 August 2014 on the work programme for the systematic examination of all existing active substances contained in biocidal products referred to in Regulation (EU) No 528/2012 of the European Parliament and of the Council, OJ L 294 of 10 October 2014, p. 1; last amended by Delegated Regulation (EU) 2022/825, OJ L 147 of 30.5.2022, p. 3.
 [^7-6]: Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 [^7-7]: See footnote to Art. 1*b* para. 3.
 [^7-8]: Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
@@ -558,11 +559,12 @@ A biocidal product shall not be authorised for placing on the market for use by 
 
 **Exceptions to the requirements**[^11e-1]
 
-<sup>1</sup> A biocidal product which does not fully meet the conditions specified in Article 11 paragraph 1 letter a numbers 3 and 4 or which has the properties specified in Article 11*d* letter c may be authorised in exceptional cases where not authorising the biocidal product would result in disproportionate negative impacts for society when compared to the risks to human health, animal health or the environment arising from the use of the biocidal product under the conditions laid down in the authorisation.
+<sup>1</sup> A biocidal product which does not fully meet the conditions specified in Article 11 paragraph 1 letter a numbers 3 and 4 or which has the properties specified in Article 11*d* letter b[^11e-2] may be authorised in exceptional cases where not authorising the biocidal product would result in disproportionate negative impacts for society when compared to the risks to human health, animal health or the environment arising from the use of the biocidal product under the conditions laid down in the authorisation.
 
 <sup>2</sup> The use of a biocidal product authorised in accordance with paragraph 1 shall be subject to appropriate risk mitigation measures to ensure that exposure of humans and the environment to that biocidal product is minimised.
 
 [^11e-1]: Inserted by No I of the O of 20 June 2014, in force since 15 July 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+[^11e-2]: The reference was amended on 1 March 2018 in application of Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 
 #### Art. 11f
 
@@ -2112,8 +2114,8 @@ Annex 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Amended by No I of the FOPH O of 9 Aug. 20212 in force since 1 Sept. 2022 ([AS 2022 445](https://fedlex.data.admin.ch/eli/oc/2022/445)).
-[^annex2-lvlu1-1]: This Annex is not published in either the AS or the SR. Its content is available at: https://fedlex.data.admin.ch/eli/oc/2022/445 &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung durch Verweis eines Textteils. The Union list of approved active substances applies in its version of 1 Sept. 2022.
+[^t-2]: Amended by No I of the FOPH O of 9 Aug. 2022 ([AS 2022 445](https://fedlex.data.admin.ch/eli/oc/2022/445)). Revised by No II of the FOPH O of 5 Sept. 2023, in force since 1 Oct 2023 ([AS 2023 518](https://fedlex.data.admin.ch/eli/oc/2023/518)).
+[^annex2-lvlu1-1]: The content of this Annex is only published in the AS or the SR by reference. It is available at: https://fedlex.data.admin.ch/eli/oc/2022/445 &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung durch Verweis eines Textteils. The Union list of approved active substances applies in its version of 1 October 2023.
 
 Annex 3[^t-3]
 
