@@ -3,18 +3,18 @@ sr: "412.101.221.84"
 title: Ordinanza della SEFRI del 23 agosto 2012 sulla formazione professionale di base Autista di veicoli pesanti con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/658"
 language: it
-version: 2021-05-01
+version: 2023-10-01
 adopted: 2012-08-23
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/658/20210501/it/xml/fedlex-data-admin-ch-eli-cc-2012-658-20210501-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/658/20210501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/658/20231001/it/xml/fedlex-data-admin-ch-eli-cc-2012-658-20231001-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/658/20231001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Autista di veicoli pesanti con attestato federale di capacità (AFC)
 
-del 23 agosto 2012 (Stato 1° maggio 2021) (Stato 1° maggio 2021)
+del 23 agosto 2012 (Stato 1° ottobre 2023)
 
 <table>
 <tr><td>73304</td><td>Autista di veicoli pesanti AFC Strassentransportfachfrau EFZ/ Strassentransportfachmann EFZ Conductrice de véhicules lourd CFC/ Conducteur de véhicules lourds CFC</td></tr>
@@ -24,7 +24,7 @@ La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
 
 visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4 capoverso 4 dell’ordinanza del 28 settembre 2007[^ingress-3] sulla protezione dei giovani lavoratori (OLL 5),
 
-ordina:*[^ingress-4]*
+ordina:[^ingress-4]
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
@@ -197,14 +197,14 @@ I requisiti professionali minimi ai sensi dell’articolo 44 capoverso 1 lettere
 
 <sup>2</sup> *...*[^11-1]
 
-<sup>3</sup> Le lezioni di guida si svolgono conformemente all’articolo 15 della legge del 19 dicembre 1958[^11-2] sulla circolazione stradale e all’articolo 150 capoverso 6 dell’ordinanza del 27 ottobre 1976[^11-3] sull’ammissione alla circolazione (OAC).[^11-4]
+<sup>3</sup> Le lezioni di guida si svolgono conformemente all’articolo 15 della legge del 19 dicembre 1958[^11-2] sulla circolazione stradale e agli articoli 6 capoversi 2 e 2<sup>ter</sup> nonché 17 capoverso 5 lettera c dell’ordinanza del 27 ottobre 1976[^11-3] sull’ammissione alla circolazione.[^11-4]
 
 <sup>4</sup> I costi per le lezioni di guida e per il primo esame di guida di ogni categoria sono a carico dell’azienda di tirocinio.
 
 [^11-1]: Abrogato dal n. I dell’O della SEFRI del 26 mar. 2021, con effetto dal 1° mag. 2021 ([RU 2021 179](https://fedlex.data.admin.ch/eli/oc/2021/179)).
 [^11-2]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
 [^11-3]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
-[^11-4]: Nuovo testo giusta il n. I dell’O della SEFRI del 26 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 179](https://fedlex.data.admin.ch/eli/oc/2021/179)).
+[^11-4]: Nuovo testo giusta il n. I dell’O della SEFRI del 10 ago. 2023, in vigore dal 1° ott. 2023 ([RU 2023 471](https://fedlex.data.admin.ch/eli/oc/2023/471)).
 
 #### Art. 12
 

@@ -3,18 +3,18 @@ sr: "412.101.221.84"
 title: Verordnung des SBFI vom 23. August 2012 über die berufliche Grundbildung Strassentransportfachfrau/Strassentransportfachmann mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/658"
 language: de
-version: 2021-05-01
+version: 2023-10-01
 adopted: 2012-08-23
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/658/20210501/de/xml/fedlex-data-admin-ch-eli-cc-2012-658-20210501-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/658/20210501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/658/20231001/de/xml/fedlex-data-admin-ch-eli-cc-2012-658-20231001-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/658/20231001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Strassentransportfachfrau/Strassentransportfachmann mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 23. August 2012 (Stand am 1. Mai 2021)
+vom 23. August 2012 (Stand am 1. Oktober 2023)
 
 <table>
 <tr><td>73304</td><td>Strassentransportfachfrau EFZ/ Strassentransportfachmann EFZ Conductrice de véhicules lourds CFC/ Conducteur de véhicules lourds CFC Autista di veicoli pesanti AFC</td></tr>
@@ -24,7 +24,7 @@ Das Staatssekretariat für Bildung, Forschung und Innovation (SBFI),
 
 gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1], auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV) und auf Artikel 4 Absatz 4 der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-3] (ArGV 5),
 
-verordnet:*[^ingress-4]*
+verordnet:[^ingress-4]
 
 [^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
@@ -195,16 +195,16 @@ Die fachlichen Mindestanforderungen im Sinne von Artikel 44 Absatz 1 Buchstaben 
 
 <sup>1</sup> Der Lehrbetrieb ist für den Fahrunterricht der Lernenden verantwortlich.
 
-<sup>2</sup> ...[^11-1]
+<sup>2</sup> …[^11-1]
 
-<sup>3</sup> Lernfahrten richten sich nach Artikel 15 des Strassenverkehrsgesetzes vom 19. Dezember 1958[^11-2] und Artikel 150 Absatz 6 der Verkehrszulassungsverordnung vom 27. Oktober 1976[^11-3].[^11-4]
+<sup>3</sup> Lernfahrten richten sich nach Artikel 15 des Strassenverkehrsgesetzes vom 19. Dezember 1958[^11-2] sowie nach den Artikeln 6 Absätze 2 und 2<sup>ter</sup> sowie 17 Absatz 5 Buchstabe c der Verkehrszulassungsverordnung vom 27. Oktober 1976[^11-3].[^11-4]
 
 <sup>4</sup> Die Kosten für den Fahrunterricht sowie die erste Führerprüfung jeder Kategorie übernimmt der Lehrbetrieb.
 
 [^11-1]: Aufgehoben durch Ziff. I der V des SBFI vom 26. März 2021, mit Wirkung seit 1. Mai 2021 ([AS 2021 179](https://fedlex.data.admin.ch/eli/oc/2021/179)).
 [^11-2]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
 [^11-3]: [SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
-[^11-4]: Fassung gemäss Ziff. I der V des SBFI vom 26. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 179](https://fedlex.data.admin.ch/eli/oc/2021/179)).
+[^11-4]: Fassung gemäss Ziff. I der V des SBFI vom 10. Aug. 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 471](https://fedlex.data.admin.ch/eli/oc/2023/471)).
 
 #### Art. 12
 
