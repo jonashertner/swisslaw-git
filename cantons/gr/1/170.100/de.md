@@ -4,13 +4,13 @@ number: "170.100"
 title: Gesetz über den Grossen Rat
 short: Grossratsgesetz; GRG
 language: de
-version: 2021-10-01
-valid_until: 2023-09-30
-version_adopted: 2021-02-16
+version: 2023-10-01
+valid_until: 2024-12-31
+version_adopted: 2022-06-14
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3191/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3314/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3191/pdf_file"
 
 (Grossratsgesetz; GRG)
 
-Vom 08.12.2005 (Stand 01.10.2021)
+Vom 08.12.2005 (Stand 01.10.2023)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -520,7 +520,7 @@ beschliesst:
 
 **Wahlbefugnisse**
 
-<sup>1</sup> Der Grosse Rat wählt gemäss Kantonsverfassung[^57-1] seine Organe und Kommissionen, das Präsidium der Regierung, die Mitglieder des Kantonsgerichtes und des Verwaltungsgerichtes sowie weitere Amtsinhaberinnen und -inhaber nach Massgabe der Gesetzgebung. Dabei sind die Fraktionen in der Regel entsprechend ihrer Stärke zu berücksichtigen.
+<sup>1</sup> Der Grosse Rat wählt gemäss Kantonsverfassung[^57-1] seine Organe und Kommissionen, das Präsidium der Regierung, die Mitglieder des Obergerichts und des Justizgerichts sowie weitere Amtsinhaberinnen und -inhaber nach Massgabe der Gesetzgebung. Dabei sind die Fraktionen in der Regel entsprechend ihrer Stärke zu berücksichtigen, soweit gesetzlich nichts anderes vorgesehen ist.
 
 [^57-1]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
 

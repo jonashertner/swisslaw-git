@@ -4,13 +4,13 @@ number: "170.100"
 title: Lescha davart il cussegl grond
 short: LCG
 language: rm
-version: 2021-10-01
-valid_until: 2023-09-30
-version_adopted: 2021-02-16
+version: 2023-10-01
+valid_until: 2024-12-31
+version_adopted: 2022-06-14
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3191/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3314/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3191/pdf_file"
 
 (LCG)
 
-dals 08-12-2005 (versiun dals 01-10-2021)
+dals 08-12-2005 (versiun dals 01-10-2023)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -524,7 +524,7 @@ concluda:
 
 **Cumpetenzas electoralas**
 
-<sup>1</sup> Il cussegl grond elegia tenor la constituziun chantunala[^57-1] ses organs e sias cumissiuns, il presidi da la regenza, las commembras ed ils commembers da la dretgira chantunala e da la dretgira administrativa sco er ulteriuras titularas ed ulteriurs titulars d'uffizis a norma da la legislaziun, e quai per regla cun resguardar las fracziuns confurm a lur fermezza.
+<sup>1</sup> Il Cussegl grond elegia tenor la Constituziun chantunala[^57-1] ses organs e sias cumissiuns, il presidi da la Regenza, las commembras ed ils commembers da la Dretgira superiura e da la Dretgira da giustia sco er ulteriuras titularas ed ulteriurs titulars d'uffizis a norma da la legislaziun. Quai fa el per regla cun resguardar las fracziuns confurm a lur fermezza, uschenavant che la lescha na prevesa betg insatge auter.
 
 [^57-1]: DG [110.100](https://www.gr-lex.gr.ch/data/110.100/rm)
 

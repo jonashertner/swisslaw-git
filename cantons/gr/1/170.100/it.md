@@ -4,13 +4,13 @@ number: "170.100"
 title: Legge sul Gran Consiglio
 short: LGC
 language: it
-version: 2021-10-01
-valid_until: 2023-09-30
-version_adopted: 2021-02-16
+version: 2023-10-01
+valid_until: 2024-12-31
+version_adopted: 2022-06-14
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3191/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3314/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3191/pdf_file"
 
 (LGC)
 
-del 08.12.2005 (stato 01.10.2021)
+del 08.12.2005 (stato 01.10.2023)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -520,7 +520,7 @@ decide:
 
 **Competenze d'elezione**
 
-<sup>1</sup> A norma della Costituzione cantonale[^57-1] il Gran Consiglio nomina i suoi organi e le sue commissioni, la presidenza del Governo, i membri del Tribunale cantonale e del Tribunale amministrativo, nonché altri titolari di cariche ufficiali, conformemente alla legge. Al riguardo occorre di regola tenere conto delle frazioni in proporzione alla loro consistenza numerica.
+<sup>1</sup> A norma della Costituzione cantonale[^57-1] il Gran Consiglio nomina i suoi organi e le sue commissioni, la presidenza del Governo, i giudici del Tribunale d'appello e del Tribunale della magistratura nonché altri titolari di cariche ufficiali conformemente alla legge. Al riguardo occorre di regola tenere conto delle frazioni in proporzione alla loro consistenza numerica, per quanto la legge non preveda nulla di diverso.
 
 [^57-1]: CSC [110.100](https://www.gr-lex.gr.ch/data/110.100/it)
 
