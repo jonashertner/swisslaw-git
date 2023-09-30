@@ -4,10 +4,10 @@ number: "631.53"
 title: Organisationsverordnung des Steuerrekursgerichts (OV StRG)
 short: OV StRG
 language: de
-nachtrag: "71"
-valid_until: 2023-10-01
+version: "2023-10-01"
+nachtrag: "122"
 adopted: 2010-11-12
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-631_53-2010_11_12-2011_01_01-071.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-631_53-2010_11_12-2011_01_01-122.html"
 text: pdf
 ---
 
@@ -19,29 +19,41 @@ text: pdf
 
 Das Verwaltungsgericht,
 
-gestützt auf § 118 lit. a des Steuergesetzes vom 8. Juni 1997[^t-3],
+gestützt auf § 118 lit. a des Steuergesetzes vom 8. Juni 1997 (StG)[^t-3],[^t-4]
 
 beschliesst:
 
 [^t-1]: OS 65, 921. Begründung siehe ABl 2010, 2681.
 [^t-2]: Inkrafttreten: 1. Januar 2011.
 [^t-3]: LS 631.1.
+[^t-4]: Fassung gemäss B des Verwaltungsgerichts vom 11. Juli 2023 (OS 78, 324; ABl 2023-07-21). In Kraft seit 1. Oktober 2023.
 
 ### A. Zentrale Organe
 
-#### § 1
-
 **Plenum a. Zusammensetzung und Beschlussfassung**
 
-<sup>1</sup> Das Plenum besteht aus der Gerichtspräsidentin oder dem Gerichtspräsidenten und den weiteren Mitgliedern gemäss § 113 Abs. 2 StG. Die Gerichtspräsidentin oder der Gerichtspräsident führt den Vorsitz.
+§ 1.[^hAZentraleOrgane-1] <sup>1</sup> Das Plenum besteht aus den Mitgliedern gemäss § 113 Abs. 2 StG.
 
-<sup>2</sup> Das Plenum ist beschlussfähig, wenn mehr als die Hälfte der Mitglieder anwesend ist.
+<sup>2</sup> In der Regel führt das Gerichtspräsidium oder das Gerichtsvizepräsidium den Vorsitz.
 
-<sup>3</sup> Jedes Mitglied ist zur Stimmabgabe verpflichtet. Bei Stimmengleichheit zählt die Stimme der bzw. des Vorsitzenden doppelt.
+<sup>3</sup> Das Plenum ist beschlussfähig, wenn mehr als die Hälfte der Mitglieder anwesend ist.
+
+<sup>4</sup> Jedes Mitglied ist zur Stimmabgabe verpflichtet. Bei Stimmengleichheit zählt die Stimme der bzw. des Vorsitzenden doppelt.
+
+**b. Co-Präsidien**
+
+§ 1 a.[^hAZentraleOrgane-2] <sup>1</sup> Das Gerichtspräsidium kann durch ein einzelnes Mitglied oder im Co-Präsidium ausgeübt werden.
+
+<sup>2</sup> Analoges gilt auf Stufe der Abteilungspräsidien.
+
+<sup>3</sup> Die Co-Präsidien einigen sich über die Aufgabenteilung, die Vorsitz- und Stichentscheidkompetenz sowie über die Ausübung des Stimmrechts in der Geschäftsleitung; sie vertreten sich gegenseitig.
+
+[^hAZentraleOrgane-1]: Fassung gemäss B des Verwaltungsgerichts vom 11. Juli 2023 (OS 78, 324; ABl 2023-07-21). In Kraft seit 1. Oktober 2023.
+[^hAZentraleOrgane-2]: Eingefügt durch B des Verwaltungsgerichts vom 11. Juli 2023 (OS 78, 324; ABl 2023-07-21). In Kraft seit 1. Oktober 2023.
 
 #### § 2
 
-**b. Konstituierung**
+**c. Konstituierung**
 
 <sup>1</sup> Das Plenum konstituiert sich jeweils bei Beginn und auf Mitte einer Amtsperiode. Bei Bedarf kann es sich auch in der Zwischenzeit neu konstituieren.
 
@@ -53,29 +65,35 @@ beschliesst:
 
 - c. die Zuweisung seiner Mitglieder an die Abteilungen.
 
-<sup>3</sup> Es wählt bei seiner Konstituierung:
-
-- a. die Gerichtspräsidentin oder den Gerichtspräsidenten als Abteilungspräsidentin oder Abteilungspräsidenten und die weiteren Abteilungspräsidentinnen und Abteilungspräsidenten,
-
-- b. aus dem Kreis der weiteren Abteilungspräsidentinnen und Abteilungspräsidenten die Stellvertreterin oder den Stellvertreter der Gerichtspräsidentin oder des Gerichtspräsidenten,
-
-- c. bei einer geraden Anzahl von Abteilungen aus dem Kreis seiner Mitglieder ein zusätzliches Geschäftsleitungsmitglied.
-
 **1**
 
-- 1\. 1. 11 - 71 § 3. <sup>1</sup> Das Plenum erlässt die Geschäftsordnung des Steuerrekursgerichts.
+1.10. 23 - 122
 
-**c. Geschäftsordnung**
+<sup>3</sup> Es wählt bei seiner Konstituierung:[^2-1] a. das Gerichtspräsidium,
+
+- b. das Gerichtsvizepräsidium; im Fall eines Co-Gerichtspräsidiums kann das Plenum auf die Wahl eines Gerichtsvizepräsidiums verzichten,
+
+- c. die Abteilungspräsidien,
+
+- d. bei einer geraden Anzahl stimmberechtigter Geschäftsleitungsmitglieder gemäss § 5 Abs. 2 aus dem Kreis der Gerichtsmitglieder ein zusätzliches Geschäftsleitungsmitglied.
+
+[^2-1]: Fassung gemäss B des Verwaltungsgerichts vom 11. Juli 2023 (OS 78, 324; ABl 2023-07-21). In Kraft seit 1. Oktober 2023.
+
+#### § 3
+
+**d. Geschäftsordnung5**
+
+<sup>1</sup> Das Plenum erlässt die Geschäftsordnung des Steuerrekursgerichts.
 
 <sup>2</sup> Die Geschäftsordnung regelt insbesondere die Zuständigkeit zur Vornahme von Mitarbeitendenbeurteilungen und kann dabei von § 7 dieser Verordnung abweichen
 
-**d. Weitere Kompetenzen**
+**e. Weitere Kompetenzen5**
 
 § 4. <sup>1</sup> Das Plenum beschliesst über:
 
 - a. Stellungnahmen an das Verwaltungsgericht und andere Behörden, soweit es um Angelegenheiten geht, welche für die Organisation und den Geschäftsgang des Gerichts von grundlegender Bedeutung sind,
 
-- b. den Vorschlag von Ersatzmitgliedern gemäss § 113 Abs. 2 Satz 2 StG[^2-1],
+- b. den Vorschlag von Ersatzmitgliedern gemäss § 113 Abs. 2 Satz 2 StG[^3-1],
 
 - c. den Einsatz von Ersatzmitgliedern mit zeitlich bestimmtem Pensum unter Vorbehalt der Genehmigung durch das Verwaltungsgericht,
 
@@ -83,21 +101,30 @@ beschliesst:
 
 <sup>2</sup> Es ernennt die Leitende Gerichtsschreiberin oder den Leitenden Gerichtsschreiber sowie deren bzw. dessen Stellvertreterin oder Stellvertreter.
 
-[^2-1]: LS 631.1.
-
-#### § 5
-
 **Geschäftsleitung a. Zusammensetzung**
 
-<sup>1</sup> Die Geschäftsleitung besteht aus:
+§ 5.[^3-2] <sup>1</sup> In der Geschäftsleitung sind vertreten:
 
-- a. der Gerichtspräsidentin oder dem Gerichtspräsidenten,
+- a. das Gerichtspräsidium,
 
-- b. den weiteren Abteilungspräsidentinnen und Abteilungspräsidenten,
+- b. das Gerichtsvizepräsidium,
 
-- c. dem nach § 2 Abs. 3 lit. c gewählten zusätzlichen Mitglied.
+- c. die Abteilungspräsidien; bei einem Co-Abteilungspräsidium wird ein Mitglied desselben in die Geschäftsleitung entsandt,
 
-<sup>2</sup> Die Gerichtspräsidentin oder der Gerichtspräsident führt den Vorsitz.
+- d. das nach Massgabe von § 2 Abs. 3 lit. d gewählte zusätzliche Geschäftsleitungsmitglied.
+
+<sup>2</sup> In der Geschäftsleitung verfügen über je ein Stimmrecht:
+
+- a. das Gerichtspräsidium sowie das Gerichtsvizepräsidium,
+
+- b. die Abteilungspräsidien, sofern diesen nicht bereits ein Stimmrecht gemäss lit. a zusteht,
+
+- c. das nach Massgabe von § 2 Abs. 3 lit. d gewählte zusätzliche Geschäftsleitungsmitglied.
+
+<sup>3</sup> Der Vorsitz obliegt einem Mitglied aus dem Gerichtspräsidium.
+
+[^3-1]: LS 631.1.
+[^3-2]: Fassung gemäss B des Verwaltungsgerichts vom 11. Juli 2023 (OS 78, 324; ABl 2023-07-21). In Kraft seit 1. Oktober 2023.
 
 #### § 6
 
@@ -117,15 +144,15 @@ beschliesst:
 
 <sup>3</sup> Die Geschäftsleitung kann in ihre Kompetenz fallende Geschäfte von besonderer Tragweite dem Plenum überweisen.
 
-#### § 7
+**Gerichtspräsidium**
 
-**Gerichtspräsident/in**
+§ 7.[^6-1] <sup>1</sup> Das Gerichtspräsidium bzw. das Gerichtsvizepräsidium vertritt das Gericht gegen aussen und gewährleistet die Zusammenarbeit mit anderen Behörden. Diese Befugnis kann fall- oder bereichsweise einem Abteilungspräsidium oder der Leitenden Gerichtsschreiberin oder dem Leitenden Gerichtsschreiber übertragen werden.
 
-<sup>1</sup> Die Gerichtspräsidentin oder der Gerichtspräsident vertritt das Gericht gegen aussen und gewährleistet die Zusammenarbeit mit anderen Behörden. Sie oder er kann diese Befugnis fall- oder bereichsweise einer Abteilungspräsidentin oder einem Abteilungspräsidenten oder der Leitenden Gerichtsschreiberin oder dem Leitenden Gerichtsschreiber übertragen.
+<sup>2</sup> Dem Gerichtspräsidium bzw. dem Gerichtsvizepräsidium unterstehen die Leitende Gerichtsschreiberin oder der Leitende Gerichtsschreiber sowie die Zentralkanzlei.
 
-<sup>2</sup> Der Gerichtspräsidentin oder dem Gerichtspräsidenten unterstehen die Leitende Gerichtsschreiberin oder der Leitende Gerichtsschreiber sowie die Zentralkanzlei.
+<sup>3</sup> Das Gerichtspräsidium bzw. das Gerichtsvizepräsidium entscheidet über Justizverwaltungsgeschäfte von geringer Bedeutung. Diese Befugnis kann in Einzelfällen der Leitenden Gerichtsschreiberin oder dem Leitenden Gerichtsschreiber übertragen werden.
 
-<sup>3</sup> Sie oder er entscheidet über Justizverwaltungsgeschäfte von geringer Bedeutung. Sie oder er kann diese Befugnis in Einzelfällen der Leitenden Gerichtsschreiberin oder dem Leitenden Gerichtsschreiber übertragen.
+[^6-1]: Fassung gemäss B des Verwaltungsgerichts vom 11. Juli 2023 (OS 78, 324; ABl 2023-07-21). In Kraft seit 1. Oktober 2023.
 
 #### § 8
 
@@ -137,7 +164,9 @@ beschliesst:
 
 - b. Unterstützung der Gerichtspräsidentin oder des Gerichtspräsidenten bei der Vorbereitung der Geschäfte des Plenums und der Geschäftsleitung,
 
-- c. Teilnahme an den Sitzungen des Plenums und der Geschäftsleitung mit Antragsrecht und beratender Stimme,
+**3**
+
+1.10. 23 - 122 c. Teilnahme an den Sitzungen des Plenums und der Geschäftsleitung mit Antragsrecht und beratender Stimme,
 
 - d. Leitung der Kanzlei, wobei sie oder er insbesondere für die Personaladministration, die Finanzplanung und das Rechnungswesen, die EDV, die Dokumentation und die Archivierung verantwortlich ist,
 
@@ -153,10 +182,6 @@ beschliesst:
 
 - b. mit Zustimmung der Geschäftsleitung ganze Geschäftsbereiche.
 
-**3**
-
-- 1\. 1. 11 - 71
-
 ### B. Abteilungen und Ersatzmitglieder
 
 #### § 9
@@ -167,19 +192,17 @@ beschliesst:
 
 <sup>2</sup> Die übrigen Geschäfte werden durch Einzelrichterinnen und Einzelrichter behandelt.
 
-#### § 10
+**b. Präsidium**
 
-**b. Präsident/in**
+§ 10.[^9-1] Den Abteilungen stehen die gemäss § 2 Abs. 3 lit. c gewählten Präsidien vor.
 
-Jeder Abteilung steht die Gerichtspräsidentin oder der Gerichtspräsident oder ein anderes gemäss § 2 Abs. 3 lit. a gewähltes Mitglied des Steuerrekursgerichts vor.
+**c. Vizepräsidium**
 
-#### § 11
+§ 11.[^9-1] <sup>1</sup> Jede Abteilung wählt zu Beginn und auf Mitte jeder Amtsperiode sowie bei Bedarf auch in der Zwischenzeit ein Abteilungsvizepräsidium; wird das Abteilungspräsidium durch ein Co-Präsidium ausgeübt, entfällt diese Wahl.
 
-**c. Vizepräsident/in**
+<sup>2</sup> Das Abteilungsvizepräsidium vertritt das Abteilungspräsidium bei dessen Abwesenheit.
 
-<sup>1</sup> Jede Abteilung wählt zu Beginn und auf Mitte jeder Amtsperiode sowie bei Bedarf auch in der Zwischenzeit eine Abteilungsvizepräsidentin oder einen Abteilungsvizepräsidenten.
-
-<sup>2</sup> Sie oder er vertritt die Abteilungspräsidentin oder den Abteilungspräsidenten bei deren oder dessen Abwesenheit.
+[^9-1]: Fassung gemäss B des Verwaltungsgerichts vom 11. Juli 2023 (OS 78, 324; ABl 2023-07-21). In Kraft seit 1. Oktober 2023.
 
 #### § 12
 
@@ -199,47 +222,47 @@ Jeder Abteilung steht die Gerichtspräsidentin oder der Gerichtspräsident oder 
 
 <sup>1</sup> Die Abteilungen behandeln die in ihren Zuständigkeitsbereich fallenden Geschäfte
 
-<sup>2</sup> In Zweifelsfällen verständigen sich die Abteilungspräsidentinnen und Abteilungspräsidenten. Können sie sich nicht einigen, entscheidet die Gerichtspräsidentin oder der Gerichtspräsident.
-
-#### § 14
+<sup>2</sup> In Zweifelsfällen verständigen sich die Abteilungspräsidien. Können sie sich nicht einigen, entscheidet die Geschäftsleitung.[^13-1]
 
 **Prozessleitung bis zur Zuteilung**
 
-<sup>1</sup> Die Leitende Gerichtsschreiberin oder der Leitende Gerichtsschreiber bestimmt beim Eingang des Geschäfts die Gerichtsschreiberin oder den Gerichtsschreiber. Vorbehalten bleibt die abweichende Anordnung der zuständigen Abteilungspräsidentin oder des zuständigen Abteilungspräsidenten.
+§ 14.[^13-1] <sup>1</sup> Die Leitende Gerichtsschreiberin oder der Leitende Gerichtsschreiber bestimmt beim Eingang des Geschäfts die Gerichtsschreiberin oder den Gerichtsschreiber. Vorbehalten bleibt die abweichende Anordnung des zuständigen Abteilungspräsidiums.
 
-<sup>2</sup> Die Abteilungspräsidentin oder der Abteilungspräsident leitet den Prozess und erlässt die dazu erforderlichen prozessleitenden Anordnungen.
+<sup>2</sup> Das Abteilungspräsidium leitet den Prozess und erlässt die dazu erforderlichen prozessleitenden Anordnungen.
 
-<sup>3</sup> Sie oder er sorgt für eine speditive Behandlung des Prozesses.
+<sup>3</sup> Es sorgt für eine speditive Behandlung des Prozesses.
 
-<sup>4</sup> Sie oder er kann die Prozessleitung ganz oder teilweise der Gerichtsschreiberin oder dem Gerichtsschreiber übertragen.
-
-#### § 15
+<sup>4</sup> Es kann die Prozessleitung ganz oder teilweise der Gerichtsschreiberin oder dem Gerichtsschreiber übertragen.
 
 **Zuteilung**
 
-<sup>1</sup> Die Abteilungspräsidentin oder der Abteilungspräsident bestimmt a. den Spruchkörper,
+§ 15.[^13-1] <sup>1</sup> Das Abteilungspräsidium bestimmt für die Geschäftserledigung a. den Spruchkörper,
 
 - b. die Gerichtsschreiberin oder den Gerichtsschreiber,
 
 - c. aus dem Kreis von lit. a und b eine Referentin oder einen Referenten.
 
-<sup>2</sup> Den Spruchkörper besetzt sie oder er a. bei in Dreierbesetzung zu erledigenden Geschäften (Kammergeschäfte) mit Mitgliedern der Abteilung und Ersatzmitgliedern,
+<sup>2</sup> Den Spruchkörper besetzt es a. bei in Dreierbesetzung zu erledigenden Geschäften (Kammergeschäfte) mit Mitgliedern der Abteilung und Ersatzmitgliedern,
 
 - b. bei Einzelrichtergeschäften mit einem Mitglied der Abteilung.
 
-<sup>3</sup> Bei Bedarf kann sie oder er auch Mitglieder anderer Abteilungen beiziehen.
-
-#### § 16
+<sup>3</sup> Bei Bedarf können auch Mitglieder anderer Abteilungen beigezogen werden.
 
 **Prozess- und Verhandlungsleitung nach der Zuteilung**
 
-<sup>1</sup> Ist bei Kammergeschäften die Abteilungspräsidentin oder der Abteilungspräsident oder die Vizepräsidentin oder der Vizepräsident als Referentin oder Referent eingesetzt, ist sie oder er für die weitere Prozess- und Verhandlungsleitung zuständig.
+§ 16.[^13-1] <sup>1</sup> Ist bei Kammergeschäften das Abteilungspräsidium oder das Abteilungsvizepräsidium als Referentin oder Referent eingesetzt, ist dieses für die weitere Prozess- und Verhandlungsleitung zuständig.
 
-<sup>2</sup> In den übrigen Fällen bestimmt die Abteilungspräsidentin oder der Abteilungspräsident, wem die Prozess- und Verhandlungsleitung obliegt.
+<sup>2</sup> In den übrigen Fällen bestimmt das Abteilungspräsidium, wem die Prozess- und Verhandlungsleitung obliegt.
 
-<sup>3</sup> In Geschäften mit Dreierbesetzung kann die mit der Prozess- und Verhandlungsleitung betraute Person das Beweisverfahren ganz oder teilweise einer Abordnung oder einem einzelnen Mitglied des Spruchkörpers übertragen.
+<sup>3</sup> In Geschäften mit Dreierbesetzung kann die Beweisabnahme an eines oder mehrere Mitglieder des Spruchkörpers delegiert werden. Die Einsetzung eines Mitglieds des Spruchkörpers als Referentin oder Referent schliesst in der Regel eine solche Delegation mit ein.
+
+**5**
+
+1.10. 23 - 122
 
 <sup>4</sup> Die Einzelrichterin oder der Einzelrichter oder in Kammergeschäften die mit der Prozess- und Verfahrensleitung betraute Person sorgt für eine speditive Erledigung des Prozesses.
+
+[^13-1]: Fassung gemäss B des Verwaltungsgerichts vom 11. Juli 2023 (OS 78, 324; ABl 2023-07-21). In Kraft seit 1. Oktober 2023.
 
 #### § 17
 
@@ -251,23 +274,19 @@ Jeder Abteilung steht die Gerichtspräsidentin oder der Gerichtspräsident oder 
 
 <sup>3</sup> Über offensichtlich unzulässige, offensichtlich unbegründete oder offensichtlich begründete Rechtsmittel kann bei Kammergeschäften auf dem Zirkulationsweg entschieden werden.
 
-**5**
-
-- 1\. 1. 11 - 71
-
 <sup>4</sup> Die Gerichtsschreiberin oder der Gerichtsschreiber und bei Kammergeschäften auch die Minderheit des Spruchkörpers sind berechtigt, eine abweichende Ansicht mit Begründung in das Protokoll aufnehmen zu lassen. Den Parteien wird von der Aufnahme eines Minderheitsantrages in das Protokoll Kenntnis gegeben.
+
+[^17-1]: Fassung gemäss B des Verwaltungsgerichts vom 11. Juli 2023 (OS 78, 324; ABl 2023-07-21). In Kraft seit 1. Oktober 2023.
 
 #### § 18
 
 **Urteilsredaktion**
 
-<sup>1</sup> Die Verantwortung für die fachkundige Redaktion trägt:
+<sup>1</sup> Die Verantwortung für die fachkundige Entscheidredaktion trägt:[^17-1] a. die Einzelrichterin oder der Einzelrichter,
 
-- a. die Einzelrichterin oder der Einzelrichter,
+- b. das Abteilungsvizepräsidium, sofern es bei Kammergeschäften als Referentin oder Referent eingesetzt wurde,
 
-- b. die Vizepräsidentin oder der Vizepräsident, sofern sie oder er bei Kammergeschäften als Referentin oder Referent eingesetzt wurde,
-
-- c. die Abteilungspräsidentin oder der Abteilungspräsident in allen übrigen Fällen.
+- c. das Abteilungspräsidium in allen übrigen Fällen.
 
 <sup>2</sup> Die Redaktion der Entscheide, Beschlüsse und Verfügungen erfolgt durch die Gerichtsschreiberin oder den Gerichtsschreiber auf Grundlage des Referats und der mündlichen Beratung.
 
@@ -311,7 +330,7 @@ Jeder Abteilung steht die Gerichtspräsidentin oder der Gerichtspräsident oder 
 
 #### § 22
 
-<sup>1</sup> Das Steuerrekursgericht stellt sein Personal an (§ 117 Abs.2 StG[^hEJustizverwaltung-1]. Die Verwaltungskommission des Verwaltungsgerichts kann dem Steuerrekursgericht weitere personalrechtliche Kompetenzen übertragen.
+<sup>1</sup> Das Steuerrekursgericht stellt sein Personal an (§ 117 Abs. 2 StG[^hEJustizverwaltung-1]. Die Verwaltungskommission des Verwaltungsgerichts kann dem Steuerrekursgericht weitere personalrechtliche Kompetenzen übertragen.
 
 <sup>2</sup> Das Verwaltungsgericht überlässt dem Steuerrekursgericht die folgenden Geschäfte zur selbstständigen Besorgung:
 
@@ -321,7 +340,7 @@ Jeder Abteilung steht die Gerichtspräsidentin oder der Gerichtspräsident oder 
 
 **7**
 
-- 1\. 1. 11 - 71 Übergangsbestimmung gemäss G über die Unterstellung der Steuerrekurskommissionen und der Baurekurskommissionen unter das Verwaltungsgericht vom 13. September 2010 (OS 65, 960)
+1.10. 23 - 122 Übergangsbestimmung gemäss G über die Unterstellung der Steuerrekurskommissionen und der Baurekurskommissionen unter das Verwaltungsgericht vom 13. September 2010 (OS 65, 960)
 
 **Bisherige Mitglieder der Steuerrekurskommissionen**
 
