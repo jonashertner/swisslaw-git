@@ -4,11 +4,11 @@ title: Verordnung vom 30. November 2018 über das Informationssystem Verkehrszul
 short: IVZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/783"
 language: de
-version: 2023-09-01
+version: 2023-10-01
 adopted: 2018-11-30
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/783/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2018-783-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/783/20231001/de/xml/fedlex-data-admin-ch-eli-cc-2018-783-20231001-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20231001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20230901/de"
 
 (IVZV)
 
-vom 30. November 2018 (Stand am 1. September 2023)
+vom 30. November 2018 (Stand am 1. Oktober 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -213,28 +213,11 @@ Die Übermittlung von Daten ans IVZ muss über die vom ASTRA definierten Schnitt
 
 **Datenbearbeitung und Zugriff im Abrufverfahren**
 
-<sup>1</sup>
-
-Das BAZG kann neben den Behörden nach Artikel 89*d* SVG die Daten bearbeiten, die erforderlich sind für:
-
-- a. die Kontrolle der Verzollung und Versteuerung nach dem AstG[^16-1];
-- a<sup>bis</sup>.[^16-2]
-
-  die folgenden Aufgaben im Zusammenhang mit der Erhebung der Nationalstrassenabgabe nach dem Nationalstrassenabgabegesetz vom 19. März 2010[^16-3]:
-
-  - 1\. die Überprüfung der Entrichtung der Nationalstrassenabgabe,
-  - 2\. die Verfolgung und Beurteilung von Wiederhandlungen, und
-  - 3\. die Überprüfung der Übertragung der E-Vignette auf ein anderes Kontrollschild (Art. 5 Nationalstrassenabgabeverordnung vom 16. Juni 2023[^16-4]);
-
-- b. die Erhebung der leistungsabhängigen Schwerverkehrsabgabe nach dem Schwerverkehrsabgabegesetz vom 19. Dezember 1997[^16-5].
+<sup>1</sup> …[^16-1]
 
 <sup>2</sup> Die Stellen, die nach Artikel 89*e* SVG durch ein Abrufverfahren Einsicht in Daten des IVZ nehmen können, bezeichnen die Personen, die zur Einsicht berechtigt sind.
 
-[^16-1]: [SR 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^16-2]: Eingefügt durch Anhang Ziff. 3 der Nationalstrassenabgabeverordnung vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)).
-[^16-3]: [SR 741.71](https://fedlex.data.admin.ch/eli/cc/2011/577)
-[^16-4]: [SR 741.711](https://fedlex.data.admin.ch/eli/cc/2023/338)
-[^16-5]: [SR 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
+[^16-1]: Aufgehoben durch Ziff. I der V vom 16. Aug. 2023, mit Wirkung seit 1. Okt. 2023 ([AS 2023 474](https://fedlex.data.admin.ch/eli/oc/2023/474)).
 
 #### Art. 17
 
