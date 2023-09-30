@@ -4,11 +4,11 @@ title: Verordnung vom 17. Januar 1961 über die Invalidenversicherung (IVV)
 short: IVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/29_29_29"
 language: de
-version: 2023-09-01
+version: 2023-10-01
 adopted: 1961-01-17
 in_force: 1961-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20231001/de/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20231001-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20231001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20230901/de"
 
 (IVV)[^t-1]
 
-vom 17. Januar 1961 (Stand am 1. September 2023)
+vom 17. Januar 1961 (Stand am 1. Oktober 2023)
 
 [^t-1]: Fassung des Tit. gemäss Ziff. II 1 der V vom 11. Okt. 1972, in Kraft seit 1. Jan. 1973 ([AS 1972 2507](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Gemäss derselben Bestimmung wurden die Randtit. in Sachüberschriften umgewandelt.
 
@@ -326,19 +326,19 @@ Das BAG kann die Kosten im Zusammenhang mit der Erstellung der Geburtsgebrechen-
 
 Sofern sie in den Listen nach Artikel 52 Absatz 1 KVG[^3novies-2] aufgenommen sind, vergütet die Invalidenversicherung:
 
-- a. pharmazeutische Spezialitäten und konfektionierte Arzneimittel;
-- b. die in der Rezeptur verwendeten Präparate, Wirk- und Hilfsstoffe;
-- c. Laboranalysen; und
-- d. der Untersuchung oder Behandlung dienende Mittel und Gegenstände.
+- a. pharmazeutische Spezialitäten und konfektionierte Arzneimittel; und
+- b. die in der Rezeptur verwendeten Präparate, Wirk- und Hilfsstoffe.
 
 <sup>2</sup>
 
 Sie vergütet auch:
 
 - a. Arzneimittel zur Behandlung von Geburtsgebrechen nach Artikel 3<sup>sexies</sup>;
-- b. diagnostische Massnahmen, die der Diagnose oder Behandlung eines Geburtsgebrechens und seiner Folgen dienen.
+- b. diagnostische Massnahmen, die der Diagnose oder Behandlung eines Geburtsgebrechens und seiner Folgen dienen;
+- c. Laboranalysen; und
+- d. der Untersuchung oder Behandlung dienende Mittel und Gegenstände.
 
-[^3novies-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^3novies-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)). Fassung gemäss Ziff. I der V vom 6. Sept. 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 509](https://fedlex.data.admin.ch/eli/oc/2023/509)).
 [^3novies-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 3<sup>decies</sup>
@@ -2747,7 +2747,7 @@ Eine Revision wird von Amtes wegen durchgeführt, wenn:
 Die Erhöhung der Renten, der Hilflosenentschädigungen und der Assistenzbeiträge erfolgt frühestens:[^88bis-2]
 
 - a. sofern der Versicherte die Revision verlangt, von dem Monat an, in dem das Revisionsbegehren gestellt wurde;
-- b. bei einer Revision von Amtes wegen von dem für diesen vorgesehenen Monat an;
+- b. bei einer Revision von Amtes wegen von dem für diese vorgesehenen Monat an;
 - c. falls festgestellt wird, dass der Beschluss der IV-Stelle zum Nachteil des Versicherten zweifellos unrichtig war, von dem Monat an, in dem der Mangel entdeckt wurde.[^88bis-3]
 
 <sup>2</sup>

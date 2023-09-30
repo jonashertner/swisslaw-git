@@ -4,11 +4,11 @@ title: "Règlement du 17 janvier 1961 sur l'assurance-invalidité (RAI)"
 short: RAI
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/29_29_29"
 language: fr
-version: 2023-09-01
+version: 2023-10-01
 adopted: 1961-01-17
 in_force: 1961-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20230901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20231001/fr/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20231001-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20231001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20230901/fr"
 
 (RAI)[^t-1]
 
-du 17 janvier 1961 (État le 1<sup>er</sup> septembre 2023)
+du 17 janvier 1961 (État le 1<sup>er</sup> octobre 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. II 1 de l’O du 11 oct. 1972, en vigueur depuis le 1<sup>er</sup> janv. 1973 ([RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Selon cette disp., les tit. marginaux ont été remplacés par des tit. médians.
 
@@ -325,19 +325,19 @@ L’OFSP peut facturer annuellement au Fonds de compensation de l’AI les coût
 
 Pour autant qu’ils figurent sur les listes visées à l’art. 52, al. 1, LAMal[^3novies-2], l’assurance-invalidité rembourse:
 
-- a. les spécialités pharmaceutiques et les médicaments confectionnés;
-- b. les produits et les substances actives et auxiliaires employés pour la prescription magistrale;
-- c. les analyses de laboratoire, et
-- d. les moyens et appareils diagnostiques ou thérapeutiques.
+- a. les spécialités pharmaceutiques et les médicaments confectionnés, et
+- b. les produits et les substances actives et auxiliaires employés pour la prescription magistrale.
 
 <sup>2</sup>
 
 Elle rembourse aussi:
 
 - a. les médicaments destinés au traitement des infirmités congénitales au sens de l’art. 3<sup>sexies</sup>;
-- b. les mesures diagnostiques servant au diagnostic ou au traitement d’une infirmité congénitale et de ses séquelles.
+- b. les mesures diagnostiques servant au diagnostic ou au traitement d’une infirmité congénitale et de ses séquelles;
+- c. les analyses de laboratoire, et
+- d. les moyens et appareils diagnostiques ou thérapeutiques.
 
-[^3novies-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^3novies-1]: Introduit par le ch. I de l’O du 3 nov. 2021 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)). Nouvelle teneur selon le ch. I de l’O du 6 sept. 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 509](https://fedlex.data.admin.ch/eli/oc/2023/509)).
 [^3novies-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 3<sup>decies</sup>

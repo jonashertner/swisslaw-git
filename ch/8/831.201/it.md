@@ -4,11 +4,11 @@ title: "Ordinanza del 17 gennaio 1961 sull'assicurazione per l'invalidità (OAI)
 short: OAI
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/29_29_29"
 language: it
-version: 2023-09-01
+version: 2023-10-01
 adopted: 1961-01-17
 in_force: 1961-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20230901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20231001/it/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20231001-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20231001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20230901/it"
 
 (OAI)[^t-1]
 
-del 17 gennaio 1961 (Stato 1° settembre 2023)
+del 17 gennaio 1961 (Stato 1° ottobre 2023)
 
 [^t-1]: Nuovo tit. giusta il n. II 1 dell’O dell’11 ott. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2338](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Giusta detta disp., i titoli marginali sono accentrati.
 
@@ -326,19 +326,19 @@ L’UFSP può fatturare annualmente al Fondo di compensazione AI le spese legate
 
 A condizione che figurino negli elenchi di cui all’articolo 52 capoverso 1 LAMal[^3novies-2], l’assicurazione per l’invalidità rimborsa:
 
-- a. le specialità farmaceutiche e medicamenti confezionati;
-- b. i preparati e le sostanze attive e ausiliarie impiegati per la prescrizione magistrale;
-- c. analisi di laboratorio; e
-- d. mezzi e apparecchi diagnostici o terapeutici.
+- a. le specialità farmaceutiche e i medicamenti confezionati; e
+- b. i preparati e le sostanze attive e ausiliarie impiegati per la prescrizione magistrale.
 
 <sup>2</sup>
 
 Rimborsa inoltre:
 
 - a. i medicamenti necessari per la cura delle infermità congenite secondo l’articolo 3<sup>sexies</sup>;
-- b. i provvedimenti diagnostici necessari per la diagnosi o la cura delle infermità congenite e dei relativi postumi.
+- b. i provvedimenti diagnostici necessari per la diagnosi o la cura delle infermità congenite e dei relativi postumi;
+- c. le analisi di laboratorio; e
+- d. i mezzi e gli apparecchi diagnostici o terapeutici.
 
-[^3novies-1]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^3novies-1]: Introdotto dal n. I dell’O del 3 nov. 2021 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)). Nuovo testo giusta il n. I dell’O del 6 set. 2023, in vigore dal 1° ott. 2023 ([RU 2023 509](https://fedlex.data.admin.ch/eli/oc/2023/509)).
 [^3novies-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 3<sup>decies</sup>
