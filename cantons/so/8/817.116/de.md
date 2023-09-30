@@ -4,13 +4,13 @@ number: "817.116"
 title: Verordnung über die Spitalliste
 short: SpiVO
 language: de
-version: 2020-01-01
-valid_until: 2023-09-30
-version_adopted: 2019-09-24
+version: 2023-10-01
+valid_until: 2024-06-30
+version_adopted: 2023-06-06
 adopted: 2011-09-27
 in_force: 2012-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/817.116"
-pdf: "https://bgs.so.ch/api/de/versions/4866/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5397/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4866/pdf_file"
 
 (SpiVO)
 
-Vom 27.09.2011 (Stand 01.01.2020)
+Vom 27.09.2011 (Stand 01.10.2023)
 
 Der Regierungsrat von Solothurn
 
@@ -187,10 +187,14 @@ beschliesst:
 
 - a) angemessene Partizipation an der Digitalisierung;
 - b) inner- und interkantonale Kooperationen mit anderen Spitälern und weiteren Leistungserbringern sowie mit Krankenversicherern und Gemeinwesen;
-- c) Implementierung von vor- und nachgelagerten Versorgungspartnern (integrierte Versorgungsmodelle);
-- d) Ausschluss von direkt fallzahlenabhängigen Bonuszahlungen.
+- c) Implementierung von vor- und nachgelagerten Versorgungspartnern (integrierte Versorgungsmodelle).
+- d) …
+
+<sup>1<sup>bis</sup></sup> Sie können zudem mit den in Artikel 58*f* der Verordnung über die Krankenversicherung (KVV) vom 27. Juni 1995[^12bis-1] aufgeführten Auflagen verbunden werden.
 
 <sup>2</sup> Leistungsaufträge sowie Leistungsvereinbarungen können von den Spitälern und Geburtshäusern, nach schriftlicher Ankündigung, unter Einhaltung einer sechsmonatigen Kündigungsfrist jeweils auf das Jahresende gekündigt werden.
+
+[^12bis-1]: SR [832.102](https://db.clex.ch/link/Bund/832.102/de).
 
 #### § 13
 
