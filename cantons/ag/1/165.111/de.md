@@ -4,13 +4,13 @@ number: "165.111"
 title: Personal- und Lohnverordnung
 short: PLV
 language: de
-version: 2022-08-01
-valid_until: 2023-09-30
-version_adopted: 2022-11-02
+version: 2023-10-01
+valid_until: 2024-04-30
+version_adopted: 2023-06-28
 adopted: 2000-09-25
 in_force: 2001-04-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/165.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3249/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3587/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,17 +19,18 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3249/pdf_file"
 
 (PLV)
 
-Vom 25.09.2000 (Stand 01.08.2022)
+Vom 25.09.2000 (Stand 01.10.2023)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf die §§ 4 Abs. 1, 6, 15 Abs. 2, 23 Abs. 3, 25 Abs. 1 und 37 Abs. 5 des Gesetzes über die Grundzüge des Personalrechts (Personalgesetz, PersG) vom 16. Mai 2000[^ingress-1], die §§ 5 Abs. 4, 9 Abs. 1 und 3, 14 Abs. 2, 16 Abs. 3, 20 Abs. 1 und 2, 29 Abs. 2 sowie Anhang III Ziffer 1 Abs. 2 des Dekrets über die Löhne des kantonalen Personals (Lohndekret) vom 30. November 1999[^ingress-2] und auf § 5 Abs. 1 des Organisationsgesetzes vom 26. März 1985[^ingress-3],
+gestützt auf die §§ 4 Abs. 1, 6, 15 Abs. 2, 23 Abs. 3, 25 Abs. 1 und 37 Abs. 5 des Gesetzes über die Grundzüge des Personalrechts (Personalgesetz, PersG) vom 16. Mai 2000[^ingress-1], die §§ 5 Abs. 4, 9 Abs. 1 und 3, 14 Abs. 2, 16 Abs. 3, 20 Abs. 1 und 2, 29 Abs. 2 sowie Anhang III Ziffer 1 Abs. 2 des Dekrets über die Löhne des kantonalen Personals (Lohndekret) vom 30. November 1999[^ingress-2], auf § 5 Abs. 1 des Organisationsgesetzes vom 26. März 1985[^ingress-3] und § 3 Abs. 2 lit. c des Gesetzes über den Bevölkerungsschutz und den Zivilschutz im Kanton Aargau (Bevölkerungsschutz- und Zivilschutzgesetz Aargau, BZG-AG) vom 4. Juli 2006[^ingress-4],
 
 beschliesst:
 
 [^ingress-1]: SAR [165.100](https://gesetzessammlungen.ag.ch/data/165.100/de)
 [^ingress-2]: SAR [165.130](https://gesetzessammlungen.ag.ch/data/165.130/de)
 [^ingress-3]: SAR [153.100](https://gesetzessammlungen.ag.ch/data/153.100/de)
+[^ingress-4]: SAR [515.200](https://gesetzessammlungen.ag.ch/data/515.200/de)
 
 ## 1. Geltungsbereich
 
@@ -315,6 +316,14 @@ beschliesst:
 <sup>3</sup> Mit den Disziplinarmassnahmen kann eine angemessene Lohnkürzung verbunden werden.
 
 <sup>4</sup> Ist ein Disziplinarverfahren eingeleitet, kann in schwerwiegenden Fällen während dessen Dauer eine vorsorgliche Sistierung in der Amtstätigkeit angeordnet werden.
+
+#### § 26b
+
+**Anordnung von Homeoffice**
+
+<sup>1</sup> Der Regierungsrat kann bei schwerer Mangellage infolge vom Bundesrat beschlossener 'Kontingentierungen von Strom oder Gas' sowie 'Netzabschaltungen beim Strom' für Mitarbeitende, die ihre Arbeit unabhängig von ihrem üblichen Arbeitsplatz in der kantonalen Verwaltung erledigen können, Homeoffice anordnen.
+
+<sup>2</sup> Ist ein Arbeiten im Homeoffice einer Mitarbeiterin oder einem Mitarbeiter nicht zumutbar, weist die Anstellungsbehörde nach Möglichkeit einen Notarbeitsplatz zu.
 
 ## 6. Arbeitszeit, Ferien, Urlaub
 
