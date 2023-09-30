@@ -3,20 +3,20 @@ canton: SO
 number: "122.218"
 title: Verordnung über die Delegation der Unterschriftsberechtigung in den Departementen
 language: de
-version: 2023-08-01
-valid_until: 2023-09-30
-version_adopted: 2022-09-05
+version: 2023-10-01
+valid_until: 2023-12-31
+version_adopted: 2023-06-06
 adopted: 2004-05-25
 in_force: 2004-08-01
 url: "https://bgs.so.ch/app/de/texts_of_law/122.218"
-pdf: "https://bgs.so.ch/api/de/versions/5366/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5393/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Delegation der Unterschriftsberechtigung in den Departementen
 
-Vom 25.05.2004 (Stand 01.08.2023)
+Vom 25.05.2004 (Stand 01.10.2023)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -109,7 +109,8 @@ beschliesst:
   - 2\. Verfügungen gemäss der Heilmittel- und Betäubungsmittelgesetzgebung;
   - 3\. Verfügungen über die Zulassung bzw. Nichtzulassung von Leistungserbringern zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung;
   - 4\. Verfügungen und Anordnungen im Bereich der ambulanten Pflege (Spitex), der Langzeitpflege (Alters- und Pflegeheime) sowie in den übrigen Belangen im Zusammenhang mit dem Alter;
-  - 5\. Verfügungen und Anordnungen im Zusammenhang mit Einzelfallanerkennungen für Solothurner und Solothurnerinnen mit ausserkantonalem Heimaufenthalt.
+  - 5\. Verfügungen und Anordnungen im Zusammenhang mit Einzelfallanerkennungen für Solothurner und Solothurnerinnen mit ausserkantonalem Heimaufenthalt;
+  - 6\. Verfügungen und Anordnungen im Suchtbereich.
 - c) vom Leiter oder von der Leiterin der Abteilung Kantonsärztlicher Dienst:
   - 1\. Verfügungen im Bereich der Spitalaufenthalte nach der Gesetzgebung über die Krankenversicherung;
   - 1<sup>bis</sup>. Verfügungen betreffend den ärztlichen Nachweis für eine einwandfreie Berufsausübung von Gesundheitsfachpersonen mit vollendetem 75. Altersjahr;
@@ -123,7 +124,8 @@ beschliesst:
   - 1\. Mitteilungen betreffend die Tätigkeitsaufnahme von 90-Tage-Dienstleistenden;
   - 2\. Mitteilungen betreffend die Tätigkeitsaufnahme von auskunfts- und meldepflichtigen Personen.
 - c<sup>ter</sup>) vom Leiter oder von der Leiterin der Abteilung Lebensmittelkontrolle:
-  - 1\. Bewilligungen für Fumoirs.
+  - 1\. Bewilligungen für Fumoirs;
+  - 2\. Verfügungen und Anordnungen beim Vollzug des 1. Abschnitts (Verwendung von Solarien) der Verordnung zum Bundesgesetz über den Schutz vor Gefährdungen durch nichtionisierende Strahlung und Schall (V-NISSG) vom 27. Februar 2019 [^4-2].
 - c<sup>quater</sup>) vom Leiter oder von der Leiterin der Abteilung Gesundheitsförderung und Prävention:
   - 1\. Verfügungen und Anordnungen im Bereich der Gesundheitsförderung und Prävention, insbesondere Suchtprävention.
 - c<sup>quinquies</sup>) vom Leiter oder von der Leiterin der Abteilung Zentrale Dienste:
@@ -141,11 +143,11 @@ beschliesst:
   - 1<sup>octies</sup>. Beschwerdeentscheide im Bereich der Ausbildungsverpflichtung in Spitälern, Heimen und bei der Spitex;
   - 1<sup>novies</sup>. Beschwerdeentscheide im Bereich der Hundehaltung, für welche das Departement zuständig ist;
   - 2\. …
-  - 3\. Beschwerdeentscheide nach der kantonalen Lebensmittelgesetzgebung;
+  - 3\. Beschwerdeentscheide nach der Lebensmittelgesetzgebung;
   - 4\. Beschwerdeentscheide im Bereich der Sozialhilfe;
   - 5\. …
-  - 6\. Beschwerdeentscheide im Rahmen von § 6 Absatz 2 Buchstabe a des Justizvollzugsgesetzes[^4-2];
-  - 7\. Beschwerdeentscheide im Rahmen von § 50 Absatz 1 des Gesetzes über die Kantonspolizei[^4-3];
+  - 6\. Beschwerdeentscheide im Rahmen von § 6 Absatz 2 Buchstabe a des Justizvollzugsgesetzes[^4-3];
+  - 7\. Beschwerdeentscheide im Rahmen von § 50 Absatz 1 des Gesetzes über die Kantonspolizei[^4-4];
   - 8\. Aufsichtsbeschwerdeentscheide, für welche das Departement zuständig ist;
   - 9\. Bewilligungen zur Aussage vor Gericht.
 - d<sup>bis</sup>) vom Leiter oder von der Leiterin der Abteilung Swisslos-Fonds:
@@ -167,7 +169,7 @@ beschliesst:
   - 8\. …
   - 9\. …
   - 9<sup>bis</sup>. Menschen mit Behinderungen;
-  - 9<sup>ter</sup>. die interkantonale Vereinbarung über soziale Institutionen IVSE;
+  - 9<sup>ter</sup>. die Interkantonale Vereinbarung für soziale Einrichtungen IVSE (Bereiche A und B);
   - 9<sup>quater</sup>. die stationäre Kinder- und Jugendbetreuung;
   - 10\. …
   - 11\. …
@@ -214,7 +216,7 @@ beschliesst:
 - o) …
 - p) vom Chef oder von der Chefin Amt für Justizvollzug
   - 1\. die dem Departementssekretär oder der Departementssekretärin im Amtsbereich zugewiesenen Verrichtungen;
-  - 2\. Entscheide in Anwendung von § 6 Absatz 2 Buchstabe c des Justizvollzugsgesetzes[^4-4];
+  - 2\. Entscheide in Anwendung von § 6 Absatz 2 Buchstabe c des Justizvollzugsgesetzes[^4-5];
   - 3\. die den einzelnen Leitern oder Leiterinnen der Abteilungen des Amtes zugewiesenen Verrichtungen.
 - q) von der Leitung der Justizvollzugsanstalt Solothurn, von der Leitung der Untersuchungsgefängnisse oder vom Abteilungleiter oder von der Abteilungsleiterin Bewährungshilfe:
   - 1\. Strafanträge wegen Sachbeschädigung.
@@ -226,9 +228,10 @@ beschliesst:
 <sup>2</sup> …
 
 [^4-1]: BGS [111.1](https://bgs.so.ch/data/111.1/de).
-[^4-2]: BGS [331.11](https://bgs.so.ch/data/331.11/de).
-[^4-3]: BGS [511.11](https://bgs.so.ch/data/511.11/de).
-[^4-4]: BGS [331.11](https://bgs.so.ch/data/331.11/de).
+[^4-2]: SR [814.711](https://db.clex.ch/link/Bund/814.711/de).
+[^4-3]: BGS [331.11](https://bgs.so.ch/data/331.11/de).
+[^4-4]: BGS [511.11](https://bgs.so.ch/data/511.11/de).
+[^4-5]: BGS [331.11](https://bgs.so.ch/data/331.11/de).
 
 ### 2.2.3. Geschäftskreis des Departementes für Bildung und Kultur
 
