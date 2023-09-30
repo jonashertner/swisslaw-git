@@ -4,11 +4,11 @@ title: "Ordinanza del 18 maggio 2005 concernente la riduzione dei rischi nell'ut
 short: ORRPChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: it
-version: 2023-06-01
+version: 2023-10-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20230601/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20230601-it-xml-16.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20230601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20231001/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20231001-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20231001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20230601/it"
 
 (Ordinanza sulla riduzione dei rischi inerenti ai prodotti chimici, ORRPChim)
 
-del 18 maggio 2005 (Stato 1° giugno 2023)
+del 18 maggio 2005 (Stato 1° ottobre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -1315,7 +1315,7 @@ Sono vietati:
 - b. un’indicazione dei pericoli per l’uomo e per l’ambiente e delle misure protettive, conforme al modello seguente:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20230601/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20231001/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = almeno 2,5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 per cento di H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 per cento di H</td></tr>
@@ -1843,7 +1843,7 @@ Allegato 1.10[^t-11]
 
 ## Sostanze cancerogene, mutagene o pericolose per la riproduzione
 
-[^t-11]: Nuovo testo giusta il n. II cpv. 2 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dal n. I dell’O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dall’all. n. 2 dell’O del 18 nov. 2020 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), dal n. I dell’O dell’UFSP del 23 dic. 2021 ([RU 2022 1](https://fedlex.data.admin.ch/eli/oc/2022/1)), dal n. I dell’O del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-11]: Nuovo testo giusta il n. II cpv. 2 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dal n. I dell’O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dall’all. n. 2 dell’O del 18 nov. 2020, in vigore dal 1° gen. 2022 al 1° giu. 2025 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), dal n. I dell’O del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), dall’all. n. 2 dell’O dell’11 mar. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) e dal n. I dell’O dell’UFSP del 5 set. 2023, in vigore dal 1° ott. 2023 ([RU 2023 520](https://fedlex.data.admin.ch/eli/oc/2023/520)).
 
 ### 1 Divieto
 
@@ -1853,8 +1853,8 @@ Allegato 1.10[^t-11]
 
 <sup>3</sup> È vietato l’impiego di carta termica con un contenuto in massa di bisfenolo A (n. CAS 80-05-7) o bisfenolo S (n. CAS 80-09-1) dello 0,02 per cento o superiore.
 
-[^annex110-lvlu1-lvl1-1]: Regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dicembre 2006, concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), che istituisce un’Agenzia europea per le sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio e il regolamento (CE) n. 1488/94 della Commissione, nonché la direttiva 76/769/CEE del Consiglio e le direttive della Commissione 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE, GU L 396 del 30.12.2006, pag. 1; modificato da ultimo dal regolamento (UE) 2021/2204, GU L 446 del 14.12.2021, pag. 34.
-[^annex110-lvlu1-lvl1-2]: Regolamento (CE) n. 1272/2008 del Parlamento europeo e del Consiglio, del 16 dicembre 2008, relativo alla classificazione, all’etichettatura e all’imballaggio delle sostanze e delle miscele che modifica e abroga le direttive 67/548/CEE e 1999/45/CE e che reca modifica al regolamento (CE) n. 1907/2006, GU L 353 del 31.12.2008, pag. 1; modificato da ultimo dal regolamento delegato (UE) n. 2021/849, GU L 188 del 28.5.2021 pag. 27.
+[^annex110-lvlu1-lvl1-1]: Regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dicembre 2006, concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), che istituisce un’Agenzia europea per le sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio e il regolamento (CE) n. 1488/94 della Commissione, nonché la direttiva 76/769/CEE del Consiglio e le direttive della Commissione 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE, GU L 396 del 30.12.2006, pag. 1; modificato da ultimo dal regolamento (UE) 2023/1132, GU L 149 del 9.6.2023, pag. 49.
+[^annex110-lvlu1-lvl1-2]: Regolamento (CE) n. 1272/2008 del Parlamento europeo e del Consiglio, del 16 dicembre 2008, relativo alla classificazione, all’etichettatura e all’imballaggio delle sostanze e delle miscele che modifica e abroga le direttive 67/548/CEE e 1999/45/CE e che reca modifica al regolamento (CE) n. 1907/2006, GU L 353 del 31.12.2008, pag. 1; modificato da ultimo dal regolamento delegato (UE) 2023/1435, GU L 176 dell’11.7.2023 pag. 6.
 
 ### 2 Deroghe
 
@@ -1885,35 +1885,11 @@ Allegato 1.10[^t-11]
 
 <sup>2</sup> ...
 
-### 4 Disposizione transitoria della modifica del 23 dicembre 2021
+### 4 Disposizione transitoria della modifica del 5 settembre 2023
 
-Le seguenti sostanze che in virtù del regolamento (UE) 2021/2204[^annex110-lvlu1-lvl4-1] sono ora elencate nell’allegato XVII appendici 1–6 del regolamento EU-REACH nonché le sostanze e i preparati che contengono sostanze di questo tipo possono essere forniti al grande pubblico fino alle seguenti date:
+Le seguenti sostanze che in virtù del regolamento (UE) 2023/1132[^annex110-lvlu1-lvl4-1] sono ora elencate nell’allegato XVII appendici 1–6 del regolamento EU-REACH nonché le sostanze e i preparati che contengono sostanze di questo tipo possono essere forniti al grande pubblico fino al 30 novembre 2023.
 
-- a.
-
-  fino al 1° marzo 2022:
-
-  - – Fibre di carburo di silicio (con diametro &lt; 3 μm, lunghezza &gt; 5 μm e rapporto dimensionale ≥ 3:1) (CAS 409-21-2 o CAS 308076-74-6)
-  - – N-(idrossimetil)glicinato di sodio; [formaldeide rilasciata da N-(idrossimetil)glicinato di sodio] (CAS 70161-44-3)
-  - – Metilolacrilammide (CAS 924-42-5)
-  - – Etere diglicidilico di resorcinolo (CAS 101-90-6)
-  - – Butanonossima (CAS 96-29-7)
-  - – Dibenzo[def,p]crisene; dibenzo[a,l]pirene (CAS 191-30-0),
-  - – Tris(2-metossietossi)vinilsilano (CAS 1067-53-4)
-  - – Diottil dilaurato (CAS 3648-18-8) e Stannano, diottil-, bis(coco acilossi) derivati (CAS 91648-39-4)
-  - – Ipconazolo (ISO) (CAS 125225-28-7, CAS 115850-69-6, CAS 115937-89-8)
-  - – Tetraglima (CAS 143-24-8)
-  - – 2-(4-terz-butilbenzil)propionaldeide (CAS 80-54-6)
-  - – Diisottilftalato (CAS 27554-26-3)
-  - – 2-metossietil-acrilato (CAS 3121-61-7)
-  - – Zinco piritione (CAS 13463-41-7)
-  - – Fluorocloridone (ISO) (CAS 61213-25-0)
-  - – Perossido di bis(α,α-dimetilbenzile) (CAS 80-43-3)
-  - – Diclorodiottilstannano (CAS 3542-36-7);
-
-- b. fino al 17 dicembre 2022: tutte le sostanze non contemplate dalla lettera a.
-
-[^annex110-lvlu1-lvl4-1]: Regolamento (UE) 2021/2204 della Commissione, del 13 dicembre 2021, versione della GU L 446 del 14.12.2021, pag. 34.
+[^annex110-lvlu1-lvl4-1]: Regolamento (UE) 2023/1132 della Commissione, dell’8 giugno 2023, recante modifica del regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio per quanto riguarda le sostanze cancerogene, mutagene o tossiche per la riproduzione soggette a restrizioni, versione della GU L 149 del 9.6.2023, pag. 49.
 
 Allegato 1.11[^t-12]
 
@@ -4001,7 +3977,7 @@ Allegato 2.9[^t-28]
 
 <sup>2</sup> Preparati e oggetti contenenti PVC riciclato devono essere muniti di un’etichetta con la dicitura «Contiene PVC riciclato» o del seguente pittogramma:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20230601/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20231001/it/xml/image/image2.png)
 
 <sup>3</sup> I preparati, il cui contenuto in massa di diisocianato di metilendifenile è pari o superiore allo 0,1 per cento e che sono destinati al grande pubblico, devono essere muniti di etichette con la seguente dicitura: «L’uso di questo prodotto può provocare reazioni allergiche nei soggetti già sensibilizzati ai diisocianati. – I soggetti affetti da asma, eczema o problemi della pelle dovrebbero evitare il contatto, incluso il contatto dermico, con questo prodotto. – Questo prodotto non dovrebbe essere utilizzato in condizioni di scarsa ventilazione, a meno che non venga utilizzata una maschera protettiva con un idoneo filtro antigas (di tipo A1 conforme alla norma EN 14387)».
 
