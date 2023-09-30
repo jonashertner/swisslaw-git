@@ -4,13 +4,12 @@ number: "922.111.2"
 title: Direktionsverordnung über die Jagdprüfung
 short: JDV
 language: de
-version: 2023-03-01
-valid_until: 2023-09-30
-version_adopted: 2022-08-29
+version: 2023-10-01
+version_adopted: 2023-08-14
 adopted: 2004-05-18
 in_force: 2004-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/922.111.2"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2681/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2863/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2681/pdf_file"
 
 (JDV)
 
-vom 18.05.2004 (Stand 01.03.2023)
+vom 18.05.2004 (Stand 01.10.2023)
 
 Die Volkswirtschaftsdirektion des Kantons Bern,
 
@@ -38,12 +37,14 @@ beschliesst:
 
 <sup>1</sup> Zur Jagdprüfung werden handlungsfähige Kandidatinnen und Kandidaten zugelassen, die sich darüber ausweisen, dass
 
-- a sie in den letzten drei Kalenderjahren vor dem Prüfungsjahr im Kanton Bern mindestens 50 Hegestunden zugunsten von Wild und Natur geleistet haben,
-- b sie in den letzten drei Kalenderjahren vor dem Prüfungsjahr fünf Ausbildungsmodule mit den Themen Jagdhundewesen, Hegeinstruktion, Wildbrethygiene, Schiesssicherheitskurs und Jagdpraxis besucht haben,
+- a sie in den letzten vier Kalenderjahren vor dem Prüfungsjahr im Kanton Bern mindestens 80 Hegestunden zugunsten von Wild und Natur geleistet haben,
+- b sie in den letzten vier Kalenderjahren vor dem Prüfungsjahr fünf Ausbildungsmodule mit den Themen Jagdhundewesen, Hegeinstruktion, Schiessgrundausbildung, Schiesssicherheit und Jagdpraxis besucht haben,
+- b1 sie in den letzten vier Kalenderjahren vor dem Prüfungsjahr drei Veranstaltungen mit den Schwerpunktthemen Wildbrethygiene, Jagdtraditionen und -brauchtum sowie Land- und Forstwirtschaft und Wildtierökologie besucht haben,
+- b2 sie in den letzten vier Kalenderjahren vor dem Prüfungsjahr praktische Schiessübungen bei mindestens drei Schiessanlässen eines Vereins des Berner Jägerverbands, zwei Pirschgänge des Berner Jägerverbands und mindestens sechs Jagdbegleitungen im Kanton Bern absolviert haben,
 - c sie die Prüfungsgebühren bezahlt haben und
 - d gegen sie keiner der Ausschlussgründe im Sinne von Artikel 6 JWG vorliegt.
 
-<sup>2</sup> Das Jagdinspektorat anerkennt geeignete Institutionen, welche den Kandidatinnen und Kandidaten Ausbildungsgänge zur Erfüllung der Voraussetzungen nach Absatz 1 Buchstaben a und b anbieten.
+<sup>2</sup> Das Jagdinspektorat anerkennt geeignete Institutionen, die den Kandidatinnen und Kandidaten Ausbildungsgänge zur Erfüllung der Voraussetzungen nach Absatz 1 Buchstaben a und b anbieten.
 
 <sup>3</sup> Es führt eine Liste der anerkannten Institutionen.
 
@@ -195,7 +196,7 @@ beschliesst:
 
 <sup>2</sup> Abgesehen von der Wiederholungsmöglichkeit nach Artikel 11 Absatz 4 kann auch die praktische Prüfung nur einmal pro Jahr abgelegt werden.
 
-<sup>3</sup> In den Folgejahren wird eine vollständig bestandene theoretische oder praktische Prüfung angerechnet.
+<sup>3</sup> In den Folgejahren wird eine vollständig bestandene theoretische oder praktische Prüfung angerechnet, sofern die Voraussetzungen nach Artikel 1 Absatz 1 erfüllt sind.
 
 #### Art. 17
 
@@ -323,6 +324,12 @@ Zugelassen sind Zielfernrohre mit höchstens zwölffacher Vergrösserung.
 #### Art. T2-1
 
 <sup>1</sup> Kandidatinnen und Kandidaten, welche die Ausbildung für die Jagdprüfung vor dem 1. Oktober 2018 begonnen haben, werden auch ohne den Ausweis über den Besuch des Ausbildungsmoduls zum Thema Wildbrethygiene gemäss Artikel 1 Absatz 1 Buchstabe b zur Prüfung zugelassen.
+
+## T3 Übergangsbestimmung der Änderung vom 14.08.2023
+
+#### Art. T3-1
+
+<sup>1</sup> Kandidatinnen und Kandidaten, welche die Ausbildung für die Jagdprüfung vor dem 1. Januar 2022 begonnen haben, werden gemäss dem bisherigen Artikel 1 Absatz 1 zur Jagdprüfung zugelassen.
 
 Bern, 18. Mai 2004
 

@@ -4,13 +4,12 @@ number: "922.111.2"
 title: "Ordonnance de Direction sur l'examen de chasse"
 short: ODEC
 language: fr
-version: 2023-03-01
-valid_until: 2023-09-30
-version_adopted: 2022-08-29
+version: 2023-10-01
+version_adopted: 2023-08-14
 adopted: 2004-05-18
 in_force: 2004-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/922.111.2"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2681/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2863/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2681/pdf_file"
 
 (ODEC)
 
-du 18.05.2004 (état au 01.03.2023)
+du 18.05.2004 (état au 01.10.2023)
 
 La Direction de l’économie publique du canton de Berne,
 
@@ -36,10 +35,12 @@ arrête:
 
 **Admission**
 
-<sup>1</sup> Sont admis à l’examen de chasse les candidats et les candidates qui ont l’exercice des droits civils et qui sont en mesure de prouver
+<sup>1</sup> Sont admis à l’examen de chasse les candidates et les candidats qui ont l’exercice des droits civils et qui sont en mesure de prouver
 
-- a qu’ils ont accompli, au cours des trois ans qui précèdent l’année de l’examen, au moins 50 heures d’activité pour la protection de la faune sauvage et de la nature dans le canton de Berne;
-- b qu’ils ont suivi, au cours des trois ans qui précèdent l’année de l’examen, cinq modules d’instruction sur les thèmes suivants : chiens de chasse, protection de la faune sauvage, hygiène du gibier, tir et sécurité ainsi que pratique de la chasse;
+- a qu’ils ont accompli, au cours des quatre ans qui précèdent l’année de l’examen, au moins 80 heures d’activité pour la protection de la faune sauvage et de la nature dans le canton de Berne;
+- b qu’ils ont suivi, au cours des quatre ans qui précèdent l’année de l’examen, cinq modules d’instruction sur les thèmes des chiens de chasse, de la protection de la faune sauvage, de la formation de base au tir, du tir et de la sécurité ainsi que de la pratique de la chasse;
+- b1 qu’ils ont fréquenté, au cours des quatre ans qui précèdent l’année de l’examen, trois manifestations sur les thèmes de l'hygiène du gibier, des us et coutumes de la chasse, de l'agriculture, de la sylviculture et de l'écologie de la faune sauvage;
+- b2 qu’ils ont participé, au cours des quatre ans qui précèdent l’année de l’examen, à des exercices pratiques de tir à l'occasion de trois manifestations de tir au moins organisées par une association rattachée à la Fédération des chasseurs bernois, de deux parcours de chasse organisés par la Fédération des chasseurs bernois et d'au moins six sorties de chasse accompagnée dans le canton de Berne;
 - c qu’ils ont payé les émoluments d’examen et
 - d qu’ils ne sont pas concernés par l’un des motifs d’exclusion prévus par l’article 6 LCh.
 
@@ -195,7 +196,7 @@ arrête:
 
 <sup>2</sup> L’examen pratique ne peut également être passé qu’une fois par an. La répétition du tir d’examen au sens de l’article 11, alinéa 4 est réservée.
 
-<sup>3</sup> Un examen théorique ou pratique entièrement réussi sera pris en compte les années suivantes.
+<sup>3</sup> Un examen théorique ou pratique entièrement réussi sera pris en compte les années suivantes, dans la mesure où les conditions visées à l'article 1, alinéa 1, sont remplies.
 
 #### Art. 17
 
@@ -323,6 +324,12 @@ Sont autorisées les lunettes de visée grossissant douze fois au maximum.
 #### Art. T2-1
 
 <sup>1</sup> Les candidats et candidates qui ont commencé leur formation pour l'examen de chasse avant le 1<sup>er</sup> octobre 2018 seront admis à l'examen sans devoir prouver qu'ils ont effectué le module d'instruction sur le thème de l'hygiène du gibier conformément à l'article 1, alinéa 1, lettre b.
+
+## T3 Disposition transitoire de la modification du 14.08.2023
+
+#### Art. T3-1
+
+<sup>1</sup> Les candidates et candidats qui ont commencé leur formation pour l'examen de chasse avant le 1<sup>er</sup> janvier 2022 sont admis à l'examen conformément à l'article 1, alinéa 1 de l'ancien droit.
 
 Berne, le 18 mai 2004
 
