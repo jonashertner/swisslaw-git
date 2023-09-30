@@ -3,34 +3,40 @@ canton: BL
 number: "369.14"
 title: Verordnung über den Preis für Baselbieter Freiwilligenarbeit im Sozialbereich
 language: de
-version: 2014-05-01
-valid_until: 2023-09-30
-version_adopted: 2014-05-06
+version: 2023-10-01
+version_adopted: 2023-09-19
 adopted: 2013-05-21
 in_force: 2013-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/369.14"
-pdf: "https://bl.clex.ch/api/de/versions/3687/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3722/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Preis für Baselbieter Freiwilligenarbeit im Sozialbereich
 
-Vom 21.05.2013 (Stand 01.05.2014)
+Vom 21.05.2013 (Stand 01.10.2023)
 
-Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
+Der Regierungsrat des Kantons Basel-Landschaft,
+
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und Art. 2 Abs. 1 der Interkantonalen Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen vom 2. Mai 2019 [^ingress-2],
+
+beschliesst:
+
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
+[^ingress-2]: [SGS 543.3](https://bl.clex.ch/data/543.3/de/art2)
 
 #### § 1
 
 **Zweck**
 
-<sup>1</sup> Der Kanton kann in Anerkennung der Freiwilligenarbeit den Preis für Baselbieter Freiwilligenarbeit verleihen.
+<sup>1</sup> Der Regierungsrat des Kantons Basel-Landschaft kann in Anerkennung der Freiwilligenarbeit den Preis für Baselbieter Freiwilligenarbeit an 1 oder mehrere Preisträgerinnen und Preisträger verleihen.
 
 #### § 2
 
 **Preisträgerinnen und Preisträger**
 
-<sup>1</sup> Der Baselbieter Freiwilligenpreis wird für Personen und Institutionen mit Wohn- oder Geschäftssitz im Kanton Basel-Landschaft verliehen, die sich mit ehrenamtlichen Einsätzen im Sozialbereich verdient gemacht haben.
+<sup>1</sup> Der Preis für Baselbieter Freiwilligenarbeit wird an Personen und Institutionen mit Wohn- oder Geschäftssitz im Kanton Basel-Landschaft verliehen, die sich mit ehrenamtlichen Einsätzen im Sozialbereich verdient gemacht haben.
 
 #### § 3
 
@@ -52,7 +58,10 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 **Preis**
 
-<sup>1</sup> Die Höhe des Preises beträgt CHF 5'000.–.
+<sup>1</sup> Die Höhe des Preises beträgt gesamthaft maximal CHF 10'000.-. Dabei können ausbezahlt werden:
+
+- a. max. CHF 8'000.– an nicht gewinnorientierte Organisationen;
+- b. max. CHF 2'000.– an Einzelpersonen.
 
 <sup>2</sup> Der Preis und die mit der Verleihung verbundenen Ausgaben werden über den Swisslos-Fonds finanziert.
 
