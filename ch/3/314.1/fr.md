@@ -4,11 +4,11 @@ title: "Loi du 18 mars 2016 sur les amendes d'ordre (LAO)"
 short: LAO
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/725"
 language: fr
-version: 2023-01-01
+version: 2023-10-01
 adopted: 2016-03-18
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/725/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-725-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/725/20231001/fr/xml/fedlex-data-admin-ch-eli-cc-2017-725-20231001-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20231001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20230101/fr"
 
 (LAO)[^t-1]
 
-du 18 mars 2016 (État le 1<sup>er</sup> janvier 2023)
+du 18 mars 2016 (État le 1<sup>er</sup> octobre 2023)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -61,7 +61,7 @@ Est sanctionné par une amende d’ordre dans une procédure simplifiée (procé
   - 16\. loi fédérale du 21 juin 1991 sur la pêche[^1-17],
   - 17\. loi fédérale du 23 mars 2001 sur le commerce itinérant[^1-18], ou
 
-- b. prévue dans une ordonnance d’exécution des lois citées à la let. a, ch. 1 à 9 et 11 à 17. ...[^1-19]
+- b. prévue dans une ordonnance d’exécution des lois citées à la let. a, ch. 1 à 9 et 11 à 17. …[^1-19]
 
 <sup>2</sup> La procédure de l’amende d’ordre n’est applicable qu’aux contraventions figurant dans les listes établies en vertu de l’art. 15.
 
@@ -163,7 +163,7 @@ Les infractions ne sont pas non plus sanctionnées dans la procédure de l’ame
 
 **Responsabilité du détenteur du véhicule**
 
-<sup>1</sup> Si le conducteur d’un véhicule n’a pas été intercepté ou appréhendé lors de l’infraction à la LCR[^7-1], à une de ses ordonnances d’exécution ou à la LVA[^7-2], l’amende est établie au nom du détenteur du véhicule figurant dans le permis de circulation.
+<sup>1</sup> Si le conducteur d’un véhicule n’a pas été intercepté ou appréhendé lors de l’infraction à la LCR[^7-1], à l’une de ses ordonnances d’exécution ou à la LVA[^7-2], l’amende est établie au nom de la personne physique ou morale inscrite comme détenteur du véhicule dans le permis de circulation.[^7-3]
 
 <sup>2</sup> L’amende est notifiée par écrit au détenteur du véhicule figurant dans le permis de circulation. Le détenteur du véhicule dispose d’un délai de 30 jours pour la payer.
 
@@ -175,6 +175,7 @@ Les infractions ne sont pas non plus sanctionnées dans la procédure de l’ame
 
 [^7-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
 [^7-2]: [RS 741.71](https://fedlex.data.admin.ch/eli/cc/2011/577)
+[^7-3]: Nouvelle teneur selon l’annexe 1 ch. II 1 de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 #### Art. 8
 
@@ -276,7 +277,7 @@ L’abrogation et la modification d’autres actes sont réglées en annexe.
 
 Art. 1, al. 1, let. a, ch. 12
 
-...[^17-2]
+…[^17-2]
 
 [^17-1]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
 [^17-2]: Texte inséré.

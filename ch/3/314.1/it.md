@@ -4,11 +4,11 @@ title: Legge del 18 marzo 2016 sulle multe disciplinari (LMD)
 short: LMD
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/725"
 language: it
-version: 2023-01-01
+version: 2023-10-01
 adopted: 2016-03-18
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/725/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2017-725-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/725/20231001/it/xml/fedlex-data-admin-ch-eli-cc-2017-725-20231001-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20231001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20230101/it"
 
 (LMD)
 
-del 18 marzo 2016 (Stato 1° gennaio 2023)
+del 18 marzo 2016 (Stato 1° ottobre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -161,7 +161,7 @@ Le infrazioni non sono neppure punite nella procedura della multa disciplinare s
 
 **Responsabilità del detentore del veicolo**
 
-<sup>1</sup> Se il conducente di un veicolo non viene sorpreso o fermato al momento dell’infrazione alla LCStr[^7-1], alle ordinanze emanate in virtù della stessa oppure alla LUSN[^7-2], la multa è inflitta al detentore del veicolo indicato nella licenza di circolazione.
+<sup>1</sup> Se il conducente di un veicolo non viene sorpreso o fermato al momento dell’in-frazione alla LCStr[^7-1], alle ordinanze emanate in virtù della stessa oppure alla LUSN[^7-2], la multa è inflitta alla persona fisica o giuridica indicata nella licenza di circolazione come detentore del veicolo.[^7-3]
 
 <sup>2</sup> La multa è comunicata per scritto al detentore indicato nella licenza di circolazione. Questi può pagarla entro 30 giorni.
 
@@ -173,6 +173,7 @@ Le infrazioni non sono neppure punite nella procedura della multa disciplinare s
 
 [^7-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
 [^7-2]: [RS 741.71](https://fedlex.data.admin.ch/eli/cc/2011/577)
+[^7-3]: Nuovo testo giusta l’all. 1 n. II 1 della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 #### Art. 8
 

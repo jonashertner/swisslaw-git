@@ -4,11 +4,11 @@ title: Ordnungsbussengesetz vom 18. März 2016 (OBG)
 short: OBG
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/725"
 language: de
-version: 2023-01-01
+version: 2023-10-01
 adopted: 2016-03-18
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/725/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2017-725-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/725/20231001/de/xml/fedlex-data-admin-ch-eli-cc-2017-725-20231001-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20231001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20230101/de"
 
 (OBG)
 
-vom 18. März 2016 (Stand am 1. Januar 2023)
+vom 18. März 2016 (Stand am 1. Oktober 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -162,7 +162,7 @@ Widerhandlungen werden zudem nicht im Ordnungsbussenverfahren geahndet, wenn:
 
 **Haftung der Fahrzeughalterin oder des Fahrzeughalters**
 
-<sup>1</sup> Wird die Fahrzeugführerin oder der Fahrzeugführer nicht anlässlich der Widerhandlung gegen das SVG[^7-1], die gestützt darauf erlassenen Verordnungen oder das NSAG[^7-2] angetroffen oder angehalten, so wird die Busse der im Fahrzeugausweis eingetragenen Fahrzeughalterin oder dem im Fahrzeugausweis eingetragenen Fahrzeughalter auferlegt.
+<sup>1</sup> Wird die Fahrzeugführerin oder der Fahrzeugführer nicht anlässlich der Widerhandlung gegen das SVG[^7-1], die gestützt darauf erlassenen Verordnungen oder das NSAG[^7-2] angetroffen oder angehalten, so wird die Busse der im Fahrzeugausweis als Fahrzeughalterin oder Fahrzeughalter eingetragenen natürlichen oder juristischen Person auferlegt.[^7-3]
 
 <sup>2</sup> Der Halterin oder dem Halter wird die Busse schriftlich eröffnet. Sie oder er kann sie innerhalb von 30 Tagen bezahlen.
 
@@ -174,6 +174,7 @@ Widerhandlungen werden zudem nicht im Ordnungsbussenverfahren geahndet, wenn:
 
 [^7-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
 [^7-2]: [SR 741.71](https://fedlex.data.admin.ch/eli/cc/2011/577)
+[^7-3]: Fassung gemäss Anhang 1 Ziff. II 1 des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 #### Art. 8
 
