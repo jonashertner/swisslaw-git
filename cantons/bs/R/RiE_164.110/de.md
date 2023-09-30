@@ -4,13 +4,13 @@ number: RiE 164.110
 title: Reglement über das Gehalt der Mitarbeiterinnen und Mitarbeiter der Gemeinde Riehen
 short: Lohnreglement
 language: de
-version: 2022-05-01
-valid_until: 2023-09-30
-version_adopted: 2022-04-26
+version: 2023-10-01
+valid_until: 2023-12-31
+version_adopted: 2023-07-04
 adopted: 2008-12-09
 in_force: 2009-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20164.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5528/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6024/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Lohnreglement | Riehen: Einwohnergemeinde
 
 (Lohnreglement)
 
-Vom 9. Dezember 2008 (Stand 1. Mai 2022)
+Vom 9. Dezember 2008 (Stand 1. Oktober 2023)
 
 Der Gemeinderat Riehen,
 
@@ -207,7 +207,7 @@ E bedeutet: «erfüllt die Erwartungen teilweise».
 
 **Vergütung für ausserordentliche Einsätze**
 
-<sup>1</sup> Die Vergütung gemäss § 16 der Lohnordnung beträgt pauschal CHF 50 pro Einsatz.
+<sup>1</sup> Die Vergütung gemäss § 16 der Lohnordnung beträgt pauschal CHF 56 pro Einsatz.
 
 <sup>2</sup> Diese Vergütung wird höchstens einmal pro Einsatz und bei Einsätzen an Sonn- und Feiertagen höchstens zweimal innert 24 Stunden ausgerichtet.
 
@@ -215,11 +215,31 @@ E bedeutet: «erfüllt die Erwartungen teilweise».
 
 #### § 13a
 
-**Entschädigung der Notfalldienstverantwortlichen**
+**…**
 
-<sup>1</sup> Notfalldienstverantwortliche erhalten für den Bereitschaftsdienst eine Entschädigung in der Höhe von CHF 50 pro Woche.
+#### § 13b
 
-<sup>2</sup> Müssen Notfalldienstverantwortliche im Ereignisfall ausrücken, erhalten sie zusätzlich die Vergütung für ausserordentliche Einsätze gemäss § 13.
+**Pikettentschädigung**
+
+<sup>1</sup> Wird Pikettdienst geleistet, betragen die Vergütungen:
+
+- a) Wochenpauschale — CHF 260
+- b) Tagespauschale Werktage — CHF 35
+- c) Tagespauschale Sonn-/Feiertage — CHF 50
+- d) Halbtagespauschale Werktage — CHF 20
+- e) Halbtagespauschale Sonn-/Feiertage — CHF 25
+
+<sup>2</sup> Bei Piketteinsätzen besteht kein Anspruch auf Vergütung für ausserordentliche Einsätze gemäss § 13.
+
+<sup>3</sup> Keinen Anspruch auf Pikettdienstentschädigungen haben Mitarbeitende ab Anforderungsniveau 9.
+
+#### § 13c
+
+**Wegpauschale**
+
+<sup>1</sup> Für ausserordentliche Einsätze oder Einsätze während des Pikettdienstes wird eine Wegpauschale von CHF 25 gewährt.
+
+<sup>2</sup> Diese Vergütung wird höchstens einmal pro Einsatz und bei Einsätzen an Sonn- und Feiertagen höchstens zweimal innert 24 Stunden gewährt.
 
 ### III. 2. Prämien
 
