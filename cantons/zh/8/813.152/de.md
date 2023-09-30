@@ -5,10 +5,10 @@ title: Personalreglement des Universitätsspitals Zürich (PR-USZ)
 short: PR-USZ
 language: de
 version: "2022-08-01"
-nachtrag: "118"
-valid_until: 2023-10-01
+nachtrag: "122"
+valid_until: 2025-01-01
 adopted: 2008-11-19
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_152-2008_11_19-2009_02_01-118.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_152-2008_11_19-2009_02_01-122.html"
 text: pdf
 ---
 
@@ -56,7 +56,7 @@ beschliesst:
 
 **1**
 
-1.10. 22 - 118 e. die Schaffung von neuen Stellen, für die das Personalrecht des Kantons Zürich keine Richtposition vorsieht, sowie von neuen Stellen ab Lohnklasse 27,
+1.10. 23 - 122 e. die Schaffung von neuen Stellen, für die das Personalrecht des Kantons Zürich keine Richtposition vorsieht, sowie von neuen Stellen ab Lohnklasse 27,
 
 - f. die Anerkennung von Personalverbänden als Verhandlungspartner von Gesamtarbeitsverträgen für Personal des Universitätsspitals,
 
@@ -66,11 +66,13 @@ beschliesst:
 
 <sup>2</sup> Er ist zuständig zur Festlegung:
 
+a.<sup>14</sup> des Umfangs von zusätzlichen Mitteln für die Lohnentwicklung gemäss § 9 a,
+
 - b. der Entschädigung von Nacht- und Wochenendarbeit sowie von Pikett- und Präsenzdienst gemäss § 12,
 
 - c. des Prämienanteils des Personals an einer allfälligen Krankentaggeldversicherung gemäss § 14,
 
-- d. der Beiträge an die Verpflegung und die Abonnemente des öffentlichen Verkehrs für Mitarbeitende, die an mehreren Standorten tätig sind,
+- d. der Beiträge an die Verpflegung und die Abonnemente des öffentlichen Verkehrs für Mitarbeitende, die an mehreren Standorten tätig sind, e.<sup>15</sup>
 
 - f. von Sozialplänen gemäss § 27 PG<sup>4</sup>.
 
@@ -114,9 +116,7 @@ beschliesst:
 
 <sup>2</sup> Befristete Arbeitsverhältnisse sind zulässig:
 
-- a. im Rahmen von § 13 Abs. 2 PG<sup>4</sup>,
-
-- b. für Stellen, die der Aus-, Fort- und Weiterbildung sowie der Forschung dienen, wie namentlich Assistenzarzt- und Oberarztstellen,
+- a. im Rahmen von § 13 Abs. 2 PG<sup>4</sup>, b.<sup>14</sup> für Stellen, die der Aus-, Fort- und Weiterbildung sowie der Forschung dienen, insbesondere Assistenzarzt- und Oberarztstellen,
 
 - c. bei Anstellungen, bei denen der Lohn durch Drittmittel finanziert wird,
 
@@ -134,7 +134,7 @@ beschliesst:
 
 **3**
 
-1.10. 22 - 118 § 7.<sup>12</sup> <sup>1</sup> Sachlich zureichende Gründe für die Auflösung des Arbeitsverhältnisses gemäss § 18 Abs. 2 PG sind insbesondere:
+1.10. 23 - 122 § 7.<sup>12</sup> <sup>1</sup> Sachlich zureichende Gründe für die Auflösung des Arbeitsverhältnisses gemäss § 18 Abs. 2 PG sind insbesondere:
 
 **Sachlich zureichende Kündigungsgründe a. allgemein**
 
@@ -176,6 +176,14 @@ beschliesst:
 
 <sup>3</sup> Personal, das gleichzeitig in einem Arbeitsverhältnis zum Universitätsspital und zur Universität Zürich steht, hat in der Regel einen Lohnanspruch nur gegenüber der Universität.
 
+**b. Entwicklung**
+
+§ 9 a.<sup>14</sup> <sup>1</sup> Der Spitalrat entscheidet auf Antrag der Spitaldirektion über die jährliche Lohnentwicklung und den Teuerungsausgleich.
+
+<sup>2</sup> Er kann für einzelne Personalgruppen unterschiedliche Lohnentwicklungen vorsehen.
+
+<sup>3</sup> Die Lohnentwicklung orientiert sich am Arbeitsmarkt im Gesundheitswesen und berücksichtigt die finanzielle Situation des Universitätsspitals.
+
 **c. variabler Vergütungsbestandteil**
 
 § 10.<sup>12</sup> <sup>1</sup> Die Vergütung der Mitglieder der Spitaldirektion und des mit öffentlich-rechtlichem Vertrag angestellten Personals kann einen variablen Bestandteil enthalten.
@@ -198,19 +206,19 @@ beschliesst:
 
 <sup>5</sup> Der Spitalrat erlässt ein Vergütungsreglement.
 
-**Nacht- und Wochenendarbeit, Pikett- und Präsenzdienst**
+**5**
 
-§ 12.<sup>12</sup> <sup>1</sup> Der Spitalrat regelt die Entschädigung für Nacht- und Wochenendarbeit gemäss § 132 der Vollzugsverordnung zum Personalgesetz vom 19. Mai 1999 (VVO)<sup>5</sup> sowie für Pikett- und Präsenzdienst gemäss § 133 VVO.
+1.10. 23 - 122 § 12.<sup>12</sup> <sup>1</sup> Der Spitalrat regelt die Entschädigung für Nacht- und Wochenendarbeit gemäss § 132 der Vollzugsverordnung zum Personalgesetz vom 19. Mai 1999 (VVO)<sup>5</sup> sowie für Pikett- und Präsenzdienst gemäss § 133 VVO.
+
+**Nacht- und Wochenendarbeit, Pikett- und Präsenzdienst**
 
 <sup>2</sup> Die Entschädigung entspricht mindestens dem kantonalen Ansatz.
 
 § 13.<sup>13</sup>
 
-**5**
-
-1.10. 22 - 118 § 14.<sup>12</sup> <sup>1</sup> Das Universitätsspital kann für das Personal eine die gesetzlichen Lohnfortzahlungspflichten ersetzende Krankentaggeldversicherung abschliessen.
-
 **Versicherungen**
+
+§ 14.<sup>12</sup> <sup>1</sup> Das Universitätsspital kann für das Personal eine die gesetzlichen Lohnfortzahlungspflichten ersetzende Krankentaggeldversicherung abschliessen.
 
 <sup>2</sup> Die Leistungen müssen für das Personal mindestens gleichwertig zur Regelung gemäss kantonalem Personalrecht und für das Universitätsspital wirtschaftlich sein.
 
@@ -232,11 +240,9 @@ beschliesst:
 
 § 16.<sup>12</sup> <sup>1</sup> Als Nebenbeschäftigung gilt jede Ausübung einer selbstständigen oder unselbstständigen Tätigkeit neben der Anstellung am Universitätsspital, insbesondere Beratungstätigkeiten, Lehrverpflichtungen oder die Wahrnehmung von Organfunktionen bei Dritten.
 
-<sup>2</sup> Als öffentliches Amt gilt die Mitgliedschaft in einem Parlament oder einer Exekutive, die Tätigkeit an einem Gericht oder in einer Kommission der Eidgenossenschaft, eines Kantons, einer Gemeinde, einer Kirchgemeinde oder einer anderen Körperschaft des öffentlichen Rechts.
+<sup>2</sup> Als öffentliches Amt gilt die Mitgliedschaft in einem Parlament oder einer Exekutive, die Tätigkeit an einem Gericht oder in einer Kommission der Eidgenossenschaft, eines Kantons, einer Gemeinde, einer Kirchgemeinde oder einer anderen Körperschaft des öffentlichen Rechts. § 17.<sup>12</sup> <sup>1</sup> Nebenbeschäftigungen sind nur zulässig, wenn a. die Aufgabenerfüllung der oder des Angestellten nicht beeinträchtigt wird,
 
 **Nebenbeschäftigungen a. Zulässigkeit**
-
-§ 17.<sup>12</sup> <sup>1</sup> Nebenbeschäftigungen sind nur zulässig, wenn a. die Aufgabenerfüllung der oder des Angestellten nicht beeinträchtigt wird,
 
 - b. die Tätigkeit mit der Stellung der oder des Angestellten am Universitätsspital vereinbar ist,
 
@@ -268,21 +274,19 @@ beschliesst:
 
 <sup>4</sup> Sie kann die Abgeltung der Infrastruktur- und Personalkosten verlangen. In Absprache mit der Universität kann sie einen Teil der erzielten Nebeneinkünfte als Abgabe einfordern und Bewilligungen nach Abs. 2 unter Auflagen erteilen.
 
-**Öffentliche Ämter**
+**7**
 
-§ 21.<sup>12</sup> Die Ausübung öffentlicher Ämter richtet sich nach dem Personalgesetz.
+1.10. 23 - 122 § 21.<sup>12</sup> Die Ausübung öffentlicher Ämter richtet sich nach dem Personalgesetz.
 
 #### § 22
+
+**Öffentliche Ämter**
 
 **Ausführungsbestimmungen**
 
 <sup>1</sup> Die Spitaldirektion erlässt Ausführungsbestimmungen über die Nebenbeschäftigungen und die Tätigkeit im Rahmen öffentlicher Ämter. Sie regelt dabei insbesondere das Verfahren, die Auflagen, die Abgeltungen und die Abgaben.<sup>12</sup>
 
 <sup>2</sup> Sie achtet auf eine weitgehende Harmonisierung mit den Vorschriften der Universität Zürich. Sie kann mit den zuständigen Organen der Universität ein gemeinsames Reglement erlassen.
-
-**7**
-
-1.10. 22 - 118
 
 ### E. Erfindungen und urheberrechtlich geschützte Werke
 
@@ -306,11 +310,9 @@ Das Universitätsspital unterstützt die Entwicklung und Verwertung von Erfindun
 
 <sup>1</sup> Die Verwertungsrechte an einem urheberrechtlich geschützten Werk, das in Ausübung der dienstlichen Tätigkeit geschaffen wurde, stehen dem Universitätsspital zu, soweit keine anderslautenden Vereinbarungen getroffen wurden.
 
-<sup>2</sup> Die Spitaldirektion kann den Angestellten die Verwertung überlassen. Angestellte, denen die Verwertung eines urheberrechtlich geschützten Werkes von erheblicher wirtschaftlicher oder technischer Bedeutung nicht überlassen wird, haben Anspruch auf eine angemessene Vergütung. Das Obligationenrecht gilt sinngemäss.
+<sup>2</sup> Die Spitaldirektion kann den Angestellten die Verwertung überlassen. Angestellte, denen die Verwertung eines urheberrechtlich geschützten Werkes von erheblicher wirtschaftlicher oder technischer Bedeutung nicht überlassen wird, haben Anspruch auf eine angemessene Vergütung. Das Obligationenrecht gilt sinngemäss. § 25 a.<sup>11</sup> <sup>1</sup> Vorbehältlich §§ 24 und 25 stehen sämtliche in Ausübung der dienstlichen Tätigkeit geschaffenen Ergebnisse, insbesondere Protokolle, Skizzen, Laborbücher und Produkte, im Eigentum des Universitätsspitals.
 
 **Weitere Arbeitsergebnisse**
-
-§ 25 a.<sup>11</sup> <sup>1</sup> Vorbehältlich §§ 24 und 25 stehen sämtliche in Ausübung der dienstlichen Tätigkeit geschaffenen Ergebnisse, insbesondere Protokolle, Skizzen, Laborbücher und Produkte, im Eigentum des Universitätsspitals.
 
 <sup>2</sup> Vorbehalten sind anderslautende vertragliche Vereinbarungen.
 
@@ -354,6 +356,10 @@ Dieses Personalreglement tritt am ersten Tag des zweiten Monats nach seiner Gene
 
 <sup>13</sup> Aufgehoben durch B vom 9. März 2022 (OS 77, 438; ABl 2022-04-08). In Kraft seit 1. August 2022 (ABl 2022-08-19).
 
+<sup>14</sup> Inkrafttreten: 1. Oktober 2023 (OS 78, 377; ABl 2023-09-15).
+
+<sup>15</sup> Aufgehoben durch Urteil des Verwaltungsgerichts vom 2. März 2023 (AN. 2022.00006).
+
 **9**
 
-1.10. 22 - 118
+1.10. 23 - 122
