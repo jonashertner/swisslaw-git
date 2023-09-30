@@ -3,13 +3,13 @@ canton: BS
 number: RiE 162.110
 title: Personalreglement
 language: de
-version: 2022-01-01
-valid_until: 2023-09-30
-version_adopted: 2021-12-07
+version: 2023-10-01
+valid_until: 2023-12-31
+version_adopted: 2023-07-04
 adopted: 2002-07-16
 in_force: 2002-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20162.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5387/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5966/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5387/pdf_file"
 
 Personalreglement | Riehen: Einwohnergemeinde
 
-Vom 16. Juli 2002 (Stand 1. Januar 2022)
+Vom 16. Juli 2002 (Stand 1. Oktober 2023)
 
 Der Gemeinderat Riehen
 
@@ -321,18 +321,60 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 - a) Die tägliche Arbeitszeit beträgt maximal 12 Stunden.
 - b) Die wöchentliche Arbeitszeit beträgt maximal 50 Stunden.
-- c) Nach spätestens sechs Stunden Arbeitszeit erfolgt eine unbezahlte Pause, welche mindestens 45 Minuten dauert und es Mitarbeiterinnen und Mitarbeitern erlaubt, den Arbeitsplatz zu verlassen.
-- d) Abend-, Nacht-, Samstags- oder Sonn- und Feiertagsarbeit darf nur ausnahmsweise geleistet werden. Diese muss den betreffenden Mitarbeiterinnen und Mitarbeitern möglichst früh im Voraus angezeigt werden. Vorbehalten bleibt § 19 Abs. 1 Satz 2.
+- c) Bei Nachtarbeit darf die tägliche Arbeitszeit der Mitarbeitenden neun Stunden nicht überschreiten; sie muss, mit Einschluss der Pausen, innerhalb eines Zeitraums von zehn Stunden liegen.
+- d) Abend-, Nacht-, Samstags- oder Sonn- und Feiertagsarbeit darf nur ausnahmsweise geleistet werden. Diese muss den betroffenen Mitarbeitenden möglichst früh im Voraus angezeigt werden. Vorbehalten bleibt § 19 Abs. 1 Satz 2.
 - e) Die tägliche Arbeitszeit von Jugendlichen unter zwanzig Jahren und von Lernenden beträgt maximal 9 Stunden pro Tag.
-- f) Bei der Einteilung der Arbeitszeit ist auf die persönlichen und familiären Verpflichtungen der Mitarbeiterinnen und Mitarbeiter angemessen Rücksicht zu nehmen.
+- f) Bei der Einteilung der Arbeitszeit ist auf die persönlichen und familiären Verpflichtungen der Mitarbeitenden angemessen Rücksicht zu nehmen.
 
-<sup>1<sup>bis</sup></sup> Abweichungen von den Einschränkungen gemäss Abs. 1 Bst. a, b, c und e müssen von den Vorgesetzen genehmigt werden.
+<sup>1<sup>bis</sup></sup> Abweichungen von den Einschränkungen gemäss Abs. 1 lit. a, b und e müssen von den Vorgesetzen genehmigt werden.
 
 <sup>2</sup> Diese Bestimmung findet auch auf Teilzeitbeschäftigte Anwendung. Bei der Bemessung der Höchstarbeitszeiten gemäss Bst. a und b wird die Verpflichtung der Teilzeitbeschäftigten aus anderen Arbeitsverhältnissen berücksichtigt.
 
 <sup>3</sup> Lärm verursachende Tätigkeiten werden nur in Ausnahmefällen vor 7 Uhr, zwischen 12 und 13 Uhr sowie nach 19 Uhr ausgeführt.
 
 <sup>4</sup> …
+
+#### § 21a
+
+**Pausen und Ruhezeiten**
+
+<sup>1</sup> Pro Arbeitstag können zwei Arbeitspausen von insgesamt 30 Minuten eingelegt werden. Die Zeit der Arbeitspausen gilt als Arbeitszeit.
+
+<sup>2</sup> Nach spätestens sechs Stunden Arbeitszeit erfolgt eine unbezahlte Mittags- bzw. Verpflegungspause, welche mindestens 30 Minuten dauert und es den Mitarbeitenden erlaubt, den Arbeitsplatz zu verlassen. Aus betrieblichen Gründen können die Abteilungsleitungen längere Pausen anordnen.
+
+<sup>3</sup> Den Mitarbeitenden ist eine tägliche Ruhezeit von mindestens elf Stunden zu gewähren.
+
+<sup>4</sup> Die Ruhezeit kann für Mitarbeitende ab 20 Jahren einmal während der Woche bis auf acht Stunden herabgesetzt werden, sofern die Dauer von elf Stunden im Durchschnitt von zwei Wochen eingehalten wird.
+
+<sup>5</sup> Innert zwei Wochen muss wenigstens einmal ein Sonntag als wöchentlicher Ruhetag unmittelbar vor oder nach der täglichen Ruhezeit freigegeben werden.
+
+<sup>6</sup> Sonntagsarbeit von einer Dauer von fünf Stunden ist durch Freizeit auszugleichen. Dauert sie länger als fünf Stunden, so ist während der vorhergehenden oder der nachfolgenden Woche im Anschluss an die tägliche Ruhezeit ein auf einen Arbeitstag fallender Ersatzruhetag von mindestens 24 aufeinander folgenden Stunden zu gewähren.
+
+#### § 21b
+
+**Pikettdienst**
+
+<sup>1</sup> Als Pikettdienst gilt die angeordnete und auf die sofortige Abrufmöglichkeit beschränkte Einsatzbereitschaft, die ausserhalb des angestammten Arbeitsortes und ausserhalb der vereinbarten Sollarbeitszeit geleistet wird.
+
+<sup>2</sup> Sie kann durch die zuständige Betriebsleitung oder Abteilungsleitung angeordnet werden, um ausserordentliche Situationen abzudecken. Mitarbeitende mit Betreuungspflichten dürfen nur mit deren Einwilligung eingesetzt werden.
+
+<sup>3</sup> Mitarbeitende dürfen im Zeitraum von vier Wochen an höchstens sieben Tagen auf Pikett sein oder Piketteinsätze leisten. Nach Beendigung des letzten Pikettdienstes dürfen betroffene Mitarbeitende während den zwei darauf folgenden Wochen nicht mehr zum Pikettdienst aufgeboten werden.
+
+<sup>4</sup> Ausnahmsweise können Mitarbeitende im Zeitraum von vier Wochen an höchstens 14 Tagen auf Pikett sein, sofern die Anzahl der tatsächlichen Piketteinsätze im Durchschnitt eines Kalenderjahres nicht mehr als fünf Einsätze pro Monat ausmacht.
+
+<sup>5</sup> Bei Teilzeitmitarbeitenden erfolgt die Anordnung von Pikettdienst maximal proportional zum vertraglich vereinbarten Beschäftigungsgrad. Schwangere und stillende Mütter dürfen nicht über die vereinbarte ordentliche Dauer der täglichen Arbeit hinaus beschäftigt und für Pikettdienst aufgeboten werden.
+
+<sup>6</sup> Im Falle eines Piketteinsatzes wird die effektive Arbeitszeit angerechnet sowie eine Wegpauschale gemäss Lohnreglement gewährt.
+
+<sup>7</sup> Die Pikettdienstentschädigung und allfällige Zuschläge für den eigentlichen Piketteinsatz richten sich nach dem Lohnreglement. Es wird keine zusätzliche Vergütung für ausserordentliche Einsätze gewährt.
+
+#### § 21c
+
+**Einsatz bei ausserordentlichen Ereignissen**
+
+<sup>1</sup> Bei ausserordentlichen Ereignissen, insbesondere bei Schneefall, Glatteis, Unwetter, Katastrophen oder Cyberangriffen, können von der zuständigen Einsatzleitung zusätzlich zu den Mitarbeitenden, die einen Piketteinsatz leisten, weitere Mitarbeitende für Soforteinsätze aufgeboten werden.
+
+<sup>2</sup> Die Vergütung für diese Soforteinsätze richtet sich nach dem Lohnreglement.
 
 #### § 22
 
@@ -943,9 +985,10 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 <sup>1</sup> Die Verwaltungsleiterin oder der Verwaltungsleiter erlässt gemeinsam mit der Leitung des Fachbereichs Personal ergänzende Weisungen oder Richtlinien.
 
-<sup>2</sup> Diese regeln insbesondere
+<sup>2</sup> Diese regeln insbesondere:
 
 - a) die Jahresarbeitszeit
+- a<sup>bis</sup>) die Gestaltung der Arbeitszeit
 - b) die Übertragung von Ferien auf das nächste Kalenderjahr
 - c) die Gewährung von Urlaub zur Regelung dringender persönlicher Angelegenheiten und den weiteren Urlaub
 - d) die Entgegennahme von Trinkgeldern und Geschenken
