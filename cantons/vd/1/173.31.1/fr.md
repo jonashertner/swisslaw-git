@@ -4,7 +4,7 @@ number: "173.31.1"
 title: RÈGLEMENT du 13.11.2007 organique du Tribunal cantonal (ROTC)
 short: ROTC
 language: fr
-version: 2023-04-01
+version: 2023-10-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.31.1?id=8b4fb417-034b-443a-adf5-89df04fa5a04"
 ---
 
@@ -397,6 +397,7 @@ arrête
 - - séjour et établissement des étrangers, y compris les assignations à résidence et les interdictions de périmètre (art. 13 et 14 LVLEtr[^30-2] ) ainsi que la mise en oeuvre des expulsions judiciaires et les décisions sur leur report (art. 3 al. 1 ch. 3ter LVLEtr) (PE) ;
 - - bourses d'études et d'apprentissage (BO) ;
 - - décisions incidentes du juge instructeur (RE).
+- - dossiers de police judiciaire (art. 8c al. 6 LDPJu) (GE).
 
 <sup>2</sup> Elle connaît en outre du contentieux qui n'est pas attribué à une autre section du Tribunal cantonal ou à une autre autorité (GE).
 
