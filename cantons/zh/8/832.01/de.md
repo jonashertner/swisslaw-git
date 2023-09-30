@@ -4,11 +4,10 @@ number: "832.01"
 title: Einführungsgesetz zum Krankenversicherungsgesetz (EG KVG)
 short: EG KVG
 language: de
-version: "2020-11-15"
-nachtrag: "111"
-valid_until: 2023-10-01
+version: "2023-10-01"
+nachtrag: "123"
 adopted: 2019-04-29
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-832_01-2019_04_29-2020_04_01-111.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-832_01-2019_04_29-2020_04_01-123.html"
 text: pdf
 ---
 
@@ -38,23 +37,25 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinden prüfen, ob Personen, die sich dort niederlassen oder Aufenthalt begründen, für Krankenpflege gemäss dem Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)[^h1AbschnittVersic-1] versichert sind. Sie weisen versicherungspflichtige Personen, die nicht versichert sind, einem Versicherer zu.
 
-<sup>2</sup> Der Regierungsrat kann diese Aufgaben für bestimmte Gruppen von Personen gemäss Abs. 1 auf kantonale Amtsstellen übertragen. Er regelt die Zuständigkeit für diese Aufgaben bei Personen ohne Niederlassung und Aufenthalt in einer Gemeinde.
+<sup>2</sup> Der Regierungsrat kann diese Aufgaben für bestimmte Gruppen von Personen gemäss Abs. 1 auf kantonale Amtsstellen oder gegen eine kostendeckende Entschädigung der Sozialversicherungsanstalt (SVA) übertragen. Er regelt die Zuständigkeit für diese Aufgaben bei Personen ohne Niederlassung und Aufenthalt in einer Gemeinde.[^1-1]
 
 <sup>3</sup> Auf Verlangen haben die Versicherten die für die Überprüfung ihres Versicherungsschutzes erforderlichen Unterlagen einzureichen.
 
 <sup>4</sup> Der Regierungsrat regelt die Information über die Versicherungspflicht gemäss Art. 6 a KVG in der Verordnung.
 
-#### § 2
-
 **Ausnahmen und Befreiung**
 
-<sup>1</sup> Die für das Krankenversicherungswesen zuständige Direktion (Direktion) entscheidet über Ausnahmen und Befreiungen von der Versicherungspflicht.
+§ 2.[^1-1] <sup>1</sup> Die SVA entscheidet über Ausnahmen und Befreiungen von der Versicherungspflicht mittels anfechtbarer Verfügung.
 
 <sup>2</sup> Sie kann von den Antragstellenden, ihren Arbeitgebern, den Versicherern und den kantonalen und kommunalen Behörden Auskunft und Belege verlangen über die Personalien, die Meldeverhältnisse, den Zivilstand, die berufliche Tätigkeit, den Aufenthaltszweck, die Versicherungsverhältnisse und den Gesundheitszustand der Antragstellenden.
 
+<sup>3</sup> Sie erhält vom Kanton eine kostendeckende Entschädigung.
+
 **1**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 24 - 123
+
+[^1-1]: Fassung gemäss G vom 23. Mai 2022 (OS 78, 97; ABl 2021-09-17). In Kraft seit 1. Oktober 2023. 1. 1. 24 - 123 9
 
 ### 2. Abschnitt: Prämienverbilligung
 
@@ -82,7 +83,7 @@ beschliesst:
 
 <sup>3</sup> Ist die Bruttoprämie einer anspruchsberechtigten Person tiefer als die Referenzprämie, erhält sie höchstens die Bruttoprämie als Prämienverbilligung.
 
-[^3-1]: Eingefügt durch G vom 2. November 2020 (OS 75, 473; ABl 2020-08-28). In Kraft seit 15. November 2020. 1. 1. 21 - 111 9
+[^3-1]: Eingefügt durch G vom 2. November 2020 (OS 75, 473; ABl 2020-08-28). In Kraft seit 15. November 2020.
 
 #### § 5
 
@@ -144,7 +145,7 @@ beschliesst:
 
 **3**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 24 - 123
 
 ### B. Berechnungsgrundlagen
 
@@ -180,9 +181,11 @@ Richten sich die Prämienverbilligungsbeiträge nach dem Alter der anspruchsbere
 
 <sup>1</sup> Verändern sich die Grundlagen zur Berechnung der Prämienverbilligung einer Person, sodass sie eine wesentlich höhere Prämienverbilligung zugute hätte, kann sie im Folgejahr deren Anpassung verlangen.
 
-<sup>2</sup> Die Sozialversicherungsanstalt (SVA) passt die Prämienverbilligung rückwirkend auf der Grundlage der Steuererklärung für das betreffende Jahr oder ersatzweise anderer Ausweise an.
+<sup>2</sup> Die SVA[^11-1] passt die Prämienverbilligung rückwirkend auf der Grundlage der Steuererklärung für das betreffende Jahr oder ersatzweise anderer Ausweise an.
 
 <sup>3</sup> In Härtefällen und in weiteren in der Verordnung bezeichneten Fällen kann die SVA die Prämienverbilligung bereits im Jahr, in dem die Änderung eingetreten ist, ganz oder teilweise anpassen.
+
+[^11-1]: Fassung gemäss G vom 23. Mai 2022 (OS 78, 97; ABl 2021-09-17). In Kraft seit 1. Oktober 2023. 1. 1. 24 - 123 9
 
 #### § 12
 
@@ -238,7 +241,7 @@ Richten sich die Prämienverbilligungsbeiträge nach dem Alter der anspruchsbere
 
 **5**
 
-- 1\. 1. 21 - 111 § 17. <sup>1</sup> Der Kanton entrichtet an Personen mit Wohnsitz im Ausland eine Prämienverbilligung, wenn sie verpflichtet sind, sich in der Schweiz für Krankenpflege zu versichern. Der Anspruch auf Prämienverbilligung gegenüber dem Bund bleibt vorbehalten.
+- 1\. 1. 24 - 123 § 17. <sup>1</sup> Der Kanton entrichtet an Personen mit Wohnsitz im Ausland eine Prämienverbilligung, wenn sie verpflichtet sind, sich in der Schweiz für Krankenpflege zu versichern. Der Anspruch auf Prämienverbilligung gegenüber dem Bund bleibt vorbehalten.
 
 **Versicherte mit Wohnsitz im Ausland**
 
@@ -332,7 +335,7 @@ Der Regierungsrat regelt die Einzelheiten des Verfahrens in der Verordnung.
 
 **7**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 24 - 123
 
 <sup>3</sup> Sie kann im Einzelfall von den Antragstellenden, den Gemeinden, den Ausbildungsstätten und den Versicherern Angaben und Belege verlangen über die Personalien, die AHV-Versichertennummer, die Meldeverhältnisse, die Ausbildungssituation, die Versicherungsverhältnisse sowie die persönlichen und wirtschaftlichen Verhältnisse der Antragstellenden.
 
@@ -354,11 +357,13 @@ Der Regierungsrat regelt die Einzelheiten des Verfahrens in der Verordnung.
 
 <sup>2</sup> Die SVA vergütet den Versicherern die Prämienverbilligungen mit Valuta 1. Juli des Anspruchsjahres.
 
+[^28-1]: Fassung gemäss G vom 23. Mai 2022 (OS 78, 97; ABl 2021-09-17). In Kraft seit 1. Oktober 2023. 1. 1. 24 - 123 9
+
 #### § 29
 
 **Abrechnungen und Revision**
 
-<sup>1</sup> Die SVA erstellt Abrechnungen zuhanden der Direktion und stellt ihr jährlich Revisionsberichte zu.
+<sup>1</sup> Die SVA erstellt Abrechnungen zuhanden der für das Gesundheitswesen zuständigen Direktion (Direktion)[^28-1] und stellt ihr jährlich Revisionsberichte zu.
 
 <sup>2</sup> Die Verordnung regelt Inhalt und Ablieferungsdaten der Abrechnungen und des Revisionsberichts.
 
@@ -385,6 +390,12 @@ Die Versicherer, die SVA und die kantonalen und kommunalen Verwaltungseinheiten 
 <sup>1</sup> Für die Ausrichtung von Prämienverbilligungen gilt das Bundesgesetz vom 6. Oktober 2000 über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG)[^31-1].
 
 <sup>2</sup> In Abweichung von Art. 58 Abs. 1 ATSG ist das Sozialversicherungsgericht dann zur Beurteilung von Beschwerden zuständig, wenn der Kanton für die Ausrichtung der Prämienverbilligung zuständig ist.
+
+**Aufsicht**
+
+§ 32 a.[^32-1] Soweit die SVA Aufgaben nach diesem Gesetz erfüllt, untersteht sie der allgemeinen Aufsicht des Regierungsrates und der Oberaufsicht des Kantonsrates.
+
+[^32-1]: Eingefügt durch G vom 23. Mai 2022 (OS 78, 97; ABl 2021-09-17). In Kraft seit 1. Oktober 2023.
 
 #### § 33
 
