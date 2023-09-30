@@ -4,11 +4,11 @@ title: Legge federale del 19 dicembre 1958 sulla circolazione stradale (LCStr)
 short: LCStr
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/679_705_685"
 language: it
-version: 2023-09-01
+version: 2023-10-01
 adopted: 1958-12-19
 in_force: 1959-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20230901-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20231001/it/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20231001-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20231001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20230901/it"
 
 (LCStr)
 
-del 19 dicembre 1958 (Stato 1° settembre 2023)
+del 19 dicembre 1958 (Stato 1° ottobre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -57,22 +57,23 @@ Il Consiglio federale, consultati i Cantoni, può:
 - b. vietare temporaneamente, in tutta la svizzera, la circolazione dei veicoli a motore o di singole categorie di essi;
 - c.[^2-1] ...
 
-<sup>2</sup> La circolazione degli autoveicoli pesanti adibiti al trasporto di merci è vietata la notte dalle 22.00 alle 05.00 e la domenica. Il Consiglio federale disciplina i dettagli.[^2-2]
+<sup>2</sup> La circolazione degli autoveicoli pesanti adibiti al trasporto di merci è vietata la notte dalle 22.00 alle 05.00 e la domenica. Il Consiglio federale disciplina i dettagli e stabilisce le eccezioni.[^2-2] [^2-3]
 
-<sup>3</sup> Il Consiglio federale stabilisce un elenco delle strade aperte soltanto agli autoveicoli. Esso le designa, per quanto ciò non spetti all’Assemblea federale, dopo aver sentito i Cantoni interessati e a proposta dei medesimi. Esso determina le specie degli autoveicoli ammessi a circolare su tali strade.[^2-3]
+<sup>3</sup> Il Consiglio federale stabilisce un elenco delle strade aperte soltanto agli autoveicoli. Esso le designa, per quanto ciò non spetti all’Assemblea federale, dopo aver sentito i Cantoni interessati e a proposta dei medesimi. Esso determina le specie degli autoveicoli ammessi a circolare su tali strade.[^2-4]
 
-<sup>3bis</sup> L’Ufficio federale delle strade (USTRA) decide le misure concernenti la regolazione locale del traffico sulle strade nazionali.[^2-4] Anche i Comuni sono legittimati a ricorrere se, sul loro territorio, sono ordinate misure in materia di circolazione stradale.[^2-5]
+<sup>3bis</sup> L’Ufficio federale delle strade (USTRA) decide le misure concernenti la regolazione locale del traffico sulle strade nazionali.[^2-5] Anche i Comuni sono legittimati a ricorrere se, sul loro territorio, sono ordinate misure in materia di circolazione stradale.[^2-6]
 
-<sup>4</sup> Per quanto sia necessario all’esercito o alla protezione civile, la circolazione su determinate strade può essere temporaneamente limitata o vietata. Il Consiglio federale designa le autorità militari o di protezione civile autorizzate a decidere. Esse informano preliminarmente le autorità cantonali.[^2-6]
+<sup>4</sup> Per quanto sia necessario all’esercito o alla protezione civile, la circolazione su determinate strade può essere temporaneamente limitata o vietata. Il Consiglio federale designa le autorità militari o di protezione civile autorizzate a decidere. Esse informano preliminarmente le autorità cantonali.[^2-7]
 
 <sup>5</sup> Per le strade di proprietà della Confederazione, le autorità federali designate dal Consiglio federale stabiliscono se e a quali condizioni la circolazione pubblica è permessa. Esse provvedono al collocamento dei segnali necessari.
 
 [^2-1]: Abrogata dal n. I della LF del 22 mar. 1991, con effetto dal 15 mar. 1992 ([RU 1992 534](https://fedlex.data.admin.ch/eli/oc/1992/534_534_534); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
-[^2-2]: Nuovo testo giusta l’art. 6 n. 2 della LF dell’8 ott. 1999 sul trasferimento del traffico, in vigore dal 1° gen. 2001 ([RU 2000 2864](https://fedlex.data.admin.ch/eli/oc/2000/495); [FF 1999 5092](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
-[^2-3]: Nuovo testo giusta l’art. 63 della LF dell’8 mar. 1960 su le strade nazionali, in vigore dal 21 giu. 1960 ([RU 1960 555](https://fedlex.data.admin.ch/eli/oc/1960/525_569_555); FF **1959** II 649).
-[^2-4]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^2-5]: Introdotto dal n. I della LF del 14 dic. 2001 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 3837). Nuovo testo giusta l’all. n. 73 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 1069](https://fedlex.data.admin.ch/eli/oc/2006/188)[2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^2-6]: Nuovo testo giusta il n. I della LF del 6 ott. 1989, in vigore dal 1° feb. 1991 ([RU 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 185](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
+[^2-2]: Nuovo testo del per. giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^2-3]: Nuovo testo giusta l’art. 6 n. 2 della LF dell’8 ott. 1999 sul trasferimento del traffico, in vigore dal 1° gen. 2001 ([RU 2000 2864](https://fedlex.data.admin.ch/eli/oc/2000/495); [FF 1999 5092](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
+[^2-4]: Nuovo testo giusta l’art. 63 della LF dell’8 mar. 1960 su le strade nazionali, in vigore dal 21 giu. 1960 ([RU 1960 555](https://fedlex.data.admin.ch/eli/oc/1960/525_569_555); FF **1959** II 649).
+[^2-5]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^2-6]: Introdotto dal n. I della LF del 14 dic. 2001 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 3837). Nuovo testo giusta l’all. n. 73 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 1069](https://fedlex.data.admin.ch/eli/oc/2006/188)[2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^2-7]: Nuovo testo giusta il n. I della LF del 6 ott. 1989, in vigore dal 1° feb. 1991 ([RU 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 185](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
 
 ### Prevenzione
 
@@ -146,14 +147,15 @@ Il Consiglio federale, consultati i Cantoni, può:
 
 <sup>1</sup> Nella pianificazione, costruzione, manutenzione ed esercizio dell’infrastruttura stradale, la Confederazione, i Cantoni e i Comuni tengono adeguatamente conto delle esigenze legate alla sicurezza della circolazione.
 
-<sup>2</sup> In collaborazione con i Cantoni, la Confederazione emana prescrizioni riguardanti l’assetto e le caratteristiche dei passaggi pedonali.
+<sup>2</sup> ...[^6a-2]
 
 <sup>3</sup> La Confederazione, i Cantoni e i Comuni esaminano la loro rete stradale per individuare i tratti pericolosi e a rischio d’incidente ed elaborano un piano per il loro risanamento.
 
-<sup>4</sup> La Confederazione e i Cantoni nominano una persona di contatto responsabile della sicurezza stradale (addetto alla sicurezza).[^6a-2]
+<sup>4</sup> La Confederazione e ciascun Cantone nominano un interlocutore per le questioni inerenti alla sicurezza stradale (addetto alla sicurezza).[^6a-3]
 
 [^6a-1]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013, i cpv. 1, 3 e 4 entrano in vigore il 1° lug. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^6a-2]: Correzione della CdR dell’AF del 27 mag. 2014, pubblicata l’11 giu. 2014 ([RU 2014 1387](https://fedlex.data.admin.ch/eli/oc/2014/293)). Concerne soltanto il testo francese.
+[^6a-2]: Abrogato dal n. I della LF del 17 mar. 2023, con effetto dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^6a-3]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ## Titolo secondo: Veicoli e conducenti
 
@@ -191,17 +193,20 @@ Il Consiglio federale, consultati i Cantoni, può:
 
 <sup>2</sup> Determina il carico per assi nonché un rapporto adeguato fra la potenza del motore e il peso totale del veicolo o della combinazione di veicoli.
 
-<sup>3</sup> Sentiti i Cantoni, può prevedere eccezioni per i veicoli a motore e i rimorchi di linea e per i veicoli che, dato il loro uso speciale, devono necessariamente avere dimensioni o peso superiori. Esso stabilisce le condizioni alle quali altri veicoli di dimensioni o peso superiori possono, in singoli casi, compiere viaggi imposti dalle circostanze.[^9-4]
+<sup>2bis</sup> Può autorizzare un superamento del peso massimo consentito e della lunghezza massima per veicoli e combinazioni di veicoli che presentano particolari caratteristiche costruttive e di equipaggiamento ecologiche. Il superamento massimo consentito è pari all’eccedenza di peso o di lunghezza richiesta da tali caratteristiche. La capacità di carico non può risultarne incrementata.[^9-4]
 
-<sup>3bis</sup> Su domanda del detentore del veicolo, il peso totale massimo ammesso di un veicolo a motore o di un rimorchio può essere modificato al massimo una volta all’anno oppure in occasione di un cambio di detentore. Le garanzie di peso fornite dal costruttore non devono essere superate.[^9-5]
+<sup>3</sup> Sentiti i Cantoni, può prevedere eccezioni per i veicoli a motore e i rimorchi di linea e per i veicoli che, dato il loro uso speciale, devono necessariamente avere dimensioni o peso superiori. Esso stabilisce le condizioni alle quali altri veicoli di dimensioni o peso superiori possono, in singoli casi, compiere viaggi imposti dalle circostanze.[^9-5]
+
+<sup>3bis</sup> Su domanda del detentore del veicolo, il peso totale massimo ammesso di un veicolo a motore o di un rimorchio può essere modificato al massimo una volta all’anno oppure in occasione di un cambio di detentore. Le garanzie di peso fornite dal costruttore non devono essere superate.[^9-6]
 
 <sup>4</sup> Rimane salva ogni limitazione, indicata da un segnale, della larghezza, dell’altezza, del peso e del carico per asse dei veicoli.
 
 [^9-1]: Nuovo testo giusta il n. I 1 della LF dell’8 ott. 1999 concernente l’Acc. fra la Confederazione Svizzera e la Comunità europea sul trasporto di merci e di passeggeri su strada e per ferrovia, in vigore dal 1° gen. 2001 ([RU 2000 2877](https://fedlex.data.admin.ch/eli/oc/2000/497); [FF 1999 5092](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
 [^9-2]: Nuovo testo giusta l’art. 7 della LF del 13 dic. 2013 sul corridoio di quattro metri, in vigore dal 1° giu. 2014 ([RU 2014 1111](https://fedlex.data.admin.ch/eli/oc/2014/242); [FF 2013 3185](https://fedlex.data.admin.ch/eli/fga/2013/825)).
 [^9-3]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^9-4]: Nuovo testo del per. giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^9-5]: Introdotto dal n. I della LF del 14 dic. 2001, in vigore dal 1° apr. 2003 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 3837).
+[^9-4]: Introdotto dal n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^9-5]: Nuovo testo del per. giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^9-6]: Introdotto dal n. I della LF del 14 dic. 2001, in vigore dal 1° apr. 2003 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 3837).
 
 ### Licenze
 
@@ -228,14 +233,15 @@ Il Consiglio federale, consultati i Cantoni, può:
 La licenza di circolazione può essere rifiutata se il detentore non ha corrisposto l’imposta o la tassa di circolazione dovuta per il veicolo. La licenza può essere rilasciata solo se è comprovato che:
 
 - a. il veicolo è stato sdoganato o esonerato dello sdoganamento;
-- b. il veicolo è stato assoggettato all’imposta o esentato dall’imposta secondo la legge del 21 giugno 1996[^11-1] sull’imposizione degli autoveicoli; e
-- c. la tassa e le prestazioni di garanzie eventualmente dovute per il veicolo giusta la legge federale del 19 dicembre 1997[^11-2] concernente una tassa sul traffico pesante sono state interamente pagate e il veicolo è stato equipaggiato con l’apparecchio di rilevazione prescritto per la riscossione della tassa.[^11-3]
+- b.[^11-1] il veicolo è stato assoggettato all’imposta o esentato dall’imposta secondo la legge federale del 21 giugno 1996[^11-2] sull’imposizione degli autoveicoli (LIAut); e
+- c. la tassa e le prestazioni di garanzie eventualmente dovute per il veicolo giusta la legge federale del 19 dicembre 1997[^11-3] concernente una tassa sul traffico pesante sono state interamente pagate e il veicolo è stato equipaggiato con l’apparecchio di rilevazione prescritto per la riscossione della tassa.[^11-4]
 
 <sup>3</sup> Se un veicolo è trasferito di stanza in un altro Cantone o passa a un altro detentore, deve essere chiesta una nuova licenza di circolazione.
 
-[^11-1]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^11-2]: [RS 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
-[^11-3]: Nuovo testo giusta il n. II della LF del 5 ott. 2007 concernente misure atte a migliorare le procedure nell’ambito della tassa sul traffico pesante commisurata alle prestazioni, in vigore dal 1° apr. 2008 ([RU 2008 765](https://fedlex.data.admin.ch/eli/oc/2008/189); [FF 2006 8743](https://fedlex.data.admin.ch/eli/fga/2006/1242)).
+[^11-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^11-2]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
+[^11-3]: [RS 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
+[^11-4]: Nuovo testo giusta il n. II della LF del 5 ott. 2007 concernente misure atte a migliorare le procedure nell’ambito della tassa sul traffico pesante commisurata alle prestazioni, in vigore dal 1° apr. 2008 ([RU 2008 765](https://fedlex.data.admin.ch/eli/oc/2008/189); [FF 2006 8743](https://fedlex.data.admin.ch/eli/fga/2006/1242)).
 
 ### Approvazione del tipo
 
@@ -371,9 +377,9 @@ La licenza di condurre in prova è rilasciata se il richiedente:
 
 <sup>2bis</sup> I titolari di una licenza di condurre in prova sono tenuti a frequentare corsi di perfezionamento. Tali corsi, prevalentemente pratici, devono fornire ai partecipanti le capacità necessarie per riconoscere ed evitare i pericoli durante la guida e per guidare rispettando l’ambiente. Il Consiglio federale stabilisce il contenuto e la forma dei corsi di perfezionamento.[^15a-3]
 
-<sup>3</sup> Il periodo di prova è prorogato di un anno se il titolare commette un’infrazione da cui consegue la revoca della licenza. Se la revoca termina dopo la scadenza del periodo di prova, la proroga inizia alla data della restituzione della licenza di condurre.
+<sup>3</sup> Il periodo di prova è prorogato di un anno se il titolare commette un’infrazione medio grave o grave da cui consegue la revoca della licenza.[^15a-4] Se la revoca termina dopo la scadenza del periodo di prova, la proroga inizia alla data della restituzione della licenza di condurre.
 
-<sup>4</sup> La licenza di condurre in prova scade con la seconda infrazione che comporta la revoca della licenza.
+<sup>4</sup> La licenza di condurre in prova scade se durante il periodo di prova il titolare commette un’ulteriore infrazione medio grave o grave.[^15a-5]
 
 <sup>5</sup> Una nuova licenza di condurre può essere rilasciata al più presto dopo un anno dall’infrazione e soltanto sulla base di una perizia di psicologia del traffico che accerti l’idoneità alla guida. Il termine è prorogato di un anno se la persona interessata ha guidato un motoveicolo o un autoveicolo durante questo periodo.
 
@@ -382,6 +388,8 @@ La licenza di condurre in prova è rilasciata se il richiedente:
 [^15a-1]: Introdotto dal n. I della LF del 14 dic. 2001, in vigore dal 1° dic. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 5053](https://fedlex.data.admin.ch/eli/oc/2004/778)art. 1 cpv. 2; FF **1999** 3837).
 [^15a-2]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^15a-3]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^15a-4]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^15a-5]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ### Licenza di condurre definitiva
 
@@ -460,7 +468,7 @@ Se sussistono dubbi sull’idoneità alla guida di una persona, quest’ultima �
 
 <sup>1</sup> Le licenze e i permessi devono essere revocati, se è accertato che le condizioni legali stabilite per il loro rilascio non sono mai state o non sono più adempite; essi possono essere revocati, se non sono stati osservati le limitazioni o gli obblighi, ai quali il rilascio era stato subordinato nel caso particolare.
 
-<sup>2</sup> Le infrazioni delle prescrizioni sulla circolazione stradale per le quali non è applicabile la procedura prevista dalla legge del 24 giugno 1970[^16-1] sulle multe disciplinari comportano la revoca della licenza di condurre o della licenza per allievo conducente, oppure l’ammonimento del conducente.[^16-2]
+<sup>2</sup> Le infrazioni alle prescrizioni sulla circolazione stradale per le quali non è applicabile la procedura prevista dalla legge del 18 marzo 2016[^16-1] sulle multe disciplinari comportano la revoca della licenza di condurre o della licenza per allievo conducente, oppure l’ammonimento del conducente.[^16-2]
 
 <sup>3</sup> Per stabilire la durata della revoca della licenza per allievo conducente o della licenza di condurre devono essere considerate le circostanze del singolo caso, segnatamente il pericolo per la circolazione, la colpa, la reputazione del conducente del veicolo a motore come anche la necessità professionale di condurre un veicolo a motore. La durata minima della revoca non può tuttavia essere ridotta, salvo che la pena sia stata attenuata ai sensi dell’articolo 100 numero 4 terzo periodo [^16-3] [^16-4]
 
@@ -478,8 +486,8 @@ La licenza di circolazione viene revocata se:
 - a. la tassa eventualmente dovuta per il veicolo secondo la legge del 19 dicembre 1997[^16-6] sul traffico pesante o le prestazioni di garanzie dovute non sono state pagate e il detentore è stato invano diffidato; oppure
 - b. il veicolo non è equipaggiato con l’apparecchio di rilevazione prescritto per la riscossione della tassa.[^16-7]
 
-[^16-1]: [RU **1972** 734, [1996 1075](https://fedlex.data.admin.ch/eli/oc/1996/1075_1075_1075), [2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551)art. 44 n. 4, [2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744)n. II, [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821). [RU 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725)all. n. I]. Vedi ora: la legge del 18 marzo 2016 sulle multe disciplinari ([RS 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)).
-[^16-2]: Nuovo testo giusta il n. I della LF del 14 dic. 2001, in vigore dal 1° gen. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); FF **1999** 3837).
+[^16-1]: [RS 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)
+[^16-2]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^16-3]: Nuovo del per. testo giusta l’all. n. 4 della LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 [^16-4]: Nuovo testo giusta il n. I della LF del 14 dic. 2001, in vigore dal 1° gen. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); FF **1999** 3837).
 [^16-5]: Nuovo testo giusta il n. I della LF del 14 dic. 2001, in vigore dal 1° apr. 2003 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 3837).
@@ -564,7 +572,7 @@ Commette un’infrazione grave chi:
 Dopo un’infrazione grave la licenza per allievo conducente o la licenza di condurre è revocata per:
 
 - a. almeno tre mesi;
-- a<sup>bis</sup>.[^16c-3] almeno due anni se, violando intenzionalmente norme elementari della circolazione, la persona interessata ha rischiato fortemente di causare un incidente della circolazione con feriti gravi o morti, segnatamente attraverso la grave inosservanza di un limite di velocità, l’effettuazione di sorpassi temerari o la partecipazione a gare non autorizzate con veicoli a motore; l’articolo 90 capoverso 4 è applicabile;
+- a<sup>bis</sup>.[^16c-3] almeno due anni se, violando intenzionalmente norme elementari della circolazione, la persona interessata ha rischiato fortemente di causare un incidente della circolazione con feriti gravi o morti, segnatamente attraverso la grave inosservanza di un limite di velocità ai sensi dell’articolo 90 capoverso 4, l’effettuazione di sorpassi temerari o la partecipazione a gare non autorizzate con veicoli a motore; la durata minima della revoca può essere ridotta di al massimo 12 mesi se è pronunciata una pena inferiore a un anno (art. 90 cpv. 3<sup>bis</sup> o 3<sup>ter</sup>);
 - b. almeno sei mesi, se nei cinque anni precedenti la licenza è stata revocata una volta per un’infrazione medio grave;
 - c. almeno 12 mesi, se nei cinque anni precedenti la licenza è stata revocata una volta per un’infrazione grave o due volte a causa di infrazioni medio gravi;
 - d. un tempo indeterminato, ma almeno per due anni, se nei dieci anni precedenti la licenza è stata revocata due volte per infrazioni gravi o tre volte per infrazioni almeno medio gravi; si rinuncia a questo provvedimento se durante almeno cinque anni dalla scadenza di una revoca della licenza non sono state commesse infrazioni per cui è ordinato un provvedimento amministrativo;
@@ -576,7 +584,7 @@ Dopo un’infrazione grave la licenza per allievo conducente o la licenza di con
 
 [^16c-1]: Introdotto dal n. I della LF del 14 dic. 2001, in vigore dal 1° gen. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); FF **1999** 3837).
 [^16c-2]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° ott. 2016 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2583](https://fedlex.data.admin.ch/eli/oc/2015/489); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^16c-3]: Introdotta dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^16c-3]: Introdotta dal n. I della LF del 15 giu. 2012 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)). Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^16c-4]: Vedi anche le disp. fin. della mod. del 14 dic. 2001 alla fine del presente testo.
 
 ### Revoca della licenza di condurre dopo un’infrazione commessa all’estero
@@ -762,7 +770,7 @@ Il Consiglio federale emana prescrizioni circa:
 - f.[^25-2] gli speciali segnalatori riservati ai veicoli del servizio antincendio, del servizio sanitario, della polizia e delle dogane, se vengono utilizzati per compiti di polizia, come anche i segnalatori dei veicoli delle imprese di trasporto concessionarie sulle strade postali di montagna;
 - g. la pubblicità per mezzo di veicoli a motore;
 - h.[^25-3] ...
-- i. gli odocronografi, i tacografi e simili; esso prescrive tali apparecchi, in particolare per il controllo del tempo di lavoro dei conducenti professionali e, se necessario, per i veicoli di persone punite a cagione di eccesso di velocità.
+- i. i tachigrafi[^25-4] e simili; esso prescrive tali apparecchi, in particolare per il controllo del tempo di lavoro dei conducenti professionali e, se necessario, per i veicoli di persone punite a cagione di eccesso di velocità.
 
 <sup>3</sup>
 
@@ -772,20 +780,21 @@ Il Consiglio federale, consultati i Cantoni, emana prescrizioni circa:
 - b. l’esecuzione dell’esame dei veicoli e dei conducenti;
 - c. i requisiti minimi per i periti incaricati degli esami;
 - d. il noleggio di veicoli a motore a conducenti;
-- e.[^25-4] il contenuto e la portata dell’esame di verifica dell’idoneità alla guida e la procedura in caso di dubbi;
-- f.[^25-5] i requisiti minimi per le persone che svolgono gli esami di verifica dell’idoneità alla guida, per la procedura di controllo e per la garanzia della qualità.
+- e.[^25-5] il contenuto e la portata dell’esame di verifica dell’idoneità alla guida e la procedura in caso di dubbi;
+- f.[^25-6] i requisiti minimi per le persone che svolgono gli esami di verifica dell’idoneità alla guida, per la procedura di controllo e per la garanzia della qualità.
 
-<sup>3bis</sup> ...[^25-6]
+<sup>3bis</sup> ...[^25-7]
 
-<sup>4</sup> ...[^25-7]
+<sup>4</sup> ...[^25-8]
 
 [^25-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
 [^25-2]: Nuovo testo giusta il n. II 12 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2, in vigore dal 1° gen. 2010 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 [^25-3]: Abrogata dal n. I della LF del 1° ott. 2010, con effetto dal 1° gen. 2012 ([RU 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [FF 2010 3633](https://fedlex.data.admin.ch/eli/fga/2010/680)[3645](https://fedlex.data.admin.ch/eli/fga/2010/682)).
-[^25-4]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° lug. 2016 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2581](https://fedlex.data.admin.ch/eli/oc/2015/488), [2016 2307](https://fedlex.data.admin.ch/eli/oc/2016/376); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)). Vedi il testo originale dell’art. 25 cpv. 3 lett. e ancora applicabile, alla fine del presente testo.
-[^25-5]: Introdotta dal n. I della LF del 15 giu. 2012, in vigore dal 1° lug. 2016 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2581](https://fedlex.data.admin.ch/eli/oc/2015/488); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^25-6]: Introdotto dal n. I della LF del 6 ott. 1989 ([RU 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 185](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)). Abrogato dal n. I della LF del 14 dic. 2001, con effetto dal 1° dic. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 5053](https://fedlex.data.admin.ch/eli/oc/2004/778)art. 1 cpv. 2; FF **1999** 3837).
-[^25-7]: Abrogato dal n. I 23 della LF del 9 ott. 1992 concernente la riduzione di aiuti finanziari e di indennità, con effetto dal 1° gen. 1993 ([RU 1993 325](https://fedlex.data.admin.ch/eli/oc/1993/325_325_325)).
+[^25-4]: Nuova espr. giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^25-5]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° lug. 2016 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2581](https://fedlex.data.admin.ch/eli/oc/2015/488), [2016 2307](https://fedlex.data.admin.ch/eli/oc/2016/376); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)). Vedi il testo originale dell’art. 25 cpv. 3 lett. e ancora applicabile, alla fine del presente testo.
+[^25-6]: Introdotta dal n. I della LF del 15 giu. 2012, in vigore dal 1° lug. 2016 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2581](https://fedlex.data.admin.ch/eli/oc/2015/488); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^25-7]: Introdotto dal n. I della LF del 6 ott. 1989 ([RU 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 185](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)). Abrogato dal n. I della LF del 14 dic. 2001, con effetto dal 1° dic. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 5053](https://fedlex.data.admin.ch/eli/oc/2004/778)art. 1 cpv. 2; FF **1999** 3837).
+[^25-8]: Abrogato dal n. I 23 della LF del 9 ott. 1992 concernente la riduzione di aiuti finanziari e di indennità, con effetto dal 1° gen. 1993 ([RU 1993 325](https://fedlex.data.admin.ch/eli/oc/1993/325_325_325)).
 
 ## Titolo terzo: Norme della circolazione
 
@@ -1386,15 +1395,16 @@ La Confederazione può:
 
 <sup>4</sup>
 
-È determinata secondo il Codice delle obbligazioni[^59-2]:
+Sono determinate secondo il Codice delle obbligazioni[^59-2]:[^59-3]
 
 - a. la responsabilità civile nei rapporti fra il detentore e il proprietario di un veicolo a motore per i danni subìti da questo veicolo;
-- b.[^59-3] la responsabilità civile del detentore per i danni subiti dalle cose trasportate nel suo veicolo, eccettuate quelle che la parte lesa portava con sé, in particolare bagagli e simili; è fatta salva la legge federale del 4 ottobre 1985[^59-4] sul trasporto pubblico.
+- b.[^59-4] la responsabilità civile del detentore per i danni subiti dalle cose trasportate nel suo veicolo, eccettuate quelle che la parte lesa portava con sé, in particolare bagagli e simili; è fatta salva la legge del 20 marzo 2009[^59-5] sul trasporto di viaggiatori.
 
 [^59-1]: Abrogato dal n. I della LF del 20 mar. 1975, con effetto dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)n. III; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
 [^59-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^59-3]: Nuovo testo giusta l’art. 54 n. 2 della LF del 4 ott. 1985 sul trasporto pubblico, in vigore dal 1° gen. 1987 ([RU 1986 1974](https://fedlex.data.admin.ch/eli/oc/1986/1974_1974_1974)).
-[^59-4]: [[RU 1986 1974](https://fedlex.data.admin.ch/eli/oc/1986/1974_1974_1974); [1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290)n. V; [1995 3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)n. I 10, [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)all. n. 13; [1998 2856](https://fedlex.data.admin.ch/eli/oc/1998/2856_2856_2856). [RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)n. III]. Vedi ora la L del 20 mar. 2009 sul trasporto di viaggiatori ([RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)).
+[^59-3]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^59-4]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^59-5]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
 
 ### Concorso nel danneggiamento
 
@@ -1472,12 +1482,13 @@ Il Consiglio federale fissa gli importi fino a concorrenza dei quali l’assicur
 
 <sup>1</sup> La parte lesa può agire direttamente contro l’assicuratore nei limiti della copertura stipulata nel contratto d’assicurazione.
 
-<sup>2</sup> Le eccezioni derivanti dal contratto d’assicurazione o dalla legge federale del 2 aprile 1908[^65-1] sul contratto d’assicurazione non possono essere opposte alla parte lesa.
+<sup>2</sup> Le eccezioni derivanti dal contratto d’assicurazione o dalla legge del 2 aprile 1908[^65-1] sul contratto d’assicurazione non possono essere opposte alla parte lesa.[^65-2]
 
-<sup>3</sup> L’assicuratore ha diritto di regresso contro lo stipulante o contro l’assicurato, nella misura in cui avrebbe avuto diritto di negare o ridurre le sue prestazioni secondo il contratto di assicurazione o la legge federale del 2 aprile 1908 sul contratto d’assicurazione. L’assicuratore deve esercitare l’azione di regresso se il conducente ha cagionato un danno guidando in stato di ebrietà o di inattitudine alla guida, oppure violando un limite di velocità ai sensi dell’articolo 90 capoverso 4. L’entità del regresso è determinata tenendo conto della colpa e della capacità economica della persona nei confronti della quale è esercitata l’azione di regresso.[^65-2]
+<sup>3</sup> L’assicuratore ha diritto di regresso contro lo stipulante o contro l’assicurato, nella misura in cui avrebbe diritto di negare o ridurre le sue prestazioni secondo il contratto di assicurazione o la legge sul contratto d’assicurazione.[^65-3]
 
 [^65-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
-[^65-2]: Secondo e terzo per. introdotti dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2015 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^65-2]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^65-3]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ### Pluralità di parti lese
 
@@ -1988,23 +1999,27 @@ Il SIAC serve all’adempimento dei seguenti compiti:
 
   - 1\. licenze per l’ammissione di persone e veicoli alla circolazione stradale,
   - 2\. permessi e certificati,
-  - 3\. carte per l’odocronografo;
+  - 3\. carte per il tachigrafo[^89b-1];
 
 - b. esecuzione di procedimenti amministrativi e penali contro conducenti di veicoli nell’ambito della circolazione stradale;
 - c. omologazione, esame e ammissione alla circolazione dei veicoli;
-- d. controllo dell’assicurazione, dello sdoganamento e dell’imposizione dei veicoli ammessi alla circolazione secondo la legge federale del 21 giugno 1996[^89b-1] sull’imposizione degli autoveicoli;
+- d.[^89b-2] controllo dell’assicurazione, dello sdoganamento e dell’imposizione dei veicoli ammessi alla circolazione secondo la LIAut[^89b-3];
 - e. identificazione dei detentori di veicoli e ricerca di veicoli;
 - f. tutela delle vittime di incidenti della circolazione;
 - g. razionamento del carburante e requisizione e locazione di veicoli a favore dell’esercito, della protezione civile e dell’approvvigionamento economico del Paese;
 - h. allestimento di statistiche, in particolare per quanto riguarda le autorizzazioni a condurre, i provvedimenti amministrativi, i tipi di veicoli, le immatricolazioni di veicoli, gli incidenti stradali e i controlli della circolazione stradale;
 - i. elaborazione delle basi della politica dei trasporti, dell’ambiente e dell’energia;
-- j. riscossione delle imposte cantonali sugli autoveicoli, delle tasse sul traffico pesante e di altre imposte;
+- j.[^89b-4] riscossione delle imposte cantonali sugli autoveicoli e di altre imposte, nonché riscossione e verifica del pagamento della tassa sul traffico pesante e della tassa per l’utilizzazione delle strade nazionali;
 - k. sostegno alle autorità nazionali e straniere nell’esecuzione delle disposizioni sulla durata del lavoro e del riposo dei conducenti professionali di veicoli a motore;
 - l. rilascio dell’autorizzazione di accesso alle professioni di trasportatore di viaggiatori e di merci su strada e relativo controllo;
-- m.[^89b-2] esecuzione della riduzione delle emissioni di CO<sub>2</sub> delle automobili, degli autofurgoni e dei trattori a sella leggeri.
+- m.[^89b-5] esecuzione della riduzione delle emissioni di CO<sub>2</sub> dei veicoli secondo la legge del 23 dicembre 2011[^89b-6] sul CO<sub>2</sub>.
 
-[^89b-1]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^89b-2]: Nuovo testo giusta l’all. n. II 10 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2019 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^89b-1]: Nuova espr. giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^89b-2]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89b-3]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
+[^89b-4]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89b-5]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89b-6]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
 
 ### Contenuto
 
@@ -2014,7 +2029,7 @@ Il SIAC contiene:
 
 - a. i dati personali dei titolari dei documenti di cui all’articolo 89*b* lettera a e i dati personali di altre persone contro le quali è stato deciso un provvedimento amministrativo;
 - b. i dati relativi alle autorizzazioni a condurre rilasciate da autorità svizzere o straniere a persone domiciliate in Svizzera;
-- c. i dati necessari per il rilascio di carte per l’odocronografo;
+- c. i dati necessari per il rilascio di carte per il tachigrafo;
 - d.
 
   i dati relativi ai seguenti provvedimenti amministrativi, alla loro revoca o alla loro modifica, decisi da autorità svizzere oppure ordinati da autorità straniere nei confronti di persone domiciliate in Svizzera:
@@ -2040,32 +2055,51 @@ Il SIAC contiene:
 
 #### Art. 89d
 
-Le seguenti autorità trattano i dati del SIAC:
+Le autorità e i servizi seguenti trattano i dati del SIAC:[^89d-1]
 
 - a. l’USTRA;
 - b. le autorità federali e cantonali competenti per il rilascio e la revoca delle autorizzazioni a condurre e delle licenze di circolazione, per quanto attiene ai dati relativi al loro ambito di competenza;
 - c. le autorità competenti per il razionamento del carburante e per la requisizione e locazione di veicoli a favore dell’esercito, della protezione civile e dell’approvvigionamento economico del Paese, per quanto attiene ai dati relativi ai veicoli e ai detentori dei veicoli;
-- d. gli organi di polizia competenti per il sequestro di licenze di condurre e di licenze di circolazione, per quanto attiene ai dati relativi alle autorizzazioni a condurre e ai veicoli.
+- d. gli organi di polizia competenti per il sequestro di licenze di condurre e di licenze di circolazione, per quanto attiene ai dati relativi alle autorizzazioni a condurre e ai veicoli;
+- e.[^89d-2] le autorità competenti per il controllo dello sdoganamento e dell’imposizione secondo la LIAut[^89d-3], per quanto attiene ai dati relativi al loro ambito di competenza;
+- f.[^89d-4] le autorità competenti per la riscossione della tassa sul traffico pesante commisurata alle prestazioni conformemente alla legge del 19 dicembre 1997[^89d-5] sul traffico pesante, per quanto attiene ai dati relativi al loro ambito di competenza;
+- g.[^89d-6] i servizi incaricati della riscossione e della verifica del pagamento della tassa per l’utilizzazione delle strade nazionali secondo la legge del 19 marzo 2010[^89d-7] sul contrassegno stradale, per quanto attiene ai dati relativi ai veicoli e ai detentori di veicoli;
+- h.[^89d-8] le autorità competenti per l’esecuzione della riduzione delle emissioni di CO<sub>2</sub> dei veicoli secondo la legge del 23 dicembre 2011[^89d-9] sul CO<sub>2</sub>, per quanto attiene ai dati relativi al loro ambito di competenza.
+
+[^89d-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89d-2]: Introdotta dal n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89d-3]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
+[^89d-4]: Introdotta dal n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89d-5]: [RS 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
+[^89d-6]: Introdotta dal n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89d-7]: [RS 741.71](https://fedlex.data.admin.ch/eli/cc/2011/577)
+[^89d-8]: Introdotta dal n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89d-9]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
 
 ### Accesso mediante procedura di richiamo
 
 #### Art. 89e
 
-I servizi qui appresso possono accedere mediante procedura di richiamo ai seguenti dati:
+Le autorità e i servizi qui appresso possono accedere mediante procedura di richiamo ai seguenti dati:[^89e-1]
 
-- a. le autorità di polizia, per quanto attiene ai dati di cui necessitano per il controllo dell’autorizzazione a condurre e dell’ammissione alla circolazione, per l’identificazione del detentore e del suo assicuratore e per la ricerca di veicoli;
-- b. le autorità doganali, per quanto attiene ai dati di cui necessitano per il controllo dell’autorizzazione a condurre e dell’ammissione alla circolazione, per il controllo dello sdoganamento e dell’imposizione secondo la legge federale del 21 giugno 1996[^89e-1] sull’imposizione degli autoveicoli e per la ricerca di veicoli;
+- a.[^89e-2] le autorità e i servizi autorizzati al trattamento dei dati secondo l’articolo 89*d*, per quanto attiene ai dati trattati in virtù di tale disposizione;
+- a<sup>bis</sup>.[^89e-3] le autorità di polizia, per quanto attiene ai dati di cui necessitano per il controllo dell’autorizzazione a condurre e dell’ammissione alla circolazione, per l’identificazione del detentore e del suo assicuratore e per la ricerca di veicoli;
+- b.[^89e-4] l’Ufficio federale della dogana e della sicurezza dei confini, per quanto attiene ai dati di cui necessita per il controllo dell’autorizzazione a condurre e dell’ammissione alla circolazione e per la ricerca di veicoli;
 - c. le autorità incaricate del perseguimento penale e le autorità giudiziarie, nell’ambito di procedimenti relativi a infrazioni alla legislazione sulla circolazione stradale, per quanto attiene ai dati relativi alle autorizzazioni a condurre e ai provvedimenti amministrativi;
 - d. le autorità federali e cantonali competenti per gli esami dei veicoli e i servizi incaricati dell’esecuzione degli esami ufficiali dei veicoli, per quanto attiene ai dati relativi all’immatricolazione e ai tipi di veicoli;
 - e. l’Ufficio federale di statistica, per quanto attiene ai dati relativi ai veicoli;
 - f. l’Ufficio federale dei trasporti, nell’ambito del rilascio di autorizzazioni a esercitare le professioni di trasportatore su strada, per quanto attiene ai dati relativi all’immatricolazione dei veicoli e ai provvedimenti amministrativi;
-- g.[^89e-2] l’Ufficio federale dell’energia, per l’esecuzione della riduzione delle emissioni di CO<sub>2</sub> delle automobili, degli autofurgoni e dei trattori a sella leggeri, per quanto attiene ai dati relativi ai veicoli a motore
+- g.[^89e-5] l’Ufficio federale dell’energia, per quanto attiene ai dati relativi ai veicoli necessari per l’esecuzione della riduzione delle emissioni di CO<sub>2</sub> dei veicoli secondo la legge del 23 dicembre 2011[^89e-6] sul CO<sub>2</sub>;
 - h. l’Ufficio nazionale di assicurazione e il Fondo nazionale di garanzia, per quanto attiene ai dati necessari per l’adempimento dei loro compiti pubblici (art. 74 e 76);
 - i. le autorità straniere competenti per il rilascio di carte del conducente, per quanto attiene ai dati relativi a tali carte;
 - j. gli organi stranieri incaricati del controllo della durata del lavoro e del riposo dei conducenti professionali di veicoli a motore, per quanto attiene allo stato delle carte del conducente.
 
-[^89e-1]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^89e-2]: Nuovo testo giusta l’all. n. II 10 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2019 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^89e-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89e-2]: Introdotta dal n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89e-3]: Originaria lett. a.
+[^89e-4]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89e-5]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89e-6]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
 
 ### Diritto di consultazione
 
@@ -2236,9 +2270,8 @@ Il sistema d’informazione serve all’adempimento dei seguenti compiti:
   per mezzo del sistema di valutazione:
 
   - 1\. stilare le relazioni in virtù dell’accordo del 21 giugno 1999[^89p-1] fra la Confederazione Svizzera e la Comunità europea sul trasporto di merci e di passeggeri su strada e per ferrovia,
-
-- 2\. gestire e analizzare i dati relativi ai controlli della circolazione stradale,
-- 3\. elaborare le basi per la politica della sicurezza stradale.
+  - 2\. gestire e analizzare i dati relativi ai controlli della circolazione stradale,
+  - 3\. elaborare le basi per la politica della sicurezza stradale.
 
 [^89p-1]: [RS 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)
 
@@ -2310,19 +2343,27 @@ Il Consiglio federale disciplina:
 
 <sup>3</sup> È punito con una pena detentiva da uno a quattro anni chiunque, violando intenzionalmente norme elementari della circolazione, corre il forte rischio di causare un incidente della circolazione con feriti gravi o morti, segnatamente attraverso la grave inosservanza di un limite di velocità, l’effettuazione di sorpassi temerari o la partecipazione a gare non autorizzate con veicoli a motore.
 
+<sup>3bis</sup> In caso di infrazione secondo il capoverso 3, la pena detentiva minima di un anno può essere ridotta in presenza di una circostanza attenuante secondo l’articolo 48 del Codice penale[^90-2], in particolare se l’autore ha agito per motivi onorevoli.[^90-3]
+
+<sup>3ter</sup> In caso di infrazione secondo il capoverso 3, la pena può essere una pena detentiva sino a quattro anni o una pena pecuniaria se nei dieci anni precedenti l’atto l’autore non ha subito alcuna condanna per crimini o delitti commessi nella circolazione stradale e che hanno cagionato un serio pericolo per la sicurezza altrui o il ferimento o la morte di terzi.[^90-4]
+
 <sup>4</sup>
 
-Il capoverso 3 è in ogni caso applicabile se la velocità massima consentita è superata:
+È considerata grave l’inosservanza di un limite di velocità se la velocità massima consentita è superata:
 
-- a. di almeno 40 km/h dove la velocità massima consentita è di 30 km/h;
-- b. di almeno 50 km/h dove la velocità massima consentita è di 50 km/h:
-- c. di almeno 60 km/h dove la velocità massima consentita è di 80 km/h;
-- d. di almeno 80 km/h dove la velocità massima consentita è più di 80 km/h.
+- a. di almeno 40 km/h dove la velocità massima consentita è pari o inferiore a 30 km/h;
+- b. di almeno 50 km/h dove la velocità massima consentita è pari o inferiore a 50 km/h;
+- c. di almeno 60 km/h dove la velocità massima consentita è pari o inferiore a 80 km/h;
+- d. di almeno 80 km/h dove la velocità massima consentita è superiore a 80 km/h.[^90-5]
 
-<sup>5</sup> L’articolo 237 numero 2 del Codice penale[^90-2] non è applicabile in questi casi.
+<sup>5</sup> L’articolo 237 numero 2 del Codice penale[^90-6] non è applicabile in questi casi.
 
 [^90-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^90-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^90-3]: Introdotto dal n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^90-4]: Introdotto dal n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)
+[^90-5]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^90-6]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 ### Confisca e realizzazione di veicoli a motore
 
@@ -2351,7 +2392,7 @@ Il giudice può ordinare la confisca di un veicolo a motore se:
 
 È punito con la multa chiunque:
 
-- a. conduce un veicolo a motore in stato di ebrietà;
+- a.[^91-2] conduce un veicolo a motore in stato di ebrietà;
 - b. viola il divieto di guidare sotto l’influsso dell’alcol;
 - c. conduce un veicolo senza motore in stato di inattitudine alla guida.
 
@@ -2359,11 +2400,11 @@ Il giudice può ordinare la confisca di un veicolo a motore se:
 
 È punito con una pena detentiva sino a tre anni o una pena pecuniaria chiunque:
 
-- a. conduce un veicolo a motore in stato di ebrietà con una concentrazione qualificata di alcol nell’alito o nel sangue[^91-2];
+- a. conduce un veicolo a motore in stato di ebrietà con una concentrazione qualificata di alcol nell’alito o nel sangue;
 - b. conduce un veicolo a motore in stato di inattitudine alla guida per altri motivi.
 
 [^91-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2014 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^91-2]: La disp. riguardante la concentrazione di alcol nell’alito si applica dall’entrata in vigore dell’art. 55 cpv. 3, 3<sup>bis</sup>, 6 e 6<sup>bis</sup> secondo il n. I della LF del 15 giu. 2012 e l’O dell’AF del 15 giu. 2012 concernente i valori limite di alcolemia nella circolazione stradale.
+[^91-2]: Aggiornata dal n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ### Elusione di provvedimenti per accertare l’inattitudine alla guida
 
@@ -2446,7 +2487,7 @@ Il giudice può ordinare la confisca di un veicolo a motore se:
 - d. chiunque si esercita alla guida senza essere titolare della licenza per allievo conducente o senza essere accompagnato conformemente alle prescrizioni;
 - e. chiunque mette un veicolo a motore a disposizione di un conducente, del quale sa o dovrebbe sapere, prestando tutta l’attenzione imposta dalle circostanze, che non è titolare della licenza richiesta.
 
-<sup>2</sup> Chiunque conduce un veicolo a motore, sebbene la durata di validità della licenza di condurre in prova sia scaduta, è punito con una pena pecuniaria sino a 180 aliquote giornaliere.
+<sup>2</sup> È punito con una pena pecuniaria chiunque conduce un veicolo a motore sebbene la durata di validità della licenza di condurre in prova sia scaduta.[^95-2]
 
 <sup>3</sup>
 
@@ -2464,6 +2505,7 @@ Il giudice può ordinare la confisca di un veicolo a motore se:
 - b. chiunque conduce un veicolo a trazione animale, sebbene la circolazione con siffatto veicolo gli sia stata vietata.
 
 [^95-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3267](https://fedlex.data.admin.ch/eli/oc/2011/428); [FF 2010 3453](https://fedlex.data.admin.ch/eli/fga/2010/629)[3463](https://fedlex.data.admin.ch/eli/fga/2010/631)).
+[^95-2]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ### Guida senza licenza di circolazione, senza autorizzazione o senza assicurazione per la responsabilità civile
 
@@ -2548,10 +2590,11 @@ Il giudice può ordinare la confisca di un veicolo a motore se:
 - b. offre a pagamento un servizio che segnala questi controlli;
 - c. utilizza per segnalare controlli ufficiali della circolazione stradale apparecchi e dispositivi che per principio non sono destinati a tale scopo.
 
-<sup>4</sup> Nei casi gravi, il colpevole è punito con una pena pecuniaria sino a 180 aliquote giornaliere.
+<sup>4</sup> Nei casi gravi, il colpevole è punito con una pena pecuniaria.[^98a-3]
 
 [^98a-1]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^98a-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^98a-3]: Nuovo testo giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ### Altre infrazioni
 
@@ -2585,11 +2628,15 @@ Il giudice può ordinare la confisca di un veicolo a motore se:
 
 <sup>3.</sup> La persona che accompagna un allievo conducente è responsabile dei reati commessi durante gli esercizi di guida, se contravviene agli obblighi che le incombono in virtù della sua funzione. L’allievo conducente è responsabile delle infrazioni che avrebbe dovuto evitare secondo il suo grado di istruzione.
 
-<sup>4.</sup> Se durante un viaggio ufficiale urgente o necessario dal punto di vista tattico il conducente di un veicolo del servizio antincendio, del servizio sanitario, della polizia o delle dogane viola le norme o le misure speciali concernenti la circolazione, egli non è punibile se ha usato la prudenza imposta dalle circostanze. Nei viaggi ufficiali urgenti il conducente non è punibile solamente se ha usato anche gli speciali segnalatori prescritti; eccezionalmente, l’uso dei segnalatori non è necessario se ciò compromette l’adempimento del compito legale. Se il conducente non ha usato la prudenza imposta dalle circostanze oppure se durante un viaggio ufficiale urgente non ha usato gli speciali segnalatori prescritti, la pena può essere attenuata.[^100-3]
+<sup>4.</sup> Se durante un viaggio ufficiale urgente o necessario dal punto di vista tattico il conducente di un veicolo del servizio antincendio, del servizio sanitario, della polizia o delle dogane viola le norme o le misure speciali concernenti la circolazione, egli non è punibile se ha usato la prudenza imposta dalle circostanze. Nei viaggi ufficiali urgenti il conducente non è punibile solamente se ha usato anche gli speciali segnalatori prescritti; eccezionalmente, l’uso dei segnalatori non è necessario se ciò compromette l’adempimento del compito legale. Se non ha usato la prudenza imposta dalle circostanze oppure se durante un viaggio ufficiale urgente non ha usato gli speciali segnalatori prescritti, il conducente è punibile ma la pena è attenuata.[^100-3] [^100-4]
+
+<sup>5.</sup> In caso di inosservanza di un limite di velocità durante un viaggio ufficiale urgente o necessario dal punto di vista tattico, si considera soltanto la differenza tra la velocità effettiva e quella che sarebbe stata adeguata all’intervento.[^100-5]
 
 [^100-1]: Nuovo testo del per. giusta il n. I della LF del 14 dic. 2001, in vigore dal 1° gen. 2005 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); FF **1999** 3837).
 [^100-2]: Nuovo testo giusta il n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
-[^100-3]: Nuovo testo giusta l’all. n. 4 della LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
+[^100-3]: Nuovo testo del terzo per. giusta il n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^100-4]: Nuovo testo giusta l’all. n. 4 della LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
+[^100-5]: Introdotto dal n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ### Infrazioni commesse all’estero
 
@@ -2675,28 +2722,31 @@ Il giudice può ordinare la confisca di un veicolo a motore se:
 
 <sup>2</sup> Per il rimanente, i Cantoni sono incaricati di eseguire la presente legge. Essi prendono le misure necessarie a tale scopo e designano le autorità cantonali competenti.
 
+<sup>2bis</sup> Il Consiglio federale può autorizzare l’USTRA a concedere in singoli casi specifici deroghe a disposizioni contenute in ordinanze.[^106-2]
+
 <sup>3</sup> I Cantoni rimangono competenti a emanare prescrizioni completive sulla circolazione stradale, in quanto non concernano i veicoli a motore, i velocipedi e i veicoli ferrotranviari.
 
-<sup>4</sup> Il Consiglio federale può sottoporre a periti o a commissioni speciali problemi concernenti l’esecuzione della presente legge. ...[^106-2]
+<sup>4</sup> Il Consiglio federale può sottoporre a periti o a commissioni speciali problemi concernenti l’esecuzione della presente legge. ...[^106-3]
 
 <sup>5</sup> Il Consiglio federale è autorizzato a prendere provvisoriamente, finche la materia sia disciplinata per legge, tutte le misure imposte dai progressi tecnici nel settore della circolazione stradale e dall’esecuzione di convenzioni internazionali.
 
 <sup>6</sup> Per le persone che godono di privilegi e immunità diplomatici, il Consiglio federale può disciplinare diversamente la competenza delle autorità e prevedere le altre eccezioni alla presente legge derivanti dagli usi internazionali.
 
-<sup>7</sup> ...[^106-3]
+<sup>7</sup> ...[^106-4]
 
-<sup>8</sup> Il Consiglio federale può vietare, contingentare, sottomettere ad autorizzazione o ad altre restrizioni i viaggi di veicoli stranieri, se uno Stato estero ordina tali provvedimenti nei confronti dei veicoli svizzeri e dei loro conducenti, oppure applica loro prescrizioni di circolazione più severe rispetto a quelle applicate ai propri veicoli e loro conducenti.[^106-4]
+<sup>8</sup> Il Consiglio federale può vietare, contingentare, sottomettere ad autorizzazione o ad altre restrizioni i viaggi di veicoli stranieri, se uno Stato estero ordina tali provvedimenti nei confronti dei veicoli svizzeri e dei loro conducenti, oppure applica loro prescrizioni di circolazione più severe rispetto a quelle applicate ai propri veicoli e loro conducenti.[^106-5]
 
-<sup>9</sup> ...[^106-5]
+<sup>9</sup> ...[^106-6]
 
-<sup>10</sup> Il Consiglio federale può sottoporre ad autorizzazione determinati lavori ai veicoli, nella misura in cui lo esigano la sicurezza della circolazione o la protezione dell’ambiente. Esso fissa le esigenze poste al rilascio dell’autorizzazione e disciplina la sorveglianza.[^106-6]
+<sup>10</sup> Il Consiglio federale può sottoporre ad autorizzazione determinati lavori ai veicoli, nella misura in cui lo esigano la sicurezza della circolazione o la protezione dell’ambiente. Esso fissa le esigenze poste al rilascio dell’autorizzazione e disciplina la sorveglianza.[^106-7]
 
 [^106-1]: Nuovo testo del per. giusta il n. I della LF del 14 dic. 2001, in vigore dal 1° apr. 2003 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 3837).
-[^106-2]: Secondo e terzo per. abrogati dal n. I della LF del 14 dic. 2001, con effetto dal 1° apr. 2003 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 3837).
-[^106-3]: Abrogato dal n. I della LF del 15 giu. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^106-4]: Introdotto dal n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
-[^106-5]: Introdotto dal n. I della LF del 6 ott. 1989 ([RU 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 185](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)). Abrogato dal n. I della LF del 15 giu. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^106-6]: Introdotto dal n. I della LF del 18 giu. 1993, in vigore dal 1° apr. 1994 ([RU 1993 3330](https://fedlex.data.admin.ch/eli/oc/1993/3330_3330_3330), [1994 815](https://fedlex.data.admin.ch/eli/oc/1994/815_815_815); [FF 1993 I 609](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
+[^106-2]: Introdotto dal n. I della LF del 17 mar. 2023, in vigore dal 1° ott. 2023 ([RU 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^106-3]: Secondo e terzo per. abrogati dal n. I della LF del 14 dic. 2001, con effetto dal 1° apr. 2003 ([RU 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 3837).
+[^106-4]: Abrogato dal n. I della LF del 15 giu. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^106-5]: Introdotto dal n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1053](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
+[^106-6]: Introdotto dal n. I della LF del 6 ott. 1989 ([RU 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 185](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)). Abrogato dal n. I della LF del 15 giu. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7455](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^106-7]: Introdotto dal n. I della LF del 18 giu. 1993, in vigore dal 1° apr. 1994 ([RU 1993 3330](https://fedlex.data.admin.ch/eli/oc/1993/3330_3330_3330), [1994 815](https://fedlex.data.admin.ch/eli/oc/1994/815_815_815); [FF 1993 I 609](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
 
 ### Trattati internazionali
 

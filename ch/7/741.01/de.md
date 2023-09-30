@@ -4,11 +4,11 @@ title: Strassenverkehrsgesetz vom 19. Dezember 1958 (SVG)
 short: SVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/679_705_685"
 language: de
-version: 2023-09-01
+version: 2023-10-01
 adopted: 1958-12-19
 in_force: 1959-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20230901-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20231001/de/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20231001-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20231001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20230901/de"
 
 (SVG)[^t-1]
 
-vom 19. Dezember 1958 (Stand am 1. September 2023)
+vom 19. Dezember 1958 (Stand am 1. Oktober 2023)
 
 [^t-1]: Tit. gemäss Ziff. I des BG vom 6. Okt. 1989, in Kraft seit 1. Febr. 1991 ([AS 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [BBl 1986 III 209](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
 
@@ -60,22 +60,23 @@ Der Bundesrat ist ermächtigt, nach Anhören der Kantone:
 - b. für alle oder einzelne Arten von Motorfahrzeugen zeitliche, für die ganze Schweiz geltende Fahrverbote zu erlassen;
 - c.[^2-1] …
 
-<sup>2</sup> Für schwere Motorwagen zur Güterbeförderung gilt ein Nachtfahrverbot von 22.00 Uhr bis 05.00 Uhr und ein Sonntagsfahrverbot. Der Bundesrat regelt die Einzelheiten.[^2-2]
+<sup>2</sup> Für schwere Motorwagen zur Güterbeförderung gilt ein Nachtfahrverbot von 22.00 Uhr bis 05.00 Uhr und ein Sonntagsfahrverbot. Der Bundesrat regelt die Einzelheiten und legt die Ausnahmen fest.[^2-2] [^2-3]
 
-<sup>3</sup> Der Bundesrat erlässt ein Verzeichnis der nur für Motorfahrzeuge offenen Strassen. Er bezeichnet, soweit nicht die Bundesversammlung zuständig ist, diese Strassen nach Anhören oder auf Antrag der beteiligten Kantone. Er bestimmt, welche Arten von Motorfahrzeugen auf solchen Strassen verkehren dürfen.[^2-3]
+<sup>3</sup> Der Bundesrat erlässt ein Verzeichnis der nur für Motorfahrzeuge offenen Strassen. Er bezeichnet, soweit nicht die Bundesversammlung zuständig ist, diese Strassen nach Anhören oder auf Antrag der beteiligten Kantone. Er bestimmt, welche Arten von Motorfahrzeugen auf solchen Strassen verkehren dürfen.[^2-4]
 
-<sup>3bis</sup> Das Bundesamt für Strassen (ASTRA) verfügt die Massnahmen der örtlichen Verkehrsregelung auf den Nationalstrassen.[^2-4] Zur Beschwerde gegen solche Verfügungen sind auch die Gemeinden berechtigt, sofern Verkehrsmassnahmen auf ihrem Gebiet angeordnet werden.[^2-5]
+<sup>3bis</sup> Das Bundesamt für Strassen (ASTRA) verfügt die Massnahmen der örtlichen Verkehrsregelung auf den Nationalstrassen.[^2-5] Zur Beschwerde gegen solche Verfügungen sind auch die Gemeinden berechtigt, sofern Verkehrsmassnahmen auf ihrem Gebiet angeordnet werden.[^2-6]
 
-<sup>4</sup> Soweit es für das Militär oder den Zivilschutz nötig ist, kann der Verkehr auf bestimmten Strassen vorübergehend beschränkt oder gesperrt werden. Der Bundesrat bezeichnet die dafür zuständigen Stellen des Militärs und des Zivilschutzes. Sie nehmen vor ihrem Entscheid mit den kantonalen Behörden Rücksprache.[^2-6]
+<sup>4</sup> Soweit es für das Militär oder den Zivilschutz nötig ist, kann der Verkehr auf bestimmten Strassen vorübergehend beschränkt oder gesperrt werden. Der Bundesrat bezeichnet die dafür zuständigen Stellen des Militärs und des Zivilschutzes. Sie nehmen vor ihrem Entscheid mit den kantonalen Behörden Rücksprache.[^2-7]
 
 <sup>5</sup> Für Strassen im Eigentum des Bundes bestimmen die vom Bundesrat bezeichneten Bundesbehörden, ob und unter welchen Bedingungen der öffentliche Verkehr gestattet ist. Sie stellen die erforderlichen Signale auf.
 
 [^2-1]: Aufgehoben durch Ziff. I des BG vom 22. März 1991, mit Wirkung seit 15. März 1992 ([AS 1992 534](https://fedlex.data.admin.ch/eli/oc/1992/534_534_534); [BBl 1988 II 1333](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
-[^2-2]: Fassung gemäss Art. 6 Ziff. 2 des Verkehrsverlagerungsgesetzes vom 8. Okt. 1999, in Kraft seit 1. Jan. 2001 ([AS 2000 2864](https://fedlex.data.admin.ch/eli/oc/2000/495); [BBl 1999 6128](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
-[^2-3]: Fassung gemäss Art. 63 des BG vom 8. März 1960 über die Nationalstrassen, in Kraft seit 21. Juni 1960 ([AS 1960 525](https://fedlex.data.admin.ch/eli/oc/1960/525_569_555); [BBl 1959 II 105](https://fedlex.data.admin.ch/eli/fga/1959/2_105_97_649)).
-[^2-4]: Fassung gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^2-5]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2001 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); BBl **1999** 4462). Fassung gemäss Anhang Ziff. 73 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^2-6]: Fassung gemäss Ziff. I des BG vom 6. Okt. 1989, in Kraft seit 1. Febr. 1991 ([AS 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [BBl 1986 III 209](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
+[^2-2]: Fassung des zweiten Satzs gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^2-3]: Fassung gemäss Art. 6 Ziff. 2 des Verkehrsverlagerungsgesetzes vom 8. Okt. 1999, in Kraft seit 1. Jan. 2001 ([AS 2000 2864](https://fedlex.data.admin.ch/eli/oc/2000/495); [BBl 1999 6128](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
+[^2-4]: Fassung gemäss Art. 63 des BG vom 8. März 1960 über die Nationalstrassen, in Kraft seit 21. Juni 1960 ([AS 1960 525](https://fedlex.data.admin.ch/eli/oc/1960/525_569_555); [BBl 1959 II 105](https://fedlex.data.admin.ch/eli/fga/1959/2_105_97_649)).
+[^2-5]: Fassung gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^2-6]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2001 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); BBl **1999** 4462). Fassung gemäss Anhang Ziff. 73 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^2-7]: Fassung gemäss Ziff. I des BG vom 6. Okt. 1989, in Kraft seit 1. Febr. 1991 ([AS 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [BBl 1986 III 209](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
 
 ### Prävention
 
@@ -149,14 +150,15 @@ Der Bundesrat ist ermächtigt, nach Anhören der Kantone:
 
 <sup>1</sup> Bund, Kantone und Gemeinden tragen bei Planung, Bau, Unterhalt und Betrieb der Strasseninfrastruktur den Anliegen der Verkehrssicherheit angemessen Rechnung.
 
-<sup>2</sup> Der Bund erlässt in Zusammenarbeit mit den Kantonen Vorschriften über die bauliche Ausgestaltung von Fussgängerstreifen.
+<sup>2</sup> …[^6a-2]
 
 <sup>3</sup> Bund, Kantone und Gemeinden analysieren ihr Strassennetz auf Unfallschwerpunkte und Gefahrenstellen und erarbeiten eine Planung zu deren Behebung.
 
-<sup>4</sup> Bund und Kantone ernennen eine für den Verkehrssicherheitsbereich verantwortliche Ansprechperson (Sicherheitsbeauftragter).[^6a-2]
+<sup>4</sup> Der Bund und jeder Kanton ernennen eine Ansprechperson für die Belange der Verkehrssicherheit (Sicherheitsbeauftragter).[^6a-3]
 
 [^6a-1]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)), mit Ausnahme der Abs. 1, 3 und 4 in Kraft seit 1. Juli 2013.
-[^6a-2]: Berichtigung der RedK der BVers vom 27. Mai 2014, veröffentlicht am 11. Juni 2014 ([AS 2014 1387](https://fedlex.data.admin.ch/eli/oc/2014/293)). Betrifft nur den französischen Text.
+[^6a-2]: Aufgehoben durch Ziff. I des BG vom 17. März 2023, mit Wirkung seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^6a-3]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ## II. Titel: Fahrzeuge und Fahrzeugführer
 
@@ -194,17 +196,20 @@ Der Bundesrat ist ermächtigt, nach Anhören der Kantone:
 
 <sup>2</sup> Er setzt die Achslast sowie ein angemessenes Verhältnis zwischen der Motorleistung und dem Gesamtgewicht des Fahrzeuges beziehungsweise der Fahrzeugkombination fest.
 
-<sup>3</sup> Er kann nach Anhören der Kantone Ausnahmen vorsehen für Motorfahrzeuge und Anhänger im Linienverkehr und für solche Fahrzeuge, die wegen ihres besonderen Zweckes unvermeidbar höhere Masse oder Gewichte erfordern. Er umschreibt die Voraussetzungen, unter denen im Einzelfall unumgängliche Fahrten anderer Fahrzeuge mit höheren Massen oder Gewichten durchgeführt werden können.[^9-4]
+<sup>2bis</sup> Er kann eine Überschreitung des höchstzulässigen Gewichts und der Höchstlänge zulassen für Fahrzeuge und Fahrzeugkombinationen, die spezielle Bau- und Ausrüstungsmerkmale zugunsten der Umwelt aufweisen. Die zulässige Überschreitung entspricht maximal dem für diese Merkmale erforderlichen Mehrgewicht oder der dafür erforderlichen Zusatzlänge. Die Ladekapazität darf dadurch nicht erhöht werden.[^9-4]
 
-<sup>3bis</sup> Auf Gesuch des Fahrzeughalters kann das zugelassene Gesamtgewicht eines Motorfahrzeuges oder eines Anhängers verändert werden, jedoch höchstens einmal jährlich oder anlässlich eines Halterwechsels. Die Gewichtsgarantien des Fahrzeugherstellers dürfen nicht überschritten werden.[^9-5]
+<sup>3</sup> Er kann nach Anhören der Kantone Ausnahmen vorsehen für Motorfahrzeuge und Anhänger im Linienverkehr und für solche Fahrzeuge, die wegen ihres besonderen Zweckes unvermeidbar höhere Masse oder Gewichte erfordern. Er umschreibt die Voraussetzungen, unter denen im Einzelfall unumgängliche Fahrten anderer Fahrzeuge mit höheren Massen oder Gewichten durchgeführt werden können.[^9-5]
+
+<sup>3bis</sup> Auf Gesuch des Fahrzeughalters kann das zugelassene Gesamtgewicht eines Motorfahrzeuges oder eines Anhängers verändert werden, jedoch höchstens einmal jährlich oder anlässlich eines Halterwechsels. Die Gewichtsgarantien des Fahrzeugherstellers dürfen nicht überschritten werden.[^9-6]
 
 <sup>4</sup> Signalisierte Beschränkungen der Breite, der Höhe, des Gewichtes und der Achslast der Fahrzeuge bleiben in jedem Fall vorbehalten.
 
 [^9-1]: Fassung gemäss Ziff. I 1 des BG vom 8. Okt. 1999 zum Abkommen zwischen der schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Güter- und Personenverkehr auf Schiene und Strasse, in Kraft seit 1. Jan. 2001 ([AS 2000 2877](https://fedlex.data.admin.ch/eli/oc/2000/497); [BBl 1999 6128](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
 [^9-2]: Fassung gemäss Art. 7 des 4-Meter-Korridor-Gesetzes vom 13. Dez. 2013, in Kraft seit 1. Juni 2014 ([AS 2014 1111](https://fedlex.data.admin.ch/eli/oc/2014/242); [BBl 2013 3823](https://fedlex.data.admin.ch/eli/fga/2013/825)).
 [^9-3]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^9-4]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^9-5]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2001, in Kraft seit 1. April 2003 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); BBl **1999** 4462).
+[^9-4]: Eingefügt durch Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^9-5]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^9-6]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2001, in Kraft seit 1. April 2003 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); BBl **1999** 4462).
 
 ### Ausweise
 
@@ -375,9 +380,9 @@ Er wird erteilt, wenn der Bewerber:
 
 <sup>2bis</sup> Inhaber des Führerausweises auf Probe müssen Weiterbildungskurse besuchen. Die Kurse sollen die Erkennung und Vermeidung von Gefahren und umweltschonendes Fahren vermitteln und sind in erster Linie praktisch auszurichten. Der Bundesrat legt Inhalt und Form der Weiterbildungskurse fest.[^15a-3]
 
-<sup>3</sup> Wird dem Inhaber der Ausweis auf Probe wegen einer Widerhandlung entzogen, so wird die Probezeit um ein Jahr verlängert. Dauert der Entzug über die Probezeit hinaus, so beginnt die Verlängerung mit der Rückgabe des Führerausweises.
+<sup>3</sup> Wird dem Inhaber der Führerausweis auf Probe wegen Begehung einer mittelschweren oder schweren Widerhandlung entzogen, so wird die Probezeit um ein Jahr verlängert.[^15a-4] Dauert der Entzug über die Probezeit hinaus, so beginnt die Verlängerung mit der Rückgabe des Führerausweises.
 
-<sup>4</sup> Der Führerausweis auf Probe verfällt mit der zweiten Widerhandlung, die zum Entzug des Ausweises führt.
+<sup>4</sup> Der Führerausweis auf Probe verfällt, wenn der Inhaber während der Probezeit eine weitere mittelschwere oder schwere Widerhandlung begeht.[^15a-5]
 
 <sup>5</sup> Ein neuer Lernfahrausweis kann frühestens ein Jahr nach Begehung der Widerhandlung und nur auf Grund eines verkehrspsychologischen Gutachtens erteilt werden, das die Eignung bejaht. Diese Frist wird um ein Jahr verlängert, wenn die betroffene Person während dieser Zeit ein Motorrad oder einen Motorwagen geführt hat.
 
@@ -386,6 +391,8 @@ Er wird erteilt, wenn der Bewerber:
 [^15a-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2001, in Kraft seit 1. Dez. 2005 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 5053](https://fedlex.data.admin.ch/eli/oc/2004/778)Art. 1 Abs. 2; BBl **1999** 4462).
 [^15a-2]: Fassung gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^15a-3]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^15a-4]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^15a-5]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ### Definitiver Führerausweis
 
@@ -464,7 +471,7 @@ Bestehen Zweifel an der Fahreignung einer Person, so wird diese einer Fahreignun
 
 <sup>1</sup> Ausweise und Bewilligungen sind zu entziehen, wenn festgestellt wird, dass die gesetzlichen Voraussetzungen zur Erteilung nicht oder nicht mehr bestehen; sie können entzogen werden, wenn die mit der Erteilung im Einzelfall verbundenen Beschränkungen oder Auflagen missachtet werden.
 
-<sup>2</sup> Nach Widerhandlungen gegen die Strassenverkehrsvorschriften, bei denen das Verfahren nach dem Ordnungsbussengesetz vom 24. Juni 1970[^16-1] ausgeschlossen ist, wird der Lernfahr- oder Führerausweis entzogen oder eine Verwarnung ausgesprochen.[^16-2]
+<sup>2</sup> Nach Widerhandlungen gegen die Strassenverkehrsvorschriften, bei denen das Verfahren nach dem Ordnungsbussengesetz vom 18. März 2016[^16-1] ausgeschlossen ist, wird der Lernfahr- oder Führerausweis entzogen oder eine Verwarnung ausgesprochen.[^16-2]
 
 <sup>3</sup> Bei der Festsetzung der Dauer des Lernfahr- oder Führerausweisentzugs sind die Umstände des Einzelfalls zu berücksichtigen, namentlich die Gefährdung der Verkehrssicherheit, das Verschulden, der Leumund als Motorfahrzeugführer sowie die berufliche Notwendigkeit, ein Motorfahrzeug zu führen. Die Mindestentzugsdauer darf jedoch nicht unterschritten werden, ausser wenn die Strafe nach Artikel 100 Ziffer 4 dritter Satz gemildert wurde.[^16-3] [^16-4]
 
@@ -482,8 +489,8 @@ Der Fahrzeugausweis wird entzogen, wenn:
 - a. die gegebenenfalls nach dem Schwerverkehrsabgabegesetz vom 19. Dezember 1997[^16-6] für das Fahrzeug geschuldete Abgabe oder die geschuldeten Sicherheitsleistungen nicht bezahlt und der Halter erfolglos gemahnt worden ist; oder
 - b. das Fahrzeug nicht mit dem vorgeschriebenen Erfassungsgerät zur Abgabeerhebung ausgerüstet ist.[^16-7]
 
-[^16-1]: [[AS 1972 734](https://fedlex.data.admin.ch/eli/oc/1972/734_742_666); [1996 1075](https://fedlex.data.admin.ch/eli/oc/1996/1075_1075_1075); [2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551)Art. 44 Ziff. 4; [2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821). [AS 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725)Anhang Ziff. I]. Siehe heute: das Ordnungsbussengesetz vom 18. März 2016 ([SR 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)).
-[^16-2]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2001, in Kraft seit 1. Jan. 2005 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); BBl **1999** 4462).
+[^16-1]: [SR 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)
+[^16-2]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^16-3]: Fassung des zweiten Satzes gemäss Anhang Ziff. 4 des BG vom 18. März 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 [^16-4]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2001, in Kraft seit 1. Jan. 2005 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); BBl **1999** 4462).
 [^16-5]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2001, in Kraft seit 1. April 2003 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); BBl **1999** 4462).
@@ -568,7 +575,7 @@ Eine schwere Widerhandlung begeht, wer:
 Nach einer schweren Widerhandlung wird der Lernfahr- oder Führerausweis entzogen für:
 
 - a. mindestens drei Monate;
-- a<sup>bis</sup>.[^16c-3] mindestens zwei Jahre, wenn durch vorsätzliche Verletzung elementarer Verkehrsregeln das hohe Risiko eines Unfalls mit Schwerverletzten oder Todesopfern bestand, namentlich durch besonders krasse Missachtung der zulässigen Höchstgeschwindigkeit, waghalsiges Überholen oder Teilnahme an einem nicht bewilligten Rennen mit Motorfahrzeugen; Artikel 90 Absatz 4 ist anwendbar;
+- a<sup>bis</sup>.[^16c-3] mindestens zwei Jahre, wenn durch vorsätzliche Verletzung elementarer Verkehrsregeln das hohe Risiko eines Unfalls mit Schwerverletzten oder Todesopfern bestand, namentlich durch besonders krasse Missachtung der zulässigen Höchstgeschwindigkeit im Sinne von Artikel 90 Absatz 4, waghalsiges Überholen oder Teilnahme an einem nicht bewilligten Rennen mit Motorfahrzeugen; diese Mindestentzugsdauer darf um bis zu zwölf Monate reduziert werden, wenn eine Strafe von weniger als einem Jahr (Art. 90 Abs. 3<sup>bis</sup> oder 3<sup>ter</sup>) ausgesprochen wurde;
 - b. mindestens sechs Monate, wenn in den vorangegangenen fünf Jahren der Ausweis einmal wegen einer mittelschweren Widerhandlung entzogen war;
 - c. mindestens zwölf Monate, wenn in den vorangegangenen fünf Jahren der Ausweis einmal wegen einer schweren Widerhandlung oder zweimal wegen mittelschweren Widerhandlungen entzogen war;
 - d. unbestimmte Zeit, mindestens aber für zwei Jahre, wenn in den vorangegangenen zehn Jahren der Ausweis zweimal wegen schweren Widerhandlungen oder dreimal wegen mindestens mittelschweren Widerhandlungen entzogen war; auf diese Massnahme wird verzichtet, wenn die betroffene Person während mindestens fünf Jahren nach Ablauf eines Ausweisentzugs keine Widerhandlung, für die eine Administrativmassnahme ausgesprochen wurde, begangen hat;
@@ -580,7 +587,7 @@ Nach einer schweren Widerhandlung wird der Lernfahr- oder Führerausweis entzoge
 
 [^16c-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2001, in Kraft seit 1. Jan. 2005 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); BBl **1999** 4462).
 [^16c-2]: Fassung gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Okt. 2016 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2583](https://fedlex.data.admin.ch/eli/oc/2015/489); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^16c-3]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^16c-3]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)). Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^16c-4]: Siehe auch die SchlB Änd. 14.12.2001 am Ende dieses Textes.
 
 ### Führerausweisentzug nach einer Widerhandlung im Ausland
@@ -1386,15 +1393,16 @@ Er kann:
 
 <sup>4</sup>
 
-Nach dem Obligationenrecht[^59-2] bestimmt sich:
+Nach dem Obligationenrecht[^59-2] bestimmen sich:[^59-3]
 
 - a. die Haftung im Verhältnis zwischen dem Halter und dem Eigentümer eines Fahrzeuges für Schaden an diesem Fahrzeug;
-- b.[^59-3] die Haftung des Halters für Schaden an den mit seinem Fahrzeug beförderten Sachen, ausgenommen an Gegenständen, die der Geschädigte mit sich führte, namentlich Reisegepäck u. dgl.; vorbehalten ist das Transportgesetz vom 4. Oktober 1985[^59-4].
+- b.[^59-4] die Haftung des Halters für Schaden an den mit seinem Fahrzeug beförderten Sachen, ausgenommen an Gegenständen, die der Geschädigte mit sich führte, namentlich Reisegepäck und dergleichen; vorbehalten ist das Personenbeförderungsgesetz vom 20. März 2009[^59-5].
 
 [^59-1]: Aufgehoben durch Ziff. I des BG vom 20. März 1975, mit Wirkung seit 1. Jan. 1976 ([AS 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)Ziff. III; [BBl 1973 II 1173](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
 [^59-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^59-3]: Fassung gemäss Art. 54 Ziff. 2 des BG vom 4. Okt. 1985 über den Transport im öffentlichen Verkehr, in Kraft seit 1. Jan. 1987 ([AS 1986 1974](https://fedlex.data.admin.ch/eli/oc/1986/1974_1974_1974); [BBl 1983 II 167](https://fedlex.data.admin.ch/eli/fga/1983/2_167_187_159)).
-[^59-4]: [[AS 1986 1974](https://fedlex.data.admin.ch/eli/oc/1986/1974_1974_1974), [1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290)Ziff. V, [1995 3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)Ziff. I 10 [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Anhang Ziff. 13, [1998 2856](https://fedlex.data.admin.ch/eli/oc/1998/2856_2856_2856). [AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)Ziff. III]. Siehe heute: das Personenbeförderungsgesetz vom 20. März 2009 ([SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)).
+[^59-3]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^59-4]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^59-5]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
 
 ### Mehrere Schädiger
 
@@ -1472,12 +1480,13 @@ Der Bundesrat bestimmt die Beträge, die als Ersatzansprüche der Geschädigten 
 
 <sup>1</sup> Der Geschädigte hat im Rahmen der vertraglichen Versicherungsdeckung ein Forderungsrecht unmittelbar gegen den Versicherer.
 
-<sup>2</sup> Einreden aus dem Versicherungsvertrag oder aus dem Bundesgesetz vom 2. April 1908[^65-1] über den Versicherungsvertrag können dem Geschädigten nicht entgegengehalten werden.
+<sup>2</sup> Einreden aus dem Versicherungsvertrag oder aus dem Versicherungsvertragsgesetz vom 2. April 1908[^65-1] können dem Geschädigten nicht entgegengehalten werden.[^65-2]
 
-<sup>3</sup> Der Versicherer hat ein Rückgriffsrecht gegen den Versicherungsnehmer oder den Versicherten, soweit er nach dem Versicherungsvertrag oder dem Bundesgesetz vom 2. April 1908 über den Versicherungsvertrag zur Ablehnung oder Kürzung seiner Leistung befugt wäre. Wurde der Schaden in angetrunkenem oder fahrunfähigem Zustand oder durch ein Geschwindigkeitsdelikt im Sinne des Artikels 90 Absatz 4 verursacht, so muss der Versicherer Rückgriff nehmen. Der Umfang des Rückgriffs trägt dem Verschulden und der wirtschaftlichen Leistungsfähigkeit der Person Rechnung, auf die Rückgriff genommen wird.[^65-2]
+<sup>3</sup> Der Versicherer hat ein Rückgriffsrecht gegen den Versicherungsnehmer oder den Versicherten, soweit er nach dem Versicherungsvertrag oder dem Versicherungsvertragsgesetz zur Ablehnung oder Kürzung seiner Leistung befugt wäre.[^65-3]
 
 [^65-1]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
-[^65-2]: Zweiter und dritter Satz eingefügt durch Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2015 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^65-2]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^65-3]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ### Mehrere Geschädigte
 
@@ -1992,19 +2001,22 @@ Das IVZ dient der Erfüllung folgender Aufgaben:
 
 - b. Durchführung von Administrativ- und Strafverfahren gegen Fahrzeugführer im Strassenverkehr;
 - c. Fahrzeugtypisierung, Fahrzeugprüfung und Zulassung von Fahrzeugen zum Strassenverkehr;
-- d. Kontrolle der Versicherung, Verzollung und Versteuerung nach dem Automobilsteuergesetz vom 21. Juni 1996[^89b-1] der zum Strassenverkehr zugelassenen Fahrzeuge;
+- d.[^89b-1] Kontrolle der Versicherung, Verzollung und Versteuerung nach dem AStG[^89b-2] der zum Strassenverkehr zugelassenen Fahrzeuge;
 - e. Identifikation von Fahrzeughaltern und Fahrzeugfahndung;
 - f. Verkehrsopferschutz;
 - g. Treibstoffrationierung sowie Belegung oder Einmietung von Fahrzeugen für Armee, Zivilschutz und wirtschaftliche Landesversorgung;
 - h. Erstellen von Statistiken, namentlich in den Bereichen Fahrberechtigungen, Administrativmassnahmen, Fahrzeugtypen, Fahrzeugzulassungen, Strassenverkehrsunfälle und Strassenverkehrskontrollen;
 - i. Erarbeiten von Grundlagen der Verkehrs-, Umwelt- und Energiepolitik;
-- j. Erhebung der kantonalen Motorfahrzeugsteuern, der Schwerverkehrsabgaben und weiterer Abgaben;
+- j.[^89b-3] Erhebung der kantonalen Motorfahrzeugsteuern und weiterer Abgaben sowie Erhebung und Überprüfung der Entrichtung der Schwerverkehrsabgaben und der Nationalstrassenabgaben;
 - k. Unterstützung in- und ausländischer Behörden beim Vollzug der Vorschriften über die Arbeits- und Ruhezeit der berufsmässigen Motorfahrzeugführer;
 - l. Zulassung und Kontrolle von Strassentransportunternehmen im Personen- und im Güterverkehr;
-- m.[^89b-2] Vollzug der Verminderung der CO<sub>2</sub>-Emissionen bei Personenwagen, Lieferwagen und leichten Sattelschleppern.
+- m.[^89b-4] Vollzug der Verminderung der CO<sub>2</sub>-Emissionen von Fahrzeugen nach dem CO<sub>2</sub>-Gesetz vom 23. Dezember 2011[^89b-5].
 
-[^89b-1]: [SR 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^89b-2]: Fassung gemäss Anhang Ziff. II 10 des Energiegesetzes vom 30. Sept. 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); BBl **2013** 756).
+[^89b-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89b-2]: [SR 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
+[^89b-3]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89b-4]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89b-5]: [SR 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
 
 ### Inhalt
 
@@ -2040,32 +2052,51 @@ Das IVZ enthält:
 
 #### Art. 89d
 
-Folgende Behörden bearbeiten die Daten des IVZ:
+Folgende Behörden und Stellen bearbeiten die Daten des IVZ:[^89d-1]
 
 - a. das ASTRA;
 - b. die für das Erteilen und den Entzug der Fahrberechtigungen und der Fahrzeugausweise zuständigen Behörden des Bundes und der Kantone: die Daten in ihrem Zuständigkeitsbereich;
 - c. die für die Treibstoffrationierung sowie die Belegung und Einmietung von Fahrzeugen für die Armee, den Zivilschutz und die wirtschaftliche Landesversorgung zuständigen Behörden: die Fahrzeughalter- und Fahrzeugdaten;
-- d. die für die Abnahme von Führer- und Fahrzeugausweisen zuständigen Polizeiorgane: die Fahrberechtigungs- und Fahrzeugdaten.
+- d. die für die Abnahme von Führer- und Fahrzeugausweisen zuständigen Polizeiorgane: die Fahrberechtigungs- und Fahrzeugdaten;
+- e.[^89d-2] die für die Kontrolle der Verzollung und Versteuerung nach dem AStG[^89d-3] zuständigen Behörden: die Daten in ihrem Zuständigkeitsbereich;
+- f.[^89d-4] die für die Erhebung der leistungsabhängigen Schwerverkehrsabgabe nach dem Schwerverkehrsabgabegesetz vom 19. Dezember 1997[^89d-5] zuständigen Behörden: die Daten in ihrem Zuständigkeitsbereich;
+- g.[^89d-6] die mit der Erhebung und der Überprüfung der Entrichtung der Nationalstrassenabgabe nach dem Nationalstrassenabgabegesetz vom 19. März 2010[^89d-7] betrauten Stellen: die Fahrzeughalter- und Fahrzeugdaten;
+- h.[^89d-8] die für den Vollzug der Verminderung der CO<sub>2</sub>-Emissionen von Fahrzeugen nach dem CO<sub>2</sub>-Gesetz vom 23. Dezember 2011[^89d-9] zuständigen Behörden: die Daten in ihrem Zuständigkeitsbereich.
+
+[^89d-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89d-2]: Eingefügt durch Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89d-3]: [SR 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
+[^89d-4]: Eingefügt durch Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89d-5]: [SR 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
+[^89d-6]: Eingefügt durch Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89d-7]: [SR 741.71](https://fedlex.data.admin.ch/eli/cc/2011/577)
+[^89d-8]: Eingefügt durch Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89d-9]: [SR 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
 
 ### Zugriff im Abrufverfahren
 
 #### Art. 89e
 
-Folgende Stellen können durch ein Abrufverfahren Einsicht in die folgenden Daten nehmen:
+Folgende Behörden und Stellen können durch ein Abrufverfahren Einsicht in die folgenden Daten nehmen:[^89e-1]
 
-- a. die Polizeiorgane: in die Daten, die für die Kontrolle der Fahrberechtigung und der Verkehrszulassung, für die Identifikation des Halters und des Versicherers sowie für die Fahrzeugfahndung erforderlich sind;
-- b. die Zollorgane: in die Daten, die für die Kontrolle der Fahrberechtigung und der Verkehrszulassung, für die Kontrolle der Verzollung und der Versteuerung nach dem Automobilsteuergesetz vom 21. Juni 1996[^89e-1] sowie für die Fahrzeugfahndung erforderlich sind;
+- a.[^89e-2] die nach Artikel 89*d* zur Datenbearbeitung berechtigten Behörden und Stellen: in die Daten, die sie gestützt auf jene Bestimmung bearbeiten;
+- a.<sup>bis</sup> [^89e-3] die Polizeiorgane: in die Daten, die für die Kontrolle der Fahrberechtigung und der Verkehrszulassung, für die Identifikation des Halters und des Versicherers sowie für die Fahrzeugfahndung erforderlich sind;
+- b.[^89e-4] das Bundesamt für Zoll und Grenzsicherheit: in die Daten, die für die Kontrolle der Fahrberechtigung und der Verkehrszulassung sowie für die Fahrzeugfahndung erforderlich sind;
 - c. die Strafverfolgungs- und Gerichtsbehörden: im Rahmen von Verfahren zur Beurteilung von Strassenverkehrswiderhandlungen in die Fahrberechtigungs- und Administrativmassnahmendaten;
 - d. die für die Fahrzeugprüfungen zuständigen Behörden des Bundes und der Kantone sowie die für die Durchführung von amtlichen Fahrzeugprüfungen bezeichneten Stellen: in die Daten der Fahrzeugzulassung und der Fahrzeugtypen;
 - e. das Bundesamt für Statistik: in die Fahrzeugdaten;
 - f. das Bundesamt für Verkehr: im Zusammenhang mit der Zulassung als Strassentransportunternehmen in die Fahrzeugzulassungs- und Administrativmassnahmendaten;
-- g.[^89e-2] das Bundesamt für Energie: für den Vollzug der Verminderung der CO<sub>2</sub>-Emissionen bei Personenwagen, Lieferwagen und leichten Sattelschleppern in die Motorfahrzeugdaten;
+- g.[^89e-5] das Bundesamt für Energie: in die Fahrzeugdaten, die für den Vollzug der Verminderung der CO<sub>2</sub>-Emissionen von Fahrzeugen nach dem CO<sub>2</sub>-Gesetz vom 23. Dezember 2011[^89e-6] erforderlich sind;
 - h. das Nationale Versicherungsbüro und der Nationale Garantiefonds: in die Daten, die zur Erfüllung ihrer öffentlichen Aufgaben erforderlich sind (Art. 74 und 76);
 - i. ausländische, für die Erteilung der Fahrerkarten zuständige Behörden: in die Fahrerkartendaten;
 - j. ausländische, für die Kontrolle der Arbeits- und Ruhezeiten der berufsmässigen Motorfahrzeugführer zuständige Kontrollorgane: in den Kartenstatus der Fahrerkarten.
 
-[^89e-1]: [SR 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^89e-2]: Fassung gemäss Anhang Ziff. II 10 des Energiegesetzes vom 30. Sept. 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); BBl **2013** 756).
+[^89e-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89e-2]: Eingefügt durch Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89e-3]: Ursprünglich: Bst. a.
+[^89e-4]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89e-5]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89e-6]: [SR 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
 
 ### Einsichtsrecht
 
@@ -2309,19 +2340,27 @@ Der Bundesrat regelt:
 
 <sup>3</sup> Mit Freiheitsstrafe von einem bis zu vier Jahren wird bestraft, wer durch vorsätzliche Verletzung elementarer Verkehrsregeln das hohe Risiko eines Unfalls mit Schwerverletzten oder Todesopfern eingeht, namentlich durch besonders krasse Missachtung der zulässigen Höchstgeschwindigkeit, waghalsiges Überholen oder Teilnahme an einem nicht bewilligten Rennen mit Motorfahrzeugen.
 
+<sup>3bis</sup> Die Mindeststrafe von einem Jahr kann bei Widerhandlungen gemäss Absatz 3 unterschritten werden, wenn ein Strafmilderungsgrund nach Artikel 48 StGB[^90-2] vorliegt, insbesondere wenn der Täter aus achtenswerten Beweggründen gehandelt hat.[^90-3]
+
+<sup>3ter</sup> Der Täter kann bei Widerhandlungen gemäss Absatz 3 mit Freiheitsstrafe bis zu vier Jahren oder Geldstrafe bestraft werden, wenn er nicht innerhalb der letzten zehn Jahre vor der Tat wegen eines Verbrechens oder Vergehens im Strassenverkehr mit ernstlicher Gefahr für die Sicherheit anderer, respektive mit Verletzung oder Tötung anderer verurteilt wurde.[^90-4]
+
 <sup>4</sup>
 
-Absatz 3 ist in jedem Fall erfüllt, wenn die zulässige Höchstgeschwindigkeit überschritten wird um:
+Eine besonders krasse Missachtung der zulässigen Höchstgeschwindigkeit liegt vor, wenn diese überschritten wird um:
 
 - a. mindestens 40 km/h, wo die Höchstgeschwindigkeit höchstens 30 km/h beträgt;
 - b. mindestens 50 km/h, wo die Höchstgeschwindigkeit höchstens 50 km/h beträgt;
 - c. mindestens 60 km/h, wo die Höchstgeschwindigkeit höchstens 80 km/h beträgt;
-- d. mindestens 80 km/h, wo die Höchstgeschwindigkeit mehr als 80 km/h beträgt.
+- d. mindestens 80 km/h, wo die Höchstgeschwindigkeit mehr als 80 km/h beträgt.[^90-5]
 
-<sup>5</sup> Artikel 237 Ziffer 2 des Strafgesetzbuches[^90-2] findet in diesen Fällen keine Anwendung.
+<sup>5</sup> Artikel 237 Ziffer 2 des Strafgesetzbuches[^90-6] findet in diesen Fällen keine Anwendung.
 
 [^90-1]: Fassung gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^90-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^90-3]: Eingefügt durch Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^90-4]: Eingefügt durch Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^90-5]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^90-6]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 ### Einziehung und Verwertung von Motorfahrzeugen
 
@@ -2358,11 +2397,11 @@ Mit Busse wird bestraft, wer:
 
 Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer:
 
-- a. in angetrunkenem Zustand mit qualifizierter Atemalkohol- oder Blutalkoholkonzentration ein Motorfahrzeug führt[^91-2];
+- a.[^91-2] in angetrunkenem Zustand mit qualifizierter Atemalkohol- oder Blutalkoholkonzentration ein Motorfahrzeug führt;
 - b. aus anderen Gründen fahrunfähig ist und ein Motorfahrzeug führt.
 
 [^91-1]: Fassung gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2014 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^91-2]: Die Bestimmung zur Atemalkoholkonzentration ist anwendbar ab Inkrafttreten von Art. 55 Abs. 3, 3<sup>bis</sup>, 6 und 6<sup>bis</sup> gemäss Ziff. I des BG vom 15. Juni 2012 und der V der BVers vom 15. Juni 2012 über Alkoholgrenzwerte im Strassenverkehr.
+[^91-2]: Bereinigt gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ### Vereitelung von Massnahmen zur Feststellung der Fahrunfähigkeit
 
@@ -2445,7 +2484,7 @@ Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer:
 - d. ohne Lernfahrausweis oder ohne die vorgeschriebene Begleitung Lernfahrten ausführt;
 - e. ein Motorfahrzeug einem Führer überlässt, von dem er weiss oder bei pflichtgemässer Aufmerksamkeit wissen kann, dass er den erforderlichen Ausweis nicht hat.
 
-<sup>2</sup> Mit Geldstrafe bis zu 180 Tagessätzen wird bestraft, wer ein Motorfahrzeug führt, obwohl die Gültigkeitsdauer des Führerausweises auf Probe abgelaufen ist.
+<sup>2</sup> Mit Geldstrafe wird bestraft, wer ein Motorfahrzeug führt, obwohl die Gültigkeitsdauer des Führerausweises auf Probe abgelaufen ist.[^95-2]
 
 <sup>3</sup>
 
@@ -2463,6 +2502,7 @@ Mit Busse wird bestraft, wer:
 - b. ein Fuhrwerk führt, obwohl ihm das Führen eines Tierfuhrwerks untersagt wurde.
 
 [^95-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2010, in Kraft seit 1. Jan. 2012 ([AS 2011 3267](https://fedlex.data.admin.ch/eli/oc/2011/428); [BBl 2010 3917](https://fedlex.data.admin.ch/eli/fga/2010/629)[3927](https://fedlex.data.admin.ch/eli/fga/2010/631)).
+[^95-2]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ### Fahren ohne Fahrzeugaus-weis, Bewilligung oder Haftpflichtversicherung
 
@@ -2547,10 +2587,11 @@ Mit Busse wird bestraft, wer:
 - b. eine entgeltliche Dienstleistung anbietet, mit der vor solchen Kontrollen gewarnt wird;
 - c. Geräte oder Vorrichtungen, die nicht primär zur Warnung vor behördlichen Kontrollen des Strassenverkehrs bestimmt sind, zu solchen Zwecken verwendet.
 
-<sup>4</sup> In schweren Fällen ist die Strafe Geldstrafe bis zu 180 Tagessätzen.
+<sup>4</sup> In schweren Fällen ist die Strafe Geldstrafe.[^98a-3]
 
 [^98a-1]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^98a-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^98a-3]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ### Weitere Widerhandlungen
 
@@ -2592,11 +2633,15 @@ Ist für die Tat nur Busse angedroht, so kann der Richter den Führer milder bes
 
 Der Fahrschüler ist verantwortlich, soweit er eine Widerhandlung nach dem Stand seiner Ausbildung hätte vermeiden können.
 
-<sup>4.</sup> Missachtet der Führer eines Feuerwehr-, Sanitäts-, Polizei- oder Zollfahrzeugs auf dringlichen oder taktisch notwendigen Dienstfahrten Verkehrsregeln oder besondere Anordnungen für den Verkehr, so macht er sich nicht strafbar, wenn er alle Sorgfalt walten lässt, die nach den Umständen erforderlich ist. Auf dringlichen Dienstfahrten ist die Missachtung nur dann nicht strafbar, wenn der Führer zudem die erforderlichen Warnsignale abgibt; die Abgabe der Warnsignale ist ausnahmsweise nicht erforderlich, wenn sie der Erfüllung der gesetzlichen Aufgabe entgegensteht. Hat der Führer nicht die Sorgfalt walten lassen, die nach den Umständen erforderlich war, oder hat er auf dringlichen Dienstfahrten nicht die erforderlichen Warnsignale abgegeben, so kann die Strafe gemildert werden.[^100-3]
+<sup>4.</sup> Missachtet der Führer eines Feuerwehr-, Sanitäts-, Polizei- oder Zollfahrzeugs auf dringlichen oder taktisch notwendigen Dienstfahrten Verkehrsregeln oder besondere Anordnungen für den Verkehr, so macht er sich nicht strafbar, wenn er alle Sorgfalt walten lässt, die nach den Umständen erforderlich ist. Auf dringlichen Dienstfahrten ist die Missachtung nur dann nicht strafbar, wenn der Führer zudem die erforderlichen Warnsignale abgibt; die Abgabe der Warnsignale ist ausnahmsweise nicht erforderlich, wenn sie der Erfüllung der gesetzlichen Aufgabe entgegensteht. Hat der Führer nicht die Sorgfalt walten lassen, die nach den Umständen erforderlich war, oder hat er auf dringlichen Dienstfahrten nicht die erforderlichen Warnsignale abgegeben, so bleibt seine Strafbarkeit bestehen, die Strafe ist aber zu mildern.[^100-3] [^100-4]
+
+<sup>5.</sup> Im Falle von Geschwindigkeitsüberschreitungen, die auf dringlichen oder aus taktischen Gründen notwendigen Dienstfahrten begangen werden, wird lediglich die Differenz zur Geschwindigkeit berücksichtigt, die für den Einsatz angemessen gewesen wäre.[^100-5]
 
 [^100-1]: Fassung des zweiten Satzes durch Ziff. I des BG vom 14. Dez. 2001, in Kraft seit 1. Jan. 2005 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); BBl **1999** 4462).
 [^100-2]: Fassung gemäss Ziff. I des BG vom 20. März 1975, in Kraft seit 1. Aug. 1975 ([AS 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)Art. 1; [BBl 1973 II 1173](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
-[^100-3]: Fassung gemäss Anhang Ziff. 4 des BG vom 18. März 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
+[^100-3]: Fassung des dritten Satzes gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^100-4]: Fassung gemäss Anhang Ziff. 4 des BG vom 18. März 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
+[^100-5]: Eingefügt durch Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ### Widerhandlungen im Ausland
 
@@ -2682,28 +2727,31 @@ Der Fahrschüler ist verantwortlich, soweit er eine Widerhandlung nach dem Stand
 
 <sup>2</sup> Im Übrigen führen die Kantone dieses Gesetz durch. Sie treffen die dafür notwendigen Massnahmen und bezeichnen die zuständigen kantonalen Behörden.
 
+<sup>2bis</sup> Der Bundesrat kann das ASTRA ermächtigen, in besonderen Einzelfällen Ausnahmen von Verordnungsbestimmungen zu bewilligen.[^106-2]
+
 <sup>3</sup> Die Kantone bleiben zuständig zum Erlass ergänzender Vorschriften über den Strassenverkehr, ausgenommen für Motorfahrzeuge und Fahrräder sowie für Eisenbahnfahrzeuge.
 
-<sup>4</sup> Der Bundesrat kann Fragen der Durchführung dieses Gesetzes durch Sachverständige oder Fachkommissionen begutachten lassen. …[^106-2]
+<sup>4</sup> Der Bundesrat kann Fragen der Durchführung dieses Gesetzes durch Sachverständige oder Fachkommissionen begutachten lassen. …[^106-3]
 
 <sup>5</sup> Beim Auftreten neuer technischer Erscheinungen auf dem Gebiete des Strassenverkehrs sowie zur Durchführung zwischenstaatlicher Vereinbarungen kann der Bundesrat die vorläufigen Massnahmen treffen, die sich bis zur gesetzlichen Regelung als notwendig erweisen.
 
 <sup>6</sup> Für die Personen, die im Genuss der diplomatischen Vorrechte und Befreiungen stehen, kann der Bundesrat die Zuständigkeit der Behörden abweichend regeln und die weiteren Ausnahmen von diesem Gesetz vorsehen, die sich aus den völkerrechtlichen Gepflogenheiten ergeben.
 
-<sup>7</sup> …[^106-3]
+<sup>7</sup> …[^106-4]
 
-<sup>8</sup> Der Bundesrat kann Fahrten ausländischer Fahrzeuge verbieten, kontingentieren, der Bewilligungspflicht unterstellen oder andern Beschränkungen unterwerfen, wenn ein ausländischer Staat gegenüber schweizerischen Fahrzeugen und deren Führern solche Massnahmen anordnet oder strengere Verkehrsvorschriften anwendet als für die eigenen Fahrzeuge und deren Führer.[^106-4]
+<sup>8</sup> Der Bundesrat kann Fahrten ausländischer Fahrzeuge verbieten, kontingentieren, der Bewilligungspflicht unterstellen oder andern Beschränkungen unterwerfen, wenn ein ausländischer Staat gegenüber schweizerischen Fahrzeugen und deren Führern solche Massnahmen anordnet oder strengere Verkehrsvorschriften anwendet als für die eigenen Fahrzeuge und deren Führer.[^106-5]
 
-<sup>9</sup> …[^106-5]
+<sup>9</sup> …[^106-6]
 
-<sup>10</sup> Der Bundesrat kann die Ausführung bestimmter Arbeiten an Fahrzeugen einer Bewilligungspflicht unterstellen, soweit die Verkehrssicherheit oder der Umweltschutz dies erfordern. Er legt die Bewilligungsvoraussetzungen fest und regelt die Aufsicht.[^106-6]
+<sup>10</sup> Der Bundesrat kann die Ausführung bestimmter Arbeiten an Fahrzeugen einer Bewilligungspflicht unterstellen, soweit die Verkehrssicherheit oder der Umweltschutz dies erfordern. Er legt die Bewilligungsvoraussetzungen fest und regelt die Aufsicht.[^106-7]
 
 [^106-1]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 14. Dez. 2001, in Kraft seit 1. April 2003 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); BBl **1999** 4462).
-[^106-2]: Zweiter und dritter Satz aufgehoben durch Ziff. I des BG vom 14. Dez. 2001, mit Wirkung seit 1. April 2003 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); BBl **1999** 4462).
-[^106-3]: Aufgehoben durch Ziff. I des BG vom 15. Juni 2012, mit Wirkung seit 1. Jan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^106-4]: Eingefügt durch Ziff. I des BG vom 20. März 1975, in Kraft seit 1. Aug. 1975 ([AS 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)Art. 1; [BBl 1973 II 1173](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
-[^106-5]: Eingefügt durch Ziff. I des BG vom 6. Okt. 1989 ([AS 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [BBl 1986 III 209](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)). Aufgehoben durch Ziff. I des BG vom 15. Juni 2012, mit Wirkung seit 1. Jan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^106-6]: Eingefügt durch Ziff. I des BG vom 18. Juni 1993, in Kraft seit 1. April 1994 ([AS 1993 3330](https://fedlex.data.admin.ch/eli/oc/1993/3330_3330_3330), [1994 815](https://fedlex.data.admin.ch/eli/oc/1994/815_815_815); [BBl 1993 I 805](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
+[^106-2]: Eingefügt durch Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^106-3]: Zweiter und dritter Satz aufgehoben durch Ziff. I des BG vom 14. Dez. 2001, mit Wirkung seit 1. April 2003 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); BBl **1999** 4462).
+[^106-4]: Aufgehoben durch Ziff. I des BG vom 15. Juni 2012, mit Wirkung seit 1. Jan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^106-5]: Eingefügt durch Ziff. I des BG vom 20. März 1975, in Kraft seit 1. Aug. 1975 ([AS 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)Art. 1; [BBl 1973 II 1173](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
+[^106-6]: Eingefügt durch Ziff. I des BG vom 6. Okt. 1989 ([AS 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [BBl 1986 III 209](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)). Aufgehoben durch Ziff. I des BG vom 15. Juni 2012, mit Wirkung seit 1. Jan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^106-7]: Eingefügt durch Ziff. I des BG vom 18. Juni 1993, in Kraft seit 1. April 1994 ([AS 1993 3330](https://fedlex.data.admin.ch/eli/oc/1993/3330_3330_3330), [1994 815](https://fedlex.data.admin.ch/eli/oc/1994/815_815_815); [BBl 1993 I 805](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
 
 ### Völkerrechtliche Verträge
 

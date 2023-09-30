@@ -4,11 +4,11 @@ title: Lescha davart il traffic sin via dals 19 da december 1958 (LTV)
 short: LTV
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/679_705_685"
 language: rm
-version: 2023-09-01
+version: 2023-10-01
 adopted: 1958-12-19
 in_force: 1959-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20230901-rm-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20230901/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20231001/rm/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20231001-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20231001/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LTV)[^t-1]
 
-dals 19 da december 1958 (versiun dal 1. da settember 2023)
+dals 19 da december 1958 (versiun dal 1. d’october 2023)
 
 [^t-1]: Titel tenor la cifra I da la LF dals 6 d’oct. 1989, en vigur dapi il 1. da favr. 1991 ([AS 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [BBl 1986 III 209](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
 
@@ -62,22 +62,23 @@ Il Cussegl federal è autorisà, suenter avair consultà ils chantuns:
 - b. da decretar temporarmain per tut la Svizra scumonds da traffic per tuttas u per singulas spezias da vehichels a motor;
 - c.[^2-1] ...
 
-<sup>2</sup> Per vehichels a motor grevs che servan al transport da rauba vala in scumond da charrar la notg da las 22.00 fin a las 05.00 sco er in scumond da charrar la dumengia. Il Cussegl federal regla ils detagls.[^2-2]
+<sup>2</sup> Per vehichels a motor grevs che servan al transport da rauba vala in scumond da charrar la notg da las 22.00 fin a las 05.00 sco er in scumond da charrar la dumengia. Il Cussegl federal regla ils detagls e fixescha las excepziuns.[^2-2] [^2-3]
 
-<sup>3</sup> Il Cussegl federal decretescha ina glista da las vias ch’èn mo avertas per vehichels a motor. El designescha questas vias, uschenavant che l’Assamblea federala n’è betg cumpetenta en chaussa, suenter avair consultà ils chantuns u sin proposta da quels. El fixescha tge spezias da vehichels a motor che dastgan circular sin talas vias.[^2-3]
+<sup>3</sup> Il Cussegl federal decretescha ina glista da las vias ch’èn mo avertas per vehichels a motor. El designescha questas vias, uschenavant che l’Assamblea federala n’è betg cumpetenta en chaussa, suenter avair consultà ils chantuns u sin proposta da quels. El fixescha tge spezias da vehichels a motor che dastgan circular sin talas vias.[^2-4]
 
-<sup>3bis</sup> L’Uffizi federal da vias (UVIAS) dispona las mesiras per regular localmain il traffic sin las vias naziunalas.[^2-4] Cunter talas disposiziuns han er las vischnancas il dretg da far recurs, uschenavant che mesiras da traffic vegnan ordinadas sin lur territori.[^2-5]
+<sup>3bis</sup> L’Uffizi federal da vias (UVIAS) dispona las mesiras per regular localmain il traffic sin las vias naziunalas.[^2-5] Cunter talas disposiziuns han er las vischnancas il dretg da far recurs, uschenavant che mesiras da traffic vegnan ordinadas sin lur territori.[^2-6]
 
-<sup>4</sup> Il traffic po vegnir limità u bloccà temporarmain sin tschertas vias, sche quai è necessari per l’armada u per la protecziun civila. Il Cussegl federal designescha ils posts dal militar e da la protecziun civila ch’èn cumpetents en chaussa. Avant che decider consulteschan els las autoritads chantunalas.[^2-6]
+<sup>4</sup> Il traffic po vegnir limità u bloccà temporarmain sin tschertas vias, sche quai è necessari per l’armada u per la protecziun civila. Il Cussegl federal designescha ils posts dal militar e da la protecziun civila ch’èn cumpetents en chaussa. Avant che decider consulteschan els las autoritads chantunalas.[^2-7]
 
 <sup>5</sup> Per las vias en proprietad da la Confederaziun decidan las autoritads federalas designadas dal Cussegl federal, sche e sut tge premissas ch’il traffic public è permess. Ellas procuran per la signalisaziun necessaria.
 
 [^2-1]: Abolì tras la cifra I da la LF dals 22 da mars 1991, cun effect dapi ils 15 da mars 1992 ([AS 1992 534](https://fedlex.data.admin.ch/eli/oc/1992/534_534_534); [BBl 1988 II 1333](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
-[^2-2]: Versiun tenor l’art. 6 cifra 2 da la LF dals 8 d’oct. 1999 davart il transferiment dal traffic, en vigur dapi il 1. da schan. 2001 ([AS 2000 2864](https://fedlex.data.admin.ch/eli/oc/2000/495); [BBl 1999 6128](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
-[^2-3]: Versiun tenor l’art. 63 da la LF dals 8 da mars 1960 davart las vias naziunalas, en vigur dapi ils 21 da zer. 1960 ([AS 1960 525](https://fedlex.data.admin.ch/eli/oc/1960/525_569_555); [BBl 1959 II 105](https://fedlex.data.admin.ch/eli/fga/1959/2_105_97_649)).
-[^2-4]: Versiun tenor la cifra I da la LF dals 15 da zer. 2012, en vigur dapi il 1. da schan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^2-5]: Integrà tras la cifra I da la LF dals 14 da dec. 2001 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); BBl **1999** 4462). Versiun tenor la cifra 73 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^2-6]: Versiun tenor la cifra I da la LF dals 6 d’oct. 1989, en vigur dapi il 1. da favr. 1991 ([AS 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [BBl 1986 III 209](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
+[^2-2]: Versiun da la segunda frasa tenor la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^2-3]: Versiun tenor l’art. 6 cifra 2 da la LF dals 8 d’oct. 1999 davart il transferiment dal traffic, en vigur dapi il 1. da schan. 2001 ([AS 2000 2864](https://fedlex.data.admin.ch/eli/oc/2000/495); [BBl 1999 6128](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
+[^2-4]: Versiun tenor l’art. 63 da la LF dals 8 da mars 1960 davart las vias naziunalas, en vigur dapi ils 21 da zer. 1960 ([AS 1960 525](https://fedlex.data.admin.ch/eli/oc/1960/525_569_555); [BBl 1959 II 105](https://fedlex.data.admin.ch/eli/fga/1959/2_105_97_649)).
+[^2-5]: Versiun tenor la cifra I da la LF dals 15 da zer. 2012, en vigur dapi il 1. da schan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^2-6]: Integrà tras la cifra I da la LF dals 14 da dec. 2001 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); BBl **1999** 4462). Versiun tenor la cifra 73 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^2-7]: Versiun tenor la cifra I da la LF dals 6 d’oct. 1989, en vigur dapi il 1. da favr. 1991 ([AS 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [BBl 1986 III 209](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
 
 ### Prevenziun
 
@@ -151,14 +152,15 @@ Il Cussegl federal è autorisà, suenter avair consultà ils chantuns:
 
 <sup>1</sup> La Confederaziun, ils chantuns e las vischnancas tegnan adequatamain quint dals giavischs da la segirezza dal traffic cun planisar, cun construir, cun mantegnair e cun gestir l’infrastructura da las vias.
 
-<sup>2</sup> En collavuraziun cun ils chantuns decretescha la Confederaziun prescripziuns davart la concepziun architectonica da las strivlas melnas.
+<sup>2</sup> …[^6a-2]
 
 <sup>3</sup> La Confederaziun, ils chantuns e las vischnancas fan in’analisa da lur rait da vias concernent ils lieus, nua ch’i capitan accidents ed ils lieus ch’èn privlus ed elavuran ina planisaziun per eliminar quests lieus.
 
-<sup>4</sup> La Confederaziun ed ils chantuns nomineschan ina persuna da contact ch’è responsabla per il sectur da la segirezza dal traffic (incumbensà da segirezza).[^6a-2]
+<sup>4</sup> La Confederaziun e mintga chantun nomineschan ina persuna da contact per las dumondas concernent la segirezza dal traffic (incumbensà da segirezza).[^6a-3]
 
 [^6a-1]: Integrà tras la cifra I da la LF dals 15 da zer. 2012, en vigur dapi il 1. da schan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)), cun excepziun dals al. 1, 3 e 4 en vigur dapi il 1. da fan. 2013.
-[^6a-2]: Rectificaziun da la Cumissiun da redacziun da l’AF dals 27 da matg 2014, publitgà ils 11 da zer. 2014 ([AS 2014 1387](https://fedlex.data.admin.ch/eli/oc/2014/293)). Concerna mo il text franzos.
+[^6a-2]: Abolì tras la cifra I da la LF dals 17 da mars 2023, cun effect dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^6a-3]: Versiun tenor la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ## II. titel Vehichels e manischunzs da vehichels
 
@@ -196,17 +198,20 @@ Il Cussegl federal è autorisà, suenter avair consultà ils chantuns:
 
 <sup>2</sup> El fixescha il pais per ischigl sco er ina relaziun adequata tranter la prestaziun dal motor ed il pais total dal vehichel respectivamain da la cumbinaziun da vehichels.
 
-<sup>3</sup> Suenter avair consultà ils chantuns po el prevair excepziuns per vehichels a motor e chars annexs en il traffic da lingia e per quels vehichels che pretendan inevitablamain dimensiuns pli grondas u pais pli gronds pervia da lur funcziun speziala. El circumscriva las premissas, sut las qualas viadis inevitabels pon vegnir fatgs en il cas singul cun auters vehichels che han dimensiuns pli grondas u pais pli gronds.[^9-4]
+<sup>2bis</sup> El po permetter in surpli dal pais maximal admissibel e da la lunghezza maximala per vehichels e per cumbinaziuns da vehichels che han caracteristicas da construcziun e d’equipament spezialas a favur da l’ambient. Il surpli admissibel na dastga betg surpassar la lunghezza supplementara u il pais supplementar ch’è necessari per questas caracteristicas. La capacitad da chargia na dastga betg vegnir augmentada qua tras.[^9-4]
 
-<sup>3bis</sup> Sin dumonda dal possessur dal vehichel po il pais total admess d’in vehichel a motor u d’in char annex vegnir midà, però maximalmain ina giada per onn u a chaschun d’ina midada dal possessur. Las garanzias da pais dal producent dal vehichel na dastgan betg vegnir surpassadas.[^9-5]
+<sup>3</sup> Suenter avair consultà ils chantuns po el prevair excepziuns per vehichels a motor e chars annexs en il traffic da lingia e per quels vehichels che pretendan inevitablamain dimensiuns pli grondas u pais pli gronds pervia da lur funcziun speziala. El circumscriva las premissas, sut las qualas viadis inevitabels pon vegnir fatgs en il cas singul cun auters vehichels che han dimensiuns pli grondas u pais pli gronds.[^9-5]
+
+<sup>3bis</sup> Sin dumonda dal possessur dal vehichel po il pais total admess d’in vehichel a motor u d’in char annex vegnir midà, però maximalmain ina giada per onn u a chaschun d’ina midada dal possessur. Las garanzias da pais dal producent dal vehichel na dastgan betg vegnir surpassadas.[^9-6]
 
 <sup>4</sup> Limitaziuns signalisadas da la ladezza, da l’autezza, dal pais e dal pais per ischigl dals vehichels restan resalvadas en mintga cas.
 
 [^9-1]: Versiun tenor la cifra I 1 da la LF dals 8 d’oct. 1999 davart la Convenziun tranter la Confederaziun svizra e la Communitad europeica davart il traffic da rauba e da persunas sin via e cun la viafier, en vigur dapi il 1. da schan. 2001 ([AS 2000 2877](https://fedlex.data.admin.ch/eli/oc/2000/497); [BBl 1999 6128](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
 [^9-2]: Versiun tenor l’art. 7 da la LF dals 13 da dec. 2013 davart il corridor da 4 meters, en vigur dapi il 1. da zer. 2014 ([AS 2014 1111](https://fedlex.data.admin.ch/eli/oc/2014/242); [BBl 2013 3823](https://fedlex.data.admin.ch/eli/fga/2013/825)).
 [^9-3]: Integrà tras la cifra I da la LF dals 15 da zer. 2012, en vigur dapi il 1. da schan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^9-4]: Versiun da la segunda frasa tenor la cifra I da la LF dals 15 da zer. 2012, en vigur dapi il 1. da schan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^9-5]: Integrà tras la cifra I da la LF dals 14 da dec. 2001, en vigur dapi il 1. d’avr. 2003 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); BBl **1999** 4462).
+[^9-4]: Integrà tras la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^9-5]: Versiun da la segunda frasa tenor la cifra I da la LF dals 15 da zer. 2012, en vigur dapi il 1. da schan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^9-6]: Integrà tras la cifra I da la LF dals 14 da dec. 2001, en vigur dapi il 1. d’avr. 2003 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); BBl **1999** 4462).
 
 ### Documents e permiss
 
@@ -377,9 +382,9 @@ El vegn concedì, sch’il petent:
 
 <sup>2bis</sup> Ils titulars dal permiss da manischar a prova ston frequentar curs da perfecziunament. Ils curs – en emprima lingia pratics – duain mussar a percepir ed ad evitar privels sco er a manischar en moda ecologica. Il Cussegl federal fixescha il cuntegn e la furma dals curs da furmaziun supplementara.[^15a-3]
 
-<sup>3</sup> Sch’il permiss da manischar a prova vegn retratg pervia d’ina cuntravenziun, sa prolunghescha il temp d’emprova per 1 onn. Sche la privaziun dura pli ditg ch’il temp da prova, cumenza la prolungaziun il mument ch’il permiss da manischar vegn restituì.
+<sup>3</sup> Sch’il permiss da manischar a prova vegn retratg, perquai ch’il titular ha commess ina cuntravenziun mesauna u greva, sa prolunghescha il temp da prova per 1 onn.[^15a-4] Sche la privaziun dura pli ditg ch’il temp da prova, cumenza la prolungaziun il mument ch’il permiss da manischar vegn restituì.
 
-<sup>4</sup> Il permiss da manischar a prova scada cun la segunda cuntravenziun, pervia da la quala il permiss da manischar vegn retratg.
+<sup>4</sup> Il permiss da manischar a prova scada, sch’il titular commetta in’ulteriura cuntravenziun mesauna u greva durant il temp da prova.[^15a-5]
 
 <sup>5</sup> In nov permiss per emprender a manischar po vegnir concedì il pli baud 1 onn suenter che la cuntravenziun è vegnida commessa e mo sin basa d’ina expertisa psicologica che affirmescha l’abilitad per il traffic. Quest termin vegn prolungà per 1 onn, sche la persuna pertutgada ha manà durant quest temp ina moto u in vehichel a motor.
 
@@ -388,6 +393,8 @@ El vegn concedì, sch’il petent:
 [^15a-1]: Integrà tras la cifra I da la LF dals 14 da dec. 2001, en vigur dapi il 1. da dec. 2005 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 5053](https://fedlex.data.admin.ch/eli/oc/2004/778)art. 1 al. 2; BBl **1999** 4462).
 [^15a-2]: Versiun tenor la cifra I da la LF dals 15 da zer. 2012, en vigur dapi il 1. da schan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^15a-3]: Integrà tras la cifra I da la LF dals 15 da zer. 2012, en vigur dapi il 1. da schan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^15a-4]: Versiun tenor la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^15a-5]: Versiun tenor la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ### Permiss da manischar definitiv
 
@@ -466,7 +473,7 @@ Sch’i dat dubis areguard l’abilitad da manischar d’ina persuna, sto quella
 
 <sup>1</sup> Ils permiss e las permissiuns ston vegnir retratgs, sch’i vegn constatà che las premissas legalas per lur concessiun n’existan betg u n’existan betg pli; els pon vegnir retratgs, sche las restricziuns u las cundiziuns ch’èn colliadas cun la concessiun en il cas singul na vegnan betg resguardadas.
 
-<sup>2</sup> Suenter cuntravenziuns cunter las prescripziuns concernent il traffic sin via, tar las qualas la procedura tenor la Lescha federala dals 24 da zercladur 1970[^16-1] davart las multas disciplinaras è exclusa, vegn retratg il permiss per emprender a manischar u il permiss da manischar u pronunzià in avertiment.[^16-2]
+<sup>2</sup> Suenter cuntravenziuns cunter las prescripziuns concernent il traffic sin via, per las qualas la procedura tenor la Lescha federala dals 18 da mars 2016[^16-1] davart las multas disciplinaras è exclusa, vegn retratg il permiss per emprender a manischar u il permiss da manischar u pronunzià in avertiment.[^16-2]
 
 <sup>3</sup> Per fixar la durada da la privaziun dal permiss per emprender a manischar u dal permiss da manischar ston vegnir resguardadas las circumstanzas dal cas singul, particularmain la periclitaziun da la segirezza dal traffic, la culpabilitad, la reputaziun dal manischunz dal vehichel a motor sco er la necessitad professiunala da manischar in vehichel a motor. La durada minimala da la privaziun na dastga però betg vegnir sutpassada, nun ch’il chasti saja vegnì reducì tenor l’artitgel 100 cifra 4 terza frasa.[^16-3] [^16-4]
 
@@ -484,8 +491,8 @@ Il document dal vehichel vegn retratg, sche:
 - a. la taxa eventualmain debitada per il vehichel u las prestaziuns da segirezza debitadas tenor la Lescha dals 19 da december 1997[^16-6] davart la taxa sin il traffic da camiuns pesants n’èn betg vegnidas pajadas ed il possessur è vegnì admonì senza success; u
 - b. il vehichel n’è betg equipà cun l’apparat da registraziun ch’è prescrit per incassar la taxa.[^16-7]
 
-[^16-1]: [[AS 1972 734](https://fedlex.data.admin.ch/eli/oc/1972/734_742_666); [1996 1075](https://fedlex.data.admin.ch/eli/oc/1996/1075_1075_1075); [2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551)art. 44 cifra 4; [2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821). [AS 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725)agiunta cifra I]. Guardar oz: LF dals 18 da mars 2016 davart las multas disciplinaras ([SR 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)).
-[^16-2]: Versiun tenor la cifra I da la LF dals 14 da dec. 2001, en vigur dapi il 1. da schan. 2005 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); BBl **1999** 4462).
+[^16-1]: [SR 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)
+[^16-2]: Versiun tenor la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^16-3]: Versiun da la segunda frasa tenor la cifra 4 da l’agiunta da la LF dals 18 da mars 2016, en vigur dapi il 1. d’avust 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 [^16-4]: Versiun tenor la cifra I da la LF dals 14 da dec. 2001, en vigur dapi il 1. da schan. 2005 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); BBl **1999** 4462).
 [^16-5]: Versiun tenor la cifra I da la LF dals 14 da dec. 2001, en vigur dapi il 1. d’avr. 2003 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); BBl **1999** 4462).
@@ -570,7 +577,7 @@ Ina cuntravenziun greva commetta, tgi che:
 Suenter ina cuntravenziun greva vegn retratg il permiss per emprender a manischar u il permiss da manischar:
 
 - a. almain 3 mais;
-- a<sup>bis</sup>.[^16c-3] almain 2 onns, sch’ina gronda ristga da chaschunar in accident cun persunas grevamain blessadas u cun victimas era avant maun perquai che reglas da traffic elementaras èn vegnidas violadas intenziunadamain, particularmain cun betg resguardar massivamain la sveltezza maximala admessa, cun surpassar giagliardamain u cun sa participar ad ina cursa betg permessa da vehichels a motor; l’artitgel 90 alinea 4 è applitgabel;
+- a<sup>bis</sup>.[^16c-3] almain 2 onns, sch’ina gronda ristga da chaschunar in accident cun persunas grevamain blessadas u cun victimas era avant maun, perquai che reglas da traffic elementaras èn vegnidas violadas intenziunadamain, particularmain cun betg resguardar massivamain la sveltezza maximala admessa en il senn da l’artitgel 90 alinea 4, cun surpassar giagliardamain u cun sa participar ad ina cursa da vehichels a motor betg permessa; questa durada minimala da la privaziun dastga vegnir reducida per maximalmain 12 mais, sch’igl è vegnì pronunzià in chasti da main che 1 onn (art. 90 al. 3<sup>bis</sup> u 3<sup>ter</sup>);
 - b. per almain 6 mais, sch’il permiss è vegnì retratg durant ils 5 onns precedents ina giada pervia d’ina cuntravenziun mesauna;
 - c. per almain 12 mais, sch’il permiss è vegnì retratg durant ils 5 onns precedents ina giada pervia d’ina cuntravenziun greva u duas giadas pervia da cuntravenziuns mesaunas;
 - d. per in temp illimità, almain però per 2 onns, sch’il permiss è vegnì retratg durant ils 10 onns precedents duas giadas pervia da cuntravenziuns grevas u trais giadas pervia da cuntravenziuns almain mesaunas; a questa mesira vegni renunzià, sche la persuna pertutgada n’ha commess nagina cuntravenziun, per la quala è vegnida pronunziada ina mesira administrativa durant almain 5 onns suenter che la privaziun dal permiss è scadida;
@@ -582,7 +589,7 @@ Suenter ina cuntravenziun greva vegn retratg il permiss per emprender a manischa
 
 [^16c-1]: Integrà tras la cifra I da la LF dals 14 da dec. 2001, en vigur dapi il 1. da schan. 2005 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); BBl **1999** 4462).
 [^16c-2]: Versiun tenor la cifra I da la LF dals 15 da zer. 2012, en vigur dapi il 1. d’oct. 2016 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2583](https://fedlex.data.admin.ch/eli/oc/2015/489); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^16c-3]: Integrà tras la cifra I da la LF dals 15 da zer. 2012, en vigur dapi il 1. da schan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^16c-3]: Integrà tras la cifra I da la LF dals 15 da zer. 2012 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)). Versiun tenor la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^16c-4]: Guardar er las disposiziuns finalas da la midada dals 14 da dec. 2001 a la fin da quest text.
 
 ### Privaziun dal permiss da manischar suenter ina cuntravenziun a l’exteriur
@@ -1390,15 +1397,16 @@ La Confederaziun po:
 
 <sup>4</sup>
 
-Tenor il Dretg d’obligaziuns[^59-2] vegn fixada:
+Tenor il Dretg d’obligaziuns[^59-2] vegnan fixadas:[^59-3]
 
 - a. la responsabladad en la relaziun tranter il possessur ed il proprietari d’in vehichel per il donn vi da quest vehichel;
-- b.[^59-3] la responsabladad dal possessur per il donn vi da las chaussas transportadas cun ses vehichel, cun excepziun d’objects ch’il donnegià purtava cun sai, en spezial bagascha da viadi e chaussas sumegliantas; resalvada è la Lescha da transport dals 4 d’october 1985[^59-4].
+- b.[^59-4] la responsabladad dal possessur per il donn vi da las chaussas transportadas cun ses vehichel, cun excepziun d’objects ch’il donnegià purtava cun sai, en spezial bagascha da viadi e chaussas sumegliantas; resalvada è la Lescha federala dals 20 da mars 2009[^59-5] davart il transport da persunas.
 
 [^59-1]: Abolì tras la cifra I da la LF dals 20 da mars 1975, cun effect dapi il 1. da schan. 1976 ([AS 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)cifra III; [BBl 1973 II 1173](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
 [^59-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^59-3]: Versiun tenor l’art. 54 cifra 2 da la LF dals 4 d’oct. 1985 davart il transport public, en vigur dapi il 1. da schan. 1987 ([AS 1986 1974](https://fedlex.data.admin.ch/eli/oc/1986/1974_1974_1974); [BBl 1983 II 167](https://fedlex.data.admin.ch/eli/fga/1983/2_167_187_159)).
-[^59-4]: [[AS 1986 1974](https://fedlex.data.admin.ch/eli/oc/1986/1974_1974_1974); [1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290)cifra V; [1995 3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)cifra I 10, [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)agiunta cifra 13; [1998 2856](https://fedlex.data.admin.ch/eli/oc/1998/2856_2856_2856). [AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)cifra III]. Guardar ussa la LF dals 20 da mars 2009 davart il transport da persunas ([SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)).
+[^59-3]: Versiun tenor la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^59-4]: Versiun tenor la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^59-5]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
 
 ### Plirs donnegiaders
 
@@ -1476,12 +1484,13 @@ Il Cussegl federal fixescha las summas che ston vegnir cuvridas da l’assicuran
 
 <sup>1</sup> En il rom da las summas fixadas en il contract d’assicuranza ha il donnegià in dretg da pretensiun direct envers l’assicurader.
 
-<sup>2</sup> Excepziuns che resultan dal contract d’assicuranza u da la Lescha federala dals 2 d’avrigl 1908[^65-1] davart il contract d’assicuranza na pon betg vegnir fatgas valair envers il donnegià.
+<sup>2</sup> Excepziuns che resultan dal contract d’assicuranza u da la Lescha dals 2 d’avrigl 1908[^65-1] davart il contract d’assicuranza na pon betg vegnir fatgas valair envers il donnegià.[^65-2]
 
-<sup>3</sup> L’assicurader ha in dretg da prender regress sin quel che ha concludì l’assicuranza u sin l’assicurà en la dimensiun ch’el fiss autorisà da refusar u da reducir sia prestaziun tenor il contract d’assicuranza u tenor la Lescha federala dals 2 d’avrigl 1908 davart il contract d’assicuranza. Sch’il donn e vegnì chaschunà en in stadi d’alcoholisaziun u en in stadi inabel da manischar u en consequenza d’in delict da sveltezza en il senn da l’artitgel 90 alinea 4, sto l’assicurader prender regress. La dimensiun dal regress tegna quint da la culpa e da la capacitad economica da la persuna, sin la quala i vegn prendì regress.[^65-2]
+<sup>3</sup> L’assicurader ha in dretg da prender regress sin quel che ha concludì l’assicuranza u sin l’assicurà, en la dimensiun ch’el fiss autorisà da refusar u da reducir sia prestaziun tenor il contract d’assicuranza ubain tenor la Lescha davart il contract d’assicuranza.[^65-3]
 
 [^65-1]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
-[^65-2]: Integrà la segunda e la terza frasa tras la cifra I da la LF dals 15 da zer. 2012, en vigur dapi il 1. da schan. 2015 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^65-2]: Versiun tenor la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^65-3]: Versiun tenor la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ### Plirs donnegiads
 
@@ -1996,19 +2005,22 @@ Il SIAC serva ad ademplir las suandantas incumbensas:
 
 - b. realisar proceduras administrativas e penalas cunter manischunzs en il traffic sin via;
 - c. tipisar vehichels, examinar vehichels ed admetter vehichels al traffic sin via;
-- d. controllar l’assicuranza, il pajament dals dazis ed il pajament da las taglias dals vehichels admess al traffic sin via tenor la LTAut[^89b-1];
+- d.[^89b-1] controllar l’assicuranza, il pajament dals dazis ed il pajament da las taglias tenor la LTAut[^89b-2] dals vehichels admess al traffic sin via;
 - e. identifitgar possessurs da vehichels e tschertgar vehichels;
 - f. proteger las victimas da traffic;
 - g. raziunar il carburant sco er requirir u prender en locaziun vehichels per l’armada, per la protecziun civila e per il provediment economic dal pajais;
 - h. far statisticas, en spezial en ils secturs autorisaziuns da manischar, mesiras administrativas, tips da vehichels, admissiuns da vehichels, accidents da traffic sin via e controllas dal traffic sin via;
 - i. elavurar basas da la politica da traffic, d’ambient e d’energia;
-- j. incassar las taglias chantunalas sin ils vehichels a motor, las taxas sin il traffic da camiuns pesants ed autras taxas;
+- j.[^89b-3] incassar las taglias chantunalas sin ils vehichels a motor ed autras taxas, sco er incassar e controllar il pajament da las taxas sin il traffic da camiuns pesants e las taxas per l’utilisaziun da las vias naziunalas;
 - k. sustegnair autoritads svizras ed estras tar l’execuziun da las prescripziuns davart il temp da lavur e da paus dals manischunzs professiunals da vehichels a motor;
 - l. admetter e controllar interpresas che transportan persunas e rauba sin via;
-- m.[^89b-2] exequir la reducziun da las emissiuns da CO<sub>2</sub> dals autos da persunas, dals autos da furniziun e dals camiuns a sella levs.
+- m.[^89b-4] exequir la reducziun da las emissiuns da CO<sub>2</sub> da vehichels tenor la Lescha dals 23 da december 2011[^89b-5] davart il CO<sub>2</sub>.
 
-[^89b-1]: [SR 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^89b-2]: Versiun tenor la cifra II 10 da l’agiunta da la Lescha d’energia dals 30 da sett. 2016, en vigur dapi il 1. da schan. 2019 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); BBl **2013** 756).
+[^89b-1]: Versiun tenor la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89b-2]: [SR 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
+[^89b-3]: Versiun tenor la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89b-4]: Versiun tenor la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89b-5]: [SR 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
 
 ### Cuntegn
 
@@ -2033,7 +2045,7 @@ Il SIAC cuntegna:
   - 8\. examens psicologics e medicinals concernent il traffic,
   - 9\. nov examen da manischunz,
   - 10\. participaziun ad ina scolaziun cumplementara,
-  - 11\. prolungaziun dal temp d’emprova,
+  - 11\. prolungaziun dal temp da prova,
   - 12\. scadenza dal permiss da manischar a prova,
   - 13\. temps da spetga;
 
@@ -2044,32 +2056,51 @@ Il SIAC cuntegna:
 
 #### Art. 89d
 
-Las suandantas autoritads elavuran las datas dal SIAC:
+Las suandantas autoritads ed ils suandants posts elavuran las datas dal SIAC:[^89d-1]
 
 - a. il UVIAS;
 - b. las autoritads federalas e chantunalas ch’èn responsablas per conceder e per retrair las autorisaziuns da manischar ed ils documents dals vehichels: las datas da lur champ da cumpetenza;
 - c. las autoritads ch’èn responsablas per raziunar il carburant sco er per requirir u per prender en locaziun vehichels per l’armada, per la protecziun civila e per il provediment economic dal pajais: las datas davart ils vehichels e davart lur possessurs;
-- d. ils organs da polizia ch’èn responsabels per sequestrar permiss da manischar e documents da vehichels: las datas davart las autorisaziuns da manischar e davart ils vehichels.
+- d. ils organs da polizia ch’èn responsabels per sequestrar permiss da manischar e documents da vehichels: las datas davart las autorisaziuns da manischar e davart ils vehichels;
+- e.[^89d-2] las autoritads ch’èn responsablas per controllar il pajament dals dazis ed il pajament da las taglias tenor la LTAut[^89d-3]: las datas da lur champ da cumpetenza;
+- f.[^89d-4] las autoritads ch’èn responsablas per incassar la taxa sin il traffic da camiuns pesants dependenta da la prestaziun tenor la Lescha dals 19 da december 1997[^89d-5] davart la taxa sin il traffic da camiuns pesants: las datas da lur champ da cumpetenza;
+- g.[^89d-6] ils posts ch’èn incaricads cun l’incassament e cun la controlla dal pajament da la taxa per l’utilisaziun da las vias naziunalas tenor la Lescha dals 19 da mars 2010[^89d-7] davart la taxa da las vias naziunalas: las datas davart ils vehichels e davart lur possessurs;
+- h.[^89d-8] las autoritads ch’èn responsablas per exequir la reducziun da las emissiuns da CO<sub>2</sub> da vehichels tenor la Lescha dals 23 da december 2011[^89d-9] davart il CO<sub>2</sub>: las datas da lur champ da cumpetenza.
+
+[^89d-1]: Versiun tenor la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89d-2]: Integrà tras la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89d-3]: [SR 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
+[^89d-4]: Integrà tras la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89d-5]: [SR 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
+[^89d-6]: Integrà tras la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89d-7]: [SR 741.71](https://fedlex.data.admin.ch/eli/cc/2011/577)
+[^89d-8]: Integrà tras la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89d-9]: [SR 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
 
 ### Access tras ina procedura d’invista
 
 #### Art. 89e
 
-Ils suandants posts pon prender invista da las suandantas datas tras ina procedura d’invista:
+Las suandantas autoritads ed ils suandants posts pon prender invista da las suandantas datas tras ina procedura d’invista:[^89e-1]
 
-- a. ils organs da polizia: da las datas ch’èn necessarias per controllar l’autorisaziun da manischar e l’admissiun al traffic, per identifitgar il possessur e l’assicurader sco er per tschertgar vehichels;
-- b. ils organs da duana: da las datas ch’èn necessarias per controllar l’autorisaziun da manischar e l’admissiun al traffic, per controllar il pajament dals dazis ed il pajament da las taglias tenor la LTAut[^89e-1] sco er per tschertgar vehichels;
+- a.[^89e-2] las autoritads ed ils posts ch’èn autorisads d’elavurar datas tenor l’artitgel 89*d*: da las datas ch’ellas ed els elavuran sin basa da tala disposiziun;
+- a.<sup>bis</sup> [^89e-3] ils organs da polizia: da las datas ch’èn necessarias per controllar l’autorisaziun da manischar e l’admissiun al traffic, per identifitgar il possessur e l’assicurader sco er per tschertgar vehichels;
+- b.[^89e-4] l’Uffizi federal da la duana e da la segirezza dals cunfins: da las datas ch’èn necessarias per controllar l’autorisaziun da manischar e l’admissiun al traffic sco er per tschertgar vehichels;
 - c. las autoritads da persecuziun penala e las autoritads giudizialas: da las datas davart las autorisaziuns da manischar e davart las mesiras administrativas en il rom da proceduras per giuditgar cuntravenziuns cunter il dretg davart il traffic sin via;
 - d. las autoritads federalas e chantunalas ch’èn cumpetentas per ils examens da vehichels sco er ils posts ch’èn designads per realisar examens uffizials da vehichels: da las datas davart l’admissiun da vehichels e davart ils tips da vehichels;
 - e. l’Uffizi federal da statistica: da las datas davart ils vehichels;
 - f. l’Uffizi federal da traffic: da las datas davart l’admissiun da vehichels e davart las mesiras administrativas en connex cun l’admissiun sco interpresas da transport sin via;
-- g.[^89e-2] l’Uffizi federal d’energia: da las datas dals vehichels a motor per exequir la reducziun da las emissiuns da CO<sub>2</sub> dals autos da persunas, dals autos da furniziun e dals camiuns a sella levs;
+- g.[^89e-5] l’Uffizi federal d’energia: da las datas dals vehichels a motor ch’èn necessarias per exequir la reducziun da las emissiuns da CO<sub>2</sub> da vehichels tenor la Lescha dals 23 da december 2011[^89e-6] davart il CO<sub>2</sub>;
 - h. il Biro naziunal d’assicuranza ed il Fond naziunal da garanzia: da las datas ch’èn necessarias per ademplir lur incumbensas publicas (art. 74 e 76);
 - i. las autoritads estras ch’èn responsablas per conceder las cartas da manischunzs: da las datas davart questas cartas;
 - j. ils organs da controlla esters ch’èn responsabels per controllar ils temps da lavur e da paus dals manischunzs professiunals da vehichels a motor: dal status da las cartas da manischunzs.
 
-[^89e-1]: [SR 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^89e-2]: Versiun tenor la cifra II 10 da l’agiunta da la Lescha d’energia dals 30 da sett. 2016, en vigur dapi il 1. da schan. 2019 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); BBl **2013** 756).
+[^89e-1]: Versiun tenor la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89e-2]: Integrà tras la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89e-3]: Oriundamain: lit. a.
+[^89e-4]: Versiun tenor la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89e-5]: Versiun tenor la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89e-6]: [SR 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
 
 ### Dretg da prender invista
 
@@ -2313,19 +2344,27 @@ Il Cussegl federal regla:
 
 <sup>3</sup> Tgi che accepta la gronda ristga da chaschunar in accident cun persunas grevamain blessadas u cun victimas – tras ina violaziun sapientiva da las reglas da traffic fundamentalas – particularmain cun betg resguardar massivamain la sveltezza maximala admessa, cun surpassar giagliardamain u cun sa participar temerariamain ad ina cursa betg permessa da vehichels a motor, vegn chastià cun in chasti da detenziun dad 1 fin 4 onns.
 
+<sup>3bis</sup> Il chasti minimal dad 1 onn po vegnir reducì en cas da cuntravenziuns tenor l’alinea 3, sch’igl è avant maun in motiv per ina diminuziun dal chasti tenor l’artitgel 48 CP[^90-2], en spezial sch’il delinquent ha agì per motivs respectabels.[^90-3]
+
+<sup>3ter</sup> En cas da cuntravenziuns tenor l’alinea 3 po il delinquent vegnir chastià cun in chasti da detenziun da fin 4 onns u cun in chasti pecuniar, nun ch’el saja vegnì sentenzià entaifer ils ultims 10 onns avant il malfatg pervia d’in crim u d’in delict commess en il traffic sin via, che ha mess seriusamain en privel la segirezza d’autras persunas respectivamain ha blessà u mazzà autras persunas.[^90-4]
+
 <sup>4</sup>
 
-L’alinea 3 è ademplì en mintga cas, sche la sveltezza maximala admessa vegn surpassada per:
+Ina inobservanza spezialmain gravanta da la sveltezza maximala admessa è avant maun, sche tala vegn surpassada per:
 
 - a. almain 40 km/h, nua che la sveltezza maximala è mo 30 km/h;
 - b. almain 50 km/h, nua che la sveltezza maximala è mo 50 km/h;
 - c. almain 60 km/h, nua che la sveltezza maximala è mo 80 km/h;
-- d. almain 80 km/h, nua che la sveltezza maximala è dapli che 80 km/h.
+- d. almain 80 km/h, nua che la sveltezza maximala è dapli che 80 km/h.[^90-5]
 
-<sup>5</sup> L’artitgel 237 cifra 2 dal Cudesch penal svizzer[^90-2] na vegn betg applitgà en quests cas.
+<sup>5</sup> L’artitgel 237 cifra 2 dal Cudesch penal svizzer[^90-6] na vegn betg applitgà en quests cas.
 
 [^90-1]: Versiun tenor la cifra I da la LF dals 15 da zer. 2012, en vigur dapi il 1. da schan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^90-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^90-3]: Integrà tras la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^90-4]: Integrà tras la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^90-5]: Versiun tenor la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^90-6]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 ### Confiscaziun e reutilisaziun da vehichels a motor
 
@@ -2362,11 +2401,11 @@ Cun ina multa vegn chastià, tgi che:
 
 Cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar vegn chastià, tgi che:
 
-- a. maina in vehichel a motor en in stadi d’alcoholisaziun cun ina concentraziun qualifitgada d’alcohol en il flad u en il sang[^91-2];
+- a.[^91-2] maina in vehichel a motor en in stadi d’alcoholisaziun cun ina concentraziun qualifitgada d’alcohol en il flad u en il sang;
 - b. è per auters motivs inabel da manischar e maina in vehichel a motor.
 
 [^91-1]: Versiun tenor la cifra I da la LF dals 15 da zer. 2012, en vigur dapi il 1. da schan. 2014 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^91-2]: La disp. davart la concentraziun d’alcohol en il flad è applitgabla a partir da l’entrada en vigur da l’art. 55 al. 3, 3<sup>bis</sup>, 6 e 6<sup>bis</sup> tenor la cifra I da la LF dals 15 da zer. 2012 e da l’O da l’AF dals 15 da zer. 2012 davart las limitas d’alcohol en il traffic sin via.
+[^91-2]: Rectifitgà tenor la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ### Impediment da mesiras per constatar l’inabilitad da manischar
 
@@ -2449,7 +2488,7 @@ Cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar vegn chastià,
 - d. fa viadis d’emprender a manischar senza permiss d’emprender a manischar ubain senza l’accumpagnament prescrit;
 - e. surlascha in vehichel a motor ad in manischunz, dal qual el sa u duess savair, sch’el avess dà l’attenziun duida, ch’el n’ha betg il permiss necessari.
 
-<sup>2</sup> Cun in chasti pecuniar da fin 180 taxas per di vegn chastià, tgi che maina in vehichel a motor, schebain che la valaivladad dal permiss da manischar a prova è scadida.
+<sup>2</sup> Cun in chasti pecuniar vegn chastià, tgi che maina in vehichel a motor, schebain che la valaivladad dal permiss da manischar a prova è scadida.[^95-2]
 
 <sup>3</sup>
 
@@ -2467,6 +2506,7 @@ Cun ina multa vegn chastià, tgi che:
 - b. maina ina manadira, schebain ch’igl è vegnì scumandà ad el da manar in char tratg d’animals.
 
 [^95-1]: Versiun tenor la cifra I da la LF dal 17 da dec. 2010, en vigur dapi il 1. da schan. 2012 ([AS 2011 3267](https://fedlex.data.admin.ch/eli/oc/2011/428); [BBl 2010 3917](https://fedlex.data.admin.ch/eli/fga/2010/629)[3927](https://fedlex.data.admin.ch/eli/fga/2010/631)).
+[^95-2]: Versiun tenor la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ### Manischar senza document dal vehichel, senza permissiun u senza assicuranza da responsabladad
 
@@ -2551,10 +2591,11 @@ Cun ina multa vegn chastià, tgi che:
 - b. porscha in servetsch cunter paja, cun il qual i vegn avertì cunter talas controllas;
 - c. dovra apparats u indrizs che n’èn betg destinads en emprima lingia per avertir cunter controllas d’autoritads en il traffic sin via.
 
-<sup>4</sup> En cas grevs è il chasti in chasti pecuniar da fin 180 taxas per di.
+<sup>4</sup> En cas grevs è il chasti in chasti pecuniar.[^98a-3]
 
 [^98a-1]: Integrà tras la cifra I da la LF dals 15 da zer. 2012, en vigur dapi il 1. da schan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^98a-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^98a-3]: Versiun tenor la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ### Autras cuntravenziuns
 
@@ -2596,11 +2637,15 @@ Sche per il malfatg è smanatschada mo ina multa, po il derschader chastiar il m
 
 Il scolar d’autoscola è responsabel, sch’el avess pudì evitar ina cuntravenziun tenor il stadi da sia scolaziun.
 
-<sup>4.</sup> Sch’il manischunz d’in auto da pumpiers, da sanitad, da polizia u da la duana na resguarda betg las reglas da traffic u ordinaziuns spezialas per il traffic sin viadis da servetsch urgents u tacticamain necessaris, n’è el betg chastiabel, sch’el agescha cun tut il quità ch’è necessari tenor las circumstanzas. Sin viadis da servetsch urgents n’è il manischunz betg chastiabel mo, sch’el dat ultra da quai ils signals d’avertiment necessaris; excepziunalmain n’èsi betg necessari da dar ils signals d’avertiment, sche quai cuntrafa a l’adempliment da l’incumbensa legala. Sch’il manischunz n’ha betg agì cun il quità ch’era necessari tenor las circumstanzas u sch’el n’ha betg dà ils signals d’avertiment necessaris sin viadis da servetsch urgents, po vegnir reducì il chasti.[^100-3]
+<sup>4.</sup> Sch’il manischunz d’in auto da pumpiers, da sanitad, da polizia u da la duana na resguarda betg las reglas da traffic u ordinaziuns spezialas per il traffic sin viadis da servetsch urgents u tacticamain necessaris, n’è el betg chastiabel, sch’el agescha cun tut il quità ch’è necessari tenor las circumstanzas. Sin viadis da servetsch urgents n’è il manischunz betg chastiabel mo, sch’el dat ultra da quai ils signals d’avertiment necessaris; excepziunalmain n’èsi betg necessari da dar ils signals d’avertiment, sche quai cuntrafa a l’adempliment da l’incumbensa legala. Sch’il manischunz n’ha betg agì cun il quità ch’era necessari tenor las circumstanzas u sch’el n’ha betg dà ils signals d’avertiment necessaris sin viadis da servetsch urgents, resta el chastiabel, ma il chasti sto vegnir reducì.[^100-3] [^100-4]
+
+<sup>5.</sup> En cas da surpassaments da la sveltezza maximala, che vegnan commess sin viadis da servetsch urgents u necessaris per motivs tactics, vegn resguardada mo la differenza envers la sveltezza che fiss stada adequata per l’intervenziun.[^100-5]
 
 [^100-1]: Versiun da la segunda frasa tenor la cifra I da la LF dal 14 da dec. 2001, en vigur dapi il 1. da schan. 2005 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); BBl **1999** 4462).
 [^100-2]: Versiun tenor la cifra I da la LF dals 20 da mars 1975, en vigur dapi il 1. d’avust 1975 ([AS 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [BBl 1973 II 1173](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
-[^100-3]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 18 da mars 2016, en vigur dapi il 1. d’avust 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
+[^100-3]: Versiun da la terza frasa tenor la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^100-4]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 18 da mars 2016, en vigur dapi il 1. d’avust 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
+[^100-5]: Integrà tras la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ### Cuntravenziuns a l’exteriur
 
@@ -2686,28 +2731,31 @@ Il scolar d’autoscola è responsabel, sch’el avess pudì evitar ina cuntrave
 
 <sup>2</sup> Dal rest realiseschan ils chantuns questa lescha. Els prendan las mesiras ch’èn necessarias per quai e designeschan las autoritads chantunalas cumpetentas.
 
+<sup>2bis</sup> Il Cussegl federal po autorisar il UVIAS da permetter – en cas singuls spezials – excepziuns da las disposiziuns d’ordinaziuns.[^106-2]
+
 <sup>3</sup> Ils chantuns restan cumpetents da decretar prescripziuns cumplementaras davart il traffic sin via, exceptà per vehichels a motor e per velos sco er per vehichels da viafier.
 
-<sup>4</sup> Il Cussegl federal po laschar examinar dumondas davart la realisaziun da questa lescha d’experts u da cumissiuns spezialisadas. ...[^106-2]
+<sup>4</sup> Il Cussegl federal po laschar examinar dumondas davart la realisaziun da questa lescha d’experts u da cumissiuns spezialisadas. ...[^106-3]
 
 <sup>5</sup> Sch’i cumparan novas appariziuns tecnicas en il traffic sin via sco er sch’igl è da realisar cunvegnas bilateralas, po il Cussegl federal prender las mesiras provisoricas ch’èn necessarias fin a l’entrada en vigur da la reglamentaziun legala.
 
 <sup>6</sup> Per persunas che profitan da privilegis e d’immunitads diplomaticas po il Cussegl federal reglar la cumpetenza da las autoritads en moda divergenta e prevair las ulteriuras excepziuns da questa lescha, las qualas resultan da las usanzas da dretg internaziunal.
 
-<sup>7</sup> ...[^106-3]
+<sup>7</sup> ...[^106-4]
 
-<sup>8</sup> Il Cussegl federal po scumandar, contingentar, suttametter a l’obligaziun da dumandar ina permissiun ubain suttametter ad autras restricziuns ils viadis da vehichels esters, sch’in stadi da l’exteriur ordinescha talas mesiras envers vehichels svizzers e lur manischunzs u applitgescha prescripziuns da traffic pli rigurusas che per ses agens vehichels e lur manischunzs.[^106-4]
+<sup>8</sup> Il Cussegl federal po scumandar, contingentar, suttametter a l’obligaziun da dumandar ina permissiun ubain suttametter ad autras restricziuns ils viadis da vehichels esters, sch’in stadi da l’exteriur ordinescha talas mesiras envers vehichels svizzers e lur manischunzs u applitgescha prescripziuns da traffic pli rigurusas che per ses agens vehichels e lur manischunzs.[^106-5]
 
-<sup>9</sup> ... [^106-5]
+<sup>9</sup> ... [^106-6]
 
-<sup>10</sup> Il Cussegl federal po suttametter l’execuziun da tschertas lavurs vi da vehichels ad in’obligaziun da dumandar ina permissiun, uschenavant che la segirezza dal traffic u la protecziun da l’ambient pretendan quai. El fixescha las premissas per la permissiun e regla la surveglianza.[^106-6]
+<sup>10</sup> Il Cussegl federal po suttametter l’execuziun da tschertas lavurs vi da vehichels ad in’obligaziun da dumandar ina permissiun, uschenavant che la segirezza dal traffic u la protecziun da l’ambient pretendan quai. El fixescha las premissas per la permissiun e regla la surveglianza.[^106-7]
 
 [^106-1]: Versiun da la segunda frasa tenor la cifra I da la LF dals 14 da dec. 2001, en vigur dapi il 1. d’avr. 2003 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); BBl **1999** 4462).
-[^106-2]: Abolì la segunda e la terza frasa tras la cifra I da la LF dals 14 da dec. 2001, cun effect dapi il 1. d’avr. 2003 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); BBl **1999** 4462).
-[^106-3]: Abolì tras la cifra I da la LF dals 15 da zer. 2012, cun effect dapi il 1. da schan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^106-4]: Integrà tras la cifra I da la LF dals 20 da mars 1975, en vigur dapi il 1. d’avust 1975 ([AS 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [BBl 1973 II 1173](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
-[^106-5]: Integrà tras la cifra I da la LF dals 6 d’oct. 1989 ([AS 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [BBl 1986 III 209](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)). Abolì tras la cifra I da la LF dals 15 da zer. 2012, cun effect dapi il 1. da schan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^106-6]: Integrà tras la cifra I da la LF dals 18 da zer. 1993, en vigur dapi il 1. d’avr. 1994 ([AS 1993 3330](https://fedlex.data.admin.ch/eli/oc/1993/3330_3330_3330), [1994 815](https://fedlex.data.admin.ch/eli/oc/1994/815_815_815); [BBl 1993 I 805](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
+[^106-2]: Integrà tras la cifra I da la LF dals 17 da mars 2023, en vigur dapi il 1. d’oct. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^106-3]: Abolì la segunda e la terza frasa tras la cifra I da la LF dals 14 da dec. 2001, cun effect dapi il 1. d’avr. 2003 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); BBl **1999** 4462).
+[^106-4]: Abolì tras la cifra I da la LF dals 15 da zer. 2012, cun effect dapi il 1. da schan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^106-5]: Integrà tras la cifra I da la LF dals 20 da mars 1975, en vigur dapi il 1. d’avust 1975 ([AS 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [BBl 1973 II 1173](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
+[^106-6]: Integrà tras la cifra I da la LF dals 6 d’oct. 1989 ([AS 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [BBl 1986 III 209](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)). Abolì tras la cifra I da la LF dals 15 da zer. 2012, cun effect dapi il 1. da schan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^106-7]: Integrà tras la cifra I da la LF dals 18 da zer. 1993, en vigur dapi il 1. d’avr. 1994 ([AS 1993 3330](https://fedlex.data.admin.ch/eli/oc/1993/3330_3330_3330), [1994 815](https://fedlex.data.admin.ch/eli/oc/1994/815_815_815); [BBl 1993 I 805](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
 
 ### Contracts internaziunals
 

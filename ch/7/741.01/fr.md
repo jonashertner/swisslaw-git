@@ -4,11 +4,11 @@ title: Loi fédérale du 19 décembre 1958 sur la circulation routière (LCR)
 short: LCR
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/679_705_685"
 language: fr
-version: 2023-09-01
+version: 2023-10-01
 adopted: 1958-12-19
 in_force: 1959-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20230901-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20231001/fr/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20231001-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20231001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20230901/fr"
 
 (LCR)
 
-du 19 décembre 1958 (État le 1<sup>er</sup> septembre 2023)
+du 19 décembre 1958 (État le 1<sup>er</sup> octobre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -56,25 +56,26 @@ Le Conseil fédéral peut, après avoir consulté les cantons:
 
 - a. déclarer ouvertes aux véhicules automobiles et aux cycles, avec ou sans restrictions, les routes nécessaires au grand transit;
 - b. interdire temporairement, sur tout le territoire suisse, la circulation des véhicules automobiles ou de certaines catégories d’entre eux;
-- c.[^2-1] ...
+- c.[^2-1] …
 
-<sup>2</sup> La circulation des véhicules motorisés lourds destinés au transport des marchandises est interdite la nuit de 22 h à 5 h et le dimanche. Le Conseil fédéral règle les modalités.[^2-2]
+<sup>2</sup> La circulation des véhicules motorisés lourds destinés au transport des marchandises est interdite la nuit de 22 h à 5 h et le dimanche. Le Conseil fédéral règle les modalités et définit les exceptions.[^2-2] [^2-3]
 
-<sup>3</sup> Le Conseil fédéral établit une liste des routes uniquement ouvertes aux véhicules à moteur. À moins que l’Assemblée fédérale ne soit compétente, il désigne ces routes après avoir entendu les cantons intéressés ou sur leur proposition. Il fixe les catégories de véhicules à moteur qui peuvent circuler sur ces routes.[^2-3]
+<sup>3</sup> Le Conseil fédéral établit une liste des routes uniquement ouvertes aux véhicules à moteur. À moins que l’Assemblée fédérale ne soit compétente, il désigne ces routes après avoir entendu les cantons intéressés ou sur leur proposition. Il fixe les catégories de véhicules à moteur qui peuvent circuler sur ces routes.[^2-4]
 
-<sup>3bis</sup> L’Office fédéral des routes (OFROU)[^2-4] arrête les mesures concernant la réglementation locale du trafic sur les routes nationales.[^2-5] Les communes ont qualité pour recourir contre de telles décisions lorsque des mesures touchant la circulation sont ordonnées sur leur territoire.[^2-6]
+<sup>3bis</sup> L’Office fédéral des routes (OFROU)[^2-5] arrête les mesures concernant la réglementation locale du trafic sur les routes nationales.[^2-6] Les communes ont qualité pour recourir contre de telles décisions lorsque des mesures touchant la circulation sont ordonnées sur leur territoire.[^2-7]
 
-<sup>4</sup> Si les besoins de l’armée ou de la protection civile l’exigent, la circulation peut être restreinte ou interdite temporairement sur certaines routes. Le Conseil fédéral désigne les organes militaires et les organes de la protection civile compétents. Avant de décider, ces organes prennent l’avis des cantons.[^2-7]
+<sup>4</sup> Si les besoins de l’armée ou de la protection civile l’exigent, la circulation peut être restreinte ou interdite temporairement sur certaines routes. Le Conseil fédéral désigne les organes militaires et les organes de la protection civile compétents. Avant de décider, ces organes prennent l’avis des cantons.[^2-8]
 
 <sup>5</sup> Pour les routes dont la Confédération est propriétaire, les autorités fédérales désignées par le Conseil fédéral décident si et à quelles conditions la circulation publique y est permise. Elles placeront les signaux nécessaires.
 
 [^2-1]: Abrogée par le ch. I de la LF du 22 mars 1991, avec effet au 15 mars 1992 ([RO 1992 534](https://fedlex.data.admin.ch/eli/oc/1992/534_534_534); [FF 1988 II 1293](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
-[^2-2]: Nouvelle teneur selon l’art. 6 ch. 2 de la LF du 8 oct. 1999 sur le transfert du trafic, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2864](https://fedlex.data.admin.ch/eli/oc/2000/495); [FF 1999 5440](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
-[^2-3]: Nouvelle teneur selon l’art. 63 de la LF du 8 mars 1960 sur les routes nationales, en vigueur depuis le 21 juin 1960 ([RO 1960 569](https://fedlex.data.admin.ch/eli/oc/1960/525_569_555); [FF 1959 II 97](https://fedlex.data.admin.ch/eli/fga/1959/2_105_97_649)).
-[^2-4]: Nouvelle expression selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)). Il a été tenu compte de cette mod. dans tout le texte.
-[^2-5]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^2-6]: Introduit par le ch. I de la LF du 14 déc. 2001 ([RO 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 4106). Nouvelle teneur selon l’annexe ch. 73 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^2-7]: Nouvelle teneur selon le ch. I de la LF du 6 oct. 1989, en vigueur depuis le 1<sup>er</sup> fév. 1991 ([RO 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 197](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
+[^2-2]: Nouvelle teneur de la phrase selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^2-3]: Nouvelle teneur selon l’art. 6 ch. 2 de la LF du 8 oct. 1999 sur le transfert du trafic, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2864](https://fedlex.data.admin.ch/eli/oc/2000/495); [FF 1999 5440](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
+[^2-4]: Nouvelle teneur selon l’art. 63 de la LF du 8 mars 1960 sur les routes nationales, en vigueur depuis le 21 juin 1960 ([RO 1960 569](https://fedlex.data.admin.ch/eli/oc/1960/525_569_555); [FF 1959 II 97](https://fedlex.data.admin.ch/eli/fga/1959/2_105_97_649)).
+[^2-5]: Nouvelle expression selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)). Il a été tenu compte de cette mod. dans tout le texte.
+[^2-6]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^2-7]: Introduit par le ch. I de la LF du 14 déc. 2001 ([RO 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 4106). Nouvelle teneur selon l’annexe ch. 73 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^2-8]: Nouvelle teneur selon le ch. I de la LF du 6 oct. 1989, en vigueur depuis le 1<sup>er</sup> fév. 1991 ([RO 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 197](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
 
 ### Prévention
 
@@ -96,9 +97,9 @@ Le Conseil fédéral peut, après avoir consulté les cantons:
 
 <sup>2</sup> Les cantons sont compétents pour interdire, restreindre ou régler la circulation sur certaines routes. Ils peuvent déléguer cette compétence aux communes sous réserve de recours à une autorité cantonale.
 
-<sup>3</sup> La circulation des véhicules automobiles et des cycles peut être interdite complètement ou restreinte temporairement sur les routes qui ne sont pas ouvertes au grand transit; les courses effectuées pour le service de la Confédération sont toutefois autorisées. ...[^3-1]
+<sup>3</sup> La circulation des véhicules automobiles et des cycles peut être interdite complètement ou restreinte temporairement sur les routes qui ne sont pas ouvertes au grand transit; les courses effectuées pour le service de la Confédération sont toutefois autorisées. …[^3-1]
 
-<sup>4</sup> D’autres limitations ou prescriptions peuvent être édictées lorsqu’elles sont nécessaires pour protéger les habitants ou d’autres personnes touchées de manière comparable contre le bruit et la pollution de l’air, pour éliminer les inégalités frappant les personnes handicapées, pour assurer la sécurité, faciliter ou régler la circulation, pour préserver la structure de la route, ou pour satisfaire à d’autres exigences imposées par les conditions locales.[^3-2] Pour de telles raisons, la circulation peut être restreinte et le parcage réglementé de façon spéciale, notamment dans les quartiers d’habitation. Les communes ont qualité pour recourir lorsque des mesures touchant la circulation sont ordonnées sur leur territoire.[^3-3]...[^3-4].[^3-5]
+<sup>4</sup> D’autres limitations ou prescriptions peuvent être édictées lorsqu’elles sont nécessaires pour protéger les habitants ou d’autres personnes touchées de manière comparable contre le bruit et la pollution de l’air, pour éliminer les inégalités frappant les personnes handicapées, pour assurer la sécurité, faciliter ou régler la circulation, pour préserver la structure de la route, ou pour satisfaire à d’autres exigences imposées par les conditions locales.[^3-2] Pour de telles raisons, la circulation peut être restreinte et le parcage réglementé de façon spéciale, notamment dans les quartiers d’habitation. Les communes ont qualité pour recourir lorsque des mesures touchant la circulation sont ordonnées sur leur territoire.[^3-3]…[^3-4].[^3-5]
 
 <sup>5</sup> Tant qu’elles ne sont pas nécessaires pour régler la circulation des véhicules automobiles et des cycles, les mesures concernant les autres catégories de véhicules ou les autres usagers de la route sont déterminées par le droit cantonal.
 
@@ -150,14 +151,15 @@ Le Conseil fédéral peut, après avoir consulté les cantons:
 
 <sup>1</sup> La Confédération, les cantons et les communes tiennent compte de manière adéquate des impératifs de la sécurité routière lors de la planification, de la construction, de l’entretien et de l’exploitation de l’infrastructure routière.
 
-<sup>2</sup> La Confédération édicte en collaboration avec les cantons des prescriptions concernant l’aménagement des passages pour piétons.
+<sup>2</sup> …[^6a-2]
 
 <sup>3</sup> La Confédération, les cantons et les communes examinent si leurs réseaux routiers présentent des points noirs ou des endroits dangereux et élaborent une planification en vue de les supprimer.
 
-<sup>4</sup> La Confédération et les cantons désignent une personne de contact chargée de traiter les questions relevant de la sécurité routière (préposé à la sécurité).[^6a-2]
+<sup>4</sup> La Confédération et chaque canton nomment un interlocuteur pour toutes les questions liées à la sécurité routière (préposé à la sécurité).[^6a-3]
 
 [^6a-1]: Introduit par le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013, sauf l’al. 2, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^6a-2]: Erratum de la CdR de l’Ass. féd. du 27 mai 2014, publié le 11 juin 2014 ([RO 2014 1387](https://fedlex.data.admin.ch/eli/oc/2014/293)).
+[^6a-2]: Abrogé par le ch. I de la LF du 17 mars 2023, avec effet au 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^6a-3]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ## Titre 2 Véhicules et conducteurs
 
@@ -195,17 +197,20 @@ Le Conseil fédéral peut, après avoir consulté les cantons:
 
 <sup>2</sup> Il détermine la charge par essieu ainsi qu’un rapport approprié entre la puissance du moteur et le poids total du véhicule ou de l’ensemble de véhicules.
 
-<sup>3</sup> Après avoir consulté les cantons, le Conseil fédéral peut prévoir des dérogations pour les véhicules automobiles et les remorques affectés au trafic de ligne et pour ceux qui, en raison de l’usage spécial auquel ils sont destinés, doivent nécessairement avoir des dimensions ou des poids supérieurs. Pour d’autres véhicules de dimensions ou de poids supérieurs, il prescrit les conditions auxquelles peuvent être effectuées, dans certains cas, les courses nécessitées par les circonstances.[^9-4]
+<sup>2bis</sup> Il peut admettre un dépassement de la longueur maximale et du poids maximal autorisés pour les véhicules et ensembles de véhicules qui présentent des caractéristiques de construction et d’équipement spéciales à des fins écologiques. Le dépassement admis ne doit pas excéder la longueur ou le poids supplémentaires que ces caractéristiques impliquent pour le véhicule ou pour l’ensemble de véhicules. La capacité de chargement des véhicules ne doit pas s’en trouver accrue.[^9-4]
 
-<sup>3bis</sup> À la demande du détenteur, le poids total d’un véhicule automobile ou d’une remorque peut être modifié une fois par an ou lorsque le véhicule change de détenteur. Les garanties du constructeur relatives au poids ne peuvent être dépassées.[^9-5]
+<sup>3</sup> Après avoir consulté les cantons, le Conseil fédéral peut prévoir des dérogations pour les véhicules automobiles et les remorques affectés au trafic de ligne et pour ceux qui, en raison de l’usage spécial auquel ils sont destinés, doivent nécessairement avoir des dimensions ou des poids supérieurs. Pour d’autres véhicules de dimensions ou de poids supérieurs, il prescrit les conditions auxquelles peuvent être effectuées, dans certains cas, les courses nécessitées par les circonstances.[^9-5]
+
+<sup>3bis</sup> À la demande du détenteur, le poids total d’un véhicule automobile ou d’une remorque peut être modifié une fois par an ou lorsque le véhicule change de détenteur. Les garanties du constructeur relatives au poids ne peuvent être dépassées.[^9-6]
 
 <sup>4</sup> Toute limitation indiquée par un signal des dimensions, du poids et de la charge par essieu des véhicules est réservée.
 
 [^9-1]: Nouvelle teneur selon le ch. I 1 de la LF du 8 oct. 1999 concernant l’Ac. entre la Confédération suisse et la CE sur le transport de marchandises et de voyageurs par rail et par route, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2877](https://fedlex.data.admin.ch/eli/oc/2000/497); [FF 1999 5440](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
 [^9-2]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^9-3]: Introduit par le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^9-4]: Nouvelle teneur de la phrase selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^9-5]: Introduit par le ch. I de la LF du 14 déc. 2001, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 4106).
+[^9-4]: Introduit par le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^9-5]: Nouvelle teneur de la phrase selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^9-6]: Introduit par le ch. I de la LF du 14 déc. 2001, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 4106).
 
 ### Permis
 
@@ -215,7 +220,7 @@ Le Conseil fédéral peut, après avoir consulté les cantons:
 
 <sup>2</sup> Nul ne peut conduire un véhicule automobile sans être titulaire d’un permis de conduire ou, s’il effectue une course d’apprentissage, d’un permis d’élève conducteur.
 
-<sup>3</sup> ...[^10-1]
+<sup>3</sup> …[^10-1]
 
 <sup>4</sup> Les conducteurs devront toujours être porteurs de leurs permis et les présenteront, sur demande, aux organes chargés du contrôle; il en va de même des autorisations spéciales.
 
@@ -232,14 +237,15 @@ Le Conseil fédéral peut, après avoir consulté les cantons:
 Le permis de circulation peut être refusé si le détenteur n’acquitte pas les impôts ou taxes de circulation dus sur le véhicule. Le permis ne peut être délivré que s’il est prouvé:
 
 - a. que le véhicule a été dédouané ou libéré du dédouanement;
-- b. que le véhicule a été fiscalisé ou libéré de l’impôt au sens de la loi fédérale du 21 juin 1996 sur l’imposition des véhicules automobiles[^11-1];
-- c. que, le cas échéant, la totalité de la redevance ou des sûretés dues pour le véhicule au sens de la loi du 19 décembre 1997 relative à une redevance sur le trafic des poids lourds[^11-2] ont été payées et que le véhicule est équipé de l’instrument de mesure prescrit qui permet la perception de la redevance.[^11-3]
+- b.[^11-1] que le véhicule a été fiscalisé ou libéré de l’impôt au sens de la loi fédérale du 21 juin 1996 sur l’imposition des véhicules automobiles (Limpauto)[^11-2];
+- c. que, le cas échéant, la totalité de la redevance ou des sûretés dues pour le véhicule au sens de la loi du 19 décembre 1997 relative à une redevance sur le trafic des poids lourds[^11-3] ont été payées et que le véhicule est équipé de l’instrument de mesure prescrit qui permet la perception de la redevance.[^11-4]
 
 <sup>3</sup> Un nouveau permis de circulation doit être demandé lorsque le véhicule change de lieu de stationnement d’un canton dans un autre ou qu’il passe à un autre détenteur.
 
-[^11-1]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^11-2]: [RS 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
-[^11-3]: Nouvelle teneur selon le ch. II de la LF du 5 oct. 2007 sur des mesures visant à améliorer les procédures liées à une redevance sur le trafic des poids lourds liée aux prestations, en vigueur depuis le 1<sup>er</sup> avr. 2008 ([RO 2008 765](https://fedlex.data.admin.ch/eli/oc/2008/189); [FF 2006 9029](https://fedlex.data.admin.ch/eli/fga/2006/1242)).
+[^11-1]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^11-2]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
+[^11-3]: [RS 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
+[^11-4]: Nouvelle teneur selon le ch. II de la LF du 5 oct. 2007 sur des mesures visant à améliorer les procédures liées à une redevance sur le trafic des poids lourds liée aux prestations, en vigueur depuis le 1<sup>er</sup> avr. 2008 ([RO 2008 765](https://fedlex.data.admin.ch/eli/oc/2008/189); [FF 2006 9029](https://fedlex.data.admin.ch/eli/fga/2006/1242)).
 
 ### Réception par type
 
@@ -376,9 +382,9 @@ Le permis de conduire à l’essai est délivré au candidat qui remplit les con
 
 <sup>2bis</sup> Les titulaires du permis de conduire à l’essai doivent suivre des cours de formation complémentaire. Ces cours, essentiellement pratiques, doivent leur apprendre à mieux reconnaître et éviter les dangers sur la route ainsi qu’à ménager l’environnement. Le Conseil fédéral en détermine le contenu et la forme.[^15a-3]
 
-<sup>3</sup> Lorsque le permis de conduire à l’essai est retiré au titulaire parce qu’il a commis une infraction, la période probatoire est prolongée d’un an. Si le retrait expire après la fin de cette période, la prolongation commence à compter de la date de restitution du permis de conduire.
+<sup>3</sup> Lorsque le permis de conduire à l’essai est retiré au titulaire parce qu’il a commis une infraction moyennement grave ou grave, la période probatoire est prolongée d’un an.[^15a-4] Si le retrait expire après la fin de cette période, la prolongation commence à compter de la date de restitution du permis de conduire.
 
-<sup>4</sup> Le permis de conduire à l’essai est caduc lorsque son titulaire commet une seconde infraction entraînant un retrait.
+<sup>4</sup> Le permis de conduire à l’essai est caduc si le titulaire commet une nouvelle infraction moyennement grave ou grave durant la période probatoire.[^15a-5]
 
 <sup>5</sup> Un nouveau permis d’élève conducteur peut être délivré à la personne concernée au plus tôt un an après l’infraction commise et uniquement sur la base d’une expertise psychologique attestant son aptitude à conduire. Ce délai est prolongé d’un an si la personne concernée a conduit un motocycle ou une voiture automobile pendant cette période.
 
@@ -387,6 +393,8 @@ Le permis de conduire à l’essai est délivré au candidat qui remplit les con
 [^15a-1]: Introduit par le ch. I de la LF du 14 déc. 2001, en vigueur depuis le 1<sup>er</sup> déc. 2005 ([RO 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 5053](https://fedlex.data.admin.ch/eli/oc/2004/778)art. 1 al. 2; FF **1999** 4106).
 [^15a-2]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^15a-3]: Introduit par le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^15a-4]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^15a-5]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ### Permis de conduire définitif
 
@@ -465,7 +473,7 @@ Si l’aptitude à la conduite soulève des doutes, la personne concernée fera 
 
 <sup>1</sup> Les permis et les autorisations seront retirés lorsque l’autorité constate que les conditions légales de leur délivrance ne sont pas ou ne sont plus remplies; ils pourront être retirés lorsque les restrictions ou les obligations imposées dans un cas particulier, lors de la délivrance, n’auront pas été observées.
 
-<sup>2</sup> Lorsque la procédure prévue par la loi fédérale du 24 juin 1970 sur les amendes d’ordre[^16-1] n’est pas applicable, une infraction aux prescriptions sur la circulation routière entraîne le retrait du permis d’élève-conducteur ou du permis de conduire ou un avertissement.[^16-2]
+<sup>2</sup> Lorsque la procédure prévue par la loi du 18 mars 2016 sur les amendes d’ordre[^16-1] n’est pas applicable, une infraction aux prescriptions sur la circulation routière entraîne le retrait du permis d’élève conducteur ou du permis de conduire, ou un avertissement.[^16-2]
 
 <sup>3</sup> Les circonstances doivent être prises en considération pour fixer la durée du retrait du permis d’élève conducteur ou du permis de conduire, notamment l’atteinte à la sécurité routière, la gravité de la faute, les antécédents en tant que conducteur ainsi que la nécessité professionnelle de conduire un véhicule automobile. La durée minimale du retrait ne peut toutefois être réduite, sauf si la peine a été atténuée conformément à l’art. 100, ch. 4, 3<sup>e</sup> phrase.[^16-3] [^16-4]
 
@@ -483,8 +491,8 @@ Le permis de circulation est retiré dans les cas suivants:
 - a. lorsque, le cas échéant, la redevance ou les sûretés dues pour le véhicule au sens de la loi du 19 décembre 1997 relative à une redevance sur le trafic des poids lourds[^16-6] n’ont pas été payées et que le détenteur a été mis en demeure sans effet;
 - b. lorsque le véhicule n’est pas équipé de l’instrument de mesure prescrit qui permet la perception de la redevance.[^16-7]
 
-[^16-1]: [[RO 1972 734](https://fedlex.data.admin.ch/eli/oc/1972/725_734_658), [1996 1075](https://fedlex.data.admin.ch/eli/oc/1996/1075_1075_1075), [2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551)art. 44 ch. 4, [2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744)ch. II, [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821). [RO 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725)annexe ch. I]. Voir actuellement: la loi du 18 mars 2016 sur les amendes d’ordre ([RS 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)).
-[^16-2]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2001, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); FF **1999** 4106).
+[^16-1]: [RS 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)
+[^16-2]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^16-3]: Nouvelle teneur de la phrase selon l’annexe ch. 4 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 [^16-4]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2001, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); FF **1999** 4106).
 [^16-5]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2001, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 4106).
@@ -573,7 +581,7 @@ Commet une infraction grave la personne qui:
 Après une infraction grave, le permis d’élève conducteur ou le permis de conduire est retiré:
 
 - a. pour trois mois au minimum;
-- a<sup>bis</sup>.[^16c-3] pour deux ans au moins si, par une violation intentionnelle des règles fondamentales de la circulation, la personne accepte de courir un grand risque d’accident pouvant entraîner de graves blessures ou la mort, que ce soit en commettant des excès de vitesse particulièrement importants, en effectuant des dépassements téméraires ou en participant à des courses de vitesse illicites avec des véhicules automobiles; l’art. 90, al. 4, s’applique;
+- a<sup>bis</sup>.[^16c-3] pour deux ans au moins si, par une violation intentionnelle des règles fondamentales de la circulation, la personne accepte de courir un grand risque d’accident pouvant entraîner de graves blessures ou la mort, que ce soit en commettant des excès de vitesse particulièrement importants au sens de l’art. 90, al. 4, en effectuant des dépassements téméraires ou en participant à des courses de vitesse illicites avec des véhicules automobiles; la durée minimale du retrait peut être réduite de douze mois au plus si une peine de moins d’un an (art. 90, al. 3<sup>bis</sup> ou 3<sup>ter</sup>) a été prononcée;
 - b. pour six mois au minimum si, au cours des cinq années précédentes, le permis a été retiré une fois en raison d’une infraction moyennement grave;
 - c. pour douze mois au minimum si, au cours des cinq années précédentes, le permis a été retiré une fois en raison d’une infraction grave ou à deux reprises en raison d’infractions moyennement graves;
 - d. pour une durée indéterminée, mais pour deux ans au minimum, si, au cours des dix années précédentes, le permis lui a été retiré à deux reprises en raison d’infractions graves ou à trois reprises en raison d’infractions qualifiées de moyennement graves au moins; il est renoncé à cette mesure si, dans les cinq ans suivant l’expiration d’un retrait, aucune infraction donnant lieu à une mesure administrative n’a été commise;
@@ -585,7 +593,7 @@ Après une infraction grave, le permis d’élève conducteur ou le permis de co
 
 [^16c-1]: Introduit par le ch. I de la LF du 14 déc. 2001, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); FF **1999** 4106).
 [^16c-2]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2015 2583](https://fedlex.data.admin.ch/eli/oc/2015/489); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^16c-3]: Introduite par le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^16c-3]: Introduite par le ch. I de la LF du 15 juin 2012 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)). Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^16c-4]: Voir aussi les disp. fin. mod. 14 déc. 2001, à la fin du texte.
 
 ### Retrait du permis de conduire après une infraction commise à l’étranger
@@ -769,7 +777,7 @@ Le Conseil fédéral édicte des dispositions sur:[^25-1]
 - e. la manière de signaler les véhicules spéciaux;
 - f.[^25-3] les signaux avertisseurs spéciaux réservés aux véhicules automobiles du service du feu, du service d’ambulances, de la police ou de la douane, lorsqu’ils sont utilisés pour des tâches de police, ainsi qu’aux véhicules des entreprises de transport concessionnaires sur les routes de montagne;
 - g. la publicité au moyen de véhicules automobiles;
-- h.[^25-4] ...
+- h.[^25-4] …
 - i. les appareils servant à enregistrer la durée des courses, la vitesse ou d’autres faits analogues; il prévoira notamment l’installation de tels dispositifs sur les véhicules conduits par des chauffeurs professionnels, pour permettre de contrôler la durée de leur travail, ainsi que, le cas échéant, sur les véhicules conduits par des personnes qui ont été condamnées pour excès de vitesse.
 
 <sup>3</sup>
@@ -783,9 +791,9 @@ Après avoir consulté les cantons, le Conseil fédéral édicte des prescriptio
 - e.[^25-5] le contenu et l’étendue des enquêtes sur l’aptitude à la conduite ainsi que la procédure à suivre en cas de doute;
 - f.[^25-6] les exigences minimales imposées aux personnes chargées d’effectuer les enquêtes sur l’aptitude à la conduite, à la procédure d’enquête et à l’assurance qualité;
 
-<sup>3bis</sup> ...[^25-7]
+<sup>3bis</sup> …[^25-7]
 
-<sup>4</sup> ...[^25-8]
+<sup>4</sup> …[^25-8]
 
 [^25-1]: Nouvelle teneur selon le ch. II 12 de la LF du 20 mars 2009 sur la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 [^25-2]: Nouvelle teneur selon le ch. I de la LF du 20 mars 1975, en vigueur depuis le 1<sup>er</sup> août 1975 ([RO 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1141](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
@@ -900,9 +908,9 @@ Le Conseil fédéral peut interdire la conduite sous l’influence de l’alcool
 
 <sup>3</sup> L’autorité compétente ne peut abaisser ou augmenter la vitesse maximale fixée par le Conseil fédéral sur certains tronçons de route qu’après expertise. Le Conseil fédéral peut prévoir des exceptions.[^32-2]
 
-<sup>4</sup> ...[^32-3]
+<sup>4</sup> …[^32-3]
 
-<sup>5</sup> ...[^32-4]
+<sup>5</sup> …[^32-4]
 
 [^32-1]: Nouvelle teneur selon le ch. I de la LF du 20 mars 1975, en vigueur depuis le 1<sup>er</sup> janv. 1977 ([RO 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257), [1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)ch. II al. 2; [FF 1973 II 1141](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053))
 [^32-2]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2001, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 4106).
@@ -1078,7 +1086,7 @@ Si la sécurité de la circulation l’exige, le conducteur avertira les autres 
 
 <sup>2</sup> Il est interdit aux cyclistes de circuler de front. Le Conseil fédéral peut prévoir des exceptions.[^46-1]
 
-<sup>3</sup> ...[^46-2]
+<sup>3</sup> …[^46-2]
 
 <sup>4</sup> Les cyclistes ne doivent pas se faire remorquer par des véhicules ou des animaux.
 
@@ -1217,7 +1225,7 @@ Une prise de sang doit être ordonnée si la personne concernée:
 
 <sup>4</sup> Pour des raisons importantes, la prise de sang peut être effectuée contre la volonté de la personne suspectée. Tout autre moyen permettant de prouver l’incapacité de conduire de la personne concernée est réservé.
 
-<sup>5</sup> ...[^55-4]
+<sup>5</sup> …[^55-4]
 
 <sup>6</sup>
 
@@ -1281,7 +1289,7 @@ Il arrêtera des dispositions concernant:
 - d. la réglementation de la circulation par les soins des organes militaires;
 - e. la reconstitution des faits lors d’accidents où sont en cause des véhicules automobiles militaires.
 
-<sup>4</sup> ...[^57-2]
+<sup>4</sup> …[^57-2]
 
 <sup>5</sup>
 
@@ -1396,19 +1404,20 @@ La Confédération peut:
 
 <sup>2</sup> Si néanmoins le détenteur ne peut se libérer en vertu de l’al. 1 mais prouve qu’une faute du lésé a contribué à l’accident, le juge fixe l’indemnité en tenant compte de toutes les circonstances.
 
-<sup>3</sup> ...[^59-1]
+<sup>3</sup> …[^59-1]
 
 <sup>4</sup>
 
-C’est d’après le code des obligations[^59-2] que se déterminent:
+Sont déterminées d’après le code des obligations[^59-2]:[^59-3]
 
 - a. la responsabilité civile, dans les relations entre le détenteur et le propriétaire d’un véhicule, pour les dommages subis par ce véhicule;
-- b.[^59-3] la responsabilité du détenteur pour les dommages causés aux objets transportés sur son véhicule, à l’exception de ceux que le lésé portait avec lui, notamment les bagages, etc.; la loi fédérale du 4 octobre 1985[^59-4] sur le transport public est réservée.
+- b.[^59-4] la responsabilité du détenteur pour les dommages causés aux objets transportés avec son véhicule, à l’exception de ceux que le lésé emportait avec lui, notamment les bagages, etc.; la loi du 20 mars 2009 sur le transport de voyageurs[^59-5] est réservée.
 
 [^59-1]: Abrogé par le ch. I de la LF du 20 mars 1975 ([RO 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)1875 ch. III; [FF 1973 II 1141](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
 [^59-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^59-3]: Nouvelle teneur selon l’art. 54 ch. 2 de la LF du 4 oct. 1985 sur les transports publics, en vigueur depuis le 1<sup>er</sup> janv. 1987 ([RO 1986 1974](https://fedlex.data.admin.ch/eli/oc/1986/1974_1974_1974)).
-[^59-4]: [[RO 1986 1974](https://fedlex.data.admin.ch/eli/oc/1986/1974_1974_1974), [1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290)ch. V, [1995 3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)ch. I 10 [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)annexe ch. 13, [1998 2856](https://fedlex.data.admin.ch/eli/oc/1998/2856_2856_2856). [RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)ch. III]. Voir actuellement la LF du 20 mars 2009 sur le transport des voyageurs ([RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)).
+[^59-3]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^59-4]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^59-5]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
 
 ### Dommage causé par plusieurs auteurs
 
@@ -1488,10 +1497,10 @@ Le Conseil fédéral fixera les montants jusqu’à concurrence desquels l’ass
 
 <sup>2</sup> Les exceptions découlant du contrat d’assurance ou de la loi fédérale du 2 avril 1908 sur le contrat d’assurance[^65-1] ne peuvent être opposées au lésé.
 
-<sup>3</sup> L’assureur a un droit de recours contre le preneur d’assurance ou l’assuré dans la mesure où il aurait été autorisé à refuser ou à réduire ses prestations d’après le contrat ou la loi fédérale du 2 avril 1908 sur le contrat d’assurance. L’assureur est tenu de recourir si les dommages ont été causés alors que le conducteur se trouve en état d’ébriété ou dans l’incapacité de conduire, ou qu’il commet un excès de vitesse au sens de l’art. 90, al. 4. L’étendue du recours tient compte du degré de culpabilité et de la situation économique de la personne contre laquelle le recours est formé.[^65-2]
+<sup>3</sup> L’assureur a un droit de recours contre le preneur d’assurance ou l’assuré pour autant qu’il soit habilité, en vertu du contrat d’assurance ou de la loi sur le contrat d’assurance, à refuser le versement de prestations ou à en réduire le montant.[^65-2]
 
 [^65-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
-[^65-2]: 2<sup>e</sup> et 3<sup>e</sup> phrases introduites par le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^65-2]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ### Pluralité de lésés
 
@@ -1513,7 +1522,7 @@ Le Conseil fédéral fixera les montants jusqu’à concurrence desquels l’ass
 
 <sup>3</sup> Le Conseil fédéral règle les conditions auxquelles le détenteur peut faire usage d’un véhicule autre que celui qui est assuré en se servant des plaques de contrôle de ce dernier. L’assurance n’est valable que pour le véhicule utilisé. L’assureur a un droit de recours contre le détenteur si l’utilisation n’était pas autorisée.[^67-1]
 
-<sup>4</sup> ...[^67-2]
+<sup>4</sup> …[^67-2]
 
 [^67-1]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2001, en vigueur depuis le 1<sup>er</sup> mars 2004 ([RO 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 647](https://fedlex.data.admin.ch/eli/oc/2004/56); FF **1999** 4106).
 [^67-2]: Abrogé par le ch. I de la LF du 14 déc. 2001, avec effet au 1<sup>er</sup> mars 2004 ([RO 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 647](https://fedlex.data.admin.ch/eli/oc/2004/56); FF **1999** 4106).
@@ -1611,7 +1620,7 @@ La responsabilité civile des cyclistes est régie par le code des obligations[^
 
 <sup>1</sup> En qualité de détenteurs de véhicules automobiles, la Confédération et les cantons sont soumis aux dispositions de la présente loi concernant la responsabilité civile, mais non pas à l’obligation de s’assurer. Ne sont en outre pas soumis à l’assurance obligatoire les véhicules automobiles pour lesquels la Confédération garantit comme un assureur la réparation des dommages qu’ils auront causés.
 
-<sup>2</sup> ...[^73-1]
+<sup>2</sup> …[^73-1]
 
 <sup>3</sup> La Confédération et les cantons règlent selon les dispositions applicables à l’assurance-responsabilité civile les sinistres causés par des véhicules automobiles, des remorques et des cycles dont ils assument la responsabilité civile. Ils indiquent à l’organisme d’information (art. 79*a*) quels sont les services compétents pour le règlement des sinistres.[^73-2]
 
@@ -1982,7 +1991,7 @@ Lorsqu’un lésé n’est pas couvert complètement par des prestations d’ass
 
 <sup>2</sup> Les cantons fournissent à l’OFROU les données relatives à l’admission à la circulation.
 
-<sup>3</sup> La souveraineté des données de l’OFROU englobe les données du SIAC. ...[^89a-1]
+<sup>3</sup> La souveraineté des données de l’OFROU englobe les données du SIAC. …[^89a-1]
 
 <sup>4</sup> L’OFROU définit les interfaces techniques et les procédures d’ajustement des données.
 
@@ -1992,7 +2001,7 @@ Lorsqu’un lésé n’est pas couvert complètement par des prestations d’ass
 
 #### Art. 89b
 
-Le SIAC contribue à l’exécution des tâches légales suivantes:
+Le SIAC contribue à l’exécution des tâches suivantes:[^89b-1]
 
 - a.
 
@@ -2004,19 +2013,23 @@ Le SIAC contribue à l’exécution des tâches légales suivantes:
 
 - b. mise en œuvre des procédures administratives et pénales contre les conducteurs de véhicules;
 - c. réception par type, contrôle technique et admission des véhicules à la circulation routière;
-- d. contrôle de l’assurance, du dédouanement et de l’imposition des véhicules admis à la circulation routière selon la loi fédérale du 21 juin 1996 sur l’imposition des véhicules automobiles[^89b-1];
+- d.[^89b-2] contrôle de l’assurance, du dédouanement et de l’imposition des véhicules admis à la circulation routière selon la Limpauto[^89b-3];
 - e. identification des détenteurs et recherche de véhicules;
 - f. protection des victimes d’accidents de la circulation;
 - g. rationnement des carburants et réquisition ou location de véhicules pour l’armée, le service civil et l’approvisionnement économique du pays;
 - h. élaboration de statistiques notamment dans les domaines des autorisations de conduire, des mesures administratives, des types de véhicules, des immatriculations de véhicules, des accidents de la circulation et des contrôles routiers;
 - i. élaboration d’éléments de décision en matière de politique des transports, de l’environnement et de l’énergie;
-- j. perception des impôts cantonaux sur les véhicules automobiles, des redevances sur le trafic des poids lourds et d’autres taxes;
+- j.[^89b-4] perception des impôts cantonaux sur les véhicules automobiles et d’autres taxes, ainsi que perception et vérification du paiement des redevances sur le trafic des poids lourds et des redevances pour l’utilisation des routes nationales;
 - k. soutien aux autorités suisses et étrangères dans l’exécution des dispositions sur la durée du travail et du repos des conducteurs professionnels;
 - l. admission et contrôle des entreprises de transport de voyageurs et de marchandises par route;
-- m.[^89b-2] réduction des émissions de CO<sub>2</sub> des voitures de tourisme, des voitures de livraison et des tracteurs à sellette légers.
+- m.[^89b-5] exécution des dispositions de la loi du 23 décembre 2011 sur le CO<sub>2</sub>[^89b-6] visant à réduire les émissions de CO<sub>2</sub> des véhicules.
 
-[^89b-1]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^89b-2]: Nouvelle teneur selon l’annexe ch. II 10 de la L du 30 sept. 2016 sur l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^89b-1]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89b-2]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89b-3]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
+[^89b-4]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89b-5]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89b-6]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
 
 ### Contenu
 
@@ -2052,32 +2065,51 @@ Le SIAC contient:
 
 #### Art 89d
 
-Les autorités ci-après traitent les données du SIAC:
+Les autorités et services ci-après traitent les données du SIAC:[^89d-1]
 
 - a. l’OFROU;
 - b. les autorités fédérales et cantonales responsables de l’octroi et du retrait des autorisations et des permis de conduire: s’agissant des données relevant de leur compétence;
 - c. les autorités responsables du rationnement des carburants ainsi que de la réquisition et de la location des véhicules pour l’armée, la protection civile et l’approvisionnement économique du pays: s’agissant des données relatives aux véhicules et à leurs détenteurs;
-- d. les organes de police responsables de la saisie des permis de conduire et de circulation: s’agissant des données relatives aux véhicules et aux autorisations de conduire.
+- d. les organes de police responsables de la saisie des permis de conduire et de circulation: s’agissant des données relatives aux véhicules et aux autorisations de conduire;
+- e.[^89d-2] les autorités chargées du contrôle du dédouanement et de l’imposition selon la Limpauto[^89d-3]: s’agissant des données relevant de leur compétence;
+- f. [^89d-4] les autorités chargées de la perception de la redevance selon la loi du 19 décembre 1997 relative à une redevance sur le trafic des poids lourds[^89d-5]: s’agissant des données relevant de leur compétence;
+- g.[^89d-6] les services chargés de la perception et de la vérification du paiement de la redevance pour l’utilisation des routes nationales selon la loi du 19 mars 2010 sur la vignette autoroutière[^89d-7]: s’agissant des données relatives aux véhicules et à leurs détenteurs;
+- h.[^89d-8] les autorités chargées de l’exécution des dispositions de la loi du 23 décembre 2011 sur le CO<sub>2</sub>[^89d-9] visant à réduire les émissions de CO<sub>2</sub> des véhicules: s’agissant des données relevant de leur compétence.
+
+[^89d-1]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89d-2]: Introduite par le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89d-3]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
+[^89d-4]: Introduite par le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89d-5]: [RS 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
+[^89d-6]: Introduite par le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89d-7]: [RS 741.71](https://fedlex.data.admin.ch/eli/cc/2011/577)
+[^89d-8]: Introduite par le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89d-9]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
 
 ### Accès en ligne aux données
 
 #### Art. 89e
 
-Les services ci-après peuvent accéder en ligne aux données suivantes:
+Les autorités et services ci-après peuvent accéder en ligne aux données suivantes:[^89e-1]
 
-- a. les organes de police: données nécessaires au contrôle de l’autorisation de conduire et de l’admission à la circulation, à l’identification du détenteur et de l’assureur, ainsi qu’à la recherche de véhicules;
-- b. les organes douaniers: données nécessaires au contrôle de l’autorisation de conduire et de l’admission à la circulation, du dédouanement et de l’imposition selon la loi fédérale du 21 juin 1996 sur l’imposition des véhicules automobiles[^89e-1], ainsi qu’à la recherche de véhicules;
+- a.[^89e-2] les autorités et services habilités à traiter des données conformément à l’art. 89*d*: données qu’elles traitent sur la base de cette disposition;
+- a<sup>bis</sup>.[^89e-3] les organes de police: données nécessaires au contrôle de l’autorisation de conduire et de l’admission à la circulation, à l’identification du détenteur et de l’assureur, ainsi qu’à la recherche de véhicules;
+- b.[^89e-4] l’Office fédéral de la douane et de la sécurité des frontières: données nécessaires au contrôle de l’autorisation de conduire et de l’admission à la circulation, ainsi qu’à la recherche de véhicules;
 - c. les autorités chargées des poursuites pénales et les autorités judiciaires: données relatives aux autorisations de conduire et aux mesures administratives dans le cadre des procédures les amenant à juger des infractions au droit de la circulation routière;
 - d. les autorités fédérales et cantonales responsables du contrôle des véhicules ainsi que les services chargés des contrôles officiels des véhicules: données relatives à l’immatriculation et aux types de véhicules;
 - e. l’Office fédéral de la statistique: données relatives aux véhicules;
 - f. l’Office fédéral des transports: données relatives à l’immatriculation des véhicules et aux mesures administratives dans le cadre de l’admission des entreprises de transport;
-- g.[^89e-2] l’Office fédéral de l’énergie: données relatives aux véhicules automobiles pour la réduction des émissions de CO<sub>2</sub> des voitures de tourisme, des voitures de livraison et des tracteurs à sellette légers;
+- g.[^89e-5] l’Office fédéral de l’énergie: données relatives aux véhicules nécessaires à l’exécution des dispositions de la loi du 23 décembre 2011 sur le CO<sub>2</sub>[^89e-6] visant à réduire les émissions de CO<sub>2</sub> des véhicules;
 - h. le Bureau national d’assurance et le Fonds national de garantie: données nécessaires à l’accomplissement de leurs fonctions (art. 74 et 76);
 - i. les autorités étrangères responsables de la délivrance des cartes de conducteurs: données relatives à ces dernières;
 - j. les organes de contrôle étrangers responsables du contrôle de la durée de travail et de repos des conducteurs professionnels de véhicules automobiles: statut de la carte du conducteur.
 
-[^89e-1]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^89e-2]: Nouvelle teneur selon l’annexe ch. II 10 de la L du 30 sept. 2016 sur l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^89e-1]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89e-2]: Introduite par le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89e-3]: Anciennement let. a.
+[^89e-4]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89e-5]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^89e-6]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
 
 ### Droit de consulter
 
@@ -2321,19 +2353,27 @@ Le Conseil fédéral règle:
 
 <sup>3</sup> Celui qui, par une violation intentionnelle des règles fondamentales de la circulation, accepte de courir un grand risque d’accident pouvant entraîner de graves blessures ou la mort, que ce soit en commettant des excès de vitesse particulièrement importants, en effectuant des dépassements téméraires ou en participant à des courses de vitesse illicites avec des véhicules automobiles est puni d’une peine privative de liberté d’un à quatre ans.
 
+<sup>3bis</sup> En cas d’infractions au sens de l’al. 3, la peine minimale d’un an peut être réduite en présence d’une circonstance atténuante conformément à l’art. 48 du code pénal[^90-2], en particulier si l’auteur a agi en cédant à un mobile honorable.[^90-3]
+
+<sup>3ter</sup> En cas d’infractions au sens de l’al. 3, l’auteur peut être puni d’une peine privative de liberté de quatre ans au plus ou d’une peine pécuniaire s’il n’a pas été condamné, au cours des dix années précédant les faits, pour un crime ou un délit routier ayant gravement mis en danger la sécurité de tiers ou ayant entraîné des blessures ou la mort de tiers.[^90-4]
+
 <sup>4</sup>
 
-L’al. 3 est toujours applicable lorsque la vitesse maximale autorisée a été dépassée:
+L’excès de vitesse est particulièrement important lorsque la vitesse maximale autorisée a été dépassée:
 
-- a. d’au moins 40 km/h, là où la limite était fixée à 30 km/h;
-- b. d’au moins 50 km/h, là où la limite était fixée à 50 km/h;
-- c. d’au moins 60 km/h, là où la limite était fixée à 80 km/h;
-- d. d’au moins 80 km/h, là où la limite était fixée à plus de 80 km/h.
+- a. d’au moins 40 km/h, là où la limite est fixée au plus à 30 km/h;
+- b. d’au moins 50 km/h, là où la limite est fixée au plus à 50 km/h;
+- c. d’au moins 60 km/h, là où la limite est fixée au plus à 80 km/h;
+- d. d’au moins 80 km/h, là où la limite est fixée à plus de 80 km/h.[^90-5]
 
-<sup>5</sup> Dans les cas précités, l’art. 237, ch. 2, du code pénal[^90-2] n’est pas applicable.
+<sup>5</sup> Dans les cas précités, l’art. 237, ch. 2, du code pénal[^90-6] n’est pas applicable.
 
 [^90-1]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^90-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^90-3]: Introduit par le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^90-4]: Introduit par le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^90-5]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^90-6]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 ### Confiscation et réalisation de véhicules automobiles
 
@@ -2370,11 +2410,11 @@ Est puni de l’amende quiconque:
 
 Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque:
 
-- a. conduit un véhicule automobile en état d’ébriété et présente un taux d’alcool qualifié dans le sang ou dans l’haleine[^91-2];
+- a.[^91-2] conduit un véhicule automobile en état d’ébriété et présente un taux d’alcool qualifié dans le sang ou dans l’haleine;
 - b. conduit un véhicule automobile alors qu’il se trouve dans l’incapacité de conduire pour d’autres raisons.
 
 [^91-1]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^91-2]: La disp. sur le taux d’alcool dans l’haleine est applicable dès l’entrée en vigueur de l’art. 55, al. 3, 3<sup>bis</sup>, 6 et 6<sup>bis</sup> selon le ch. I de la LF du 15 juin 2012 ainsi que de l’O du 15 juin 2012 de l’Ass. féd. concernant les taux limites d’alcool admis en matière de circulation routière.
+[^91-2]: Mise à jour par le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ### Entrave aux mesures de constatation de l’incapacité de conduire
 
@@ -2457,7 +2497,7 @@ Est puni d’une peine privative de liberté de trois ans au plus ou d’une pei
 - d. effectue une course d’apprentissage sans être titulaire d’un permis d’élève conducteur ou sans être accompagné conformément aux prescriptions;
 - e. met un véhicule automobile à la disposition d’un conducteur dont il sait ou devrait savoir s’il avait prêté toute l’attention commandée par les circonstances qu’il n’est pas titulaire du permis requis.
 
-<sup>2</sup> Est puni d’une peine pécuniaire de 180 jours-amende au plus quiconque conduit un véhicule automobile alors que le permis de conduire à l’essai est échu.
+<sup>2</sup> Est puni d’une peine pécuniaire quiconque conduit un véhicule automobile alors que le permis de conduire à l’essai est échu.[^95-2]
 
 <sup>3</sup>
 
@@ -2475,6 +2515,7 @@ Est puni de l’amende quiconque:
 - b. conduit un véhicule à traction animale alors que la conduite lui en a été interdite.
 
 [^95-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3267](https://fedlex.data.admin.ch/eli/oc/2011/428); [FF 2010 3579](https://fedlex.data.admin.ch/eli/fga/2010/629)[3589](https://fedlex.data.admin.ch/eli/fga/2010/631)).
+[^95-2]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ### Conduite sans permis de circulation, sans autorisation ou sans assurance-responsabilité civile
 
@@ -2558,10 +2599,11 @@ Est puni de l’amende quiconque:
 - b. fournit à titre onéreux un service avertissant de tels contrôles;
 - c. utilise, aux fins mentionnées, des appareils ou des dispositifs qui ne sont pas destinés à avertir de contrôles officiels du trafic.
 
-<sup>4</sup> Dans les cas graves, la peine est une peine pécuniaire de 180 jours-amende au plus.
+<sup>4</sup> Dans les cas graves, la sanction est une peine pécuniaire.[^98a-3]
 
 [^98a-1]: Introduit par le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^98a-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^98a-3]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ### Autres infractions
 
@@ -2580,7 +2622,7 @@ Est puni de l’amende celui qui:
 - e. fait usage, sans droit, des attributs servant à reconnaître la police de la circulation;
 - f. emploie, sans droit, un haut-parleur monté sur un véhicule automobile;
 - g. organise, sans droit, des manifestations sportives automobiles ou de cycles, effectue des courses d’essai ou ne prend pas les mesures de sécurité prescrites lors de manifestations autorisées de ce type;
-- [tab] h. à j.[^99-2] ...
+- [tab] h. à j.[^99-2] …
 
 <sup>2</sup> Le détenteur qui, après avoir repris d’un autre détenteur un véhicule automobile ou sa remorque, ou en avoir transféré le lieu de stationnement d’un canton dans un autre, ne sollicite pas à temps un nouveau permis de circulation est puni d’une amende de 100 francs au plus.
 
@@ -2601,11 +2643,15 @@ Lorsque, pour l’acte commis, la loi ne prévoit que l’amende, le juge pourra
 
 <sup>3.</sup> La personne qui accompagne un élève conducteur sera responsable des actes punissables commis lors de courses d’apprentissage, lorsqu’elle viole les obligations qui lui incombent en vertu de sa fonction. L’élève conducteur sera responsable des contraventions qu’il aurait pu éviter suivant le degré de son instruction.
 
-<sup>4.</sup> Si le conducteur d’un véhicule du service du feu, du service de santé, de la police ou de la douane enfreint les règles de la circulation ou des mesures spéciales relatives à la circulation lors d’une course officielle urgente ou nécessaire pour des raisons tactiques, il n’est pas punissable s’il fait preuve de la prudence imposée par les circonstances. Lors de courses officielles urgentes, le conducteur n’est pas punissable uniquement s’il a donné les signaux d’avertissement nécessaires; il n’est exceptionnellement pas nécessaire de donner ces signaux d’avertissement si ceux-ci compromettent l’accomplissement de la tâche légale. Si le conducteur n’a pas fait preuve de la prudence imposée par les circonstances ou s’il n’a pas donné les signaux d’avertissement nécessaires lors d’une course officielle urgente, la peine peut être atténuée.[^100-3]
+<sup>4.</sup> Si le conducteur d’un véhicule du service du feu, du service de santé, de la police ou de la douane enfreint les règles de la circulation ou des mesures spéciales relatives à la circulation lors d’une course officielle urgente ou nécessaire pour des raisons tactiques, il n’est pas punissable s’il fait preuve de la prudence imposée par les circonstances. Lors de courses officielles urgentes, le conducteur n’est pas punissable uniquement s’il a donné les signaux d’avertissement nécessaires; il n’est exceptionnellement pas nécessaire de donner ces signaux d’avertissement si ceux-ci compromettent l’accomplissement de la tâche légale. Si le conducteur n’a pas fait preuve de la prudence imposée par les circonstances ou s’il n’a pas donné les signaux d’avertissement nécessaires lors d’une course officielle urgente, il reste punissable, mais la peine doit être atténuée.[^100-3] [^100-4]
+
+<sup>5.</sup> En cas d’excès de vitesse commis lors de courses officielles urgentes ou nécessaires pour des raisons tactiques, seule est prise en considération la différence par rapport à la vitesse qui aurait été appropriée pour l’intervention.[^100-5]
 
 [^100-1]: Nouvelle teneur de la phrase selon le ch. I de la LF du 14 déc. 2001, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); FF **1999** 4106).
 [^100-2]: Nouvelle teneur de la phrase selon le ch. I de la LF du 20 mars 1975, en vigueur depuis le 1<sup>er</sup> août 1975 ([RO 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1141](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
-[^100-3]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
+[^100-3]: Nouvelle teneur de la phrase selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^100-4]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
+[^100-5]: Introduit par le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ### Infractions commises à l’étranger
 
@@ -2672,7 +2718,7 @@ Lorsque, pour l’acte commis, la loi ne prévoit que l’amende, le juge pourra
 
 <sup>2</sup> Tout véhicule dont le lieu de stationnement est transféré d’un canton dans un autre peut être imposé par ce dernier dès le jour où il est muni du permis de circulation et des plaques de contrôle, ou aurait dû l’être. Le canton dans lequel il était stationné auparavant remboursera les impôts qu’il aura perçus pour la période postérieure à ce jour.[^105-1]
 
-<sup>3</sup> ...[^105-2]
+<sup>3</sup> …[^105-2]
 
 <sup>4</sup> Les cantons peuvent imposer les véhicules automobiles de la Confédération dans la mesure où ils ne sont pas employés à son service. Les cycles de la Confédération sont exonérés de tout impôt ou taxe.
 
@@ -2691,28 +2737,31 @@ Lorsque, pour l’acte commis, la loi ne prévoit que l’amende, le juge pourra
 
 <sup>2</sup> Pour le reste, les cantons sont chargés de l’exécution de la présente loi. Ils prennent les mesures nécessaires à cet effet et désignent les autorités cantonales compétentes.
 
+<sup>2bis</sup> Le Conseil fédéral peut habiliter l’OFROU à autoriser, dans des cas particuliers, des dérogations à des dispositions d’ordonnance.[^106-2]
+
 <sup>3</sup> Les cantons restent compétents pour édicter des prescriptions complémentaires sur la circulation routière, sauf en ce qui concerne les véhicules automobiles et les cycles, les tramways et chemins de fer routiers.
 
-<sup>4</sup> Le Conseil fédéral peut soumettre à des spécialistes ou à des commissions d’experts certaines questions touchant l’application de la présente loi. ...[^106-2].
+<sup>4</sup> Le Conseil fédéral peut soumettre à des spécialistes ou à des commissions d’experts certaines questions touchant l’application de la présente loi. …[^106-3].
 
 <sup>5</sup> Jusqu’au moment où des dispositions légales auront été prises en la matière, le Conseil fédéral peut prendre provisoirement les mesures nécessaires que commandent les progrès techniques dans le domaine de la circulation routière et celles qui s’imposent pour l’application d’accords internationaux.
 
 <sup>6</sup> À l’égard des personnes jouissant des privilèges et immunités diplomatiques, le Conseil fédéral peut régler différemment la compétence des autorités et prévoir d’autres dérogations à la présente loi, lorsqu’elles découlent des usages internationaux.
 
-<sup>7</sup> ...[^106-3]
+<sup>7</sup> …[^106-4]
 
-<sup>8</sup> Le Conseil fédéral peut interdire, contingenter, faire dépendre d’une autorisation ou soumettre à d’autres restrictions les courses de véhicules étrangers en provenance de pays qui ordonnent de telles mesures à l’égard des véhicules ou des conducteurs suisses, ou qui appliquent à ceux-ci des prescriptions de circulation plus sévères qu’à leurs propres véhicules et conducteurs.[^106-4]
+<sup>8</sup> Le Conseil fédéral peut interdire, contingenter, faire dépendre d’une autorisation ou soumettre à d’autres restrictions les courses de véhicules étrangers en provenance de pays qui ordonnent de telles mesures à l’égard des véhicules ou des conducteurs suisses, ou qui appliquent à ceux-ci des prescriptions de circulation plus sévères qu’à leurs propres véhicules et conducteurs.[^106-5]
 
-<sup>9</sup> ...[^106-5]
+<sup>9</sup> …[^106-6]
 
-<sup>10</sup> Le Conseil fédéral peut soumettre à autorisation certains travaux sur des véhicules, dans la mesure où la sécurité routière ou la protection de l’environnement l’exigent. Il fixe les conditions de l’octroi des autorisations et règle la surveillance.[^106-6]
+<sup>10</sup> Le Conseil fédéral peut soumettre à autorisation certains travaux sur des véhicules, dans la mesure où la sécurité routière ou la protection de l’environnement l’exigent. Il fixe les conditions de l’octroi des autorisations et règle la surveillance.[^106-7]
 
 [^106-1]: Nouvelle teneur de la phrase selon le ch. I de la LF du 14 déc. 2001, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 4106).
-[^106-2]: 2<sup>e</sup> et 3<sup>e</sup> phrases abrogées par le ch. I de la LF du 14 déc. 2001, avec effet au 1<sup>er</sup> avr. 2003 ([RO 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 4106).
-[^106-3]: Abrogé par le ch. I de la LF du 15 juin 2012, avec effet au 1<sup>er</sup> janv. 2013 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^106-4]: Introduit par le ch. I de la LF du 20 mars 1975, en vigueur depuis le 1<sup>er</sup> août 1975 ([RO 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1141](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
-[^106-5]: Introduit par le ch. I de la LF du 6 oct. 1989, en vigueur depuis le 1<sup>er</sup> fév. 1991 ([RO 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 197](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)). Abrogé par le ch. I de la LF du 15 juin 2012, avec effet au 1<sup>er</sup> janv. 2013 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^106-6]: Introduit par le ch. I de la LF du 18 juin 1993, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1993 3330](https://fedlex.data.admin.ch/eli/oc/1993/3330_3330_3330), [1994 815](https://fedlex.data.admin.ch/eli/oc/1994/815_815_815); [FF 1993 I 757](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
+[^106-2]: Introduit par le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^106-3]: 2<sup>e</sup> et 3<sup>e</sup> phrases abrogées par le ch. I de la LF du 14 déc. 2001, avec effet au 1<sup>er</sup> avr. 2003 ([RO 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 4106).
+[^106-4]: Abrogé par le ch. I de la LF du 15 juin 2012, avec effet au 1<sup>er</sup> janv. 2013 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^106-5]: Introduit par le ch. I de la LF du 20 mars 1975, en vigueur depuis le 1<sup>er</sup> août 1975 ([RO 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1141](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
+[^106-6]: Introduit par le ch. I de la LF du 6 oct. 1989, en vigueur depuis le 1<sup>er</sup> fév. 1991 ([RO 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 197](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)). Abrogé par le ch. I de la LF du 15 juin 2012, avec effet au 1<sup>er</sup> janv. 2013 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^106-7]: Introduit par le ch. I de la LF du 18 juin 1993, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1993 3330](https://fedlex.data.admin.ch/eli/oc/1993/3330_3330_3330), [1994 815](https://fedlex.data.admin.ch/eli/oc/1994/815_815_815); [FF 1993 I 757](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
 
 ### Traités internationaux
 
