@@ -4,13 +4,13 @@ number: "126.3"
 title: Gesamtarbeitsvertrag
 short: GAV
 language: de
-version: 2023-08-01
-valid_until: 2023-09-30
-version_adopted: 2023-07-04
+version: 2023-10-01
+valid_until: 2023-11-30
+version_adopted: 2023-09-26
 adopted: 2004-10-25
 in_force: 2005-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/126.3"
-pdf: "https://bgs.so.ch/api/de/versions/5387/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5407/pdf_file"
 text: pdf
 ---
 
@@ -18,7 +18,7 @@ text: pdf
 
 # Gesamtarbeitsvertrag (GAV)
 
-vom 25. Oktober 2004 (Stand 1. August 2023)
+vom 25. Oktober 2004 (Stand 1. Oktober 2023)
 
 zwischen dem Kanton Solothurn vertreten durch den Regierungsrat
 
@@ -662,13 +662,16 @@ gen.
 
 - c) während der Schwangerschaft sowie 16 Wochen nach der Niederkunft einer Arbeitnehmerin;
 
-- d) während ein Arbeitnehmer oder eine Arbeitnehmerin mit Zustimmung des Arbeitgebers an einer von der zuständigen Bundes- oder Kantonsbehörde angeordneten Dienstleistung für eine Hilfsaktion im Ausland teilnimmt.
+c<sup>bis</sup>) vor dem Ende des verlängerten Mutterschaftsurlaubs nach § 190 Absatz 2<sup>ter</sup> GAV;[^44-1] c<sup>ter</sup>) solange der Anspruch auf Betreuungsurlaub nach § 114<sup>bis</sup> GAV besteht, längstens aber während 6 Monaten ab dem Tag, an dem die Rahmenfrist zu laufen beginnt;[^44-2] d) während ein Arbeitnehmer oder eine Arbeitnehmerin mit Zustimmung des Arbeitgebers an einer von der zuständigen Bundes- oder Kantonsbehörde angeordneten Dienstleistung für eine Hilfsaktion im Ausland teilnimmt.
 
 <sup>2</sup> Die Kündigung, die während einer in Absatz 1 festgesetzten Sperrfrist erklärt wird, ist nichtig.
 
 <sup>3</sup> Erfolgt die Kündigung vor Beginn einer solchen Frist und ist die Kündigungsfrist bis dahin noch nicht abgelaufen, so wird deren Ablauf unterbrochen und erst nach Beendigung der Sperrfrist fortgesetzt.
 
 <sup>4</sup> Gilt für die Beendigung des Arbeitsverhältnisses ein Endtermin, wie z.B. das Ende eines Monats, und fällt dieser nicht mit dem Ende der fortgesetzten Kündigungsfrist zusammen, so verlängert sich diese bis zum nächstfolgenden Endtermin.
+
+[^44-1]: § 44 Absatz 1 Buchstabe cbis eingefügt am 26. September 2023.
+[^44-2]: § 44 Absatz 1 Buchstabe cter eingefügt am 26. September 2023.
 
 #### § 45
 
@@ -1560,7 +1563,9 @@ Die Arbeitnehmenden haben Anspruch auf bezahlten Urlaub in folgendem Umfang:
 
 <sup>3</sup> …[^114-1]
 
-<sup>4</sup> Für die notwendige Betreuung von im gleichen Haushalt lebenden erkrankten oder verunfallten Personen (insbesondere Kinder, Ehepartner, Lebenspartner), die benötigte Zeit, jedoch höchstens 2 Tage pro Fall;
+<sup>4</sup> Für die notwendige Betreuung von erkrankten oder verunfallten Familienmitgliedern (insbesondere Eltern, Ehepartner), der Lebenspartnerin oder des Lebenspartners, die benötigte Zeit, jedoch höchstens 3 Tage pro Fall und maximal 10 Tage pro Kalenderjahr. Der Urlaub kann am Stück oder tageweise oder wenn betrieblich möglich stundenweise bezogen werden.[^114-2]
+
+<sup>4bis</sup> Für die notwendige Betreuung von erkrankten oder verunfallten Kindern die benötigte Zeit, jedoch höchstens 3 Tage pro Fall. Der Urlaub kann am Stück oder tageweise oder wenn betrieblich möglich stundenweise bezogen werden.[^114-3]
 
 <sup>5</sup> Todesfälle:
 
@@ -1579,6 +1584,23 @@ Die Arbeitnehmenden haben Anspruch auf bezahlten Urlaub in folgendem Umfang:
 <sup>8</sup> Für Vorstellungsgespräche, wenn das Anstellungsverhältnis durch den Arbeitgeber aufgelöst wurde, die benötigte Zeit, jedoch höchstens einen halben Tag pro Woche.
 
 [^114-1]: § 114 Absatz 3 aufgehoben am 15. Dezember 2020.
+[^114-2]: § 114 Absatz 4 Fassung vom 26. September 2023.
+[^114-3]: § 114 Absatz 4bis eingefügt am 26. September 2023.
+[^114-4]: § 114bis eingefügt am 26. September 2023.
+
+#### § 114bis
+
+**Betreuungsurlaub[^114-4]**
+
+<sup>1</sup> Solange die Arbeitnehmenden Anspruch auf eine Betreuungsentschädigung nach den Artikeln 16n-16s Bundesgesetz über den Erwerbsersatz (Erwerbsersatzgesetz, EOG, SR 834.1) haben, weil ihr Kind wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigt ist, haben sie Anspruch auf einen Betreuungsurlaub von höchstens 14 Wochen.
+
+<sup>2</sup> Der Betreuungsurlaub ist innerhalb einer Rahmenfrist von 18 Monaten zu beziehen. Die Rahmenfrist beginnt mit dem Tag, für den das erste Taggeld bezogen wird.
+
+<sup>3</sup> Sind beide Eltern Arbeitnehmende, so hat jeder Elternteil Anspruch auf einen Betreuungsurlaub von höchstens 7 Wochen. Sie können eine abweichende Aufteilung des Urlaubs wählen.
+
+<sup>4</sup> Der Urlaub kann am Stück oder tageweise bezogen werden.
+
+<sup>5</sup> Der Arbeitgeber ist über die Modalitäten des Urlaubsbezugs sowie über Änderungen unverzüglich zu informieren.
 
 #### § 115
 
@@ -1642,13 +1664,15 @@ Arbeitnehmende haben für Tätigkeiten in Personalverbänden Anspruch auf besold
 
 <sup>2</sup> Allfällige Erwerbsausfallentschädigungen fallen an den Arbeitgeber, soweit besoldeter Urlaub für den ganzen Kurs in Anspruch genommen wird.
 
-[^120-1]: § 121 Fassung vom 15. Dezember 2020.
+[^120-1]: § 121 Fassung vom 26. September 2023.
 
 #### § 121
 
 **Maximale jährliche Urlaubsdauer**[^120-1]
 
-Je Kalenderjahr dürfen höchstens 20 besoldete Urlaubstage (einschliesslich Urlaube zur Ausübung öffentlicher Ämter) gewährt werden. Die Urlaube aus persönlichen und familiären Gründen (§ 114 GAV) und der Mutterschafts- sowie Vaterschaftsurlaub (§ 190 ff. GAV) bleiben für die Berechnung der maximalen Urlaubsdauer unberücksichtigt.
+### Je Kalenderjahr dürfen höchstens 20 besoldete Urlaubstage (einschliesslich Urlaube zur Ausübung öffentlicher Ämter) gewährt werden. Die Urlaube
+
+aus persönlichen und familiären Gründen (§ 114 GAV), infolge Betreuungsurlaub (§ 114<sup>bis</sup> GAV) und der Mutterschaft- sowie Vaterschaftsurlaub (§ 190 ff. GAV) bleiben für die Berechnung der maximalen Urlaubsdauer unberücksichtigt.
 
 3.2. Unbezahlter Urlaub
 
@@ -1686,18 +1710,19 @@ Je Kalenderjahr dürfen höchstens 20 besoldete Urlaubstage (einschliesslich Url
 
 <sup>1</sup> Wird der unbezahlte Urlaub bewilligt, so führt dies zu einer anteilsmässigen Kürzung des 13. Monatslohnes sowie einer Kürzung der Ferien im Verhältnis dieses Urlaubs zum Kalenderjahr.
 
-<sup>2</sup> Die Nichtberufsunfallversicherung ruht nach 31 Tagen ab Urlaubsbeginn. Diese kann durch eine Abredeversicherung von dem oder der Arbeitnehmenden für maximal 6 Monate weitergeführt werden (§ 3 des Bundesgesetzes über die Unfallversicherung (UVG) vom 20. März 1981[^125-1].[^125-1]
+<sup>2</sup> Die Nichtberufsunfallversicherung ruht nach 31 Tagen ab Urlaubsbeginn. Diese kann durch eine Abredeversicherung von dem oder der Arbeitnehmenden für maximal 6 Monate weitergeführt werden (§ 3 des Bundesgesetzes über die Unfallversicherung (UVG) vom 20. März 1981[^125-1].[^125-2]
 
 <sup>3</sup> Erkrankung oder Unfall während des unbezahlten Urlaubes begründen weder den Abbruch des Urlaubes noch die Ausrichtung von Lohn.
 
-- c. Lohn, Kinderzulage, Spesenentschädigung und Treuprämie[^125-2]
+- c. Lohn, Kinderzulage, Spesenentschädigung und Treuprämie[^125-3]
 
 - 1\. Lohn
 
 1.1. Bestandteile
 
 [^125-1]: SR 832.20.
-[^125-2]: Titel Fassung vom 6. Dezember 2005.
+[^125-2]: § 125 Absatz 2 Fassung vom 18. Juni 2019.
+[^125-3]: Titel Fassung vom 6. Dezember 2005.
 
 #### § 126
 
@@ -2067,7 +2092,7 @@ Bedeutet die Benützung des privaten Personenwagens gegenüber den öffentlichen
 
 - b) 55 Rappen für jeden weiteren Kilometer.[^161-2]
 
-[^161-1]: § 161 Buchstabe a Fassung vom 27. Januar 2009.
+[^161-1]: § 157 Absatz 1 aufgehoben am 12. März 2013.
 [^161-2]: § 161 Buchstabe b Fassung vom 27. Januar 2009.
 
 #### § 162
@@ -2123,9 +2148,7 @@ Die Entschädigung beträgt für die Benützung von a) Motorrädern 35 Rappen pr
 
 - e) Zeit der Abreise und der Rückkehr.
 
-<sup>2</sup> Die Dienststellen prüfen die Rechnungen und weisen sie zurück, wenn sie den vorgängigen Bestimmungen widersprechen.[^165-1]
-
-2.3. Entschädigung für Telefonkosten
+<sup>2</sup> Die Dienststellen prüfen die Rechnungen und weisen sie zurück, wenn sie den vorgängigen Bestimmungen widersprechen.[^165-1] 2.3. Entschädigung für Telefonkosten
 
 [^165-1]: § 165 Absatz 2 Fassung vom 30. August 2022.
 
@@ -2159,9 +2182,7 @@ Die Entschädigung für die Gesprächstaxen wird mit besonderem Formular geltend
 
 - b) Für Unterstände im privatem Eigentum: 80 Franken;
 
-- c) Bei Zumietung eines Garagenplatzes: die effektive Miete. Der Mietvertrag muss vor Abschluss durch die Dienststelle genehmigt werden.[^167-3]
-
-167<sup>quater</sup>. Private Fahrten
+- c) Bei Zumietung eines Garagenplatzes: die effektive Miete. Der Mietvertrag muss vor Abschluss durch die Dienststelle genehmigt werden.[^167-3] 167<sup>quater</sup>. Private Fahrten
 
 <sup>1</sup> Dienstfahrzeuge können ausnahmsweise gegen Entschädigung für private Fahrten benützt werden, sofern das Fahrzeug nicht anderweitig zu dienstlichen Zwecken zur Verfügung stehen muss.
 
@@ -2184,7 +2205,7 @@ Die Entschädigung für die Gesprächstaxen wird mit besonderem Formular geltend
 3.1. Bezahlter Urlaub
 
 [^167-1]: Kapitel 2.4. §§ 167bis-167sexies eingefügt am 12. März 2007.
-[^167-2]: § 169 Absatz 3 angefügt am 12. März 2007.
+[^167-2]: § 161 Buchstabe b Fassung vom 27. Januar 2009.
 [^167-3]: § 167ter Absatz 4 eingefügt am 30. August 2022.
 
 #### § 168
@@ -2509,7 +2530,16 @@ Die vorstehenden Bestimmungen gelten auch für die weiblichen Arbeitnehmenden, d
 
 - b) ab dem 3. Dienstjahr wie beim unbefristeten Anstellungsverhältnis.[^190-2]
 
-<sup>2bis</sup> Solange die Anspruchsberechtigte bezahlten Mutterschaftsurlaub erhält, darf sie keine Mutterschaftsentschädigung im Sinne von Artikel 17 Absatz 1 Buchstabe b Bundesgesetz über den Erwerbsersatz für Dienstleistende, bei Mutterschaft und bei Vaterschaft (Erwerbsersatzgesetz, EOG, SR 834.1) geltend machen.[^190-3]
+<sup>2bis</sup> Solange die Anspruchsberechtigte bezahlten Mutterschaftsurlaub erhält, darf sie keine Mutterschaftsentschädigung im Sinne von Artikel 17
+
+[^190-1]: § 190 Absatz 1 Fassung vom 4. November 2008.
+[^190-2]: § 190 Absatz 2 Fassung vom 6. Dezember 2005.
+
+### Absatz 1 Buchstabe b Bundesgesetz über den Erwerbsersatz (Erwerbser-
+
+satzgesetz, EOG, SR 834.1) geltend machen.[^hAbsatz1Buchstabeb-1]
+
+<sup>2ter</sup> Bei Hospitalisierung des Neugeborenen verlängert sich der Mutterschaftsurlaub um die verlängerte Dauer der Ausrichtung der Mutterschaftsentschädigung.[^hAbsatz1Buchstabeb-2]
 
 <sup>3</sup> Der Anspruch auf bezahlten Mutterschaftsurlaub erlischt in jedem Fall am Ende des Anstellungsverhältnisses.
 
@@ -2517,11 +2547,20 @@ Die vorstehenden Bestimmungen gelten auch für die weiblichen Arbeitnehmenden, d
 
 <sup>5</sup> Wechselt die Arbeitnehmende während des Mutterschaftsurlaubs die Stelle, so dauert dieser an, sofern der Stellenwechsel ohne Unterbruch und innerhalb des Geltungsbereichs dieses GAV stattfindet.
 
-§ 190<sup>bis</sup>.[^190-4] Anspruch bei Vaterschaft
+§ 190<sup>bis</sup>.[^hAbsatz1Buchstabeb-3] Anspruch bei Vaterschaft
 
 <sup>1</sup> Der rechtliche Vater hat Anspruch auf einen bezahlten Vaterschaftsurlaub von 10 Arbeitstagen.
 
-<sup>2</sup> Solange der Anspruchsberechtigte bezahlten Vaterschaftsurlaub erhält, darf er keine Vaterschaftsentschädigung im Sinne von Artikel 17 Absatz 1 Buchstabe b Bundesgesetz über den Erwerbsersatz für Dienstleistende, bei Mutterschaft und bei Vaterschaft (Erwerbsersatzgesetz, EOG, SR 834.1) geltend machen.
+<sup>2</sup> Solange der Anspruchsberechtigte bezahlten Vaterschaftsurlaub erhält, darf er keine Vaterschaftsentschädigung im Sinne von Artikel 17 Absatz 1 Buchstabe b Bundesgesetz über den Erwerbsersatz (Erwerbsersatzgesetz,
+
+[^hAbsatz1Buchstabeb-1]: § 190 Absatz 2bis Fassung vom 26. September 2023.
+[^hAbsatz1Buchstabeb-2]: § 190 Absatz 2ter eingefügt am 26. September 2023.
+[^hAbsatz1Buchstabeb-3]: § 190bis eingefügt am 15. Dezember 2020.
+[^hAbsatz1Buchstabeb-4]: § 190bis Absatz 2 Fassung vom 26. September 2023.
+
+### EOG, SR 834.1) geltend machen.
+
+[^hAbsatz1Buchstabeb-4]
 
 <sup>3</sup> Der Anspruch auf bezahlten Vaterschaftsurlaub endet:
 
@@ -2539,16 +2578,12 @@ Die vorstehenden Bestimmungen gelten auch für die weiblichen Arbeitnehmenden, d
 
 <sup>5</sup> Wechselt der Arbeitnehmende während des Vaterschaftsurlaubs die Stelle, so dauert dieser an, sofern der Stellenwechsel ohne Unterbruch und innerhalb des Geltungsbereichs dieses GAV stattfindet.
 
-[^190-1]: § 190 Absatz 1 Fassung vom 4. November 2008.
-[^190-2]: § 190 Absatz 2 Fassung vom 6. Dezember 2005.
-[^190-3]: § 190 Absatz 2bis Fassung vom 15. Dezember 2020.
-[^190-4]: § 190bis eingefügt am 15. Dezember 2020.
-[^190-5]: § 191 Fassung vom 6. Dezember 2005.
-[^190-6]: Sachüberschrift Fassung vom 15. Dezember 2020.
+[^hEOGSR8341gelte-1]: § 191 Fassung vom 6. Dezember 2005.
+[^hEOGSR8341gelte-2]: Sachüberschrift Fassung vom 15. Dezember 2020.
 
 #### § 191
 
-**Beginn und Dauer des Mutterschaftsurlaubs[^190-6]**[^190-5]
+**Beginn und Dauer des Mutterschaftsurlaubs[^hEOGSR8341gelte-2]**[^hEOGSR8341gelte-1]
 
 <sup>1</sup> Der Mutterschaftsurlaub beginnt mit der Niederkunft.
 
@@ -3605,17 +3640,13 @@ Der Grundlohn für soziales und medizinisches Personal beträgt für Mitarbeiten
 
 Die ersten 10 Erfahrungsanstiege für soziales und medizinisches Personal mit Stellenantritt vor dem 1. Januar 2016 betragen 3%, die nächsten zwei Erfahrungsanstiege 2,5% und die weiteren Erfahrungsanstiege 1,25%. Für Mitarbeitende mit Stellenantritt ab dem 1. Januar 2016 gilt der Erfahrungszuschlag nach § 133 GAV.
 
-### NB AT Anhang 2 AHV-Ersatzrente (§ 203 ff. GAV)
+**LK**
 
-[^hNBATAnhang2AHVE-1]: § 245 Fassung vom 24. Oktober 2016.
+**Anstieg 2,5% Anstieg 1,25%**
 
-#### §245
+LK Erfahrungsstufen Anstieg 3,5% E0 E1 E2 E3 E4 E5 E6 E7 E8 E9 E10 E11 E12 E13 E14 1 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 1 2 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 2 3 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 3 4 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 4 5 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 5 6 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 6 7 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 7 8 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 8 9 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 9 10 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 10 11 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 11 12 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 12 13 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 99.3% 98.3% 97.3% 96.3% 95.3% 94.3% 13 14 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 98.8% 96.7% 95.7% 94.6% 93.6% 92.6% 91.5% 90.5% 89.4% 88.4% 14 15 100% 100% 100% 100% 100% 100% 100% 100% 100% 98.3% 95.2% 93.0% 90.8% 89.7% 88.6% 87.5% 86.4% 85.3% 84.2% 83.1% 82.0% 15 16 100% 100% 100% 100% 100% 100% 100% 98.9% 95.7% 92.5% 89.2% 86.9% 84.6% 83.4% 82.3% 81.1% 80.0% 78.8% 77.7% 76.5% 75.3% 16 17 100% 100% 100% 100% 100% 99.9% 96.5% 93.1% 89.7% 86.3% 82.9% 80.5% 78.0% 76.8% 75.6% 74.4% 73.2% 72.0% 70.7% 69.5% 68.3% 17 18 100% 100% 100% 100% 97.7% 94.1% 90.5% 87.0% 83.4% 79.8% 76.2% 73.7% 71.1% 69.8% 68.6% 67.3% 66.0% 64.7% 63.5% 62.2% 60.9% 18 19 100% 100% 99.3% 95.5% 91.8% 88.0% 84.3% 80.5% 76.7% 73.0% 69.2% 66.6% 63.9% 62.5% 61.2% 59.8% 58.5% 57.2% 55.8% 54.5% 53.1% 19 20 100% 97.4% 93.5% 89.5% 85.6% 81.6% 77.7% 73.8% 69.8% 65.9% 61.9% 59.1% 56.3% 54.9% 53.5% 52.0% 50.6% 49.2% 47.8% 46.4% 45% 20 21 95.7% 91.5% 87.4% 83.3% 79.1% 75.0% 70.8% 66.7% 62.5% 58.4% 54.2% 51.3% 48.3% 46.8% 45.4% 45.0% 45.0% 45.0% 45.0% 45.0% 45% 21 22 89.8% 85.4% 81.0% 76.7% 72.3% 68.0% 63.6% 59.3% 54.9% 50.6% 46.2% 45.0% 45.0% 45.0% 45.0% 45.0% 45.0% 45.0% 45.0% 45.0% 45% 22 23 83.6% 79.0% 74.4% 69.9% 65.3% 60.7% 56.1% 51.6% 47.0% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 23 24 77.1% 72.3% 67.5% 62.7% 57.9% 53.1% 48.3% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 24 25 70.4% 65.3% 60.3% 55.3% 50.2% 45.2% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 25 26 63.4% 58.1% 52.8% 47.5% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 26 27 56.1% 50.6% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 27 28 48.5% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 28 29 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 29 30 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 30 31 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 31
 
-**Berechnung der AHV-Ersatzrente[^hNBATAnhang2AHVE-1]**
-
-### Die AHV-Ersatzrente berechnet sich wie folgt: Jahresbruttolohn inkl. 13 Mo-
-
-natslohn und unkl. Teuerungszulagen ohne Leistungsbonus.
+**E15 E16 E17 E18 E19 E20**
 
 ### Normative Bestimmungen, Besonderer Teil: I. Spitäler (NB BT Spitäler)
 
@@ -5224,7 +5255,9 @@ Die formelle Anzeige bei sexueller Belästigung oder Mobbing nach § 221 und 234
 
 <sup>1</sup> § 359 bis 366 GAV (Altersentlastung) treten am 1. Februar 2005 in Kraft.
 
-<sup>2</sup> § 372 bis 375 GAV (Zusatzlektionen) treten am 1. Februar 2005 in Kraft. Die Entschädigung für Zusatzstunden, die vor dem 1. Februar 2005 geleistet worden sind, richtet sich nach den bisher geltenden Bestimmungen (LehrerbesoldungsVO, KRB vom 17. Mai 1995; BGS 126.515.851.11). § 383<sup>bis</sup>.[^383-1] Übergangsbestimmung zur Änderung vom 20. Juni 2011 Für Lehrpersonen und Lehrbeauftragte in bereits bestehenden Anstellungsverhältnissen gilt:
+<sup>2</sup> § 372 bis 375 GAV (Zusatzlektionen) treten am 1. Februar 2005 in Kraft. Die Entschädigung für Zusatzstunden, die vor dem 1. Februar 2005 geleistet worden sind, richtet sich nach den bisher geltenden Bestimmungen (LehrerbesoldungsVO, KRB vom 17. Mai 1995; BGS 126.515.851.11).
+
+§ 383<sup>bis</sup>.[^383-1] Übergangsbestimmung zur Änderung vom 20. Juni 2011 Für Lehrpersonen und Lehrbeauftragte in bereits bestehenden Anstellungsverhältnissen gilt:
 
 - a) Für diejenigen, die die fachlichen oder pädagogischen Anforderungen nach neuem Recht nicht erfüllen, gilt die bisherige Einreihung weiter;
 
@@ -6135,9 +6168,7 @@ Der Besondere Teil Berufsschule regelt die Abweichungen und Ergänzungen gegenü
 
 <sup>2</sup> Soweit das Pensum oder ein Teil davon voraussichtlich nicht für mehr als zwei Jahre sichergestellt ist, wird im unbefristeten Vertrag der gesicherte Pensenteil (Sockelpensum) und ein darüber hinausgehender Pensenrahmen von höchstens fünf Lektionen (Maximalpensum) für den nicht gesicherten Pensenteil festgelegt.
 
-<sup>3</sup> Angeordnete Pensenerhöhungen im festgelegten Pensenrahmen werden wirksam, wenn die Lehrperson nicht innert 10 Tagen seit Erhalt der schriftlichen Mitteilung schriftlich ihren Verzicht auf die Erhöhung erklärt.
-
-§ 454<sup>bis</sup>.[^454-1] Befristete Anstellung
+<sup>3</sup> Angeordnete Pensenerhöhungen im festgelegten Pensenrahmen werden wirksam, wenn die Lehrperson nicht innert 10 Tagen seit Erhalt der schriftlichen Mitteilung schriftlich ihren Verzicht auf die Erhöhung erklärt. § 454<sup>bis</sup>.[^454-1] Befristete Anstellung
 
 <sup>1</sup> Lehrpersonen werden soweit befristet angestellt, als mit dem Pensenrahmen die Unsicherheit in der Pensenfestlegung nicht abgedeckt werden kann.
 
@@ -6996,12 +7027,13 @@ Inkrafttreten GAV am 1. Januar 2005 (§ 21).[^520-1]
 
 - 24\. Oktober 2022 am 1. August 2023;
 
-- 4\. Juli 2023 am 1. August 2023.
+- 4\. Juli 2023 am 1. August 2023;
+
+- 26\. September 2023 am 1. Oktober 2023.
 
 ## Weitere Fussnoten
 
-- [1] § 125 Absatz 2 Fassung vom 18. Juni 2019.
-- [3] § 167ter Absatz 3 eingefügt am 30. August 2022.
+- [1] § 161 Buchstabe a Fassung vom 27. Januar 2009.
 - [18] a
 - [2] Fassung vom 20. Juni 2011.
 - [3] Fassung vom 20. Juni 2011.
