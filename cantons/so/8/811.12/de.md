@@ -4,13 +4,13 @@ number: "811.12"
 title: Vollzugsverordnung zum Gesundheitsgesetz
 short: GesV
 language: de
-version: 2021-06-01
-valid_until: 2023-09-30
-version_adopted: 2021-03-16
+version: 2023-10-01
+valid_until: 2024-06-30
+version_adopted: 2023-06-06
 adopted: 2019-04-30
 in_force: 2019-09-01
 url: "https://bgs.so.ch/app/de/texts_of_law/811.12"
-pdf: "https://bgs.so.ch/api/de/versions/5082/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5394/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5082/pdf_file"
 
 (GesV)
 
-Vom 30.04.2019 (Stand 01.06.2021)
+Vom 30.04.2019 (Stand 01.10.2023)
 
 der Regierungsrat des Kantons Solothurn
 
@@ -178,17 +178,29 @@ beschliesst:
 
 **Stellvertretung**
 
-<sup>1</sup> Die Stellvertretung durch eine Person, die nicht bereits über eine Berufsausübungsbewilligung des Kantons Solothurn oder eines anderen Kantons verfügt, ist bewilligungspflichtig.
+<sup>1</sup> Die Stellvertretung durch eine Person, die nicht bereits über eine Berufsausübungsbewilligung des Kantons Solothurn oder eines anderen Kantons verfügt, ist grundsätzlich bewilligungspflichtig.
+
+<sup>1<sup>bis</sup></sup> Erfolgt die Stellvertretung durch angestellte Mitarbeitende der gleichen Berufsgattung im Sinne von § 10 Absatz 1, ist sie während einer Abwesenheit von bis zu höchstens 90 Arbeitstagen pro Jahr ohne Bewilligung zulässig.
 
 <sup>2</sup> Erfolgt die Stellvertretung durch eine Person, die bereits über eine Berufsausübungsbewilligung des Kantons Solothurn oder eines anderen Kantons verfügt, genügt eine Meldung an das Gesundheitsamt mit den Angaben über die Personalien und die Zeitdauer der Vertretung. Bei Personen mit einer Berufsausübungsbewilligung eines anderen Kantons ist zusätzlich die betreffende Bewilligung einzureichen.
 
-<sup>3</sup> Inhaber und Inhaberinnen von Berufsausübungsbewilligungen, die sich vertreten lassen, sind verpflichtet, dem Gesundheitsamt den Beginn und das Ende der Stellvertretungen zu melden.
+<sup>3</sup> …
 
 #### § 10
 
 **Angestellte Mitarbeitende der gleichen Berufsgattung**
 
-<sup>1</sup> Angestellte Mitarbeitende der gleichen Berufsgattung haben die Voraussetzungen für die Ausübung der betreffenden Tätigkeit in eigener fachlicher Verantwortung zu erfüllen. Ärzte und Ärztinnen, Chiropraktoren und Chriropraktorinnen sowie Apotheker und Apothekerinnen, die sich zwecks Weiterbildung anstellen lassen, haben lediglich die Voraussetzungen gemäss den Artikeln 15 und 36 Absätze 1 und 3 MedBG[^10-1] zu erfüllen.
+<sup>1</sup> Angestellte Mitarbeitende der gleichen Berufsgattung haben grundsätzlich die Voraussetzungen für die Ausübung der betreffenden Tätigkeit in eigener fachlicher Verantwortung zu erfüllen.
+
+<sup>1<sup>bis</sup></sup> Ärzte und Ärztinnen, Chiropraktoren und Chiropraktorinnen sowie Apotheker und Apothekerinnen, die sich zwecks Weiterbildung anstellen lassen, haben lediglich die Voraussetzungen nach den Artikeln 15 und 36 Absätze 1 und 3 MedBG[^10-1] zu erfüllen.
+
+<sup>1<sup>ter</sup></sup> Liegen wichtige Gründe vor, kann das Gesundheitsamt namens des Departements des Innern ausnahmsweise die Anstellung von Personen, die einen universitären Medizinalberuf unter fachlicher Aufsicht ausüben möchten und über ein nicht anerkennbares ausländisches, im Medizinalberuferegister eingetragenes Diplom verfügen, befristet und unter Auflagen bewilligen.
+
+<sup>1<sup>quater</sup></sup> Für folgende angestellte Mitarbeitende der gleichen Berufsgattung ist ein eidgenössisches Fähigkeitszeugnis ausreichend:
+
+- a) Augenoptiker und Augenoptikerinnen;
+- b) Drogisten und Drogistinnen;
+- c) Podologen und Podologinnen, sofern sie keine Leistungen zulasten der obligatorischen Krankenpflegeversicherung erbringen.
 
 <sup>2</sup> Inhaber und Inhaberinnen von Berufsausübungsbewilligungen sind vor der Anstellung von Mitarbeitenden der gleichen Berufsgattung verpflichtet, eingehend zu prüfen, ob diese:
 
@@ -199,26 +211,26 @@ beschliesst:
 
 <sup>3</sup> Sie haben dafür zu sorgen, dass ihre angestellten Mitarbeitenden der gleichen Berufsgattung ordnungsgemäss in ihre Berufshaftpflichtversicherung miteingeschlossen werden.
 
-<sup>4</sup> Die Anstellungen gemäss § 15 Absatz 3 GesG[^10-2] haben sich für Ärzte und Ärztinnen, Zahnärzte und Zahnärztinnen, Chiropraktoren und Chiropraktorinnen, Apotheker und Apothekerinnen sowie Tierärzte und Tierärztinnen auf höchstens 4 Stellen und 200 Stellenprozente und für die übrigen Tätigkeiten auf höchstens 8 Stellen und 400 Stellenprozente zu beschränken. Die Inhaber und Inhaberinnen von Berufsausübungsbewilligungen haben dem Gesundheitsamt die Anstellung von Mitarbeitenden der gleichen Berufsgattung sowie Beschäftigungsgrad und -dauer umgehend zu melden.
+<sup>4</sup> Die Anstellungen gemäss § 15 Absatz 3 GesG[^10-2] haben sich für Ärzte und Ärztinnen, Zahnärzte und Zahnärztinnen, Chiropraktoren und Chiropraktorinnen, Apotheker und Apothekerinnen sowie Tierärzte und Tierärztinnen auf höchstens 4 Stellen und 200 Stellenprozente und für die übrigen Tätigkeiten auf höchstens 8 Stellen und 400 Stellenprozente zu beschränken.
 
-<sup>5</sup> Die Vertretung durch angestellte Mitarbeitende der gleichen Berufsgattung ist während einer Abwesenheit von bis zu höchstens 90 Arbeitstagen pro Jahr zulässig, sofern die Mitarbeitenden die Voraussetzungen für die Ausübung der betreffenden Tätigkeit in eigener fachlicher Verantwortung erfüllen.
+<sup>5</sup> …
 
-<sup>6</sup> Die Inhaber und Inhaberinnen von Berufsausübungsbewilligungen sind verpflichtet, dem Gesundheitsamt die Beendigung der Arbeitsverhältnisse mit den Mitarbeitenden der gleichen Berufsgattung zu melden.
+<sup>6</sup> …
 
-<sup>7</sup> Die Absätze 4-6 gelten nicht für bewilligungspflichtige Einrichtungen des Gesundheitswesens.
+<sup>7</sup> …
 
 [^10-1]: SR [811.11](https://db.clex.ch/link/Bund/811.11/de).
 [^10-2]: BGS [811.11](https://bgs.so.ch/data/811.11/de).
 
 #### § 11
 
-**Medizinische Praxisassistenten und Praxisassistentinnen**
+**Medizinische Praxisassistenten und Praxisassistentinnen sowie Pharma-Assistenten und Pharma-Assistentinnen**
 
-<sup>1</sup> Medizinische Praxisassistenten und Praxisassistentinnen üben ihre Tätigkeit unter der fachlichen Verantwortung von Ärzten und Ärztinnen, Zahnärzten und Zahnärztinnen sowie Tierärzten und Tierärztinnen mit einer Berufsausübungsbewilligung aus.
+<sup>1</sup> Medizinische Praxisassistenten und Praxisassistentinnen sowie Pharma-Assistenten und Pharma-Assistentinnen üben ihre Tätigkeit unter der fachlichen Verantwortung von Ärzten und Ärztinnen, Zahnärzten und Zahnärztinnen sowie Tierärzten und Tierärztinnen oder von Apothekern und Apothekerinnen mit einer Berufsausübungsbewilligung aus.
 
 <sup>2</sup> Sie verfügen über eine abgeschlossene Berufsausbildung mit einem eidgenössischen Fähigkeitszeugnis oder einem als gleichwertig anerkannten Ausweis.
 
-<sup>3</sup> Die gemäss Absatz 1 verantwortlichen Personen sind berechtigt, Tätigkeiten an die medizinischen Praxisassistenten und Praxisassistentinnen zu delegieren, sofern diese aufgrund ihrer abgeschlossenen Berufsausbildung sowie allenfalls ergänzenden Sachkundenachweisen über die entsprechenden Fähigkeiten und Kenntnisse verfügen. Die Delegation hat patientenspezifisch und schriftlich zu erfolgen, soweit die delegierte Tätigkeit nicht aus der Patientendokumentation ersichtlich ist. Die Erhebung von Befunden nach strukturierten und standardisierten Vorgaben kann an die medizinischen Praxisassistenten und Praxisassistentinnen delegiert werden. Nicht delegierbar sind die Diagnose- und Indikationsstellung.
+<sup>3</sup> Die gemäss Absatz 1 verantwortlichen Personen sind berechtigt, einzelne Verrichtungen an die Assistenten und Assistentinnen zu delegieren, sofern diese aufgrund ihrer abgeschlossenen Berufsausbildung sowie allenfalls ergänzenden Sachkundenachweisen über die entsprechenden Fähigkeiten und Kenntnisse verfügen.
 
 #### § 12
 
@@ -234,15 +246,19 @@ beschliesst:
 
 #### § 13
 
-**Meldepflicht**
+**Meldepflichten**
 
-<sup>1</sup> Inhaber und Inhaberinnen von Berufsausübungsbewilligungen melden dem Gesundheitsamt insbesondere folgende Tatsachen und Änderungen:
+<sup>1</sup> Inhaber und Inhaberinnen von Berufsausübungsbewilligungen melden dem Gesundheitsamt insbesondere folgende Tatsachen und Änderungen unverzüglich:
 
 - a) die Aufnahme und die Verlegung der Tätigkeit unter Angabe des Standortes;
-- b) die Änderung der Personalien, der Praxisadresse und der Wohnadresse;
-- c) die Aufgabe der Tätigkeit.
+- b) die Änderung des Arbeitspensums, des relevanten Fachgebietes, der Personalien, der Praxisadresse und der Wohnadresse;
+- c) die Aufgabe der Tätigkeit;
+- d) den Beginn und das Ende allfälliger Stellvertretungen gemäss § 9;
+- e) die Anstellung von Mitarbeitenden der gleichen Berufsgattung gemäss § 10, einschliesslich Arbeitspensum, Beschäftigungsdauer und relevantes Fachgebiet, sowie die Änderung und die Beendigung solcher Anstellungsverhältnisse.
 
-<sup>2</sup> Absatz 1 gilt sinngemäss für Personen, die gemäss § 10 GesG[^13-1] gegenüber dem Gesundheitsamt auskunfts- und meldepflichtig sind, sowie für bewilligungspflichtige Einrichtungen des Gesundheitswesens.
+<sup>1<sup>bis</sup></sup> Die Meldepflichten nach Absatz 1 gelten sinngemäss für bewilligungspflichtige Einrichtungen und Organisationen, die als ambulante Leistungserbringer zulasten der obligatorischen Krankenversicherung tätig sind.
+
+<sup>2</sup> Für die übrigen bewilligungspflichtigen Einrichtungen des Gesundheitswesens sowie für Personen, die gemäss § 10 GesG[^13-1] gegenüber dem Gesundheitsamt auskunfts- und meldepflichtig sind, gelten die Meldepflichten nach Absatz 1 Buchstaben a-c sinngemäss.
 
 [^13-1]: BGS [811.11](https://bgs.so.ch/data/811.11/de).
 
@@ -376,6 +392,12 @@ beschliesst:
 - a) weitere Unterlagen und Angaben verlangen;
 - b) Richtlinien betreffend die einzureichenden Gesuchsunterlagen erlassen.
 
+#### § 22bis
+
+**Angestellte Mitarbeitende der gleichen Berufsgattung**
+
+<sup>1</sup> Die Anstellung von Mitarbeitenden der gleichen Berufsgattung richtet sich sinngemäss nach § 10 Absätze 1-3.
+
 #### § 23
 
 **Betriebsführung**
@@ -390,9 +412,11 @@ beschliesst:
 
 <sup>1</sup> Krankentransport- und Rettungsunternehmen wird die Betriebsbewilligung erteilt, wenn sie zusätzlich zu den Voraussetzungen gemäss § 22 GesG[^24-1] folgende Anforderungen erfüllen:
 
-- a) erfolgte Anerkennung durch den Interverband für Rettungswesen (IVR) sowie Anschluss an die kantonale Alarmzentrale;
+- a) Anerkennung durch den Interverband für Rettungswesen (IVR);
 - b) Bezeichnung einer für die medizinischen Belange gesamtverantwortlichen Leitungsperson;
 - c) Gewährleistung der freien Arzt- und Spitalwahl.
+
+<sup>1<sup>bis</sup></sup> Sofern die Voraussetzungen gemäss Absatz 1 Buchstaben b und c erfüllt sind und eine provisorische Anerkennung durch den IVR vorliegt, erteilt das Gesundheitsamt namens des Departements des Innern eine befristete Betriebsbewilligung und ordnet den provisorischen Anschluss an die kantonale Alarmzentrale an.
 
 <sup>2</sup> Sofern die Betriebsbewilligung auf die Durchführung von Sekundärtransporten beschränkt werden soll, genügt anstelle einer Anerkennung durch den IVR ein von Letzterem verfasster Expertenbericht, welcher bestätigt, dass das Krankentransport- und Rettungsunternehmen:
 
