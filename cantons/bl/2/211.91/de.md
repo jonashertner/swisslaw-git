@@ -4,13 +4,12 @@ number: "211.91"
 title: Verordnung über das Fundwesen und das Verwertungswesen
 short: Vo FuV
 language: de
-version: 2021-07-01
-valid_until: 2023-09-30
-version_adopted: 2021-06-22
+version: 2023-10-01
+version_adopted: 2023-05-23
 adopted: 2007-07-17
 in_force: 2007-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/211.91"
-pdf: "https://bl.clex.ch/api/de/versions/3032/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3599/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,33 +18,34 @@ pdf: "https://bl.clex.ch/api/de/versions/3032/pdf_file"
 
 (Vo FuV)
 
-Vom 17.07.2007 (Stand 01.07.2021)
+Vom 17.07.2007 (Stand 01.10.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
-gestützt auf § 74 Absatz 2 der Kantonsverfassung vom 17. Mai 1984[^ingress-1], § 124 Absatz 2 des Gesetzes vom 16. November 2006[^ingress-2] über die Einführung des Zivilgesetzbuches (EG ZGB), § 2 Absatz 3 des Einführungsgesetzes vom 19. September 1996[^ingress-3] über Schuldbetreibung und Konkurs (EG SchKG) sowie § 33 Absatz 3 des Polizeigesetzes vom 28. November 1996[^ingress-4] (PolG),
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1], das Gesetz über die Einführung des Zivilgesetzbuches (EG ZGB) vom 16. November 2006[^ingress-2], das Einführungsgesetz über Schuldbetreibung und Konkurs (EG SchKG) vom 19. September 1996[^ingress-3], das Polizeigesetz (PolG) vom 28. November 1996[^ingress-4] sowie das Gesetz über den Vollzug von Strafen und Massnahmen (StVG) vom 21. April 2005[^ingress-5],
 
 beschliesst:
 
-[^ingress-1]: SGS [100](https://bl.clex.ch/data/100/de), GS 29.276
-[^ingress-2]: SGS [211](https://bl.clex.ch/data/211/de), GS 36.0153
-[^ingress-3]: SGS [233](https://bl.clex.ch/data/233/de), GS 32.753
-[^ingress-4]: SGS [700](https://bl.clex.ch/data/700/de), GS 32.778
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
+[^ingress-2]: [SGS 211](https://bl.clex.ch/data/211/de)
+[^ingress-3]: [SGS 233](https://bl.clex.ch/data/233/de)
+[^ingress-4]: [SGS 700](https://bl.clex.ch/data/700/de)
+[^ingress-5]: [SGS 261](https://bl.clex.ch/data/261/de)
 
 #### § 1
 
 **Zuständigkeiten**
 
-<sup>1</sup> Beim Generalsekretariat der Sicherheitsdirektion ist das Ressort Fundbüro und Verwertungsdienst zuständig für:
+<sup>1</sup> Beim Generalsekretariat der Sicherheitsdirektion ist der Fachbereich Fundbüro und Verwertungsdienst zuständig für:
 
 - a. die Verwahrung, Herausgabe und Verwertung von Fundsachen;
 - b. die Verwahrung und Verwertung von Fahrnis aus Pfändungs- und Konkursmassen im Auftrag der Betreibungs- und Konkursämter;
 - c. die Verwahrung und Verwertung von sichergestellten Sachen gemäss Polizeigesetz[^1-1] im Auftrag der Polizei Basel-Landschaft;
-- d. die Verwahrung und Verwertung von beschlagnahmten oder eingezogenen Gütern gemäss der Schweizerischen Strafprozessordnung im Auftrag der verfahrensleitenden Staatsanwaltschaft, Jugendanwaltschaft und Gerichte (kurz: Verfahrensleitung);
+- d. die Verwahrung, Verwaltung und Verwertung von beschlagnahmten oder eingezogenen Fahrnisgegenständen, Beteiligungen ohne Markt- resp. Börsenwert und Grundstücken gemäss der Schweizerischen Strafprozessordnung im Auftrag der verfahrensleitenden Staatsanwaltschaft, Jugendanwaltschaft und Gerichte (kurz: Verfahrensleitung);
 - e. die Vernichtung und Entsorgung nicht verwertbarer Güter.
 - f. die Verwahrung und Verwertung von Fahrnis für die zivil- und verwaltungsgerichtlichen Behörden sowie für die Behörde für den Vollzug zivil- und verwaltungsrechtlicher Entscheide;
 - g. die Verwertung von Fahrnis für die Direktionen und deren Dienststellen.
-- h. die Verwertung von Fahrnis im Auftrag ausserkantonaler staatlicher Stellen.
+- h. die Verwaltung und Verwertung von Fahrnis, Beteiligungen ohne Markt- resp. Börsenwert und Grundstücken im Auftrag ausserkantonaler staatlicher Stellen.
 
 <sup>2</sup> Die Volkswirtschafts- und Gesundheitsdirektion bezeichnet die Meldestelle für verlorene Tiere.
 
@@ -55,11 +55,13 @@ beschliesst:
 
 **Gemeinsame Datenbank der beteiligten Behörden**
 
-<sup>1</sup> Die Betreibungs- und Konkursämter erfassen die Fahrnis und die Polizei Basel-Landschaft die Fundsachen in einer gemeinsamen Datenbank, wenn sie diese dem Fundbüro oder Verwertungsdienst zur Aufbewahrung und Verwertung übergeben.
+<sup>1</sup> Die Direktionen und deren Dienststellen erfassen die Fundsachen in einer gemeinsamen Datenbank, wenn sie diese dem Fachbereich Fundbüro und Verwertungsdienst zur Aufbewahrung und Verwertung übergeben.
 
-<sup>2</sup> Die Polizei Basel-Landschaft und die Verfahrensleitung erfassen die sichergestellten und beschlagnahmten Güter in der gemeinsamen Datenbank, wenn sie diese im Untersuchungsverfahren der nachfolgenden Behörde oder dem Verwertungsdienst übergeben.
+<sup>2</sup> Die Direktionen und deren Dienststellen erfassen die sichergestellten und beschlagnahmten Güter in der gemeinsamen Datenbank, wenn sie diese im Untersuchungsverfahren der nachfolgenden Behörde oder dem Verwertungsdienst übergeben.
 
-<sup>3</sup> Die beteiligten Behörden sind befugt, die mit Verwahrung und Verwertung der Güter in Verbindung stehenden Personendaten bekannt zu geben.
+<sup>2<sup>bis</sup></sup> Der Fachbereich Fundbüro und Verwertungsdienst ist gesamtverantwortlich für den Informationsbestand der gemeinsamen Datenbank und die Einhaltung der Datenschutzbestimmungen. Er vergibt die Berechtigung zur Erfassung von Fundsachen, sichergestellten und beschlagnahmten Gütern in der gemeinsamen Datenbank an interne Dienststellen auf Anfrage.
+
+<sup>3</sup> Die beteiligten Behörden sind befugt, einander die mit Verwahrung und Verwertung der Güter in Verbindung stehenden Personendaten bekannt zu geben, soweit es für die Verwahrung und Verwertung erforderlich ist.
 
 <sup>4</sup> Fundbüro und Verwertungsdienst bearbeiten die Geschäftsfälle betreffend Verwahrung und Verwertung der übergebenen Güter in der gemeinsamen Datenbank.
 
@@ -108,31 +110,40 @@ beschliesst:
 
 <sup>1</sup> Im Fundwesen hat die Eigentümerin oder der Eigentümer oder die Finderin oder der Finder bei Aushändigung der Fundsache an sie oder ihn folgende Gebühren zu entrichten:
 
-- a. ...
-- b. übrige Gegenstände: CHF 100;
+- a. Kleingegenstände von geringem Wert: kostenlos;
+- b. übrige Gegenstände: CHF 20–100.– je nach Aufwand für Lagerung und Bewirtschaftung;
 - c. Gegenstände mit mehr als 100 kg Gewicht oder mehr als 1 m³ Volumen oder mit aufwändiger Lagerung: Zeitaufwand nach Stundenansatz gemäss Absatz 4.
 
-<sup>2</sup> Für die Verwahrung von sichergestellten, beschlagnahmten und eingezogenen Gütern werden folgende Gebühren erhoben:
+<sup>2</sup> Für die Verwahrung von sichergestellten, beschlagnahmten oder eingezogenen Gütern werden folgende Gebühren erhoben:
 
 - a. Zeitaufwand nach Stundenansatz gemäss Absatz 4;
-- b. für Autos: gedeckter Abstellplatz CHF 100 pro Monat;
+- b. für Autos: gedeckter Abstellplatz CHF 150.– pro Monat;
+- b<sup>bis</sup>. für Motorräder: CHF 60.– pro Monat;
 - c. Lagerraum Kategorie A (Standardlagerraum, beheizt):
-  - 1\. für Gegenstände bis 10 cm² : CHF 1.00 pro Monat
-  - 2\. für Gegenstände bis 25 cm² : CHF 2.50 pro Monat
-  - 3\. für Gegenstände bis 50 cm² : CHF 5.00 pro Monat
-- d. Lagerraum Kategorie B (Lagerhalle, unbeheizt): CHF 9.00 pro m² pro Monat.
+  - 1\. für Gegenstände bis 100 cm³ (Grundfläche rund 10 cm²): CHF 1.– pro Monat;
+  - 2\. für Gegenstände bis 600 cm³ (Grundfläche rund 25 cm²): CHF 2.50 pro Monat;
+  - 3\. für Gegenstände bis 2500 cm³ (Grundfläche 50 cm²) CHF 5.– pro Monat;
+- d. Lagerraum Kategorie B (Lagerhalle, unbeheizt): CHF 15.– pro m³ pro Monat.
 
 <sup>2 <sup>bis</sup></sup> Angebrochene Monate sind tageweise zu verrechnen.
 
 <sup>2<sup>ter</sup></sup> Für die Verwahrung und Verwertung von Fahrnis aus Pfändungs- und Konkursmassen ist die Gebührenverordnung zum Bundesgesetz über Schuldbetreibung und Konkurs anwendbar.
 
-<sup>3</sup> Für die Verwertung und den Transport von sichergestellten, beschlagnahmten und eingezogenen Gütern wird eine Gebühr nach dem Zeitaufwand erhoben. Der Stundenansatz richtet sich nach Absatz 4.
+<sup>3</sup> Für die Verwertung und Verwaltung sichergestellter, beschlagnahmter oder eingezogener Fahrnisgegenstände, Grundstücke und Beteiligungen ohne Markt- resp. Börsenwert, sowie für die Aushändigung und den Transport von sichergestellten, beschlagnahmten und eingezogenen Gütern wird eine Gebühr nach dem Zeitaufwand und der zurückgelegten Distanz erhoben. Der Stundenansatz richtet sich nach Abs. 4. Die Distanz wird mit CHF 0.70 pro Kilometer berechnet.
+
+<sup>3<sup>bis</sup></sup> Für die Abholung und sofortige Vernichtung von beschlagnahmten und eingezogenen Gütern wird eine Pauschale von CHF 80.– erhoben. Einfach zu vernichtende Gegenstände, für welche kein separater Abholaufwand entsteht, werden kostenlos vernichtet.
+
+<sup>3<sup>ter</sup></sup> Für die Vernichtung von Kleingegenständen werden folgende Gebühren pro Stück erhoben:
+
+- a. bis 100 cm³ (Grundfläche rund 10 cm²): CHF 5.–;
+- b. bis 600 cm³ (Grundfläche rund 25 cm²): CHF 10.–;
+- c. bis 2500 cm³ (Grundfläche rund 50 cm²): CHF 50.–.
 
 <sup>4</sup> Die Stundenansätze betragen für:
 
-- a. die Abteilungsleiterin oder den Abteilungsleiter CHF 100;
-- b. die Sachbearbeiterin oder den Sachbearbeiter CHF 80;
-- c. das Lagerpersonal CHF 65.
+- a. die Abteilungsleiterin oder den Abteilungsleiter CHF 130.–;
+- b. die Sachbearbeiterin oder den Sachbearbeiter CHF 90.–;
+- c. …
 
 <sup>4 <sup>bis</sup></sup> Werden mehrere Gegenstände zusammen transportiert bzw. verwertet, werden die Kosten für Transport bzw. Verwertung anteilmässig verrechnet.
 
@@ -200,19 +211,7 @@ beschliesst:
 
 #### § 9
 
-**Fundsachen in öffentlichen Verkehrsbetrieben**
-
-<sup>1</sup> Fundsachen, die in öffentliche Verkehrsbetrieben verloren gehen, werden durch diese entgegengenommen. Die öffentlichen Verkehrsbetriebe können die Fundsachen unter Vorbehalt Absatz 3 dem Fundbüro zur Aufbewahrung und Verwertung übergeben.
-
-<sup>2</sup> ...
-
-<sup>3</sup> Offensichtlich wertlose oder defekte Sachen werden durch die öffentlichen Verkehrsbetriebe entsorgt.
-
-<sup>4</sup> Nach Ablauf eines Jahres seit der Verwahrung gemäss Absatz 1 wird die Fundsache verwertet.
-
-<sup>5</sup> Werden die Fundsachen dem Fundbüro gemäss Absatz 1 übergeben, schliesst die Sicherheitsdirektion mit den öffentlichen Verkehrsbetrieben Leistungsvereinbarungen ab.
-
-<sup>6</sup> Der Erlös verfällt der Staatskasse.
+**…**
 
 #### § 9a
 
