@@ -3,20 +3,20 @@ canton: BL
 number: "640"
 title: Bildungsgesetz
 language: de
-version: 2023-04-01
-valid_until: 2023-09-30
-version_adopted: 2022-09-15
+version: 2023-10-01
+valid_until: 2023-12-31
+version_adopted: 2023-09-14
 adopted: 2002-06-06
 in_force: 2003-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/640"
-pdf: "https://bl.clex.ch/api/de/versions/3764/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3776/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Bildungsgesetz
 
-Vom 06.06.2002 (Stand 01.04.2023)
+Vom 06.06.2002 (Stand 01.10.2023)
 
 Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
@@ -1042,7 +1042,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>1</sup> Aufgaben der SAL sind:
 
-- a. die zentrale Verwaltung der Personendaten von Schülerinnen und Schülern, von Erziehungsberechtigten, von unterrichtenden Personen, von Personen mit einem pädagogisch-therapeutischen Auftrag und von weiteren Personen mit einem schulbezogenen Auftrag;
+- a. die zentrale Verwaltung der Personendaten von Schülerinnen und Schülern, von Berufslernenden, von Erziehungsberechtigten, von unterrichtenden Personen, von Personen mit einem pädagogisch-therapeutischen Auftrag und von weiteren Personen mit einem schulbezogenen Auftrag;
 - b. die terminliche, räumliche, personelle Schulorganisation und die Unterstützung bei finanziellen Planungsvorgängen;
 - c. die Administration von Leistungserhebungen und Leistungsbeurteilungen von Schülerinnen und Schülern;
 - d. die gruppenspezifische Kommunikation;
@@ -1066,21 +1066,28 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 **Bearbeitung**
 
-<sup>1</sup> Die berechtigten Stellen dürfen diejenigen Daten in der SAL abfragen oder sich systematisch melden lassen bzw. selber bearbeiten, für deren Bearbeitung die Voraussetzungen von § 9 des Informations- und Datenschutzgesetzes[^59d-1] erfüllt sind.
+<sup>1</sup> Die berechtigten Stellen dürfen diejenigen Daten in der SAL abfragen oder sich systematisch melden lassen bzw. selber bearbeiten, für deren Bearbeitung die Voraussetzungen von § 9 des Informations- und Datenschutzgesetzes vom 10. Februar 2011[^59d-1] erfüllt sind.
 
 <sup>2</sup> Als berechtigte Stellen gelten:
 
-- a. Schulleitungen, Schulsekretariate, Lehrpersonen sowie Personen mit einem pädagogisch-therapeutischen Auftrag der Volksschulen, der Gymnasien und der Berufsfachschulen;
-- b. Schulräte;
-- c. das Generalsekretariat der Bildungs-, Kultur- und Sportdirektion;
-- d. das Amt für Volksschulen;
-- e. die Dienststelle Gymnasien;
-- f. das Amt für Berufsbildung und Berufsberatung;
-- g. das Amt für Daten und Statistik.
+- a. die Mitarbeiterinnen und Mitarbeiter der kantonalen Schulen und der kommunalen Schulen;
+- b. die Mitglieder von Schulräten der kantonalen und der kommunalen Schulen;
+- c. die Mitarbeiterinnen und Mitarbeiter von Bildungseinrichtungen, die durch den Kanton oder die Gemeinden mit unterrichtsbezogenen Aufgaben an öffentlichen Schulen beauftragt sind;
+- d. die Mitarbeiterinnen und Mitarbeiter des Kantons und der Gemeinden mit Aufgaben an den Schulen;
+- e. die Dienststellen der Bildungs-, Kultur- und Sportdirektion;
+- f. das Amt für Daten und Statistik;
+- g. die Ausbildungsverantwortlichen der Lehrbetriebe in der beruflichen Grundbildung;
+- h. die Religionslehrpersonen.
 
-<sup>3</sup> Schülerinnen und Schüler haben Zugriff auf die in der SAL vorhandenen eigenen Daten. Erziehungsberechtigten steht der Zugang zur SAL nur über den Account ihrer Kinder zur Verfügung.
+<sup>3</sup> Berechtigte Personen ohne Anstellung an den kantonalen oder kommunalen Schulen unterstehen in Bezug auf die Nutzung der SAL den Weisungen der jeweiligen Schulleitung.
 
-<sup>4</sup> Der Regierungsrat legt in der Verordnung die Abfrageberechtigung im Einzelnen fest.
+<sup>4</sup> Berechtigte Personen, die nicht dem Gesetz über die Information und den Datenschutz unterstellt sind, erhalten Zugriff nur bei Vorliegen eines Datenschutz-Revers.
+
+<sup>5</sup> Schülerinnen und Schüler bzw. Berufslernende sowie die Erziehungsberechtigten von minderjährigen Schülerinnen und Schülern bzw. Berufslernenden haben Zugang zu den in der SAL vorhandenen eigenen Daten.
+
+<sup>6</sup> Die Schülerinnen und Schüler ab der Sekundarstufe I bzw. die Berufslernenden haben überdies einen persönlichen elektronischen Zugriff auf die in der SAL für sie freigegebenen eigenen Daten. Den Erziehungsberechtigten von minderjährigen Schülerinnen und Schülern bzw. Berufslernenden steht der Zugriff über deren Login zur Verfügung.
+
+<sup>7</sup> In den kommunalen Schulen entscheiden die Schulleitungen über den elektronischen Zugriff auf die in der SAL für die Schülerinnen und Schüler freigegebenen eigenen Daten. Den Erziehungsberechtigten von Schülerinnen und Schülern steht der Zugriff über deren Login zur Verfügung.
 
 [^59d-1]: [SGS 162](https://bl.clex.ch/data/162/de/art9)
 
