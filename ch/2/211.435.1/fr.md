@@ -4,11 +4,11 @@ title: "Ordonnance du 8 décembre 2017 sur l'établissement d'actes authentiques
 short: OAAE
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/29"
 language: fr
-version: 2018-02-01
+version: 2023-10-01
 adopted: 2017-12-08
 in_force: 2018-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/29/20180201/fr/xml/fedlex-data-admin-ch-eli-cc-2018-29-20180201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/29/20180201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/29/20231001/fr/xml/fedlex-data-admin-ch-eli-cc-2018-29-20231001-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/29/20231001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/29/20180201/fr"
 
 (OAAE)
 
-du 8 décembre 2017 (Etat le 1<sup>er</sup> février 2018)
+du 8 décembre 2017 (État le 1<sup>er</sup> octobre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -185,6 +185,8 @@ La confirmation d’admission contient:
 
 - b. un cachet électronique réglementé avec horodatage électronique qualifié conformément à l’art. 2, let. d, SCSE.
 
+<sup>2bis</sup> En cas de dérangement technique, une autre signature électronique avancée d’un fournisseur de services de certification reconnu conformément à la SCSE peut être utilisée pour la confirmation d’admission au lieu d’un cachet électronique réglementé.[^10-2]
+
 <sup>3</sup> Les cantons peuvent prévoir que soient insérés, sur la page de verbalisation, des éléments complémentaires tels qu’un cachet électronique réglementé avec horodatage électronique qualifié conformément à l’art. 2, let. d, SCSE ainsi que d’autres éléments visibles ou invisibles. Ces éléments complémentaires n’affectent pas, sur le plan du droit fédéral, la validité des actes authentiques électroniques et des légalisations électroniques.
 
 <sup>4</sup> Les requêtes de confirmations d’admission en ligne entre le système informatique utilisé par l’officier public et le RegOP peuvent être transmises par des tiers. Ceux-ci ont besoin d’une autorisation de l’OFJ (art. 20).
@@ -192,6 +194,7 @@ La confirmation d’admission contient:
 <sup>5</sup> Le Département fédéral de justice et police (DFJP) fixe, dans une ordonnance, les formats électroniques reconnus, règle les exigences techniques et organisationnelles ainsi que les propriétés de la confirmation d’admission.
 
 [^10-1]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^10-2]: Introduit par le ch. I de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 479](https://fedlex.data.admin.ch/eli/oc/2023/479)).
 
 #### Art. 11
 
@@ -422,5 +425,5 @@ Les ordonnances mentionnées ci-après sont modifiées comme suit:
 
 …[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[RO 2011 4779](https://fedlex.data.admin.ch/eli/oc/2011/680), [2012 5433](https://fedlex.data.admin.ch/eli/oc/2012/627), [2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)II 11]
+[^annexu1-lvlu1-1]: [[RO 2011 4779](https://fedlex.data.admin.ch/eli/oc/2011/680); [2012 5433](https://fedlex.data.admin.ch/eli/oc/2012/627); [2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)II 11]
 [^annexu1-lvlu1-2]: Les mod. peuvent être consultées au [RO 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29).

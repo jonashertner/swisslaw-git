@@ -4,11 +4,11 @@ title: Verordnung vom 8. Dezember 2017 über die Erstellung elektronischer öffe
 short: EÖBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/29"
 language: de
-version: 2018-02-01
+version: 2023-10-01
 adopted: 2017-12-08
 in_force: 2018-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/29/20180201/de/xml/fedlex-data-admin-ch-eli-cc-2018-29-20180201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/29/20180201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/29/20231001/de/xml/fedlex-data-admin-ch-eli-cc-2018-29-20231001-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/29/20231001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/29/20180201/de"
 
 (EÖBV)
 
-vom 8. Dezember 2017 (Stand am 1. Februar 2018)
+vom 8. Dezember 2017 (Stand am 1. Oktober 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -186,6 +186,8 @@ Die Zulassungsbestätigung enthält folgenden Inhalt:
 
 - b. ein mit einem qualifizierten elektronischen Zeitstempel verbundenes geregeltes elektronisches Siegel nach Artikel 2 Buchstabe d ZertES.
 
+<sup>2bis</sup> Bei technischen Störungen kann für die Zulassungsbestätigung anstelle des geregelten elektronischen Siegels eine andere fortgeschrittene elektronische Signatur einer nach ZertES anerkannten Anbieterin von Zertifizierungsdiensten verwendet werden.[^10-2]
+
 <sup>3</sup> Der Kanton kann vorsehen, dass auf der Verbalseite zusätzliche Elemente wie ein mit einem qualifizierten Zeitstempel verbundenes geregeltes elektronisches Siegel nach Artikel 2 Buchstabe d ZertESund andere sichtbare oder unsichtbare Elemente anzubringen sind. Diese Elemente haben keinen Einfluss auf die bundesrechtliche Gültigkeit elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen.
 
 <sup>4</sup> Der Kontakt zwischen dem von der Urkundsperson verwendeten Informatiksystem und dem UPReg kann durch Dritte vermittelt werden. Diese bedürfen einer Bewilligung des BJ (Art. 20).
@@ -193,6 +195,7 @@ Die Zulassungsbestätigung enthält folgenden Inhalt:
 <sup>5</sup> Das Eidgenössische Justiz- und Polizeidepartement (EJPD) bezeichnet in einer Verordnung die anerkannten elektronischen Formate, regelt die technischen und organisatorischen Vorgaben sowie die Eigenschaften der Zulassungsbestätigung.
 
 [^10-1]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^10-2]: Eingefügt durch Ziff. I der V vom 23. Aug. 2023, in Kraft seit 1. Okt 2023 ([AS 2023 479](https://fedlex.data.admin.ch/eli/oc/2023/479)).
 
 #### Art. 11
 
@@ -421,7 +424,7 @@ II
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-...[^annexu1-lvlu1-2]
+…[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[AS 2011 4779](https://fedlex.data.admin.ch/eli/oc/2011/680), [2012 5433](https://fedlex.data.admin.ch/eli/oc/2012/627), [2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)Anhang Ziff. II 11]
+[^annexu1-lvlu1-1]: [[AS 2011 4779](https://fedlex.data.admin.ch/eli/oc/2011/680); [2012 5433](https://fedlex.data.admin.ch/eli/oc/2012/627); [2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)Anhang Ziff. II 11]
 [^annexu1-lvlu1-2]: Die Änderungen können unter [AS 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)konsultiert werden.

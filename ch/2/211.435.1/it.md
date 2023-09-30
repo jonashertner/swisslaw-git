@@ -4,11 +4,11 @@ title: "Ordinanza dell' 8 dicembre 2017 sulla realizzazione di atti pubblici e a
 short: OAPuE
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/29"
 language: it
-version: 2018-02-01
+version: 2023-10-01
 adopted: 2017-12-08
 in_force: 2018-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/29/20180201/it/xml/fedlex-data-admin-ch-eli-cc-2018-29-20180201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/29/20180201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/29/20231001/it/xml/fedlex-data-admin-ch-eli-cc-2018-29-20231001-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/29/20231001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/29/20180201/it"
 
 (OAPuE)
 
-dell’8 dicembre 2017 (Stato 1° febbraio 2018)
+dell’8 dicembre 2017 (Stato 1° ottobre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -186,6 +186,8 @@ La conferma di ammissione contiene:
 
 - b. un sigillo elettronico regolamentato di cui all’articolo 2 lettera d FiEle corredato di una marca temporale elettronica qualificata.
 
+<sup>2bis</sup> In caso di problemi tecnici, per la conferma di ammissione può essere utilizzata al posto del sigillo elettronico regolamentato un’altra firma elettronica avanzata di un prestatore di servizi di certificazione riconosciuto secondo la FiEle.[^10-2]
+
 <sup>3</sup> I Cantoni possono prevedere l’inserimento di ulteriori elementi nella pagina di verbale, quali un sigillo elettronico regolamentato di cui all’articolo 2 lettera d FiEle corredato di una marca temporale elettronica qualificata e altri elementi visibili o invisibili. Tali elementi aggiuntivi non hanno alcun effetto sulla validità ai sensi del diritto federale di atti pubblici e autenticazioni in forma elettronica.
 
 <sup>4</sup> Il collegamento tra il sistema d’informazione utilizzato dal pubblico ufficiale e il RegPU può essere fornito da terzi. Questi necessitano dell’autorizzazione dell’UFG (art. 20).
@@ -193,6 +195,7 @@ La conferma di ammissione contiene:
 <sup>5</sup> Il Dipartimento federale di giustizia e polizia (DFGP) stabilisce in un’ordinanza i formati elettronici riconosciuti e disciplina le prescrizioni tecniche e organizzative nonché le caratteristiche della conferma di ammissione.
 
 [^10-1]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^10-2]: Introdotto dal n. I dell’O del 23 ago. 2023, in vigore dal 1° ott. 2023 ([RU 2023 479](https://fedlex.data.admin.ch/eli/oc/2023/479)).
 
 #### Art. 11
 
