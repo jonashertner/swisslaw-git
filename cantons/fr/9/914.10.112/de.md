@@ -3,13 +3,12 @@ canton: FR
 number: "914.10.112"
 title: Verordnung ILFD über den Status der Mitglieder der Einsatzgruppe im Tierseuchenfall
 language: de
-version: 2015-03-01
-valid_until: 2023-09-30
-version_adopted: 2015-01-14
+version: 2023-10-01
+version_adopted: 2023-09-26
 adopted: 2015-01-14
 in_force: 2015-03-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/914.10.112"
-pdf: "https://bdlf.fr.ch/api/de/versions/5690/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7828/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5690/pdf_file"
 
 Tierseuchenfall, Status der Mitglieder der Einsatzgruppe – V
 
-vom 14.01.2015 (Fassung in Kraft getreten am 01.03.2015)
+vom 14.01.2015 (Fassung in Kraft getreten am 01.10.2023)
 
 Die Direktion der Institutionen und der Land- und Forstwirtschaft
 
@@ -88,9 +87,9 @@ beschliesst:
 
 **Entlöhnung und Entschädigung der Mitglieder der Einsatzgruppe die bei einem anderen Arbeitgeber als dem Staat erwerbstätig oder selbständigerwerbend sind**
 
-<sup>1</sup> Die Entlöhnung der Mitglieder, die bei einem anderen Arbeitgeber als dem Staat erwerbstätig oder die selbständigerwerbend sind, beträgt 50 Franken brutto pro Stunde für die Tätigkeit im Seuchenfall. In dieser Entlöhnung inbegriffen sind die Ferienentschädigung, der 13. Monatslohn und die Feiertagsentschädigung. Als maximale Entlöhnung wird eine Pauschale von 500 Franken pro Einsatztag festgelegt.
+<sup>1</sup> Die Entlöhnung der Mitglieder, die bei einem anderen Arbeitgeber als dem Staat erwerbstätig oder die selbständigerwerbend sind, beträgt 50 Franken brutto pro Stunde für die Tätigkeit im Seuchenfall und für Übungen. In dieser Entlöhnung inbegriffen sind die Ferienentschädigung, der 13. Monatslohn und die Feiertagsentschädigung. Als maximale Entlöhnung wird eine Pauschale von 500 Franken pro Einsatztag festgelegt.
 
-<sup>2</sup> Die Teilnahme an Vorträgen, Ausbildungskursen und Übungen, die von den Verwaltungseinheiten des Staates oder des Bundes organisiert werden, gibt Anspruch auf eine Entschädigung von pauschal 120 Franken pro Halbtag oder Abend und 190 Franken pro ganzen Tag.
+<sup>2</sup> Die Teilnahme an Vorträgen und Ausbildungskursen, die von den Verwaltungseinheiten des Staates oder des Bundes organisiert werden, gibt Anspruch auf eine Entschädigung von pauschal 120 Franken pro Halbtag oder Abend und 190 Franken pro ganzen Tag.
 
 <sup>3</sup> Zudem haben die Mitglieder Anspruch auf Entschädigung für Dienstreisen nach den Artikeln 119–129 StPR.
 

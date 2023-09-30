@@ -3,13 +3,12 @@ canton: FR
 number: "914.10.112"
 title: "Ordonnance DIAF fixant le statut des membres de l'équipe d'intervention en cas d'épizootie"
 language: fr
-version: 2015-03-01
-valid_until: 2023-09-30
-version_adopted: 2015-01-14
+version: 2023-10-01
+version_adopted: 2023-09-26
 adopted: 2015-01-14
 in_force: 2015-03-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/914.10.112"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5690/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7828/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5690/pdf_file"
 
 Epizooties, statut des membres de l'équipe d'intervention – O
 
-du 14.01.2015 (version entrée en vigueur le 01.03.2015)
+du 14.01.2015 (version entrée en vigueur le 01.10.2023)
 
 La Direction des institutions, de l'agriculture et des forêts
 
@@ -88,9 +87,9 @@ Adopte ce qui suit:
 
 **Rémunération et indemnisation des membres de l'équipe d'intervention exerçant une activité salariée au service d'un employeur autre que l'Etat ou en tant qu'indépendants**
 
-<sup>1</sup> La rémunération allouée aux membres qui exercent une activité salariée au service d'un employeur autre que l'Etat ou qui exercent une activité en tant qu'indépendants est de 50 francs bruts l'heure pour les activités en cas d'épizootie. Cette rémunération inclut la part des vacances, le treizième salaire, la part des jours fériés. La rémunération maximale est fixée de manière forfaitaire à 500 francs par jour d'engagement.
+<sup>1</sup> La rémunération allouée aux membres qui exercent une activité salariée au service d'un employeur autre que l'Etat ou qui exercent une activité en tant qu'indépendants est de 50 francs bruts l'heure pour les activités en cas d'épizootie et pour les exercices. Cette rémunération inclut la part des vacances, le treizième salaire, la part des jours fériés. La rémunération maximale est fixée de manière forfaitaire à 500 francs par jour d'engagement.
 
-<sup>2</sup> La participation aux conférences, aux cours de formation et aux exercices organisés par les unités administratives de l'Etat ou de la Confédération donne droit à une indemnisation forfaitaire de 120 francs par demi-journée ou soirée et de 190 francs par journée entière.
+<sup>2</sup> La participation aux conférences et aux cours de formation organisés par les unités administratives de l'Etat ou de la Confédération donne droit à une indemnisation forfaitaire de 120 francs par demi-journée ou soirée et de 190 francs par journée entière.
 
 <sup>3</sup> Les membres ont droit, en sus, à des indemnités de déplacement au sens des articles 119 à 129 RPers.
 
