@@ -4,13 +4,13 @@ number: "311.121"
 title: "Verordnung über die Berufe, Organisationen und Betriebe im Gesundheitswesen"
 short: VBOB
 language: de
-version: 2018-01-01
-valid_until: 2023-09-30
-version_adopted: 2017-11-08
+version: 2023-10-01
+valid_until: 2025-12-31
+version_adopted: 2023-09-06
 adopted: 2009-11-11
 in_force: 2010-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/311.121"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2555/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3637/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2555/pdf_file"
 
 (VBOB)
 
-Vom 11.11.2009 (Stand 01.01.2018)
+Vom 11.11.2009 (Stand 01.10.2023)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf die §§ 2 Abs. 1, 4 Abs. 3, 5 Abs. 2, 7 Abs. 5, 8 Abs. 2, 9 Abs. 5, 15 Abs. 3, 18 Abs. 2, 21 Abs. 3, 26 Abs. 3 und 27 Abs. 2 des Gesundheitsgesetzes (GesG) vom 20. Januar 2009[^ingress-1],
+gestützt auf die §§ 2 Abs. 1, 4 Abs. 3, 4 Abs. 4, 5 Abs. 2, 7 Abs. 5, 8 Abs. 2, 9 Abs. 5, 15 Abs. 3, 18 Abs. 2, 21 Abs. 3, 26 Abs. 3 und 27 Abs. 2 des Gesundheitsgesetzes (GesG) vom 20. Januar 2009[^ingress-1],
 
 beschliesst:
 
@@ -197,7 +197,7 @@ beschliesst:
 - m) Podologinnen und Podologen,
 - n) Physiotherapeutinnen und Physiotherapeuten,
 - o) Psychotherapeutinnen und Psychotherapeuten,
-- p) Naturheilpraktikerinnen und Naturheilpraktiker unter eidgenössisch anerkanntem Diplom,
+- p) Naturheilpraktikerinnen und Naturheilpraktiker,
 - q) Neuropsychologinnen und Neuropsychologen.
 
 <sup>2</sup> Die Berufsausübungsbewilligung ist für das ganze Kantonsgebiet gültig.
@@ -349,6 +349,16 @@ beschliesst:
 
 <sup>2</sup> Die fachlich unselbstständig tätige Person darf nur in der Praxis beziehungsweise dem Geschäft der Bewilligungsinhaberin oder des Bewilligungsinhabers eingesetzt werden.
 
+#### § 28a
+
+**Fachlich unselbstständige Tätigkeit in tiermedizinischen Praxen**
+
+<sup>1</sup> Die Dauer der Assistenzzeit in einer tiermedizinischen Praxis im Kanton Aargau ist bei einem Beschäftigungsgrad von mindestens 80 Stellenprozent auf maximal fünf Jahre, bei einem geringeren Beschäftigungsgrad auf maximal sieben Jahre beschränkt.
+
+<sup>2</sup> Nach Ablauf der Dauer der Assistenzzeit gemäss Absatz 1 ist innerhalb von drei Monaten eine Berufsausübungsbewilligung zu beantragen. Die zuständige Behörde kann auf Gesuch hin Ausnahmen von dieser Antragspflicht bewilligen und Auflagen verfügen.
+
+<sup>3</sup> In Abweichung vom Regelfall gemäss § 28 Abs. 1 genügt bei fachlich unselbstständiger Tätigkeit in einer tiermedizinischen Praxis die gleichzeitige Erreichbarkeit der Bewilligungsinhaberin oder des Bewilligungsinhabers.
+
 #### § 29
 
 **…**
@@ -414,8 +424,8 @@ beschliesst:
 
 dass sie
 
-- a) den Betrieb hauptberuflich führt und mindestens 60% der allgemein üblichen Öffnungszeit mit ihrer Anwesenheit abdeckt,
-- b) in keinem anderen Betrieb fachverantwortlich ist,
+- a) den Betrieb hauptberuflich führt und mindestens 30% der allgemein üblichen Öffnungszeit mit ihrer Anwesenheit abdeckt,
+- b) …
 - c) sofern sie nicht Eigentümerin oder Eigentümer des Betriebes ist, fachlich unabhängig ist.
 
 <sup>3</sup> Die Stellvertretung gemäss § 26 Abs. 1 lit. d GesG hat in fachlicher Hinsicht grundsätzlich über sämtliche Voraussetzungen, welche auch die fachverantwortliche Leitungsperson zu erfüllen hat, zu verfügen. Bei Geeignetheit kann vom Nachweis der verlangten praktischen Tätigkeit abgesehen werden. Die Verantwortung für Auswahl und Einsatz der Stellvertretung obliegt der Inhaberin oder dem Inhaber der Betriebsbewilligung.
@@ -802,7 +812,11 @@ dass sie
 
 <sup>1</sup> Personen und Organisationen, die bereits gemäss den §§ 10 Abs. 1 lit. q beziehungsweise 35 Abs. 1 lit. l und m tätig sind, haben innert zwei Jahren seit Inkrafttreten der Änderung vom 8. November 2017 ein Gesuch um Erteilung einer Bewilligung einzureichen.
 
-<sup>2</sup> Naturheilpraktikerinnen und Naturheilpraktiker haben innert fünf Jahren seit Inkrafttreten der Änderung vom 8. November 2017 die Bewilligungsvoraussetzungen gemäss § 25a zu erfüllen und ein Gesuch um Erteilung einer Berufsausübungsbewilligung einzureichen.
+<sup>2</sup> Naturheilpraktikerinnen und Naturheilpraktiker haben innert sieben Jahren seit Inkrafttreten der Änderung vom 8. November 2017 die Bewilligungsvoraussetzungen gemäss § 25a zu erfüllen und ein Gesuch um Erteilung einer Berufsausübungsbewilligung einzureichen.
+
+<sup>3</sup> Kann eine Naturheilpraktikerin oder ein Naturheilpraktiker am 1. Januar 2025 noch kein eidgenössisches Diplom, aber das Zertifikat oder dessen Beantragung vorweisen, das nach vollständiger Absolvierung sämtlicher Module M1 bis M6[^62b-1] ausgestellt wird, darf sie oder er bis längstens 31. Dezember 2027 tätig sein, ohne die Bewilligungsvoraussetzungen gemäss § 25a zu erfüllen. Dies gilt analog für Personen, die bis zum 1. Januar 2025 direkt zur Abschlussprüfung zugelassen worden sind.
+
+[^62b-1]: [http://www.oda-am.ch/de/module](http://www.oda-am.ch/de/module)
 
 #### § 63
 
