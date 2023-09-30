@@ -3,20 +3,19 @@ canton: SO
 number: "811.13"
 title: Verordnung über die Amteiärzte und Amteiärztinnen sowie die Infektionsärzte und Infektionsärztinnen
 language: de
-version: 2021-01-01
-valid_until: 2023-09-30
-version_adopted: 2020-10-27
+version: 2023-10-01
+version_adopted: 2023-06-06
 adopted: 2020-10-27
 in_force: 2021-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/811.13"
-pdf: "https://bgs.so.ch/api/de/versions/5039/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5395/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Amteiärzte und Amteiärztinnen sowie die Infektionsärzte und Infektionsärztinnen
 
-Vom 27.10.2020 (Stand 01.01.2021)
+Vom 27.10.2020 (Stand 01.10.2023)
 
 gestützt auf § 13 Buchstabe a des Einführungsgesetzes zur Schweizerischen Strafprozessordnung und zur Schweizerischen Jugendstrafprozessordnung (EG StPO) vom 10. März 2010[^ingress-1] und §§ 52 und 66 des Gesundheitsgesetzes (GesG) vom 19. Dezember 2018[^ingress-2]
 
@@ -29,7 +28,7 @@ beschliesst:
 
 **Anstellung und Anstellungsvoraussetzungen**
 
-<sup>1</sup> Es werden bis zu acht Amteiärzte oder Amteiärztinnen sowie bis zu fünf Infektionsärzte oder Infektionsärztinnen angestellt.
+<sup>1</sup> Das Departement beauftragt bis zu acht Amteiärzte oder Amteiärztinnen und bis zu fünf Infektionsärzte oder Infektionsärztinnen mit der Wahrnehmung der in dieser Verordnung festgelegten Aufgaben.
 
 <sup>2</sup> Die Amteiärzte und Amteiärztinnen sowie die Infektionsärzte und Infektionsärztinnen sind im Besitz
 
