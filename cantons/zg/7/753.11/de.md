@@ -4,13 +4,12 @@ number: "753.11"
 title: Verordnung über die Gebühren im Schiffsverkehr
 short: Schiffsgebührenverordnung; SGV
 language: de
-version: 2022-01-01
-valid_until: 2023-09-30
-version_adopted: 2021-12-07
+version: 2023-10-01
+version_adopted: 2023-09-19
 adopted: 2005-12-13
 in_force: 2006-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/753.11"
-pdf: "https://bgs.zg.ch/api/de/versions/2290/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2486/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2290/pdf_file"
 
 (Schiffsgebührenverordnung; SGV)
 
-Vom 13. Dezember 2005 (Stand 1. Januar 2022)
+Vom 13. Dezember 2005 (Stand 1. Oktober 2023)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -93,7 +92,7 @@ beschliesst:
 
 <sup>2</sup> Bewilligung zum Ablegen der Schiffsführerprüfung in einem anderen Kanton: Fr. 35.–
 
-<sup>3</sup> Zulassungsbewilligung ausserkantonaler Schiffe (inkl. Kontrollvignette) pro Kalendermonat: Fr. 200.–
+<sup>3</sup> …
 
 <sup>4</sup> Übrige Verfügungen und Bewilligungen (für Gesuchsprüfungen und Abklärungen aller Art): Fr. 60.– bis Fr. 2 500.–
 
