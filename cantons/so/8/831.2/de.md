@@ -4,13 +4,13 @@ number: "831.2"
 title: Sozialverordnung
 short: SV
 language: de
-version: 2022-10-01
-valid_until: 2023-09-30
-version_adopted: 2022-08-23
+version: 2023-10-01
+valid_until: 2024-06-30
+version_adopted: 2023-06-06
 adopted: 2007-10-29
 in_force: 2008-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/831.2"
-pdf: "https://bgs.so.ch/api/de/versions/5267/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5398/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5267/pdf_file"
 
 (SV)
 
-Vom 29.10.2007 (Stand 01.10.2022)
+Vom 29.10.2007 (Stand 01.10.2023)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -1050,6 +1050,7 @@ beschliesst:
 <sup>1</sup> Die ambulanten Dienstleister stellen beim Einreichen der Abrechnungen über erbrachte Pflegeleistungen folgende Daten über die gepflegten Personen zu:
 
 - a) Name und Vorname;
+- a<sup>bis</sup>) Geburtsdatum;
 - b) Adresse am zivilrechtlichen Wohnsitz;
 - c) AHV-Nummer;
 - d) Anzahl verrechnete Stunden pro Leistungskategorie gemäss Verordnung des EDI über Leistungen in der obligatorischen Krankenpflegeversicherung (Krankenpflege-Leistungsverordnung, KLV) vom 29. September 1995[^91ter-1].
@@ -1065,6 +1066,7 @@ beschliesst:
 <sup>1</sup> Bei Aufenthalten mit Pflegeversorgung ausserhalb des zivilrechtlichen Wohnsitzes haben die ambulanten Dienstleister folgende Daten über die gepflegte Person zu melden:
 
 - a) Name und Vorname;
+- a<sup>bis</sup>) Geburtsdatum;
 - b) Adresse am zivilrechtlichen Wohnsitz;
 - c) Adresse am Aufenthaltsort;
 - d) Zeitraum und voraussichtliche Dauer des Aufenthaltes;
