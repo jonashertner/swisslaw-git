@@ -3,24 +3,27 @@ sr: "0.831.109.367.2"
 title: Abkommen vom 9. September 2021 zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/818"
 language: de
-version: 2022-08-16
+version: 2023-10-01
 adopted: 2021-09-09
 in_force: 2021-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/818/20220816/de/xml/fedlex-data-admin-ch-eli-cc-2021-818-20220816-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/818/20220816/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/818/20231001/de/xml/fedlex-data-admin-ch-eli-cc-2021-818-20231001-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/818/20231001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Abkommen zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland
 
-AS **2021** 818
+AS **2021** 818; BBl **2022** 1180
 
 *Originaltext*
 
-Abgeschlossen am 9. September 2021 Provisorisch angewendet durch Notenaustausch ab 1. November 2021
+Abgeschlossen am 9. September 2021 Von der Bundesversammlung genehmigt am 16. Dezember 2022[^t-1] Provisorisch angewendet durch Notenaustausch ab 1. November 2021 In Kraft getreten am 1. Oktober 2023[^t-2]
 
-(Stand am 16. August 2022)
+(Stand am 1. Oktober 2023)
+
+[^t-1]: AS **202****4** 74
+[^t-2]: [AS 2023 422](https://fedlex.data.admin.ch/eli/oc/2023/422)
 
 Die Schweizerische Eidgenossenschaft («Schweiz») und das Vereinigte Königreich von Grossbritannien und Nordirland («Vereinigtes Königreich») (zusammen «die Staaten» und einzeln «der Staat»)
 
@@ -1060,11 +1063,11 @@ Die Bestimmungen des Abkommens von 1968 gelten weiterhin in Bezug auf:
 
 *Zu Urkunde dessen* haben die Bevollmächtigten der beiden Regierungen dieses Abkommen unterzeichnet. Geschehen zu London am 9. September 2021, in zwei Urschriften, eine in englischer, die andere in deutscher Sprache; beide Fassungen sind in gleicher Weise verbindlich. Für die Schweizerische Eidgenossenschaft: Alain Berset Für das Vereinigte Königreich von Grossbritannien und Nordirland: Nigel Adams
 
-Anhang 1[^t-1]
+Anhang 1[^t-3]
 
 ## Durchführungsteil
 
-[^t-1]: Bereinigt gemäss Berichtigung vom 16. Aug. 2022 ([AS 2022 450](https://fedlex.data.admin.ch/eli/oc/2022/450)).
+[^t-3]: Bereinigt gemäss Berichtigung vom 16. Aug. 2022 ([AS 2022 450](https://fedlex.data.admin.ch/eli/oc/2022/450)).
 
 ### Titel I: Allgemeine Bestimmungen
 
@@ -2186,11 +2189,11 @@ Vereinigtes Königreich
 
 Gestaffelte Leistungen bei Alter, die nach dem National Insurance Act (nationales Versicherungsgesetz) 1965, Sections 36 und 37, und nach dem National Insurance Act (Northern Ireland) (nationales Versicherungsgesetz, Nordirland) 1966, Sections 35 und 36, gezahlt werden.
 
-Anhang 4[^t-2]
+Anhang 4[^t-4]
 
 ## Besondere Bestimmungen für die Anwendung der Rechtsvorschriften der Staaten (Artikel 6 Absatz 2, Artikel 53 Absatz 1 und Artikel 68)
 
-[^t-2]: Bereinigt gemäss Berichtigung vom 16. Aug. 2022 ([AS 2022 450](https://fedlex.data.admin.ch/eli/oc/2022/450)).
+[^t-4]: Bereinigt gemäss Berichtigung vom 16. Aug. 2022 ([AS 2022 450](https://fedlex.data.admin.ch/eli/oc/2022/450)).
 
 Vereinigtes Königreich
 

@@ -3,24 +3,29 @@ sr: "0.831.109.367.2"
 title: Convention du 9 septembre 2021 sur la coordination de la sécurité sociale entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/818"
 language: fr
-version: 2022-08-16
+version: 2023-10-01
 adopted: 2021-09-09
 in_force: 2021-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/818/20220816/fr/xml/fedlex-data-admin-ch-eli-cc-2021-818-20220816-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/818/20220816/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/818/20231001/fr/xml/fedlex-data-admin-ch-eli-cc-2021-818-20231001-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/818/20231001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Convention sur la coordination de la sécurité sociale entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord
 
-RO **2021** 818
+RO **2021** 818; FF **2022** 1180
 
 Traduction
 
-Conclue le 9 septembre 2021 Appliquée provisoirement par échange de notes dès le 1<sup>er</sup> novembre 2021
+Conclue le 9 septembre 2021 Approuvée par l’Assemblée fédérale le 16 décembre 2022[^t-1]
 
-(État le 16 août 2022)
+Appliquée provisoirement par échange de notes dès le 1<sup>er</sup> novembre 2021 Entrée en vigueur le 1<sup>er</sup> octobre 2023[^t-2]
+
+(État le 1<sup>er</sup> octobre 2023)
+
+[^t-1]: [RO 2024 74](https://fedlex.data.admin.ch/eli/oc/2024/74)
+[^t-2]: [RO 2023 422](https://fedlex.data.admin.ch/eli/oc/2023/422)
 
 La Confédération suisse («Suisse») et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord («Royaume-Uni») (ensemble «les États» et individuellement «l’État»)
 
@@ -131,28 +136,28 @@ Les définitions suivantes sont applicables aux fins de la présente convention:
 
 Telle qu’elle est appliquée par la Suisse, la présente convention s’applique:
 
-- a) aux ressortissants du Royaume-Uni, aux ressortissants suisses, aux ressortissants d’un État membre de l’Union européenne, aux apatrides et aux réfugiés, qui sont ou ont été soumis à la législation de l’un ou l’autre des États ou des deux; et
+- a) aux ressortissants du Royaume-Uni, aux ressortissants suisses, aux ressortissants d’un État membre de l’Union européenne, aux apatrides et aux réfugiés, qui sont ou ont été soumis à la législation de l’un ou l’autre des États ou des deux, et
 - b) aux membres de la famille et aux survivants des personnes visées à la let. a).
 
 <sup>(2)</sup>
 
 Nonobstant le par. 1, la Suisse applique les dispositions de la présente convention, dans la mesure où elles concernent la détermination de la législation applicable aux fins du titre II:
 
-- a) aux personnes qui sont ou ont été soumises à la législation de l’un ou l’autre des États ou des deux; et
+- a) aux personnes qui sont ou ont été soumises à la législation de l’un ou l’autre des États ou des deux, et
 - b) aux membres de la famille et aux survivants des personnes visées à la let. a).
 
 <sup>(3)</sup>
 
 Telle qu’elle est appliquée par le Royaume-Uni, la présente convention s’applique:
 
-- a) aux personnes qui sont ou ont été soumises à la législation de l’un ou l’autre des États ou des deux; et
+- a) aux personnes qui sont ou ont été soumises à la législation de l’un ou l’autre des États ou des deux, et
 - b) aux membres de la famille et aux survivants des personnes visées à la let. a).
 
 <sup>(4)</sup>
 
 Nonobstant le par. 3, le Royaume-Uni applique les dispositions de la présente convention (à l’exception de l’art. 19), dans la mesure où elles concernent les prestations en nature, uniquement:
 
-- a) aux ressortissants du Royaume-Uni, aux ressortissants suisses, aux ressortissants d’un État membre de l’Union européenne, aux apatrides et aux réfugiés, qui sont ou ont été soumis à la législation de l’un ou l’autre des États ou des deux; et
+- a) aux ressortissants du Royaume-Uni, aux ressortissants suisses, aux ressortissants d’un État membre de l’Union européenne, aux apatrides et aux réfugiés, qui sont ou ont été soumis à la législation de l’un ou l’autre des États ou des deux, et
 - b) aux membres de la famille et aux survivants des personnes visées à la let. a).
 
 #### Art. 3
@@ -236,7 +241,7 @@ La présente convention ne s’applique pas:
 La présente disposition ne s’applique pas à la législation suisse sur:
 
 - a) l’assurance vieillesse, survivants et invalidité facultative;
-- b) l’assurance vieillesse, survivants et invalidité des ressortissants suisses qui travaillent à l’étranger au service de la Confédération suisse ou d’organisations au sens de l’art. 1*a*, al. 1, let. c, de de la loi fédérale sur l’assurance-vieillesse et survivants; et
+- b) l’assurance vieillesse, survivants et invalidité des ressortissants suisses qui travaillent à l’étranger au service de la Confédération suisse ou d’organisations au sens de l’art. 1*a*, al. 1, let. c, de de la loi fédérale sur l’assurance-vieillesse et survivants, et
 - c) l’assurance vieillesse, survivants et invalidité facultative des ressortissants suisses employés par des organisations au sens de de l’art. 1*a*, al. 4, let. b, de la loi fédérale sur l’assurance-vieillesse et survivants.
 
 #### Art. 9
@@ -255,7 +260,7 @@ La présente disposition ne s’applique pas à la législation suisse sur:
 À moins que la présente convention n’en dispose autrement, l’institution compétente d’un État tient compte, dans la mesure nécessaire, des périodes d’assurance, d’emploi, d’activité non salariée ou de résidence accomplies sous la législation de l’autre État comme s’il s’agissait de périodes accomplies sous la législation qu’elle applique, lorsque sa législation subordonne à l’accomplissement de périodes d’assurance, d’emploi, d’activité non salariée ou de résidence:
 
 - a) l’acquisition, le maintien, la durée ou le recouvrement du droit aux prestations;
-- b) l’admission au bénéfice d’une législation; ou
+- b) l’admission au bénéfice d’une législation, ou
 - c) l’accès à l’assurance obligatoire, facultative continuée ou volontaire, ou la dispense de ladite assurance.
 
 #### Art. 11
@@ -306,7 +311,7 @@ Sous réserve des art. 14 à 17:
 
 La personne qui exerce une activité salariée dans un État pour le compte d’un employeur y exerçant normalement ses activités, et que cet employeur envoie pour effectuer un travail pour son compte dans l’autre État, demeure soumise à la législation du premier État, à condition que:
 
-- a) la durée de ce travail n’excède pas vingt-quatre mois; et que
+- a) la durée de ce travail n’excède pas vingt-quatre mois, et que
 - b) cette personne ne soit pas envoyée en remplacement d’une autre personne détachée.
 
 <sup>(2)</sup> La personne qui exerce normalement une activité non salariée dans un État et qui part effectuer une activité semblable dans l’autre État demeure soumise à la législation du premier État, à condition que la durée prévisible de cette activité n’excède pas vingt-quatre mois.
@@ -329,7 +334,7 @@ Si cette personne n’exerce pas une partie substantielle de son activité décr
 
 La personne qui exerce normalement une activité non salariée dans les deux États est soumise:
 
-- a) à la législation de l’État de résidence, si cette personne exerce une partie substantielle de son activité dans cet État; ou
+- a) à la législation de l’État de résidence, si cette personne exerce une partie substantielle de son activité dans cet État, ou
 - b) à la législation de l’État dans lequel se situe le centre d’intérêt de ses activités, si cette personne ne réside pas dans l’un des États où elle exerce une partie substantielle de son activité.
 
 <sup>(4)</sup> La personne qui exerce normalement une activité salariée et une activité non salariée dans les deux États est soumise à la législation de l’État dans lequel elle exerce une activité salariée ou, si cette personne exerce une telle activité dans les deux États, à la législation déterminée conformément au par. 1.
@@ -401,7 +406,7 @@ Cependant, lorsque cet État compétent est le Royaume-Uni, les membres de la fa
 À moins que le par. 2 n’en dispose autrement, la personne assurée et les membres de sa famille qui séjournent dans l’État autre que l’État compétent ont droit aux prestations en nature servies, pour le compte de l’institution compétente, par l’institution du lieu de séjour conformément à la législation qu’elle s’applique, comme si les personnes concernées étaient assurées en vertu de ladite législation, lorsque:
 
 - a) les prestations en nature s’avèrent nécessaires du point de vue médical au cours du séjour, de l’avis du prestataire des prestations en nature, compte tenu de la nature des prestations et de la durée prévue du séjour;
-- b) la personne ne s’est pas rendue dans cet État aux fins d’y recevoir des prestations en nature, sauf si elle est un passager ou un membre d’équipage à bord d’un navire ou d’un aéronef se rendant dans cet État et que les prestations en nature s’avèrent nécessaires du point de vue médical au cours du voyage ou du vol; et
+- b) la personne ne s’est pas rendue dans cet État aux fins d’y recevoir des prestations en nature, sauf si elle est un passager ou un membre d’équipage à bord d’un navire ou d’un aéronef se rendant dans cet État et que les prestations en nature s’avèrent nécessaires du point de vue médical au cours du voyage ou du vol, et
 - c) une attestation de droit en cours de validité est présentée conformément à l’art. 22, par. 1, de l’annexe 1.
 
 <sup>(2)</sup> Le Comité administratif mixteétablit une liste des prestations en nature qui, pour être servies pendant un séjour dans l’autre État, nécessitent pour des raisons pratiques un accord préalable entre la personne concernée et l’institution dispensant les soins.
@@ -460,7 +465,7 @@ les membres de la famille de cette personne ont droit à des prestations en natu
 
 Lorsqu’une personne:
 
-- a) perçoit une pension ou des pensions en vertu de la législation d’un ou des deux États; et
+- a) perçoit une pension ou des pensions en vertu de la législation d’un ou des deux États, et
 - b) réside dans l’État autre que celui où résident les membres de sa famille,
 
 #### Art. 29
@@ -580,7 +585,7 @@ En cas d’aggravation d’une maladie professionnelle pour laquelle une victime
 
 L’art. 9 s’applique à l’institution compétente dans un État en ce qui concerne l’assimilation des accidents du travail et des maladies professionnelles survenus ou constatés ultérieurement sous la législation de l’autre État au moment où il s’agit d’apprécier le degré d’incapacité, l’ouverture du droit aux prestations ou le montant de celles-ci, à condition:
 
-- a) que l’accident du travail ou la maladie professionnelle antérieurement survenu ou constaté en vertu de la législation qu’elle applique n’ait pas donné lieu à indemnisation; et
+- a) que l’accident du travail ou la maladie professionnelle antérieurement survenu ou constaté en vertu de la législation qu’elle applique n’ait pas donné lieu à indemnisation, et
 - b) que l’accident du travail ou la maladie professionnelle survenu ou constaté postérieurement ne donne pas lieu à indemnisation en vertu de la législation de l’autre État sous laquelle il est survenu ou constaté.
 
 #### Art. 41
@@ -676,7 +681,7 @@ L’institution compétente calcule le montant de la prestation due:
 Lorsque le calcul effectué dans un seul État conformément au par. 1, let. a), a toujours pour résultat que la prestation autonome est égale ou supérieure à la prestation au *prorata*, calculée conformément au par. 1, let. b), l’institution compétente renonce au calcul au *prorata*, à condition:
 
 - a) que cette situation soit décrite à l’annexe 3, partie 1;
-- b) qu’aucune législation comportant des règles anticumul visées aux art. 50 et 52 ne soit applicable, à moins que les conditions fixées à l’art. 52, par. 2, ne soient remplies; et
+- b) qu’aucune législation comportant des règles anticumul visées aux art. 50 et 52 ne soit applicable, à moins que les conditions fixées à l’art. 52, par. 2, ne soient remplies, et
 - c) que l’art. 54 ne soit pas applicable aux périodes accomplies au titre de la législation de l’autre État, compte tenu de circonstances particulières dans ce cas précis.
 
 <sup>(5)</sup> Nonobstant les dispositions des par. 1, 2 et 3, le calcul au *prorata* ne s’applique pas aux régimes prévoyant des prestations dont le calcul ne repose pas sur des périodes, à condition que ces régimes soient mentionnés à l’annexe 3, partie 2. Dans ce cas, la personne concernée a droit à la prestation calculée conformément à la législation de l’État concerné.
@@ -708,7 +713,7 @@ Aux fins des clauses anticumul prévues par la législation d’un État en cas 
 
 Les clauses anticumul s’appliquent à une prestation autonome uniquement à la condition qu’il s’agisse:
 
-- a) d’une prestation dont le montant est indépendant de la durée des périodes d’assurance ou de résidence; ou
+- a) d’une prestation dont le montant est indépendant de la durée des périodes d’assurance ou de résidence, ou
 - b)
 
   d’une prestation dont le montant est déterminé en fonction d’une période fictive censée être accomplie entre la date de réalisation du risque et une date ultérieure, lorsqu’il y a cumul d’une telle prestation:
@@ -764,7 +769,7 @@ Pour le calcul du montant théorique et du *prorata* visés à l’art. 49, par.
 
 Nonobstant l’art. 49, par. 1, let. b), l’institution de l’un des États n’est pas tenue de servir des prestations au titre de périodes accomplies sous la législation qu’elle applique et qui sont à prendre en compte au moment de la réalisation du risque si:
 
-- a) la durée totale desdites périodes n’atteint pas une année; et
+- a) la durée totale desdites périodes n’atteint pas une année, et
 - b) compte tenu de ces seules périodes, aucun droit aux prestations n’est acquis en vertu de cette législation.
 
 <sup>(2)</sup> L’institution compétente de chacun des États concernés prend en compte les périodes visées au par. 1 aux fins de l’art. 49, par. 1, let. b) i).
@@ -1020,8 +1025,8 @@ Sous réserve de l’art. 75, la présente convention reste en vigueur jusqu’�
 
 En cas de dénonciation de la présente convention conformément à l’art. 74, les droits aux prestations en espèces acquis par une personne selon les dispositions de la présente convention sont maintenus si:
 
-- a) elle bénéficie desdites prestations en espèces à la date de la dénonciation; ou
-- b) à la date de la dénonciation ou avant, elle a introduit une demande pour ces prestations en espèces et aurait le droit de les recevoir; ou
+- a) elle bénéficie desdites prestations en espèces à la date de la dénonciation, ou
+- b) à la date de la dénonciation ou avant, elle a introduit une demande pour ces prestations en espèces et aurait le droit de les recevoir, ou
 - c) la seule raison pour laquelle elle n’a pas droit à ces prestations en espèces est qu’elle n’a pas introduit de demande à cet effet à la date de la dénonciation ou avant.
 
 <sup>(2)</sup> Avant l’expiration du délai visé à l’art. 74 et sans préjudice des garanties visées au par. 1, les États entament des discussions sur les mesures consécutives et transitoires appropriées pour la protection des personnes concernées par la dénonciation de la présente convention.
@@ -1036,7 +1041,7 @@ En cas de dénonciation de la présente convention conformément à l’art. 74,
 
 Sont également pris en considération pour la détermination du droit aux prestations en vertu de la présente convention:
 
-- i) toute période d’assurance et, le cas échéant, toute période d’activité salariée ou non-salariée, ou de résidence accomplie sous la législation des États avant la date d’entrée en vigueur de la présente convention; et
+- i) toute période d’assurance et, le cas échéant, toute période d’activité salariée ou non-salariée, ou de résidence accomplie sous la législation des États avant la date d’entrée en vigueur de la présente convention, et
 - ii) les événements assurés survenus avant la date d’entrée en vigueur de la présente convention.
 
 <sup>(3)</sup> La présente convention ne s’applique pas aux droits éteints par le versement d’une indemnité forfaitaire.
@@ -1293,7 +1298,7 @@ La durée minimale pendant laquelle cette personne doit avoir déjà exercé son
 
 Pour déterminer si une partie substantielle des activités est exercée dans un État, il est tenu compte des critères indicatifs qui suivent:
 
-- a) dans le cas d’une activité salariée, le temps de travail ou la rémunération; et
+- a) dans le cas d’une activité salariée, le temps de travail ou la rémunération, et
 - b) dans le cas d’une activité non salariée, le chiffre d’affaires, le temps de travail, le nombre de services prestés ou le revenu.
 
 <sup>(12)</sup> Aux fins de l’application de l’art. 15, par. 3, let. b), de la présente convention, le «centre d’intérêt» des activités d’un travailleur non salarié est déterminé en prenant en compte l’ensemble des éléments qui composent ses activités professionnelles, notamment le lieu où se trouve le siège fixe et permanent des activités de l’intéressé, le caractère habituel ou la durée des activités exercées, le nombre de services prestés, ainsi que la volonté de l’intéressé telle qu’elle ressort de toutes les circonstances.
@@ -1389,7 +1394,7 @@ L’institution du lieu de résidence avise l’institution compétente de toute
 Lorsqu’une personne ou les membres de sa famille:
 
 - a) ont reçu le document visé au par. 1;
-- b) ont enregistré ce document auprès de l’institution de leur lieu de résidence, conformément au par. 1; et
+- b) ont enregistré ce document auprès de l’institution de leur lieu de résidence, conformément au par. 1, et
 - c) qu’une redevance pour soins de santé a été acquittée par, ou pour le compte de, cette personne ou des membres de sa famille à l’État de résidence, dans le cadre d’une demande de permis d’entrée, de séjour, de travail ou de résidence dans cet État,
 
 <sup>(5)</sup> Lorsqu’une demande est présentée conformément au par. 1, l’institution de l’État de résidence statue sur cette demande dans un délai de trois mois civils à compter du jour de la réception de la demande, et effectue tout remboursement conformément au présent article.
@@ -1438,7 +1443,7 @@ Lorsqu’une personne:
 
 - a) est titulaire d’une attestation de droit en cours de validité, visé à l’appendice 1, délivré par l’institution compétente;
 - b) a été admise par un établissement d’enseignement supérieur d’un État autre que l’État compétent («État d’études») à suivre un cycle d’études à temps plein menant à un diplôme de l’enseignement supérieur reconnu par cet État, y compris des diplômes, certificats ou titres de doctorat d’un établissement d’enseignement supérieur pouvant couvrir un cycle préparatoire préalable à ce type de formation, conformément au droit national en vigueur, ou une formation obligatoire;
-- c) n’exerce pas ou n’a pas exercé d’activité salariée ou non salariée dans l’État d’études pendant la période à laquelle se rapporte la redevance pour soins de santé; et
+- c) n’exerce pas ou n’a pas exercé d’activité salariée ou non salariée dans l’État d’études pendant la période à laquelle se rapporte la redevance pour soins de santé, et
 - d) qu’une la redevance pour soins de santé a été versée par cette personne, ou pour son compte, à l’État d’études dans le cadre d’une demande de permis d’entrée, de séjour ou de résidence, aux fins d’y suivre un cycle d’études à temps plein;
 
 <sup>(12)</sup> Lorsqu’une demande est présentée conformément au par. 11, l’institution de l’État d’études traite et règle cette demande dans un délai raisonnable mais au plus tard dans les six mois civils à compter de la date de réception de la demande, et effectue tout remboursement conformément au présent article.
@@ -1674,7 +1679,7 @@ Il incombe à cette institution d’instruire la demande de prestations au titre
 
 Nonobstant l’art. 2, par. 1, de la présente convention, l’institution suisse notifie également à l’institution de contact du Royaume-Uni les périodes d’assurance accomplies sous la législation suisse aux fins de l’application de la Convention par le Royaume-Uni à:
 
-- a) une personne qui ne relève pas du champ d’application de la présente convention telle qu’appliquée par la Suisse en vertu de l’art. 2, par. 1, de la présente convention, en raison de sa nationalité; et
+- a) une personne qui ne relève pas du champ d’application de la présente convention telle qu’appliquée par la Suisse en vertu de l’art. 2, par. 1, de la présente convention, en raison de sa nationalité, et
 - b) les membres de la famille d’une personne décrite à la let. a).
 
 #### Art. 38
@@ -1756,7 +1761,7 @@ est remboursé par les institutions compétentes aux institutions qui ont servi 
 
 Dans le cas du Royaume-Uni et, le montant des prestations en nature servies:
 
-- a) sous réserve de l’art. 34 de la présente convention, aux membres de la famille qui ne résident pas dans le même État que la personne assurée, en vertu de l’art. 20 de la présente convention; et
+- a) sous réserve de l’art. 34 de la présente convention, aux membres de la famille qui ne résident pas dans le même État que la personne assurée, en vertu de l’art. 20 de la présente convention, et
 - b) aux pensionnés et aux membres de leur famille, en vertu des art. 27, par. 1 et 28 de la présente convention,
 
 #### Art. 46
@@ -1919,7 +1924,7 @@ Aux fins de la présente section, on entend par:
 L’entité requise n’est pas tenue de fournir des renseignements:
 
 - a) qu’elle ne serait pas en mesure d’obtenir pour le recouvrement des créances similaires nées sur son propre territoire;
-- b) qui divulgueraient un secret commercial, industriel ou professionnel; ou
+- b) qui divulgueraient un secret commercial, industriel ou professionnel, ou
 - c) dont la communication serait de nature à porter atteinte à la sécurité ou à l’ordre public d’un État.
 
 <sup>(4)</sup> L’entité requise informe l’entité requérante des motifs qui s’opposent à ce que la demande de renseignements soit satisfaite.
@@ -2022,7 +2027,7 @@ L’entité requise n’est pas tenue:
 
 Les questions concernant la prescription sont régies:
 
-- a) par les règles de droit en vigueur dans l’État de l’entité requérante, pour autant qu’elles concernent la créance ou le titre qui en permet l’exécution; et
+- a) par les règles de droit en vigueur dans l’État de l’entité requérante, pour autant qu’elles concernent la créance ou le titre qui en permet l’exécution, et
 - b) par les règles de droit en vigueur dans l’État de l’entité requise, pour autant qu’elles portent sur les mesures d’exécution dans l’État de l’entité requise.
 
 <sup>(2)</sup> Le délai de prescription selon les règles de droit en vigueur dans l’État de l’entité requise commence à courir à compter de la date de reconnaissance directe ou de la date d’homologation, de reconnaissance, de complément ou de remplacement du titre conformément à l’art. 60 de la présente annexe.
@@ -2184,17 +2189,17 @@ Royaume-Uni
 
 Prestations proportionnelles de vieillesse versées conformément aux art. 36 et 37 de la loi de 1965 sur l’assurance nationale (National Insurance Act 1965) et aux art. 35 et 36 de la loi de 1966 sur l’assurance nationale (Irlande du Nord) [National Insurance Act (Northern Ireland) 1966].
 
-Annexe 4[^t-1]
+Annexe 4[^t-3]
 
 ## Dispositions particulières d’application de la législation des États (Art. 6, par. 2, art. 53, par. 1, et art. 68)
 
-[^t-1]: Mise à jour par l’erratum du 16 août 2022 ([RO 2022 450](https://fedlex.data.admin.ch/eli/oc/2022/450)).
+[^t-3]: Mise à jour par l’erratum du 16 août 2022 ([RO 2022 450](https://fedlex.data.admin.ch/eli/oc/2022/450)).
 
 Royaume-Uni
 
 \1. Lorsque, en vertu de la législation du Royaume-Uni, une personne peut prétendre au bénéfice d’une pension de retraite si:
 
-- a) les cotisations de l’ex-conjoint sont prises en compte comme des cotisations personnelles; ou
+- a) les cotisations de l’ex-conjoint sont prises en compte comme des cotisations personnelles, ou
 - b)
 
   les conditions de cotisations sont remplies par son conjoint ou ex-conjoint, et qu’en tout état de cause, son conjoint ou ex-conjoint est ou a été soumis, en qualité de travailleur salarié ou non salarié, à la législation des deux États, les dispositions du chapitre 5 du titre III de la présente convention s’appliquent pour la détermination de ses droits à pension au titre de la législation du Royaume-Uni. Dans ce cas, toute référence, dans le chapitre 5 du titre III de la présente convention, à une «période d’assurance» est considérée comme une référence à une période d’assurance accomplie par:

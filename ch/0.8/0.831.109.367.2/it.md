@@ -3,24 +3,27 @@ sr: "0.831.109.367.2"
 title: Convenzione del 9 settembre 2021 sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/818"
 language: it
-version: 2022-08-16
+version: 2023-10-01
 adopted: 2021-09-09
 in_force: 2021-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/818/20220816/it/xml/fedlex-data-admin-ch-eli-cc-2021-818-20220816-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/818/20220816/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/818/20231001/it/xml/fedlex-data-admin-ch-eli-cc-2021-818-20231001-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/818/20231001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera
 
-RU **2021** 818
+RU **2021** 818; FF **2022** 1180
 
 *Traduzione*
 
-Conclusa il 9 settembre 2021 Applicata provvisoriamente mediante scambio di note il 1° novembre 2021
+Conclusa il 9 settembre 2021 Applicata provvisoriamente mediante scambio di note il 1° novembre 2021 Approvata dall’Assemblea federale il 16 dicembre 2022[^t-1] Entrata in vigore il 1° ottobre 2023[^t-2]
 
-(Stato 16 agosto 2022)
+(Stato 1° ottobre 2023)
+
+[^t-1]: [RU 2024 74](https://fedlex.data.admin.ch/eli/oc/2024/74)
+[^t-2]: [RU 2023 422](https://fedlex.data.admin.ch/eli/oc/2023/422)
 
 La Confederazione Svizzera («Svizzera») e il Regno Unito di Gran Bretagna e Irlanda del Nord («Regno Unito») (insieme «gli Stati» e singolarmente «lo Stato»),
 
@@ -2054,11 +2057,11 @@ Regno Unito
 
 Prestazioni proporzionali di vecchiaia versate conformemente agli articoli 36 e 37 della legge nazionale sulla previdenza del 1965 e agli articoli 35 e 36 della legge nazionale sulla previdenza (Irlanda del Nord) del 1966.
 
-Allegato 4[^t-1]
+Allegato 4[^t-3]
 
 ## Disposizioni particolari relative all’applicazione della legislazione degli Stati (art. 6 par. 2, 53 par. 1 e 68)
 
-[^t-1]: Aggiornato dalla correzione del 16 ago. 2022 ([RU 2022 450](https://fedlex.data.admin.ch/eli/oc/2022/450)).
+[^t-3]: Aggiornato dalla correzione del 16 ago. 2022 ([RU 2022 450](https://fedlex.data.admin.ch/eli/oc/2022/450)).
 
 Regno Unito
 
