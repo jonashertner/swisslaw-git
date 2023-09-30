@@ -4,24 +4,24 @@ number: "610.110"
 title: Verordnung zum Gesetz über den kantonalen Finanzhaushalt
 short: Finanzhaushaltverordnung
 language: de
-version: 2023-01-01
-valid_until: 2023-09-30
-version_adopted: 2023-01-24
+version: 2023-10-01
+valid_until: 2024-04-30
+version_adopted: 2023-09-19
 adopted: 2012-05-22
 in_force: 2012-04-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/610.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5815/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6079/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Gesetz über den kantonalen Finanzhaushalt
 
-Finanzhaushaltverordnung | Finanzordnung
+Finanzordnung
 
 (Finanzhaushaltverordnung)
 
-Vom 22. Mai 2012 (Stand 1. Januar 2023)
+Vom 22. Mai 2012 (Stand 1. Oktober 2023)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -361,7 +361,9 @@ beschliesst:
 
 **Nicht oder teilweise genutzte Ausgabenbewilligung**
 
-<sup>1</sup> Nicht oder nur teilweise genutzte Ausgabenbewilligungen verfallen drei Jahre nach Bewilligung oder nach letztmaliger Verwendung.
+<sup>1</sup> Nicht oder nur teilweise genutzte Ausgabenbewilligungen verfallen vier Jahre nach Beschlussfassung oder nach letztmaliger Verwendung.
+
+<sup>2</sup> Der Regierungsrat kann die Geltungsdauer gemäss Abs. 1 um maximal vier Jahre verlängern, wenn das Vorhaben aufgrund von nicht beeinflussbaren Faktoren Verzögerungen erfahren hat und sich die Rahmenbedingungen nicht grundsätzlich verändert haben.
 
 #### § 29
 
@@ -706,6 +708,12 @@ beschliesst:
 **Übergangsbestimmung**
 
 <sup>1</sup> Die bisherige Verordnung gilt für den Haushaltsvollzug bis Ende 2012 und bis zur Genehmigung der Staatsrechnung 2012 durch den Grossen Rat im 2013.
+
+#### § 57a
+
+**Übergangsbestimmung zu § 28**
+
+<sup>1</sup> Die bei Inkrafttreten von § 28 dieser Verordnung laufenden Ausgabenbewilligungen unterliegen der neuen Regelung.
 
 #### § 58
 
