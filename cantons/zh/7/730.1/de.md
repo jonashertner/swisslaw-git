@@ -4,11 +4,11 @@ number: "730.1"
 title: Energiegesetz (EnerG)
 short: EnerG
 language: de
-version: "2022-09-01"
-nachtrag: "118"
-valid_until: 2023-10-01
+version: "2023-10-01"
+nachtrag: "122"
+valid_until: 2024-06-01
 adopted: 1983-06-19
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-730_1-1983_06_19-1986_07_01-118.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-730_1-1983_06_19-1986_07_01-122.html"
 text: pdf
 ---
 
@@ -35,7 +35,7 @@ I. Allgemeines
 [^t-3]: Fassung gemäss G vom 31. August 2009 (OS 65, 460; ABl 2008, 758). In Kraft seit 1. September 2010.
 [^t-4]: Fassung gemäss G vom 19. April 2021 (OS 77, 363; ABl 2020-05-15). In Kraft seit 1. September 2022.
 [^t-5]: Fassung gemäss G vom 20. September 2010 (OS 66, 55; ABl 2009, 1706). In Kraft seit 1. März 2011.
-[^t-6]: SR 734.7. 1.10. 22 - 118 11
+[^t-6]: SR 734.7.
 [^t-7]: Fassung gemäss G über selbstständige Gemeindeanstalten vom 25. Oktober 2004 (OS 60, 71). In Kraft seit 1. April 2005 (OS 60, 73).
 
 #### § 2
@@ -56,7 +56,7 @@ I. Allgemeines
 
 **1**
 
-1.10. 22 - 118
+1.10. 23 - 122
 
 [^3-1]: Fassung gemäss G vom 25. Oktober 2021 (OS 77, 239; ABl 2021-02-05). In Kraft seit 1. Juni 2022.
 
@@ -107,18 +107,21 @@ Die Gemeinden und die in der Energieversorgung tätigen Unternehmen sind zur Mit
 
 <sup>2</sup> Die Energieplanung kann für das Angebot der Wärmeversorgung mit leitungsgebundenen Energieträgern Gebietsausscheidungen enthalten, die insbesondere bei Massnahmen der Raumplanung als Entscheidungsgrundlage dienen.
 
-<sup>3</sup> Die kommunale Energieplanung unterliegt der Genehmigung der Direktion.
+<sup>3</sup> Die in der Energieversorgung tätigen Unternehmen wirken an der Energieplanung mit. Sie und die Verbraucher liefern der Gemeinde die erforderlichen Auskünfte.[^5-3]
 
-§ 8.[^5-3]
+<sup>4</sup> Die kommunale Energieplanung unterliegt der Genehmigung der Direktion.
+
+§ 8.[^5-4]
 
 [^5-1]: Fassung gemäss G vom 25. Oktober 2021 (OS 77, 239; ABl 2021-02-05). In Kraft seit 1. Juni 2022.
 [^5-2]: Fassung gemäss G über die Anpassung des kantonalen Verwaltungsverfahrensrechts vom 22. März 2010 (OS 65, 390; ABl 2009, 801). In Kraft seit 1. Juli 2010.
-[^5-3]: Aufgehoben durch G vom 25. Oktober 2021 (OS 77, 239; ABl 2021-02-05). In Kraft seit 1. Juni 2022.
-[^5-4]: Eingefügt durch G vom 20. September 2010 (OS 66, 55; ABl 2009, 1706). In Kraft seit 1. März 2011.
+[^5-3]: Eingefügt durch G vom 5. Dezember 2022 (OS 78, 376; ABl 2022-07-08). In Kraft seit 1. Oktober 2023. 1.10. 23 - 122 13
+[^5-4]: Aufgehoben durch G vom 25. Oktober 2021 (OS 77, 239; ABl 2021-02-05). In Kraft seit 1. Juni 2022.
+[^5-5]: Eingefügt durch G vom 20. September 2010 (OS 66, 55; ABl 2009, 1706). In Kraft seit 1. März 2011.
 
 ### II a. Vollzug des Stromversorgungsgesetzes
 
-[^5-4]
+[^5-5]
 
 **Zuteilung der Netzgebiete**
 
@@ -146,15 +149,17 @@ Die Gemeinden und die in der Energieversorgung tätigen Unternehmen sind zur Mit
 
 § 8 c.[^hIIaVollzugdesSt-1] <sup>1</sup> Im zugewiesenen Gebiet ist ausschliesslich der Netzbetreiber berechtigt, Netzanschlüsse für Endverbraucher zu erstellen.
 
+**3**
+
+1.10. 23 - 122
+
 <sup>2</sup> Ein Netzbetreiber ist verpflichtet, sämtliche Endverbraucher seines Gebiets anzuschliessen, ausgenommen diejenigen Endverbraucher, die von ihrem Anschlussrecht keinen Gebrauch machen wollen. Befindet sich der Endverbraucher ausserhalb der Bauzone, dürfen ihm höchstens die tatsächlich verursachten Anschlusskosten auferlegt werden. Im Streitfall entscheidet der Netzbetreiber mit Verfügung.
 
 <sup>3</sup> Ein Netzbetreiber kann einen Endverbraucher ausserhalb seines Netzgebietes anschliessen, wenn dieser, die betroffenen Netzbetreiber und Gemeinden sowie die zuständige Direktion zustimmen.
 
-**3**
-
-1.10. 22 - 118 § 8 d.[^hIIaVollzugdesSt-1] Der Regierungsrat kann Massnahmen gemäss Art. 14 Abs. 4 StromVG[^hIIaVollzugdesSt-2] zur Angleichung unverhältnismässiger Unterschiede bei den Netznutzungstarifen beschliessen.
-
 **Angleichung unterschiedlicher Netznutzungstarife**
+
+§ 8 d.[^hIIaVollzugdesSt-1] Der Regierungsrat kann Massnahmen gemäss Art. 14 Abs. 4 StromVG[^hIIaVollzugdesSt-2] zur Angleichung unverhältnismässiger Unterschiede bei den Netznutzungstarifen beschliessen.
 
 **Rechtsschutz**
 
@@ -163,7 +168,7 @@ Die Gemeinden und die in der Energieversorgung tätigen Unternehmen sind zur Mit
 <sup>2</sup> Der Regierungsrat entscheidet über Rekurse betreffend diejenigen Anteile im Elektrizitätstarif, die Abgaben und Leistungen an das Gemeinwesen darstellen.
 
 [^hIIaVollzugdesSt-1]: Eingefügt durch G vom 20. September 2010 (OS 66, 55; ABl 2009, 1706). In Kraft seit 1. März 2011.
-[^hIIaVollzugdesSt-2]: SR 734.7. 1.10. 22 - 118 11
+[^hIIaVollzugdesSt-2]: SR 734.7.
 
 ### III. Besondere Massnahmen
 
@@ -221,11 +226,11 @@ Die Gemeinden und die in der Energieversorgung tätigen Unternehmen sind zur Mit
 
 § 11.[^hIIIBesondereMassn-7],[^hIIIBesondereMassn-8] <sup>1</sup> Der Energiebedarf von Neubauten für Heizung, Warmwasser, Lüftung und Klimatisierung muss ohne CO2-Emissionen aus fossilen Brennstoffen gedeckt werden.
 
-<sup>2</sup> Werden Wärmeerzeuger in bestehenden Bauten ersetzt, müssen ausschliesslich erneuerbare Energien eingesetzt werden, wenn dies a. technisch möglich ist und b. die Lebenszykluskosten um höchstens 5% erhöht.
-
 **5**
 
-1.10. 22 - 118
+1.10. 23 - 122
+
+<sup>2</sup> Werden Wärmeerzeuger in bestehenden Bauten ersetzt, müssen ausschliesslich erneuerbare Energien eingesetzt werden, wenn dies a. technisch möglich ist und b. die Lebenszykluskosten um höchstens 5% erhöht.
 
 <sup>3</sup> Die Lebenszykluskosten werden berechnet aus den Investitionskosten und den Betriebskosten über die Lebensdauer. In die Investitionskosten eingerechnet werden neben dem Ersatz des Wärmeerzeugers auch für den Betrieb notwendige Zusatzinvestitionen im und am Gebäude.
 
@@ -279,13 +284,15 @@ Die Gemeinden und die in der Energieversorgung tätigen Unternehmen sind zur Mit
 
 <sup>3</sup> Der Bau neuer und die Sanierung bestehender beheizter Freiluftbäder sowie der Ersatz und die wesentliche Änderung der technischen Einrichtungen zu deren Beheizung sind nur zulässig, wenn die Beheizung ausschliesslich mit erneuerbarer Energie oder mit nicht anderweitig nutzbarer Abwärme erfolgt.
 
-<sup>4</sup> Elektrische Wärmepumpen dürfen zur Beheizung von Freiluftbädern eingesetzt werden, wenn eine Abdeckung der Wasserfläche gegen Wärmeverluste vorhanden ist.
-
 **7**
 
-1.10. 22 - 118 § 12 a.[^hIIIBesondereMassn-9] Kompostierbare Abfälle, die nicht dezentral kompostiert werden können, sind unter Ausschöpfung des Energiepotenzials in zentralen Anlagen zu marktfähigen Produkten zu verwerten, soweit dies technisch möglich und wirtschaftlich ist.
+1.10. 23 - 122
+
+<sup>4</sup> Elektrische Wärmepumpen dürfen zur Beheizung von Freiluftbädern eingesetzt werden, wenn eine Abdeckung der Wasserfläche gegen Wärmeverluste vorhanden ist.
 
 **Kompostierbare Abfälle**
+
+§ 12 a.[^hIIIBesondereMassn-9] Kompostierbare Abfälle, die nicht dezentral kompostiert werden können, sind unter Ausschöpfung des Energiepotenzials in zentralen Anlagen zu marktfähigen Produkten zu verwerten, soweit dies technisch möglich und wirtschaftlich ist.
 
 **Wärmenutzung bei Elektrizitätserzeugungsanlagen**
 
@@ -303,11 +310,9 @@ Die Gemeinden und die in der Energieversorgung tätigen Unternehmen sind zur Mit
 
 § 13 a. <sup>1</sup> Grossverbraucher mit einem jährlichen Wärmeverbrauch von mehr als fünf Gigawattstunden oder einem jährlichen Elektrizitätsverbrauch von mehr als einer halben Gigawattstunde können durch die Direktion oder auf ihrem Gebiet durch die Städte Zürich und Winterthur verpflichtet werden, ihren Energieverbrauch zu analysieren und zumutbare Massnahmen zur Verbrauchsreduktion zu realisieren.[^hIIIBesondereMassn-12]
 
-<sup>2</sup> Absatz 1 ist nicht anwendbar für Grossverbraucher, die sich verpflichten, individuell oder in einer Gruppe vom Regierungsrat vorgegebene Ziele für die Entwicklung des Energieverbrauchs einzuhalten. Überdies kann sie der Regierungsrat von der Einhaltung näher zu bezeichnender energietechnischer Vorschriften entbinden.
+<sup>2</sup> Absatz 1 ist nicht anwendbar für Grossverbraucher, die sich verpflichten, individuell oder in einer Gruppe vom Regierungsrat vorgegebene Ziele für die Entwicklung des Energieverbrauchs einzuhalten. Überdies kann sie der Regierungsrat von der Einhaltung näher zu bezeichnender energietechnischer Vorschriften entbinden. § 13 b.[^hIIIBesondereMassn-10] Der Regierungsrat kann für bestimmte Bauten die Erstellung eines Gebäudeenergieausweises der Kantone (GEAK) verlangen.
 
 **Gebäudeenergieausweis der Kantone**
-
-§ 13 b.[^hIIIBesondereMassn-10] Der Regierungsrat kann für bestimmte Bauten die Erstellung eines Gebäudeenergieausweises der Kantone (GEAK) verlangen.
 
 **Minergie**
 
@@ -329,7 +334,7 @@ Die Gemeinden und die in der Energieversorgung tätigen Unternehmen sind zur Mit
 [^hIIIBesondereMassn-8]: Fassung gemäss G vom 19. April 2021 (OS 77, 363; ABl 2020-05-15). In Kraft seit 1. September 2022.
 [^hIIIBesondereMassn-9]: Eingefügt durch G vom 25. Juni 1995 (OS 53, 222). In Kraft seit 1. Januar 1996 (OS 53, 302).
 [^hIIIBesondereMassn-10]: Eingefügt durch G vom 11. Juli 2011 (OS 68, 178; ABl 2010, 371). In Kraft seit 1. Juni 2013.
-[^hIIIBesondereMassn-11]: Aufgehoben durch G vom 19. April 2021 (OS 77, 363; ABl 2020-05-15). In Kraft seit 1. September 2022. 1.10. 22 - 118 13
+[^hIIIBesondereMassn-11]: Aufgehoben durch G vom 19. April 2021 (OS 77, 363; ABl 2020-05-15). In Kraft seit 1. September 2022.
 [^hIIIBesondereMassn-12]: Fassung gemäss G über die Anpassung des kantonalen Verwaltungsverfahrensrechts vom 22. März 2010 (OS 65, 390; ABl 2009, 801). In Kraft seit 1. Juli 2010.
 
 #### § 14
@@ -368,13 +373,13 @@ Die Gemeinden fördern die Information und die Beratung in Energiefragen.
 
 § 16.[^15-1] <sup>1</sup> Der Kanton kann die Energieplanung, Massnahmen und Pilotprojekte zur rationellen Energienutzung und zur Nutzung von Abwärme und erneuerbaren Energien, die Ausarbeitung von Unterlagen für die Energieversorgung sowie die Information, die Beratung und die berufliche Weiterbildung auf den Gebieten der Energieversorgung und -nutzung fördern.
 
+**9**
+
+1.10. 23 - 122
+
 <sup>2</sup> Der Kantonsrat bewilligt mindestens alle vier Jahre einen Rahmenkredit, aus dem der Regierungsrat oder die Direktion Subventionen gemäss Abs. 1 gewährt.
 
 <sup>3</sup> Aus den Globalbeiträgen des Bundes aus der Teilzweckbindung der CO2-Abgabe zur Verminderung der CO2-Emissionen und der Verbesserung der Energieeffizienz bei Gebäuden können Subventionen gewährt werden.
-
-**9**
-
-1.10. 22 - 118
 
 [^15-1]: Fassung gemäss G vom 19. April 2021 (OS 77, 363; ABl 2020-05-15). In Kraft seit 1. September 2022.
 
@@ -453,13 +458,17 @@ Das Gesetz über die Raumplanung und das öffentliche Baurecht (Planungs- und Ba
 1.[^hÜbergangsbestimmunge-1] 2.[^hÜbergangsbestimmunge-2] 3.[^hÜbergangsbestimmunge-2]
 
 [^hÜbergangsbestimmunge-1]: Aufgehoben durch G vom 2. Juli 2001 (OS 57, 51). In Kraft seit 1. Mai 2002 (OS 57, 157).
-[^hÜbergangsbestimmunge-2]: Aufgehoben durch G vom 19. April 2021 (OS 77, 363; ABl 2020-05-15). In Kraft seit 1. September 2022. 1.10. 22 - 118 13
+[^hÜbergangsbestimmunge-2]: Aufgehoben durch G vom 19. April 2021 (OS 77, 363; ABl 2020-05-15). In Kraft seit 1. September 2022.
 
 ### Übergangsbestimmung zur Änderung vom 28. Oktober 2013
 
 (OS 69, 262)
 
 Die Zuständigkeit für die Beurteilung der im Zeitpunkt des Inkrafttretens hängigen Rechtsmittel bestimmt sich nach bisherigem Recht. Die bisherigen Zuständigkeiten gelten auch dann, wenn die Rechtsmittelfrist vor dem Inkrafttreten des neuen Rechts zu laufen begonnen hat, aber erst nachher endet. Im Übrigen findet das neue Recht auf hängige Verfahren Anwendung.
+
+**11**
+
+1.10. 23 - 122
 
 ### Übergangsbestimmung zur Änderung vom 26. Oktober 2020
 
