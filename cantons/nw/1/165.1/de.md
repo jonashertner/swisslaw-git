@@ -1,25 +1,25 @@
 ---
 canton: NW
 number: "165.1"
-title: Gesetz über das öffentlichrechtliche Arbeitsverhältnis
+title: Gesetz über das öffentlich-rechtliche Arbeitsverhältnis
 short: "Personalgesetz, PersG"
 language: de
-version: 2022-02-01
-valid_until: 2023-09-30
-version_adopted: 2020-02-12
+version: 2023-10-01
+valid_until: 2025-12-31
+version_adopted: 2023-05-31
 adopted: 1998-06-03
 in_force: 1999-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/165.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1024/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1178/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über das öffentlichrechtliche Arbeitsverhältnis
+# Gesetz über das öffentlich-rechtliche Arbeitsverhältnis
 
 (Personalgesetz, PersG)
 
-vom 03.06.1998 (Stand 01.02.2022)
+vom 03.06.1998 (Stand 01.10.2023)
 
 Der Landrat von Nidwalden,
 
@@ -31,31 +31,43 @@ beschliesst:
 
 #### Art. 1
 
-**Geltungsbereich 1. für das Personal des Kantons**
+**Geltungsbereich 1. Kanton**
 
-<sup>1</sup> Diesem Gesetz unterstehen die vom Kanton im öffentlichrechtlichen Arbeitsverhältnis beschäftigten Personen.
+<sup>1</sup> Dieses Gesetz gilt für die vom Kanton beschäftigten Personen.
 
-<sup>2</sup> Für einzelne Personalkategorien können durch die Spezialgesetzgebung abweichende Bestimmungen erlassen werden.
+<sup>2</sup> …
 
 #### Art. 2
 
-**2. für das Personal der selbständigen kantonalen Anstalten**
+**2. Gemeinden**
 
-<sup>1</sup> Diesem Gesetz sind die im öffentlichrechtlichen Arbeitsverhältnis beschäftigten Personen von selbständigen kantonalen Anstalten unterstellt, soweit nicht aufgrund der Spezialgesetzgebung etwas anderes bestimmt ist.
+<sup>1</sup> Dieses Gesetz gilt für die von den Gemeinden beschäftigten Personen.
 
-<sup>2</sup> Die Verwaltungsbehörde der Anstalt nimmt die Aufgaben und Befugnisse wahr, welche die Personalgesetzgebung dem Landrat und dem Regierungsrat einräumt.
+<sup>2</sup> Die Stimmberechtigten der Gemeinde können in einem Reglement:
+
+- 1\. Regelungen erlassen, die von den personalrechtlichen Verordnungen des Kantons abweichen; oder
+- 2\. den administrativen Rat ermächtigen, in einem dem fakultativen Referendum unterstehenden Erlass Regelungen zu erlassen, die von den personalrechtlichen Verordnungen des Kantons abweichen.
+
+<sup>3</sup> Beim Vollzug nimmt:
+
+- 1\. die Gemeindeversammlung die Aufgaben wahr, welche die Personalgesetzgebung dem Landrat zuweist;
+- 2\. der administrative Rat die Aufgaben wahr, welche die Personalgesetzgebung dem Regierungsrat zuweist.
+
+<sup>4</sup> Die Anpassung der Lohnsumme für das folgende Jahr gemäss Art. 33 Abs. 2 Ziff. 2 und Abs. 3 hat sich am Beschluss des Landrates für das Kantonspersonal zu orientieren.
+
+<sup>5</sup> Die Entlöhnung der Lehrpersonen der Gemeinden richtet sich nach Art. 23 des Bildungsgesetzes[^2-1]
+
+[^2-1]: NG 311.1
 
 #### Art. 3
 
-**3. für das Personal der Gemeinden**
+**3. öffentlich-rechtliche Anstalten**
 
-<sup>1</sup> Soweit die Gemeinden für die von ihnen im öffentlichrechtlichen Arbeitsverhältnis beschäftigten Personen in der Gemeindeordnung oder in einem Reglement keine abweichenden Bestimmungen erlassen, ist für deren Mitarbeiterinnen und Mitarbeiter die kantonale Personalgesetzgebung sinngemäss anwendbar.
+<sup>1</sup> Dieses Gesetz gilt für die von selbständigen öffentlich-rechtlichen Anstalten des Kantons und der Gemeinden beschäftigten Personen, soweit die kantonale beziehungsweise kommunale Spezialgesetzgebung nichts anderes bestimmt.
 
-<sup>2</sup> An die Stelle des Landrates tritt die Gemeindeversammlung, an die Stelle des Regierungsrates der administrative Rat. Bei der Anpassung der Lohnsumme für das folgende Jahr gemäss Art. 33 Abs. 2 Ziff. 2 und Abs. 3 ist der Beschluss des Landrates sinngemäss verbindlich.
+<sup>2</sup> Die Verwaltungsbehörde der Anstalt kann Regelungen erlassen, die von den personalrechtlichen Verordnungen des Kantons abweichen. Sie bedürfen der Genehmigung durch den Regierungsrat.
 
-<sup>3</sup> Die Entlöhnung der Lehrpersonen der Schulgemeinden richtet sich nach Art. 23 des Bildungsgesetzes[^3-1].
-
-[^3-1]: NG 311.1
+<sup>3</sup> Beim Vollzug nimmt die Verwaltungsbehörde der Anstalt die Aufgaben und Befugnisse wahr, welche die Personalgesetzgebung dem Landrat oder dem Regierungsrat zuweist.
 
 #### Art. 4
 
@@ -65,7 +77,7 @@ beschliesst:
 
 **Rechtsnatur des Arbeitsverhältnisses**
 
-<sup>1</sup> Die Arbeitsverhältnisse sind grundsätzlich öffentlichrechtlich; die Anstellung durch einen zivilrechtlichen Arbeitsvertrag bleibt im Rahmen der Gesetzgebung vorbehalten.
+<sup>1</sup> Die Arbeitsverhältnisse sind öffentlich-rechtlich.
 
 #### Art. 6
 
@@ -89,20 +101,7 @@ beschliesst:
 
 <sup>2</sup> Es arbeitet mit den führungsverantwortlichen Linienstellen unmittelbar zusammen. Es kann zu allen Personal- und Organisationsentscheiden Stellung nehmen.
 
-<sup>3</sup> Das Personalamt ist insbesondere zuständig für:
-
-- 1\. die Erarbeitung von fachlichen Entscheidungsgrundlagen in Personal- und allgemeinen Organisationsfragen;
-- 2\. die Vorbereitung und den rechtsgleichen Vollzug der personalrechtlichen Erlasse;
-- 3\. die Ausfertigung aller individuellen Arbeitsverträge;
-- 4\. die Beurteilung allgemeiner und individueller Personalfragen;
-- 5\. die Organisation und Überwachung der Personalbeurteilung;
-- 6\. die Bearbeitung grundsätzlicher Fragen der Führung und der Organisation;
-- 7\. die Aus-, Fort-, und Weiterbildung;
-- 8\. die Betreuung der Mitarbeiterinnen und Mitarbeiter;
-- 9\. die Zusammenarbeit mit den Personalverbänden;
-- 10\. die Förderung der beruflichen Chancengleichheit von Frau und Mann;
-- 11\. die Anordnung vertrauensärztlicher Untersuchungen;
-- 12\. die im Zusammenhang mit Personalfragen notwendige Öffentlichkeitsarbeit.
+<sup>3</sup> …
 
 ## 2 Personalpolitik
 
@@ -110,7 +109,9 @@ beschliesst:
 
 **Grundsätze**
 
-<sup>1</sup> Die Personalpolitik des Regierungsrates orientiert sich am Leistungsauftrag, der nach den Grundsätzen der Gesetzmässigkeit, der Zweckmässigkeit, der Verhältnismässigkeit und der Wirtschaftlichkeit erfüllt wird. Sie nimmt Rücksicht auf die Bedürfnisse des Personals. Sie richtet sich ebenso nach dem Ziel der Bürgernähe sowie nach den Möglichkeiten des Finanzhaushaltes.
+<sup>1</sup> Die Personalpolitik des Regierungsrates orientiert sich am Leistungsauftrag, der nach den Grundsätzen der Gesetzmässigkeit, der Zweckmässigkeit, der Verhältnismässigkeit und der Wirtschaftlichkeit erfüllt wird.
+
+<sup>2</sup> Sie schafft insbesondere die Voraussetzungen für die Anstellung und Förderung geeigneter Mitarbeiterinnen und Mitarbeiter, für die marktgerechte Entlöhnung sowie für eine zeitgemässe Arbeitsorganisation.
 
 ## 3 Begründung und Dauer des Arbeitsverhältnisses
 
@@ -143,6 +144,8 @@ beschliesst:
 <sup>1</sup> Die Anstellungsinstanz kann für die Besetzung einer Stelle persönliche Voraussetzungen, insbesondere Befähigungsausweis, Vorbildung, Erfahrung, festlegen.
 
 <sup>2</sup> Sie kann in begründeten Fällen das Schweizer Bürgerrecht verlangen sowie die Wohnsitznahme in einem begrenzten Umkreis des Arbeitsortes vorschreiben.
+
+<sup>3</sup> Die Arbeitgeberin oder der Arbeitgeber kann das Vorweisen von Registerauszügen vorschreiben. Der Regierungsrat legt in einer Verordnung fest, welche Registerauszüge einverlangt werden können.
 
 #### Art. 13
 
@@ -280,7 +283,7 @@ beschliesst:
 
 **Lohnanspruch bei Arbeitsverhinderung**
 
-<sup>1</sup> Bei unverschuldeter Verhinderung an der Arbeitsleistung zufolge Krankheit, Schwangerschaft und Niederkunft, Unfall und Erfüllung gesetzlicher Pflichten haben Mitarbeiterinnen und Mitarbeiter Anspruch auf Lohn.
+<sup>1</sup> Bei unverschuldeter Verhinderung an der Arbeitsleistung infolge Krankheit, Schwangerschaft und Niederkunft, Unfall und Erfüllung gesetzlicher Pflichten haben Mitarbeiterinnen und Mitarbeiter Anspruch auf Lohn. Der Lohnanspruch endet spätestens mit Beendigung des Arbeitsverhältnisses.
 
 #### Art. 27
 
@@ -461,9 +464,11 @@ beschliesst:
 
 **Nebenberufliche Tätigkeit und Mandat**
 
-<sup>1</sup> Für die Übernahme einer bezahlten nebenberuflichen Tätigkeit oder eines Mandats ist die Bewilligung des Regierungsrates beziehungsweise der zuständigen Gerichtsbehörde erforderlich.
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter haben die Übernahme einer bezahlten beruflichen oder nebenberuflichen Tätigkeit oder eines Mandats vorgängig der Anstellungsinstanz zu melden.
 
-<sup>2</sup> Die Ermächtigung kann eingeschränkt oder zurückgezogen werden.
+<sup>2</sup> Die Anstellungsinstanz kann die Übernahme der bezahlten nebenberuflichen Tätigkeit beziehungsweise des Mandats mittels Verfügung untersagen, wenn dies zu einem Interessenkonflikt oder zu einer zeitlichen Überbeanspruchung führen kann. Nachträglich darf die Ausübung der nebenberuflichen Tätigkeit beziehunsweise des Mandats nur untersagt werden, wenn sich seit der ordnungsgemässen Meldung die Verhältnisse erheblich geändert haben.
+
+<sup>3</sup> Übt die Mitarbeiterin beziehungsweise der Mitarbeiter die bezahlten nebenberufliche Tätigkeit beziehungsweise das Mandat trotz rechtskräftiger Untersagung aus, stellt dies einen wesentlichen Kündigungsgrund gemäss Art. 59 Abs. 1 Ziff. 5 dar.
 
 #### Art. 49
 
@@ -493,7 +498,7 @@ beschliesst:
 
 **2. Überstunden**
 
-<sup>1</sup> Wenn es der Arbeitsanfall erfordert, sind die Mitarbeiterinnen und Mitarbeiter zur Leistung von Überstunden ausserhalb der vorgeschriebenen Arbeitszeit verpflichtet.
+<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter sind zur Leistung von Überstunden ausserhalb der vorgeschriebenen Arbeitszeit verpflichtet, wenn es der Arbeitsanfall erfordert und die vorgesetzte Person die Überstunden anordnet.
 
 #### Art. 53
 
@@ -514,6 +519,12 @@ beschliesst:
 
 <sup>3</sup> Weitergehende Bestimmungen der Gesetzgebung über den Ausstand bleiben vorbehalten.
 
+#### Art. 53a
+
+**Registerauszüge**
+
+<sup>1</sup> Die Anstellungsinstanz kann von Mitarbeiterinnen und Mitarbeitern in begründeten Fällen Registerauszüge verlangen.
+
 ## 5 Beendigung des Arbeitsverhältnisses
 
 #### Art. 54
@@ -523,11 +534,26 @@ beschliesst:
 <sup>1</sup> Das Arbeitsverhältnis endet durch:
 
 - 1\. Kündigung;
+- 1a. Auflösung infolge Invalidität;
 - 2\. Auflösung im gegenseitigen Einvernehmen;
 - 3\. Fristablauf gemäss Vertrag;
 - 4\. vorzeitige Pensionierung;
 - 5\. Erreichen der Altersgrenze;
 - 6\. Tod.
+
+#### Art. 54a
+
+**Auflösung infolge Invalidität**
+
+<sup>1</sup> Die Anstellungsinstanz löst Arbeitsverhältnisse mit Mitarbeiterinnen und Mitarbeiter, die durch die Sozialversicherung invalid erklärt werden, unter Einhaltung der ordentlichen Fristen und Termine auf.
+
+<sup>2</sup> Das Arbeitsverhältnis wird entsprechend der Rentenabstufung gemäss dem Grad der Invalidität ganz oder teilweise aufgelöst.
+
+<sup>3</sup> Die Auflösungsverfügung durch eine vom Regierungsrat bezeichnete Anstellungsinstanz bedarf der Genehmigung des Regierungsrates. Dieser eröffnet die Auflösungsverfügung zusammen mit dem Genehmigungsentscheid.
+
+<sup>4</sup> Gegen Auflösungsverfügungen infolge Invalidität kann binnen 20 Tagen nach erfolgter Zustellung Einsprache erhoben werden.
+
+<sup>5</sup> Gegen den Einspracheentscheid kann binnen 20 Tagen nach erfolgter Zustellung beim Verwaltungsgericht Beschwerde erhoben werden.
 
 #### Art. 55
 
@@ -541,17 +567,15 @@ beschliesst:
 - 2\. das Landratsbüro für die vom Landrat gewählten Mitarbeiterinnen und Mitarbeiter;
 - 3\. der Regierungsrat beziehungsweise die von ihm bezeichnete Anstellungsinstanz für alle anderen Mitarbeiterinnen und Mitarbeiter.
 
-<sup>3</sup> Die Kündigung durch eine vom Regierungsrat bezeichnete Anstellungsinstanz bedarf zu ihrer Gültigkeit der Zustimmung des Regierungsrates.
+<sup>3</sup> Die Kündigung durch eine vom Regierungsrat bezeichnete Anstellungsinstanz bedarf der Genehmigung des Regierungsrates. Dieser eröffnet die Kündigung zusammen mit dem Genehmigungsentscheid.
 
 #### Art. 56
 
 **2. Kündigungsfristen und ‑termine**
 
-<sup>1</sup> Die Kündigungsfristen betragen:
+<sup>1</sup> Die Kündigungsfrist beträgt drei Monate auf das Monatsende beziehungsweise während der Probezeit sieben Tage auf das Ende der Kalenderwoche.
 
-- 1\. während des ersten Monats: 7 Tage auf das Ende einer Kalenderwoche;
-- 2\. ab dem zweiten Monat: 1 Monat auf das Monatsende;
-- 3\. im überjährigen Arbeitsverhältnis: 3 Monate auf das Monatsende.
+<sup>1a</sup> Die Probezeit beträgt drei Monate.
 
 <sup>2</sup> Bei Lehrkräften gilt während des ersten Jahres eine Kündigungsfrist von 2 Monaten auf das Ende eines Semesters und im überjährigen Arbeitsverhältnis eine Kündigungsfrist von 6 Monaten auf Ende Juli, sofern nicht im Arbeitsvertrag ausdrücklich eine andere Regelung vereinbart wurde.
 
@@ -597,16 +621,16 @@ beschliesst:
 
 <sup>3</sup> Die Einräumung einer Bewährungsfrist ist nicht erforderlich:
 
-- 1\. im ersten Anstellungsjahr;
+- 1\. während der Probezeit;
 - 2\. für Mitarbeiterinnen und Mitarbeiter, die das ordentliche Pensionsalter gemäss Art. 71 erreicht haben.
 
-<sup>4</sup> Wird Mitarbeitenden gekündigt, die das ordentliche Pensionsalter erreicht haben, müssen keine wesentlichen Gründe vorliegen.
+<sup>4</sup> Keine wesentlichen Gründe müssen vorliegen für Mitarbeiterinnen und Mitarbeiter, die sich in der Probezeit befinden oder das ordentliche Pensionsalter erreicht haben.
 
 #### Art. 60
 
 **Einsprache**
 
-<sup>1</sup> Gegen die Kündigung durch die Anstellungsinstanz kann binnen 20 Tagen nach erfolgter Zustellung Einsprache eingereicht werden:
+<sup>1</sup> Gegen die Kündigung kann binnen 20 Tagen nach erfolgter Zustellung Einsprache erhoben werden:
 
 - 1\. bei der zuständigen Gerichtsinstanz durch ihre Mitarbeiterinnen und Mitarbeiter;
 - 2\. beim Landratsbüro durch die vom Landrat gewählten Mitarbeiterinnen und Mitarbeiter;
@@ -748,6 +772,12 @@ beschliesst:
 
 <sup>2</sup> Personendaten dürfen im Hinblick auf die Besetzung einer Stelle beschafft werden, soweit sie für die Beurteilung der Eignung, der Leistung und des Verhaltens für das Arbeitsverhältnis notwendig sind. Bei Nichtanstellung werden diese Daten zurückgegeben oder vernichtet, wenn die betroffene Person der weiteren Aufbewahrung nicht zustimmt.
 
+#### Art. 74a
+
+<sup>1</sup> Die Arbeitgeberinnen und Arbeitgeber, für die dieses Gesetz anwendbar ist, sind berechtigt, die AHV-Nummer gemäss AHVG[^74a-1] für die Erfüllung ihrer gesetzlichen Aufgaben systematisch zu verwenden.
+
+[^74a-1]: SR 831.10
+
 #### Art. 75
 
 **Bekanntgabe von Personendaten**
@@ -864,6 +894,7 @@ beschliesst:
 <sup>2</sup> Unter Vorbehalt von Art. 85 regelt er in Vollzugsverordnungen insbesondere:
 
 - 1\. die Arbeitszeit;
+- 1a. die Telearbeit;
 - 2\. die Personalbeurteilung;
 - 3\. das Lohnsystem und die Entlöhnung;
 - 4a. die Anerkennungsprämien für ausserordentliche Leistungen;
