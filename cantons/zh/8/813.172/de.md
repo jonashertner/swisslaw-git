@@ -4,10 +4,10 @@ number: "813.172"
 title: Personalreglement der Psychiatrischen Universitätsklinik Zürich (PR-PUK)
 short: PR-PUK
 language: de
-nachtrag: "119"
-valid_until: 2023-10-01
+nachtrag: "122"
+valid_until: 2025-05-01
 adopted: 2022-03-14
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_172-2022_03_14-2023_01_01-119.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_172-2022_03_14-2023_01_01-122.html"
 text: pdf
 ---
 
@@ -25,7 +25,7 @@ beschliesst:
 
 [^t-1]: OS 77, 589; Begründung siehe ABl 2022-04-08. Vom Regierungsrat am 1. Juni 2022 genehmigt.
 [^t-2]: Inkrafttreten: 1. Januar 2023 (ABl 2022-11-18).
-[^t-3]: LS 813.17. 1. 1. 23 - 119 9
+[^t-3]: LS 813.17.
 
 ### A. Allgemeines
 
@@ -65,9 +65,7 @@ Der Spitalrat bestimmt die Personalpolitik im Rahmen der Eigentümerstrategie so
 
 **1**
 
-- 1\. 1. 23 - 119
-
-- e. die Schaffung von neuen Stellen, für die das Personalrecht des Kantons Zürich keine Richtposition vorsieht, sowie von neuen Stellen ab Lohnklasse 27,
+1.10. 23 - 122 e. die Schaffung von neuen Stellen, für die das Personalrecht des Kantons Zürich keine Richtposition vorsieht, sowie von neuen Stellen ab Lohnklasse 27,
 
 - f. die Anerkennung von Personalverbänden als Verhandlungspartner von Gesamtarbeitsverträgen für Personal der Psychiatrischen Universitätsklinik,
 
@@ -77,13 +75,18 @@ Der Spitalrat bestimmt die Personalpolitik im Rahmen der Eigentümerstrategie so
 
 <sup>2</sup> Er ist zuständig zur Festlegung:
 
+a.[^3-1] des Umfangs von zusätzlichen Mitteln für die Lohnentwicklung gemäss § 12,
+
 - b. der Entschädigung von Nacht- und Wochenendarbeit sowie von Pikett- und Präsenzdienst gemäss § 15,
 
 - c. des Prämienanteils des Personals an einer allfälligen Krankentaggeldversicherung gemäss § 16,
 
-- d. der Beiträge an die Verpflegung und die Abonnemente des öffentlichen Verkehrs für Mitarbeitende, die an mehreren Standorten tätig sind,
+- d. der Beiträge an die Verpflegung und die Abonnemente des öffentlichen Verkehrs für Mitarbeitende, die an mehreren Standorten tätig sind, e.[^3-2]
 
 - f. von Sozialplänen gemäss § 27 PG.
+
+[^3-1]: Inkrafttreten: 1. Oktober 2023 (OS 78, 378; ABl 2023-09-01).
+[^3-2]: Aufgehoben durch Urteil des Verwaltungsgerichts vom 2. März 2023 (AN. 2022.00007). 1.10. 23 - 122 9
 
 #### § 4
 
@@ -125,7 +128,7 @@ Der Spitalrat bestimmt die Personalpolitik im Rahmen der Eigentümerstrategie so
 
 <sup>2</sup> Befristete Arbeitsverhältnisse sind zulässig:
 
-- a. im Rahmen von § 13 Abs. 2 PG,
+- a. im Rahmen von § 13 Abs. 2 PG, b.[^7-1] für Stellen, die der Aus-, Fort- und Weiterbildung sowie der Forschung dienen, insbesondere Assistenzarzt- und Oberarztstellen,
 
 - c. bei Anstellungen, bei denen der Lohn durch Drittmittel finanziert wird,
 
@@ -139,13 +142,19 @@ Der Spitalrat bestimmt die Personalpolitik im Rahmen der Eigentümerstrategie so
 
 <sup>6</sup> Wird ein befristetes Arbeitsverhältnis weitergeführt, gilt es als unbefristet.
 
-<sup>7</sup> Ist eine Mitarbeiterin am Ende eines befristeten Anstellungsverhältnisses schwanger oder im Mutterschaftsurlaub, verlängert sich das Anstellungsverhältnis bis zum Ende des Mutterschaftsurlaubs.
-
 **3**
 
-- 1\. 1. 23 - 119 § 8. <sup>1</sup> Sachlich zureichende Gründe für die Auflösung des Arbeitsverhältnisses gemäss § 18 Abs. 2 PG sind insbesondere:
+1.10. 23 - 122
+
+<sup>7</sup> Ist eine Mitarbeiterin am Ende eines befristeten Anstellungsverhältnisses schwanger oder im Mutterschaftsurlaub, verlängert sich das Anstellungsverhältnis bis zum Ende des Mutterschaftsurlaubs.
+
+[^7-1]: Inkrafttreten: 1. Oktober 2023 (OS 78, 378; ABl 2023-09-01).
+
+#### § 8
 
 **Sachlich zureichende Kündigungsgründe a. allgemein**
+
+<sup>1</sup> Sachlich zureichende Gründe für die Auflösung des Arbeitsverhältnisses gemäss § 18 Abs. 2 PG sind insbesondere:
 
 - a. die Auflösung der Vereinbarung über eine Drittmittelfinanzierung und der Abbruch des finanzierten Projekts,
 
@@ -191,6 +200,16 @@ Der Spitalrat bestimmt die Personalpolitik im Rahmen der Eigentümerstrategie so
 
 <sup>3</sup> Personal, das gleichzeitig in einem Arbeitsverhältnis zur Psychiatrischen Universitätsklinik und zur Universität Zürich steht, hat in der Regel einen Lohnanspruch nur gegenüber der Universität.
 
+**b. Entwicklung**
+
+§ 12.[^11-1] <sup>1</sup> Der Spitalrat entscheidet auf Antrag der Geschäftsleitung über die jährliche Lohnentwicklung und den Teuerungsausgleich.
+
+<sup>2</sup> Er kann für einzelne Personalgruppen unterschiedliche Lohnentwicklungen vorsehen.
+
+<sup>3</sup> Die Lohnentwicklung orientiert sich am Arbeitsmarkt im Gesundheitswesen und berücksichtigt die finanzielle Situation der Psychiatrischen Universitätsklinik.
+
+[^11-1]: Inkrafttreten: 1. Oktober 2023 (OS 78, 378; ABl 2023-09-01).
+
 #### § 13
 
 **c. variabler Vergütungsbestandteil**
@@ -213,6 +232,10 @@ Der Spitalrat bestimmt die Personalpolitik im Rahmen der Eigentümerstrategie so
 
 <sup>3</sup> Die Gesamtvergütung eines Mitglieds des ärztlichen Kaders beträgt höchstens 1 Mio. Franken pro Jahr. Sie umfasst insbesondere allfällige Entschädigungen Dritter und Einnahmen, die mit Gutachten, Zeugnissen und Berichten für Patientinnen und Patienten oder Dritte erzielt werden.
 
+**5**
+
+1.10. 23 - 122
+
 <sup>4</sup> Der Grundlohn wird in der Regel bei der BVK Personalvorsorge des Kantons Zürich versichert. Die übrigen Vergütungsbestandteile können bei anderen Vorsorgeeinrichtungen versichert werden. Die Versicherung der Vergütung der Oberärztinnen und Oberärzte richtet sich nach § 19 Abs. 2 PUKG.
 
 <sup>5</sup> Der Spitalrat erlässt ein Vergütungsreglement.
@@ -227,11 +250,11 @@ Der Spitalrat bestimmt die Personalpolitik im Rahmen der Eigentümerstrategie so
 
 <sup>2</sup> Die Entschädigung entspricht mindestens dem kantonalen Ansatz.
 
-**5**
-
-- 1\. 1. 23 - 119 § 16. <sup>1</sup> Die Psychiatrische Universitätsklinik kann für das Personal eine die gesetzlichen Lohnfortzahlungspflichten ersetzende Krankentaggeldversicherung abschliessen.
+#### § 16
 
 **Versicherungen**
+
+<sup>1</sup> Die Psychiatrische Universitätsklinik kann für das Personal eine die gesetzlichen Lohnfortzahlungspflichten ersetzende Krankentaggeldversicherung abschliessen.
 
 <sup>2</sup> Die Leistungen müssen für das Personal mindestens gleichwertig zur Regelung gemäss kantonalem Personalrecht und für die Psychiatrische Universitätsklinik wirtschaftlich sein.
 
@@ -293,6 +316,10 @@ Vor der Übernahme einer Nebenbeschäftigung informiert die oder der Angestellte
 
 <sup>1</sup> Professorinnen und Professoren, die auch von der Universität Zürich angestellt sind, informieren die Geschäftsleitung über ihre Nebenbeschäftigungen.
 
+**7**
+
+1.10. 23 - 122
+
 <sup>2</sup> Beanspruchen sie Infrastruktur oder Personal der Psychiatrischen Universitätsklinik, holen sie eine Bewilligung der Geschäftsleitung ein. Im Übrigen sind sie vom Bewilligungserfordernis entbunden, soweit die Nebenbeschäftigungen von der Universität bewilligt worden sind.
 
 <sup>3</sup> Die Geschäftsleitung kann die Bewilligungen gemäss § 57 der Personalverordnung der Universität Zürich vom 29. November 2014[^22-1] einfordern. Sie kann bei den Betroffenen und der Universität weitere Auskünfte einholen.
@@ -312,10 +339,6 @@ Die Ausübung öffentlicher Ämter richtet sich nach dem Personalgesetz.
 **Ausführungsbestimmungen**
 
 <sup>1</sup> Die Geschäftsleitung erlässt Ausführungsbestimmungen über die Nebenbeschäftigungen und die Tätigkeit im Rahmen öffentlicher Ämter. Sie regelt dabei insbesondere das Verfahren, die Auflagen, die Abgeltungen und die Abgaben.
-
-**7**
-
-- 1\. 1. 23 - 119
 
 <sup>2</sup> Sie achtet auf eine weitgehende Harmonisierung mit den Vorschriften der Universität Zürich. Sie kann mit den zuständigen Organen der Universität ein gemeinsames Reglement erlassen.
 
@@ -359,6 +382,6 @@ Die Psychiatrische Universitätsklinik unterstützt die Entwicklung und Verwertu
 
 #### § 29
 
-**verhältnisse**
+**Bestehende Arbeitsverhältnisse**
 
-Die Geschäftsleitung passt Bewilligungen, Auflagen und Bestehende andere im Zeitpunkt des Inkrafttretens dieses Reglements bestehende Arbeits-Dauerrechtsverhältnisse an die Vorgaben dieses Reglements an.
+Die Geschäftsleitung passt Bewilligungen, Auflagen und andere im Zeitpunkt des Inkrafttretens dieses Reglements bestehende Dauerrechtsverhältnisse an die Vorgaben dieses Reglements an.
