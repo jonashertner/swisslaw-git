@@ -4,13 +4,12 @@ number: "635.6.1"
 title: "Loi sur l'impôt destiné à compenser la diminution de l'aire agricole"
 short: LIAA
 language: fr
-version: 2018-01-01
-valid_until: 2023-09-30
-version_adopted: 2016-03-15
+version: 2023-10-01
+version_adopted: 2022-12-15
 adopted: 1993-09-28
 in_force: 1994-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/635.6.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6360/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8689/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Impôt destiné à compenser la diminution de l’aire agricole – L
 
 (LIAA)
 
-du 28.09.1993 (version entrée en vigueur le 01.01.2018)
+du 28.09.1993 (version entrée en vigueur le 01.10.2023)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -37,7 +36,18 @@ Décrète:
 
 **Objet**
 
-<sup>1</sup> L'Etat prélève un impôt destiné à compenser la diminution de l'aire agricole (ci-après: l'impôt) sur les terrains dont la mise en zone constructible a été approuvée avant l'entrée en vigueur de la modification du 15 mars 2016 de la loi sur l'aménagement du territoire et les constructions.
+<sup>1</sup> L'Etat prélève un impôt destiné à compenser la diminution de l'aire agricole (ci-après: l'impôt).
+
+#### Art. 1a
+
+**Champ d'application en lien avec la taxe sur la plus-value**
+
+<sup>1</sup> L'impôt est prélevé sur les terrains qui ne sont pas assujettis à la taxe sur la plus-value, soit:
+
+- a) les bien-fonds dont la mise en zone constructible a été approuvée avant le 1<sup>er</sup> janvier 2018 et
+- b) les bien-fonds dont la mise en zone constructible a été approuvée après le 1<sup>er</sup> janvier 2018 lorsque l'acte d'aliénation de ces terrains (art. 3 et 4) a été signé avant cette date.
+
+<sup>2</sup> Lorsqu'un bien-fonds dont la mise en zone constructible a été approuvée avant le 1<sup>er</sup> janvier 2018 a fait l'objet, après cette date, d'un changement d'affectation ou d'une augmentation de possibilités de construire donnant lieu au prélèvement de la taxe sur la plus-value, l'impôt est calculé sur la base de la valeur vénale du terrain sans la plus-value résultant de la nouvelle mesure d'aménagement.
 
 #### Art. 2
 
@@ -45,9 +55,11 @@ Décrète:
 
 <sup>1</sup> Le produit de l'impôt est versé au Fonds des améliorations foncières (ci-après: le fonds).
 
-<sup>2</sup> L'utilisation du fonds est régie par les articles 188 à 192 de la loi du 30 mai 1990 sur les améliorations foncières.
+<sup>2</sup> L'utilisation du fonds est régie par les articles 188 à 192 de la loi du 30 mai 1990 sur les améliorations foncières[^2-1].
 
 <sup>3</sup> Le Conseil d'Etat fait rapport au Grand Conseil sur le produit de la perception de l'impôt et sur son utilisation, dans le compte rendu annuel.
+
+[^2-1]: RSF [917.1](https://bdlf.fr.ch/data/917.1/fr)
 
 #### Art. 3
 
@@ -57,7 +69,7 @@ Décrète:
 
 <sup>2</sup> Lorsque le terrain a été soustrait à l'aire agricole dans les deux ans avant son aliénation, l'impôt est prélevé lors de celle-ci dans la mesure où il n'a pas été prélevé antérieurement.
 
-<sup>3</sup> L'impôt n'est pas prélevé si l'aliénation du terrain n'a pas eu lieu avant l'entrée en force d'un changement d'affectation de la zone qui entraîne une plus-value en application de l'article 113a al. 2 let. b LATeC.
+<sup>3</sup> …
 
 #### Art. 4
 
@@ -91,9 +103,11 @@ Décrète:
 
 <sup>1</sup> Le droit de taxer se prescrit par cinq ans à compter du jour de la conclusion de l'acte d'aliénation donnant lieu à prélèvement.
 
-<sup>2</sup> L'article 151 al. 2 et 3 de la loi du 6 juin 2000 sur les impôts cantonaux directs est applicable par analogie à la suspension et à l'interruption de la prescription.
+<sup>2</sup> L'article 151 al. 2 et 3 de la loi du 6 juin 2000 sur les impôts cantonaux directs[^7-1] est applicable par analogie à la suspension et à l'interruption de la prescription.
 
 <sup>3</sup> Le droit de taxer se périme par dix ans à compter du jour de la conclusion de l'acte d'aliénation donnant lieu à prélèvement, sous réserve d'un délai plus long du droit de sanctionner.
+
+[^7-1]: RSF [631.1](https://bdlf.fr.ch/data/631.1/fr)
 
 #### Art. 8
 
@@ -169,9 +183,11 @@ Décrète:
 
 <sup>1</sup> La taxation se fait sur la base des pièces justificatives jointes à la réquisition d'inscription au registre foncier.
 
-<sup>2</sup> Elle se fait également à partir des indications complémentaires que doivent fournir, sur demande, le débiteur de l'impôt ou son représentant à l'acte, l'officier public instrumentant, les éventuelles autres parties à l'acte ainsi que la commune concernée. Les articles 142, 149, 159, 160 et 162 de la loi du 6 juin 2000 sur les impôts cantonaux directs sont au surplus applicables.
+<sup>2</sup> Elle se fait également à partir des indications complémentaires que doivent fournir, sur demande, le débiteur de l'impôt ou son représentant à l'acte, l'officier public instrumentant, les éventuelles autres parties à l'acte ainsi que la commune concernée. Les articles 142, 149, 159, 160 et 162 de la loi du 6 juin 2000 sur les impôts cantonaux directs[^15-1] sont au surplus applicables.
 
 <sup>3</sup> Au besoin, l'autorité de taxation soumet le cas à une commission d'estimation.
+
+[^15-1]: RSF [631.1](https://bdlf.fr.ch/data/631.1/fr)
 
 #### Art. 16
 
@@ -227,7 +243,9 @@ Décrète:
 
 **Recours – Procédure**
 
-<sup>1</sup> La procédure de recours est régie par le code de procédure et de juridiction administrative, sous réserve des dispositions qui suivent.
+<sup>1</sup> La procédure de recours est régie par le code de procédure et de juridiction administrative[^22-1], sous réserve des dispositions qui suivent.
+
+[^22-1]: RSF [150.1](https://bdlf.fr.ch/data/150.1/fr)
 
 #### Art. 23
 
@@ -251,7 +269,9 @@ Décrète:
 
 **Révision**
 
-<sup>1</sup> Les décisions passées en force peuvent être révisées pour les motifs et selon la procédure prévus par les articles 188, 189 et 190 de la loi du 6 juin 2000 sur les impôts cantonaux directs applicables par analogie.
+<sup>1</sup> Les décisions passées en force peuvent être révisées pour les motifs et selon la procédure prévus par les articles 188, 189 et 190 de la loi du 6 juin 2000 sur les impôts cantonaux directs[^25-1] applicables par analogie.
+
+[^25-1]: RSF [631.1](https://bdlf.fr.ch/data/631.1/fr)
 
 ## 5 Perception
 
@@ -265,7 +285,9 @@ Décrète:
 
 **Intérêt moratoire**
 
-<sup>1</sup> Pour l'impôt non payé dans le délai, il est dû dès l'échéance un intérêt moratoire dont le taux correspond à celui qui est fixé en application de l'article 207 al. 3 de la loi du 6 juin 2000 sur les impôts cantonaux directs.
+<sup>1</sup> Pour l'impôt non payé dans le délai, il est dû dès l'échéance un intérêt moratoire dont le taux correspond à celui qui est fixé en application de l'article 207 al. 3 de la loi du 6 juin 2000 sur les impôts cantonaux directs[^27-1].
+
+[^27-1]: RSF [631.1](https://bdlf.fr.ch/data/631.1/fr)
 
 #### Art. 28
 
@@ -315,11 +337,13 @@ Décrète:
 
 **Demande en restitution de l'indu**
 
-<sup>1</sup> Dans les cas prévus à l'article 213 al. 1 de la loi du 6 juin 2000 sur les impôts cantonaux directs, le débiteur peut demander la restitution de l'impôt, de l'intérêt moratoire ou de l'amende qu'il a payés.
+<sup>1</sup> Dans les cas prévus à l'article 213 al. 1 de la loi du 6 juin 2000 sur les impôts cantonaux directs[^33-1], le débiteur peut demander la restitution de l'impôt, de l'intérêt moratoire ou de l'amende qu'il a payés.
 
 <sup>2</sup> La demande doit être formulée par écrit, motivée et adressée à l'autorité de taxation.
 
 <sup>3</sup> Le droit de demander la restitution de l'indu se périme par dix ans à compter du jour du paiement.
+
+[^33-1]: RSF [631.1](https://bdlf.fr.ch/data/631.1/fr)
 
 #### Art. 34
 
@@ -409,9 +433,12 @@ Décrète:
 
 **Application du droit pénal et de la procédure pénale**
 
-<sup>1</sup> Les dispositions générales du code pénal suisse sont applicables, sous réserve des règles spéciales figurant aux articles 45 et 46.
+<sup>1</sup> Les dispositions générales du code pénal suisse[^44-1] sont applicables, sous réserve des règles spéciales figurant aux articles 45 et 46.
 
-<sup>2</sup> La poursuite et le jugement des délits fiscaux ont lieu conformément à la loi sur la justice.
+<sup>2</sup> La poursuite et le jugement des délits fiscaux ont lieu conformément à la loi sur la justice[^44-2].
+
+[^44-1]: RS [311.0](https://db.clex.ch/link/Bund/311.0/fr)
+[^44-2]: RSF [130.1](https://bdlf.fr.ch/data/130.1/fr)
 
 ## 6.3 Prescription et péremption
 

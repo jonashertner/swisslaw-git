@@ -4,13 +4,12 @@ number: "635.6.1"
 title: Gesetz über die Steuer zum Ausgleich der Verminderung des Kulturlandes
 short: KVStG
 language: de
-version: 2018-01-01
-valid_until: 2023-09-30
-version_adopted: 2016-03-15
+version: 2023-10-01
+version_adopted: 2022-12-15
 adopted: 1993-09-28
 in_force: 1994-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/635.6.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6360/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8689/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Steuer zum Ausgleich der Verminderung des Kulturlandes – G
 
 (KVStG)
 
-vom 28.09.1993 (Fassung in Kraft getreten am 01.01.2018)
+vom 28.09.1993 (Fassung in Kraft getreten am 01.10.2023)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -37,7 +36,18 @@ beschliesst:
 
 **Zweck**
 
-<sup>1</sup> Der Staat erhebt eine Steuer, die dazu bestimmt ist, die Verminderung des Kulturlandes auf Grundstücken, deren Einzonung vor dem Inkrafttreten der Änderung vom 15. März 2016 des Raumplanungs- und Baugesetzes genehmigt worden ist, auszugleichen (die Steuer).
+<sup>1</sup> Der Staat erhebt eine Steuer, die dazu bestimmt ist, die Verminderung des Kulturlandes auszugleichen (die Steuer).
+
+#### Art. 1a
+
+**Anwendungsbereich im Zusammenhang mit der Mehrwertabgabe**
+
+<sup>1</sup> Die Steuer wird auf Grundstücken erhoben, die nicht der Mehrwertabgabe unterliegen, also:
+
+- a) Grundstücke, deren Einzonung vor dem 1. Januar 2018 genehmigt worden ist und
+- b) Grundstücke, deren Einzonung nach dem 1. Januar 2018 genehmigt worden ist, wenn das Veräusserungsgeschäft dieser Grundstücke (Art. 3 und 4) vor diesem Zeitpunkt unterzeichnet worden ist.
+
+<sup>2</sup> Wenn ein Grundstück, dessen Einzonung vor dem 1. Januar 2018 genehmigt worden ist, nach diesem Zeitpunkt Gegenstand einer Nutzungsänderung oder einer Erhöhung der Bebauungsmöglichkeiten bildet, die zur Erhebung der Mehrwertabgabe führt, wird die Steuer auf der Grundlage des Verkehrswerts des Grundstücks ohne den Mehrwert, der aus der neuen Planungsmassnahme entsteht, berechnet.
 
 #### Art. 2
 
@@ -45,9 +55,11 @@ beschliesst:
 
 <sup>1</sup> Der Ertrag der Steuer wird dem Fonds für Bodenverbesserungen überwiesen (der Fonds).
 
-<sup>2</sup> Die Verwendung des Fonds richtet sich nach den Artikeln 188-192 des Gesetzes vom 30. Mai 1990 über die Bodenverbesserungen.
+<sup>2</sup> Die Verwendung des Fonds richtet sich nach den Artikeln 188-192 des Gesetzes vom 30. Mai 1990 über die Bodenverbesserungen[^2-1].
 
 <sup>3</sup> Der Staatsrat berichtet dem Grossen Rat im jährlichen Rechenschaftsbericht über den Ertrag der Steuer und dessen Verwendung.
+
+[^2-1]: SGF [917.1](https://bdlf.fr.ch/data/917.1/de)
 
 #### Art. 3
 
@@ -57,7 +69,7 @@ beschliesst:
 
 <sup>2</sup> Wurde das Grundstück in den zwei Jahren vor seiner Veräusserung dem Kulturland entzogen, so wird die Steuer bei der Veräusserung erhoben, soweit sie nicht bereits vorher erhoben wurde.
 
-<sup>3</sup> Die Steuer wird nicht erhoben, wenn die Veräusserung des Grundstücks nicht vor dem Inkrafttreten einer Zonennutzungsänderung, die einen Mehrwert gemäss Artikel 113a Abs. 2 Bst. b RPBG verursacht, stattgefunden hat.
+<sup>3</sup> …
 
 #### Art. 4
 
@@ -91,9 +103,11 @@ beschliesst:
 
 <sup>1</sup> Das Recht zur Veranlagung verjährt fünf Jahre nach Abschluss des steuerpflichtigen Rechtsgeschäfts.
 
-<sup>2</sup> Der Artikel 151 Abs. 2 und 3 des Gesetzes vom 6. Juni 2000 über die direkten Kantonssteuern gilt sinngemäss für den Stillstand und die Unterbrechung der Verjährung.
+<sup>2</sup> Der Artikel 151 Abs. 2 und 3 des Gesetzes vom 6. Juni 2000 über die direkten Kantonssteuern[^7-1] gilt sinngemäss für den Stillstand und die Unterbrechung der Verjährung.
 
 <sup>3</sup> Das Recht zur Veranlagung ist zehn Jahre nach Abschluss des steuerpflichtigen Rechtsgeschäfts verwirkt, sofern für das Recht zur Strafverfolgung nicht eine längere Frist vorgesehen ist.
+
+[^7-1]: SGF [631.1](https://bdlf.fr.ch/data/631.1/de)
 
 #### Art. 8
 
@@ -169,9 +183,11 @@ beschliesst:
 
 <sup>1</sup> Die Veranlagung beruht auf den Belegen, die der Grundbuchanmeldung beiliegen.
 
-<sup>2</sup> Sie beruht ausserdem auf den zusätzlichen Auskünften, die der Steuerschuldner oder sein Vertreter beim Rechtsgeschäft, die Urkundsperson, allfällige andere Parteien des Rechtsgeschäfts sowie die betreffende Gemeinde auf Verlangen erteilen müssen. Die Artikel 142, 149, 159, 160 und 162 des Gesetzes vom 6. Juni 2000 über die direkten Kantonssteuern sind ebenfalls anwendbar.
+<sup>2</sup> Sie beruht ausserdem auf den zusätzlichen Auskünften, die der Steuerschuldner oder sein Vertreter beim Rechtsgeschäft, die Urkundsperson, allfällige andere Parteien des Rechtsgeschäfts sowie die betreffende Gemeinde auf Verlangen erteilen müssen. Die Artikel 142, 149, 159, 160 und 162 des Gesetzes vom 6. Juni 2000 über die direkten Kantonssteuern[^15-1] sind ebenfalls anwendbar.
 
 <sup>3</sup> Wenn nötig unterbreitet die Veranlagungsbehörde den Fall einer Schätzungskommission.
+
+[^15-1]: SGF [631.1](https://bdlf.fr.ch/data/631.1/de)
 
 #### Art. 16
 
@@ -227,7 +243,9 @@ beschliesst:
 
 **Beschwerde – Verfahren**
 
-<sup>1</sup> Das Beschwerdeverfahren richtet sich unter Vorbehalt der nachfolgenden Bestimmungen nach dem Gesetz über die Verwaltungsrechtspflege.
+<sup>1</sup> Das Beschwerdeverfahren richtet sich unter Vorbehalt der nachfolgenden Bestimmungen nach dem Gesetz über die Verwaltungsrechtspflege[^22-1].
+
+[^22-1]: SGF [150.1](https://bdlf.fr.ch/data/150.1/de)
 
 #### Art. 23
 
@@ -251,7 +269,9 @@ beschliesst:
 
 **Revision**
 
-<sup>1</sup> Rechtskräftige Entscheide können aus den Gründen und nach dem Verfahren nach den Artikeln 188, 189 und 190 des Gesetzes vom 6. Juni 2000 über die direkten Kantonssteuern, die sinngemäss gelten, revidiert werden.
+<sup>1</sup> Rechtskräftige Entscheide können aus den Gründen und nach dem Verfahren nach den Artikeln 188, 189 und 190 des Gesetzes vom 6. Juni 2000 über die direkten Kantonssteuern[^25-1], die sinngemäss gelten, revidiert werden.
+
+[^25-1]: SGF [631.1](https://bdlf.fr.ch/data/631.1/de)
 
 ## 5 Bezug
 
@@ -265,7 +285,9 @@ beschliesst:
 
 **Verzugszins**
 
-<sup>1</sup> Auf der nicht innert dieser Frist bezahlten Steuer wird ab Fristablauf ein Verzugszins geschuldet, dessen Satz dem in Anwendung von Artikel 207 Abs. 3 des Gesetzes vom 6. Juni 2000 über die direkten Kantonssteuern festgesetzten Satz entspricht.
+<sup>1</sup> Auf der nicht innert dieser Frist bezahlten Steuer wird ab Fristablauf ein Verzugszins geschuldet, dessen Satz dem in Anwendung von Artikel 207 Abs. 3 des Gesetzes vom 6. Juni 2000 über die direkten Kantonssteuern[^27-1] festgesetzten Satz entspricht.
+
+[^27-1]: SGF [631.1](https://bdlf.fr.ch/data/631.1/de)
 
 #### Art. 28
 
@@ -315,11 +337,13 @@ beschliesst:
 
 **Steuerrückforderung**
 
-<sup>1</sup> In den Fällen nach Artikel 213 Abs. 1 des Gesetzes vom 6. Juni 2000 über die direkten Kantonssteuern kann der Schuldner die Steuer, den Verzugszins oder die Busse, die er gezahlt hat, zurückfordern.
+<sup>1</sup> In den Fällen nach Artikel 213 Abs. 1 des Gesetzes vom 6. Juni 2000 über die direkten Kantonssteuern[^33-1] kann der Schuldner die Steuer, den Verzugszins oder die Busse, die er gezahlt hat, zurückfordern.
 
 <sup>2</sup> Das Gesuch ist schriftlich und begründet an die Veranlagungsbehörde zu richten.
 
 <sup>3</sup> Der Rückforderungsanspruch ist 10 Jahre nach der Bezahlung verwirkt.
+
+[^33-1]: SGF [631.1](https://bdlf.fr.ch/data/631.1/de)
 
 #### Art. 34
 
@@ -409,9 +433,12 @@ beschliesst:
 
 **Anwendbarkeit des Strafrechts und des Strafprozessrechts**
 
-<sup>1</sup> Die allgemeinen Bestimmungen des Schweizerischen Strafgesetzbuches sind unter Vorbehalt der besonderen Bestimmungen der Artikel 45 und 46 anwendbar.
+<sup>1</sup> Die allgemeinen Bestimmungen des Schweizerischen Strafgesetzbuches[^44-1] sind unter Vorbehalt der besonderen Bestimmungen der Artikel 45 und 46 anwendbar.
 
-<sup>2</sup> Steuervergehen werden nach dem Justizgesetz verfolgt und beurteilt.
+<sup>2</sup> Steuervergehen werden nach dem Justizgesetz[^44-2] verfolgt und beurteilt.
+
+[^44-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
+[^44-2]: SGF [130.1](https://bdlf.fr.ch/data/130.1/de)
 
 ## 6.3 Verjährung und Verwirkung
 
