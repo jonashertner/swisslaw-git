@@ -4,13 +4,13 @@ number: "710.1"
 title: Raumplanungs- und Baugesetz
 short: RPBG
 language: de
-version: 2023-01-01
-valid_until: 2023-09-30
-version_adopted: 2021-11-05
+version: 2023-10-01
+valid_until: 2024-02-29
+version_adopted: 2023-08-25
 adopted: 2008-12-02
 in_force: 2010-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/710.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7586/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7946/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Raumplanungs- und Baugesetz
 
 (RPBG)
 
-vom 02.12.2008 (Fassung in Kraft getreten am 01.01.2023)
+vom 02.12.2008 (Fassung in Kraft getreten am 01.10.2023)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -880,6 +880,8 @@ beschliesst:
 
 <sup>1</sup> Bevor die Gemeinderichtpläne und das Erschliessungsprogramm in die Vernehmlassung gegeben oder die Zonennutzungspläne, Detailbebauungspläne und die dazugehörigen Vorschriften öffentlich aufgelegt werden, unterbreitet die Gemeinde sie dem Amt zur Prüfung.
 
+<sup>2</sup> Änderungen des Zonennutzungsplans, die lediglich aus ein- oder mehrmaligem Abtausch innerhalb des Siedlungsgebiets bestehen, sind von der Vorprüfung befreit. Als Abtausch gilt die gleichzeitige Ein- und Auszonung von Abschnitten der Bauzone mit gleicher Nutzung, gleichwertiger Fläche und Lage in einem gleichen geografischen Bereich. Der Staatsrat legt die Kriterien fest, die der Bereich erfüllen muss, in dem ein solcher Abtausch durchgeführt wird.
+
 ### 2.4.5.2 Gemeinderichtplan und Erschliessungsprogramm
 
 #### Art. 78
@@ -965,6 +967,8 @@ beschliesst:
 **Genehmigung**
 
 <sup>1</sup> Das Amt erstellt, nachdem es nötigenfalls die betreffenden Ämter und Organe angehört hat, zuhanden der Direktion ein Gesamtgutachten.
+
+<sup>1a</sup> Das Amt erstellt kein Gesamtgutachten, wenn die Änderung des Zonennutzungsplans lediglich in einem ein- oder mehrmaligen Abtausch innerhalb des Siedlungsgebiets gemäss Artikel 77 Abs. 2 besteht. In diesem Fall hört die Direktion selbst nötigenfalls die betreffenden Ämter und Organe an. Im Falle einer Beschwerde gemäss Artikel 88 Abs. 1 ist jedoch Absatz 1 anwendbar.
 
 <sup>2</sup> Beabsichtigt die Direktion, Elemente der angenommenen Pläne und der Vorschriften nicht zu genehmigen oder in ihren Genehmigungsentscheid Massnahmen aufzunehmen, die im Auflagedossier nicht aufgeführt waren, so hört sie vorgängig gemäss den im Ausführungsreglement festgelegten Modalitäten die Gemeinde und die Eigentümerschaft an.
 
@@ -1259,16 +1263,29 @@ beschliesst:
 
 **Mehrwertabgabe**
 
-<sup>1</sup> Der Ausgleich der erheblichen Vorteile, die durch Planungsmassnahmen entstehen, erfolgt über eine Mehrwertabgabe.
+<sup>1</sup> Der Ausgleich der erheblichen Vorteile, die durch Planungsmassnahmen entstehen, erfolgt über eine Mehrwertabgabe, die vom Kanton erhoben wird.
+
+<sup>1a</sup> Die Gemeinden können auf der Grundlage der kantonalen Veranlagung eine Mehrwertabgabe im Zusammenhang mit Planungsmassnahmen erheben. Diese Abgabe beträgt höchstens ein Viertel der kantonalen Abgabe. Der auf die Gemeinde entfallende Anteil wird vom kantonalen Anteil abgezogen.
 
 <sup>2</sup> Als erheblicher Vorteil gilt die Werterhöhung eines Grundstücks, die sich ergibt aus:
 
 - a) der Einzonung eines Grundstücks in eine Nutzungszone gemäss Artikel 15 des Bundesgesetzes vom 22. Juni 1979 über die Raumplanung;
-- b) einer Nutzungsänderung der Zone, in der sich das Grundstück befindet.
+- b) einer Nutzungsänderung der Zone, in der sich das Grundstück befindet;
+- c) der Erhöhung der Bebauungsmöglichkeiten eines Grundstücks in der Bauzone, wenn diese Erhöhung mindestens 50 % der Geschossfläche des ursprünglichen Potenzials ausmacht.
 
 <sup>3</sup> Als Nutzungsänderung gemäss Absatz 2 Bst. b gilt jede wesentliche Änderung der Zonenbestimmung und der Typologie der dort zulässigen Bauten.
 
-<sup>4</sup> Ab Inkrafttreten der Planungsmassnahme wird die Mehrwertabgabepflicht auf das Grundstück auf Antrag der Direktion im Grundbuch angemerkt.
+<sup>4</sup> …
+
+#### Art. 113abis
+
+**Information der Eigentümerschaft**
+
+<sup>1</sup> Auf der Grundlage der Informationen, die im Gesamtgutachten des Amtes zur Vorprüfung enthalten sind (Art. 77), weisen die Gemeinden im erläuternden Bericht, der das Planungsdossier begleitet (Art. 39 Abs. 2), die Grundstücke aus, die möglicherweise der Mehrwertabgabe unterliegen.
+
+<sup>2</sup> Vor der öffentlichen Auflage ihres Planungsdossiers tragen die Gemeinden die Liste der betroffenen Grundstücke in eine vom Kanton zur Verfügung gestellte Informatikanwendung ein, die der unverbindlichen Veröffentlichung auf einem Kartenportal dient.
+
+<sup>3</sup> Auf Antrag der Direktion wird die Unterstellung eines Grundstücks unter die Mehrwertabgabe im Grundbuch angemerkt, sobald die Planungsmassnahme in Kraft tritt.
 
 #### Art. 113b
 
@@ -1278,7 +1295,11 @@ beschliesst:
 
 <sup>2</sup> Der Mehrwert entspricht der Differenz zwischen den Verkehrswerten eines Grundstücks vor und nach Rechtskraft der Planungsmassnahme.
 
-<sup>3</sup> Für die Bemessung der Abgabe wird der bei einer Massnahme gemäss Artikel 113a Abs. 2 Bst. a errechnete Planungsvorteil um den Betrag gekürzt, der innert angemessener Frist ab Inkrafttreten der Planungsmassnahme zur Beschaffung einer landwirtschaftlichen Ersatzbaute zur Selbstbewirtschaftung verwendet wird.
+<sup>2a</sup> Im Falle einer entgeltlichen Veräusserung wird der vereinbarte Preis grundsätzlich als repräsentativ für den Verkehrswert erachtet. Mangels eines Preises oder falls dieser nicht dem Verkehrswert des Grundstücks entspricht, bemisst sich dieser Wert auf der Grundlage einer Vergleichsmethode oder, bei Fehlen hinreichend verlässlicher Vergleichspreise, auf der Grundlage der Residualwertmethode oder anderer offiziell anerkannter Schätzungsmethoden.
+
+<sup>2b</sup> Ausgaben, die für die Aufwertung des Grundstücks notwendig sind, können vom Verkehrswert abgezogen werden. Der Staatsrat legt die Art dieser Ausgaben fest.
+
+<sup>3</sup> Für die Bemessung der Abgabe wird der bei einer Massnahme gemäss Artikel 113a Abs. 2 Bst. a errechnete Planungsvorteil um den Betrag gekürzt, der innert einer Frist von 5 Jahren ab Inkrafttreten der Planungsmassnahme zur Beschaffung einer landwirtschaftlichen Ersatzbaute zur Selbstbewirtschaftung verwendet wird.
 
 <sup>4</sup> Der Betrag wird bei der Bemessung einer allfälligen Grundstückgewinnsteuer als Teil der Aufwendungen vom steuerbaren Gewinn abgezogen.
 
@@ -1286,11 +1307,11 @@ beschliesst:
 
 **Zuweisung der Einnahmen**
 
-<sup>1</sup> Vom Abgabenertrag werden 4 % des Mehrwerts dem Bodenverbesserungsfonds zugewiesen.
+<sup>1</sup> Vom kantonalen Abgabenertrag werden 4 % des Mehrwerts dem Bodenverbesserungsfonds zugewiesen.
 
-<sup>2</sup> Der Saldo des Abgabenertrags wird in den Mehrwertfonds eingezahlt. Dieser finanziert in der nachfolgend definierten Prioritätenordnung:
+<sup>2</sup> Der Saldo des kantonalen Abgabenertrags wird in den Mehrwertfonds eingezahlt. Dieser finanziert in der nachfolgend definierten Prioritätenordnung, nach Abzug des Betriebsaufwands:
 
-- a) die Entschädigungen bei materieller Enteignung, die sich aus einer Planungsmassnahme ergibt;
+- a) die Entschädigungen bei materieller Enteignung, die sich aus einer Planungsmassnahme ergibt, mit Ausnahme der Entschädigungen, die durch eine Vereinbarung zwischen der belangten öffentlichen Körperschaft und der Eigentümerin oder dem Eigentümer im Rahmen eines Verfahrens wegen materieller Enteignung vor der Enteignungskommission festgelegt werden (Art. 60 und 61 [142] des Gesetzes vom 23. Februar 1984 über die Enteignung);
 - b) die regionalen Richtpläne oder deren Revision und die regionalen und kommunalen Studien zur Siedlungsrevitalisierung und –verdichtung;
 - c) die in Agglomerationsprogrammen oder regionalen Richtplänen vorgesehenen Infrastrukturen, die eine gute Raumentwicklung oder die Förderung der sanften Mobilität zum Ziel haben;
 - d) weitere Massnahmen der Raumplanung gemäss Artikel 3 des Bundesgesetzes vom 22. Juni 1979 über die Raumplanung.
@@ -1299,15 +1320,36 @@ beschliesst:
 
 <sup>4</sup> Der Staatsrat regelt die Grundsätze der Verwaltung des Mehrwertfonds.
 
+<sup>5</sup> Die Verwendung der Gemeindeabgabe muss raumplanerischen Massnahmen dienen. Diese Zweckbestimmung wird in einem allgemein verbindlichen Gemeindereglement festgelegt.
+
 #### Art. 113d
 
 **Besteuerung**
 
-<sup>1</sup> Die Direktion nimmt auf Antrag der Kommission für Grundstückerwerb die Besteuerung mit einer begründeten Verfügung vor. Diese Verfügung kann mit Beschwerde vor dem Kantonsgericht angefochten werden.
+<sup>1</sup> Die kantonale Steuerverwaltung (nachfolgend KSTV) ist die Veranlagungsbehörde für die kantonale und die kommunale Abgabe. Die Veranlagung stützt sich auf die vom Bau- und Raumplanungsamt übermittelten Informationen. Die KSTV nimmt die Veranlagung mit einer Verfügung vor. Gegen diese Verfügung kann innert 30 Tagen nach Zustellung der Veranlagung eine begründete Einsprache bei der KSTV eingereicht werden.
 
-<sup>2</sup> Die Mehrwertabgabe wird im Grundbuch angemerkt. Diese Anmerkung ersetzt die gemäss Artikel 113a Abs. 4 eingetragene Anmerkung.
+<sup>1a</sup> Gegen den Einspracheentscheid kann innert 30 Tagen nach seiner Zustellung beim Kantonsgericht Beschwerde erhoben werden.
+
+<sup>1b</sup> Auf Antrag der KSTV kann die Finanzdirektion eine externe sachverständige Person mit der Schätzung des Mehrwerts beauftragen. Dieses Mandat wird gemäss Artikel 113c Abs. 2 aus dem Mehrwertfonds finanziert.
+
+<sup>2</sup> …
 
 <sup>3</sup> Das Recht auf Besteuerung verjährt nach fünf Jahren ab Rechtskraft der Planungsmassnahme gemäss Artikel 113a Abs. 2, aber in jedem Fall nach spätestens zehn Jahren ab diesem Tag. Für den Stillstand und die Unterbrechung der Verjährung gilt Artikel 151 Abs. 2 und 3 des Gesetzes vom 6. Juni 2000 über die direkten Kantonssteuern (DStG) sinngemäss.
+
+#### Art. 113dbis
+
+**Mitwirkung anderer Behörden und Dritter und Nutzung von Daten**
+
+<sup>1</sup> Die Verwaltungsbehörden, namentlich die Grundbuchämter, und die Gemeinden erteilen auf Anfrage der zuständigen Direktionen und Ämter die ihnen zur Verfügung stehenden Auskünfte, soweit diese für die Anwendung der gesetzlichen Bestimmungen über die Mehrwertabgabe erforderlich sind. Die mitgeteilten Elemente sind insbesondere die Veräusserungspreise von Grundstücken, wenn diese für die Schätzung des Mehrwerts erforderlich sind.
+
+<sup>2</sup> Die Grundbuchämter ermöglichen den zuständigen Direktionen und Ämtern eine Einsicht in die Anmerkungen nach Artikel 113a<sup>bis</sup> Abs. 3 und melden der Direktion Eigentumsübertragungen an Grundstücken, die Gegenstand solcher Anmerkungen sind.
+
+<sup>3</sup> Die zuständigen Direktionen und Ämter können darüber hinaus die folgenden Daten nutzen, soweit sie für die Bearbeitung der Veranlagungsdossiers erforderlich sind:
+
+- a) Name und Vorname, Geburtsdatum, AHV-Nummer und die Adresse der Eigentümerschaft der abgabepflichtigen Grundstücke oder von Anteilen an gemeinschaftlichem Eigentum an diesen Grundstücken;
+- b) Daten, die in den Baubewilligungsdossiers enthalten sind.
+
+<sup>4</sup> Die KSTV kann der externen sachverständigen Person, die mit der Schätzung beauftragt ist, alle in ihrem Besitz befindlichen Informationen übermitteln, die für die Schätzung notwendig sind.
 
 #### Art. 113e
 
@@ -1315,26 +1357,63 @@ beschliesst:
 
 <sup>1</sup> Die Abgabe wird fällig:
 
-- a) innert sechs Monaten ab Rechtskraft der Baubewilligung, die für die erste Baute auf dem betroffenen Grundstück nach dem ordentlichen Bewilligungsverfahren erteilt wurde, mit Ausnahme der Detailerschliessungsbewilligungen und der Fälle nach Absatz 2, oder
+- a) innert sechs Monaten ab Rechtskraft der Baubewilligung, die für die erste Baute auf dem betroffenen Grundstück nach dem ordentlichen Bewilligungsverfahren erteilt wurde, mit Ausnahme der Detailerschliessungsbewilligungen oder
 - b) im Falle der Veräusserung des Grundstücks gemäss Artikel 42 DStG.
 
-<sup>2</sup> Die Besteuerung wird in den Fällen nach Artikel 43 DStG aufgeschoben.
+<sup>2</sup> Die auf das gesamte Grundstück geschuldete Mehrwertabgabe ist anteilig zahlbar entsprechend:
 
-<sup>3</sup> Der Schuldner oder die Schuldnerin der Mehrwertabgabe ist die Eigentümerin oder der Eigentümer des Grundstücks im Zeitpunkt der öffentlichen Auflage der Planungsmassnahme gemäss Artikel 113a Abs. 2.
+- a) den bebauten oder veräusserten Parzellen, wenn das betroffene Grundstück geteilt wurde;
+- b) den veräusserten Anteilen eines gemeinschaftlichen Eigentums, mit Ausnahme des Falles nach Artikel 113e<sup>bis</sup> Abs. 2 Bst. c.
 
-<sup>4</sup> Wenn mehrere Personen Eigentümerinnen eines Grundstücks sind, haften sie solidarisch gegenüber dem Staat.
+<sup>3</sup> …
 
-<sup>5</sup> Die Erben haften solidarisch für die vom Verstorbenen geschuldete Abgabe bis zur Höhe ihres Erbteils.
+<sup>4</sup> …
+
+<sup>5</sup> …
+
+#### Art. 113ebis
+
+**Aufgeschobene Fälligkeit**
+
+<sup>1</sup> Die Besteuerung wird in den Fällen nach Artikel 43 Abs. 1 Bst. a-c DStG aufgeschoben.
+
+<sup>2</sup> Steht die Besteuerung des Mehrwerts mit einer Nutzungsänderung oder mit einer Erhöhung der Bebauungsmöglichkeiten im Sinne von Artikel 113a Abs. 2 Bst. b in Zusammenhang, so wird die Zahlung der Abgabe ebenfalls für den gesamten geschuldeten Betrag aufgeschoben:
+
+- a) wenn das noch zur Verfügung stehende Baupotenzial nur vernachlässigbar genutzt wird;
+- b) wenn die Baubewilligung für eine Baute oder Anlage erteilt wird, die für eine landwirtschaftliche Bewirtschaftung erforderlich ist und auf einem Grundstück vorgesehen wird, das der Gesetzgebung über das bäuerliche Bodenrecht untersteht;
+- c) im Falle der Veräusserung eines Anteils an Stockwerkeigentum.
+
+<sup>3</sup> Bei einer Handänderung, welche die Fälligkeit der Abgabe nicht auslöst, geht die Pflicht zur Tragung der Abgabe von Amtes wegen auf die neue Eigentümerschaft über.
+
+<sup>4</sup> Der Staatsrat legt die Modalitäten der Anwendung von Absatz 2 im Ausführungsreglement fest.
+
+#### Art. 113eter
+
+**Schuldnerin oder Schuldner**
+
+<sup>1</sup> Schuldnerin oder Schuldner der Mehrwertabgabe ist die Eigentümerin oder der Eigentümer des Grundstücks zum Zeitpunkt des Inkrafttretens der Planungsmassnahme gemäss Artikel 113a Abs. 2.
+
+<sup>2</sup> Die Schuldnerin oder der Schuldner ist jedoch die Eigentümerin oder der Eigentümer des Grundstücks zum Zeitpunkt der öffentlichen Auflage der Planungsmassnahme, wenn sie oder er eine Baubewilligung gemäss Artikel 91 Abs. 2 erhalten hat.
+
+<sup>3</sup> Liegen mehrere Schuldnerinnen und Schuldner vor, haften sie solidarisch für die Zahlung.
+
+<sup>4</sup> Die Erbinnen und Erben haften solidarisch für die von der Verstorbenen oder vom Verstorbenen geschuldete Abgabe bis zur Höhe ihres Erbteils.
 
 #### Art. 113f
 
 **Erhebung**
 
-<sup>1</sup> Die kantonale Steuerverwaltung ist für die Erhebung der Mehrwertabgabe zuständig.
+<sup>1</sup> Die KSTV ist für die Erhebung der Mehrwertabgabe, einschliesslich der Gemeindeabgabe im Sinne von Artikel 113a Abs. 1a, zuständig. Den Gemeinden werden keine Kosten und Gebühren für die zentrale Erhebung der Abgabe in Rechnung gestellt.
+
+<sup>1a</sup> Die Rechnung wird der Schuldnerin oder dem Schuldner mit einer dreissigtägigen Zahlungsfrist zugesandt. Nach Ablauf dieser Frist sind Verzugszinsen zum Satz, der gemäss Artikel 207 Abs. 3 DStG festgelegt wird, zu zahlen.
+
+<sup>1b</sup> Wenn die Zahlung trotz Mahnung nicht geleistet wird, kann eine Betreibung eingeleitet werden. Die Kosten der Eintreibung gehen zu Lasten der Schuldnerin oder des Schuldners.
+
+<sup>1c</sup> Ist die Zahlung der Abgabe innert der vorgeschriebenen Frist für die Schuldnerin oder den Schuldner mit einer erheblichen Härte verbunden, so kann die Bezugsbehörde auf begründeten Antrag hin einen Zahlungsaufschub oder die Möglichkeit einer Ratenzahlung gewähren. Der Verzugszins ist weiterhin geschuldet.
 
 <sup>2</sup> Das Recht, die Abgabe zu erheben, verjährt nach fünf Jahren ab ihrer Fälligkeit, aber in jedem Fall nach spätestens zehn Jahren ab diesem Tag. Für den Stillstand und die Unterbrechung der Verjährung gilt Artikel 151 Abs. 2 und 3 DStG sinngemäss.
 
-<sup>3</sup> Die einschlägigen Bestimmungen über die Erhebung der kantonalen Steuern gelten für die Erhebung der Mehrwertabgabe sinngemäss; anderslautende Bestimmungen dieses Gesetzes bleiben vorbehalten.
+<sup>3</sup> …
 
 #### Art. 113g
 
@@ -1342,22 +1421,22 @@ beschliesst:
 
 <sup>1</sup> Die Zahlung der geschuldeten Abgabe wird mit einem gesetzlichen Pfandrecht sichergestellt (Art. 73 EGZGB), das gleichzeitig mit der garantierten Forderung und ohne Eintragung entsteht.
 
-<sup>2</sup> Auf Antrag der Direktion wird das Pfandrecht mit der Veranlagungsverfügung im Grundbuch eingetragen.
+<sup>2</sup> Auf Antrag der KSTV wird das Pfandrecht mit der Veranlagungsverfügung im Grundbuch eingetragen.
 
-<sup>3</sup> Das Pfandrecht wird nach vollständiger Zahlung der Abgabe auf Antrag der kantonalen Steuerverwaltung gelöscht.
+<sup>3</sup> Das Pfandrecht wird nach vollständiger Zahlung der Abgabe auf Antrag der KSTV gelöscht.
 
 #### Art. 113h
 
 **Befreiung**
 
-<sup>1</sup> Öffentlich-rechtliche Körperschaften werden von der Mehrwertabgabe befreit, wenn sie Eigentümerinnen von Grundstücken sind, für die eine Planungsmassnahme nach Artikel 113a Abs. 2 getroffen wird und wenn diese Grundstücke der Erfüllung von Aufgaben im öffentlichen Interesse dienen, die sie selbst oder durch Zuständigkeitsdelegation ausführen.
+<sup>1</sup> Der Staat, die Gemeinden und die Gemeindeverbände sind von der Mehrwertabgabe befreit.
 
-<sup>2</sup> Als öffentlich-rechtliche Körperschaften gemäss Absatz 1 gelten:
+<sup>2</sup> Die übrigen öffentlich-rechtlichen Körperschaften und die öffentlich-rechtlichen Anstalten mit eigener Rechtspersönlichkeit, die Eigentümer von Grundstücken sind, die Gegenstand einer der Planungsmassnahmen nach Artikel 113a Abs. 2 sind, sind von der Mehrwertabgabe befreit, wenn diese Grundstücke der Erfüllung von Aufgaben im öffentlichen Interesse dienen, die sie selbst oder durch Zuständigkeitsdelegation ausführen.
 
-- a) der Staat;
-- b) die Gemeinden und die Gemeindeverbände;
-- c) die übrigen öffentlich-rechtlichen Körperschaften, und
-- d) die öffentlich-rechtlichen Anstalten mit eigener Rechtspersönlichkeit.
+- a) …
+- b) …
+- c) …
+- d) …
 
 <sup>3</sup> Die Werterhöhung eines Grundstücks nach einer Planungsmassnahme gemäss Artikel 113a Abs. 2 wird von der Mehrwertabgabe befreit, wenn die Werterhöhung einen Gesamtbetrag von 20'000 Franken nicht übersteigt.
 
@@ -1450,7 +1529,7 @@ beschliesst:
 
 #### Art. 123
 
-**Naturgefahren c) Beweislast und Entschädigungsausschluss**
+**Naturgefahren – Beweislast und Entschädigungsausschluss**
 
 <sup>1</sup> Wird das Bestehen einer Gefahr bestritten, so trägt der Staat die Beweislast, bis der Ortsplan, der die auf der Grundlage der Gefahrenkarten zu treffenden Planungsmassnahmen umsetzt, genehmigt ist.
 
@@ -1549,13 +1628,13 @@ beschliesst:
 
 #### Art. 134
 
-**Abstandsvorschriften c) Besondere Regelung der Abstandsvorschriften**
+**Abstandsvorschriften – Besondere Regelung der Abstandsvorschriften**
 
 <sup>1</sup> Die Abstandsvorschriften der Spezialgesetzgebung bleiben vorbehalten.
 
 <sup>2</sup> In einem Zonennutzungs- oder Detailbebauungsplan können die Mindestabstände, die von Bauten und Anlagen gegenüber vorhandenen oder projektierten Verkehrsanlagen, Gewässern, Wäldern, Grundstücksgrenzen und Aussichtspunkten eingehalten werden müssen, durch Baulinien geregelt werden. Baulinien gehen allen andern Grenz- und Abstandsvorschriften vor. Pflichtbaulinien schreiben vor, dass an die Baulinie gebaut werden muss.
 
-### 3.2 Bau , Abbruch , Standortbewilligung
+### 3.2 Bau-, Abbruch-, Standortbewilligung
 
 ### 3.2.1 Allgemeine Bestimmungen
 
@@ -1822,7 +1901,7 @@ beschliesst:
 
 #### Art. 160
 
-**Finanzielle Sicherheiten c) Haftpflichtversicherung**
+**Finanzielle Sicherheiten – Haftpflichtversicherung**
 
 <sup>1</sup> Die Betreiberin oder der Betreiber und die Eigentümerschaft sind verpflichtet, eine ausreichende Versicherung zur Deckung ihrer Haftpflichtrisiken abzuschliessen.
 
@@ -2027,6 +2106,18 @@ beschliesst:
 <sup>1</sup> Die Gemeinden verfügen ab Inkrafttreten der Änderung vom 21. Juni 2018 dieses Gesetzes über eine Frist von zwei Jahren, um einer Planungsregion beizutreten oder um sich andernfalls zu einer Planungsregion gemäss dem Gesetz zusammenzuschliessen.
 
 <sup>2</sup> Sollte eine Gemeinde nach Ablauf dieser Frist keiner Region angehören oder sollte keine Region gebildet worden sein, so trifft der Staatsrat die notwendigen Massnahmen entsprechend dem Gesetz über die Gemeinden.
+
+#### Art. 178d
+
+**Mehrwertabgabepflicht und Modalitäten der Fälligkeit**
+
+<sup>1</sup> Der Mehrwertabgabe unterliegen Grundstücke, die Gegenstand einer Einzonung (Art. 113a Abs. 2 Bst. b) oder einer Nutzungsänderung (Art. 113a Abs. 2 Bst. b) waren, die von der Direktion nach dem 1. Januar 2018 genehmigt wurde. Davon ausgenommen sind jedoch Grundstücke, für welche die Planungsmassnahme vor dem 1. Januar 2018 öffentlich aufgelegt wurde, wenn die Eigentümerschaft vor diesem Datum das Veräusserungsgeschäft für diese Grundstücke unterzeichnet oder eine Baubewilligung erhalten hat.
+
+<sup>2</sup> Der Mehrwertabgabe unterliegen Grundstücke, die Gegenstand einer Erhöhung der Bebauungsmöglichkeiten (Art. 113a Abs. 2 Bst. c) waren, welche erstmals ab dem 1. Mai 2019 öffentlich aufgelegt und bis zum Inkrafttreten der Änderung vom 15. Dezember 2022 dieses Gesetzes nicht genehmigt wurden. Davon ausgenommen sind jedoch Grundstücke, für welche die Planungsmassnahme vor dem Inkrafttreten der Änderung vom 15. Dezember 2022 des vorliegenden Gesetzes öffentlich aufgelegt wurde, wenn die Eigentümerschaft vor diesem Datum eine Baubewilligung erhalten hat.
+
+<sup>3</sup> Artikel 113e<sup>ter</sup> gilt für Grundstücke, die Gegenstand einer Planungsmassnahme im Sinne von Artikel 113a Abs. 2 waren, welche von der Direktion ab dem Inkrafttreten der Änderung vom 15. Dezember 2022 dieses Gesetzes genehmigt wurde. Für Planungsmassnahmen im Sinne von Artikel 113a Abs. 2 Bst. a und b, die vor diesem Datum genehmigt wurden, ist die Schuldnerin oder der Schuldner der auf dem Mehrwert erhobenen Abgabe die Eigentümerschaft der Grundstücke zum Zeitpunkt der öffentlichen Auflage dieser Massnahmen. Dasselbe gilt für Grundstücke, die Gegenstand dieser Massnahmen waren, wenn die Massnahmen nach dem Datum des Inkrafttretens der Änderung vom 15. Dezember 2022 dieses Gesetzes genehmigt wurden und ein Veräusserungsgeschäft vor diesem Datum abgeschlossen wurde.
+
+<sup>4</sup> Die Artikel 113b Abs. 2a, 113d Abs. 1 und 1a, 113d<sup>bis</sup>, 113e Abs. 1 und 2, 113e<sup>bis</sup> und 113f gelten auch für Grundstücke, die Gegenstand einer Planungsmassnahme im Sinne von Absatz 1 sind.
 
 ### 4.2 Schlussbestimmungen
 

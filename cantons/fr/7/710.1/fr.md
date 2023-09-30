@@ -4,13 +4,13 @@ number: "710.1"
 title: "Loi sur l'aménagement du territoire et les constructions"
 short: LATeC
 language: fr
-version: 2023-01-01
-valid_until: 2023-09-30
-version_adopted: 2021-11-05
+version: 2023-10-01
+valid_until: 2024-02-29
+version_adopted: 2023-08-25
 adopted: 2008-12-02
 in_force: 2010-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/710.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7586/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7946/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Aménagement du territoire et constructions – L
 
 (LATeC)
 
-du 02.12.2008 (version entrée en vigueur le 01.01.2023)
+du 02.12.2008 (version entrée en vigueur le 01.10.2023)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -880,6 +880,8 @@ Décrète:
 
 <sup>1</sup> Avant la mise en consultation du plan directeur communal et du programme d'équipement ou la mise à l'enquête publique du plan d'affectation des zones, d'un plan d'aménagement de détail et de la réglementation relative à ces plans, la commune les soumet à l'examen du Service.
 
+<sup>2</sup> Les modifications du plan d'affectation des zones qui consistent uniquement en une ou plusieurs rocades à l'intérieur du territoire d'urbanisation sont dispensées de l'examen préalable. Est considérée comme une rocade la mise en zone et le dézonage simultanés de parties de zones à bâtir de même affectation, de surface équivalente et situées dans un même secteur géographique. Le Conseil d'Etat définit les critères auxquels doit répondre le secteur bénéficiant de la rocade.
+
 ### 2.4.5.2 Plan directeur communal et programme d'équipement
 
 #### Art. 78
@@ -965,6 +967,8 @@ Décrète:
 **Approbation**
 
 <sup>1</sup> Le Service établit un préavis de synthèse à l'intention de la Direction, après avoir consulté, au besoin, les services et organes intéressés.
+
+<sup>1a</sup> Le Service n'établit pas de préavis de synthèse lorsque la modification du plan d'affectation des zones consiste uniquement en une ou plusieurs rocades à l'intérieur du territoire d'urbanisation au sens de l'article 77 al. 2. Dans ce cas, la Direction consulte elle-même, au besoin, les services et organes intéressés. L'alinéa 1 est néanmoins applicable en cas de recours au sens de l'article 88 al. 1.
 
 <sup>2</sup> Lorsque la Direction entend ne pas approuver des mesures prévues dans les plans et les règlements adoptés ou prendre dans sa décision d'approbation des mesures qui ne figuraient pas dans le dossier d'enquête publique, les intéressés sont préalablement entendus, selon les modalités fixées dans le règlement d'exécution.
 
@@ -1259,16 +1263,29 @@ Décrète:
 
 **Taxe sur la plus-value**
 
-<sup>1</sup> La compensation des avantages majeurs résultant d'une mesure d'aménagement se fait par le biais d'une taxe sur la plus-value.
+<sup>1</sup> La compensation des avantages majeurs résultant d'une mesure d'aménagement se fait par le biais d'une taxe sur la plus-value prélevée par le canton.
+
+<sup>1a</sup> Les communes peuvent prélever une taxe sur la plus-value liée à des mesures d'aménagement sur la base de la taxation cantonale. Cette taxe se monte au maximum à un quart du prélèvement cantonal. La part dévolue à la commune est déduite de la part cantonale.
 
 <sup>2</sup> Est considérée comme un avantage majeur l'augmentation de la valeur d'un bien-fonds qui résulte:
 
 - a) du classement de celui-ci dans une zone d'affectation selon l'article 15 de la loi fédérale du 22 juin 1979 sur l'aménagement du territoire;
-- b) d'un changement d'affectation de la zone dans laquelle il est situé.
+- b) d'un changement d'affectation de la zone dans laquelle il est situé;
+- c) de l'augmentation des possibilités de construire d'un bien-fonds situé en zone à bâtir, lorsque cette augmentation représente au minimum le 50% des surfaces de plancher du potentiel initial.
 
 <sup>3</sup> Par changement d'affectation au sens de l'alinéa 2 let. b, il faut entendre toute modification notable de la destination de la zone et de la typologie des constructions qui y sont admises.
 
-<sup>4</sup> Dès l'entrée en force de la mesure d'aménagement, l'assujettissement du bien-fonds à la taxe sur la plus-value fait l'objet d'une mention inscrite au registre foncier, sur réquisition de la Direction.
+<sup>4</sup> …
+
+#### Art. 113abis
+
+**Information des propriétaires**
+
+<sup>1</sup> Sur la base des informations figurant dans le préavis de synthèse d'examen préalable émis par le Service (art. 77), les communes identifient les biens-fonds potentiellement soumis à la taxe sur la plus-value dans le rapport explicatif et de conformité accompagnant le dossier de planification (art. 39 al. 2).
+
+<sup>2</sup> Avant la mise à l'enquête publique de leur dossier de planification, les communes saisissent la liste des biens-fonds concernés sur une application mise à disposition par le canton, à des fins de publication sur un portail cartographique, à titre indicatif.
+
+<sup>3</sup> Sur réquisition de la Direction, l'assujettissement d'un bien-fonds à la taxe sur la plus-value fait l'objet d'une mention opérée au registre foncier dès l'entrée en force de la mesure d'aménagement.
 
 #### Art. 113b
 
@@ -1278,7 +1295,11 @@ Décrète:
 
 <sup>2</sup> La plus-value correspond à la différence entre la valeur vénale d'un bien-fonds avant et après l'entrée en force de la mesure d'aménagement.
 
-<sup>3</sup> Lors du calcul de la taxe, le montant qui est utilisé dans un délai raisonnable dès l'entrée en force de la mesure d'aménagement pour l'acquisition d'un bâtiment agricole de remplacement destiné à être exploité à titre personnel est déduit de l'avantage résultant du classement au sens de l'article 113a al. 2 let. a.
+<sup>2a</sup> En cas d'aliénation à titre onéreux, le prix convenu est en principe considéré comme étant représentatif de la valeur vénale. A défaut de prix ou si celui-ci ne correspond pas à la valeur vénale du bien-fonds, cette valeur se détermine sur la base d'une méthode comparative ou, en l'absence de prix comparatifs suffisamment fiables, sur la base de la méthode de la valeur résiduelle ou d'autres méthodes d'estimation officielles reconnues.
+
+<sup>2b</sup> Les impenses nécessaires à la mise en valeur du terrain peuvent être déduites de la valeur vénale. Le Conseil d'Etat détermine la nature de ces impenses.
+
+<sup>3</sup> Lors du calcul de la taxe, le montant qui est utilisé dans un délai de 5 ans dès l'entrée en force de la mesure d'aménagement pour l'acquisition d'un bâtiment agricole de remplacement destiné à être exploité à titre personnel est déduit de l'avantage résultant du classement au sens de l'article 113a al. 2 let. a.
 
 <sup>4</sup> En cas d'impôt sur les gains immobiliers, le montant est déduit du gain imposable en tant que partie des impenses.
 
@@ -1286,11 +1307,11 @@ Décrète:
 
 **Affectation des recettes**
 
-<sup>1</sup> Sur le produit de la taxe perçue, un montant correspondant à un taux de 4 % de la plus-value est prélevé pour alimenter le Fonds des améliorations foncières.
+<sup>1</sup> Sur le produit de la taxe cantonale perçue, un montant correspondant à un taux de 4 % de la plus-value est prélevé pour alimenter le Fonds des améliorations foncières.
 
-<sup>2</sup> Le solde du produit de la taxe est versé dans le Fonds de la plus-value qui finance, dans l'ordre de priorité défini ci-dessous:
+<sup>2</sup> Le solde du produit de la taxe cantonale est versé dans le Fonds de la plus-value qui finance, dans l'ordre de priorité défini ci-dessous, après déduction des charges de fonctionnement:
 
-- a) les indemnités accordées pour cause d'expropriation matérielle découlant d'une mesure d'aménagement;
+- a) les indemnités accordées pour cause d'expropriation matérielle découlant d'une mesure d'aménagement, à l'exception des indemnités fixées par le biais d'une entente passée entre la collectivité publique recherchée et le ou la propriétaire dans le cadre d'une procédure pour cause d'expropriation matérielle ouverte devant la Commission d'expropriation (art. 60 et 61 [142] de la loi du 23 février 1984 sur l'expropriation);
 - b) les plans directeurs régionaux ou leur révision et les études régionales et communales en vue de la requalification et de la densification du milieu bâti;
 - c) les infrastructures prévues dans le cadre de projets d'agglomérations ou de plans directeurs régionaux visant à un aménagement de qualité et à favoriser la mobilité douce;
 - d) d'autres mesures d'aménagement prévues par l'article 3 de la loi fédérale du 22 juin 1979 sur l'aménagement du territoire.
@@ -1299,15 +1320,36 @@ Décrète:
 
 <sup>4</sup> Le Conseil d'Etat règle les principes de gestion du Fonds de la plus-value.
 
+<sup>5</sup> L'affectation de la taxe communale doit servir des mesures d'aménagement du territoire. Cette affectation est déterminée par un règlement communal de portée générale.
+
 #### Art. 113d
 
 **Taxation**
 
-<sup>1</sup> Sur la proposition de la Commission d'acquisition des immeubles, la Direction procède à la taxation par le biais d'une décision motivée. Cette décision peut faire l'objet d'un recours auprès du Tribunal cantonal.
+<sup>1</sup> Le Service cantonal des contributions (ci-après le SCC) est l'autorité de taxation pour la taxe cantonale et communale. La taxation est basée sur les informations transmises par le Service des constructions et de l'aménagement. Le SCC procède à la taxation par le biais d'une décision. Cette décision peut faire l'objet d'une réclamation motivée auprès du SCC dans un délai de 30 jours dès la notification de la taxation.
 
-<sup>2</sup> La taxe sur la plus-value fait l'objet d'une mention inscrite au registre foncier. Celle-ci remplace la mention inscrite en application de l'article 113a al. 4.
+<sup>1a</sup> La décision sur réclamation peut faire l'objet d'un recours auprès du Tribunal cantonal dans un délai de 30 jours dès sa notification.
+
+<sup>1b</sup> Sur proposition du SCC, la Direction des finances peut mandater un expert ou une experte externe pour estimer la plus-value. Ce mandat est financé par le Fonds de la plus-value, conformément à l'article 113c al. 2.
+
+<sup>2</sup> …
 
 <sup>3</sup> Le droit de procéder à la taxation se prescrit par cinq ans à compter de l'entrée en force de la mesure d'aménagement au sens de l'article 113a al. 2, mais, dans tous les cas, au plus tard dix ans à compter de ce même jour. Pour la suspension et l'interruption de la prescription, l'article 151 al. 2 et 3 de la loi du 6 juin 2000 sur les impôts cantonaux directs (LICD) s'applique par analogie.
+
+#### Art. 113dbis
+
+**Collaboration d'autres autorités et de tiers et utilisation des données**
+
+<sup>1</sup> Les autorités administratives, notamment les registres fonciers, et les communes communiquent sur demande aux Directions et services concernés les éléments dont elles disposent et qui sont nécessaires à l'application des dispositions légales relatives à la taxe sur la plus-value. Les éléments communiqués sont en particulier les prix d'aliénation de terrains lorsque ces prix sont nécessaires à l'estimation de la plus-value.
+
+<sup>2</sup> Les registres fonciers fournissent aux Directions et services concernés un accès aux mentions inscrites en application de l'article 113a<sup>bis</sup> al. 3. Ils lui annoncent en outre les transferts de propriété d'immeubles qui font l'objet d'une telle mention.
+
+<sup>3</sup> Les Directions et services concernés peuvent en outre utiliser les données suivantes, dans la mesure où elles sont nécessaires au traitement des dossiers de taxation:
+
+- a) le nom et prénom, la date de naissance, le numéro AVS et l'adresse des propriétaires des biens-fonds assujettis à la taxe ou de parts de propriété collective sur ces biens-fonds;
+- b) les données figurant dans les dossiers de permis de construire.
+
+<sup>4</sup> Le SCC peut transmettre à l'expert-e externe chargé-e de l'estimation toutes les informations en sa possession utiles à l'estimation.
 
 #### Art. 113e
 
@@ -1315,26 +1357,63 @@ Décrète:
 
 <sup>1</sup> La contribution est exigible:
 
-- a) dans les six mois qui suivent l'entrée en force du permis de construire octroyé pour la première construction sur le bien-fonds considéré, au terme d'une procédure ordinaire de permis, à l'exception des permis pour l'équipement de détail et des cas visés à l'alinéa 2, ou
+- a) dans les six mois qui suivent l'entrée en force du permis de construire octroyé au terme d'une procédure ordinaire pour la première construction sur le bien-fonds considéré, sauf s'il s'agit d'un permis pour l'équipement de détail ou
 - b) en cas d'aliénation du bien-fonds au sens de l'article 42 LICD.
 
-<sup>2</sup> L'imposition est différée dans les cas prévus par l'article 43 LICD.
+<sup>2</sup> La taxe sur la plus-value due pour l'entier d'un bien-fonds est payable au prorata:
 
-<sup>3</sup> Le débiteur ou la débitrice de la taxe sur la plus-value est le ou la propriétaire du bien-fonds au moment de la mise à l'enquête publique de la mesure d'aménagement prévue à l'article 113a al. 2.
+- a) des parcelles construites ou aliénées lorsque le bien-fonds considéré a fait l'objet d'une division;
+- b) des parts de propriété collective aliénées, à l'exception du cas prévu à l'article 113e<sup>bis</sup> al. 2 let. c.
 
-<sup>4</sup> Lorsque plusieurs personnes sont propriétaires d'un bien-fonds, elles sont solidairement obligées envers l'Etat.
+<sup>3</sup> …
 
-<sup>5</sup> Les héritiers répondent solidairement de la taxe due par le défunt ou la défunte, jusqu'à concurrence de leur part héréditaire.
+<sup>4</sup> …
+
+<sup>5</sup> …
+
+#### Art. 113ebis
+
+**Exigibilité différée**
+
+<sup>1</sup> L'imposition est différée dans les cas prévus par l'article 43 al. 1 let a à c LICD.
+
+<sup>2</sup> Lorsque la taxation de la plus-value est liée à un changement d'affectation ou à une augmentation des possibilités de construire au sens de l'article 113a al. 2 let. b et c, le paiement de la taxe est également reporté pour l'ensemble du montant dû:
+
+- a) si le potentiel de construction encore à disposition n'est utilisé que de manière négligeable;
+- b) si le permis de construire est octroyé pour une construction ou une installation qui est nécessaire à une exploitation agricole et prévue sur un bien-fonds assujetti à la législation sur le droit foncier rural;
+- c) en cas d'aliénation d'une part de propriété par étages.
+
+<sup>3</sup> En cas de changement de propriétaire qui ne déclenche pas l'exigibilité de la taxe, l'obligation de supporter la taxe est transférée d'office aux nouveaux propriétaires.
+
+<sup>4</sup> Le Conseil d'Etat définit les modalités d'application de l'alinéa 2 dans le règlement d'exécution.
+
+#### Art. 113eter
+
+**Débiteur ou débitrice**
+
+<sup>1</sup> Le débiteur ou la débitrice de la taxe sur la plus-value est le ou la propriétaire du bien-fonds au moment de l'entrée en force de la mesure d'aménagement prévue à l'article 113a al. 2.
+
+<sup>2</sup> Toutefois, le débiteur ou la débitrice est le ou la propriétaire du bien-fonds au moment de la mise à l'enquête publique de la mesure d'aménagement si il ou elle a obtenu un permis de construire en application de l'article 91 al. 2.
+
+<sup>3</sup> S'il y a plusieurs débiteurs, ils sont solidairement responsables du paiement.
+
+<sup>4</sup> Les héritiers répondent solidairement de la taxe due par le défunt ou la défunte, jusqu'à concurrence de leur part héréditaire.
 
 #### Art. 113f
 
 **Perception**
 
-<sup>1</sup> Le Service cantonal des contributions est l'autorité de perception de la taxe sur la plus-value.
+<sup>1</sup> Le SCC est l'autorité de perception de la taxe sur la plus-value, y compris la taxe communale au sens de l'article 113a al. 1a. Aucun frais et émoluments ne seront facturés aux communes pour la perception centralisée de la taxe.
+
+<sup>1a</sup> Le bordereau est adressé au débiteur ou à la débitrice avec l'indication d'un délai de paiement de trente jours. Passé ce délai, il est dû un intérêt moratoire dont le taux correspond à celui qui est fixé en application de l'article 207 al. 3 LICD.
+
+<sup>1b</sup> Si malgré une sommation, le paiement n'est pas effectué, une poursuite peut être introduite. Les frais de perception sont mis à la charge du débiteur ou de la débitrice.
+
+<sup>1c</sup> Si le paiement de la taxe dans le délai prescrit devait avoir des conséquences très dures pour le débiteur ou la débitrice, l'autorité de perception peut accorder sur demande motivée un sursis ou la possibilité d'effectuer un versement par acomptes. L'intérêt moratoire reste dû.
 
 <sup>2</sup> Le droit de percevoir la taxe se prescrit par cinq ans à compter de son exigibilité, mais, dans tous les cas, au plus tard dix ans à compter de ce même jour. Pour la suspension et l'interruption de la prescription, l'article 151 al. 2 et 3 LICD s'applique par analogie.
 
-<sup>3</sup> Dans la mesure où la présente loi ne prévoit pas de dispositions contraires, les dispositions pertinentes sur la perception des impôts cantonaux sont applicables par analogie à la perception de la taxe sur la plus-value.
+<sup>3</sup> …
 
 #### Art. 113g
 
@@ -1342,22 +1421,22 @@ Décrète:
 
 <sup>1</sup> Le paiement de la taxe due est garanti par une hypothèque légale (art. 73 LACC) qui prend naissance, sans inscription, en même temps que la créance qu'elle garantit.
 
-<sup>2</sup> L'hypothèque est inscrite au registre foncier sur réquisition de la Direction, accompagnée du bordereau de taxation.
+<sup>2</sup> L'hypothèque est inscrite au registre foncier sur réquisition du SCC, accompagnée du bordereau de taxation.
 
-<sup>3</sup> L'hypothèque est radiée sur requête du Service cantonal des contributions au paiement complet de la taxe.
+<sup>3</sup> L'hypothèque est radiée sur requête du SCC au paiement complet de la taxe.
 
 #### Art. 113h
 
 **Exemption**
 
-<sup>1</sup> Les collectivités publiques qui sont propriétaires de terrains faisant l'objet d'une des mesures d'aménagement prévues à l'article 113a al. 2 sont exemptes de la taxe sur la plus-value lorsque ces terrains sont destinés à la réalisation de tâches d'intérêt public qu'elles accomplissent elles-mêmes ou par délégation de compétence.
+<sup>1</sup> L'Etat, les communes et les associations de communes sont exempts de la taxe sur la plus-value.
 
-<sup>2</sup> Par collectivité publique au sens de l'alinéa 1, il faut entendre:
+<sup>2</sup> Les autres corporations de droit public et les établissements de droit public dotés de la personnalité juridique qui sont propriétaires de terrains faisant l'objet d'une des mesures d'aménagement prévues à l'article 113a al. 2 sont exempts de la taxe sur la plus-value lorsque ces terrains sont destinés à la réalisation de tâches d'intérêt public qu'ils accomplissent eux-mêmes ou par délégation de compétence.
 
-- a) l'Etat;
-- b) les communes et les associations de communes;
-- c) les autres corporations de droit public, et
-- d) les établissements de droit public dotés de la personnalité juridique.
+- a) …
+- b) …
+- c) …
+- d) …
 
 <sup>3</sup> L'augmentation de valeur d'un bien-fonds consécutive à l'une des mesures d'aménagement définies à l'article 113a al. 2 est exempte de la taxe sur la plus-value si elle représente un montant total inférieur à 20'000 francs.
 
@@ -2027,6 +2106,18 @@ Décrète:
 <sup>1</sup> Les communes disposent d'un délai de deux ans dès l'entrée en vigueur de la modification du 21 juin 2018 de la présente loi pour intégrer une région d'aménagement ou, à défaut, pour se grouper en une région d'aménagement conformément à la loi.
 
 <sup>2</sup> Si, à l'échéance de ce délai, une commune ne fait pas partie d'une région ou une région ne s'est pas constituée, le Conseil d'Etat prend les mesures nécessaires en application de la loi sur les communes.
+
+#### Art. 178d
+
+**Assujettissement à la taxe sur la plus-value et modalités de l'exigibilité**
+
+<sup>1</sup> Sont assujettis à la taxe sur la plus-value les biens-fonds ayant fait l'objet d'une mise en zone à bâtir (art. 113a al. 2 let. a) ou d'un changement d'affectation (art. 113a al. 2 let. b) approuvé par la Direction à partir du 1<sup>er</sup> janvier 2018. Font toutefois exception les biens-fonds pour lesquels la mesure d'aménagement a été mise à l'enquête publique avant le 1<sup>er</sup> janvier 2018, lorsque les propriétaires ont signé l'acte d'aliénation de ces biens-fonds ou ont obtenu un permis de construire avant cette date.
+
+<sup>2</sup> Sont assujettis à la taxe sur la plus-value les biens-fonds ayant fait l'objet d'une augmentation des possibilités de construire (art. 113a al. 2 let. c) mise à l'enquête pour la première fois à partir du 1<sup>er</sup> mai 2019 et non approuvée à la date de l'entrée en vigueur de la modification du 15 décembre 2022 de la présente loi. Font toutefois exception les biens-fonds pour lesquels la mesure d'aménagement a été mise à l'enquête publique avant l'entrée en vigueur de la modification du 15 décembre 2022 de la présente loi, lorsque les propriétaires ont obtenu un permis de construire avant cette date.
+
+<sup>3</sup> L'article 113e<sup>ter</sup> est applicable aux biens-fonds ayant fait l'objet d'une mesure d'aménagement au sens de l'art. 113a al. 2 approuvée par la Direction à partir de l'entrée en vigueur de la modification du 15 décembre 2022 de la présente loi. Pour les mesures d'aménagement au sens de l'art. 113a al. 2 let. a et b approuvées avant cette date, les débiteurs de la taxe prélevée sur la plus-value sont les propriétaires des biens-fonds au moment de la mise à l'enquête publique de ces mesures. Il en va de même pour les biens-fonds ayant fait l'objet de ces mesures lorsqu'elles ont été approuvées après la date de l'entrée en vigueur de la modification du 15 décembre 2022 de la présente loi et qu'un acte d'aliénation a été conclu avant cette date.
+
+<sup>4</sup> Les articles 113b al. 2a, 113d al. 1 et 1a, 113d<sup>bis</sup>, 113e al. 1 et 2, 113e<sup>bis</sup> et 113f sont également applicables aux biens-fonds ayant fait l'objet d'une mesure d'aménagement au sens de l'alinéa 1.
 
 ### 4.2 Dispositions finales
 
