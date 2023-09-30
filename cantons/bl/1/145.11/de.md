@@ -4,102 +4,85 @@ number: "145.11"
 title: Dienstordnung der Sicherheitsdirektion
 short: Do SID
 language: de
-version: 2023-07-01
-valid_until: 2023-09-30
-version_adopted: 2023-06-27
+version: 2023-10-01
+valid_until: 2024-08-31
+version_adopted: 2023-08-15
 adopted: 2024-12-17
 in_force: 2025-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/145.11"
-pdf: "https://bl.clex.ch/api/de/versions/3638/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3686/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Dienstordnung der Sicherheitsdirektion
 
-Vom 23.10.1984 (Stand 01.07.2023)
+Vom 23.10.1984 (Stand 01.10.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
-gestützt auf § 20 Abs. 4 und § 24 des Gesetzes vom 28. September 2017[^ingress-1] über die Organisation des Regierungsrats und der Verwaltung des Kantons Basel-Landschaft (Regierungs- und Verwaltungsorganisationsgesetz Basel-Landschaft, RVOG BL),
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1], das Gesetz über die Organisation des Regierungsrats und der Verwaltung des Kantons Basel-Landschaft (Regierungs- und Verwaltungsorganisationsgesetz Basel-Landschaft, RVOG BL) vom 28. September 2017[^ingress-2], das Einführungsgesetz zur Schweizerischen Strafprozessordnung (EG StPO) vom 12. März 2009[^ingress-3] und das Einführungsgesetz zur Schweizerischen Jugendstrafprozessordnung (EG JStPO) vom 23. September 2010[^ingress-4],
 
 beschliesst:
 
-[^ingress-1]: [SGS 140](https://bl.clex.ch/data/140/de/art20)
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
+[^ingress-2]: [SGS 140](https://bl.clex.ch/data/140/de)
+[^ingress-3]: [SGS 250](https://bl.clex.ch/data/250/de)
+[^ingress-4]: [SGS 242](https://bl.clex.ch/data/242/de)
 
 ## 1 Allgemeine Bestimmungen
 
 #### § 1
 
-**Aufgaben**
+**Aufgaben der Sicherheitsdirektion**
 
-<sup>1</sup> In den Geschäftsbereich der Sicherheitsdirektion (kurz: Direktion) fallen namentlich:
+<sup>1</sup> In den Geschäftsbereich der Sicherheitsdirektion fallen namentlich:
 
-- a. im Bereich des Justizwesens:
+- a. Im Bereich des Justizwesens:
   - 1\. juristische Vorbereitung der Gesetzgebung,
   - 2\. Begutachtung der vom Regierungsrat zugewiesenen Rechtsfragen,
-  - 2\.<sup>bis</sup> Vorbereitung von Beschwerdeentscheiden des Regierungsrats,
-  - 3\. Massnahmen staatsrechtlicher Natur im Verkehr mit anderen Kantonen, dem Bund oder dem Ausland,
-  - 4\. Aufsicht über das Erbschafts-, das Grundbuch-, das Betreibungs- und Konkurswesen sowie die Handelsregisterführung;
-  - 4<sup>bis</sup>. Vorbereitung von Entscheiden betreffend Umwandlung, Aufhebung und Löschung von Stiftungen unter kommunaler Aufsicht gemäss Art. 85, 86, 88 und 89 ZGB bzw. § 52 EG ZGB,
-  - 5\. Aufsicht über die Kindes- und Erwachsenenschutzbehörden; Aufgaben der kantonalen Zentralbehörde für internationalen Kindes- und Erwachsenenschutz,
-  - 6\. die Strafverfolgung,
-  - 7\. …
-  - 8\. Bürgerrechtswesen,
-  - 9\. …
+  - 3\. Vorbereitung von Beschwerdeentscheiden des Regierungsrats,
+  - 4\. Massnahmen staatsrechtlicher Natur im Verkehr mit anderen Kantonen, dem Bund oder dem Ausland,
+  - 5\. Aufsicht über das Erbschafts-, das Grundbuch-, das Betreibungs- und Konkurswesen sowie die Handelsregisterführung;
+  - 6\. Vorbereitung von Entscheiden betreffend Umwandlung, Aufhebung und Löschung von Stiftungen unter kommunaler Aufsicht gemäss Art. 85, 86, 88 und 89 ZGB bzw. § 52 EG ZGB,
+  - 7\. Aufsicht über die Kindes- und Erwachsenenschutzbehörden; Aufgaben der kantonalen Zentralbehörde für internationalen Kindes- und Erwachsenenschutz,
+  - 8\. die Strafverfolgung,
+  - 9\. Bürgerrechtswesen,
   - 10\. Zivilstandswesen,
   - 11\. Integrationsfragen,
   - 12\. Kindesschutz- und Familienfragen,
   - 13\. Entbindungen vom Amtsgeheimnis für Dienststellenleitungen und Mitarbeitende der Sicherheitsdirektion.
-- b. im Bereich öffentliche Sicherheit:
+- b. Im Bereich öffentliche Sicherheit:
   - 1\. Sicherheits-, Kriminal- und Verkehrspolizei,
-  - 2\. …
-  - 3\. Motorfahrzeugkontrolle,
-  - 4\. kantonale Koordinationsstelle Strafregister,
-  - 5\. Straf- und Massnahmenvollzug sowie Bewährungshilfe,
-  - 6\. Gefängniswesen,
-  - 7\. …
-  - 8\. Opferhilfe,
-  - 9\. Frauenhaus,
-  - 10\. Klärung und Regelung der Anwesenheitsberechtigung von ausländischen Personen,
-  - 11\. Ausweisschriften für Schweizerbürgerinnen und -bürger (Pässe und Identitätskarten),
-  - 12\. Bewilligungen, Vollzug und Aufsicht im Bereich des Reisendengewerbes,
-  - 13\. Bewilligungen, Vollzug und Aufsicht im Bereich des Gastgewerbes und des Alkoholverkaufs,
-  - 14\. Bewilligungen, Vollzug und Aufsicht im Bereich des Sammlungswesens, der Kleinspiele (Kleinlotterien, lokale Sportwetten, kleine Pokerturniere, kleine Geschicklichkeitsspiele), Vollzug und Aufsicht der Kleinspiele an Unterhaltungsanlässen (Tombola, Lottospiele), sowie Erhebung von Abgaben auf Geschicklichkeitsspielautomaten;
-  - 15\. Aufsicht über das Filmwesen,
-  - 16\. Verwaltung des Swisslos-Fonds,
-  - 17\. Vollzug zivil- und verwaltungsrechtlicher Entscheide,
-  - 18\. Bedrohungsmanagement.
-- c. im Bereich des Militärwesens und des Bevölkerungsschutzes:
+  - 2\. Motorfahrzeugkontrolle,
+  - 3\. kantonale Koordinationsstelle Strafregister,
+  - 4\. Straf- und Massnahmenvollzug sowie Bewährungshilfe,
+  - 5\. Gefängniswesen,
+  - 6\. Opferhilfe,
+  - 7\. Frauenhaus,
+  - 8\. Klärung und Regelung der Anwesenheitsberechtigung von ausländischen Personen,
+  - 9\. Ausweisschriften für Schweizerbürgerinnen und -bürger (Pässe und Identitätskarten),
+  - 10\. Bewilligungen, Vollzug und Aufsicht im Bereich des Reisendengewerbes,
+  - 11\. Bewilligungen, Vollzug und Aufsicht im Bereich des Gastgewerbes und des Alkoholverkaufs,
+  - 12\. Bewilligungen, Vollzug und Aufsicht im Bereich des Sammlungswesens, der Kleinspiele (Kleinlotterien, lokale Sportwetten, kleine Pokerturniere, kleine Geschicklichkeitsspiele), Vollzug und Aufsicht der Kleinspiele an Unterhaltungsanlässen (Tombola, Lottospiele), sowie Erhebung von Abgaben auf Geschicklichkeitsspielautomaten;
+  - 13\. Aufsicht über das Filmwesen,
+  - 14\. Verwaltung des Swisslos-Fonds,
+  - 15\. Vollzug zivil- und verwaltungsrechtlicher Entscheide,
+  - 16\. Bedrohungsmanagement.
+- c. Im Bereich des Militärwesens und des Bevölkerungsschutzes:
   - 1\. Vollzug der Militärgesetzgebung und der Verfügungen des Departements für Verteidigung, Bevölkerungsschutz und Sport (VBS),
   - 2\. Vollzug des Gesetzes über Beiträge an Schiessanlagen,
   - 3\. Vollzug der Vorschriften über den Wehrpflichtersatz,
   - 4\. Aufsicht über das Schiesswesen ausser Dienst und Ernennung der kantonalen Schiesskommission,
   - 5\. Vollzug der Militärgesetzgebung,
   - 6\. Vollzug der Gesetzgebung über den Bevölkerungsschutz, den Zivilschutz, den Kulturgüterschutz und der wirtschaftlichen Landesversorgung,
-  - 7\. …
-  - 8\. Sicherstellung der Einsatzbereitschaft der Schadenplatzkommandos.
+  - 7\. Sicherstellung der Einsatzbereitschaft der Schadenplatzkommandos.
 
 #### § 2
 
 **Dienststellen**
 
 <sup>1</sup> Die Gliederung der Direktion in Dienststellen richtet sich nach § 10 der Verordnung vom 19. Dezember 2017[^2-1] zum Regierungs- und Verwaltungsorganisationsgesetz Basel-Landschaft.
-
-- a. …
-- b. …
-- c. …
-- d. …
-- e. …
-- f. …
-- g. …
-- h. …
-- i. …
-- k. …
-
-<sup>2</sup> …
-
-<sup>3</sup> ...
 
 [^2-1]: [SGS 140.11](https://bl.clex.ch/data/140.11/de/art10)
 
@@ -165,6 +148,22 @@ beschliesst:
 
 <sup>4</sup> Die Delegation der Unterschriftsberechtigung und die Stellenbeschriebe bedürfen der Genehmigung der Direktionsvorsteherin oder des Direktionsvorstehers.
 
+#### § 5bis
+
+**Pikettdienst**
+
+<sup>1</sup> Zuständig für die schriftliche Anordnung von Pikettdienst für die Dienststellenleitungen ist die Vorsteherin oder der Vorsteher der Sicherheitsdirektion.
+
+<sup>2</sup> Zuständig für die schriftliche Anordnung von Pikettdienst für alle anderen Arbeitsverhältnisse ist die Dienststellenleiterin oder der Dienststellenleiter.
+
+<sup>3</sup> Die zuständige Person kann die Anordnungskompetenz delegieren.
+
+#### § 5ter
+
+**Pikettdienst bei der Staatsanwaltschaft und Jugendanwaltschaft**
+
+<sup>1</sup> Die Erste Staatsanwältin oder der Erste Staatsanwalt und die Leitende Jugendanwältin oder der Leitende Jugendanwalt können den Pikettdienst anordnen oder diese Kompetenz delegieren.
+
 #### § 5a
 
 **Direktionskonferenz**
@@ -199,30 +198,25 @@ beschliesst:
 
 <sup>1</sup> Das Generalsekretariat ist in folgende Einheiten gegliedert:
 
-- a. …
-- a.<sup>bis</sup> Support:
+- a. Support:
   - 1\. Informatik;
-  - 2\. Finanzen;
-  - 3\. Sekretariat;
-- a.<sup>ter</sup> Controlling;
-- a.<sup>quater</sup> Human Resources (HR):
+  - 2\. Sekretariat;
+- b. Betriebswirtschaft:
+  - 1\. Finanzen;
+- c. Human Resources (HR):
   - 1\. Organisation;
-- a.<sup>quinquies</sup> Ressort Digitalisierung;
-- b. Familien, Integration und Dienste mit den Fachbereichen:
+- d. Digitalisierung;
+- e. Familien, Integration und Dienste mit den Fachbereichen:
   - 1\. Familien;
   - 2\. Integration;
-  - 3\. …
-  - 3\.1 …
-  - 3\.2 …
-  - 4\. Fundbüro und Verwertungsdienst;
+  - 3\. Fundbüro und Verwertungsdienst;
+  - 4\. Passbüro;
   - 5\. Kindes- und Jugendschutz;
-  - 6\. Passbüro;
-  - 7\. Bewilligungen;
-- c. Kommunikation;
-- d. Rechtsetzung;
-- e. …
-- f. Administrative Aufsicht Kindes- und Erwachsenenschutzbehörden (KESB) / Administrative Aufsicht Schuldbetreibung und Konkurs (SchK);
-- g. Swisslos-Fonds.
+  - 6\. Bewilligungen;
+- f. Kommunikation;
+- g. Rechtsetzung;
+- h. Administrative Aufsicht Kindes- und Erwachsenenschutzbehörden (KESB) / Administrative Aufsicht Schuldbetreibung und Konkurs (SchK);
+- i. Swisslos-Fonds.
 
 #### § 6b
 
@@ -230,13 +224,12 @@ beschliesst:
 
 <sup>1</sup> Dem Generalsekretariat werden folgende Aufgaben der Sicherheitsdirektion zur selbständigen Erledigung übertragen:
 
-- a. …
-- b. Familien, Integration und Dienste:
+- a. Familien, Integration und Dienste:
   - 1\. Verfügungen des Fundbüros und des Verwertungsdienstes;
   - 2\. Verfügungen betreffend Staatshaftung;
   - 3\. Verfügungen betreffend Ausweisschriften für Schweizer Bürgerinnen und Bürger;
-  - 4\. Verfügungen betreffend Gastgewerbe, Alkoholverkauf, Kleinspiele (Kleinlotterien, lokale Sportwetten, kleine Pokerturniere), Kleinspiele an Unterhaltungsanlässen (Tombolas, Lottospiele), Geschicklichkeitskleinspiele, Reisendengewerbe, Taxiwesen, öffentliche Sammlungen, gewerbsmässige Partnerschaftsvermittlungen vom und ins Ausland, Konsumkreditvermittlungen und -vergaben, freiwillige Fahrnisversteigerung;
-- c. Administrative Aufsicht Kindes- und Erwachsenenschutzbehörden (KESB):
+  - 4\. Verfügungen betreffend Gastgewerbe, Alkoholverkauf, Kleinspiele (Kleinlotterien, lokale Sportwetten, kleine Pokerturniere), Kleinspiele an Unterhaltungsanlässen (Tombolas, Lottospiele), Geschicklichkeitskleinspiele, Reisendengewerbe, Taxiwesen, öffentliche Sammlungen, gewerbsmässige Partnerschaftsvermittlungen vom und ins Ausland, Konsumkreditvermittlungen und -vergaben, freiwillige Fahrnisversteigerung.
+- b. Administrative Aufsicht Kindes- und Erwachsenenschutzbehörden (KESB):
   - 1\. Verfügungen betreffend Aufsicht.
 
 #### § 6c
@@ -245,20 +238,14 @@ beschliesst:
 
 <sup>1</sup> Das Amt für Justizvollzug ist in folgende Einheiten gegliedert:
 
-- a. Straf- und Massnahmenvollzug:
-  - 1\. Besondere Vollzugsformen;
-- b. Bewährungshilfe:
-  - 1\. Bewährungshilfe Strafgesetzbuch;
-  - 2\. Sozialdienst Gefängnisse;
-  - 3\. Beratungsstelle bei Wegweisung;
+- a. Straf- und Massnahmenvollzug;
+- b. Bewährungshilfe;
 - c. Gefängnisse;
-- d. Opferhilfe:
-  - 1\. …
-  - 2\. …
-- d<sup>bis</sup>. Interventionsstelle gegen häusliche Gewalt;
-- e. Vollzugsbehörde Zivil- und Verwaltungsrecht;
-- f. …
-- g. Massnahmenzentrum für junge Erwachsene Arxhof.
+- d. Opferhilfe;
+- e. Interventionsstelle gegen häusliche Gewalt;
+- f. Vollzugsbehörde Zivil- und Verwaltungsrecht;
+- g. Massnahmenzentrum für junge Erwachsene Arxhof;
+- h. Stabsdienst.
 
 #### § 6d
 
@@ -323,9 +310,9 @@ beschliesst:
 
 #### § 10c
 
-**Leitung Kantonaler Krisenstab**
+**Leitung Kantonaler Führungsstab**
 
-<sup>1</sup> Der Leiter oder die Leiterin des Amts für Militär und Bevölkerungsschutz leitet den Kantonalen Krisenstab (KKS).
+<sup>1</sup> Der Leiter oder die Leiterin des Amts für Militär und Bevölkerungsschutz leitet den Kantonalen Führungsstab.
 
 #### § 10d
 
@@ -351,17 +338,10 @@ beschliesst:
 - f. öffentliche Grundstücksversteigerungen;
 - g. Zivilstandswesen;
 - h. Erbschaftswesen;
-- i. …
-- j. Adoptionen und Namensänderungen;
-- k. Aktuariat der Notariatskommission;
-- l. Führung des Schiffsregisters;
-- m. Aufbewahrung von Vorsorgeaufträgen.
-
-<sup>2</sup> …
-
-<sup>3</sup> …
-
-<sup>4</sup> …
+- i. Adoptionen und Namensänderungen;
+- j. Aktuariat der Notariatskommission;
+- k. Führung des Schiffsregisters;
+- l. Aufbewahrung von Vorsorgeaufträgen.
 
 #### § 12a
 
@@ -370,24 +350,13 @@ beschliesst:
 <sup>1</sup> Die Zivilrechtsverwaltung gliedert sich wie folgt:
 
 - a. Leitung;
-  - 1\. …
-  - 2\. …
-  - 3\. …
-  - 4\. …
-  - 5\. …
-  - 6\. …
-  - 7\. …
-  - 8\. …
-  - 9\. …
-- b. …
-- c. Abteilung Finanz und Administration, umfassend die Ressorts Finanzen, Namensänderungen, Adoptionen, Support- und Infrastrukturdienste;
-- d. Grundbuchamt;
-- e. Handelsregisteramt;
-- f. Zivilstandsamt;
-- g. Erbschaftsamt;
-- h. …
-- i. Abteilung Recht und Aufsicht, umfassend den Rechtsdienst der Dienststelle und die kantonale Aufsicht im Zivilstandswesen;
-- j. Hauptabteilung Betreibungs- und Konkursamt, umfassend die Abteilung Betreibungen und die Abteilung Konkurse.
+- b. Abteilung Finanz und Administration, umfassend die Ressorts Finanzen, Namensänderungen, Adoptionen, Support- und Infrastrukturdienste;
+- c. Grundbuchamt;
+- d. Handelsregisteramt;
+- e. Zivilstandsamt;
+- f. Erbschaftsamt;
+- g. Abteilung Recht und Aufsicht, umfassend den Rechtsdienst der Dienststelle und die kantonale Aufsicht im Zivilstandswesen;
+- h. Hauptabteilung Betreibungs- und Konkursamt, umfassend die Abteilung Betreibungen und die Abteilung Konkurse.
 
 #### § 12b
 
@@ -400,12 +369,10 @@ beschliesst:
 - 3\. Verfügungen im Bereich des Adoptionswesens;
 - 4\. Auskunftsersuchen von adoptierten Personen;
 - 5\. Verfügungen im Bereich von Namensänderungsverfahren;
-- 6\. …
-- 7\. …
-- 8\. Verfügungen und Entscheide im Bereich des Zivilstandswesens, die gemäss Bundesrecht und kantonalem Recht in die Zuständigkeit der Aufsichtsbehörde fallen;
-- 9\. Bewilligung betreffend Verlängerung der Deliberationsfrist gemäss Art. 576 sowie 587 Abs. 2 ZGB[^12b-1];
-- 10\. Verfügungen betreffend die Führung des Handelsregisters;
-- 11\. von Amtes wegen zu erhebende Klagen auf Ungültigkeit der Ehe und der eingetragenen Partnerschaft.
+- 6\. Verfügungen und Entscheide im Bereich des Zivilstandswesens, die gemäss Bundesrecht und kantonalem Recht in die Zuständigkeit der Aufsichtsbehörde fallen;
+- 7\. Bewilligung betreffend Verlängerung der Deliberationsfrist gemäss Art. 576 sowie 587 Abs. 2 ZGB[^12b-1];
+- 8\. Verfügungen betreffend die Führung des Handelsregisters;
+- 9\. von Amtes wegen zu erhebende Klagen auf Ungültigkeit der Ehe und der eingetragenen Partnerschaft.
 
 [^12b-1]: [SR 210](https://db.clex.ch/link/Bund/210/de)
 
@@ -422,11 +389,11 @@ beschliesst:
 <sup>2</sup> Es umfasst folgende Abteilungen:
 
 - a. Asyl und Rückkehr;
-- b. Einreise/Aufenthalt EU/EFTA-Staatsangehörige;
-- c. Einreise/Aufenthalt Drittstaatsangehörige;
-- d. Bürgerrecht;
-- e. Massnahmen und Recht;
-- f. Geschäftsführung/Ressourcen.
+- b. Einreise und Aufenthalt;
+- c. Bürgerrecht;
+- d. Massnahmen und Recht;
+- e. Zentrale Dienste;
+- f. Stab.
 
 [^13-1]: [SR 311.0](https://db.clex.ch/link/Bund/311.0/de)
 
@@ -456,12 +423,11 @@ beschliesst:
 <sup>2</sup> Die Polizei Basel-Landschaft gliedert sich wie folgt:
 
 - a. Leitung (Polizeikommandantin oder Polizeikommandant),
-- b. …
-- c. Sicherheitspolizei,
-- d. Kriminalpolizei,
-- e. Verkehrspolizei,
-- f. Planung und Einsatz,
-- g. Kommandobereiche.
+- b. Sicherheitspolizei,
+- c. Kriminalpolizei,
+- d. Verkehrspolizei,
+- e. Planung und Einsatz,
+- f. Kommandobereiche.
 
 <sup>3</sup> Die Dienststellenleiterin oder der Dienststellenleiter bezeichnet seine Stellvertreterin oder seinen Stellvertreter.
 
@@ -510,8 +476,11 @@ beschliesst:
 
 <sup>1</sup> Die Aufgaben der Staatsanwaltschaft richten sich nach der Schweizerischen Strafprozessordnung[^19a-1] sowie dem Einführungsgesetz zur Schweizerischen Strafprozessordnung[^19a-2].
 
+<sup>2</sup> Die Staatsanwaltschaft führt die Kantonale Koordinationsstelle Strafregister (KOST) gemäss Art. 4 Abs. 1 Strafregistergesetz[^19a-3].
+
 [^19a-1]: [SR 312.0](https://db.clex.ch/link/Bund/312.0/de)
 [^19a-2]: [SGS 250](https://bl.clex.ch/data/250/de)
+[^19a-3]: [SR 330](https://db.clex.ch/link/Bund/330/de)
 
 #### § 19b
 
@@ -534,12 +503,11 @@ beschliesst:
 <sup>1</sup> Die Staatsanwaltschaft gliedert sich wie folgt:
 
 - a. Leitung,
-- b. Allgemeine Hauptabteilung I (inklusive passive Rechtshilfe für die gesamte Staatsanwaltschaft),
-- c. Allgemeine Hauptabteilung II,
-- d. Allgemeine Hauptabteilung III,
-- e. Hauptabteilung Betäubungsmitteldelikte und Organisierte Kriminalität,
-- f. Hauptabteilung Wirtschaftskriminalität,
-- g. Hauptabteilung Strafbefehle.
+- b. Hauptabteilung Allgemeine Delikte,
+- c. Hauptabteilung Besondere Delikte,
+- d. Hauptabteilung Wirtschaftskriminalität,
+- e. Hauptabteilung Strafbefehle,
+- f. Zentrale Dienste.
 
 #### § 19e
 
@@ -557,41 +525,11 @@ beschliesst:
 
 #### § 19g
 
-**Sachliche Zuständigkeit**
-
-<sup>1</sup> Die Allgemeinen Hauptabteilungen sind für alle Delikte des Schweizerischen Strafgesetzbuchs[^19g-1], des Nebenstrafrechts des Bundes sowie gemäss den kantonalen Gesetzen zuständig.
-
-<sup>2</sup> Die Hauptabteilung Betäubungsmitteldelikte und Organisierte Kriminalität ist, unter Vorbehalt der Zuständigkeit der Bundesorgane, zuständig für:
-
-- a. die Verfolgung von Vergehen und Verbrechen gemäss Betäubungsmittelgesetz[^19g-2];
-- b. die Verfolgung von Straftaten, die von einer Personenmehrheit ausgehen, deren Organisationsgrad jener einer blossen Bande deutlich übersteigt und nicht gleichzeitig der Wirtschaftskriminalität zugeordnet werden können;
-- c. Verfahren, in denen eine verdeckte Ermittlung angeordnet wird;
-- d. die Verfolgung von Cyber-Kriminalität aus der gesamten Straf- und Nebengesetzgebung gemäss Weisung der Ersten Staatsanwältin oder des Ersten Staatsanwalts.
-
-<sup>3</sup> Die Hauptabteilung Wirtschaftskriminalität ist zuständig für die Verfolgung von Verbrechen und Vergehen, die auf dem Gebiet des kaufmännischen Verkehrs begangen worden sind, und
-
-- a. denen umfangreiche, komplizierte oder schwerwiegende Vorgänge zugrunde liegen oder
-- b. deren Untersuchung besondere wirtschaftliche oder buchhalterische Kenntnisse erfordert.
-
-<sup>4</sup> Die Hauptabteilung Strafbefehle ist zuständig für die Verfolgung beziehungsweise Beurteilung von:
-
-- a. richterlichen Verboten,
-- b. sämtlichen Straftaten aus dem Bereich der Strassenverkehrsgesetzgebung,
-- c. Übertretungen und
-- d. Vergehen, sofern:
-  - 1\. sie mit wenig Untersuchungshandlungen verbunden sind und
-  - 2\. voraussichtlich keine Zwangsmassnahmen (ausgenommen Vorladungen gemäss Art. 201–205 der Schweizerischen Strafprozessordnung[^19g-3]) erforderlich sind und
-  - 3\. voraussichtlich mittels Strafbefehl, Nichtanhandnahmeverfügung oder Einstellungsverfügung erledigt werden können.
-
-[^19g-1]: [SR 311.0](https://db.clex.ch/link/Bund/311.0/de)
-[^19g-2]: [SR 812.121](https://db.clex.ch/link/Bund/812.121/de)
-[^19g-3]: [SR 312.0](https://db.clex.ch/link/Bund/312.0/de)
+**…**
 
 #### § 19h
 
-**Abweichende sachliche Zuständigkeiten**
-
-<sup>1</sup> Die Erste Staatsanwältin oder der Erste Staatsanwalt kann jederzeit Strafverfahren abweichend von der in dieser Verordnung festgelegten Zuständigkeit einer Hauptabteilung oder einer bestimmten Staatsanwältin oder einem bestimmten Staatsanwalt zuweisen oder zur eigenen Bearbeitung an sich ziehen.
+**…**
 
 #### § 19i
 
