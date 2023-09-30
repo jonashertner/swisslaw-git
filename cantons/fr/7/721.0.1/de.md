@@ -4,13 +4,12 @@ number: "721.0.1"
 title: Gesetz über den Natur- und Landschaftsschutz
 short: NatG
 language: de
-version: 2022-01-01
-valid_until: 2023-09-30
-version_adopted: 2021-10-06
+version: 2023-10-01
+version_adopted: 2023-06-30
 adopted: 2012-09-12
 in_force: 2014-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/721.0.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6944/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7826/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Natur- und Landschaftsschutz – G
 
 (NatG)
 
-vom 12.09.2012 (Fassung in Kraft getreten am 01.01.2022)
+vom 12.09.2012 (Fassung in Kraft getreten am 01.10.2023)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -84,7 +83,9 @@ beschliesst:
 
 **Grundsätze – Gesamtpolitik**
 
-<sup>1</sup> Die Grundsätze der kantonalen Politik im Bereich des Natur- und Landschaftsschutzes werden im kantonalen Richtplan definiert.
+<sup>1</sup> Die Schwerpunkte der Politik des Kantons beim Natur- und Landschaftsschutz werden im kantonalen Richtplan und in der kantonalen Biodiversitätsstrategie festgelegt; in diesen Planungen werden die spezifischen Ziele und die strategischen Schwerpunkte des Staates festgelegt, mit denen die Ziele, die in diesem Gesetz festgehalten werden, erreicht oder umgesetzt werden können.
+
+<sup>1a</sup> Ab der Verabschiedung durch den Staatsrat ist die kantonale Biodiversitätsstrategie für die kantonalen Behörden verbindlich.
 
 <sup>2</sup> Die zu verwirklichenden Massnahmen und Aktionsschwerpunkte werden im Richtplan festgelegt und nach Landschaftseinheit und Objekt unterschieden; Artikel 33 Abs. 2 bleibt vorbehalten.
 
@@ -97,6 +98,7 @@ beschliesst:
 <sup>1</sup> Der Staatsrat hat folgende Befugnisse:
 
 - a) Er legt die Grundsätze der kantonalen Politik im Sinne von Artikel 4 fest.
+- a1) Er verabschiedet die kantonale Biodiversitätsstrategie.
 - b) Er bezeichnet die Organe der Kantonsverwaltung, die mit der Ausführung des vorliegenden Gesetzes beauftragt sind, und weist diesen ihre Zuständigkeiten zu.
 - c) Er verabschiedet die Stellungnahme des Kantons, wenn eine solche im Bundesrecht vorgesehen ist; er kann diese Befugnis nach den Bestimmungen für Vernehmlassungen des Bundes delegieren.
 - d) Er übt die Oberaufsicht aus über die Natur- und Landschaftsschutztätigkeiten und über die in diesem Gebiet mit staatlichen Aufgaben beauftragten Organisationen und Personen.
@@ -585,7 +587,7 @@ beschliesst:
 
 <sup>2</sup> Massgebend für die Verpflichtungskredite sind die entsprechenden Bestimmungen der Gesetzgebung über den Finanzhaushalt des Staats.
 
-<sup>3</sup> Der Kreditentwurf wird von dem in Artikel 4 vorgesehenen Mehrjahresprogramm für die Umsetzung der Massnahmen begleitet.
+<sup>3</sup> Dem Kreditentwurf werden das Mehrjahresprogramm für die Umsetzung der Massnahmen und die kantonale Biodiversitätsstrategie nach Artikel 4 beigefügt.
 
 #### Art. 49
 

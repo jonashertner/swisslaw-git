@@ -4,13 +4,12 @@ number: "721.0.1"
 title: Loi sur la protection de la nature et du paysage
 short: LPNat
 language: fr
-version: 2022-01-01
-valid_until: 2023-09-30
-version_adopted: 2021-10-06
+version: 2023-10-01
+version_adopted: 2023-06-30
 adopted: 2012-09-12
 in_force: 2014-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/721.0.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6944/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7826/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Protection de la nature et du paysage – L
 
 (LPNat)
 
-du 12.09.2012 (version entrée en vigueur le 01.01.2022)
+du 12.09.2012 (version entrée en vigueur le 01.10.2023)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -84,7 +83,9 @@ Décrète:
 
 **Principes – Politique globale**
 
-<sup>1</sup> Les grandes lignes de la politique du canton en matière de protection de la nature et du paysage sont définies dans le plan directeur cantonal.
+<sup>1</sup> Les grandes lignes de la politique du canton en matière de protection de la nature et du paysage sont définies dans le plan directeur cantonal ainsi que dans la Stratégie cantonale biodiversité; ces planifications définissent les objectifs spécifiques ainsi que les axes stratégiques de l'Etat permettant d'atteindre, respectivement de mettre en œuvre, les objectifs fixés par la présente loi.
+
+<sup>1a</sup> Dès son adoption par le Conseil d'Etat, la Stratégie cantonale biodiversité a force obligatoire pour les autorités cantonales.
 
 <sup>2</sup> Le plan différencie les mesures à réaliser en fonction des entités paysagères et des catégories d'objets concernés et fixe sur cette base des priorités d'action; l'article 33 al. 2 est en outre réservé.
 
@@ -97,6 +98,7 @@ Décrète:
 <sup>1</sup> Le Conseil d'Etat exerce les attributions suivantes:
 
 - a) il définit les grandes lignes de la politique du canton conformément à l'article 4;
+- a1) il adopte la Stratégie cantonale biodiversité;
 - b) il désigne les organes de l'administration cantonale chargés de la mise en œuvre de la présente loi et répartit les compétences entre eux;
 - c) il donne l'avis du canton dans les cas où celui-ci est requis par la législation fédérale et peut déléguer cette compétence aux conditions prévues pour les réponses aux consultations fédérales;
 - d) il assure une surveillance générale sur les activités de protection de la nature et du paysage et sur les délégataires de tâches de l'Etat dans ce domaine;
@@ -585,7 +587,7 @@ Décrète:
 
 <sup>2</sup> Les dispositions de la législation sur les finances de l'Etat relatives aux crédits d'engagement sont applicables.
 
-<sup>3</sup> Le projet de crédit est accompagné du programme pluriannuel de mise en œuvre mentionné à l'article 4.
+<sup>3</sup> Le projet de crédit est accompagné du programme pluriannuel de mise en œuvre et de la Stratégie cantonale biodiversité mentionnés à l'article 4.
 
 #### Art. 49
 
