@@ -4,39 +4,38 @@ number: "165.114"
 title: "Vollzugsverordnung zum Personalgesetz betreffend die Aus-, Fort- und Weiterbildung"
 short: "Weiterbildungsverordnung, WBV"
 language: de
-version: 2014-01-01
-corrected: 2021-11-09
-version_adopted: 2013-11-05
+version: 2023-10-01
+valid_until: 2025-12-31
+version_adopted: 2023-09-19
 adopted: 1998-12-01
 in_force: 1999-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/165.114"
-pdf: "https://gesetze.nw.ch/api/de/versions/46/pdf_file"
-text: pdf
+pdf: "https://gesetze.nw.ch/api/de/versions/1189/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Vollzugsverordnung zum Personalgesetz betreffend die Aus-, Fort- und Weiterbildung (Weiterbildungsverordnung, WBV)
+# Vollzugsverordnung zum Personalgesetz betreffend die Aus-, Fort- und Weiterbildung
 
-vom 1. Dezember 1998[^t-2][^t-1]
+(Weiterbildungsverordnung, WBV)
+
+vom 01.12.1998 (Stand 01.10.2023)
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 64 Abs. 1 Ziff. 1 der Kantonsverfassung, in Ausführung von Art. 84 Ziff. 13 des Gesetzes vom 3. Juni 1998 über das öffentlichrechtliche Arbeitsverhältnis (Personalgesetz)[^t-3],
+gestützt auf Art. 64 Abs. 1 Ziff. 1 der Kantonsverfassung, in Ausführung von Art. 84 Ziff. 13 des Gesetzes vom 3. Juni 1998 über das öffentlichrechtliche Arbeitsverhältnis (Personalgesetz)[^ingress-1],
 
 beschliesst:
 
-[^t-1]: Fassung gemäss Regierungsratsbeschluss vom 5. November 2013, A 2013, 1938; in Kraft seit 1. Januar 2014
-[^t-2]: A 1998, 2239
-[^t-3]: NG 165.1
+[^ingress-1]: NG 165.1
 
-### I. ALLGEMEINE BESTIMMUNGEN
+## 1 Allgemeine Bestimmungen
 
 #### § 1
 
 **Geltungsbereich**
 
-Diese Verordnung gilt im Rahmen der Art. 1-3 des Personalgesetzes für alle im öffentlichrechtlichen Arbeitsverhältnis beschäftigten Personen, soweit die Spezialgesetzgebung für einzelne Personalkategorien keine abweichenden Bestimmungen enthält.
+<sup>1</sup> Diese Verordnung gilt im Rahmen der Art. 1–3 des Personalgesetzes für alle im öffentlichrechtlichen Arbeitsverhältnis beschäftigten Personen, soweit die Spezialgesetzgebung für einzelne Personalkategorien keine abweichenden Bestimmungen enthält.
 
 #### § 2
 
@@ -45,14 +44,12 @@ Diese Verordnung gilt im Rahmen der Art. 1-3 des Personalgesetzes für alle im �
 <sup>1</sup> Als Weiterbildung im Sinne dieser Verordnung gelten:
 
 - 1\. die Ausbildung als praxisbezogenes Erlernen einer besonderen beruflichen Tätigkeit;
-
 - 2\. die Fortbildung als laufende Anpassung der beruflichen Grundausbildung an die veränderten Verhältnisse;
-
 - 3\. die Weiterbildung als gezielte Ausbildung im Hinblick auf eine direkte Anwendung in einem erweiterten Aufgabenbereich.
 
 <sup>2</sup> Fachliche Weiterbildung steht in unmittelbarem Zusammenhang mit der ausgeübten Tätigkeit, nichtfachliche Weiterbildung umfasst die Bereiche der Allgemein-, Persönlichkeits- und Kaderbildung.
 
-### II. ZUSTÄNDIGKEIT UND VERFAHREN
+## 2 Zuständigkeit und Verfahren
 
 #### § 3
 
@@ -62,11 +59,13 @@ Diese Verordnung gilt im Rahmen der Art. 1-3 des Personalgesetzes für alle im �
 
 <sup>2</sup> Die Amtsvorsteherinnen und Amtsvorsteher sorgen für eine zweckmässige fachliche und nichtfachliche Weiterbildung ihrer Mitarbeiterinnen und Mitarbeiter und informieren sie über geeignete Weiterbildungsmöglichkeiten.
 
+<sup>3</sup> Mitarbeiterinnen und Mitarbeiter mit Führungsfunktion haben in der Regel binnen eines Jahres nach Übernahme dieser Funktion eine geeignete Führungsausbildung zu beginnen oder nachzuweisen.
+
 #### § 4
 
 **Weiterbildungsgesuche**
 
-Weiterbildungsgesuche sind mit den zur Beurteilung erforderlichen Unterlagen an die vorgesetzte Person zu richten. Diese stellt bei der zuständigen Stelle Antrag.
+<sup>1</sup> Weiterbildungsgesuche sind mit den zur Beurteilung erforderlichen Unterlagen an die vorgesetzte Person zu richten. Diese stellt bei der zuständigen Stelle Antrag.
 
 #### § 5
 
@@ -76,60 +75,71 @@ Weiterbildungsgesuche sind mit den zur Beurteilung erforderlichen Unterlagen an 
 
 <sup>2</sup> Für die Bewilligung der Weiterbildung von mehr als fünf Arbeitstagen je Jahr ist die Direktionsvorsteherin oder der Direktionsvorsteher zuständig.
 
-<sup>3</sup> Das Personalamt ist über die erteilten Bewilligungen ohne Verzug schriftlich zu orientieren.
+<sup>3</sup> Das Personalamt ist über die erteilten Bewilligungen zu informieren.
 
-### III. KOSTENÜBERNAHME
+## 3 Kostenübernahme
 
 #### § 6
 
 **Grundsatz**
 
-Kostenbeiträge an die Weiterbildung werden im Rahmen des Voranschlages gewährt, wenn die Gesuchstellerin oder der Gesuchsteller persönlich und fachlich geeignet ist.
+<sup>1</sup> Kostenbeiträge an die Weiterbildung werden im Rahmen der bewilligten Kredite gewährt, wenn die Gesuchstellerin oder der Gesuchsteller persönlich und fachlich geeignet ist.
+
+<sup>2</sup> Steht ein vergleichbares Angebot der Verwaltungsweiterbildung Zentralschweiz zur Verfügung, ist grundsätzlich dieses zu nutzen.
 
 #### § 7
 
 **Kursgeld**
 
-<sup>1</sup> Für eine ausschliesslich im Interesse der Mitarbeiterin oder des Mitarbeiters liegende Weiterbildung werden keine Beiträge an das Kursgeld geleistet.
+<sup>1</sup> Für eine ausschliesslich im Interesse der Mitarbeiterin oder des Mitarbeiters liegende Weiterbildung werden keine Beiträge an das Kursgeld oder Prüfungsgebühren geleistet.
 
-<sup>2</sup> Für eine Weiterbildung, die sowohl im Interesse der Mitarbeiterin oder des Mitarbeiters als auch im Interesse der Arbeitgeberin oder des Arbeitgebers ist, werden Beiträge bis zur Hälfte des Kursgeldes geleistet.
+<sup>2</sup> Für eine Weiterbildung, die sowohl im Interesse der Mitarbeiterin oder des Mitarbeiters als auch im Interesse der Arbeitgeberin oder des Arbeitgebers ist, können Beiträge bis zur Hälfte des Kursgeldes und der Prüfungsgebühren geleistet werden.
 
-<sup>3</sup> Steht die Weiterbildung in unmittelbarem Zusammenhang mit der Tätigkeit, kann das Kursgeld mit Zustimmung des Personalamtes von der Arbeitgeberin oder vom Arbeitgeber übernommen werden.[^7-1]
+<sup>3</sup> Steht eine Weiterbildung vorwiegend im Interesse der Arbeitgeberin beziehungsweise des Arbeitgebers, können das Kursgeld und die Prüfungsgebühren vollständig übernommen werden.
 
-[^7-1]: Fassung gemäss Regierungsratsbeschluss vom 13. November 2007, A 2007, 1875; in Kraft seit 1. Januar 2008
+<sup>4</sup> Beiträge Dritter an das Kursgeld oder die Prüfungsgebühren werden bei der Berechnung des Beitrags der Arbeitgeberin beziehungsweise des Arbeitgebers vorgängig in Abzug gebracht.
+
+#### § 7a
+
+**Auszahlung**
+
+<sup>1</sup> Die Arbeitgeberin beziehungsweise der Arbeitgeber zahlt die Kurskosten und Prüfungsgebühren. Ein allfälliger eigener Anteil der Mitarbeiterin oder des Mitarbeiters an den Kurskosten wird mit dem Lohn verrechnet.
+
+<sup>2</sup> Bei Weiterbildungen mit Weiterbildungsvertrag oder Weiterbildungen, die mit Bundesbeiträgen unterstützt werden, hat die Mitarbeiterin beziehungsweise der Mitarbeiter die Kurskosten und die Prüfungsgebühren zu bezahlen. Die Arbeitgeberin oder der Arbeitgeber zahlt seinen Anteil der Mitarbeiterin beziehungsweise dem Mitarbeiter aus. Das Personalamt kann für bestimmte Weiterbildungen Ausnahmen festlegen.
 
 #### § 8
 
 **Entlöhnung und Entschädigung**
 
-<sup>1</sup> Bei Bewilligung der Weiterbildung gewährt die Arbeitgeberin oder der Arbeitgeber die ordentliche Entlöhnung. Die Entschädigungen gemäss § 27 und § 28 der Entlöhnungsverordnung[^8-1] werden im verhältnismässig gleichen Umfang wie das Kursgeld gemäss § 7 übernommen.[^8-2]
+<sup>1</sup> Für bewilligte Weiterbildungen, die während der üblichen Arbeitszeit stattfinden, entrichtet die Arbeitgeberin oder der Arbeitgeber die vollständigen Entschädigungen gemäss §§ 27 und 28 der Entlöhnungsverordnung.
 
-<sup>2</sup> Die Originalrechnung der Kurskosten ist mit dem Visum der direkt vorgesetzten Stelle zur Bezahlung dem Personalamt zuzustellen. Der Anteil der Kurskosten zu Lasten der Mitarbeiterin oder des Mitarbeiters wird in Rechnung gestellt.[^8-3]
+<sup>2</sup> …
 
-<sup>3</sup> Die Zeit, die für den Besuch eines bewilligten Weiterbildungskurses oder Seminars benötigt wird, gilt dann als Arbeitszeit, wenn sie in die mit der Mitarbeiterin oder dem Mitarbeiter vereinbarte ordentliche Arbeitszeit fällt und wenn die Weiterbildung im Interesse der Arbeitgeberin oder des Arbeitgebers ist. Ausnahmen bewilligt der Regierungsrat.[^8-4]
+<sup>3</sup> Die Zeit, die für den Besuch eines bewilligten Weiterbildungskurses benötigt wird, kann in der Bewilligung je nach Interessenlage ganz oder teilweise als Arbeitszeit angerechnet werden.
 
-[^8-1]: NG 165.113
-[^8-2]: Fassung gemäss Regierungsratsbeschluss vom 5. November 2013, A 2013, 1938; in Kraft seit 1. Januar 2014
-[^8-3]: Fassung gemäss Regierungsratsbeschluss vom 13. November 2007, A 2007, 1875; in Kraft seit 1. Januar 2008
-[^8-4]: Fassung gemäss Regierungsratsbeschluss vom 9. Juni 2009, A 2009, 1107; in Kraft seit 1. Juli 2009
+#### § 8a
 
-### IV. RÜCKERSTATTUNG
+**Eintritt in bestehende Weiterbildungsvereinbarungen**
 
-[^hIVRÜCKERSTATTUNG-1]: Fassung gemäss Regierungsratsbeschluss vom 13. November 2007, A 2007, 1875; in Kraft seit 1. Januar 2008
+<sup>1</sup> Bei einer Neuanstellung kann die Arbeitgeberin beziehungsweise der Arbeitgeber eine bestehende Verpflichtung zur Rückzahlung von Kursgeld oder Prüfungsgebühren mit vorherigen Arbeitgeberinnen und Arbeitgebern ganz oder teilweise übernehmen, wenn die Voraussetzungen gemäss dieser Verordnung erfüllt sind.
+
+<sup>2</sup> Die Auszahlung erfolgt nur, wenn keine Kündigung binnen der Probezeit erfolgt.
+
+<sup>3</sup> Die Rückerstattungspflicht richtet sich nach § 9 ff. Die Verpflichtungszeit beginnt mit dem neuen Arbeitsverhältnis.
+
+## 4 Rückerstattung
 
 #### § 9
 
-**Verpflichtungszeit[^hIVRÜCKERSTATTUNG-1]**
+**Verpflichtungszeit**
 
-<sup>1</sup> Übersteigt die Kostenbeteiligung der Arbeitgeberin oder des Arbeitgebers den Betrag von Fr. 5’000.- je Kurs, haben die Mitarbeiterinnen und Mitarbeiter den Betrag gemäss § 10 zurückzuerstatten, wenn sie weniger als drei Jahre nach Abschluss der Weiterbildung aus dem Arbeitsverhältnis austreten.
+<sup>1</sup> Übersteigt die Kostenbeteiligung der Arbeitgeberin oder des Arbeitgebers den Betrag von Fr. 5'000.– je Kurs, haben die Mitarbeiterinnen und Mitarbeiter den Betrag gemäss § 10 zurückzuerstatten, wenn sie weniger als drei Jahre nach Abschluss der Weiterbildung aus dem Arbeitsverhältnis austreten.
 
 <sup>2</sup> Im Auftrag der für die Bewilligung zuständigen Person erstellt das Personalamt den Entwurf des Weiterbildungsvertrages, in welchem eine allfällige Rückerstattung und deren Berechnung zu regeln ist.
 
-[^9-1]: Fassung gemäss Regierungsratsbeschluss vom 13. November 2007, A 2007, 1875; in Kraft seit 1. Januar 2008
-
 #### § 10
 
-**Austritt während der Verpflichtungszeit[^9-1]**
+**Austritt während der Verpflichtungszeit**
 
 <sup>1</sup> Bei Austritt aus dem Arbeitsverhältnis während der Verpflichtungszeit haben die Mitarbeiterinnen und Mitarbeiter die geleisteten Kosten (Kursgeld, Entschädigungen und Entlöhnung) abzüglich eines verpflichtungsfreien Betrags zurückzuerstatten.
 
@@ -139,11 +149,11 @@ Kostenbeiträge an die Weiterbildung werden im Rahmen des Voranschlages gewährt
 
 <sup>4</sup> Der Rückerstattungsbetrag wird wie folgt berechnet:
 
-Kursgeld, Entschädigungen und Entlöhnung (Gesamtkosten) Fr.
-
-**Fr. Fr. Fr. Fr.**
-
-Abzug des verpflichtungsfreien Betrags Verpflichtungsbetrag Abzug für absolvierte Pflichtzeit Rückerstattungsbetrag
+- 1\. Kursgeld, Entschädigungen und Entlöhnung (Gesamtkosten)
+- 2\. Abzug des verpflichtungsfreien Betrags
+- 3\. = Verpflichtungsbetrag
+- 4\. Abzug für absolvierte Pflichtzeit
+- 5\. = Rückerstattungsbetrag
 
 <sup>5</sup> Die Entlöhnung wird je Stunde mit 1/2000 des Jahreslohnes ohne Sozial- und andere Zulagen berechnet.
 
@@ -157,11 +167,9 @@ Abzug des verpflichtungsfreien Betrags Verpflichtungsbetrag Abzug für absolvier
 
 #### § 12
 
-**Abbruch der Weiterbildung oder Nichtbestehen einer**
+**Abbruch der Weiterbildung oder Nichtbestehen einer Schlussprüfung**
 
-### Schlussprüfung
-
-<sup>1</sup> Bei Abbruch der Weiterbildung oder Nichtbestehen einer Schlussprüfung kann die Rückerstattung die geleisteten Kosten oder einen Teil davon betreffen, abzüglich des verpflichtungsfreien Betrags.[^hSchlussprüfung-1]
+<sup>1</sup> Bei Abbruch der Weiterbildung oder Nichtbestehen einer Schlussprüfung kann die Rückerstattung die geleisteten Kosten oder einen Teil davon betreffen, abzüglich des verpflichtungsfreien Betrags.
 
 <sup>2</sup> Der Regierungsrat bestimmt den Rückerstattungsbetrag auf Antrag des Personalamtes.
 
@@ -169,15 +177,13 @@ Abzug des verpflichtungsfreien Betrags Verpflichtungsbetrag Abzug für absolvier
 
 <sup>4</sup> Der Rückerstattungsbetrag kann mit dem Lohn verrechnet werden.
 
-[^hSchlussprüfung-1]: Fassung gemäss Regierungsratsbeschluss vom 13. November 2007, A 2007, 1875; in Kraft seit 1. Januar 2008
-
 #### § 13
 
 **Ausnahmefälle**
 
-In besonderen Fällen, wie Krankheit, Invalidität, endgültige Aufgabe der Erwerbstätigkeit, kann der Regierungsrat auf die Rückerstattung der Kosten ganz oder teilweise verzichten.
+<sup>1</sup> In besonderen Fällen, wie Krankheit, Invalidität, endgültige Aufgabe der Erwerbstätigkeit, kann der Regierungsrat auf die Rückerstattung der Kosten ganz oder teilweise verzichten.
 
-### V. SCHLUSSBESTIMMUNG
+## 5 Schlussbestimmung
 
 #### § 14
 
@@ -189,6 +195,4 @@ In besonderen Fällen, wie Krankheit, Invalidität, endgültige Aufgabe der Erwe
 
 [^14-1]: A 1992, 603
 
-## Weitere Fussnoten
-
-- [5] Fassung gemäss Regierungsratsbeschluss vom 28. November 2000, A 2000, 1663; in Kraft seit 1. Januar 2001
+A 1998, 2239
