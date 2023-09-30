@@ -4,11 +4,11 @@ title: Ordinanza del 22 novembre 2017 sulla protezione dei dati personali del pe
 short: OPDPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/793"
 language: it
-version: 2023-09-01
+version: 2023-10-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2017-793-20230901-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20231001/it/xml/fedlex-data-admin-ch-eli-cc-2017-793-20231001-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20231001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20230901/it"
 
 (OPDPers)
 
-del 22 novembre 2017 (Stato 1° settembre 2023)
+del 22 novembre 2017 (Stato 1° ottobre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -300,7 +300,9 @@ I servizi e le persone seguenti trattano i dati del dossier personale, per quant
 
 Le unità amministrative sono responsabili della protezione dei dati; è fatta salva la responsabilità dei dipartimenti i cui centri di prestazione di servizi in materia di personale hanno accesso ai dossier personali.
 
-**Art. 22**[^21-1] Trasmissione del dossier in caso di passaggio a un’altra unità amministrativa
+#### Art. 22
+
+**Trasmissione del dossier in caso di passaggio a un’altra unità amministrativa**[^22-1]
 
 <sup>1</sup> Se un impiegato passa a un’altra unità amministrativa, il dossier personale non è trasmesso alla nuova unità amministrativa. Qualsiasi deroga deve essere convenuta con l’impiegato.
 
@@ -308,15 +310,17 @@ Le unità amministrative sono responsabili della protezione dei dati; è fatta s
 
 <sup>3</sup> Previo consenso dell’impiegato, la nuova unità amministrativa può chiedere che la vecchia unità amministrativa le trasmetta i documenti che l’impiegato ha già presentato a quest’ultima.
 
-**Art. 23** Conservazione, archiviazione e distruzione
+[^22-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+
+#### Art. 23
+
+**Conservazione, archiviazione e distruzione**
 
 <sup>1</sup> I dati del dossier personale sono conservati per dieci anni dopo la cessazione del rapporto di lavoro. Allo scadere del termine di conservazione, i dati sono offerti all’Archivio federale. I dati considerati senza valore archivistico dall’Archivio federale sono distrutti.
 
 <sup>2</sup> I risultati dei test della personalità e dei test di valutazione delle potenzialità sono conservati per cinque anni e poi distrutti.
 
 <sup>3</sup> Le valutazioni delle prestazioni e le decisioni basate su una valutazione sono conservate per cinque anni. Esse possono essere conservate eccezionalmente più a lungo se una controversia concernente pretese derivanti dal rapporto di lavoro lo giustifica. In un simile caso sono conservati al più tardi fino alla conclusione della procedura e poi distrutti.
-
-[^21-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
 
 ### Sezione 2: Sistema d’informazione per i dossier personali
 
@@ -773,49 +777,35 @@ Allegato 1[^t-1]
 
 (art. 9 cpv. 2)
 
-## Dati del dossier di candidatura
+## Dati del dossier di candidatura e del sistema di reclutamento elettronico
 
-[^t-1]: Aggiornato dal n. III cpv. 1 dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^t-1]: Nuovo testo giusta l’all. 4 n. II dell’O del 23 ago. 2023 sui sistemi d’informazione sul personale del DFAE, in vigore dal 1° ott. 2023 ([RU 2023 485](https://fedlex.data.admin.ch/eli/oc/2023/485)).
 
-Fotografia
-
-Intestazione
-
-Titolo
-
-Nome
-
-Cognome
-
-Data di nascita
-
-Indirizzo e-mail
-
-Password
-
-Lingua per la corrispondenza
-
-Prima lingua
-
-Via
-
-NPA
-
-Luogo
-
-Paese
-
-Telefono
-
-Lettera di candidatura
-
-Curriculum vitae
-
-Attestati, diplomi, referenze
-
-Altri documenti messi a disposizione del datore di lavoro dal candidato
-
-Registrazioni
+- 1\. Fotografia
+- 2\. Appellativo
+- 3\. Titolo
+- 4\. Nome
+- 5\. Cognome
+- 6\. Data di nascita
+- 7\. Via / n.
+- 8\. NPA / località
+- 9\. Cantone di provenienza
+- 10\. Paese
+- 11\. Telefono
+- 12 Indirizzo e-mail
+- 13\. Password
+- 14\. Lingua di corrispondenza
+- 15\. Prima lingua
+- 16\. Altre lingue (in caso di plurilinguismo)
+- 17\. Corrispondenza (automatizzata e individuale)
+- 18\. Data della candidatura
+- 19\. Stato
+- 20\. Impostazione di visibilità del profilo
+- 21\. Indicazione del modo in cui il candidato è venuto a conoscenza del posto di lavoro
+- 22\. Valutazione e osservazioni RU
+- 23\. Valutazione e osservazioni delle persone responsabili della selezione
+- 24\. Documenti relativi alla candidatura, in particolare lettera di candidatura, curriculum vitae, certificati, diplomi, referenze e altri documenti e informazioni forniti dal candidato al datore di lavoro
+- 25\. Registrazioni
 
 Allegato 2[^t-2]
 
@@ -1343,29 +1333,29 @@ Allegato 5[^t-5]
 - 17\. Capacità e competenze acquisite a seguito dei corsi completati
 - 18\. Ruolo(i) nella piattaforma LMS (partecipante, docente, amministratore del corso)
 
-Annexe 6
+Allegato 6
 
 (art. 53)
 
-## Données du dossier de la Consultation sociale du personnel de l’administration fédérale (CSPers)
+## Dati dei fascicoli della Consulenza sociale del personale dell’Amministrazione federale (CSPers)
 
-### 1 Données de base
+### 1 Dati di base
 
-- 1\.1 Coordonnées
-- 1\.2 Relations
-- 1\.3 Rapports de travail
-- 1\.4 Rentes
-- 1\.5 Domaines de conseil
+- 1\.1 Dati personali
+- 1\.2 Relazioni
+- 1\.3 Rapporto di lavoro
+- 1\.4 Rendite
+- 1\.5 Settori della consulenza
 
-### 2 Cas concrets
+### 2 Dati relativi ai casi concreti
 
-- 2\.1 Journal
-- 2\.2 Analyse de la situation
-- 2\.3 Données de base de la gestion de cas
-- 2\.4 Plan d’intégration (y compris évaluation dans le cadre de la gestion de cas par la CSPers)
-- 2\.5 Versement du salaire / incapacité de travail
-- 2\.6 Allocation de moyens financiers destinés à l’intégration professionnelle
-- 2\.7 Demande au fonds de secours du personnel de la Confédération
+- 2\.1 Registro
+- 2\.2 Analisi della situazione
+- 2\.3 Dati di base del *case management*
+- 2\.4 Piano d’integrazione (compresa la valutazione nell’ambito del *case manag**e**ment* della CSPers)
+- 2\.5 Continuazione del pagamento dello stipendio / incapacità lavorativa
+- 2\.6 Attribuzione di fondi per l’integrazione professionale
+- 2\.7 Domanda al fondo di soccorso del personale federale
 
 Allegato 7[^t-6]
 

@@ -4,11 +4,11 @@ title: Ordonnance du 22 novembre 2017 concernant la protection des données pers
 short: OPDC
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/793"
 language: fr
-version: 2023-09-01
+version: 2023-10-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2017-793-20230901-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20231001/fr/xml/fedlex-data-admin-ch-eli-cc-2017-793-20231001-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20231001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20230901/fr"
 
 (OPDC)
 
-du 22 novembre 2017 (État le 1<sup>er</sup> septembre 2023)
+du 22 novembre 2017 (État le 1<sup>er</sup> octobre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -442,7 +442,7 @@ L’IGDP comprend les modules suivants:
 Les données, y compris les données sensibles, contenues dans l’IGDP peuvent être communiquées à d’autres systèmes d’information:
 
 - a. si pour l’autre système d’information il existe une base légale pour la communication des données et une base légale formelle pour la communication de données sensibles;
-- b.[^34-1] si le système d’information a été annoncé au Préposé fédéral à la protection des données et à la transparence conformément à l’art. 12, al. 4, de la loi fédérale du 25 septembre 2020 sur la protection des données[^34-2];
+- b.[^34-1] si le système d’information a été annoncé au Préposé fédéral à la protection des données et à la transparence conformément à l’art. 12, al. 4, de la loi fédérale du 25 septembre 2020 sur la protection des données [^34-2];
 - c. si un règlement de traitement a été établi pour ce système d’information;
 - d. s’il n’existe pas d’exigence de sécurité accrue pour les données des employés.
 
@@ -517,9 +517,9 @@ Les données relatives à la gestion du temps dans le système d’information p
 
 - a. systèmes d’information nécessaires aux processus de soutien dans les domaines des finances et de la logistique de l’administration fédérale, visés aux art. 42 à 47 de l’ordonnance du 5 avril 2006 sur les finances de la Confédération[^40-2];
 - b.[^40-3] système d’information pour la gestion intégrée des ressources, visé aux art. 179*a* à 179*f* LSIA;
-- c.[^40-4] ...
+- c.[^40-4] …
 - d. système d’information sur le personnel des unités administratives du DDPS hors du Groupement Défense, visé aux art. 72*j* à 72*j*<sup>sexies</sup> OSIAr;
-- e. système d’information « Perizoll », visé à l’annexe 7 de l’ordonnance du 23 août 2017 sur le traitement des données dans l’Office fédéral de la douane et de la sécurité des frontières[^40-5] [^40-6].
+- e. système d’information «Perizoll», visé à l’annexe 7 de l’ordonnance du 23 août 2017 sur le traitement des données dans l’Office fédéral de la douane et de la sécurité des frontières[^40-5] [^40-6].
 
 <sup>4</sup> Les données contenues dans le système d’information pour le contrôle de gestion du personnel sont énumérées à l’annexe 4.
 
@@ -779,49 +779,35 @@ Annexe 1[^t-1]
 
 (art. 9, al. 2)
 
-## Données du dossier de candidature
+## Données du dossier de candidature et du système d’information E-Recrutement
 
-[^t-1]: Mise à jour par le ch. III al. 1 de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^t-1]: Nouvelle teneur selon l’annexe 4 ch. II de l’O du 23 août 2023 sur les systèmes d’information sur le personnel du DFAE, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 485](https://fedlex.data.admin.ch/eli/oc/2023/485)).
 
-Photo
-
-Qualité
-
-Titre
-
-Prénom
-
-Nom
-
-Date de naissance
-
-Adresse électronique
-
-Mot de passe
-
-Langue de correspondance
-
-Première langue
-
-Rue
-
-NPA
-
-Localité
-
-Pays
-
-Téléphone
-
-Lettre de candidature
-
-Curriculum vitae
-
-Certificats, diplômes, références
-
-Autres documents mis à la disposition de l’employeur par le candidat
-
-Sources documentaires
+- 1\. Photo
+- 2\. Formule de civilité
+- 3\. Titre
+- 4\. Prénom
+- 5\. Nom
+- 6\. Date de naissance
+- 7\. Rue / N<sup>o</sup>
+- 8\. NPA / localité
+- 9\. Canton d’origine
+- 10\. Pays
+- 11\. N° de téléphone
+- 12\. Adresse électronique
+- 13\. Mot de passe
+- 14\. Langue de correspondance
+- 15\. Langue première
+- 16\. Autres langues (le cas échéant)
+- 17\. Correspondance (automatisée et personnelle)
+- 18\. Date de dépôt de candidature
+- 19\. Statut
+- 20\. Paramètres de la visibilité du profil
+- 21\. Comment le candidat a pris connaissance de l’offre de poste
+- 22\. Évaluation et remarque RH
+- 23\. Évaluation et remarque des personnes chargées de la sélection
+- 24\. Dossier de candidature, notamment lettre de motivation, CV, certificats, diplômes, références, autres documents et renseignements fournis à l’employeur par le candidat
+- 25\. Enregistrements
 
 Annexe 2[^t-2]
 

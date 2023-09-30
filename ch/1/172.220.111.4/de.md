@@ -4,11 +4,11 @@ title: Verordnung vom 22. November 2017 über den Schutz von Personendaten des B
 short: BPDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/793"
 language: de
-version: 2023-09-01
+version: 2023-10-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2017-793-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20231001/de/xml/fedlex-data-admin-ch-eli-cc-2017-793-20231001-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20231001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20230901/de"
 
 (BPDV)
 
-vom 22. November 2017 (Stand am 1. September 2023)
+vom 22. November 2017 (Stand am 1. Oktober 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -777,49 +777,35 @@ Anhang 1[^t-1]
 
 (Art. 9 Abs. 2)
 
-## Daten des Bewerbungsdossiers
+## Daten des Bewerbungsdossiers und des Informationssystems E-Rekrutierung
 
-[^t-1]: Bereinigt gemäss Ziff. III Abs. 1 der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 617](https://fedlex.data.admin.ch/eli/oc/2022/617)).
+[^t-1]: Fassung gemäss Anhang 4 Ziff. II der V vom 23. Aug. 2023 über die Personalinformationssysteme des EDA, in Kraft seit 1. Okt. 2023 ([AS 2023 485](https://fedlex.data.admin.ch/eli/oc/2023/485)).
 
-Foto
-
-Anrede
-
-Titel
-
-Vorname
-
-Name
-
-Geburtsdatum
-
-E-Mail-Adresse
-
-Passwort
-
-Korrespondenzsprache
-
-Erstsprache
-
-Strasse
-
-PLZ
-
-Ort
-
-Land
-
-Telefon
-
-Bewerbungsschreiben
-
-Lebenslauf
-
-Zeugnisse, Diplome, Referenzen
-
-weitere Dokumente, die die Bewerberin oder der Bewerber dem Arbeitgeber zur Verfügung stellt
-
-Aufzeichnungen
+- 1\. Foto
+- 2\. Anrede
+- 3\. Titel
+- 4\. Vorname
+- 5\. Nachname
+- 6\. Geburtsdatum
+- 7\. Strasse / Nr.
+- 8\. PLZ / Ort
+- 9\. Herkunftskanton
+- 10\. Land
+- 11\. Telefon
+- 12\. E-Mail-Adresse
+- 13\. Passwort
+- 14\. Korrespondenzsprache
+- 15\. Erstsprache
+- 16\. Weitere Sprachen (bei Mehrsprachigkeit)
+- 17\. (automatisierte und individuelle) Korrespondenz
+- 18\. Bewerbungsdatum
+- 19\. Status
+- 20\. Profilsichtbarkeitseinstellung
+- 21\. Angabe, wie die Bewerberin oder der Bewerber von der Stelle erfahren hat
+- 22\. Beurteilung und Bemerkung HR
+- 23\. Beurteilung und Bemerkung der für die Auswahl verantwortlichen Personen
+- 24\. Bewerbungsunterlagen, insbesondere Bewerbungsschreiben, Lebenslauf, Zeugnisse, Diplome, Referenzen sowie weitere Dokumente und Angaben, die die Bewerberin oder der Bewerber dem Arbeitgeber zur Verfügung stellt
+- 25\. Aufzeichnungen
 
 Anhang 2[^t-2]
 
