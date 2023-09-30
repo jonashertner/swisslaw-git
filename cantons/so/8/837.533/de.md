@@ -3,20 +3,19 @@ canton: SO
 number: "837.533"
 title: Verwaltungsreglement Verwendung Alkoholzehntel
 language: de
-version: 2010-01-01
-valid_until: 2023-09-30
-version_adopted: 2009-09-15
+version: 2023-10-01
+version_adopted: 2023-06-06
 adopted: 2009-09-15
 in_force: 2010-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/837.533"
-pdf: "https://bgs.so.ch/api/de/versions/3602/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5337/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verwaltungsreglement Verwendung Alkoholzehntel
 
-Vom 15.09.2009 (Stand 01.01.2010)
+Vom 15.09.2009 (Stand 01.10.2023)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -77,7 +76,7 @@ beschliesst:
 
 **Gesuch**
 
-<sup>1</sup> Das Gesuch ist schriftlich und begründet beim Amt für soziale Sicherheit einzureichen.
+<sup>1</sup> Das Gesuch ist schriftlich und begründet beim Gesundheitsamt einzureichen.
 
 <sup>2</sup> Das Gesuch hat Angaben zu enthalten über:
 
@@ -96,21 +95,21 @@ beschliesst:
 - m) Gemeinnützigkeit;
 - n) Finanzierung (auch Eigenleistung und allfällige Reserven).
 
-<sup>3</sup> Gesuchsformulare können beim Amt für soziale Sicherheit bezogen werden.
+<sup>3</sup> Gesuchsformulare können beim Gesundheitsamt bezogen werden.
 
 #### § 6
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Aufsicht über den Alkoholzehntel führt das Departement des Innern. Verwaltungs- und Auszahlungsstelle ist das Amt für soziale Sicherheit.
+<sup>1</sup> Die Aufsicht über den Alkoholzehntel führt das Departement des Innern. Verwaltungs- und Auszahlungsstelle ist das Gesundheitsamt.
 
-<sup>2</sup> Die Aufsicht über die Verwendung der Mittel aus dem Alkoholzehntel liegt bei der Eidgenössischen Alkoholverwaltung. Das Amt für soziale Sicherheit reicht jährlich einen Bericht über die Verwendung der Mittel im Vorjahr an die Eidgenössische Alkoholverwaltung ein.
+<sup>2</sup> Die Aufsicht über die Verwendung der Mittel aus dem Alkoholzehntel liegt bei der Eidgenössischen Alkoholverwaltung. Das Gesundheitsamt reicht jährlich einen Bericht über die Verwendung der Mittel im Vorjahr an die Eidgenössische Alkoholverwaltung ein.
 
 #### § 7
 
 **Finanzielle Kompetenzen**
 
-<sup>1</sup> Einmalige Beiträge bis 50'000 Franken und jährlich wiederkehrende Beiträge bis 10'000 Franken werden mittels Verfügung namens des Departements des Innern durch das Amt für soziale Sicherheit gesprochen.
+<sup>1</sup> Einmalige Beiträge bis 50'000 Franken und jährlich wiederkehrende Beiträge bis 10'000 Franken werden mittels Verfügung namens des Departements des Innern durch das Gesundheitsamt gesprochen.
 
 <sup>2</sup> Einmalige Beiträge über 50'000 Franken und jährlich wiederkehrende Beiträge über 10'000 Franken bewilligt der Regierungsrat.
 
