@@ -4,7 +4,7 @@ number: "431.02"
 title: "LOI du 02.02.2010 d'application de la loi fédérale du 23 juin 2006 sur l'harmonisation des registres des habitants et d'autres registres officiels de personnes (LVLHR)"
 short: LVLHR
 language: fr
-version: 2015-01-01
+version: 2023-10-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/431.02?id=79723ea0-1b96-4588-94a6-9d1371e32ab5"
 ---
 
@@ -99,25 +99,31 @@ décrète
 - - des données mentionnées aux articles 4, alinéa 1, lettres e) et h) et 9, alinéa 1, lettres c) à e) de la loi sur le contrôle des habitants[^6-2] ;
 - - des données relatives à la détention dans un établissement pénitentiaire.
 
-<sup>2</sup> Le service en charge de l'information sur le territoire a accès aux données mentionnées à l'article 9, alinéa 1 lettres c) et d) de la loi sur le contrôle des habitants[^6-3].
+<sup>2</sup> Le service en charge de l'information sur le territoire[^6-3], ainsi que le service en charge de la protection civile et de la protection de la population[^6-4] ont accès aux données mentionnées à l'article 9, alinéa 1 lettres c) et d) de la loi sur le contrôle des habitants[^6-5].
 
-<sup>3</sup> Le service en charge des droits politiques[^6-4] a accès aux données mentionnées à l'article 9, alinéa 1 lettre e) de la loi sur le contrôle des habitants.
+<sup>3</sup> Le service en charge des droits politiques[^6-6] a accès aux données mentionnées à l'article 9, alinéa 1 lettre e) de la loi sur le contrôle des habitants.
 
-<sup>4</sup> Le service en charge du recouvrement des sanctions judiciaires et des frais pénaux[^6-5] a accès aux données relatives à la détention dans un établissement pénitentiaire.
+<sup>4</sup> Le service en charge du recouvrement des sanctions judiciaires et des frais pénaux[^6-7] a accès aux données relatives à la détention dans un établissement pénitentiaire.
 
 <sup>5</sup> Les administrations communales ont les accès prévus à l'alinéa 1er. Elles ont cependant accès à toutes les données concernant leurs communes.
 
-<sup>6</sup> L'Administration cantonale des impôts et le service en charge de la population[^6-6] ont accès à toutes les données.
+<sup>6</sup> L'Administration cantonale des impôts et le service en charge de la population[^6-8] ont accès à toutes les données.
+
+<sup>6bis</sup> Le service en charge de la protection des mineurs[^6-9] a accès aux données de l'article 4, alinéa 1, lettre h) de la loi sur le contrôle des habitants[^6-10].
 
 <sup>7</sup> Les autorités et personnes mentionnées aux alinéas précédents peuvent accéder aux données au moyen d'une procédure d'appel. Elles ne peuvent transmettre à des tiers les données auxquelles elles ont accès.
 
 [^5-2]: Modif. 1 du 19.03.2013: Modification Al. 1; entrée en vigueur au 19.03.2013 · Modif. 2 du 09.12.2014: Modification Al. 1,7; entrée en vigueur au 01.01.2015 · Modif. 3 du 20.06.2023: Modification Al. 2; entrée en vigueur au 01.10.2023; Introduction Al. 6bis; entrée en vigueur au 01.10.2023
 [^6-1]: Loi du 29.06.2004 sur le notariat ([BLV 178.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/178.11?id=58f222d6-4993-495a-868c-c9b332436207))
 [^6-2]: Loi du 09.05.1983 sur le contrôle des habitants ([BLV 142.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/142.01?id=fc900847-d4ff-4d68-80b9-386b00aefa8a))
-[^6-3]: Loi du 09.05.1983 sur le contrôle des habitants ([BLV 142.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/142.01?id=fc900847-d4ff-4d68-80b9-386b00aefa8a))
+[^6-3]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 [^6-4]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
-[^6-5]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+[^6-5]: Loi du 09.05.1983 sur le contrôle des habitants ([BLV 142.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/142.01?id=fc900847-d4ff-4d68-80b9-386b00aefa8a))
 [^6-6]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+[^6-7]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+[^6-8]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+[^6-9]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+[^6-10]: Loi du 09.05.1983 sur le contrôle des habitants ([BLV 142.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/142.01?id=fc900847-d4ff-4d68-80b9-386b00aefa8a))
 
 ## Chapitre IV Connexion et certification des applications informatiques
 
