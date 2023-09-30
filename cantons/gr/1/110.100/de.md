@@ -3,20 +3,20 @@ canton: GR
 number: "110.100"
 title: Verfassung des Kantons Graubünden
 language: de
-version: 2023-04-01
-valid_until: 2023-09-30
+version: 2023-10-01
+valid_until: 2024-06-30
 version_adopted: 2022-11-27
 adopted: 2003-09-14
 in_force: 2004-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/110.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3306/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3308/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verfassung des Kantons Graubünden
 
-Vom 14.09.2003 (Stand 01.04.2023)
+Vom 14.09.2003 (Stand 01.10.2023)
 
 Wir, das Volk des Kantons Graubünden,
 
@@ -403,7 +403,7 @@ geben uns folgende Verfassung[^ingress-1]:
 
 - 1\. seine Organe und Kommissionen;
 - 2\. das Präsidium der Regierung;
-- 3\. die Mitglieder des Kantonsgerichtes und des Verwaltungsgerichtes;
+- 3\. die Mitglieder des Obergerichts und des Justizgerichts;
 - 4\. weitere Amtsinhaberinnen und -inhaber nach Massgabe der Gesetzgebung.
 
 #### Art. 37

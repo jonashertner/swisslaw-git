@@ -3,20 +3,20 @@ canton: GR
 number: "110.100"
 title: Costituzione del Cantone dei Grigioni
 language: it
-version: 2023-04-01
-valid_until: 2023-09-30
+version: 2023-10-01
+valid_until: 2024-06-30
 version_adopted: 2022-11-27
 adopted: 2003-09-14
 in_force: 2004-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/110.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3306/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3308/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Costituzione del Cantone dei Grigioni
 
-del 14.09.2003 (stato 01.04.2023)
+del 14.09.2003 (stato 01.10.2023)
 
 Noi, Popolo del Cantone dei Grigioni,
 
@@ -401,7 +401,7 @@ ci diamo la seguente Costituzione:[^ingress-1]
 
 - 1\. i suoi organi e le sue commissioni;
 - 2\. la presidenza del Governo;
-- 3\. i membri del Tribunale cantonale e del Tribunale amministrativo;
+- 3\. i membri del Tribunale d'appello e del Tribunale della magistratura;
 - 4\. altre e altri titolari di mandati, a norma di legge.
 
 #### Art. 37

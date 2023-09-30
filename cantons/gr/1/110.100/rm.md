@@ -3,20 +3,20 @@ canton: GR
 number: "110.100"
 title: Constituziun dal chantun Grischun
 language: rm
-version: 2023-04-01
-valid_until: 2023-09-30
+version: 2023-10-01
+valid_until: 2024-06-30
 version_adopted: 2022-11-27
 adopted: 2003-09-14
 in_force: 2004-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/110.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3306/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3308/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Constituziun dal chantun Grischun
 
-dals 14-09-2003 (versiun dals 01-04-2023)
+dals 14-09-2003 (versiun dals 01-10-2023)
 
 Nus, il pievel dal chantun Grischun,
 
@@ -401,7 +401,7 @@ ans dain la sequenta constituziun:[^ingress-1]
 
 - 1\. ses organs e sias cumissiuns;
 - 2\. il presidi da la regenza;
-- 3\. las commembras ed ils commembers da la dretgira chantunala e da la dretgira administrativa;
+- 3\. las commembras ed ils commembers da la Dretgira superiura e da la Dretgira da giustia;
 - 4\. ulteriuras titularas ed ulteriurs titulars d'in uffizi a norma da la legislaziun.
 
 #### Art. 37
