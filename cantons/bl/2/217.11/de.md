@@ -4,13 +4,12 @@ number: "217.11"
 title: Notariatsverordnung
 short: NotV
 language: de
-version: 2021-01-01
-valid_until: 2023-09-30
-version_adopted: 2020-11-17
+version: 2023-10-01
+version_adopted: 2023-08-29
 adopted: 2012-06-19
 in_force: 2012-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/217.11"
-pdf: "https://bl.clex.ch/api/de/versions/3633/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3708/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3633/pdf_file"
 
 (NotV)
 
-Vom 19.06.2012 (Stand 01.01.2021)
+Vom 19.06.2012 (Stand 01.10.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -40,7 +39,7 @@ beschliesst:
 
 <sup>2</sup> Dem Gesuch sind beizulegen:
 
-- a. aktuelles Handlungsfähigkeitszeugnisses der Wohnsitzgemeinde;
+- a. aktuelles Handlungsfähigkeitszeugnis der Wohnsitzgemeinde;
 - b. aktueller Auszug aus dem Strafregister;
 - c. aktueller Auszug aus dem Betreibungsregister der Wohnsitzgemeinde;
 - d. Bestätigung der Gemeinde betreffend Geschäftsdomizil;
@@ -172,13 +171,17 @@ beschliesst:
 
 **Notariatsprüfung**
 
-<sup>1</sup> Die Notariatsprüfung findet 1-mal jährlich im Herbst statt. Die Termine werden vom Prüfungsausschuss festgelegt.
+<sup>1</sup> Die Notariatsprüfung findet in der Regel 1-mal jährlich statt.
+
+<sup>2</sup> Der Prüfungsausschuss legt die Termine fest.
+
+<sup>3</sup> Die Notariatskommission publiziert die Prüfungstermine mindestens 6 Monate vor der Notariatsprüfung im kantonalen Amtsblatt und im Internet.
 
 #### § 12
 
 **Zulassung zur Notariatsprüfung**
 
-<sup>1</sup> Gesuche um Zulassung zur Notariatsprüfung sind der Notariatskommission schriftlich bis zum 30. Juni einzureichen.
+<sup>1</sup> Gesuche um Zulassung zur Notariatsprüfung sind der Notariatskommission einzureichen.
 
 <sup>2</sup> Dem Gesuch sind beizulegen:
 
@@ -357,7 +360,7 @@ Note 1: sehr schlecht.
 <sup>1</sup> Nach Abschluss des Kalenderjahrs ist der Notariatskommission die Beurkundungsstatistik einzureichen, gegliedert nach Geschäften in folgenden Rechtsgebieten:
 
 - a. Stiftungsrecht;
-- b. Güter- und Erbrecht, Vermögensverträge nach PartG;
+- b. Güter- und Erbrecht, Vermögensverträge nach Partnerschaftsgesetz[^25-1];
 - c. Gesellschaftsrecht;
 - d. Sachenrecht;
 - e. Bürgschaftsrecht;
@@ -365,6 +368,8 @@ Note 1: sehr schlecht.
 - g. Beglaubigungen.
 
 <sup>2</sup> Der Statistik ist ein Bericht über allfällige besondere Vorfälle beizulegen.
+
+[^25-1]: [SR 211.231](https://db.clex.ch/link/Bund/211.231/de)
 
 ## 6 Aufsicht, Inspektion
 
@@ -476,37 +481,23 @@ Note 1: sehr schlecht.
 
 #### § 36
 
-**Erneuerung der Notariatsbewilligung**
-
-<sup>1</sup> Bestehende Notariatsbewilligungen sind innert 6 Monaten seit Inkrafttreten dieser Verordnung zu erneuern. § 2 ist sinngemäss anwendbar.
-
-<sup>2</sup> Die Einreichung der Unterlagen gemäss § 2 Abs. 1 Bst. f, h und i kann bei einem Erneuerungsgesuch unterbleiben.
+**…**
 
 #### § 37
 
-**Nachweis der Berufshaftpflichtversicherung**
-
-<sup>1</sup> Mit dem Gesuch um Erneuerung der Notariatsbewilligung ist insbesondere der Nachweis einer Berufshaftpflichtversicherung einzureichen, die den Bedingungen von § 3 entspricht.
+**…**
 
 #### § 38
 
-**Notariatsbüro**
-
-<sup>1</sup> Bestehende Notariatsbüros sind bis zum 31. Dezember 2013 den Anforderungen von § 20 anzupassen, sofern der entsprechende Nachweis nicht bereits mit dem Erneuerungsgesuch erbracht wird.
-
-<sup>2</sup> Die Notariatskommission überprüft die Einhaltung dieser Massgaben und setzt bei Mängeln eine Frist zur Nachbesserung an.
+**…**
 
 #### § 39
 
-**Gebühr für die Erneuerung**
-
-<sup>1</sup> Für die Erneuerung der Notariatsbewilligung wird eine Gebühr von CHF 100.– erhoben.
+**…**
 
 #### § 40
 
-**Notariatsprüfung**
-
-<sup>1</sup> Für die nach Inkrafttreten dieser Verordnung stattfindenden Notariatsprüfungen sind die Bestimmungen gemäss § 12 ff. anwendbar. § 63 des Notariatsgesetzes bleibt vorbehalten.
+**…**
 
 #### § 41
 
