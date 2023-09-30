@@ -4,555 +4,1568 @@ number: "720.1"
 title: Gesetz über den Beitritt zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen vom 15. November 2019 (BeiG IVöB)
 short: BeiG IVöB
 language: de
-version: "2018-07-01"
-nachtrag: "102"
-valid_until: 2023-10-01
+nachtrag: "132"
 adopted: 2023-03-20
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-720_1-2003_09_15-2004_01_01-102.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-720_1-2023_03_20-2023_10_01-132.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über den Beitritt zur revidierten Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen vom 15. März 2001
+# Gesetz über den Beitritt zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen vom 15. November 2019 (BeiG IVöB)
 
-(vom 15. September 2003)[^t-1],[^t-2]
+(vom 20. März 2023)[^t-1],[^t-2]
 
 Der Kantonsrat,
 
-nach Einsichtnahme in den Antrag des Regierungsrates vom 11. Dezember 2002[^t-3] und in den Antrag der Kommission für Wirtschaft und Abgaben vom 22. April 2003[^t-4],
+nach Einsichtnahme in die Anträge des Regierungsrates vom 24. November 2021[^t-3] und der Kommission für Staat und Gemeinden vom 9. September 2022,
 
 beschliesst:
 
-[^t-1]: OS 58, 337.
-[^t-2]: In Kraft seit 1. Januar 2004 (OS 58, 364).
-[^t-3]: ABl 2003, 38.
-[^t-4]: ABl 2003, 767.
+[^t-1]: OS 78, 328.
+[^t-2]: Inkrafttreten: 1. Oktober 2023.
+[^t-3]: ABl 2021-12-17.
 
 #### § 1
 
-<sup>1</sup> Der Kanton Zürich tritt der revidierten Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen vom 15. März 2001 bei.
+**Beitritt**
 
-<sup>2</sup> Die Vereinbarung hat folgenden Wortlaut:
+Der Kanton Zürich tritt der Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen (IVöB) vom 15. November 2019 bei.
 
-[^1-1]: Fassung gemäss Beschluss des InöB vom 15. März 2001 (SR 172.056.5).
+#### § 2
 
-## Interkantonale Vereinbarung über das öffentliche Beschaffungswesen
+**Delegation**
 
-[^1-1]
+Die Auftraggeberin oder der Auftraggeber kann die Eröffnung von Verfügungen delegieren.
 
-### 1. Abschnitt: Allgemeine Bestimmungen
+#### § 3
 
-#### Art. 1
+**Rechtsschutz und Beschwerdeverfahren**
 
-**Zweck**
+<sup>1</sup> Gegen Verfügungen gemäss Art. 53 IVöB ist unabhängig vom Auftragswert die Beschwerde an das Verwaltungsgericht als einzige kantonale Instanz zulässig.
 
-<sup>1</sup> Diese Vereinbarung bezweckt die Öffnung des Marktes der öffentlichen Beschaffungen der Kantone, Gemeinden und anderer Träger kantonaler oder kommunaler Aufgaben. Sie bezieht dabei auch Dritte ein, soweit diese durch internationale Verträge verpflichtet werden.
+<sup>2</sup> Die Bestimmungen des Verwaltungsrechtspflegegesetzes vom 24. Mai 1959[^3-1] über die Beschwerde vor Verwaltungsgericht finden ergänzend Anwendung.
 
-<sup>2</sup> Sie will die Vergaberegeln durch gemeinsam bestimmte Grundsätze harmonisieren sowie die Verpflichtungen insbesondere aus dem Government Procurement Agreement (GPA) und dem Abkommen zwischen der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft über bestimmte Aspekte des öffentlichen Beschaffungswesens ins kantonale Recht umsetzen.
+[^3-1]: LS 175.2.
+
+#### § 4
+
+**Preisniveau**
+
+Die Vergabestelle kann, unter Beachtung der internationalen Verpflichtungen der Schweiz, neben Zuschlagskriterien gemäss Art. 29 Abs. 1 IVöB insbesondere das Kriterium «unterschiedliches Preisniveau in den Ländern, in welchen eine Leistung erbracht wird» berücksichtigen.
+
+#### § 5
+
+**Ausbildung von Lernenden**
+
+Die Vergabestelle wendet bei den Vergaben ausserhalb des Staatsvertragsbereichs das Zuschlagskriterium der Ausbildung von Lernenden in der beruflichen Grundbildung an und gewichtet es mit mindestens 5% und höchstens 10%.
+
+#### § 6
+
+**Meldung von Ausschlüssen**
+
+<sup>1</sup> Bei Ausschlüssen gemäss Art. 45 Abs. 1 IVöB stellt die Auftraggeberin oder der Auftraggeber dem Kanton den rechtskräftigen Entscheid zu. Der Kanton erstattet Meldung an das Interkantonale Organ für das öffentliche Beschaffungswesen (InöB).
+
+<sup>2</sup> Der Regierungsrat bezeichnet die zuständige Stelle.
 
 **1**
 
-- 1\. 10. 18 - 102
+- 1\. 4. 26 - 132 § 7. <sup>1</sup> Der Regierungsrat wird ermächtigt:
 
-<sup>3</sup> Ihre Ziele sind insbesondere:
+**Ermächtigung und Vollzug**
 
-- a. Förderung des wirksamen Wettbewerbs unter den Anbieterinnen und Anbietern,
+- a. Änderungen der IVöB zu ratifizieren, soweit sie von untergeordneter Bedeutung sind,
 
-- b. Gewährleistung der Gleichbehandlung aller Anbieterinnen und Anbieter sowie einer unparteiischen Vergabe,
+- b. den Beitritt und Austritt zur IVöB gegenüber dem InöB zu erklären.
 
-- c. Sicherstellung der Transparenz der Vergabeverfahren,
+<sup>2</sup> Der Regierungsrat regelt die Einzelheiten des Verfahrens, des Vollzugs und der Organisation in einer Verordnung[^6-1], insbesondere:
 
-- d. wirtschaftliche Verwendung öffentlicher Mittel.
+- a. die für den Vollzug, die Kontrollen und die Aufsicht zuständigen Stellen (Art. 12 Abs. 5, 28 Abs. 1, 45 Abs. 1–5, 50 Abs. 1 sowie 62 Abs. 1 und 2),
+
+- b. die Einzelheiten des elektronischen Verfahrens, insbesondere der elektronischen Abgabe von Angeboten und Eröffnung von Verfügungen (Art. 34 Abs. 2),
+
+- c. die Erstellung zusätzlicher Statistiken,
+
+- d. die für den einheitlichen Vollzug, die Auskunftserteilung und die Aus- und Weiterbildung im öffentlichen Beschaffungswesen zuständigen Stellen.
+
+[^6-1]: LS 720.11.
+
+#### § 8
+
+**Aufhebung bisherigen Rechts**
+
+Das Gesetz vom 15. September 2003 über den Beitritt zur revidierten Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen vom 15. März 2001 wird aufgehoben.
+
+#### § 9
+
+**Übergangsbestimmung**
+
+Bis sämtliche Kantone der Vereinbarung über das öffentliche Beschaffungswesen vom 15. November 2019 beigetreten sind, gilt im Verhältnis zu Kantonen, die dieser Vereinbarung nicht beigetreten sind, Art. 4 der Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen vom 15. März 2001 gemäss Anhang B dieses Gesetzes.
+
+### Anhang A
+
+[^hAnhangA-1]: Fassung gemäss Beschluss des InöB vom 15. November 2019.
+
+## Interkantonale Vereinbarung über das öffentliche Beschaffungswesen (IVöB)
+
+[^hAnhangA-1]
+
+### 1. Kapitel: Gegenstand, Zweck und Begriffe
+
+#### Art. 1
+
+**Gegenstand**
+
+Diese Vereinbarung findet auf die Vergabe öffentlicher Aufträge durch unterstellte Auftraggeber innerhalb und ausserhalb des Staatsvertragsbereichs Anwendung.
 
 #### Art. 2
 
-**Vorbehalt anderer Vereinbarungen**
+**Zweck**
 
-Die beteiligten Kantone behalten sich das Recht vor:
+Diese Vereinbarung bezweckt:
 
-- a. unter sich bilaterale oder multilaterale Vereinbarungen zur Erweiterung des Anwendungsbereiches dieser Vereinbarung zu schliessen oder ihre Zusammenarbeit auf anderem Weg weiterzuentwickeln,
+- a) den wirtschaftlichen und den volkswirtschaftlich, ökologisch und sozial nachhaltigen Einsatz der öffentlichen Mittel;
 
-- b. Vereinbarungen mit den Grenzregionen und Nachbarstaaten zu schliessen.
+- b) die Transparenz des Vergabeverfahrens;
+
+- c) die Gleichbehandlung und Nichtdiskriminierung der Anbieter;
+
+- d) die Förderung des wirksamen, fairen Wettbewerbs unter den Anbietern, insbesondere durch Massnahmen gegen unzulässige Wettbewerbsabreden und Korruption.
 
 #### Art. 3
 
-**Durchführung**
+**Begriffe**
 
-Die zuständigen Behörden jedes Kantons erlassen Ausführungsbestimmungen, die der Vereinbarung entsprechen müssen.
+In dieser Vereinbarung bedeuten:
 
-### 2. Abschnitt (...)
+- a) Anbieter[^3_2-1]: natürliche oder juristische Person des privaten oder öffentlichen Rechts oder Gruppe solcher Personen, die Leistungen anbieten, sich um die Teilnahme an einer öffentlichen Ausschreibung, die Übertragung einer öffentlichen Aufgabe oder die Erteilung einer Konzession bewerben;
+
+- b) öffentliches Unternehmen: Unternehmen, auf das staatliche Behörden aufgrund von Eigentum, finanzieller Beteiligung oder der für das Unternehmen einschlägigen Vorschriften unmittelbar oder mittelbar einen beherrschenden Einfluss ausüben können; ein beherrschender Einfluss wird vermutet, wenn das Unternehmen mehrheitlich durch den Staat oder durch andere öffentliche Unternehmen finanziert wird, wenn es hinsichtlich seiner Leitung der Aufsicht durch den Staat oder durch andere öffentliche Unternehmen unterliegt oder wenn dessen Verwaltungs-, Leitungs- oder Aufsichtsorgan mehrheitlich aus Mitgliedern besteht, die vom Staat oder von anderen öffentlichen Unternehmen ernannt worden sind;
+
+- c) Staatsvertragsbereich: Geltungsbereich der internationalen Verpflichtungen der Schweiz über das öffentliche Beschaffungswesen;
+
+- d) Arbeitsbedingungen: zwingende Vorschriften des Obligationenrechts vom 30. März 1911<sup>6</sup> über den Arbeitsvertrag, normative Bestimmungen der Gesamtarbeitsverträge und der Normalarbeitsverträge oder, wo diese fehlen, die orts- und branchenüblichen Arbeitsbedingungen;
+
+- e) Arbeitsschutzbestimmungen: Vorschriften des öffentlichen Arbeitsrechts, einschliesslich der Bestimmungen des Arbeitsgesetzes vom 13. März 1964<sup>8</sup> und des zugehörigen Ausführungsrechts sowie der Bestimmungen zur Unfallverhütung.
+
+- f) Einrichtung des öffentlichen Rechts: jede Einrichtung, die
+
+- zum besonderen Zweck gegründet wurde, im öffentlichen Interesse liegende Aufgaben nicht gewerblicher Art zu erfüllen;
+
+- Rechtspersönlichkeit besitzt; und
+
+- überwiegend vom Staat, von Gebietskörperschaften oder von anderen Einrichtungen des öffentlichen Rechts finanziert wird, hinsichtlich ihrer Leitung der Aufsicht durch Letztere unterliegt oder deren Verwaltungs-, Leitungs- oder Aufsichtsorgan mehrheitlich aus Mitgliedern besteht, die vom Staat, von den Gebietskörperschaften oder von anderen Einrichtungen des öffentlichen Rechts ernannt worden sind;
+
+- g) staatliche Behörden: der Staat, die Gebietskörperschaften, Einrichtungen des öffentlichen Rechts und Verbände, die aus einer oder mehreren dieser Körperschaften oder Einrichtungen des öffentlichen Rechts bestehen.
+
+[^3_2-1]: Im Interesse der besseren Lesbarkeit wird in dieser Vereinbarung nur die männliche Form verwendet. 1. 4. 26 - 132 3
+
+### 2. Kapitel: Geltungsbereich
+
+### 1. Abschnitt: Subjektiver Geltungsbereich
 
 #### Art. 4
 
-**Interkantonales Organ**
+**Auftraggeber**
 
-<sup>1</sup> Die Mitglieder der an der Vereinbarung beteiligten Kantone in der Schweizerischen Bau-, Planungs- und Umweltschutzdirektoren-Konferenz bilden das Interkantonale Organ für das öffentliche Beschaffungswesen (InöB).
+<sup>1</sup> Im Staatsvertragsbereich unterstehen dieser Vereinbarung
 
-<sup>2</sup> Das Interkantonale Organ ist zuständig für:
+die staatlichen Behörden sowie zentrale und dezentrale Verwaltungseinheiten, einschliesslich der Einrichtungen des öffentlichen Rechts auf Kantons-, Bezirks- und Gemeindeebene im Sinne des kantonalen und kommunalen Rechts, mit Ausnahme ihrer gewerblichen Tätigkeiten.
 
-- a. Änderung der Vereinbarung unter Vorbehalt der Zustimmung der beteiligten Kantone,
+<sup>2</sup> Im Staatsvertragsbereich unterstehen dieser Vereinbarung ebenso staatliche Behörden sowie öffentliche und private Unternehmen, die öffentliche Dienstleistungen erbringen und die mit ausschliesslichen oder besonderen Rechten ausgestattet sind soweit sie Tätigkeiten in einem der nachfolgenden Sektoren in der Schweiz ausüben:
 
-- b. Erlass von Vergaberichtlinien,
+- a) Bereitstellen oder Betreiben fester Netze zur Versorgung der Öffentlichkeit im Zusammenhang mit der Produktion, dem Transport oder der Verteilung von Trinkwasser oder die Versorgung dieser Netze mit Trinkwasser;
 
-- c. Anpassung der in den Anhängen aufgeführten Schwellenwerte, c.<sup>bis</sup> Entgegennahme und Weiterleitung eines Gesuches um Befreiung von Auftraggeberinnen und Auftraggebern von der Unterstellung unter diese Vereinbarung, sofern andere Unternehmen die Möglichkeit haben, diese Dienstleistungen in demselben geografischen Gebiet unter im Wesentlichen gleichen Bedingungen anzubieten (Ausklinkklausel),
+- b) Bereitstellen oder Betreiben fester Netze zur Versorgung der Öffentlichkeit im Zusammenhang mit der Produktion, der Fortleitung oder der Verteilung von elektrischer Energie oder die Versorgung dieser Netze mit elektrischer Energie;
 
-- d. (...)
+- c) Betreiben von Netzen zur Versorgung der Öffentlichkeit im Bereich des Verkehrs durch Stadtbahn, automatische Systeme, Strassenbahn, Trolleybus, Bus oder Kabelbahn;
 
-- e. Kontrolle über die Durchführung der Vereinbarung durch die Kantone und Bezeichnung einer Kontrollstelle,
+- d) Versorgung von Beförderungsunternehmen im Luftverkehr mit Flughäfen oder anderen Verkehrsendeinrichtungen;
 
-- f. Regelung der Organisation und des Verfahrens für die Anwendung der Vereinbarung,
+- e) Versorgung von Beförderungsunternehmen im Binnenschiffsverkehr mit Häfen oder anderen Verkehrsendeinrichtungen;
 
-- g. Tätigkeiten als Kontaktstelle im Rahmen der internationalen Vereinbarungen,
+- f) Bereitstellen oder Betreiben von Eisenbahnen einschliesslich des darauf durchgeführten Verkehrs;
 
-- h. Bezeichnung der kantonalen Delegierten in nationalen und internationalen Gremien sowie Genehmigung der entsprechenden Geschäftsreglemente.
+- g) Bereitstellen oder Betreiben fester Netze zur Versorgung der Öffentlichkeit im Zusammenhang mit der Produktion, dem Transport oder der Verteilung von Gas oder Wärme oder Versorgung dieser Netze mit Gas oder Wärme; oder
 
-<sup>3</sup> Das Interkantonale Organ trifft seine Entscheide mit Dreiviertelmehrheit der Anwesenden, sofern mindestens die Hälfte der beteiligten Kantone vertreten ist. Jeder beteiligte Kanton hat eine Stimme, die von einem Mitglied der Kantonsregierung wahrgenommen wird.
+- h) Nutzung eines geographisch abgegrenzten Gebiets zum Zweck der Suche oder Förderung von Erdöl, Gas, Kohle oder anderen Festbrennstoffen.
 
-<sup>4</sup> Das Interkantonale Organ arbeitet mit den Konferenzen der Vorsteherinnen und Vorsteher der betroffenen kantonalen Direktionen und mit dem Bund zusammen.
+<sup>3</sup> Die Auftraggeber nach Absatz 2 unterstehen dieser Vereinbarung nur bei Beschaffungen für den beschriebenen Tätigkeitsbereich, nicht aber für ihre übrigen Tätigkeiten.
+
+<sup>4</sup> Ausserhalb des Staatsvertragsbereichs unterstehen dieser Vereinbarung überdies:
+
+- a) andere Träger kantonaler und kommunaler Aufgaben, mit Ausnahme ihrer gewerblichen Tätigkeiten;
+
+- b) Objekte und Leistungen, die zu mehr als 50 Prozent der Gesamtkosten mit öffentlichen Geldern subventioniert werden.
+
+<sup>5</sup> Führt eine Drittperson die Vergabe eines öffentlichen Auftrags für einen oder mehrere Auftraggeber durch, so untersteht diese Drittperson dieser Vereinbarung wie der von ihm vertretene Auftraggeber.
+
+**5**
+
+- 1\. 4. 26 - 132
 
 #### Art. 5
 
-**(...)**
+**Anwendbares Recht**
 
-### 3. Abschnitt: Anwendungsbereich
+<sup>1</sup> Beteiligen sich mehrere dem Bundesrecht und dieser Ver-
 
-Art. 5<sup>bis</sup> Abgrenzung
+einbarung unterstellte Auftraggeber an einer Beschaffung, so ist das Recht des Gemeinwesens anwendbar, dessen Auftraggeber den grössten Teil an der Finanzierung trägt. Überwiegt der kantonale Anteil insgesamt den Bundesanteil, so kommt diese Vereinbarung zur Anwendung.
 
-<sup>1</sup> Es wird zwischen einem Staatsvertragsbereich und einem von Staatsverträgen nicht erfassten Bereich unterschieden.
+<sup>2</sup> Beteiligen sich mehrere dieser Vereinbarung unterstellte Auftraggeber an einer Beschaffung, so ist das Recht desjenigen Kantons anwendbar, der den grössten Anteil an der Finanzierung trägt.
 
-<sup>2</sup> Im Staatsvertragsbereich werden die Verpflichtungen aus den internationalen Verträgen ins kantonale Recht umgesetzt.
+<sup>3</sup> Mehrere an einer Beschaffung beteiligte Auftraggeber sind im gegenseitigen Einvernehmen befugt, eine gemeinsame Beschaffung in Abweichung von den vorstehenden Grundsätzen dem Recht eines beteiligten Auftraggebers zu unterstellen.
 
-<sup>3</sup> Im von Staatsverträgen nicht erfassten Bereich werden innerstaatliche Bestimmungen der Kantone harmonisiert.
+<sup>4</sup> Eine Beschaffung, deren Ausführung nicht im Rechtsgebiet des Auftraggebers erfolgt, untersteht wahlweise dem Recht am Sitz des Auftraggebers oder am Ort, wo die Leistungen hauptsächlich erbracht werden.
 
-**3**
+<sup>5</sup> Eine Beschaffung durch eine gemeinsame Trägerschaft untersteht dem Recht am Sitz der Trägerschaft. Hat diese keinen Sitz, findet das Recht am Ort Anwendung, wo die Leistungen hauptsächlich erbracht werden.
 
-- 1\. 10. 18 - 102
+<sup>6</sup> Öffentliche oder private Unternehmen mit ausschliesslichen oder besonderen Rechten, die ihnen durch den Bund verliehen wurden, oder die Aufgaben im nationalen Interesse erbringen, können wählen, ob sie ihre Beschaffungen dem Recht an ihrem Sitz oder dem Bundesrecht unterstellen.
 
 #### Art. 6
 
-**Auftragsarten**
+**Anbieter**
 
-<sup>1</sup> Im Staatsvertragsbereich findet diese Vereinbarung Anwendung auf die in den Staatsverträgen definierten Aufträge, insbesondere:
+<sup>1</sup> Nach dieser Vereinbarung sind Anbieter aus der Schweiz
 
-- a. Bauaufträge über die Durchführung von Hoch- und Tiefbauarbeiten,
+zum Angebot zugelassen sowie Anbieter aus Staaten, denen gegenüber die Schweiz sich vertraglich zur Gewährung des Marktzutritts verpflichtet hat, Letzteres im Rahmen der gegenseitig eingegangenen Verpflichtungen.
 
-- b. Lieferaufträge über die Beschaffung beweglicher Güter, namentlich durch Kauf, Leasing, Miete, Pacht oder Mietkauf,
+<sup>2</sup> Ausserhalb des Staatsvertragsbereichs werden ausländische Anbieter aus Staaten zum Angebot zugelassen, soweit diese Gegenrecht gewähren oder soweit der Auftraggeber dies zulässt.
 
-- c. Dienstleistungsaufträge.
+<sup>3</sup> Der Bundesrat führt eine Liste der Staaten, die sich gegenüber der Schweiz zur Gewährung des Marktzutritts verpflichtet haben. Die Liste wird periodisch nachgeführt.
 
-<sup>2</sup> Im von Staatsverträgen nicht erfassten Bereich findet diese Vereinbarung Anwendung auf alle Arten von öffentlichen Aufträgen.
+<sup>4</sup> Die Kantone können Vereinbarungen mit den Grenzregionen und Nachbarstaaten abschliessen.
 
 #### Art. 7
 
-**Schwellenwerte**
+**Befreiung von der Unterstellung**
 
-<sup>1</sup> Die Schwellenwerte im Staatsvertragsbereich sind im Anhang 1 aufgeführt.
+<sup>1</sup> Herrscht in einem Sektorenmarkt nach Artikel 4 Absatz 2
 
-<sup>1bis</sup> Die Schwellenwerte im von Staatsverträgen nicht erfassten Bereich sind im Anhang 2 aufgeführt.
+wirksamer Wettbewerb, kann das Interkantonale Organ für das öffentliche Beschaffungswesen (InöB) dem Bundesrat vorschlagen, die entsprechenden Beschaffungen ganz oder teilweise von der Unterstellung unter diese Vereinbarung zu befreien. Im betroffenen Sektorenmarkt tätige Auftraggeber sind berechtigt, zu Handen des InöB ein diesbezügliches Gesuch zu stellen.
 
-<sup>1ter</sup> Die Mehrwertsteuer wird bei der Schätzung des Auftragswertes nicht berücksichtigt.
+<sup>2</sup> Eine Befreiung gilt für die entsprechenden Beschaffungen aller im betroffenen Sektorenmarkt tätigen Auftraggeber.
 
-<sup>2</sup> Werden für die Realisierung eines Bauwerkes mehrere Bauaufträge vergeben, ist im Staatsvertragsbereich der Gesamtwert der Hoch- und Tiefbauarbeiten massgebend. Bauaufträge im Staatsvertragsbereich, die je einzeln den Wert von zwei Millionen Franken nicht erreichen und zusammengerechnet 20 Prozent des Wertes des gesamten Bauwerkes nicht überschreiten, müssen mindestens nach den Bestimmungen des von Staatsverträgen nicht erfassten Bereiches vergeben werden (Bagatellklausel).
+### 2. Abschnitt: Objektiver Geltungsbereich
 
 #### Art. 8
 
-**Auftraggeberin und Auftraggeber**
+**Öffentlicher Auftrag**
 
-<sup>1</sup> Im Staatsvertragsbereich unterstehen dieser Vereinbarung:
+<sup>1</sup> Ein öffentlicher Auftrag ist ein Vertrag, der zwischen Auf-
 
-- a. Kantone, Gemeinden sowie Einrichtungen des öffentlichen Rechts auf kantonaler oder kommunaler Ebene, mit Ausnahme ihrer kommerziellen oder industriellen Tätigkeiten,
+traggeber und Anbieter abgeschlossen wird und der Erfüllung einer öffentlichen Aufgabe dient. Er ist gekennzeichnet durch seine Entgeltlichkeit sowie den Austausch von Leistung und Gegenleistung, wobei die charakteristische Leistung durch den Anbieter erbracht wird.
 
-- b. (...)
+<sup>2</sup> Es werden folgende Leistungen unterschieden:
 
-- c. Behörden sowie öffentliche und private Unternehmen, die mit ausschliesslichen oder besonderen Rechten ausgestattet sind, jeweils in den Sektoren Wasser-, Energie- und Verkehrsversorgung sowie Telekommunikation. Sie unterstehen dieser Vereinbarung nur für Aufträge, die sie zur Durchführung ihrer in der Schweiz ausgeübten Tätigkeit in diesen Bereichen vergeben,
+- a) Bauleistungen (Bauhaupt- und Baunebengewerbe);
 
-- d. weitere Auftraggeberinnen und Auftraggeber gemäss den entsprechenden Staatsverträgen.
+- b) Lieferungen;
 
-<sup>2</sup> Im von Staatsverträgen nicht erfassten Bereich unterstehen dieser Vereinbarung überdies:
+- c) Dienstleistungen.
 
-- a. andere Träger kantonaler oder kommunaler Aufgaben, mit Ausnahme derer kommerziellen oder industriellen Tätigkeiten,
-
-- b. Objekte und Leistungen, die zu mehr als 50% der Gesamtkosten mit öffentlichen Geldern subventioniert werden.
-
-<sup>3</sup> Vergaben, an denen mehrere Auftraggeberinnen und Auftraggeber gemäss Absatz 1 und 2 beteiligt sind, unterstehen dem Recht am Sitz der Hauptauftraggeberin oder des Hauptauftraggebers. Vergaben durch eine gemeinsame Trägerschaft unterstehen dem Recht am Sitz der Trägerschaft. Hat diese keinen Sitz, gilt das Recht am Ort des Schwergewichts der Tätigkeit oder der Arbeitsausführung. Abweichende Vereinbarungen bleiben vorbehalten.
-
-<sup>4</sup> Vergaben einer Auftraggeberin oder eines Auftraggebers gemäss Absatz 1 und 2, deren Ausführung nicht im Rechtsgebiet ihres Sitzes erfolgt, unterstehen dem Recht am Ort des Sitzes der Auftraggeberin oder des Auftraggebers oder am Ort des Schwergewichts der Tätigkeit.
+<sup>3</sup> Gemischte Aufträge setzen sich aus unterschiedlichen Leistungen nach Absatz 2 zusammen und bilden ein Gesamtgeschäft. Die Qualifikation des Gesamtgeschäfts folgt der finanziell überwiegenden Leistung. Leistungen dürfen nicht mit der Absicht oder Wirkung gemischt oder gebündelt werden, die Bestimmungen dieser Vereinbarung zu umgehen.
 
 #### Art. 9
 
-**Anbieterin und Anbieter; Gegenrecht**
+**Übertragung öffentlicher Aufgaben und Verleihung von Konzessionen**
 
-Diese Vereinbarung ist anwendbar auf Angebote von Anbieterinnen und Anbietern, die ihren Sitz oder Wohnsitz haben:
-
-- a. in einem beteiligten Kanton,
-
-- b. in einem Staat, der durch einen Staatsvertrag zum öffentlichen Beschaffungswesen verpflichtet ist.
-
-- c. (...)
+Die Übertragung einer öffentlichen Aufgabe oder die Verleihung einer Konzession gilt als öffentlicher Auftrag, wenn dem Anbieter dadurch ausschliessliche oder besondere Rechte zukommen, die er im öffentlichen Interesse wahrnimmt, und ihm dafür direkt oder indirekt ein Entgelt oder eine Abgeltung zukommt. Spezialgesetzliche Bestimmungen des Bundesrechts und des kantonalen Rechts gehen vor.
 
 #### Art. 10
 
 **Ausnahmen**
 
-<sup>1</sup> Die Vereinbarung findet keine Anwendung auf:
+<sup>1</sup> Diese Vereinbarung findet keine Anwendung auf:
 
-- a. Aufträge an Behinderteninstitutionen, Wohltätigkeitseinrichtungen und Strafanstalten,
+- a) die Beschaffung von Leistungen im Hinblick auf den gewerblichen Verkauf oder Wiederverkauf oder im Hinblick auf die Verwendung in der Produktion oder im Angebot von Leistungen für einen gewerblichen Verkauf oder Wiederverkauf;
 
-**5**
-
-- 1\. 10. 18 - 102
-
-- b. Aufträge, die im Rahmen von Agrar- und Ernährungshilfsprogrammen erteilt werden,
-
-- c. Aufträge, die aufgrund eines Staatsvertrages über ein gemeinsam zu verwirklichendes und zu tragendes Objekt vergeben werden,
-
-- d. Aufträge, die aufgrund eines besonderen Verfahrens einer internationalen Organisation vergeben werden,
-
-- e. Aufträge für die Beschaffung von Waffen, Munition oder Kriegsmaterial und für die Erstellung von Bauten der Kampf- und Führungsinfrastruktur von Gesamtverteidigung und Armee.
-
-<sup>2</sup> Die Auftraggeberin und der Auftraggeber brauchen einen Auftrag nicht nach den Bestimmungen dieser Vereinbarung zu vergeben, wenn:
-
-- a. dadurch die öffentliche Ordnung oder die öffentliche Sicherheit gefährdet sind,
-
-- b. der Schutz von Gesundheit und Leben von Mensch, Tier und Pflanzen dies erfordert oder
-
-- c. dadurch bestehende Schutzrechte des geistigen Eigentums verletzt würden.
-
-### 4. Abschnitt: Verfahren
-
-#### Art. 11
-
-**Allgemeine Grundsätze**
-
-Bei der Vergabe von Aufträgen werden folgende Grundsätze eingehalten:
-
-- a. Nichtdiskriminierung und Gleichbehandlung der Anbieterinnen und Anbieter,
-
-- b. wirksamer Wettbewerb,
-
-- c. Verzicht auf Abgebotsrunden,
-
-- d. Beachtung der Ausstandsregeln,
-
-- e. Beachtung der Arbeitsschutzbestimmungen und der Arbeitsbedingungen für Arbeitnehmerinnen und Arbeitnehmer,
-
-- f. Gleichbehandlung von Frau und Mann,
-
-- g. Vertraulichkeit von Informationen.
-
-#### Art. 12
-
-**Verfahrensarten**
-
-<sup>1</sup> Es werden folgenden Verfahrensarten unterschieden:
-
-- a. das offene Verfahren, bei dem die Auftraggeberin oder der Auftraggeber den geplanten Auftrag öffentlich ausschreibt und alle Anbieterinnen und Anbieter ein Angebot einreichen können,
-
-- b. das selektive Verfahren, bei dem die Auftraggeberin oder der Auftraggeber den geplanten Auftrag öffentlich ausschreibt. Alle Anbieterinnen und Anbieter können einen Antrag auf Teilnahme einreichen. Die Auftraggeberin oder der Auftraggeber bestimmt aufgrund von Eignungskriterien die Anbieterinnen und Anbieter, die ein Angebot einreichen dürfen. Die Auftraggeberin oder der Auftraggeber kann in der Ausschreibung die Zahl der zur Angebotsabgabe eingeladenen Anbieterinnen und Anbieter beschränken, wenn sonst die Auftragsvergabe nicht effizient abgewickelt werden kann. Dabei muss ein wirksamer Wettbewerb gewährleistet sein, b.<sup>bis</sup> das Einladungsverfahren, bei dem die Auftraggeberin oder der Auftraggeber bestimmt, welche Anbieterinnen oder Anbieter ohne Ausschreibung direkt zur Angebotsabgabe eingeladen werden. Die Auftraggeberin oder der Auftraggeber muss wenn möglich mindestens drei Angebote einholen,
-
-- c. das freihändige Verfahren, bei dem die Auftraggeberin oder der Auftraggeber einen Auftrag ohne Ausschreibung direkt vergibt.
-
-<sup>2</sup> (...)
-
-<sup>3</sup> Wer einen Planungs- oder Gesamtleistungswettbewerb veranstaltet, regelt im Rahmen der Grundsätze dieser Vereinbarung das Verfahren im Einzelfall. Die Auftraggeberin oder der Auftraggeber kann dabei ganz oder teilweise auf einschlägige Bestimmungen von Fachverbänden verweisen, soweit solche Bestimmungen nicht gegen die Grundsätze dieser Vereinbarung verstossen.
-
-Art. 12<sup>bis</sup> Wahl der Verfahren
-
-<sup>1</sup> Aufträge im Staatsvertragsbereich können wahlweise im offenen oder selektiven Verfahren vergeben werden. In besonderen Fällen gemäss den internationalen Verträgen können sie im freihändigen Verfahren vergeben werden.
-
-<sup>2</sup> Aufträge im von Staatsverträgen nicht erfassten Bereich können gemäss den Schwellenwerten im Anhang 2 überdies im Einladungs- oder im freihändigen Verfahren vergeben werden.
+- b) den Erwerb, die Miete oder die Pacht von Grundstücken, Bauten und Anlagen sowie der entsprechenden Rechte daran;
 
 **7**
 
-- 1\. 10. 18 - 102
+- 1\. 4. 26 - 132
 
-<sup>3</sup> Die Kantone können im von Staatsverträgen nicht erfassten Bereich für die Verfahren tiefere Schwellenwerte ansetzen. Daraus dürfen keine Gegenrechtsvorbehalte abgeleitet werden.
+- c) die Ausrichtung von Finanzhilfen;
+
+- d) Verträge über Finanzdienstleistungen im Zusammenhang mit Ausgabe, Ankauf, Verkauf, Übertragung oder Verwaltung von Wertpapieren oder anderen Finanzinstrumenten sowie Dienstleistungen der Zentralbanken;
+
+- e) Aufträge an Behinderteninstitutionen, Organisationen der Arbeitsintegration, Wohltätigkeitseinrichtungen und Strafanstalten;
+
+- f) die Verträge des Personalrechts;
+
+- g) die öffentlich-rechtlichen Vorsorgeeinrichtungen der Kantone und Gemeinden.
+
+<sup>2</sup> Diese Vereinbarung findet zudem keine Anwendung auf die Beschaffung von Leistungen:
+
+- a) bei Anbietern, denen ein ausschliessliches Recht zur Erbringung solcher Leistungen zusteht;
+
+- b) bei anderen, rechtlich selbständigen Auftraggebern, die ihrerseits dem Beschaffungsrecht unterstellt sind, soweit diese Auftraggeber diese Leistungen nicht im Wettbewerb mit privaten Anbietern erbringen;
+
+- c) bei unselbständigen Organisationseinheiten des Auftraggebers;
+
+- d) bei Anbietern, über die der Auftraggeber eine Kontrolle ausübt, die der Kontrolle über seine eigenen Dienststellen entspricht, soweit diese Unternehmen ihre Leistungen im Wesentlichen für den Auftraggeber erbringen.
+
+<sup>3</sup> Diese Vereinbarung findet sodann keine Anwendung auf öffentliche Aufträge,
+
+- a) wenn dies für den Schutz und die Aufrechterhaltung der äusseren oder inneren Sicherheit oder der öffentlichen Ordnung als erforderlich erachtet wird;
+
+- b) soweit dies erforderlich ist zum Schutz der Gesundheit oder des Lebens von Menschen oder zum Schutz der Tier- und Pflanzenwelt;
+
+- c) soweit deren Ausschreibung Rechte des geistigen Eigentums verletzen würde.
+
+### 3. Kapitel: Allgemeine Grundsätze
+
+#### Art. 11
+
+**Verfahrensgrundsätze**
+
+Bei der Vergabe öffentlicher Aufträge beachtet der Auftraggeber folgende Verfahrensgrundsätze:
+
+- a) Er führt Vergabeverfahren transparent, objektiv und unparteiisch durch;
+
+- b) er trifft Massnahmen gegen Interessenkonflikte, unzulässige Wettbewerbsabreden und Korruption;
+
+- c) er achtet in allen Phasen des Verfahrens auf die Gleichbehandlung der Anbieter;
+
+- d) er verzichtet auf Abgebotsrunden;
+
+- e) er wahrt den vertraulichen Charakter der Angaben der Anbieter.
+
+#### Art. 12
+
+**Einhaltung der Arbeitsschutzbestimmungen, der Arbeitsbedingungen, der Lohngleichheit und des Umweltrechts**
+
+<sup>1</sup> Für die im Inland zu erbringenden Leistungen vergibt
+
+der Auftraggeber einen öffentlichen Auftrag nur an Anbieter, welche die im Inland massgeblichen Arbeitsschutzbestimmungen und Arbeitsbedingungen, die Melde- und Bewilligungspflichten nach dem Bundesgesetz vom 17. Juni 2005 gegen die Schwarzarbeit (BGSA)<sup>9</sup> sowie die Bestimmungen über die Gleichbehandlung von Frau und Mann in Bezug auf die Lohngleichheit einhalten.
+
+<sup>2</sup> Für die im Ausland zu erbringenden Leistungen vergibt der Auftraggeber einen öffentlichen Auftrag nur an Anbieter, welche mindestens die Kernübereinkommen der Internationalen Arbeitsorganisation (ILO) nach Massgabe von Anhang 3 einhalten. Der Auftraggeber kann darüber hinaus die Einhaltung weiterer wesentlicher internationaler Arbeitsstandards fordern und entsprechende Nachweise verlangen sowie Kontrollen vereinbaren.
+
+<sup>3</sup> Der Auftraggeber vergibt einen öffentlichen Auftrag nur an Anbieter, welche mindestens die am Ort der Leistung geltenden rechtlichen Vorschriften zum Schutz der Umwelt und zur Erhaltung der natürlichen Ressourcen einhalten; dazu gehören im Inland die Bestimmungen des schweizerischen Umweltrechts und im Ausland die vom Bundesrat bezeichneten internationalen Übereinkommen zum Schutz der Umwelt nach Massgabe von Anhang 4.
+
+<sup>4</sup> Die Subunternehmer sind verpflichtet, die Anforderungen nach den Absätzen 1 bis 3 einzuhalten. Diese Verpflichtungen sind in die Vereinbarungen zwischen den Anbietern und den Subunternehmern aufzunehmen.
+
+<sup>5</sup> Der Auftraggeber kann die Einhaltung der Anforderungen nach den Absätzen 1 bis 3 kontrollieren oder die Kontrolle Dritten übertragen, soweit diese Aufgabe nicht einer spezialgesetzlichen Behörde oder einer anderen geeigneten Instanz, insbesondere einem paritätischen Kontrollorgan, übertragen wurde. Für die Durchführung dieser Kontrollen kann der Auftraggeber der Behörde oder dem Kontrollorgan die erforderlichen Auskünfte erteilen sowie Unterlagen zur Verfügung stellen. Auf Verlangen hat der Anbieter die erforderlichen Nachweise zu erbringen.
+
+**9**
+
+- 1\. 4. 26 - 132
+
+<sup>6</sup> Die mit der Einhaltung der Anforderungen nach den Absätzen 1 bis 3 befassten Behörden und Kontrollorgane erstatten dem Auftraggeber Bericht über die Ergebnisse der Kontrollen und über allfällige getroffene Massnahmen.
 
 #### Art. 13
 
-**Kantonale Ausführungsbestimmungen**
+**Ausstand**
 
-Die Ausführungsbestimmungen gewährleisten:
+<sup>1</sup> Am Vergabeverfahren dürfen auf Seiten des Auftrag-
 
-- a. die notwendigen Veröffentlichungen sowie die Publikation der Schwellenwerte,
+gebers oder eines Expertengremiums keine Personen mitwirken, die:
 
-- b. die Bezugnahmen auf nicht diskriminierende technische Spezifikationen,
+- a) an einem Auftrag ein persönliches Interesse haben;
 
-- c. die Bestimmung von ausreichenden Fristen für die Einreichung der Angebote,
+- b) mit einem Anbieter oder mit einem Mitglied eines seiner Organe durch Ehe oder eingetragene Partnerschaft verbunden sind oder eine faktische Lebensgemeinschaft führen;
 
-- d. ein Verfahren zur Überprüfung der Eignung der Anbieterinnen und Anbieter nach objektiven und überprüfbaren Kriterien,
+- c) mit einem Anbieter oder mit einem Mitglied eines seiner Organe in gerader Linie oder bis zum dritten Grad in der Seitenlinie verwandt oder verschwägert sind;
 
-- e. die gegenseitige Anerkennung der Qualifikation der Anbieterinnen und Anbieter, die in ständigen Listen der beteiligten Kantone eingetragen sind,
+- d) Vertreter eines Anbieters sind oder für einen Anbieter in der gleichen Sache tätig waren; oder
 
-- f. die geeigneten Zuschlagskriterien, die den Zuschlag an das wirtschaftlich günstigste Angebot gewährleisten,
+- e) aufgrund anderer Umstände die für die Durchführung öffentlicher Beschaffungen erforderliche Unabhängigkeit vermissen lassen.
 
-- g. den Zuschlag durch Verfügung,
+<sup>2</sup> Ein Ausstandsbegehren ist unmittelbar nach Kenntnis des Ausstandgrundes vorzubringen.
 
-- h. die Mitteilung und kurze Begründung des Zuschlages,
+<sup>3</sup> Über Ausstandsbegehren entscheidet der Auftraggeber oder das Expertengremium unter Ausschluss der betreffenden Person.
 
-- i. die Beschränkung von Abbruch und Wiederholung des Vergabeverfahrens auf wichtige Gründe,
-
-- j. die Archivierung.
+<sup>4</sup> Der Auftraggeber kann in der Ausschreibung vorgeben, dass Anbieter, die bei Wettbewerben und Studienaufträgen in einem ausstandsbegründenden Verhältnis zu einem Jurymitglied stehen, vom Verfahren ausgeschlossen sind.
 
 #### Art. 14
 
-**Vertragsschluss**
+**Vorbefassung**
 
-<sup>1</sup> Der Vertrag mit der Anbieterin oder dem Anbieter darf nach dem Zuschlag nach Ablauf der Beschwerdefrist abgeschlossen werden, es sei denn, die Beschwerdeinstanz habe der Beschwerde aufschiebende Wirkung erteilt.
+<sup>1</sup> Anbieter, die an der Vorbereitung eines Vergabeverfah-
 
-<sup>2</sup> Ist ein Beschwerdeverfahren ohne aufschiebende Wirkung gegen den Zuschlag hängig, so teilt die Auftraggeberin oder der Auftraggeber den Vertragsschluss umgehend der Beschwerdeinstanz mit.
+rens beteiligt waren, sind zum Angebot nicht zugelassen, wenn der ihnen dadurch entstandene Wettbewerbsvorteil nicht mit geeigneten Mitteln ausgeglichen werden kann und wenn der Ausschluss den wirksamen Wettbewerb unter den Anbietern nicht gefährdet.
 
-### 5. Abschnitt: Rechtsschutz
+<sup>2</sup> Geeignete Mittel, um den Wettbewerbsvorteil auszugleichen, sind insbesondere:
+
+- a) die Weitergabe aller wesentlichen Angaben über die Vorarbeiten;
+
+- b) die Bekanntgabe der an der Vorbereitung Beteiligten;
+
+- c) die Verlängerung der Mindestfristen.
+
+<sup>3</sup> Eine der öffentlichen Ausschreibung vorgelagerte Marktabklärung durch den Auftraggeber führt nicht zur Vorbefassung der angefragten Anbieter. Der Auftraggeber gibt die Ergebnisse der Marktabklärung in den Ausschreibungsunterlagen bekannt.
 
 #### Art. 15
 
-**Beschwerderecht und Frist**
+**Bestimmung des Auftragswerts**
 
-<sup>1</sup> Gegen Verfügungen der Auftraggeberin oder des Auftraggebers ist die Beschwerde an eine unabhängige kantonale Instanz zulässig. Diese entscheidet endgültig.
+<sup>1</sup> Der Auftraggeber schätzt den voraussichtlichen Auftrags-
 
-<sup>1bis</sup> Als durch Beschwerde selbstständig anfechtbare Verfügungen gelten:
+wert.
 
-- a. die Ausschreibung des Auftrags,
+<sup>2</sup> Ein öffentlicher Auftrag darf nicht aufgeteilt werden, um Bestimmungen dieser Vereinbarung zu umgehen.
 
-- b. der Entscheid über Aufnahmen einer Anbieterin oder eines Anbieters in eine ständige Liste gemäss Art. 13 lit. e,
+<sup>3</sup> Für die Schätzung des Auftragswerts ist die Gesamtheit der auszuschreibenden Leistungen oder Entgelte, soweit sie sachlich oder rechtlich eng zusammenhängen, zu berücksichtigen. Alle Bestandteile der Entgelte sind einzurechnen, einschliesslich Verlängerungsoptionen und Optionen auf Folgeaufträge sowie sämtliche zu erwartenden Prämien, Gebühren, Kommissionen und Zinsen, ohne die Mehrwertsteuer.
 
-- c. der Entscheid über Auswahl der Teilnehmerinnen und Teilnehmer im selektiven Verfahren,
+<sup>4</sup> Bei Verträgen mit bestimmter Laufzeit errechnet sich der Auftragswert anhand der kumulierten Entgelte über die bestimmte Laufzeit, einschliesslich allfälliger Verlängerungsoptionen. Die bestimmte Laufzeit darf in der Regel 5 Jahre nicht übersteigen. In begründeten Fällen kann eine längere Laufzeit vorgesehen werden.
 
-- d. der Ausschluss aus dem Verfahren,
+<sup>5</sup> Bei Verträgen mit unbestimmter Laufzeit errechnet sich der Auftragswert anhand des monatlichen Entgelts multipliziert mit 48.
 
-- e. der Zuschlag, dessen Widerruf oder der Abbruch des Vergabeverfahrens.
+<sup>6</sup> Bei Verträgen über wiederkehrend benötigte Leistungen errechnet sich der Auftragswert aufgrund des geleisteten Entgelts für solche Leistungen während der letzten 12 Monate oder, bei einer Erstbeauftragung, anhand des geschätzten Bedarfs über die nächsten 12 Monate.
 
-<sup>2</sup> Beschwerden sind schriftlich und begründet innert zehn Tagen seit Eröffnung der Verfügungen einzureichen.
-
-<sup>2bis</sup> Es gelten keine Gerichtsferien.
-
-<sup>3</sup> Fehlen kantonale Ausführungsbestimmungen, ist das Bundesgericht für Beschwerden, welche die Anwendung dieser Vereinbarung betreffen, zuständig.
+### 4. Kapitel: Vergabeverfahren
 
 #### Art. 16
 
-**Beschwerdegründe**
+**Schwellenwerte**
 
-<sup>1</sup> Mit der Beschwerde können gerügt werden:
+<sup>1</sup> Die Wahl des Verfahrens richtet sich danach, ob ein Auf-
 
-- a. Rechtsverletzungen, einschliesslich Überschreitung oder Missbrauch des Ermessens,
+trag einen Schwellenwert nach den Anhängen 1 und 2 erreicht. Das InöB passt die Schwellenwerte nach Konsultation des Bundesrates periodisch gemäss den internationalen Verpflichtungen an.
 
-- b. unrichtige oder unvollständige Feststellung des rechtserheblichen Sachverhaltes.
+<sup>2</sup> Bei einer Anpassung der internationalen Verpflichtungen hinsichtlich der Schwellenwerte garantiert der Bund den Kantonen die Mitwirkung.
 
-<sup>2</sup> Unangemessenheit kann nicht geltend gemacht werden.
+<sup>3</sup> Erreicht der Gesamtwert mehrerer Bauleistungen für die Realisierung eines Bauwerks den Schwellenwert des Staatsvertragsbereichs, so finden die Bestimmungen dieser Vereinbarung für Beschaffungen im Staatsvertragsbereich Anwendung. Erreichen jedoch die Werte der einzelnen Leistungen nicht zwei Millionen Franken und überschreitet der Wert dieser Leistungen zusammengerechnet nicht 20 Prozent des Gesamtwerts des Bauwerks, so finden für diese Leistungen die Bestimmungen für Beschaffungen ausserhalb des Staatsvertragsbereichs Anwendung (Bagatellklausel).
 
-<sup>3</sup> Fehlen kantonale Ausführungsbestimmungen, können die Bestimmungen dieser Vereinbarung direkt geltend gemacht werden.
+**11**
+
+- 1\. 4. 26 - 132
+
+<sup>4</sup> Ausserhalb des Staatsvertragsbereichs wird das massgebliche Verfahren für Bauleistungen anhand des Wertes der einzelnen Leistungen bestimmt.
 
 #### Art. 17
+
+**Verfahrensarten**
+
+In Abhängigkeit vom Auftragswert und der Schwellenwerte werden öffentliche Aufträge nach Wahl des Auftraggebers entweder im offenen Verfahren, im selektiven Verfahren, im Einladungsverfahren oder im freihändigen Verfahren vergeben.
+
+#### Art. 18
+
+**Offenes Verfahren**
+
+<sup>1</sup> Im offenen Verfahren schreibt der Auftraggeber den Auf-
+
+trag öffentlich aus.
+
+<sup>2</sup> Alle Anbieter können ein Angebot einreichen.
+
+#### Art. 19
+
+**Selektives Verfahren**
+
+<sup>1</sup> Im selektiven Verfahren schreibt der Auftraggeber den
+
+Auftrag öffentlich aus und fordert die Anbieter auf, vorerst einen Antrag auf Teilnahme zu stellen.
+
+<sup>2</sup> Der Auftraggeber wählt die Anbieter, die ein Angebot einreichen dürfen, aufgrund ihrer Eignung aus.
+
+<sup>3</sup> Der Auftraggeber kann die Zahl der zum Angebot zugelassenen Anbieter so weit beschränken, als ein wirksamer Wettbewerb gewährleistet bleibt. Es werden wenn möglich mindestens drei Anbieter zum Angebot zugelassen.
+
+#### Art. 20
+
+**Einladungsverfahren**
+
+<sup>1</sup> Das Einladungsverfahren findet Anwendung für öffent-
+
+liche Aufträge ausserhalb des Staatsvertragsbereichs nach Massgabe der Schwellenwerte von Anhang 2.
+
+<sup>2</sup> Im Einladungsverfahren bestimmt der Auftraggeber, welche Anbieter er ohne öffentliche Ausschreibung zur Angebotsabgabe einladen will. Zu diesem Zweck erstellt er Ausschreibungsunterlagen. Es werden wenn möglich mindestens drei Angebote eingeholt.
+
+#### Art. 21
+
+**Freihändiges Verfahren**
+
+<sup>1</sup> Im freihändigen Verfahren vergibt der Auftraggeber einen
+
+öffentlichen Auftrag direkt ohne Ausschreibung. Der Auftraggeber ist berechtigt, Vergleichsofferten einzuholen und Verhandlungen durchzuführen.
+
+<sup>2</sup> Der Auftraggeber kann einen Auftrag unabhängig vom Schwellenwert freihändig vergeben, wenn eine der nachstehenden Voraussetzungen erfüllt ist:
+
+- a) es gehen im offenen Verfahren, im selektiven Verfahren oder im Einladungsverfahren keine Angebote oder keine Teilnahmeanträge ein, kein Angebot entspricht den wesentlichen Anforderungen der Ausschreibung oder den technischen Spezifikationen oder es erfüllt kein Anbieter die Eignungskriterien;
+
+- b) es bestehen hinreichende Anhaltspunkte, dass alle im offenen Verfahren, im selektiven Verfahren oder im Einladungsverfahren eingegangenen Angebote auf einer unzulässigen Wettbewerbsabrede beruhen;
+
+- c) aufgrund der technischen oder künstlerischen Besonderheiten des Auftrags oder aus Gründen des Schutzes geistigen Eigentums kommt nur ein Anbieter in Frage, und es gibt keine angemessene Alternative;
+
+- d) aufgrund unvorhersehbarer Ereignisse wird die Beschaffung so dringlich, dass selbst mit verkürzten Fristen kein offenes oder selektives Verfahren und kein Einladungsverfahren durchgeführt werden kann;
+
+- e) ein Wechsel des Anbieters für Leistungen zur Ersetzung, Ergänzung oder Erweiterung bereits erbrachter Leistungen ist aus wirtschaftlichen oder technischen Gründen nicht möglich, würde erhebliche Schwierigkeiten bereiten oder substanzielle Mehrkosten mit sich bringen;
+
+- f) der Auftraggeber beschafft Erstanfertigungen (Prototypen) oder neuartige Leistungen, die auf sein Verlangen im Rahmen eines Forschungs-, Versuchs, Studien- oder Neuentwicklungsauftrags hergestellt oder entwickelt werden;
+
+- g) der Auftraggeber beschafft Leistungen an Warenbörsen;
+
+- h) der Auftraggeber kann Leistungen im Rahmen einer günstigen, zeitlich befristeten Gelegenheit zu einem Preis beschaffen, der erheblich unter den üblichen Preisen liegt (insbesondere bei Liquidationsverkäufen);
+
+- i) der Auftraggeber vergibt den Folgeauftrag an den Gewinner eines Planungs- oder Gesamtleistungswettbewerbs oder eines Auswahlverfahrens zu Planungs- oder Gesamtleistungsstudien; dabei müssen die folgenden Voraussetzungen erfüllt sein:
+
+- 1\. das vorausgehende Verfahren wurde in Übereinstimmung mit den Grundsätzen der Vereinbarung durchgeführt;
+
+- 2\. die Lösungsvorschläge wurden von einem unabhängigen Expertengremium beurteilt;
+
+- 3\. der Auftraggeber hat sich in der Ausschreibung vorbehalten, den Folgeauftrag oder die Koordination freihändig zu vergeben.
+
+<sup>3</sup> Der Auftraggeber erstellt über jeden nach Massgabe von Absatz 2 vergebenen Auftrag eine Dokumentation mit folgendem Inhalt:
+
+- a) Name des Auftraggebers und des berücksichtigten Anbieters;
+
+- b) Art und Wert der beschafften Leistung;
+
+**13**
+
+- 1\. 4. 26 - 132
+
+- c) Erklärung der Umstände und Bedingungen, welche die Anwendung des freihändigen Verfahrens rechtfertigen.
+
+#### Art. 22
+
+**Wettbewerbe sowie Studienaufträge**
+
+Der Auftraggeber, der einen Planungs- oder Gesamtleistungswettbewerb veranstaltet oder Studienaufträge erteilt, regelt im Rahmen der Grundsätze dieser Vereinbarung das Verfahren im Einzelfall. Er kann auf einschlägige Bestimmungen von Fachverbänden verweisen.
+
+#### Art. 23
+
+**Elektronische Auktionen**
+
+<sup>1</sup> Der Auftraggeber kann für die Beschaffung standardi-
+
+sierter Leistungen im Rahmen eines Verfahrens nach dieser Vereinbarung eine elektronische Auktion durchführen. Dabei werden die Angebote nach einer ersten vollständigen Bewertung überarbeitet und mittels elektronischer Hilfsmittel und allenfalls mehrfacher Durchgänge neu geordnet. In der Ausschreibung ist darauf hinzuweisen.
+
+<sup>2</sup> Die elektronische Auktion erstreckt sich:
+
+- a) auf die Preise, wenn der Zuschlag für den niedrigsten Gesamtpreis erteilt wird; oder
+
+- b) auf die Preise und die Werte für quantifizierbare Komponenten wie Gewicht, Reinheit oder Qualität, wenn der Zuschlag für das vorteilhafteste Angebot erteilt wird.
+
+<sup>3</sup> Der Auftraggeber prüft, ob die Anbieter die Eignungskriterien und ob die Angebote die technischen Spezifikationen erfüllen. Er nimmt anhand der Zuschlagskriterien und der dafür festgelegten Gewichtung eine erste Bewertung der Angebote vor. Vor Beginn der Auktion stellt er jedem Anbieter zur Verfügung:
+
+- a) die automatische Bewertungsmethode, einschliesslich der auf den genannten Zuschlagskriterien beruhenden mathematischen Formel;
+
+- b) das Ergebnis der ersten Bewertung seines Angebots; und
+
+- c) alle weiteren relevanten Informationen zur Abwicklung der Auktion.
+
+<sup>4</sup> Alle zugelassenen Anbieter werden gleichzeitig und auf elektronischem Weg aufgefordert, neue beziehungsweise angepasste Angebote einzureichen. Der Auftraggeber kann die Zahl der zugelassenen Anbieter beschränken, sofern er dies in der Ausschreibung oder in den Ausschreibungsunterlagen bekannt gegeben hat.
+
+<sup>5</sup> Die elektronische Auktion kann mehrere aufeinander folgende Durchgänge umfassen. Der Auftraggeber informiert alle Anbieter in jedem Durchgang über ihren jeweiligen Rang.
+
+#### Art. 24
+
+**Dialog**
+
+<sup>1</sup> Bei komplexen Aufträgen, bei intellektuellen Dienstleis-
+
+tungen oder bei der Beschaffung innovativer Leistungen kann ein Auftraggeber im Rahmen eines offenen oder selektiven Verfahrens einen Dialog durchführen mit dem Ziel, den Leistungsgegenstand zu konkretisieren sowie die Lösungswege oder Vorgehensweisen zu ermitteln und festzulegen. Auf den Dialog ist in der Ausschreibung hinzuweisen.
+
+<sup>2</sup> Der Dialog darf nicht zum Zweck geführt werden, Preise und Gesamtpreise zu verhandeln.
+
+<sup>3</sup> Der Auftraggeber formuliert und erläutert seine Bedürfnisse und Anforderungen in der Ausschreibung oder in den Ausschreibungsunterlagen. Er gibt ausserdem bekannt:
+
+- a) den Ablauf des Dialogs;
+
+- b) die möglichen Inhalte des Dialogs;
+
+- c) ob und wie die Teilnahme am Dialog und die Nutzung der Immaterialgüterrechte sowie der Kenntnisse und Erfahrungen des Anbieters entschädigt werden;
+
+- d) die Fristen und Modalitäten zur Einreichung des endgültigen Angebots.
+
+<sup>4</sup> Der Auftraggeber kann die Zahl der teilnehmenden Anbieter nach sachlichen und transparenten Kriterien reduzieren.
+
+<sup>5</sup> Er dokumentiert den Ablauf und den Inhalt des Dialogs in geeigneter und nachvollziehbarer Weise.
+
+#### Art. 25
+
+**Rahmenverträge**
+
+<sup>1</sup> Der Auftraggeber kann Vereinbarungen mit einem oder
+
+mehreren Anbietern ausschreiben, die zum Ziel haben, die Bedingungen für die Leistungen, die im Laufe eines bestimmten Zeitraums bezogen werden sollen, festzulegen, insbesondere in Bezug auf deren Preis und gegebenenfalls die in Aussicht genommenen Mengen. Gestützt auf einen solchen Rahmenvertrag kann der Auftraggeber während dessen Laufzeit Einzelverträge abschliessen.
+
+<sup>2</sup> Rahmenverträge dürfen nicht mit der Absicht oder der Wirkung verwendet werden, den Wettbewerb zu behindern oder zu beseitigen.
+
+<sup>3</sup> Die Laufzeit eines Rahmenvertrags beträgt höchstens fünf Jahre. Eine automatische Verlängerung ist nicht möglich. In begründeten Fällen kann eine längere Laufzeit vorgesehen werden.
+
+<sup>4</sup> Wird ein Rahmenvertrag mit nur einem Anbieter abgeschlossen, so werden die auf diesem Rahmenvertrag beruhenden Einzelverträge entsprechend den Bedingungen des Rahmenvertrags abgeschlossen. Für den Abschluss der Einzelverträge kann der Auftraggeber den jeweiligen Vertragspartner schriftlich auffordern, sein Angebot zu vervollständigen.
+
+**15**
+
+- 1\. 4. 26 - 132
+
+<sup>5</sup> Werden aus zureichenden Gründen Rahmenverträge mit mehreren Anbietern abgeschlossen, so erfolgt der Abschluss von Einzelverträgen nach Wahl des Auftraggebers entweder nach den Bedingungen des jeweiligen Rahmenvertrags ohne erneuten Aufruf zur Angebotseinreichung oder nach folgendem Verfahren:
+
+- a) vor Abschluss jedes Einzelvertrags konsultiert der Auftraggeber schriftlich die Vertragspartner und teilt ihnen den konkreten Bedarf mit;
+
+- b) der Auftraggeber setzt den Vertragspartnern eine angemessene Frist für die Abgabe der Angebote für jeden Einzelvertrag;
+
+- c) die Angebote sind schriftlich einzureichen und während der Dauer, die in der Anfrage genannt ist, verbindlich;
+
+- d) der Auftraggeber schliesst den Einzelvertrag mit demjenigen Vertragspartner ab, der gestützt auf die in den Ausschreibungsunterlagen oder im Rahmenvertrag definierten Kriterien das beste Angebot unterbreitet.
+
+### 5. Kapitel: Vergabeanforderungen
+
+#### Art. 26
+
+**Teilnahmebedingungen**
+
+<sup>1</sup> Der Auftraggeber stellt im Rahmen des Vergabeverfah-
+
+rens und bei der Erbringung der zugeschlagenen Leistungen sicher, dass der Anbieter und seine Subunternehmer die Teilnahmebedingungen, namentlich die Voraussetzungen nach Artikel 12, erfüllen, die fälligen Steuern und Sozialversicherungsbeiträge bezahlt haben und auf unzulässige Wettbewerbsabreden verzichten.
+
+<sup>2</sup> Er kann vom Anbieter verlangen, dass dieser die Einhaltung der Teilnahmebedingungen insbesondere mit einer Selbstdeklaration oder der Aufnahme in ein Verzeichnis nachweist.
+
+<sup>3</sup> Er gibt in der Ausschreibung oder in den Ausschreibungsunterlagen bekannt, zu welchem Zeitpunkt welche Nachweise einzureichen sind.
+
+#### Art. 27
+
+**Eignungskriterien**
+
+<sup>1</sup> Der Auftraggeber legt in der Ausschreibung oder in den
+
+Ausschreibungsunterlagen die Kriterien zur Eignung des Anbieters abschliessend fest. Die Kriterien müssen im Hinblick auf das Beschaffungsvorhaben objektiv erforderlich und überprüfbar sein.
+
+<sup>2</sup> Die Eignungskriterien können insbesondere die fachliche, finanzielle, wirtschaftliche, technische und organisatorische Leistungsfähigkeit sowie die Erfahrung des Anbieters betreffen.
+
+<sup>3</sup> Der Auftraggeber gibt in der Ausschreibung oder in den Ausschreibungsunterlagen bekannt, zu welchem Zeitpunkt welche Nachweise einzureichen sind.
+
+<sup>4</sup> Er darf nicht zur Bedingung machen, dass der Anbieter bereits einen oder mehrere öffentliche Aufträge eines dieser Vereinbarung unterstellten Auftraggebers erhalten hat.
+
+#### Art. 28
+
+**Verzeichnisse**
+
+<sup>1</sup> Der Auftraggeber oder die nach gesetzlicher Anordnung
+
+zuständige Behörde kann ein Verzeichnis der Anbieter führen, die aufgrund ihrer Eignung die Voraussetzungen zur Übernahme öffentlicher Aufträge erfüllen.
+
+<sup>2</sup> Folgende Angaben sind auf der Internetplattform von Bund und Kantonen zu veröffentlichen:
+
+- a) Fundstelle des Verzeichnisses;
+
+- b) Informationen über die zu erfüllenden Kriterien;
+
+- c) Prüfungsmethoden und Eintragungsbedingungen;
+
+- d) Dauer der Gültigkeit und Verfahren zur Erneuerung des Eintrags.
+
+<sup>3</sup> Ein transparentes Verfahren muss sicherstellen, dass die Gesuchseinreichung, die Prüfung oder die Nachprüfung der Eignung sowie die Eintragung eines Gesuchstellers in das Verzeichnis oder deren Streichung aus dem Verzeichnis jederzeit möglich sind.
+
+<sup>4</sup> In einem konkreten Beschaffungsvorhaben sind auch Anbieter zugelassen, die nicht in einem Verzeichnis aufgeführt sind, sofern sie den Eignungsnachweis erbringen.
+
+<sup>5</sup> Wird das Verzeichnis aufgehoben, so werden die darin aufgeführten Anbieter informiert.
+
+#### Art. 29
+
+**Zuschlagskriterien**
+
+<sup>1</sup> Der Auftraggeber prüft die Angebote anhand leistungs-
+
+bezogener Zuschlagskriterien. Neben dem Preis und der Qualität einer Leistung kann er insbesondere Kriterien wie Zweckmässigkeit, Termine, technischer Wert, Wirtschaftlichkeit, Lebenszykluskosten, Ästhetik, Nachhaltigkeit, Plausibilität des Angebots, Kreativität, Kundendienst, Lieferbedingungen, Infrastruktur, Innovationsgehalt, Funktionalität, Servicebereitschaft, Fachkompetenz oder Effizienz der Methodik berücksichtigen.
+
+<sup>2</sup> Ausserhalb des Staatsvertragsbereichs kann der Auftraggeber ergänzend berücksichtigen, inwieweit der Anbieter Ausbildungsplätze für Lernende in der beruflichen Grundbildung, Arbeitsplätze für ältere Arbeitnehmende oder eine Wiedereingliederung für Langzeitarbeitslose anbietet.
+
+**17**
+
+- 1\. 4. 26 - 132
+
+<sup>3</sup> Der Auftraggeber gibt die Zuschlagskriterien und ihre Gewichtung in der Ausschreibung oder in den Ausschreibungsunterlagen bekannt. Sind Lösungen, Lösungswege oder Vorgehensweisen Gegenstand der Beschaffung, so kann auf eine Bekanntgabe der Gewichtung verzichtet werden.
+
+<sup>4</sup> Für standardisierte Leistungen kann der Zuschlag ausschliesslich nach dem Kriterium des niedrigsten Preises erfolgen.
+
+#### Art. 30
+
+**Technische Spezifikationen**
+
+<sup>1</sup> Der Auftraggeber bezeichnet in der Ausschreibung oder
+
+in den Ausschreibungsunterlagen die erforderlichen technischen Spezifikationen. Diese legen die Merkmale des Beschaffungsgegenstands wie Funktion, Leistung, Qualität, Sicherheit und Abmessungen oder Produktionsverfahren fest und regeln die Anforderungen an Kennzeichnung und Verpackung.
+
+<sup>2</sup> Bei der Festlegung der technischen Spezifikationen stützt sich der Auftraggeber, soweit möglich und angemessen, auf internationale Normen, ansonsten auf in der Schweiz verwendete technische Vorschriften, anerkannte nationale Normen oder Branchenempfehlungen.
+
+<sup>3</sup> Bestimmte Firmen oder Marken, Patente, Urheberrechte, Designs oder Typen sowie der Hinweis auf einen bestimmten Ursprung oder bestimmte Produzenten sind als technische Spezifikationen nicht zulässig, es sei denn, dass es keine andere hinreichend genaue oder verständliche Art und Weise der Leistungsbeschreibung gibt und der Auftraggeber in diesem Fall in die Ausschreibungsunterlagen die Worte «oder gleichwertig» aufnimmt. Die Gleichwertigkeit ist durch den Anbieter nachzuweisen.
+
+<sup>4</sup> Der Auftraggeber kann technische Spezifikationen zur Erhaltung der natürlichen Ressourcen oder zum Schutz der Umwelt vorsehen.
+
+#### Art. 31
+
+**Bietergemeinschaften und Subunternehmer**
+
+<sup>1</sup> Bietergemeinschaften und Subunternehmer sind zuge-
+
+lassen, soweit der Auftraggeber dies in der Ausschreibung oder in den Ausschreibungsunterlagen nicht ausschliesst oder beschränkt.
+
+<sup>2</sup> Mehrfachbewerbungen von Subunternehmern oder von Anbietern im Rahmen von Bietergemeinschaften sind nur möglich, wenn sie in der Ausschreibung oder in den Ausschreibungsunterlagen ausdrücklich zugelassen werden.
+
+<sup>3</sup> Die charakteristische Leistung ist grundsätzlich vom Anbieter zu erbringen.
+
+#### Art. 32
+
+**Lose und Teilleistungen**
+
+<sup>1</sup> Der Anbieter hat ein Gesamtangebot für den Beschaf-
+
+fungsgegenstand einzureichen.
+
+<sup>2</sup> Der Auftraggeber kann den Beschaffungsgegenstand in Lose aufteilen und an einen oder mehrere Anbieter vergeben.
+
+<sup>3</sup> Hat der Auftraggeber Lose gebildet, so können die Anbieter ein Angebot für mehrere Lose einreichen, es sei denn, der Auftraggeber habe dies in der Ausschreibung abweichend geregelt. Er kann festlegen, dass ein einzelner Anbieter nur eine beschränkte Anzahl Lose erhalten kann.
+
+<sup>4</sup> Behält sich der Auftraggeber vor, von den Anbietern eine Zusammenarbeit mit Dritten zu verlangen, so kündigt er dies in der Ausschreibung an.
+
+<sup>5</sup> Der Auftraggeber kann sich in der Ausschreibung vorbehalten, Teilleistungen zuzuschlagen.
+
+#### Art. 33
+
+**Varianten**
+
+<sup>1</sup> Den Anbietern steht es frei, zusätzlich zum Angebot der
+
+in der Ausschreibung beschriebenen Leistung Varianten vorzuschlagen. Der Auftraggeber kann diese Möglichkeit in der Ausschreibung beschränken oder ausschliessen.
+
+<sup>2</sup> Als Variante gilt jedes Angebot, mit dem das Ziel der Beschaffung auf andere Art als vom Auftraggeber vorgesehen erreicht werden kann.
+
+#### Art. 34
+
+**Formerfordernisse**
+
+<sup>1</sup> Angebote und Anträge auf Teilnahme müssen schriftlich,
+
+vollständig und fristgerecht gemäss den Angaben in der Ausschreibung oder in den Ausschreibungsunterlagen eingereicht werden.
+
+<sup>2</sup> Sie können elektronisch eingereicht werden, wenn dies in der Ausschreibung oder in den Ausschreibungsunterlagen vorgesehen ist und die seitens des Auftraggebers definierten Anforderungen eingehalten werden.
+
+### 6. Kapitel: Ablauf des Vergabeverfahrens
+
+#### Art. 35
+
+**Inhalt der Ausschreibung**
+
+Die Veröffentlichung einer Ausschreibung enthält mindestens folgende Informationen:
+
+- a) Name und Adresse des Auftraggebers;
+
+- b) Auftrags- und Verfahrensart sowie die einschlägige CPV-Klassifikation[^35-1], bei Dienstleistungen zusätzlich die einschlägige CPC-Klassifikation[^35-2];
+
+- c) Beschreibung der Leistungen, einschliesslich der Art und Menge, oder wenn die Menge unbekannt ist, eine diesbezügliche Schätzung, sowie allfällige Optionen;
+
+- d) Ort und Zeitpunkt der Leistungserbringung;
+
+- e) gegebenenfalls eine Aufteilung in Lose, eine Beschränkung der Anzahl Lose und eine Zulassung von Teilangeboten;
+
+- f) gegebenenfalls eine Beschränkung oder einen Ausschluss von Bietergemeinschaften und Subunternehmern;
+
+- g) gegebenenfalls eine Beschränkung oder einen Ausschluss von Varianten;
+
+- h) bei wiederkehrend benötigten Leistungen wenn möglich eine Angabe des Zeitpunktes der nachfolgenden Ausschreibung und gegebenenfalls einen Hinweis, dass die Angebotsfrist verkürzt wird;
+
+- i) gegebenenfalls einen Hinweis, dass eine elektronische Auktion stattfindet;
+
+- j) gegebenenfalls die Absicht, einen Dialog durchzuführen;
+
+- k) die Frist zur Einreichung von Angeboten oder Teilnahmeanträgen;
+
+- l) Formerfordernisse zur Einreichung von Angeboten oder Teilnahmeanträgen, gegebenenfalls die Auflage, dass Leistung und Preis in zwei separaten Couverts anzubieten sind;
+
+- m) Sprache oder Sprachen des Verfahrens und des Angebots;
+
+- n) die Eignungskriterien und die geforderten Nachweise;
+
+- o) bei einem selektiven Verfahren gegebenenfalls die Höchstzahl der Anbieter, die zur Offertstellung eingeladen werden;
+
+- p) die Zuschlagskriterien sowie deren Gewichtung, sofern diese Angaben nicht in den Ausschreibungsunterlagen enthalten sind;
+
+- q) gegebenenfalls den Vorbehalt, Teilleistungen zuzuschlagen;
+
+- r) die Gültigkeitsdauer der Angebote;
+
+- s) die Bezugsquelle für die Ausschreibungsunterlagen sowie gegebenenfalls eine kostendeckende Gebühr;
+
+- t) einen Hinweis, ob die Beschaffung in den Staatsvertragsbereich fällt;
+
+- u) gegebenenfalls zum Verfahren zugelassene, vorbefasste Anbieter;
+
+- v) eine Rechtsmittelbelehrung.
+
+[^35-1]: CPV = «Common Procurement Vocabulary» (Gemeinsames Vokabular für öffentliche Aufträge der Europäischen Union).
+[^35-2]: CPC = «Central Product Classification» (Zentrale Gütersystematik der Vereinten Nationen). 1. 4. 26 - 132 19
+
+#### Art. 36
+
+**Inhalt der Ausschreibungsunterlagen**
+
+Soweit diese Angaben nicht bereits in der Ausschreibung enthalten sind, geben die Ausschreibungsunterlagen Aufschluss über:
+
+- a) Name und Adresse des Auftraggebers;
+
+- b) den Gegenstand der Beschaffung, einschliesslich technischer Spezifikationen und Konformitätsbescheinigungen, Pläne, Zeichnungen und notwendiger Instruktionen sowie Angaben zur nachgefragten Menge;
+
+- c) Formerfordernisse und Teilnahmebedingungen für die Anbieter, einschliesslich einer Liste mit Angaben und Unterlagen, welche die Anbieter im Zusammenhang mit den Teilnahmebedingungen einreichen müssen, sowie eine allfällige Gewichtung der Eignungskriterien;
+
+- d) die Zuschlagskriterien sowie deren Gewichtung;
+
+- e) wenn der Auftraggeber die Beschaffung elektronisch abwickelt: allfällige Anforderungen an die Authentifizierung und Verschlüsselung bei der elektronischen Einreichung von Informationen;
+
+- f) wenn der Auftraggeber eine elektronische Auktion vorsieht: die Regeln, nach denen die Auktion durchgeführt wird, einschliesslich der Bezeichnung jener Angebotselemente, die angepasst werden können und anhand der Zuschlagskriterien bewertet werden;
+
+- g) das Datum, die Uhrzeit und den Ort für die Öffnung der Angebote, falls die Angebote öffentlich geöffnet werden;
+
+- h) alle anderen für die Erstellung der Angebote erforderlichen Modalitäten und Bedingungen, insbesondere die Angabe, in welcher Währung (in der Regel Schweizerfranken) das Angebot einzureichen ist;
+
+- i) Termine für die Erbringung der Leistungen.
+
+#### Art. 37
+
+**Angebotsöffnung**
+
+<sup>1</sup> Im offenen und im selektiven Verfahren sowie im Einla-
+
+dungsverfahren werden alle fristgerecht eingereichten Angebote durch mindestens zwei Vertreter des Auftraggebers geöffnet.
+
+<sup>2</sup> Über die Öffnung der Angebote wird ein Protokoll erstellt. Darin sind mindestens die Namen der anwesenden Personen, die Namen der Anbieter, das Datum der Einreichung ihrer Angebote, allfällige Angebotsvarianten sowie die jeweiligen Gesamtpreise der Angebote festzuhalten.
+
+<sup>3</sup> Sind Leistung und Preis in separaten Couverts anzubieten, so ist für die Öffnung der Couverts nach den Absätzen 1 und 2 vorzugehen, wobei im Protokoll über die Öffnung der zweiten Couverts nur die Gesamtpreise festzuhalten sind.
+
+<sup>4</sup> Allen Anbietern wird spätestens nach dem Zuschlag auf Verlangen Einsicht in das Protokoll gewährt.
+
+#### Art. 38
+
+**Prüfung der Angebote**
+
+<sup>1</sup> Der Auftraggeber prüft die eingegangenen Angebote auf
+
+die Einhaltung der Formerfordernisse. Offensichtliche Rechenfehler werden von Amtes wegen berichtigt.
+
+**21**
+
+- 1\. 4. 26 - 132
+
+<sup>2</sup> Der Auftraggeber kann von den Anbietern verlangen, dass sie ihre Angebote erläutern. Er hält die Anfrage sowie die Antworten schriftlich fest.
+
+<sup>3</sup> Geht ein Angebot ein, dessen Preis im Vergleich zu den anderen Angeboten ungewöhnlich niedrig erscheint, so muss der Auftraggeber beim Anbieter zweckdienliche Erkundigungen darüber einholen, ob die Teilnahmebedingungen eingehalten sind und die weiteren Anforderungen der Ausschreibung verstanden wurden.
+
+<sup>4</sup> Sind Leistung und Preis in separaten Couverts anzubieten, so erstellt der Auftraggeber in einem ersten Schritt eine Rangliste entsprechend der Qualität der Angebote. In einem zweiten Schritt bewertet er die Gesamtpreise.
+
+#### Art. 39
+
+**Bereinigung der Angebote**
+
+<sup>1</sup> Der Auftraggeber kann mit den Anbietern die Angebote
+
+hinsichtlich der Leistungen sowie der Modalitäten ihrer Erbringung bereinigen, um das vorteilhafteste Angebot zu ermitteln.
+
+<sup>2</sup> Eine Bereinigung findet nur dann statt, wenn:
+
+- a) erst dadurch der Auftrag oder die Angebote geklärt oder die Angebote nach Massgabe der Zuschlagskriterien objektiv vergleichbar gemacht werden können; oder
+
+- b) Leistungsänderungen objektiv und sachlich geboten sind, wobei der Leistungsgegenstand, die Kriterien und Spezifikationen nicht in einer Weise angepasst werden dürfen, dass sich die charakteristische Leistung oder der potentielle Anbieterkreis verändert.
+
+<sup>3</sup> Eine Aufforderung zur Preisanpassung ist nur im Zusammenhang mit den Tatbeständen von Absatz 2 zulässig.
+
+<sup>4</sup> Der Auftraggeber hält die Resultate der Bereinigung in einem Protokoll fest.
+
+#### Art. 40
+
+**Bewertung der Angebote**
+
+<sup>1</sup> Sofern die Eignungskriterien und die technischen Spe-
+
+zifikationen erfüllt sind, werden die Angebote nach Massgabe der Zuschlagskriterien objektiv, einheitlich und nachvollziehbar geprüft und bewertet. Der Auftraggeber dokumentiert die Evaluation.
+
+<sup>2</sup> Erfordert die umfassende Prüfung und Bewertung der Angebote einen erheblichen Aufwand und hat der Auftraggeber dies in der Ausschreibung angekündigt, so kann er alle Angebote auf der Grundlage der eingereichten Unterlagen einer ersten Prüfung unterziehen und rangieren. Auf dieser Grundlage wählt er nach Möglichkeit die drei bestrangierten Angebote aus und unterzieht sie einer umfassenden Prüfung und Bewertung.
+
+#### Art. 41
+
+**Zuschlag**
+
+Das vorteilhafteste Angebot erhält den Zuschlag.
+
+#### Art. 42
+
+**Vertragsabschluss**
+
+<sup>1</sup> Der Vertrag mit dem berücksichtigten Anbieter darf nach
+
+Ablauf der Frist für die Beschwerde gegen den Zuschlag abgeschlossen werden, es sei denn, das kantonale Verwaltungsgericht habe einer Beschwerde gegen den Zuschlag aufschiebende Wirkung erteilt.
+
+<sup>2</sup> Ist ein Beschwerdeverfahren gegen den Zuschlag hängig, ohne dass die aufschiebende Wirkung verlangt oder gewährt wurde, so teilt der Auftraggeber den Vertragsabschluss umgehend dem Gericht mit.
+
+#### Art. 43
+
+**Abbruch**
+
+<sup>1</sup> Der Auftraggeber kann das Vergabeverfahren abbrechen,
+
+insbesondere wenn:
+
+- a) er von der Vergabe des öffentlichen Auftrags aus zureichenden Gründen absieht;
+
+- b) kein Angebot die technischen Spezifikationen oder die weiteren Anforderungen erfüllt;
+
+- c) aufgrund veränderter Rahmenbedingungen vorteilhaftere Angebote zu erwarten sind;
+
+- d) die eingereichten Angebote keine wirtschaftliche Beschaffung erlauben oder den Kostenrahmen deutlich überschreiten;
+
+- e) hinreichende Anhaltspunkte für eine unzulässige Wettbewerbsabrede unter den Anbietern bestehen;
+
+- f) eine wesentliche Änderung der nachgefragten Leistungen erforderlich wird.
+
+<sup>2</sup> Im Fall eines gerechtfertigten Abbruchs haben die Anbieter keinen Anspruch auf eine Entschädigung.
+
+#### Art. 44
+
+**Ausschluss vom Verfahren und Widerruf des Zuschlags**
+
+<sup>1</sup> Der Auftraggeber kann einen Anbieter von einem Ver-
+
+gabeverfahren ausschliessen, aus einem Verzeichnis streichen oder einen ihm bereits erteilten Zuschlag widerrufen,wenn festgestellt wird, dass auf den betreffenden Anbieter, seine Organe, eine beigezogene Drittperson oder deren Organe einer der folgenden Sachverhalte zutrifft:
+
+- a) sie erfüllen die Voraussetzungen für die Teilnahme am Verfahren nicht oder nicht mehr, oder der rechtskonforme Ablauf des Vergabeverfahrens wird durch ihr Verhalten beeinträchtigt;
+
+- b) die Angebote oder Anträge auf Teilnahme weisen wesentliche Formfehler auf oder weichen wesentlich von den verbindlichen Anforderungen einer Ausschreibung ab;
+
+- c) es liegt eine rechtskräftige Verurteilung wegen eines Vergehens zum Nachteil des jeweiligen Auftraggebers oder wegen eines Verbrechens vor;
+
+- d) sie befinden sich in einem Pfändungs- oder Konkursverfahren;
+
+- e) sie haben Bestimmungen über die Bekämpfung der Korruption verletzt;
+
+**23**
+
+- 1\. 4. 26 - 132
+
+- f) sie widersetzen sich angeordneten Kontrollen;
+
+- g) sie bezahlen fällige Steuern oder Sozialabgaben nicht;
+
+- h) sie haben frühere öffentliche Aufträge mangelhaft erfüllt oder liessen in anderer Weise erkennen, keine verlässlichen und vertrauenswürdigen Vertragspartner zu sein;
+
+- i) sie waren an der Vorbereitung der Beschaffung beteiligt, und der dadurch entstehende Wettbewerbsnachteil der anderen Anbieter kann nicht mit geeigneten Mitteln ausgeglichen werden;
+
+- j) sie wurden nach Artikel 45 Absatz 1 von künftigen öffentlichen Aufträgen rechtskräftig ausgeschlossen.
+
+<sup>2</sup> Der Auftraggeber kann überdies Massnahmen nach Absatz 1 treffen, wenn hinreichende Anhaltspunkte dafür vorliegen, dass auf den Anbieter, seine Organe, einen beigezogenen Dritten oder dessen Organe insbesondere einer der folgenden Sachverhalte zutrifft:
+
+- a) sie haben unwahre oder irreführende Aussagen und Auskünfte gegenüber dem Auftraggeber gemacht;
+
+- b) es wurden unzulässige Wettbewerbsabreden getroffen;
+
+- c) sie reichen ein ungewöhnlich niedriges Angebot ein, ohne auf Aufforderung hin nachzuweisen, dass die Teilnahmebedingungen eingehalten werden, und bieten keine Gewähr für die vertragskonforme Erbringung der ausgeschriebenen Leistungen;
+
+- d) sie haben gegen anerkannte Berufsregeln verstossen oder Handlungen oder Unterlassungen begangen, die ihre berufliche Ehre oder Integrität beeinträchtigen;
+
+- e) sie sind insolvent;
+
+- f) sie missachten die Arbeitsschutzbestimmungen, die Arbeitsbedingungen, die Bestimmungen über die Gleichbehandlung von Frau und Mann in Bezug auf die Lohngleichheit oder die Bestimmungen über die Vertraulichkeit, die Bestimmungen des schweizerischen Umweltrechts oder die vom Bundesrat bezeichneten internationalen Übereinkommen zum Schutz der Umwelt;
+
+- g) sie haben Melde- oder Bewilligungspflichten nach dem BGSA verletzt;
+
+- h) sie verstossen gegen das Bundesgesetz vom 19. Dezember 1986 gegen den unlauteren Wettbewerb<sup>7</sup>.
+
+#### Art. 45
+
+**Sanktionen**
+
+<sup>1</sup> Der Auftraggeber oder die nach gesetzlicher Anordnung
+
+zuständige Behörde kann einen Anbieter oder Subunternehmer, der selber oder durch seine Organe in schwerwiegender Weise einen oder mehrere der Tatbestände von Artikel 44 Absatz 1 Buchstaben c und e sowie Absatz 2 Buchstaben b, f und g erfüllt, von künftigen öffentlichen Aufträgen für die Dauer von bis zu fünf Jahren ausschliessen oder ihm eine Busse von bis zu zehn Prozent der bereinigten Angebotssumme auferlegen. In leichten Fällen kann eine Verwarnung erfolgen.
+
+<sup>2</sup> Diese Sanktionsmöglichkeiten gelten unabhängig von weiteren rechtlichen Schritten gegen den fehlbaren Anbieter, Subunternehmer oder deren Organe. Den Verdacht auf unzulässige Wettbewerbsabreden nach Artikel 44 Absatz 2 Buchstabe b teilt der Auftraggeber oder die nach gesetzlicher Anordnung zuständige Behörde der Wettbewerbskommission mit.
+
+<sup>3</sup> Der Auftraggeber oder die nach gesetzlicher Anordnung zuständige Behörde meldet einen rechtskräftigen Ausschluss nach Absatz 1 dem InöB. Das InöB führt eine nicht öffentliche Liste der sanktionierten Anbieter und Subunternehmer, unter Angabe der Gründe für den Ausschluss sowie der Dauer des Ausschlusses von öffentlichen Aufträgen. Es sorgt dafür, dass jeder Auftraggeber in Bezug auf einen bestimmten Anbieter oder Subunternehmer die entsprechenden Informationen erhalten kann. Es kann zu diesem Zweck ein Abrufverfahren einrichten. Bund und Kantone stellen einander alle nach diesem Artikel erhobenen Informationen zur Verfügung. Nach Ablauf der Sanktion wird der Eintrag aus der Liste gelöscht.
+
+<sup>4</sup> Verstösst ein Auftraggeber gegen diese Vereinbarung, erlässt die nach gesetzlicher Anordnung zuständige Behörde die angemessenen Weisungen und sorgt für deren Einhaltung.
+
+<sup>5</sup> Werden für einen öffentlichen Auftrag finanzielle Beiträge gesprochen, so können diese Beiträge ganz oder teilweise entzogen oder zurückgefordert werden, wenn der Auftraggeber gegen beschaffungsrechtliche Vorgaben verstösst.
+
+### 7. Kapitel: Fristen und Veröffentlichungen, Statistik
+
+#### Art. 46
+
+**Fristen**
+
+<sup>1</sup> Bei der Bestimmung der Fristen für die Einreichung der
+
+Angebote oder Teilnahmeanträge trägt der Auftraggeber der Komplexität des Auftrags, der voraussichtlichen Anzahl von Unteraufträgen sowie den Übermittlungswegen Rechnung.
+
+<sup>2</sup> Im Staatsvertragsbereich gelten folgende Minimalfristen:
+
+- a) im offenen Verfahren: 40 Tage ab Veröffentlichung der Ausschreibung für die Einreichung der Angebote;
+
+- b) im selektiven Verfahren: 25 Tage ab Veröffentlichung der Ausschreibung für die Einreichung der Teilnahmeanträge und 40 Tage ab Einladung zur Angebotserstellung für die Einreichung der Angebote.
+
+**25**
+
+- 1\. 4. 26 - 132
+
+<sup>3</sup> Eine Verlängerung dieser Fristen ist allen Anbietern rechtzeitig anzuzeigen oder zu veröffentlichen.
+
+<sup>4</sup> Ausserhalb des Staatsvertragsbereichs beträgt die Frist für die Einreichung der Angebote in der Regel mindestens 20 Tage. Bei weitgehend standardisierten Leistungen kann die Frist auf nicht weniger als 5 Tage reduziert werden.
+
+#### Art. 47
+
+**Fristverkürzung im Staatsvertragsbereich**
+
+<sup>1</sup> Der Auftraggeber kann die Minimalfristen nach Artikel 46
+
+Absatz 2 in Fällen nachgewiesener Dringlichkeit auf nicht weniger als 10 Tage verkürzen.
+
+<sup>2</sup> Er kann die minimale Angebotsfrist von 40 Tagen nach Artikel 46 Absatz 2 um je 5 Tage kürzen, wenn:
+
+- a) die Ausschreibung elektronisch veröffentlicht wird;
+
+- b) die Ausschreibungsunterlagen zeitgleich elektronisch veröffentlicht werden;
+
+- c) Angebote auf elektronischem Weg entgegengenommen werden.
+
+<sup>3</sup> Er kann die minimale Angebotsfrist von 40 Tagen nach Artikel 46 Absatz 2 auf nicht weniger als 10 Tage verkürzen, sofern er mindestens 40 Tage bis höchstens 12 Monate vor der Veröffentlichung der Ausschreibung eine Vorankündigung mit folgendem Inhalt veröffentlicht hat:
+
+- a) Gegenstand der beabsichtigten Beschaffung;
+
+- b) ungefähre Frist für die Einreichung der Angebote oder Teilnahmeanträge;
+
+- c) Erklärung, dass die interessierten Anbieter dem Auftraggeber ihr Interesse an der Beschaffung mitteilen sollen;
+
+- d) Bezugsquelle für die Ausschreibungsunterlagen;
+
+- e) alle weiteren zu diesem Zeitpunkt bereits verfügbaren Angaben nach Artikel 35.
+
+<sup>4</sup> Er kann die minimale Angebotsfrist von 40 Tagen nach Artikel 46 Absatz 2 auf nicht weniger als 10 Tage verkürzen, wenn er wiederkehrend benötigte Leistungen beschafft und bei einer früheren Ausschreibung auf die Fristverkürzung hingewiesen hat.
+
+<sup>5</sup> Überdies kann der Auftraggeber beim Einkauf gewerblicher Waren oder Dienstleistungen oder einer Kombination der beiden in jedem Fall die Frist zur Angebotseinreichung auf nicht weniger als 13 Tage verkürzen, sofern er die Ausschreibungsunterlagen gleichzeitig mit der Ausschreibung elektronisch veröffentlicht. Nimmt der Auftraggeber Angebote für gewerbliche Waren oder Dienstleistungen elektronisch entgegen, so kann er ausserdem die Frist auf nicht weniger als 10 Tage verkürzen.
+
+#### Art. 48
+
+**Veröffentlichungen**
+
+<sup>1</sup> Im offenen und im selektiven Verfahren veröffentlicht
+
+der Auftraggeber die Vorankündigung, die Ausschreibung, den Zuschlag sowie den Abbruch des Verfahrens auf einer gemeinsam von Bund und Kantonen betriebenen Internetplattform für öffentliche Beschaffungen. Ebenso veröffentlicht er Zuschläge, die im Staatsvertragsbereich freihändig erteilt wurden.
+
+<sup>2</sup> Die Ausschreibungsunterlagen werden in der Regel zeitgleich und elektronisch zur Verfügung gestellt. Der Zugang zu diesen Veröffentlichungen ist unentgeltlich.
+
+<sup>3</sup> Die vom Bund und den Kantonen mit der Entwicklung und dem Betrieb der Internetplattform beauftragte Organisation kann von den Auftraggebern, den Anbietern sowie weiteren Personen, welche die Plattform oder damit verbundene Dienstleistungen nutzen, Entgelte oder Gebühren erheben. Diese bemessen sich nach der Anzahl der Veröffentlichungen beziehungsweise nach dem Umfang der genutzten Leistungen.
+
+<sup>4</sup> Für jeden Auftrag im Staatsvertragsbereich, der nicht in einer Amtssprache der Welthandelsorganisation (WTO) ausgeschrieben wird, veröffentlicht der Auftraggeber zeitgleich mit der Ausschreibung eine Zusammenfassung der Anzeige in einer Amtssprache der WTO. Die Zusammenfassung enthält mindestens:
+
+- a) den Gegenstand der Beschaffung;
+
+- b) die Frist für die Abgabe der Angebote oder Teilnahmeanträge;
+
+- c) die Bezugsquelle für die Ausschreibungsunterlagen.
+
+<sup>5</sup> Ausserhalb des Staatsvertragsbereichs ist auf die sprachlichen Verhältnisse des Gebiets Rücksicht zu nehmen, in welchem der Auftrag zur Ausführung gelangt.
+
+<sup>6</sup> Im Staatsvertragsbereich erteilte Zuschläge sind in der Regel innerhalb von 30 Tagen zu veröffentlichen. Die Mitteilung enthält folgende Angaben:
+
+- a) Art des angewandten Verfahrens;
+
+- b) Gegenstand und Umfang des Auftrags;
+
+- c) Name und Adresse des Auftraggebers;
+
+- d) Datum des Zuschlags;
+
+- e) Name und Adresse des berücksichtigten Anbieters;
+
+- f) Gesamtpreis des berücksichtigten Angebots einschliesslich Mehrwertsteuer.
+
+<sup>7</sup> Die Kantone können zusätzliche Publikationsorgane vorsehen.
+
+**27**
+
+- 1\. 4. 26 - 132
+
+#### Art. 49
+
+**Aufbewahrung der Unterlagen**
+
+<sup>1</sup> Die Auftraggeber bewahren die massgeblichen Unter-
+
+lagen im Zusammenhang mit einem Vergabeverfahren während mindestens drei Jahren ab rechtskräftigem Zuschlag auf.
+
+<sup>2</sup> Zu den aufzubewahrenden Unterlagen gehören:
+
+- a) die Ausschreibung;
+
+- b) die Ausschreibungsunterlagen;
+
+- c) das Protokoll der Angebotsöffnung;
+
+- d) die Korrespondenz über das Vergabeverfahren;
+
+- e) die Bereinigungsprotokolle;
+
+- f) Verfügungen im Rahmen des Vergabeverfahrens;
+
+- g) das berücksichtigte Angebot;
+
+- h) Daten zur Rückverfolgbarkeit der elektronischen Abwicklung einer Beschaffung;
+
+- i) Dokumentationen über im Staatsvertragsbereich freihändig vergebene öffentliche Aufträge.
+
+<sup>3</sup> Alle Unterlagen sind für die Dauer ihrer Aufbewahrung vertraulich zu behandeln, soweit diese Vereinbarung nicht eine Offenlegung vorsieht. Vorbehalten bleibt die Auskunftspflicht, soweit hierfür eine gesetzliche Grundlage besteht.
+
+#### Art. 50
+
+**Statistik**
+
+<sup>1</sup> Die Kantone erstellen innerhalb von 12 Monaten nach
+
+Ablauf jedes Kalenderjahres zuhanden des Staatssekretariats für Wirtschaft (SECO) eine elektronisch geführte Statistik über die Beschaffungen des Vorjahres im Staatsvertragsbereich.
+
+<sup>2</sup> Die Statistiken enthalten mindestens die folgenden Angaben:
+
+- a) Anzahl und Gesamtwert der öffentlichen Aufträge jedes Auftraggebers gegliedert nach Bau-, Liefer- und Dienstleistungsaufträgen unter Angabe der CPC- oder CPV-Klassifikation;
+
+- b) Anzahl und Gesamtwert der öffentlichen Aufträge, die im freihändigen Verfahren vergeben wurden;
+
+- c) wenn keine Daten vorgelegt werden können: Schätzungen zu den Angaben gemäss Buchstaben a und b mit Erläuterungen zur eingesetzten Schätzungsmethode.
+
+<sup>3</sup> Der Gesamtwert ist jeweils einschliesslich Mehrwertsteuer anzugeben.
+
+<sup>4</sup> Die Gesamtstatistik des SECO ist unter Vorbehalt des Datenschutzes und der Wahrung von Geschäftsgeheimnissen öffentlich zugänglich.
+
+### 8. Kapitel: Rechtsschutz
+
+#### Art. 51
+
+**Eröffnung von Verfügungen**
+
+<sup>1</sup> Der Auftraggeber eröffnet Verfügungen durch Veröffent-
+
+lichung oder durch individuelle Zustellung an die Anbieter. Die Anbieter haben vor Eröffnung der Verfügung keinen Anspruch auf rechtliches Gehör.
+
+<sup>2</sup> Beschwerdefähige Verfügungen sind summarisch zu begründen und mit einer Rechtsmittelbelehrung zu versehen.
+
+<sup>3</sup> Die summarische Begründung eines Zuschlags umfasst:
+
+- a) die Art des Verfahrens und den Namen des berücksichtigten Anbieters;
+
+- b) den Gesamtpreis des berücksichtigten Angebots;
+
+- c) die massgebenden Merkmale und Vorteile des berücksichtigten Angebots;
+
+- d. gegebenenfalls eine Darlegung der Gründe für eine freihändige Vergabe.
+
+<sup>4</sup> Der Auftraggeber darf keine Informationen bekanntgeben, wenn dadurch:
+
+- a) gegen geltendes Recht verstossen würde oder öffentliche Interessen verletzt würden;
+
+- b) berechtigte wirtschaftliche Interessen der Anbieter beeinträchtigt würden; oder
+
+- c) der lautere Wettbewerb zwischen den Anbietern gefährdet würde.
+
+#### Art. 52
+
+**Beschwerde**
+
+<sup>1</sup> Gegen Verfügungen der Auftraggeber ist mindestens ab
+
+dem für das Einladungsverfahren massgebenden Auftragswert die Beschwerde an das kantonale Verwaltungsgericht als einzige kantonale Instanz zulässig.
+
+<sup>2</sup> Für Beschwerden gegen Beschaffungen der oberen kantonalen Gerichtsbehörden ist das Bundesgericht direkt zuständig.
+
+<sup>3</sup> Ausländische Anbieter sind bei Aufträgen ausserhalb des Staatsvertragsbereichs zur Beschwerde nur zugelassen, soweit der Staat, in dem sie ihren Sitz haben, Gegenrecht gewährt.
+
+#### Art. 53
+
+**Beschwerdeobjekt**
+
+<sup>1</sup> Durch Beschwerde anfechtbar sind ausschliesslich die
+
+folgenden Verfügungen:
+
+- a) die Ausschreibung des Auftrags;
+
+- b) der Entscheid über die Auswahl der Anbieter im selektiven Verfahren;
+
+- c) der Entscheid über die Aufnahme eines Anbieters in ein Verzeichnis oder über die Streichung eines Anbieters aus einem Verzeichnis;
+
+- d) der Entscheid über Ausstandsbegehren;
+
+**29**
+
+- 1\. 4. 26 - 132
+
+- e) der Zuschlag;
+
+- f) der Widerruf des Zuschlags;
+
+- g) der Abbruch des Verfahrens;
+
+- h) der Ausschluss aus dem Verfahren;
+
+- i) die Verhängung einer Sanktion.
+
+<sup>2</sup> Anordnungen in den Ausschreibungsunterlagen, deren Bedeutung erkennbar ist, müssen zusammen mit der Ausschreibung angefochten werden.
+
+<sup>3</sup> Auf Beschwerden gegen die Verhängung einer Sanktion finden die Bestimmungen dieser Vereinbarung zum rechtlichen Gehör im Verfügungsverfahren, zur aufschiebenden Wirkung und zur Beschränkung der Beschwerdegründe keine Anwendung.
+
+<sup>4</sup> Verfügungen nach Absatz 1 Buchstaben c und i können unabhängig vom Auftragswert durch Beschwerde angefochten werden.
+
+<sup>5</sup> Im Übrigen ist der Rechtsschutz gegen Verfügungen nach dieser Vereinbarung ausgeschlossen.
+
+<sup>6</sup> Die Beschwerde gegen den Abschluss von Einzelverträgen nach Artikel 25 Absätze 4 und 5 ist ausgeschlossen.
+
+#### Art. 54
 
 **Aufschiebende Wirkung**
 
 <sup>1</sup> Die Beschwerde hat keine aufschiebende Wirkung.
 
-**9**
+<sup>2</sup> Das kantonale Verwaltungsgericht kann einer Beschwerde auf Gesuch hin aufschiebende Wirkung gewähren, wenn die Beschwerde als ausreichend begründet erscheint und keine überwiegenden öffentlichen Interessen entgegenstehen. Zur Frage der aufschiebenden Wirkung findet in der Regel nur ein Schriftenwechsel statt.
 
-- 1\. 10. 18 - 102
+<sup>3</sup> Ein rechtsmissbräuchliches oder treuwidriges Gesuch um aufschiebende Wirkung wird nicht geschützt. Schadenersatzansprüche des Auftraggebers und des berücksichtigten Anbieters sind von den Zivilgerichten zu beurteilen.
 
-<sup>2</sup> Die Beschwerdeinstanz kann auf Gesuch oder von Amtes wegen die aufschiebende Wirkung erteilen, wenn die Beschwerde als ausreichend begründet erscheint und keine überwiegenden öffentlichen oder privaten Interessen entgegenstehen.
+#### Art. 55
 
-<sup>3</sup> Wird die aufschiebende Wirkung auf Gesuch der Beschwerdeführerin oder des Beschwerdeführers angeordnet und kann sie zu einem bedeutenden Nachteil führen, kann die Beschwerdeführerin oder der Beschwerdeführer innerhalb nützlicher Frist zur Leistung von Sicherheiten für die Verfahrenskosten und mögliche Parteientschädigungen verpflichtet werden. Wird die Sicherheit nicht fristgerecht geleistet, wird der Entscheid über die aufschiebende Wirkung hinfällig.
+**Anwendbares Recht**
 
-<sup>4</sup> Die Beschwerdeführerin oder der Beschwerdeführer sind verpflichtet, den Schaden zu ersetzen, der aus der aufschiebenden Wirkung entstanden ist, wenn sie absichtlich oder grob fahrlässig gehandelt haben.
+Das Verfügungs- und das Beschwerdeverfahren richten sich nach den Bestimmungen der kantonalen Gesetze über die Verwaltungsrechtspflege, soweit diese Vereinbarung nichts anderes bestimmt.
 
-#### Art. 18
+#### Art. 56
 
-**Entscheid**
+**Beschwerdefrist, Beschwerdegründe und Legitimation**
 
-<sup>1</sup> Ist der Vertrag noch nicht abgeschlossen, kann die Beschwerdeinstanz die Aufhebung der Verfügung beschliessen und in der Sache selbst entscheiden oder sie an die Auftraggeberin oder den Auftraggeber mit oder ohne verbindliche Anordnungen zurückweisen.
+<sup>1</sup> Beschwerden müssen schriftlich und begründet innert
 
-<sup>2</sup> Ist der Vertrag bereits abgeschlossen und erweist sich die Beschwerde als begründet, stellt die Beschwerdeinstanz fest, dass die Verfügung rechtswidrig ist.
+20 Tagen seit Eröffnung der Verfügung eingereicht werden.
 
-### 6. Abschnitt: Überwachung
+<sup>2</sup> Es gelten keine Gerichtsferien.
 
-#### Art. 19
+<sup>3</sup> Mit der Beschwerde können gerügt werden:
 
-**Kontrollen und Sanktionen**
+- a) Rechtsverletzungen, einschliesslich Überschreitung oder Missbrauch des Ermessens; sowie
 
-<sup>1</sup> Die Kantone überwachen die Einhaltung der Vergabebestimmungen vor und nach dem Zuschlag durch die Auftraggeberinnen oder Auftraggeber und die Anbieterinnen und Anbieter.
+- b) die unrichtige oder unvollständige Feststellung des rechtserheblichen Sachverhalts.
 
-<sup>2</sup> Sie sehen Sanktionen für den Fall der Verletzung der Vergabebestimmungen vor.
+<sup>4</sup> Die Angemessenheit einer Verfügung kann im Rahmen eines Beschwerdeverfahrens nicht überprüft werden.
 
-### 7. Abschnitt: Schlussbestimmungen
+<sup>5</sup> Gegen Zuschläge im freihändigen Verfahren kann nur Beschwerde führen, wer nachweist, dass er die nachgefragten Leistungen oder damit substituierbare Leistungen erbringen kann und erbringen will. Es kann nur gerügt werden, das freihändige Verfahren sei zu Unrecht angewandt oder der Zuschlag sei aufgrund von Korruption erteilt worden.
 
-#### Art. 20
+#### Art. 57
 
-**Beitritt und Austritt**
+**Akteneinsicht**
 
-<sup>1</sup> Jeder Kanton kann der Vereinbarung beitreten, indem er seine Beitrittserklärung dem Interkantonalen Organ übergibt, das sie dem Bund mitteilt.
+<sup>1</sup> Im Verfügungsverfahren besteht kein Anspruch auf Ak-
 
-<sup>2</sup> Der Austritt kann auf das Ende eines Kalenderjahres erfolgen. Er ist sechs Monate im Voraus dem Interkantonalen Organ anzuzeigen, das den Austritt dem Bund mitteilt.
+teneinsicht.
 
-#### Art. 21
+<sup>2</sup> Im Beschwerdeverfahren ist dem Beschwerdeführer auf Gesuch hin Einsicht in die Bewertung seines Angebots und in weitere entscheidrelevante Verfahrensakten zu gewähren, soweit nicht überwiegende öffentliche oder private Interessen entgegenstehen.
 
-**Inkrafttreten**
+#### Art. 58
 
-<sup>1</sup> Die Vereinbarung tritt, sobald ihr zwei Kantone beigetreten sind, durch Veröffentlichung in der amtlichen Sammlung der Bundesgesetze und für weitere Mitglieder mit der Veröffentlichung ihres Beitrittes im gleichen Organ in Kraft.
+**Beschwerdeentscheid**
 
-<sup>2</sup> Gleiches gilt für Ergänzungen und Änderungen der Vereinbarung.
+<sup>1</sup> Die Beschwerdeinstanz kann in der Sache selbst ent-
 
-<sup>3</sup> Im Verhältnis zu den Kantonen, welche die vorliegend geänderten Bestimmungen vom 15. März 2001 nicht übernommen haben, gilt weiterhin die unveränderte Vereinbarung vom 25. November 1994.
+scheiden oder diese an die Vorinstanz oder an den Auftraggeber zurückweisen. Im Fall einer Zurückweisung hat sie verbindliche Anweisungen zu erteilen.
 
-#### Art. 22
+<sup>2</sup> Erweist sich die Beschwerde als begründet und ist der Vertrag mit dem berücksichtigten Anbieter bereits abgeschlossen, so stellt die Beschwerdeinstanz fest, inwiefern die angefochtene Verfügung das anwendbare Recht verletzt.
+
+<sup>3</sup> Gleichzeitig mit der Feststellung der Rechtsverletzung entscheidet die Beschwerdeinstanz über ein allfälliges Schadenersatzbegehren.
+
+<sup>4</sup> Der Schadenersatz ist beschränkt auf die erforderlichen Aufwendungen, die dem Anbieter im Zusammenhang mit der Vorbereitung und Einreichung seines Angebots erwachsen sind.
+
+#### Art. 59
+
+**Revision**
+
+Hat die Beschwerdeinstanz über ein Revisionsgesuch zu entscheiden, so gilt Artikel 58 Absatz 2 sinngemäss.
+
+**31**
+
+- 1\. 4. 26 - 132
+
+### 9. Kapitel: Behörden
+
+#### Art. 60
+
+**Kommission Beschaffungswesen Bund-Kantone**
+
+<sup>1</sup> Die Überwachung der internationalen Verpflichtungen
+
+der Schweiz im Bereich des öffentlichen Beschaffungswesens obliegt der Kommission Beschaffungswesen Bund-Kantone (KBBK). Diese setzt sich paritätisch aus Vertretern des Bundes und der Kantone zusammen. Das Sekretariat wird vom Staatssekretariat für Wirtschaft (SECO) sichergestellt.
+
+<sup>2</sup> Die KBBK nimmt insbesondere folgende Aufgaben wahr:
+
+- a) Ausarbeitung der Position der Schweiz in internationalen Gremien zu Handen des Bundesrates und Beratung der Schweizer Verhandlungsdelegationen;
+
+- b) Förderung des Informations- und Erfahrungsaustausches zwischen Bund und Kantonen und Erarbeitung von Empfehlungen betreffend die Umsetzung internationaler Verpflichtungen in Schweizer Recht;
+
+- c) Pflege der Beziehungen zu ausländischen Überwachungsbehörden;
+
+- d) Erteilung von Ratschlägen und Vermittlung in Einzelfällen bei Streitigkeiten im Zusammenhang mit Geschäften nach den Buchstaben a bis c.
+
+<sup>3</sup> Bestehen Anhaltspunkte dafür, dass internationale Verpflichtungen der Schweiz über das öffentliche Beschaffungswesen verletzt werden, so kann die KBBK bei den Behörden des Bundes oder der Kantone intervenieren und sie veranlassen, den Sachverhalt abzuklären und bei festgestellten Missständen die erforderlichen Massnahmen zu treffen.
+
+<sup>4</sup> Die KBBK kann Gutachten erstellen oder Sachverständige damit beauftragen.
+
+<sup>5</sup> Sie gibt sich ein Geschäftsreglement. Dieses bedarf der Genehmigung des Bundesrates und des InöB.
+
+#### Art. 61
+
+**Interkantonales Organ**
+
+<sup>1</sup> Die Mitglieder der an der Vereinbarung beteiligten Kan-
+
+tone in der Schweizerischen Bau-, Planungs- und Umweltdirektoren-Konferenz (BPUK) bilden das Interkantonale Organ für das öffentliche Beschaffungswesen (InöB).
+
+<sup>2</sup> Das InöB nimmt insbesondere folgende Aufgaben wahr:
+
+- a) Erlass dieser Vereinbarung;
+
+- b) Änderungen dieser Vereinbarung unter Vorbehalt der Zustimmung der beteiligten Kantone;
+
+- c) Anpassung der Schwellenwerte;
+
+- d) Vorschlag an den Bundesrat für die Befreiung von der Unterstellung unter diese Vereinbarung und Entgegennahme diesbezüglicher Gesuche der Auftraggeber nach Artikel 7 Absatz 1 (Ausklinkklausel);
+
+- e) Kontrolle über die Umsetzung dieser Vereinbarung durch die Kantone und Bezeichnung einer Kontrollstelle;
+
+- f) Führen der Liste über sanktionierte Anbieter und Subunternehmer nach Massgabe von Artikel 45 Absatz 3;
+
+- g) Regelung der Organisation und des Verfahrens für die Anwendung dieser Vereinbarung;
+
+- h) Tätigkeiten als Kontaktstelle im Rahmen der internationalen Übereinkommen;
+
+- i) Bezeichnung der kantonalen Delegierten in nationalen und internationalen Gremien sowie Genehmigung der entsprechenden Geschäftsreglemente.
+
+<sup>3</sup> Das InöB trifft seine Entscheide mit Dreiviertelmehrheit der Anwesenden, sofern mindestens die Hälfte der beteiligten Kantone vertreten ist. Jeder beteiligte Kanton hat eine Stimme, die von einem Mitglied der Kantonsregierung wahrgenommen wird.
+
+<sup>4</sup> Das InöB arbeitet mit den Konferenzen der Vorsteher der betroffenen kantonalen Direktionen, mit den Fachkonferenzen der Kantone und mit dem Bund zusammen.
+
+#### Art. 62
+
+**Kontrollen**
+
+<sup>1</sup> Die Kantone überwachen die Einhaltung dieser Verein-
+
+barung.
+
+<sup>2</sup> Das InöB behandelt Anzeigen von Kantonen bezüglich der Einhaltung dieser Vereinbarung durch andere Kantone.
+
+<sup>3</sup> Private können Anzeigen bezüglich der Einhaltung dieser Vereinbarung durch die Kantone an das InöB richten. Die Anzeige verleiht weder Parteirechte noch Anspruch auf einen Entscheid.
+
+<sup>4</sup> Das InöB erlässt hierzu ein Reglement.
+
+### 10. Kapitel: Schlussbestimmungen
+
+#### Art. 63
+
+**Beitritt, Austritt, Änderung und Aufhebung**
+
+<sup>1</sup> Jeder Kanton kann der Vereinbarung durch Erklärung
+
+gegenüber dem InöB beitreten.
+
+<sup>2</sup> Der Austritt kann auf das Ende eines Kalenderjahres erfolgen. Er ist sechs Monate im Voraus dem InöB anzuzeigen.
+
+**33**
+
+- 1\. 4. 26 - 132
+
+<sup>3</sup> Der Beitritt und der Austritt sowie die Änderung oder Aufhebung dieser Vereinbarung werden der Bundeskanzlei durch das InöB zur Kenntnis gebracht.
+
+<sup>4</sup> Die Kantone können unter Beachtung der internationalen Verpflichtungen der Schweiz Ausführungsbestimmungen insbesondere zu den Artikeln 10, 12 und 26 erlassen.
+
+#### Art. 64
 
 **Übergangsrecht**
 
-<sup>1</sup> Die Vereinbarung gilt für die Vergabe von Aufträgen, die nach dem Inkrafttreten der Vereinbarung ausgeschrieben oder vergeben wurden.
+<sup>1</sup> Vergabeverfahren, die vor Inkrafttreten dieser Verein-
 
-<sup>2</sup> Im Fall eines Austrittes gilt die Vereinbarung für die Vergabe von Aufträgen, die vor dem Ende des Kalenderjahres, auf das der Austritt wirksam wird, ausgeschrieben werden.
+barung eingeleitet wurden, werden nach bisherigem Recht zu Ende geführt.
 
-**11**
+<sup>2</sup> Im Fall des Austrittes eines Kantons gilt diese Vereinbarung für die Vergabe von öffentlichen Aufträgen, die vor dem Ende eines Kalenderjahres, auf das der Austritt wirksam wird, ausgeschrieben werden.
 
-- 1\. 10. 18 - 102
+#### Art. 65
 
-### Anhang 1
+**Inkrafttreten**
+
+<sup>1</sup> Diese Vereinbarung tritt in Kraft, sobald ihr zwei Kan-
+
+tone beigetreten sind. Das Inkrafttreten wird der Bundeskanzlei durch das InöB zur Kenntnis gebracht.
+
+<sup>2</sup> Für Kantone, die dieser Vereinbarung nicht beigetreten sind, gilt weiterhin die Vereinbarung vom 15. März 2001.
+
+## Anhänge Kantone
+
+### Anhang 1: Schwellenwerte im Staatsvertragsbereich
+
+### Anhang 2: Schwellenwerte ausserhalb des Staatsvertragsbereichs
+
+### Anhang 3: Kernübereinkommen der Internationalen Arbeitsorganisation (ILO)
+
+### Anhang 4: Massgebliche Übereinkommen zum Schutz der Umwelt und der natürlichen Ressourcen
+
+**35**
+
+- 1\. 4. 26 - 132
+
+### Anhang 1 zur IVöB vom 15. November 2019
 
 ### Schwellenwerte im Staatsvertragsbereich
 
-a.[^hSchwellenwerteimSt-1] Government Procurement Agreement GPA (WTO-Übereinkommen über das öffentliche Beschaffungswesen)
+- a) Government Procurement Agreement GPA
 
-[^hSchwellenwerteimSt-1]: Fassung gemäss Beschluss des InöB vom 31. Mai 2010 (OS 65, 441). In Kraft seit 1. Juli 2010.
+### (WTO-Übereinkommen über das öffentliche Beschaffungswesen)
 
-### Auftraggeberin Auftragswert CHF
+**Auftragswert CHF (Auftragswert SZR)**
 
-Auftraggeber (Auftragswert SZR)
+### Auftraggeber
 
-**Dienstleistungen**
+**Dienst-**
 
-Bauarbeiten
+**Lieferungen leistungen**
 
-(Gesamtwert) Lieferungen Kantone 8 700 000
+Bauleistungen (Gesamtwert) Kantone (5 000 000 SZR) Behörden und öffentliche Unternehmen in den Sektoren Wasser, Energie, Verkehr und Telekommunikation
 
-**350 000 350 000 (200 000) (200 000)**
+**8 700 000 CHF 350 000 CHF 350 000 CHF**
 
-(5 000 000)
+**(200 000 SZR) (200 000 SZR)**
 
-**700 000 700 000 (400 000) (400 000)**
+**8 700 000 CHF 700 000 CHF 700 000 CHF (5 000 000 SZR) (400 000 SZR) (400 000 SZR)**
 
-Behörden und öffentliche Unternehmen in den Sektoren 8 700 000 Wasser, Energie, Verkehr und (5 000 000) Telekommunikation
+- b) Gemäss Bilateralem Abkommen zwischen der Europäischen
 
-b.[^hAuftraggeberinAuftr-1] Gemäss Bilateralem Abkommen zwischen der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft sind auch folgende Auftraggeberinnen und Auftraggeber dem Staatsvertragsbereich unterstellt:
+### Gemeinschaft und der Schweizerischen Eidgenossenschaft sind auf
 
-[^hAuftraggeberinAuftr-1]: Fassung gemäss Beschluss des InöB vom 31. Mai 2010 (OS 65, 441). In Kraft seit 1. Juli 2010.
+folgende Auftraggeber dem Staatsvertragsbereich unterstellt:
 
-### Auftraggeberin Auftragswert CHF
+**Auftragswert CHF (Auftragswert EURO)**
 
-Auftraggeber (Auftragswert EURO)
+### Auftraggeber
 
-**Dienstleistungen**
+**Dienst-**
 
-Bauarbeiten
+**Lieferungen leistungen**
 
-(Gesamtwert) Lieferungen Gemeinden/Bezirke 8 700 000
+Bauleistungen (Gesamtwert) Gemeinden/Bezirke (6 000 000 EURO) Private Unternehmen mit ausschliesslichen oder besonderen Rechten in den Sektoren Wasser, Energie und Verkehr Öffentliche sowie aufgrund eines besonderen oder ausschliesslichen (5 000 000 EURO) Rechts tätige private Unternehmen im Bereich des Schienenverkehrs und der Gas- und Wärmeversorgung Öffentliche sowie aufgrund eines besonderen oder ausschliesslichen (5 000 000 EURO) Rechts tätige private Unternehmen im Bereich der Telekommunikation\*
 
-**350 000 350 000 (240 000) (240 000)**
+### Anhang 2 zur IVöB vom 15. November 2019
 
-(6 000 000)
+### Schwellenwerte ausserhalb des Staatsvertragsbereichs
 
-**700 000 700 000 (480 000) (480 000)**
+**Bauleistungen (Auftragswert CHF)**
 
-Private Unternehmen mit ausschliesslichen oder besonderen 8 700 000 Rechten in den Sektoren Wasser, (6 000 000) Energie und Verkehr (inkl. Drahtseilbahnen und Skiliftanlagen) Öffentliche sowie aufgrund eines besonderen oder ausschliesslichen Rechts tätige private Unternehmen 8 000 000 im Bereich des Schienenverkehrs (5 000 000) und im Bereich der Gas- und Wärmeversorgung Öffentliche sowie aufgrund eines besonderen oder ausschliesslichen 8 000 000 Rechts tätige private Unternehmen (5 000 000) im Bereich der Telekommunikation
+### Verfahrensarten Lieferungen Dienstleistungen
 
-### Anhang 2
+(Auftragswert CHF) (Auftragswert CHF) Bauneben- Bauhauptgewerbe gewerbe Freihändiges unter unter Verfahren 150 000 150 000 Einladungs- unter unter verfahren 250 000 250 000 offenes/selektives ab ab Verfahren 250 000 250 000
 
-### Schwellenwerte und Verfahren im von Staatsverträgen nicht erfassten Bereich
+**8 700 000 CHF 350 000 CHF 350 000 CHF**
 
-**Bauarbeiten**
+**(240 000 EURO) (240 000 EURO)**
 
-### Verfahrensarten Lieferungen Dienstleistungen (Auftragswert CHF) (Auftragswert CHF) (Auftragswert CHF) Bauneben- Bauhaupt-
+**8 700 000 CHF 700 000 CHF 700 000 CHF (6 000 000 EURO) (480 000 EURO) (480 000 EURO)**
 
-gewerbe gewerbe Freihändige unter unter Vergabe 100 000 150 000 Einladungs- unter unter verfahren 250 000 250 000 Offenes/selektives ab ab Verfahren 250 000 250 000
+**8 000 000 CHF 640 000 CHF 640 000 CHF**
+
+**(400 000 EURO) (400 000 EURO)**
+
+**8 000 000 CHF 960 000 CHF 960 000 CHF**
+
+**(600 000 EURO) (600 000 EURO)**
 
 **unter unter 150 000 300 000 unter unter 250 000 500 000 ab ab 250 000 500 000**
 
-§ 2. <sup>1</sup> Über Beschwerden gemäss Art. 15 der Interkantonalen Vereinbarung entscheidet das Verwaltungsgericht.
+**37**
 
-<sup>2</sup> Die Bestimmungen des Verwaltungsrechtspflegegesetzes vom 24. Mai 1959[^hVerfahrensartenLief-1] über die Beschwerde vor Verwaltungsgericht finden ergänzend Anwendung.[^hVerfahrensartenLief-2]
+- 1\. 4. 26 - 132
 
-§ 3. <sup>1</sup> Die Auftraggeberinnen und Auftraggeber haften für Schaden, den sie durch einen Entscheid verursacht haben, dessen Rechtswidrigkeit vom Verwaltungsgericht festgestellt worden ist.
+### Anhang 3 zur IVöB vom 15. November 2019
 
-<sup>2</sup> Die Haftung nach Absatz 1 beschränkt sich auf Aufwendungen, die der Anbieterin oder dem Anbieter in Zusammenhang mit dem Vergabe- und dem Rechtsmittelverfahren erwachsen sind.
+### Kernübereinkommen der Internationalen Arbeitsorganisation (ILO)\*
 
-<sup>3</sup> Im Übrigen gilt das für die Auftraggeberin oder den Auftraggeber anwendbare Haftpflichtrecht.
+- Übereinkommen Nr. 29 vom 28. Juni 1930 über Zwangs- und Pflichtarbeit (SR 0.822.713.9);
 
-[^hVerfahrensartenLief-1]: LS 175.2.
-[^hVerfahrensartenLief-2]: Fassung gemäss G vom 25. März 2013 (OS 68, 367; ABl 2012, 506). In Kraft seit 1. Dezember 2013.
-[^hVerfahrensartenLief-3]: LS 720.11.
+- Übereinkommen Nr. 87 vom 9. Juli 1948 über die Vereinigungsfreiheit und den Schutz des Vereinigungsrechtes (SR 0.822.719.7);
 
-#### § 4
+- Übereinkommen Nr. 98 vom 1. Juli 1949 über die Anwendung der Grundsätze des Vereinigungsrechtes und des Rechtes zu Kollektivverhandlungen (SR 0.822.719.9);
 
-<sup>1</sup> Der Regierungsrat regelt in einer Verordnung[^hVerfahrensartenLief-3] die Einzelheiten des Beschaffungswesens, auch soweit es nicht von der Interkantonalen Vereinbarung erfasst ist.
+- Übereinkommen Nr. 100 vom 29. Juni 1951 über die Gleichheit des Entgelts männlicher und weiblicher Arbeitskräfte für gleichwertige Arbeit (SR 0.822.720.0);
 
-**640 000 640 000 (400 000) (400 000)**
+- Übereinkommen Nr. 105 vom 25. Juni 1957 über die Abschaffung der Zwangsarbeit (SR 0.822.721.1);
 
-<sup>2</sup> Die Verordnung bedarf der Genehmigung des Kantonsrates.
+- Übereinkommen Nr. 111 vom 25. Juni 1958 über die Diskriminierung in Beschäftigung und Beruf (SR 0.822.723.8);
 
-**960 000 960 000 (600 000) (600 000)**
+- Übereinkommen Nr. 138 vom 26. Juni 1973 über das Mindestalter für die Zulassung zur Beschäftigung (SR 0.822.723.8);
 
-<sup>3</sup> Der Regierungsrat ordnet die Überwachung im Sinne von Abschnitt 6 der Interkantonalen Vereinbarung. Zur Kontrolle, ob die Arbeitsschutzbestimmungen, die Arbeitsbedingungen und die Gleichbehandlung von Frau und Mann eingehalten werden, kann er den Beizug Dritter vorsehen.[^4_2-1]
+- Übereinkommen Nr. 182 vom 17. Juni 1999 über das Verbot und unverzügliche Massnahmen zur Beseitigung der schlimmsten Folgen der Kinderarbeit (SR 0.822.728.2).
 
-**13**
+### Anhang 4 zur IVöB vom 15. November 2019
 
-- 1\. 10. 18 - 102 § 4 a.[^4_2-2] <sup>1</sup> Die Vergabestelle schliesst Anbieterinnen und Anbieter aus einem laufenden Vergabeverfahren aus, wenn sie die Voraussetzungen für die Teilnahme am Verfahren nicht oder nicht mehr erfüllen oder wenn sie den rechtskonformen Ablauf des Vergabeverfahrens durch ihr Verhalten beeinträchtigen. Dies ist insbesondere dann der Fall, wenn die Anbieterin oder der Anbieter:
+### Massgebliche Übereinkommen zum Schutz der Umwelt und der natürlichen Ressourcen
 
-- a. die von der Vergabestelle festgelegten Kriterien zur Beurteilung ihrer oder seiner Eignung nicht oder nicht mehr erfüllt,
+- Wiener Übereinkommen vom 22. März 1985 zum Schutz der Ozonschicht (SR 0.814.02) und das im Rahmen dieses Übereinkommens geschlossene
 
-- b. wesentliche Formerfordernisse missachtet hat, insbesondere durch Nichteinhaltung der Eingabefrist, fehlende Unterschrift, Unvollständigkeit des Angebots oder des Antrags auf Teilnahme im selektiven Verfahren oder Änderung der Ausschreibungsunterlagen,
+### Montrealer Protokoll vom 16. September 1987 über die Stoffe, die zum
 
-- c. die Anforderungen der Vergabestelle an die Angaben und Nachweise nicht erfüllt,
+Abbau der Ozonschicht führen (SR 0.814.021);
 
-- d. ein ungewöhnlich niedriges Angebot einreicht, ohne nachzuweisen, dass die Teilnahmebedingungen eingehalten werden und die Auftragsbedingungen erfüllt werden können,
+- Basler Übereinkommen vom 22. März 1989 über die Kontrolle der grenzüberschreitenden Verbringung gefährlicher Abfälle und Entsorgung (SR 0.814.05);
 
-- e. sich in einem Konkursverfahren befindet,
+- Stockholmer Übereinkommen vom 22. Mai 2001 über persistente organische Schadstoffe (SR 0.814.03);
 
-- f. Steuern oder Sozialabgaben nicht bezahlt hat,
+- Rotterdamer Übereinkommen vom 10. September 1998 über das Verfahren der vorherigen Zustimmung nach Inkenntnissetzung für bestimmte gefährliche
 
-- g. die Grundsätze über die Beachtung der Arbeitsschutzbestimmungen und Arbeitsbedingungen für Arbeitnehmerinnen und Arbeitnehmer, über die Gleichbehandlung von Frau und Mann sowie die Vertraulichkeit von Informationen missachtet,
+### Chemikalien sowie Pflanzenschutz- und Schädlingsbekämpfungsmittel
 
-- h. gegen die Bestimmungen des Bundesgesetzes vom 17. Juni 2005 über Massnahmen zur Bekämpfung der Schwarzarbeit[^4_2-3] verstossen hat,
+im internationalen Handel (SR 0.916.21);
 
-- i. der Vergabestelle falsche Auskünfte erteilt hat,
+- Übereinkommen vom 5. Juni 1992 über die Biologische Vielfalt (SR 0.451.43);
 
-- j. Abreden getroffen hat, die den wirksamen Wettbewerb beseitigen oder erheblich beeinträchtigen,
+- Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen vom 9. Mai 1992 (SR 0.814.01);
 
-- k. im Zusammenhang mit der Vergabe oder bei der Erfüllung öffentlicher Aufträge eine Straftat zum Nachteil der Auftraggeberin oder des Auftraggebers begangen oder gegen die anerkannten Berufsregeln verstossen hat,
+- Übereinkommen über den internationalen Handel mit gefährdeten Arten frei lebender Tiere und Pflanzen vom 3. März 1973 (SR 0.453);
 
-- l. von der Vergabestelle angeordnete Kontrollen nicht zulässt.
+- Übereinkommen über weiträumige grenzüberschreitende Luftverunreinigung vom 13. November 1979 und die im Rahmen dieses Übereinkommens von der Schweiz ratifizierten acht Protokolle (SR 0.814.32).
 
-<sup>2</sup> Die Vergabestelle kann den Zuschlag gegenüber der Anbieterin oder dem Anbieter unter den Voraussetzungen von Abs. 1 widerrufen.
+**39**
 
-<sup>3</sup> Unter den gleichen Voraussetzungen kann die Vergabestelle die Anbieterin oder den Anbieter aus einer ständigen Liste nach Art. 13 lit. e der Interkantonalen Vereinbarung ausschliessen. Der Rechtsschutz richtet sich nach den Bestimmungen des 5. Abschnitts der Interkantonalen Vereinbarung.
+- 1\. 4. 26 - 132
 
-§ 4 b.[^4_2-2] <sup>1</sup> Unter den Voraussetzungen von § 4 a Abs. 1 lit. f, g, h, i, j, k oder l kann die Auftraggeberin oder der Auftraggeber eine Anbieterin oder einen Anbieter verwarnen oder in schweren Fällen für bis zu fünf Jahren von künftigen Vergaben der betreffenden Körperschaft ausschliessen.
+### Anhang B
 
-<sup>2</sup> Über Beschwerden gegen Verfügungen nach Abs. 1 entscheidet das Verwaltungsgericht. Mit der Beschwerde können neben Rechtsverletzungen, einschliesslich Überschreitung oder Missbrauch des Ermessens, die unrichtige oder unvollständige Feststellung des rechtserheblichen Sachverhalts sowie die Unangemessenheit geltend gemacht werden. Im Übrigen richtet sich der Rechtsschutz nach den Bestimmungen des 5. Abschnitts der Interkantonalen Vereinbarung. Die Bestimmungen des Verwaltungsrechtspflegegesetzes[^4_2-4] über die Beschwerde vor Verwaltungsgericht finden ergänzend Anwendung.
+## Interkantonale Vereinbarung über das öffentliche Beschaffungswesen vom 15. März 2001
 
-<sup>3</sup> Bei Ausschlüssen nach Abs. 1 auf Grundlage von § 4 a lit. j und k stellt die Auftraggeberin oder der Auftraggeber dem Kanton eine Kopie des rechtskräftigen Entscheids zu. Der Regierungsrat bezeichnet die zuständige Stelle.
+#### Art. 4
 
-<sup>4</sup> Der Kanton führt eine Liste über die in Kraft stehenden Ausschlüsse. Er kann Vergabestellen nach diesem Gesetz darüber Auskunft erteilen,
+**Interkantonales Organ**
 
-- a. ob eine Anbieterin oder ein Anbieter auf der Liste verzeichnet ist,
+<sup>1</sup> Die Mitglieder der an der Vereinbarung beteiligten Kan-
 
-- b. auf welcher Grundlage und für welche Dauer ein Ausschluss verfügt wurde.
+tone in der Schweizerischen Bau-, Planungs- und Umweltdirektoren-Konferenz bilden das Interkantonale Organ für das öffentliche Beschaffungswesen (InöB).
 
-§ 4 c.[^4_2-5] Die Vergabestelle wendet bei den Vergaben ausserhalb des Staatsvertragsbereichs das Zuschlagskriterium Ausbildung von Lernenden in der beruflichen Grundbildung an und gewichtet es mit mindestens 5% und höchstens 10%.
+<sup>2</sup> Das Interkantonale Organ ist zuständig für:
 
-[^4_2-1]: Fassung gemäss G vom 25. März 2013 (OS 68, 367; ABl 2012, 506). In Kraft seit 1. Dezember 2013.
-[^4_2-2]: Eingefügt durch G vom 25. März 2013 (OS 68, 367; ABl 2012, 506). In Kraft seit 1. Dezember 2013.
-[^4_2-3]: SR 822.41.
-[^4_2-4]: LS 175.2.
-[^4_2-5]: Eingefügt durch G vom 27. März 2017 (OS 73, 314; ABl 2016-04-08). In Kraft seit 1. Juli 2018.
+- a) Änderungen der Vereinbarung unter Vorbehalt der Zustimmung der beteiligten Kantone,
 
-#### § 5
+- b) Erlass von Vergaberichtlinien,
 
-Der Regierungsrat ist ermächtigt, spätere Anpassungen der Interkantonalen Vereinbarung, soweit sie nicht grundlegender Art sind, zu ratifizieren.
+- c) Anpassung der in den Anhängen aufgeführten Schwellenwerte,
 
-**15**
+- c)<sup>bis</sup> Entgegennahme und Weiterleitung eines Gesuches um Befreiung von Auftraggeberinnen und Auftraggebern von der Unterstellung unter diese Vereinbarung, sofern andere Unternehmen die Möglichkeit haben, diese Dienstleistungen in demselben geografischen Gebiet unter im Wesentlichen gleichen Bedingungen anzubieten (Ausklinkklausel),
 
-- 1\. 10. 18 - 102 § 6.[^5_2-1]
+- d) (…)
 
-[^5_2-1]: Aufgehoben durch G vom 25. März 2013 (OS 68, 367; ABl 2012, 506). In Kraft seit 1. Dezember 2013.
+- e) Kontrolle über die Durchführung der Vereinbarung durch die Kantone und Bezeichnung einer Kontrollstelle,
+
+- f) Regelung der Organisation und des Verfahrens für die Anwendung der Vereinbarung,
+
+- g. Tätigkeiten als Kontaktstelle im Rahmen der internationalen Vereinbarungen,
+
+- h) Bezeichnung der kantonalen Delegierten in nationalen und internationalen Gremien sowie Genehmigung der entsprechenden Geschäftsreglemente.
+
+<sup>3</sup> Das Interkantonale Organ trifft seine Entscheide mit Dreiviertelmehrheit der Anwesenden, sofern mindestens die Hälfte der beteiligten Kantone vertreten ist. Jeder beteiligte Kanton hat eine Stimme, die von einem Mitglied der Kantonsregierung wahrgenommen wird.
+
+<sup>4</sup> Das Interkantonale Organ arbeitet mit den Konferenzen der Vorsteherinnen und Vorsteher der betroffenen kantonalen Direktionen und mit dem Bund zusammen.
+
+## Weitere Fussnoten
+
+- [6] SR 220.
+- [7] SR 241.
+- [8] SR 822.11.
+- [9] SR 822.41.
+- [*] Dieser Bereich ist ausgeklinkt (Verordnung des UVEK über die Nichtunterstellung unter das öffentliche Beschaffungsrecht, insbesondere Anhang – SR 172.056.111)
+- [*] Als wesentliche internationale Arbeitsstandards kann der Auftraggeber neben den Kernübereinkommen gemäss diesem Anhang die Einhaltung von Prinzipien aus weiteren Übereinkommen der Internationalen Arbeitsorganisation (ILO) verlangen, soweit die Schweiz sie selbst ratifiziert hat.
