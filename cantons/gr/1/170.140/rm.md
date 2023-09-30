@@ -4,13 +4,13 @@ number: "170.140"
 title: Urden da gestiun dal cussegl grond
 short: UGCG
 language: rm
-version: 2023-09-01
-valid_until: 2023-09-30
-version_adopted: 2022-04-21
+version: 2023-10-01
+valid_until: 2024-08-31
+version_adopted: 2022-06-14
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.140"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3312/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3313/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3312/pdf_file"
 
 (UGCG)
 
-dals 08-12-2005 (versiun dals 01-09-2023)
+dals 08-12-2005 (versiun dals 01-10-2023)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -1005,9 +1005,9 @@ concluda:
 
 #### Art. 83
 
-**Presidentas e presidents da las dretgiras**
+**Commembras e commembers da la Dretgira superiura e da la Dretgira da giustia**
 
-<sup>1</sup> Las presidentas u ils presidents da la dretgira chantunala e da la dretgira administrativa fan il sarament prescrit u l'empermischun prescritta davant il cussegl grond.
+<sup>1</sup> Las commembras ed ils commembers da la Dretgira superiura e da la Dretgira da giustia fan il sarament prescrit u l'empermischun prescritta davant il Cussegl grond.
 
 #### Art. 84
 

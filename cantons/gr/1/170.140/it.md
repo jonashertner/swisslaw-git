@@ -4,13 +4,13 @@ number: "170.140"
 title: Regolamento organico del Gran Consiglio
 short: ROGC
 language: it
-version: 2023-09-01
-valid_until: 2023-09-30
-version_adopted: 2022-04-21
+version: 2023-10-01
+valid_until: 2024-08-31
+version_adopted: 2022-06-14
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.140"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3312/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3313/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3312/pdf_file"
 
 (ROGC)
 
-del 08.12.2005 (stato 01.09.2023)
+del 08.12.2005 (stato 01.10.2023)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -1003,9 +1003,9 @@ decide:
 
 #### Art. 83
 
-**Presidenti dei tribunali**
+**Giudici del Tribunale d'appello e del Tribunale della magistratura**
 
-<sup>1</sup> I presidenti del Tribunale cantonale e del Tribunale amministrativo prestano il giuramento prescritto o la promessa prescritta al cospetto del Gran Consiglio.
+<sup>1</sup> I giudici del Tribunale d'appello e del Tribunale della magistratura prestano il giuramento prescritto o la promessa prescritta al cospetto del Gran Consiglio.
 
 #### Art. 84
 

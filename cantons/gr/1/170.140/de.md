@@ -4,13 +4,13 @@ number: "170.140"
 title: Geschäftsordnung des Grossen Rates
 short: GGO
 language: de
-version: 2023-09-01
-valid_until: 2023-09-30
-version_adopted: 2022-04-21
+version: 2023-10-01
+valid_until: 2024-08-31
+version_adopted: 2022-06-14
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.140"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3312/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3313/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3312/pdf_file"
 
 (GGO)
 
-Vom 08.12.2005 (Stand 01.09.2023)
+Vom 08.12.2005 (Stand 01.10.2023)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -1003,9 +1003,9 @@ beschliesst:
 
 #### Art. 83
 
-**Gerichtspräsidentinnen und -präsidenten**
+**Mitglieder des Obergerichts und des Justizgerichts**
 
-<sup>1</sup> Die Präsidentinnen oder Präsidenten des Kantonsgerichtes und des Verwaltungsgerichtes leisten vor dem Grossen Rat den vorgeschriebenen Eid oder das vorgeschriebene Gelübde.
+<sup>1</sup> Die Mitglieder des Obergerichts und des Justizgerichts leisten vor dem Grossen Rat den vorgeschriebenen Eid oder das vorgeschriebene Gelübde.
 
 #### Art. 84
 
