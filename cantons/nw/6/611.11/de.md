@@ -5,12 +5,12 @@ title: Vollzugsverordnung zum Planungs- und Baugesetz
 short: "Planungs- und Bauverordnung, PBV"
 language: de
 version: 2020-11-01
-corrected: 2023-09-19
+corrected: 2023-10-02
 version_adopted: 2020-10-13
 adopted: 2014-11-25
 in_force: 2015-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/611.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1101/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1177/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -38,7 +38,7 @@ beschliesst:
 
 <sup>1</sup> Die Direktion ist zuständig für den Erlass von Weisungen und Richtlinien, insbesondere zur Sicherstellung einer einheitlichen Rechtsanwendung sowie der einheitlichen Darstellung von Plänen.
 
-Das Amt:
+<sup>2</sup> Das Amt:
 
 - 1\. ist die kantonale Fachstelle für Raumplanung gemäss der Raumplanungsgesetzgebung[^1-1];
 - 2\. vollzieht alle dem Kanton zufallenden Aufgaben, soweit sie nicht einer anderen Instanz übertragen sind.
