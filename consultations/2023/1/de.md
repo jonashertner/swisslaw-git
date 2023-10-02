@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Strafgesetzbuches (Reform der lebenslangen Freiheitsstrafe)
 document: Vernehmlassungsvorlage
 language: de

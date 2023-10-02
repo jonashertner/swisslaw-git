@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification du code pénal (réforme de la peine privative de liberté à vie)
 document: Projet mis en consultation
 language: fr

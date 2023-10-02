@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica del Codice penale (riforma della pena detentiva a vita)
 document: Progetto posto in consultazione
 language: it
