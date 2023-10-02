@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Legge federale sull’imposizione del lavoro mobile nei rapporti internazionali
 document: Progetto posto in consultazione
 language: it

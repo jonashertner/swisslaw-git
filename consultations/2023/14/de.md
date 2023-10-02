@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bundesgesetz über die Besteuerung des mobilen Arbeitens im internationalen Verhältnis
 document: Vernehmlassungsvorlage
 language: de

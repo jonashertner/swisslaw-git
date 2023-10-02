@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Loi fédérale sur l’imposition du travail mobile dans le contexte international
 document: Projet mis en consultation
 language: fr
