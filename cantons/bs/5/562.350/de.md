@@ -3,13 +3,12 @@ canton: BS
 number: "562.350"
 title: Gebührenverordnung betreffend Messen und Märkte in der Stadt Basel
 language: de
-version: 2015-03-29
-valid_until: 2023-10-04
-version_adopted: 2015-03-24
+version: 2023-10-05
+version_adopted: 2023-09-26
 adopted: 2009-08-11
 in_force: 2010-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/562.350"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4609/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6042/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4609/pdf_file"
 
 Messen und Märkte: Gebührenverordnung | Handel / Märkte / Schaustellungen
 
-Vom 11. August 2009 (Stand 29. März 2015)
+Vom 11. August 2009 (Stand 5. Oktober 2023)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
