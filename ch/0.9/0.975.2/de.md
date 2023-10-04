@@ -3,11 +3,11 @@ sr: "0.975.2"
 title: Übereinkommen vom 18. März 1965 zur Beilegung von Investitionsstreitigkeiten zwischen Staaten und Angehörigen anderer Staaten
 eli: "https://fedlex.data.admin.ch/eli/cc/1968/982_1022_938"
 language: de
-version: 2020-12-16
+version: 2023-10-05
 adopted: 1965-03-18
 in_force: 1968-06-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/982_1022_938/20201216/de/xml/fedlex-data-admin-ch-eli-cc-1968-982_1022_938-20201216-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1968/982_1022_938/20201216/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/982_1022_938/20231005/de/xml/fedlex-data-admin-ch-eli-cc-1968-982_1022_938-20231005-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1968/982_1022_938/20231005/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -28,7 +28,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 15. Mai 1968
 
 In Kraft getreten für die Schweiz am 14. Juni 1968
 
-(Stand am 16. Dezember 2020)
+(Stand am 5. Oktober 2023)
 
 [^t-1]: [AS 1968 981](https://fedlex.data.admin.ch/eli/oc/1968/981_1021_937)
 
@@ -177,10 +177,10 @@ Können die Ausgaben des Zentrums nicht aus den für die Inanspruchnahme seiner 
 
 #### Art. 18
 
-Das Zentrum besitzt volle internationale Rechtspersönlichkeit. Es besitzt unter anderem die Fähigkeit,
+Das Zentrum besitzt volle internationale Rechtspersönlichkeit. Es besitzt unter anderem die Fähigkeit:
 
-- a. Verträge zu schliessen,
-- b. bewegliches und unbewegliches Vermögen zu erwerben und darüber zu verfügen,
+- a. Verträge zu schliessen;
+- b. bewegliches und unbewegliches Vermögen zu erwerben und darüber zu verfügen;
 - c. vor Gericht zu klagen und verklagt zu werden.
 
 #### Art. 19
@@ -193,9 +193,9 @@ Das Zentrum, sein Eigentum und seine sonstigen Vermögenswerte geniessen Immunit
 
 #### Art. 21
 
-Der Vorsitzende, die Mitglieder des Verwaltungsrats, die als Vermittler, Schiedsrichter oder Mitglieder eines in Artikel 52 Absatz 3 vorgesehenen Ausschusses tätigen Personen sowie die Bediensteten des Sekretariats
+Der Vorsitzende, die Mitglieder des Verwaltungsrats, die als Vermittler, Schiedsrichter oder Mitglieder eines in Artikel 52 Absatz 3 vorgesehenen Ausschusses tätigen Personen sowie die Bediensteten des Sekretariats:
 
-- a. sind wegen der von ihnen in Ausübung ihrer amtlichen Tätigkeit vorgenommenen Handlungen von der Gerichtsbarkeit befreit, falls nicht das Zentrum diese Immunität aufhebt,
+- a. sind wegen der von ihnen in Ausübung ihrer amtlichen Tätigkeit vorgenommenen Handlungen von der Gerichtsbarkeit befreit, falls nicht das Zentrum diese Immunität aufhebt;
 - b. geniessen, falls sie nicht Angehörige des Staates sind, in dem sie ihre amtliche Tätigkeit ausüben, dieselben Befreiungen auf dem Gebiet der Einwanderung, der Ausländermeldepflicht, der Wehrpflicht und der Pflicht zu ähnlichen Leistungen sowie dieselben Erleichterungen im Devisen- und Reiseverkehr, wie sie von den Vertragsstaaten den in vergleichbarem Rang stehenden Vertretern und Bediensteten anderer Vertragsstaaten gewährt werden.
 
 #### Art. 22
@@ -226,7 +226,7 @@ Artikel 21 findet auf die Personen Anwendung, die als Parteien, Bevollmächtigte
 
 Der Ausdruck «Angehöriger eines anderen Vertragsstaats» bedeutet:
 
-- a. jede natürliche Person, die im Zeitpunkt, zu dem die Parteien der Unterwerfung der Streitigkeit unter ein Vergleichs- oder Schiedsverfahren zugestimmt haben, sowie im Zeitpunkt, zu dem das Begehren nach Artikel 28 Absatz 3 oder nach Artikel 36 Absatz 3 registriert worden ist, die Staatsangehörigkeit eines anderen Vertragsstaats besessen hat als des Staates, der Streitpartei ist; ausgenommen sind Personen, die in einem dieser Zeitpunkte auch die Staatsangehörigkeit des Vertragsstaats besessen haben, der Streitpartei ist,
+- a. jede natürliche Person, die im Zeitpunkt, zu dem die Parteien der Unterwerfung der Streitigkeit unter ein Vergleichs- oder Schiedsverfahren zugestimmt haben, sowie im Zeitpunkt, zu dem das Begehren nach Artikel 28 Absatz 3 oder nach Artikel 36 Absatz 3 registriert worden ist, die Staatsangehörigkeit eines anderen Vertragsstaats besessen hat als des Staates, der Streitpartei ist; ausgenommen sind Personen, die in einem dieser Zeitpunkte auch die Staatsangehörigkeit des Vertragsstaats besessen haben, der Streitpartei ist;
 - b. jede juristische Person, die im Zeitpunkt, zu dem die Parteien der Unterwerfung der Streitigkeit unter ein Vergleichs- oder Schiedsverfahren zugestimmt haben, die Staatsangehörigkeit eines anderen Vertragsstaats besessen hat als des Staates, der Streitpartei ist, sowie jede juristische Person, die im gleichen Zeitpunkt die Staatsangehörigkeit des Vertragsstaats besessen hat, der Streitpartei ist, wenn die Parteien übereingekommen sind, diese juristische Person wegen der von ausländischen Interessen über sie ausgeübten Kontrolle als Angehörigen eines anderen Vertragsstaats im Sinne dieses Übereinkommens zu betrachten.
 
 <sup>(3)</sup> Die Zustimmung einer von einem Vertragsstaat abhängigen Gebietskörperschaft oder Stelle bedarf der Genehmigung dieses Staates, sofern er nicht dem Zentrum mitteilt, dass die Genehmigung nicht erforderlich ist.
@@ -349,9 +349,9 @@ Die Mehrheit der Schiedsrichter muss anderen Staaten als demjenigen, der Streitp
 
 #### Art. 43
 
-Sofern die Parteien nicht anderes vereinbaren, kann das Gericht, wenn es dies für nötig hält, jederzeit während des Verfahrens
+Sofern die Parteien nicht anderes vereinbaren, kann das Gericht, wenn es dies für nötig hält, jederzeit während des Verfahrens:
 
-- a. die Parteien auffordern, alle Urkunden oder sonstigen Beweismittel vorzulegen,
+- a. die Parteien auffordern, alle Urkunden oder sonstigen Beweismittel vorzulegen;
 - b. sich an Ort und Stelle begeben und dort alle Untersuchungen vornehmen, die es für erforderlich erachtet.
 
 #### Art. 44
@@ -416,10 +416,10 @@ Sofern die Parteien nichts anderes vereinbaren, kann das Gericht, wenn die Umst�
 
 Jede Partei kann beim Generalsekretär schriftlich die Aufhebung eines Schiedsspruchs aus einem oder mehreren der folgenden Gründe beantragen:
 
-- a. nicht ordnungsgemässe Bildung des Gerichts,
-- b. offensichtliche Überschreitung der Befugnisse des Gerichts,
-- c. Bestechung eines Mitglieds des Gerichts,
-- d. schwerwiegende Abweichung von einer grundlegenden Verfahrensvorschrift,
+- a. nicht ordnungsgemässe Bildung des Gerichts;
+- b. offensichtliche Überschreitung der Befugnisse des Gerichts;
+- c. Bestechung eines Mitglieds des Gerichts;
+- d. schwerwiegende Abweichung von einer grundlegenden Verfahrensvorschrift;
 - e. Fehlen der Begründung des Schiedsspruchs.
 
 <sup>(2)</sup> Der Antrag ist binnen 120 Tagen nach Erlass des Schiedsspruchs zu stellen, sofern nicht die Aufhebung wegen Bestechung verlangt wird; in diesem Fall ist der Antrag binnen 120 Tagen nach Entdecken der Bestechung, jedenfalls aber binnen drei Jahren nach Erlass des Schiedsspruchs zu stellen.
@@ -498,7 +498,7 @@ Die Vergleichs- und Schiedsverfahren finden vorbehaltlich der folgenden Bestimmu
 
 Wenn die Parteien dies beschliessen, können Vergleichs- und Schiedsverfahren stattfinden:
 
-- a. am Sitz des Ständigen Schiedshofs oder einer anderen geeigneten öffentlichen oder privaten Institution, mit der das Zentrum entsprechende Abmachungen getroffen hat,
+- a. am Sitz des Ständigen Schiedshofs oder einer anderen geeigneten öffentlichen oder privaten Institution, mit der das Zentrum entsprechende Abmachungen getroffen hat;
 - b. an jedem anderen von der Kommission oder dem Gericht nach Konsultierung des Generalsekretärs gebilligten Ort.
 
 ## Kapitel VIII Streitigkeiten zwischen Vertragsstaaten
@@ -559,17 +559,17 @@ Die Verwahrstelle lässt dieses Übereinkommen nach Artikel 102 der Satzung der 
 
 #### Art. 75
 
-Die Verwahrstelle notifiziert allen Unterzeichnerstaaten
-
 Geschehen zu Washington in englischer, französischer und spanischer Sprache, wobei jeder Wortlauf gleichermassen verbindlich ist, in einer Urschrift, die im Archiv der Internationalen Bank für Wiederaufbau und Entwicklung hinterlegt bleibt, welche durch ihre nachstehende Unterschrift angezeigt hat, dass sie die ihr in diesem Übereinkommen zugewiesenen Aufgaben annimmt.
 
 Für die Internationale Bank für Wiederaufbau und Entwicklung
 
-- a. die Unterzeichnungen nach Artikel 67,
-- b. die Hinterlegung von Ratifikations-, Annahme- oder Genehmigungsurkunden nach Artikel 73,
-- c. den Tag des Inkrafttretens dieses Übereinkommens nach Artikel 68,
-- d. die Ausnahmen von der räumlichen Anwendung nach Artikel 70,
-- e. den Tag des Inkrafttretens jeder Änderung dieses Übereinkommens nach Artikel 66,
+Die Verwahrstelle notifiziert allen Unterzeichnerstaaten:
+
+- a. die Unterzeichnungen nach Artikel 67;
+- b. die Hinterlegung von Ratifikations-, Annahme- oder Genehmigungsurkunden nach Artikel 73;
+- c. den Tag des Inkrafttretens dieses Übereinkommens nach Artikel 68;
+- d. die Ausnahmen von der räumlichen Anwendung nach Artikel 70;
+- e. den Tag des Inkrafttretens jeder Änderung dieses Übereinkommens nach Artikel 66;
 - f. die Kündigung nach Artikel 71.
 
 <table>
@@ -578,7 +578,7 @@ Für die Internationale Bank für Wiederaufbau und Entwicklung
 
 <sup>18.</sup> März 1965
 
-Geltungsbereich am 16. Dezember 2020**[^t-2]**
+Geltungsbereich am 5. Oktober 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -586,6 +586,7 @@ Geltungsbereich am 16. Dezember 2020**[^t-2]**
 <tr><td>Ägypten</td><td>3. Mai</td><td>1972</td><td>2. Juni</td><td>1972</td></tr>
 <tr><td>Albanien</td><td>15. Oktober</td><td>1991</td><td>14. November</td><td>1991</td></tr>
 <tr><td>Algerien</td><td>21. Februar</td><td>1996</td><td>22. März</td><td>1996</td></tr>
+<tr><td>Angola</td><td>21. September</td><td>2022</td><td>21. Oktober</td><td>2022</td></tr>
 <tr><td>Argentinien</td><td>19. Oktober</td><td>1994</td><td>18. November</td><td>1994</td></tr>
 <tr><td>Armenien</td><td>16. September</td><td>1992</td><td>16. Oktober</td><td>1992</td></tr>
 <tr><td>Aserbaidschan</td><td>18. September</td><td>1992</td><td>18. Oktober</td><td>1992</td></tr>
@@ -599,7 +600,7 @@ Geltungsbereich am 16. Dezember 2020**[^t-2]**
 <tr><td>Benin</td><td>6. September</td><td>1966</td><td>14. Oktober</td><td>1966</td></tr>
 <tr><td>Bosnien und Herzegowina</td><td>14. Mai</td><td>1997</td><td>13. Juni</td><td>1997</td></tr>
 <tr><td>Botsuana</td><td>15. Januar</td><td>1970</td><td>14. Februar</td><td>1970</td></tr>
-<tr><td>Brunei</td><td>16. Februar</td><td>2002</td><td>16. Oktober</td><td>2002</td></tr>
+<tr><td>Brunei</td><td>16. September</td><td>2002</td><td>16. Oktober</td><td>2002</td></tr>
 <tr><td>Bulgarien</td><td>13. April</td><td>2001</td><td>13. Mai</td><td>2001</td></tr>
 <tr><td>Burkina Faso</td><td>29. August</td><td>1966</td><td>14. Oktober</td><td>1966</td></tr>
 <tr><td>Burundi</td><td>5. November</td><td>1969</td><td>5. Dezember</td><td>1969</td></tr>
@@ -613,6 +614,7 @@ Geltungsbereich am 16. Dezember 2020**[^t-2]**
 <tr><td>Färöer</td><td>30. Oktober</td><td>1968</td><td>30. Oktober</td><td>1968</td></tr>
 <tr><td>Deutschland</td><td>18. April</td><td>1969</td><td>18. Mai</td><td>1969</td></tr>
 <tr><td>Dschibuti</td><td>9. Juni</td><td>2020</td><td>9. Juli</td><td>2020</td></tr>
+<tr><td>Ecuador</td><td>4. August</td><td>2021</td><td>3. September</td><td>2021</td></tr>
 <tr><td>El Salvador</td><td>6. März</td><td>1984</td><td>5. April</td><td>1984</td></tr>
 <tr><td>Estland</td><td>23. Juni</td><td>1992</td><td>23. Juli</td><td>1992</td></tr>
 <tr><td>Eswatini</td><td>14. Juni</td><td>1971</td><td>14. Juli</td><td>1971</td></tr>
@@ -647,6 +649,7 @@ Geltungsbereich am 16. Dezember 2020**[^t-2]**
 <tr><td>Kasachstan</td><td>21. September</td><td>2000</td><td>21. Oktober</td><td>2000</td></tr>
 <tr><td>Katar</td><td>21. Dezember</td><td>2010</td><td>20. Januar</td><td>2011</td></tr>
 <tr><td>Kenia</td><td>3. Januar</td><td>1967</td><td>2. Februar</td><td>1967</td></tr>
+<tr><td>Kirgisistan</td><td>21. April</td><td>2022</td><td>21. Mai</td><td>2022</td></tr>
 <tr><td>Kolumbien</td><td>15. Juli</td><td>1997</td><td>14. August</td><td>1997</td></tr>
 <tr><td>Komoren</td><td>7. November</td><td>1978</td><td>7. Dezember</td><td>1978</td></tr>
 <tr><td>Kongo (Brazzaville)</td><td>23. Juni</td><td>1966</td><td>14. Oktober</td><td>1966</td></tr>
@@ -747,8 +750,8 @@ Geltungsbereich am 16. Dezember 2020**[^t-2]**
 <tr><td>Jersey</td><td></td><td></td><td>1. Juli</td><td>1979</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>23. Februar</td><td>1966</td><td>14. Oktober</td><td>1966</td></tr>
 <tr><td>Zypern</td><td>25. November</td><td>1966</td><td>25. Dezember</td><td>1966</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Bank für Wiederaufbau und Entwicklung: https://icsid.worldbank.org/resources/lists/measures-by-member-states-ICSID/8 eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Das Übereinkommen gilt nicht für die Cook-Inseln, Niue und Tokelau.</td></tr>
 </table>
 
-[^t-2]: [AS 1972 1666](https://fedlex.data.admin.ch/eli/oc/1972/1666_1694_1869), [1974 1411](https://fedlex.data.admin.ch/eli/oc/1974/1411_1411_1411), [1976 504](https://fedlex.data.admin.ch/eli/oc/1976/504_503_503), [1977 10](https://fedlex.data.admin.ch/eli/oc/1977/10_10_10), [1978 310](https://fedlex.data.admin.ch/eli/oc/1978/310_310_310), [1980 1478](https://fedlex.data.admin.ch/eli/oc/1980/1478_1478_1478), [1982 1996](https://fedlex.data.admin.ch/eli/oc/1982/1996_1996_1996), [1986 2059](https://fedlex.data.admin.ch/eli/oc/1986/2059_2059_2059), [1987 1867](https://fedlex.data.admin.ch/eli/oc/1987/1867_1867_1867), [1991 803](https://fedlex.data.admin.ch/eli/oc/1991/803_803_803), [1992 997](https://fedlex.data.admin.ch/eli/oc/1992/997_997_997), [2003 3365](https://fedlex.data.admin.ch/eli/oc/2003/466), [2006 2795](https://fedlex.data.admin.ch/eli/oc/2006/432), [2008 43](https://fedlex.data.admin.ch/eli/oc/2008/19), [2014 2167](https://fedlex.data.admin.ch/eli/oc/2014/365), [2018 2743](https://fedlex.data.admin.ch/eli/oc/2018/402), [2020 6391](https://fedlex.data.admin.ch/eli/oc/2020/1044). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1968 982](https://fedlex.data.admin.ch/eli/oc/1968/982_1022_938); [1972 1666](https://fedlex.data.admin.ch/eli/oc/1972/1666_1694_1869); [1974 1411](https://fedlex.data.admin.ch/eli/oc/1974/1411_1411_1411); [1976 504](https://fedlex.data.admin.ch/eli/oc/1976/504_503_503); [1977 10](https://fedlex.data.admin.ch/eli/oc/1977/10_10_10); [1978 310](https://fedlex.data.admin.ch/eli/oc/1978/310_310_310); [1980 1478](https://fedlex.data.admin.ch/eli/oc/1980/1478_1478_1478); [1982 1996](https://fedlex.data.admin.ch/eli/oc/1982/1996_1996_1996); [1986 2059](https://fedlex.data.admin.ch/eli/oc/1986/2059_2059_2059); [1987 1867](https://fedlex.data.admin.ch/eli/oc/1987/1867_1867_1867); [1991 803](https://fedlex.data.admin.ch/eli/oc/1991/803_803_803); [1992 997](https://fedlex.data.admin.ch/eli/oc/1992/997_997_997); [2003 3365](https://fedlex.data.admin.ch/eli/oc/2003/466); [2006 2795](https://fedlex.data.admin.ch/eli/oc/2006/432); [2008 43](https://fedlex.data.admin.ch/eli/oc/2008/19); [2014 2167](https://fedlex.data.admin.ch/eli/oc/2014/365); [2018 2743](https://fedlex.data.admin.ch/eli/oc/2018/402); [2020 6391](https://fedlex.data.admin.ch/eli/oc/2020/1044); [2023 572](https://fedlex.data.admin.ch/eli/oc/2023/572). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

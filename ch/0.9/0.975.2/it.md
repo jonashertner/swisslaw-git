@@ -3,11 +3,11 @@ sr: "0.975.2"
 title: "Convenzione del 18 marzo 1965 per la composizione delle controversie relative agli investimenti fra Stati e cittadini d'altri Stati"
 eli: "https://fedlex.data.admin.ch/eli/cc/1968/982_1022_938"
 language: it
-version: 2020-12-16
+version: 2023-10-05
 adopted: 1965-03-18
 in_force: 1968-06-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/982_1022_938/20201216/it/xml/fedlex-data-admin-ch-eli-cc-1968-982_1022_938-20201216-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1968/982_1022_938/20201216/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/982_1022_938/20231005/it/xml/fedlex-data-admin-ch-eli-cc-1968-982_1022_938-20231005-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1968/982_1022_938/20231005/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,17 +16,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1968/982_1022_938/20201216/it"
 
 Traduzione
 
-Conchiusa a Washington il 18 marzo 1965
+Conchiusa a Washington il 18 marzo 1965 Firmata dalla Svizzera il 22 settembre 1967 Approvata dall’Assemblea federale il 12 marzo 1968[^t-1] Deposito dell’istrumento di ratificazione da parte della Svizzera il 15 maggio 1968 Data dell’entrata in vigore per la Svizzera il 14 giugno 1968
 
-Firmata dalla Svizzera il 22 settembre 1967
-
-Approvata dall’Assemblea federale il 12 marzo 1968[^t-1]
-
-Deposito dell’istrumento di ratificazione da parte della Svizzera: 15 maggio 1968
-
-Data dell’entrata in vigore per la Svizzera: 14 giugno 1968
-
-(Stato 16 dicembre 2020) (Stato 16 dicembre 2020)
+(Stato 5 ottobre 2023)
 
 [^t-1]: RU **1968** 938; FF **1967** II 1460 ediz. franc. 1442 ediz. ted. RU **1968** 937
 
@@ -225,8 +217,8 @@ Le disposizioni dell’articolo 21 sono applicabili alle persone che partecipano
 
 \2) «Cittadino d’un altro Stato contraente» indica:
 
-- a. Tutte le persone fisiche che possiedono la nazionalità di uno Stato contraente che non sia Parte nella controversia alla data in cui le Parti hanno convenuto di sottoporre la controversia alla procedura di conciliazione o d’arbitrato oppure alla data in cui la richiesta è stata registrata conformemente all’articolo 28, capoverso 3) o 36, capoverso 3, eccettuate quelle persone che, in una qualsiasi di tali date, sono ugualmente in possesso della nazionalità dello Stato contraente Parte nella controversia;
-- b. Tutte le persone giuridiche che possiedono la nazionalità di uno Stato contraente, che non sia Parte nella controversia, alla data in cui le Parti hanno convenuto di sottoporre la controversia alla procedura di conciliazione o d’arbitrato, come pure tutte le persone giuridiche aventi la nazionalità dello Stato contraente, Parte nella controversia alla data di cui sopra, ma che le Parti hanno convenuto, ai sensi della presente Convenzione, di considerare nazionali d’un altro Stato contraente, in ragione del controllo esercitato su di essi da interessi esteri.
+- a. tutte le persone fisiche che possiedono la nazionalità di uno Stato contraente che non sia Parte nella controversia alla data in cui le Parti hanno convenuto di sottoporre la controversia alla procedura di conciliazione o d’arbitrato oppure alla data in cui la richiesta è stata registrata conformemente all’articolo 28, capoverso 3) o 36, capoverso 3, eccettuate quelle persone che, in una qualsiasi di tali date, sono ugualmente in possesso della nazionalità dello Stato contraente Parte nella controversia;
+- b. tutte le persone giuridiche che possiedono la nazionalità di uno Stato contraente, che non sia Parte nella controversia, alla data in cui le Parti hanno convenuto di sottoporre la controversia alla procedura di conciliazione o d’arbitrato, come pure tutte le persone giuridiche aventi la nazionalità dello Stato contraente, Parte nella controversia alla data di cui sopra, ma che le Parti hanno convenuto, ai sensi della presente Convenzione, di considerare nazionali d’un altro Stato contraente, in ragione del controllo esercitato su di essi da interessi esteri.
 
 #### Art. 26
 
@@ -257,7 +249,7 @@ Il consenso delle Parti alla procedura d’arbitrato, giusta la presente Convenz
 \1) La Commissione di conciliazione (appresso Commissione) è costituita appena possibile dopo l’avvenuta registrazione della richiesta conformemente all’articolo 28.
 
 - 2) a. La Commissione si compone di un conciliatore unico oppure d’un numero dispari di conciliatori, nominati conformemente all’accordo delle Parti.
-  - b. In mancanza d’accordo fra le Parti sul numero dei conciliatori e sul sistema di nomina, la Commissione si comporrà di tre conciliatori; ogni Parte ne nomina uno mentre il terzo, che funge da Presidente della Commissione, è eletto di comune accordo fra le Parti.
+- b. In mancanza d’accordo fra le Parti sul numero dei conciliatori e sul sistema di nomina, la Commissione si comporrà di tre conciliatori; ogni Parte ne nomina uno mentre il terzo, che funge da Presidente della Commissione, è eletto di comune accordo fra le Parti.
 
 #### Art. 30
 
@@ -310,7 +302,7 @@ Salvo contraria disposizione fra le Parti, nessuna di esse può, in occasione di
 \1) Il Tribunale arbitrale (dappresso: Tribunale) è costituito il più presto possibile, dopo la registrazione d’una domanda conformemente all’articolo 36.
 
 - 2) a. Il Tribunale è composto di un arbitro unico o d’un numero dispari di essi, designati conformemente all’accordo delle Parti.
-  - b. Se le Parti non s’accordano sul numero degli arbitri e sul modo di designarli, il Tribunale sarà composto di tre arbitri; ciascuna Parte ne nomina uno, e il terzo, che presiede il Tribunale, è designato d’intesa fra le Parti.
+- b. Se le Parti non s’accordano sul numero degli arbitri e sul modo di designarli, il Tribunale sarà composto di tre arbitri; ciascuna Parte ne nomina uno, e il terzo, che presiede il Tribunale, è designato d’intesa fra le Parti.
 
 #### Art. 38
 
@@ -571,13 +563,14 @@ Il depositario notifica a tutti gli Stati firmatari le informazioni concernenti:
 <tr><td>George D. Woods Presidente</td><td>A. Broches Consigliere giuridico</td></tr>
 </table>
 
-Campo d’applicazione il 16 dicembre 2020**[^t-2]**
+Campo d’applicazione il 5 ottobre 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Afghanistan</td><td>25 giugno</td><td>1968</td><td>25 luglio</td><td>1968</td></tr>
 <tr><td>Albania</td><td>15 ottobre</td><td>1991</td><td>14 novembre</td><td>1991</td></tr>
 <tr><td>Algeria</td><td>21 febbraio</td><td>1996</td><td>22 marzo</td><td>1996</td></tr>
+<tr><td>Angola</td><td>21 settembre</td><td>2022</td><td>21 ottobre</td><td>2022</td></tr>
 <tr><td>Arabia Saudita</td><td>8 maggio</td><td>1980</td><td>7 giugno</td><td>1980</td></tr>
 <tr><td>Argentina</td><td>19 ottobre</td><td>1994</td><td>18 novembre</td><td>1994</td></tr>
 <tr><td>Armenia</td><td>16 settembre</td><td>1992</td><td>16 ottobre</td><td>1992</td></tr>
@@ -593,7 +586,7 @@ Campo d’applicazione il 16 dicembre 2020**[^t-2]**
 <tr><td>Benin</td><td>6 settembre</td><td>1966</td><td>14 ottobre</td><td>1966</td></tr>
 <tr><td>Bosnia e Erzegovina</td><td>14 maggio</td><td>1997</td><td>13 giugno</td><td>1997</td></tr>
 <tr><td>Botswana</td><td>15 gennaio</td><td>1970</td><td>14 febbraio</td><td>1970</td></tr>
-<tr><td>Brunei</td><td>16 febbraio</td><td>2002</td><td>16 ottobre</td><td>2002</td></tr>
+<tr><td>Brunei</td><td>16 settembre</td><td>2002</td><td>16 ottobre</td><td>2002</td></tr>
 <tr><td>Bulgaria</td><td>13 aprile</td><td>2001</td><td>13 maggio</td><td>2001</td></tr>
 <tr><td>Burkina Faso</td><td>29 agosto</td><td>1966</td><td>14 ottobre</td><td>1966</td></tr>
 <tr><td>Burundi</td><td>5 novembre</td><td>1969</td><td>5 dicembre</td><td>1969</td></tr>
@@ -618,6 +611,7 @@ Campo d’applicazione il 16 dicembre 2020**[^t-2]**
 <tr><td>Croazia</td><td>22 settembre</td><td>1998</td><td>22 ottobre</td><td>1998</td></tr>
 <tr><td>Danimarca</td><td>24 aprile</td><td>1968</td><td>24 maggio</td><td>1968</td></tr>
 <tr><td>Isole Faeröer</td><td>30 ottobre</td><td>1968</td><td>30 ottobre</td><td>1968</td></tr>
+<tr><td>Ecuador</td><td>4 agosto</td><td>2021</td><td>3 settembre</td><td>2021</td></tr>
 <tr><td>Egitto</td><td>3 maggio</td><td>1972</td><td>2 giugno</td><td>1972</td></tr>
 <tr><td>El Salvador</td><td>6 marzo</td><td>1984</td><td>5 aprile</td><td>1984</td></tr>
 <tr><td>Emirati Arabi Uniti</td><td>23 dicembre</td><td>1981</td><td>22 gennaio</td><td>1982</td></tr>
@@ -651,6 +645,7 @@ Campo d’applicazione il 16 dicembre 2020**[^t-2]**
 <tr><td>Italia</td><td>29 marzo</td><td>1971</td><td>28 aprile</td><td>1971</td></tr>
 <tr><td>Kazakstan</td><td>21 settembre</td><td>2000</td><td>21 ottobre</td><td>2000</td></tr>
 <tr><td>Kenya</td><td>3 gennaio</td><td>1967</td><td>2 febbraio</td><td>1967</td></tr>
+<tr><td>Kirghizistan</td><td>21 aprile</td><td>2022</td><td>21 maggio</td><td>2022</td></tr>
 <tr><td>Kosovo</td><td>29 giugno</td><td>2009</td><td>29 luglio</td><td>2009</td></tr>
 <tr><td>Kuwait</td><td>2 febbraio</td><td>1979</td><td>4 marzo</td><td>1979</td></tr>
 <tr><td>Lesotho</td><td>8 luglio</td><td>1969</td><td>7 agosto</td><td>1969</td></tr>
@@ -740,8 +735,8 @@ Campo d’applicazione il 16 dicembre 2020**[^t-2]**
 <tr><td>Yemen</td><td>21 ottobre</td><td>2004</td><td>20 novembre</td><td>2004</td></tr>
 <tr><td>Zambia</td><td>17 giugno</td><td>1970</td><td>17 luglio</td><td>1970</td></tr>
 <tr><td>Zimbabwe</td><td>20 maggio</td><td>1994</td><td>19 giugno</td><td>1994</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet della Banca Internazionale per la Ricostruzione e lo Sviluppo: [https://icsid.worldbank.org/resources/lists/measures-by-member-states-ICSID/8](https://icsid.worldbank.org/resources/lists/measures-by-member-states-ICSID/8), oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> La Conv. non vale per le Isole Cook, Niue e Tokélau.</td></tr>
 </table>
 
-[^t-2]: [RU 1972 1869](https://fedlex.data.admin.ch/eli/oc/1972/1666_1694_1869), [1974 1411](https://fedlex.data.admin.ch/eli/oc/1974/1411_1411_1411), [1976 503](https://fedlex.data.admin.ch/eli/oc/1976/504_503_503), [1977 10](https://fedlex.data.admin.ch/eli/oc/1977/10_10_10), [1978 310](https://fedlex.data.admin.ch/eli/oc/1978/310_310_310), [1980 1478](https://fedlex.data.admin.ch/eli/oc/1980/1478_1478_1478), [1982 1996](https://fedlex.data.admin.ch/eli/oc/1982/1996_1996_1996), [1986 2059](https://fedlex.data.admin.ch/eli/oc/1986/2059_2059_2059), [1987 1867](https://fedlex.data.admin.ch/eli/oc/1987/1867_1867_1867), [1991 803](https://fedlex.data.admin.ch/eli/oc/1991/803_803_803), [1992 997](https://fedlex.data.admin.ch/eli/oc/1992/997_997_997), [2003 3365](https://fedlex.data.admin.ch/eli/oc/2003/466), [2006 2795](https://fedlex.data.admin.ch/eli/oc/2006/432), [2008 43](https://fedlex.data.admin.ch/eli/oc/2008/19), [2014 2167](https://fedlex.data.admin.ch/eli/oc/2014/365), [2018 2743](https://fedlex.data.admin.ch/eli/oc/2018/402)e [2020 6391](https://fedlex.data.admin.ch/eli/oc/2020/1044). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1968 938](https://fedlex.data.admin.ch/eli/oc/1968/982_1022_938); [1972 1869](https://fedlex.data.admin.ch/eli/oc/1972/1666_1694_1869); [1974 1411](https://fedlex.data.admin.ch/eli/oc/1974/1411_1411_1411); [1976 503](https://fedlex.data.admin.ch/eli/oc/1976/504_503_503); [1977 10](https://fedlex.data.admin.ch/eli/oc/1977/10_10_10); [1978 310](https://fedlex.data.admin.ch/eli/oc/1978/310_310_310); [1980 1478](https://fedlex.data.admin.ch/eli/oc/1980/1478_1478_1478); [1982 1996](https://fedlex.data.admin.ch/eli/oc/1982/1996_1996_1996); [1986 2059](https://fedlex.data.admin.ch/eli/oc/1986/2059_2059_2059); [1987 1867](https://fedlex.data.admin.ch/eli/oc/1987/1867_1867_1867); [1991 803](https://fedlex.data.admin.ch/eli/oc/1991/803_803_803); [1992 997](https://fedlex.data.admin.ch/eli/oc/1992/997_997_997); [2003 3365](https://fedlex.data.admin.ch/eli/oc/2003/466); [2006 2795](https://fedlex.data.admin.ch/eli/oc/2006/432); [2008 43](https://fedlex.data.admin.ch/eli/oc/2008/19); [2014 2167](https://fedlex.data.admin.ch/eli/oc/2014/365); [2018 2743](https://fedlex.data.admin.ch/eli/oc/2018/402); [2020 6391](https://fedlex.data.admin.ch/eli/oc/2020/1044); [2023 572](https://fedlex.data.admin.ch/eli/oc/2023/572). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

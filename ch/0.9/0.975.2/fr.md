@@ -3,11 +3,11 @@ sr: "0.975.2"
 title: "Convention du 18 mars 1965 pour le Règlement des Différends relatifs aux Investissements entre États et Ressortissants d'autres États"
 eli: "https://fedlex.data.admin.ch/eli/cc/1968/982_1022_938"
 language: fr
-version: 2020-12-16
+version: 2023-10-05
 adopted: 1965-03-18
 in_force: 1968-06-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/982_1022_938/20201216/fr/xml/fedlex-data-admin-ch-eli-cc-1968-982_1022_938-20201216-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1968/982_1022_938/20201216/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/982_1022_938/20231005/fr/xml/fedlex-data-admin-ch-eli-cc-1968-982_1022_938-20231005-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1968/982_1022_938/20231005/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,17 +18,9 @@ RO **1968** 1022; FF **1967** II 1460
 
 Texte original
 
-Conclue à Washington le 18 mars 1965
+Conclue à Washington le 18 mars 1965 Signée par la Suisse le 22 septembre 1967 Approuvée par l’Assemblée fédérale le 12 mars 1968[^t-1] Instrument de ratification déposé par la Suisse le 15 mai 1968 Entrée en vigueur pour la Suisse le 14 juin 1968
 
-Signée par la Suisse le 22 septembre 1967
-
-Approuvée par l’Assemblée fédérale le 12 mars 1968[^t-1]
-
-Instrument de ratification déposé par la Suisse le 15 mai 1968
-
-Entrée en vigueur pour la Suisse le 14 juin 1968
-
-(Etat le 16 décembre 2020)
+(État le 5 octobre 2023)
 
 [^t-1]: [RO 1968 1021](https://fedlex.data.admin.ch/eli/oc/1968/981_1021_937)
 
@@ -577,7 +569,7 @@ Le dépositaire donnera notification à tous les États signataires des informat
 <tr><td>George D. Woods Président</td><td>A. Broches Conseiller juridique</td></tr>
 </table>
 
-Champ d’application le 16 décembre 2020**[^t-2]**
+Champ d’application le 5 octobre 2023[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -585,6 +577,7 @@ Champ d’application le 16 décembre 2020**[^t-2]**
 <tr><td>Albanie</td><td>15 octobre</td><td>1991</td><td>14 novembre</td><td>1991</td></tr>
 <tr><td>Algérie</td><td>21 février</td><td>1996</td><td>22 mars</td><td>1996</td></tr>
 <tr><td>Allemagne</td><td>18 avril</td><td>1969</td><td>18 mai</td><td>1969</td></tr>
+<tr><td>Angola</td><td>21 septembre</td><td>2022</td><td>21 octobre</td><td>2022</td></tr>
 <tr><td>Arabie Saoudite</td><td>8 mai</td><td>1980</td><td>7 juin</td><td>1980</td></tr>
 <tr><td>Argentine</td><td>19 octobre</td><td>1994</td><td>18 novembre</td><td>1994</td></tr>
 <tr><td>Arménie</td><td>16 septembre</td><td>1992</td><td>16 octobre</td><td>1992</td></tr>
@@ -600,7 +593,7 @@ Champ d’application le 16 décembre 2020**[^t-2]**
 <tr><td>Bénin</td><td>6 septembre</td><td>1966</td><td>14 octobre</td><td>1966</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>14 mai</td><td>1997</td><td>13 juin</td><td>1997</td></tr>
 <tr><td>Botswana</td><td>15 janvier</td><td>1970</td><td>14 février</td><td>1970</td></tr>
-<tr><td>Brunéi</td><td>16 février</td><td>2002</td><td>16 octobre</td><td>2002</td></tr>
+<tr><td>Brunéi</td><td>16 septembre</td><td>2002</td><td>16 octobre</td><td>2002</td></tr>
 <tr><td>Bulgarie</td><td>13 avril</td><td>2001</td><td>13 mai</td><td>2001</td></tr>
 <tr><td>Burkina Faso</td><td>29 août</td><td>1966</td><td>14 octobre</td><td>1966</td></tr>
 <tr><td>Burundi</td><td>5 novembre</td><td>1969</td><td>5 décembre</td><td>1969</td></tr>
@@ -609,7 +602,7 @@ Champ d’application le 16 décembre 2020**[^t-2]**
 <tr><td>Canada</td><td>1<sup>er</sup> novembre</td><td>2013</td><td>1<sup>er</sup> décembre</td><td>2013</td></tr>
 <tr><td>Cap-Vert</td><td>27 décembre</td><td>2010</td><td>26 janvier</td><td>2011</td></tr>
 <tr><td>Chili</td><td>24 septembre</td><td>1991</td><td>24 octobre</td><td>1991</td></tr>
-<tr><td>Chine<sup>\*</sup></td><td>7 janvier</td><td>1993</td><td>6 février</td><td>1993</td></tr>
+<tr><td>Chine\*</td><td>7 janvier</td><td>1993</td><td>6 février</td><td>1993</td></tr>
 <tr><td>Hong Kong</td><td>4 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
 <tr><td>Macao</td><td>13 décembre</td><td>1999</td><td>20 décembre</td><td>1999</td></tr>
 <tr><td>Chypre</td><td>25 novembre</td><td>1966</td><td>25 décembre</td><td>1966</td></tr>
@@ -627,6 +620,7 @@ Champ d’application le 16 décembre 2020**[^t-2]**
 <tr><td>Égypte</td><td>3 mai</td><td>1972</td><td>2 juin</td><td>1972</td></tr>
 <tr><td>El Salvador</td><td>6 mars</td><td>1984</td><td>5 avril</td><td>1984</td></tr>
 <tr><td>Émirats arabes unis</td><td>23 décembre</td><td>1981</td><td>22 janvier</td><td>1982</td></tr>
+<tr><td>Équateur</td><td>4 août</td><td>2021</td><td>3 septembre</td><td>2021</td></tr>
 <tr><td>Espagne</td><td>18 août</td><td>1994</td><td>17 septembre</td><td>1994</td></tr>
 <tr><td>Estonie</td><td>23 juin</td><td>1992</td><td>23 juillet</td><td>1992</td></tr>
 <tr><td>Eswatini</td><td>14 juin</td><td>1971</td><td>14 juillet</td><td>1971</td></tr>
@@ -658,6 +652,7 @@ Champ d’application le 16 décembre 2020**[^t-2]**
 <tr><td>Jordanie</td><td>30 octobre</td><td>1972</td><td>29 novembre</td><td>1972</td></tr>
 <tr><td>Kazakhstan</td><td>21 septembre</td><td>2000</td><td>21 octobre</td><td>2000</td></tr>
 <tr><td>Kenya</td><td>3 janvier</td><td>1967</td><td>2 février</td><td>1967</td></tr>
+<tr><td>Kirghizistan</td><td>21 avril</td><td>2022</td><td>21 mai</td><td>2022</td></tr>
 <tr><td>Kosovo</td><td>29 juin</td><td>2009</td><td>29 juillet</td><td>2009</td></tr>
 <tr><td>Koweït</td><td>2 février</td><td>1979</td><td>4 mars</td><td>1979</td></tr>
 <tr><td>Lesotho</td><td>8 juillet</td><td>1969</td><td>7 août</td><td>1969</td></tr>
@@ -687,7 +682,7 @@ Champ d’application le 16 décembre 2020**[^t-2]**
 <tr><td>Niger</td><td>14 novembre</td><td>1966</td><td>14 décembre</td><td>1966</td></tr>
 <tr><td>Nigéria</td><td>23 août</td><td>1965</td><td>14 octobre</td><td>1966</td></tr>
 <tr><td>Norvège</td><td>16 août</td><td>1967</td><td>15 septembre</td><td>1967</td></tr>
-<tr><td>Nouvelle-Zélande<sup>a</sup></td><td>2 avril</td><td>1980</td><td>2 mai</td><td>1980</td></tr>
+<tr><td>Nouvelle-Zélande <sup>a</sup></td><td>2 avril</td><td>1980</td><td>2 mai</td><td>1980</td></tr>
 <tr><td>Oman</td><td>24 juillet</td><td>1995</td><td>23 août</td><td>1995</td></tr>
 <tr><td>Ouganda</td><td>7 juin</td><td>1966</td><td>14 octobre</td><td>1966</td></tr>
 <tr><td>Ouzbékistan</td><td>26 juillet</td><td>1995</td><td>25 août</td><td>1995</td></tr>
@@ -707,7 +702,7 @@ Champ d’application le 16 décembre 2020**[^t-2]**
 <tr><td>République centrafricaine</td><td>23 février</td><td>1966</td><td>14 octobre</td><td>1966</td></tr>
 <tr><td>République tchèque</td><td>23 mars</td><td>1993</td><td>22 avril</td><td>1993</td></tr>
 <tr><td>Roumanie</td><td>12 septembre</td><td>1975</td><td>12 octobre</td><td>1975</td></tr>
-<tr><td>Royaume-Uni<sup>\*</sup></td><td>19 décembre</td><td>1966</td><td>18 janvier</td><td>1967</td></tr>
+<tr><td>Royaume-Uni\*</td><td>19 décembre</td><td>1966</td><td>18 janvier</td><td>1967</td></tr>
 <tr><td>Guernesey</td><td></td><td></td><td>10 décembre</td><td>1968</td></tr>
 <tr><td>Île de Man</td><td></td><td></td><td>1<sup>er</sup> novembre</td><td>1983</td></tr>
 <tr><td>Jersey</td><td></td><td></td><td>1<sup>er</sup> juillet</td><td>1979</td></tr>
@@ -746,7 +741,7 @@ Champ d’application le 16 décembre 2020**[^t-2]**
 <tr><td>Yémen</td><td>21 octobre</td><td>2004</td><td>20 novembre</td><td>2004</td></tr>
 <tr><td>Zambie</td><td>17 juin</td><td>1970</td><td>17 juillet</td><td>1970</td></tr>
 <tr><td>Zimbabwe</td><td>20 mai</td><td>1994</td><td>19 juin</td><td>1994</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La convention n’est pas applicable aux Îles Cook, à Nioué et Tokelau.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse de la Banque Internationale pour la Reconstruction et le Développement : [https://icsid.worldbank.org/resources/lists/measures-by-member-states-ICSID/8](https://icsid.worldbank.org/resources/lists/measures-by-member-states-ICSID/8), ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La convention n’est pas applicable aux Îles Cook, à Nioué et Tokelau.</td></tr>
 </table>
 
-[^t-2]: [RO 1972 1694](https://fedlex.data.admin.ch/eli/oc/1972/1666_1694_1869), [1974 1411](https://fedlex.data.admin.ch/eli/oc/1974/1411_1411_1411),[1976 503](https://fedlex.data.admin.ch/eli/oc/1976/504_503_503), [1977 10](https://fedlex.data.admin.ch/eli/oc/1977/10_10_10), [1978 310](https://fedlex.data.admin.ch/eli/oc/1978/310_310_310), [1980 1478](https://fedlex.data.admin.ch/eli/oc/1980/1478_1478_1478), [1982 1996](https://fedlex.data.admin.ch/eli/oc/1982/1996_1996_1996), [1986 2059](https://fedlex.data.admin.ch/eli/oc/1986/2059_2059_2059), [1987 1867](https://fedlex.data.admin.ch/eli/oc/1987/1867_1867_1867), [1991 803](https://fedlex.data.admin.ch/eli/oc/1991/803_803_803),[1992 997](https://fedlex.data.admin.ch/eli/oc/1992/997_997_997), [2003 3365](https://fedlex.data.admin.ch/eli/oc/2003/466), [2006 2795](https://fedlex.data.admin.ch/eli/oc/2006/432), [2008 43](https://fedlex.data.admin.ch/eli/oc/2008/19), [2014 2167](https://fedlex.data.admin.ch/eli/oc/2014/365), [2018 2743](https://fedlex.data.admin.ch/eli/oc/2018/402), [2020 6391](https://fedlex.data.admin.ch/eli/oc/2020/1044). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1968 1022](https://fedlex.data.admin.ch/eli/oc/1968/982_1022_938); [1972 1694](https://fedlex.data.admin.ch/eli/oc/1972/1666_1694_1869); [1974 1411](https://fedlex.data.admin.ch/eli/oc/1974/1411_1411_1411); [1976 503](https://fedlex.data.admin.ch/eli/oc/1976/504_503_503); [1977 10](https://fedlex.data.admin.ch/eli/oc/1977/10_10_10); [1978 310](https://fedlex.data.admin.ch/eli/oc/1978/310_310_310); [1980 1478](https://fedlex.data.admin.ch/eli/oc/1980/1478_1478_1478); [1982 1996](https://fedlex.data.admin.ch/eli/oc/1982/1996_1996_1996); [1986 2059](https://fedlex.data.admin.ch/eli/oc/1986/2059_2059_2059); [1987 1867](https://fedlex.data.admin.ch/eli/oc/1987/1867_1867_1867); [1991 803](https://fedlex.data.admin.ch/eli/oc/1991/803_803_803); [1992 997](https://fedlex.data.admin.ch/eli/oc/1992/997_997_997); [2003 3365](https://fedlex.data.admin.ch/eli/oc/2003/466); [2006 2795](https://fedlex.data.admin.ch/eli/oc/2006/432); [2008 43](https://fedlex.data.admin.ch/eli/oc/2008/19); [2014 2167](https://fedlex.data.admin.ch/eli/oc/2014/365); [2018 2743](https://fedlex.data.admin.ch/eli/oc/2018/402); [2020 6391](https://fedlex.data.admin.ch/eli/oc/2020/1044); [2023 572](https://fedlex.data.admin.ch/eli/oc/2023/572). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
