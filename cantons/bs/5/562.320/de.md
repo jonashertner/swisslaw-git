@@ -3,13 +3,12 @@ canton: BS
 number: "562.320"
 title: Verordnung betreffend Messen und Märkte in der Stadt Basel
 language: de
-version: 2020-07-01
-valid_until: 2023-10-04
-version_adopted: 2020-05-05
+version: 2023-10-05
+version_adopted: 2023-09-26
 adopted: 2009-06-16
 in_force: 2010-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/562.320"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6039/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6040/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6039/pdf_file"
 
 Messen und Märkte: Verordnung | Handel / Märkte / Schaustellungen
 
-Vom 16. Juni 2009 (Stand 1. Juli 2020)
+Vom 16. Juni 2009 (Stand 5. Oktober 2023)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -61,6 +60,8 @@ beschliesst:
 **Bewilligungspflicht**
 
 <sup>1</sup> Die Teilnahme an einer Veranstaltung im Sinn von § 2 untersteht der Bewilligungspflicht, sofern keine abweichenden Bestimmungen bestehen.
+
+<sup>2</sup> Die Bewilligungen werden je nach Veranstaltung in Form von Jahresbewilligungen, unterjährig befristeten Bewilligungen und Tagesbewilligungen erteilt.
 
 #### § 5
 
@@ -162,13 +163,15 @@ beschliesst:
 
 #### § 15
 
-**Begriff**
+**Allgemeines**
 
 <sup>1</sup> Die Basler Herbstmesse ist eine traditionelle, im regionalen und nationalen Brauchtum verankerte, jährlich wiederkehrende öffentliche Veranstaltung, an der fliegende Bauten, Spiel- und Schiessgeschäfte, Handels- und Handwerksstände, Verpflegungs- und Süsswarenstände betrieben und Waren und Lebensmittel ausserhalb von ständigen Verkaufsräumen feilgeboten werden. Sie richtet sich an die Basler Bevölkerung sowie die Besucherinnen und Besucher der Stadt Basel als Zielpublikum.
 
 <sup>2</sup> Die Standorte der Basler Herbstmesse sollen auf die Basler Innerstadt konzentriert werden.
 
 <sup>3</sup> Mit der Auswahl der Geschäfte, welche an der Basler Herbstmesse vertreten sind, soll unter Berücksichtigung des nationalen Charakters der Veranstaltung eine Attraktivitätssteigerung der Stadt Basel erreicht werden.
+
+<sup>4</sup> Gesuche für die Bewilligung eines Standplatzes sind bis am 31. Januar des jeweiligen Jahres einzureichen.
 
 #### § 16
 
@@ -192,11 +195,13 @@ beschliesst:
 
 #### § 19
 
-**Begriff**
+**Allgemeines**
 
 <sup>1</sup> Am Basler Weihnachtsmarkt werden Waren vertrieben, welche in einem direkten Zusammenhang zur Adventszeit und zum Weihnachtsfest stehen. Es soll vorweihnachtliche Stimmung verbreitet werden. Der Basler Weihnachtsmarkt ist ein wichtiger Bestandteil der Basler Weihnacht und auf die Basler Innenstadt ausgerichtet. Ziel der Basler Weihnacht und damit des Basler Weihnachtsmarktes ist es, der Bevölkerung sowie den Besucherinnen und Besuchern der Stadt Basel während der Vorweihnachtszeit eine besonders attraktive Innerstadt zu bieten.
 
 <sup>2</sup> Zur Ergänzung des Marktgeschehens werden Verpflegungsstände bewilligt.
+
+<sup>3</sup> Gesuche für die Bewilligung eines Standplatzes sind bis am letzten Tag im Februar des jeweiligen Jahres einzureichen.
 
 #### § 20
 
@@ -230,46 +235,48 @@ beschliesst:
 
 <sup>4</sup> …
 
-### 3. Abschnitt: Basler Stadtmarkt
+### 3. Abschnitt: Basler Stadtmarkt und Basler Schlemmer-Markt
 
 #### § 24
 
-**Begriff**
+**Allgemeines**
 
-<sup>1</sup> Am Basler Stadtmarkt werden Frischwaren zum Verkauf angeboten.
+<sup>1</sup> Am Basler Stadtmarkt werden Frischwaren zum Verkauf angeboten. Bei der Vergabe von Standplätzen werden Stände mit nachhaltiger Eigenproduktion aus dem trinationalen Raum bevorzugt.
 
 <sup>2</sup> Verpflegungseinheiten können zur Ergänzung des Angebots bewilligt werden.
 
 <sup>3</sup> Der Verkauf von weiteren Marktwaren kann in Einzelfällen bewilligt werden.
 
+<sup>4</sup> Am Basler Schlemmer-Markt, welcher montags stattfindet, werden Verpflegungsgelegenheiten angeboten. Bei der Vergabe von Standplätzen werden Stände mit nachhaltig produzierten Produkten bevorzugt.
+
 #### § 25
 
 **Marktstandort**
 
-<sup>1</sup> Der Basler Stadtmarkt findet ganzjährig auf dem Marktplatz statt.
+<sup>1</sup> Der Basler Stadtmarkt und der Basler Schlemmer-Markt finden ganzjährig auf dem Marktplatz statt.
 
 #### § 26
 
 **Marktzeiten**
 
-<sup>1</sup> Es gelten folgende Marktzeiten:
+<sup>1</sup> Die Marktzeiten sind:
 
-- a) Montag bis Donnerstag: 08.00–14.00 Uhr
-- b) Freitag und Samstag: 08.00–18.00 Uhr
+- a) Montag bis Donnerstag: 07.00–14.00 Uhr
+- b) Freitag und Samstag: 07.00–18.00 Uhr
 
 <sup>2</sup> Spätestens eine Stunde nach Marktschluss müssen alle Marktstände weggeräumt und der Marktplatz frei von Geschäften und Fahrzeugen sein.
 
-<sup>3</sup> Von Montag bis Samstag müssen die bewilligten Marktstände zwingend von 08.30–14.00 Uhr betrieben werden. Freitags und Samstags sind die Standbetreiberinnen bzw. Standbetreiber berechtigt, den Markt zwischen 14.00 und 15.00 Uhr zu verlassen.
+<sup>3</sup> …
 
 <sup>4</sup> Vor und während Feiertagen sowie für öffentliche Veranstaltungen von übergeordneter Bedeutung legt die Vollzugsbehörde die Marktzeiten fest und kann vorübergehend auch auf die Durchführung des Stadtmarktes verzichten. Die von der Vollzugsbehörde festgelegten Marktzeiten und der vorübergehende Verzicht auf die Durchführung des Stadtmarktes müssen jeweils vier Wochen im Voraus kommuniziert werden.
 
 #### § 27
 
-**Stammplatz**
+**Bewilligungen**
 
-<sup>1</sup> Die Bewilligung zum Betrieb eines Standes auf dem Basler Stadtmarkt ist auf ein Jahr befristet, wenn dieser an höchstens zwei Tagen pro Woche betrieben wird. In diesen Fällen wird die Bewilligung automatisch um ein Jahr verlängert, sofern sie nicht von der Standbetreiberin bzw. dem Standbetreiber oder der Bewilligungsbehörde mindestens zwei Monate vor Ablauf der Bewilligung gekündigt wird.
+<sup>1</sup> Jahresbewilligungen für den Betrieb eines Standes auf dem Basler Stadtmarkt und Basler Schlemmer-Markt, welche mehr als zwei Tage pro Woche betrieben werden, werden automatisch um ein Jahr verlängert, sofern sie nicht von der Standbetreiberin oder dem Standbetreiber mindestens zwei Monate vor Ablauf der Bewilligung gekündigt oder von der Bewilligungsbehörde widerrufen werden. Veränderte oder neue Marktangebote müssen fristgerecht beantragt und bewilligt werden.
 
-<sup>2</sup> Die Bewilligung zum Betrieb eines Standes auf dem Basler Stadtmarkt ist auf zwei Jahre befristet, wenn dieser an mehr als zwei Tagen pro Woche betrieben wird. In diesen Fällen wird die Bewilligung automatisch um zwei Jahre verlängert, sofern sie nicht von der Standbetreiberin bzw. dem Standbetreiber oder der Bewilligungsbehörde mindestens ein Jahr vor Ablauf der Bewilligung gekündigt wird.
+<sup>2</sup> Andere Jahresbewilligungen sowie Tagesbewilligungen und unterjährig befristete Bewilligungen verlängern sich nicht automatisch.
 
 ### 4. Abschnitt: Neuwarenmarkt
 
@@ -291,23 +298,25 @@ beschliesst:
 
 **Marktzeiten**
 
-<sup>1</sup> Der Neuwarenmarkt findet vom ersten Donnerstag im Januar bis drittletzten Donnerstag im Oktober grundsätzlich jeden Donnerstag jeweils von 7.00–20.00 Uhr statt.
+<sup>1</sup> Der Neuwarenmarkt findet vom ersten Donnerstag im Januar bis drittletzten Donnerstag im Oktober grundsätzlich jeden Donnerstag zwischen 07.00 bis 20.00 Uhr statt.
+
+<sup>2</sup> Die effektiven Betriebszeiten des Marktes werden von der Vollzugsbehörde geregelt.
 
 #### § 31
 
-**Stammplatz**
+**Bewilligungen**
 
-<sup>1</sup> Die Bewilligungsbehörde (§ 3 Abs. 1) kann einen Stammplatz bewilligen, sofern an mindestens drei Vierteln aller Markttage des Vorjahres ein Stand betrieben wurde.
+<sup>1</sup> Die Bewilligungsbehörde bewilligt den Betrieb eines Standes mittels Jahres- oder Tagesbewilligungen.
 
-<sup>2</sup> Die Bewilligung für einen Stammplatz ist ein Jahr gültig.
+<sup>2</sup> …
 
 ### 5. Abschnitt: Flohmärkte
 
 #### § 32
 
-**Begriff**
+**Allgemeines**
 
-<sup>1</sup> Am Flohmarkt wird mit alten sowie gebrauchten Waren jeglicher Art gehandelt.
+<sup>1</sup> Am Flohmarkt wird mit alten sowie gebrauchten Waren gehandelt. Die Vollzugsbehörde kann den Handel mit bestimmten Waren oder Warengruppen einschränken oder verbieten.
 
 <sup>2</sup> In Ergänzung zum Angebot können einzelne Verpflegungsstände bewilligt werden.
 
@@ -321,24 +330,26 @@ beschliesst:
 
 **Marktzeiten**
 
-<sup>1</sup> Es gelten folgende Marktzeiten:
+<sup>1</sup> Die Marktzeiten sind:
 
 - a) Barfüsserplatz: vom zweiten Mittwoch im Januar bis zum zweiten Mittwoch im Oktober jeweils am zweiten und vierten Mittwoch eines jeden Monats von 6.30–19.00 Uhr.
 - b) Petersplatz: in der Zeit vom ersten Samstag im Januar bis zum ersten oder zweiten Samstag im Oktober sowie ab dem vierten Samstag im November bis am Samstag vor der Weihnachtswoche grundsätzlich jeden Samstag von 7.30–16.00 Uhr.
 
 <sup>2</sup> Allfällige kurzfristige Änderungen der Marktzeiten bleiben vorbehalten.
 
+<sup>3</sup> Die effektiven Betriebszeiten des Marktes werden von der Vollzugsbehörde geregelt.
+
 #### § 35
 
-**Platzzuteilung**
+**Bewilligungen**
 
-<sup>1</sup> Die Zuteilung der Standplätze, Verpflegungsstände ausgenommen, erfolgt gemäss Eingang der Anmeldungen.
+<sup>1</sup> Die Zuteilung der Standplätze erfolgt gemäss Eingang der Gesuche, mit Ausnahme der Verpflegungsstände, wo die Zuteilung nach Art des Angebots erfolgt.
 
-<sup>2</sup> Die Bewilligungsbehörde (§ 3 Abs. 1) kann einen Stammplatz bewilligen, sofern an mindestens drei Vierteln aller Markttage des Vorjahres ein Stand betrieben wurde.
+<sup>2</sup> Die Bewilligungsbehörde bewilligt den Betrieb eines Standes mittels Jahres- oder Tagesbewilligungen.
 
-<sup>3</sup> Die Bewilligung für einen Stammplatz ist ein Jahr gültig.
+<sup>3</sup> …
 
-<sup>4</sup> Betreiberinnen und Betreiber von Verpflegungsständen benötigen eine Bewilligung.
+<sup>4</sup> …
 
 ### 6. Abschnitt: Quartiermärkte
 
@@ -401,7 +412,7 @@ beschliesst:
 
 <sup>4</sup> Die Behebung der Beanstandung vermittelt keinen Anspruch auf Neuerteilung der Bewilligung.
 
-<sup>5</sup> Als administrative Massnahme kann auch eine gebührenpflichtige Verwarnung ausgesprochen werden.
+<sup>5</sup> …
 
 #### § 44
 
@@ -432,5 +443,11 @@ beschliesst:
 **Wirksamkeit**
 
 <sup>1</sup> Diese Verordnung ist zu publizieren. Sie wird am 1. Januar 2010 wirksam.
+
+#### § 48
+
+**Übergangsbestimmung**
+
+<sup>1</sup> Die zum Zeitpunkt des Inkrafttretens des neuen Rechts hängigen Bewilligungen laufen gemäss den altrechtlichen Konditionen weiter bis zum Ablauf ihrer Befristung. Sie verlängern sich nicht automatisch.
 
 KB 20.06.2009
