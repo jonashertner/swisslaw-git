@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: fr
-version: 2023-09-30
+version: 2023-10-06
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20230930/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20230930-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20230930/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20231006/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20231006-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20231006/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures en lien avec la situation en Ukraine
 
-du 4 mars 2022 (État le 30 septembre 2023)
+du 4 mars 2022 (État le 6 octobre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -2812,7 +2812,7 @@ Annexe 20[^t-16]
 
 ## Biens importants sur le plan économique
 
-[^t-16]: Introduite par le ch. II al. 3 de l’O du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nouvelle teneur selon le ch. II al. 2 de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^t-16]: Introduite par le ch. II al. 3 de l’O du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nouvelle teneur selon le ch. II al. 2 de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)). Erratum du 6 oct. 2023, ne concerne que les textes allemand et italien ([RO 2023 567](https://fedlex.data.admin.ch/eli/oc/2023/567)).
 
 <table>
 <tr><th></th><th>Position tarifaire</th><th>Désignation</th></tr>

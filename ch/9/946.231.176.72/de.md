@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2023-09-30
+version: 2023-10-06
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20230930/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20230930-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20230930/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20231006/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20231006-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20231006/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 30. September 2023)
+vom 4. März 2022 (Stand am 6. Oktober 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -2812,7 +2812,7 @@ Anhang 20[^t-16]
 
 ## Wirtschaftlich bedeutende Güter
 
-[^t-16]: Eingefügt durch Ziff. II Abs. 3 der V vom 27. April 2022 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Fassung gemäss Ziff. II Abs. 2 der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^t-16]: Eingefügt durch Ziff. II Abs. 3 der V vom 27. April 2022 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Fassung gemäss Ziff. II Abs. 2 der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)). Bereinigt gemäss Berichtigung vom 6. Okt. 2023 ([AS 2023 567](https://fedlex.data.admin.ch/eli/oc/2023/567)).
 
 <table>
 <tr><th></th><th>Zolltarifnummer</th><th>Bezeichnung</th></tr>
@@ -2937,7 +2937,7 @@ Anhang 20[^t-16]
 <tr><td></td><td>8407</td><td>Hubkolben- oder Kreiskolbenmotoren mit Funkenzündung (Verbrennungsmotoren</td></tr>
 <tr><td></td><td>8408</td><td>Kolbenmotoren mit Kompressionszündung (Diesel- oder Halbdieselmotoren)</td></tr>
 <tr><td></td><td>8409</td><td>Teile, erkennbar als ausschliesslich oder hauptsächlich für Motoren der Nrn. 8407 oder 8408 bestimmt</td></tr>
-<tr><td></td><td>8411</td><td>Turbo-Strahltriebwerke, Turbo-Propellertriebwerke und andere Gasturbinen, ausgenommen Teile von Turbo-Strahltriebwerken und Turbo-Propellertriebwerken der Nummer 8411 91</td></tr>
+<tr><td></td><td>8411</td><td>Turbo-Strahltriebwerke, Turbo-Propellertriebwerke und andere Gasturbinen</td></tr>
 <tr><td></td><td>8412</td><td>Andere Motoren und Kraftmaschinen</td></tr>
 <tr><td></td><td>8413</td><td>Pumpen für Flüssigkeiten, auch mit Flüssigkeitsmesser (ausg. medizinische Sekret-Absaugpumpen oder am Körper zu tragende oder implantierbare medizinische Pumpen); Hebewerke für Flüssigkeiten (ausg. Pumpen)</td></tr>
 <tr><td></td><td>8414</td><td>Luft- oder Vakuumpumpen, Luft- oder andere Gaskompressoren und Ventilatoren; Abluft- oder Umluftabzugshauben, mit eingebautem Ventilator, auch mit Filter; gasdichte biologische Sicherheitswerkbänke, auch mit Filter</td></tr>

@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2023-09-30
+version: 2023-10-06
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20230930/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20230930-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20230930/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20231006/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20231006-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20231006/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 30 settembre 2023)
+del 4 marzo 2022 (Stato 6 ottobre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -2808,7 +2808,7 @@ Allegato 20[^t-16]
 
 ## Beni economicamente importanti
 
-[^t-16]: Introdotto dal n. II cpv. 3 dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nuovo testo giusta il n. II cpv. 2 dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^t-16]: Introdotto dal n. II cpv. 3 dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nuovo testo giusta il n. II cpv. 2 dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)). Aggiornato dalla correzione del 6 ott. 2023 ([RU 2023 567](https://fedlex.data.admin.ch/eli/oc/2023/567)).
 
 <table>
 <tr><th></th><th>Voce di tariffa doganale</th><th>Designazione</th></tr>
@@ -2933,7 +2933,7 @@ Allegato 20[^t-16]
 <tr><td></td><td>8407</td><td>Motori a pistone alternativo o rotativo, con accensione a scintilla (motori a scoppio)</td></tr>
 <tr><td></td><td>8408</td><td>Motori a pistone, con accensione per compressione (motori diesel o semi-diesel)</td></tr>
 <tr><td></td><td>8409</td><td>Parti riconoscibili come destinate, esclusivamente o principalmente, ai motori delle voci 8407 o 8408</td></tr>
-<tr><td></td><td>8411</td><td>Turboreattori, turbopropulsori e altre turbine a gas, esclusi pezzi di turboreattori o di turboeliche della voce 8411 91</td></tr>
+<tr><td></td><td>8411</td><td>Turboreattori, turbopropulsori e altre turbine a gas</td></tr>
 <tr><td></td><td>8412</td><td>Altri motori e macchine motrici</td></tr>
 <tr><td></td><td>8413</td><td>Pompe per liquidi, anche aventi un dispositivo misuratore; elevatori per liquidi</td></tr>
 <tr><td></td><td>8414</td><td>Pompe per aria o per vuoto, compressori di aria o di altri gas e ventilatori; cappe aspiranti, a estrazione o a riciclaggio, con ventilatore incorporato, anche filtranti; cabine di biosicurezza a tenuta di gas, anche filtranti</td></tr>
