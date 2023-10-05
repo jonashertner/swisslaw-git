@@ -3,20 +3,20 @@ canton: ZG
 number: "861.42"
 title: Verordnung betreffend Sozialhilfe für Personen aus dem Asylbereich
 language: de
-version: 2021-01-01
-valid_until: 2023-10-05
-version_adopted: 2020-12-01
+version: 2023-10-06
+valid_until: 2026-03-31
+version_adopted: 2023-10-03
 adopted: 2009-01-27
 in_force: 2009-07-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/861.42"
-pdf: "https://bgs.zg.ch/api/de/versions/2177/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2491/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung betreffend Sozialhilfe für Personen aus dem Asylbereich
 
-Vom 27. Januar 2009 (Stand 1. Januar 2021)
+Vom 27. Januar 2009 (Stand 6. Oktober 2023)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -108,6 +108,18 @@ beschliesst:
 
 <sup>3</sup> Das kantonale Sozialamt erlässt eine Regelung betreffend Aufenthalt und Unterbringung, die insbesondere Bestimmungen zur Wahrung von Ruhe und Ordnung enthält.
 
+<sup>4</sup> Verstösse gegen die vom kantonalen Sozialamt erlassene Regelung betreffend Aufenthalt und Unterbringung kann dieses insbesondere mit folgenden Massnahmen sanktionieren:
+
+- a) schriftlicher Verweis;
+- b) Verbot, bestimmte Räume in einer Unterkunft zu betreten;
+- c) Hausverbot;
+- d) Verdichtung des Auszahlungsrhythmus mit der Pflicht zur persönlichen Anwesenheit;
+- e) Kürzung des Grundbedarfs bis zu 10%;
+- f) temporärer Ausschluss aus einer Unterkunft;
+- g) definitiver Ausschluss aus einer Unterkunft.
+
+<sup>5</sup> Ist Dringlichkeit geboten, ordnet die Leitung der Unterkunft die Massnahme an. Sie ist durch das kantonale Sozialamt zu bestätigen.
+
 #### § 9
 
 **Mitwirkung der Einwohnergemeinden**
@@ -152,30 +164,18 @@ beschliesst:
 - a) Amt für Migration: 45 %
 - b) Kantonales Sozialamt: 55 %
 
-## 4. Schlussbestimmungen
+## 4.
 
 #### § 13
 
-**Änderung bisherigen Rechts[^13-1]**
-
-[^13-1]: Die Änderung der SHV ist dort publiziert.
+**…**
 
 #### § 14
 
-**Aufhebung bisherigen Rechts**
-
-<sup>1</sup> Der Regierungsratsbeschluss vom 21. September 1999 betreffend Verteilung der bundesrechtlichen Abgeltungen zwischen Kanton und Gemeinden / Fürsorgeleistungen an Asylsuchende und Schutzbedürftige wird aufgehoben.
-
-<sup>2</sup> Der Regierungsratsbeschluss vom 11. Dezember 2007 und die darauf gestützte Verwaltungsvereinbarung zwischen dem Kanton Zug und den Einwohnergemeinden des Kantons Zug über die Organisation und Durchführung der Nothilfe für Personen mit einem rechtskräftigen Nichteintretensentscheid (NEE-Personen) sowie einem rechtskräftigen negativen Asylentscheid (NAE-Personen) vom 11. Dezember 2007 werden aufgehoben.
-
-<sup>3</sup> Der Regierungsratsbeschluss vom 28. November 2006 und die darauf gestützte Leistungsvereinbarung zwischen dem Kanton Zug und den Einwohnergemeinden des Kantons Zug über die Organisation und Durchführung der Sozialhilfe für anerkannte Flüchtlinge und Schutzbedürftige mit Aufenthaltsbewilligung im Kanton Zug vom 30. Mai 2006 werden aufgehoben.
+**…**
 
 #### § 15
 
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung tritt zusammen mit der Änderung des Sozialhilfegesetzes in Kraft.[^15-1]
-
-[^15-1]: Inkrafttreten am 1. Juli 2009
+**…**
 
 GS 30, 99
