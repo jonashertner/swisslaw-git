@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnungspaket Umwelt Frühling 2024
 document: Vernehmlassungsvorlage-3
 language: de
