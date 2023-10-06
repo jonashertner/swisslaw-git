@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Anerkennung ausländischer Berufsqualifikationen: Abkommen zwischen der Schweiz und dem Vereinigten Königreich über die Anerkennung von Berufsqualifikationen und Umsetzung im Anwaltsgesetz. Delegation der Zuständigkeit zugunsten des Bundesrates für völkerrechtliche Verträge im Bereich des Medizinalberufegesetzes, des Gesundheitsberufegesetzes, des Psychologieberufegesetzes und des Anwaltsgesetzes"
 document: Vernehmlassungsvorlage-2
 language: de

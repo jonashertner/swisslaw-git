@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Riconoscimento delle qualifiche professionali estere: Accordo tra la Svizzera e il Regno Unito sul riconoscimento delle qualifiche professionali e attuazione nella Legge sugli avvocati. Delega di competenza a favore del Consiglio federale per i trattati internazionali nel settore della Legge sulle professioni mediche, della Legge federale sulle professioni sanitarie, della Legge federale sulle professioni psicologiche e della Legge sugli avvocati"
 document: Progetto posto in consultazione-2
 language: it

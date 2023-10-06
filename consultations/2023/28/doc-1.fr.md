@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Reconnaissance des qualifications professionnelles étrangères: Accord entre la Suisse et le Royaume-Uni en matière de reconnaissance des qualifications professionnelles et mise en œuvre dans la loi sur les avocats. Délégation de compétence en faveur du Conseil fédéral en matière de traités internationaux dans le domaine de la loi sur les professions médicales, de la loi sur les professions de la psychologie, de la loi fédérale sur les professions de la santé et de la loi sur les avocats"
 document: Projet mis en consultation-2
 language: fr
