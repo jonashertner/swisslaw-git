@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordinanza sulla protezione dei minori nei settori dei film e dei videogiochi (OPMFV)
 document: Progetto posto in consultazione
 language: it

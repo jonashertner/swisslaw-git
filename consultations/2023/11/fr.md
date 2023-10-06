@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordonnance sur la protection des mineurs dans les secteurs du film et du jeu vidéo (OPMFJ)
 document: Projet mis en consultation
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über den Jugendschutz in den Bereichen Film und Videospiele (JSFVV)
 document: Vernehmlassungsvorlage
 language: de
