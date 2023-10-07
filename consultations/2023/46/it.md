@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dell’ordinanza sull’organizzazione del Governo e dell’Amministrazione (Uso dei media sociali da parte dell’Amministrazione federale)
 document: Progetto posto in consultazione
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Regierungs- und Verwaltungsorganisationsverordnung (Nutzung sozialer Medien durch die Bundesverwaltung)
 document: Vernehmlassungsvorlage
 language: de
