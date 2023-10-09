@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2023-10-06
+version: 2023-10-10
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20231006/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20231006-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20231006/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20231010/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20231010-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20231010/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 6 ottobre 2023)
+del 4 marzo 2022 (Stato 10 ottobre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -3066,8 +3066,8 @@ Allegato 25[^t-21]
 
 [^annex25-lvlu1-1]
 
-[^t-21]: Introdotto dal n. II dell’O del 29 giu. 2022 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)). Aggiornato dal n. II cpv. 1 dell’O del 15 feb. 2023 ([RU 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)) e dal n. I delle O del DEFR del 19 apr. 2023, in vigore dal 20 apr. 2023 alle ore 18.00 ([RU 2023 188](https://fedlex.data.admin.ch/eli/oc/2023/188)).
-[^annex25-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo https://www.fedlex.admin.ch/eli/oc/2023/188 &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-21]: Introdotto dal n. II dell’O del 29 giu. 2022 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)). Aggiornato dal n. II cpv. 1 dell’O del 15 feb. 2023 ([RU 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)), dai n. I delle O del DEFR del 19 apr. 2023 ([RU 2023 188](https://fedlex.data.admin.ch/eli/oc/2023/188)) del 9 ott. 2023, in vigore dal 10 ott. 2023 alle ore 18.00 ([RU 2023 575](https://fedlex.data.admin.ch/eli/oc/2023/575)).
+[^annex25-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/575](https://fedlex.data.admin.ch/eli/oc/2023/575) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 26[^t-22]
 
