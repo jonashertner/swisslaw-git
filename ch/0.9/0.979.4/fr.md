@@ -3,11 +3,11 @@ sr: "0.979.4"
 title: "Statuts de la Société Financière Internationale, du 25 mai 1955 (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2707_2707_2707"
 language: fr
-version: 2020-04-16
+version: 2023-10-11
 adopted: 1955-05-25
 in_force: 1992-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2707_2707_2707/20200416/fr/xml/fedlex-data-admin-ch-eli-cc-1992-2707_2707_2707-20200416-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2707_2707_2707/20200416/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2707_2707_2707/20231011/fr/xml/fedlex-data-admin-ch-eli-cc-1992-2707_2707_2707-20231011-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2707_2707_2707/20231011/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Traduction
 
 Adoptés à Washington le 25 mai 1955 Modifiés avec effet les 21 septembre 1961 et 1<sup>er</sup> septembre 1965 Approuvés par l’Assemblée fédérale le 4 octobre 1991[^t-1] Signés et acceptés par la Suisse le 29 mai 1992 Entrés en vigueur pour la Suisse le 29 mai 1992
 
-(État le 16 avril 2020)
+(État le 11 octobre 2023)
 
 [^t-1]: [RO 1992 2570](https://fedlex.data.admin.ch/eli/oc/1992/2570_2570_2570)
 
@@ -459,7 +459,7 @@ Supplément A Souscription au Capital social de la Société Financière Interna
 <tr><td>Total</td><td colspan="2">100 000</td><td>100 000 000</td><td colspan="2">$</td></tr>
 </table>
 
-Champ d’application le 20 juin 2014[^t-2]
+Champ d’application le 11 octobre 2023[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Acceptation[^t-3] Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -489,6 +489,7 @@ Champ d’application le 20 juin 2014[^t-2]
 <tr><td>Bosnie et Herzégovine</td><td>25 février</td><td>1993 S</td><td>25 février</td><td>1993</td></tr>
 <tr><td>Botswana</td><td>23 mars</td><td>1979</td><td>23 mars</td><td>1979</td></tr>
 <tr><td>Brésil</td><td>31 décembre</td><td>1956</td><td>31 décembre</td><td>1956</td></tr>
+<tr><td>Brunéi</td><td>24 novembre</td><td>2021</td><td>24 novembre</td><td>2021</td></tr>
 <tr><td>Bulgarie</td><td>22 juillet</td><td>1991</td><td>22 juillet</td><td>1991</td></tr>
 <tr><td>Burkina Faso</td><td>20 août</td><td>1975</td><td>20 août</td><td>1975</td></tr>
 <tr><td>Burundi</td><td>28 novembre</td><td>1979</td><td>28 novembre</td><td>1979</td></tr>
@@ -640,6 +641,7 @@ Champ d’application le 20 juin 2014[^t-2]
 <tr><td>Tunisie</td><td>25 juillet</td><td>1962</td><td>25 juillet</td><td>1962</td></tr>
 <tr><td>Turkménistan</td><td>29 mai</td><td>1997</td><td>29 mai</td><td>1997</td></tr>
 <tr><td>Turquie</td><td>19 décembre</td><td>1956</td><td>19 décembre</td><td>1956</td></tr>
+<tr><td>Tuvalu</td><td>13 avril</td><td>2019</td><td>13 avril</td><td>2019</td></tr>
 <tr><td>Ukraine</td><td>18 octobre</td><td>1993</td><td>18 octobre</td><td>1993</td></tr>
 <tr><td>Uruguay</td><td>22 août</td><td>1968</td><td>22 août</td><td>1968</td></tr>
 <tr><td>Vanuatu</td><td>28 septembre</td><td>1981</td><td>28 septembre</td><td>1981</td></tr>
@@ -650,5 +652,5 @@ Champ d’application le 20 juin 2014[^t-2]
 <tr><td>Zimbabwe</td><td>29 septembre</td><td>1980</td><td>29 septembre</td><td>1980</td></tr>
 </table>
 
-[^t-2]: [RO 1992 2707](https://fedlex.data.admin.ch/eli/oc/1992/2707_2707_2707); [2005 2115](https://fedlex.data.admin.ch/eli/oc/2005/343); [2014 2395](https://fedlex.data.admin.ch/eli/oc/2014/415). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-2]: [RO 1992 2707](https://fedlex.data.admin.ch/eli/oc/1992/2707_2707_2707); [2005 2115](https://fedlex.data.admin.ch/eli/oc/2005/343); [2014 2395](https://fedlex.data.admin.ch/eli/oc/2014/415); [2023 593](https://fedlex.data.admin.ch/eli/oc/2023/593). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 [^t-3]: La date de l’acceptation est aussi la date de la signature.

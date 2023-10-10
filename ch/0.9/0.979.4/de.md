@@ -3,11 +3,11 @@ sr: "0.979.4"
 title: Abkommen vom 25. Mai 1955 über die Internationale Finanz-Corporation (mit Verzeichnis)
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2707_2707_2707"
 language: de
-version: 2020-04-16
+version: 2023-10-11
 adopted: 1955-05-25
 in_force: 1992-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2707_2707_2707/20200416/de/xml/fedlex-data-admin-ch-eli-cc-1992-2707_2707_2707-20200416-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2707_2707_2707/20200416/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2707_2707_2707/20231011/de/xml/fedlex-data-admin-ch-eli-cc-1992-2707_2707_2707-20231011-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2707_2707_2707/20231011/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -28,7 +28,7 @@ Durch die Schweiz unterzeichnet und angenommen am 29. Mai 1992
 
 In Kraft getreten für die Schweiz am 29. Mai 1992
 
-(Stand am 16. April 2020)
+(Stand am 11. Oktober 2023)
 
 [^t-1]: [AS 1992 2570](https://fedlex.data.admin.ch/eli/oc/1992/2570_2570_2570)
 
@@ -459,10 +459,10 @@ Verzeichnis A
 <tr><td>Summe</td><td>100 000</td><td>100 000 000 $</td></tr>
 </table>
 
-Geltungsbereich am 20. Juni 2014[^t-2]
+Geltungsbereich am 11. Oktober 2023[^t-2]
 
 <table>
-<tr><th>Vertragsstaaten</th><th>Ratifikation Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation[^t-3] Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Afghanistan</td><td>23. September</td><td>1957</td><td>23. September</td><td>1957</td></tr>
 <tr><td>Ägypten</td><td>16. Dezember</td><td>1955</td><td>20. Juli</td><td>1956</td></tr>
 <tr><td>Albanien</td><td>15. Oktober</td><td>1991</td><td>15. Oktober</td><td>1991</td></tr>
@@ -488,6 +488,7 @@ Geltungsbereich am 20. Juni 2014[^t-2]
 <tr><td>Bosnien und Herzegowina</td><td>25. Februar</td><td>1993 N</td><td>25. Februar</td><td>1993</td></tr>
 <tr><td>Botsuana</td><td>23. März</td><td>1979</td><td>23. März</td><td>1979</td></tr>
 <tr><td>Brasilien</td><td>31. Dezember</td><td>1956</td><td>31. Dezember</td><td>1956</td></tr>
+<tr><td>Brunei</td><td>24. November</td><td>2021</td><td>24. November</td><td>2021</td></tr>
 <tr><td>Bulgarien</td><td>22. Juli</td><td>1991</td><td>22. Juli</td><td>1991</td></tr>
 <tr><td>Burkina Faso</td><td>20. August</td><td>1975</td><td>20. August</td><td>1975</td></tr>
 <tr><td>Burundi</td><td>28. November</td><td>1979</td><td>28. November</td><td>1979</td></tr>
@@ -635,6 +636,7 @@ Geltungsbereich am 20. Juni 2014[^t-2]
 <tr><td>Tunesien</td><td>25. Juli</td><td>1962</td><td>25. Juli</td><td>1962</td></tr>
 <tr><td>Türkei</td><td>19. Dezember</td><td>1956</td><td>19. Dezember</td><td>1956</td></tr>
 <tr><td>Turkmenistan</td><td>29. Mai</td><td>1997</td><td>29. Mai</td><td>1997</td></tr>
+<tr><td>Tuvalu</td><td>13. April</td><td>2019</td><td>13. April</td><td>2019</td></tr>
 <tr><td>Uganda</td><td>27. September</td><td>1963</td><td>27. September</td><td>1963</td></tr>
 <tr><td>Ukraine</td><td>18. Oktober</td><td>1993</td><td>18. Oktober</td><td>1993</td></tr>
 <tr><td>Ungarn</td><td>29. April</td><td>1985</td><td>29. April</td><td>1985</td></tr>
@@ -650,4 +652,5 @@ Geltungsbereich am 20. Juni 2014[^t-2]
 <tr><td>Zypern</td><td>2. März</td><td>1962</td><td>2. März</td><td>1962</td></tr>
 </table>
 
-[^t-2]: [AS 1992 2707](https://fedlex.data.admin.ch/eli/oc/1992/2707_2707_2707), [2005 2115](https://fedlex.data.admin.ch/eli/oc/2005/343)und [2014 2395](https://fedlex.data.admin.ch/eli/oc/2014/415). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty%20).
+[^t-2]: [AS 1992 2707](https://fedlex.data.admin.ch/eli/oc/1992/2707_2707_2707); [2005 2115](https://fedlex.data.admin.ch/eli/oc/2005/343); [2014 2395](https://fedlex.data.admin.ch/eli/oc/2014/415); [2023 593](https://fedlex.data.admin.ch/eli/oc/2023/593). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty%20).
+[^t-3]: Das Datum der Annahme ist auch das Unterzeichnungsdatum.

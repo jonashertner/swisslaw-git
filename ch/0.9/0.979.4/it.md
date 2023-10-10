@@ -3,11 +3,11 @@ sr: "0.979.4"
 title: "Statuto della Società finanziaria internazionale, del 25 maggio 1955 (con All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2707_2707_2707"
 language: it
-version: 2020-04-16
+version: 2023-10-11
 adopted: 1955-05-25
 in_force: 1992-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2707_2707_2707/20200416/it/xml/fedlex-data-admin-ch-eli-cc-1992-2707_2707_2707-20200416-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2707_2707_2707/20200416/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2707_2707_2707/20231011/it/xml/fedlex-data-admin-ch-eli-cc-1992-2707_2707_2707-20231011-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2707_2707_2707/20231011/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Adottato a Washington il 25 maggio 1955 Modificato con effetto il 21 settembre 1961 e 1° settembre 1965 Approvato dall’Assemblea federale il 4 ottobre 1991[^t-1] Firmato e accettato dalla Svizzera il 29 maggio 1992 Entrato in vigore per la Svizzera il 29 maggio 1992
 
-(Stato 16 aprile 2020)
+(Stato 11 ottobre 2023)
 
 [^t-1]: [RU 1992 2570](https://fedlex.data.admin.ch/eli/oc/1992/2570_2570_2570)
 
@@ -455,13 +455,13 @@ Supplemento A
 <tr><td>Unione Sudafricana</td><td>1 108</td><td>1 108 000</td></tr>
 <tr><td>Uruguay</td><td>116</td><td>116 000</td></tr>
 <tr><td>Venezuela</td><td>116</td><td>116 000</td></tr>
-<tr><td>Totale</td><td>100 000</td><td>100 000 000</td></tr>
+<tr><td>**Totale**</td><td>**100 000**</td><td>**100 000 000**</td></tr>
 </table>
 
-Campo d’applicazione il 20 giugno 2014[^t-2]
+Campo d’applicazione l’11 ottobre 2023[^t-2]
 
 <table>
-<tr><th>Stati partecipanti</th><th>Ratifica Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica[^t-3] Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Afghanistan</td><td>23 settembre</td><td>1957</td><td>23 settembre</td><td>1957</td></tr>
 <tr><td>Albania</td><td>15 ottobre</td><td>1991</td><td>15 ottobre</td><td>1991</td></tr>
 <tr><td>Algeria</td><td>23 settembre</td><td>1990</td><td>23 settembre</td><td>1990</td></tr>
@@ -486,6 +486,7 @@ Campo d’applicazione il 20 giugno 2014[^t-2]
 <tr><td>Bosnia e Erzegovina</td><td>25 febbraio</td><td>1993 S</td><td>25 febbraio</td><td>1993</td></tr>
 <tr><td>Botswana</td><td>23 marzo</td><td>1979</td><td>23 marzo</td><td>1979</td></tr>
 <tr><td>Brasile</td><td>31 dicembre</td><td>1956</td><td>31 dicembre</td><td>1956</td></tr>
+<tr><td>Brunei</td><td>24 novembre</td><td>2021</td><td>24 novembre</td><td>2021</td></tr>
 <tr><td>Bulgaria</td><td>22 luglio</td><td>1991</td><td>22 luglio</td><td>1991</td></tr>
 <tr><td>Burkina Faso</td><td>20 agosto</td><td>1975</td><td>20 agosto</td><td>1975</td></tr>
 <tr><td>Burundi</td><td>28 novembre</td><td>1979</td><td>28 novembre</td><td>1979</td></tr>
@@ -514,6 +515,7 @@ Campo d’applicazione il 20 giugno 2014[^t-2]
 <tr><td>Emirati Arabi Uniti</td><td>30 settembre</td><td>1977</td><td>30 settembre</td><td>1977</td></tr>
 <tr><td>Eritrea</td><td>11 ottobre</td><td>1995</td><td>11 ottobre</td><td>1995</td></tr>
 <tr><td>Estonia</td><td>9 agosto</td><td>1993</td><td>9 agosto</td><td>1993</td></tr>
+<tr><td>Eswatini</td><td>22 settembre</td><td>1969</td><td>22 settembre</td><td>1969</td></tr>
 <tr><td>Etiopia</td><td>26 gennaio</td><td>1956</td><td>20 luglio</td><td>1956</td></tr>
 <tr><td>Figi</td><td>12 luglio</td><td>1979</td><td>12 luglio</td><td>1979</td></tr>
 <tr><td>Filippine</td><td>12 agosto</td><td>1957</td><td>12 agosto</td><td>1957</td></tr>
@@ -560,7 +562,7 @@ Campo d’applicazione il 20 giugno 2014[^t-2]
 <tr><td>Libia</td><td>18 settembre</td><td>1958</td><td>18 settembre</td><td>1958</td></tr>
 <tr><td>Lituania</td><td>15 gennaio</td><td>1993</td><td>15 gennaio</td><td>1993</td></tr>
 <tr><td>Lussemburgo</td><td>4 ottobre</td><td>1956</td><td>4 ottobre</td><td>1956</td></tr>
-<tr><td>Macedonia</td><td>25 febbraio</td><td>1993 S</td><td>25 febbraio</td><td>1993</td></tr>
+<tr><td>Macedonia del Nord</td><td>25 febbraio</td><td>1993 S</td><td>25 febbraio</td><td>1993</td></tr>
 <tr><td>Madagascar</td><td>27 settembre</td><td>1963</td><td>27 settembre</td><td>1963</td></tr>
 <tr><td>Malawi</td><td>19 luglio</td><td>1965</td><td>19 luglio</td><td>1965</td></tr>
 <tr><td>Malaysia</td><td>20 marzo</td><td>1958</td><td>20 marzo</td><td>1958</td></tr>
@@ -625,7 +627,6 @@ Campo d’applicazione il 20 giugno 2014[^t-2]
 <tr><td>Suriname</td><td>1° settembre</td><td>2011</td><td>1° settembre</td><td>2011</td></tr>
 <tr><td>Svezia</td><td>6 giugno</td><td>1956</td><td>20 luglio</td><td>1956</td></tr>
 <tr><td>Svizzera</td><td>29 maggio</td><td>1992</td><td>29 maggio</td><td>1992</td></tr>
-<tr><td>Swaziland</td><td>22 settembre</td><td>1969</td><td>22 settembre</td><td>1969</td></tr>
 <tr><td>Tagikistan</td><td>2 dicembre</td><td>1994</td><td>2 dicembre</td><td>1994</td></tr>
 <tr><td>Tanzania</td><td>10 settembre</td><td>1962</td><td>10 settembre</td><td>1962</td></tr>
 <tr><td>Thailandia</td><td>3 dicembre</td><td>1956</td><td>3 dicembre</td><td>1956</td></tr>
@@ -636,6 +637,7 @@ Campo d’applicazione il 20 giugno 2014[^t-2]
 <tr><td>Tunisia</td><td>25 luglio</td><td>1962</td><td>25 luglio</td><td>1962</td></tr>
 <tr><td>Turchia</td><td>19 dicembre</td><td>1956</td><td>19 dicembre</td><td>1956</td></tr>
 <tr><td>Turkmenistan</td><td>29 maggio</td><td>1997</td><td>29 maggio</td><td>1997</td></tr>
+<tr><td>Tuvalu</td><td>13 aprile</td><td>2019</td><td>13 aprile</td><td>2019</td></tr>
 <tr><td>Ucraina</td><td>18 ottobre</td><td>1993</td><td>18 ottobre</td><td>1993</td></tr>
 <tr><td>Uganda</td><td>27 settembre</td><td>1963</td><td>27 settembre</td><td>1963</td></tr>
 <tr><td>Ungheria</td><td>29 aprile</td><td>1985</td><td>29 aprile</td><td>1985</td></tr>
@@ -649,4 +651,5 @@ Campo d’applicazione il 20 giugno 2014[^t-2]
 <tr><td>Zimbabwe</td><td>29 settembre</td><td>1980</td><td>29 settembre</td><td>1980</td></tr>
 </table>
 
-[^t-2]: [RU 1992 2707](https://fedlex.data.admin.ch/eli/oc/1992/2707_2707_2707), [2005 2115](https://fedlex.data.admin.ch/eli/oc/2005/343)e [2014 2395](https://fedlex.data.admin.ch/eli/oc/2014/415). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1992 2707](https://fedlex.data.admin.ch/eli/oc/1992/2707_2707_2707); [2005 2115](https://fedlex.data.admin.ch/eli/oc/2005/343); [2014 2395](https://fedlex.data.admin.ch/eli/oc/2014/415); [2023 593](https://fedlex.data.admin.ch/eli/oc/2023/593)Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
+[^t-3]: La data d’accettazione e la data della firma coincidono.
