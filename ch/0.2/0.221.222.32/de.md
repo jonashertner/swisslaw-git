@@ -4,11 +4,11 @@ title: Budapester Übereinkommen vom 22. Juni 2001 über den Vertrag über die G
 short: CMNI
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/189"
 language: de
-version: 2013-02-21
+version: 2023-10-11
 adopted: 2001-06-22
 in_force: 2005-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/189/20130221/de/xml/fedlex-data-admin-ch-eli-cc-2005-189-20130221-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/189/20130221/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/189/20231011/de/xml/fedlex-data-admin-ch-eli-cc-2005-189-20231011-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/189/20231011/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -21,7 +21,7 @@ Originaltext
 
 Abgeschlossen in Budapest am 22. Juni 2001 Von der Bundesversammlung genehmigt am 19. Dezember 2003[^t-1] Ratifikationsurkunde von der Schweiz hinterlegt am 13. Mai 2004 Inkrafttreten für die Schweiz am 1. April 2005
 
-(Stand am 21. Februar 2013)
+(Stand am 11. Oktober 2023)
 
 [^t-1]: [AS 2005 1267](https://fedlex.data.admin.ch/eli/oc/2005/188)
 
@@ -545,7 +545,7 @@ Der Depositar hat eine Konferenz der Vertragsstaaten zur Revision oder Änderung
 
 *Zu Urkund dessen* haben die bevollmächtigten Unterzeichneten, hierzu von ihren Regierungen gehörig befugt, dieses Übereinkommen unterzeichnet. Geschehen zu Budapest, am 22. Juni 2001, in einer Urschrift, deren deutscher, englischer, französischer, niederländischer und russischer Wortlaut gleichermassen verbindlich ist. (Es folgen die Unterschriften)
 
-Geltungsbereich am 21. Februar 2013**[^t-2]**
+Geltungsbereich am 11. Oktober 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -563,13 +563,14 @@ Geltungsbereich am 21. Februar 2013**[^t-2]**
 <tr><td>Serbien<sup>\*</sup></td><td>21. Juli</td><td>2010</td><td>1. November</td><td>2010</td></tr>
 <tr><td>Slowakei</td><td>27. November</td><td>2007</td><td>1. März</td><td>2008</td></tr>
 <tr><td>Tschechische Republik</td><td>14. November</td><td>2005</td><td>1. März</td><td>2006</td></tr>
-<tr><td>Ungarn\*</td><td>7. Mai</td><td>2002</td><td>1. April</td><td>2005</td></tr>
+<tr><td>Ukraine</td><td>17. April</td><td>2014</td><td>1. Januar</td><td>2015</td></tr>
+<tr><td>Ungarn</td><td>7. Mai</td><td>2002</td><td>1. April</td><td>2005</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die Texte können bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
 </table>
 
 ## Erklärungen
 
-[^t-2]: [AS 2005 1269](https://fedlex.data.admin.ch/eli/oc/2005/189), [2007 1179](https://fedlex.data.admin.ch/eli/oc/2007/195), [2008 4897](https://fedlex.data.admin.ch/eli/oc/2008/687)und [2013 805](https://fedlex.data.admin.ch/eli/oc/2013/163). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2005 1269](https://fedlex.data.admin.ch/eli/oc/2005/189); [2007 1179](https://fedlex.data.admin.ch/eli/oc/2007/195); [2008 4897](https://fedlex.data.admin.ch/eli/oc/2008/687); [2013 805](https://fedlex.data.admin.ch/eli/oc/2013/163); [2023 588](https://fedlex.data.admin.ch/eli/oc/2023/588). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Schweiz
 

@@ -4,11 +4,11 @@ title: Convention de Budapest du 22 juin 2001 relative au contrat de transport d
 short: CMNI
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/189"
 language: fr
-version: 2013-02-21
+version: 2023-10-11
 adopted: 2001-06-22
 in_force: 2005-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/189/20130221/fr/xml/fedlex-data-admin-ch-eli-cc-2005-189-20130221-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/189/20130221/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/189/20231011/fr/xml/fedlex-data-admin-ch-eli-cc-2005-189-20231011-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/189/20231011/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -19,21 +19,15 @@ RO **2005** 1269; FF **2003** 3563
 
 Texte original
 
-Conclue à Budapest le 22 juin 2001
+Conclue à Budapest le 22 juin 2001 Approuvée par l’Assemblée fédérale le 19 décembre 2003[^t-1] Instrument de ratification déposé par la Suisse le 13 mai 2004 Entrée en vigueur pour la Suisse le 1<sup>er</sup> avril 2005
 
-Approuvée par l’Assemblée fédérale le 19 décembre 2003[^t-1]
-
-Instrument de ratification déposé par la Suisse le 13 mai 2004
-
-Entrée en vigueur pour la Suisse le 1<sup>er</sup> avril 2005
-
-(Etat le 21 février 2013)
+(État le 11 octobre 2023)
 
 [^t-1]: [RO 2005 1267](https://fedlex.data.admin.ch/eli/oc/2005/188)
 
-Les Etats Contractants à la présente Convention,
+Les États Contractants à la présente Convention,
 
-considérant les recommandations de l’Acte final de la Conférence sur la Sécurité et la Coopération en Europe du 1<sup>er</sup> août 1975 en vue de l’harmonisation des régimes juridiques dans l’intérêt du développement des transports par les Etats membres de la Commission Centrale pour la Navigation du Rhin et de la Commission du Danube en collaboration avec la Commission Economique des Nations Unies pour l’Europe,
+considérant les recommandations de l’Acte final de la Conférence sur la Sécurité et la Coopération en Europe du 1<sup>er</sup> août 1975 en vue de l’harmonisation des régimes juridiques dans l’intérêt du développement des transports par les États membres de la Commission Centrale pour la Navigation du Rhin et de la Commission du Danube en collaboration avec la Commission Économique des Nations Unies pour l’Europe,
 
 conscients de la nécessité et de l’utilité de fixer des règles uniformes en matière de contrat de transport de marchandises par navigation intérieure,
 
@@ -57,13 +51,13 @@ Au sens de la présente Convention,
 - 6\. «document de transport» désigne un document faisant preuve d’un contrat de transport et constatant la prise en charge ou la mise à bord des marchandises par un transporteur, établi sous la forme d’un connaissement ou d’une lettre de voiture ou de tout autre document en usage dans le commerce;
 - 7\. «marchandises» ne comprend ni les bateaux remorqués ou poussés ni les bagages et véhicules des passagers; lorsque les marchandises sont réunies dans un conteneur, sur une palette ou dans ou sur un dispositif de transport similaire ou lorsqu’elles sont emballées, le terme «marchandises» s’entend également dudit dispositif de transport ou dudit emballage s’il est fourni par l’expéditeur;
 - 8\. l’expression «par écrit», à moins que les personnes concernées n’en disposent autrement, comprend la situation dans laquelle l’information est transmise par un moyen électronique, optique ou tout autre moyen de communication similaire, y compris mais non exclusivement, par télégramme, télécopie, télex, courrier électronique ou par échange de données informatisées (EDI), pour autant que l’information reste accessible pour être utilisée ultérieurement comme référence;
-- 9\. la loi d’un Etat applicable conformément à la présente Convention désigne les règles de droit en vigueur dans ledit Etat à l’exclusion des règles du droit international privé.
+- 9\. la loi d’un État applicable conformément à la présente Convention désigne les règles de droit en vigueur dans ledit État à l’exclusion des règles du droit international privé.
 
 #### Art. 2
 
 **Champ d’application**
 
-<sup>(1)</sup> La présente Convention est applicable à tout contrat de transport selon lequel le port de chargement ou le lieu de prise en charge et le port de déchargement ou le lieu de livraison sont situés dans deux Etats différents dont au moins l’un est un Etat Partie à la présente Convention. Si le contrat prévoit un choix de plusieurs ports de déchargement ou de lieux de livraison, le port de déchargement ou le lieu de livraison dans lequel les marchandises ont été effectivement livrées sera déterminant.
+<sup>(1)</sup> La présente Convention est applicable à tout contrat de transport selon lequel le port de chargement ou le lieu de prise en charge et le port de déchargement ou le lieu de livraison sont situés dans deux États différents dont au moins l’un est un État Partie à la présente Convention. Si le contrat prévoit un choix de plusieurs ports de déchargement ou de lieux de livraison, le port de déchargement ou le lieu de livraison dans lequel les marchandises ont été effectivement livrées sera déterminant.
 
 <sup>(2)</sup> Si le contrat de transport a pour objet un transport de marchandises sans transbordement effectué à la fois sur des voies d’eau intérieures et sur des eaux soumises à une réglementation maritime, la présente Convention est également applicable à ce contrat dans les conditions visées au par. 1, sauf si
 
@@ -192,7 +186,7 @@ Si le transporteur fait usage de son droit de résiliation, il peut débarquer l
 
 <sup>(1)</sup> Le transporteur doit établir pour chaque transport de marchandises régi par la présente Convention un document de transport; il ne devra établir un connaissement que si l’expéditeur le demande et s’il en a été convenu ainsi avant le chargement des marchandises ou avant leur prise en charge en vue du transport. L’absence d’un document de transport ou le fait que celui‑ci soit incomplet n’affecte pas la validité du contrat de transport.
 
-<sup>(2)</sup> L’exemplaire original du document de transport doit être signé par le transporteur, le conducteur du bateau ou une personne habilitée par le transporteur. Le transporteur peut exiger que l’expéditeur contresigne l’original ou une copie. La signature apposée peut être manuscrite, imprimée en fac-similé, appliquée par perforation ou par tampon, se présenter sous forme de symboles ou être reproduite par tout autre moyen mécanique ou électronique si ceci n’est pas interdit par la loi de l’Etat où le document de transport est émis.
+<sup>(2)</sup> L’exemplaire original du document de transport doit être signé par le transporteur, le conducteur du bateau ou une personne habilitée par le transporteur. Le transporteur peut exiger que l’expéditeur contresigne l’original ou une copie. La signature apposée peut être manuscrite, imprimée en fac-similé, appliquée par perforation ou par tampon, se présenter sous forme de symboles ou être reproduite par tout autre moyen mécanique ou électronique si ceci n’est pas interdit par la loi de l’État où le document de transport est émis.
 
 <sup>(3)</sup> Le document de transport fait foi, jusqu’à preuve du contraire, de la conclusion et du contenu du contrat de transport ainsi que de la prise en charge des marchandises par le transporteur. Il fonde notamment la présomption que les marchandises ont été prises en charge en vue du transport telles qu’elles sont décrites dans le document de transport.
 
@@ -273,7 +267,7 @@ L’expéditeur ou, dans les cas de l’art. 14, par. 2 et 3, le destinataire so
 
 <sup>(1)</sup> Le transporteur est responsable du préjudice résultant des pertes ou dommages subis par les marchandises depuis leur prise en charge en vue du transport jusqu’à leur livraison ou résultant d’un dépassement du délai de livraison, à moins qu’il ne prouve que le préjudice résulte de circonstances qu’un transporteur diligent n’aurait pu éviter et aux conséquences desquelles il n’aurait pu obvier.
 
-<sup>(2)</sup> Le responsabilité du transporteur pour préjudice résultant des pertes ou dommages subis par les marchandises causés pendant la période avant leur chargement à bord du bateau ou après leur déchargement est régie par la loi de l’Etat applicable au contrat de transport.
+<sup>(2)</sup> Le responsabilité du transporteur pour préjudice résultant des pertes ou dommages subis par les marchandises causés pendant la période avant leur chargement à bord du bateau ou après leur déchargement est régie par la loi de l’État applicable au contrat de transport.
 
 #### Art. 17
 
@@ -377,9 +371,9 @@ Les exonérations et limites de responsabilité prévues par la présente Conven
 
 <sup>(2)</sup> La personne contre laquelle une action a été engagée peut à tout moment, pendant le délai de prescription, prolonger ce délai par une déclaration adressée par écrit à la personne lésée. Ce délai peut être de nouveau prolongé par une ou plusieurs autres déclarations.
 
-<sup>(3)</sup> La suspension et l’interruption de la prescription sont régies par la loi de l’Etat applicable au contrat de transport. L’introduction d’un recours, lors d’une procédure de répartition en vue de la mise en oeuvre de la responsabilité limitée pour toutes créances résultant d’un événement ayant entraîné des dommages, interrompt la prescription.
+<sup>(3)</sup> La suspension et l’interruption de la prescription sont régies par la loi de l’État applicable au contrat de transport. L’introduction d’un recours, lors d’une procédure de répartition en vue de la mise en oeuvre de la responsabilité limitée pour toutes créances résultant d’un événement ayant entraîné des dommages, interrompt la prescription.
 
-<sup>(4)</sup> Une action récursoire d’une personne tenue pour responsable en vertu de la présente Convention pourra être exercée même après l’expiration du délai de prescription prévu aux par. 1 et 2 du présent article, si une procédure est engagée dans un délai de 90 jours à compter du jour où la personne qui exerce l’action récursoire a fait droit à la réclamation ou a été assignée ou si une procédure est engagée dans un délai plus long prévu par la loi de l’Etat où la procédure est engagée.
+<sup>(4)</sup> Une action récursoire d’une personne tenue pour responsable en vertu de la présente Convention pourra être exercée même après l’expiration du délai de prescription prévu aux par. 1 et 2 du présent article, si une procédure est engagée dans un délai de 90 jours à compter du jour où la personne qui exerce l’action récursoire a fait droit à la réclamation ou a été assignée ou si une procédure est engagée dans un délai plus long prévu par la loi de l’État où la procédure est engagée.
 
 <sup>(5)</sup> L’action prescrite ne peut pas être exercée sous forme de demande reconventionnelle ou d’exception.
 
@@ -413,25 +407,25 @@ La présente Convention n’affecte pas l’application des dispositions du cont
 
 <sup>(1)</sup> La présente Convention n’affecte pas les droits et obligations du transporteur résultant des conventions internationales ou de dispositions de droit interne concernant la limitation de la responsabilité des propriétaires de bateaux ou navires.
 
-<sup>(2)</sup> Le transporteur est dégagé de la responsabilité en vertu de la présente Convention à raison d’un dommage causé par un accident nucléaire si l’exploitant d’une installation nucléaire ou une autre personne autorisée répond de ce dommage en vertu des lois et règlements d’un Etat régissant la responsabilité dans le domaine de l’énergie nucléaire.
+<sup>(2)</sup> Le transporteur est dégagé de la responsabilité en vertu de la présente Convention à raison d’un dommage causé par un accident nucléaire si l’exploitant d’une installation nucléaire ou une autre personne autorisée répond de ce dommage en vertu des lois et règlements d’un État régissant la responsabilité dans le domaine de l’énergie nucléaire.
 
 #### Art. 28
 
 **Unité de compte**
 
-L’unité de compte visée à l’art. 20 de la présente Convention est le droit de tirage spécial fixé par le Fonds monétaire international. Les montants mentionnés à l’art. 20 sont à convertir dans la monnaie nationale d’un Etat suivant la valeur de cette monnaie à la date du jugement ou à une date convenue par les parties. La valeur, en droits de tirage spéciaux, de la monnaie nationale d’un Etat Partie est calculée selon la méthode d’évaluation appliquée effectivement par le Fonds monétaire international à la date en question pour ses propres opérations et transactions.
+L’unité de compte visée à l’art. 20 de la présente Convention est le droit de tirage spécial fixé par le Fonds monétaire international. Les montants mentionnés à l’art. 20 sont à convertir dans la monnaie nationale d’un État suivant la valeur de cette monnaie à la date du jugement ou à une date convenue par les parties. La valeur, en droits de tirage spéciaux, de la monnaie nationale d’un État Partie est calculée selon la méthode d’évaluation appliquée effectivement par le Fonds monétaire international à la date en question pour ses propres opérations et transactions.
 
 #### Art. 29
 
 **Dispositions nationales supplémentaires**
 
-<sup>(1)</sup> En l’absence de dispositions de la présente Convention, le contrat de transport est régi par la loi de l’Etat que les parties ont choisi.
+<sup>(1)</sup> En l’absence de dispositions de la présente Convention, le contrat de transport est régi par la loi de l’État que les parties ont choisi.
 
-<sup>(2)</sup> A défaut de choix, le droit applicable est celui de l’Etat avec lequel le contrat de transport présente les liens les plus étroits.
+<sup>(2)</sup> À défaut de choix, le droit applicable est celui de l’État avec lequel le contrat de transport présente les liens les plus étroits.
 
-<sup>(3)</sup> Il est présumé que le contrat de transport présente les liens les plus étroits avec l’Etat dans lequel se trouve l’établissement principal du transporteur au moment de la conclusion du contrat, si le port de chargement ou le lieu de prise en charge, ou le port de déchargement ou le lieu de livraison ou l’établissement principal de l’expéditeur se trouve également dans cet Etat. Si le transporteur n’a pas d’établissement à terre et s’il a conclu le contrat de transport à bord de son bateau, il est présumé que le contrat présente les liens les plus étroits avec l’Etat dans lequel le bateau est enregistré ou dont il bat le pavillon, si le port de chargement ou le lieu de prise en charge, ou le port de déchargement ou le lieu de livraison ou l’établissement principal de l’expéditeur se trouve également dans cet Etat.
+<sup>(3)</sup> Il est présumé que le contrat de transport présente les liens les plus étroits avec l’État dans lequel se trouve l’établissement principal du transporteur au moment de la conclusion du contrat, si le port de chargement ou le lieu de prise en charge, ou le port de déchargement ou le lieu de livraison ou l’établissement principal de l’expéditeur se trouve également dans cet État. Si le transporteur n’a pas d’établissement à terre et s’il a conclu le contrat de transport à bord de son bateau, il est présumé que le contrat présente les liens les plus étroits avec l’État dans lequel le bateau est enregistré ou dont il bat le pavillon, si le port de chargement ou le lieu de prise en charge, ou le port de déchargement ou le lieu de livraison ou l’établissement principal de l’expéditeur se trouve également dans cet État.
 
-<sup>(4)</sup> Le droit de l’Etat dans lequel les marchandises se trouvent régit la garantie réelle dont bénéficie le transporteur pour les créances visées à l’art. 10, par. 1.
+<sup>(4)</sup> Le droit de l’État dans lequel les marchandises se trouvent régit la garantie réelle dont bénéficie le transporteur pour les créances visées à l’art. 10, par. 1.
 
 ## Chapitre IX Déclarations relatives au champ d’application
 
@@ -439,11 +433,11 @@ L’unité de compte visée à l’art. 20 de la présente Convention est le dro
 
 **Transports sur certaines voies navigables**
 
-<sup>(1)</sup> Tout Etat peut, au moment de la signature de la présente Convention, de sa ratification, de son acceptation, de son approbation ou de son adhésion, déclarer qu’il n’appliquera pas la présente Convention aux contrats relatifs à des transports dont le trajet emprunte certaines voies navigables situées sur son territoire, non soumises à un régime international relatif à la navigation et ne constituant pas une liaison entre de telles voies navigables internationales. Toutefois, une telle déclaration ne peut mentionner la totalité des voies navigables principales de cet Etat.
+<sup>(1)</sup> Tout État peut, au moment de la signature de la présente Convention, de sa ratification, de son acceptation, de son approbation ou de son adhésion, déclarer qu’il n’appliquera pas la présente Convention aux contrats relatifs à des transports dont le trajet emprunte certaines voies navigables situées sur son territoire, non soumises à un régime international relatif à la navigation et ne constituant pas une liaison entre de telles voies navigables internationales. Toutefois, une telle déclaration ne peut mentionner la totalité des voies navigables principales de cet État.
 
 <sup>(2)</sup> Si le contrat de transport a pour objet le transport de marchandises sans transbordement effectué à la fois sur des voies navigables non mentionnées dans la déclaration visée au par. 1 du présent article et sur des voies navigables mentionnées dans cette déclaration, la présente Convention est également applicable à ce contrat sauf si la distance à parcourir sur ces dernières voies est la plus longue.
 
-<sup>(3)</sup> Lorsqu’une déclaration a été faite conformément au par. 1 du présent article, tout autre Etat contractant peut déclarer qu’il n’appliquera pas non plus les dispositions de la présente Convention aux contrats visés dans cette déclaration. La déclaration faite conformément au présent paragraphe sera effective au moment de l’entrée en vigueur de la Convention pour l’Etat qui a fait une déclaration conformément au par. 1, mais au plus tôt au moment de l’entrée en vigueur de la Convention pour l’Etat qui a fait une déclaration conformément au présent paragraphe.
+<sup>(3)</sup> Lorsqu’une déclaration a été faite conformément au par. 1 du présent article, tout autre État contractant peut déclarer qu’il n’appliquera pas non plus les dispositions de la présente Convention aux contrats visés dans cette déclaration. La déclaration faite conformément au présent paragraphe sera effective au moment de l’entrée en vigueur de la Convention pour l’État qui a fait une déclaration conformément au par. 1, mais au plus tôt au moment de l’entrée en vigueur de la Convention pour l’État qui a fait une déclaration conformément au présent paragraphe.
 
 <sup>(4)</sup> Les déclarations visées aux par. 1 et 3 du présent article peuvent être retirées, en tout ou en partie, à tout moment, par une notification à cet effet au dépositaire, en indiquant la date à laquelle la réserve cessera d’avoir effet. Le retrait de ces déclarations n’a pas d’effet sur les contrats déjà conclus.
 
@@ -451,7 +445,7 @@ L’unité de compte visée à l’art. 20 de la présente Convention est le dro
 
 **Transports nationaux ou gratuits**
 
-Tout Etat peut, au moment de la signature de la présente Convention, de sa ratification, de son acceptation, de son approbation, de son adhésion ou à tout moment ultérieur, déclarer qu’il appliquera également la présente Convention
+Tout État peut, au moment de la signature de la présente Convention, de sa ratification, de son acceptation, de son approbation, de son adhésion ou à tout moment ultérieur, déclarer qu’il appliquera également la présente Convention
 
 - a) aux contrats de transport selon lesquels le port de chargement ou le lieu de prise en charge et le port de déchargement ou le lieu de livraison sont situés sur son propre territoire;
 - b) en dérogation à l’art. 1, par. 1, à des transports gratuits.
@@ -460,9 +454,9 @@ Tout Etat peut, au moment de la signature de la présente Convention, de sa rati
 
 **Réglementations régionales relatives à la responsabilité**
 
-<sup>(1)</sup> Tout Etat peut, au moment de la signature de la présente Convention, de sa ratification, de son acceptation, de son approbation, de son adhésion ou à tout moment ultérieur, déclarer que pour les transports de marchandises effectués entre des ports de chargement ou des lieux de prise en charge et des ports de déchargement ou des lieux de livraison situés soit tous deux sur son propre territoire soit sur son territoire et sur le territoire d’un Etat ayant fait la même déclaration, le transporteur ne répond pas des préjudices causés par un acte ou une omission commis par le conducteur du bateau, le pilote ou toute autre personne au service du bateau ou d’un pousseur ou remorqueur lors de la conduite nautique ou lors de la formation ou de la dissolution d’un convoi poussé ou remorqué, à condition que le transporteur ait rempli les obligations relatives à l’équipage prévues à l’art. 3, par. 3, à moins que l’acte ou l’omission ne résulte d’une intention de provoquer le dommage ou d’un comportement téméraire avec conscience qu’un tel dommage en résulterait probablement.
+<sup>(1)</sup> Tout État peut, au moment de la signature de la présente Convention, de sa ratification, de son acceptation, de son approbation, de son adhésion ou à tout moment ultérieur, déclarer que pour les transports de marchandises effectués entre des ports de chargement ou des lieux de prise en charge et des ports de déchargement ou des lieux de livraison situés soit tous deux sur son propre territoire soit sur son territoire et sur le territoire d’un État ayant fait la même déclaration, le transporteur ne répond pas des préjudices causés par un acte ou une omission commis par le conducteur du bateau, le pilote ou toute autre personne au service du bateau ou d’un pousseur ou remorqueur lors de la conduite nautique ou lors de la formation ou de la dissolution d’un convoi poussé ou remorqué, à condition que le transporteur ait rempli les obligations relatives à l’équipage prévues à l’art. 3, par. 3, à moins que l’acte ou l’omission ne résulte d’une intention de provoquer le dommage ou d’un comportement téméraire avec conscience qu’un tel dommage en résulterait probablement.
 
-<sup>(2)</sup> La réglementation relative à la responsabilité visée au par. 1 entre en vigueur entre deux Etats contractants au moment de l’entrée en vigueur de la présente Convention dans le deuxième Etat ayant fait la même déclaration. Si un Etat fait cette déclaration après que la Convention est entrée en vigueur pour lui, la réglementation relative à la responsabilité visée au par. 1 entre en vigueur le premier jour du mois suivant l’expiration d’un délai de trois mois à compter de la notification de la déclaration au dépositaire. La réglementation relative à la responsabilité est uniquement applicable aux contrats de transport signés après son entrée en vigueur.
+<sup>(2)</sup> La réglementation relative à la responsabilité visée au par. 1 entre en vigueur entre deux États contractants au moment de l’entrée en vigueur de la présente Convention dans le deuxième État ayant fait la même déclaration. Si un État fait cette déclaration après que la Convention est entrée en vigueur pour lui, la réglementation relative à la responsabilité visée au par. 1 entre en vigueur le premier jour du mois suivant l’expiration d’un délai de trois mois à compter de la notification de la déclaration au dépositaire. La réglementation relative à la responsabilité est uniquement applicable aux contrats de transport signés après son entrée en vigueur.
 
 <sup>(3)</sup> Une déclaration faite conformément au par. 1 peut être retirée à tout moment par une notification au dépositaire. En cas de retrait, la réglementation relative à la responsabilité visée au par. 1 cessera d’avoir effet au premier jour du mois suivant la notification ou à un moment ultérieur indiqué dans la notification. Le retrait ne s’applique pas aux contrats de transport signés avant que la réglementation relative à la responsabilité ait cessé d’avoir effet.
 
@@ -472,9 +466,9 @@ Tout Etat peut, au moment de la signature de la présente Convention, de sa rati
 
 **Signature, ratification, acceptation, approbation, adhésion**
 
-<sup>(1)</sup> La présente Convention est ouverte pendant un an à la signature de tous les Etats au siège du dépositaire. Le délai de signature débute à la date à laquelle le dépositaire constate que tous les textes authentiques de la présente Convention sont disponibles.
+<sup>(1)</sup> La présente Convention est ouverte pendant un an à la signature de tous les États au siège du dépositaire. Le délai de signature débute à la date à laquelle le dépositaire constate que tous les textes authentiques de la présente Convention sont disponibles.
 
-<sup>(2)</sup> Les Etats peuvent devenir Parties à la présente Convention,
+<sup>(2)</sup> Les États peuvent devenir Parties à la présente Convention,
 
 - a) en la signant sans réserve de ratification, d’acceptation ou d’approbation,
 - b) en la signant sous réserve de ratification, d’acceptation ou d’approbation ultérieure, puis en la ratifiant, l’acceptant ou l’approuvant,
@@ -486,15 +480,15 @@ Tout Etat peut, au moment de la signature de la présente Convention, de sa rati
 
 **Entrée en vigueur**
 
-<sup>(1)</sup> La présente Convention entrera en vigueur le premier jour du mois suivant l’expiration d’un délai de trois mois à compter de la date à laquelle cinq Etats auront signé la présente Convention sans réserve de ratification, d’acceptation ou d’approbation ou bien déposé leurs instruments de ratification, d’acceptation, d’approbation ou d’adhésion auprès du dépositaire.
+<sup>(1)</sup> La présente Convention entrera en vigueur le premier jour du mois suivant l’expiration d’un délai de trois mois à compter de la date à laquelle cinq États auront signé la présente Convention sans réserve de ratification, d’acceptation ou d’approbation ou bien déposé leurs instruments de ratification, d’acceptation, d’approbation ou d’adhésion auprès du dépositaire.
 
-<sup>(2)</sup> Pour l’Etat qui signerait la présente Convention sans réserve de ratification, d’acceptation ou d’approbation ou bien déposerait les instruments de ratification, d’acceptation, d’approbation ou d’adhésion auprès du dépositaire après l’entrée en vigueur de la présente Convention, celle‑ci entrera en vigueur le premier jour du mois suivant l’expiration d’un délai de trois mois à compter de la signature sans réserve de ratification, d’acceptation ou d’approbation ou bien du dépôt des instruments de ratification, d’acceptation, d’approbation ou d’adhésion.
+<sup>(2)</sup> Pour l’État qui signerait la présente Convention sans réserve de ratification, d’acceptation ou d’approbation ou bien déposerait les instruments de ratification, d’acceptation, d’approbation ou d’adhésion auprès du dépositaire après l’entrée en vigueur de la présente Convention, celle‑ci entrera en vigueur le premier jour du mois suivant l’expiration d’un délai de trois mois à compter de la signature sans réserve de ratification, d’acceptation ou d’approbation ou bien du dépôt des instruments de ratification, d’acceptation, d’approbation ou d’adhésion.
 
 #### Art. 35
 
 **Dénonciation**
 
-<sup>(1)</sup> La présente Convention peut être dénoncée par un Etat Partie à l’expiration du délai d’un an à compter de la date à laquelle elle est entrée en vigueur pour cet Etat.
+<sup>(1)</sup> La présente Convention peut être dénoncée par un État Partie à l’expiration du délai d’un an à compter de la date à laquelle elle est entrée en vigueur pour cet État.
 
 <sup>(2)</sup> La notification de dénonciation est déposée auprès du dépositaire.
 
@@ -504,19 +498,19 @@ Tout Etat peut, au moment de la signature de la présente Convention, de sa rati
 
 **Révision et amendement**
 
-A la demande d’un tiers au moins des Etats contractants à la présente Convention, le dépositaire convoque une conférence des Etats contractants ayant pour objet de réviser ou d’amender la présente Convention.
+À la demande d’un tiers au moins des États contractants à la présente Convention, le dépositaire convoque une conférence des États contractants ayant pour objet de réviser ou d’amender la présente Convention.
 
 #### Art. 37
 
 **Révision des montants des limites et de l’unité de compte**
 
-<sup>(1)</sup> Nonobstant les dispositions de l’art. 36, lorsqu’une révision des montants fixés à l’art. 20, par. 1, ou le remplacement de l’unité définie à l’art. 28 par une autre unité sont proposés, le dépositaire, à la demande d’un quart au moins des Etats Parties à la présente Convention, soumet la proposition à tous les membres de la Commission Economique des Nations Unies pour l’Europe, de la Commission Centrale pour la Navigation du Rhin et de la Commission du Danube, ainsi qu’à tous les Etats contractants et convoque une conférence ayant pour seul objet de réviser les montants fixés à l’art. 20, par. 1, ou de remplacer l’unité définie à l’art. 28 par une autre unité.
+<sup>(1)</sup> Nonobstant les dispositions de l’art. 36, lorsqu’une révision des montants fixés à l’art. 20, par. 1, ou le remplacement de l’unité définie à l’art. 28 par une autre unité sont proposés, le dépositaire, à la demande d’un quart au moins des États Parties à la présente Convention, soumet la proposition à tous les membres de la Commission Économique des Nations Unies pour l’Europe, de la Commission Centrale pour la Navigation du Rhin et de la Commission du Danube, ainsi qu’à tous les États contractants et convoque une conférence ayant pour seul objet de réviser les montants fixés à l’art. 20, par. 1, ou de remplacer l’unité définie à l’art. 28 par une autre unité.
 
 <sup>(2)</sup> La conférence est convoquée au plus tôt après un délai de six mois à compter du jour de la transmission de la proposition.
 
-<sup>(3)</sup> Tous les Etats contractants à la Convention sont en droit de participer à la conférence, qu’ils soient membres des organisations mentionnées au par. 1 ou non.
+<sup>(3)</sup> Tous les États contractants à la Convention sont en droit de participer à la conférence, qu’ils soient membres des organisations mentionnées au par. 1 ou non.
 
-<sup>(4)</sup> Les amendements sont adoptés à la majorité des deux tiers des Etats contractants à la Convention représentés à la conférence et participant au vote, sous réserve que la moitié au moins des Etats contractants à la Convention soient représentés lors du vote.
+<sup>(4)</sup> Les amendements sont adoptés à la majorité des deux tiers des États contractants à la Convention représentés à la conférence et participant au vote, sous réserve que la moitié au moins des États contractants à la Convention soient représentés lors du vote.
 
 <sup>(5)</sup> Lors de la consultation relative à l’amendement des montants fixés à l’art. 20, par. 1, la conférence tient compte des enseignements tirés des événements ayant entraîné des dommages et notamment de l’ampleur des dommages ainsi occasionnés, des modifications de la valeur monétaire et de l’incidence de l’amendement envisagé sur les frais d’assurance.
 
@@ -524,13 +518,13 @@ A la demande d’un tiers au moins des Etats contractants à la présente Conven
 - b) Un montant ne peut être augmenté au point de dépasser le montant correspondant aux limites maximales de responsabilité fixées par la présente Convention, majorées de 6 pour cent par an, calculés suivant le principe des intérêts composés à partir du jour de l’ouverture de la présente Convention à la signature.
 - c) Un montant ne peut être augmenté au point de dépasser le montant correspondant au triple des limites maximales de responsabilité fixées par la présente Convention.
 
-<sup>(7)</sup> Le dépositaire notifie à tous les Etats contractants tout amendement adopté conformément au par. 4. L’amendement est réputé accepté après un délai de dix‑huit mois suivant le jour de la notification, à moins que durant ce délai un quart au moins des Etats qui étaient Etats contractants au moment de la décision relative à l’amendement aient informé le dépositaire qu’ils n’acceptent pas cet amendement; dans ce cas, l’amendement est rejeté et n’entre pas en vigueur.
+<sup>(7)</sup> Le dépositaire notifie à tous les États contractants tout amendement adopté conformément au par. 4. L’amendement est réputé accepté après un délai de dix‑huit mois suivant le jour de la notification, à moins que durant ce délai un quart au moins des États qui étaient États contractants au moment de la décision relative à l’amendement aient informé le dépositaire qu’ils n’acceptent pas cet amendement; dans ce cas, l’amendement est rejeté et n’entre pas en vigueur.
 
 <sup>(8)</sup> Un amendement réputé accepté conformément au par. 7 entre en vigueur dix‑huit mois après son acceptation.
 
-<sup>(9)</sup> Tous les Etats contractants sont liés par l’amendement à moins qu’ils ne dénoncent la présente Convention conformément à l’art. 35 au plus tard six mois avant l’entrée en vigueur de l’amendement. La dénonciation prend effet à l’entrée en vigueur de l’amendement.
+<sup>(9)</sup> Tous les États contractants sont liés par l’amendement à moins qu’ils ne dénoncent la présente Convention conformément à l’art. 35 au plus tard six mois avant l’entrée en vigueur de l’amendement. La dénonciation prend effet à l’entrée en vigueur de l’amendement.
 
-<sup>(10)</sup> Lorsqu’un amendement a été adopté mais que le délai de dix‑huit mois prévu pour l’acceptation n’est pas écoulé, un Etat qui devient Etat contractant au cours de ce délai est lié par l’amendement si celui‑ci entre en vigueur. Un Etat qui devient Etat contractant après ce délai est lié par un amendement accepté conformément au par. 7. Dans les cas cités au présent paragraphe, un Etat est lié par un amendement dès son entrée en vigueur ou dès que la présente Convention entre en vigueur pour cet Etat si celle‑ci intervient ultérieurement.
+<sup>(10)</sup> Lorsqu’un amendement a été adopté mais que le délai de dix‑huit mois prévu pour l’acceptation n’est pas écoulé, un État qui devient État contractant au cours de ce délai est lié par l’amendement si celui‑ci entre en vigueur. Un État qui devient État contractant après ce délai est lié par un amendement accepté conformément au par. 7. Dans les cas cités au présent paragraphe, un État est lié par un amendement dès son entrée en vigueur ou dès que la présente Convention entre en vigueur pour cet État si celle‑ci intervient ultérieurement.
 
 #### Art. 38
 
@@ -540,12 +534,12 @@ A la demande d’un tiers au moins des Etats contractants à la présente Conven
 
 <sup>(2)</sup> Le dépositaire
 
-- a) communiquera à tous les Etats qui ont participé à la Conférence diplomatique d’adoption de la Convention de Budapest relative au contrat de transport de marchandises en navigation intérieure la présente Convention dans la version linguistique officielle qui n’était pas encore disponible lors de la Conférence en vue de sa vérification;
-- b) informera tous les Etats visés à la let. a) de toute proposition d’amendement au texte communiqué conformément à la let. a);
+- a) communiquera à tous les États qui ont participé à la Conférence diplomatique d’adoption de la Convention de Budapest relative au contrat de transport de marchandises en navigation intérieure la présente Convention dans la version linguistique officielle qui n’était pas encore disponible lors de la Conférence en vue de sa vérification;
+- b) informera tous les États visés à la let. a) de toute proposition d’amendement au texte communiqué conformément à la let. a);
 - c) constatera la date à laquelle toutes les versions linguistiques officielles de la présente Convention ont été mises en conformité et sont à considérer comme authentiques;
-- d) communiquera à tous les Etats visés à la let. a) la date constatée conformément à la let. c);
-- e) remettra à tous les Etats ayant été invités à la Conférence diplomatique d’adoption de la Convention de Budapest relative au contrat de transport de marchandises en navigation intérieure et à ceux ayant signé la présente Convention ou y ayant adhéré, des copies certifiées conformes de la présente Convention;
-- f) informe tous les Etats qui ont signé la présente Convention ou y ont adhéré,
+- d) communiquera à tous les États visés à la let. a) la date constatée conformément à la let. c);
+- e) remettra à tous les États ayant été invités à la Conférence diplomatique d’adoption de la Convention de Budapest relative au contrat de transport de marchandises en navigation intérieure et à ceux ayant signé la présente Convention ou y ayant adhéré, des copies certifiées conformes de la présente Convention;
+- f) informe tous les États qui ont signé la présente Convention ou y ont adhéré,
   - i) de toute signature nouvelle, de toute notification ainsi que de toute déclaration, avec indication de la date de la signature, de la notification ou de la déclaration;
   - ii) de la date d’entrée en vigueur de la présente Convention;
   - iii) de toute dénonciation de la présente Convention avec indication de la date à laquelle celle‑ci prend effet;
@@ -558,29 +552,30 @@ A la demande d’un tiers au moins des Etats contractants à la présente Conven
 
 *En foi de quoi,* les plénipotentiaires soussignés, dûment autorisés à cet effet par leurs gouvernements, ont signé la présente Convention. Fait à Budapest le vingt‑deux juin 2001 en un exemplaire original dont chacun des textes en allemand, anglais, français, néerlandais et russe font également foi. (Suivent les signatures)
 
-Champ d’application le 21 février 2013**[^t-2]**
+Champ d’application le 11 octobre 2023[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Allemagne</td><td>10 juillet</td><td>2007</td><td>1<sup>er</sup> novembre</td><td>2007</td></tr>
 <tr><td>Belgique</td><td>5 août</td><td>2008</td><td>1<sup>er</sup> décembre</td><td>2008</td></tr>
 <tr><td>Bulgarie</td><td>19 mars</td><td>2006</td><td>1<sup>er</sup> août</td><td>2006</td></tr>
 <tr><td>Croatie</td><td>7 décembre</td><td>2004</td><td>1<sup>er</sup> avril</td><td>2005</td></tr>
 <tr><td>France</td><td>11 mai</td><td>2007</td><td>1<sup>er</sup> septembre</td><td>2007</td></tr>
-<tr><td>Hongrie\*</td><td>7 mai</td><td>2002</td><td>1<sup>er</sup> avril</td><td>2005</td></tr>
+<tr><td>Hongrie</td><td>7 mai</td><td>2002</td><td>1<sup>er</sup> avril</td><td>2005</td></tr>
 <tr><td>Luxembourg</td><td>25 mai</td><td>2004</td><td>1<sup>er</sup> avril</td><td>2005</td></tr>
 <tr><td>Moldova</td><td>21 avril</td><td>2008</td><td>1<sup>er</sup> août</td><td>2008</td></tr>
 <tr><td>Pays-Bas</td><td>20 juin</td><td>2006</td><td>1<sup>er</sup> octobre</td><td>2006</td></tr>
 <tr><td>République tchèque</td><td>14 novembre</td><td>2005</td><td>1<sup>er</sup> mars</td><td>2006</td></tr>
 <tr><td>Roumanie</td><td>3 avril</td><td>2004</td><td>1<sup>er</sup> avril</td><td>2005</td></tr>
 <tr><td>Russie</td><td>11 avril</td><td>2007 A</td><td>1<sup>er</sup> août</td><td>2007</td></tr>
-<tr><td>Slovaquie</td><td>27 novembre</td><td>2007</td><td>1<sup>er</sup> mars</td><td>2008</td></tr>
 <tr><td>Serbie<sup>\*</sup></td><td>21 juillet</td><td>2010</td><td>1<sup>er</sup> novembre</td><td>2010</td></tr>
+<tr><td>Slovaquie</td><td>27 novembre</td><td>2007</td><td>1<sup>er</sup> mars</td><td>2008</td></tr>
 <tr><td>Suisse\*</td><td>13 mai</td><td>2004</td><td>1<sup>er</sup> avril</td><td>2005</td></tr>
+<tr><td>Ukraine</td><td>17 avril</td><td>2014</td><td>1<sup>er</sup> janvier</td><td>2015</td></tr>
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes peuvent être obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 2005 1269](https://fedlex.data.admin.ch/eli/oc/2005/189), [2007 1179](https://fedlex.data.admin.ch/eli/oc/2007/195), [2008 4897](https://fedlex.data.admin.ch/eli/oc/2008/687), [2013 805](https://fedlex.data.admin.ch/eli/oc/2013/163). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2005 1269](https://fedlex.data.admin.ch/eli/oc/2005/189); [2007 1179](https://fedlex.data.admin.ch/eli/oc/2007/195); [2008 4897](https://fedlex.data.admin.ch/eli/oc/2008/687); [2013 805](https://fedlex.data.admin.ch/eli/oc/2013/163); [2023 588](https://fedlex.data.admin.ch/eli/oc/2023/588). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Déclarations
 

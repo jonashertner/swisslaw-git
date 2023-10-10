@@ -4,11 +4,11 @@ title: Convenzione di Budapest del 22 giugno 2001 concernente il contratto di tr
 short: CMNI
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/189"
 language: it
-version: 2013-02-21
+version: 2023-10-11
 adopted: 2001-06-22
 in_force: 2005-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/189/20130221/it/xml/fedlex-data-admin-ch-eli-cc-2005-189-20130221-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/189/20130221/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/189/20231011/it/xml/fedlex-data-admin-ch-eli-cc-2005-189-20231011-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/189/20231011/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -21,15 +21,9 @@ Traduzione
 
 (CMNI)
 
-Conclusa a Budapest il 22 giugno 2001
+Conclusa a Budapest il 22 giugno 2001 Approvata dall’Assemblea federale il 19 dicembre 2003[^t-1] Ratificata con strumenti depositati dalla Svizzera il 13 maggio 2004 Entrata in vigore per la Svizzera il 1° aprile 2005
 
-Approvata dall’Assemblea federale il 19 dicembre 2003[^t-1]
-
-Ratificata con strumenti depositati dalla Svizzera il 13 maggio 2004
-
-Entrata in vigore per la Svizzera il 1° aprile 2005
-
-(Stato 21 febbraio 2013)
+(Stato 11 ottobre 2023)
 
 [^t-1]: [RU 2005 1267](https://fedlex.data.admin.ch/eli/oc/2005/188)
 
@@ -569,7 +563,7 @@ Il depositario:
 
 *In fede di che*, i sottoscritti, debitamente autorizzati dai rispettivi Governi, hanno firmato la presente Convenzione. Fatto a Budapest il 22 giugno 2001 in un solo esemplare originale, nelle lingue tedesca, inglese, francese, olandese e russa, tutti i testi facenti parimenti fede. (Seguono le firme)
 
-Campo d’applicazione il 21 febbraio 2013**[^t-2]**
+Campo d’applicazione l’11 ottobre 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -587,11 +581,12 @@ Campo d’applicazione il 21 febbraio 2013**[^t-2]**
 <tr><td>Serbia<sup>\*</sup></td><td>21 luglio</td><td>2010</td><td>1° novembre</td><td>2010</td></tr>
 <tr><td>Slovacchia</td><td>27 novembre</td><td>2007</td><td>1° marzo</td><td>2008</td></tr>
 <tr><td>Svizzera<sup>\*</sup></td><td>13 maggio</td><td>2004</td><td>1° aprile</td><td>2005</td></tr>
-<tr><td>Ungheria<sup>\*</sup></td><td>7 maggio</td><td>2002</td><td>1° aprile</td><td>2005</td></tr>
+<tr><td>Ucraina</td><td>17 aprile</td><td>2014</td><td>1° gennaio</td><td>2015</td></tr>
+<tr><td>Ungheria</td><td>7 maggio</td><td>2002</td><td>1° aprile</td><td>2005</td></tr>
 <tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo può essere ottenere presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 2005 1269](https://fedlex.data.admin.ch/eli/oc/2005/189), [2007 1179](https://fedlex.data.admin.ch/eli/oc/2007/195), [2008 4897](https://fedlex.data.admin.ch/eli/oc/2008/687)e [2013 805](https://fedlex.data.admin.ch/eli/oc/2013/163). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2005 1269](https://fedlex.data.admin.ch/eli/oc/2005/189); [2007 1179](https://fedlex.data.admin.ch/eli/oc/2007/195); [2008 4897](https://fedlex.data.admin.ch/eli/oc/2008/687); [2013 805](https://fedlex.data.admin.ch/eli/oc/2013/163), [2023 588](https://fedlex.data.admin.ch/eli/oc/2023/588). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty.
 
 Dichiarazione
 
