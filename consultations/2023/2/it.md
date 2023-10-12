@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica d’ordinanza (OEAE) riguardante il fermo e il sostegno finanziario corrisposto dalla Confederazione ai centri di partenza cantonali
 document: Progetto posto in consultazione
 language: it

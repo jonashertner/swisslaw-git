@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification d’ordonnance (OERE) concernant la rétention et le soutien financier de la Confédération aux cantons qui gèrent des centres de départ
 document: Projet mis en consultation
 language: fr

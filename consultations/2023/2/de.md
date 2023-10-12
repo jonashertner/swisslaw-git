@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnungsänderung (VVWAL) zur kurzfristigen Festhaltung und zur finanziellen Unterstützung von kantonalen Ausreisezentren durch den Bund
 document: Vernehmlassungsvorlage
 language: de
