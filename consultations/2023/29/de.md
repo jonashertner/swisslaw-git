@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bundesgesetz über die Massnahmen zur Entlastung des Haushalts ab 2025
 document: Vernehmlassungsvorlage
 language: de

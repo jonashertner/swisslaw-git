@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Loi fédérale sur des mesures d’allégement budgétaire à partir de 2025
 document: Projet mis en consultation
 language: fr
