@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordinanza sui prodotti del tabacco e sulle sigarette elettroniche (OPTab)
 document: Progetto posto in consultazione
 language: it

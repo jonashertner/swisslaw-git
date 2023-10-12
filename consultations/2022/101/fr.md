@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordonnance sur les produits du tabac et les cigarettes électroniques (OPTab)
 document: Projet mis en consultation
 language: fr

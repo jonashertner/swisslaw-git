@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über Tabakprodukte und elektronische Zigaretten (TabPV)
 document: Vernehmlassungsvorlage
 language: de
