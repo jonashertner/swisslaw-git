@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica dell’ordinanza sull’ammissione, il soggiorno e l’attività lucrativa (OASA)"
 document: Progetto posto in consultazione
 language: it

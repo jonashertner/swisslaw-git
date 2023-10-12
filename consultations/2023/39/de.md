@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung der Verordnung über Zulassung, Aufenthalt und Erwerbstätigkeit (VZAE)"
 document: Vernehmlassungsvorlage
 language: de
