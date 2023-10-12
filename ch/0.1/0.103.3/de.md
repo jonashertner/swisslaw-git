@@ -3,11 +3,11 @@ sr: "0.103.3"
 title: Internationales Übereinkommen vom 20. Dezember 2006 zum Schutz aller Personen vor dem Verschwindenlassen
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/757"
 language: de
-version: 2022-09-16
+version: 2023-10-13
 adopted: 2006-12-20
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/757/20220916/de/xml/fedlex-data-admin-ch-eli-cc-2016-757-20220916-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/757/20220916/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/757/20231013/de/xml/fedlex-data-admin-ch-eli-cc-2016-757-20231013-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/757/20231013/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 2. Dezember 2016
 
 In Kraft getreten für die Schweiz am 1. Januar 2017
 
-(Stand am 16. September 2022)
+(Stand am 13. Oktober 2023)
 
 [^t-1]: [AS 2016 4687](https://fedlex.data.admin.ch/eli/oc/2016/756)
 
@@ -500,7 +500,7 @@ Dieses Übereinkommen lässt die Bestimmungen des humanitären Völkerrechts ein
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 16. September 2022[^t-2]
+Geltungsbereich am 13. Oktober 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -521,6 +521,7 @@ Geltungsbereich am 16. September 2022[^t-2]
 <tr><td>Dominica</td><td>13. Mai</td><td>2019 B</td><td>12. Juni</td><td>2019</td></tr>
 <tr><td>Ecuador</td><td>20. Oktober</td><td>2009</td><td>23. Dezember</td><td>2010</td></tr>
 <tr><td>Fidschi\*</td><td>19. August</td><td>2019 B</td><td>18. September</td><td>2019</td></tr>
+<tr><td>Finnland<sup>\*</sup> <sup>\*\*</sup></td><td>24. März</td><td>2023</td><td>23. April</td><td>2023</td></tr>
 <tr><td>Frankreich\*\*</td><td>23. September</td><td>2008</td><td>23. Dezember</td><td>2010</td></tr>
 <tr><td>Gabun</td><td>19. Januar</td><td>2011</td><td>18. Februar</td><td>2011</td></tr>
 <tr><td>Gambia</td><td>28. September</td><td>2018</td><td>28. Oktober</td><td>2018</td></tr>
@@ -530,14 +531,17 @@ Geltungsbereich am 16. September 2022[^t-2]
 <tr><td>Italien</td><td>8. Oktober</td><td>2015</td><td>7. November</td><td>2015</td></tr>
 <tr><td>Japan</td><td>23. Juli</td><td>2009</td><td>23. Dezember</td><td>2010</td></tr>
 <tr><td>Kambodscha</td><td>27. Juni</td><td>2013 B</td><td>27. Juli</td><td>2013</td></tr>
+<tr><td>Kap Verde</td><td>20. Dezember</td><td>2022</td><td>19. Januar</td><td>2023</td></tr>
 <tr><td>Kasachstan</td><td>27. Februar</td><td>2009 B</td><td>23. Dezember</td><td>2010</td></tr>
 <tr><td>Kolumbien</td><td>11. Juli</td><td>2012</td><td>10. August</td><td>2012</td></tr>
+<tr><td>Korea (Süd-)</td><td>4. Januar</td><td>2023 B</td><td>3. Februar</td><td>2023</td></tr>
 <tr><td>Kroatien</td><td>31. Januar</td><td>2022</td><td>2. März</td><td>2022</td></tr>
 <tr><td>Kuba\*</td><td>2. Februar</td><td>2009</td><td>23. Dezember</td><td>2010</td></tr>
 <tr><td>Lesotho</td><td>6. Dezember</td><td>2013</td><td>5. Januar</td><td>2014</td></tr>
 <tr><td>Litauen</td><td>14. August</td><td>2013</td><td>13. September</td><td>2013</td></tr>
 <tr><td>Luxemburg</td><td>1. April</td><td>2022</td><td>1. Mai</td><td>2022</td></tr>
 <tr><td>Malawi</td><td>14. Juli</td><td>2017 B</td><td>13. August</td><td>2017</td></tr>
+<tr><td>Malediven</td><td>31. Juli</td><td>2023</td><td>30. August</td><td>2023</td></tr>
 <tr><td>Mali</td><td>1. Juli</td><td>2009</td><td>23. Dezember</td><td>2010</td></tr>
 <tr><td>Malta</td><td>27. März</td><td>2015</td><td>26. April</td><td>2015</td></tr>
 <tr><td>Marokko\*</td><td>14. Mai</td><td>2013</td><td>13. Juni</td><td>2013</td></tr>
@@ -574,10 +578,10 @@ Geltungsbereich am 16. September 2022[^t-2]
 <tr><td>Ukraine\*</td><td>14. August</td><td>2015 B</td><td>13. September</td><td>2015</td></tr>
 <tr><td>Uruguay</td><td>4. März</td><td>2009</td><td>23. Dezember</td><td>2010</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>11. Oktober</td><td>2016 B</td><td>10. November</td><td>2016</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für die Färöer und Grönland.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): [https://treaties.un.org](https://treaties.un.org) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für die Färöer und Grönland.</td></tr>
 </table>
 
-[^t-2]: [AS 2016 4693](https://fedlex.data.admin.ch/eli/oc/2016/757); [2018 3029](https://fedlex.data.admin.ch/eli/oc/2018/474); [2020 1559](https://fedlex.data.admin.ch/eli/oc/2020/310); [2021 536](https://fedlex.data.admin.ch/eli/oc/2021/536); [2022 516](https://fedlex.data.admin.ch/eli/oc/2022/516). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht https://www.fedlex.admin.ch/de/treaty.
+[^t-2]: [AS 2016 4693](https://fedlex.data.admin.ch/eli/oc/2016/757); [2018 3029](https://fedlex.data.admin.ch/eli/oc/2018/474); [2020 1559](https://fedlex.data.admin.ch/eli/oc/2020/310); [2021 536](https://fedlex.data.admin.ch/eli/oc/2021/536); [2022 516](https://fedlex.data.admin.ch/eli/oc/2022/516); [2023 587](https://fedlex.data.admin.ch/eli/oc/2023/587). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht www.fedlex.admin.ch/de/treaty.
 
 Erklärungen
 
@@ -590,5 +594,5 @@ Erklärungen
 ## Staaten, die nach Artikel 31 und 32 des Übereinkommens erklärt haben, die Zuständigkeit des Ausschusses zur Entgegennahme und Prüfung von Mitteilungen anzuerkennen
 
 <table>
-<tr><td>Albanien Argentinien Belgien Bosnien und Herzegowina Chile Deutschland Ecuador Frankreich Japan (Art. 32) Kolumbien (Art. 31) Kroatien Litauen Mali Mexiko (Art. 31) Montenegro</td><td>Niederlande und Karibische Gebiete (Bonaire, Sint Eustatius und Saba) Österreich Peru (Art. 31) Portugal Schweiz Serbien Slowakei Slowenien Spanien Sri Lanka (Art. 32) Tschechische Republik Ukraine Uruguay</td></tr>
+<tr><td>Albanien Argentinien Belgien Bosnien und Herzegowina Chile Deutschland Ecuador Finnland Frankreich Japan (Art. 32) Kolumbien (Art. 31) Korea (Süd-) Kroatien Litauen Luxemburg Mali Mexiko (Art. 31) Montenegro</td><td>Niederlande und Karibische Gebiete (Bonaire, Sint Eustatius und Saba) Österreich Peru (Art. 31) Portugal Schweiz Serbien Slowakei Slowenien Spanien Sri Lanka (Art. 32) Tschechische Republik Ukraine Uruguay</td></tr>
 </table>

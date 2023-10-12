@@ -3,11 +3,11 @@ sr: "0.103.3"
 title: Convenzione internazionale del 20 dicembre 2006 per la protezione di tutte le persone dalla sparizione forzata
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/757"
 language: it
-version: 2022-09-16
+version: 2023-10-13
 adopted: 2006-12-20
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/757/20220916/it/xml/fedlex-data-admin-ch-eli-cc-2016-757-20220916-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/757/20220916/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/757/20231013/it/xml/fedlex-data-admin-ch-eli-cc-2016-757-20231013-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/757/20231013/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a New York il 20 dicembre 2006 Approvata dall’Assemblea federale il 18 dicembre 2015[^t-1] Strumento di ratifica depositato dalla Svizzera il 2 dicembre 2016 Entrata in vigore per la Svizzera il 1° gennaio 2017
 
-(Stato 16 settembre 2022)
+(Stato 13 ottobre 2023)
 
 [^t-1]: [RU 2016 4687](https://fedlex.data.admin.ch/eli/oc/2016/756)
 
@@ -492,7 +492,7 @@ La presente Convenzione non pregiudica le disposizioni del diritto internazional
 
 (Seguono le firme)
 
-Campo d’applicazione il 16 settembre 2022[^t-2]
+Campo d’applicazione il 13 ottobre 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -500,7 +500,7 @@ Campo d’applicazione il 16 settembre 2022[^t-2]
 <tr><td>Argentina</td><td>14 dicembre</td><td>2007</td><td>23 dicembre</td><td>2010</td></tr>
 <tr><td>Armenia</td><td>24 gennaio</td><td>2011</td><td>23 febbraio</td><td>2011</td></tr>
 <tr><td>Austria</td><td>7 giugno</td><td>2012</td><td>7 luglio</td><td>2012</td></tr>
-<tr><td>Belgio\*<sup>\*</sup></td><td>2 giugno</td><td>2011</td><td>2 luglio</td><td>2011</td></tr>
+<tr><td>Belgio<sup>\*</sup><sup>\*</sup></td><td>2 giugno</td><td>2011</td><td>2 luglio</td><td>2011</td></tr>
 <tr><td>Belize</td><td>14 agosto</td><td>2015 A</td><td>13 settembre</td><td>2015</td></tr>
 <tr><td>Benin</td><td>2 novembre</td><td>2017</td><td>2 dicembre</td><td>2017</td></tr>
 <tr><td>Bolivia</td><td>17 dicembre</td><td>2008</td><td>23 dicembre</td><td>2010</td></tr>
@@ -508,9 +508,11 @@ Campo d’applicazione il 16 settembre 2022[^t-2]
 <tr><td>Brasile</td><td>29 novembre</td><td>2010</td><td>29 dicembre</td><td>2010</td></tr>
 <tr><td>Burkina Faso</td><td>3 dicembre</td><td>2009</td><td>23 dicembre</td><td>2010</td></tr>
 <tr><td>Cambogia</td><td>27 giugno</td><td>2013 A</td><td>27 luglio</td><td>2013</td></tr>
+<tr><td>Capo Verde</td><td>20 dicembre</td><td>2022</td><td>19 gennaio</td><td>2023</td></tr>
 <tr><td>Ceca, Repubblica</td><td>8 febbraio</td><td>2017</td><td>10 marzo</td><td>2017</td></tr>
 <tr><td>Cile</td><td>8 dicembre</td><td>2009</td><td>23 dicembre</td><td>2010</td></tr>
 <tr><td>Colombia</td><td>11 luglio</td><td>2012</td><td>10 agosto</td><td>2012</td></tr>
+<tr><td>Corea del Sud</td><td>4 gennaio</td><td>2023 A</td><td>3 febbraio</td><td>2023</td></tr>
 <tr><td>Costa Rica</td><td>16 febbraio</td><td>2012</td><td>17 marzo</td><td>2012</td></tr>
 <tr><td>Croazia</td><td>31 gennaio</td><td>2022</td><td>2 marzo</td><td>2022</td></tr>
 <tr><td>Cuba<sup>\*</sup></td><td>2 febbraio</td><td>2009</td><td>23 dicembre</td><td>2010</td></tr>
@@ -518,7 +520,8 @@ Campo d’applicazione il 16 settembre 2022[^t-2]
 <tr><td>Dominica</td><td>13 maggio</td><td>2019 A</td><td>12 giugno</td><td>2019</td></tr>
 <tr><td>Ecuador</td><td>20 ottobre</td><td>2009</td><td>23 dicembre</td><td>2010</td></tr>
 <tr><td>Figi<sup>\*</sup></td><td>19 agosto</td><td>2019 A</td><td>18 settembre</td><td>2019</td></tr>
-<tr><td>Francia\*\*</td><td>23 settembre</td><td>2008</td><td>23 dicembre</td><td>2010</td></tr>
+<tr><td>Finlandia<sup>\*</sup> <sup>\*\*</sup></td><td>24 marzo</td><td>2023</td><td>23 aprile</td><td>2023</td></tr>
+<tr><td>Francia<sup>\*\*</sup></td><td>23 settembre</td><td>2008</td><td>23 dicembre</td><td>2010</td></tr>
 <tr><td>Gabon</td><td>19 gennaio</td><td>2011</td><td>18 febbraio</td><td>2011</td></tr>
 <tr><td>Gambia</td><td>28 settembre</td><td>2018</td><td>28 ottobre</td><td>2018</td></tr>
 <tr><td>Germania\* \*\*</td><td>24 settembre</td><td>2009</td><td>23 dicembre</td><td>2010</td></tr>
@@ -532,6 +535,7 @@ Campo d’applicazione il 16 settembre 2022[^t-2]
 <tr><td>Lituania</td><td>14 agosto</td><td>2013</td><td>13 settembre</td><td>2013</td></tr>
 <tr><td>Lussemburgo</td><td>1° aprile</td><td>2022</td><td>1° maggio</td><td>2022</td></tr>
 <tr><td>Malawi</td><td>14 luglio</td><td>2017 A</td><td>13 agosto</td><td>2017</td></tr>
+<tr><td>Maldive</td><td>31 luglio</td><td>2023</td><td>30 agosto</td><td>2023</td></tr>
 <tr><td>Mali</td><td>1° luglio</td><td>2009</td><td>23 dicembre</td><td>2010</td></tr>
 <tr><td>Malta</td><td>27 marzo</td><td>2015</td><td>26 aprile</td><td>2015</td></tr>
 <tr><td>Marocco<sup>\*</sup></td><td>14 maggio</td><td>2013</td><td>13 giugno</td><td>2013</td></tr>
@@ -566,10 +570,10 @@ Campo d’applicazione il 16 settembre 2022[^t-2]
 <tr><td>Ucraina<sup>\*</sup></td><td>14 agosto</td><td>2015 A</td><td>13 settembre</td><td>2015</td></tr>
 <tr><td>Uruguay</td><td>4 marzo</td><td>2009</td><td>23 dicembre</td><td>2010</td></tr>
 <tr><td>Zambia</td><td>4 aprile</td><td>2011</td><td>4 maggio</td><td>2011</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU, ad eccezione delle riserve e dichiarazioni della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica alle isole Faroe e Groenlandia. [tab]</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, le dichiarazioni e le obiezioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [http://treaties.un.org](http://treaties.un.org/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica alle isole Faroe e Groenlandia. [tab]</td></tr>
 </table>
 
-[^t-2]: [RU 2016 4693](https://fedlex.data.admin.ch/eli/oc/2016/757); [2018 3029](https://fedlex.data.admin.ch/eli/oc/2018/474); [2020 1559](https://fedlex.data.admin.ch/eli/oc/2020/310); [2021 536](https://fedlex.data.admin.ch/eli/oc/2021/536); [2022 516](https://fedlex.data.admin.ch/eli/oc/2022/516). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty.
+[^t-2]: [RU 2016 4693](https://fedlex.data.admin.ch/eli/oc/2016/757); [2018 3029](https://fedlex.data.admin.ch/eli/oc/2018/474); [2020 1559](https://fedlex.data.admin.ch/eli/oc/2020/310); [2021 536](https://fedlex.data.admin.ch/eli/oc/2021/536); [2022 516](https://fedlex.data.admin.ch/eli/oc/2022/516); [2023 587](https://fedlex.data.admin.ch/eli/oc/2023/587). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Dichiarazioni
 
@@ -595,9 +599,13 @@ Cile
 
 Colombia (art. 31)
 
+Corea del Sud
+
 Croazia
 
 Ecuador
+
+Finlandia
 
 Francia
 
@@ -606,6 +614,8 @@ Germania
 Giappone (art. 32)
 
 Lituania
+
+Lussemburgo
 
 Mali
 
