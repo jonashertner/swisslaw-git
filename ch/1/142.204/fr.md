@@ -4,11 +4,11 @@ title: "Ordonnance du 15 août 2018 sur l'entrée et l'octroi de visas (OEV)"
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: fr
-version: 2023-02-04
+version: 2023-10-15
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20230204/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20230204-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20230204/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20231015/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20231015-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20231015/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20230204/fr"
 
 (OEV)
 
-du 15 août 2018 (État le 4 février 2023)
+du 15 août 2018 (État le 15 octobre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -41,7 +41,7 @@ arrête:
 
 <sup>4</sup>
 
-L’ordonnance régit également la compétence de conclure des traités internationaux de portée mineure en relation avec les règlements suivants de l’UE:[^1-1]
+L’ordonnance régit également la compétence de conclure des traités internationaux de portée mineure en relation avec les actes suivants de l’UE:[^1-1]
 
 - a. règlement (UE) n<sup>o</sup> 514/2014[^1-2];
 - b. règlement (UE) n<sup>o</sup> 515/2014[^1-3];
@@ -54,9 +54,10 @@ L’ordonnance régit également la compétence de conclure des traités interna
 - g.[^1-15] règlement (CE) n° 1030/2002[^1-16];
 - [tab] h.[^1-17] règlement (CE) n<sup>o</sup> 767/2008[^1-18];
 - i.[^1-19] règlement (UE) 2021/1148[^1-20];
-- j.[^1-21] règlement (UE) 2021/1060[^1-22].[^1-23]
+- j.[^1-21] règlement (UE) 2021/1060[^1-22];
+- k.[^1-23] décision n<sup>o</sup> 1105/2011/UE[^1-24].[^1-25]
 
-[^1-1]: Nouvelle teneur selon le ch. I de l’O du 13 mai 2020, en vigueur depuis le 15 juin 2020 ([RO 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 15 sept. 2023, en vigueur depuis le 15 oct. 2023 ([RO 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
 [^1-2]: Règlement (UE) n<sup>o</sup> 514/2014 du Parlement européen et du Conseil du 16 avril 2014 portant dispositions générales applicables au Fonds «Asile, migration et intégration» et à l’instrument de soutien financier à la coopération policière, à la prévention et à la répression de la criminalité, ainsi qu’à la gestion des crises, version du JO L 150 du 20.5.2014, p. 112.
 [^1-3]: Règlement (UE) n<sup>o</sup> 515/2014 du Parlement européen et du Conseil du 16 avril 2014 portant création, dans le cadre du Fonds pour la sécurité intérieure, de l’instrument de soutien financier dans le domaine des frontières extérieures et des visas et abrogeant la décision n<sup>o</sup> 574/2007/CE, version du JO L 150 du 20.5.2014, p. 143.
 [^1-4]: Introduite par le ch. I de l’O du 11 août 2021 ([RO 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 15 janv. 2022 ([RO 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
@@ -78,7 +79,9 @@ L’ordonnance régit également la compétence de conclure des traités interna
 [^1-20]: Règlement (UE) 2021/1148 du Parlement européen et du Conseil du 7 juillet 2021 établissant, dans le cadre du Fonds pour la gestion intégrée des frontières, l’instrument de soutien financier à la gestion des frontières et à la politique des visas, JO L 251, du 15.7.2021, p. 48.
 [^1-21]: Introduite par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 15 janv. 2022 ([RO 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
 [^1-22]: Règlement (UE) 2021/1060 du Parlement européen et du Conseil du 24 juin 2021 portant dispositions communes relatives au Fonds européen de développement régional, au Fonds social européen plus, au Fonds de cohésion, au Fonds pour une transition juste et au Fonds européen pour les affaires maritimes, la pêche et l’aquaculture, et établissant les règles financières applicables à ces Fonds et au Fonds «Asile, migration et intégration», au Fonds pour la sécurité intérieure et à l’instrument de soutien financier à la gestion des frontières et à la politique des visas, JO L 231 du 30.6.2021, p. 159.
-[^1-23]: Nouvelle teneur selon le ch. I de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^1-23]: Introduite par le ch. I de l’O du 15 sept. 2023, en vigueur depuis le 15 oct. 2023 ([RO 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^1-24]: Décision n<sup>o</sup> 1105/2011/UE du Parlement européen et du Conseil du 25 octobre 2011 relative à la liste des documents de voyage permettant à leur titulaire le franchissement des frontières extérieures et susceptibles d’être revêtus d’un visa, et relative à l’instauration d’un dispositif pour établir cette liste, version du JO L 287 du 4.11.2011, p. 9.
+[^1-25]: Nouvelle teneur selon le ch. I de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 
 #### Art. 2
 
@@ -183,7 +186,7 @@ Le document de voyage doit remplir les conditions suivantes:
   sa durée de validité:
 
   - 1\. est supérieure d’au moins trois mois à la date à laquelle son titulaire a prévu de quitter l’espace Schengen, en cas de court séjour,
-  - 2\. est supérieure d’au moins trois mois à la date du transit ou du dernier transit autorisé, en cas de transit aéroportuaire,
+  - 2\.[^6-2] est supérieure d’au moins trois mois à la date du transit ou du dernier transit autorisé, en cas de transit aéroportuaire de passagers d’aéronefs soumis à l’obligation de visa de transit aéroportuaire,
   - 3\. est supérieure d’au moins trois mois à la date à laquelle son titulaire a reçu l’autorisation d’entrer en Suisse, en cas de long séjour;
 
 - b. il a été délivré depuis moins de dix ans;
@@ -194,7 +197,7 @@ Le document de voyage doit remplir les conditions suivantes:
 Les autorités compétentes peuvent déroger:
 
 - a. aux conditions de l’al. 2, let. a, ch. 1 et 2, en cas d’urgence dûment justifiée;
-- b. aux conditions de l’al. 2, let. a, ch. 3, b et c, dans des cas justifiés.[^6-2]
+- b. aux conditions de l’al. 2, let. a, ch. 3, b et c, dans des cas justifiés.[^6-3]
 
 <sup>4</sup>
 
@@ -203,13 +206,14 @@ Un document de voyage est reconnu par le SEM s’il remplit les conditions suiva
 - a. il fait état de l’identité du titulaire et de son appartenance à l’État ou à la collectivité territoriale qui l’a délivré;
 - b. il a été établi par un État, une collectivité territoriale ou une organisation internationale reconnus par la Suisse;
 - c. l’État ou la collectivité territoriale qui l’a délivré garantit en tout temps le retour de ses ressortissants;
-- d. le document présente les éléments de sécurité requis conformément aux critères internationaux; sont notamment applicables les normes figurant à l’annexe 9 de la Convention du 7 décembre 1944 relative à l’aviation internationale[^6-3].
+- d. le document présente les éléments de sécurité requis conformément aux critères internationaux; sont notamment applicables les normes figurant à l’annexe 9 de la Convention du 7 décembre 1944 relative à l’aviation internationale[^6-4].
 
 <sup>5</sup> Le SEM peut, dans des cas dûment justifiés, reconnaître des documents de voyage en dérogation à l’al. 4. Il peut notamment le faire lorsqu’un État a délivré un document de voyage à une personne séjournant légalement dans cet État sans pour autant en être ressortissante.
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
-[^6-2]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
-[^6-3]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^6-2]: Nouvelle teneur selon le ch. I de l’O du 15 sept. 2023, en vigueur depuis le 15 oct. 2023 ([RO 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^6-3]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^6-4]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
 
 #### Art. 7
 
@@ -434,30 +438,9 @@ Pour le traitement d’une demande de visa de court séjour ou de transit aérop
 
 #### Art. 20
 
-**Délégation de tâches dans le cadre de la procédure de visa**
+[^20-1]
 
-<sup>1</sup> Le DFAE et le SEM s’assurent que les tâches qui sont déléguées en vertu de l’art. 98*b* LEI le sont uniquement à des prestataires de services externes qui garantissent un niveau adéquat de protection des données.
-
-<sup>2</sup> Le DFAE conclut une convention avec les prestataires de services chargés d’effectuer certaines tâches dans le cadre de la procédure de visa, conformément à l’art. 43, par. 2, et à l’annexe X du code des visas[^20-1].
-
-<sup>3</sup>
-
-Il appartient au DFAE:
-
-- a. de vérifier la solvabilité et la fiabilité des prestataires de services mandatés;
-- b. de vérifier le respect des conditions et modalités fixées dans la convention visée à l’al. 2;
-- c. de contrôler la mise en œuvre de la convention visée à l’al. 2, conformément à l’art. 43, par. 11, du code des visas;
-- d. de former le prestataire de services externe de sorte que celui-ci ait les connaissances nécessaires pour fournir un service adéquat et communiquer des informations suffisantes aux demandeurs;
-- e. de garantir que les données transmises par voie électronique aux représentations suisses sont sécurisées au sens de l’art. 44 du code des visas.
-
-<sup>4</sup> Les représentations suisses peuvent, en collaboration avec d’autres représentations des États Schengen, partager le même prestataire de services. Dans ce cas, les tâches visées à l’al. 3 sont effectuées en collaboration.
-
-<sup>5</sup> Les prestataires de services externes peuvent percevoir pour leurs services, en plus des émoluments usuels pour l’octroi du visa, les émoluments prévus à l’art. 17, par. 4, 4<sup>bis</sup> et 4<sup>ter</sup>, du code des visas, selon le principe de la couverture des frais effectifs.[^20-2]
-
-<sup>6</sup> Conformément à l’art. 42 du code des visas, les consuls honoraires peuvent également accomplir tout ou partie des tâches prévues à l’art. 43, par. 6, du code des visas.
-
-[^20-1]: Cf. note de bas de page relative à l’art. 1, al. 4, let. c.
-[^20-2]: Nouvelle teneur selon le ch. I de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^20-1]: Abrogé par le ch. I de l’O du 15 sept. 2023, avec effet au 15 oct. 2023 ([RO 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
 
 ## Section 4 Visa de long séjour
 
@@ -487,11 +470,14 @@ Un visa de retour est octroyé:
 
 **Compétence territoriale des représentations suisses à l’étranger**
 
-<sup>1</sup> L’étranger doit en principe déposer sa demande de visa de long séjour auprès de la représentation compétente pour son lieu de résidence à l’étranger.
+<sup>1</sup> L’étranger doit déposer sa demande de visa de long séjour auprès de la représentation suisse de la circonscription consulaire dans laquelle il a son domicile légal.[^22-1]
 
 <sup>2</sup> L’autorité cantonale de migration peut accorder des exceptions en faveur des étrangers qui sont amenés à se déplacer fréquemment et dans des délais très courts, comme les employés de sociétés internationales, les artistes, les sportifs ou autres professionnels.
 
-<sup>3</sup> La représentation peut accepter une demande d’un étranger ne résidant pas dans son arrondissement consulaire si elle juge acceptables les motifs pour lesquels il n’a pas pu déposer sa demande auprès de la représentation compétente pour son lieu de résidence.
+<sup>3</sup> Une représentation suisse peut accepter la demande d’un étranger dont le domicile légal n’est pas dans sa circonscription consulaire si elle juge acceptables les motifs pour lesquels il n’a pas pu déposer sa demande auprès de la représentation suisse compétente.[^22-2]
+
+[^22-1]: Nouvelle teneur selon le ch. I de l’O du 15 sept. 2023, en vigueur depuis le 15 oct. 2023 ([RO 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^22-2]: Nouvelle teneur selon le ch. I de l’O du 15 sept. 2023, en vigueur depuis le 15 oct. 2023 ([RO 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
 
 #### Art. 23
 
@@ -595,7 +581,7 @@ L’entrée en Suisse et la sortie de Suisse sont régies par le code frontière
 
 <sup>2</sup> Les collaborateurs de l’OFDF et des cantons chargés des contrôles aux frontières effectuent le contrôle des personnes aux frontières. Les collaborateurs de l’OFDF exercent cette activité soit dans le cadre de leurs tâches ordinaires, soit en application des accords conclus entre le Département fédéral des finances et les cantons (art. 9, al. 2, LEI et art. 97 de la loi du 18 mars 2005 sur les douanes[^31-1]).[^31-2]
 
-<sup>3</sup> ...[^31-3]
+<sup>3</sup> …[^31-3]
 
 <sup>4</sup> Les cantons peuvent habiliter les collaborateurs de l’OFDF chargés des contrôles aux frontières à rendre et à notifier la décision de renvoi visée à l’art. 64, al. 1, let. a et b, LEI.[^31-4]
 
@@ -624,7 +610,7 @@ Les mesures prévues à l’al. 1 visent à assurer l’exécution des opératio
 - a. contrôler avant le départ si les documents de voyage, visas et titres de séjour requis lors de l’entrée dans l’espace Schengen ou du transit aéroportuaire sont valides et reconnus;
 - b. identifier les documents de voyage, visas et titres de séjour dont la contrefaçon ou la falsification peut être reconnue par une personne jouissant d’une formation adéquate et d’une acuité visuelle moyenne;
 - c. identifier un document de voyage, visa ou titre de séjour n’appartenant manifestement pas à la personne transportée;
-- d.[^32-1] …
+- d.[^32-1] vérifier si la durée maximale du séjour et le nombre d’entrées autorisés ont été atteints.
 
 <sup>3</sup>
 
@@ -635,7 +621,7 @@ Le SEM peut exiger de l’entreprise de transport aérien des mesures supplémen
 
 <sup>4</sup> Par mesure supplémentaire, on entend notamment la production de copies de documents de voyage, de visas ou de titres de séjour avant le départ.
 
-[^32-1]: Abrogée par le ch. I de l’O du 10 nov. 2021, avec effet au 1<sup>er</sup> mai 2022 ([RO 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^32-1]: Nouvelle teneur selon le ch. I de l’O du 15 sept. 2023, en vigueur depuis le 15 oct. 2023 ([RO 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
 
 #### Art. 33
 
@@ -881,6 +867,16 @@ Il est compétent pour conclure des traités internationaux concernant les actes
 [^34f-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^34f-4]: Cf note de bas de page de l’art. 1, al. 4, let. j.
 
+#### Art. 34g
+
+**Conclusion de traités internationaux liés à la décision n<sup>o</sup> 1105/2011/UE**[^34g-1]
+
+Le SEM a compétence pour conclure des traités internationaux en vue de la reprise d’actes d’exécution de la Commission européenne qui concernent l’établissement ou l’actualisation de la liste des documents de voyage permettant à leur titulaire le franchissement des frontières extérieures et sont édictés sur la base de la décision n<sup>o</sup> 1105/2011/UE[^34g-2], pour autant que ces traités soient de portée mineure au sens de l’art. 7*a* LOGA[^34g-3].
+
+[^34g-1]: Introduit par le ch. I de l’O du 15 sept. 2023, en vigueur depuis le 15 oct. 2023 ([RO 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^34g-2]: Cf. note de bas de page relative à l’art. 1, al. 4, let. k.
+[^34g-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
 #### Art. 35
 
 **Secrétariat d’État aux migrations**
@@ -942,6 +938,33 @@ Elles sont compétentes pour:
 
 - a. octroyer un visa de court séjour faisant suite à un long séjour en Suisse, et
 - b. prolonger les visas de court séjour, au nom du SEM et du DFAE.
+
+#### Art. 39a
+
+**Délégation de tâches dans le cadre de la procédure de visa**[^39a-1]
+
+<sup>1</sup> Le DFAE et le SEM s’assurent que les tâches qui sont déléguées en vertu de l’art. 98*b* LEI le sont uniquement à des prestataires de services externes qui garantissent un niveau adéquat de protection des données.
+
+<sup>2</sup> Le DFAE conclut une convention avec les prestataires de services chargés d’effectuer des tâches dans le cadre de la procédure de visa, conformément à l’art. 43, par. 2, et à l’annexe X du code des visas[^39a-2].
+
+<sup>3</sup>
+
+Il appartient au DFAE:
+
+- a. de vérifier la solvabilité et la fiabilité des prestataires de services;
+- b. de vérifier le respect des conditions et modalités fixées dans la convention visée à l’al. 2;
+- c. de contrôler la mise en œuvre de la convention visée à l’al. 2, conformément à l’art. 43, par. 11, du code des visas;
+- d. de former les prestataires de services de sorte qu’ils aient les connaissances nécessaires pour fournir un service adéquat et communiquer des informations suffisantes aux demandeurs;
+- e. de garantir que les données transmises par voie électronique aux représentations suisses sont sécurisées au sens de l’art. 44 du code des visas.
+
+<sup>4</sup> Les représentations suisses peuvent, en collaboration avec d’autres représentations des États Schengen, partager le même prestataire de services. Dans ce cas, les tâches visées à l’al. 3 sont effectuées en collaboration.
+
+<sup>5</sup> Les prestataires de services peuvent percevoir pour leurs services, en plus des émoluments usuels pour l’octroi du visa, les émoluments prévus à l’art. 17, par. 4, 4<sup>bis</sup> et 4<sup>ter</sup>, du code des visas, selon le principe de la couverture des frais effectifs.
+
+<sup>6</sup> Conformément à l’art. 42 du code des visas, les consuls honoraires peuvent également accomplir tout ou partie des tâches prévues à l’art. 43, par. 6, du code des visas.
+
+[^39a-1]: Introduit par le ch. I de l’O du 15 sept. 2023, en vigueur depuis le 15 oct. 2023 ([RO 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^39a-2]: Cf. note de bas de page relative à l’art. 1, al. 4, let. c.
 
 #### Art. 40
 
@@ -1182,7 +1205,7 @@ Il peut, d’un commun accord avec les autorités suisses responsables du contr�
 
 <sup>2</sup> Les actes mentionnés ci-après sont modifiés comme suit:
 
-...[^69-2]
+…[^69-2]
 
 [^69-1]: [[RO 2008 5441](https://fedlex.data.admin.ch/eli/oc/2008/758)[6273](https://fedlex.data.admin.ch/eli/oc/2008/856)ch. III, [2009 5097](https://fedlex.data.admin.ch/eli/oc/2009/594)[6937](https://fedlex.data.admin.ch/eli/oc/2009/848)annexe 4 ch. II 6, [2010 1205](https://fedlex.data.admin.ch/eli/oc/2010/168)[5763](https://fedlex.data.admin.ch/eli/oc/2010/815)[5767](https://fedlex.data.admin.ch/eli/oc/2010/816), [2011 3317](https://fedlex.data.admin.ch/eli/oc/2011/446), [2012 3817](https://fedlex.data.admin.ch/eli/oc/2012/444)[4891](https://fedlex.data.admin.ch/eli/oc/2012/582), [2013 2733](https://fedlex.data.admin.ch/eli/oc/2013/565), [2014 1393](https://fedlex.data.admin.ch/eli/oc/2014/296), [2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)ch. I 2 [1867](https://fedlex.data.admin.ch/eli/oc/2015/359)[3035](https://fedlex.data.admin.ch/eli/oc/2015/571)[3723](https://fedlex.data.admin.ch/eli/oc/2015/624)[4237](https://fedlex.data.admin.ch/eli/oc/2015/709)ch. III, [2016 1283](https://fedlex.data.admin.ch/eli/oc/2016/256)[3721](https://fedlex.data.admin.ch/eli/oc/2016/627), [2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)ch. I 21683 [2549](https://fedlex.data.admin.ch/eli/oc/2017/239)[3273](https://fedlex.data.admin.ch/eli/oc/2017/339)]
 [^69-2]: Les mod. peuvent être consultées au [RO 2018 3087](https://fedlex.data.admin.ch/eli/oc/2018/493).
@@ -1227,7 +1250,7 @@ Annexe 2[^t-1]
 
 ## États et collectivités territoriales dont les ressortissants sont soumis à l’obligation de visa pour un court séjour dès le premier jour où ils exercent une activité lucrative
 
-[^t-1]: Mise à jour selon l’erratum du 4 déc. 2018 ([RO 2018 4559](https://fedlex.data.admin.ch/eli/oc/2018/711)).
+[^t-1]: Mise à jour par l’erratum du 4 déc. 2018 ([RO 2018 4559](https://fedlex.data.admin.ch/eli/oc/2018/711)).
 
 Albanie
 

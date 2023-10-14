@@ -4,11 +4,11 @@ title: "Ordinanza del 15 agosto 2018 concernente l'entrata e il rilascio del vis
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: it
-version: 2023-02-04
+version: 2023-10-15
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20230204/it/xml/fedlex-data-admin-ch-eli-cc-2018-493-20230204-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20230204/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20231015/it/xml/fedlex-data-admin-ch-eli-cc-2018-493-20231015-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20231015/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20230204/it"
 
 (OEV)
 
-del 15 agosto 2018 (Stato 4 febbraio 2023)
+del 15 agosto 2018 (Stato 15 ottobre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -42,43 +42,47 @@ ordina:
 
 <sup>4</sup>
 
-La presente ordinanza disciplina parimenti la competenza di concludere trattati internazionali di portata limitata in relazione con i regolamenti UE seguenti:
+La presente ordinanza disciplina parimenti la competenza di concludere trattati internazionali di portata limitata in relazione con gli atti dell’UE seguenti: [^1-1]
 
-- a. regolamento (UE) n. 514/2014[^1-1];
-- b. regolamento (UE) n. 515/2014[^1-2];
-- b<sup>bis</sup>.[^1-3] regolamento (UE) 2017/2226[^1-4];
-- b<sup>ter</sup>.[^1-5] regolamento (UE) 2018/1240[^1-6];
-- c. regolamento (CE) n. 810/2009[^1-7] (codice dei visti);
-- d.[^1-8] regolamento (UE) 2019/817[^1-9];
-- e.[^1-10] regolamento (UE) 2019/818[^1-11];
-- f.[^1-12] regolamento (CE) n. 1683/95[^1-13];
-- g.[^1-14] regolamento (CE) n. 1030/2002[^1-15];
-- h.[^1-16] regolamento (CE) n. 767/2008[^1-17];
-- i.[^1-18] regolamento (UE) 2021/1148[^1-19];
-- j.[^1-20] regolamento (UE) 2021/1060[^1-21].[^1-22]
+- a. regolamento (UE) n. 514/2014[^1-2];
+- b. regolamento (UE) n. 515/2014[^1-3];
+- b<sup>bis</sup>.[^1-4] regolamento (UE) 2017/2226[^1-5];
+- b<sup>ter</sup>.[^1-6] regolamento (UE) 2018/1240[^1-7];
+- c. regolamento (CE) n. 810/2009[^1-8] (codice dei visti);
+- d.[^1-9] regolamento (UE) 2019/817[^1-10];
+- e.[^1-11] regolamento (UE) 2019/818[^1-12];
+- f.[^1-13] regolamento (CE) n. 1683/95[^1-14];
+- g.[^1-15] regolamento (CE) n. 1030/2002[^1-16];
+- h.[^1-17] regolamento (CE) n. 767/2008[^1-18];
+- i.[^1-19] regolamento (UE) 2021/1148[^1-20];
+- j.[^1-21] regolamento (UE) 2021/1060[^1-22];
+- k.[^1-23] decisione n. 1105/2011/UE[^1-24].[^1-25]
 
-[^1-1]: Regolamento (UE) n. 514/2014 del Parlamento europeo e del Consiglio, del 16 apr. 2014, recante disposizioni generali sul Fondo asilo, migrazione e integrazione e sullo strumento di sostegno finanziario per la cooperazione di polizia, la prevenzione e la lotta alla criminalità e la gestione delle crisi, versione della GU L 150 del 20.5.2014, pag. 112.
-[^1-2]: Regolamento (UE) n. 515/2014 del Parlamento europeo e del Consiglio, del 16 apr. 2014, che istituisce, nell’ambito del Fondo sicurezza interna, lo strumento di sostegno finanziario per le frontiere esterne e i visti e che abroga la decisione n. 574/2007/CE, versione della GU L 150 del 20.5.2014, pag. 143.
-[^1-3]: Introdotta dal n. I dell’O dell’11 ago. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)). Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
-[^1-4]: Regolamento (UE) 2017/2226 del Parlamento europeo e del Consiglio, del 30 nov. 2017, che istituisce un sistema di ingressi/uscite per la registrazione dei dati di ingresso e di uscita e dei dati relativi al respingimento dei cittadini di paesi terzi che attraversano le frontiere esterne degli Stati membri e che determina le condizioni di accesso al sistema di ingressi/uscite a fini di contrasto e che modifica la Convenzione di applicazione dell’Accordo di Schengen e i regolamenti (CE) n. 767/2008 e (UE) n. 1077/2011, GU L 327 del 9.12.2017, pag. 20; modificato da ultimo dal regolamento (UE) 2021/1134, GU L 248 del 13.7.2021, pag. 11.
-[^1-5]: Introdotta dal n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
-[^1-6]: Regolamento (UE) 2018/1240 del Parlamento europeo e del Consiglio, del 12 settembre 2018, che istituisce un sistema europeo di informazione e autorizzazione ai viaggi (ETIAS) e che modifica i regolamenti (UE) n. 1077/2011, (UE) n. 515/2014, (UE) 2016/399, (UE) 2016/1624 e (UE) 2017/2226, GU L 236 del 19.9.2018, pag. 1; modificato da ultimo dal regolamento (EU) 2021/1152, GU L 249 del 14.7.2021, pag. 15.
-[^1-7]: Regolamento (CE) n. 810/2009 del Parlamento europeo e del Consiglio, del 13 lug. 2009, che istituisce un codice comunitario dei visti (codice dei visti), GU L 243 del 15.9.2009, pag. 1; modificato da ultimo dal regolamento (UE) 2019/1155, GU L 188 del 12.7.2019, pag. 25.
-[^1-8]: Introdotta dal n. I dell’O del 13 mag. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
-[^1-9]: Regolamento (UE) 2019/817 del Parlamento europeo e del Consiglio, del 20 maggio 2019, che istituisce un quadro per l’interoperabilità tra i sistemi di informazione dell’UE nel settore delle frontiere e dei visti e che modifica i regolamenti (CE) n. 767/2008, (UE) n. 2016/399, (UE) 2017/2226, (UE) 2018/1240, (UE) 2018/1726 e (UE) 2018/1861 del Parlamento europeo e del Consiglio e le decisioni 2004/512/CE e 2008/633/GAI del Consiglio, GU L 135 del 22.5.2019, pag. 27; modificato da ultimo dal regolamento (UE) 2021/1152, GU L 249 del 14.7.2021, pag. 15.
-[^1-10]: Introdotta dal n. I dell’O del 13 mag. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
-[^1-11]: Regolamento (UE) 2019/818 del Parlamento europeo e del Consiglio, del 20 maggio 2019, che istituisce un quadro per l’interoperabilità tra i sistemi di informazione dell’UE nel settore della cooperazione di polizia e giudiziaria, asilo e migrazione, e che modifica i regolamenti (UE) 2018/1726, (UE) 2018/1862 e (UE) 2019/816, GU L 135 del 22.5.2019, pag. 85; modificato da ultimo dal regolamento (UE) 2021/1150, GU L 249 del 14.7.2021, pag. 1.
-[^1-12]: Introdotta dal n. I dell’O del 13 mag. 2020, in vigore dal 15 giu. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
-[^1-13]: Regolamento (CE) n. 1683/95 del Consiglio, del 29 maggio 1995, che istituisce un modello uniforme per i visti, GU L 164 del 14.7.1995, pag. 1; modificato da ultimo dal regolamento (UE) 2017/1370, GU L 198 del 28.7.2017, pag. 24.
-[^1-14]: Introdotta dal n. I dell’O del 13 mag. 2020, in vigore dal 15 giu. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
-[^1-15]: Regolamento (CE) n. 1030/2002 del Consiglio, del 13 giugno 2002, che istituisce un modello uniforme per i permessi di soggiorno rilasciati a cittadini di paesi terzi, GU L 157 del 15.6.2002, pag. 1; da ultimo modificato dal regolamento (UE) 2017/1954, GU L 286 dell’1.11.2017, pag. 9.
-[^1-16]: Introdotta dal n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
-[^1-17]: Regolamento (CE) n. 767/2008 del Parlamento europeo e del Consiglio del 9 lug. 2008 concernente il sistema di informazione visti (VIS) e lo scambio di dati tra Stati membri sui visti per soggiorni di breve durata (regolamento VIS), GU L 218 del 13.8.2008, pag. 60; modificato da ultimo dal Regolamento (UE) 2021/1134, GU L 248 del 13.7.2021, pag. 11.
-[^1-18]: Introdotta dal n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
-[^1-19]: Regolamento (UE) 2021/1148 del Parlamento europeo e del Consiglio del 7 lug. 2021 che istituisce, nell’ambito del Fondo per la gestione integrata delle frontiere, lo Strumento di sostegno finanziario per la gestione delle frontiere e la politica dei visti, GU L 251, del 15.7.2021, pag. 48.
-[^1-20]: Introdotta dal n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
-[^1-21]: Regolamento (UE) 2021/1060 del Parlamento europeo e del Consiglio del 24 giu. 2021 recante le disposizioni comuni applicabili al Fondo europeo di sviluppo regionale, al Fondo sociale europeo Plus, al Fondo di coesione, al Fondo per una transizione giusta, al Fondo europeo per gli affari marittimi, la pesca e l’acquacoltura, e le regole finanziarie applicabili a tali fondi e al Fondo Asilo, migrazione e integrazione, al Fondo Sicurezza interna e allo Strumento di sostegno finanziario per la gestione delle frontiere e la politica dei visti, GU L 231 del 30.6.2021, pag. 159.
-[^1-22]: Nuovo testo giusta il n. I dell’O del 14 ago. 2019, in vigore dal 2 feb. 2020 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^1-1]: Nuovot esto giusta il n. I dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^1-2]: Regolamento (UE) n. 514/2014 del Parlamento europeo e del Consiglio, del 16 apr. 2014, recante disposizioni generali sul Fondo asilo, migrazione e integrazione e sullo strumento di sostegno finanziario per la cooperazione di polizia, la prevenzione e la lotta alla criminalità e la gestione delle crisi, versione della GU L 150 del 20.5.2014, pag. 112.
+[^1-3]: Regolamento (UE) n. 515/2014 del Parlamento europeo e del Consiglio, del 16 apr. 2014, che istituisce, nell’ambito del Fondo sicurezza interna, lo strumento di sostegno finanziario per le frontiere esterne e i visti e che abroga la decisione n. 574/2007/CE, versione della GU L 150 del 20.5.2014, pag. 143.
+[^1-4]: Introdotta dal n. I dell’O dell’11 ago. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)). Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^1-5]: Regolamento (UE) 2017/2226 del Parlamento europeo e del Consiglio, del 30 nov. 2017, che istituisce un sistema di ingressi/uscite per la registrazione dei dati di ingresso e di uscita e dei dati relativi al respingimento dei cittadini di paesi terzi che attraversano le frontiere esterne degli Stati membri e che determina le condizioni di accesso al sistema di ingressi/uscite a fini di contrasto e che modifica la Convenzione di applicazione dell’Accordo di Schengen e i regolamenti (CE) n. 767/2008 e (UE) n. 1077/2011, GU L 327 del 9.12.2017, pag. 20; modificato da ultimo dal regolamento (UE) 2021/1134, GU L 248 del 13.7.2021, pag. 11.
+[^1-6]: Introdotta dal n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^1-7]: Regolamento (UE) 2018/1240 del Parlamento europeo e del Consiglio, del 12 settembre 2018, che istituisce un sistema europeo di informazione e autorizzazione ai viaggi (ETIAS) e che modifica i regolamenti (UE) n. 1077/2011, (UE) n. 515/2014, (UE) 2016/399, (UE) 2016/1624 e (UE) 2017/2226, GU L 236 del 19.9.2018, pag. 1; modificato da ultimo dal regolamento (EU) 2021/1152, GU L 249 del 14.7.2021, pag. 15.
+[^1-8]: Regolamento (CE) n. 810/2009 del Parlamento europeo e del Consiglio, del 13 lug. 2009, che istituisce un codice comunitario dei visti (codice dei visti), GU L 243 del 15.9.2009, pag. 1; modificato da ultimo dal regolamento (UE) 2019/1155, GU L 188 del 12.7.2019, pag. 25.
+[^1-9]: Introdotta dal n. I dell’O del 13 mag. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^1-10]: Regolamento (UE) 2019/817 del Parlamento europeo e del Consiglio, del 20 maggio 2019, che istituisce un quadro per l’interoperabilità tra i sistemi di informazione dell’UE nel settore delle frontiere e dei visti e che modifica i regolamenti (CE) n. 767/2008, (UE) n. 2016/399, (UE) 2017/2226, (UE) 2018/1240, (UE) 2018/1726 e (UE) 2018/1861 del Parlamento europeo e del Consiglio e le decisioni 2004/512/CE e 2008/633/GAI del Consiglio, GU L 135 del 22.5.2019, pag. 27; modificato da ultimo dal regolamento (UE) 2021/1152, GU L 249 del 14.7.2021, pag. 15.
+[^1-11]: Introdotta dal n. I dell’O del 13 mag. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^1-12]: Regolamento (UE) 2019/818 del Parlamento europeo e del Consiglio, del 20 maggio 2019, che istituisce un quadro per l’interoperabilità tra i sistemi di informazione dell’UE nel settore della cooperazione di polizia e giudiziaria, asilo e migrazione, e che modifica i regolamenti (UE) 2018/1726, (UE) 2018/1862 e (UE) 2019/816, GU L 135 del 22.5.2019, pag. 85; modificato da ultimo dal regolamento (UE) 2021/1150, GU L 249 del 14.7.2021, pag. 1.
+[^1-13]: Introdotta dal n. I dell’O del 13 mag. 2020, in vigore dal 15 giu. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
+[^1-14]: Regolamento (CE) n. 1683/95 del Consiglio, del 29 maggio 1995, che istituisce un modello uniforme per i visti, GU L 164 del 14.7.1995, pag. 1; modificato da ultimo dal regolamento (UE) 2017/1370, GU L 198 del 28.7.2017, pag. 24.
+[^1-15]: Introdotta dal n. I dell’O del 13 mag. 2020, in vigore dal 15 giu. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
+[^1-16]: Regolamento (CE) n. 1030/2002 del Consiglio, del 13 giugno 2002, che istituisce un modello uniforme per i permessi di soggiorno rilasciati a cittadini di paesi terzi, GU L 157 del 15.6.2002, pag. 1; da ultimo modificato dal regolamento (UE) 2017/1954, GU L 286 dell’1.11.2017, pag. 9.
+[^1-17]: Introdotta dal n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^1-18]: Regolamento (CE) n. 767/2008 del Parlamento europeo e del Consiglio del 9 lug. 2008 concernente il sistema di informazione visti (VIS) e lo scambio di dati tra Stati membri sui visti per soggiorni di breve durata (regolamento VIS), GU L 218 del 13.8.2008, pag. 60; modificato da ultimo dal Regolamento (UE) 2021/1134, GU L 248 del 13.7.2021, pag. 11.
+[^1-19]: Introdotta dal n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^1-20]: Regolamento (UE) 2021/1148 del Parlamento europeo e del Consiglio del 7 lug. 2021 che istituisce, nell’ambito del Fondo per la gestione integrata delle frontiere, lo Strumento di sostegno finanziario per la gestione delle frontiere e la politica dei visti, GU L 251, del 15.7.2021, pag. 48.
+[^1-21]: Introdotta dal n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^1-22]: Regolamento (UE) 2021/1060 del Parlamento europeo e del Consiglio del 24 giu. 2021 recante le disposizioni comuni applicabili al Fondo europeo di sviluppo regionale, al Fondo sociale europeo Plus, al Fondo di coesione, al Fondo per una transizione giusta, al Fondo europeo per gli affari marittimi, la pesca e l’acquacoltura, e le regole finanziarie applicabili a tali fondi e al Fondo Asilo, migrazione e integrazione, al Fondo Sicurezza interna e allo Strumento di sostegno finanziario per la gestione delle frontiere e la politica dei visti, GU L 231 del 30.6.2021, pag. 159.
+[^1-23]: Introdotta dal n. I dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^1-24]: Decisione n. 1105/2011/UE del Parlamento europeo e del Consiglio, del 25 ottobre 2011, relativa all’elenco dei documenti di viaggio che consentono di attraversare le frontiere esterne e sui quali può essere apposto un visto e relativa alla creazione di un meccanismo per stabilire tale elenco, versione della GU L 287 del 4.11.2011, pag. 9.
+[^1-25]: Nuovo testo giusta il n. I dell’O del 14 ago. 2019, in vigore dal 2 feb. 2020 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 
 #### Art. 2
 
@@ -183,7 +187,7 @@ Il documento di viaggio deve soddisfare i requisiti seguenti:
   la sua validità supera:
 
   - 1\. di almeno tre mesi la data in cui il titolare intende lasciare lo spazio Schengen, in caso di soggiorno di breve durata,
-  - 2\. di almeno tre mesi la data del transito o dell’ultimo transito consentito, in caso di transito aeroportuale,
+  - 2\.[^6-2] di almeno tre mesi la data del transito o dell’ultimo transito consentito, in caso di transito aeroportuale di passeggeri di aeromobili soggetti all’obbligo del visto di transito aeroportuale,
   - 3\. di almeno tre mesi la data in cui è stata rilasciata al titolare l’autorizzazione di entrare in Svizzera, in caso di soggiorno di lunga durata;
 
 - b. è stato rilasciato nel corso dei dieci anni precedenti.
@@ -194,7 +198,7 @@ Il documento di viaggio deve soddisfare i requisiti seguenti:
 Le autorità competenti possono derogare:
 
 - a. ai requisiti di cui al capoverso 2 lettera a numeri 1 e 2, in casi di emergenza motivati;
-- b. ai requisiti di cui al capoverso 2 lettera a numero 3 e lettere b e c, in casi motivati.[^6-2]
+- b. ai requisiti di cui al capoverso 2 lettera a numero 3 e lettere b e c, in casi motivati.[^6-3]
 
 <sup>4</sup>
 
@@ -203,13 +207,14 @@ Un documento di viaggio è riconosciuto dalla SEM se soddisfa i requisiti seguen
 - a. attesta l’identità del titolare e la sua appartenenza allo Stato o all’entità o autorità territoriale che l’ha rilasciato;
 - b. è stato rilasciato da uno Stato riconosciuto dalla Svizzera, da un’entità o autorità territoriale o da un’organizzazione internazionale riconosciuta dalla Svizzera;
 - c. lo Stato oppure l’entità o autorità territoriale che l’ha rilasciato garantisce in qualsiasi momento il ritorno dei suoi cittadini;
-- d. reca gli elementi di sicurezza richiesti conformemente alle specifiche internazionali; è in particolare applicabile l’allegato 9 della Convenzione del 7 dicembre 1944[^6-3] relativa all’aviazione civile internazionale.
+- d. reca gli elementi di sicurezza richiesti conformemente alle specifiche internazionali; è in particolare applicabile l’allegato 9 della Convenzione del 7 dicembre 1944[^6-4] relativa all’aviazione civile internazionale.
 
 <sup>5</sup> In casi motivati la SEM può riconoscere documenti di viaggio che non soddisfano i requisiti di cui al capoverso 4. Tale è il caso in particolare dei documenti di viaggio rilasciati a persone che non possiedono la cittadinanza dello Stato di rilascio, ma che hanno diritto di soggiornare legalmente sul suo territorio.
 
 [^6-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
-[^6-2]: Nuovo testo giusta il n. I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
-[^6-3]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^6-2]: Nuovo testo giusta il n. I dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^6-3]: Nuovo testo giusta il n. I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^6-4]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
 
 #### Art. 7
 
@@ -434,30 +439,9 @@ Per il trattamento di una domanda di visto per soggiorni di breve durata o di vi
 
 #### Art. 20
 
-**Delega di compiti nel quadro della procedura del visto**
+[^20-1]
 
-<sup>1</sup> Il DFAE e la SEM si accertano che la delega di compiti in virtù dell’articolo 98*b* LStrI sia limitata a prestatori di servizi esterni che garantiscono un livello adeguato di protezione dei dati.
-
-<sup>2</sup> Il DFAE conclude una convenzione con i prestatori di servizi incaricati di svolgere taluni compiti nel quadro della procedura del visto, conformemente all’articolo 43 paragrafo 2 e all’allegato X del codice dei visti[^20-1].
-
-<sup>3</sup>
-
-Spetta al DFAE:
-
-- a. verificare la solvenza e l’affidabilità dei prestatori di servizi incaricati;
-- b. verificare che i prestatori di servizi rispettino le condizioni e modalità stabilite nella convenzione di cui al capoverso 2;
-- c. controllare l’attuazione della convenzione di cui al capoverso 2, conformemente all’articolo 43 paragrafo 11 del codice dei visti;
-- d. formare il prestatore di servizi esterno affinché abbia le conoscenze necessarie per fornire un servizio adeguato e comunicare informazioni sufficienti ai richiedenti;
-- e. garantire che i dati trasferiti alle rappresentanze svizzere siano resi sicuri ai sensi dell’articolo 44 del codice dei visti.
-
-<sup>4</sup> Le rappresentanze svizzere possono, in collaborazione con altre rappresentanze di Stati Schengen, condividere il medesimo prestatore di servizi. In tal caso, i compiti di cui al capoverso 3 sono svolti in collaborazione.
-
-<sup>5</sup> Per i loro servizi i prestatori di servizi esterni, oltre agli emolumenti usuali percepiti per il rilascio del visto, possono fatturare gli emolumenti di cui all’articolo 17 paragrafi 4, 4<sup>bis</sup> e 4<sup>ter</sup> del codice dei visti, secondo il principio della copertura delle spese effettive.[^20-2]
-
-<sup>6</sup> Conformemente all’articolo 42 del codice dei visti, i consoli onorari possono altresì essere autorizzati a svolgere alcuni o tutti i compiti di cui all’articolo 43 paragrafo 6 del codice dei visti.
-
-[^20-1]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. c.
-[^20-2]: Nuovo testo giusta il n. I dell’O del 14 ago. 2019, in vigore dal 2 feb. 2020 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^20-1]: Abrogato dal n. I dell’O del 15 set. 2023, con effetto dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
 
 ## Sezione 4: Visto per soggiorni di lunga durata
 
@@ -487,11 +471,14 @@ Un visto per soggiorni di lunga durata è rilasciato nei casi seguenti:
 
 **Competenza territoriale delle rappresentanze svizzere all’estero**
 
-<sup>1</sup> Gli stranieri devono in linea di principio presentare le loro domande di visto per soggiorni di lunga durata presso la rappresentanza competente per il proprio luogo di domicilio all’estero.
+<sup>1</sup> Gli stranieri devono presentare le loro domande di visto per soggiorni di lunga durata presso la rappresentanza svizzera del circondario consolare in cui hanno il proprio domicilio legale.[^22-1]
 
 <sup>2</sup> Le autorità cantonali di migrazione possono consentire deroghe a favore degli stranieri tenuti a spostarsi di frequente e a brevissimo termine, come gli impiegati di società internazionali, gli artisti, gli sportivi o altri professionisti.
 
-<sup>3</sup> La rappresentanza può accettare la domanda di uno straniero che non è domiciliato nel proprio circondario consolare se reputa pertinenti i motivi per i quali lo straniero non ha potuto presentare la sua domanda presso la rappresentanza competente per il proprio luogo di domicilio.
+<sup>3</sup> Una rappresentanza svizzera può accettare la domanda di uno straniero il cui domicilio legale non si trova nel proprio circondario consolare se reputa pertinenti i motivi per i quali lo straniero non ha potuto presentare la sua domanda presso la rappresentanza svizzera competente.[^22-2]
+
+[^22-1]: Nuovo testo giusta il n. I dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^22-2]: Nuovo testo giusta il n. I dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
 
 #### Art. 23
 
@@ -624,7 +611,7 @@ I provvedimenti di cui al capoverso 1 mirano a garantire l’esecuzione delle op
 - a. controllare prima della partenza se i documenti di viaggio, i visti e i titoli di soggiorno necessari per l’entrata nello spazio Schengen o il transito aeroportuale sono validi e riconosciuti;
 - b. identificare i documenti di viaggio, i visti e i titoli di soggiorno la cui contraffazione o falsificazione può essere riconosciuta da una persona che ha ricevuto una formazione adeguata e dotata di una facoltà visiva media;
 - c. identificare un documento di viaggio, visto o titolo di soggiorno manifestamente non appartenente al passeggero;
-- d.[^32-1] ...
+- d.[^32-1] verificare se sono stati raggiunti la durata massima del soggiorno e il numero di entrate autorizzate.
 
 <sup>3</sup>
 
@@ -635,7 +622,7 @@ La SEM può esigere dall’impresa di trasporto aereo ulteriori provvedimenti se
 
 <sup>4</sup> Per ulteriore provvedimento si intende in particolare la produzione di copie di documenti di viaggio, di visti o di titoli di soggiorno prima della partenza.
 
-[^32-1]: Abrogata dal n. I dell’O del 10 nov. 2022, con effetto dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^32-1]: Nuovo testo giusta il n. I dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
 
 #### Art. 33
 
@@ -881,6 +868,16 @@ Ha la competenza di concludere trattati internazionali concernenti gli atti di e
 [^34f-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^34f-4]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. j.
 
+#### Art. 34g
+
+**Conclusione di trattati internazionali legati alla decisione n. 1105/2011/UE**[^34g-1]
+
+La SEM ha la competenza di concludere trattati internazionali in vista del recepimento di atti di esecuzione della Commissione europea che riguardano l’allestimento o l’aggiornamento dell’elenco dei documenti di viaggio con i quali è consentito attraversare le frontiere esterne e sono emanati sulla base della decisione n. 1105/2011/UE[^34g-2], sempreché questi trattati internazionali siano di portata limitata ai sensi dell’articolo 7*a* LOGA[^34g-3].
+
+[^34g-1]: Introdotto dal n. I dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^34g-2]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. k.
+[^34g-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
 #### Art. 35
 
 **Segreteria di Stato della migrazione**
@@ -942,6 +939,33 @@ Alle autorità cantonali di migrazione compete:
 
 - a. rilasciare un visto per un soggiorno di breve durata successivo a un soggiorno di lunga durata in Svizzera; e
 - b. prorogare i visti per soggiorni di breve durata a nome della SEM e del DFAE.
+
+#### Art. 39a
+
+**Delega di compiti nel quadro della procedura del visto**[^39a-1]
+
+<sup>1</sup> Il DFAE e la SEM si accertano che la delega di compiti in virtù dell’articolo 98*b* LStrI sia limitata a prestatori di servizi esterni che garantiscono un livello adeguato di protezione dei dati.
+
+<sup>2</sup> Il DFAE conclude una convenzione con i prestatori di servizi incaricati di svolgere compiti nel quadro della procedura del visto, conformemente all’articolo 43 paragrafo 2 e all’allegato X del codice dei visti[^39a-2].
+
+<sup>3</sup>
+
+Spetta al DFAE:
+
+- a. verificare la solvenza e l’affidabilità dei prestatori di servizi;
+- b. verificare che i prestatori di servizi rispettino le condizioni e modalità stabilite nella convenzione di cui al capoverso 2;
+- c. controllare l’attuazione della convenzione di cui al capoverso 2, conformemente all’articolo 43 paragrafo 11 del codice dei visti;
+- d. formare i prestatori di servizi affinché abbiano le conoscenze necessarie per fornire un servizio adeguato e comunicare informazioni sufficienti ai richiedenti;
+- e. garantire che i dati trasferiti per via elettronica alle rappresentanze svizzere siano resi sicuri ai sensi dell’articolo 44 del codice dei visti.
+
+<sup>4</sup> Le rappresentanze svizzere possono, in collaborazione con altre rappresentanze di Stati Schengen, condividere il medesimo prestatore di servizi. In tal caso, i compiti di cui al capoverso 3 sono svolti in collaborazione.
+
+<sup>5</sup> Per i loro servizi i prestatori di servizi, oltre agli emolumenti usuali percepiti per il rilascio del visto, possono fatturare gli emolumenti di cui all’articolo 17 paragrafi 4, 4<sup>bis</sup> e 4<sup>ter</sup> del codice dei visti, secondo il principio della copertura delle spese effettive.
+
+<sup>6</sup> Conformemente all’articolo 42 del codice dei visti, i consoli onorari possono altresì essere autorizzati a svolgere alcuni o tutti i compiti di cui all’articolo 43 paragrafo 6 del codice dei visti.
+
+[^39a-1]: Introdotto dal n. I dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^39a-2]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett c.
 
 #### Art. 40
 

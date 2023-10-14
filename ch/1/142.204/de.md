@@ -4,11 +4,11 @@ title: Verordnung vom 15. August 2018 über die Einreise und die Visumerteilung 
 short: VEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: de
-version: 2023-02-04
+version: 2023-10-15
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20230204/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20230204-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20230204/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20231015/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20231015-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20231015/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20230204/de"
 
 (VEV)
 
-vom 15. August 2018 (Stand am 4. Februar 2023)
+vom 15. August 2018 (Stand am 15. Oktober 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -42,43 +42,47 @@ verordnet:
 
 <sup>4</sup>
 
-Die Verordnung regelt auch die Kompetenz zum Abschluss völkerrechtlicher Verträge von beschränkter Tragweite in Verbindung mit den folgenden EU-Verordnungen:
+Die Verordnung regelt auch die Kompetenz zum Abschluss völkerrechtlicher Verträge von beschränkter Tragweite in Verbindung mit den folgenden EU-Rechtsakten:[^1-1]
 
-- a. Verordnung (EU) Nr. 514/2014[^1-1];
-- b. Verordnung (EU) Nr. 515/2014[^1-2];
-- b<sup>bis</sup>.[^1-3] Verordnung (EU) 2017/2226[^1-4];
-- b<sup>ter</sup>.[^1-5] Verordnung (EU) 2018/1240[^1-6];
-- c. Verordnung (EG) Nr. 810/2009[^1-7] (Visakodex);
-- d.[^1-8] Verordnung (EU) 2019/817[^1-9];
-- e.[^1-10] Verordnung (EU) 2019/818[^1-11];
-- f.[^1-12] Verordnung (EG) Nr. 1683/95[^1-13];
-- g.[^1-14] Verordnung (EG) Nr. 1030/2002[^1-15];
-- h.[^1-16] Verordnung (EG) Nr. 767/2008[^1-17];
-- i.[^1-18] Verordnung (EU) 2021/1148[^1-19];
-- j.[^1-20] Verordnung (EU) 2021/1060[^1-21].[^1-22]
+- a. Verordnung (EU) Nr. 514/2014[^1-2];
+- b. Verordnung (EU) Nr. 515/2014[^1-3];
+- b<sup>bis</sup>.[^1-4] Verordnung (EU) 2017/2226[^1-5];
+- b<sup>ter</sup>.[^1-6] Verordnung (EU) 2018/1240[^1-7];
+- c. Verordnung (EG) Nr. 810/2009[^1-8] (Visakodex);
+- d.[^1-9] Verordnung (EU) 2019/817[^1-10];
+- e.[^1-11] Verordnung (EU) 2019/818[^1-12];
+- f.[^1-13] Verordnung (EG) Nr. 1683/95[^1-14];
+- g.[^1-15] Verordnung (EG) Nr. 1030/2002[^1-16];
+- h.[^1-17] Verordnung (EG) Nr. 767/2008[^1-18];
+- i.[^1-19] Verordnung (EU) 2021/1148[^1-20];
+- j.[^1-21] Verordnung (EU) 2021/1060[^1-22];
+- k.[^1-23] Beschluss Nr. 1105/2011/EU[^1-24].[^1-25]
 
-[^1-1]: Verordnung (EU) Nr. 514/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 zur Festlegung allgemeiner Bestimmungen für den Asyl-, Migrations- und Integrationsfonds und das Instrument für die finanzielle Unterstützung der polizeilichen Zusammenarbeit, der Kriminalprävention und Kriminalitätsbekämpfung und des Krisenmanagements, Fassung gemäss ABl. L 150 vom 20.5.2014, S. 112.
-[^1-2]: Verordnung (EU) Nr. 515/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 zur Schaffung eines Instruments für die finanzielle Unterstützung für Aussengrenzen und Visa im Rahmen des Fonds für die innere Sicherheit und zur Aufhebung der Entscheidung Nr. 574/2007/EG, Fassung gemäss ABl. L 150 vom 20.5.2014, S. 143.
-[^1-3]: Eingefügt durch Ziff. I der V vom 11. Aug. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
-[^1-4]: Verordnung (EU) 2017/2226 des Europäischen Parlaments und des Rates vom 30. November 2017 über ein Einreise-/Ausreisesystem (EES) zur Erfassung der Ein- und Ausreisedaten sowie der Einreiseverweigerungsdaten von Drittstaatsangehörigen an den Aussengrenzen der Mitgliedstaaten und zur Festlegung der Bedingungen für den Zugang zum EES zu Gefahrenabwehr- und Strafverfolgungszwecken und zur Änderung des zur Durchführung des Übereinkommens von Schengen sowie der Verordnungen (EG) Nr. 767/2008 und (EU) Nr. 1077/2011, ABl. L 327 vom 9.12.2017, S. 20; zuletzt geändert durch Verordnung (EU) 2021/1134, ABl. L 248 vom 13.7.2021, S. 11.
-[^1-5]: Eingefügt durch Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
-[^1-6]: Verordnung (EU) 2018/1240 des Europäischen Parlaments und des Rates vom 12. September 2018 über die Einrichtung eines Europäischen Reiseinformations- und ‑genehmigungssystems (ETIAS) und zur Änderung der Verordnungen (EU) Nr. 1077/2011, (EU) Nr. 515/2014, (EU) 2016/399, (EU) 2016/1624 und (EU) 2017/2226, ABl. L 236 vom 19.9.2018, S. 1; zuletzt geändert durch Verordnung (EU) 2021/1152, ABl. L 249 vom 14.7.2021, S. 15.
-[^1-7]: Verordnung (EG) Nr. 810/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über einen Visakodex der Gemeinschaft (Visakodex), ABl. L 243 vom 15.9.2009, S. 1; zuletzt geändert durch Verordnung (EU) 2019/1155, ABl. L 188 vom 12.7.2019, S. 25.
-[^1-8]: Eingefügt durch Ziff. I der V vom 13. Mai 2020 ([AS 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
-[^1-9]: Verordnung (EU) 2019/817 des Europäischen Parlaments und des Rates vom 20. Mai 2019 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU-Informationssystemen in den Bereichen Grenzen und Visa und zur Änderung der Verordnungen (EG) Nr. 767/2008, (EU) 2016/399, (EU) 2017/2226, (EU) 2018/240, (EU) 2018/1726 und (EU) 2018/1861 des Europäischen Parlaments und des Rates, der Entscheidung 2004/512/EG des Rates und des Beschlusses 2008/633/JI des Rates, ABl. L 135 vom 22.5.2019, S. 27; zuletzt geändert durch Verordnung (EU) 2021/1152, ABl. L 249 vom 14.7.2021, S. 15.
-[^1-10]: Eingefügt durch Ziff. I der V vom 13. Mai 2020 ([AS 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
-[^1-11]: Verordnung (EU) 2019/818 des Europäischen Parlaments und des Rates vom 20. Mai 2019 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU-Informationssystemen (polizeiliche und justizielle Zusammenarbeit, Asyl und Migration) und zur Änderung der Verordnungen (EU) 2018/1726, (EU) 2018/1862 und (EU) 2019/816, ABl. L 135 vom 22.5.2019, S. 85; zuletzt geändert durch Verordnung (EU) 2021/1150, ABl. L 249 vom 14.7.2021, S. 1.
-[^1-12]: Eingefügt durch Ziff. I der V vom 13. Mai 2020, in Kraft seit 15. Juni 2020 ([AS 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
-[^1-13]: Verordnung (EG) Nr. 1683/95 des Rates vom 29. Mai 1995 über eine einheitliche Visagestaltung, ABl. L 164 vom 14.7.1995, S. 1; zuletzt geändert durch Verordnung (EU) 2017/1370, ABl. L 198 vom 28.7.2017, S. 24.
-[^1-14]: Eingefügt durch Ziff. I der V vom 13. Mai 2020, in Kraft seit 15. Juni 2020 ([AS 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
-[^1-15]: Verordnung (EG) Nr. 1030/2002 des Rates vom 13. Juni 2002 zur einheitlichen Gestaltung des Aufenthaltstitels für Drittstaatenangehörige, ABl. L 157 vom 15.6.2002, S. 1; zuletzt geändert durch Verordnung (EU) 2017/1954, ABl. L 286 vom 1.11.2017, S. 9.
-[^1-16]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
-[^1-17]: Verordnung (EG) Nr. 767/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über das Visa-Informationssystem (VIS) und den Datenaustausch zwischen den Mitgliedstaaten über Visa für einen kurzfristigen Aufenthalt (VIS-Verordnung), ABl. L 218 vom 13.8.2008, S. 60; zuletzt geändert durch Verordnung (EU) 2021/1134, ABl. L 248 vom 13.7.2021, S. 11.
-[^1-18]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
-[^1-19]: Verordnung (EU) 2021/1148 des Europäischen Parlaments und des Rates vom 7. Juli 2021 zur Schaffung eines Instruments für finanzielle Hilfe im Bereich Grenzverwaltung und Visumpolitik im Rahmen des Fonds für integrierte Grenzverwaltung, ABl. L 251 vom 15.7.2021, S. 48.
-[^1-20]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
-[^1-21]: Verordnung (EU) 2021/1060 des Europäischen Parlaments und des Rates vom 24. Juni 2021 mit gemeinsamen Bestimmungen für den Europäischen Fonds für regionale Entwicklung, den Europäischen Sozialfonds Plus, den Kohäsionsfonds, den Fonds für einen gerechten Übergang und den Europäischen Meeres-, Fischerei- und Aquakulturfonds sowie mit Haushaltsvorschriften für diese Fonds und für den Asyl-, Migrations- und Integrationsfonds, den Fonds für die innere Sicherheit und das Instrument für finanzielle Hilfe im Bereich Grenzverwaltung und Visumpolitik, ABl. L 231 vom 30.6.2021, S. 159.
-[^1-22]: Fassung gemäss Ziff. I der V vom 14. Aug. 2019, in Kraft seit 2. Febr. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^1-1]: Fassung gemäss Ziff. I der V vom 15. Sept. 2023, in Kraft seit 15. Okt. 2023 ([AS 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^1-2]: Verordnung (EU) Nr. 514/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 zur Festlegung allgemeiner Bestimmungen für den Asyl-, Migrations- und Integrationsfonds und das Instrument für die finanzielle Unterstützung der polizeilichen Zusammenarbeit, der Kriminalprävention und Kriminalitätsbekämpfung und des Krisenmanagements, Fassung gemäss ABl. L 150 vom 20.5.2014, S. 112.
+[^1-3]: Verordnung (EU) Nr. 515/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 zur Schaffung eines Instruments für die finanzielle Unterstützung für Aussengrenzen und Visa im Rahmen des Fonds für die innere Sicherheit und zur Aufhebung der Entscheidung Nr. 574/2007/EG, Fassung gemäss ABl. L 150 vom 20.5.2014, S. 143.
+[^1-4]: Eingefügt durch Ziff. I der V vom 11. Aug. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^1-5]: Verordnung (EU) 2017/2226 des Europäischen Parlaments und des Rates vom 30. November 2017 über ein Einreise-/Ausreisesystem (EES) zur Erfassung der Ein- und Ausreisedaten sowie der Einreiseverweigerungsdaten von Drittstaatsangehörigen an den Aussengrenzen der Mitgliedstaaten und zur Festlegung der Bedingungen für den Zugang zum EES zu Gefahrenabwehr- und Strafverfolgungszwecken und zur Änderung des zur Durchführung des Übereinkommens von Schengen sowie der Verordnungen (EG) Nr. 767/2008 und (EU) Nr. 1077/2011, ABl. L 327 vom 9.12.2017, S. 20; zuletzt geändert durch Verordnung (EU) 2021/1134, ABl. L 248 vom 13.7.2021, S. 11.
+[^1-6]: Eingefügt durch Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^1-7]: Verordnung (EU) 2018/1240 des Europäischen Parlaments und des Rates vom 12. September 2018 über die Einrichtung eines Europäischen Reiseinformations- und ‑genehmigungssystems (ETIAS) und zur Änderung der Verordnungen (EU) Nr. 1077/2011, (EU) Nr. 515/2014, (EU) 2016/399, (EU) 2016/1624 und (EU) 2017/2226, ABl. L 236 vom 19.9.2018, S. 1; zuletzt geändert durch Verordnung (EU) 2021/1152, ABl. L 249 vom 14.7.2021, S. 15.
+[^1-8]: Verordnung (EG) Nr. 810/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über einen Visakodex der Gemeinschaft (Visakodex), ABl. L 243 vom 15.9.2009, S. 1; zuletzt geändert durch Verordnung (EU) 2019/1155, ABl. L 188 vom 12.7.2019, S. 25.
+[^1-9]: Eingefügt durch Ziff. I der V vom 13. Mai 2020 ([AS 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^1-10]: Verordnung (EU) 2019/817 des Europäischen Parlaments und des Rates vom 20. Mai 2019 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU-Informationssystemen in den Bereichen Grenzen und Visa und zur Änderung der Verordnungen (EG) Nr. 767/2008, (EU) 2016/399, (EU) 2017/2226, (EU) 2018/240, (EU) 2018/1726 und (EU) 2018/1861 des Europäischen Parlaments und des Rates, der Entscheidung 2004/512/EG des Rates und des Beschlusses 2008/633/JI des Rates, ABl. L 135 vom 22.5.2019, S. 27; zuletzt geändert durch Verordnung (EU) 2021/1152, ABl. L 249 vom 14.7.2021, S. 15.
+[^1-11]: Eingefügt durch Ziff. I der V vom 13. Mai 2020 ([AS 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^1-12]: Verordnung (EU) 2019/818 des Europäischen Parlaments und des Rates vom 20. Mai 2019 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU-Informationssystemen (polizeiliche und justizielle Zusammenarbeit, Asyl und Migration) und zur Änderung der Verordnungen (EU) 2018/1726, (EU) 2018/1862 und (EU) 2019/816, ABl. L 135 vom 22.5.2019, S. 85; zuletzt geändert durch Verordnung (EU) 2021/1150, ABl. L 249 vom 14.7.2021, S. 1.
+[^1-13]: Eingefügt durch Ziff. I der V vom 13. Mai 2020, in Kraft seit 15. Juni 2020 ([AS 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
+[^1-14]: Verordnung (EG) Nr. 1683/95 des Rates vom 29. Mai 1995 über eine einheitliche Visagestaltung, ABl. L 164 vom 14.7.1995, S. 1; zuletzt geändert durch Verordnung (EU) 2017/1370, ABl. L 198 vom 28.7.2017, S. 24.
+[^1-15]: Eingefügt durch Ziff. I der V vom 13. Mai 2020, in Kraft seit 15. Juni 2020 ([AS 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
+[^1-16]: Verordnung (EG) Nr. 1030/2002 des Rates vom 13. Juni 2002 zur einheitlichen Gestaltung des Aufenthaltstitels für Drittstaatenangehörige, ABl. L 157 vom 15.6.2002, S. 1; zuletzt geändert durch Verordnung (EU) 2017/1954, ABl. L 286 vom 1.11.2017, S. 9.
+[^1-17]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^1-18]: Verordnung (EG) Nr. 767/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über das Visa-Informationssystem (VIS) und den Datenaustausch zwischen den Mitgliedstaaten über Visa für einen kurzfristigen Aufenthalt (VIS-Verordnung), ABl. L 218 vom 13.8.2008, S. 60; zuletzt geändert durch Verordnung (EU) 2021/1134, ABl. L 248 vom 13.7.2021, S. 11.
+[^1-19]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^1-20]: Verordnung (EU) 2021/1148 des Europäischen Parlaments und des Rates vom 7. Juli 2021 zur Schaffung eines Instruments für finanzielle Hilfe im Bereich Grenzverwaltung und Visumpolitik im Rahmen des Fonds für integrierte Grenzverwaltung, ABl. L 251 vom 15.7.2021, S. 48.
+[^1-21]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^1-22]: Verordnung (EU) 2021/1060 des Europäischen Parlaments und des Rates vom 24. Juni 2021 mit gemeinsamen Bestimmungen für den Europäischen Fonds für regionale Entwicklung, den Europäischen Sozialfonds Plus, den Kohäsionsfonds, den Fonds für einen gerechten Übergang und den Europäischen Meeres-, Fischerei- und Aquakulturfonds sowie mit Haushaltsvorschriften für diese Fonds und für den Asyl-, Migrations- und Integrationsfonds, den Fonds für die innere Sicherheit und das Instrument für finanzielle Hilfe im Bereich Grenzverwaltung und Visumpolitik, ABl. L 231 vom 30.6.2021, S. 159.
+[^1-23]: Eingefügt durch Ziff. I der V vom 15. Sept. 2023, in Kraft seit 15. Okt. 2023 ([AS 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^1-24]: Beschluss Nr. 1105/2011/EU des Europäischen Parlaments und des Rates vom 25. Oktober 2011 über die Liste der visierfähigen Reisedokumente, die den Inhaber zum Überschreiten der Aussengrenzen berechtigen, und über die Schaffung eines Verfahrens zur Aufstellung dieser Liste, ABl. L 287 vom 4.11.2011, S. 9.
+[^1-25]: Fassung gemäss Ziff. I der V vom 14. Aug. 2019, in Kraft seit 2. Febr. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 
 #### Art. 2
 
@@ -183,7 +187,7 @@ Das Reisedokument muss folgende Voraussetzungen erfüllen:
   Seine Gültigkeitsdauer beträgt:
 
   - 1\. bei einem kurzfristigen Aufenthalt: noch mindestens drei Monate ab dem Datum, an dem die Inhaberin oder der Inhaber beabsichtigt, den Schengen-Raum zu verlassen;
-  - 2\. bei einem Flughafentransit: noch mindestens drei Monate ab dem Datum des Transits oder des letzten genehmigten Transits;
+  - 2\.[^6-2] bei einem Flughafentransit von Flugpassagieren, die der Visumpflicht für den Flughafentransit unterstehen: noch mindestens drei Monate ab dem Datum des Transits oder des letzten genehmigten Transits;
   - 3\. bei einem längerfristigen Aufenthalt: noch mindestens drei Monate ab dem Datum, an dem der Inhaberin oder dem Inhaber die Genehmigung zur Einreise in die Schweiz erteilt wurde.
 
 - b. Es muss innerhalb der vorangegangenen zehn Jahre ausgestellt worden sein.
@@ -194,7 +198,7 @@ Das Reisedokument muss folgende Voraussetzungen erfüllen:
 Die zuständigen Behörden können verzichten auf:
 
 - a. die Anforderungen nach Absatz 2 Buchstabe a Ziffern 1 und 2: in begründeten Notfällen;
-- b. die Anforderungen nach Absatz 2 Buchstabe a Ziffer 3 und Buchstaben b und c: in begründeten Fällen.[^6-2]
+- b. die Anforderungen nach Absatz 2 Buchstabe a Ziffer 3 und Buchstaben b und c: in begründeten Fällen.[^6-3]
 
 <sup>4</sup>
 
@@ -203,13 +207,14 @@ Ein Reisedokument wird vom SEM anerkannt, wenn es folgende Voraussetzungen erfü
 - a. Aus ihm gehen die Identität der Inhaberin oder des Inhabers sowie die Zugehörigkeit zum ausstellenden Staat oder zur ausstellenden Gebietskörperschaft hervor.
 - b. Ein von der Schweiz anerkannter Staat oder eine von der Schweiz anerkannte Gebietskörperschaft oder internationale Organisation hat es ausgestellt.
 - c. Der ausstellende Staat oder die ausstellende Gebietskörperschaft gewährleistet jederzeit die Rückreise seiner beziehungsweise ihrer Angehörigen.
-- d. Es verfügt über die den internationalen Standards entsprechenden Sicherheitsmerkmale; diesbezüglich ist insbesondere Anhang 9 des Übereinkommens vom 7. Dezember 1944[^6-3] über die internationale Zivilluftfahrt anwendbar.
+- d. Es verfügt über die den internationalen Standards entsprechenden Sicherheitsmerkmale; diesbezüglich ist insbesondere Anhang 9 des Übereinkommens vom 7. Dezember 1944[^6-4] über die internationale Zivilluftfahrt anwendbar.
 
 <sup>5</sup> Das SEM kann in begründeten Fällen Reisedokumente anerkennen, die nicht den Voraussetzungen nach Absatz 4 entsprechen. Dies betrifft insbesondere Reisedokumente von Personen, die nicht die Staatsangehörigkeit des ausstellenden Staates besitzen, sich aber legal im ausstellenden Staat aufhalten.
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Mai 2022 ([AS 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
-[^6-2]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Mai 2022 ([AS 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
-[^6-3]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^6-2]: Fassung gemäss Ziff. I der V vom 15. Sept. 2023, in Kraft seit 15. Okt. 2023 ([AS 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^6-3]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Mai 2022 ([AS 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^6-4]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
 
 #### Art. 7
 
@@ -435,30 +440,9 @@ Für die Bearbeitung eines Visumgesuchs für einen kurzfristigen Aufenthalt oder
 
 #### Art. 20
 
-**Übertragung von Aufgaben im Rahmen des Visumverfahrens**
+[^20-1]
 
-<sup>1</sup> Das EDA und das SEM stellen sicher, dass eine Aufgabenübertragung nach Artikel 98*b* AIG nur an externe Dienstleistungserbringer erfolgt, die ein angemessenes Datenschutzniveau garantieren.
-
-<sup>2</sup> Das EDA schliesst mit den Dienstleistungserbringern, die mit der Erfüllung bestimmter Aufgaben im Rahmen des Visumverfahrens beauftragt werden, eine Vereinbarung nach Artikel 43 Absatz 2 und Anhang X des Visakodex[^20-1] ab.
-
-<sup>3</sup>
-
-Das EDA muss:
-
-- a. die Solvenz und Zuverlässigkeit der beauftragten Dienstleistungserbringer prüfen;
-- b. die Einhaltung der in der Vereinbarung nach Absatz 2 festgehaltenen Bedingungen und Modalitäten prüfen;
-- c. die Durchführung der Vereinbarung nach Absatz 2 gemäss Artikel 43 Absatz 11 des Visakodex überwachen;
-- d. den externen Dienstleistungserbringer einweisen und ihm die Kenntnisse vermitteln, die er benötigt, um den Gesuchstellerinnen und Gesuchstellern eine angemessene Dienstleistung anbieten und hinlängliche Informationen erteilen zu können;
-- e. sicherstellen, dass die elektronisch an die schweizerischen Vertretungen übermittelten Daten im Sinne von Artikel 44 des Visakodex gesichert sind.
-
-<sup>4</sup> Die schweizerischen Vertretungen können in Zusammenarbeit mit anderen Vertretungen der Schengen-Staaten denselben Dienstleistungserbringer teilen. In diesem Fall werden die Aufgaben nach Absatz 3 in Zusammenarbeit erfüllt.
-
-<sup>5</sup> Externe Dienstleistungserbringer können nach dem Grundsatz der Deckung der effektiven Kosten zusätzlich zu den üblicherweise für die Visumerteilung erhobenen Gebühren Dienstleistungsgebühren nach Artikel 17 Absätze 4, 4*a* und 4*b* des Visakodex erheben.[^20-2]
-
-<sup>6</sup> Nach Artikel 42 des Visakodex können die Honorarkonsulinnen und -konsuln ebenfalls einige oder alle der Aufgaben nach Artikel 43 Absatz 6 des Visakodex ausführen.
-
-[^20-1]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. c.
-[^20-2]: Fassung gemäss Ziff. I der V vom 14. Aug. 2019, in Kraft seit 2. Febr. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^20-1]: Aufgehoben durch Ziff. I der V vom 15. Sept. 2023, mit Wirkung seit 15. Okt. 2023 ([AS 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
 
 ## 4. Abschnitt: Visa für längerfristige Aufenthalte
 
@@ -488,11 +472,14 @@ Ein Rückreisevisum wird erteilt, wenn:
 
 **Territoriale Zuständigkeit der Schweizerischen Auslandvertretungen**
 
-<sup>1</sup> Ausländerinnen und Ausländer müssen ihr Visumgesuch für einen längerfristigen Aufenthalt grundsätzlich bei der für ihren Wohnort zuständigen Auslandvertretung einreichen.
+<sup>1</sup> Ausländerinnen und Ausländer müssen ihr Visumgesuch für einen längerfristigen Aufenthalt bei der schweizerischen Vertretung des Konsularbezirks einreichen, in welchem die gesuchstellende ausländische Person ihren rechtmässigen Wohnsitz hat.[^22-1]
 
 <sup>2</sup> Die kantonale Migrationsbehörde kann Ausnahmen genehmigen für Ausländerinnen und Ausländer, die häufig und innerhalb kurzer Zeit den Ort wechseln, beispielsweise Angestellte internationaler Unternehmen, Künstlerinnen und Künstler, Athletinnen und Athleten oder andere Fachleute.
 
-<sup>3</sup> Die Vertretung kann das Gesuch einer ausländischen Person, die nicht in ihrem Konsularbezirk wohnhaft ist, entgegennehmen, wenn sie die Gründe, weshalb diese Person ihr Gesuch nicht bei der für ihren Wohnsitz zuständigen Vertretung einreichen konnte, als annehmbar erachtet.
+<sup>3</sup> Eine schweizerische Vertretung kann das Gesuch einer ausländischen Person, die nicht in ihrem Konsularbezirk rechtmässig wohnhaft ist, entgegennehmen, wenn sie die Gründe, weshalb diese Person ihr Gesuch nicht bei der zuständigen schweizerischen Vertretung einreichen konnte, als annehmbar erachtet.[^22-2]
+
+[^22-1]: Fassung gemäss Ziff. I der V vom 15. Sept. 2023, in Kraft seit 15. Okt. 2023 ([AS 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^22-2]: Fassung gemäss Ziff. I der V vom 15. Sept. 2023, in Kraft seit 15. Okt. 2023 ([AS 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
 
 #### Art. 23
 
@@ -625,7 +612,7 @@ Mit den Massnahmen nach Absatz 1 ist sicherzustellen, dass:
 - a. vor der Abreise kontrolliert wird, ob die für die Einreise in den Schengen-Raum oder für den Flughafentransit erforderlichen Reisedokumente, Visa und Aufenthaltstitel gültig und anerkannt sind;
 - b. Fälschungen oder Verfälschungen von Reisedokumenten, Visa oder Aufenthaltstiteln, die für geschulte Personen mit durchschnittlichem Sehvermögen von blossem Auge erkennbar sind, erkannt werden;
 - c. erkannt wird, wenn ein Reisedokument, Visum oder Aufenthaltstitel offensichtlich nicht der zu befördernden Person zusteht;
-- d.[^32-1] …
+- d.[^32-1] überprüft werden kann, ob die zulässige maximale Aufenthaltsdauer und die Anzahl der erlaubten Einreisen erreicht wurden.
 
 <sup>3</sup>
 
@@ -636,7 +623,7 @@ Das SEM kann von den Luftverkehrsunternehmen zusätzliche Massnahmen verlangen, 
 
 <sup>4</sup> Als zusätzliche Massnahme gilt insbesondere das Erstellen von Kopien von Reisedokumenten, Visa oder Aufenthaltstiteln vor dem Abflug.
 
-[^32-1]: Aufgehoben durch Ziff. I der V vom 10. Nov. 2021, mit Wirkung seit 1. Mai 2022 ([AS 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^32-1]: Fassung gemäss Ziff. I der V vom 15. Sept. 2023, in Kraft seit 15. Okt. 2023 ([AS 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
 
 #### Art. 33
 
@@ -882,6 +869,16 @@ Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen betreffen
 [^34f-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^34f-4]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. j.
 
+#### Art. 34g
+
+**Abschluss internationaler Verträge im Zusammenhang mit dem Beschluss Nr. 1105/2011/EU**[^34g-1]
+
+Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission, welche die Liste der visierfähigen Reisedokumente, die zum Überschreiten der Aussengrenzen berechtigen, erstellen oder aktualisieren und die gestützt auf den Beschluss Nr. 1105/2011/EU[^34g-2] erlassen wurden, sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG[^34g-3] darstellen.
+
+[^34g-1]: Eingefügt durch Ziff. I der V vom 15. Sept. 2023, in Kraft seit 15. Okt. 2023 ([AS 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^34g-2]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. k.
+[^34g-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
 #### Art. 35
 
 **Staatssekretariat für Migration**
@@ -943,6 +940,33 @@ Sie sind zuständig für:
 
 - a. die Erteilung von Visa für kurzfristige Aufenthalte nach einem längerfristigen Aufenthalt in der Schweiz; und
 - b. für die Verlängerung von Visa für kurzfristige Aufenthalte im Namen des SEM und des EDA.
+
+#### Art. 39a
+
+**Übertragung von Aufgaben im Rahmen des Visumverfahrens**[^39a-1]
+
+<sup>1</sup> Das EDA und das SEM stellen sicher, dass eine Aufgabenübertragung nach Artikel 98*b* AIG nur an externe Dienstleistungserbringer erfolgt, die ein angemessenes Datenschutzniveau garantieren.
+
+<sup>2</sup> Das EDA schliesst mit den Dienstleistungserbringern, die mit der Erfüllung von Aufgaben im Rahmen des Visumverfahrens beauftragt werden, eine Vereinbarung nach Artikel 43 Absatz 2 und Anhang X des Visakodex[^39a-2] ab.
+
+<sup>3</sup>
+
+Das EDA muss:
+
+- a. die Solvenz und Zuverlässigkeit der Dienstleistungserbringer prüfen;
+- b. die Einhaltung der in der Vereinbarung nach Absatz 2 festgehaltenen Bedingungen und Modalitäten prüfen;
+- c. die Durchführung der Vereinbarung nach Absatz 2 gemäss Artikel 43 Absatz 11 des Visakodex überwachen;
+- d. die Dienstleistungserbringer einweisen und ihnen die Kenntnisse vermitteln, die sie benötigen, um den Gesuchstellerinnen und Gesuchstellern eine angemessene Dienstleistung anbieten und hinlängliche Informationen erteilen zu können;
+- e. sicherstellen, dass die elektronisch an die schweizerischen Vertretungen übermittelten Daten im Sinne von Artikel 44 des Visakodex gesichert sind.
+
+<sup>4</sup> Die schweizerischen Vertretungen können in Zusammenarbeit mit anderen Vertretungen der Schengen-Staaten denselben Dienstleistungserbringer teilen. In diesem Fall werden die Aufgaben nach Absatz 3 in Zusammenarbeit erfüllt.
+
+<sup>5</sup> Dienstleistungserbringer können nach dem Grundsatz der Deckung der effektiven Kosten zusätzlich zu den üblicherweise für die Visumerteilung erhobenen Gebühren Dienstleistungsgebühren nach Artikel 17 Absätze 4, 4*a* und 4*b* des Visakodex erheben.
+
+<sup>6</sup> Nach Artikel 42 des Visakodex können die Honorarkonsulinnen und -konsuln ebenfalls einige oder alle der Aufgaben nach Artikel 43 Absatz 6 des Visakodex ausführen.
+
+[^39a-1]: Eingefügt durch Ziff. I der V vom 15. Sept. 2023, in Kraft seit 15. Okt. 2023 ([AS 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^39a-2]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. c.
 
 #### Art. 40
 
