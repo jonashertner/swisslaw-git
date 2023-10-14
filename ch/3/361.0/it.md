@@ -3,11 +3,11 @@ sr: "361.0"
 title: Ordinanza del 26 ottobre 2016 sul sistema di ricerca informatizzato di polizia (Ordinanza RIPOL)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/665"
 language: it
-version: 2023-09-01
+version: 2023-10-15
 adopted: 2016-10-26
 in_force: 2016-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2016-665-20230901-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20231015/it/xml/fedlex-data-admin-ch-eli-cc-2016-665-20231015-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20231015/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20230901/it"
 
 (Ordinanza RIPOL)
 
-del 26 ottobre 2016 (Stato 1° settembre 2023)
+del 26 ottobre 2016 (Stato 15 ottobre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -299,7 +299,7 @@ Tramite RIPOL è possibile consultare i dati dei sistemi d’informazione seguen
 - d. la banca dati Automated Search Facility di Interpol (ASF);
 - e. la parte nazionale del Sistema d’informazione di Schengen (N-SIS);
 - f. il sistema d’informazione sui documenti d’identità (ISA);
-- g. il sistema d’informazione per documenti di viaggio (ISR);
+- g.[^11-3] ...
 - h. il sistema d’informazione elettronico HOOGAN (HOOGAN);
 - i. il registro informatizzato dello stato civile (Infostar).
 
@@ -308,24 +308,26 @@ Tramite RIPOL è possibile consultare i dati dei sistemi d’informazione seguen
 Il RIPOL può inoltre scambiare elettronicamente dati con i sistemi d’informazione seguenti:
 
 - a. SIMIC;
-- b.[^11-3] SIAC Veicoli;
-- c.[^11-4] SIAC Persone;
+- b.[^11-4] SIAC Veicoli;
+- c.[^11-5] SIAC Persone;
 - d. ASF-Interpol;
 - e. N-SIS;
 - f. ISA;
-- g. ISR;
+- g.[^11-6] ...
 - h. Infostar;
 - i. il sistema d’informazione eVERA del Dipartimento federale degli affari esteri;
 - j. i sistemi d’informazione cantonali di polizia nonché degli uffici della circolazione stradale e della navigazione;
-- k.[^11-5] il sistema d’informazione Ordipro del DFAE;
-- l.[^11-6] il sistema automatico d’identificazione delle impronte digitali (AFIS).
+- k.[^11-7] il sistema d’informazione Ordipro del DFAE;
+- l.[^11-8] il sistema automatico d’identificazione delle impronte digitali (AFIS).
 
 [^11-1]: Nuovo testo giusta l’all. 4 n. II 2 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 [^11-2]: Nuovo testo giusta l’all. 4 n. II 2 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
-[^11-3]: Nuovo testo giusta l’all. 4 n. II 2 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^11-3]: Abrogata dall’all. n. 2 dell’O del 15 set. 2023, con effetto dal 15 ott. 2023 (RU **202****3**552).
 [^11-4]: Nuovo testo giusta l’all. 4 n. II 2 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
-[^11-5]: Introdotta dall’art 17 n. 1 dell’O Ordipro del 22 mar. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1089](https://fedlex.data.admin.ch/eli/oc/2019/209)).
-[^11-6]: Introdotta dal n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
+[^11-5]: Nuovo testo giusta l’all. 4 n. II 2 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^11-6]: Abrogata dall’all. n. 2 dell’O del 15 set. 2023, con effetto dal 15 ott. 2023 ([RU 2023 552](https://fedlex.data.admin.ch/eli/oc/2023/552)).
+[^11-7]: Introdotta dall’art 17 n. 1 dell’O Ordipro del 22 mar. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1089](https://fedlex.data.admin.ch/eli/oc/2019/209)).
+[^11-8]: Introdotta dal n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
 
 #### Art. 12
 

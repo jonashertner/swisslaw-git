@@ -3,11 +3,11 @@ sr: "361.0"
 title: Verordnung vom 26. Oktober 2016 über das automatisierte Polizeifahndungssystem (RIPOL-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/665"
 language: de
-version: 2023-09-01
+version: 2023-10-15
 adopted: 2016-10-26
 in_force: 2016-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2016-665-20230901-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20231015/de/xml/fedlex-data-admin-ch-eli-cc-2016-665-20231015-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20231015/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20230901/de"
 
 (RIPOL-Verordnung)
 
-vom 26. Oktober 2016 (Stand am 1. September 2023)
+vom 26. Oktober 2016 (Stand am 15. Oktober 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -299,7 +299,7 @@ Aus dem RIPOL können Daten der folgenden Informationssysteme abgefragt werden:
 - d. Datenbank Automated Search Facility von Interpol (ASF);
 - e. nationaler Teil des Schengener Informationssystems (N-SIS);
 - f. Informationssystem für Ausweisschriften (ISA);
-- g. Informationssystem für Reisepapiere (ISR);
+- g.[^11-3] ...
 - h. elektronisches Informationssystem HOOGAN (HOOGAN);
 - i. informatisiertes Zivilstandsregister (Infostar).
 
@@ -308,24 +308,26 @@ Aus dem RIPOL können Daten der folgenden Informationssysteme abgefragt werden:
 Das RIPOL kann zusätzlich mit folgenden Informationssystemen elektronisch Daten austauschen:
 
 - a. ZEMIS;
-- b.[^11-3] IVZ-Fahrzeuge;
-- c.[^11-4] IVZ-Personen;
+- b.[^11-4] IVZ-Fahrzeuge;
+- c.[^11-5] IVZ-Personen;
 - d. ASF-Interpol;
 - e. N-SIS;
 - f. ISA;
-- g. ISR;
+- g.[^11-6] ...
 - h. Infostar;
 - i. Informationssystem eVERA des Eidgenössischen Departements für auswärtige Angelegenheiten;
 - j. kantonale Informationssysteme der Polizei sowie der Strassen- und Schifffahrtsämter;
-- k.[^11-5] Informationssystem Ordipro des EDA;
-- l.[^11-6] automatisiertes Fingerabdruck-Identifikationssystem (AFIS).
+- k.[^11-7] Informationssystem Ordipro des EDA;
+- l.[^11-8] automatisiertes Fingerabdruck-Identifikationssystem (AFIS).
 
 [^11-1]: Fassung gemäss Anhang 4 Ziff. II 2 der V vom 30. Nov. 2018 über das Informationssystem Verkehr, in Kraft seit 1. Jan. 2019 ([AS 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 [^11-2]: Fassung gemäss Anhang 4 Ziff. II 2 der V vom 30. Nov. 2018 über das Informationssystem Verkehr, in Kraft seit 1. Jan. 2019 ([AS 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
-[^11-3]: Fassung gemäss Anhang 4 Ziff. II 2 der V vom 30. Nov. 2018 über das Informationssystem Verkehr, in Kraft seit 1. Jan. 2019 ([AS 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^11-3]: Aufgehoben durch Anhang Ziff. 2 der V vom 15. Sept. 2023, mit Wirkung seit 15. Okt. 2023 ([AS 2023 552](https://fedlex.data.admin.ch/eli/oc/2023/552)).
 [^11-4]: Fassung gemäss Anhang 4 Ziff. II 2 der V vom 30. Nov. 2018 über das Informationssystem Verkehr, in Kraft seit 1. Jan. 2019 ([AS 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
-[^11-5]: Eingefügt durch Art. 17 Ziff. 1 der Ordipro-Verordnung vom 22. März 2019, in Kraft seit 1. Mai 2019 ([AS 2019 1089](https://fedlex.data.admin.ch/eli/oc/2019/209)).
-[^11-6]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
+[^11-5]: Fassung gemäss Anhang 4 Ziff. II 2 der V vom 30. Nov. 2018 über das Informationssystem Verkehr, in Kraft seit 1. Jan. 2019 ([AS 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^11-6]: Aufgehoben durch Anhang Ziff. 2 der V vom 15. Sept. 2023, mit Wirkung seit 15. Okt. 2023 ([AS 2023 552](https://fedlex.data.admin.ch/eli/oc/2023/552)).
+[^11-7]: Eingefügt durch Art. 17 Ziff. 1 der Ordipro-Verordnung vom 22. März 2019, in Kraft seit 1. Mai 2019 ([AS 2019 1089](https://fedlex.data.admin.ch/eli/oc/2019/209)).
+[^11-8]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
 
 #### Art. 12
 

@@ -3,11 +3,11 @@ sr: "361.0"
 title: Ordonnance du 26 octobre 2016 sur le système de recherches informatisées de police (Ordonnance RIPOL)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/665"
 language: fr
-version: 2023-09-01
+version: 2023-10-15
 adopted: 2016-10-26
 in_force: 2016-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2016-665-20230901-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20231015/fr/xml/fedlex-data-admin-ch-eli-cc-2016-665-20231015-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20231015/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20230901/fr"
 
 (Ordonnance RIPOL)
 
-du 26 octobre 2016 (État le 1<sup>er</sup> septembre 2023)
+du 26 octobre 2016 (État le 15 octobre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -102,7 +102,7 @@ Les autorités suivantes peuvent annoncer à fedpol des signalements en vue de l
 - j.[^4-8] les autorités chargées de l’exécution des peines et mesures, aux fins énoncées à l’art. 15, al. 1, let. c, d et l, LSIP;
 - k.[^4-9] le Service de renseignement de la Confédération (SRC), aux fins énoncées à l’art. 15, al. 1, let. k, LSIP;
 - l. l’organe fédéral chargé de l’exécution du service civil[^4-10], en ce qui concerne les signalements de personnes, aux fins énoncées à l’art. 15, al. 1, let. a, LSIP;
-- m.[^4-11] ...
+- m.[^4-11] …
 - n.[^4-12] fedpol en qualité d’autorité pénale administrative, aux fins énoncées à l’art. 15, al. 1, let. a et g, LSIP.
 
 <sup>2</sup>
@@ -113,7 +113,7 @@ Dans le cadre de leurs tâches légales, les autorités suivantes qui participen
 - a<sup>bis</sup>.[^4-13] fedpol en qualité d’autorité pénale administrative, aux fins énoncées à l’art. 15, al. 1, let. a et g, LSIP;
 - b. les autorités cantonales de police conformément à l’art. 15, al. 1, LSIP;
 - c. les offices de la circulation routière pour les plaques d’immatriculation;
-- d.[^4-14] ...
+- d.[^4-14] …
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
@@ -124,7 +124,7 @@ Dans le cadre de leurs tâches légales, les autorités suivantes qui participen
 [^4-7]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
 [^4-8]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
 [^4-9]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
-[^4-10]: Depuis le 1<sup>er</sup> janv. 2019 : Office fédéral du service civil.
+[^4-10]: Depuis le 1<sup>er</sup> janv. 2019: Office fédéral du service civil.
 [^4-11]: Introduite par le ch. I 11 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)). Abrogée par le ch. I de l’O du 19 oct. 2022, avec effet au 22 nov. 2022 ([RO 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
 [^4-12]: Introduite par l’annexe 2 ch. 6 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 [^4-13]: Introduite par l’annexe 2 ch. 6 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
@@ -189,7 +189,7 @@ Dans l’accomplissement de leurs tâches légales, les autorités suivantes peu
 [^6-7]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
 [^6-8]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
 [^6-9]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^6-10]: Depuis le 1<sup>er</sup> janv. 2019 : Office fédéral du service civil.
+[^6-10]: Depuis le 1<sup>er</sup> janv. 2019: Office fédéral du service civil.
 [^6-11]: Introduite par le ch. I 11 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)). Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
 [^6-12]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^6-13]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
@@ -300,7 +300,7 @@ Le RIPOL permet de consulter des données des systèmes d’information suivants
 - d. la banque de données Automated Search Facility d’Interpol (ASF);
 - e. la partie nationale du Système d’information Schengen (N-SIS);
 - f. le système d’information relatif aux documents d’identité (ISA);
-- g. le système d’information en vue de l’établissement des documents de voyage suisses et des autorisations de retour pour étrangers (ISR);
+- g.[^11-3] …
 - h. le système électronique d’information HOOGAN (HOOGAN);
 - i. le registre informatisé de l’état civil (Infostar).
 
@@ -309,24 +309,26 @@ Le RIPOL permet de consulter des données des systèmes d’information suivants
 Le RIPOL peut au surplus échanger électroniquement des données avec les systèmes d’information suivants:
 
 - a. SYMIC;
-- b.[^11-3] SIAC-Véhicules;
-- c.[^11-4] SIAC-Personnes;
+- b.[^11-4] SIAC-Véhicules;
+- c.[^11-5] SIAC-Personnes;
 - d. ASF-Interpol;
 - e. N-SIS;
 - f. ISA;
-- g. ISR;
+- g.[^11-6] …
 - h. Infostar;
 - i. le système d’informations eVERA du Département fédéral des affaires étrangères;
 - j. les systèmes d’information de police ainsi que des offices de la circulation et de la navigation;
-- k.[^11-5] le système d’information Ordipro du DFAE;
-- l.[^11-6] le système automatique d’identification des empreintes digitales (AFIS).
+- k.[^11-7] le système d’information Ordipro du DFAE;
+- l.[^11-8] le système automatique d’identification des empreintes digitales (AFIS).
 
 [^11-1]: Nouvelle teneur selon l’annexe 4 ch. II 2 de l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 [^11-2]: Nouvelle teneur selon l’annexe 4 ch. II 2 de l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
-[^11-3]: Nouvelle teneur selon l’annexe 4 ch. II 2 de l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^11-3]: Abrogée par l’annexe ch. 2 de l’O du 15 sept. 2023, avec effet au 15 oct. 2023 ([RO 2023 552](https://fedlex.data.admin.ch/eli/oc/2023/552)).
 [^11-4]: Nouvelle teneur selon l’annexe 4 ch. II 2 de l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
-[^11-5]: Introduite par l’art. 17 ch. 1 de l’O Ordipro du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> mai 2019 ([RO 2019 1089](https://fedlex.data.admin.ch/eli/oc/2019/209)).
-[^11-6]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
+[^11-5]: Nouvelle teneur selon l’annexe 4 ch. II 2 de l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^11-6]: Abrogée par l’annexe ch. 2 de l’O du 15 sept. 2023, avec effet au 15 oct. 2023 ([RO 2023 552](https://fedlex.data.admin.ch/eli/oc/2023/552)).
+[^11-7]: Introduite par l’art. 17 ch. 1 de l’O Ordipro du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> mai 2019 ([RO 2019 1089](https://fedlex.data.admin.ch/eli/oc/2019/209)).
+[^11-8]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
 
 #### Art. 12
 
@@ -595,7 +597,7 @@ Abréviations
 <tr><td>Membre de la famille d’un ressortissant de l’UE:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
 <tr><td>Message</td><td colspan="28"></td></tr>
 <tr><td>Validité du message:</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Texte du message :</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
+<tr><td>Texte du message:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
 <tr><td>Motif de la levée du message:</td><td>M</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>M</td><td>A</td><td></td><td></td><td></td><td>M</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
 <tr><td>*Notification*</td><td colspan="28"></td></tr>
 <tr><td>Destinataire, responsable de la saisie:</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
