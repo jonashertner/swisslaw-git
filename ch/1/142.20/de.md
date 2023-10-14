@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 16. Dezember 2005 über die Ausländerinnen und Auslän
 short: AIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: de
-version: 2023-09-01
+version: 2023-10-15
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20230901-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20231015/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20231015-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20231015/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20230901/de"
 
 (Ausländer- und Integrationsgesetz, AIG)[^t-1]
 
-vom 16. Dezember 2005 (Stand am 1. September 2023)
+vom 16. Dezember 2005 (Stand am 15. Oktober 2023)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -2086,9 +2086,9 @@ Für die folgenden Personen gelten bezüglich Sozialhilfestandards die gleichen 
 - a. vorläufig aufgenommene Flüchtlinge;
 - b.[^86-3] Flüchtlinge, die mit einer rechtskräftigen Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB[^86-4] oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG[^86-5] oder mit einer rechtskräftigen Ausweisung nach Artikel 68 des vorliegenden Gesetzes belegt sind;
 - c. staatenlose Personen nach Artikel 31 Absätze 1 und 2; und
-- d.[^86-6] staatenlose Personen, die mit einer rechtskräftigen Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG oder mit einer rechtskräftigen Ausweisung nach Artikel 68 des vorliegenden Gesetzes belegt sind.
+- d.[^86-6] staatenlose Personen, die mit einer rechtskräftigen Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG oder mit einer rechtskräftigen Ausweisung nach Artikel 68 des vorliegenden Gesetzes belegt sind.[^86-7]
 
-<sup>2</sup> Bezüglich obligatorischer Krankenversicherung für vorläufig aufgenommene Personen sind die entsprechenden Bestimmungen für Asylsuchende nach dem AsylG und dem Bundesgesetz vom 18. März 1994[^86-7] über die Krankenversicherung anwendbar.
+<sup>2</sup> Bezüglich obligatorischer Krankenversicherung für vorläufig aufgenommene Personen sind die entsprechenden Bestimmungen für Asylsuchende nach dem AsylG und dem Bundesgesetz vom 18. März 1994[^86-8] über die Krankenversicherung anwendbar.
 
 [^86-1]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^86-2]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
@@ -2096,7 +2096,8 @@ Für die folgenden Personen gelten bezüglich Sozialhilfestandards die gleichen 
 [^86-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^86-5]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^86-6]: Fassung gemäss Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^86-7]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^86-7]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^86-8]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 87
 
@@ -3142,44 +3143,9 @@ Das SEM betreibt in Zusammenarbeit mit dem Bundesverwaltungsgericht und den zust
 
 #### Art. 111
 
-**Informationssysteme für Reisedokumente**
+[^111-1]
 
-<sup>1</sup> Das SEM führt ein Informationssystem zur Ausstellung von schweizerischen Reisedokumenten und Bewilligungen zur Wiedereinreise an Ausländerinnen und Ausländer (ISR).[^111-1]
-
-<sup>2</sup>
-
-Das ISR enthält folgende Daten:
-
-- a.[^111-2] Name, Vornamen, Geschlecht, Geburtsdatum, Geburtsort, Staatsangehörigkeit, Adresse, Grösse, Gesichtsbild, Fingerabdrücke, Name und Vornamen der Eltern, Ledigname der Eltern, Unterschrift, Dossiernummer sowie Personennummer;
-- b. Angaben zum Gesuch, wie Gesuchseingang und Gesuchsentscheid;
-- c. Angaben zum Reisedokument, wie Ausstellungsdatum und Gültigkeitsdauer;
-- d. die Unterschriften und Namen der gesetzlichen Vertretung bei Reisedokumenten für minderjährige oder für entmündigte Personen;
-- e. den Allianz-, Ordens- oder Künstlernamen sowie Angaben über besondere Kennzeichen wie Behinderungen, Prothesen oder Implantate, falls die antragstellende Person verlangt, dass das Reisedokument diese Angaben enthalten soll;
-- f. Angaben zu den verlorenen Reisedokumenten.
-
-<sup>3</sup> Zur Prüfung, ob die gesuchstellende Person wegen eines Verbrechens oder Vergehens ausgeschrieben ist, erfolgt eine automatische Abfrage im automatisierten Polizeifahndungssystem RIPOL.[^111-3]
-
-<sup>4</sup> Die gestützt auf Absatz 2 erfassten Daten werden von Mitarbeiterinnen und Mitarbeitern des SEM, die mit der Ausstellung von schweizerischen Reisedokumenten und Bewilligungen zur Wiedereinreise befasst sind, bearbeitet.[^111-4]
-
-<sup>5</sup>
-
-Das SEM kann die gestützt auf Absatz 2 erfassten Daten folgenden Behörden oder Stellen durch ein Abrufverfahren zugänglich machen, soweit diese die Daten zur Erfüllung ihrer Aufgaben benötigen:[^111-5]
-
-- a. der mit der Ausfertigung der Reisedokumente beauftragten Stelle;
-- b. den Grenzposten der Polizeibehörden der Kantone und dem Grenzwachtkorps, für die Durchführung der Personenkontrolle;
-- c. den von den Kantonen bezeichneten Polizeistellen, zur Identitätsabklärung und zur Aufnahme von Meldungen verlorener Reisedokumente;
-- d.[^111-6] den von den Kantonen bezeichneten Behörden oder Stellen, zur Entgegennahme von Gesuchen um Ausstellung von Reisedokumenten;
-- e.[^111-7] den von den Kantonen bezeichneten Behörden oder Stellen, zur Erfassung des Gesichtsbilds und der Fingerabdrücke.
-
-<sup>6</sup> Der Bundesrat erlässt die Ausführungsbestimmungen.
-
-[^111-1]: Fassung gemäss Art. 2 Ziff. 2 des BB vom 13. Juni 2008 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EG betreffend die biometrischen Pässe und Reisedokumente, in Kraft seit 1. Okt. 2011 ([AS 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667), [2011 4033](https://fedlex.data.admin.ch/eli/oc/2011/573); [BBl 2007 5159](https://fedlex.data.admin.ch/eli/fga/2007/731)).
-[^111-2]: Fassung gemäss Art. 2 Ziff. 2 des BB vom 13. Juni 2008 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EG betreffend die biometrischen Pässe und Reisedokumente, in Kraft seit 1. Okt. 2011 ([AS 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667), [2011 4033](https://fedlex.data.admin.ch/eli/oc/2011/573); [BBl 2007 5159](https://fedlex.data.admin.ch/eli/fga/2007/731)).
-[^111-3]: Fassung gemäss Anhang 1 Ziff. 2 des BG über die polizeilichen Informationssysteme des Bundes vom 13. Juni 2008, in Kraft seit 5. Dez. 2008 ([AS 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [BBl 2006 5061](https://fedlex.data.admin.ch/eli/fga/2006/611)).
-[^111-4]: Fassung gemäss Art. 2 Ziff. 2 des BB vom 13. Juni 2008 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EG betreffend die biometrischen Pässe und Reisedokumente, in Kraft seit 1. Okt. 2011 ([AS 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667), [2011 4033](https://fedlex.data.admin.ch/eli/oc/2011/573); [BBl 2007 5159](https://fedlex.data.admin.ch/eli/fga/2007/731)).
-[^111-5]: Fassung gemäss Ziff. I 1 des BG vom 18. Juni 2010 über die Anpassung von Bestimmungen betreffend die Erfassung von Daten im Bereich der Migration, in Kraft seit 24. Jan. 2011 ([AS 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
-[^111-6]: Eingefügt durch Ziff. I 1 des BG vom 18. Juni 2010 über die Anpassung von Bestimmungen betreffend die Erfassung von Daten im Bereich der Migration, in Kraft seit 24. Jan. 2011 ([AS 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
-[^111-7]: Eingefügt durch Ziff. I 1 des BG vom 18. Juni 2010 über die Anpassung von Bestimmungen betreffend die Erfassung von Daten im Bereich der Migration, in Kraft seit 24. Jan. 2011 ([AS 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
+[^111-1]: Aufgehoben durch Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), mit Wirkung seit 15. Okt. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 
 ## 14*b*. Kapitel: Datenschutz im Rahmen der Schengen-Assoziierungsabkommen
 

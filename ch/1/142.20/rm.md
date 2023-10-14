@@ -4,11 +4,11 @@ title: Lescha federala dals 16 da december 2005 davart las persunas estras (LEst
 short: LEst
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: rm
-version: 2023-09-01
+version: 2023-10-15
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-2007-758-20230901-rm-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20230901/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20231015/rm/xml/fedlex-data-admin-ch-eli-cc-2007-758-20231015-rm-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20231015/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LEI)[^t-1]
 
-dals 16 da december 2005 (versiun dal 1. da settember 2023)
+dals 16 da december 2005 (versiun dals 15 d’october 2023)
 
 [^t-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 2016 (integraziun), en vigur dapi il 1. da schan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -3144,44 +3144,9 @@ En collavuraziun cun il Tribunal administrativ federal e cun las autoritads chan
 
 #### Art. 111
 
-**Sistems d’infurmaziun per documents da viadi**
+[^111-1]
 
-<sup>1</sup> Il SEM maina in sistem d’infurmaziun per emetter documents da viadi svizzers e permissiuns da return per persunas estras (ISR).[^111-1]
-
-<sup>2</sup>
-
-Il ISR cuntegna las suandantas datas:
-
-- a.[^111-2] il num, il prenum, la schlattaina, la data da naschientscha, il lieu da naschientscha, la naziunalitad, l’adressa, la grondezza, ina fotografia da la fatscha, las improntas dals dets, il num ed il prenum dals geniturs, il num dals geniturs avant che maridar, la suttascripziun, il numer dal dossier ed il numer persunal;
-- b. indicaziuns davart la dumonda, sco l’entrada da la dumonda e la decisiun davart la dumonda;
-- c. indicaziuns davart il document da viadi, sco la data d’emissiun e la valaivladad;
-- d. las suttascripziuns ed ils nums dals represchentants legals tar documents da viadi per persunas minorennas u avugadadas;
-- e. il num d’allianza, il num en in urden religius ubain il num d’artist sco er indicaziuns davart caracteristicas spezialas, sco impediments, protesas u implantats, sche la persuna che fa la dumonda pretenda ch’il document da viadi duaja cuntegnair questas indicaziuns;
-- f. indicaziuns davart ils documents da viadi pers.
-
-<sup>3</sup> Per controllar, sche la persuna che fa la dumonda vegn tschertgada pervia d’in crim u d’in delict, vegn fatga automaticamain ina dumonda en il sistem informatisà da retschertga da la polizia RIPOL.[^111-3]
-
-<sup>4</sup> Las datas ch’èn vegnidas registradas sin basa da l’alinea 2 vegnan elavuradas da collavuraturs dal SEM che han l’incumbensa d’emetter documents da viadi svizzers e permissiuns da return.[^111-4]
-
-<sup>5</sup>
-
-Tras ina procedura d’invista po il SEM porscher a las suandantas autoritads u als suandants posts in access a las datas ch’èn vegnidas registradas sin basa da l’alinea 2, sche quels basegnan questas datas per ademplir lur incumbensas:[^111-5]
-
-- a. al post che ha l’incumbensa d’emetter ils documents da viadi;
-- b. als posts da cunfin da las autoritads chantunalas da polizia ed al corp da guardias da cunfin per far la controlla da persunas;
-- c. als posts da polizia che vegnan designads dals chantuns per sclerir l’identitad e per retschaiver annunzias da documents da viadi pers;
-- d.[^111-6] a las autoritads u als posts che vegnan designads dals chantuns per prender encunter dumondas d’emetter documents da viadi;
-- e.[^111-7] a las autoritads u als posts che vegnan designads dals chantuns per registrar il maletg da la fatscha e las improntas dals dets.
-
-<sup>6</sup> Il Cussegl federal decretescha las disposiziuns executivas.
-
-[^111-1]: Versiun tenor l’art. 2 cifra 2 dal COF dals 13 da zer. 2008 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la CE concernent ils passaports ed ils documents da viadi biometrics, en vigur dapi il 1. d’oct. 2011 ([AS 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667), [2011 4033](https://fedlex.data.admin.ch/eli/oc/2011/573); [BBl 2007 5159](https://fedlex.data.admin.ch/eli/fga/2007/731)).
-[^111-2]: Versiun tenor l’art. 2 cifra 2 dal COF dals 13 da zer. 2008 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent ils passaports ed ils documents da viadi biometrics, en vigur dapi il 1. d’oct. 2011 ([AS 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667), [2011 4033](https://fedlex.data.admin.ch/eli/oc/2011/573); [BBl 2007 5159](https://fedlex.data.admin.ch/eli/fga/2007/731)).
-[^111-3]: Versiun tenor la cifra 2 da l’agiunta 1 da la LF dals 13 da zer. 2008 davart ils sistems d’infurmaziun da polizia da la Confederaziun, en vigur dapi ils 5 da dec. 2008 ([AS 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [BBl 2006 5061](https://fedlex.data.admin.ch/eli/fga/2006/611)).
-[^111-4]: Versiun tenor l’art. 2 cifra 2 dal COF dals 13 da zer. 2008 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la CE concernent ils passaports ed ils documents da viadi biometrics, en vigur dapi il 1. d’oct. 2011 ([AS 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667), [2011 4033](https://fedlex.data.admin.ch/eli/oc/2011/573); [BBl 2007 5159](https://fedlex.data.admin.ch/eli/fga/2007/731)).
-[^111-5]: Versiun tenor la cifra I 1 da la LF dals 18 da zer. 2010 davart l’adattaziun da disposiziuns concernent la registraziun da datas en il sectur da la migraziun, en vigur dapi ils 24 da schan. 2011 ([AS 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
-[^111-6]: Integrà tras la cifra I 1 da la LF dals 18 da zer. 2010 davart l’adattaziun da disposiziuns concernent la registraziun da datas en il sectur da la migraziun, en vigur dapi ils 24 da schan. 2011 ([AS 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
-[^111-7]: Integrà tras la cifra I 1 da la LF dals 18 da zer. 2010 davart l’adattaziun da disposiziuns concernent la registraziun da datas en il sectur da la migraziun, en vigur dapi ils 24 da schan. 2011 ([AS 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
+[^111-1]: Abolì tras la cifra I da la LF dals 14 da dec. 2018 (regulaziuns da procedura e sistems d’infurmaziun), cun effect dapi ils 15 d’oct. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 
 ## Chapitel 14*b* Protecziun da datas en il rom da la cunvegna d’associaziun a la reglamentaziun da Schengen
 

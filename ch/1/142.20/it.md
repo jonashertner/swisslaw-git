@@ -4,11 +4,11 @@ title: Legge federale del 16 dicembre 2005 sugli stranieri e la loro integrazion
 short: LStrI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: it
-version: 2023-09-01
+version: 2023-10-15
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2007-758-20230901-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20231015/it/xml/fedlex-data-admin-ch-eli-cc-2007-758-20231015-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20231015/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20230901/it"
 
 (LStrI)[^t-1]
 
-del 16 dicembre 2005 (Stato 1° settembre 2023)
+del 16 dicembre 2005 (Stato 15 ottobre 2023)
 
 [^t-1]: Nuovo testo giusta il n. I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -3146,44 +3146,9 @@ La SEM, in collaborazione con il Tribunale amministrativo federale e le competen
 
 #### Art. 111
 
-**Sistemi d’informazione per documenti di viaggio**
+[^111-1]
 
-<sup>1</sup> La SEM gestisce un sistema d’informazione per il rilascio a stranieri di documenti di viaggio svizzeri e permessi di ritorno (ISR).[^111-1]
-
-<sup>2</sup>
-
-L’ISR contiene i dati seguenti:
-
-- a.[^111-2] cognome, nome, sesso, data e luogo di nascita, cittadinanza, indirizzo, statura, immagine del viso, impronte digitali, cognome e nome dei genitori, cognome dei genitori prima del matrimonio, firma, numero del fascicolo e numero personale;
-- b. dati relativi alla domanda, quali data di presentazione e decisione;
-- c. dati relativi al documento di viaggio, quali data di rilascio e durata di validità;
-- d. firma e nome del rappresentante legale per documenti di viaggio rilasciati a minori o interdetti;
-- e. cognome coniugale, nome religioso o nome d’arte e dati relativi a segni particolari quali disabilità, protesi o impianti, se il richiedente esige che tali dati figurino nel documento di viaggio;
-- f. dati relativi ai documenti di viaggio persi.
-
-<sup>3</sup> Mediante interrogazione automatica nel sistema di ricerca informatizzato di polizia RIPOL si verifica se il richiedente è ricercato per un crimine o un delitto.
-
-<sup>4</sup> I dati registrati in virtù del capoverso 2 sono trattati dai collaboratori della SEM incaricati del rilascio di documenti di viaggio svizzeri e permessi di ritorno.[^111-3]
-
-<sup>5</sup>
-
-La SEM può rendere accessibili i dati registrati in virtù del capoverso 2 alle seguenti autorità o servizi, mediante procedura di richiamo, sempreché tali autorità o servizi ne abbisognino per l’adempimento dei loro compiti:[^111-4]
-
-- a.[^111-5] il servizio incaricato dell’allestimento dei documenti di viaggio;
-- b. i posti di confine delle autorità cantonali di polizia e il Corpo delle guardie di confine, per l’esecuzione del controllo delle persone;
-- c. i posti di polizia designati dai Cantoni, per l’identificazione delle persone e per la ricezione di notificazioni concernenti documenti di viaggio smarriti;
-- d.[^111-6] le autorità o i servizi designati dai Cantoni, per la ricezione delle domande di rilascio di documenti di viaggio;
-- e.[^111-7] le autorità o i servizi designati dai Cantoni, per la registrazione dell’immagine del viso e delle impronte digitali.
-
-<sup>6</sup> Il Consiglio federale emana le disposizioni d’esecuzione.
-
-[^111-1]: Nuovo testo giusta l’art. 2 n. 2 del DF del 13 giu. 2008 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la Comunità europea concernente il recepimento del regolamento (CE) n. 2252/2004 sui passaporti e i documenti di viaggio biometrici, in vigore dal 1° ott. 2011 ([RU 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667), [2011 4033](https://fedlex.data.admin.ch/eli/oc/2011/573); [FF 2007 4731](https://fedlex.data.admin.ch/eli/fga/2007/731)).
-[^111-2]: Nuovo testo giusta l’art. 2 n. 2 del DF del 13 giu. 2008 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la Comunità europea concernente il recepimento del regolamento (CE) n. 2252/2004 sui passaporti e i documenti di viaggio biometrici, in vigore dal 1° ott. 2011 ([RU 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667), [2011 4033](https://fedlex.data.admin.ch/eli/oc/2011/573); [FF 2007 4731](https://fedlex.data.admin.ch/eli/fga/2007/731)).
-[^111-3]: Nuovo testo giusta l’art. 2 n. 2 del DF del 13 giu. 2008 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la Comunità europea concernente il recepimento del regolamento (CE) n. 2252/2004 sui passaporti e i documenti di viaggio biometrici, in vigore dal 1° ott. 2011 ([RU 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667), [2011 4033](https://fedlex.data.admin.ch/eli/oc/2011/573); [FF 2007 4731](https://fedlex.data.admin.ch/eli/fga/2007/731)).
-[^111-4]: Nuovo testo giusta l’art. 2 n. 2 del DF del 13 giu. 2008 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la Comunità europea concernente il recepimento del regolamento (CE) n. 2252/2004 sui passaporti e i documenti di viaggio biometrici, in vigore dal 1° ott. 2011 ([RU 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667), [2011 4033](https://fedlex.data.admin.ch/eli/oc/2011/573); [FF 2007 4731](https://fedlex.data.admin.ch/eli/fga/2007/731)).
-[^111-5]: Nuovo testo giusta l’art. 2 n. 2 del DF del 13 giu. 2008 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la Comunità europea concernente il recepimento del regolamento (CE) n. 2252/2004 sui passaporti e i documenti di viaggio biometrici, in vigore dal 1° ott. 2011 ([RU 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667), [2011 4033](https://fedlex.data.admin.ch/eli/oc/2011/573); [FF 2007 4731](https://fedlex.data.admin.ch/eli/fga/2007/731)).
-[^111-6]: Introdotta dal n. I 1 della LF del 18 giu. 2010 che adegua disposizioni concernenti la registrazione di dati nel settore della migrazione, in vigore dal 24 gen. 2011 ([RU 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [FF 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
-[^111-7]: Introdotta dal n. I 1 della LF del 18 giu. 2010 che adegua disposizioni concernenti la registrazione di dati nel settore della migrazione, in vigore dal 24 gen. 2011 ([RU 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [FF 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
+[^111-1]: Abrogato dal n. I della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), con effetto dal 15 ott. 2023 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 
 ## Capitolo 14*b*: Protezione dei dati nell’ambito degli Accordi di associazione alla normativa di Schengen
 
@@ -3290,7 +3255,7 @@ Il diritto d’accesso è retto dalle disposizioni federali o cantonali in mater
 
 <sup>2</sup> L’IFPDT esercita la vigilanza sul trattamento dei dati personali nell’ambito della cooperazione Schengen. Coordina l’attività di vigilanza con le autorità cantonali di protezione dei dati.
 
-³ Per l’esecuzione dei suoi compiti coopera con il Responsabile europeo della protezione dei dati, per il quale funge da autorità nazionale di vigilanza.
+<sup>3</sup> Per l’esecuzione dei suoi compiti coopera con il Responsabile europeo della protezione dei dati, per il quale funge da autorità nazionale di vigilanza.
 
 [^111g-1]: Nuovo testo giusta l’all. 1 n. 1 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 22 nov. 2022 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 

@@ -4,11 +4,11 @@ title: "Loi fédérale du 16 décembre 2005 sur les étrangers et l'intégration
 short: LEI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: fr
-version: 2023-09-01
+version: 2023-10-15
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2007-758-20230901-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20231015/fr/xml/fedlex-data-admin-ch-eli-cc-2007-758-20231015-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20231015/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20230901/fr"
 
 (LEI)[^t-2][^t-1]
 
-du 16 décembre 2005 (État le 1<sup>er</sup> septembre 2023)
+du 16 décembre 2005 (État le 15 octobre 2023)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 [^t-2]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
@@ -2298,8 +2298,8 @@ Le Conseil fédéral détermine les données à communiquer aux autorités en ve
 - d<sup>ter</sup>.[^97-3] versement de prestations complémentaires au sens de la LPC[^97-4];
 - d<sup>quater</sup>.[^97-5] application de mesures disciplinaires requises par les autorités scolaires;
 - d<sup>quinquies</sup>.[^97-6] application de mesures prises par les autorités de protection de l’enfance et de l’adulte;
-- e.[^97-7] d’autres décisions indiquant l’existence de besoins d’intégration particuliers conformément aux critères définis à l’art. 58*a*.[^97-8]
-- f.[^97-9] …
+- e.[^97-7] d’autres décisions indiquant l’existence de besoins d’intégration particuliers conformément aux critères définis à l’art. 58*a*;
+- f.[^97-8] …[^97-9]
 
 <sup>4</sup> Lorsqu’une des autorités visées à l’al. 1 reçoit, en application de l’art. 26*a* LPC, des données concernant le versement d’une prestation complémentaire, elle communique spontanément la non-prolongation ou la révocation éventuelles de l’autorisation de séjour à l’organe chargé de fixer et de verser la prestation complémentaire.[^97-10]
 
@@ -2310,8 +2310,8 @@ Le Conseil fédéral détermine les données à communiquer aux autorités en ve
 [^97-5]: Introduite par le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 [^97-6]: Introduite par le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 [^97-7]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^97-8]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^97-9]: Introduite par le ch. I de la LF du 16 déc. 2016 (Gestion de l’immigration et amélioration de la mise en oeuvre des accords sur la libre circulation des personnes ([RO 2018 733](https://fedlex.data.admin.ch/eli/oc/2018/93); [FF 2016 2835](https://fedlex.data.admin.ch/eli/fga/2016/574)). Abrogé par le ch. III 1 de la LF du 16 déc. 2016 (Intégration), avec effet au 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^97-8]: Introduite par le ch. I de la LF du 16 déc. 2016 (Gestion de l’immigration et amélioration de la mise en oeuvre des accords sur la libre circulation des personnes ([RO 2018 733](https://fedlex.data.admin.ch/eli/oc/2018/93); [FF 2016 2835](https://fedlex.data.admin.ch/eli/fga/2016/574)). Abrogé par le ch. III 1 de la LF du 16 déc. 2016 (Intégration), avec effet au 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^97-9]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^97-10]: Introduit par le ch. I de la LF du 16 déc. 2016 (Gestion de l’immigration et amélioration de la mise en oeuvre des accords sur la libre circulation des personnes), en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 733](https://fedlex.data.admin.ch/eli/oc/2018/93); [FF 2016 2835](https://fedlex.data.admin.ch/eli/fga/2016/574)).
 
 #### Art. 98
@@ -3148,44 +3148,9 @@ Le SEM exploite, en collaboration avec le Tribunal administratif fédéral et le
 
 #### Art. 111
 
-**Systèmes d’information sur les documents de voyage**
+[^111-1]
 
-<sup>1</sup> Le SEM exploite un système d’information en vue de l’établissement des documents de voyage suisses et des autorisations de retour pour étrangers (ISR).[^111-1]
-
-<sup>2</sup>
-
-Ce système contient les données suivantes:[^111-2]
-
-- a.[^111-3] nom, prénoms, sexe, date et lieu de naissance, nationalité, adresse, taille, photographie, empreintes digitales, noms – de naissance et d’alliance – et prénoms des parents, signature, numéro du dossier et numéro personnel;
-- b. les données relatives à la demande, telles que la date du dépôt et la décision;
-- c. les données relatives au document de voyage, telles que la date d’établissement et la durée de validité;
-- d. la signature et le nom du représentant légal lorsque la demande concerne un étranger mineur ou interdit;
-- e. les noms d’alliance, les noms reçus dans les ordres religieux ou les noms d’artiste, ainsi que les signes particuliers tels que des handicaps, des prothèses ou des implants, si la personne demande que ces informations figurent sur le document de voyage;
-- f. les données relatives aux documents perdus.
-
-<sup>3</sup> Pour vérifier si l’étranger fait l’objet d’un signalement en raison d’un crime ou d’un délit, une recherche est automatiquement lancée dans le système RIPOL.
-
-<sup>4</sup> Les collaborateurs du SEM chargés d’établir les documents de voyage suisses et les autorisations de retour traitent les données saisies en vertu de l’al. 2.[^111-4]
-
-<sup>5</sup>
-
-Dans la mesure où l’accomplissement de leurs tâches l’exige, le SEM peut accorder aux autorités et aux services mentionnés ci-après l’accès en ligne aux données saisies en vertu de l’al. 2:
-
-- a. le centre chargé de produire les documents de voyage;
-- b. les postes-frontière des autorités cantonales de police et le Corps des gardes-frontière, pour le contrôle des personnes;
-- c. les services de police désignés par les cantons, pour les vérifications d’identité et l’enregistrement des déclarations de perte de documents de voyage.[^111-5]
-- d.[^111-6] les autorités ou les services désignés par les cantons, afin de réceptionner les demandes d’établissement de documents de voyage;
-- e.[^111-7] les autorités ou les services désignés par les cantons, afin de prendre une photographie et de relever les empreintes digitales des étrangers.
-
-<sup>6</sup> Le Conseil fédéral édicte les dispositions d’exécution.
-
-[^111-1]: Nouvelle teneur selon l’art. 2 ch. 2 de l’AF du 13 juin 2008 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise du R (CE) n<sup>o</sup> 2252/2004 relatif aux passeports biométriques et aux documents de voyage, en vigueur depuis le 1<sup>er</sup> oct. 2011 ([RO 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667), [2011 4033](https://fedlex.data.admin.ch/eli/oc/2011/573); [FF 2007 4893](https://fedlex.data.admin.ch/eli/fga/2007/731)).
-[^111-2]: Nouvelle teneur selon l’art. 2 ch. 2 de l’AF du 13 juin 2008 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise du R (CE) n<sup>o</sup> 2252/2004 relatif aux passeports biométriques et aux documents de voyage, en vigueur depuis le 1<sup>er</sup> oct. 2011 ([RO 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667), [2011 4033](https://fedlex.data.admin.ch/eli/oc/2011/573); [FF 2007 4893](https://fedlex.data.admin.ch/eli/fga/2007/731)).
-[^111-3]: Nouvelle teneur selon l’art. 2 ch. 2 de l’AF du 13 juin 2008 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise du R (CE) n<sup>o</sup> 2252/2004 relatif aux passeports biométriques et aux documents de voyage, en vigueur depuis le 1<sup>er</sup> oct. 2011 ([RO 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667), [2011 4033](https://fedlex.data.admin.ch/eli/oc/2011/573); [FF 2007 4893](https://fedlex.data.admin.ch/eli/fga/2007/731)).
-[^111-4]: Nouvelle teneur selon l’art. 2 ch. 2 de l’AF du 13 juin 2008 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise du R (CE) n<sup>o</sup> 2252/2004 relatif aux passeports biométriques et aux documents de voyage, en vigueur depuis le 1<sup>er</sup> oct. 2011 ([RO 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667), [2011 4033](https://fedlex.data.admin.ch/eli/oc/2011/573); [FF 2007 4893](https://fedlex.data.admin.ch/eli/fga/2007/731)).
-[^111-5]: Nouvelle teneur selon l’art. 2 ch. 2 de l’AF du 13 juin 2008 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise du R (CE) n<sup>o</sup> 2252/2004 relatif aux passeports biométriques et aux documents de voyage, en vigueur depuis le 1<sup>er</sup> oct. 2011 ([RO 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667), [2011 4033](https://fedlex.data.admin.ch/eli/oc/2011/573); [FF 2007 4893](https://fedlex.data.admin.ch/eli/fga/2007/731)).
-[^111-6]: Nouvelle teneur selon le ch. I 1 de la LF du 18 juin 2010 (Saisie de données dans le domaine migratoire), en vigueur depuis le 24 janv. 2011 ([RO 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [FF 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
-[^111-7]: Nouvelle teneur selon le ch. I 1 de la LF du 18 juin 2010 (Saisie de données dans le domaine migratoire), en vigueur depuis le 24 janv. 2011 ([RO 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [FF 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
+[^111-1]: Abrogé par le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), avec effet au 15 oct. 2023 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 
 ## Chapitre 14*b* Protection des données dans le cadre des accords d’association à Schengen
 

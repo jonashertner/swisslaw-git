@@ -4,11 +4,11 @@ title: Federal Act of 16 December 2005 on Foreign Nationals (FNA)
 short: FNA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: en
-version: 2023-09-01
+version: 2023-10-15
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2007-758-20230901-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20231015/en/xml/fedlex-data-admin-ch-eli-cc-2007-758-20231015-en-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20231015/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Foreign Nationals and Integration Act, FNIA)[^t-1]
 
-of 16 December 2005 (Status as of 1 September 2023)
+of 16 December 2005 (Status as of 15 October 2023)
 
 [^t-1]: Amended by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -3140,44 +3140,9 @@ SEM in cooperation with the Federal Administrative Court and the competent canto
 
 #### Art. 111
 
-**Information systems for travel documents**
+[^111-1]
 
-<sup>1</sup> SEM shall maintain an information system for the issue of Swiss travel documents and return visas to foreign nationals (the ISR) in accordance with Article 59.[^111-1]
-
-<sup>2</sup>
-
-The ISR shall contain the following data:
-
-- a.[^111-2] the surname, first name, sex, date of birth, place of birth, nationality, address, height, facial image, name and first name of parents, surnames of parents at birth, signature, file number and personal number;
-- b. information on the application, such as the date of receipt of application and decision on the application;
-- c. information on the travel document, such as the date of issue and term of validity;
-- d. the signatures and names of the statutory representative in the case of travel documents issued to minors or incapacitated persons;
-- e. combined surnames, religious names or pseudonyms as well as information on special characteristics such as disabilities, prostheses or implants provided the applicant requests that the travel document contain this information;
-- f. information on lost travel documents.
-
-<sup>3</sup> To check whether an alert has been issued in respect of the applicant due to a felony or a misdemeanour, the RIPOL computerised search system automatically conducts a search.[^111-3]
-
-<sup>4</sup> The data collected in accordance with paragraph 2 shall be processed by employees of SEM who deal with issuing Swiss travel documents and return visas.[^111-4]
-
-<sup>5</sup>
-
-SEM may make the data that it has collected in accordance with paragraph 2 accessible to the following authorities or offices through a retrieval process, insofar as they need the data for the fulfilment of their duties:[^111-5]
-
-- a. the office responsible for issuing travel documents;
-- b. the border posts of the cantonal police authorities and the Border Guard, in order to carry out checks on persons;
-- c. the police stations designated by the cantons to carry out checks on persons and to record reports of lost travel documents;
-- d.[^111-6] the authorities or agencies appointed by the cantons to accept applications for the issue of travel documents;
-- e.[^111-7] the authorities or agencies appointed by the cantons to take portrait photographs or fingerprints
-
-<sup>6</sup> The Federal Council shall issue the implementing provisions.
-
-[^111-1]: Amended by Art. 2 No 2 of the FD of 13 June 2008 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on Biometric Passports and Travel Documents, in force since 1 Oct. 2011 ([AS 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667), [2011 4033](https://fedlex.data.admin.ch/eli/oc/2011/573); [BBl 2007 5159](https://fedlex.data.admin.ch/eli/fga/2007/731)).
-[^111-2]: Amended by Art. 2 No 2 of the FD of 13 June 2008 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on Biometric Passports and Travel Documents, in force since 1 Oct. 2011 ([AS 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667), [2011 4033](https://fedlex.data.admin.ch/eli/oc/2011/573); [BBl 2007 5159](https://fedlex.data.admin.ch/eli/fga/2007/731)).
-[^111-3]: Amended by Annex 1 No 2 of the FA of 13 June 2008 on the Federal Police Information Systems, in force since 5 Dec. 2008 ([AS 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [BBl 2006 5061](https://fedlex.data.admin.ch/eli/fga/2006/611)).
-[^111-4]: Amended by Art. 2 No 2 of the FD of 13 June 2008 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on Biometric Passports and Travel Documents, in force since 1 Oct. 2011 ([AS 2009 5521](https://fedlex.data.admin.ch/eli/oc/2009/667), [2011 4033](https://fedlex.data.admin.ch/eli/oc/2011/573); [BBl 2007 5159](https://fedlex.data.admin.ch/eli/fga/2007/731)).
-[^111-5]: Amended by No I 1 of the FA of 18 June 2010 on the amendment of provisions on the recording of data in relation to migration, in force since 24 Jan. 2011 ([AS 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
-[^111-6]: Inserted by No I 1 of the FA of 18 June 2010 on the amendment of provisions on the recording of data in relation to migration, in force since 24 Jan. 2011 ([AS 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
-[^111-7]: Inserted by No I 1 of the FA of 18 June 2010 on the amendment of provisions on the recording of data in relation to migration, in force since 24 Jan. 2011 ([AS 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
+[^111-1]: Repealed by No I of the FA of 14 Dec. 2018 (Procedural Regulations and Information Systems), with effect from 15 Oct. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 
 ## Chapter 14*b* Data Protection under the Schengen Association Agreement
 
