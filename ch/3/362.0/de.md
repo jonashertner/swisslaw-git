@@ -3,11 +3,11 @@ sr: "362.0"
 title: Verordnung vom 8. März 2013 über den nationalen Teil des Schengener Informationssystems (N-SIS) und das SIRENE-Büro (N-SIS-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/179"
 language: de
-version: 2023-09-01
+version: 2023-10-15
 adopted: 2013-03-08
 in_force: 2013-04-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2013-179-20230901-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20231015/de/xml/fedlex-data-admin-ch-eli-cc-2013-179-20231015-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20231015/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20230901/de"
 
 (N-SIS-Verordnung)
 
-vom 8. März 2013 (Stand am 1. September 2023)
+vom 8. März 2013 (Stand am 15. Oktober 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -716,12 +716,12 @@ Sachausschreibungen werden durch das RIPOL automatisch im SIS ausgeschrieben, we
 
 - a.[^17-1] über das Informationssystem Verkehrszulassung (IVZ) nach den Artikeln 89*a*–89*h* des Strassenverkehrsgesetzes vom 19. Dezember 1958[^17-2];
 - b. über das Informationssystem Ausweisschriften (ISA) nach Artikel 11 des Ausweisgesetzes vom 22. Juni 2001[^17-3];
-- c. über das Informationssystem für Reisepapiere (ISR) nach Artikel 111 AIG[^17-4].
+- c.[^17-4] ...
 
 [^17-1]: Fassung gemäss Anhang 4 Ziff. II 3 der V vom 30. Nov. 2018 über das Informationssystem Verkehrszulassung, in Kraft seit 1. Jan. 2019 ([AS 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 [^17-2]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
 [^17-3]: [SR 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
-[^17-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^17-4]: Aufgehoben durch Anhang Ziff. 3 der V vom 15. Sept. 2023, mit Wirkung seit 15. Okt. 2023 ([AS 2023 552](https://fedlex.data.admin.ch/eli/oc/2023/552)).
 
 #### Art. 18
 

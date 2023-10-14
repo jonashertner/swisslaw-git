@@ -3,11 +3,11 @@ sr: "362.0"
 title: "Ordinanza dell' 8 marzo 2013 sulla parte nazionale del Sistema d'informazione di Schengen (N-SIS) e sull'ufficio SIRENE (Ordinanza N-SIS)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/179"
 language: it
-version: 2023-09-01
+version: 2023-10-15
 adopted: 2013-03-08
 in_force: 2013-04-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2013-179-20230901-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20231015/it/xml/fedlex-data-admin-ch-eli-cc-2013-179-20231015-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20231015/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20230901/it"
 
 (Ordinanza N-SIS)
 
-dell’8 marzo 2013 (Stato 1° settembre 2023)
+dell’8 marzo 2013 (Stato 15 ottobre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -728,12 +728,12 @@ RIPOL diffonde automaticamente nel SIS le segnalazioni di oggetti che sono state
 
 - a.[^17-1] il sistema d’informazione sull’ammissione alla circolazione (SIAC) di cui agli articoli 89*a*-89*h* della legge federale del 19 dicembre 1958[^17-2] sulla circolazione stradale;
 - b. il sistema d’informazione sui documenti d’identità (ISA) di cui all’articolo 11 della legge del 22 giugno 2001[^17-3] sui documenti d’identità;
-- c. il sistema d’informazione per documenti di viaggio (ISR) di cui all’articolo 111 LStrI[^17-4].
+- c.[^17-4] ...
 
 [^17-1]: Nuovo testo giusta l’all. 4 n. II 3 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 [^17-2]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
 [^17-3]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
-[^17-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^17-4]: Abrogata dall’all. n. 3 dell’O del 15 set. 2023, con effetto dal 15 ott. 2023 (RU **202****3** 552).
 
 #### Art. 18
 

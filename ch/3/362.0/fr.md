@@ -3,11 +3,11 @@ sr: "362.0"
 title: "Ordonnance du 8 mars 2013 sur la partie nationale du Système d'information Schengen (N-SIS) et sur le bureau SIRENE (Ordonnance N-SIS)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/179"
 language: fr
-version: 2023-09-01
+version: 2023-10-15
 adopted: 2013-03-08
 in_force: 2013-04-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2013-179-20230901-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20231015/fr/xml/fedlex-data-admin-ch-eli-cc-2013-179-20231015-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20231015/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20230901/fr"
 
 (Ordonnance N-SIS)
 
-du 8 mars 2013 (État le 1<sup>er</sup> septembre 2023)
+du 8 mars 2013 (État le 15 octobre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -722,12 +722,12 @@ Le RIPOL émet automatiquement dans le SIS les signalements d’objets qui ont �
 
 - a.[^17-1] le système d’information relatif à l’admission à la circulation (SIAC) au sens des art. 89*a* à 89*h* de la loi fédérale du 19 décembre 1958 sur la circulation routière[^17-2];
 - b. le système d’information relatif aux documents d’identité (ISA) au sens de l’art. 11 de la loi du 22 juin 2001 sur les documents d’identité[^17-3];
-- c. le système d’information sur les documents de voyage (ISR) au sens de l’art. 111 LEI[^17-4].
+- c.[^17-4] …
 
 [^17-1]: Nouvelle teneur selon l’annexe 4 ch. II 3 de l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 [^17-2]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
 [^17-3]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
-[^17-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^17-4]: Abrogée par l’annexe ch. 3 de l’O du 15 sept. 2023, avec effet au 15 oct. 2023 ([RO 2023 552](https://fedlex.data.admin.ch/eli/oc/2023/552)).
 
 #### Art. 18
 
