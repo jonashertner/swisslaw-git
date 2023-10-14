@@ -4,11 +4,11 @@ title: Verordnung vom 14. November 2012 über die Ausstellung von Reisedokumente
 short: RDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/713"
 language: de
-version: 2023-09-01
+version: 2023-10-15
 adopted: 2012-11-14
 in_force: 2012-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/713/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2012-713-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/713/20231015/de/xml/fedlex-data-admin-ch-eli-cc-2012-713-20231015-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20231015/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20230901/de"
 
 (RDV)
 
-vom 14. November 2012 (Stand am 1. September 2023)
+vom 14. November 2012 (Stand am 15. Oktober 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -263,11 +263,12 @@ Als schriftenlos im Sinne dieser Verordnung gilt eine ausländische Person, die 
 
 Die Reisedokumente sind gültig:
 
-- a. Reiseausweis für Flüchtlinge: fünf Jahre;
-- b. Pass für eine ausländische Person für Personen nach Artikel 4 Absätze 1 und 2 Buchstabe a: fünf Jahre;
+- a.[^13-1] Reiseausweis für Flüchtlinge und Pass für eine ausländische Person für Personen nach Artikel 4 Absatz 1, wenn die betroffenen Personen im Zeitpunkt der Gesuchseinreichung das 18. Lebensjahr zurückgelegt haben: zehn Jahre;
+- b.[^13-2] Reiseausweis für Flüchtlinge und Pass für eine ausländische Person für Per-sonen nach Artikel 4 Absatz 1, wenn die betroffenen Personen im Zeitpunkt der Gesuchseinreichung das 18. Lebensjahr nicht zurückgelegt haben: fünf Jahre;
+- b<sup>bis</sup>.[^13-3] Pass für eine ausländische Person für Personen nach Artikel 4 Absatz 2 Buchstabe a: fünf Jahre;
 - c. Pass für eine ausländische Person für Personen nach Artikel 4 Absatz 2 Buchstabe b: zehn Monate; dieser Pass verliert seine Gültigkeit nach Abschluss der erlaubten Reise nach Artikel 9;
 - d. Pass für eine ausländische Person für Personen nach Artikel 4 Absatz 2 Buchstabe c: dieser Pass verliert seine Gültigkeit nach erfolgter Einreise in den Zielstaat;
-- e. Reiseersatzdokument: für eine einmalige Aus-, Rück- oder Einreise.[^13-1]
+- e. Reiseersatzdokument: für eine einmalige Aus-, Rück- oder Einreise.[^13-4]
 
 <sup>2</sup> Das Rückreisevisum wird für die Gültigkeitsdauer von höchstens zehn Monaten ausgestellt.
 
@@ -275,10 +276,13 @@ Die Reisedokumente sind gültig:
 
 <sup>4</sup> Die Gültigkeitsdauer eines Reisedokuments kann nicht verlängert werden.
 
-<sup>5</sup> …[^13-2]
+<sup>5</sup> …[^13-5]
 
-[^13-1]: Fassung gemäss Ziff. I der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
-[^13-2]: Aufgehoben durch Ziff. I der V vom 15. Aug. 2018, mit Wirkung seit 15. Sept. 2018 ([AS 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
+[^13-1]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Okt. 2023 ([AS 2023 248](https://fedlex.data.admin.ch/eli/oc/2023/248)).
+[^13-2]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Okt. 2023 ([AS 2023 248](https://fedlex.data.admin.ch/eli/oc/2023/248)).
+[^13-3]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Okt. 2023 ([AS 2023 248](https://fedlex.data.admin.ch/eli/oc/2023/248)).
+[^13-4]: Fassung gemäss Ziff. I der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
+[^13-5]: Aufgehoben durch Ziff. I der V vom 15. Aug. 2018, mit Wirkung seit 15. Sept. 2018 ([AS 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
 
 #### Art. 14
 
@@ -288,7 +292,7 @@ Die Reisedokumente sind gültig:
 
 <sup>2</sup> Das Gesuch ist wenn möglich sechs Wochen vor Ablauf der Gültigkeitsdauer des alten Dokuments beziehungsweise vor Antritt der beabsichtigten Reise einzureichen.
 
-<sup>3</sup> Die zuständige kantonale Behörde erfasst das Gesuch in der Datenbank des Informationssystems zur Ausstellung von schweizerischen Reisedokumenten und von Bewilligungen zur Wiedereinreise an Ausländerinnen und Ausländer (ISR). Sie übernimmt zu diesem Zweck aus der Datenbank ZEMIS die persönlichen Daten der gesuchstellenden Person nach Artikel 111 Absatz 2 Buchstabe a AIG mit Ausnahme der Fotografie und der Fingerabdrücke. Sie leitet das Gesuch, die erhobenen Daten und allfällige Gesuchsunterlagen an das SEM weiter.
+<sup>3</sup> Die zuständige kantonale Behörde erfasst das Gesuch im Zentralen Migrationsinformationssystem (ZEMIS) und leitet es an das SEM weiter.[^14-1]
 
 <sup>4</sup> Die gesuchstellende Person oder die gesetzliche Vertretung einer minderjährigen oder entmündigten ausländischen Person hat mit ihrer Unterschrift die Richtigkeit der Angaben zu bestätigen.
 
@@ -299,6 +303,8 @@ Die Reisedokumente sind gültig:
 <sup>7</sup> Die Ausfertigungsstelle stellt das Reisedokument direkt an die von der gesuchstellenden Person angegebene Zustelladresse zu. Nicht zustellbare oder nicht abgeholte Reisedokumente werden dem SEM übergeben. Dieses bewahrt sie zwölf Monate ab Ausstellungsdatum auf und vernichtet sie anschliessend.
 
 <sup>8</sup> Der Kanton wird für den Aufwand, der ihm bei der biometrischen Erfassung entstanden ist, entschädigt.
+
+[^14-1]: Fassung gemäss Ziff. I der V vom 15. Sept. 2023, in Kraft seit 15. Okt. 2023 ([AS 2023 552](https://fedlex.data.admin.ch/eli/oc/2023/552)).
 
 #### Art. 15
 
@@ -373,7 +379,7 @@ Das SEM verweigert die Ausstellung eines Reisedokuments oder eines Rückreisevis
 
 <sup>2</sup> Geht aus einem Gutachten oder aus einem Gerichtsurteil hervor, dass die ausländische Person ihr altes Reisedokument gefälscht, verfälscht oder Unberechtigten zum Gebrauch überlassen hat, so verweigert das SEM die Ausstellung eines neuen Reisedokuments oder eines neuen Rückreisevisums während höchstens zwei Jahren.
 
-[^19-1]: Eingefügt durch Ziff. I 8 der V vom 1. Febr. 2017 über die Einführung der Lan-desverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^19-1]: Eingefügt durch Ziff. I 8 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 
 #### Art. 20
 
@@ -459,41 +465,11 @@ Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmung
 
 [^27-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
-#### Art. 28
+#### Art. 28–30
 
-**Informationssysteme für Reisedokumente[^28-1]**
+[^2830-1]
 
-Die Berechtigung zur Abfrage und zur Bearbeitung von Daten des ISR nach Artikel 111 AIG sind im Anhang 1 geregelt.
-
-[^28-1]: Fassung gemäss Ziff. I 8 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-
-#### Art. 29
-
-**Archivierung der Daten**
-
-<sup>1</sup> Nicht mehr ständig benötigte Daten werden dem Schweizerischen Bundesarchiv zur Archivierung angeboten. Die vom Bundesarchiv als nicht archivwürdig bewerteten Daten werden vom SEM gelöscht.
-
-<sup>2</sup> Die im ISR gespeicherten Daten zu einem Ausweis werden 20 Jahre nach ihrer ersten Speicherung vernichtet, soweit sie nicht im Bundesarchiv aufzubewahren sind. Über die Archivwürdigkeit der Personendaten entscheidet das Bundesarchiv.
-
-#### Art. 30
-
-**Datenschutz**
-
-<sup>1</sup> Jede ausländische Person kann beim SEM in der Form nach Artikel 16 der Datenschutzverordnung vom 31. August 2022[^30-1] Auskunft verlangen, ob Daten über sie im ISR bearbeitet werden.[^30-2]
-
-<sup>2</sup> Die Auskunft erfolgt schriftlich und ist kostenlos. Sie enthält sämtliche im ISR gespeicherten Daten über die Auskunft verlangende Person.
-
-<sup>3</sup> Für die Verweigerung, die Einschränkung oder das Aufschieben der Auskunft gilt Artikel 26 des Datenschutzgesetzes vom 25. September 2020[^30-3] (DSG).[^30-4]
-
-<sup>4</sup> Jede Person kann verlangen, dass unrichtige Daten über sie berichtigt werden.
-
-<sup>5</sup> Weitere Ansprüche der Betroffenen richten sich nach Artikel 41 DSG.[^30-5]
-
-[^30-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^30-2]: Fassung gemäss Anhang 2 Ziff. II 10 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^30-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^30-4]: Fassung gemäss Anhang 2 Ziff. II 10 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^30-5]: Fassung gemäss Anhang 2 Ziff. II 10 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^2830-1]: Aufgehoben durch Ziff. I der V vom 15. Sept. 2023, mit Wirkung seit 15. Okt. 2023 ([AS 2023 552](https://fedlex.data.admin.ch/eli/oc/2023/552)).
 
 #### Art. 31
 
@@ -519,77 +495,7 @@ Diese Verordnung tritt am 1. Dezember 2012 in Kraft.
 
 Anhang 1[^t-1]
 
-(Art. 28)
-
-## Berechtigung zur Abfrage und Bearbeitung von im ISR gespeicherten Daten
-
-[^t-1]: Fassung gemäss Ziff. I der V vom 2. Dez. 2022, in Kraft seit 1. Febr. 2023 ([AS 2022 785](https://fedlex.data.admin.ch/eli/oc/2022/785)).
-
-Die nachfolgend aufgeführten Daten werden unterteilt in Daten, welche auf dem Reisedokument und in der Datenbank ersichtlich sind (I. Reisedokumentdaten), und solche, welche nur in der Datenbank einsehbar sind (II. Zusatzdaten in Datenbank).
-
-A = Abfrage; B = Bearbeitung und Abfrage
-
-<table>
-<tr><th>Datenfeldname</th><th colspan="3">Bund</th><th colspan="2"></th><th></th><th colspan="2"></th><th></th><th colspan="2"></th><th></th><th></th><th colspan="3">Kanton und Gemeinde</th></tr>
-<tr><th></th><th>fedpol</th><th>SEM Admin</th><th colspan="2">SEM User</th><th colspan="3">SEM Leser</th><th colspan="3">BBL</th><th colspan="3">GWK</th><th>Ausländerbehörden</th><th>Passämter</th><th>Polizeistellen</th></tr>
-<tr><td>Datensatz Reisedokumente + Datenbank</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td><td colspan="3"></td><td></td><td></td><td></td></tr>
-<tr><td>I. Reisedokumentdaten</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td><td colspan="3"></td><td></td><td></td><td></td></tr>
-<tr><td>Reisedokumentart (Art. 3 und 4 RDV)</td><td>A</td><td>B</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Name(n) (Art. 111 Abs. 2 Bst. a AIG)</td><td>A</td><td>B</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Vorname(n) (Art. 111 Abs. 2 Bst. a AIG)</td><td>A</td><td>B</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Geschlecht (Art. 111 Abs. 2 Bst. a AIG)</td><td>A</td><td>B</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Geburtsdatum (Art. 111 Abs. 2 Bst. a AIG)</td><td>A</td><td>B</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Geburtsort (Art. 111 Abs. 2 Bst. a AIG)</td><td>A</td><td>B</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Staatsangehörigkeit oder Staatenlosigkeit (Art. 111 Abs. 2 Bst. a AIG)</td><td>A</td><td>B</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Grösse (Art. 111 Abs. 2 Bst. a AIG)</td><td>A</td><td>B</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Fotografie (Art. 111 Abs. 2 Bst. a AIG)</td><td>A</td><td>B</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td>B</td><td>B</td><td>A</td></tr>
-<tr><td>Fingerabdrücke (Art. 111 Abs. 2 Bst. a AIG)</td><td></td><td>B</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td>B</td><td>B</td><td></td></tr>
-<tr><td>Personennummer (Art. 111 Abs. 2 Bst. a AIG)</td><td>A</td><td>B</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Ausstellungsdatum (Art. 111 Abs. 2 Bst. c AIG)</td><td>A</td><td>B</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="3">B</td><td colspan="3">A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Gültigkeitsdauer (Art. 111 Abs. 2 Bst. c AIG)</td><td>A</td><td>B</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Ländercode (Art. 111 Abs. 2 Bst. c AIG)</td><td>A</td><td>B</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Reisedokumentnummer (Art. 111 Abs. 2 Bst. c AIG)</td><td>A</td><td>B</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="3">B</td><td colspan="3">A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Ausstellende Behörde (Art. 111 Abs. 2 Bst. c AIG)</td><td>A</td><td>B</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Gesetzliche Vertretung von minderjährigen oder entmündigten ausländischen Personen (Art. 111 Abs. 2 Bst. d AIG)</td><td>A</td><td>B</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Von der antragstellenden Person verlangte Eintragungen (Art. 111 Abs. 2 Bst. e AIG)</td><td>A</td><td>B</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Reisedauer (Art. 111 Abs. 2 Bst. c AIG und Art. 4 Abs. 4 RDV)</td><td>A</td><td>B</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Aufenthaltsrechtlicher Status (Art. 111 Abs. 2 Bst. c AIG und Art. 4 Abs. 4 RDV)</td><td>A</td><td>B</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Reisegrund (Art. 111 Abs. 2 Bst. c AIG und Art. 4 Abs. 4 RDV)</td><td>A</td><td>B</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td>B</td><td>B</td><td>A</td></tr>
-<tr><td>Reiseziel (Art. 111 Abs. 2 Bst. c AIG und Art. 4 Abs. 4 RDV)</td><td>A</td><td>B</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td>B</td><td>B</td><td>A</td></tr>
-<tr><td>II. Zusatzdaten in Datenbank</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td><td colspan="3"></td><td></td><td></td><td></td></tr>
-<tr><td>Angaben zum Verlust eines Reisedokumentes (Art. 111 Abs. 2 Bst. f AIG und Art. 20 Abs. 1 RDV)</td><td>A</td><td>B</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Angaben zu einer Ausschreibung oder der Revozierung einer Ausschreibung eines Reisedokumentes im RIPOL (Art. 111 Abs. 2 Bst. f AIG und Art. 20 Abs. 5 RDV)</td><td>A</td><td>B</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Entzug (Art. 22 RDV)</td><td>A</td><td>B</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Adresse (Art. 111 Abs. 2 Bst. a AIG)</td><td>A</td><td>B</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Namen und Vornamen der Eltern (Art. 111 Abs. 2 Bst. a AIG)</td><td>A</td><td>B</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Ledignamen der Eltern (Art. 111 Abs. 2 Bst. a AIG)</td><td>A</td><td>B</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Unterschrift (Art. 111 Abs. 2 Bst. a AIG)</td><td>A</td><td>B</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Dossiernummer (Art. 111 Abs. 2 Bst. a AIG)</td><td>A</td><td>B</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Gesuchseingang (Art. 111 Abs. 2 Bst. b AIG)</td><td>A</td><td>B</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Gesuchsentscheid (Art. 111 Abs. 2 Bst. b AIG)</td><td>A</td><td>B</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Weitere Angaben zum Stand des Gesuchs (Art. 111 Abs. 2 Bst. b AIG)</td><td>A</td><td>B</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Weitere Angaben zum Status eines Reisedokumentes (Art. 111 Abs. 2 Bst. c AIG)</td><td>A</td><td>B</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Unterschriften der gesetzlichen Vertretung von minderjährigen oder entmündigten ausländischen Personen (Art. 111 Abs. 2 Bst. d AIG)</td><td>A</td><td>B</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td>B</td><td>A</td><td>A</td></tr>
-</table>
-
-Abkürzungen
-
-**Bundesstellen**
-
-- fedpol Bundesamt für Polizei, SIRENE-Büro (Art. 7*a* Abs. 3 Bst. g und 9 Abs. 1 Bst. c und p, Abs. 2 Bst. c des Bundesgesetzes vom 20. Juni 2003[^annex1-lvlu1-1] über das Informationssystem für den Ausländer- und den Asylbereich)
-- SEM Admin Staatssekretariat für Migration, Sektion Reisedokumente der Abteilung Zulassung Aufenthalt (Art. 1)
-- SEM User Staatssekretariat für Migration, Abteilungsleitung und stellvertretende Abteilungsleitung der Abteilung Zulassung Aufenthalt und Sektion Reisedokumente der Abteilung Zulassung Aufenthalt (Art. 1 dieser Verordnung und Art. 111 Abs. 4 AIG)
-- SEM Leser Staatssekretariat für Migration, Abteilungsleitung und stellvertretende Abteilungsleitung der Abteilung Zulassung Aufenthalt und Sektion Reisedokumente der Abteilung Zulassung Aufenthalt (Art. 1)
-- BBL Bundesamt für Bauten und Logistik, Hersteller der Reisedokumente (Art. 111 Abs. 5 Bst. a AIG)
-- GWK Grenzwachtkorps sowie Grenzposten der Polizeibehörden der Kantone (Art. 111 Abs. 5 Bst. b AIG)
-
-**Kantonale und kommunale Stellen**
-
-- [tab] Ausländerbehörden und Passämter
-- Zuständige kantonale und kommunale Behörden (Art. 14–16)
-- Polizeistellen Von den Kantonen bezeichnete Polizeistellen zur Identitätsabklärung und zur Aufnahme von Meldungen verlorener Reisedokumente (Art. 20 Abs. 5 Bst. a dieser Verordnung und Art. 111 Abs. 5 Bst. c AIG)
-
-[^annex1-lvlu1-1]: [SR 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
+[^t-1]: Aufgehoben durch Ziff. I der V vom 15. Sept. 2023, mit Wirkung seit 15. Okt. 2023 ([AS 2023 552](https://fedlex.data.admin.ch/eli/oc/2023/552)).
 
 Anhang 2[^t-2]
 

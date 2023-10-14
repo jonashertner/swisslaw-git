@@ -4,11 +4,11 @@ title: Ordinanza del 14 novembre 2012 concernente il rilascio di documenti di vi
 short: ODV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/713"
 language: it
-version: 2023-09-01
+version: 2023-10-15
 adopted: 2012-11-14
 in_force: 2012-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/713/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2012-713-20230901-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/713/20231015/it/xml/fedlex-data-admin-ch-eli-cc-2012-713-20231015-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20231015/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20230901/it"
 
 (ODV)
 
-del 14 novembre 2012 (Stato 1° settembre 2023)
+del 14 novembre 2012 (Stato 15 ottobre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -29,7 +29,7 @@ ordina:
 [^ingress-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^ingress-3]: [RS 0.142.30](https://fedlex.data.admin.ch/eli/cc/1955/443_461_469)
 [^ingress-4]: [RS 0.142.40](https://fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150)
-[^ingress-5]: Nuovo testo giusta il n. I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1475](https://fedlex.data.admin.ch/eli/oc/2019/283)).
+[^ingress-5]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1475](https://fedlex.data.admin.ch/eli/oc/2019/283)).
 
 #### Art. 1
 
@@ -46,9 +46,19 @@ La Segreteria di Stato della migrazione (SEM)[^1-1] rilascia i seguenti document
 
 <sup>2</sup> La SEM può rilasciare un’autorizzazione al ritorno sotto forma di visto di ritorno.
 
-**Art. 2** Documenti di viaggio muniti di un microchip
+[^1-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2015. Di detta mod. é tenuto conto in tutto il presente testo.
+[^1-2]: Abrogata dalla cifra I dell’O del 15 ago. 2018, con effetto dal 15 set. 2018 ([RU 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
+[^1-3]: Nuovo testo giusta la cifra I 8 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^1-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^1-5]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 
-(art. 59*a* cpv. 2 LStrI)[^1-6]
+#### Art. 2
+
+**Documenti di viaggio muniti di un microchip**
+
+### (art. 59*a* cpv. 2 LStrI)
+
+[^2-1]
 
 <sup>1</sup> I documenti di viaggio di cui all’articolo 1 capoverso 1 lettere a e b sono muniti di un microchip.
 
@@ -63,15 +73,10 @@ Il microchip contiene:
 
 <sup>3</sup> Il contenuto del microchip è certificato da una firma elettronica.
 
-<sup>4</sup> È applicabile il regolamento (CE) n. 2252/2004[^1-7].
+<sup>4</sup> È applicabile il regolamento (CE) n. 2252/2004[^2-2].
 
-[^1-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2015. Di detta mod. é tenuto conto in tutto il presente testo.
-[^1-2]: Abrogata dal n. I dell’O del 15 ago. 2018, con effetto dal 15 set. 2018 ([RU 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
-[^1-3]: Nuovo testo giusta il n. I 8 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^1-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^1-5]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^1-6]: Nuovo testo giusta il n. I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1475](https://fedlex.data.admin.ch/eli/oc/2019/283)).
-[^1-7]: Regolamento (CE) n. 2252/2004 del Consiglio del 13 dic. 2004 relativo alle norme sulle caratteristiche di sicurezza e sugli elementi biometrici dei passaporti e dei documenti di viaggio rilasciati dagli Stati membri, GU L 385 del 29.12.2004, pag. 1; modificato da ultimo dal regolamento (CE) n. 444/2009, GU L 142 del 6.6.2009, pag. 1.
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1475](https://fedlex.data.admin.ch/eli/oc/2019/283)).
+[^2-2]: Regolamento (CE) n. 2252/2004 del Consiglio del 13 dic. 2004 relativo alle norme sulle caratteristiche di sicurezza e sugli elementi biometrici dei passaporti e dei documenti di viaggio rilasciati dagli Stati membri, GU L 385 del 29.12.2004, pag. 1; modificato da ultimo dal regolamento (CE) n. 444/2009, GU L 142 del 6.6.2009, pag. 1.
 
 #### Art. 2a
 
@@ -79,7 +84,7 @@ Il microchip contiene:
 
 Il Dipartimento federale di giustizia e polizia può concludere con gli Stati che si conformano al regolamento (CE) n. 2252/2004[^2a-2] e alle disposizioni d’esecuzione emanate in virtù dello stesso trattati concernenti la lettura delle impronte digitali registrate nel microchip.
 
-[^2a-1]: Introdotto dal n. I dell’O del 7 lug. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2637](https://fedlex.data.admin.ch/eli/oc/2016/420)).
+[^2a-1]: Introdotto dalla cifra I dell’O del 7 lug. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2637](https://fedlex.data.admin.ch/eli/oc/2016/420)).
 [^2a-2]: Regolamento (CE) n. 2252/2004 del Consiglio del 13 dicembre 2004 relativo alle norme sulle caratteristiche di sicurezza e sugli elementi biometrici dei passaporti e dei documenti di viaggio rilasciati dagli Stati membri, GU L 385 del 29.12.2004, pag. 1, modificato da ultimo dal regolamento (CE) n. 444/2009, GU L 142 del 6.6.2009, pag. 1.
 
 #### Art. 3
@@ -95,7 +100,7 @@ Ha diritto a un titolo di viaggio per rifugiati:
 
 <sup>2</sup> Nel titolo di viaggio per rifugiati è menzionata la cittadinanza o l’apolidia.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
 [^3-2]: [RS 0.142.305](https://fedlex.data.admin.ch/eli/cc/1986/464_464_464)
 
 #### Art. 4
@@ -116,14 +121,14 @@ Può essere rilasciato un passaporto per stranieri:
 
 <sup>4</sup> Nel passaporto rilasciato conformemente al capoverso 2 lettera b sono menzionati la durata del viaggio e lo statuto di soggiorno del titolare. Possono esservi menzionati anche il motivo del viaggio e la destinazione.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
 [^4-2]: [RS 192.121](https://fedlex.data.admin.ch/eli/cc/2007/861)
 
 #### Art. 5
 
 [^5-1]
 
-[^5-1]: Abrogato dal n. I dell’O del 15 ago. 2018, con effetto dal 15 set. 2018 ([RU 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
+[^5-1]: Abrogato dalla cifra I dell’O del 15 ago. 2018, con effetto dal 15 set. 2018 ([RU 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
 
 #### Art. 6
 
@@ -131,7 +136,7 @@ Può essere rilasciato un passaporto per stranieri:
 
 Per l’esecuzione dell’allontanamento, dell’espulsione o dell’espulsione giudiziaria, a uno straniero può essere rilasciato un documento di viaggio sostitutivo se tale documento rende possibile il rientro nello Stato d’origine o di provenienza e un altro documento di viaggio non può o non può più essere ottenuto entro il termine di partenza stabilito.
 
-[^6-1]: Nuovo testo giusta il n. I 8 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^6-1]: Nuovo testo giusta la cifra I 8 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 
 #### Art. 7
 
@@ -143,8 +148,8 @@ Per l’esecuzione dell’allontanamento, dell’espulsione o dell’espulsione 
 
 <sup>3</sup> Le persone che hanno ottenuto un passaporto per stranieri in virtù dell’articolo 4 capoverso 2 lettera b non abbisognano di un visto di ritorno.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
-[^7-2]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2022, in vigore dal 12 mar. 2022 ([RU 2022 168](https://fedlex.data.admin.ch/eli/oc/2022/168)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
+[^7-2]: Nuovo testo giusta la cifra I dell’O dell’11 mar. 2022, in vigore dal 12 mar. 2022 ([RU 2022 168](https://fedlex.data.admin.ch/eli/oc/2022/168)).
 
 #### Art. 8
 
@@ -188,9 +193,9 @@ Una persona ammessa provvisoriamente può ottenere un documento di viaggio o un 
 
 <sup>8</sup> Le persone bisognose di protezione secondo la decisione di portata generale del Consiglio federale dell’11 marzo 2022[^9-2] concernente la concessione della protezione provvisoria in relazione alla situazione in Ucraina possono recarsi all’estero e tornare in Svizzera senza autorizzazione di viaggio.[^9-3]
 
-[^9-1]: Introdotto dal n. I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
+[^9-1]: Introdotto dalla cifra I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
 [^9-2]: [FF 2022 586](https://fedlex.data.admin.ch/eli/fga/2022/586)
-[^9-3]: Introdotto dal n. I dell’O dell’11 mar. 2022, in vigore dal 12 mar. 2022 ([RU 2022 168](https://fedlex.data.admin.ch/eli/oc/2022/168)).
+[^9-3]: Introdotto dalla cifra I dell’O dell’11 mar. 2022, in vigore dal 12 mar. 2022 ([RU 2022 168](https://fedlex.data.admin.ch/eli/oc/2022/168)).
 
 #### Art. 9a
 
@@ -208,7 +213,7 @@ Una persona ammessa provvisoriamente può ottenere un documento di viaggio o un 
 
 <sup>5</sup> Sono considerati congiunti secondo il capoverso 1 i genitori, i nonni, i fratelli e le sorelle, il coniuge, i figli e gli abbiatici del rifugiato.
 
-[^9a-1]: Introdotto dal n. I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 955](https://fedlex.data.admin.ch/eli/oc/2020/177)).
+[^9a-1]: Introdotto dalla cifra I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 955](https://fedlex.data.admin.ch/eli/oc/2020/177)).
 
 #### Art. 10
 
@@ -247,8 +252,8 @@ Una persona ammessa provvisoriamente può ottenere un documento di viaggio o un 
 
 <sup>4</sup> ...[^12-2]
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 955](https://fedlex.data.admin.ch/eli/oc/2020/177)).
-[^12-2]: Abrogato dal n. I dell’O del 15 ago. 2018, con effetto dal 15 set. 2018 ([RU 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 955](https://fedlex.data.admin.ch/eli/oc/2020/177)).
+[^12-2]: Abrogato dalla cifra I dell’O del 15 ago. 2018, con effetto dal 15 set. 2018 ([RU 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
 
 #### Art. 13
 
@@ -258,11 +263,12 @@ Una persona ammessa provvisoriamente può ottenere un documento di viaggio o un 
 
 I documenti di viaggio sono validi:
 
-- a. il titolo di viaggio per rifugiati: cinque anni;
-- b. il passaporto per stranieri rilasciato alle persone di cui all’articolo 4 capoversi 1 e 2 lettera a: cinque anni;
+- a.[^13-1] il titolo di viaggio per rifugiati e il passaporto per stranieri rilasciato alle persone di cui all’articolo 4 capoverso 1, se al momento di presentare la domanda le persone interessate hanno compiuto 18 anni: dieci anni;
+- b.[^13-2] il titolo di viaggio per rifugiati e il passaporto per stranieri rilasciato alle persone di cui all’articolo 4 capoverso 1, se al momento di presentare la domanda le persone interessate non hanno compiuto 18 anni: cinque anni;
+- b<sup>bis</sup>.[^13-3] il passaporto per stranieri rilasciato alle persone di cui all’articolo 4 capoverso 2 lettera a: cinque anni;
 - c. il passaporto per stranieri rilasciato alle persone di cui all’articolo 4 capoverso 2 lettera b: dieci mesi; dopo il viaggio autorizzato conformemente all’articolo 9 il passaporto per stranieri perde la propria validità;
 - d. il passaporto per stranieri rilasciato alle persone di cui all’articolo 4 capoverso 2 lettera c: dopo l’entrata nello Stato di destinazione il passaporto per stranieri perde la propria validità;
-- e. il documento di viaggio sostitutivo: unicamente per una partenza, un ritorno o un’entrata. [^13-1]
+- e. il documento di viaggio sostitutivo: unicamente per una partenza, un ritorno o un’entrata. [^13-4]
 
 <sup>2</sup> Il visto di ritorno è rilasciato per la durata di validità massima di dieci mesi.
 
@@ -270,10 +276,13 @@ I documenti di viaggio sono validi:
 
 <sup>4</sup> La durata di validità di un documento di viaggio non può essere prorogata.
 
-<sup>5</sup> ...[^13-2]
+<sup>5</sup> ...[^13-5]
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
-[^13-2]: Abrogato dal n. I dell’O del 15 ago. 2018, con effetto dal 15 set. 2018 ([RU 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 10 mag. 2023, in vigore dal 15 ott. 2023 ([RU 2023 248](https://fedlex.data.admin.ch/eli/oc/2023/248)).
+[^13-2]: Nuovo testo giusta la cifra I dell’O del 10 mag. 2023, in vigore dal 15 ott. 2023 ([RU 2023 248](https://fedlex.data.admin.ch/eli/oc/2023/248)).
+[^13-3]: Introdotta dalla cifra I dell’O del 10 mag. 2023, in vigore dal 15 ott. 2023 ([RU 2023 248](https://fedlex.data.admin.ch/eli/oc/2023/248)).
+[^13-4]: Nuovo testo giusta la cifra I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
+[^13-5]: Abrogato dalla cifra I dell’O del 15 ago. 2018, con effetto dal 15 set. 2018 ([RU 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
 
 #### Art. 14
 
@@ -283,7 +292,7 @@ I documenti di viaggio sono validi:
 
 <sup>2</sup> Se possibile, la domanda deve essere presentata sei settimane prima della scadenza della durata di validità del vecchio documento o prima dell’inizio del viaggio previsto.
 
-<sup>3</sup> La competente autorità cantonale registra la domanda nella banca dati del sistema d’informazione per il rilascio di documenti di viaggio svizzeri e di autorizzazioni al ritorno (ISR). A tal fine riprende dalla banca dati SIMIC i dati personali del richiedente di cui all’articolo 111 capoverso 2 lettera a LStrI tranne la fotografia e le impronte digitali. Trasmette alla SEM la domanda, i dati rilevati e eventuali documenti relativi alla domanda.
+<sup>3</sup> La competente autorità cantonale registra la domanda nella banca dati del sistema d’informazione centrale sulla migrazione (SIMIC) e la trasmette alla SEM.[^14-1]
 
 <sup>4</sup> Il richiedente o il rappresentante legale dello straniero minorenne o interdetto deve confermare con la propria firma la correttezza dei dati.
 
@@ -294,6 +303,8 @@ I documenti di viaggio sono validi:
 <sup>7</sup> Il servizio preposto all’allestimento recapita il documento di viaggio direttamente all’indirizzo di consegna indicato dal richiedente. I documenti d’identità non consegnabili o non ritirati sono rimessi alla SEM. Essa li conserva per 12 mesi dalla data di rilascio dopo di che li distrugge.
 
 <sup>8</sup> Il Cantone è indennizzato per l’onere occasionato dalla registrazione dei dati biometrici.
+
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 552](https://fedlex.data.admin.ch/eli/oc/2023/552)).
 
 #### Art. 15
 
@@ -313,11 +324,11 @@ I documenti di viaggio sono validi:
 
 <sup>7</sup> Il Cantone è indennizzato per l’onere occasionato dal rilevamento biometrico.[^15-5]
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 20 nov. 2015 ([RU 2015 4237](https://fedlex.data.admin.ch/eli/oc/2015/709)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 20 nov. 2015 ([RU 2015 4237](https://fedlex.data.admin.ch/eli/oc/2015/709)).
 [^15-2]: [RS 142.512](https://fedlex.data.admin.ch/eli/cc/2014/2)
-[^15-3]: Introdotto dal n. I dell’O del 28 ott. 2015, in vigore dal 20 nov. 2015 ([RU 2015 4237](https://fedlex.data.admin.ch/eli/oc/2015/709)).
-[^15-4]: Introdotto dal n. I dell’O del 28 ott. 2015, in vigore dal 20 nov. 2015 ([RU 2015 4237](https://fedlex.data.admin.ch/eli/oc/2015/709)).
-[^15-5]: Introdotto dal n. I dell’O del 28 ott. 2015, in vigore dal 20 nov. 2015 ([RU 2015 4237](https://fedlex.data.admin.ch/eli/oc/2015/709)).
+[^15-3]: Introdotto dalla cifra I dell’O del 28 ott. 2015, in vigore dal 20 nov. 2015 ([RU 2015 4237](https://fedlex.data.admin.ch/eli/oc/2015/709)).
+[^15-4]: Introdotto dalla cifra I dell’O del 28 ott. 2015, in vigore dal 20 nov. 2015 ([RU 2015 4237](https://fedlex.data.admin.ch/eli/oc/2015/709)).
+[^15-5]: Introdotto dalla cifra I dell’O del 28 ott. 2015, in vigore dal 20 nov. 2015 ([RU 2015 4237](https://fedlex.data.admin.ch/eli/oc/2015/709)).
 
 #### Art. 16
 
@@ -331,8 +342,8 @@ I documenti di viaggio sono validi:
 
 <sup>4</sup> Se le impronte digitali non possono essere registrate per motivi medici di natura temporanea, è rilasciato un documento di viaggio la cui validità non può superare 12 mesi. Una durata di validità ridotta non influisce sull’importo degli emolumenti.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 20 nov. 2015 ([RU 2015 4237](https://fedlex.data.admin.ch/eli/oc/2015/709)).
-[^16-2]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 20 nov. 2015 ([RU 2015 4237](https://fedlex.data.admin.ch/eli/oc/2015/709)).
+[^16-2]: Nuovo testo giusta la cifra I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
 
 #### Art. 17
 
@@ -342,7 +353,7 @@ I documenti di viaggio sono validi:
 
 <sup>2</sup> Al momento della restituzione, i documenti di viaggio resi inutilizzabili possono, su richiesta del titolare, essere riconsegnati al titolare oppure, se questi è deceduto, ai congiunti.
 
-[^17-1]: Nuovo testo giusta il n. I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 955](https://fedlex.data.admin.ch/eli/oc/2020/177)).
+[^17-1]: Nuovo testo giusta la cifra I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 955](https://fedlex.data.admin.ch/eli/oc/2020/177)).
 
 #### Art. 18
 
@@ -368,7 +379,7 @@ La SEM rifiuta il rilascio di un documento di viaggio o di un visto di ritorno, 
 
 <sup>2</sup> Se da una perizia o da una sentenza del tribunale risulta che lo straniero ha contraffatto, alterato o lasciato per uso a terzi non autorizzati il suo vecchio documento di viaggio, la SEM rifiuta, per due anni al massimo, il rilascio di un nuovo documento di viaggio o di un nuovo visto di ritorno.
 
-[^19-1]: Introdotta dal n. I 8 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^19-1]: Introdotta dalla cifra I 8 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 
 #### Art. 20
 
@@ -454,39 +465,11 @@ Nella misura in cui la presente ordinanza non comporta disciplinamenti speciali,
 
 [^27-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
-#### Art. 28
+#### Art. 28 a 30
 
-**Sistema d’informazione per il rilascio di documenti di viaggio**
+[^2830-1]
 
-L’autorizzazione per consultare e trattare i dati dell’ISR secondo l’articolo 111 LStrI è disciplinata nell’allegato 1.
-
-#### Art. 29
-
-**Archiviazione dei dati**
-
-<sup>1</sup> I dati non più impiegati permanentemente sono proposti all’Archivio federale per l’archiviazione. I dati che l’Archivio federale ritiene privi d’interesse ai fini dell’archiviazione sono cancellati dalla SEM.
-
-<sup>2</sup> I dati memorizzati nell’ISR per un documento d’identità sono distrutti dopo 20 anni dalla loro prima memorizzazione, sempre che non siano da custodire nell’Archivio federale. L’Archivio federale decide sul valore archivistico dei dati personali.
-
-#### Art. 30
-
-**Protezione dei dati**
-
-<sup>1</sup> Ogni straniero può domandare alla SEM nella forma prevista dall’articolo 16 dell’ordinanza del 31 agosto 2022[^30-1] sulla protezione dei dati se nell’ISR sono elaborati dati che lo riguardano.[^30-2]
-
-<sup>2</sup> L’informazione è data per scritto ed è gratuita. Comprende tutti i dati sul richiedente memorizzati nell’ISR.
-
-<sup>3</sup> Il rifiuto, la limitazione e il differimento dell’informazione richiesta sono retti dall’articolo 26 della legge federale del 25 giugno 2020[^30-3] sulla protezione dei dati (LPD).[^30-4]
-
-<sup>4</sup> Ogni persona interessata può richiedere la rettifica di dati personali inesatti.
-
-<sup>5</sup> Le altre pretese degli interessati sono rette dall’articolo 41 LPD.[^30-5]
-
-[^30-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^30-2]: Nuovo testo giusta l’all. 2 n. II 10 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^30-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^30-4]: Nuovo testo giusta l’all. 2 n. II 10 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^30-5]: Nuovo testo giusta l’all. 2 n. II 10 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^2830-1]: Abrogati dalla cifra I dell’O del 15 set. 2023, con effetto dal 15 ott. 2023 ([RU 2023 552](https://fedlex.data.admin.ch/eli/oc/2023/552)).
 
 #### Art. 31
 
@@ -514,75 +497,7 @@ Allegato 1[^t-1]
 
 (art. 28)
 
-## Autorizzazione per la consultazione e il trattamento dei dati registrati nell’ISR
-
-[^t-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2022, in vigore dal 1° feb. 2023 ([RU 2022 785](https://fedlex.data.admin.ch/eli/oc/2022/785)).
-
-I dati elencati qui di seguito sono suddivisi in dati che figurano sul documento di viaggio e nella banca dati (I. Dati del documento di viaggio) e dati che si trovano unicamente nella banca dati (II. Dati supplementari nella banca dati).
-
-C = consultazione; T = trattamento e consultazione
-
-<table>
-<tr><th>Nome del campo dei dati</th><th colspan="3">Confederazione</th><th colspan="2"></th><th></th><th colspan="2"></th><th></th><th colspan="2"></th><th></th><th></th><th colspan="3">Cantone e Comune</th></tr>
-<tr><th></th><th>fedpol</th><th>SEM Admin</th><th colspan="2">SEM User</th><th colspan="3">SEM Lettori</th><th colspan="3">UFCL</th><th colspan="3">Cgcf</th><th>Autorità degli stranieri</th><th>Uffici dei passaporti</th><th>Posti di polizia</th></tr>
-<tr><td>Dati doc. di viaggio + banca dati</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td><td colspan="3"></td><td></td><td></td><td></td></tr>
-<tr><td>I. Dati del documento di viaggio</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td><td colspan="3"></td><td></td><td></td><td></td></tr>
-<tr><td>Tipo di documento di viaggio (art. 3 e 4 ODV)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Cognome(i) (art. 111 cpv. 2 lett. a LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Nome(i) (art. 111 cpv. 2 lett. a LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Sesso (art. 111 cpv. 2 lett. a LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Data di nascita (art. 111 cpv. 2 lett. a LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Luogo di nascita (art. 111 cpv. 2 lett. a LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Cittadinanza o apolidia (art. 111 cpv. 2 lett. a LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Statura (art. 111 cpv. 2 lett. a LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Fotografia (art. 111 cpv. 2 lett. a LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>T</td><td>C</td></tr>
-<tr><td>Impronte digitali (art. 111 cpv. 2 lett. a LStrI)</td><td></td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>T</td><td></td></tr>
-<tr><td>Numero personale (art. 111 cpv. 2 lett. a LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Data del rilascio (art. 111 cpv. 2 lett. c LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">T</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Durata di validità (art. 111 cpv. 2 lett. c LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Codice del Paese (art. 111 cpv. 2 lett. c LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Numero del documento di viaggio (art. 111 cpv. 2 lett. c LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">T</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Autorità di rilascio (art. 111 cpv. 2 lett. c LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Rappresentante legale degli stranieri minorenni o interdetti (art. 111 cpv. 2 lett. d LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Registrazioni su richiesta del richiedente (art. 111 cpv. 2 lett. e LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Durata del viaggio (art. 111 cpv. 2 lett. c LStrI e art. 4 cpv. 4 ODV)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Statuto di soggiorno (art. 111 cpv. 2 lett. c LStrI e art. 4 cpv. 4 ODV)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Motivo del viaggio (art. 111 cpv. 2 lett. c LStrI e art. 4 cpv. 4 ODV)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>T</td><td>C</td></tr>
-<tr><td>Destinazione (art. 111 cpv. 2 lett. c LStrI e art. 4 cpv. 4 ODV)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>T</td><td>C</td></tr>
-<tr><td>II. Dati supplementari nella banca dati</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td><td colspan="3"></td><td></td><td></td><td></td></tr>
-<tr><td>Dati sulla perdita di un documento di viaggio (art. 111 cpv. 2 lett. f LStrI e art. 20 cpv. 1 ODV)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Dati sulla registrazione o sulla revoca di una registrazione di un documento di viaggio nel RIPOL (art. 111 cpv. 2 lett. f LStrI e art. 20 cpv. 5 ODV)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Revoca (art. 22 ODV)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Indirizzo (art. 111 cpv. 2 lett. a LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Cognomi e nomi dei genitori (art. 111 cpv. 2 lett. a LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Cognomi dei genitori prima del matrimonio (art. 111 cpv. 2 lett. a LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Firma (art. 111 cpv. 2 lett. a LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Numero dell’incarto (art. 111 cpv. 2 lett. a LStr)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Data di presentazione della domanda (art. 111 cpv. 2 lett. b LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Data della decisione sulla domanda (art. 111 cpv. 2 lett. b LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Altri dati relativi alla domanda (art. 111 cpv. 2 lett. b LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Altri dati relativi al documento di viaggio (art. 111 cpv. 2 lett. c LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-<tr><td>Firme dei rappresentanti legali di stranieri minorenni o interdetti (art. 111 cpv. 2 lett. d LStrI)</td><td>C</td><td>T</td><td colspan="2">T</td><td colspan="3">C</td><td colspan="3">C</td><td colspan="3">C</td><td>T</td><td>C</td><td>C</td></tr>
-</table>
-
-Abbreviazioni
-
-Servizi federali
-
-- fedpol Ufficio federale di polizia, Ufficio SIRENE (art. 7*a* cpv. 3 lett. g e 9 cpv. 1 lett. c e p, cpv. 2 lett. c della legge federale del 20 giungo 2003[^annex1-lvlu1-1] sul sistema d’informazione per il settore degli stranieri e dell’asilo)
-- SEM Admin Segreteria di Stato della migrazione, Sezione Documenti di viaggio della Divisione Ammissione Dimora (art. 1)
-- SEM User Segreteria di Stato della migrazione, Direzione e supplenza della direzione della Divisione Ammissione Dimora e Sezione Documenti di viaggio della Divisione Ammissione Dimora (art. 1 della presente ordinanza e art. 111 cpv. 4 LStrI)
-- SEM Lettori Segreteria di Stato della migrazione, Direzione e supplenza della direzione della Divisione Ammissione Dimora e Sezione Documenti di viaggio della Divisione Ammissione Dimora (art. 1)
-- UFCL Ufficio federale delle costruzioni e della logistica, servizio preposto all’allestimento dei documenti di viaggio (art. 111 cpv. 5 lett. a LStrI)
-- Cgcf Corpo delle guardie di confine e posti di confine delle autorità di polizia dei Cantoni (art. 111 cpv. 5 lett. b LStrI)
-
-Servizi cantonali e comunali
-
-- [tab] Autorità degli stranieri e uffici dei passaporti
-- Autorità cantonali e comunali competenti (art. 14–16)
-- Posti di polizia Posti di polizia designati dai Cantoni per l’identificazione delle persone e per la ricezione di notificazioni concernenti documenti di viaggio smarriti (art. 20 cpv. 5 lett. a della presente ordinanza e art. 111 cpv. 5 lett. c LStrI)
-
-[^annex1-lvlu1-1]: [RS 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
+[^t-1]: Abrogato dalla cifra II dell’O del 15 set. 2023, con effetto dal 15 ott. 2023 ([RU 2023 552](https://fedlex.data.admin.ch/eli/oc/2023/552)).
 
 Allegato 2[^t-2]
 
