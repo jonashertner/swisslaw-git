@@ -4,11 +4,11 @@ title: Ordinanza 2 del 10 maggio 2000 concernente la legge sul lavoro (OLL 2) (D
 short: OLL 2
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/244"
 language: it
-version: 2023-07-01
+version: 2023-10-15
 adopted: 2000-05-10
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/244/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2000-244-20230701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/244/20231015/it/xml/fedlex-data-admin-ch-eli-cc-2000-244-20231015-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20231015/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -19,7 +19,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20230701/it"
 
 (Disposizioni speciali per determinate categorie di aziende e di lavoratori)
 
-del 10 maggio 2000 (Stato 1° luglio 2023)
+del 10 maggio 2000 (Stato 15 ottobre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -210,9 +210,12 @@ Il riposo compensativo per il lavoro effettuato nei giorni festivi può essere a
 
 <sup>2</sup> La semigiornata libera settimanale può essere accordata in forma cumulata per un periodo di 12 settimane al massimo nelle aziende soggette a forti fluttuazioni stagionali.
 
-<sup>3</sup> La semigiornata libera settimanale può essere ridotta da otto a sei ore consecutive. Essa deve essere accordata il mattino fino alle 12.00 o il pomeriggio al più tardi a partire dalle 14.30 fino al più tardi alle 20.30. La perdita di ore di riposo dovuta alla riduzione deve essere accordata in blocco entro sei mesi.[^14-1]
+<sup>2bis</sup> La semigiornata libera settimanale si considera accordata se restano otto ore libere tra le 12.00 e le 22.00.[^14-1]
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 941](https://fedlex.data.admin.ch/eli/oc/2019/168)).
+<sup>3</sup> La semigiornata libera settimanale può essere ridotta da otto a sei ore consecutive. Essa deve essere accordata il mattino fino alle 12.00 o il pomeriggio al più tardi a partire dalle 14.30 fino al più tardi alle 20.30. La perdita di ore di riposo dovuta alla riduzione deve essere accordata in blocco entro sei mesi.[^14-2]
+
+[^14-1]: Introdotto dal n. I dell’O del 30 ago. 2023, in vigore dal 15 ott. 2023 ([RU 2023 489](https://fedlex.data.admin.ch/eli/oc/2023/489)).
+[^14-2]: Nuovo testo giusta il n. I dell’O del 13 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 941](https://fedlex.data.admin.ch/eli/oc/2019/168)).
 
 ## Sezione 3: Categorie di lavoratori e di aziende assoggettate
 
@@ -581,7 +584,7 @@ All’occupazione di lavoratori in base al modello di orario di lavoro annualizz
 
 **Teatri permanenti**[^35-1]
 
-<sup>1</sup> Ai teatri permanenti e alle persone in essi impiegate per la creazione artistica di spettacoli si applicano l’articolo 4 per la notte fino alle 01.00 e per tutta la domenica, nonché gli articoli 11, 12 capoversi 1 o 2, 13, 14 capoverso 2 e, per la preparazione delle prime, l’articolo 7 capoverso 1.
+<sup>1</sup> Ai teatri permanenti e alle persone in essi impiegate per la creazione artistica di spettacoli si applicano l’articolo 4 per la notte fino alle 01.00 e per tutta la domenica, nonché gli articoli 11, 12 capoversi 1 o 2, 13, 14 capoversi 2 o 2<sup>bis</sup> e, per la preparazione delle prime, l’articolo 7 capoverso 1.[^35-2]
 
 <sup>2</sup> Alle persone impiegate per le attività necessarie agli spettacoli nonché per il servizio e l’assistenza agli spettatori si applicano l’articolo 4 per la notte fino alle 01.00 e per tutta la domenica, nonché gli articoli 10 capoverso 3, 12 capoversi 1 o 2, 13, 14 capoverso 2 e, per la preparazione delle prime, l’articolo 7 capoverso 1.
 
@@ -592,6 +595,7 @@ All’occupazione di lavoratori in base al modello di orario di lavoro annualizz
 <sup>5</sup> Sono considerate teatri permanenti le aziende che organizzano spettacoli di teatro, d’opera, d’operetta, di balletto e commedie musicali.
 
 [^35-1]: Nuovo testo giusta il n. I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6549](https://fedlex.data.admin.ch/eli/oc/2009/803)).
+[^35-2]: Nuovo testo giusta il n. I dell’O del 30 ago. 2023, in vigore dal 15 ott. 2023 ([RU 2023 489](https://fedlex.data.admin.ch/eli/oc/2023/489)).
 
 #### Art. 36
 

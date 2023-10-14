@@ -4,11 +4,11 @@ title: Verordnung 2 vom 10. Mai 2000 zum Arbeitsgesetz (ArGV 2) (Sonderbestimmun
 short: ArGV 2
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/244"
 language: de
-version: 2023-07-01
+version: 2023-10-15
 adopted: 2000-05-10
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/244/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2000-244-20230701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/244/20231015/de/xml/fedlex-data-admin-ch-eli-cc-2000-244-20231015-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20231015/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20230701/de"
 
 (Sonderbestimmungen für bestimmte Gruppen von Betrieben oder Arbeitnehmern und Arbeitnehmerinnen)
 
-vom 10. Mai 2000 (Stand am 1. Juli 2023)
+vom 10. Mai 2000 (Stand am 15. Oktober 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -210,9 +210,12 @@ Die Ersatzruhe für Feiertagsarbeit darf für ein Kalenderjahr zusammengefasst g
 
 <sup>2</sup> Der wöchentliche freie Halbtag darf in Betrieben mit erheblichen saisonmässigen Schwankungen für einen Zeitraum von höchstens zwölf Wochen zusammenhängend gewährt werden.
 
-<sup>3</sup> Der wöchentliche freie Halbtag kann von 8 bis auf 6 aufeinanderfolgende Stunden verkürzt werden. Er ist am Vormittag bis 12 Uhr oder am Nachmittag ab spätestens 14.30 Uhr bis spätestens 20.30 Uhr zu gewähren. Die durch die Verkürzung ausfallende Ruhezeit ist innerhalb von sechs Monaten zusammenhängend nachzugewähren.[^14-1]
+<sup>2bis</sup> Der wöchentliche freie Halbtag gilt als gewährt, wenn zwischen 12 und 22 Uhr 8 Stunden arbeitsfrei bleiben.[^14-1]
 
-[^14-1]: Fassung gemäss Ziff. I der V vom 13. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 941](https://fedlex.data.admin.ch/eli/oc/2019/168)).
+<sup>3</sup> Der wöchentliche freie Halbtag kann von 8 bis auf 6 aufeinanderfolgende Stunden verkürzt werden. Er ist am Vormittag bis 12 Uhr oder am Nachmittag ab spätestens 14.30 Uhr bis spätestens 20.30 Uhr zu gewähren. Die durch die Verkürzung ausfallende Ruhezeit ist innerhalb von sechs Monaten zusammenhängend nachzugewähren.[^14-2]
+
+[^14-1]: Eingefügt durch Ziff. I der V vom 30. Aug. 2023, in Kraft seit 15. Okt. 2023 ([AS 2023 489](https://fedlex.data.admin.ch/eli/oc/2023/489)).
+[^14-2]: Fassung gemäss Ziff. I der V vom 13. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 941](https://fedlex.data.admin.ch/eli/oc/2019/168)).
 
 ## 3. Abschnitt: Unterstellte Betriebsarten und Arbeitnehmer
 
@@ -513,7 +516,7 @@ Betreffend die tägliche Ruhezeit der Arbeitnehmer und Arbeitnehmerinnen nach Ab
 
 <sup>3</sup> Als IKT-Betriebe gelten Betriebe, die Dritten IKT-Produkte oder -Dienstleistungen anbieten, wie die Entwicklung, die Anpassung, das Testen und die Pflege von Software, die Planung und den Entwurf von Computersystemen, welche Hardware-, Software- und Kommunikationstechnologie umfassen, und die Verwaltung und den Betrieb solcher Computersysteme oder anderer Datenverarbeitungsanlagen eines Kunden vor Ort.
 
-[^32b-1]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 1. Juli 2023 (AS **20****23** 260).
+[^32b-1]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 260](https://fedlex.data.admin.ch/eli/oc/2023/260)).
 [^32b-2]: [SR 822.111](https://fedlex.data.admin.ch/eli/cc/2000/243)
 
 #### Art. 33
@@ -580,7 +583,7 @@ Für die Beschäftigung von Arbeitnehmern und Arbeitnehmerinnen nach dem Jahresa
 
 **Berufstheater**[^35-1]
 
-<sup>1</sup> Auf Berufstheater und die in ihnen für die künstlerische Gestaltung der Aufführungen beschäftigten Arbeitnehmer und Arbeitnehmerinnen sind Artikel 4 für die Nacht bis 1 Uhr und für den ganzen Sonntag sowie die Artikel 11, 12 Absätze 1 oder 2, 13, 14 Absatz 2 und für die Vorbereitung von Premieren Artikel 7 Absatz 1 anwendbar.
+<sup>1</sup> Auf Berufstheater und die in ihnen für die künstlerische Gestaltung der Aufführungen beschäftigten Arbeitnehmer und Arbeitnehmerinnen sind Artikel 4 für die Nacht bis 1 Uhr und für den ganzen Sonntag sowie die Artikel 11, 12 Absatz 1 oder 2, 13, 14 Absatz 2 oder 2<sup>bis</sup> und für die Vorbereitung von Premieren Artikel 7 Absatz 1 anwendbar.[^35-2]
 
 <sup>2</sup> Für die mit den für die Aufführungen notwendigen Tätigkeiten sowie für die Bedienung und Betreuung der Theaterbesucher beschäftigten Arbeitnehmer und Arbeitnehmerinnen sind Artikel 4 für die Nacht bis 1 Uhr und für den ganzen Sonntag sowie die Artikel 10 Absatz 3, 12 Absätze 1 oder 2, 13, 14 Absatz 2 und für die Vorbereitung von Premieren Artikel 7 Absatz 1 anwendbar.
 
@@ -591,6 +594,7 @@ Für die Beschäftigung von Arbeitnehmern und Arbeitnehmerinnen nach dem Jahresa
 <sup>5</sup> Berufstheater sind Betriebe, die Schauspiel-, Opern-, Operetten-, Ballett- und Musicalaufführungen durchführen.
 
 [^35-1]: Fassung gemäss Ziff. I der V vom 27. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6549](https://fedlex.data.admin.ch/eli/oc/2009/803)).
+[^35-2]: Fassung gemäss Ziff. I der V vom 30. Aug. 2023, in Kraft seit 15. Okt. 2023 ([AS 2023 489](https://fedlex.data.admin.ch/eli/oc/2023/489)).
 
 #### Art. 36
 

@@ -4,11 +4,11 @@ title: "Ordonnance 2 du 10 mai 2000 relative à la loi sur le travail (OLT 2) (D
 short: OLT 2
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/244"
 language: fr
-version: 2023-07-01
+version: 2023-10-15
 adopted: 2000-05-10
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/244/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2000-244-20230701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/244/20231015/fr/xml/fedlex-data-admin-ch-eli-cc-2000-244-20231015-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20231015/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -19,7 +19,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20230701/fr"
 
 (Dispositions spéciales pour certaines catégories d’entreprises ou de travailleurs)
 
-du 10 mai 2000 (État le 1<sup>er</sup> juillet 2023)
+du 10 mai 2000 (État le 15 octobre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -210,9 +210,12 @@ Le repos compensatoire pour le travail effectué les jours fériés peut être a
 
 <sup>2</sup> Le cumul des demi-journées de congé hebdomadaire peut s’effectuer pour une période de douze semaines au maximum dans les entreprises dont l’activité est soumise à de fortes variations saisonnières.
 
-<sup>3</sup> La demi-journée de congé hebdomadaire peut être abaissée de 8 heures à 6 heures consécutives. Accordée le matin, elle se termine à 12 heures; accordée l’après-midi, elle débute au plus tard à 14 h 30 et se termine au plus tard à 20 h 30. La perte d’heures de repos qui en résulte doit être cumulée et compensée en bloc dans un délai de six mois.[^14-1]
+<sup>2bis</sup> La demi-journée de congé hebdomadaire est réputée accordée si 8 heures restent libres entre 12 et 22 heures.[^14-1]
 
-[^14-1]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 941](https://fedlex.data.admin.ch/eli/oc/2019/168)).
+<sup>3</sup> La demi-journée de congé hebdomadaire peut être abaissée de 8 heures à 6 heures consécutives. Accordée le matin, elle se termine à 12 heures; accordée l’après-midi, elle débute au plus tard à 14 h 30 et se termine au plus tard à 20 h 30. La perte d’heures de repos qui en résulte doit être cumulée et compensée en bloc dans un délai de six mois.[^14-2]
+
+[^14-1]: Introduit par le ch. I de l’O du 30 août 2023, en vigueur depuis le 15 oct. 2023 ([RO 2023 489](https://fedlex.data.admin.ch/eli/oc/2023/489)).
+[^14-2]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 941](https://fedlex.data.admin.ch/eli/oc/2019/168)).
 
 ## Section 3 Catégories d’entreprises et de travailleurs assujetties
 
@@ -581,7 +584,7 @@ Les dispositions spéciales suivantes s’appliquent à l’occupation de travai
 
 **Théâtres professionnels**[^35-1]
 
-<sup>1</sup> Sont applicables aux théâtres professionnels et aux travailleurs qu’ils affectent à la création artistique des spectacles l’art. 4 pour la nuit jusqu’à 1 heure et pour tout le dimanche, ainsi que les art. 11, 12, al. 1 ou 2, 13, 14, al. 2, et, pour la préparation de premières, l’art. 7, al. 1.
+<sup>1</sup> Sont applicables aux théâtres professionnels et aux travailleurs qu’ils affectent à la création artistique des spectacles l’art. 4 pour la nuit jusqu’à 1 heure et pour tout le dimanche, ainsi que les art. 11, 12, al. 1 ou 2, 13, 14, al. 2 ou 2<sup>bis</sup>, et, pour la préparation de premières, l’art. 7, al. 1.[^35-2]
 
 <sup>2</sup> Sont applicables aux travailleurs affectés à des activités nécessaires aux représentations ou au service et à l’assistance aux spectateurs l’art. 4 pour la nuit jusqu’à 1 heure et pour tout le dimanche, ainsi que les art. 10, al. 3, 12, al. 1 ou 2, 13, 14, al. 2, et, pour la préparation de premières, l’art. 7, al. 1.
 
@@ -592,6 +595,7 @@ Les dispositions spéciales suivantes s’appliquent à l’occupation de travai
 <sup>5</sup> Sont réputées théâtres professionnels les entreprises dont l’activité consiste à organiser des spectacles de théâtre, d’opéra, d’opérette, de ballet et des comédies musicales.
 
 [^35-1]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6549](https://fedlex.data.admin.ch/eli/oc/2009/803)).
+[^35-2]: Nouvelle teneur selon le ch. I de l’O du 30 août 2023, en vigueur depuis le 15 oct. 2023 ([RO 2023 489](https://fedlex.data.admin.ch/eli/oc/2023/489)).
 
 #### Art. 36
 
