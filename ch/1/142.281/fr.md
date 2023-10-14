@@ -4,11 +4,11 @@ title: "Ordonnance du 11 août 1999 sur l'exécution du renvoi et de l'expulsion
 short: OERE
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/357"
 language: fr
-version: 2022-09-01
+version: 2023-10-15
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20220901/fr/xml/fedlex-data-admin-ch-eli-cc-1999-357-20220901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20220901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20231015/fr/xml/fedlex-data-admin-ch-eli-cc-1999-357-20231015-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20231015/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20220901/fr"
 
 (OERE)
 
-du 11 août 1999 (État le 1<sup>er</sup> septembre 2022)
+du 11 août 1999 (État le 15 octobre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -324,7 +324,7 @@ Les cantons remboursent au SEM les frais d’exécution et de départ qu’il a 
 
 <sup>3</sup> Le SEM observe l’évolution des coûts d’exploitation au niveau suisse. À cette fin, les cantons lui transmettent les bases nécessaires concernant la composition des coûts d’exploitation.
 
-<sup>4</sup> ... [^15-2]
+<sup>4</sup> … [^15-2]
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du 26 mars 2014, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2014 865](https://fedlex.data.admin.ch/eli/oc/2014/183)).
 [^15-2]: Abrogé par le ch. I de l’O du 8 juin 2018, avec effet au 1<sup>er</sup> mars 2019 ([RO 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
@@ -570,7 +570,12 @@ Les tiers mandatés:
 - b.[^15h-3] établissent un rapport à l’attention du SEM pour chaque renvoi, expulsion ou expulsion pénale sous escorte;
 - c. rédigent un rapport d’activité et de gestion annuel à l’attention du DFJP et de la Conférence des directrices et directeurs des départements cantonaux de justice et police.
 
-<sup>2</sup> Le SEM peut conclure des conventions avec les tiers mandatés.
+<sup>2</sup>
+
+Ils peuvent:
+
+- a. participer aux séances de préparation d’un renvoi ou d’une expulsion par voie aérienne;
+- b. adresser, pendant le renvoi ou l’expulsion, leurs réclamations et observations au chef d’équipe responsable.
 
 [^15h-1]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
 [^15h-2]: Nouvelle teneur selon le ch. I 3 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
@@ -780,7 +785,7 @@ Sont pris en considération pour déterminer si le retour dans un État d’orig
 
 <sup>2</sup> Les autorités cantonales délivrent à l’intéressé, conformément à la décision prise par le SEM, un livret pour étrangers F, d’une validité limitée à un an au maximum et pouvant être prorogé d’autant. Ce document tient lieu de pièce d’identité à l’égard de toutes les autorités fédérales et cantonales. Toutefois, il ne fait qu’entériner le statut juridique du titulaire et n’habilite pas ce dernier à franchir la frontière.
 
-<sup>3</sup> ...[^20-3]
+<sup>3</sup> …[^20-3]
 
 <sup>4</sup> Le livret F ne confère aucun droit de résidence, quelle que soit la durée de validité de ce document.
 
@@ -843,7 +848,7 @@ Un départ est notamment considéré comme définitif au sens de l’art. 84, al
 
 - a. dépose une demande d’asile dans un autre État;
 - b. voit son séjour réglé dans un autre État;
-- c.[^26a-4] ...
+- c.[^26a-4] …
 - d.[^26a-5] est retournée dans son État d’origine ou de provenance sans visa de retour au sens de l’art. 7 de l’ordonnance du 14 novembre 2012 sur l’établissement de documents de voyage pour étrangers (ODV)[^26a-6] ni passeport pour étrangers au sens de l’art. 4, al. 2, let. b, ODV;
 - e.[^26a-7] reste à l’étranger au-delà de la durée de validité de son visa de retour au sens de l’art. 7 ODV ou de son passeport pour étrangers au sens de l’art. 4, al. 2, let. b, ODV;
 - f. s’est annoncée auprès des autorités et a quitté la Suisse.
@@ -1021,7 +1026,7 @@ Annexe 1[^t-1]
 
 ## Niveaux d’accès et autorisations de traitement des données dans le système d’information eRetour
 
-[^t-1]: Introduite par le ch. II al. 2 de l’O du 19 fév. 2020 ([RO 2020 887](https://fedlex.data.admin.ch/eli/oc/2020/172)). Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 71](https://fedlex.data.admin.ch/eli/oc/2022/71)).
+[^t-1]: Introduite par le ch. II al. 2 de l’O du 19 fév. 2020 ([RO 2020 887](https://fedlex.data.admin.ch/eli/oc/2020/172)). Nouvelle teneur selon le ch. I de l’O du 15 sept. 2023, en vigueur depuis le 15 oct. 2023 ([RO 2023 551](https://fedlex.data.admin.ch/eli/oc/2023/551)).
 
 ### Légende
 
@@ -1067,7 +1072,7 @@ Unités organisationnelles:
 <tr><td>Sexe</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Nationalité actuelle et à la naissance</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Langue</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
-<tr><td>Type d’identité (principale / secondaire)</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Type d’identité (principale / secondaire)</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Type de personne (principale / secondaire) qui fait l’objet de la demande</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Type de relation</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Canton de répartition</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
@@ -1103,9 +1108,9 @@ Unités organisationnelles:
 <tr><td>Mesures de protection pour l’enfant</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Décomptes des frais de détention administrative</td><td>B</td><td>A</td><td>B</td><td>A</td><td></td><td></td><td></td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="15">6. Autres données de base</td></tr>
-<tr><td>Date du départ de Suisse</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>A</td></tr>
-<tr><td>Type de départ (terrestre/aérien/maritime)</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>A</td></tr>
-<tr><td>Date de saisie du départ de Suisse et collaborateur qui a saisi cette donnée</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Date du départ de Suisse</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>Type de départ (terrestre/aérien/maritime)</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>Date de saisie du départ de Suisse et collaborateur qui a saisi cette donnée</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Âge</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
 <tr><td>Mineur</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
 <tr><td>Mineur non accompagné (oui/non)</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
@@ -1114,29 +1119,31 @@ Unités organisationnelles:
 <tr><td>Délinquance (oui/non)</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
 <tr><td colspan="15">II. Traitement des demandes</td></tr>
 <tr><td colspan="15">1. Données de base relatives aux demandes</td></tr>
-<tr><td>Genre de demande eRetour</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td></tr>
-<tr><td>N° de demande eRetour</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
-<tr><td>Date et heure d’envoi de la demande eRetour</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
-<tr><td>Date de début de la demande eRetour</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td></tr>
-<tr><td>Date de fin de la demande eRetour</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
-<tr><td>Date et heure de mutation de la demande eRetour</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
-<tr><td>Auteur de la demande</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td></tr>
-<tr><td>Genre de règlement de la demande</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td></tr>
-<tr><td>Collaborateur chargé des mutations de la demande</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
-<tr><td>Historique des demandes traitées</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
-<tr><td>Date de réactivation de la demande</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Genre de demande eRetour</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td></tr>
+<tr><td>N<sup>o</sup> de demande eRetour</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Date et heure d’envoi de la demande eRetour</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Date de début de la demande eRetour</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td></tr>
+<tr><td>Date de fin de la demande eRetour</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Date et heure de mutation de la demande eRetour</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Auteur de la demande</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td></tr>
+<tr><td>Genre de règlement de la demande</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>Collaborateur chargé des mutations de la demande</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Historique des demandes traitées</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Date de réactivation de la demande</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Commentaire relatif à la demande</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
 <tr><td colspan="15">2. Données de base spécifiques aux affaires eRetour</td></tr>
-<tr><td>Genre d’affaire eRetour</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td>B</td></tr>
-<tr><td>N<sup>o</sup> de l’affaire eRetour</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
-<tr><td>Date et heure d’envoi de l’affaire eRetour</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
-<tr><td>Date de début de l’affaire eRetour</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td>B</td></tr>
-<tr><td>Date de fin de l’affaire eRetour</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
-<tr><td>Date et heure de mutation de l’affaire eRetour</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
-<tr><td>Auteur de l’affaire</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td></tr>
-<tr><td>Genre de règlement de l’affaire</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td></tr>
-<tr><td>Statut de l’affaire</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td></tr>
-<tr><td>Date et heure de mutation du statut de l’affaire ainsi que collaborateur compétent</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
-<tr><td>Historique des affaires traitées</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Genre d’affaire eRetour</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td></tr>
+<tr><td>N<sup>o</sup> de l’affaire eRetour</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Date et heure d’envoi de l’affaire eRetour</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Date de début de l’affaire eRetour</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td></tr>
+<tr><td>Date de fin de l’affaire eRetour</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Date et heure de mutation de l’affaire eRetour</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Auteur de l’affaire</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td></tr>
+<tr><td>Genre de règlement de l’affaire</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>Statut de l’affaire</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>Date et heure de mutation du statut de l’affaire ainsi que collaborateur compétent</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Commentaire relatif à l’affaire</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Historique des affaires traitées</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td colspan="15">3. Données de base spécifiques aux activités eRetour</td></tr>
 <tr><td>Genre d’activité eRetour</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
 <tr><td>Date et heure d’envoi de l’activité eRetour</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
@@ -1160,24 +1167,24 @@ Unités organisationnelles:
 <tr><td>Destinataires de la communication</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
 <tr><td>Nombre d’annexes à la communication</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
 <tr><td>Affichage avec les données personnelles spécifiques au classeur eRetour</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Date de sauvegarde dans le dossier SYMIC</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Date de sauvegarde dans le dossier SYMIC</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td colspan="15">5. Données spécifiques à la gestion des documents</td></tr>
 <tr><td>Nom du document annexé</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
 <tr><td>Format du document annexé</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Date et heure du chargement du document dans eRetour et collaborateur compétent</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Indications sur les personnes concernées par le document annexé</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Date et heure de la sauvegarde du document dans le dossier SYMIC et collaborateur compétent</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Date et heure de la sauvegarde du document dans le dossier SYMIC et collaborateur compétent</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Date de rappel de l’effacement du document annexé dans eRetour</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
 <tr><td>Blocage de l’effacement du document dans eRetour</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Blocage du chargement du document dans le dossier SYMIC</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Blocage partiel de la visualisation du document dans eRetour</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Affichage de la liste des documents annexés par personne par demande eRetour</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
-<tr><td>Affichage de la liste des documents annexés par personne par affaire eRetour</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Affichage de la liste des documents annexés par personne par affaire eRetour</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Affichage de la liste des documents annexés par personne par activité eRetour</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Exportation d’un document annexé</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
 <tr><td>Effacement d’un document annexé</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
 <tr><td>Chargement d’un document dans le dossier SYMIC</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Accès sélectif au sous-dossier Retour du dossier SYMIC</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Accès sélectif au sous-dossier Retour du dossier SYMIC</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Accès libre à tout le dossier SYMIC</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="15">III. Soutien au retour</td></tr>
 <tr><td colspan="15">1. Données de base spécifiques aux demandes de soutien au retour (identification, obtention document, organisation départ)</td></tr>
@@ -1206,7 +1213,7 @@ Unités organisationnelles:
 <tr><td>Demande d’aide au retour envisagée</td><td>B</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
 <tr><td>Copie de la demande d’aide au retour</td><td>B</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
 <tr><td>Copie de la décision de renvoi cantonale</td><td>B</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td></tr>
-<tr><td>Indications sur les personnes inclues dans la demande</td><td>B</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Indications sur les personnes incluses dans la demande</td><td>B</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td></tr>
 <tr><td>Liste des annexes à la demande</td><td>B</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td></tr>
 <tr><td>Remarques complémentaires à la demande</td><td>B</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td></tr>
 <tr><td colspan="15">3. Données personnelles utilisées dans le cadre des démarches d’identification ou d’obtention de documents</td></tr>
@@ -1242,6 +1249,8 @@ Unités organisationnelles:
 <tr><td colspan="15">5. Données de planification des auditions centralisées</td></tr>
 <tr><td>Pays d’audition prévu</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Plage prévue et fixée</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Cas prioritaire (oui/non)</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Extraits Lingua disponibles (oui/non)</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Date de prise en compte pour une audition centralisée</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Date de convocation à l’audition centralisée</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Date et bloc horaire ou heure de l’audition centralisée</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td></td></tr>
@@ -1260,20 +1269,21 @@ Unités organisationnelles:
 <tr><td colspan="15">IV. Organisation du départ</td></tr>
 <tr><td colspan="15">1. Données de base spécifiques aux demandes d’organisation du départ</td></tr>
 <tr><td>Date de la demande</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td></tr>
-<tr><td>Personnes concernées et coordonnées</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td></tr>
-<tr><td>Interlocuteur de la police du canton qui présente la demande et coordonnées</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td>B</td><td>B</td><td>A</td><td></td><td></td></tr>
-<tr><td>Interlocuteur au SEM et coordonnées</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td></tr>
+<tr><td>Personnes concernées et coordonnées</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td></tr>
+<tr><td>Interlocuteur de la police du canton qui présente la demande et coordonnées</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td>B</td><td>B</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Interlocuteur au SEM et coordonnées</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td></td></tr>
 <tr><td colspan="15">2. Données relatives à la demande de réservation de vol (vol de ligne et vol spécial)</td></tr>
-<tr><td>Type de départ</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td></tr>
-<tr><td>Catégorie de départ</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td></tr>
-<tr><td>Aéroport de destination</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td>B</td></tr>
-<tr><td>Aéroport de départ indiqué par le canton</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td>B</td></tr>
-<tr><td>Période de départ indiquée par le canton</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td>B</td></tr>
-<tr><td>Motifs pour la date de départ</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td>B</td></tr>
-<tr><td>Plage horaire de départ indiquée par le canton</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td>B</td></tr>
-<tr><td>Motifs de l’horaire</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td>B</td></tr>
-<tr><td>Copie des documents annexés à la demande</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td>B</td></tr>
-<tr><td>Remarques générales sur la demande de réservation</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Type de départ</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td></tr>
+<tr><td>Catégorie de départ</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td></tr>
+<tr><td>Aéroport de destination</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td></tr>
+<tr><td>Aéroport de départ indiqué par le canton</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td></tr>
+<tr><td>Période de départ indiquée par le canton</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td></tr>
+<tr><td>Délai Dublin</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td></tr>
+<tr><td>Motifs pour la date de départ</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td></tr>
+<tr><td>Plage horaire de départ indiquée par le canton</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td></tr>
+<tr><td>Motifs de l’horaire</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td></tr>
+<tr><td>Copie des documents annexés à la demande</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td></tr>
+<tr><td>Remarques générales sur la demande de réservation</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td></tr>
 <tr><td colspan="15">3. Données techniques relatives aux réservations de vol (vol de ligne et vol spécial)</td></tr>
 <tr><td>Statut du passager</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
 <tr><td>Motif du départ</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
@@ -1281,18 +1291,20 @@ Unités organisationnelles:
 <tr><td>Heure de départ</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
 <tr><td>Aéroport de départ</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
 <tr><td>Compagnie aérienne</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>N° de vol</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>N<sup>o</sup> de vol</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>Aéroport et pays de destination</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
 <tr><td>Heure et date d’arrivée à destination</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Aéroport de transit</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>Aéroport et pays de transit</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
 <tr><td>Heure et date d’arrivée à l’aéroport de transit</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
 <tr><td>Heure et date de départ de l’aéroport de transit</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
 <tr><td>Compagnie aérienne pour le transit</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>N° de vol au départ de l’aéroport de transit</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>N<sup>o</sup> de vol au départ de l’aéroport de transit</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
 <tr><td>Date et heure de réservation, de communication ou d’annulation du vol</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Identifiant de la personne ayant réservé, communiqué ou annulé le vol</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Date et heure de demande d’annulation</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Identifiant de la personne ayant demandé l’annulation des réservations de vols</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Motif de l’annulation</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td></tr>
+<tr><td>Coopération Frontex (oui/non)</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
 <tr><td>Prix du billet d’avion et devise</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td>A</td></tr>
 <tr><td>Demande de remboursement effectuée auprès de la compagnie</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td><td>A</td></tr>
 <tr><td>Facturation des frais au mandataire</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td>A</td></tr>
@@ -1302,10 +1314,11 @@ Unités organisationnelles:
 <tr><td>Période de vol prévue</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Aéroport de départ</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Compagnie aérienne</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td></tr>
-<tr><td>N° de vol</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td></tr>
+<tr><td>N<sup>o</sup> de vol</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Date et heure de départ fixées pour le vol</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Aéroport et pays de destination</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Heure et date d’arrivée à destination</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td></tr>
-<tr><td>Aéroport de transit</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Aéroport et pays de transit</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Heure et date d’arrivée transit</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Heure et date de départ transit</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Durée de l’engagement prévue</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td></tr>
@@ -1324,43 +1337,43 @@ Unités organisationnelles:
 <tr><td>Lieu de naissance</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td>B</td></tr>
 <tr><td>Domicile dans l’État de destination</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td>B</td></tr>
 <tr><td colspan="15">6. Données relatives à la sécurité concernant la personne principale et les membres de sa famille</td></tr>
-<tr><td>Volonté de quitter la Suisse (oui/non)</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td></tr>
-<tr><td>Motifs du refus de quitter la Suisse</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td></tr>
-<tr><td>Vol refusé</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td></tr>
-<tr><td>Type des vols refusés</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td></tr>
-<tr><td>Date des vols refusés</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td></tr>
-<tr><td>Compléments touchant à la sécurité (oui/non)</td><td>B</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td>B</td></tr>
-<tr><td>Indications détaillées touchant à la sécurité</td><td>B</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td>B</td></tr>
-<tr><td>Compléments concernant d’éventuels actes de délinquance</td><td>B</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td></tr>
-<tr><td>Indications détaillées relatives aux éventuels actes de délinquance</td><td>B</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td></tr>
-<tr><td>Copie des documents de police et jugements</td><td>B</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td></tr>
-<tr><td>Adresse du lieu de séjour actuel</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td>B</td></tr>
-<tr><td>Mode de voyage jusqu’à l’aéroport</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td>B</td></tr>
-<tr><td>Existence de risques en matière de sécurité pour soi ou autrui</td><td>B</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td>B</td></tr>
-<tr><td>Détails des risques en matière de sécurité annoncés</td><td>B</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Volonté de quitter la Suisse (oui/non)</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td></tr>
+<tr><td>Motifs du refus de quitter la Suisse</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td></tr>
+<tr><td>Vol refusé</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Type des vols refusés</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Date des vols refusés</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Compléments touchant à la sécurité (oui/non)</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Indications détaillées touchant à la sécurité</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Compléments concernant d’éventuels actes de délinquance</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Indications détaillées relatives aux éventuels actes de délinquance</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Copie des documents de police et jugements</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Adresse du lieu de séjour actuel</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td></tr>
+<tr><td>Mode de voyage jusqu’à l’aéroport</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td></tr>
+<tr><td>Existence de risques en matière de sécurité pour soi ou autrui</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td></tr>
+<tr><td>Détails des risques en matière de sécurité annoncés</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td></tr>
 <tr><td colspan="15">7. Examen relatif à la sécurité concernant la personne principale et les membres de sa famille (vol de ligne et vol spécial)</td></tr>
-<tr><td>Analyse de risque effectuée</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
-<tr><td>Date de l’analyse de risque effectuée</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
-<tr><td>Identifiant de la personne ayant effectué l’analyse de risque</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
-<tr><td>Résultat final de l’analyse de risque</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
-<tr><td>Liste des recherches effectuées</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
-<tr><td>Dates des recherches effectuées</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
-<tr><td>Résultats des recherches effectuées</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
-<tr><td>Proposition de modification du niveau de risque</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
-<tr><td>Validation du changement de niveau de risque</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
-<tr><td>Identifiant de la personne ayant validé le changement de niveau de risque</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
-<tr><td>Date d’information du mandataire</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
-<tr><td>Acceptation du changement par le mandataire</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>B</td><td></td><td>B</td><td>A</td><td>A</td><td></td><td></td></tr>
-<tr><td>Accompagnement nécessaire</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
-<tr><td>Type d’accompagnement</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
-<tr><td>Nombre d’accompagnants à prévoir</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
-<tr><td>Autres mesures à prévoir</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
+<tr><td>Analyse de risque effectuée</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td></td><td></td></tr>
+<tr><td>Date de l’analyse de risque effectuée</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td></td><td></td></tr>
+<tr><td>Identifiant de la personne ayant effectué l’analyse de risque</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td></td><td></td></tr>
+<tr><td>Résultat final de l’analyse de risque</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td></td></tr>
+<tr><td>Liste des recherches effectuées</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td></td><td></td></tr>
+<tr><td>Dates des recherches effectuées</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td></td><td></td></tr>
+<tr><td>Résultats des recherches effectuées</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td></td><td></td></tr>
+<tr><td>Proposition de modification du niveau de risque</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td></td><td></td></tr>
+<tr><td>Validation du changement de niveau de risque</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td></td><td></td></tr>
+<tr><td>Identifiant de la personne ayant validé le changement de niveau de risque</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td></td><td></td></tr>
+<tr><td>Date d’information du mandataire</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td></td><td></td></tr>
+<tr><td>Acceptation du changement par le mandataire</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>B</td><td></td><td>B</td><td>A</td><td>B</td><td></td><td></td></tr>
+<tr><td>Accompagnement nécessaire</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td></td></tr>
+<tr><td>Type d’accompagnement</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td></td></tr>
+<tr><td>Nombre d’accompagnants à prévoir</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td></td></tr>
+<tr><td>Autres mesures à prévoir</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td></td></tr>
 <tr><td colspan="15">8. Données médicales concernant la personne principale et les membres de sa famille</td></tr>
-<tr><td>Questions relatives à l’état de santé posées et examens médicaux nécessaires effectués</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td>B</td></tr>
-<tr><td>Indications concernant des problèmes de santé</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td>B</td></tr>
-<tr><td>Copie des rapports médicaux transmis</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td>B</td></tr>
-<tr><td>Indications concernant des mesures et moyens auxiliaires nécessaires</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td>B</td></tr>
-<tr><td>Détail des mesures et moyens auxiliaires nécessaires</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Questions relatives à l’état de santé posées et examens médicaux nécessaires effectués</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td></tr>
+<tr><td>Indications concernant des problèmes de santé</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td></tr>
+<tr><td>Rapports médicaux disponibles lors de la demande (oui/non)</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td></tr>
+<tr><td>Indications concernant des mesures et moyens auxiliaires nécessaires</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td></tr>
+<tr><td>Détail des mesures et moyens auxiliaires nécessaires</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td></tr>
 <tr><td colspan="15">9. Examen des données médicales concernant la personne principale et les membres de sa famille</td></tr>
 <tr><td>Évaluation de l’aptitude au transport nécessaire</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
 <tr><td>Numéro du mandat d’évaluation</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td></tr>
@@ -1382,17 +1395,22 @@ Unités organisationnelles:
 <tr><td>Identifiant de la personne ayant transmis le mandat</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td></tr>
 <tr><td>Documents complémentaires nécessaires à l’évaluation</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td></tr>
 <tr><td>Date et heure de réception de l’évaluation</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td></tr>
-<tr><td>Résultat de l’évaluation</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td></tr>
-<tr><td>Aptitude à voyager en avion (oui/non)</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td></tr>
-<tr><td>Accompagnement nécessaire</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td></tr>
-<tr><td>Médicaments actuels</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td></tr>
-<tr><td>Aides nécessaires sur le vol</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td></tr>
-<tr><td>Codification</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td></tr>
-<tr><td>Danger pour sa propre personne (oui/non)</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td></tr>
-<tr><td>Danger pour les autres (oui/non)</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td></tr>
-<tr><td>Indications, mesures, mesures de précaution pour l’organisation au sol, prise en charge au moment du départ</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td></tr>
-<tr><td>Facteur de coût</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td></tr>
+<tr><td>Résultat et durée de validité de l’évaluation</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td></tr>
+<tr><td>Cas médical (oui/non)</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td></tr>
+<tr><td>Aptitude à voyager en avion (oui/non)</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td></tr>
+<tr><td>Accompagnement nécessaire</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td></tr>
+<tr><td>Médicaments actuels</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td></tr>
+<tr><td>Aides nécessaires sur le vol</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td></tr>
+<tr><td>Codification</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td></tr>
+<tr><td>Danger pour sa propre personne (oui/non)</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td></tr>
+<tr><td>Danger pour les autres (oui/non)</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td></tr>
+<tr><td>Indications, mesures, mesures de précaution pour l’organisation au sol, prise en charge au moment du départ</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td></tr>
+<tr><td>Facteur de coût</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td></tr>
 <tr><td>Identifiant de la personne ayant transmis le résultat de l’évaluation</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td></tr>
+<tr><td>Grossesse (oui/non)</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td></tr>
+<tr><td>Date prévue d’atteinte de la 32<sup>e</sup> semaine de grossesse</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td></tr>
+<tr><td>Controlling – cas sélectionné (oui/non)</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Controlling de l’accompagnement médical (oui/non)</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Décomptes des frais d’évaluation de l’aptitude au transport</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td></tr>
 <tr><td colspan="15">10. Données complémentaires sur les documents d’identité</td></tr>
 <tr><td>Type de document</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td></tr>
@@ -1418,9 +1436,9 @@ Unités organisationnelles:
 <tr><td>Date et heure de l’octroi</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
 <tr><td>Validation du versement à effectuer</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
 <tr><td>Aide au retour Confédération</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
-<tr><td>\*Montant de l’aide au retour Confédération en francs</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
-<tr><td>\*Date et heure de l’octroi</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
-<tr><td>\*Validation du versement à effectuer</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Montant de l’aide au retour Confédération en francs</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Date et heure de l’octroi</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Validation du versement à effectuer</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
 <tr><td>Aide au retour Canton</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
 <tr><td>Montant de l’aide au retour Canton en francs</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
 <tr><td>Date et heure de l’octroi</td><td>B</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td></tr>
@@ -1433,38 +1451,43 @@ Unités organisationnelles:
 <tr><td>Signatures électroniques des versements effectués</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td></td><td>A</td></tr>
 <tr><td>Copie des reçus par type d’aide versée</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td></tr>
 <tr><td colspan="15">13. Données relatives aux accompagnements</td></tr>
-<tr><td>Date des accompagnements prévus</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td></tr>
+<tr><td>Date des accompagnements prévus</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td></tr>
 <tr><td>Date des accompagnements effectués</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Itinéraire des accompagnements (aéroport de départ, transit, arrivée, retour)</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Type d’accompagnement</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td>B</td><td>B</td></tr>
-<tr><td>Durée des accompagnements</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td>B</td><td>B</td></tr>
-<tr><td>Identité des accompagnants</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td>B</td><td>B</td></tr>
-<tr><td>Fonction des accompagnants</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td>B</td><td>B</td></tr>
-<tr><td>Liste des accompagnements prévus par date, par type, par lieu</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td></tr>
+<tr><td>Itinéraire des accompagnements (aéroport de départ, transit, arrivée, retour)</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>Type d’accompagnement</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Durée des accompagnements</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Nom, prénom des accompagnants</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Date de naissance, sexe et nationalité des accompagnants</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Numéro de téléphone de piquet des accompagnants</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Courriel des accompagnants</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Type de document de voyage des accompagnants</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Numéro du document, pays d’établissement, date d’échéance</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Fonction et unité d’organisation des accompagnants</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Liste des accompagnements prévus par date, par type, par lieu</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td><td>B</td></tr>
 <tr><td>Liste des accompagnements effectués par date, par type</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td></tr>
 <tr><td>Liste des engagements prévus par accompagnants, par type</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td></tr>
 <tr><td>Liste des engagements effectués par accompagnants, par type</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td></tr>
 <tr><td>Décomptes des frais d’accompagnement</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td></tr>
 <tr><td colspan="15">V. Conseil et octroi de l’aide au retour</td></tr>
 <tr><td colspan="15">1. Données de base spécifiques au conseil en vue du retour</td></tr>
-<tr><td>Domaine juridique</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
-<tr><td>Canton en charge de la demande</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
-<tr><td>Autorité ayant effectué le conseil</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
-<tr><td>Interlocuteur au SEM et au canton où la demande est présentée</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
-<tr><td>Date de la demande d’asile</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
-<tr><td>Identité du bénéficiaire (noms, prénoms, date de naissance, sexe)</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
-<tr><td>Nationalité du bénéficiaire</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
-<tr><td>Nombre de bénéficiaires</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
-<tr><td>Statut des bénéficiaires au moment du conseil</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
-<tr><td>Date du délai de départ</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
-<tr><td>Date du 1<sup>er</sup> entretien</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
-<tr><td>Nombre d’entretiens effectués</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
-<tr><td>Informations générales sur les bénéficiaires</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
-<tr><td>Nature de l’aide au retour octroyée</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
-<tr><td>Date du départ prévue</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
-<tr><td>Date du départ effective</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
-<tr><td>Statut actuel des bénéficiaires</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
-<tr><td>Liste détaillée des cas où des conseils ont été donnés, pour une période donnée, par statut</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Domaine juridique</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Canton en charge de la demande</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Autorité ayant effectué le conseil</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Interlocuteur au SEM et au canton où la demande est présentée</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Date de la demande d’asile</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Identité du bénéficiaire (noms, prénoms, date de naissance, sexe)</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Nationalité du bénéficiaire</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Nombre de bénéficiaires</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Statut des bénéficiaires au moment du conseil</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Date du délai de départ</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Date du 1<sup>er</sup> entretien</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Nombre d’entretiens effectués</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Informations générales sur les bénéficiaires</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Nature de l’aide au retour octroyée</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Date du départ prévue</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Date du départ effective</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Statut actuel des bénéficiaires</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Liste détaillée des cas où des conseils ont été donnés, pour une période donnée, par statut</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
 <tr><td colspan="15">2. Données de base spécifiques à une demande d’aide au retour</td></tr>
 <tr><td>Date de la demande</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td></tr>
 <tr><td>Domaine juridique</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td></tr>
@@ -1479,35 +1502,39 @@ Unités organisationnelles:
 <tr><td>Indications relatives aux bénéficiaires mineurs inclus</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
 <tr><td>Genre de demande d’aide au retour eRetour</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
 <tr><td>Code de demande d’aide au retour SYMIC</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td></tr>
-<tr><td>Historique des demandes traitées</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td></tr>
+<tr><td>Aide au retour déjà perçue (oui/non)</td><td>B</td><td>AB</td><td>A</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td></tr>
+<tr><td>Protection disponible (oui/non)</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
 <tr><td>Date de réactivation de la demande</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td></tr>
 <tr><td colspan="15">3. Données spécifiques à la demande d’aide au retour individuelle</td></tr>
 <tr><td>Pays de destination</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Adresse dans le pays de destination</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Région de l’adresse dans le pays de destination</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
 <tr><td>Type de départ prévu (terrestre / aérien / maritime)</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
 <tr><td>Date ou période de départ prévue</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
 <tr><td>Compagnie aérienne prévue</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
 <tr><td colspan="15">4. Contrôle des conditions d’accès</td></tr>
 <tr><td>Appartenance à une catégorie de bénéficiaires vérifiée</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
 <tr><td>Dispositions nécessaires en vue du départ prises</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
-<tr><td>Demande d’asile en suspens ou faisant l’objet d’un recours : retrait signé</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
-<tr><td>Réfugiés reconnus: renonciation signée</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Demande d’asile en suspens ou faisant l’objet d’un recours: retrait signé</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Statut de réfugié: renonciation signée</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Protection provisoire: renonciation signée</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
 <tr><td>Date du retrait de demande d’asile</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
 <tr><td>Lieu du retrait de demande d’asile</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
 <tr><td>Copie de la déclaration de retrait</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
-<tr><td>Date de la renonciation au statut de réfugié</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
-<tr><td>Lieu de la renonciation au statut de réfugié</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Date de la renonciation au statut de réfugié ou à la protection provisoire</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Lieu de la renonciation au statut de réfugié ou à la protection provisoire</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
 <tr><td>Copie de la déclaration de renonciation</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
 <tr><td colspan="15">5. Contrôle des limitations</td></tr>
 <tr><td>Pas de crime grave ou de délits répétés (oui/non)</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
 <tr><td>Pas d’abus manifeste (oui/non)</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
 <tr><td>Pas de moyens financiers suffisants ou d’importantes valeurs patrimoniales (oui/non)</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
 <tr><td colspan="15">6. Types et montants d’aide demandés, octroyés et versés</td></tr>
-<tr><td>Montant de l’aide financière demandée par le canton</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
-<tr><td>Montant de l’aide financière octroyée par le SEM</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td></tr>
+<tr><td>Montants de l’aide financière demandée par le canton</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Montants de l’aide financière octroyée par le SEM</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td></tr>
 <tr><td>Montant de l’aide complémentaire matérielle demandée par le canton</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
-<tr><td>Montant de l’aide complémentaire matérielle octroyée par le SEM</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td></tr>
-<tr><td>Montant de l’aide de nature médicale demandée par le canton</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
-<tr><td>Montant de l’aide de nature médicale octroyée par le SEM</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td></tr>
+<tr><td>Montant de l’aide complémentaire matérielle octroyée par le SEM</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td></tr>
+<tr><td>Montant de l’aide de nature médicale demandée par le canton</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Montant de l’aide de nature médicale octroyée par le SEM</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td></tr>
 <tr><td>Montant total de l’aide demandée</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
 <tr><td>Montant total de l’aide octroyé par le SEM</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
 <tr><td>Commentaires relatifs à la demande</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td>A</td><td></td><td>B</td></tr>
@@ -1515,14 +1542,15 @@ Unités organisationnelles:
 <tr><td>Montant total à verser par swissREPAT</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
 <tr><td>Montant total à verser à l’étranger</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
 <tr><td>Validation 1 des montants à verser</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
-<tr><td>Date et heure de la validation 1</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
-<tr><td>Validation 2 des montants à verser</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
-<tr><td>Date et heure de la validation 2</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
-<tr><td>Date du mandat SEM de versement à l’étranger</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
-<tr><td>Autorité chargée des versements à l’étranger</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
-<tr><td>Monnaie des versements à effectuer à l’étranger (CHF/USD/EUR)</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
-<tr><td>Dates des versements effectués à l’étranger</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
-<tr><td>Date de clôture du projet</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Date et heure de la validation 1</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Validation 2 des montants à verser</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Date et heure de la validation 2</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Date du mandat SEM de versement à l’étranger</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Autorité chargée des versements à l’étranger</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Monnaie des versements à effectuer à l’étranger (CHF/USD/EUR)</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
+<tr><td>N<sup>o</sup> IBAN du compte du bénéficiaire</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
+<tr><td>Dates des versements effectués à l’étranger</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Date de clôture du projet</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td></tr>
 <tr><td colspan="15">7. Données spécifiques du projet planifié</td></tr>
 <tr><td>Identité du bénéficiaire du projet</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
 <tr><td>Pays de destination</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td></tr>
