@@ -4,11 +4,11 @@ title: "Ordonnance du 26 octobre 2011 sur l'importation de produits agricoles (O
 short: OIAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: fr
-version: 2023-10-01
+version: 2023-10-15
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20231001/fr/xml/fedlex-data-admin-ch-eli-cc-2011-770-20231001-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20231001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20231015/fr/xml/fedlex-data-admin-ch-eli-cc-2011-770-20231015-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20231015/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20231001/fr"
 
 (Ordonnance sur les importations agricoles, OIAgr)
 
-du 26 octobre 2011 (État le 1<sup>er</sup> octobre 2023)
+du 26 octobre 2011 (État le 15 octobre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -2881,7 +2881,7 @@ Annexe 3[^t-3]
 
 ## Contingents tarifaires et contingents tarifaires partiels
 
-[^t-3]: Mise à jour par le ch. II de l’O du 18 oct. 2017 ([RO 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), le ch. I de l’O du 18 oct. 2017 ([RO 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), le ch. II de l’O du 31 oct. 2018 ([RO 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), l’annexe 2 ch. 2 de l’O du 26 août 2020 ([RO 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), le ch. II al. 1 de l’O du 11 nov. 2020 ([RO 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), l’annexe 3 ch. 14 de l’O du 30 juin 2021 modifiant le tarif des douanes ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), le ch. I de l’O du 17 sept. 2021 ([RO 2021 571](https://fedlex.data.admin.ch/eli/oc/2021/571)), erratum du 18 oct. 2021 ([RO 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), le ch. I des O de l’OFAG du 3 fév. 2022 ([RO 2022 70](https://fedlex.data.admin.ch/eli/oc/2022/70)), du 15 mars 2022 ([RO 2022 185](https://fedlex.data.admin.ch/eli/oc/2022/185)), le ch. I al. 1 de l’O du 30 mars 2022 ([RO 2022 215](https://fedlex.data.admin.ch/eli/oc/2022/215)), le ch. I de l’O de l’OFAG du 14 juin 2022 ([RO 2022 365](https://fedlex.data.admin.ch/eli/oc/2022/365)), le ch. I al. 1 de l’O du 10 juin 2022 ([RO 2022 372](https://fedlex.data.admin.ch/eli/oc/2022/372)), le ch. I des O de l’OFAG du 9 août 2022 ([RO 2022 447](https://fedlex.data.admin.ch/eli/oc/2022/447)), du 26 sept. 2022 ([RO 2022 557](https://fedlex.data.admin.ch/eli/oc/2022/557)), le ch. II de l’O de l’OFAG du 23 sept. 2022 ([RO 2022 558](https://fedlex.data.admin.ch/eli/oc/2022/558)), le ch. I des O de l’OFAG du 5 déc. 2022 ([RO 2022 851](https://fedlex.data.admin.ch/eli/oc/2022/851)), du 9 janv. 2023 ([RO 2023 14](https://fedlex.data.admin.ch/eli/oc/2023/14)), du 9 fév. 2023 ([RO 2023 80](https://fedlex.data.admin.ch/eli/oc/2023/80)), du 11 avr. 2023 ([RO 2023 187](https://fedlex.data.admin.ch/eli/oc/2023/187)), du 13 juil. 2023 ([RO 2023 407](https://fedlex.data.admin.ch/eli/oc/2023/407)) et du 15 sept. 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023, le ch. 11/20.1 jusqu’au 31 déc. 2023 ([RO 2023 525](https://fedlex.data.admin.ch/eli/oc/2023/525), [526](https://fedlex.data.admin.ch/eli/oc/2023/526)).
+[^t-3]: Mise à jour par le ch. II de l’O du 18 oct. 2017 ([RO 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), le ch. I de l’O du 18 oct. 2017 ([RO 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), le ch. II de l’O du 31 oct. 2018 ([RO 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), l’annexe 2 ch. 2 de l’O du 26 août 2020 ([RO 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), le ch. II al. 1 de l’O du 11 nov. 2020 ([RO 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), l’annexe 3 ch. 14 de l’O du 30 juin 2021 modifiant le tarif des douanes ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), le ch. I de l’O du 17 sept. 2021 ([RO 2021 571](https://fedlex.data.admin.ch/eli/oc/2021/571)), erratum du 18 oct. 2021 ([RO 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), le ch. I des O de l’OFAG du 3 fév. 2022 ([RO 2022 70](https://fedlex.data.admin.ch/eli/oc/2022/70)), du 15 mars 2022 ([RO 2022 185](https://fedlex.data.admin.ch/eli/oc/2022/185)), le ch. I al. 1 de l’O du 30 mars 2022 ([RO 2022 215](https://fedlex.data.admin.ch/eli/oc/2022/215)), le ch. I de l’O de l’OFAG du 14 juin 2022 ([RO 2022 365](https://fedlex.data.admin.ch/eli/oc/2022/365)), le ch. I al. 1 de l’O du 10 juin 2022 ([RO 2022 372](https://fedlex.data.admin.ch/eli/oc/2022/372)), le ch. I des O de l’OFAG du 9 août 2022 ([RO 2022 447](https://fedlex.data.admin.ch/eli/oc/2022/447)), du 26 sept. 2022 ([RO 2022 557](https://fedlex.data.admin.ch/eli/oc/2022/557)), le ch. II de l’O de l’OFAG du 23 sept. 2022 ([RO 2022 558](https://fedlex.data.admin.ch/eli/oc/2022/558)), le ch. I des O de l’OFAG du 5 déc. 2022 ([RO 2022 851](https://fedlex.data.admin.ch/eli/oc/2022/851)), du 9 janv. 2023 ([RO 2023 14](https://fedlex.data.admin.ch/eli/oc/2023/14)), du 9 fév. 2023 ([RO 2023 80](https://fedlex.data.admin.ch/eli/oc/2023/80)), du 11 avr. 2023 ([RO 2023 187](https://fedlex.data.admin.ch/eli/oc/2023/187)), du 13 juil. 2023 ([RO 2023 407](https://fedlex.data.admin.ch/eli/oc/2023/407)) et du 15 sept. 2023, le ch. 11/20.1 en vigueur jusqu’au 31 déc. 2023 ([RO 2023 525](https://fedlex.data.admin.ch/eli/oc/2023/525), [526](https://fedlex.data.admin.ch/eli/oc/2023/526)) et du 21 sept. 2023, en vigueur depuis le 15 oct. 2023 ([RO 2023 558](https://fedlex.data.admin.ch/eli/oc/2023/558)).
 
 ### 1. Marché des équidés
 
@@ -2995,23 +2995,24 @@ Annexe 3[^t-3]
 ### 7. Marché des pommes de terre et produits à base de pomme de terre
 
 <table>
-<tr><th>Numéro du contingent tarifaire</th><th>Désignation de la marchandise</th><th>Contingent tarifaire (en tonnes)</th></tr>
-<tr><th>**[1]**</th><th>**[1]**</th><th>**[1]**</th></tr>
-<tr><td>14</td><td>Pommes de terre et produits à base de pommes de terre, en équivalents de pommes de terre, dont:</td><td>**23 750**</td></tr>
-<tr><td>14.1</td><td>Pommes de terre de semence</td><td>**4000**</td></tr>
-<tr><td>14.1.1</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2023: du 1<sup>er</sup> février au 31 décembre 2023</td><td>**5000**</td></tr>
-<tr><td>14.2</td><td>Pommes de terre destinées à la transformation</td><td>**9250**</td></tr>
-<tr><td>14.2.1</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2023: du 1<sup>er</sup> au 31 janvier 2023</td><td>**5000**</td></tr>
-<tr><td>14.2.2</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2023: du 1<sup>er</sup> février au 30 juin 2023</td><td>**13 000**</td></tr>
-<tr><td>14.2.3</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2023: du 1<sup>er</sup> mars au 30 juin 2023</td><td>**15 500**</td></tr>
-<tr><td>14.2.4</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2023: du 1<sup>er</sup> au 31 août 2023</td><td>**5000**</td></tr>
-<tr><td>14.3</td><td>Pommes de terre de table</td><td>**6500**</td></tr>
-<tr><td>14.3.1</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2023: du 1<sup>er</sup> mars au 15 juillet 2023</td><td>**6000**</td></tr>
-<tr><td>14.3.2</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2023: du 1<sup>er</sup> mai au 31 juillet 2023</td><td>**4000**</td></tr>
-<tr><td>14.4</td><td>Produits de pommes de terre, dont:</td><td>**4000**</td></tr>
-<tr><td>14.4.1</td><td>Catégorie de marchandises produits semi-finis</td><td>**1000**</td></tr>
-<tr><td>14.4.2</td><td>Catégorie de marchandises produits finis</td><td>**3000**</td></tr>
-<tr><td colspan="3">**[1]** **Les indications qui dérogent au tarif général sont imprimées en caractère gras.** **L’importation** **à partir de zones franches conformément au règlement du 22 décembre 1933 concernant les importations en Suisse des produits des zones franches (RS** *0.631.256.934.953***) n’est pas imputée au contingent tarifaire à attribuer.**</td></tr>
+<tr><th colspan="2">Numéro du contingent tarifaire</th><th>Désignation de la marchandise</th><th colspan="2">Contingent tarifaire (en tonnes)</th></tr>
+<tr><th colspan="2">**[1]**</th><th>**[1]**</th><th colspan="2">**[1]**</th></tr>
+<tr><td colspan="2">14</td><td>Pommes de terre et produits à base de pommes de terre, en équivalents de pommes de terre, dont:</td><td colspan="2">**23 750**</td></tr>
+<tr><td colspan="2">14.1</td><td>Pommes de terre de semence</td><td colspan="2">**4000**</td></tr>
+<tr><td colspan="2">14.1.1</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2023: du 1<sup>er</sup> février au 31 décembre 2023</td><td colspan="2">**5000**</td></tr>
+<tr><td colspan="2">14.2</td><td>Pommes de terre destinées à la transformation</td><td colspan="2">**9250**</td></tr>
+<tr><td colspan="2">14.2.1</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2023: du 1<sup>er</sup> au 31 janvier 2023</td><td colspan="2">**5000**</td></tr>
+<tr><td colspan="2">14.2.2</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2023: du 1<sup>er</sup> février au 30 juin 2023</td><td colspan="2">**13 000**</td></tr>
+<tr><td colspan="2">14.2.3</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2023: du 1<sup>er</sup> mars au 30 juin 2023</td><td colspan="2">**15 500**</td></tr>
+<tr><td colspan="2">14.2.4</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2023: du 1<sup>er</sup> au 31 août 2023</td><td colspan="2">**5000**</td></tr>
+<tr><td>14.2.5</td><td colspan="3">Augmentation temporaire du contingent tarifaire partiel pour 2023: du 15 octobre au 31 décembre 2023</td><td>**25 000**</td></tr>
+<tr><td colspan="2">14.3</td><td>Pommes de terre de table</td><td colspan="2">**6500**</td></tr>
+<tr><td colspan="2">14.3.1</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2023: du 1<sup>er</sup> mars au 15 juillet 2023</td><td colspan="2">**6000**</td></tr>
+<tr><td colspan="2">14.3.2</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2023: du 1<sup>er</sup> mai au 31 juillet 2023</td><td colspan="2">**4000**</td></tr>
+<tr><td colspan="2">14.4</td><td>Produits de pommes de terre, dont:</td><td colspan="2">**4000**</td></tr>
+<tr><td colspan="2">14.4.1</td><td>Catégorie de marchandises produits semi-finis</td><td colspan="2">**1000**</td></tr>
+<tr><td colspan="2">14.4.2</td><td>Catégorie de marchandises produits finis</td><td colspan="2">**3000**</td></tr>
+<tr><td colspan="5">**[1]** **Les indications qui dérogent au tarif général sont imprimées en caractère gras.** **L’importation** **à partir de zones franches conformément au règlement du 22 décembre 1933 concernant les importations en Suisse des produits des zones franches (RS** *0.631.256.934.953***) n’est pas imputée au contingent tarifaire à attribuer.**</td></tr>
 </table>
 
 ### 8. Marché des légumes frais
