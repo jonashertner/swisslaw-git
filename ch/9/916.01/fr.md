@@ -4,11 +4,11 @@ title: "Ordonnance du 26 octobre 2011 sur l'importation de produits agricoles (O
 short: OIAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: fr
-version: 2023-10-15
+version: 2023-10-16
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20231015/fr/xml/fedlex-data-admin-ch-eli-cc-2011-770-20231015-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20231015/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20231016/fr/xml/fedlex-data-admin-ch-eli-cc-2011-770-20231016-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20231016/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20231015/fr"
 
 (Ordonnance sur les importations agricoles, OIAgr)
 
-du 26 octobre 2011 (État le 15 octobre 2023)
+du 26 octobre 2011 (État le 16 octobre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -2881,7 +2881,7 @@ Annexe 3[^t-3]
 
 ## Contingents tarifaires et contingents tarifaires partiels
 
-[^t-3]: Mise à jour par le ch. II de l’O du 18 oct. 2017 ([RO 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), le ch. I de l’O du 18 oct. 2017 ([RO 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), le ch. II de l’O du 31 oct. 2018 ([RO 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), l’annexe 2 ch. 2 de l’O du 26 août 2020 ([RO 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), le ch. II al. 1 de l’O du 11 nov. 2020 ([RO 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), l’annexe 3 ch. 14 de l’O du 30 juin 2021 modifiant le tarif des douanes ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), le ch. I de l’O du 17 sept. 2021 ([RO 2021 571](https://fedlex.data.admin.ch/eli/oc/2021/571)), erratum du 18 oct. 2021 ([RO 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), le ch. I des O de l’OFAG du 3 fév. 2022 ([RO 2022 70](https://fedlex.data.admin.ch/eli/oc/2022/70)), du 15 mars 2022 ([RO 2022 185](https://fedlex.data.admin.ch/eli/oc/2022/185)), le ch. I al. 1 de l’O du 30 mars 2022 ([RO 2022 215](https://fedlex.data.admin.ch/eli/oc/2022/215)), le ch. I de l’O de l’OFAG du 14 juin 2022 ([RO 2022 365](https://fedlex.data.admin.ch/eli/oc/2022/365)), le ch. I al. 1 de l’O du 10 juin 2022 ([RO 2022 372](https://fedlex.data.admin.ch/eli/oc/2022/372)), le ch. I des O de l’OFAG du 9 août 2022 ([RO 2022 447](https://fedlex.data.admin.ch/eli/oc/2022/447)), du 26 sept. 2022 ([RO 2022 557](https://fedlex.data.admin.ch/eli/oc/2022/557)), le ch. II de l’O de l’OFAG du 23 sept. 2022 ([RO 2022 558](https://fedlex.data.admin.ch/eli/oc/2022/558)), le ch. I des O de l’OFAG du 5 déc. 2022 ([RO 2022 851](https://fedlex.data.admin.ch/eli/oc/2022/851)), du 9 janv. 2023 ([RO 2023 14](https://fedlex.data.admin.ch/eli/oc/2023/14)), du 9 fév. 2023 ([RO 2023 80](https://fedlex.data.admin.ch/eli/oc/2023/80)), du 11 avr. 2023 ([RO 2023 187](https://fedlex.data.admin.ch/eli/oc/2023/187)), du 13 juil. 2023 ([RO 2023 407](https://fedlex.data.admin.ch/eli/oc/2023/407)) et du 15 sept. 2023, le ch. 11/20.1 en vigueur jusqu’au 31 déc. 2023 ([RO 2023 525](https://fedlex.data.admin.ch/eli/oc/2023/525), [526](https://fedlex.data.admin.ch/eli/oc/2023/526)) et du 21 sept. 2023, en vigueur depuis le 15 oct. 2023 ([RO 2023 558](https://fedlex.data.admin.ch/eli/oc/2023/558)).
+[^t-3]: Mise à jour par le ch. II de l’O du 18 oct. 2017 ([RO 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), le ch. I de l’O du 18 oct. 2017 ([RO 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), le ch. II de l’O du 31 oct. 2018 ([RO 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), l’annexe 2 ch. 2 de l’O du 26 août 2020 ([RO 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), le ch. II al. 1 de l’O du 11 nov. 2020 ([RO 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), l’annexe 3 ch. 14 de l’O du 30 juin 2021 modifiant le tarif des douanes ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), le ch. I de l’O du 17 sept. 2021 ([RO 2021 571](https://fedlex.data.admin.ch/eli/oc/2021/571)), erratum du 18 oct. 2021 ([RO 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), le ch. I de l’O de l’OFAG du 3 fév. 2022 ([RO 2022 70](https://fedlex.data.admin.ch/eli/oc/2022/70)), le ch. I al. 1 de l’O du 30 mars 2022 ([RO 2022 215](https://fedlex.data.admin.ch/eli/oc/2022/215)), le ch. I de l’O de l’OFAG du 14 juin 2022 ([RO 2022 365](https://fedlex.data.admin.ch/eli/oc/2022/365)), le ch. I al. 1 de l’O du 10 juin 2022 ([RO 2022 372](https://fedlex.data.admin.ch/eli/oc/2022/372)), le ch. I des O de l’OFAG du 9 août 2022 ([RO 2022 447](https://fedlex.data.admin.ch/eli/oc/2022/447)), du 26 sept. 2022 ([RO 2022 557](https://fedlex.data.admin.ch/eli/oc/2022/557)), le ch. II de l’O de l’OFAG du 23 sept. 2022 ([RO 2022 558](https://fedlex.data.admin.ch/eli/oc/2022/558)), le ch. I des O de l’OFAG du 5 déc. 2022 ([RO 2022 851](https://fedlex.data.admin.ch/eli/oc/2022/851)), du 9 janv. 2023 ([RO 2023 14](https://fedlex.data.admin.ch/eli/oc/2023/14)), du 9 fév. 2023 ([RO 2023 80](https://fedlex.data.admin.ch/eli/oc/2023/80)), du 11 avr. 2023 ([RO 2023 187](https://fedlex.data.admin.ch/eli/oc/2023/187)), du 13 juil. 2023 ([RO 2023 407](https://fedlex.data.admin.ch/eli/oc/2023/407)) et du 15 sept. 2023, le ch. 11/20.1 en vigueur jusqu’au 31 déc. 2023 ([RO 2023 525](https://fedlex.data.admin.ch/eli/oc/2023/525), [526](https://fedlex.data.admin.ch/eli/oc/2023/526)), du 21 sept. 2023 ([RO 2023 558](https://fedlex.data.admin.ch/eli/oc/2023/558)) et du 28 sept. 2023, en vigueur depuis le 16 oct. 2023 ([RO 2023 574](https://fedlex.data.admin.ch/eli/oc/2023/574)).
 
 ### 1. Marché des équidés
 
@@ -2956,7 +2956,7 @@ Annexe 3[^t-3]
 <tr><td>07.3</td><td>Divers produits laitiers</td><td>**210**</td></tr>
 <tr><td>07.4</td><td>Beurre et autres matières grasses du lait</td><td>100</td></tr>
 <tr><td>07.4.1</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2023: à partir du 1<sup>er</sup> janvier et jusqu’au 31 décembre 2023</td><td>**3000**</td></tr>
-<tr><td>07.4.2</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2022: à partir du 1<sup>er</sup> avril et jusqu’au 31 décembre</td><td>2000</td></tr>
+<tr><td>07.4.2</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2023: à partir du 16 octobre et jusqu’au 31 décembre</td><td>500</td></tr>
 <tr><td>07.4.3</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2022: à partir du 1<sup>er</sup> juillet et jusqu’au 31 décembre</td><td>**1000**</td></tr>
 <tr><td>07.4.4</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2022: à partir du 22 août et jusqu’au 31 décembre</td><td>**1000**</td></tr>
 <tr><td>07.4.5</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2022: à partir du 17 octobre et jusqu’au 31 décembre</td><td>1000</td></tr>
