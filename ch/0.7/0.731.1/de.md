@@ -4,11 +4,11 @@ title: Satzung vom 26. Januar 2009 der Internationalen Organisation für erneuer
 short: IRENA
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/259"
 language: de
-version: 2015-11-23
+version: 2023-10-16
 adopted: 2009-01-26
 in_force: 2011-03-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/259/20151123/de/xml/fedlex-data-admin-ch-eli-cc-2011-259-20151123-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/259/20151123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/259/20231016/de/xml/fedlex-data-admin-ch-eli-cc-2011-259-20231016-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/259/20231016/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,11 +17,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/259/20151123/de"
 
 AS **2011** 1721; BBl **2010** 401
 
-Übersetzung*[^t-1]*
+Übersetzung[^t-1]
 
 Abgeschlossen in Bonn am 26. Januar 2009 Von der Bundesversammlung genehmigt am 1. Oktober 2010[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 1. März 2011 In Kraft getreten für die Schweiz am 31. März 2011
 
-(Stand am 23. November 2015)
+(Stand am 16. Oktober 2023)
 
 [^t-1]: Zwischen Deutschland, der Schweiz, Österreich und Liechtenstein abgestimmte Übersetzung auf der Basis des englischen Originaltextes.
 [^t-2]: [AS 2011 1719](https://fedlex.data.admin.ch/eli/oc/2011/258)
@@ -354,10 +354,11 @@ Von der am 26. Januar 2009 in Bonn unterzeichneten Satzung der Internationalen O
 [^t-3]: Die Konferenz nimmt zur Kenntnis, dass Frankreich der Verwahrregierung bereits eine französische Fassung der Satzung zugesandt hat mit der Bitte, einen verbindlichen Wortlaut der Satzung in französischer Sprache festzulegen.
 [^t-4]: Diese Erklärung berührt nicht die Übereinkunft der abschliessenden Vorbereitungskonferenz in Madrid über die Arbeitssprache.
 
-Geltungsbereich am 23. November 2015**[^t-5]**
+Geltungsbereich am 16. Oktober 2023[^t-5]
 
 <table>
 <tr><th>[tab] Vertragsstaaten</th><th>[tab] Ratifikation [tab] Beitritt (B)</th><th>[tab]</th><th>[tab] Inkrafttreten</th><th>[tab]</th></tr>
+<tr><td>Afghanistan</td><td>20. Juli</td><td>2016</td><td>19. August</td><td>2016</td></tr>
 <tr><td>Ägypten</td><td>11. Juni</td><td>2012</td><td>11. Juli</td><td>2012</td></tr>
 <tr><td>Äthiopien</td><td>9. Februar</td><td>2012</td><td>10. März</td><td>2012</td></tr>
 <tr><td>Albanien</td><td>14. Juli</td><td>2010</td><td>13. August</td><td>2010</td></tr>
@@ -365,8 +366,8 @@ Geltungsbereich am 23. November 2015**[^t-5]**
 <tr><td>Angola</td><td>15. Dezember</td><td>2011</td><td>14. Januar</td><td>2012</td></tr>
 <tr><td>Antigua und Barbuda</td><td>10. September</td><td>2010</td><td>10. Oktober</td><td>2010</td></tr>
 <tr><td>Argentinien</td><td>16. Mai</td><td>2013</td><td>15. Juni</td><td>2013</td></tr>
-<tr><td>Armenien</td><td>30. März</td><td>2010</td><td>8. Juli</td><td>2010</td></tr>
-<tr><td>Aserbaidschan</td><td>11. Juni</td><td>2014</td><td>11. Juli</td><td>2014</td></tr>
+<tr><td>Armenien\*</td><td>30. März</td><td>2010</td><td>8. Juli</td><td>2010</td></tr>
+<tr><td>Aserbaidschan\*</td><td>11. Juni</td><td>2014</td><td>11. Juli</td><td>2014</td></tr>
 <tr><td>Australien</td><td>6. Januar</td><td>2011</td><td>5. Februar</td><td>2011</td></tr>
 <tr><td>Bahamas</td><td>3. April</td><td>2014 B</td><td>3. Mai</td><td>2014</td></tr>
 <tr><td>Bahrain</td><td>21. Mai</td><td>2012</td><td>20. Juni</td><td>2012</td></tr>
@@ -376,19 +377,24 @@ Geltungsbereich am 23. November 2015**[^t-5]**
 <tr><td>Belgien</td><td>17. Dezember</td><td>2013 B</td><td>16. Januar</td><td>2014</td></tr>
 <tr><td>Belize</td><td>28. Dezember</td><td>2012 B</td><td>27. Januar</td><td>2013</td></tr>
 <tr><td>Benin</td><td>22. Oktober</td><td>2012</td><td>21. November</td><td>2012</td></tr>
+<tr><td>Bhutan</td><td>2. Mai</td><td>2016 B</td><td>1. Juni</td><td>2016</td></tr>
+<tr><td>Botsuana</td><td>24. Mai</td><td>2016 B</td><td>23. Juni</td><td>2016</td></tr>
 <tr><td>Bosnien und Herzegowina</td><td>13. Dezember</td><td>2010</td><td>12. Januar</td><td>2011</td></tr>
 <tr><td>Brunei</td><td>20. April</td><td>2011</td><td>20. Mai</td><td>2011</td></tr>
 <tr><td>Bulgarien</td><td>23. März</td><td>2010</td><td>8. Juli</td><td>2010</td></tr>
 <tr><td>Burkina Faso</td><td>25. Juni</td><td>2013</td><td>25. Juli</td><td>2013</td></tr>
 <tr><td>China</td><td>3. Dezember</td><td>2013 B</td><td>2. Januar</td><td>2014</td></tr>
+<tr><td>Costa Rica</td><td>18. Mai</td><td>2018</td><td>17. Juni</td><td>2018</td></tr>
 <tr><td>Côte d’Ivoire</td><td>16. September</td><td>2013</td><td>16. Oktober</td><td>2013</td></tr>
 <tr><td>Dänemark</td><td>5. Februar</td><td>2010</td><td>8. Juli</td><td>2010</td></tr>
 <tr><td>Deutschland</td><td>25. August</td><td>2009</td><td>8. Juli</td><td>2010</td></tr>
-<tr><td>Dominikanische Republik</td><td>9. Juni</td><td>2010</td><td>9. Juli</td><td>2010</td></tr>
+<tr><td>Dominica</td><td>9. Oktober</td><td>2020 B</td><td>8. November</td><td>2020</td></tr>
 <tr><td>Dschibuti</td><td>12. Mai</td><td>2011</td><td>11. Juni</td><td>2011</td></tr>
 <tr><td>Ecuador</td><td>13. Januar</td><td>2011</td><td>12. Februar</td><td>2011</td></tr>
+<tr><td>El Salvador</td><td>22. Mai</td><td>2017 B</td><td>21. Juni</td><td>2017</td></tr>
 <tr><td>Eritrea</td><td>6. Juli</td><td>2010</td><td>5. August</td><td>2010</td></tr>
 <tr><td>Estland</td><td>31. Mai</td><td>2012</td><td>30. Juni</td><td>2012</td></tr>
+<tr><td>Eswatini</td><td>4. März</td><td>2011</td><td>3. April</td><td>2011</td></tr>
 <tr><td>Europäische Union</td><td>5. Juli</td><td>2010</td><td>4. August</td><td>2010</td></tr>
 <tr><td>Fidschi</td><td>2. November</td><td>2010</td><td>2. Dezember</td><td>2010</td></tr>
 <tr><td>Finnland</td><td>23. Februar</td><td>2011</td><td>25. März</td><td>2011</td></tr>
@@ -399,13 +405,16 @@ Geltungsbereich am 23. November 2015**[^t-5]**
 <tr><td>Ghana</td><td>7. Januar</td><td>2014</td><td>6. Februar</td><td>2014</td></tr>
 <tr><td>Grenada</td><td>15. Juni</td><td>2011</td><td>15. Juli</td><td>2011</td></tr>
 <tr><td>Griechenland</td><td>26. Januar</td><td>2012</td><td>25. Februar</td><td>2012</td></tr>
+<tr><td>Guatemala</td><td>18. Juli</td><td>2023</td><td>17. August</td><td>2023</td></tr>
+<tr><td>Guinea</td><td>28. November</td><td>2019</td><td>28. Dezember</td><td>2019</td></tr>
 <tr><td>Guyana</td><td>14. Januar</td><td>2014 B</td><td>13. Februar</td><td>2014</td></tr>
+<tr><td>Honduras</td><td>20. August</td><td>2021</td><td>19. September</td><td>2021</td></tr>
 <tr><td>Indien</td><td>4. Mai</td><td>2010</td><td>8. Juli</td><td>2010</td></tr>
 <tr><td>Indonesien</td><td>8. August</td><td>2014 B</td><td>7. September</td><td>2014</td></tr>
 <tr><td>Irak</td><td>30. November</td><td>2012</td><td>30. Dezember</td><td>2012</td></tr>
 <tr><td>Iran</td><td>21. Februar</td><td>2013</td><td>23. März</td><td>2013</td></tr>
 <tr><td>Irland</td><td>9. Juni</td><td>2015</td><td>9. Juli</td><td>2015</td></tr>
-<tr><td>Island</td><td>18. Mai</td><td>2010</td><td>8. Juli</td><td>2010</td></tr>
+<tr><td>Island</td><td>19. Mai</td><td>2010</td><td>8. Juli</td><td>2010</td></tr>
 <tr><td>Israel</td><td>8. Juni</td><td>2010</td><td>8. Juli</td><td>2010</td></tr>
 <tr><td>Italien</td><td>25. September</td><td>2012</td><td>25. Oktober</td><td>2012</td></tr>
 <tr><td>Jamaika</td><td>28. Januar</td><td>2014 B</td><td>27. Februar</td><td>2014</td></tr>
@@ -413,10 +422,12 @@ Geltungsbereich am 23. November 2015**[^t-5]**
 <tr><td>Jemen</td><td>22. Februar</td><td>2012</td><td>23. März</td><td>2012</td></tr>
 <tr><td>Jordanien</td><td>3. Juli</td><td>2014</td><td>2. August</td><td>2014</td></tr>
 <tr><td>Kamerun</td><td>21. Juli</td><td>2011</td><td>20. August</td><td>2011</td></tr>
+<tr><td>Kanada</td><td>10. Dezember</td><td>2018 B</td><td>9. Januar</td><td>2019</td></tr>
 <tr><td>Kap Verde</td><td>18. Januar</td><td>2011</td><td>17. Februar</td><td>2011</td></tr>
-<tr><td>Kasachstan</td><td>21. Juli</td><td>2011</td><td>20. August</td><td>2011</td></tr>
+<tr><td>Kasachstan</td><td>5. Juni</td><td>2013</td><td>5. Juli</td><td>2013</td></tr>
 <tr><td>Katar</td><td>30. März</td><td>2011</td><td>29. April</td><td>2011</td></tr>
 <tr><td>Kenia</td><td>26. Juni</td><td>2009</td><td>8. Juli</td><td>2010</td></tr>
+<tr><td>Kirgisistan</td><td>14. April</td><td>2021</td><td>14. Mai</td><td>2021</td></tr>
 <tr><td>Kiribati</td><td>23. April</td><td>2013</td><td>23. Mai</td><td>2013</td></tr>
 <tr><td>Kolumbien</td><td>8. Januar</td><td>2015</td><td>7. Februar</td><td>2015</td></tr>
 <tr><td>Komoren</td><td>9. Oktober</td><td>2015</td><td>9. November</td><td>2015</td></tr>
@@ -426,6 +437,7 @@ Geltungsbereich am 23. November 2015**[^t-5]**
 <tr><td>Kuwait</td><td>6. Februar</td><td>2014</td><td>8. März</td><td>2014</td></tr>
 <tr><td>Lesotho</td><td>16. September</td><td>2010</td><td>16. Oktober</td><td>2010</td></tr>
 <tr><td>Lettland</td><td>15. April</td><td>2010</td><td>8. Juli</td><td>2010</td></tr>
+<tr><td>Libanon</td><td>5. Oktober</td><td>2017</td><td>4. November</td><td>2017</td></tr>
 <tr><td>Liechtenstein</td><td>29. Juni</td><td>2009</td><td>8. Juli</td><td>2010</td></tr>
 <tr><td>Litauen</td><td>1. März</td><td>2011</td><td>31. März</td><td>2011</td></tr>
 <tr><td>Luxemburg</td><td>9. September</td><td>2010</td><td>9. Oktober</td><td>2010</td></tr>
@@ -433,10 +445,10 @@ Geltungsbereich am 23. November 2015**[^t-5]**
 <tr><td>Malediven</td><td>30. Juni</td><td>2009</td><td>8. Juli</td><td>2010</td></tr>
 <tr><td>Mali</td><td>19. Oktober</td><td>2010</td><td>18. November</td><td>2010</td></tr>
 <tr><td>Malta</td><td>19. April</td><td>2011</td><td>19. Mai</td><td>2011</td></tr>
+<tr><td>Marokko</td><td>24. November</td><td>2015</td><td>24. Dezember</td><td>2015</td></tr>
 <tr><td>Marshallinseln</td><td>16. November</td><td>2010</td><td>16. Dezember</td><td>2010</td></tr>
 <tr><td>Mauretanien</td><td>13. März</td><td>2012</td><td>12. April</td><td>2012</td></tr>
 <tr><td>Mauritius</td><td>25. März</td><td>2011</td><td>24. April</td><td>2011</td></tr>
-<tr><td>Mazedonien</td><td>29. November</td><td>2010</td><td>29. Dezember</td><td>2010</td></tr>
 <tr><td>Mexiko</td><td>4. März</td><td>2011</td><td>3. April</td><td>2011</td></tr>
 <tr><td>Mikronesien</td><td>24. Oktober</td><td>2014 B</td><td>23. November</td><td>2014</td></tr>
 <tr><td>Moldau</td><td>4. Juli</td><td>2011</td><td>3. August</td><td>2011</td></tr>
@@ -446,16 +458,25 @@ Geltungsbereich am 23. November 2015**[^t-5]**
 <tr><td>Mosambik</td><td>29. März</td><td>2011</td><td>28. April</td><td>2011</td></tr>
 <tr><td>Namibia</td><td>28. November</td><td>2013 B</td><td>28. Dezember</td><td>2013</td></tr>
 <tr><td>Nauru</td><td>10. August</td><td>2010</td><td>9. September</td><td>2010</td></tr>
+<tr><td>Nepal</td><td>14. November</td><td>2017</td><td>14. Dezember</td><td>2017</td></tr>
 <tr><td>Neuseeland</td><td>1. April</td><td>2011 B</td><td>1. Mai</td><td>2011</td></tr>
 <tr><td>Nicaragua</td><td>23. September</td><td>2010</td><td>23. Oktober</td><td>2010</td></tr>
-<tr><td>Niederlande</td><td>13. Dezember</td><td>2010</td><td>12. Januar</td><td>2011</td></tr>
+<tr><td>Niederlande <sup>a</sup></td><td>13. Dezember</td><td>2010</td><td>12. Januar</td><td>2011</td></tr>
+<tr><td>Aruba</td><td>13. Dezember</td><td>2010</td><td>12. Januar</td><td>2011</td></tr>
+<tr><td>Curaçao</td><td>13. Dezember</td><td>2010</td><td>12. Januar</td><td>2011</td></tr>
+<tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>13. Dezember</td><td>2010</td><td>12. Januar</td><td>2011</td></tr>
+<tr><td>Sint Maarten</td><td>13. Dezember</td><td>2010</td><td>12. Januar</td><td>2011</td></tr>
 <tr><td>Niger</td><td>16. November</td><td>2010</td><td>16. Dezember</td><td>2010</td></tr>
 <tr><td>Nigeria</td><td>31. August</td><td>2010</td><td>30. September</td><td>2010</td></tr>
+<tr><td>Nordmazedonien</td><td>29. November</td><td>2010</td><td>29. Dezember</td><td>2010</td></tr>
 <tr><td>Norwegen</td><td>6. Oktober</td><td>2009</td><td>8. Juli</td><td>2010</td></tr>
 <tr><td>Oman</td><td>5. August</td><td>2010</td><td>4. September</td><td>2010</td></tr>
+<tr><td>Österreich</td><td>2. Dezember</td><td>2020</td><td>1. Januar</td><td>2021</td></tr>
 <tr><td>Pakistan</td><td>24. Mai</td><td>2013</td><td>23. Juni</td><td>2013</td></tr>
 <tr><td>Palau</td><td>27. November</td><td>2009</td><td>8. Juli</td><td>2010</td></tr>
 <tr><td>Panama</td><td>16. Dezember</td><td>2011</td><td>15. Januar</td><td>2012</td></tr>
+<tr><td>Papua-Neuguinea</td><td>3. Juni</td><td>2022</td><td>3. Juli</td><td>2022</td></tr>
+<tr><td>Paraguay</td><td>31. Januar</td><td>2018 B</td><td>2. März</td><td>2018</td></tr>
 <tr><td>Peru</td><td>22. Oktober</td><td>2013</td><td>21. November</td><td>2013</td></tr>
 <tr><td>Philippinen</td><td>10. Juni</td><td>2011</td><td>10. Juli</td><td>2011</td></tr>
 <tr><td>Polen</td><td>1. April</td><td>2010</td><td>8. Juli</td><td>2010</td></tr>
@@ -463,6 +484,8 @@ Geltungsbereich am 23. November 2015**[^t-5]**
 <tr><td>Ruanda</td><td>25. Mai</td><td>2012</td><td>24. Juni</td><td>2012</td></tr>
 <tr><td>Rumänien</td><td>22. Juli</td><td>2010</td><td>21. August</td><td>2010</td></tr>
 <tr><td>Russland</td><td>22. Juni</td><td>2015</td><td>22. Juli</td><td>2015</td></tr>
+<tr><td>Samoa</td><td>5. Juli</td><td>2010</td><td>4. August</td><td>2010</td></tr>
+<tr><td>San Marino</td><td>30. November</td><td>2021 B</td><td>30. Dezember</td><td>2021</td></tr>
 <tr><td>St. Kitts und Nevis</td><td>21. Mai</td><td>2013 B</td><td>20. Juni</td><td>2013</td></tr>
 <tr><td>St. Vincent und die Grenadinen</td><td>10. Oktober</td><td>2012</td><td>9. November</td><td>2012</td></tr>
 <tr><td>Salomoninseln</td><td>5. Juli</td><td>2013 B</td><td>4. August</td><td>2013</td></tr>
@@ -477,31 +500,38 @@ Geltungsbereich am 23. November 2015**[^t-5]**
 <tr><td>Serbien</td><td>4. Februar</td><td>2010</td><td>8. Juli</td><td>2010</td></tr>
 <tr><td>Sierra Leone</td><td>25. März</td><td>2011</td><td>24. April</td><td>2011</td></tr>
 <tr><td>Simbabwe</td><td>18. August</td><td>2014</td><td>17. September</td><td>2014</td></tr>
-<tr><td>Singapur</td><td>5. Februar</td><td>2013 B</td><td>4. März</td><td>2013</td></tr>
-<tr><td>Slowakei</td><td>22. März</td><td>2010</td><td>8. Juli</td><td>2010</td></tr>
+<tr><td>Singapur</td><td>5. Februar</td><td>2013 B</td><td>7. März</td><td>2013</td></tr>
+<tr><td>Slowakei</td><td>1. April</td><td>2010</td><td>8. Juli</td><td>2010</td></tr>
 <tr><td>Slowenien</td><td>22. März</td><td>2010</td><td>8. Juli</td><td>2010</td></tr>
 <tr><td>Somalia</td><td>13. November</td><td>2013</td><td>13. Dezember</td><td>2013</td></tr>
 <tr><td>Spanien</td><td>2. März</td><td>2011</td><td>1. April</td><td>2011</td></tr>
 <tr><td>Sri Lanka</td><td>27. Januar</td><td>2011</td><td>26. Februar</td><td>2011</td></tr>
+<tr><td>St. Lucia</td><td>1. März</td><td>2016 B</td><td>31. März</td><td>2016</td></tr>
 <tr><td>Südafrika</td><td>30. November</td><td>2010</td><td>30. Dezember</td><td>2010</td></tr>
 <tr><td>Sudan</td><td>19. Mai</td><td>2011</td><td>18. Juni</td><td>2011</td></tr>
-<tr><td>Swasiland</td><td>4. März</td><td>2011</td><td>3. April</td><td>2011</td></tr>
 <tr><td>Tadschikistan</td><td>17. Juli</td><td>2013</td><td>16. August</td><td>2013</td></tr>
+<tr><td>Thailand</td><td>31. März</td><td>2016 B</td><td>30. April</td><td>2016</td></tr>
 <tr><td>Togo</td><td>8. September</td><td>2011</td><td>8. Oktober</td><td>2011</td></tr>
-<tr><td>Tonga</td><td>3. Februar</td><td>2010</td><td>8. Juli</td><td>2010</td></tr>
+<tr><td>Tonga</td><td>4. Februar</td><td>2010</td><td>8. Juli</td><td>2010</td></tr>
 <tr><td>Trinidad und Tobago</td><td>16. Januar</td><td>2014 B</td><td>15. Februar</td><td>2014</td></tr>
+<tr><td>Tschad</td><td>24. April</td><td>2018</td><td>24. Mai</td><td>2018</td></tr>
 <tr><td>Tschechische Republik</td><td>31. Mai</td><td>2011</td><td>30. Juni</td><td>2011</td></tr>
 <tr><td>Tunesien</td><td>18. August</td><td>2011</td><td>17. September</td><td>2011</td></tr>
 <tr><td>Türkei</td><td>2. März</td><td>2012</td><td>1. April</td><td>2012</td></tr>
+<tr><td>Turkmenistan</td><td>4. September</td><td>2018 B</td><td>4. Oktober</td><td>2018</td></tr>
 <tr><td>Tuvalu</td><td>13. Januar</td><td>2013 B</td><td>12. Februar</td><td>2013</td></tr>
 <tr><td>Uganda</td><td>17. April</td><td>2012</td><td>17. Mai</td><td>2012</td></tr>
+<tr><td>Ukraine</td><td>25. Januar</td><td>2018 B</td><td>24. Februar</td><td>2018</td></tr>
 <tr><td>Ungarn</td><td>16. Dezember</td><td>2014 B</td><td>15. Januar</td><td>2015</td></tr>
 <tr><td>Uruguay</td><td>29. Juli</td><td>2011</td><td>28. August</td><td>2011</td></tr>
+<tr><td>Usbekistan</td><td>25. Juli</td><td>2017</td><td>24. August</td><td>2017</td></tr>
 <tr><td>Vanuatu</td><td>30. Januar</td><td>2013</td><td>1. März</td><td>2013</td></tr>
 <tr><td>Vereinigte Arabische Emirate</td><td>18. Juni</td><td>2009</td><td>8. Juli</td><td>2010</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>10. April</td><td>2012</td><td>10. Mai</td><td>2012</td></tr>
 <tr><td>Vereinigte Staaten</td><td>4. März</td><td>2011</td><td>3. April</td><td>2011</td></tr>
+<tr><td>Zentralafrikanische Republik</td><td>28. Juli</td><td>2021</td><td>27. August</td><td>2021</td></tr>
 <tr><td>Zypern</td><td>27. Mai</td><td>2010</td><td>8. Juli</td><td>2010</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die deutschen und englischen Texte können auf der Internetseite des Depositars (Regierung der Bundesrepublik Deutschland): [www.auswaertigesamt.de/de/aussenpolitik/regelbasierte-internationale-ordnung/voelkerrecht-internationales-recht/-/240200](https://www.auswaertiges-amt.de/de/aussenpolitik/regelbasierte-internationale-ordnung/voelkerrecht-internationales-recht/-/240200) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Für das Königreich in Europa. [tab]</td></tr>
 </table>
 
-[^t-5]: [AS 2011 1721](https://fedlex.data.admin.ch/eli/oc/2011/259), [2015 5981](https://fedlex.data.admin.ch/eli/oc/2015/925). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-5]: [AS 2011 1721](https://fedlex.data.admin.ch/eli/oc/2011/259), [2015 5981](https://fedlex.data.admin.ch/eli/oc/2015/925); [2023 594](https://fedlex.data.admin.ch/eli/oc/2023/594). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

@@ -4,11 +4,11 @@ title: "Statuts du 26 janvier 2009 de l'Agence internationale pour les énergies
 short: IRENA
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/259"
 language: fr
-version: 2015-11-23
+version: 2023-10-16
 adopted: 2009-01-26
 in_force: 2011-03-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/259/20151123/fr/xml/fedlex-data-admin-ch-eli-cc-2011-259-20151123-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/259/20151123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/259/20231016/fr/xml/fedlex-data-admin-ch-eli-cc-2011-259-20231016-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/259/20231016/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,17 +17,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/259/20151123/fr"
 
 RO **2011** 1721; FF **2010** 347
 
-Traduction*[^t-1]*
+Traduction[^t-1]
 
-Conclus à Bonn le 26 janvier 2009
+Conclus à Bonn le 26 janvier 2009 Approuvés par l’Assemblée fédérale le 1<sup>er</sup> octobre 2010[^t-2] Instrument de ratification déposé par la Suisse le 1<sup>er</sup> mars 2011 Entrés en vigueur pour la Suisse le 31 mars 2011
 
-Approuvés par l’Assemblée fédérale le 1<sup>er</sup> octobre 2010[^t-2]
-
-Instrument de ratification déposé par la Suisse le 1<sup>er</sup> mars 2011
-
-Entrés en vigueur pour la Suisse le 31 mars 2011
-
-(Etat le 23 novembre 2015)
+(État le 16 octobre 2023)
 
 [^t-1]: Traduction authentifiée du texte original anglais effectuée par la France.
 [^t-2]: [RO 2011 1719](https://fedlex.data.admin.ch/eli/oc/2011/258)
@@ -65,7 +59,7 @@ sont convenues de ce qui suit:
 
 L’Agence encourage l’adoption accrue et généralisée et l’utilisation durable de toutes les formes d’énergies renouvelables en tenant compte:
 
-- a. des priorités nationales et internes et des avantages tirés d’un bouquet de mesures en faveur des énergies renouvelables et de l’efficacité énergétique; et
+- a. des priorités nationales et internes et des avantages tirés d’un bouquet de mesures en faveur des énergies renouvelables et de l’efficacité énergétique, et
 - b. de la contribution des énergies renouvelables à la préservation de l’environnement grâce à une pression moins forte sur les ressources naturelles et à la réduction de la déforestation, notamment en milieu tropical, de la désertification et de la perte de biodiversité, ainsi que de leur contribution à la protection du climat, à la croissance économique et à la cohésion sociale, notamment en ce qui concerne la lutte contre la pauvreté et en faveur du développement durable, à l’accès à l’énergie et à la sécurité des approvisionnements énergétiques, au développement régional et à la responsabilité entre les générations.
 
 #### Art. III
@@ -78,7 +72,7 @@ Aux fins des présents Statuts, l’expression «énergies renouvelables» dési
 - 2\. l’énergie géothermique;
 - 3\. l’énergie hydroélectrique;
 - 4\. l’énergie des océans, notamment l’énergie marémotrice, l’énergie des vagues et l’énergie thermique des mers;
-- 5\. l’énergie solaire; et
+- 5\. l’énergie solaire, et
 - 6\. l’énergie éolienne.
 
 #### Art. IV
@@ -96,10 +90,10 @@ Aux fins des présents Statuts, l’expression «énergies renouvelables» dési
     - a. d’analyser, de suivre et, sans obligations pour les politiques des membres, de systématiser les pratiques actuelles en matière d’énergies renouvelables, notamment les instruments d’action, les incitations, les mécanismes d’investissement, les pratiques de référence, les technologies disponibles, les systèmes et équipements intégrés et les facteurs d’échec ou de réussite;
     - b. d’engager la discussion et d’assurer l’interaction avec d’autres organisations et réseaux gouvernementaux et non gouvernementaux dans ces domaines et dans d’autres domaines pertinents;
     - c. de fournir à leur demande des conseils et une aide pertinents à ses membres, en tenant compte de leurs besoins respectifs, et de favoriser les discussions internationales sur la politique en matière d’énergies renouvelables et les conditions-cadres de cette politique;
-    - d. d’améliorer les transferts de connaissances et de technologies appropriés et d’encourager le développement de capacités et de compétences locales dans les Etats membres, ainsi que les nécessaires interconnexions;
+    - d. d’améliorer les transferts de connaissances et de technologies appropriés et d’encourager le développement de capacités et de compétences locales dans les États membres, ainsi que les nécessaires interconnexions;
     - e. de proposer à ses membres des actions de renforcement des capacités, notamment en matière de formation et d’éducation;
     - f. de fournir à ses membres, à leur demande, des conseils sur le financement des énergies renouvelables et d’appuyer la mise en œuvre des mécanismes y associés;
-    - g. de stimuler et d’encourager la recherche, notamment sur les questions socio-économiques, et de favoriser les réseaux de recherche, la recherche conjointe, le développement et le déploiement des technologies; et
+    - g. de stimuler et d’encourager la recherche, notamment sur les questions socio-économiques, et de favoriser les réseaux de recherche, la recherche conjointe, le développement et le déploiement des technologies, et
     - h. de fournir des informations sur le développement et la mise en place de normes techniques nationales et internationales se rapportant aux énergies renouvelables, à partir de solides connaissances rendues possibles par la présence active au sein des enceintes compétentes.
 
   - 2\. En outre, l’Agence diffuse des informations et sensibilise le public aux avantages et au potentiel des énergies renouvelables.
@@ -110,14 +104,14 @@ Aux fins des présents Statuts, l’expression «énergies renouvelables» dési
 
   - 1\. agit dans le respect des buts et des principes des Nations Unies pour promouvoir la paix et la coopération internationale et conformément aux politiques des Nations Unies pour encourager le développement durable;
   - 2\. alloue ses ressources de manière à en assurer une utilisation efficace afin de tenir compte de manière adéquate de tous ses objectifs et de réaliser ses activités de manière à obtenir le plus d’avantages possibles pour ses membres et dans toutes les régions du monde, en gardant à l’esprit les besoins spécifiques des pays en développement et des régions et des îles isolées et reculées;
-  - 3\. coopère étroitement avec les institutions et organisations existantes et agit en faveur de relations mutuellement bénéfiques avec elles afin d’éviter les doublons inutiles, et s’appuie sur les ressources et les activités en cours des Etats et d’autres organisations et agences dont l’objectif est de promouvoir les énergies renouvelables, pour en assurer une utilisation efficace et effective.
+  - 3\. coopère étroitement avec les institutions et organisations existantes et agit en faveur de relations mutuellement bénéfiques avec elles afin d’éviter les doublons inutiles, et s’appuie sur les ressources et les activités en cours des États et d’autres organisations et agences dont l’objectif est de promouvoir les énergies renouvelables, pour en assurer une utilisation efficace et effective.
 
 - C.
 
   L’Agence:
 
   - 1\. présente chaque année un rapport d’activité à ses membres;
-  - 2\. tient ses membres informés après avoir dispensé des conseils; et
+  - 2\. tient ses membres informés après avoir dispensé des conseils, et
   - 3\. informe ses membres de ses actions de consultation des organisations internationales agissant dans ce domaine, de sa coopération avec ces organisations et de leurs travaux.
 
 #### Art. V
@@ -131,15 +125,15 @@ Aux fins des présents Statuts, l’expression «énergies renouvelables» dési
 
 **Adhésion**
 
-- A. L’adhésion est ouverte aux Etats membres des Nations Unies et aux organisations intergouvernementales d’intégration économique régionale qui sont désireuses et en mesure d’agir conformément aux objectifs et aux activités énoncés dans les présents Statuts. Pour pouvoir être membre de l’Agence, une organisation intergouvernementale d’intégration économique régionale doit être constituée d’Etats souverains dont l’un au moins est membre de l’Agence et ses Etats membres doivent lui avoir transféré leurs compétences dans l’un au moins des domaines relevant des attributions de l’Agence.
+- A. L’adhésion est ouverte aux États membres des Nations Unies et aux organisations intergouvernementales d’intégration économique régionale qui sont désireuses et en mesure d’agir conformément aux objectifs et aux activités énoncés dans les présents Statuts. Pour pouvoir être membre de l’Agence, une organisation intergouvernementale d’intégration économique régionale doit être constituée d’États souverains dont l’un au moins est membre de l’Agence et ses États membres doivent lui avoir transféré leurs compétences dans l’un au moins des domaines relevant des attributions de l’Agence.
 - B.
 
-  Ces Etats et ces organisations intergouvernementales d’intégration économique régionale deviennent:
+  Ces États et ces organisations intergouvernementales d’intégration économique régionale deviennent:
 
   - 1\. membres fondateurs de l’Agence après avoir signé les présents Statuts et déposé leur instrument de ratification;
   - 2\. autres membres de l’Agence en déposant un instrument d’adhésion après que leur demande de candidature a été approuvée. Une candidature est considérée comme approuvée si, trois mois après son envoi aux membres, aucun désaccord n’a été exprimé. En cas de désaccord, l’Assemblée statue sur la demande conformément au point 1 du par. H de l’art. IX.
 
-- C. Dans le cas d’une organisation intergouvernementale d’intégration économique régionale, l’organisation et ses Etats membres définissent leurs attributions respectives concernant le respect de leurs obligations en vertu des présents Statuts. L’organisation et ses Etats membres ne peuvent exercer simultanément leurs droits en vertu des Statuts, y compris leur droit de vote. Dans leurs instruments de ratification ou d’adhésion, les organisations susmentionnées déclarent quelle est l’étendue de leurs compétences en ce qui concerne les sujets régis par les présents Statuts. Elles informent également le gouvernement dépositaire de toute modification pertinente de l’étendue de leurs compétences. En cas de vote sur les sujets relevant de leur compétence, les organisations intergouvernementales d’intégration économique régionale disposent d’un nombre de voix égal au total des voix de ceux de leurs Etats membres qui sont également membres de l’Agence.
+- C. Dans le cas d’une organisation intergouvernementale d’intégration économique régionale, l’organisation et ses États membres définissent leurs attributions respectives concernant le respect de leurs obligations en vertu des présents Statuts. L’organisation et ses États membres ne peuvent exercer simultanément leurs droits en vertu des Statuts, y compris leur droit de vote. Dans leurs instruments de ratification ou d’adhésion, les organisations susmentionnées déclarent quelle est l’étendue de leurs compétences en ce qui concerne les sujets régis par les présents Statuts. Elles informent également le gouvernement dépositaire de toute modification pertinente de l’étendue de leurs compétences. En cas de vote sur les sujets relevant de leur compétence, les organisations intergouvernementales d’intégration économique régionale disposent d’un nombre de voix égal au total des voix de ceux de leurs États membres qui sont également membres de l’Agence.
 
 #### Art. VII
 
@@ -150,7 +144,7 @@ Aux fins des présents Statuts, l’expression «énergies renouvelables» dési
   L’Assemblée peut accorder le statut d’observateur:
 
   - 1\. aux organisations intergouvernementales et non gouvernementales agissant dans le domaine des énergies renouvelables;
-  - 2\. aux signataires qui n’ont pas ratifié les Statuts; et
+  - 2\. aux signataires qui n’ont pas ratifié les Statuts, et
   - 3\. aux candidats à l’adhésion dont la candidature a été approuvée conformément au point 2 du par. B de l’art. VI.
 
 - B. Les observateurs peuvent participer sans droit de vote aux sessions publiques de l’Assemblée et de ses organes subsidiaires.
@@ -164,7 +158,7 @@ Aux fins des présents Statuts, l’expression «énergies renouvelables» dési
   Il est créé par les présentes les principaux organes de l’Agence ci-après:
 
   - 1\. l’Assemblée;
-  - 2\. le Conseil; et
+  - 2\. le Conseil, et
   - 3\. le Secrétariat.
 
 - B. L’Assemblée et le Conseil peuvent, sous réserve de l’approbation de l’Assemblée, créer les organes subsidiaires qu’ils jugent nécessaires à l’exercice de leurs fonctions conformément aux présents Statuts.
@@ -179,7 +173,7 @@ Aux fins des présents Statuts, l’expression «énergies renouvelables» dési
 
     Sur tous ces sujets, l’Assemblée peut:
 
-    - a. prendre des décisions et émettre des recommandations à ces organes; et
+    - a. prendre des décisions et émettre des recommandations à ces organes, et
     - b. émettre des recommandations aux membres de l’Agence, à leur demande.
 
   - 4\. En outre, l’Assemblée a le pouvoir de proposer certains sujets à l’examen du Conseil et de demander au Conseil et au Secrétariat des rapports sur tout sujet relatif au fonctionnement de l’Agence.
@@ -197,7 +191,7 @@ Aux fins des présents Statuts, l’expression «énergies renouvelables» dési
   - 2\. adopte, lors de ses sessions régulières, le budget et le programme de travail de l’Agence présentés par le Conseil et a le pouvoir de statuer sur les modifications du budget et du programme de travail de l’Agence;
   - 3\. adopte des décisions relatives au contrôle des politiques financières de l’Agence, au règlement financier et aux autres questions financières, et élit le commissaire aux comptes;
   - 4\. approuve les amendements aux présents Statuts;
-  - 5\. statue sur la création d’organes subsidiaires et en approuve les mandats; et
+  - 5\. statue sur la création d’organes subsidiaires et en approuve les mandats, et
   - 6\. statue sur le droit de vote conformément au par. A de l’art. XVII.
 
 - H.
@@ -207,7 +201,7 @@ Aux fins des présents Statuts, l’expression «énergies renouvelables» dési
   - 1\. statue, si nécessaire, sur les candidatures à l’adhésion;
   - 2\. approuve son propre règlement intérieur et celui du Conseil qui lui est soumis par ce dernier;
   - 3\. adopte le rapport annuel et les autres rapports;
-  - 4\. approuve la conclusion d’accords sur tous les sujets, problématiques ou questions relevant du champ d’application des présents Statuts; et
+  - 4\. approuve la conclusion d’accords sur tous les sujets, problématiques ou questions relevant du champ d’application des présents Statuts, et
   - 5\. statue en cas de désaccord entre ses membres sur les projets supplémentaires conformément au par. B de l’art. V.
 
 - I. L’Assemblée fixe le siège de l’Agence et désigne le Directeur général du Secrétariat (ci-après dénommé «le Directeur général») par consensus entre les membres présents ou, en l’absence de consensus, à la majorité des deux tiers des membres présents et votants.
@@ -221,7 +215,7 @@ Aux fins des présents Statuts, l’expression «énergies renouvelables» dési
 - B. Le Conseil se réunit deux fois par an au siège de l’Agence, sauf décision contraire du Conseil.
 - C. Au début de chacune de ses réunions, le Conseil élit parmi ses membres un président et les autres responsables jugés nécessaires, pour la période allant jusqu’à sa réunion suivante. Il peut élaborer son règlement intérieur. Ce règlement intérieur doit être soumis à l’Assemblée pour approbation.
 - D. Chaque membre du Conseil dispose d’une voix. Le Conseil prend ses décisions sur les points de procédure à la majorité simple de ses membres. Les décisions sur les sujets de fond sont prises à la majorité des deux tiers de ses membres. Si la question se pose de savoir si un sujet est ou non de fond, celui-ci est traité comme une question de fond sauf décision contraire du Conseil à la majorité des deux tiers de ses membres.
-- E. Le Conseil est responsable devant l’Assemblée à laquelle il rend compte. Il exerce les pouvoirs et fonctions qui lui sont attribués en vertu des présents Statuts, ainsi que les fonctions qui lui sont déléguées par l’Assemblée. A cet effet, il agit dans le respect des décisions de l’Assemblée et en tenant dûment compte de ses recommandations, dont il assure en permanence la bonne application.
+- E. Le Conseil est responsable devant l’Assemblée à laquelle il rend compte. Il exerce les pouvoirs et fonctions qui lui sont attribués en vertu des présents Statuts, ainsi que les fonctions qui lui sont déléguées par l’Assemblée. À cet effet, il agit dans le respect des décisions de l’Assemblée et en tenant dûment compte de ses recommandations, dont il assure en permanence la bonne application.
 - F.
 
   Le Conseil:
@@ -231,9 +225,9 @@ Aux fins des présents Statuts, l’expression «énergies renouvelables» dési
   - 3\. approuve les modalités pratiques pour les sessions de l’Assemblée, y compris la préparation du projet d’ordre du jour;
   - 4\. examine et présente à l’Assemblée le projet de rapport annuel sur les activités de l’Agence et les autres rapports préparés par le Secrétariat conformément au point 3 du par. E de l’art. XI des présents Statuts;
   - 5\. prépare tous les autres rapports demandés par l’Assemblée;
-  - 6\. conclut au nom de l’Agence des accords ou arrangements avec des Etats, des organisations internationales et des agences internationales, sous réserve de l’approbation préalable de l’Assemblée;
+  - 6\. conclut au nom de l’Agence des accords ou arrangements avec des États, des organisations internationales et des agences internationales, sous réserve de l’approbation préalable de l’Assemblée;
   - 7\. alimente le programme de travail adopté par l’Assemblée en vue de sa mise en œuvre par le Secrétariat dans la limite du budget adopté;
-  - 8\. est en droit de soumettre des sujets à l’examen de l’Assemblée; et
+  - 8\. est en droit de soumettre des sujets à l’examen de l’Assemblée, et
   - 9\. crée des organes subsidiaires, en tant que de besoin, conformément au par. B de l’art. VIII, et en fixe le mandat et la durée.
 
 #### Art. XI
@@ -242,7 +236,7 @@ Aux fins des présents Statuts, l’expression «énergies renouvelables» dési
 
 - A. Le Secrétariat apporte son appui à l’Assemblée, au Conseil et à leurs organes subsidiaires dans l’exercice de leurs fonctions. Il exerce les autres fonctions qui lui sont attribuées en vertu des présents Statuts, ainsi que les fonctions qui lui sont déléguées par l’Assemblée et le Conseil.
 - B. Le Secrétariat est composé d’un Directeur général qui en est le chef et en assure la direction administrative, et du personnel nécessaire. Le Directeur général est nommé par l’Assemblée sur recommandation du Conseil pour un mandat de quatre ans, renouvelable une seule fois.
-- C. Le Directeur général est responsable devant l’Assemblée et le Conseil, notamment de la désignation du personnel et de l’organisation et du fonctionnement du Secrétariat. Le recrutement du personnel et la détermination des conditions de travail doivent être régis avant tout par la nécessité d’appliquer les normes les plus strictes d’efficacité, de compétence et d’intégrité. Une attention particulière doit être portée à la nécessité de recruter le personnel essentiellement parmi les Etats membres et sur une base géographique aussi large que possible, en assurant notamment une représentation adéquate des pays en développement et en respectant la parité hommes-femmes.
+- C. Le Directeur général est responsable devant l’Assemblée et le Conseil, notamment de la désignation du personnel et de l’organisation et du fonctionnement du Secrétariat. Le recrutement du personnel et la détermination des conditions de travail doivent être régis avant tout par la nécessité d’appliquer les normes les plus strictes d’efficacité, de compétence et d’intégrité. Une attention particulière doit être portée à la nécessité de recruter le personnel essentiellement parmi les États membres et sur une base géographique aussi large que possible, en assurant notamment une représentation adéquate des pays en développement et en respectant la parité hommes-femmes.
 - Pour la préparation du budget, les recrutements envisagés respecteront le principe de maintien des effectifs du personnel au niveau le plus bas nécessaire à la bonne exécution des responsabilités du Secrétariat.
 - D. Le Directeur général ou un représentant désigné par lui participe, sans droit de vote, à toutes les réunions de l’Assemblée et du Conseil.
 - E.
@@ -253,7 +247,7 @@ Aux fins des présents Statuts, l’expression «énergies renouvelables» dési
   - 2\. de mettre en œuvre le programme de travail et les décisions de l’Agence;
   - 3\. de préparer et de soumettre au Conseil le projet de rapport annuel sur les activités de l’Agence et les autres rapports demandés par l’Assemblée ou le Conseil;
   - 4\. d’apporter un soutien administratif et technique à l’Assemblée, au Conseil et à leurs organes subsidiaires;
-  - 5\. de faciliter la communication entre l’Agence et ses membres; et
+  - 5\. de faciliter la communication entre l’Agence et ses membres, et
   - 6\. de diffuser les conseils après qu’ils ont été dispensés aux membres de l’Agence conformément au point 2 du par. C de l’art. IV, et de préparer et de soumettre l’Assemblée et au Conseil un rapport sur les mesures conseillées pour chacune de leurs sessions. Le rapport au Conseil doit également porter sur les activités de conseil projetées en matière de mise en œuvre du programme annuel de travail.
 
 - F. Dans l’exercice de leurs fonctions, le Directeur général et les autres membres du personnel ne sollicitent ni ne reçoivent d’instructions d’aucun gouvernement ni d’aucune autre source extérieure à l’Agence. Ils s’abstiennent de tout acte susceptible de porter préjudice à leur fonction de responsables internationaux ne rendant compte qu’à l’Assemblée et au Conseil. Chaque membre respecte la nature exclusivement internationale des attributions du Directeur général et des autres membres du personnel et ne cherche pas à les influencer dans l’exécution de leurs responsabilités.
@@ -296,7 +290,7 @@ Sous réserve de l’approbation de l’Assemblée, le Conseil est autorisé à 
 
   Les amendements entrent en vigueur pour tous les membres dès lors:
 
-  - 1\. qu’ils ont été approuvés par l’Assemblée après examen des observations présentées par le Conseil sur chaque projet d’amendement; et
+  - 1\. qu’ils ont été approuvés par l’Assemblée après examen des observations présentées par le Conseil sur chaque projet d’amendement, et
   - 2\. que tous les membres ont consenti à être liés par l’amendement conformément à leurs procédures constitutionnelles respectives. Ledit consentement est exprimé au moyen du dépôt de l’instrument correspondant auprès du dépositaire visé au par. A de l’art. XX.
 
 - C. Un membre peut se retirer de l’Agence à tout moment, à l’expiration d’une période de cinq ans à compter de la date d’entrée en vigueur des présents Statuts conformément au par. D de l’art. XIX, en adressant une notification écrite à cet effet au dépositaire visé au par. A de l’art. XX, qui en informe promptement le Conseil et tous les membres.
@@ -328,11 +322,11 @@ Le siège de l’Agence est fixé par l’Assemblée lors de sa première sessio
 
 **Signature, ratification, entrée en vigueur et adhésion**
 
-- A. Les présents Statuts sont ouverts à la signature de tous les Etats membres des Nations Unies et des organisations intergouvernementales d’intégration économique régionale définies au par. A de l’art. VI, lors de la Conférence inaugurale. Ils restent ouverts à la signature jusqu’à la date de leur entrée en vigueur.
-- B. Les présents Statuts seront ouverts à l’adhésion des Etats et des organisations intergouvernementales d’intégration économique régionale définies au par. A de l’art. VI, qui ne les auront pas signés, après que leur candidature aura été approuvée par l’Assemblée conformément au point 2 du par. A de l’art. VI.
-- C. Le consentement à être lié par les présents Statuts est exprimé par le dépôt d’un instrument de ratification ou d’adhésion auprès du dépositaire. Les Etats procèdent à la ratification ou à l’adhésion aux présents Statuts conformément à leurs procédures constitutionnelles respectives.
+- A. Les présents Statuts sont ouverts à la signature de tous les États membres des Nations Unies et des organisations intergouvernementales d’intégration économique régionale définies au par. A de l’art. VI, lors de la Conférence inaugurale. Ils restent ouverts à la signature jusqu’à la date de leur entrée en vigueur.
+- B. Les présents Statuts seront ouverts à l’adhésion des États et des organisations intergouvernementales d’intégration économique régionale définies au par. A de l’art. VI, qui ne les auront pas signés, après que leur candidature aura été approuvée par l’Assemblée conformément au point 2 du par. A de l’art. VI.
+- C. Le consentement à être lié par les présents Statuts est exprimé par le dépôt d’un instrument de ratification ou d’adhésion auprès du dépositaire. Les États procèdent à la ratification ou à l’adhésion aux présents Statuts conformément à leurs procédures constitutionnelles respectives.
 - D. Les présents Statuts entrent en vigueur le trentième jour suivant la date du dépôt du vingt-cinquième instrument de ratification.
-- E. Les présents Statuts entreront en vigueur pour les Etats ou les organisations intergouvernementales d’intégration économique régionale qui auront déposé un instrument de ratification ou d’adhésion après l’entrée en vigueur des présents Statuts, le trentième jour suivant la date du dépôt de l’instrument correspondant.
+- E. Les présents Statuts entreront en vigueur pour les États ou les organisations intergouvernementales d’intégration économique régionale qui auront déposé un instrument de ratification ou d’adhésion après l’entrée en vigueur des présents Statuts, le trentième jour suivant la date du dépôt de l’instrument correspondant.
 - F. Aucune réserve ne peut être faite quant aux dispositions figurant dans les présents Statuts.
 
 #### Art. XX
@@ -342,9 +336,9 @@ Le siège de l’Agence est fixé par l’Assemblée lors de sa première sessio
 - A. Le Gouvernement de la République fédérale d’Allemagne est désigné par les présentes comme étant le dépositaire des présents Statuts et de tout instrument de ratification ou d’adhésion.
 - B. Les présents Statuts sont enregistrés par le gouvernement dépositaire conformément à l’art. 102 de la Charte des Nations Unies[^XX-1].
 - C. Les présents Statuts, rédigés en anglais, sont déposés aux archives du gouvernement dépositaire.
-- D. Le gouvernement dépositaire transmet des copies dûment certifiées des présents Statuts aux gouvernements des Etats et aux organes exécutifs des organisations intergouvernementales d’intégration économique régionale qui les ont signés ou dont l’adhésion a été approuvée conformément au point 2 du par. B de l’art. VI.
+- D. Le gouvernement dépositaire transmet des copies dûment certifiées des présents Statuts aux gouvernements des États et aux organes exécutifs des organisations intergouvernementales d’intégration économique régionale qui les ont signés ou dont l’adhésion a été approuvée conformément au point 2 du par. B de l’art. VI.
 - E. Le gouvernement dépositaire informe promptement tous les signataires des présents Statuts de la date du dépôt de chaque instrument de ratification et de la date d’entrée en vigueur des présents Statuts.
-- F. Le gouvernement dépositaire informe promptement tous les signataires et tous les membres de la date à laquelle des Etats et des organisations intergouvernementales d’intégration économique régionale deviennent membres par la suite.
+- F. Le gouvernement dépositaire informe promptement tous les signataires et tous les membres de la date à laquelle des États et des organisations intergouvernementales d’intégration économique régionale deviennent membres par la suite.
 - G. Le gouvernement dépositaire envoie promptement les nouvelles demandes d’adhésion à tous les membres de l’Agence pour examen conformément au point 2 du par. B de l’art. VI.
 
 [^XX-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
@@ -353,17 +347,18 @@ Le siège de l’Agence est fixé par l’Assemblée lors de sa première sessio
 
 Déclaration de la Conférence concernant les versions authentiques des Statuts
 
-Réunis à Bonn le 26 janvier 2009, les Représentants des Etats invités à la Conférence fondatrice de l’Agence internationale pour les énergies renouvelables ont adopté la déclaration ci-après, qui fait partie intégrante des Statuts:
+Réunis à Bonn le 26 janvier 2009, les Représentants des États invités à la Conférence fondatrice de l’Agence internationale pour les énergies renouvelables ont adopté la déclaration ci-après, qui fait partie intégrante des Statuts:
 
 Les Statuts de l’Agence internationale pour les énergies renouvelables, signés à Bonn le 26 janvier 2009, y compris la présente déclaration, doivent être également authentifiés dans les langues officielles des Nations Unies autres que l’anglais, ainsi que dans la langue du dépositaire, sur demande des signataires concernés[^t-3] [^t-4].
 
 [^t-3]: La Conférence note que la France a déjà adressé au gouvernement dépositaire une version française des Statuts en vue de leur authentification en langue française.
 [^t-4]: La présente déclaration n’a pas de conséquence sur l’arrangement de la conférence préparatoire finale de Madrid concernant la langue de travail.
 
-Champ d’application le 23 novembre 2015**[^t-5]**
+Champ d’application le 16 octobre 2023[^t-5]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Afghanistan</td><td>20 juillet</td><td>2016</td><td>19 août</td><td>2016</td></tr>
 <tr><td>Afrique du Sud</td><td>30 novembre</td><td>2010</td><td>30 décembre</td><td>2010</td></tr>
 <tr><td>Albanie</td><td>14 juillet</td><td>2010</td><td>13 août</td><td>2010</td></tr>
 <tr><td>Algérie</td><td>9 mai</td><td>2012</td><td>8 juin</td><td>2012</td></tr>
@@ -372,9 +367,10 @@ Champ d’application le 23 novembre 2015**[^t-5]**
 <tr><td>Antigua-et-Barbuda</td><td>10 septembre</td><td>2010</td><td>10 octobre</td><td>2010</td></tr>
 <tr><td>Arabie Saoudite</td><td>30 décembre</td><td>2011 A</td><td>29 janvier</td><td>2012</td></tr>
 <tr><td>Argentine</td><td>16 mai</td><td>2013</td><td>15 juin</td><td>2013</td></tr>
-<tr><td>Arménie</td><td>30 mars</td><td>2010</td><td>8 juillet</td><td>2010</td></tr>
+<tr><td>Arménie\*</td><td>30 mars</td><td>2010</td><td>8 juillet</td><td>2010</td></tr>
+<tr><td>Autriche</td><td>2 décembre</td><td>2020</td><td>1<sup>er</sup> janvier</td><td>2021</td></tr>
 <tr><td>Australie</td><td>6 janvier</td><td>2011</td><td>5 février</td><td>2011</td></tr>
-<tr><td>Azerbaïdjan</td><td>11 juin</td><td>2014</td><td>11 juillet</td><td>2014</td></tr>
+<tr><td>Azerbaïdjan\*</td><td>11 juin</td><td>2014</td><td>11 juillet</td><td>2014</td></tr>
 <tr><td>Bahamas</td><td>3 avril</td><td>2014 A</td><td>3 mai</td><td>2014</td></tr>
 <tr><td>Bahreïn</td><td>21 mai</td><td>2012</td><td>20 juin</td><td>2012</td></tr>
 <tr><td>Bangladesh</td><td>21 octobre</td><td>2010</td><td>20 novembre</td><td>2010</td></tr>
@@ -383,30 +379,37 @@ Champ d’application le 23 novembre 2015**[^t-5]**
 <tr><td>Belgique</td><td>17 décembre</td><td>2013 A</td><td>16 janvier</td><td>2014</td></tr>
 <tr><td>Belize</td><td>28 décembre</td><td>2012 A</td><td>27 janvier</td><td>2013</td></tr>
 <tr><td>Bénin</td><td>22 octobre</td><td>2012</td><td>21 novembre</td><td>2012</td></tr>
+<tr><td>Bhoutan</td><td>2 mai</td><td>2016 A</td><td>1<sup>er</sup> juin</td><td>2016</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>13 décembre</td><td>2010</td><td>12 janvier</td><td>2011</td></tr>
+<tr><td>Botswana</td><td>24 mai</td><td>2016 A</td><td>23 juin</td><td>2016</td></tr>
 <tr><td>Brunéi</td><td>20 avril</td><td>2011</td><td>20 mai</td><td>2011</td></tr>
 <tr><td>Bulgarie</td><td>23 mars</td><td>2010</td><td>8 juillet</td><td>2010</td></tr>
 <tr><td>Burkina Faso</td><td>25 juin</td><td>2013</td><td>25 juillet</td><td>2013</td></tr>
 <tr><td>Cameroun</td><td>21 juillet</td><td>2011</td><td>20 août</td><td>2011</td></tr>
+<tr><td>Canada</td><td>10 décembre</td><td>2018 A</td><td>9 janvier</td><td>2019</td></tr>
 <tr><td>Cap-Vert</td><td>18 janvier</td><td>2011</td><td>17 février</td><td>2011</td></tr>
 <tr><td>Chine</td><td>3 décembre</td><td>2013 A</td><td>2 janvier</td><td>2014</td></tr>
 <tr><td>Chypre</td><td>27 mai</td><td>2010</td><td>8 juillet</td><td>2010</td></tr>
 <tr><td>Colombie</td><td>8 janvier</td><td>2015</td><td>7 février</td><td>2015</td></tr>
 <tr><td>Comores</td><td>9 octobre</td><td>2015</td><td>9 novembre</td><td>2015</td></tr>
 <tr><td>Corée (Sud)</td><td>18 mai</td><td>2010</td><td>8 juillet</td><td>2010</td></tr>
+<tr><td>Costa Rica</td><td>18 mai</td><td>2018</td><td>17 juin</td><td>2018</td></tr>
 <tr><td>Côte d’Ivoire</td><td>16 septembre</td><td>2013</td><td>16 octobre</td><td>2013</td></tr>
 <tr><td>Croatie</td><td>24 juin</td><td>2011</td><td>24 juillet</td><td>2011</td></tr>
 <tr><td>Cuba</td><td>30 mars</td><td>2012 A</td><td>29 avril</td><td>2012</td></tr>
 <tr><td>Danemark</td><td>5 février</td><td>2010</td><td>8 juillet</td><td>2010</td></tr>
 <tr><td>Djibouti</td><td>12 mai</td><td>2011</td><td>11 juin</td><td>2011</td></tr>
-<tr><td>Egypte</td><td>11 juin</td><td>2012</td><td>11 juillet</td><td>2012</td></tr>
-<tr><td>Emirats arabes unis</td><td>18 juin</td><td>2009</td><td>8 juillet</td><td>2010</td></tr>
-<tr><td>Equateur</td><td>13 janvier</td><td>2011</td><td>12 février</td><td>2011</td></tr>
-<tr><td>Erythrée</td><td>6 juillet</td><td>2010</td><td>5 août</td><td>2010</td></tr>
+<tr><td>Dominique</td><td>9 octobre</td><td>2020 A</td><td>8 novembre</td><td>2020</td></tr>
+<tr><td>Égypte</td><td>11 juin</td><td>2012</td><td>11 juillet</td><td>2012</td></tr>
+<tr><td>El Salvador</td><td>22 mai</td><td>2017 A</td><td>21 juin</td><td>2017</td></tr>
+<tr><td>Émirats arabes unis</td><td>18 juin</td><td>2009</td><td>8 juillet</td><td>2010</td></tr>
+<tr><td>Équateur</td><td>13 janvier</td><td>2011</td><td>12 février</td><td>2011</td></tr>
+<tr><td>Érythrée</td><td>6 juillet</td><td>2010</td><td>5 août</td><td>2010</td></tr>
 <tr><td>Espagne</td><td>2 mars</td><td>2011</td><td>1<sup>er</sup> avril</td><td>2011</td></tr>
 <tr><td>Estonie</td><td>31 mai</td><td>2012</td><td>30 juin</td><td>2012</td></tr>
-<tr><td>Ethiopie</td><td>9 février</td><td>2012</td><td>10 mars</td><td>2012</td></tr>
-<tr><td>Etats-Unis</td><td>4 mars</td><td>2011</td><td>3 avril</td><td>2011</td></tr>
+<tr><td>Eswatini</td><td>4 mars</td><td>2011</td><td>3 avril</td><td>2011</td></tr>
+<tr><td>Éthiopie</td><td>9 février</td><td>2012</td><td>10 mars</td><td>2012</td></tr>
+<tr><td>États-Unis</td><td>4 mars</td><td>2011</td><td>3 avril</td><td>2011</td></tr>
 <tr><td>Fidji</td><td>2 novembre</td><td>2010</td><td>2 décembre</td><td>2010</td></tr>
 <tr><td>Finlande</td><td>23 février</td><td>2011</td><td>25 mars</td><td>2011</td></tr>
 <tr><td>France</td><td>2 mars</td><td>2011</td><td>1<sup>er</sup> avril</td><td>2011</td></tr>
@@ -416,34 +419,41 @@ Champ d’application le 23 novembre 2015**[^t-5]**
 <tr><td>Ghana</td><td>7 janvier</td><td>2014</td><td>6 février</td><td>2014</td></tr>
 <tr><td>Grèce</td><td>26 janvier</td><td>2012</td><td>25 février</td><td>2012</td></tr>
 <tr><td>Grenade</td><td>15 juin</td><td>2011</td><td>15 juillet</td><td>2011</td></tr>
+<tr><td>Guatemala</td><td>18 juillet</td><td>2023</td><td>17 août</td><td>2023</td></tr>
+<tr><td>Guinée</td><td>28 novembre</td><td>2019</td><td>28 décembre</td><td>2019</td></tr>
 <tr><td>Guyana</td><td>14 janvier</td><td>2014 A</td><td>13 février</td><td>2014</td></tr>
+<tr><td>Honduras</td><td>20 août</td><td>2021</td><td>19 septembre</td><td>2021</td></tr>
 <tr><td>Hongrie</td><td>16 décembre</td><td>2014 A</td><td>15 janvier</td><td>2015</td></tr>
-<tr><td>Iles Marshall</td><td>16 novembre</td><td>2010</td><td>16 décembre</td><td>2010</td></tr>
+<tr><td>Îles Marshall</td><td>16 novembre</td><td>2010</td><td>16 décembre</td><td>2010</td></tr>
+<tr><td>Îles Salomon</td><td>5 juillet</td><td>2013 A</td><td>4 août</td><td>2013</td></tr>
 <tr><td>Inde</td><td>4 mai</td><td>2010</td><td>8 juillet</td><td>2010</td></tr>
 <tr><td>Indonésie</td><td>8 août</td><td>2014 A</td><td>7 septembre</td><td>2014</td></tr>
 <tr><td>Iran</td><td>21 février</td><td>2013</td><td>23 mars</td><td>2013</td></tr>
 <tr><td>Iraq</td><td>30 novembre</td><td>2012</td><td>30 décembre</td><td>2012</td></tr>
 <tr><td>Irlande</td><td>9 juin</td><td>2015</td><td>9 juillet</td><td>2015</td></tr>
-<tr><td>Islande</td><td>18 mai</td><td>2010</td><td>8 juillet</td><td>2010</td></tr>
+<tr><td>Islande</td><td>19 mai</td><td>2010</td><td>8 juillet</td><td>2010</td></tr>
 <tr><td>Israël</td><td>8 juin</td><td>2010</td><td>8 juillet</td><td>2010</td></tr>
 <tr><td>Italie</td><td>25 septembre</td><td>2012</td><td>25 octobre</td><td>2012</td></tr>
 <tr><td>Jamaïque</td><td>28 janvier</td><td>2014 A</td><td>27 février</td><td>2014</td></tr>
 <tr><td>Japon</td><td>1<sup>er</sup> juillet</td><td>2010</td><td>31 juillet</td><td>2010</td></tr>
 <tr><td>Jordanie</td><td>3 juillet</td><td>2014</td><td>2 août</td><td>2014</td></tr>
-<tr><td>Kazakhstan</td><td>21 juillet</td><td>2011</td><td>20 août</td><td>2011</td></tr>
+<tr><td>Kazakhstan</td><td>5 juin</td><td>2013</td><td>5 juillet</td><td>2013</td></tr>
 <tr><td>Kenya</td><td>26 juin</td><td>2009</td><td>8 juillet</td><td>2010</td></tr>
+<tr><td>Kirghizistan</td><td>14 avril</td><td>2021</td><td>14 mai</td><td>2021</td></tr>
 <tr><td>Kiribati</td><td>23 avril</td><td>2013</td><td>23 mai</td><td>2013</td></tr>
 <tr><td>Koweït</td><td>6 février</td><td>2014</td><td>8 mars</td><td>2014</td></tr>
 <tr><td>Lesotho</td><td>16 septembre</td><td>2010</td><td>16 octobre</td><td>2010</td></tr>
 <tr><td>Lettonie</td><td>15 avril</td><td>2010</td><td>8 juillet</td><td>2010</td></tr>
+<tr><td>Liban</td><td>5 octobre</td><td>2017</td><td>4 novembre</td><td>2017</td></tr>
 <tr><td>Liechtenstein</td><td>29 juin</td><td>2009</td><td>8 juillet</td><td>2010</td></tr>
 <tr><td>Lituanie</td><td>1<sup>er</sup> mars</td><td>2011</td><td>31 mars</td><td>2011</td></tr>
 <tr><td>Luxembourg</td><td>9 septembre</td><td>2010</td><td>9 octobre</td><td>2010</td></tr>
-<tr><td>Macédoine</td><td>29 novembre</td><td>2010</td><td>29 décembre</td><td>2010</td></tr>
+<tr><td>Macédoine du Nord</td><td>29 novembre</td><td>2010</td><td>29 décembre</td><td>2010</td></tr>
 <tr><td>Malaisie</td><td>28 décembre</td><td>2010</td><td>27 janvier</td><td>2011</td></tr>
 <tr><td>Maldives</td><td>30 juin</td><td>2009</td><td>8 juillet</td><td>2010</td></tr>
 <tr><td>Mali</td><td>19 octobre</td><td>2010</td><td>18 novembre</td><td>2010</td></tr>
 <tr><td>Malte</td><td>19 avril</td><td>2011</td><td>19 mai</td><td>2011</td></tr>
+<tr><td>Maroc</td><td>24 novembre</td><td>2015</td><td>24 décembre</td><td>2015</td></tr>
 <tr><td>Maurice</td><td>25 mars</td><td>2011</td><td>24 avril</td><td>2011</td></tr>
 <tr><td>Mauritanie</td><td>13 mars</td><td>2012</td><td>12 avril</td><td>2012</td></tr>
 <tr><td>Mexique</td><td>4 mars</td><td>2011</td><td>3 avril</td><td>2011</td></tr>
@@ -455,6 +465,7 @@ Champ d’application le 23 novembre 2015**[^t-5]**
 <tr><td>Mozambique</td><td>29 mars</td><td>2011</td><td>28 avril</td><td>2011</td></tr>
 <tr><td>Namibie</td><td>28 novembre</td><td>2013 A</td><td>28 décembre</td><td>2013</td></tr>
 <tr><td>Nauru</td><td>10 août</td><td>2010</td><td>9 septembre</td><td>2010</td></tr>
+<tr><td>Népal</td><td>14 novembre</td><td>2017</td><td>14 décembre</td><td>2017</td></tr>
 <tr><td>Nicaragua</td><td>23 septembre</td><td>2010</td><td>23 octobre</td><td>2010</td></tr>
 <tr><td>Niger</td><td>16 novembre</td><td>2010</td><td>16 décembre</td><td>2010</td></tr>
 <tr><td>Nigéria</td><td>31 août</td><td>2010</td><td>30 septembre</td><td>2010</td></tr>
@@ -463,14 +474,22 @@ Champ d’application le 23 novembre 2015**[^t-5]**
 <tr><td>Oman</td><td>5 août</td><td>2010</td><td>4 septembre</td><td>2010</td></tr>
 <tr><td>Ouganda</td><td>17 avril</td><td>2012</td><td>17 mai</td><td>2012</td></tr>
 <tr><td>Pakistan</td><td>24 mai</td><td>2013</td><td>23 juin</td><td>2013</td></tr>
+<tr><td>Ouzbékistan</td><td>25 juillet</td><td>2017</td><td>24 août</td><td>2017</td></tr>
 <tr><td>Palaos</td><td>27 novembre</td><td>2009</td><td>8 juillet</td><td>2010</td></tr>
 <tr><td>Panama</td><td>16 décembre</td><td>2011</td><td>15 janvier</td><td>2012</td></tr>
-<tr><td>Pays-Bas</td><td>13 décembre</td><td>2010</td><td>12 janvier</td><td>2011</td></tr>
+<tr><td>Papouasie-Nouvelle-Guinée</td><td>3 juin</td><td>2022</td><td>3 juillet</td><td>2022</td></tr>
+<tr><td>Paraguay</td><td>31 janvier</td><td>2018 A</td><td>2 mars</td><td>2018</td></tr>
+<tr><td>Pays-Bas <sup>a</sup></td><td>13 décembre</td><td>2010</td><td>12 janvier</td><td>2011</td></tr>
+<tr><td>Aruba</td><td>13 décembre</td><td>2010</td><td>12 janvier</td><td>2011</td></tr>
+<tr><td>Curaçao</td><td>13 décembre</td><td>2010</td><td>12 janvier</td><td>2011</td></tr>
+<tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>13 décembre</td><td>2010</td><td>12 janvier</td><td>2011</td></tr>
+<tr><td>Sint Maarten</td><td>13 décembre</td><td>2010</td><td>12 janvier</td><td>2011</td></tr>
 <tr><td>Pérou</td><td>22 octobre</td><td>2013</td><td>21 novembre</td><td>2013</td></tr>
 <tr><td>Philippines</td><td>10 juin</td><td>2011</td><td>10 juillet</td><td>2011</td></tr>
 <tr><td>Pologne</td><td>1<sup>er</sup> avril</td><td>2010</td><td>8 juillet</td><td>2010</td></tr>
 <tr><td>Portugal</td><td>30 juin</td><td>2011</td><td>30 juillet</td><td>2011</td></tr>
 <tr><td>Qatar</td><td>30 mars</td><td>2011</td><td>29 avril</td><td>2011</td></tr>
+<tr><td>République centrafricaine</td><td>28 juillet</td><td>2021</td><td>27 août</td><td>2021</td></tr>
 <tr><td>Roumanie</td><td>22 juillet</td><td>2010</td><td>21 août</td><td>2010</td></tr>
 <tr><td>Royaume-Uni</td><td>10 avril</td><td>2012</td><td>10 mai</td><td>2012</td></tr>
 <tr><td>République dominicaine</td><td>9 juin</td><td>2010</td><td>9 juillet</td><td>2010</td></tr>
@@ -478,36 +497,41 @@ Champ d’application le 23 novembre 2015**[^t-5]**
 <tr><td>Russie</td><td>22 juin</td><td>2015</td><td>22 juillet</td><td>2015</td></tr>
 <tr><td>Rwanda</td><td>25 mai</td><td>2012</td><td>24 juin</td><td>2012</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>21 mai</td><td>2013 A</td><td>20 juin</td><td>2013</td></tr>
+<tr><td>Sainte-Lucie</td><td>1<sup>er</sup> mars</td><td>2016 A</td><td>31 mars</td><td>2016</td></tr>
+<tr><td>Saint-Marin</td><td>30 novembre</td><td>2021 A</td><td>30 décembre</td><td>2021</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>10 octobre</td><td>2012</td><td>9 novembre</td><td>2012</td></tr>
-<tr><td>Salomon, Iles</td><td>5 juillet</td><td>2013 A</td><td>4 août</td><td>2013</td></tr>
-<tr><td>Samoa</td><td>12 juillet</td><td>2010</td><td>11 août</td><td>2010</td></tr>
+<tr><td>Samoa</td><td>5 juillet</td><td>2010</td><td>4 août</td><td>2010</td></tr>
 <tr><td>Sao Tomé-et-Principe</td><td>2 octobre</td><td>2014</td><td>1<sup>er</sup> novembre</td><td>2014</td></tr>
 <tr><td>Serbie</td><td>4 février</td><td>2010</td><td>8 juillet</td><td>2010</td></tr>
 <tr><td>Seychelles</td><td>3 mai</td><td>2011</td><td>2 juin</td><td>2011</td></tr>
 <tr><td>Sierra Leone</td><td>25 mars</td><td>2011</td><td>24 avril</td><td>2011</td></tr>
-<tr><td>Singapour</td><td>5 février</td><td>2013 A</td><td>4 mars</td><td>2013</td></tr>
-<tr><td>Slovaquie</td><td>22 mars</td><td>2010</td><td>8 juillet</td><td>2010</td></tr>
+<tr><td>Singapour</td><td>5 février</td><td>2013 A</td><td>7 mars</td><td>2013</td></tr>
+<tr><td>Slovaquie</td><td>1<sup>er</sup> avril</td><td>2010</td><td>8 juillet</td><td>2010</td></tr>
 <tr><td>Slovénie</td><td>22 mars</td><td>2010</td><td>8 juillet</td><td>2010</td></tr>
 <tr><td>Somalie</td><td>13 novembre</td><td>2013</td><td>13 décembre</td><td>2013</td></tr>
 <tr><td>Soudan</td><td>19 mai</td><td>2011</td><td>18 juin</td><td>2011</td></tr>
 <tr><td>Sri Lanka</td><td>27 janvier</td><td>2011</td><td>26 février</td><td>2011</td></tr>
 <tr><td>Suisse</td><td>1<sup>er</sup> mars</td><td>2011</td><td>31 mars</td><td>2011</td></tr>
 <tr><td>Suède</td><td>10 juillet</td><td>2009</td><td>8 juillet</td><td>2010</td></tr>
-<tr><td>Swaziland</td><td>4 mars</td><td>2011</td><td>3 avril</td><td>2011</td></tr>
 <tr><td>Sénégal</td><td>19 octobre</td><td>2010</td><td>18 novembre</td><td>2010</td></tr>
 <tr><td>Tadjikistan</td><td>17 juillet</td><td>2013</td><td>16 août</td><td>2013</td></tr>
+<tr><td>Tchad</td><td>24 avril</td><td>2018</td><td>24 mai</td><td>2018</td></tr>
+<tr><td>Thaïlande</td><td>31 mars</td><td>2016 A</td><td>30 avril</td><td>2016</td></tr>
 <tr><td>Togo</td><td>8 septembre</td><td>2011</td><td>8 octobre</td><td>2011</td></tr>
-<tr><td>Tonga</td><td>3 février</td><td>2010</td><td>8 juillet</td><td>2010</td></tr>
+<tr><td>Tonga</td><td>4 février</td><td>2010</td><td>8 juillet</td><td>2010</td></tr>
 <tr><td>Tunisie</td><td>18 août</td><td>2011</td><td>17 septembre</td><td>2011</td></tr>
+<tr><td>Turkménistan</td><td>4 septembre</td><td>2018 A</td><td>4 octobre</td><td>2018</td></tr>
 <tr><td>Turquie</td><td>2 mars</td><td>2012</td><td>1<sup>er</sup> avril</td><td>2012</td></tr>
 <tr><td>Tuvalu</td><td>13 janvier</td><td>2013 A</td><td>12 février</td><td>2013</td></tr>
 <tr><td>Trinité-et-Tobago</td><td>16 janvier</td><td>2014 A</td><td>15 février</td><td>2014</td></tr>
+<tr><td>Ukraine</td><td>25 janvier</td><td>2018 A</td><td>24 février</td><td>2018</td></tr>
 <tr><td>Union européenne</td><td>5 juillet</td><td>2010</td><td>4 août</td><td>2010</td></tr>
 <tr><td>Uruguay</td><td>29 juillet</td><td>2011</td><td>28 août</td><td>2011</td></tr>
 <tr><td>Vanuatu</td><td>30 janvier</td><td>2013</td><td>1<sup>er</sup> mars</td><td>2013</td></tr>
 <tr><td>Yémen</td><td>22 février</td><td>2012</td><td>23 mars</td><td>2012</td></tr>
 <tr><td>Zambie</td><td>23 mai</td><td>2013</td><td>22 juin</td><td>2013</td></tr>
 <tr><td>Zimbabwe</td><td>18 août</td><td>2014</td><td>17 septembre</td><td>2014</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en allemand et anglais purront être consultés sur le site Internet du dépositaire (Gouvernement de la République fédérale d’Allemagne): [www.auswaertiges-amt.de/de/aussenpolitik/regelbasierte-internationale-ordnung/voelkerrecht-internationales-recht/-/240200](https://www.auswaertiges-amt.de/de/aussenpolitik/regelbasierte-internationale-ordnung/voelkerrecht-internationales-recht/-/240200) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-5]: [RO 2011 1721](https://fedlex.data.admin.ch/eli/oc/2011/259), [2015 5981](https://fedlex.data.admin.ch/eli/oc/2015/925)Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-5]: [RO 2011 1721](https://fedlex.data.admin.ch/eli/oc/2011/259); [2015 5981](https://fedlex.data.admin.ch/eli/oc/2015/925); [2023 594](https://fedlex.data.admin.ch/eli/oc/2023/594). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
