@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Aires de circulation destinées à la mobilité douce
 document: Projet mis en consultation-2
 language: fr

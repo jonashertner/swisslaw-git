@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Aree destinate alla mobilità lenta
 document: Progetto posto in consultazione
 language: it

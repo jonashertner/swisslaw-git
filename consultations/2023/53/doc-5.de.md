@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verkehrsflächen für den Langsamverkehr
 document: Vernehmlassungsvorlage-3
 language: de
