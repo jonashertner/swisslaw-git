@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Loi fédérale sur la prolongation du délai de compensation des pertes
 document: Projet mis en consultation
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Legge federale sull’estensione della compensazione delle perdite
 document: Progetto posto in consultazione
 language: it

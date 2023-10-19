@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bundesgesetz über die Erstreckung der Verlustverrechnung
 document: Vernehmlassungsvorlage
 language: de
