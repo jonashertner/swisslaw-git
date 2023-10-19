@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision complète de la loi fédérale sur le dossier électronique du patient
 document: Projet mis en consultation
 language: fr

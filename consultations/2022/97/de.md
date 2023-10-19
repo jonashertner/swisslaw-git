@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Umfassende Revision des Bundesgesetzes über das elektronische Patientendossier
 document: Vernehmlassungsvorlage
 language: de

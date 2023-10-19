@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione completa della legge federale sulla cartella informatizzata del paziente
 document: Progetto posto in consultazione
 language: it
