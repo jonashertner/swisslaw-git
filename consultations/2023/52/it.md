@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifiche della legge sull’approvvigionamento elettrico (riserva di elettricità)
 document: Progetto posto in consultazione
 language: it

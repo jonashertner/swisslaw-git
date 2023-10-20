@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderungen des Stromversorgungsgesetzes (Stromreserve)
 document: Vernehmlassungsvorlage
 language: de

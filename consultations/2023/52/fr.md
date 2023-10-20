@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifications de la loi sur l’approvisionnement en électricité (réserve d’électricité)
 document: Projet mis en consultation
 language: fr
