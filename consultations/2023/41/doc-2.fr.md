@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Rapport explicatif relatif au projet mis en consultation sur le financement de l’exploitation et la maintenance de l’infrastructure ferroviaire, des tâches systémiques de ce domaine et sur les contributions d’investissement en faveur des installations privées de transport de marchandises pour les années 2025 à 2028"
 document: Projet mis en consultation
 language: fr

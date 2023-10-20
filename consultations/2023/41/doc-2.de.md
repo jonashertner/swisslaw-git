@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Erläuternder Bericht zur Vernehmlassung zur Finanzierung des Betriebs und Substanzerhalts der Bahninfrastruktur, der Systemaufgaben in diesem Bereich und zu Investitionsbeiträgen an private Güterverkehrsanlagen in den Jahren 2025–2028"
 document: Vernehmlassungsvorlage
 language: de

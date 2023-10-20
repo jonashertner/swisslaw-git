@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Rapporto esplicativo per la procedura di consultazione concernente il finanziamento dell’esercizio, del mantenimento della qualità e dei compiti sistemici relativi all’infrastruttura ferroviaria nonché la concessione di contributi d’investimento a favore di impianti per il traffico merci privati negli anni 2025–2028"
 document: Progetto posto in consultazione-2
 language: it
