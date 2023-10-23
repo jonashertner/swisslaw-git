@@ -3,18 +3,18 @@ sr: "946.231.158.5"
 title: "Ordonnance du 24 juin 2020 instituant des mesures à l'encontre du Nicaragua"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/470"
 language: fr
-version: 2023-01-24
+version: 2023-10-24
 adopted: 2020-06-24
 in_force: 2020-06-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/470/20230124/fr/xml/fedlex-data-admin-ch-eli-cc-2020-470-20230124-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/470/20230124/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/470/20231024/fr/xml/fedlex-data-admin-ch-eli-cc-2020-470-20231024-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/470/20231024/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Nicaragua
 
-du 24 juin 2020 (État le 24 janvier 2023)
+du 24 juin 2020 (État le 24 octobre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -144,5 +144,5 @@ Annexe[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Mise à jour par le ch. I des O du DEFR du 12 août 2021 ([RO 2021 486](https://fedlex.data.admin.ch/eli/oc/2021/486)), du 20 janv. 2022 ([RO 2022 27](https://fedlex.data.admin.ch/eli/oc/2022/27)) ) et du 23 janv. 2023, en vigueur depuis le 24 janv. 2023 à 18 heures ([RO 2023 25](https://fedlex.data.admin.ch/eli/oc/2023/25)).
-[^annexu1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/25](https://fedlex.data.admin.ch/eli/oc/2023/25) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-1]: Mise à jour par le ch. I des O du DEFR du 12 août 2021 ([RO 2021 486](https://fedlex.data.admin.ch/eli/oc/2021/486)), du 20 janv. 2022 ([RO 2022 27](https://fedlex.data.admin.ch/eli/oc/2022/27)), du 23 janv. 2023 ([RO 2023 25](https://fedlex.data.admin.ch/eli/oc/2023/25)) et du 23 oct. 2023, en vigueur depuis le 24 oct. 2023 à 18 heures ([RO 2023 601](https://fedlex.data.admin.ch/eli/oc/2023/601)).
+[^annexu1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/601](https://fedlex.data.admin.ch/eli/oc/2023/601) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.

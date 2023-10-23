@@ -3,18 +3,18 @@ sr: "946.231.158.5"
 title: Verordnung vom 24. Juni 2020 über Massnahmen gegenüber Nicaragua
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/470"
 language: de
-version: 2023-01-24
+version: 2023-10-24
 adopted: 2020-06-24
 in_force: 2020-06-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/470/20230124/de/xml/fedlex-data-admin-ch-eli-cc-2020-470-20230124-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/470/20230124/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/470/20231024/de/xml/fedlex-data-admin-ch-eli-cc-2020-470-20231024-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/470/20231024/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Nicaragua
 
-vom 24. Juni 2020 (Stand am 24. Januar 2023)
+vom 24. Juni 2020 (Stand am 24. Oktober 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -144,5 +144,5 @@ Anhang[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 12. Aug. 2021 ([AS 2021 486](https://fedlex.data.admin.ch/eli/oc/2021/486)), vom 20. Jan. 2022 ([AS 2022 27](https://fedlex.data.admin.ch/eli/oc/2022/27)) und vom 23. Jan. 2023, in Kraft seit 24. Jan. 2023 um 18 Uhr ([AS 2023 25](https://fedlex.data.admin.ch/eli/oc/2023/25)).
-[^annexu1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/25](https://fedlex.data.admin.ch/eli/oc/2023/25) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 12. Aug. 2021 ([AS 2021 486](https://fedlex.data.admin.ch/eli/oc/2021/486)), vom 20. Jan. 2022 ([AS 2022 27](https://fedlex.data.admin.ch/eli/oc/2022/27)) vom 23. Jan. 2023 ([AS 2023 25](https://fedlex.data.admin.ch/eli/oc/2023/25)) und vom 23. Okt. 2023, in Kraft seit 24. Okt. 2023 um 18 Uhr ([AS 2023 601](https://fedlex.data.admin.ch/eli/oc/2023/601)).
+[^annexu1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/601](https://fedlex.data.admin.ch/eli/oc/2023/25) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
