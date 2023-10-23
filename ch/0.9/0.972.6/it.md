@@ -3,11 +3,11 @@ sr: "0.972.6"
 title: "Statuto del 29 giugno 2015 Banca asiatica d'investimento per le infrastrutture (con all.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/389"
 language: it
-version: 2021-07-05
+version: 2023-10-24
 adopted: 2015-06-29
 in_force: 2016-04-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/389/20210705/it/xml/fedlex-data-admin-ch-eli-cc-2016-389-20210705-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/389/20210705/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/389/20231024/it/xml/fedlex-data-admin-ch-eli-cc-2016-389-20231024-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/389/20231024/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2016** 2391; FF **2015** 6021
 
 *Traduzione*
 
-Concluso a Pechino il 29 giugno 2015
+Concluso a Pechino il 29 giugno 2015 Approvato dall’Assemblea federale il 18 dicembre 2015[^t-1] Strumento di ratifica depositato dalla Svizzera il 25 aprile 2016 Entrato in vigore per la Svizzera il 25 aprile 2016
 
-Approvato dall’Assemblea federale il 18 dicembre 2015[^t-1]
-
-Strumento di ratifica depositato dalla Svizzera il 25 aprile 2016
-
-Entrato in vigore per la Svizzera il 25 aprile 2016
-
-(Stato 5 luglio 2021)
+(Stato 24 ottobre 2023)
 
 [^t-1]: [RU 2016 2389](https://fedlex.data.admin.ch/eli/oc/2016/388)
 
@@ -895,7 +889,7 @@ Il Consiglio dei Governatori definisce le regole per l’organizzazione di ogni 
 
 \10. *Privilegi dei membri fondatori.* La designazione e la votazione degli Amministratori da parte dei Governatori nonché la nomina degli Amministratori supplenti da parte degli Amministratori rispettano il principio secondo cui ogni membro fondatore ha il privilegio di designare l’Amministratore o un Amministratore supplente della sua circoscrizione a titolo permanente o a rotazione.
 
-Campo d’applicazione il 5 luglio 2021**[^t-2]**
+Campo d’applicazione il 24 ottobre 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -909,7 +903,7 @@ Campo d’applicazione il 5 luglio 2021**[^t-2]**
 <tr><td>Bahrein</td><td>24 agosto</td><td>2018 A</td><td>24 agosto</td><td>2018</td></tr>
 <tr><td>Bangladesh</td><td>22 marzo</td><td>2016</td><td>22 marzo</td><td>2016</td></tr>
 <tr><td>Belgio</td><td>10 luglio</td><td>2019 A</td><td>10 luglio</td><td>2019</td></tr>
-<tr><td>Benin</td><td>27 maggio</td><td>2020 A</td><td>27 maggio</td><td>2020</td></tr>
+<tr><td>Benin</td><td>25 maggio</td><td>2020 A</td><td>25 maggio</td><td>2020</td></tr>
 <tr><td>Bielorussia</td><td>17 gennaio</td><td>2019 A</td><td>17 gennaio</td><td>2019</td></tr>
 <tr><td>Brasile</td><td>2 novembre</td><td>2020</td><td>2 novembre</td><td>2020</td></tr>
 <tr><td>Brunei</td><td>12 ottobre</td><td>2015</td><td>25 dicembre</td><td>2015</td></tr>
@@ -917,17 +911,19 @@ Campo d’applicazione il 5 luglio 2021**[^t-2]**
 <tr><td>Canada</td><td>19 marzo</td><td>2018 A</td><td>19 marzo</td><td>2018</td></tr>
 <tr><td>Cina</td><td>26 novembre</td><td>2015</td><td>25 dicembre</td><td>2015</td></tr>
 <tr><td>Hong Kong</td><td>2 dicembre</td><td>2015</td><td>25 dicembre</td><td>2015</td></tr>
+<tr><td>Cile</td><td>2 luglio</td><td>2021 A</td><td>2 luglio</td><td>2021</td></tr>
 <tr><td>Cipro</td><td>25 giugno</td><td>2018 A</td><td>25 giugno</td><td>2018</td></tr>
 <tr><td>Cook, Isole</td><td>1° giugno</td><td>2020 A</td><td>1° giugno</td><td>2020</td></tr>
 <tr><td>Corea (Sud)</td><td>11 dicembre</td><td>2015</td><td>25 dicembre</td><td>2015</td></tr>
 <tr><td>Costa d’Avorio</td><td>26 febbraio</td><td>2020 A</td><td>26 febbraio</td><td>2020</td></tr>
+<tr><td>Croazia</td><td>17 dicembre</td><td>2021 A</td><td>17 dicembre</td><td>2021</td></tr>
 <tr><td>Danimarca</td><td>15 gennaio</td><td>2016</td><td>15 gennaio</td><td>2016</td></tr>
 <tr><td>Ecuador</td><td>1° novembre</td><td>2019 A</td><td>1° novembre</td><td>2019</td></tr>
 <tr><td>Egitto</td><td>4 agosto</td><td>2016</td><td>4 agosto</td><td>2016</td></tr>
 <tr><td>Emirati Arabi Uniti</td><td>15 gennaio</td><td>2016</td><td>15 gennaio</td><td>2016</td></tr>
 <tr><td>Etiopia</td><td>13 maggio</td><td>2017 A</td><td>13 maggio</td><td>2017</td></tr>
 <tr><td>Figi</td><td>11 dicembre</td><td>2017 A</td><td>11 dicembre</td><td>2017</td></tr>
-<tr><td>Filippine</td><td>28 dicembre</td><td>2016 A</td><td>28 dicembre</td><td>2016</td></tr>
+<tr><td>Filippine</td><td>28 dicembre</td><td>2016</td><td>28 dicembre</td><td>2016</td></tr>
 <tr><td>Finlandia</td><td>7 gennaio</td><td>2016</td><td>7 gennaio</td><td>2016</td></tr>
 <tr><td>Francia</td><td>16 giugno</td><td>2016</td><td>16 giugno</td><td>2016</td></tr>
 <tr><td>Georgia</td><td>14 dicembre</td><td>2015</td><td>25 dicembre</td><td>2015</td></tr>
@@ -939,6 +935,7 @@ Campo d’applicazione il 5 luglio 2021**[^t-2]**
 <tr><td>India</td><td>11 gennaio</td><td>2016</td><td>11 gennaio</td><td>2016</td></tr>
 <tr><td>Indonesia</td><td>14 gennaio</td><td>2016</td><td>14 gennaio</td><td>2016</td></tr>
 <tr><td>Iran</td><td>16 gennaio</td><td>2017</td><td>16 gennaio</td><td>2017</td></tr>
+<tr><td>Iraq</td><td>4 agosto</td><td>2022 A</td><td>4 agosto</td><td>2022</td></tr>
 <tr><td>Irlanda</td><td>23 ottobre</td><td>2017 A</td><td>23 ottobre</td><td>2017</td></tr>
 <tr><td>Islanda</td><td>4 marzo</td><td>2016</td><td>4 marzo</td><td>2016</td></tr>
 <tr><td>Israele</td><td>15 gennaio</td><td>2016</td><td>15 gennaio</td><td>2016</td></tr>
@@ -947,11 +944,13 @@ Campo d’applicazione il 5 luglio 2021**[^t-2]**
 <tr><td>Kirghizistan</td><td>11 aprile</td><td>2016</td><td>11 aprile</td><td>2016</td></tr>
 <tr><td>Laos</td><td>15 gennaio</td><td>2016</td><td>15 gennaio</td><td>2016</td></tr>
 <tr><td>Liberia</td><td>4 gennaio</td><td>2021 A</td><td>4 gennaio</td><td>2021</td></tr>
+<tr><td>Libia</td><td>12 settembre</td><td>2023 A</td><td>12 settembre</td><td>2023</td></tr>
 <tr><td>Lussemburgo</td><td>8 dicembre</td><td>2015</td><td>25 dicembre</td><td>2015</td></tr>
 <tr><td>Madagascar</td><td>25 giugno</td><td>2018 A</td><td>25 giugno</td><td>2018</td></tr>
 <tr><td>Malaysia</td><td>27 marzo</td><td>2017 A</td><td>27 marzo</td><td>2017</td></tr>
 <tr><td>Maldive</td><td>4 gennaio</td><td>2016</td><td>4 gennaio</td><td>2016</td></tr>
 <tr><td>Malta</td><td>7 gennaio</td><td>2016</td><td>7 gennaio</td><td>2016</td></tr>
+<tr><td>Marocco</td><td>4 maggio</td><td>2022 A</td><td>4 maggio</td><td>2022</td></tr>
 <tr><td>Mongolia</td><td>27 novembre</td><td>2015</td><td>25 dicembre</td><td>2015</td></tr>
 <tr><td>Myanmar</td><td>1° luglio</td><td>2015</td><td>25 dicembre</td><td>2015</td></tr>
 <tr><td>Nepal</td><td>13 gennaio</td><td>2016</td><td>13 gennaio</td><td>2016</td></tr>
@@ -960,6 +959,7 @@ Campo d’applicazione il 5 luglio 2021**[^t-2]**
 <tr><td>Oman</td><td>21 giugno</td><td>2016</td><td>21 giugno</td><td>2016</td></tr>
 <tr><td>Paesi Bassi\*</td><td>16 dicembre</td><td>2015</td><td>25 dicembre</td><td>2015</td></tr>
 <tr><td>Pakistan</td><td>22 dicembre</td><td>2015</td><td>25 dicembre</td><td>2015</td></tr>
+<tr><td>Perù</td><td>14 gennaio</td><td>2022 A</td><td>14 gennaio</td><td>2022</td></tr>
 <tr><td>Polonia</td><td>15 giugno</td><td>2016</td><td>15 giugno</td><td>2016</td></tr>
 <tr><td>Portogallo</td><td>8 febbraio</td><td>2017</td><td>8 febbraio</td><td>2017</td></tr>
 <tr><td>Qatar</td><td>24 giugno</td><td>2016</td><td>24 giugno</td><td>2016</td></tr>
@@ -979,16 +979,17 @@ Campo d’applicazione il 5 luglio 2021**[^t-2]**
 <tr><td>Thailandia\*</td><td>20 giugno</td><td>2016</td><td>20 giugno</td><td>2016</td></tr>
 <tr><td>Timor Est</td><td>22 novembre</td><td>2017 A</td><td>22 novembre</td><td>2017</td></tr>
 <tr><td>Tonga</td><td>5 gennaio</td><td>2021 A</td><td>5 gennaio</td><td>2021</td></tr>
+<tr><td>Tunisia</td><td>29 aprile</td><td>2022 A</td><td>29 aprile</td><td>2022</td></tr>
 <tr><td>Turchia</td><td>15 gennaio</td><td>2016</td><td>15 gennaio</td><td>2016</td></tr>
 <tr><td>Ungheria</td><td>16 giugno</td><td>2017 A</td><td>16 giugno</td><td>2017</td></tr>
 <tr><td>Uruguay</td><td>28 aprile</td><td>2020 A</td><td>28 aprile</td><td>2020</td></tr>
 <tr><td>Uzbekistan</td><td>30 novembre</td><td>2016</td><td>30 novembre</td><td>2016</td></tr>
 <tr><td>Vanuatu</td><td>6 marzo</td><td>2018 A</td><td>6 marzo</td><td>2018</td></tr>
 <tr><td>Vietnam\*</td><td>11 aprile</td><td>2016</td><td>11 aprile</td><td>2016</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. I testi, in inglese, possono essere ottenuti presso la Direzione del diritto internazionale pub-blico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU, ad eccezione di quelle della Svizzera. I testi in inglese si possono consultare I testi in inglese possono consultare sul sito internet della Banca asiatica d’investimento per le infrastrutture [www.aiib.org](https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html) &gt; Who we are &gt; Governance &gt; Members and prospective members of the bank o richiedere alla Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 2016 2391](https://fedlex.data.admin.ch/eli/oc/2016/389); [2018 35](https://fedlex.data.admin.ch/eli/oc/2018/16), [2789](https://fedlex.data.admin.ch/eli/oc/2018/418); [2020 1881](https://fedlex.data.admin.ch/eli/oc/2020/389)e [2021 444](https://fedlex.data.admin.ch/eli/oc/2021/444). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: (https://www.fedlex.admin.ch/it/treaty).
+[^t-2]: [RU 2016 2391](https://fedlex.data.admin.ch/eli/oc/2016/389); [2018 35](https://fedlex.data.admin.ch/eli/oc/2018/16), [2789](https://fedlex.data.admin.ch/eli/oc/2018/418); [2020 1881](https://fedlex.data.admin.ch/eli/oc/2020/389); [2021 444](https://fedlex.data.admin.ch/eli/oc/2021/444); [2023 609](https://fedlex.data.admin.ch/eli/oc/2023/609). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty
 
 Riserva
 
