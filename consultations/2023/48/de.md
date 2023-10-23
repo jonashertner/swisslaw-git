@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung des Bundesgesetzes über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELG). Anerkennung des betreuten Wohnens für Bezügerinnen und Bezüger von EL zur AHV"
 document: Vernehmlassungsvorlage
 language: de

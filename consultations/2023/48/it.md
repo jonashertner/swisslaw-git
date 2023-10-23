@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica della legge federale sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità (LPC). Riconoscimento di forme di alloggio con assistenza per i beneficiari di PC all’AVS"
 document: Progetto posto in consultazione
 language: it

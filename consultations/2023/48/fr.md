@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la loi sur les prestations complémentaires à l’AVS et à l’AI (LPC). Reconnaissance des logements protégés pour les bénéficiaires de PC à l’AVS
 document: Projet mis en consultation
 language: fr
