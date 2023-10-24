@@ -3,11 +3,11 @@ sr: "0.518.523"
 title: Zusatzprotokoll vom 8. Dezember 2005 zu den Genfer Abkommen vom 12. August 1949 über die Annahme eines zusätzlichen Schutzzeichens (Protokoll III)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/38"
 language: de
-version: 2020-06-19
+version: 2023-10-25
 adopted: 2005-12-08
 in_force: 2007-01-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/38/20200619/de/xml/fedlex-data-admin-ch-eli-cc-2007-38-20200619-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/38/20200619/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/38/20231025/de/xml/fedlex-data-admin-ch-eli-cc-2007-38-20231025-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/38/20231025/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -28,7 +28,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 14. Juli 2006
 
 In Kraft getreten für die Schweiz am 14. Januar 2007
 
-(Stand am 19. Juni 2020)
+(Stand am 25. Oktober 2023)
 
 [^t-1]: Art. 1 Abs. 1 des BB vom 24. März 2006 ([AS 2007 185](https://fedlex.data.admin.ch/eli/oc/2007/37)).
 
@@ -220,17 +220,17 @@ Anhang
 
 **Schutzzeichen**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/38/20200619/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/38/20231025/de/xml/image/image1.png)
 
 #### Art. 2
 
 **Verwendung des Zeichens des III. Protokolls zum Zweck der Bezeichnung**
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/38/20200619/de/xml/image/image1.png)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/38/20200619/de/xml/image/image2.png) Einfügung in Übereinstimmung mit Art. 3</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/38/20231025/de/xml/image/image1.png)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/38/20231025/de/xml/image/image2.png) Einfügung in Übereinstimmung mit Art. 3</td></tr>
 </table>
 
-Geltungsbereich am 19. Juni 2020**[^t-2]**
+Geltungsbereich am 25. Okt. 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -250,6 +250,7 @@ Geltungsbereich am 19. Juni 2020**[^t-2]**
 <tr><td>Dänemark</td><td>25. Mai</td><td>2007</td><td>25. November</td><td>2007</td></tr>
 <tr><td>Deutschland</td><td>17. Juni</td><td>2009</td><td>17. Dezember</td><td>2009</td></tr>
 <tr><td>Dominikanische Republik</td><td>1. April</td><td>2009</td><td>1. Oktober</td><td>2009</td></tr>
+<tr><td>Ecuador</td><td>6. Oktober</td><td>2020</td><td>6. April</td><td>2021</td></tr>
 <tr><td>El Salvador</td><td>12. September</td><td>2007</td><td>12. März</td><td>2008</td></tr>
 <tr><td>Estland</td><td>28. Februar</td><td>2008</td><td>28. August</td><td>2008</td></tr>
 <tr><td>Fidschi</td><td>30. Juli</td><td>2008 B</td><td>30. Januar</td><td>2009</td></tr>
@@ -263,6 +264,7 @@ Geltungsbereich am 19. Juni 2020**[^t-2]**
 <tr><td>Island</td><td>4. August</td><td>2006</td><td>4. Februar</td><td>2007</td></tr>
 <tr><td>Israel\*</td><td>22. November</td><td>2007</td><td>22. Mai</td><td>2008</td></tr>
 <tr><td>Italien</td><td>29. Januar</td><td>2009</td><td>29. Juli</td><td>2009</td></tr>
+<tr><td>Kamerun</td><td>23. September</td><td>2021 B</td><td>23. März</td><td>2022</td></tr>
 <tr><td>Kanada\*</td><td>26. November</td><td>2007</td><td>26. Mai</td><td>2008</td></tr>
 <tr><td>Kasachstan</td><td>24. Juni</td><td>2009 B</td><td>24. Dezember</td><td>2009</td></tr>
 <tr><td>Kenia</td><td>28. Oktober</td><td>2013</td><td>28. April</td><td>2014</td></tr>
@@ -279,12 +281,14 @@ Geltungsbereich am 19. Juni 2020**[^t-2]**
 <tr><td>Monaco</td><td>12. März</td><td>2007</td><td>12. September</td><td>2007</td></tr>
 <tr><td>Nauru</td><td>4. Dezember</td><td>2012</td><td>4. Juni</td><td>2013</td></tr>
 <tr><td>Neuseeland</td><td>23. Oktober</td><td>2013</td><td>23. April</td><td>2014</td></tr>
+<tr><td>Cook-Inseln</td><td>7. September</td><td>2011 B</td><td>7. März</td><td>2012</td></tr>
 <tr><td>Nicaragua</td><td>2. April</td><td>2009</td><td>2. Oktober</td><td>2009</td></tr>
 <tr><td>Niederlande <sup>a</sup></td><td>13. Dezember</td><td>2006</td><td>13. Juni</td><td>2007</td></tr>
 <tr><td>Aruba</td><td>13. Dezember</td><td>2006</td><td>13. Juni</td><td>2007</td></tr>
 <tr><td>Curaçao</td><td>13. Dezember</td><td>2006</td><td>13. Juni</td><td>2007</td></tr>
 <tr><td>Sint Maarten</td><td>13. Dezember</td><td>2006</td><td>13. Juni</td><td>2007</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>13. Dezember</td><td>2006</td><td>13. Juni</td><td>2007</td></tr>
+<tr><td>Aruba</td><td>13. Dezember</td><td>2006</td><td>13. Juni</td><td>2007</td></tr>
 <tr><td>Nordmazedonien</td><td>14. Oktober</td><td>2008</td><td>14. April</td><td>2009</td></tr>
 <tr><td>Norwegen</td><td>13. Juni</td><td>2006</td><td>14. Januar</td><td>2007</td></tr>
 <tr><td>Österreich</td><td>3. Juni</td><td>2009</td><td>3. Dezember</td><td>2009</td></tr>
@@ -300,10 +304,10 @@ Geltungsbereich am 19. Juni 2020**[^t-2]**
 <tr><td>Schweden</td><td>21. August</td><td>2014</td><td>21. Februar</td><td>2015</td></tr>
 <tr><td>Schweiz</td><td>14. Juli</td><td>2006</td><td>14. Januar</td><td>2007</td></tr>
 <tr><td>Serbien</td><td>18. August</td><td>2010</td><td>18. Februar</td><td>2011</td></tr>
-<tr><td>Spanien</td><td>10. Dezember</td><td>2010</td><td>10. Juni</td><td>2011</td></tr>
 <tr><td>Singapur</td><td>7. Juli</td><td>2008</td><td>7. Januar</td><td>2009</td></tr>
 <tr><td>Slowakei</td><td>30. Mai</td><td>2007</td><td>30. November</td><td>2007</td></tr>
 <tr><td>Slowenien</td><td>10. März</td><td>2008</td><td>10. September</td><td>2008</td></tr>
+<tr><td>Spanien</td><td>10. Dezember</td><td>2010</td><td>10. Juni</td><td>2011</td></tr>
 <tr><td>Südsudan</td><td>25. Januar</td><td>2013 B</td><td>25. Januar</td><td>2013</td></tr>
 <tr><td>Suriname</td><td>25. Juni</td><td>2013 B</td><td>25. Dezember</td><td>2013</td></tr>
 <tr><td>Timor-Leste</td><td>29. Juli</td><td>2011</td><td>29. Januar</td><td>2012</td></tr>
@@ -331,7 +335,8 @@ Geltungsbereich am 19. Juni 2020**[^t-2]**
 <tr><td>Südgeorgien und Südliche Sandwichinseln</td><td>15. Juni</td><td>2011</td><td>15. Dezember</td><td>2011</td></tr>
 <tr><td>Turks- und Caicosinseln</td><td>15. Juni</td><td>2011</td><td>15. Dezember</td><td>2011</td></tr>
 <tr><td>Zypern</td><td>27. November</td><td>2007</td><td>27. Mai</td><td>2008</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite des Internationalen Komitees vom Roten Kreuz: www.icrc.org &gt; Français &gt; Guerre et Droit &gt; Traités et droit coutumier eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">[tab] \* Vorbehalte und Erklärungen. [tab] Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen Texte können auf der Internetseite des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA): [www.eda.admin.ch](https://www.eda.admin.ch/eda/fr/dfae/politique-exterieure/droit-international-public/traites-internationaux/depositaire/protection-des-victimes-de-la-guerre.html) &gt; Politique extérieure &gt; Droit international public &gt; Traités internationaux &gt; Dépositaire &gt; Protection des victimes de la guerre eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Für das königreich in Europa.</td></tr>
+<tr><td colspan="5">[tab]</td></tr>
 </table>
 
-[^t-2]: [AS 2007 189](https://fedlex.data.admin.ch/eli/oc/2007/38)[3929](https://fedlex.data.admin.ch/eli/oc/2007/521), [2008 665](https://fedlex.data.admin.ch/eli/oc/2008/163), [2009 2547](https://fedlex.data.admin.ch/eli/oc/2009/325), [2010 29](https://fedlex.data.admin.ch/eli/oc/2010/11)[3529](https://fedlex.data.admin.ch/eli/oc/2010/501), [2011 3681](https://fedlex.data.admin.ch/eli/oc/2011/517), [2012 3811](https://fedlex.data.admin.ch/eli/oc/2012/441), [2013 2095](https://fedlex.data.admin.ch/eli/oc/2013/442), [2014 2415](https://fedlex.data.admin.ch/eli/oc/2014/425), [2015 2507](https://fedlex.data.admin.ch/eli/oc/2015/472)und [2020 2889](https://fedlex.data.admin.ch/eli/oc/2020/531). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege)
+[^t-2]: [AS 2007 189](https://fedlex.data.admin.ch/eli/oc/2007/38)[3929](https://fedlex.data.admin.ch/eli/oc/2007/521), [2008 665](https://fedlex.data.admin.ch/eli/oc/2008/163), [2009 2547](https://fedlex.data.admin.ch/eli/oc/2009/325), [2010 29](https://fedlex.data.admin.ch/eli/oc/2010/11)[3529](https://fedlex.data.admin.ch/eli/oc/2010/501), [2011 3681](https://fedlex.data.admin.ch/eli/oc/2011/517), [2012 3811](https://fedlex.data.admin.ch/eli/oc/2012/441), [2013 2095](https://fedlex.data.admin.ch/eli/oc/2013/442), [2014 2415](https://fedlex.data.admin.ch/eli/oc/2014/425), [2015 2507](https://fedlex.data.admin.ch/eli/oc/2015/472), [2020 2889](https://fedlex.data.admin.ch/eli/oc/2020/531), [2023 607](https://fedlex.data.admin.ch/eli/oc/2023/607). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

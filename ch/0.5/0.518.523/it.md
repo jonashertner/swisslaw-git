@@ -3,11 +3,11 @@ sr: "0.518.523"
 title: "Protocollo aggiuntivo dell' 8 dicembre 2005 alle Convenzioni di Ginevra del 12 agosto 1949 relativo all'adozione di un segno distintivo addizionale (Protocollo III)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/38"
 language: it
-version: 2020-06-19
+version: 2023-10-25
 adopted: 2005-12-08
 in_force: 2007-01-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/38/20200619/it/xml/fedlex-data-admin-ch-eli-cc-2007-38-20200619-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/38/20200619/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/38/20231025/it/xml/fedlex-data-admin-ch-eli-cc-2007-38-20231025-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/38/20231025/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,15 +20,9 @@ Traduzione
 
 (Protocollo III)
 
-Concluso a Ginevra l’8 dicembre 2005
+Concluso a Ginevra l’8 dicembre 2005 Approvato dall’Assemblea federale il 24 marzo 2006[^t-1] Strumento di ratifica depositato dalla Svizzera il 14 luglio 2006 Entrato in vigore per la Svizzera il 14 gennaio 2007
 
-Approvato dall’Assemblea federale il 24 marzo 2006[^t-1]
-
-Strumento di ratifica depositato dalla Svizzera il 14 luglio 2006
-
-Entrato in vigore per la Svizzera il 14 gennaio 2007
-
-(Stato 19 giugno 2020)
+(Stato 25 ottobre 2023)
 
 [^t-1]: Art. 1 cpv. 1 del DF del 24 mar. 2006 ([RU 2007 185](https://fedlex.data.admin.ch/eli/oc/2007/37)).
 
@@ -221,17 +215,17 @@ Allegato
 
 **Segno distintivo**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/38/20200619/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/38/20231025/it/xml/image/image1.png)
 
 #### Art. 2
 
 **Uso indicativo dell’emblema del terzo Protocollo**
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/38/20200619/it/xml/image/image1.png)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/38/20200619/it/xml/image/image2.png) Incorporazione secondo l’art. 3</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/38/20231025/it/xml/image/image1.png)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/38/20231025/it/xml/image/image2.png) Incorporazione secondo l’art. 3</td></tr>
 </table>
 
-Campo d’applicazione il 19 giugno 2020**[^t-2]**
+Campo d’applicazione il 25 ottobre 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -246,15 +240,16 @@ Campo d’applicazione il 19 giugno 2020**[^t-2]**
 <tr><td>Brasile</td><td>28 agosto</td><td>2009</td><td>28 febbraio</td><td>2010</td></tr>
 <tr><td>Bulgaria</td><td>13 settembre</td><td>2006</td><td>13 marzo</td><td>2007</td></tr>
 <tr><td>Burkina Faso</td><td>7 ottobre</td><td>2016</td><td>7 aprile</td><td>2017</td></tr>
+<tr><td>Camerun</td><td>23 settembre</td><td>2021 A</td><td>23 marzo</td><td>2022</td></tr>
 <tr><td>Canada\*</td><td>26 novembre</td><td>2007</td><td>26 maggio</td><td>2008</td></tr>
 <tr><td>Ceca, Repubblica</td><td>23 maggio</td><td>2007</td><td>23 novembre</td><td>2007</td></tr>
 <tr><td>Cile</td><td>6 luglio</td><td>2009</td><td>6 gennaio</td><td>2010</td></tr>
 <tr><td>Cipro</td><td>27 novembre</td><td>2007</td><td>27 maggio</td><td>2008</td></tr>
-<tr><td>Cook, Isole</td><td>7 settembre</td><td>2011 A</td><td>7 marzo</td><td>2012</td></tr>
 <tr><td>Costa Rica</td><td>30 giugno</td><td>2008</td><td>30 dicembre</td><td>2008</td></tr>
 <tr><td>Croazia</td><td>13 giugno</td><td>2007</td><td>13 dicembre</td><td>2007</td></tr>
 <tr><td>Danimarca</td><td>25 maggio</td><td>2007</td><td>25 novembre</td><td>2007</td></tr>
 <tr><td>Dominicana, Repubblica</td><td>1° aprile</td><td>2009</td><td>1° ottobre</td><td>2009</td></tr>
+<tr><td>Ecuador</td><td>6 ottobre</td><td>2020</td><td>6 aprile</td><td>2021</td></tr>
 <tr><td>El Salvador</td><td>12 settembre</td><td>2007</td><td>12 marzo</td><td>2008</td></tr>
 <tr><td>Estonia</td><td>28 febbraio</td><td>2008</td><td>28 agosto</td><td>2008</td></tr>
 <tr><td>Figi</td><td>30 luglio</td><td>2008 A</td><td>30 gennaio</td><td>2009</td></tr>
@@ -289,6 +284,7 @@ Campo d’applicazione il 19 giugno 2020**[^t-2]**
 <tr><td>Nuova Zelanda</td><td>23 ottobre</td><td>2013</td><td>23 aprile</td><td>2014</td></tr>
 <tr><td>Paesi Bassi <sup>a</sup></td><td>13 dicembre</td><td>2006</td><td>13 giugno</td><td>2007</td></tr>
 <tr><td>Aruba</td><td>13 dicembre</td><td>2006</td><td>13 giugno</td><td>2007</td></tr>
+<tr><td>Cook, Isole</td><td>7 settembre</td><td>2011 A</td><td>7 marzo</td><td>2012</td></tr>
 <tr><td>Curaçao</td><td>13 dicembre</td><td>2006</td><td>13 giugno</td><td>2007</td></tr>
 <tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>13 dicembre</td><td>2006</td><td>13 giugno</td><td>2007</td></tr>
 <tr><td>Sint Maarten</td><td>13 dicembre</td><td>2006</td><td>13 giugno</td><td>2007</td></tr>
@@ -312,7 +308,7 @@ Campo d’applicazione il 19 giugno 2020**[^t-2]**
 <tr><td>Pitcairn, Isole (Ducie, Oeno, Henderson e Pitcairn)</td><td>15 giugno</td><td>2011</td><td>15 dicembre</td><td>2011</td></tr>
 <tr><td>Sant’Elena e dipendenze (Ascension e Tristan da Cunha)</td><td>15 giugno</td><td>2011</td><td>15 dicembre</td><td>2011</td></tr>
 <tr><td>Territorio Antartico Britannico</td><td>15 giugno</td><td>2011</td><td>15 dicembre</td><td>2011</td></tr>
-<tr><td>Territorio Britannico dell’Oceano Indiano</td><td>15 giugno</td><td>2011</td><td>15 dicembre</td><td>2011</td></tr>
+<tr><td>Territorio Britannico dell’Oceano indiano</td><td>15 giugno</td><td>2011</td><td>15 dicembre</td><td>2011</td></tr>
 <tr><td>Turks e Caicos, Isole</td><td>15 giugno</td><td>2011</td><td>15 dicembre</td><td>2011</td></tr>
 <tr><td>Vergini Britanniche, Isole</td><td>15 giugno</td><td>2011</td><td>15 dicembre</td><td>2011</td></tr>
 <tr><td>Romania</td><td>15 maggio</td><td>2015</td><td>15 novembre</td><td>2015</td></tr>
@@ -332,7 +328,7 @@ Campo d’applicazione il 19 giugno 2020**[^t-2]**
 <tr><td>Uganda</td><td>21 maggio</td><td>2008 A</td><td>21 novembre</td><td>2008</td></tr>
 <tr><td>Ungheria</td><td>15 novembre</td><td>2006</td><td>15 maggio</td><td>2007</td></tr>
 <tr><td>Uruguay</td><td>19 ottobre</td><td>2012</td><td>19 aprile</td><td>2013</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. [tab] Le riserve e dichiarazioni non sono pubblicate nella RU. I testi, in francese e inglese, possono essere consultati sul sito Internet del Comitato internazionale della Croce Rossa: www.icrc.org &gt; Français &gt; Guerre et Droit &gt; Traités et droit coutumier, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna. <sup>a</sup> Per il Regno in Europa.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU. I testi in francese si possono consultare sul sito del Dipartimento federale degli affari esteri (DFAE): [www.eda.admin.ch](https://www.eda.admin.ch/eda/fr/dfae/politique-exterieure/droit-international-public/traites-internationaux/depositaire/protection-des-victimes-de-la-guerre.html) &gt; Politique extérieure &gt; Droit international public &gt; Traités internationaux &gt; Dépositaire &gt; Protection des victimes de la guerre o richiedere alla Direzione del diritto internazionale, Sezione dei trattati degli Stati, 3003 Berna. <sup>a</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-2]: [RU 2007 189](https://fedlex.data.admin.ch/eli/oc/2007/38)[3929](https://fedlex.data.admin.ch/eli/oc/2007/521), [2008 665](https://fedlex.data.admin.ch/eli/oc/2008/163), [2009 2547](https://fedlex.data.admin.ch/eli/oc/2009/325), [2010 29](https://fedlex.data.admin.ch/eli/oc/2010/11)[3529](https://fedlex.data.admin.ch/eli/oc/2010/501), [2011 3681](https://fedlex.data.admin.ch/eli/oc/2011/517), [2012 3811](https://fedlex.data.admin.ch/eli/oc/2012/441), [2013 2095](https://fedlex.data.admin.ch/eli/oc/2013/442), [2014 2415](https://fedlex.data.admin.ch/eli/oc/2014/425), [2015 2507](https://fedlex.data.admin.ch/eli/oc/2015/472)e [2020 2889](https://fedlex.data.admin.ch/eli/oc/2020/531). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2007 189](https://fedlex.data.admin.ch/eli/oc/2007/38), [3929](https://fedlex.data.admin.ch/eli/oc/2007/521); [2008 665](https://fedlex.data.admin.ch/eli/oc/2008/163); [2009 2547](https://fedlex.data.admin.ch/eli/oc/2009/325); [2010 29](https://fedlex.data.admin.ch/eli/oc/2010/11), [3529](https://fedlex.data.admin.ch/eli/oc/2010/501); [2011 3681](https://fedlex.data.admin.ch/eli/oc/2011/517); [2012 3811](https://fedlex.data.admin.ch/eli/oc/2012/441); [2013 2095](https://fedlex.data.admin.ch/eli/oc/2013/442); [2014 2415](https://fedlex.data.admin.ch/eli/oc/2014/425); [2015 2507](https://fedlex.data.admin.ch/eli/oc/2015/472); [2020 2889](https://fedlex.data.admin.ch/eli/oc/2020/531); [2023 607](https://fedlex.data.admin.ch/eli/oc/2023/607). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
