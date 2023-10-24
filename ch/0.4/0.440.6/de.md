@@ -3,11 +3,11 @@ sr: "0.440.6"
 title: Übereinkommen vom 17. Oktober 2003 zur Bewahrung des immateriellen Kulturerbes
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/674"
 language: de
-version: 2020-03-25
+version: 2023-10-25
 adopted: 2003-10-17
 in_force: 2008-10-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/674/20200325/de/xml/fedlex-data-admin-ch-eli-cc-2008-674-20200325-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/674/20200325/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/674/20231025/de/xml/fedlex-data-admin-ch-eli-cc-2008-674-20231025-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/674/20231025/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2008** 4801; BBl **2007** 7251
 
 Abgeschlossen in Paris am 17. Oktober 2003 Von der Bundesversammlung genehmigt am 20. März 2008[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 16. Juli 2008 In Kraft getreten für die Schweiz am 16. Oktober 2008
 
-(Stand am 25. März 2020)
+(Stand am 25. Oktober 2023)
 
 [^t-1]: [AS 2008 4799](https://fedlex.data.admin.ch/eli/oc/2008/673)
 
@@ -524,7 +524,7 @@ Auf Ersuchen des Generaldirektors der UNESCO wird dieses Übereinkommen nach Art
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 25. März 2020**[^t-2]**
+Geltungsbereich am 25. Okt. 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -533,6 +533,7 @@ Geltungsbereich am 25. März 2020**[^t-2]**
 <tr><td>Albanien</td><td>4. Juni</td><td>2006</td><td>4. Juli</td><td>2006</td></tr>
 <tr><td>Algerien</td><td>15. März</td><td>2004</td><td>20. April</td><td>2006</td></tr>
 <tr><td>Andorra</td><td>8. November</td><td>2013</td><td>8. Februar</td><td>2014</td></tr>
+<tr><td>Angola</td><td>28. Juli</td><td>2020</td><td>28. Oktober</td><td>2020</td></tr>
 <tr><td>Antigua und Barbuda</td><td>25. April</td><td>2013</td><td>25. Juli</td><td>2013</td></tr>
 <tr><td>Äquatorialguinea</td><td>17. Juni</td><td>2010</td><td>17. September</td><td>2010</td></tr>
 <tr><td>Argentinien\*</td><td>9. August</td><td>2006</td><td>9. November</td><td>2006</td></tr>
@@ -559,7 +560,6 @@ Geltungsbereich am 25. März 2020**[^t-2]**
 <tr><td>Chile</td><td>10. Dezember</td><td>2008</td><td>10. März</td><td>2009</td></tr>
 <tr><td>China</td><td>2. Dezember</td><td>2004</td><td>20. April</td><td>2006</td></tr>
 <tr><td>Hongkong</td><td>6. Januar</td><td>2005</td><td>20. April</td><td>2006</td></tr>
-<tr><td>Cook-Inseln</td><td>3. Mai</td><td>2016</td><td>3. August</td><td>2016</td></tr>
 <tr><td>Costa Rica</td><td>23. Februar</td><td>2007</td><td>23. Mai</td><td>2007</td></tr>
 <tr><td>Côte d’Ivoire</td><td>13. Juli</td><td>2006</td><td>13. Oktober</td><td>2006</td></tr>
 <tr><td>Dänemark</td><td>30. Oktober</td><td>2009</td><td>30. Januar</td><td>2010</td></tr>
@@ -641,6 +641,8 @@ Geltungsbereich am 25. März 2020**[^t-2]**
 <tr><td>Myanmar</td><td>7. Mai</td><td>2014</td><td>7. August</td><td>2014</td></tr>
 <tr><td>Namibia</td><td>19. September</td><td>2007</td><td>19. Dezember</td><td>2007</td></tr>
 <tr><td>Nauru</td><td>1. März</td><td>2013</td><td>1. Juni</td><td>2013</td></tr>
+<tr><td>Neuseeland</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Cook-Inseln</td><td>3. Mai</td><td>2016</td><td>3. August</td><td>2016</td></tr>
 <tr><td>Nepal</td><td>15. Juni</td><td>2010</td><td>15. September</td><td>2010</td></tr>
 <tr><td>Nicaragua</td><td>14. Februar</td><td>2006</td><td>14. Mai</td><td>2006</td></tr>
 <tr><td>Niederlande</td><td>15. Mai</td><td>2012</td><td>15. August</td><td>2012</td></tr>
@@ -669,6 +671,7 @@ Geltungsbereich am 25. März 2020**[^t-2]**
 <tr><td>Salomoninseln</td><td>11. Mai</td><td>2018</td><td>11. August</td><td>2018</td></tr>
 <tr><td>Sambia</td><td>10. Mai</td><td>2006</td><td>10. August</td><td>2006</td></tr>
 <tr><td>Samoa</td><td>13. November</td><td>2013</td><td>13. Februar</td><td>2014</td></tr>
+<tr><td>San Marino</td><td>17. November</td><td>2022</td><td>17. Februar</td><td>2023</td></tr>
 <tr><td>São Tomé und Príncipe</td><td>25. Juli</td><td>2006</td><td>25. Oktober</td><td>2006</td></tr>
 <tr><td>Saudi-Arabien\*</td><td>10. Januar</td><td>2008</td><td>10. April</td><td>2008</td></tr>
 <tr><td>Schweden</td><td>26. Januar</td><td>2011</td><td>26. April</td><td>2011</td></tr>
@@ -713,7 +716,7 @@ Geltungsbereich am 25. März 2020**[^t-2]**
 <tr><td>Vietnam</td><td>20. September</td><td>2005</td><td>20. April</td><td>2006</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>7. Dezember</td><td>2004</td><td>20. April</td><td>2006</td></tr>
 <tr><td>Zypern</td><td>24. Februar</td><td>2006</td><td>24. Mai</td><td>2006</td></tr>
-<tr><td colspan="5">\* [tab] Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen für Bildung, Wissenschaft und Kultur (UNESCO): www.unesco.org/ &gt; Français &gt; Ressources &gt; Documents et publications eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* [tab] Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen für Bildung, Wissenschaft und Kultur (UNESCO): [www.unesco.org](http://www.unesco.org) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 2008 4801](https://fedlex.data.admin.ch/eli/oc/2008/674), [2010 89](https://fedlex.data.admin.ch/eli/oc/2010/27)[3527](https://fedlex.data.admin.ch/eli/oc/2010/500), [2012 107](https://fedlex.data.admin.ch/eli/oc/2012/14), [2013 2085](https://fedlex.data.admin.ch/eli/oc/2013/437), [2014 1421](https://fedlex.data.admin.ch/eli/oc/2014/304), [2016 533](https://fedlex.data.admin.ch/eli/oc/2016/100), [2017 37](https://fedlex.data.admin.ch/eli/oc/2017/13), [2018 879](https://fedlex.data.admin.ch/eli/oc/2018/120)und [2020 1185](https://fedlex.data.admin.ch/eli/oc/2020/220). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2008 4801](https://fedlex.data.admin.ch/eli/oc/2008/674); [2010 89](https://fedlex.data.admin.ch/eli/oc/2010/27), [3527](https://fedlex.data.admin.ch/eli/oc/2010/500); [2012 107](https://fedlex.data.admin.ch/eli/oc/2012/14); [2013 2085](https://fedlex.data.admin.ch/eli/oc/2013/437); [2014 1421](https://fedlex.data.admin.ch/eli/oc/2014/304); [2016 533](https://fedlex.data.admin.ch/eli/oc/2016/100); [2017 37](https://fedlex.data.admin.ch/eli/oc/2017/13); [2018 879](https://fedlex.data.admin.ch/eli/oc/2018/120); [2020 1185](https://fedlex.data.admin.ch/eli/oc/2020/220); [2023 616](https://fedlex.data.admin.ch/eli/oc/2023/616). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

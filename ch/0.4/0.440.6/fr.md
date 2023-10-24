@@ -3,11 +3,11 @@ sr: "0.440.6"
 title: Convention du 17 octobre 2003 pour la sauvegarde du patrimoine culturel immatériel
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/674"
 language: fr
-version: 2020-03-25
+version: 2023-10-25
 adopted: 2003-10-17
 in_force: 2008-10-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/674/20200325/fr/xml/fedlex-data-admin-ch-eli-cc-2008-674-20200325-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/674/20200325/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/674/20231025/fr/xml/fedlex-data-admin-ch-eli-cc-2008-674-20231025-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/674/20231025/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 16 juillet 2008
 
 Entrée en vigueur pour la Suisse le 16 octobre 2008
 
-(Etat le 25 mars 2020)
+(État le 25 octobre 2023)
 
 [^t-1]: [RO 2008 4799](https://fedlex.data.admin.ch/eli/oc/2008/673)
 
@@ -530,7 +530,7 @@ Conformément à l’art. 102 de la Charte des Nations Unies[^40-1], la présent
 
 [^40-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
 
-Champ d’application le 25 mars 2020**[^t-2]**
+Champ d’application le 25 octobre 2023[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -539,6 +539,7 @@ Champ d’application le 25 mars 2020**[^t-2]**
 <tr><td>Algérie</td><td>15 mars</td><td>2004</td><td>20 avril</td><td>2006</td></tr>
 <tr><td>Allemagne</td><td>10 avril</td><td>2013</td><td>10 juillet</td><td>2013</td></tr>
 <tr><td>Andorre</td><td>8 novembre</td><td>2013</td><td>8 février</td><td>2014</td></tr>
+<tr><td>Angola</td><td>28 juillet</td><td>2020</td><td>28 octobre</td><td>2020</td></tr>
 <tr><td>Antigua-et-Barbuda</td><td>25 avril</td><td>2013</td><td>25 juillet</td><td>2013</td></tr>
 <tr><td>Arabie Saoudite\*</td><td>10 janvier</td><td>2008</td><td>10 avril</td><td>2008</td></tr>
 <tr><td>Argentine\*</td><td>9 août</td><td>2006</td><td>9 novembre</td><td>2006</td></tr>
@@ -568,11 +569,11 @@ Champ d’application le 25 mars 2020**[^t-2]**
 <tr><td>Chili</td><td>10 décembre</td><td>2008</td><td>10 mars</td><td>2009</td></tr>
 <tr><td>Chine</td><td>2 décembre</td><td>2004</td><td>20 avril</td><td>2006</td></tr>
 <tr><td>Hong Kong</td><td>6 janvier</td><td>2005</td><td>20 avril</td><td>2006</td></tr>
+<tr><td>Chypre</td><td>24 février</td><td>2006</td><td>24 mai</td><td>2006</td></tr>
+<tr><td>Colombie\*</td><td>19 mars</td><td>2008</td><td>19 juin</td><td>2008</td></tr>
 <tr><td>Comores</td><td>20 novembre</td><td>2013</td><td>20 février</td><td>2013</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>16 juillet</td><td>2012</td><td>16 octobre</td><td>2012</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>28 septembre</td><td>2010</td><td>28 décembre</td><td>2010</td></tr>
-<tr><td>Chypre</td><td>24 février</td><td>2006</td><td>24 mai</td><td>2006</td></tr>
-<tr><td>Colombie\*</td><td>19 mars</td><td>2008</td><td>19 juin</td><td>2008</td></tr>
 <tr><td>Corée (Nord)</td><td>21 novembre</td><td>2008</td><td>21 février</td><td>2009</td></tr>
 <tr><td>Corée (Sud)</td><td>9 février</td><td>2005</td><td>20 avril</td><td>2006</td></tr>
 <tr><td>Costa Rica</td><td>23 février</td><td>2007</td><td>23 mai</td><td>2007</td></tr>
@@ -609,7 +610,6 @@ Champ d’application le 25 mars 2020**[^t-2]**
 <tr><td>Haïti</td><td>17 septembre</td><td>2009</td><td>17 décembre</td><td>2009</td></tr>
 <tr><td>Honduras</td><td>24 juillet</td><td>2006</td><td>24 octobre</td><td>2006</td></tr>
 <tr><td>Hongrie</td><td>17 mars</td><td>2006</td><td>17 juin</td><td>2006</td></tr>
-<tr><td>Îles Cook</td><td>3 mai</td><td>2016</td><td>3 août</td><td>2016</td></tr>
 <tr><td>Îles Marshall</td><td>14 avril</td><td>2015</td><td>14 juillet</td><td>2015</td></tr>
 <tr><td>Îles Salomon</td><td>11 mai</td><td>2018</td><td>11 août</td><td>2018</td></tr>
 <tr><td>Inde</td><td>9 septembre</td><td>2005</td><td>20 avril</td><td>2006</td></tr>
@@ -619,8 +619,8 @@ Champ d’application le 25 mars 2020**[^t-2]**
 <tr><td>Irlande</td><td>22 décembre</td><td>2015</td><td>22 mars</td><td>2016</td></tr>
 <tr><td>Islande</td><td>23 novembre</td><td>2005</td><td>20 avril</td><td>2006</td></tr>
 <tr><td>Italie</td><td>30 octobre</td><td>2007</td><td>30 janvier</td><td>2008</td></tr>
-<tr><td>Japon</td><td>15 juin</td><td>2004</td><td>20 avril</td><td>2006</td></tr>
 <tr><td>Jamaïque</td><td>27 septembre</td><td>2010</td><td>27 décembre</td><td>2010</td></tr>
+<tr><td>Japon</td><td>15 juin</td><td>2004</td><td>20 avril</td><td>2006</td></tr>
 <tr><td>Jordanie</td><td>24 mars</td><td>2006</td><td>24 juin</td><td>2006</td></tr>
 <tr><td>Kazakhstan</td><td>28 décembre</td><td>2011</td><td>28 mars</td><td>2012</td></tr>
 <tr><td>Kenya</td><td>24 octobre</td><td>2007</td><td>24 janvier</td><td>2008</td></tr>
@@ -657,6 +657,8 @@ Champ d’application le 25 mars 2020**[^t-2]**
 <tr><td>Niger</td><td>27 avril</td><td>2007</td><td>27 mai</td><td>2007</td></tr>
 <tr><td>Nigéria</td><td>21 octobre</td><td>2005</td><td>20 avril</td><td>2006</td></tr>
 <tr><td>Norvège</td><td>17 janvier</td><td>2007</td><td>17 avril</td><td>2007</td></tr>
+<tr><td>Nouvelle-Zélande</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Îles Cook</td><td>3 mai</td><td>2016</td><td>3 août</td><td>2016</td></tr>
 <tr><td>Oman</td><td>4 août</td><td>2005</td><td>20 avril</td><td>2006</td></tr>
 <tr><td>Ouganda</td><td>13 mai</td><td>2009</td><td>13 août</td><td>2009</td></tr>
 <tr><td>Ouzbékistan</td><td>29 janvier</td><td>2008</td><td>29 avril</td><td>2008</td></tr>
@@ -681,8 +683,9 @@ Champ d’application le 25 mars 2020**[^t-2]**
 <tr><td>République tchèque</td><td>18 février</td><td>2009</td><td>18 mai</td><td>2009</td></tr>
 <tr><td>Roumanie</td><td>20 janvier</td><td>2006</td><td>20 avril</td><td>2006</td></tr>
 <tr><td>Rwanda</td><td>21 janvier</td><td>2013</td><td>21 avril</td><td>2013</td></tr>
-<tr><td>Saint-Vincent-et-les Grenadines</td><td>25 septembre</td><td>2009</td><td>25 décembre</td><td>2009</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>15 avril</td><td>2016</td><td>15 juillet</td><td>2016</td></tr>
+<tr><td>Saint-Marin</td><td>17 novembre</td><td>2022</td><td>17 février</td><td>2023</td></tr>
+<tr><td>Saint-Vincent-et-les Grenadines</td><td>25 septembre</td><td>2009</td><td>25 décembre</td><td>2009</td></tr>
 <tr><td>Sainte-Lucie</td><td>1<sup>er</sup> février</td><td>2007</td><td>1<sup>er</sup> mai</td><td>2007</td></tr>
 <tr><td>Samoa</td><td>13 novembre</td><td>2013</td><td>13 février</td><td>2014</td></tr>
 <tr><td>Sao Tomé-et-Principe</td><td>25 juillet</td><td>2006</td><td>25 octobre</td><td>2006</td></tr>
@@ -719,7 +722,7 @@ Champ d’application le 25 mars 2020**[^t-2]**
 <tr><td>Yémen</td><td>8 octobre</td><td>2007</td><td>8 janvier</td><td>2008</td></tr>
 <tr><td>Zambie</td><td>10 mai</td><td>2006</td><td>10 août</td><td>2006</td></tr>
 <tr><td>Zimbabwe</td><td>30 mai</td><td>2006</td><td>30 août</td><td>2006</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies pour l’éducation, la science et la culture (UNESCO): www.unesco.org/ &gt; Français &gt; Ressources &gt; Documents et publications, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies pour l’éducation, la science et la culture (UNESCO): [www.unesco.org](https://www.unesco.org/fr) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 2008 4801](https://fedlex.data.admin.ch/eli/oc/2008/674), [2010 89](https://fedlex.data.admin.ch/eli/oc/2010/27)[3527](https://fedlex.data.admin.ch/eli/oc/2010/500), [2012 107](https://fedlex.data.admin.ch/eli/oc/2012/14), [2013 2085](https://fedlex.data.admin.ch/eli/oc/2013/437), [2014 1421](https://fedlex.data.admin.ch/eli/oc/2014/304), [2016 533](https://fedlex.data.admin.ch/eli/oc/2016/100), [2017 37](https://fedlex.data.admin.ch/eli/oc/2017/13), [2018 879](https://fedlex.data.admin.ch/eli/oc/2018/120), [2020 1185](https://fedlex.data.admin.ch/eli/oc/2020/220). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2008 4801](https://fedlex.data.admin.ch/eli/oc/2008/674); [2010 89](https://fedlex.data.admin.ch/eli/oc/2010/27), [3527](https://fedlex.data.admin.ch/eli/oc/2010/500); [2012 107](https://fedlex.data.admin.ch/eli/oc/2012/14); [2013 2085](https://fedlex.data.admin.ch/eli/oc/2013/437); [2014 1421](https://fedlex.data.admin.ch/eli/oc/2014/304); [2016 533](https://fedlex.data.admin.ch/eli/oc/2016/100); [2017 37](https://fedlex.data.admin.ch/eli/oc/2017/13); [2018 879](https://fedlex.data.admin.ch/eli/oc/2018/120); [2020 1185](https://fedlex.data.admin.ch/eli/oc/2020/220); [2023 616](https://fedlex.data.admin.ch/eli/oc/2023/616). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
