@@ -3,11 +3,11 @@ sr: "0.518.522"
 title: Zusatzprotokoll vom 8. Juni 1977 zu den Genfer Abkommen vom 12. August 1949 über den Schutz der Opfer nicht internationaler bewaffneter Konflikte (Protokoll II)
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/1432_1432_1432"
 language: de
-version: 2018-07-12
+version: 2023-10-25
 adopted: 1977-06-08
 in_force: 1982-08-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1432_1432_1432/20180712/de/xml/fedlex-data-admin-ch-eli-cc-1982-1432_1432_1432-20180712-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/1432_1432_1432/20180712/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1432_1432_1432/20231025/de/xml/fedlex-data-admin-ch-eli-cc-1982-1432_1432_1432-20231025-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/1432_1432_1432/20231025/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ AS **1982** 1432; BBl **1981** I 953
 
 Angenommen in Genf am 8. Juni 1977 Von der Bundesversammlung genehmigt am 9. Oktober 1981[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 17. Februar 1982 In Kraft getreten für die Schweiz am 17. August 1982
 
-(Stand am 12. Juli 2018)
+(Stand am 25. Oktober 2023)
 
 [^t-1]: Art. 1 Abs. 1 Bst. *b* des BB vom 9. Okt. 1981 ([SR 518.52](https://fedlex.data.admin.ch/eli/cc/1982/1360_1360_1360))
 
@@ -323,7 +323,7 @@ Die Urschrift dieses Protokolls, dessen arabischer, chinesischer, englischer, fr
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 12. Juli 2018**[^t-2]**
+Geltungsbereich am 25. Oktober 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -331,6 +331,7 @@ Geltungsbereich am 12. Juli 2018**[^t-2]**
 <tr><td>Ägypten\*</td><td>9. Oktober</td><td>1992</td><td>9. April</td><td>1993</td></tr>
 <tr><td>Albanien</td><td>16. Juli</td><td>1993 B</td><td>16. Januar</td><td>1994</td></tr>
 <tr><td>Algerien</td><td>16. August</td><td>1989 B</td><td>16. Februar</td><td>1990</td></tr>
+<tr><td>Angola</td><td>7. Oktober</td><td>2019 B</td><td>7. April</td><td>2020</td></tr>
 <tr><td>Antigua und Barbuda</td><td>6. Oktober</td><td>1986 B</td><td>6. April</td><td>1987</td></tr>
 <tr><td>Äquatorialguinea</td><td>24. Juli</td><td>1986 B</td><td>24. Januar</td><td>1987</td></tr>
 <tr><td>Argentinien\* \*\*</td><td>26. November</td><td>1986 B</td><td>26. Mai</td><td>1987</td></tr>
@@ -357,7 +358,6 @@ Geltungsbereich am 12. Juli 2018**[^t-2]**
 <tr><td>China</td><td>14. September</td><td>1983 B</td><td>14. März</td><td>1984</td></tr>
 <tr><td>Hongkong <sup>a</sup></td><td>14. April</td><td>1999</td><td>1. Juli</td><td>1997</td></tr>
 <tr><td>Macau <sup>b</sup></td><td>31. Mai</td><td>1999</td><td>20. Dezember</td><td>1999</td></tr>
-<tr><td>Cook-Inseln</td><td>7. Mai</td><td>2002 B</td><td>7. November</td><td>2002</td></tr>
 <tr><td>Costa Rica</td><td>15. Dezember</td><td>1983 B</td><td>15. Juni</td><td>1984</td></tr>
 <tr><td>Côte d’Ivoire</td><td>20. September</td><td>1989</td><td>20. März</td><td>1990</td></tr>
 <tr><td>Dänemark</td><td>17. Juni</td><td>1982</td><td>17. Dezember</td><td>1982</td></tr>
@@ -368,6 +368,7 @@ Geltungsbereich am 12. Juli 2018**[^t-2]**
 <tr><td>Ecuador</td><td>10. April</td><td>1979</td><td>10. Oktober</td><td>1979</td></tr>
 <tr><td>El Salvador</td><td>23. November</td><td>1978</td><td>23. Mai</td><td>1979</td></tr>
 <tr><td>Estland</td><td>18. Januar</td><td>1993 B</td><td>18. Juli</td><td>1993</td></tr>
+<tr><td>Eswatini</td><td>2. November</td><td>1995 B</td><td>2. Mai</td><td>1996</td></tr>
 <tr><td>Fidschi</td><td>30. Juli</td><td>2008 B</td><td>30. Januar</td><td>2009</td></tr>
 <tr><td>Finnland</td><td>7. August</td><td>1980</td><td>7. Februar</td><td>1981</td></tr>
 <tr><td>Frankreich</td><td>24. Februar</td><td>1984 B</td><td>24. August</td><td>1984</td></tr>
@@ -423,8 +424,7 @@ Geltungsbereich am 12. Juli 2018**[^t-2]**
 <tr><td>Malta\*</td><td>17. April</td><td>1989 B</td><td>17. Oktober</td><td>1989</td></tr>
 <tr><td>Marokko</td><td>3. Juni</td><td>2011</td><td>3. Dezember</td><td>2011</td></tr>
 <tr><td>Mauretanien</td><td>14. März</td><td>1980 B</td><td>14. September</td><td>1980</td></tr>
-<tr><td>Mauritius</td><td>22. März</td><td>1982 B</td><td>22. September</td><td>1982</td></tr>
-<tr><td>Mazedonien</td><td>1. September</td><td>1993 N</td><td>8. September</td><td>1991</td></tr>
+<tr><td>Mauritius\*</td><td>22. März</td><td>1982 B</td><td>22. September</td><td>1982</td></tr>
 <tr><td>Mikronesien</td><td>19. September</td><td>1995 B</td><td>19. März</td><td>1996</td></tr>
 <tr><td>Moldau</td><td>24. Mai</td><td>1993 B</td><td>24. November</td><td>1993</td></tr>
 <tr><td>Monaco</td><td>7. Januar</td><td>2000 B</td><td>7. Juli</td><td>2000</td></tr>
@@ -433,6 +433,7 @@ Geltungsbereich am 12. Juli 2018**[^t-2]**
 <tr><td>Namibia</td><td>18. Oktober</td><td>1983 B</td><td>18. April</td><td>1984</td></tr>
 <tr><td>Nauru</td><td>27. Juni</td><td>2006 B</td><td>27. Dezember</td><td>2006</td></tr>
 <tr><td>Neuseeland <sup>c</sup></td><td>8. Februar</td><td>1988</td><td>8. August</td><td>1988</td></tr>
+<tr><td>Cook-Inseln</td><td>7. Mai</td><td>2002 B</td><td>7. November</td><td>2002</td></tr>
 <tr><td>Nicaragua</td><td>19. Juli</td><td>1999</td><td>19. Januar</td><td>2000</td></tr>
 <tr><td>Niederlande</td><td>26. Juni</td><td>1987</td><td>26. Dezember</td><td>1987</td></tr>
 <tr><td>Aruba</td><td>26. Juni</td><td>1987</td><td>26. Dezember</td><td>1987</td></tr>
@@ -441,6 +442,7 @@ Geltungsbereich am 12. Juli 2018**[^t-2]**
 <tr><td>Sint Maarten</td><td>26. Juni</td><td>1987</td><td>26. Dezember</td><td>1987</td></tr>
 <tr><td>Niger</td><td>8. Juni</td><td>1979</td><td>8. Dezember</td><td>1979</td></tr>
 <tr><td>Nigeria</td><td>10. Oktober</td><td>1988 B</td><td>10. April</td><td>1989</td></tr>
+<tr><td>Nordmazedonien</td><td>1. September</td><td>1993 N</td><td>8. September</td><td>1991</td></tr>
 <tr><td>Norwegen</td><td>14. Dezember</td><td>1981</td><td>14. Juni</td><td>1982</td></tr>
 <tr><td>Oman</td><td>29. März</td><td>1984 B</td><td>29. September</td><td>1984</td></tr>
 <tr><td>Österreich\*</td><td>13. August</td><td>1982</td><td>13. Februar</td><td>1983</td></tr>
@@ -478,7 +480,6 @@ Geltungsbereich am 12. Juli 2018**[^t-2]**
 <tr><td>Sudan</td><td>13. Juli</td><td>2006 B</td><td>13. Januar</td><td>2007</td></tr>
 <tr><td>Südsudan</td><td>25. Januar</td><td>2013 B</td><td>25. Januar</td><td>2013</td></tr>
 <tr><td>Suriname</td><td>16. Dezember</td><td>1985 B</td><td>16. Juni</td><td>1986</td></tr>
-<tr><td>Swasiland</td><td>2. November</td><td>1995 B</td><td>2. Mai</td><td>1996</td></tr>
 <tr><td>Tadschikistan</td><td>13. Januar</td><td>1993 N</td><td>21. Dezember</td><td>1991</td></tr>
 <tr><td>Tansania</td><td>15. Februar</td><td>1983 B</td><td>15. August</td><td>1983</td></tr>
 <tr><td>Timor-Leste</td><td>12. April</td><td>2005 B</td><td>12. Oktober</td><td>2005</td></tr>
@@ -518,10 +519,10 @@ Geltungsbereich am 12. Juli 2018**[^t-2]**
 <tr><td>Zypern</td><td>18. März</td><td>1996 B</td><td>18. September</td><td>1996</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen.</td></tr>
 <tr><td colspan="5">\*\* Einwendungen.</td></tr>
-<tr><td colspan="5">Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite des Internationalen Komitees vom Roten Kreuz: http:www.icrc.org eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen Texte können auf der Internetseite des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA): [www.eda.admin.ch/](https://www.eda.admin.ch/eda/fr/dfae/politique-exterieure/droit-international-public/traites-internationaux/depositaire/protection-des-victimes-de-la-guerre.html) &gt; Politique extérieure &gt; Droit international public &gt; Traités internationaux &gt; Dépositaire &gt; Protection des victimes de la guerre eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Auf Grund einer Erklärung der Volksrepublik China vom 14. April 1999 ist das Protokoll seit dem 1. Juli 1997 auf die Besondere Verwaltungsregion (SAR) Hongkong anwendbar.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Auf Grund einer Erklärung der Volksrepublik China vom 31. Mai 1999 ist das Protokoll seit dem 20. Dez. 1999 auf die Besondere Verwaltungsregion (SAR) Macau anwendbar.</td></tr>
 <tr><td colspan="5"><sup>c</sup> Das Protokoll gilt nicht für Niue und Tokelau.</td></tr>
 </table>
 
-[^t-2]: [AS 1982 1432](https://fedlex.data.admin.ch/eli/oc/1982/1432_1432_1432), [1983 610](https://fedlex.data.admin.ch/eli/oc/1983/610_610_610), [1984 569](https://fedlex.data.admin.ch/eli/oc/1984/569_569_569), [1985 604](https://fedlex.data.admin.ch/eli/oc/1985/604_604_604), [1986 1444](https://fedlex.data.admin.ch/eli/oc/1986/1444_1444_1444), [1987 1037](https://fedlex.data.admin.ch/eli/oc/1987/1037_1037_1037), [1989 785](https://fedlex.data.admin.ch/eli/oc/1989/785_785_785), [1991 228](https://fedlex.data.admin.ch/eli/oc/1991/228_228_228)[2066](https://fedlex.data.admin.ch/eli/oc/1991/2066_2066_2066), [2005 1211](https://fedlex.data.admin.ch/eli/oc/2005/170), [2006 4695](https://fedlex.data.admin.ch/eli/oc/2006/720), [2009 3957](https://fedlex.data.admin.ch/eli/oc/2009/505), [2012 115](https://fedlex.data.admin.ch/eli/oc/2012/18), [2014 2413](https://fedlex.data.admin.ch/eli/oc/2014/424), [2018 2769](https://fedlex.data.admin.ch/eli/oc/2018/413). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1982 1432](https://fedlex.data.admin.ch/eli/oc/1982/1432_1432_1432); [1983 610](https://fedlex.data.admin.ch/eli/oc/1983/610_610_610); [1984 569](https://fedlex.data.admin.ch/eli/oc/1984/569_569_569); [1985 604](https://fedlex.data.admin.ch/eli/oc/1985/604_604_604); [1986 1444](https://fedlex.data.admin.ch/eli/oc/1986/1444_1444_1444); [1987 1037](https://fedlex.data.admin.ch/eli/oc/1987/1037_1037_1037); [1989 785](https://fedlex.data.admin.ch/eli/oc/1989/785_785_785); [1991 228](https://fedlex.data.admin.ch/eli/oc/1991/228_228_228), [2066](https://fedlex.data.admin.ch/eli/oc/1991/2066_2066_2066); [2005 1211](https://fedlex.data.admin.ch/eli/oc/2005/170); [2006 4695](https://fedlex.data.admin.ch/eli/oc/2006/720); [2009 3957](https://fedlex.data.admin.ch/eli/oc/2009/505); [2012 115](https://fedlex.data.admin.ch/eli/oc/2012/18); [2014 2413](https://fedlex.data.admin.ch/eli/oc/2014/424); [2018 2769](https://fedlex.data.admin.ch/eli/oc/2018/413); [2023 620](https://fedlex.data.admin.ch/eli/oc/2023/620). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

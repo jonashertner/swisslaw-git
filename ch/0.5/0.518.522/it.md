@@ -3,11 +3,11 @@ sr: "0.518.522"
 title: "Protocollo aggiuntivo dell'8 giugno 1977 alle Convenzioni di Ginevra del 12 agosto 1949 relativo alla protezione delle vittime dei conflitti armati non internazionali (Protocollo II) (con All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/1432_1432_1432"
 language: it
-version: 2018-07-12
+version: 2023-10-25
 adopted: 1977-06-08
 in_force: 1982-08-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1432_1432_1432/20180712/it/xml/fedlex-data-admin-ch-eli-cc-1982-1432_1432_1432-20180712-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/1432_1432_1432/20180712/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1432_1432_1432/20231025/it/xml/fedlex-data-admin-ch-eli-cc-1982-1432_1432_1432-20231025-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/1432_1432_1432/20231025/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,15 +20,9 @@ Traduzione
 
 (Protocollo II)
 
-Adottato a Ginevra l’8 giugno 1977
+Adottato a Ginevra l’8 giugno 1977 Approvato dall’Assemblea federale il 9 ottobre 1981[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 17 febbraio 1982 Entrato in vigore per la Svizzera il 17 agosto 1982
 
-Approvato dall’Assemblea federale il 9 ottobre 1981[^t-1]
-
-Istrumento di ratificazione depositato dalla Svizzera il 17 febbraio 1982
-
-Entrato in vigore per la Svizzera il 17 agosto 1982
-
-(Stato 12 luglio 2018)
+(Stato 25 ottobre 2023)
 
 [^t-1]: Art. 1 cpv. 1 lett. b del DF del 9 ott. 1981 ([RS 518.52](https://fedlex.data.admin.ch/eli/cc/1982/1360_1360_1360)).
 
@@ -335,13 +329,14 @@ L’originale del presente Protocollo, di cui i testi arabo, cinese, francese, i
 
 (Seguono le firme)
 
-Campo d’applicazione il 12 luglio 2018**[^t-2]**
+Campo d’applicazione il 25 ottobre 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Afghanistan</td><td>10 novembre</td><td>2009 A</td><td>10 maggio</td><td>2010</td></tr>
 <tr><td>Albania</td><td>16 luglio</td><td>1993 A</td><td>16 gennaio</td><td>1994</td></tr>
 <tr><td>Algeria</td><td>16 agosto</td><td>1989 A</td><td>16 febbraio</td><td>1990</td></tr>
+<tr><td>Angola</td><td>7 ottobre</td><td>2019 A</td><td>7 aprile</td><td>2020</td></tr>
 <tr><td>Antigua e Barbuda</td><td>6 ottobre</td><td>1986 A</td><td>6 aprile</td><td>1987</td></tr>
 <tr><td>Arabia Saudita</td><td>28 novembre</td><td>2001 A</td><td>28 maggio</td><td>2002</td></tr>
 <tr><td>Argentina<sup>\*</sup> <sup>\*\*</sup></td><td>26 novembre</td><td>1986 A</td><td>26 maggio</td><td>1987</td></tr>
@@ -392,6 +387,7 @@ Campo d’applicazione il 12 luglio 2018**[^t-2]**
 <tr><td>El Salvador</td><td>23 novembre</td><td>1978</td><td>23 maggio</td><td>1979</td></tr>
 <tr><td>Emirati Arabi Uniti</td><td>9 marzo</td><td>1983 A</td><td>9 settembre</td><td>1983</td></tr>
 <tr><td>Estonia</td><td>18 gennaio</td><td>1993 A</td><td>18 luglio</td><td>1993</td></tr>
+<tr><td>Eswatini</td><td>2 novembre</td><td>1995 A</td><td>2 maggio</td><td>1996</td></tr>
 <tr><td>Etiopia</td><td>8 aprile</td><td>1994 A</td><td>8 ottobre</td><td>1994</td></tr>
 <tr><td>Figi</td><td>30 luglio</td><td>2008 A</td><td>30 gennaio</td><td>2009</td></tr>
 <tr><td>Filippine</td><td>11 dicembre</td><td>1986 A</td><td>11 giugno</td><td>1987</td></tr>
@@ -417,7 +413,6 @@ Campo d’applicazione il 12 luglio 2018**[^t-2]**
 <tr><td>Honduras</td><td>16 febbraio</td><td>1995</td><td>16 agosto</td><td>1995</td></tr>
 <tr><td>Irlanda<sup>\*</sup></td><td>19 maggio</td><td>1999</td><td>19 novembre</td><td>1999</td></tr>
 <tr><td>Islanda</td><td>10 aprile</td><td>1987</td><td>10 ottobre</td><td>1987</td></tr>
-<tr><td>Isole Cook</td><td>7 maggio</td><td>2002 A</td><td>7 novembre</td><td>2002</td></tr>
 <tr><td>Italia</td><td>27 febbraio</td><td>1986</td><td>27 agosto</td><td>1986</td></tr>
 <tr><td>Kazakstan</td><td>5 maggio</td><td>1992 S</td><td>21 dicembre</td><td>1991</td></tr>
 <tr><td>Kenya</td><td>23 febbraio</td><td>1999 A</td><td>23 agosto</td><td>1999</td></tr>
@@ -432,7 +427,7 @@ Campo d’applicazione il 12 luglio 2018**[^t-2]**
 <tr><td>Liechtenstein<sup>\*</sup></td><td>10 agosto</td><td>1989</td><td>10 febbraio</td><td>1990</td></tr>
 <tr><td>Lituania</td><td>13 luglio</td><td>2000 A</td><td>13 gennaio</td><td>2001</td></tr>
 <tr><td>Lussemburgo</td><td>29 agosto</td><td>1989</td><td>28 febbraio</td><td>1990</td></tr>
-<tr><td>Macedonia</td><td>1° settembre</td><td>1993 S</td><td>8 settembre</td><td>1991</td></tr>
+<tr><td>Macedonia del Nord</td><td>1° settembre</td><td>1993 S</td><td>8 settembre</td><td>1991</td></tr>
 <tr><td>Madagascar</td><td>8 maggio</td><td>1992</td><td>8 novembre</td><td>1992</td></tr>
 <tr><td>Malawi</td><td>7 ottobre</td><td>1991 A</td><td>7 aprile</td><td>1992</td></tr>
 <tr><td>Maldive</td><td>3 settembre</td><td>1991 A</td><td>3 marzo</td><td>1992</td></tr>
@@ -440,7 +435,7 @@ Campo d’applicazione il 12 luglio 2018**[^t-2]**
 <tr><td>Malta<sup>\*</sup></td><td>17 aprile</td><td>1989 A</td><td>17 ottobre</td><td>1989</td></tr>
 <tr><td>Marocco</td><td>3 giugno</td><td>2011</td><td>3 dicembre</td><td>2011</td></tr>
 <tr><td>Mauritania</td><td>14 marzo</td><td>1980 A</td><td>14 settembre</td><td>1980</td></tr>
-<tr><td>Maurizio</td><td>22 marzo</td><td>1982 A</td><td>22 settembre</td><td>1982</td></tr>
+<tr><td>Maurizio<sup>\*</sup></td><td>22 marzo</td><td>1982 A</td><td>22 settembre</td><td>1982</td></tr>
 <tr><td>Micronesia</td><td>19 settembre</td><td>1995 A</td><td>19 marzo</td><td>1996</td></tr>
 <tr><td>Moldova</td><td>24 maggio</td><td>1993 A</td><td>24 novembre</td><td>1993</td></tr>
 <tr><td>Monaco</td><td>7 gennaio</td><td>2000 A</td><td>7 luglio</td><td>2000</td></tr>
@@ -453,6 +448,7 @@ Campo d’applicazione il 12 luglio 2018**[^t-2]**
 <tr><td>Nigeria</td><td>10 ottobre</td><td>1988 A</td><td>10 aprile</td><td>1989</td></tr>
 <tr><td>Norvegia</td><td>14 dicembre</td><td>1981</td><td>14 giugno</td><td>1982</td></tr>
 <tr><td>Nuova Zelanda <sup>c</sup></td><td>8 febbraio</td><td>1988</td><td>8 agosto</td><td>1988</td></tr>
+<tr><td>Isole Cook</td><td>7 maggio</td><td>2002 A</td><td>7 novembre</td><td>2002</td></tr>
 <tr><td>Oman</td><td>29 marzo</td><td>1984 A</td><td>29 settembre</td><td>1984</td></tr>
 <tr><td>Paesi Bassi</td><td>26 giugno</td><td>1987</td><td>26 dicembre</td><td>1987</td></tr>
 <tr><td>Aruba</td><td>26 giugno</td><td>1987</td><td>26 dicembre</td><td>1987</td></tr>
@@ -509,7 +505,6 @@ Campo d’applicazione il 12 luglio 2018**[^t-2]**
 <tr><td>Suriname</td><td>16 dicembre</td><td>1985 A</td><td>16 giugno</td><td>1986</td></tr>
 <tr><td>Svezia</td><td>31 agosto</td><td>1979</td><td>29 febbraio</td><td>1980</td></tr>
 <tr><td>Svizzera</td><td>17 febbraio</td><td>1982</td><td>17 agosto</td><td>1982</td></tr>
-<tr><td>Swaziland</td><td>2 novembre</td><td>1995 A</td><td>2 maggio</td><td>1996</td></tr>
 <tr><td>Tagikistan</td><td>13 gennaio</td><td>1993 S</td><td>21 dicembre</td><td>1991</td></tr>
 <tr><td>Tanzania</td><td>15 febbraio</td><td>1983 A</td><td>15 agosto</td><td>1983</td></tr>
 <tr><td>Timor-Leste</td><td>12 aprile</td><td>2005 A</td><td>12 ottobre</td><td>2005</td></tr>
@@ -528,10 +523,10 @@ Campo d’applicazione il 12 luglio 2018**[^t-2]**
 <tr><td>Yemen</td><td>17 aprile</td><td>1990</td><td>17 ottobre</td><td>1990</td></tr>
 <tr><td>Zambia</td><td>4 maggio</td><td>1995 A</td><td>4 novembre</td><td>1995</td></tr>
 <tr><td>Zimbabwe</td><td>19 ottobre</td><td>1992 A</td><td>19 aprile</td><td>1993</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obbiezioni. Le riserve, dichiarazioni e obbiezioni non sono pubblicate nella RU. I testi francese e inglese possono essere consultati sul sito Internet del Comitato internazionale della Croce Rossa: http://www.icrc.org/dih.nsf/WEB?OpenNavigator oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obbiezioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi, in francese e inglese, possono essere consultati sul sito Internet del Comitato internazionale della Croce Rossa: [www.icrc.org](http://www.icrc.org) &gt; Français &gt; Guerre et Droit &gt; Traités et droit coutumier, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> In base ad una dichiarazione della Repubblica Popolare Cinese del 14 apr. 1999, il Prot. è applicabile dal 1° lug. 1997 alla Regione amministrativa speciale (RAS) di Hong Kong.</td></tr>
 <tr><td colspan="5"><sup>b</sup> In base ad una dichiarazione della Repubblica Popolare Cinese del 31 mag. 1999, il Prot. è applicabile dal 20 dic. 1999 alla Regione amministrativa speciale (RAS) di Macao.</td></tr>
 <tr><td colspan="5"><sup>c</sup> Il Prot. non vale per Nioue né per Tokelau.</td></tr>
 </table>
 
-[^t-2]: [RU 1982 1432](https://fedlex.data.admin.ch/eli/oc/1982/1432_1432_1432), [1983 610](https://fedlex.data.admin.ch/eli/oc/1983/610_610_610), [1984 569](https://fedlex.data.admin.ch/eli/oc/1984/569_569_569), [1985 604](https://fedlex.data.admin.ch/eli/oc/1985/604_604_604), [1986 1444](https://fedlex.data.admin.ch/eli/oc/1986/1444_1444_1444), [1987 1037](https://fedlex.data.admin.ch/eli/oc/1987/1037_1037_1037), [1989 785](https://fedlex.data.admin.ch/eli/oc/1989/785_785_785), [1991 228](https://fedlex.data.admin.ch/eli/oc/1991/228_228_228)[2066](https://fedlex.data.admin.ch/eli/oc/1991/2066_2066_2066), [2005 1211](https://fedlex.data.admin.ch/eli/oc/2005/170), [2006 4695](https://fedlex.data.admin.ch/eli/oc/2006/720), [2009 3957](https://fedlex.data.admin.ch/eli/oc/2009/505), [2012 115](https://fedlex.data.admin.ch/eli/oc/2012/18), [2014 2413](https://fedlex.data.admin.ch/eli/oc/2014/424)e [2018 2769](https://fedlex.data.admin.ch/eli/oc/2018/413). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1982 1432](https://fedlex.data.admin.ch/eli/oc/1982/1432_1432_1432); [1983 610](https://fedlex.data.admin.ch/eli/oc/1983/610_610_610); [1984 569](https://fedlex.data.admin.ch/eli/oc/1984/569_569_569); [1985 604](https://fedlex.data.admin.ch/eli/oc/1985/604_604_604); [1986 1444](https://fedlex.data.admin.ch/eli/oc/1986/1444_1444_1444); [1987 1037](https://fedlex.data.admin.ch/eli/oc/1987/1037_1037_1037); [1989 785](https://fedlex.data.admin.ch/eli/oc/1989/785_785_785); [1991 228](https://fedlex.data.admin.ch/eli/oc/1991/228_228_228), [2066](https://fedlex.data.admin.ch/eli/oc/1991/2066_2066_2066); [2005 1211](https://fedlex.data.admin.ch/eli/oc/2005/170); [2006 4695](https://fedlex.data.admin.ch/eli/oc/2006/720); [2009 3957](https://fedlex.data.admin.ch/eli/oc/2009/505); [2012 115](https://fedlex.data.admin.ch/eli/oc/2012/18); [2014 2413](https://fedlex.data.admin.ch/eli/oc/2014/424); [2018 2769](https://fedlex.data.admin.ch/eli/oc/2018/413); [2023 620](https://fedlex.data.admin.ch/eli/oc/2023/620). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)

@@ -3,11 +3,11 @@ sr: "0.518.522"
 title: Protocole additionnel du 8 juin 1977 aux Conventions de Genève du 12 août 1949 relatif à la protection des victimes des conflits armés non internationaux (Protocole II)
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/1432_1432_1432"
 language: fr
-version: 2018-07-12
+version: 2023-10-25
 adopted: 1977-06-08
 in_force: 1982-08-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1432_1432_1432/20180712/fr/xml/fedlex-data-admin-ch-eli-cc-1982-1432_1432_1432-20180712-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/1432_1432_1432/20180712/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1432_1432_1432/20231025/fr/xml/fedlex-data-admin-ch-eli-cc-1982-1432_1432_1432-20231025-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/1432_1432_1432/20231025/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -28,7 +28,7 @@ Instrument de ratification déposé par la Suisse le 17 février 1982
 
 Entré en vigueur pour la Suisse le 17 août 1982
 
-(Etat le 12 juillet 2018)
+(État le 25 octobre 2023)
 
 [^t-1]: Art. 1 al. 1 let. b de l’AF du 9 oct. 1981 ([RS 518.52](https://fedlex.data.admin.ch/eli/cc/1982/1360_1360_1360))
 
@@ -67,13 +67,13 @@ sont convenues de ce qui suit:
 
 <sup>1.</sup> Le présent Protocole s’applique sans aucune distinction de caractère défavorable fondée sur la race, la couleur, le sexe, la langue, la religion ou la croyance, les opinions politiques ou autres, l’origine nationale ou sociale, la fortune, la naissance ou une autre situation, ou tous autres critères analogues (ci‑après appelés «distinction de caractère défavorable») à toutes les personnes affectées par un conflit armé au sens de l’article premier.
 
-<sup>2.</sup> A la fin du conflit armé, toutes les personnes qui auront été l’objet d’une privation ou d’une restriction de liberté pour des motifs en relation avec ce conflit, ainsi que celles qui seraient l’objet de telles mesures après le conflit pour les mêmes motifs, bénéficieront des dispositions des art. 5 et 6 jusqu’au terme de cette privation ou de cette restriction de liberté.
+<sup>2.</sup> À la fin du conflit armé, toutes les personnes qui auront été l’objet d’une privation ou d’une restriction de liberté pour des motifs en relation avec ce conflit, ainsi que celles qui seraient l’objet de telles mesures après le conflit pour les mêmes motifs, bénéficieront des dispositions des art. 5 et 6 jusqu’au terme de cette privation ou de cette restriction de liberté.
 
 #### Art. 3
 
 **Non‑intervention**
 
-<sup>1.</sup> Aucune disposition du présent Protocole ne sera invoquée en vue de porter atteinte à la souveraineté d’un Etat ou à la responsabilité du gouvernement de maintenir ou de rétablir l’ordre public dans l’Etat ou de défendre l’unité nationale et l’intégrité territoriale de l’Etat par tous les moyens légitimes.
+<sup>1.</sup> Aucune disposition du présent Protocole ne sera invoquée en vue de porter atteinte à la souveraineté d’un État ou à la responsabilité du gouvernement de maintenir ou de rétablir l’ordre public dans l’État ou de défendre l’unité nationale et l’intégrité territoriale de l’État par tous les moyens légitimes.
 
 <sup>2.</sup> Aucune disposition du présent Protocole ne sera invoquée comme une justification d’une intervention directe ou indirecte, pour quelque raison que ce soit, dans un conflit armé ou dans les affaires intérieures ou extérieures de la Haute Partie contractante sur le territoire de laquelle ce conflit se produit.
 
@@ -157,7 +157,7 @@ Aucune condamnation ne sera prononcée ni aucune peine exécutée à l’encontr
 
 <sup>4.</sup> La peine de mort ne sera pas prononcée contre les personnes âgées de moins de dix‑huit ans au moment de l’infraction et elle ne sera pas exécutée contre les femmes enceintes et les mères d’enfants en bas âge.
 
-<sup>5.</sup> A la cessation des hostilités, les autorités au pouvoir s’efforceront d’accorder la plus large amnistie possible aux personnes qui auront pris part au conflit armé ou qui auront été privées de liberté pour des motifs en relation avec le conflit armé, qu’elles soient internées ou détenues.
+<sup>5.</sup> À la cessation des hostilités, les autorités au pouvoir s’efforceront d’accorder la plus large amnistie possible aux personnes qui auront pris part au conflit armé ou qui auront été privées de liberté pour des motifs en relation avec le conflit armé, qu’elles soient internées ou détenues.
 
 ## Titre III Blessés, malades et naufragés
 
@@ -314,7 +314,7 @@ Le présent Protocole sera ouvert à l’adhésion de toute Partie aux Conventio
 Le dépositaire informera les Hautes Parties contractantes ainsi que les Parties aux Conventions, qu’elles soient signataires ou non du présent Protocole:
 
 - a) des signatures apposées au présent Protocole et des instruments de ratification et d’adhésion déposés conformément aux art. 21 et 22;
-- b) de la date à laquelle le présent Protocole entrera en vigueur conformément à l’art. 23; et
+- b) de la date à laquelle le présent Protocole entrera en vigueur conformément à l’art. 23, et
 - c) des communications et déclarations reçues conformément à l’art. 24.
 
 #### Art. 27
@@ -335,15 +335,16 @@ L’original du présent Protocole, dont les textes anglais, arabe, chinois, esp
 
 (Suivent les signatures)
 
-Champ d’application le 12 juillet 2018**[^t-2]**
+Champ d’application le 25 octobre 2023[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afghanistan</td><td>10 novembre</td><td>2009 A</td><td>10 mai</td><td>2010</td></tr>
 <tr><td>Afrique du Sud</td><td>21 novembre</td><td>1995 A</td><td>21 mai</td><td>1996</td></tr>
 <tr><td>Albanie</td><td>16 juillet</td><td>1993 A</td><td>16 janvier</td><td>1994</td></tr>
 <tr><td>Algérie</td><td>16 août</td><td>1989 A</td><td>16 février</td><td>1990</td></tr>
 <tr><td>Allemagne\*</td><td>14 février</td><td>1991</td><td>14 août</td><td>1991</td></tr>
+<tr><td>Angola</td><td>7 octobre</td><td>2019 A</td><td>7 avril</td><td>2020</td></tr>
 <tr><td>Antigua-et-Barbuda</td><td>6 octobre</td><td>1986 A</td><td>6 avril</td><td>1987</td></tr>
 <tr><td>Arabie Saoudite</td><td>28 novembre</td><td>2001 A</td><td>28 mai</td><td>2002</td></tr>
 <tr><td>Argentine\* \*\*</td><td>26 novembre</td><td>1986 A</td><td>26 mai</td><td>1987</td></tr>
@@ -387,13 +388,14 @@ Champ d’application le 12 juillet 2018**[^t-2]**
 <tr><td>Danemark</td><td>17 juin</td><td>1982</td><td>17 décembre</td><td>1982</td></tr>
 <tr><td>Djibouti</td><td>8 avril</td><td>1991 A</td><td>8 octobre</td><td>1991</td></tr>
 <tr><td>Dominique</td><td>25 avril</td><td>1996 A</td><td>25 octobre</td><td>1996</td></tr>
-<tr><td>Egypte\*</td><td>9 octobre</td><td>1992</td><td>9 avril</td><td>1993</td></tr>
+<tr><td>Égypte\*</td><td>9 octobre</td><td>1992</td><td>9 avril</td><td>1993</td></tr>
 <tr><td>El Salvador</td><td>23 novembre</td><td>1978</td><td>23 mai</td><td>1979</td></tr>
-<tr><td>Emirats arabes unis</td><td>9 mars</td><td>1983 A</td><td>9 septembre</td><td>1983</td></tr>
-<tr><td>Equateur</td><td>10 avril</td><td>1979</td><td>10 octobre</td><td>1979</td></tr>
+<tr><td>Émirats arabes unis</td><td>9 mars</td><td>1983 A</td><td>9 septembre</td><td>1983</td></tr>
+<tr><td>Équateur</td><td>10 avril</td><td>1979</td><td>10 octobre</td><td>1979</td></tr>
 <tr><td>Espagne</td><td>21 avril</td><td>1989</td><td>21 octobre</td><td>1989</td></tr>
 <tr><td>Estonie</td><td>18 janvier</td><td>1993 A</td><td>18 juillet</td><td>1993</td></tr>
-<tr><td>Ethiopie</td><td>8 avril</td><td>1994 A</td><td>8 octobre</td><td>1994</td></tr>
+<tr><td>Eswatini</td><td>2 novembre</td><td>1995 A</td><td>2 mai</td><td>1996</td></tr>
+<tr><td>Éthiopie</td><td>8 avril</td><td>1994 A</td><td>8 octobre</td><td>1994</td></tr>
 <tr><td>Fidji</td><td>30 juillet</td><td>2008 A</td><td>30 janvier</td><td>2009</td></tr>
 <tr><td>Finlande</td><td>7 août</td><td>1980</td><td>7 février</td><td>1981</td></tr>
 <tr><td>France</td><td>24 février</td><td>1984 A</td><td>24 août</td><td>1984</td></tr>
@@ -411,7 +413,7 @@ Champ d’application le 12 juillet 2018**[^t-2]**
 <tr><td>Haïti</td><td>20 décembre</td><td>2006 A</td><td>20 juin</td><td>2007</td></tr>
 <tr><td>Honduras</td><td>16 février</td><td>1995</td><td>16 août</td><td>1995</td></tr>
 <tr><td>Hongrie</td><td>12 avril</td><td>1989</td><td>12 octobre</td><td>1989</td></tr>
-<tr><td>Iles Cook</td><td>7 mai</td><td>2002 A</td><td>7 novembre</td><td>2002</td></tr>
+<tr><td>Îles Salomon</td><td>19 septembre</td><td>1988 A</td><td>19 mars</td><td>1989</td></tr>
 <tr><td>Irlande\*</td><td>19 mai</td><td>1999</td><td>19 novembre</td><td>1999</td></tr>
 <tr><td>Islande</td><td>10 avril</td><td>1987</td><td>10 octobre</td><td>1987</td></tr>
 <tr><td>Italie</td><td>27 février</td><td>1986</td><td>27 août</td><td>1986</td></tr>
@@ -431,14 +433,14 @@ Champ d’application le 12 juillet 2018**[^t-2]**
 <tr><td>Liechtenstein\*</td><td>10 août</td><td>1989</td><td>10 février</td><td>1990</td></tr>
 <tr><td>Lituanie</td><td>13 juillet</td><td>2000 A</td><td>13 janvier</td><td>2001</td></tr>
 <tr><td>Luxembourg</td><td>29 août</td><td>1989</td><td>28 février</td><td>1990</td></tr>
-<tr><td>Macédoine</td><td>1<sup>er</sup> septembre</td><td>1993 S</td><td>8 septembre</td><td>1991</td></tr>
+<tr><td>Macédoine du Nord</td><td>1<sup>er</sup> septembre</td><td>1993 S</td><td>8 septembre</td><td>1991</td></tr>
 <tr><td>Madagascar</td><td>8 mai</td><td>1992</td><td>8 novembre</td><td>1992</td></tr>
 <tr><td>Malawi</td><td>7 octobre</td><td>1991 A</td><td>7 avril</td><td>1992</td></tr>
 <tr><td>Maldives</td><td>3 septembre</td><td>1991 A</td><td>3 mars</td><td>1992</td></tr>
 <tr><td>Mali</td><td>8 février</td><td>1989 A</td><td>8 août</td><td>1989</td></tr>
 <tr><td>Malte\*</td><td>17 avril</td><td>1989 A</td><td>17 octobre</td><td>1989</td></tr>
 <tr><td>Maroc</td><td>3 juin</td><td>2011</td><td>3 décembre</td><td>2011</td></tr>
-<tr><td>Maurice</td><td>22 mars</td><td>1982 A</td><td>22 septembre</td><td>1982</td></tr>
+<tr><td>Maurice\* <sup>a</sup></td><td>22 mars</td><td>1982 A</td><td>22 septembre</td><td>1982</td></tr>
 <tr><td>Mauritanie</td><td>14 mars</td><td>1980 A</td><td>14 septembre</td><td>1980</td></tr>
 <tr><td>Micronésie</td><td>19 septembre</td><td>1995 A</td><td>19 mars</td><td>1996</td></tr>
 <tr><td>Moldova</td><td>24 mai</td><td>1993 A</td><td>24 novembre</td><td>1993</td></tr>
@@ -452,6 +454,7 @@ Champ d’application le 12 juillet 2018**[^t-2]**
 <tr><td>Nigéria</td><td>10 octobre</td><td>1988 A</td><td>10 avril</td><td>1989</td></tr>
 <tr><td>Norvège</td><td>14 décembre</td><td>1981</td><td>14 juin</td><td>1982</td></tr>
 <tr><td>Nouvelle-Zélande\* <sup>c</sup></td><td>8 février</td><td>1988</td><td>8 août</td><td>1988</td></tr>
+<tr><td>Îles Cook</td><td>7 mai</td><td>2002 A</td><td>7 novembre</td><td>2002</td></tr>
 <tr><td>Oman</td><td>29 mars</td><td>1984 A</td><td>29 septembre</td><td>1984</td></tr>
 <tr><td>Ouganda</td><td>13 mars</td><td>1991 A</td><td>13 septembre</td><td>1991</td></tr>
 <tr><td>Ouzbékistan</td><td>8 octobre</td><td>1993 A</td><td>8 avril</td><td>1994</td></tr>
@@ -477,14 +480,14 @@ Champ d’application le 12 juillet 2018**[^t-2]**
 <tr><td>Akrotiri et Dhekelia</td><td>2 juillet</td><td>2002</td><td>2 janvier</td><td>2003</td></tr>
 <tr><td>Anguilla</td><td>2 juillet</td><td>2002</td><td>2 janvier</td><td>2003</td></tr>
 <tr><td>Bermudes</td><td>2 juillet</td><td>2002</td><td>2 janvier</td><td>2003</td></tr>
-<tr><td>Géorgie du Sud et Iles Sandwich du Sud</td><td>2 juillet</td><td>2002</td><td>2 janvier</td><td>2003</td></tr>
+<tr><td>Géorgie du Sud et Îles Sandwich du Sud</td><td>2 juillet</td><td>2002</td><td>2 janvier</td><td>2003</td></tr>
 <tr><td>Guernesey</td><td>15 juin</td><td>2011</td><td>15 décembre</td><td>2011</td></tr>
-<tr><td>Ile de Man</td><td>15 juin</td><td>2011</td><td>15 décembre</td><td>2011</td></tr>
-<tr><td>Iles Cayman</td><td>2 juillet</td><td>2002</td><td>2 janvier</td><td>2003</td></tr>
-<tr><td>Iles Falkland</td><td>2 juillet</td><td>2002</td><td>2 janvier</td><td>2003</td></tr>
-<tr><td>Iles Pitcairn (Ducie, Oeno, Henderson et Pitcairn)</td><td>2 juillet</td><td>2002</td><td>2 janvier</td><td>2003</td></tr>
-<tr><td>Iles Turques et Caïques</td><td>2 juillet</td><td>2002</td><td>2 janvier</td><td>2003</td></tr>
-<tr><td>Iles Vierges britanniques</td><td>2 juillet</td><td>2002</td><td>2 janvier</td><td>2003</td></tr>
+<tr><td>Île de Man</td><td>15 juin</td><td>2011</td><td>15 décembre</td><td>2011</td></tr>
+<tr><td>Îles Cayman</td><td>2 juillet</td><td>2002</td><td>2 janvier</td><td>2003</td></tr>
+<tr><td>Îles Falkland</td><td>2 juillet</td><td>2002</td><td>2 janvier</td><td>2003</td></tr>
+<tr><td>Îles Pitcairn (Ducie, Oeno, Henderson et Pitcairn)</td><td>2 juillet</td><td>2002</td><td>2 janvier</td><td>2003</td></tr>
+<tr><td>Îles Turques et Caïques</td><td>2 juillet</td><td>2002</td><td>2 janvier</td><td>2003</td></tr>
+<tr><td>Îles Vierges britanniques</td><td>2 juillet</td><td>2002</td><td>2 janvier</td><td>2003</td></tr>
 <tr><td>Jersey</td><td>7 janvier</td><td>2013</td><td>7 juillet</td><td>2013</td></tr>
 <tr><td>Montserrat</td><td>2 juillet</td><td>2002</td><td>2 janvier</td><td>2003</td></tr>
 <tr><td>Sainte-Hélène et dépendances (Ascension et Tristan da Cunha)</td><td>2 juillet</td><td>2002</td><td>2 janvier</td><td>2003</td></tr>
@@ -492,12 +495,11 @@ Champ d’application le 12 juillet 2018**[^t-2]**
 <tr><td>Territoire britannique de l’Océan Indien</td><td>2 juillet</td><td>2002</td><td>2 janvier</td><td>2003</td></tr>
 <tr><td>Russie</td><td>29 septembre</td><td>1989</td><td>29 mars</td><td>1990</td></tr>
 <tr><td>Rwanda</td><td>19 novembre</td><td>1984 A</td><td>19 mai</td><td>1985</td></tr>
-<tr><td>Sainte-Lucie</td><td>7 octobre</td><td>1982 A</td><td>7 avril</td><td>1983</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>14 février</td><td>1986 A</td><td>14 août</td><td>1986</td></tr>
 <tr><td>Saint-Marin</td><td>5 avril</td><td>1994</td><td>5 octobre</td><td>1994</td></tr>
 <tr><td>Saint-Siège</td><td>21 novembre</td><td>1985</td><td>21 mai</td><td>1986</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>8 avril</td><td>1983 A</td><td>8 octobre</td><td>1983</td></tr>
-<tr><td>Salomon, Iles</td><td>19 septembre</td><td>1988 A</td><td>19 mars</td><td>1989</td></tr>
+<tr><td>Sainte-Lucie</td><td>7 octobre</td><td>1982 A</td><td>7 avril</td><td>1983</td></tr>
 <tr><td>Samoa</td><td>23 août</td><td>1984 A</td><td>23 février</td><td>1985</td></tr>
 <tr><td>Sao Tomé-et-Principe</td><td>5 juillet</td><td>1996 A</td><td>5 janvier</td><td>1997</td></tr>
 <tr><td>Sénégal</td><td>7 mai</td><td>1985</td><td>7 novembre</td><td>1985</td></tr>
@@ -511,7 +513,6 @@ Champ d’application le 12 juillet 2018**[^t-2]**
 <tr><td>Suède</td><td>31 août</td><td>1979</td><td>29 février</td><td>1980</td></tr>
 <tr><td>Suisse</td><td>17 février</td><td>1982</td><td>17 août</td><td>1982</td></tr>
 <tr><td>Suriname</td><td>16 décembre</td><td>1985 A</td><td>16 juin</td><td>1986</td></tr>
-<tr><td>Swaziland</td><td>2 novembre</td><td>1995 A</td><td>2 mai</td><td>1996</td></tr>
 <tr><td>Tadjikistan</td><td>13 janvier</td><td>1993 S</td><td>21 décembre</td><td>1991</td></tr>
 <tr><td>Tanzanie</td><td>15 février</td><td>1983 A</td><td>15 août</td><td>1983</td></tr>
 <tr><td>Tchad</td><td>17 janvier</td><td>1997 A</td><td>17 juillet</td><td>1997</td></tr>
@@ -528,10 +529,10 @@ Champ d’application le 12 juillet 2018**[^t-2]**
 <tr><td>Yémen</td><td>17 avril</td><td>1990</td><td>17 octobre</td><td>1990</td></tr>
 <tr><td>Zambie</td><td>4 mai</td><td>1995 A</td><td>4 novembre</td><td>1995</td></tr>
 <tr><td>Zimbabwe</td><td>19 octobre</td><td>1992 A</td><td>19 avril</td><td>1993</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet du Comité international de la Croix Rouge: www.icrc.org ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français peuvent être consultés sur le site Internet du Département fédéral des affaires étrangères (DFAE): [www.eda.admin.ch](https://www.eda.admin.ch/eda/fr/dfae/politique-exterieure/droit-international-public/traites-internationaux/depositaire/protection-des-victimes-de-la-guerre.html) &gt; Politique extérieure &gt; Droit international public &gt; Traités internationaux &gt; Dépositaire &gt; Protection des victimes de la guerre ou obtenus auprès de la Direction du droit international public, Section des traités internationaux, 3003 Berne.</td></tr>
 <tr><td colspan="5"><sup>a</sup> En vertu d’une déclaration de la République populaire de Chine du 14 avril 1999, le protocole est applicable à la Région administrative spéciale (RAS) de Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
 <tr><td colspan="5"><sup>b</sup> En vertu d’une déclaration de la République populaire de Chine du 31 mai 1999, le protocole est applicable à la Région administrative spéciale (RAS) de Macao à partir du 20 déc. 1999.</td></tr>
 <tr><td colspan="5"><sup>c</sup> Le protocole ne s’applique pas à Nioué et Tokélaou.</td></tr>
 </table>
 
-[^t-2]: RO **1982** 1441, [1983 610](https://fedlex.data.admin.ch/eli/oc/1983/610_610_610), [1984 569](https://fedlex.data.admin.ch/eli/oc/1984/569_569_569),[1985 604](https://fedlex.data.admin.ch/eli/oc/1985/604_604_604), [1986 1444](https://fedlex.data.admin.ch/eli/oc/1986/1444_1444_1444), [1987 1037](https://fedlex.data.admin.ch/eli/oc/1987/1037_1037_1037), [1989 785](https://fedlex.data.admin.ch/eli/oc/1989/785_785_785), [1991 228](https://fedlex.data.admin.ch/eli/oc/1991/228_228_228)[2066](https://fedlex.data.admin.ch/eli/oc/1991/2066_2066_2066),[2005 1211](https://fedlex.data.admin.ch/eli/oc/2005/170), [2006 4695](https://fedlex.data.admin.ch/eli/oc/2006/720), [2009 3957](https://fedlex.data.admin.ch/eli/oc/2009/505), [2012 115](https://fedlex.data.admin.ch/eli/oc/2012/18), [2014 2413](https://fedlex.data.admin.ch/eli/oc/2014/424), [2018 2769](https://fedlex.data.admin.ch/eli/oc/2018/413). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1982 1432](https://fedlex.data.admin.ch/eli/oc/1982/1432_1432_1432); [1983 610](https://fedlex.data.admin.ch/eli/oc/1983/610_610_610); [1984 569](https://fedlex.data.admin.ch/eli/oc/1984/569_569_569); [1985 604](https://fedlex.data.admin.ch/eli/oc/1985/604_604_604); [1986 1444](https://fedlex.data.admin.ch/eli/oc/1986/1444_1444_1444); [1987 1037](https://fedlex.data.admin.ch/eli/oc/1987/1037_1037_1037); [1989 785](https://fedlex.data.admin.ch/eli/oc/1989/785_785_785); [1991 228](https://fedlex.data.admin.ch/eli/oc/1991/228_228_228), [2066](https://fedlex.data.admin.ch/eli/oc/1991/2066_2066_2066); [2005 1211](https://fedlex.data.admin.ch/eli/oc/2005/170); [2006 4695](https://fedlex.data.admin.ch/eli/oc/2006/720); [2009 3957](https://fedlex.data.admin.ch/eli/oc/2009/505); [2012 115](https://fedlex.data.admin.ch/eli/oc/2012/18); [2014 2413](https://fedlex.data.admin.ch/eli/oc/2014/424); [2018 2769](https://fedlex.data.admin.ch/eli/oc/2018/413); [2023 620](https://fedlex.data.admin.ch/eli/oc/2023/620). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
