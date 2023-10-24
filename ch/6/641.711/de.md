@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Verordnung vom 30. November 2012 über die Reduktion der CO<sub>2</sub>-Emissionen (CO<sub>2</sub>-Verordnung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: de
-version: 2023-02-15
+version: 2023-10-25
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20230215/de/xml/fedlex-data-admin-ch-eli-cc-2012-856-20230215-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20230215/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20231025/de/xml/fedlex-data-admin-ch-eli-cc-2012-856-20231025-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20231025/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20230215/de"
 
 (CO<sub>2</sub>-Verordnung)
 
-vom 30. November 2012 (Stand am 15. Februar 2023)
+vom 30. November 2012 (Stand am 25. Oktober 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -559,12 +559,13 @@ Als Importeur eines Fahrzeugs gilt, wer:
 
 <sup>1</sup> Die Bestimmungen dieses Kapitels gelten für Lieferwagen nach Artikel 11 Absatz 2 Buchstabe e VTS mit einem Gesamtgewicht von höchstens 3,50 t sowie Fahrzeuge mit einem emissionsfreien Antrieb und einem Gesamtgewicht von über 3,50 t bis zu 4,25 t, die abgesehen vom Gewicht der Definition des Lieferwagens entsprechen und bei denen das 3,50 t überschreitende Gewicht einzig durch das Mehrgewicht des emissionsfreien Antriebs verursacht wird.
 
-<sup>2</sup> Sie gelten nicht für Lieferwagen mit einem Leergewicht von über 2,585 t, die nach dem Messverfahren für schwere Motorwagen gemäss Verordnung (EG) Nr. 595/2009[^17b-2] gemessen werden und die nicht mit Elektrizität oder mit Wasserstoff als Energiequelle ausschliesslich elektrisch angetrieben werden, sowie für Fahrzeuge mit besonderer Zweckbestimmung nach Anhang 2 Teil A Ziffer 5 der Richtlinie 2007/46/EG[^17b-3] oder nach Anhang I Teil A Ziffer 5 der Verordnung (EU) 2018/858[^17b-4].
+<sup>2</sup> Sie gelten nicht für Lieferwagen mit einem Leergewicht von über 2,585 t, die nach dem Messverfahren für schwere Motorwagen gemäss Verordnung (EG) Nr. 595/2009[^17b-2] gemessen werden und die nicht mit Elektrizität oder mit Wasserstoff als Energiequelle ausschliesslich elektrisch angetrieben werden, sowie für Fahrzeuge mit besonderer Zweckbestimmung nach Anhang 2 Teil A Ziffer 5 der Richtlinie 2007/46/EG[^17b-3] oder nach Anhang I Teil A Ziffer 5 der Verordnung (EU) 2018/858[^17b-4].[^17b-5]
 
 [^17b-1]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^17b-2]: Verordnung (EG) Nr. 595/2009 des Europäischen Parlaments und des Rates vom 18. Juni 2009 über die Typengenehmigung von Kraftfahrzeugen und Motoren hinsichtlich der Emissionen von schweren Nutzfahrzeugen (Euro VI) und über den Zugang zu Fahrzeugreparatur- und -wartungsinformationen, zur Änderung der Verordnung (EG) Nr. 715/2007 und der Richtlinie 2007/46/EG sowie zur Aufhebung der Richtlinien 80/1269/EWG, 2005/55/EG und 2005/78/EG, ABl. L 188 vom 18.7.2009, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 133/2014, ABl. L 47 vom 18.2.2014, S. 1.
 [^17b-3]: Siehe Fussnote zu Art. 17*a* Abs. 2.
 [^17b-4]: Siehe Fussnote zu Art. 17 Abs. 2 Bst. b.
+[^17b-5]: Die Berichtigung vom 25. Okt. 2023 betrifft nur den französischen Text (AS **202****3** 605).
 
 #### Art. 17c
 
@@ -3728,7 +3729,7 @@ Im Sinne dieses Anhangs bedeuten:
 
 Für die Festlegung des Werts für den in den Berechnungen der Emissionsverminderungen notwendige Paramater Oxidationsfaktor (OX) ist der folgende Entscheidungsbaum zu verwenden:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20230215/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20231025/de/xml/image/image1.png)
 
 ### 3.3 Ex-ante Berechnung der Emissionsverminderungen
 

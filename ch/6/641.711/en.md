@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Ordinance of 30 November 2012 for the Reduction of CO<sub>2</sub> Emissions (CO<sub>2</sub> Ordinance)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: en
-version: 2023-02-15
+version: 2023-10-25
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20230215/en/xml/fedlex-data-admin-ch-eli-cc-2012-856-20230215-en-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20230215/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20231025/en/xml/fedlex-data-admin-ch-eli-cc-2012-856-20231025-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20231025/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (CO<sub>2</sub> Ordinance)
 
-of 30 November 2012 (Status as of 15 February 2023)
+of 30 November 2012 (Status as of 25 October 2023)
 
 The Swiss Federal Council,
 
@@ -559,12 +559,13 @@ The importer of a vehicle is the person who:
 
 <sup>1</sup> The provisions of this Chapter apply to vans in accordance with Article 11 paragraph 2 letter e RVTRO with a maximum permissible weight not exceeding 3.50 t and vehicles with an emission-free drive system and a maximum permissible weight of between 3.50 t and 4.25 t that apart from their weight correspond to the definition of a van and whose weight in excess of 3.50 t is caused solely by the additional weight of the emission-free drive system.
 
-<sup>2</sup> They do not apply to vans with an unladen weight of over 2.585 t measured in accordance with the measurement procedure for heavy vehicles in Regulation (EC) No 595/2009[^17b-2] and which are not exclusively electrically powered with electricity or with hydrogen as the energy source, and to special-purpose vehicles in accordance with Annex 2 Part A number 5 of Directive 2007/46/EC[^17b-3] or in accordance with Annex I Part A number 5 of Regulation (EU) 2018/858[^17b-4].
+<sup>2</sup> They do not apply to vans with an unladen weight of over 2.585 t measured in accordance with the measurement procedure for heavy vehicles in Regulation (EC) No 595/2009[^17b-2] and which are not exclusively electrically powered with electricity or with hydrogen as the energy source, and to special-purpose vehicles in accordance with Annex 2 Part A number 5 of Directive 2007/46/EC[^17b-3] or in accordance with Annex I Part A number 5 of Regulation (EU) 2018/858[^17b-4].[^17b-5]
 
 [^17b-1]: Inserted by No I of the O of 4 May 2022, in force since 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^17b-2]: Regulation (EC) No 595/2009 of the European Parliament and of the Council of 18 June 2009 on type-approval of motor vehicles and engines with respect to emissions from heavy duty vehicles (Euro VI) and on access to vehicle repair and maintenance information and amending Regulation (EC) No 715/2007 and Directive 2007/46/EC and repealing Directives 80/1269/EEC, 2005/55/EC and 2005/78/EC, OJ L 188 of 18.7.2009, p. 1; last amended by Regulation (EU) No 133/2014, OJ L 47 of 18.2.2014, p. 1.
 [^17b-3]: See footnote to Art. 17*a* para. 2.
 [^17b-4]: See footnote to Art. 17 para. 2 let. b.
+[^17b-5]: The correction of 25 Oct. 2023 concerns the French text only ([AS 2023 605](https://fedlex.data.admin.ch/eli/oc/2023/605)).
 
 #### Art. 17c
 
@@ -3724,7 +3725,7 @@ In this Annex:
 
 For determining the value of the oxidation factor parameter (OX) required to calculate the emission reductions, the following decision tree must be used:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20230215/en/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20231025/en/xml/image/image1.png)
 
 ### 3.3 Ex-ante calculation of emission reductions
 

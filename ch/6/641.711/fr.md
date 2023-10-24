@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Ordonnance du 30 novembre 2012 sur la réduction des émissions de CO<sub>2</sub> (Ordonnance sur le CO<sub>2</sub>)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: fr
-version: 2023-02-15
+version: 2023-10-25
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20230215/fr/xml/fedlex-data-admin-ch-eli-cc-2012-856-20230215-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20230215/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20231025/fr/xml/fedlex-data-admin-ch-eli-cc-2012-856-20231025-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20231025/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20230215/fr"
 
 (Ordonnance sur le CO<sub>2</sub>)
 
-du 30 novembre 2012 (État le 15 février 2023)
+du 30 novembre 2012 (État le 25 octobre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -555,12 +555,13 @@ Est considéré comme importateur d’un véhicule quiconque:
 
 <sup>1</sup> Les dispositions du présent chapitre s’appliquent aux voitures de livraison au sens de l’art. 11, al. 2, let. e, ch. 1, OETV dont le poids total n’excède pas 3,50 t et aux véhicules équipés d’un système de propulsion à émission nulle et dont le poids total dépasse 3,50 t mais n’excède pas 4,25 t qui, mis à part le poids, correspondent à la définition d’une voiture de livraison et dont le surplus de poids au-delà de 3,50 t n’est dû qu’au système de propulsion à émission nulle.
 
-<sup>2</sup> Elles ne s’appliquent pas aux voitures de livraison dont le poids à vide est supérieur à 2,585 t, dont les émissions ont été mesurées selon la procédure ad hoc pour les voitures automobiles lourdes prévue dans le règlement (CE) n<sup>o</sup> 595/2009[^17b-2] et dont la source de propulsion est exclusivement l’électricité ou l’hydrogène, ni aux véhicules à usage spécial au sens de l’annexe 2, partie A, ch. 5, de la directive 2007/46/CE[^17b-3] ou de l’annexe I, partie A, ch. 5, du règlement (UE) 2018/858[^17b-4].
+<sup>2</sup> Elles ne s’appliquent pas aux voitures de livraison dont le poids à vide est supérieur à 2,585 t, dont les émissions ont été mesurées selon la procédure ad hoc pour les voitures automobiles lourdes prévue dans le règlement (CE) n<sup>o</sup> 595/2009[^17b-2] et dont la source de propulsion n’est pas exclusivement l’électricité ou l’hydrogène, ni aux véhicules à usage spécial au sens de l’annexe 2, partie A, ch. 5, de la directive 2007/46/CE[^17b-3] ou de l’annexe I, partie A, ch. 5, du règlement (UE) 2018/858[^17b-4].[^17b-5]
 
 [^17b-1]: Introduit par le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^17b-2]: Règlement (CE) n<sup>o</sup> 595/2009 du Parlement européen et du Conseil du 18 juin 2009 relatif à la réception des véhicules à moteur et des moteurs au regard des émissions des véhicules utilitaires lourds (Euro VI) et à l’accès aux informations sur la réparation et l’entretien des véhicules, modifiant le règlement (CE) n<sup>o</sup> 715/2007 et la directive 2007/46/CE et abrogeant les directives 80/1269/CEE, 2005/55/CE et 2005/78/CE, JO L 188 du 18.7.2009, p. 1; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 133/2014, JO L 47 du 18.2.2014, p. 1.
 [^17b-3]: Voir note de bas de page relative à l’art. 17*a*, al. 2.
 [^17b-4]: Voir note de bas de page relative à l’art. 17, al. 2, let. b.
+[^17b-5]: Erratum du 25 oct. 2023 ([RO 2023 605](https://fedlex.data.admin.ch/eli/oc/2023/605)).
 
 #### Art. 17c
 
@@ -3737,7 +3738,7 @@ Au sens de la présente annexe, on entend par:
 
 Le facteur d’oxydation (OX) est un paramètre indispensable au calcul des réductions d’émissions. Le choix de sa valeur découle de l’arbre de décision suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20230215/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20231025/fr/xml/image/image1.png)
 
 ### 3.3 Calcul ex-ante des réductions d’émissions
 

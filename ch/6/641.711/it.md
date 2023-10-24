@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Ordinanza del 30 novembre 2012 sulla riduzione delle emissioni di CO<sub>2</sub> (Ordinanza sul CO<sub>2</sub>)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: it
-version: 2023-02-15
+version: 2023-10-25
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20230215/it/xml/fedlex-data-admin-ch-eli-cc-2012-856-20230215-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20230215/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20231025/it/xml/fedlex-data-admin-ch-eli-cc-2012-856-20231025-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20231025/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20230215/it"
 
 (Ordinanza sul CO<sub>2</sub>)
 
-del 30 novembre 2012 (Stato 15 febbraio 2023)
+del 30 novembre 2012 (Stato 25 ottobre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -559,12 +559,13 @@ Alle disposizioni del presente capitolo è assoggettato chi importa o produce in
 
 <sup>1</sup> Le disposizioni del presente capitolo si applicano ai furgoni secondo l’articolo 11 capoverso 2 lettera e OETV con un peso complessivo non superiore a 3,50 t, nonché ai veicoli con una propulsione a zero emissioni e un peso complessivo da 3,5 t a 4,25 t che, a prescindere dal peso, corrispondono alla definizione di autofurgone purché il peso che oltrepassa 3,5 t possa essere causato unicamente dal peso aggiuntivo della propulsione a zero emissioni.
 
-<sup>2</sup> Esse non si applicano agli autofurgoni con peso a vuoto superiore a 2,585 t, le cui emissioni sono rilevate in base alla procedura di misurazione per veicoli pesanti conformemente al regolamento (CE) n. 595/2009[^17b-2] e che non dispongono di una propulsione esclusivamente elettrica con elettricità o idrogeno quale fonte di energia, e neppure ai veicoli per uso speciale secondo l’allegato II parte A numero 5 della direttiva 2007/46/CE[^17b-3] o secondo l’allegato I parte A numero 5 del regolamento (UE) 2018/858[^17b-4].
+<sup>2</sup> Esse non si applicano agli autofurgoni con peso a vuoto superiore a 2,585 t, le cui emissioni sono rilevate in base alla procedura di misurazione per veicoli pesanti conformemente al regolamento (CE) n. 595/2009[^17b-2] e che non dispongono di una propulsione esclusivamente elettrica con elettricità o idrogeno quale fonte di energia, e neppure ai veicoli per uso speciale secondo l’allegato II parte A numero 5 della direttiva 2007/46/CE[^17b-3] o secondo l’allegato I parte A numero 5 del regolamento (UE) 2018/858[^17b-4].[^17b-5]
 
 [^17b-1]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^17b-2]: Regolamento (CE) n. 595/2009 del Parlamento europeo e del Consiglio, del 18 giugno 2009, relativo all’omologazione dei veicoli a motore e dei motori riguardo alle emissioni dei veicoli pesanti (euro VI) e all’accesso alle informazioni relative alla riparazione e alla manutenzione del veicolo e che modifica il regolamento (CE) n. 715/2007 e la direttiva 2007/46/CE e che abroga le direttive 80/1269/CEE, 2005/55/CE e 2005/78/CE, GU L 188 del 18.7.2009, pag. 1; modificato da ultimo dal regolamento (UE) n. 133/2014, GU L 47 del 18.2.2014, pag. 1.
 [^17b-3]: Cfr. nota a piè di pagina relativa all’art. 17*a* cpv. 2.
 [^17b-4]: Cfr. nota a piè di pagina relativa all’art. 17 cpv. 2 lett. b.
+[^17b-5]: La correzione del 25 ott. 2023 concerne soltanto il testo francese ([RU 2023 605](https://fedlex.data.admin.ch/eli/oc/2023/605)).
 
 #### Art. 17c
 
@@ -3732,7 +3733,7 @@ Ai sensi del presente allegato si intendono per:
 
 Per la determinazione del valore del fattore di ossidazione (OX) necessario per i calcoli delle riduzioni di emissioni deve essere utilizzato il seguente albero decisionale:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20230215/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20231025/it/xml/image/image1.png)
 
 ### 3.3 Calcolo ex ante delle riduzioni delle emissioni
 
