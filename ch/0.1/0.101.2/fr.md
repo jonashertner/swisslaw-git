@@ -3,11 +3,11 @@ sr: "0.101.2"
 title: "Règlement de la Cour européenne des droits de l'homme du 4 novembre 1998"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/596"
 language: fr
-version: 2023-03-03
+version: 2023-10-30
 adopted: 1998-11-04
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/596/20230303/fr/xml/fedlex-data-admin-ch-eli-cc-2006-596-20230303-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/596/20230303/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/596/20231030/fr/xml/fedlex-data-admin-ch-eli-cc-2006-596-20231030-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/596/20231030/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,9 +18,9 @@ RO **2006** 3961[^t-1]
 
 Texte original
 
-du 4 novembre 1998 (État le 3 mars 2023)
+du 4 novembre 1998 (État le 30 octobre 2023)
 
-[^t-1]: Cette nouvelle version inclut les Am. adoptés par la Cour et mentionnés en note de bas de page à l’art. 117 ([RO 2019 35](https://fedlex.data.admin.ch/eli/oc/2019/8), [2489](https://fedlex.data.admin.ch/eli/oc/2019/465), [4281](https://fedlex.data.admin.ch/eli/oc/2019/738); [2020 429](https://fedlex.data.admin.ch/eli/oc/2020/72); [2022 223](https://fedlex.data.admin.ch/eli/oc/2022/223), [275](https://fedlex.data.admin.ch/eli/oc/2022/275); [2023 189](https://fedlex.data.admin.ch/eli/oc/2023/189)). Les annexes ne sont pas publiées au RO; les textes en français peuvent être consultés sur le site Internet de la Cour: [www.echr.coe.int](http://www.echr.coe.int).
+[^t-1]: Cette nouvelle version inclut les Am. adoptés par la Cour et mentionnés en note de bas de page à l’art. 117 ([RO 2019 35](https://fedlex.data.admin.ch/eli/oc/2019/8), [2489](https://fedlex.data.admin.ch/eli/oc/2019/465), [4281](https://fedlex.data.admin.ch/eli/oc/2019/738); [2020 429](https://fedlex.data.admin.ch/eli/oc/2020/72); [2022 223](https://fedlex.data.admin.ch/eli/oc/2022/223), [275](https://fedlex.data.admin.ch/eli/oc/2022/275); [2023 189](https://fedlex.data.admin.ch/eli/oc/2023/189), [716](https://fedlex.data.admin.ch/eli/oc/2023/716)). Les annexes ne sont pas publiées au RO; les textes en français peuvent être consultés sur le site Internet de la Cour: [www.echr.coe.int](http://www.echr.coe.int).
 
 La Cour européenne des droits de l’homme,
 
@@ -120,7 +120,17 @@ La démission d’un juge est adressée au président de la Cour, qui la transme
 
 **Révocation**
 
-Un juge ne peut être relevé de ses fonctions que si les autres juges, réunis en session plénière, décident, à la majorité des deux tiers des juges élus en fonctions, qu’il a cessé de répondre aux conditions requises. Il doit au préalable être entendu par la Cour plénière. Tout juge peut mettre en mouvement la procédure de révocation.
+Un juge ne peut être relevé de ses fonctions que si les autres juges élus en fonctions, réunis en session plénière, décident, à la majorité des deux tiers des juges, qu’il a cessé de répondre aux conditions requises. Il doit au préalable être entendu par la Cour plénière. Tout juge peut mettre en mouvement la procédure de révocation. Le juge visé par une telle procédure doit avoir accès aux documents relatifs à l’ouverture de la procédure de révocation et doit être entendu par la Cour plénière. Il n’a pas accès aux documents relatifs à la poursuite de la procédure devant la Cour plénière, et il n’assiste pas aux délibérations et ne participe pas au vote dans le cadre de la procédure de révocation.
+
+#### Art. 7a
+
+**Levée de l’immunité**
+
+<sup>1.</sup> Conformément à l’art. 4 du Sixième Protocole à l’Accord général sur les privilèges et immunités du Conseil de l’Europe[^7a-1], la Cour plénière a seule compétence pour prononcer la levée de l’immunité d’un juge. Pareille décision doit être prise à la majorité absolue des juges élus en fonctions, à l’exception du juge visé par la demande de levée de son immunité. Le juge visé doit avoir accès aux documents relatifs à l’ouverture de la procédure de levée de son immunité et doit être entendu par la Cour plénière. Il n’a pas accès aux documents relatifs à la poursuite de la procédure devant la Cour plénière, et il n’assiste pas aux délibérations et ne participe pas au vote dans le cadre de la procédure de levée de son immunité.
+
+<sup>2.</sup> Les dispositions du présent article s’appliquent, *mutatis mutandis*, à la procédure concernant l’examen d’une question liée à l’immunité dont jouissent les conjoints et enfants mineurs des juges au sens de l’art. 2 du Sixième Protocole à l’Accord général sur les privilèges et immunités du Conseil de l’Europe ainsi qu’à l’immunité dont jouissent les juges après la fin de leur mandat conformément à l’art. 3 du Sixième Protocole à l’Accord général sur les privilèges et immunités du Conseil de l’Europe.
+
+[^7a-1]: **0.192.110.36**
 
 ### Chapitre II Présidence de la Cour et rôle du bureau
 
@@ -486,7 +496,7 @@ Le président de la Cour peut édicter des instructions pratiques, notamment en 
 
 **Publicité des documents**
 
-<sup>1.</sup> Tous les documents déposés au greffe par les parties ou par des tiers intervenants en rapport avec une requête, à l’exception de ceux soumis dans le cadre de négociations menées en vue de parvenir à un règlement amiable comme le prévoit l’art. 62 du présent règlement, sont accessibles au public, selon les modalités pratiques édictées par le greffier, à moins que le président de la chambre n’en décide autrement pour les raisons indiquées au par. 2 du présent article, soit d’office, soit à la demande d’une partie ou de toute autre personne intéressée.
+<sup>1.</sup> Tous les documents déposés au greffe par les parties ou par des tiers intervenants en rapport avec une requête, à l’exception a) de ceux déposés dans le cadre de négociations menées en vue de parvenir à un règlement amiable comme le prévoit l’art. 62 du présent règlement, ou b) de ceux présentés dans le cadre d’une procédure conduite sur la base de l’art. 44*f* du présent règlement, sont accessibles au public, selon les modalités pratiques édictées par le greffier, à moins que le président de la chambre n’en décide autrement pour les raisons indiquées au par. 2 du présent article, soit d’office, soit à la demande d’une partie ou de toute autre personne intéressée.
 
 <sup>2.</sup> L’accès du public à un document ou à une partie d’un document peut être restreint dans l’intérêt de la moralité, de l’ordre public ou de la sécurité nationale dans une société démocratique lorsque les intérêts des mineurs ou la protection de la vie privée des parties ou de toute autre personne concernée l’exigent, ou, dans la mesure jugée strictement nécessaire par le président de la chambre, lorsque, dans des circonstances spéciales, la publicité serait de nature à porter atteinte aux intérêts de la justice.
 
@@ -668,6 +678,43 @@ Lorsqu’une partie ne se conforme pas à une ordonnance de la Cour relative à 
 **Non-maintien d’une requête**
 
 Comme le prévoit l’art. 37 par. 1 a) de la Convention, si une Partie contractante requérante ou un individu requérant n’entend plus maintenir sa requête, la chambre peut rayer celle-ci du rôle de la Cour, conformément à l’art. 43 du présent règlement.
+
+#### Art. 44f
+
+**Traitement des documents hautement sensibles**
+
+<sup>1.</sup>
+
+a) Dans le cadre du présent article, le terme «document» inclut toute information ou toute pièce, sous forme physique ou sous forme électronique, ainsi que tout élément d’un tel document. Par «partie» et «parties», il faut entendre:
+
+- i) toute Partie contractante;
+- ii) le requérant (individu, organisation non gouvernementale ou groupe d’individus) qui a introduit une requête en vertu de l’art. 34 de la Convention.
+
+- b) Dans le cadre du présent article, le terme «comité» s’entend d’une formation de trois juges composée, conformément au par. 4 du présent article, aux fins d’examen d’une demande présentée au titre du présent article.
+
+<sup>2.</sup> Si, à un stade quelconque de la procédure, une Partie contractante estime que la divulgation d’un document déterminé à une partie ou au public porterait atteinte aux intérêts de sa sécurité nationale ou si le requérant estime qu’une telle divulgation porterait atteinte à l’un quelconque de ses intérêts qui serait tout aussi impérieux, la divulgation du document doit être écartée si la partie concernée le demande, et celle-ci a le droit de faire trancher la question conformément au présent article. Il n’est pas nécessaire de soumettre le document en question en même temps que la demande.
+
+<sup>3.</sup> Cette règle s’applique également lorsqu’une personne qui, en vertu de l’art. A1 de l’annexe au présent règlement (relatif aux mesures d’instruction), a été invitée à produire un document s’y est refusée ou en a référé à une partie au motif que la divulgation porterait atteinte aux intérêts de cette dernière.
+
+<sup>4.</sup> Une demande présentée par une partie au titre du par. 2 du présent article est attribuée au comité composé de juges non membres de la chambre chargée de statuer sur la recevabilité ou le fond de l’affaire; le comité peut indiquer toutes les mesures qu’il juge nécessaires pour fournir à la chambre les éléments propres à lui permettre de poursuivre son examen de l’affaire en vertu du par. 7 du présent article et faciliter la mise en œuvre de ces mesures.
+
+<sup>5.</sup>
+
+Lorsqu’une partie estime que la divulgation d’un document porterait atteinte à ses intérêts, elle prend, en liaison avec la chambre ou le comité et, le cas échéant, avec toute autre partie et compte tenu des obligations découlant de l’art. 38 de la Convention et de l’art. 44*a* du présent règlement, toute mesure raisonnable apte à permettre de trouver une solution par la concertation et dans un délai raisonnable. Ces mesures (prises isolément ou combinées) peuvent notamment consister à:
+
+- a) modifier ou préciser la demande visée au par. 2 du présent article;
+- b) faire trancher par la chambre ou le comité la question de la pertinence des documents demandés;
+- c) trouver un accord sur les conditions auxquelles une assistance pourrait être fournie, notamment par la communication de résumés ou de versions expurgées, l’imposition de restrictions à la divulgation, le recours à une procédure à huis clos ou ex parte, ou l’application d’autres mesures de protection, ou à
+- d) trouver un accord sur les garanties pratiques et procédurales devant entourer la conservation et la consultation du document au greffe.
+
+<sup>6.</sup> Lorsque toutes les mesures raisonnablement possibles ont été prises aux fins d’un règlement de la question par la voie de la concertation et que la partie concernée estime qu’il n’existe ni moyens ni conditions propres à lui permettre de produire ou de divulguer le document sans porter atteinte à ses intérêts, elle en avise la chambre ou le comité en indiquant les raisons précises qui l’ont conduite à cette position, à moins qu’un énoncé précis de ces raisons soit lui-même de nature à porter atteinte à ces intérêts.
+
+<sup>7.</sup>
+
+Par la suite, et seulement si la chambre estime que le document en question est essentiel pour l’examen de l’affaire:
+
+- a) la chambre peut, par dérogation au principe du contradictoire et dans la limite de ce qui lui paraît strictement nécessaire à la bonne administration de la justice, tenir compte du document sous une forme approuvée par la partie concernée s’il se trouve en sa possession. Ce faisant, la chambre doit prendre en considération le fait que la partie adverse n’a pas eu la possibilité de faire des commentaires au sujet de ce document. Lorsque la chambre adopte son arrêt ou sa décision, elle doit dûment tenir compte du caractère sensible de tout document ainsi examiné;
+- b) en dehors de ces circonstances, la chambre peut tirer les conclusions lui paraissant appropriées.
 
 ### Chapitre II De l’introduction de l’instance
 
@@ -1482,4 +1529,4 @@ L’application de toute disposition concernant le fonctionnement interne de la 
 
 Le présent règlement entre en vigueur le 1<sup>er</sup> novembre 1998.
 
-[^117-1]: Les Am. adoptés le 8 déc. 2000 sont entrés en vigueur immédiatement. Les Am. adoptés les 17 juin et 8 juil. 2002 sont entrés en vigueur le 1<sup>er</sup> oct. 2002. Les Am. adoptés le 7 juil. 2003 sont entrés en vigueur le 1<sup>er</sup> nov. 2003. Les Am. adoptés le 13 déc. 2004 sont entrés en vigueur le 1<sup>er</sup> mars 2005. Les Am. adoptés le 4 juil. 2005 sont entrés en vigueur le 3 oct. 2005. Les Am. adoptés le 7 nov. 2005 sont entrés en vigueur le 1<sup>er</sup> déc. 2005. Les Am. adoptés le 29 mai 2006 sont entrés en vigueur le 1<sup>er</sup> juil. 2006. Les Am. adoptés le 14 mai 2007 sont entrés en vigueur le 1<sup>er</sup> juil. 2007. Les Am. adoptés le 11 déc. 2007, les 22 sept. et 1<sup>er</sup> déc. 2008 sont entrés en vigueur le 1<sup>er</sup> janv. 2009. Les Am. adoptés le 29 juin 2009 sont entrés en vigueur le 1<sup>er</sup> juil. 2009. Les Am. adoptés le 16 nov. 2009 sont entrés en vigueur le 1<sup>er</sup> déc. 2009. Les Am. relatifs au Protocole n<sup>o</sup> 14 à la Convention, adoptés les 13 nov. 2006 et 14 mai 2007, sont entrés en vigueur le 1<sup>er</sup> juin 2010. Les Am. adoptés le 21 fév. 2011 sont entrés en vigueur le 1<sup>er</sup> avr. 2011. Les Am. adoptés le 16 jan. 2012 sont entrés en vigueur le 1<sup>er</sup> fév. 2012. Les Am. adoptés le 20 fév. 2012 sont entrés en vigueur le 1<sup>er</sup> mai 2012. Les Am. adoptés le 2 avr. 2012 sont entrés en vigueur le 1<sup>er</sup> sep. 2012. Les Am. adoptés les 14 jan. et 6 fév. 2013 sont entrés en vigueur le 1<sup>er</sup> mai 2013. Les Am. adoptés le 6 mai 2013 sont entrés en vigueur les 1<sup>er</sup> juil. 2013 et 1<sup>er</sup> jan. 2014. Les Am. adoptés les 14 avr. et 23 juin 2014 sont entrés en vigueur le 1<sup>er</sup> juil. 2014. Certains Am. adoptés le 1<sup>er</sup> juin 2015 sont entrés immédiatement en vigueur. Les Am. à l’Art. 47 adoptés les 1<sup>er</sup> juin et 5 oct. 2015 sont entrés en vigueur le 1<sup>er</sup> jan. 2016. Les Am. à l’Art. 8 adoptés le 19 sep. 2016 sont entrés en vigueur à la même date. Les Am. adoptés le 14 nov. 2016 sont entrés en vigueur à la même date. Les Am. à l’Art. 29 adoptés le 16 avr. 2018 sont entrés en vigueur à la même date. Les Am. adoptés le 19 sep. 2016 sont entrés en vigueur le 1<sup>er</sup> août 2018. L’Am. à l’Art. 29 § 1 adopté le 3 juin 2019 est entré en vigueur à la même date. Les Am. aux Art. 27*a* et 52*a* adoptés le 9 septembre 2019 sont entrés en vigueur à la même date. Les Am. adoptés le 4 novembre 2019 sont entrés en vigueur le 1<sup>er</sup> janvier 2020. Les Am. à l’art. 8 qui ont été adoptés le 2 juin 2021 sont entrés en vigueur à la même date. Les Am. aux art. 24, 93, 94 et 101 adoptés le 11 octobre 2021 sont entrés en vigueur le 18 octobre 2021. Les Am. aux articles 36 et 44*d* qui ont été adoptés le 7 février 2022 sont entrés en vigueur à la même date. L’Am. à l’article 8 § 5 adopté le 30 mai 2022 est entré en vigueur à la même date. L’Am. à l’article 44 § 4 adopté le 3 juin 2022 est entré en vigueur à la même date. L’Am. à l’article 44 §§ 2 et 3 b) adopté le 3 mars 2023 est entré en vigueur à la même date.
+[^117-1]: Les Am. adoptés le 8 déc. 2000 sont entrés en vigueur immédiatement. Les Am. adoptés les 17 juin et 8 juil. 2002 sont entrés en vigueur le 1<sup>er</sup> oct. 2002. Les Am. adoptés le 7 juil. 2003 sont entrés en vigueur le 1<sup>er</sup> nov. 2003. Les Am. adoptés le 13 déc. 2004 sont entrés en vigueur le 1<sup>er</sup> mars 2005. Les Am. adoptés le 4 juil. 2005 sont entrés en vigueur le 3 oct. 2005. Les Am. adoptés le 7 nov. 2005 sont entrés en vigueur le 1<sup>er</sup> déc. 2005. Les Am. adoptés le 29 mai 2006 sont entrés en vigueur le 1<sup>er</sup> juil. 2006. Les Am. adoptés le 14 mai 2007 sont entrés en vigueur le 1<sup>er</sup> juil. 2007. Les Am. adoptés le 11 déc. 2007, les 22 sept. et 1<sup>er</sup> déc. 2008 sont entrés en vigueur le 1<sup>er</sup> janv. 2009. Les Am. adoptés le 29 juin 2009 sont entrés en vigueur le 1<sup>er</sup> juil. 2009. Les Am. adoptés le 16 nov. 2009 sont entrés en vigueur le 1<sup>er</sup> déc. 2009. Les Am. relatifs au Protocole n<sup>o</sup> 14 à la Convention, adoptés les 13 nov. 2006 et 14 mai 2007, sont entrés en vigueur le 1<sup>er</sup> juin 2010. Les Am. adoptés le 21 fév. 2011 sont entrés en vigueur le 1<sup>er</sup> avr. 2011. Les Am. adoptés le 16 jan. 2012 sont entrés en vigueur le 1<sup>er</sup> fév. 2012. Les Am. adoptés le 20 fév. 2012 sont entrés en vigueur le 1<sup>er</sup> mai 2012. Les Am. adoptés le 2 avr. 2012 sont entrés en vigueur le 1<sup>er</sup> sep. 2012. Les Am. adoptés les 14 jan. et 6 fév. 2013 sont entrés en vigueur le 1<sup>er</sup> mai 2013. Les Am. adoptés le 6 mai 2013 sont entrés en vigueur les 1<sup>er</sup> juil. 2013 et 1<sup>er</sup> jan. 2014. Les Am. adoptés les 14 avr. et 23 juin 2014 sont entrés en vigueur le 1<sup>er</sup> juil. 2014. Certains Am. adoptés le 1<sup>er</sup> juin 2015 sont entrés immédiatement en vigueur. Les Am. à l’Art. 47 adoptés les 1<sup>er</sup> juin et 5 oct. 2015 sont entrés en vigueur le 1<sup>er</sup> jan. 2016. Les Am. à l’Art. 8 adoptés le 19 sep. 2016 sont entrés en vigueur à la même date. Les Am. adoptés le 14 nov. 2016 sont entrés en vigueur à la même date. Les Am. à l’Art. 29 adoptés le 16 avr. 2018 sont entrés en vigueur à la même date. Les Am. adoptés le 19 sep. 2016 sont entrés en vigueur le 1<sup>er</sup> août 2018. L’Am. à l’Art. 29 § 1 adopté le 3 juin 2019 est entré en vigueur à la même date. Les Am. aux Art. 27*a* et 52*a* adoptés le 9 septembre 2019 sont entrés en vigueur à la même date. Les Am. adoptés le 4 novembre 2019 sont entrés en vigueur le 1<sup>er</sup> janvier 2020. Les Am. à l’art. 8 qui ont été adoptés le 2 juin 2021 sont entrés en vigueur à la même date. Les Am. aux art. 24, 93, 94 et 101 adoptés le 11 octobre 2021 sont entrés en vigueur le 18 octobre 2021. Les Am. aux articles 36 et 44*d* qui ont été adoptés le 7 février 2022 sont entrés en vigueur à la même date. L’Am. à l’article 8 § 5 adopté le 30 mai 2022 est entré en vigueur à la même date. L’Am. à l’article 44 § 4 adopté le 3 juin 2022 est entré en vigueur à la même date. L’Am. à l’article 44 §§ 2 et 3 b) adopté le 3 mars 2023 est entré en vigueur à la même date. Les Am. concernant les art. 7 et 7*a* adoptés le 23 juin 2023 sont entrés en vigueur à la même date. Les Am. concernant les art. 33 § 1 et 44*f* adoptés le 25 sept. 2023 sont entrés en vigueur le 30 oct. 2023.

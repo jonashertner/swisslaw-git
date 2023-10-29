@@ -3,11 +3,11 @@ sr: "0.101.2"
 title: Verfahrensordnung des Europäischen Gerichtshofs für Menschenrechte vom 4. November 1998
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/596"
 language: de
-version: 2023-03-03
+version: 2023-10-30
 adopted: 1998-11-04
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/596/20230303/de/xml/fedlex-data-admin-ch-eli-cc-2006-596-20230303-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/596/20230303/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/596/20231030/de/xml/fedlex-data-admin-ch-eli-cc-2006-596-20231030-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/596/20231030/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,9 +18,9 @@ AS **2006** 3961[^t-1]
 
 Übersetzung
 
-vom 4. November 1998 (Stand am 3. März 2023)
+vom 4. November 1998 (Stand am 30. Oktober 2023)
 
-[^t-1]: Neue Fassung unter Berücksichtigung der in der Fussnote zu Art. 117 aufgeführten Änd. ([AS 2019 35](https://fedlex.data.admin.ch/eli/oc/2019/8), [2489](https://fedlex.data.admin.ch/eli/oc/2019/465), [4281](https://fedlex.data.admin.ch/eli/oc/2019/738); [2020 429](https://fedlex.data.admin.ch/eli/oc/2020/72); [2022 223](https://fedlex.data.admin.ch/eli/oc/2022/223), [275](https://fedlex.data.admin.ch/eli/oc/2022/275); [2023 189](https://fedlex.data.admin.ch/eli/oc/2023/189)). Die Anlagen werden in der AS nicht veröffentlicht. Ihre französischen Texte können auf der Internetseite des Gerichtshofs: www.echr.coe.int eingesehen werden.
+[^t-1]: Neue Fassung unter Berücksichtigung der in der Fussnote zu Art. 117 aufgeführten Änd. ([AS 2019 35](https://fedlex.data.admin.ch/eli/oc/2019/8), [2489](https://fedlex.data.admin.ch/eli/oc/2019/465), [4281](https://fedlex.data.admin.ch/eli/oc/2019/738); [2020 429](https://fedlex.data.admin.ch/eli/oc/2020/72); [2022 223](https://fedlex.data.admin.ch/eli/oc/2022/223), [275](https://fedlex.data.admin.ch/eli/oc/2022/275); [2023 189](https://fedlex.data.admin.ch/eli/oc/2023/189), [716](https://fedlex.data.admin.ch/eli/oc/2023/716)). Die Anlagen werden in der AS nicht veröffentlicht. Ihre französischen Texte können auf der Internetseite des Gerichtshofs: www.echr.coe.int eingesehen werden.
 
 Der Europäische Gerichtshof für Menschenrechte,
 
@@ -122,7 +122,17 @@ Die Rücktrittserklärung eines Richters wird an den Präsidenten des Gerichtsho
 
 **Entlassung**
 
-Ein Richter kann nur entlassen werden, wenn die anderen Richter im Plenum mit der Mehrheit von zwei Dritteln der im Amt befindlichen gewählten Richter beschliessen, dass er die erforderlichen Voraussetzungen nicht mehr erfüllt. Der betroffene Richter ist zuvor vom Plenum anzuhören. Jeder Richter kann das Amtsenthebungsverfahren in Gang setzen.
+Ein Richter kann nur entlassen werden, wenn die anderen im Amt befindlichen gewählten Richter im Plenum mit der Mehrheit von zwei Dritteln beschliessen, dass er die erforderlichen Voraussetzungen nicht mehr erfüllt. Der betroffene Richter ist zuvor vom Plenum anzuhören. Jeder Richter kann das Amtsenthebungsverfahren in Gang setzen. Der Richter, gegen den ein solches Verfahren eingeleitet wurde, muss Zugang zu den Unterlagen im Zusammenhang mit der Eröffnung des Amtsenthebungsverfahrens haben und vom Plenum angehört werden. Er hat keinen Zugang zu den Unterlagen im Zusammenhang mit dem weiteren Verfahren vor dem Plenum und nimmt weder an den Beratungen noch an der Abstimmung im Rahmen des Amtsenthebungsverfahrens teil.
+
+#### Art. 7a
+
+**Aufhebung der Immunität**
+
+<sup>1.</sup> Nach Artikel 4 des Sechsten Zusatzprotokolls zum Allgemeinen Abkommen über die Vorrechte und Immunitäten des Europarates[^7a-1] ist einzig das Plenum befugt, die Immunität von Richtern aufzuheben. Eine solche Entscheidung muss von der absoluten Mehrheit der im Amt befindlichen gewählten Richter getroffen werden, mit Ausnahme des vom Immunitätsaufhebungsgesuches betroffenen Richters. Der Richter, gegen den ein solches Verfahren eingeleitet wurde, muss Zugang zu den Unterlagen im Zusammenhang mit der Eröffnung des Immunitätsaufhebungsverfahrens haben und vom Plenum angehört werden. Er hat keinen Zugang zu den Unterlagen im Zusammenhang mit dem weiteren Verfahren vor dem Plenum und nimmt weder an den Beratungen noch an der Abstimmung im Rahmen des Amtsenthebungsverfahrens teil.
+
+<sup>2.</sup> Auf das Verfahren betreffend die Prüfung einer Frage im Zusammenhang mit der Immunität, welche die Ehegatten und minderjährigen Kinder der Richter nach Artikel 2 des Sechsten Zusatzprotokolls zum Allgemeinen Abkommen über die Vorrechte und Immunitäten des Europarates und der Immunität, welche die Richter nach Ablauf ihrer Amtszeit nach Artikel 3 des Sechsten Zusatzprotokolls zum Allgemeinen Abkommen über die Vorrechte und Immunitäten des Europarates geniessen, sind die Bestimmungen dieses Artikels entsprechend anzuwenden.
+
+[^7a-1]: SR **0****.****192****.****110.36**
 
 ### Kapitel II Präsidialämter des Gerichtshofs und Rolle des Präsidiums
 
@@ -490,7 +500,7 @@ Der Präsident des Gerichtshofs kann Verfahrensanordnungen praktischer Natur erl
 
 **Öffentlichkeit der Unterlagen**
 
-<sup>(1)</sup> Alle bei der Kanzlei von den Parteien oder Drittbeteiligten im Zusammenhang mit einer Beschwerde eingereichten Unterlagen mit Ausnahme derjenigen, die im Rahmen von Verhandlungen über eine gütliche Einigung nach Artikel 62 vorgelegt werden, sind der Öffentlichkeit nach den vom Kanzler bestimmten Regelungen zugänglich, soweit nicht der Kammerpräsident aus den in Absatz 2 genannten Gründen anders entscheidet, sei es von Amts wegen, sei es auf Antrag einer Partei oder einer anderen betroffenen Person.
+<sup>(1)</sup> Alle bei der Kanzlei von den Parteien oder Drittbeteiligten im Zusammenhang mit einer Beschwerde eingereichten Unterlagen mit Ausnahme a) derjenigen, die im Rahmen von Verhandlungen über eine gütliche Einigung nach Artikel 62 vorgelegt werden, oder b) derjenigen, die im Rahmen eines Verfahrens nach Artikel 44*f* vorgelegt werden, sind der Öffentlichkeit nach den vom Kanzler bestimmten Regelungen zugänglich, soweit nicht der Kammerpräsident aus den in Absatz 2 genannten Gründen anders entscheidet, sei es von Amts wegen, sei es auf Antrag einer Partei oder einer anderen betroffenen Person.
 
 <sup>(2)</sup> Der Zugang der Öffentlichkeit zu Unterlagen oder Teilen davon kann eingeschränkt werden, wenn dies im Interesse der Moral, der öffentlichen Ordnung oder der nationalen Sicherheit in einer demokratischen Gesellschaft liegt, wenn die Interessen von Jugendlichen oder der Schutz des Privatlebens der Parteien oder anderer betroffener Personen es verlangen oder – soweit der Kammerpräsident es für unbedingt erforderlich hält – wenn unter besonderen Umständen die Öffentlichkeit von Unterlagen die Interessen der Rechtspflege beeinträchtigen würde.
 
@@ -673,6 +683,43 @@ Befolgt eine Partei eine Anordnung des Gerichtshofs in Bezug auf die Durchführu
 
 Beabsichtigt eine beschwerdeführende Vertragspartei oder ein Individualbeschwerdeführer nicht, die Beschwerde weiterzuverfolgen, so kann die Kammer im Einklang mit Artikel 37 Absatz 1 Buchstabe a der Konvention die Beschwerde nach Artikel 43 dieser Verfahrensordnung im Register streichen.
 
+#### Art. 44f
+
+**Umgang mit hochsensiblen Dokumenten**
+
+<sup>1.</sup>
+
+a) In diesem Artikel umfasst «Dokument» jede Information oder jeden Träger in physischer oder elektronischer Form und jegliches Element davon. «Partei» und «Parteien» bezeichnet:
+
+- i) jede Vertragspartei;
+- ii) den Beschwerdeführer (natürliche Person, nichtstaatliche Organisation oder Personengruppe), der den Gerichtshof nach Artikel 34 der Konvention anruft.
+
+- b) In diesem Artikel bezeichnet «Komitee» einen Ausschuss mit drei Richtern, der gemäss Absatz 4 für die Prüfung eines nach diesem Artikel gestellten Antrags zusammengesetzt ist.
+
+<sup>2.</sup> Ist eine Vertragspartei in irgendeinem Stadium des Verfahrens der Auffassung, dass die Weitergabe eines bestimmten Dokumentes an eine Partei oder an die Öffentlichkeit ihre nationalen Sicherheitsinteressen beeinträchtigen würde, oder ist der Beschwerdeführer der Auffassung, dass eine solche Weitergabe eines seiner ebenso zwingenden Interessen beeinträchtigen würde, muss die Weitergabe dieses Dokumentes untersagt werden, wenn es die betroffene Partei beantragt, und diese hat das Recht, die Frage nach Massgabe dieses Artikels entscheiden zu lassen. Es ist nicht erforderlich, das betreffende Dokument gleichzeitig mit dem Antrag einzureichen.
+
+<sup>3.</sup> Dies gilt auch, wenn eine Person, die gestützt auf Artikel A1 des Anhangs (betreffend Beweisaufnahme) zur Einreichung eines Dokumentes aufgefordert wurde, dies verweigert hat oder auf eine Partei verwiesen hat mit der Begründung, dass die Weitergabe deren Interessen beeinträchtigen würde.
+
+<sup>4.</sup> Der auf Absatz 2 gestützte Antrag einer Partei wird dem Komitee zugeteilt, das aus Richtern zusammengesetzt ist, die nicht Mitglieder der Kammer sind, welche über die Zulässigkeit oder Begründetheit der Rechtssache entscheidet; das Komitee kann alle Massnahmen bezeichnen, die es als notwendig erachtet, um der Kammer das notwendige Material für die Fortsetzung der Prüfung der Rechtssache nach Absatz 7 zu liefern und die Durchführung dieser Massnahmen zu erleichtern.
+
+<sup>5.</sup>
+
+Ist eine Partei der Auffassung, dass die Weitergabe eines Dokumentes ihre Interessen beeinträchtigen würde, ergreift sie in Verbindung mit der Kammer oder dem Komitee und gegebenenfalls mit jeder anderen Partei und unter Berücksichtigung der Verpflichtungen nach Artikel 38 der Konvention und Artikel 44*a* dieser Verfahrensordnung alle Massnahmen, die geeignet sind, um innerhalb einer angemessenen Frist eine einvernehmliche Lösung zu finden. Es kann sich dabei namentlich um folgende Massnahmen (einzeln oder in Kombination) handeln:
+
+- a) den Antrag nach Absatz 2 ändern oder präzisieren;
+- b) der Kammer oder dem Komitee die Frage der Relevanz der angeforderten Dokumente zum Entscheid unterbreiten;
+- c) eine Einigung über die Bedingungen erzielen, unter welchen Unterstützung angeboten werden kann, namentlich durch die Übermittlung von Zusammenfassungen oder bearbeiteten Fassungen, die Auferlegung von Weitergabebeschränkungen, die Durchführung eines Verfahrens unter Ausschluss der Öffentlichkeit oder eines Ex-Parte-Verfahrens oder die Anwendung von anderen Schutzmassnahmen; oder
+- d) eine Einigung über die praktischen und verfahrensrechtlichen Garantien finden, die für die Aufbewahrung und Einsichtnahme des Dokumentes in der Kanzlei gelten sollen.
+
+<sup>6.</sup> Sind alle zumutbaren Massnahmen getroffen worden, um die Frage einvernehmlich zu klären, und ist die betroffene Partei der Auffassung, dass es keine geeigneten Mittel und Bedingungen gibt, um das Dokument ohne Beeinträchtigung ihrer Interessen einzureichen oder weiterzugeben, teilt sie dies der Kammer oder dem Komitee unter Angabe der genauen Gründe, die sie zu dieser Auffassung veranlasst haben, mit, sofern nicht schon die genaue Angabe dieser Gründe an sich diese Interessen beeinträchtigen kann.
+
+<sup>7.</sup>
+
+Danach, und nur wenn die Kammer befindet, dass das fragliche Dokument für die Prüfung der Rechtssache wesentlich ist:
+
+- a) kann die Kammer in Abweichung vom Grundsatz des kontradiktorischen Verfahrens und soweit sie dies als im Interesse der Rechtspflege liegend beurteilt, das Dokument in einer von der betroffenen Partei gutgeheissenen Form berücksichtigen, sofern sie in dessen Besitz ist. Dabei muss die Kammer den Umstand beachten, dass die Gegenpartei keine Möglichkeit hatte, sich zu diesem Dokument zu äussern. Wenn die Kammer ihr Urteil fällt oder ihre Entscheidung trifft, hat sie die Sensibilität der so geprüften Dokumente gebührend zu berücksichtigen;
+- b) kann die Kammer ausserhalb dieser Umstände die ihr angebracht erscheinenden Schlüsse ziehen.
+
 ### Kapitel II Die Einleitung des Verfahrens
 
 #### Art. 45
@@ -718,6 +765,7 @@ Beschwerden nach Artikel 34 der Konvention sind unter Verwendung des von der Kan
 - f) eine gedrängte und verständliche Darstellung der behaupteten Verletzungen der Konvention mit Begründung; und
 - g) eine gedrängte und verständliche Darstellung, in der die Erfüllung der Zulässigkeitskriterien nach Artikel 35 Absatz 1 der Konvention durch den Beschwerdeführer bestätigt wird.
 - (2) a) Alle in Absatz 1 Buchstaben e–g bezeichneten Informationen sind im einschlägigen Abschnitt des Beschwerdeformulars derart ausreichend aufzuführen, dass der Gerichtshof die Art und den Gegenstand der Beschwerde bestimmen kann, ohne Einsicht in weitere Unterlagen zu nehmen.
+
 - b) Der Beschwerdeführer kann diese Informationen jedoch ergänzen, indem er dem Beschwerdeformular ein Schriftstück von höchstens zwanzig Seiten beifügt und zusätzliche Angaben zum Sachverhalt und zu den geltend gemachten Verletzungen der Konvention mit Begründung macht.
 
 (3.1) Das Beschwerdeformular ist vom Beschwerdeführer oder seinem Vertreter zu unterzeichnen; beizufügen sind:
@@ -725,7 +773,6 @@ Beschwerden nach Artikel 34 der Konvention sind unter Verwendung des von der Kan
 - a) Kopien der Unterlagen in Bezug auf die gerügten gerichtlichen oder sonstigen Entscheidungen oder Massnahmen;
 - b) Kopien der Unterlagen und Entscheidungen, die belegen, dass der Beschwerdeführer die innerstaatlichen Rechtsbehelfe ausgeschöpft und die in Artikel 35 Absatz 1 der Konvention vorgeschriebene Frist beachtet hat;
 - c) gegebenenfalls Kopien der Unterlagen in Bezug auf andere internationale Untersuchungs- oder Schlichtungsverfahren;
-
 - d) sofern es sich beim Beschwerdeführer wie nach Absatz 1 Buchstabe a vorgesehen um eine juristische Person handelt, ein oder mehrere Dokumente, die belegen, dass die Person, die die Beschwerde einreicht, zur Vertretung des Beschwerdeführers befugt ist oder eine entsprechende Vollmacht innehat.
 
 <sup>(4)</sup> Ein Beschwerdeführer, der nicht wünscht, dass seine Identität offen gelegt wird, hat dies mitzuteilen und die Gründe darzulegen, die eine Abweichung von der gewöhnlichen Regel rechtfertigen, nach der das Verfahren vor dem Gerichtshof öffentlich ist. Der Kammerpräsident kann dem Beschwerdeführer erlauben, anonym zu bleiben, oder von Amts wegen Anonymität gewähren.
@@ -1497,4 +1544,4 @@ Die Anwendung von Bestimmungen, welche die interne Arbeitsweise des Gerichtshofs
 
 Diese Verfahrensordnung tritt am 1. November 1998 in Kraft.
 
-[^117-1]: Die am 8. Dez. 2000 angenommenen Änd. sind sofort in Kraft getreten. Die am 17. Juni und 8. Juli 2002 angenommenen Änd. sind am 1. Okt. 2002 in Kraft getreten. Die am 7. Juli 2003 angenommenen Änd. sind am 1. Nov. 2003 in Kraft getreten. Die am 13. Dez. 2004 angenommenen Änd. sind am 1. März 2005 in Kraft getreten. Die am 4. Juli 2005 angenommenen Änd. sind am 3. Okt. 2005 in Kraft getreten. Die am 7. Nov. 2005 angenommenen Änd. sind am 1. Dez. 2005 in Kraft getreten. Die am 29. Mai 2006 angenommenen Änd. sind am 1. Juli 2006 in Kraft getreten. Die am 14. Mai 2007 angenommenen Änd. sind am 1. Juli 2007 in Kraft getreten. Die am 11. Dez. 2007, 22. Sept. und 1. Dez. 2008 angenommenen Änd. sind am 1. Jan. 2009 in Kraft getreten. Die am 29. Juni 2009 angenommenen Änd. sind am 1. Juli 2009 in Kraft getreten. Die am 16. Nov. 2009 angenommenen Änd. sind am 1. Dez. 2009 in Kraft getreten. Die am 13. Nov. 2006 und 14. Mai 2007 angenommenen Änd. betreffend das Protokoll Nr. 14 zur Konvention sind am 1. Juni 2010 in Kraft getreten. Die am 21. Feb. 2011 angenommenen Änd. sind am 1. April 2011 in Kraft getreten. Die am 16. Jan. 2012 angenommenen Änd. sind am 1. Feb. 2012 in Kraft getreten. Die am 20. Feb. 2012 angenommenen Änd. sind am 1. Mai 2012 in Kraft getreten. Die am 2. April 2012 angenommenen Änd. sind am 1. Sept. 2012 in Kraft getreten. Die am 14. Jan. und 6. Feb. 2013 angenommenen Änd. sind am 1. Mai 2013 in Kraft getreten. Die am 6. Mai 2013 angenommenen Änd. sind am 1. Juli 2013 und 1. Jan. 2014 in Kraft getreten. Die am 14. April und 23. Juni 2014 angenommenen Änd. sind am 1. Juli 2014 in Kraft getreten. Einige der am 1. Juni 2015 angenommenen Änd. sind sofort in Kraft getreten. Die am 1. Juni und 5. Okt. 2015 angenommenen Änd. an Art. 47 sind am 1. Jan. 2016 in Kraft getreten. Die am 19. Sept. 2016 angenommenen Änd. an Art. 8 sind am selben Datum in Kraft getreten. Die am 14. Nov. 2016 angenommenen Änd. sind am selben Datum in Kraft getreten. Die am 16. April 2018 angenommenen Änd. an Art. 29 sind am selben Datum in Kraft getreten. Die am 19. Sept. 2016 angenommenen Änd. sind am 1. Aug. 2018 in Kraft getreten. Die am 3. Juni 2019 angenommene Änd. an Art. 29 Abs. 1 ist am selben Datum in Kraft getreten. Die am 9. Sept. 2019 angenommenen Änd. an Art. 27*a* und 52*a* sind am selben Datum in Kraft getreten. Die am 4. Nov. 2019 angenommenen Änd. sind am 1. Jan. 2020 in Kraft getreten. Die am 2. Juni 2021 angenommenen Änd. an Art. 8 sind am selben Datum in Kraft getreten. Die am 11. Oktober 2021 angenommenen Änd. an Art. 24, 93, 94 und 101 sind am 18. Oktober 2021 in Kraft getreten. Die am 7. Feb. 2022 angenommenen Änd. an Art. 36 und 44*d* sind am selben Datum in Kraft getreten. Die am 30. Mai 2022 angenommene Änd. an Art. 8 Abs. 5 ist am selben Datum in Kraft getreten. Die am 3. Juni 2022 angenommene Änd. an Art. 44 Abs. 4 ist am selben Datum in Kraft getreten. Die am 3. März 2023 angenommene Änd. an Art. 44 Abs. 2 und 3 Bst. b ist am selben Datum in Kraft getreten.
+[^117-1]: Die am 8. Dez. 2000 angenommenen Änd. sind sofort in Kraft getreten. Die am 17. Juni und 8. Juli 2002 angenommenen Änd. sind am 1. Okt. 2002 in Kraft getreten. Die am 7. Juli 2003 angenommenen Änd. sind am 1. Nov. 2003 in Kraft getreten. Die am 13. Dez. 2004 angenommenen Änd. sind am 1. März 2005 in Kraft getreten. Die am 4. Juli 2005 angenommenen Änd. sind am 3. Okt. 2005 in Kraft getreten. Die am 7. Nov. 2005 angenommenen Änd. sind am 1. Dez. 2005 in Kraft getreten. Die am 29. Mai 2006 angenommenen Änd. sind am 1. Juli 2006 in Kraft getreten. Die am 14. Mai 2007 angenommenen Änd. sind am 1. Juli 2007 in Kraft getreten. Die am 11. Dez. 2007, 22. Sept. und 1. Dez. 2008 angenommenen Änd. sind am 1. Jan. 2009 in Kraft getreten. Die am 29. Juni 2009 angenommenen Änd. sind am 1. Juli 2009 in Kraft getreten. Die am 16. Nov. 2009 angenommenen Änd. sind am 1. Dez. 2009 in Kraft getreten. Die am 13. Nov. 2006 und 14. Mai 2007 angenommenen Änd. betreffend das Protokoll Nr. 14 zur Konvention sind am 1. Juni 2010 in Kraft getreten. Die am 21. Feb. 2011 angenommenen Änd. sind am 1. April 2011 in Kraft getreten. Die am 16. Jan. 2012 angenommenen Änd. sind am 1. Feb. 2012 in Kraft getreten. Die am 20. Feb. 2012 angenommenen Änd. sind am 1. Mai 2012 in Kraft getreten. Die am 2. April 2012 angenommenen Änd. sind am 1. Sept. 2012 in Kraft getreten. Die am 14. Jan. und 6. Feb. 2013 angenommenen Änd. sind am 1. Mai 2013 in Kraft getreten. Die am 6. Mai 2013 angenommenen Änd. sind am 1. Juli 2013 und 1. Jan. 2014 in Kraft getreten. Die am 14. April und 23. Juni 2014 angenommenen Änd. sind am 1. Juli 2014 in Kraft getreten. Einige der am 1. Juni 2015 angenommenen Änd. sind sofort in Kraft getreten. Die am 1. Juni und 5. Okt. 2015 angenommenen Änd. an Art. 47 sind am 1. Jan. 2016 in Kraft getreten. Die am 19. Sept. 2016 angenommenen Änd. an Art. 8 sind am selben Datum in Kraft getreten. Die am 14. Nov. 2016 angenommenen Änd. sind am selben Datum in Kraft getreten. Die am 16. April 2018 angenommenen Änd. an Art. 29 sind am selben Datum in Kraft getreten. Die am 19. Sept. 2016 angenommenen Änd. sind am 1. Aug. 2018 in Kraft getreten. Die am 3. Juni 2019 angenommene Änd. an Art. 29 Abs. 1 ist am selben Datum in Kraft getreten. Die am 9. Sept. 2019 angenommenen Änd. an Art. 27*a* und 52*a* sind am selben Datum in Kraft getreten. Die am 4. Nov. 2019 angenommenen Änd. sind am 1. Jan. 2020 in Kraft getreten. Die am 2. Juni 2021 angenommenen Änd. an Art. 8 sind am selben Datum in Kraft getreten. Die am 11. Oktober 2021 angenommenen Änd. an Art. 24, 93, 94 und 101 sind am 18. Oktober 2021 in Kraft getreten. Die am 7. Feb. 2022 angenommenen Änd. an Art. 36 und 44*d* sind am selben Datum in Kraft getreten. Die am 30. Mai 2022 angenommene Änd. an Art. 8 Abs. 5 ist am selben Datum in Kraft getreten. Die am 3. Juni 2022 angenommene Änd. an Art. 44 Abs. 4 ist am selben Datum in Kraft getreten. Die am 3. März 2023 angenommene Änd. an Art. 44 Abs. 2 und 3 Bst. b ist am selben Datum in Kraft getreten. Die am 23. Juni 2023 angenommenen Änd. von Art. 7 und 7*a* sind am selben Datum in Kraft getreten. Die am 25. Sept. 2023 angenommenen Änd. von Art. 33 Abs. 1 und 44*f* sind am 30. Okt. 2023 in Kraft getreten.

@@ -3,11 +3,11 @@ sr: "0.101.2"
 title: "Regolamento della Corte europea dei diritti dell'uomo del 4 novembre 1998"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/596"
 language: it
-version: 2023-03-03
+version: 2023-10-30
 adopted: 1998-11-04
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/596/20230303/it/xml/fedlex-data-admin-ch-eli-cc-2006-596-20230303-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/596/20230303/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/596/20231030/it/xml/fedlex-data-admin-ch-eli-cc-2006-596-20231030-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/596/20231030/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,9 +18,9 @@ RU **2006** 3961[^t-1]
 
 Traduzione
 
-del 4 novembre 1998 (Stato 3 marzo 2023)
+del 4 novembre 1998 (Stato 30 ottobre 2023)
 
-[^t-1]: Questa nuova versione comprende gli emendamenti elencati nella nota all’art. 117 ([RU 2019 35](https://fedlex.data.admin.ch/eli/oc/2019/8), [2489](https://fedlex.data.admin.ch/eli/oc/2019/465), [4281](https://fedlex.data.admin.ch/eli/oc/2019/738); [2020 429](https://fedlex.data.admin.ch/eli/oc/2020/72); [2022 223](https://fedlex.data.admin.ch/eli/oc/2022/223); [2022 275](https://fedlex.data.admin.ch/eli/oc/2022/275); [2023 189](https://fedlex.data.admin.ch/eli/oc/2023/189)). Gli all. non sono pubblicati nella RU. I testi in francese possono essere consultati nel sito Internet della Corte: www.echr.coe.int.
+[^t-1]: Questa nuova versione comprende gli emendamenti elencati nella nota all’art. 117 ([RU 2019 35](https://fedlex.data.admin.ch/eli/oc/2019/8), [2489](https://fedlex.data.admin.ch/eli/oc/2019/465), [4281](https://fedlex.data.admin.ch/eli/oc/2019/738); [2020 429](https://fedlex.data.admin.ch/eli/oc/2020/72); [2022 223](https://fedlex.data.admin.ch/eli/oc/2022/223); [2022 275](https://fedlex.data.admin.ch/eli/oc/2022/275); [2023 189](https://fedlex.data.admin.ch/eli/oc/2023/189), [716](https://fedlex.data.admin.ch/eli/oc/2023/716)). Gli all. non sono pubblicati nella RU. I testi in francese possono essere consultati nel sito Internet della Corte: www.echr.coe.int
 
 La Corte europea dei diritti dell’uomo,
 
@@ -120,7 +120,17 @@ La dimissione di un giudice è indirizzata al presidente della Corte, che la tra
 
 **Revoca**
 
-Un giudice può essere sollevato dalle sue funzioni solo se gli altri giudici, riuniti in seduta plenaria, decidono, a maggioranza dei due terzi dei giudici eletti in carica, che egli non soddisfa più i requisiti richiesti. Deve previamente essere sentito dalla Corte plenaria. Ogni giudice può dare inizio al procedimento di revoca.
+Un giudice può essere sollevato dalle sue funzioni solo se gli altri giudici eletti in carica, riuniti in seduta plenaria, decidono, a maggioranza dei due terzi, che egli non soddisfa più i requisiti richiesti. Deve previamente essere sentito dalla Corte plenaria. Ogni giudice può dare inizio al procedimento di revoca. Il giudice contro il quale è avviato un tale procedimento deve avere accesso ai documenti relativi all’apertura del procedimento di revoca e deve essere sentito dalla Corte plenaria. Egli non ha accesso ai documenti relativi alla prosecuzione del procedimento dinanzi alla Corte plenaria e nel quadro del procedimento di revoca non assiste alle deliberazioni né partecipa al voto.
+
+#### Art. 7a
+
+**Revoca dell’immunità**
+
+<sup>1.</sup> Conformemente all’articolo 4 del Sesto Protocollo addizionale all’Accordo generale concernente i privilegi e le immunità del Consiglio d’Europa[^7a-1], la Corte plenaria è la sola legittimata a pronunciare la revoca dell’immunità di un giudice. Tale decisione deve essere presa a maggioranza assoluta dei giudici eletti in carica, ad eccezione del giudice oggetto della richiesta di revoca dell’immunità. Il giudice contro il quale è avviato un tale procedimento deve avere accesso ai documenti relativi all’apertura del procedimento di revoca dell’immunità e deve essere sentito dalla Corte plenaria. Egli non ha accesso ai documenti relativi alla prosecuzione del procedimento dinanzi alla Corte plenaria e nel quadro del procedimento di revoca dell’immunità non assiste alle deliberazioni e non partecipa al voto finale.
+
+<sup>2.</sup> Le disposizioni del presente articolo si applicano, *mutatis mutandis*, al procedimento concernente l’esame di una questione legata all’immunità di cui godono i coniugi e i figli minori dei giudici ai sensi dell’articolo 2 del Sesto Protocollo addizionale all’Accordo generale concernente i privilegi e le immunità del Consiglio d’Europa e all’immunità di cui beneficiano i giudici dopo la conclusione del loro mandato conformemente all’articolo 3 del Sesto Protocollo addizionale all’Accordo generale concernente i privilegi e le immunità del Consiglio d’Europa.
+
+[^7a-1]: [RS 0.192.110.36](https://fedlex.data.admin.ch/eli/cc/2000/248)
 
 ### Capitolo II Presidenza della Corte e ruolo dell’ufficio
 
@@ -486,7 +496,7 @@ Il presidente della Corte può emanare istruzioni pratiche, segnatamente in ordi
 
 **Pubblicità dei documenti**
 
-<sup>1.</sup> Tutti i documenti depositati in cancelleria dalle parti o da terzi intervenienti e relativi a un ricorso, ad eccezione di quelli presentati nell’ambito di trattative volte a raggiungere una composizione amichevole come previsto nell’articolo 62 del presente regolamento, sono accessibili al pubblico, secondo le modalità pratiche stabilite dal cancelliere, sempre che il presidente della Camera non decida diversamente per le ragioni indicate nel paragrafo 2 del presente articolo, sia d’ufficio sia su istanza di una parte o d’ogni altra persona interessata.
+<sup>1.</sup> Tutti i documenti depositati in cancelleria dalle parti o da terzi intervenienti e relativi a un ricorso, ad eccezione a) di quelli presentati nell’ambito di trattative volte a raggiungere una composizione amichevole come previsto nell’articolo 62 del presente regolamento, o b) di quelli presentati nell’ambito di un procedimento condotto in base all’articolo 44*f* del presente regolamento sono accessibili al pubblico, secondo le modalità pratiche stabilite dal cancelliere, sempre che il presidente della Camera non decida diversamente per le ragioni indicate nel paragrafo 2 del presente articolo, sia d’ufficio sia su istanza di una parte o d’ogni altra persona interessata.
 
 <sup>2.</sup> L’accesso del pubblico a un documento o a parte di esso può essere vietato nell’interesse della morale, dell’ordine pubblico o della sicurezza nazionale in una società democratica quando lo esigono gli interessi dei minori o la protezione della sfera privata delle parti o di altre persone interessate oppure, nella misura ritenuta strettamente necessaria dal presidente della Camera, quando, in circostanze speciali, la pubblicità potrebbe pregiudicare gli interessi della giustizia.
 
@@ -665,6 +675,43 @@ Quando una parte non ottempera a un’ordinanza della Corte riguardante la condu
 **Non mantenimento di un ricorso**
 
 Come previsto nell’articolo 37 paragrafo 1 lettera a della Convenzione, se una Parte contraente ricorrente o un individuo ricorrente non intende più mantenere il suo ricorso, la Camera può stralciarlo dal ruolo della Corte, conformemente all’articolo 43 del presente regolamento.
+
+#### Art. 44f
+
+**Trattamento di dati altamente sensibili**
+
+<sup>1.</sup>
+
+a) Nel quadro del presente articolo, il termine «documento» comprende ogni informazione o materiale, in forma fisica o elettronica, nonché ogni elemento di un tale documento. I termini «parte» e «parti» indicano:
+
+- i) ogni Parte contraente,
+- ii) il ricorrente (persona fisica, organizzazione non governativa o gruppo di privati) che ha introdotto un ricorso giusta l’articolo 34 della Convenzione;
+
+- b) nel quadro del presente articolo, il termine «Comitato» indica un collegio di tre giudici costituito al fine di esaminare conformemente al paragrafo 4 del presente articolo una richiesta presentata in virtù del presente articolo.
+
+<sup>2.</sup> Qualora, in qualsiasi fase del procedimento, una Parte contraente ritenga che la divulgazione di un determinato documento a una parte o al pubblico pregiudicherebbe i suoi interessi di sicurezza nazionale o qualora il ricorrente ritenga che tale divulgazione pregiudicherebbe qualsiasi altro suo interesse ugualmente imperativo, su richiesta della parte interessata, tale documento non deve essere divulgato e la parte interessata ha il diritto di intervenire perché la questione venga risolta conformemente al presente articolo. Non è necessario presentare il documento in questione contestualmente alla richiesta.
+
+<sup>3.</sup> Questa regola si applica anche quando una persona invitata a produrre un documento sulla base dell’articolo A1 dell’allegato al presente regolamento (relativo ai provvedimenti istruttori), si è rifiutata di farlo o ha rinviato la questione a una parte con la motivazione che la divulgazione avrebbe pregiudicato gli interessi di quest’ultima.
+
+<sup>4.</sup> Una richiesta presentata da una parte sulla base del paragrafo 2 del presente articolo è attribuita al Comitato composto di giudici non membri della Camera incaricata di decidere sulla ricevibilità o sul merito di un caso; il Comitato può indicare tutti i provvedimenti che ritiene necessari per fornire alla Camera gli elementi appropriati che le permettono di continuare l’esame del caso in virtù del paragrafo 7 del presente articolo e facilitare l’attuazione di tali provvedimenti.
+
+<sup>5.</sup>
+
+Quando una parte ritiene che la divulgazione di un documento pregiudicherebbe i suoi interessi, adotta, agendo di concerto con la Camera o il Comitato e, se del caso, con qualsiasi altra parte e nel rispetto degli obblighi derivanti dall’articolo 38 e dall’articolo 44*a* del presente regolamento, tutti i provvedimenti adeguati per cercare di risolvere la questione in maniera cooperativa entro un congruo termine. Tali provvedimenti (adottati singolarmente o in combinazione) possono comprendere:
+
+- a) la modifica o il chiarimento della richiesta di cui al paragrafo 2 del presente articolo;
+- b) una decisione della Corte o del Comitato in merito alla pertinenza dei documenti richiesti;
+- c) un accordo sulle condizioni alle quali potrebbe essere fornita assistenza, compresi segnatamente, presentazione di sintesi o redazioni rettificate, limiti alla divulgazione, uso di procedimenti a porte chiuse o ex parte, o applicazione di altre misure di protezione; o
+- d) un accordo sulle garanzie pratiche e procedurali per la conservazione e la consultazione del documento in cancelleria.
+
+<sup>6.</sup> Se sono stati adottati tutti i ragionevoli provvedimenti per cercare di risolvere la questione in maniera cooperativa e la parte interessata ritiene che non vi siano né mezzi né condizioni per produrre o divulgare il documento senza pregiudicare i suoi interessi, essa ne informa la Camera o il Comitato indicando i motivi che l’hanno portata a questa posizione, a meno che un esposto preciso di tali motivi possa di per sé già pregiudicare tali interessi.
+
+<sup>7.</sup>
+
+In seguito, e solo se la Camera considera che il documento in questione è rilevante per l’esame del caso:
+
+- a) la Camera può, in deroga al principio del contraddittorio e nella misura in cui le appaia strettamente necessario a una buona amministrazione della giustizia, prendere in considerazione il documento in una forma approvata dalla parte interessata, se tale documento si trova in suo possesso. In questo quadro, la Camera deve tenere in considerazione che l’altra parte non ha avuto la possibilità di esprimersi su tale documento. Quando la Camera adotta la propria sentenza o decisione, deve tenere debitamente conto del carattere sensibile di ogni documento così esaminato;
+- b) in qualsiasi altra circostanza, la Camera può trarre le conclusioni che ritiene appropriate.
 
 ### Capitolo II Dell’introduzione dell’istanza
 
@@ -1479,4 +1526,4 @@ L’applicazione delle disposizioni relative al funzionamento interno della Cort
 
 Il presente regolamento entra in vigore il 1° novembre 1998.
 
-[^117-1]: Gli emendamenti adottati l’8 dic. 2000 sono entrati in vigore immediatamente. Gli emendamenti adottati il 17 giu. e l’8 lug. 2002 sono entrati in vigore il 1° ott. 2002. Gli emendamenti adottati il 7 lug. 2003 sono entrati in vigore il 1° nov. 2003. Gli emendamenti adottati il 13 dic. 2004 sono entrati in vigore il 1° mar. 2005. Gli emendamenti adottati il 4 lug. 2005 sono entrati in vigore il 3 ott. 2005. Gli emendamenti adottati il 7 nov. 2005 sono entrati in vigore il 1° dic. 2005. Gli emendamenti adottati il 29 mag. 2006 sono entrati in vigore il 1° lug. 2006. Gli emendamenti adottati il 14 mag. 2007 sono entrati in vigore il 1° lug. 2007. Gli emendamenti adottati l’11 dic. 2007, il 22 set. e il 1° dic. 2008 sono entrati in vigore il 1° gen. 2009. Gli emendamenti adottati il 29 giu. 2009 sono entrati in vigore il 1° lug. 2009. Gli emendamenti adottati il 16 nov. 2009 sono entrati in vigore il 1° dic. 2009. Gli emendamenti relativi al Prot. n. 14 della Conv., adottati il 13 nov. 2006 e il 14 mag. 2007, sono entrati in vigore il 1° giu. 2010. Gli emendamenti adottati il 21 feb. 2011 sono entrati in vigore il 1° apr. 2011. Gli emendamenti adottati il 16 gen. 2012 sono entrati in vigore il 1° feb. 2012. Gli emendamenti adottati il 20 feb. 2012 sono entrati in vigore il 1° mag. 2012. Gli emendamenti adottati il 2 apr. 2012 sono entrati in vigore il 1° set. 2012. Gli emendamenti adottati il 14 gen. e il 6 feb. 2013 sono entrati in vigore il 1° mag. 2013. Gli emendamenti adottati il 6 mag. 2013 sono entrati in vigore il 1° lug. 2013 e il 1° gen. 2014. Gli emendamenti adottati il 14 apr. e il 23 giu. 2014 sono entrati in vigore il 1° lug. 2014. Alcuni emendamenti adottati il 1° giu. 2015 sono entrati in vigore immediatamente. Gli emendamenti all’art. 47 adottati il 1° giu. e il 5 ott. 2015 sono entrati in vigore il 1° gen. 2016. Gli emendamenti all’art. 8 adottati il 19 set. 2016 sono entrati in vigore alla stessa data. Gli emendamenti adottati il 14 nov. 2016 sono entrati in vigore alla stessa data. Gli emendamenti all’art. 29 adottati il 16 apr. 2018 sono entrati in vigore alla stessa data. Gli emendamenti adottati il 19 set. 2016 sono entrati in vigore il 1° ago. 2018. L’emendamento all’art. 29 par. 1 adottato il 3 giu. 2019 è entrato in vigore alla stessa data. Gli emendamenti agli art. 27*a* e 52*a* adottati il 9 set. 2019 sono entrati in vigore alla stessa data. Gli emendamenti adottati il 4 nov. 2019 sono entrati in vigore il 1° gen. 2020. Gli emendamenti all’art. 8 adottati il 2 giu. 2021 sono entrati in vigore alla stessa data. Gli emendamenti agli art. 24, 93, 94 e 101 adottati l’11 ott. 2021 sono entrati in vigore il 18 ott. 2021. Gli emendamenti agli art. 36 e 44*d* adottati il 7 feb. 2022 sono entrati in vigore alla stessa data. L’emendamento all’art. 8 par. 5 adottato il 30 mag. 2022 è entrato in vigore alla stessa data. L’emendamento all’art. 44 par. 4 adottato il 3 giu. 2022 è entrato in vigore alla stessa data. L’emendamento all’art. 44 par. 2 e 3 b) adottato il 3 mar. 2023 è entrato in vigore alla stessa data.
+[^117-1]: Gli emendamenti adottati l’8 dic. 2000 sono entrati in vigore immediatamente. Gli emendamenti adottati il 17 giu. e l’8 lug. 2002 sono entrati in vigore il 1° ott. 2002. Gli emendamenti adottati il 7 lug. 2003 sono entrati in vigore il 1° nov. 2003. Gli emendamenti adottati il 13 dic. 2004 sono entrati in vigore il 1° mar. 2005. Gli emendamenti adottati il 4 lug. 2005 sono entrati in vigore il 3 ott. 2005. Gli emendamenti adottati il 7 nov. 2005 sono entrati in vigore il 1° dic. 2005. Gli emendamenti adottati il 29 mag. 2006 sono entrati in vigore il 1° lug. 2006. Gli emendamenti adottati il 14 mag. 2007 sono entrati in vigore il 1° lug. 2007. Gli emendamenti adottati l’11 dic. 2007, il 22 set. e il 1° dic. 2008 sono entrati in vigore il 1° gen. 2009. Gli emendamenti adottati il 29 giu. 2009 sono entrati in vigore il 1° lug. 2009. Gli emendamenti adottati il 16 nov. 2009 sono entrati in vigore il 1° dic. 2009. Gli emendamenti relativi al Prot. n. 14 della Conv., adottati il 13 nov. 2006 e il 14 mag. 2007, sono entrati in vigore il 1° giu. 2010. Gli emendamenti adottati il 21 feb. 2011 sono entrati in vigore il 1° apr. 2011. Gli emendamenti adottati il 16 gen. 2012 sono entrati in vigore il 1° feb. 2012. Gli emendamenti adottati il 20 feb. 2012 sono entrati in vigore il 1° mag. 2012. Gli emendamenti adottati il 2 apr. 2012 sono entrati in vigore il 1° set. 2012. Gli emendamenti adottati il 14 gen. e il 6 feb. 2013 sono entrati in vigore il 1° mag. 2013. Gli emendamenti adottati il 6 mag. 2013 sono entrati in vigore il 1° lug. 2013 e il 1° gen. 2014. Gli emendamenti adottati il 14 apr. e il 23 giu. 2014 sono entrati in vigore il 1° lug. 2014. Alcuni emendamenti adottati il 1° giu. 2015 sono entrati in vigore immediatamente. Gli emendamenti all’art. 47 adottati il 1° giu. e il 5 ott. 2015 sono entrati in vigore il 1° gen. 2016. Gli emendamenti all’art. 8 adottati il 19 set. 2016 sono entrati in vigore alla stessa data. Gli emendamenti adottati il 14 nov. 2016 sono entrati in vigore alla stessa data. Gli emendamenti all’art. 29 adottati il 16 apr. 2018 sono entrati in vigore alla stessa data. Gli emendamenti adottati il 19 set. 2016 sono entrati in vigore il 1° ago. 2018. L’emendamento all’art. 29 par. 1 adottato il 3 giu. 2019 è entrato in vigore alla stessa data. Gli emendamenti agli art. 27*a* e 52*a* adottati il 9 set. 2019 sono entrati in vigore alla stessa data. Gli emendamenti adottati il 4 nov. 2019 sono entrati in vigore il 1° gen. 2020. Gli emendamenti all’art. 8 adottati il 2 giu. 2021 sono entrati in vigore alla stessa data. Gli emendamenti agli art. 24, 93, 94 e 101 adottati l’11 ott. 2021 sono entrati in vigore il 18 ott. 2021. Gli emendamenti agli art. 36 e 44*d* adottati il 7 feb. 2022 sono entrati in vigore alla stessa data. L’emendamento all’art. 8 par. 5 adottato il 30 mag. 2022 è entrato in vigore alla stessa data. L’emendamento all’art. 44 par. 4 adottato il 3 giu. 2022 è entrato in vigore alla stessa data. L’emendamento all’art. 44 par. 2 e 3 b) adottato il 3 mar. 2023 è entrato in vigore alla stessa data. Gli emendamenti agli art. 7 e 7*a* adottati il 23 giu. 2023 sono entrati in vigore alla stessa data. Gli emendamenti agli art. 33 par. 1 e 44*f* adottati il 25 set. 2023 sono entrati in vigore il 30 ott. 2023.
