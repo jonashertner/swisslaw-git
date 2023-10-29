@@ -5,11 +5,12 @@ title: Gesetz über den Brandschutz und die Feuerwehr
 short: "Brandschutz- und Feuerwehrgesetz, BFG"
 language: de
 version: 2019-01-01
+corrected: 2023-10-30
 version_adopted: 2017-12-13
 adopted: 2017-12-13
 in_force: 2018-07-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/613.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1319/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/789/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -271,9 +272,9 @@ beschliesst:
 
 <sup>1</sup> Grössere Betriebe sind berechtigt oder können von der NSV verpflichtet werden, auf ihre Kosten Betriebsfeuerwehren aufzustellen, zu unterhalten und mit den erforderlichen Rettungs- und Löschgeräten auszurüsten.
 
-<sup>2</sup> Die NSV anerkennt die Betriebsfeuerwehr, indem sie deren Reglement genehmigt.
+Die NSV anerkennt die Betriebsfeuerwehr, indem sie deren Reglement genehmigt.
 
-<sup>3</sup> Anerkannte Betriebsfeuerwehren sind Teil der Gemeindefeuerwehr.
+<sup>2</sup> Anerkannte Betriebsfeuerwehren sind Teil der Gemeindefeuerwehr.
 
 #### Art. 25
 
@@ -351,11 +352,14 @@ beschliesst:
 
 - 1\. Personen, die aufgrund einer körperlichen oder geistigen Beeinträchtigung dienstuntauglich sind;
 - 2\. je Haushalt eine Person, welche in diesem allein oder hauptverantwortlich entweder mindestens ein Kind bis zum Ende des nach der Vollendung des 16. Altersjahres laufenden Kalenderjahres oder pflegebedürftige Angehörige betreut, soweit die Betreuung nicht in Ausübung einer beruflichen Pflicht erfolgt;
+
+<sup>2</sup>
+
 - 3\. die Ehegattin oder der Ehegatte beziehungsweise die Partnerin oder der Partner aus eingetragener Partnerschaft, welche beziehungsweise welcher mit einer Dienst leistenden Person oder einer Person, welche die Dienstpflicht erfüllt hat, in rechtlich und tatsächlich ungetrennter Ehe beziehungsweise eingetragener Partnerschaft lebt.
 
-<sup>2</sup> Die Befreiung von Personen gemäss Abs. 1 Ziff. 2 erfolgt auf Antrag.
+<sup>3</sup> Die Befreiung von Personen gemäss Abs. 1 Ziff. 2 erfolgt auf Antrag.
 
-<sup>3</sup> Die Wohnsitzgemeinde entscheidet über die Befreiung von der Feuerwehrpflicht.
+Die Wohnsitzgemeinde entscheidet über die Befreiung von der Feuerwehrpflicht.
 
 #### Art. 32
 
