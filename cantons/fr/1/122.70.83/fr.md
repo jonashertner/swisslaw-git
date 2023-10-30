@@ -3,13 +3,13 @@ canton: FR
 number: "122.70.83"
 title: Ordonnance concernant les conditions de retraite des agents et agentes de la force publique
 language: fr
-version: 2022-01-01
-valid_until: 2023-10-30
-version_adopted: 2021-12-07
+version: 2023-10-31
+valid_until: 2023-12-31
+version_adopted: 2023-10-31
 adopted: 2021-12-07
 in_force: 2022-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.70.83"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7006/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7846/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7006/pdf_file"
 
 Retraite agents et agentes de la force publique – O
 
-du 07.12.2021 (version entrée en vigueur le 01.01.2022)
+du 07.12.2021 (version entrée en vigueur le 31.10.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -41,7 +41,8 @@ Arrête:
 <sup>1</sup> Ont le statut d'agents et agentes de la force publique au sens de la présente ordonnance:
 
 - a) les agents et agentes de police au sens de l'article 8 al. 1 let. a de la loi du 15 novembre 1990 sur la Police cantonale;
-- b) les convoyeurs et les convoyeuses au sens de l'article 3 de l'arrêté du 23 décembre 1991 sur les agents auxiliaires de la Police cantonale et leurs chef-fe-s;
+- b) les assistants et assistantes de sécurité publique qui sont armés au sens de l'article 4 de l'ordonnance du 31 octobre 2023 sur les agents et agentes auxiliaires de la Police cantonale et leurs chef-fe-s, à l'exclusion des autres assistants et assistantes de sécurité publique autorisés à être armés par le commandant ou la commandante selon l'article 4 al. 2 de l'ordonnance précitée;
+- b1) les agents et agentes de police judiciaire spécialisés qui sont armés au sens de l'article 7 de l'ordonnance du 31 octobre 2023 sur les agents et agentes auxiliaires de la Police cantonale, à l'exclusion des autres agents et agentes de police judiciaire spécialisés autorisés à être armés par le commandant ou la commandante selon l'article 7 al. 2 de l'ordonnance précitée;
 - c) les collaborateurs et collaboratrices de l'Etablissement de détention fribourgeois chargés de la surveillance et de l'encadrement au sens de l'article 32 al. 2 de la loi du 7 octobre 2016 sur l'exécution des peines et des mesures;
 - d) les garde-faune, au sens de l'article 10 al. 2 de l'ordonnance du 16 décembre 2003 sur la surveillance de la faune et de la flore, de la chasse et de la pêche (OSurv).
 

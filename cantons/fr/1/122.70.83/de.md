@@ -3,13 +3,13 @@ canton: FR
 number: "122.70.83"
 title: Verordnung über die Pensionierung der Beamtinnen und Beamten mit Polizeibefugnissen
 language: de
-version: 2022-01-01
-valid_until: 2023-10-30
-version_adopted: 2021-12-07
+version: 2023-10-31
+valid_until: 2023-12-31
+version_adopted: 2023-10-31
 adopted: 2021-12-07
 in_force: 2022-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.70.83"
-pdf: "https://bdlf.fr.ch/api/de/versions/7006/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7846/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7006/pdf_file"
 
 Pensionierung der Beamtinnen und Beamten mit Polizeibefugnissen – V
 
-vom 07.12.2021 (Fassung in Kraft getreten am 01.01.2022)
+vom 07.12.2021 (Fassung in Kraft getreten am 31.10.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -41,7 +41,8 @@ beschliesst:
 <sup>1</sup> Den Status von Beamtinnen und Beamten mit Polizeibefugnissen im Sinne dieser Verordnung haben:
 
 - a) die Polizeibeamtinnen und -beamten im Sinne von Artikel 8 Abs. 1 Bst. a des Gesetzes vom 15. November 1990 über die Kantonspolizei;
-- b) die Gefangenenbegleiterinnen und Gefangenenbegleiter im Sinne von Artikel 3 des Beschlusses vom 23. Dezember 1991 über die Hilfspolizisten der Kantonspolizei sowie ihre Chefinnen und Chefs;
+- b) die polizeilichen Sicherheitsassistentinnen und Sicherheitsassistenten, die im Sinne von Artikel 4 der Verordnung vom 31. Oktober 2023 über die Hilfspolizistinnen und Hilfspolizisten der Kantonspolizei bewaffnet sind, sowie ihre Chefinnen und Chefs, mit Ausnahme der anderen polizeilichen Sicherheitsassistentinnen und Sicherheitsassistenten, deren Bewaffnung die Kommandantin oder der Kommandant gemäss Artikel 4 Abs. 2 der genannten Verordnung bewilligen kann;
+- b1) die spezialisierten Beamtinnen und Beamten der Gerichtspolizei, die im Sinne von Artikel 7 der Verordnung vom 31. Oktober 2023 über die Hilfspolizistinnen und Hilfspolizisten der Kantonspolizei bewaffnet sind, mit Ausnahme der anderen spezialisierten Beamtinnen und Beamten der Gerichtspolizei, deren Bewaffnung die Kommandantin oder der Kommandant gemäss Artikel 7 Abs. 2 der genannten Verordnung bewilligen kann;
 - c) die Mitarbeiterinnen und Mitarbeiter der Freiburger Strafanstalt, die im Sinne von Artikel 32 Abs. 2 des Gesetzes vom 7. Oktober 2016 über den Straf- und Massnahmenvollzug mit der Aufsicht und Betreuung der Gefangenen beauftragt sind;
 - d) die Wildhüterinnen-Fischereiaufseherinnen/Wildhüter-Fischereiaufseher im Sinne von Artikel 10 Abs. 2 der Verordnung vom 16. Dezember 2003 über die Aufsicht über die Tier- und Pflanzenwelt und über die Jagd und die Fischerei (AufsV).
 
