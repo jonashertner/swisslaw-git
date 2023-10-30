@@ -1,81 +1,97 @@
 ---
 canton: FR
 number: "551.23"
-title: Arrêté sur les agents auxiliaires de la Police cantonale
+title: Ordonnance sur les agents et agentes auxiliaires de la Police cantonale
 language: fr
-version: 2007-01-01
-valid_until: 2023-10-30
-version_adopted: 2006-12-12
+version: 2023-10-31
+version_adopted: 2023-10-31
 adopted: 2023-10-31
 in_force: 2023-10-31
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/551.23"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5267/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7847/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
-# Arrêté sur les agents auxiliaires de la Police cantonale
+# Ordonnance sur les agents et agentes auxiliaires de la Police cantonale
 
-du 23.12.1991 (version entrée en vigueur le 01.01.2007)
+Agents auxiliaires de la Police cantonale – O
+
+du 31.10.2023 (version entrée en vigueur le 31.10.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
-Vu l'article 15 let. e de la loi du 15 novembre 1990 sur la Police cantonale;
+Vu l'article 15 al.1 let. e de la loi du 15 novembre 1990 sur la Police cantonale (LPol);
 
-Sur la proposition de la Direction de la justice, de la police et des affaires militaires,
+Sur la proposition de la Direction de la sécurité, de la justice et du sport,
 
 Arrête:
 
 #### Art. 1
 
-**Agents auxiliaires**
+**Agents et agentes auxiliaires**
 
-<sup>1</sup> Sont des agents auxiliaires de la Police cantonale:
+<sup>1</sup> Sont des agents et agentes auxiliaires de la Police cantonale:
 
-- a) les hôtesses de police;
-- b) les chauffeurs convoyeurs;
-- c) …
+- a) les assistants et assistantes de sécurité publique;
+- b) les agents et agentes de police judiciaire spécialisés.
 
 #### Art. 2
 
-**Tâches – Hôtesses de police**
+**Assistants et assistantes de sécurité publique – Tâches**
 
-<sup>1</sup> Les hôtesses de police collaborent à l'accomplissement de tâches de police de la circulation.
+<sup>1</sup> Les assistants et assistantes de sécurité publique exercent les missions générales de police qui ne nécessitent pas une formation certifiée de policier ou de policière.
 
-<sup>2</sup> Elles assurent notamment la surveillance du trafic et du stationnement des véhicules ainsi que la régulation du trafic.
+<sup>2</sup> Ils assument en particulier des tâches de convoyage, d'appui aux tâches d'intervention de police, de réception, de régulation du trafic et de police administrative.
 
-<sup>3</sup> Elles peuvent être chargées de remplir, occasionnellement, d'autres tâches.
+<sup>3</sup> Ils peuvent être chargés de remplir, occasionnellement, d'autres tâches si les circonstances l'exigent et en fonction des besoins du service.
 
 #### Art. 3
 
-**Tâches – Chauffeurs convoyeurs**
+**Assistants et assistantes de sécurité publique – Formation**
 
-<sup>1</sup> Les chauffeurs convoyeurs assurent le transfèrement des détenus.
-
-<sup>2</sup> Ils conduisent les véhicules cellulaires et escortent les personnes transférées, seuls ou en collaboration avec des gendarmes.
+<sup>1</sup> Les assistants et assistantes de sécurité publique sont au bénéfice d'un CFC et d'une formation d'assistant ou d'assistante de sécurité publique, armée ou non en fonction de leurs missions, reconnue par l'Institut suisse de police.
 
 #### Art. 4
 
-**…**
+**Assistants et assistantes de sécurité publique – Armement**
+
+<sup>1</sup> Les assistants et assistantes de sécurité publique qui sont au bénéfice d'une formation d'assistant ou d'assistante de sécurité publique armée reconnue par l'Institut suisse de police, sont armés pour les tâches de convoyage.
+
+<sup>2</sup> Sur autorisation du commandant ou de la commandante ou de son remplaçant ou sa remplaçante, les autres assistants et assistantes de sécurité publique peuvent être armés si les circonstances l'exigent et en fonction des besoins du service.
+
+<sup>3</sup> Ils doivent avoir suivi les modules spécifiques de l'école de police. Ils reçoivent une attestation de formation.
 
 #### Art. 5
 
-**Ordres de service**
+**Agents et agentes de police judiciaire spécialisés – Tâches**
 
-<sup>1</sup> Le commandant de la Police cantonale précise par des ordres de service les fonctions exercées par les agents auxiliaires.
+<sup>1</sup> Les agents et agentes de police judiciaire spécialisés exercent les missions spécifiques de police qui ne nécessitent pas une formation certifiée de policier ou de policière.
+
+<sup>2</sup> Ils assument en particulier des tâches de prévention, d'analyse, de soutien aux enquêtes ainsi que des tâches de police administrative.
+
+<sup>3</sup> Ils peuvent être chargés de remplir, occasionnellement, d'autres tâches si les circonstances l'exigent et en fonction des besoins du service.
 
 #### Art. 6
 
-**Abrogation**
+**Agents et agentes de police judiciaire spécialisés – Formation**
 
-<sup>1</sup> L'arrêté du 10 mars 1975 concernant les auxiliaires de la gendarmerie cantonale est abrogé.
+<sup>1</sup> Les agents et agentes de police judiciaire spécialisés sont au bénéfice d'un CFC ou d'une formation supérieure en fonction des exigences du poste occupé.
+
+<sup>2</sup> Selon leur fonction au sein de la police, ils suivent les modules utiles au sein d'une école de police dûment reconnue. Ils reçoivent une attestation de formation.
 
 #### Art. 7
 
-**Entrée en vigueur**
+**Agents et agentes de police judiciaire spécialisés – Armement**
 
-<sup>1</sup> Cet arrêté entre en vigueur le 1<sup>er</sup> janvier 1992.
+<sup>1</sup> Les agents et agentes de police judiciaire spécialisés qui sont diplômés de l'Ecole des sciences criminelles, dits inspecteurs et inspectrices techniques, sont armés.
 
-<sup>2</sup> Il est publié dans la Feuille officielle, inséré dans le Bulletin des lois et imprimé en livrets.
+<sup>2</sup> Sur autorisation du commandant ou de la commandante ou de son remplaçant ou sa remplaçante, les agents et agentes de police judiciaire spécialisés, non diplômés de l'Ecole des sciences criminelles peuvent être armés selon les besoins de leurs activités.
 
-BL/AGS 1991 f 882 / d 897
+#### Art. 8
+
+**Directives internes**
+
+<sup>1</sup> Le commandant ou la commandante précise par directives internes les tâches exercées par les assistants et assistantes de sécurité publique et par les agents et agentes de police judiciaire spécialisés.
+
+2023\_090

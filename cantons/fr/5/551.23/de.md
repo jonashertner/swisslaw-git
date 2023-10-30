@@ -1,81 +1,97 @@
 ---
 canton: FR
 number: "551.23"
-title: Beschluss über die Hilfspolizisten der Kantonspolizei
+title: Verordnung über die Hilfspolizistinnen und Hilfspolizisten der Kantonspolizei
 language: de
-version: 2007-01-01
-valid_until: 2023-10-30
-version_adopted: 2006-12-12
+version: 2023-10-31
+version_adopted: 2023-10-31
 adopted: 2023-10-31
 in_force: 2023-10-31
 url: "https://bdlf.fr.ch/app/de/texts_of_law/551.23"
-pdf: "https://bdlf.fr.ch/api/de/versions/5267/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7847/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Beschluss über die Hilfspolizisten der Kantonspolizei
+# Verordnung über die Hilfspolizistinnen und Hilfspolizisten der Kantonspolizei
 
-vom 23.12.1991 (Fassung in Kraft getreten am 01.01.2007)
+Hilfspolizisten der Kantonspolizei – V
+
+vom 31.10.2023 (Fassung in Kraft getreten am 31.10.2023)
 
 Der Staatsrat des Kantons Freiburg
 
-gestützt auf den Artikel 15 Bst. e des Gesetzes vom 15. November 1990 über die Kantonspolizei;
+gestützt auf Artikel 15 Abs. 1 Bst. e des Gesetzes vom 15. November 1990 über die Kantonspolizei (PolG);
 
-auf Antrag der Justiz-, Polizei- und Militärdirektion,
+auf Antrag der Sicherheits-, Justiz- und Sportdirektion,
 
 beschliesst:
 
 #### Art. 1
 
-**Hilfspolizisten**
+**Hilfspolizistinnen und Hilfspolizisten**
 
-<sup>1</sup> Hilfspolizisten der Kantonspolizei sind:
+<sup>1</sup> Hilfspolizistinnen und Hilfspolizisten der Kantonspolizei sind:
 
-- a) die Polizeihostessen;
-- b) die Gefangenenbegleiter;
-- c) …
+- a) polizeiliche Sicherheitsassistentinnen und Sicherheitsassistenten;
+- b) spezialisierte Beamtinnen und Beamte der Gerichtspolizei.
 
 #### Art. 2
 
-**Aufgaben – Polizeihostessen**
+**Polizeiliche Sicherheitsassistentinnen und Sicherheitsassistenten – Aufgaben**
 
-<sup>1</sup> Die Polizeihostessen wirken bei der Erfüllung von verkehrspolizeilichen Aufgaben mit.
+<sup>1</sup> Polizeiliche Sicherheitsassistentinnen und Sicherheitsassistenten erfüllen allgemeine Polizeiaufgaben, die keine zertifizierte Polizeiausbildung erfordern.
 
-<sup>2</sup> Sie besorgen namentlich die Überwachung des fliessenden und des ruhenden Strassenverkehrs sowie die Regelung dieses Verkehrs.
+<sup>2</sup> Sie erfüllen insbesondere Aufgaben in den Bereichen Gefangenenbegleitung, Unterstützung von Polizeieinsätzen, Empfang, Verkehrsregelung und Verwaltungspolizei.
 
-<sup>3</sup> Sie können gelegentlich mit der Erfüllung anderer Aufgaben betraut werden.
+<sup>3</sup> Sie können gelegentlich mit anderen Aufgaben betraut werden, wenn es aufgrund der Umstände und der dienstlichen Bedürfnisse nötig ist.
 
 #### Art. 3
 
-**Aufgaben – Gefangenenbegleiter**
+**Polizeiliche Sicherheitsassistentinnen und Sicherheitsassistenten – Ausbildung**
 
-<sup>1</sup> Die Gefangenenbegleiter versehen den Transport der Gefangenen.
-
-<sup>2</sup> Sie führen die Zellenfahrzeuge und begleiten die zu überführenden Personen alleine oder in Zusammenarbeit mit den Gendarmen.
+<sup>1</sup> Polizeiliche Sicherheitsassistentinnen und Sicherheitsassistenten verfügen je nach Auftrag über ein EFZ und eine vom Schweizerischen Polizei-Institut anerkannte Ausbildung als bewaffnete oder unbewaffnete polizeiliche Sicherheitsassistentinnen und Sicherheitsassistenten.
 
 #### Art. 4
 
-**…**
+**Polizeiliche Sicherheitsassistentinnen und Sicherheitsassistenten – Bewaffnung**
+
+<sup>1</sup> Polizeiliche Sicherheitsassistentinnen und Sicherheitsassistenten, die über eine vom Schweizerischen Polizei-Institut anerkannte Ausbildung als bewaffnete polizeiliche Sicherheitsassistentinnen und Sicherheitsassistenten verfügen, sind für Aufgaben der Gefangenenbegleitung bewaffnet.
+
+<sup>2</sup> Mit Genehmigung der Kommandantin oder des Kommandanten oder ihrer bzw. seiner Stellvertretung dürfen die polizeilichen Sicherheitsassistentinnen und Sicherheitsassistenten bewaffnet werden, wenn es aufgrund der Umstände und der dienstlichen Bedürfnisse nötig ist.
+
+<sup>3</sup> Sie müssen die entsprechenden Module der Polizeischule besucht haben. Sie erhalten eine Ausbildungsbestätigung.
 
 #### Art. 5
 
-**Dienstbefehl**
+**Spezialisierte Beamtinnen und Beamte der Gerichtspolizei – Aufgaben**
 
-<sup>1</sup> Der Kommandant der Kantonspolizei präzisiert durch Dienstbefehl die von den Hilfspolizisten ausgeübten Funktionen.
+<sup>1</sup> Spezialisierte Beamtinnen und Beamte der Gerichtspolizei erfüllen spezielle Polizeiaufgaben, die keine zertifizierte Polizeiausbildung erfordern.
+
+<sup>2</sup> Sie erfüllen insbesondere Aufgaben in den Bereichen Prävention, Analyse und Ermittlungsunterstützung sowie verwaltungspolizeiliche Aufgaben.
+
+<sup>3</sup> Sie können gelegentlich mit anderen Aufgaben betraut werden, wenn es aufgrund der Umstände und der dienstlichen Bedürfnisse nötig ist.
 
 #### Art. 6
 
-**Aufhebung**
+**Spezialisierte Beamtinnen und Beamte der Gerichtspolizei – Ausbildung**
 
-<sup>1</sup> Der Beschluss vom 10. März 1975 betreffend die Hilfspolizisten der Kantonspolizei wird aufgehoben.
+<sup>1</sup> Spezialisierte Beamtinnen und Beamte der Gerichtspolizei verfügen je nach den Anforderungen ihrer Stelle über ein EFZ oder eine höhere Ausbildung.
+
+<sup>2</sup> Sie besuchen die für ihre Funktion bei der Polizei geeigneten Module einer anerkannten Polizeischule. Sie erhalten eine Ausbildungsbestätigung.
 
 #### Art. 7
 
-**Inkrafttreten**
+**Spezialisierte Beamtinnen und Beamte der Gerichtspolizei – Bewaffnung**
 
-<sup>1</sup> Dieser Beschluss tritt am 1. Januar 1992 in Kraft.
+<sup>1</sup> Spezialisierte Beamtinnen und Beamte der Gerichtspolizei mit einem Diplom des Instituts für Kriminalwissenschaften, sogenannte Inspektorinnen und Inspektoren im kriminaltechnischen Dienst, sind bewaffnet.
 
-<sup>2</sup> Er ist im Amtsblatt zu veröffentlichen, in die Amtliche Gesetzessammlung aufzunehmen und im Sonderdruck herauszugeben.
+<sup>2</sup> Mit Genehmigung der Kommandantin oder des Kommandanten oder ihrer bzw. seiner Stellvertretung dürfen spezialisierte Beamtinnen und Beamte der Gerichtspolizei ohne Diplom des Instituts für Kriminalwissenschaften bewaffnet werden, wenn es für ihre Tätigkeit nötig ist.
 
-BL/AGS 1991 f 882 / d 897
+#### Art. 8
+
+**Interne Richtlinien**
+
+<sup>1</sup> Die Kommandantin oder der Kommandant legt in internen Richtlinien fest, welche Aufgaben die polizeilichen Sicherheitsassistentinnen und Sicherheitsassistenten und die spezialisierten Beamtinnen und Beamten der Gerichtspolizei ausüben.
+
+2023\_090
