@@ -4,13 +4,13 @@ number: "433.11"
 title: Règlement sur la Haute Ecole pédagogique Fribourg
 short: RHEPF
 language: fr
-version: 2022-02-01
-valid_until: 2023-10-30
-version_adopted: 2022-03-04
+version: 2023-10-31
+valid_until: 2025-07-31
+version_adopted: 2023-10-31
 adopted: 2020-01-14
 in_force: 2020-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/433.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7310/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7845/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Haute Ecole pédagogique Fribourg – R
 
 (RHEPF)
 
-du 14.01.2020 (version entrée en vigueur le 01.02.2022)
+du 14.01.2020 (version entrée en vigueur le 31.10.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -253,7 +253,7 @@ Arrête:
 - a) les personnes titulaires d'un diplôme d'enseignement reconnu par la CDIP;
 - b) les personnes titulaires d'une maturité professionnelle ou d'une maturité spécialisée autre que l'orientation pédagogie, ayant réussi l'examen complémentaire de la Commission suisse de maturité (passerelle);
 - c) les personnes titulaires de titres étrangers d'études secondaires de formation générale, reconnus comme admissibles dans les universités suisses sur la base de l'évaluation des certificats étrangers de fin d'études établie par swissuniversities; en principe, les conditions propres à chaque pays appliquées par l'Université de Fribourg font foi;
-- d) les personnes titulaires d'un diplôme obtenu après une formation d'au moins trois ans au degré secondaire II suivie d'une activité professionnelle de plusieurs années, âgées de 30 ans au minimum, dont l'aptitude aux études a été vérifiée et confirmée dans le cadre d'une procédure d'admission sur dossier.
+- d) les personnes titulaires d'un diplôme obtenu après une formation d'au moins trois ans au degré secondaire II suivie d'une activité professionnelle de plusieurs années, âgées de 27 ans au minimum, dont l'aptitude aux études a été vérifiée et confirmée dans le cadre d'une procédure d'admission sur dossier.
 
 <sup>2</sup> Sont admissibles en formation initiale, sous condition de réussite de l'examen permettant l'accès à la procédure d'admission en formation initiale de la HEP-PH FR:
 

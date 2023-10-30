@@ -4,13 +4,13 @@ number: "433.11"
 title: Reglement über die Pädagogische Hochschule Freiburg
 short: PHFR
 language: de
-version: 2022-02-01
-valid_until: 2023-10-30
-version_adopted: 2022-03-04
+version: 2023-10-31
+valid_until: 2025-07-31
+version_adopted: 2023-10-31
 adopted: 2020-01-14
 in_force: 2020-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/433.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7310/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7845/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Pädagogische Hochschule Freiburg – R
 
 (PHFR)
 
-vom 14.01.2020 (Fassung in Kraft getreten am 01.02.2022)
+vom 14.01.2020 (Fassung in Kraft getreten am 31.10.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -253,7 +253,7 @@ beschliesst:
 - a) ein von der EDK anerkanntes Lehrdiplom;
 - b) einen Berufsmaturitätsausweis oder einen Fachmaturitätsausweis ausserhalb des Berufsfelds Pädagogik mit bestandener Ergänzungsprüfung der Schweizerischen Maturitätskommission (Passerellenreglement);
 - c) einen ausländischen Ausweis über eine allgemeinbildende Ausbildung der Sekundarstufe, der aufgrund der Beurteilung der ausländischen Ausbildungsabschlüsse von swissuniversities zur Aufnahme an die Schweizer Universitäten berechtigt; grundsätzlich gelten für jedes Land die spezifischen Bedingungen, die von der Universität Freiburg angewendet werden;
-- d) ein Diplom einer mindestens dreijährigen Ausbildung auf Sekundarstufe II mit mehrjähriger Berufserfahrung; die betreffende Person muss mindestens 30 Jahre alt und zuvor in einem Aufnahmeverfahren auf ihre Studieneignung geprüft worden sein («Admission sur Dossier»).
+- d) ein Diplom einer mindestens dreijährigen Ausbildung auf Sekundarstufe II mit mehrjähriger Berufserfahrung; die betreffende Person muss mindestens 27 Jahre alt und zuvor in einem Aufnahmeverfahren auf ihre Studieneignung geprüft worden sein («Admission sur Dossier»).
 
 <sup>2</sup> Zur Grundausbildung wird ausserdem zugelassen, wer über eine der folgenden Vorbildungen verfügt, sofern sie oder er die Prüfung, welche die Zulassung zum Aufnahmeverfahren in die Grundausbildung der HEP-PH FR regelt, bestanden hat:
 
