@@ -3,18 +3,18 @@ sr: "412.101.220.72"
 title: "Ordonnance du SEFRI du 1<sup>er</sup> juillet 2019 sur la formation professionnelle initiale de ferblantière/ferblantier avec certificat fédéral de capacité (CFC)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/433"
 language: fr
-version: 2020-01-01
+version: 2023-11-01
 adopted: 2019-07-01
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/433/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-433-20200101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/433/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/433/20231101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-433-20231101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/433/20231101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale de ferblantière/ferblantier avec certificat fédéral de capacité (CFC)
 
-du 1<sup>er</sup> juillet 2019 (Etat le 1<sup>er</sup> janvier 2020)
+du 1<sup>er</sup> juillet 2019 (État le 1<sup>er</sup> novembre 2023)
 
 <table>
 <tr><td>45405</td><td>Ferblantière CFC / Ferblantier CFC Spenglerin EFZ / Spengler EFZ Lattoniera AFC / Lattoniere AFC</td></tr>
@@ -186,16 +186,18 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 <tr><td>1</td><td>2</td><td>Aménager et sécuriser le poste de travail</td><td>1 jour</td></tr>
 <tr><td>1</td><td>3</td><td>Fabriquer des tôles profilées Assembler des tôles profilées en éléments de ferblanterie Monter des tôles profilées</td><td>8 jours</td></tr>
 <tr><td>2</td><td>4</td><td>Contrôler des sous-constructions Fabriquer des tôles profilées Fabriquer des couvertures de toit et des revêtements de façade Monter des systèmes de couverture</td><td>4 jours</td></tr>
-<tr><td>2</td><td>5</td><td>Contrôler des sous-constructions Trier et éliminer les déchets Démonter des matériaux Poser des couches de barrière Poser des systèmes d’étanchéité Poser des systèmes d’isolation Monter des éléments préfabriqués</td><td>8 jours</td></tr>
+<tr><td>2</td><td>5</td><td>Contrôler des sous-constructions Trier et éliminer les déchets Démonter des matériaux Poser des couches de barrière Poser des systèmes d’étanchéité Poser des systèmes d’isolation Monter des éléments préfabriqués Poser des couches d’usure et de protection</td><td>8 jours</td></tr>
 <tr><td>3</td><td>6</td><td>Développer des modèles de revêtement de façade Contrôler des sous-constructions Fabriquer des sous-constructions Fabriquer des tôles profilées Fabriquer des couvertures de toit et des revêtements de façade Monter des sous-constructions Monter des revêtements de façade</td><td>8 jours</td></tr>
-<tr><td>3</td><td>7</td><td>Poser des couches d’usure et de protection</td><td>4 jours</td></tr>
+<tr><td>3</td><td>7</td><td>Fabriquer des tôles profilées Assembler des tôles profilées en éléments de ferblanterie Monter des tôles profilées</td><td>4 jours</td></tr>
 <tr><td>3</td><td>8</td><td>Monter des tôles profilées Monter des installations solaires Remettre l’installation au client</td><td>4 jours</td></tr>
 <tr><td>4</td><td>9</td><td>Transporter les éléments de ferblanterie et le matériel sur le lieu du montage</td><td>4 jours</td></tr>
 <tr><td>4</td><td>10</td><td>Remettre l’installation au client Établir le métré final Rédiger des rapports</td><td>2 jours</td></tr>
-<tr><td>Total</td><td></td><td></td><td>51 jours</td></tr>
+<tr><td>Total</td><td></td><td></td><td>51 jours.[^8-1]</td></tr>
 </table>
 
 <sup>3</sup> Aucun cours interentreprises ne doit avoir lieu durant le dernier semestre de la formation professionnelle initiale.
+
+[^8-1]: Mis à jour par le ch. I de l’O du SEFRI du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 573](https://fedlex.data.admin.ch/eli/oc/2023/573)).
 
 ## Section 5 Plan de formation
 
@@ -220,7 +222,7 @@ Le plan de formation:
 
 <sup>3</sup> Le plan de formation est assorti de la liste des instruments servant à garantir et à mettre en œuvre la formation professionnelle initiale et à en promouvoir la qualité, avec indication du nom de l’organisme auprès duquel ils peuvent être obtenus.
 
-[^9-1]: Le plan de formation du 1<sup>er</sup> juillet 2019 est disponible dans la liste des professions du SEFRI à l’adresse suivante: www.bvz.admin.ch &gt; Professions A–Z.
+[^9-1]: Le plan de formation du 1<sup>er</sup> juillet 2019 est disponible dans la liste des professions du SEFRI à l’adresse suivante: [www.bvz.admin.ch](https://www.bvz.admin.ch) &gt; Professions A–Z.
 
 ## Section 6 Exigences posées aux formateurs et nombre maximal de personnes en formation dans l’entreprise
 

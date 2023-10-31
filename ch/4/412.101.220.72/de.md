@@ -3,18 +3,18 @@ sr: "412.101.220.72"
 title: Verordnung des SBFI vom 1. Juli 2019 über die berufliche Grundbildung Spenglerin/Spengler mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/433"
 language: de
-version: 2020-01-01
+version: 2023-11-01
 adopted: 2019-07-01
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/433/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2019-433-20200101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/433/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/433/20231101/de/xml/fedlex-data-admin-ch-eli-cc-2019-433-20231101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/433/20231101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Spenglerin/Spengler mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 1. Juli 2019 (Stand am 1. Januar 2020)
+vom 1. Juli 2019 (Stand am 1. November 2023)
 
 <table>
 <tr><td>45405</td><td>Spenglerin EFZ / Spengler EFZ Ferblantière CFC / Ferblantier CFC Lattoniera AFC / Lattoniere AFC</td></tr>
@@ -186,16 +186,18 @@ Die Bildung in beruflicher Praxis im Betrieb umfasst über die ganze Dauer der b
 <tr><td>1</td><td>2</td><td>Arbeitsplatz einrichten und sichern</td><td>1 Tag</td></tr>
 <tr><td>1</td><td>3</td><td>Blechprofile herstellen Blechprofile zu Bauteilen zusammenbauen Blechprofile montieren</td><td>8 Tage</td></tr>
 <tr><td>2</td><td>4</td><td>Unterkonstruktionen kontrollieren Blechprofile herstellen Dachdeckungen und Fassadenbekleidungen herstellen Deckungssysteme montieren</td><td>4 Tage</td></tr>
-<tr><td>2</td><td>5</td><td>Unterkonstruktionen kontrollieren Abfälle trennen und entsorgen Material rückbauen Sperrschichten einbauen Abdichtungssysteme einbauen Dämmsysteme montieren Fertigbauteile montieren</td><td>8 Tage</td></tr>
+<tr><td>2</td><td>5</td><td>Unterkonstruktionen kontrollieren Abfälle trennen und entsorgen Material rückbauen Sperrschichten einbauen Abdichtungssysteme einbauen Dämmsysteme einbauen Fertigbauteile montieren Nutz- und Schutzschichten einbauen</td><td>8 Tage</td></tr>
 <tr><td>3</td><td>6</td><td>Bekleidungsmuster für Fassaden entwickeln Unterkonstruktionen kontrollieren Unterkonstruktionen herstellen Blechprofile herstellen Dachdeckungen und Fassadenbekleidungen herstellen Unterkonstruktionen montieren Fassadenbekleidungen montieren</td><td>8 Tage</td></tr>
-<tr><td>3</td><td>7</td><td>Nutz- und Schutzschichten einbauen</td><td>4 Tage</td></tr>
+<tr><td>3</td><td>7</td><td>Blechprofile herstellen Blechprofile zu Bauteilen zusammenbauen Blechprofile montieren</td><td>4 Tage</td></tr>
 <tr><td>3</td><td>8</td><td>Blechprofile montieren Solaranlagen montieren der Kundin oder dem Kunden das Werk übergeben</td><td>4 Tage</td></tr>
 <tr><td>4</td><td>9</td><td>Bauteile und Material an den Montageort transportieren</td><td>4 Tage</td></tr>
 <tr><td>4</td><td>10</td><td>der Kundin / dem Kunden das Werk übergeben Ausmass aufnehmen Rapporte erstellen</td><td>2 Tage</td></tr>
-<tr><td>Total</td><td></td><td></td><td>51 Tage</td></tr>
+<tr><td>Total</td><td></td><td></td><td>51 Tage [^8-1]</td></tr>
 </table>
 
 <sup>3</sup> Im letzten Semester der beruflichen Grundbildung dürfen keine überbetrieblichen Kurse stattfinden.
+
+[^8-1]: Bereinigt gemäss Ziff. I der V des SBFI vom 22. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 573](https://fedlex.data.admin.ch/eli/oc/2023/573)).
 
 ## 5. Abschnitt: Bildungsplan
 

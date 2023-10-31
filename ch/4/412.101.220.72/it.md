@@ -3,18 +3,18 @@ sr: "412.101.220.72"
 title: Ordinanza della SEFRI del 1° luglio 2019 sulla formazione professionale di base Lattoniera/Lattoniere con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/433"
 language: it
-version: 2020-01-01
+version: 2023-11-01
 adopted: 2019-07-01
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/433/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2019-433-20200101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/433/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/433/20231101/it/xml/fedlex-data-admin-ch-eli-cc-2019-433-20231101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/433/20231101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Lattoniera/Lattoniere con attestato federale di capacità (AFC)
 
-del 1° luglio 2019 (Stato 1° gennaio 2020)
+del 1° luglio 2019 (Stato 1° novembre 2023)
 
 <table>
 <tr><td>45405</td><td>Lattoniera AFC / Lattoniere AFC Spenglerin EFZ / Spengler EFZ Ferblantière CFC / Ferblantier CFC</td></tr>
@@ -186,16 +186,18 @@ La formazione professionale pratica in azienda comprende in media quattro giorna
 <tr><td>1</td><td>2</td><td>Allestire la postazione di lavoro e metterla in sicurezza</td><td>1 giorno</td></tr>
 <tr><td>1</td><td>3</td><td>Fabbricare profilati in lamiera Assemblare profilati in lamiera e altri elementi di lattoneria Montare i profilati in lamiera</td><td>8 giorni</td></tr>
 <tr><td>2</td><td>4</td><td>Controllare le sottostrutture Fabbricare profilati in lamiera Realizzare coperture per tetti e rivestimenti per facciate Montare i sistemi di copertura</td><td>4 giorni</td></tr>
-<tr><td>2</td><td>5</td><td>Controllare le sottostrutture Separare e smaltire i rifiuti Rimuovere il materiale Posare strati barriera Posare sistemi di impermeabilizzazione Posare sistemi di coibentazione Montare i componenti prefabbricati</td><td>8 giorni</td></tr>
+<tr><td>2</td><td>5</td><td>Controllare le sottostrutture Separare e smaltire i rifiuti Rimuovere il materiale Posare strati barriera Posare sistemi di impermeabilizzazione Posare sistemi di coibentazione Montare i componenti prefabbricati Posare strati di protezione e usura</td><td>8 giorni</td></tr>
 <tr><td>3</td><td>6</td><td>Sviluppare modelli di rivestimenti per facciate Controllare le sottostrutture Realizzare sottostrutture Fabbricare profilati in lamiera Realizzare coperture per tetti e rivestimenti per facciate Montare le sottostrutture Montare i rivestimenti per facciate</td><td>8 giorni</td></tr>
-<tr><td>3</td><td>7</td><td>Posare strati di protezione e usura</td><td>4 giorni</td></tr>
+<tr><td>3</td><td>7</td><td>Fabbricare profilati in lamiera Assemblare profilati in lamiera e altri elementi di lattoneria Montare i profilati in lamiera</td><td>4 giorni</td></tr>
 <tr><td>3</td><td>8</td><td>Montare i profilati in lamiera Montare gli impianti solari Consegnare l’opera al cliente</td><td>4 giorni</td></tr>
 <tr><td>4</td><td>9</td><td>Trasportare gli elementi di lattoneria e il materiale sul luogo del montaggio</td><td>4 giorni</td></tr>
 <tr><td>4</td><td>10</td><td>Consegnare l’opera al cliente Effettuare i rilievi finali Redigere rapporti</td><td>2 giorni</td></tr>
-<tr><td>Totale</td><td></td><td></td><td>51 giorni</td></tr>
+<tr><td>Totale</td><td></td><td></td><td>51 giorni .[^8-1]</td></tr>
 </table>
 
 <sup>3</sup> Nell’ultimo semestre della formazione professionale di base non si possono svolgere corsi interaziendali.
+
+[^8-1]: Aggiornato dal n. I dell’O della SEFRI del 22 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 573](https://fedlex.data.admin.ch/eli/oc/2023/573)).
 
 ## Sezione 5: Piano di formazione
 
@@ -220,7 +222,7 @@ Il piano di formazione:
 
 <sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, con indicazione dell’ente presso cui possono essere ottenuti.
 
-[^9-1]: Il piano del 1° luglio 2019 è disponibile sul sito SEFRI nell’elenco delle professioni: www.bvz.admin.ch &gt; Professioni A–Z.
+[^9-1]: Il piano del 1° luglio 2019 è disponibile sul sito SEFRI nell’elenco delle professioni: [www.bvz.admin.ch](http://www.bvz.admin.ch) &gt; Professioni A–Z.
 
 ## Sezione 6: Requisiti per i formatori e numero massimo di persone in formazione in azienda
 
@@ -456,7 +458,7 @@ Essa svolge in particolare i compiti seguenti:
 
 L’ordinanza della SEFRI del 12 dicembre 2007[^25-1] sulla formazione professionale di base Lattoniera/Lattoniere con attestato federale di capacità (AFC) è abrogata.
 
-[^25-1]: [[RU 2008 107](https://fedlex.data.admin.ch/eli/oc/2008/42), [2014 3625](https://fedlex.data.admin.ch/eli/oc/2014/631), [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)n. I 48, II 48 e IV]
+[^25-1]: [[RU 2008 107](https://fedlex.data.admin.ch/eli/oc/2008/42), [2014 3625](https://fedlex.data.admin.ch/eli/oc/2014/631), [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)n. I 48, II 48, IV]
 
 #### Art. 26
 
