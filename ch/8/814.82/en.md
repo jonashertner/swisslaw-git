@@ -4,11 +4,11 @@ title: "Ordinance of 10 November 2004 on the Rotterdam Convention on the Prior I
 short: ChemPICO
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/725"
 language: en
-version: 2022-01-01
+version: 2023-11-01
 adopted: 2004-11-10
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/725/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2004-725-20220101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/725/20231101/en/xml/fedlex-data-admin-ch-eli-cc-2004-725-20231101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20231101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (PIC Ordinance, ChemPICO)
 
-of 10 November 2004 (Status as of 1 January 2022)
+of 10 November 2004 (Status as of 1 November 2023)
 
 The Swiss Federal Council,
 
@@ -291,7 +291,7 @@ The FOEN shall publish the following on its website[^15-1]:
 
 [^15-1]: www.bafu.admin.ch &gt; Themen A-Z &gt; Chemikalien &gt; Fachinformationen &gt; Bestimmungen und Verfahren &gt; PIC
 [^15-2]: Amended by No I of the O of 22 March 2017, in force since 1 May 2017 ([AS 2017 2593](https://fedlex.data.admin.ch/eli/oc/2017/247)).
-[^15-3]: The list can be obtained against payment from the FOEN, 3003 Bern, or accessed free of charge on the Internet at www.pic.int/Countries/Statusofratifications/tabid/1072/language/en-US/Default.aspx
+[^15-3]: The list can be obtained against payment from the FOEN, 3003 Bern, or accessed free of charge on the Internet at [www.pic.int](http://www.pic.int) &gt; Countries
 
 ## Section 4 Final Provisions
 
@@ -328,13 +328,13 @@ The obligation to pay fees and the calculation of fees for administrative acts b
 
 This Ordinance comes into force on 1 January 2005.
 
-Annex 1*[^t-1]*
+Annex 1[^t-1]
 
 (Art. 2 para 1 let. a)
 
 ## Substances and preparations that are banned or subject to severe restrictions in Switzerland
 
-[^t-1]: Amended by No I of the FOEN O of 6 July 2018 ([AS 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Revised by No I of the O of the BAFU of 12 March 2020 ([AS 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)), No I of the O of 12 Feb. 2020 ([AS 2020 807](https://fedlex.data.admin.ch/eli/oc/2020/148)), No II of the O of 14 Oct. 2020 ([AS 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)), and No I of the O of 12 Feb. 2020, in force since 1 Jan. 2021, the entry “Perfluorooctanoic acid, its salts and related compounds”, in force since 1 June 2021 ([AS 2020 807](https://fedlex.data.admin.ch/eli/oc/2020/148)).
+[^t-1]: Amended by No I of the FOEN O of 6 July 2018 ([AS 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Revised by No I of the O of the BAFU of 12 March 2020 ([AS 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)), No I of the O of 12 Feb. 2020 ([AS 2020 807](https://fedlex.data.admin.ch/eli/oc/2020/148)), No II of the O of 14 Oct. 2020 ([AS 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)), No I of the O of 12 Feb. 2020 ([AS 2020 807](https://fedlex.data.admin.ch/eli/oc/2020/148)) and No I of the FOEN O of 18 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 539](https://fedlex.data.admin.ch/eli/oc/2023/539)).
 
 Substances marked with the symbol # in this Annex are also substances or components of severely hazardous pesticide formulations that are subject to the PIC procedure (Annex 2).
 
@@ -412,7 +412,7 @@ Substances marked with the symbol # in this Annex are also substances or compone
 <tr><td>DDD</td><td>72-54-8</td><td></td></tr>
 <tr><td>DDE</td><td>72-55-9</td><td>Pesticide</td></tr>
 <tr><td>DDT #</td><td>50-29-3</td><td>Pesticide</td></tr>
-<tr><td>Decabromodiphenyl ether</td><td>1163-19-5</td><td>Industrial chemical</td></tr>
+<tr><td>Decabromodiphenyl ether #</td><td>1163-19-5</td><td>Industrial chemical</td></tr>
 <tr><td>Diazinon</td><td>333-41-5</td><td>Pesticide</td></tr>
 <tr><td>Dichlobenil</td><td>1194-65-6</td><td>Pesticide</td></tr>
 <tr><td>Dichlorvos</td><td>62-73-7</td><td>Pesticide</td></tr>
@@ -499,7 +499,7 @@ Substances marked with the symbol # in this Annex are also substances or compone
 <tr><td>Pentachlorobenzene</td><td>608-93-5</td><td>Pesticide, Industrial chemical</td></tr>
 <tr><td>Pentachlorophenol and its salts as well as pentachlorophenoxy compounds #</td><td>87-86-5</td><td>Pesticide, industrial chemical</td></tr>
 <tr><td>Perfluorooctane sulfonates (PFOS) C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>X (X = OH, Metal salt (O-M+), halide, amide, and other derivatives including polymers) #</td><td>1763-23-1 2795‑39-3 and other</td><td>Industrial chemical</td></tr>
-<tr><td>Perfluorooctanoic acid, its salts and related compounds</td><td>335-67-1 and others</td><td>Industrial chemical</td></tr>
+<tr><td>Perfluorooctanoic acid, its salts and related compounds #</td><td>335-67-1 and others</td><td>Industrial chemical</td></tr>
 <tr><td>Permethrin</td><td>52645-53-1</td><td>Pesticide</td></tr>
 <tr><td>Perthane</td><td>72-56-0</td><td>Pesticide</td></tr>
 <tr><td>Phorate #</td><td>298-02-2</td><td>Pesticide</td></tr>
@@ -553,13 +553,13 @@ Substances marked with the symbol # in this Annex are also substances or compone
 
 [^annex1-lvlu1-1]: Exceptions are benzines whose benzene content is not more than 1 %, for use as fuels in vehicles and aircrafts.
 
-Annex 2*[^t-2]*
+Annex 2[^t-2]
 
 (Art. 2 para. 1 let. b)
 
 ## Substances and severely hazardous pesticide formulations subject to the prior informed consent procedure
 
-[^t-2]: Amended by No I of the FOEN O of 6 July 2018 ([AS 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Revised by No I of the FOEN O of 12 March 2020, in force since 1 May 2020 ([AS 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)).
+[^t-2]: Amended by No I of the FOEN O of 6 July 2018 ([AS 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Revised by No I of the FOEN O of 12 March 2020 ([AS 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)) and of 18 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 539](https://fedlex.data.admin.ch/eli/oc/2023/539)).
 
 (This Annex is identical to Annex III of the PIC Convention.)
 
@@ -615,6 +615,7 @@ Annex 2*[^t-2]*
 <tr><td>Commercial Pentabromodiphenyl ether including:</td><td colspan="2"></td><td colspan="2">Industrial</td></tr>
 <tr><td>– Tetrabromodiphenyl ether</td><td colspan="2">40088-47-9</td><td colspan="2"></td></tr>
 <tr><td>– Pentabromodiphenyl ether</td><td colspan="2">32534-81-9</td><td colspan="2"></td></tr>
+<tr><td colspan="2">Decabromdiphenyl ether</td><td colspan="2">1163-19-5</td><td colspan="2">Industrial</td></tr>
 <tr><td>Hexabromocyclododecane</td><td colspan="2">25637-99-4 3194-55-6 134237-50-6 134237-51-7 134237-52-8</td><td colspan="2">Industrial</td></tr>
 <tr><td>Perfluorooctane sulfonic acid, Perfluorooctane sulfonate, Perfluorooctane sulfonamide and Perfluorooctane sulfonyl, including:</td><td colspan="2">1763-23-1</td><td colspan="2">Industrial</td></tr>
 <tr><td>– Perfluorooctane sulfonic acid</td><td colspan="2">2795-39-3</td><td colspan="2"></td></tr>
@@ -629,6 +630,7 @@ Annex 2*[^t-2]*
 <tr><td>– N-ethyl-N-(2-hydroxyethyl)-perfluorooctane sulfonamide</td><td colspan="2">1691-99-2</td><td colspan="2"></td></tr>
 <tr><td>– N-(2-hydroxyethyl)-N-methyl-perfluorooctane sulfonamide</td><td colspan="2">24448-09-7</td><td colspan="2"></td></tr>
 <tr><td>– Perfluorooctane sulfonyl fluoride</td><td colspan="2">307-35-7</td><td colspan="2"></td></tr>
+<tr><td>Perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds including: – any related substance and its salts and polymers with a linear or branched perfluoropheptyl group with the formula C<sub>7</sub>F<sub>15</sub>- that are directly bound to another carbon atom as a structural element,  any related substance and its salts and polymers with a linear or branched perfluorooctyl group with the formula C<sub>8</sub>F<sub>17</sub>- as a structural element; with the exception of: – compounds with the formula C<sub>8</sub>F<sub>17</sub>-X, whereby X = F, Cl, or Br,  compounds with the formula C<sub>8</sub>F<sub>17</sub>-C(=O)OH, C<sub>8</sub>F<sub>17</sub>-C(=O)O-X′ or C<sub>8</sub>F<sub>17</sub>-CF<sub>2</sub>-X′ (whereby X′ means any group, including salts),  perfluorooctanesulfonic acid (PFOS) and its derivatives; these are compounds with the molecular formula C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>X (whereby X means: OH, metal salts (O-M<sup>+</sup>), halogenides, amides and other derivatives, including polymers). 335-67-1 Industriechemikalie</td><td colspan="2">335-67-1</td><td colspan="2">Industrial</td></tr>
 <tr><td>Polybrominated biphenyls (PBB)</td><td colspan="2">36355-01-8 (hexa-) 27858‑07-7 (octa-) 13654‑09-6 (deca-)</td><td colspan="2">Industrial</td></tr>
 <tr><td>Polychlorinated biphenyls (PCB)</td><td colspan="2">1336-36-3</td><td colspan="2">Industrial</td></tr>
 <tr><td>Polychlorinated terphenyls (PCT)</td><td colspan="2">61788-33-8</td><td colspan="2">Industrial</td></tr>
@@ -645,7 +647,7 @@ Annex 2*[^t-2]*
 <tr><td>– Tributyltin linoleate</td><td colspan="2">24124-25-2</td><td colspan="2"></td></tr>
 <tr><td>– Tributyltin naphthenate</td><td colspan="2">85409-17-2</td><td colspan="2"></td></tr>
 <tr><td colspan="6">[tab] \* Only the CAS numbers of parent compounds are listed. For a list of other relevant CAS numbers, reference may be made to the relevant decision guidance document.[^annex2-lvlu1-1]</td></tr>
-<tr><td colspan="6">\*\* All tributyltin compounds are listed in Annex III in both the industrial and pesticide categories. These chemicals were initially listed in Annex III in the pesticide category by decision RC-4/5, with the amendment entering into force on 1 February 2009. Decision RC-8/5 subsequently amended Annex III to list all tributyltin compounds in the industrial category, with the amendment entering into force on 15 September 2017.</td></tr>
+<tr><td colspan="6">[tab] \*\* All tributyltin compounds are listed in Annex III in both the industrial and pesticide categories. These chemicals were initially listed in Annex III in the pesticide category by decision RC-4/5, with the amendment entering into force on 1 February 2009. Decision RC-8/5 subsequently amended Annex III to list all tributyltin compounds in the industrial category, with the amendment entering into force on 15 September 2017.</td></tr>
 </table>
 
 [^annex2-lvlu1-1]: The texts of these documents may be obtained against payment or consulted free of charge at FOEN, 3003 Bern. They can be accessed on the Internet at www.pic.int &gt; The Convention &gt; Chemicals.

@@ -4,11 +4,11 @@ title: "Verordnung vom 10. November 2004 zum Rotterdamer Übereinkommen über da
 short: ChemPICV
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/725"
 language: de
-version: 2022-01-01
+version: 2023-11-01
 adopted: 2004-11-10
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/725/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2004-725-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/725/20231101/de/xml/fedlex-data-admin-ch-eli-cc-2004-725-20231101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20231101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20220101/de"
 
 (PIC-Verordnung, ChemPICV)
 
-vom 10. November 2004 (Stand am 1. Januar 2022)
+vom 10. November 2004 (Stand am 1. November 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -287,9 +287,9 @@ Das BAFU veröffentlicht auf seiner Internetseite[^15-1]:
 
 <sup>3</sup> Es passt Anhang 2 den Änderungen der Anlage III der PIC-Konvention an und bringt in Anhang 1 die entsprechenden Anmerkungen an.
 
-[^15-1]: www.bafu.admin.ch &gt; Themen A-Z &gt; Chemikalien &gt; Fachinformationen &gt; Bestimmungen und Verfahren &gt; PIC
+[^15-1]: [www.bafu.admin.ch](http://www.bafu.admin.ch) &gt; Themen A-Z &gt; Chemikalien &gt; Fachinformationen &gt; Bestimmungen und Verfahren &gt; PIC
 [^15-2]: Fassung gemäss Ziff. I der V vom 22. März 2017, in Kraft seit 1. Mai 2017 ([AS 2017 2593](https://fedlex.data.admin.ch/eli/oc/2017/247)).
-[^15-3]: Die Liste kann beim BAFU, 3003 Bern gegen Verrechnung bezogen, kostenlos eingesehen oder abgerufen werden unter der Internetadresse www.pic.int/Countries/Statusofratifications/tabid/1072/language/en-US/Default.aspx
+[^15-3]: Die Liste kann beim BAFU, 3003 Bern gegen Verrechnung bezogen, kostenlos eingesehen oder abgerufen werden unter der Internetadresse [www.pic.int](http://www.pic.int) &gt; Countries
 
 ## 4. Abschnitt: Schlussbestimmungen
 
@@ -326,13 +326,13 @@ Die Gebührenpflicht und die Gebührenbemessung für Verwaltungshandlungen des B
 
 Diese Verordnung tritt am 1. Januar 2005 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 2 Abs. 1 Bst a)
 
 ## In der Schweiz verbotene oder strengen Beschränkungen unterliegende Stoffe
 
-[^t-1]: Fassung gemäss Ziff. I der V des BAFU vom 6. Juli 2018 ([AS 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Bereinigt gemäss Ziff. I der V des BAFU vom 12. März 2020 ([AS 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)), Ziff. II der V vom 14. Okt. 2020 ([AS 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)) und Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. Jan. 2021, der Eintrag «Perfluoroctansäure, ihre Salze und Vorläuferverbindungen» in Kraft seit 1. Juni 2021 ([AS 2020 807](https://fedlex.data.admin.ch/eli/oc/2020/148)).
+[^t-1]: Fassung gemäss Ziff. I der V des BAFU vom 6. Juli 2018 ([AS 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Bereinigt gemäss Ziff. I der V des BAFU vom 12. März 2020 ([AS 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)), Ziff. II der V vom 14. Okt. 2020 ([AS 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)) und Ziff. I der V vom 12. Febr. 2020 ([AS 2020 807](https://fedlex.data.admin.ch/eli/oc/2020/148)) und Ziff. I der V des BAFU vom 18. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 539](https://fedlex.data.admin.ch/eli/oc/2023/539)).
 
 Stoffe, die in diesem Anhang mit dem Symbol # gekennzeichnet sind, sind zugleich Stoffe oder Bestandteile von sehr gefährlichen Pestizidformulierungen, die dem PIC-Verfahren unterliegen (Anhang 2).
 
@@ -410,7 +410,7 @@ Stoffe, die in diesem Anhang mit dem Symbol # gekennzeichnet sind, sind zugleich
 <tr><td>DDD</td><td>72-54-8</td><td></td></tr>
 <tr><td>DDE</td><td>72-55-9</td><td>Pestizid</td></tr>
 <tr><td>DDT #</td><td>50-29-3</td><td>Pestizid</td></tr>
-<tr><td>Decabromdiphenylether</td><td>1163-19-5</td><td>Industriechemikalie</td></tr>
+<tr><td>Decabromdiphenylether #</td><td>1163-19-5</td><td>Industriechemikalie</td></tr>
 <tr><td>Diazinon</td><td>333-41-5</td><td>Pestizid</td></tr>
 <tr><td>Dichlobenil</td><td>1194-65-6</td><td>Pestizid</td></tr>
 <tr><td>Dichlorvos</td><td>62-73-7</td><td>Pestizid</td></tr>
@@ -493,7 +493,7 @@ Stoffe, die in diesem Anhang mit dem Symbol # gekennzeichnet sind, sind zugleich
 <tr><td>Pentabromdiphenylether C<sub>12</sub>H<sub>5</sub>Br<sub>5</sub>O #</td><td>32534-81-9</td><td>Industriechemikalie</td></tr>
 <tr><td>Pentachlorbenzol</td><td>608-93-5</td><td>Pestizid, Industriechemikalie</td></tr>
 <tr><td>Pentachlorphenol und seine Salze sowie Pentachlorphenoxyverbindungen #</td><td>87-86-5</td><td>Pestizid, Industriechemikalie</td></tr>
-<tr><td>Perfluoroctansäure, ihre Salze und Vorläuferverbindungen</td><td>335-67-1 und weitere</td><td>Industriechemikalie</td></tr>
+<tr><td>Perfluoroctansäure, ihre Salze und Vorläuferverbindungen #</td><td>335-67-1 und weitere</td><td>Industriechemikalie</td></tr>
 <tr><td>Perfluoroctansulfonate (PFOS) C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>X (X = OH, Metallsalz (O<sup>–</sup>M<sup>+</sup>), Halide, Amide und andere Derivate, einschliesslich Polymere) #</td><td>1763-23-1 2795-39-3 und weitere</td><td>Industriechemikalie</td></tr>
 <tr><td>Permethrin</td><td>52645-53-1</td><td>Pestizid</td></tr>
 <tr><td>Perthan</td><td>72-56-0</td><td>Pestizid</td></tr>
@@ -551,13 +551,13 @@ Stoffe, die in diesem Anhang mit dem Symbol # gekennzeichnet sind, sind zugleich
 
 [^annex1-lvlu1-1]: Ausgenommen sind Benzine, deren Gehalt an Benzol höchstens 1 Volumenprozent beträgt, zur Verwendung als Kraftstoffe in Fahrzeugen und Luftfahrzeugen.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 2 Abs. 1 Bst. b)
 
 ## Dem PIC-Verfahren unterliegende Stoffe und sehr gefährliche Pestizidformulierungen
 
-[^t-2]: Fassung gemäss Ziff. I der V des BAFU vom 6. Juli 2018 ([AS 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Bereinigt gemäss Ziff. I der V des BAFU vom 12. März 2020, in Kraft seit 1. Mai 2020 ([AS 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)).
+[^t-2]: Fassung gemäss Ziff. I der V des BAFU vom 6. Juli 2018 ([AS 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Bereinigt gemäss Ziff. I der V des BAFU vom 12. März 2020 ([AS 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)) und vom 18. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 539](https://fedlex.data.admin.ch/eli/oc/2023/539)).
 
 (Dieser Anhang ist identisch mit Anlage III der PIC-Konvention.)
 
@@ -613,6 +613,7 @@ Anhang 2*[^t-2]*
 <tr><td>Kommerzielles Pentabromdiphenylether einschliesslich:</td><td></td><td>Industriechemikalie</td></tr>
 <tr><td>– Tetrabromdiphenylether</td><td>40088-47-9</td><td></td></tr>
 <tr><td>– Pentabromdiphenylether</td><td>32534-81-9</td><td></td></tr>
+<tr><td>Decabromdiphenylether</td><td>1163-19-5</td><td>Industriechemikalie</td></tr>
 <tr><td>Hexabromcyclododecane</td><td>25637-99-4 3194-55-6 134237-50-6 134237-51-7 134237-52-8</td><td>Industriechemikalie</td></tr>
 <tr><td>Perfluoroctansulfonsäure, Perfluoroctansulfonate, Perfluoroctansulfonamide und Perfluoroctansulfonyle, einschliesslich:</td><td></td><td>Industriechemikalie</td></tr>
 <tr><td>– Perfluoroctansulfonsäure</td><td>1763-23-1</td><td></td></tr>
@@ -627,6 +628,7 @@ Anhang 2*[^t-2]*
 <tr><td>– N-Ethyl-N-(2-hydroxyethyl)-Perfluoroctansulfonamid</td><td>1691-99-2</td><td></td></tr>
 <tr><td>– N-(2-hydroxyethyl)-N-Methyl-Perfluoroctansulfonamid</td><td>24448-09-7</td><td></td></tr>
 <tr><td>– Perfluoroctansulfonylfluorid</td><td>307-35-7</td><td></td></tr>
+<tr><td>Perfluoroctansäure (PFOA), ihre Salze und PFOA-verwandte Verbindungen einschliesslich: – jeder verwandte Stoff sowie dessen Salze und Polymere mit einer linearen oder verzweigten Perfluorheptyl-Gruppe der Formel C<sub>7</sub>F<sub>15</sub>-, die als Strukturelement direkt an ein anderes Kohlenstoffatom gebunden ist,  jeder verwandte Stoff sowie dessen Salze und Polymere mit einer linearen oder verzweigten Perfluoroctyl-Gruppe der Formel C<sub>8</sub>F<sub>17</sub>- als Strukturelement; ausgenommen sind: – Verbindungen mit der Formel C<sub>8</sub>F<sub>17</sub>-X, wobei X = F, Cl, oder Br,  Verbindungen mit der Formel C<sub>8</sub>F<sub>17</sub>-C(=O)OH, C<sub>8</sub>F<sub>17</sub>-C(=O)O-X′ oder C<sub>8</sub>F<sub>17</sub>-CF<sub>2</sub>-X′ (wobei X′ jegliche Gruppe, einschliesslich Salze bedeutet),  Perfluoroctansulfonsäure (PFOS) und ihre Derivate; als solche gelten Verbindungen mit der Summenformel C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>X (wobei X bedeutet: OH, Metallsalze (O-M<sup>+</sup>), Halogenide, Amide und andere Derivate, einschliesslich Polymere).</td><td>335-67-1</td><td>Industriechemikalie</td></tr>
 <tr><td>Polybromierte Biphenyle (PBB)</td><td>36355-01-8 (hexa-) 27858-07-7 (octa-) 13654-09-6 (deca-)</td><td>Industriechemikalie</td></tr>
 <tr><td>Polychlorierte Biphenyle (PCB)</td><td>1336-36-3</td><td>Industriechemikalie</td></tr>
 <tr><td>Polychlorierte Terphenyle (PCT)</td><td>61788-33-8</td><td>Industriechemikalie</td></tr>
@@ -640,4 +642,4 @@ Anhang 2*[^t-2]*
 <tr><td colspan="3">\*\* Alle Tributylzinn-Verbindungen sind in der Anlage III der PIC-Konvention in der Kategorie der «Pestizide» und in der Kategorie der «Industriechemikalien» aufgeführt. Diese Chemikalien wurden zunächst aufgrund des Beschlusses Nr. RC-4/5 der Vertragsparteienkonferenz unter der Kategorie der «Pestizide» in die Anlage III aufgenommen. Diese Änderung der Anlage III trat am 1. Februar 2009 in Kraft. Mit der Änderung der Anlage III aufgrund des Beschlusses Nr. RC-8/5 der Vertragsparteienkonferenz wurden alle Tributylzinn-Verbindungen in die Kategorie der «Industriechemikalien» aufgenommen. Diese Änderung trat am 15. September 2017 in Kraft.</td></tr>
 </table>
 
-[^annex2-lvlu1-1]: Die Texte dieser Dokumente können beim BAFU, 3003 Bern, gegen Verrechnung bezogen, kostenlos eingesehen oder unter der Internetadresse www.pic.int &gt; The Convention &gt; Chemicals abgerufen werden.
+[^annex2-lvlu1-1]: Die Texte dieser Dokumente können beim BAFU, 3003 Bern, gegen Verrechnung bezogen, kostenlos eingesehen oder unter der Internetadresse [www.pic.int](http://www.pic.int) &gt; The Convention &gt; Chemicals abgerufen werden.

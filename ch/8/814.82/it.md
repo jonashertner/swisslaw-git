@@ -4,11 +4,11 @@ title: "Ordinanza del 10 novembre 2004 relativa alla Convenzione di Rotterdam su
 short: OPICChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/725"
 language: it
-version: 2022-01-01
+version: 2023-11-01
 adopted: 2004-11-10
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/725/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2004-725-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/725/20231101/it/xml/fedlex-data-admin-ch-eli-cc-2004-725-20231101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20231101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20220101/it"
 
 (Ordinanza PIC, OPICChim)
 
-del 10 novembre 2004 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 10 novembre 2004 (Stato 1° novembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -321,13 +321,13 @@ L’obbligo di pagare emolumenti e il calcolo degli stessi per gli atti legislat
 
 La presente ordinanza entra in vigore il 1° gennaio 2005.
 
-Appendice 1*[^t-1]*
+Appendice 1[^t-1]
 
 (art. 2 cpv. 1 lett. a)
 
 ## Sostanze vietate o soggette a rigorose restrizioni in Svizzera
 
-[^t-1]: Nuovo testo giusta il n. I dell’O dell’UFAM del 6 lug. 2018 ([RU 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Aggiornato dal n. I dell’O dell’UFAM del 12 mar. 2020 ([RU 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)), dal n. II dell’O del 14 ott. 2020 ([RU 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)) e dal n. I dell’O del 12 feb. 2020, in vigore il 1° gen. 2021, la voce relativa all’acido perfluoroottanoico, i suoi sali e i composti precursori entra in vigore il 1° giu. 2021 ([RU 2020 807](https://fedlex.data.admin.ch/eli/oc/2020/148)).
+[^t-1]: Nuovo testo giusta il n. I dell’O dell’UFAM del 6 lug. 2018 ([RU 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Aggiornato dal n. I dell’O dell’UFAM del 12 mar. 2020 ([RU 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)), dal n. II dell’O del 14 ott. 2020 ([RU 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)), dal n. I dell’O del 12 feb. 2020, in vigore il 1° gen. 2021, la voce relativa all’acido perfluoroottanoico, i suoi sali e i composti precursori ([RU 2020 807](https://fedlex.data.admin.ch/eli/oc/2020/148)) e dal n. I dell’O dell’UFAM del 18 set. 2023, in vigore il 1° nov. 2023 ([RU 2023 539](https://fedlex.data.admin.ch/eli/oc/2023/539)).
 
 Le sostanze che in questa appendice sono contrassegnate con il simbolo # sono anche sostanze o componenti di formulati pesticidi altamente pericolosi soggetti alla procedura PIC (appendice 2).
 
@@ -405,7 +405,7 @@ Le sostanze che in questa appendice sono contrassegnate con il simbolo # sono an
 <tr><td>DDD</td><td>72-54-8</td><td></td></tr>
 <tr><td>DDE</td><td>72-55-9</td><td>Pesticida</td></tr>
 <tr><td>DDT #</td><td>50-29-3</td><td>Pesticida</td></tr>
-<tr><td>Decabromodifeniletere</td><td>1163-19-5</td><td>Prodotto chimico industriale</td></tr>
+<tr><td>Decabromodifeniletere #</td><td>1163-19-5</td><td>Prodotto chimico industriale</td></tr>
 <tr><td>Diazinone</td><td>333-41-5</td><td>Pesticida</td></tr>
 <tr><td>Diclobenil</td><td>1194-65-6</td><td>Pesticida</td></tr>
 <tr><td>Diclorvos</td><td>62-73-7</td><td>Pesticida</td></tr>
@@ -488,7 +488,7 @@ Le sostanze che in questa appendice sono contrassegnate con il simbolo # sono an
 <tr><td>Pentabromodifeniletere C<sub>12</sub>H<sub>5</sub>Br<sub>5</sub>O #</td><td>32534-81-9</td><td>Prodotto chimico industriale</td></tr>
 <tr><td>Pentaclorobenzene</td><td>608-93-5</td><td>Pesticida, prodotto chimico industriale</td></tr>
 <tr><td>Pentaclorofenolo e i suoi sali nonché i composti di pentaclorofenossici #</td><td>87-86-5</td><td>Pesticida, prodotto chimico industriale</td></tr>
-<tr><td>Acido perfluoroottanoico, i suoi sali e le sostanze correlate</td><td>335-67-1 e altri</td><td>Prodotto chimico industriale</td></tr>
+<tr><td>Acido perfluoroottanoico, i suoi sali e le sostanze correlate #</td><td>335-67-1 e altri</td><td>Prodotto chimico industriale</td></tr>
 <tr><td>Perfluorottano sulfonati (PFOS) C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>X (X = OH, sale metallico (O<sup>–</sup>M<sup>+</sup>), alogenuro, ammide, e altri derivati compresi i polimeri) #</td><td>1763-23-1 2795-39-3 e altri</td><td>Prodotto chimico industriale</td></tr>
 <tr><td>Permetrina</td><td>52645-53-1</td><td>Pesticida</td></tr>
 <tr><td>Pertano</td><td>72-56-0</td><td>Pesticida</td></tr>
@@ -546,91 +546,93 @@ Le sostanze che in questa appendice sono contrassegnate con il simbolo # sono an
 
 [^annex1-lvlu1-1]: Sono escluse le benzine con un contenuto di benzolo massimo pari all’1 per cento del volume utilizzate come carburanti in veicoli e aeromobili.
 
-Appendice 2*[^t-2]*
+Appendice 2[^t-2]
 
 (art. 2 cpv. 1 lett. b)
 
 ## Sostanze e formulati pesticidi altamente pericolosi soggetti alla procedura PIC
 
-[^t-2]: Nuovo testo giusta il n. I dell’O dell’UFAM del 6 lug. 2018 ([RU 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Aggiornato dal n. I dell’O dell’UFAM del 12 mar. 2020, in vigore dal 1° mag. 2020 ([RU 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)).
+[^t-2]: Nuovo testo giusta il n. I dell’O dell’UFAM del 6 lug. 2018 ([RU 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Aggiornato dal n. I delle O dell’UFAM del 12 mar. 2020 ([RU 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)) e del 18 set. 2023, in vigore il 1° nov. 2023 ([RU 2023 539](https://fedlex.data.admin.ch/eli/oc/2023/539)).
 
 (La presente appendice corrisponde all’allegato III della Convenzione PIC)
 
 <table>
-<tr><th>Sostanza/formulato pesticida altamente pericoloso</th><th colspan="4">Numero/i CAS rilevante/i</th><th>Categoria</th></tr>
-<tr><td>2,4,5-T e i suoi sali ed esteri</td><td colspan="4">93-76-5\*</td><td>Pesticida</td></tr>
-<tr><td>Alaclor</td><td colspan="4">15972-60-8</td><td>Pesticida</td></tr>
-<tr><td>Aldicarb</td><td colspan="4">116-06-3</td><td>Pesticida</td></tr>
-<tr><td>Aldrina</td><td colspan="4">309-00-2</td><td>Pesticida</td></tr>
-<tr><td>Azinfos-metile</td><td colspan="4">86-50-0</td><td>Pesticida</td></tr>
-<tr><td>Binapacril</td><td colspan="4">485-31-4</td><td>Pesticida</td></tr>
-<tr><td>Captafol</td><td colspan="4">2425-06-1</td><td>Pesticida</td></tr>
-<tr><td>Carbofuran</td><td colspan="4">1563-66-2</td><td>Pesticida</td></tr>
-<tr><td>Clordano</td><td colspan="4">57-74-9</td><td>Pesticida</td></tr>
-<tr><td>Clorodimeform</td><td colspan="4">6164-98-3</td><td>Pesticida</td></tr>
-<tr><td>Clorobenzilato</td><td colspan="4">510-15-6</td><td>Pesticida</td></tr>
-<tr><td>DDT</td><td colspan="4">50-29-3</td><td>Pesticida</td></tr>
-<tr><td>Dieldrina</td><td colspan="4">60-57-1</td><td>Pesticida</td></tr>
-<tr><td>Dinitro-*orto-*cresolo (DNOC) e i suoi sali (come il sale d’ammonio, il sale di potassio e il sale di sodio)</td><td colspan="4">534-52-1 2980-64-5 5787-96-2 2312-76-7</td><td>Pesticida</td></tr>
-<tr><td>Dinoseb e i suoi sali ed esteri</td><td colspan="4">88-85-7\*</td><td>Pesticida</td></tr>
-<tr><td>1,2-dibromoetano (EDB)</td><td colspan="4">106-93-4</td><td>Pesticida</td></tr>
-<tr><td>Endosulfano</td><td colspan="4">115-29-7</td><td>Pesticida</td></tr>
-<tr><td>1,2-dicloretano</td><td colspan="4">107-06-2</td><td>Pesticida</td></tr>
-<tr><td>Ossido d’etilene</td><td colspan="4">75-21-8</td><td>Pesticida</td></tr>
-<tr><td>Fluoroacetamide</td><td colspan="4">640-19-7</td><td>Pesticida</td></tr>
-<tr><td>HCH (isomeri misti)</td><td colspan="4">608-73-1</td><td>Pesticida</td></tr>
-<tr><td>Eptacloro</td><td colspan="4">76-44-8</td><td>Pesticida</td></tr>
-<tr><td>Esaclorobenzene</td><td colspan="4">118-74-1</td><td>Pesticida</td></tr>
-<tr><td>Lindano</td><td colspan="4">58-89-9</td><td>Pesticida</td></tr>
-<tr><td>Composti del mercurio, compresi i composti inorganici di mercurio, i composti alchilmercurici e i composti alchilossialchilici e arilmercurici</td><td colspan="4"></td><td>Pesticida</td></tr>
-<tr><td>Methamidophos</td><td colspan="4">10265-92-6</td><td>Pesticida</td></tr>
-<tr><td>Monocrotophos</td><td colspan="4">6923-22-4</td><td colspan="2">Pesticida</td></tr>
-<tr><td>Parathion</td><td colspan="4">56-38-2</td><td>Pesticida</td></tr>
-<tr><td>Pentaclorofenolo e i suoi sali ed esteri</td><td colspan="4">87-86-5\*</td><td>Pesticida</td></tr>
-<tr><td colspan="3">Forate</td><td colspan="2">298-02-2</td><td>Pesticida</td></tr>
-<tr><td>Toxafene</td><td colspan="4">8001-35-2</td><td>Pesticida</td></tr>
-<tr><td>Triclorfone</td><td colspan="4">52-68-6</td><td>Pesticida</td></tr>
-<tr><td>Formulati di polveri nebulizzabili che contengono una miscela:</td><td colspan="4"></td><td>Formulato pesticida altamente pericoloso</td></tr>
-<tr><td>– di benomile a una concentrazione uguale o superiore al 7 %</td><td colspan="4">17804-35-2</td><td></td></tr>
-<tr><td>– di carbofurano a una concentrazione uguale o superiore al 10 %</td><td colspan="4">1563-66-2</td><td></td></tr>
-<tr><td>– di tirame a una concentrazione uguale o superiore al 15 %</td><td colspan="4">137-26-8</td><td></td></tr>
-<tr><td>Phosphamidon (formulati liquidi solubili della sostanza con oltre 1000 g/l di ingrediente attivo)</td><td colspan="4">13171-21-6 (miscela, [E] e [Z]-isomeri) 23783-98-4 ([Z]-isomero) 297-99-4 ([E]-isomero)</td><td>Formulato pesticida altamente pericoloso</td></tr>
-<tr><td>Methylparathion (alcuni formulati di concentrati emulsionabili (EC) con il 19,5 % o più di ingrediente attivo e polveri contenenti l’1,5 % o più di ingrediente attivo)</td><td colspan="4">298-00-0</td><td>Formulato pesticida altamente pericoloso</td></tr>
-<tr><td>Amianto:</td><td colspan="4"></td><td>Prodotto chimico industriale</td></tr>
-<tr><td>– actinolite</td><td colspan="4">77536-66-4</td><td></td></tr>
-<tr><td>– antofillite</td><td colspan="4">77536-67-5</td><td></td></tr>
-<tr><td>– amosite</td><td colspan="4">12172-73-5</td><td></td></tr>
-<tr><td>– crocidolite</td><td colspan="4">12001-28-4</td><td></td></tr>
-<tr><td>– tremolite</td><td colspan="4">77536-68-6</td><td></td></tr>
-<tr><td>Ottabromodifeniletere commerciale, incluse le seguenti sostanze:</td><td colspan="4"></td><td>Prodotto chimico industriale</td></tr>
-<tr><td>– esabromodifeniletere</td><td colspan="4">36483-60-0</td><td></td></tr>
-<tr><td>– eptabromodifeniletere</td><td colspan="4">68928-80-3</td><td></td></tr>
-<tr><td>Pentabromodifeniletere commerciale, incluse le seguenti sostanze:</td><td colspan="4"></td><td>Prodotto chimico industriale</td></tr>
-<tr><td>– tetrabromodifeniletere</td><td colspan="4">40088-47-9</td><td></td></tr>
-<tr><td>– pentabromodifeniletere</td><td colspan="4">32534-81-9</td><td></td></tr>
-<tr><td colspan="2">Esabromociclododecano</td><td colspan="3">25637-99-4 3194-55-6 134237-50-6 134237-51-7 134237-52-8</td><td colspan="2">Prodotto chimico industriale</td></tr>
-<tr><td>Acido perfluorottano solfonico, perfluorottani sulfonati, perfluorottani sulfonamidi e perfluorottani sulfonili, incluse le seguenti sostanze:</td><td colspan="4"></td><td>Prodotto chimico industriale</td></tr>
-<tr><td>– acido perfluorottano solfonico</td><td colspan="4">1763-23-1</td><td></td></tr>
-<tr><td>– perfluorottano sulfonato di potassio</td><td colspan="4">2795-39-3</td><td></td></tr>
-<tr><td>– perfluorottano sulfonato di litio</td><td colspan="4">29457-72-5</td><td></td></tr>
-<tr><td>– perfluorottano sulfonato di ammonio</td><td colspan="4">29081-56-9</td><td></td></tr>
-<tr><td>– perfluorottano sulfonato di dietanolammonio</td><td colspan="4">70225-14-8</td><td></td></tr>
-<tr><td>– perfluorottano sulfonato di tetraetilammonio</td><td colspan="4">56773-42-3</td><td></td></tr>
-<tr><td>– perfluorottano sulfonato di didecildimetilammonio</td><td colspan="4">251099-16-8</td><td></td></tr>
-<tr><td>– N-etil perfluorottano sulfonamide</td><td colspan="4">4151-50-2</td><td></td></tr>
-<tr><td>– N-metil perfluorottano sulfonamide</td><td colspan="4">31506-32-8</td><td></td></tr>
-<tr><td>– N-etil-N-(2-idrossietil) perfluorottano sulfonamide</td><td colspan="4">1691-99-2</td><td></td></tr>
-<tr><td>– N-(2- idrossietil)-N- metilperfluorottano sulfonamide</td><td colspan="4">24448-09-7</td><td></td></tr>
-<tr><td>– fluoruro di perfluorottano sulfonile</td><td colspan="4">307-35-7</td><td></td></tr>
-<tr><td>Bifenili polibromurati (PBB)</td><td colspan="4">36355-01-8 (esa-) 27858-07-7 (otta-) 13654-09-6 (deca-)</td><td>Prodotto chimico industriale</td></tr>
-<tr><td>Bifenili policlorurati (PCB)</td><td colspan="4">1336-36-3</td><td>Prodotto chimico industriale</td></tr>
-<tr><td>Trifenili policlorurati (PCT)</td><td colspan="4">61788-33-8</td><td>Prodotto chimico industriale</td></tr>
-<tr><td>Paraffine clorurate a catena corta</td><td colspan="4">85535-84-8</td><td>Prodotto chimico industriale</td></tr>
-<tr><td>Piombo tetraetile</td><td colspan="4">78-00-2</td><td>Prodotto chimico industriale</td></tr>
-<tr><td>Piombo tetrametile</td><td colspan="4">75-74-1</td><td>Prodotto chimico industriale</td></tr>
-<tr><td>Fosfato di tris (2,3-dibromopropile)</td><td colspan="4">126-72-7</td><td>Prodotto chimico industriale</td></tr>
-<tr><td colspan="4">Tutti i composti del tributilstagno, compresi: – ossido di tributilstagno – fluoruro di tributilstagno – metacrilato di tributilstagno – benzoato di tributilstagno – cloruro di tributilstagno – linoleato di tributilstagno – naftenato di tributilstagno</td><td>56-35-9 1983-10-4 2155-70-6 4342-36-3 1461-22-9 24124-25-2 85409-17-2</td><td>Pesticida/ prodotto chimico industriale\*\*</td></tr>
-<tr><td colspan="6">\* Sono indicati solo i numeri CAS dei composti d’origine. Per ottenere un elenco degli altri numeri CAS adeguati, ci si potrà riferire al documento d’orientamento di decisione pertinente (Decision Guidance Document, DGD)[^annex2-lvlu1-1]. \*\* Tutti i composti del tributilstagno sono iscritti nell’appendice III della Convenzione PIC sia nella categoria «pesticida» sia nella categoria «prodotto chimico industriale». Dapprima questi prodotti chimici erano stati iscritti nell’appendice III nella categoria «pesticida» in seguito alla decisione RC-4/5 della Conferenza delle parti. L’emendamento all’appendice III è entrato in vigore il 1° febbraio 2009. Successivamente l’appendice III è stata modificata dalla decisione RC-8/5 della Conferenza delle Parti per includere tutti i composti di tributilstagno nella categoria «prodotto chimico industriale». Questa modifica è entrata in vigore il 15 settembre 2017.</td></tr>
+<tr><th>Sostanza/formulato pesticida altamente pericoloso</th><th colspan="2">Numero/i CAS rilevante/i</th><th>Categoria</th></tr>
+<tr><td>2,4,5-T e i suoi sali ed esteri</td><td colspan="2">93-76-5\*</td><td>Pesticida</td></tr>
+<tr><td>Alaclor</td><td colspan="2">15972-60-8</td><td>Pesticida</td></tr>
+<tr><td>Aldicarb</td><td colspan="2">116-06-3</td><td>Pesticida</td></tr>
+<tr><td>Aldrina</td><td colspan="2">309-00-2</td><td>Pesticida</td></tr>
+<tr><td>Azinfos-metile</td><td colspan="2">86-50-0</td><td>Pesticida</td></tr>
+<tr><td>Binapacril</td><td colspan="2">485-31-4</td><td>Pesticida</td></tr>
+<tr><td>Captafol</td><td colspan="2">2425-06-1</td><td>Pesticida</td></tr>
+<tr><td>Carbofuran</td><td colspan="2">1563-66-2</td><td>Pesticida</td></tr>
+<tr><td>Clordano</td><td colspan="2">57-74-9</td><td>Pesticida</td></tr>
+<tr><td>Clorodimeform</td><td colspan="2">6164-98-3</td><td>Pesticida</td></tr>
+<tr><td>Clorobenzilato</td><td colspan="2">510-15-6</td><td>Pesticida</td></tr>
+<tr><td>DDT</td><td colspan="2">50-29-3</td><td>Pesticida</td></tr>
+<tr><td>Dieldrina</td><td colspan="2">60-57-1</td><td>Pesticida</td></tr>
+<tr><td>Dinitro-*orto-*cresolo (DNOC) e i suoi sali (come il sale d’ammonio, il sale di potassio e il sale di sodio)</td><td colspan="2">534-52-1 2980-64-5 5787-96-2 2312-76-7</td><td>Pesticida</td></tr>
+<tr><td>Dinoseb e i suoi sali ed esteri</td><td colspan="2">88-85-7\*</td><td>Pesticida</td></tr>
+<tr><td>1,2-dibromoetano (EDB)</td><td colspan="2">106-93-4</td><td>Pesticida</td></tr>
+<tr><td>Endosulfano</td><td colspan="2">115-29-7</td><td>Pesticida</td></tr>
+<tr><td>1,2-dicloretano</td><td colspan="2">107-06-2</td><td>Pesticida</td></tr>
+<tr><td>Ossido d’etilene</td><td colspan="2">75-21-8</td><td>Pesticida</td></tr>
+<tr><td>Fluoroacetamide</td><td colspan="2">640-19-7</td><td>Pesticida</td></tr>
+<tr><td>HCH (isomeri misti)</td><td colspan="2">608-73-1</td><td>Pesticida</td></tr>
+<tr><td>Eptacloro</td><td colspan="2">76-44-8</td><td>Pesticida</td></tr>
+<tr><td>Esaclorobenzene</td><td colspan="2">118-74-1</td><td>Pesticida</td></tr>
+<tr><td>Lindano</td><td colspan="2">58-89-9</td><td>Pesticida</td></tr>
+<tr><td>Composti del mercurio, compresi i composti inorganici di mercurio, i composti alchilmercurici e i composti alchilossialchilici e arilmercurici</td><td colspan="2"></td><td>Pesticida</td></tr>
+<tr><td>Methamidophos</td><td colspan="2">10265-92-6</td><td>Pesticida</td></tr>
+<tr><td>Monocrotophos</td><td colspan="2">6923-22-4</td><td colspan="2">Pesticida</td></tr>
+<tr><td>Parathion</td><td colspan="2">56-38-2</td><td>Pesticida</td></tr>
+<tr><td>Pentaclorofenolo e i suoi sali ed esteri</td><td colspan="2">87-86-5\*</td><td>Pesticida</td></tr>
+<tr><td>Forate</td><td>298-02-2</td><td colspan="2">Pesticida</td></tr>
+<tr><td>Toxafene</td><td colspan="2">8001-35-2</td><td>Pesticida</td></tr>
+<tr><td>Triclorfone</td><td colspan="2">52-68-6</td><td>Pesticida</td></tr>
+<tr><td>Formulati di polveri nebulizzabili che contengono una miscela:</td><td colspan="2"></td><td>Formulato pesticida altamente pericoloso</td></tr>
+<tr><td>– di benomile a una concentrazione uguale o superiore al 7 %</td><td colspan="2">17804-35-2</td><td></td></tr>
+<tr><td>– di carbofurano a una concentrazione uguale o superiore al 10 %</td><td colspan="2">1563-66-2</td><td></td></tr>
+<tr><td>– di tirame a una concentrazione uguale o superiore al 15 %</td><td colspan="2">137-26-8</td><td></td></tr>
+<tr><td>Phosphamidon (formulati liquidi solubili della sostanza con oltre 1000 g/l di ingrediente attivo)</td><td colspan="2">13171-21-6 (miscela, [E] e [Z]-isomeri) 23783-98-4 ([Z]-isomero) 297-99-4 ([E]-isomero)</td><td>Formulato pesticida altamente pericoloso</td></tr>
+<tr><td>Methylparathion (alcuni formulati di concentrati emulsionabili (EC) con il 19,5 % o più di ingrediente attivo e polveri contenenti l’1,5 % o più di ingrediente attivo)</td><td colspan="2">298-00-0</td><td>Formulato pesticida altamente pericoloso</td></tr>
+<tr><td>Amianto:</td><td colspan="2"></td><td>Prodotto chimico industriale</td></tr>
+<tr><td>– actinolite</td><td colspan="2">77536-66-4</td><td></td></tr>
+<tr><td>– antofillite</td><td colspan="2">77536-67-5</td><td></td></tr>
+<tr><td>– amosite</td><td colspan="2">12172-73-5</td><td></td></tr>
+<tr><td>– crocidolite</td><td colspan="2">12001-28-4</td><td></td></tr>
+<tr><td>– tremolite</td><td colspan="2">77536-68-6</td><td></td></tr>
+<tr><td>Ottabromodifeniletere commerciale, incluse le seguenti sostanze:</td><td colspan="2"></td><td>Prodotto chimico industriale</td></tr>
+<tr><td>– esabromodifeniletere</td><td colspan="2">36483-60-0</td><td></td></tr>
+<tr><td>– eptabromodifeniletere</td><td colspan="2">68928-80-3</td><td></td></tr>
+<tr><td>Pentabromodifeniletere commerciale, incluse le seguenti sostanze:</td><td colspan="2"></td><td>Prodotto chimico industriale</td></tr>
+<tr><td>– tetrabromodifeniletere</td><td colspan="2">40088-47-9</td><td></td></tr>
+<tr><td>– pentabromodifeniletere</td><td colspan="2">32534-81-9</td><td></td></tr>
+<tr><td>Decabromodifeniletere</td><td colspan="2">1163-19-5</td><td colspan="2">Prodotto chimico industriale</td></tr>
+<tr><td>Esabromociclododecano</td><td colspan="2">25637-99-4 3194-55-6 134237-50-6 134237-51-7 134237-52-8</td><td colspan="2">Prodotto chimico industriale</td></tr>
+<tr><td>Acido perfluorottano solfonico, perfluorottani sulfonati, perfluorottani sulfonamidi e perfluorottani sulfonili, incluse le seguenti sostanze:</td><td colspan="2"></td><td>Prodotto chimico industriale</td></tr>
+<tr><td>– acido perfluorottano solfonico</td><td colspan="2">1763-23-1</td><td></td></tr>
+<tr><td>– perfluorottano sulfonato di potassio</td><td colspan="2">2795-39-3</td><td></td></tr>
+<tr><td>– perfluorottano sulfonato di litio</td><td colspan="2">29457-72-5</td><td></td></tr>
+<tr><td>– perfluorottano sulfonato di ammonio</td><td colspan="2">29081-56-9</td><td></td></tr>
+<tr><td>– perfluorottano sulfonato di dietanolammonio</td><td colspan="2">70225-14-8</td><td></td></tr>
+<tr><td>– perfluorottano sulfonato di tetraetilammonio</td><td colspan="2">56773-42-3</td><td></td></tr>
+<tr><td>– perfluorottano sulfonato di didecildimetilammonio</td><td colspan="2">251099-16-8</td><td></td></tr>
+<tr><td>– N-etil perfluorottano sulfonamide</td><td colspan="2">4151-50-2</td><td></td></tr>
+<tr><td>– N-metil perfluorottano sulfonamide</td><td colspan="2">31506-32-8</td><td></td></tr>
+<tr><td>– N-etil-N-(2-idrossietil) perfluorottano sulfonamide</td><td colspan="2">1691-99-2</td><td></td></tr>
+<tr><td>– N-(2- idrossietil)-N- metilperfluorottano sulfonamide</td><td colspan="2">24448-09-7</td><td></td></tr>
+<tr><td>– fluoruro di perfluorottano sulfonile</td><td colspan="2">307-35-7</td><td></td></tr>
+<tr><td>Acido perfluoroottanoico (PFOA), i suoi sali e i composti correlati, comprese: – tutte le sostanze correlate nonché i loro sali e polimeri con un gruppo perfluoroeptil lineare o ramificato con la formula C<sub>7</sub>F<sub>15</sub>- direttamente collegato a un altro atomo di carbonio come elemento strutturale, – tutte le sostanze correlate nonché i loro sali e polimeri con un gruppo perfluoroottil lineare o ramificato con la formula C<sub>8</sub>F<sub>17</sub>- come elemento strutturale; esclusi: − i composti con la formula C<sub>8</sub>F<sub>17</sub>-X, dove X = F, CI, Br, − i composti con la formula C<sub>8</sub>F<sub>17</sub>-C(=O)OH, C<sub>8</sub>F<sub>17</sub>-C(=O)O-X′ oppure C<sub>8</sub>F<sub>17</sub>-CF<sub>2</sub>-X′ (dove X′ designa un qualsivoglia gruppo, compresi alcuni sali), − l’acido perfluorottano solfonico (PFOS) e i suoi derivati; (C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>X (dove X = OH, sale metallico (O-M+), alogenuro, ammide e altri derivati, compresi i polimeri).</td><td colspan="2">335-67-1</td><td>Prodotto chimico industriale</td></tr>
+<tr><td>Bifenili polibromurati (PBB)</td><td colspan="2">36355-01-8 (esa-) 27858-07-7 (otta-) 13654-09-6 (deca-)</td><td>Prodotto chimico industriale</td></tr>
+<tr><td>Bifenili policlorurati (PCB)</td><td colspan="2">1336-36-3</td><td>Prodotto chimico industriale</td></tr>
+<tr><td>Trifenili policlorurati (PCT)</td><td colspan="2">61788-33-8</td><td>Prodotto chimico industriale</td></tr>
+<tr><td>Paraffine clorurate a catena corta</td><td colspan="2">85535-84-8</td><td>Prodotto chimico industriale</td></tr>
+<tr><td>Piombo tetraetile</td><td colspan="2">78-00-2</td><td>Prodotto chimico industriale</td></tr>
+<tr><td>Piombo tetrametile</td><td colspan="2">75-74-1</td><td>Prodotto chimico industriale</td></tr>
+<tr><td>Fosfato di tris (2,3-dibromopropile)</td><td colspan="2">126-72-7</td><td>Prodotto chimico industriale</td></tr>
+<tr><td>Tutti i composti del tributilstagno, compresi: – ossido di tributilstagno – fluoruro di tributilstagno – metacrilato di tributilstagno – benzoato di tributilstagno – cloruro di tributilstagno – linoleato di tributilstagno – naftenato di tributilstagno</td><td>56-35-9 1983-10-4 2155-70-6 4342-36-3 1461-22-9 24124-25-2 85409-17-2</td><td colspan="2">Pesticida/ prodotto chimico industriale\*\*</td></tr>
+<tr><td colspan="4">\* Sono indicati solo i numeri CAS dei composti d’origine. Per ottenere un elenco degli altri numeri CAS adeguati, ci si potrà riferire al documento d’orientamento di decisione pertinente (Decision Guidance Document, DGD)[^annex2-lvlu1-1]. \*\* Tutti i composti del tributilstagno sono iscritti nell’appendice III della Convenzione PIC sia nella categoria «pesticida» sia nella categoria «prodotto chimico industriale». Dapprima questi prodotti chimici erano stati iscritti nell’appendice III nella categoria «pesticida» in seguito alla decisione RC-4/5 della Conferenza delle parti. L’emendamento all’appendice III è entrato in vigore il 1° febbraio 2009. Successivamente l’appendice III è stata modificata dalla decisione RC-8/5 della Conferenza delle Parti per includere tutti i composti di tributilstagno nella categoria «prodotto chimico industriale». Questa modifica è entrata in vigore il 15 settembre 2017.</td></tr>
 </table>
 
 [^annex2-lvlu1-1]: I testi di questi documenti sono ottenibili a pagamento presso l’UFAM, 3003 Berna, o possono essere consultati gratuitamente sul sito Internet: www.pic.int &gt; The Convention &gt; Chemicals.

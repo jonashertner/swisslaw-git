@@ -4,11 +4,11 @@ title: "Ordonnance du 10 novembre 2004 relative à la Convention de Rotterdam su
 short: OPICChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/725"
 language: fr
-version: 2022-01-01
+version: 2023-11-01
 adopted: 2004-11-10
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/725/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-725-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/725/20231101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-725-20231101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20231101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20220101/fr"
 
 (Ordonnance PIC, OPICChim)
 
-du 10 novembre 2004 (Etat le 1<sup>er</sup> janvier 2022)
+du 10 novembre 2004 (État le 1<sup>er</sup> novembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -159,7 +159,7 @@ Toute personne qui exporte une substance ou une préparation dangereuse au sens 
 
 - b. fournir à tout destinataire une fiche de données de sécurité sur laquelle figurent les informations les plus récentes qui soient à disposition.[^5-3]
 
-<sup>2</sup> ...[^5-4]
+<sup>2</sup> …[^5-4]
 
 <sup>3</sup> L’étiquetage au sens de l’al. 1 et la fiche de données de sécurité doivent être libellés dans au moins une des langues officielles de la Partie importatrice, dans la mesure où cela est raisonnablement réalisable. Dans les autres cas, il y a lieu de choisir la langue étrangère la plus répandue dans le pays d’importation.
 
@@ -266,7 +266,7 @@ L’OFEV accuse réception d’une notification d’exportation émanant d’une
 
 **Décision d’importation, réponse provisoire**
 
-<sup>1</sup> Si une substance ou une préparation pesticide extrêmement dangereuse est ajoutée à l’annexe III de la Convention PIC, l’OFEV transmet la décision d’importation ou la réponse provisoire (dans les deux cas: « réponse ») de la Suisse au Secrétariat PIC dans les neuf mois au plus tard après réception du document d’orientation des décisions visé à l’art. 7 de la Convention PIC.[^14-1]
+<sup>1</sup> Si une substance ou une préparation pesticide extrêmement dangereuse est ajoutée à l’annexe III de la Convention PIC, l’OFEV transmet la décision d’importation ou la réponse provisoire (dans les deux cas: «réponse») de la Suisse au Secrétariat PIC dans les neuf mois au plus tard après réception du document d’orientation des décisions visé à l’art. 7 de la Convention PIC.[^14-1]
 
 <sup>2</sup> La réponse est établie d’entente avec les offices fédéraux dont les domaines de compétence sont concernés.
 
@@ -287,9 +287,9 @@ L’OFEV publie sur son site Internet[^15-1]:
 
 <sup>3</sup> Il adapte l’annexe 2 en fonction des modifications de l’annexe III de la Convention PIC et ajoute à l’annexe 1 les annotations correspondantes.
 
-[^15-1]: www.bafu.admin.ch &gt; Thèmes A-Z &gt; Produits chimiques &gt; Informations pour spécialistes &gt; Dispositions et procédures &gt; PIC
+[^15-1]: [www.bafu.admin.ch](http://www.bafu.admin.ch) &gt; Thèmes A-Z &gt; Produits chimiques &gt; Informations pour spécialistes &gt; Dispositions et procédures &gt; PIC
 [^15-2]: Nouvelle teneur selon le ch. I de l’O du 22 mars 2017, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 2593](https://fedlex.data.admin.ch/eli/oc/2017/247)).
-[^15-3]: La liste des Parties liées par la Convention PIC peut être commandée contre facture ou consultée gratuitement auprès de l’OFEV, 3003 Berne; elle peut également être consultée à l’adresse suivante: www.pic.int/les pays.
+[^15-3]: La liste des Parties liées par la Convention PIC peut être commandée contre facture ou consultée gratuitement auprès de l’OFEV, 3003 Berne; elle peut également être consultée à l’adresse suivante: [www.pic.int](http://www.pic.int) &gt; Les pays.
 
 ## Section 4 Dispositions finales
 
@@ -327,13 +327,13 @@ Le régime et le calcul des émoluments pour les actes administratifs accomplis 
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2005.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 2, al. 1, let. a)
 
 ## Substances interdites ou strictement réglementées en Suisse
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OFEV du 6 juil. 2018 ([RO 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Mise à jour par le ch. I de l’O de l’OFEV du 12 mars 2020 ([RO 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)), le ch. II de l’O du 14 oct. 2020 ([RO 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)) et le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021, l’entrée «Acide pentadécafluorooctanoïque, ses sels et ses substances apparentées» entrant en vigueur le 1<sup>er</sup> juin 2021 ([RO 2020 807](https://fedlex.data.admin.ch/eli/oc/2020/148)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OFEV du 6 juil. 2018 ([RO 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Mise à jour par le ch. I de l’O de l’OFEV du 12 mars 2020 ([RO 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)), le ch. II de l’O du 14 oct. 2020 ([RO 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)), le ch. I de l’O du 12 fév. 2020 ([RO 2020 807](https://fedlex.data.admin.ch/eli/oc/2020/148)) et le ch. I de l’O de l’OFEV du 18 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 539](https://fedlex.data.admin.ch/eli/oc/2023/539)).
 
 Les substances suivies du symbole # sont simultanément des substances ou des composants de préparations pesticides extrêmement dangereuses soumises à la procédure PIC (annexe 2).
 
@@ -411,7 +411,7 @@ Les substances suivies du symbole # sont simultanément des substances ou des co
 <tr><td>DDD</td><td>72-54-8</td><td></td></tr>
 <tr><td>DDE</td><td>72-55-9</td><td>Pesticide</td></tr>
 <tr><td>DDT #</td><td>50-29-3</td><td>Pesticide</td></tr>
-<tr><td>Décabromodiphényléther</td><td>1163-19-5</td><td>Produit à usage industriel</td></tr>
+<tr><td>Décabromodiphényléther #</td><td>1163-19-5</td><td>Produit à usage industriel</td></tr>
 <tr><td>Diazinon</td><td>333-41-5</td><td>Pesticide</td></tr>
 <tr><td>Dichlobénil</td><td>1194-65-6</td><td>Pesticide</td></tr>
 <tr><td>Dichlorvos</td><td>62-73-7</td><td>Pesticide</td></tr>
@@ -494,7 +494,7 @@ Les substances suivies du symbole # sont simultanément des substances ou des co
 <tr><td>Pentabromodiphényléther C<sub>12</sub>H<sub>5</sub>Br<sub>5</sub>O #</td><td>32534-81-9</td><td>Produit à usage industriel</td></tr>
 <tr><td>Pentachlorobenzène</td><td>608-93-5</td><td>Pesticide, produit à usage industriel</td></tr>
 <tr><td>Pentachlorophénol et ses sels et composés de pentachlorophénoxy #</td><td>87-86-5</td><td>Pesticide, produit à usage industriel</td></tr>
-<tr><td>Acide pentadécafluorooctanoïque, ses sels et ses substances apparentées</td><td>335-67-1 et autres</td><td>Produit à usage industriel</td></tr>
+<tr><td>Acide pentadécafluorooctanoïque, ses sels et ses substances apparentées #</td><td>335-67-1 et autres</td><td>Produit à usage industriel</td></tr>
 <tr><td>Sulfonates de perfluorooctane (PFOS) C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>X (X = OH, sel métallique [O<sup>–</sup>M<sup>+</sup>], halogénure, amide ou autres dérivés, y compris les polymères) #</td><td>1763-23-1 2795-39-3 et autres</td><td>Produit à usage industriel</td></tr>
 <tr><td>Perméthrine</td><td>52645-53-1</td><td>Pesticide</td></tr>
 <tr><td>Perthane</td><td>72-56-0</td><td>Pesticide</td></tr>
@@ -552,13 +552,13 @@ Les substances suivies du symbole # sont simultanément des substances ou des co
 
 [^annex1-lvlu1-1]: Ne s’applique pas à l’essence contenant moins de 1 % vol. de benzène et destinée à être employée comme carburant pour des véhicules ou des aéronefs.
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 2, al. 1, let. b)
 
 ## Substances et préparations pesticides extrêmement dangereuses soumises à la procédure PIC
 
-[^t-2]: Nouvelle teneur selon le ch. I de l’O de l’OFEV du 6 juil. 2018 ([RO 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Mise à jour par le ch. I de l’O de l’OFEV du 12 mars 2020, en vigueur depuis le 1<sup>er</sup> mai 2020 ([RO 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)).
+[^t-2]: Nouvelle teneur selon le ch. I de l’O de l’OFEV du 6 juil. 2018 ([RO 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Mise à jour par le ch. I des O de l’OFEV du 12 mars 2020 ([RO 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)) et du 18 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 539](https://fedlex.data.admin.ch/eli/oc/2023/539)).
 
 (Annexe identique à l’annexe III de la Convention PIC)
 
@@ -614,6 +614,7 @@ Annexe 2*[^t-2]*
 <tr><td>Pentabromodiphényléther commercial, y compris les substances suivantes:</td><td></td><td>Produit à usage industriel</td></tr>
 <tr><td>– tétrabromodiphényléther</td><td>40088-47-9</td><td></td></tr>
 <tr><td>– pentabromodiphényléther</td><td>32534-81-9</td><td></td></tr>
+<tr><td>Décabromodiphényléther</td><td>1163-19-5</td><td>Produit à usage industriel</td></tr>
 <tr><td>[tab] Hexabromocyclododécane</td><td>25637-99-4 3194-55-6 134237-50-6 134237-51-7 134237-52-8</td><td>Produit à usage industriel</td></tr>
 <tr><td>Acide perfluorooctane sulfonique, perfluorooctane sulfonates, perfluorooctane sulfonamides et perfluorooctane sulfonyles, y compris les substances suivantes:</td><td></td><td>Produit à usage industriel</td></tr>
 <tr><td>– acide perfluorooctane sulfonique</td><td>1763-23-1</td><td></td></tr>
@@ -628,6 +629,7 @@ Annexe 2*[^t-2]*
 <tr><td>– N-éthyl-N-(2-hydroxyéthyl) perfluorooctane sulfonamide</td><td>1691-99-2</td><td></td></tr>
 <tr><td>– N-(2-hydroxyéthyl)-N-méthylperfluorooctane sulfonamide</td><td>24448-09-7</td><td></td></tr>
 <tr><td>– fluorure de perfluorooctane sulfonyle</td><td>307-35-7</td><td></td></tr>
+<tr><td>Acide perfluorooctanoïque (APFO), ses sels et les composés apparentés, y compris les substances suivantes:  tout composé apparenté y compris ses sels et polymères dont l’un des éléments structurels est un groupe perfluoroheptyle linéaire ou ramifié de formule C<sub>7</sub>F<sub>15</sub>- directement rattaché à un autre atome de carbone,  tout composé apparenté y compris ses sels et polymères dont l’un des éléments structurels est un groupe perfluorooctyle linéaire ou ramifié de formule C<sub>8</sub>F<sub>17</sub>-; Les substances exclues sont les suivantes:  les composés de formule C<sub>8</sub>F<sub>17</sub>-X, où X = F, Cl, Br,  les composés de formule C<sub>8</sub>F<sub>17</sub>-C(=O)OH, C<sub>8</sub>F<sub>17</sub>-C(=O)O-X′ ou C<sub>8</sub>F<sub>17</sub>-CF<sub>2</sub>-X′ (où X′ désigne un groupe quelconque, y compris des sels),  l’acide perfluorooctane sulfonique (SPFO) et ses dérivés; (C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>X (X = OH, sel métallique (O-M+), halogénure, amide, et autres dérivés y compris les polymères)).</td><td>335-67-1</td><td>Produit à usage industriel</td></tr>
 <tr><td>Biphényles polybromés (PBB)</td><td>36355-01-8 (hexa-) 27858-07-7 (octa-) 13654-09-6 (deca-)</td><td>Produit à usage industriel</td></tr>
 <tr><td>Biphényles polychlorés (PCB)</td><td>1336-36-3</td><td>Produit à usage industriel</td></tr>
 <tr><td>Terphényles polychlorés (PCT)</td><td>61788-33-8</td><td>Produit à usage industriel</td></tr>
@@ -640,4 +642,4 @@ Annexe 2*[^t-2]*
 <tr><td colspan="3">\* Seuls les numéros du service des résumés analytiques de chimie des composés parents sont indiqués. Pour avoir une liste des autres numéros appropriés du service des résumés analytiques de chimie, on pourra se référer au document d’orientation de décision pertinent[^annex2-lvlu1-1]. \*\* Tous les composés du tributylétain sont inscrits à l’annexe III de la Convention PIC dans la catégorie «pesticide» ainsi que la catégorie «produit à usage industriel». Ces produits chimiques ont d’abord été inscrit à l’annexe III dans la catégorie «pesticide» par la décision RC-4/5 de la Conférence des Parties. L’amendement à l’annexe III est entré en vigueur le 1<sup>er</sup> février 2009. L’annexe III a ensuite été amendée par la décision RC-8/5 de la Conférence des Parties pour inclure tous les composés du tributylétain dans la catégorie «produit à usage industriel», avec l’entrée en vigueur de cet amendement le 15 septembre 2017.</td></tr>
 </table>
 
-[^annex2-lvlu1-1]: Ces documents peuvent être obtenus contre paiement auprès de l’Office fédéral de l’environnement, 3003 Berne, ou être consultés gratuitement à l’adresse Internet www.pic.int &gt; La convention &gt; Produits chimiques.
+[^annex2-lvlu1-1]: Ces documents peuvent être obtenus contre paiement auprès de l’Office fédéral de l’environnement, 3003 Berne, ou être consultés gratuitement à l’adresse Internet [www.pic.int](http://www.pic.int) &gt; La convention &gt; Produits chimiques.
