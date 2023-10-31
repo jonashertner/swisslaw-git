@@ -4,10 +4,10 @@ number: "415.441"
 title: Organisationsreglement der Vetsuisse-Fakultät der Universität Zürich (OrgR VSF)
 short: OrgR VSF
 language: de
-nachtrag: "117"
-valid_until: 2023-11-01
+version: "2023-11-01"
+nachtrag: "123"
 adopted: 2021-10-06
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_441-2021_10_06-2022_07_01-117.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_441-2021_10_06-2022_07_01-123.html"
 text: pdf
 ---
 
@@ -62,7 +62,7 @@ beschliesst:
 
 **1**
 
-- 1\. 7. 22 - 117 § 4. <sup>1</sup> Das Standortdekanat unterstützt die Standortdekanin oder den Standortdekan sowie die übrigen Standortfakultätsorgane bei der Erfüllung ihrer Aufgaben.
+- 1\. 1. 24 - 123 § 4. <sup>1</sup> Das Standortdekanat unterstützt die Standortdekanin oder den Standortdekan sowie die übrigen Standortfakultätsorgane bei der Erfüllung ihrer Aufgaben.
 
 **Standortdekanat**
 
@@ -120,7 +120,14 @@ beschliesst:
 
 <sup>4</sup> Die Organisationseinheiten gemäss Abs. 2 behalten ihre bisherige Bezeichnung als Institute bei.
 
+**One Health Institute**
+
+§ 5 a.[^5-2] <sup>1</sup> Das One Health Institute ist als fakultätsübergreifendes Institut mehrerer Fakultäten administrativ der Vetsuisse-Fakultät zugeordnet.
+
+<sup>2</sup> Die Organisation des One Health Institute ist in der Institutsordnung des One Health Institute vom 18. April 2023 geregelt.
+
 [^5-1]: LS 415.447.
+[^5-2]: Eingefügt durch B vom 10. Mai 2023 (OS 78, 395; ABl 2023-09-01). In Kraft seit 1. November 2023. 1. 1. 24 - 123 13
 
 ### B. Standortfakultätsversammlung
 
@@ -140,15 +147,11 @@ beschliesst:
 
 <sup>6</sup> Die Standortdekanin oder der Standortdekan kann nach Bedarf weitere Sachverständige mit beratender Stimme oder als Gäste zu den Sitzungen oder zu einzelnen Traktanden beiziehen.
 
-#### § 7
-
-**Aufgaben**
-
-<sup>1</sup> Der Standortfakultätsversammlung obliegt die Antragstellung zuhanden der Universitätsleitung in Bezug auf die Schaffung, Umwandlung, Aufhebung und Umbenennung von Lehrstühlen, Instituten und anderen Organisationseinheiten der Standortfakultät, sofern nicht die Berufung, Beförderung und Entlassung von Professorinnen und Professoren betroffen sind.
-
 **3**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 24 - 123 § 7. <sup>1</sup> Der Standortfakultätsversammlung obliegt die Antragstellung zuhanden der Universitätsleitung in Bezug auf die Schaffung, Umwandlung, Aufhebung und Umbenennung von Lehrstühlen, Instituten und anderen Organisationseinheiten der Standortfakultät, sofern nicht die Berufung, Beförderung und Entlassung von Professorinnen und Professoren betroffen sind.
+
+**Aufgaben**
 
 <sup>2</sup> Sie ist unter Vorbehalt der Genehmigung durch die Erweiterte Universitätsleitung zuständig für den Erlass a. des Organisationsreglements der Standortfakultät,
 
@@ -160,7 +163,7 @@ beschliesst:
 
 - b. die Wahl der Mitglieder der Findungskommission für die Wahl der Dekanin oder des Dekans gemäss § 12 Abs. 1,
 
-- c. die Abordnung der Vertreterinnen und Vertreter der Standortfakultät in die Vetsuisse-Fakultätsversammlung der Vetsuisse-Fakultät der Universitäten Zürich und Bern gemäss §§ 2 und 3 des Fakultätsreglements[^7-1] unter Beachtung
+- c. die Abordnung der Vertreterinnen und Vertreter der Standortfakultät in die Vetsuisse-Fakultätsversammlung der Vetsuisse-Fakultät der Universitäten Zürich und Bern gemäss §§ 2 und 3 des Fakultätsreglements[^6-1] unter Beachtung
 
 - 1\. der angemessenen Vertretung der Bereiche Präklinik, Paraklinik und Universitäres Tierspital,
 
@@ -172,7 +175,7 @@ beschliesst:
 
 - f. die Schaffung ständiger und nichtständiger Standortfakultätskommissionen sowie deren Zusammensetzung,
 
-- g. die Wahl der Mitglieder der Standortfakultätskommissionen und ihrer Präsidentinnen und Präsidenten; sind Standesdelegierte zu wählen, gelten die massgebenden Bestimmungen des Reglements für die Wahl der Delegierten der Stände in die Organe und weitere Gremien der Universität Zürich vom 3. Dezember 2019 (Wahlreglement)[^7-2],
+- g. die Wahl der Mitglieder der Standortfakultätskommissionen und ihrer Präsidentinnen und Präsidenten; sind Standesdelegierte zu wählen, gelten die massgebenden Bestimmungen des Reglements für die Wahl der Delegierten der Stände in die Organe und weitere Gremien der Universität Zürich vom 3. Dezember 2019 (Wahlreglement)[^6-2],
 
 - h. die Genehmigung der Geschäftsordnungen von fakultären Kommissionen,
 
@@ -180,8 +183,8 @@ beschliesst:
 
 - j. den Erlass von fakultären Reglementen und Richtlinien.
 
-[^7-1]: https://www.vetsuisse.ch/wp-content/uploads/2013/04/Vetsuisse-Fakultaetsreglement\_20130306.pdf 1. 7. 22 - 117 13
-[^7-2]: LS 415.111.2.
+[^6-1]: https://www.vetsuisse.ch/wp-content/uploads/2013/04/Vetsuisse-Fakultaetsreglement\_20130306.pdf
+[^6-2]: LS 415.111.2.
 
 ### C. Standortdekanin oder Standortdekan
 
@@ -233,7 +236,7 @@ beschliesst:
 
 **5**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 24 - 123
 
 <sup>2</sup> Der Standortdekanin oder dem Standortdekan obliegt überdies die Antragstellung zuhanden der Universitätsleitung, insbesondere in Bezug auf:
 
@@ -305,7 +308,7 @@ beschliesst:
 
 **7**
 
-- 1\. 7. 22 - 117 § 14. <sup>1</sup> Die Amtsdauer der Mitglieder des Standortfakultätsvorstands gemäss § 10 Abs. 1 lit. a–c beträgt vier Jahre. Wiederwahl ist möglich.
+- 1\. 1. 24 - 123 § 14. <sup>1</sup> Die Amtsdauer der Mitglieder des Standortfakultätsvorstands gemäss § 10 Abs. 1 lit. a–c beträgt vier Jahre. Wiederwahl ist möglich.
 
 **Amtsdauer, Amtsantritt**
 
@@ -393,7 +396,7 @@ Einladungen und Tagesordnung für die Standortfakultätsversammlung sind in der 
 
 **9**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 24 - 123
 
 ### B. Abstimmungen und Wahlen
 
@@ -477,7 +480,7 @@ Einladungen und Tagesordnung für die Standortfakultätsversammlung sind in der 
 
 **11**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 24 - 123
 
 ### 4. Abschnitt: Veterinärwissenschaftliches Institut
 
