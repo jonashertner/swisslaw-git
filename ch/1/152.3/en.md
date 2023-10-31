@@ -4,11 +4,11 @@ title: "Federal Act of 17 December 2004 on Freedom of Information in the Adminis
 short: FoIA
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/355"
 language: en
-version: 2023-09-01
+version: 2023-11-01
 adopted: 2004-12-17
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/355/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2006-355-20230901-en-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/355/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/355/20231101/en/xml/fedlex-data-admin-ch-eli-cc-2006-355-20231101-en-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/355/20231101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Freedom of Information Act, FoIA)
 
-of 17 December 2004 (Status as of 1 September 2023)
+of 17 December 2004 (Status as of 1 November 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -100,7 +100,7 @@ Special provisions contained in other Federal Acts are reserved where they:
 
 #### Art. 5
 
-**Official Documents**
+**Official documents**
 
 <sup>1</sup>
 
@@ -228,17 +228,18 @@ The Federal Council shall enact regulations governing the particulars of this pr
 
 <sup>1</sup>
 
-A request for mediation may be filed by any person:
+A request for mediation may be filed by any person:[^13-1]
 
 - a. whose access to official documents has been restricted, deferred or refused;
 - b. whose application was not decided by the authority within the deadline;
 - c. who was consulted pursuant to Article 11, should the authority intend granting access contrary to his or her wishes.
 
-<sup>2</sup> The request for mediation must be filed in writing with the Federal Data Protection and Information Commissioner (FDPIC) within 20 days of receipt of the decision from the authority or the date of the authority’s failure to comply with the deadline.[^13-1]
+<sup>2</sup> The request for mediation must be filed in writing with the Federal Data Protection and Information Commissioner (FDPIC) within 20 days of receipt of the decision from the authority or the date of the authority’s failure to comply with the deadline.[^13-2]
 
 <sup>3</sup> If a settlement is reached through mediation, the proceedings are deemed to be concluded.
 
-[^13-1]: Amended by Annex 1 No II 10 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13-1]: The correction of 30 Sept. 2022, published on 25 Sept. 2023, relates to the Italian text only (AS 2023 538).
+[^13-2]: Amended by Annex 1 No II 10 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 14
 
@@ -274,27 +275,24 @@ Furthermore, the authority shall issue a ruling, where, contrary to the recommen
 
 <sup>2</sup> The appeal instances shall also have access to official documents which are secret.
 
-[^16-1]: Amended by Annex No 7 the Federal Administrative Court Act of 17June 2005, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^16-1]: Amended by Annex No 7 the Federal Administrative Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 17
 
-**Fees**
+**Access to official documents free of charge[^17-1]**
 
-<sup>1</sup> Access to official documents is normally subject to payment of a fee.[^17-1]
+<sup>1</sup> No fees are charged in the procedure for access to official documents.[^17-2]
 
-<sup>2</sup>
+<sup>2</sup> By way of exception, fees may be charged if an application for access requires particularly extensive processing. The Federal Council shall regulate the details and fee rates on the basis of the effective costs incurred. The applicant shall be notified in advance of any intention of the authority to charge a fee and of the amount of the fee.[^17-3]
 
-No fee is charged for:
-
-- a. the processing of an application which gives rise to minimal costs;
-- b. mediation proceedings (Art. 13); and
-- c. proceedings relating to the issuing of a ruling (Art. 15).
-
-<sup>3</sup> The Federal Council shall regulate the details and fee rates on the basis of the effective costs incurred. Specific provisions set out in other legislation are reserved.
+<sup>3</sup> No fees are charged in any cases of mediation proceedings (Art. 13) or proceedings for the issue of a ruling (Art. 15).[^17-4]
 
 <sup>4</sup> Fees may, in all cases, be charged for providing reports, brochures and other printed material and information carriers.
 
-[^17-1]: The correction of 19 Aug. 2014 relates to the Italian text only ([AS 2014 2599](https://fedlex.data.admin.ch/eli/oc/2014/453)).
+[^17-1]: Amended by No I of the FA of 30 Sept. 2022, in force since 1 Nov. 2023 ([AS 2023 584](https://fedlex.data.admin.ch/eli/oc/2023/584); BBL **2020** 8337, 9369).
+[^17-2]: Amended by No I of the FA of 30 Sept. 2022, in force since 1 Nov. 2023 ([AS 2023 584](https://fedlex.data.admin.ch/eli/oc/2023/584); BBL **2020** 8337, 9369).
+[^17-3]: Amended by No I of the FA of 30 Sept. 2022, in force since 1 Nov. 2023 ([AS 2023 584](https://fedlex.data.admin.ch/eli/oc/2023/584); BBL **2020** 8337, 9369).
+[^17-4]: Amended by No I of the FA of 30 Sept. 2022, in force since 1 Nov. 2023 ([AS 2023 584](https://fedlex.data.admin.ch/eli/oc/2023/584); BBL **2020** 8337, 9369).
 
 ## Section 4 The FDPIC
 
@@ -356,6 +354,14 @@ Amendments to existing legislation are regulated in the Annex.
 **Transitional provisions**
 
 This Act applies to official documents produced or received by authorities after its commencement.
+
+#### Art. 23a
+
+**Transitional provision to the Amendment of 30 September 2022**[^23a-1]
+
+The previous law applies to applications that are pending on the date that the Amendment of 30 September 2022 comes into force.
+
+[^23a-1]: Inserted by No I of the FA of 30 Sept. 2022, in force since 1 Nov. 2023 ([AS 2023 584](https://fedlex.data.admin.ch/eli/oc/2023/584); BBL **2020** 8337, 9369).
 
 #### Art. 24
 

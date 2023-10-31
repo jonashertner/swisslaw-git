@@ -4,11 +4,11 @@ title: "Lescha federala dals 17 da december 2004 davart il princip da la transpa
 short: LTrans
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/355"
 language: rm
-version: 2023-09-01
+version: 2023-11-01
 adopted: 2004-12-17
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/355/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-2006-355-20230901-rm-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/355/20230901/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/355/20231101/rm/xml/fedlex-data-admin-ch-eli-cc-2006-355-20231101-rm-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/355/20231101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha da transparenza, LTrans)
 
-dals 17 da december 2004 (versiun dal 1. da settember 2023)
+dals 17 da december 2004 (versiun dal 1. da november 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -228,17 +228,18 @@ Il Cussegl federal regla ils detagls da la procedura:
 
 <sup>1</sup>
 
-Mintga persuna po far ina dumonda da mediaziun:
+Mintga persuna po far ina dumonda da mediaziun:[^13-1]
 
 - a. sche l’access a documents uffizials vegn limità, suspendì u refusà ad ella;
 - b. sche l’autoritad n’ha betg prendì posiziun davart sia dumonda entaifer il termin; u
 - c. sche l’autoritad vul conceder l’access cunter sia voluntad, suenter ch’ella è vegnida tadlada tenor l’artitgel 11.
 
-<sup>2</sup> La dumonda da mediaziun sto vegnir fatga en scrit a l’Incumbensà federal per la protecziun da datas e per la transparenza (IFPDT) entaifer 20 dis suenter avair retschavì la posiziun da l’autoritad u suenter la scadenza dal termin che stat a disposiziun a l’autoritad per prender posiziun.[^13-1]
+<sup>2</sup> La dumonda da mediaziun sto vegnir fatga en scrit a l’Incumbensà federal per la protecziun da datas e per la transparenza (IFPDT) entaifer 20 dis suenter avair retschavì la posiziun da l’autoritad u suenter la scadenza dal termin che stat a disposiziun a l’autoritad per prender posiziun.[^13-2]
 
 <sup>3</sup> Sch’ina mediaziun reussescha, è la procedura liquidada.
 
-[^13-1]: Versiun tenor la cifra II 10 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13-1]: La rectificaziun dals 30 da sett. 2022, publitgada ils 25 da sett. 2023, concerna mo il text talian ([AS 2023 538](https://fedlex.data.admin.ch/eli/oc/2023/538)).
+[^13-2]: Versiun tenor la cifra II 10 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 14
 
@@ -278,23 +279,20 @@ Dal rest decretescha l’autoritad ina disposiziun, sch’ella vul – cuntrari 
 
 #### Art. 17
 
-**Taxas**
+**Access gratuit a documents uffizials[^17-1]**
 
-<sup>1</sup> L’access als documents uffizials è per regla suttamess al pajament d’ina taxa.[^17-1]
+<sup>1</sup> En proceduras per l’access a documents uffizials na vegnan incassadas naginas taxas.[^17-2]
 
-<sup>2</sup>
+<sup>2</sup> Excepziunalmain pon vegnir incassadas taxas, sche l’elavuraziun d’ina dumonda d’access chaschuna spezialmain blera lavur per l’autoritad. Il Cussegl federal regla ils detagls e fixescha la tariffa da taxas per la lavur impundida. L’autoritad infurmescha ordavant il petent davart l’intenziun d’incassar ina taxa sco er davart l’autezza da questa taxa.[^17-3]
 
-I na vegnan betg incassadas taxas per:
-
-- a. il tractament d’ina dumonda che pretenda pauca lavur;
-- b. proceduras da mediaziun (art. 13); e
-- c. proceduras da decisiun (art. 15).
-
-<sup>3</sup> Il Cussegl federal fixescha ils detagls e la tariffa da taxas tenor ils custs effectivs. Resalvadas restan las regulaziuns da taxas divergentas sin fundament da legislaziuns spezialas.
+<sup>3</sup> En proceduras da mediaziun (art. 13) ed en proceduras per decretar ina disposiziun (art. 15) na vegnan mai incassadas taxas.[^17-4]
 
 <sup>4</sup> Per consegnar rapports, broschuras u auters stampats e purtaders d’infurmaziuns po en mintga cas vegnir incassada ina taxa.
 
-[^17-1]: Correctura dals 19 d’avust 2014 ([AS 2014 2599](https://fedlex.data.admin.ch/eli/oc/2014/453)). Pertutga mo il text talian.
+[^17-1]: Versiun tenor la cifra I da la LF dals 30 da sett. 2022, en vigur dapi il 1. da nov. 2023 ([AS 2023 584](https://fedlex.data.admin.ch/eli/oc/2023/584); BBl **2020** 8337, 9369).
+[^17-2]: Versiun tenor la cifra I da la LF dals 30 da sett. 2022, en vigur dapi il 1. da nov. 2023 ([AS 2023 584](https://fedlex.data.admin.ch/eli/oc/2023/584); BBl **2020** 8337, 9369).
+[^17-3]: Versiun tenor la cifra I da la LF dals 30 da sett. 2022, en vigur dapi il 1. da nov. 2023 ([AS 2023 584](https://fedlex.data.admin.ch/eli/oc/2023/584); BBl **2020** 8337, 9369).
+[^17-4]: Versiun tenor la cifra I da la LF dals 30 da sett. 2022, en vigur dapi il 1. da nov. 2023 ([AS 2023 584](https://fedlex.data.admin.ch/eli/oc/2023/584); BBl **2020** 8337, 9369).
 
 ## 4. secziun Il IFPDT
 
@@ -356,6 +354,14 @@ La midada dal dretg vertent vegn reglada en l’agiunta.
 **Disposiziun transitorica**
 
 Questa lescha vegn applitgada per ils documents uffizials ch’èn vegnids fatgs u retschavids d’ina autoritad suenter ch’ella è entrada en vigur.
+
+#### Art. 23a
+
+**Disposiziun transitorica da la midada dals 30 da settember 2022**[^23a-1]
+
+Per dumondas ch’èn pendentas il mument da l’entrada en vigur da la midada dals 30 da settember 2022 vegn applitgà il dretg vertent.
+
+[^23a-1]: Integrà tras la cifra I da la LF dals 30 da sett. 2022, en vigur dapi il 1. da nov. 2023 ([AS 2023 584](https://fedlex.data.admin.ch/eli/oc/2023/584); BBl **2020** 8337, 9369).
 
 #### Art. 24
 

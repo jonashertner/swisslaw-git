@@ -4,11 +4,11 @@ title: "Legge federale del 17 dicembre 2004 sul principio di trasparenza dell'am
 short: LTras
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/355"
 language: it
-version: 2023-09-01
+version: 2023-11-01
 adopted: 2004-12-17
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/355/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2006-355-20230901-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/355/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/355/20231101/it/xml/fedlex-data-admin-ch-eli-cc-2006-355-20231101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/355/20231101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/355/20230901/it"
 
 (Legge sulla trasparenza, LTras)
 
-del 17 dicembre 2004 (Stato 1° settembre 2023)
+del 17 dicembre 2004 (Stato 1° novembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -59,7 +59,7 @@ Il Consiglio federale può escludere dal campo d’applicazione altre unità del
 - c. i compiti che sono stati loro affidati sono di poca importanza.
 
 [^2-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^2-2]: Nuovo testo giusta il n. 1 dell’all. alla LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^2-2]: Nuovo testo giusta l’all. n. 1 della LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 #### Art. 3
 
@@ -223,17 +223,18 @@ Il Consiglio federale disciplina le modalità della procedura:
 
 <sup>1</sup>
 
-Può presentare una domanda scritta di mediazione la persona:
+Può presentare una domanda di mediazione la persona:[^13-1]
 
 - a. il cui accesso a documenti ufficiali è limitato, differito o negato;
 - b. sulla cui domanda l’autorità non si è pronunciata entro il termine; o
 - c. che è stata consultata secondo l’articolo 11, se l’autorità intende accordare l’accesso contro la sua volontà.
 
-<sup>2</sup> La domanda di mediazione deve essere presentata per scritto all’Incaricato federale della protezione dei dati e della trasparenza (IFPDT) entro venti giorni dalla ricezione della presa di posizione dell’autorità o dallo scadere del termine di cui l’autorità dispone per prendere posizione.[^13-1]
+<sup>2</sup> La domanda di mediazione deve essere presentata per scritto all’Incaricato federale della protezione dei dati e della trasparenza (IFPDT) entro venti giorni dalla ricezione della presa di posizione dell’autorità o dallo scadere del termine di cui l’autorità dispone per prendere posizione.[^13-2]
 
 <sup>3</sup> Se la mediazione ha successo, la pratica è tolta dal ruolo.
 
-[^13-1]: Nuovo testo giusta l’all. 1 n. II 10 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13-1]: Nuovo testo giusta il n. I della LF del 30 set. 2022, in vigore dal 1° nov. 2023 ([RU 2023 584](https://fedlex.data.admin.ch/eli/oc/2023/584); [FF 2020 7577](https://fedlex.data.admin.ch/eli/fga/2020/2277), [8485](https://fedlex.data.admin.ch/eli/fga/2020/2628)).
+[^13-2]: Nuovo testo giusta l’all. 1 n. II 10 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 14
 
@@ -269,27 +270,24 @@ Per il resto l’autorità pronuncia una decisione se, diversamente da quanto ra
 
 <sup>2</sup> Le autorità di ricorso hanno anche accesso ai documenti ufficiali sottoposti al segreto d’ufficio.
 
-[^16-1]: Nuovo testo giusta il n. 7 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^16-1]: Nuovo testo giusta l’all. n. 7 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 17
 
-**Emolumenti**
+**Gratuità dell’accesso a documenti ufficiali[^17-1]**
 
-<sup>1</sup> L’accesso a documenti ufficiali è di norma soggetto al versamento di un emolumento.[^17-1]
+<sup>1</sup> Nella procedura per l’accesso a documenti ufficiali non sono riscossi emolumenti.[^17-2]
 
-<sup>2</sup>
+<sup>2</sup> Eccezionalmente possono essere riscossi emolumenti se la domanda di accesso richiede un trattamento particolarmente dispendioso da parte dell’autorità. Il Consiglio federale disciplina i dettagli e stabilisce la tariffa degli emolumenti in funzione del dispendio. Se intende riscuotere un emolumento, l’autorità ne informa previamente il richiedente, indicandogliene l’ammontare.[^17-3]
 
-Non vengono riscossi emolumenti per:
-
-- a. le domande il cui trattamento richiede poco lavoro;
-- b. la procedura di mediazione (art. 13); e
-- c. la procedura di decisione (art. 15).
-
-<sup>3</sup> Il Consiglio federale disciplina i dettagli e stabilisce la tariffa degli emolumenti in funzione del dispendio. Rimangono salve le disposizioni speciali previste in altre leggi federali.
+<sup>3</sup> Nella procedura di mediazione (art. 13) e nella procedura di decisione (art. 15) non sono mai riscossi emolumenti.[^17-4]
 
 <sup>4</sup> Per la fornitura di rapporti, opuscoli o altri documenti stampati e supporti di informazione può in ogni caso essere riscosso un emolumento.
 
-[^17-1]: Correzione del 16 giu. 2014 ([RU 2014 2599](https://fedlex.data.admin.ch/eli/oc/2014/453)).
+[^17-1]: Nuovo testo giusta il n. I della LF del 30 set. 2022, in vigore dal 1° nov. 2023 ([RU 2023 584](https://fedlex.data.admin.ch/eli/oc/2023/584); [FF 2020 7577](https://fedlex.data.admin.ch/eli/fga/2020/2277), [8485](https://fedlex.data.admin.ch/eli/fga/2020/2628)).
+[^17-2]: Nuovo testo giusta il n. I della LF del 30 set. 2022, in vigore dal 1° nov. 2023 ([RU 2023 584](https://fedlex.data.admin.ch/eli/oc/2023/584); [FF 2020 7577](https://fedlex.data.admin.ch/eli/fga/2020/2277), [8485](https://fedlex.data.admin.ch/eli/fga/2020/2628)).
+[^17-3]: Nuovo testo giusta il n. I della LF del 30 set. 2022, in vigore dal 1° nov. 2023 ([RU 2023 584](https://fedlex.data.admin.ch/eli/oc/2023/584); [FF 2020 7577](https://fedlex.data.admin.ch/eli/fga/2020/2277), [8485](https://fedlex.data.admin.ch/eli/fga/2020/2628)).
+[^17-4]: Nuovo testo giusta il n. I della LF del 30 set. 2022, in vigore dal 1° nov. 2023 ([RU 2023 584](https://fedlex.data.admin.ch/eli/oc/2023/584); [FF 2020 7577](https://fedlex.data.admin.ch/eli/fga/2020/2277), [8485](https://fedlex.data.admin.ch/eli/fga/2020/2628)).
 
 ## Sezione 4: IFPDT
 
@@ -348,6 +346,14 @@ La modifica del diritto vigente è disciplinata nell’allegato.
 **Disposizione transitoria**
 
 La presente legge è applicabile ai documenti ufficiali stilati o ricevuti da un’autorità dopo la sua entrata in vigore.
+
+#### Art. 23a
+
+**Disposizione transitoria della modifica del 30 settembre 2022**[^23a-1]
+
+Alle domande di accesso pendenti al momento dell’entrata in vigore della modifica del 30 settembre 2022 si applica il diritto anteriore.
+
+[^23a-1]: Introdotto dal n. I della LF del 30 set. 2022, in vigore dal 1° nov. 2023 ([RU 2023 584](https://fedlex.data.admin.ch/eli/oc/2023/584); [FF 2020 7577](https://fedlex.data.admin.ch/eli/fga/2020/2277), [8485](https://fedlex.data.admin.ch/eli/fga/2020/2628)).
 
 #### Art. 24
 

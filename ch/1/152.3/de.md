@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 17. Dezember 2004 über das Öffentlichkeitsprinzip der
 short: BGÖ
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/355"
 language: de
-version: 2023-09-01
+version: 2023-11-01
 adopted: 2004-12-17
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/355/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2006-355-20230901-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/355/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/355/20231101/de/xml/fedlex-data-admin-ch-eli-cc-2006-355-20231101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/355/20231101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/355/20230901/de"
 
 (Öffentlichkeitsgesetz, BGÖ)
 
-vom 17. Dezember 2004 (Stand am 1. September 2023)
+vom 17. Dezember 2004 (Stand am 1. November 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -226,17 +226,18 @@ Der Bundesrat regelt die Einzelheiten des Verfahrens:
 
 <sup>1</sup>
 
-Einen Schlichtungsantrag stellen kann eine Person:
+Einen Schlichtungsantrag stellen kann eine Person:[^13-1]
 
 - a. deren Zugang zu amtlichen Dokumenten eingeschränkt, aufgeschoben oder verweigert wird;
 - b. zu deren Gesuch die Behörde nicht fristgerecht Stellung genommen hat; oder
 - c. die nach Artikel 11 angehört worden ist, wenn die Behörde gegen ihren Willen den Zugang gewähren will.
 
-<sup>2</sup> Der Schlichtungsantrag ist dem Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB) innert 20 Tagen nach Empfang der Stellungnahme oder nach Ablauf der der Behörde für die Stellungnahme zur Verfügung stehenden Frist schriftlich zu stellen.[^13-1]
+<sup>2</sup> Der Schlichtungsantrag ist dem Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB) innert 20 Tagen nach Empfang der Stellungnahme oder nach Ablauf der der Behörde für die Stellungnahme zur Verfügung stehenden Frist schriftlich zu stellen.[^13-2]
 
 <sup>3</sup> Kommt eine Schlichtung zustande, so gilt das Verfahren als erledigt.
 
-[^13-1]: Fassung gemäss Anhang 1 Ziff. II 10 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13-1]: Die Berichtigung vom 30. Sept. 2022, veröffentlicht am 25. Sept. 2023 betrifft nur den italienischen Text (AS 2023 538).
+[^13-2]: Fassung gemäss Anhang 1 Ziff. II 10 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 14
 
@@ -276,23 +277,20 @@ Im Übrigen erlässt die Behörde eine Verfügung, wenn sie in Abweichung von de
 
 #### Art. 17
 
-**Gebühren**
+**Kostenloser Zugang zu amtlichen Dokumenten[^17-1]**
 
-<sup>1</sup> Für den Zugang zu amtlichen Dokumenten wird in der Regel eine Gebühr erhoben.[^17-1]
+<sup>1</sup> In Verfahren für den Zugang zu amtlichen Dokumenten werden keine Gebühren erhoben.[^17-2]
 
-<sup>2</sup>
+<sup>2</sup> Ausnahmsweise können Gebühren erhoben werden, wenn ein Zugangsgesuch eine besonders aufwändige Bearbeitung durch die Behörde erfordert. Der Bundesrat legt die Einzelheiten und den Gebührentarif nach Aufwand fest. Der Gesuchsteller oder die Gesuchstellerin wird vorgängig über die Absicht der Behörde, eine Gebühr zu erheben, sowie über die Höhe dieser Gebühr informiert.[^17-3]
 
-Keine Gebühren werden erhoben:
-
-- a. wenn die Bearbeitung eines Gesuches einen geringen Aufwand erfordert;
-- b. für Schlichtungsverfahren (Art. 13); und
-- c. für Verfahren auf Erlass einer Verfügung (Art. 15).
-
-<sup>3</sup> Der Bundesrat legt die Einzelheiten und den Gebührentarif nach Aufwand fest. Abweichende Gebührenregelungen durch die Spezialgesetzgebung bleiben vorbehalten.
+<sup>3</sup> In Schlichtungsverfahren (Art. 13) und Verfahren auf Erlass einer Verfügung (Art. 15) werden in keinem Fall Gebühren erhoben.[^17-4]
 
 <sup>4</sup> Für die Abgabe von Berichten, Broschüren oder anderen Drucksachen und Informationsträgern kann in jedem Fall eine Gebühr erhoben werden.
 
-[^17-1]: Berichtigung vom 19. Aug. 2014 ([AS 2014 2599](https://fedlex.data.admin.ch/eli/oc/2014/453)). Betrifft nur den italienischen Text.
+[^17-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2022, in Kraft seit 1. Nov. 2023 ([AS 2023 584](https://fedlex.data.admin.ch/eli/oc/2023/584); [BBl 2020 8657](https://fedlex.data.admin.ch/eli/fga/2020/2277), [9681](https://fedlex.data.admin.ch/eli/fga/2020/2628)).
+[^17-2]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2022, in Kraft seit 1. Nov. 2023 ([AS 2023 584](https://fedlex.data.admin.ch/eli/oc/2023/584); [BBl 2020 8657](https://fedlex.data.admin.ch/eli/fga/2020/2277), [9681](https://fedlex.data.admin.ch/eli/fga/2020/2628)).
+[^17-3]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2022, in Kraft seit 1. Nov. 2023 ([AS 2023 584](https://fedlex.data.admin.ch/eli/oc/2023/584); [BBl 2020 8657](https://fedlex.data.admin.ch/eli/fga/2020/2277), [9681](https://fedlex.data.admin.ch/eli/fga/2020/2628)).
+[^17-4]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2022, in Kraft seit 1. Nov. 2023 ([AS 2023 584](https://fedlex.data.admin.ch/eli/oc/2023/584); [BBl 2020 8657](https://fedlex.data.admin.ch/eli/fga/2020/2277), [9681](https://fedlex.data.admin.ch/eli/fga/2020/2628)).
 
 ## 4. Abschnitt: Der EDÖB
 
@@ -354,6 +352,14 @@ Die Änderung bisherigen Rechts wird im Anhang geregelt.
 **Übergangsbestimmung**
 
 Dieses Gesetz ist auf amtliche Dokumente anwendbar, die nach seinem Inkrafttreten von einer Behörde erstellt oder empfangen wurden.
+
+#### Art. 23a
+
+**Übergangsbestimmung zur Änderung vom 30. September 2022**[^23a-1]
+
+Auf Gesuche, die im Zeitpunkt des Inkrafttretens der Änderung vom 30. September 2022 hängig sind, findet das bisherige Recht Anwendung.
+
+[^23a-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2022, in Kraft seit 1. Nov. 2023 ([AS 2023 584](https://fedlex.data.admin.ch/eli/oc/2023/584); [BBl 2020 8657](https://fedlex.data.admin.ch/eli/fga/2020/2277), [9681](https://fedlex.data.admin.ch/eli/fga/2020/2628)).
 
 #### Art. 24
 

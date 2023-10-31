@@ -4,11 +4,11 @@ title: "Loi fédérale du 17 décembre 2004 sur le principe de la transparence d
 short: LTrans
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/355"
 language: fr
-version: 2023-09-01
+version: 2023-11-01
 adopted: 2004-12-17
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/355/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2006-355-20230901-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/355/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/355/20231101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-355-20231101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/355/20231101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/355/20230901/fr"
 
 (Loi sur la transparence, LTrans)
 
-du 17 décembre 2004 (État le 1<sup>er</sup> septembre 2023)
+du 17 décembre 2004 (État le 1<sup>er</sup> novembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -276,23 +276,20 @@ Au surplus, l’autorité rend une décision si, en dérogation à la recommanda
 
 #### Art. 17
 
-**Emoluments**
+**Gratuité de l’accès aux documents officiels[^17-1]**
 
-<sup>1</sup> L’accès aux documents officiels est en principe soumis au paiement d’un émolument.[^17-1]
+<sup>1</sup> La procédure d’accès aux documents officiels n’est pas soumise au paiement d’un émolument.[^17-2]
 
-<sup>2</sup>
+<sup>2</sup> À titre exceptionnel, l’autorité peut percevoir un émolument lorsque la demande d’accès nécessite un surcroît important de travail de sa part. Le Conseil fédéral règle les modalités et fixe le tarif des émoluments en fonction des frais effectifs. L’autorité informe le requérant au préalable si elle envisage de prélever un émolument, et lui en communique le montant.[^17-3]
 
-Il n’est pas perçu d’émolument:
-
-- a. pour le règlement des demandes qui occasionnent peu de frais;
-- b. pour la procédure de médiation (art. 13);
-- c. pour la procédure en première instance (art. 15).
-
-<sup>3</sup> Le Conseil fédéral règle les modalités et fixe le tarif des émoluments en fonction des frais effectifs. Les dispositions spéciales prévues dans d’autres lois sont réservées.
+<sup>3</sup> Les procédures de médiation (art. 13) et de décision (art. 15) ne sont en aucun cas soumises au paiement d’un émolument.[^17-4]
 
 <sup>4</sup> La remise de rapports, de brochures ou d’autres imprimés et supports d’information, peut, dans tous les cas, être subordonnée au paiement d’un émolument.
 
-[^17-1]: Erratum du 19 août 2014, ne concerne que le texte italien ([RO 2014 2599](https://fedlex.data.admin.ch/eli/oc/2014/453)).
+[^17-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2022, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 584](https://fedlex.data.admin.ch/eli/oc/2023/584); [FF 2020 8337](https://fedlex.data.admin.ch/eli/fga/2020/2277), [9369](https://fedlex.data.admin.ch/eli/fga/2020/2628)).
+[^17-2]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2022, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 584](https://fedlex.data.admin.ch/eli/oc/2023/584); [FF 2020 8337](https://fedlex.data.admin.ch/eli/fga/2020/2277), [9369](https://fedlex.data.admin.ch/eli/fga/2020/2628)).
+[^17-3]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2022, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 584](https://fedlex.data.admin.ch/eli/oc/2023/584); [FF 2020 8337](https://fedlex.data.admin.ch/eli/fga/2020/2277), [9369](https://fedlex.data.admin.ch/eli/fga/2020/2628)).
+[^17-4]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2022, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 584](https://fedlex.data.admin.ch/eli/oc/2023/584); [FF 2020 8337](https://fedlex.data.admin.ch/eli/fga/2020/2277), [9369](https://fedlex.data.admin.ch/eli/fga/2020/2628)).
 
 ## Section 4 PFPDT
 
@@ -351,6 +348,14 @@ La modification du droit en vigueur est réglée en annexe.
 **Disposition transitoire**
 
 La présente loi s’applique aux documents officiels qui ont été produits ou reçus par l’autorité après son entrée en vigueur.
+
+#### Art. 23a
+
+**Disposition transitoire relative à la modification du 30 septembre 2022**[^23a-1]
+
+Les demandes d’accès pendantes au moment de l’entrée en vigueur de la modification du 30 septembre 2022 sont régies par l’ancien droit.
+
+[^23a-1]: Introduit par le ch. I de la LF du 30 sept. 2022, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 584](https://fedlex.data.admin.ch/eli/oc/2023/584); [FF 2020 8337](https://fedlex.data.admin.ch/eli/fga/2020/2277), [9369](https://fedlex.data.admin.ch/eli/fga/2020/2628)).
 
 #### Art. 24
 
