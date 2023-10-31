@@ -4,13 +4,13 @@ number: "531.211"
 title: Verordnung über die Gewährleistung der öffentlichen Sicherheit
 short: "Polizeiverordnung, PolV"
 language: de
-version: 2021-07-01
-valid_until: 2023-10-31
-version_adopted: 2021-05-26
+version: 2023-11-01
+valid_until: 2024-06-30
+version_adopted: 2023-08-30
 adopted: 2021-05-26
 in_force: 2021-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/531.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2997/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3348/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,25 +19,26 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2997/pdf_file"
 
 (Polizeiverordnung, PolV)
 
-Vom 26.05.2021 (Stand 01.07.2021)
+Vom 26.05.2021 (Stand 01.11.2023)
 
-Der Regierungsrat,
+Der Regierungsrat des Kantons Aargau,
 
-gestützt auf § 91 Abs. 2<sup>bis</sup> lit. a der Kantonsverfassung, Art. 38 des Bundesgesetzes über Waffen, Waffenzubehör und Munition (Waffengesetz, WG) vom 20. Juni 1997[^ingress-1], Art. 42 Abs. 2 und 44 des Bundesgesetzes über explosionsgefährliche Stoffe (Sprengstoffgesetz, SprstG) vom 25. März 1977[^ingress-2], § 12 Abs. 2 des Gesetzes über die Information der Öffentlichkeit, den Datenschutz und das Archivwesen (IDAG) vom 24. Oktober 2006[^ingress-3], § 4 Abs. 2 des Gesetzes über die Grundzüge des Personalrechts (Personalgesetz, PersG) vom 16. Mai 2000[^ingress-4], § 30 Abs. 2 des Einführungsgesetzes zur Schweizerischen Strafprozessordnung (EG StPO) vom 16. März 2010[^ingress-5], § 7a des Gesetzes über die Gewährleistung der öffentlichen Sicherheit (Polizeigesetz, PolG) vom 6. Dezember 2005[^ingress-6], § 13 Abs. 1 des Konkordats über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen vom 15. November 2007[^ingress-7], § 8 Abs. 1 des Gesetzes über den Vollzug des Strassenverkehrsrechtes vom 6. März 1984[^ingress-8], § 9 Abs. 2 des Dekrets über die Löhne des kantonalen Personals (Lohndekret) vom 30. November 1999[^ingress-9], die §§ 25 Abs. 3 und 26 Abs. 2 des Dekrets über die Verfahrenskosten (Verfahrenskostendekret, VKD) vom 24. November 1987[^ingress-10] und § 2 Abs. 1 des Dekrets über die durch den Staat zu beziehenden Gebühren vom 23. November 1977[^ingress-11],
+gestützt auf § 91 Abs. 2<sup>bis</sup> lit. a der Kantonsverfassung, Art. 38 des Bundesgesetzes über Waffen, Waffenzubehör und Munition (Waffengesetz, WG) vom 20. Juni 1997[^ingress-1], Art. 42 Abs. 2 und 44 des Bundesgesetzes über explosionsgefährliche Stoffe (Sprengstoffgesetz, SprstG) vom 25. März 1977[^ingress-2], Art. 8 des Bundesgesetzes über den Schutz vor Gefährdungen durch nichtionisierende Strahlung und Schall (NISSG) vom 16. Juni 2017[^ingress-3], § 12 Abs. 2 des Gesetzes über die Information der Öffentlichkeit, den Datenschutz und das Archivwesen (IDAG) vom 24. Oktober 2006[^ingress-4], § 4 Abs. 2 des Gesetzes über die Grundzüge des Personalrechts (Personalgesetz, PersG) vom 16. Mai 2000[^ingress-5], § 30 Abs. 2 des Einführungsgesetzes zur Schweizerischen Strafprozessordnung (EG StPO) vom 16. März 2010[^ingress-6], § 7a des Gesetzes über die Gewährleistung der öffentlichen Sicherheit (Polizeigesetz, PolG) vom 6. Dezember 2005[^ingress-7], § 13 Abs. 1 des Konkordats über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen vom 15. November 2007[^ingress-8], § 8 Abs. 1 des Gesetzes über den Vollzug des Strassenverkehrsrechtes vom 6. März 1984[^ingress-9], § 9 Abs. 2 des Dekrets über die Löhne des kantonalen Personals (Lohndekret) vom 30. November 1999[^ingress-10], die §§ 25 Abs. 3 und 26 Abs. 2 des Dekrets über die Verfahrenskosten (Verfahrenskostendekret, VKD) vom 24. November 1987[^ingress-11] und § 2 Abs. 1 des Dekrets über die durch den Staat zu beziehenden Gebühren vom 23. November 1977[^ingress-12],
 
 beschliesst:
 
 [^ingress-1]: SR [514.54](https://db.clex.ch/link/Bund/514.54/de)
 [^ingress-2]: SR [941.41](https://db.clex.ch/link/Bund/941.41/de)
-[^ingress-3]: SAR [150.700](https://gesetzessammlungen.ag.ch/data/150.700/de)
-[^ingress-4]: SAR [165.100](https://gesetzessammlungen.ag.ch/data/165.100/de)
-[^ingress-5]: SAR [251.200](https://gesetzessammlungen.ag.ch/data/251.200/de)
-[^ingress-6]: SAR [531.200](https://gesetzessammlungen.ag.ch/data/531.200/de)
-[^ingress-7]: SAR [533.100](https://gesetzessammlungen.ag.ch/data/533.100/de)
-[^ingress-8]: SAR [991.100](https://gesetzessammlungen.ag.ch/data/991.100/de)
-[^ingress-9]: SAR [165.130](https://gesetzessammlungen.ag.ch/data/165.130/de)
-[^ingress-10]: SAR [221.150](https://gesetzessammlungen.ag.ch/data/221.150/de)
-[^ingress-11]: SAR [661.110](https://gesetzessammlungen.ag.ch/data/661.110/de)
+[^ingress-3]: SR [814.71](https://db.clex.ch/link/Bund/814.71/de)
+[^ingress-4]: SAR [150.700](https://gesetzessammlungen.ag.ch/data/150.700/de)
+[^ingress-5]: SAR [165.100](https://gesetzessammlungen.ag.ch/data/165.100/de)
+[^ingress-6]: SAR [251.200](https://gesetzessammlungen.ag.ch/data/251.200/de)
+[^ingress-7]: SAR [531.200](https://gesetzessammlungen.ag.ch/data/531.200/de)
+[^ingress-8]: SAR [533.100](https://gesetzessammlungen.ag.ch/data/533.100/de)
+[^ingress-9]: SAR [991.100](https://gesetzessammlungen.ag.ch/data/991.100/de)
+[^ingress-10]: SAR [165.130](https://gesetzessammlungen.ag.ch/data/165.130/de)
+[^ingress-11]: SAR [221.150](https://gesetzessammlungen.ag.ch/data/221.150/de)
+[^ingress-12]: SAR [661.110](https://gesetzessammlungen.ag.ch/data/661.110/de)
 
 ## 1. Allgemeines
 
@@ -501,6 +502,14 @@ beschliesst:
 **Kantonale Einschränkungen**
 
 <sup>1</sup> Die Kantonspolizei kann den Detailhandel mit pyrotechnischen Gegenständen zu Vergnügungszwecken zeitlich auf bestimmte Anlässe beschränken, an weitere Bedingungen knüpfen und den Verkauf bestimmter Feuerwerkskörper verbieten.
+
+## 6<sup>bis</sup> Bundesgesetzgebung nichtionisierende Strahlung
+
+#### § 43bis
+
+**Vollzug Bundesgesetzgebung nichtionisierende Strahlung durch Kantonspolizei**
+
+<sup>1</sup> Die Kantonspolizei vollzieht die gemäss Art. 8 NISSG vorgesehenen kantonalen Aufgaben betreffend Laserpointer und erlässt die erforderlichen Massnahmen.
 
 ## 7. Datenschutz
 
