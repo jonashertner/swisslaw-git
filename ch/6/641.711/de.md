@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Verordnung vom 30. November 2012 über die Reduktion der CO<sub>2</sub>-Emissionen (CO<sub>2</sub>-Verordnung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: de
-version: 2023-10-25
+version: 2023-11-01
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20231025/de/xml/fedlex-data-admin-ch-eli-cc-2012-856-20231025-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20231025/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20231101/de/xml/fedlex-data-admin-ch-eli-cc-2012-856-20231101-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20231101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20231025/de"
 
 (CO<sub>2</sub>-Verordnung)
 
-vom 30. November 2012 (Stand am 25. Oktober 2023)
+vom 30. November 2012 (Stand am 1. November 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -175,11 +175,12 @@ Die gesuchstellende Person reicht dem Bundesamt für Umwelt (BAFU) ein Konzept f
 - d. die Fachkenntnisse der an der wissenschaftlichen Begleitung beteiligten Personen;
 - e. die Unabhängigkeit sowie mögliche Interessenkonflikte der an der wissenschaftlichen Begleitung beteiligten Personen.
 
-<sup>3</sup> Die wissenschaftliche Begleitung wird beendet, wenn die Wirkung des Projekts oder Programmes ausreichend genau quantifiziert worden ist. Das BAFU entscheidet über die Beendigung der wissenschaftlichen Begleitung. Es berücksichtigt bei seinem Entscheid die Empfehlung der Verifizierungsstelle.
+<sup>3</sup> Die wissenschaftlichen Begleitung wird beendet, wenn die Wirkung des Projekts oder Programmes ausreichend genau quantifiziert worden ist. Das BAFU entscheidet über die Beendigung der wissenschaftlichen Begleitung.[^5b-2]
 
 <sup>4</sup> Die Resultate der wissenschaftlichen Begleitung sind unter Wahrung des Fabrikations- und Geschäftsgeheimnisses zu publizieren.
 
 [^5b-1]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^5b-2]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 6
 
@@ -215,13 +216,14 @@ Der Validierungsstelle ist eine Beschreibung des Projekts oder des Programms ein
 
 <sup>4</sup> Die gesuchstellende Person kann eine Projektskizze durch das BAFU vorprüfen lassen. Hat das BAFU eine Vorprüfung der Projektskizze durchgeführt, so sind der Validierungsstelle zusätzlich zu den Angaben nach Absatz 2 die Projektskizze und die Resultate der Vorprüfung einzureichen.
 
-<sup>5</sup> Bei der Validierung prüft die Validierungsstelle die Angaben nach Absatz 2 sowie, ob das Projekt den Anforderungen nach Artikel 5 beziehungsweise ob das Programm den Anforderungen nach den Artikeln 5 und 5*a* entspricht.
+<sup>5</sup> Die Validierungsstelle prüft die Angaben nach Absatz 2 sowie, ob das Projekt den Anforderungen nach Artikel 5 beziehungsweise ob das Programm den Anforderungen nach den Artikeln 5 und 5*a* entspricht. Sie führt soweit notwendig Besichtigungen durch. Diese sind der gesuchstellenden Person und dem BAFU rechtzeitig anzukündigen.[^6-2]
 
 <sup>6</sup> Die Validierungsstelle fasst die Ergebnisse der Prüfung in einem Validierungsbericht zusammen.
 
 <sup>7</sup> Das BAFU legt die Form der Beschreibung des Projekts oder Programmes und des Validierungsberichts fest.
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^6-2]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 7
 
@@ -291,6 +293,8 @@ Die Kreditierungsperiode für Projekte oder Programme im Inland, die vor dem 1. 
 
 <sup>3</sup> Die Verifizierungsstelle prüft, ob die ausgewiesenen Emissionsverminderungen oder die Erhöhung der Senkenleistungen die Anforderungen nach Artikel 5 erfüllen. Bei Programmen prüft sie zusätzlich, ob die Projekte die Aufnahmekriterien nach Artikel 5*a* Absatz 1 Buchstabe c erfüllen. Sie kann die Prüfung auf einzelne repräsentative Projekte des Programmes beschränken.
 
+<sup>3bis</sup> Sie führt soweit notwendig Besichtigungen durch. Diese sind der gesuchstellenden Person und dem BAFU rechtzeitig anzukündigen.[^9-2]
+
 <sup>4</sup> Die Verifizierungsstelle hält die Ergebnisse der Verifizierung in einem Verifizierungsbericht fest.
 
 <sup>5</sup> Der Monitoringbericht, die zugrundeliegenden Messdaten und der dazugehörige Verifizierungsbericht umfassen einen Zeitraum von höchstens drei Jahren. Sie sind dem BAFU spätestens ein Jahr nach diesem Zeitraum einzureichen. Die Emissionsverminderungen oder die Erhöhung der Senkenleistungen sind pro Kalenderjahr auszuweisen.
@@ -304,6 +308,7 @@ Die Kreditierungsperiode für Projekte oder Programme im Inland, die vor dem 1. 
 <sup>9</sup> Das BAFU macht Vorgaben für die Form des Monitoring- und des Verifizierungsberichts.
 
 [^9-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^9-2]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 10
 
@@ -352,6 +357,22 @@ Eine Änderung eines Projekts oder Programms ist insbesondere dann wesentlich, w
 <sup>6</sup> Nach einer erneuten Validierung dauert die Kreditierungsperiode ab dem Zeitpunkt des Eintritts der wesentlichen Änderung bis spätestens zum 31. Dezember 2030.
 
 [^11-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+
+#### Art. 11a
+
+**Validierungs- und Verifizierungsstellen**[^11a-1]
+
+<sup>1</sup>
+
+Das BAFU lässt eine Validierungs- und Verifizierungsstelle auf Gesuch hin zu, wenn sie:
+
+- a. über nachweisbare fachliche Kompetenzen im Zusammenhang mit der Validierung oder Verifizierung von Kompensationsprojekten verfügt;
+- b. über Prozesse zur Qualitätssicherung verfügt; und
+- c. ihre Aufgaben unabhängig wahrnimmt.
+
+<sup>2</sup> Erfüllt eine Validierungs- oder Verifizierungsstelle die Voraussetzungen nach Absatz 1 nicht mehr, so ordnet das BAFU Massnahmen an. Werden diese nicht genügend umgesetzt, so kann es die Zulassung entziehen.
+
+[^11a-1]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 ### 5*a*. Abschnitt: Bescheinigungen für Betreiber von Anlagen
 
@@ -546,12 +567,12 @@ Als Importeur eines Fahrzeugs gilt, wer:
 
 <sup>1</sup> Die Bestimmungen dieses Kapitels gelten für Personenwagen nach Artikel 11 Absatz 2 Buchstabe a der Verordnung vom 19. Juni 1995[^17a-2] über die technischen Anforderungen an Strassenfahrzeuge (VTS).
 
-<sup>2</sup> Sie gelten nicht für Fahrzeuge mit besonderer Zweckbestimmung nach Anhang II Teil A Ziffer 5 der Richtlinie 2007/46/EG[^17a-3] oder nach Anhang I Teil A Ziffer 5 der Verordnung (EU) 2018/858[^17a-4].
+<sup>2</sup> Sie gelten nicht für Fahrzeuge mit besonderer Zweckbestimmung nach Anhang I Teil A Ziffer 5 der Verordnung (EU) 2018/858[^17a-3].[^17a-4]
 
 [^17a-1]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^17a-2]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^17a-3]: Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates vom 5. September 2007 zur Schaffung eines Rahmens für die Genehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge (Rahmenrichtlinie), ABl. L 263 vom 9.10.2007, S. 1; zuletzt geändert durch Verordnung (EU) 2019/543, ABl. L 95 vom 4.4.2019, S. 1.
-[^17a-4]: Siehe Fussnote zu Art. 17 Abs. 2 Bst. b.
+[^17a-3]: Verordnung (EU) 2018/858 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die Genehmigung und die Marktüberwachung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge, zur Änderung der Verordnungen (EG) Nr. 715/2007 und (EG) Nr. 595/2009 und zur Aufhebung der Richtlinie 2007/46/EG, ABl. L 151 vom 14.6.2018, S. 1; zuletzt geändert durch Verordnung (EU) 2019/2144, ABl. L 325 vom 16.12.2019, S. 1.
+[^17a-4]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 17b
 
@@ -559,13 +580,12 @@ Als Importeur eines Fahrzeugs gilt, wer:
 
 <sup>1</sup> Die Bestimmungen dieses Kapitels gelten für Lieferwagen nach Artikel 11 Absatz 2 Buchstabe e VTS mit einem Gesamtgewicht von höchstens 3,50 t sowie Fahrzeuge mit einem emissionsfreien Antrieb und einem Gesamtgewicht von über 3,50 t bis zu 4,25 t, die abgesehen vom Gewicht der Definition des Lieferwagens entsprechen und bei denen das 3,50 t überschreitende Gewicht einzig durch das Mehrgewicht des emissionsfreien Antriebs verursacht wird.
 
-<sup>2</sup> Sie gelten nicht für Lieferwagen mit einem Leergewicht von über 2,585 t, die nach dem Messverfahren für schwere Motorwagen gemäss Verordnung (EG) Nr. 595/2009[^17b-2] gemessen werden und die nicht mit Elektrizität oder mit Wasserstoff als Energiequelle ausschliesslich elektrisch angetrieben werden, sowie für Fahrzeuge mit besonderer Zweckbestimmung nach Anhang 2 Teil A Ziffer 5 der Richtlinie 2007/46/EG[^17b-3] oder nach Anhang I Teil A Ziffer 5 der Verordnung (EU) 2018/858[^17b-4].[^17b-5]
+<sup>2</sup> Sie gelten nicht für Lieferwagen mit einem Leergewicht von über 2,585 t, die nach dem Messverfahren für schwere Motorwagen gemäss Verordnung (EG) Nr. 595/2009[^17b-2] gemessen werden und die nicht mit Elektrizität oder mit Wasserstoff als Energiequelle ausschliesslich elektrisch angetrieben werden, sowie für Fahrzeuge mit besonderer Zweckbestimmung nach Anhang I Teil A Ziffer 5 der Verordnung (EU) 2018/858[^17b-3].[^17b-4]
 
 [^17b-1]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^17b-2]: Verordnung (EG) Nr. 595/2009 des Europäischen Parlaments und des Rates vom 18. Juni 2009 über die Typengenehmigung von Kraftfahrzeugen und Motoren hinsichtlich der Emissionen von schweren Nutzfahrzeugen (Euro VI) und über den Zugang zu Fahrzeugreparatur- und -wartungsinformationen, zur Änderung der Verordnung (EG) Nr. 715/2007 und der Richtlinie 2007/46/EG sowie zur Aufhebung der Richtlinien 80/1269/EWG, 2005/55/EG und 2005/78/EG, ABl. L 188 vom 18.7.2009, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 133/2014, ABl. L 47 vom 18.2.2014, S. 1.
 [^17b-3]: Siehe Fussnote zu Art. 17*a* Abs. 2.
-[^17b-4]: Siehe Fussnote zu Art. 17 Abs. 2 Bst. b.
-[^17b-5]: Die Berichtigung vom 25. Okt. 2023 betrifft nur den französischen Text (AS **202****3** 605).
+[^17b-4]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 17c
 
@@ -573,12 +593,12 @@ Als Importeur eines Fahrzeugs gilt, wer:
 
 <sup>1</sup> Die Bestimmungen dieses Kapitels gelten für Sattelschlepper nach Artikel 11 Absatz 2 Buchstabe i VTS mit einem Gesamtgewicht von bis zu 3,50 t.
 
-<sup>2</sup> Sie gelten nicht für Sattelschlepper mit einem Leergewicht von über 2,585 t, die nach dem Messverfahren für schwere Motorwagen gemäss Verordnung (EG) Nr. 595/2009[^17c-2] gemessen werden, sowie für Fahrzeuge mit besonderer Zweckbestimmung nach Anhang 2 Teil A Ziffer 5 der Richtlinie 2007/46/EG[^17c-3] oder nach Anhang 1 Teil A Ziffer 5 der Verordnung (EU) 2018/858[^17c-4].
+<sup>2</sup> Sie gelten nicht für Sattelschlepper mit einem Leergewicht von über 2,585 t, die nach dem Messverfahren für schwere Motorwagen gemäss Verordnung (EG) Nr. 595/2009[^17c-2] gemessen werden, sowie für Fahrzeuge mit besonderer Zweckbestimmung nach Anhang 1 Teil A Ziffer 5 der Verordnung (EU) 2018/858[^17c-3].[^17c-4]
 
 [^17c-1]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^17c-2]: Siehe Fussnote zu Art. 17*b* Abs. 2.
 [^17c-3]: Siehe Fussnote zu Art. 17*a* Abs. 2.
-[^17c-4]: Siehe Fussnote zu Art. 17 Abs. 2 Bst. b.
+[^17c-4]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 17d
 
@@ -647,11 +667,12 @@ Ein Importeur gilt in einem Referenzjahr für die jeweiligen Fahrzeuge als Gross
 
 <sup>2</sup> Bestand eine Neuwagenflotte eines Importeurs im Vorjahr aus der Anzahl Fahrzeuge nach Absatz 1 oder mehr, so wird der Importeur für die betreffenden Fahrzeuge im Referenzjahr provisorisch wie ein Grossimporteur behandelt.
 
-<sup>3</sup> Bestand eine Neuwagenflotte eines Importeurs im Vorjahr aus weniger Fahrzeugen als jenen nach Absatz 1, so kann der Importeur beim Bundesamt für Energie (BFE) beantragen, dass er im Referenzjahr ab dem Datum der Gutheissung des Gesuchs für die betreffenden Fahrzeuge provisorisch wie ein Grossimporteur behandelt wird.
+<sup>3</sup> Bestand eine Neuwagenflotte eines Importeurs im Vorjahr aus weniger Fahrzeugen als jenen nach Absatz 1, so kann der Importeur beim BFE beantragen, dass er im Referenzjahr ab dem Datum der Gutheissung des Gesuchs für die betreffenden Fahrzeuge provisorisch wie ein Grossimporteur behandelt wird.[^18-2]
 
 <sup>4</sup> Stellt sich am 31. Dezember des Referenzjahres heraus, dass die Neuwagenflotte nach Absatz 2 oder 3 aus weniger Fahrzeugen als jenen nach Absatz 1 besteht, so gilt der Importeur für die betreffenden Fahrzeuge im Referenzjahr als Kleinimporteur.
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^18-2]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 19
 
@@ -729,13 +750,14 @@ Die für die Berechnung der individuellen Zielvorgabe und für die Berechnung de
 
 **Bestimmung der CO<sub>2</sub>-Emissionen eines Fahrzeugs**[^25-1]
 
-<sup>1</sup> Für die Bestimmung der CO<sub>2</sub>-Emissionen eines Fahrzeugs werden die kombinierten Emissionen gemäss dem WLTP verwendet.
+<sup>1</sup> Für die Bestimmung der CO<sub>2</sub>-Emissionen eines Fahrzeugs werden die Emissionen gemäss dem WLTP verwendet.[^25-2]
 
 <sup>2</sup> Für Fahrzeuge, für die keine nach dem WLTP ermittelten Werte vorliegen, werden die CO<sub>2</sub>-Emissionen nach Anhang 4 berechnet.
 
 <sup>3</sup> Können die CO<sub>2</sub>-Emissionen nicht nach Anhang 4 berechnet werden, so werden bei Personenwagen 350 g CO<sub>2</sub>/km und bei Lieferwagen und leichten Sattelschleppern 400 g CO<sub>2</sub>/km angenommen.
 
 [^25-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^25-2]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 26
 
@@ -886,11 +908,12 @@ Das BFE informiert die Öffentlichkeit jährlich in geeigneter Form über die Er
 
 #### Art. 37
 
-<sup>1</sup> Ein allfälliger Ertrag aus der Sanktion nach Artikel 13 des CO<sub>2</sub>-Gesetzes wird im Folgejahr, nach Erstellung der Schlussabrechnung des BFE, dem Fonds zur Finanzierung der Nationalstrassen und des Agglomerationsverkehrs gemäss Bundesgesetz über den Fonds für die Nationalstrassen und den Agglomerationsverkehr (NAFG) vom 30. September 2016[^37-1] zugewiesen.
+<sup>1</sup> Ein allfälliger Ertrag aus der Sanktion nach Artikel 13 des CO<sub>2</sub>-Gesetzes wird dem Fonds nach dem Bundesgesetz vom 30. September 2016[^37-1] über den Fonds für die Nationalstrassen und den Agglomerationsverkehr zugewiesen.[^37-2]
 
 <sup>2</sup> Der Ertrag entspricht den für das Referenzjahr erhobenen Sanktionen einschliesslich Verzugszinsen und abzüglich Vollzugskosten, Debitorenverlusten und Rückerstattungszinsen.
 
 [^37-1]: [SR 725.13](https://fedlex.data.admin.ch/eli/cc/2017/761)
+[^37-2]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 38 und 39
 
@@ -2043,19 +2066,15 @@ Der Kompensationssatz insgesamt beträgt:
 
 In einer vom BAFU geführten Datenbank werden pro kompensationspflichtige Person die folgenden Daten und Dokumente verwaltet:
 
-- a. das Ausmass der Kompensationspflicht;
-- b. die Monitoringberichte und Verifizierungsberichte der selbst durchgeführten Projekte oder Programme;
-- c. die nachgewiesenen Emissionsverminderungen aus selbst durchgeführten Projekten oder Programmen;
-- d. Menge der noch nicht zur Kompensation verwendeten Emissionsverminderungen aus selbst durchgeführten Projekten oder Programmen;
-- e. Menge der noch nicht zur Kompensation verwendeten Emissionsverminderungen;
-- f. Angaben über die Kosten je kompensierte Tonne CO<sub>2</sub>;
-- g. die Entwicklungs- und Betriebskosten bei selbst durchgeführten Projekten oder Programmen.[^91-5]
+- a. die Menge der CO<sub>2</sub>-Emissionen, die kompensiert werden müssen;
+- b. die Menge der noch nicht zur Erfüllung der Kompensationspflicht verwendeten Bescheinigungen;
+- c. die Höhe der Kosten je kompensierte Tonne CO<sub>2</sub>.[^91-5]
 
 [^91-1]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 [^91-2]: Aufgehoben durch Ziff. I der V vom 4. Mai 2022, mit Wirkung seit 1. Jan. 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^91-3]: Aufgehoben durch Ziff. I der V vom 25. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^91-4]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^91-5]: Eingefügt durch Ziff. I der V vom 8. Okt. 2014, in Kraft seit 1. Dez. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
+[^91-5]: Eingefügt durch Ziff. I der V vom 8. Okt. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)). Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 92
 
@@ -2067,10 +2086,10 @@ In einer vom BAFU geführten Datenbank werden pro kompensationspflichtige Person
 
 <sup>3</sup> Die Zahlungsfrist beträgt 30 Tage ab Eröffnung der Verfügung. Bei verspäteter Zahlung ist ein Verzugszins geschuldet. Das EFD setzt den Zinssatz fest.[^92-1]
 
-<sup>4</sup> Bei fehlender Kompensation nach Artikel 28 Absatz 2 des CO<sub>2</sub>-Gesetzes sind dem Bund Emissionsminderungszertifikate, Emissionsrechte oder internationale Bescheinigungen bis zum 1. Juni des Folgejahres abzugeben.[^92-2]
+<sup>4</sup> Die Frist für die Abgabe der Emissionsrechte und der internationalen Bescheinigungen ist der 1. Juni des Folgejahres.[^92-2]
 
 [^92-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Jan. 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
-[^92-2]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Jan. 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^92-2]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 ## 8. Kapitel: CO<sub>2</sub>-Abgabe
 
@@ -2835,9 +2854,9 @@ Es berechnet gestützt auf das Treibhausgasinventar, ob das Reduktionsziel nach 
 
 **Aufwandsentschädigung**[^132-1]
 
-Die Entschädigung für den Vollzugsaufwand beträgt 1,45 Prozent der Einnahmen aus der CO<sub>2</sub>-Abgabe (Einnahmen). Das UVEK reduziert den Prozentsatz bei einer Erhöhung der Einnahmen im Einvernehmen mit dem Eidgenössischen Finanzdepartement angemessen.
+Die Entschädigung für den Vollzugsaufwand beträgt 1,85 Prozent der Einnahmen aus der CO<sub>2</sub>‑Abgabe (Einnahmen). Das UVEK reduziert den Prozentsatz bei einer Erhöhung der Einnahmen im Einvernehmen mit dem Eidgenössischen Finanzdepartement angemessen.
 
-[^132-1]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^132-1]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 133
 
@@ -3435,10 +3454,11 @@ Anhang 2a[^t-2]
 
 ## Emissionsverminderungen oder Erhöhung der Senkenleistungen im Ausland, für die keine Bescheinigungen ausgestellt werden
 
-[^t-2]: Eingefügt durch Ziff. II Abs. 1 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^t-2]: Eingefügt durch Ziff. II Abs. 1 der V vom 4. Mai 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
-- [tab] Für ein Projekt oder Programm im Ausland werden keine internationalen Bescheinigungen ausgestellt, wenn die Emissionsverminderungen oder die Erhöhungen der Senkenleistungen erzielt werden durch:
-- a. Investitionen in die Nutzung fossiler Brenn- oder Treibstoffe zur Energiegewinnung oder in die Extraktion fossiler Energieträger;
+\1. Für ein Projekt oder Programm im Ausland werden keine internationalen Bescheinigungen ausgestellt, wenn die Emissionsverminderungen oder die Erhöhungen der Senkenleistungen erzielt werden durch:
+
+- a. Investitionen in die Nutzung fossiler Brenn- oder Treibstoffe zur Energiegewinnung oder in die Extraktion fossiler Energieträger; ausgenommen sind Investitionen, die zu einer Verbesserung der Energieeffizienz beitragen, ohne dass an der Anlage zur Nutzung fossiler Brennstoffe zur Energiegewinnung etwas geändert wird;
 - b. den Einsatz von Kernenergie;
 - c. den Einsatz von Wasserkraftanlagen mit einer installierten Produktionskapazität von mehr als 20 MW;
 - d. Projekte in industriellen Grossbetrieben, die nicht dem im globalen Markt verfügbaren Stand der Technik entsprechen;
@@ -3451,13 +3471,17 @@ Anhang 2a[^t-2]
 - k. Aktivitäten, die erhebliche negative soziale oder ökologische Auswirkungen haben;
 - l. Aktivitäten, die Anliegen der Aussen- oder Entwicklungspolitik der Schweiz widersprechen.
 
+\2. Bei Aktivitäten im Abfallsektor mit einer verzögerten energetischen Nutzung des Abfalls werden 55 Prozent der Emissionsverminderungen erst bescheinigt, wenn die energetische Nutzung tatsächlich stattfindet.
+
+- [tab]
+
 Anhang 3[^t-3]
 
 (Art. 5 Abs. 1 Bst. a)
 
 ## Emissionsverminderungen oder Erhöhung der Senkenleistungen im Inland, für die keine Bescheinigungen ausgestellt werden
 
-[^t-3]: Fassung gemäss Ziff. II Abs. 2 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^t-3]: Fassung gemäss Ziff. II Abs. 2 der V vom 4. Mai 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 Für ein Projekt oder Programm im Inland werden keine nationalen Bescheinigungen ausgestellt, wenn die Emissionsverminderungen oder die Erhöhung der Senkenleistungen erzielt werden durch:
 
@@ -3465,233 +3489,235 @@ Für ein Projekt oder Programm im Inland werden keine nationalen Bescheinigungen
 - b. Forschung und Entwicklung oder Information und Beratung;
 - c. den Einsatz biogener Brenn- und Treibstoffe, die den ökologischen und sozialen Anforderungen nach Artikel 12*b* des Mineralölsteuergesetzes vom 21. Juni 1996[^annex3-lvlu1-1] und der dazugehörigen Ausführungsvorschriften nicht entsprechen;
 - d. den Ersatz fossiler Energieträger durch fossile Energieträger (z.B. in Heizkesseln, Fahrzeugen und Hybridfahrzeugen);
-- e. den Einsatz von Wasserstoff; ausgenommen ist die Verwendung von Biowasserstoff nach Artikel 19*a* Buchstabe f der Mineralölsteuerverordnung vom 20. November 1996[^annex3-lvlu1-2] in Brennstoffzellen;
+- e.
+
+  den Einsatz von Wasserstoff; ausgenommen ist die Verwendung von:
+
+  - 1\. Wasserstoff aus Biomasse oder anderen erneuerbaren Energieträgern als biogener Treibstoff (Art. 19*a* Bst. f Mineralölsteuerverordnung vom 20. Nov. 1996[^annex3-lvlu1-2]), der die Anforderungen nach Artikel 12*b* des Mineralölsteuergesetzes vom 21. Juni 1996[^annex3-lvlu1-3] erfüllt, oder
+  - 2\. Wasserstoff aus Biomasse oder anderen erneuerbaren Energieträgern, der die Anforderungen nach Artikel 12*b* des Mineralölsteuergesetzes erfüllt, aber nicht als Treibstoff verwendet wird;
+
 - f. Strom als Brennstoffersatz für Prozesswärme; ausgenommen ist die Verwendung in Wärmepumpen;
 - g. Nutzungsverzicht oder Unternutzung;
-- h. den Einsatz von Pflanzenkohle; ausgenommen ist der Einsatz von weniger als acht Tonnen pro Hektare pro Kreditierungsperiode, wenn die eingesetzte Pflanzenkohle den Anforderungen nach der Dünger-Verordnung vom 10. Januar 2001[^annex3-lvlu1-3] entspricht;
-- i. den Einsatz von Ad- und Absorptionstechniken zur Bereitstellung von Kälte oder Wärme; ausgenommen ist deren Einsatz bei der dezentralen Nutzung von ausreichend verfügbarer Abwärme nach Artikel 2 Buchstabe e der Energieförderungsverordnung vom 1. November 2017[^annex3-lvlu1-4].
+- h.
+
+  den Einsatz von Pflanzenkohle; ausgenommen ist die Verwendung als:
+
+  - 1\. Dünger, wenn weniger als acht Tonnen pro Hektare pro Kreditierungsperiode ausgebracht werden und die eingesetzte Pflanzenkohle den Anforderungen nach der Dünger-Verordnung vom 10. Januar 2001[^annex3-lvlu1-4] entspricht, oder
+  - 2\. Baumaterial;
+
+- i. den Einsatz von Ad- und Absorptionstechniken zur Bereitstellung von Kälte oder Wärme; ausgenommen ist deren Einsatz bei der dezentralen Nutzung von ausreichend verfügbarer Abwärme nach Artikel 2 Buchstabe e der Energieförderungsverordnung vom 1. November 2017[^annex3-lvlu1-5].
 - [tab]
 
 [^annex3-lvlu1-1]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
 [^annex3-lvlu1-2]: [SR 641.611](https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393)
-[^annex3-lvlu1-3]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
-[^annex3-lvlu1-4]: [SR 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
+[^annex3-lvlu1-3]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^annex3-lvlu1-4]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^annex3-lvlu1-5]: [SR 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
 
 Anhang 3a[^t-4]
 
-(Art. 6 Abs. 2<sup>bis</sup>)
+(Art. 6 Abs. 3)
 
 ## Anforderungen an die Berechnung der Emissionsverminderungen und das Monitoringkonzept für Projekte und Programme im Zusammenhang mit Wärmeverbünden
 
-[^t-4]: Eingefügt durch Ziff. II Abs. 1 der V vom 21. Sept. 2018, in Kraft seit 1. Nov. 2018 ([AS 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)). Bereinigt gemäss Berichtigung vom 19. Febr. 2019 ([AS 2019 683](https://fedlex.data.admin.ch/eli/oc/2019/118)), Ziff. II Abs. 1 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)) und 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^t-4]: Eingefügt durch Ziff. II Abs. 1 der V vom 21. Sept. 2018 ([AS 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)). Fassung gemäss Ziff. II Abs. 2 der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 ### 1 Geltungsbereich
 
-Die Anforderungen dieses Anhangs gelten für Projekte und Programme, wenn diese umfassen:
+Dieser Anhang gilt für Projekte und Programme, wenn diese umfassen:
 
-- a. den Bau eines neuen Wärmenetzes mit einer mehrheitlich CO<sub>2</sub>-neutraler Wärmequelle;
-- b. den Ersatz eines zentralen, fossil betriebenen Kessels in einem bestehenden Wärmenetz mit ausschliesslich fossilen Wärmequellen durch eine oder mehrere mehrheitlich CO<sub>2</sub>-neutrale Wärmequellen;
-- c. die Ergänzung eines zentralen, fossil betriebenen Kessels in einem bestehenden Wärmenetz mit ausschliesslich fossilen Wärmequellen durch eine oder mehrere mehrheitlich CO<sub>2</sub>-neutrale Wärmequellen;
-- d. den Bau eines neuen Wärmenetzes, welches auch den Ersatz eines zentralen, fossil betriebenen Kessels in einem bestehenden Wärmenetz mit ausschliesslich fossilen Wärmequellen durch eine oder mehrere mehrheitlich CO<sub>2</sub>-neutrale Wärmequellen vorsieht; oder
-- e. den Bau eines neuen Wärmenetzes, welches auch die Ergänzung eines zentralen, fossil betriebenen Kessels in einem bestehenden Wärmenetz mit ausschliesslich fossilen Wärmequellen durch eine oder mehrere mehrheitlich CO<sub>2</sub>-neutrale Wärmequellen vorsieht.
+- a. den Bau eines neuen Wärmeverbunds mit einer oder mehreren CO<sub>2</sub>-neutralen Wärmequellen;
+- b. die Erweiterung oder die Verdichtung eines bestehenden Wärmeverbunds mit mehrheitlich CO<sub>2</sub>-neutralen Wärmequellen;
+- c. den Ersatz oder die Ergänzung einer oder mehrerer zentraler fossiler Wärmequellen in einem bestehenden Wärmeverbund durch eine oder mehrere mehrheitlich CO<sub>2</sub>-neutrale Wärmequellen.
 
 ### 2 Begriffe
 
 Im Sinne dieses Anhangs bedeuten:
 
-- a. *Wärmeverbund:* Netz zur Verteilung von Wärme mit zentralen Quellen und dezentralen Bezügern (Wärmebezügern);
-- b. *Bestehende Bezüger:* Wärmebezüger, welche bereits vor Beginn der Umsetzung nach Artikel 5 Absatz 2 an einen bestehenden Wärmeverbund angeschlossen sind;
-- c. *Neubauten:* Gebäude, die zum Zeitpunkt des Anschlusses an den Wärmeverbund erstellt werden und keine bestehenden Bezüger sind.
+- a. *Wärmeverbund:* Netz zur Verteilung von Wärme mit zentralen Wärmequellen und dezentralen Bezügern;
+- b. *neue Bezüger:* Wärmebezüger, welche nach Beginn der Umsetzung des Projekts (Art. 5 Abs. 3) an einen neuen oder bestehenden Wärmeverbund angeschlossen werden;
+- c. *bestehende Bezüger:* Wärmebezüger, welche bereits vor Beginn der Umsetzung des Projekts an einen bestehenden Wärmeverbund angeschlossen sind;
+- d. *Neubauten:* Gebäude, die zum Zeitpunkt des Anschlusses an den Wärmeverbund erstellt werden und keine bestehenden Bezüger sind.
 
 ### 3 Anforderungen an die Berechnung der Emissionsverminderungen
 
 ### 3.1 Messtechnische Anforderungen
 
-Projekte und Programme müssen insbesondere alle folgenden messtechnischen Anforderungen erfüllen:
+Für die Berechnung der Emissionsverminderungen von Projekten und Programmen ist insbesondere zu messen:
 
-- a. Es sind der Verbrauch aller fossiler Energieträger der Heizzentrale und der Elektrizitätsverbrauch von Wärmepumpen der Heizzentrale zu messen.
-- b. Es sind die Wärmemengen bei allen Wärmebezügern zu messen, wobei Wärmemengen an Neubauten und an von der CO<sub>2</sub>-Abgabe befreite Betreiber von Anlagen nach Artikel 96 Absatz 2 separat ausgewiesen werden müssen.
+- a. der Verbrauch aller zentralen fossilen Wärmequellen;
+- b. der Elektrizitätsverbrauch der Wärmepumpen;
+- c.
+
+  die Wärmemengen bei allen Wärmebezügern, wobei die folgenden Wärmemengen separat ausgeweisen werden müssen:
+
+  - – Wärmemengen, die an Neubauten verteilt werden,
+  - – Wärmemengen, die an von der CO<sub>2</sub>-Abgabe befreite Betreiber von Anlagen nach Artikel 96 Absatz 2 verteilt werden.
 
 ### 3.2 Systemgrenzen
 
-Die Systemgrenzen des Projektes oder Programmes müssen die Heizzentrale, das Wärmenetz und alle Bezüger, eingehende Energieflüsse sowie die aus dem Projekt resultierenden Emissionen umfassen.
+Die Systemgrenzen des Projektes oder Programmes müssen umfassen:
+
+- a. die zentralen Wärmequellen;
+- b. das Netz zur Verteilung der Wärme:
+- c. die Wärmebezüger;
+- d. die eingehenden Energieflüsse;
+- e. die aus dem Projekt oder Programm resultierenden Emissionen.
 
 ### 3.3 Referenzszenario
 
-\1. In der Beschreibung des Projektes oder Programmes sind mindestens zwei plausible alternative Szenarien zum Projekt respektive Programm darzustellen.
+\1. In der Beschreibung des Projektes oder Programmes sind mindestens zwei plausible alternative Szenarien zum Projekt oder Programm darzustellen.
 
-\2. In diesen müssen mindestens die folgenden Situationen beschrieben werden:
+\2. Die Szenarien sind auf maximal 20 Jahre auszulegen.
 
-- a. die Fortführung der bestehenden Situation, ohne Umsetzung des Projektes oder Programmes; und
-- b. der projektierte Wärmeverbund, aber ohne Einnahmen aus Bescheinigungen.
-
-\3. Die Eintrittswahrscheinlichkeiten dieser Szenarien sind in der Beschreibung des Projektes oder Programmes darzulegen, wobei das wahrscheinlichste Szenario als Referenzszenario gewählt wird.
+\3. Es ist die Wahrscheinlichkeit des Eintritts der einzelnen Szenarien darzulegen und zu bestimmen, welches Szenario das wahrscheinlichste ist. Dieses gilt als Referenzszenario.
 
 ### 3.4 Berechnung der Referenzemissionen
 
-Die jährlichen Gesamtemissionen in der Referenzentwicklung sind wie folgt zu berechnen:
+Die jährlichen Gesamtemissionen im Referenzszenario sind wie folgt zu berechnen:
 
-*RE**<sub>y</sub>* *= (RE**<sub>neu,y</sub>* *+ RE**<sub>bestehend,y</sub>* *) \* F**<sub>KEV</sub>* (1)
-
-dabei bedeuten:
-
-- RE<sub>y</sub> Emissionen des Referenzszenarios im Jahr y [tCO<sub>2</sub>eq].
-- RE<sub>neu,y</sub> Emissionen des Referenzszenarios von neuen Bezügern im Jahr y [tCO<sub>2</sub>eq], s. Gleichung (2)
-- RE<sub>bestehend,y</sub> Emissionen des Referenzszenarios von bestehenden Bezügern im Jahr y [tCO<sub>2</sub>eq] s. Gleichung (3)
-- F<sub>KEV</sub> Abschlagfaktor kostendeckende Einspeisevergütung (KEV); dieser Parameter ist gleich 1 zu setzen.
-- Wird mit der Wärmequelle des Wärmeverbundes Elektrizität produziert und wird diese durch die kostendeckende Einspeisevergütung vergütet, ist der einzusetzende Parameter wie folgt zu bestimmen:
-- 1. für KEV-Projekte vor dem 1. Januar 2018 ist nach Anhang 1.5 der Energieverordnung vom 7. Dezember 1998[^annex3a-lvlu1-lvl3-lvl34-1] (EnV) die Mindestanforderung für die Wärmenutzung ins Verhältnis zur gesamten Wärmenutzung der Anlage zu setzen; oder
-- 2. für KEV-Projekte ab dem 1. Januar 2018 ist nach Anhang 1.5 der Verordnung über die Förderung der Produktion von Elektrizität aus erneuerbaren Energien vom 1. November 2017[^annex3a-lvlu1-lvl3-lvl34-2] (EnFV) die Mindestanforderung für die Wärmenutzung ins Verhältnis zur gesamten Wärmenutzung der Anlage zu setzen.
-
-Die einzelnen Terme sind wie folgt zu berechnen:
-
-*RE**<sub>neu,y</sub>* *= ∑**<sub>i</sub>* *W**<sub>neu,i,y</sub>* *\* EF**<sub>WV</sub>* (2)
+*RE**<sub>y</sub>* *= (RE**<sub>neu,y</sub>* *+ RE**<sub>bestehend,y</sub>* *+ RE*<sub>EHS,y</sub>*)* (1)
 
 dabei bedeuten:
 
-- W<sub>neu,i,y</sub> Erwartete Wärmelieferung an neue Bezüger des Wärmenetzes im Jahr y [MWh]; dieser Parameter wird im Monitoring durch den gemessenen Wert nach Ziffer 4.2 ersetzt.
-- i Alle neuen Bezüger ohne Neubauten und von der CO<sub>2</sub>-Abgabe befreite Betreiber von Anlagen nach Artikel 96 Absatz 2.
-- EF<sub>WV</sub> Pauschaler Emissionsfaktor des Wärmeverbundes = 0,22 tCO<sub>2</sub>eq/MWh.
+- RE<sub>y</sub> Emissionen des Referenzszenarios im Jahr y [tCO<sub>2</sub>eq]
+- RE<sub>neu,y</sub> Emissionen des Referenzszenarios von neuen Bezügern im Jahr y [tCO<sub>2</sub>eq], vgl. Gleichung (2)
+- RE<sub>bestehend,y</sub> Emissionen des Referenzszenarios von bestehenden Bezügern im Jahr y [tCO<sub>2</sub>eq], vgl. Gleichung (3)
+- RE<sub>EHS,y</sub> Parameter, der eingesetzt wird, um die Doppelzählung von Emissionen hier und im Emissionshandelssystem zu verhindern; dieser Parameter ist gleich 0 zu setzen.
+- Bezieht das Projekt Wärme aus einer Wärmequelle, welche sich im Perimeter einer Anlage befindet, deren Betreiber am Emissionshandelssystem teilnimmt, so hat der Parameter den Wert der zugeteilten Emissionsrechte im Jahr y [tCO<sub>2</sub>eq]; dieser Wert wird beim Gesuch um die Beurteilung der Eignung des Projektes festgelegt und während der Kreditierungsperiode nur geändert, wenn sich Änderungen im Emissionshandelssystem ergeben, die eine Anpassung notwendig machen.
 
-*RE**<sub>bestehend,y</sub>* *= ∑**<sub>k</sub>* *W**<sub>bestehend,k,y</sub>**\* EF**<sub>bestehend</sub>* *\* RF**<sub>y</sub>**\*1/(1-WVN))* (3)
+Die Terme sind wie folgt zu berechnen:
+
+*RE**<sub>neu</sub>**<sub>,y</sub>* *= ∑**<sub>i</sub>* *W**<sub>neu,i,y</sub>* *\* EF**<sub>WV</sub>* (2)
+
+dabei bedeuten:
+
+- W<sub>neu,i,y</sub> Erwartete Wärmelieferung an neue Bezüger im Jahr y [MWh]; dieser Parameter wird im Monitoring durch den gemessenen Wert nach Ziffer 4.2 ersetzt.
+- i Alle neuen Bezüger ohne:
+- – Neubauten,
+- – Gebäude, die vor Anschluss an den Wärmeverbund bereits CO<sub>2</sub>-neutral beheizt wurden, und
+- – Anlagen, deren Betreiber nach Artikel 96 Absatz 2 von der CO<sub>2</sub>-Abgabe befreit sind.
+- EF<sub>WV</sub> Pauschaler Emissionsfaktor des Wärmeverbundes = 0,211 tCO<sub>2</sub>eq/MWh.
+
+*RE**<sub>bestehend,y</sub>* *= ∑**<sub>k</sub>* *W**<sub>bestehend,k,y</sub>**\* EF**<sub>bestehend</sub>* *\* RF**<sub>y</sub>**\*1/(1–WVN))* (3)
 
 dabei bedeuten:
 
 - W<sub>bestehend,k,y</sub> Erwartete Wärmelieferungen an bestehende Bezüger im Jahr y [MWh]; dieser Parameter wird im Monitoring durch den gemessenen Wert nach Ziffer 4.2 ersetzt.
-- <sub>k</sub> Alle bestehenden Wärmebezüger ohne von der CO<sub>2</sub>-Abgabe befreite Betreiber von Anlagen.
-- RF<sub>y</sub> Referenzfaktor des Jahres y; dieser beträgt 100 %, wenn das Jahr y innerhalb der ersten 20 Jahre seit der Installation des alten Kessels liegt, sonst beträgt er 70 %.
-- WVN Pauschaler Abzug für Wärmeverluste des Wärmenetzes von 10 %.
-- EF<sub>bestehend</sub> Emissionsfaktor des Wärmeverbundes, abhängig von der Art des zu ersetzenden zentralen Heizkessels.
-- Bei Ersatz eines Erdgaskessels beträgt der Emissionsfaktor des Wärmeverbundes EF1<sub>Gas</sub> / 90 %.
-- Bei Ersatz eines Heizölkessels beträgt der Emissionsfaktor des Wärmeverbundes EF1<sub>Heizöl</sub> / 85 %.
-- EF1<sub>Gas</sub> Emissionsfaktor von Erdgas nach Anhang 10 in tCO<sub>2</sub>eq/MWh umgerechnet. Für die Umrechnung der Einheit tCO<sub>2</sub>eq/TJ in tCO<sub>2</sub>eq/MWh ist der Faktor 0.0036 TJ/MWh zu verwenden.
-- EF1<sub>Heizöl</sub> Emissionsfaktor von Heizöl; dieser beträgt 0,265 tCO<sub>2</sub>eq/MWh.
-- EF<sub>Strom</sub> Emissionsfaktor von elektrischem Strom; dieser beträgt 29,8 \* 10<sup>-6</sup> tCO<sub>2</sub>eq/kWh.
-
-[^annex3a-lvlu1-lvl3-lvl34-1]: [SR 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
-[^annex3a-lvlu1-lvl3-lvl34-2]: [SR 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
+- <sub>k</sub> Alle bestehenden Bezüger, ohne Anlagen, deren Betreiber nach Artikel 96 Absatz 2 von der CO<sub>2</sub>-Abgabe befreit sind.
+- RF<sub>y</sub> Referenzfaktor des Jahres y; dieser beträgt 100 %, wenn das Jahr y innerhalb der ersten 20 Jahre seit der Installation der ältesten zentralen fossilen Wärmequelle liegt; in allen anderen Fällen beträgt er 70 %.
+- WVN Pauschaler Abzug für Wärmeverluste des Netzes zur Verteilung der Wärme; dieser beträgt 10 %.
+- EF<sub>bestehend</sub> Emissionsfaktor des bestehenden Wärmeverbundes inklusive Wirkungsgrad, abhängig von der Art der zu ersetzenden zentralen Wärmequelle oder den zu ersetzenden zentralen Wärmequellen; er wird wie folgt berechnet:
+- – für Projekte, die nur erdgasbetriebene Wärmequellen ersetzen: EF<sub>bestehend</sub> = 0,226 tCO<sub>2</sub>/MWh
+- <sub>–</sub> für Projekte, die nur heizölbetriebene Wärmequellen ersetzen: EF<sub>bestehend</sub> = 0,312 tCO<sub>2</sub>/MWh
+- <sub>–</sub> für Projekte, die nur erdgas- und heizölbetriebene Wärmequellen ersetzen: EF<sub>bestehend</sub> = 0,269 tCO<sub>2</sub>/MWh
+- – für Projekte, die fossile und erneuerbare Wärmequellen ersetzen: EF<sub>bestehend</sub> = 0,113 tCO<sub>2</sub>/MWh
 
 ### 3.5 Berechnung der Projekt- oder Programmemissionen
 
-Die jährlichen Projektemissionen des Projekts oder die Projektemissionen eines jeden Projekts des Programmes sind wie folgt zu berechnen:
+Die jährlichen Emissionen eines Projektes und die jährlichen Emissionen jedes Projektes eines Programmes sind wie folgt zu berechnen:
 
-*PE**<sub>y</sub>* *= EF2**<sub>Heizöl</sub>* *\* M**<sub>Heizöl,y</sub>* *+ EF2**<sub>Gas</sub>* *\* M**<sub>Gas,y</sub>* *+ EF**<sub>el</sub>* *\* M**<sub>el,y</sub>* (4)
+*PE**<sub>y</sub>* *= EF**<sub>Heizöl</sub>* *\* M**<sub>Heizöl,y</sub>* *+ EF**<sub>Gas</sub>* *\* M**<sub>Gas,y</sub>* *+ EF**<sub>Strom</sub>* *\* M**<sub>Strom,y</sub>* *+ PE**<sub>EHS,y</sub>* (4)
 
 dabei bedeuten:
 
-- PE<sub>y</sub> Erwartete Projektemissionen des Projekts oder des Projekts des Programmes im Jahr y [tCO<sub>2</sub>eq]
-- M<sub>Heizöl,y</sub> Erwartete Menge an verbranntem Heizöl zum Betrieb der Heizzentrale im Jahr y [l]; dieser Parameter wird im Monitoring durch den gemessenen Wert nach Ziffer 4.4 ersetzt.
-- M<sub>Gas,y</sub> Erwartete Menge an verbranntem Gas zum Betrieb der Heizzentrale im Jahr y [Nm<sup>3</sup>]; dieser Parameter wird im Monitoring durch den gemessenen Wert nach Ziffer 4.5 ersetzt.
-- M<sub>el,y</sub> Erwartete Menge an elektrischer Energie zum Betrieb von Wärmepumpen in der Heizzentrale im Jahr y [kWh]; dieser Parameter wird im Monitoring durch den gemessenen Wert nach Ziffer 4.6 ersetzt.
-- EF2<sub>Gas</sub> Emissionsfaktor Erdgas nach Anhang 10 in tCO<sub>2</sub>eq/Nm<sup>3</sup> oder in tCO<sub>2</sub>eq/MWh umgerechnet je nachdem welche Einheit für M<sub>Gas</sub> verwendet wird. Für die Umrechnung der Einheit tCO<sub>2</sub>/TJ in die Einheit tCO<sub>2</sub>eq/MWh ist der Faktor 0,0036 TJ/MWh zu verwenden.
-- EF2<sub>Heizöl</sub> Emissionsfaktor von Heizöl; dieser beträgt 2,65 tCO<sub>2</sub>eq/1000 l.
+- PE<sub>y</sub> Erwartete Emissionen des Projektes im Jahr y [tCO<sub>2</sub>eq]
+- M<sub>Heizöl,y</sub> Erwartete Menge an verbranntem Heizöl zum Betrieb der zentralen Wärmequelle oder der zentralen Wärmequellen im Jahr y [l]; dieser Parameter wird im Monitoring durch den gemessenen Wert nach Ziffer 4.4 ersetzt.
+- M<sub>Gas,y</sub> Erwartete Menge an verbranntem Gas zum Betrieb der zentralen Wärmequelle oder der zentralen Wärmequellen im Jahr y [Nm<sup>3</sup> oder im MWh]; dieser Parameter wird im Monitoring durch den gemessenen Wert nach Ziffer 4.5 ersetzt.
+- M<sub>Strom,y</sub> Erwartete Menge an elektrischer Energie zum Betrieb von zentralen Wärmepumpen im Jahr y [kWh]; dieser Parameter wird im Monitoring durch den gemessenen Wert nach Ziffer 4.6 ersetzt.
+- EF<sub>Gas</sub> Emissionsfaktor Erdgas nach Anhang 10 in tCO<sub>2</sub>eq/Nm<sup>3</sup> oder in tCO<sub>2</sub>eq/MWh umgerechnet je nachdem, welche Einheit für M<sub>Gas</sub> verwendet wird. Für die Umrechnung der Einheit tCO<sub>2</sub>/TJ in die Einheit tCO<sub>2</sub>eq/MWh ist der Faktor 0,0036 TJ/MWh zu verwenden.
+- EF<sub>Heizöl</sub> Emissionsfaktor von Heizöl; dieser beträgt 2,65 tCO<sub>2</sub>eq/1 000 l.
+- PE<sub>EHS,y</sub> Parameter, der eingesetzt wird, um die Doppelzählung von Emissionen hier und im Emissionshandelssystem zu verhindern; dieser Parameter ist gleich 0 zu setzen.
+- Bezieht der Wärmeverbund Wärme aus einer Wärmequelle, welche sich im Perimeter einer Anlage befindet, deren Betreiber am Emissionshandelssystem teilnimmt, so hat der Parameter den Wert der zugeteilten Emissionsrechte im Jahr y [tCO<sub>2</sub>eq]; dieser Wert wird jährlich im Monitoringbericht festgelegt; er entspricht den dem Betreiber der Anlagen im Emissionshandelssystem ausgestellten Emissionsrechten.
+- EF<sub>Strom</sub> Emissionsfaktor von Strom; dieser beträgt 29,6 \* 10–6 tCO<sub>2</sub>eq/kWh.
 
-### 3.6 Berechnung der Emissionsverminderungen
+### 3.6 Berechnung der jährlichen Emissionsverminderungen
 
-Die jährlichen Emissionsverminderungen sind für Projekte oder Projekte von Programmen wie folgt zu berechnen:
+Die jährlichen Emissionsverminderungen sind für Projekte wie folgt zu berechnen:
 
 - *ER**<sub>y</sub>* *= RE**<sub>y</sub>* *– PE**<sub>y</sub>* (5)
 
 dabei bedeuten:
 
-- ER<sub>y</sub> Emissionsverminderungen im Jahr y [tCO<sub>2</sub>eq].
-- RE<sub>y</sub> Emissionen des Referenzszenarios im Jahr y [tCO<sub>2</sub>eq].
-- PE<sub>y</sub> Projektemissionen des Wärmeverbundes im Jahr y [tCO<sub>2</sub>eq].
+- ER<sub>y</sub> Emissionsverminderungen im Jahr y [tCO<sub>2</sub>eq]
+- RE<sub>y</sub> Emissionen des Referenzszenarios im Jahr y [tCO<sub>2</sub>eq]
+- PE<sub>y</sub> Projektemissionen des Wärmeverbundes im Jahr y [tCO<sub>2</sub>eq]
 
 ### 4 Anforderungen an das Monitoringkonzept
 
-\1. Für Projekte und Programme nach diesem Anhang sind im Monitoringbericht die in Ziffer 4.1–4.6 aufgeführten Messwerte, Belege und Anforderungen zu berücksichtigen.
+### 4.1 Wärmebezügerliste mit nachgewiesenen Wärmelieferungen
 
-\2. Die Berechnung der Emissionsverminderungen muss anhand der Messwerte bestimmt werden.
+\1. Dem Monitoringbericht ist eine Liste aller Wärmebezüger beizulegen. Diese muss die folgenden Angaben enthalten:
 
-### 4.1 Wärmebezügerliste mit belegten Wärmelieferungen
+- a. Name und Adresse der Bezüger;
+- b. Jahr, in dem die Bezüger an den Wärmeverbund angeschlossen wurden;
+- c. Menge an Wärme in MWh, die den Bezügern in der Monitoringperiode geliefert wurde, aufgeschlüsselt nach Kalenderjahr; die Menge ist gemäss Ziffer 2.4 zu berechnen.
 
-\1. Dem Monitoringbericht ist eine Liste aller Wärmebezüger mit der in der Monitoringperiode gelieferten Menge an Wärme in MWh beizulegen; die Menge an Wärme in MWh ist jeweils nach Kalenderjahr aufzuschlüsseln. Die Messung hat gemäss Ziffer 4.2 zu erfolgen.
+\2. Handelt es sich bei den Bezügern um von der CO<sub>2</sub>-Abgabe befreite Betreiber von Anlagen nach Artikel 96 Absatz 2, so muss die Liste zusätzlich zu den Angaben nach Ziffer 1 die Emissionen des Referenzszenarios in tCO<sub>2</sub>eq enthalten. Die Emissionen sind nach Ziffer 3.4 zu berechnen.
 
-\2. Die Einträge in der Wärmebezügerliste müssen so beschaffen sein, dass eine eindeutige Identifizierung der Wärmebezüger möglich ist.
+### 4.2 Messung der an Wärmebezüger gelieferte Wärmemenge
 
-\3. Für von der CO<sub>2</sub>-Abgabe befreite Betreiber von Anlagen nach Artikel 96 Absatz 2 sind zusätzlich:
+Bei der Messung der an neue und bestehende Wärmebezüger gelieferten Wärme (W<sub>neu,1,y</sub>) (W<sub>bestehend,l,y</sub>) sind die folgenden Anforderungen zu erfüllen:
 
-- a. Namen und Adressen anzugeben; und
-- b. die Emissionen des Referenzszenarios in tCO<sub>2</sub>eq für jeden Betreiber von Anlagen auszuweisen.
-
-\4. Die Emissionen nach Ziffer 3 Buchstabe b sind wie folgt zu berechnen:
-
-*RE**<sub>Betreiber von Anlagen,neu,m,y</sub>* *= W**<sub>Betreiber von Anlagen,neu,m,y</sub>* *\* EF**<sub>WV</sub>*
-
-dabei bedeuten:
-
-- W<sub>Betreiber von Anlagen,neu,m,y</sub> Wärmelieferung des neuen Wärmeverbundes an das von der CO<sub>2</sub>-Abgabe befreite Betreiber von Anlagen m im Jahr y [MWh].
-- EF<sub>WV</sub> Pauschaler Emissionsfaktor des Wärmeverbundes = 0,22 tCO<sub>2</sub>eq/MWh.
-
-*RE**<sub>Betreiber von Anlagen,bestehend,n,y</sub>* *= W**<sub>Betreiber von Anlagen,bestehend,n,y</sub>* *\* EF**<sub>bestehend</sub>* *\* RF**<sub>y</sub>**\*1/(1-WVN))*
-
-dabei bedeuten:
-
-- W<sub>Betreiber von Anlagen,bestehend,n,y</sub> Wärmelieferung des bestehenden Wärmeverbundes an den von der CO<sub>2</sub>-Abgabe befreiten Betreiber von Anlagen n im Jahr y [MWh].
-- RF<sub>y</sub> Referenzfaktor des Jahres y; dieser beträgt 100 %, wenn das Jahr y innerhalb der ersten 20 Jahre seit der Installation des alten Kessels liegt, sonst beträgt er 70 %.
-- WVN Wärmeverlust des Wärmenetzes als pauschaler Abzug von 10 %.
-- EF<sub>bestehend</sub> Emissionsfaktor des Wärmeverbundes, abhängig von der Art des zu ersetzenden zentralen Heizkessels.
-- Bei Ersatz eines Erdgaskessels beträgt der Emissionsfaktor des Wärmeverbundes EF1<sub>Gas</sub> / 90 %.
-- Bei Ersatz eines Heizölkessels beträgt der Emissionsfaktor des Wärmeverbundes EF1<sub>Heizöl</sub> / 85 %.
-- EF1<sub>Gas</sub> Emissionsfaktor von Erdgas nach Anhang 10 in tCO<sub>2</sub>eq/ MWh umgerechnet. Für die Umrechnung der Einheit tCO<sub>2</sub>eq/MJ in tCO<sub>2</sub>eq/MWh ist der Faktor 0.0036 TJ zu verwenden.
-- EF1<sub>Heizöl</sub> Emissionsfaktor von Heizöl; dieser beträgt 0,265 tCO<sub>2</sub>eq/MWh.
-- EF<sub>Strom</sub> Emissionsfaktor von elektrischem Strom; dieser beträgt 29,8 \* 10<sup>-6</sup> tCO<sub>2</sub>eq/kWh.
-
-### 4.2 Bei Bezügern gemessene Wärmemenge
-
-Bei der Messung der gelieferten Wärme (W<sub>neu,1,y</sub>) (W<sub>bestehend,l,y</sub>) an neue und bestehende Bezüger sind die folgenden Anforderungen zu beachten:
-
-- a. es ist die gelieferte Wärme an den Bezüger *l* im Jahr *y* zu messen;
-- b. als Datenquelle muss ein Wärmemengenzähler verwendet werden;
-- c. die Messung hat in Megawattstunden (MWh) zu erfolgen;
-- d. die Messung hat kontinuierlich zu erfolgen;
-- e. die Qualitätssicherung hat nach den Anforderungen der Messmittelverordnung vom 15. Februar 2006[^annex3a-lvlu1-lvl4-lvl42-1] (MessMV) und den entsprechenden Ausführungsvorschriften des Eidgenössischen Justiz- und Polizeidepartements (EJPD) zu erfolgen; und
-- f. als Messort ist die Übergabestelle des Wärmeverbundes zum Bezüger zu verwenden.
+- a. Es ist die gelieferte Wärme an den Wärmebezüger *l* im Jahr *y* zu messen.
+- b. Als Datenquelle muss ein Wärmemengenzähler verwendet werden.
+- c. Die Messung hat in Kilowattstunden (kWh) oder Megawattstunden (MWh) zu erfolgen.
+- d. Die Messung hat kontinuierlich zu erfolgen.
+- e. Die Qualitätssicherung hat nach den Anforderungen der Messmittelverordnung vom 15. Februar 2006[^annex3a-lvlu1-lvl4-lvl42-1] (MessMV) und den entsprechenden Ausführungsvorschriften des Eidgenössischen Justiz- und Polizeidepartements (EJPD) zu erfolgen.
+- f. Als Messort ist die Übergabestelle zum Wärmebezüger zu verwenden.
 
 [^annex3a-lvlu1-lvl4-lvl42-1]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
 
-### 4.3 Alter des ersetzten Kessels
+### 4.3 Alter der zu ersetzenden zentralen fossilen Wärmequelle
 
-Zur Bestimmung des Referenzfaktors ist das Herstellerjahr oder das Installationsjahr des ersetzten oder ergänzten fossil betriebenen Kessels zu berücksichtigen.
+Zur Bestimmung des Referenzfaktors ist das Herstellerjahr oder das Installationsjahr der ältesten zu ersetzenden fossil betriebenen Wärmequelle zu berücksichtigen.
 
-### 4.4 Heizölmenge
+### 4.4 Messung der Heizölmenge
 
-Bei der Messung der Heizölmenge (M<sub>Heizöl,y</sub>) sind alle der folgenden Anforderungen zu beachten:
+Bei der Messung der Heizölmenge (M<sub>Heizöl,y</sub>) sind die folgenden Anforderungen zu erfüllen:
 
-- a. Es ist die Menge an verbranntem Heizöl zum Betrieb der Heizzentrale im Jahr y zu messen.
+- a. Es ist die Menge an verbranntem Heizöl zum Betrieb der zentralen fossilen Wärmequelle oder Wärmequellen im Jahr y zu messen.
 - b. Als Datenquelle muss ein Heizölzähler oder eine Heizöllagerbilanz verwendet werden.
 - c. Die Messung hat in Litern (l) zu erfolgen.
-- d. Die Messung hat entweder pro Monitoringperiode oder, wenn diese über ein Kalenderjahr hinaus geht, pro Kalenderjahr zu erfolgen.
-- e. Die Qualitätssicherung erfolgt durch Kalibrierung des Heizölzählers, ansonsten muss eine Plausibilisierung über alternative Datenquellen erfolgen.
+- d. Die Messung hat entweder pro Monitoringperiode oder, wenn diese über ein Kalenderjahr hinausgeht, pro Kalenderjahr zu erfolgen.
+- e. Die Qualitätssicherung erfolgt durch Kalibrierung des Heizölzählers; ansonsten muss eine Plausibilisierung über alternative Datenquellen erfolgen.
 
-### 4.5 Gasmenge
+### 4.5 Messung der Gasmenge
 
-Bei der Messung der Gasmenge (M<sub>Gas,y</sub>) sind alle der folgenden Anforderungen zu beachten:
+Bei der Messung der Gasmenge (M<sub>Gas,y</sub>) sind die folgenden Anforderungen zu erfüllen:
 
-- a. Es ist die gemessene Menge an verbranntem Gas zum Betrieb der Heizzentrale im Jahr y zu messen.
+- a. Es ist die Menge an verbranntem Gas zum Betrieb der zentralen fossilen Wärmequelle oder Wärmequellen im Jahr y zu messen.
 - b. Als Datenquelle muss ein Gaszähler verwendet werden.
-- c. Die Messung hat in Normkubikmetern (Nm<sup>3</sup>) zu erfolgen.
+- c. Die Messung hat in Normkubikmetern (Nm<sup>3</sup>) oder Megawhattstunden (MWh) zu erfolgen.
 - d. Die Messung hat kontinuierlich zu erfolgen.
-- e. Die Qualitätssicherung hat nach den Anforderungen der MessMV und den entsprechenden Ausführungsvorschriften des EJPD zu erfolgen.
+- e. Die Qualitätssicherung hat nach den Vorgaben der MessMV und den entsprechenden Ausführungsvorschriften des EJPD zu erfolgen.
 
-### 4.6 Elektrische Energie
+### 4.6 Messung der Menge an elektrischer Energie
 
-Bei der Messung von elektrischer Energie (M<sub>el,y</sub>) sind alle der folgenden Anforderungen zu beachten:
+Bei der Messung der Menge an elektrischer Energie (M<sub>Strom,y</sub>) sind die folgenden Anforderungen zu erfüllen:
 
-- a. Es ist die gemessene Menge an elektrischer Energie zum Betrieb von Wärmepumpen in der Heizzentrale im Jahr y zu messen.
+- a. Es ist die Menge an elektrischer Energie zum Betrieb der zentralen Wärmepumpe oder Wärmepumpen im Jahr y zu messen.
 - b. Als Datenquelle muss ein Elektrizitätszähler verwendet werden.
 - c. Die Messung hat in Kilowattstunden (kWh) oder Megawattstunden (MWh) zu erfolgen.
 - d. Die Messung hat kontinuierlich zu erfolgen.
 - e. Die Qualitätssicherung hat nach den Vorgaben der MessMV und den entsprechenden Ausführungsvorschriften des EJPD zu erfolgen.
 
+### 4.7 Erwartete Projektemissionen: Verhinderung von Doppelzählungen mit dem Emissionshandelssystem (PE<sub>EHS,y</sub>)
+
+\1. Bezieht ein Projekt Wärme aus einer Wärmequelle, welche sich im Perimeter einer Anlage befindet, deren Betreiber am Emissionshandelssystem teilnimmt, so hat dieser Parameter den Wert der zugeteilten Emissionsrechte im Jahr y [tCO<sub>2</sub>eq].
+
+\2. Dieser Wert wird jährlich im Monitoringbericht als die dem Betreiber der Anlagen im Emissionshandelssystem ausgestellten Emissionsrechte festgelegt.
+
+- [tab]
+
 Anhang 3b[^t-5]
 
-(Art. 6 Abs. 4)
+(Art. 6 Abs. 3[^t-6])
 
-## Anforderungen an die Berechnung der Emissionsverminderungen und das Monitoringkonzept für Deponiegasprojekte- und -programme
+## Anforderungen an die Berechnung der Methandreduktion und das Monitoringkonzept für Deponiegasprojekte und ‑programme
 
-[^t-5]: Eingefügt durch Ziff. II Abs. 1 der V vom 21. Sept. 2018 ([AS 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)). Bereinigt gemäss Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^t-5]: Eingefügt durch Ziff. II Abs. 1 der V vom 21. Sept. 2018 ([AS 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^t-6]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) angepasst.
 
 ### 1 Geltungsbereich
 
@@ -3729,56 +3755,55 @@ Im Sinne dieses Anhangs bedeuten:
 
 Für die Festlegung des Werts für den in den Berechnungen der Emissionsverminderungen notwendige Paramater Oxidationsfaktor (OX) ist der folgende Entscheidungsbaum zu verwenden:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20231025/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20231101/de/xml/image/image1.png)
 
-### 3.3 Ex-ante Berechnung der Emissionsverminderungen
+### 3.3 Ex-ante-Berechnung der Methanreduktion
 
-- [tab] Die Emissionsverminderungen können ex-ante aufgrund von Messdaten der vorhergegangenen ein bis drei Jahre ermittelt oder gemäss nachfolgender Formel berechnet werden:
+Die Methanreduktion kann ex-ante aufgrund von Messdaten der vorhergegangenen ein bis drei Jahre ermittelt oder gemäss nachfolgender Formel berechnet werden:
 
-*ER**<sub>ex-ante,y,Fackel</sub>* *= (AE – OX) \* SE \* FOD**CH4,y* *\* GWP**eff,CH4* *– PE**y* (1)
-
-- [tab] dabei bedeuten:
-- ER<sub>ex-ante,y,Fackel</sub> Abgeschätzte Emissionsverminderungen bei einer Schwachgasbehandlung im Jahr y (tCO<sub>2</sub>eq).
-- GWP<sub>eff,CH4</sub> Effektives Treibhausgaspotenzial von Methan (25,25 tCO<sub>2</sub>eq / t CH<sub>4</sub>).
-- AE Abfackelungseffizienz.
-- OX Oxidationsfaktor.
-- SE Saugeffizienz.
-- FOD<sub>CH4,y</sub> Die mit einer «First Order Decay» Formel berechnete Methanmenge, die in der Deponie im Jahr y erzeugt wird (t CH<sub>4</sub>); s. Formel (2).
-- PE<sub>y</sub> Projektemissionen aus dem Jahr y.
-
-*FOD**<sub>CH4,y</sub>* *= (16/12) \* F \* DOC**<sub>f</sub>* *\* ∑**<sub>x</sub>* *∑**<sub>j</sub>* *A**<sub>j,x</sub>* *\* DOC**<sub>j</sub>* *\**
-
-*Exp(-k**<sub>j</sub>**(y-x)) \* (1 – Exp(-k**<sub>j</sub>**))* (2)
+*ER**<sub>ex-ante,y,Fackel</sub>* *= (AE – OX) \* SE \* FOD**<sub>CH4,y</sub>* *\* GWP**<sub>CH4</sub>* *– PE**<sub>y</sub>* (1)
 
 dabei bedeuten:
 
-- y Jahr, für welches die Methanemissionen berechnet werden.
-- x Jahr, in dem die Deponie mit einer gewissen Abfallmenge A<sub>j,x</sub> der Kategorie j befüllt wurde, läuft von EJ bis y.
-- 16/12 Quotient Molekulargewicht CH<sub>4</sub> zu C.
-- F = 0.5; Anteil an Methan im Methan/Kohlendioxid-Gemisch im Deponiegas.
-- DOC<sub>f</sub> Anteil des biologisch abbaubaren Kohlenstoffes, der unter anaeroben Bedingungen abgebaut wird (Massen-%).
-- A<sub>j,x</sub> Abfallmenge der Abfallkategorie j, die im Jahr x deponiert wurde (t Abfall).
-- EJ Eröffnungsjahr der Deponie, das erste Jahr in dem Abfall eingelagert wurde.
-- j Abfallkategorie.
-- DOC<sub>j</sub> Anteil des abbaubaren organischen Kohlenstoffes der jeweiligen Abfallkategorie (t C / t Abfall).
-- k<sub>j</sub> Abbaukonstante der jeweiligen Abfallkategorie j (1/Jahr).
+- ER<sub>ex-ante,y,Fackel</sub> Geschätzte Emissionsverminderungen bei einer Schwachgasbehandlung im Jahr y (tCO<sub>2</sub>eq)
+- GWP<sub>CH4</sub> Treibhausgaspotenzial von Methan gemäss Anhang 1
+- AE Abfackelungseffizienz
+- OX Oxidationsfaktor
+- SE Saugeffizienz
+- FOD<sub>CH4,y</sub> Die mit einer «First Order Decay»-Formel berechnete Methanmenge, die in der Deponie im Jahr y erzeugt wird (t CH<sub>4</sub>), vgl. Gleichung (2)
+- PE<sub>y</sub> Projektemissionen aus dem Jahr y
 
-### 3.4 Ex-post Berechnung der Emissionsverminderungen
+*FOD**<sub>CH4,y</sub>* *= (16/12)\*F\*DOC**<sub>f</sub>* *\* ∑**<sub>x</sub>* *∑**<sub>j</sub>* *A**<sub>j,x</sub>**\*DOC**<sub>j</sub>**\*Exp(-k**<sub>j</sub>**(y–x))\*(1–Exp(-k**<sub>j</sub>**))* (2)
+
+dabei bedeuten:
+
+- y Jahr, für welches die Methanemissionen berechnet werden
+- x Jahr, in dem die Deponie mit einer gewissen Abfallmenge Aj,x der Kategorie j befüllt wurde; läuft von EJ bis y.
+- 16/12 Quotient Molekulargewicht CH<sub>4</sub> zu C
+- F= 0.5 Anteil an Methan im Methan/Kohlendioxid-Gemisch im Deponiegas
+- DOC<sub>f</sub> Anteil des biologisch abbaubaren Kohlenstoffes, der unter anaeroben Bedingungen abgebaut wird (Massen‑%)
+- A<sub>j,x</sub> Abfallmenge der Abfallkategorie j, die im Jahr x deponiert wurde (t Abfall)
+- EJ Das erste Jahr in dem Abfall eingelagert wurde (Eröffnungsjahr der Deponie)
+- j Abfallkategorie
+- DOC<sub>j</sub> Anteil des abbaubaren organischen Kohlenstoffes der jeweiligen Abfallkategorie (t C / t Abfall)
+- k<sub>j</sub> Abbaukonstante der jeweiligen Abfallkategorie j (1/Jahr)
+
+### 3.4 Ex-post-Berechnung der Methanreduktion
 
 Für neue und bestehende Entgasungsanlagen ist die Methanreduktion ex-post wie folgt zu berechnen:
 
-*ER**<sub>ex-post,y,Fackel</sub>* *= (AE – OX) \* GWP**<sub>effCH4</sub>* *\* V**<sub>DG,y</sub>* *\* c**<sub>CH4</sub>* *\* D**<sub>CH4</sub>* *– PE**<sub>y</sub>* (3)
+*ER**<sub>ex-post,y,Fackel</sub>* *= (AE – OX) \* GWP**<sub>CH4</sub>* *\* V**<sub>DG,y</sub>* *\* c**<sub>CH4</sub>* *\* D**<sub>CH4</sub>* *– PE**<sub>y</sub>* (3)
 
 dabei bedeuten:
 
-- ER<sub>ex-post,y,Fackel</sub> Anrechenbare Emissionsverminderungen, ex-post bestimmt mit Hilfe der gemessenen Emissionen während der Schwachgasbehandlung im Jahr y (tCO<sub>2</sub>eq).
-- AE Abfackelungseffizienz.
-- OX Oxidationsfaktor.
-- GWP<sub>eff,CH4</sub> Effektives Treibhausgaspotenzial von Methan (22.25 tCO<sub>2</sub>eq/ tCH<sub>4</sub>).
+- ER<sub>ex-post,y,Fackel</sub> Anrechenbare Emissionsverminderungen, ex-post bestimmt mithilfe der gemessenen Emissionen während der Schwachgasbehandlung im Jahr y (tCO<sub>2</sub>eq)
+- AE Abfackelungseffizienz
+- OX Oxidationsfaktor
+- GWP<sub>CH4</sub> Treibhausgaspotenzial von Methan gemäss Anhang 1
 - V<sub>DG,y</sub> Volumenstrom an Deponiegas, der am Eingang der Schwachgasbehandlung gemessen wird im Jahr y (Nm<sup>3</sup>); dieser Parameter wird im Monitoring durch den gemessenen Wert nach Ziffer 4 ersetzt.
-- c<sub>CH4</sub> Methangehalt im Deponiegas (Volumen-%); dieser Parameter wird im Monitoring durch den gemessenen Wert nach Ziffer 4 ersetzt.
-- D<sub>CH4</sub> Methandichte bei Standardbedingungen (0.0007202 tCH<sub>4</sub>/Nm<sup>3</sup>).
-- PE<sub>y</sub> Projektemissionen im Jahr y.
+- c<sub>CH4</sub> Methangehalt im Deponiegas (Volumen‑%); dieser Parameter wird im Monitoring durch den gemessenen Wert nach Ziffer 4 ersetzt.
+- D<sub>CH4</sub> Methandichte bei Standardbedingungen (0,0007202 tCH<sub>4</sub>/Nm<sup>3</sup>)
+- PE<sub>y</sub> Projektemissionen im Jahr y
 
 ### 3.5 Berechnung der Projektemissionen
 
@@ -3854,13 +3879,13 @@ Bei der Bestimmung der Gasmenge (M<sub>Gas,y</sub>) sind alle der folgenden Anfo
 - d. Die Messung hat kontinuierlich oder bei jeder Lieferung neuer Gasflaschen zu erfolgen.
 - e. Die Qualitätssicherung hat gemäss Herstellerangaben zu erfolgen.
 
-Anhang 4[^t-6]
+Anhang 4[^t-7]
 
 (Art. 25 Abs. 2)
 
 ## Berechnung der CO<sub>2</sub>-Emissionen von Fahrzeugen ohne Angaben nach Artikel 25 Absatz 2
 
-[^t-6]: Fassung gemäss Ziff. II Abs. 2 der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^t-7]: Fassung gemäss Ziff. II Abs. 2 der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 ### 1 Berechnung der CO<sub>2</sub>-Emissionen von Personenwagen
 
@@ -3940,13 +3965,13 @@ Anhang 4[^t-6]
   - a. Ist der Wert der zweiten Dezimalstelle 4 oder kleiner, so wird abgerundet.
   - b. Ist der Wert der zweiten Dezimalstelle 5 oder grösser, so wird aufgerundet.
 
-Anhang 4a[^t-7]
+Anhang 4a[^t-8]
 
 (Art. 28)
 
 ## Berechnung der individuellen Zielvorgabe
 
-[^t-7]: Eingefügt durch Ziff. II Abs. 3 der V vom 1. Nov. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Bereinigt gemäss Ziff. I der V des UVEK vom 16. Sept. 2019 ([AS 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), vom 18. Sept. 2020 ([AS 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), Ziff. II Abs. 1 der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) und Ziff. I der V des UVEK vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 798](https://fedlex.data.admin.ch/eli/oc/2022/798)).
+[^t-8]: Eingefügt durch Ziff. II Abs. 3 der V vom 1. Nov. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Bereinigt gemäss Ziff. I der V des UVEK vom 16. Sept. 2019 ([AS 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), vom 18. Sept. 2020 ([AS 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), Ziff. II Abs. 1 der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) und Ziff. I der V des UVEK vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 798](https://fedlex.data.admin.ch/eli/oc/2022/798)).
 
 ### 1 Berechnung der individuellen Zielvorgabe
 
@@ -3992,13 +4017,13 @@ Anhang 4a[^t-7]
   - d. 2021: 2094 kg.
   - [tab]
 
-Anhang 5[^t-8]
+Anhang 5[^t-9]
 
 (Art. 29 Abs. 1)
 
 ## Sanktionsbeträge bei Überschreiten der individuellen Zielvorgabe (Art. 13 Abs. 1 des CO<sub>2</sub>-Gesetzes)
 
-[^t-8]: Fassung gemäss Ziff. I Abs. 2 der V des UVEK vom 21. Sept. 2018 ([AS 2018 3497](https://fedlex.data.admin.ch/eli/oc/2018/567)). Bereinigt gemäss Ziff. I der V des UVEK vom 16. Sept. 2019 ([AS 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), vom 18. Sept. 2020 ([AS 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), Ziff. II Abs. 1 der V vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) und Ziff. I der V des UVEK vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 798](https://fedlex.data.admin.ch/eli/oc/2022/798)).
+[^t-9]: Fassung gemäss Ziff. I Abs. 2 der V des UVEK vom 21. Sept. 2018 ([AS 2018 3497](https://fedlex.data.admin.ch/eli/oc/2018/567)). Bereinigt gemäss Ziff. I der V des UVEK vom 16. Sept. 2019 ([AS 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), vom 18. Sept. 2020 ([AS 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), Ziff. II Abs. 1 der V vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) und Ziff. I der V des UVEK vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 798](https://fedlex.data.admin.ch/eli/oc/2022/798)).
 
 ### 1 Sanktionsbeträge für das Referenzjahr 2017
 
@@ -4028,13 +4053,13 @@ Die zu entrichtenden Sanktionsbeträge bei Überschreiten der individuellen Ziel
 - d. für das Referenzjahr 2022: 104 Franken;
 - e. für das Referenzjahr 2023: 101 Franken.
 
-Anhang 6[^t-9]
+Anhang 6[^t-10]
 
 (Art. 40 Abs. 1)
 
 ## Zur Teilnahme am EHS verpflichtete Betreiber von Anlagen
 
-[^t-9]: Bereinigt gemäss Ziff. II der V vom 8. Okt. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), Anhang 6 Ziff. 2 der Abfallverordnung vom 4. Dez. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)) und Ziff. II Abs. 1 der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)) und 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^t-10]: Bereinigt gemäss Ziff. II der V vom 8. Okt. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), Anhang 6 Ziff. 2 der Abfallverordnung vom 4. Dez. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)) und Ziff. II Abs. 1 der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)) und 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
 Ein Betreiber von Anlagen, der mindestens eine der folgenden Tätigkeiten ausübt, muss am EHS teilnehmen:
 
@@ -4067,13 +4092,13 @@ Ein Betreiber von Anlagen, der mindestens eine der folgenden Tätigkeiten ausüb
 
 [^annex6-lvlu1-1]: [SR 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
 
-Anhang 7[^t-10]
+Anhang 7[^t-11]
 
 (Art. 42 Abs. 1 Bst. a und 66 Abs. 1 Bst. a und b und 3 Bst. a und b)
 
 ## Tätigkeiten, die zur Teilnahme am EHS oder zur Abgabebefreiung mit Verminderungsverpflichtung berechtigen
 
-[^t-10]: Bereinigt gemäss Ziff. II der V vom 8. Okt. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)) und Ziff. II Abs. 1 vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
+[^t-11]: Bereinigt gemäss Ziff. II der V vom 8. Okt. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)) und Ziff. II Abs. 1 vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 
 - 1\. Anbau von Pflanzen in Gewächshäusern;
 - 2\. Gewinnung von Steinen und Erden und sonstiger Bergbau;
@@ -4098,13 +4123,13 @@ Anhang 7[^t-10]
 - 20\. Produktion von fossil erzeugter Wärme oder Kälte, allenfalls gekoppelt mit der Produktion von Strom, die in regionale Fernwärme- und Fernkältenetze eingespeist oder an Betreiber von Anlagen geliefert wird, die Tätigkeiten nach den Ziffern 1–19 und 21 ausüben;
 - 21\. Reinigung von Fässern, Containern und anderen Gebinden, die im Zusammenhang mit Tätigkeiten nach diesem Anhang verwendet werden.
 
-Anhang 8[^t-11]
+Anhang 8[^t-12]
 
 *(*Art. 45 Abs. 1 und 48 Abs. 1<sup>bis</sup>)
 
 ## Berechnung der maximal zur Verfügung stehenden Menge der Emissionsrechte für Betreiber von Anlagen im EHS und Berechnung der Umlaufmenge
 
-[^t-11]: Fassung gemäss Ziff. II Abs. 2 der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^t-12]: Fassung gemäss Ziff. II Abs. 2 der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 ### 1 Maximal zur Verfügung stehende Menge der Emissionsrechte für Betreiber von Anlagen im EHS
 
@@ -4129,13 +4154,13 @@ Die jährlich für die Gesamtheit der Betreiber von Anlagen im EHS maximal zur V
 
 - 2\.3 Die Nachfrage nach Emissionsrechten für Anlagen ist das Ergebnis folgender Subtraktion: die in der Zeit vom Jahr 2013 bis zum Vorjahr nach Artikel 55 relevanten Treibhausgasemissionen der Anlagen abzüglich der Emissionsminderungszertifikate, die für die Jahre 2013–2020 zur Deckung dieser Treibhausgasemissionen abgegeben worden sind.
 
-Anhang 9[^t-12]
+Anhang 9[^t-13]
 
 (Art. 46 Abs. 1, 46*a* Abs. 2 sowie 46*b* Abs. 1 und 3)
 
 ## Berechnung der kostenlos zugeteilten Emissionsrechte für Betreiber von Anlagen im EHS
 
-[^t-12]: Bereinigt gemäss Ziff. II der V vom 8. Okt. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), vom 22. Juni 2016 ([AS 2016 2473](https://fedlex.data.admin.ch/eli/oc/2016/394)), Ziff. II Abs. 1 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)), vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), der Berichtigung vom 10. Febr. 2021 ([AS 2021 80](https://fedlex.data.admin.ch/eli/oc/2021/80)), Ziff. II Abs. 1 der V vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) und Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^t-13]: Bereinigt gemäss Ziff. II der V vom 8. Okt. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), vom 22. Juni 2016 ([AS 2016 2473](https://fedlex.data.admin.ch/eli/oc/2016/394)), Ziff. II Abs. 1 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)), vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), der Berichtigung vom 10. Febr. 2021 ([AS 2021 80](https://fedlex.data.admin.ch/eli/oc/2021/80)), Ziff. II Abs. 1 der V vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) und Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### 1 Benchmarks
 
@@ -4311,13 +4336,13 @@ Anhang 9[^t-12]
   - 1\. die innerhalb eines Produktbenchmarks genutzte Wärme gemäss Ziffer 1.7;
   - 2\. das Verhältnis der direkten Emissionen zur Summe der direkten und indirekten Emissionen gemäss Ziffer 4.1.
 
-Anhang 10[^t-13]
+Anhang 10[^t-14]
 
 (Art. 86 Abs. 1 und 89 Abs. 2)
 
 ## Treibstoffe, deren CO<sub>2</sub>-Emissionen kompensiert werden müssen
 
-[^t-13]: Eingefügt durch Anhang 2 Ziff. 3 der V vom 29. März 2017 über das Bundesinventar der Landschaften und Naturdenkmäler, in Kraft seit 1. Juni 2017 ([AS 2017 2815](https://fedlex.data.admin.ch/eli/oc/2017/290)).
+[^t-14]: Eingefügt durch Anhang 2 Ziff. 3 der V vom 29. März 2017 über das Bundesinventar der Landschaften und Naturdenkmäler, in Kraft seit 1. Juni 2017 ([AS 2017 2815](https://fedlex.data.admin.ch/eli/oc/2017/290)).
 
 <table>
 <tr><td>Zolltarifnummer[^annex10-lvlu1-1]</td><td>Warenbezeichnung</td><td>Emissionsfaktor t CO<sub>2</sub> je 1000 kg</td><td>Emissionsfaktor t CO<sub>2</sub> je TJ</td><td>Emissionsfaktor t CO<sub>2</sub> je m<sup>3</sup></td></tr>
@@ -4336,13 +4361,13 @@ Anhang 10[^t-13]
 
 [^annex10-lvlu1-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
 
-Anhang 11[^t-14]
+Anhang 11[^t-15]
 
 (Art. 94 Abs. 2)
 
 ## Tarif der CO<sub>2</sub>-Abgabe auf Brennstoffen: 120 Franken pro Tonne CO<sub>2</sub>
 
-[^t-14]: Fassung gemäss Ziff. II Abs. 2 der V vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)). Bereinigt gemäss Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^t-15]: Fassung gemäss Ziff. II Abs. 2 der V vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)). Bereinigt gemäss Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### 1 …
 
@@ -4371,11 +4396,11 @@ Für die folgenden Brennstoffe gelten die folgenden Abgabesätze:
 <tr><td>1291</td><td>– – – – Benzin und seine Fraktionen</td><td>278.40</td></tr>
 <tr><td>1292</td><td>– – – – White Spirit</td><td>278.40</td></tr>
 <tr><td>1299</td><td>– – – – andere</td><td>278.40</td></tr>
-<tr><td></td><td>– – andere:</td><td></td></tr>
 </table>
 
 <table>
 <tr><th>Zolltarifnummer</th><th>Warenbezeichnung</th><th colspan="2">Abgabesatz Fr.</th></tr>
+<tr><td></td><td>– – andere:</td><td colspan="2"></td></tr>
 <tr><td></td><td>– – – zu andern Zwecken:</td><td colspan="2"></td></tr>
 <tr><td>1991</td><td>– – – – Petroleum</td><td colspan="2">301.20</td></tr>
 <tr><td>1992</td><td>– – – – Heizöle zu Feuerungszwecken:</td><td colspan="2"></td></tr>
@@ -4440,13 +4465,13 @@ Für die folgenden Brennstoffe gelten die folgenden Abgabesätze:
 
 - Die nach Ziffer 3.1 verwendeten Brennstoffe unterliegen den Abgabesätzen nach Ziffer 2.
 
-Anhang 12[^t-15]
+Anhang 12[^t-16]
 
 (Art. 112–113*b*)
 
 ## Direkte Nutzung der Geothermie für die Wärmebereitstellung
 
-[^t-15]: Eingefügt durch Ziff. II Abs. 3 der V vom 1. Nov. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) und Ziff. III der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^t-16]: Eingefügt durch Ziff. II Abs. 3 der V vom 1. Nov. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) und Ziff. III der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 ### 1 Prospektion und Erschliessung
 
@@ -4601,13 +4626,13 @@ Anhang 12[^t-15]
 [^annex12-lvlu1-lvl5-1]: [SR 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
 [^annex12-lvlu1-lvl5-2]: [SR 510.624](https://fedlex.data.admin.ch/eli/cc/2008/391)
 
-Anhang 13[^t-16]
+Anhang 13[^t-17]
 
 (Art. 46*d*)
 
 ## Zur Teilnahme am EHS verpflichtete Betreiber von Luftfahrzeugen
 
-[^t-16]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Bereinigt gemäss Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^t-17]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Bereinigt gemäss Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 - 1\.
 
@@ -4651,13 +4676,13 @@ Anhang 13[^t-16]
 
 [^annex13-lvlu1-1]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
 
-Anhang 14[^t-17]
+Anhang 14[^t-18]
 
 (Art. 46*d* Abs. 1 und 2, 51 Abs. 1, 2 und 4, 52 Abs. 1, 6 und 7, 53 Abs. 1 und 2, 55 Abs. 2 sowie 130 Abs. 1)
 
 ## Zuständige Behörde für EHS-Teilnehmer
 
-[^t-17]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^t-18]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 
 ### 1 Betreiber von Anlagen
 
@@ -4677,13 +4702,13 @@ Anhang 14[^t-17]
 
 [^annex14-lvlu1-lvl2-1]: Siehe Fussnote zu Art. 135 Bst. f.
 
-Anhang 15[^t-18]
+Anhang 15[^t-19]
 
 (Art. 46*e* und 46*f*)
 
 ## Berechnung der maximal zur Verfügung stehenden Menge der Emissionsrechte und der Menge der kostenlos zuzuteilenden Emissionsrechte für Luftfahrzeuge
 
-[^t-18]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^t-19]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
 - 1\. Die Menge der Emissionsrechte wird basierend auf folgendem Benchmark berechnet:
 - 0,000642186914222035 Emissionsrechte pro Tonnenkilometer
@@ -4720,13 +4745,13 @@ BM Benchmark
 
 Zuteilung<sub>202x</sub> Zuteilung für das Jahr 202x; mit x = 1, 2, 3 etc.
 
-Anhang 16[^t-19]
+Anhang 16[^t-20]
 
 (Art. 51)
 
 ## Anforderungen an das Monitoringkonzept
 
-[^t-19]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) und Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^t-20]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) und Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### 1 Monitoringkonzept für Betreiber von Anlagen
 
@@ -4773,13 +4798,13 @@ Anhang 16[^t-19]
 
 [^annex16-lvlu1-lvl3-1]: Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen (Neufassung), ABl. L 328 vom 21.12.2018, S. 82.
 
-Anhang 17[^t-20]
+Anhang 17[^t-21]
 
 (Art. 52)
 
 ## Anforderungen an den Monitoringbericht
 
-[^t-20]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) und Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^t-21]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) und Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### 1 Monitoringbericht für Betreiber von Anlagen
 
@@ -4816,13 +4841,13 @@ Anhang 17[^t-20]
 
 [^annex17-lvlu1-lvl2-1]: Siehe Fussnote zu Art. 52 Abs. 5.
 
-Anhang 18[^t-21]
+Anhang 18[^t-22]
 
 (Art. 52)
 
 ## Verifizierung der Monitoringberichte von Luftfahrzeugbetreibern und Anforderungen an die Verifizierungsstelle
 
-[^t-21]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Bereinigt gemäss Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^t-22]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Bereinigt gemäss Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### 1 Pflichten der Verifizierungsstelle und des Luftfahrzeugbetreibers
 

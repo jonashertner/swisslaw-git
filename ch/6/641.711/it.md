@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Ordinanza del 30 novembre 2012 sulla riduzione delle emissioni di CO<sub>2</sub> (Ordinanza sul CO<sub>2</sub>)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: it
-version: 2023-10-25
+version: 2023-11-01
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20231025/it/xml/fedlex-data-admin-ch-eli-cc-2012-856-20231025-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20231025/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20231101/it/xml/fedlex-data-admin-ch-eli-cc-2012-856-20231101-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20231101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20231025/it"
 
 (Ordinanza sul CO<sub>2</sub>)
 
-del 30 novembre 2012 (Stato 25 ottobre 2023)
+del 30 novembre 2012 (Stato 1° novembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -174,11 +174,12 @@ La persona richiedente presenta all’Ufficio federale dell’ambiente (UFAM) un
 - d. le conoscenze specialistiche delle persone che partecipano all’accompagnamento scientifico;
 - e. l’indipendenza e i possibili conflitti d’interesse delle persone che partecipano all’accompagnamento scientifico.
 
-<sup>3</sup> L’accompagnamento scientifico termina quando l’effetto del progetto o del programma è stato quantificato in modo sufficientemente preciso. L’UFAM decide in merito alla fine dell’accompagnamento scientifico. Nella sua decisione tiene conto della raccomandazione dell’organismo di controllo.
+<sup>3</sup> L’accompagnamento scientifico termina quando l’effetto del progetto o del programma è stato quantificato in modo sufficientemente preciso. L’UFAM decide in merito alla conclusione dell’accompagnamento scientifico.[^5b-2]
 
 <sup>4</sup> I risultati dei provvedimenti di accompagnamento al progetto devono essere pubblicati nel rispetto dei segreti di fabbricazione e d’affari.
 
 [^5b-1]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^5b-2]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 6
 
@@ -214,13 +215,14 @@ All’organismo di convalida deve essere presentata una descrizione del progetto
 
 <sup>4</sup> La persona richiedente può far svolgere all’UFAM un esame preliminare della bozza di progetto. Se l’UFAM ha svolto un esame preliminare, occorre inoltrare all’organismo di convalida, oltre alle informazioni di cui al capoverso 2, anche la bozza di progetto e i risultati di tale esame.
 
-<sup>5</sup> Per la convalida, l’organismo di convalida esamina le informazioni di cui al capoverso 2 e se il progetto è conforme ai requisiti di cui all’articolo 5 o se il programma è conforme ai requisiti di cui agli articoli 5 e 5*a*.
+<sup>5</sup> L’organismo di convalida esamina le informazioni di cui al capoverso 2 e se il progetto è conforme ai requisiti di cui all’articolo 5 o se il programma è conforme ai requisiti di cui agli articoli 5 e 5*a*. Se necessario, effettua sopralluoghi, che devono essere annunciati tempestivamente alla persona richiedente e all’UFAM.[^6-2]
 
 <sup>6</sup> Riassume i risultati dell’esame in un rapporto di convalida.
 
 <sup>7</sup> L’UFAM stabilisce la forma della descrizione del progetto o del programma e del rapporto di convalida.
 
 [^6-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^6-2]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 7
 
@@ -290,6 +292,8 @@ Il periodo di credito per progetti o programmi realizzati in Svizzera, che sono 
 
 <sup>3</sup> L’organismo di controllo esamina se le riduzioni delle emissioni comprovate o l’aumento delle prestazioni dei pozzi di carbonio adempiono i requisiti di cui all’articolo 5. Per i programmi, esamina inoltre se i progetti adempiono i requisiti di inclusione di cui all’articolo 5*a* capoverso 1 lettera c. Esso può limitare l’esame a singoli progetti rappresentativi del programma.
 
+<sup>3bis</sup> Se necessario, effettua sopralluoghi, che devono essere annunciati tempestivamente alla persona richiedente e all’UFAM.[^9-2]
+
 <sup>4</sup> L’organismo di controllo registra i risultati della verifica in un rapporto di verifica.
 
 <sup>5</sup> Il rapporto di monitoraggio, i dati delle misurazioni e il relativo rapporto di verifica comprendono un periodo massimo di tre anni. Devono essere presentati all’UFAM al più tardi un anno dopo tale periodo. Le riduzioni delle emissioni o l’aumento delle prestazioni dei pozzi di carbonio devono essere comprovati per ogni anno civile.
@@ -303,6 +307,7 @@ Il periodo di credito per progetti o programmi realizzati in Svizzera, che sono 
 <sup>9</sup> L’UFAM emana disposizioni sulla forma del rapporto di monitoraggio e di verifica.
 
 [^9-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^9-2]: Introdotto dal n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 10
 
@@ -352,11 +357,27 @@ Una modifica di un progetto o di un programma è sostanziale in particolare se:
 
 [^11-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
+#### Art. 11a
+
+**Organismi di convalida e di controllo**[^11a-1]
+
+<sup>1</sup>
+
+Su domanda, l’UFAM ammette un organismo di convalida e di controllo se:
+
+- a. dispone di comprovate competenze tecniche in relazione alla convalida o al controllo di progetti di compensazione;
+- b. dispone di processi per la garanzia della qualità; e
+- c. adempie i propri compiti in modo indipendente.
+
+<sup>2</sup> Se un organismo di convalida o di controllo non soddisfa più le condizioni di cui al capoverso 1, l’UFAM ordina provvedimenti. Se questi non sono attuati in misura sufficiente, l’UFAM può revocare l’ammissione.
+
+[^11a-1]: Introdotto dal n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+
 ### Sezione 5*a*: Attestati per i gestori di impianti
 
 [^chap1-sec5a-1]
 
-[^chap1-sec5a-1]: Introdotto dal n. I dell’O del 21 set. 2018 (RU **2018** 5477). Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^chap1-sec5a-1]: Introdotto dal n. I dell’O dell’8 ott. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)). Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 
 #### Art. 12
 
@@ -546,12 +567,12 @@ Alle disposizioni del presente capitolo è assoggettato chi importa o produce in
 
 <sup>1</sup> Le disposizioni del presente capitolo si applicano alle automobili di cui all’articolo 11 capoverso 2 lettera a dell’ordinanza del 19 giugno 1995[^17a-2] concernente le esigenze tecniche per i veicoli stradali (OETV).
 
-<sup>2</sup> Non si applicano ai veicoli per uso speciale secondo l’allegato II parte A punto 5 della direttiva 2007/46/CE[^17a-3] o secondo l’allegato I parte A punto 5 del regolamento (UE) 2018/858[^17a-4].
+<sup>2</sup> Esse non si applicano ai veicoli per uso speciale di cui all’allegato I parte A numero 5 del regolamento (UE) 2018/858[^17a-3].[^17a-4]
 
 [^17a-1]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^17a-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^17a-3]: Direttiva 2007/46/CE del Parlamento europeo e del Consiglio, del 5 settembre 2007, che istituisce un quadro per l’omologazione dei veicoli a motore e dei loro rimorchi, nonché dei sistemi, componenti ed entità tecniche destinati a tali veicoli («direttiva quadro»), GU L 263 del 9.10.2007, pag. 1; modificata da ultimo dal regolamento (UE) 2019/543, GU L 95 del 4.4.2019, pag. 1.
-[^17a-4]: Cfr. nota a piè di pagina relativa all’art. 17 cpv. 2 lett. b.
+[^17a-3]: Regolamento (UE) 2018/858 del Parlamento europeo e del Consiglio, del 30 mag. 2018, relativo all’omologazione e alla vigilanza del mercato dei veicoli a motore e dei loro rimorchi, nonché dei sistemi, dei componenti e delle entità tecniche indipendenti destinati a tali veicoli, che modifica i regolamenti (CE) n. 715/2007 e (CE) n. 595/2009 e abroga la direttiva 2007/46/CE, GU L 151 del 14.6.2018, pag. 1; modificato da ultimo dal regolamento (UE) 2019/2144, GU L 325 del 16.12.2019, pag. 1.
+[^17a-4]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 17b
 
@@ -559,13 +580,12 @@ Alle disposizioni del presente capitolo è assoggettato chi importa o produce in
 
 <sup>1</sup> Le disposizioni del presente capitolo si applicano ai furgoni secondo l’articolo 11 capoverso 2 lettera e OETV con un peso complessivo non superiore a 3,50 t, nonché ai veicoli con una propulsione a zero emissioni e un peso complessivo da 3,5 t a 4,25 t che, a prescindere dal peso, corrispondono alla definizione di autofurgone purché il peso che oltrepassa 3,5 t possa essere causato unicamente dal peso aggiuntivo della propulsione a zero emissioni.
 
-<sup>2</sup> Esse non si applicano agli autofurgoni con peso a vuoto superiore a 2,585 t, le cui emissioni sono rilevate in base alla procedura di misurazione per veicoli pesanti conformemente al regolamento (CE) n. 595/2009[^17b-2] e che non dispongono di una propulsione esclusivamente elettrica con elettricità o idrogeno quale fonte di energia, e neppure ai veicoli per uso speciale secondo l’allegato II parte A numero 5 della direttiva 2007/46/CE[^17b-3] o secondo l’allegato I parte A numero 5 del regolamento (UE) 2018/858[^17b-4].[^17b-5]
+<sup>2</sup> Esse non si applicano agli autofurgoni con peso a vuoto superiore a 2,585 t, le cui emissioni sono rilevate in base alla procedura di misurazione per veicoli pesanti conformemente al regolamento (CE) n. 595/2009[^17b-2] e che non dispongono di una propulsione esclusivamente elettrica con elettricità o idrogeno quale fonte di energia, e neppure ai veicoli per uso speciale di cui all’allegato I parte A numero 5 del regolamento (UE) 2018/858[^17b-3].[^17b-4]
 
 [^17b-1]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
-[^17b-2]: Regolamento (CE) n. 595/2009 del Parlamento europeo e del Consiglio, del 18 giugno 2009, relativo all’omologazione dei veicoli a motore e dei motori riguardo alle emissioni dei veicoli pesanti (euro VI) e all’accesso alle informazioni relative alla riparazione e alla manutenzione del veicolo e che modifica il regolamento (CE) n. 715/2007 e la direttiva 2007/46/CE e che abroga le direttive 80/1269/CEE, 2005/55/CE e 2005/78/CE, GU L 188 del 18.7.2009, pag. 1; modificato da ultimo dal regolamento (UE) n. 133/2014, GU L 47 del 18.2.2014, pag. 1.
-[^17b-3]: Cfr. nota a piè di pagina relativa all’art. 17*a* cpv. 2.
-[^17b-4]: Cfr. nota a piè di pagina relativa all’art. 17 cpv. 2 lett. b.
-[^17b-5]: La correzione del 25 ott. 2023 concerne soltanto il testo francese ([RU 2023 605](https://fedlex.data.admin.ch/eli/oc/2023/605)).
+[^17b-2]: Regolamento (CE) n. 595/2009 del Parlamento europeo e del Consiglio, del 18 giu. 2009, relativo all’omologazione dei veicoli a motore e dei motori riguardo alle emissioni dei veicoli pesanti (euro VI) e all’accesso alle informazioni relative alla riparazione e alla manutenzione del veicolo e che modifica il regolamento (CE) n. 715/2007 e la direttiva 2007/46/CE e che abroga le direttive 80/1269/CEE, 2005/55/CE e 2005/78/CE, GU L 188 del 18.7.2009, pag. 1; modificato da ultimo dal regolamento (UE) n. 133/2014, GU L 47 del 18.2.2014, pag. 1.
+[^17b-3]: Cfr. nota a piè di pagina art. 17*a* cpv. 2.
+[^17b-4]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 17c
 
@@ -573,12 +593,12 @@ Alle disposizioni del presente capitolo è assoggettato chi importa o produce in
 
 <sup>1</sup> Le disposizioni del presente capitolo si applicano ai trattori a sella leggeri di cui all’articolo 11 capoverso 2 lettera i OETV con un peso complessivo fino a 3,50 t.
 
-<sup>2</sup> Esse non si applicano ai trattori a sella con peso a vuoto superiore a 2,585 t, le cui emissioni sono rilevate in base alla procedura di misurazione per veicoli pesanti conformemente al regolamento (CE) n. 595/2009[^17c-2], e neppure ai veicoli per uso speciale secondo l’allegato II parte A numero 5 della direttiva 2007/46/CE[^17c-3] o secondo l’allegato I parte A numero 5 del regolamento (UE) 2018/858[^17c-4].
+<sup>2</sup> Esse non si applicano ai trattori a sella con peso a vuoto superiore a 2,585 t, le cui emissioni sono rilevate in base alla procedura di misurazione per veicoli pesanti conformemente al regolamento (CE) n. 595/2009[^17c-2], e neppure ai veicoli per uso speciale di cui all’allegato I parte A numero 5 del regolamento (UE) 2018/858[^17c-3].[^17c-4]
 
 [^17c-1]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
-[^17c-2]: Cfr. nota a piè di pagina relativa all’art. 17*b* cpv. 2.
-[^17c-3]: Cfr. nota a piè di pagina relativa all’art. 17*a* cpv. 2.
-[^17c-4]: Cfr. nota a piè di pagina relativa all’art. 17 cpv. 2 lett. b.
+[^17c-2]: Cfr. nota a piè di pagina art. 17*b* cpv. 2.
+[^17c-3]: Cfr. nota a piè di pagina art. 17*a* cpv. 2.
+[^17c-4]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 17d
 
@@ -587,6 +607,8 @@ Alle disposizioni del presente capitolo è assoggettato chi importa o produce in
 <sup>1</sup> Sono considerati messi in circolazione per la prima volta in Svizzera i veicoli ammessi per la prima volta alla circolazione e il cui uso specificato nella prima immatricolazione corrisponde all’uso effettivo da parte dell’utilizzatore finale.
 
 <sup>2</sup> L’immatricolazione in un’enclave doganale svizzera secondo l’articolo 3 capoverso 3 della legge del 18 marzo 2005[^17d-2] sulle dogane (LD) e nel Liechtenstein è considerata come immatricolazione in Svizzera. L’immatricolazione in un’enclave doganale estera secondo l’articolo 3 capoverso 2 LD, fatta eccezione per il Liechtenstein, è considerata come immatricolazione all’estero.
+
+<sup>3</sup> Non sono considerati messi in circolazione per la prima volta i veicoli importati la cui immatricolazione all’estero risale a più di sei mesi prima della dichiarazione doganale.
 
 <sup>3</sup> Non sono considerati messi in circolazione per la prima volta i veicoli importati la cui immatricolazione all’estero risale a più di sei mesi prima della dichiarazione doganale.
 
@@ -647,11 +669,12 @@ Un importatore è considerato in un anno di riferimento grande importatore in re
 
 <sup>2</sup> Se il parco veicoli nuovi di un importatore nell’anno precedente era costituito dal numero di veicoli di cui al capoverso 1 oppure oltre, nell’anno di riferimento, per il veicolo in questione l’importatore è trattato provvisoriamente come un grande importatore.
 
-<sup>3</sup> Se nel corso dell’anno precedente il parco veicoli nuovi di un importatore era costituito da un numero di veicoli inferiore a quello previsto al capoverso 1, l’importatore può chiedere all’Ufficio federale dell’energia (UFE) di essere trattato provvisoriamente, nell’anno di riferimento, come un grande importatore a partire dalla data di approvazione della domanda per i veicoli in questione.
+<sup>3</sup> Se nel corso dell’anno precedente il parco veicoli nuovi di un importatore era costituito da un numero di veicoli inferiore a quello previsto al capoverso 1, l’importatore può chiedere all’UFE di essere trattato provvisoriamente, nell’anno di riferimento, come un grande importatore per i veicoli in questione a partire dalla data di approvazione della domanda.[^18-2]
 
 <sup>4</sup> Se il 31 dicembre dell’anno di riferimento risulta che il parco veicoli nuovi di un importatore di cui ai capoversi 2 o 3 è costituito da un numero di veicoli inferiore a quello di cui al capoverso 1, nell’anno di riferimento egli è considerato un piccolo importatore in relazione al veicolo in questione.
 
 [^18-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° gen. 2023 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^18-2]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 19
 
@@ -729,13 +752,14 @@ I dati utilizzati per il calcolo dell’obiettivo individuale e per il calcolo d
 
 **Determinazione delle emissioni di CO<sub>2</sub> di un veicolo**[^25-1]
 
-<sup>1</sup> Per determinare le emissioni di CO<sub>2</sub> di un veicolo si utilizzano le emissioni combinate secondo il WLTP.
+<sup>1</sup> Per determinare le emissioni di CO<sub>2</sub> di un veicolo si utilizzano le emissioni secondo il WLTP.[^25-2]
 
 <sup>2</sup> Nel caso di veicoli per i quali non sono disponibili valori determinati secondo il WLTP, le emissioni di CO<sub>2</sub> sono calcolate secondo l’allegato 4.
 
 <sup>3</sup> Se le emissioni di CO<sub>2</sub> non possono essere calcolate secondo l’allegato 4, si presume un valore di 350 g CO<sub>2</sub>/km per le automobili e di 400 g CO<sub>2</sub>/km per gli autofurgoni e i trattori a sella leggeri.
 
 [^25-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^25-2]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 26
 
@@ -884,11 +908,12 @@ L’UFE informa annualmente in forma appropriata la popolazione in merito al rag
 
 #### Art. 37
 
-<sup>1</sup> Gli eventuali proventi della sanzione di cui all’articolo 13 della legge sul CO<sub>2</sub> vengono assegnati l’anno successivo all’allestimento della fattura finale dell’UFE al Fondo per le strade nazionali e il traffico d’agglomerato ai sensi della legge federale del 30 settembre 2016[^37-1] concernente il Fondo per le strade nazionali e il traffico d’agglomerato (LFOSTRA).
+<sup>1</sup> Gli eventuali proventi dalla sanzione di cui all’articolo 13 della legge sul CO<sub>2</sub> vengono assegnati al Fondo previsto dalla legge federale del 30 settembre 2016[^37-1] concernente il Fondo per le strade nazionali e il traffico d’agglomerato.[^37-2]
 
 <sup>2</sup> I proventi corrispondono alle sanzioni riscosse nell’anno di riferimento, inclusi gli interessi di mora e dedotti i costi di esecuzione, le perdite su debitori e gli interessi sugli importi da rimborsare.
 
 [^37-1]: [RS 725.13](https://fedlex.data.admin.ch/eli/cc/2017/761)
+[^37-2]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 38 e 39
 
@@ -2029,9 +2054,9 @@ L’aliquota di compensazione ammonta complessivamente:
 
 <sup>1</sup> La persona soggetta all’obbligo di compensazione delle emissioni di CO<sub>2</sub> adempie al proprio obbligo di compensazione entro il 31 dicembre dell’anno successivo.[^91-1]
 
-<sup>2</sup> …[^91-2]
+<sup>2</sup> ...[^91-2]
 
-<sup>3</sup> …[^91-3]
+<sup>3</sup> ...[^91-3]
 
 <sup>4</sup> Con l’adempimento dell’obbligo di compensazione, la persona soggetta all’obbligo di compensazione riferisce in maniera dettagliata e trasparente sui costi per tonnellata di CO<sub>2</sub> compensata.[^91-4]
 
@@ -2039,19 +2064,15 @@ L’aliquota di compensazione ammonta complessivamente:
 
 In una banca dati tenuta dall’UFAM, per ogni persona soggetta all’obbligo di compensazione sono gestiti i dati e i documenti seguenti:
 
-- a. l’entità dell’obbligo di compensazione;
-- b. i rapporti di monitoraggio e i rapporti di verifica dei progetti o programmi condotti autonomamente;
-- c. le riduzioni delle emissioni comprovate conseguite attraverso progetti o programmi condotti autonomamente;
-- d. la quantità di riduzioni delle emissioni non ancora utilizzate a titolo di compensazione conseguite attraverso progetti o programmi condotti autonomamente;
-- e. la quantità di riduzioni delle emissioni non ancora utilizzate a titolo di compensazione;
-- f. indicazioni sui costi per tonnellata di CO<sub>2</sub> compensata;
-- g. i costi di sviluppo e di esercizio in caso di progetti o programmi condotti autonomamente.[^91-5]
+- a. la quantità delle emissioni di CO<sub>2</sub> che devono essere compensate;
+- b. la quantità di attestati non ancora utilizzati per l’adempimento dell’obbligo di compensazione;
+- c. l’ammontare dei costi per tonnellata di CO<sub>2</sub> compensata.[^91-5]
 
 [^91-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 [^91-2]: Abrogato dal n. I dell’O del 4 mag. 2022, con effetto dal 1° gen. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^91-3]: Abrogato dal n. I dell’O del 25 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^91-4]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^91-5]: Introdotto dal n. I dell’O dell’8 ott. 2014, in vigore dal 1° dic. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
+[^91-5]: Introdotto dal n. I dell’O dell’8 ott. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)). Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 92
 
@@ -2063,10 +2084,10 @@ In una banca dati tenuta dall’UFAM, per ogni persona soggetta all’obbligo di
 
 <sup>3</sup> Il termine di pagamento è di 30 giorni dalla data della notifica della decisione. In caso di pagamento tardivo è addebitato un interesse di mora. Il DFF ne stabilisce il tasso.[^92-1]
 
-<sup>4</sup> In caso di mancata compensazione secondo l’articolo 28 capoverso 2 della legge sul CO<sub>2</sub>, entro il 1° giugno dell’anno successivo devono essere consegnati alla Confederazione certificati di riduzione delle emissioni, diritti di emissione o attestati internazionali.[^92-2]
+<sup>4</sup> Il termine di consegna dei diritti di emissione e degli attestati internazionali è il 1° giugno dell’anno successivo.[^92-2]
 
 [^92-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° gen. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
-[^92-2]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° gen. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^92-2]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 ## Capitolo 8: Tassa sul CO<sub>2</sub>
 
@@ -2838,9 +2859,9 @@ Calcola, basandosi sull’inventario dei gas serra, se l’obiettivo di riduzion
 
 **Indennizzo per le spese d’esecuzione**[^132-1]
 
-L’indennizzo per le spese d’esecuzione ammonta all’1,45 per cento dei proventi della tassa sul CO<sub>2</sub> (proventi). Qualora aumentino i proventi, il DATEC, d’intesa con il Dipartimento federale delle finanze, riduce adeguatamente la percentuale.
+L’indennizzo per le spese d’esecuzione ammonta all’1,85 per cento dei proventi della tassa sul CO<sub>2</sub> (proventi). Qualora aumentino i proventi, il DATEC, d’intesa con il Dipartimento federale delle finanze, riduce adeguatamente la percentuale.
 
-[^132-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^132-1]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 133
 
@@ -2933,8 +2954,8 @@ Il DATEC adegua:
 - e. l’allegato 11: proporzionalmente all’aumento dell’aliquota della tassa (art. 94 cpv. 1);
 - f.[^135-10] l’allegato 14: se il regolamento (CE) n. 748/2009[^135-11] subisce modifiche.
 
-[^135-1]: Introdotta dal n. I dell’O del 21 set. 2018, in vigore dal 1° nov. 2018 (RU **2018** 5477).
-[^135-2]: Introdotta dal n. I dell’O del 21 set. 2018, in vigore dal 1° nov. 2018 (RU **2018** 5477).
+[^135-1]: Introdotta dal n. I dell’O del 21 set. 2018, in vigore dal 1° nov. 2018 ([RU 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)).
+[^135-2]: Introdotta dal n. I dell’O del 21 set. 2018, in vigore dal 1° nov. 2018 ([RU 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)).
 [^135-3]: Nuovo testo giusta il n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 [^135-4]: Introdotto dal n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 [^135-5]: Introdotta dal n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
@@ -3439,11 +3460,11 @@ Allegato 2a[^t-2]
 
 ## Riduzioni delle emissioni o aumento delle prestazioni dei pozzi di carbonio all’estero per le quali non sono rilasciati attestati
 
-[^t-2]: Introdotto dal n. II cpv. 1 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^t-2]: Introdotto dal n. II cpv. 1 dell’O del 4 mag. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)). Aggiornato dal n. II cpv. 1 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
-Per un progetto o un programma realizzato all’estero non sono rilasciati attestati internazionali se le riduzioni delle emissioni o gli aumenti delle prestazioni dei pozzi di carbonio sono conseguiti mediante:
+\1. Per un progetto o un programma realizzato all’estero non sono rilasciati attestati internazionali se le riduzioni delle emissioni o l’aumento delle prestazioni dei pozzi di carbonio sono conseguiti mediante:
 
-- a. investimenti nell’utilizzo di combustibili o carburanti fossili per la produzione di energia o nell’estrazione di vettori energetici fossili;
+- a. investimenti nell’utilizzo di combustibili o carburanti fossili per la produzione di energia o nell’estrazione di vettori energetici fossili; sono eccettuati gli investimenti che contribuiscono a un miglioramento dell’efficienza energetica senza che vengano apportate modifiche all’impianto per l’utilizzo di combustibili fossili per la produzione di energia;
 - b. l’impiego di energia nucleare;
 - c. l’impiego di impianti idroelettrici con una capacità di produzione installata superiore a 20 MW;
 - d. progetti in grandi aziende industriali che non corrispondono allo stato attuale della tecnica sul mercato globale;
@@ -3456,13 +3477,15 @@ Per un progetto o un programma realizzato all’estero non sono rilasciati attes
 - k. attività che hanno notevoli ripercussioni sociali o ecologiche;
 - l. attività che contraddicono gli obiettivi della politica estera o di sviluppo della Svizzera.
 
+\2. Nel caso di attività nel settore dei rifiuti con utilizzo energetico differito dei rifiuti, il 55 per cento delle riduzioni delle emissioni viene attestato solo al momento dell’effettivo utilizzo energetico.
+
 Allegato 3[^t-3]
 
 (art. 5 cpv. 1 lett. a)
 
 ## Riduzioni delle emissioni o aumento delle prestazioni dei pozzi di carbonio in Svizzera per le quali non sono rilasciati attestati
 
-[^t-3]: Nuovo testo giusta il n. II cpv. 2 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^t-3]: Nuovo testo giusta il n. II cpv. 2 dell’O del 4 mag. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)). Aggiornato dal n. II cpv. 1 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 Per un progetto o un programma realizzato in Svizzera non sono rilasciati attestati nazionali se le riduzioni delle emissioni o l’aumento delle prestazioni dei pozzi di carbonio sono conseguiti mediante:
 
@@ -3470,232 +3493,232 @@ Per un progetto o un programma realizzato in Svizzera non sono rilasciati attest
 - b. attività di ricerca e sviluppo o informazione e consulenza;
 - c. l’impiego di biocombustibili e biocarburanti che non soddisfano i requisiti ecologici e sociali secondo l’articolo 12*b* della legge sull’imposizione degli oli minerali del 21 giugno 1996[^annex3-lvlu1-1] e delle relative disposizioni attuative;
 - d. la sostituzione di vettori energetici fossili con vettori energetici fossili (ad es. in caldaie, veicoli e veicoli ibridi);
-- e. l’impiego di idrogeno, escluso l’impiego di bioidrogeno secondo l’arti-colo 19*a* lettera f dell’ordinanza del 20 novembre 1996[^annex3-lvlu1-2] sull’imposizione degli oli minerali in pile combustibili;
+- e.
+
+  l’impiego di idrogeno, escluso l’impiego di:
+
+  - 1\. idrogeno proveniente da biomassa o da altri vettori energetici rinnovabili come biocarburante (art. 19*a* lett. f ordinanza del 20 novembre 1996[^annex3-lvlu1-2] sull’imposizione degli oli minerali) che soddisfa le esigenze di cui all’articolo 12*b* della legge federale del 21 giugno 1996[^annex3-lvlu1-3] sull’imposizione degli oli minerali, o
+  - 2\. idrogeno proveniente da biomassa o da altri vettori energetici rinnovabili che soddisfa le esigenze di cui all’articolo 12*b* della legge sull’imposizione degli oli minerali, ma che non viene utilizzato come carburante;
+
 - f. energia elettrica impiegata quale sostituto del combustibile per il calore di processo; è fatto salvo l’utilizzo in pompe di calore;
 - g. la rinuncia all’utilizzo o il sottoutilizzo;
-- h. l’impiego di carbone vegetale; è fatto salvo l’impiego di meno di otto tonnellate per ettaro per periodo di credito, se il carbone vegetale impiegato soddisfa i requisiti di cui all’ordinanza sulla messa in commercio di concimi del 10 gennaio 2001[^annex3-lvlu1-3];
-- i. il ricorso a tecniche di adsorbimento e assorbimento per la produzione di freddo o calore; è escluso il ricorso a esse in caso di utilizzo decentralizzato di calore residuo disponibile in misura sufficiente secondo l’articolo 2 lettera e dell’ordinanza del 1° novembre 2017[^annex3-lvlu1-4] sulla promozione dell’energia.
+- h.
+
+  l’impiego di carbone vegetale; è fatto salvo l’impiego come:
+
+  - 1\. concime di meno di otto tonnellate per ettaro per periodo di credito, se il carbone vegetale impiegato soddisfa i requisiti di cui all’ordinanza del 10 gennaio 2001[^annex3-lvlu1-4] sulla messa in commercio di concimi, oppure
+  - 2\. materiale da costruzione;
+
+- i. il ricorso a tecniche di adsorbimento e assorbimento per la produzione di freddo o calore; è escluso il ricorso a esse in caso di utilizzo decentralizzato di calore residuo disponibile in misura sufficiente secondo l’articolo 2 lettera e dell’ordinanza del 1° novembre 2017[^annex3-lvlu1-5] sulla promozione dell’energia.
 
 [^annex3-lvlu1-1]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
 [^annex3-lvlu1-2]: [RS 641.611](https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393)
-[^annex3-lvlu1-3]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
-[^annex3-lvlu1-4]: [RS 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
+[^annex3-lvlu1-3]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^annex3-lvlu1-4]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^annex3-lvlu1-5]: [RS 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
 
 Allegato 3a[^t-4]
 
-(art. 6 cpv. 2<sup>bis</sup>)
+(art. 6 cpv. 3)
 
 ## Requisiti per il calcolo delle riduzioni delle emissioni e il piano di monitoraggio per progetti e programmi connessi a reti di riscaldamento a distanza
 
-[^t-4]: Introdotto dal n. II cpv. 1 dell’O del 21 set. 2018 ([RU 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)). Aggiornato dalla correzione del 19 feb. 2019 ([RU 2019 683](https://fedlex.data.admin.ch/eli/oc/2019/118)) e dal n. II cpv. 1 dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^t-4]: Introdotto dal n. II cpv. 1 dell’O del 21 set. 2018 ([RU 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)). Nuovo testo giusta il n. II cpv. 2 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
-### 1. Campo d’applicazione
+### 1 Campo d’applicazione
 
-I requisiti del presente allegato si applicano a progetti e programmi se questi comprendono:
+Il presente allegato si applica a progetti e programmi se questi comprendono:
 
-- a. la costruzione di una nuova rete di riscaldamento con una fonte di calore prevalentemente a bilancio neutro di CO<sub>2</sub>;
-- b. la sostituzione di una caldaia centrale a combustibili fossili in una rete di riscaldamento esistente con fonti di calore esclusivamente fossili con una o più fonti di calore prevalentemente a bilancio neutro di CO<sub>2</sub>;
-- c. l’aggiunta a una caldaia centrale a combustibili fossili in una rete di riscaldamento esistente con fonti di calore esclusivamente fossili di una o più fonti di calore prevalentemente a bilancio neutro di CO<sub>2</sub>;
-- d. la costruzione di una nuova rete di riscaldamento che preveda anche la sostituzione di una caldaia centrale a combustibili fossili in una rete di riscaldamento esistente con fonti di calore esclusivamente fossili con una o più fonti di calore prevalentemente a bilancio neutro di CO<sub>2</sub>; o
-- e. la costruzione di una nuova rete di riscaldamento che preveda anche l’aggiunta a una caldaia centrale a combustibili fossili in una rete di riscaldamento esistente con fonti esclusivamente fossili di una o più fonti di calore prevalentemente a bilancio neutro di CO<sub>2</sub>.
+- a. la costruzione di una nuova rete di riscaldamento a distanza con una o più fonti di calore a bilancio neutro di CO<sub>2</sub>;
+- b. l’ampliamento o la densificazione di una rete di riscaldamento a distanza esistente con fonti di calore prevalentemente a bilancio neutro di CO<sub>2</sub>;
+- c. la sostituzione o l’aggiunta di una o più fonti di calore fossili centralizzate in una rete di riscaldamento a distanza esistente con una o più fonti di calore prevalentemente a bilancio neutro di CO<sub>2</sub>.
 
-### 2. Definizioni
+### 2 Definizioni
 
 Ai sensi del presente allegato si intendono per:
 
-- a. *rete di riscaldamento a distanza:* rete per la distribuzione del calore con fonti centralizzate e utilizzatori decentralizzati (utilizzatori di calore);
-- b. *utilizzatori esistenti:* utilizzatori di calore che già prima dell’inizio della realizzazione di cui all’articolo 5 capoverso 2 erano connessi a una rete di riscaldamento a distanza esistente;
-- c. *costruzioni nuove:* edifici creati al momento dell’allacciamento alla rete di riscaldamento a distanza e che non sono utilizzatori esistenti.
+- a. *rete di riscaldamento a distanza**:* rete per la distribuzione del calore con fonti centralizzate e utilizzatori decentralizzati;
+- b. *nuovi utilizzatori**:* utilizzatori di calore che dopo l’inizio della realizzazione del progetto (art. 5 cpv. 3) vengono allacciati a una rete di riscaldamento a distanza nuova o esistente;
+- c. *utilizzatori esistenti**:* utilizzatori di calore che già prima dell’inizio della realizzazione del progetto erano allacciati a una rete di riscaldamento a distanza esistente;
+- d. *costruzioni nuove:* edifici realizzati al momento dell’allacciamento alla rete di riscaldamento a distanza e che non sono utilizzatori esistenti.
 
-### 3. Requisiti per il calcolo delle riduzioni delle emissioni
+### 3 Requisiti per il calcolo delle riduzioni delle emissioni
 
 ### 3.1 Requisiti metrologici
 
-I progetti e programmi devono adempiere in particolare a tutti i requisiti metrologici riportati di seguito:
+Per il calcolo delle riduzioni delle emissioni di progetti e programmi si devono in particolare misurare:
 
-- a. deve essere misurato il consumo di tutti i vettori energetici fossili della centrale termica e il consumo di elettricità delle pompe di calore della centrale termica;
-- b. deve essere misurata la quantità di calore per tutti gli utilizzatori di calore, tenendo presente che la quantità di calore delle nuove costruzioni e dei gestore di impianti esentate secondo l’articolo 96 capoverso 2 dalla tassa sul CO<sub>2</sub> deve essere comprovata separatamente.
+- a. il consumo di tutte le fonti di calore fossili centralizzate;
+- b. il consumo di elettricità delle pompe di calore;
+- c.
+
+  la quantità di calore per tutti gli utilizzatori di calore, tenendo presente che le quantità di calore seguenti devono essere comprovate separatamente:
+
+  - − quantità di calore distribuite a costruzioni nuove,
+  - − quantità di calore distribuite a gestori di impianti esentati dalla tassa sul CO<sub>2</sub> secondo l’articolo 96 capoverso 2.
 
 ### 3.2 Limiti del sistema
 
-I limiti del sistema del progetto o del programma devono comprendere la centrale termica, la rete di riscaldamento e tutti gli utilizzatori, i flussi di energia nonché le emissioni derivanti dal progetto.
+I limiti del sistema del progetto o del programma devono comprendere:
+
+- a. le fonti di calore centralizzate;
+- b. la rete per la distribuzione del calore;
+- c. gli utilizzatori di calore;
+- d. i flussi di energia in entrata;
+- e. le emissioni derivanti dal progetto o dal programma.
 
 ### 3.3 Scenario di riferimento
 
 \1. Nella descrizione del progetto o del programma devono essere illustrati almeno due plausibili scenari alternativi al progetto o al programma.
 
-\2. Devono essere descritte almeno le seguenti situazioni:
+\2. Gli scenari devono coprire un periodo di 20 anni al massimo.
 
-- a. il mantenimento della situazione esistente senza realizzazione del progetto o del programma; e
-- b. la rete di riscaldamento a distanza progettata, ma senza introiti da attestati.
-
-\3. Le probabilità di avveramento di questi scenari devono essere illustrate nella descrizione del progetto o del programma, con lo scenario più probabile scelto come scenario di riferimento.
+\3. Le probabilità di avveramento dei singoli scenari devono essere illustrate definendo come scenario di riferimento quello più probabile.
 
 ### 3.4 Calcolo delle emissioni di riferimento
 
-Le emissioni totali annue nello sviluppo di riferimento si calcolano come segue:
+Le emissioni totali annue nello scenario di riferimento si calcolano come segue:
 
-*ERif**<sub>y</sub>* *= (ERif**<sub>nuovo,y</sub>* *+ ERif**<sub>in corso,y</sub>**) \* F**<sub>RIC</sub>* (1)
+*ERif**<sub>y</sub>* *= (ERif**<sub>nuovo,y</sub>* *+ ERif**<sub>in corso,y</sub>* *+ ERif**<sub>SSQE,y</sub>**)* (1)
 
 dove:
 
 - ERif<sub>y</sub> Emissioni dello scenario di riferimento nell’anno y [t CO<sub>2</sub>eq].
 - ERif<sub>nuovo,y</sub> Emissioni dello scenario di riferimento dei nuovi utilizzatori nell’anno y [t CO<sub>2</sub>eq], cfr. equazione (2).
 - ERif<sub>in corso,y</sub> Emissioni dello scenario di riferimento degli utilizzatori esistenti nell’anno y [t CO<sub>2</sub>eq], cfr. equazione (3).
-- F<sub>RIC</sub> Fattore di riduzione della rimunerazione per l’immissione in rete a copertura dei costi (RIC); questo parametro da utilizzare deve essere definito su 1.
-- Se con la fonte di calore della rete di riscaldamento a distanza si produce elettricità e se questa è rimunerata con la RIC, il parametro da utilizzare deve essere definito come segue:
-- 1. per i progetti RIC precedenti al 1° gennaio 2018 deve essere definito il requisito minimo per l’utilizzo del calore rispetto all’utilizzo complessivo di calore dell’impianto secondo l’allegato 1.5 dell’ordinanza del 7 dicembre 1998[^annex3a-lvlu1-lvl3-lvl34-1] sull’energia (OEn); o
-- 2. per i progetti RIC a partire dal 1° gennaio 2018 deve essere definito il requisito minimo per l’utilizzo del calore rispetto all’utilizzo complessivo di calore dell’impianto secondo l’allegato 1.5 dell’ordinanza del 1° novembre 2017[^annex3a-lvlu1-lvl3-lvl34-2] sulla promozione della produzione di elettricità generata a partire da energie rinnovabili (OPEn).
+- ERif<sub>SSQE,y</sub> Parametro utilizzato per evitare doppi conteggi delle emissioni in questa sede e nel sistema di scambio di quote di emissione; questo parametro è uguale a 0.
+- Se il progetto preleva calore da una fonte di calore che si trova nel perimetro di un impianto il cui gestore partecipa al sistema di scambio di quote di emissioni, il parametro ha il valore dei diritti di emissione assegnati nell’anno y [t CO<sub>2</sub>eq]; questo valore è stabilito al momento della domanda di valutazione dell’idoneità del progetto e modificato durante il periodo di credito solo se si verificano modifiche nel sistema di scambio di quote di emissioni che rendono necessario un adeguamento.
 
-I singoli termini devono essere calcolati come segue:
+I termini devono essere calcolati come segue:
 
-*ERif**<sub>y,nuovo</sub>* *=* *∑**<sub>i</sub>* *C**<sub>i,y,nuovo</sub>* *\* FE**<sub>WV</sub>* (2)
+*ERif**nuovo,y* *= ∑**i* *C**nuovo,i,y* *\* FE**WV* (2)
 
 dove:
 
-- C<sub>i,y,nuovo</sub> Fornitura attesa di calore ai nuovi utilizzatori della rete di riscaldamento nell’anno y [MWh]; nel monitoraggio questo parametro è sostituito dal valore misurato secondo il numero 4.2.
-- i Tutti i nuovi utilizzatori, escluse le nuove costruzioni e i gestori di impianti esentati dalla tassa sul CO<sub>2</sub> secondo l’articolo 96 capoverso 2.
-- FE<sub>WV</sub> Fattore di emissione forfetario della rete di riscaldamento a distanza = 0,22 tCO<sub>2</sub>eq/MWh.
+- C<sub>nuovo,i,y</sub> Fornitura attesa di calore ai nuovi utilizzatori nell’anno y [MWh]; nel monitoraggio questo parametro è sostituito dal valore misurato secondo il numero 4.2.
+- i Tutti i nuovi utilizzatori esclusi:
+- − le costruzioni nuove,
+- − gli edifici il cui riscaldamento era già a bilancio neutro di CO<sub>2</sub> prima dell’allacciamento alla rete di riscaldamento a distanza e
+- − gli impianti i cui gestori sono esentati dalla tassa sul CO<sub>2</sub> secondo l’articolo 96 capoverso 2.
+- FE<sub>WV</sub> Fattore di emissione forfettario della rete di riscaldamento a distanza = 0,211 t CO<sub>2</sub>eq/MWh.
 
-*ERif**<sub>in corso,y</sub>* *=* *∑**<sub>i</sub>* *C**<sub>in corso,k,y</sub>* *\* FE \* FR**<sub>y</sub>**\*1/(1-WVN)* (3)
+*ERif**<sub>in corso,y</sub>* *= ∑**<sub>k</sub>* *C**<sub>in corso,k,y</sub>* *\* FE**<sub>in corso</sub>* *\* FR**<sub>y</sub>**\*1/(1–WVN))* (3)
 
 dove:
 
-- C<sub>in corso,k,y</sub> Fornitura attesa di calore agli utilizzatori esistenti nell’anno y [MWh]; nel monitoraggio questo parametro è sostituito dal valore misurato secondo il numero 4.
-- k Tutti gli utilizzatori di calore esistenti senza i gestori di impianti esentati dalla tassa sul CO<sub>2</sub>.
-- FR<sub>y</sub> Fattore di riferimento dell’anno y: 100 % se y &gt; anno d’installazione della vecchia caldaia + 20 anni, altrimenti 70 %.
-- WVN Deduzione forfetaria del 10 % per perdite di calore della rete di riscaldamento.
-- FE Fattore di emissione forfetario della rete di riscaldamento a distanza correlato al tipo di caldaia centralizzata da sostituire:
-- FE = FE<sub>gas</sub> / 90 % se è sostituita una caldaia a gas naturale,
-- FE = FE<sub>olio da riscald.</sub> / 85 % se è sostituita una caldaia a olio da riscaldamento.
-- FE1<sub>gas</sub> Fattore di emissione del gas naturale convertito in tCO<sub>2</sub>eq/MWh secondo l’allegato 10. Per la conversione dell’unità tCO<sub>2</sub>eq/MJ in tCO<sub>2</sub>eq/MWh deve essere applicato il fattore 0,0036 TJ/MWh.
-- FE1<sub>olio da riscald.</sub> Fattore di emissione dell’olio da riscaldamento = 0,265 tCO<sub>2</sub>eq/MWh.
-- FE<sub>elettricità</sub> Fattore di emissione dell’elettricità = 29,8 \* 10<sup>-6</sup> tCO<sub>2</sub>eq/kWh.
-
-[^annex3a-lvlu1-lvl3-lvl34-1]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
-[^annex3a-lvlu1-lvl3-lvl34-2]: [RS 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
+- C<sub>in corso,k,y</sub> Fornitura attesa di calore agli utilizzatori esistenti nell’anno y [MWh]; nel monitoraggio questo parametro è sostituito dal valore misurato secondo il numero 4.2.
+- <sub>k</sub> Tutti gli utilizzatori esistenti, esclusi gli impianti i cui gestori sono esentati dalla tassa sul CO2 secondo l’articolo 96 capoverso 2.
+- FR<sub>y</sub> Fattore di riferimento dell’anno y; 100 % se y &gt; anno d’installazione della più vecchia fonte di calore fossile centralizzata + 20 anni; in tutti gli altri casi, 70 %.
+- WVN Deduzione forfettaria del 10 % per perdite di calore della rete di distribuzione del calore.
+- FE<sub>in corso</sub> Fattore di emissione della rete di riscaldamento a distanza esistente, incluso rendimento, correlato al tipo di fonte di calore centralizzata da sostituire o alle fonti di calore centralizzate da sostituire; è calcolato come segue:
+- <sub>−</sub> per progetti che sostituiscono solo fonti di calore a gas naturale: FE<sub>in corso</sub> = 0,226 t CO<sub>2</sub>/MWh
+- <sub>−</sub> per progetti che sostituiscono solo fonti di calore a olio da riscaldamento: FE<sub>in corso</sub> = 0,312 t CO<sub>2</sub>/MWh
+- − per progetti che sostituiscono solo fonti di calore a gas naturale e olio da riscaldamento: FE<sub>in corso</sub> = 0,269 t CO<sub>2</sub>/MWh
+- − per progetti che sostituiscono fonti di calore fossili e rinnovabili: FEin corso = 0,113 t CO<sub>2</sub>/MWh
 
 ### 3.5 Calcolo delle emissioni del progetto o del programma
 
-Le emissioni annuali del progetto o di ciascun progetto del programma devono essere calcolate come segue:
+Le emissioni annuali di un progetto o le emissioni annuali di ciascun progetto di un programma devono essere calcolate come segue:
 
-*EP**<sub>y</sub>* *= FE2**<sub>olio da riscald.</sub>**\* Q**<sub>olio da riscald.,y</sub>* *+ FE2**<sub>gas</sub>* *\* Q**<sub>gas,y</sub>* *+ FE**<sub>el.</sub>* *\* Q**<sub>el.,y</sub>* (4)
-
-dove:
-
-- EP<sub>y</sub> Emissioni attese del progetto o del progetto del programma nell’anno y [tCO<sub>2</sub>eq]
-- Q<sub>olio da riscald.,y</sub> Quantità attesa di olio da riscaldamento bruciato per l’esercizio della centrale di riscaldamento nell’anno y [l]; nel monitoraggio questo parametro è sostituito dal valore misurato secondo il numero 4.4.
-- Q<sub>gas,y</sub> Quantità attesa di gas bruciato per l’esercizio della centrale di riscaldamento nell’anno y [Nm<sup>3</sup>]; nel monitoraggio questo parametro è sostituito dal valore misurato secondo il numero 4.5.
-- Q<sub>el.,y</sub> Quantità di energia elettrica attesa per l’esercizio di pompe di calore nella centrale di riscaldamento nell’anno y [kWh]; nel monitoraggio questo parametro è sostituito dal valore misurato secondo il numero 4.6.
-- FE2<sub>gas</sub> Fattore di emissione del gas naturale convertito in tCO<sub>2</sub>eq/Nm<sup>3</sup> o in tCO<sub>2</sub>eq/MWh secondo l’allegato 10 in funzione dell’unità utilizzata per Q<sub>gas</sub>. Per la conversione dell’unità tCO<sub>2</sub>/TJ in tCO<sub>2</sub>eq/MWh deve essere applicato il fattore 0,0036 TJ/MWh.
-- FE2<sub>olio da riscald.</sub> Fattore di emissione dell’olio da riscaldamento = 2,65 tCO<sub>2</sub>eq/1000 l.
-
-### 3.6 Calcolo delle riduzioni delle emissioni
-
-Le riduzioni delle emissioni annuali di progetti o progetti di programmi devono essere calcolate come segue:
-
-*RE**<sub>y</sub>* *= ERif**<sub>y</sub>* *- EP**<sub>y</sub>* (5)
+*EP**<sub>y</sub>* *= FE**<sub>olio da riscald.</sub>* *\* Q**<sub>olio da riscald.,y</sub>* *+ FE**<sub>gas</sub>* *\* Q**<sub>gas,y</sub>* *+ FE**<sub>el.</sub>* *\* Q**<sub>el.,y</sub>* *+ EP**<sub>SSQE,y</sub>* (4)
 
 dove:
 
-- RE<sub>y</sub> Riduzioni delle emissioni nell’anno y [t CO<sub>2</sub>eq].
-- ERif<sub>y</sub> Emissioni dello scenario di riferimento nell’anno y [tCO<sub>2</sub>eq].
-- EP<sub>y</sub> Emissioni del progetto della rete di riscaldamento a distanza nell’anno y [tCO<sub>2</sub>eq].
+- EP<sub>y</sub> Emissioni attese del progetto nell’anno y [t CO<sub>2</sub>eq].
+- Q<sub>olio da riscald.,y</sub> Quantità attesa di olio da riscaldamento bruciato per l’esercizio della fonte di calore centralizzata o delle fonti di calore centralizzate nell’anno y [l]; nel monitoraggio questo parametro è sostituito dal valore misurato secondo il numero 4.4.
+- Q<sub>gas,y</sub> Quantità attesa di gas bruciato per l’esercizio della fonte di calore centralizzata o delle fonti di calore centralizzate nell’anno y [Nm<sup>3</sup> o in MWh]; nel monitoraggio questo parametro è sostituito dal valore misurato secondo il numero 4.5.
+- Q<sub>elettricità,y</sub> Quantità di energia elettrica attesa per l’esercizio di pompe di calore centralizzate nell’anno y [kWh]; nel monitoraggio questo parametro è sostituito dal valore misurato secondo il numero 4.6.
+- FE<sub>gas</sub> Fattore di emissione del gas naturale convertito in t CO<sub>2</sub>eq/Nm<sup>3</sup> o in t CO<sub>2</sub>eq/MWh secondo l’allegato 10 in funzione dell’unità utilizzata per Q<sub>gas</sub>. Per la conversione dell’unità t CO<sub>2</sub>/TJ in t CO<sub>2</sub>eq/MWh deve essere applicato il fattore 0,0036 TJ/MWh.
+- FE<sub>olio da riscald.</sub> Fattore di emissione dell’olio da riscaldamento = 2,65 t CO<sub>2</sub>eq/1000 l.
+- EP<sub>SSQE,y</sub> Parametro utilizzato per evitare doppi conteggi delle emissioni in questa sede e nel sistema di scambio di quote di emissione; questo parametro è uguale a 0.
+- Se la rete di riscaldamento a distanza preleva calore da una fonte di calore che si trova nel perimetro di un impianto il cui gestore partecipa al sistema di scambio di quote di emissioni, il parametro ha il valore dei diritti di emissione assegnati nell’anno y [t CO<sub>2</sub>eq]; questo valore è stabilito annualmente nel rapporto di monitoraggio e corrisponde ai diritti di emissione rilasciati al gestore degli impianti nel sistema di scambio di quote di emissioni.
+- FE<sub>elettricità</sub> Fattore di emissione dell’elettricità = 29,6 \* 10–6 t CO<sub>2</sub>eq/kWh.
 
-### 4. Requisiti per il piano di monitoraggio
+### 3.6 Calcolo delle riduzioni delle emissioni annuali
 
-\1. Per progetti e programmi in virtù del presente allegato devono essere considerati nel rapporto di monitoraggio i valori rilevati, i documenti e i requisiti indicati ai numeri 4.1-4.6.
+Le riduzioni delle emissioni annuali di progetti devono essere calcolate come segue:
 
-\2. Il calcolo delle riduzioni delle emissioni deve essere determinato in base ai valori rilevati.
-
-### 4.1 Elenco degli utilizzatori di calore con giustificativi delle forniture di calore
-
-\1. Al rapporto di monitoraggio deve essere allegato un elenco di tutti gli utilizzatori di calore con l’indicazione della quantità di calore in MWh fornita nell’intervallo di monitoraggio; la quantità di calore in MWh è suddivisa per anno civile. La misurazione deve essere effettuata secondo il numero 4.2.
-
-\2. Le iscrizioni nell’elenco degli utilizzatori di calore devono essere effettuate in modo tale da consentirne l’identificazione inequivocabile degli utilizzatori di calore.
-
-\3. Per i gestore di impianti esentati dalla tassa sul CO<sub>2</sub> secondo l’articolo 96 capoverso 2 devono essere
-
-- a. indicati le denominazioni e gli indirizzi; e
-- b. presentate le emissioni dello scenario di riferimento in tCO<sub>2</sub>eq per ogni gestore di impianti.
-
-\4. Le emissioni secondo il numero 3 lettera b devono essere calcolate come segue:
-
-*ERif**<sub>gestore di impianti,m,y,nuovo</sub>* *= C**<sub>impresa,m,y,nuovo</sub>* *\* FE**<sub>WV</sub>*
+- *RE**<sub>y</sub>* *= ERif**<sub>y</sub>* *– EP**<sub>y</sub>* (5)
 
 dove:
 
-- C*<sub>gestore di impianti</sub>*<sub>,m,y,nuovo</sub> Fornitura di calore della nuova rete di riscaldamento a distanza al gestore di impianti m esentato dalla tassa sul CO<sub>2</sub> nell’anno y [MWh]
-- FE<sub>WV</sub> Fattore di emissione forfetario della rete di riscaldamento a distanza = 0,22 tCO<sub>2</sub>eq/MWh.
+- REy Riduzione delle emissioni nell’anno y [t CO<sub>2</sub>eq].
+- ERify Emissioni dello scenario di riferimento nell’anno y [t CO<sub>2</sub>eq].
+- EPy Emissioni del progetto della rete di riscaldamento a distanza nell’anno y [t CO<sub>2</sub>eq].
 
-*ERif**<sub>gestore di impianti,in corso,n,y</sub>* *= C**<sub>impresa,in corso,n,y</sub>* *\* FE \* FR**<sub>y</sub>**\*1/(1-WVN)*
+### 4 Requisiti per il piano di monitoraggio
 
-dove:
+### 4.1 Elenco degli utilizzatori di calore con forniture di calore comprovate
 
-- C*<sub>gestore di impianti</sub>*<sub>,in corso,n,y</sub> Fornitura di calore della nuova rete di riscaldamento a distanza al gestore di impianti n esentato dalla tassa sul CO<sub>2</sub> nell’anno y [MWh].
-- FR<sub>y</sub> Fattore di riferimento dell’anno y: 100 % se y &gt; anno d’installazione della vecchia caldaia + 20 anni, altrimenti 70 %.
-- WVN Deduzione forfetaria del 10 % per perdite di calore della rete di riscaldamento.
-- FE<sub>in corso</sub> Fattore di emissione della rete di riscaldamento a distanza correlato al tipo di caldaia centralizzata da sostituire:
-- FE = FEgas / 90 % se è sostituita una caldaia a gas naturale,
-- FE = FEolio da riscald. / 85 % se è sostituita una caldaia a olio da riscaldamento.
-- FE1<sub>gas</sub> Fattore di emissione del gas naturale convertito in tCO<sub>2</sub>eq/MWh secondo l’allegato 10. Per la conversione dell’unità tCO<sub>2</sub>eq/MJ in tCO<sub>2</sub>eq/MWh deve essere applicato il fattore 0,0036 TJ.
-- FE1<sub>olio da riscald.</sub> Fattore di emissione dell’olio da riscaldamento = 0,265 tCO<sub>2</sub>eq/MWh.
-- FE<sub>elettricità</sub> Fattore di emissione dell’elettricità = 29,8 \* 10<sup>-6</sup> tCO<sub>2</sub>eq/kWh.
+\1. Al rapporto di monitoraggio deve essere allegato un elenco di tutti gli utilizzatori di calore. Questo elenco deve contenere le informazioni seguenti:
 
-### 4.2 Quantità di calore misurata presso gli utilizzatori
+- a. nome e indirizzo degli utilizzatori;
+- b. anno in cui gli utilizzatori sono stati allacciati alla rete di riscaldamento;
+- c. quantità di calore in MWh fornita agli utilizzatori nel periodo di monitoraggio, suddivisa per anno civile; la quantità deve essere calcolata secondo il numero 2.4.
 
-Nella misurazione della quantità di calore fornita (C<sub>1,y,nuovo</sub>, C<sub>in corso,l,y</sub>) i nuovi utilizzatori e quelli esistenti devono adempiere i seguenti requisiti:
+\2. Se gli utilizzatori sono gestori di impianti esentati dalla tassa sul CO<sub>2</sub> secondo l’articolo 96 capoverso 2, nell’elenco devono figurare, oltre alle informazioni di cui al numero 1, anche le emissioni dello scenario di riferimento in t CO<sub>2</sub> eq. Le emissioni devono essere calcolate come descritto al numero 3.4.
 
-- a. deve essere misurata la quantità di calore fornita all’utilizzatore *l* nell’anno y;
+### 4.2 Misurazione della quantità di calore fornita agli utilizzatori di calore
+
+Nella misurazione della quantità di calore fornita agli utilizzatori di calore nuovi o esistenti (C<sub>nuovo,l,y,</sub> C<sub>in corso,l,y</sub>) devono essere adempiuti i requisiti seguenti:
+
+- a. deve essere misurata la quantità di calore fornita all’utilizzatore di calore *l* nell’anno *y*;
 - b. come fonte di dati deve essere utilizzato un contatore della quantità di calore;
-- c. la misurazione deve avvenire in megawattora (MWh);
+- c. la misurazione deve essere effettuata in chilowattora (kWh) o megawattora (MWh);
 - d. la misurazione deve essere continua;
-- e. la qualità deve essere garantita conformemente ai requisiti dell’ordinanza del 15 febbraio 2006[^annex3a-lvlu1-lvl4-lvl42-1] sugli strumenti di misurazione (OStrM) e alle relative prescrizioni d’esecuzione del Dipartimento federale di giustizia e polizia (DFGP); e
-- f. come luogo di misurazione deve essere utilizzato il punto di fornitura della rete di riscaldamento a distanza presso l’utilizzatore.
+- e. la qualità deve essere garantita conformemente ai requisiti dell’ordinanza del 15 febbraio 2006[^annex3a-lvlu1-lvl4-lvl42-1] sugli strumenti di misurazione (OStrM) e alle relative prescrizioni d’esecuzione del Dipartimento federale di giustizia e polizia (DFGP);
+- f. come luogo di misurazione deve essere utilizzato il punto di fornitura presso l’utilizzatore di calore.
 
 [^annex3a-lvlu1-lvl4-lvl42-1]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
 
-### 4.3 Età della caldaia sostituita
+### 4.3 Età della fonte di calore fossile centralizzata da sostituire
 
-Per determinare il fattore di riferimento deve essere considerato l’anno di fabbricazione o di installazione della caldaia a combustibili fossili sostituita o aggiunta.
+Per determinare il fattore di riferimento deve essere considerato l’anno di fabbricazione o di installazione della fonte di calore a combustibili fossili più vecchia da sostituire.
 
-### 4.4 Quantità di olio da riscaldamento
+### 4.4 Misurazione della quantità di olio da riscaldamento
 
-Nella misurazione della quantità di olio da riscaldamento (Q<sub>oliodariscald</sub>.) devono essere adempiti i seguenti requisiti:
+Nella misurazione della quantità di olio da riscaldamento (Q<sub>olio da riscald.,y</sub>) devono essere adempiuti i requisiti seguenti:
 
-- a. deve essere misurata la quantità di olio da riscaldamento bruciato per l’esercizio della centrale di riscaldamento nell’anno y;
+- a. deve essere misurata la quantità di olio da riscaldamento bruciato per l’esercizio della fonte o delle fonti di calore centralizzate fossili nell’anno y;
 - b. come fonte di dati deve essere utilizzato un contatore di olio da riscaldamento o un saldo delle scorte di olio da riscaldamento;
 - c. la misurazione deve avvenire in litri (l);
-- d. la misurazione deve avvenire per periodo di monitoraggio o, se questo supera l’anno civile, per anno civile; e
-- e. la qualità deve essere garantita mediante taratura del contatore di olio da riscaldamento altrimenti deve aver luogo una plausibilizzazione attraverso una fonte di dati alternativa.
+- d. la misurazione deve avvenire per periodo di monitoraggio o, se questo supera l’anno civile, per anno civile;
+- e. la qualità deve essere garantita mediante taratura del contatore di olio da riscaldamento; altrimenti, deve aver luogo una plausibilizzazione attraverso una fonte di dati alternativa.
 
-### 4.5 Quantità di gas
+### 4.5 Misurazione della quantità di gas
 
-Nella misurazione della quantità di gas (Q<sub>gas,y</sub>) devono essere adempiti i seguenti requisiti:
+Nella misurazione della quantità di gas (Q<sub>gas,y</sub>) devono essere adempiuti i requisiti seguenti:
 
-- a. deve essere misurata la quantità di gas bruciato per l’esercizio della centrale di riscaldamento nell’anno y;
+- a. deve essere misurata la quantità di gas bruciato per l’esercizio della fonte o delle fonti di calore centralizzate nell’anno y;
 - b. come fonte di dati deve essere utilizzato un contatore di gas;
-- c. la misurazione deve avvenire in metri cubi normali (Nm<sup>3</sup>);
-- d. la misurazione deve essere continua; e
-- e. la qualità deve essere garantita conformemente ai requisiti dell’OStrM e alle relative prescrizioni d’esecuzione del DFGP.
+- c. la misurazione deve avvenire in metri cubi normali (Nm<sup>3</sup>) o in megawattora (MWh);
+- d. la misurazione deve essere continua;
+- e. la qualità deve essere garantita conformemente alle disposizioni dell’OStrM e alle relative prescrizioni d’esecuzione del DFGP.
 
-### 4.6 Energia elettrica
+### 4.6 Misurazione della quantità di energia elettrica
 
-Nella misurazione dell’energia elettrica (Q<sub>el.,y</sub>) devono essere adempiti i seguenti requisiti:
+Nella misurazione della quantità di energia elettrica (Q<sub>el.,y</sub>) devono essere adempiuti i requisiti seguenti:
 
-- a. deve essere misurata la quantità di elettricità per l’esercizio di pompe di calore nella centrale di riscaldamento nell’anno y;
+- a. deve essere misurata la quantità di energia elettrica per l’esercizio di pompe di calore centralizzate nell’anno y;
 - b. come fonte di dati deve essere utilizzato un contatore di elettricità;
 - c. la misurazione deve avvenire in kilowattora (kWh) o in megawattora (MWh);
-- d. la misurazione deve essere continua; e
-- e. la qualità deve essere garantita conformemente ai requisiti dell’OStrM e alle relative prescrizioni d’esecuzione del DFGP.
+- d. la misurazione deve essere continua;
+- e. la qualità deve essere garantita conformemente alle disposizioni dell’OStrM e alle relative prescrizioni d’esecuzione del DFGP.
+
+### 4.7 Emissioni del progetto attese: evitare doppi conteggi con il sistema di scambio di quote di emissioni (EP<sub>SSQE,y</sub>)
+
+\1. Se il progetto preleva calore da una fonte di calore che si trova nel perimetro di un impianto il cui gestore partecipa al sistema di scambio di quote di emissioni, questo parametro ha il valore dei diritti di emissione assegnati nell’anno y [t CO<sub>2</sub>eq].
+
+\2. Questo valore è stabilito annualmente nel rapporto di monitoraggio come i diritti di emissione rilasciati al gestore degli impianti nel sistema di scambio di quote di emissioni.
 
 Allegato 3b[^t-5]
 
-(art. 6 cpv. 4)
+(art. 6 cpv. 3[^t-6])
 
-## Requisiti per il calcolo delle riduzioni delle emissioni e il piano di monitoraggio per progetti e programmi riguardanti il gas di discarica
+## Requisiti per il calcolo della riduzione di metano e il piano di monitoraggio per progetti e programmi riguardanti il gas di discarica
 
-[^t-5]: Introdotto dal n. II cpv. 1 dell’O del 21 set. 2018 (RU **2018** 5477). Aggiornato dal n. II 3 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^t-5]: Introdotto dal n. II cpv. 1 dell’O del 21 set. 2018 ([RU 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)). Aggiornato dal n. II cpv. 1 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^t-6]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 
 ### 1. Campo d’applicazione
 
@@ -3733,55 +3756,54 @@ Ai sensi del presente allegato si intendono per:
 
 Per la determinazione del valore del fattore di ossidazione (OX) necessario per i calcoli delle riduzioni di emissioni deve essere utilizzato il seguente albero decisionale:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20231025/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20231101/it/xml/image/image1.png)
 
-### 3.3 Calcolo ex ante delle riduzioni delle emissioni
+### 3.3 Calcolo ex ante della riduzione di metano
 
-Le riduzioni delle emissioni possono essere calcolate ex ante basandosi sui dati delle misurazioni degli ultimi uno a tre anni oppure applicando la formula seguente:
+La riduzione di metano può essere calcolata ex ante basandosi sui dati delle misurazioni dell’ultimo triennio oppure applicando la formula seguente:
 
-*ERif**<sub>ex-ante,y,torcia</sub>* *= (FE – OX) \* SE \* FOD**<sub>CH4,y</sub>* *\* GWP**<sub>eff,CH4</sub>* *- EP**<sub>y</sub>* (1)
+*ERif**<sub>ex ante,y,torcia</sub>* *= (FE – OX) \* SE \* FOD**<sub>CH4,y</sub>* *\* GWP**<sub>CH4</sub>* *– EP**<sub>y</sub>* (1)
 
 dove:
 
-- ERif<sub>ex-ante,y,torcia</sub> Riduzioni delle emissioni stimate in caso di trattamento del gas di bassa qualità nell’anno y (tCO<sub>2</sub>eq)
-- GWP<sub>eff,CH4</sub> Potenziale di gas serra effettivo del metano (25,25 tCO<sub>2</sub>eq/t CH4)
-- FE Efficienza della torcia
-- OX Fattore di ossidazione
-- SE Efficienza di aspirazione
-- FOD<sub>CH4,y</sub> Quantità di metano prodotta nella discarica nell’anno y calcolata con una formula «First Order Decay» (t CH<sub>4</sub>); cfr. formula (2)
-- EP<sub>y</sub> Emissioni del progetto nell’anno y
-- [tab] *FOD**<sub>CH4,y</sub>* *= (16/12) \*F\* DOC**<sub>f</sub>* *\** *∑**<sub>x</sub>* *∑**<sub>j</sub>* *A**<sub>j,x</sub>* *\* DOC**<sub>j</sub>* *\**
+- ERif<sub>ex ante,y,torcia</sub> Riduzioni delle emissioni stimate in caso di trattamento del gas di bassa qualità nell’anno y (t CO<sub>2</sub>eq).
+- GWP<sub>CH4</sub> Potenziale di gas serra del metano secondo l’allegato 1.
+- FE Efficienza della torcia.
+- OX Fattore di ossidazione.
+- SE Efficienza di aspirazione.
+- FOD<sub>CH4,y</sub> Quantità di metano prodotta nella discarica nell’anno y, calcolata con una formula «First Order Decay» (t CH<sub>4</sub>); cfr. equazione (2).
+- EP<sub>y</sub> Emissioni del progetto nell’anno y.
 
-*Exp(-k**<sub>j</sub>**(y-x)) \* (1* *–* *Exp(-k**<sub>j</sub>**))* (2)
+*FOD**<sub>CH4,y</sub>* *= (16/12)\*F\*DOC**<sub>f</sub>**\*∑**<sub>x</sub>* *∑**<sub>j</sub>* *A**<sub>j,x</sub>**\*DOC**<sub>j</sub>**\*Exp(-k**<sub>j</sub>**(y–x))\*(1–Exp(-k**<sub>j</sub>**))* (2)
 
 dove:
 
 - y Anno per cui sono calcolate le emissioni di metano.
-- x Anno in cui nella discarica è stata depositata una determinata quantità di rifiuti A<sub>j,x</sub>, della categoria j, da EJ fino a y.
-- 16/12 Rapporto massa molecolare CH<sub>4</sub> / C.
-- F = 0.5; frazione di metano nella miscela metano/anidride carbonica nel gas di discarica.
+- x Anno in cui nella discarica è stata depositata una determinata quantità di rifiuti Aj,x, della categoria j; da EJ fino a y.
+- 16/12 Rapporto massa molecolare CH<sub>4</sub>/C.
+- F= 0,5 Frazione di metano nella miscela metano/diossido di carbonio nel gas di discarica.
 - DOC<sub>f</sub> Frazione di carbonio biodegradabile degradato in condizioni anaerobiche (% in massa).
 - A<sub>j,x</sub> Quantità di rifiuti della categoria j depositata nell’anno x (t di rifiuti).
-- EJ Anno di apertura della discarica, ossia il primo anno in cui sono stati depositati rifiuti.
+- EJ Primo anno in cui sono stati depositati rifiuti (anno di apertura della discarica).
 - j Categoria di rifiuti.
 - DOC<sub>j</sub> Frazione di carbonio organico degradabile della relativa categoria di rifiuti (t C/t di rifiuti).
 - k<sub>j</sub> Costante di degradazione della categoria di rifiuti j (1/anno).
 
-### 3.4 Calcolo ex post delle riduzioni delle emissioni
+### 3.4 Calcolo ex post della riduzione di metano
 
 Per gli impianti di degassificazione nuovi ed esistenti la riduzione di metano ex post deve essere calcolata come segue:
 
-*ERif**<sub>ex-post,y,torcia</sub>* *= (FE* *–* *OX) \* GWP**<sub>effCH4</sub>* *\* V**<sub>DG,y</sub>* *\* c**<sub>CH4</sub>* *\* D**<sub>CH4</sub>* *- EP**<sub>y</sub>* (3)
+*ERif**<sub>ex post,y,torcia</sub>* *= (FE – OX) \* GWP**<sub>CH4</sub>* *\* V**<sub>DG,y</sub>* *\* c**<sub>CH4</sub>* *\* D**<sub>CH4</sub>* *– EP**<sub>y</sub>* (3)
 
 dove:
 
-- ERif<sub>ex-post,y,torcia</sub> Riduzioni delle emissioni computabili, determinate ex post in base alle emissioni misurate durante il trattamento del gas di bassa qualità nell’anno y (t CO<sub>2</sub>eq).
+- ERif<sub>ex post,y,torcia</sub> Riduzione delle emissioni computabili, determinate ex post in base alle emissioni misurate durante il trattamento del gas di bassa qualità nell’anno y (t CO<sub>2</sub>eq).
 - FE Efficienza della torcia.
 - OX Fattore di ossidazione.
-- GWP<sub>eff,CH4</sub> Potenziale di gas serra effettivo del metano (22,25 t CO<sub>2</sub>eq/t CH<sub>4</sub>).
+- GWP<sub>CH4</sub> Potenziale di gas serra del metano secondo l’allegato 1.
 - V<sub>DG,y</sub> Portata del gas di discarica misurata all’entrata del trattamento del gas di bassa qualità nell’anno y (Nm<sup>3</sup>); nel monitoraggio questo parametro è sostituito dal valore misurato secondo il numero 4.
 - c<sub>CH4</sub> Tenore di metano nel gas di discarica (% vol.); nel monitoraggio questo parametro è sostituito dal valore misurato secondo il numero 4.
-- D<sub>CH4</sub> Densità del metano in condizioni standard (0,0007202 t CH<sub>4</sub>/Nm<sup>3</sup>).
+- D<sub>CH4</sub> Densità del metano in condizioni standard (0,0007202 tCH<sub>4</sub>/Nm<sup>3</sup>).
 - EP<sub>y</sub> Emissioni del progetto nell’anno y.
 
 ### 3.5 Calcolo delle emissioni del progetto
@@ -3858,13 +3880,13 @@ Nella determinazione della quantità di gas (Q<sub>gas,y</sub>) devono essere ad
 - d. la misurazione deve essere continua o avvenire alla fornitura di ogni nuova bombola di gas; e
 - e. la qualità deve essere garantita secondo le specifiche del fabbricante.
 
-Allegato 4[^t-6]
+Allegato 4[^t-7]
 
 (art. 25 cpv. 2)
 
 ## Calcolo delle emissioni di CO<sub>2</sub> di veicoli in mancanza di dati di cui all’articolo 25 capoverso 2
 
-[^t-6]: Nuovo testo giusta il n. II cpv. 2 dell’O del 25 nov. 2020 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)). Aggiornato dal n. II cpv. 1 dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^t-7]: Nuovo testo giusta il n. II cpv. 2 dell’O del 25 nov. 2020 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)). Aggiornato dal n. II cpv. 1 dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 ### 1 Calcolo delle emissioni di CO<sub>2</sub> per le automobili
 
@@ -3944,13 +3966,13 @@ Allegato 4[^t-6]
   - a. se è uguale o inferiore a 4, il valore della seconda cifra decimale è arrotondato per difetto;
   - b. se è uguale o superiore a 5, il valore della seconda cifra decimale è arrotondato per eccesso.
 
-Allegato 4a[^t-7]
+Allegato 4a[^t-8]
 
 (art. 28)
 
 ## Calcolo dell’obiettivo di emissione individuale
 
-[^t-7]: Introdotto dal n. II cpv. 3 dell’O del 1° nov. 2017 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Aggiornato dal n. I dell’O del DATEC del 16 set. 2019 ([RU 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), del 18 set. 2020 1° nov. 2020 ([RU 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), dal. n. II cpv. 1 dell’O del 25 nov. 2020 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), dell’O del 24 nov. 2021 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) e dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 798](https://fedlex.data.admin.ch/eli/oc/2022/798)).
+[^t-8]: Introdotto dal n. II cpv. 3 dell’O del 1° nov. 2017 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Aggiornato dal n. I dell’O del DATEC del 16 set. 2019 ([RU 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), del 18 set. 2020 1° nov. 2020 ([RU 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), dal. n. II cpv. 1 dell’O del 25 nov. 2020 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), dell’O del 24 nov. 2021 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) e dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 798](https://fedlex.data.admin.ch/eli/oc/2022/798)).
 
 ### 1 Calcolo dell’obiettivo individuale
 
@@ -3995,13 +4017,13 @@ Allegato 4a[^t-7]
   - c. 2021: 2089 kg;
   - d. 2021: 2094 kg.
 
-Allegato 5[^t-8]
+Allegato 5[^t-9]
 
 (art. 29 cpv. 1)
 
 ## Importi delle sanzioni in caso di superamento dell’obiettivo individuale (art. 13 cpv. 1 legge sul CO<sub>2</sub>)
 
-[^t-8]: Nuovo testo giusta il n. I cpv. 2 dell’O del DATEC del 21 set. 2018 ([RU 2018 3497](https://fedlex.data.admin.ch/eli/oc/2018/567)). Aggiornato dal n. I dell’O del DATEC del 16 set. 2019 ([RU 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), dal n. II cpv. 1 dell’O del 24 nov. 2021 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) e dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 798](https://fedlex.data.admin.ch/eli/oc/2022/798)).
+[^t-9]: Nuovo testo giusta il n. I cpv. 2 dell’O del DATEC del 21 set. 2018 ([RU 2018 3497](https://fedlex.data.admin.ch/eli/oc/2018/567)). Aggiornato dal n. I dell’O del DATEC del 16 set. 2019 ([RU 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), dal n. II cpv. 1 dell’O del 24 nov. 2021 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) e dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 798](https://fedlex.data.admin.ch/eli/oc/2022/798)).
 
 ### 1 Importi delle sanzioni per l’anno di riferimento 2017
 
@@ -4028,16 +4050,17 @@ Gli importi dovuti in caso di superamento dell’obiettivo individuale per ogni 
 - a. per l’anno di riferimento 2019: 111.00 franchi;
 - b. per l’anno di riferimento 2020: 109.00 franchi;
 - c. per l’anno di riferimento 2021: 103.50 franchi;
+
 - d. per l’anno di riferimento 2022: 104.00 franchi;
 - e. per l’anno di riferimento 2023: 101 franchi.
 
-Allegato 6[^t-9]
+Allegato 6[^t-10]
 
 (art. 40 cpv. 1)
 
 ## Gestori di impianti con obbligo di partecipazione al SSQE
 
-[^t-9]: Aggiornato dal n. II dell’O dell’8 ott. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), dall’all. 6 n. 2 dell’O del 4 dic. 2015 sui rifiuti ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), dai n. II cpv. 1 delle O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)) e del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^t-10]: Aggiornato dal n. II dell’O dell’8 ott. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), dall’all. 6 n. 2 dell’O del 4 dic. 2015 sui rifiuti ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), dai n. II cpv. 1 delle O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)) e del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
 Un gestore di impianti che esercita almeno una delle seguenti attività deve partecipare al SSQE:
 
@@ -4070,13 +4093,13 @@ Un gestore di impianti che esercita almeno una delle seguenti attività deve par
 
 [^annex6-lvlu1-1]: [RS 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
 
-Allegato 7[^t-10]
+Allegato 7[^t-11]
 
 (art. 42 cpv. 1 lett. a, 66 cpv. 1 lett. a e b nonché cpv. 3 lett. a e b)
 
 ## Attività che autorizzano alla partecipazione al SSQE o all’esenzione dalla tassa con un impegno di riduzione
 
-[^t-10]: Aggiornato dai n. II dell’O dell’8 ott. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), II cpv. 1 dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
+[^t-11]: Aggiornato dai n. II dell’O dell’8 ott. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), II cpv. 1 dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 
 - 1\. Coltivazione di piante in serra;
 - 2\. estrazione di pietre e minerali e altre attività estrattive;
@@ -4101,13 +4124,13 @@ Allegato 7[^t-10]
 - 20\. produzione di calore o freddo generata da combustibili fossili, eventualmente combinata con la produzione di energia elettrica, immessa in reti regionali di teleriscaldamento e teleraffreddamento o fornita a gestori di impianti che esercitano attività di cui ai numeri 1–19 e 21;
 - 21\. pulizia di fusti, container e altri contenitori utilizzati in relazione con attività secondo il presente allegato.
 
-Allegato 8[^t-11]
+Allegato 8[^t-12]
 
 (art. 45 cpv. 1 e 48 cpv. 1<sup>bis</sup>)
 
 ## Calcolo della quantità massima di diritti di emissione disponibili per i gestori di impianti nel SSQE e calcolo della quantità in circolazione
 
-[^t-11]: Nuovo testo giusta il n. II cpv. 2 dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^t-12]: Nuovo testo giusta il n. II cpv. 2 dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 ### 1 Calcolo della quantità massima di diritti di emissione disponibili per i gestori di impianti nel SSQE
 
@@ -4132,13 +4155,13 @@ La quantità massima di diritti di emissione disponibili annualmente per l’ins
 
 - 2\.3 La domanda di diritti di emissione per gli impianti è il risultato della seguente sottrazione: le emissioni rilevanti di gas serra degli impianti di cui all’articolo 55 dedotti i certificati di riduzione delle emissioni consegnati per gli anni 2013–2020 a copertura di queste emissioni di gas serra.
 
-Allegato 9[^t-12]
+Allegato 9[^t-13]
 
 (art. 46 cpv. 1, 46*a* cpv. 2 e 46*b* cpv. 1 e 3)
 
 ## Calcolo dei diritti di emissione da assegnare a titolo gratuito per i gestori di impianti nel SSQE
 
-[^t-12]: Aggiornato dai n. II delle O dell’8 ott. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), del 22 giu. 2016 ([RU 2016 2473](https://fedlex.data.admin.ch/eli/oc/2016/394)), dal n. II cpv. 1 delle O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)), del 25 nov. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), dalla correzione del 10 feb. 2021 ([RU 2021 80](https://fedlex.data.admin.ch/eli/oc/2021/80)), dal n. II cpv. 1 dell’O del 24 nov. 2021 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) e dal n. II cpv. 3 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^t-13]: Aggiornato dai n. II delle O dell’8 ott. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), del 22 giu. 2016 ([RU 2016 2473](https://fedlex.data.admin.ch/eli/oc/2016/394)), dal n. II cpv. 1 delle O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)), del 25 nov. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), dalla correzione del 10 feb. 2021 ([RU 2021 80](https://fedlex.data.admin.ch/eli/oc/2021/80)), dal n. II cpv. 1 dell’O del 24 nov. 2021 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) e dal n. II cpv. 3 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### 1 Parametri di riferimento
 
@@ -4314,13 +4337,13 @@ Allegato 9[^t-12]
   - 1\. il calore utilizzato all’interno di un elemento di assegnazione con parametro di riferimento relativo al prodotto secondo il numero 1.7;
   - 2\. il rapporto tra le emissioni dirette e la somma delle emissioni dirette e indirette secondo il numero 4.1.
 
-Allegato 10[^t-13]
+Allegato 10[^t-14]
 
 (art. 86 cpv. 1 e 89 cpv. 2)
 
 ## Carburanti le cui emissioni di CO<sub>2</sub> devono essere compensate
 
-[^t-13]: Nuovo testo giusta l’all. 2 n. 3 dell’O del 29 mar. 2017 riguardante l’inventario federale dei paesaggi, siti e monumenti naturali, in vigore dal 1° giu. 2017 ([RU 2017 2815](https://fedlex.data.admin.ch/eli/oc/2017/290)).
+[^t-14]: Nuovo testo giusta l’all. 2 n. 3 dell’O del 29 mar. 2017 riguardante l’inventario federale dei paesaggi, siti e monumenti naturali, in vigore dal 1° giu. 2017 ([RU 2017 2815](https://fedlex.data.admin.ch/eli/oc/2017/290)).
 
 <table>
 <tr><td>Voce della tariffa doganale[^annex10-lvlu1-1]</td><td>Designazione della merce</td><td>Fattore di emissione t CO<sub>2</sub> per 1000 kg</td><td>Fattore di emissione t CO<sub>2</sub> per TJ</td><td>Fattore di emissione t CO<sub>2</sub> per m<sup>3</sup></td></tr>
@@ -4339,13 +4362,13 @@ Allegato 10[^t-13]
 
 [^annex10-lvlu1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), allegato
 
-Allegato 11[^t-14]
+Allegato 11[^t-15]
 
 (art. 94 cpv. 2)
 
 ## Tariffa della tassa sul CO<sub>2</sub> sui combustibili: 120 franchi per tonnellata di CO<sub>2</sub>
 
-[^t-14]: Nuovo testo giusta il n. II cpv. 2 dell’O del 24 nov. 2021 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)). Aggiornato dal n. II cpv. 3 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^t-15]: Nuovo testo giusta il n. II cpv. 2 dell’O del 24 nov. 2021 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)). Aggiornato dal n. II cpv. 3 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### 1 …
 
@@ -4443,13 +4466,13 @@ Per i combustibili menzionati qui di seguito si applicano le seguenti aliquote:
 
 - I combustibili impiegati conformemente al numero 3.1 sono assoggettati alle aliquote della tassa di cui al numero 2.
 
-Allegato 12[^t-15]
+Allegato 12[^t-16]
 
 (art. 112–113*b*)
 
 ## Impiego diretto della geotermia per la produzione di calore
 
-[^t-15]: Introdotto dal n. II cpv. 3 dell’O del 1° nov. 2017 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Aggiornato dal n. II cpv. 1 dell’O del 24 nov. 2021 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) e dal n. III dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^t-16]: Introdotto dal n. II cpv. 3 dell’O del 1° nov. 2017 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Aggiornato dal n. II cpv. 1 dell’O del 24 nov. 2021 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) e dal n. III dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 ### 1 Prospezione e sfruttamento
 
@@ -4601,13 +4624,13 @@ Allegato 12[^t-15]
 [^annex12-lvlu1-lvl5-1]: [RS 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
 [^annex12-lvlu1-lvl5-2]: [RS 510.624](https://fedlex.data.admin.ch/eli/cc/2008/391)
 
-Allegato 13[^t-16]
+Allegato 13[^t-17]
 
 (art. 46*d*)
 
 ## Operatori di aeromobili con obbligo di partecipazione al SSQE
 
-[^t-16]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Aggiornato dal n. II cpv. 3 dell’O del 4 mag. 2022, in vigore dal 1° gen. 2023 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^t-17]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Aggiornato dal n. II cpv. 3 dell’O del 4 mag. 2022, in vigore dal 1° gen. 2023 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 - 1\.
 
@@ -4651,13 +4674,13 @@ Allegato 13[^t-16]
 
 [^annex13-lvlu1-1]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
 
-Allegato 14[^t-17]
+Allegato 14[^t-18]
 
 (art. 46*d* cpv. 1 e 2, 51 cpv. 1, 2 e 4, 52 cpv. 1, 6 e 7, 53 cpv. 1 e 2, 55 cpv. 2 e 130 cpv. 1)
 
 ## Autorità competente per i partecipanti al SSQE
 
-[^t-17]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^t-18]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 
 ### 1 Gestori di impianti
 
@@ -4677,13 +4700,13 @@ Allegato 14[^t-17]
 
 [^annex14-lvlu1-lvl2-1]: Cfr. nota a piè di pagina all’art. 135 lett. f.
 
-Allegato 15[^t-18]
+Allegato 15[^t-19]
 
 (art. 46*e* e 46*f*)
 
 ## Calcolo della quantità massima di diritti di emissione disponibili e della quantità di diritti di emissione da assegnare a titolo gratuito per gli operatori di aeromobili
 
-[^t-18]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Aggiornato dal n. II cpv. 1 dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^t-19]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Aggiornato dal n. II cpv. 1 dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
 - 1\. La quantità di diritti di emissione è calcolata in base al seguente parametro di riferimento:
 - 0,000642186914222035 diritti di emissione per tonnellata-chilometro
@@ -4712,13 +4735,13 @@ Allegato 15[^t-18]
 - *Assegnazione**<sub>202x</sub>* *=* *Assegnazione**<sub>2020</sub>* *– x \* 0,022 \* assegnazione**<sub>2020</sub>*
 - *Assegnazione**<sub>202x</sub>* Assegnazione per l’anno 202x; con x = 1, 2, 3 ecc.
 
-Allegato 16[^t-19]
+Allegato 16[^t-20]
 
 (art. 51)
 
 ## Requisiti relativi al piano di monitoraggio
 
-[^t-19]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Aggiornato dal n. II cpv. 1 dell’O del 25 nov. 2020 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) e dal n. II cpv. 3 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^t-20]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Aggiornato dal n. II cpv. 1 dell’O del 25 nov. 2020 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) e dal n. II cpv. 3 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### 1 Piano di monitoraggio per gestori di impianti
 
@@ -4765,13 +4788,13 @@ Allegato 16[^t-19]
 
 [^annex16-lvlu1-lvl3-1]: Direttiva (UE) 2018/2001 del Parlamento europeo e del Consiglio, dell’11 dicembre 2018, sulla promozione dell’uso dell’energia da fonti rinnovabili (rifusione), GU L 328 del 21.12.2018, pag. 82.
 
-Allegato 17[^t-20]
+Allegato 17[^t-21]
 
 (art. 52)
 
 ## Requisiti posti al rapporto di monitoraggio
 
-[^t-20]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Aggiornato dal n. II cpv. 1 dell’O del 25 nov. 2020 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) e dal n. II cpv. 3 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^t-21]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Aggiornato dal n. II cpv. 1 dell’O del 25 nov. 2020 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) e dal n. II cpv. 3 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### 1 Rapporto di monitoraggio per gestori di impianti
 
@@ -4808,13 +4831,13 @@ Allegato 17[^t-20]
 
 [^annex17-lvlu1-lvl2-1]: Cfr. nota a piè di pagina all’art. 52 cpv. 5.
 
-Allegato 18[^t-21]
+Allegato 18[^t-22]
 
 (art. 52)
 
 ## Verifica dei rapporti di monitoraggio degli operatori di aeromobili e dei requisiti posti all’organismo di controllo
 
-[^t-21]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Aggiornato dal n. II cpv. 3 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^t-22]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Aggiornato dal n. II cpv. 3 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### 1 Obblighi dell’organismo di controllo e dell’operatore di aeromobile
 
