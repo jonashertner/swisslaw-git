@@ -4,11 +4,11 @@ title: Verordnung vom 18. Dezember 1995 über den Flugsicherungsdienst (VFSD)
 short: VFSD
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/595_595_595"
 language: de
-version: 2023-09-01
+version: 2023-11-01
 adopted: 1995-12-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/595_595_595/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1996-595_595_595-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/595_595_595/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/595_595_595/20231101/de/xml/fedlex-data-admin-ch-eli-cc-1996-595_595_595-20231101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/595_595_595/20231101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/595_595_595/20230901/de"
 
 (VFSD)
 
-vom 18. Dezember 1995 (Stand am 1. September 2023)
+vom 18. Dezember 1995 (Stand am 1. November 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -88,13 +88,14 @@ Der Flugverfahrensberechnungsdienst umfasst die Erarbeitung und Änderung sowie 
 
 **Luftraumstruktur und Benutzungsprioritäten**
 
-<sup>1</sup> Das Bundesamt für Zivilluftfahrt (BAZL) legt nach Anhörung der Luftwaffe und der «Skyguide Schweizerische Aktiengesellschaft für zivile und militärische Flugsicherung» (Skyguide) sowie weiterer betroffener Flugsicherungsdienstleistungserbringer (Leistungserbringer) die Luftraumstruktur und die Zuordnung der Luftraumklassen fest und sorgt für deren Veröffentlichung im Luftfahrthandbuch (Aeronautical Information Publication; AIP)[^2-1].
+<sup>1</sup> Das Bundesamt für Zivilluftfahrt (BAZL) legt nach Anhörung der Militärluftfahrtbehörde (Military Aviation Authority; MAA), der Luftwaffe und der «Skyguide Schweizerische Aktiengesellschaft für zivile und militärische Flugsicherung» (Skyguide) sowie weiterer betroffener Flugsicherungsdienstleistungserbringer (Leistungserbringer) die Luftraumstruktur und die Zuordnung der Luftraumklassen fest und sorgt für deren Veröffentlichung im Luftfahrthandbuch (Aeronautical Information Publication; AIP).[^2-1]
 
 <sup>2</sup> Den nationalen zivilen und militärischen Interessen bei der Benutzung des Luftraumes ist gleichermassen Rechnung zu tragen.
 
-<sup>3</sup> Zur Regelung von Interessenskonflikten erlässt das BAZL im Einvernehmen mit der Luftwaffe und nach Anhörung der Skyguide und weiterer betroffener Leistungserbringer Weisungen über das Luftraum-Management, insbesondere betreffend die Benutzungsprioritäten.
+<sup>3</sup> Zur Regelung von Interessenskonflikten erlässt das BAZL im Einvernehmen mit der MAA[^2-2] und nach Anhörung der Skyguide und weiterer betroffener Leistungserbringer Weisungen über das Luftraum-Management, insbesondere betreffend die Benutzungsprioritäten.
 
-[^2-1]: Diese Dokumente können bei Skyguide (aipversand@skyguide.ch) gegen Bezahlung bezogen und beim Bundesamt für Zivilluftfahrt (BAZL), 3003 Bern kostenlos eingesehen werden
+[^2-1]: Fassung gemäss Anhang Ziff. 2 der V vom 22. Sept. 2023 über die Militärluftfahrt, in Kraft seit 1. Nov. 2023 ([AS 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
+[^2-2]: Ausdruck gemäss Anhang Ziff. 2 der V vom 22. Sept. 2023 über die Militärluftfahrt, in Kraft seit 1. Nov. 2023 ([AS 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
 #### Art. 3
 
@@ -102,15 +103,17 @@ Der Flugverfahrensberechnungsdienst umfasst die Erarbeitung und Änderung sowie 
 
 <sup>1</sup> Für die Durchführung der Flugsicherungsdienste und deren Gebührenregelung sind die Normen und Empfehlungen der Internationalen Zivilluftfahrt-Organisation (ICAO) in den Anhängen 1–4, 6 und 7, 10–15, 17 und 19 zum Chicago-Übereinkommen sowie die zugehörigen ergänzenden Verfahren unmittelbar anwendbar. Vorbehalten sind die im AIP publizierten Abweichungen.
 
-<sup>2</sup> Das BAZL erlässt im Einvernehmen mit der Luftwaffe ergänzende technische oder betriebliche Weisungen. Für rein militärische Bereiche kann die Luftwaffe im Einvernehmen mit dem BAZL zusätzliche Weisungen erlassen.
+<sup>2</sup> Das BAZL erlässt im Einvernehmen mit der MAA ergänzende technische oder betriebliche Weisungen. Für rein militärische Bereiche kann die MAA im Einvernehmen mit dem BAZL zusätzliche Weisungen erlassen.
 
-<sup>3</sup> Vor dem Erlass, der Änderung oder der Aufhebung luftrechtlicher Vorschriften, die den Flugsicherungsdienst betreffen, sind die betroffenen Leistungserbringer anzuhören. Sie können dem BAZL entsprechende Vorschläge oder Anregungen unterbreiten.
+<sup>3</sup> Vor dem Erlass, der Änderung oder der Aufhebung luftrechtlicher Vorschriften, die den Flugsicherungsdienst betreffen, sind die betroffenen Leistungserbringer anzuhören. Sie können dem BAZL oder der MAA entsprechende Vorschläge oder Anregungen unterbreiten.[^3-1]
+
+[^3-1]: Fassung gemäss Anhang Ziff. 2 der V vom 22. Sept. 2023 über die Militärluftfahrt, in Kraft seit 1. Nov. 2023 ([AS 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 #### Art. 3a
 
 **Leistungsvereinbarungen**
 
-Die Einzelheiten der zu erbringenden Dienste sind im Rahmen der nationalen und internationalen Vorschriften zwischen den Leistungserbringern und der Kundschaft abzusprechen; das BAZL und die Luftwaffe werden zu den Verhandlungen beigezogen. Können sich die Parteien nicht einigen, entscheidet das BAZL im Einvernehmen mit der Luftwaffe und nach Anhörung der Beteiligten.
+Die Einzelheiten der zu erbringenden Dienste sind im Rahmen der nationalen und internationalen Vorschriften zwischen den Leistungserbringern und der Kundschaft abzusprechen; das BAZL und die MAA werden zu den Verhandlungen beigezogen. Können sich die Parteien nicht einigen, entscheidet das BAZL im Einvernehmen mit der MAA und nach Anhörung der Beteiligten.
 
 #### Art. 4
 
@@ -125,12 +128,26 @@ Die Leistungserbringer melden folgende Ereignisse unverzüglich dem BAZL:
 - c. technische oder betriebliche Unregelmässigkeiten, welche auf die Erfüllung der zugeteilten Aufgaben einen massgeblichen Einfluss haben können;
 - d. Ereignisse, die die Sicherheit der Flugsicherungsdienste beeinträchtigen.
 
-<sup>2</sup> Sind militärische Luftfahrzeuge beteiligt, informiert das BAZL die Luftwaffe.
+<sup>2</sup> Sind militärische Luftfahrzeuge beteiligt, informiert das BAZL die MAA.
 
 <sup>3</sup> Zu Umfang, Form, Inhalt und Prozess der Meldungen erlässt das BAZL ergänzende technische Weisungen.
 
+<sup>4</sup>
+
+Die Leistungserbringer melden folgende Ereignisse unverzüglich der MAA:
+
+- a. technische oder betriebliche Unregelmässigkeiten der militärischen Infrastruktur nach Artikel 1*a* Buchstabe a, welche auf die Erfüllung der zugeteilten Aufgaben einen massgeblichen Einfluss haben können;
+- b. Ereignisse, die die Sicherheit der Flugsicherungsdienste für den militärischen Luftverkehr beeinträchtigen.[^4-3]
+
+<sup>5</sup> Sind zivile Luftfahrzeuge beteiligt, so informiert die MAA das BAZL.[^4-4]
+
+<sup>6</sup> Zu Umfang, Form, Inhalt und Prozess der Meldungen im militärischen Bereich erlässt die MAA ergänzende technische Weisungen.[^4-5]
+
 [^4-1]: Verordnung (EU) Nr. 376/2014 des Europäischen Parlaments und des Rates vom 3. April 2014 über die Meldung, Analyse und Weiterverfolgung von Ereignissen in der Zivilluftfahrt, zur Änderung der Verordnung (EU) Nr. 996/2010 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 2003/42/EG des Europäischen Parlaments und des Rates und der Verordnungen (EG) Nr. 1321/2007 und (EG) Nr. 1330/2007 der Kommission.
 [^4-2]: Durchführungsverordnung (EU) 2015/1018 der Kommission vom 29. Juni 2015 zur Festlegung einer Liste zur Einstufung von Ereignissen in der Zivilluftfahrt, die gemäss der Verordnung (EU) Nr. 376/2014 des Europäischen Parlaments und des Rates meldepflichtig sind.
+[^4-3]: Eingefügt durch Anhang Ziff. 2 der V vom 22. Sept. 2023 über die Militärluftfahrt, in Kraft seit 1. Nov. 2023 ([AS 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
+[^4-4]: Eingefügt durch Anhang Ziff. 2 der V vom 22. Sept. 2023 über die Militärluftfahrt, in Kraft seit 1. Nov. 2023 ([AS 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
+[^4-5]: Eingefügt durch Anhang Ziff. 2 der V vom 22. Sept. 2023 über die Militärluftfahrt, in Kraft seit 1. Nov. 2023 ([AS 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 #### Art. 4a
 
@@ -155,6 +172,13 @@ Die Leistungserbringer melden folgende Ereignisse unverzüglich dem BAZL:
 <sup>1</sup> Das BAZL führt die Verhandlungen mit in- oder ausländischen Behörden oder Organisationen, soweit nicht nur rein militärische Interessen verhandelt werden; die Skyguide kann an diesen Verhandlungen teilnehmen. Das BAZL kann die Skyguide im Einzelfall auch mit der Verhandlungsführung beauftragen.
 
 <sup>2</sup> Es kann einzelne Dienste zugunsten grenznaher schweizerischer Flugplätze ausländischen Leistungserbringern übertragen.
+
+<sup>3</sup> Sind bei Verhandlungen des BAZL mit ausländischen Behörden militärische Interessen oder der militärische Luftverkehr betroffen, so sind die Luftwaffe und die MAA beizuziehen.[^4c-1]
+
+<sup>4</sup> In Fragen, die sowohl den zivilen als auch den militärischen Luftverkehr betreffen, koordinieren das BAZL und die MAA die Modalitäten der Zusammenarbeit und die Aufteilung der Verantwortlichkeiten.[^4c-2]
+
+[^4c-1]: Eingefügt durch Anhang Ziff. 2 der V vom 22. Sept. 2023 über die Militärluftfahrt, in Kraft seit 1. Nov. 2023 ([AS 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
+[^4c-2]: Eingefügt durch Anhang Ziff. 2 der V vom 22. Sept. 2023 über die Militärluftfahrt, in Kraft seit 1. Nov. 2023 ([AS 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 ### 3. Abschnitt: Sprache der Radiotelefonie
 
@@ -194,10 +218,11 @@ Die Radiotelefonie mit Swiss Radar findet auf Englisch statt. Vorbehalten sind d
 
 <sup>1</sup> Die Skyguide erbringt, unter Vorbehalt der Aufgabenübertragung nach den Artikeln 40*b* und 40*b*<sup>bis</sup> LFG, die Flugsicherungsaufgaben nach Anhang 1. Sie ist zudem ATS-Authority im Sinne der Anhänge 2 und 11[^6-2] des Chicago-Übereinkommens.
 
-<sup>2</sup> Das BAZL kann im Einvernehmen mit der Luftwaffe die Skyguide nach Anhörung und unter gleichzeitiger Bestimmung des Kostenträgers verpflichten, in Einzelfällen und vorübergehend weitere Dienstleistungen auf dem Gebiet der Flugsicherung zu erbringen.
+<sup>2</sup> Das BAZL kann im Einvernehmen mit der MAA und der Luftwaffe die Skyguide nach deren Anhörung und unter gleichzeitiger Bestimmung des Kostenträgers verpflichten, in Einzelfällen und vorübergehend weitere Dienstleistungen auf dem Gebiet der Flugsicherung zu erbringen.[^6-3]
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)).
 [^6-2]: Diese Dokumente können bei der ICAO bestellt oder abonniert werden.
+[^6-3]: Fassung gemäss Anhang Ziff. 2 der V vom 22. Sept. 2023 über die Militärluftfahrt, in Kraft seit 1. Nov. 2023 ([AS 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 #### Art. 6a
 
@@ -669,7 +694,7 @@ Die Festlegung und die Genehmigung der Gebührentarife für Flugplätze der Kate
 
 [^35-1]: Fassung gemäss Ziff. I der V vom 13. Jan. 2016, in Kraft seit 1. Febr. 2016 ([AS 2016 313](https://fedlex.data.admin.ch/eli/oc/2016/44)).
 [^35-2]: Fassung gemäss Ziff. I der V vom 13. Jan. 2016, in Kraft seit 1. Febr. 2016 ([AS 2016 313](https://fedlex.data.admin.ch/eli/oc/2016/44)).
-[^35-3]: Das AIC kann bei der Skyguide bezogen werden (www.skyguide.ch oder Postfach 23, 8602 Wangen bei Dübendorf)
+[^35-3]: Das AIC kann bei der Skyguide bezogen werden ([https://www.skyguide.ch/](https://www.skyguide.ch)oder Postfach 23, 8602 Wangen bei Dübendorf)
 
 #### Art. 36
 
@@ -749,17 +774,18 @@ Das BAZL erstellt jährlich die schweizerische Flugsicherungsrechnung. Diese bie
 
 **Verantwortung und Einsatzgebiet**
 
-<sup>1</sup> Der Erbringer der Flugverkehrskontrolldienste für den zivilen Verkehr zeichnet für die Zwecke der Untersuchung von Flugunfällen und schweren Vorfällen nach den Artikeln 3 und 4 der Verordnung vom 17. Dezember 2014[^40a-1] über die Sicherheitsuntersuchung von Zwischenfällen im Verkehrswesen mit einem dafür geeigneten System (Ambient Voice Recording Equipment; AVRE) bei den Flugverkehrskontrollstellen Hintergrundgespräche und ‑geräusche auf.[^40a-2]
+<sup>1</sup> Die Erbringer der Flugverkehrskontrolldienste für den zivilen Verkehr zeichnen für die Zwecke der Untersuchung von Flugunfällen und schweren Vorfällen nach den Artikeln 3 und 4 der Verordnung vom 17. Dezember 2014[^40a-1] über die Sicherheitsuntersuchung von Zwischenfällen im Verkehrswesen oder nach Artikel 40 der Verordnung vom 22. Sept. 2023[^40a-2] über die Militärluftfahrt (MLFV) mit einem dafür geeigneten System (Ambient Voice Recording Equipment; AVRE) bei den Flugverkehrskontrollstellen Hintergrundgespräche und -geräusche auf.[^40a-3]
 
-<sup>2</sup> Er führt die mit dem AVRE erstellte Datenbank und ist das für den Datenschutz verantwortliche Organ.[^40a-3]
+<sup>2</sup> Er führt die mit dem AVRE erstellte Datenbank und ist das für den Datenschutz verantwortliche Organ.[^40a-4]
 
 <sup>3</sup> Er darf das AVRE einzig an Arbeitsplätzen von Personen einsetzen, die Flugverkehrskontrolldienste erbringen (betroffene Fluglotsinnen und Fluglotsen).
 
 <sup>4</sup> Er stellt sicher, dass den betroffenen Fluglotsinnen und Fluglotsen nebst diesen Arbeitsplätzen unüberwachte Büro- und Pausenräume zur Verfügung stehen.
 
 [^40a-1]: [SR 742.161](https://fedlex.data.admin.ch/eli/cc/2015/26)
-[^40a-2]: Fassung gemäss Anhang 2 Ziff. II 84 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^40a-3]: Fassung gemäss Anhang 2 Ziff. II 84 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^40a-2]: [SR 748.02](https://fedlex.data.admin.ch/eli/cc/2023/560)
+[^40a-3]: Fassung gemäss Anhang Ziff. 2 der V vom 22. Sept. 2023 über die Militärluftfahrt, in Kraft seit 1. Nov. 2023 ([AS 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
+[^40a-4]: Fassung gemäss Anhang 2 Ziff. II 84 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 40b
 
@@ -777,7 +803,13 @@ Das BAZL erstellt jährlich die schweizerische Flugsicherungsrechnung. Diese bie
 
 <sup>2</sup> Er ist verpflichtet, die Aufzeichnungen während 30 Tagen aufzubewahren.
 
-<sup>3</sup> Nach Ablauf der Aufbewahrungsdauer löscht er die Aufzeichnungen ohne Verzug. Geschieht ein Flugunfall oder ein schwerer Vorfall, so dürfen die Aufzeichnungen, die möglicherweise im Zusammenhang mit dem Ereignis stehen, erst nach der Freigabe durch die Schweizerische Unfalluntersuchungsstelle (SUST) gelöscht werden.
+<sup>3</sup> Für die Untersuchung militärischer Unfälle und schwerer Vorfälle nach Artikel 40 MLFV sind die Aufzeichnungen des AVRE dem Defense Aviation Safety Investigation Board (DASIB) für die Untersuchungshandlungen nach Artikel 45 MLFV[^40c-1] zur Verfügung zu stellen.[^40c-2]
+
+<sup>4</sup> Nach Ablauf der Aufbewahrungsdauer löscht der Erbringer der Flugverkehrsdienste die Aufzeichnungen ohne Verzug. Geschieht ein Flugunfall oder ein schwerer Vorfall, so dürfen die Aufzeichnungen, die möglicherweise im Zusammenhang mit dem Ereignis stehen, erst nach der Freigabe durch die Schweizerische Sicherheitsuntersuchungsstelle (SUST) oder im Fall eines militärischen Ereignisses nach der Freigabe durch das DASIB gelöscht werden.[^40c-3]
+
+[^40c-1]: [SR 748.02](https://fedlex.data.admin.ch/eli/cc/2023/560)
+[^40c-2]: Fassung gemäss Anhang Ziff. 2 der V vom 22. Sept. 2023 über die Militärluftfahrt, in Kraft seit 1. Nov. 2023 ([AS 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
+[^40c-3]: Eingefügt durch Anhang Ziff. 2 der V vom 22. Sept. 2023 über die Militärluftfahrt, in Kraft seit 1. Nov. 2023 ([AS 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 #### Art. 40d
 
@@ -787,34 +819,43 @@ Das BAZL erstellt jährlich die schweizerische Flugsicherungsrechnung. Diese bie
 
 Der Erbringer der Flugverkehrsdienste darf auf die Aufzeichnungen und die dazugehörigen Randdaten des AVRE nur zugreifen:
 
-- a. um sie der SUST für die in Artikel 40*a* Absatz 1 genannten Zwecke zugänglich zu machen;
+- a.[^40d-1] um sie der SUST oder dem DASIB für die in Artikel 40*a* Absatz 1 genannten Zwecke zugänglich zu machen;
 - b. wenn es zu Wartungszwecken unumgänglich ist.
 
-<sup>2</sup> Handelt es sich um Aufzeichnungen aus einer militärischen Anlage, so macht der Erbringer der Flugverkehrsdienste die Daten nach erfolgter Freigabe durch die Luftwaffe der SUST so weit zugänglich, als dies aus Gründen der militärischen Geheimhaltung möglich ist.
+<sup>2</sup> Handelt es sich um Aufzeichnungen aus einer militärischen Anlage, so macht der Erbringer der Flugverkehrsdienste die Daten nach erfolgter Freigabe durch die Luftwaffe der SUST so weit zugänglich, als dies aus Gründen der militärischen Geheimhaltung möglich ist.[^40d-2]
+
+[^40d-1]: Fassung gemäss Anhang Ziff. 2 der V vom 22. Sept. 2023 über die Militärluftfahrt, in Kraft seit 1. Nov. 2023 ([AS 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
+[^40d-2]: Die Berichtigung vom 22. Sept. 2023 betrifft nur den italienischen Text ([AS 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 #### Art. 40e
 
 **Vertrauensstelle**
 
-<sup>1</sup> Der Erbringer der Flugverkehrsdienste bezeichnet eine Vertrauensstelle. Dazu hört er vorgängig die Personalverbände der betroffenen Fluglotsinnen und Fluglotsen an. Er gibt die Stelle dem BAZL und der SUST bekannt.
+<sup>1</sup> Der Erbringer der Flugverkehrsdienste bezeichnet eine Vertrauensstelle. Dazu hört er vorgängig die Personalverbände der betroffenen Fluglotsinnen und Fluglotsen an. Er gibt die Stelle dem BAZL, der SUST und dem DASIB bekannt.[^40e-1]
 
 <sup>2</sup> Die Vertrauensstelle ist eine neutrale Ansprech- und Vermittlungsstelle für Fragen zum AVRE.
 
 <sup>3</sup> Sie vermittelt im Falle eines Auswertungsverfahrens zwischen dem Erbringer der Flugverkehrsdienste und den betroffenen Fluglotsinnen und Fluglotsen.
 
+[^40e-1]: Fassung gemäss Anhang Ziff. 2 der V vom 22. Sept. 2023 über die Militärluftfahrt, in Kraft seit 1. Nov. 2023 ([AS 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
+
 #### Art. 40f
 
 **Auswertung**
 
-<sup>1</sup> Die Aufzeichnungen des AVRE dürfen nur von der SUST ausgewertet werden. Diese wertet die Aufzeichnungen nur so weit aus, wie es zur Untersuchung eines Flugunfalls oder schweren Vorfalls nötig ist.
+<sup>1</sup> Die Aufzeichnungen des AVRE dürfen nur von der SUST und dem DASIB ausgewertet werden. Diese werten die Aufzeichnungen nur so weit aus, wie es zur Untersuchung eines Flugunfalls oder schweren Vorfalls nötig ist.[^40f-1]
 
-<sup>2</sup> Der Erbringer der Flugverkehrsdienste, die betroffenen Fluglotsinnen und Fluglotsen und die Vertrauensstelle haben das Recht, am Verfahren der Auswertung der Aufzeichnungen beteiligt zu sein. Gleiches gilt für die Luftwaffe, sofern militärische Flugzeuge oder Stellen vom Flugunfall oder schweren Vorfall betroffen sind.
+<sup>2</sup> Der Erbringer der Flugverkehrsdienste, die betroffenen Fluglotsinnen und Fluglotsen und die Vertrauensstelle haben das Recht, am Verfahren der Auswertung der Aufzeichnungen beteiligt zu sein. Gleiches gilt für das DASIB, sofern militärische Flugzeuge oder Stellen vom Flugunfall oder schweren Vorfall betroffen sind.[^40f-2]
 
 <sup>3</sup> Die betroffenen Fluglotsinnen und Fluglotsen können sich bei Verfahrenshandlungen von einem Vertreter ihres Personalverbandes begleiten lassen.
 
-<sup>4</sup> Der Erbringer der Flugverkehrsdienste ist verpflichtet, die Auswertungsarbeiten der SUST in technischer Hinsicht zu unterstützen. Er stellt dazu bei Bedarf und im Rahmen der betrieblichen Möglichkeiten seine Infrastruktur zur Verfügung, insbesondere für das Abhören der Aufzeichnungen.
+<sup>4</sup> Der Erbringer der Flugverkehrsdienste ist verpflichtet, die Auswertungsarbeiten der SUST in technischer Hinsicht zu unterstützen. Er stellt dazu bei Bedarf und im Rahmen der betrieblichen Möglichkeiten seine Infrastruktur zur Verfügung, insbesondere für das Abhören der Aufzeichnungen.[^40f-3]
 
 <sup>5</sup> Die im Rahmen des Auswertungsverfahrens gewonnenen Informationen und Erkenntnisse dürfen einzig für Massnahmen zur Verbesserung der Flug- oder Betriebssicherheit verwendet werden. Informationen, die nicht solchen Zwecken dienen, insbesondere solche über das Arbeits- und das Privatleben, die nicht mit dem untersuchten Ereignis in Zusammenhang stehen, sowie Informationen, die der militärischen Geheimhaltung unterliegen, dürfen in keinem Fall verwendet werden.
+
+[^40f-1]: Fassung gemäss Anhang Ziff. 2 der V vom 22. Sept. 2023 über die Militärluftfahrt, in Kraft seit 1. Nov. 2023 ([AS 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
+[^40f-2]: Fassung gemäss Anhang Ziff. 2 der V vom 22. Sept. 2023 über die Militärluftfahrt, in Kraft seit 1. Nov. 2023 ([AS 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
+[^40f-3]: Fassung gemäss Anhang Ziff. 2 der V vom 22. Sept. 2023 über die Militärluftfahrt, in Kraft seit 1. Nov. 2023 ([AS 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 #### Art. 40g
 
@@ -836,9 +877,11 @@ Im Reglement werden insbesondere geregelt:
 - d. das Führen von Protokollen zur Nachvollziehbarkeit sämtlicher Veränderungen am System sowie an dessen Aufzeichnungen;
 - e. die Zugriffsberechtigungen im Falle eines Flugunfalls oder schweren Vorfalls;
 - f. die Bezeichnung und die Finanzierung der Vertrauensstelle;
-- g. die Koordination mit der SUST im Auswertungsverfahren.
+- g.[^40g-1] die Koordination mit der SUST oder dem DASIB im Auswertungsverfahren.
 
 <sup>5</sup> Berechtigungen nach Absatz 4 Buchstaben b, c und e können nur Angestellten des Erbringers der Flugverkehrsdienste verliehen werden.
+
+[^40g-1]: Fassung gemäss Anhang Ziff. 2 der V vom 22. Sept. 2023 über die Militärluftfahrt, in Kraft seit 1. Nov. 2023 ([AS 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 #### Art. 40h
 
@@ -919,7 +962,7 @@ Anhang 1[^t-1]
 
 ## Flugsicherungsaufgaben der Skyguide
 
-[^t-1]: Ursprünglich: Anhang. Eingefügt durch Ziff. II der V vom 24. Jan. 2001 ([AS 2001 514](https://fedlex.data.admin.ch/eli/oc/2001/104)). Fassung gemäss Ziff. II der V vom 17. Okt. 2018 ([AS 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)). Bereinigt gemäss Ziff. II der V vom 16. Febr. 2022, in Kraft seit 1. Mai 2022 ([AS 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)).
+[^t-1]: Ursprünglich: Anhang. Eingefügt durch Ziff. II der V vom 24. Jan. 2001 ([AS 2001 514](https://fedlex.data.admin.ch/eli/oc/2001/104)). Fassung gemäss Ziff. II der V vom 17. Okt. 2018 ([AS 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)). Bereinigt gemäss Ziff. II der V vom 16. Febr. 2022 ([AS 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)) und Anhang Ziff. 2 der V vom 22. Sept. 2023 über die Militärluftfahrt, in Kraft seit 1. Nov. 2023 ([AS 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 Die Flugsicherungsaufgaben der Skyguide umfassen:
 
@@ -1011,11 +1054,11 @@ Die Flugsicherungsaufgaben der Skyguide umfassen:
 
 - 7\.2 Koordination mit dem BAZL und der Luftwaffe für den Überflug oder die Landung von Staatsluftfahrzeugen im Hoheitsgebiet der Schweiz und des Fürstentums Liechtenstein;
 - 7\.3 Meldungen an das BAZL und die Luftwaffe in Fällen, in denen luftpolizeiliche Massnahmen gemäss Artikel 7 der Verordnung vom 23. März 2005 über die Wahrung der Lufthoheit angezeigt erscheinen;
-- 7\.4 Berichterstattung über durchgeführte Staatsflüge und Unregelmässigkeiten an das BAZL und die Luftwaffe.
+- 7\.4 Berichterstattung über durchgeführte Staatsflüge und Unregelmässigkeiten an das BAZL, die MAA und die Luftwaffe.
 - *8.* *Flugverfahrensberechnungsdienst, soweit einem anerkannten operationel**len Bedürfnis entsprechend*
 - 8\.1 Erarbeitung und Änderung von An-, Ab- und Streckenflugverfahren;
 - 8\.2 Prüfung der An-, Ab- und Streckenflugverfahren.
-- *9.* *Dienste zuhanden der Militärluftfahrt nach Artikel 4a Absatz 1 dieser Verordnung gemäss separatem Leistungsauftrag der Luftwaffe.*
+- *9.* *Dienste zuhanden der Militärluftfahrt, welche in einer Leistungsvereinbarung mit der Luftwaffe festgehalten sind*
 
 [^annex1-lvlu1-1]: [SR 748.941](https://fedlex.data.admin.ch/eli/cc/2022/802)
 [^annex1-lvlu1-2]: [SR 748.111.1](https://fedlex.data.admin.ch/eli/cc/2005/284)

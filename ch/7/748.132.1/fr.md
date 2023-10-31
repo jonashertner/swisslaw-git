@@ -4,11 +4,11 @@ title: Ordonnance du 18 décembre 1995 sur le service de la navigation aérienne
 short: OSNA
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/595_595_595"
 language: fr
-version: 2023-09-01
+version: 2023-11-01
 adopted: 1995-12-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/595_595_595/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1996-595_595_595-20230901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/595_595_595/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/595_595_595/20231101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-595_595_595-20231101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/595_595_595/20231101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/595_595_595/20230901/fr"
 
 (OSNA)[^t-1]
 
-du 18 décembre 1995 (État le 1<sup>er</sup> septembre 2023)
+du 18 décembre 1995 (État le 1<sup>er</sup> novembre 2023)
 
 [^t-1]: [RO 1996 1647](https://fedlex.data.admin.ch/eli/oc/1996/_1647_)
 
@@ -90,13 +90,14 @@ Le service de calcul des procédures de vol comprend l’élaboration, la modifi
 
 **Structure de l’espace aérien et priorités d’utilisation**
 
-<sup>1</sup> Après avoir entendu les Forces aériennes, la «Société anonyme suisse pour les services de la navigation aérienne civils et militaires» (Skyguide) et d’autres prestataires de services de navigation aérienne concernés (prestataires), l’Office fédéral de l’aviation civile (OFAC) établit la structure de l’espace aérien et les classes d’espace aérien et veille à leur publication dans la Publication d’information aéronautique (Aeronautical Information Publication, AIP)[^2-1].
+<sup>1</sup> Après avoir entendu l’Autorité de l’aviation militaire (*Military Aviation Authority*, MAA), les Forces aériennes, la «Société anonyme suisse pour les services de la navigation aérienne civils et militaires» (Skyguide) et d’autres prestataires de services de la navigation aérienne concernés (prestataires), l’Office fédéral de l’aviation civile (OFAC) établit la structure de l’espace aérien et les classes d’espace aérien et veille à leur publication dans la Publication d’information aéronautique (*Aeronautical Information Publication*, AIP).[^2-1]
 
 <sup>2</sup> L’utilisation de l’espace aérien doit tenir compte pareillement des intérêts nationaux, qu’ils soient civils ou militaires.
 
-<sup>3</sup> Afin de régler les conflits entre des intérêts divergents, l’OFAC édicte de concert avec les Forces aériennes et après avoir entendu Skyguide et d’autres prestataires de services de navigation aérienne concernés, des instructions concernant la gestion de l’espace aérien, en particulier les priorités d’utilisation.
+<sup>3</sup> Afin de régler les conflits entre des intérêts divergents, l’OFAC édicte de concert avec la MAA[^2-2] et après avoir entendu Skyguide et d’autres prestataires de services de navigation aérienne concernés, des instructions concernant la gestion de l’espace aérien, en particulier les priorités d’utilisation.
 
-[^2-1]: Ces documents peuvent être obtenus contre paiement auprès de Skyguide (aipversand@skyguide.ch) ou consultés gratuitement auprès de l’Office fédéral de l’aviation civile (OFAC), 3003 Berne.
+[^2-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 22 sept. 2023 sur l’aviation militaire, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
+[^2-2]: Nouvelle expression selon l’annexe ch. 2 de l’O du 22 sept. 2023 sur l’aviation militaire, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
 
 #### Art. 3
 
@@ -104,15 +105,17 @@ Le service de calcul des procédures de vol comprend l’élaboration, la modifi
 
 <sup>1</sup> Les normes et recommandations de l’Organisation de l’aviation civile internationale (OACI) figurant dans les annexes 1 à 4, 6, 7, 10 à 15, 17 et 19 de la Convention de Chicago de même que les procédures complémentaires qui s’y rapportent s’appliquent directement à la mise en œuvre des services de la navigation aérienne et à la réglementation des redevances. Les dérogations publiées dans l’AIP sont réservées.
 
-<sup>2</sup> En accord avec les Forces aériennes, l’OFAC édicte des instructions techniques et opérationnelles complémentaires. Lorsqu’il s’agit d’un domaine purement militaire, les Forces aériennes peuvent, en accord avec l’OFAC, édicter des instructions supplémentaires.
+<sup>2</sup> En accord avec la MAA, l’OFAC édicte des instructions techniques et opérationnelles complémentaires. Lorsqu’il s’agit d’un domaine purement militaire, la MAA peut, en accord avec l’OFAC, édicter des instructions supplémentaires.
 
-<sup>3</sup> Les prestataires de services de navigation aérienne concernés doivent être entendus avant l’adoption, la modification ou l’abrogation des prescriptions aéronautiques qui concernent le service de la navigation aérienne. Dans ce contexte, ils peuvent soumettre à l’OFAC des propositions ou des suggestions.
+<sup>3</sup> Les prestataires de services de la navigation aérienne concernés doivent être entendus avant l’adoption, la modification ou l’abrogation des prescriptions aéronautiques qui concernent le service de la navigation aérienne. Dans ce contexte, ils peuvent soumettre à l’OFAC ou à la MAA des propositions ou des suggestions.[^3-1]
+
+[^3-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 22 sept. 2023 sur l’aviation militaire, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 #### Art. 3a
 
 **Conventions de prestations**
 
-Dans le respect des prescriptions nationales et internationales, les fournisseurs de prestations et la clientèle conviennent ensemble des modalités concernant les services à fournir; l’OFAC et les Forces aériennes sont invités à participer aux négociations. Si les parties ne parviennent pas à s’entendre, l’OFAC décide en accord avec les Forces aériennes et après avoir entendu les participants.
+Dans le respect des prescriptions nationales et internationales, les fournisseurs de prestations et la clientèle conviennent ensemble des modalités concernant les services à fournir; l’OFAC et la MAA sont invités à participer aux négociations. Si les parties ne parviennent pas à s’entendre, l’OFAC décide en accord avec la MAA et après avoir entendu les participants.
 
 #### Art. 4
 
@@ -127,12 +130,26 @@ Les prestataires de services rendent immédiatement compte des événements suiv
 - c. irrégularités techniques ou opérationnelles qui pourraient avoir une influence déterminante sur l’accomplissement des tâches assignées;
 - d. événements qui compromettent la sécurité des services de navigation aérienne.
 
-<sup>2</sup> Lorsque des aéronefs militaires sont impliqués, l’OFAC en informe les Forces aériennes.
+<sup>2</sup> Lorsque des aéronefs militaires sont impliqués, l’OFAC en informe la MAA.
 
-3 L’OFAC arrête des directives techniques complémentaires concernant l’étendue, la forme et la teneur des comptes rendus ainsi que le processus de compte rendu.
+<sup>3</sup> L’OFAC arrête des directives techniques complémentaires concernant l’étendue, la forme et la teneur des comptes rendus ainsi que le processus de compte rendu.
+
+<sup>4</sup>
+
+Les prestataires de services rendent immédiatement compte des événements suivants à la MAA:
+
+- a. irrégularités techniques ou opérationnelles des infrastructures militaires visées à l’art. 1*a*, let. a, qui pourraient avoir une influence déterminante sur l’accomplissement des tâches assignées;
+- b. événements qui compromettent la sécurité des services de la navigation aérienne du trafic aérien militaire.[^4-3]
+
+<sup>5</sup> Lorsque des aéronefs militaires sont impliqués, la MAA en informe l’OFAC.[^4-4]
+
+<sup>6</sup> La MAA arrête des directives techniques complémentaires concernant l’étendue, la forme et la teneur des comptes rendus dans le domaine militaire ainsi que le processus de compte rendu.[^4-5]
 
 [^4-1]: Règlement (UE) n<sup>o</sup> 376/2014 du Parlement européen et du Conseil du 3 avril 2014 concernant les comptes rendus, l’analyse et le suivi d’événements dans l’aviation civile, modifiant le règlement (UE) n<sup>o</sup> 996/2010 du Parlement européen et du Conseil et abrogeant la directive 2003/42/CE du Parlement européen et du Conseil et les règlements de la Commission (CE) n<sup>o</sup> 1321/2007 et (CE) n<sup>o</sup> 1330/2007.
 [^4-2]: Règlement d’exécution (UE) 2015/1018 de la Commission du 29 juin 2015 établissant une liste classant les événements dans l’aviation civile devant être obligatoirement notifiés conformément au règlement (UE) n<sup>o</sup> 376/2014 du Parlement européen et du Conseil.
+[^4-3]: Introduit par l’annexe ch. 2 de l’O du 22 sept. 2023 sur l’aviation militaire, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
+[^4-4]: Introduit par l’annexe ch. 2 de l’O du 22 sept. 2023 sur l’aviation militaire, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
+[^4-5]: Introduit par l’annexe ch. 2 de l’O du 22 sept. 2023 sur l’aviation militaire, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 #### Art. 4a
 
@@ -157,6 +174,13 @@ Les prestataires de services rendent immédiatement compte des événements suiv
 <sup>1</sup> L’OFAC dirige les négociations menées avec les autorités ou les organisations nationales ou internationales pour autant qu’elles ne soient pas purement consacrées aux intérêts militaires; Skyguide peut y participer. De cas en cas, il peut aussi charger Skyguide de la conduite des négociations*.*
 
 <sup>2</sup> L’OFAC peut confier certains services destinés à des aérodromes suisses proches de la frontière à des prestataires de services étrangers.
+
+<sup>3</sup> Si des intérêts militaires ou le trafic aérien militaire sont concernés par les négociations menées par l’OFAC avec les autorités étrangères, les Forces aériennes et la MAA doivent être consultés.[^4c-1]
+
+<sup>4</sup> Pour les questions qui concernent à la fois le trafic aérien civil et militaire, l’OFAC et la MAA coordonnent les modalités de leur collaboration et la répartition des responsabilités.[^4c-2]
+
+[^4c-1]: Introduit par l’annexe ch. 2 de l’O du 22 sept. 2023 sur l’aviation militaire, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
+[^4c-2]: Introduit par l’annexe ch. 2 de l’O du 22 sept. 2023 sur l’aviation militaire, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 ### Section 3 Langue utilisée en radiotéléphonie
 
@@ -196,10 +220,11 @@ Les communications radiotéléphoniques avec Swiss Radar ont lieu en anglais. Le
 
 <sup>1</sup> Skyguide fournit les services figurant dans l’annexe 1, pour autant qu’ils n’aient pas été délégués en vertu des art. 40*b* et 40*b*<sup>bis</sup> LA. Skyguide est en outre l’autorité ATS, au sens des annexes 2 et 11[^6-2] de la Convention de Chicago.
 
-<sup>2</sup> D’entente avec les Forces aériennes, et après avoir entendu Skyguide, l’OFAC peut contraindre cette dernière à fournir, à titre temporaire et dans des cas particuliers, d’autres prestations relevant de la navigation aérienne; ce faisant, il désigne le débiteur des coûts.
+<sup>2</sup> D’entente avec la MAA et les Forces aériennes, et après avoir entendu Skyguide, l’OFAC peut contraindre celle-ci à fournir, à titre temporaire et dans des cas particuliers, d’autres prestations relevant de la navigation aérienne; ce faisant, il désigne le débiteur des coûts.[^6-3]
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 17 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)).
 [^6-2]: Ces documents peuvent être commandés ou acquis par abonnement auprès de l’OACI.
+[^6-3]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 22 sept. 2023 sur l’aviation militaire, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 #### Art. 6a
 
@@ -464,7 +489,7 @@ Le financement des services en route incombe à Skyguide.
 
 <sup>4</sup> Les prestataires fournissant des services de navigation aérienne spécifiques dans la zone tarifaire visée à l’art. 19 communiquent à Skyguide les informations requises au moins sous la forme des tableaux de déclaration visés à l’al. 3. Ils observent les délais impartis par Skyguide.
 
-[^21-1]: Les Principes peuvent être obtenus auprès d’Eurocontrol (www.eurocontrol.int ou Rue de la Fusée 96, 1130 Bruxelles, Belgique) ou consultés gratuitement auprès de l’OFAC.
+[^21-1]: Les Principes peuvent être obtenus auprès d’Eurocontrol ([www.eurocontrol.int](http://www.eurocontrol.int) ou Rue de la Fusée 96, 1130 Bruxelles, Belgique) ou consultés gratuitement auprès de l’OFAC.
 [^21-2]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2016, en vigueur depuis le 1<sup>er</sup> fév. 2016 ([RO 2016 313](https://fedlex.data.admin.ch/eli/oc/2016/44)).
 
 ### Section 3 Financement des services de contrôle d’approche et de départ sur les aérodromes de la catégorie I (aéroports nationaux)
@@ -532,7 +557,7 @@ Le financement des services de contrôle d’approche et de départ sur les aér
 
 <sup>4</sup> L’organisme financeur visé à l’art 27 établit et perçoit les redevances. Il peut confier le recouvrement à des tiers.
 
-[^28-1]: Ce document peut être obtenu auprès de l’Organisation de l’aviation civile internationale (OACI, Groupe de la vente des documents, 999, rue de l’Université, Montréal, Québec, Canada H3C 5H7 ou via www.icao.int) ou consulté gratuitement auprès de l’OFAC.
+[^28-1]: Ce document peut être obtenu auprès de l’Organisation de l’aviation civile internationale (OACI, Groupe de la vente des documents, 999, rue de l’Université, Montréal, Québec, Canada H3C 5H7 ou via [www.icao.int](http://www.icao.int)) ou consulté gratuitement auprès de l’OFAC.
 
 #### Art. 29
 
@@ -671,7 +696,7 @@ L’établissement et l’approbation des tarifs des redevances sur les aérodro
 
 [^35-1]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2016, en vigueur depuis le 1<sup>er</sup> fév. 2016 ([RO 2016 313](https://fedlex.data.admin.ch/eli/oc/2016/44)).
 [^35-2]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2016, en vigueur depuis le 1<sup>er</sup> fév. 2016 ([RO 2016 313](https://fedlex.data.admin.ch/eli/oc/2016/44)).
-[^35-3]: L’AIC peut être obtenue auprès de Skyguide (www.skyguide.ch ou case postale 23, 8602 Wangen bei Dübendorf).
+[^35-3]: L’AIC peut être obtenue auprès de Skyguide ([www.skyguide.ch](https://www.skyguide.ch) ou case postale 23, 8602 Wangen bei Dübendorf).
 
 #### Art. 36
 
@@ -751,17 +776,18 @@ L’OFAC établit chaque année le compte de la navigation aérienne suisse. Ce 
 
 **Compétence et domaine d’utilisation**
 
-<sup>1</sup> Le prestataire de services du contrôle de la circulation aérienne destinés au trafic civil enregistre à l’aide d’un système adéquat (*Ambient Voice Recording Equipment*; AVRE) les communications en arrière-plan et les bruits de fond dans les organismes du contrôle de la circulation aérienne aux fins des enquêtes sur les accidents d’aviation et incidents graves au sens des art. 3 et 4 de l’ordonnance du 17 décembre 2014 sur les enquêtes de sécurité en cas d’incident dans le domaine des transports[^40a-1].[^40a-2]
+<sup>1</sup> Les prestataires de services du contrôle de la circulation aérienne destinés au trafic civil enregistrent à l’aide d’un système adéquat (*Ambient Voice Recording Equipment,* AVRE) les communications en arrière-plan et les bruits de fond dans les organismes du contrôle de la circulation aérienne aux fins des enquêtes sur les accidents d’aviation et incidents graves au sens des art. 3 et 4 de l’ordonnance du 17 décembre 2014 sur les enquêtes de sécurité en cas d’incident dans le domaine des transports[^40a-1] ou au sens de l’art. 40 de l’ordonnance du 22 septembre 2023 sur l’aviation militaire (OAMil)[^40a-2].[^40a-3]
 
-<sup>2</sup> Il gère la banque de données constituée au moyen de l’AVRE et est l’organe responsable pour la protection des données.[^40a-3]
+<sup>2</sup> Il gère la banque de données constituée au moyen de l’AVRE et est l’organe responsable pour la protection des données.[^40a-4]
 
 <sup>3</sup> Il n’est autorisé à utiliser l’AVRE qu’aux postes de travail de personnes fournissant des services de contrôle de la circulation aérienne (contrôleurs de la circulation aérienne concernés).
 
 <sup>4</sup> Il veille à ce que les contrôleurs de la circulation aérienne concernés disposent, en sus de leur poste de travail, de bureaux et locaux de pause non surveillés.
 
 [^40a-1]: [RS 742.161](https://fedlex.data.admin.ch/eli/cc/2015/26)
-[^40a-2]: Nouvelle teneur selon l’annexe 2 ch. II 84 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^40a-3]: Nouvelle teneur selon l’annexe 2 ch. II 84 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^40a-2]: [RS 748.02](https://fedlex.data.admin.ch/eli/cc/2023/560)
+[^40a-3]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 22 sept. 2023 sur l’aviation militaire, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
+[^40a-4]: Nouvelle teneur selon l’annexe 2 ch. II 84 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 40b
 
@@ -779,7 +805,13 @@ L’OFAC établit chaque année le compte de la navigation aérienne suisse. Ce 
 
 <sup>2</sup> Il est tenu de conserver les enregistrements pendant 30 jours.
 
-<sup>3</sup> Il les efface aussitôt ce délai écoulé. Si un accident d’aviation ou un incident grave se produit, les enregistrements susceptibles d’avoir un lien avec l’événement ne peuvent être effacés qu’avec l’accord préalable du Service d’enquête suisse sur les accidents (SESA).
+<sup>3</sup> En ce qui concerne les enquêtes sur les accidents militaires et les incidents graves visés à l’art. 40 OAMil[^40c-1], les enregistrements de l’AVRE sont mis à la disposition de la Commission d’enquête de sécurité de l’aviation de défense (*Defence Aviation Safety Investigation Board*, DASIB) afin qu’elle prenne les mesures d’enquête, conformément à l’art. 45 OAMil.[^40c-2]
+
+<sup>4</sup> Le prestataire de services de la circulation aérienne les efface aussitôt le délai de 30 jours écoulé. Si un accident d’aviation ou un incident grave se produit, les enregistrements susceptibles d’avoir un lien avec l’événement ne peuvent être effacés qu’avec l’accord préalable du Service d’enquête suisse sur les accidents (SESA).[^40c-3]
+
+[^40c-1]: [RS 748.02](https://fedlex.data.admin.ch/eli/cc/2023/560)
+[^40c-2]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 22 sept. 2023 sur l’aviation militaire, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
+[^40c-3]: Introduit par l’annexe ch. 2 de l’O du 22 sept. 2023 sur l’aviation militaire, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 #### Art. 40d
 
@@ -789,34 +821,42 @@ L’OFAC établit chaque année le compte de la navigation aérienne suisse. Ce 
 
 Le prestataire de services de la circulation aérienne n’est autorisé à accéder aux enregistrements de l’AVRE et aux données secondaires qui s’y rapportent que:
 
-- a. pour les rendre accessibles au SESA aux fins mentionnées à l’art. 40*a*, al. 1;
+- a.[^40d-1] pour les rendre accessibles au SESA ou à la DASIB aux fins mentionnées à l’art. 40*a*, al. 1;
 - b. si cela se révèle indispensable aux fins de la maintenance.
 
 <sup>2</sup> S’il s’agit d’enregistrements provenant d’une installation militaire, le prestataire de services de la circulation aérienne rend accessibles les données au SESA après que les Forces aériennes ont donné leur accord, pour autant que des raisons liées au maintien du secret militaire ne s’y opposent pas.
+
+[^40d-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 22 sept. 2023 sur l’aviation militaire, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 #### Art. 40e
 
 **Service de médiation**
 
-<sup>1</sup> Le prestataire de services de la circulation aérienne désigne un service de médiation. À cet effet, il consulte au préalable les associations du personnel représentant les contrôleurs de la circulation aérienne concernés. Il informe l’OFAC et le SESA de la désignation du service.
+<sup>1</sup> Le prestataire de services de la circulation aérienne désigne un service de médiation. À cet effet, il consulte au préalable les associations du personnel représentant les contrôleurs de la circulation aérienne concernés. Il informe l’OFAC, le SESA et la DASIB de la désignation du service.[^40e-1]
 
 <sup>2</sup> Le service de médiation constitue un point de contact et un intermédiaire neutre pour les questions touchant l’AVRE.
 
 <sup>3</sup> Le service de médiation intervient en cas de procédure d’évaluation entre le prestataire de services de la circulation aérienne et les contrôleurs de la circulation aérienne concernés.
 
+[^40e-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 22 sept. 2023 sur l’aviation militaire, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
+
 #### Art. 40f
 
 **Évaluation**
 
-<sup>1</sup> Le SESA est seul habilité à évaluer les enregistrements de l’AVRE. Il les évalue uniquement pour les besoins de l’enquête sur un accident d’aviation ou un incident grave.
+<sup>1</sup> Le SESA et la DASIB sont seuls habilités à évaluer les enregistrements de l’AVRE. Ils les évaluent uniquement pour les besoins de l’enquête sur un accident d’aviation ou un incident grave.[^40f-1]
 
-<sup>2</sup> Le prestataire de services de la circulation aérienne, les contrôleurs de la circulation aérienne concernés et le service de médiation ont le droit de prendre part à la procédure d’évaluation des enregistrements. Ce droit est également dévolu aux Forces aériennes pour autant que l’accident d’aviation ou l’incident grave concerne des avions ou services militaires.
+<sup>2</sup> Le prestataire de services de la circulation aérienne, les contrôleurs de la circulation aérienne concernés et le service de médiation ont le droit de prendre part à la procédure d’évaluation des enregistrements. Ce droit est également dévolu à la DASIB pour autant que l’accident d’aviation ou l’incident grave concerne des avions ou services militaires.[^40f-2]
 
 <sup>3</sup> Les contrôleurs de la circulation aérienne concernés peuvent se faire accompagner d’un représentant de leur association du personnel.
 
-<sup>4</sup> Le prestataire de services de la circulation aérienne est tenu de prêter son concours technique aux travaux d’évaluation du SESA. Il met à cet effet son infrastructure à disposition en tant que de besoin et dans la mesure de ses moyens opérationnels, en particulier pour l’écoute des enregistrements.
+<sup>4</sup> Le prestataire de services de la circulation aérienne est tenu de prêter son concours technique aux travaux d’évaluation du SESA et de la DASIB. Il met à cet effet son infrastructure à disposition en tant que de besoin et dans la mesure de ses moyens opérationnels, en particulier pour l’écoute des enregistrements.[^40f-3]
 
 <sup>5</sup> Les informations et renseignements acquis dans le cadre de la procédure d’évaluation ne doivent être utilisés que pour améliorer la sécurité des vols ou de l’exploitation. Les informations qui ne servent pas ces objectifs, en particulier celles concernant la vie professionnelle et la vie privée qui ne sont pas directement en rapport avec l’événement sous enquête, de même que les informations couvertes par le secret militaire, ne doivent en aucun cas être utilisées.
+
+[^40f-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 22 sept. 2023 sur l’aviation militaire, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
+[^40f-2]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 22 sept. 2023 sur l’aviation militaire, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
+[^40f-3]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 22 sept. 2023 sur l’aviation militaire, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 #### Art. 40g
 
@@ -838,9 +878,11 @@ Le règlement régit en particulier:
 - d. la tenue de procès-verbaux permettant de retracer toutes les modifications du système et de ses enregistrements;
 - e. les autorisations d’accès en cas d’accident d’aviation ou d’incident grave;
 - f. la désignation et le financement du service de médiation;
-- g. la coordination avec le SESA dans le cadre de la procédure d’évaluation.
+- g.[^40g-1] la coordination avec le SESA ou la DASIB dans le cadre de la procédure d’évaluation.
 
 <sup>5</sup> Les autorisations visées à l’al. 4, let. b, c et e, ne peuvent être délivrées qu’aux employés du prestataire de services de la circulation aérienne.
+
+[^40g-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 22 sept. 2023 sur l’aviation militaire, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 #### Art. 40h
 
@@ -921,7 +963,7 @@ Annexe 1[^t-2]
 
 ## Tâches de la navigation aérienne incombant à Skyguide
 
-[^t-2]: Anciennement annexe unique. Introduite par le ch. II de l’O du 24 janv. 2001 ([RO 2001 514](https://fedlex.data.admin.ch/eli/oc/2001/104)). Nouvelle teneur selon le ch. II de l’O du 17 oct. 2018 ([RO 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)). Mise à jour par le ch. II de l’O du 16 fév. 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)).
+[^t-2]: Anciennement annexe unique. Introduite par le ch. II de l’O du 24 janv. 2001 ([RO 2001 514](https://fedlex.data.admin.ch/eli/oc/2001/104)). Nouvelle teneur selon le ch. II de l’O du 17 oct. 2018 ([RO 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)). Mise à jour par le ch. II de l’O du 16 fév. 2022 ([RO 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)) et l’annexe ch. 2 de l’O du 22 sept. 2023 sur l’aviation militaire, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 Les tâches de la navigation aérienne incombant à Skyguide comprennent:
 
@@ -1046,11 +1088,11 @@ Les tâches de la navigation aérienne incombant à Skyguide comprennent:
 
 - 7\.2 coordination avec l’OFAC et avec les Forces aériennes en matière de survol ou d’atterrissage d’aéronefs d’État dans le territoire de la Suisse ou de la Principauté du Liechtenstein;
 - 7\.3 annonces à l’OFAC et aux Forces aériennes des cas où des mesures de police aérienne paraissent indiquées en vertu de l’art. 7 de l’ordonnance du 23 mars 2005 sur la sauvegarde de la souveraineté sur l’espace aérien;
-- 7\.4 compte rendu à l’OFAC et aux Forces aériennes des vols d’État effectués et des irrégularités constatées.
+- 7\.4 Compte rendu à l’OFAC, à la MAA et aux Forces aériennes des vols d’État effectués et des irrégularités constatées.
 - *8.* *Service de calcul des procédures de vol, pour autant qu’il réponde à un besoin opérationnel reconnu*
 - 8\.1 réalisation et modification de procédures d’approche, de départ ou en route;
 - 8\.2 examen des procédures d’approche, de départ ou en route.
-- *9.* *Services destinés à l’aviation militaire en application de l’art. 4a, al. 1, de la présente ordonnance conformément au mandat de prestation distinct des Forces aériennes*
+- *9.* *Services destinés à l’aviation militaire, qui sont définis dans une convention de prestations avec les Forces aériennes*
 
 [^annex1-lvlu1-1]: [RS 748.941](https://fedlex.data.admin.ch/eli/cc/2022/802)
 [^annex1-lvlu1-2]: [RS 748.111.1](https://fedlex.data.admin.ch/eli/cc/2005/284)

@@ -4,11 +4,11 @@ title: Ordinanza del 18 dicembre 1995 concernente il servizio della sicurezza ae
 short: OSA
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/595_595_595"
 language: it
-version: 2023-09-01
+version: 2023-11-01
 adopted: 1995-12-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/595_595_595/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1996-595_595_595-20230901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/595_595_595/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/595_595_595/20231101/it/xml/fedlex-data-admin-ch-eli-cc-1996-595_595_595-20231101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/595_595_595/20231101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,13 +17,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/595_595_595/20230901/it"
 
 (OSA)
 
-del 18 dicembre 1995 (Stato 1° settembre 2023)
+del 18 dicembre 1995 (Stato 1° novembre 2023)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 10*a* capoverso 2, 40–40*g*, 49, 101*b*, 107*a* capoverso 4 e 108*a* capoverso 3 della legge federale del 21 dicembre 1948[^ingress-1] sulla navigazione aerea (LNA); visti gli articoli 37*a*–37*f* della legge federale del 22 marzo 1985[^ingress-2] concernente l’utilizzazione dell’imposta sugli oli minerali a destinazione vincolata e di altri mezzi a destinazione vincolata per il traffico stradale e aereo (LUMin); in esecuzione della Convenzione del 7 dicembre 1944[^ingress-3] relativa all’aviazione civile internazionale (Convenzione di Chicago); in esecuzione dell’Accordo multilaterale del 12 febbraio 1981[^ingress-4] sulle tasse di rotta e dell’accordo del 21 giugno 1999[^ingress-5] tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo;
-
-in particolare del regolamento (CE) n. 549/2004[^ingress-6], del regolamento (CE) n. 550/2004[^ingress-7] e del regolamento di esecuzione (UE) n. 391/2013[^ingress-8] nella versione vincolante per la Svizzera secondo il numero 5 dell’allegato all’Accordo,[^ingress-9]
+visti gli articoli 10*a* capoverso 2, 40–40*g*, 49, 101*b*, 107*a* capoverso 4 e 108*a* capoverso 3 della legge federale del 21 dicembre 1948[^ingress-1] sulla navigazione aerea (LNA); visti gli articoli 37*a*–37*f* della legge federale del 22 marzo 1985[^ingress-2] concernente l’utilizzazione dell’imposta sugli oli minerali a destinazione vincolata e di altri mezzi a destinazione vincolata per il traffico stradale e aereo (LUMin); in esecuzione della Convenzione del 7 dicembre 1944[^ingress-3] relativa all’aviazione civile internazionale (Convenzione di Chicago); in esecuzione dell’Accordo multilaterale del 12 febbraio 1981[^ingress-4] sulle tasse di rotta e dell’accordo del 21 giugno 1999[^ingress-5] tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo; in particolare del regolamento (CE) n. 549/2004[^ingress-6], del regolamento (CE) n. 550/2004[^ingress-7] e del regolamento di esecuzione (UE) n. 391/2013[^ingress-8] nella versione vincolante per la Svizzera secondo il numero 5 dell’allegato all’Accordo,[^ingress-9]
 
 ordina:
 
@@ -90,13 +88,14 @@ Il servizio di valutazione delle procedure di volo comprende l’elaborazione e 
 
 **Struttura dello spazio aereo e precedenza di utilizzazione**
 
-<sup>1</sup> Previa consultazione delle Forze aeree e di «Skyguide Società anonima svizzera per i servizi della navigazione aerea civili e militari» (Skyguide) nonché di altri fornitori di servizi della sicurezza aerea interessati (fornitori di servizi), l’Ufficio federale dell’aviazione civile (UFAC) definisce la struttura dello spazio aereo nonché l’attribuzione delle classi dello spazio aereo e provvede alla loro pubblicazione nel Manuale d’informazione aeronautica (Aeronautical Information Publication; AIP)[^2-1].
+<sup>1</sup> Previa consultazione dell’autorità per l’aviazione militare (Military Aviation Authority; MAA), delle Forze aeree e di «Skyguide Società anonima svizzera per i servizi della navigazione aerea civili e militari» (Skyguide) nonché di altri fornitori di servizi della sicurezza aerea interessati (fornitori di servizi), l’Ufficio federale dell’aviazione civile (UFAC) definisce la struttura dello spazio aereo nonché l’attribuzione delle classi dello spazio aereo e provvede alla loro pubblicazione nel Manuale d’informazione aeronautica (Aeronautical Information Publication; AIP).[^2-1]
 
 <sup>2</sup> Nell’utilizzazione dello spazio aereo occorre tenere conto in egual misura degli interessi civili e militari nazionali.
 
-<sup>3</sup> Allo scopo di risolvere conflitti d’interessi, d’intesa con le Forze aeree e dopo aver consultato Skyguide e altri fornitori di servizi interessati, l’UFAC emana istruzioni concernenti la gestione dello spazio aereo, in particolare in merito alla precedenza di utilizzazione.
+<sup>3</sup> Allo scopo di risolvere conflitti d’interessi, d’intesa con la MAA[^2-2] e dopo aver consultato Skyguide e altri fornitori di servizi interessati, l’UFAC emana istruzioni concernenti la gestione dello spazio aereo, in particolare in merito alla precedenza di utilizzazione.
 
-[^2-1]: Questi documenti possono essere acquistati presso Skyguide (aipversand@skyguide.ch) o consultati gratuitamente presso l’Ufficio federale dell’aviazione civile (UFAC), 3003 Berna.
+[^2-1]: Nuovo testo giusta l’all. n. 2 dell’O del 22 set. 2023 sull’aviazione militare, in vigore dal 1° nov. 2023 ([RU 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
+[^2-2]: Nuova espressione giusta l’all. n. 2 dell’O del 22 set. 2023 sull’aviazione militare, in vigore dal 1° nov. 2023 ([RU 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 3
 
@@ -104,15 +103,17 @@ Il servizio di valutazione delle procedure di volo comprende l’elaborazione e 
 
 <sup>1</sup> Le norme e raccomandazioni dell’Organizzazione dell’aviazione civile internazionale (OACI), stipulate negli allegati 1–4, 6 e 7, 10–15, 17 e 19 alla Convenzione di Chicago, nonché le relative procedure complementari si applicano direttamente allo svolgimento dei servizi della sicurezza aerea e al disciplinamento delle tasse. Sono fatte salve le deroghe pubblicate nell’AIP.
 
-<sup>2</sup> D’intesa con le Forze aeree, l’UFAC emana istruzioni tecniche o d’esercizio complementari. Per i settori puramente militari, le Forze aeree possono, d’intesa con l’UFAC, emanare istruzioni supplementari.
+<sup>2</sup> D’intesa con la MAA, l’UFAC emana istruzioni tecniche o d’esercizio complementari. Per i settori puramente militari, la MAA può, d’intesa con l’UFAC, emanare istruzioni supplementari.
 
-<sup>3</sup> Prima di emanare, modificare o abrogare prescrizioni di diritto aeronautico concernenti il servizio della sicurezza aerea, occorre consultare i fornitori di servizi interessati. Essi possono sottoporre all’UFAC proposte o suggerimenti.
+<sup>3</sup> Prima di emanare, modificare o abrogare prescrizioni di diritto aeronautico concernenti il servizio della sicurezza aerea, occorre consultare i fornitori di servizi interessati. Essi possono sottoporre all’UFAC o alla MAA proposte o suggerimenti.[^3-1]
+
+[^3-1]: Nuovo testo giusta l’all. n. 2 dell’O del 22 set. 2023 sull’aviazione militare, in vigore dal 1° nov. 2023 ([RU 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 #### Art. 3a
 
 **Convenzioni sulle prestazioni**
 
-Le modalità relative ai servizi da fornire sono convenute tra i fornitori di servizi e la clientela nel rispetto delle prescrizioni nazionali e internazionali; l’UFAC e le Forze aeree partecipano alle trattative. Nel caso le parti non riescano a giungere a un accordo, l’UFAC decide d’intesa con le Forze aeree e previa consultazione dei partecipanti.
+Le modalità relative ai servizi da fornire sono convenute tra i fornitori di servizi e la clientela nel rispetto delle prescrizioni nazionali e internazionali; l’UFAC e la MAA partecipano alle trattative. Nel caso le parti non riescano a giungere a un accordo, l’UFAC decide d’intesa con la MAA e previa consultazione dei partecipanti.
 
 #### Art. 4
 
@@ -127,12 +128,26 @@ I fornitori di servizi notificano immediatamente all’UFAC i seguenti eventi:
 - c. irregolarità tecniche o di esercizio che possono ripercuotersi considerevolmente sull’adempimento dei compiti assegnati;
 - d. eventi che pregiudicano la sicurezza dei servizi della sicurezza aerea.
 
-<sup>2</sup> Se sono coinvolti aeromobili militari, l’UFAC informa le Forze aeree.
+<sup>2</sup> Se sono coinvolti aeromobili militari, l’UFAC informa la MAA.
 
 <sup>3</sup> L’UFAC emana istruzioni tecniche complementari concernenti la portata, la forma, il contenuto e il processo relativi alle notifiche.
 
+<sup>4</sup>
+
+I fornitori di servizi notificano immediatamente alla MAA i seguenti eventi:
+
+- a. irregolarità tecniche o di esercizio dell’infrastruttura militare secondo l’articolo 1*a* lettera a che possono ripercuotersi considerevolmente sull’adempimento dei compiti assegnati;
+- b. eventi che pregiudicano la sicurezza dei servizi della sicurezza aerea per il traffico aereo militare.[^4-3]
+
+<sup>5</sup> Se sono coinvolti aeromobili civili, la MAA informa l’UFAC.[^4-4]
+
+<sup>6</sup> La MAA emana istruzioni tecniche complementari concernenti la portata, la forma, il contenuto e il processo relativi alle notifiche nell’ambito militare.[^4-5]
+
 [^4-1]: Regolamento (UE) n. 376/2014 del Parlamento europeo e del Consiglio, del 3 aprile 2014, concernente la segnalazione, l’analisi e il monitoraggio di eventi nel settore dell’aviazione civile, che modifica il regolamento (UE) n. 996/2010 del Parlamento europeo e del Consiglio e che abroga la direttiva 2003/42 CE del Parlamento europeo e del Consiglio e i regolamenti (CE) n. 1321/2007 e (CE) n. 1330/2007 della Commissione.
 [^4-2]: Regolamento di esecuzione (UE) n. 2015/1018 della Commissione del 29 giugno 2015 che stabilisce un elenco per la classificazione di eventi nel settore dell’aviazione civile che devono essere obbligatoriamente segnalati a norma del regolamento (UE) n. 376/2014 del Parlamento europeo e del Consiglio.
+[^4-3]: Introdotto dall’all. n. 2 dell’O del 22 set. 2023 sull’aviazione militare, in vigore dal 1° nov. 2023 ([RU 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
+[^4-4]: Introdotto dall’all. n. 2 dell’O del 22 set. 2023 sull’aviazione militare, in vigore dal 1° nov. 2023 ([RU 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
+[^4-5]: Introdotto dall’all. n. 2 dell’O del 22 set. 2023 sull’aviazione militare, in vigore dal 1° nov. 2023 ([RU 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 #### Art. 4a
 
@@ -157,6 +172,13 @@ I fornitori di servizi notificano immediatamente all’UFAC i seguenti eventi:
 <sup>1</sup> L’UFAC svolge i negoziati con autorità o organizzazioni nazionali o estere nella misura in cui non riguardino solo interessi puramente militari; Skyguide può partecipare a tali negoziati. L’UFAC può anche incaricare Skyguide di condurre i negoziati in casi specifici.
 
 <sup>2</sup> Può affidare determinati servizi destinati ad aerodromi svizzeri vicini alla frontiera a fornitori di servizi esteri.
+
+<sup>3</sup> Se i negoziati dell’UFAC con autorità estere riguardano interessi militari o il traffico aereo militare, occorre coinvolgere le Forze aeree e la MAA.[^4c-1]
+
+<sup>4</sup> Per le questioni che riguardano sia il traffico aereo civile che quello militare, l’UFAC e la MAA coordinano le modalità della collaborazione e la ripartizione delle responsabilità.[^4c-2]
+
+[^4c-1]: Introdotto dall’all. n. 2 dell’O del 22 set. 2023 sull’aviazione militare, in vigore dal 1° nov. 2023 ([RU 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
+[^4c-2]: Introdotto dall’all. n. 2 dell’O del 22 set. 2023 sull’aviazione militare, in vigore dal 1° nov. 2023 ([RU 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 ### Sezione 3: Lingua delle conversazioni radiotelefoniche
 
@@ -196,10 +218,11 @@ Le conversazioni radiotelefoniche con Swiss Radar si tengono in inglese. Sono fa
 
 <sup>1</sup> Skyguide svolge i compiti della sicurezza aerea secondo l’allegato 1, fatta salva la delega dei compiti di cui agli articoli 40*b* e 40*b*<sup>bis</sup> LNA. È inoltre autorità ATS (ATS-Authority) ai sensi degli allegati 2 e 11[^6-2] alla Convenzione di Chicago.
 
-<sup>2</sup> D’intesa con le Forze aeree e dopo aver sentito Skyguide, l’UFAC può in singoli casi obbligare temporaneamente quest’ultima a fornire altri servizi in materia di sicurezza aerea, designando il debitore dei costi.
+<sup>2</sup> D’intesa con la MAA e le Forze aeree e dopo aver sentito Skyguide, l’UFAC può in singoli casi obbligare temporaneamente quest’ultima a fornire altri servizi in materia di sicurezza aerea, designando il debitore dei costi.[^6-3]
 
 [^6-1]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)).
 [^6-2]: Questi documenti possono essere ordinati o ottenuti tramite abbonamento presso l’OACI.
+[^6-3]: Nuovo testo giusta l’all. n. 2 dell’O del 22 set. 2023 sull’aviazione militare, in vigore dal 1° nov. 2023 ([RU 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 #### Art. 6a
 
@@ -464,7 +487,7 @@ Il finanziamento dei servizi della sicurezza aerea di rotta incombe a Skyguide.
 
 <sup>4</sup> I fornitori dei singoli servizi della sicurezza aerea nella zona di tariffazione secondo l’articolo 19 trasmettono a Skyguide almeno le informazioni necessarie sotto forma di tabelle di rapportazione secondo il capoverso 3. Essi si attengono alle scadenze fissate da Skyguide.
 
-[^21-1]: I Princìpi possono essere richiesti a Eurocontrol (Rue de la Fusée 96, 1130 Bruxelles, Belgio, [www.eurocontrol.com](http://www.eurocontrol.com)) oppure essere consultati gratuitamente presso l’UFAC.
+[^21-1]: I Princìpi possono essere richiesti a Eurocontrol (Rue de la Fusée 96, 1130 Bruxelles, Belgio, [www.eurocontrol.com](http://www.eurocontrol.com/)) oppure essere consultati gratuitamente presso l’UFAC.
 [^21-2]: Nuovo testo giusta il n. I dell’O del 13 gen. 2016, in vigore dal 1° feb. 2016 ([RU 2016 313](https://fedlex.data.admin.ch/eli/oc/2016/44)).
 
 ### Sezione 3: Finanziamento dei servizi per la sicurezza di avvicinamento e di decollo nella categoria di aerodromi I (aeroporti nazionali)
@@ -671,7 +694,7 @@ La fissazione e l’approvazione delle tariffe delle tasse per gli aerodromi del
 
 [^35-1]: Nuovo testo giusta il n. I dell’O del 13 gen. 2016, in vigore dal 1° feb. 2016 ([RU 2016 313](https://fedlex.data.admin.ch/eli/oc/2016/44)).
 [^35-2]: Nuovo testo giusta il n. I dell’O del 13 gen. 2016, in vigore dal 1° feb. 2016 ([RU 2016 313](https://fedlex.data.admin.ch/eli/oc/2016/44)).
-[^35-3]: L’AIC può essere richiesta presso Skyguide (www.skyguide.ch oppure Casella postale 23, 8602 Wangen bei Dübendorf).
+[^35-3]: L’AIC può essere richiesta presso Skyguide ([www.skyguide.ch](http://www.skyguide.ch) oppure Casella postale 23, 8602 Wangen bei Dübendorf).
 
 #### Art. 36
 
@@ -751,17 +774,18 @@ L’UFAC allestisce ogni anno il conto della sicurezza aerea svizzera. Quest’u
 
 **Responsabilità e settore d’utilizzo**
 
-<sup>1</sup> Il fornitore dei servizi di controllo del traffico aereo civile registra, mediante un sistema idoneo (Ambient Voice Recording Equipment; AVRE), conversazioni e rumori di fondo presso gli organi di controllo del traffico aereo ai fini delle inchieste sugli incidenti e inconvenienti dell’aviazione civile secondo gli articoli 3 e 4 dell’ordinanza del 17 dicembre 2014[^40a-1] concernente le inchieste sulla sicurezza in caso di eventi imprevisti nei trasporti.[^40a-2]
+<sup>1</sup> Il fornitore dei servizi di controllo del traffico aereo civile registra, mediante un sistema idoneo (Ambient Voice Recording Equipment; AVRE), conversazioni e rumori di fondo presso gli organi di controllo del traffico aereo ai fini delle inchieste sugli incidenti e inconvenienti dell’aviazione civile secondo gli articoli 3 e 4 dell’ordinanza del 17 dicembre 2014[^40a-1] concernente le inchieste sulla sicurezza in caso di eventi imprevisti nei trasporti o secondo l’articolo 40 dell’ordinanza del 22 settembre 2023[^40a-2] sull’aviazione militare (OAMil).[^40a-3]
 
-<sup>2</sup> Esso gestisce la banca dati allestita con l’AVRE ed è il servizio responsabile della protezione dei dati.[^40a-3]
+<sup>2</sup> Esso gestisce la banca dati allestita con l’AVRE ed è il servizio responsabile della protezione dei dati.[^40a-4]
 
 <sup>3</sup> Esso può impiegare l’AVRE unicamente nei posti di lavoro di persone che forniscono i servizi di controllo del traffico aereo (controllori del traffico aereo interessati).
 
 <sup>4</sup> Esso assicura che per i controllori del traffico aereo interessati, oltre a detti posti di lavoro, siano disponibili uffici e locali di riposo non sorvegliati.
 
 [^40a-1]: [RS 742.161](https://fedlex.data.admin.ch/eli/cc/2015/26)
-[^40a-2]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)).
-[^40a-3]: Nuovo testo giusta l’all. 2 n. II 84 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^40a-2]: [RS 748.02](https://fedlex.data.admin.ch/eli/cc/2023/560)
+[^40a-3]: Nuovo testo giusta l’all. n. 2 dell’O del 22 set. 2023 sull’aviazione militare, in vigore dal 1° nov. 2023 ([RU 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
+[^40a-4]: Nuovo testo giusta l’all. 2 n. II 84 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 40b
 
@@ -779,7 +803,13 @@ L’UFAC allestisce ogni anno il conto della sicurezza aerea svizzera. Quest’u
 
 <sup>2</sup> Esso è tenuto a conservare le registrazioni per 30 giorni.
 
-<sup>3</sup> Esso cancella le registrazioni non appena scaduta la durata di conservazione. Se avviene un infortunio aeronautico o un incidente grave, le registrazioni che verosimilmente sono legate all’evento possono essere cancellate soltanto con il nullaosta del Servizio d’inchiesta svizzero sugli infortuni (SISI).
+<sup>3</sup> Per le inchieste concernenti infortuni militari e incidenti gravi secondo l’articolo 40 OAMil[^40c-1] occorre mettere a disposizione del Defense Aviation Safety Investigation Board (DASIB) le registrazioni dell’AVRE per le operazioni d’inchiesta secondo l’articolo 45 OAMil.[^40c-2]
+
+<sup>4</sup> Il fornitore dei servizi di navigazione aerea cancella le registrazioni non appena scaduta la durata di conservazione. Se avviene un infortunio aeronautico o un incidente grave, le registrazioni che verosimilmente sono legate all’evento possono essere cancellate soltanto con il nullaosta del Servizio d’inchiesta svizzero sulla sicurezza (SISI) o, in caso di un evento militare, con il nullaosta del DASIB.[^40c-3]
+
+[^40c-1]: [RS 748.02](https://fedlex.data.admin.ch/eli/cc/2023/560)
+[^40c-2]: Nuovo testo giusta l’all. n. 2 dell’O del 22 set. 2023 sull’aviazione militare, in vigore dal 1° nov. 2023 ([RU 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
+[^40c-3]: Introdotto dall’all. n. 2 dell’O del 22 set. 2023 sull’aviazione militare, in vigore dal 1° nov. 2023 ([RU 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 #### Art. 40d
 
@@ -789,34 +819,43 @@ L’UFAC allestisce ogni anno il conto della sicurezza aerea svizzera. Quest’u
 
 Il fornitore dei servizi di navigazione aerea può accedere alle registrazioni e ai pertinenti dati marginali dell’AVRE soltanto:
 
-- a. per renderli accessibili al SUSI per i fini menzionati nell’articolo 40a capoverso 1;
+- a.[^40d-1] per renderli accessibili al SISI o al DASIB per i fini menzionati nell’articolo 40*a* capoverso 1;
 - b. se ciò è indispensabile ai fini della manutenzione.
 
-<sup>2</sup> Se si tratta di registrazioni di un impianto militare, dopo l’avvenuto nullaosta da parte delle Forze aeree il fornitore dei servizi di navigazione aerea rende accessibili i dati al SUSI, per quanto ciò sia possibile per ragioni di tutela del segreto militare.
+<sup>2</sup> Se si tratta di registrazioni di un impianto militare, dopo l’avvenuto nullaosta da parte delle Forze aeree il fornitore dei servizi di navigazione aerea rende accessibili i dati al SISI, per quanto ciò sia possibile per ragioni di tutela del segreto militare.[^40d-2]
+
+[^40d-1]: Nuovo testo giusta l’all. n. 2 dell’O del 22 set. 2023 sull’aviazione militare, in vigore dal 1° nov. 2023 ([RU 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
+[^40d-2]: Nuovo testo giusta l’all. n. 2 dell’O del 22 set. 2023 sull’aviazione militare, in vigore dal 1° nov. 2023 ([RU 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 #### Art. 40e
 
 **Servizio di mediazione**
 
-<sup>1</sup> Il fornitore dei servizi di navigazione aerea designa un servizio di mediazione. A tale scopo consulta preliminarmente le associazioni del personale dei controllori del traffico aereo interessati. Comunica all’UFAC e al SUSI la designazione del servizio di mediazione.
+<sup>1</sup> Il fornitore dei servizi di navigazione aerea designa un servizio di mediazione. A tale scopo consulta preliminarmente le associazioni del personale dei controllori del traffico aereo interessati. Comunica all’UFAC, al SISI e al DASIB la designazione del servizio di mediazione.[^40e-1]
 
 <sup>2</sup> Il servizio di mediazione è un interlocutore e un intermediario neutrale per questioni inerenti all’AVRE.
 
 <sup>3</sup> Nel caso di una procedura di valutazione, esso funge da intermediario tra il fornitore dei servizi di navigazione aerea e i controllori del traffico aereo interessati.
 
+[^40e-1]: Nuovo testo giusta l’all. n. 2 dell’O del 22 set. 2023 sull’aviazione militare, in vigore dal 1° nov. 2023 ([RU 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
+
 #### Art. 40f
 
 **Valutazione**
 
-<sup>1</sup> Le registrazioni dell’AVRE possono essere valutate soltanto dal SUSI. Esso valuta le registrazioni unicamente per i bisogni dell’inchiesta su un infortunio aeronautico o su un incidente grave.
+<sup>1</sup> Le registrazioni dell’AVRE possono essere valutate soltanto dal SISI e dal DASIB. Essi valutano le registrazioni unicamente per i bisogni dell’inchiesta su un infortunio aeronautico o su un incidente grave.[^40f-1]
 
-<sup>2</sup> Il fornitore dei servizi di navigazione aerea, i controllori del traffico aereo interessati e il servizio di mediazione hanno diritto di prendere parte alla procedura di valutazione delle registrazioni. Lo stesso vale per le Forze aeree, se l’infortunio aeronautico o l’incidente grave concerne velivoli od organi militari.
+<sup>2</sup> Il fornitore dei servizi di navigazione aerea, i controllori del traffico aereo interessati e il servizio di mediazione hanno diritto di prendere parte alla procedura di valutazione delle registrazioni. Lo stesso vale per il DASIB, se l’infortunio aeronautico o l’incidente grave concerne velivoli od organi militari.[^40f-2]
 
 <sup>3</sup> I controllori del traffico aereo interessati possono farsi accompagnare da un rappresentante della loro associazione del personale negli atti procedurali.
 
-<sup>4</sup> Il fornitore dei servizi di navigazione aerea è tenuto a sostenere sotto il profilo tecnico i lavori di valutazione del SUSI. A tale scopo, in caso di necessità e nei limiti delle possibilità aziendali, mette a disposizione la propria infrastruttura, in particolare per l’ascolto delle registrazioni.
+<sup>4</sup> Il fornitore dei servizi di navigazione aerea è tenuto a sostenere sotto il profilo tecnico i lavori di valutazione del SISI e del DASIB. A tale scopo, in caso di necessità e nei limiti delle possibilità aziendali, mette a disposizione la propria infrastruttura, in particolare per l’ascolto delle registrazioni.[^40f-3]
 
 <sup>5</sup> Le informazioni e le conoscenze acquisite nell’ambito della procedura di valutazione possono essere utilizzate unicamente per provvedimenti volti a migliorare la sicurezza del volo o dell’esercizio. Le informazioni che non servono a tali scopi, in particolare quelle riguardanti la vita professionale e privata che non sono legate all’evento oggetto dell’inchiesta, nonché le informazioni soggette alla tutela del segreto militare non possono essere utilizzate in nessun caso.
+
+[^40f-1]: Nuovo testo giusta l’all. n. 2 dell’O del 22 set. 2023 sull’aviazione militare, in vigore dal 1° nov. 2023 ([RU 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
+[^40f-2]: Nuovo testo giusta l’all. n. 2 dell’O del 22 set. 2023 sull’aviazione militare, in vigore dal 1° nov. 2023 ([RU 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
+[^40f-3]: Nuovo testo giusta l’all. n. 2 dell’O del 22 set. 2023 sull’aviazione militare, in vigore dal 1° nov. 2023 ([RU 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 #### Art. 40g
 
@@ -838,9 +877,11 @@ Il regolamento disciplina in particolare:
 - d. la tenuta di verbali sulla verificabilità di tutte le modifiche apportate al sistema e alle sue registrazioni;
 - e. le autorizzazioni di accesso in caso di infortunio aeronautico o incidente grave;
 - f. la designazione e il finanziamento del servizio di mediazione;
-- g. il coordinamento con il SUSI nella procedura di valutazione.
+- g.[^40g-1] il coordinamento con il SISI o il DASIB nella procedura di valutazione.
 
 <sup>5</sup> Le autorizzazioni di cui al capoverso 4 lettere b, c ed e possono essere rilasciate unicamente a impiegati del fornitore dei servizi di navigazione aerea.
+
+[^40g-1]: Nuovo testo giusta l’all. n. 2 dell’O del 22 set. 2023 sull’aviazione militare, in vigore dal 1° nov. 2023 ([RU 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 #### Art. 40h
 
@@ -921,7 +962,7 @@ Allegato 1[^t-1]
 
 ## Compiti della sicurezza aerea affidati a Skyguide
 
-[^t-1]: Originario all. introdotto dal n. II dell’O del 24 gen. 2001 ([RU 2001 514](https://fedlex.data.admin.ch/eli/oc/2001/104)). Nuovo testo giusta il n. II dell’O del 17 ott. 2018 ([RU 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)). Aggioranto dal n. II dell’O del 16 feb. 2022, in vigore dal 1° mag. 2022 ([RU 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)).
+[^t-1]: Originario all. introdotto dal n. II dell’O del 24 gen. 2001 ([RU 2001 514](https://fedlex.data.admin.ch/eli/oc/2001/104)). Nuovo testo giusta il n. II dell’O del 17 ott. 2018 ([RU 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)). Aggiornato dal n. II dell’O del 16 feb. 2022 ([RU 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)) e dall’all. n. 2 dell’O del 22 set. 2023 sull’aviazione militare, in vigore dal 1° nov. 2023 ([RU 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 I compiti della sicurezza aerea di Skyguide comprendono:
 
@@ -1019,11 +1060,11 @@ I compiti della sicurezza aerea di Skyguide comprendono:
 
 - 7\.2 coordinamento con l’UFAC e le Forze aeree per il sorvolo o l’atterraggio di aeromobili di Stato nel territorio svizzero o del Principato del Liechtenstein;
 - 7\.3 notifiche all’UFAC e alle Forze aeree nei casi in cui risultano opportune misure di polizia aerea conformemente all’articolo 7 dell’ordinanza del 23 marzo 2005 concernente la salvaguardia della sovranità sullo spazio aereo;
-- 7\.4 rapporti all’UFAC e alle Forze aeree sui voli di Stato effettuati e su irregolarità.
+- 7\.4 rapporti all’UFAC, alla MAA e alle Forze aeree sui voli di Stato effettuati e su irregolarità.
 - *8.* *Servizio di valutazione delle procedure di volo, se rispondente a un’esigenza operativa riconosciuta*
 - 8\.1 elaborazione e modifica delle procedure di avvicinamento, di decollo e di rotta;
 - 8\.2 verifica delle procedure di avvicinamento, di decollo e di rotta.
-- *9.* *Servizi per l’aviazione militare in applicazione dell’articolo 4a capoverso 1 della presente ordinanza conformemente al mandato di prestazioni separato delle Forze aeree.*
+- *9.* *Servizi per l’aviazione militare definiti all’interno di un accordo sulle prestazioni con le Forze aeree.*
 
 [^annex1-lvlu1-1]: [RS 748.941](https://fedlex.data.admin.ch/eli/cc/2022/802)
 [^annex1-lvlu1-2]: [RS 748.111.1](https://fedlex.data.admin.ch/eli/cc/2005/284)
