@@ -4,13 +4,13 @@ number: "400.11"
 title: Verordnung zum Raumplanungs- und Baugesetz
 short: RBV
 language: de
-version: 2023-09-01
-valid_until: 2023-10-31
-version_adopted: 2023-06-20
+version: 2023-11-01
+valid_until: 2023-12-31
+version_adopted: 2023-10-31
 adopted: 1998-10-27
 in_force: 1999-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/400.11"
-pdf: "https://bl.clex.ch/api/de/versions/3630/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3738/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3630/pdf_file"
 
 (RBV)
 
-Vom 27.10.1998 (Stand 01.09.2023)
+Vom 27.10.1998 (Stand 01.11.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -1241,7 +1241,7 @@ Hauptdächer, Vordächer und offene, durchgehende Balkone. Andere Bauteile dürf
 
 <sup>1</sup> Solaranlagen und Wärmepumpen gemäss § 94 Abs. 1 Bst. e und j unterstehen einer vorgängigen Meldepflicht bei der zuständigen Baubewilligungsbehörde gemäss § 118 Abs. 1 und 3 RBG. Im Rahmen der Meldepflicht ist bei Wärmepumpen zudem ein Lärmschutznachweis zu erbringen.
 
-<sup>2</sup> Die Meldung hat mindestens 30 Tage vor Baubeginn schriftlich an die zuständige Baubewilligungsbehörde zu erfolgen mittels Meldung im Internet unter [www.bauinspektorat.bl.ch](http://www.bauinspektorat.bl.ch) oder mit den Formularen «Meldung Solaranlagen» bzw. «Meldung Wärmepumpen», welche bei der Baubewilligungsbehörde bezogen oder vom Internet heruntergeladen werden können.
+<sup>2</sup> Die Meldung hat mindestens 30 Tage vor Baubeginn mittels Online-Formular im Internet unter [www.bauinspektorat.bl.ch](http://www.bauinspektorat.bl.ch) an die zuständige Baubewilligungsbehörde zu erfolgen.
 
 #### § 94b
 
