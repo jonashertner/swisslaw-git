@@ -3,18 +3,18 @@ sr: "414.110.422.3"
 title: "Ordinanza dell' 8 maggio 1995 sull'ammissione al Politecnico federale di Losanna"
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/449"
 language: it
-version: 2020-04-01
+version: 2023-11-01
 adopted: 1995-05-08
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/449/20200401/it/xml/fedlex-data-admin-ch-eli-cc-1999-449-20200401-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/449/20200401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/449/20231101/it/xml/fedlex-data-admin-ch-eli-cc-1999-449-20231101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/449/20231101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sull’ammissione al Politecnico federale di Losanna
 
-dell’8 maggio 1995 (Stato 1° aprile 2020)
+dell’8 maggio 1995 (Stato 1° novembre 2023)
 
 La Direzione del Politecnico federale di Losanna (PFL),
 
@@ -79,21 +79,23 @@ I candidati titolari di un certificato rilasciato al termine degli studi da una 
   il titolare deve:
 
   - 1\.[^2-4] aver ottenuto, all’esame finale, una media generale superiore o uguale all’80 per cento del voto massimo previsto,
+  - 1<sup>bis</sup>.[^2-5] aver ottenuto, all’esame finale, medie finali superiori o uguali all’80 per cento del voto massimo previsto in ciascuna delle due discipline «matematica» e «fisica»,
   - 2\. dimostrare di aver ottenuto, se del caso, un posto di studio nel Paese che ha rilasciato il certificato nell’ambito di studi corrispondente,
   - 3\. dimostrare, qualora richiesto, di possedere sufficienti conoscenze del francese e dell’inglese.
 
-<sup>2</sup> Per i cittadini stranieri con diritto di soggiorno in quanto lavoratori dipendenti o autonomi o in quanto familiari di tali lavoratori, conformemente all’Accordo del 21 giugno 1999[^2-5] tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone o all’allegato K della Convenzione del 4 gennaio 1960[^2-6] istitutiva dell’Associazione europea di libero scambio (AELS) e, per estensione, per i cittadini svizzeri e le altre persone residenti in Svizzera al momento del conseguimento, in Svizzera, del certificato di scuola media superiore, la percentuale di cui al capoverso 1 lettera b numero 1 è del 70 per cento e il capoverso 1 lettera b numero 2 non è applicabile.
+<sup>2</sup> Per i cittadini stranieri con diritto di soggiorno in quanto lavoratori dipendenti o autonomi o in quanto familiari di tali lavoratori, conformemente all’Accordo del 21 giugno 1999[^2-6] tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone o all’allegato K della Convenzione del 4 gennaio 1960[^2-7] istitutiva dell’Associazione europea di libero scambio (AELS) e, per estensione, per i cittadini svizzeri e le altre persone residenti in Svizzera al momento del conseguimento, in Svizzera, del certificato di scuola media superiore, la percentuale di cui al capoverso 1 lettera b numero 1 è del 70 per cento e il capoverso 1 lettera b numero 2 non è applicabile.
 
-<sup>3</sup> La Direzione del PFL definisce i criteri di equipollenza per i singoli Paesi, in particolare per quelli che non rilasciano certificati di indirizzo scientifico conformemente al capoverso 1 lettera a numero 4 o i cui certificati non riportano la media generale dei voti di cui al capoverso 1 lettera b numero 1; pubblica tali criteri sul sito della Conferenza svizzera dei rettori delle scuole universitarie[^2-7].[^2-8]
+<sup>3</sup> La Direzione del PFL definisce i criteri di equipollenza per i singoli Paesi e pubblica tali criteri sul sito della Conferenza svizzera dei rettori delle scuole universitarie[^2-8].[^2-9]
 
 [^2-1]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 15 lug. 2013, in vigore dal 1° dic. 2013 ([RU 2013 3255](https://fedlex.data.admin.ch/eli/oc/2013/622)).
 [^2-2]: [RS 0.414.8](https://fedlex.data.admin.ch/eli/cc/2002/423)
 [^2-3]: [RS 413.11](https://fedlex.data.admin.ch/eli/cc/2023/373)
 [^2-4]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 20 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 789](https://fedlex.data.admin.ch/eli/oc/2020/145)).
-[^2-5]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^2-6]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^2-7]: [www.swissuniversities](http://www.swissuniversities) &gt; Temi &gt; Studi &gt; Ammissione alle scuole universitarie &gt; Paesi
-[^2-8]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 20 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 789](https://fedlex.data.admin.ch/eli/oc/2020/145)).
+[^2-5]: Introdotto dal n. I dell’O della Direzione del PFL del 4 set. 2023, in vigore dal 1° nov. 2023 al 31 ott. 2028 ([RU 2023 521](https://fedlex.data.admin.ch/eli/oc/2023/521)).
+[^2-6]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^2-7]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^2-8]: [www.swissuniversities.ch](https://www.swissuniversities.ch/it/temi/studi/ammissione-alle-scuole-universitarie/paesi-1) &gt; Temi &gt; Zulassung &gt; Zulassung zu den universitären Hochschulen &gt; Requisiti di ammissione per paese.
+[^2-9]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 4 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 521](https://fedlex.data.admin.ch/eli/oc/2023/521)).
 
 #### Art. 3
 

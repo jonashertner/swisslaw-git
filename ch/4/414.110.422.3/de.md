@@ -3,18 +3,18 @@ sr: "414.110.422.3"
 title: Verordnung vom 8. Mai 1995 über die Zulassung zur Eidgenössischen Technischen Hochschule Lausanne
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/449"
 language: de
-version: 2020-04-01
+version: 2023-11-01
 adopted: 1995-05-08
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/449/20200401/de/xml/fedlex-data-admin-ch-eli-cc-1999-449-20200401-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/449/20200401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/449/20231101/de/xml/fedlex-data-admin-ch-eli-cc-1999-449-20231101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/449/20231101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Zulassung zur Eidgenössischen Technischen Hochschule Lausanne
 
-vom 8. Mai 1995 (Stand am 1. April 2020)
+vom 8. Mai 1995 (Stand am 1. November 2023)
 
 Die Schulleitung der Eidgenössischen Technischen Hochschule Lausanne (ETHL),
 
@@ -79,21 +79,23 @@ Die Inhaberinnen und Inhaber eines Vorbildungsausweises der Sekundarstufe II ein
   Die Inhaberin oder der Inhaber muss die folgenden Voraussetzungen erfüllen:
 
   - [tab] 1.[^2-4] Sie oder er hat bei den Abschlussprüfungen einen allgemeinen Notendurchschnitt von mindestens 80 Prozent der Höchstnote erreicht.
+  - 1<sup>bis</sup>.[^2-5] Sie oder er hat bei den Abschlussprüfungen einen Notendurchschnitt von mindestens 80 Prozent der Höchstnote sowohl in Mathematik als auch in Physik erreicht.
   - 2\. Sie oder er erbringt den Nachweis, im Ausstellerland gegebenenfalls einen Studienplatz im entsprechenden Studienfach erhalten zu haben.
   - 3\. Sie oder er erbringt, falls erforderlich, den Nachweis, über ausreichende Französisch- und Englischkenntnisse zu verfügen.
 
-<sup>2</sup> Für Personen im Besitz einer Aufenthaltsbewilligung als unselbstständig oder selbstständig Erwerbstätige oder als Familienmitglied einer solchen Person gemäss dem Abkommen vom 21. Juni 1999[^2-5] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit oder gemäss Anhang K des Übereinkommens vom 4. Januar 1960[^2-6] zur Errichtung der Europäischen Freihandelsassoziation (EFTA) und folglich ebenso für Schweizerinnen und Schweizer und für alle anderen zum Zeitpunkt der in der Schweiz erfolgten Ausstellung des Vorbildungsausweises der Sekundarstufe II in der Schweiz wohnhafte Personen beträgt der in Absatz 1 Buchstabe b Ziffer 1 erwähnte geforderte Mindestnotendurchschnitt 70 Prozent und Absatz 1 Buchstabe b Ziffer 2 ist nicht anwendbar.
+<sup>2</sup> Für Personen im Besitz einer Aufenthaltsbewilligung als unselbstständig oder selbstständig Erwerbstätige oder als Familienmitglied einer solchen Person gemäss dem Abkommen vom 21. Juni 1999[^2-6] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit oder gemäss Anhang K des Übereinkommens vom 4. Januar 1960[^2-7] zur Errichtung der Europäischen Freihandelsassoziation (EFTA) und folglich ebenso für Schweizerinnen und Schweizer und für alle anderen zum Zeitpunkt der in der Schweiz erfolgten Ausstellung des Vorbildungsausweises der Sekundarstufe II in der Schweiz wohnhafte Personen beträgt der in Absatz 1 Buchstabe b Ziffer 1 erwähnte geforderte Mindestnotendurchschnitt 70 Prozent und Absatz 1 Buchstabe b Ziffer 2 ist nicht anwendbar.
 
-<sup>3</sup> Die Schulleitung der ETHL bestimmt die Kriterien der Gleichwertigkeit für die einzelnen Länder, insbesondere für diejenigen, die keine Ausweise ausstellen, die eine wissenschaftliche Ausrichtung gemäss Absatz 1 Buchstabe a Ziffer 4 bescheinigen, oder deren Abschlüsse keinen allgemeinen Notendurchschnitt gemäss Absatz 1 Buchstabe b Ziffer 1 vorsehen; sie veröffentlicht die Kriterien auf der Internetseite der Rektorenkonferenz der schweizerischen Hochschulen[^2-7].[^2-8]
+<sup>3</sup> Die Schulleitung der ETHL bestimmt die Kriterien der Gleichwertigkeit für die einzelnen Länder und veröffentlicht die Kriterien auf der Internetseite der Rektorenkonferenz der schweizerischen Hochschulen[^2-8].[^2-9]
 
 [^2-1]: Fassung gemäss Ziff. I der V der Schulleitung ETHL vom 15. Juli 2013, in Kraft seit 1. Dez. 2013 ([AS 2013 3255](https://fedlex.data.admin.ch/eli/oc/2013/622)).
 [^2-2]: [SR 0.414.8](https://fedlex.data.admin.ch/eli/cc/2002/423)
 [^2-3]: [SR 413.11](https://fedlex.data.admin.ch/eli/cc/2023/373)
 [^2-4]: Fassung gemäss Ziff. I der V der Schulleitung ETHL vom 20. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 789](https://fedlex.data.admin.ch/eli/oc/2020/145)).
-[^2-5]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^2-6]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^2-7]: www.swissuniversities.ch &gt; Themen &gt; Studium &gt; Zulassung zu den universitären Hochschulen &gt; Länder
-[^2-8]: Fassung gemäss Ziff. I der V der Schulleitung ETHL vom 20. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 789](https://fedlex.data.admin.ch/eli/oc/2020/145)).
+[^2-5]: Eingefügt durch Ziff. I der V der Schulleitung ETHL vom 4. Sept. 2023, in Kraft vom 1. Nov. 2023 bis zum 31. Okt. 2028 ([AS 2023 521](https://fedlex.data.admin.ch/eli/oc/2023/521)).
+[^2-6]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^2-7]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^2-8]: www.swissuniversities.ch &gt; Themen &gt; Zulassung &gt; Zulassung zu den universitären Hochschulen &gt; Zulassungsbedingungen nach Ländern
+[^2-9]: Fassung gemäss Ziff. I der V der Schulleitung ETHL vom 4. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 521](https://fedlex.data.admin.ch/eli/oc/2023/521)).
 
 #### Art. 3
 
@@ -134,7 +136,7 @@ Die Inhaber und Inhaberinnen folgender Ausweise werden nach Bestehen einer reduz
 
 <sup>1</sup> Die oder der Bildungsbeauftragte legt die Prüfungsfächer der reduzierten Aufnahmeprüfung im Einzelfall fest. Sie oder er berücksichtigt dabei die Vorbildung, insbesondere in den Fächern der Gruppe 1 der Aufnahmeprüfung gemäss Artikel 8 Absatz 1, die Sprachkenntnisse des Kandidaten oder der Kandidatin sowie die besonderen Anforderungen der angestrebten Studienrichtung. Die reduzierte Aufnahmeprüfung wird in französischer Sprache abgelegt.[^6-1]
 
-<sup>2</sup> ...[^6-2]
+<sup>2</sup> …[^6-2]
 
 <sup>3</sup> Artikel 8 Absatz 3 gilt sinngemäss.
 
@@ -177,7 +179,7 @@ Wer keine der Voraussetzungen nach den Artikeln 1–5 erfüllt, kann nach Besteh
 
 <sup>3</sup> Der Prüfungsstoff muss den Prüfungszielen der einzelnen Fächer gemäss Artikel 9 der Verordnung vom 7. Dezember 1998[^8-4] über die schweizerische Maturitätsprüfung entsprechen.[^8-5]
 
-<sup>4</sup> ...[^8-6]
+<sup>4</sup> …[^8-6]
 
 [^8-1]: Fassung gemäss Ziff. I der V der Schulleitung ETHL vom 20. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 789](https://fedlex.data.admin.ch/eli/oc/2020/145)).
 [^8-2]: Ausdruck gemäss Ziff. I der V der Schulleitung ETHL vom 22. Mai 2006, in Kraft seit 23. Okt. 2006 ([AS 2006 5335](https://fedlex.data.admin.ch/eli/oc/2006/808)). Diese Änd. ist im ganzen Erlass berücksichtigt.
@@ -235,7 +237,7 @@ Studierende aus einer anderen Hochschule, die ihre Studien an der ETHL aufnehmen
 
 <sup>4</sup> Die Schule kann von den Studierenden aus anderen Hochschulen verlangen, dass sie eine Gleichwertigkeitsprüfung ablegen oder vor Beginn oder spätestens bis Ende des ersten Jahres des Masterstudiums zusätzliche Krediteinheiten erwerben. Zudem kann sie verlangen, dass ihr Bachelorstudium minimale Qualitätsanforderungen bezüglich der Studienpläne, der Studieninhalte oder der Mindestnote erfüllt, und gegebenenfalls ein Praktikum anordnen.[^11-4]
 
-<sup>5</sup> ...[^11-5]
+<sup>5</sup> …[^11-5]
 
 [^11-1]: Fassung gemäss Ziff. I der V der Schulleitung ETHL vom 15. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4115](https://fedlex.data.admin.ch/eli/oc/2015/691)).
 [^11-2]: Eingefügt durch Ziff. I der V der Schulleitung ETHL vom 20. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 789](https://fedlex.data.admin.ch/eli/oc/2020/145)).

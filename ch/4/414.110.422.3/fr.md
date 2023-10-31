@@ -3,18 +3,18 @@ sr: "414.110.422.3"
 title: "Ordonnance du 8 mai 1995 concernant l'admission à l'École polytechnique fédérale de Lausanne"
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/449"
 language: fr
-version: 2020-04-01
+version: 2023-11-01
 adopted: 1995-05-08
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/449/20200401/fr/xml/fedlex-data-admin-ch-eli-cc-1999-449-20200401-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/449/20200401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/449/20231101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-449-20231101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/449/20231101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant l’admission à l’École polytechnique fédérale de Lausanne
 
-du 8 mai 1995 (État le 1<sup>er</sup> avril 2020)
+du 8 mai 1995 (État le 1<sup>er</sup> novembre 2023)
 
 La Direction de l’École polytechnique fédérale de Lausanne (EPFL),
 
@@ -79,21 +79,23 @@ Sont admises sans examen au premier semestre dans une section de l’EPFL les pe
   le titulaire doit:
 
   - 1\.[^2-4] avoir obtenu une moyenne générale supérieure ou égale à 80 % de la note maximale aux examens du certificat,
+  - 1<sup>bis</sup>.[^2-5] avoir obtenu des moyennes finales supérieures ou égales à 80 % de la note maximale dans chacune des deux branches «mathématiques» et «physique» aux examens du certificat,
   - 2\. prouver qu’il a obtenu, le cas échéant, une place, dans le pays ayant délivré le certificat, pour le domaine d’études visé, et
   - 3\. prouver qu’il dispose, le cas échéant, de connaissances suffisantes du français et de l’anglais.
 
-<sup>2</sup> Pour les personnes au bénéfice d’un droit de séjour en tant que travailleur salarié ou indépendant ou en tant que membre de la famille d’un tel travailleur, au sens de l’Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes[^2-5] ou de l’Annexe K de la Convention du 4 janvier 1960 instituant l’Association européenne de libre-échange (AELE)[^2-6], et par extension pour les Suisses et autres personnes résidentes en Suisse au moment de l’obtention, en Suisse, de leur certificat de fins d’études secondaires supérieures, le taux prévu à l’al. 1, let. b, ch. 1, est de 70 %, et l’al. 1, let. b, ch. 2, n’est pas applicable.
+<sup>2</sup> Pour les personnes au bénéfice d’un droit de séjour en tant que travailleur salarié ou indépendant ou en tant que membre de la famille d’un tel travailleur, au sens de l’Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes[^2-6] ou de l’Annexe K de la Convention du 4 janvier 1960 instituant l’Association européenne de libre-échange (AELE)[^2-7], et par extension pour les Suisses et autres personnes résidentes en Suisse au moment de l’obtention, en Suisse, de leur certificat de fins d’études secondaires supérieures, le taux prévu à l’al. 1, let. b, ch. 1, est de 70 %, et l’al. 1, let. b, ch. 2, n’est pas applicable.
 
-<sup>3</sup> La direction de l’EPFL fixe et publie sur le site de la Conférence des recteurs des hautes écoles suisses[^2-7] les critères d’équivalence pour les différents pays, notamment pour ceux qui n’offrent pas de certificat à orientation scientifique au sens de l’al. 1, let. a, ch. 4, ou dont les certificats ne comportent pas de moyenne générale au sens de l’al. 1, let. b, ch. 1.[^2-8]
+<sup>3</sup> La direction de l’EPFL fixe et publie sur le site de la Conférence des recteurs des hautes écoles suisses[^2-8] les critères d’équivalence pour les différents pays.[^2-9]
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 15 juil. 2013, en vigueur depuis le 1<sup>er</sup> déc. 2013 ([RO 2013 3255](https://fedlex.data.admin.ch/eli/oc/2013/622)).
 [^2-2]: [RS 0.414.8](https://fedlex.data.admin.ch/eli/cc/2002/423)
 [^2-3]: [RS 413.11](https://fedlex.data.admin.ch/eli/cc/2023/373)
 [^2-4]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 20 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 789](https://fedlex.data.admin.ch/eli/oc/2020/145)).
-[^2-5]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^2-6]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^2-7]: www.swissuniversities.ch &gt; Thèmes &gt; Études &gt; Admission aux hautes écoles universitaires &gt; Pays
-[^2-8]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 20 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 789](https://fedlex.data.admin.ch/eli/oc/2020/145)).
+[^2-5]: Introduit par le ch. I de l’O de la Direction de l’EPFL du 4 sept. 2023, en vigueur du 1<sup>er</sup> nov. 2023 au 31 oct. 2028 ([RO 2023 521](https://fedlex.data.admin.ch/eli/oc/2023/521)).
+[^2-6]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^2-7]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^2-8]: [www.swissuniversities.ch](http://www.swissuniversities.ch) &gt; Thèmes &gt; Admission &gt; Admission aux hautes écoles universitaires &gt; Conditions d’admission par pays
+[^2-9]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 4 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 521](https://fedlex.data.admin.ch/eli/oc/2023/521)).
 
 #### Art. 3
 
@@ -133,7 +135,7 @@ Est admise au premier semestre dans toutes les sections de l’EPFL, après avoi
 
 <sup>1</sup> Le délégué à la formation détermine au cas par cas les branches de l’examen d’admission réduit. Il tient compte de la formation acquise, notamment dans les branches du groupe 1 de l’examen d’admission visées à l’art. 8, al. 1, ainsi que des connaissances linguistiques du candidat et des exigences spécifiques de l’orientation d’études envisagée. L’examen d’admission réduit se déroule en français.[^6-1]
 
-<sup>2</sup> ...[^6-2]
+<sup>2</sup> …[^6-2]
 
 <sup>3</sup> L’art. 8, al. 3, s’applique par analogie.
 
@@ -176,7 +178,7 @@ Quiconque ne remplit pas les conditions des art. 1 à 5 ne peut être admis au p
 
 <sup>3</sup> La matière des examens doit remplir les objectifs des disciplines conformément à l’art. 9 de l’ordonnance du 7 décembre 1998 sur l’examen suisse de maturité[^8-4].[^8-5]
 
-<sup>4</sup> ...[^8-6]
+<sup>4</sup> …[^8-6]
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 20 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 789](https://fedlex.data.admin.ch/eli/oc/2020/145)).
 [^8-2]: Nouvelle expression selon le ch. I de l’O de la Direction de l’EPFL du 22 mai 2006, en vigueur depuis le 23 oct. 2006 ([[RO 2006 5335](http://www.admin.ch/ch/f/as/2006/5335.pdf)](https://fedlex.data.admin.ch/eli/oc/2006/808)). Il a été tenu compte de cette mod. dans tout le texte.
@@ -234,7 +236,7 @@ Les étudiants d’une autre haute école qui désirent entamer des études ou p
 
 <sup>4</sup> L’EPFL peut exiger des candidats provenant d’une autre haute école qu’ils passent un examen d’équivalence ou qu’ils acquièrent des crédits supplémentaires avant le début ou, au plus tard, à la fin de la première année de la formation menant au master. Elle peut en outre exiger que leur bachelor satisfasse à des exigences minimales concernant la qualité des plans d’études ou des contenus des cours ou concernant la note minimale et, le cas échéant, qu’ils effectuent un stage.[^11-4]
 
-<sup>5</sup> ...[^11-5]
+<sup>5</sup> …[^11-5]
 
 [^11-1]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 15 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4115](https://fedlex.data.admin.ch/eli/oc/2015/691)).
 [^11-2]: Introduit par le ch. I de l’O de la Direction de l’EPFL du 20 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 789](https://fedlex.data.admin.ch/eli/oc/2020/145)).
