@@ -4,11 +4,11 @@ title: Verordnung vom 17. August 2005 über den Lufttransport (LTrV)
 short: LTrV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/556"
 language: de
-version: 2023-04-01
+version: 2023-11-01
 adopted: 2005-08-17
 in_force: 2005-09-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/556/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2005-556-20230401-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/556/20230401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/556/20231101/de/xml/fedlex-data-admin-ch-eli-cc-2005-556-20231101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/556/20231101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/556/20230401/de"
 
 (Lufttransportverordnung, LTrV)[^t-1]
 
-vom 17. August 2005 (Stand am 1. April 2023)
+vom 17. August 2005 (Stand am 1. November 2023)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 
@@ -397,7 +397,9 @@ Die Deklaration ist durch eine zeichnungsberechtigte Person des Unternehmens bei
 
 <sup>4</sup> Das BAZL fordert Unternehmen, die eine Deklaration eingereicht haben, regelmässig auf, die übermittelten Daten zu bestätigen. Wird diese Bestätigung unterlassen, so verfällt die Gültigkeit der Deklaration nach einer vom BAZL mitgeteilten Frist automatisch.
 
-[^16d-1]: Eingefügt durch Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. April 2023 ([AS 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
+<sup>5</sup> Liegt keine Deklaration vor, so weist die Frachtannahmestelle die Gefahrgutsendung von deklarationspflichtigen Unternehmen gemäss Absatz 1 anlässlich des Frachtannahmeverfahrens gemäss Part 7, Chapter 1 der TI zum ICAO-Anhang 18 zurück.
+
+[^16d-1]: Eingefügt durch Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. April 2023, Abs. 5 in Kraft seit 1. Nov. 2023 ([AS 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 
 #### Art. 16e
 

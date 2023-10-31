@@ -4,11 +4,11 @@ title: Ordinanza del 17 agosto 2005 sul trasporto aereo (OTrA)
 short: OTrA
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/556"
 language: it
-version: 2023-04-01
+version: 2023-11-01
 adopted: 2005-08-17
 in_force: 2005-09-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/556/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2005-556-20230401-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/556/20230401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/556/20231101/it/xml/fedlex-data-admin-ch-eli-cc-2005-556-20231101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/556/20231101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/556/20230401/it"
 
 (OTrA)
 
-del 17 agosto 2005 (Stato 1° aprile 2023)
+del 17 agosto 2005 (Stato 1° novembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -386,7 +386,9 @@ La dichiarazione deve essere presentata all’UFAC da una persona dell’impresa
 
 <sup>4</sup> L’UFAC invita regolarmente le imprese che hanno presentato una dichiarazione a confermare i dati forniti. In mancanza di conferma, la validità della dichiarazione decade automaticamente entro un periodo di tempo comunicato dall’UFAC.
 
-[^16d-1]: Introdotto dal n. I dell’O del 12 ott. 2022, in vigore dal 1° apr. 2023 ([RU 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622))
+<sup>5</sup> Se non è disponibile alcuna dichiarazione, il punto di accettazione merci deve respingere la spedizione di merci pericolose provenienti da imprese soggette all’obbligo di dichiarazione di cui al capoverso 1 al momento della procedura di accettazione merci, conformemente alla Part 7, Chapter 1 delle T.I. dell’Annesso 18 ICAO.
+
+[^16d-1]: Introdotto dal n. I dell’O del 12 ott. 2022, in vigore dal 1° apr. 2023, ad eccezione del cpv. 5 in vigore dal 1° nov. 2023 ([RU 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 
 #### Art. 16e
 

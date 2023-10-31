@@ -4,11 +4,11 @@ title: Ordonnance du 17 août 2005 sur le transport aérien (OTrA)
 short: OTrA
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/556"
 language: fr
-version: 2023-04-01
+version: 2023-11-01
 adopted: 2005-08-17
 in_force: 2005-09-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/556/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2005-556-20230401-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/556/20230401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/556/20231101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-556-20231101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/556/20231101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/556/20230401/fr"
 
 (OTrA)
 
-du 17 août 2005 (État le 1<sup>er</sup> avril 2023)
+du 17 août 2005 (État le 1<sup>er</sup> novembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -386,7 +386,9 @@ La déclaration doit être adressée à l’OFAC par une personne de l’entrepr
 
 <sup>4</sup> L’OFAC invite régulièrement les entreprises qui lui ont adressé une déclaration à confirmer les données communiquées. Faute de confirmation, la validité de la déclaration expire automatiquement au terme du délai communiqué par l’OFAC.
 
-[^16d-1]: Introduit par le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
+<sup>5</sup> En l’absence de déclaration, lorsqu’il réceptionne le fret conformément à la partie 7, chapitre 1 des instructions techniques relatives à l’Annexe 18 OACI, le point de réception du fret refuse tout envoi de marchandises dangereuses en provenance d’une entreprise soumise à l’obligation de déclaration en vertu de l’al. 1.
+
+[^16d-1]: Introduit par le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023, sous réserve de l’al. 5, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 
 #### Art. 16e
 
@@ -417,7 +419,7 @@ Pour le transport d’animaux entre un Etat étranger et la Suisse ou en transit
 
 Pour le transport de cadavres entre un Etat étranger et la Suisse ou en transit par la Suisse, les dispositions de l’Arrangement international du 10 février 1937 concernant le transport des corps[^18-1] sont réservées.
 
-[^18-1]: **[RS 0.818.61](https://fedlex.data.admin.ch/eli/cc/56/1198_1258_1314).** Voir aussi l’Ac. du 26 oct. 1973 sur le transfert des corps des personnes décédées ([RS 0.818.62](https://fedlex.data.admin.ch/eli/cc/1980/295_295_295)).
+[^18-1]: [RS 0.818.61](https://fedlex.data.admin.ch/eli/cc/56/1198_1258_1314)**.** Voir aussi l’Ac. du 26 oct. 1973 sur le transfert des corps des personnes décédées ([RS 0.818.62](https://fedlex.data.admin.ch/eli/cc/1980/295_295_295)).
 
 #### Art. 19
 
