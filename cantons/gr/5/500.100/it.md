@@ -3,20 +3,19 @@ canton: GR
 number: "500.100"
 title: Ordinanza sulle tasse in campo sanitario
 language: it
-version: 2023-01-01
-valid_until: 2023-10-31
-version_adopted: 2022-12-13
+version: 2023-11-01
+version_adopted: 2023-10-24
 adopted: 2011-04-12
 in_force: 2011-05-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/500.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3290/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3888/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Ordinanza sulle tasse in campo sanitario
 
-del 12.04.2011 (stato 01.01.2023)
+del 12.04.2011 (stato 01.11.2023)
 
 emanata dal Governo il 12 aprile 2011
 
@@ -29,7 +28,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 75 cpv.
 
 **Campo d'applicazione**
 
-<sup>1</sup> La presente ordinanza disciplina le tasse riscosse dall'Ufficio dell'igiene pubblica nell'adempimento dei compiti a esso delegati.
+<sup>1</sup> La presente ordinanza disciplina le tasse riscosse dall'Ufficio della sanità nell'adempimento dei compiti a esso delegati.
 
 #### Art. 2
 
@@ -62,13 +61,14 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 75 cpv.
 - a) l'esercizio di ospedali e cliniche pubblici e privati: da fr. 3000.– a fr. 10 000.–
 - b) l'esercizio di laboratori e istituti medici privati: da fr. 1000.– a fr. 2000.–
 - c) l'esercizio di offerte per la cura e l'assistenza stazionarie a pazienti lungodegenti e persone anziane: da fr. 3000.– a fr. 10 000.–
-- d) l'esercizio di offerte di cura e assistenza a domicilio: da fr. 2000.– a fr. 7000.–
+- d) l'esercizio di offerte di cura e assistenza a domicilio: da fr. 3000.– a fr. 10 000.–
 - e) l'esercizio del trasporto di ammalati e di persone infortunate a scopo professionale
   - 1\. con riconoscimento IAS: fr. 800.–
   - 2\. senza riconoscimento IAS: fr. 1000.–
 - f) trasporto in barella dal medico di servizio, dietro compenso, di persone ferite senza necessità di un'assistenza medica: fr. 400.–
 - g) l'esercizio di case per partorienti: da fr. 1000.– a fr. 3000.–
 - h) l'applicazione di metodi della procreazione con assistenza medica conformemente alla legge federale concernente la procreazione con assistenza medica: da fr. 600.– a fr. 3000.–
+- i) l'esercizio di strutture diurne e notturne: da fr. 3000.– a fr. 10 000.–
 
 <sup>2</sup> Nella tassa secondo il capoverso 1 è inclusa un'ispezione dell'esercizio per ogni durata di validità dell'autorizzazione. Per ogni ulteriore ispezione, nonché per la relativa preparazione e post-elaborazione, viene riscossa una tassa di 220 franchi all'ora, secondo il tempo impiegato. Se per questo è necessario ricorrere a terzi, viene fatturato il loro onere.
 
@@ -146,7 +146,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 75 cpv.
 
 **Protezione dalle radiazioni non ionizzanti**
 
-<sup>1</sup> Per i controlli svolti dall'Ufficio dell'igiene pubblica nei solarium e in caso di utilizzo di prodotti per scopi estetici nonché per le misure disposte vengono riscosse tasse in funzione del tempo impiegato. La tariffa oraria ammonta a un importo tra i 70 e i 200 franchi a seconda delle conoscenze tecniche necessarie e della classe di funzione del personale esecutivo.
+<sup>1</sup> Per i controlli svolti dall'Ufficio della sanità nei solarium e in caso di utilizzo di prodotti per scopi estetici nonché per le misure disposte vengono riscosse tasse in funzione del tempo impiegato. La tariffa oraria ammonta a un importo tra i 70 e i 200 franchi a seconda delle conoscenze tecniche necessarie e della classe di funzione del personale esecutivo.
 
 #### Art. 7
 

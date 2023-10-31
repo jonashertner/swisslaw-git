@@ -3,20 +3,19 @@ canton: GR
 number: "500.100"
 title: Ordinaziun davart las taxas per il sectur da sanadad
 language: rm
-version: 2023-01-01
-valid_until: 2023-10-31
-version_adopted: 2022-12-13
+version: 2023-11-01
+version_adopted: 2023-10-24
 adopted: 2011-04-12
 in_force: 2011-05-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/500.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3290/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3888/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ordinaziun davart las taxas per il sectur da sanadad
 
-dals 12-04-2011 (versiun dals 01-01-2023)
+dals 12-04-2011 (versiun dals 01-11-2023)
 
 sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1] e sin l'art. 75 al. 3 da la lescha davart la giurisdicziun administrativa[^ingress-2],
 
@@ -62,13 +61,14 @@ relaschada da la regenza ils 12 d'avrigl 2011
 - a) per la gestiun d'ospitals publics e privats sco er da clinicas publicas e privatas: fr. 3000.– fin fr. 10 000.–
 - b) per la gestiun da laboratoris privats e d'instituts medicinals privats: fr. 1000.– fin fr. 2 000.–
 - c) per la gestiun da purschidas da la tgira e da l'assistenza staziunara da pazientas e pazients stabels sco er da persunas attempadas: fr. 3000.– fin fr. 10 000.–
-- d) per la gestiun da purschidas da la tgira e da l'assistenza a chasa: fr. 2000.– fin fr. 7000.–
+- d) per la gestiun da purschidas da la tgira e da l'assistenza a chasa: fr. 3000.– fin fr. 10 000.–
 - e) per la gestiun da transports professiunals da persunas malsaunas e da persunas che han gì in accident
   - 1\. cun renconuschientscha da la IAS: fr. 800.–
   - 2\. senza renconuschientscha da la IAS: fr. 1000.–
 - f) per il transport giaschent da persunas blessadas senza necessitad d'ina assistenza medicinala tar la media u il medi da servetsch cunter indemnisaziun: fr. 400.–
 - g) per la gestiun da chasas da parturir: fr. 1000.– fin fr. 3000.–
 - h) per l'applicaziun da proceduras da reproducziun tenor la lescha federala davart la reproducziun cun assistenza medicinala: fr. 600.– fin fr. 3000.–
+- i) per la gestiun da structuras da di e da notg: fr. 3000.– fin fr. 10 000.–
 
 <sup>2</sup> En la taxa tenor l'alinea 1 è cuntegnida ina inspecziun dal manaschi per durada da la permissiun. Per mintga ulteriura inspecziun sco er per la preparaziun e per l'elavuraziun posteriura da tala vegn incassada ina taxa tenor il temp impundì da 220 francs per ura. Sch'i ston vegnir engaschadas per quai terzas persunas, vegnan messas a quint las indemnisaziuns ch'ellas han da bun.
 

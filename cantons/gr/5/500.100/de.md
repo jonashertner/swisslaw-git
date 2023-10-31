@@ -3,20 +3,19 @@ canton: GR
 number: "500.100"
 title: Verordnung über die Gebühren im Gesundheitsbereich
 language: de
-version: 2023-01-01
-valid_until: 2023-10-31
-version_adopted: 2022-12-13
+version: 2023-11-01
+version_adopted: 2023-10-24
 adopted: 2011-04-12
 in_force: 2011-05-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/500.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3290/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3888/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Gebühren im Gesundheitsbereich
 
-Vom 12.04.2011 (Stand 01.01.2023)
+Vom 12.04.2011 (Stand 01.11.2023)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1] und Art. 75 Abs. 3 des Verwaltungsrechtspflegegesetzes[^ingress-2]
 
@@ -62,13 +61,14 @@ von der Regierung erlassen am 12. April 2011
 - a) Betrieb von öffentlichen und privaten Spitälern und Kliniken: Fr. 3000.– bis Fr. 10 000.–
 - b) Betrieb von privaten Laboratorien und medizinischen Instituten: Fr. 1000.– bis Fr. 2000.–
 - c) Betrieb von Angeboten zur stationären Pflege und Betreuung von Langzeitpatienten und von betagten Personen: Fr. 3000.– bis Fr. 10 000.–
-- d) Betrieb von Angeboten zur häuslichen Pflege und Betreuung: Fr. 2000.– bis 7000.–
+- d) Betrieb von Angeboten zur häuslichen Pflege und Betreuung: Fr. 3000.– bis Fr. 10 000.–
 - e) Betrieb des gewerbsmässigen Transports von kranken und verunfallten Personen
   - 1\. mit IVR-Anerkennung: Fr. 800.–
   - 2\. ohne IVR-Anerkennung: Fr. 1000.–
 - f) Liegendtransport von verletzten Personen ohne Notwendigkeit einer medizinischen Betreuung zum Dienstarzt gegen Entgelt: Fr. 400.–
 - g) Betrieb von Geburtshäusern: Fr. 1000.– bis Fr. 3000.–
 - h) Anwenden von Fortpflanzungsverfahren gemäss Bundesgesetz über die medizinisch unterstützte Fortpflanzung: Fr. 600.– bis Fr. 3000.–
+- i) Betrieb von Tages- und Nachtstrukturen: Fr. 3000.– bis Fr. 10 000.–
 
 <sup>2</sup> In der Gebühr nach Absatz 1 ist pro Bewilligungsdauer eine Inspektion des Betriebs enthalten. Für jede weitere Inspektion sowie deren Vor- und Nachbereitung wird eine Gebühr nach Zeitaufwand von 220 Franken pro Stunde erhoben. Müssen dafür Dritte beigezogen werden, wird deren Aufwand in Rechnung gestellt.
 
