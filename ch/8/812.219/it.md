@@ -4,11 +4,11 @@ title: Ordinanza del 4 maggio 2022 relativa ai dispositivi medico-diagnostici in
 short: ODIV
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/291"
 language: it
-version: 2023-09-01
+version: 2023-11-01
 adopted: 2022-05-04
 in_force: 2022-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2022-291-20230901-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20231101/it/xml/fedlex-data-admin-ch-eli-cc-2022-291-20231101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20231101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20230901/it"
 
 (ODIV)
 
-del 4 maggio 2022 (Stato 1° settembre 2023)
+del 4 maggio 2022 (Stato 1° novembre 2023)
 
 Il Consiglio federale svizzero
 
@@ -103,7 +103,7 @@ Nella presente ordinanza si intende per:
 - b. *immissione in commercio:* la prima messa a disposizione di un dispositivo, diverso da un dispositivo oggetto di studio delle prestazioni, sul mercato svizzero;
 - c. *messa in servizio:* momento in cui un dispositivo pronto per l’uso, diverso da un dispositivo oggetto di studio delle prestazioni, è reso disponibile all’utilizzatore finale per essere utilizzato per la prima volta sul mercato svizzero secondo la sua destinazione d’uso;
 - d. *manutenzione:* misure quali assistenza tecnica, aggiornamenti di software, ispezione, riparazione, preparazione per il primo utilizzo e ricondizionamento per il riutilizzo, il mantenimento o il ripristino dello stato funzionante di un dispositivo;
-- e. *fabbricante:* ogni persona fisica o giuridica che fabbrica o rimette a nuovo un dispositivo oppure lo fa progettare, fabbricare o rimettere a nuovo, e lo commercializza apponendovi il suo nome o marchio; sono fatte salve le precisazioni e le deroghe riportate all’articolo 16 paragrafi 1 e 2 del regolamento (UE) 2017/746[^4-1] (UE-IVDR);
+- e*.*[^4-1] *fabbricante:* ogni persona fisica o giuridica che fabbrica o rimette a nuovo un dispositivo oppure lo fa progettare, fabbricare o rimettere a nuovo, e lo commercializza apponendovi il suo nome o marchio; sono fatte salve le precisazioni e le deroghe riportate all’articolo 16 paragrafi 1 e 2 del regolamento (UE) 2017/746[^4-2] (UE-IVDR);
 - f. *mandatario:* ogni persona fisica o giuridica stabilita in Svizzera che riceve dal fabbricante, avente sede all’estero, un mandato scritto che la autorizza ad agire per conto del fabbricante in relazione a determinate attività per adempiere obblighi del fabbricante derivanti dalla presente ordinanza;
 - g. *importatore:* ogni persona fisica o giuridica stabilita in Svizzera che immette in commercio sul mercato svizzero un dispositivo proveniente dall’estero;
 - h. *distributore:* ogni persona fisica o giuridica nella catena di fornitura, diversa dal fabbricante o dall’importatore, che mette a disposizione sul mercato svizzero un dispositivo fino al momento della messa in servizio;
@@ -115,7 +115,8 @@ Nella presente ordinanza si intende per:
 
 <sup>2</sup> Si applicano inoltre le definizioni di cui all’articolo 2 punti 3, 5–19, 24, 30–41, 44–45, 49–56, 60–72 e 74 UE-IVDR.
 
-[^4-1]: Regolamento (UE) 2017/746 del Parlamento europeo e del Consiglio, del 5 aprile 2017, relativo ai dispositivi medico-diagnostici *in vitro e* che abroga la direttiva 98/79/CE e la decisione 2010/227/UE della Commissione, GU L 117 del 5.5.2017, pag. 176; modificato da ultimo dal regolamento (UE) 2022/112, GU L 19 del 28.1.2022, pag. 3.
+[^4-1]: Nuovo testo giusta l’all. n. 2 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^4-2]: Regolamento (UE) 2017/746 del Parlamento europeo e del Consiglio, del 5 aprile 2017, relativo ai dispositivi medico-diagnostici in vitro e che abroga la direttiva 98/79/CE e la decisione 2010/227/UE della Commissione, GU L 117 del 5.5.2017, pag. 176; modificato da ultimo dal regolamento (UE) 2023/607, GU L 80 del 20.3.2023, pag. 24.
 
 #### Art. 5
 
@@ -960,11 +961,12 @@ Il fabbricante di un dispositivo messo a disposizione sul mercato in Svizzera de
 
 <sup>1</sup> La dispensazione di dispositivi è conforme alla destinazione d’uso e alle indicazioni del fabbricante.
 
-<sup>2</sup> I dispositivi destinati a test autodiagnostici possono essere dispensati solo se il punto di consegna può garantire la consulenza specialistica e se sono soddisfatte le condizioni relative all’azienda. È fatto salvo l’articolo 9 della legge federale dell’8 ottobre 2004[^61-1] sugli esami genetici sull’essere umano.
+<sup>2</sup> I dispositivi destinati a test autodiagnostici possono essere dispensati, solo se il punto di consegna può garantire la consulenza specialistica e se sono soddisfatte le condizioni relative all’azienda. È fatto salvo l’articolo 13 della legge federale del 15 giugno 2018[^61-1] sugli esami genetici sull’essere umano.[^61-2]
 
 <sup>3</sup> La dispensazione al pubblico di dispositivi destinati a individuare malattie umane trasmissibili è vietata. Swissmedic può concedere deroghe nell’interesse della salute pubblica.
 
 [^61-1]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^61-2]: Nuovo testo giusta l’all. n. 2 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 
 #### Art. 62
 
@@ -1220,15 +1222,12 @@ A condizione che a partire dal 26 maggio 2022 continuino a corrispondere al diri
 
 <sup>2</sup> Per la sorveglianza post-commercializzazione dei dispositivi di cui al capoverso 1, la sorveglianza del mercato che li concerne, la vigilanza, la registrazione di operatori economici e di questi dispositivi vigono le disposizioni della presente ordinanza.
 
-<sup>3</sup> I dispositivi legittimamente immessi in commercio prima del 26 maggio 2022 secondo il diritto anteriore possono continuare a essere messi a disposizione sul mercato o messi in servizio fino al 26 maggio 2025.
+<sup>3</sup> I dispositivi legittimamente immessi in commercio prima del 26 maggio 2022 secondo il diritto anteriore e i dispositivi legittimamente immessi in commercio a partire dal 26 maggio 2022 conformemente al capoverso 1 possono continuare a essere messi a disposizione sul mercato o messi in servizio.[^82-1]
 
-<sup>4</sup>
+<sup>4</sup> ...[^82-2]
 
-I dispositivi legittimamente immessi in commercio a partire dal 26 maggio 2022 secondo il capoverso 1 possono continuare a essere messi a disposizione sul mercato o messi in servizio fino alle seguenti date:
-
-- a. i dispositivi di cui al capoverso 1 lettere a e b numero 1: fino al 26 maggio 2026;
-- b. i dispositivi di cui al capoverso 1 lettera b numero 2: fino al 26 maggio 2027;
-- c. i dispositivi di cui al capoverso 1 lettera b numeri 3 e 4: fino al 26 maggio 2028.
+[^82-1]: Nuovo testo giusta l’all. n. 2 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^82-2]: Abrogato dall’all. n. 2 dell’O del 29 set. 2023, con effetto dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 
 #### Art. 83
 
@@ -1477,11 +1476,11 @@ Allegato 4
 
 Il marchio di conformità è indicato nel modo seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20230901/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20231101/it/xml/image/image1.png)
 
 Se occorre fare ricorso a un organismo designato, oltre al marchio di conformità va indicato anche il numero d’identificazione di tale organismo.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20230901/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20231101/it/xml/image/image2.png)
 
 Allegato 5
 

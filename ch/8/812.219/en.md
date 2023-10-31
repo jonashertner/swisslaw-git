@@ -4,11 +4,11 @@ title: Ordinance of 26 May 2022 on In Vitro Diagnostic Medical Devices (IvDO)
 short: IvDO
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/291"
 language: en
-version: 2023-09-01
+version: 2023-11-01
 adopted: 2022-05-04
 in_force: 2022-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2022-291-20230901-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20231101/en/xml/fedlex-data-admin-ch-eli-cc-2022-291-20231101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20231101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (IvDO)
 
-of 4 May 2022 (Status as of 1 September 2023)
+of 4 May 2022 (Status as of 1 November 2023)
 
 The Swiss Federal Council,
 
@@ -108,7 +108,7 @@ In this Ordinance:
 - b. *placing on the market* means the first making available of a device, other than a device for performance study, on the Swiss market;
 - c. *putting into service* means the stage at which a device, other than a device for performance study, has been made available to the final user as being ready for use on the Swiss market for the first time for its intended purpose;
 - d. *maintenance* means measures such as preventive maintenance, software updates, inspection, repair, preparation for first use and reprocessing for reuse or measures to keep a device in functional condition or restore it to functional condition;
-- e. *manufacturer* means a natural or legal person who manufactures or fully refurbishes a device or has a device designed, manufactured or fully refurbished, and markets that device under its name or trademark; this definition is subject to the clarifying explanations and exceptions set out in Article 16 paragraphs 1 and 2 of Regulation (EU) 2017/746[^4-1] (EU-IVDR);
+- e.[^4-1] *manufacturer* means a natural or legal person who manufactures or fully refurbishes a device or has a device designed, manufactured or fully refurbished, and markets that device under its name or trademark; this definition is subject to the clarifying explanations and exceptions set out in Article 16 paragraphs 1 and 2 of Regulation (EU) 2017/746[^4-2] (EU-IVDR);
 - f. *authorised representative* means any natural or legal person domiciled in Switzerland who has received and accepted a written mandate from a manufacturer located abroad to act on the manufacturer's behalf in relation to specified tasks with regard to the latter's obligations under this Ordinance;
 - g. *importer* means any natural or legal person domiciled in Switzerland that places a device from abroad on the Swiss market;
 - h. *distributor* means any natural or legal person in the supply chain, other than the manufacturer or the importer, that makes a device available on the Swiss market, up until the point of putting into service;
@@ -120,7 +120,8 @@ In this Ordinance:
 
 <sup>2</sup> The definitions set out in Article 2 points 3, 5–19, 24, 30–41, 44–45, 49–56, 60–72 and 74 EU-IVDR also apply.
 
-[^4-1]: Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU, OJ L 117 of 5.5.2017, p. 176; last amended by Regulation (EU) 2022/112, OJ L 19 of 28.1.2022, p. 3.
+[^4-1]: Amended by Annex No 2 of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^4-2]: Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU, OJ L 117 of 5.5.2017, p. 176; last amended by Regulation (EU) 2023/607, OJ L 80 of 20.3.2023, p. 24.
 
 #### Art. 5
 
@@ -965,11 +966,12 @@ Manufacturers of devices made available on the market in Switzerland must report
 
 <sup>1</sup> Devices are supplied in accordance with their intended purpose and the information provided by the manufacturer.
 
-<sup>2</sup> Devices for self-testing may be supplied only if the dispensing point can guarantee that professional advice is available and that the operational requirements are satisfied. Article 9 of the Federal Act of 8 October 2004[^61-1] on Human Genetic Testing also applies.
+<sup>2</sup> Devices for self-testing may be supplied only if the dispensing point can guarantee that professional advice is available and that the operational requirements are satisfied. Article 13 of the Federal Act of 15 June 2018[^61-1] on Human Genetic Testing also applies.[^61-2]
 
 <sup>3</sup> Dispensing devices for the diagnosis of human communicable diseases to the general public is prohibited. Swissmedic may approve exceptions in the interests of public health.
 
 [^61-1]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^61-2]: Amended by Annex No 2 of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 
 #### Art. 62
 
@@ -1223,15 +1225,12 @@ Provided the following devices continue to comply with the old legislation as of
 
 <sup>2</sup> The post-market surveillance of devices specified in paragraph 1, their market surveillance, vigilance, registration of economic operators and of the devices themselves are subject to the provisions of this Ordinance.
 
-<sup>3</sup> Devices legally placed on the market prior to 26 May 2022 under the old legislation may continue to be made available on the market or put into service until 26 May 2025.
+<sup>3</sup> Devices legally placed on the market prior to 26 May 2022 under the old legislation and devices legally placed on the market in accordance with paragraph 1 from 26 May 2022 may continue to be made available on the market or put into service.[^82-1]
 
-<sup>4</sup>
+<sup>4</sup> …[^82-2]
 
-Devices legally placed on the market prior to 26 May 2022 in accordance with paragraph 1 may continue to be made available on the market or put into service until the following dates:
-
-- a. devices specified in paragraph 1 letters a and b point 1: until 26 May 2026;
-- b. devices specified in paragraph 1 letter b point 2: until 26 May 2027;
-- c. devices specified in paragraph 1 letter b points 3 and 4: until 26 May 2028.
+[^82-1]: Amended by Annex No 2 of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^82-2]: Repealed by Annex No 2 of the O of 29 Sept. 2023, with effect from 1 Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 
 #### Art. 83
 
@@ -1239,9 +1238,8 @@ Devices legally placed on the market prior to 26 May 2022 in accordance with par
 
 The requirements set out in Article 9 for devices manufactured and used in healthcare institutions shall apply from the following dates:
 
-a. the requirements set out in Article 5 paragraph 5 letters b, c and e-i EU-IVDR[^83-1]: from 26 May 2024;
-
-b. the requirements set out in Article 5 paragraph 5 letter d EU-IVDR: 26 May 2028.
+- a. the requirements set out in Article 5 paragraph 5 letters b, c and e-i EU-IVDR[^83-1]: from 26 May 2024;
+- b. the requirements set out in Article 5 paragraph 5 letter d EU-IVDR: 26 May 2028.
 
 [^83-1]: See the footnote to Art. 4 para. 1 let. e
 
@@ -1491,11 +1489,11 @@ Annex 4
 
 The conformity marking is as follows:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20230901/en/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20231101/en/xml/image/image1.png)
 
 Where a designated body has to be involved, its identification number is to be placed beside its conformity marking:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20230901/en/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20231101/en/xml/image/image2.png)
 
 Annex 5
 

@@ -4,11 +4,11 @@ title: Verordnung vom 4. Mai 2022 über In-vitro-Diagnostika (IvDV)
 short: IvDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/291"
 language: de
-version: 2023-09-01
+version: 2023-11-01
 adopted: 2022-05-04
 in_force: 2022-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2022-291-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20231101/de/xml/fedlex-data-admin-ch-eli-cc-2022-291-20231101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20231101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20230901/de"
 
 (IvDV)
 
-vom 4. Mai 2022 (Stand am 1. September 2023)
+vom 4. Mai 2022 (Stand am 1. November 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -103,7 +103,7 @@ In dieser Verordnung bedeuten:
 - b. *Inverkehrbringen*: erstmalige Bereitstellung eines Produkts auf dem Schweizer Markt, mit Ausnahme von Produkten für Leistungsstudien;
 - c. *Inbetriebnahme*: Zeitpunkt, zu dem erstmals ein gebrauchsfertiges Produkt, mit Ausnahme von Produkten für Leistungsstudien, den Endanwenderinnen und Endanwendern zur Verwendung auf dem Schweizer Markt entsprechend seiner Zweckbestimmung zur Verfügung gestellt wird;
 - d. *Instandhaltung:* Massnahmen wie Wartung, Softwareupdates, Inspektion, Reparatur, Vorbereitung zur Erstverwendung sowie Aufbereitung zur Wiederverwendung, zur Erhaltung oder Wiederherstellung des funktionsfähigen Zustandes eines Produkts;
-- e. *Hersteller:* jede natürliche oder juristische Person, die ein Produkt herstellt oder neu aufbereitet oder entwickeln, herstellen oder neu aufbereiten lässt und dieses Produkt unter ihrem eigenen Namen oder ihrer eigenen Marke vermarktet; die in Artikel 16 Absätze 1 und 2 der Verordnung (EU) 2017/746[^4-1] (EU-IVDR) aufgeführten Präzisierungen und Ausnahmen bleiben vorbehalten;
+- e.[^4-1] *Hersteller:* jede natürliche oder juristische Person, die ein Produkt herstellt oder neu aufbereitet oder entwickeln, herstellen oder neu aufbereiten lässt und dieses Produkt unter ihrem eigenen Namen oder ihrer eigenen Marke vermarktet; die in Artikel 16 Absätze 1 und 2 der Verordnung (EU) 2017/746[^4-2] (EU-IVDR) aufgeführten Präzisierungen und Ausnahmen bleiben vorbehalten;
 - f. *Bevollmächtigter:* jede in der Schweiz niedergelassene natürliche oder juristische Person, die von einem im Ausland ansässigen Hersteller schriftlich beauftragt wird, in seinem Namen bestimmte Aufgaben in Erfüllung von sich aus dieser Verordnung ergebenden Pflichten des Herstellers wahrzunehmen;
 - g. *Importeur:* jede in der Schweiz niedergelassene natürliche oder juristische Person, die ein Produkt aus dem Ausland auf dem Schweizer Markt in Verkehr bringt;
 - h. *Händler*: jede natürliche oder juristische Person in der Lieferkette, die ein Produkt bis zum Zeitpunkt der Inbetriebnahme auf dem Schweizer Markt bereitstellt, mit Ausnahme des Herstellers oder des Importeurs;
@@ -115,7 +115,8 @@ In dieser Verordnung bedeuten:
 
 <sup>2</sup> Es gelten zudem die Begriffe nach Artikel 2 Ziffern 3, 5–19, 24, 30–41, 44–45, 49–56, 60–72 und 74 EU-IVDR.
 
-[^4-1]: Verordnung (EU) 2017/746 des Europäischen Parlaments und des Rates vom 5. April 2017 über *In-vitro*-Diagnostika und zur Aufhebung der Richtlinie 98/79/EG und des Beschlusses 2010/227/EU der Kommission, ABl. L 117 vom 5.5.2017, S. 176; zuletzt geändert durch Verordnung (EU) 2022/112, ABl. L 19 vom 28.1.2022, S. 3.
+[^4-1]: Fassung gemäss Anhang Ziff. 2 der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^4-2]: Verordnung (EU) 2017/746 des Europäischen Parlaments und des Rates vom 5. April 2017 über In-vitro-Diagnostika und zur Aufhebung der Richtlinie 98/79/EG und des Beschlusses 2010/227/EU der Kommission, ABl. L 117 vom 5.5.2017, S. 176; zuletzt geändert durch Verordnung (EU) 2023/607, ABl. L 80 vom 20.3.2023, S. 24.
 
 #### Art. 5
 
@@ -960,11 +961,12 @@ Der Hersteller eines in der Schweiz auf dem Markt bereitgestellten Produkts muss
 
 <sup>1</sup> Die Abgabe von Produkten richtet sich nach der Zweckbestimmung und den Angaben des Herstellers.
 
-<sup>2</sup> Produkte zur Eigenanwendung dürfen nur abgegeben werden, wenn die Abgabestelle die fachliche Beratung gewährleisten kann und die betrieblichen Voraussetzungen erfüllt sind. Artikel 9 des Bundesgesetzes vom 8. Oktober 2004[^61-1] über genetische Untersuchungen beim Menschen bleibt vorbehalten.
+<sup>2</sup> Produkte zur Eigenanwendung dürfen nur abgegeben werden, wenn die Abgabestelle die fachliche Beratung gewährleisten kann und die betrieblichen Voraussetzungen erfüllt sind. Artikel 13 des Bundesgesetzes vom 15. Juni 2018[^61-1] über genetische Untersuchungen beim Menschen bleibt vorbehalten.[^61-2]
 
 <sup>3</sup> Die Abgabe von Produkten zur Erkennung von übertragbaren Krankheiten des Menschen an das Publikum ist verboten. Die Swissmedic kann im Interesse der öffentlichen Gesundheit Ausnahmen bewilligen.
 
 [^61-1]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^61-2]: Fassung gemäss Anhang Ziff. 2 der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 
 #### Art. 62
 
@@ -1220,15 +1222,12 @@ Sofern folgende Produkte ab dem 26. Mai 2022 weiterhin dem bisherigen Recht ents
 
 <sup>2</sup> Für die Überwachung nach dem Inverkehrbringen der Produkte nach Absatz 1, deren Marktüberwachung, die Vigilance, die Registrierung von Wirtschaftsakteuren und dieser Produkte gelten die Bestimmungen der vorliegenden Verordnung.
 
-<sup>3</sup> Produkte, die vor dem 26. Mai 2022 nach bisherigem Recht rechtmässig in Verkehr gebracht worden sind, können bis zum 26. Mai 2025 weiter auf dem Markt bereitgestellt oder in Betrieb genommen werden.
+<sup>3</sup> Produkte, die vor dem 26. Mai 2022 nach bisherigem Recht rechtmässig in Verkehr gebracht worden sind und Produkte, die ab dem 26. Mai 2022 gemäss Absatz 1 rechtmässig in Verkehr gebracht wurden, können weiter auf dem Markt bereitgestellt oder in Betrieb genommen werden.[^82-1]
 
-<sup>4</sup>
+<sup>4</sup> …[^82-2]
 
-Produkte, die ab dem 26. Mai 2022 gemäss Absatz 1 rechtmässig in Verkehr gebracht wurden, können bis zu den folgenden Zeitpunkten weiter auf dem Markt bereitgestellt oder in Betrieb genommen werden:
-
-- a. Produkte nach Absatz 1 Buchstaben a und b Ziffer 1: bis zum 26. Mai 2026;
-- b. Produkte nach Absatz 1 Buchstabe b Ziffer 2: bis zum 26. Mai 2027;
-- c. Produkte nach Absatz 1 Buchstabe b Ziffern 3 und 4: bis zum 26. Mai 2028.
+[^82-1]: Fassung gemäss Anhang Ziff. 2 der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^82-2]: Aufgehoben durch Anhang Ziff. 2 der V vom 29. Sept. 2023, mit Wirkung seit 1. Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 
 #### Art. 83
 
@@ -1477,11 +1476,11 @@ Anhang 4
 
 Für die Angabe des Konformitätskennzeichens gilt folgende Darstellung:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20230901/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20231101/de/xml/image/image1.png)
 
 Sofern eine bezeichnete Stelle beigezogen werden muss, ist neben ihrem Konformitätskennzeichen auch ihre Kennnummer anzugeben.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20230901/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20231101/de/xml/image/image2.png)
 
 Anhang 5
 

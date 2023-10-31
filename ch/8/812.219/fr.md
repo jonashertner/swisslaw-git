@@ -4,11 +4,11 @@ title: Ordonnance du 4 mai 2022 sur les dispositifs médicaux de diagnostic in v
 short: ODiv
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/291"
 language: fr
-version: 2023-09-01
+version: 2023-11-01
 adopted: 2022-05-04
 in_force: 2022-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2022-291-20230901-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20231101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-291-20231101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20231101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20230901/fr"
 
 (ODiv)
 
-du 4 mai 2022 (État le 1<sup>er</sup> septembre 2023)
+du 4 mai 2022 (État le 1<sup>er</sup> novembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -103,7 +103,7 @@ On entend par:
 - b. *mise sur le marché:* la première mise à disposition sur le marché suisse d’un dispositif, autre qu’un dispositif faisant l’objet d’une étude des performances;
 - c. *mise en service:* le stade auquel un dispositif prêt à être utilisé, autre qu’un dispositif faisant l’objet d’une étude des performances, est mis à la disposition des utilisateurs finaux pour être utilisé pour la première fois sur le marché suisse conformément à sa destination;
 - d. *maintenance**:* des mesures telles que l’entretien, les mises à jour logicielles, les inspections, les réparations, la préparation à la première utilisation et les retraitements en vue de réutiliser, de maintenir ou de rétablir le bon fonctionnement d’un dispositif;
-- e. *fabricant**:* toute personne physique ou morale qui fabrique ou remet à neuf un dispositif ou le fait concevoir, fabriquer ou remettre à neuf et qui le commercialise sous son nom ou sous sa marque, sous réserve des précisions et exceptions énoncées à l’art. 16, par. 1 et 2, du règlement (UE) 2017/746 (RDIV-UE)[^4-1];
+- e.[^4-1] *fabricant*: toute personne physique ou morale qui fabrique ou remet à neuf un dispositif ou le fait concevoir, fabriquer ou remettre à neuf et qui le commercialise sous son nom ou sous sa marque, sous réserve des précisions et exceptions énoncées à l’art. 16, par. 1 et 2, du règlement (UE) 2017/746 (RDIV-UE)[^4-2];
 - f. *mandataire**:* toute personne physique ou morale établie en Suisse recevant le mandat écrit d’un fabricant sis à l’étranger pour agir pour le compte du fabricant aux fins de l’accomplissement de tâches déterminées liées aux obligations incombant à ce dernier en vertu de la présente ordonnance;
 - g. *importateur**:* toute personne physique ou morale établie en Suisse qui met sur le marché suisse un dispositif provenant de l’étranger;
 - h. *distributeur:* toute personne physique ou morale faisant partie de la chaîne d’approvisionnement, autre que le fabricant ou l’importateur, qui met un dispositif à disposition sur le marché suisse, jusqu’au stade de sa mise en service;
@@ -115,7 +115,8 @@ On entend par:
 
 <sup>2</sup> Au surplus, les définitions de l’art. 2, ch. 3, 5 à 19, 24, 30 à 41, 44 et 45, 49 à 56, 60 à 72, et 74, RDIV-UE sont applicables.
 
-[^4-1]: Règlement (UE) 2017/746 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux de diagnostic *in vitro* et abrogeant la directive 98/79/CE et la décision 2010/227/UE de la Commission, JO L 117 du 5.5.2017, p. 176; modifié en dernier lieu par le règlement (UE) 2022/112, JO L 19 du 28.1.2022, p. 3.
+[^4-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^4-2]: Règlement (UE) 2017/746 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux de diagnostic in vitro et abrogeant la directive 98/79/CE et la décision 2010/227/UE de la Commission, JO L 117 du 5.5.2017, p. 176; modifié en dernier lieu par le règlement (UE) 2023/607, JO L 80 du 20.3.2023, p. 24.
 
 #### Art. 5
 
@@ -960,11 +961,12 @@ Le fabricant d’un dispositif mis à disposition sur le marché en Suisse est t
 
 <sup>1</sup> Les dispositifs sont remis conformément à la destination prévue et aux indications fournies par le fabricant.
 
-<sup>2</sup> Les dispositifs d’autodiagnostic ne peuvent être remis que si le point de remise est à même de garantir un conseil spécialisé et qu’il satisfait aux exigences relatives à l’exploitation. L’art. 9 de la loi fédérale du 8 octobre 2004 sur l’analyse génétique humaine[^61-1] est réservé.
+<sup>2</sup> Les dispositifs d’autodiagnostic ne peuvent être remis que si le point de remise est à même de garantir un conseil spécialisé et qu’il satisfait aux exigences relatives à l’exploitation. L’art. 13 de la loi fédérale du 15 juin 2018 sur l’analyse génétique humaine[^61-1] est réservé.[^61-2]
 
 <sup>3</sup> La remise au public de dispositifs destinés à détecter des maladies humaines transmissibles est interdite. Swissmedic peut accorder des dérogations dans l’intérêt de la santé publique.
 
 [^61-1]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^61-2]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 
 #### Art. 62
 
@@ -1218,15 +1220,12 @@ Les dispositifs suivants peuvent être mis sur le marché ou mis en service jusq
 
 <sup>2</sup> Les dispositions de la présente ordonnance s’appliquent à la surveillance après commercialisation des dispositifs visés à l’al. 1, à la surveillance du marché, à la vigilance ainsi qu’à l’enregistrement des opérateurs économiques et de ces dispositifs.
 
-<sup>3</sup> Les dispositifs mis légalement sur le marché avant le 26 mai 2022 en vertu de l’ancien droit peuvent continuer à être mis à disposition sur le marché ou mis en service jusqu’au 26 mai 2025.
+<sup>3</sup> Les dispositifs mis légalement sur le marché avant le 26 mai 2022 en vertu de l’ancien droit et les dispositifs mis légalement sur le marché à compter du 26 mai 2022 conformément à l’al. 1 peuvent continuer à être mis à disposition sur le marché ou mis en service.[^82-1]
 
-<sup>4</sup>
+<sup>4</sup> …[^82-2]
 
-Les dispositifs mis légalement sur le marché à partir du 26 mai 2022 en vertu de l’al. 1 peuvent continuer à être mis à disposition sur le marché ou mis en service jusqu’aux dates suivantes:
-
-- a. dispositifs visés à l’al. 1, let. a et b, ch. 1, jusqu’au 26 mai 2026;
-- b. dispositifs visés à l’al. 1, let. b, ch. 2, jusqu’au 26 mai 2027;
-- c. dispositifs visés à l’al. 1, let. b, ch. 3 et 4, jusqu’au 26 mai 2028.
+[^82-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^82-2]: Abrogé par l’annexe ch. 2 de l’O du 29 sept. 2023, avec effet au 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 
 #### Art. 83
 
@@ -1475,11 +1474,11 @@ Annexe 4
 
 La représentation graphique du marquage de conformité est la suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20230901/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20231101/fr/xml/image/image1.png)
 
 En cas de recours à un organisme désigné, le numéro d’identification de l’organisme est ajouté à côté du marquage de conformité.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20230901/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20231101/fr/xml/image/image2.png)
 
 Annexe 5
 
