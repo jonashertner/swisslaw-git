@@ -4,7 +4,7 @@ number: "840.15.1"
 title: "RÈGLEMENT du 25.10.2017 d'application de la loi du 10 mai 2016 sur la préservation et la promotion du parc locatif (RLPPPL)"
 short: RLPPPL
 language: fr
-version: 2022-07-01
+version: 2023-11-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/840.15.1?id=774e397c-e591-45d8-877b-82a91b77b647"
 ---
 
@@ -376,10 +376,71 @@ Zone géographique / Collocation de la commune VI V IV III II I Type CHF m2/an C
 
 <sup>2</sup> Les nouvelles SUP selon la norme SIA 416 édition 2003 construites sur un bien-fonds acquis au moyen du droit de préemption prévu par les articles 31 et suivants de la loi doivent être vouées aux LUP au moins à 75%, sous réserve du cas d'application de l'article 35, alinéa 2 de la loi.
 
-<sup>3</sup> La commune ayant préempté des logements existants dispose d'un délai de 3 ans pour en faire reconnaitre le caractère d'utilité publique. Sur demande motivée, le département peut prolonger ce délai de 2 ans au maximum.
+<sup>3</sup> La commune ayant préempté des logements existants dispose d'un délai de 3 ans pour en faire reconnaître le caractère d'utilité publique. Sur demande motivée, le département peut prolonger ce délai de 2 ans au maximum. Le délai court à compter de la date d'inscription du transfert de propriété au registre foncier.
 
-[^33-1]: Modif. 3 du 01.11.2023: Modification Al. 3; entrée en vigueur au 01.11.2023; Introduction Art. 34b; entrée en vigueur au 01.11.2023; Introduction Art. 34c; entrée en vigueur au 01.11.2023; Introduction Art. 34d; entrée en vigueur au 01.11.2023; Introduction Art. 34e; entrée en vigueur au 01.11.2023; Introduction Art. 34f; entrée en vigueur au 01.11.2023; Introduction Art. 34g; entrée en vigueur au 01.11.2023; Introduction Art. 34h; entrée en vigueur au 01.11.2023
+[^33-1]: Modif. 3 du 01.11.2023: Modification Al. 3; entrée en vigueur au 01.11.2023
 [^34-1]: Loi du 10.05.2016 sur la préservation et la promotion du parc locatif [(BLV 840.15](https://prestations.vd.ch/pub/blv-publication/actes/consolide/840.15?id=14afeef2-d9bb-4c90-8e7c-0fd8ea446202)
+
+#### Art. 34b
+
+**Documents à fournir à la commune [^34-2]**
+
+<sup>1</sup> Lorsque la commune préempte un bien-fonds sur lequel existe un bâtiment, les documents minimums à fournir à la commune avec l'avis de l'acte de vente sont :
+
+- a. La police assurance incendie (ECA) avec le détail des volumes et des coûts,
+- b. L'état locatif en vigueur lors de la vente (listing de gérance, etc.),
+- c. Le rapport OIBT,
+- d. Le CECB.
+
+[^34-2]: Modif. 3 du 01.11.2023: Introduction tArt; entrée en vigueur au 01.11.2023; Introduction Al. 1; entrée en vigueur au 01.11.2023; Introduction Art. 34b; entrée en vigueur au 01.11.2023
+
+#### Art. 34c
+
+**Droit de réméré et droit d'emption de l'acquéreur évincé - délai [^34b-1]**
+
+<sup>1</sup> Le délai de trois ans dont dispose la commune pour mettre à disposition d'un tiers le bien-fonds ou déposer une demande de permis de construire ou celui de cinq ans dont la commune dispose pour déposer un projet à l'examen préalable lorsque la demande nécessite une adaptation du plan d'affectation courent à compter de la date de l'inscription du transfert de propriété au registre foncier.
+
+[^34b-1]: Modif. 3 du 01.11.2023: Introduction tArt; entrée en vigueur au 01.11.2023; Introduction Al. 1; entrée en vigueur au 01.11.2023; Introduction Art. 34c; entrée en vigueur au 01.11.2023
+
+#### Art. 34d
+
+**Avis au département en cas d'exercice du droit de préemption [^34c-1]**
+
+<sup>1</sup> A des fins statistiques la commune informe le département lorsqu'elle exerce son droit de préemption. Lorsque la commune préempte un bien-fonds sur lequel existe un bâtiment, elle transmet au département les documents reçus des parties en vertu de l'article 34b.
+
+[^34c-1]: Modif. 3 du 01.11.2023: Introduction Art. 34d; entrée en vigueur au 01.11.2023
+
+#### Art. 34e
+
+**Adjudication publique [^34d-1]**
+
+<sup>1</sup> Une fois qu'elle a acquis un bien-fonds au moyen de son droit de préemption, la commune qui souhaite le mettre à disposition d'un tiers, conformément à l'article 35, alinéa 2 LPPPL, doit procéder à une procédure d'adjudication publique visant la création de LUP. L'adjudication peut définir des conditions de réalisation des LUP (p.ex. niveau de performance énergétique, niveau de loyers, types de LUP).
+
+[^34d-1]: Modif. 3 du 01.11.2023: Introduction tArt; entrée en vigueur au 01.11.2023; Introduction Al. 1; entrée en vigueur au 01.11.2023; Introduction Art. 34e; entrée en vigueur au 01.11.2023
+
+#### Art. 34f
+
+**Vente de lots de propriété par étages ou de parts de copropriété [^34e-1]**
+
+<sup>1</sup> La vente d'un lot de propriété par étages ou d'une part de copropriété n'ouvre pas la voie au droit de préemption à moins que l'acte de vente porte sur la vente simultanée à un même acquéreur de la totalité des lots de la propriété par étages ou des parts de copropriété.
+
+[^34e-1]: Modif. 3 du 01.11.2023: Introduction tArt; entrée en vigueur au 01.11.2023; Introduction Al. 1; entrée en vigueur au 01.11.2023; Introduction Art. 34f; entrée en vigueur au 01.11.2023
+
+#### Art. 34g
+
+**Vente d'une pluralité d'immeubles [^34f-1]**
+
+<sup>1</sup> Le droit de préemption peut s'exercer en cas de vente en lien avec un bien-fonds spécifique, même si celui-ci fait partie d'un portefeuille ou d'une vente en bloc de divers biens immobiliers, situés ou non sur le territoire d'une même commune.
+
+[^34f-1]: Modif. 3 du 01.11.2023: Introduction Art. 34g; entrée en vigueur au 01.11.2023
+
+#### Art. 34h
+
+**Exercice du droit de préemption en cas de droit de superficie [^34g-1]**
+
+<sup>1</sup> La constitution d'un droit distinct et permanent de superficie n'ouvre pas la voie au droit de préemption. En revanche, la vente d'un immeuble qui fait l'objet du droit de superficie est soumise au droit de préemption, si les conditions matérielles de l'article 31, alinéa 2 sont remplies.
+
+[^34g-1]: Modif. 3 du 01.11.2023: Introduction tArt; entrée en vigueur au 01.11.2023; Introduction Al. 1; entrée en vigueur au 01.11.2023; Introduction Art. 34h; entrée en vigueur au 01.11.2023
 
 ## Chapitre III Dispositions finales
 
