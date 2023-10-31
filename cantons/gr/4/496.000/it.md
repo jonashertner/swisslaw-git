@@ -4,13 +4,13 @@ number: "496.000"
 title: Legge sulla protezione della natura e del paesaggio del Cantone dei Grigioni
 short: "Legge cantonale sulla protezione della natura e del paesaggio, LCNP"
 language: it
-version: 2013-01-01
-corrected: 2018-01-16
-version_adopted: 2012-11-06
+version: 2023-11-01
+valid_until: 2024-12-31
+version_adopted: 2022-10-17
 adopted: 2010-10-19
 in_force: 2011-05-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/496.000"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2354/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3341/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2354/pdf_file"
 
 (Legge cantonale sulla protezione della natura e del paesaggio, LCNP)
 
-del 19.10.2010 (stato 01.01.2013)
+del 19.10.2010 (stato 01.11.2023)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -82,6 +82,8 @@ decide:
 <sup>1</sup> Il Cantone allestisce e gestisce, dopo segnalazione agli enti interessati, inventari cantonali degli oggetti degni di protezione (oggetti da proteggere). Gli inventari vengono aggiornati periodicamente e adeguati alle condizioni mutate.
 
 <sup>2</sup> L'inserimento di un oggetto in un inventario cantonale si basa su criteri come rarità, diversità, esposizione a pericoli, singolarità, valori estetici, ubicazione, dimensioni, funzione ecologica e importanza scientifica.
+
+<sup>2<sup>bis</sup></sup> Oltre ai criteri menzionati nell'articolo 4 capoverso 2, l'inserimento di un oggetto nell'inventario cantonale delle costruzioni richiede un valore estremamente elevato dal punto di vista scientifico, culturale o della storia locale (devono essere soddisfatti cumulativamente due criteri su tre).
 
 <sup>3</sup> Gli inventari comprendono una descrizione degli oggetti, degli obiettivi di protezione, dei criteri determinanti per la loro classificazione, nonché il loro stato di protezione.
 
@@ -304,7 +306,7 @@ decide:
 
 #### Art. 25
 
-**Inventario cantonale**
+**Inventario cantonale delle costruzioni**
 
 <sup>1</sup> Il Cantone allestisce e tiene un inventario cantonale degli edifici e degli impianti degni di protezione.
 

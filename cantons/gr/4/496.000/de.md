@@ -4,13 +4,13 @@ number: "496.000"
 title: Gesetz über den Natur- und Heimatschutz im Kanton Graubünden
 short: "Kantonales Natur- und Heimatschutzgesetz, KNHG"
 language: de
-version: 2013-01-01
-corrected: 2018-01-16
-version_adopted: 2012-11-06
+version: 2023-11-01
+valid_until: 2024-12-31
+version_adopted: 2022-10-17
 adopted: 2010-10-19
 in_force: 2011-05-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/496.000"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2354/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3341/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2354/pdf_file"
 
 (Kantonales Natur- und Heimatschutzgesetz, KNHG)
 
-Vom 19.10.2010 (Stand 01.01.2013)
+Vom 19.10.2010 (Stand 01.11.2023)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -82,6 +82,8 @@ beschliesst:
 <sup>1</sup> Der Kanton erstellt und führt nach Anzeige an die betroffenen Körperschaften kantonale Inventare der schutzwürdigen Objekte (Schutzobjekte). Die Inventare werden periodisch nachgeführt und den veränderten Verhältnissen angepasst.
 
 <sup>2</sup> Die Aufnahme eines Objektes in ein kantonales Inventar stützt sich auf Kriterien wie Seltenheit, Vielfalt, Gefährdung, Eigenart, ästhetische Werte, Lage, Grösse, ökologische Funktion und wissenschaftliche Bedeutung.
+
+<sup>2<sup>bis</sup></sup> Neben den in Artikel 4 Absatz 2 genannten Kriterien bedarf die Aufnahme eines Objekts in das kantonale Bauinventar eines äusserst hohen wissenschaftlichen, kulturellen oder heimatkundlichen Werts (zwei von drei Kriterien müssen kumulativ erfüllt sein).
 
 <sup>3</sup> Die Inventare enthalten eine Umschreibung der Objekte, der Schutzziele, der massgeblichen Kriterien für ihre Einstufung sowie ihres Schutzstatus.
 
@@ -179,7 +181,7 @@ beschliesst:
 
 **2. Ersatzabgabe**
 
-<sup>1</sup> Ist es den Verursachenden des Eingriffs nicht möglich oder zumutbar, für Realersatz zu sorgen, werden Sie von der zuständigen Behörde verpflichtet, eine Ersatzabgabe zu leisten.
+<sup>1</sup> Ist es den Verursachenden des Eingriffs nicht möglich oder zumutbar, für Realersatz zu sorgen, werden sie von der zuständigen Behörde verpflichtet, eine Ersatzabgabe zu leisten.
 
 <sup>2</sup> Die für die Bewilligung des Eingriffs zuständige Behörde legt auf Antrag der Fachstelle die Höhe der Ersatzabgabe fest. Diese richtet sich nach den Aufwendungen für Realersatz.
 
@@ -304,7 +306,7 @@ beschliesst:
 
 #### Art. 25
 
-**Kantonales Inventar**
+**Kantonales Bauinventar**
 
 <sup>1</sup> Der Kanton erstellt und führt ein Inventar der schutzwürdigen Bauten und Anlagen.
 

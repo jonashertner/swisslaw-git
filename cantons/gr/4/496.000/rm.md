@@ -4,13 +4,13 @@ number: "496.000"
 title: Lescha davart la protecziun da la natira e da la patria en il chantun Grischun
 short: "lescha chantunala davart la protecziun da la natira e da la patria, LNPGR"
 language: rm
-version: 2013-01-01
-corrected: 2018-01-16
-version_adopted: 2012-11-06
+version: 2023-11-01
+valid_until: 2024-12-31
+version_adopted: 2022-10-17
 adopted: 2010-10-19
 in_force: 2011-05-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/496.000"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2354/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3341/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2354/pdf_file"
 
 (lescha chantunala davart la protecziun da la natira e da la patria, LNPGR)
 
-dals 19-10-2010 (versiun dals 01-01-2013)
+dals 19-10-2010 (versiun dals 01-11-2023)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -82,6 +82,8 @@ concluda:
 <sup>1</sup> Il chantun fa e maina – suenter avair avisà las corporaziuns pertutgadas – inventaris chantunals dals objects ch'èn degns da vegnir protegids (objects da proteger). Ils inventaris vegnan actualisads ed adattads periodicamain a las relaziuns midadas.
 
 <sup>2</sup> L'inscripziun d'in object en in inventari chantunal sa basa sin criteris sco raritad, diversitad, periclitaziun, particularitad, valurs esteticas, posiziun, grondezza, funcziun ecologica ed impurtanza scientifica.
+
+<sup>2<sup>bis</sup></sup> Ultra dals criteris numnads en l'artitgel 4 alinea 2 sto in object avair ina valur ordvart auta areguard la scienza, areguard la cultura u areguard l'istorgia locala per pudair vegnir inscrit en l'Inventari chantunal dals edifizis (dus dals trais criteris ston esser ademplids en moda cumulativa).
 
 <sup>3</sup> Ils inventaris cuntegnan ina descripziun dals objects, da las finamiras da protecziun, dals criteris ch'èn decisivs per lur classificaziun sco er da lur status da protecziun.
 
@@ -304,7 +306,7 @@ concluda:
 
 #### Art. 25
 
-**Inventari chantunal**
+**Inventari chantunal dals edifizis**
 
 <sup>1</sup> Il chantun fa e maina in inventari dals edifizis e dals stabiliments degns da vegnir protegids.
 
