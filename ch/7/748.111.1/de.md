@@ -4,11 +4,11 @@ title: Verordnung vom 23. März 2005 über die Wahrung der Lufthoheit (VWL)
 short: VWL
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/284"
 language: de
-version: 2022-01-01
+version: 2023-11-01
 adopted: 2005-03-23
 in_force: 2005-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/284/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2005-284-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/284/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/284/20231101/de/xml/fedlex-data-admin-ch-eli-cc-2005-284-20231101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/284/20231101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/284/20220101/de"
 
 (VWL)
 
-vom 23. März 2005 (Stand am 1. Januar 2022)
+vom 23. März 2005 (Stand am 1. November 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -64,7 +64,9 @@ In dieser Verordnung bedeuten:
 
 <sup>1</sup> Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS) legt im Einvernehmen mit dem Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) fest, wie der Luftraum zu überwachen ist und welche Massnahmen zur Wahrung der Lufthoheit und gegen schwer wiegende Verletzungen der Luftverkehrsregeln zu treffen sind.
 
-<sup>2</sup> Bei der Umsetzung dieser Massnahmen arbeiten das Bundesamt für Zivilluftfahrt (BAZL) und die Luftwaffe zusammen und unterstützen sich gegenseitig.
+<sup>2</sup> Bei der Umsetzung dieser Massnahmen arbeiten das Bundesamt für Zivilluftfahrt (BAZL), die Military Aviation Authority (MAA) sowie die Luftwaffe zusammen und unterstützen sich gegenseitig.[^3-1]
+
+[^3-1]: Fassung gemäss Anhang Ziff. 1 der V vom 22. Sept. 2023 über die Militärluftfahrt, in Kraft seit 1. Nov. 2023 ([AS 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 #### Art. 4
 
@@ -72,7 +74,7 @@ In dieser Verordnung bedeuten:
 
 <sup>1</sup> Ausländische Militär- und andere Staatsluftfahrzeuge dürfen nur mit einer Bewilligung (diplomatic clearance) schweizerisches Hoheitsgebiet überfliegen oder auf schweizerischem Hoheitsgebiet landen.
 
-<sup>2</sup> Das BAZL erteilt unter Vorbehalt von Absatz 4 die Bewilligungen für Überflüge und Landungen nach dem Anhang. Es erteilt sie in Absprache mit der Direktion für Völkerrecht, der Luftwaffe und dem Staatssekretariat für Wirtschaft, soweit diese Stellen betroffen sind.
+<sup>2</sup> Das BAZL erteilt unter Vorbehalt von Absatz 4 die Bewilligungen für Überflüge und Landungen nach dem Anhang. Es erteilt sie in Absprache mit der Direktion für Völkerrecht, der MAA, der Luftwaffe und dem Staatssekretariat für Wirtschaft, soweit diese Stellen betroffen sind.[^4-2]
 
 <sup>3</sup> Ausserhalb der Bürozeiten erteilt die Luftwaffe anstelle des BAZL die Bewilligungen. Die Voraussetzungen der Bewilligungserteilung gemäss Absatz 2 sind anwendbar. In nicht aufschiebbaren Fällen entscheidet die Luftwaffe und orientiert umgehend die beteiligten Stellen nach Absatz 2.
 
@@ -81,6 +83,7 @@ In dieser Verordnung bedeuten:
 <sup>5</sup> Bei Landungen und Abflügen bleiben die zollrechtlichen Bestimmungen vorbehalten.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 14. März 2014, in Kraft seit 1. April 2014 ([AS 2014 701](https://fedlex.data.admin.ch/eli/oc/2014/148)).
+[^4-2]: Fassung gemäss Anhang Ziff. 1 der V vom 22. Sept. 2023 über die Militärluftfahrt, in Kraft seit 1. Nov. 2023 ([AS 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 ## 2. Abschnitt: Überwachung, Kontrolle und Massnahmen
 
@@ -98,9 +101,9 @@ In dieser Verordnung bedeuten:
 
 **Kontrolle**
 
-<sup>1</sup> Das BAZL kontrolliert die Einhaltung der zivilen Luftverkehrsregeln.
+<sup>1</sup> Das BAZL kontrolliert die Einhaltung der zivilen Luftverkehrsregeln, die MAA die Einhaltung der militärischen Luftverkehrsregeln.[^6-1]
 
-<sup>2</sup> Die Organe der Flugsicherung kontrollieren im Rahmen ihrer technischen und betrieblichen Möglichkeiten die Einhaltung der Luftverkehrsregeln durch den zivilen und den militärischen Flugverkehr. Sie informieren die Luftwaffe umgehend, wenn Hinweise dafür bestehen, dass die Lufthoheit verletzt wird oder die Luftverkehrsregeln in schwerer Weise missachtet werden.[^6-1]
+<sup>2</sup> Die Organe der Flugsicherung kontrollieren im Rahmen ihrer technischen und betrieblichen Möglichkeiten die Einhaltung der Luftverkehrsregeln durch den zivilen und den militärischen Flugverkehr. Sie informieren die Luftwaffe umgehend, wenn Hinweise dafür bestehen, dass die Lufthoheit verletzt wird oder die Luftverkehrsregeln in schwerer Weise missachtet werden.[^6-2]
 
 <sup>3</sup>
 
@@ -109,7 +112,8 @@ Bei Flügen, für die Flugverkehrsleitdienst gewährleistet wird, kontrollieren 
 - a. die erteilten Freigaben zur Vermeidung des Überfluges von Gebieten mit militärischen Aktivitäten eingehalten werden;
 - b. die mit den Überflugsrechten für ausländische Staatsluftfahrzeuge verknüpften Auflagen eingehalten werden.
 
-[^6-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7561](https://fedlex.data.admin.ch/eli/oc/2017/819)).
+[^6-1]: Fassung gemäss Anhang Ziff. 1 der V vom 22. Sept. 2023 über die Militärluftfahrt, in Kraft seit 1. Nov. 2023 ([AS 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
+[^6-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7561](https://fedlex.data.admin.ch/eli/oc/2017/819)).
 
 #### Art. 7
 
@@ -117,20 +121,22 @@ Bei Flügen, für die Flugverkehrsleitdienst gewährleistet wird, kontrollieren 
 
 <sup>1</sup> Die Luftwaffe entscheidet über die Durchführung von luftpolizeilichen Massnahmen. Sie kann diese Befugnis ganz oder teilweise den Organen der Flugsicherung übertragen.
 
-<sup>2</sup> Das BAZL kann der Luftwaffe die Durchführung luftpolizeilicher Massnahmen beantragen.
+<sup>2</sup> Das BAZL und die MAA können der Luftwaffe die Durchführung luftpolizeilicher Massnahmen beantragen.[^7-1]
 
 <sup>3</sup> Gegen Luftfahrzeuge, welche die Lufthoheit verletzen oder die Luftverkehrsregeln in schwer wiegender Weise verletzen, greift die Luftwaffe, falls andere Massnahmen nicht ausreichen, im Rahmen ihrer technischen und betrieblichen Möglichkeiten zu den Mitteln der Intervention; insbesondere fängt sie sie zur Identifikation ab und zwingt sie gegebenenfalls zum Verlassen des Luftraumes oder zur Landung auf einem geeigneten Flugplatz.
 
 <sup>4</sup> Beim Abfangen von Luftfahrzeugen ist der Flugsicherheit erhöhte Beachtung zu schenken. Gegenüber zivilen Luftfahrzeugen ist die Gefährdung von Menschenleben unter allen Umständen zu vermeiden.
 
-<sup>5</sup> Für luftpolizeiliche Massnahmen gelten die für die Schweiz verbindlichen Normen der Anhänge[^7-1] zum Übereinkommen vom 7. Dezember 1944[^7-2] über die internationale Zivilluftfahrt. Im Übrigen ist der jeweilige Stand der Technik massgebend, wie er insbesondere aus den Empfehlungen des Anhanges 2 zum Übereinkommen ersichtlich ist.
+<sup>5</sup> Für luftpolizeiliche Massnahmen gelten die für die Schweiz verbindlichen Normen der Anhänge[^7-2] zum Übereinkommen vom 7. Dezember 1944[^7-3] über die internationale Zivilluftfahrt. Im Übrigen ist der jeweilige Stand der Technik massgebend, wie er insbesondere aus den Empfehlungen des Anhanges 2 zum Übereinkommen ersichtlich ist.
 
 <sup>6</sup> Die Verfahren werden im Luftfahrthandbuch der Schweiz (AIP) veröffentlicht. Das BAZL kann Abweichungen mittels Veröffentlichung in den Nachrichten für Luftfahrer (NOTAM) als anwendbar erklären, bevor sie im AIP veröffentlicht werden.
 
-<sup>7</sup> Die Luftwaffe ist berechtigt, die Abfangverfahren zu üben. Die Übungsbedingungen werden in Absprache mit dem BAZL festgelegt.
+<sup>7</sup> Die Luftwaffe ist berechtigt, die Abfangverfahren zu üben. Sie legt die Übungsbedingungen in Absprache mit dem BAZL und der MAA fest.[^7-4]
 
-[^7-1]: Die Anhänge sind in der AS nicht veröffentlicht. Sie können beim Bundesamt für Zivilluftfahrt, 3003 Bern eingesehen oder bezogen werden.
-[^7-2]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^7-1]: Fassung gemäss Anhang Ziff. 1 der V vom 22. Sept. 2023 über die Militärluftfahrt, in Kraft seit 1. Nov. 2023 ([AS 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
+[^7-2]: Die Anhänge sind in der AS nicht veröffentlicht. Sie können beim Bundesamt für Zivilluftfahrt, 3003 Bern eingesehen oder bezogen werden.
+[^7-3]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^7-4]: Fassung gemäss Anhang Ziff. 1 der V vom 22. Sept. 2023 über die Militärluftfahrt, in Kraft seit 1. Nov. 2023 ([AS 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 #### Art. 8
 
@@ -154,7 +160,9 @@ Das BAZL trifft bei Verletzung der Lufthoheit oder der Luftverkehrsregeln die no
 
 <sup>2</sup> In Zeiten erhöhter Spannung kann das Kommando der Luftwaffe ausserordentliche Massnahmen zur permanenten Überwachung des gesamten Luftverkehrs und zur Identifikation aller Luftfahrzeuge über schweizerischem Hoheitsgebiet anordnen.
 
-<sup>3</sup> Die Luftwaffe informiert das BAZL über die angeordneten Massnahmen.
+<sup>3</sup> Die Luftwaffe informiert das BAZL und die MAA über die angeordneten Massnahmen.[^10-1]
+
+[^10-1]: Fassung gemäss Anhang Ziff. 1 der V vom 22. Sept. 2023 über die Militärluftfahrt, in Kraft seit 1. Nov. 2023 ([AS 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 #### Art. 11
 
@@ -170,11 +178,11 @@ Kommt es zu einer Verletzung von Luftverkehrsregeln oder der Lufthoheit, so trif
 
 <sup>1</sup> Hat der Bundesrat gestützt auf Artikel 7 LFG die Benützung des schweizerischen Luftraums eingeschränkt oder verboten, so ist für die Benützung dieses Luftraums eine Bewilligung des Kommandos der Luftwaffe erforderlich.
 
-<sup>2</sup> Das Kommando der Luftwaffe bestimmt in der Bewilligung die Einzelheiten der Benützung des Luftraumes und der Flugplätze. Es hört vorher die Direktion für Völkerrecht, das BAZL, das Transportamt der wirtschaftlichen Landesversorgung und das Bundesamt für Zoll und Grenzsicherheit[^12-1] an.
+<sup>2</sup> Das Kommando der Luftwaffe bestimmt in der Bewilligung die Einzelheiten der Benützung des Luftraumes und der Flugplätze. Es hört vorher die Direktion für Völkerrecht, das BAZL, die MAA, das Transportamt der wirtschaftlichen Landesversorgung und das Bundesamt für Zoll und Grenzsicherheit an.[^12-1]
 
 <sup>3</sup> Die Verbote und Einschränkungen gelten nicht für schweizerische Militärluftfahrzeuge.
 
-[^12-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^12-1]: Fassung gemäss Anhang Ziff. 1 der V vom 22. Sept. 2023 über die Militärluftfahrt, in Kraft seit 1. Nov. 2023 ([AS 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 #### Art. 13
 
@@ -198,9 +206,11 @@ Kommt es zu einer Verletzung von Luftverkehrsregeln oder der Lufthoheit, so trif
 
 **Berichterstattung bei Verletzungen der Lufthoheit oder der Luftverkehrsregeln**
 
-<sup>1</sup> Die Luftwaffe und die Organe der Flugsicherung erstatten dem BAZL im Einzelfall Bericht über festgestellte oder vermutete Verletzungen der Lufthoheit oder der Luftverkehrsregeln sowie über Landeaufforderungen und Waffeneinsätze.
+<sup>1</sup> Die Luftwaffe und die Organe der Flugsicherung erstatten dem BAZL und der MAA im Einzelfall Bericht über festgestellte oder vermutete Verletzungen der Lufthoheit oder der Luftverkehrsregeln sowie über Landeaufforderungen und Waffeneinsätze.[^15-1]
 
 <sup>2</sup> In schwer wiegenden Fällen unterrichtet das BAZL unverzüglich das UVEK zu handen des Bundesrates sowie gegebenenfalls die Direktion für Völkerrecht.
+
+[^15-1]: Fassung gemäss Anhang Ziff. 1 der V vom 22. Sept. 2023 über die Militärluftfahrt, in Kraft seit 1. Nov. 2023 ([AS 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 #### Art. 16
 
@@ -232,25 +242,25 @@ Es werden aufgehoben:
 
 Diese Verordnung tritt am 1. Mai 2005 Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 4 Abs. 2)
 
 ## Bewilligung von Überflügen und Landungen ausländischer Militär- und anderer Staatsluftfahrzeuge
 
-[^t-1]: Eingefügt durch Ziff. II der V vom 14. März 2014, in Kraft seit 1. April 2014 ([AS 2014 701](https://fedlex.data.admin.ch/eli/oc/2014/148)).
+[^t-1]: Eingefügt durch Ziff. II der V vom 14. März 2014 ([AS 2014 701](https://fedlex.data.admin.ch/eli/oc/2014/148)). Bereinigt gemäss Anhang Ziff. 1 der V vom 22. Sept. 2023 über die Militärluftfahrt, mit Wirkung 1. Nov. 2023 ([AS 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 <table>
 <tr><th></th><th>Art der Bewilligung</th><th></th><th>Voraussetzungen und Einschränkungen</th><th></th><th>Absprache erforderlich</th><th>Gleichzeitige Information</th></tr>
-<tr><td>1.</td><td>Überflüge und Landungen von Personen, einschliesslich unbewaffneten Militärpersonen, sowie Transporte von anderem Material als Waffen, Munition und sonstigem Kriegsmaterial mit Transportluftfahrzeugen.</td><td></td><td></td><td></td><td>–</td><td>VBS/LW</td></tr>
-<tr><td>2.</td><td>Jahresbewilligungen für Überflüge und Landungen von Personen, einschliesslich unbewaffneten Militärpersonen, sowie Transporte von anderem Material als Waffen, Munition und sonstigem Kriegsmaterial, für Ausbildungsflüge und für humanitäre Flüge.</td><td></td><td>1. Jahresbewilligungen können erteilt werden, sofern die Anzahl Flüge dies rechtfertigt. 2. Die Bewilligung wird nur für die im Gesuch aufgeführten Luftfahrzeuge erteilt.</td><td></td><td>–</td><td>VBS/LW EDA/DV</td></tr>
-<tr><td>3.</td><td>Überflüge und Landungen von Transportluftfahrzeugen, die nicht nach Ziffer 1 bewilligt werden können, insbesondere für friedenssichernde Massnahmen.</td><td></td><td></td><td></td><td>VBS/LW EDA/DV</td><td>GS-VBS (Sipol)</td></tr>
-<tr><td>4.</td><td>Transporte von Waffen, Munition oder sonstigem Kriegsmaterial.</td><td></td><td>1. Es werden nur Einzelbewilligungen erteilt. 2. Die Bewilligung wird nur erteilt, sofern die entsprechenden Ein-, Ausfuhr- oder Transitbewilligungen vorhanden sind und die Sicherheitsanforderungen gemäss den technischen Vorschriften der Internationalen Zivilluftfahrt-Organisation (ICAO) für die Beförderung gefährlicher Güter mit Luftfahrzeugen[^annexu1-lvlu1-1] erfüllt werden.</td><td></td><td>WBF/SECO VBS/LW EDA/DV</td><td>–</td></tr>
-<tr><td>5.</td><td>Überflüge und Landungen ausländischer Militärluftfahrzeuge besonderer Kategorie wie Aufklärungs- und nicht bewaffnete Kampfluftfahrzeuge, insbesondere für die Teilnahme an Flugschauen, Fliegeraustauschen oder Wettkämpfen.</td><td></td><td>1. Es werden nur Einzelbewilligungen erteilt. 2. Gesuche müssen die Angaben gemäss Luftfahrthandbuch (AIP)[^annexu1-lvlu1-2] Kapitel GEN 1.2 1, Ziffer 5 enthalten.</td><td></td><td>–</td><td>VBS/LW</td></tr>
-<tr><td>6.</td><td>Überflüge und Landungen ausländischer Militärluftfahrzeuge besonderer Kategorie wie Aufklärungs- und nicht bewaffnete Kampfluftfahrzeuge, insbesondere zu Trainingszwecken.</td><td></td><td>1. Es werden nur Einzelbewilligungen erteilt. 2. Gesuche müssen die Angaben gemäss Luftfahrthandbuch (AIP) Kapitel GEN 1.2 1, Ziffer 5 enthalten.</td><td></td><td>VBS/LW EDA/DV</td><td>–</td></tr>
-<tr><td>7.</td><td>Jahresbewilligungen für unbewaffnete Überflüge und Landungen, ungeachtet des Luftfahrzeugtyps, die von der UNO, der OSZE und OSZE-Teilnehmerstaaten im Rahmen von OSZE-Aktivitäten als diplomatische und friedenserhaltende Massnahmen wie die Durchführung von vertrauens- und sicherheitsbildenden Massnahmen (VSBM) und im Rahmen von Open-Sky-Abkommen[^annexu1-lvlu1-3] erfolgen.</td><td></td><td>Jahresbewilligungen können erteilt werden, sofern die Anzahl Flüge dies rechtfertigt.</td><td></td><td>VBS/LW EDA/DV</td><td>GS-VBS (Sipol)</td></tr>
+<tr><td>1.</td><td>Überflüge und Landungen von Personen, einschliesslich unbewaffneten Militärpersonen, sowie Transporte von anderem Material als Waffen, Munition und sonstigem Kriegsmaterial mit Transportluftfahrzeugen.</td><td></td><td></td><td></td><td>–</td><td>VBS/MAA/LW</td></tr>
+<tr><td>2.</td><td>Jahresbewilligungen für Überflüge und Landungen von Personen, einschliesslich unbewaffneten Militärpersonen, sowie Transporte von anderem Material als Waffen, Munition und sonstigem Kriegsmaterial, für Ausbildungsflüge und für humanitäre Flüge.</td><td></td><td>1. Jahresbewilligungen können erteilt werden, sofern die Anzahl Flüge dies rechtfertigt. 2. Die Bewilligung wird nur für die im Gesuch aufgeführten Luftfahrzeuge erteilt.</td><td></td><td>–</td><td>VBS/MAA/LW EDA/DV</td></tr>
+<tr><td>3.</td><td>Überflüge und Landungen von Transportluftfahrzeugen, die nicht nach Ziffer 1 bewilligt werden können, insbesondere für friedenssichernde Massnahmen.</td><td></td><td></td><td></td><td>VBS/MAA/LW EDA/DV</td><td>GS-VBS (Sipol)</td></tr>
+<tr><td>4.</td><td>Transporte von Waffen, Munition oder sonstigem Kriegsmaterial.</td><td></td><td>1. Es werden nur Einzelbewilligungen erteilt. 2. Die Bewilligung wird nur erteilt, sofern die entsprechenden Ein-, Ausfuhr- oder Transitbewilligungen vorhanden sind und die Sicherheitsanforderungen gemäss den technischen Vorschriften der Internationalen Zivilluftfahrt-Organisation (ICAO) für die Beförderung gefährlicher Güter mit Luftfahrzeugen[^annexu1-lvlu1-1] erfüllt werden.</td><td></td><td>WBF/SECO VBS/MAA/LW EDA/DV</td><td>–</td></tr>
+<tr><td>5.</td><td>Überflüge und Landungen ausländischer Militärluftfahrzeuge besonderer Kategorie wie Aufklärungs- und nicht bewaffnete Kampfluftfahrzeuge, insbesondere für die Teilnahme an Flugschauen, Fliegeraustauschen oder Wettkämpfen.</td><td></td><td>1. Es werden nur Einzelbewilligungen erteilt. 2. Gesuche müssen die Angaben gemäss Luftfahrthandbuch (AIP)[^annexu1-lvlu1-2] Kapitel GEN 1.2 1, Ziffer 5 enthalten.</td><td></td><td>–</td><td>VBS/MAA/LW</td></tr>
+<tr><td>6.</td><td>Überflüge und Landungen ausländischer Militärluftfahrzeuge besonderer Kategorie wie Aufklärungs- und nicht bewaffnete Kampfluftfahrzeuge, insbesondere zu Trainingszwecken.</td><td></td><td>1. Es werden nur Einzelbewilligungen erteilt. 2. Gesuche müssen die Angaben gemäss Luftfahrthandbuch (AIP) Kapitel GEN 1.2 1, Ziffer 5 enthalten.</td><td></td><td>VBS/MAA/LW EDA/DV</td><td>–</td></tr>
+<tr><td>7.</td><td>Jahresbewilligungen für unbewaffnete Überflüge und Landungen, ungeachtet des Luftfahrzeugtyps, die von der UNO, der OSZE und OSZE-Teilnehmerstaaten im Rahmen von OSZE-Aktivitäten als diplomatische und friedenserhaltende Massnahmen wie die Durchführung von vertrauens- und sicherheitsbildenden Massnahmen (VSBM) und im Rahmen von Open-Sky-Abkommen[^annexu1-lvlu1-3] erfolgen.</td><td></td><td>Jahresbewilligungen können erteilt werden, sofern die Anzahl Flüge dies rechtfertigt.</td><td></td><td>VBS/MAA/LW EDA/DV</td><td>GS-VBS (Sipol)</td></tr>
 </table>
 
 [^annexu1-lvlu1-1]: Die technischen Vorschriften sind abrufbar unter www.bazl.admin.ch &gt; Dokumentation &gt; Rechtliche Grundlagen. Sie können beim BAZL und bei den Informationsstellen der Landesflughäfen in französischer und englischer Sprache kostenlos eingesehen werden.
-[^annexu1-lvlu1-2]: Das AIP (*Aeronautical Information Publication)* kann gegen Bezahlung bei Skyguide, Postfach 23, 8602 Wangen bei Dübendorf, www.skyguide.ch bezogen oder kostenlos beim BAZL, Mühlestrasse 2, 3063 Ittigen eingesehen werden.
+[^annexu1-lvlu1-2]: Das AIP (*Aeronautical Information Publication)* kann gegen Bezahlung bei Skyguide, Postfach 23, 8602 Wangen bei Dübendorf, [https://www.skyguide.ch/](https://www.skyguide.ch/)bezogen oder kostenlos beim BAZL, Mühlestrasse 2, 3063 Ittigen eingesehen werden.
 [^annexu1-lvlu1-3]: www.osce.org/de/library/14129

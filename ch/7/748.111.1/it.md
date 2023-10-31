@@ -4,11 +4,11 @@ title: Ordinanza del 23 marzo 2005 concernente la salvaguardia della sovranità 
 short: OSS
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/284"
 language: it
-version: 2022-01-01
+version: 2023-11-01
 adopted: 2005-03-23
 in_force: 2005-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/284/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2005-284-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/284/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/284/20231101/it/xml/fedlex-data-admin-ch-eli-cc-2005-284-20231101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/284/20231101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/284/20220101/it"
 
 (OSS)
 
-del 23 marzo 2005 (Stato 1° gennaio 2022)
+del 23 marzo 2005 (Stato 1° novembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -28,7 +28,7 @@ ordina:
 [^ingress-1]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
 [^ingress-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 [^ingress-3]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
-[^ingress-4]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore da 1° gen. 2018 ([RU 2017 7561](https://fedlex.data.admin.ch/eli/oc/2017/819)).
+[^ingress-4]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7561](https://fedlex.data.admin.ch/eli/oc/2017/819)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -56,7 +56,7 @@ Nella presente ordinanza sono utilizzate le definizioni seguenti:
 - j. *misure di polizia aerea*: raccolta e diffusione di informazioni, identificazione, intervento;
 - k.[^2-1] *aeromobili da combattimento non armati:* aeromobili che in linea di principio dispongono di un armamento, ma non possono utilizzarlo a causa della mancanza delle relative munizioni.
 
-[^2-1]: Introdotta dal n. I dell’O del 14 mar. 2014, in vigore da 1° apr. 2014 ([RU 2014 701](https://fedlex.data.admin.ch/eli/oc/2014/148)).
+[^2-1]: Introdotta dal n. I dell’O del 14 mar. 2014, in vigore dal 1° apr. 2014 ([RU 2014 701](https://fedlex.data.admin.ch/eli/oc/2014/148)).
 
 #### Art. 3
 
@@ -64,7 +64,9 @@ Nella presente ordinanza sono utilizzate le definizioni seguenti:
 
 <sup>1</sup> Il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS) stabilisce, d’intesa con il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC), le modalità per la vigilanza dello spazio aereo e le misure da adottare per salvaguardare la sovranità su tale spazio ed evitare violazioni gravi delle norme sulla navigazione aerea.
 
-<sup>2</sup> L’Ufficio federale dell’aviazione civile (UFAC) e le Forze aeree collaborano e si appoggiano reciprocamente nella concretizzazione di tali misure.
+<sup>2</sup> L’Ufficio federale dell’aviazione civile (UFAC), la *Military Aviation Authority* (MAA) nonché le Forze aeree collaborano e si appoggiano reciprocamente nella concretizzazione di tali misure.[^3-1]
+
+[^3-1]: Nuovo testo giusta l’all. n. 1 dell’O del 22 set. 2023 sull’aviazione militare, in vigore dal 1° nov. 2023 ([RU 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 #### Art. 4
 
@@ -72,7 +74,7 @@ Nella presente ordinanza sono utilizzate le definizioni seguenti:
 
 <sup>1</sup> Il sorvolo del territorio svizzero da parte di aeromobili militari esteri e altri aeromobili di Stato nonché il loro atterraggio sul territorio svizzero necessitano di un’autorizzazione (*diplomatic clearance*).
 
-<sup>2</sup> L’UFAC rilascia, fatto salvo il capoverso 4, le autorizzazioni per sorvoli e atterraggi conformemente all’allegato. Il rilascio avviene d’intesa con la Direzione del diritto internazionale pubblico, le Forze aeree e la Segreteria di Stato dell’economia, nella misura in cui sono interessate.
+<sup>2</sup> L’UFAC rilascia, fatto salvo il capoverso 4, le autorizzazioni per sorvoli e atterraggi conformemente all’allegato. Il rilascio avviene d’intesa con la Direzione del diritto internazionale pubblico, la MAA, le Forze aeree e la Segreteria di Stato dell’economia, nella misura in cui sono interessate.[^4-2]
 
 <sup>3</sup> Al di fuori degli orari d’ufficio le Forze aeree rilasciano le autorizzazioni al posto dell’UFAC. Sono applicabili le condizioni per il rilascio delle autorizzazioni secondo il capoverso 2. Le Forze aeree decidono in merito a casi non procrastinabili e informano senza indugio i servizi coinvolti di cui al capoverso 2.
 
@@ -80,7 +82,8 @@ Nella presente ordinanza sono utilizzate le definizioni seguenti:
 
 <sup>5</sup> In caso di decolli e atterraggi sono fatte salve le disposizioni doganali.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 14 mar. 2014, in vigore da 1° apr. 2014 ([RU 2014 701](https://fedlex.data.admin.ch/eli/oc/2014/148)).
+[^4-1]: Nuovo testo giusta il n. I dell’O del 14 mar. 2014, in vigore dal 1° apr. 2014 ([RU 2014 701](https://fedlex.data.admin.ch/eli/oc/2014/148)).
+[^4-2]: Nuovo testo giusta l’all. n. 1 dell’O del 22 set. 2023 sull’aviazione militare, in vigore dal 1° nov. 2023 ([RU 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 ## Sezione 2: Vigilanza, controlli e misure
 
@@ -98,9 +101,9 @@ Nella presente ordinanza sono utilizzate le definizioni seguenti:
 
 **Controlli**
 
-<sup>1</sup> L’UFAC controlla il rispetto delle norme sulla navigazione aerea civile.
+<sup>1</sup> L’UFAC controlla il rispetto delle norme sulla navigazione aerea civile, mentre la MAA controlla il rispetto delle norme sulla navigazione aerea militare.[^6-1]
 
-<sup>2</sup> Con i mezzi tecnici e operativi di cui dispongono, gli organi della sicurezza aerea controllano il rispetto delle norme sulla navigazione aerea da parte del traffico aereo civile e militare. Informano immediatamente le Forze aeree qualora sussistano indizi di una violazione dello spazio aereo o di una grave inosservanza delle norme sulla navigazione aerea.[^6-1]
+<sup>2</sup> Con i mezzi tecnici e operativi di cui dispongono, gli organi della sicurezza aerea controllano il rispetto delle norme sulla navigazione aerea da parte del traffico aereo civile e militare. Informano immediatamente le Forze aeree qualora sussistano indizi di una violazione dello spazio aereo o di una grave inosservanza delle norme sulla navigazione aerea.[^6-2]
 
 <sup>3</sup>
 
@@ -109,7 +112,8 @@ Se i voli sono assistiti dai servizi del controllo della navigazione aerea, gli 
 - a. le autorizzazioni rilasciate, affinché sia evitato il sorvolo delle regioni in cui si svolgono operazioni militari;
 - b. le condizioni legate ai diritti di sorvolo accordati agli aeromobili di Stato esteri.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore da 1° gen. 2018 ([RU 2017 7561](https://fedlex.data.admin.ch/eli/oc/2017/819)).
+[^6-1]: Nuovo testo giusta l’all. n. 1 dell’O del 22 set. 2023 sull’aviazione militare, in vigore dal 1° nov. 2023 ([RU 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
+[^6-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7561](https://fedlex.data.admin.ch/eli/oc/2017/819)).
 
 #### Art. 7
 
@@ -117,20 +121,22 @@ Se i voli sono assistiti dai servizi del controllo della navigazione aerea, gli 
 
 <sup>1</sup> Le Forze aeree decidono in merito all’esecuzione di misure di polizia aerea. Esse possono delegare questa competenza, interamente o parzialmente, agli organi della sicurezza aerea.
 
-<sup>2</sup> L’UFAC può chiedere alle Forze aeree l’esecuzione di misure di polizia aerea.
+<sup>2</sup> L’UFAC e la MAA possono chiedere alle Forze aeree l’esecuzione di misure di polizia aerea.[^7-1]
 
 <sup>3</sup> Se qualsiasi altra misura è insufficiente, le Forze aeree, con i mezzi tecnici e operativi di cui dispongono, ricorrono all’intervento nei confronti degli aeromobili che violano la sovranità sullo spazio aereo o che violano gravemente le norme sulla navigazione aerea; esse procedono segnatamente all’intercettazione per l’identificazione e, se necessario, obbligano detti aeromobili a lasciare lo spazio aereo svizzero o ad atterrare su un aerodromo idoneo.
 
 <sup>4</sup> Durante le operazioni d’intercettazione di aeromobili è prestata la massima attenzione alla sicurezza della navigazione aerea. In caso di aeromobili civili, occorre evitare assolutamente di mettere in pericolo vite umane.
 
-<sup>5</sup> Le norme vincolanti per la Svizzera che figurano negli allegati[^7-1] alla Convenzione del 7 dicembre 1944[^7-2] relativa all’aviazione civile internazionale sono applicabili alle misure di polizia aerea. Del rimanente, è determinante il livello tecnico attuale, segnatamente quale risulta dalle raccomandazioni dell’allegato 2 della Convenzione.
+<sup>5</sup> Le norme vincolanti per la Svizzera che figurano negli allegati[^7-2] alla Convenzione del 7 dicembre 1944[^7-3] relativa all’aviazione civile internazionale sono applicabili alle misure di polizia aerea. Del rimanente, è determinante il livello tecnico attuale, segnatamente quale risulta dalle raccomandazioni dell’allegato 2 della Convenzione.
 
 <sup>6</sup> Le procedure sono pubblicate nella Pubblicazione svizzera d’informazioni aeronautiche (AIP). L’UFAC può dichiarare applicabili le deroghe non ancora pubblicate nell’AIP mediante pubblicazione nelle notizie per il personale incaricato delle operazioni aeree (NOTAM).
 
-<sup>7</sup> Le Forze aeree sono abilitate ad addestrarsi alle procedure d’intercettazione. Le condizioni per le pertinenti esercitazioni sono stabilite d’intesa con l’UFAC.
+<sup>7</sup> Le Forze aeree sono abilitate ad addestrarsi alle procedure d’intercettazione. Stabiliscono le condizioni per le pertinenti esercitazioni d’intesa con l’UFAC e la MAA.[^7-4]
 
-[^7-1]: Gli all. non sono pubblicati nella RU. Possono essere consultati od ottenuti presso l’Ufficio federale dell’aviazione civile, 3003 Berna.
-[^7-2]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^7-1]: Nuovo testo giusta l’all. n. 1 dell’O del 22 set. 2023 sull’aviazione militare, in vigore dal 1° nov. 2023 ([RU 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
+[^7-2]: Gli allegati non sono pubblicati nella RU. Possono essere consultati od ottenuti presso l’Ufficio federale dell’aviazione civile, 3003 Berna.
+[^7-3]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^7-4]: Nuovo testo giusta l’all. n. 1 dell’O del 22 set. 2023 sull’aviazione militare, in vigore dal 1° nov. 2023 ([RU 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 #### Art. 8
 
@@ -142,7 +148,7 @@ In caso di violazione della sovranità sullo spazio aereo o delle norme sulla na
 
 [^9-1]
 
-[^9-1]: Abrogato dal n. I dell’O del 22 nov. 2017, con effetto da 1° gen. 2018 ([RU 2017 7561](https://fedlex.data.admin.ch/eli/oc/2017/819)).
+[^9-1]: Abrogato dal n. I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 7561](https://fedlex.data.admin.ch/eli/oc/2017/819)).
 
 ## Sezione 3: Misure applicabili in caso di eventi particolari e in periodi di accresciuta tensione
 
@@ -154,7 +160,9 @@ In caso di violazione della sovranità sullo spazio aereo o delle norme sulla na
 
 <sup>2</sup> In periodi di accresciuta tensione, il Comando delle Forze aeree può ordinare misure straordinarie per la vigilanza permanente dell’intero traffico aereo e per l’identificazione di tutti gli aeromobili nello spazio aereo sottoposto alla sovranità svizzera.
 
-<sup>3</sup> Le Forze aeree informano l’UFAC in merito alle misure ordinate.
+<sup>3</sup> Le Forze aeree informano l’UFAC e la MAA in merito alle misure ordinate.[^10-1]
+
+[^10-1]: Nuovo testo giusta l’all. n. 1 dell’O del 22 set. 2023 sull’aviazione militare, in vigore dal 1° nov. 2023 ([RU 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 #### Art. 11
 
@@ -170,11 +178,11 @@ In caso di violazione delle norme sulla navigazione aerea o della sovranità sul
 
 <sup>1</sup> Se, in virtù dell’articolo 7 LNA, il Consiglio federale ha limitato o vietato l’uso dello spazio aereo, per l’utilizzazione di tale spazio aereo è necessaria un’autorizzazione del Comando delle Forze aeree.
 
-<sup>2</sup> Il Comando delle Forze aeree stabilisce nell’autorizzazione i dettagli dell’utilizzazione dello spazio aereo e degli aerodromi. Consulta dapprima la Direzione del diritto internazionale pubblico, l’UFAC, l’Ufficio dei trasporti dell’approvvigionamento economico del Paese e l’Ufficio federale della dogana e della sicurezza dei confini[^12-1].
+<sup>2</sup> Il Comando delle Forze aeree stabilisce nell’autorizzazione i dettagli dell’utilizzazione dello spazio aereo e degli aerodromi. Consulta dapprima la Direzione del diritto internazionale pubblico, l’UFAC, la MAA, l’Ufficio dei trasporti dell’approvvigionamento economico del Paese e l’Ufficio federale della dogana e della sicurezza dei confini.[^12-1].
 
 <sup>3</sup> I divieti e le limitazioni non si applicano agli aeromobili militari svizzeri.
 
-[^12-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^12-1]: Nuovo testo giusta l’all. n. 1 dell’O del 22 set. 2023 sull’aviazione militare, in vigore dal 1° nov. 2023 ([RU 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 #### Art. 13
 
@@ -190,7 +198,7 @@ In caso di violazione delle norme sulla navigazione aerea o della sovranità sul
 
 [^14-1]
 
-[^14-1]: Abrogato dal n. I dell’O del 22 nov. 2017, con effetto da 1° gen. 2018 ([RU 2017 7561](https://fedlex.data.admin.ch/eli/oc/2017/819)).
+[^14-1]: Abrogato dal n. I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 7561](https://fedlex.data.admin.ch/eli/oc/2017/819)).
 
 ## Sezione 5: Rapporti e informazione
 
@@ -198,9 +206,11 @@ In caso di violazione delle norme sulla navigazione aerea o della sovranità sul
 
 **Rapporti in caso di violazioni della sovranità sullo spazio aereo o delle norme sulla navigazione aerea**
 
-<sup>1</sup> Le Forze aeree e gli organi della sicurezza aerea presentano un rapporto all’UFAC su ogni violazione presunta o constatata della sovranità sullo spazio aereo o delle norme sulla navigazione aerea, nonché sulle ingiunzioni di atterrare e sull’impiego delle armi.
+<sup>1</sup> Le Forze aeree e gli organi della sicurezza aerea presentano un rapporto all’UFAC e alla MAA su ogni violazione presunta o constatata della sovranità sullo spazio aereo o delle norme sulla navigazione aerea, nonché sulle ingiunzioni di atterrare e sull’impiego delle armi.[^15-1]
 
 <sup>2</sup> In casi gravi, l’UFAC informa immediatamente il DATEC, all’attenzione del Consiglio federale, e, se necessario, la Direzione del diritto internazionale pubblico.
+
+[^15-1]: Nuovo testo giusta l’all. n. 1 dell’O del 22 set. 2023 sull’aviazione militare, in vigore dal 1° nov. 2023 ([RU 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 #### Art. 16
 
@@ -232,25 +242,25 @@ Sono abrogate:
 
 La presente ordinanza entra in vigore il 1° maggio 2005.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 4 cpv. 2)
 
 ## Autorizzazione di sorvolo e atterraggio di aeromobili militari esteri e altri aeromobili di Stato
 
-[^t-1]: Introdotto dal n. II dell’O del 14 mar. 2014, in vigore da 1° apr. 2014 ([RU 2014 701](https://fedlex.data.admin.ch/eli/oc/2014/148)).
+[^t-1]: Introdotto dal n. II dell’O del 14 mar. 2014 ([RU 2014 701](https://fedlex.data.admin.ch/eli/oc/2014/148)). Aggiornato dall’all. n. 1 dell’O del 22 set. 2023 sull’aviazione militare, in vigore dal 1° nov. 2023 ([RU 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 <table>
 <tr><th>N.</th><th>Tipo di autorizzazione</th><th>Condizioni e limitazioni</th><th>Previa intesa</th><th>Informazione simultanea</th></tr>
-<tr><td>1.</td><td>Sorvoli e atterraggi di persone, compresi militari non armati nonché trasporti di materiale diverso da armi, munizioni e altro materiale bellico con aeromobili da trasporto</td><td></td><td>–</td><td>DDPS/FA</td></tr>
-<tr><td>2.</td><td>Autorizzazioni annuali per sorvoli e atterraggi di persone, compresi militari non armati nonché trasporti di materiale diverso da armi, munizioni e altro materiale bellico, per voli d’istruzione e voli a scopo umanitario</td><td>1. Le autorizzazioni annuali possono essere rilasciate, se il numero di voli lo giustifica. 2. L’autorizzazione è rilasciata soltanto per gli aeromobili menzionati nella domanda.</td><td>–</td><td>DDPS/FA DFAE/ DDIP</td></tr>
-<tr><td>3.</td><td>Sorvoli e atterraggi di aeromobili da trasporto, che non possono essere autorizzati secondo il numero 1, segnatamente per misure di mantenimento della pace</td><td></td><td>DDPS/FA DFAE/DDIP</td><td>SG-DDPS (Sipol)</td></tr>
-<tr><td>4.</td><td>Trasporti di armi, munizioni o altro materiale bellico</td><td>1. Sono rilasciate soltanto autorizzazioni singole. 2. L’autorizzazione è rilasciata soltanto se sono disponibili le relative autorizzazioni per l’importazione, l’esportazione o il transito e i requisiti in materia di sicurezza sono soddisfatti conformemente alle prescrizioni tecniche dell’Organizzazione dell’aviazione civile internazionale (ICAO)[^annexu1-lvlu1-1].</td><td>DEFR/SECODDPS/FA DFAE/DDIP</td><td>–</td></tr>
-<tr><td>5.</td><td>Sorvoli e atterraggi di aeromobili militari stranieri appartenenti a determinate categorie, come gli aeromobili di ricognizione e gli aeromobili da combattimento non armati, segnatamente per la partecipazione ad airshow, lo scambio di piloti o la partecipazione a gare</td><td>1. Sono rilasciate soltanto autorizzazioni singole. 2. Le domande devono contenere i dati previsti dalla Pubblicazione svizzera d’informazioni aeronautiche (AIP)[^annexu1-lvlu1-2], capitolo GEN 1.2 1, numero 5.</td><td>–</td><td>DDPS/FA</td></tr>
-<tr><td>6.</td><td>Sorvoli e atterraggi di aeromobili militari stranieri appartenenti a determinate categorie, come gli aeromobili di ricognizione e gli aeromobili da combattimento non armati, segnatamente per scopi d’allenamento</td><td>1. Sono rilasciate soltanto autorizzazioni singole. 2. Le domande devono contenere i dati previsti dalla Pubblicazione svizzera d’informazioni aeronautiche (AIP), capitolo GEN 1.2 1, numero 5.</td><td>DDPS/FA DFAE/DDIP</td><td>–</td></tr>
-<tr><td>7.</td><td>Autorizzazioni annuali per sorvoli non armati e atterraggi, indipendentemente dal tipo di aeromobile, che avvengono da parte dell’ONU, dell’OSCE e degli Stati membri dell’OSCE nel quadro di attività dell’OSCE quali misure a carattere diplomatico e misure per il mantenimento della pace come l’esecuzione di misure miranti a rafforzare la fiducia e la sicurezza (CSBM) e nel quadro dell’accordo *O**pen Sky*[^annexu1-lvlu1-3]</td><td>Le autorizzazioni annuali possono essere rilasciate, se il numero di voli lo giustifica.</td><td>DDPS/FA DFAE/DDIP</td><td>SG-DDPS (Sipol)</td></tr>
+<tr><td>1.</td><td>Sorvoli e atterraggi di persone, compresi militari non armati nonché trasporti di materiale diverso da armi, munizioni e altro materiale bellico con aeromobili da trasporto</td><td></td><td>–</td><td>DDPS/MAA/FA</td></tr>
+<tr><td>2.</td><td>Autorizzazioni annuali per sorvoli e atterraggi di persone, compresi militari non armati nonché trasporti di materiale diverso da armi, munizioni e altro materiale bellico, per voli d’istruzione e voli a scopo umanitario</td><td>1. Le autorizzazioni annuali possono essere rilasciate, se il numero di voli lo giustifica. 2. L’autorizzazione è rilasciata soltanto per gli aeromobili menzionati nella domanda.</td><td>–</td><td>DDPS/MAA/FA DFAE/ DDIP</td></tr>
+<tr><td>3.</td><td>Sorvoli e atterraggi di aeromobili da trasporto, che non possono essere autorizzati secondo il numero 1, segnatamente per misure di mantenimento della pace</td><td></td><td>DDPS/MAA/FA DFAE/DDIP</td><td>SG-DDPS (Sipol)</td></tr>
+<tr><td>4.</td><td>Trasporti di armi, munizioni o altro materiale bellico</td><td>1. Sono rilasciate soltanto autorizzazioni singole. 2. L’autorizzazione è rilasciata soltanto se sono disponibili le relative autorizzazioni per l’importazione, l’esportazione o il transito e i requisiti in materia di sicurezza sono soddisfatti conformemente alle prescrizioni tecniche dell’Organizzazione dell’aviazione civile internazionale (ICAO)[^annexu1-lvlu1-1].</td><td>DEFR/SECODDPS/MAA/FA DFAE/DDIP</td><td>–</td></tr>
+<tr><td>5.</td><td>Sorvoli e atterraggi di aeromobili militari stranieri appartenenti a determinate categorie, come gli aeromobili di ricognizione e gli aeromobili da combattimento non armati, segnatamente per la partecipazione ad airshow, lo scambio di piloti o la partecipazione a gare</td><td>1. Sono rilasciate soltanto autorizzazioni singole. 2. Le domande devono contenere i dati previsti dalla Pubblicazione svizzera d’informazioni aeronautiche (AIP)[^annexu1-lvlu1-2], capitolo GEN 1.2 1, numero 5.</td><td>–</td><td>DDPS/MAA/FA</td></tr>
+<tr><td>6.</td><td>Sorvoli e atterraggi di aeromobili militari stranieri appartenenti a determinate categorie, come gli aeromobili di ricognizione e gli aeromobili da combattimento non armati, segnatamente per scopi d’allenamento</td><td>1. Sono rilasciate soltanto autorizzazioni singole. 2. Le domande devono contenere i dati previsti dalla Pubblicazione svizzera d’informazioni aeronautiche (AIP), capitolo GEN 1.2 1, numero 5.</td><td>DDPS/MAA/FA DFAE/DDIP</td><td>–</td></tr>
+<tr><td>7.</td><td>Autorizzazioni annuali per sorvoli non armati e atterraggi, indipendentemente dal tipo di aeromobile, che avvengono da parte dell’ONU, dell’OSCE e degli Stati membri dell’OSCE nel quadro di attività dell’OSCE quali misure a carattere diplomatico e misure per il mantenimento della pace come l’esecuzione di misure miranti a rafforzare la fiducia e la sicurezza (CSBM) e nel quadro dell’accordo *Open Sky*[^annexu1-lvlu1-3]</td><td>Le autorizzazioni annuali possono essere rilasciate, se il numero di voli lo giustifica.</td><td>DDPS/MAA/FA DFAE/DDIP</td><td>SG-DDPS (Sipol)</td></tr>
 </table>
 
-[^annexu1-lvlu1-1]: Le prescrizioni tecniche possono essere consultate online sul sito dell’UFAC all’indirizzo www.bazl.admin.ch&gt;Documentazione&gt;Basi legali oppure presso l’UFAC e i servizi d’informazione degli aeroporti nazionali nelle lingue francese o inglese.
+[^annexu1-lvlu1-1]: Le prescrizioni tecniche possono essere consultate online sul sito dell’UFAC all’indirizzo [www.bazl.admin.ch](http://www.bazl.admin.ch) &gt;Documentazione&gt;Basi legali oppure presso l’UFAC e i servizi d’informazione degli aeroporti nazionali nelle lingue francese o inglese.
 [^annexu1-lvlu1-2]: L’AIP (*Aeronautical Information Publication)* può essere ottenuta, dietro pagamento, presso Skyguide, Casella postale 23, 8602 Wangen bei Dübendorf; www.skyguide.ch oppure può essere consultata gratuitamente presso l’UFAC, Mühlestrasse 2, 3063 Ittigen.
-[^annexu1-lvlu1-3]: www.osce.org/de/library/14129
+[^annexu1-lvlu1-3]: www.osce.org /de/library/14129
