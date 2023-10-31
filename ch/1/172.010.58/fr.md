@@ -4,11 +4,11 @@ title: "Ordonnance du 25 novembre 2020 sur la coordination de la transformation 
 short: OTNI
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/988"
 language: fr
-version: 2023-09-01
+version: 2023-11-01
 adopted: 2020-11-25
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/988/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2020-988-20230901-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/988/20231101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-988-20231101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20231101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20230901/fr"
 
 (Ordonnance sur la transformation numérique et l’informatique, OTNI)
 
-du 25 novembre 2020 (État le 1<sup>er</sup> septembre 2023)
+du 25 novembre 2020 (État le 1<sup>er</sup> novembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -87,17 +87,23 @@ Sauf disposition contraire de la présente ordonnance, les départements et la C
 
 <sup>4</sup> Il gère des services standard et conduit des projets ou des programmes relevant de son domaine de compétences.
 
-<sup>5</sup> Il prépare les affaires du Conseil fédéral relatives à la TNI dans l’administration fédérale et exécute les mandats qui en résultent.
+<sup>5</sup> Il prépare les affaires du Conseil fédéral relatives à la transformation numérique et à la gouvernance de l’informatique dans l’administration fédérale et exécute les mandats qui en résultent.[^4-1]
 
 <sup>6</sup> Il peut représenter la Confédération dans des organisations dans le domaine de la TNI, tant au niveau national qu’au niveau international.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
 
 ### Section 2 Conseil de la transformation numérique et de la gouvernance informatique de la Confédération
 
 #### Art. 5
 
-**Rôle**
+**Rôle**[^5-1]
 
-Le Conseil de la transformation numérique et de la gouvernance informatique de la Confédération (Conseil TNI) est un organe interdépartemental qui conseille le délégué TNI dans l’exécution de ses tâches.
+<sup>1</sup> Le Conseil de la transformation numérique et de la gouvernance informatique de la Confédération (Conseil TNI) est un organe interdépartemental qui conseille le délégué TNI et les unités administratives dans le cadre de la coordination interdépartementale de la transformation numérique et de la gouvernance informatique.
+
+<sup>2</sup> Les départements qui édictent des directives interdépartementales en matière de transformation numérique et de gouvernance de l’informatique consultent au préalable le Conseil TNI.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
 
 #### Art. 6
 
@@ -197,15 +203,21 @@ Il se compose d’un représentant de chacune des unités administratives suivan
 
 ## Chapitre 3 Stratégies
 
-### Section 1 Stratégie en matière de transformation numérique et d’informatique
+### Section 1 Stratégie Administration fédérale numérique
+
+[^chap3-sec1-1]
+
+[^chap3-sec1-1]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
 
 #### Art. 13
 
 **Responsabilité et contenu**
 
-<sup>1</sup> Le Conseil fédéral définit la stratégie de l’administration fédérale en matière de transformation numérique et d’informatique (stratégie TNI).
+<sup>1</sup> Le Conseil fédéral définit la stratégie de l’administration fédérale en matière de transformation numérique et d’informatique (stratégie Administration fédérale numérique[^13-1]).
 
 <sup>2</sup> La stratégie définit les objectifs de la transformation numérique dans l’administration fédérale et les domaines d’action permettant d’atteindre ces objectifs.
+
+[^13-1]: Nouvelle expression selon le ch. I al. 1 de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
 
 #### Art. 14
 
@@ -237,17 +249,17 @@ Le secteur TNI de la ChF coordonne l’élaboration et la mise en œuvre de la s
 
 <sup>1</sup>
 
-Le secteur TNI de la ChF édicte pour l’ensemble des autorités, organisations et personnes visées à l’art. 2 des directives générales et abstraites portant sur:
+Le secteur TNI de la ChF édicte pour l’ensemble des autorités, organisations et personnes visées à l’art. 2 des directives portant sur:[^17-1]
 
-- a. *les stratégies partielles*, à savoir sur les lignes directrices qui définissent l’orientation générale de la TNI, la délimitation de son utilisation et la planification du développement de certains de ses aspects à moyen terme;
-- b. *les processus TNI*, à savoir sur la manière dont les tâches liées à la TNI doivent être accomplies, et les instruments d’aide à utiliser;
+- a.[^17-2] *les stratégies partielles*, à savoir sur les lignes directrices qui définissent l’orientation générale de la transformation numérique et de la gouvernance de l’informatique, la délimitation de leur utilisation et la planification du développement de certains de ses aspects à moyen terme;
+- b.[^17-3] *les processus*, à savoir sur la manière dont les tâches liées à la transformation numérique et à la gouvernance de l’informatique doivent être accomplies et sur les moyens à employer;
 - c. *l’architecture d’entreprise*, à savoir sur l’articulation des processus d’affaires, des modèles de données, des technologies ou des produits et services informatiques, entre les départements;
 - d. *les normes*, à savoir sur la définition des produits, interfaces ou technologies qui découlent de l’architecture d’entreprise et qui sont nécessaires pour assurer l’interopérabilité, la rentabilité ou la sécurité;
 - e. *les services standard*, à savoir sur les prestations en matière de transformation numérique ou d’informatique, gérées de manière centralisée, fréquemment utilisées dans l’administration fédérale et répondant à des exigences identiques ou similaires; une directive définissant un service standard établit notamment la responsabilité de la fourniture et de la gestion du service standard, l’acquisition des prestations, le financement général et le contrôle de la qualité des prestations fournies;
-- f. *la gestion de portefeuille TNI*, à savoir sur toutes les activités nécessaires à la coordination des études, programmes et projets en matière de transformation numérique et sur le regroupement des applications ou services informatiques au niveau de l’administration fédérale, et les mesures qui s’y rapportent;
-- g. *le contrôle de gestion*, à savoir sur la collecte, le traitement, la vérification et l’interprétation d’informations servant à la TNI, et les mesures qui s’y rapportent.
+- f.[^17-4] *la gestion de portefeuille*, à savoir sur toutes les activités nécessaires à la coordination des programmes, des projets et des autres activités de développement de solutions en matière de transformation numérique et sur le regroupement des applications ou des services informatiques au sein de l’administration fédérale ainsi que sur les mesures qui s’y rapportent et les moyens à employer;
+- g.[^17-5] *le contrôle de gestion*, à savoir sur la collecte, le traitement, la vérification et l’interprétation d’informations servant à la transformation numérique et à la gouvernance de l’informatique, et les mesures qui s’y rapportent.
 
-<sup>2</sup> Il consulte au préalable le Conseil TNI.
+<sup>2</sup> Il consulte au préalable le Conseil TNI. Il peut consulter un autre organe pour les directives d’importance secondaire.[^17-6]
 
 <sup>3</sup> Il décide de dérogations aux directives qu’il a édictées.
 
@@ -259,15 +271,24 @@ Il peut déléguer des décisions de portée mineure concernant ces dérogations
 - b. à des groupes de travail;
 - c. à des responsables de programmes ou de projets.
 
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^17-2]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^17-3]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^17-4]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^17-5]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^17-6]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+
 #### Art. 18
 
 **Directives du chancelier de la Confédération sur des services standard avec obligation d’achat**
 
-<sup>1</sup> Le chancelier de la Confédération décide, sur proposition du secteur TNI de la ChF et après avoir entendu la CSG, des directives qui portent sur les services standard avec obligation d’achat et sur les projets TNI clés.
+<sup>1</sup> Le chancelier de la Confédération décide, sur proposition du secteur TNI de la ChF et après avoir entendu la CSG, des directives qui portent sur les services standard avec obligation d’achat et sur les projets clés[^18-1].
 
 <sup>2</sup> Il décide, après avoir entendu la CSG, de dérogations aux directives qu’il a édictées.
 
 <sup>3</sup> Il peut déléguer des décisions de portée mineure concernant ces dérogations au secteur TNI de la ChF.
+
+[^18-1]: Nouvelle expression selon le ch. I al. 2 de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
 
 #### Art. 19
 
@@ -275,10 +296,11 @@ Il peut déléguer des décisions de portée mineure concernant ces dérogations
 
 <sup>1</sup>
 
-La procédure de règlement des différends vise à régler un différend entre un département et le secteur TNI de la ChF portant sur:
+La procédure de règlement des différends vise à régler un différend entre des départements ou entre un département et le secteur TNI de la ChF portant sur:[^19-1]
 
 - a. l’établissement d’une directive du secteur TNI de la ChF;
-- b. l’octroi d’une dérogation aux directives du secteur TNI de la ChF.
+- b.[^19-2] l’octroi d’une dérogation aux directives du secteur TNI de la ChF;
+- c.[^19-3] l’adoption par un département d’une directive interdépartementale concernant la transformation numérique ou la gouvernance de l’informatique.
 
 <sup>2</sup> Le département notifie le différend au secteur TNI de la ChF.
 
@@ -286,30 +308,36 @@ La procédure de règlement des différends vise à régler un différend entre 
 
 <sup>4</sup> Le chancelier de la Confédération tranche le différend, après avoir entendu la CSG.
 
-## Chapitre 5 Projets TNI clés
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^19-2]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^19-3]: Introduite par le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+
+## Chapitre 5 Projets clés
 
 #### Art. 20
 
 **Objet**
 
-Les projets TNI clés de l’administration fédérale sont les projets ou programmes en matière de TNI qui nécessitent un renforcement de la conduite stratégique et opérationnelle, de la coordination et des vérifications en raison:
+Les projets clés de l’administration fédérale sont les projets ou programmes en matière de transformation numérique et de gouvernance de l’informatique qui nécessitent un renforcement de la conduite stratégique et opérationnelle, de la coordination et des vérifications en raison:[^20-1]
 
 - a. des ressources qu’ils requièrent;
 - b. de leur importance stratégique;
 - c. de leur complexité, ou
 - d. des risques qu’ils présentent.
 
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+
 #### Art. 21
 
 **Responsabilité**
 
-Le chancelier de la Confédération détermine les projets TNI clés de l’administration fédérale sur proposition du secteur TNI de la ChF, après avoir entendu la CSG.
+Le chancelier de la Confédération détermine les projets clés de l’administration fédérale sur proposition du secteur TNI de la ChF, après avoir entendu la CSG.
 
 #### Art. 22
 
 **Rapports et mesures correctives**
 
-<sup>1</sup> Le secteur TNI de la ChF fait régulièrement rapport à la CSG sur les projets TNI clés de l’administration fédérale, en consolidant les rapports que lui remettent les unités administratives chargées de ces projets.
+<sup>1</sup> Le secteur TNI de la ChF fait régulièrement rapport à la CSG sur les projets clés de l’administration fédérale, en consolidant les rapports que lui remettent les unités administratives chargées de ces projets.
 
 <sup>2</sup> Si nécessaire, le chancelier de la Confédération propose des mesures correctives au Conseil fédéral, après avoir entendu la CSG.
 
@@ -348,7 +376,7 @@ Dans le contexte du GDR, on entend par:
 
 <sup>1</sup>
 
-Les données suivantes sont gérées de manière centralisée dans le GDR:
+Dans la mesure où elles sont nécessaires à l’exécution des processus de soutien pris en charge, les données suivantes sont gérées de manière centralisée dans le GDR:[^26-1]
 
 - a. numéro d’identification non personnel;
 - b. données d’identification, par ex. nom, prénom, date de naissance;
@@ -360,16 +388,21 @@ Les données suivantes sont gérées de manière centralisée dans le GDR:
 - h. numéros de registre permettant d’identifier de manière univoque une unité GDR;
 - i.
 
-  autres données requises pour l’exécution des processus de soutien pris en charge, à savoir:
+  autres données, à savoir:[^26-2]
 
-  - [tab] 1. données comptables internes à la Confédération,
+  - 1\. données comptables internes à la Confédération,
   - 2\. données relatives aux rappels,
   - 3\. conditions de vente,
-  - 4\. conditions d’achat.
+  - 4\.[^26-3] conditions d’achat,
+  - 5\.[^26-4] relations entre les unités GDR.
 
-<sup>2</sup> Aucune donnée sensible ne peut être gérée dans le GDR.[^26-1]
+<sup>2</sup> Aucune donnée sensible ne peut être gérée dans le GDR et aucun profilage ne peut y être effectué.[^26-5]
 
-[^26-1]: Nouvelle teneur selon l’annexe 2 ch. II 17 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^26-1]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^26-2]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^26-3]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^26-4]: Introduit par le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^26-5]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
 
 #### Art. 27
 
@@ -412,9 +445,11 @@ Les données centralisées dans le GDR proviennent des sources suivantes:
 Les autorités, organisations et personnes visées à l’art. 2, reçoivent un accès:
 
 - a. aux données visées à l’art. 26, al. 1, let. i, qu’elles gèrent elles-mêmes dans le GDR;
-- b. aux données visées à l’art. 26, al. 1, let. a à h, dans la mesure où elles en ont besoin pour exécuter des processus de soutien pris en charge.
+- b.[^28-1] aux données visées à l’art. 26, al. 1, let. a à h., dans la mesure où elles en ont besoin pour exécuter des processus de soutien pris en charge, ou en vertu d’autres dispositions dans un but autre que celui de l’exécution des processus de soutien pris en charge.
 
 <sup>2</sup> L’accès peut être accordé au moyen d’une interface avec les systèmes d’information concernés.
+
+[^28-1]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
 
 #### Art. 29
 
@@ -450,17 +485,19 @@ L’AFF peut, au moyen d’une interface, mettre à disposition des données cen
 
 #### Art. 32
 
-**Gestion financière des ressources affectées à l’informatique**
+**Gestion financière des ressources affectées à la transformation numérique et à l’informatique[^32-1]**
 
-<sup>1</sup> L’inscription au budget et sur le compte d’État de la Confédération des ressources affectées à l’informatique s’effectue en principe de manière décentralisée.
+<sup>1</sup> L’inscription au budget et sur le compte d’État de la Confédération des ressources affectées à la transformation numérique et à l’informatique s’effectue en principe de manière décentralisée.
 
-<sup>2</sup> Le secteur TNI de la ChF fournit les instruments nécessaires à la gestion des ressources TNI et coordonne l’utilisation de ces ressources en accord avec les départements et assure le contrôle interdépartemental de gestion.
+<sup>2</sup> Le secteur TNI de la ChF fournit les instruments nécessaires à la gestion des ressources affectées à la transformation numérique et à l’informatique et coordonne l’utilisation de ces ressources en accord avec les départements et assure le contrôle interdépartemental de gestion.
 
 <sup>3</sup> Les fournisseurs internes de prestations tiennent une comptabilité analytique étendue et présentent périodiquement au secteur TNI de la ChF, de manière transparente, les coûts et recettes des services standard.
 
+[^32-1]: Nouvelle expression selon le ch. I al. 3 de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)). Il a été tenu compte de cette mod. dans tout le texte.
+
 #### Art. 33
 
-**Ressources affectées de manière centralisée à la TNI**
+**Ressources affectées de manière centralisée[^33-1]**
 
 <sup>1</sup> Le Conseil fédéral décide, dans le cadre du processus budgétaire de la Confédération, des ressources à affecter de manière centralisée.
 
@@ -475,6 +512,8 @@ Le secteur TNI de la ChF peut attribuer, dans le cadre de l’exécution budgét
 
 <sup>4</sup> Il gère les ressources inscrites au budget de manière centralisée.
 
+[^33-1]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+
 #### Art. 34
 
 **Audit de l’informatique**
@@ -483,7 +522,9 @@ Le secteur TNI de la ChF peut attribuer, dans le cadre de l’exécution budgét
 
 <sup>2</sup> Il est effectué par le Contrôle fédéral des finances (CDF).
 
-<sup>3</sup> Les départements, la Chancellerie fédérale et le secteur TNI de la ChF peuvent proposer au CDF des audits dans le domaine de la TNI.
+<sup>3</sup> Les départements, la Chancellerie fédérale et le secteur TNI de la ChF peuvent proposer au CDF des audits dans le domaine de la transformation numérique et de la gouvernance de l’informatique.[^34-1]
+
+[^34-1]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
 
 ## Chapitre 9 Dispositions finales
 

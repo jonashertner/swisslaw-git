@@ -4,11 +4,11 @@ title: "Verordnung vom 25. November 2020 über die Koordination der digitalen Tr
 short: VDTI
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/988"
 language: de
-version: 2023-09-01
+version: 2023-11-01
 adopted: 2020-11-25
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/988/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2020-988-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/988/20231101/de/xml/fedlex-data-admin-ch-eli-cc-2020-988-20231101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20231101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20230901/de"
 
 (Verordnung über die digitale Transformation und die Informatik, VDTI)
 
-vom 25. November 2020 (Stand am 1. September 2023)
+vom 25. November 2020 (Stand am 1. November 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -87,17 +87,23 @@ Soweit diese Verordnung nicht anderes bestimmt, sind die Departemente und die Bu
 
 <sup>4</sup> Er führt Standarddienste und leitet Projekte und Programme in seinem Zuständigkeitsbereich.
 
-<sup>5</sup> Er bereitet die Geschäfte des Bundesrates zur DTI in der Bundesverwaltung vor und erfüllt die sich daraus ergebenen Aufträge.
+<sup>5</sup> Er bereitet die Geschäfte des Bundesrates zur digitalen Transformation und IKT-Lenkung in der Bundesverwaltung vor und erfüllt die sich daraus ergebenen Aufträge.[^4-1]
 
 <sup>6</sup> Er kann den Bund in einschlägigen Organisationen auf nationaler oder internationaler Ebene vertreten.
+
+[^4-1]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
 
 ### 2. Abschnitt: Digitalisierungsrat
 
 #### Art. 5
 
-**Funktion**
+**Funktion**[^5-1]
 
-Der Rat für digitale Transformation und IKT-Lenkung des Bundes (Digitalisierungsrat) ist ein departementsübergreifendes Organ, das die DTI-Delegierte oder den DTI-Delegierten bei der Erfüllung ihrer oder seiner Aufgaben berät.
+<sup>1</sup> Der Rat für digitale Transformation und IKT-Lenkung des Bundes (Digitalisierungsrat) ist ein departementsübergreifendes Organ, das die DTI-Delegierte oder den DTI-Delegierten und die Verwaltungseinheiten bei der departementsübergreifenden Koordination der digitalen Transformation und IKT-Lenkung berät.
+
+<sup>2</sup> Departemente, welche departementsübergreifende Weisungen zu Fragen der Digitalisierung und IKT-Lenkung erlassen, hören vorgängig den Digitalisierungsrat an.
+
+[^5-1]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
 
 #### Art. 6
 
@@ -132,10 +138,12 @@ Der Digitalisierungsrat setzt sich zusammen aus:
 
 **Entscheid über den Leistungsbezug**
 
-Soweit diese Verordnung nichts anderes bestimmt, entscheiden die Departemente und die Bundeskanzlei, gestützt auf Marktanalysen und unter Berücksichtigung der Grundsätze der Opportunität, Interoperabilität, Wirtschaftlichkeit und Sicherheit:
+Soweit diese Verordnung nichts anderes bestimmt, entscheiden die Departemente und die Bundeskanzlei, gestützt auf Marktanalysen und unter Berücksichtigung der Grundsätze der Zweckmässigkeit, Interoperabilität, Wirtschaftlichkeit und Sicherheit:[^8-1]
 
 - a. ob eine Leistung intern erbracht oder extern beschafft werden soll;
 - b. gegebenenfalls, von welchem internen Leistungserbringer die Leistung erbracht werden soll.
+
+[^8-1]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
 
 #### Art. 9
 
@@ -197,21 +205,27 @@ Er setzt sich zusammen aus je einer Vertreterin oder einem Vertreter der folgend
 
 ## 3. Kapitel: Strategien
 
-### 1. Abschnitt: Strategie digitale Transformation und Informatik
+### 1. Abschnitt: Strategie Digitale Bundesverwaltung
+
+[^chap3-sec1-1]
+
+[^chap3-sec1-1]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
 
 #### Art. 13
 
 **Verantwortlichkeit und Inhalt**
 
-<sup>1</sup> Der Bundesrat bestimmt die Strategie der Bundesverwaltung im Bereich der digitalen Transformation und der Informatik (DTI-Strategie).
+<sup>1</sup> Der Bundesrat bestimmt die Strategie der Bundesverwaltung im Bereich der digitalen Transformation und der Informatik (Strategie Digitale Bundesverwaltung[^13-1]).
 
 <sup>2</sup> Die Strategie bestimmt die Ziele der digitalen Transformation in der Bundesverwaltung sowie die Handlungsfelder zur Erreichung dieser Ziele.
+
+[^13-1]: Ausdruck gemäss Ziff. I Abs.1 des BG vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
 
 #### Art. 14
 
 **Umsetzung**
 
-Der Bereich DTI der BK erarbeitet die DTI-Strategie und koordiniert die Umsetzung. Er hört dazu den Digitalisierungsrat an.
+Der Bereich DTI der BK erarbeitet die Strategie Digitale Bundesverwaltung und koordiniert die Umsetzung. Er hört dazu den Digitalisierungsrat an.
 
 ### 2. Abschnitt: Strategie digitale Schweiz
 
@@ -237,17 +251,17 @@ Der Bereich DTI der BK koordiniert die Erarbeitung und die Umsetzung der Strateg
 
 <sup>1</sup>
 
-Der Bereich DTI der BK erlässt generell-abstrakte Weisungen mit Geltung für alle Stellen nach Artikel 2 zu den folgenden Themen:
+Der Bereich DTI der BK erlässt Weisungen mit Geltung für alle Stellen nach Artikel 2 zu den folgenden Themen:[^17-1]
 
-- a. *Teilstrategien:* Leitlinien, die die allgemeine Stossrichtung der DTI, die Eingrenzung ihrer Nutzung und die Planung der Entwicklung bestimmter Aspekte der DTI mit einem mittleren Zeithorizont bestimmen;
-- b. *DTI-Prozesse:* Art und Weise, wie die mit der DTI verbundenen Aufgaben erfüllt werden sollen, sowie die zu benutzenden Hilfsmittel;
+- a.[^17-2] *Teilstrategien:* Leitlinien, die die allgemeine Stossrichtung der digitalen Transformation und IKT-Lenkung, die Eingrenzung ihrer Nutzung und die Planung der Entwicklung bestimmter Aspekte der DTI mit einem mittleren Zeithorizont bestimmen;
+- b.[^17-3] *Prozesse:* Art und Weise, wie die mit der digitalen Transformation und IKT-Lenkung verbundenen Aufgaben erfüllt werden sollen, sowie die zu benutzenden Hilfsmittel;
 - c. *Unternehmensarchitektur:* departementsübergreifendes Zusammenspiel der Geschäftsprozesse, der Datenmodelle, der Technologien sowie der IKT-Produkte und -dienstleistungen;
 - d. *Standards:* Festlegung der Produkte, der Schnittstellen und Technologien, die sich aus der Unternehmensarchitektur ergeben und die für die Interoperabilität, die Wirtschaftlichkeit und die Sicherheit unabdingbar sind;
 - e. *Standarddienste:* Leistungen im Bereich der digitalen Transformation oder der IKT, die in der Bundesverwaltung zentral erbracht und vielfach verwendet werden und die gleiche oder ähnliche Bedürfnisse befriedigen; eine Weisung über einen Standarddienst bestimmt namentlich die Verantwortlichkeit für die Leistungserbringung und für die Führung des Dienstes, die allgemeine Finanzierung und die Sicherung der Qualität der erbrachten Leistungen;
-- f. *Führung des DTI-Portfolios:* alle Tätigkeiten, die für die Koordination der Studien, Programme und Projekte im Bereich der digitalen Transformation sowie für die Zusammenstellung der IKT-Anwendungen und -dienste in der Bundesverwaltung nötig sind, sowie die dazugehörigen Massnahmen;
-- g. *Geschäftscontrolling:* Sammeln, Bearbeiten, Verifizieren und Interpretieren von Informationen, die der DTI dienen, sowie die dazugehörigen Massnahmen.
+- f.[^17-4] *Führung des Portfolios:* alle Tätigkeiten, die für die Koordination der Programme, Projekte und weiteren Lösungsentwicklungen im Bereich der digitalen Transformation sowie für die Zusammenstellung der IKT‑Anwendungen und -dienste in der Bundesverwaltung nötig sind, sowie die dazugehörigen Massnahmen und die zu benutzenden Hilfsmittel;
+- g.[^17-5] *Geschäftscontrolling:* Sammeln, Bearbeiten, Verifizieren und Interpretieren von Informationen, die der digitalen Transformation und IKT-Lenkung dienen, sowie die dazugehörigen Massnahmen.
 
-<sup>2</sup> Er hört vorgängig den Digitalisierungsrat an.
+<sup>2</sup> Er hört vorgängig den Digitalisierungsrat an. Bei Weisungen von untergeordneter Bedeutung kann die Anhörung über ein anderes Gremium erfolgen.[^17-6]
 
 <sup>3</sup> Er entscheidet über Abweichungen von den Weisungen, die er erlassen hat.
 
@@ -259,15 +273,24 @@ Er kann Entscheide über Abweichungen von untergeordneter Bedeutung delegieren:
 - b. an Arbeitsgruppen;
 - c. an Programm- oder Projektverantwortliche.
 
+[^17-1]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^17-2]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^17-3]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^17-4]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^17-5]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^17-6]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+
 #### Art. 18
 
 **Weisungen der Bundeskanzlerin oder des Bundeskanzlers über Standarddienste mit Bezugszwang**
 
-<sup>1</sup> Die Bundeskanzlerin oder der Bundeskanzler erlässt auf Antrag des Bereichs DTI der BK und nach Anhörung der GSK die Weisungen über die Standarddienste mit Bezugszwang und über die DTI-Schlüsselprojekte.
+<sup>1</sup> Die Bundeskanzlerin oder der Bundeskanzler erlässt auf Antrag des Bereichs DTI der BK und nach Anhörung der GSK die Weisungen über die Standarddienste mit Bezugszwang und über die Schlüsselprojekte[^18-1].
 
 <sup>2</sup> Sie oder er entscheidet, nach Anhörung der GSK, über Abweichungen von den Weisungen, die sie oder er erlassen hat.
 
 <sup>3</sup> Sie oder er kann Entscheide über Abweichungen von untergeordneter Bedeutung an den Bereich DTI der BK delegieren.
+
+[^18-1]: Ausdruck gemäss Ziff. I Abs. 2des BG vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)). *(Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.)*
 
 #### Art. 19
 
@@ -275,10 +298,11 @@ Er kann Entscheide über Abweichungen von untergeordneter Bedeutung delegieren:
 
 <sup>1</sup>
 
-Das Verfahren zur Streitbeilegung dient der Herbeiführung eines Entscheids im Falle einer Meinungsverschiedenheit zwischen einem Departement und dem Bereich DTI der BK über:
+Das Verfahren zur Streitbeilegung dient der Herbeiführung eines Entscheids im Falle einer Meinungsverschiedenheit zwischen Departementen untereinander oder einem Departement und dem Bereich DTI der BK über:[^19-1]
 
 - a. den Erlass einer Weisung des Bereichs DTI der BK;
-- b. die Gewährung einer Abweichung von einer Weisung des Bereichs DTI der BK.
+- b.[^19-2] die Gewährung einer Abweichung von einer Weisung des Bereichs DTI der BK;
+- c.[^19-3] den Erlass einer departementsübergreifenden Weisung eines Departements zu Fragen der Digitalisierung und IKT-Lenkung.
 
 <sup>2</sup> Das Departement zeigt die Meinungsverschiedenheit dem Bereich DTI der BK an.
 
@@ -286,30 +310,36 @@ Das Verfahren zur Streitbeilegung dient der Herbeiführung eines Entscheids im F
 
 <sup>4</sup> Die Bundeskanzlerin oder der Bundeskanzler entscheidet nach Anhörung der GSK.
 
-## 5. Kapitel: DTI-Schlüsselprojekte
+[^19-1]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^19-2]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^19-3]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+
+## 5. Kapitel: Schlüsselprojekte
 
 #### Art. 20
 
 **Gegenstand**
 
-DTI-Schlüsselprojekte der Bundesverwaltung sind DTI-Projekte oder -Programme, die einer verstärkten strategischen und operationellen Lenkung, Koordination und Überwachung bedürfen aufgrund:
+Schlüsselprojekte der Bundesverwaltung sind Projekte oder Programme betreffend digitale Transformation und IKT, die einer verstärkten strategischen und operationellen Lenkung, Koordination und Überwachung bedürfen aufgrund:[^20-1]
 
 - a. der benötigten Ressourcen;
 - b. ihrer strategischen Bedeutung;
 - c. ihrer Komplexität; oder
 - d. der mit ihnen verbundenen Risiken.
 
+[^20-1]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+
 #### Art. 21
 
 **Verantwortlichkeit**
 
-Die Bundeskanzlerin oder der Bundeskanzler bestimmt auf Antrag des Bereichs DTI der BK und nach Anhörung der GSK die DTI-Schlüsselprojekte der Bundesverwaltung.
+Die Bundeskanzlerin oder der Bundeskanzler bestimmt auf Antrag des Bereichs DTI der BK und nach Anhörung der GSK die Schlüsselprojekte der Bundesverwaltung.
 
 #### Art. 22
 
 **Berichterstattung und Korrekturmassnahmen**
 
-<sup>1</sup> Der Bereich DTI der BK erstattet der GSK regelmässig Bericht über die DTI-Schlüsselprojekte der Bundesverwaltung; dazu konsolidiert er die Berichte, welche die mit diesen Projekten betrauten Verwaltungsstellen liefern.
+<sup>1</sup> Der Bereich DTI der BK erstattet der GSK regelmässig Bericht über die Schlüsselprojekte der Bundesverwaltung; dazu konsolidiert er die Berichte, welche die mit diesen Projekten betrauten Verwaltungsstellen liefern.
 
 <sup>2</sup> Wenn nötig beantragt die Bundeskanzlerin oder der Bundeskanzler dem Bundesrat Korrekturmassnahmen, nach Anhörung der GSK.
 
@@ -350,7 +380,7 @@ Im Zusammenhang mit dem MDG bedeuten:
 
 <sup>1</sup>
 
-Folgende Daten werden im MDG als zentrale Daten geführt:
+Folgende Daten von MDG-Einheiten werden im MDG als zentrale Daten geführt, soweit sie für die Abwicklung unterstützter Supportprozesse erforderlich sind:[^26-1]
 
 - a. unpersönliche Identifikationsnummer;
 - b. Personalien wie Name, Vorname, Geburtsdatum;
@@ -362,16 +392,21 @@ Folgende Daten werden im MDG als zentrale Daten geführt:
 - h. Registernummern, die zur eindeutigen Identifizierung der MDG-Einheit beitragen;
 - i.
 
-  folgende weiteren Daten, die zur Abwicklung von unterstützten Supportprozessen benötigt werden:
+  folgende weiteren Daten:[^26-2]
 
   - 1\. bundesinterne buchhalterische Daten,
   - 2\. Mahndaten,
   - 3\. Verkaufskonditionen,
-  - 4\. Einkaufskonditionen.
+  - 4\. Einkaufskonditionen,[^26-3]
+  - 5\. Beziehungen zwischen MDG-Einheiten.[^26-4]
 
-<sup>2</sup> Im MDG dürfen keine besonders schützenswerten Personendaten geführt werden.[^26-1]
+<sup>2</sup> Im MDG dürfen keine besonders schützenswerten Personendaten geführt und kein Profiling durchgeführt werden.[^26-5]
 
-[^26-1]: Fassung gemäss Anhang 2 Ziff. II 17 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^26-1]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^26-2]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^26-3]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^26-4]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^26-5]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
 
 #### Art. 27
 
@@ -414,9 +449,11 @@ Die zentralen Daten des MDG stammen aus folgenden Quellen:
 Die Stellen nach Artikel 2 erhalten Zugriff auf:
 
 - a. die Daten nach Artikel 26 Absatz 1 Buchstabe i, die sie selber im MDG führen;
-- b. die Daten nach Artikel 26 Absatz 1 Buchstaben a–h, soweit es für die Abwicklung von unterstützten Supportprozessen notwendig ist.
+- b. [^28-1] die Daten nach Artikel 26 Absatz 1 Buchstaben a–h, soweit es für die Abwicklung von unterstützten Supportprozessen notwendig ist oder andere Regelungen einen Zugriff ausserhalb der Abwicklung von unterstützten Supportprozessen erlauben.
 
 <sup>2</sup> Der Zugriff kann über eine Schnittstelle mit den zu diesem Zweck angeschlossenen Informationssystemen gewährt werden.
+
+[^28-1]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
 
 #### Art. 29
 
@@ -452,21 +489,23 @@ Die EFV kann zentrale Daten für die Aktualisierung anderer Register über eine 
 
 #### Art. 32
 
-**Finanzielle Führung der DTI-Mittel**
+**Finanzielle Führung der Mittel für Digitalisierung und IKT[^32-1]**
 
-<sup>1</sup> Die Budgetierung der DTI-Mittel und deren Verrechnung in der Staatsrechnung des Bundes erfolgen grundsätzlich dezentral.
+<sup>1</sup> Die Budgetierung der Mittel für Digitalisierung und IKT und deren Verrechnung in der Staatsrechnung des Bundes erfolgen grundsätzlich dezentral.
 
-<sup>2</sup> Der Bereich DTI der BK stellt die nötigen Instrumente für die Führung der DTI-Mittel bereit, koordiniert die Verwendung dieser Mittel im Einvernehmen mit den Departementen und stellt die departementsübergreifende Kontrolle sicher.
+<sup>2</sup> Der Bereich DTI der BK stellt die nötigen Instrumente für die Führung der Mittel für Digitalisierung und IKT bereit, koordiniert die Verwendung dieser Mittel im Einvernehmen mit den Departementen und stellt die departementsübergreifende Kontrolle sicher.
 
 <sup>3</sup> Die internen Leistungserbringer führen eine ausgebaute Kosten- und Leistungsrechnung und weisen bezüglich der Standarddienste gegenüber dem Bereich DTI der BK ihre Kosten und ihre Erlöse periodisch transparent aus.
 
+[^32-1]: Ausdruck gemäss Ziff. I Abs. 3 des BG vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)). *(Diese Änd. ist im ganzen Erlass berücksichtigt.)*
+
 #### Art. 33
 
-**Zentrale Mittelzuteilung an die DTI**
+**Zentrale Mittelzuteilung[^33-1]**
 
-<sup>1</sup> Der Bundesrat entscheidet im Rahmen des Budgetprozesses des Bundes über die zentral zuzuteilenden DTI-Mittel.
+<sup>1</sup> Der Bundesrat entscheidet im Rahmen des Budgetprozesses des Bundes über die zentral zuzuteilenden Mittel für Digitalisierung und IKT.
 
-<sup>2</sup> Die Bundeskanzlerin oder der Bundeskanzler entscheidet auf Antrag des Bereichs DTI der BK und nach Anhörung der GSK über die Zuteilung der im Voranschlag des Bundes zentral eingestellten DTI-Mittel.
+<sup>2</sup> Die Bundeskanzlerin oder der Bundeskanzler entscheidet auf Antrag des Bereichs DTI der BK und nach Anhörung der GSK über die Zuteilung der im Voranschlag des Bundes zentral eingestellten Mittel für Digitalisierung und IKT.
 
 <sup>3</sup>
 
@@ -477,6 +516,8 @@ Der Bereich DTI der BK kann im Rahmen des Vollzugs des Budgets und nach Anhörun
 
 <sup>4</sup> Er verwaltet die im Budget zentral eingestellten Mittel.
 
+[^33-1]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+
 #### Art. 34
 
 **IKT-Audit**
@@ -485,7 +526,9 @@ Der Bereich DTI der BK kann im Rahmen des Vollzugs des Budgets und nach Anhörun
 
 <sup>2</sup> Es wird von der Eidgenössischen Finanzkontrolle (EFK) durchgeführt.
 
-<sup>3</sup> Die Departemente, die Bundeskanzlei und der Bereich DTI der BK können der EFK Audits im DTI-Bereich vorschlagen.
+<sup>3</sup> Die Departemente, die Bundeskanzlei und der Bereich DTI der BK können der EFK Audits zur Digitalisierung und IKT in der Bundesverwaltung vorschlagen.[^34-1]
+
+[^34-1]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
 
 ## 9. Kapitel: Schlussbestimmungen
 

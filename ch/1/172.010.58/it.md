@@ -4,11 +4,11 @@ title: "Ordinanza del 25 novembre 2020 sul coordinamento della trasformazione di
 short: OTDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/988"
 language: it
-version: 2023-09-01
+version: 2023-11-01
 adopted: 2020-11-25
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/988/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2020-988-20230901-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/988/20231101/it/xml/fedlex-data-admin-ch-eli-cc-2020-988-20231101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20231101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/988/20230901/it"
 
 (Ordinanza sulla trasformazione digitale e l’informatica, OTDI)
 
-del 25 novembre 2020 (Stato 1° settembre 2023)
+del 25 novembre 2020 (Stato 1° novembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -87,17 +87,23 @@ Per quanto la presente ordinanza non disponga altrimenti, i dipartimenti e la Ca
 
 <sup>4</sup> Gestisce servizi standard e svolge progetti o programmi nel suo ambito di competenza.
 
-<sup>5</sup> Prepara gli affari del Consiglio federale relativi alla TDT in seno all’Amministrazione federale e svolge i mandati che ne risultano.
+<sup>5</sup> Prepara gli affari del Consiglio federale relativi alla trasformazione digitale e alla governance delle TIC in seno all’Amministrazione federale e svolge i mandati che ne risultano.[^4-1]
 
 <sup>6</sup> Può rappresentare la Confederazione in organizzazioni attive nell’ambito della TDT sia a livello nazionale che internazionale.
+
+[^4-1]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
 
 ### Sezione 2: Consiglio della trasformazione digitale e della governance delle TIC della Confederazione
 
 #### Art. 5
 
-**Ruolo**
+**Ruolo**[^5-1]
 
-Il Consiglio della trasformazione digitale e della governance delle TIC della Confederazione (Consiglio TDT) è un organo interdipartimentale che fornisce consulenza al delegato TDT nello svolgimento dei suoi compiti.
+<sup>1</sup> Il Consiglio della trasformazione digitale e della governance delle TIC della Confederazione (Consiglio TDT) è un organo interdipartimentale che fornisce consulenza al delegato TDT e alle unità amministrative nel coordinare la trasformazione digitale e la governance delle TIC tra i dipartimenti.
+
+<sup>2</sup> I dipartimenti che emanano direttive interdipartimentali su questioni concernenti la digitalizzazione e la governance delle TIC consultano previamente il Consiglio TDT.
+
+[^5-1]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
 
 #### Art. 6
 
@@ -197,15 +203,21 @@ Esso si compone di un rappresentante di ciascuna delle seguenti unità amministr
 
 ## Capitolo 3: Strategie
 
-### Sezione 1: Strategia in materia di trasformazione digitale e di informatica
+### Sezione 1: Strategia Amministrazione federale digitale
+
+[^chap3-sec1-1]
+
+[^chap3-sec1-1]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
 
 #### Art. 13
 
 **Responsabilità e contenuto**
 
-<sup>1</sup> Il Consiglio federale definisce la strategia dell’Amministrazione federale in materia di trasformazione digitale e di informatica (strategia TDI).
+<sup>1</sup> Il Consiglio federale definisce la strategia dell’Amministrazione federale in materia di trasformazione digitale e di informatica (Strategia Amministrazione federale digitale[^13-1]).
 
 <sup>2</sup> Tale strategia definisce gli obiettivi della trasformazione digitale nell’Amministrazione federale e gli ambiti di azione che consentono di raggiungerli.
+
+[^13-1]: Nuova espressione giusta il n. I cpv. 1 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
 
 #### Art. 14
 
@@ -237,17 +249,17 @@ Il settore TDT della CaF coordina l’elaborazione e l’attuazione della strate
 
 <sup>1</sup>
 
-Il settore TDT della CaF emana direttive generali e astratte valide per le autorità, le organizzazioni e le persone di cui all’articolo 2, concernenti:
+Il settore TDT della CaF emana direttive valide per le autorità, le organizzazioni e le persone di cui all’articolo 2, concernenti:[^17-1]
 
-- a. *le strategie parziali,* ossia le linee direttrici che definiscono l’orientamento generale della TDT, la delimitazione dell’uso della stessa e la pianificazione dello sviluppo di taluni suoi aspetti a medio termine;
-- b. *i processi TDT*, ossia il modo in cui i compiti legati alla TDT devono essere svolti e gli strumenti di aiuto da utilizzare;
+- a.[^17-2] le *strategie parziali*, ossia le linee direttrici che definiscono l’orientamento generale della trasformazione digitale e della governance delle TIC, la delimitazione dell’uso delle stesse e la pianificazione dello sviluppo di taluni suoi aspetti a medio termine;
+- b.[^17-3] i *processi*, ossia il modo in cui i compiti legati alla trasformazione digitale e alla governance delle TIC devono essere svolti e gli strumenti di aiuto da utilizzare;
 - c. *l’architettura aziendale*, ossia la strutturazione interdipartimentale dei processi lavorativi, dei modelli di dati, delle tecnologie nonché dei prodotti e delle prestazioni TIC;
 - d. *gli standard,* ossia la definizione di prodotti, interfacce o tecnologie derivanti dall’architettura aziendale e che sono necessari per garantire l’interoperabilità, l’economicità e la sicurezza;
 - e. *i servizi standard,* ossia le prestazioni in materia di trasformazione digitale o di TIC, gestite in modo centralizzato, frequentemente utilizzate in seno all’Amministrazione federale e aventi requisiti identici o simili; una direttiva concernente un servizio standard stabilisce segnatamente la responsabilità della fornitura e della gestione del servizio standard, l’acquisto di prestazioni, il finanziamento generale e il controllo della qualità delle prestazioni fornite;
-- f. *la gestione del portafoglio TDT*, ossia le attività necessarie al coordinamento degli studi, dei programmi e dei progetti in materia di trasformazione digitale nonché al raggruppamento di applicazioni o prestazioni TIC in seno all’Amministrazione federale e le relative misure;
-- g. *il controllo della gestione*, ossia la raccolta, il trattamento, la verifica e l’interpretazione d’informazioni che servono alla TDT nonché le relative misure.
+- f.[^17-4] la *gestione del portafoglio*, ossia le attività necessarie al coordinamento dei programmi, dei progetti e di altri sviluppi di soluzioni in materia di trasformazione digitale nonché al raggruppamento di applicazioni o prestazioni TIC in seno all’Amministrazione federale, e le relative misure e gli strumenti di aiuto da utilizzare;
+- g.[^17-5] il *controllo della gestione*, ossia la raccolta, il trattamento, la verifica e l’interpretazione d’informazioni che servono alla trasformazione digitale e alla governance delle TIC nonché le relative misure.
 
-<sup>2</sup> Il settore TDT della CaF consulta previamente il Consiglio TDT.
+<sup>2</sup> Il settore TDT della CaF consulta previamente il Consiglio TDT. Nel caso di direttive di portata minore, la consultazione può essere effettuata presso un altro organo.[^17-6]
 
 <sup>3</sup> Decide sulle deroghe alle direttive che ha emanato.
 
@@ -259,15 +271,24 @@ Può delegare decisioni di portata minore concernenti tali deroghe:
 - b. a gruppi di lavoro;
 - c. a responsabili di programmi o progetti.
 
+[^17-1]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^17-2]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^17-3]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^17-4]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^17-5]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^17-6]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+
 #### Art. 18
 
 **Direttive del cancelliere della Confederazione sui servizi standard con obbligo d’acquisto**
 
-<sup>1</sup> Su proposta del settore TDT della CaF e dopo aver sentito la CSG, il cancelliere della Confederazione emana direttive TDT sui servizi standard con obbligo d’acquisto e sui progetti TDT chiave.
+<sup>1</sup> Su proposta del settore TDT della CaF e dopo aver sentito la CSG, il cancelliere della Confederazione emana direttive TDT sui servizi standard con obbligo d’acquisto e sui progetti chiave[^18-1].
 
 <sup>2</sup> Dopo aver sentito la CSG, decide su deroghe alle direttive che ha emanato.
 
 <sup>3</sup> Può delegare decisioni di portata minore concernenti deroghe tali al settore TDT della CaF.
+
+[^18-1]: Nuova espressione giusta il n. I cpv. 2 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)). Di detta mod.è stato tenuto conto in tutte disp. menzionate nella RU.
 
 #### Art. 19
 
@@ -275,10 +296,11 @@ Può delegare decisioni di portata minore concernenti tali deroghe:
 
 <sup>1</sup>
 
-La procedura per la composizione delle controversie è volta a comporre le controversie tra un dipartimento e il settore TDT della CaF concernenti:
+La procedura per la composizione delle controversie è volta a comporre le controversie tra dipartimenti o tra un dipartimento e il settore TDT della CaF concernenti:[^19-1]
 
 - a. l’emanazione di una direttiva del settore TDT della CaF;
-- b. la concessione di una deroga a una direttiva del settore TDT della CaF.
+- b.[^19-2] la concessione di una deroga a una direttiva del settore TDT della CaF;
+- c.[^19-3] l’emanazione da parte di un dipartimento di una direttiva interdipartimentale su questioni concernenti la digitalizzazione e la governance delle TIC.
 
 <sup>2</sup> Il dipartimento notifica la controversia al settore TDT della CaF.
 
@@ -286,30 +308,36 @@ La procedura per la composizione delle controversie è volta a comporre le contr
 
 <sup>4</sup> Dopo aver sentito la CSG, il cancelliere della Confederazione decide in merito alla controversia.
 
-## Capitolo 5: Progetti TDT chiave
+[^19-1]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^19-2]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^19-3]: Introdotta dal n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+
+## Capitolo 5: Progetti chiave
 
 #### Art. 20
 
 **Oggetto**
 
-I progetti chiave TDT dell’Amministrazione federale sono progetti o programmi in materia di TDT che necessitano di un rafforzamento della condotta strategica e operativa, del coordinamento e della sorveglianza a causa:
+I progetti chiave dell’Amministrazione federale sono progetti o programmi concernenti la trasformazione digitale e le TIC che necessitano di un rafforzamento della condotta strategica e operativa, del coordinamento e della sorveglianza a causa:[^20-1]
 
 - a. delle risorse che richiedono;
 - b. della loro importanza strategica;
 - c. della loro complessità; o
 - d. dei rischi che presentano.
 
+[^20-1]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+
 #### Art. 21
 
 **Responsabilità**
 
-Su proposta del delegato TDT e dopo aver sentito la CSG, il cancelliere della Confederazione determina i progetti chiave TDT dell’Amministrazione federale.
+Su proposta del delegato TDT e dopo aver sentito la CSG, il cancelliere della Confederazione determina i progetti chiave dell’Amministrazione federale.
 
 #### Art. 22
 
 **Rapporti e provvedimenti correttivi**
 
-<sup>1</sup> Il delegato TDT fa regolarmente rapporto al cancelliere della Confederazione circa i progetti chiave TDT dell’Amministrazione federale, consolidando i rapporti che gli consegnano le unità amministrative incaricate di tali progetti.
+<sup>1</sup> Il delegato TDT fa regolarmente rapporto al cancelliere della Confederazione circa i progetti chiave dell’Amministrazione federale, consolidando i rapporti che gli consegnano le unità amministrative incaricate di tali progetti.
 
 <sup>2</sup> Se necessario, il cancelliere della Confederazione, dopo aver sentito la CSG, propone provvedimenti correttivi al Consiglio federale.
 
@@ -348,7 +376,7 @@ Nel contesto del sistema GDB, si intende per:
 
 <sup>1</sup>
 
-I dati seguenti sono gestiti in modo centralizzato nel sistema GDB:
+I dati seguenti delle unità GDB sono gestiti in modo centralizzato nel sistema GDB, sempreché siano necessari per l’esecuzione dei processi di supporto sostenuti:[^26-1]
 
 - a. numero d’identificazione non personale;
 - b. dati d’identificazione, per esempio cognome, nome, data di nascita;
@@ -360,16 +388,21 @@ I dati seguenti sono gestiti in modo centralizzato nel sistema GDB:
 - h. numeri di registro che consentono d’identificare in modo univoco un’unità GDB;
 - i.
 
-  altri dati necessari per l’esecuzione dei processi di supporto, ossia:
+  altri dati, ossia:[^26-2]
 
   - 1\. dati contabili interni alla Confederazione,
   - 2\. dati relativi ai richiami,
   - 3\. condizioni di vendita,
-  - 4\. condizioni d’acquisto.
+  - 4\.[^26-3] condizioni d’acquisto,
+  - 5\.[^26-4] relazioni fra unità GDB.
 
-<sup>2</sup> Nel sistema GDB non possono essere gestiti dati personali degni di particolare protezione.[^26-1]
+<sup>2</sup> Nel sistema GDB non possono essere gestiti dati personali degni di particolare protezione e non possono essere eseguite profilazioni.[^26-5]
 
-[^26-1]: Nuovo testo giusta l’all. 2 n. II 17 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^26-1]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^26-2]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^26-3]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^26-4]: Introdotto dal n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+[^26-5]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
 
 #### Art. 27
 
@@ -412,9 +445,11 @@ I dati centralizzati nel sistema GDB provengono dalle fonti seguenti:
 Le autorità, le organizzazioni e le persone di cui all’articolo 2 hanno accesso:
 
 - a. ai dati di cui all’articolo 26 capoverso 1 lettera i, che gestiscono autonomamente nel sistema GDB;
-- b. ai dati di cui all’articolo 26 capoverso 1 lettere a–h, per quanto ne abbiano bisogno per l’esecuzione dei processi di supporto sostenuti.
+- b.[^28-1] ai dati di cui all’articolo 26 capoverso 1 lettere a–h, per quanto ne abbiano bisogno per l’esecuzione dei processi di supporto sostenuti o altre disposizioni ne permettano l’accesso per scopi diversi dall’esecuzione dei processi di supporto sostenuti.
 
 <sup>2</sup> L’accesso può essere consentito mediante un’interfaccia con i sistemi d’informazione interessati.
+
+[^28-1]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
 
 #### Art. 29
 
@@ -450,17 +485,19 @@ L’AFF può, mediante un’interfaccia, mettere a disposizione dati centralizza
 
 #### Art. 32
 
-**Gestione finanziaria delle risorse assegnate alla TDT**
+**Gestione finanziaria delle risorse per la digitalizzazione e le TIC[^32-1]**
 
-<sup>1</sup> L’iscrizione nel preventivo e nel consuntivo della Confederazione delle risorse assegnate all’informatica viene effettuata di norma a livello decentralizzato.
+<sup>1</sup> L’iscrizione nel preventivo e nel consuntivo della Confederazione delle risorse per la digitalizzazione e le TIC viene effettuata di norma a livello decentralizzato.
 
-<sup>2</sup> Il settore TDT della CaF fornisce gli strumenti necessari alla gestione delle risorse TDT, ne coordina l’impiego d’intesa con i dipartimenti e garantisce il controllo interdipartimentale della gestione.
+<sup>2</sup> Il settore TDT della CaF fornisce gli strumenti necessari alla gestione delle risorse per la digitalizzazione e le TIC, ne coordina l’impiego d’intesa con i dipartimenti e garantisce il controllo interdipartimentale della gestione.
 
 <sup>3</sup> I fornitori interni di prestazioni tengono una contabilità analitica estesa e presentano periodicamente al settore TDT della CaF, in modo trasparente, i costi e i ricavi dei servizi standard.
 
+[^32-1]: Nuova espressione giusta il n. I cpv. 3 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)). Di detta mod.è stato tenuto conto in tutte disp. menzionate nella RU.
+
 #### Art. 33
 
-**Risorse assegnate in modo centralizzato alla TDT**
+**Risorse assegnate in modo centralizzato[^33-1]**
 
 <sup>1</sup> Il Consiglio federale decide, nell’ambito del processo riguardante il preventivo della Confederazione, delle risorse da assegnare in modo centralizzato.
 
@@ -475,6 +512,8 @@ Nel quadro dell’esecuzione del preventivo e dopo aver sentito il Consiglio TDT
 
 <sup>4</sup> Il settore TDT della CaF gestisce le risorse iscritte nel preventivo in modo centralizzato.
 
+[^33-1]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
+
 #### Art. 34
 
 **Audit delle TIC**
@@ -483,7 +522,9 @@ Nel quadro dell’esecuzione del preventivo e dopo aver sentito il Consiglio TDT
 
 <sup>2</sup> È effettuato dal Controllo federale delle finanze (CDF).
 
-<sup>3</sup> I dipartimenti, la Cancelleria federale e il settore TDT della CaF possono proporre al CDF audit nell’ambito della TDT.
+<sup>3</sup> I dipartimenti, la Cancelleria federale e il settore TDT della CaF possono proporre al CDF audit sulla digitalizzazione e le TIC in seno all’Amministrazione federale.[^34-1]
+
+[^34-1]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 561](https://fedlex.data.admin.ch/eli/oc/2023/561)).
 
 ## Capitolo 9: Disposizioni finali
 
