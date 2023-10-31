@@ -4,11 +4,11 @@ title: "Règlement d'exécution du 7 décembre 2006 de la convention sur le brev
 short: RE CBE 2000
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/850"
 language: fr
-version: 2023-02-01
+version: 2023-11-01
 adopted: 2006-12-07
 in_force: 2007-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/850/20230201/fr/xml/fedlex-data-admin-ch-eli-cc-2007-850-20230201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/850/20230201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/850/20231101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-850-20231101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/850/20231101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -25,7 +25,7 @@ Approuvé par le Conseil d’administration le 7 décembre 2006
 
 Entré en vigueur pour la Suisse le 13 décembre 2007
 
-(État le 1<sup>er</sup> février 2023)
+(État le 1<sup>er</sup> novembre 2023)
 
 ## Partie I Dispositions générales et institutionnelles
 
@@ -1713,7 +1713,7 @@ La signification directe est faite, soit:
 
 <sup>(1)</sup> Toutes les significations par un service postal sont faites par lettre recommandée.[^126-2]
 
-<sup>(2)</sup> Lorsque la signification est faite conformément au paragraphe 1, la lettre est réputée remise à son destinataire le dixième jour après sa remise au prestataire de services postaux, à moins qu’elle ne lui soit pas parvenue ou ne lui soit parvenue qu’à une date ultérieure; en cas de contestation, il incombe à l’Office européen des brevets d’établir que la lettre est parvenue à destination ou d’établir, le cas échéant, la date de sa remise au destinataire.
+<sup>(2)</sup> Lorsque la signification est faite conformément au paragraphe 1, la pièce est réputée remise à son destinataire à la date qu’elle porte, à moins qu’elle ne lui soit pas parvenue. En cas de contestation relative à la remise de la pièce, il incombe à l’Office européen des brevets d’établir que la pièce est parvenue à destination et d’établir la date de sa remise au destinataire. Si l’Office européen des brevets établit que la pièce a été remise à son destinataire plus de sept jours après la date qu’elle porte, tout délai pour lequel la fiction de la réception de cette pièce constitue l’événement pertinent aux fins de la règle 131, paragraphe 2, est prorogé du nombre de jours de dépassement de ces sept jours.[^126-3]
 
 <sup>(3)</sup> La signification prévue au par.1 est réputée faite même si la lettre a été refusée.
 
@@ -1721,6 +1721,7 @@ La signification directe est faite, soit:
 
 [^126-1]: Nouvelle teneur selon l’art. 1 ch. 4 de la D du Conseil d’administration du 15 oct. 2014, en vigueur depuis le 1<sup>er</sup> avr. 2015 ([RO 2015 4199](https://fedlex.data.admin.ch/eli/oc/2015/703)).
 [^126-2]: Nouvelle teneur selon l’art. 1 de la D du Conseil d’administration du 28 mars 2019, en vigueur depuis le 1<sup>er</sup> nov. 2019 ([RO 2019 3515](https://fedlex.data.admin.ch/eli/oc/2019/642)).
+[^126-3]: Nouvelle teneur selon l’art. 1 par. 10 de la D du Conseil d’administration du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
 
 #### Règle 127
 
@@ -1728,9 +1729,10 @@ La signification directe est faite, soit:
 
 <sup>(1)</sup> La signification peut être faite par des moyens de communication électronique que détermine le Président de l’Office européen des brevets et dans les conditions qu’il arrête.
 
-<sup>(2)</sup> Lorsque la signification est faite par des moyens de communication électronique, la pièce électronique est réputée remise à son destinataire le dixième jour après sa transmission, à moins qu’elle ne soit pas parvenue à destination ou qu’elle ne soit parvenue à destination qu’à une date ultérieure; en cas de contestation, il incombe à l’Office européen des brevets d’établir que la pièce électronique est parvenue à destination ou d’établir, le cas échéant, la date à laquelle elle est parvenue à destination.
+<sup>(2)</sup> Lorsque la signification est faite par des moyens de communication électronique, la pièce électronique est réputée remise à son destinataire à la date qu’elle porte, à moins qu’elle ne soit pas parvenue à destination. En cas de contestation relative à la remise de la pièce électronique, il incombe à l’Office européen des brevets d’établir que la pièce est parvenue à destination et d’établir la date à laquelle elle est parvenue à destination. Si l’Office européen des brevets établit que la pièce électronique est parvenue à destination plus de sept jours après la date qu’elle porte, tout délai pour lequel la fiction de la réception de cette pièce constitue l’événement pertinent aux fins de la règle 131, paragraphe 2, est prorogé du nombre de jours de dépassement de ces sept jours.[^127-2]
 
 [^127-1]: Nouvelle teneur selon l’art. 1 ch. 5 de la D du Conseil d’administration du 15 oct. 2014, en vigueur depuis le 1<sup>er</sup> avr. 2015 ([RO 2015 4199](https://fedlex.data.admin.ch/eli/oc/2015/703)).
+[^127-2]: Nouvelle teneur selon l’art. 1 par. 11 de la D du Conseil d’administration du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
 
 #### Règle 128
 
@@ -1764,13 +1766,15 @@ La signification peut être effectuée dans les locaux de l’Office européen d
 
 <sup>(1)</sup> Les délais sont fixés en années, mois, semaines ou jours entiers.
 
-<sup>(2)</sup> Le délai part du jour suivant celui où a eu lieu l’événement par référence auquel son point de départ est fixé, cet événement pouvant être soit un acte, soit l’expiration d’un délai antérieur. Sauf s’il en est disposé autrement, lorsque l’acte est une signification, l’événement considéré est la réception de la pièce signifiée.
+<sup>(2)</sup> Le délai part du jour suivant celui où a eu lieu l’événement par référence auquel son point de départ est fixé, cet événement pouvant être soit un acte, soit l’expiration d’un délai antérieur. Sauf s’il en est disposé autrement, lorsque l’acte est une signification, l’événement considéré est la fiction de la réception de la pièce signifiée.[^131-1]
 
 <sup>(3)</sup> Lorsqu’un délai est exprimé en une ou plusieurs années, il expire, dans l’année ultérieure à prendre en considération, le mois portant le même nom et le jour ayant le même quantième que le mois et le jour où ledit événement a eu lieu; si le mois ultérieur à prendre en considération n’a pas de jour ayant le même quantième, le délai considéré expire le dernier jour de ce mois.
 
 <sup>(4)</sup> Lorsqu’un délai est exprimé en un ou plusieurs mois, il expire, dans le mois ultérieur à prendre en considération, le jour ayant le même quantième que le jour où ledit événement a eu lieu; si le mois ultérieur à prendre en considération n’a pas de jour ayant le même quantième, le délai considéré expire le dernier jour de ce mois.
 
 <sup>(5)</sup> Lorsqu’un délai est exprimé en une ou plusieurs semaines, il expire, dans la semaine à prendre en considération, le jour portant le même nom que celui où ledit événement a eu lieu.
+
+[^131-1]: Nouvelle teneur selon l’art. 1 par. 12 de la D du Conseil d’administration du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
 
 #### Règle 132
 
@@ -2487,6 +2491,8 @@ Les règles 56 (2) et (3) et 135 (2) CBE, telles que modifiées, et la règle 56
 [^u23-1]: [RO 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)art. 3
 
 Les règles 46, 49, 50, 57 et 82 telles que modifiées par l’article premier de la présente décision s’appliquent aux documents déposés auprès de l’Office européen des brevets à compter du 1<sup>er</sup> février 2023.
+
+Les règles 126, 127 et 131 telles que modifiées par l’article premier de la présente décision s’appliquent aux pièces signifiées par l’Office européen des brevets à compter du 1<sup>er</sup> novembre 2023.
 
 Champ d’application du Règlement d’exécution[^t-1]
 

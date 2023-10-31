@@ -4,11 +4,11 @@ title: Ausführungsordnung vom 7. Dezember 2006 zum Europäischen Patentüberein
 short: AO EPÜ 2000
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/850"
 language: de
-version: 2023-02-01
+version: 2023-11-01
 adopted: 2006-12-07
 in_force: 2007-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/850/20230201/de/xml/fedlex-data-admin-ch-eli-cc-2007-850-20230201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/850/20230201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/850/20231101/de/xml/fedlex-data-admin-ch-eli-cc-2007-850-20231101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/850/20231101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -25,7 +25,7 @@ Angenommen vom Verwaltungsrat am 7. Dezember 2006
 
 In Kraft getreten für die Schweiz am 13. Dezember 2007
 
-(Stand am 1. Februar 2023)
+(Stand am 1. November 2023)
 
 ## Erster Teil Ausführungsvorschriften zum Ersten Teil des Übereinkommens
 
@@ -1437,13 +1437,14 @@ Hält das Europäische Patentamt die Vernehmung von Beteiligten, Zeugen oder Sac
 
 (1) Alle Zustellungen durch Postdienste erfolgen mittels eingeschriebenen Briefs.[^part7-chapIV-lvlu2-2]
 
-(2) Bei der Zustellung gemäss Absatz 1 gilt der Brief mit dem zehnten Tag nach der Übergabe an den Postdiensteanbieter als zugestellt, es sei denn, er ist nicht oder an einem späteren Tag zugegangen; im Zweifel hat das Europäische Patentamt den Zugang des Schriftstücks und gegebenenfalls den Tag des Zugangs nachzuweisen.
+(2) Bei der Zustellung gemäss Absatz 1 gilt das Schriftstück als an dem Tag zugestellt, auf den es datiert ist, es sei denn, es ist nicht zugegangen. Im Zweifel hinsichtlich der Zustellung des Schriftstücks hat das Europäische Patentamt den Zugang des Schriftstücks und den Tag des Zugangs nachzuweisen. Weist das Europäische Patentamt nach, dass das Schriftstück mehr als sieben Tage nach seinem Datum zugegangen ist, so läuft eine Frist, für die der fiktive Zugang des Schriftstücks das massgebliche Ereignis nach Regel 131 Absatz 2 ist, um die diese sieben Tage überschreitende Anzahl von Tagen später ab.[^part7-chapIV-lvlu2-3]
 
 (3) Die Zustellung gemäss Absatz 1 gilt auch dann als bewirkt, wenn die Annahme des Briefs verweigert wird.
 
 (4) Soweit die Zustellung durch Postdienste durch die Absätze 1 bis 3 nicht geregelt ist, ist das Recht des Staats anzuwenden, in dem die Zustellung erfolgt.
 
 [^part7-chapIV-lvlu2-2]: Fassung gemäss Art. 1 des Beschlusses des Verwaltungsrats vom 28. März 2019, in Kraft seit 1. Nov. 2019 ([AS 2019 3515](https://fedlex.data.admin.ch/eli/oc/2019/642)).
+[^part7-chapIV-lvlu2-3]: Fassung gemäss Art. 1 Ziff. 10 des Beschlusses des Verwaltungsrats vom 12. Okt. 2022, mit Wirkung seit 1. Nov. 2023 ([AS 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
 
 ### **Regel 127**Zustellung durch Einrichtungen zur elektronischen Nachrichtenübermittlung
 
@@ -1453,7 +1454,9 @@ Hält das Europäische Patentamt die Vernehmung von Beteiligten, Zeugen oder Sac
 
 (1) Die Zustellung kann durch Einrichtungen zur elektronischen Nachrichtenübermittlung bewirkt werden, die der Präsident des Europäischen Patentamts unter Festlegung der Bedingungen für ihre Benutzung bestimmt.
 
-(2) Bei der Zustellung durch Einrichtungen zur elektronischen Nachrichtenübermittlung gilt das elektronische Dokument mit dem zehnten Tag nach seiner Übermittlung als zugestellt, es sei denn, es ist nicht oder an einem späteren Tag zugegangen; im Zweifel hat das Europäische Patentamt den Zugang des elektronischen Dokuments und gegebenenfalls den Tag des Zugangs nachzuweisen.
+(2) Bei der Zustellung durch Einrichtungen zur elektronischen Nachrichtenübermittlung gilt das elektronische Dokument als an dem Tag zugestellt, auf den es datiert ist, es sei denn, es ist nicht zugegangen. Im Zweifel hinsichtlich der Zustellung des elektronischen Dokuments hat das Europäische Patentamt den Zugang des Dokuments und den Tag des Zugangs nachzuweisen. Weist das Europäische Patentamt nach, dass das elektronische Dokument mehr als sieben Tage nach seinem Datum zugegangen ist, so läuft eine Frist, für die der fiktive Zugang des Dokuments das massgebliche Ereignis nach Regel 131 Absatz 2 ist, um die diese sieben Tage überschreitende Anzahl von Tagen später ab.[^part7-chapIV-lvlu3-2]
+
+[^part7-chapIV-lvlu3-2]: Fassung gemäss Art. 1 Ziff. 11 des Beschlusses des Verwaltungsrats vom 12. Okt. 2022, mit Wirkung seit 1. Nov. 2023 ([AS 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
 
 ### **Regel 128**Zustellung durch unmittelbare Übergabe
 
@@ -1481,13 +1484,15 @@ Die Zustellung kann in den Dienstgebäuden des Europäischen Patentamts durch un
 
 (1) Die Fristen werden nach vollen Tagen, Wochen, Monaten oder Jahren berechnet.
 
-(2) Bei der Fristberechnung wird mit dem Tag begonnen, der auf den Tag folgt, an dem das Ereignis eingetreten ist, aufgrund dessen der Fristbeginn festgelegt wird; dieses Ereignis kann eine Handlung oder der Ablauf einer früheren Frist sein. Besteht die Handlung in einer Zustellung, so ist das massgebliche Ereignis der Zugang des zugestellten Schriftstücks, sofern nichts anderes bestimmt ist.
+(2) Bei der Fristberechnung wird mit dem Tag begonnen, der auf den Tag folgt, an dem das Ereignis eingetreten ist, aufgrund dessen der Fristbeginn festgelegt wird; dieses Ereignis kann eine Handlung oder der Ablauf einer früheren Frist sein. Besteht die Handlung in einer Zustellung, so ist das massgebliche Ereignis der fiktive Zugang des zugestellten Schriftstücks, sofern nichts anderes bestimmt ist.[^part7-chapV-lvlu1-1]
 
 (3) Ist als Frist ein Jahr oder eine Anzahl von Jahren bestimmt, so endet die Frist in dem massgeblichen folgenden Jahr in dem Monat und an dem Tag, der durch seine Benennung dem Monat und durch seine Zahl dem Tag entspricht, an dem das Ereignis eingetreten ist; hat der betreffende nachfolgende Monat keinen Tag mit der entsprechenden Zahl, so läuft die Frist am letzten Tag dieses Monats ab.
 
 (4) Ist als Frist ein Monat oder eine Anzahl von Monaten bestimmt, so endet die Frist in dem massgeblichen folgenden Monat an dem Tag, der durch seine Zahl dem Tag entspricht, an dem das Ereignis eingetreten ist; hat der betreffende nachfolgende Monat keinen Tag mit der entsprechenden Zahl, so läuft die Frist am letzten Tag dieses Monats ab.
 
 (5) Ist als Frist eine Woche oder eine Anzahl von Wochen bestimmt, so endet die Frist in der massgeblichen Woche an dem Tag, der durch seine Benennung dem Tag entspricht, an dem das Ereignis eingetreten ist.
+
+[^part7-chapV-lvlu1-1]: Fassung gemäss Art. 1 Ziff. 12 des Beschlusses des Verwaltungsrats vom 12. Okt. 2022, mit Wirkung seit 1. Nov. 2023 ([AS 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
 
 ### **Regel 132**Vom Europäischen Patentamt bestimmte Fristen
 
@@ -2133,6 +2138,8 @@ Die mit Artikel 1 dieses Beschlusses neu gefassten Regeln 56 (2) und (3) und 135
 [^u23-1]: [AS 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)Art. 3
 
 Die mit Artikel 1 dieses Beschlusses neu gefassten Regeln 46, 49, 50, 57 und 82 sind auf Unterlagen anzuwenden, die am oder nach dem 1. Februar 2023 beim Europäischen Patentamt eingereicht werden.
+
+Die mit Artikel 1 dieses Beschlusses neu gefassten Regeln 126, 127 und 131 sind auf Schriftstücke anzuwenden, die am oder nach dem 1. November 2023 vom Europäischen Patentamt zugestellt werden.
 
 Geltungsbereich der Ausführungsordnung[^t-1]
 

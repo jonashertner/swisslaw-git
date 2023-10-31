@@ -4,11 +4,11 @@ title: Regolamento di esecuzione del 7 dicembre 2006 della Convenzione sul breve
 short: RE CBE 2000
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/850"
 language: it
-version: 2023-02-01
+version: 2023-11-01
 adopted: 2006-12-07
 in_force: 2007-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/850/20230201/it/xml/fedlex-data-admin-ch-eli-cc-2007-850-20230201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/850/20230201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/850/20231101/it/xml/fedlex-data-admin-ch-eli-cc-2007-850-20231101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/850/20231101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -23,7 +23,7 @@ Traduzione
 
 Approvato dal Consiglio d’amministrazione il 7 dicembre 2006 Entrato in vigore per la Svizzera il 13 dicembre 2007
 
-(Stato 1° febbraio 2023)
+(Stato 1° novembre 2023)
 
 ## Parte prima: Disposizioni di applicazione della parte prima della Convenzione
 
@@ -1435,13 +1435,14 @@ Se ritiene necessario sentire parti, testimoni o esperti oppure procedere a un s
 
 (1) Tutte le notifiche mediante un servizio postale sono fatte con lettera raccomandata.[^part7-chapIV-lvlu2-2]
 
-(2) La notifica fatta in conformità con il paragrafo 1 è considerata consegnata al destinatario nel decimo giorno che segue la consegna al fornitore di servizi postali, a meno che il documento da notificare non gli sia pervenuto ovvero non gli sia pervenuto più tardi; in caso di contestazione, spetta all’Ufficio europeo dei brevetti provare che la lettera è giunta a destinazione o, se del caso, stabilire la data della sua consegna al destinatario.
+(2) La notifica fatta in conformità con il paragrafo 1 è considerata consegnata al destinatario nel giorno in cui è datato il documento da notificare, a meno che questo non gli sia pervenuto. In caso di contestazione sull’avvenuta notifica del documento, spetta all’Ufficio europeo dei brevetti provare che il documento è giunto a destinazione e stabilire la data della sua consegna al destinatario. Se l’Ufficio europeo dei brevetti dimostra che il documento è stato ricevuto dal destinatario più di sette giorni dopo la data che esso porta, il termine stabilito in base al ricevimento fittizio del documento, che rappresenta l’evento considerato ai sensi della regola 131 paragrafo 2, è prorogato di un numero di giorni pari al numero di giorni di ritardo con il quale questo documento è stato ricevuto.[^part7-chapIV-lvlu2-3]
 
 (3) La notifica prevista al paragrafo 1 è considerata effettuata anche se la lettera è stata respinta.
 
-(4) Nella misura in cui la notifica mediante un servizio postale non è interamente disciplinata dalle disposizioni dei paragrafi 1-3, alla medesima è applicabile la legislazione dello Stato in cui la notifica è effettuata.
+(4) Nella misura in cui la notifica mediante un servizio postale non è interamente disciplinata dalle disposizioni dei paragrafi 1–3, alla medesima è applicabile la legislazione dello Stato in cui la notifica è effettuata.
 
 [^part7-chapIV-lvlu2-2]: Nuovo testo giusta l’art. 1 della Dec. del Consiglio d’amministrazione del 28 mar. 2019, in vigore dal 1° nov. 2019 ([RU 2019 3515](https://fedlex.data.admin.ch/eli/oc/2019/642)).
+[^part7-chapIV-lvlu2-3]: Nuovo testo giusta l’art. 1 n. 10 della Dec. del Consiglio d’amministrazione del 12 ott. 2022, in vigore dal 1° nov. 2023 ([RU 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 
 ### **Regola 127**Notifica mediante mezzi tecnici di comunicazione
 
@@ -1451,7 +1452,9 @@ Se ritiene necessario sentire parti, testimoni o esperti oppure procedere a un s
 
 (1) La notifica può essere effettuata mediante mezzi elettronici di comunicazione determinati dal Presidente dell’Ufficio europeo dei brevetti, che ne decide le condizioni d’utilizzazione.
 
-(2) Se la notifica è fatta mediante mezzi elettronici di comunicazione il documento elettronico è considerato consegnato al destinatario nel decimo giorno che segue la sua trasmissione, a meno che il documento da notificare non gli sia pervenuto ovvero non gli sia pervenuto più tardi; in caso di contestazione, spetta all’Ufficio europeo dei brevetti provare che il documento elettronico è giunto a destinazione o, se del caso, stabilire la data della sua consegna al destinatario.
+(2) Se la notifica è fatta mediante mezzi elettronici di comunicazione il documento elettronico è considerato consegnato al destinatario nel giorno in cui è datato, a meno che il documento da notificare non gli sia pervenuto. In caso di contestazione sull’avvenuta notifica del documento, spetta all’Ufficio europeo dei brevetti provare che il documento elettronico è giunto a destinazione e stabilire la data della sua consegna al destinatario. Se l’Ufficio europeo dei brevetti dimostra che il documento elettronico è stato ricevuto dal destinatario più di sette giorni dopo la data che esso porta, il termine stabilito in base al ricevimento fittizio del documento, che rappresenta l’evento considerato ai sensi della regola 131 paragrafo 2, è prorogato di un numero di giorni pari al numero di giorni di ritardo con il quale questo documento è stato ricevuto.[^part7-chapIV-lvlu3-2]
+
+[^part7-chapIV-lvlu3-2]: Nuovo testo giusta l’art. 1 n. 11 della Dec. del Consiglio d’amministrazione del 12 ott. 2022, in vigore dal 1° nov. 2023 ([RU 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 
 ### **Regola 128**Notifica mediante consegna diretta
 
@@ -1477,13 +1480,15 @@ La notifica può essere effettuata nei locali dell’Ufficio europeo dei brevett
 
 (1) I termini sono espressi in anni, mesi, settimane o giorni interi.
 
-(2) Il termine decorre dal giorno che segue quello in cui si è prodotto l’evento in base al quale l’inizio del termine è stabilito, evento che può essere un atto oppure la scadenza di un termine anteriore. Salvo disposizioni contrarie, nel caso in cui l’atto è una notifica, l’evento considerato è il ricevimento del documento notificato.
+(2) Il termine decorre dal giorno che segue quello in cui si è prodotto l’evento in base al quale l’inizio del termine è stabilito, evento che può essere un atto oppure la scadenza di un termine anteriore. Salvo disposizioni contrarie, nel caso in cui l’atto è una notifica, l’evento considerato è il ricevimento fittizio del documento notificato.[^part7-chapV-lvlu1-1]
 
 (3) Se il termine è di uno o più anni, esso scade, nell’anno successivo da considerare e nel mese omonimo di quello dell’evento, il giorno con il medesimo numero di quello dell’evento; se il mese da considerare non presenta il giorno con il medesimo numero, il termine scade l’ultimo giorno di questo mese.
 
 (4) Se un termine è di uno o più mesi, esso scade, nel mese successivo da considerare, il giorno con il medesimo numero del giorno dell’evento; tuttavia se il mese da considerare non presenta il giorno con il medesimo numero, il termine scade l’ultimo giorno di questo mese.
 
 (5) Se il termine è di una o più settimane, esso scade, nella settimana da prendere in considerazione, il giorno omonimo di quello dell’evento.
+
+[^part7-chapV-lvlu1-1]: Nuovo testo giusta l’art. 1 n. 12 della Dec. del Consiglio d’amministrazione del 12 ott. 2022, in vigore dal 1° nov. 2023 ([RU 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 
 ### **Regola 132**Termini stabiliti dall’Ufficio europeo dei brevetti
 
@@ -2125,6 +2130,8 @@ Le nuove regole 56 (2) e (3) e 135 (2) CBE come modificate dall’articolo 1 del
 [^u23-1]: [RU 2023 164](https://fedlex.data.admin.ch/eli/oc/2023/164)art. 3
 
 Le nuove regole 46, 49, 50, 57 e 82 come modificate dall’articolo 1 della presente decisione si applicano a tutti i documenti presentati all’Ufficio europeo dei brevetti a decorrere dal 1° febbraio 2023.
+
+Le regole 126, 127 e 131 come modificate dall’articolo 1 della presente decisione si applicano a tutti i documenti consegnati all’Ufficio europeo dei brevetti a decorrere dal 1° novembre 2023.
 
 Campo d’applicazione del Regolamento d’esecuzione[^t-1]
 
