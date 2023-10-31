@@ -4,11 +4,11 @@ title: "Ordinanza dell'Autorità federale di sorveglianza dei revisori del 14 no
 short: OD-ASR
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/739"
 language: it
-version: 2023-01-23
+version: 2023-11-01
 adopted: 2008-11-14
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/739/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2008-739-20230123-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/739/20230123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/739/20231101/it/xml/fedlex-data-admin-ch-eli-cc-2008-739-20231101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/739/20231101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/739/20230123/it"
 
 (Ordinanza sui dati ASR, OD-ASR)
 
-del 14 novembre 2008 (Stato 23 gennaio 2023)
+del 14 novembre 2008 (Stato 1° novembre 2023)
 
 L’Autorità federale di sorveglianza dei revisori,
 
@@ -35,7 +35,7 @@ ordina:
 
 La presente ordinanza disciplina l’accesso elettronico a dati non accessibili al pubblico (art. 26 cpv. 1 OSRev) da parte di altre autorità di sorveglianza svizzere ai sensi dell’articolo 22 della legge del 16 dicembre 2005[^1-2] sui revisori (LSR).
 
-[^1-1]: Nuovo testo giusta il n. 2 dell’all. all’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, in vigore dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
+[^1-1]: Nuovo testo giusta l’all. n. 2 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, in vigore dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 [^1-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
 #### Art. 2
@@ -52,12 +52,13 @@ La presente ordinanza disciplina l’accesso elettronico a dati non accessibili 
 
 #### Art. 3
 
-**Diritto applicabile**
+**Diritto applicabile**[^3-1]
 
-L’accesso elettronico ai dati non accessibili al pubblico è retto dalle disposizioni applicabili in materia di assistenza amministrativa e giudiziaria della legge federale del 19 giugno 1992[^3-1] sulla protezione dei dati, dalla LSR[^3-2] e dalla relativa legislazione d’esecuzione.
+L’accesso elettronico ai dati non accessibili al pubblico è retto dalle disposizioni applicabili in materia di assistenza amministrativa e giudiziaria della legge federale del 25 settembre 2020[^3-2] sulla protezione dei dati, dalla LSR[^3-3] e dalla relativa legislazione d’esecuzione.
 
-[^3-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^3-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^3-1]: Nuovo testo giusta il n. I dell’O dell’ASR del 25 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 568](https://fedlex.data.admin.ch/eli/oc/2023/568)).
+[^3-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^3-3]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
 #### Art. 4
 
@@ -76,8 +77,8 @@ Nella domanda figurano le indicazioni seguenti:
 
 <sup>3</sup> Le altre autorità di sorveglianza svizzere devono inoltre soddisfare i requisiti tecnici stabiliti dall’autorità di sorveglianza e sostenere i costi per la predisposizione dell’accesso elettronico.[^4-2]
 
-[^4-1]: Nuovo testo giusta il n. 2 dell’all. all’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, in vigore dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
-[^4-2]: Nuovo testo giusta il n. 2 dell’all. all’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, in vigore dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
+[^4-1]: Nuovo testo giusta l’all. n. 2 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione sull’assicurazione malattie, in vigore dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
+[^4-2]: Nuovo testo giusta l’all. n. 2 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione sull’assicurazione malattie, in vigore dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 
 #### Art. 5
 
@@ -87,7 +88,7 @@ Nella domanda figurano le indicazioni seguenti:
 
 <sup>2</sup> Le suddette persone non possono trasferire a terzi la propria autorizzazione all’accesso.
 
-[^5-1]: Nuovo testo giusta il n. 2 dell’all. all’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, in vigore dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
+[^5-1]: Nuovo testo giusta l’all. n. 2 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione sull’assicurazione malattie, in vigore dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 
 #### Art. 6
 
@@ -107,7 +108,7 @@ Allegato[^t-1]
 
 ## Catalogo dei dati non accessibili al pubblico ai quali le altre autorità di sorveglianza svizzere possono ottenere l’accesso elettronico
 
-[^t-1]: Aggiornato dal n. 2 dell’all. all’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)) e dal n. II dell’O della ASR del 18 nov. 2022, in vigore dal 23 gen. 2023 ([RU 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
+[^t-1]: Aggiornato dall’all. n. 2 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)) e dal n. II dell’O della ASR del 18 nov. 2022, in vigore dal 23 gen. 2023 ([RU 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
 
 ### Legenda
 
@@ -201,5 +202,5 @@ Portata dell’accesso:
 </table>
 
 [^annexu1-lvlu1-lvlu2-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^annexu1-lvlu1-lvlu2-2]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600); [RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600)
+[^annexu1-lvlu1-lvlu2-2]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
 [^annexu1-lvlu1-lvlu2-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)

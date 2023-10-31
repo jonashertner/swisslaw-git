@@ -4,11 +4,11 @@ title: "Verordnung der Eidgenössischen Revisionsaufsichtsbehörde vom 14. Novem
 short: DV-RAB
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/739"
 language: de
-version: 2023-01-23
+version: 2023-11-01
 adopted: 2008-11-14
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/739/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2008-739-20230123-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/739/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/739/20231101/de/xml/fedlex-data-admin-ch-eli-cc-2008-739-20231101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/739/20231101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/739/20230123/de"
 
 (Datenverordnung RAB, DV-RAB)
 
-vom 14. November 2008 (Stand am 23. Januar 2023)
+vom 14. November 2008 (Stand am 1. November 2023)
 
 Die Eidgenössische Revisionsaufsichtsbehörde,
 
@@ -52,12 +52,13 @@ Diese Verordnung regelt den elektronischen Zugriff auf nicht öffentlich zugäng
 
 #### Art. 3
 
-**Anwendbares Recht**
+**Anwendbares Recht**[^3-1]
 
-Der elektronische Zugriff auf nicht öffentlich zugängliche Daten richtet sich nach den anwendbaren Bestimmungen über die Amts- und Rechtshilfe des Bundesgesetzes vom 19. Juni 1992[^3-1] über den Datenschutz, des RAG[^3-2] und des jeweiligen Vollzugsrechts.
+Der elektronische Zugriff auf nicht öffentlich zugängliche Daten richtet sich nach den anwendbaren Bestimmungen über die Amts- und Rechtshilfe des Bundesgesetzes vom 25. September 2020[^3-2] über den Datenschutz, des RAG[^3-3] und des jeweiligen Vollzugsrechts.
 
-[^3-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^3-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^3-1]: Fassung gemäss Ziff. I der V der RAB vom 25. Sept. 2023, in Kraft seit 1. Nov. 2023 (AS **20****23** 568).
+[^3-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^3-3]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
 #### Art. 4
 

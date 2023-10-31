@@ -4,11 +4,11 @@ title: "Ordonnance de l'Autorité fédérale de surveillance en matière de rév
 short: OD-ASR
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/739"
 language: fr
-version: 2023-01-23
+version: 2023-11-01
 adopted: 2008-11-14
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/739/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2008-739-20230123-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/739/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/739/20231101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-739-20231101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/739/20231101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/739/20230123/fr"
 
 (Ordonnance sur les données ASR, OD-ASR)
 
-du 14 novembre 2008 (État le 23 janvier 2023)
+du 14 novembre 2008 (État le 1<sup>er</sup> novembre 2023)
 
 L’autorité fédérale de surveillance en matière de révision,
 
@@ -42,7 +42,7 @@ La présente ordonnance règle l’accès électronique aux données non accessi
 
 **Données non accessibles au public**
 
-<sup>1</sup> Par données non accessibles au public on entend les données ne figurant pas au registre des réviseurs (art. 19 ss OSRev) et provenant des demandes d’agrément, des documents joints aux demandes d’agrément, des décisions d'agrément et de toute autre source dont les informations sont nécessaires à l’application de la LSR[^2-1].
+<sup>1</sup> Par données non accessibles au public on entend les données ne figurant pas au registre des réviseurs (art. 19 ss OSRev) et provenant des demandes d’agrément, des documents joints aux demandes d’agrément, des décisions d’agrément et de toute autre source dont les informations sont nécessaires à l’application de la LSR[^2-1].
 
 <sup>2</sup> Les données non accessibles au public ainsi que le niveau d’accès sont énumérés dans l’annexe.
 
@@ -52,12 +52,13 @@ La présente ordonnance règle l’accès électronique aux données non accessi
 
 #### Art. 3
 
-**Droit applicable**
+**Droit applicable**[^3-1]
 
-L’accès électronique aux données non accessibles au public est régi par la législation applicable en matière d’assistance administrative au sens de la loi fédérale du 19 juin 1992 sur la protection des données (LPD)[^3-1], de la LSR[^3-2] et de la législation d’application correspondante.
+L’accès électronique aux données non accessibles au public est régi par la législation applicable en matière d’assistance administrative au sens de la loi fédérale du 25 septembre 2020 sur la protection des données[^3-2], de la LSR[^3-3] et de la législation d’application correspondante.
 
-[^3-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^3-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^3-1]: Nouvelle teneur selon le ch. I de l’O de l’ASR du 25 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 568](https://fedlex.data.admin.ch/eli/oc/2023/568)).
+[^3-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^3-3]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
 #### Art. 4
 
@@ -186,7 +187,7 @@ Niveau d’accès:
 <tr><td>Extrait récent du registre des poursuites et faillites (tous les justificatifs doivent dater de moins de trois mois au moment du dépôt de la demande d’agrément)</td><td></td><td colspan="2">A</td></tr>
 <tr><td colspan="3">2.4. Données correspondant aux documents suivants produits, au moins sous forme de copie, par les entreprises de révision pour l’agrément en qualité d’entreprise de révision soumise à la surveillance de l’État</td></tr>
 <tr><td>Statuts actuels ou contrat actuel de société et règlements d’organisation et d’entreprise ou autres documents équivalents</td><td></td><td colspan="2">A</td></tr>
-<tr><td>Description écrite et représentation graphique des rapports de propriété, y compris les accords entre les propriétaires et les autres possibilités soit de prise de contrôle, soit d'une autre prise d’influence déterminante</td><td></td><td colspan="2">A</td></tr>
+<tr><td>Description écrite et représentation graphique des rapports de propriété, y compris les accords entre les propriétaires et les autres possibilités soit de prise de contrôle, soit d’une autre prise d’influence déterminante</td><td></td><td colspan="2">A</td></tr>
 <tr><td>Liste des membres de l’organe supérieur de direction ou d’administration et de l’organe de direction, avec indication des nom, prénom, domicile, lieu d’origine, date de naissance, le cas échéant, du numéro de registre et de la profession; un extrait actuel du casier judiciaire informatique VOSTRA selon la loi du 17 juin 2016 sur le casier judiciaire et un extrait du registre des poursuites et faillites (ces extraits ne doivent pas dater de plus de trois mois au moment du dépôt de la demande) y seront joints pour les membres qui ne disposent pas d’un agrément en qualité de réviseur ou d’expert-réviseur</td><td></td><td colspan="2">A</td></tr>
 <tr><td>Description écrite et représentation graphique de la structure externe de l’entreprise (structure du groupe et structure de participation), y compris les filiales suisses et étrangères, les succursales et toutes les participations directes et les participations importantes indirectes, et indication des activités et des comptes annuels</td><td></td><td colspan="2">A</td></tr>
 <tr><td>Description écrite et représentation graphique (organigramme) de la structure interne de l’entreprise et de sa direction, avec indication des noms des personnes responsables de chaque secteur</td><td></td><td colspan="2">A</td></tr>
