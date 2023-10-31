@@ -4,11 +4,11 @@ title: Lärmschutz-Verordnung vom 15. Dezember 1986 (LSV)
 short: LSV
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/338_338_338"
 language: de
-version: 2021-07-01
+version: 2023-11-01
 adopted: 1986-12-15
 in_force: 1987-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/de/xml/fedlex-data-admin-ch-eli-cc-1987-338_338_338-20210701-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/de/xml/fedlex-data-admin-ch-eli-cc-1987-338_338_338-20231101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20231101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20210701/de"
 
 (LSV)
 
-vom 15. Dezember 1986 (Stand am 1. Juli 2021)
+vom 15. Dezember 1986 (Stand am 1. November 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -53,7 +53,7 @@ Sie regelt nicht:
 - a. den Schutz gegen Lärm, der in einem Betriebsareal erzeugt wird, soweit er auf Betriebsgebäude und zugehörige Wohnungen innerhalb dieses Areals einwirkt;
 - b. den Schutz gegen Infra- und Ultraschall.
 
-<sup>4</sup> ...[^1-1]
+<sup>4</sup> …[^1-1]
 
 [^1-1]: Aufgehoben durch Ziff. I der V vom 12. April 2000, mit Wirkung seit 1. Mai 2000 ([AS 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)).
 
@@ -131,11 +131,11 @@ Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation 
 
 #### Art. 6
 
-**Baulärm-Richtlinien**
+**Baulärm-Richtlinien**[^6-1]
 
-Das Bundesamt für Umwelt[^6-1] erlässt Richtlinien über bauliche und betriebliche Massnahmen zur Begrenzung des Baulärms.
+Das Bundesamt für Umwelt (BAFU) erlässt Richtlinien über bauliche und betriebliche Massnahmen zur Begrenzung des Baulärms.
 
-[^6-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
+[^6-1]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 582](https://fedlex.data.admin.ch/eli/oc/2023/582)).
 
 ## 3. Kapitel: Neue und geänderte ortsfeste Anlagen
 
@@ -152,7 +152,10 @@ Die Lärmemissionen einer neuen ortsfesten Anlage müssen nach den Anordnungen d
 
 <sup>2</sup> Die Vollzugsbehörde gewährt Erleichterungen, soweit die Einhaltung der Planungswerte zu einer unverhältnismässigen Belastung für die Anlage führen würde und ein überwiegendes öffentliches, namentlich auch raumplanerisches Interesse an der Anlage besteht. Die Immissionsgrenzwerte dürfen jedoch nicht überschritten werden.[^7-1]
 
+<sup>3</sup> Bei neuen Luft/Wasser-Wärmepumpen, die überwiegend der Raumheizung oder der Erwärmung von Trinkwasser dienen und deren Lärmimmissionen die Planungswerte nicht überschreiten, sind weitergehende Emissionsbegrenzungen nach Absatz 1 Buchstabe a nur zu treffen, wenn mit höchstens einem Prozent der Investitionskosten der Anlage eine Begrenzung der Emissionen von mindestens 3 dB erzielt werden kann.[^7-2]
+
 [^7-1]: Fassung gemäss Ziff. I der V vom 16. Juni 1997, in Kraft seit 1. Aug. 1997 ([AS 1997 1588](https://fedlex.data.admin.ch/eli/oc/1997/1588_1588_1588)).
+[^7-2]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 582](https://fedlex.data.admin.ch/eli/oc/2023/582)).
 
 #### Art. 8
 
@@ -345,7 +348,7 @@ Die Vollzugsbehörde kontrolliert spätestens ein Jahr nach der Durchführung de
 
 **Periodische Erhebungen**[^20-1]
 
-<sup>1</sup> Das Bundesamt für Umwelt führt bei den Vollzugsbehörden periodisch Erhebungen über den Stand der Sanierungen und Schallschutzmassnahmen durch, namentlich bei Strassen, Eisenbahnanlagen, Flugplätzen, Schiessanlagen sowie militärischen Schiess- und Übungsplätzen.
+<sup>1</sup> Das BAFU[^20-2] führt bei den Vollzugsbehörden periodisch Erhebungen über den Stand der Sanierungen und Schallschutzmassnahmen durch, namentlich bei Strassen, Eisenbahnanlagen, Flugplätzen, Schiessanlagen sowie militärischen Schiess- und Übungsplätzen.
 
 <sup>2</sup>
 
@@ -367,11 +370,12 @@ Für Strassen verlangt es von den Vollzugsbehörden jährlich insbesondere die f
   - 1\. die im vorangegangenen Jahr durchgeführten Sanierungen von Strassen oder Strassenabschnitten und die Schallschutzmassnahmen, und
   - 2\. die Wirksamkeit und die Kosten dieser Sanierungen und Schallschutzmassnahmen.
 
-<sup>3</sup> Für Nationalstrassen verlangt es die Angaben nach Absatz 2 vom Bundesamt für Strassen. Für die Hauptstrassen und die übrigen Strassen verlangt es diese Angaben von den Kantonen. Die Angaben sind nach den Vorgaben des Bundesamts für Umwelt einzureichen.
+<sup>3</sup> Für Nationalstrassen verlangt es die Angaben nach Absatz 2 vom Bundesamt für Strassen. Für die Hauptstrassen und die übrigen Strassen verlangt es diese Angaben von den Kantonen. Die Angaben sind nach den Vorgaben des BAFU einzureichen.
 
-<sup>4</sup> Das Bundesamt für Umwelt beurteilt die Angaben insbesondere in Bezug auf den Sanierungsfortschritt sowie auf Kosten und Wirksamkeit der Massnahmen. Es teilt den Vollzugsbehörden die Ergebnisse mit und veröffentlicht sie.
+<sup>4</sup> Das BAFU beurteilt die Angaben insbesondere in Bezug auf den Sanierungsfortschritt sowie auf Kosten und Wirksamkeit der Massnahmen. Es teilt den Vollzugsbehörden die Ergebnisse mit und veröffentlicht sie.
 
 [^20-1]: Fassung gemäss Ziff. I 14 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und die Aufgabenteilung zwischen Bund und Kantonen, in Kraft seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^20-2]: Ausdruck gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 582](https://fedlex.data.admin.ch/eli/oc/2023/582)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 ### 2. Abschnitt: Bundesbeiträge für Sanierungen und Schallschutzmassnahmen bei bestehenden Hauptstrassen und übrigen Strassen
 
@@ -392,7 +396,7 @@ Der Bund gewährt Beiträge für Sanierungen und Schallschutzmassnahmen an beste
 
 <sup>2</sup> Die Beiträge nach Absatz 1 Buchstabe a sind Bestandteil der Globalbeiträge gemäss Artikel 13 MinVG. Die Beiträge nach Absatz 1 Buchstabe b werden global für die in Programmvereinbarungen mit den Kantonen festgelegten Strecken gewährt.
 
-<sup>3</sup> ...[^21-3]
+<sup>3</sup> …[^21-3]
 
 [^21-1]: Fassung gemäss Ziff. I der V vom 21. Febr. 2018, in Kraft seit 1. April 2018 ([AS 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)).
 [^21-2]: [SR 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
@@ -402,7 +406,7 @@ Der Bund gewährt Beiträge für Sanierungen und Schallschutzmassnahmen an beste
 
 **Gesuch**
 
-<sup>1</sup> Der Kanton reicht das Gesuch um Beiträge für Sanierungen und Schallschutzmassnahmen bei Strassen nach Artikel 21 Absatz 1 Buchstabe b beim Bundesamt für Umwelt ein.
+<sup>1</sup> Der Kanton reicht das Gesuch um Beiträge für Sanierungen und Schallschutzmassnahmen bei Strassen nach Artikel 21 Absatz 1 Buchstabe b beim BAFU ein.
 
 <sup>2</sup>
 
@@ -416,7 +420,7 @@ Das Gesuch muss insbesondere Angaben enthalten über:
 
 **Programmvereinbarung**
 
-<sup>1</sup> Das Bundesamt für Umwelt schliesst die Programmvereinbarung mit der zuständigen kantonalen Behörde ab.
+<sup>1</sup> Das BAFU schliesst die Programmvereinbarung mit der zuständigen kantonalen Behörde ab.
 
 <sup>2</sup>
 
@@ -428,7 +432,7 @@ Gegenstand der Programmvereinbarung sind insbesondere:
 
 <sup>3</sup> Die Dauer der Programmvereinbarung beträgt vier Jahre; in begründeten Fällen kann eine längere oder kürzere Dauer vereinbart werden.[^23-1]
 
-<sup>4</sup> Das Bundesamt für Umwelt erlässt Richtlinien über das Vorgehen bei Programmvereinbarungen sowie über die Angaben und Unterlagen zu den Gegenständen der Programmvereinbarung.
+<sup>4</sup> Das BAFU erlässt Richtlinien über das Vorgehen bei Programmvereinbarungen sowie über die Angaben und Unterlagen zu den Gegenständen der Programmvereinbarung.
 
 [^23-1]: Fassung gemäss Ziff. I der V vom 21. Febr. 2018, in Kraft seit 1. April 2018 ([AS 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)).
 
@@ -461,11 +465,11 @@ Globale Beiträge werden in Tranchen ausbezahlt.
 
 **Berichterstattung und Kontrolle**
 
-<sup>1</sup> Der Kanton erstattet dem Bundesamt für Umwelt jährlich Bericht über die Verwendung der Beiträge.
+<sup>1</sup> Der Kanton erstattet dem BAFU jährlich Bericht über die Verwendung der Beiträge.
 
 <sup>2</sup>
 
-Das Bundesamt für Umwelt kontrolliert stichprobenweise:
+Das BAFU kontrolliert stichprobenweise:
 
 - a. die Ausführung einzelner Massnahmen gemäss den Programmzielen;
 - b. die Verwendung der ausbezahlten Beiträge.
@@ -476,14 +480,14 @@ Das Bundesamt für Umwelt kontrolliert stichprobenweise:
 
 <sup>1</sup>
 
-Das Bundesamt für Umwelt hält die Tranchenzahlungen während der Programmdauer ganz oder teilweise zurück, wenn der Kanton:
+Das BAFU hält die Tranchenzahlungen während der Programmdauer ganz oder teilweise zurück, wenn der Kanton:
 
 - a. seiner Berichterstattungspflicht (Art. 26 Abs. 1) nicht nachkommt;
 - b. eine erhebliche Störung seiner Leistung schuldhaft verursacht.
 
-<sup>2</sup> Stellt sich nach der Programmdauer heraus, dass die Leistung mangelhaft ist, so verlangt das Bundesamt für Umwelt vom Kanton Nachbesserung; es setzt ihm dafür eine angemessene Frist.
+<sup>2</sup> Stellt sich nach der Programmdauer heraus, dass die Leistung mangelhaft ist, so verlangt das BAFU vom Kanton Nachbesserung; es setzt ihm dafür eine angemessene Frist.
 
-<sup>3</sup> Werden Anlagen, an die Beiträge geleistet wurden, ihrem Zweck entfremdet, so kann das Bundesamt für Umwelt vom Kanton verlangen, dass er innerhalb einer angemessenen Frist die Unterlassung oder Rückgängigmachung der Zweckentfremdung erwirkt.
+<sup>3</sup> Werden Anlagen, an die Beiträge geleistet wurden, ihrem Zweck entfremdet, so kann das BAFU vom Kanton verlangen, dass er innerhalb einer angemessenen Frist die Unterlassung oder Rückgängigmachung der Zweckentfremdung erwirkt.
 
 <sup>4</sup> Werden die Mängel nicht behoben oder wird die Zweckentfremdung nicht unterlassen oder nicht rückgängig gemacht, so richtet sich die Rückforderung nach den Artikeln 28 und 29 des Subventionsgesetzes vom 5. Oktober 1990[^27-1].
 
@@ -501,7 +505,7 @@ Aufgehoben
 
 <sup>1</sup> Neue Bauzonen für Gebäude mit lärmempfindlichen Räumen und neue nicht überbaubare Zonen mit erhöhtem Lärmschutzbedürfnis dürfen nur in Gebieten ausgeschieden werden, in denen die Lärmimmissionen die Planungswerte nicht überschreiten oder in denen diese Werte durch planerische, gestalterische oder bauliche Massnahmen eingehalten werden können.
 
-<sup>2</sup> ...[^29-1]
+<sup>2</sup> …[^29-1]
 
 [^29-1]: Aufgehoben durch Ziff. I der V vom 16. Juni 1997, mit Wirkung seit 1. Aug. 1997 ([AS 1997 1588](https://fedlex.data.admin.ch/eli/oc/1997/1588_1588_1588)).
 
@@ -549,7 +553,7 @@ Bei Flughäfen, auf denen Grossflugzeuge verkehren, gelten die Planungs- und Imm
 
 <sup>2</sup> Bei der Ausscheidung oder Erschliessung von Bauzonen sorgt die zuständige Behörde dafür, dass die Anforderungen gemäss Absatz 1 Buchstaben b und c grundeigentümerverbindlich festgehalten werden.
 
-<sup>3</sup> Das Bundesamt für Umwelt kann Empfehlungen zum Vollzug von Absatz 1 Buchstabe c erlassen. Es berücksichtigt dabei die massgebenden technischen Normen.
+<sup>3</sup> Das BAFU kann Empfehlungen zum Vollzug von Absatz 1 Buchstabe c erlassen. Es berücksichtigt dabei die massgebenden technischen Normen.
 
 [^31a-1]: Eingefügt durch Ziff. I der V vom 28. Nov. 2014, in Kraft seit 2. Febr. 2015 ([AS 2014 4501](https://fedlex.data.admin.ch/eli/oc/2014/751)).
 [^31a-2]: Die aufgeführte Norm kann beim Schweizerischen Ingenieur- und Architekten-Verein (SIA), Selnaustrasse 16, 8027 Zürich, kostenlos eingesehen oder unter www.sia.ch gegen Bezahlung bezogen werden.
@@ -619,7 +623,7 @@ Sie berücksichtigt dabei die Zu- oder Abnahme der Lärmimmissionen, die zu erwa
 - a. der Errichtung, Änderung oder Sanierung ortsfester Anlagen, insbesondere wenn entsprechende Projekte im Zeitpunkt der Ermittlung bereits bewilligt oder öffentlich aufgelegt worden sind; und
 - b. der Errichtung, der Änderung oder dem Abbruch anderer Bauten, wenn die Projekte im Zeitpunkt der Ermittlung bereits öffentlich aufgelegt sind.
 
-<sup>3</sup> ...[^36-2]
+<sup>3</sup> …[^36-2]
 
 [^36-1]: Fassung gemäss Ziff. I der V vom 1. Sept. 2004, in Kraft seit 1. Okt. 2004 ([AS 2004 4167](https://fedlex.data.admin.ch/eli/oc/2004/623)).
 [^36-2]: Aufgehoben durch Art. 15 der V vom 4. Dez. 2015 über die Lärmsanierung der Eisenbahnen, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5691](https://fedlex.data.admin.ch/eli/oc/2015/890)).
@@ -644,7 +648,7 @@ Die Lärmbelastungskataster geben an:
 
 <sup>3</sup> Die Vollzugsbehörde sorgt für die Überprüfung und Berichtigung der Kataster.
 
-<sup>4</sup> Sie reicht die Lärmbelastungskataster auf Aufforderung hin dem Bundesamt für Umwelt ein. Dieses kann Empfehlungen für eine vergleichbare Erfassung und Darstellung der Daten erlassen.
+<sup>4</sup> Sie reicht die Lärmbelastungskataster auf Aufforderung hin dem BAFU ein. Dieses kann Empfehlungen für eine vergleichbare Erfassung und Darstellung der Daten erlassen.
 
 <sup>5</sup> Für die Ermittlung der Lärmimmissionen, die der Flughafen Basel-Mülhausen auf dem Gebiet der Schweiz erzeugt, sorgt das Bundesamt für Zivilluftfahrt.
 
@@ -661,7 +665,7 @@ Die Lärmbelastungskataster geben an:
 
 <sup>2</sup> Steht fest oder ist zu erwarten, dass die Lärmimmissionen einer Anlage von den im Entscheid festgehaltenen Immissionen auf Dauer wesentlich abweichen, so trifft die Vollzugsbehörde die notwendigen Massnahmen.
 
-<sup>3</sup> Das Bundesamt für Umwelt kann Empfehlungen für eine vergleichbare Erfassung und Darstellung der in diesen Entscheiden festgehaltenen Lärmimmissionen erlassen.
+<sup>3</sup> Das BAFU kann Empfehlungen für eine vergleichbare Erfassung und Darstellung der in diesen Entscheiden festgehaltenen Lärmimmissionen erlassen.
 
 [^37a-1]: Eingefügt durch Ziff. I der V vom 12. April 2000 ([AS 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)). Fassung gemäss Ziff. I der V vom 1. Sept. 2004, in Kraft seit 1. Okt. 2004 ([AS 2004 4167](https://fedlex.data.admin.ch/eli/oc/2004/623)).
 
@@ -671,7 +675,7 @@ Die Lärmbelastungskataster geben an:
 
 <sup>1</sup> Die Lärmimmissionen werden als Beurteilungspegel Lr oder als Maximalpegel Lmax anhand von Berechnungen oder Messungen ermittelt.[^38-1]
 
-<sup>2</sup> Fluglärmimmissionen werden grundsätzlich durch Berechnungen ermittelt. Die Berechnungen sind nach dem anerkannten Stand der Technik durchzuführen. Das Bundesamt für Umwelt empfiehlt geeignete Berechnungsverfahren.[^38-2]
+<sup>2</sup> Fluglärmimmissionen werden grundsätzlich durch Berechnungen ermittelt. Die Berechnungen sind nach dem anerkannten Stand der Technik durchzuführen. Das BAFU empfiehlt geeignete Berechnungsverfahren.[^38-2]
 
 <sup>3</sup> Die Anforderungen an die Berechnungsverfahren und Messgeräte richten sich nach Anhang 2.[^38-3]
 
@@ -753,7 +757,7 @@ In Nutzungszonen nach Artikel 14 ff. des Raumplanungsgesetzes vom 22. Juni 1979[
 
 <sup>3</sup> Bis zur Zuordnung bestimmen die Kantone die Empfindlichkeitsstufen im Einzelfall nach Artikel 43.
 
-<sup>4</sup> ...[^44-2]
+<sup>4</sup> …[^44-2]
 
 [^44-1]: Fassung gemäss Ziff. IV 31 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, in Kraft seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 [^44-2]: Aufgehoben durch Ziff. 1 der V vom 27. Juni 1995, mit Wirkung seit 1. Aug. 1995 ([AS 1995 3694](https://fedlex.data.admin.ch/eli/oc/1995/3694_3694_3694)).
@@ -768,7 +772,7 @@ In Nutzungszonen nach Artikel 14 ff. des Raumplanungsgesetzes vom 22. Juni 1979[
 
 <sup>1</sup> Die Kantone vollziehen diese Verordnung, soweit diese den Vollzug nicht dem Bund überträgt.
 
-<sup>2</sup> Wenden Bundesbehörden andere Bundesgesetze oder völkerrechtliche Vereinbarungen oder Beschlüsse an, die Gegenstände dieser Verordnung betreffen, so vollziehen sie dabei auch diese Verordnung. Für die Mitwirkung des Bundesamtes für Umwelt sowie der Kantone gilt Artikel 41 Absätze 2 und 4 des Gesetzes; gesetzliche Geheimhaltungspflichten bleiben vorbehalten.
+<sup>2</sup> Wenden Bundesbehörden andere Bundesgesetze oder völkerrechtliche Vereinbarungen oder Beschlüsse an, die Gegenstände dieser Verordnung betreffen, so vollziehen sie dabei auch diese Verordnung. Für die Mitwirkung des BAFU sowie der Kantone gilt Artikel 41 Absätze 2 und 4 des Gesetzes; gesetzliche Geheimhaltungspflichten bleiben vorbehalten.
 
 <sup>3</sup>
 
@@ -811,7 +815,7 @@ Für den Vollzug der Vorschriften über Emissionsbegrenzungen (Art. 4, 7–9 und
 
 [^45-1]: Fassung gemäss Ziff. II 14 der V vom 2. Febr. 2000 zum BG über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. März 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 [^45-2]: Eingefügt gemäss Anhang 2 Ziff. 9 der V vom 21. Mai 2008 über Geoinformation, in Kraft seit 1. Juli 2008 ([AS 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
-[^45-3]: SR **742****.****101**
+[^45-3]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
 [^45-4]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
 [^45-5]: [SR 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
 [^45-6]: [SR 743.01](https://fedlex.data.admin.ch/eli/cc/2006/853)
@@ -822,7 +826,7 @@ Für den Vollzug der Vorschriften über Emissionsbegrenzungen (Art. 4, 7–9 und
 
 **Nationale Übersicht über die Lärmbelastung**[^45a-1]
 
-Das Bundesamt für Umwelt führt eine nationale Übersicht über die Lärmbelastung. Es veröffentlicht eine georeferenzierte Darstellung der Lärmbelastung insbesondere für Strassen-, Eisenbahn- und Fluglärm sowie für den Lärm von militärischen Waffen-, Schiess- und Übungsplätzen. Es aktualisiert diese Darstellung mindestens alle fünf Jahre.
+Das BAFU führt eine nationale Übersicht über die Lärmbelastung. Es veröffentlicht eine georeferenzierte Darstellung der Lärmbelastung insbesondere für Strassen-, Eisenbahn- und Fluglärm sowie für den Lärm von militärischen Waffen-, Schiess- und Übungsplätzen. Es aktualisiert diese Darstellung mindestens alle fünf Jahre.
 
 [^45a-1]: Eingefügt durch Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
 
@@ -830,7 +834,7 @@ Das Bundesamt für Umwelt führt eine nationale Übersicht über die Lärmbelast
 
 **Geoinformation**[^46-1]
 
-Das Bundesamt für Umwelt gibt die minimalen Geodatenmodelle und Darstellungsmodelle für Geobasisdaten nach dieser Verordnung vor, für die es im Anhang 1 der Geoinformationsverordnung vom 21. Mai 2008[^46-2] als Fachstelle des Bundes bezeichnet ist.
+Das BAFU gibt die minimalen Geodatenmodelle und Darstellungsmodelle für Geobasisdaten nach dieser Verordnung vor, für die es im Anhang 1 der Geoinformationsverordnung vom 21. Mai 2008[^46-2] als Fachstelle des Bundes bezeichnet ist.
 
 [^46-1]: Fassung gemäss Anhang 2 Ziff. 9 der V vom 21. Mai 2008 über Geoinformation, in Kraft seit 1. Juli 2008 ([AS 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
 [^46-2]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
@@ -875,7 +879,7 @@ Das Bundesamt für Umwelt gibt die minimalen Geodatenmodelle und Darstellungsmod
 
 Diese Verordnung tritt am 1. April 1987 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 10 Abs. 1 und 15 Abs. 1)
 
@@ -902,7 +906,7 @@ Anhang 1*[^t-1]*
 
 <sup>6</sup> Die Vollzugsbehörde kann den Einbau von Schalldämmlüftern für Schlafräume anordnen.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 38 Abs. 3)
 
@@ -919,7 +923,7 @@ Anhang 2*[^t-2]*
 - c. die Auswirkungen des Bodens auf die Schallausbreitung (Bodeneffekte);
 - d. die Auswirkungen von Bauten und natürlichen Hindernissen auf die Schallausbreitung (Hindernisdämpfung und Reflexionen).
 
-<sup>2</sup> Das Bundesamt für Umwelt (BAFU) empfiehlt den Vollzugsbehörden entsprechend dem Stand der Technik geeignete Berechnungsverfahren.
+<sup>2</sup> Das BAFU empfiehlt den Vollzugsbehörden entsprechend dem Stand der Technik geeignete Berechnungsverfahren.
 
 ### 2 Messgeräte
 
@@ -954,7 +958,7 @@ Die Belastungsgrenzwerte nach Ziffer 2 gelten für Strassenverkehrslärm. Dazu g
 
 <sup>1</sup> Der Beurteilungspegel Lr für Strassenverkehrslärm wird aus den Teilbeurteilungspegeln des Motorfahrzeuglärms (Lr1) und des Bahnlärms (Lr2) wie folgt berechnet:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/de/xml/image/image1.png)
 
 <sup>2</sup> Der Teilbeurteilungspegel Lr1 ist die Summe des von Motorfahrzeugen verursachten A-bewerteten Mittelungspegels Leq,m und der Pegelkorrektur K1:
 
@@ -1047,7 +1051,7 @@ Anhang 4
 
 <sup>1</sup> Der Beurteilungspegel Lr für Eisenbahnlärm wird aus den Teilbeurteilungspegeln für Fahrlärm (Lr1) und Rangierlärm (Lr2) wie folgt berechnet:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/de/xml/image/image2.png)
 
 <sup>2</sup> Der Teilbeurteilungspegel Lr1 ist die Summe des vom Fahrbetrieb verursachten A‑bewerteten Mittelungspegels Leq,f und der Pegelkorrektur K1:
 
@@ -1094,7 +1098,7 @@ Dabei ist N die Anzahl Zugsfahrten pro Tag oder Nacht.
 <tr><td>stark</td><td>4</td><td>6</td><td colspan="3">8</td></tr>
 </table>
 
-Anhang 5*[^t-3]*
+Anhang 5[^t-3]
 
 (Art. 40 Abs. 1)
 
@@ -1154,13 +1158,13 @@ Zusätzlich zu den Belastungsgrenzwerten in Lr<sub>k</sub> gelten für den Lärm
 <tr><td colspan="4">[tab] <sup>1</sup> Die höheren Werte gelten für die erste Nachtstunde (22–23 Uhr)</td></tr>
 </table>
 
-### 23 Belastungsgrenzwerte in <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/de/xml/image/image3.png)</sub>max
+### 23 Belastungsgrenzwerte in <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/de/xml/image/image3.png)</sub>max
 
-Zusätzlich zu den Belastungsgrenzwerten in Lr<sub>k</sub> gelten für den Lärm des Verkehrs auf zivilen Flugplätzen, auf denen ausschliesslich Helikopter verkehren (Helikopterflugplätze), die nachfolgenden Belastungsgrenzwerte in <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/de/xml/image/image4.png)</sub>max:
+Zusätzlich zu den Belastungsgrenzwerten in Lr<sub>k</sub> gelten für den Lärm des Verkehrs auf zivilen Flugplätzen, auf denen ausschliesslich Helikopter verkehren (Helikopterflugplätze), die nachfolgenden Belastungsgrenzwerte in <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/de/xml/image/image4.png)</sub>max:
 
 <table>
 <tr><td>Empfindlichkeitsstufe (Art. 43)</td><td>Planungswert</td><td>Immissionsgrenzwert</td><td>Alarmwert</td></tr>
-<tr><td></td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/de/xml/image/image5.png)</sub>in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/de/xml/image/image6.png)</sub>in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/de/xml/image/image6.png)</sub>in dB(A)</td></tr>
+<tr><td></td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/de/xml/image/image5.png)</sub>in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/de/xml/image/image6.png)</sub>in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/de/xml/image/image6.png)</sub>in dB(A)</td></tr>
 <tr><td>I</td><td>70</td><td>75</td><td>85</td></tr>
 <tr><td>II</td><td>75</td><td>80</td><td>90</td></tr>
 <tr><td>III</td><td>80</td><td>85</td><td>90</td></tr>
@@ -1230,11 +1234,11 @@ Lr<sub>n</sub> = Leq<sub>n</sub>
 
 <sup>3</sup> Flüge nach der zweiten (23–24 Uhr) und vor der letzten Nachtstunde (05–06 Uhr) werden der zweiten Nachtstunde (23–24 Uhr) zugerechnet.
 
-### 5 Ermittlung des mittleren maximalen Lärmpegels <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/de/xml/image/image7.png)</sub>max bei Helikopterflugplätzen
+### 5 Ermittlung des mittleren maximalen Lärmpegels <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/de/xml/image/image7.png)</sub>max bei Helikopterflugplätzen
 
-<sup>1</sup> Der mittlere maximale Lärmpegel <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/de/xml/image/image4.png)</sub>max bei Helikopterflugplätzen ist das energetische Mittel der maximalen Lärmpegel einer repräsentativen Anzahl Über- oder Vorbeiflüge.
+<sup>1</sup> Der mittlere maximale Lärmpegel <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/de/xml/image/image4.png)</sub>max bei Helikopterflugplätzen ist das energetische Mittel der maximalen Lärmpegel einer repräsentativen Anzahl Über- oder Vorbeiflüge.
 
-<sup>2</sup> Messungen zur Ermittlung des <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/de/xml/image/image8.png)</sub>max müssen mit der Geräteeinstellung SLOW durchgeführt werden.
+<sup>2</sup> Messungen zur Ermittlung des <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/de/xml/image/image8.png)</sub>max müssen mit der Geräteeinstellung SLOW durchgeführt werden.
 
 Anhang 6
 
@@ -1271,7 +1275,7 @@ Anhang 6
 
 <sup>1</sup> Der Beurteilungspegel Lr für Industrie- und Gewerbelärm und ähnliche Lärmarten wird, getrennt für den Tag (07 bis 19 Uhr) und die Nacht (19 bis 07 Uhr), aus den Teilbeurteilungspegeln Lr,i der einzelnen Lärmphasen wie folgt berechnet:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/de/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/de/xml/image/image9.png)
 
 <sup>2</sup> Der Teilbeurteilungspegel Lr,i wird für die durchschnittliche tägliche Dauer der Lärmphase i wie folgt berechnet:
 
@@ -1326,7 +1330,7 @@ ti = Ti/B
 - c. bei deutlich hörbarem Impulsgehalt 4;
 - d. bei stark hörbarem Impulsgehalt 6.
 
-Anhang 7*[^t-4]*
+Anhang 7[^t-4]
 
 (Art. 40 Abs. 1)
 
@@ -1373,7 +1377,7 @@ Für Lärm von öffentlichen Anlagen nach Ziffer 1 Absatz 3[^annex7-lvlu1-lvl2-1
 
 <sup>1</sup> Der Beurteilungspegel Lr für den Lärm von Schiessanlagen ist die energetische Summe der Teilbeurteilungspegel Lri der Waffenkategorien:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/de/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/de/xml/image/image10.png)
 
 <sup>2</sup> Der Teilbeurteilungspegel Lri ist die Summe des mittleren Einzelschusspegels Li einer Waffenkategorie und der Pegelkorrektur Ki:
 
@@ -1381,7 +1385,7 @@ Lri = Li + Ki
 
 <sup>3</sup> Der mittlere Einzelschusspegel Li ist das über die Schusszahlen gewichtete energetische Mittel der energetisch gemittelten Einzelschusspegel Lj eines Waffen- bzw. Munitionstyps:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/de/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/de/xml/image/image11.png)
 
 <sup>4</sup> Der energetisch gemittelte Einzelschusspegel Lj ist anhand von Messungen des A‑bewerteten Maximalpegels mit der Zeitkonstanten FAST zu ermitteln.
 
@@ -1419,7 +1423,7 @@ Dsi die Anzahl jährlicher Schiesshalbtage an Sonn- und allgemeinen Feiertagen i
 
 <sup>2</sup> Fehlen bei bestehenden Schiessanlagen ausreichende Erhebungen oder werden Schiessanlagen neu erstellt oder geändert, wird die Schusszahl M anhand von Prognosen über die künftige Nutzung bestimmt.
 
-Anhang 8*[^t-5]*
+Anhang 8[^t-5]
 
 (Art. 40 Abs. 1)
 
@@ -1507,13 +1511,13 @@ K<sub>2</sub> = 0 für N<sub>p</sub> &lt; 15 000
 
 K<sub>2</sub> = 10 · log (N<sub>p</sub>/15 000) für N<sub>p</sub> ≥ 15 000
 
-Anhang 9*[^t-6]*
+Anhang 9[^t-6]
 
 (Art. 40 Abs. 1)
 
 ## Belastungsgrenzwerte für den Lärm militärischer Waffen-, Schiess- und Übungsplätze
 
-[^t-6]: Eingefügt durch Ziff. II Abs. 2 der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 (AS **20****10** 3223).
+[^t-6]: Eingefügt durch Ziff. II Abs. 2 der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
 
 ### 1 Geltungsbereich
 
@@ -1542,7 +1546,7 @@ Anhang 9*[^t-6]*
 
 Der Beurteilungspegel Lr für den Schiesslärm von militärischen Waffen-, Schiess- und Übungsplätzen wird aus den Schallereignispegeln LAE1 und LAE2 sowie den Pegelkorrekturen K1 und K2 wie folgt berechnet:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/de/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/de/xml/image/image12.png)
 
 Dabei bedeutet:
 

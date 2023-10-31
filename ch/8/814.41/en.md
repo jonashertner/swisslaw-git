@@ -4,11 +4,11 @@ title: Noise Abatement Ordinance of 15 December 1986 (NAO)
 short: NAO
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/338_338_338"
 language: en
-version: 2021-07-01
+version: 2023-11-01
 adopted: 1986-12-15
 in_force: 1987-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/en/xml/fedlex-data-admin-ch-eli-cc-1987-338_338_338-20210701-en-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20210701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/en/xml/fedlex-data-admin-ch-eli-cc-1987-338_338_338-20231101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20231101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (NAO)
 
-of 15 December 1986 (Status as of 1 July 2021)
+of 15 December 1986 (Status as of 1 November 2023)
 
 The Swiss Federal Council,
 
@@ -55,7 +55,7 @@ It does not regulate:
 - a. protection against noise originating from an industrial site as long as this only affects industrial buildings and dwellings within the site;
 - b. protection against infra- and ultrasound.
 
-<sup>4</sup> …[^1-1]
+<sup>4</sup> ...[^1-1]
 
 [^1-1]: Repealed by No I of the O of 12 April 2000, with effect from 1 May 2000 ([AS 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)).
 
@@ -133,11 +133,11 @@ The Federal Department of the Environment, Transport, Energy and Communications 
 
 #### Art. 6
 
-**Regulationson noise from building sites**
+**Regulationson noise from building sites**[^6-1]
 
-The Federal Office for the Environment[^6-1] shall issue regulations covering structural and operational measures to control noise from building sites.
+The Federal Office for the Environment (FOEN) shall issue regulations covering structural and operational measures to control noise from building sites.
 
-[^6-1]: The name of the administrative unit has been changed in application of Art. 16 para. 3 of the Publication Ordinance of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). This change has been made throughout the text.
+[^6-1]: Amended by No I of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 582](https://fedlex.data.admin.ch/eli/oc/2023/582)).
 
 ## Chapter 3 New and Modified Stationary Installations
 
@@ -154,7 +154,10 @@ Noise emissions from new stationary installations shall be limited as directed b
 
 <sup>2</sup> The enforcement authorities shall relax the requirements in cases where compliance with the planning values would place a disproportionate burden on the installation and there is an overriding public interest, particularly regarding questions of spatial planning. The impact thresholds must not, however, be exceeded.[^7-1]
 
+<sup>3</sup> In the case of new air-to-water heat pumps that are primarily used for space heating or for heating drinking water and whose noise emissions do not exceed the planning values, further emission limitation measures in accordance with paragraph 1 letter a shall only be taken if a limitation of emissions of at least 3 dB can be achieved with no more than one per cent of the investment costs of the system.[^7-2]
+
 [^7-1]: Amended by No I of the O of 16 June 1997, in force since 1 Aug. 1997 ([AS 1997 1588](https://fedlex.data.admin.ch/eli/oc/1997/1588_1588_1588)).
+[^7-2]: Inserted by No I of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 582](https://fedlex.data.admin.ch/eli/oc/2023/582)).
 
 #### Art. 8
 
@@ -347,7 +350,7 @@ Within one year of completion, the enforcement authorities shall inspect the imp
 
 **Periodical surveys**[^20-1]
 
-<sup>1</sup> The Federal Office for the Environment shall enquire regularly of the enforcement authorities as to the status of the improvements and the noise protection measures, in particular concerning roads, railway installations, aerodromes, shooting ranges and military shooting ranges and training areas.
+<sup>1</sup> The FOEN[^20-2] shall enquire regularly of the enforcement authorities as to the status of the improvements and the noise protection measures, in particular concerning roads, railway installations, aerodromes, shooting ranges and military shooting ranges and training areas.
 
 <sup>2</sup>
 
@@ -369,13 +372,14 @@ For roads, the enforcement authorities must provide the following documents in p
   - 1\. the improvements made to roads and sections of road, and the soundproofing measures implemented in the previous year, and
   - 2\. the effectiveness and the costs of these improvements and noise protection measures.
 
-<sup>3</sup> For national roads, it shall obtain the information under Paragraph 2 from the Federal Roads Office. For trunk roads and other roads it shall obtain this information from the cantons. The information must be submitted in accordance with the requirements of the Federal Office for the Environment.
+<sup>3</sup> For national roads, it shall obtain the information under Paragraph 2 from the Federal Roads Office. For trunk roads and other roads it shall obtain this information from the cantons. The information must be submitted in accordance with the requirements of the FOEN.
 
-<sup>4</sup> The Federal Office for the Environment shall assess the information in particular in relation to the progress made with improvements and the costs and effectiveness of the measures. It shall inform the enforcement authorities of the results and publishes them.
+<sup>4</sup> The FOEN shall assess the information in particular in relation to the progress made with improvements and the costs and effectiveness of the measures. It shall inform the enforcement authorities of the results and publishes them.
 
 [^20-1]: Amended by No I 14 of the O of 7 Nov. 2007 on the New System of Fiscal Equalisation and Division of Tasks between the Confederation and the Cantons, in force since 1 Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^20-2]: Name in accordance with No I of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 582](https://fedlex.data.admin.ch/eli/oc/2023/582)). This amendment has been made throughout the text.
 
-### Section 2**** Federal Subsidies for Improvements and Soundproofing Measures on Existing Trunk Roads and Other Roads
+### Section 2 Federal Subsidies for Improvements and Soundproofing Measures on Existing Trunk Roads and Other Roads
 
 [^chap4-sec2-1]
 
@@ -404,7 +408,7 @@ The Confederation shall grant subsidies for improvements and soundproofing measu
 
 **Application**
 
-<sup>1</sup> The canton submits the application for subsidies for improvements and soundproofing measures for roads according to Article 21 paragraph 1 letter b to the Federal Office for the Environment.
+<sup>1</sup> The canton submits the application for subsidies for improvements and soundproofing measures for roads according to Article 21 paragraph 1 letter b to the FOEN.
 
 <sup>2</sup>
 
@@ -418,7 +422,7 @@ The application must in particular contain information on:
 
 **Programme agreement**
 
-<sup>1</sup> The Federal Office for the Environment concludes the programme agreement with the cantonal authorities responsible.
+<sup>1</sup> The FOEN concludes the programme agreement with the cantonal authorities responsible.
 
 <sup>2</sup>
 
@@ -430,7 +434,7 @@ The programme agreement covers in particular:
 
 <sup>3</sup> The programme agreement applies for four years; in justified cases a longer or shorter period may be agreed.[^23-1]
 
-<sup>4</sup> The Federal Office for the Environment issues directives on the procedure followed for programme agreements and on the information and documentation relating to the subjects of the programme agreement.
+<sup>4</sup> The FOEN issues directives on the procedure followed for programme agreements and on the information and documentation relating to the subjects of the programme agreement.
 
 [^23-1]: Amended by No I of the O of 21 Feb. 2018, in force since 1 April 2018 ([AS 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)).
 
@@ -467,7 +471,7 @@ Global subsidies are paid out in instalments.
 
 <sup>2</sup>
 
-The Federal Office for the Environment shall verify by random sample:
+The FOEN shall verify by random sample:
 
 - a. implementation of individual measures in accordance with the programme goals;
 - b. use of the payments made.
@@ -478,14 +482,14 @@ The Federal Office for the Environment shall verify by random sample:
 
 <sup>1</sup>
 
-The Federal Office for the Environment shall withhold all or part of the instalment payments during the programme if the canton:
+The FOEN shall withhold all or part of the instalment payments during the programme if the canton:
 
 - a. fails to fulfil its reporting duty (Art. 26 para. 1);
 - b. fails to meet its obligations to a substantial extent through its own fault.
 
 <sup>2</sup> If on conclusion of the programme it emerges that the canton has failed to meet its obligations, the competent Federal Office shall require the canton to rectify the situation; it shall set the Canton an appropriate deadline for doing so.
 
-<sup>3</sup> If installations for which subsidies have been made are used for a purpose other than that intended, the Federal Office for the Environment may require the canton to cease or make good the misuse within a reasonable period.
+<sup>3</sup> If installations for which subsidies have been made are used for a purpose other than that intended, the FOEN may require the canton to cease or make good the misuse within a reasonable period.
 
 <sup>4</sup> If the defects are not rectified or the misuse does not stop or is not remedied, the subsidies may be reclaimed in accordance with Articles 28 and 29 of the Subsidies Act of 5 October 1990[^27-1].
 
@@ -551,7 +555,7 @@ In the case of airports that are used by large aircraft, the planning values and
 
 <sup>2</sup> When designating or developing building zones, the competent authority shall ensure that the requirements set out in paragraph 1 letters b and c are made binding on property owners.
 
-<sup>3</sup> The Federal Office for the Environment may issue recommendations on the enforcement of paragraph 1 letter c. In doing so, it shall take account of the relevant technical standards.
+<sup>3</sup> The FOEN may issue recommendations on the enforcement of paragraph 1 letter c. In doing so, it shall take account of the relevant technical standards.
 
 [^31a-1]: Inserted by No I of the O of 28 Nov. 2014, in force since 2 Feb. 2015 ([AS 2014 4501](https://fedlex.data.admin.ch/eli/oc/2014/751)).
 [^31a-2]: The said standard may be inspected free of charge at the Swiss Society of Engineers and Architects (SIA), Selnaustrasse 16, 8027 Zurich, or obtained for a free from www.sia.ch.
@@ -600,7 +604,7 @@ The project owner must specify in the application:
 
 After building works are completed, the enforcement authorities shall make random checks to verify whether the soundproofing measures comply with the requirements. In the event of any doubt, they must carry out a more detailed inspection.
 
-## Chapter 7 Investigation, Assessment and Control of Exposure to Exterior Noise due to Stationary Installations****
+## Chapter 7 Investigation, Assessment and Control of Exposure to Exterior Noise due to Stationary Installations
 
 [^chap7-1]
 
@@ -646,7 +650,7 @@ The noise pollution registers specify:
 
 <sup>3</sup> The enforcement authorities are responsible for the supervision and revision of the registers.
 
-<sup>4</sup> On request, they submit the noise pollution registers to the Federal Office for the Environment. The Office may issue recommendations on the standardised recording and presentation of the data.
+<sup>4</sup> On request, they submit the noise pollution registers to the FOEN. The Office may issue recommendations on the standardised recording and presentation of the data.
 
 <sup>5</sup> The Federal Office for Civil Aviation is responsible for measurement of noise exposure levels produced by Basel Mulhouse Airport on Swiss territory.
 
@@ -663,7 +667,7 @@ The noise pollution registers specify:
 
 <sup>2</sup> If it is established or anticipated that the noise exposure levels due to an installation will deviate significantly and permanently from those quoted in the decision, the enforcement authorities shall take the necessary measures.
 
-<sup>3</sup> The Federal Office for the Environment may issue recommendations on the standardised recording and presentation of the noise exposure levels in these decisions.
+<sup>3</sup> The FOEN may issue recommendations on the standardised recording and presentation of the noise exposure levels in these decisions.
 
 [^37a-1]: Inserted by No I of the O of 12 April 2000 ([AS 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)). Amended by No I of the O of 1 Sept. 2004, in force since 1 Oct. 2004 ([AS 2004 4167](https://fedlex.data.admin.ch/eli/oc/2004/623)).
 
@@ -673,7 +677,7 @@ The noise pollution registers specify:
 
 <sup>1</sup> Noise exposure levels are determined in the form of a rating sound level, Lr, or a maximum sound level, Lmax, on the basis of calculations or measurements.[^38-1]
 
-<sup>2</sup> Noise exposure levels due to aircraft shall principally be determined by calculation. The calculations are carried out using recognised state-of-the-art methods. The Federal Office for the Environment shall recommend suitable calculation procedures.[^38-2]
+<sup>2</sup> Noise exposure levels due to aircraft shall principally be determined by calculation. The calculations are carried out using recognised state-of-the-art methods. The FOEN shall recommend suitable calculation procedures.[^38-2]
 
 <sup>3</sup> The requirements for calculation procedures and measuring instruments are given in Annex 2.[^38-3]
 
@@ -770,7 +774,7 @@ In land use zones according to Articles 14 ff. of the Spatial Planning Act of 22
 
 <sup>1</sup> The cantons shall enforce this Ordinance unless it delegates enforcement to the Confederation.
 
-<sup>2</sup> If the federal authorities apply other federal laws or international treaties or decisions that relate to the subject matter of this Ordinance, they shall also enforce this Ordinance. The cooperation of the Federal Office for the Environment and the cantons is governed by Article 41 paragraphs 2 and 4 of the Act; statutory duties of secrecy are reserved.
+<sup>2</sup> If the federal authorities apply other federal laws or international treaties or decisions that relate to the subject matter of this Ordinance, they shall also enforce this Ordinance. The cooperation of the FOEN and the cantons is governed by Article 41 paragraphs 2 and 4 of the Act; statutory duties of secrecy are reserved.
 
 <sup>3</sup>
 
@@ -824,7 +828,7 @@ The following authorities are responsible for enforcing the provisions governing
 
 **National noise pollution survey**[^45a-1]
 
-The Federal Office for the Environment shall conduct a national survey of noise pollution. It shall publish a geo-referenced presentation of the noise pollution in particular for road, railway and aircraft noise and for noise from military firing ranges and training grounds. It shall updates this presentation at least every five years.
+The FOEN shall conduct a national survey of noise pollution. It shall publish a geo-referenced presentation of the noise pollution in particular for road, railway and aircraft noise and for noise from military firing ranges and training grounds. It shall updates this presentation at least every five years.
 
 [^45a-1]: Inserted by No I of the O of 30 June 2010, in force since 1 Aug. 2010 ([AS 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
 
@@ -832,7 +836,7 @@ The Federal Office for the Environment shall conduct a national survey of noise 
 
 **Geoinformation**[^46-1]
 
-The Federal Office for the Environment shall provide specifications for the minimal geodata models and presentation models for official geodata under this Ordinance, for which it is designated as the federal specialist authority in Annex 1 to the Geoinformation Ordinance of 21 May 2008[^46-2].
+The FOEN shall provide specifications for the minimal geodata models and presentation models for official geodata under this Ordinance, for which it is designated as the federal specialist authority in Annex 1 to the Geoinformation Ordinance of 21 May 2008[^46-2].
 
 [^46-1]: Amended by Annex 2 No 9 of the O of 21 May 2008 on Geoinformation, in force since 1 July 2008 ([AS 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
 [^46-2]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
@@ -877,7 +881,7 @@ The Federal Office for the Environment shall provide specifications for the mini
 
 This Ordinance comes into force on 1 April 1987.
 
-Annex 1*[^t-1]*
+Annex 1[^t-1]
 
 (Art. 10 para. 1 and 15 para. 1)
 
@@ -904,7 +908,7 @@ Annex 1*[^t-1]*
 
 <sup>6</sup> The enforcement authorities may order the installation of quiet ventilators in bedrooms.
 
-Annex 2*[^t-2]*
+Annex 2[^t-2]
 
 (Art. 38 para. 3)
 
@@ -921,7 +925,7 @@ Annex 2*[^t-2]*
 - c. the influence of the ground on the propagation of the noise (ground effects);
 - d. the influence of buildings and natural obstacles on the propagation of the noise (attenuation due to obstacles and reflection).
 
-<sup>2</sup> The Federal Office for the Environment (FOEN) recommends suitable state-of-the-art calculation procedures to the enforcement authorities.
+<sup>2</sup> The FOEN (FOEN) recommends suitable state-of-the-art calculation procedures to the enforcement authorities.
 
 ### 2 Measuring Instruments
 
@@ -1096,7 +1100,7 @@ Here, N stands for the number of train journeys per day or night.
 <tr><td>Strong</td><td>4</td><td>6</td><td>8</td></tr>
 </table>
 
-Annex 5*[^t-3]*
+Annex 5[^t-3]
 
 (Art. 40 para. 1)
 
@@ -1156,13 +1160,13 @@ For the total traffic noise from civil aerodromes used by heavy aircraft, the fo
 <tr><td colspan="4">[tab] <sup>1</sup> The higher value applies for the first night hour (22-23 hours)</td></tr>
 </table>
 
-### 23 Exposure Limit Values expressed as <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/en/xml/image/image1.png)</sub>max
+### 23 Exposure Limit Values expressed as <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/en/xml/image/image1.png)</sub>max
 
-For civil aerodromes used exclusively by helicopters (heliports), the following exposure limit values, expressed as <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/en/xml/image/image2.png)</sub>max, apply in addition to the exposure limits expressed as Lr<sub>k</sub>:
+For civil aerodromes used exclusively by helicopters (heliports), the following exposure limit values, expressed as <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/en/xml/image/image2.png)</sub>max, apply in addition to the exposure limits expressed as Lr<sub>k</sub>:
 
 <table>
 <tr><td>Sensitivity level (Art. 43)</td><td>Planning value</td><td>Impact threshold</td><td>Alarm value</td></tr>
-<tr><td></td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/en/xml/image/image3.png)</sub>in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/en/xml/image/image4.png)</sub>in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/en/xml/image/image4.png)</sub>in dB(A)</td></tr>
+<tr><td></td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/en/xml/image/image3.png)</sub>in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/en/xml/image/image4.png)</sub>in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/en/xml/image/image4.png)</sub>in dB(A)</td></tr>
 <tr><td>I</td><td>70</td><td>75</td><td>85</td></tr>
 <tr><td>II</td><td>75</td><td>80</td><td>90</td></tr>
 <tr><td>III</td><td>80</td><td>85</td><td>90</td></tr>
@@ -1232,11 +1236,11 @@ Lr<sub>n</sub> = Leq<sub>n</sub>
 
 <sup>3</sup> Flights taking place after the second night hour (23-24 hours) and before the last night hour (05-06) are assigned to the second night hour (23-24 hours).
 
-### 5 Determination of the Average Maximum Noise Level <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/en/xml/image/image5.png)</sub>max for Heliports
+### 5 Determination of the Average Maximum Noise Level <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/en/xml/image/image5.png)</sub>max for Heliports
 
-<sup>1</sup> The average maximum noise level <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/en/xml/image/image2.png)</sub>max for heliports is the energetic average of the maximum noise level of a representative number of passing flights or overflights.
+<sup>1</sup> The average maximum noise level <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/en/xml/image/image2.png)</sub>max for heliports is the energetic average of the maximum noise level of a representative number of passing flights or overflights.
 
-<sup>2</sup> Measurements of <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/en/xml/image/image6.png)</sub>max are carried out with the instruments set on SLOW.
+<sup>2</sup> Measurements of <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/en/xml/image/image6.png)</sub>max are carried out with the instruments set on SLOW.
 
 Annex 6
 
@@ -1273,7 +1277,7 @@ Annex 6
 
 <sup>1</sup> The rating sound level Lr for industrial, commercial and similar types of noise is determined from the partial rating sound levels Lr,i for each noise phase as follows, whereby separate calculations are made for daytime (07 to 19 hours) and night-time (19 to 07 hours):
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/en/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/en/xml/image/image7.png)
 
 <sup>2</sup> The partial rating sound level Lr,i is determined for the average daily duration of the noise phase i as follows:
 
@@ -1328,7 +1332,7 @@ ti = Ti/B
 - c. for clearly audible pulse content 4
 - d. for strongly audible pulse content 6.
 
-Annex 7*[^t-4]*
+Annex 7[^t-4]
 
 (Art. 40 para. 1)
 
@@ -1375,7 +1379,7 @@ For noise from public installations according to Number 1 paragraph 3[^annex7-lv
 
 <sup>1</sup> The rating sound level Lr for the noise from firing range installations is the energetic sum of the partial rating sound level Lri for the weapons categories:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/en/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/en/xml/image/image8.png)
 
 <sup>2</sup> The partial rating sound level Lri is the sum of the average single shot sound level Li of a weapons category and the level correction Ki:
 
@@ -1383,7 +1387,7 @@ Lri = Li + Ki
 
 <sup>3</sup> The average single shot sound level Li is the energetic average weighted according to the number of shots of the energetically averaged single shot sound level Lj of a type of weapon or type of ammunition:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/en/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/en/xml/image/image9.png)
 
 <sup>4</sup> The energetically averaged single shot sound level Lj must be determined using the measurements of the A-weighted maximum sound level with the FAST time constants.
 
@@ -1419,7 +1423,7 @@ Where:
 
 <sup>2</sup> If the operational logs of existing firing range installations are incomplete or if the firing range installations are new or have been modified, the number of shots M is determined from forecasts of future use.
 
-Annex 8*[^t-5]*
+Annex 8[^t-5]
 
 (Art. 40 para. 1)
 
@@ -1507,7 +1511,7 @@ K<sub>2</sub> = 0 for N<sub>p</sub> &lt; 15 000
 
 K<sub>2</sub> = 10 x log (N<sub>p</sub>/15 000) for N<sub>p</sub> ≥ 15 000
 
-Annex 9*[^t-6]*
+Annex 9[^t-6]
 
 (Art. 40 para. 1)
 

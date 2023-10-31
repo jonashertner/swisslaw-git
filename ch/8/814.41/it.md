@@ -4,11 +4,11 @@ title: "Ordinanza del 15 dicembre 1986 contro l'inquinamento fonico (OIF)"
 short: OIF
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/338_338_338"
 language: it
-version: 2021-07-01
+version: 2023-11-01
 adopted: 1986-12-15
 in_force: 1987-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/it/xml/fedlex-data-admin-ch-eli-cc-1987-338_338_338-20210701-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/it/xml/fedlex-data-admin-ch-eli-cc-1987-338_338_338-20231101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20231101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20210701/it"
 
 (OIF)
 
-del 15 dicembre 1986 (Stato 1° luglio 2021)
+del 15 dicembre 1986 (Stato 1° novembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -53,7 +53,7 @@ Essa non regola:
 - a. la protezione contro il rumore prodotto sull’area di un’azienda nella misura in cui colpisce l’edificio aziendale e le abitazioni annesse all’interno di detta area;
 - b. la protezione contro gli infrasuoni e gli ultrasuoni.
 
-<sup>4</sup> …[^1-1]
+<sup>4</sup> ...[^1-1]
 
 [^1-1]: Abrogato dal n. I dell’O del 12 apr. 2000, con effetto dal 1° mag. 2000 ([RU 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)).
 
@@ -131,11 +131,11 @@ Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle 
 
 #### Art. 6
 
-**Direttive sul rumore dei cantieri**
+**Direttive sul rumore dei cantieri**[^6-1]
 
-L’Ufficio federale dell’ambiente[^6-1] emana direttive sui provvedimenti di costruzione e d’esercizio per limitare il rumore dei cantieri.
+L’Ufficio federale dell’ambiente (UFAM) emana direttive sui provvedimenti di costruzione e d’esercizio per limitare il rumore dei cantieri.
 
-[^6-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^6-1]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 582](https://fedlex.data.admin.ch/eli/oc/2023/582)).
 
 ## Capitolo 3: Impianti fissi nuovi o modificati
 
@@ -152,7 +152,10 @@ Le emissioni foniche di un impianto fisso nuovo devono essere limitate secondo l
 
 <sup>2</sup> Se l’osservanza dei valori di pianificazione costituisse un onere sproporzionato rispetto all’impianto e se esiste un interesse pubblico preponderante per l’impianto, segnatamente anche in relazione alla pianificazione del territorio, l’autorità esecutiva accorda facilitazioni. I valori limite d’immissione non possono tuttavia essere superati.[^7-1]
 
+<sup>3</sup> Nel caso di pompe di calore aria-acqua nuove utilizzate prevalentemente per il riscaldamento di locali o di acqua potabile e le cui immissioni foniche non superano i valori di pianificazione, le ulteriori limitazioni delle emissioni di cui al capoverso 1 lettera a devono essere adottate solo se è possibile ottenere una limitazione delle emissioni di almeno 3 dB con al massimo l’1 per cento dei costi di investimento dell’impianto.[^7-2]
+
 [^7-1]: Nuovo testo giusta il n. I dell’O del 16 giu. 1997, in vigore dal 1° ago. 1997 ([RU 1997 1588](https://fedlex.data.admin.ch/eli/oc/1997/1588_1588_1588)).
+[^7-2]: Introdotto dal n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 582](https://fedlex.data.admin.ch/eli/oc/2023/582)).
 
 #### Art. 8
 
@@ -345,11 +348,11 @@ L’autorità esecutiva controlla, al più tardi un anno dopo l’esecuzione del
 
 **Rilevamenti periodici**[^20-1]
 
-<sup>1</sup> L’Ufficio federale dell’ambiente effettua periodicamente, presso le autorità esecutive, rilevamenti sullo stato dei risanamenti e dei provvedimenti d’isolamento acustico concernenti in particolare le strade, gli impianti ferroviari, gli aerodromi, i poligoni di tiro, nonché le piazze di tiro e d’esercizio militari.
+<sup>1</sup> L’UFAM[^20-2] effettua periodicamente, presso le autorità esecutive, rilevamenti sullo stato dei risanamenti e dei provvedimenti d’isolamento acustico concernenti in particolare le strade, gli impianti ferroviari, gli aerodromi, i poligoni di tiro, nonché le piazze di tiro e d’esercizio militari.
 
 <sup>2</sup>
 
-Per le strade, l’Ufficio federale dell’ambiente chiede alle autorità esecutive di presentare, entro il 31 marzo, in particolare:
+Per le strade, l’UFAM chiede alle autorità esecutive di presentare, entro il 31 marzo, in particolare:
 
 - a.
 
@@ -367,13 +370,14 @@ Per le strade, l’Ufficio federale dell’ambiente chiede alle autorità esecut
   - 1\. i risanamenti effettuati durante l’anno precedente su strade o tratti stradali e i provvedimenti d’isolamento acustico, e
   - 2\. l’efficacia di tali risanamenti e provvedimenti d’isolamento acustico, nonché le spese da essi derivanti.
 
-<sup>3</sup> Per le strade nazionali, l’Ufficio federale dell’ambiente chiede le informazioni di cui al capoverso 2 all’Ufficio federale delle strade. Per le strade principali e le altre strade le chiede ai Cantoni. Le informazioni devono essere inoltrate secondo le disposizioni dell’Ufficio federale dell’ambiente.
+<sup>3</sup> Per le strade nazionali, l’UFAM chiede le informazioni di cui al capoverso 2 all’Ufficio federale delle strade. Per le strade principali e le altre strade le chiede ai Cantoni. Le informazioni devono essere inoltrate secondo le disposizioni dell’UFAM.
 
-<sup>4</sup> L’Ufficio federale dell’ambiente valuta le informazioni raccolte, con particolare attenzione allo stato di avanzamento dei risanamenti, nonché all’efficacia dei provvedimenti e alle relative spese. Infine, comunica alle autorità esecutive i risultati della valutazione e li pubblica.
+<sup>4</sup> L’UFAM valuta le informazioni raccolte, con particolare attenzione allo stato di avanzamento dei risanamenti, nonché all’efficacia dei provvedimenti e alle relative spese. Infine, comunica alle autorità esecutive i risultati della valutazione e li pubblica.
 
 [^20-1]: Nuovo testo giusta il n. I 14 dell’O del 7 nov. 2007 sulla Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^20-2]: Nuova espr. giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 582](https://fedlex.data.admin.ch/eli/oc/2023/582)). Di detta mod. é tenuto conto in tutto il presente testo.
 
-### Sezione 2:**** Sussidi federali per il risanamento e i provvedimenti d’isolamento acustico nel caso di strade principali e altre strade esistenti
+### Sezione 2: Sussidi federali per il risanamento e i provvedimenti d’isolamento acustico nel caso di strade principali e altre strade esistenti
 
 [^chap4-sec2-1]
 
@@ -402,7 +406,7 @@ La Confederazione accorda sussidi per risanamenti e provvedimenti d’isolamento
 
 **Domanda**
 
-<sup>1</sup> Il Cantone presenta la domanda di sussidi per i risanamenti e i provvedimenti d’isolamento acustico relativi alle strade di cui all’articolo 21 capoverso 1 lettera b all’Ufficio federale dell’ambiente.
+<sup>1</sup> Il Cantone presenta la domanda di sussidi per i risanamenti e i provvedimenti d’isolamento acustico relativi alle strade di cui all’articolo 21 capoverso 1 lettera b all’UFAM.
 
 <sup>2</sup>
 
@@ -416,7 +420,7 @@ La domanda deve contenere in particolare informazioni concernenti:
 
 **Accordo programmatico**
 
-<sup>1</sup> L’Ufficio federale dell’ambiente stipula un accordo programmatico con l’autorità cantonale competente.
+<sup>1</sup> L’UFAM stipula un accordo programmatico con l’autorità cantonale competente.
 
 <sup>2</sup>
 
@@ -428,7 +432,7 @@ Oggetto dell’accordo programmatico sono in particolare:
 
 <sup>3</sup> La durata dell’accordo programmatico è di quattro anni; in casi motivati può essere concordata una durata superiore o inferiore.[^23-1]
 
-<sup>4</sup> L’Ufficio federale dell’ambiente emana direttive relative alla procedura in materia di accordi programmatici, nonché alle informazioni e ai documenti riguardanti l’oggetto dell’accordo programmatico.
+<sup>4</sup> L’UFAM emana direttive relative alla procedura in materia di accordi programmatici, nonché alle informazioni e ai documenti riguardanti l’oggetto dell’accordo programmatico.
 
 [^23-1]: Nuovo testo giusta il n. I dell’O del 21 feb. 2018, in vigore dal 1° apr. 2018 ([RU 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)).
 
@@ -461,11 +465,11 @@ I sussidi globali sono pagati a rate.
 
 **Rendicontazione e controllo**
 
-1 Il Cantone presenta ogni anno all’Ufficio federale dell’ambiente un rapporto sull’impiego dei sussidi.
+1 Il Cantone presenta ogni anno all’UFAM un rapporto sull’impiego dei sussidi.
 
 <sup>2</sup>
 
-L’Ufficio federale dell’ambiente controlla a campione:
+L’UFAM controlla a campione:
 
 - a. l’esecuzione di singole misure conformemente agli obiettivi programmatici;
 - b. l’impiego dei sussidi versati.
@@ -476,14 +480,14 @@ L’Ufficio federale dell’ambiente controlla a campione:
 
 <sup>1</sup>
 
-L’Ufficio federale dell’ambiente sospende totalmente o in parte i pagamenti rateali nel corso del programma se il Cantone:
+L’UFAM sospende totalmente o in parte i pagamenti rateali nel corso del programma se il Cantone:
 
 - a. non adempie all’obbligo di rendicontazione (art. 26 cpv. 1);
 - b. cagiona per colpa propria una grave inadempienza nella sua prestazione.
 
-<sup>2</sup> Se, dopo la conclusione del programma, risulta che la prestazione è stata eseguita solo parzialmente, l’Ufficio federale dell’ambiente ne esige la corretta esecuzione da parte del Cantone, stabilendo un termine adeguato.
+<sup>2</sup> Se, dopo la conclusione del programma, risulta che la prestazione è stata eseguita solo parzialmente, l’UFAM ne esige la corretta esecuzione da parte del Cantone, stabilendo un termine adeguato.
 
-<sup>3</sup> Se impianti per i quali sono stati accordati aiuti finanziari o indennità sono sottratti al loro scopo, l’Ufficio federale dell’ambiente può esigere che il Cantone ordini, entro un termine adeguato, la cessazione della sottrazione allo scopo o il suo annullamento.
+<sup>3</sup> Se impianti per i quali sono stati accordati aiuti finanziari o indennità sono sottratti al loro scopo, l’UFAM può esigere che il Cantone ordini, entro un termine adeguato, la cessazione della sottrazione allo scopo o il suo annullamento.
 
 <sup>4</sup> Se le lacune non sono colmate o la sottrazione allo scopo non cessa o non è annullata, la restituzione è retta dagli articoli 28 e 29 della legge del 5 ottobre 1990[^27-1] sui sussidi.
 
@@ -549,7 +553,7 @@ In prossimità di aeroporti sui quali circolano velivoli grandi, i valori di pia
 
 <sup>2</sup> Al momento della delimitazione o dell’urbanizzazione di zone edificabili, l’autorità competente provvede affinché le esigenze di cui al capoverso 1 lettere b e c siano definite in modo vincolante per i proprietari fondiari.
 
-<sup>3</sup> L’Ufficio federale dell’ambiente emana raccomandazioni per l’esecuzione del capoverso 1 lettera c. A tal fine, tiene conto delle norme tecniche determinanti.
+<sup>3</sup> L’UFAM emana raccomandazioni per l’esecuzione del capoverso 1 lettera c. A tal fine, tiene conto delle norme tecniche determinanti.
 
 [^31a-1]: Introdotto dal n. I dell’O del 28 nov. 2014, in vigore dal 1° feb. 2015 ([RU 2014 4501](https://fedlex.data.admin.ch/eli/oc/2014/751)).
 [^31a-2]: La norma menzionata può essere consultata gratuitamente presso la Società svizzera degli ingegneri e degli architetti (SIA), Selnaustrasse 16, 8027 Zurigo, o ordinata dietro pagamento all’indirizzo Internet: www.sia.ch.
@@ -598,7 +602,7 @@ Nella richiesta dell’autorizzazione di costruire il committente deve indicare:
 
 Al termine dei lavori di costruzione l’autorità esecutiva verifica, mediante prove a caso, se i provvedimenti d’isolamento acustico adempiono le esigenze. In caso di dubbio, procede ad un esame approfondito.
 
-## Capitolo 7: Determinazione, valutazione e controllo delle immissioni foniche esterne degli impianti fissi****
+## Capitolo 7: Determinazione, valutazione e controllo delle immissioni foniche esterne degli impianti fissi
 
 [^chap7-1]
 
@@ -644,7 +648,7 @@ Nel catasto dei rumori sono contemplati:
 
 <sup>3</sup> L’autorità esecutiva provvede alla verifica e alla rettifica del relativo catasto dei rumori.
 
-<sup>4</sup> Su richiesta, essa inoltra detto catasto dei rumori all’Ufficio federale dell’ambiente, il quale può emanare raccomandazioni volte ad assicurare la comparabilità del rilevamento e della rappresentazione dei dati.
+<sup>4</sup> Su richiesta, essa inoltra detto catasto dei rumori all’UFAM, il quale può emanare raccomandazioni volte ad assicurare la comparabilità del rilevamento e della rappresentazione dei dati.
 
 <sup>5</sup> La determinazione delle immissioni foniche generate dall’aeroporto di Basilea- Mulhouse sul territorio svizzero è effettuata dall’Ufficio federale dell’aviazione civile.
 
@@ -661,7 +665,7 @@ Nel catasto dei rumori sono contemplati:
 
 <sup>2</sup> Nel caso in cui risulti accertato o sia lecito attendersi che le immissioni foniche di un impianto divergano sensibilmente e durevolmente dalle immissioni definite nella decisione, l’autorità esecutiva adotta le misure necessarie.
 
-<sup>3</sup> L’Ufficio federale dell’ambiente può emanare raccomandazioni volte ad assicurare la comparabilità dei rilevamenti e della rappresentazione dei dati relativi alle immissioni foniche definite in tali decisioni.
+<sup>3</sup> L’UFAM può emanare raccomandazioni volte ad assicurare la comparabilità dei rilevamenti e della rappresentazione dei dati relativi alle immissioni foniche definite in tali decisioni.
 
 [^37a-1]: Introdotto dal n. I dell’O del 12 apr. 2000 ([RU 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)). Nuovo testo giusta il n. I dell’O del 1° set. 2004, in vigore dal 1° ott. 2004 ([RU 2004 4167](https://fedlex.data.admin.ch/eli/oc/2004/623)).
 
@@ -671,7 +675,7 @@ Nel catasto dei rumori sono contemplati:
 
 <sup>1</sup> Le immissioni foniche sono determinate sotto forma di livello di valutazione Lr o livello massimo Lmass in base a calcoli o misurazioni.[^38-1]
 
-<sup>2</sup> Le immissioni foniche degli aeroplani sono di regola determinate mediante calcoli. Tali calcoli vanno eseguiti secondo lo stato riconosciuto della tecnica. L’Ufficio federale dell’ambiente raccomanda le procedure di calcolo idonee.[^38-2]
+<sup>2</sup> Le immissioni foniche degli aeroplani sono di regola determinate mediante calcoli. Tali calcoli vanno eseguiti secondo lo stato riconosciuto della tecnica. L’UFAM raccomanda le procedure di calcolo idonee.[^38-2]
 
 <sup>3</sup> Le esigenze poste ai metodi di calcolo e agli apparecchi di misura sono rette dall’allegato 2.[^38-3]
 
@@ -768,7 +772,7 @@ Nelle zone d’utilizzazione ai sensi degli articoli 14 e seguenti della legge f
 
 <sup>1</sup> I Cantoni eseguono la presente ordinanza ad eccezione dei compiti da essa attribuiti alla Confederazione.
 
-<sup>2</sup> Nell’applicare altre leggi federali, accordi internazionali o decisioni internazionali concernenti punti disciplinati dalla presente ordinanza, le autorità federali eseguono in tal ambito anche la presente ordinanza. La collaborazione dell’Ufficio federale e dei Cantoni è retta dall’articolo 41 capoversi 2 e 4 della legge; sono salve le disposizioni legali sull’obbligo di tutela del segreto.
+<sup>2</sup> Nell’applicare altre leggi federali, accordi internazionali o decisioni internazionali concernenti punti disciplinati dalla presente ordinanza, le autorità federali eseguono in tal ambito anche la presente ordinanza. La collaborazione dell’UFAM e dei Cantoni è retta dall’articolo 41 capoversi 2 e 4 della legge; sono salve le disposizioni legali sull’obbligo di tutela del segreto.
 
 <sup>3</sup>
 
@@ -822,7 +826,7 @@ Per l’esecuzione delle prescrizioni sulla limitazione delle emissioni (art. 4,
 
 **Panoramica nazionale dell’inquinamento fonico**[^45a-1]
 
-L’Ufficio federale dell’ambiente cura una panoramica nazionale dell’inquinamento fonico. Pubblica una rappresentazione georeferenziata dell’inquinamento fonico in particolare per il rumore del traffico stradale, ferroviario e aereo, nonché per il rumore delle piazze d’armi, di tiro e d’esercizio militari. Aggiorna tale rappresentazione almeno ogni cinque anni.
+L’UFAM cura una panoramica nazionale dell’inquinamento fonico. Pubblica una rappresentazione georeferenziata dell’inquinamento fonico in particolare per il rumore del traffico stradale, ferroviario e aereo, nonché per il rumore delle piazze d’armi, di tiro e d’esercizio militari. Aggiorna tale rappresentazione almeno ogni cinque anni.
 
 [^45a-1]: Introdotto dal n. I dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
 
@@ -830,7 +834,7 @@ L’Ufficio federale dell’ambiente cura una panoramica nazionale dell’inquin
 
 **Geoinformazione**[^46-1]
 
-L’Ufficio federale dell’ambiente stabilisce i modelli di geodati e i modelli di rappresentazione minimi per i geodati di base ai sensi della presente ordinanza per i quali è designato quale servizio specializzato della Confederazione nell’allegato 1 dell’ordinanza del 21 maggio 2008[^46-2] sulla geoinformazione.
+L’UFAM stabilisce i modelli di geodati e i modelli di rappresentazione minimi per i geodati di base ai sensi della presente ordinanza per i quali è designato quale servizio specializzato della Confederazione nell’allegato 1 dell’ordinanza del 21 maggio 2008[^46-2] sulla geoinformazione.
 
 [^46-1]: Nuovo testo giusta l’all. 2 n. 9 dell’O del 21 mag. 2008 sulla geoinformazione, in vigore dal 1° lug. 2008 ([RU 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
 [^46-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
@@ -875,7 +879,7 @@ L’Ufficio federale dell’ambiente stabilisce i modelli di geodati e i modelli
 
 La presente ordinanza entra in vigore il 1° aprile 1987.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 10 cpv. 1 e 15 cpv. 1)
 
@@ -902,7 +906,7 @@ Allegato 1*[^t-1]*
 
 <sup>6</sup> L’autorità esecutiva può prevedere l’installazione di ventilatori insonorizzati per le camere da letto.
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 38 cpv. 3)
 
@@ -919,7 +923,7 @@ Allegato 2*[^t-2]*
 - c. gli effetti del suolo sulla propagazione del suono;
 - d. gli effetti delle costruzioni e degli ostacoli naturali sulla propagazione del suono (attenuazione dovuta agli ostacoli e riflessioni).
 
-<sup>2</sup> L’Ufficio federale dell’ambiente raccomanda alle autorità esecutive metodi di calcolo adeguati in base allo stato della tecnica.
+<sup>2</sup> L’UFAM raccomanda alle autorità esecutive metodi di calcolo adeguati in base allo stato della tecnica.
 
 ### 2 Strumenti di misura
 
@@ -954,7 +958,7 @@ Allegato 3
 
 <sup>1</sup> Il livello di valutazione del rumore Lr del traffico stradale è calcolato a partire dai livelli di valutazione parziali del rumore dei veicoli a motore (Lr1) e del rumore dei treni (Lr2) con la formula seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/it/xml/image/image1.png)
 
 <sup>2</sup> Il livello di valutazione parziale Lr1 è la somma del livello energetico medio Leq,m, ponderato A, prodotto dai veicoli a motore e della correzione del livello K1:
 
@@ -1047,7 +1051,7 @@ Allegato 4
 
 <sup>1</sup> Il livello di valutazione del rumore Lr dei treni è calcolato a partire dai livelli di valutazione parziali del rumore della circolazione dei treni (Lr1) e del rumore dell’esercizio di manovra (Lr2) con la formula seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/it/xml/image/image2.png)
 
 <sup>2</sup> Il livello di valutazione parziale Lr1 è la somma del livello energetico medio Leq,f, ponderato A, prodotto dalla circolazione dei treni e della correzione del livello K1:
 
@@ -1094,7 +1098,7 @@ Dove N rappresenta il numero di treni in circolazione durante il giorno o la not
 <tr><td>Forte</td><td>4</td><td>6</td><td>8</td></tr>
 </table>
 
-Allegato 5*[^t-3]*
+Allegato 5[^t-3]
 
 (art. 40 cpv. 1)
 
@@ -1154,13 +1158,13 @@ Oltre ai valori limite d’esposizione in Lr<sub>k</sub>, per il rumore del traf
 <tr><td colspan="4"><sup>1</sup> I valori più alti valgono per la prima ora della notte (ore 22–23).</td></tr>
 </table>
 
-### 23 Valori limite d’esposizione in ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/it/xml/image/image3.png)max
+### 23 Valori limite d’esposizione in ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/it/xml/image/image3.png)max
 
-Oltre ai valori limite d’esposizione in Lr<sub>k</sub>, per il rumore del traffico sugli aerodromi civili sui quali circolano esclusivamente elicotteri (eliporti) valgono i valori limite d’esposizione seguenti in <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/it/xml/image/image4.png)</sub>max:
+Oltre ai valori limite d’esposizione in Lr<sub>k</sub>, per il rumore del traffico sugli aerodromi civili sui quali circolano esclusivamente elicotteri (eliporti) valgono i valori limite d’esposizione seguenti in <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/it/xml/image/image4.png)</sub>max:
 
 <table>
 <tr><td>Grado di sensibilità (art. 43)</td><td>Valore di pianificazione</td><td>Valore limite d’immissione</td><td>Valore d’allarme</td></tr>
-<tr><td></td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/it/xml/image/image5.png)</sub>max in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/it/xml/image/image5.png)</sub>max in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/it/xml/image/image5.png)</sub>max in dB(A)</td></tr>
+<tr><td></td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/it/xml/image/image5.png)</sub>max in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/it/xml/image/image5.png)</sub>max in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/it/xml/image/image5.png)</sub>max in dB(A)</td></tr>
 <tr><td>I</td><td>70</td><td>75</td><td>85</td></tr>
 <tr><td>II</td><td>75</td><td>80</td><td>90</td></tr>
 <tr><td>III</td><td>80</td><td>85</td><td>90</td></tr>
@@ -1230,11 +1234,11 @@ Lr<sub>n</sub> = Leq<sub>n</sub>
 
 <sup>3</sup> I voli effettuati dopo la seconda (ore 23–24) e prima dell’ultima ora della notte (ore 5–6) sono computati nella seconda ora della notte (ore 23–24).
 
-### 5 Determinazione del livello di rumore massimo medio <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/it/xml/image/image6.png)</sub>max per gli eliporti
+### 5 Determinazione del livello di rumore massimo medio <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/it/xml/image/image6.png)</sub>max per gli eliporti
 
-<sup>1</sup> Per gli eliporti, il livello di rumore massimo medio <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/it/xml/image/image4.png)</sub>max è la media energetica del livello di rumore massimo di un numero rappresentativo di sorvoli o di passaggi.
+<sup>1</sup> Per gli eliporti, il livello di rumore massimo medio <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/it/xml/image/image4.png)</sub>max è la media energetica del livello di rumore massimo di un numero rappresentativo di sorvoli o di passaggi.
 
-<sup>2</sup> Le misurazioni per determinare il livello di rumore massimo medio <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/it/xml/image/image7.png)</sub>max devono essere effettuate con il sonometro regolato su «SLOW».
+<sup>2</sup> Le misurazioni per determinare il livello di rumore massimo medio <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/it/xml/image/image7.png)</sub>max devono essere effettuate con il sonometro regolato su «SLOW».
 
 Allegato 6
 
@@ -1271,7 +1275,7 @@ Allegato 6
 
 <sup>1</sup> Il livello di valutazione del rumore Lr dell’industria e delle arti e mestieri e degli altri rumori simili è calcolato separatamente per il giorno (dalle ore 7 alle 19) e per la notte (dalle ore 19 alle 7) a partire dai livelli di valutazione parziali Lr,i di ciascuna fase di rumore:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/it/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/it/xml/image/image8.png)
 
 <sup>2</sup> Il livello di valutazione parziale Lr,i è calcolato per la durata media giornaliera della fase di rumore, con la formula seguente:
 
@@ -1324,7 +1328,7 @@ ti = Ti/B
 - c. 4, se la componente impulsiva è distintamente udibile;
 - d. 6, se la componente impulsiva è fortemente udibile.
 
-Allegato 7 *[^t-4]*
+Allegato 7 [^t-4]
 
 (art. 40 cpv. 1)
 
@@ -1371,7 +1375,7 @@ Per il rumore causato da impianti pubblici secondo la cifra 1 capoverso 3[^annex
 
 <sup>1</sup> Il livello di valutazione Lr per il rumore degli impianti di tiro è la somma energetica dei livelli di valutazione parziali Lri delle diverse categorie di armi:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/it/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/it/xml/image/image9.png)
 
 <sup>2</sup> Il livello di valutazione parziale Lri è la somma del livello di rumore medio di un singolo colpo Li relativo a una categoria di armi e della correzione del livello Ki:
 
@@ -1379,7 +1383,7 @@ Lri = Li + Ki
 
 <sup>3</sup> Il livello di rumore medio di un singolo colpo Li è la media energetica ponderata, in base al numero di colpi sparati, del livello di rumore dei singoli colpi Lj relativi a un tipo di arma e di munizioni calcolato come media energetica:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/it/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/it/xml/image/image10.png)
 
 <sup>4</sup> Il livello di rumore dei singoli colpi Lj calcolato come media energetica deve essere determinato sulla base di misurazioni del livello massimo ponderato A con la costante di tempo FAST.
 
@@ -1417,7 +1421,7 @@ Dsi numero annuo di semigiornate di tiro nelle domeniche o nei giorni festivi ge
 
 <sup>2</sup> Qualora per impianti di tiro esistenti non vi siano rilevamenti sufficienti o qualora gli impianti di tiro siano di nuova costruzione o modificati, il numero di colpi M viene determinato sulla base di previsioni relative all’utilizzazione futura.
 
-Allegato 8*[^t-5]*
+Allegato 8[^t-5]
 
 (art. 40 cpv. 1)
 
@@ -1505,7 +1509,7 @@ K2 = 0 per N<sub>p</sub> ˂ 15 000
 
 K2 = 10 log (N<sub>p</sub>/15 000) per N<sub>p</sub> ≥ 15 000
 
-Allegato 9*[^t-6]*
+Allegato 9[^t-6]
 
 (art. 40 cpv. 1)
 
@@ -1540,7 +1544,7 @@ Allegato 9*[^t-6]*
 
 Il livello di valutazione Lr del rumore del tiro sulle piazze d’armi, di tiro e d’esercizio militari è calcolato a partire dai livelli dei fenomeni sonori L<sub>AE1</sub> e L<sub>AE2</sub> nonché dalle correzioni del livello K1 e K2 con la formula seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/it/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/it/xml/image/image11.png)
 
 Dove:
 

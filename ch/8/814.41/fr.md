@@ -4,11 +4,11 @@ title: Ordonnance du 15 décembre 1986 sur la protection contre le bruit (OPB)
 short: OPB
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/338_338_338"
 language: fr
-version: 2021-07-01
+version: 2023-11-01
 adopted: 1986-12-15
 in_force: 1987-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-1987-338_338_338-20210701-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/fr/xml/fedlex-data-admin-ch-eli-cc-1987-338_338_338-20231101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20231101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20210701/fr"
 
 (OPB)
 
-du 15 décembre 1986 (Etat le 1<sup>er</sup> juillet 2021)
+du 15 décembre 1986 (État le 1<sup>er</sup> novembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -111,7 +111,7 @@ Les émissions de bruit extérieur produites par des appareils et des machines m
 
 #### Art. 5
 
-**Evaluation de la conformité et marquage des appareils et des machines**[^5-1]
+**Évaluation de la conformité et marquage des appareils et des machines**[^5-1]
 
 <sup>1</sup> Les appareils et les machines prévus pour une utilisation à l’air libre ne seront mis dans le commerce qu’après avoir passé une évaluation de leur conformité et avoir été marqués.
 
@@ -131,11 +131,11 @@ Le Département fédéral de l’environnement, des transports, de l’énergie 
 
 #### Art. 6
 
-**Directives sur le bruit des chantiers**
+**Directives sur le bruit des chantiers**[^6-1]
 
-L’Office fédéral de l’environnement[^6-1] édicte des directives sur les mesures de construction et d’exploitation destinées à limiter le bruit des chantiers.
+L’Office fédéral de l’environnement (OFEV) édicte des directives sur les mesures de construction et d’exploitation destinées à limiter le bruit des chantiers.
 
-[^6-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 582](https://fedlex.data.admin.ch/eli/oc/2023/582)).
 
 ## Chapitre 3 Installations fixes nouvelles et modifiées
 
@@ -152,7 +152,10 @@ Les émissions de bruit d’une nouvelle installation fixe seront limitées conf
 
 <sup>2</sup> L’autorité d’exécution accorde des allégements dans la mesure où le respect des valeurs de planification constituerait une charge disproportionnée pour l’installation et que cette dernière présente un intérêt public prépondérant, notamment sur le plan de l’aménagement du territoire. Les valeurs limites d’immission ne doivent cependant pas être dépassées.[^7-1]
 
+<sup>3</sup> Les mesures supplémentaires de limitation des émissions prévues à l’al. 1, let. a, ne s’appliquent aux nouvelles pompes à chaleur air-eau qui sont majoritairement destinées au chauffage de locaux ou d’eau potable et dont les immissions de bruit ne dépassent pas les valeurs de planification que si les émissions peuvent être réduites d’au moins 3 dB moyennant au plus 1 % des coûts d’investissement de l’installation.[^7-2]
+
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 16 juin 1997, en vigueur depuis le 1<sup>er</sup> août 1997 ([RO 1997 1588](https://fedlex.data.admin.ch/eli/oc/1997/1588_1588_1588)).
+[^7-2]: Introduit par le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 582](https://fedlex.data.admin.ch/eli/oc/2023/582)).
 
 #### Art. 8
 
@@ -345,7 +348,7 @@ L’autorité d’exécution s’assurera, au plus tard un an après l’exécut
 
 **Enquêtes périodiques**[^20-1]
 
-<sup>1</sup> L’Office fédéral de l’environnement enquête périodiquement auprès des autorités d’exécution pour connaître l’état des assainissements et des mesures d’isolation acoustique concernant notamment les routes, les installations ferroviaires, les aérodromes et les installations de tir, ainsi que sur les places de tir et d’exercice militaires.
+<sup>1</sup> L’OFEV[^20-2] enquête périodiquement auprès des autorités d’exécution pour connaître l’état des assainissements et des mesures d’isolation acoustique concernant notamment les routes, les installations ferroviaires, les aérodromes et les installations de tir, ainsi que sur les places de tir et d’exercice militaires.
 
 <sup>2</sup>
 
@@ -367,13 +370,14 @@ S’agissant des routes, il demande aux autorités d’exécution de fournir cha
   - 1\. les assainissements de routes ou de tronçons routiers et les mesures d’isolation acoustique réalisés au cours de l’année précédente, et sur
   - 2\. l’efficacité et le coût de ces assainissements et de ces mesures d’isolation acoustique.
 
-<sup>3</sup> Pour les routes nationales, il demande à l’Office fédéral des routes les indications prévues à l’al. 2. Pour les routes principales et les autres routes, il demande ces informations aux cantons. Ces informations doivent être fournies conformément aux directives de l’Office fédéral de l’environnement.
+<sup>3</sup> Pour les routes nationales, il demande à l’Office fédéral des routes les indications prévues à l’al. 2. Pour les routes principales et les autres routes, il demande ces informations aux cantons. Ces informations doivent être fournies conformément aux directives de l’OFEV.
 
-<sup>4</sup> L’Office fédéral de l’environnement évalue ces informations en particulier du point de vue de l’avancement des travaux d’assainissement, ainsi que du coût et de l’efficacité des mesures. Il communique les résultats aux autorités d’exécution et les publie.
+<sup>4</sup> L’OFEV évalue ces informations en particulier du point de vue de l’avancement des travaux d’assainissement, ainsi que du coût et de l’efficacité des mesures. Il communique les résultats aux autorités d’exécution et les publie.
 
 [^20-1]: Nouvelle teneur selon le ch. I 14 de l’O du 7 nov. 2007 (Réforme de la péréquation financière), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^20-2]: Nouvelle expression selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 582](https://fedlex.data.admin.ch/eli/oc/2023/582)). Il a été tenu compte de cette mod. dans tout le texte.
 
-### Section 2**** Subventions fédérales à l’assainissement et aux mesures d’isolation acoustique des routes (principales et autres) existantes
+### Section 2 Subventions fédérales à l’assainissement et aux mesures d’isolation acoustique des routes (principales et autres) existantes
 
 [^chap4-sec2-1]
 
@@ -392,17 +396,17 @@ La Confédération alloue des subventions en faveur de l’assainissement et des
 
 <sup>2</sup> Les subventions visées à l’al. 1, let. a, font partie des contributions globales prévues à l’art. 13 LUMin. Les subventions visées à l’al. 1, let. b, sont octroyées globalement pour les tronçons définis dans les conventions-programmes conclues avec les cantons.
 
-<sup>3</sup> ...[^21-3]
+<sup>3</sup> …[^21-3]
 
 [^21-1]: Nouvelle teneur selon le ch. I de l’O du 21 fév. 2018, en vigueur depuis le 1<sup>er</sup> avr. 2018 ([RO 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)).
 [^21-2]: [RS 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
-[^21-3]: Introduit par le ch. I de l’O du 21 fév. 2018 ([RO 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)). Abrogé par le ch.I de l’O du 12 mai 2021, avec effet au 1<sup>er</sup> juillet 2021 ([RO 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
+[^21-3]: Introduit par le ch. I de l’O du 21 fév. 2018 ([RO 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)). Abrogé par le ch. I de l’O du 12 mai 2021, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
 
 #### Art. 22
 
 **Demande**
 
-<sup>1</sup> Le canton présente la demande de subventions pour des assainissements et des mesures d’isolation acoustique appliqués aux routes visées à l’art. 21, al. 1, let. b, à l’Office fédéral de l’environnement.
+<sup>1</sup> Le canton présente la demande de subventions pour des assainissements et des mesures d’isolation acoustique appliqués aux routes visées à l’art. 21, al. 1, let. b, à l’OFEV.
 
 <sup>2</sup>
 
@@ -416,7 +420,7 @@ La demande doit notamment contenir des indications relatives:
 
 **Convention-programme**
 
-<sup>1</sup> L’Office fédéral de l’environnement conclut la convention-programme avec l’autorité cantonale compétente.
+<sup>1</sup> L’OFEV conclut la convention-programme avec l’autorité cantonale compétente.
 
 <sup>2</sup>
 
@@ -428,7 +432,7 @@ La convention-programme a notamment pour objets:
 
 <sup>3</sup> La durée de la convention-programme est de quatre ans; dans des cas dûment motivés, une durée plus courte ou plus longue peut être convenue.[^23-1]
 
-<sup>4</sup> L’Office fédéral de l’environnement édicte des directives sur la procédure à suivre dans le cadre des conventions-programmes et sur les informations et documents relatifs aux objets de celles-ci.
+<sup>4</sup> L’OFEV édicte des directives sur la procédure à suivre dans le cadre des conventions-programmes et sur les informations et documents relatifs aux objets de celles-ci.
 
 [^23-1]: Nouvelle teneur selon le ch. I de l’O du 21 fév. 2018, en vigueur depuis le 1<sup>er</sup> avr. 2018 ([RO 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)).
 
@@ -447,7 +451,7 @@ Le montant des subventions pour les assainissements est fonction:
 
 <sup>3</sup> Le montant des subventions est négocié entre la Confédération et les cantons.
 
-#### Art. 24a et 24b
+#### Art. 24aet 24b
 
 *Abrogés*
 
@@ -461,11 +465,11 @@ Les subventions globales sont versées par paiements échelonnés.
 
 **Compte rendu et contrôle**
 
-<sup>1</sup> Le canton rend compte chaque année à l’Office fédéral de l’environnement de l’utilisation des subventions.
+<sup>1</sup> Le canton rend compte chaque année à l’OFEV de l’utilisation des subventions.
 
 <sup>2</sup>
 
-L’Office fédéral de l’environnement contrôle par sondages:
+L’OFEV contrôle par sondages:
 
 - a. l’exécution des diverses mesures en fonction des objectifs du programme;
 - b. l’utilisation des subventions versées.
@@ -476,16 +480,16 @@ L’Office fédéral de l’environnement contrôle par sondages:
 
 <sup>1</sup>
 
-L’Office fédéral de l’environnement retient tout ou partie des paiements échelonnés, pendant la durée du programme, si le canton:
+L’OFEV retient tout ou partie des paiements échelonnés, pendant la durée du programme, si le canton:
 
 - a. ne s’acquitte pas de son devoir de compte rendu (art. 26, al. 1);
 - b. entrave considérablement et par sa propre faute l’exécution de sa prestation.
 
-<sup>2</sup> Si, après la durée du programme, il s’avère que la prestation a été fournie de manière imparfaite, l’Office fédéral de l’environnement en exige l’exécution correcte par le canton; il lui fixe un délai raisonnable à cet effet.
+<sup>2</sup> Si, après la durée du programme, il s’avère que la prestation a été fournie de manière imparfaite, l’OFEV en exige l’exécution correcte par le canton; il lui fixe un délai raisonnable à cet effet.
 
-<sup>3</sup> Si des installations qui ont bénéficié d’indemnités sont affectées à un autre but, l’Office fédéral de l’environnement peut exiger du canton qu’il renonce à cette désaffectation ou l’annule, dans un délai raisonnable.
+<sup>3</sup> Si des installations qui ont bénéficié d’indemnités sont affectées à un autre but, l’OFEV peut exiger du canton qu’il renonce à cette désaffectation ou l’annule, dans un délai raisonnable.
 
-<sup>4</sup> Si le canton n’exécute pas correctement la prestation malgré l’injonction de l’office fédéral de l’environnement ou s’il renonce pas à la désaffectation ou ne l’annule pas, la restitution est régie par les art. 28 et 29 de la loi du 5 octobre 1990 sur les subventions (LSu)[^27-1].
+<sup>4</sup> Si le canton n’exécute pas correctement la prestation malgré l’injonction de l’OFEV ou s’il renonce pas à la désaffectation ou ne l’annule pas, la restitution est régie par les art. 28 et 29 de la loi du 5 octobre 1990 sur les subventions (LSu)[^27-1].
 
 [^27-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
@@ -507,7 +511,7 @@ Abrogé
 
 #### Art. 30
 
-**Equipement des zones à bâtir**[^30-1]
+**Équipement des zones à bâtir**[^30-1]
 
 Les zones à bâtir destinées à des bâtiments comprenant des locaux à usage sensible au bruit, qui ne sont pas encore équipées au moment de l’entrée en vigueur de la loi, ne pourront être équipées que dans la mesure où les valeurs de planification sont respectées ou peuvent l’être par un changement du mode d’affectation ou par des mesures de planification, d’aménagement ou de construction. L’autorité d’exécution peut accorder des exceptions pour de petites parties de zones à bâtir.
 
@@ -521,7 +525,7 @@ Les zones à bâtir destinées à des bâtiments comprenant des locaux à usage 
 
 Lorsque les valeurs limites d’immission sont dépassées, les nouvelles constructions ou les modifications notables de bâtiments comprenant des locaux à usage sensible au bruit, ne seront autorisées que si ces valeurs peuvent être respectées par:
 
-- a. la disposition des locaux à usage sensible au bruit sur le côté du bâtiment opposé au bruit; ou.
+- a. la disposition des locaux à usage sensible au bruit sur le côté du bâtiment opposé au bruit, ou
 - b. des mesures de construction ou d’aménagement susceptibles de protéger le bâtiment contre le bruit.[^31-1]
 
 <sup>2</sup> Si les mesures fixées à l’al. 1 ne permettent pas de respecter les valeurs limites d’immission, le permis de construire ne sera délivré qu’avec l’assentiment de l’autorité cantonale et pour autant que l’édification du bâtiment présente un intérêt prépondérant.
@@ -539,7 +543,7 @@ Lorsque les valeurs limites d’immission sont dépassées, les nouvelles constr
 Pour les aéroports où circulent de grands avions, les valeurs limites de planification et les valeurs limites d’immissions selon l’annexe 5, ch. 222, pour les heures de la nuit sont considérées comme respectées si:
 
 - a. aucune opération de vol n’est prévue entre 24 et 6 heures;
-- b. les locaux à usage sensible au bruit bénéficient d’une isolation acoustique contre le bruit, extérieur et intérieur, répondant au moins aux exigences accrues de la norme SIA 181 du 1<sup>er</sup> juin 2006 de la Société suisse des ingénieurs et des architectes[^31a-2]; et que
+- b. les locaux à usage sensible au bruit bénéficient d’une isolation acoustique contre le bruit, extérieur et intérieur, répondant au moins aux exigences accrues de la norme SIA 181 du 1<sup>er</sup> juin 2006 de la Société suisse des ingénieurs et des architectes[^31a-2], et que
 - c.
 
   les chambres à coucher:
@@ -549,10 +553,10 @@ Pour les aéroports où circulent de grands avions, les valeurs limites de plani
 
 <sup>2</sup> L’autorité chargée de la délimitation ou de l’équipement de zones à bâtir veille à ce que les exigences formulées à l’al. 1, let. b et c, soient contraignantes pour les propriétaires fonciers.
 
-<sup>3</sup> L’Office fédéral de l’environnement peut édicter des recommandations relatives à l’exécution de l’al. 1, let. c. Il y tient compte des normes techniques pertinentes.
+<sup>3</sup> L’OFEV peut édicter des recommandations relatives à l’exécution de l’al. 1, let. c. Il y tient compte des normes techniques pertinentes.
 
 [^31a-1]: Introduit par le ch. I de l’O du 28 nov. 2014, en vigueur depuis le 1<sup>er</sup> fév. 2015 ([RO 2014 4501](https://fedlex.data.admin.ch/eli/oc/2014/751)).
-[^31a-2]: Cette norme peut être consultée gratuitement auprès de la Société suisse des ingénieurs et des architectes (SIA), Selnaustrasse 16, 8027 Zurich, ou être téléchargée contre paiement sur le site Internet www.sia.ch
+[^31a-2]: Cette norme peut être consultée gratuitement auprès de la Société suisse des ingénieurs et des architectes (SIA), Selnaustrasse 16, 8027 Zurich, ou être téléchargée contre paiement sur le site Internet [www.sia.ch](https://www.sia.ch)
 
 ## Chapitre 6 Isolation acoustique des nouveaux bâtiments
 
@@ -570,7 +574,7 @@ Pour les aéroports où circulent de grands avions, les valeurs limites de plani
 
 #### Art. 33
 
-**Eléments extérieurs et éléments de séparation, équipements du bâtiment**
+**Éléments extérieurs et éléments de séparation, équipements du bâtiment**
 
 <sup>1</sup> Les éléments extérieurs délimitent un local vers le dehors du bâtiment (p. ex. fenêtres, portes et murs extérieurs, toits).
 
@@ -644,7 +648,7 @@ Les cadastres de bruit indiquent:
 
 <sup>3</sup> L’autorité d’exécution veille à ce que les cadastres soient contrôlés et rectifiés.
 
-<sup>4</sup> Elle remet les cadastres à l’Office fédéral de l’environnement à sa demande. L’office peut édicter des recommandations afin que les données soient saisies et présentées de manière comparable.
+<sup>4</sup> Elle remet les cadastres à l’OFEV à sa demande. L’office peut édicter des recommandations afin que les données soient saisies et présentées de manière comparable.
 
 <sup>5</sup> L’Office fédéral de l’aviation civile est responsable de la détermination des immissions de bruit provoquées par l’aéroport de Bâle-Mulhouse sur le territoire suisse.
 
@@ -661,7 +665,7 @@ Les cadastres de bruit indiquent:
 
 <sup>2</sup> S’il est établi ou à craindre que les immissions de bruit dues à l’installation diffèrent notablement et durablement des immissions consignées dans la décision, l’autorité d’exécution prend les mesures nécessaires.
 
-<sup>3</sup> L’Office fédéral de l’environnement peut édicter des recommandations afin que les immissions de bruit consignées dans ces décisions soient saisies et présentées de manière comparable.
+<sup>3</sup> L’OFEV peut édicter des recommandations afin que les immissions de bruit consignées dans ces décisions soient saisies et présentées de manière comparable.
 
 [^37a-1]: Introduit par le ch. I de l’O du 12 avr. 2000 ([RO 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> sept. 2004, en vigueur depuis le 1<sup>er</sup> oct. 2004 ([RO 2004 4167](https://fedlex.data.admin.ch/eli/oc/2004/623)).
 
@@ -671,7 +675,7 @@ Les cadastres de bruit indiquent:
 
 <sup>1</sup> Les immissions de bruit sont déterminées sous forme de niveau d’évaluation Lr ou de niveau maximum Lmax sur la base de calculs ou de mesures.[^38-1]
 
-<sup>2</sup> Les immissions de bruit des avions sont en principe déterminées par calcul. Les calculs doivent être effectués conformément à l’état admis de la technique. L’Office fédéral de l’environnement recommande des méthodes de calcul appropriées.[^38-2]
+<sup>2</sup> Les immissions de bruit des avions sont en principe déterminées par calcul. Les calculs doivent être effectués conformément à l’état admis de la technique. L’OFEV recommande des méthodes de calcul appropriées.[^38-2]
 
 <sup>3</sup> Les exigences en matière de modèles de calcul et d’appareils de mesure seront conformes à l’annexe 2.[^38-3]
 
@@ -691,7 +695,7 @@ Les cadastres de bruit indiquent:
 
 [^39-1]: Erratum du 7 mai 2019 ([RO 2019 1337](https://fedlex.data.admin.ch/eli/oc/2019/259)).
 
-### Section 2 Evaluation
+### Section 2 Évaluation
 
 #### Art. 40
 
@@ -768,7 +772,7 @@ Dans les zones d’affectation selon les art. 14 et suivants de la loi fédéral
 
 <sup>1</sup> Les cantons exécutent la présente ordonnance, à moins que celle-ci ne confie l’exécution à la Confédération.
 
-<sup>2</sup> Lorsque les autorités fédérales appliquent d’autres lois fédérales, des accords internationaux ou des décisions internationales qui touchent des objets relevant de la présente ordonnance, elles exécutent également la présente ordonnance. La collaboration de l’Office fédéral de l’environnement et des cantons est régie par l’art. 41, al. 2 et 4, de la loi; les dispositions légales sur l’obligation de garder le secret sont réservées.
+<sup>2</sup> Lorsque les autorités fédérales appliquent d’autres lois fédérales, des accords internationaux ou des décisions internationales qui touchent des objets relevant de la présente ordonnance, elles exécutent également la présente ordonnance. La collaboration de l’OFEV et des cantons est régie par l’art. 41, al. 2 et 4, de la loi; les dispositions légales sur l’obligation de garder le secret sont réservées.
 
 <sup>3</sup>
 
@@ -822,7 +826,7 @@ Sont tenus de veiller à l’exécution des prescriptions sur la limitation des 
 
 **Vue d’ensemble nationale de l’exposition au bruit**[^45a-1]
 
-L’Office fédéral de l’environnement tient une vue d’ensemble nationale de l’exposition au bruit. Il publie une représentation géoréférencée de l’exposition au bruit, notamment pour les bruits routier, ferroviaire et aérien, ainsi que pour le bruit des places d’armes, de tir et d’exercice militaires. Il actualise cette représentation au moins tous les cinq ans.
+L’OFEV tient une vue d’ensemble nationale de l’exposition au bruit. Il publie une représentation géoréférencée de l’exposition au bruit, notamment pour les bruits routier, ferroviaire et aérien, ainsi que pour le bruit des places d’armes, de tir et d’exercice militaires. Il actualise cette représentation au moins tous les cinq ans.
 
 [^45a-1]: Introduit par le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
 
@@ -830,7 +834,7 @@ L’Office fédéral de l’environnement tient une vue d’ensemble nationale d
 
 **Géoinformation**[^46-1]
 
-L’Office fédéral de l’environnement prescrit les modèles de géodonnées et les modèles de représentation minimaux pour les géodonnées de base visées par la présente ordonnance, lorsqu’il est désigné comme service spécialisé de la Confédération dans l’annexe 1 de l’ordonnance du 21 mai 2008 sur la géoinformation[^46-2].
+L’OFEV prescrit les modèles de géodonnées et les modèles de représentation minimaux pour les géodonnées de base visées par la présente ordonnance, lorsqu’il est désigné comme service spécialisé de la Confédération dans l’annexe 1 de l’ordonnance du 21 mai 2008 sur la géoinformation[^46-2].
 
 [^46-1]: Nouvelle teneur selon l’annexe 2 ch. 9 de l’O du 21 mai 2008 sur la géoinformation, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
 [^46-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
@@ -908,7 +912,7 @@ Annexe 2[^t-2]
 
 ## Exigences relatives aux méthodes de calcul et aux instruments de mesure
 
-[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du 23 août 2006 ([RO 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)). Mise à jour selon le ch. II al. 1 de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
+[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du 23 août 2006 ([RO 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)). Mise à jour par le ch. II al. 1 de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
 
 ### 1 Méthodes de calcul
 
@@ -919,7 +923,7 @@ Annexe 2[^t-2]
 - c. les effets du sol sur la propagation du son;
 - d. les effets des constructions et des obstacles naturels sur la propagation du son (atténuation et réflexions dues aux obstacles).
 
-<sup>2</sup> L’Office fédéral de l’environnement recommande aux autorités d’exécution des méthodes de calcul appropriées et adaptées à l’état de la technique.
+<sup>2</sup> L’OFEV recommande aux autorités d’exécution des méthodes de calcul appropriées et adaptées à l’état de la technique.
 
 ### 2 Instruments de mesure
 
@@ -954,7 +958,7 @@ Les valeurs limites d’exposition selon le ch. 2 s’appliquent au bruit du tra
 
 <sup>1</sup> Le niveau d’évaluation Lr pour le bruit du trafic routier se calcule à partir des niveaux d’évaluation partiels du bruit des véhicules à moteur (Lr<sub>1</sub>) et du bruit des chemins de fer (Lr<sub>2</sub>):
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/fr/xml/image/image1.png)
+Lr = 10 ⋅ log (10<sup>0,1</sup> <sup>⋅</sup> <sup>Lr</sup><sub>1</sub> + 10<sup>0,1</sup> <sup>⋅</sup> <sup>Lr</sup><sub>2</sub>)
 
 <sup>2</sup> Le niveau d’évaluation partiel Lr<sub>1</sub> est la somme du niveau moyen Leq,m, pondéré A, engendré par les véhicules à moteur, et de la correction de niveau K<sub>1</sub>:
 
@@ -1047,7 +1051,7 @@ Annexe 4
 
 <sup>1</sup> Le niveau d’évaluation Lr pour le bruit des chemins de fer se calcule à partir des niveaux d’évaluation partiels du bruit de la circulation des trains (Lr1) et du bruit des manoeuvres (Lr2):
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/fr/xml/image/image2.png)
+Lr = 10 ⋅ log (10<sup>01,</sup> <sup>⋅</sup> <sup>Lr1</sup> + 10<sup>01,</sup> <sup>⋅</sup> <sup>Lr2</sup>)
 
 <sup>2</sup> Le niveau d’évaluation partiel Lr1 est la somme du niveau moyen Leq,f, pondéré A, engendré par la circulation des trains, et de la correction de niveau K1:
 
@@ -1100,7 +1104,7 @@ Annexe 5[^t-3]
 
 ## Valeurs limites d’exposition au bruit des aérodromes civils
 
-[^t-3]: Nouvelle teneur selon le ch. I de l’O du 30 mai 2001 ([RO 2001 1610](https://fedlex.data.admin.ch/eli/oc/2001/237)). Mise à jour selon le ch. II al. 1 de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 (RO **201****0** 3223).
+[^t-3]: Nouvelle teneur selon le ch. I de l’O du 30 mai 2001 ([RO 2001 1610](https://fedlex.data.admin.ch/eli/oc/2001/237)). Mise à jour selon le ch. II al. 1 de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
 
 ### 1 Champ d’application et définitions
 
@@ -1154,13 +1158,13 @@ Pour le bruit causé par l’ensemble du trafic sur les aérodromes civils où c
 <tr><td colspan="4"><sup>1</sup> Les valeurs plus élevées sont applicables pour la première heure de la nuit (22 à 23 heures).</td></tr>
 </table>
 
-### 23 Valeurs limites d’exposition en <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/fr/xml/image/image3.png)</sub>max
+### 23 Valeurs limites d’exposition en <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/fr/xml/image/image1.png)</sub>max
 
-Pour le bruit causé par le trafic sur les aérodromes civils utilisés exclusivement par des hélicoptères (hélistations), les valeurs limites d’exposition suivantes, en <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/fr/xml/image/image4.png)</sub>max, sont applicables en plus des valeurs limites d’exposition en Lr<sub>k</sub>:
+Pour le bruit causé par le trafic sur les aérodromes civils utilisés exclusivement par des hélicoptères (hélistations), les valeurs limites d’exposition suivantes, en <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/fr/xml/image/image2.png)</sub>max, sont applicables en plus des valeurs limites d’exposition en Lr<sub>k</sub>:
 
 <table>
 <tr><td>Degré de sensibilité (art. 43)</td><td>Valeur de planification</td><td>Valeur limite d’immissions</td><td>Valeur d’alarme</td></tr>
-<tr><td></td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/fr/xml/image/image5.png)</sub>max en dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/fr/xml/image/image5.png)</sub>max en dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/fr/xml/image/image5.png)</sub>max en dB(A)</td></tr>
+<tr><td></td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/fr/xml/image/image3.png)</sub>max en dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/fr/xml/image/image3.png)</sub>max en dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/fr/xml/image/image3.png)</sub>max en dB(A)</td></tr>
 <tr><td>I</td><td>70</td><td>75</td><td>85</td></tr>
 <tr><td>II</td><td>75</td><td>80</td><td>90</td></tr>
 <tr><td>III</td><td>80</td><td>85</td><td>90</td></tr>
@@ -1230,11 +1234,11 @@ Lr<sub>n</sub> = Leq<sub>n</sub>
 
 <sup>3</sup> Les vols qui ont lieu après la deuxième (23 à 24 heures) et avant la dernière heure de la nuit (05 à 06 heures) sont attribués à la deuxième heure de la nuit (23 à 24 heures).
 
-### 5 Détermination du niveau de bruit maximum moyen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/fr/xml/image/image6.png)</sub>max pour les hélistations
+### 5 Détermination du niveau de bruit maximum moyen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/fr/xml/image/image4.png)</sub>max pour les hélistations
 
-<sup>1</sup> Pour les hélistations, le niveau de bruit maximum moyen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/fr/xml/image/image4.png)</sub>max est la moyenne énergétique du niveau de bruit maximum d’un nombre représentatif de survols ou de passages.
+<sup>1</sup> Pour les hélistations, le niveau de bruit maximum moyen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/fr/xml/image/image2.png)</sub>max est la moyenne énergétique du niveau de bruit maximum d’un nombre représentatif de survols ou de passages.
 
-<sup>2</sup> Pour déterminer <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/fr/xml/image/image7.png)</sub>max, les mesures se feront avec les appareils réglés sur SLOW.
+<sup>2</sup> Pour déterminer <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/fr/xml/image/image5.png)</sub>max, les mesures se feront avec les appareils réglés sur SLOW.
 
 Annexe 6
 
@@ -1271,7 +1275,7 @@ Annexe 6
 
 <sup>1</sup> Le niveau d’évaluation Lr pour le bruit de l’industrie, des arts et métiers et autres bruits semblables se calcule séparément pour le jour (7 à 19 h) et pour la nuit (19 à 7 h) à partir des niveaux d’évaluation partiels Lr,i de chaque phase de bruit:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/fr/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/fr/xml/image/image6.png)
 
 <sup>2</sup> Le niveau d’évaluation partiel Lr,i se calcule pour la durée moyenne journalière de la phase de bruit i comme il suit:
 
@@ -1327,7 +1331,7 @@ Annexe 7[^t-4]
 
 ## Valeurs limites d’exposition au bruit des installations de tir civiles
 
-[^t-4]: Nouvelle teneur selon le ch. II al. 1 de l’O du 23 août 2006 ([RO 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)). Mise à jour selon le ch. II al. 1 de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
+[^t-4]: Nouvelle teneur selon le ch. II al. 1 de l’O du 23 août 2006 ([RO 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)). Mise à jour par le ch. II al. 1 de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
 
 ### 1 Champ d’application
 
@@ -1368,7 +1372,7 @@ Aucune valeur d’alarme n’est valable pour le bruit des installations publiqu
 
 <sup>1</sup> Le niveau d’évaluation Lr pour le bruit des installations de tir est la somme énergétique des niveaux d’évaluation partiels Lri des catégories d’armes:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/fr/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/fr/xml/image/image7.png)
 
 <sup>2</sup> Le niveau d’évaluation partiel Lri est la somme du niveau de bruit moyen d’un coup de feu Li d’une catégorie d’armes et de la correction de niveau Ki:
 
@@ -1376,7 +1380,7 @@ Lri = Li + Ki
 
 <sup>3</sup> Le niveau de bruit moyen d’un coup de feu Li est la moyenne énergétique, pondérée en fonction du nombre de coups de feu, des niveaux de bruit moyens des coups de feu Lj d’un type d’arme, respectivement d’un type de munition:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/fr/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/fr/xml/image/image8.png)
 
 <sup>4</sup> La moyenne énergétique du niveau de bruit d’un coup de feu Lj est déterminée au moyen de mesures du niveau maximal, pondéré A, avec la constante de temps FAST.
 
@@ -1418,7 +1422,7 @@ Annexe 8[^t-5]
 
 ## Valeurs limites d’exposition au bruit des aérodromes militaires
 
-[^t-5]: Introduite par le ch. II de l’O du 27 juin 1995 ([RO 1995 3694](https://fedlex.data.admin.ch/eli/oc/1995/3694_3694_3694)). Mise à jour selon le ch. II al. 2 des O du 12 avr. 2000 ([RO 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)) et du 23 août 2006, en vigueur depuis le 1<sup>er</sup> nov. 2006 ([RO 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)).
+[^t-5]: Introduite par le ch. II de l’O du 27 juin 1995 ([RO 1995 3694](https://fedlex.data.admin.ch/eli/oc/1995/3694_3694_3694)). Mise à jour par le ch. II al. 2 des O du 12 avr. 2000 ([RO 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)) et du 23 août 2006, en vigueur depuis le 1<sup>er</sup> nov. 2006 ([RO 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)).
 
 ### 1 Champ d’application
 
@@ -1535,7 +1539,7 @@ Annexe 9[^t-6]
 
 Le niveau d’évaluation Lr pour le bruit de tir des places d’armes, de tir et d’exercice militaires se calcule à partir des niveaux de bruit de l’événement acoustique L<sub>AE1</sub> et L<sub>AE2</sub> ainsi que des corrections de niveau K1 et K2, comme suit:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/fr/xml/image/image11.png)
+L<sub>r</sub> =10 **<sup>.</sup>**log(10<sup>0.</sup> <sup>1</sup><sup>.</sup><sup>L</sup> <sup>AE1</sup> +10<sup>0.</sup> <sup>1</sup><sup>.</sup><sup>(L</sup> <sup>AE2</sup> <sup>+K1)</sup> ) – 10 **<sup>.</sup>**log(T) + K2
 
 Définitions:
 
