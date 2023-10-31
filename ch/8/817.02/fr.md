@@ -4,11 +4,11 @@ title: Ordonnance du 16 décembre 2016 sur les denrées alimentaires et les obje
 short: ODAlOUs
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/63"
 language: fr
-version: 2022-07-15
+version: 2023-11-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/63/20220715/fr/xml/fedlex-data-admin-ch-eli-cc-2017-63-20220715-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/63/20220715/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/63/20231101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-63-20231101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/63/20231101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/63/20220715/fr"
 
 (ODAlOUs)
 
-du 16 décembre 2016 (Etat le 15 juillet 2022)
+du 16 décembre 2016 (État le 1<sup>er</sup> novembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -56,7 +56,7 @@ Les ordonnances ci-après priment les dispositions de la présente ordonnance:
 
 - a. l’ordonnance du 23 novembre 2005 sur la production primaire[^1-1] et les actes législatifs dérivés;
 - b. l’ordonnance du 16 décembre 2016 concernant l’abattage d’animaux et le contrôle des viandes[^1-2] et les actes dérivés;
-- c. les ordonnances édictées en application de la loi fédérale du 21 mars 2014 sur les produits de construction (LPCo)[^1-3]; les prescriptions techniques relatives à la législation alimentaire sont toutefois applicables à l’utilisation, à la mise en service, à l'application ou à l’installation des objets usuels qui sont en même temps des produits de construction au sens de la LPCo.
+- c. les ordonnances édictées en application de la loi fédérale du 21 mars 2014 sur les produits de construction (LPCo)[^1-3]; les prescriptions techniques relatives à la législation alimentaire sont toutefois applicables à l’utilisation, à la mise en service, à l’application ou à l’installation des objets usuels qui sont en même temps des produits de construction au sens de la LPCo.
 
 [^1-1]: [RS 916.020](https://fedlex.data.admin.ch/eli/cc/2005/752)
 [^1-2]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
@@ -72,7 +72,7 @@ Dans la présente ordonnance et dans les ordonnances dérivées du Département 
 
 - 1\. *établissement du secteur alimentaire:* toute unité d’une entreprise qui fabrique, importe, exporte, transforme, traite, entrepose, transporte, étiquette, promeut, distribue ou remet des denrées alimentaires (manipule des denrées alimentaires);
 - 2\. *établissement du secteur des objets usuels:* toute unité d’une entreprise qui fabrique, importe, exporte, transforme, traite, entrepose, transporte, étiquette, promeut, distribue ou remet des objets usuels;
-- 3\. *établissement de commerce de détail:* tout établissement du secteur alimentaire ou du secteur des objets usuels qui manipule des denrées alimentaires ou des objets usuels au point de vente ou de remise au consommateur final, tels les commerces, les restaurants, la restauration collective et les cantines, ainsi que les plateformes de distribution vers les es grandes surfaces et les grossistes;
+- 3\. *établissement de commerce de détail:* tout établissement du secteur alimentaire ou du secteur des objets usuels qui manipule des denrées alimentaires ou des objets usuels au point de vente ou de remise au consommateur final, tels les commerces, les restaurants, la restauration collective et les cantines, ainsi que les plateformes de distribution vers les grandes surfaces et les grossistes;
 - 4\. *établissement de découpe:* établissement de désossage ou de découpe de la viande;
 - 5\. *établissements de restauration collective:* tout établissement tel qu’un restaurant, une cantine, une école, un hôpital ou un service de restauration, y compris un véhicule ou un étal fixe ou mobile, dans lequel des denrées alimentaires prêtes à être consommées par le consommateur final sont préparées;
 - 6\. *établissement de très petite taille:* un établissement qui ne compte pas plus de 9 collaborateurs;
@@ -585,8 +585,8 @@ c. il est effectué selon les données de la Norme générale du Codex pour les 
 
 <sup>5</sup> Le DFI définit les exigences applicables à l’irradiation des denrées alimentaires.
 
-[^28-1]: www.codexalimentarius.org, Norme générale du Codex pour les denrées alimentaires irradiées, Codex Stan 106-1983, modifiée en dernier lieu en 2003; www.codexalimentarius.org, Code d’usages international recommandé – principes généraux d’hygiène alimentaire 1-1969, modifié en dernier lieu en 2003.
-[^28-2]: www.codexalimentarius.org, Code d’usages international recommandé pour le traitement des aliments par irradiation (CAC/RCP 19-1979)
+[^28-1]: [www.codexalimentarius.org](http://www.codexalimentarius.org/), Norme générale du Codex pour les denrées alimentaires irradiées, Codex Stan 106-1983, modifiée en dernier lieu en 2003; [www.codexalimentarius.org](http://www.codexalimentarius.org/), Code d’usages international recommandé – principes généraux d’hygiène alimentaire 1-1969, modifié en dernier lieu en 2003.
+[^28-2]: [www.codexalimentarius.org](http://www.codexalimentarius.org/), Code d’usages international recommandé pour le traitement des aliments par irradiation (CAC/RCP 19-1979)
 
 #### Art. 29
 
@@ -1132,11 +1132,9 @@ Le DFI fixe les exigences de sécurité auxquelles doivent satisfaire:
 
 #### Art. 63
 
-**Lentilles de contact cosmétiques afocales**
+[^63-1]
 
-<sup>1</sup> Les lentilles de contact cosmétiques afocales sont destinées en particulier à modifier la couleur de l’iris ou la forme de la pupille et ne servent pas à corriger la vue.
-
-<sup>2</sup> Le DFI fixe les exigences de sécurité des lentilles de contact cosmétiques afocales.
+[^63-1]: Abrogé par l’annexe ch. 3 de l’O du 29 sept. 2023, avec effet au 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 
 #### Art. 64
 
@@ -1317,7 +1315,7 @@ La garantie des bonnes pratiques d’hygiène comprend notamment:
 - f. le transport interne à l’établissement et le transport externe;
 - g. l’étiquetage des matières premières, des produits intermédiaires et des produits semi-finis ainsi que la déclaration des produits finis.
 
-[^76-1]: www.codexalimentarius.org; Code d’usages international recommandé – principes généraux d’hygiène alimentaire 1-1969; modifié en dernier lieu en 2003.
+[^76-1]: [www.codexalimentarius.org](http://www.codexalimentarius.org/); Code d’usages international recommandé – principes généraux d’hygiène alimentaire 1-1969; modifié en dernier lieu en 2003.
 
 #### Art. 77
 
@@ -1375,7 +1373,7 @@ Les principes HACCP comprennent les composantes suivantes:
 
 #### Art. 80
 
-<sup>1</sup> Pour autant que les mêmes objectifs puissent être atteints, l’industrie des denrées alimentaires peut établir des guides par branche d’activitépour se conformer aux exigences des art. 76 à 79.
+<sup>1</sup> Pour autant que les mêmes objectifs puissent être atteints, l’industrie des denrées alimentaires peut établir des guides par branche d’activité pour se conformer aux exigences des art. 76 à 79.
 
 <sup>2</sup> Les guides par branche doivent être approuvés par l’OSAV.
 
@@ -1388,7 +1386,7 @@ Ils doivent être élaborés en concertation avec les milieux concernés et:
 
 <sup>4</sup> Ils peuvent fixer des exigences simplifiées pour l’autocontrôle à effectuer dans les très petits établissements.
 
-[^80-1]: www.codexalimentarius.org; Code d’usages international recommandé – principes généraux d’hygiène alimentaire 1-1969; modifié en dernier lieu en 2003.
+[^80-1]: [www.codexalimentarius.org](http://www.codexalimentarius.org/); Code d’usages international recommandé – principes généraux d’hygiène alimentaire 1-1969; modifié en dernier lieu en 2003.
 
 ### Section 5 Prélèvements d’échantillons et analyses
 
@@ -1489,7 +1487,7 @@ Si l’eau potable ou l’eau destinée à entrer en contact avec le corps humai
 
 <sup>4</sup> Le DFI peut régler les modalités documentaires.
 
-## Chapitre 4*a***** Obligations des établissements du secteur des denrées alimentaires et des objets usuels lors des contrôles officiels et autres activités officielles
+## Chapitre 4*a* Obligations des établissements du secteur des denrées alimentaires et des objets usuels lors des contrôles officiels et autres activités officielles
 
 [^chap4a-1]
 
@@ -1600,7 +1598,7 @@ Il y a lieu de mettre à la disposition de l’autorité compétente pour les co
 
 <sup>1</sup> Les denrées alimentaires soumises à des contrôles renforcés en vertu de l’art. 90, al. 1, ne peuvent être importées en Suisse que sur présentation de la partie II du DSCE remplie et signée par le poste d’inspection frontalier.[^91-1]
 
-<sup>1</sup> <sup>bis</sup> L’original du DSCE accompagne le lot durant son acheminement jusqu’à son arrivée à la destination indiquée dans ledit document. Le DFI peut prévoir des dérogations.[^91-2]
+<sup>1bis</sup> L’original du DSCE accompagne le lot durant son acheminement jusqu’à son arrivée à la destination indiquée dans ledit document. Le DFI peut prévoir des dérogations.[^91-2]
 
 <sup>2</sup> Les échantillonnages et analyses visés dans la partie II du formulaire de l’annexe II du règlement (UE) n<sup>o</sup> 669/2009 doivent être effectués conformément au règlement (CE) n<sup>o</sup> 401/2006[^91-3] ou selon des procédés équivalents.
 
@@ -1667,7 +1665,7 @@ Un délai transitoire d’un an à compter de l’entrée en vigueur de la prés
 - b. à l’interdiction de mettre sur le marché des produits cosmétiques si la formulation finale ou des ingrédients de celle-ci ont été testés sur des animaux (art. 59);
 - c. au devoir d’annonce incombant aux établissements qui proposent un service de tatouage ou de maquillage permanent (art. 62);
 - d. à la désignation d’une personne responsable ayant une adresse professionnelle en Suisse si la personne responsable avait auparavant une adresse professionnelle ou son domicile à l’étranger (art. 73, al. 1);
-- e.[^95-1] ...
+- e.[^95-1] …
 
 <sup>1bis</sup> Un délai transitoire de trois ans à compter de l’entrée en vigueur de la présente ordonnance s’applique aux dispositions relatives à l’importation de denrées alimentaires soumises à des contrôles renforcés (art. 90 et 91).[^95-2]
 
@@ -1695,6 +1693,15 @@ Les denrées alimentaires non conformes à la modification du 27 mai 2020 peuven
 
 [^95a-1]: Introduit par le ch. I de l’O du 16 avr. 2020 ([RO 2020 1243](https://fedlex.data.admin.ch/eli/oc/2020/237)). Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
 
+#### Art. 95b
+
+**Disposition transitoire relative à la modification du 29 septembre 2023**[^95b-1]
+
+Tant que les lentilles de contact cosmétiques afocales peuvent être commercialisées sans certificat de conformité conformément à l’art. 106 de l’ordonnance du 1<sup>er</sup> juillet 2020 sur les dispositifs médicaux[^95b-2], les exigences établies par le DFI en vertu de l’ancien art. 63 de la présente ordonnance demeurent applicables. Le contrôle de ces exigences est effectué par les autorités d’exécution au sens de la législation sur les denrées alimentaires et les objets usuels.
+
+[^95b-1]: Introduit par l’annexe ch. 3 de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^95b-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+
 #### Art. 96
 
 **Entrée en vigueur**
@@ -1709,6 +1716,6 @@ Annexe
 
 Les ordonnances mentionnées ci-après sont modifiées comme suit:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63).

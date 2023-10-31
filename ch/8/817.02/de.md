@@ -4,11 +4,11 @@ title: Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016 (
 short: LGV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/63"
 language: de
-version: 2022-07-15
+version: 2023-11-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/63/20220715/de/xml/fedlex-data-admin-ch-eli-cc-2017-63-20220715-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/63/20220715/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/63/20231101/de/xml/fedlex-data-admin-ch-eli-cc-2017-63-20231101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/63/20231101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/63/20220715/de"
 
 (LGV)
 
-vom 16. Dezember 2016 (Stand am 15. Juli 2022)
+vom 16. Dezember 2016 (Stand am 1. November 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -1132,11 +1132,9 @@ Das EDI legt Anforderungen fest an die Sicherheit von:
 
 #### Art. 63
 
-**Afokale kosmetische Kontaktlinsen**
+[^63-1]
 
-<sup>1</sup> Afokale (brennpunktlose) kosmetische Kontaktlinsen dienen insbesondere der Veränderung der Augenfarbe oder der Form der Pupille und sind nicht für die Korrektur einer Fehlsichtigkeit bestimmt.
-
-<sup>2</sup> Das EDI legt die Anforderungen an die Sicherheit afokaler kosmetischer Kontaktlinsen fest.
+[^63-1]: Aufgehoben durch Anhang Ziff. 3 der V vom 29. Sept. 2023, mit Wirkung seit 1. Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 
 #### Art. 64
 
@@ -1489,7 +1487,7 @@ Bei gesundheitsgefährdendem Trinkwasser und bei gesundheitsgefährdendem Wasser
 
 <sup>4</sup> Das EDI kann die Einzelheiten der Dokumentation regeln.
 
-## 4*a*. Kapitel:**** Pflichten der Lebensmittel- und Gebrauchsgegenständebetriebe bei amtlichen Kontrollen und anderen amtlichen Tätigkeiten
+## 4*a*. Kapitel: Pflichten der Lebensmittel- und Gebrauchsgegenständebetriebe bei amtlichen Kontrollen und anderen amtlichen Tätigkeiten
 
 [^chap4a-1]
 
@@ -1600,13 +1598,13 @@ Der für die Kontrolle zuständigen Behörde sind zur Verfügung zu stellen:
 
 <sup>1</sup> Verstärkt zu kontrollierende Lebensmittel nach Artikel 90 Absatz 1 dürfen nur dann in die Schweiz eingeführt werden, wenn der ausgefüllte und von der Grenzkontrollstelle unterzeichnete Teil II des GGED vorliegt.[^91-1]
 
-<sup>1</sup> <sup>bis</sup> Das Original des GGED für die Einfuhr begleitet die Sendung bei ihrer Weiterbeförderung bis zu dem in diesem Dokument genannten Bestimmungsort. Das BLV kann Abweichungen festlegen.[^91-2]
+<sup>1<sup>bis</sup></sup> Das Original des GGED für die Einfuhr begleitet die Sendung bei ihrer Weiterbeförderung bis zu dem in diesem Dokument genannten Bestimmungsort. Das BLV kann Abweichungen festlegen.[^91-2]
 
 <sup>2</sup> Die Probenahme und die Analyse gemäss Teil II des Formulars von Anhang II der Verordnung (EU) Nr. 669/2009 müssen nach den Bestimmungen der Verordnung (EG) Nr. 401/2006[^91-3] oder nach gleichwertigen Verfahren vorgenommen worden sein.
 
 <sup>3</sup> Für Lebensmittel, die nach Anhang 3 LMVV verstärkt zu kontrollieren sind, muss nebst dem GGED eine amtliche Bescheinigung nach Anhang IV der Durchführungsverordnung (EU) 2019/1793[^91-4] vorliegen. Sie muss von der zuständigen Behörde des Ursprungslandes oder der zuständigen Behörde des Landes ausgestellt werden, aus dem die Sendung versandt wird. Sie ist vier Monate ab dem Datum der Ausstellung oder sechs Monate ab dem Datum der Ergebnisse der Laboranalysen gültig.[^91-5]
 
-<sup>3</sup> <sup>bis</sup> Jede Sendung nach Anhang 3 LMVV muss mit einem Identifikationscode gekennzeichnet werden. Dieser muss sich auf die mitgelieferte amtliche Bescheinigung beziehen. Jede einzelne Packung oder sonstige Verpackungseinheit der Sendung muss mit dem Code gekennzeichnet sein. Enthält eine Verpackung mehrere kleine verpackte Einheiten, so kann die umhüllende Verpackung mit dem Code versehen werden.[^91-6]
+<sup>3<sup>bis</sup></sup> Jede Sendung nach Anhang 3 LMVV muss mit einem Identifikationscode gekennzeichnet werden. Dieser muss sich auf die mitgelieferte amtliche Bescheinigung beziehen. Jede einzelne Packung oder sonstige Verpackungseinheit der Sendung muss mit dem Code gekennzeichnet sein. Enthält eine Verpackung mehrere kleine verpackte Einheiten, so kann die umhüllende Verpackung mit dem Code versehen werden.[^91-6]
 
 <sup>4</sup> Die Genusstauglichkeitsbescheinigung muss in einer Amtssprache des Bundes oder in englischer Sprache ausgestellt sein.
 
@@ -1653,7 +1651,7 @@ Das EDI legt fest, welche seiner administrativen oder technischen Vorschriften d
 
 <sup>2</sup> Die Änderung anderer Erlasse ist im Anhang geregelt.
 
-[^94-1]: [[AS 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746); [2006 4909](https://fedlex.data.admin.ch/eli/oc/2006/765); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 47; [2008 789](https://fedlex.data.admin.ch/eli/oc/2008/195)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 8, [5167](https://fedlex.data.admin.ch/eli/oc/2008/722), [6025](https://fedlex.data.admin.ch/eli/oc/2008/833); [2009 1611](https://fedlex.data.admin.ch/eli/oc/2009/233); [2010 4611](https://fedlex.data.admin.ch/eli/oc/2010/668); [2011 5273](https://fedlex.data.admin.ch/eli/oc/2011/761)Art. 37, [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)Anhang 2 Ziff. II 3; [2012 4713](https://fedlex.data.admin.ch/eli/oc/2012/572), [6809](https://fedlex.data.admin.ch/eli/oc/2012/824); [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 7, [3669](https://fedlex.data.admin.ch/eli/oc/2013/684); [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)Anhang 3 Ziff. II 4, [2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 3; [2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)Anhang Ziff. II 2; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Anhang Ziff. 5]
+[^94-1]: [[AS 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746); [2006 4909](https://fedlex.data.admin.ch/eli/oc/2006/765); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 47; [2008 789](https://fedlex.data.admin.ch/eli/oc/2008/195)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 8, [5167](https://fedlex.data.admin.ch/eli/oc/2008/722), [6025](https://fedlex.data.admin.ch/eli/oc/2008/833); [2009 1611](https://fedlex.data.admin.ch/eli/oc/2009/233); [2010 4611](https://fedlex.data.admin.ch/eli/oc/2010/668); [2011 5273](https://fedlex.data.admin.ch/eli/oc/2011/761)Art. 37, [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)Anhang 2 Ziff. II 3; [2012 4713](https://fedlex.data.admin.ch/eli/oc/2012/572), [6809](https://fedlex.data.admin.ch/eli/oc/2012/824); [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 7, [3669](https://fedlex.data.admin.ch/eli/oc/2013/684); [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)Anhang 3 Ziff. II 4, [2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang&lt;11 Ziff. 3; **2015** 5201 Anhang Ziff. II 2; **2016** 277 Anhang Ziff. 5]
 
 #### Art. 95
 
@@ -1694,6 +1692,15 @@ Das EDI kann für einzelne Bereiche abweichende Übergangsfristen vorsehen:
 Lebensmittel, die der Änderung vom 27. Mai 2020 nicht entsprechen, dürfen noch bis zum 30. Juni 2021 nach bisherigem Recht eingeführt und hergestellt und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
 
 [^95a-1]: Eingefügt durch Ziff. I der V vom 16. April 2020 ([AS 2020 1243](https://fedlex.data.admin.ch/eli/oc/2020/237)). Fassung gemäss Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
+
+#### Art. 95b
+
+**Übergangsbestimmung zur Änderung vom 29. September 2023**[^95b-1]
+
+Solange afokale kosmetische Kontaktlinsen gemäss Artikel 106 der Medizinprodukteverordnung vom 1. Juli 2020[^95b-2] ohne Konformitätsbescheinigung vermarktet werden dürfen, bleiben die gestützt auf den bisherigen Artikel 63 der vorliegenden Verordnung vom EDI festgelegten Anforderungen anwendbar. Die Kontrolle dieser Anforderungen erfolgt durch die Vollzugsbehörden nach der Bundesgesetzgebung über Lebensmittel und Gebrauchsgegenstände.
+
+[^95b-1]: Eingefügt durch Anhang Ziff. 3 der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^95b-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 
 #### Art. 96
 

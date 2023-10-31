@@ -4,11 +4,11 @@ title: "Ordinanza del 16 dicembre 2016 sulle derrate alimentari e gli oggetti d'
 short: ODerr
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/63"
 language: it
-version: 2022-07-15
+version: 2023-11-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/63/20220715/it/xml/fedlex-data-admin-ch-eli-cc-2017-63-20220715-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/63/20220715/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/63/20231101/it/xml/fedlex-data-admin-ch-eli-cc-2017-63-20231101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/63/20231101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/63/20220715/it"
 
 (ODerr)
 
-del 16 dicembre 2016 (Stato 15 luglio 2022) (Stato 15 luglio 2022)
+del 16 dicembre 2016 (Stato 1° novembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -140,6 +140,7 @@ Fatte salve le definizioni divergenti nella legislazione svizzera sulle derrate 
 - d. articolo 2 paragrafo 1 del regolamento (CE) n. 854/2004[^2-8];
 - e.[^2-9] articolo 3 del regolamento (UE) 2017/625[^2-10];
 - f. articolo 2 paragrafo 2 del regolamento (CE) n. 282/2008[^2-11];
+
 - g. articolo 2 e allegato 1 del regolamento (CE) n. 1169/2011[^2-12];
 - h. articolo 3 della direttiva 2009/48/CE[^2-13].
 
@@ -314,7 +315,7 @@ In particolare sono vietati:
 - h. per le bevande alcoliche: le indicazioni che in qualche modo si riferiscono alla salute; sono fatte salve le denominazioni di bevande alcoliche tradizionali fissate dal DFI;
 - i. nel caso di prodotti soggetti ad autorizzazione: riferimenti a carattere pubblicitario all’autorizzazione rilasciata dall’USAV.
 
-<sup>2</sup> <sup>bis</sup> Il DFI può prevedere deroghe temporanee ai requisiti in materia di informazione sulle derrate alimentari in caso di difficoltà di approvvigionamento a seguito di una situazione imprevista dovuta a fattori esterni come un conflitto armato, una pandemia o una catastrofe naturale. È eccettuata l’informazione sulle derrate alimentari di cui all’articolo 31 capoverso 1.[^12-6]
+<sup>2<sup>bis</sup></sup> Il DFI può prevedere deroghe temporanee ai requisiti in materia di informazione sulle derrate alimentari in caso di difficoltà di approvvigionamento a seguito di una situazione imprevista dovuta a fattori esterni come un conflitto armato, una pandemia o una catastrofe naturale. È eccettuata l’informazione sulle derrate alimentari di cui all’articolo 31 capoverso 1.[^12-6]
 
 <sup>2ter</sup> Le deroghe ai requisiti in materia di informazione sulle derrate alimentari non possono essere rilevanti per la protezione della salute dei consumatori, in particolare per quanto riguarda gli ingredienti che potrebbero provocare allergie o altre reazioni indesiderate.[^12-7]
 
@@ -353,8 +354,8 @@ Le derrate alimentari che non rispettano i valori massimi possono essere trasfor
 
 Le derrate alimentari possono essere unicamente designate tramite la denominazione specifica di una derrata alimentare specificata se corrispondono alla specificazione e ai requisiti ad essa associati; sono fatte salve:
 
-- a. le denominazioni nella rispettiva lingua di cui all’allegato 1 della decisione 2010/791/UE[^14-1];
-- b. le eccezioni stabilite dal DFI.[^14-2]
+- le denominazioni nella rispettiva lingua di cui all’allegato 1 della decisione 2010/791/UE[^14-1];
+- le eccezioni stabilite dal DFI.[^14-2]
 
 [^14-1]: 2010/791/UE: Decisione della Commissione, del 20 dicembre 2010, che fissa lʼelenco dei prodotti di cui allʼallegato XII, punto III.1, secondo comma, del regolamento (CE) n. 1234/2007 del Consiglio, GU L 336 del 21.12.2010, pag. 55.
 [^14-2]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
@@ -1131,11 +1132,9 @@ Il DFI stabilisce i requisiti relativi alla sicurezza di:
 
 #### Art. 63
 
-**Lenti a contatto cosmetiche afocali**
+[^63-1]
 
-<sup>1</sup> Le lenti a contatto cosmetiche afocali servono soprattutto a cambiare il colore degli occhi o la forma della pupilla e non sono destinate a correggere difetti della vista.
-
-<sup>2</sup> Il DFI definisce i requisiti relativi alla sicurezza delle lenti a contatto cosmetiche afocali.
+[^63-1]: Abrogato dall’all. n. 3 dell’O del 29 set. 2023, con effetto dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 
 #### Art. 64
 
@@ -1215,6 +1214,7 @@ Il DFI emana prescrizioni sulla sicurezza dei generatori aerosol, in particolare
 Il DFI può specificare i seguenti oggetti d’uso e stabilirne i requisiti di sicurezza:
 
 - a. candele;
+
 - b. fiammiferi e accendini;
 - c. articoli per scherzi.
 
@@ -1488,7 +1488,7 @@ Nel caso di acqua potabile e di acqua destinata a entrare in contatto con il cor
 
 <sup>4</sup> Il DFI può disciplinare i dettagli relativi alla documentazione.
 
-## Capitolo 4*a*:**** Obblighi delle aziende alimentari e delle aziende di oggetti d’uso nei controlli ufficiali e in altre attività ufficiali
+## Capitolo 4*a*: Obblighi delle aziende alimentari e delle aziende di oggetti d’uso nei controlli ufficiali e in altre attività ufficiali
 
 [^chap4a-1]
 
@@ -1552,7 +1552,7 @@ Le aziende che fabbricano, trasformano, trattano, depositano o trasportano derra
 
 <sup>2</sup> I prodotti esportati con una denominazione geografica protetta secondo la legislazione svizzera devono soddisfare le prescrizioni svizzere che stabiliscono i requisiti per l’utilizzazione delle denominazioni geografiche.
 
-### Sezione 2: Derrate alimentari soggette a controlli approfonditi all’importazione****
+### Sezione 2: Derrate alimentari soggette a controlli approfonditi all’importazione
 
 [^chap5-sec2-1]
 
@@ -1603,13 +1603,13 @@ Alle autorità responsabili dei controlli occorre mettere a disposizione:
 
 <sup>1</sup> Le derrate alimentari da sottoporre a controlli approfonditi secondo l’articolo 90 capoverso 1 possono essere importate in Svizzera soltanto su presentazione della parte II del DSCE debitamente compilata e firmata dal posto d’ispezione frontaliero.[^91-1]
 
-<sup>1</sup> <sup>bis</sup> L’originale del DSCE accompagna la spedizione durante il trasporto successivo fino al luogo di destinazione citato nel documento stesso. L’USAV può disporre deroghe.[^91-2]
+<sup>1<sup>bis</sup></sup> L’originale del DSCE accompagna la spedizione durante il trasporto successivo fino al luogo di destinazione citato nel documento stesso. L’USAV può disporre deroghe.[^91-2]
 
 <sup>2</sup> La campionatura e l’analisi secondo la parte II del modulo riportato all’allegato II del regolamento (UE) n. 669/2009 devono essere eseguiti secondo le disposizioni del regolamento (CE) n. 401/2006[^91-3] oppure secondo una procedura equivalente.
 
 <sup>3</sup> Per le derrate alimentari che devono essere sottoposte a controlli approfonditi secondo l’allegato 3 OELDerr, oltre al DSCE deve essere disponibile un certificato ufficiale conforme all’allegato IV del regolamento di esecuzione (UE) 2019/1793[^91-4]. Tale certificato deve essere rilasciato dall’autorità competente del Paese di origine o dall’autorità competente del Paese da cui la spedizione è stata spedita. Esso è valido per un periodo di quattro mesi dalla data di rilascio oppure per un periodo di sei mesi dalla data dei risultati delle analisi di laboratorio.[^91-5]
 
-<sup>3</sup> <sup>bis</sup> Ogni spedizione secondo l’allegato 3 OELDerr deve essere caratterizzata da un codice di identificazione, che deve riferirsi al certificato ufficiale allegato. Ogni singola confezione o altra unità di imballaggio della partita deve essere caratterizzata con questo codice. Se un imballaggio contiene diverse piccole unità imballate, è possibile riportare il codice sull’involucro esterno.[^91-6]
+<sup>3<sup>bis</sup></sup> Ogni spedizione secondo l’allegato 3 OELDerr deve essere caratterizzata da un codice di identificazione, che deve riferirsi al certificato ufficiale allegato. Ogni singola confezione o altra unità di imballaggio della partita deve essere caratterizzata con questo codice. Se un imballaggio contiene diverse piccole unità imballate, è possibile riportare il codice sull’involucro esterno.[^91-6]
 
 <sup>4</sup> Il certificato di idoneità al consumo deve essere rilasciato in una lingua ufficiale della Confederazione o in inglese.
 
@@ -1670,7 +1670,7 @@ Il DFI prevede quali delle sue prescrizioni amministrative o tecniche possano es
 - b. il divieto di immissione sul mercato di cosmetici se la composizione finale o i singoli componenti sono stati oggetto di una sperimentazione animale (art. 59);
 - c. l’obbligo di notifica per le aziende che offrono tatuaggi o trucco permanente (art. 62);
 - d. la designazione di una persona responsabile con sede sociale in Svizzera se la persona responsabile finora aveva una sede commerciale o un domicilio all’estero (art. 73 cpv. 1);
-- e.[^95-1] …
+- e.[^95-1] ...
 
 <sup>1bis</sup> È previsto un periodo transitorio di tre anni a partire dall’entrata in vigore della presente ordinanza per le disposizioni relative alle derrate alimentari assoggettate a controlli approfonditi all’importazione (art. 90 e 91).[^95-2]
 
@@ -1698,6 +1698,15 @@ Per singoli settori, il DFI può prevedere periodi transitori divergenti:
 Le derrate alimentari non conformi alla modifica del 27 maggio 2020 possono essere importate e fabbricate secondo il diritto anteriore sino al 30 giugno 2021 e consegnate ai consumatori fino a esaurimento delle scorte.
 
 [^95a-1]: Introdotto dal n. I dell’O del 16 apr. 2020 ([RU 2020 1243](https://fedlex.data.admin.ch/eli/oc/2020/237)). Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
+
+#### Art. 95b
+
+**Disposizione transitoria della modifica del 29 settembre 2023**[^95b-1]
+
+Fintanto che le lenti a contatto cosmetiche afocali possono essere commercializzate conformemente all’articolo 106 dell’ordinanza del 1° luglio 2020[^95b-2] relativa ai dispositivi medici senza certificato di conformità, continuano a essere applicabili i requisiti stabiliti dal DFI in virtù dell’articolo 63 della presente ordinanza. Il controllo di questi requisiti è svolto dalle autorità di esecuzione conformemente alla legislazione federale in materia di derrate alimentari e oggetti d’uso.
+
+[^95b-1]: Introdotto dall’all. n. 3 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^95b-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 
 #### Art. 96
 
