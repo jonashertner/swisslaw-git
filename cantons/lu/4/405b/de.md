@@ -3,20 +3,19 @@ canton: LU
 number: 405b
 title: Verordnung über die Übertrittsverfahren in der Volksschule
 language: de
-version: 2019-08-01
-valid_until: 2023-10-31
-version_adopted: 2019-06-11
+version: 2023-11-01
+version_adopted: 2023-09-26
 adopted: 2007-05-15
 in_force: 2007-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/405b"
-pdf: "https://srl.lu.ch/api/de/versions/3422/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4132/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Übertrittsverfahren in der Volksschule
 
-vom 15.05.2007 (Stand 01.08.2019)
+vom 15.05.2007 (Stand 01.11.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -116,7 +115,7 @@ beschliesst:
 
 <sup>1</sup> Können sich die Klassenlehrperson und die Erziehungsberechtigten oder die Lernenden nicht einigen, ist ein weiteres Gespräch durchzuführen. Zu diesem Gespräch können sowohl von der Klassenlehrperson als auch von den Erziehungsberechtigten beratende Personen beigezogen werden. Diese sind den Gesprächspartnern frühzeitig bekannt zu geben. Im Fall einer Einigung wird § 8 angewendet.
 
-<sup>2</sup> Kommt bei diesem Gespräch keine Einigung zustande, wird dies im Übertrittsdossier festgehalten. Die Klassenlehrperson übergibt den Erziehungsberechtigten das Übertrittsdossier und das Fremdbeurteilungsdokument und beim Übertritt in das Kurzzeitgymnasium zusätzlich das Selbstbeurteilungsdokument und den Bogen zur Darstellung der Überlegungen zur Laufbahnwahl. Die Erziehungsberechtigten können der Schulleitung jener Schule, der sie die Lernende oder den Lernenden zuweisen möchten, innerhalb von zehn Tagen die Aufnahme beantragen.
+<sup>2</sup> Kommt bei diesem Gespräch keine Einigung zustande, wird dies im Übertrittsdossier festgehalten. Die Klassenlehrperson übergibt den Erziehungsberechtigten das Übertrittsdossier und beim Übertritt in das Kurzzeitgymnasium zusätzlich den Bogen zur Darstellung der Überlegungen zur Laufbahnwahl. Die Erziehungsberechtigten können der Schulleitung jener Schule, der sie die Lernende oder den Lernenden zuweisen möchten, innerhalb von zehn Tagen die Aufnahme beantragen.
 
 <sup>3</sup> Über die Aufnahme entscheidet die Schulleitung, an die der Antrag gestellt wird, nach Anhörung der Klassenlehrperson und der Erziehungsberechtigten.
 
@@ -167,9 +166,9 @@ beschliesst:
 <sup>2</sup> Für den Übertrittsentscheid sind zu berücksichtigen:
 
 - a. die Zeugnisnoten in den Fächern Deutsch, Mathematik sowie Natur, Mensch, Gesellschaft während des 1. und 2. Semesters der 5. Klasse sowie des 1. Semesters der 6. Klasse,
-- b. die Einschätzung der fachlichen Kompetenzen der oder des Lernenden, welche durch die Klassenlehrperson im Fremdbeurteilungsdokument festgehalten wird,
-- c. die Einschätzung der überfachlichen Kompetenzen der oder des Lernenden, welche durch die Klassenlehrperson nach Einbezug der Erziehungsberechtigten im Fremdbeurteilungsdokument festgehalten wird,
-- c<sup>bis</sup>. die aus dem Fremdbeurteilungsdokument ersichtliche Entwicklung der fachlichen und überfachlichen Kompetenzen der oder des Lernenden sowie die künftige Entwicklung der oder des Lernenden, wie sie durch die Erziehungsberechtigten und die Klassenlehrperson begründet eingeschätzt wird,
+- b. …
+- c. die Beurteilung des Lern- und Arbeitsverhaltens sowie des Sozialverhaltens im Zeugnis des 1. und 2. Semesters der 5. Klasse sowie des 1. Semesters der 6. Klasse und die Einschätzung der zusätzlichen überfachlichen Kompetenzen im Übertrittsdossier durch die Klassenlehrperson,
+- c<sup>bis</sup>. die Entwicklung der fachlichen und überfachlichen Kompetenzen der oder des Lernenden sowie die künftige Entwicklung der oder des Lernenden, wie sie durch die Klassenlehrperson begründet eingeschätzt werden,
 - d. die Zeugnisnoten der übrigen Fächer des 1. und 2. Semesters der 5. Klasse sowie des 1. Semesters der 6. Klasse.
 
 <sup>3</sup> Bei Lernenden mit individuell reduzierten Lernzielen wird anstelle der Zeugnisnote der Lernbericht berücksichtigt.
@@ -215,19 +214,7 @@ beschliesst:
 
 #### § 17
 
-**Beurteilung der Lernenden**
-
-<sup>1</sup> Während des Übertrittsverfahrens werden festgehalten:
-
-- a. halbjährlich die fachlichen Leistungen in den Zeugnisnoten und
-- b. für die Beurteilungsgespräche im 2. Semester der 5. Klasse und nach dem 1. Semester der 6. Klasse die Leistungen in den fachlichen und den überfachlichen Kompetenzen.
-- c. …
-
-<sup>2</sup> …
-
-<sup>3</sup> Die Einschätzung der Leistungen der oder des Lernenden in den fachlichen Kompetenzen, welche gegen Ende der 5. Klasse und nach dem 1. Semester der 6. Klasse im Fremdbeurteilungsdokument vorzunehmen ist, gründet auf Beobachtungen der Klassenlehrperson oder der entsprechenden Fachlehrperson und auf von ihnen beurteilten Leistungen.
-
-<sup>4</sup> Die Einschätzung der Leistungen in den überfachlichen Kompetenzen, welche gegen Ende der 5. Klasse und nach dem 1. Semester der 6. Klasse im Fremdbeurteilungsdokument vorzunehmen ist, gründet auf Beobachtungen der Klassenlehrperson und auf Feststellungen der Erziehungsberechtigten, die von Klassenlehrperson und Erziehungsberechtigten gemeinsam als richtig erachtet werden; nicht übereinstimmende Beurteilungen sind im Fremdbeurteilungsdokument festzuhalten.
+**…**
 
 #### § 18
 
@@ -272,11 +259,11 @@ beschliesst:
 <sup>2</sup> Grundlagen für den Übertrittsentscheid sind:
 
 - a. die Leistungen der Lernenden in den Niveaufächern (Deutsch, Mathematik, Französisch, Englisch) sowie im Fach Natur und Technik,
-- b. die erworbenen fachlichen Kompetenzen gemäss der Selbstbeurteilung durch die Lernende oder den Lernenden und der Fremdbeurteilung durch die Lehrpersonen mit Hilfe des Selbstbeurteilungsdokumentes und des Fremdbeurteilungsdokumentes,
-- c. die Selbstbeurteilung der Lernenden bezüglich der im Selbstbeurteilungsdokument aufgeführten überfachlichen Kompetenzen und die entsprechende Fremdbeurteilung durch die Lehrpersonen,
+- b. …
+- c. die Beurteilung des Lern- und Arbeitsverhaltens sowie des Sozialverhaltens im Zeugnis und die Einschätzung der zusätzlichen überfachlichen Kompetenzen im Übertrittsdossier durch die Klassenlehrperson,
 - d. die Leistungsentwicklung, die Überlegungen der Lernenden zur Laufbahnwahl und das Gespräch zwischen den am Entscheid beteiligten Personen.
 
-<sup>3</sup> Für den Übertritt nach der 2. Klasse der Sekundarschule sind als Leistungen gemäss Absatz 2a diejenigen des 1. Semesters der 2. Klasse massgebend, für den Übertritt nach der 3. Klasse die Leistungen des 1. Semesters der 3. Klasse.
+<sup>3</sup> Für den Übertritt nach der 2. Klasse der Sekundarschule sind als Leistungen gemäss Absatz 2a und 2c diejenigen des 1. Semesters der 2. Klasse massgebend, für den Übertritt nach der 3. Klasse die Leistungen des 1. Semesters der 3. Klasse.
 
 #### § 23a
 
@@ -305,17 +292,7 @@ beschliesst:
 
 #### § 25
 
-**Beurteilung der Lernenden**
-
-<sup>1</sup> Für den Übertritt nach der 2. Klasse der Sekundarschule werden am Ende des 1. Semesters der 2. Klasse die fachlichen Leistungen in den Zeugnisnoten sowie die Selbst- und die Fremdbeurteilung der Lernenden im Selbstbeurteilungsdokument und im Fremdbeurteilungsdokument festgehalten. Für den Übertritt nach der 3. Klasse werden die Leistungen und Beurteilungen am Ende des 1. Semesters der 3. Klasse erfasst.
-
-<sup>2</sup> Die Zeugnisnoten ergeben sich aus der Bewertung mehrerer verschiedenartiger Leistungen der Lernenden, welche auf die vom Lehrplan vorgegebenen Kompetenzen ausgerichtet sind.
-
-<sup>3</sup> Die Selbstbeurteilung gründet auf Lernprozessen und Lernergebnissen der Lernenden, die mit den zuständigen Lehrpersonen immer wieder besprochen werden.
-
-<sup>4</sup> Die Fremdbeurteilung der Lernenden durch die Lehrpersonen gründet auf den beobachteten Lernprozessen und den festgestellten Lernergebnissen, welche die Lehrpersonen mit den Lernenden besprochen haben.
-
-<sup>5</sup> Nach dem 1. Semester der 2. beziehungsweise der 3. Klasse halten die Lernenden ihre Überlegungen zur Laufbahnwahl schriftlich fest.
+**…**
 
 #### § 26
 
