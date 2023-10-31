@@ -4,11 +4,11 @@ title: Ordinance of 1 July 2020 on Clinical Trials with Medical Devices (CTO-Med
 short: CTO-MedD
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/553"
 language: en
-version: 2022-05-26
+version: 2023-11-01
 adopted: 2020-07-01
 in_force: 2021-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20220526/en/xml/fedlex-data-admin-ch-eli-cc-2020-553-20220526-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20220526/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20231101/en/xml/fedlex-data-admin-ch-eli-cc-2020-553-20231101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20231101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (ClinO-MD)
 
-of 1 July 2020 (Status as of 26 May 2022)
+of 1 July 2020 (Status as of 1 November 2023)
 
 The Swiss Federal Council,
 
@@ -95,15 +95,16 @@ The conduct of non-interventional performance studies is governed by Chapter 2 o
 
 <sup>2</sup> The conduct of non-interventional performance studies in which only already sampled biological material or already collected health-related personal data are further used is governed by Chapter 3 of the HRO.
 
-<sup>3</sup> The conduct of non-interventional performance studies in which only already sampled anonymised biological material or already collected anonymised health-related data are further used is governed by Articles 3 and 4 of the Ordinance of 20 September 2013[^2a-3] on Clinical Trials (ClinO), Article 25 HRO and Article 57 of Regulation (EU) 2017/746[^2a-4] (EU-IVDR**)**.
+<sup>3</sup> The conduct of non-interventional performance studies in which only already sampled anonymised biological material or already collected anonymised health-related data are further used is governed by Articles 3 and 4 of the Ordinance of 20 September 2013[^2a-3] on Clinical Trials (ClinO), Article 25 HRO and Article 57 of Regulation (EU) 2017/746[^2a-4] (EU-IVDR**)**.[^2a-5]
 
-<sup>4</sup> The conduct of clinical trials with devices in accordance with Article 2*a* paragraph 2 TPA or combinations in accordance with Article 2 paragraph 1 letters f, g and j MedDO[^2a-5] is governed by the ClinO.
+<sup>4</sup> The conduct of clinical trials with devices in accordance with Article 2*a* paragraph 2 TPA or combinations in accordance with Article 2 paragraph 1 letters f, g and j MedDO[^2a-6] is governed by the ClinO.
 
 [^2a-1]: Inserted by No I of the O of 4 May 2022, in force since 26 May 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 [^2a-2]: [SR 810.301](https://fedlex.data.admin.ch/eli/cc/2013/642)
 [^2a-3]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
-[^2a-4]: Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2020/227/EU, OJ L 117 of 5.5.2017, p. 176; last amended by Regulation (EU) 2022/112, OJ L 19 of 28.1.2022, p. 3.
-[^2a-5]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^2a-4]: Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2020/227/EU, OJ L 117 of 5.5.2017, p. 176; last amended by Regulation (EU) 2023/607, OJ L 80 of 20.3.2023, p. 24.
+[^2a-5]: Amended by Annex No 1 of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^2a-6]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 
 #### Art. 3
 
@@ -140,19 +141,20 @@ The following provisions of the Ordinance of 20 September 2013[^3-1] on Clinical
 
 The sponsor and investigator must fulfil:
 
-- a. for clinical investigations: the requirements in accordance with Article 72 and Annex XV Chapters I and III of Regulation (EU) 2017/745[^4-1] (EU-MDR);
-- b. for performance studies: the requirements in accordance with Article 68 and Annex XIII Part A of EU-IVDR[^4-2].[^4-3]
+- a.[^4-1] for clinical investigations: the requirements in accordance with Article 72 and Annex XV Chapters I and III of Regulation (EU) 2017/745[^4-2] (EU-MDR);
+- b. for performance studies: the requirements in accordance with Article 68 and Annex XIII Part A of EU-IVDR[^4-3].[^4-4]
 
-<sup>2</sup> Compliance with the requirements of paragraph 1, specified in greater detail by designated technical standards or common specifications in accordance with Article 9 paragraph 1 EU-MDR or Article 9 paragraph 1 EU-IVDR, is presumed if the clinical trial is conducted in accordance with those standards or specifications. Article 6 paragraph 5 MedDO[^4-4] and Article 6 paragraph 4 IvDO[^4-5] apply *mutatis mutandis*.[^4-6]
+<sup>2</sup> Compliance with the requirements of paragraph 1, specified in greater detail by designated technical standards or common specifications in accordance with Article 9 paragraph 1 EU-MDR or Article 9 paragraph 1 EU-IVDR, is presumed if the clinical trial is conducted in accordance with those standards or specifications. Article 6 paragraph 5 MedDO[^4-5] and Article 6 paragraph 4 IvDO[^4-6] apply *mutatis mutandis*.[^4-7]
 
 <sup>3</sup> If the sponsor is not domiciled in Switzerland and does not have a place of business there, it must designate an agent that is domiciled or has a place of business in Switzerland as an address for correspondence. This agent must ensure compliance with the sponsor’s obligations.
 
-[^4-1]: Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC, OJ L117 of 5.5. 2017, p. 1, last amended by Regulation (EU) 202/561, OJ L 130 of 24.4.2020, p. 18.
-[^4-2]: See the footnote to Art. 2*a* para. 3.
-[^4-3]: Amended by No I of the O of 4 May 2022, in force since 26 May 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^4-4]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
-[^4-5]: [SR 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
-[^4-6]: Amended by No I of the O of 4 May 2022, in force since 26 May 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^4-1]: Amended by Annex No 1 of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^4-2]: Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC, OJ L117 of 5.5. 2017, p. 1, last amended by Regulation (EU) 2023/607, OJ L 80 of 20.3.2023, p. 24.
+[^4-3]: See the footnote to Art. 2*a* para. 3.
+[^4-4]: Amended by No I of the O of 4 May 2022, in force since 26 May 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^4-5]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^4-6]: [SR 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
+[^4-7]: Amended by No I of the O of 4 May 2022, in force since 26 May 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 #### Art. 5
 
@@ -765,7 +767,7 @@ If a clinical trial in accordance with Article 48 is a performance study, in the
 
 [^50-1]: Repealed by No I of the O of 4 May 2022, with effect from 26 May 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
-Annex 1*[^t-1]*
+Annex 1[^t-1]
 
 (Art. 10 para. 1, 14, 15 para. 6, 16 para. 1, 18 para. 1, 20 para. 5, 23 para. 2)
 

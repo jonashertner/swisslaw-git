@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> juillet 2020 sur les essais cliniques de di
 short: OClin-Dim
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/553"
 language: fr
-version: 2022-05-26
+version: 2023-11-01
 adopted: 2020-07-01
 in_force: 2021-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20220526/fr/xml/fedlex-data-admin-ch-eli-cc-2020-553-20220526-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20220526/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20231101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-553-20231101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20231101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20220526/fr"
 
 (OClin-Dim)
 
-du 1<sup>er</sup> juillet 2020 (Etat le 26 mai 2022)
+du 1<sup>er</sup> juillet 2020 (État le 1<sup>er</sup> novembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -101,15 +101,16 @@ La réalisation d’études non interventionnelles des performances est régie p
 
 <sup>2</sup> La réalisation d’études non interventionnelles des performances lors desquelles seul du matériel biologique déjà disponible ou des données personnelles liées à la santé déjà collectées sont réutilisés est régie par les dispositions du chapitre 3 ORH.
 
-<sup>3</sup> La réalisation d’études non interventionnelles des performances lors desquelles seul du matériel biologique anonymisé déjà disponible ou des données liées à la santé anonymisées déjà collectées sont réutilisés est régie par les art. 3 et 4 de l’ordonnance du 20 septembre 2013 sur les essais cliniques (OClin)[^2a-3], l’art. 25 ORH et l’art. 57 du règlement (UE) n<sup>o</sup> 2017/746 (RDIV-UE)[^2a-4].
+<sup>3</sup> La réalisation d’études non interventionnelles des performances lors desquelles seul du matériel biologique anonymisé déjà disponible ou des données liées à la santé anonymisées déjà collectées sont réutilisés est régie par les art. 3 et 4 de l’ordonnance du 20 septembre 2013 sur les essais cliniques (OClin)[^2a-3], l’art. 25 ORH et l’art. 57 du règlement (UE) 2017/746 (RDIV-UE)[^2a-4].[^2a-5]
 
-<sup>4</sup> La réalisation d’essais cliniques de produits au sens de l’art. 2*a*, al. 2, LPTh ou de combinaisons au sens de l’art. 2, al. 1, let. f, g ou j, ODim[^2a-5] est régie par les dispositions de l’OClin.
+<sup>4</sup> La réalisation d’essais cliniques de produits au sens de l’art. 2*a*, al. 2, LPTh ou de combinaisons au sens de l’art. 2, al. 1, let. f, g ou j, ODim[^2a-6] est régie par les dispositions de l’OClin.
 
 [^2a-1]: Introduit par le ch. I de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 [^2a-2]: [RS 810.301](https://fedlex.data.admin.ch/eli/cc/2013/642)
 [^2a-3]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
-[^2a-4]: Règlement (UE) 2017/746 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux de diagnostic *in vitro* et abrogeant la directive 98/79/CE et la décision 2010/227/UE de la Commission, version selon JO L 117 du 5.5.2017, p. 176; modifié en dernier lieu par le règlement (UE) 2022/112, JO L 19 du 28.1.2022, p. 3.
-[^2a-5]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^2a-4]: Règlement (UE) 2017/746 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux de diagnostic in vitro et abrogeant la directive 98/79/CE et la décision 2010/227/UE de la Commission, JO L 117 du 5.5.2017, p. 176; modifié en dernier lieu par le règlement (UE) 2023/607, JO L 80 du 20.3.2023, p. 24.
+[^2a-5]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^2a-6]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 
 #### Art. 3
 
@@ -128,7 +129,7 @@ Les essais cliniques de dispositifs sont soumis aux dispositions suivantes de l�
 
 <sup>2</sup> Les compétences de Swissmedic et les obligations de collaboration et d’information du promoteur et de l’investigateur lors d’inspections et de mesures administratives sont régies par les art. 77 et 78 ODim[^3-2] ou par les art. 70 et 71 ODiv[^3-3].[^3-4]
 
-<sup>3</sup> ...[^3-5]
+<sup>3</sup> …[^3-5]
 
 [^3-1]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
 [^3-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
@@ -146,19 +147,20 @@ Les essais cliniques de dispositifs sont soumis aux dispositions suivantes de l�
 
 Le promoteur et l’investigateur doivent satisfaire aux exigences suivantes:
 
-- a. pour les investigations cliniques, à l’art. 72 et à l’annexe XV, chapitres I et III, du règlement (UE) n<sup>o</sup> 2017/745 (RDM-UE)[^4-1];
-- b. pour les études des performances, à l’art. 68 et à l’annexe XIII, partie A, du RDIV-UE[^4-2].[^4-3]
+- a.[^4-1] pour les investigations cliniques, à l’art. 72 et à l’annexe XV, chapitres I et III, du règlement (UE) 2017/745 (RDM-UE)[^4-2];
+- b. pour les études des performances, à l’art. 68 et à l’annexe XIII, partie A, du RDIV-UE[^4-3].[^4-4]
 
-<sup>2</sup> Les exigences visées à l’al. 1 qui sont précisées par des normes techniques désignées ou par des spécifications communes au sens de l’art. 9, par. 1, RDM-UE ou de l’art. 9, par. 1, RDIV-UE sont présumées satisfaites lorsque l’essai clinique est réalisé conformément auxdites normes ou spécifications. L’art. 6, al. 5, ODim[^4-4] et l’art. 6, al. 4, ODiv[^4-5] sont applicables par analogie.[^4-6]
+<sup>2</sup> Les exigences visées à l’al. 1 qui sont précisées par des normes techniques désignées ou par des spécifications communes au sens de l’art. 9, par. 1, RDM-UE ou de l’art. 9, par. 1, RDIV-UE sont présumées satisfaites lorsque l’essai clinique est réalisé conformément auxdites normes ou spécifications. L’art. 6, al. 5, ODim[^4-5] et l’art. 6, al. 4, ODiv[^4-6] sont applicables par analogie.[^4-7]
 
 <sup>3</sup> Si le promoteur n’a pas de siège ni d’établissement en Suisse, il désigne comme domicile de notification une représentation dont le siège ou l’établissement se trouve en Suisse. Celle-ci doit garantir le respect des obligations du promoteur.
 
-[^4-1]: Règlement (UE) 2017/745 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux, modifiant la directive 2001/83/CE, le règlement (CE) n<sup>o</sup> 178/2002 et le règlement (CE) n<sup>o</sup> 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE, JO L 117 du 5.5.2017, p. 1, modifié pour la dernière fois par le règlement (UE) 2020/561, JO L 130 du 24.4.2020, p. 18.
-[^4-2]: Cf. note de bas de page relative à l’art. 2*a*, al. 3.
-[^4-3]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^4-4]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
-[^4-5]: [RS 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
-[^4-6]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^4-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^4-2]: Règlement (UE) 2017/745 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux, modifiant la directive 2001/83/CE, le règlement (CE) n<sup>o</sup> 178/2002 et le règlement (CE) n<sup>o</sup> 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE, JO L 117 du 5.5.2017, p. 1; modifié en dernier lieu par le règlement (UE) 2023/607, JO L 80 du 20.3.2023, p. 24.
+[^4-3]: Cf. note de bas de page relative à l’art. 2*a*, al. 3.
+[^4-4]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^4-5]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^4-6]: [RS 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
+[^4-7]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 #### Art. 5
 
@@ -489,7 +491,7 @@ Swissmedic octroie l’autorisation si:
 
 [^20-1]: Introduit par l’annexe ch. 1 de l’O du 19 mai 2021 ([RO 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)). Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
-## Chapitre 3 ...
+## Chapitre 3 …
 
 #### Art. 21 à 31
 
@@ -731,7 +733,7 @@ Lorsqu’ils exécutent la présente ordonnance, en particulier lorsqu’ils met
 - d. l’échange d’informations entre les États membres et la Suisse, dans le cadre de la déclaration des mesures, de l’arrêt d’un essai clinique pour des raisons de sécurité, du retrait de la demande et du refus d’autoriser un essai clinique;
 - e. les délais de déclaration d’événements indésirables graves et de défectuosités de dispositifs, eu égard à la gravité de l’événement devant faire l’objet d’un rapport;
 - f.[^46-4] les exigences visées à l’annexe XV, chapitre II, RDM-UE et à l’annexe XIV, chapitre I, RDIV-UE;
-- g.[^46-5] ...
+- g.[^46-5] …
 
 [^46-1]: Cf. note de bas de page relative à l’art. 4, al. 1, let. a.
 [^46-2]: Cf. note de bas de page relative à l’art. 2*a*, al. 3.
@@ -779,11 +781,11 @@ Si l’essai clinique visé à l’art. 48 est une étude des performances, le p
 
 <sup>1</sup> La présente ordonnance entre en vigueur le 26 mai 2021, sous réserve de l’al. 2.
 
-<sup>2</sup> ...[^50-1]
+<sup>2</sup> …[^50-1]
 
 [^50-1]: Abrogé par le ch. I de l’O du 4 mai 2022, avec effet au 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 10, al. 1, 14, 15, al. 6, 16, al. 1, 18, al. 1, 20, al. 5, et 23, al. 2)
 
@@ -828,7 +830,7 @@ Annexe 1*[^t-1]*
 
 - 2\.4 Swissmedic publie sur son site Internet des informations relatives aux actes délégués visés au ch. 2.1 qui, en vertu de la présente ordonnance, s’appliquent également directement en Suisse dans la version applicable aux États membres de l’UE (art. 45).
 
-### 3 ...
+### 3 …
 
 ### 4 Documents supplémentaires requis pour les essais cliniques avec des dispositifs pouvant émettre des rayons ionisants et pour les examens à l’aide de sources de rayonnements (art. 14, al. 1)
 
@@ -849,7 +851,7 @@ Pour les essais cliniques de catégorie C avec des dispositifs pouvant émettre 
 - d. le nom des personnes responsables de l’utilisation du produit radiopharmaceutique sur l’être humain et des informations sur leurs qualifications professionnelles;
 - e. les données figurant sur le formulaire de l’OFSP pour les essais cliniques de produits radiopharmaceutiques ou de substances radiomarquées[^annex1-lvlu1-lvl5-1].
 
-[^annex1-lvlu1-lvl5-1]: Le formulaire peut être obtenu auprès de l’Office fédéral de la santé publique, division Radioprotection, 3003 Berne, ou consulté à l’adresse suivante: www.ofsp.admin.ch &gt; Vivre en bonne santé &gt; Environnement & santé &gt; Rayonnement, radioactivité & son.
+[^annex1-lvlu1-lvl5-1]: Le formulaire peut être obtenu auprès de l’Office fédéral de la santé publique, division Radioprotection, 3003 Berne, ou consulté à l’adresse suivante: [www.ofsp.admin.ch](https://www.ofsp.admin.ch) &gt; Vivre en bonne santé &gt; Environnement & santé &gt; Rayonnement, radioactivité & son.
 
 Annexe 2
 
@@ -859,6 +861,6 @@ Annexe 2
 
 Les actes mentionnés ci-après sont modifiés comme suit:
 
-...[^annex2-lvlu1-1]
+…[^annex2-lvlu1-1]
 
 [^annex2-lvlu1-1]: Les mod. peuvent être consultées au [RO 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553).

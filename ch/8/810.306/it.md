@@ -4,11 +4,11 @@ title: Ordinanza del 1° luglio 2020 sulle sperimentazioni cliniche con disposit
 short: OSRUm-Dmed
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/553"
 language: it
-version: 2022-05-26
+version: 2023-11-01
 adopted: 2020-07-01
 in_force: 2021-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20220526/it/xml/fedlex-data-admin-ch-eli-cc-2020-553-20220526-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20220526/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20231101/it/xml/fedlex-data-admin-ch-eli-cc-2020-553-20231101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20231101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20220526/it"
 
 (OSRUm-Dmed)
 
-del 1° luglio 2020 (Stato 26 maggio 2022)
+del 1° luglio 2020 (Stato 1° novembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -97,15 +97,16 @@ Lo svolgimento di studi non interventistici delle prestazioni è retto dal capit
 
 <sup>2</sup> Lo svolgimento di studi non interventistici delle prestazioni in cui sono riutilizzati esclusivamente materiale biologico già disponibile o dati sanitari personali già raccolti è retto dal capitolo 3 ORUm.
 
-<sup>3</sup> Lo svolgimento di studi non interventistici delle prestazioni in cui sono riutilizzati esclusivamente materiale biologico anonimizzato già disponibile o dati sanitari anonimizzati già raccolti è retto dagli articoli 3 e 4 dell’ordinanza del 20 settembre 2013[^2a-3] sulle sperimentazioni cliniche (OSRUm), l’articolo 25 ORUm e l’articolo 57 del regolamento (UE) 2017/746[^2a-4] (UE-IVDR).
+<sup>3</sup> Lo svolgimento di studi non interventistici delle prestazioni in cui sono riutilizzati esclusivamente materiale biologico anonimizzato già disponibile o dati sanitari anonimizzati già raccolti è retto dagli articoli 3 e 4 dell’ordinanza del 20 settembre 2013[^2a-3] sulle sperimentazioni cliniche (OSRUm), dall’articolo 25 ORUm e dall’articolo 57 del regolamento (UE) 2017/746[^2a-4] (UE-IVDR).[^2a-5]
 
-<sup>4</sup> Lo svolgimento di sperimentazioni cliniche con prodotti secondo l’articolo 2*a* capoverso 2 LATer o combinazioni secondo l’articolo 2 capoverso 1 lettere f, g e j ODmed[^2a-5] è retto dall’OSRUm.
+<sup>4</sup> Lo svolgimento di sperimentazioni cliniche con prodotti secondo l’articolo 2*a* capoverso 2 LATer o combinazioni secondo l’articolo 2 capoverso 1 lettere f, g e j ODmed[^2a-6] è retto dall’OSRUm.
 
 [^2a-1]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 [^2a-2]: [RS 810.301](https://fedlex.data.admin.ch/eli/cc/2013/642)
 [^2a-3]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
-[^2a-4]: Regolamento (UE) 2017/746 del Parlamento europeo e del Consiglio, del 5 aprile 2017, relativo ai dispositivi medico-diagnostici *in vitro* e che abroga la direttiva 98/79/CE e la decisione 2010/227/UE della Commissione, GU L 117 del 5.5.2017, pag. 176, modificato da ultimo dal regolamento (UE) 2022/112, GU L 19 del 28.1.2022, pag. 3.
-[^2a-5]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^2a-4]: Regolamento (UE) 2017/746 del Parlamento europeo e del Consiglio, del 5 aprile 2017, relativo ai dispositivi medico-diagnostici in vitro e che abroga la direttiva 98/79/CE e la decisione 2010/227/UE della Commissione, GU L 117 del 5.5.2017, pag. 176; modificato da ultimo dal regolamento (UE) 2023/607, GU L 80 del 20.3.2023, pag. 24.
+[^2a-5]: Nuovo testo giusta l’all. n. 1 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^2a-6]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 
 #### Art. 3
 
@@ -142,19 +143,20 @@ Alle sperimentazioni cliniche con dispositivi sono applicabili le seguenti dispo
 
 Il promotore e lo sperimentatore devono adempiere i requisiti seguenti:
 
-- a. per le indagini cliniche: i requisiti di cui all’articolo 72 e all’allegato XV capi I e III del regolamento (UE) 2017/745[^4-1] (UE-MDR);
-- b. per gli studi delle prestazioni: i requisiti di cui all’articolo 68 e all’allegato XIII parte A UE-IVDR[^4-2].[^4-3]
+- a.[^4-1] per le indagini cliniche: i requisiti di cui all’articolo 72 e all’allegato XV capi I e III del regolamento (UE) 2017/745[^4-2] (UE-MDR*)*;
+- b. per gli studi delle prestazioni: i requisiti di cui all’articolo 68 e all’allegato XIII parte A UE-IVDR[^4-3].[^4-4]
 
-<sup>2</sup> L’osservanza dei requisiti di cui al capoverso 1 concretizzati in norme tecniche designate o specifiche comuni ai sensi dell’articolo 9 paragrafo 1 UE-MDR o dell’articolo 9 capoverso 1 UE-IVDR è presunta quando la sperimentazione clinica viene effettuata conformemente a dette norme o specifiche. L’articolo 6 capoverso 5 ODmed[^4-4] e l’articolo 6 capoverso 4 ODIV[^4-5] sono applicabili per analogia.[^4-6]
+<sup>2</sup> L’osservanza dei requisiti di cui al capoverso 1 concretizzati in norme tecniche designate o specifiche comuni ai sensi dell’articolo 9 paragrafo 1 UE-MDR o dell’articolo 9 capoverso 1 UE-IVDR è presunta quando la sperimentazione clinica viene effettuata conformemente a dette norme o specifiche. L’articolo 6 capoverso 5 ODmed[^4-5] e l’articolo 6 capoverso 4 ODIV[^4-6] sono applicabili per analogia.[^4-7]
 
 <sup>3</sup> Se non ha né sede né domicilio in Svizzera, il promotore designa un rappresentante con sede o domicilio in Svizzera quale domicilio di recapito. Il rappresentante deve garantire il rispetto dei doveri del promotore.
 
-[^4-1]: Regolamento (UE) 2017/745 del Parlamento europeo e del Consiglio, del 5 aprile 2017, relativo ai dispositivi medici, che modifica la direttiva 2001/83/CE, il regolamento (CE) n. 178/2002 e il regolamento (CE) n. 1223/2009 e che abroga le direttive 90/385/CEE e 93/42/CEE del Consiglio, versione della GU L 117 del 5.5.2017, pag. 1, modificato da ultimo dal regolamento (UE) 2020/561, GU L 130 del 24.4.2020, pag. 18.
-[^4-2]: Cfr. nota a piè di pagina relativa all’art. 2*a* cpv. 3.
-[^4-3]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^4-4]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
-[^4-5]: [RS 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
-[^4-6]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^4-1]: Nuovo testo giusta l’all. n. 1 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^4-2]: Regolamento (UE) 2017/745 del Parlamento europeo e del Consiglio, del 5 aprile 2017, relativo ai dispositivi medici, che modifica la direttiva 2001/83/CE, il regolamento (CE) n. 178/2002 e il regolamento (CE) n. 1223/2009 e che abroga le direttive 90/385/CEE e 93/42/CEE del Consiglio; GU L 117 del 5.5.2017, pag. 1; modificato da ultimo dal regolamento (UE) 2023/607, GU L 80 del 20.3.2023, pag. 24.
+[^4-3]: Cfr. nota a piè di pagina relativa all’art. 2*a* cpv. 3.
+[^4-4]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^4-5]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^4-6]: [RS 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
+[^4-7]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 #### Art. 5
 
@@ -779,7 +781,7 @@ Se la sperimentazione clinica di cui all’articolo 48 è uno studio delle prest
 
 [^50-1]: Abrogato dal n. I dell’O del 4 mag. 2022, con effetto dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 10 cpv. 1, 14, 15 cpv. 6, 16 cpv. 1, 18 cpv. 1, 20 cpv. 5 e 23 cpv. 2)
 
@@ -845,7 +847,7 @@ Oltre ai documenti di cui al numero 4, per le sperimentazioni cliniche della cat
 - d. nomi delle persone responsabili dell’utilizzazione del radiofarmaco sull’essere umano e indicazioni sulle loro qualifiche specifiche;
 - e. indicazioni secondo il modulo dell’UFSP per sperimentazioni cliniche con radiofarmaci o con sostanze contrassegnate come radioattive[^annex1-lvlu1-lvl5-1].
 
-[^annex1-lvlu1-lvl5-1]: Il modulo può essere ottenuto presso l’Ufficio federale della sanità pubblica, Divisione Radioprotezione, 3003 Berna, oppure scaricato dal sito www.bag.admin.ch &gt; Vivere in salute &gt; Ambiente & salute &gt; Radiazioni, radioattività & suono.
+[^annex1-lvlu1-lvl5-1]: Il modulo può essere ottenuto presso l’Ufficio federale della sanità pubblica, Divisione Radioprotezione, 3003 Berna, oppure scaricato dal sito [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Vivere in salute &gt; Ambiente & salute &gt; Radiazioni, radioattività & suono.
 
 Allegato 2
 

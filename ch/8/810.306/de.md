@@ -4,11 +4,11 @@ title: Verordnung vom 1. Juli 2020 über klinische Versuche mit Medizinprodukten
 short: KlinV-Mep
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/553"
 language: de
-version: 2022-05-26
+version: 2023-11-01
 adopted: 2020-07-01
 in_force: 2021-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20220526/de/xml/fedlex-data-admin-ch-eli-cc-2020-553-20220526-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20220526/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20231101/de/xml/fedlex-data-admin-ch-eli-cc-2020-553-20231101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20231101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20220526/de"
 
 (KlinV-Mep)
 
-vom 1. Juli 2020 (Stand am 26. Mai 2022)
+vom 1. Juli 2020 (Stand am 1. November 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -97,15 +97,16 @@ Die Durchführung nicht-interventioneller Leistungsstudien richtet sich nach dem
 
 <sup>2</sup> Die Durchführung nicht-interventioneller Leistungsstudien, bei denen ausschliesslich bereits vorhandenes biologisches Material oder bereits erhobene gesundheitsbezogene Personendaten weiterverwendet werden, richtet sich nach dem 3. Kapitel der HFV.
 
-<sup>3</sup> Die Durchführung nicht-interventioneller Leistungsstudien, bei denen ausschliesslich bereits vorhandenes anonymisiertes biologisches Material oder bereits erhobene anonymisierte gesundheitsbezogene Daten weiterverwendet werden, richtet sich nach den Artikeln 3 und 4 der Verordnung vom 20. September 2013[^2a-3] über klinische Versuche (KlinV), Artikel 25 HFV und Artikel 57 der Verordnung (EU) 2017/746[^2a-4] (EU-IVDR**)**.
+<sup>3</sup> Die Durchführung nicht-interventioneller Leistungsstudien, bei denen ausschliesslich bereits vorhandenes anonymisiertes biologisches Material oder bereits erhobene anonymisierte gesundheitsbezogene Daten weiterverwendet werden, richtet sich nach den Artikeln 3 und 4 der Verordnung vom 20. September 2013[^2a-3] über klinische Versuche (KlinV), Artikel 25 HFV und Artikel 57 der Verordnung (EU) 2017/746[^2a-4] (EU-IVDR).[^2a-5]
 
-<sup>4</sup> Die Durchführung klinischer Versuche mit Produkten nach Artikel 2*a* Absatz 2 HMG oder Kombinationen nach Artikel 2 Absatz 1 Buchstaben f, g und j MepV[^2a-5] richtet sich nach der KlinV.
+<sup>4</sup> Die Durchführung klinischer Versuche mit Produkten nach Artikel 2*a* Absatz 2 HMG oder Kombinationen nach Artikel 2 Absatz 1 Buchstaben f, g und j MepV[^2a-6] richtet sich nach der KlinV.
 
 [^2a-1]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 [^2a-2]: [SR 810.301](https://fedlex.data.admin.ch/eli/cc/2013/642)
 [^2a-3]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
-[^2a-4]: Verordnung (EU) 2017/746 des Europäischen Parlaments und des Rates vom 5. April 2017 über *In-vitro*-Diagnostika und zur Aufhebung der Richtlinie 98/79/EG und des Beschlusses 2010/227/EU der Kommission, ABl. L 117 vom 5.5.2017, S. 176; zuletzt geändert durch Verordnung (EU) 2022/112, ABl. L 19 vom 28.1.2022, S. 3.
-[^2a-5]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^2a-4]: Verordnung (EU) 2017/746 des Europäischen Parlaments und des Rates vom 5. April 2017 über In-vitro-Diagnostika und zur Aufhebung der Richtlinie 98/79/EG und des Beschlusses 2010/227/EU der Kommission, ABl. L 117 vom 5.5.2017, S. 176; zuletzt geändert durch Verordnung (EU) 2023/607, ABl. L 80 vom 20.3.2023, S. 24.
+[^2a-5]: Fassung gemäss Anhang Ziff. 1 der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^2a-6]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 
 #### Art. 3
 
@@ -142,19 +143,20 @@ Für klinische Versuche mit Produkten sind folgende Bestimmungen der Verordnung 
 
 Der Sponsor und die Prüfperson müssen folgende Anforderungen erfüllen:
 
-- a. bei klinischen Prüfungen: die Anforderungen gemäss Artikel 72 und Anhang XV Kapitel I und III der Verordnung (EU) 2017/745[^4-1] (EU-MDR);
-- b. bei Leistungsstudien: die Anforderungen gemäss Artikel 68 und Anhang XIII Teil A der EU-IVDR[^4-2].[^4-3]
+- a.[^4-1] bei klinischen Prüfungen: die Anforderungen gemäss Artikel 72 und Anhang XV Kapitel I und III der Verordnung (EU) 2017/745[^4-2] (EU-MDR);
+- b. bei Leistungsstudien: die Anforderungen gemäss Artikel 68 und Anhang XIII Teil A der EU-IVDR[^4-3].[^4-4]
 
-<sup>2</sup> Die Einhaltung der Anforderungen nach Absatz 1, die durch bezeichnete technische Normen oder gemeinsame Spezifikationen im Sinne von Artikel 9 Absatz 1 EU-MDR oder von Artikel 9 Absatz 1 EU-IVDR konkretisiert werden, wird vermutet, wenn der klinische Versuch gemäss diesen Normen oder Spezifikationen durchgeführt wird. Artikel 6 Absatz 5 MepV[^4-4] beziehungsweise Artikel 6 Absatz 4 IvDV[^4-5] sind sinngemäss anwendbar.[^4-6]
+<sup>2</sup> Die Einhaltung der Anforderungen nach Absatz 1, die durch bezeichnete technische Normen oder gemeinsame Spezifikationen im Sinne von Artikel 9 Absatz 1 EU-MDR oder von Artikel 9 Absatz 1 EU-IVDR konkretisiert werden, wird vermutet, wenn der klinische Versuch gemäss diesen Normen oder Spezifikationen durchgeführt wird. Artikel 6 Absatz 5 MepV[^4-5] beziehungsweise Artikel 6 Absatz 4 IvDV[^4-6] sind sinngemäss anwendbar.[^4-7]
 
 <sup>3</sup> Hat der Sponsor weder einen Sitz noch eine Niederlassung in der Schweiz, so bezeichnet er eine Vertretung mit Sitz oder Niederlassung in der Schweiz als Zustellungsdomizil. Diese Vertretung muss die Einhaltung der Verpflichtungen des Sponsors sicherstellen.
 
-[^4-1]: Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates, ABl. L 117 vom 5.5.2017, S. 1; zuletzt geändert durch Verordnung (EU) 2020/561, ABl. L 130 vom 24.4.2020, S. 18.
-[^4-2]: Siehe Fussnote zu Art. 2*a* Abs. 3.
-[^4-3]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^4-4]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
-[^4-5]: [SR 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
-[^4-6]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^4-1]: Fassung gemäss Anhang Ziff. 1 der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^4-2]: Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates, ABl. L 117 vom 5.5.2017, S. 1; zuletzt geändert durch Verordnung (EU) 2023/607, ABl. L 80 vom 20.3.2023, S. 24.
+[^4-3]: Siehe Fussnote zu Art. 2*a* Abs. 3.
+[^4-4]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^4-5]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^4-6]: [SR 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
+[^4-7]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 #### Art. 5
 
@@ -780,7 +782,7 @@ Handelt es sich beim klinischen Versuch nach Artikel 48 um eine Leistungsstudie,
 
 [^50-1]: Aufgehoben durch Ziff. I der V vom 4. Mai 2022, mit Wirkung seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 10 Abs. 1, 14, 15 Abs. 6, 16 Abs. 1, 18 Abs. 1, 20 Abs. 5, 23 Abs. 2)
 
