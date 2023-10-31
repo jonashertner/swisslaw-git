@@ -4,11 +4,11 @@ title: Verordnung vom 23. Dezember 1999 über den Schutz vor nichtionisierender 
 short: NISV
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/38"
 language: de
-version: 2022-01-01
+version: 2023-11-01
 adopted: 1999-12-23
 in_force: 2000-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2000-38-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/38/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20231101/de/xml/fedlex-data-admin-ch-eli-cc-2000-38-20231101-de-xml-15.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/38/20231101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/38/20220101/de"
 
 (NISV)
 
-vom 23. Dezember 1999 (Stand am 1. Januar 2022)
+vom 23. Dezember 1999 (Stand am 1. November 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -59,7 +59,7 @@ Sie regelt nicht die Begrenzung der Emissionen von Strahlung, die erzeugt werden
 
 <sup>3</sup> Sie regelt auch nicht die Begrenzung der Einwirkungen von Strahlung auf elektrische oder elektronische medizinische Lebenshilfen wie Herzschrittmacher.
 
-[^2-1]: [[AS 1996 987](https://fedlex.data.admin.ch/eli/oc/1996/987_987_987)[1868](https://fedlex.data.admin.ch/eli/oc/1996/1868_1868_1868), [1998 1496](https://fedlex.data.admin.ch/eli/oc/1998/1496_1496_1496)Ziff. I, II. [AS 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)Art. 28 Bst. a]. Siehe heute: die V vom 17. Okt. 2001 ([SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)).
+[^2-1]: [[AS 1996 987](https://fedlex.data.admin.ch/eli/oc/1996/987_987_987), [1868](https://fedlex.data.admin.ch/eli/oc/1996/1868_1868_1868); [1998 1496](https://fedlex.data.admin.ch/eli/oc/1998/1496_1496_1496)Ziff. I und II. [AS 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)Art. 28 Bst. a]. Siehe heute: die V vom 17. Okt. 2001 ([SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)).
 
 #### Art. 3
 
@@ -193,6 +193,34 @@ Das Standortdatenblatt muss enthalten:
 
 [^11-1]: Fassung gemäss Ziff. I der V vom 1. Juli 2009, in Kraft seit 1. Sept. 2009 ([AS 2009 3565](https://fedlex.data.admin.ch/eli/oc/2009/448)).
 
+#### Art. 11a
+
+**Meldepflicht für Sendeanlagen für Mobilfunk und drahtlose Teilnehmeranschlüsse**[^11a-1]
+
+<sup>1</sup>
+
+Der Inhaber einer Sendeanlage für Mobilfunk und drahtlose Teilnehmeranschlüsse muss dem Bundesamt für Kommunikation (BAKOM) melden:
+
+- a. die vom BAKOM in Absprache mit den zuständigen Umweltschutzfachstellen bezeichneten Daten aus dem Standortdatenblatt in der genehmigten oder gemeldeten Fassung: bis 14 Tage nach Abschluss des Bewilligungs- oder Meldeverfahrens, spätestens jedoch bis zur Inbetriebnahme;
+- b. das Datum, an dem die Anlage basierend auf dem Standortdatenblatt in Betrieb genommen wird: bis zur Inbetriebnahme;
+- c. die aktuellen Betriebsdaten: in einem vom BAKOM festgelegten Intervall, mindestens jedoch alle 14 Tage.
+
+<sup>2</sup> Bei Anlagen, die Sendeantennen mehrerer Betreiberinnen umfassen, werden die Daten nach Absatz 1 Buchstabe c von den jeweiligen Betreiberinnen gemeldet.
+
+[^11a-1]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 583](https://fedlex.data.admin.ch/eli/oc/2023/583)).
+
+#### Art. 11b
+
+**Informationssystem**[^11b-1]
+
+<sup>1</sup> Das BAKOM betreibt ein elektronisches Informationssystem zur Erfassung der Daten nach Artikel 11*a* Absatz 1.
+
+<sup>2</sup> Die mit dem Vollzug dieser Verordnung und die mit der Aufsicht betrauten Behörden, die Inhaber einer Sendeanlage für Mobilfunk und drahtlose Teilnehmeranschlüsse sowie die Betreiberinnen in den Fällen nach Artikel 11*a* Absatz 2 sind zur Bearbeitung der im Informationssystem enthaltenen Daten berechtigt, soweit dies zur Erfüllung ihrer gesetzlichen Aufgaben und Pflichten erforderlich ist.
+
+<sup>3</sup> Das BAKOM gewährt den Berechtigten nach Absatz 2 einen Online-Zugriff.
+
+[^11b-1]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 583](https://fedlex.data.admin.ch/eli/oc/2023/583)).
+
 #### Art. 12
 
 **Kontrolle**
@@ -285,9 +313,12 @@ Das BAFU gibt die minimalen Geodatenmodelle und Darstellungsmodelle für Geobasi
 
 <sup>1</sup> Das BAFU veröffentlicht periodisch eine nationale Übersicht über die Belastung der Bevölkerung durch Strahlung. Es kann dazu Erhebungen durchführen. Inhaber von Anlagen sowie Behörden des Bundes und der Kantone sind verpflichtet, dem BAFU auf Anfrage die erforderlichen Auskünfte zu erteilen.
 
+<sup>1bis</sup> Das BAKOM veröffentlicht die Daten über Sendeanlagen für Mobilfunk und drahtlose Teilnehmeranschlüsse nach Artikel 11*a* Absatz 1. Vorbehalten bleiben überwiegende private und öffentliche Geheimhaltungsinteressen; das Fabrikations- und Geschäftsgeheimnis bleibt in jedem Fall gewahrt.[^19b-2]
+
 <sup>2</sup> Das BAFU informiert periodisch über den Stand der Wissenschaft und der Erfahrung über die Auswirkungen der Strahlung von ortsfesten Anlagen auf den Menschen und die Umwelt.
 
 [^19b-1]: Eingefügt durch Ziff. I der V vom 17. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1491](https://fedlex.data.admin.ch/eli/oc/2019/288)).
+[^19b-2]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 583](https://fedlex.data.admin.ch/eli/oc/2023/583)).
 
 ### 2. Abschnitt: Übergangsbestimmung und Inkrafttreten
 
@@ -305,7 +336,7 @@ Anlagen, die vor Inkrafttreten der Änderung vom 1. Juli 2009 rechtskräftig bew
 
 Diese Verordnung tritt am 1. Februar 2000 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 4, 6, 8 Abs. 1, 9, 11, 12 und 16)
 
@@ -539,7 +570,7 @@ Der Anlagegrenzwert für den über 24 Stunden gemittelten Effektivwert der magne
 
 <sup>3</sup> Aus einem engen räumlichen Zusammenhang senden zwei Antennengruppen, wenn sich von jeder der beiden Antennengruppen mindestens eine Sendeantenne im Perimeter der anderen Antennengruppe befindet.
 
-<sup>4</sup> Der Perimeter einer Antennengruppe ist die horizontale Fläche aus Kreisen mit Radius *r* um jede Sendeantenne der Antennengruppe. Der Radius *r* in Metern beträgt: <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image1.png)</sub>; dabei bedeutet:
+<sup>4</sup> Der Perimeter einer Antennengruppe ist die horizontale Fläche aus Kreisen mit Radius *r* um jede Sendeantenne der Antennengruppe. Der Radius *r* in Metern beträgt: <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20231101/de/xml/image/image1.png)</sub>; dabei bedeutet:
 
 - a.
 
@@ -692,9 +723,9 @@ Anhang 2
 <tr><td>3–100 kHz</td><td>87</td><td>5</td><td colspan="3">6,25</td><td>–<sup>a</sup></td></tr>
 <tr><td>100–150 kHz</td><td>87</td><td>5</td><td colspan="3">6,25</td><td>6</td></tr>
 <tr><td>0,15–1 MHz</td><td>87</td><td>0,73 / *f*</td><td colspan="3">0,92 / *f*</td><td>6</td></tr>
-<tr><td>1–10 MHz</td><td>87 /<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image2.png)</sub></td><td>0,73 / *f*</td><td colspan="3">0,92 / *f*</td><td>6</td></tr>
+<tr><td>1–10 MHz</td><td>87 / f</td><td>0,73 / *f*</td><td colspan="3">0,92 / *f*</td><td>6</td></tr>
 <tr><td>10–400 MHz</td><td>28</td><td>0,073</td><td colspan="3">0,092</td><td>6</td></tr>
-<tr><td>400–2000 MHz</td><td>1,375 · <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image2.png)</sub></td><td>0,0037 · <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image2.png)</sub></td><td colspan="3">0,0046 · <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image2.png)</sub></td><td>6</td></tr>
+<tr><td>400–2000 MHz</td><td>1,375 · f</td><td>0,0037 · f</td><td colspan="3">0,0046 · f</td><td>6</td></tr>
 <tr><td>2–10 GHz</td><td>61</td><td>0,16</td><td colspan="3">0,20</td><td>6</td></tr>
 <tr><td>10–300 GHz</td><td>61</td><td>0,16</td><td colspan="3">0,20</td><td>68 / *f* <sup>1.05</sup></td></tr>
 <tr><td colspan="7">Dabei bedeutet *f* die Frequenz in der in der ersten Tabellenspalte angegebenen Einheit. <sup>a</sup> Massgebend ist der höchste Effektivwert (Art. 14 Abs. 5).</td></tr>
@@ -706,7 +737,7 @@ Anhang 2
 <tr><td>Frequenz</td><td colspan="3">Immissionsgrenzwert für den Effektivwert der</td><td></td><td></td><td>Mittelungsdauer</td></tr>
 <tr><td></td><td>elektrischen Feldstärke *E**<sub>P,f</sub>* (V/m)</td><td>magnetischen Feldstärke *H**<sub>P,f</sub>* (A/m)</td><td colspan="3">magnetischen Flussdichte *B**<sub>P,f</sub>* (µT)</td><td></td></tr>
 <tr><td>10–400 MHz</td><td>900</td><td>2,3</td><td colspan="3">2,9</td><td>Pulsdauer</td></tr>
-<tr><td>400–2000 MHz</td><td>44 · <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image2.png)</sub></td><td>0,12 · <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image2.png)</sub></td><td colspan="3">0,15 · <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image2.png)</sub></td><td>Pulsdauer</td></tr>
+<tr><td>400–2000 MHz</td><td>44 · f</td><td>0,12 · f</td><td colspan="3">0,15 · f</td><td>Pulsdauer</td></tr>
 <tr><td>2–300 GHz</td><td>1950</td><td>5,1</td><td colspan="3">6,4</td><td>Pulsdauer</td></tr>
 <tr><td colspan="7">[tab] Dabei bedeutet *f* die Frequenz in MHz.</td></tr>
 </table>
@@ -741,17 +772,17 @@ Der Immissionsgrenzwert für den Effektivwert des Berührungsstroms beträgt:
 
 <table>
 <tr><th>Ziffer</th><th>Frequenzbereich</th><th>Physikalische Grösse</th><th>Summierungsvorschrift</th><th>Mittelungsdauer</th></tr>
-<tr><td>221</td><td>1 Hz–10 MHz</td><td>elektrische Feldstärke</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image3.png)</sub></td><td>–<sup>a</sup></td></tr>
-<tr><td></td><td></td><td>magnetische Feldstärke</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image4.png)</sub></td><td>–<sup>a</sup></td></tr>
-<tr><td></td><td></td><td>magnetische Flussdichte</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image5.png)</sub></td><td>–<sup>a</sup></td></tr>
-<tr><td>222</td><td>100 kHz–300 GHz</td><td>elektrische Feldstärke</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image6.png)</sub></td><td>6 Minuten</td></tr>
-<tr><td></td><td></td><td>magnetische Feldstärke</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image7.png)</sub></td><td>6 Minuten</td></tr>
-<tr><td></td><td></td><td>magnetische Flussdichte</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image8.png)</sub></td><td>6 Minuten</td></tr>
-<tr><td>223</td><td>Zusätzlich bei gepulsten Immissionen</td><td>elektrische Feldstärke</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image9.png)</sub></td><td>Pulsdauer</td></tr>
-<tr><td></td><td>10 MHz–300 GHz</td><td>magnetische Feldstärke</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image10.png)</sub></td><td>Pulsdauer</td></tr>
-<tr><td></td><td></td><td>magnetische Flussdichte</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image11.png)</sub></td><td>Pulsdauer</td></tr>
-<tr><td>224</td><td>10 MHz–110 MHz</td><td>Körperableitstrom</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image12.png)</sub></td><td>6 Minuten</td></tr>
-<tr><td>225</td><td>1 Hz–110 MHz</td><td>Berührungsstrom</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image13.png)</sub></td><td>–<sup>a</sup></td></tr>
+<tr><td>221</td><td>1 Hz–10 MHz</td><td>elektrische Feldstärke</td><td>∑ 1 H z 1 M H z (E\_f)/(E\_G , f) + ∑ &gt; 1 M H z 10 M H z (E\_f)/(87)</td><td>–<sup>a</sup></td></tr>
+<tr><td></td><td></td><td>magnetische Feldstärke</td><td>∑ 1 H z 65 k H z (H\_f)/(H\_G , f) + ∑ &gt; 65 k H z 10 M H z (H\_f)/(5)</td><td>–<sup>a</sup></td></tr>
+<tr><td></td><td></td><td>magnetische Flussdichte</td><td>∑ 1 H z 65 k H z (B\_f)/(B\_G , f) + ∑ &gt; 65 k H z 10 M H z (B\_f)/(6,25)</td><td>–<sup>a</sup></td></tr>
+<tr><td>222</td><td>100 kHz–300 GHz</td><td>elektrische Feldstärke</td><td>∑ 100 k H z 1 M H z ( (E\_f)/(87) )^2 ∙ f + ∑ &gt; 1 M H z 300 G H z ( (E\_f)/(E\_G , f) )^2</td><td>6 Minuten</td></tr>
+<tr><td></td><td></td><td>magnetische Feldstärke</td><td>∑ 100 k H z 1 M H z ( (H\_f)/(0,73) )^2 ∙ f^2 + ∑ &gt; 1 M H z 300 G H z ( (H\_f)/(H\_G , f) )^2</td><td>6 Minuten</td></tr>
+<tr><td></td><td></td><td>magnetische Flussdichte</td><td>∑ 100 k H z 1 M H z ( (B\_f)/(0,92) )^2 ∙ f^2 + ∑ &gt; 1 M H z 300 G H z ( (B\_f)/(B\_G , f) )^2</td><td>6 Minuten</td></tr>
+<tr><td>223</td><td>Zusätzlich bei gepulsten Immissionen</td><td>elektrische Feldstärke</td><td>∑ 10 M H z 300 G H z ( (E\_f)/(E\_P , f) )^2</td><td>Pulsdauer</td></tr>
+<tr><td></td><td>10 MHz–300 GHz</td><td>magnetische Feldstärke</td><td>∑ 10 M H z 300 G H z ( (H\_f)/(H\_P , f) )^2</td><td>Pulsdauer</td></tr>
+<tr><td></td><td></td><td>magnetische Flussdichte</td><td>∑ 10 M H z 300 G H z ( (B\_f)/(B\_P , f) )^2</td><td>Pulsdauer</td></tr>
+<tr><td>224</td><td>10 MHz–110 MHz</td><td>Körperableitstrom</td><td>∑ 10 M H z 110 M H z ( (I\_K , f)/(45) )^2</td><td>6 Minuten</td></tr>
+<tr><td>225</td><td>1 Hz–110 MHz</td><td>Berührungsstrom</td><td>∑ 1 H z 110 M H z (I\_B , f)/(I\_B , G , f)</td><td>–<sup>a</sup></td></tr>
 <tr><td colspan="5"><sup>a</sup> Massgebend sind die höchsten Effektivwerte (Art. 14 Abs. 5).</td></tr>
 </table>
 

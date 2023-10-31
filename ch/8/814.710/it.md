@@ -4,11 +4,11 @@ title: Ordinanza del 23 dicembre 1999 sulla protezione dalle radiazioni non ioni
 short: ORNI
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/38"
 language: it
-version: 2022-01-01
+version: 2023-11-01
 adopted: 1999-12-23
 in_force: 2000-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2000-38-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/38/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20231101/it/xml/fedlex-data-admin-ch-eli-cc-2000-38-20231101-it-xml-15.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/38/20231101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/38/20220101/it"
 
 (ORNI)
 
-del 23 dicembre 1999 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 23 dicembre 1999 (Stato 1° novembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -132,7 +132,11 @@ Sono definite possibili dal punto di vista tecnico e dell’esercizio le misure 
 
 #### Art. 6
 
-Se, dopo la sua messa in servizio, un nuovo impianto è modificato ai sensi dell’allegato 1, si applicano le prescrizioni sulla limitazione delle emissioni per gli impianti nuovi.
+[^6-1]
+
+Se, dopo la sua messa in esercizio, un nuovo impianto è modificato ai sensi dell’allegato 1, si applicano le prescrizioni sulla limitazione delle emissioni per gli impianti nuovi.
+
+[^6-1]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 583](https://fedlex.data.admin.ch/eli/oc/2023/583)).
 
 ### Sezione 3: Prescrizioni speciali per i vecchi impianti
 
@@ -193,6 +197,34 @@ La scheda dei dati sul sito deve contenere:
 - d. una planimetria che illustra le indicazioni menzionate alla lettera c.
 
 [^11-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2009, in vigore dal 1° set. 2009 ([RU 2009 3565](https://fedlex.data.admin.ch/eli/oc/2009/448)).
+
+#### Art. 11a
+
+**Obbligo di notifica concernente gli impianti di trasmissione per la telefonia mobile e per i collegamenti telefonici senza filo**[^11a-1]
+
+<sup>1</sup>
+
+Il titolare di un impianto di trasmissione per la telefonia mobile e per i collegamenti telefonici senza filo deve notificare all’Ufficio federale delle comunicazioni (UFCOM):
+
+- a. i dati indicati dall’UFCOM d’intesa con i competenti servizi della protezione dell’ambiente riportati nella versione autorizzata o notificata della scheda dei dati sul sito: entro 14 giorni dalla conclusione della procedura di autorizzazione o di notifica, ma al più tardi entro la messa in esercizio;
+- b. la data in cui l’impianto è messo in esercizio in base alla scheda dei dati sul sito: entro la messa in esercizio;
+- c. i dati di esercizio attuali: in un intervallo definito dall’UFCOM, ma almeno ogni 14 giorni.
+
+<sup>2</sup> Per gli impianti che comprendono antenne di trasmissione di più gestori, i dati di cui al capoverso 1 lettera c sono notificati dai rispettivi gestori.
+
+[^11a-1]: Introdotto dal n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 583](https://fedlex.data.admin.ch/eli/oc/2023/583)).
+
+#### Art. 11b
+
+**Sistema d’informazione**[^11b-1]
+
+<sup>1</sup> L’UFCOM gestisce un sistema d’informazione elettronico per la registrazione dei dati di cui all’articolo 11*a* capoverso 1.
+
+<sup>2</sup> Le autorità incaricate dell’esecuzione della presente ordinanza e della vigilanza, i titolari di un impianto di trasmissione per la telefonia mobile e per i collegamenti telefonici senza filo come pure i gestori nei casi di cui all’articolo 11*a* capoverso 2 sono autorizzati al trattamento dei dati contenuti nel sistema d’informazione, nella misura in cui ciò è necessario per l’adempimento dei loro compiti e obblighi legali.
+
+<sup>3</sup> L’UFCOM concede l’accesso online agli aventi diritto di cui al capoverso 2.
+
+[^11b-1]: Introdotto dal n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 583](https://fedlex.data.admin.ch/eli/oc/2023/583)).
 
 #### Art. 12
 
@@ -279,18 +311,22 @@ Se autorità federali applicano altre leggi federali o accordi di diritto intern
 
 L’UFAM stabilisce i modelli di geodati e i modelli di rappresentazione minimi per i geodati di base ai sensi della presente ordinanza per i quali è designato quale servizio specializzato della Confederazione nell’allegato 1 dell’ordinanza del 21 maggio 2008[^19a-2] sulla geoinformazione.
 
-[^19a-1]: Introdotto dal n. 12 dell’all. 2 all’O del 21 mag. 2008 sulla geoinformazione, in vigore dal 1° lug. 2008 ([RU 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
+[^19a-1]: Introdotto dall’all. 2 n. 12 dell’O del 21 mag. 2008 sulla geoinformazione, in vigore dal 1° lug. 2008 ([RU 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
 [^19a-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
 
 #### Art. 19b
 
 **Rilevazioni e informazione**[^19b-1]
 
-<sup>1</sup> L’UFAM pubblica periodicamente una panoramica nazionale dei carichi da radiazioni ai quali è esposta la popolazione. A tale scopo può effettuare rilevazioni. I titolari degli impianti e le autorità federali e cantonali sono obbligati a fornire all’UFAM i dati richiesti.
+<sup>1</sup> L’UFAM pubblica periodicamente una panoramica nazionale dell’esposizione della popolazione alle radiazioni.[^19b-2] A tale scopo può effettuare rilevazioni. I titolari degli impianti e le autorità federali e cantonali sono obbligati a fornire all’UFAM i dati richiesti.
+
+<sup>1bis</sup> L’UFCOM pubblica i dati sugli impianti di trasmissione per la telefonia mobile e per i collegamenti telefonici senza filo di cui all’articolo 11*a* capoverso 1. Sono fatti salvi interessi preponderanti pubblici o privati che esigono l’osservanza del segreto; il segreto di fabbricazione e d’affari è in ogni caso protetto.[^19b-3]
 
 <sup>2</sup> L’UFAM informa periodicamente sullo stato della scienza e l’esperienza sugli effetti delle radiazioni degli impianti fissi sulle persone e sull’ambiente.
 
 [^19b-1]: Introdotto dal n. I dell’O del 17 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1491](https://fedlex.data.admin.ch/eli/oc/2019/288)).
+[^19b-2]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 583](https://fedlex.data.admin.ch/eli/oc/2023/583)).
+[^19b-3]: Introdotto dal n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 583](https://fedlex.data.admin.ch/eli/oc/2023/583)).
 
 ### Sezione 2: Disposizione transitoria ed entrata in vigore
 
@@ -308,7 +344,7 @@ Gli impianti cui, prima dell’entrata in vigore della modifica del 1° luglio 2
 
 La presente ordinanza entra in vigore il 1° febbraio 2000.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 4, 6, 8 cpv. 1, 9, 11, 12 e 16)
 
@@ -542,7 +578,7 @@ Le disposizioni del presente numero si applicano agli impianti di trasmissione p
 
 <sup>3</sup> Due gruppi di antenne trasmettono da uno spazio ristretto se almeno un’antenna di trasmissione di ognuno dei due gruppi di antenne si trova nel perimetro dell’altro gruppo di antenne.
 
-<sup>4</sup> Il perimetro di un gruppo di antenne è la superficie orizzontale formata dai cerchi di raggio *r* intorno a ogni antenna di trasmissione del gruppo di antenne. Il raggio *r* in metri è pari a: <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/it/xml/image/image1.png)</sub>; spiegazione dei simboli:
+<sup>4</sup> Il perimetro di un gruppo di antenne è la superficie orizzontale formata dai cerchi di raggio *r* intorno a ogni antenna di trasmissione del gruppo di antenne. Il raggio *r* in metri è pari a: <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20231101/it/xml/image/image1.png)</sub>; spiegazione dei simboli:
 
 - a.
 
@@ -695,9 +731,9 @@ Allegato 2
 <tr><td>3–100 kHz</td><td>87</td><td>5</td><td colspan="3">6,25</td><td>– <sup>a</sup></td></tr>
 <tr><td>100–150 kHz</td><td>87</td><td>5</td><td colspan="3">6,25</td><td>6</td></tr>
 <tr><td>0,15–1 MHz</td><td>87</td><td>0,73 / *f*</td><td colspan="3">0,92 / *f*</td><td>6</td></tr>
-<tr><td>1–10 MHz</td><td>87 /<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/it/xml/image/image2.png)</sub></td><td>0,73 / *f*</td><td colspan="3">0,92 / *f*</td><td>6</td></tr>
+<tr><td>1–10 MHz</td><td>87 / f</td><td>0,73 / *f*</td><td colspan="3">0,92 / *f*</td><td>6</td></tr>
 <tr><td>10–400 MHz</td><td>28</td><td>0,073</td><td colspan="3">0,092</td><td>6</td></tr>
-<tr><td>400–2000 MHz</td><td>1,375 · <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/it/xml/image/image2.png)</sub></td><td>0,0037 · <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/it/xml/image/image2.png)</sub></td><td colspan="3">0,0046 · <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/it/xml/image/image2.png)</sub></td><td>6</td></tr>
+<tr><td>400–2000 MHz</td><td>1,375 · f</td><td>0,0037 · f</td><td colspan="3">0,0046 · f</td><td>6</td></tr>
 <tr><td>2–10 GHz</td><td>61</td><td>0,16</td><td colspan="3">0,20</td><td>6</td></tr>
 <tr><td>10–300 GHz</td><td>61</td><td>0,16</td><td colspan="3">0,20</td><td>68 / *f* <sup>1.05</sup></td></tr>
 <tr><td colspan="7">*f* è la frequenza espressa nell’unità di misura indicata nella prima colonna della tabella. <sup>a</sup> È determinante il valore efficace più elevato (art. 14 cpv. 5).</td></tr>
@@ -709,7 +745,7 @@ Allegato 2
 <tr><td>Frequenza</td><td colspan="3">Valore limite d’immissione per il valore efficace della</td><td></td><td></td><td>Durata d’apprezzamento</td></tr>
 <tr><td></td><td>intensità del campo elettrico *E**<sub>P,f</sub>* (V/m)</td><td>intensità del campo magnetico *H**<sub>P,f</sub>* (A/m)</td><td colspan="3">densità del flusso magnetico *B**<sub>P,f</sub>* (µT)</td><td></td></tr>
 <tr><td>10–400 MHz</td><td>900</td><td>2,3</td><td colspan="3">2,9</td><td>durata dell’impulso</td></tr>
-<tr><td>400–2000 MHz</td><td>44 · <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/it/xml/image/image2.png)</sub></td><td>0,12 · <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/it/xml/image/image2.png)</sub></td><td colspan="3">0,15 · <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/it/xml/image/image2.png)</sub></td><td>durata dell’impulso</td></tr>
+<tr><td>400–2000 MHz</td><td>44· f</td><td>0.12· f</td><td colspan="3">0.15· f</td><td>durata dell’impulso</td></tr>
 <tr><td>2–300 GHz</td><td>1950</td><td>5,1</td><td colspan="3">6,4</td><td>durata dell’impulso</td></tr>
 <tr><td colspan="7">[tab] *f* è la frequenza in MHz.</td></tr>
 </table>
@@ -744,17 +780,17 @@ Il valore limite d’immissione per il valore efficace della corrente di contatt
 
 <table>
 <tr><th>N.</th><th>Intervallo di frequenza</th><th>Grandezza fisica</th><th>Prescrizioni sulla somma</th><th>Durata d’apprezzamento</th></tr>
-<tr><td>221</td><td>1 Hz–10 MHz</td><td>intensità del campo elettrico</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/it/xml/image/image3.png)</td><td>– <sup>a</sup></td></tr>
-<tr><td></td><td></td><td>intensità del campo magnetico</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/it/xml/image/image4.png)</td><td>– <sup>a</sup></td></tr>
-<tr><td></td><td></td><td>densità del flusso magnetico</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/it/xml/image/image5.png)</td><td>– <sup>a</sup></td></tr>
-<tr><td>222</td><td>100 kHz–300 GHz</td><td>intensità del campo elettrico</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/it/xml/image/image6.png)</td><td>6 minuti</td></tr>
-<tr><td></td><td></td><td>intensità del campo magnetico</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/it/xml/image/image6.png)</td><td>6 minuti</td></tr>
-<tr><td></td><td></td><td>densità del flusso magnetico</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/it/xml/image/image7.png)</td><td>6 minuti</td></tr>
-<tr><td>223</td><td>inoltre in caso di immissioni pulsate</td><td>intensità del campo elettrico</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/it/xml/image/image8.png)</td><td>durata dell’impulso</td></tr>
-<tr><td></td><td>10 MHz–300 GHz</td><td>intensità del campo magnetico</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/it/xml/image/image9.png)</td><td>durata dell’impulso</td></tr>
-<tr><td></td><td></td><td>densità del flusso magnetico</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/it/xml/image/image10.png)</td><td>durata dell’impulso</td></tr>
-<tr><td>224</td><td>10 MHz–110 MHz</td><td>corrente attraverso il corpo</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/it/xml/image/image11.png)</td><td>6 minuti</td></tr>
-<tr><td>225</td><td>1 Hz–110 MHz</td><td>corrente di contatto</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/it/xml/image/image12.png)</td><td>– <sup>a</sup></td></tr>
+<tr><td>221</td><td>1 Hz–10 MHz</td><td>intensità del campo elettrico</td><td>∑ 1 H z 1 M H z (E\_f)/(E\_G , f) + ∑ &gt; 1 M H z 10 M H z (E\_f)/(87)</td><td>– <sup>a</sup></td></tr>
+<tr><td></td><td></td><td>intensità del campo magnetico</td><td>∑ 1 H z 65 k H z (H\_f)/(H\_G , f) + ∑ &gt; 65 k H z 10 M H z (H\_f)/(5)</td><td>– <sup>a</sup></td></tr>
+<tr><td></td><td></td><td>densità del flusso magnetico</td><td>∑ 1 H z 65 k H z (B\_f)/(B\_G , f) + ∑ &gt; 65 k H z 10 M H z (B\_f)/(6,25)</td><td>– <sup>a</sup></td></tr>
+<tr><td>222</td><td>100 kHz–300 GHz</td><td>intensità del campo elettrico</td><td>∑ 100 k H z 1 M H z ( (E\_f)/(87) )^2 ∙ f + ∑ &gt; 1 M H z 300 G H z ( (E\_f)/(E\_G , f) )^2</td><td>6 minuti</td></tr>
+<tr><td></td><td></td><td>intensità del campo magnetico</td><td>∑ 100 k H z 1 M H z ( (H\_f)/(0,73) )^2 ∙ f^2 + ∑ &gt; 1 M H z 300 G H z ( (H\_f)/(H\_G , f) )^2</td><td>6 minuti</td></tr>
+<tr><td></td><td></td><td>densità del flusso magnetico</td><td>∑ 100 k H z 1 M H z ( (B\_f)/(0,92) )^2 ∙ f^2 + ∑ &gt; 1 M H z 300 G H z ( (B\_f)/(B\_G , f) )^2</td><td>6 minuti</td></tr>
+<tr><td>223</td><td>inoltre in caso di immissioni pulsate</td><td>intensità del campo elettrico</td><td>∑ 10 M H z 300 G H z ( (E\_f)/(E\_P , f) )^2</td><td>durata dell’impulso</td></tr>
+<tr><td></td><td>10 MHz–300 GHz</td><td>intensità del campo magnetico</td><td>∑ 10 M H z 300 G H z ( (H\_f)/(H\_P , f) )^2</td><td>durata dell’impulso</td></tr>
+<tr><td></td><td></td><td>densità del flusso magnetico</td><td>∑ 10 M H z 300 G H z ( (B\_f)/(B\_P , f) )^2</td><td>durata dell’impulso</td></tr>
+<tr><td>224</td><td>10 MHz–110 MHz</td><td>corrente attraverso il corpo</td><td>∑ 10 M H z 110 M H z ( (I\_K , f)/(45) )^2</td><td>6 minuti</td></tr>
+<tr><td>225</td><td>1 Hz–110 MHz</td><td>corrente di contatto</td><td>∑ 1 H z 110 M H z (I\_B , f)/(I\_B , G , f)</td><td>– <sup>a</sup></td></tr>
 <tr><td colspan="5"><sup>a</sup> Sono determinanti i valori efficaci più elevati (art. 14 cpv. 5).</td></tr>
 </table>
 
