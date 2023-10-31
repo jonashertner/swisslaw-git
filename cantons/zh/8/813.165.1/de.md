@@ -4,359 +4,236 @@ number: "813.165.1"
 title: Vollzugsverordnung zur Taxordnung des Kantonsspitals Winterthur (VVO TO KSW)
 short: VVO TO KSW
 language: de
-version: "2014-01-01"
-nachtrag: "84"
-valid_until: 2023-11-01
+nachtrag: "123"
+valid_until: 2025-01-01
 adopted: 2025-08-28
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_165_1-2010_12_30-2011_01_01-084.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_165_1-2023_07_07-2023_11_01-123.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Vollzugsverordnung zur Taxordnung des Kantonsspitals Winterthur KSW
+# Vollzugsverordnung zur Taxordnung des Kantonsspitals Winterthur (VVO TO KSW)
 
-(vom 30. Dezember 2010)<sup>1</sup>
+(vom 7. Juli 2023)[^t-1],[^t-2]
 
-Der Spitalrat,<sup>5</sup>
+Die Geschäftsleitung des Kantonsspitals Winterthur,
 
-gestützt auf § 29 der Taxordnung über Leistungen und Gebühren des Kantonsspitals Winterthur (Taxordnung KSW) vom 25. Juni 2008<sup>2</sup>,
+gestützt auf § 11 Ziff. 6 der Taxordnung über Leistungen und Gebühren des Kantonsspital Winterthur vom 7. Juli 2023 (TO KSW)<sup>3</sup>,
 
 beschliesst:
 
-### A. Allgemeine Bestimmungen
+[^t-1]: SwissDRG ist die Abkürzung für «Swiss Diagnosis Related Group» bzw. «diagnosebezogene (Fall-)Gruppe». Bei einer DRG-Vergütung wird jeder Aufenthalt in einem Spital einer diagnosebezogenen Fallgruppe zugeteilt. Jede DRG-Fallgruppe hat ein Kostengewicht, das mit dem erwähnten Basispreis multipliziert den Rechnungsbetrag ergibt. Basis ist die bei Austritt geltende SwissDRG-Version. Zusätzlich sind weitere Kosten für bestimmte hochteure Medikamente, Blutprodukte, Implantate und kostenintensive Behandlungen wie Hämo- und Peritonealdialysen möglich.
+[^t-2]: Beim Übertritt in die halbprivate oder private Abteilung wird der höhere Preis vom Übertrittstag an verrechnet. 1. 1. 24 - 123 1
 
 #### § 1
 
-**Begriffe**
+**Für ambulante Selbstzahlerinnen und Selbstzahler gemäss § 14 Tarife und Preise**
 
-<sup>1</sup> Als stationäre Behandlung gelten Aufenthalte im KSW von mindestens 24 Stunden zur Untersuchung, Behandlung und Pflege. Aufenthalte im KSW von weniger als 24 Stunden, bei denen während einer Nacht ein Bett belegt wird, sowie Aufenthalte im KSW bei Überweisung in ein anderes Spital und bei Todesfällen gelten ebenfalls als stationäre Behandlung.
+**für ambulante**
 
-<sup>2</sup> Alle übrigen Behandlungen gelten als ambulante Behandlungen.
+TO KSW gelten die folgenden Taxpunktwerte:
+
+Leistungen Ärztliche Spital- Labor Physio- Ergo- Logo- Ernährung-/ Stoma- Neuro- Still- Arznei-Leistungen leis- therapie therapie pädie Diabetes- beratung psycho- beratung/ mittelliste arztleis- (TARMED) tungen beratung 1.50 1.50 1.50 1.50 1.50 1.50 1.50 1.50 1.50 1.50
 
 #### § 2
 
-**Sonderleistungen**
+**Zahn-**
 
-Weitere Leistungen gemäss § 17 der Taxordnung KSW werden wie folgt verrechnet:
+**logie Hebammen mit Tarif tungen**
 
-1.<sup>5</sup> Prothesen, soweit es sich nicht um Implantate Einstandspreis, zuzüglich handelt, Materialien und andere Instrumente Bewirtschaftungs- oder Gegenstände, die dem Patienten mitgegeben werden die Pauschale bzw. die
+**1.50 1.50**
 
-**zuschlag von bis zu 20%, soweit nicht bereits durch**
+**Für akutsomatische stationäre Selbstzahlerinnen und Selbst- Tarife und Preise**
 
-### Entschädigung für die Basisleistung abgegolten
+**für akutsoma-**
 
-**Publikumspreis oder**
+zahler gemäss § 14 TO KSW gelten die folgenden Preise:
 
-- 2\. Bei Spitalaustritt mitgegebene Arzneimittel sowie von der Patientin oder vom Patienten Einstandspreis, zuzüglich gewünschte Arzneimittel, die nicht im Zusam- 20%, oder Herstellungsmenhang mit der Spitalbehandlung stehen
+tische stationäre Leistungen
 
-**kosten, zuzüglich 20% Rechnungsbetrag Fr. 60 bis Fr. 120 pro Stunde, zuzüglich Sachkosten**
+### Spitalleistungen Schweizerische Patientinnen und Patienten
 
-- 3\. Fremdtransport 4.<sup>5</sup> Transport und Transportbegleitung, soweit nicht bereits durch die Pauschale bzw.
+**Zusatzpreise halbprivate/private Abteilung**
 
-die Entschädigung für die Basisleistung abgegolten
+allgemeine Abteilung, sowie Patientinnen und Patienten mit Wohnsitz im Ausland halbprivate und private Abteilung SwissDRG-Pauschale (Baserate für Kosten- Nachtpauschale Nachtpauschale Pauschale für ärztliche gewicht 1.0) für Hotellerie &
 
-**1**
+**Klinische Mehrleistungen**
 
-**pro Stunde**
+**Komfort2 Leistungen2 (Basispreis für**
 
-- 1\. 4. 14 - 84 Versäumte, unentschuldigte Konsultationen Fr. 60 bis Fr. 120, zuzüglich Kosten von
+Erwachsene und Kinder[^hSpitalleistungenSch-1]
 
-**5.**
+Kostengewicht 1.0) Akutsomatik Patientinnen und Patienten 12 000 auf allen akutsomatischen Abteilungen Patientinnen und Patienten 12 000 auf der halbprivaten Abteilung Patientinnen und Patienten 12 000 auf der privaten Abteilung Die Preise sind in Franken.
 
-### Substanzen, die nicht
+Tarife und Preise § 3. Für nicht somatische stationäre Selbstzahlerinnen und Selbstfür nicht soma- zahler gemäss § 14 TO KSW gelten die folgenden Preise:
 
-wieder verwendet werden können
+tische stationäre Leistungen
 
-**6.**
+[^hSpitalleistungenSch-1]: SwissDRG ist die Abkürzung für «Swiss Diagnosis Related Group» bzw. «diagnosebezogene (Fall-)Gruppe». Bei einer DRG-Vergütung wird jeder Aufenthalt in einem Spital einer diagnosebezogenen Fallgruppe zugeteilt. Jede DRG-Fallgruppe hat ein Kostengewicht, das mit dem erwähnten Basispreis multipliziert den Rechnungsbetrag ergibt. Basis ist die bei Austritt geltende SwissDRG-Version. Zusätzlich sind weitere Kosten für bestimmte hochteure Medikamente, Blutprodukte, Implantate und kostenintensive Behandlungen wie Hämo- und Peritonealdialysen möglich.
 
-### Blutalkoholuntersuchungen
+### Spitalleistungen Schweizerische Patientinnen und Patienten
 
-**Fr. 120 Fr. 240**
+allgemeine Abteilung, sowie Patientinnen und Patienten mit Wohnsitz im Ausland halbprivate und private Abteilung TARPSY-Pauschale Zusatzpreise halbprivate/private Abteilung (Baserate für Kosten- Nachtpauschale Nachtpauschale Pauschale für ärztliche
 
-08.00–18.00 Uhr 18.00–08.00 Uhr
+**Klinische Mehrleistungen**
 
-**7.**
+gewicht 1.0) für Hotellerie &
 
-**Fr. 15 bis Fr. 80**
+**(Basispreis für**
 
-### Zeugnisse zuhanden des Arbeitgebers Übrige Zeugnisse und Gutachten, soweit nicht nach Tarmed oder
+Erwachsene und Kinder[^hSpitalleistungenSch_2-1] Komfort[^hSpitalleistungenSch_2-2] Leistungen[^hSpitalleistungenSch_2-2] Kostengewicht 1.0)
 
-**8.**
+[^hSpitalleistungenSch_2-1]: SwissDRG ist die Abkürzung für «Swiss Diagnosis Related Group» bzw. «diagnosebezogene (Fall-)Gruppe». Bei einer DRG-Vergütung wird jeder Aufenthalt in einem Spital einer diagnosebezogenen Fallgruppe zugeteilt. Jede DRG-Fallgruppe hat ein Kostengewicht, das mit dem erwähnten Basispreis multipliziert den Rechnungsbetrag ergibt. Basis ist die bei Austritt geltende SwissDRG-Version. Zusätzlich sind weitere Kosten für bestimmte hochteure Medikamente, Blutprodukte, Implantate und kostenintensive Behandlungen wie Hämo- und Peritonealdialysen möglich.
+[^hSpitalleistungenSch_2-2]: Beim Übertritt in die halbprivate oder private Abteilung wird der höhere Preis vom Übertrittstag an verrechnet. 1. 1. 24 - 123 1
 
-**den vereinbarten/**
+### Psychiatrie
 
-in der Pauschale enthalten empfohlenen Ansätzen
+Psychiatrische Abteilung Kinder- 840 klinik (TARPSY-Pauschale) Patientinnen und Patienten auf 840 445 der halbprivaten Abteilung Patientinnen und Patienten auf 840 529 der privaten Abteilung
 
-**9.**
+**471 6 080**
 
-### Persönliche Sonderleistungen wie
+**560 7 305**
 
-**Swisscom-Tarif zuzüglich Fr. 0.40 bis Gespräch zu**
+Die Preise sind in Franken.
 
-- a. Kosten für Telekommunikationsdienstleistungen, wie Telefon/Internet
+<sup>1</sup> TARPSY ist das Tarifsystem für stationäre psychiatrische Leistungen, das nach dem gleichen Modell funktioniert wie SwissDRG (Kostengewicht der psychiatrischen Kostengruppe [PCG] multipliziert mit Basispreis).
 
-### Fr. 1; zuzüglich 40% ab
+<sup>2</sup> Beim Übertritt in die halbprivate oder private Abteilung wird der höhere Preis vom Übertrittstag an verrechnet.
 
-Gespräch von Fr. 1; zuzüglich Fr. 25 ab
+### Wartepatientinnen und -patienten Schweizerische Patientinnen und Patienten
 
-### Gespräch von Fr. 60
+allgemeine Abteilung, sowie Patientinnen und Patienten mit Wohnsitz im Ausland halbprivate und private Abteilung allgemeine Abteilung halbprivate Abteilung Nachsorge indiziert (Hotellerie / 288 Betreuung)[^hWartepatientinnenun-1] Nachsorge nicht indiziert (Hotel- 450 lerie / Betreuung und Pflege)[^hWartepatientinnenun-2]
 
-**Fr. 20 pro Tag Fr. 11.20 pro Stück Fr. 3.05 pro Stück nach Aufwand Fr. 60 bis Fr. 120 pro Stunde, zuzüglich**
-
-- b. Notebookmiete
-
-- c. Kopfhörer Dialysestation
-
-- d. Kopfhörer
-
-- e. Todesfallkosten
-
-- f. Reparaturen von persönlichen Gegenständen, Kleiderunterhalt usw.
-
-### Sachkosten
-
-**nach Aufwand**
-
-- g. Reinigung der persönlichen Wäsche
-
-**pro Stunde, zuzüglich Sachkosten**
-
-- h. Leistungen der Verwaltung und des Sozial- Fr. 60 bis Fr. 120 dienstes wie Abklärung der Garantieverhältnisse, Ermitteln von Nachbetreuungsplätzen usw.
-
-**Fr. 60 bis Fr. 120 pro Stunde, zuzüglich Sachkosten**
-
-- i. Instandstellung von Einrichtungen, welche die Patientin oder der Patient beschädigt hat
-
-- j. Begleitung der Patientin oder des Patienten Fr. 60 bis Fr. 120 an den Wohnort, zu Ämtern oder dergleichen k.<sup>5</sup> Übersetzungen, Dolmetscherleistungen Fr. 60 bis Fr. 120 pro Stunde, zuzüglich
-
-### Sachkosten
-
-**nach Aufwand**
-
-l.<sup>5</sup> Sonstige Leistungen m.<sup>6</sup> a. Geburtsvorbereitung Grundkurs b. Geburtsvorbereitung Aufbaukurs c. Geburtsvorbereitung im Wasser für Paare Fr. 450 pro Paar d. Wochenendkurs für Paare inklusive
-
-**10.**
-
-**Fr. 340 pro Kurs Fr. 250 pro Kurs**
-
-**Fr. 460 pro Paar**
-
-### Mittagessen im Personalrestaurant
-
-**Fr. 140 pro Kurs Fr. 180 pro Kurs**
-
-- e. Rückbildungsgymnastik
-
-- f. Babymassage inkl. Massagebuch und Massageöl
-
-**11.**
-
-### Alle weiteren Leistungen, für die keine Tarif- Fr. 60 bis Fr. 500
-
-**Sachkosten**
-
-positionen in einem Tarifregelwerk vorhanden pro Stunde, zuzüglich sind
-
-**12.**
-
-### Übernachtungen/Verpflegung/Pflege
-
-für Begleitpersonen:
-
-**Fr. 25 pro Nacht**
-
-a.<sup>5</sup> Übernachtung mit Bettenbenützung im Patientenzimmer (ohne Mahlzeit) b. Übernachtung eines Begleitkindes (Säugling) mit Betreuung durch Mutter c. Übernachtung eines Begleitkindes mit Betreuung/Pflege d.<sup>8</sup> Übernachtung einer dementen Begleitperson mit Betreuung e.<sup>5</sup> Familienzimmer garni:
-
-**Fr. 20 pro Nacht**
-
-**Fr. 85 pro Nacht oder Fr. 270 pro Tag**
-
-**Fr. 288 pro Tag**
-
-**Fr. 150 pro Person und Tag**
-
-- Erwachsene f.<sup>5</sup> Familienzimmer Halbpension:
-
-**Fr. 170 pro Person und Tag**
-
-- Erwachsene g.<sup>5</sup> Familienzimmer Vollpension:
-
-**Fr. 185 pro Person und Tag Fr. 10 Fr. 20 Fr. 15**
-
-- Erwachsene
-
-- h. Frühstück für Begleitperson
-
-- i. Mittagessen für Begleitperson
-
-- j. Abendessen für Begleitperson
-
-**3**
-
-- 1\. 4. 14 - 84 § 3. Der Schulunterricht wird den Schulgemeinden zu den Ansätzen der Bildungsdirektion verrechnet.
-
-#### § 4
-
-**Schulunterricht**
-
-**Kleinbeiträge**
-
-Im Rechnungsverkehr zwischen Zahlungspflichtigen und dem KSW können Saldobeträge bis zu Fr. 20 ausgebucht werden. Beträge zugunsten des Zahlungspflichtigen können bei der Verwaltung des KSW abgeholt werden.
-
-**Ablehnung von Patientinnen und Patienten**
-
-§ 5.<sup>5</sup> <sup>1</sup> Schuldet eine Person dem KSW Taxen, wird sie nur dann aufgenommen, wenn sie den mutmasslichen Rechnungsbetrag für ihre Behandlung sicherstellt. Die Aufnahme in Notfällen bleibt vorbehalten.
-
-<sup>2</sup> Ist die Behandlung in einem anderen Spital oder im Wohnkanton möglich, kann eine Person abgewiesen werden.
-
-#### § 6
-
-**Weitere Leistungen**
-
-<sup>1</sup> Die Taxen für weitere Leistungen nach § 9 der Taxordnung KSW werden direkt mit der Patientin oder dem Patienten nach § 15 der Taxordnung KSW vereinbart.
-
-<sup>2</sup> Wird eine Leistung in Kombination mit einer Pflichtleistung nach den Standards der obligatorischen Krankenpflegeversicherung erbracht, kann das KSW die Pauschalen angemessen ermässigen. Die Ermässigung ist so anzusetzen, dass mindestens die Vollkosten gedeckt sind.
-
-<sup>3</sup> Für diese Leistungen ist vorgängig eine Depotzahlung geschuldet.<sup>4</sup>
-
-### B. Ambulante Behandlungen
-
-#### § 7
-
-**Ambulant Basis**
-
-Das KSW verrechnet Leistungen der Kategorie ambulant Basis nach § 10 der Taxordnung KSW.
-
-#### § 8
-
-**Ambulant Privat**
-
-<sup>1</sup> Für Leistungen der Kategorie ambulant Privat gemäss § 11 der Taxordnung KSW erhebt das KSW folgende prozentuale Zuschläge zu den Taxen gemäss § 10 der Taxordnung KSW:<sup>7</sup> a. für zürcherische Patientinnen und Patienten 0%, kein Zuschlag b. für schweizerische Patientinnen und Patienten 0%, kein Zuschlag c. für ausländische Patientinnen und Patienten 0%, kein Zuschlag
-
-<sup>2</sup> Die Rechnungsstellung für ärztliche Zusatzhonorare nach § 16 der Taxordnung KSW bleibt vorbehalten.
-
-### C. Stationäre Behandlungen
-
-#### § 9
-
-**Taxarten stationäre Behandlungen**
-
-Das KSW erhebt für stationäre Patientinnen und Patienten in der Regel:
-
-a.<sup>5</sup> Pauschalen (§ 13 Taxordnung KSW),
-
-- b. Zusatztaxen (§ 14 Taxordnung KSW),
-
-- c. Ärztliche Zusatzhonorare (§ 16 Taxordnung KSW).
-
-### 1. Pauschale<sup>5</sup>
-
-**Elemente der Pauschale**
-
-§ 10.<sup>5</sup> <sup>1</sup> Die Pauschale nach § 13 der Taxordnung KSW entspricht der ressourcenbezogenen Fallpreispauschale nach SwissDRG. Die Höhe dieser Fallpreispauschale ist variabel und hängt vom diagnostizierten Schweregrad der Krankheit und Verletzung bzw. der Ressourcenintensität der Behandlung und Betreuung (Fallgewichtung) ab. Die Fallpreispauschale umfasst mit wenigen Ausnahmen sämtliche Leistungen eines stationären Spitalaufenthaltes.
-
-<sup>2</sup> Gewisse Leistungen, insbesondere Palliative Care und Psychiatrie, können, entgegen der in Abs. 1 erwähnten Fallpreispauschale, nach tagesbezogenen Pauschalen verrechnet werden.
-
-**SwissDRG-Pauschale**
-
-§ 11.<sup>7</sup> <sup>1</sup> SwissDRG-Pauschale\* mit Basispreis für Kostengewicht 1.0 (Baserate) für Erwachsene/Kinder beträgt:
-
-Für Patienten mit Wohnsitz Zürcherische Schweizerische Ausländische Patientinnen Patientinnen Patientinnen und Patienten Basispreis (Baserate) 10 200
-
-**und und Patienten Patienten 10 200 10 200**
-
-<sup>2</sup> Der Basispreis basiert auf der jeweils gültigen SwissDRG Version.
-
-**Tagespauschalen**
-
-§ 12.<sup>5</sup> Die Tagespauschalen für Erwachsene/Kinder betragen (in Fr. pro Tag):
-
-Zürcherische Schweizerische Ausländische Patientinnen Patientinnen Patientinnen und Patienten Palliative Care 1 460 Psychiatrie – bis und mit 60 Tage 1 307 – ab 61. Tag 914
-
-**und und Patienten Patienten 1 460 1 460**
-
-**1 307 1 307 914 914**
-
-**Elemente der Zusatztaxe**
-
-§ 13.<sup>5</sup> Die Zusatztaxe nach § 14 der Taxordnung KSW setzt sich zusammen aus a. Teilpauschale mit Fallbezug nach § 14 dieser Verordnung,
-
-- b. Teilpauschale mit Nachtbezug nach § 14 dieser Verordnung.
-
-**Zusatztaxen**
-
-§ 14.<sup>5</sup> Die Zusatztaxen betragen (in Fr. pro Fall bzw. pro Nacht): Zürcherische Schweizerische Ausländische Patientinnen Patientinnen Patientinnen und Patienten a. Teilpauschale mit Fallbezug:
-
-**und und Patienten Patienten**
-
-**1 499 1 499 2 600 2 600**
-
-Halbprivate Behandlung 1 499 Private Behandlung 2 600 b. Teilpauschale mit Nachtbezug:
-
-**289 289 586 586**
-
-Halbprivate Behandlung 289 Private Behandlung 586
-
-- 2\. Zusatztaxe stationär
-
-**Zusätzliche verrechenbare Grundleistungen**
-
-§ 15.<sup>5</sup> Besondere diagnostische oder therapeutische Leistungen, die im Bereich der obligatorischen Krankenpflegeversicherung im Sinne von Art. 49 Abs. 2 des Bundesgesetzes über die Krankenversicherung<sup>3</sup> nicht in den allgemeinen Pauschalen nach § 11 und § 12 enthalten sind (z. B. Transplantationen, Dialysen, teuere Medikamente usw.), werden gesondert in Rechnung gestellt.
-
-**Warte-/ Pflegepatienten**
-
-§ 16.<sup>5</sup> <sup>1</sup> In Fällen, wo die Akutspitalbedürftigkeit im Sinne von Art. 49 Abs. 4 des Bundesgesetzes über die Krankenversicherung<sup>3</sup> nicht mehr gegeben ist, gelangt Art. 50 des Bundesgesetzes über die Krankenversicherung<sup>3</sup> in Anwendung.
-
-<sup>2</sup> Zusätzlich werden für Nicht-KVG-pflichtige-Leistungen tagesbezogene Pauschalen verrechnet (in Fr. pro Tag):
-
-**Private**
-
-Allgemeine Halbprivate Behandlung Behandlung Behandlung Nachsorge indiziert\* 288 (Hotellerie/Betreuung) Nachsorge nicht indiziert\*\* 450 (Hotellerie/Betreuung und Pflege)
+**private Abteilung**
 
 **336 384**
 
 **580 708**
 
-- 3\. Bestimmungen stationär
+Die Preise sind in Franken pro Tag.
 
-**Hospitalisation aus sozialer Indikation in der Kinder- und Jugendmedizin**
+<sup>1</sup> Unter indizierter Nachsorge wird eine stationäre Behandlung ausserhalb des KSW verstanden, die aufgrund organisatorischer Gründe (z.B. verzögerter Übertritt in ein Pflegeheim) nicht unmittelbar angetreten werden kann.
 
-§ 17.[^h1Pauschalesup5-1] In Fällen, wo das Kantonsspital Winterthur Kinder oder Jugendliche aus Schutzbedürftigkeitsgründen und/oder aus weiterer sozialer Indikation aufnimmt wird eine Pauschale von Fr. 635 pro Tag verrechnet.
+**445 471 6 080**
 
-**Verlegungen**
+<sup>2</sup> Unter nicht indizierter Nachsorge wird ein Aufenthalt im KSW aus persönlichen Gründen verstanden.
 
-§ 18.[^h1Pauschalesup5-1] Verlegungen werden nach den jeweils gültigen Regeln und Definitionen zur Fallabrechnung unter SwissDRG getätigt.
+**529 560 7 305**
 
-[^h1Pauschalesup5-1]: Fassung gemäss B vom 1. Dezember 2011 (OS 67, 118; ABl 2012, 174). In Kraft seit 1. Januar 2012.
+**Schweizerische Patientinnen**
 
-#### § 19
+**und Patienten 635**
 
-**Externe Verlegung**
+[^hWartepatientinnenun-1]: SwissDRG ist die Abkürzung für «Swiss Diagnosis Related Group» bzw. «diagnosebezogene (Fall-)Gruppe». Bei einer DRG-Vergütung wird jeder Aufenthalt in einem Spital einer diagnosebezogenen Fallgruppe zugeteilt. Jede DRG-Fallgruppe hat ein Kostengewicht, das mit dem erwähnten Basispreis multipliziert den Rechnungsbetrag ergibt. Basis ist die bei Austritt geltende SwissDRG-Version. Zusätzlich sind weitere Kosten für bestimmte hochteure Medikamente, Blutprodukte, Implantate und kostenintensive Behandlungen wie Hämo- und Peritonealdialysen möglich.
+[^hWartepatientinnenun-2]: Beim Übertritt in die halbprivate oder private Abteilung wird der höhere Preis vom Übertrittstag an verrechnet. 1. 1. 24 - 123 1
 
-<sup>1</sup> Erfolgt eine Verlegung in ein anderes Spital zwecks stationären Aufenthalts, stellt das KSW volle Teilpauschalen mit Fall- und Tagesbezug nach §§ 11–16 dieser Verordnung in Rechnung. Bei einer Rückverlegung im Anschluss an einen stationären Aufenthalt im Zweitspital wird keine zusätzliche Teilpauschale mit Fallbezug in Rechnung gestellt.
+### Sozial indizierte Patientinnen und Patienten mit Kindesschutzhospitalisation Wohnsitz in der Stadt Winterthur
 
-<sup>2</sup> Erfolgt eine Verlegung in ein anderes Spital nach einem Aufenthalt von weniger als 24 Stunden und ohne Bettenbelegung über Mitternacht, wird im KSW die Teilpauschale mit Fallbezug nach § 11 dieser Verordnung nur zu 50% verrechnet. Erfolgt im Anschluss an die Verlegung eine Rückverlegung ins KSW, gilt für Verlegung und Rückverlegung Abs. 1.
+Aufenthalt aus Schutzbedürftigkeit 488
 
-<sup>3</sup> Abs. 1 und 2 gelten sinngemäss auch für Verlegungen zum bzw. Rückverlegung vom Drittspital.
+Die Preise sind in Franken pro Tag.
 
-### D. Schlussbestimmungen
+#### § 4
 
-#### § 20
+**Für weitere Leistungen gemäss § 15 TO KSW gelten die fol- Preise für wei-**
 
-**Inkrafttreten**
+**tere Leistungen**
 
-Diese Verordnung tritt am 1. Januar 2011 in Kraft.
+genden Preise:
 
-## Weitere Fussnoten
+### Spitalleistungen
 
-- [*] DRG ist die Abkürzung für «Diagnosis Related Groups» bzw. «diagnosebezogene (Fall)-Gruppen». Bei einer DRG-Vergütung wird jeder Patient des Spitals einer diagnosebezogenen Fallgruppe zugeteilt. In einer bestimmten Fallgruppe finden sich dann Patienten mit ähnlichen klinischen Eigenschaften und ähnlichem Behandlungsaufwand (Kosten). Jede DRG-Fallgruppe hat ein Kostengewicht, welche mit dem oben erwähnten Basispreis multipliziert den Rechnungsbetrag ergibt. Basis ist die jeweils gültige SwissDRG-Version. 1. 4. 14 - 84 5
-- [*] Unter indizierter Nachsorge wird eine stationäre Behandlung ausserhalb des Kantonsspital Winterthur verstanden, welche jedoch aufgrund organisatorischer Gründe (z.B. Rehabilitation, Pflegeheim) nicht unmittelbar angetreten werden kann.
-- [**] Unter nicht indizierter Nachsorge wird ein Aufenthalt im Kantonsspital Winterthur aus persönlichen Gründen oder fehlendes Pflichtangebot der zuständigen Gemeinde verstanden. 1. 4. 14 - 84 7
-- [1] OS 66, 255; Begründung siehe ABl 2011, 496.
-- [2] LS 813.165.
-- [3] SR 832.10.
-- [4] Eingefügt durch B vom 1. Dezember 2011 (OS 67, 118; ABl 2012, 174). In Kraft seit 1. Januar 2012.
-- [6] Aufgehoben durch B vom 1. Dezember 2011 (OS 67, 118; ABl 2012, 174). In Kraft seit 1. Januar 2012.
-- [7] Fassung gemäss B vom 1. Dezember 2012 (OS 68, 94; ABl 2013-01-11). In Kraft seit 1. Januar 2013.
-- [8] Eingefügt durch B vom 1. Dezember 2013 (OS 69, 92; ABl 2014-01-17). In Kraft seit 1. Januar 2014.
+**Preis Preise zu individuellen Kurs-, Beratungs- und Therapieangeboten der Kliniken und Fachbereiche gemäss Webseite des KSW oder Offerte**
+
+Thema Beschreibung Kurse, Beratungen, Behandlungen und Therapien der Kliniken und Fachbereiche Leistungen für Betreuung eines Begleitkindes durch KSW-Per- Fr. 310 pro Tag Begleitpersonen sonal (inkl. Übernachtung mit Bettbenützung)
+
+**(inkl. Nacht) Fr. 100 pro Nacht**
+
+Übernachtung eines Begleitkindes mit Bett-
+
+benützung mit Betreuung durch KSW-Personal
+
+**Fr. 50 pro Nacht**
+
+Übernachtung eines Begleitkindes mit Bett-
+
+benützung mit Betreuung durch die Patientin
+
+oder den Patienten
+
+**Fr. 75 pro Nacht Fr. 310 pro Tag (inkl. Nacht)**
+
+Übernachtung mit Bettbenützung im Zimmer
+
+Betreuung einer dementen Begleitperson
+
+(inkl. Übernachtung mit Bettbenützung) Familiensuite
+
+(1 Begleitperson und 1 Geschwisterkind):
+
+**Fr. 300 pro Nacht Fr. 150 pro Nacht Fr. 50 pro Nacht Fr. 50 pro Nacht Fr. 10 pro Essen Fr. 7.50 pro Essen Fr. 8.50 pro Essen Fr. 20 pro Essen Fr. 15 pro Essen Fr. 15 pro Essen Fr. 12.50 pro Essen Preis gemäss Bestellzettel**
+
+- allgemein versichert
+
+- halbprivat versichert
+
+- privat versichert
+
+- Aufpreis für 2. Geschwisterkind Frühstück Frühstück Kinderklinik Frühstück koscher Mittagessen Mittagessen Kinderklinik Abendessen Abendessen Kinderklinik Warme Mahlzeit koscher Prothesen Prothesen, soweit es sich nicht um Implantate Einstandspreis, zuzüglich
+
+**Bewirtschaftungszuschlag**
+
+handelt, Materialien und andere Instrumente
+
+**bereits durch die Pauschale**
+
+oder Gegenstände, die der Patientin oder dem von bis zu 20%, soweit nicht Patienten mitgegeben werden bzw. die Entschädigung für die Basisleistung abgegolten
+
+**3**
+
+- 1\. 1. 24 - 123
+
+### Spitalleistungen
+
+**Preis**
+
+Thema Beschreibung Arzneimittel bei Spitalaustritt mitgegebene Arzneimittel sowie Publikumspreis oder Einvon der Patientin oder dem Patienten gewünschte standspreis (zuzüglich 20%) Arzneimittel, die nicht im Zusammenhang mit der oder Herstellungskosten Spitalbehandlung stehen Fremdtransport Transporte zum KSW und weg vom KSW durch Rechnungsbetrag des Dritten Dritte, wie Rettungsdienst, Taxi, Schweizerisches Rotes Kreuz usw.
+
+**(zuzüglich 20%)**
+
+**gemäss den geltenden**
+
+Klinikschule Schulunterricht für Patientinnen und Patienten Preise und Verrechnung in der Kinderklinik gesetzlichen Vorschriften Blutalkohol- Untersuchungszeit:
+
+**Fr. 120 Fr. 240 nach TARMED oder den vereinbarten oder empfohlenen**
+
+untersuchungen 08.00–18.00 Uhr 18.00–08.00 Uhr Zeugnisse, Berichte soweit nicht in den Versicherungsleistungen und Gutachten enthalten marktüblichen Ansätzen Todesfallkosten Kosten im Zusammenhang mit einem Todesfall nach Aufwand
+
+### Administrations-/Verwaltungsleistungen
+
+**Preis**
+
+Thema Beschreibung versäumte, nicht wahrgenommene Termine, die nicht min- Fr. 30 bis Fr. 150, zuzüglich unentschuldigte destens 24 Stunden im Voraus abgesagt wurden Kosten von Substanzen, Konsultationen werden können Mahnungen und Mahnspesen Betreibungen Betreibungsspesen Debitorenverluste Löschung von Betreibungen Dolmetscher- Dolmetscherinnen und Dolmetscher, die bei leistungen Bedarf für eine adäquate Kommunikation mit den zuzüglich Sachkosten Patientinnen und Patienten hinzugezogen werden
+
+### Weitere Leistungen
+
+**Preis Fr. 60 bis Fr. 500 pro Stunde, zuzüglich Sachkosten**
+
+Thema Beschreibung alle weiteren Beispiele (keine abschliessende Aufzählung):
+
+Leistungen, die – Reinigung der Privatwäsche nicht gesondert in – Instandstellung von Einrichtungen, welche dieser VVO TO KSW die Patientin oder der Patient beschädigt hat geregelt sind – Reparaturen von persönlichen Gegenständen
+
+**die nicht wiederverwendet**
+
+**Fr. 20 nach Aufwand nach Aufwand Fr. 30 Fr. 60 bis Fr. 120 pro Stunde,**
+
+<sup>1</sup> OS 78, 406; Begründung siehe ABl 2023-09-01. Vom Spitalrat genehmigt am 7. Juli 2023.
+
+<sup>2</sup> Inkrafttreten: 1. November 2023.
+
+<sup>3</sup> LS 813.165.
+
+**5**
+
+- 1\. 1. 24 - 123
