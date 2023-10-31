@@ -4,13 +4,12 @@ number: "958.11"
 title: Geldspielverordnung
 short: EVBGS
 language: de
-version: 2021-01-01
-valid_until: 2023-10-31
-version_adopted: 2021-02-24
+version: 2023-11-01
+version_adopted: 2023-09-26
 adopted: 2020-12-14
 in_force: 2021-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/958.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6782/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7830/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Geldspiele – V
 
 (EVBGS)
 
-vom 14.12.2020 (Fassung in Kraft getreten am 01.01.2021)
+vom 14.12.2020 (Fassung in Kraft getreten am 01.11.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -258,6 +257,14 @@ beschliesst:
 - a) Ort und Datum der Veranstaltung;
 - b) Summe aller Einsätze;
 - c) Art der Preise.
+
+<sup>2</sup> Zu rein kommerziellen Zwecken oder zur persönlichen Bereicherung darf keine Tombola organisiert werden. Wird die Organisation der Tombola einer Drittperson übertragen, so gewährt die Veranstalterin oder der Veranstalter ihr einen Betrag von höchstens 1000 Franken als Vergütung.
+
+<sup>3</sup> Der Höchstwert eines Preises, der einer Spielerin oder einem Spieler in Form eines Gutscheins abgegeben wird, beträgt 500 Franken.
+
+<sup>4</sup> Mindestens ein Viertel der Preise darf nicht in Form von Gutscheinen abgegeben werden.
+
+<sup>5</sup> Innert eines Monats nach Ende des Spiels übermittelt die Veranstalterin oder der Veranstalter, die oder der die Organisation der Tombola einer Drittperson übertragen hat, dem Amt einen kurzen Bericht über die Abrechnung des Spiels, den Aufwand und den Gewinn. Bis der Bericht eingereicht wurde, darf die Veranstalterin oder der Veranstalter keine neue Tombola organisieren.
 
 ## 6 Gemeinsame Bestimmungen
 

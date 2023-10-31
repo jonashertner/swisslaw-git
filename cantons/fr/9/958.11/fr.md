@@ -4,13 +4,12 @@ number: "958.11"
 title: "Ordonnance sur les jeux d'argent"
 short: OAJAr
 language: fr
-version: 2021-01-01
-valid_until: 2023-10-31
-version_adopted: 2021-02-24
+version: 2023-11-01
+version_adopted: 2023-09-26
 adopted: 2020-12-14
 in_force: 2021-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/958.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6782/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7830/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Jeux d'argent – O
 
 (OAJAr)
 
-du 14.12.2020 (version entrée en vigueur le 01.01.2021)
+du 14.12.2020 (version entrée en vigueur le 01.11.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -258,6 +257,14 @@ Arrête:
 - a) le lieu et la date de la manifestation;
 - b) la somme totale des mises;
 - c) le genre de lots.
+
+<sup>2</sup> Une tombola ne peut pas être organisée à des fins purement commerciales ou d'enrichissement personnel. Lorsque la tombola est confiée à un tiers organisateur, l'exploitant ou l'exploitante alloue à ce dernier un montant maximum de 1000 francs en guise de rétribution.
+
+<sup>3</sup> La valeur unitaire maximale d'un lot remis à un joueur ou à une joueuse sous forme de bon est fixée à 500 francs.
+
+<sup>4</sup> Le pavillon des lots doit être constitué pour un quart au moins de lots ne consistant pas en la remise de bons.
+
+<sup>5</sup> Dans le mois qui suit la fin du jeu, l'exploitant ou l'exploitante qui a confié la tombola à un tiers organisateur transmet au Service un rapport succinct sur le décompte de jeu, les charges et le bénéfice réalisé. L'exploitant ne peut pas organiser de nouvelle tombola tant que le rapport n'a pas été déposé.
 
 ## 6 Dispositions communes
 
