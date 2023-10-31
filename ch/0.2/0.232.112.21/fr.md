@@ -3,11 +3,11 @@ sr: "0.232.112.21"
 title: "Règlement d'exécution du 2 octobre 2018 du Protocole relatif à l'Arrangement de Madrid concernant l'enregistrement international des marques"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/338"
 language: fr
-version: 2023-02-01
+version: 2023-11-01
 adopted: 2018-10-02
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20230201/fr/xml/fedlex-data-admin-ch-eli-cc-2020-338-20230201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20230201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20231101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-338-20231101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20231101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -22,7 +22,7 @@ Adopté par l’Assemblée de l’Union de Madrid le 2 octobre 2018
 
 Entré en vigueur le 1<sup>er</sup> février 2020
 
-(État le 1<sup>er</sup> février 2023)
+(État le 1<sup>er</sup> novembre 2023)
 
 [^t-1]: Erratum du 12 avr. 2022 ([RO 2022 236](https://fedlex.data.admin.ch/eli/oc/2022/236)).
 
@@ -157,7 +157,9 @@ Les communications adressées au Bureau international doivent être effectuées 
 
 \1) [Mandataire; nombre de mandataires]
 
-\2) [Constitution du mandataire][^3-1]
+\2) [Constitution du mandataire]
+
+\3) [Constitution irrégulière]
 
 \4) [Inscription et notification de la constitution d’un mandataire; date de prise d’effet de la constitution d’un mandataire]
 
@@ -170,8 +172,8 @@ Les communications adressées au Bureau international doivent être effectuées 
 - c) Lorsqu’un cabinet ou bureau d’avocats, ou de conseils en brevets ou en marques, a été indiqué au Bureau international comme mandataire, il est considéré comme constituant un seul mandataire.
 - d) …
 
-- a)[^3-2] La constitution d’un mandataire peut être faite dans la demande internationale ou par le nouveau titulaire de l’enregistrement international dans une demande visée à la règle 25.1)a)i) qui doit contenir le nom et l’adresse, indiqués conformément aux instructions administratives, ainsi que l’adresse électronique du mandataire.
-- b)[^3-3]
+- a)[^3-1] La constitution d’un mandataire peut être faite dans la demande internationale ou par le nouveau titulaire de l’enregistrement international dans une demande visée à la règle 25.1)a)i) qui doit contenir le nom et l’adresse, indiqués conformément aux instructions administratives, ainsi que l’adresse électronique du mandataire.
+- b)[^3-2]
 
   La constitution d’un mandataire peut aussi être faite dans une communication distincte, à condition d’utiliser le formulaire officiel prévu, et elle peut se rapporter à une ou plusieurs demandes internationales spécifiées ou à un ou plusieurs enregistrements internationaux spécifiés du même déposant ou titulaire. Ce formulaire doit être présentée au Bureau international:
 
@@ -179,12 +181,12 @@ Les communications adressées au Bureau international doivent être effectuées 
   - ii) par l’Office de la partie contractante du titulaire.
 
 - Le formulaire doit être signée par le déposant ou le titulaire, ou par l’Office présentant la demande.
-- [tab] 3) [Constitution irrégulière]
+
 - a) Lorsque le Bureau international considère que la constitution d’un mandataire faite en vertu de l’al. 2) est irrégulière, il le notifie au déposant ou titulaire, au mandataire présumé et, si c’est un Office qui a adressé ou transmis l’acte de constitution, à cet Office.
 - b) Tant que les conditions applicables selon l’al. 2) ne sont pas remplies, le Bureau international adresse toutes les communications pertinentes au déposant ou titulaire mais pas au mandataire présumé.
 - c) …
 
-- a)[^3-4] Lorsque le Bureau international constate que la constitution d’un mandataire remplit les conditions fixées, il inscrit au registre international le fait que le déposant ou titulaire a un mandataire, ainsi que le nom, l’adresse et l’adresse électronique du mandataire. Dans ce cas, la date de prise d’effet de la constitution du mandataire est la date à laquelle le Bureau international a reçu la demande internationale, la demande ou la communication distincte dans laquelle le mandataire est constitué.
+- a)[^3-3] Lorsque le Bureau international constate que la constitution d’un mandataire remplit les conditions fixées, il inscrit au registre international le fait que le déposant ou titulaire a un mandataire, ainsi que le nom, l’adresse et l’adresse électronique du mandataire. Dans ce cas, la date de prise d’effet de la constitution du mandataire est la date à laquelle le Bureau international a reçu la demande internationale, la demande ou la communication distincte dans laquelle le mandataire est constitué.
 - b) Le Bureau international notifie l’inscription visée au sous‑alinéa a) à la fois au déposant ou titulaire et, dans ce dernier cas, aux Offices des parties contractantes désignées, ainsi qu’au mandataire. Lorsque la constitution de mandataire a été faite dans une communication distincte présentée par l’intermédiaire d’un Office, le Bureau international notifie aussi l’inscription à cet Office.
 
 - a) Sauf disposition expresse contraire du présent règlement d’exécution, la signature d’un mandataire inscrit selon l’al. 4)a) remplace la signature du déposant ou titulaire.
@@ -201,15 +203,14 @@ Les communications adressées au Bureau international doivent être effectuées 
   - ii) la date d’expiration d’une période de deux mois à compter de la réception de la communication par laquelle le mandataire demande la radiation de l’inscription.
 
 - Jusqu’à la date à laquelle la radiation prend effet, le Bureau international adresse toutes les communications visées à l’al. 5)b) à la fois au déposant ou titulaire et au mandataire.
-- d)[^3-5] Lorsqu’il reçoit une demande de radiation faite par le mandataire, le Bureau international notifie ce fait au déposant ou titulaire.
+- d)[^3-4] Lorsqu’il reçoit une demande de radiation faite par le mandataire, le Bureau international notifie ce fait au déposant ou titulaire.
 - e) Dès l’instant où la date de prise d’effet de la radiation est connue, le Bureau international notifie la radiation et la date à laquelle elle prend effet au mandataire dont l’inscription a été radiée, au déposant ou titulaire et, si la constitution du mandataire a été présentée par l’intermédiaire d’un Office, à cet Office.
 - f) Les radiations à la demande du titulaire ou du mandataire du titulaire sont également notifiées aux Offices des parties contractantes désignées.
 
-[^3-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> fév. 2021 ([RO 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
-[^3-2]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2021 ([RO 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
-[^3-3]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2022 ([RO 2023 67](https://fedlex.data.admin.ch/eli/oc/2023/67)).
+[^3-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2021 ([RO 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^3-2]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2022 ([RO 2023 67](https://fedlex.data.admin.ch/eli/oc/2023/67)).
+[^3-3]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2021 ([RO 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
 [^3-4]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2021 ([RO 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
-[^3-5]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2021 ([RO 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
 
 #### Règle 4
 
@@ -622,7 +623,7 @@ Le Bureau international inscrit au registre international les informations reçu
 
 \3) [Conditions supplémentaires relatives à une notification de refus provisoire fondé sur une opposition]
 
-Lorsque le refus provisoire de protection est fondé sur une opposition, ou sur une opposition et d’autres motifs, la notification doit non seulement remplir les conditions requises à l’al. 2) mais aussi indiquer ce fait ainsi que le nom et l’adresse de l’opposant; toutefois, nonobstant l’al. 2)v), l’Office qui fait la notification doit, lorsque l’opposition est fondée sur une marque qui a fait l’objet d’une demande ou d’un enregistrement, communiquer la liste des produits et services sur lesquels l’opposition est fondée et peut, en outre, communiquer la liste complète des produits et services de cette demande antérieure ou de cet enregistrement antérieur, étant entendu que lesdites listes peuvent être rédigées dans la langue de la demande antérieure ou de l’enregistrement antérieur.
+Lorsque le refus provisoire de protection est fondé sur une opposition, ou sur une opposition et d’autres motifs, la notification doit non seulement remplir les conditions requises à l’al. 2) mais aussi indiquer ce fait ainsi que le nom de l’opposant et du mandataire, le cas échéant, et, dans la mesure du possible, leur adresse; toutefois, nonobstant l’al. 2)v), l’Office qui fait la notification doit, lorsque l’opposition est fondée sur une marque qui a fait l’objet d’une demande ou d’un enregistrement, communiquer la liste des produits et services sur lesquels l’opposition est fondée et peut, en outre, communiquer la liste complète des produits et services de cette demande antérieure ou de cet enregistrement antérieur, étant entendu que lesdites listes peuvent être rédigées dans la langue de la demande antérieure ou de l’enregistrement antérieur.[^17-1]
 
 \4) [Inscription; transmission de copies des notifications]
 
@@ -631,6 +632,10 @@ Le Bureau international inscrit le refus provisoire au registre international av
 \5) [Déclarations relatives à la possibilité d’un réexamen]
 
 \6) …
+
+\7) [Informations concernant le délai de réponse à un refus provisoire]
+
+Les parties contractantes notifient au Bureau international la durée du délai visé à l’al. 2)vii) et la manière dont ce délai est calculé.[^17-2]
 
 - a) Une notification de refus provisoire peut comprendre une déclaration indiquant les motifs pour lesquels l’Office qui fait la notification considère que la protection ne peut être accordée dans la partie contractante concernée («refus provisoire d’office») ou une déclaration selon laquelle la protection ne peut être accordée dans la partie contractante concernée parce qu’une opposition a été déposée («refus provisoire fondé sur une opposition») ou ces deux déclarations.
 - b) Une notification de refus provisoire doit se rapporter à un seul enregistrement international, être datée et être signée par l’Office faisant la notification.
@@ -641,10 +646,12 @@ Une notification de refus provisoire contient ou indique:
 - ii) le numéro de l’enregistrement international, accompagné, de préférence, d’autres indications permettant de confirmer l’identité de l’enregistrement international, telles que les éléments verbaux de la marque ou le numéro de la demande de base ou de l’enregistrement de base;
 - iii) …
 - iv) tous les motifs sur lesquels le refus provisoire est fondé, accompagnés d’un renvoi aux dispositions essentielles correspondantes de la loi;
-- v)[^17-1] lorsque les motifs sur lesquels le refus provisoire est fondé se rapportent à une marque qui a fait l’objet d’une demande ou d’un enregistrement et avec laquelle la marque qui fait l’objet de l’enregistrement international semble être en conflit, la date et le numéro de dépôt, la date de priorité (le cas échéant), la date et le numéro d’enregistrement (s’ils sont disponibles), le nom et l’adresse du titulaire et une représentation de cette première marque ou la marche à suivre pour accéder à cette représentation, ainsi que la liste de tous les produits et services ou des produits et services pertinents figurant dans la demande ou l’enregistrement concernant cette première marque, étant entendu que ladite liste peut être rédigée dans la langue de ladite demande ou dudit enregistrement;
+- v)[^17-3] lorsque les motifs sur lesquels le refus provisoire est fondé se rapportent à une marque qui a fait l’objet d’une demande ou d’un enregistrement et avec laquelle la marque qui fait l’objet de l’enregistrement international semble être en conflit, la date et le numéro de dépôt, la date de priorité, le cas échéant, la date et le numéro d’enregistrement, s’ils sont disponibles, le nom du titulaire et du mandataire, le cas échéant, leur adresse, dans la mesure du possible, et une représentation de cette première marque ou la marche à suivre pour accéder à cette représentation, ainsi que la liste de tous les produits et services ou des produits et services pertinents figurant dans la demande ou l’enregistrement concernant cette première marque, étant entendu que ladite liste peut être rédigée dans la langue de ladite demande ou dudit enregistrement;
 - vi) soit que les motifs sur lesquels le refus provisoire est fondé concernent la totalité des produits et services, soit une indication des produits et services qui sont concernés, ou qui ne sont pas concernés, par le refus provisoire;
-- vii) le délai, raisonnable eu égard aux circonstances, pour présenter une requête en réexamen ou un recours se rapportant au refus provisoire d’office ou au refus provisoire fondé sur une opposition et, le cas échéant, pour présenter une réponse à l’opposition, de préférence avec une indication de la date à laquelle ledit délai expire, ainsi que l’autorité compétente pour connaître de cette requête en réexamen, de ce recours ou de cette réponse, avec indication, le cas échéant, de l’obligation de présenter la requête en réexamen, le recours ou la réponse par l’intermédiaire d’un mandataire qui a son adresse sur le territoire de la partie contractante dont l’Office a prononcé le refus;
-- viii) …
+- vii)[^17-4] le délai, de deux mois au moins[^17-5], pour présenter une requête en réexamen ou un recours se rapportant au refus provisoire d’office ou au refus provisoire fondé sur une opposition et, le cas échéant, pour présenter une réponse à l’opposition;
+- viii)[^17-6] lorsque le délai mentionné à l’al. 2)vii) commence à une date autre que celle à laquelle le Bureau international transmet une copie de la notification au titulaire ou celle à laquelle le titulaire reçoit ladite copie, une indication de la date à laquelle ledit délai commence et prend fin;
+- ix)[^17-7] l’autorité compétente pour connaître de cette requête en réexamen, de ce recours ou de cette réponse, et
+- x)[^17-8] une indication, le cas échéant, de l’obligation de présenter la requête en réexamen, le recours ou la réponse par l’intermédiaire d’un mandataire qui a son adresse sur le territoire de la partie contractante dont l’Office a prononcé le refus.
 
 - a) à c) …
 - d)
@@ -657,7 +664,14 @@ Une notification de refus provisoire contient ou indique:
 - Lorsque cette déclaration s’applique et que l’Office n’est pas en mesure de communiquer ladite décision directement au titulaire de l’enregistrement international concerné, l’Office adresse au Bureau international, nonobstant le fait que toutes les procédures devant ledit Office concernant la protection de la marque peuvent ne pas être achevées, la déclaration visée à la règle 18<sup>ter</sup>.2) ou 3) immédiatement après ladite décision. Toute nouvelle décision ayant une incidence sur la protection de la marque est adressée au Bureau international conformément à la règle 18<sup>ter</sup>.4).
 - e) L’Office d’une partie contractante peut, dans une déclaration, notifier au Directeur général le fait que, conformément à la législation de ladite partie contractante, un refus provisoire d’office notifié au Bureau international n’est pas susceptible de réexamen devant ledit Office. Lorsque cette déclaration s’applique, toute notification d’un refus provisoire d’office émise par ledit Office est réputée inclure une déclaration conformément à la règle 18<sup>ter</sup>.2)ii) ou 3).
 
-[^17-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> fév. 2023 ([RO 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
+[^17-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2023 ([RO 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^17-2]: Introduit par la D entrée en vigueur le 1<sup>er</sup> nov. 2023 ([RO 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^17-3]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2023 ([RO 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^17-4]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2023 ([RO 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^17-5]: En adoptant cette disposition, l’Assemblée de l’Union de Madrid a considéré que les parties contractantes dont la législation prévoit un délai de 60 jours civils ou consécutifs satisfont à la condition énoncée à la règle 17.2)vii).
+[^17-6]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2023 ([RO 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^17-7]: Introduit par la D entrée en vigueur le 1<sup>er</sup> nov. 2023 ([RO 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^17-8]: Introduit par la D entrée en vigueur le 1<sup>er</sup> nov. 2023 ([RO 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
 
 #### Règle 18
 
@@ -669,32 +683,40 @@ Une notification de refus provisoire contient ou indique:
 
 - a)
 
-  Une notification de refus provisoire communiquée par l’Office d’une partie contractante désignée en vertu de l’Arrangement n’est pas considérée comme telle par le Bureau international:
+  Une notification de refus provisoire communiquée par l’Office d’une partie contractante désignée n’est pas considérée comme telle par le Bureau international:[^18-1]
 
   - i) si elle ne contient aucun numéro d’enregistrement international, à moins que d’autres indications contenues dans la notification ne permettent d’identifier l’enregistrement international auquel le refus provisoire se rapporte;
   - ii) si elle n’indique aucun motif de refus, ou
-  - iii) si elle est adressée tardivement au Bureau international, c’est-à-dire après l’expiration du délai applicable en vertu de l’art. 5.2)a) ou, sous réserve de l’art. 9<sup>sexies</sup>.1)b) du Protocole, en vertu de l’art. 5.2.)b) ou c)ii) du Protocole, à compter de la date à laquelle a été effectuée l’inscription de l’enregistrement international ou l’inscription de la désignation postérieure à l’enregistrement international, étant entendu que cette date est la même que celle de l’envoi de la notification de l’enregistrement international ou de la désignation postérieure.
+  - iii)[^18-2] si elle est adressée tardivement au Bureau international, c’est-à-dire après l’expiration du délai applicable en vertu de l’art. 5.2)a) ou, sous réserve de l’art. 9<sup>sexies</sup>.1)b) du Protocole, en vertu de l’art. 5.2)b) ou c)ii) du Protocole, à compter de la date à laquelle le Bureau international a envoyé la notification de l’enregistrement international ou de la désignation postérieure.
 
-- b) Lorsque le sous-alinéa a) s’applique, le Bureau international transmet néanmoins une copie de la notification au titulaire, informe en même temps le titulaire et l’Office qui a envoyé la notification de refus provisoire que celle-ci n’est pas considérée comme telle par le Bureau international et en indique les raisons.
-- c)
+- b)[^18-3] Lorsque le sous-alinéa a) s’applique, le Bureau international transmet néanmoins une copie de la notification au titulaire, informe en même temps le titulaire et l’Office qui a envoyé la notification de refus provisoire que celle-ci n’est pas considérée comme telle par le Bureau international et en indique les raisons.
+- c)[^18-4]
 
   Si la notification:
 
   - i) n’est pas signée au nom de l’Office qui l’a communiquée, ou ne remplit pas les conditions fixées à la règle 2 ou la condition requise à la règle 6.2);
   - ii) ne contient pas, le cas échéant, d’indications détaillées sur la marque avec laquelle la marque qui fait l’objet de l’enregistrement international semble être en conflit (règle 17.2)v) et 3));
-  - iii) ne remplit pas les conditions fixées à la règle 17.2)vi);
-  - iv) ne remplit pas les conditions fixées à la règle 17.2)vii), ou
+  - iii) ne remplit pas les conditions fixées à la règle 17.2)vi), ou
+  - iv) …
   - v) …
-  - vi) ne contient pas, le cas échéant, le nom et l’adresse de l’opposant ni l’indication des produits et services sur lesquels l’opposition est fondée (règle 17.3)), le Bureau international, sauf lorsque le sous-alinéa d) s’applique, inscrit néanmoins le refus provisoire au registre international.
+  - vi) ne contient pas, le cas échéant, le nom et l’adresse de l’opposant ni l’indication des produits et services sur lesquels l’opposition est fondée (règle 17.3)),
 
-- Le Bureau international invite l’Office qui a communiqué le refus provisoire à envoyer une notification régularisée dans un délai de deux mois à compter de l’invitation et transmet au titulaire une copie de la notification de refus irrégulière et de l’invitation envoyée à l’Office concerné.
-- d) Lorsque la notification ne remplit pas les conditions fixées à la règle 17.2)vii), le refus provisoire n’est pas inscrit au registre international. Toutefois, si une notification régularisée est envoyée dans le délai mentionné au sous-alinéa c), elle sera réputée, aux fins de l’art. 5 du Protocole, avoir été envoyée au Bureau international à la date à laquelle la notification irrégulière lui avait été envoyée. Si la notification n’est pas régularisée dans ce délai, elle n’est pas considérée comme une notification de refus provisoire. Dans ce dernier cas, le Bureau international informe en même temps le titulaire et l’Office qui a envoyé la notification du fait que la notification de refus provisoire n’est pas considérée comme telle par le Bureau international et en indique les raisons.
-- e) Toute notification régularisée indique, lorsque la législation applicable le permet, un nouveau délai, raisonnable eu égard aux circonstances, pour présenter une requête en réexamen ou un recours se rapportant au refus provisoire prononcé d’office ou au refus provisoire fondé sur une opposition et, le cas échéant, pour présenter une réponse à l’opposition, avec de préférence une indication de la date à laquelle ledit délai expire.
-- f) Le Bureau international transmet une copie de toute notification régularisée au titulaire.
+- le Bureau international inscrit néanmoins le refus provisoire au registre international. Le Bureau international invite l’Office qui a communiqué le refus provisoire à envoyer une notification régularisée dans un délai de deux mois à compter de l’invitation et transmet au titulaire une copie de la notification irrégulière et de l’invitation envoyée à l’Office concerné.
+- d)[^18-5] Lorsque la notification ne remplit pas les conditions fixées à la règle 17.2)vii) à x), le refus provisoire n’est pas considéré comme tel et n’est pas inscrit au registre international. Le Bureau international en informe l’Office qui a communiqué le refus provisoire, en indique les raisons et transmet au titulaire une copie de la notification irrégulière. Toutefois, si l’Office envoie une notification régularisée dans les deux mois à partir de la date à laquelle le Bureau international a informé cet Office de la notification irrégulière, la notification régularisée sera réputée, aux fins de l’art. 5 du Protocole, avoir été envoyée à la date à laquelle la notification irrégulière avait été envoyée au Bureau international et sera inscrite au registre international.
+- e)[^18-6] Toute notification régularisée indique, lorsque la législation applicable le permet, un nouveau délai et contient des informations, conformément à la règle 17.2)vii) à x), pour présenter une requête en réexamen ou un recours se rapportant au refus provisoire prononcé d’office ou au refus provisoire fondé sur une opposition et, le cas échéant, pour présenter une réponse à l’opposition.
+- f)[^18-7] Le Bureau international transmet une copie de toute notification régularisée au titulaire.
 
 - a) …
 - b) L’al. 1)a) s’applique pour déterminer si le délai avant l’expiration duquel l’Office de la partie contractante concernée doit donner au Bureau international l’information visée à l’art. 5.2)c)i) du Protocole a été respecté. Si cette information est donnée après l’expiration de ce délai, elle est réputée ne pas avoir été donnée et le Bureau international en informe l’Office concerné.
 - c) Lorsque la notification de refus provisoire est faite en vertu de l’art. 5.2)c)ii) du Protocole sans que les conditions de l’art. 5.2)c)i) aient été remplies, cette notification de refus provisoire n’est pas considérée comme telle. Dans un tel cas, le Bureau international transmet néanmoins une copie de la notification au titulaire, informe en même temps le titulaire et l’Office qui a envoyé la notification du fait que la notification de refus provisoire n’est pas considérée comme telle par le Bureau international et en indique les raisons.
+
+[^18-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2023 ([RO 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^18-2]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2023 ([RO 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^18-3]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2023 ([RO 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^18-4]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2023 ([RO 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^18-5]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2023 ([RO 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^18-6]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2023 ([RO 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^18-7]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2023 ([RO 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
 
 #### Règle 18<sup>bis</sup>
 
@@ -1337,7 +1359,7 @@ Le Bureau international notifie le renouvellement aux Offices des parties contra
 
 \1) [Informations concernant les enregistrements internationaux]
 
-\2) [Informations concernant des exigences particulières et certaines déclarations de parties contractantes]
+\2) [Informations concernant des exigences particulières et certaines déclarations de parties contractantes, ainsi que d’autres informations générales][^32-1]
 
 \3) [Publications sur le site Internet]
 
@@ -1364,19 +1386,21 @@ Le Bureau international effectue les publications visées aux al. 1) et 2) sur l
   - xii) aux enregistrements internationaux qui n’ont pas été renouvelés;
   - xiii) aux inscriptions de la constitution du mandataire du titulaire communiquée en vertu de la règle 3.2)b) et aux radiations à la demande du titulaire ou du mandataire du titulaire en vertu de la règle 3.6)a).
 
-- b)[^32-1] La représentation de la marque est publiée telle qu’elle est fournie dans la demande internationale. Lorsque le déposant a fait la déclaration visée à la règle 9.4)a)vi), la publication indique ce fait.
-- c)[^32-2] …
+- b)[^32-2] La représentation de la marque est publiée telle qu’elle est fournie dans la demande internationale. Lorsque le déposant a fait la déclaration visée à la règle 9.4)a)vi), la publication indique ce fait.
+- c)[^32-3] …
 
 Le Bureau international publie dans la gazette:
 
-- i) toute notification faite en vertu des règles 7, 20<sup>bis</sup>.6), 27*bis*.6), 27<sup>ter</sup>.2)b) ou 40.6) et toute déclaration faite en vertu de la règle 17.5)d) ou e);
+- i)[^32-4] toute notification faite en vertu des règles 7, 17.7), 20<sup>bis</sup>.6), 27<sup>bis</sup>.6), 27<sup>ter</sup>.2)b) ou 40.6) et 7) et toute déclaration faite en vertu de la règle 17.5)d) ou e);
 - ii) toute déclaration faite en vertu de l’art. 5.2)b) ou de l’art. 5.2)b) et c), première phrase, du Protocole;
 - iii) toute déclaration faite en vertu de l’art. 8.7) du Protocole;
 - iv) toute notification faite en vertu de la règle 34.2)b) ou 3)a);
 - v) la liste des jours où il est prévu que le Bureau international ne sera pas ouvert au public pendant l’année civile en cours et l’année civile suivante.
 
-[^32-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> fév. 2023 ([RO 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
-[^32-2]: Abrogée par la D entrée en vigueur le 1<sup>er</sup> fév. 2023 ([RO 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
+[^32-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2023 ([RO 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^32-2]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> fév. 2023 ([RO 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
+[^32-3]: Abrogée par la D entrée en vigueur le 1<sup>er</sup> fév. 2023 ([RO 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
+[^32-4]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2023 ([RO 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
 
 #### Règle 33
 
@@ -1550,6 +1574,10 @@ Si, à la date à laquelle la présente règle entre en vigueur ou à la date à
 
 Aucun Office n’est tenu d’appliquer la seconde phrase de la règle 21.3)d) avant le 1<sup>er</sup> février 2025.[^40-1]
 
+\8) [Disposition transitoire relative aux règles 17.2)v) et vii) et 3) et 18.1)e)]
+
+Les parties contractantes peuvent continuer à appliquer les règles 17.2)v) et vii) et 3) et 18.1)e), telles qu’elles sont en vigueur au 1<sup>er</sup> novembre 2021, jusqu’au 1<sup>er</sup> février 2025 ou jusqu’à une date ultérieure, à condition que la partie contractante concernée envoie une notification au Bureau international avant le 1<sup>er</sup> février 2025 ou avant la date à laquelle cette partie contractante devient liée par le Protocole, la date la plus tardive étant retenue. La partie contractante peut retirer ladite notification à tout moment par la suite[^40-2].[^40-3]
+
 - a)
 
   Nonobstant l’al. 1):
@@ -1575,6 +1603,8 @@ Aucun Office n’est tenu d’appliquer la seconde phrase de la règle 21.3)d) a
 - b) Aux fins du présent alinéa, une demande internationale est réputée déposée à la date à laquelle la requête en présentation de la demande internationale au Bureau international a été reçue, ou est réputée avoir été reçue, conformément à la règle 11.1)a) ou c) du règlement d’exécution commun, par l’Office d’origine et un enregistrement international est réputé faire l’objet d’une désignation postérieure à la date à laquelle la désignation postérieure est présentée au Bureau international, si elle est présentée directement par le titulaire, ou à la date à laquelle la requête en présentation de la désignation postérieure a été remise à l’Office de la partie contractante du titulaire, si elle est présentée par l’intermédiaire de cet Office.
 
 [^40-1]: Introduit par la D entrée en vigueur le 1<sup>er</sup> nov. 2021 ([RO 2023 66](https://fedlex.data.admin.ch/eli/oc/2023/66)).
+[^40-2]: En adoptant cette disposition, l’Assemblée de l’Union de Madrid a considéré que les parties contractantes ne sont pas tenues de préciser dans la notification la date à laquelle elles appliqueront les règles 17.2)v) et vii) et 18.1)e), telles qu’elles sont entrées en vigueur le 1<sup>er</sup> novembre 2023.
+[^40-3]: Introduit par la D entrée en vigueur le 1<sup>er</sup> nov. 2023 ([RO 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
 
 #### Règle 41
 

@@ -3,11 +3,11 @@ sr: "0.232.112.21"
 title: "Regolamento di esecuzione del 2 ottobre 2018 concernente il Protocollo relativo all'Accordo di Madrid per la registrazione internazionale dei marchi"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/338"
 language: it
-version: 2023-02-01
+version: 2023-11-01
 adopted: 2018-10-02
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20230201/it/xml/fedlex-data-admin-ch-eli-cc-2020-338-20230201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20230201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20231101/it/xml/fedlex-data-admin-ch-eli-cc-2020-338-20231101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20231101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Adottato dall’Assemblea dell’Unione di Madrid il 2 ottobre 2018 Entrata in vigore il 1° febbraio 2020
 
-(Stato 1° febbraio 2023)
+(Stato 1° novembre 2023)
 
 [^t-1]: Correzione del 12 apr. 2022 ([RU 2022 236](https://fedlex.data.admin.ch/eli/oc/2022/236)).
 
@@ -594,14 +594,16 @@ Una notifica di rifiuto provvisorio contiene o indica:
 - ii) il numero della registrazione internazionale, accompagnato, di preferenza, da altre indicazioni che permettono di confermare l’identità della registrazione internazionale, come gli elementi verbali della marca o il numero della domanda di base o della registrazione di base;
 - iii) …
 - iv) tutti i motivi sui quali è fondato il rifiuto provvisorio, accompagnati da un rinvio alle corrispondenti disposizioni essenziali della legge;
-- v)[^chap4-lvlu2-1] quando i motivi su cui si fonda il rifiuto provvisorio si riferiscono ad un marchio che è stato oggetto di una domanda o di una registrazione e con cui il marchio che è oggetto della registrazione internazionale appare essere in conflitto, la data ed il numero di deposito, la data di priorità (all’occorrenza), la data ed il numero di registrazione (se sono disponibili), il nome e l’indirizzo del titolare ed una rappresentazione di questo primo marchio o come procedere per accedere a questa rappresentazione, nonché l’elenco di tutti i prodotti e servizi o dei prodotti e servizi pertinenti che figurano nella domanda o la registrazione riguardante questo primo marchio, essendo convenuto che il suddetto elenco può essere redatto nella lingua della suddetta domanda o della suddetta registrazione;
+- v)[^chap4-lvlu2-1] quando i motivi su cui si fonda il rifiuto provvisorio si riferiscono ad un marchio che è stato oggetto di una domanda o di una registrazione e con cui il marchio che è oggetto della registrazione internazionale appare essere in conflitto, la data ed il numero di deposito, la data di priorità, all’occorrenza, la data ed il numero di registrazione, se sono disponibili, il nome del titolare e del mandatario, all’occorrenza, il loro indirizzo, nella misura del possibile, ed una rappresentazione di questo primo marchio o come procedere per accedere a questa rappresentazione, nonché l’elenco di tutti i prodotti e servizi o dei prodotti e servizi pertinenti che figurano nella domanda o la registrazione riguardante questo primo marchio, essendo convenuto che il suddetto elenco può essere redatto nella lingua della suddetta domanda o della suddetta registrazione;
 - vi) sia che i motivi su cui è fondato il rifiuto provvisorio concernono la totalità dei prodotti e servizi, sia un’indicazione dei prodotti e servizi che sono interessati, o che non sono interessati, dal rifiuto provvisorio;
-- vii) il termine, ragionevole considerate le circostanze, per presentare una richiesta di riesame o un ricorso riferito al rifiuto provvisorio d’ufficio o al rifiuto provvisorio fondato su un’opposizione e, all’occorrenza, per presentare una risposta all’opposizione, preferibilmente con un’indicazione della data in cui il suddetto termine spira, nonché l’autorità competente per giudicare tale richiesta di riesame, tale ricorso o tale risposta, con l’indicazione, all’occorrenza, dell’obbligo di presentare la richiesta di riesame, il ricorso o la risposta tramite un mandatario che ha l’indirizzo sul territorio della parte contraente il cui Ufficio ha pronunciato il rifiuto.
-- viii) …
+- vii)[^chap4-lvlu2-2] il termine, di almeno due mesi[^chap4-lvlu2-3], per presentare una richiesta di riesame o un ricorso riferito al rifiuto provvisorio d’ufficio o al rifiuto provvisorio fondato su un’opposizione e, all’occorrenza, per presentare una risposta all’opposizione;
+- viii)[^chap4-lvlu2-4] quando il termine menzionato al punto 2) vii) decorre da una data diversa da quella in cui l’Ufficio internazionale trasmette una copia della notifica al titolare o in cui il titolare riceve suddetta copia, un’indicazione della data in cui il suddetto termine comincia e spira;
+- ix)[^chap4-lvlu2-5] l’autorità competente per giudicare tale richiesta di riesame, tale ricorso o tale risposta; e
+- x)[^chap4-lvlu2-6] un’indicazione, all’occorrenza, dell’obbligo di presentare la richiesta di riesame, il ricorso o la risposta tramite un mandatario che ha l’indirizzo sul territorio della parte contraente il cui Ufficio ha pronunciato il rifiuto.
 
 \3) [Condizioni supplementari riguardanti una notifica di rifiuto provvisorio fondato su un’opposizione]
 
-Quando il rifiuto provvisorio è fondato su un’opposizione, o su un’opposizione ed altri motivi, la notifica deve non soltanto soddisfare le condizioni richieste al punto 2) ma altresì indicare questo fatto nonché il nome e l’indirizzo dell’oppositore; tuttavia, nonostante il punto 2)v), l’Ufficio che fa la notifica deve, quando l’opposizione è fondata su un marchio che è stato oggetto di una domanda o di una registrazione, comunicare l’elenco dei prodotti e servizi su cui si fonda l’opposizione e può, inoltre, comunicare l’elenco completo dei prodotti e servizi di tale domanda precedente o di tale registrazione precedente, essendo convenuto che i suddetti elenchi possono essere redatti nella lingua della domanda precedente o della registrazione precedente.
+Quando il rifiuto provvisorio è fondato su un’opposizione, o su un’opposizione ed altri motivi, la notifica deve non soltanto soddisfare le condizioni richieste al punto 2) ma altresì indicare questo fatto nonché il nome dell’oppositore e del mandatario, all’occorrenza, e, nella misura del possibile, il loro indirizzo; tuttavia, nonostante il punto 2) v), l’Ufficio che fa la notifica deve, quando l’opposizione è fondata su un marchio che è stato oggetto di una domanda o di una registrazione, comunicare l’elenco dei prodotti e servizi su cui si fonda l’opposizione e può, inoltre, comunicare l’elenco completo dei prodotti e servizi di tale domanda precedente o di tale registrazione precedente, essendo convenuto che i suddetti elenchi possono essere redatti nella lingua della domanda precedente o della registrazione precedente.[^chap4-lvlu2-7]
 
 \4) [Iscrizione; trasmissione di copie delle notifiche]
 
@@ -622,7 +624,18 @@ L’Ufficio internazionale iscrive il rifiuto provvisorio sul registro internazi
 
 \6) …
 
-[^chap4-lvlu2-1]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2023 ([RU 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
+\7) [Informazioni relative al termine di risposta a un rifiuto provvisorio]
+
+Le parti contraenti notificano all’Ufficio internazionale la durata del termine previsto al punto 2) vii) e la modalità di calcolo di tale termine.[^chap4-lvlu2-8]
+
+[^chap4-lvlu2-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^chap4-lvlu2-2]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^chap4-lvlu2-3]: Quando ha adottato questa disposizione l’Assemblea dell’Unione di Madrid ha considerato che le parti contraenti la cui legislazione prevede un termine di 60 giorni feriali o consecutivi adempiono la condizione stabilita dalla regola 17.2) vii).
+[^chap4-lvlu2-4]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^chap4-lvlu2-5]: Introdotto dalla mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^chap4-lvlu2-6]: Introdotto dalla mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^chap4-lvlu2-7]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^chap4-lvlu2-8]: Introdotto dalla mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
 
 ### **Regola 18**Notifiche irregolari di rifiuto provvisorio
 
@@ -634,30 +647,37 @@ L’Ufficio internazionale iscrive il rifiuto provvisorio sul registro internazi
 
   - i) se essa non contiene nessun numero di registrazione internazionale, a meno che altre indicazioni contenute nella notifica non permettano di identificare la registrazione internazionale alla quale si riferisce il rifiuto provvisorio;
   - ii) se essa non indica alcun motivo di rifiuto; oppure
-  - iii) se essa è indirizzata tardivamente all’Ufficio internazionale, cioè dopo la scadenza del termine applicabile in virtù dell’articolo 5.2)a) o, fatto salvo l’articolo 9<sup>sexies</sup>.1)b) del Protocollo, in virtù dell’articolo 5.2)b) oppure c)ii) del Protocollo, a decorrere dalla data in cui è stata effettuata l’iscrizione della registrazione internazionale o l’iscrizione della designazione successiva alla registrazione internazionale, essendo convenuto che tale data è la medesima di quella dell’invio della notifica della registrazione internazionale o della designazione successiva.
+  - iii)[^chap4-lvlu3-1] se essa è indirizzata tardivamente all’Ufficio internazionale, cioè dopo la scadenza del termine applicabile in virtù dell’articolo 5.2) a) o, fatto salvo l’articolo 9<sup>sexies</sup>.1) b) del Protocollo, in virtù dell’articolo 5.2) b) oppure c) ii) del Protocollo, a decorrere dalla data in cui l’Ufficio internazionale ha inviato la notifica della registrazione internazionale o della designazione successiva.
 
-- b) Quando si applica il punto a), l’Ufficio internazionale trasmette ciononostante una copia della notifica al titolare, informa contemporaneamente il titolare e l’Ufficio che ha inviato la notifica di rifiuto provvisorio del fatto che questa notifica non è considerata come tale dall’Ufficio internazionale e ne indica i motivi.
-- c)
+- b)[^chap4-lvlu3-2] Quando si applica il punto a), l’Ufficio internazionale trasmette ciononostante una copia della notifica al titolare, informa contemporaneamente il titolare e l’Ufficio che ha inviato la notifica di rifiuto provvisorio del fatto che questa notifica non è considerata come tale dall’Ufficio internazionale e ne indica i motivi.
+- c)[^chap4-lvlu3-3]
 
   Se la notifica:
 
   - i) non è firmata a nome dell’Ufficio che l’ha comunicata, o non soddisfa le condizioni oggetto della regola 2 o la condizione stabilita dalla regola 6.2);
-  - ii) non contiene, all’occorrenza, indicazioni dettagliate sul marchio con cui il marchio oggetto della registrazione internazionale appare essere in conflitto (regola 17.2)v) e 3));
-  - iii) non soddisfa le condizioni stabilite dalla regola 17.2)vi);
-  - iv) non soddisfa le condizioni stabilite dalla regola 17.2)vii); o
+  - ii) non contiene, all’occorrenza, indicazioni dettagliate sul marchio con cui il marchio oggetto della registrazione internazionale appare essere in conflitto (regola 17.2) v) e 3));
+  - iii) non soddisfa le condizioni stabilite dalla regola 17.2) vi); o
+  - iv) ...
   - v) …
-  - vi) non contiene, all’occorrenza, il nome e l’indirizzo dell’opponente e neppure l’indicazione dei prodotti e servizi su cui è fondata l’opposizione (regola 17.3); l’Ufficio internazionale, salvo quando si applica il punto d), iscrive ciononostante il rifiuto provvisorio nel registro internazionale.
+  - vi) non contiene, all’occorrenza, il nome e l’indirizzo dell’opponente e neppure l’indicazione dei prodotti e servizi su cui è fondata l’opposizione (regola 17.3));
 
-- L’Ufficio internazionale invita l’Ufficio che ha comunicato il rifiuto provvisorio a inviare una notifica regolarizzata entro due mesi a decorrere dall’invito e trasmette al titolare una copia della notifica irregolare di rifiuto e dell’invito inviato all’Ufficio interessato.
-- d) Quando la notifica non soddisfa le condizioni stabilite dalla regola 17.2)vii), il rifiuto provvisorio non è iscritto nel registro internazionale. Ciononostante, se una notifica regolarizzata è inviata entro il termine previsto al punto c), essa sarà considerata, ai sensi dell’articolo 5 del Protocollo, essere stata inviata all’Ufficio internazionale alla data in cui la notifica irregolare gli era stata inviata. Se la notifica non è regolarizzata entro questi termini, essa non è considerata come notifica di rifiuto provvisorio. In quest’ultimo caso, l’Ufficio internazionale informa contemporaneamente il titolare e l’Ufficio che ha inviato la notifica del fatto che la notifica di rifiuto provvisorio non è considerata come tale dall’Ufficio internazionale e ne indica i motivi.
-- e) Ogni notifica regolarizzata indica, quando lo permette la legislazione applicabile, un nuovo termine, ragionevole considerate le circostanze, per presentare una richiesta di riesame o un ricorso in relazione al rifiuto provvisorio pronunciato d’ufficio o al rifiuto provvisorio fondato su un’opposizione e, all’occorrenza, per presentare una risposta all’opposizione, preferibilmente con un’indicazione della data di scadenza del termine.
-- f) L’Ufficio internazionale trasmette una copia di ogni notifica regolarizzata al titolare.
+- l’Ufficio internazionale iscrive ciononostante il rifiuto provvisorio nel registro internazionale. L’Ufficio internazionale invita l’Ufficio che ha comunicato il rifiuto provvisorio a inviare una notifica regolarizzata entro due mesi a decorrere dall’invito e trasmette al titolare una copia della notifica irregolare di rifiuto e dell’invito inoltrato all’Ufficio interessato.
+- d)[^chap4-lvlu3-4] Quando la notifica non soddisfa le condizioni stabilite dalla regola 17.2) vii)–x), il rifiuto provvisorio non è considerato tale e non è iscritto nel registro internazionale. L’Ufficio internazionale informa in merito l’Ufficio che ha comunicato il rifiuto provvisorio, ne indica i motivi e trasmette al titolare una copia della notifica irregolare. Ciononostante, se l’Ufficio invia una notifica regolarizzata entro due mesi dalla data in cui l’Ufficio internazionale ha informato detto Ufficio della notifica irregolare, la notifica regolarizzata sarà considerata, ai sensi dell’articolo 5 del Protocollo, essere stata inviata alla data in cui la notifica irregolare era stata inviata all’Ufficio internazionale e sarà iscritta nel registro internazionale.
+- e)[^chap4-lvlu3-5] Ogni notifica regolarizzata indica, quando lo permette la legislazione applicabile, un nuovo termine e contiene le informazioni di cui alla regola 17.2) vii)–x) per presentare una richiesta di riesame o un ricorso in relazione al rifiuto provvisorio pronunciato d’ufficio o al rifiuto provvisorio fondato su un’opposizione e, all’occorrenza, per presentare una risposta all’opposizione.
+- f)[^chap4-lvlu3-6] L’Ufficio internazionale trasmette una copia di ogni notifica regolarizzata al titolare.
 
 \2) [Notifica di rifiuto provvisorio effettuata secondo l’articolo 5.2)c) del Protocollo]
 
 - a) ...
 - b) L<sup>’</sup>alinea 1)a) si applica per determinare se il termine prima della cui scadenza l’Ufficio della parte contraente interessata deve fornire all’Ufficio internazionale l<sup>’</sup>informazione oggetto dell’articolo 5.2)c)i) del Protocollo, è stato rispettato. Se tale informazione è fornita dopo la scadenza di tale termine, essa è considerata come se non fosse stata fornita e l’Ufficio internazionale ne informa l’Ufficio interessato.
 - c) Quando la notifica di rifiuto provvisorio è fatta in virtù dell’articolo 5.2)c)ii) del Protocollo senza che le condizioni dell’articolo 5.2)c)i) siano state soddisfatte, tale notifica di rifiuto provvisorio non è considerata tale. In questo caso, l’Ufficio internazionale trasmette ciononostante una copia della notifica al titolare, informa contemporaneamente il titolare e l’Ufficio che ha inviato la notifica del fatto che la notifica di rifiuto provvisorio non è considerata tale dall’Ufficio internazionale e ne indica i motivi.
+
+[^chap4-lvlu3-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^chap4-lvlu3-2]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^chap4-lvlu3-3]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^chap4-lvlu3-4]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^chap4-lvlu3-5]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^chap4-lvlu3-6]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
 
 ### **Regola 18**<sup>bis</sup>Situazione provvisoria del marchio in una parte contraente designata
 
@@ -900,15 +920,15 @@ Si applicano gli alinea 1) e 2), *mutatis mutandis*, alla divisione di qualsiasi
 
 ### **Regola 23**<sup>bis</sup> Comunicazioni degli Uffici delle parti contraenti designate inviate per il tramite dell’Ufficio internazionale
 
-(1) [Comunicazioni che non rientrano nel presente regolamento di esecuzione]
+\1) [Comunicazioni che non rientrano nel presente regolamento di esecuzione]
 
 Quando la legislazione di una parte contraente designata non autorizza l’Ufficio a trasmettere una comunicazione inerente a una registrazione internazionale direttamente al titolare, tale Ufficio può chiedere all’Ufficio internazionale di trasmettere la comunicazione a suo nome al titolare.
 
-(2) [Formato della comunicazione]
+\2) [Formato della comunicazione]
 
 L’Ufficio internazionale definisce il formato per la trasmissione della comunicazione di cui all’alinea 1) da parte dell’Ufficio interessato.
 
-(3) [Trasmissione al titolare]
+\3) [Trasmissione al titolare]
 
 L’Ufficio internazionale trasmette al titolare la comunicazione di cui all’alinea 1) nel formato definito dall’Ufficio internazionale, senza esaminarne il contenuto e senza iscriverla nel registro internazionale.
 
@@ -928,7 +948,7 @@ L’Ufficio internazionale trasmette al titolare la comunicazione di cui all’a
 
   Una designazione successiva deve essere presentata all’Ufficio internazionale dal titolare o dall’Ufficio della parte contraente del titolare; tuttavia:
 
-  - i) …
+  - i) ...
   - ii) ...
   - iii) quando si applica l’alinea 7), la designazione successiva risultante da una conversione deve essere presentata dall’Ufficio dell’organizzazione contraente.
 
@@ -1286,7 +1306,7 @@ L’Ufficio internazionale notifica il rinnovo agli Uffici delle parti contraent
 
 L’Ufficio internazionale pubblica sul bollettino:
 
-- i) qualsiasi notifica fatta in virtù delle regole 7, 20<sup>bis</sup> 6), 27<sup>bis</sup> 6), 27<sup>ter</sup> 2) b) o 40 6) e qualsiasi dichiarazione fatta in virtù della regola 17 5) d) o e);
+- i)[^chap7-lvlu1-3] qualsiasi notifica fatta in virtù delle regole 7, 17.7), 20bis.6), 27bis.6), 27ter.2) b) o 40.6) e 7) e qualsiasi dichiarazione fatta in virtù della regola 17.5) d) o e);
 - ii) qualsiasi dichiarazione fatta in virtù dell’articolo 5.2)b) o dell’articolo 5.2)b) e c), prima frase, del Protocollo;
 - iii) qualsiasi dichiarazione fatta in virtù dell’articolo 8.7) del Protocollo;
 - iv) qualsiasi notifica fatta in virtù della regola 34.2)b) o 3)a);
@@ -1300,6 +1320,7 @@ L’Ufficio internazionale effettua le pubblicazioni di cui agli alinea 1) e 2) 
 
 [^chap7-lvlu1-1]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2023 ([RU 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
 [^chap7-lvlu1-2]: Abrogata dalla mod. con effetto dal 1° feb. 2023 ([RU 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
+[^chap7-lvlu1-3]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
 
 ### **Regola 33**Base dati informatizzata
 
@@ -1482,7 +1503,13 @@ Se, alla data in cui la presente regola entra in vigore o alla data in cui una p
 
 Nessun Ufficio è tenuto ad applicare il secondo periodo della regola 21.3)d) prima del 1° febbraio 2025.[^chap9-lvlu2-1]
 
+\8) [Disposizione transitoria relativa alle regole 17.2) v) e vii) e 3) e 18.1) e)]
+
+Le parti contraenti possono continuare ad applicare le regole 17.2) v) e vii) e 3) e 18.1) e) nel tenore in vigore al 1° novembre 2021 fino al 1° febbraio 2025 o fino a una data successiva, a condizione che la parte contraente interessata notifichi questo fatto all’Ufficio internazionale prima del 1° febbraio 2025 o della data in cui la suddetta parte contraente diventa vincolata dal Protocollo, se questa seconda data è posteriore. In seguito, la parte contraente può ritirare la suddetta notifica in ogni momento[^chap9-lvlu2-2].[^chap9-lvlu2-3]
+
 [^chap9-lvlu2-1]: Introdotto dalla mod. in vigore dal 1° nov. 2021 ([RU 2023 66](https://fedlex.data.admin.ch/eli/oc/2023/66)).
+[^chap9-lvlu2-2]: Quando ha adottato questa disposizione l’Assemblea dell’Unione di Madrid ha considerato che le parti contraenti non sono tenute a precisare nella notifica la data a partire dalla quale applicheranno le regole 17.2) v) e vii) e 18.1) e) nel tenore in vigore dal 1° novembre 2023.
+[^chap9-lvlu2-3]: Introdotto dalla mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
 
 ### **Regola 41**Istruzioni amministrative
 

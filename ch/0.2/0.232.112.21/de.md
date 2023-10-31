@@ -3,11 +3,11 @@ sr: "0.232.112.21"
 title: Ausführungsordnung von 2. Oktober 2018 betreffend das Protokoll zum Madrider Abkommen über die internationale Registrierung von Marken
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/338"
 language: de
-version: 2023-02-01
+version: 2023-11-01
 adopted: 2018-10-02
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20230201/de/xml/fedlex-data-admin-ch-eli-cc-2020-338-20230201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20230201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20231101/de/xml/fedlex-data-admin-ch-eli-cc-2020-338-20231101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20231101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2020** 1667[^t-1]
 
 Angenommen von der Versammlung des Madrider Verbands am 2. Oktober 2018 In Kraft getreten am 1. Februar 2020
 
-(Stand am 1. Februar 2023)
+(Stand am 1. November 2023)
 
 [^t-1]: Berichtigung vom 12. April 2022 ([AS 2022 236](https://fedlex.data.admin.ch/eli/oc/2022/236)).
 
@@ -42,7 +42,7 @@ Angenommen von der Versammlung des Madrider Verbands am 2. Oktober 2018 In Kraft
 <tr><td>Regel 9</td><td>Erfordernisse bezüglich des internationalen Gesuchs</td></tr>
 <tr><td>Regel 10</td><td>Gebühren für das internationale Gesuch</td></tr>
 <tr><td>Regel 11</td><td>Andere als die Klassifikation der Waren und Dienstleistungen betreffende Mängel</td></tr>
-<tr><td>Regel 12</td><td>Mängel in Bezug auf die Klassifikation der Waren und D (Stand am 1. Februar 2023)ienstleistungen</td></tr>
+<tr><td>Regel 12</td><td>Mängel in Bezug auf die Klassifikation der Waren und D (Stand am 1. November 2023)ienstleistungen</td></tr>
 <tr><td>Regel 13</td><td>Mängel in bezog auf die Angabe der Waren und Dienstleistungen</td></tr>
 <tr><td>Kapitel 3:</td><td>Internationale Registrierungen</td></tr>
 <tr><td>Regel 14</td><td>Eintragung der Marke im internationalen Register</td></tr>
@@ -436,7 +436,10 @@ Für das internationale Gesuch ist die Zahlung der unter Nummer 2 des Gebührenv
 
 \4) [Von der Ursprungsbehörde zu behebende Mängel]
 
-- a) Wenn das Internationale Büro
+- a)
+
+  Wenn das Internationale Büro:
+
   - i) feststellt, dass das internationale Gesuch die Erfordernisse der Regel 2 nicht erfüllt oder nicht auf dem nach Regel 9 Absatz 2 Buchstabe a vorgeschriebenen amtlichen Formblatt eingereicht worden ist;
   - ii) feststellt, dass das internationale Gesuch einen der in Regel 15 Absatz 1 genannten Mängel aufweist;
   - iii) der Auffassung ist, dass das internationale Gesuch Mängel aufweist, die sich auf die Berechtigung des Hinterlegers zur Einreichung eines internationalen Gesuchs beziehen;
@@ -588,14 +591,16 @@ Eine Mitteilung über die vorläufige Schutzverweigerung hat folgendes zu enthal
 - ii) die Nummer der internationalen Registrierung, vorzugsweise versehen mit anderen Angaben, die die Identifizierung der internationalen Registrierung erlauben, wie zum Beispiel Wortbestandteile der Marke oder die Nummer des Basisgesuchs oder der Basiseintragung;
 - iii) …
 - iv) alle Gründe, auf die sich die vorläufige Schutzverweigerung stützt, mit einem Hinweis auf die entsprechenden wesentlichen Bestimmungen des Gesetzes;
-- v)[^chap4-lvlu2-1] beziehen sich die Gründe, auf die sich die vorläufige Schutzverweigerung stützt, auf eine Marke, die Gegenstand einer Anmeldung oder einer Eintragung gewesen ist und mit der die Marke, die Gegenstand der internationalen Registrierung ist, offenbar kollidiert, das Anmeldedatum und die Anmeldenummer, gegebenenfalls das Prioritätsdatum, das Datum und die Nummer der Eintragung, den Namen und die Anschrift des Inhabers sowie eine Abbildung der früheren Marke, oder Angaben dazu wie man darauf zugreifen kann, zusammen mit einem Verzeichnis sämtlicher oder der betroffenen Waren und Dienstleistungen in der Anmeldung oder der Eintragung der früheren Marke, wobei dieses Verzeichnis in der Sprache dieser Anmeldung oder dieser Eintragung abgefasst sein kann;
+- v)[^chap4-lvlu2-1] beziehen sich die Gründe, auf die sich die vorläufige Schutzverweigerung stützt, auf eine Marke, die Gegenstand einer Anmeldung oder einer Eintragung gewesen ist und mit der die Marke, die Gegenstand der internationalen Registrierung ist, offenbar kollidiert, das Anmeldedatum und die Anmeldenummer, gegebenenfalls das Prioritätsdatum, das Datum und die Nummer der Eintragung, den Namen des Inhabers und des Vertreters, gegebenenfalls ihre Anschrift, sofern möglich, sowie eine Abbildung der früheren Marke, oder Angaben dazu wie man darauf zugreifen kann, zusammen mit einem Verzeichnis sämtlicher oder der betroffenen Waren und Dienstleistungen in der Anmeldung oder der Eintragung der früheren Marke, wobei dieses Verzeichnis in der Sprache dieser Anmeldung oder dieser Eintragung abgefasst sein kann;
 - vi) entweder, dass die Gründe, auf die die vorläufige Schutzverweigerung gestützt ist, alle Waren und Dienstleistungen berühren oder eine Angabe der Waren und Dienstleistungen, die von der vorläufigen Schutzverweigerung berührt beziehungsweise nicht berührt sind;
-- vii) die unter den Umständen angemessene Frist zur Einreichung des Antrags auf Überprüfung oder Beschwerde gegen die vorläufige Schutzverweigerung von Amts wegen oder die vorläufige auf einen Widerspruch gestützte Schutzverweigerung beziehungsweise zur Einreichung einer Erwiderung auf den Widerspruch, vorzugsweise mit einer Angabe des Datums, an dem die entsprechende Frist abläuft, und die für den Antrag auf Überprüfung, Beschwerde oder Erwiderung zuständige Behörde, gegebenenfalls mit dem Hinweis, dass der Antrag auf Überprüfung oder die Beschwerde über einen Vertreter einzureichen ist, dessen Anschrift sich innerhalb des Gebiets der Vertragspartei befindet, deren Behörde die Schutzverweigerung ausgesprochen hat;
-- viii) …
+- vii)[^chap4-lvlu2-2] die Frist von mindestens zwei Monaten[^chap4-lvlu2-3] zur Einreichung des Antrags auf Überprüfung oder Beschwerde gegen die vorläufige Schutzverweigerung von Amts wegen oder die vorläufige auf einen Widerspruch gestützte Schutzverweigerung beziehungsweise zur Einreichung einer Erwiderung auf den Widerspruch;
+- viii)[^chap4-lvlu2-4] die Angabe des Datums an dem die in Absatz 2 Ziffer vii angegebene Frist beginnt und endet, wenn besagte Frist an einem anderen Datum beginnt, als jenes an welchem das Internationale Büro dem Inhaber eine Kopie der Mitteilung zustellt, oder jenes an welchem der Inhaber besagte Kopie erhält;
+- ix)[^chap4-lvlu2-5] die für diesen Antrag auf Überprüfung, diese Beschwerde oder diese Erwiderung zuständige Behörde; und
+- x)[^chap4-lvlu2-6] gegebenenfalls einen Hinweis, dass der Antrag auf Überprüfung, die Beschwerde oder die Erwiderung über einen Vertreter einzureichen ist, dessen Anschrift sich innerhalb des Gebiets der Vertragspartei befindet, deren Behörde die Schutzverweigerung ausgesprochen hat.
 
 \3) [Zusätzliche Erfordernisse bezüglich der Mitteilung über eine auf einen Widerspruch gestützte vorläufige Schutzverweigerung]
 
-Stützt sich die vorläufige Schutzverweigerung auf einen Widerspruch oder auf einen Widerspruch und andere Gründe, so hat die Mitteilung nicht nur die in Absatz 2 genannten Erfordernisse zu erfüllen, sondern auch einen dahin gehenden Hinweis und den Namen und die Anschrift des Widersprechenden zu enthalten; ungeachtet des Absatzes 2 Ziffer v muss jedoch die mitteilende Behörde im Fall eines Widerspruchs, der sich auf eine Marke stützt, die Gegenstand einer Anmeldung oder einer Eintragung war, das Verzeichnis der Waren und Dienstleistungen übermitteln, auf die sich der Widerspruch stützt, und kann zusätzlich das vollständige Verzeichnis der Waren und Dienstleistungen dieser früheren Anmeldung oder dieser früheren Eintragung mitteilen, wobei diese Verzeichnisse in der Sprache der früheren Anmeldung oder der früheren Eintragung abgefasst sein können.
+Stützt sich die vorläufige Schutzverweigerung auf einen Widerspruch oder auf einen Widerspruch und andere Gründe, so hat die Mitteilung nicht nur die in Absatz 2 genannten Erfordernisse zu erfüllen, sondern auch einen dahin gehenden Hinweis und den Namen des Widersprechenden und des Vertreters, gegebenenfalls ihre Anschrift, sofern möglich, zu enthalten; ungeachtet des Absatzes 2 Ziffer v muss jedoch die mitteilende Behörde im Fall eines Widerspruchs, der sich auf eine Marke stützt, die Gegenstand einer Anmeldung oder einer Eintragung war, das Verzeichnis der Waren und Dienstleistungen übermitteln, auf die sich der Widerspruch stützt, und kann zusätzlich das vollständige Verzeichnis der Waren und Dienstleistungen dieser früheren Anmeldung oder dieser früheren Eintragung mitteilen, wobei diese Verzeichnisse in der Sprache der früheren Anmeldung oder der früheren Eintragung abgefasst sein können.[^chap4-lvlu2-7]
 
 \4) [Eintragung; Übermittlung von Kopien der Mitteilungen]
 
@@ -616,36 +621,59 @@ Das internationale Büro trägt die vorläufige Schutzverweigerung im internatio
 
 \6) …
 
-[^chap4-lvlu2-1]: Fassung gemäss der am 1. Febr. 2023 in Kraft getretenen Änd. ([AS 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
+\7) [Informationen bezüglich der Antwortfrist auf eine vorläufige Schutzverweigerung]
+
+Die Vertragsparteien teilen dem Internationalen Büro die in Absatz 2 Ziffer vii vorgesehene Frist mit, sowie die Art und Weise, wie diese Frist berechnet wird.[^chap4-lvlu2-8]
+
+[^chap4-lvlu2-1]: Fassung gemäss der am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^chap4-lvlu2-2]: Fassung gemäss der am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^chap4-lvlu2-3]: Die Annahme dieser Bestimmung durch die Versammlung des Madrider Verbands erfolgte in dem Verständnis, dass die Vertragsparteien, für welche die Gesetzgebung eine Frist von 60 Kalendertagen oder aufeinanderfolgenden Tagen vorsieht, die Bedingung von Regel 17 Absatz 2 Ziffer vii erfüllen.
+[^chap4-lvlu2-4]: Fassung gemäss der am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^chap4-lvlu2-5]: Eingefügt durch die am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^chap4-lvlu2-6]: Eingefügt durch die am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^chap4-lvlu2-7]: Fassung gemäss der am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^chap4-lvlu2-8]: Eingefügt durch die am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
 
 ### **Regel 18**Nicht vorschriftsmässige Mitteilungen über die vorläufige Schutzverweigerung
 
 \1) [Allgemeines]
 
-- a) Eine von der Behörde einer benannten Vertragspartei übermittelte vorläufige Schutzverweigerung wird vom Internationalen Büro nicht als solche betrachtet,
+- a)
+
+  Eine von der Behörde einer benannten Vertragspartei übermittelte vorläufige Schutzverweigerung wird vom Internationalen Büro nicht als solche betrachtet:
+
   - i) wenn sie keine Nummer einer internationalen Registrierung enthält, es sei denn andere in der Mitteilung enthaltene Angaben erlauben die Identifizierung der internationalen Registrierung, auf die sich die vorläufige Schutzverweigerung bezieht;
   - ii) wenn sie keine Gründe für die Schutzverweigerung nennt; oder
-  - iii) wenn sie dem Internationalen Büro zu spät, d. h. wenn sie nach Ablauf der gemäss Artikel 5 Absatz 2 Buchstabe a oder, vorbehaltlich des Artikels 9<sup>sexies</sup> Absatz 1 Buchstabe b des Protokolls, der gemäss Artikel 5 Absatz 2 Buchstabe b oder Buchstabe c Ziffer ii des Protokolls geltenden Frist nach dem Datum zugesandt wurde, an dem die internationale Registrierung oder die im Anschluss an die internationale Registrierung erfolgte Benennung eingetragen wurde, mit der Massgabe, dass das genannte Datum dem der Versendung der Mitteilung über die internationale Registrierung oder die nachträgliche Benennung entspricht.
+  - iii)[^chap4-lvlu3-1] wenn sie dem Internationalen Büro zu spät, d. h. wenn sie nach Ablauf der gemäss Artikel 5 Absatz 2 Buchstabe a oder, vorbehaltlich des Artikels 9<sup>sexies</sup> Absatz 1 Buchstabe b des Protokolls, der gemäss Artikel 5 Absatz 2 Buchstabe b oder Buchstabe c Ziffer ii des Protokolls geltenden Frist nach dem Datum zugesandt wurde, an dem das Internationale Büro die Mitteilung über die internationale Registrierung oder die nachträgliche Benennung versendet hat.
 
-- b) Findet Buchstabe a Anwendung, so übermittelt das Internationale Büro dem Inhaber dennoch eine Kopie der Mitteilung und benachrichtigt gleichzeitig den Inhaber und die mitteilende Behörde davon, dass die Mitteilung über die vorläufige Schutzverweigerung vom Internationalen Büro nicht als solche betrachtet wird, und gibt hierfür die Gründe an.
-- c) Falls die Mitteilung
+- b)[^chap4-lvlu3-2] Findet Buchstabe a Anwendung, so übermittelt das Internationale Büro dem Inhaber dennoch eine Kopie der Mitteilung und benachrichtigt gleichzeitig den Inhaber und die mitteilende Behörde davon, dass die Mitteilung über die vorläufige Schutzverweigerung vom Internationalen Büro nicht als solche betrachtet wird, und gibt hierfür die Gründe an.
+- c)[^chap4-lvlu3-3]
+
+  Falls die Mitteilung:
+
   - i) nicht im Namen der Behörde unterschrieben ist, welche sie mitgeteilt hat, oder sonst nicht den Erfordernissen der Regel 2 oder dem Erfordernis der Regel 6 Absatz 2 entspricht;
   - ii) gegebenenfalls nicht die Einzelheiten der Marke enthält, mit der die Marke, die Gegenstand der internationalen Registrierung ist, offenbar kollidiert (Regel 17 Absatz 2 Ziffer v und Absatz 3);
-  - iii) nicht den Erfordernissen der Regel 17 Absatz 2 Ziffer vi entspricht;
-  - iv) nicht den Erfordernissen der Regel 17 Absatz 2 Ziffer vii entspricht; oder
-  - v) …
+  - iii) nicht den Erfordernissen der Regel 17 Absatz 2 Ziffer vi entspricht; oder
+  - iv) und v) …
   - vi) gegebenenfalls nicht den Namen und die Anschrift des Widersprechenden sowie die Angabe der Waren und Dienstleistungen enthält, auf die sich der Widerspruch stützt (Regel 17 Absatz 3),
 
-- so trägt das Internationale Büro, ausser wenn Buchstabe d Anwendung findet, die vorläufige Schutzverweigerung trotzdem in das internationale Register ein. Das Internationale Büro fordert die Behörde, welche die vorläufige Schutzverweigerung mitgeteilt hat, auf, eine berichtigte Mitteilung innerhalb von zwei Monaten nach der Aufforderung zu übermitteln, und übermittelt Kopien der nicht vorschriftsmässigen Mitteilung und der der beteiligten Behörde zugeleiteten Aufforderung an den Inhaber.
-- d) Entspricht die Mitteilung nicht den Erfordernissen der Regel 17 Absatz 2 Ziffer vii, so wird die vorläufige Schutzverweigerung nicht in das internationale Register eingetragen. Wird jedoch eine berichtigte Mitteilung innerhalb der in Buchstabe c genannten Frist übermittelt, so gilt sie für die Zwecke von Artikel 5 des Protokolls als an dem Datum dem Internationalen Büro zugeleitet, an dem die fehlerhafte Mitteilung an dieses abgesandt wurde. Wird die Mitteilung nicht entsprechend berichtigt, so wird sie nicht als eine Mitteilung über die vorläufige Schutzverweigerung betrachtet. Im letzteren Fall unterrichtet das Internationale Büro gleichzeitig den Inhaber und die mitteilende Behörde, dass die Mitteilung über die vorläufige Schutzverweigerung vom Internationalen Büro nicht als solche betrachtet wird, und gibt die Gründe hierfür an.
-- e) Falls das anwendbare Recht dies zulässt, enthält jede berichtigte Mitteilung eine Angabe über eine neue unter den Umständen angemessene Frist zur Einreichung eines Antrags auf Überprüfung oder einer Beschwerde gegen die vorläufige Schutzverweigerung von Amts wegen oder die vorläufige, auf einen Widerspruch gestützte Schutzverweigerung beziehungsweise für die Erwiderung auf einen Widerspruch, vorzugsweise unter Angabe des Datums, an dem diese Frist abläuft.
-- f) Das Internationale Büro übermittelt eine Kopie jeder berichtigten Mitteilung an den Inhaber.
+- so trägt das Internationale Büro die vorläufige Schutzverweigerung trotzdem in das internationale Register ein. Das Internationale Büro fordert die Behörde, welche die vorläufige Schutzverweigerung mitgeteilt hat, auf, eine berichtigte Mitteilung innerhalb von zwei Monaten nach der Aufforderung zu übermitteln, und übermittelt Kopien der nicht vorschriftsmässigen Mitteilung und der der beteiligten Behörde zugeleiteten Aufforderung an den Inhaber.
+- d)[^chap4-lvlu3-4] Entspricht die Mitteilung nicht den Erfordernissen der Regel 17 Absatz 2 Ziffer vii bis x, so wird die vorläufige Schutzverweigerung nicht als solche betrachtet und wird nicht in das internationale Register eingetragen. Das Internationale Büro informiert die Behörde, welche die vorläufige Schutzverweigerung ausgesprochen hat, gibt die Gründe dafür an und leitet dem Inhaber eine Kopie der fehlerhaften Mitteilung weiter. Sendet die Behörde jedoch eine berichtigte Mitteilung innerhalb von zwei Monaten ab dem Datum, an dem das Internationale Büro diese Behörde über die fehlerhafte Mitteilung informiert hat, so gilt die berichtigte Mitteilung für die Zwecke von Artikel 5 des Protokolls als an dem Datum zugeleitet, an dem die fehlerhafte Mitteilung dem Internationalen Büro zugestellt wurde und wird ins internationale Register eingetragen.
+- e)[^chap4-lvlu3-5] Falls das anwendbare Recht dies zulässt, enthält jede berichtigte Mitteilung eine Angabe über eine neue Frist sowie Informationen gemäss Regel 17 Absatz 2 Ziffer vii bis x zur Einreichung eines Antrags auf Überprüfung oder einer Beschwerde gegen die vorläufige Schutzverweigerung von Amts wegen oder die vorläufige, auf einen Widerspruch gestützte Schutzverweigerung beziehungsweise für die Erwiderung auf einen Widerspruch.
+- f)[^chap4-lvlu3-6] Das Internationale Büro übermittelt eine Kopie jeder berichtigten Mitteilung an den Inhaber.
 
 \2) [Mitteilung über die vorläufige Schutzverweigerung nach Artikel 5 Absatz 2 Buchstabe c des Protokolls]
 
 - a) …
 - b) Absatz 1 Buchstabe a wird angewendet, um festzustellen, ob die Frist eingehalten wurde, bis zu deren Ablauf die Behörde der beteiligten Vertragspartei dem Internationalen Büro die in Artikel 5 Absatz 2 Buchstabe c Ziffer i des Protokolls genannte Information erteilen muss. Wird die Information nach Ablauf dieser Frist erteilt, so wird sie als nicht erteilt betrachtet, und das Internationale Büro unterrichtet die beteiligte Behörde entsprechend.
 - c) Erfolgt die Mitteilung über die vorläufige Schutzverweigerung nach Artikel 5 Absatz 2 Buchstabe c Ziffer ii des Protokolls, ohne dass die Erfordernisse des Artikels 5 Absatz 2 Buchstabe c Ziffer i des Protokolls erfüllt sind, so wird sie nicht als Mitteilung über die vorläufige Schutzverweigerung betrachtet. In diesem Fall übermittelt das Internationale Büro dem Inhaber dennoch eine Kopie der Mitteilung, teilt dem Inhaber und der Behörde, welche die Mitteilung übersandt hat, gleichzeitig mit, dass die Mitteilung über die vorläufige Schutzverweigerung vom Internationalen Büro nicht als solche betrachtet wird, und gibt die Gründe hierfür an.
+
+[^chap4-lvlu3-1]: Fassung gemäss der am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^chap4-lvlu3-2]: Fassung gemäss der am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^chap4-lvlu3-3]: Fassung gemäss der am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^chap4-lvlu3-4]: Fassung gemäss der am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^chap4-lvlu3-5]: Fassung gemäss der am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^chap4-lvlu3-6]: Fassung gemäss der am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
 
 ### **Regel 18**<sup>bis</sup>Interimstatus einer Marke in einer benannten Vertragspartei
 
@@ -1279,7 +1307,7 @@ Das Internationale Büro teilt die Erneuerung den Behörden der beteiligten bena
 
 Das Internationale Büro veröffentlicht im Blatt:
 
-- i) jede Notifikation nach Regel 7, 20<sup>bis</sup> Absatz 6, 27<sup>bis</sup> Absatz 6, 27<sup>ter</sup> Absatz 2 Buchstabe b oder 40 Absatz 6 und jede Erklärung nach Regel 17 Absatz 5 Buchstabe d oder e;
+- i)[^chap7-lvlu1-3] jede Mitteilung nach Regel 7, 17 Absatz 7, 20<sup>bis</sup> Absatz 6, 27<sup>bis</sup> Absatz 6, 27<sup>ter</sup> Absatz 2 Buchstabe b oder 40 Absatz 6 und 7 und jede Erklärung nach Regel 17 Absatz 5 Buchstabe d oder e;
 - ii) Erklärungen nach Artikel 5 Absatz 2 Buchstabe b oder Artikel 5 Absatz 2 Buchstabe b und Buchstabe c Satz 1 des Protokolls;
 - iii) Erklärungen nach Artikel 8 Absatz 7 des Protokolls;
 - iv) jede Mitteilung nach Regel 34 Absatz 2 Buchstabe b oder Absatz 3 Buchstabe a;
@@ -1293,6 +1321,7 @@ Das Internationale Büro nimmt die Veröffentlichungen nach den Absätzen 1 und 
 
 [^chap7-lvlu1-1]: Fassung gemäss der am 1. Febr. 2023 in Kraft getretenen Änd. ([AS 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
 [^chap7-lvlu1-2]: Aufgehoben durch die am 1. Febr. 2023 in Kraft getretene Änd. ([AS 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
+[^chap7-lvlu1-3]: Fassung gemäss der am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
 
 ### **Regel 33**Elektronische Datenbank
 
@@ -1474,7 +1503,13 @@ Ist an dem Datum, an dem die vorliegende Regel in Kraft tritt, oder dem Datum, v
 
 Kein Amt ist verpflichtet, Regel 21 Absatz 3 Buchstabe d Satz 2 vor dem 1. Februar 2025 anzuwenden.[^chap9-lvlu2-1]
 
+\8) [Übergangsbestimmung zu den Regeln 17 Absatz 2 Ziffer v und vii und Absatz 3 sowie 18 Absatz 1 Buchstabe e)]
+
+Die Vertragsparteien können weiterhin die Regeln 17 Absatz 2 Ziffer v und vii und Absatz 3 sowie 18 Absatz 1 Buchstabe e, wie sie seit dem 1. November 2021 in Kraft sind, bis am 1. Februar 2025 oder bis zu einem späteren Datum anwenden, sofern die betreffende Vertragspartei dem Internationalen Büro vor dem 1. Februar 2025 oder vor dem Datum, an welches diese Vertragspartei durch das Protokoll gebunden ist, eine Mitteilung sendet. Das spätere Datum wird berücksichtigt. Die Vertragspartei kann diese Mitteilung nachfolgend jederzeit zurückziehen.[^chap9-lvlu2-2] [^chap9-lvlu2-3]
+
 [^chap9-lvlu2-1]: Eingefügt gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2023 66](https://fedlex.data.admin.ch/eli/oc/2023/66)).
+[^chap9-lvlu2-2]: Die Annahme dieser Bestimmung durch die Versammlung des Madrider Verbands erfolgte in dem Verständnis, dass die Vertragsparteien nicht verpflichtet sind, in der Mitteilung das Datum anzugeben, an dem sie die Regeln 17 Absatz 2 Ziffer v und vii sowie 18 Absatz 1 Buchstabe e, wie sie am 1. November 2023 in Kraft getreten sind, anwenden werden.
+[^chap9-lvlu2-3]: Eingefügt durch die am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
 
 ### **Regel 41**Verwaltungsvorschriften
 
