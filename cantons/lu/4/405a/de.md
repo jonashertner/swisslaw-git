@@ -3,20 +3,19 @@ canton: LU
 number: 405a
 title: Verordnung über die Beurteilung der Lernenden in der Volksschule
 language: de
-version: 2019-08-01
-valid_until: 2023-10-31
-version_adopted: 2019-06-11
+version: 2023-11-01
+version_adopted: 2023-09-26
 adopted: 2007-05-15
 in_force: 2007-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/405a"
-pdf: "https://srl.lu.ch/api/de/versions/3421/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4131/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Beurteilung der Lernenden in der Volksschule
 
-vom 15.05.2007 (Stand 01.08.2019)
+vom 15.05.2007 (Stand 01.11.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -93,7 +92,7 @@ beschliesst:
 
 **Beurteilungsgespräch**
 
-<sup>1</sup> In jedem Schuljahr findet mindestens ein Beurteilungsgespräch zwischen Klassenlehrperson, Erziehungsberechtigten und der oder dem Lernenden statt. Es wird auf der Grundlage des Fremdbeurteilungsdokumentes geführt.
+<sup>1</sup> In jedem Schuljahr findet mindestens ein Beurteilungsgespräch zwischen Klassenlehrperson, Erziehungsberechtigten und der oder dem Lernenden statt. Zur Gesprächsvorbereitung wird das Fremdbeurteilungsdokument ausgefüllt.
 
 <sup>2</sup> Im Beurteilungsgespräch werden die Lernfortschritte in den fachlichen sowie in den überfachlichen Kompetenzen aufgezeigt und zur weiteren Förderung neue Ziele und allenfalls notwendige Unterstützungsmassnahmen vereinbart.
 
