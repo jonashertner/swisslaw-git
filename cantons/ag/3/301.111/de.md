@@ -4,13 +4,13 @@ number: "301.111"
 title: Verordnung zum Gesundheitsgesetz
 short: GesV
 language: de
-version: 2021-03-01
-valid_until: 2023-10-31
-version_adopted: 2021-02-17
+version: 2023-11-01
+valid_until: 2025-06-30
+version_adopted: 2023-08-30
 adopted: 2009-11-11
 in_force: 2010-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/301.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2968/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3630/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,16 +19,17 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2968/pdf_file"
 
 (GesV)
 
-Vom 11.11.2009 (Stand 01.03.2021)
+Vom 11.11.2009 (Stand 01.11.2023)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf die §§ 2 Abs. 1, 3 Abs. 1 lit. b, 34 Abs. 3, 36a, 37 Abs. 3, 38 Abs. 5, 40 Abs. 3, 40b Abs. 3, 40c Abs. 1, 40d Abs. 4 und 40e Abs. 2 des Gesetzes über die Organisation des Regierungsrates und der kantonalen Verwaltung (Organisationsgesetz) vom 26. März 1985[^ingress-1] und § 57 des Gesundheitsgesetzes (GesG) vom 20. Januar 2009[^ingress-2],
+gestützt auf Art. 8 des Bundesgesetzes über den Schutz vor Gefährdungen durch nichtionisierende Strahlung und Schall (NISSG) vom 16. Juni 2017[^ingress-1], die §§ 2 Abs. 1, 3 Abs. 1 lit. b, 34 Abs. 3, 36a, 37 Abs. 3, 38 Abs. 5, 40 Abs. 3, 40b Abs. 3, 40c Abs. 1, 40d Abs. 4 und 40e Abs. 2 des Gesetzes über die Organisation des Regierungsrates und der kantonalen Verwaltung (Organisationsgesetz) vom 26. März 1985[^ingress-2] und § 57 des Gesundheitsgesetzes (GesG) vom 20. Januar 2009[^ingress-3],
 
 beschliesst:
 
-[^ingress-1]: SAR [153.100](https://gesetzessammlungen.ag.ch/data/153.100/de)
-[^ingress-2]: SAR [301.100](https://gesetzessammlungen.ag.ch/data/301.100/de)
+[^ingress-1]: SR [814.71](https://db.clex.ch/link/Bund/814.71/de)
+[^ingress-2]: SAR [153.100](https://gesetzessammlungen.ag.ch/data/153.100/de)
+[^ingress-3]: SAR [301.100](https://gesetzessammlungen.ag.ch/data/301.100/de)
 
 ## 1. Allgemeines
 
@@ -211,6 +212,12 @@ beschliesst:
 **KSD-Ärztinnen und -Ärzte**
 
 <sup>1</sup> Unter Aufsicht der Kantonsärztin oder des Kantonsarztes leisten die KSD-Ärztinnen und -Ärzte Unterstützung bei Ereignissen mit grossem Patientenanfall.
+
+#### § 14d
+
+**Vollzug Bundesgesetzgebung nichtionisierende Strahlung durch Amt für Verbraucherschutz**
+
+<sup>1</sup> Das Amt für Verbraucherschutz vollzieht die gemäss Art. 8 NISSG vorgesehenen kantonalen Aufgaben betreffend Verwendung von Solarien und Verwendung von Produkten für kosmetische Zwecke und erlässt die erforderlichen Massnahmen.
 
 ## 3. Gesundheitsvorsorge
 
