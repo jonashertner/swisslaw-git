@@ -4,11 +4,11 @@ title: "Verordnung vom 24. Mai 2006 über das Öffentlichkeitsprinzip der Verwal
 short: VBGÖ
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/356"
 language: de
-version: 2023-09-01
+version: 2023-11-01
 adopted: 2006-05-24
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/356/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2006-356-20230901-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/356/20231101/de/xml/fedlex-data-admin-ch-eli-cc-2006-356-20231101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20231101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20230901/de"
 
 (Öffentlichkeitsverordnung, VBGÖ)
 
-vom 24. Mai 2006 (Stand am 1. September 2023)
+vom 24. Mai 2006 (Stand am 1. November 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -33,7 +33,7 @@ verordnet:
 
 #### Art. 1
 
-- [tab] <sup>1</sup> Als kommerziell genutztes Dokument gilt jede Information, die eine Behörde gegen Entgelt anbietet, einschliesslich der Informationen, die unmittelbar der Herstellung von Produkten dienen.
+<sup>1</sup> Als kommerziell genutztes Dokument gilt jede Information, die eine Behörde gegen Entgelt anbietet, einschliesslich der Informationen, die unmittelbar der Herstellung von Produkten dienen.
 
 <sup>2</sup>
 
@@ -41,7 +41,8 @@ Als fertig gestellt gilt ein Dokument:
 
 - a. das von der Behörde, die es erstellt hat, unterzeichnet ist; oder
 - b. das von der Erstellerin oder dem Ersteller der Adressatin oder dem Adressaten definitiv übergeben wurde, namentlich zur Kenntnis- oder Stellungnahme oder als Entscheidgrundlage.
-- [tab] <sup>3</sup> Als zum persönlichen Gebrauch bestimmtes Dokument gilt jede Information, die dienstlichen Zwecken dient, deren Benutzung aber ausschliesslich der Autorin, dem Autoren oder einem eng begrenzten Personenkreis als Arbeitshilfsmittel vorbehalten ist, wie Notizen oder Arbeitskopien von Dokumenten.
+
+<sup>3</sup> Als zum persönlichen Gebrauch bestimmtes Dokument gilt jede Information, die dienstlichen Zwecken dient, deren Benutzung aber ausschliesslich der Autorin, dem Autoren oder einem eng begrenzten Personenkreis als Arbeitshilfsmittel vorbehalten ist, wie Notizen oder Arbeitskopien von Dokumenten.
 
 ## 1*a*. Abschnitt: Geltungsbereich des BGÖ
 
@@ -246,15 +247,16 @@ Die Parteien sind verpflichtet:
 - b. an der Suche nach einer Schlichtung mitzuwirken;
 - c. an der Schlichtungsverhandlung teilzunehmen; die Behörde nimmt an der Schlichtungsverhandlung durch die von ihr zur Vertretung ermächtigte Person teil.
 
-<sup>3</sup> Nimmt die Gesuchstellerin oder der Gesuchsteller nicht an der Schlichtungsverhandlung teil, so gilt der Schlichtungsantrag als zurückgezogen und erledigt.
+<sup>3</sup> Nimmt die Gesuchstellerin oder der Gesuchsteller nicht an der Schlichtungsverhandlung teil, so gilt der Schlichtungsantrag als zurückgezogen und das Schlichtungsverfahren wird abgeschrieben.[^12b-5]
 
-<sup>4</sup> Weigern sich die Parteien, an der Suche nach einer Schlichtung mitzuwirken oder verzögern sie das Schlichtungsverfahren missbräuchlich, so kann der EDÖB feststellen, dass die Schlichtung nicht zustande gekommen ist.[^12b-5]
+<sup>4</sup> Weigern sich die Parteien, an der Suche nach einer Schlichtung mitzuwirken oder verzögern sie das Schlichtungsverfahren missbräuchlich, so kann der EDÖB feststellen, dass die Schlichtung nicht zustande gekommen ist.[^12b-6]
 
 [^12b-1]: Eingefügt durch Ziff. I der V vom 20. April 2011, in Kraft seit 1. Juli 2011 ([AS 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)).
 [^12b-2]: Fassung gemäss Anhang 2 Ziff. II 13 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^12b-3]: Fassung gemäss Anhang 2 Ziff. II 13 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^12b-4]: Fassung gemäss Anhang 2 Ziff. II 13 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^12b-5]: Fassung gemäss Anhang 2 Ziff. II 13 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12b-5]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
+[^12b-6]: Fassung gemäss Anhang 2 Ziff. II 13 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 13
 
@@ -288,17 +290,24 @@ Die Verwaltungseinheiten der zentralen Bundesverwaltung stellen dem EDÖB eine K
 
 #### Art. 14
 
-**Grundsatz**
+**Grundsätze**[^14-1]
 
-Soweit die vorliegende Verordnung keine besondere Regelung enthält, gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^14-1].
+### (Art. 17 Abs. 2 BGÖ)
 
-[^14-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+<sup>1</sup> Erfordert die Bearbeitung eines Zugangsgesuchs durch die Behörde mehr als 8 Stunden Arbeitsaufwand, so kann eine Gebühr erhoben werden. Für die Gebührenbemessung wird nur der Zeitaufwand berücksichtigt, der 8 Stunden überschreitet.
+
+<sup>2</sup> Soweit die vorliegende Verordnung keine besondere Regelung enthält, gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^14-2].
+
+[^14-1]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
+[^14-2]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 #### Art. 15
 
 **Erlass oder Reduktion der Gebühren**
 
-### (Art. 17 Abs. 2 und 3 BGÖ)
+### (Art. 17 Abs. 2 BGÖ)
+
+[^15-1]
 
 <sup>1</sup> Die Behörde verzichtet auf die Erhebung von Gebühren, wenn die Kosten der Gebührenerhebung den Gebührenbetrag übersteigen. Eine Gebühr von weniger als 100 Franken wird nicht verrechnet.
 
@@ -306,19 +315,25 @@ Soweit die vorliegende Verordnung keine besondere Regelung enthält, gelten die 
 
 <sup>3</sup> Die Behörde kann auf die Gebührenerhebung verzichten oder die Gebühr reduzieren, wenn sie das Zugangsgesuch ablehnt oder den Zugang nur teilweise gewährt.
 
-<sup>4</sup> Erhebt die Behörde bei einem Zugangsgesuch von Medienschaffenden eine Gebühr, so reduziert sie diese um mindestens 50 Prozent. Sie kann auf die Reduktion verzichten, wenn das Zugangsgesuch eine besonders aufwendige Bearbeitung erfordert.[^15-1]
+<sup>4</sup> Erhebt die Behörde bei einem Zugangsgesuch von Medienschaffenden eine Gebühr, so reduziert sie diese um 50 Prozent.[^15-2]
 
-[^15-1]: Eingefügt durch Ziff. I der V vom 25. Juni 2014, in Kraft seit 1. Sept. 2014 ([AS 2014 2169](https://fedlex.data.admin.ch/eli/oc/2014/366)).
+[^15-1]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
+[^15-2]: Eingefügt durch Ziff. I der V vom 25. Juni 2014 (AS **2014** 2169). Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 (AS **2023** 585).
 
 #### Art. 16
 
 **Gebührentarif und Information über voraussichtliche Kosten**
 
-### (Art. 17 Abs. 3 BGÖ)
+### (Art. 17 Abs. 2 BGÖ)
+
+[^16-1]
 
 <sup>1</sup> Der Gebührentarif ist in Anhang 1 festgelegt.
 
-<sup>2</sup> Übersteigen die voraussichtlichen Kosten 100 Franken, so informiert die Behörde die Gesuchstellerin oder den Gesuchsteller über die zu erwartende Höhe der Gebühr. Bestätigt die Gesuchstellerin oder den Gesuchsteller das Gesuch nicht innert 10 Tagen, so gilt es als zurückgezogen. Die Behörde weist die Gesuchstellerin oder den Gesuchsteller darauf hin.
+<sup>2</sup> Die Behörde setzt der Gesuchstellerin oder dem Gesuchsteller mit der Information über die beabsichtigte Gebührenerhebung eine Frist von 10 Tagen, um das Zugangsgesuch zu bestätigen. Bleibt die Bestätigung aus, so gilt das Gesuch als zurückgezogen. Die Behörde weist die Gesuchstellerin oder den Gesuchsteller darauf hin.[^16-2]
+
+[^16-1]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
+[^16-2]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
 
 ## 6. Abschnitt: Bewirtschaftung und Publikation amtlicher Dokumente sowie Information über amtliche Dokumente
 
@@ -374,9 +389,10 @@ Jede Behörde teilt dem EDÖB jährlich mit:[^21-1]
 
 - a. die Anzahl der im Berichtsjahr eingereichten Gesuche;
 - b. die Anzahl der angenommenen Gesuche und der ganz oder teilweise abgelehnten Gesuche;
-- c. den Gesamtbetrag der für den Zugang zu amtlichen Dokumenten nach dem Öffentlichkeitsgesetz einverlangten Gebühren.
+- c.[^21-2] den Gesamtbetrag der für den Zugang zu amtlichen Dokumenten nach dem Öffentlichkeitsgesetz einverlangten Gebühren sowie die Anzahl der Fälle, in denen eine Gebühr erhoben wurde.
 
 [^21-1]: Fassung gemäss Anhang 2 Ziff. II 13 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^21-2]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
 
 ## 9. Abschnitt: Schlussbestimmungen
 
@@ -400,11 +416,13 @@ Für Schlichtungsanträge, die vor dem Inkrafttreten der Änderung vom 20. April
 
 Diese Verordnung tritt am 1. Juli 2006 in Kraft.
 
-Anhang 1
+Anhang 1[^t-1]
 
 (Art. 16)
 
 ## Gebührentarif in Franken
+
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
 
 ### 1. Reproduktionen
 
@@ -419,6 +437,7 @@ Anhang 1
 <tr><td>Elektronische Kopie auf maschinenlesbarem Datenträger gespeichert, zusätzlich zum allfälligen Seitenpreis</td><td></td></tr>
 <tr><td>– pro Diskette</td><td>[tab] 5.—</td></tr>
 <tr><td>– pro CD-ROM oder DVD</td><td>[tab] 35.—</td></tr>
+<tr><td>– pro USB-Datenträger</td><td>effektive Materialkosten</td></tr>
 <tr><td>Tonbandkassette oder Videokassette, bespielt durch die Behörde</td><td></td></tr>
 <tr><td>– pro Kassette</td><td>[tab] 35.—</td></tr>
 <tr><td>Papierabzüge von Fotografien, Film 16 oder 35 mm kopiert auf Videokassette sowie alle weiteren Kopien, die durch externe Partnerfirmen angefertigt werden müssen</td><td>nach Offerte</td></tr>

@@ -4,11 +4,11 @@ title: "Ordinaziun dals 24 da matg 2006 davart il princip da la transparenza da 
 short: OTrans
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/356"
 language: rm
-version: 2023-09-01
+version: 2023-11-01
 adopted: 2006-05-24
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/356/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-2006-356-20230901-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20230901/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/356/20231101/rm/xml/fedlex-data-admin-ch-eli-cc-2006-356-20231101-rm-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20231101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Ordinaziun da transparenza, OTrans)
 
-dals 24 da matg 2006 (versiun dal 1. da settember 2023)
+dals 24 da matg 2006 (versiun dal 1. da november 2023)
 
 Il Cussegl federal svizzer,
 
@@ -35,7 +35,7 @@ ordinescha:
 
 #### Art. 1
 
-- [tab] <sup>1</sup> In document duvrà per intents commerzials è mintga infurmaziun che vegn furnida d’ina autoritad cunter pajament, inclusiv las infurmaziuns che servan directamain a l’elavuraziun d’in product.
+<sup>1</sup> In document duvrà per intents commerzials è mintga infurmaziun che vegn furnida d’ina autoritad cunter pajament, inclusiv las infurmaziuns che servan directamain a l’elavuraziun d’in product.
 
 <sup>2</sup>
 
@@ -43,7 +43,8 @@ In document è considerà sco terminà, cura che:
 
 - a. el è vegnì suttascrit da l’autoritad che l’ha fatg; u
 - b. el è vegnì surdà definitivamain a l’adressat tras la persuna che l’ha fatg, particularmain per prender enconuschientscha u posiziun ubain sco basa da decisiun.
-- [tab] <sup>3</sup> In document destinà al diever persunal è mintga infurmaziun che serva ad intents da servetsch, duvrada exclusivamain da ses autur u d’in circul restrenschì da persunas sco med auxiliar, sco notizias u sco copias da lavur da documents.
+
+<sup>3</sup> In document destinà al diever persunal è mintga infurmaziun che serva ad intents da servetsch, duvrada exclusivamain da ses autur u d’in circul restrenschì da persunas sco med auxiliar, sco notizias u sco copias da lavur da documents.
 
 ## 1*a*. secziun Champ d’applicaziun da la LTrans
 
@@ -248,15 +249,16 @@ Las partidas èn obligadas:
 - b. da cooperar per tschertgar ina cunvegna;
 - c. da sa participar a la mediaziun; l’autoritad sa participescha a la mediaziun tras la persuna ch’ella ha autorisà da la represchentar.
 
-<sup>3</sup> Sch’il petent na sa participescha betg a la mediaziun, vegn la dumonda da mediaziun considerada sco retratga e liquidada.
+<sup>3</sup> Sch’il petent na sa participescha betg a la mediaziun, vegn la dumonda da mediaziun considerada sco retratga e la procedura da mediaziun vegn stritgada.[^12b-5]
 
-<sup>4</sup> Sche las partidas refusan da gidar a tschertgar ina cunvegna u sch’ellas retardeschan abusivamain la procedura da mediaziun, po il IFPDT constatar che la mediaziun n’è betg reussida.[^12b-5]
+<sup>4</sup> Sche las partidas refusan da gidar a tschertgar ina cunvegna u sch’ellas retardeschan abusivamain la procedura da mediaziun, po il IFPDT constatar che la mediaziun n’è betg reussida.[^12b-6]
 
 [^12b-1]: Integrà tras la cifra I da l’O dals 20 d’avr. 2011, en vigur dapi il 1. da fan. 2011 ([AS 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)).
 [^12b-2]: Versiun tenor la cifra II 13 da l’agiunta 2 da l’O dals 31 d’avust 2022 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^12b-3]: Versiun tenor la cifra II 13 da l’agiunta 2 da l’O dals 31 d’avust 2022 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^12b-4]: Versiun tenor la cifra II 13 da l’agiunta 2 da l’O dals 31 d’avust 2022 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^12b-5]: Versiun tenor la cifra II 13 da l’agiunta 2 da l’O dals 31 d’avust 2022 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12b-5]: Versiun tenor la cifra I da l’O dals 29 da sett. 2023, en vigur dapi il 1. da nov. 2023 ([AS 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
+[^12b-6]: Versiun tenor la cifra II 13 da l’agiunta 2 da l’O dals 31 d’avust 2022 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 13
 
@@ -290,17 +292,24 @@ Las unitads administrativas da l’administraziun federala centrala transmettan 
 
 #### Art. 14
 
-**Princip**
+**Princips**[^14-1]
 
-I vegnan applitgadas las disposiziuns da l’Ordinaziun generala da taxas dals 8 da settember 2004[^14-1] cun resalva da las regulaziuns spezialas da l’ordinaziun qua avant maun.
+### (art. 17 al. 2 LTrans)
 
-[^14-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+<sup>1</sup> Sche l’autoritad dovra dapli che 8 uras lavur per elavurar ina dumonda d’access, po vegnir incassada ina taxa. Per calcular la taxa vegn resguardà mo il temp che surpassa 8 uras.
+
+<sup>2</sup> I vegnan applitgadas las disposiziuns da l’Ordinaziun generala da taxas dals 8 da settember 2004[^14-2], cun resalva da regulaziuns spezialas da l’ordinaziun qua avant maun.
+
+[^14-1]: Versiun tenor la cifra I da l’O dals 29 da sett. 2023, en vigur dapi il 1. da nov. 2023 ([AS 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
+[^14-2]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 #### Art. 15
 
 **Relasch u reducziun da las taxas**
 
-### (art. 17 al. 2 e 3 LTrans)
+### (art. 17 al. 2 LTrans)
+
+[^15-1]
 
 <sup>1</sup> L’autoritad renunzia d’incassar taxas, sch’ils custs per incassar las taxas surpassan l’import da las taxas sco talas. Taxas da main che 100 francs na vegnan betg facturadas.
 
@@ -308,19 +317,25 @@ I vegnan applitgadas las disposiziuns da l’Ordinaziun generala da taxas dals 8
 
 <sup>3</sup> L’autoritad po renunziar d’incassar taxas u po reducir las taxas, sch’ella refusa l’access u al conceda mo parzialmain.
 
-<sup>4</sup> Sche l’autoritad incassescha ina taxa per ina dumonda d’access fatga da collavuraturs dals meds da massa, reducescha ella questa taxa per almain 50 pertschient. Ella po desister da la reducziun, sche la dumonda d’access dovra spezialmain blera lavur per vegnir tractada.[^15-1]
+<sup>4</sup> Sche l’autoritad incassescha ina taxa per ina dumonda d’access fatga da collavuraturs dals meds da massa, reducescha ella questa taxa per 50 pertschient.[^15-2]
 
-[^15-1]: Integrà tras la cifra I da l’O dals 25 da zer. 2014, en vigur dapi il 1. da sett. 2014 ([AS 2014 2169](https://fedlex.data.admin.ch/eli/oc/2014/366)).
+[^15-1]: Versiun tenor la cifra I da l’O dals 29 da sett. 2023, en vigur dapi il 1. da nov. 2023 ([AS 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
+[^15-2]: Integrà tras la cifra I da l’O dals 25 da zer. 2014 ([AS 2014 2169](https://fedlex.data.admin.ch/eli/oc/2014/366)). Versiun tenor la cifra I da l’O dals 29 da sett. 2023, en vigur dapi il 1. da nov. 2023 ([AS 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
 
 #### Art. 16
 
 **Tariffa da taxas ed infurmaziun davart ils custs previs**
 
-### (art. 17 al. 3 LTrans)
+### (art. 17 al. 2 LTrans)
+
+[^16-1]
 
 <sup>1</sup> La tariffa da taxas è fixada en l’agiunta 1.
 
-<sup>2</sup> Sch’ils custs previs surpassan 100 francs, infurmescha l’autoritad il petent davart l’import previs da la taxa. Sch’il petent na conferma betg entaifer 10 dis la dumonda d’access, vegn quella considerada sco retratga. L’autoritad renviescha il petent a quest fatg.
+<sup>2</sup> Cura che l’autoritad infurmescha il petent ch’i saja previs d’incassar ina taxa, fixescha ella in termin da 10 dis, entaifer il qual il petent po confermar la dumonda d’access. Sch’il petent na conferma betg la dumonda d’access, vala ella sco retratga. L’autoritad renda attent il petent a questa consequenza.[^16-2]
+
+[^16-1]: Versiun tenor la cifra I da l’O dals 29 da sett. 2023, en vigur dapi il 1. da nov. 2023 ([AS 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
+[^16-2]: Versiun tenor la cifra I da l’O dals 29 da sett. 2023, en vigur dapi il 1. da nov. 2023 ([AS 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
 
 ## 6. secziun Gestiun e publicaziun dals documents uffizials sco er infurmaziuns davart ils documents uffizials
 
@@ -376,9 +391,10 @@ Mintga autoritad communitgescha annualmain al IFPDT:[^21-1]
 
 - a. il dumber da las dumondas d’access inoltradas durant l’onn;
 - b. il dumber da las dumondas d’access acceptadas e refusadas dal tuttafatg u parzialmain;
-- c. l’import total da las taxas che vegnan incassadas tenor la Lescha da transparenza.
+- c.[^21-2] l’import total da las taxas ch’èn vegnidas incassadas per l’access a documents uffizials tenor la Lescha da transparenza sco er il dumber da cas, en ils quals è vegnida incassada ina taxa.
 
 [^21-1]: Versiun tenor la cifra II 13 da l’agiunta 2 da l’O dals 31 d’avust 2022 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^21-2]: Versiun tenor la cifra I da l’O dals 29 da sett. 2023, en vigur dapi il 1. da nov. 2023 ([AS 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
 
 ## 9. secziun Disposiziuns finalas
 
@@ -402,11 +418,13 @@ Per dumondas da mediaziun ch’èn vegnidas inoltradas avant l’entrada en vigu
 
 Questa ordinaziun entra en vigur il 1. da fanadur 2006.
 
-Agiunta 1
+Agiunta 1[^t-1]
 
 (art. 16)
 
 ## Tariffa da taxas en francs
+
+[^t-1]: Rectifitgà tenor la cifra II da l’O dals 29 da sett. 2023, en vigur dapi il 1. da nov. 2023 ([AS 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
 
 ### 1. Reproducziuns
 
@@ -421,6 +439,7 @@ Agiunta 1
 <tr><td>Copia electronica arcunada sin in purtader da datas legibel d’ina maschina, ultra dal pretsch per pagina</td><td></td></tr>
 <tr><td>– per disketta</td><td>5.–</td></tr>
 <tr><td>– per CD-ROM u DVD</td><td>35.–</td></tr>
+<tr><td>– per purtader da datas USB</td><td>custs da material effectivs</td></tr>
 <tr><td>Bindel u video registrà da l’autoritad</td><td></td></tr>
 <tr><td>– per cassetta</td><td>35.–</td></tr>
 <tr><td>Reproducziuns da fotografias, films da 16 u da 35 mm copiads sin video sco er ulteriuras copias che ston vegnir fatgas da firmas partenarias externas</td><td>tenor offerta</td></tr>

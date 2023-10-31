@@ -4,11 +4,11 @@ title: "Ordinance of 24 May 2006 on Freedom of Information in the Administration
 short: FoIO
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/356"
 language: en
-version: 2023-09-01
+version: 2023-11-01
 adopted: 2006-05-24
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/356/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2006-356-20230901-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/356/20231101/en/xml/fedlex-data-admin-ch-eli-cc-2006-356-20231101-en-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20231101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Freedom of Information Ordinance, FoIO)
 
-of 24 May 2006 (Status as of 1 September 2023)
+of 24 May 2006 (Status as of 1 November 2023)
 
 The Swiss Federal Council,
 
@@ -249,15 +249,16 @@ The parties are obliged:
 - b. to cooperate in seeking a settlement;
 - c. to participate in the mediation hearing; the authority shall participate in the mediation hearing through the person appointed to represent it.
 
-<sup>3</sup> If the applicant fails to participate in the mediation hearing, the request for mediation is deemed to have been withdrawn and to be settled.
+<sup>3</sup> If the applicant fails to participate in the mediation hearing, the request for mediation shall be deemed to have been withdrawn and the mediation proceedings shall be dismissed.[^12b-5]
 
-<sup>4</sup> If the parties refuse to cooperate in seeking a settlement or if they improperly delay the mediation proceedings, the FDPIC may rule that the mediation has failed.[^12b-5]
+<sup>4</sup> If the parties refuse to cooperate in seeking a settlement or if they improperly delay the mediation proceedings, the FDPIC may rule that the mediation has failed.[^12b-6]
 
 [^12b-1]: Inserted by No I of the O of 20 April 2011, in force since 1 July 2011 ([AS 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)).
 [^12b-2]: Amended by Annex 2 No II 13 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^12b-3]: Amended by Annex 2 No II 13 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^12b-4]: Amended by Annex 2 No II 13 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^12b-5]: Amended by Annex 2 No II 13 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12b-5]: Amended by No I of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
+[^12b-6]: Amended by Annex 2 No II 13 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 13
 
@@ -291,17 +292,24 @@ The administrative units of the Central Federal Administration shall provide the
 
 #### Art. 14
 
-**Principle**
+**Principles**[^14-1]
 
-Insofar as this Ordinance does not contain specific rules, the provisions of the General Fees Ordinance of 8 September 2004[^14-1] apply.
+### (Art. 17 para. 2 FoIA)
 
-[^14-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+<sup>1</sup> If the processing of an application for access by the authority requires more than 8 hours’ work, a fee may be charged. The fee shall be calculated based on the number of hours worked in excess of 8 hours.
+
+<sup>2</sup> Insofar as this Ordinance does not contain specific rules, the provisions of the General Fees Ordinance of 8 September 2004[^14-2] apply.
+
+[^14-1]: Amended by No I of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
+[^14-2]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 #### Art. 15
 
 **Waiver or reduction of fees**
 
-### (Art. 17 para. 2 and 3 FoIA)
+### (Art. 17 para. 2 FoIA)
+
+[^15-1]
 
 <sup>1</sup> The authority shall waive fees where the cost of collecting them would exceed the fee amount. Fees of less than 100 francs shall not be charged.
 
@@ -309,9 +317,10 @@ Insofar as this Ordinance does not contain specific rules, the provisions of the
 
 <sup>3</sup> The authority may waive or reduce fees where it denies an application for access or only grants partial access.
 
-<sup>4</sup> If the authority charges a fee for an application for access made by a journalist, it shall reduce this fee by at least 50 per cent. It need not make any reduction if the application for access requires particularly extensive processing.[^15-1]
+<sup>4</sup> If the authority charges a fee for an application for access made by a journalist, it shall reduce this fee by 50 per cent.[^15-2]
 
-[^15-1]: Inserted by No I of the O of 25 June 2014, in force since 1 Sept. 2014 ([AS 2014 2169](https://fedlex.data.admin.ch/eli/oc/2014/366)).
+[^15-1]: Amended by No I of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
+[^15-2]: Inserted by No I of the O of 25 June 2014 ([AS 2014 2169](https://fedlex.data.admin.ch/eli/oc/2014/366)). Amended by No I of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
 
 #### Art. 16
 
@@ -319,9 +328,14 @@ Insofar as this Ordinance does not contain specific rules, the provisions of the
 
 ### (Art. 17 para. 3 FoIA)
 
+[^16-1]
+
 <sup>1</sup> The schedule of fees is set out in Annex 1.
 
-<sup>2</sup> If the costs are likely to exceed 100 francs, the authority shall inform the applicant of the expected fee amount. If the applicant does not confirm his application for access within ten days, it shall be deemed to be withdrawn. The authority shall inform the applicant accordingly.
+<sup>2</sup> On informing the applicant that it is intended to charge a fee, the authority shall allow the applicant 10 days within which to confirm that application for access. If no confirmation is received, the application shall be deemed to be withdrawn. The authority shall inform the applicant accordingly.[^16-2]
+
+[^16-1]: Amended by No I of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
+[^16-2]: Amended by No I of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
 
 ## Section 6 Processing and Publication of Official Documents; Information concerning Official Documents
 
@@ -377,9 +391,10 @@ Each authority shall inform the FDPIC, on an annual basis, of:[^21-1]
 
 - a. the number of applications for access filed during the reporting year;
 - b. the number of such applications granted, refused or partly refused;
-- c. the total amount of fees charged for access to public documents sought under the Freedom of Information Act.
+- c<sup>.</sup>[^21-2] the total amount of fees charged for access to public documents sought under the Freedom of Information Act and the number of cases in which a fee was charged.
 
 [^21-1]: Amended by Annex 2 No II 13 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^21-2]: Amended by No I of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
 
 ## Section 9 Final Provisions
 
@@ -403,13 +418,15 @@ Requests for mediation that were submitted before the Amendment of 20 April 2011
 
 This Ordinance comes into force on 1 July 2006.
 
-Annex 1
+Annex 1[^t-1]
 
 (Art. 16)
 
 ## Schedule of Fees in Swiss Francs
 
-\1. Reproductions
+[^t-1]: Revised by No II of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
+
+### 1. Reproductions
 
 <table>
 <tr><td></td><td>Francs</td></tr>
@@ -422,12 +439,13 @@ Annex 1
 <tr><td>Electronic Copy on a machine-readable medium, additional to the price per page</td><td></td></tr>
 <tr><td>– per diskette</td><td>5.—</td></tr>
 <tr><td>– per CD-ROM or DVD</td><td>35.—</td></tr>
+<tr><td>– per USB data carrier</td><td>effective material costs</td></tr>
 <tr><td>Audio cassette or video cassette recorded by the authority</td><td></td></tr>
 <tr><td>– per cassette</td><td>35.—</td></tr>
 <tr><td>Reproduction of photographs, 16 or 35 mm films copied onto a video cassette as well as any other copies produced by a partner firm</td><td>as per quotation</td></tr>
 </table>
 
-\2. Review and Preparation of Official Documents for the Provision of Access
+### 2. Review and Preparation of Official Documents for the Provision of Access
 
 <table>
 <tr><td></td><td>Francs</td></tr>

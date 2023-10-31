@@ -4,11 +4,11 @@ title: "Ordinanza del 24 maggio 2006 sul principio di trasparenza dell'amministr
 short: OTras
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/356"
 language: it
-version: 2023-09-01
+version: 2023-11-01
 adopted: 2006-05-24
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/356/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2006-356-20230901-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/356/20231101/it/xml/fedlex-data-admin-ch-eli-cc-2006-356-20231101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20231101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20230901/it"
 
 (Ordinanza sulla trasparenza, OTras)
 
-del 24 maggio 2006 (Stato 1° settembre 2023)
+del 24 maggio 2006 (Stato 1° novembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -117,9 +117,11 @@ L’accesso a un documento ufficiale accordato a una persona deve essere accorda
 
 L’interesse pubblico alla trasparenza può prevalere quando:
 
-- a. la pubblicazione risponde a un particolare bisogno di informazione da parte del pubblico, in particolare in seguito a nuovi eventi;
+- a.[^6-1] la pubblicazione risponde a un particolare bisogno di informazione da parte del pubblico, in particolare in seguito a eventi importanti;
 - b. la pubblicazione serve a tutelare interessi pubblici specifici, segnatamente l’ordine pubblico, la sicurezza o la salute pubblica;
 - c. la persona, la cui sfera privata potrebbe essere lesa dalla pubblicazione, ha una relazione di diritto o di fatto con una delle autorità sottostanti alla legge sulla trasparenza, dalla quale ricava vantaggi considerevoli.
+
+[^6-1]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
 
 ## Sezione 3: Domanda di accesso ai documenti ufficiali e competenze
 
@@ -287,17 +289,24 @@ Le unità amministrative dellʼAmministrazione federale centrale trasmettono all
 
 #### Art. 14
 
-**Principio**
+**Principi**[^14-1]
 
-Si applicano le disposizioni dell’ordinanza generale sugli emolumenti dell’8 settembre 2004[^14-1], fatte salve le disposizioni speciali della presente ordinanza.
+### (art. 17 cpv. 2 LTras)
 
-[^14-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+<sup>1</sup> Può essere riscosso un emolumento se il trattamento di una domanda di accesso richiede più di otto ore di lavoro da parte dell’autorità. Per il calcolo dell’emolumento è preso in considerazione solo il tempo di lavoro che supera le otto ore.
+
+<sup>2</sup> Si applicano le disposizioni dell’ordinanza generale dell’8 settembre 2004[^14-2] sugli emolumenti, fatte salve le disposizioni speciali della presente ordinanza.
+
+[^14-1]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
+[^14-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 #### Art. 15
 
-**Condono o riduzione degli emolumenti**
+**Tariffa degli emolumenti e informazione sui costi previsti**
 
-### (art. 17 cpv. 2 e 3 LTras)
+### (art. 17 cpv. 2 LTras)
+
+[^15-1]
 
 <sup>1</sup> L’autorità rinuncia alla riscossione di emolumenti quando i costi occasionati dalla riscossione sono superiori all’importo degli emolumenti stessi. Non sono fatturati gli emolumenti inferiori a 100 franchi.
 
@@ -305,19 +314,25 @@ Si applicano le disposizioni dell’ordinanza generale sugli emolumenti dell’8
 
 <sup>3</sup> L’autorità può condonare o ridurre gli emolumenti se rifiuta l’accesso o lo accorda solo parzialmente.
 
-<sup>4</sup> L’autorità riduce almeno del 50 per cento l’emolumento riscosso per una domanda di accesso presentata da professionisti dei media. Può rinunciare alla riduzione se la domanda richiede un trattamento particolarmente dispendioso.[^15-1]
+<sup>4</sup> L’autorità riduce almeno del 50 per cento l’emolumento riscosso per una domanda di accesso presentata da professionisti dei media. Può rinunciare alla riduzione se la domanda richiede un trattamento particolarmente dispendioso.[^15-2]
 
-[^15-1]: Introdotto dal n. I dell’O del 25 giu. 2014, in vigore dal 1° set. 2014 ([RU 2014 2169](https://fedlex.data.admin.ch/eli/oc/2014/366)).
+[^15-1]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
+[^15-2]: Introdotto dal n. I dell’O del 25 giu. 2014 ([RU 2014 2169](https://fedlex.data.admin.ch/eli/oc/2014/366)). Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
 
 #### Art. 16
 
 **Tariffa degli emolumenti e informazione sui costi previsti**
 
-### (art. 17 cpv. 3 LTras)
+### (art. 17 cpv. 2 LTras)
+
+[^16-1]
 
 <sup>1</sup> La tariffa degli emolumenti è fissata nell’allegato 1.
 
-<sup>2</sup> Se i costi previsti superano i 100 franchi, l’autorità informa il richiedente dell’importo previsto dell’emolumento. Se il richiedente non conferma entro 10 giorni la domanda di accesso, quest’ultima è considerata ritirata. L’autorità rammenta al richiedente le conseguenze del non rispetto del termine impartito.
+<sup>2</sup> Quando informa il richiedente della prevista riscossione di un emolumento, l’autorità fissa un termine di 10 giorni entro il quale il richiedente deve confermare la domanda di accesso. In caso di mancata conferma, la domanda è considerata ritirata. L’autorità rammenta al richiedente le conseguenze del non rispetto del termine impartito. [^16-2]
+
+[^16-1]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
+[^16-2]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
 
 ## Sezione 6: Gestione e pubblicazione di documenti ufficiali nonché informazioni sui documenti ufficiali
 
@@ -361,7 +376,9 @@ La Cancelleria federale e i Dipartimenti designano almeno un consulente per la t
 
 - a. offrire consulenza alle unità amministrative e alle persone o alle organizzazioni al di fuori dell’Amministrazione federale che sottostanno alla legge sulla trasparenza;
 - b. promuovere l’informazione e la formazione dei collaboratori;
-- c. collaborare all’applicazione della legge sulla trasparenza dell’amministrazione.
+- c.[^20-1] collaborare all’applicazione della legislazione sul principio di trasparenza dell’amministrazione.
+
+[^20-1]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
 
 ## Sezione 8: Valutazione
 
@@ -373,9 +390,10 @@ Ogni autorità comunica annualmente all’IFPDT:[^21-1]
 
 - a. il numero di domande di accesso inoltrate durante l’anno;
 - b. il numero di domande accettate, respinte o parzialmente respinte;
-- c. l’importo totale degli emolumenti riscossi ai sensi della legge sulla trasparenza.
+- c.[^21-2] l’importo totale degli emolumenti riscossi ai sensi della legge sulla trasparenza, nonché il numero dei casi in cui è stato riscosso un emolumento.
 
 [^21-1]: Nuovo testo giusta l’all. 2 n. II 13 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^21-2]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
 
 ## Sezione 9: Disposizioni finali
 
@@ -399,11 +417,13 @@ Alle domande di mediazione presentate prima dellʼentrata in vigore della presen
 
 La presente ordinanza entra in vigore il 1° luglio 2006.
 
-Allegato 1
+Allegato 1[^t-1]
 
 (art. 16)
 
 ## Tariffa degli emolumenti in franchi
+
+[^t-1]: Aggiornato dal n. II dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
 
 ### 1. Riproduzioni
 
@@ -418,6 +438,7 @@ Allegato 1
 <tr><td>Copia elettronica memorizzata su supporto elettronico leggibile da una macchina, oltre al prezzo per pagina</td><td></td></tr>
 <tr><td>– per dischetto</td><td>5.—</td></tr>
 <tr><td>– per CD-ROM o DVD</td><td>35.—</td></tr>
+<tr><td>– per supporto dati USB</td><td>costi effettivi del materiale</td></tr>
 <tr><td>Audiocassetta o videocassetta, registrata dall’autorità</td><td></td></tr>
 <tr><td>– per cassetta</td><td>35.—</td></tr>
 <tr><td>Riproduzioni di foto, film 16 o 35 mm registrati su videocassetta e ulteriori copie effettuate da ditte partner esterne</td><td>secondo l’offerta</td></tr>

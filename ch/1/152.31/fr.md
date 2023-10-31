@@ -4,11 +4,11 @@ title: "Ordonnance du 24 mai 2006 sur le principe de la transparence dans l'admi
 short: OTrans
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/356"
 language: fr
-version: 2023-09-01
+version: 2023-11-01
 adopted: 2006-05-24
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/356/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2006-356-20230901-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/356/20231101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-356-20231101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20231101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20230901/fr"
 
 (Ordonnance sur la transparence, OTrans)
 
-du 24 mai 2006 (État le 1<sup>er</sup> septembre 2023)
+du 24 mai 2006 (État le 1<sup>er</sup> novembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -107,7 +107,7 @@ L’accès accordé à une personne doit être accordé dans la même mesure à 
 
 #### Art. 6
 
-**Protection de la sphère privée de tiers et prépondérance de l’intérêt public**
+**Pesée d’intérêts entre la protection de la sphère privée de tiers et l’intérêt public à l’accès[^6-1]**
 
 ### (art. 7, al. 2, LTrans)
 
@@ -120,6 +120,8 @@ Un intérêt public à la transparence est jugé prépondérant notamment:
 - a. lorsque le droit d’accès à un document répond à un besoin particulier d’information de la part du public suite notamment à des événements importants;
 - b. lorsque le droit d’accès sert à protéger des intérêts publics notamment l’ordre, la sécurité ou la santé publics, ou
 - c. lorsque la personne, dont la sphère privée pourrait être atteinte par le droit d’accès à un document officiel, est liée à une autorité soumise à la loi sur la transparence par un rapport de fait ou de droit qui lui procure des avantages importants.
+
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
 
 ## Section 3 Demande d’accès et compétences
 
@@ -182,11 +184,13 @@ L’autorité prend position sur les demandes d’accès présentées par les m�
 
 <sup>2</sup> Lorsque la demande d’accès porte sur plusieurs documents qui concernent la même affaire et qui ont été établis ou reçus par différentes autorités soumises à la loi sur la transparence, l’autorité en charge de l’affaire est compétente pour prendre position.
 
-<sup>3</sup> Lorsque plusieurs autorités sont en charge de l’affaire, elles déterminent d’un commun accord l’autorité compétente pour prendre position. Cette dernière prend position sur la demande d’accès, d’entente avec les autorités intéressées.
+<sup>3</sup> Lorsque la charge de l’affaire n’a été attribuée à aucune autorité, les autorités intéressées déterminent d’un commun accord l’autorité compétente pour prendre position. Cette dernière prend position sur la demande d’accès, d’entente avec les autres autorités intéressées.[^11-1]
 
 <sup>4</sup> Lorsqu’un document a été élaboré à la demande d’une autre autorité, cette dernière doit être entendue par l’autorité compétente avant que celle-ci prenne position.
 
 <sup>5</sup> Lorsque la demande d’accès porte sur un document classifié, la compétence et la procédure sont régies par les dispositions applicables en matière de protection des informations et de classification. L’autorité compétente examine si le document peut être déclassifié.
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
 
 ## Section 4 Médiation et recommandation
 
@@ -285,17 +289,24 @@ Les unités de l’administration fédérale centrale communiquent au PFPDT leur
 
 #### Art. 14
 
-**Principe**
+**Principes**[^14-1]
 
-L’ordonnance générale sur les émoluments du 8 septembre 2004[^14-1] est applicable, sous réserve des dispositions spéciales de la présente ordonnance.
+### (art. 17, al. 2, LTrans)
 
-[^14-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+<sup>1</sup> Lorsque le traitement d’une demande d’accès par l’autorité nécessite plus de 8 heures de travail, un émolument peut être perçu. Seul le temps de travail dépassant 8 heures est pris en compte pour le calcul de l’émolument.
+
+<sup>2</sup> Sauf dispositions particulières de la présente ordonnance, les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émoluments[^14-2] s’appliquent.
+
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
+[^14-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 #### Art. 15
 
 **Remise ou réduction de l’émolument**
 
-### (art. 17, al. 2 et 3 LTrans)
+### (art. 17, al. 2 LTrans)
+
+[^15-1]
 
 <sup>1</sup> L’autorité renonce à percevoir un émolument lorsque la perception de cet émolument occasionne des frais d’un montant supérieur à celui des prestations fournies. Les émoluments inférieurs à 100 francs ne sont pas facturés.
 
@@ -303,19 +314,25 @@ L’ordonnance générale sur les émoluments du 8 septembre 2004[^14-1] est app
 
 <sup>3</sup> L’autorité peut remettre ou réduire l’émolument lorsqu’elle refuse l’accès aux documents officiels ou lorsqu’elle ne l’accorde que partiellement.
 
-<sup>4</sup> Lorsqu’un émolument est perçu dans le cas d’une demande d’accès présentée par un média, l’autorité le réduit d’au moins 50 %. Elle peut renoncer à la réduction si la demande d’accès nécessite un surcroît important de travail.[^15-1]
+<sup>4</sup> Lorsqu’un émolument est perçu dans le cas d’une demande d’accès présentée par un média, l’autorité le réduit de 50 %.[^15-2]
 
-[^15-1]: Introduit par le ch. I de l’O du 25 juin 2014, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 2169](https://fedlex.data.admin.ch/eli/oc/2014/366)).
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
+[^15-2]: Introduit par le ch. I de l’O du 25 juin 2014 ([RO 2014 2169](https://fedlex.data.admin.ch/eli/oc/2014/366)). Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
 
 #### Art. 16
 
 **Tarif des émoluments et information sur les coûts prévisibles**
 
-### (art. 17, al. 3 LTrans)
+### (art. 17, al. 2 LTrans)
+
+[^16-1]
 
 <sup>1</sup> Le tarif des émoluments est fixé dans l’annexe 1.
 
-<sup>2</sup> Si les coûts prévus dépassent 100 francs, l’autorité informe le demandeur du montant prévisible de l’émolument. Si ce dernier ne confirme pas sa demande d’accès dans un délai de dix jours, elle est considérée comme retirée. L’autorité rend le demandeur attentif aux conséquences du non respect du délai.
+<sup>2</sup> Lorsque l’autorité informe le demandeur de la perception d’un émolument, elle fixe un délai de dix jours pour que le demandeur confirme sa demande d’accès. En l’absence de confirmation, la demande est considérée comme retirée. L’autorité rend le demandeur attentif aux conséquences du non-respect du délai.[^16-2]
+
+[^16-1]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
+[^16-2]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
 
 ## Section 6 Gestion et publication des documents officiels, information relative aux documents officiels
 
@@ -359,7 +376,9 @@ La Chancellerie fédérale et chaque département désignent au minimum un conse
 
 - a. de conseiller les unités administratives concernées, les personnes ou les organismes extérieurs à l’administration fédérale et qui sont soumis à la loi sur la transparence;
 - b. de promouvoir l’information et la formation des collaborateurs;
-- c. de concourir à l’application de la législation sur la transparence.
+- c.[^20-1] de concourir à l’application de la législation sur le principe de la transparence de l’administration.
+
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
 
 ## Section 8 Évaluation
 
@@ -371,9 +390,10 @@ Chaque année, les autorités communiquent au PFPDT les informations suivantes:[
 
 - a. le nombre de demandes d’accès déposées pendant l’année;
 - b. le nombre de demandes acceptées, rejetées ou partiellement rejetées;
-- c. le montant des émoluments perçus en vertu de la loi sur la transparence.
+- c.[^21-2] le montant des émoluments perçus en vertu de la loi sur la transparence et le nombre de cas dans lesquels un émolument a été perçu.
 
 [^21-1]: Nouvelle teneur selon l’annexe 2 ch. II 13 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^21-2]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
 
 ## Section 9 Dispositions finales
 
@@ -397,11 +417,13 @@ L’ancien droit s’applique aux demandes en médiation déposées avant l’en
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> juillet 2006.
 
-Annexe 1
+Annexe 1[^t-1]
 
 (art. 16)
 
 ## Tarif des émoluments en francs
+
+[^t-1]: Mise à jour par le ch. II de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 585](https://fedlex.data.admin.ch/eli/oc/2023/585)).
 
 ### 1. Reproductions
 
@@ -416,6 +438,7 @@ Annexe 1
 <tr><td>Copie électronique sauvegardée sur support numérique, en sus du prix par page</td><td></td></tr>
 <tr><td>– par disquette</td><td>[tab] 5.—</td></tr>
 <tr><td>– par CD-ROM ou DVD</td><td>[tab] 35.—</td></tr>
+<tr><td>– par support de données USB</td><td>coûts effectifs du matériel</td></tr>
 <tr><td>Cassette audio ou cassette vidéo enregistrée par l’autorité</td><td></td></tr>
 <tr><td>– par cassette</td><td>[tab] 35.—</td></tr>
 <tr><td>Reproduction de photographies, film 16 ou 35 mm copié sur cassette vidéo ainsi que toutes autres copies effectuées par une firme partenaire extérieure</td><td>selon l’offre</td></tr>
