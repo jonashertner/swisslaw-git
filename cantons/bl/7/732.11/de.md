@@ -4,13 +4,13 @@ number: "732.11"
 title: Verordnung zum Zivilschutzgesetz im Kanton Basel-Landschaft
 short: Vo ZSG BL
 language: de
-version: 2022-07-01
-valid_until: 2023-10-31
-version_adopted: 2022-05-31
+version: 2023-11-01
+valid_until: 2025-04-30
+version_adopted: 2023-09-19
 adopted: 2022-05-31
 in_force: 2022-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/732.11"
-pdf: "https://bl.clex.ch/api/de/versions/3367/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3723/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3367/pdf_file"
 
 (Vo ZSG BL)
 
-Vom 31.05.2022 (Stand 01.07.2022)
+Vom 31.05.2022 (Stand 01.11.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -53,6 +53,8 @@ beschliesst:
 - e. technische Hilfe;
 - f. Logistik.
 
+<sup>2</sup> Die Aufgaben der Bereiche richten sich nach dem Leistungsprofil Zivilschutz im Anhang.
+
 #### § 3
 
 **Organisation der kantonalen Zivilschutzorganisation**
@@ -65,15 +67,17 @@ beschliesst:
 - d. Logistik;
 - e. Spezialistinnen und Spezialisten.
 
+<sup>2</sup> Die Aufgaben der Bereiche richten sich nach dem Leistungsprofil Zivilschutz im Anhang.
+
 #### § 4
 
 **Berichterstattung**
 
-<sup>1</sup> Die Einwohnergemeinden berichten dem AMB über die Umsetzung des Leistungsprofils.
+<sup>1</sup> Die Einwohnergemeinden berichten dem Amt für Militär und Bevölkerungsschutz (AMB) über die Umsetzung des Leistungsprofils gemäss Anhang.
 
-<sup>2</sup> Die Berichterstattung erfolgt 1-mal jährlich auf das Jahresende.
+<sup>2</sup> Die Berichterstattung erfolgt einmal jährlich auf das Jahresende.
 
-<sup>3</sup> Die Einwohnergemeinden berichten dem AMB über ihren Einsatz zur Bewältigung eines Ereignisses gemäss Bevölkerungsschutzgesetz und die Erkenntnisse daraus.
+<sup>3</sup> Die Einwohnergemeinden berichten dem Amt für Militär und Bevölkerungsschutz (AMB) über ihren Einsatz zur Bewältigung eines Ereignisses gemäss Bevölkerungsschutzgesetz und die Erkenntnisse daraus.
 
 #### § 5
 
