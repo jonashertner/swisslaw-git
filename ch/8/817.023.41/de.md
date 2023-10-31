@@ -3,20 +3,20 @@ sr: "817.023.41"
 title: "Verordnung des EDI vom 23. November 2005 über Gegenstände für den Schleimhaut-, Haut- und Haarkontakt sowie über Kerzen, Streichhölzer, Feuerzeuge und Scherzartikel (Verordnung über Gegenstände für den Humankontakt, HKV)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/811"
 language: de
-version: 2021-04-20
+version: 2023-11-01
 adopted: 2005-11-23
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/811/20210420/de/xml/fedlex-data-admin-ch-eli-cc-2005-811-20210420-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/811/20210420/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/811/20231101/de/xml/fedlex-data-admin-ch-eli-cc-2005-811-20231101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/811/20231101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EDI über Gegenstände für den Schleimhaut-, Haut- und Haarkontakt sowie über Kerzen, Streichhölzer, Feuerzeuge und Scherzartikel
 
-(Verordnung über Gegenstände für den Humankontakt)**[^t-1]**
+(Verordnung über Gegenstände für den Humankontakt)[^t-1]
 
-vom 23. November 2005 (Stand am 20. April 2021)
+vom 23. November 2005 (Stand am 1. November 2023)
 
 [^t-1]: Fassung gemäss Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
 
@@ -42,26 +42,27 @@ Diese Verordnung legt die Anforderungen fest an:
   - 1\.[^1-1] metallhaltige Gegenstände mit Hautkontakt,
   - 2\. Tätowierfarben und Farben für Permanent-Make-up sowie deren Kennzeichnung,
   - 3\. Apparate und Instrumente für Piercing, Tätowierung und Permanent-Make-up,
-  - 4\. afokale (brennpunktlose) kosmetische Kontaktlinsen und deren Kennzeichnung,
+  - 4\.[^1-2] …
   - 5\. Gebrauchsgegenstände für Säuglinge und Kleinkinder,
-  - 6\.[^1-2] textile Materialien nach Artikel 64 Absatz 1 LGV hinsichtlich ihrer Entflammbarkeit und Brennbarkeit, darin enthaltener chemischer Stoffe sowie der Kennzeichnung,
-  - 7\.[^1-3] Ledererzeugnisse hinsichtlich darin enthaltener chemischer Stoffe,
-  - 8\.[^1-4] Kordeln und Zugbänder an Kinderbekleidung;
+  - 6\.[^1-3] textile Materialien nach Artikel 64 Absatz 1 LGV hinsichtlich ihrer Entflammbarkeit und Brennbarkeit, darin enthaltener chemischer Stoffe sowie der Kennzeichnung,
+  - 7\.[^1-4] Ledererzeugnisse hinsichtlich darin enthaltener chemischer Stoffe,
+  - 8\.[^1-5] Kordeln und Zugbänder an Kinderbekleidung;
 
 - b. Kerzen, Streichhölzer, Feuerzeuge und Scherzartikel.
 
 [^1-1]: Fassung gemäss Ziff. I der V des EDI vom 25. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
-[^1-2]: Fassung gemäss Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
+[^1-2]: Aufgehoben durch Anhang Ziff. 4 der V vom 29. Sept. 2023, mit Wirkung seit 1. Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 [^1-3]: Fassung gemäss Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-[^1-4]: Eingefügt durch Ziff. I der V des EDI vom 25. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
+[^1-4]: Fassung gemäss Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
+[^1-5]: Eingefügt durch Ziff. I der V des EDI vom 25. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
 
-## 2. Kapitel: Gebrauchsgegenstände für den Schleimhaut-, Haut- und Haarkontakt****
+## 2. Kapitel: Gebrauchsgegenstände für den Schleimhaut-, Haut- und Haarkontakt
 
 [^chap2-1]
 
 [^chap2-1]: Fassung gemäss Ziff. I der V des EDI vom 13. Okt. 2010, in Kraft seit 1. Nov. 2010 ([AS 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)).
 
-### 1. Abschnitt: Anforderungen an metallhaltige Gegenstände für den Hautkontakt****
+### 1. Abschnitt: Anforderungen an metallhaltige Gegenstände für den Hautkontakt
 
 [^chap2-sec1-1]
 
@@ -226,62 +227,13 @@ Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) kann berufss
 
 [^9-1]: Fassung gemäss Ziff. I der V des EDI vom 25. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
 
-### 3. Abschnitt: Afokale kosmetische Kontaktlinsen
+### 3. Abschnitt: …
 
-#### Art. 10
+#### Art. 10–12
 
-**Anforderungen**
+[^1012-1]
 
-Von afokalen kosmetischen Kontaktlinsen, die den in Anhang 3 genannten Normen entsprechen, wird vermutet, dass sie die Sicherheitsanforderungen erfüllen.
-
-#### Art. 11
-
-**Kennzeichnung**
-
-<sup>1</sup>
-
-Auf der Verpackung von afokalen kosmetischen Kontaktlinsen müssen zum Zeitpunkt der Abgabe an Konsumentinnen und Konsumenten folgende Angaben angebracht sein:
-
-- a. Name und Adresse der Person oder Firma, die die afokale kosmetische Kontaktlinse herstellt, einführt, abpackt oder abgibt;
-- b. das Warenlos;
-- c. das Datum, bis zu dem die afokale kosmetische Kontaktlinse an Konsumentinnen und Konsumenten abgegeben werden darf, anzugeben mit Monat und Jahr.
-
-<sup>2</sup>
-
-Auf der Verpackung oder dem Beipackzettel müssen zusätzlich folgende Angaben enthalten sein:[^11-1]
-
-- a. die maximale Gebrauchs- oder Nutzungsdauer einer kosmetischen Kontaktlinse (z.B. «Ein-Tages-Kontaktlinsen»);
-- b. die Pflegeanleitung für afokale kosmetische Kontaktlinsen, die für den Mehrfachgebrauch bestimmt sind;
-- c.
-
-  ein Hinweis, dass:
-
-  - 1\. die tägliche individuelle Tragedauer der afokalen kosmetischen Kontaktlinsen bei der Abgabe an die Konsumentin oder den Konsumenten durch die Fachperson festzulegen ist,
-  - 2\. afokale kosmetische Kontaktlinsen nicht zur Korrektur einer Fehlsichtigkeit geeignet sind,
-  - 3\. afokale kosmetische Kontaktlinsen die Fahrtüchtigkeit einschränken können,
-  - 4\. Sitz und Passform von afokalen kosmetischen Kontaktlinsen regelmässig durch Fachpersonen überprüft werden sollten,
-  - 5\. afokale kosmetische Kontaktlinsen kein Ersatz für Sonnenbrillen sind,
-  - 6\. afokale kosmetische Kontaktlinsen nur aus ungeöffneten und unbeschädigten Originalverpackungen verwendet werden dürfen.
-
-<sup>3</sup> Die Angaben nach Absatz 2 können durch international gebräuchliche Piktogramme gemäss den Normen nach Anhang 3 ersetzt werden.
-
-[^11-1]: Fassung gemäss Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-
-#### Art. 12
-
-**Konformitätsbescheinigung**
-
-<sup>1</sup> Wer afokale kosmetische Kontaktlinsen herstellt oder einführt, muss eine Konformitätsbescheinigung vorlegen können, aus welcher hervorgeht, dass das Produkt auf eine Übereinstimmung mit den Normen nach Anhang 3 geprüft worden ist.
-
-<sup>2</sup>
-
-Die Konformitätsbescheinigung muss in einer Amtssprache oder in Englisch abgefasst sein und folgende Angaben enthalten:
-
-- a. eine Beschreibung der afokalen kosmetischen Kontaktlinse (Artikelnummer und weitere sachdienliche Angaben);
-- b. Name und Adresse der Person, welche die Konformitätsbescheinigung unterzeichnet;
-- c. Aufbewahrungsort der Untersuchungsberichte.
-
-<sup>3</sup> Sie muss ab der Herstellung der afokalen kosmetischen Kontaktlinse während fünf Jahren vorgelegt werden können. Bei Serienanfertigungen beginnt die Frist mit der Fertigstellung des letzten Exemplars zu laufen.
+[^1012-1]: Aufgehoben durch Anhang Ziff. 4 der V vom 29. Sept. 2023, mit Wirkung seit 1. Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 
 ### 4. Abschnitt: Gebrauchsgegenstände für Säuglinge und Kleinkinder
 
@@ -325,7 +277,7 @@ Flaschen- und Beruhigungssauger dürfen an ein Speichelsimulans höchstens abgeb
 - a. N-Nitrosamine: 0,01 mg pro kg Elastomer- oder Gummiteile;
 - b. N-nitrosierbare Stoffe: 0,1 mg pro kg Elastomer- oder Gummiteile.
 
-<sup>2</sup> ...[^14a-2]
+<sup>2</sup> …[^14a-2]
 
 [^14a-1]: Eingefügt durch Ziff. I der V des EDI vom 15. Nov. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5121](https://fedlex.data.admin.ch/eli/oc/2006/779)). Siehe auch die SchlB dieser Änd. am Ende dieses Textes.
 [^14a-2]: Aufgehoben durch Ziff. I der V des EDI vom 13. Okt. 2010, mit Wirkung seit 1. Nov. 2010 ([AS 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)).
@@ -334,7 +286,7 @@ Flaschen- und Beruhigungssauger dürfen an ein Speichelsimulans höchstens abgeb
 
 **Trinkflaschen**[^14b-1]
 
-Trinkflaschen für Säuglinge und Kleinkinder müssen eine Warnaufschrift tragen, die vor Zahnschäden durch Dauerkonsum («Dauernuckeln») gezuckerter oder süss-saurer Getränke warnt. ...[^14b-2]
+Trinkflaschen für Säuglinge und Kleinkinder müssen eine Warnaufschrift tragen, die vor Zahnschäden durch Dauerkonsum («Dauernuckeln») gezuckerter oder süss-saurer Getränke warnt. …[^14b-2]
 
 [^14b-1]: Eingefügt durch Ziff. I der V des EDI vom 15. Nov. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5121](https://fedlex.data.admin.ch/eli/oc/2006/779)). Siehe auch die SchlB dieser Änd. am Ende dieses Textes.
 [^14b-2]: Aufgehoben durch Ziff. I der V des EDI vom 16. Dez. 2016, mit Wirkung seit 1. Mai 2017 ([AS 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
@@ -395,7 +347,7 @@ Dieser Abschnitt gilt für textile Materialien nach Artikel 64 Absatz 1 LGV.
 
 [^20-1]: Aufgehoben durch Ziff. I der V des EDI vom 16. Dez. 2016, mit Wirkung seit 1. Mai 2017 ([AS 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
 
-### 6. Abschnitt: Chemische Stoffe in textilen Materialien, Ledererzeugnissen und anderen Gegenständen für den Humankontakt****
+### 6. Abschnitt: Chemische Stoffe in textilen Materialien, Ledererzeugnissen und anderen Gegenständen für den Humankontakt
 
 [^chap2-sec6-1]
 
@@ -421,9 +373,9 @@ Für die Behandlung von textilen Materialien dürfen folgende Stoffe nicht verwe
 
 - a. Arsen und seine Verbindungen;
 - b. Blei und seine Verbindungen;
-- c.[^22-1] ...
+- c.[^22-1] …
 
-<sup>1bis</sup> ...[^22-2]
+<sup>1bis</sup> …[^22-2]
 
 <sup>1ter</sup>
 
@@ -446,7 +398,7 @@ Die Konzentration von Zinn aus Dioctylzinnverbindungen darf in folgenden Gegenst
 [^22-5]: Eingefügt durch Ziff. I der V des EDI vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3405](https://fedlex.data.admin.ch/eli/oc/2019/616)).
 [^22-6]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
 
-### 7. Abschnitt:**** Kordeln und Zugbänder an Kinderbekleidung
+### 7. Abschnitt: Kordeln und Zugbänder an Kinderbekleidung
 
 [^chap2-sec7-1]
 
@@ -563,6 +515,15 @@ In Abweichung von Artikel 80 Absatz 7 LGV gilt:
 [^28a-1]: Eingefügt durch Ziff. I der V des EDI vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3405](https://fedlex.data.admin.ch/eli/oc/2019/616)).
 [^28a-2]: Verordnung (EU) 2018/1513 der Kommission vom 10. Oktober 2018 zur Änderung des Anhangs XVII der Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH) hinsichtlich bestimmter als karzinogen, keimzellmutagen oder reproduktionstoxisch (CMR) eingestufter Stoffe der Kategorie 1A oder 1B; ABl. L 256 vom 12.10.2018, S. 1.
 
+#### Art. 28b
+
+**Übergangsbestimmung zur Änderung vom 29. September 2023**[^28b-1]
+
+Solange afokale kosmetische Kontaktlinsen gemäss Artikel 106 der Medizinprodukteverordnung vom 1. Juli 2020[^28b-2] ohne Konformitätsbescheinigung vermarktet werden dürfen, bleiben die Anforderungen nach dem bisherigen 2. Kapitel 3. Abschnitt der vorliegenden Verordnung anwendbar. Die Kontrolle dieser Anforderungen erfolgt durch die Vollzugsbehörden nach der Bundesgesetzgebung über Lebensmittel und Gebrauchsgegenstände.
+
+[^28b-1]: Eingefügt durch Anhang Ziff. 4 der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^28b-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+
 #### Art. 29
 
 **Aufhebung bisherigen Rechts**
@@ -577,7 +538,7 @@ Die Brennbarkeitsverordnung vom 26. Juni 1995[^29-1] wird aufgehoben.
 
 Diese Verordnung tritt am 1. Januar 2006 in Kraft.
 
-## Übergangsbestimmung der Änderung vom 15. November 2006****
+## Übergangsbestimmung der Änderung vom 15. November 2006
 
 [^u1-1]
 
@@ -585,7 +546,7 @@ Diese Verordnung tritt am 1. Januar 2006 in Kraft.
 
 Gegenstände nach den Artikeln 14, 14*a* und 14*b* dürfen noch bis zum 16. Januar 2007 nach bisherigem Recht hergestellt und importiert werden. Sie dürfen noch bis zum 31. März 2008 an Konsumentinnen und Konsumenten abgegeben werden.
 
-## Übergangsbestimmungen der Änderung vom 7. März 2008****
+## Übergangsbestimmungen der Änderung vom 7. März 2008
 
 [^u2-1]
 
@@ -595,7 +556,7 @@ Gegenstände nach den Artikeln 14, 14*a* und 14*b* dürfen noch bis zum 16. Janu
 
 <sup>2</sup> Feuerzeuge dürfen noch bis zum 31. Dezember 2008 an Konsumentinnen und Konsumenten nach bisherigem Recht abgegeben werden.
 
-## Übergangsbestimmungen zur Änderung vom 13. Oktober 2010****
+## Übergangsbestimmungen zur Änderung vom 13. Oktober 2010
 
 [^u3-1]
 
@@ -605,7 +566,7 @@ Gegenstände nach den Artikeln 14, 14*a* und 14*b* dürfen noch bis zum 16. Janu
 
 <sup>2</sup> Gegenstände, die Artikel 22 Absatz 1<sup>ter</sup> in der Fassung der Änderung vom 13. Oktober 2010 dieser Verordnung nicht entsprechen, dürfen noch bis zum 31. Dezember 2011 nach bisherigem Recht hergestellt, eingeführt und an Konsumentinnen und Konsumenten abgegeben werden.
 
-## Übergangsbestimmung zur Änderung vom 21. Dezember 2011****
+## Übergangsbestimmung zur Änderung vom 21. Dezember 2011
 
 [^u4-1]
 
@@ -613,7 +574,7 @@ Gegenstände nach den Artikeln 14, 14*a* und 14*b* dürfen noch bis zum 16. Janu
 
 Gegenstände, die Artikel 2*a* in der Fassung der Änderung vom 21. Dezember 2011 dieser Verordnung nicht entsprechen, dürfen noch bis zum 31. Juli 2012 nach bisherigem Recht hergestellt, gekennzeichnet, eingeführt und an Konsumentinnen und Konsumenten abgegeben werden.
 
-## Übergangsbestimmungen zur Änderung vom 25. November 2013****
+## Übergangsbestimmungen zur Änderung vom 25. November 2013
 
 [^u5-1]
 
@@ -623,7 +584,7 @@ Gegenstände, die Artikel 2*a* in der Fassung der Änderung vom 21. Dezember 201
 
 <sup>2</sup> Gegenstände, die Artikel 2*b* in der Fassung vom 25. November 2013 dieser Verordnung nicht entsprechen, dürfen noch bis zum 31. Dezember 2014 nach bisherigem Recht eingeführt, hergestellt, gekennzeichnet und an Konsumentinnen und Konsumenten abgegeben werden.
 
-## Übergangsbestimmungen zur Änderung vom 16. Dezember 2016****
+## Übergangsbestimmungen zur Änderung vom 16. Dezember 2016
 
 [^u6-1]
 
@@ -631,11 +592,11 @@ Gegenstände, die Artikel 2*a* in der Fassung der Änderung vom 21. Dezember 201
 
 Gebrauchsgegenstände nach dieser Verordnung, die der Änderung vom 16. Dezember 2016 dieser Verordnung nicht entsprechen, dürfen noch bis zum 30. April 2018 nach bisherigem Recht eingeführt, hergestellt und gekennzeichnet werden. Sie dürfen noch bis zur Erschöpfung der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
 
-Anhang 1*[^t-2]*
+Anhang 1[^t-2]
 
 (Art. 2 Abs. 4)
 
-## Technische Normen für Gegenstände, die Nickel abgeben****
+## Technische Normen für Gegenstände, die Nickel abgeben
 
 [^annex1-lvlu1-1]
 
@@ -649,13 +610,13 @@ Anhang 1*[^t-2]*
 <tr><th>SN EN 16128:2011</th><th>Referenzprüfverfahren zur Bestimmung der Nickellässigkeit derjenigen Teile von Brillenfassungen und Sonnenbrillen, die bestimmungsgemäss und länger mit der Haut in Berührung kommen</th></tr>
 </table>
 
-Anhang 1a*[^t-3]*
+Anhang 1a[^t-3]
 
 (Art. 5 Abs. 3 Bst. a)
 
 ## Liste der aromatischen Amine, welche nicht in Tätowier- und Permanent-Make-up-Farben enthalten sein dürfen
 
-[^t-3]: Ursprünglich Anhang 1. Fassung gemäss Ziff. II der V des EDI vom 15. Nov. 2006 ([AS 2006 5121](https://fedlex.data.admin.ch/eli/oc/2006/779)). Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 13. Okt. 2010, in Kraft seit 1. Nov. 2010 ([AS 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)) und der Berichtigung vom 20. April 2021 ([AS 2021 226](https://fedlex.data.admin.ch/eli/oc/2021/226)).
+[^t-3]: Ursprünglich: Anhang 1. Fassung gemäss Ziff. II der V des EDI vom 15. Nov. 2006 ([AS 2006 5121](https://fedlex.data.admin.ch/eli/oc/2006/779)). Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 13. Okt. 2010, in Kraft seit 1. Nov. 2010 ([AS 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)) und der Berichtigung vom 20. April 2021 ([AS 2021 226](https://fedlex.data.admin.ch/eli/oc/2021/226)).
 
 <table>
 <tr><th>CAS[^annex1a-lvlu1-1]-Nummer</th><th>Index-Nummer</th><th>EG-Nummer</th><th>Stoff-Name</th></tr>
@@ -741,7 +702,7 @@ Anhang 2
 
 [^annex2-lvlu1-1]: CI = Colour Index
 
-Anhang 2a*[^t-4]*
+Anhang 2a[^t-4]
 
 (Art. 5 Abs. 3<sup>bis</sup>)
 
@@ -772,33 +733,20 @@ Anhang 2a*[^t-4]*
 
 [^annex2a-lvlu1-1]: Nach Extraktion in wässeriger Lösung bei pH 5,5
 
-Anhang 3*[^t-5]*
+Anhang 3[^t-5]
 
-(Art. 10, 11 Abs. 3 und 12 Abs. 1)
+[^t-5]: Aufgehoben durch Anhang Ziff. 4 der V vom 29. Sept. 2023, mit Wirkung seit 1. Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 
-## Technische Normen für afokale kosmetische Kontaktlinsen****
-
-[^annex3-lvlu1-1]
-
-[^t-5]: Fassung gemäss Ziff. II der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-[^annex3-lvlu1-1]: Die aufgeführten Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-
-<table>
-<tr><th>Nummer</th><th>Titel</th></tr>
-<tr><td>SN EN ISO 14534:2015</td><td>Augenoptik – Kontaktlinsen und Kontaktlinsenpflegemittel – Grundlegende Anforderungen</td></tr>
-<tr><td>SN EN 980:2008</td><td>Graphische Symbole zur Kennzeichnung von Medizinprodukten</td></tr>
-</table>
-
-Anhang 4*[^t-6]*
+Anhang 4[^t-6]
 
 (Art. 15)
 
-## Technische Normen für Gebrauchsgegenstände für Säuglinge und Kleinkinder****
+## Technische Normen für Gebrauchsgegenstände für Säuglinge und Kleinkinder
 
 [^annex4-lvlu1-1]
 
 [^t-6]: Fassung gemäss Ziff. II der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-[^annex4-lvlu1-1]: Die aufgeführten Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex4-lvlu1-1]: Die aufgeführten Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
 
 <table>
 <tr><th>Nummer</th><th>Titel</th></tr>
@@ -808,11 +756,11 @@ Anhang 4*[^t-6]*
 <tr><td>SN EN 14350-1:2004</td><td>Artikel für Säuglinge und Kleinkinder – Artikel für flüssige Kindernahrung Teil 1: Allgemeine und mechanische Anforderungen und Prüfungen</td></tr>
 </table>
 
-Anhang 5*[^t-7]*
+Anhang 5[^t-7]
 
 (Art. 18 Abs. 3)
 
-## Technische Normen für die Bestimmung des Brennverhaltens von Textilien****
+## Technische Normen für die Bestimmung des Brennverhaltens von Textilien
 
 [^annex5-lvlu1-1]
 
@@ -827,7 +775,7 @@ Anhang 5*[^t-7]*
 <tr><td>SN EN 13772:2011</td><td>Textilien und textile Erzeugnisse – Brennverhalten – Vorhänge und Gardinen – Messung der Flammenausbreitungseigenschaften von vertikal angeordneten Messproben mit grosser Zündquelle</td></tr>
 </table>
 
-Anhang 6*[^t-8]*
+Anhang 6[^t-8]
 
 (Art. 21 Abs. 1)
 
@@ -874,11 +822,11 @@ Anhang 7
 <tr><td>22</td><td>60-09-3</td><td>611-008-00-4</td><td>200-453-6</td><td>4-Aminoazobenzol</td></tr>
 </table>
 
-Anhang 8*[^t-9]*
+Anhang 8[^t-9]
 
 (Art. 21 Abs. 2)
 
-## Technische Normen für die Bestimmung aromatischer Amine****
+## Technische Normen für die Bestimmung aromatischer Amine
 
 [^annex8-lvlu1-1]
 
@@ -893,11 +841,11 @@ Anhang 8*[^t-9]*
 <tr><td>SN EN ISO 17234-2:2011</td><td>Leder – Chemische Prüfungen zur Bestimmung bestimmter Azofarbstoffe in gefärbten Ledern Teil 2: Bestimmung von 4-Aminoazobenzol</td></tr>
 </table>
 
-Anhang 8a*[^t-10]*
+Anhang 8a[^t-10]
 
 (Art. 22*a* Abs. 2)
 
-## Technische Norm für Kordeln und Zugbänder an Kinderbekleidung****
+## Technische Norm für Kordeln und Zugbänder an Kinderbekleidung
 
 [^annex8a-lvlu1-1]
 
@@ -909,11 +857,11 @@ Anhang 8a*[^t-10]*
 <tr><td>SN EN 14682:2015</td><td>Sicherheit von Kinderbekleidung – Kordeln und Zugbänder an Kinderbekleidung – Anforderungen</td></tr>
 </table>
 
-Anhang 9*[^t-11]*
+Anhang 9[^t-11]
 
 (Art. 25 Abs. 6)
 
-## Technische Normen für Feuerzeuge****
+## Technische Normen für Feuerzeuge
 
 [^annex9-lvlu1-1]
 

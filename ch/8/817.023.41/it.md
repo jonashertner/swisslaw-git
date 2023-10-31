@@ -3,20 +3,20 @@ sr: "817.023.41"
 title: "Ordinanza del DFI del 23 novembre 2005 sugli oggetti che vengono a contatto con le mucose, la pelle e i capelli nonché sulle candele, sui fiammiferi, sugli accendini e sugli articoli per scherzi (Ordinanza sugli oggetti che vengono a contatto con il corpo umano, OCCU)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/811"
 language: it
-version: 2021-04-20
+version: 2023-11-01
 adopted: 2005-11-23
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/811/20210420/it/xml/fedlex-data-admin-ch-eli-cc-2005-811-20210420-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/811/20210420/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/811/20231101/it/xml/fedlex-data-admin-ch-eli-cc-2005-811-20231101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/811/20231101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFI sugli oggetti che vengono a contatto con le mucose, la pelle e i capelli nonché sulle candele, sui fiammiferi, sugli accendini e sugli articoli per scherzi
 
-(Ordinanza sugli oggetti che vengono a contatto con il corpo umano, OCCU)**[^t-1]**
+(Ordinanza sugli oggetti che vengono a contatto con il corpo umano, OCCU)[^t-1]
 
-del 23 novembre 2005 (Stato 20 aprile 2021)
+del 23 novembre 2005 (Stato 1° novembre 2023)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
 
@@ -42,23 +42,24 @@ La presente ordinanza disciplina i requisiti relativi a:
   - 1\.[^1-1] oggetti contenenti metallo che entrano in contatto con la pelle,
   - 2\. colori per tatuaggi e colori per il trucco permanente, nonché la loro caratterizzazione,
   - 3\. apparecchi e strumenti per piercing, tatuaggi e trucco permanente,
-  - 4\. lenti a contatto cosmetiche afocali, nonché la loro caratterizzazione,
-  - 5\. oggetti d’uso per lattanti[^1-2] e bambini piccoli,
-  - 6\.[^1-3] materiali tessili secondo l’articolo 64 capoverso 1 ODerr quanto alla loro infiammabilità e combustibilità, alle sostanze chimiche in essi contenute nonché alla loro caratterizzazione,
-  - 7\.[^1-4] prodotti di pelletteria quanto alle sostanze chimiche in essi contenute,
-  - 8\.[^1-5] cordoncini e lacci nellʼabbigliamento per bambini;
+  - 4\.[^1-2] ...
+  - 5\. oggetti d’uso per lattanti[^1-3] e bambini piccoli,
+  - 6\.[^1-4] materiali tessili secondo l’articolo 64 capoverso 1 ODerr quanto alla loro infiammabilità e combustibilità, alle sostanze chimiche in essi contenute nonché alla loro caratterizzazione,
+  - 7\.[^1-5] prodotti di pelletteria quanto alle sostanze chimiche in essi contenute,
+  - 8\.[^1-6] cordoncini e lacci nellʼabbigliamento per bambini;
 
 - b. candele, fiammiferi, accendini e articoli per scherzi.
 
 [^1-1]: Nuovo testo giusta il n. I dell’O del DFI del 25 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
-[^1-2]: Nuova espr. giusta il n. I dell’O del DFI del 7 mar. 2008, in vigore dal 1° apr. 2008 ([RU 2008 1161](https://fedlex.data.admin.ch/eli/oc/2008/209)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^1-3]: Nuovo testo giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
+[^1-2]: Abrogato <sup>d</sup>all’all. n. 4 dell’O del 29 set. 2023, con effetto dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)<sup>).</sup>
+[^1-3]: Nuova espr. giusta il n. I dell’O del DFI del 7 mar. 2008, in vigore dal 1° apr. 2008 ([RU 2008 1161](https://fedlex.data.admin.ch/eli/oc/2008/209)). Di detta mod. é tenuto conto in tutto il presente testo.
 [^1-4]: Nuovo testo giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-[^1-5]: Introdotto dal n. I dell’O del DFI del 25 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
+[^1-5]: Nuovo testo giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
+[^1-6]: Introdotto dal n. I dell’O del DFI del 25 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
 
 ## Capitolo 2: Oggetti d’uso che vengono a contatto con le mucose, la pelle e i capelli
 
-### Sezione 1: Requisiti per gli oggetti contenenti metallo che vengono a contatto con la pelle****
+### Sezione 1: Requisiti per gli oggetti contenenti metallo che vengono a contatto con la pelle
 
 [^chap2-sec1-1]
 
@@ -222,64 +223,15 @@ LʼUfficio federale della sicurezza alimentare e di veterinaria (USAV) può esam
 
 [^9-1]: Nuovo testo giusta il n. I dell’O del DFI del 25 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
 
-### Sezione 3: Lenti a contatto cosmetiche afocali
+### Sezione 3: ...
 
-#### Art. 10
+#### Art. 10 a 12
 
-**Requisiti**
+[^1012-1]
 
-Si presume che le lenti a contatto cosmetiche afocali conformi alle norme enunciate all’allegato 3 soddisfino i requisiti di sicurezza.
+[^1012-1]: Abrogati <sup>d</sup>all’all. n. 4 dell’O del 29 set. 2023, con effetto dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)<sup>).</sup>
 
-#### Art. 11
-
-**Caratterizzazione**
-
-<sup>1</sup>
-
-Al momento della consegna ai consumatori, sugli imballaggi di lenti a contatto cosmetiche afocali devono figurare:
-
-- a. il nome e l’indirizzo della persona o della ditta che fabbrica, importa, confeziona o consegna lenti a contatto cosmetiche afocali;
-- b. il numero della partita;
-- c. la data entro cui possono essere consegnate ai consumatori le lenti a contatto cosmetiche afocali, con l’indicazione del mese e dell’anno.
-
-<sup>2</sup>
-
-Sull’imballaggio o sul foglietto illustrativo devono inoltre figurare le seguenti indicazioni:[^11-1]
-
-- a. la durata massima di utilizzazione o di impiego di una lente a contatto cosmetica afocale (p.es. lenti a contatto giornaliere);
-- b. le istruzioni per la manutenzione delle lenti a contatto cosmetiche afocali non monouso;
-- c.
-
-  l’indicazione che:
-
-  - 1\. la durata di utilizzazione giornaliera individuale delle lenti a contatto cosmetiche afocali deve essere stabilita da uno specialista al momento della consegna al consumatore,
-  - 2\. le lenti a contatto cosmetiche afocali non sono adatte per correggere difetti di vista,
-  - 3\. le lenti a contatto cosmetiche afocali possono limitare la capacità di guidare,
-  - 4\. la posizione e la forma delle lenti a contatto cosmetiche afocali dovrebbero essere controllate regolarmente da uno specialista,
-  - 5\. le lenti a contatto cosmetiche afocali non sostituiscono gli occhiali da sole;
-  - 6\. possono essere utilizzate unicamente lenti a contatto cosmetiche afocali estratte da imballaggi originali non aperti e non danneggiati.
-
-<sup>3</sup> Le indicazioni di cui al capoverso 2 possono essere sostituite da pittogrammi riconosciuti a livello internazionale secondo l’allegato 3.
-
-[^11-1]: Nuovo testo giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-
-#### Art. 12
-
-**Certificato di conformità**
-
-<sup>1</sup> Chi fabbrica o importa lenti a contatto cosmetiche afocali deve poter presentare un certificato di conformità da cui emerga che il prodotto è stato controllato secondo le norme di cui all’allegato 3.
-
-<sup>2</sup>
-
-Il certificato di conformità deve essere redatto in una lingua ufficiale o in inglese e contenere le seguenti indicazioni:
-
-- a. descrizione delle lenti a contatto cosmetiche afocali (numero dell’articolo e altri dati utili);
-- b. il nome e l’indirizzo della persona che firma il certificato di conformità;
-- c. il luogo di conservazione dei rapporti d’analisi.
-
-<sup>3</sup> Esso deve poter essere presentato per cinque anni dalla fabbricazione delle lenti a contatto cosmetiche afocali. In caso di produzione in serie, il termine decorre a partire dal completamento dell’ultimo esemplare.
-
-### Sezione 4: Oggetti d’uso per lattanti**** e bambini piccoli
+### Sezione 4: Oggetti d’uso per lattanti e bambini piccoli
 
 [^chap2-sec4-1]
 
@@ -395,7 +347,7 @@ La presente sezione si applica ai materiali tessili di cui all’articolo 64 cap
 
 [^20-1]: Abrogato dal n. I dell’O del DFI del 16 dic. 2016, con effetto dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
 
-### Sezione 6: Sostanze chimiche in materiali tessili, in prodotti di pelletteria e in altri oggetti che vengono a contatto con il corpo umano****
+### Sezione 6: Sostanze chimiche in materiali tessili, in prodotti di pelletteria e in altri oggetti che vengono a contatto con il corpo umano
 
 [^chap2-sec6-1]
 
@@ -441,11 +393,11 @@ Nei seguenti oggetti, la concentrazione di stagno proveniente da composti di dio
 [^22-1]: Abrogata dal n. I dell’O del DFI del 23 ott. 2019, con effetto dal 1° dic. 2019 ([RU 2019 3405](https://fedlex.data.admin.ch/eli/oc/2019/616)).
 [^22-2]: Introdotto dal n. I dell’O del DFI del 13 ott. 2010 ([RU 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)). Abrogato dal n. I dell’O del DFI del 25 nov. 2013, con effetto dal 1° gen. 2014 ([RU 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
 [^22-3]: Introdotto dal n. I dell’O del DFI del 13 ott. 2010, in vigore dal 1° nov. 2010 ([RU 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)).
-[^22-4]: <sup>Regolamento (CE)</sup> n. <sup>1907/2006 del Parlamento europeo e del Consiglio, del 18 dicembre 2006, concernente la registrazione, la valutazione, l’autorizzazione</sup> <sup>e la</sup> <sup>restrizione</sup> <sup>delle sostanze chimiche (REACH), che istituisce un’</sup>A<sup>genzia europea per le sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio e il regolamento (CE) n. 1488/94 della Commissione, nonché la direttiva 76/769/CEE del Consiglio e le direttive della Commissione 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE, GU L 396 del 30.12.2006, pag. 1; modificato da ultimo dal regolamento 2018/1513, GU L 256</sup> del <sup>12.10.2018, pag. 1.</sup>
+[^22-4]: <sup>Regolamento (CE)</sup> n. <sup>1907/2006 del Parlamento europeo e del Consiglio,</sup> <sup>del 18 dicembre 2006, concernente la registrazione, la valutazione, l’autorizzazione</sup> <sup>e la</sup> <sup>restrizione</sup> <sup>delle sostanze chimiche (REACH), che istituisce un’</sup>A<sup>genzia europea per le sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio e il regolamento (CE) n. 1488/94 della Commissione, nonché la direttiva 76/769/CEE del Consiglio e le direttive della Commissione 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE, GU L 396 del 30.12.2006, pag. 1; modificato da ultimo dal regolamento 2018/1513, GU L 256</sup> del <sup>12.10.2018, pag. 1.</sup>
 [^22-5]: Introdotto dal n. I dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3405](https://fedlex.data.admin.ch/eli/oc/2019/616)).
 [^22-6]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
 
-### Sezione 7:**** Cordoncini e lacci nell’abbigliamento per bambini
+### Sezione 7: Cordoncini e lacci nell’abbigliamento per bambini
 
 [^chap2-sec7-1]
 
@@ -515,8 +467,8 @@ Gli articoli per scherzi e gli oggetti destinati a scopi simili non devono conte
 
 - a. le parti metalliche;
 - b. la polvere della corteccia di Panama *(Quillaja saponaria)* ed i suoi derivati contenenti saponine;
-- c. la polvere della radice dell’elleboro verde e nero *(Helleborus viridis – He**l**leborus niger)*;
-- d. la polvere della radice del veratro bianco e nero *(Veratrum album – Ver**a**trum niger)*;
+- c. la polvere della radice dell’elleboro verde e nero *(Helleborus viridis – Helleborus niger)*;
+- d. la polvere della radice del veratro bianco e nero *(Veratrum album – Veratrum niger)*;
 - e. la benzidina e suoi derivati;
 - f. la o-nitrobenzaldeide;
 - g. il solfuro d’ammonio, l’idrogensolfuro d’ammonio ed i polisolfuri d’ammonio;
@@ -563,6 +515,15 @@ In deroga all’articolo 80 capoverso 7 ODerr vale:
 [^28a-1]: Introdotto dal n. I dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3405](https://fedlex.data.admin.ch/eli/oc/2019/616)).
 [^28a-2]: <sup>Regolamento (UE) 2018/1513 della Commissione, del 10 ottobre 2018, che modifica l’allegato XVII del regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH) per quanto riguarda talune sostanze classificate come cancerogene, mutagene o tossiche per la riproduzione (CMR), di categoria 1A o 1B, GU L 256 del 12.10.2018, pag. 1.</sup>
 
+#### Art. 28b
+
+**Disposizione transitoria della modifica del 29 settembre 2023**[^28b-1]
+
+Fintanto che le lenti a contatto cosmetiche afocali possono essere commercializzate conformemente all’articolo 106 dell’ordinanza del 1° luglio 2020[^28b-2] relativa ai dispositivi medici senza certificato di conformità, continuano a essere applicabili i requisiti di cui al capitolo 2 sezione 3 della presente ordinanza . Il controllo di questi requisiti è svolto dalle autorità di esecuzione conformemente alla legislazione federale in materia di derrate alimentari e oggetti d’uso.
+
+[^28b-1]: Introdotto <sup>d</sup>all’all. n. 4 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)<sup>).</sup>
+[^28b-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+
 #### Art. 29
 
 **Diritto previgente: abrogazione**
@@ -595,7 +556,7 @@ Gli oggetti di cui agli articoli 14, 14*a* e 14*b* possono essere fabbricati e i
 
 <sup>2</sup> Gli accendini possono ancora essere consegnati ai consumatori secondo il diritto anteriore sino al 31 dicembre 2008.
 
-## Disposizioni transitorie della modifica del 13 ottobre 2010****
+## Disposizioni transitorie della modifica del 13 ottobre 2010
 
 [^u2-1]
 
@@ -605,7 +566,7 @@ Gli oggetti di cui agli articoli 14, 14*a* e 14*b* possono essere fabbricati e i
 
 <sup>2</sup> Gli oggetti che non corrispondono all’articolo 22 capoverso 1<sup>ter</sup> nella versione della modifica del 13 ottobre 2010 della presente ordinanza possono essere fabbricati, importati e consegnati ai consumatori secondo il diritto previgente fino al 31 dicembre 2011.
 
-## Disposizione transitoria della modifica del 21 dicembre 2011****
+## Disposizione transitoria della modifica del 21 dicembre 2011
 
 [^u3-1]
 
@@ -613,7 +574,7 @@ Gli oggetti di cui agli articoli 14, 14*a* e 14*b* possono essere fabbricati e i
 
 Gli oggetti che non corrispondono all’articolo 2*a* nella versione della modifica del 21 dicembre 2011 della presente ordinanza possono essere fabbricati, caratterizzati, importati e consegnati ai consumatori ancora fino al 31 luglio 2012 secondo il diritto anteriore.
 
-## Disposizioni transitorie della modifica del 25 novembre 2013****
+## Disposizioni transitorie della modifica del 25 novembre 2013
 
 [^u4-1]
 
@@ -623,7 +584,7 @@ Gli oggetti che non corrispondono all’articolo 2*a* nella versione della modif
 
 <sup>2</sup> Gli oggetti che non corrispondono allʼarticolo 2*b* nella versione del 25 novembre 2013 della presente ordinanza possono essere importati, fabbricati, caratterizzati e consegnati ai consumatori secondo il diritto anteriore fino al 31 dicembre 2014.
 
-## Disposizione transitoria della modifica del 16 dicembre 2016****
+## Disposizione transitoria della modifica del 16 dicembre 2016
 
 [^u5-1]
 
@@ -631,16 +592,16 @@ Gli oggetti che non corrispondono all’articolo 2*a* nella versione della modif
 
 Gli oggetti d’uso che non corrispondono alla modifica del 16 dicembre 2016 della presente ordinanza possono essere importati, fabbricati e caratterizzati secondo il diritto anteriore fino al 30 aprile 2018. Essi possono essere consegnati ai consumatori fino a esaurimento delle scorte.
 
-Allegato 1*[^t-2]*
+Allegato 1[^t-2]
 
 (art. 2 cpv. 4)
 
-## Norme tecniche applicabili agli oggetti che rilasciano nichelio****
+## Norme tecniche applicabili agli oggetti che rilasciano nichelio
 
 [^annex1-lvlu1-1]
 
 [^t-2]: Introdotto dal n. II cpv. 2 dell’O del DFI del 7 mar. 2008 ([RU 2008 1161](https://fedlex.data.admin.ch/eli/oc/2008/209)). Nuovo testo giusta il n. II dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-[^annex1-lvlu1-1]: I testi delle norme menzionate possono essere consultati gratuitamente od ottenuti a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex1-lvlu1-1]: I testi delle norme menzionate possono essere consultati gratuitamente od ottenuti a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
 
 <table>
 <tr><th>Numero</th><th>Titolo</th></tr>
@@ -649,7 +610,7 @@ Allegato 1*[^t-2]*
 <tr><th>SN EN 16128:2011</th><th>Metodo di prova di riferimento per il rilascio di nichelio da quelle parti di montature per occhiali e occhiali da sole destinate a venire a stretto e prolungato contatto con la pelle</th></tr>
 </table>
 
-Allegato 1a*[^t-3]*
+Allegato 1a[^t-3]
 
 (art. 5 cpv. 3 lett. a)
 
@@ -740,7 +701,7 @@ Allegato 2
 
 [^annex2-lvlu1-1]: CI = Colour Index.
 
-Allegato 2a*[^t-4]*
+Allegato 2a[^t-4]
 
 (art. 5 cpv. 3<sup>bis</sup>)
 
@@ -771,33 +732,20 @@ Allegato 2a*[^t-4]*
 
 [^annex2a-lvlu1-1]: Dopo estrazione in soluzione acquosa a pH 5,5
 
-Allegato 3*[^t-5]*
+Allegato 3[^t-5]
 
-(art. 10, 11 cpv. 3 e 12 cpv. 1)
+[^t-5]: Abrogato <sup>d</sup>all’all. n. 4 dell’O del 29 set. 2023, con effetto dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)<sup>).</sup>
 
-## Norme tecniche per lenti a contatto cosmetiche afocali****
-
-[^annex3-lvlu1-1]
-
-[^t-5]: Nuovo testo giusta il n. II dell’O del DFI del 16 dic. 2017, in vigore dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-[^annex3-lvlu1-1]: I testi delle norme menzionate possono essere consultati gratuitamente od ottenuti a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-
-<table>
-<tr><th>Numero</th><th>Titolo</th></tr>
-<tr><td>SN EN ISO 14534:2015</td><td>Ottica oftalmica – Lenti a contatto e prodotti per la cura delle lenti a contatto – Requisiti fondamentali</td></tr>
-<tr><td>SN EN 980:2008</td><td>Simboli grafici utilizzati per la caratterizzazione dei dispositivi medici</td></tr>
-</table>
-
-Allegato 4*[^t-6]*
+Allegato 4[^t-6]
 
 (art. 15)
 
-## Norme tecniche concernenti gli oggetti d’uso per lattanti e bambini piccoli****
+## Norme tecniche concernenti gli oggetti d’uso per lattanti e bambini piccoli
 
 [^annex4-lvlu1-1]
 
 [^t-6]: Nuovo testo giusta il n. II dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-[^annex4-lvlu1-1]: I testi delle norme menzionate possono essere consultati gratuitamente od ottenuti a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex4-lvlu1-1]: I testi delle norme menzionate possono essere consultati gratuitamente od ottenuti a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch
 
 <table>
 <tr><th>Numero</th><th>Titolo</th></tr>
@@ -807,16 +755,16 @@ Allegato 4*[^t-6]*
 <tr><td>SN EN 14350-1:2004</td><td>Articoli per puericultura – Dispositivi per bere Parte 1: Requisiti generali meccanici e prove</td></tr>
 </table>
 
-Allegato 5*[^t-7]*
+Allegato 5[^t-7]
 
 (art. 18 cpv. 3)
 
-## Norme tecniche per la determinazione del comportamento al fuoco di tessili****
+## Norme tecniche per la determinazione del comportamento al fuoco di tessili
 
 [^annex5-lvlu1-1]
 
 [^t-7]: Nuovo testo giusta il n. II dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3405](https://fedlex.data.admin.ch/eli/oc/2019/616)).
-[^annex5-lvlu1-1]: Le norme possono essere consultate gratuitamente od ottenute a pagamento presso l’Associazione svizzera di normazione (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch.
+[^annex5-lvlu1-1]: Le norme possono essere consultate gratuitamente od ottenute a pagamento presso l’Associazione svizzera di normazione (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch
 
 <table>
 <tr><th>Numero</th><th>Titolo</th></tr>
@@ -826,7 +774,7 @@ Allegato 5*[^t-7]*
 <tr><td>SN EN 13772:2011</td><td>Tessili e prodotti tessili – Comportamento al fuoco – Tende e tendaggi – Misurazione della propagazione della fiamma di provini orientati verticalmente sottoposti all’azione di una grande sorgente di accensione</td></tr>
 </table>
 
-Allegato 6*[^t-8]*
+Allegato 6[^t-8]
 
 (art. 21 cpv. 1)
 
@@ -873,16 +821,16 @@ Allegato 7
 <tr><td>22</td><td>60-09-3</td><td>611-008-00-4</td><td>200-453-6</td><td>4-amminoazobenzene</td></tr>
 </table>
 
-Allegato 8*[^t-9]*
+Allegato 8[^t-9]
 
 (art. 21 cpv. 2)
 
-## Norme tecniche per la determinazione delle ammine aromatiche****
+## Norme tecniche per la determinazione delle ammine aromatiche
 
 [^annex8-lvlu1-1]
 
 [^t-9]: Nuovo testo giusta il n. II dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3405](https://fedlex.data.admin.ch/eli/oc/2019/616)).
-[^annex8-lvlu1-1]: Le norme possono essere consultate gratuitamente od ottenute a pagamento presso l’Associazione svizzera di normazione (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch.
+[^annex8-lvlu1-1]: Le norme possono essere consultate gratuitamente od ottenute a pagamento presso l’Associazione svizzera di normazione (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch
 
 <table>
 <tr><th>Numero</th><th>Titolo</th></tr>
@@ -892,32 +840,32 @@ Allegato 8*[^t-9]*
 <tr><td>SN EN ISO 17234-2:2011</td><td>Cuoio – Analisi chimiche per la determinazione di alcuni coloranti azoici nei cuoi tinti Parte 2: Determinazione del 4-amminoazobenzene</td></tr>
 </table>
 
-Allegato 8a*[^t-10]*
+Allegato 8a[^t-10]
 
 (art. 22*a* cpv. 2)
 
-## Norma tecnica per i cordoncini e lacci nell’abbigliamento per bambini****
+## Norma tecnica per i cordoncini e lacci nell’abbigliamento per bambini
 
 [^annex8a-lvlu1-1]
 
 [^t-10]: Introdotto dal n. II cpv. 2 dell’O del DFI del 7 mar. 2008 ([RU 2008 1161](https://fedlex.data.admin.ch/eli/oc/2008/209)). Nuovo testo giusta il n. II dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-[^annex8a-lvlu1-1]: I testi delle norme menzionate possono essere consultati gratuitamente od ottenuti a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex8a-lvlu1-1]: I testi delle norme menzionate possono essere consultati gratuitamente od ottenuti a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
 
 <table>
 <tr><th>Numero</th><th>Titolo</th></tr>
 <tr><td>SN EN 14682:2015</td><td>Sicurezza dell’abbigliamento per bambini – Cordoncini e lacci nell’abbigliamento per bambini – Specifiche</td></tr>
 </table>
 
-Allegato 9*[^t-11]*
+Allegato 9[^t-11]
 
 (art. 25 cpv. 6)
 
-## Norme tecniche per gli accendini****
+## Norme tecniche per gli accendini
 
 [^annex9-lvlu1-1]
 
 [^t-11]: Nuovo testo giusta il n. II dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3405](https://fedlex.data.admin.ch/eli/oc/2019/616)).
-[^annex9-lvlu1-1]: Le norme possono essere consultate gratuitamente od ottenute a pagamento presso l’Associazione svizzera di normazione (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch.
+[^annex9-lvlu1-1]: Le norme possono essere consultate gratuitamente od ottenute a pagamento presso l’Associazione svizzera di normazione (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch
 
 <table>
 <tr><th>Numero</th><th>Titolo</th></tr>

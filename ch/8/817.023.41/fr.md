@@ -3,11 +3,11 @@ sr: "817.023.41"
 title: "Ordonnance du DFI du 23 novembre 2005 sur les objets destinés à entrer en contact avec les muqueuses, la peau ou le système pileux et capillaire, et sur les bougies, les allumettes, les briquets et les articles de farces et attrapes (Ordonnance sur les objets destinés à entrer en contact avec le corps humain, OCCH)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/811"
 language: fr
-version: 2021-04-20
+version: 2023-11-01
 adopted: 2005-11-23
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/811/20210420/fr/xml/fedlex-data-admin-ch-eli-cc-2005-811-20210420-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/811/20210420/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/811/20231101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-811-20231101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/811/20231101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/811/20210420/fr"
 
 (Ordonnance sur les objets destinés à entrer en contact avec le corps humain, OCCH)[^t-1]
 
-du 23 novembre 2005 (Etat le 20 avril 2021)
+du 23 novembre 2005 (État le 1<sup>er</sup> novembre 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
 
@@ -42,18 +42,19 @@ La présente ordonnance fixe les exigences s’appliquant:
   - 1\.[^1-1] objets contenant du métal et destinés à entrer en contact avec la peau,
   - 2\. couleurs de tatouage et couleurs de maquillage permanent, et leur étiquetage,
   - 3\. appareils et instruments utilisés pour le piercing, le tatouage et le maquillage permanent,
-  - 4\. lentilles de contact cosmétiques afocales (sans foyer) et leur étiquetage,
+  - 4\.[^1-2] …
   - 5\. objets usuels destinés aux nourrissons et aux enfants en bas âge,
-  - 6\.[^1-2] produits textiles visés à l’art. 64, al. 1, ODAlOUs en ce qui concerne leur inflammabilité et leur combustibilité, les substances chimiques qu’ils contiennent et leur étiquetage,
-  - 7\.[^1-3] articles en cuir en ce qui concerne les substances chimiques qu’ils contiennent,
-  - 8\.[^1-4] cordons et cordons coulissants sur des vêtements d’enfants;
+  - 6\.[^1-3] produits textiles visés à l’art. 64, al. 1, ODAlOUs en ce qui concerne leur inflammabilité et leur combustibilité, les substances chimiques qu’ils contiennent et leur étiquetage,
+  - 7\.[^1-4] articles en cuir en ce qui concerne les substances chimiques qu’ils contiennent,
+  - 8\.[^1-5] cordons et cordons coulissants sur des vêtements d’enfants;
 
 - b. aux bougies, allumettes, briquets, articles de farces et attrapes.
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 25 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
-[^1-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
+[^1-2]: Abrogé par l’annexe ch. 4 de l’O du 29 sept. 2023, avec effet au 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 [^1-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-[^1-4]: Introduit par le ch. I de l’O du DFI du 25 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
+[^1-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
+[^1-5]: Introduit par le ch. I de l’O du DFI du 25 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
 
 ## Chapitre 2 Objets usuels destinés à entrer en contact avec les muqueuses, la peau ou le système pileux et capillaire
 
@@ -223,62 +224,13 @@ L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 25 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
 
-### Section 3 Lentilles de contact cosmétiques afocales
+### Section 3 …
 
-#### Art. 10
+#### Art. 10 à 12
 
-**Exigences**
+[^1012-1]
 
-Les lentilles de contact cosmétiques afocales sont présumées conformes aux exigences de sécurité lorsqu’elles satisfont aux normes énumérées à l’annexe 3.
-
-#### Art. 11
-
-**Étiquetage**
-
-<sup>1</sup>
-
-L’emballage des lentilles de contact cosmétiques afocales doit, au moment de la remise au consommateur, porter les indications suivantes:
-
-- a. le nom et l’adresse de la personne ou de l’entreprise qui fabrique, importe, conditionne ou remet de telles lentilles;
-- b. le lot;
-- c. la date (avec mention du mois et de l’année) jusqu’à laquelle les lentilles de contact cosmétiques afocales peuvent être remises aux consommateurs.
-
-<sup>2</sup>
-
-L'emballage ou la notice d'emballage doivent de plus indiquer:[^11-1]
-
-- a. la durée maximale d’emploi et la durée maximale d’utilisation des lentilles de contact cosmétiques afocales (p. ex. lentilles de contact journalières);
-- b. les instructions d’entretien à suivre dans le cas des lentilles de contact cosmétiques afocales destinées à être utilisées plusieurs fois;
-- c.
-
-  une mention précisant que:
-
-  - 1\. la durée quotidienne du port des lentilles de contact cosmétiques afocales doit être définie individuellement par le spécialiste au moment de la remise au consommateur,
-  - 2\. les lentilles de contact cosmétiques afocales ne sont pas conçues pour corriger un défaut de la vue,
-  - 3\. les lentilles de contact cosmétiques afocales peuvent diminuer l’aptitude à la conduite,
-  - 4\. le port et la forme des lentilles de contact cosmétiques afocales doivent être régulièrement contrôlés par le spécialiste,
-  - 5\. les lentilles de contact cosmétiques afocales ne remplacent pas les lunettes de protection anti-solaire,
-  - 6\. seules doivent être utilisées les lentilles de contact cosmétiques afocales provenant d’emballages scellés et non endommagés.
-
-<sup>3</sup> Les indications requises à l’al. 2 peuvent être remplacées par des pictogrammes internationalement reconnus conformément aux normes énumérées à l’annexe 3.
-
-[^11-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-
-#### Art. 12
-
-**Certificat de conformité**
-
-<sup>1</sup> Toute personne qui fabrique ou importe des lentilles de contact cosmétiques afocales doit pouvoir produire un certificat de conformité prouvant que le produit a été testé conformément aux normes énumérées à l’annexe 3.
-
-<sup>2</sup>
-
-Ce certificat de conformité doit être rédigé dans l’une des langues officielles ou en anglais et comporter les indications suivantes:
-
-- a. le descriptif des lentilles de contact cosmétiques afocales (numéro d’article et autres spécifications utiles);
-- b. le nom et l’adresse de la personne qui signe le certificat de conformité;
-- c. le lieu d’archivage des rapports d’analyse.
-
-<sup>3</sup> Il doit pouvoir être présenté pendant les cinq ans suivant la fabrication des lentilles de contact cosmétiques afocales. En cas de production en série, le délai court à partir de la fabrication du dernier exemplaire.
+[^1012-1]: Abrogés par l’annexe ch. 4 de l’O du 29 sept. 2023, avec effet au 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 
 ### Section 4 Objets usuels destinés aux nourrissons et aux enfants en bas âge
 
@@ -322,7 +274,7 @@ Les tétines pour biberons et les sucettes de puériculture peuvent céder à un
 - a. 0,01 mg de N-nitrosamine par kg des parties en élastomères ou en caoutchouc;
 - b. 0,1 mg de substances N-nitrosifiables par kg des parties en élastomères ou en caoutchouc.
 
-<sup>2</sup> ...[^14a-2]
+<sup>2</sup> …[^14a-2]
 
 [^14a-1]: Introduit par le ch. I de l’O du DFI du 15 nov. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5121](https://fedlex.data.admin.ch/eli/oc/2006/779)). Voir aussi la disp. trans. de cette mod. à la fin du texte.
 [^14a-2]: Abrogé par le ch. I de l’O du DFI du 13 oct. 2010, avec effet au 1<sup>er</sup> nov. 2010 ([RO 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)).
@@ -331,7 +283,7 @@ Les tétines pour biberons et les sucettes de puériculture peuvent céder à un
 
 **Bouteilles-biberons**[^14b-1]
 
-Les bouteilles-biberons pour nourrissons et enfants en bas âge doivent porter une inscription mettant en garde contre les lésions dentaires causées par l’absorption permanente (succion permanente) de boissons sucrées ou acidulées. ...[^14b-2]
+Les bouteilles-biberons pour nourrissons et enfants en bas âge doivent porter une inscription mettant en garde contre les lésions dentaires causées par l’absorption permanente (succion permanente) de boissons sucrées ou acidulées. …[^14b-2]
 
 [^14b-1]: Introduit par le ch. I de l’O du DFI du 15 nov. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5121](https://fedlex.data.admin.ch/eli/oc/2006/779)). Voir aussi la disp. trans. de cette mod. à la fin du texte.
 [^14b-2]: Abrogé par le ch. I de l’O du DFI du 16 déc. 2016, avec effet au 1<sup>er</sup> mai 2017 ([RO 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
@@ -418,9 +370,9 @@ Il est interdit de traiter les produits textiles avec les substances suivantes:
 
 - a. l’arsenic et ses composés;
 - b. le plomb et ses composés;
-- c.[^22-1] ...
+- c.[^22-1] …
 
-<sup>1bis</sup> ...[^22-2]
+<sup>1bis</sup> …[^22-2]
 
 <sup>1ter</sup>
 
@@ -562,6 +514,15 @@ En dérogation à l’art 80, al. 7, ODAlOUs:
 [^28a-1]: Introduit par le ch. I de l’O du DFI du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3405](https://fedlex.data.admin.ch/eli/oc/2019/616)).
 [^28a-2]: Règlement (UE) 2018/1513 de la Commission du 10 octobre 2018 modifiant l’annexe XVII du règlement (CE) n<sup>o</sup> 1907/2006 du Parlement européen et du Conseil concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), en ce qui concerne certaines substances cancérogènes, mutagènes ou toxiques pour la reproduction (CMR) des catégories 1A ou 1B, JO L 256 du 12.10.2018, p. 1.
 
+#### Art. 28b
+
+**Disposition transitoire relative à la modification du 29 septembre 2023**[^28b-1]
+
+Tant que les lentilles de contact cosmétiques afocales peuvent être commercialisées sans certificat de conformité conformément à l’art. 106 de l’ordonnance du 1<sup>er</sup> juillet 2020 sur les dispositifs médicaux[^28b-2], les exigences prévues à l’ancien chapitre 2, section 3, de la présente ordonnance demeurent applicables. Le contrôle de ces exigences est effectué par les autorités d’exécution au sens de la législation sur les denrées alimentaires et les objets usuels.
+
+[^28b-1]: Introduit par l’annexe ch. 4 de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^28b-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+
 #### Art. 29
 
 **Abrogation du droit en vigueur**
@@ -639,7 +600,7 @@ Annexe 1[^t-2]
 [^annex1-lvlu1-1]
 
 [^t-2]: Introduite par le ch. II al. 2 de l’O du DFI du 7 mars 2008 ([RO 2008 1161](https://fedlex.data.admin.ch/eli/oc/2008/209)). Nouvelle teneur selon le ch. II de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-[^annex1-lvlu1-1]: Ces normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^annex1-lvlu1-1]: Ces normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch).
 
 <table>
 <tr><th>Numéro</th><th>Titre</th></tr>
@@ -769,20 +730,7 @@ Annexe 2a[^t-4]
 
 Annexe 3[^t-5]
 
-(art. 10, 11, al. 3, et 12, al. 1)
-
-## Normes techniques s’appliquant aux lentilles de contact cosmétiques afocales
-
-[^annex3-lvlu1-1]
-
-[^t-5]: Nouvelle teneur selon le ch. II de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-[^annex3-lvlu1-1]: Ces normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
-
-<table>
-<tr><th>Numéro</th><th>Titre</th></tr>
-<tr><td>SN EN ISO 14534:2015</td><td>Optique ophtalmique – Lentilles de contact et produits d’entretien des lentilles de contact – Prescriptions fondamentales</td></tr>
-<tr><td>SN EN 980:2008</td><td>Symboles graphiques utilisés pour l’étiquetage des dispositifs médicaux</td></tr>
-</table>
+[^t-5]: Abrogée par l’annexe ch. 4 de l’O du 29 sept. 2023, avec effet au 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 
 Annexe 4[^t-6]
 
@@ -793,7 +741,7 @@ Annexe 4[^t-6]
 [^annex4-lvlu1-1]
 
 [^t-6]: Nouvelle teneur selon le ch. II de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-[^annex4-lvlu1-1]: Ces normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^annex4-lvlu1-1]: Ces normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch).
 
 <table>
 <tr><th>Numéro</th><th>Titre</th></tr>
@@ -812,7 +760,7 @@ Annexe 5[^t-7]
 [^annex5-lvlu1-1]
 
 [^t-7]: Nouvelle teneur selon le ch. II de l’O du DFI du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3405](https://fedlex.data.admin.ch/eli/oc/2019/616)).
-[^annex5-lvlu1-1]: Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, www.snv.ch.
+[^annex5-lvlu1-1]: Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, [www.snv.ch](https://www.snv.ch).
 
 <table>
 <tr><th>Numéro</th><th>Titre</th></tr>
@@ -878,7 +826,7 @@ Annexe 8[^t-9]
 [^annex8-lvlu1-1]
 
 [^t-9]: Nouvelle teneur selon le ch. II de l’O du DFI du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3405](https://fedlex.data.admin.ch/eli/oc/2019/616)).
-[^annex8-lvlu1-1]: Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, www.snv.ch.
+[^annex8-lvlu1-1]: Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, [www.snv.ch](https://www.snv.ch).
 
 <table>
 <tr><th>Numéro</th><th>Titre</th></tr>
@@ -897,7 +845,7 @@ Annexe 8a[^t-10]
 [^annex8a-lvlu1-1]
 
 [^t-10]: Introduite par le ch. II al. 2 de l’O du DFI du 7 mars 2008 ([RO 2008 1161](https://fedlex.data.admin.ch/eli/oc/2008/209)). Nouvelle teneur selon le ch. II de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-[^annex8a-lvlu1-1]: Ces normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^annex8a-lvlu1-1]: Ces normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch).
 
 <table>
 <tr><th>Numéro</th><th>Titre</th></tr>
@@ -913,7 +861,7 @@ Annexe 9[^t-11]
 [^annex9-lvlu1-1]
 
 [^t-11]: Nouvelle teneur selon le ch. II de l’O du DFI du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3405](https://fedlex.data.admin.ch/eli/oc/2019/616)).
-[^annex9-lvlu1-1]: Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, www.snv.ch.
+[^annex9-lvlu1-1]: Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, [www.snv.ch](https://www.snv.ch).
 
 <table>
 <tr><th>Numéro</th><th>Titre</th></tr>
