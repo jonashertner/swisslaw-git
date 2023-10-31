@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 29 septembre 1995 sur les prestations dans l'assura
 short: OPAS
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: fr
-version: 2023-07-01
+version: 2023-11-01
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20230701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20231101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20231101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20231101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20230701/fr"
 
 (Ordonnance sur les prestations de l’assurance des soins, OPAS)[^t-1]
 
-du 29 septembre 1995 (État le 1<sup>er</sup> juillet 2023)
+du 29 septembre 1995 (État le 1<sup>er</sup> novembre 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 7 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -55,7 +55,7 @@ Figurent à l’annexe 1 les prestations visées par l’art. 33, let. a et c, O
 <sup>2</sup> L’annexe 1 n’est pas publiée au Recueil officiel du droit fédéral (RO) ni au Recueil systématique du droit fédéral (RS). Les modifications et les versions consolidées sont mises en ligne sur le site Internet de l’Office fédéral de la santé publique (OFSP)[^1-2].
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 7 fév. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)).
-[^1-2]: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Prestations et tarifs &gt; Prestations médicales
+[^1-2]: [www.ofsp.admin.ch](http://www.ofsp.admin.ch) &gt; Assurances &gt; Assurance-maladie &gt; Prestations et tarifs &gt; Prestations médicales
 
 ### Section 2 Psychothérapie pratiquée par un médecin
 
@@ -132,7 +132,7 @@ Pour que, après 40 séances, l’assurance continue de prendre en charge les co
 <sup>4</sup> L’annexe 1*a* n’est pas publiée au RO ni au RS. Les modifications et les versions consolidées sont mises en ligne sur le site Internet de OFSP[^3c-2].[^3c-3]
 
 [^3c-1]: Introduit par le ch. I de l’O du DFI du 3 juil. 2006 ([RO 2006 2957](https://fedlex.data.admin.ch/eli/oc/2006/452)). Nouvelle teneur selon le ch. I de l’O du DFI du 7 juin 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)[2837](https://fedlex.data.admin.ch/eli/oc/2018/432)).
-[^3c-2]: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Prestations et tarifs &gt; Prestations médicales &gt; Annexe 1*a* OPAS.
+[^3c-2]: [www.ofsp.admin.ch](http://www.ofsp.admin.ch) &gt; Assurances &gt; Assurance-maladie &gt; Prestations et tarifs &gt; Prestations médicales &gt; Annexe 1*a* OPAS.
 [^3c-3]: Introduit par le ch. I de l’O du DFI du 7 fév. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)).
 
 #### Art. 3d
@@ -227,13 +227,13 @@ L’assurance prend en charge les coûts des prestations des disciplines suivant
 - e. phytothérapie, si le médecin dispose d’un titre postgrade en phytothérapie délivré conformément au programme de formation complémentaire du 1<sup>er</sup> juillet 2011 «Phytothérapie (SMGP)» de l’ISFM, révisé le 5 novembre 2015[^4b-8].
 
 [^4b-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
-[^4b-2]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref
-[^4b-3]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
+[^4b-2]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref)
+[^4b-3]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
 [^4b-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
-[^4b-5]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref
+[^4b-5]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref)
 [^4b-6]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
-[^4b-7]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
-[^4b-8]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
+[^4b-7]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
+[^4b-8]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
 
 ### Chapitre 2 Prestations fournies sur prescription ou mandat médical
 
@@ -760,7 +760,7 @@ L’assurance prend en charge les coûts des vaccinations prophylactiques suivan
 
 [^12a-1]: Introduit par le ch. I de l’O du DFI du 21 nov. 2007 ([RO 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)). Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)[2829](https://fedlex.data.admin.ch/eli/oc/2020/514)).
 [^12a-2]: Nouvelle expression selon le ch. I de l’O du DFI du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
-[^12a-3]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
+[^12a-3]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
 [^12a-4]: Voir l’ordonnance du 29 avril 2015 sur les épidémies ([RS 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)**)**.
 [^12a-5]: Abrogée par le ch. I de l’O du DFI du 8 juin 2021, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
 [^12a-6]: Nouvelle teneur selon le ch. I de l’O du DFI du 28 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)).
@@ -791,18 +791,18 @@ L’assurance prend en charge les coûts des mesures suivantes visant la prophyl
 
 [^12b-1]: Introduit par le ch. I de l’O du DFI du 21 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)).
 [^12b-2]: Introduite par le ch. I de l’O du DFI du 5 juin 2009 ([RO 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)). Nouvelle teneur selon le ch. I de l’O du DFI du 20 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)).
-[^12b-3]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
+[^12b-3]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
 [^12b-4]: Introduite par le ch. I de l’O du DFI du 5 juin 2009 ([RO 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)). Nouvelle teneur selon le ch. I de l’O du DFI du 31 mai 2011, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)).
-[^12b-5]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
+[^12b-5]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
 [^12b-6]: Introduite par le ch. I de l’O du DFI du 5 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
 [^12b-7]: Introduite par le ch. I de l’O du DFI du 8 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
 [^12b-8]: Introduite par le ch. I de l’O du DFI du 2 juin 2022 ([RO 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)). Nouvelle teneur selon le ch. I de l’O du DFI du 28 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)).
-[^12b-9]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
-[^12b-10]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
-[^12b-11]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
-[^12b-12]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
+[^12b-9]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
+[^12b-10]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
+[^12b-11]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
+[^12b-12]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
 [^12b-13]: Introduite par le ch. I de l’O du DFI du 2 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)).
-[^12b-14]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
+[^12b-14]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
 
 #### Art. 12c
 
@@ -817,7 +817,7 @@ L’assurance prend en charge les coûts des mesures suivantes concernant l’é
 
 [^12c-1]: Introduit par le ch. I de l’O du DFI du 21 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)).
 [^12c-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 25 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4639](https://fedlex.data.admin.ch/eli/oc/2016/750)).
-[^12c-3]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
+[^12c-3]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
 
 #### Art. 12d
 
@@ -840,13 +840,13 @@ L’assurance prend en charge les coûts des mesures suivantes concernant l’é
 
 [^12d-1]: Introduit par le ch. I de l’O du DFI du 21 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)).
 [^12d-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 16 janv. 2019, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)).
-[^12d-3]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
+[^12d-3]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
 [^12d-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 28 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)).
 [^12d-5]: Nouvelle teneur selon le ch. I de l’O du DFI du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
-[^12d-6]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref
-[^12d-7]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
-[^12d-8]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
-[^12d-9]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
+[^12d-6]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref)
+[^12d-7]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
+[^12d-8]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
+[^12d-9]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
 [^12d-10]: Nouvelle teneur selon le ch. I de l’O du DFI du 5 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
 [^12d-11]: Introduite par le ch. I de l’O du DFI du 20 juin 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)).
 [^12d-12]: Introduit par le ch. I de l’O du DFI du 17 juin 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)).
@@ -898,11 +898,11 @@ L’assurance prend en charge, en cas de maternité, les examens de contrôle su
 
 [^13-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^13-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 1<sup>er</sup> déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)).
-[^13-3]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
-[^13-4]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
+[^13-3]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
+[^13-4]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
 [^13-5]: [[RO 2007 635](https://fedlex.data.admin.ch/eli/oc/2007/131); [2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617)annexe ch. 3. [RO 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537)annexe ch. I]. Voir actuellement la LF du 5 juin 2018 ([RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)).
-[^13-6]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref
-[^13-7]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref
+[^13-6]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref)
+[^13-7]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref)
 [^13-8]: Nouvelle teneur selon le ch. I de l’O du DFI du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
 
 #### Art. 14
@@ -1224,7 +1224,7 @@ L’assurance octroie une rémunération pour les moyens et appareils thérapeut
 [^20a-1]: Introduit par le ch. I de l’O du DFI du 28 juin 2007, en vigueur depuis le 1<sup>er</sup> août 2007 ([RO 2007 3581](https://fedlex.data.admin.ch/eli/oc/2007/440)).
 [^20a-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 347](https://fedlex.data.admin.ch/eli/oc/2021/347)).
 [^20a-3]: Abrogé par le ch. I de l’O du DFI du 4 juin 2021, avec effet au 1<sup>er</sup> oct. 2021 ([RO 2021 347](https://fedlex.data.admin.ch/eli/oc/2021/347)).
-[^20a-4]: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Prestations et tarifs &gt; Liste des moyens et appareils (LiMA)
+[^20a-4]: [www.ofsp.admin.ch](http://www.ofsp.admin.ch) &gt; Assurances &gt; Assurance-maladie &gt; Prestations et tarifs &gt; Liste des moyens et appareils (LiMA)
 [^20a-5]: Nouvelle teneur selon le ch. I de l’O du DFI du 7 fév. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)).
 
 #### Art. 21
@@ -1310,7 +1310,7 @@ L’assurance prend en charge 50 % des frais de sauvetage en Suisse. Le montant 
 [^28-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 3 juil. 1996, en vigueur depuis le 1<sup>er</sup> oct. 1996 ([RO 1996 2430](https://fedlex.data.admin.ch/eli/oc/1996/2430_2430_2430)).
 [^28-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^28-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 10 juil. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2546](https://fedlex.data.admin.ch/eli/oc/2000/406)).
-[^28-4]: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Prestations et tarifs &gt; Liste des analyses (LA)
+[^28-4]: [www.ofsp.admin.ch](http://www.ofsp.admin.ch) &gt; Assurances &gt; Assurance-maladie &gt; Prestations et tarifs &gt; Liste des analyses (LA)
 [^28-5]: Nouvelle teneur selon le ch. I de l’O du DFI du 7 fév. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)).
 [^28-6]: Introduit par le ch. I de l’O du DFI du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 347](https://fedlex.data.admin.ch/eli/oc/2021/347)).
 
@@ -1326,7 +1326,7 @@ L’assurance prend en charge 50 % des frais de sauvetage en Suisse. Le montant 
 
 [^29-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 26 fév. 1996, en vigueur depuis le 1<sup>er</sup> juin 1996 ([RO 1996 1232](https://fedlex.data.admin.ch/eli/oc/1996/1232_1232_1232)).
 [^29-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^29-3]: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Prestations et tarifs &gt; Médicaments &gt; Liste des médicaments avec tarif (LMT)
+[^29-3]: [www.ofsp.admin.ch](http://www.ofsp.admin.ch) &gt; Assurances &gt; Assurance-maladie &gt; Prestations et tarifs &gt; Médicaments &gt; Liste des médicaments avec tarif (LMT)
 [^29-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 7 fév. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)).
 
 ### Section 3 Liste des spécialités
@@ -2146,8 +2146,8 @@ Annexe 3[^t-5]
 
 [^annex3-lvlu1-1]
 
-[^t-5]: Mise à jour par le ch. I des O du DFI du 28 janv. 2009 ([RO 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246)), du 26 juin 2009 ([RO 2009 3173](https://fedlex.data.admin.ch/eli/oc/2009/401)), le ch. II al. 3 des O du DFI du 27 oct. 2009 ([RO 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)), du 14 juin 2010 ([RO 2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)), du 2 déc. 2010 ([RO 2010 5837](https://fedlex.data.admin.ch/eli/oc/2010/831)), du 31 mai 2011 ([RO 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)), du 5 déc. 2011 ([RO 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)), du 12 juin 2012 ([RO 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)), le ch. I de l’O du DFI du 13 août 2012 ([RO 2012 4347](https://fedlex.data.admin.ch/eli/oc/2012/511)), le ch. II al. 3 des O du DFI du 15 nov. 2012 ([RO 2012 6587](https://fedlex.data.admin.ch/eli/oc/2012/795)), du 6 déc. 2013 ([RO 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)), du 16 mai 2014 ([RO 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)), le ch. I de l’O du DFI du 21 oct. 2014 ([RO 2014 3487](https://fedlex.data.admin.ch/eli/oc/2014/607)), le ch. II al. 3 des O du DFI du 20 nov. 2014 ([RO 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)), du 17 juin 2015 ([RO 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)), du 27 nov. 2015 ([RO 2015 5125](https://fedlex.data.admin.ch/eli/oc/2015/837)), du 20 juin 2016 ([RO 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)), du 25 nov. 2016 ([RO 2016 4639](https://fedlex.data.admin.ch/eli/oc/2016/750)), du 2 juin 2017 ([RO 2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)), du 28 nov. 2017 ([RO 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)), du 7 juin 2018 ([RO 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)), le ch. II al. 4 de l’O du DFI du 30 nov. 2018 ([RO 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)), le ch. II al. 3 des O du DFI du 16 janv. 2019 ([RO 2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)), du 6 juin 2019 ([RO 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)), du 7 fév. 2020 ([RO 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), le ch. I des O du DFI du 28 fév. 2020 ([RO 2020 629](https://fedlex.data.admin.ch/eli/oc/2020/121)), du 27 avr. 2020 ([RO 2020 1409](https://fedlex.data.admin.ch/eli/oc/2020/277)), le ch. II al. 4 de l’O du DFI du 27 mai 2020 ([RO 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), le ch. I de l’O du DFI du 25 sept. 2020 ([RO 2020 4139](https://fedlex.data.admin.ch/eli/oc/2020/755)), le ch. II al. 4 de l’O du DFI du 30 nov. 2020 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), le ch. I des O du DFI du 5 janv. 2021 ([RO 2021 44](https://fedlex.data.admin.ch/eli/oc/2021/44)), du 26 fév. 2021 ([RO 2021 148](https://fedlex.data.admin.ch/eli/oc/2021/148)), le ch. II al. 3 de l’O du DFI du 8 juin 2021 ([RO 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), le ch. II al. 4 de l’O du DFI du 1<sup>er</sup> déc. 2021 ([RO 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), le ch. I de l’O du DFI du 1<sup>er</sup> déc. 2021 ([RO 2021 886](https://fedlex.data.admin.ch/eli/oc/2021/886)), le ch. II al. 3 de l’O du DFI du 2 juin 2022 ([RO 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)), le ch. I de l’O du DFI du 2 juin 2022 ([RO 2022 371](https://fedlex.data.admin.ch/eli/oc/2022/371)), le ch. II de l’O du DFI du 28 nov. 2022 ([RO 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)), le ch. I des O du DFI du 21 déc. 2022 ([RO 2022 858](https://fedlex.data.admin.ch/eli/oc/2022/858)) et du 27 janv. 2023 ([RO 2023 75](https://fedlex.data.admin.ch/eli/oc/2023/75)) et le ch. II de l’O du DFI du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)).
-[^annex3-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/313](https://fedlex.data.admin.ch/eli/oc/2023/313) &gt; Informations générales &gt; Étendue de la publication &gt; Publication sous la forme d’un renvoi.
+[^t-5]: Mise à jour par le ch. I des O du DFI du 28 janv. 2009 ([RO 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246)), du 26 juin 2009 ([RO 2009 3173](https://fedlex.data.admin.ch/eli/oc/2009/401)), le ch. II al. 3 des O du DFI du 27 oct. 2009 ([RO 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)), du 14 juin 2010 ([RO 2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)), du 2 déc. 2010 ([RO 2010 5837](https://fedlex.data.admin.ch/eli/oc/2010/831)), du 31 mai 2011 ([RO 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)), du 5 déc. 2011 ([RO 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)), du 12 juin 2012 ([RO 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)), le ch. I de l’O du DFI du 13 août 2012 ([RO 2012 4347](https://fedlex.data.admin.ch/eli/oc/2012/511)), le ch. II al. 3 des O du DFI du 15 nov. 2012 ([RO 2012 6587](https://fedlex.data.admin.ch/eli/oc/2012/795)), du 6 déc. 2013 ([RO 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)), du 16 mai 2014 ([RO 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)), le ch. I de l’O du DFI du 21 oct. 2014 ([RO 2014 3487](https://fedlex.data.admin.ch/eli/oc/2014/607)), le ch. II al. 3 des O du DFI du 20 nov. 2014 ([RO 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)), du 17 juin 2015 ([RO 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)), du 27 nov. 2015 ([RO 2015 5125](https://fedlex.data.admin.ch/eli/oc/2015/837)), du 20 juin 2016 ([RO 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)), du 25 nov. 2016 ([RO 2016 4639](https://fedlex.data.admin.ch/eli/oc/2016/750)), du 2 juin 2017 ([RO 2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)), du 28 nov. 2017 ([RO 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)), du 7 juin 2018 ([RO 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)), le ch. II al. 4 de l’O du DFI du 30 nov. 2018 ([RO 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)), le ch. II al. 3 des O du DFI du 16 janv. 2019 ([RO 2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)), du 6 juin 2019 ([RO 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)), du 7 fév. 2020 ([RO 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), le ch. I des O du DFI du 28 fév. 2020 ([RO 2020 629](https://fedlex.data.admin.ch/eli/oc/2020/121)), du 27 avr. 2020 ([RO 2020 1409](https://fedlex.data.admin.ch/eli/oc/2020/277)), le ch. II al. 4 de l’O du DFI du 27 mai 2020 ([RO 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), le ch. I de l’O du DFI du 25 sept. 2020 ([RO 2020 4139](https://fedlex.data.admin.ch/eli/oc/2020/755)), le ch. II al. 4 de l’O du DFI du 30 nov. 2020 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), le ch. I des O du DFI du 5 janv. 2021 ([RO 2021 44](https://fedlex.data.admin.ch/eli/oc/2021/44)), du 26 fév. 2021 ([RO 2021 148](https://fedlex.data.admin.ch/eli/oc/2021/148)), le ch. II al. 3 de l’O du DFI du 8 juin 2021 ([RO 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), le ch. II al. 4 de l’O du DFI du 1<sup>er</sup> déc. 2021 ([RO 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), le ch. I de l’O du DFI du 1<sup>er</sup> déc. 2021 ([RO 2021 886](https://fedlex.data.admin.ch/eli/oc/2021/886)), le ch. II al. 3 de l’O du DFI du 2 juin 2022 ([RO 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)), le ch. I de l’O du DFI du 2 juin 2022 ([RO 2022 371](https://fedlex.data.admin.ch/eli/oc/2022/371)), le ch. II de l’O du DFI du 28 nov. 2022 ([RO 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)), le ch. I des O du DFI du 21 déc. 2022 ([RO 2022 858](https://fedlex.data.admin.ch/eli/oc/2022/858)) et du 27 janv. 2023 ([RO 2023 75](https://fedlex.data.admin.ch/eli/oc/2023/75)), le ch. II de l’O du DFI du 16 juin 2023 ([RO 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)) et le ch. I de l’O du DFI du 17 oct. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 603](https://fedlex.data.admin.ch/eli/oc/2023/603)).
+[^annex3-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/603](https://fedlex.data.admin.ch/eli/oc/2023/603) &gt; Informations générales &gt; Étendue de la publication &gt; Publication sous la forme d’un renvoi.
 
 Annexe 4[^t-6]
 

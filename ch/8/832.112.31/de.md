@@ -4,11 +4,11 @@ title: "Verordnung des EDI vom 29. September 1995 über Leistungen in der obliga
 short: KLV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: de
-version: 2023-07-01
+version: 2023-11-01
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20230701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20231101/de/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20231101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20231101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20230701/de"
 
 (Krankenpflege-Leistungsverordnung, KLV)[^t-1]
 
-vom 29. September 1995 (Stand am 1. Juli 2023)
+vom 29. September 1995 (Stand am 1. November 2023)
 
 [^t-1]: Fassung gemäss Ziff. I der V des EDI vom 7. Okt. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -55,7 +55,7 @@ Anhang 1 bezeichnet diejenigen Leistungen, die nach Artikel 33 Buchstaben a und 
 <sup>2</sup> Er wird in der Amtlichen Sammlung des Bundesrechts (AS) und in der Systematischen Sammlung des Bundesrechts (SR) nicht veröffentlicht. Die Änderungen und konsolidierte Fassungen von Anhang 1 werden auf der Website des Bundesamts für Gesundheit (BAG) publiziert[^1-2].
 
 [^1-1]: Fassung gemäss Ziff. I der V des EDI vom 7. Febr. 2020, in Kraft seit 1. Juli 2020 ([AS 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)).
-[^1-2]: www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; ärztliche Leistungen
+[^1-2]: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; ärztliche Leistungen
 
 ### 2. Abschnitt: Ärztliche Psychotherapie
 
@@ -229,13 +229,13 @@ Die Versicherung übernimmt die Kosten von Leistungen der folgenden Fachrichtung
 - e. Phytotherapie: sofern der Arzt oder die Ärztin über eine Weiterbildung verfügt, die dem Fähigkeitsprogramm Phytotherapie (SMGP) des SIWF vom 1. Juli 2011, revidiert am 5. November 2015[^4b-8] entspricht.
 
 [^4b-1]: Fassung gemäss Ziff. I der V des EDI vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
-[^4b-2]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref
-[^4b-3]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref
+[^4b-2]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
+[^4b-3]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
 [^4b-4]: Fassung gemäss Ziff. I der V des EDI vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
-[^4b-5]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref
+[^4b-5]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
 [^4b-6]: Fassung gemäss Ziff. I der V des EDI vom 8. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
-[^4b-7]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref.
-[^4b-8]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref
+[^4b-7]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
+[^4b-8]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
 
 ### 2. Kapitel: Auf Anordnung oder im Auftrag eines Arztes oder einer Ärztin erbrachte Leistungen
 
@@ -765,7 +765,7 @@ Die Versicherung übernimmt die Kosten für folgende Massnahmen der medizinische
 
 [^12a-1]: Eingefügt durch Ziff. I der V des EDI vom 21. Nov. 2007 ([AS 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)). Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)[2829](https://fedlex.data.admin.ch/eli/oc/2020/514)).
 [^12a-2]: Ausdruck gemäss Ziff. I der V des EDI vom 16. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
-[^12a-3]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref
+[^12a-3]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
 [^12a-4]: Siehe die Epidemienverordnung vom 29. April 2015 ([SR 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)).
 [^12a-5]: Aufgehoben durch Ziff. I der V des EDI vom 8. Juni 2021, mit Wirkung seit 1. Juli 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
 [^12a-6]: Fassung gemäss Ziff. I der V des EDI vom 28. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)).
@@ -796,18 +796,18 @@ Die Versicherung übernimmt die Kosten für folgende Massnahmen zur Prophylaxe v
 
 [^12b-1]: Eingefügt durch Ziff. I der V des EDI vom 21. Nov. 2007 ([AS 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)). Fassung gemäss Ziff. I der V des EDI vom 28. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)).
 [^12b-2]: Eingefügt durch Ziff. I der V des EDI vom 5. Juni 2009 ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)). Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)).
-[^12b-3]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref
+[^12b-3]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
 [^12b-4]: Eingefügt durch Ziff. I der V des EDI vom 5. Juni 2009 ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)). Fassung gemäss Ziff. I der V des EDI vom 31. Mai 2011, in Kraft seit 1. Juli 2011 ([AS 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)).
-[^12b-5]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref
+[^12b-5]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
 [^12b-6]: Eingefügt durch Ziff. I der V des EDI vom 5. Dez. 2011 ([AS 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)). Fassung gemäss Ziff. I der V des EDI vom 12. Juni 2012, in Kraft seit 1. Juli 2012 ([AS 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)).
 [^12b-7]: Eingefügt durch Ziff. I der V des EDI vom 8. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
 [^12b-8]: Eingefügt durch Ziff. I der V des EDI vom 2. Juni 2022 ([AS 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)). Fassung gemäss Ziff. I der V des EDI vom 28. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)).
-[^12b-9]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref.
-[^12b-10]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref.
-[^12b-11]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref.
-[^12b-12]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref.
+[^12b-9]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
+[^12b-10]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
+[^12b-11]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
+[^12b-12]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
 [^12b-13]: Eingefügt durch Ziff. I der V des EDI vom 2. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)).
-[^12b-14]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref.
+[^12b-14]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
 
 #### Art. 12c
 
@@ -822,7 +822,7 @@ Die Versicherung übernimmt die Kosten für folgende Untersuchungen des allgemei
 
 [^12c-1]: Eingefügt durch Ziff. I der V des EDI vom 21. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)).
 [^12c-2]: Fassung gemäss Ziff. I der V des EDI vom 25. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4639](https://fedlex.data.admin.ch/eli/oc/2016/750)).
-[^12c-3]: Die Checklisten sind einsehbar unter: www.bag.admin.ch/ref
+[^12c-3]: Die Checklisten sind einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
 
 #### Art. 12d
 
@@ -846,14 +846,14 @@ Die Versicherung übernimmt die Kosten für folgende Untersuchungen des allgemei
 
 [^12d-1]: Eingefügt durch Ziff. I der V des EDI vom 21. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)).
 [^12d-2]: Fassung gemäss Ziff. I der V des EDI vom 16. Jan. 2019, in Kraft seit 1. März 2019 ([AS 2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)).
-[^12d-3]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref
+[^12d-3]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
 [^12d-4]: Fassung gemäss Ziff. I der V des EDI vom 16. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)).
 [^12d-5]: Fassung gemäss Ziff. I der V des EDI vom 28. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)).
 [^12d-6]: Fassung gemäss Ziff. I der V des EDI vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
-[^12d-7]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref
-[^12d-8]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref.
-[^12d-9]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref.
-[^12d-10]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref.
+[^12d-7]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
+[^12d-8]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
+[^12d-9]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
+[^12d-10]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
 [^12d-11]: Fassung gemäss Ziff. I der V des EDI vom 5. Dez. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
 [^12d-12]: Eingefügt durch Ziff. I der V des EDI vom 20. Juni 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)).
 [^12d-13]: Eingefügt durch Ziff. I der V des EDI vom 17. Juni 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)).
@@ -905,10 +905,10 @@ Die Versicherung übernimmt bei Mutterschaft die folgenden Kontrolluntersuchunge
 
 [^13-1]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^13-2]: Fassung gemäss Ziff. I der V des EDI vom 1. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)).
-[^13-3]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref.
-[^13-4]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref.
+[^13-3]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
+[^13-4]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
 [^13-5]: [[AS 2007 635](https://fedlex.data.admin.ch/eli/oc/2007/131); [2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617)Anhang Ziff. 3. [AS 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537)Anhang Ziff. I]. Siehe heute: BG vom 15. Juni 2018 ([SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)).
-[^13-6]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref
+[^13-6]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref)
 [^13-7]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref
 [^13-8]: Fassung gemäss Ziff. I der V des EDI vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
 
@@ -1231,7 +1231,7 @@ Die Versicherung leistet eine Vergütung an Mittel und Gegenstände, die der Beh
 [^20a-1]: Eingefügt durch Ziff. I der V des EDI vom 28. Juni 2007, in Kraft seit 1. Aug. 2007 ([AS 2007 3581](https://fedlex.data.admin.ch/eli/oc/2007/440)).
 [^20a-2]: Fassung gemäss Ziff. I der V des EDI vom 4. Juni 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 347](https://fedlex.data.admin.ch/eli/oc/2021/347)).
 [^20a-3]: Aufgehoben durch Ziff. I der V des EDI vom 4. Juni 2021, mit Wirkung seit 1. Okt. 2021 ([AS 2021 347](https://fedlex.data.admin.ch/eli/oc/2021/347)).
-[^20a-4]: www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Liste der Mittel und Gegenstände (MiGeL)
+[^20a-4]: [www.bag.admin.ch](http://www.bag.admin.ch)&gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Liste der Mittel und Gegenstände (MiGeL)
 [^20a-5]: Fassung gemäss Ziff. I der V des EDI vom 7. Febr. 2020, in Kraft seit 1. Juli 2020 ([AS 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)).
 
 #### Art. 21
@@ -1314,7 +1314,7 @@ Die Versicherung übernimmt für Rettungen in der Schweiz 50 Prozent der Rettung
 
 [^28-1]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^28-2]: Fassung gemäss Ziff. I der V des EDI vom 10. Juli 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2546](https://fedlex.data.admin.ch/eli/oc/2000/406)).
-[^28-3]: www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Analysenliste (AL)
+[^28-3]: [www.bag.admin.ch](http://www.bag.admin.ch)&gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Analysenliste (AL)
 [^28-4]: Fassung gemäss Ziff. I der V des EDI vom 7. Febr. 2020, in Kraft seit 1. Juli 2020 ([AS 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)).
 [^28-5]: Eingefügt durch Ziff. I der V des EDI vom 4. Juni 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 347](https://fedlex.data.admin.ch/eli/oc/2021/347)).
 
@@ -1330,7 +1330,7 @@ Die Versicherung übernimmt für Rettungen in der Schweiz 50 Prozent der Rettung
 
 [^29-1]: Fassung gemäss Ziff. I der V des EDI vom 26. Febr. 1996, in Kraft seit 1. Juni 1996 ([AS 1996 1232](https://fedlex.data.admin.ch/eli/oc/1996/1232_1232_1232)).
 [^29-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^29-3]: www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Arzneimittel &gt; Arzneimittelliste mit Tarif (ALT)
+[^29-3]: [www.bag.admin.ch](http://www.bag.admin.ch)&gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Arzneimittel &gt; Arzneimittelliste mit Tarif (ALT)
 [^29-4]: Fassung gemäss Ziff. I der V des EDI vom 7. Febr. 2020, in Kraft seit 1. Juli 2020 ([AS 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)).
 
 ### 3. Abschnitt: Spezialitätenliste
@@ -2147,8 +2147,8 @@ Anhang 3[^t-5]
 
 [^annex3-lvlu1-1]
 
-[^t-5]: Bereinigt gemäss Ziff. I der V des EDI vom 28. Jan. 2009 ([AS 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246)), vom 26. Juni 2009 ([AS 2009 3173](https://fedlex.data.admin.ch/eli/oc/2009/401)), Ziff. II Abs. 3 der V des EDI vom 27. Okt. 2009 ([AS 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)), vom 14. Juni 2010 ([AS 2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)), vom 2. Dez. 2010 ([AS 2010 5837](https://fedlex.data.admin.ch/eli/oc/2010/831)), vom 31. Mai 2011 ([AS 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)), vom 5. Dez. 2011 ([AS 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)), vom 12. Juni 2012 ([AS 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)), Ziff. I der V des EDI vom 13. Aug. 2012 ([AS 2012 4347](https://fedlex.data.admin.ch/eli/oc/2012/511)), Ziff. II Abs. 3 der V des EDI vom 15. Nov. 2012 ([AS 2012 6587](https://fedlex.data.admin.ch/eli/oc/2012/795)), vom 10. Juni 2013 ([AS 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)), vom 6. Dez. 2013 ([AS 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)), vom 16. Mai 2014 ([AS 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)), Ziff. I der V des EDI vom 21. Okt. 2014 ([AS 2014 3487](https://fedlex.data.admin.ch/eli/oc/2014/607)), Ziff. II Abs. 3 der V des EDI vom 20. Nov. 2014 ([AS 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)), vom 17. Juni 2015 ([AS 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)), vom 27. Nov. 2015 ([AS 2015 5125](https://fedlex.data.admin.ch/eli/oc/2015/837)), vom 20. Juni 2016 ([AS 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)), vom 25. Nov. 2016 ([AS 2016 4639](https://fedlex.data.admin.ch/eli/oc/2016/750)), vom 2. Juni 2017 ([AS 2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)), vom 28. Nov. 2017 ([AS 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)), vom 7. Juni 2018 ([AS 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)), Ziff. II Abs. 4 der V des EDI vom 30. Nov. 2018 ([AS 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)), Ziff. II Abs. 3 der V des EDI vom 16. Jan. 2019 ([AS 2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)), vom 6. Juni 2019 ([AS 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)), vom 7. Febr. 2020 ([AS 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), Ziff. I der V des EDI vom 28. Febr. 2020 ([AS 2020 629](https://fedlex.data.admin.ch/eli/oc/2020/121)), vom 27. April 2020 ([AS 2020 1409](https://fedlex.data.admin.ch/eli/oc/2020/277)), Ziff. II Abs. 3 der V des EDI vom 27. Mai 2020 ([AS 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), Ziff. I der V des EDI vom 25. Sept. 2020 ([AS 2020 4139](https://fedlex.data.admin.ch/eli/oc/2020/755)), Ziff. II Abs. 4 der V des EDI vom 30. Nov. 2020 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), Ziff. I der V des EDI vom 5. Jan. 2021 ([AS 2021 44](https://fedlex.data.admin.ch/eli/oc/2021/44)), vom 26. Febr. 2021 ([AS 2021 148](https://fedlex.data.admin.ch/eli/oc/2021/148)), Ziff. II Abs. 3 der V des EDI vom 8. Juni 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), Ziff. II Abs. 4 der V des EDI vom 1. Dez. 2021 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), Ziff. I der V des EDI vom 1. Dez. 2021 ([AS 2021 886](https://fedlex.data.admin.ch/eli/oc/2021/886)), Ziff. II Abs. 3 der V des EDI vom 2. Juni 2022 ([AS 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)), Ziff. I der V des EDI vom 2. Juni 2022 ([AS 2022 371](https://fedlex.data.admin.ch/eli/oc/2022/371)), Ziff. II der V des EDI vom 28. Nov. 2022 ([AS 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)), Ziff. I der V des EDI vom 21. Dez. 2022 ([AS 2022 858](https://fedlex.data.admin.ch/eli/oc/2022/858)), vom 27. Jan. 2023 ([AS 2023 75](https://fedlex.data.admin.ch/eli/oc/2023/75)) und Ziff. II der V des EDI vom 16. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)).
-[^annex3-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2023/313](https://fedlex.data.admin.ch/eli/oc/2023/313) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-5]: Bereinigt gemäss Ziff. I der V des EDI vom 28. Jan. 2009 ([AS 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246)), vom 26. Juni 2009 ([AS 2009 3173](https://fedlex.data.admin.ch/eli/oc/2009/401)), Ziff. II Abs. 3 der V des EDI vom 27. Okt. 2009 ([AS 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)), vom 14. Juni 2010 ([AS 2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)), vom 2. Dez. 2010 ([AS 2010 5837](https://fedlex.data.admin.ch/eli/oc/2010/831)), vom 31. Mai 2011 ([AS 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)), vom 5. Dez. 2011 ([AS 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)), vom 12. Juni 2012 ([AS 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)), Ziff. I der V des EDI vom 13. Aug. 2012 ([AS 2012 4347](https://fedlex.data.admin.ch/eli/oc/2012/511)), Ziff. II Abs. 3 der V des EDI vom 15. Nov. 2012 ([AS 2012 6587](https://fedlex.data.admin.ch/eli/oc/2012/795)), vom 10. Juni 2013 ([AS 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)), vom 6. Dez. 2013 ([AS 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)), vom 16. Mai 2014 ([AS 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)), Ziff. I der V des EDI vom 21. Okt. 2014 ([AS 2014 3487](https://fedlex.data.admin.ch/eli/oc/2014/607)), Ziff. II Abs. 3 der V des EDI vom 20. Nov. 2014 ([AS 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)), vom 17. Juni 2015 ([AS 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)), vom 27. Nov. 2015 ([AS 2015 5125](https://fedlex.data.admin.ch/eli/oc/2015/837)), vom 20. Juni 2016 ([AS 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)), vom 25. Nov. 2016 ([AS 2016 4639](https://fedlex.data.admin.ch/eli/oc/2016/750)), vom 2. Juni 2017 ([AS 2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)), vom 28. Nov. 2017 ([AS 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)), vom 7. Juni 2018 ([AS 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)), Ziff. II Abs. 4 der V des EDI vom 30. Nov. 2018 ([AS 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)), Ziff. II Abs. 3 der V des EDI vom 16. Jan. 2019 ([AS 2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)), vom 6. Juni 2019 ([AS 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)), vom 7. Febr. 2020 ([AS 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), Ziff. I der V des EDI vom 28. Febr. 2020 ([AS 2020 629](https://fedlex.data.admin.ch/eli/oc/2020/121)), vom 27. April 2020 ([AS 2020 1409](https://fedlex.data.admin.ch/eli/oc/2020/277)), Ziff. II Abs. 3 der V des EDI vom 27. Mai 2020 ([AS 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), Ziff. I der V des EDI vom 25. Sept. 2020 ([AS 2020 4139](https://fedlex.data.admin.ch/eli/oc/2020/755)), Ziff. II Abs. 4 der V des EDI vom 30. Nov. 2020 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), Ziff. I der V des EDI vom 5. Jan. 2021 ([AS 2021 44](https://fedlex.data.admin.ch/eli/oc/2021/44)), vom 26. Febr. 2021 ([AS 2021 148](https://fedlex.data.admin.ch/eli/oc/2021/148)), Ziff. II Abs. 3 der V des EDI vom 8. Juni 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), Ziff. II Abs. 4 der V des EDI vom 1. Dez. 2021 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), Ziff. I der V des EDI vom 1. Dez. 2021 ([AS 2021 886](https://fedlex.data.admin.ch/eli/oc/2021/886)), Ziff. II Abs. 3 der V des EDI vom 2. Juni 2022 ([AS 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)), Ziff. I der V des EDI vom 2. Juni 2022 ([AS 2022 371](https://fedlex.data.admin.ch/eli/oc/2022/371)), Ziff. II der V des EDI vom 28. Nov. 2022 ([AS 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)), Ziff. I der V des EDI vom 21. Dez. 2022 ([AS 2022 858](https://fedlex.data.admin.ch/eli/oc/2022/858)), vom 27. Jan. 2023 ([AS 2023 75](https://fedlex.data.admin.ch/eli/oc/2023/75)) Ziff. II der V des EDI vom 16. Juni 2023 ([AS 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)) und Ziff. I der V des EDI vom 17. Okt. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 603](https://fedlex.data.admin.ch/eli/oc/2023/603)).
+[^annex3-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2023/603](https://fedlex.data.admin.ch/eli/oc/2023/603) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 4[^t-6]
 
