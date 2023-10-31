@@ -4,11 +4,11 @@ title: Ordinanza del 1° luglio 2020 relativa ai dispositivi medici (ODmed)
 short: ODmed
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/552"
 language: it
-version: 2023-09-01
+version: 2023-11-01
 adopted: 2020-07-01
 in_force: 2021-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2020-552-20230901-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20231101/it/xml/fedlex-data-admin-ch-eli-cc-2020-552-20231101-it-xml-26.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20231101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20230901/it"
 
 (ODmed)
 
-del 1° luglio 2020 (Stato 1° settembre 2023)
+del 1° luglio 2020 (Stato 1° novembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -25,12 +25,12 @@ vista la legge del 15 dicembre 2000[^ingress-1] sugli agenti terapeutici (LATer)
 
 ordina:
 
-[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-2]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^ingress-3]: [RS 941.20](https://fedlex.data.admin.ch/eli/cc/2012/734)
-[^ingress-4]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
-[^ingress-5]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
-[^ingress-6]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^ingress-2]: [RS 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
+[^ingress-3]: [RS 941.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11170)
+[^ingress-4]: [RS 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
+[^ingress-5]: [RS 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)
+[^ingress-6]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 [^ingress-7]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 ## Capitolo 1: Disposizioni generali
@@ -69,6 +69,8 @@ La presente ordinanza si applica anche a:
 #### Art. 2
 
 **Eccezioni**
+
+<sup>1</sup>
 
 La presente ordinanza non si applica a:
 
@@ -136,7 +138,7 @@ Nella presente ordinanza si intende per:
 - c. *messa in servizio:* momento in cui un dispositivo pronto per l’uso, diverso da un dispositivo oggetto di sperimentazione clinica, è reso disponibile all’utilizzatore finale per essere utilizzato per la prima volta sul mercato svizzero secondo la sua destinazione d’uso;
 - d. *manutenzione:* misure quali assistenza tecnica, aggiornamenti di software, ispezione, riparazione, preparazione per il primo utilizzo e ricondizionamento per il riutilizzo, il mantenimento o il ripristino dello stato funzionante di un dispositivo;
 - e. *ricondizionamento**:* processo eseguito su un dispositivo usato per consentirne un riutilizzo sicuro, comprendente la pulizia, la disinfezione, la sterilizzazione e procedure simili, in particolare l’imballaggio, il trasporto e l’immagazzinamento, nonché i test e il ripristino della sicurezza tecnica e funzionale del dispositivo usato;
-- f. *fabbricante:* ogni persona fisica o giuridica che fabbrica o rimette a nuovo un dispositivo oppure lo fa progettare, fabbricare o rimettere a nuovo, e lo commercializza apponendovi il suo nome o marchio; sono fatte salve le precisazioni e le deroghe riportate all’articolo 16 paragrafi 1 e 2 del regolamento (UE) 2017/745[^4-1] relativo ai dispositivi medici (UE-MDR);
+- *f.*[^4-1] *fabbricante:* ogni persona fisica o giuridica che fabbrica o rimette a nuovo un dispositivo oppure lo fa progettare, fabbricare o rimettere a nuovo, e lo commercializza apponendovi il suo nome o marchio; sono fatte salve le precisazioni e le deroghe riportate all’articolo 16 paragrafi 1 e 2 del regolamento (UE) 2017/745[^4-2] relativo ai dispositivi medici (UE-MDR);
 - g. *mandatario:* ogni persona fisica o giuridica stabilita in Svizzera che riceve dal fabbricante, avente sede all’estero, un mandato scritto che la autorizza ad agire per conto del fabbricante in relazione a determinate attività per adempiere obblighi del fabbricante derivanti dalla presente ordinanza;
 - h. *importatore:* ogni persona fisica o giuridica stabilita in Svizzera che immette in commercio sul mercato svizzero un dispositivo proveniente dall’estero;
 - i. *distributore*: ogni persona fisica o giuridica nella catena di fornitura, diversa dal fabbricante o dall’importatore, che mette a disposizione sul mercato svizzero un dispositivo fino al momento della messa in servizio;
@@ -144,13 +146,14 @@ Nella presente ordinanza si intende per:
 - k. *istituzione sanitaria:* organizzazione il cui fine principale è la cura o il trattamento di pazienti o la promozione della salute pubblica;
 - l. *ospedale:* istituzione sanitaria nella quale sono attuati mediante prestazioni mediche e infermieristiche e con degenza ospedaliera trattamenti di malattie oppure trattamenti di riabilitazione medica o interventi medici per scopi estetici;
 - m. *Stato contraente:* Stato vincolato al reciproco riconoscimento di valutazioni e procedure di conformità per dispositivi da una convenzione di diritto internazionale con la Svizzera basata sull’equivalenza delle legislazioni;
-- n.[^4-2] *prestatore di servizi della società dell’informazione:* ogni persona fisica o giuridica che presta un servizio di cui all’articolo 7 capoverso 4.
+- n.[^4-3] *prestatore di servizi della società dell’informazione:* ogni persona fisica o giuridica che presta un servizio di cui all’articolo 7 capoverso 4.
 
-<sup>2</sup> Si applicano inoltre le definizioni di cui all’articolo 2 punti 3–26, 31, 37, 38, 40–44, 46, 48, 51–53, 57–69 e 71 UE-MDR, tenendo conto delle modifiche alle definizioni di cui all’articolo 2 punti 18–21 UE-MDR che la Commissione europea apporta mediante atti delegati[^4-3].
+<sup>2</sup> Si applicano inoltre le definizioni di cui all’articolo 2 punti 3–26, 31, 37, 38, 40–44, 46, 48, 51–53, 57–69 e 71 UE-MDR, tenendo conto delle modifiche alle definizioni di cui all’articolo 2 punti 18–21 UE-MDR che la Commissione europea apporta mediante atti delegati[^4-4].
 
-[^4-1]: Regolamento (UE) 2017/745 del Parlamento europeo e del Consiglio, del 5 aprile 2017, relativo ai dispositivi medici, che modifica la direttiva 2001/83/CE, il regolamento (CE) n. 178/2002 e il regolamento (CE) n. 1223/2009 e che abroga le direttive 90/385/CEE e 93/42/CEE del Consiglio; GU L 117 del 5.5.2017, pag. 1; modificato da ultimo dal regolamento (UE) 2020/561, GU L 130 del 24.4.2020, pag. 18.
-[^4-2]: Introdotta dall’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
-[^4-3]: Cfr. allegato 4.
+[^4-1]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^4-2]: Regolamento (UE) 2017/745 del Parlamento europeo e del Consiglio, del 5 aprile 2017, relativo ai dispositivi medici, che modifica la direttiva 2001/83/CE, il regolamento (CE) n. 178/2002 e il regolamento (CE) n. 1223/2009 e che abroga le direttive 90/385/CEE e 93/42/CEE del Consiglio; GU L 117 del 5.5.2017, pag. 1; modificato da ultimo dal regolamento (UE) 2023/607, GU L 80 del 20.3.2023, pag. 24.
+[^4-3]: Introdotta dall’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^4-4]: Cfr. allegato 4.
 
 #### Art. 5
 
@@ -184,7 +187,7 @@ Nella presente ordinanza si intende per:
 
 [^6-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
 [^6-2]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
-[^6-3]: [RS 812.211](https://fedlex.data.admin.ch/eli/cc/2001/442)
+[^6-3]: [RS 812.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9355)
 [^6-4]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 [^6-5]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 [^6-6]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
@@ -220,14 +223,16 @@ Un dispositivo si considera offerto mediante i servizi della società dell’inf
 
 **Requisiti specifici**
 
-<sup>1</sup> I dispositivi senza destinazione d’uso medica di cui all’articolo 1 capoverso 1 lettera b devono essere conformi alle specifiche comuni designate da Swissmedic.
+<sup>1</sup> I prodotti senza destinazione d’uso medica di cui all’articolo 1 capoverso 1 lettera b devono essere conformi alle specifiche comuni designate da Swissmedic.[^8-1]
 
-<sup>2</sup> I dispositivi che hanno una destinazione d’uso sia medica sia non medica devono adempiere i requisiti sia dei dispositivi con destinazione d’uso medica, sia dei dispositivi senza destinazione d’uso medica.
+<sup>2</sup> I dispositivi che hanno una destinazione d’uso sia medica sia non medica devono adempiere i requisiti sia dei dispositivi con destinazione d’uso medica, sia dei prodotti senza destinazione d’uso medica.[^8-2]
 
-<sup>3</sup> I dispositivi che sono anche macchine ai sensi dell’articolo 1 dell’ordinanza del 2 aprile 2008[^8-1] sulle macchine devono essere conformi ai pertinenti requisiti essenziali di sicurezza e di tutela della salute dell’ordinanza sulle macchine, purché tali requisiti siano più specifici di quelli di cui all’allegato I capo II UE-MDR[^8-2].
+<sup>3</sup> I dispositivi che sono anche macchine ai sensi dell’articolo 1 dell’ordinanza del 2 aprile 2008[^8-3] sulle macchine devono essere conformi ai pertinenti requisiti essenziali di sicurezza e di tutela della salute dell’ordinanza sulle macchine, purché tali requisiti siano più specifici di quelli di cui all’allegato I capo II UE-MDR[^8-4].
 
-[^8-1]: [RS 819.14](https://fedlex.data.admin.ch/eli/cc/2008/263)
-[^8-2]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f .
+[^8-1]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^8-2]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^8-3]: [RS 819.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9850)
+[^8-4]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f .
 
 #### Art. 9
 
@@ -290,14 +295,15 @@ Non è permesso apporre un marchio di conformità su:
 - a. dispositivi su misura;
 - b. dispositivi destinati esclusivamente a scopi di dimostrazione ed esposizione;
 - c. sistemi e kit procedurali;
-- d. dispositivi oggetto di sperimentazione clinica, fatto salvo l’articolo 6 dell’ordinanza del 1° luglio 2020[^13-2] sulle sperimentazioni cliniche con dispositivi medici;
-- e.[^13-3] dispositivi secondo l’articolo 9.
+- d.[^13-2] dispositivi oggetto di sperimentazione clinica, fatto salvo l’articolo 6 dell’ordinanza del 1° luglio 2020[^13-3] sulle sperimentazioni cliniche con dispositivi medici (OSRUm-Dmed);
+- e.[^13-4] dispositivi secondo l’articolo 9.
 
 <sup>3</sup> I dispositivi la cui conformità deve essere valutata da un organismo designato devono recare, oltre al marchio di conformità, il numero d’identificazione di tale organismo.
 
 [^13-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
-[^13-2]: [RS 810.306](https://fedlex.data.admin.ch/eli/cc/2020/553)
-[^13-3]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^13-2]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^13-3]: [RS 810.306](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9251)
+[^13-4]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 14
 
@@ -322,14 +328,12 @@ Non è permesso apporre un marchio di conformità su:
 
 #### Art. 15
 
-**Classificazione**
+**Classificazione**[^15-1]
 
-<sup>1</sup> I dispositivi sono suddivisi nelle classi I, IIa, IIb e III in funzione della loro destinazione d’uso e dei rischi che essa comporta. Per la classificazione è determinante l’allegato VIII UE-MDR[^15-1].
+I dispositivi sono suddivisi nelle classi I, IIa, IIb e III in funzione della loro destinazione d’uso e dei rischi che essa comporta. Per la classificazione è determinante l’allegato VIII UE-MDR[^15-2], tenendo conto degli atti di esecuzione della Commissione europea elencati nell’allegato 5*a*.
 
-<sup>2</sup> ...[^15-2]
-
-[^15-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
-[^15-2]: Abrogato dall’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, con effetto dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^15-1]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^15-2]: Cfr. art. 4 cpv. 1 lett. f, nota a piè di pagina.
 
 #### Art. 16
 
@@ -449,12 +453,12 @@ Chi mette a disposizione sul mercato in Svizzera dispositivi su misura deve comu
 
 <sup>3</sup> Il fabbricante che, avendo sede in Svizzera, mette in servizio in Svizzera o in uno Stato contraente un dispositivo non immesso in commercio deve, prima della messa in servizio, eseguire una valutazione della conformità secondo le procedure di valutazione della conformità applicabili. Deve poter dimostrare che tale valutazione di conformità è stata eseguita e che il dispositivo è conforme.[^21-2]
 
-<sup>4</sup> La prova del rispetto dei requisiti generali di sicurezza e prestazione comprende anche una valutazione delle prestazioni conformemente all’articolo 61 UE-MDR[^21-3].[^21-4]
+<sup>4</sup> La prova del rispetto dei requisiti generali di sicurezza e prestazione comprende anche una valutazione clinica conformemente all’articolo 61 UE-MDR[^21-3].[^21-4]
 
 [^21-1]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 [^21-2]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
-[^21-3]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
-[^21-4]: Introdotto dall’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^21-3]: Cfr. art. 4 cpv. 1 lett. f, nota a piè di pagina.
+[^21-4]: Introdotto dall’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)). Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 
 #### Art. 22
 
@@ -614,7 +618,7 @@ L’autorizzazione è rilasciata se:
 
 <sup>4</sup> Alla procedura di autorizzazione si applicano per analogia gli articoli 39–43 dell’ordinanza del 14 novembre 2018[^30-1] sull’autorizzazione dei medicamenti (OAMed).
 
-[^30-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
+[^30-1]: [RS 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361)
 
 #### Art. 31
 
@@ -624,8 +628,8 @@ L’autorizzazione è rilasciata se:
 
 <sup>2</sup> Il titolare dell’autorizzazione di cui all’articolo 30 deve verificare l’idoneità del donatore.
 
-[^31-1]: [RS 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
-[^31-2]: [RS 810.211](https://fedlex.data.admin.ch/eli/cc/2007/280)
+[^31-1]: [RS 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
+[^31-2]: [RS 810.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9240)
 
 #### Art. 32
 
@@ -635,8 +639,8 @@ L’autorizzazione è rilasciata se:
 
 <sup>2</sup> Per il resto, la tracciabilità è retta per analogia dagli articoli 34 e 35 della legge dell’8 ottobre 2004[^32-2] sui trapianti.
 
-[^32-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
-[^32-2]: [RS 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
+[^32-1]: [RS 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361)
+[^32-2]: [RS 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
 
 ## Capitolo 5: Organismi designati
 
@@ -975,11 +979,11 @@ Gli altri obblighi del distributore prima e dopo la messa a disposizione sul mer
 
 [^54-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
 
-## Sezione 5: Registrazione di operatori economici
+### Sezione 5: Registrazione di operatori economici
 
-[^chap7-1]
+[^chap6-sec5-1]
 
-[^chap7-1]: Nuovo testo giusta il n. I dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+[^chap6-sec5-1]: Nuovo testo giusta il n. I dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 
 #### Art. 55
 
@@ -1155,7 +1159,7 @@ Il fabbricante di un dispositivo messo a disposizione in Svizzera o la persona c
 
 <sup>2bis</sup> Se è richiesto un mandatario secondo l’articolo 51, questi è responsabile della notifica di cui al capoverso 1. Il mandatario trasmette inoltre di propria iniziativa a Swissmedic i rapporti sulle tendenze di cui al capoverso 2 concernenti gli incidenti accaduti in Svizzera nonché all’estero. Le relazioni finali di cui all’articolo 89 paragrafo 5 UE-MDR vanno trasmesse a Swissmedic. La delega di tali obblighi al mandatario da parte del fabbricante o della persona che assembla sistemi o kit procedurali secondo l’articolo 22 paragrafi 1 e 3 UE-MDR deve essere concordata per scritto nel mandato.[^66-3]
 
-<sup>3</sup> Le relative notifiche e informazioni devono essere trasmesse tramite Eudamed secondo le disposizioni dell’UE-MDR menzionate al capoverso 2.
+<sup>3</sup> ...[^66-4]
 
 <sup>4</sup> Chi, quale specialista, accerta un incidente grave nell’applicazione di dispositivi deve notificarlo al fornitore e a Swissmedic. La notifica può essere fatta da un’associazione professionale. I termini delle notifiche sono retti dall’articolo 87 UE-MDR.
 
@@ -1164,6 +1168,7 @@ Il fabbricante di un dispositivo messo a disposizione in Svizzera o la persona c
 [^66-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
 [^66-2]: Nuovo testo giusta il n. I dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 [^66-3]: Introdotto dal n. I dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+[^66-4]: Abrogato dal n. I dell’O del 19 mag. 2021, con effetto dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 
 #### Art. 67
 
@@ -1225,7 +1230,7 @@ La manutenzione deve essere eseguita conformemente ai principi di un sistema di 
 
 <sup>4</sup> Swissmedic può elaborare e pubblicare direttive sulle misure di manutenzione. Tali disposizioni valgono come stato della scienza e della tecnica.
 
-[^71-1]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^71-1]: [RS 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 
 #### Art. 72
 
@@ -1427,7 +1432,7 @@ Swissmedic è responsabile del sistema d’informazione sui dispositivi medici d
 
 <sup>3</sup> Il trattamento dei dati deve essere verbalizzato automaticamente.
 
-[^84-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^84-1]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^84-2]: Nuovo testo giusta l’all. 2 n. II 101 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^84-3]: Nuovo testo giusta l’all. 2 n. II 101 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
@@ -1482,8 +1487,6 @@ I dati personali di cui all’articolo 85 capoverso 2 sono conservati in una for
 
 **Pubblicazione di dati**
 
-<sup>1</sup>
-
 Swissmedic può pubblicare nel sistema d’informazione sui dispositivi medici segnatamente quanto segue:
 
 - a. i dati sui dispositivi conformemente all’allegato VI parte B UE-MDR[^90-1];
@@ -1512,7 +1515,7 @@ I dati diversi dai dati personali possono essere utilizzati per la valutazione i
 Qualsiasi trattamento dei dati effettuato nel sistema d’informazione sui dispositivi medici deve essere conforme alla legge federale del 25 settembre 2020[^92-2] sulla protezione dei dati.
 
 [^92-1]: Nuovo testo giusta l’all. 2 n. II 101 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^92-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^92-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 ## Capitolo 11: Disposizioni finali
 
@@ -1522,9 +1525,11 @@ Qualsiasi trattamento dei dati effettuato nel sistema d’informazione sui dispo
 
 **Modifica degli allegati**
 
-<sup>1</sup> Il DFI può adeguare gli allegati 1–3, 5 e 6 della presente ordinanza agli sviluppi a livello internazionale o nel campo della tecnica.
+<sup>1</sup> Il DFI può adeguare gli allegati 1–3 e 5–6 della presente ordinanza agli sviluppi a livello internazionale o nel campo della tecnica.[^93-1]
 
 <sup>2</sup> Gli adeguamenti che possono costituire ostacoli tecnici al commercio sono effettuati dal DFI d’intesa con il Dipartimento federale dell’economia, della formazione e della ricerca.
+
+[^93-1]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 
 #### Art. 94
 
@@ -1613,22 +1618,60 @@ Sono abrogate:
 
 <sup>1</sup> I certificati rilasciati secondo il diritto anteriore prima del 25 maggio 2017 restano validi fino alla fine del periodo indicato sugli stessi, ma al più tardi fino al 26 maggio 2022.
 
-<sup>2</sup> I certificati rilasciati secondo il diritto anteriore a partire dal 25 maggio 2017 restano validi fino alla fine del periodo indicato sugli stessi, ma al più tardi fino al 26 maggio 2024.
+<sup>2</sup> I certificati rilasciati secondo il diritto anteriore dal 25 maggio 2017, che erano validi il 26 maggio 2021 e non sono stati successivamente revocati, restano validi fino alla data stabilita nell’articolo 101 capoverso 1 lettera b per la rispettiva classe di rischio dei dispositivi.[^100-1]
+
+<sup>3</sup>
+
+I certificati rilasciati secondo il diritto anteriore dal 25 maggio 2017, che erano validi il 26 maggio 2021 e sono scaduti prima del 20 marzo 2023, restano validi fino alla data stabilita nell’articolo 101 capoverso 1 lettera b per la rispettiva classe di rischio dei dispositivi se è adempiuta una delle seguenti condizioni:
+
+- a. prima della scadenza dei certificati il fabbricante e un organismo designato secondo il capitolo 5 o un organismo notificato secondo l’UE-MDR[^100-2] con sede in uno Stato UE o SEE hanno firmato un accordo scritto conformemente all’allegato VII punto 4.3 secondo comma UE-MDR concernente la valutazione della conformità dei dispositivi oggetto dei certificati scaduti, o di dispositivi destinati a sostituire tali dispositivi;
+- b. Swissmedic ha concesso una deroga alla procedura di valutazione della conformità applicabile conformemente all’articolo 22 capoverso 1 lettera a o un’autorità competente di uno Stato UE o SEE ha concesso una deroga alla procedura di valutazione della conformità applicabile conformemente all’articolo 120 paragrafo 2 secondo comma lettera b UE-MDR;
+- c. l’autorità competente ha imposto al fabbricante di svolgere la procedura di valutazione della conformità applicabile nell’ambito delle attività di sorveglianza del mercato di cui all’articolo 75 capoverso 2 della presente ordinanza o all’articolo 97 paragrafo 1 UE-MDR.[^100-3]
+
+[^100-1]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^100-2]: Cfr. art. 4 cpv. 1 lett. f, nota a piè di pagina.
+[^100-3]: Introdotto dal n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 
 #### Art. 101
 
-**Immissione in commercio di dispositivi secondo il diritto anteriore**
+**Immissione in commercio di dispositivi secondo il diritto anteriore**[^101-1]
 
 <sup>1</sup>
 
-Possono continuare a essere immessi in commercio o messi in servizio fino al 26 maggio 2024 i seguenti dispositivi a condizione che a partire dal 26 maggio 2021 continuino a corrispondere al diritto anteriore e che non ci siano cambiamenti significativi nella progettazione e nella destinazione d’uso del dispositivo medico in questione:
+I seguenti dispositivi possono essere immessi in commercio o messi in servizio fino alla data indicata:
 
-- a. i dispositivi che secondo il diritto anteriore appartengono alla classe I, per i quali prima del 26 maggio 2021 è stata rilasciata una dichiarazione di conformità e per i quali la procedura di valutazione della conformità ai sensi della presente ordinanza richiede il coinvolgimento di un organismo designato;
-- b. i dispositivi con un certificato valido ai sensi dell’articolo 100.
+- a. i dispositivi per i quali la procedura di valutazione della conformità secondo il diritto anteriore non richiedeva il ricorso a un organismo designato, per i quali era stata rilasciata una dichiarazione di conformità prima del 26 maggio 2021 e per i quali la procedura di valutazione della conformità ai sensi della presente ordinanza richiede il ricorso a un organismo designato: fino al 31 dicembre 2028;
+- b.
 
-<sup>2</sup> Per la sorveglianza post-commercializzazione di questi dispositivi, la sorveglianza del mercato che li concerne, la vigilanza, la registrazione di operatori economici e di questi dispositivi vigono le disposizioni della presente ordinanza.
+  i dispositivi con un certificato valido ai sensi dell’articolo 100:
 
-<sup>3</sup> I dispositivi legittimamente immessi in commercio prima del 26 maggio 2021 secondo il diritto anteriore e i dispositivi immessi in commercio a partire dal 26 maggio 2021 conformemente al capoverso 1 possono continuare a essere messi a disposizione sul mercato o messi in servizio fino al 26 maggio 2025. È fatto salvo l’articolo 103.
+  - 1\. dispositivi della classe III e dispositivi impiantabili della classe IIb, fatta eccezione per materiali di sutura, graffette, materiali di otturazione dentale, apparecchi ortodontici, corone dentali, viti, cunei, placche e protesi, fili, chiodi, clip e connettori: fino al 31 dicembre 2027,
+  - 2\. dispositivi della classe IIb che non rientrano nel numero 1, dispositivi della classe IIa e dispositivi della classe I che sono immessi in commercio sterili o dispositivi della classe I con funzione di misurazione: fino al 31 dicembre 2028.
+
+<sup>1bis</sup>
+
+L’immissione in commercio o la messa in servizio di dispositivi di cui al capoverso 1 è ammessa solo se sono adempiute le seguenti condizioni:
+
+- a. i dispositivi continuano a corrispondere al diritto anteriore;
+- b. non ci sono cambiamenti significativi nella progettazione e nella destinazione d’uso dei dispositivi;
+- c. i dispositivi non presentano un rischio inaccettabile per la salute o la sicurezza di pazienti, utilizzatori o altre persone o per altri aspetti della protezione della salute pubblica;
+- d. entro il 26 maggio 2024 il fabbricante ha istituito un sistema di gestione della qualità conformemente all’articolo 10 paragrafo 9 UE-MDR[^101-2];
+- e. entro il 26 maggio 2024 il fabbricante o il mandatario ha presentato una domanda formale a un organismo designato secondo il capitolo 5 o a un organismo notificato secondo l’UE-MDR con sede in uno Stato UE o SEE conformemente all’allegato VII punto 4.3 primo comma UE-MDR per la valutazione della conformità di dispositivi di cui al capoverso 1 o di dispositivi destinati a sostituire tali dispositivi;
+- f. entro il 26 settembre 2024 il fabbricante e l’organismo designato o l’organismo notificato di cui alla lettera e hanno firmato un accordo scritto conformemente all’allegato VII punto 4.3 secondo comma UE-MDR.
+
+<sup>1ter</sup>
+
+I dispositivi su misura impiantabili della classe III possono essere immessi in commercio o messi in servizio fino al 26 maggio 2026 senza un certificato rilasciato da un organismo designato secondo il capitolo 5 o da un organismo notificato secondo l’UE-MDR con sede in uno Stato UE o SEE secondo la procedura di valutazione della conformità di cui all’articolo 10 capoverso 2, se sono adempiute le seguenti condizioni:
+
+- a. entro il 26 maggio 2024 il fabbricante o il mandatario ha presentato una domanda formale a un organismo designato secondo il capitolo 5 o a un organismo notificato secondo l’UE-MDR con sede in uno Stato UE o SEE conformemente all’allegato VII punto 4.3 primo comma UE-MDR, per la valutazione della conformità dei dispositivi su misura;
+- b. entro il 26 settembre 2024 il fabbricante e un organismo designato secondo il capitolo 5 o un organismo notificato secondo l’UE-MDR con sede in uno Stato UE o SEE hanno firmato un accordo scritto conformemente all’allegato VII punto 4.3 secondo comma UE-MDR.
+
+<sup>2</sup> Per la sorveglianza post-commercializzazione dei dispositivi di cui al capoverso 1, la sorveglianza del mercato che li concerne, la vigilanza, la registrazione di operatori economici e di questi dispositivi vigono le disposizioni della presente ordinanza.
+
+<sup>3</sup> I dispositivi legittimamente immessi in commercio prima del 26 maggio 2021 secondo il diritto anteriore e i dispositivi immessi in commercio dal 26 maggio 2021 conformemente ai capoversi 1 e 1<sup>ter</sup> possono continuare a essere messi a disposizione sul mercato o messi in servizio. È fatto salvo l’articolo 103.
+
+[^101-1]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^101-2]: Cfr. art. 4 cpv. 1 lett. f, nota a piè di pagina.
 
 #### Art. 102
 
@@ -1698,9 +1741,39 @@ Per i dispositivi della classe I nonché i sistemi e kit procedurali che sono st
 
 #### Art. 106
 
-**Prodotti senza destinazione d’uso medica**
+**Gruppi di prodotti senza destinazione d’uso medica**[^106-1]
 
-Finché Swissmedic non avrà designato specifiche comuni secondo l’articolo 8 capoverso 1 per i prodotti senza destinazione d’uso medica di cui all’allegato 1, a tali prodotti si applica il diritto anteriore.
+<sup>1</sup> Finché Swissmedic non avrà designato specifiche comuni secondo l’articolo 8 capoverso 1 per i gruppi di prodotti senza destinazione d’uso medica di cui all’allegato 1, a tali prodotti si applica il diritto anteriore.
+
+<sup>2</sup>
+
+I prodotti che rientrano nei gruppi di prodotti di cui all’allegato 1 e per i quali il fabbricante svolge o intende svolgere un’indagine clinica per generare dati clinici ai fini della valutazione clinica volta a confermare la conformità dei prodotti ai pertinenti requisiti generali di sicurezza e prestazione di cui all’articolo 6 capoverso 2 e alle specifiche comuni di cui all’articolo 8 capoverso 1 e per i quali la procedura di valutazione della conformità comporta il ricorso a un organismo designato secondo il capitolo 5 o a un organismo notificato secondo l’UE-MDR[^106-2] con sede in uno Stato UE o SEE, possono essere immessi in commercio o messi in servizio fino al 31 dicembre 2029, se sono adempiute le condizioni seguenti:
+
+- a. i prodotti sono già stati commercializzati legittimamente prima del 1° maggio 2024 e continuano a corrispondere ai requisiti applicabili ai prodotti prima del 1° maggio 2024;
+- b. non ci sono cambiamenti significativi nella progettazione e nella destinazione d’uso dei prodotti.
+
+<sup>3</sup>
+
+L’immissione in commercio o la messa in servizio di cui al capoverso 2 è ammessa nei periodi indicati di seguito, solo se sono adempiute anche le seguenti condizioni:
+
+- a. dal 1° novembre 2024 al 1° maggio 2025: il promotore di cui all’articolo 2 lettera d OSRUm-Dmed[^106-3] o lo sponsor di cui all’articolo 2 paragrafo 49 UE-MDR ha ricevuto dall’ente competente una comunicazione con la conferma che la domanda di indagine clinica dei prodotti è completa;
+- b. dal 2 maggio 2025 al 31 dicembre 2027: il promotore o lo sponsor ha avviato l’indagine clinica;
+- c. dal 1° gennaio 2028 al 31 dicembre 2029: il fabbricante e un organismo designato secondo il capitolo 5 o un organismo notificato secondo l’UE-MDR con sede in uno Stato UE o SEE hanno firmato un accordo scritto concernente lo svolgimento della valutazione della conformità.
+
+<sup>4</sup>
+
+I prodotti che rientrano nel gruppo di prodotti di cui all’allegato 1 e per i quali il fabbricante non intende svolgere un’indagine clinica, ma la cui procedura di valutazione della conformità comporta il ricorso a un organismo designato secondo il capitolo 5 o a un organismo notificato secondo l’UE-MDR con sede in uno Stato UE o SEE, possono essere immessi in commercio o messi in servizio fino al 31 dicembre 2028, se sono adempiute le condizioni seguenti:
+
+- a. i prodotti sono già stati commercializzati legittimamente prima del 1° maggio 2024 e continuano a corrispondere ai requisiti applicabili ai prodotti prima del 1° maggio 2024;
+- b. non ci sono cambiamenti significativi nella progettazione e nella destinazione d’uso dei prodotti.
+
+<sup>5</sup> Per l’immissione in commercio o la messa in servizio secondo il capoverso 4 dal 1° gennaio 2027 al 31 dicembre 2028 il fabbricante e un organismo designato secondo il capitolo 5 o un organismo notificato secondo l’UE-MDR con sede in uno Stato UE o SEE devono inoltre aver firmato un accordo scritto concernente lo svolgimento della valutazione della conformità.
+
+<sup>6</sup> I prodotti che rientrano nel gruppo di prodotti di cui all’allegato 1 e dispongono di certificati rilasciati secondo il diritto anteriore che erano validi il 26 maggio 2021 e sono scaduti prima del 20 marzo 2023, e che tuttavia non adempiono le condizioni di cui all’articolo 100 capoverso 3 lettera a, b o c, possono continuare a essere immessi in commercio e messi in servizio fino a decorrenza dei termini di cui all’articolo 101 capoverso 1 lettera b, se sono adempiute le condizioni di cui all’articolo 101 capoverso 1<sup>bis</sup>. Sono applicabili gli articoli 101 capoverso 2 e 107 capoversi 2–2<sup>ter</sup>.
+
+[^106-1]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^106-2]: Cfr. art. 4 cpv. 1 lett. f, nota a piè di pagina.
+[^106-3]: [RS 810.306](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9251)
 
 #### Art. 107
 
@@ -1708,14 +1781,25 @@ Finché Swissmedic non avrà designato specifiche comuni secondo l’articolo 8 
 
 <sup>1</sup> La designazione di organismo di valutazione della conformità secondo la sezione 4 dell’ordinanza del 17 ottobre 2001[^107-1] relativa ai dispositivi medici non è più valida.
 
-<sup>2</sup> L’organismo di valutazione della conformità che ha rilasciato i certificati secondo il diritto anteriore continua a essere responsabile dell’appropriata sorveglianza dei dispositivi in questione. È soggetto alla sorveglianza di Swissmedic.
+<sup>2</sup> L’organismo di valutazione della conformità la cui designazione non è più valida conformemente al capoverso 1 e che ha rilasciato i certificati secondo il diritto anteriore continua a essere responsabile dell’appropriata sorveglianza di tutti i requisiti applicabili ai dispositivi provvisti di tali certificati, a meno che il fabbricante non abbia concordato con un organismo designato secondo il capitolo 5 o con un organismo notificato secondo l’UE-MDR[^107-2] con sede in uno Stato UE o SEE che quest’ultimo effettui tale sorveglianza.[^107-3]
+
+<sup>2bis</sup> Entro il 26 settembre 2024 l’organismo designato di cui all’articolo 101 capoverso 1<sup>bis</sup> lettera f diventa responsabile della sorveglianza dei dispositivi oggetto dell’accordo scritto. Se l’accordo scritto riguarda dispositivi destinati a sostituire dispositivi oggetto di certificati rilasciati secondo il diritto anteriore, la sorveglianza è effettuata sui dispositivi sostituiti.[^107-4]
+
+<sup>2ter</sup> Le modalità per il trasferimento della sorveglianza dall’organismo designato che ha rilasciato il certificato a un organismo designato secondo il capitolo 5 o a un organismo notificato secondo l’UE-MDR con sede in uno Stato UE o SEE sono disciplinate in un accordo tra il fabbricante e l’organismo che assume la sorveglianza e, per quanto possibile, l’organismo designato che ha rilasciato il certificato. L’organismo designato secondo il capitolo 5 non è responsabile delle attività di valutazione della conformità che sono state svolte dall’organismo designato che ha rilasciato il certificato.[^107-5]
+
+<sup>2quater</sup> L’organismo di valutazione della conformità la cui designazione non è più valida conformemente al capoverso 1, che continua a essere responsabile della sorveglianza conformemente al capoverso 2, è soggetto alla vigilanza di Swissmedic.[^107-6]
 
 <sup>3</sup> La designazione di organismo di valutazione della conformità secondo la sezione 4*a* dell’ordinanza del 17 ottobre 2001 relativa ai dispositivi medici mantiene la propria validità.
 
-<sup>4</sup> ...[^107-2]
+<sup>4</sup> ...[^107-7]
 
 [^107-1]: Cfr. nota a piè di pagina relativa all’art. 99 n. 1.
-[^107-2]: Abrogato dall’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, con effetto dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^107-2]: Cfr. art. 4 cpv. 1 lett. f, nota a piè di pagina.
+[^107-3]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^107-4]: Introdotto dal n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^107-5]: Introdotto dal n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^107-6]: Introdotto dal n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^107-7]: Abrogato dall’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, con effetto dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 108
 
@@ -1751,11 +1835,13 @@ Fino all’entrata in vigore dell’articolo 17 capoverso 5, alle persone con se
 
 [^110-1]: Nuovo testo giusta il n. I dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 
-Allegato 1
+Allegato 1[^t-1]
 
 (art. 1 cpv. 1 lett. b)
 
-## Gruppi di dispositivi senza destinazione d’uso medica
+## Gruppi di prodotti senza destinazione d’uso medica
+
+[^t-1]: Aggiornato dal n. II cpv. 1 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 
 - 1\. Lenti a contatto o altri elementi destinati a essere introdotti nel o applicati sull’occhio.
 - 2\. Prodotti destinati a essere introdotti totalmente o parzialmente nel corpo umano mediante strumenti invasivi di tipo chirurgico allo scopo di modificare l’anatomia o per la fissazione di parti del corpo, a eccezione dei prodotti per tatuaggi e piercing.
@@ -1764,13 +1850,13 @@ Allegato 1
 - 5\. Apparecchiature che emettono radiazioni elettromagnetiche ad alta intensità, come infrarossi, luce visibile e ultravioletti, destinate a essere utilizzate sul corpo umano, comprese fonti coerenti e non coerenti, monocromatiche e ad ampio spettro, come laser e apparecchiature a luce pulsata ad alta intensità per fotoringiovanimento cutaneo, tatuaggio o epilazione o altro trattamento dermico.
 - 6\. Attrezzature destinate alla stimolazione cerebrale che applicano correnti elettriche o campi magnetici o elettromagnetici che attraversano il cranio per modificare l’attività neuronale del cervello.
 
-Allegato 2[^t-1]
+Allegato 2[^t-2]
 
 (art. 5 cpv. 1)
 
 ## Equivalenze terminologiche
 
-[^t-1]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^t-2]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 Le espressioni qui appresso dell’UE-MDR[^annex2-lvlu1-1] hanno nella presente ordinanza gli equivalenti seguenti:
 
@@ -1835,13 +1921,13 @@ Le espressioni qui appresso dell’UE-MDR[^annex2-lvlu1-1] hanno nella presente 
 
 [^annex2-lvlu1-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
 
-Allegato 3[^t-2]
+Allegato 3[^t-3]
 
 (art. 5 cpv. 2)
 
 ## Diritto applicabile
 
-[^t-2]: Aggiornato dall’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)) e dall’all. 2 n. II 101 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^t-3]: Aggiornato dall’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)) e dall’all. 2 n. II 101 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### 1 Diritto UE
 
@@ -1883,22 +1969,22 @@ Se la presente ordinanza rimanda a disposizioni dell’UE-MDR[^annex3-lvlu1-lvl2
 </table>
 
 [^annex3-lvlu1-lvl2-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
-[^annex3-lvlu1-lvl2-2]: [RS 221.112.944](https://fedlex.data.admin.ch/eli/cc/1993/3122_3122_3122)
-[^annex3-lvlu1-lvl2-3]: [RS 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
-[^annex3-lvlu1-lvl2-4]: [RS 819.14](https://fedlex.data.admin.ch/eli/cc/2008/263)
-[^annex3-lvlu1-lvl2-5]: [RS 817.023.31](https://fedlex.data.admin.ch/eli/cc/2017/165)
-[^annex3-lvlu1-lvl2-6]: [RS 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
-[^annex3-lvlu1-lvl2-7]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^annex3-lvlu1-lvl2-8]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
-[^annex3-lvlu1-lvl2-9]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^annex3-lvlu1-lvl2-10]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
-[^annex3-lvlu1-lvl2-11]: [RS 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
-[^annex3-lvlu1-lvl2-12]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^annex3-lvlu1-lvl2-13]: [RS 941.20](https://fedlex.data.admin.ch/eli/cc/2012/734)
-[^annex3-lvlu1-lvl2-14]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
-[^annex3-lvlu1-lvl2-15]: [RS 813.112.1](https://fedlex.data.admin.ch/eli/cc/2005/467)
+[^annex3-lvlu1-lvl2-2]: [RS 221.112.944](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5851)
+[^annex3-lvlu1-lvl2-3]: [RS 734.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8590)
+[^annex3-lvlu1-lvl2-4]: [RS 819.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9850)
+[^annex3-lvlu1-lvl2-5]: [RS 817.023.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9692)
+[^annex3-lvlu1-lvl2-6]: [RS 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
+[^annex3-lvlu1-lvl2-7]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^annex3-lvlu1-lvl2-8]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
+[^annex3-lvlu1-lvl2-9]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^annex3-lvlu1-lvl2-10]: [RS 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
+[^annex3-lvlu1-lvl2-11]: [RS 813.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9395)
+[^annex3-lvlu1-lvl2-12]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^annex3-lvlu1-lvl2-13]: [RS 941.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11170)
+[^annex3-lvlu1-lvl2-14]: [RS 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)
+[^annex3-lvlu1-lvl2-15]: [RS 813.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9397)
 
-Allegato 4[^t-3]
+Allegato 4[^t-4]
 
 (art. 4 cpv. 2, 17 cpv. 4, 19 cpv. 1 lett. c, 20 cpv. 1, 23, 25 cpv. 3, 29 cpv. 2, 45 cpv. 2, 46 cpv. 3, 47 cpv. 1 e 98 cpv. 2 lett. b)
 
@@ -1906,23 +1992,23 @@ Allegato 4[^t-3]
 
 [^annex4-lvlu1-1]
 
-[^t-3]: Aggiornato dall’errata del 4 mag. 2021 ([RU 2021 260](https://fedlex.data.admin.ch/eli/oc/2021/260)).
+[^t-4]: Aggiornato dall’errata del 4 mag. 2021 ([RU 2021 260](https://fedlex.data.admin.ch/eli/oc/2021/260)).
 [^annex4-lvlu1-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
 
 Nell’applicazione della presente ordinanza gli atti emanati sulla base delle disposizioni dell’UE-MDR sotto elencate sono direttamente applicabili in Svizzera nella rispettiva versione vincolante per gli Stati membri dell’UE:
 
 <table>
 <tr><th>Oggetto</th><th>Atto della Commissione europea in virtù dell’UE-MDR</th></tr>
-<tr><th>Art. 4 cpv. 2 ODmed</th><th>Atti delegati secondo l’articolo 3 UE-MDR</th></tr>
-<tr><th>Art. 17 cpv. 4 ODmed</th><th>Atti delegati secondo l’articolo 27 paragrafo 10 UE-MDR</th></tr>
-<tr><th>Art. 19 cpv. 1 lett. c ODmed</th><th>Atti di esecuzione secondo l’articolo 42 paragrafo 13 UE-MDR</th></tr>
-<tr><th>Art. 20 cpv. 1 ODmed</th><th>Atti delegati secondo l’articolo 18 paragrafo 3 UE-MDR</th></tr>
-<tr><th>Art. 23 ODmed</th><th>Atti delegati secondo l’articolo 52 paragrafo 5 UE-MDR</th></tr>
-<tr><th>Art. 25 cpv. 3 ODmed</th><th>Atti delegati secondo l’articolo 56 paragrafo 6 UE-MDR</th></tr>
-<tr><th>Art. 29 cpv. 2 ODmed</th><th>Atti delegati secondo l’articolo 19 paragrafo 4 UE-MDR</th></tr>
-<tr><th>Art. 45 cpv. 2 ODmed</th><th>Atti delegati secondo l’articolo 44 paragrafo 11 UE-MDR</th></tr>
-<tr><th>Art. 46 cpv. 3 ODmed</th><th>Atti delegati secondo l’articolo 61 paragrafo 8 UE-MDR</th></tr>
-<tr><th>Art. 47 cpv. 1 ODmed</th><th>Atti delegati secondo l’articolo 10 paragrafo 4 UE-MDR</th></tr>
+<tr><td>Art. 4 cpv. 2 ODmed</td><td>Atti delegati secondo l’articolo 3 UE-MDR</td></tr>
+<tr><td>Art. 17 cpv. 4 ODmed</td><td>Atti delegati secondo l’articolo 27 paragrafo 10 UE-MDR</td></tr>
+<tr><td>Art. 19 cpv. 1 lett. c ODmed</td><td>Atti di esecuzione secondo l’articolo 42 paragrafo 13 UE-MDR</td></tr>
+<tr><td>Art. 20 cpv. 1 ODmed</td><td>Atti delegati secondo l’articolo 18 paragrafo 3 UE-MDR</td></tr>
+<tr><td>Art. 23 ODmed</td><td>Atti delegati secondo l’articolo 52 paragrafo 5 UE-MDR</td></tr>
+<tr><td>Art. 25 cpv. 3 ODmed</td><td>Atti delegati secondo l’articolo 56 paragrafo 6 UE-MDR</td></tr>
+<tr><td>Art. 29 cpv. 2 ODmed</td><td>Atti delegati secondo l’articolo 19 paragrafo 4 UE-MDR</td></tr>
+<tr><td>Art. 45 cpv. 2 ODmed</td><td>Atti delegati secondo l’articolo 44 paragrafo 11 UE-MDR</td></tr>
+<tr><td>Art. 46 cpv. 3 ODmed</td><td>Atti delegati secondo l’articolo 61 paragrafo 8 UE-MDR</td></tr>
+<tr><td>Art. 47 cpv. 1 ODmed</td><td>Atti delegati secondo l’articolo 10 paragrafo 4 UE-MDR</td></tr>
 <tr><td>Art. 98 cpv. 2 lett. b ODmed</td><td>Atti delegati secondo l’articolo 106 paragrafo 15 UE-MDR</td></tr>
 </table>
 
@@ -1934,24 +2020,36 @@ Allegato 5
 
 Il marchio di conformità è indicato nel modo seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20230901/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20231101/it/xml/image/image1.png)
 
 Se occorre fare ricorso a un organismo designato, oltre al marchio di conformità va indicato anche il numero d’identificazione di tale organismo.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20230901/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20231101/it/xml/image/image2.png)
 
-Allegato 6[^t-4]
+Allegato 5a[^t-5]
+
+(art. 15)
+
+## Atti di esecuzione della Commissione europea considerati nella classificazione dei dispositivi
+
+[^t-5]: Introdotto dal n. II cpv. 2 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+
+Nella classificazione dei dispositivi sono considerati i seguenti atti di esecuzione della Commissione europea:
+
+- 1\. Regolamento di esecuzione (UE) 2022/2347 della Commissione, del 1° dicembre 2022, recante modalità di applicazione del regolamento (UE) 2017/745 del Parlamento europeo e del Consiglio per quanto riguarda la riclassificazione di gruppi di determinati prodotti attivi che non hanno una destinazione d’uso medica, GU L 311 del 2.12.2022, pag. 94.
+
+Allegato 6[^t-6]
 
 (art. 70 cpv. 2 e 3)
 
 ## Gruppi di dispositivi destinati all’applicazione da parte di professionisti della salute e presupposti professionali e aziendali per il loro utilizzo
 
-[^t-4]: Aggiornato dall’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^t-6]: Aggiornato dall’all. 5 n. 1 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 ### 1. Gruppi di dispositivi
 
 I dispositivi per iniezione destinati a rimanere nel corpo umano per più di 30 giorni (dispositivi a lunga permanenza) possono essere utilizzati esclusivamente da un medico oppure da un professionista della salute formato conformemente al numero 2 e sotto il diretto controllo e la responsabilità di un medico.
 
-## 2. Presupposti professionali
+### 2. Presupposti professionali
 
 I dispositivi a lunga permanenza possono essere utilizzati da infermieri diplomati provvisti di formazione continua nell’ambito dei dispositivi per iniezione a lunga permanenza.

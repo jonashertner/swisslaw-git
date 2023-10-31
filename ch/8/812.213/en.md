@@ -4,11 +4,11 @@ title: Medical Devices Ordinance of 1 July 2020 (MedDO)
 short: MedDO
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/552"
 language: en
-version: 2023-09-01
+version: 2023-11-01
 adopted: 2020-07-01
 in_force: 2021-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2020-552-20230901-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20231101/en/xml/fedlex-data-admin-ch-eli-cc-2020-552-20231101-en-xml-25.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20231101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (MedDO)
 
-of 1 July 2020 (Status as of 1 September 2023)
+of 1 July 2020 (Status as of 1 November 2023)
 
 The Swiss Federal Council,
 
@@ -27,12 +27,12 @@ based on the Therapeutic Products Act of 15 December 2000[^ingress-1] (TPA), Art
 
 ordains:
 
-[^ingress-1]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-2]: [SR 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^ingress-3]: [SR 941.20](https://fedlex.data.admin.ch/eli/cc/2012/734)
-[^ingress-4]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
-[^ingress-5]: [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
-[^ingress-6]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^ingress-2]: [SR 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
+[^ingress-3]: [SR 941.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11170)
+[^ingress-4]: [SR 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
+[^ingress-5]: [SR 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)
+[^ingress-6]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 [^ingress-7]: Amended by Annex 5 No 1 of the O of 4 May 2022 on In Vitro Diagnostic Medical Devices, in force since 26 May 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 ## Chapter 1 General Provisions
@@ -142,21 +142,22 @@ In this Ordinance:
 - c. *putting into service* means the stage at which a device, other than an investigational device, has been made available to the final user as being ready for use on the Swiss market for the first time for its intended purpose;
 - d. *maintenance* means measures such as preventive maintenance, software updates, inspection, repair, preparation for first use and reprocessing for reuse or measures to keep a device in functional condition or restore it to functional condition;
 - e. *reprocessing* means a process carried out on a used device in order to allow its safe reuse including cleaning, disinfection, sterilisation and related procedures, particularly packing, transport and storage, as well as testing and restoring the technical and functional safety of the used device;
-- f. *manufacturer* means a natural or legal person who manufactures or fully refurbishes a device or has a device designed, manufactured or fully refurbished, and markets that device under its name or trademark; this definition is subject to the clarifying explanations and exceptions in Article 16 paragraphs 1 and 2 of Regulation (EU) 2017/745[^4-1] on medical devices (EU-MDR);
-- g. *authorised representative* means any natural or legal person domiciled in Switzerland who has received and accepted a written mandate from a manufacturer located in another country to act on the manufacturer's behalf in relation to specified tasks with regard to the latter's obligations under this Ordinance;
+- f.[^4-1] *manufacturer* means a natural or legal person who manufactures or fully refurbishes a device or has a device designed, manufactured or fully refurbished, and markets that device under its name or trademark; this definition is subject to the clarifying explanations and exceptions in Article 16 paragraphs 1 and 2 of Regulation (EU) 2017/745[^4-2] on medical devices (EU-MDR);
+- g. *authorised representative* means any natural or legal person domiciled in Switzerland who has received and accepted a written mandate from a manufacturer located in another country to act on the manufacturer’s behalf in relation to specified tasks with regard to the latter’s obligations under this Ordinance;
 - h. *importer* means any natural or legal person domiciled in Switzerland that places a device from a foreign country on the Swiss market;
 - i. *distributor* means any natural or legal person in the supply chain, other than the manufacturer or the importer, that makes a device available on the Swiss market, up until the point of putting into service;
 - j. *economic operator* means the manufacturer, authorised representative, importer, distributor or the natural or legal person referred to in Article 22 paragraphs 1 and 3 EU-MDR;
 - k. *healthcare institution* means an organisation the primary purpose of which is the care or treatment of patients or the promotion of public health;
 - l. *hospital* means any healthcare institution in which inpatient treatments for illnesses, inpatient medical rehabilitation and inpatient medical measures for cosmetic purposes are provided by medical or nursing interventions;
 - m. *contracting state* means any state that is bound to mutually recognise conformity assessments and conformity procedures for devices by an agreement with Switzerland under international law based on equivalent legislation;
-- n. [^4-2] *provider of information society services* means any natural or legal person who provides a service in accordance with Article 7 paragraph 4.
+- n. [^4-3] *provider of information society services* means any natural or legal person who provides a service in accordance with Article 7 paragraph 4.
 
-<sup>2</sup> The definitions set out in Article 2 numbers 3–26, 31, 37, 38, 40–44, 46, 48, 51–53, 57–69 and 71 EU-MDR, taking account of the amendments to the definitions in Article 2 numbers 18–21 EU-MDR, adopted by the European Commission by means of delegated acts[^4-3].
+<sup>2</sup> The definitions set out in Article 2 numbers 3–26, 31, 37, 38, 40–44, 46, 48, 51–53, 57–69 and 71 EU-MDR, taking account of the amendments to the definitions in Article 2 numbers 18–21 EU-MDR, adopted by the European Commission by means of delegated acts[^4-4].
 
-[^4-1]: Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC, OJ L117 of 5.5. 2017, p. 1; last amended by Regulation (EU) 202/561, OJ L 130 of 24.4.2020, p. 18.
-[^4-2]: Inserted by Annex 5 No 1 of the O of 4 May 2022 on In Vitro Diagnostic Medical Devices, in force since 26 May 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
-[^4-3]: See Annex 4.
+[^4-1]: Amended by No I of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^4-2]: Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC, OJ L117 of 5.5. 2017, p. 1; last amended by Regulation (EU) 2023/607, OJ L 80 of 20.3.2023, p. 24.
+[^4-3]: Inserted by Annex 5 No 1 of the O of 4 May 2022 on In Vitro Diagnostic Medical Devices, in force since 26 May 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^4-4]: See Annex 4.
 
 #### Art. 5
 
@@ -190,7 +191,7 @@ In this Ordinance:
 
 [^6-1]: See the footnote to Art. 4 para. 1 let. f.
 [^6-2]: Amended by Annex 5 No 1 of the O of 4 May 2022 on In Vitro Diagnostic Medical Devices, in force since 26 May 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
-[^6-3]: [SR 812.211](https://fedlex.data.admin.ch/eli/cc/2001/442)
+[^6-3]: [SR 812.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9355)
 [^6-4]: Amended by Annex 5 No 1 of the O of 4 May 2022 on In Vitro Diagnostic Medical Devices, in force since 26 May 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 [^6-5]: Amended by Annex 5 No 1 of the O of 4 May 2022 on In Vitro Diagnostic Medical Devices, in force since 26 May 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 [^6-6]: Amended by Annex 5 No 1 of the O of 4 May 2022 on In Vitro Diagnostic Medical Devices, in force since 26 May 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
@@ -226,13 +227,13 @@ A device is deemed to be supplied via an information society service if that ser
 
 **Specific requirements**
 
-<sup>1</sup> Devices without an intended medical purpose in accordance with Article 1 paragraph 1 letter b must comply with the common specifications stipulated by Swissmedic.
+<sup>1</sup> Products without an intended medical purpose in accordance with Article 1 paragraph 1 letter b must comply with the common specifications stipulated by Swissmedic.
 
-<sup>2</sup> Devices that have both a medical and non-medical intended purpose must fulfil both the requirements for devices with an intended medical purpose and the requirements for devices without an intended medical purpose.
+<sup>2</sup> Devices that have both a medical and non-medical intended purpose must fulfil both the requirements for devices with an intended medical purpose and the requirements for products without an intended medical purpose.
 
 <sup>3</sup> Devices that are also machines within the meaning of Article 1 of the Machine Ordinance of 2 April 2008[^8-1] must satisfy the pertinent general safety and health protection requirements of the Machine Ordinance where these requirements are more specific than those of Chapter II of Annex I to EU-MDR[^8-2].
 
-[^8-1]: [SR 819.14](https://fedlex.data.admin.ch/eli/cc/2008/263)
+[^8-1]: [SR 819.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9850)
 [^8-2]: See the footnote to Art. 4 para. 1 let. f.
 
 #### Art. 9
@@ -296,14 +297,15 @@ The following must not bear a conformity marking:
 - a. custom-made devices;
 - b. devices exclusively for demonstration and presentation purposes;
 - c. systems and procedure packs;
-- d. investigational devices, subject to the provisions of Article 6 of the Ordinance of 1 July 2020[^13-2] on Clinical Trials with Medical Devices;
-- e.[^13-3] devices in accordance with Article 9.
+- d.[^13-2] investigational devices, subject to the provisions of Article 6 of the Ordinance of 1 July 2020[^13-3] on Clinical Trials with Medical Devices (ClinO-MD);
+- e.[^13-4] devices in accordance with Article 9.
 
 <sup>3</sup> Where devices’ conformity has to be assessed by a designated body, the identification number of this body must be affixed to the conformity marking.
 
 [^13-1]: See the footnote to Art. 4 para. 1 let. f.
-[^13-2]: SR **812.213.3**
-[^13-3]: Amended by Annex 5 No 1 of the O of 4 May 2022 on In Vitro Diagnostic Medical Devices, in force since 26 May 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^13-2]: Amended by No I of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^13-3]: SR **812.213.3**
+[^13-4]: Amended by Annex 5 No 1 of the O of 4 May 2022 on In Vitro Diagnostic Medical Devices, in force since 26 May 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 14
 
@@ -320,7 +322,7 @@ The following must not bear a conformity marking:
 [^14-1]: See the footnote to Art. 4 para. 1 let. f.
 [^14-2]: Regulation (EC) No. 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93, last amended by OJ L 218 of 13.8.2008, p. 30.
 
-### Section 2 Classification, Product Information und Product Identification
+### Section 2 Classification, Product Information and Product Identification
 
 [^chap2-sec2-1]
 
@@ -328,14 +330,12 @@ The following must not bear a conformity marking:
 
 #### Art. 15
 
-**Classification**
+**Classification**[^15-1]
 
-<sup>1</sup> Devices shall be divided into classes I, IIa, IIb and III, taking into account the intended purpose of the devices and their inherent risks. This classification must comply with the provisions of Annex VIII to EU-MDR[^15-1].
+Devices shall be divided into classes I, IIa, IIb and III, taking into account the intended purpose of the devices and their inherent risks. This classification must comply with the provisions of Annex VIII to EU-MDR[^15-2], taking account of the implementing acts of the European Commission listed in Annex 5*a*.
 
-<sup>2</sup> ...[^15-2]
-
-[^15-1]: See the footnote to Art. 4 para. 1 let. f.
-[^15-2]: Repealed by Annex 5 No 1 of the O of 4 May 2022 on In Vitro Diagnostic Medical Devices, with effect from 26 May 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^15-1]: Amended by No I of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^15-2]: See the footnote to Art. 4 para. 1 let. f.
 
 #### Art. 16
 
@@ -456,16 +456,16 @@ Any natural or legal person who makes custom-made devices available on the Swiss
 
 <sup>3</sup> A manufacturer who puts into service in Switzerland or in a contracting state a device that is not placed on the market and who is domiciled in Switzerland must carry out an assessment of the device’s conformity with the relevant conformity assessment procedures before it is put into service. The manufacturer must be able to prove that such a conformity assessment has been carried out and that the device is conforming.[^21-2]
 
-<sup>4</sup> The demonstration of compliance with the general safety and performance requirements must also include a performance evaluation in accordance with Article 61 EU-MDR[^21-3].[^21-4]
+<sup>4</sup> The demonstration of compliance with the general safety and performance requirements must also include a clinical evaluation in accordance with Article 61 EU-MDR[^21-3].[^21-4]
 
 [^21-1]: Amended by Annex 5 No 1 of the O of 4 May 2022 on In Vitro Diagnostic Medical Devices, in force since 26 May 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 [^21-2]: Amended by Annex 5 No 1 of the O of 4 May 2022 on In Vitro Diagnostic Medical Devices, in force since 26 May 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 [^21-3]: See the footnote to Art. 4 para. 1 let. f.
-[^21-4]: Inserted by Annex 5 No 1 of the O of 4 May 2022 on In Vitro Diagnostic Medical Devices, in force since 26 May 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^21-4]: Inserted by Annex 5 No 1 of the O of 4 May 2022 on In Vitro Diagnostic Medical Devices ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)). Amended by No I of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 
 #### Art. 22
 
-**Exemptions**
+**Derogations**
 
 <sup>1</sup>
 
@@ -484,7 +484,7 @@ Individual devices that have not undergone the relevant conformity assessment pr
 - d. the healthcare professional using the device has informed the individual concerned about the non-conformity of the medical device and the related risks; and
 - e. the individual concerned has consented to the use of the device.
 
-<sup>3</sup> For devices placed on the market exclusively within the armed forces or within the framework of their specific tasks, the Federal Department of Home Affairs (FDHA) may, in agreement with the Federal Department of Defence, Civil Protection and Sport, grant exemptions.
+<sup>3</sup> For devices placed on the market exclusively within the armed forces or within the framework of their specific tasks, the Federal Department of Home Affairs (FDHA) may, in agreement with the Federal Department of Defence, Civil Protection and Sport, grant derogations.
 
 [^22-1]: Amended by Annex 5 No 1 of the O of 4 May 2022 on In Vitro Diagnostic Medical Devices, in force since 26 May 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
@@ -545,7 +545,7 @@ Certificates issued by bodies designated under EU law and domiciled in a state o
 
 <sup>1</sup> Certificates are valid for a maximum of five years. The expiry date must be indicated on the certificate.
 
-<sup>2</sup> At the manufacturer's request, the validity of the certificate may be extended by a maximum of five years following a re-assessment carried out in accordance with the relevant conformity assessment procedure. Certificates may be extended more than once.
+<sup>2</sup> At the manufacturer’s request, the validity of the certificate may be extended by a maximum of five years following a re-assessment carried out in accordance with the relevant conformity assessment procedure. Certificates may be extended more than once.
 
 <sup>3</sup> Any supplement to a certificate is valid for the same period as the certificate to which it belongs.
 
@@ -586,7 +586,7 @@ The designated body shall provide Swissmedic and the other designated bodies wit
 
 <sup>2</sup> The declaration of conformity shall include the information required in Annex IV to EU-MDR[^29-1], taking account of the amendments to this Annex adopted by the European Commission by means of delegated acts[^29-2]. It must be written in one of the three official languages of Switzerland or English or translated into one of these languages.
 
-<sup>3</sup> If a device also requires a manufacturer's declaration of conformity for aspects not covered by this Ordinance but nevertheless required by other legislation in order to demonstrate compliance with that legislation, a single declaration of conformity shall be drawn up.
+<sup>3</sup> If a device also requires a manufacturer’s declaration of conformity for aspects not covered by this Ordinance but nevertheless required by other legislation in order to demonstrate compliance with that legislation, a single declaration of conformity shall be drawn up.
 
 <sup>4</sup> By drawing up the declaration of conformity, the manufacturer assumes responsibility for compliance with the requirements of this Ordinance and all other legislation applicable to the device.
 
@@ -620,7 +620,7 @@ A licence shall be issued if:
 
 <sup>4</sup> Articles 39–43 of the Medicinal Products Licensing Ordinance of 14 November 2018[^30-1] (MPLO) also apply mutatis mutandis.
 
-[^30-1]: [SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
+[^30-1]: [SR 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361)
 
 #### Art. 31
 
@@ -630,8 +630,8 @@ A licence shall be issued if:
 
 <sup>2</sup> Holders of an establishment licence issued under Article 30 must verify the suitability of donors.
 
-[^31-1]: [SR 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
-[^31-2]: [SR 810.211](https://fedlex.data.admin.ch/eli/cc/2007/280)
+[^31-1]: [SR 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
+[^31-2]: [SR 810.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9240)
 
 #### Art. 32
 
@@ -641,8 +641,8 @@ A licence shall be issued if:
 
 <sup>2</sup> Moreover, the provisions of Articles 34 and 35 of the Transplantation Act of 8 October 2004[^32-2] apply mutatis mutandis to traceability.
 
-[^32-1]: [SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
-[^32-2]: [SR 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
+[^32-1]: [SR 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361)
+[^32-2]: [SR 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
 
 ## Chapter 5 Designated Bodies
 
@@ -883,7 +883,7 @@ Manufacturers must ensure that the following are available to the competent auth
 
 <sup>3</sup> The person responsible for regulatory compliance must have a deputy. If a number of persons are jointly responsible for regulatory compliance, their respective areas of responsibility shall be stipulated in writing.
 
-<sup>4</sup> The person responsible for regulatory compliance must suffer no disadvantage within the manufacturer's organisation in relation to the proper fulfilment of his or her duties, regardless of whether or not they are employees of the organisation.
+<sup>4</sup> The person responsible for regulatory compliance must suffer no disadvantage within the manufacturer’s organisation in relation to the proper fulfilment of his or her duties, regardless of whether or not they are employees of the organisation.
 
 [^49-1]: See the footnote to Art. 4 para. 1 let. f.
 
@@ -1010,7 +1010,7 @@ The further obligations of distributors prior to and after making a device avail
 
 **System**
 
-<sup>1</sup> For each device, manufacturers must plan, establish, document, implement, maintain and update a post-market surveillance system in a manner that is proportionate to the risk class and appropriate for the type of device. That system shall be an integral part of the manufacturer's quality management system.
+<sup>1</sup> For each device, manufacturers must plan, establish, document, implement, maintain and update a post-market surveillance system in a manner that is proportionate to the risk class and appropriate for the type of device. That system shall be an integral part of the manufacturer’s quality management system.
 
 <sup>2</sup> The system must be suited to actively and systematically gathering, recording and analysing relevant data on the quality, performance and safety of a device throughout its entire lifetime, and to drawing the necessary conclusions and to determining, implementing and monitoring any preventive and corrective actions.
 
@@ -1059,7 +1059,7 @@ This report must contain:
 
 **Obligation**
 
-<sup>1</sup> Manufacturers of class IIa, class IIb and class III devices shall prepare a safety report for each device and where relevant for each category or group of devices.
+<sup>1</sup> Manufacturers of class IIa, class IIb and class III devices shall prepare a safety report for each device and where relevant for each category or group of products.
 
 <sup>2</sup> Manufacturers of class IIa devices shall update the safety report when necessary and at least every two years. Manufacturers of class IIb and class III devices must update this report at least annually.
 
@@ -1224,14 +1224,14 @@ Devices are supplied in accordance with their intended purpose and the informati
 
 Maintenance must be carried out in accordance with the principles of a quality management system, is to be organised appropriately, and must be guided in particular by:
 
-- a. the manufacturer's instructions;
+- a. the manufacturer’s instructions;
 - b. the particular risk associated with the device and its use.
 
 <sup>3</sup> For devices with a measurement function, test procedures may be required in accordance with the Measuring Instruments Ordinance of 15 February 2006[^71-1].
 
 <sup>4</sup> Swissmedic may issue and publish requirements for maintenance measures. These requirements shall be deemed to constitute the current scientific and technological standards.
 
-[^71-1]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^71-1]: [SR 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 
 #### Art. 72
 
@@ -1249,7 +1249,7 @@ Any natural or legal person who reprocesses devices for third parties must:
 
   declare that the reprocessed device:
 
-  - 1\. has been reprocessed in accordance with the manufacturer's instructions, or
+  - 1\. has been reprocessed in accordance with the manufacturer’s instructions, or
   - 2\. has been reprocessed using a procedure specific to the processor that is equally safe and effective as the procedure specified by the manufacturer and has been demonstrated to be equally safe and effective by means of a risk analysis and validation process;
 
 - b. operate a quality management system that is both suitable and certified to nationally or internationally recognised standards;
@@ -1297,8 +1297,9 @@ Any natural or legal person who reprocesses devices for third parties must:
 
 **Common activities and use of information**[^75a-1]
 
-- [tab] <sup>1</sup> The market surveillance authorities may reach agreement with organisations that represent the economic operators or users on the implementation of common activities designed to promote conformity and other similar purposes.
-- [tab] <sup>2</sup> They may use all the information obtained in connection with these activities for market surveillance.
+<sup>1</sup> The market surveillance authorities may reach agreement with organisations that represent the economic operators or users on the implementation of common activities designed to promote conformity and other similar purposes.
+
+<sup>2</sup> They may use all the information obtained in connection with these activities for market surveillance.
 
 [^75a-1]: Inserted by Annex 5 No 1 of the O of 4 May 2022 on In Vitro Diagnostic Medical Devices, in force since 26 May 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
@@ -1306,7 +1307,8 @@ Any natural or legal person who reprocesses devices for third parties must:
 
 **Additional measures**[^75b-1]
 
-- [tab] In addition to the measures stated in Article 75 paragraph 2, the competent authorities may institute the following measures in particular:
+In addition to the measures stated in Article 75 paragraph 2, the competent authorities may institute the following measures in particular:
+
 - a. They may require economic operators to issue the relevant information required to establish the ownership of websites, if the information concerned is connected with the subject of the investigation.
 - b. They may request the removal of content from an online interface or the explicit display of a warning for users, provided there is no other option for eliminating a serious risk.
 - c. If the request stated in letter b is ignored, they may instruct providers of information society services to restrict access to the online interface, for example by asking a third party to implement this measure.
@@ -1425,11 +1427,11 @@ Swissmedic is responsible for the medical devices information system required un
 
 <sup>1</sup> Swissmedic shall draw up processing rules in accordance with Article 6 of the Data Protection Ordinance of 31 August 2022[^84-1] (DPO).[^84-2]
 
-<sup>2</sup> Articles 1–4 und 6 DPO apply to data security.[^84-3]
+<sup>2</sup> Articles 1–4 and 6 DPO apply to data security.[^84-3]
 
 <sup>3</sup> Data processing must be automatically logged.
 
-[^84-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^84-1]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^84-2]: Amended by Annex 2 No II 101 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^84-3]: Amended by Annex 2 No II 101 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
@@ -1493,7 +1495,7 @@ Swissmedic may publish the following in the medical devices information system:
 - e. summaries of safety and clinical performance in accordance with Article 63;
 - f. information on certificates issued under Articles 28 and 42–44;
 - g. field safety notices for users or customers issued in the course of field safety corrective actions in accordance with Article 89 paragraph 8 EU-MDR;
-- h. summaries of the reports on Swissmedic's activities in monitoring market surveillance;
+- h. summaries of the reports on Swissmedic’s activities in monitoring market surveillance;
 - i. scientific opinions in accordance with Article 106 paragraph 12 EU-MDR;
 - j. information on market surveillance measures, particularly recalls, on non-conforming devices and preventive health protection measures.
 
@@ -1512,7 +1514,7 @@ Non-personal data may be used for the independent assessment of long-term device
 All data processing activities carried out in the medical devices information system must comply with the Data Protection Act of 25 September 2020[^92-2].
 
 [^92-1]: Amended by Annex 2 No II 101 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^92-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^92-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 ## Chapter 11 Final Provisions
 
@@ -1522,9 +1524,11 @@ All data processing activities carried out in the medical devices information sy
 
 **Amendment of Annexes**
 
-<sup>1</sup> The FDHA may amend Annexes 1–3, 5 and 6 to this Ordinance in line with international and technical progress.
+<sup>1</sup> The FDHA may amend Annexes 1–3 and 5–6 to this Ordinance in line with international and technical progress.[^93-1]
 
 <sup>2</sup> Where amendments may pose technical barriers to trade, it shall effect them by mutual agreement with the Federal Department of Economic Affairs, Education and Research.
+
+[^93-1]: Amended by No I of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 
 #### Art. 94
 
@@ -1613,28 +1617,66 @@ The following ordinances are repealed:
 
 <sup>1</sup> Certificates issued under the old legislation prior to 25 May 2017 shall retain their validity until the expiry date stated therein, but no longer than 26 May 2022.
 
-<sup>2</sup> Certificates issued under the old legislation since 25 May 2017 shall retain their validity until the expiry date stipulated therein, but no longer than 26 May 2024.
+<sup>2</sup> Certificates issued under the old legislation from 25 May 2017 that were valid on 26 May 2021 and that were not revoked thereafter remain valid until the date specified in Article 101 paragraph 1 letter b for the relevant risk class of the devices.[^100-1]
+
+<sup>3</sup>
+
+Certificates issued under the old legislation from 25 May 2017 that were valid on 26 May 2021 but which expired before 20 March 2023 remain valid until the date specified in Article 101 paragraph 1 letter b for the relevant risk class of the devices, provided any one of the following requirements is met:
+
+- a. Before expiry of the certificates, the manufacturer and a designated body in accordance with Chapter 5 or a notified body in accordance with the EU-MDR[^100-2] domiciled in an EU or EEA member state, have signed a written agreement in accordance with Annex VII section 4.3 subparagraph 2 EU-MDR on the conformity assessment of the devices to which the expired certificates apply, or of devices intended to replace these devices.
+- b. Swissmedic has granted a derogation from the applicable conformity assessment procedure in accordance with Article 22 paragraph 1 letter a or a competent authority in an EU or EEA member state has granted a derogation from the applicable conformity assessment procedure in accordance with Article 120 paragraph 2 subparagraph 2 letter b EU-MDR.
+- c. The competent authority has required the manufacturer in the course of market surveillance activities in accordance with Article 75 paragraph 2 of this Ordinance or in accordance with Article 97 paragraph 1 EU-MDR to carry out the applicable conformity assessment procedure.[^100-3]
+
+[^100-1]: Amended by No I of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^100-2]: See footnote to Art. 4 para. 1 let. f.
+[^100-3]: Inserted by No I of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 
 #### Art. 101
 
-**Placing on the market of products that comply with the old legislation**
+**Placing on the market of devices that comply with the old legislation**[^101-1]
 
 <sup>1</sup>
 
-Provided they continue as of 26 May 2021 to comply with the old legislation and have not undergone any significant changes in their design or intended purpose, the following medical devices may be placed on the market or put into service until 26 May 2024:
+The following devices may be placed on the market or put into service until the date specified:
 
-- a. devices classified as class I under the old legislation for which a declaration of conformity was issued before 26 May 2021 and for which the conformity assessment procedure under this Ordinance necessitates the involvement of a designated body;
-- b. devices with a certificate valid under Article 100.
+- a. devices for which the conformity assessment procedure under the old legislation did not require the involvement of a designated body, for which a declaration of conformity was issued before 26 May 2021, and for which the conformity assessment procedure under this Ordinance requires the involvement of a designated body: until 31 December 2028;
+- b.
 
-<sup>2</sup> The post-market surveillance and market surveillance of these devices, vigilance, and registration of economic operators and of the devices themselves are subject to the provisions of this Ordinance.
+  devices with a certificate valid under Article 100:
 
-<sup>3</sup> Devices legally placed on the market prior to 26 May 2021 under the old legislation and devices placed on the market from 26 May 2021 under paragraph 1 may continue to be made available on the market or put into service until 26 May 2025. The above is subject to Article 103.
+  - 1\. class III devices and implantable class IIb devices, with the exception of sutures, staples, dental fillings, dental braces, tooth crowns, screws, wedges, plates, wires, pins, clips and connectors: until 31 December 2027,
+  - 2\. class IIb devices that do not fall under number 1, class IIa devices and class I devices that are placed on the market in a sterile condition, or class I devices with a measuring function: until 31 December 2028.
+
+<sup>1bis</sup>
+
+The placing on the market or putting into service of devices in accordance with paragraph 1 is only permitted if the following requirements are met:
+
+- a. The devices still comply with the old legislation.
+- b. There are no significant changes to the design and intended purpose of the devices.
+- c. The devices do not pose an unacceptable risk to the health or safety of the patients, the users or other persons or to other aspects of public health protection.
+- d. The manufacturer has put in place a quality management system in accordance with Article 10 paragraph 9 EU-MDR[^101-2] by 26 May 2024 at the latest.
+- e. The manufacturer or the authorised representative has by 26 May 2024 at the latest submitted to a designated body in accordance with Chapter 5 or a notified body in accordance with the EU-MDR domiciled in an EU or EEA member state a formal application in accordance with Annex VII section 4.3 subparagraph 1 EU-MDR for an assessment of the conformity of the devices specified in paragraph 1 or of devices intended to replace such devices.
+- f. The manufacturer and the designated or notified body in accordance with letter e have signed a written agreement in accordance with Annex VII paragraph 4.3 subparagraph 2 EU-MDR by 26 September 2024 at the latest.
+
+<sup>1ter</sup>
+
+Implantable custom-made class III devices may be placed on the market or put into service until 26 May 2026 without a certificate pursuant to the conformity assessment procedure in accordance with Article 10 paragraph 2 issued by a designated body in accordance with Chapter 5 or a notified body in accordance with the EU-MDR domiciled in an EU or EEA member state if the following requirements are met:
+
+- a. The manufacturer or the authorised representative has by 26 May 2024 at the latest submitted to a designated body in accordance with Chapter 5 or a notified body in accordance with the EU-MDR domiciled in an EU or EEA member state a formal application in accordance with Annex VII section 4.3 subparagraph 1 EU-MDR for the assessment of the conformity of the custom-made devices.
+- b. The manufacturer and a designated body in accordance with Chapter 5 or a notified body in accordance with the EU-MDR domiciled in an EU or EEA member state have signed a written agreement in accordance with Annex VII paragraph 4.3 subparagraph 2 EU-MDR by 26 September 2024 at the latest.
+
+<sup>2</sup> The post-market surveillance and market surveillance of the devices specified in paragraph 1, vigilance, and registration of economic operators and of the devices themselves are subject to the provisions of this Ordinance.
+
+<sup>3</sup> Devices legally placed on the market prior to 26 May 2021 under the old legislation and devices placed on the market from 26 May 2021 under paragraphs 1 and 1<sup>ter</sup> may continue to be made available on the market or put into service. The above is subject to Article 103.
+
+[^101-1]: Amended by No I of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^101-2]: See footnote to Art. 4 para. 1 let. f.
 
 #### Art. 102
 
-**Exemptions for non-compliant medical devices**
+**Derogations for non-compliant medical devices**
 
-Exemptions issued by Swissmedic under Article 9 paragraph 4 of the Medical Devices Ordinance of 17 October 2001[^102-1] shall retain their validity.
+Derogations issued by Swissmedic under Article 9 paragraph 4 of the Medical Devices Ordinance of 17 October 2001[^102-1] shall retain their validity.
 
 [^102-1]: See the footnote to Art. 99 no 1.
 
@@ -1698,24 +1740,65 @@ For class I devices and for systems and procedure packs that are placed on the m
 
 #### Art. 106
 
-**Devices without an intended medical purpose**
+**Groups of products without an intended medical purpose**[^106-1]
 
-Unless Swissmedic has designated common specifications in accordance with Article 8 paragraph 1 for devices without an intended medical purpose in accordance with Annex 1, these devices are subject to the old legislation.
+<sup>1</sup> Unless Swissmedic has designated common specifications in accordance with Article 8 paragraph 1 for the groups of products without an intended medical purpose in accordance with Annex 1, these products are subject to the old legislation.
+
+<sup>2</sup>
+
+Products that fall within the groups of products in Annex 1 and for which the manufacturer is conducting or is intending to conduct a clinical investigation in order to generate clinical data for the clinical evaluation to confirm conformity with the relevant general safety and performance requirements in accordance with Article 6 paragraph 2 and with the common specifications in accordance with Article 8 paragraph 1, and for which the conformity assessment procedure requires the involvement of a designated body in accordance with Chapter 5 or a notified body in accordance with the EU-MDR[^106-2] domiciled in an EU or EEA member state, may be placed on the market or put into service until 31 December 2029 if the following requirements are met:
+
+- a. The products were lawfully marketed before 1 May 2024 and still meet the requirements that applied to the product before 1 May 2024.
+- b. There are no significant changes to the design and the intended purpose of the products.
+
+<sup>3</sup>
+
+The placing on the market or putting into service in accordance with paragraph 2 is only permitted during the following periods provided the following requirements are also met:
+
+- a. From 1 November 2024 until 1 May 2025: the sponsor in accordance with Article 2 letter d ClinO-MD[^106-3] or in accordance with Article 2 number 49 EU-MDR has received confirmation from the competent body that the application for a clinical investigation of the products is complete.
+- b. From 2 May 2025 until 31 December 2027: the sponsor has initiated the clinical investigation.
+- c. From 1 January 2028 until 31 December 2029: the manufacturer and a designated body in accordance with Chapter 5 or a notified body in accordance with the EU-MDR domiciled in an EU or EEA member state have signed a written agreement on conducting the conformity assessment.
+
+<sup>4</sup>
+
+Products that fall into the groups of products in Annex 1 and for which the manufacturer does not intend to conduct a clinical investigation but for which the conformity assessment procedure requires the involvement of a designated body in accordance with Chapter 5 or of a notified body in accordance with the EU-MDR domiciled in an EU or EEA member state may be placed on the market or put into service until 31 December 2028 if the following requirements are met:
+
+- a. The products were lawfully marketed before 1 May 2024 and still meet the requirements that applied to the products before 1 May 2024.
+- b. There are no significant changes to the design and the intended purpose of the products.
+
+<sup>5</sup> In order to place products on the market or put products into service in accordance with paragraph 4 from 1 January 2027 until 31 December 2028, the manufacturer and a designated body in accordance with Chapter 5 or a notified body in accordance with the EU-MDR domiciled in an EU or EEA member state must also have signed a written agreement on conducting the conformity assessment.
+
+<sup>6</sup> Products that fall into the groups of products in Annex 1 and which have certificates issued under the old legislation that were valid on 26 May 2021 and expired before 20 March 2023 but which do not meet the conditions of Article 100 paragraph 3 letter a, b or c may be placed on the market and put into service until the deadlines specified in Article 101 paragraph 1 letter b if the requirements set out in Article 101 paragraph 1<sup>bis</sup> are met. Articles 101 paragraph 2 and 107 paragraphs 2–2<sup>ter</sup> apply.
+
+[^106-1]: Amended by No I of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^106-2]: See footnote to Art. 4 para. 1 let. f.
+[^106-3]: [SR 810.306](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9251)
 
 #### Art. 107
 
 **Conformity assessment bodies**
 
-<sup>1</sup> Conformity assessment body designations issued under Section 4 of the Medical Devices Ordinance of 17 October 2001[^107-1] shall become void.
+<sup>1</sup> Conformity assessment body designations under Section 4 of the Medical Devices Ordinance of 17 October 2001[^107-1] shall become void.
 
-<sup>2</sup> The conformity assessment body that issued the certificates under the old legislation shall remain responsible for the appropriate surveillance of these devices. It shall be subject to supervision by Swissmedic.
+<sup>2</sup> A conformity assessment body whose designation in accordance with paragraph 1 is no longer valid and which issued the certificates under the old legislation shall remain responsible for the appropriate surveillance of all applicable requirements relating to the devices it has certified, unless the manufacturer has agreed with a designated body in accordance with Chapter 5 or a notified body in accordance with the EU-MDR[^107-2]domiciled in an EU or EEA member state that this body will conduct the surveillance.[^107-3]
+
+<sup>2bis</sup> The designated body in accordance with Article 101 paragraph 1<sup>bis</sup> letter f shall become responsible for the surveillance of the devices covered by the written agreement from 26 September 2024 at the latest. If the written agreement covers devices intended to replace devices for which certificates were issued under the old legislation, the surveillance shall be conducted in respect of the devices that are being replaced.[^107-4]
+
+<sup>2ter</sup> The arrangements for the transfer of surveillance from the designated body that issued the certificate to a designated body in accordance with Chapter 5 or a notified body in accordance with the EU-MDR domiciled in an EU or EEA member state shall be defined in an agreement between the manufacturer and the body that assumes the task of surveillance, and, if possible, the designated body that issued the certificate. The designated body in accordance with Chapter 5 is not responsible for conformity assessment activities that were carried out by the designated body that issued the certificate.[^107-5]
+
+<sup>2quater</sup> A conformity assessment body whose designation in accordance with paragraph 1 is no longer valid and which remains responsible for surveillance in accordance with paragraph 2 shall be subject to supervision by Swissmedic.[^107-6]
 
 <sup>3</sup> Conformity assessment body designations issued under Section 4*a* of the Medical Devices Ordinance of 17 October 2001 shall retain their validity.
 
-<sup>4</sup> ... [^107-2]
+<sup>4</sup> ... [^107-7]
 
 [^107-1]: See the footnote to Art. 99 no 1.
-[^107-2]: Repealed by Annex 5 No 1 of the O of 4 May 2022 on In Vitro Diagnostic Medical Devices, with effect from 26 May 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^107-2]: See footnote to Art. 4 para. 1 let. f.
+[^107-3]: Amended by No I of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^107-4]: Inserted by No I of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^107-5]: Inserted by No I of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^107-6]: Inserted by No I of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^107-7]: Repealed by Annex 5 No 1 of the O of 4 May 2022 on In Vitro Diagnostic Medical Devices, with effect from 26 May 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 108
 
@@ -1733,7 +1816,7 @@ Until Article 17 paragraph 5 enters into force, the following notification oblig
 [^108-1]: Amended by No I of the O of 19 May 2021, in force since 26 May 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 [^108-2]: See the footnote to Art. 4 para. 1 let. f.
 [^108-3]: See the footnote to Art. 99 no 1.
-[^108-4]: Enters into force at a later date (Art. 110 para. 2).
+[^108-4]: Comes into force at a later date (Art. 110 para. 2).
 
 #### Art. 109
 
@@ -1743,11 +1826,11 @@ Until Article 17 paragraph 5 enters into force, the following notification oblig
 
 #### Art. 110
 
-**Entry into force**
+**Commencement**
 
-<sup>1</sup> Subject to the exceptions in paragraph 2, this Ordinance enters into force on 26 May 2021.
+<sup>1</sup> Subject to the exceptions in paragraph 2, this Ordinance comes into force on 26 May 2021.
 
-<sup>2</sup> Articles 17 paragraph 5 and 108 paragraph 2 enter into force at a later date.[^110-1]
+<sup>2</sup> Articles 17 paragraph 5 and 108 paragraph 2 come into force at a later date.[^110-1]
 
 [^110-1]: Amended by No I of the O of 19 May 2021, in force since 26 May 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 
@@ -1755,7 +1838,7 @@ Annex 1
 
 (Art. 1 para. 1 letter b)
 
-## Product groups without an intended medical purpose
+## Groups of products without an intended medical purpose
 
 - 1\. Contact lenses or other items intended to be introduced into or onto the eye.
 - 2\. Products intended to be totally or partially introduced into the human body through surgically invasive means for the purpose of modifying the anatomy or fixation of body parts with the exception of tattooing products and piercings.
@@ -1795,14 +1878,14 @@ The terms listed below and used in EU MDR[^annex2-lvlu1-1] and this Ordinance ar
 <tr><td>Mitgliedstaat</td><td>Schweiz</td></tr>
 <tr><td>Drittstaat / Drittland</td><td>anderer Staat</td></tr>
 <tr><td>Unionsmarkt</td><td>Schweizer Markt</td></tr>
-<tr><td>Rechtsvorschriften der Union / Harmonisierungsrechtsvorschriften der Union</td><td>Rechtsvorschriften</td></tr>
+<tr><td>Rechtsvorschriften the Union / Harmonisierungsrechtsvorschriften the Union</td><td>Rechtsvorschriften</td></tr>
 <tr><td>Harmonisierte Norm</td><td>Bezeichnete Norm</td></tr>
-<tr><td>Stand der Technik</td><td>Stand von Wissenschaft und Technik</td></tr>
+<tr><td>Stand the Technik</td><td>Stand von Wissenschaft and Technik</td></tr>
 <tr><td>EU-Konformitätserklärung</td><td>Konformitätserklärung</td></tr>
-<tr><td>Amtsblatt der Europäischen Union</td><td>Bundesblatt</td></tr>
-<tr><td>Ausserhalb / In der Union ansässig</td><td>Sitz ausserhalb / in der Schweiz</td></tr>
-<tr><td>Behörde</td><td>Nach schweizerischem Recht zuständige Behörde</td></tr>
-<tr><td>Angehörige der Gesundheitsberufe</td><td>Gesundheitsfachpersonen</td></tr>
+<tr><td>Amtsblatt the Europäischen Union</td><td>Bundesblatt</td></tr>
+<tr><td>Ausserhalb / In the Union ansässig</td><td>Sitz ausserhalb / in the Schweiz</td></tr>
+<tr><td>Behörde</td><td>Nach schweizerischem Recht competent authority</td></tr>
+<tr><td>Angehörige the Gesundheitsberufe</td><td>Gesundheitsfachpersonen</td></tr>
 <tr><td>Aussetzung</td><td>Suspendierung</td></tr>
 <tr><td>Zurückziehung</td><td>Widerruf</td></tr>
 <tr><td>Transplantate</td><td>Organe</td></tr>
@@ -1857,7 +1940,7 @@ Annex 3[^t-2]
 
 [^t-2]: Revised by Annex 5 No 1 of the O of 4 May 2022 on In Vitro Diagnostic Medical Devices ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)) and Annex 2 No II 101 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
-### 1 EU law
+### 1. EU law
 
 Where this Ordinance makes reference to provisions of EU MDR [^annex3-lvlu1-lvl1-1] that in turn make reference to the following EU law, the version below remains applicable:
 
@@ -1867,7 +1950,7 @@ Where this Ordinance makes reference to provisions of EU MDR [^annex3-lvlu1-lvl1
 
 [^annex3-lvlu1-lvl1-1]: See the footnote to Art. 4 para. 1 let. f.
 
-### 2 Swiss law
+### 2. Swiss law
 
 Where this Ordinance makes reference to provisions of EU-MDR[^annex3-lvlu1-lvl2-1] that in turn make reference to EU law, the Swiss law below is applicable in place of the EU law:
 
@@ -1897,20 +1980,20 @@ Where this Ordinance makes reference to provisions of EU-MDR[^annex3-lvlu1-lvl2-
 </table>
 
 [^annex3-lvlu1-lvl2-1]: See the footnote to Art. 4 para. 1 let. f.
-[^annex3-lvlu1-lvl2-2]: [SR 221.112.944](https://fedlex.data.admin.ch/eli/cc/1993/3122_3122_3122)
-[^annex3-lvlu1-lvl2-3]: [SR 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
-[^annex3-lvlu1-lvl2-4]: [SR 819.14](https://fedlex.data.admin.ch/eli/cc/2008/263)
-[^annex3-lvlu1-lvl2-5]: [SR 817.023.31](https://fedlex.data.admin.ch/eli/cc/2017/165)
-[^annex3-lvlu1-lvl2-6]: [SR 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
-[^annex3-lvlu1-lvl2-7]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^annex3-lvlu1-lvl2-8]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
-[^annex3-lvlu1-lvl2-9]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^annex3-lvlu1-lvl2-10]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
-[^annex3-lvlu1-lvl2-11]: [SR 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
-[^annex3-lvlu1-lvl2-12]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^annex3-lvlu1-lvl2-13]: [SR 941.20](https://fedlex.data.admin.ch/eli/cc/2012/734)
-[^annex3-lvlu1-lvl2-14]: [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
-[^annex3-lvlu1-lvl2-15]: [SR 813.112.1](https://fedlex.data.admin.ch/eli/cc/2005/467)
+[^annex3-lvlu1-lvl2-2]: [SR 221.112.944](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5851)
+[^annex3-lvlu1-lvl2-3]: [SR 734.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8590)
+[^annex3-lvlu1-lvl2-4]: [SR 819.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9850)
+[^annex3-lvlu1-lvl2-5]: [SR 817.023.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9692)
+[^annex3-lvlu1-lvl2-6]: [SR 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
+[^annex3-lvlu1-lvl2-7]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^annex3-lvlu1-lvl2-8]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
+[^annex3-lvlu1-lvl2-9]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^annex3-lvlu1-lvl2-10]: [SR 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
+[^annex3-lvlu1-lvl2-11]: [SR 813.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9395)
+[^annex3-lvlu1-lvl2-12]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^annex3-lvlu1-lvl2-13]: [SR 941.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11170)
+[^annex3-lvlu1-lvl2-14]: [SR 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)
+[^annex3-lvlu1-lvl2-15]: [SR 813.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9397)
 
 Annex 4[^t-3]
 
@@ -1927,16 +2010,16 @@ For the purposes of implementing this Ordinance, the legal acts adopted on the b
 
 <table>
 <tr><th>Subject matter</th><th>Passed by the European Commission based on the EU-MDR</th></tr>
-<tr><th>Art. 4 para. 2 MedDO</th><th>Delegated acts in accordance with Art. 3 EU-MDR</th></tr>
-<tr><th>Art. 17 para. 4 MedDO</th><th>Delegated acts in accordance with Art. 27 para. 10 EU-MDR</th></tr>
-<tr><th>Art. 19, para. 1 let. c MedDO</th><th>Implementing acts in accordance with Art. 42 para. 13 EU-MDR</th></tr>
-<tr><th>Art. 20 para. 1 MedDO</th><th>Delegated acts in accordance with Art. 18 para. 3 EU-MDR</th></tr>
-<tr><th>Art. 23 MedDO</th><th>Delegated acts in accordance with Art. 52 para. 5 EU-MDR</th></tr>
-<tr><th>Art. 25 para. 3 MedDO</th><th>Delegated acts in accordance with Art. 56 para. 6 EU-MDR</th></tr>
-<tr><th>Art. 29 para. 2 MedDO</th><th>Delegated acts in accordance with Art. 19 para. 4 EU-MDR</th></tr>
-<tr><th>Art. 45 para. 2 MedDO</th><th>Delegated acts in accordance with Art. 44 para. 11 EU-MDR</th></tr>
-<tr><th>Art. 46 para. 3 MedDO</th><th>Delegated acts in accordance with Art. 61 para. 8 EU-MDR</th></tr>
-<tr><th>Art. 47 para. 1 MedDO</th><th>Delegated acts in accordance with Art. 10 para. 4 EU-MDR</th></tr>
+<tr><td>Art. 4 para. 2 MedDO</td><td>Delegated acts in accordance with Art. 3 EU-MDR</td></tr>
+<tr><td>Art. 17 para. 4 MedDO</td><td>Delegated acts in accordance with Art. 27 para. 10 EU-MDR</td></tr>
+<tr><td>Art. 19, para. 1 let. c MedDO</td><td>Implementing acts in accordance with Art. 42 para. 13 EU-MDR</td></tr>
+<tr><td>Art. 20 para. 1 MedDO</td><td>Delegated acts in accordance with Art. 18 para. 3 EU-MDR</td></tr>
+<tr><td>Art. 23 MedDO</td><td>Delegated acts in accordance with Art. 52 para. 5 EU-MDR</td></tr>
+<tr><td>Art. 25 para. 3 MedDO</td><td>Delegated acts in accordance with Art. 56 para. 6 EU-MDR</td></tr>
+<tr><td>Art. 29 para. 2 MedDO</td><td>Delegated acts in accordance with Art. 19 para. 4 EU-MDR</td></tr>
+<tr><td>Art. 45 para. 2 MedDO</td><td>Delegated acts in accordance with Art. 44 para. 11 EU-MDR</td></tr>
+<tr><td>Art. 46 para. 3 MedDO</td><td>Delegated acts in accordance with Art. 61 para. 8 EU-MDR</td></tr>
+<tr><td>Art. 47 para. 1 MedDO</td><td>Delegated acts in accordance with Art. 10 para. 4 EU-MDR</td></tr>
 <tr><td>Art. 98 para. 2 let. b MedDO</td><td>Delegated acts in accordance with Art. 106 para. 15 EU-MDR</td></tr>
 </table>
 
@@ -1948,19 +2031,31 @@ Annex 5
 
 The conformity marking is as follows:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20230901/en/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20231101/en/xml/image/image1.png)
 
 Where a designated body has to be involved, its identification number is to be placed beside its conformity marking.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20230901/en/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20231101/en/xml/image/image2.png)
 
-Annex 6[^t-4]
+Annex 5a[^t-4]
+
+(Art. 15)
+
+## European Commission implementing acts taken into account in the classification of devices
+
+[^t-4]: Inserted by No II para. 2 of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+
+When classifying devices, the following European Commission implementing regulations are taken into account:
+
+- 1\. Commission Implementing Regulation (EU) 2022/2347 of 1 December 2022 laying down rules for the application of Regulation (EU) 2017/745 of the European Parliament and of the Council as regards reclassification of groups of certain active products without an intended medical purpose, OJ L 311 of 2.12.2022, p. 94.
+
+Annex 6[^t-5]
 
 (Art. 70, paras 2 and 3)
 
 ## Device Groups Intended for Use by Healthcare Professionals, Qualifications and Circumstances of Use
 
-[^t-4]: Revised by Annex 5 No 1 of the O of 4 May 2022 on In Vitro Diagnostic Medical Devices, in force since 26 May 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^t-5]: Revised by Annex 5 No 1 of the O of 4 May 2022 on In Vitro Diagnostic Medical Devices, in force since 26 May 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 ### 1. Device groups
 

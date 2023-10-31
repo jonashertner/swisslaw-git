@@ -4,11 +4,11 @@ title: Medizinprodukteverordnung vom 1. Juli 2020 (MepV)
 short: MepV
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/552"
 language: de
-version: 2023-09-01
+version: 2023-11-01
 adopted: 2020-07-01
 in_force: 2021-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2020-552-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20231101/de/xml/fedlex-data-admin-ch-eli-cc-2020-552-20231101-de-xml-26.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20231101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20230901/de"
 
 (MepV)
 
-vom 1. Juli 2020 (Stand am 1. September 2023)
+vom 1. Juli 2020 (Stand am 1. November 2023)
 
 Der Schweizerische Bundesrat
 
@@ -25,12 +25,12 @@ gestützt auf das Heilmittelgesetz vom 15. Dezember 2000[^ingress-1] (HMG), Arti
 
 verordnet:
 
-[^ingress-1]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-2]: [SR 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^ingress-3]: [SR 941.20](https://fedlex.data.admin.ch/eli/cc/2012/734)
-[^ingress-4]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
-[^ingress-5]: [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
-[^ingress-6]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^ingress-2]: [SR 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
+[^ingress-3]: [SR 941.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11170)
+[^ingress-4]: [SR 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
+[^ingress-5]: [SR 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)
+[^ingress-6]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 [^ingress-7]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -140,21 +140,22 @@ In dieser Verordnung bedeuten:
 - c. *Inbetriebnahme:* Zeitpunkt, zu dem erstmals ein gebrauchsfertiges Produkt, mit Ausnahme von Prüfprodukten, den Endanwenderinnen und Endanwendern zur Verwendung auf dem Schweizer Markt entsprechend seiner Zweckbestimmung zur Verfügung gestellt wird;
 - d. *Instandhaltung:* Massnahmen wie Wartung, Softwareupdates, Inspektion, Reparatur, Vorbereitung zur Erstverwendung sowie Aufbereitung zur Wiederverwendung, zur Erhaltung oder Wiederherstellung des funktionsfähigen Zustandes eines Produkts;
 - e. *Aufbereitung:* Verfahren, dem ein gebrauchtes Produkt unterzogen wird, damit es sicher wiederverwendet werden kann; zu diesem Verfahren gehören Reinigung, Desinfektion, Sterilisation und ähnliche Verfahren, insbesondere das Verpacken, der Transport und die Lagerung, sowie Prüfung und Wiederherstellung der technischen und funktionellen Sicherheit des gebrauchten Produkts;
-- f. *Hersteller:* jede natürliche oder juristische Person, die ein Produkt herstellt oder neu aufbereitet oder entwickeln, herstellen oder neu aufbereiten lässt und dieses Produkt unter ihrem eigenen Namen oder ihrer eigenen Marke vermarktet; die in Artikel 16 Absätze 1 und 2 der Verordnung (EU) 2017/ 745[^4-1] über Medizinprodukte (EU-MDR) aufgeführten Präzisierungen und Ausnahmen bleiben vorbehalten;
+- f.[^4-1] *Hersteller*: jede natürliche oder juristische Person, die ein Produkt herstellt oder neu aufbereitet oder entwickeln, herstellen oder neu aufbereiten lässt und dieses Produkt unter ihrem eigenen Namen oder ihrer eigenen Marke vermarktet; die in Artikel 16 Absätze 1 und 2 der Verordnung (EU) 2017/745[^4-2] über Medizinprodukte (EU-MDR) aufgeführten Präzisierungen und Ausnahmen bleiben vorbehalten;
 - g. *Bevollmächtigter:* jede in der Schweiz niedergelassene natürliche oder juristische Person, die von einem im Ausland ansässigen Hersteller schriftlich beauftragt wird, in seinem Namen bestimmte Aufgaben in Erfüllung von sich aus dieser Verordnung ergebenden Pflichten des Herstellers wahrzunehmen;
 - h. *Importeur:* jede in der Schweiz niedergelassene natürliche oder juristische Person, die ein Produkt aus dem Ausland auf dem Schweizer Markt in Verkehr bringt;
 - i. *Händler:* jede natürliche oder juristische Person in der Lieferkette, die ein Produkt bis zum Zeitpunkt der Inbetriebnahme auf dem Schweizer Markt bereitstellt, mit Ausnahme des Herstellers oder des Importeurs;
 - j. *Wirtschaftsakteur:* Hersteller, Bevollmächtigter, Importeur, Händler und die Person nach Artikel 22 Absätze 1 und 3 EU-MDR;
 - k. *Gesundheitseinrichtung:* Organisation, deren Hauptzweck in der Versorgung oder Behandlung von Patientinnen und Patienten oder der Förderung der öffentlichen Gesundheit besteht;
-- l. *Spital:* Gesundheitseinrichtung, in der durch ärztliche und pflegerische Hilfeleistungen stationäre Behandlungen von Krankheiten oder stationäre Mass-nahmen der medizinischen Rehabilitation oder stationäre medizinische Massnahmen zum Zwecke der Ästhetik durchgeführt werden;
+- l. *Spital:* Gesundheitseinrichtung, in der durch ärztliche und pflegerische Hilfeleistungen stationäre Behandlungen von Krankheiten oder stationäre Massnahmen der medizinischen Rehabilitation oder stationäre medizinische Massnahmen zum Zwecke der Ästhetik durchgeführt werden;
 - m. *Vertragsstaat:* Staat, der durch eine auf der Äquivalenz der Gesetzgebungen basierte völkerrechtliche Vereinbarung mit der Schweiz zur gegenseitigen Anerkennung von Konformitätsbewertungen und ‑verfahren für Produkte gebunden ist;
-- n.[^4-2] *Anbieter von Dienstleistungen der Informationsgesellschaft:* jede natürliche oder juristische Person, die eine Dienstleistung nach Artikel 7 Absatz 4 anbietet.
+- n.[^4-3] *Anbieter von Dienstleistungen der Informationsgesellschaft:* jede natürliche oder juristische Person, die eine Dienstleistung nach Artikel 7 Absatz 4 anbietet.
 
-<sup>2</sup> Es gelten zudem die Begriffe nach Artikel 2 Ziffern 3–26, 31, 37, 38, 40–44, 46, 48, 51–53, 57–69 und 71 EU-MDR, unter Berücksichtigung der Änderungen der Begriffsbestimmungen nach Artikel 2 Ziffern 18–21 EU-MDR, die von der Europäischen Kommission mittels delegierter Rechtsakte[^4-3] vorgenommen werden.
+<sup>2</sup> Es gelten zudem die Begriffe nach Artikel 2 Ziffern 3–26, 31, 37, 38, 40–44, 46, 48, 51–53, 57–69 und 71 EU-MDR, unter Berücksichtigung der Änderungen der Begriffsbestimmungen nach Artikel 2 Ziffern 18–21 EU-MDR, die von der Europäischen Kommission mittels delegierter Rechtsakte[^4-4] vorgenommen werden.
 
-[^4-1]: Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates, ABl. L 117 vom 5.5.2017, S. 1; zuletzt geändert durch Verordnung (EU) 2020/561, ABl. L 130 vom 24.4.2020, S. 18.
-[^4-2]: Eingefügt durch Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
-[^4-3]: Siehe Anhang 4.
+[^4-1]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^4-2]: Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates, ABl. L 117 vom 5.5.2017, S. 1; zuletzt geändert durch Verordnung (EU) 2023/607, ABl. L 80 vom 20.3.2023, S. 24.
+[^4-3]: Eingefügt durch Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^4-4]: Siehe Anhang 4.
 
 #### Art. 5
 
@@ -188,7 +189,7 @@ In dieser Verordnung bedeuten:
 
 [^6-1]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
 [^6-2]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
-[^6-3]: [SR 812.211](https://fedlex.data.admin.ch/eli/cc/2001/442)
+[^6-3]: [SR 812.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9355)
 [^6-4]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 [^6-5]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 [^6-6]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
@@ -230,7 +231,7 @@ Ein Produkt gilt als über eine Dienstleistung der Informationsgesellschaft ange
 
 <sup>3</sup> Produkte, die auch Maschinen im Sinne von Artikel 1 der Maschinenverordnung vom 2. April 2008[^8-1] sind, müssen den einschlägigen grundlegenden Sicherheits- und Gesundheitsschutzanforderungen der Maschinenverordnung entsprechen, sofern diese Anforderungen spezifischer sind als diejenigen nach Anhang I Kapitel II EU-MDR[^8-2].
 
-[^8-1]: [SR 819.14](https://fedlex.data.admin.ch/eli/cc/2008/263)
+[^8-1]: [SR 819.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9850)
 [^8-2]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
 
 #### Art. 9
@@ -294,14 +295,15 @@ Kein Konformitätskennzeichen darf angebracht werden auf:
 - a. Sonderanfertigungen;
 - b. Produkten, die ausschliesslich Demonstrations- und Ausstellungszwecken dienen;
 - c. Systemen und Behandlungseinheiten;
-- d. Prüfprodukten, unter Vorbehalt von Artikel 6 der Verordnung vom 1. Juli 2020[^13-2] über klinische Versuche mit Medizinprodukten;
-- e.[^13-3] Produkten nach Artikel 9.
+- d.[^13-2] Prüfprodukten, unter Vorbehalt von Artikel 6 der Verordnung vom 1. Juli 2020[^13-3] über klinische Versuche mit Medizinprodukten (KlinV-Mep);
+- e.[^13-4] Produkten nach Artikel 9.
 
 <sup>3</sup> Bei Produkten, deren Konformität von einer bezeichneten Stelle zu beurteilen ist, muss dem Konformitätskennzeichen die Kennnummer dieser Stelle hinzugefügt werden.
 
 [^13-1]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
-[^13-2]: [SR 810.306](https://fedlex.data.admin.ch/eli/cc/2020/553)
-[^13-3]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^13-2]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^13-3]: [SR 810.306](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9251)
+[^13-4]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 14
 
@@ -326,14 +328,12 @@ Kein Konformitätskennzeichen darf angebracht werden auf:
 
 #### Art. 15
 
-**Klassifizierung**
+**Klassifizierung**[^15-1]
 
-<sup>1</sup> Produkte werden unter Berücksichtigung ihrer Zweckbestimmung und der damit verbundenen Risiken in die Klassen I, IIa, IIb und III eingestuft. Für die Klassifizierung ist Anhang VIII EU-MDR[^15-1] massgebend.
+Produkte werden unter Berücksichtigung ihrer Zweckbestimmung und der damit verbundenen Risiken in die Klassen I, IIa, IIb und III eingestuft. Für die Klassifizierung ist Anhang VIII EU-MDR[^15-2] massgebend, unter Berücksichtigung der in Anhang 5*a* aufgeführten Durchführungsrechtsakte der Europäischen Kommission.
 
-<sup>2</sup> …[^15-2]
-
-[^15-1]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
-[^15-2]: Aufgehoben durch Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, mit Wirkung seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^15-1]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^15-2]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
 
 #### Art. 16
 
@@ -454,12 +454,12 @@ Wer Sonderanfertigungen in der Schweiz auf dem Markt bereitstellt, muss der Swis
 
 <sup>3</sup> Ein Hersteller, der in der Schweiz oder in einem Vertragsstaat ein nicht in Verkehr gebrachtes Produkt in Betrieb nimmt und Sitz in der Schweiz hat, muss vor der Inbetriebnahme eine Bewertung der Konformität gemäss den geltenden Konformitätsbewertungsverfahren durchführen. Er muss belegen können, dass eine solche Konformitätsbewertung durchgeführt wurde und das Produkt konform ist.[^21-2]
 
-<sup>4</sup> Der Nachweis der Einhaltung der grundlegenden Sicherheits- und Leistungsanforderungen umfasst auch eine Leistungsbewertung gemäss Artikel 61 EU-MDR[^21-3].[^21-4]
+<sup>4</sup> Der Nachweis der Einhaltung der grundlegenden Sicherheits- und Leistungsanforderungen umfasst auch eine klinische Bewertung gemäss Artikel 61 EU-MDR[^21-3].[^21-4]
 
 [^21-1]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 [^21-2]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 [^21-3]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
-[^21-4]: Eingefügt durch Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^21-4]: Eingefügt durch Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)). Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 
 #### Art. 22
 
@@ -618,7 +618,7 @@ Die Bewilligung wird erteilt, wenn:
 
 <sup>4</sup> Auf das Bewilligungsverfahren kommen sinngemäss die Artikel 39–43 der Arzneimittel-Bewilligungsverordnung vom 14. November 2018[^30-1] (AMBV) zur Anwendung.
 
-[^30-1]: [SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
+[^30-1]: [SR 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361)
 
 #### Art. 31
 
@@ -628,8 +628,8 @@ Die Bewilligung wird erteilt, wenn:
 
 <sup>2</sup> Die Inhaberin oder der Inhaber der Bewilligung nach Artikel 30 muss die Tauglichkeit der spendenden Person überprüfen.
 
-[^31-1]: [SR 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
-[^31-2]: [SR 810.211](https://fedlex.data.admin.ch/eli/cc/2007/280)
+[^31-1]: [SR 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
+[^31-2]: [SR 810.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9240)
 
 #### Art. 32
 
@@ -639,8 +639,8 @@ Die Bewilligung wird erteilt, wenn:
 
 <sup>2</sup> Die Rückverfolgbarkeit richtet sich im Übrigen sinngemäss nach den Artikeln 34 und 35 des Transplantationsgesetzes vom 8. Oktober 2004[^32-2].
 
-[^32-1]: [SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
-[^32-2]: [SR 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
+[^32-1]: [SR 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361)
+[^32-2]: [SR 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
 
 ## 5. Kapitel: Bezeichnete Stellen
 
@@ -1229,7 +1229,7 @@ Die Instandhaltung hat nach den Grundsätzen eines Qualitätsmanagementsystems z
 
 <sup>4</sup> Die Swissmedic kann Vorgaben zu Instandhaltungsmassnahmen machen und veröffentlichen. Diese Vorgaben gelten als Stand von Wissenschaft und Technik.
 
-[^71-1]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^71-1]: [SR 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 
 #### Art. 72
 
@@ -1429,7 +1429,7 @@ Die Swissmedic trägt die Verantwortung für das Informationssystem Medizinprodu
 
 <sup>3</sup> Die Datenbearbeitung ist automatisch zu protokollieren.
 
-[^84-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^84-1]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^84-2]: Fassung gemäss Anhang 2 Ziff. II 101 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^84-3]: Fassung gemäss Anhang 2 Ziff. II 101 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
@@ -1512,7 +1512,7 @@ Daten, die nicht Personendaten sind, können für die unabhängige Bewertung der
 Alle im Informationssystem Medizinprodukte vorgenommenen Datenbearbeitungen müssen dem Datenschutzgesetz vom 25. September 2020[^92-2] entsprechen.
 
 [^92-1]: Fassung gemäss Anhang 2 Ziff. II 101 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^92-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^92-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 ## 11. Kapitel: Schlussbestimmungen
 
@@ -1522,9 +1522,11 @@ Alle im Informationssystem Medizinprodukte vorgenommenen Datenbearbeitungen müs
 
 **Änderung der Anhänge**
 
-<sup>1</sup> Das EDI kann die Anhänge 1–3 sowie 5 und 6 zu dieser Verordnung der internationalen oder technischen Entwicklung anpassen.
+<sup>1</sup> Das EDI kann die Anhänge 1–3 und 5–6 zu dieser Verordnung der internationalen oder technischen Entwicklung anpassen.[^93-1]
 
 <sup>2</sup> Anpassungen, die sich als technische Handelshemmnisse auswirken können, nimmt es im Einvernehmen mit dem Eidgenössischen Departement für Wirtschaft, Bildung und Forschung vor.
+
+[^93-1]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 
 #### Art. 94
 
@@ -1613,22 +1615,60 @@ Die folgenden Erlasse werden aufgehoben:
 
 <sup>1</sup> Bescheinigungen, die vor dem 25. Mai 2017 nach bisherigem Recht ausgestellt worden sind, behalten ihre Gültigkeit bis zum Ende des darin angegebenen Zeitraumes, längstens jedoch bis am 26. Mai 2022.
 
-<sup>2</sup> Bescheinigungen, die seit dem 25. Mai 2017 nach bisherigem Recht ausgestellt worden sind, behalten ihre Gültigkeit bis zum Ende des darin angegebenen Zeitraumes, längstens jedoch bis am 26. Mai 2024.
+<sup>2</sup> Bescheinigungen, die seit dem 25. Mai 2017 nach bisherigem Recht ausgestellt worden sind, am 26. Mai 2021 gültig waren und anschliessend nicht widerrufen wurden, bleiben bis zu dem in Artikel 101 Absatz 1 Buchstabe b für die jeweilige Risikoklasse der Produkte festgelegten Datum gültig.[^100-1]
+
+<sup>3</sup>
+
+Bescheinigungen, die seit dem 25. Mai 2017 nach bisherigem Recht ausgestellt worden sind, am 26. Mai 2021 gültig waren und vor dem 20. März 2023 abgelaufen sind, bleiben bis zu dem in Artikel 101 Absatz 1 Buchstabe b für die jeweilige Risikoklasse der Produkte festgelegten Datum gültig, wenn eine der folgenden Voraussetzungen erfüllt ist:
+
+- a. Vor Ablauf der Bescheinigungen haben der Hersteller und eine nach dem 5. Kapitel bezeichnete Stelle oder eine nach der EU-MDR[^100-2] benannte Stelle mit Sitz in einem EU- oder EWR-Staat eine schriftliche Vereinbarung gemäss Anhang VII Abschnitt 4.3 Unterabsatz 2 EU-MDR über die Konformitätsbewertung der Produkte, für die die abgelaufenen Bescheinigungen gelten, oder von Produkten, die dazu bestimmt sind, diese Produkte zu ersetzen, unterzeichnet.
+- b. Die Swissmedic hat gemäss Artikel 22 Absatz 1 Buchstabe a eine Ausnahme vom anzuwendenden Konformitätsbewertungsverfahren gewährt oder eine zuständige Behörde eines EU- oder EWR-Staates hat gemäss Artikel 120 Absatz 2 Unterabsatz 2 Buchstabe b EU-MDR eine Ausnahme vom anzuwendenden Konformitätsbewertungsverfahren gewährt.
+- c. Die zuständige Behörde hat im Rahmen der Marktüberwachungstätigkeiten gemäss Artikel 75 Absatz 2 der vorliegenden Verordnung oder gemäss Artikel 97 Absatz 1 EU-MDR den Hersteller aufgefordert, das anzuwendende Konformitätsbewertungsverfahren durchzuführen.[^100-3]
+
+[^100-1]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^100-2]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
+[^100-3]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 
 #### Art. 101
 
-**Inverkehrbringen altrechtlicher Produkte**
+**Inverkehrbringen altrechtlicher Produkte**[^101-1]
 
 <sup>1</sup>
 
-Sofern folgende Produkte ab dem 26. Mai 2021 weiterhin dem bisherigem Recht entsprechen und keine wesentlichen Änderungen der Auslegung und der Zweckbestimmung des betreffenden Medizinprodukts vorliegen, dürfen sie bis zum 26. Mai 2024 in Verkehr gebracht oder in Betrieb genommen werden:
+Die folgenden Produkte können bis zum genannten Zeitpunkt in Verkehr gebracht oder in Betrieb genommen werden:
 
-- a. Produkte, die nach bisherigem Recht der Klasse I angehören, für die vor dem 26. Mai 2021 eine Konformitätserklärung erstellt wurde und für die das Konformitätsbewertungsverfahren gemäss dieser Verordnung den Beizug einer bezeichneten Stelle erfordert;
-- b. Produkte mit einer nach Artikel 100 gültigen Bescheinigung.
+- a. Produkte, für die das Konformitätsbewertungsverfahren nach bisherigem Recht nicht den Beizug einer bezeichneten Stelle erforderte, für die vor dem 26. Mai 2021 eine Konformitätserklärung ausgestellt wurde und für die das Konformitätsbewertungsverfahren gemäss dieser Verordnung den Beizug einer bezeichneten Stelle erfordert: bis zum 31. Dezember 2028;
+- b.
 
-<sup>2</sup> Für die Überwachung nach dem Inverkehrbringen dieser Produkte, deren Marktüberwachung, die Vigilance, die Registrierung von Wirtschaftsakteuren und dieser Produkte gelten die Bestimmungen der vorliegenden Verordnung.
+  Produkte mit einer nach Artikel 100 gültigen Bescheinigung:
 
-<sup>3</sup> Produkte, die vor dem 26. Mai 2021 nach bisherigem Recht rechtmässig in Verkehr gebracht worden sind, und Produkte, die ab dem 26. Mai 2021 gemäss Absatz 1 in Verkehr gebracht werden, können bis zum 26. Mai 2025 weiter auf dem Markt bereitgestellt oder in Betrieb genommen werden. Artikel 103 bleibt vorbehalten.
+  - 1\. Produkte der Klasse III und implantierbare Produkte der Klasse IIb, ausgenommen Nahtmaterial, Klammern, Zahnfüllungen, Zahnspangen, Zahnkronen, Schrauben, Keile, Zahnplatten und Knochenplatten, Drähte, Stifte, Klemmen und Verbindungsstücke: bis zum 31. Dezember 2027,
+  - 2\. Produkte der Klasse IIb, die nicht unter Ziffer 1 fallen, Produkte der Klasse IIa sowie Produkte der Klasse I, die in sterilem Zustand in Verkehr gebracht werden, oder Produkte der Klasse I mit Messfunktion: bis zum 31. Dezember 2028.
+
+<sup>1bis</sup>
+
+Das Inverkehrbringen oder die Inbetriebnahme von Produkten nach Absatz 1 ist nur dann zulässig, wenn die folgenden Voraussetzungen erfüllt sind:
+
+- a. Die Produkte entsprechen weiterhin dem bisherigen Recht.
+- b. Es liegen keine wesentlichen Änderungen der Auslegung und der Zweckbestimmung der Produkte vor.
+- c. Die Produkte stellen kein unannehmbares Risiko für die Gesundheit oder Sicherheit der Patientinnen und Patienten, der Anwenderinnen und Anwender oder anderer Personen oder für andere Aspekte des Schutzes der öffentlichen Gesundheit dar.
+- d. Der Hersteller hat spätestens am 26. Mai 2024 ein Qualitätsmanagementsystem gemäss Artikel 10 Absatz 9 EU-MDR[^101-2] eingerichtet.
+- e. Der Hersteller oder der Bevollmächtigte hat spätestens am 26. Mai 2024 bei einer nach dem 5. Kapitel bezeichneten Stelle oder einer nach der EU-MDR benannten Stellen mit Sitz in einem EU- oder EWR-Staat einen formellen Antrag gemäss Anhang VII Abschnitt 4.3 Unterabsatz 1 EU-MDR auf Bewertung der Konformität von in Absatz 1 genannten Produkten oder von Produkten, die dazu bestimmt sind, solche Produkte zu ersetzen, gestellt.
+- f. Der Hersteller und die bezeichnete oder benannte Stelle nach Buchstabe e haben spätestens am 26. September 2024 eine schriftliche Vereinbarung gemäss Anhang VII Abschnitt 4.3 Unterabsatz 2 EU-MDR unterzeichnet.
+
+<sup>1ter</sup>
+
+Implantierbare Sonderanfertigungen der Klasse III können bis zum 26. Mai 2026 ohne eine von einer nach dem 5. Kapitel bezeichneten Stelle oder einer nach der EU-MDR benannten Stelle mit Sitz in einem EU- oder EWR-Staat nach dem Konformitätsbewertungsverfahren gemäss Artikel 10 Absatz 2 ausgestellte Bescheinigung in Verkehr gebracht oder in Betrieb genommen werden, wenn die folgenden Voraussetzungen erfüllt sind:
+
+- a. Der Hersteller oder der Bevollmächtigte hat spätestens am 26. Mai 2024 bei einer nach dem 5. Kapitel bezeichneten Stelle oder einer nach der EU-MDR benannten Stelle mit Sitz in einem EU- oder EWR-Staat einen formellen Antrag gemäss Anhang VII Abschnitt 4.3 Unterabsatz 1 EU-MDR auf Bewertung der Konformität der Sonderanfertigungen gestellt.
+- b. Der Hersteller und eine nach dem 5. Kapitel bezeichnete Stelle oder eine nach der EU-MDR benannte Stelle mit Sitz in einem EU- oder EWR-Staat haben spätestens am 26. September 2024 eine schriftliche Vereinbarung gemäss Anhang VII Abschnitt 4.3 Unterabsatz 2 EU-MDR unterzeichnet.
+
+<sup>2</sup> Für die Überwachung nach dem Inverkehrbringen der Produkte nach Absatz 1, deren Marktüberwachung, die Vigilance, die Registrierung von Wirtschaftsakteuren und dieser Produkte gelten die Bestimmungen der vorliegenden Verordnung.
+
+<sup>3</sup> Produkte, die vor dem 26. Mai 2021 nach bisherigem Recht rechtmässig in Verkehr gebracht worden sind, und Produkte, die seit dem 26. Mai 2021 gemäss den Absätzen 1 und 1<sup>ter</sup> in Verkehr gebracht wurden, können weiter auf dem Markt bereitgestellt oder in Betrieb genommen werden. Artikel 103 bleibt vorbehalten.
+
+[^101-1]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^101-2]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
 
 #### Art. 102
 
@@ -1679,7 +1719,7 @@ Hat der Hersteller seinen Sitz in einem EU- oder EWR-Staat oder hat er eine Pers
 
 **Anbringung der Angaben des Bevollmächtigten**[^104abis-1]
 
-Bei Produkten der Klasse I sowie bei Systemen und Behandlungseinheiten, welche gemäss neuem Recht in Verkehr gebracht werden, können die in Anhang I Kapitel III Abschnitt 23.2. Buchstabe d EU-MDR[^104abis-2] festgelegten Angaben zum Bevollmächtigten nach Artikel 51 Absatz 1 oder 5 dieser Verordnung bis zum 31. Juli 2023 auf einem dem Produkt beiliegenden Dokument angebracht werden.
+Bei Produkten der Klasse I sowie bei Systemen und Behandlungseinheiten, welche gemäss neuem Recht in Verkehr gebracht werden, können die in Anhang I Kapitel III Abschnitt 23.2 Buchstabe d EU-MDR[^104abis-2] festgelegten Angaben zum Bevollmächtigten nach Artikel 51 Absatz 1 oder 5 dieser Verordnung bis zum 31. Juli 2023 auf einem dem Produkt beiliegenden Dokument angebracht werden.
 
 [^104abis-1]: Eingefügt durch Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 [^104abis-2]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
@@ -1698,9 +1738,39 @@ Bei Produkten der Klasse I sowie bei Systemen und Behandlungseinheiten, welche g
 
 #### Art. 106
 
-**Produkte ohne medizinische Zweckbestimmung**
+**Produktgruppen ohne medizinische Zweckbestimmung**[^106-1]
 
-Solange die Swissmedic für Produkte ohne medizinische Zweckbestimmung nach Anhang 1 keine gemeinsamen Spezifikationen nach Artikel 8 Absatz 1 bezeichnet hat, gilt für diese Produkte das bisherige Recht.
+<sup>1</sup> Solange die Swissmedic für Produktgruppen ohne medizinische Zweckbestimmung nach Anhang 1 keine gemeinsamen Spezifikationen nach Artikel 8 Absatz 1 bezeichnet hat, gilt für diese Produkte das bisherige Recht.
+
+<sup>2</sup>
+
+Produkte, die unter die Produktgruppen nach Anhang 1 fallen und für die der Hersteller eine klinische Prüfung durchführt oder durchzuführen beabsichtigt, um klinische Daten für die klinische Bewertung zur Bestätigung ihrer Konformität mit den einschlägigen grundlegenden Sicherheits- und Leistungsanforderungen nach Artikel 6 Absatz 2 und mit den gemeinsamen Spezifikationen nach Artikel 8 Absatz 1 zu generieren, und für die das Konformitätsbewertungsverfahren den Beizug einer nach dem 5. Kapitel bezeichneten Stelle oder einer nach der EU-MDR[^106-2] benannten Stelle mit Sitz in einem EU- oder EWR-Staat erfordert, können bis zum 31. Dezember 2029 in Verkehr gebracht oder in Betrieb genommen werden, wenn die folgenden Voraussetzungen erfüllt sind:
+
+- a. Die Produkte wurden bereits vor dem 1. Mai 2024 rechtmässig vermarktet und entsprechen weiterhin den Anforderungen, die vor dem 1. Mai 2024 für die Produkte galten.
+- b. Es liegen keine wesentlichen Änderungen der Auslegung und der Zweckbestimmung der Produkte vor.
+
+<sup>3</sup>
+
+Das Inverkehrbringen oder die Inbetriebnahme nach Absatz 2 ist während folgender Zeiträume nur dann zulässig, wenn zusätzlich die nachstehenden Voraussetzungen erfüllt sind:
+
+- a. Vom 1. November 2024 bis zum 1. Mai 2025: Der Sponsor nach Artikel 2 Buchstabe d KlinV-Mep[^106-3] oder nach Artikel 2 Ziffer 49 EU-MDR hat eine Mitteilung von der zuständigen Stelle erhalten, die bestätigt, dass der Antrag auf klinische Prüfung der Produkte vollständig ist.
+- b. Vom 2. Mai 2025 bis zum 31. Dezember 2027: Der Sponsor hat die klinische Prüfung eingeleitet.
+- c. Vom 1. Januar 2028 bis zum 31. Dezember 2029: Der Hersteller und eine nach dem 5. Kapitel bezeichnete Stelle oder eine nach der EU-MDR benannten Stelle mit Sitz in einem EU- oder EWR-Staat haben eine schriftliche Vereinbarung über die Durchführung der Konformitätsbewertung unterzeichnet.
+
+<sup>4</sup>
+
+Produkte, die unter die Produktgruppen nach Anhang 1 fallen und für die der Hersteller nicht beabsichtigt, eine klinische Prüfung durchzuführen, für die das Konformitätsbewertungsverfahren jedoch den Beizug einer nach dem 5. Kapitel bezeichneten Stelle oder einer nach der EU-MDR benannten Stelle mit Sitz in einem EU- oder EWR-Staat erfordert, können bis zum 31. Dezember 2028 in Verkehr gebracht oder in Betrieb genommen werden, wenn die folgenden Voraussetzungen erfüllt sind:
+
+- a. Die Produkte wurden bereits vor dem 1. Mai 2024 rechtmässig vermarktet und entsprechen weiterhin den Anforderungen, die vor dem 1. Mai 2024 für die Produkte galten.
+- b. Es liegen keine wesentlichen Änderungen der Auslegung und der Zweckbestimmung der Produkte vor.
+
+<sup>5</sup> Für das Inverkehrbringen oder die Inbetriebnahme nach Absatz 4 vom 1. Januar 2027 bis zum 31. Dezember 2028 müssen der Hersteller und eine nach dem 5. Kapitel bezeichnete Stelle oder eine nach der EU-MDR benannte Stelle mit Sitz in einem EU- oder EWR-Staat zusätzlich eine schriftliche Vereinbarung über die Durchführung der Konformitätsbewertung unterzeichnet haben.
+
+<sup>6</sup> Produkte, die unter die Produktgruppen nach Anhang 1 fallen und über Bescheinigungen nach bisherigem Recht verfügen, welche am 26. Mai 2021 gültig waren und vor dem 20. März 2023 abgelaufen sind, jedoch die Bedingungen von Artikel 100 Absatz 3 Buchstabe a, b oder c nicht erfüllen, können bis zu den in Artikel 101 Absatz 1 Buchstabe b genannten Fristen in Verkehr gebracht und in Betrieb genommen werden, wenn die Voraussetzungen nach Artikel 101 Absatz 1<sup>bis</sup> erfüllt sind. Die Artikel 101 Absatz 2 sowie 107 Absätze 2–2<sup>ter</sup> sind anwendbar.
+
+[^106-1]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^106-2]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
+[^106-3]: [SR 810.306](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9251)
 
 #### Art. 107
 
@@ -1708,14 +1778,25 @@ Solange die Swissmedic für Produkte ohne medizinische Zweckbestimmung nach Anha
 
 <sup>1</sup> Bezeichnungen von Konformitätsbewertungsstellen nach dem 4. Abschnitt der Medizinprodukteverordnung vom 17. Oktober 2001[^107-1] verlieren ihre Gültigkeit.
 
-<sup>2</sup> Die Konformitätsbewertungsstelle, welche die Bescheinigungen nach bisherigem Recht ausgestellt hat, ist weiterhin für die angemessene Überwachung dieser Produkte verantwortlich. Sie unterliegt der Aufsicht der Swissmedic.
+<sup>2</sup> Die Konformitätsbewertungsstelle, deren Bezeichnung gemäss Absatz 1 ihre Gültigkeit verloren hat und die die Bescheinigungen nach bisherigem Recht ausgestellt hat, ist weiterhin für die angemessene Überwachung aller geltenden Anforderungen an Produkte mit solchen Bescheinigungen verantwortlich, es sei denn, der Hersteller hat mit einer nach dem 5. Kapitel bezeichneten Stelle oder mit einer nach der EU-MDR[^107-2] benannten Stelle mit Sitz in einem EU- oder EWR-Staat vereinbart, dass diese die Überwachung durchführt.[^107-3]
 
-<sup>3</sup> Bezeichnungen von Konformitätsbewertungsstellen nach dem 4*a*. Abschnitt der Medizinprodukteverordnung vom 17. Oktober 2001 behalten ihre Gültigkeit
+<sup>2bis</sup> Die bezeichnete Stelle nach Artikel 101 Absatz 1<sup>bis</sup> Buchstabe f ist spätestens ab dem 26. September 2024 für die Überwachung der unter die schriftliche Vereinbarung fallenden Produkte verantwortlich. Betrifft die schriftliche Vereinbarung Produkte, die dazu bestimmt sind, Produkte zu ersetzen, für die Bescheinigungen nach bisherigem Recht ausgestellt wurden, so wird die Überwachung in Bezug auf die ersetzten Produkte durchgeführt.[^107-4]
 
-<sup>4</sup> …[^107-2]
+<sup>2ter</sup> Die Vorkehrungen für die Übertragung der Überwachung von der bezeichneten Stelle, die die Bescheinigung ausgestellt hat, auf eine nach dem 5. Kapitel bezeichnete Stelle oder eine nach der EU-MDR benannte Stelle mit Sitz in einem EU- oder EWR-Staat werden in einer Vereinbarung zwischen dem Hersteller und der Stelle, die die Überwachung übernimmt, und, soweit möglich, der bezeichneten Stelle, die die Bescheinigung ausgestellt hat, geregelt. Die nach dem 5. Kapitel bezeichnete Stelle ist nicht für Konformitätsbewertungstätigkeiten verantwortlich, die von der bezeichneten Stelle, die die Bescheinigung ausgestellt hat, durchgeführt wurden.[^107-5]
+
+<sup>2quater</sup> Die Konformitätsbewertungsstelle, deren Bezeichnung gemäss Absatz 1 ihre Gültigkeit verloren hat und die weiterhin für die Überwachung nach Absatz 2 verantwortlich ist, unterliegt der Aufsicht der Swissmedic.[^107-6]
+
+<sup>3</sup> Bezeichnungen von Konformitätsbewertungsstellen nach dem 4*a*. Abschnitt der Medizinprodukteverordnung vom 17. Oktober 2001 behalten ihre Gültigkeit.
+
+<sup>4</sup> …[^107-7]
 
 [^107-1]: Siehe Fussnote zu Art. 99 Ziff. 1.
-[^107-2]: Aufgehoben durch Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, mit Wirkung seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^107-2]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
+[^107-3]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^107-4]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^107-5]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^107-6]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^107-7]: Aufgehoben durch Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, mit Wirkung seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 108
 
@@ -1843,7 +1924,7 @@ Anhang 3[^t-2]
 
 [^t-2]: Bereinigt gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)) und Anhang 2 Ziff. II 101 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
-### 1 EU-Recht
+### 1. EU-Recht
 
 Wird in dieser Verordnung auf Bestimmungen der EU-MDR[^annex3-lvlu1-lvl1-1] verwiesen, die ihrerseits auf folgendes EU-Recht verweisen, so gilt die folgende Fassung:
 
@@ -1853,7 +1934,7 @@ Wird in dieser Verordnung auf Bestimmungen der EU-MDR[^annex3-lvlu1-lvl1-1] verw
 
 [^annex3-lvlu1-lvl1-1]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
 
-### 2 Schweizerisches Recht
+### 2. Schweizerisches Recht
 
 Wird in dieser Verordnung auf Bestimmungen der EU-MDR[^annex3-lvlu1-lvl2-1] verwiesen, die ihrerseits auf folgendes EU-Recht verweisen, so gilt statt dieses EU‑Rechts das folgende schweizerische Recht:
 
@@ -1883,20 +1964,20 @@ Wird in dieser Verordnung auf Bestimmungen der EU-MDR[^annex3-lvlu1-lvl2-1] verw
 </table>
 
 [^annex3-lvlu1-lvl2-1]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
-[^annex3-lvlu1-lvl2-2]: [SR 221.112.944](https://fedlex.data.admin.ch/eli/cc/1993/3122_3122_3122)
-[^annex3-lvlu1-lvl2-3]: [SR 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
-[^annex3-lvlu1-lvl2-4]: [SR 819.14](https://fedlex.data.admin.ch/eli/cc/2008/263)
-[^annex3-lvlu1-lvl2-5]: [SR 817.023.31](https://fedlex.data.admin.ch/eli/cc/2017/165)
-[^annex3-lvlu1-lvl2-6]: [SR 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
-[^annex3-lvlu1-lvl2-7]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^annex3-lvlu1-lvl2-8]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
-[^annex3-lvlu1-lvl2-9]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^annex3-lvlu1-lvl2-10]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
-[^annex3-lvlu1-lvl2-11]: [SR 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
-[^annex3-lvlu1-lvl2-12]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^annex3-lvlu1-lvl2-13]: [SR 941.20](https://fedlex.data.admin.ch/eli/cc/2012/734)
-[^annex3-lvlu1-lvl2-14]: [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
-[^annex3-lvlu1-lvl2-15]: [SR 813.112.1](https://fedlex.data.admin.ch/eli/cc/2005/467)
+[^annex3-lvlu1-lvl2-2]: [SR 221.112.944](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5851)
+[^annex3-lvlu1-lvl2-3]: [SR 734.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8590)
+[^annex3-lvlu1-lvl2-4]: [SR 819.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9850)
+[^annex3-lvlu1-lvl2-5]: [SR 817.023.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9692)
+[^annex3-lvlu1-lvl2-6]: [SR 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
+[^annex3-lvlu1-lvl2-7]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^annex3-lvlu1-lvl2-8]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
+[^annex3-lvlu1-lvl2-9]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^annex3-lvlu1-lvl2-10]: [SR 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
+[^annex3-lvlu1-lvl2-11]: [SR 813.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9395)
+[^annex3-lvlu1-lvl2-12]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^annex3-lvlu1-lvl2-13]: [SR 941.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11170)
+[^annex3-lvlu1-lvl2-14]: [SR 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)
+[^annex3-lvlu1-lvl2-15]: [SR 813.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9397)
 
 Anhang 4[^t-3]
 
@@ -1913,16 +1994,16 @@ Bei der Anwendung dieser Verordnung gelten die gestützt auf die unten aufgefüh
 
 <table>
 <tr><th>Gegenstand</th><th>Erlass der Europäischen Kommission gestützt auf die EU-MDR</th></tr>
-<tr><th>Art. 4 Abs. 2 MepV</th><th>Delegierte Rechtsakte nach Artikel 3 EU-MDR</th></tr>
-<tr><th>Art. 17 Abs. 4 MepV</th><th>Delegierte Rechtsakte nach Artikel 27 Absatz 10 EU-MDR</th></tr>
-<tr><th>Art. 19 Abs. 1 Bst. c MepV</th><th>Durchführungsrechtsakte nach Artikel 42 Absatz 13 EU-MDR</th></tr>
-<tr><th>Art. 20 Abs. 1 MepV</th><th>Delegierte Rechtsakte nach Artikel 18 Absatz 3 EU-MDR</th></tr>
-<tr><th>Art. 23 MepV</th><th>Delegierte Rechtsakte nach Artikel 52 Absatz 5 EU-MDR</th></tr>
-<tr><th>Art. 25 Abs. 3 MepV</th><th>Delegierte Rechtsakte nach Artikel 56 Absatz 6 EU-MDR</th></tr>
-<tr><th>Art. 29 Abs. 2 MepV</th><th>Delegierte Rechtsakte nach Artikel 19 Absatz 4 EU-MDR</th></tr>
-<tr><th>Art. 45 Abs. 2 MepV</th><th>Delegierte Rechtsakte nach Artikel 44 Absatz 11 EU-MDR</th></tr>
-<tr><th>Art. 46 Abs. 3 MepV</th><th>Delegierte Rechtsakte nach Artikel 61 Absatz 8 EU-MDR</th></tr>
-<tr><th>Art. 47 Abs. 1 MepV</th><th>Delegierte Rechtsakte nach Artikel 10 Absatz 4 EU-MDR</th></tr>
+<tr><td>Art. 4 Abs. 2 MepV</td><td>Delegierte Rechtsakte nach Artikel 3 EU-MDR</td></tr>
+<tr><td>Art. 17 Abs. 4 MepV</td><td>Delegierte Rechtsakte nach Artikel 27 Absatz 10 EU-MDR</td></tr>
+<tr><td>Art. 19 Abs. 1 Bst. c MepV</td><td>Durchführungsrechtsakte nach Artikel 42 Absatz 13 EU-MDR</td></tr>
+<tr><td>Art. 20 Abs. 1 MepV</td><td>Delegierte Rechtsakte nach Artikel 18 Absatz 3 EU-MDR</td></tr>
+<tr><td>Art. 23 MepV</td><td>Delegierte Rechtsakte nach Artikel 52 Absatz 5 EU-MDR</td></tr>
+<tr><td>Art. 25 Abs. 3 MepV</td><td>Delegierte Rechtsakte nach Artikel 56 Absatz 6 EU-MDR</td></tr>
+<tr><td>Art. 29 Abs. 2 MepV</td><td>Delegierte Rechtsakte nach Artikel 19 Absatz 4 EU-MDR</td></tr>
+<tr><td>Art. 45 Abs. 2 MepV</td><td>Delegierte Rechtsakte nach Artikel 44 Absatz 11 EU-MDR</td></tr>
+<tr><td>Art. 46 Abs. 3 MepV</td><td>Delegierte Rechtsakte nach Artikel 61 Absatz 8 EU-MDR</td></tr>
+<tr><td>Art. 47 Abs. 1 MepV</td><td>Delegierte Rechtsakte nach Artikel 10 Absatz 4 EU-MDR</td></tr>
 <tr><td>Art. 98 Abs. 2 Bst. b MepV</td><td>Delegierte Rechtsakte nach Artikel 106 Absatz 15 EU-MDR</td></tr>
 </table>
 
@@ -1934,19 +2015,31 @@ Anhang 5
 
 Für die Angabe des Konformitätskennzeichens gilt folgende Darstellung:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20230901/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20231101/de/xml/image/image1.png)
 
 Sofern eine bezeichnete Stelle beigezogen werden muss, ist neben ihrem Konformitätskennzeichen auch ihre Kennnummer anzugeben.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20230901/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20231101/de/xml/image/image2.png)
 
-Anhang 6[^t-4]
+Anhang 5a[^t-4]
+
+(Art. 15)
+
+## Bei der Klassifizierung von Produkten berücksichtigte Durchführungsrechtsakte der Europäischen Kommission
+
+[^t-4]: Eingefügt durch Ziff. II Abs. 2 der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+
+Bei der Klassifizierung von Produkten werden folgende Durchführungsverordnungen der Europäischen Kommission berücksichtigt:
+
+- 1\. Durchführungsverordnung (EU) 2022/2347 der Kommission vom 1. Dezember 2022 mit Durchführungsbestimmungen zur Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates hinsichtlich der Neuklassifizierung von Gruppen bestimmter aktiver Produkte ohne medizinische Zweckbestimmung, ABl. L 311 vom 2.12.2022, S. 94.
+
+Anhang 6[^t-5]
 
 (Art. 70 Abs. 2 und 3)
 
 ## Produktegruppen, die zur Anwendung durch Gesundheitsfachpersonen bestimmt sind, sowie fachliche und betriebliche Voraussetzungen zu deren Anwendung
 
-[^t-4]: Bereinigt gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^t-5]: Bereinigt gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 ### 1. Produktegruppen
 

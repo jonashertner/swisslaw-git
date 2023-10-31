@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> juillet 2020 sur les dispositifs médicaux 
 short: ODim
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/552"
 language: fr
-version: 2023-09-01
+version: 2023-11-01
 adopted: 2020-07-01
 in_force: 2021-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2020-552-20230901-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20231101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-552-20231101-fr-xml-26.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20231101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20230901/fr"
 
 (ODim)
 
-du 1<sup>er</sup> juillet 2020 (État le 1<sup>er</sup> septembre 2023)
+du 1<sup>er</sup> juillet 2020 (État le 1<sup>er</sup> novembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -25,12 +25,12 @@ vu la loi du 15 décembre 2000 sur les produits thérapeutiques (LPTh)[^ingress-
 
 arrête:
 
-[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-2]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^ingress-3]: [RS 941.20](https://fedlex.data.admin.ch/eli/cc/2012/734)
-[^ingress-4]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
-[^ingress-5]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
-[^ingress-6]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^ingress-2]: [RS 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
+[^ingress-3]: [RS 941.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11170)
+[^ingress-4]: [RS 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
+[^ingress-5]: [RS 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)
+[^ingress-6]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 [^ingress-7]: Nouvelle teneur selon l’annexe 5 ch. 1 de l’O du 4 mai 2022 sur les dispositifs médicaux de diagnostic in vitro, en vigueur depuis le 26 mai 2022 ([RO 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 ## Chapitre 1 Dispositions générales
@@ -133,11 +133,11 @@ Par *accessoire d’un dispositif médical*, on entend tout article qui, sans ê
 On entend par:[^4-1]
 
 - a. *mise à disposition sur le marché**:* tout transfert ou cession, à titre onéreux ou gratuit, d’un dispositif, autre qu’un dispositif faisant l’objet d’un essai clinique, destiné à être distribué, consommé ou utilisé sur le marché suisse dans le cadre d’une activité commerciale;
-- b. *mise sur le marché**:* la première mise à disposition sur le marché suisse d’un dispositif, autre qu’un dispositif faisant l’objet d’un essai clinique;
+- b. *mise* *sur le marché**:* la première mise à disposition sur le marché suisse d’un dispositif, autre qu’un dispositif faisant l’objet d’un essai clinique;
 - c. *mise en service**:* le stade auquel un dispositif prêt à être utilisé, autre qu’un dispositif faisant l’objet d’un essai clinique, est mis à la disposition des utilisateurs finaux pour être utilisé pour la première fois sur le marché suisse conformément à sa destination;
 - d. *maintenance**:* des mesures telles que l’entretien, les mises à jour logicielles, les inspections, les réparations, la préparation à la première utilisation et les retraitements en vue de réutiliser, de maintenir ou de rétablir le bon fonctionnement d’un dispositif;
 - e. *retraitement:* le procédé dont fait l’objet un dispositif usagé pour en permettre une réutilisation sûre, y compris le nettoyage, la désinfection, la stérilisation et les procédures connexes comme l’emballage, le transport et le stockage, ainsi que l’essai du dispositif usagé et le rétablissement de ses caractéristiques techniques et fonctionnelles en matière de sécurité;
-- f. *fabricant**:* toute personne physique ou morale qui fabrique ou remet à neuf un dispositif ou fait concevoir, fabriquer ou remettre à neuf un dispositif et qui commercialise ce dispositif sous son nom ou sous sa marque, sous réserve des précisions et exceptions énoncées à l’art. 16, par. 1 et 2, du règlement (UE) 2017/745 sur les dispositifs médicaux (RDM-UE)[^4-2];
+- f.[^4-2] *fabricant*: toute personne physique ou morale qui fabrique ou remet à neuf un dispositif ou fait concevoir, fabriquer ou remettre à neuf un dispositif et qui commercialise ce dispositif sous son nom ou sous sa marque, sous réserve des précisions et exceptions énoncées à l’art. 16, par. 1 et 2, du règlement (UE) 2017/745 sur les dispositifs médicaux (RDM-UE)[^4-3];
 - g. *mandataire:* toute personne physique ou morale établie en Suisse recevant le mandat écrit d’un fabricant sis à l’étranger pour agir pour le compte du fabricant aux fins de l’accomplissement de tâches déterminées liées aux obligations incombant à ce dernier en vertu de la présente ordonnance;
 - h. *importateur**:* toute personne physique ou morale établie en Suisse qui met sur le marché suisse un dispositif provenant de l’étranger;
 - i. *distributeur**:* toute personne physique ou morale faisant partie de la chaîne d’approvisionnement, autre que le fabricant ou l’importateur, qui met un dispositif à disposition sur le marché suisse, jusqu’au stade de sa mise en service;
@@ -145,14 +145,15 @@ On entend par:[^4-1]
 - k. *établissement de santé**:* toute organisation ayant pour mission première de prendre en charge ou de traiter des patients ou d’œuvrer en faveur de la santé publique;
 - l. *hôpital:* tout établissement de santé qui propose en milieu hospitalier au moyen de prestations d’assistance médicale et de soins soit un traitement des maladies, soit des mesures médicales de réadaptation, soit des mesures médicales à des fins esthétiques;
 - m. *État contractant:* tout État lié à la Suisse par une convention de droit international fondée sur l’équivalence des législations et portant sur la reconnaissance mutuelle des évaluations et procédures de conformité relatives aux dispositifs;
-- n.[^4-3] *prestataire de* *services de la société de l’information:* toute personne physique ou morale qui fournit un service au sens de l’art. 7, al. 4.
+- n.[^4-4] *prestataire de* *services de la société de l’information:* toute personne physique ou morale qui fournit un service au sens de l’art. 7, al. 4.
 
-<sup>2</sup> Au surplus, les définitions de l’art. 2, ch. 3 à 26, 31, 37, 38, 40 à 44, 46, 48, 51 à 53, 57 à 69 et 71, RDM-UE sont applicables, compte tenu des amendements apportés aux définitions de l’art. 2, ch. 18 à 21, RDM-UE par la Commission européenne au moyen de ses actes délégués[^4-4].
+<sup>2</sup> Au surplus, les définitions de l’art. 2, ch. 3 à 26, 31, 37, 38, 40 à 44, 46, 48, 51 à 53, 57 à 69 et 71, RDM-UE sont applicables, compte tenu des amendements apportés aux définitions de l’art. 2, ch. 18 à 21, RDM-UE par la Commission européenne au moyen de ses actes délégués[^4-5].
 
 [^4-1]: Nouvelle teneur selon l’annexe 5 ch. 1 de l’O du 4 mai 2022 sur les dispositifs médicaux de diagnostic in vitro, en vigueur depuis le 26 mai 2022 ([RO 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
-[^4-2]: Règlement (UE) 2017/745 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux, modifiant la directive 2001/83/CE, le règlement (CE) n<sup>o</sup> 178/2002 et le règlement (CE) n<sup>o</sup> 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE; JO L 117 du 5.5.2017, p. 1 ; modifié en dernier lieu par le règlement (UE) 2020/561, JO L 130 du 24.4.2020, p. 18.
-[^4-3]: Introduite par l’annexe 5 ch. 1 de l’O du 4 mai 2022 sur les dispositifs médicaux de diagnostic in vitro, en vigueur depuis le 26 mai 2022 ([RO 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
-[^4-4]: Voir l’annexe 4.
+[^4-2]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^4-3]: Règlement (UE) 2017/745 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux, modifiant la directive 2001/83/CE, le règlement (CE) n<sup>o</sup> 178/2002 et le règlement (CE) n<sup>o</sup> 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE, JO L 117 du 5.5.2017, p. 1; modifié en dernier lieu par le règlement (UE) 2023/607, JO L 80 du 20.3.2023, p. 24.
+[^4-4]: Introduite par l’annexe 5 ch. 1 de l’O du 4 mai 2022 sur les dispositifs médicaux de diagnostic in vitro, en vigueur depuis le 26 mai 2022 ([RO 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^4-5]: Voir l’annexe 4.
 
 #### Art. 5
 
@@ -186,7 +187,7 @@ On entend par:[^4-1]
 
 [^6-1]: Cf. note de bas de page relative à l’art. 4, al. 1, let. f.
 [^6-2]: Nouvelle teneur selon l’annexe 5 ch. 1 de l’O du 4 mai 2022 sur les dispositifs médicaux de diagnostic in vitro, en vigueur depuis le 26 mai 2022 ([RO 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
-[^6-3]: [RS 812.211](https://fedlex.data.admin.ch/eli/cc/2001/442)
+[^6-3]: [RS 812.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9355)
 [^6-4]: Nouvelle teneur selon l’annexe 5 ch. 1 de l’O du 4 mai 2022 sur les dispositifs médicaux de diagnostic in vitro, en vigueur depuis le 26 mai 2022 ([RO 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 [^6-5]: Nouvelle teneur selon l’annexe 5 ch. 1 de l’O du 4 mai 2022 sur les dispositifs médicaux de diagnostic in vitro, en vigueur depuis le 26 mai 2022 ([RO 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
@@ -226,7 +227,7 @@ Un dispositif est réputé être proposé au moyen de services de la société d
 
 <sup>3</sup> Les dispositifs qui constituent des machines au sens de l’art. 1 de l’ordonnance du 2 avril 2008 sur les machines[^8-1] doivent satisfaire aux exigences essentielles de santé et de sécurité énoncées dans ladite ordonnance si ces exigences sont plus spécifiques que celles énoncées dans l’annexe I, chapitre II, RDM-UE[^8-2].
 
-[^8-1]: [RS 819.14](https://fedlex.data.admin.ch/eli/cc/2008/263)
+[^8-1]: [RS 819.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9850)
 [^8-2]: Cf. note de bas de page relative à l’art. 4, al. 1, let. f.
 
 #### Art. 9
@@ -290,14 +291,15 @@ Il est interdit d’apposer un marquage de conformité sur:
 - a. les dispositifs sur mesure;
 - b. les dispositifs destinés exclusivement à des démonstrations ou à des expositions;
 - c. les systèmes et les nécessaires;
-- d. les dispositifs destinés à des essais cliniques, sous réserve de l’art. 6 de l’ordonnance du 1<sup>er</sup> juiller 2020 sur les essais cliniques de dispositifs médicaux[^13-2];
-- e.[^13-3] les dispositifs visés à l’art. 9.
+- d.[^13-2] les dispositifs destinés à des essais cliniques, sous réserve de l’art. 6 de l’ordonnance du 1<sup>er</sup> juillet 2020 sur les essais cliniques de dispositifs médicaux (OClin-Dim)[^13-3];
+- e.[^13-4] les dispositifs visés à l’art. 9.
 
 <sup>3</sup> Les dispositifs dont la conformité doit être évaluée par un organisme désigné doivent porter, outre le marquage de conformité, le numéro d’identification dudit organisme.
 
 [^13-1]: Cf. note de bas de page relative à l’art. 4, al. 1, let. f.
-[^13-2]: [RS 810.306](https://fedlex.data.admin.ch/eli/cc/2020/553)
-[^13-3]: Nouvelle teneur selon l’annexe 5 ch. 1 de l’O du 4 mai 2022 sur les dispositifs médicaux de diagnostic in vitro, en vigueur depuis le 26 mai 2022 ([RO 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^13-2]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^13-3]: [RS 810.306](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9251)
+[^13-4]: Nouvelle teneur selon l’annexe 5 ch. 1 de l’O du 4 mai 2022 sur les dispositifs médicaux de diagnostic in vitro, en vigueur depuis le 26 mai 2022 ([RO 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 14
 
@@ -322,14 +324,12 @@ Il est interdit d’apposer un marquage de conformité sur:
 
 #### Art. 15
 
-**Classification**
+**Classification**[^15-1]
 
-<sup>1</sup> Les dispositifs sont répartis en classe I, IIa, IIb et III selon leur destination et les risques qui leur sont inhérents. La classification s’effectue conformément aux règles fixées dans l’annexe VIII RDM-UE[^15-1].
+Les dispositifs sont répartis en classe I, IIa, IIb et III selon leur destination et les risques qui leur sont inhérents. La classification s’effectue conformément aux règles fixées dans l’annexe VIII RDM-UE[^15-2], compte tenu des actes d’exécution de la Commission européenne figurant dans l’annexe 5*a.*
 
-<sup>2</sup> …[^15-2]
-
-[^15-1]: Cf. note de bas de page relative à l’art. 4, al. 1, let. f.
-[^15-2]: Abrogé par l’annexe 5 ch. 1 de l’O du 4 mai 2022 sur les dispositifs médicaux de diagnostic in vitro, avec effet au 26 mai 2022 ([RO 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^15-2]: Cf. note de bas de page relative à l’art. 4, al. 1, let. f.
 
 #### Art. 16
 
@@ -449,12 +449,12 @@ Quiconque met à disposition sur le marché en Suisse des dispositifs sur mesure
 
 <sup>3</sup> Tout fabricant sis en Suisse qui met en service en Suisse ou dans un État contractant un dispositif n’ayant pas été mis sur le marché doit, avant la mise en service, évaluer la conformité du dispositif selon les procédures d’évaluation de la conformité applicables. Il doit pouvoir prouver qu’une telle évaluation de la conformité a été effectuée et que le dispositif est conforme.[^21-2]
 
-<sup>4</sup> La preuve du respect des exigences générales en matière de sécurité et de performances comprend également une évaluation des performances conformément à l’art. 61 RDM-UE[^21-3].[^21-4]
+<sup>4</sup> La preuve du respect des exigences générales en matière de sécurité et de performances comprend également une évaluation clinique conformément à l’art. 61 RDM-UE[^21-3].[^21-4]
 
 [^21-1]: Nouvelle teneur selon l’annexe 5 ch. 1 de l’O du 4 mai 2022 sur les dispositifs médicaux de diagnostic in vitro, en vigueur depuis le 26 mai 2022 ([RO 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 [^21-2]: Nouvelle teneur selon l’annexe 5 ch. 1 de l’O du 4 mai 2022 sur les dispositifs médicaux de diagnostic in vitro, en vigueur depuis le 26 mai 2022 ([RO 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 [^21-3]: Cf. note de bas de page relative à l’art. 4, al. 1, let. f.
-[^21-4]: Introduit par l’annexe 5 ch. 1 de l’O du 4 mai 2022 sur les dispositifs médicaux de diagnostic in vitro, en vigueur depuis le 26 mai 2022 ([RO 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^21-4]: Introduit par l’annexe 5 ch. 1 de l’O du 4 mai 2022 sur les dispositifs médicaux de diagnostic in vitro ([RO 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)). Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 
 #### Art. 22
 
@@ -613,7 +613,7 @@ L’autorisation est délivrée si les conditions suivantes sont réunies:
 
 <sup>4</sup> Les art. 39 à 43 de l’ordonnance du 14 novembre 2018 sur les autorisations dans le domaine des médicaments (OAMéd)[^30-1] s’appliquent par analogie à la procédure d’autorisation.
 
-[^30-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
+[^30-1]: [RS 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361)
 
 #### Art. 31
 
@@ -623,8 +623,8 @@ L’autorisation est délivrée si les conditions suivantes sont réunies:
 
 <sup>2</sup> Le titulaire de l’autorisation au sens de l’art. 30 doit vérifier l’aptitude du donneur.
 
-[^31-1]: [RS 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
-[^31-2]: [RS 810.211](https://fedlex.data.admin.ch/eli/cc/2007/280)
+[^31-1]: [RS 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
+[^31-2]: [RS 810.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9240)
 
 #### Art. 32
 
@@ -634,8 +634,8 @@ L’autorisation est délivrée si les conditions suivantes sont réunies:
 
 <sup>2</sup> Au surplus, la traçabilité est soumise par analogie aux art. 34 et 35 de la loi du 8 octobre 2004 sur la transplantation[^32-2].
 
-[^32-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
-[^32-2]: [RS 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
+[^32-1]: [RS 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361)
+[^32-2]: [RS 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
 
 ## Chapitre 5 Organismes désignés
 
@@ -1225,7 +1225,7 @@ La maintenance doit obéir aux principes d’un système de gestion de la qualit
 
 <sup>4</sup> Swissmedic peut formuler et publier des directives concernant la maintenance. Ces directives sont réputées refléter l’état de la science et de la technique.
 
-[^71-1]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^71-1]: [RS 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 
 #### Art. 72
 
@@ -1425,7 +1425,7 @@ Swissmedic assume la responsabilité du système d’information sur les disposi
 
 <sup>3</sup> L’historique du traitement des données doit être enregistré automatiquement.
 
-[^84-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^84-1]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^84-2]: Nouvelle teneur selon l’annexe 2 ch. II 101 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^84-3]: Nouvelle teneur selon l’annexe 2 ch. II 101 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
@@ -1508,7 +1508,7 @@ Les données qui ne sont pas relatives à des personnes peuvent être utilisées
 Tous les traitements de données réalisés dans le système d’information sur les dispositifs médicaux doivent respecter les dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données[^92-2].
 
 [^92-1]: Nouvelle teneur selon l’annexe 2 ch. II 101 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^92-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^92-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 ## Chapitre 11 Dispositions finales
 
@@ -1518,9 +1518,11 @@ Tous les traitements de données réalisés dans le système d’information sur
 
 **Modification des annexes**
 
-<sup>1</sup> Le DFI peut adapter les annexes 1 à 3, 5 et 6 de la présente ordonnance en fonction des développements internationaux ou techniques.
+<sup>1</sup> Le DFI peut adapter les annexes 1 à 3 et 5 à 6 de la présente ordonnance en fonction des développements internationaux ou techniques.[^93-1]
 
 <sup>2</sup> Il procède aux adaptations susceptibles de constituer des entraves techniques au commerce en accord avec le Département fédéral de l’économie, de la formation et de la recherche.
+
+[^93-1]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 
 #### Art. 94
 
@@ -1609,22 +1611,60 @@ Sont abrogées:
 
 <sup>1</sup> Les certificats établis avant le 25 mai 2017 en vertu de l’ancien droit restent valables jusqu’à l’échéance indiquée dans le document, mais au plus tard jusqu’au 26 mai 2022.
 
-<sup>2</sup> Les certificats établis à compter du 25 mai 2017 en vertu de l’ancien droit restent valables jusqu’à l’échéance indiquée dans le document, mais au plus tard jusqu’au 26 mai 2024.
+<sup>2</sup> Les certificats établis à compter du 25 mai 2017 en vertu de l’ancien droit qui étaient valables le 26 mai 2021 et n’ont pas fait l’objet d’une révocation par la suite restent valables jusqu’à la date fixée à l’art. 101, al. 1, let. b, selon la classe de risque des dispositifs correspondante.[^100-1]
+
+<sup>3</sup>
+
+Les certificats établis à compter du 25 mai 2017 en vertu de l’ancien droit qui étaient valables le 26 mai 2021 et qui sont arrivés à expiration avant le 20 mars 2023 restent valables jusqu’à la date fixée à l’art. 101, al. 1, let. b, selon la classe de risque des dispositifs correspondante lorsque l’une des conditions suivantes est remplie:
+
+- a. avant la date d’expiration du certificat, le fabricant a signé, avec un organisme désigné au sens du chapitre 5 ou un organisme notifié au sens du RDM-UE[^100-2] établi dans un État de l’UE ou de l’EEE, un accord écrit conformément à l’annexe VII, section 4.3, al. 2, RDM-UE pour l’évaluation de la conformité du dispositif couvert par le certificat arrivé à expiration ou d’un dispositif destiné à remplacer ce dispositif;
+- b. Swissmedic a accordé, en vertu de l’art. 22, al. 1, let. a, une dérogation à la procédure d’évaluation de la conformité applicable, ou une autorité compétente d’un État membre de l’UE ou de l’EEE a accordé une dérogation à la procédure d’évaluation de la conformité applicable conformément à l’art. 120, par. 2, al. 2, let. b, RDM-UE;
+- c. l’autorité compétente a demandé au fabricant, dans le cadre des activités de surveillance du marché visées à l’art. 75, al. 2, de la présente ordonnance ou prévues à l’art. 97, par. 1, RDM-UE, de mettre en œuvre la procédure d’évaluation de la conformité applicable.[^100-3]
+
+[^100-1]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^100-2]: Cf. note de bas de page relative à l’art. 4, al. 1, let. f.
+[^100-3]: Introduit par le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 
 #### Art. 101
 
-**Mise sur le marché de dispositifs relevant de l’ancien droit**
+**Mise sur le marché de dispositifs relevant de l’ancien droit**[^101-1]
 
 <sup>1</sup>
 
-Les dispositifs suivants peuvent être mis sur le marché ou mis en service jusqu’au 26 mai 2024 à condition qu’ils soient toujours conformes à l’ancien droit à compter du 26 mai 2021 et que leur conception ou leur destination n’ait pas fait l’objet de modifications essentielles:
+Les dispositifs suivants peuvent être mis sur le marché ou mis en service jusqu’à la date indiquée:
 
-- a. les dispositifs appartenant à la classe I conformément à l’ancien droit pour lesquels une déclaration de conformité a été établie avant le 26 mai 2021 et dont la procédure d’évaluation de la conformité nécessite le recours à un organisme désigné aux termes de la présente ordonnance;
-- b. les dispositifs possédant un certificat valable au sens de l’art. 100.
+- a. les dispositifs dont la procédure d’évaluation de la conformité en vertu de l’ancien droit ne nécessitait pas le recours à un organisme désigné, pour lesquels une déclaration de conformité a été établie avant le 26 mai 2021 et dont la procédure d’évaluation de la conformité nécessite le recours à un organisme désigné aux termes de la présente ordonnance: jusqu’au 31 décembre 2028;
+- b.
 
-<sup>2</sup> Les dispositions de la présente ordonnance s’appliquent à la surveillance après commercialisation de ces dispositifs, à la surveillance du marché, à la vigilance ainsi qu’à l’enregistrement des opérateurs économiques et de ces dispositifs.
+  les dispositifs possédant un certificat valable au sens de l’art. 100:
 
-<sup>3</sup> Les dispositifs mis légalement sur le marché avant le 26 mai 2021 en vertu de l’ancien droit et les dispositifs mis sur le marché à compter du 26 mai 2021 conformément à l’al. 1 peuvent continuer à être mis à disposition sur le marché ou mis en service jusqu’au 26 mai 2025. L’art. 103 est réservé.
+  - 1\. les dispositifs de classe III et les dispositifs implantables de classe IIb, à l’exception des sutures, agrafes, produits d’obturation dentaire, appareils orthodontiques, couronnes dentaires, vis, cales, plaques, guides, broches, clips et dispositifs de connexion: jusqu’au 31 décembre 2027,
+  - 2\. les dispositifs de classe IIb ne relevant pas du ch. 1, les dispositifs de classe IIa ainsi que les dispositifs de classe I mis sur le marché à l’état stérile ou ayant une fonction de mesurage: jusqu’au 31 décembre 2028.
+
+<sup>1bis</sup>
+
+La mise sur le marché et la mise en service des dispositifs visés à l’al. 1 sont soumises aux conditions suivantes:
+
+- a. les dispositifs continuent d’être conformes à l’ancien droit;
+- b. il n’y a pas de modification significative de la conception et de la destination des dispositifs;
+- c. les dispositifs ne présentent pas de risque inacceptable pour la santé ou la sécurité des patients, des utilisateurs ou d’autres personnes, ou compte tenu d’autres aspects liés à la protection de la santé publique;
+- d. au plus tard le 26 mai 2024, le fabricant a mis en place un système de gestion de la qualité conformément à l’art. 10, par. 9, RDM-UE[^101-2];
+- e. au plus tard le 26 mai 2024, le fabricant ou le mandataire a introduit, auprès d’un organisme désigné au sens du chapitre 5 ou d’un organisme notifié au sens du RDM-UE établi dans un État de l’UE ou de l’EEE, conformément à l’annexe VII, section 4.3, al. 1, RDM-UE, une demande formelle d’évaluation de la conformité d’un dispositif visé à l’al. 1 ou d’un dispositif destiné à remplacer ce dispositif;
+- f. le fabricant et l’organisme désigné ou notifié visés à la let. e ont signé au plus tard le 26 septembre 2024 un accord écrit conformément à l’annexe VII, section 4.3, al. 2, RDM-UE.
+
+<sup>1ter</sup>
+
+Les dispositifs sur mesure implantables de classe III peuvent être mis sur le marché ou mis en service jusqu’au 26 mai 2026 sans un certificat établi par un organisme désigné au sens du chapitre 5 ou par un organisme notifié au sens du RDM-UE établi dans un État de l’UE ou de l’EEE conformément à la procédure d’évaluation de la conformité visée à l’art. 10, al. 2, aux conditions suivantes:
+
+- a. au plus tard le 26 mai 2024, le fabricant ou le mandataire a introduit, auprès d’un organisme désigné au sens du chapitre 5 ou d’un organisme notifié au sens du RDM-UE établi dans un État de l’UE ou de l’EEE, une demande formelle d’évaluation de la conformité conformément à l’annexe VII, section 4.3, al. 1, RDM-UE;
+- b. au plus tard le 26 septembre 2024, le fabricant ou un organisme désigné au sens du chapitre 5 ou notifié au sens du RDM-UE établi dans un État de l’UE ou de l’EEE ont signé un accord écrit conformément à l’annexe VII, section 4.3, al. 2, RDM-UE;
+
+<sup>2</sup> Les dispositions de la présente ordonnance s’appliquent à la surveillance après commercialisation des dispositifs visés à l’al. 1, à la surveillance du marché, à la vigilance ainsi qu’à l’enregistrement des opérateurs économiques et de ces dispositifs.
+
+<sup>3</sup> Les dispositifs mis légalement sur le marché avant le 26 mai 2021 en vertu de l’ancien droit et les dispositifs mis sur le marché à compter du 26 mai 2021 conformément aux al. 1 et 1<sup>ter</sup> peuvent continuer à être mis à disposition sur le marché ou mis en service. L’art. 103 est réservé.
+
+[^101-1]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^101-2]: Cf. note de bas de page relative à l’art. 4, al. 1, let. f.
 
 #### Art. 102
 
@@ -1696,9 +1736,39 @@ Pour les dispositifs de classe I, de même que pour les systèmes et les nécess
 
 #### Art. 106
 
-**Produits n’ayant pas de destination médicale**
+**Groupes de produits n’ayant pas de destination médicale**[^106-1]
 
-Jusqu’à la désignation par Swissmedic de spécifications communes au sens de l’art. 8, al. 1, les produits n’ayant pas de destination médicale visés dans l’annexe 1 sont régis par l’ancien droit.
+<sup>1</sup> Jusqu’à la désignation par Swissmedic de spécifications communes au sens de l’art. 8, al. 1, les groupes de produits n’ayant pas de destination médicale visés à l’annexe 1 sont régis par l’ancien droit.
+
+<sup>2</sup>
+
+Les produits qui font partie des groupes de produits visés à l’annexe 1 pour lesquels le fabricant procède ou entend procéder à une investigation clinique en vue de générer des données cliniques aux fins de l’évaluation clinique visant à confirmer la conformité du produit aux exigences essentielles applicables en matière de sécurité et de performances pertinentes énoncées à l’art. 6, al. 2, et aux spécifications communes mentionnées à l’art. 8, al. 1, et dont la procédure d’évaluation de la conformité nécessite le recours à un organisme désigné au sens du chapitre 5 ou à un organisme notifié au sens du RDM-UE[^106-2] établi dans un État de l’UE ou de l’EEE, peuvent être mis sur le marché ou mis en service jusqu’au 31 décembre 2029 pour autant que les conditions suivantes soient remplies:
+
+- a. les produits étaient déjà commercialisés légalement avant le 1<sup>er</sup> mai 2024 et continuent d’être conformes aux exigences qui leur étaient applicables avant cette même date;
+- b. il n’y a pas de modification significative de la conception et de la destination des produits.
+
+<sup>3</sup>
+
+Durant les périodes suivantes, la mise sur le marché ou la mise en service en vertu de l’al. 2 n’est admise que si les conditions suivantes sont également remplies:
+
+- a. du 1<sup>er</sup> novembre 2024 au 1<sup>er</sup> mai 2025: le promoteur au sens de l’art. 2, let. d, OClin-Dim[^106-3] ou de l’art. 2, ch. 49, RDM-UE a reçu une notification de l’instance compétente confirmant que la demande d’investigation clinique des produits est complète;
+- b. du 2 mai 2025 au 31 décembre 2027: le promoteur a commencé l’investigation clinique;
+- c. du 1<sup>er</sup> janvier 2028 au 31 décembre 2029: le fabricant et un organisme désigné au sens du chapitre 5 ou un organisme notifié au sens du RDM-UE établi dans un État de l’UE ou de l’EEE ont signé un accord écrit concernant la réalisation de l’évaluation de la conformité.
+
+<sup>4</sup>
+
+Les produits qui font partie des groupes de produits visés à l’annexe 1 pour lesquels le fabricant n’entend pas procéder à une investigation clinique, mais dont la procédure d’évaluation de la conformité nécessite le recours à un organisme désigné au sens du chapitre 5 ou à un organisme notifié au sens du RDM-UE établi dans un État de l’UE ou de l’EEE, peuvent être mis sur le marché ou mis en service jusqu’au 31 décembre 2028 pour autant que les conditions suivantes soient remplies:
+
+- a. les produits étaient déjà commercialisés légalement avant le 1<sup>er</sup> mai 2024 et continuent d’être conformes aux exigences qui leur étaient applicables avant cette même date;
+- b. il n’y a pas de modification significative de la conception et de la destination des produits.
+
+<sup>5</sup> Du 1<sup>er</sup> janvier 2027 au 31 décembre 2028, la mise sur le marché ou la mise en service en vertu de l’al. 4 n’est admise que si, en sus, un accord écrit concernant la réalisation de l’évaluation de la conformité a été signé entre le fabricant et un organisme désigné au sens du chapitre 5 ou un organisme notifié au sens du RDM-UE établi dans un État de l’UE ou de l’EEE.
+
+<sup>6</sup> Les produits qui font partie des groupes de produits visés à l’annexe 1 pour lesquels il existe un certificat en vertu de l’ancien droit qui était valable le 26 mai 2021 et a expiré avant le 20 mars 2023, mais ne remplissant pas les conditions énoncées à l’art. 100, al. 3, let. a, b ou c, peuvent continuer à être mis sur le marché ou mis en service jusqu’aux dates fixées à l’art. 101, al. 1, let. b, pour autant que les conditions prévues aux art. 101, al. 1<sup>bis</sup> soient remplies. Les art. 101, al. 2, et 107, al. 2 à 2<sup>ter</sup>, sont applicables.
+
+[^106-1]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^106-2]: Cf. note de bas de page relative à l’art. 4, al. 1, let. f.
+[^106-3]: [RS 810.306](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9251)
 
 #### Art. 107
 
@@ -1706,14 +1776,25 @@ Jusqu’à la désignation par Swissmedic de spécifications communes au sens de
 
 <sup>1</sup> Les désignations octroyées aux organismes d’évaluation de la conformité en vertu de la section 4 de l’ordonnance du 17 octobre 2001 sur les dispositifs médicaux[^107-1] perdent leur validité.
 
-<sup>2</sup> L’organisme d’évaluation de la conformité qui a établi les certificats en vertu de l’ancien droit reste responsable de la surveillance appropriée de ces dispositifs. Il est soumis à la surveillance de Swissmedic.
+<sup>2</sup> L’organisme d’évaluation de la conformité dont la désignation a perdu sa validité conformément à l’al. 1 et qui a établi les certificats en vertu de l’ancien droit reste responsable de la surveillance appropriée de toutes les exigences applicables aux dispositifs avec ces certificats, sauf si le fabricant a convenu avec un organisme désigné au sens du chapitre 5 ou un organisme notifié au sens du RDM-UE[^107-2] établi dans un État de l’UE ou de l’EEE que ce dernier effectue ladite surveillance.[^107-3]
+
+<sup>2bis</sup> L’organisme désigné visé à l’art. 101, al. 1<sup>bis</sup>, let. f, est responsable de la surveillance des dispositifs faisant l’objet de l’accord écrit au plus tard à compter du 26 septembre 2024. Lorsque l’accord écrit porte sur un dispositif destiné à remplacer un dispositif pour lequel un certificat a été établi en vertu de l’ancien droit, la surveillance est effectuée pour le dispositif qui est remplacé.[^107-4]
+
+<sup>2ter</sup> Les modalités du transfert de la surveillance de l’organisme désigné qui a établi le certificat à un organisme désigné au sens du chapitre 5 ou à un organisme notifié au sens du RDM-UE établi dans un État de l’UE ou de l’EEE sont définies dans un accord entre le fabricant et l’organisme qui assume la surveillance et, si possible, l’organisme désigné qui a établi le certificat. L’organisme désigné au sens du chapitre 5 n’est pas responsable des activités d’évaluation de la conformité menées par l’organisme désigné qui a établi le certificat.[^107-5]
+
+<sup>2quater</sup> L’organisme d’évaluation de la conformité dont la désignation a perdu sa validité conformément à l’al. 1 et qui reste responsable de la surveillance conformément à l’al. 2 est soumis à la surveillance de Swissmedic.[^107-6]
 
 <sup>3</sup> Les désignations octroyées aux organismes d’évaluation de la conformité en vertu de la section 4*a* de l’ordonnance du 17 octobre 2001 sur les dispositifs médicaux conservent leur validité.
 
-<sup>4</sup> …[^107-2]
+<sup>4</sup> …[^107-7]
 
 [^107-1]: Cf. note de bas de page relative à l’art. 99, n<sup>o</sup> 1.
-[^107-2]: Abrogé par l’annexe 5 ch. 1 de l’O du 4 mai 2022 sur les dispositifs médicaux de diagnostic in vitro, avec effet au 26 mai 2022 ([RO 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^107-2]: Cf. note de bas de page relative à l’art. 4, al. 1, let. f.
+[^107-3]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^107-4]: Introduit par le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^107-5]: Introduit par le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^107-6]: Introduit par le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^107-7]: Abrogé par l’annexe 5 ch. 1 de l’O du 4 mai 2022 sur les dispositifs médicaux de diagnostic in vitro, avec effet au 26 mai 2022 ([RO 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 #### Art. 108
 
@@ -1880,21 +1961,21 @@ Dans la présente ordonnance, lorsqu’il est fait référence à des dispositio
 
 [^annex3-lvlu1-lvl1-1]: Cf. note de bas de page relative à l’art. 4, al. 1, let. f.
 [^annex3-lvlu1-lvl1-2]: Cf. note de bas de page relative à l’art. 4, al. 1, let. f.
-[^annex3-lvlu1-lvl1-3]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^annex3-lvlu1-lvl1-4]: [RS 221.112.944](https://fedlex.data.admin.ch/eli/cc/1993/3122_3122_3122)
-[^annex3-lvlu1-lvl1-5]: [RS 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
-[^annex3-lvlu1-lvl1-6]: [RS 819.14](https://fedlex.data.admin.ch/eli/cc/2008/263)
-[^annex3-lvlu1-lvl1-7]: [RS 817.023.31](https://fedlex.data.admin.ch/eli/cc/2017/165)
-[^annex3-lvlu1-lvl1-8]: [RS 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
-[^annex3-lvlu1-lvl1-9]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^annex3-lvlu1-lvl1-10]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
-[^annex3-lvlu1-lvl1-11]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^annex3-lvlu1-lvl1-12]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
-[^annex3-lvlu1-lvl1-13]: [RS 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
-[^annex3-lvlu1-lvl1-14]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^annex3-lvlu1-lvl1-15]: [RS 941.20](https://fedlex.data.admin.ch/eli/cc/2012/734)
-[^annex3-lvlu1-lvl1-16]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
-[^annex3-lvlu1-lvl1-17]: [RS 813.112.1](https://fedlex.data.admin.ch/eli/cc/2005/467)
+[^annex3-lvlu1-lvl1-3]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^annex3-lvlu1-lvl1-4]: [RS 221.112.944](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5851)
+[^annex3-lvlu1-lvl1-5]: [RS 734.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8590)
+[^annex3-lvlu1-lvl1-6]: [RS 819.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9850)
+[^annex3-lvlu1-lvl1-7]: [RS 817.023.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9692)
+[^annex3-lvlu1-lvl1-8]: [RS 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
+[^annex3-lvlu1-lvl1-9]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^annex3-lvlu1-lvl1-10]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
+[^annex3-lvlu1-lvl1-11]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^annex3-lvlu1-lvl1-12]: [RS 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
+[^annex3-lvlu1-lvl1-13]: [RS 813.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9395)
+[^annex3-lvlu1-lvl1-14]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^annex3-lvlu1-lvl1-15]: [RS 941.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11170)
+[^annex3-lvlu1-lvl1-16]: [RS 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)
+[^annex3-lvlu1-lvl1-17]: [RS 813.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9397)
 
 Annexe 4[^t-3]
 
@@ -1932,19 +2013,31 @@ Annexe 5
 
 La représentation graphique du marquage de conformité est la suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20230901/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20231101/fr/xml/image/image1.png)
 
 En cas de recours à un organisme désigné, le numéro d’identification de l’organisme est ajouté à côté du marquage de conformité.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20230901/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20231101/fr/xml/image/image2.png)
 
-Annexe 6[^t-4]
+Annexe 5a[^t-4]
+
+(art. 15)
+
+## Actes d’exécution de la Commission européenne pris en compte lors de la classification de produits
+
+[^t-4]: Introduite par le ch. II al. 2 de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+
+Les règlements d’exécution suivants de la Commission européenne sont pris en compte pour la classification des produits:
+
+- 1\. Règlement d’exécution (UE) 2022/2347 de la Commission du 1<sup>er</sup> décembre 2022 portant modalités d’application du règlement (UE) 2017/745 du Parlement européen et du Conseil en ce qui concerne la reclassification de groupes de certains produits actifs n’ayant pas de destination médicale prévue, JO L 311 du 2.12.2022, p. 94.
+
+Annexe 6[^t-5]
 
 (art. 70, al. 2 et 3)
 
 ## Groupes de dispositifs destinés à être utilisés par des professionnels de la santé, conditions d’exploitation et qualifications professionnelles
 
-[^t-4]: Mise à jour par l’annexe 5 ch. 1 de l’O du 4 mai 2022 sur les dispositifs médicaux de diagnostic in vitro, en vigueur depuis le 26 mai 2022 ([RO 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^t-5]: Mise à jour par l’annexe 5 ch. 1 de l’O du 4 mai 2022 sur les dispositifs médicaux de diagnostic in vitro, en vigueur depuis le 26 mai 2022 ([RO 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 
 ### 1. Groupes de dispositifs
 
