@@ -3,11 +3,11 @@ sr: "0.742.403.12"
 title: Convenzione relativa ai trasporti internazionali ferroviari nel tenore del Protocollo di modifica del 3 giugno 1999 (COTIF) (con prot. e appendici)
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/485"
 language: it
-version: 2019-07-22
+version: 2023-11-01
 adopted: 1999-06-03
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/485/20190722/it/xml/fedlex-data-admin-ch-eli-cc-2006-485-20190722-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/485/20190722/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/485/20231101/it/xml/fedlex-data-admin-ch-eli-cc-2006-485-20231101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/485/20231101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,15 +20,9 @@ Traduzione
 
 (COTIF)
 
-Concluso a Vilnius il 3 giugno 1999
+Concluso a Vilnius il 3 giugno 1999 Approvato dall’Assemblea federale il 14 dicembre 2001[^t-1] Ratificato con strumenti depositati dalla Svizzera il 7 maggio 2002 Entrato in vigore per la Svizzera il 1° luglio 2006
 
-Approvato dall’Assemblea federale il 14 dicembre 2001[^t-1]
-
-Ratificato con strumenti depositati dalla Svizzera il 7 maggio 2002
-
-Entrato in vigore per la Svizzera il 1° luglio 2006
-
-(Stato 22 luglio 2019)
+(Stato 1° novembre 2023)
 
 [^t-1]: [RU 2006 3099](https://fedlex.data.admin.ch/eli/oc/2006/484)
 
@@ -839,7 +833,7 @@ Nei casi previsti negli articoli 34 paragrafo 7, 35 paragrafo 4, 41 paragrafo 1 
 
 § 2 Su proposta di uno degli Stati membri interessati, l’Organizzazione pubblica le traduzioni ufficiali della Convenzione in altre lingue, a condizione che una di queste lingue sia lingua ufficiale sul territorio di almeno due Stati membri. Tali traduzioni sono elaborate in collaborazione con i servizi competenti degli Stati membri interessati.
 
-## **Protocollo sui privilegi e le immunità dell’Organizzazione intergovernativa per i trasporti internazionali ferroviari (OTIF)**
+## **Protocollo** **sui privilegi e le immunità dell’Organizzazione** **intergovernativa per i trasporti internazionali ferroviari** **(OTIF)**
 
 #### Art. 1
 
@@ -1716,7 +1710,7 @@ Appendice B alla Convenzione COTIF
 
 ## Regole uniformi concernenti il contratto di trasporto internazionale per ferrovia delle merci
 
-### (CIM)****
+### (CIM)
 
 [^annexB-lvlu1-lvlu1-1]
 
@@ -2476,7 +2470,7 @@ Appendice C alla Convenzione COTIF
 
 ## Regolamento concernente il trasporto internazionale ferroviario delle merci pericolose
 
-### (RID)****
+### (RID)
 
 [^annexC-lvlu1-lvlu1-1]
 
@@ -2540,7 +2534,7 @@ Il testo dell’Allegato sarà quello redatto dalla Commissione degli Esperti pe
 
 [^annexC-lvlu1-lvlu1-6-1]: L’All. e le sue mod. non sono pubblicati né nella RU né nella RS. Il RID incluso il suo All. possono essere consultati sul sito Internet dell’Organizzazione intergovernativa per i trasporti internazionali per ferrovia (OTIF): www.otif.org/.
 
-Appendice D alla Convenzione COTIF*[^t-2]*
+Appendice D alla Convenzione COTIF[^t-2]
 
 ## Regole uniformi concernenti i contratti d’utilizzazione di veicoli nel traffico internazionale ferroviario
 
@@ -2666,7 +2660,7 @@ Se il contratto di utilizzazione di veicoli prevede che l’impresa di trasporto
 - a) per le azioni fondate sull’articolo 4, dal giorno in cui la perdita o l’avaria del veicolo è stata accertata o dal giorno in cui l’avente diritto ha potuto considerare il veicolo come perso, in conformità all’articolo 6 paragrafo 1 o paragrafo 4;
 - b) per le azioni fondate sull’articolo 7, dal giorno in cui il danno è accaduto.
 
-Appendice E alla Convenzione COTIF *[^t-3]*
+Appendice E alla Convenzione COTIF [^t-3]
 
 ## Regole uniformi concernenti il contratto di utilizzazione dell’infrastruttura nel traffico internazionale ferroviario
 
@@ -2978,7 +2972,7 @@ La fondatezza del pagamento effettuato dal trasportatore in base alle Regole uni
 
 § 6 Per il rimanente, la sospensione e l’interruzione della prescrizione sono regolate dal diritto nazionale.
 
-Appendice F alla Convenzione COTIF*[^t-4]*
+Appendice F alla Convenzione COTIF[^t-4]
 
 ## Regole uniformi concernenti la convalida di norme tecniche e l’adozione di prescrizioni tecniche uniformi applicabili al materiale ferroviario destinato a essere utilizzato nel traffico internazionale
 
@@ -3246,13 +3240,13 @@ Il Gruppo B comprende tutte le prescrizioni che non rientrano nel campo di appli
 
 Il Gruppo C comprende le prescrizioni che sono associate alle caratteristiche dell’infrastruttura tecnica e sono strettamente necessarie per garantire un impiego sicuro e interoperabile sulla rete interessata (ad es. la sagoma utile).
 
-Appendice G alla Convenzione COTIF*[^t-5]*
+Appendice G alla Convenzione COTIF[^t-5]
 
 ## Regole uniformi concernenti l’ammissione tecnica di materiale ferroviario utilizzato in traffico internazionale
 
-[^t-5]: Nuovo testo giusta la Dec. della Commissione di revisione dei 25/26 giu. 2014 ([RU 2015 2131](https://fedlex.data.admin.ch/eli/oc/2015/396)). Correzione del 15 set. 2015 ([RU 2015 3149](https://fedlex.data.admin.ch/eli/oc/2015/588)). Aggiornato dalla Dec. della Commissione di revisione dei 27/28 feb. 2018, in vigore per la Svizzera dal 1° mar. 2019 ([RU 2019 951](https://fedlex.data.admin.ch/eli/oc/2019/173)). La correzione del 22 lug. 2019 concerne soltanto il testo francese e tedesco ([RU 2019 2975](https://fedlex.data.admin.ch/eli/oc/2019/547)).
+[^t-5]: Nuovo testo giusta la Dec. della Commissione di revisione dei 25/26 giu. 2014 ([RU 2015 2131](https://fedlex.data.admin.ch/eli/oc/2015/396)). Aggiornato dalla correzione del 15 set. 2015 ([RU 2015 3149](https://fedlex.data.admin.ch/eli/oc/2015/588)), dalla Dec. della Commissione di revisione dei 27/28 feb. 2018 ([RU 2019 951](https://fedlex.data.admin.ch/eli/oc/2019/173)) e dalla Dec. della Commissione di revisione del 28 ott. 2022, in vigore per la Svizzera dal 1° nov. 2023 ([RU 2024 4](https://fedlex.data.admin.ch/eli/oc/2024/4)).
 
-### (ATMF)
+### (ATMF – Appendice G alla Convenzione)
 
 #### Art. 1
 
@@ -3343,7 +3337,9 @@ Se le condizioni qui sopra elencate (lettere a-e) non sono soddisfatte, il veico
 
 § 4 I paragrafi 1 e 2 si applicano per analogia alle ammissioni/autorizzazioni dei tipi di veicoli.
 
-§ 5 Un organismo incaricato della manutenzione (ECM)[^annexG-lvlu1-lvlu1-3a-2] di carri e certificato in conformità all’articolo 15 paragrafo 2 è ritenuto certificato secondo la legislazione applicabile dell’Unione europea e la legislazione nazionale pertinente e viceversa quando sussiste una piena equivalenza tra il sistema di certificazione adottato in forza dell’articolo 14*a* (5) della direttiva 2004/49/CE relativa alla sicurezza delle ferrovie comunitarie e le regole adottate dalla Commissione di esperti tecnici secondo l’articolo 15 paragrafo 2. Queste ultime sono contenute nell’allegato A delle presenti Regole uniformi.
+§ 5 Un organismo incaricato della manutenzione (ECM)[^annexG-lvlu1-lvlu1-3a-2] che adempie le disposizioni dell’articolo 15 paragrafo 2 è ritenuto conformarsi alla legislazione pertinente dell’Unione europea e viceversa quando sussiste una piena equivalenza tra le prescrizioni applicabili in seno all’Unione europea e le prescrizioni della COTIF di cui all’articolo 15 paragrafo 2.
+
+La Commissione di esperti tecnici è autorizzata a dichiarare l’equivalenza tra le prescrizioni vigenti nell’Unione europea e le prescrizioni della COTIF di cui all’articolo 15 paragrafo 2.
 
 § 1 I veicoli messi in servizio o immessi sul mercato conformemente alla vigente legislazione dell’Unione europea e alla corrispondente legislazione nazionale, sono considerati ammessi all’esercizio da tutti gli Stati parti secondo le presenti Regole uniformi:
 
@@ -3362,7 +3358,7 @@ Se le condizioni qui sopra elencate (lettere a-e) non sono soddisfatte, il veico
 - e) a condizione che il veicolo non sia soggetto a un caso specifico che ne limita le condizioni di ammissione o l’autorizzazione all’esercizio o all’immissione sul mercato.
 
 [^annexG-lvlu1-lvlu1-3a-1]: Direttiva (UE) 2016/797 del Parlamento europeo e del Consiglio, dell’11 maggio 2016, relativa all’interoperabilità del sistema ferroviario dell’Unione europea (GU L 138, del 26.5.2016, p. 44)
-[^annexG-lvlu1-lvlu1-3a-2]: I requisiti dell’organismo preposto alla manutenzione figurano all’art. 15.
+[^annexG-lvlu1-lvlu1-3a-2]: I requisiti dell’organismo incaricato della manutenzione figurano all’articolo 15.
 
 #### Art. 4
 
@@ -3720,9 +3716,15 @@ L’autorità competente per il (primo) rilascio dell’ammissione all’eserciz
 
 § 2 Un ECM registrato nella banca dati prevista all’articolo 13 è assegnato a ciascun veicolo prima della sua ammissione all’esercizio o della sua utilizzazione sulla rete. L’ECM garantisce, mediante un sistema di manutenzione, che i veicoli di cui gli è stata affidata la manutenzione sono idonei a circolare in condizioni di sicurezza. L’ECM può fare capo a partner contrattuali, officine di manutenzione incluse.
 
-La Commissione di esperti tecnici è responsabile dell’adozione e delle modifiche delle prescrizioni in materia di certificazione e di verifica applicabili agli ECM e alle officine di manutenzione. Tali prescrizioni sono contenute nell’allegato A delle presenti Regole uniformi.
+La Commissione di esperti tecnici è responsabile dell’adozione delle prescrizioni in materia di certificazione e di verifica applicabili agli ECM e alle funzioni di manutenzione, compresi i requisiti per le parti interessate. Tali prescrizioni sono contenute nell’allegato A delle presenti Regole uniformi.
 
-L’ECM di un carro deve essere certificato da un organismo di certificazione degli ECM accreditato o riconosciuto in uno degli Stati parti, conformemente all’allegato A delle presenti Regole uniformi.
+Tutti gli ECM devono conformarsi ai requisiti e criteri di valutazione di cui all’allegato A delle presenti Regole uniformi.
+
+Gli ECM di carri devono essere certificati.
+
+Gli ECM di veicoli diversi dai carri devono essere certificati salvo le eccezioni previste dall’allegato A delle presenti Regole uniformi.
+
+I certificati ECM sono rilasciati da un organismo di certificazione degli ECM accreditato o riconosciuto in uno degli Stati parti, conformemente all’allegato A delle presenti Regole uniformi.
 
 § 3 Il detentore del veicolo mette a disposizione dell’ECM, nei limiti di quanto necessario ai fini della manutenzione, tutte le informazioni relative alle prescrizioni in materia di manutenzione, monitoraggio continuo o regolare e sospensione dell’esercizio.
 
@@ -3829,7 +3831,7 @@ Le controversie relative all’ammissione tecnica di veicoli destinati ad essere
 - b) un’organizzazione regionale di cui all’articolo 2 lettera x) delle ATMF;
 - c) un’associazione internazionale rappresentativa per i cui membri l’esistenza dell’appendice è indispensabile per ragioni di sicurezza e di economia nell’esercizio della loro attività.
 
-Campo d’applicazione l’8 agosto 2017**[^t-6]**
+Campo d’applicazione l’8 agosto 2017[^t-6]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -3887,7 +3889,7 @@ Campo d’applicazione l’8 agosto 2017**[^t-6]**
 <tr><td colspan="5"><sup>g</sup> Adesione alla Conv. entro il 3 giu. 1999 e l’entrata in vigore del Prot. 1999.</td></tr>
 </table>
 
-[^t-6]: [RU 2006 3101](https://fedlex.data.admin.ch/eli/oc/2006/485), [2007 4405](https://fedlex.data.admin.ch/eli/oc/2007/605), [2009 73](https://fedlex.data.admin.ch/eli/oc/2009/15), [2011 1933](https://fedlex.data.admin.ch/eli/oc/2011/281)[3615](https://fedlex.data.admin.ch/eli/oc/2011/500), [2013 2195](https://fedlex.data.admin.ch/eli/oc/2013/463), [2015 1617](https://fedlex.data.admin.ch/eli/oc/2015/318)[5987](https://fedlex.data.admin.ch/eli/oc/2015/927), [2017 3983](https://fedlex.data.admin.ch/eli/oc/2017/474). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-6]: [RU 2006 3101](https://fedlex.data.admin.ch/eli/oc/2006/485); [2007 4405](https://fedlex.data.admin.ch/eli/oc/2007/605); [2009 73](https://fedlex.data.admin.ch/eli/oc/2009/15); [2011 1933](https://fedlex.data.admin.ch/eli/oc/2011/281), [3615](https://fedlex.data.admin.ch/eli/oc/2011/500); [2013 2195](https://fedlex.data.admin.ch/eli/oc/2013/463); [2015 1617](https://fedlex.data.admin.ch/eli/oc/2015/318), [5987](https://fedlex.data.admin.ch/eli/oc/2015/927); [2017 3983](https://fedlex.data.admin.ch/eli/oc/2017/474). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
 
 Riserve e dichiarazioni
 

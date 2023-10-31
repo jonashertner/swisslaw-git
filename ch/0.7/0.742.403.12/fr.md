@@ -3,11 +3,11 @@ sr: "0.742.403.12"
 title: Convention relative aux transports internationaux ferroviaires dans la teneur du Protocole de modification du 3 juin 1999 (COTIF) (avec prot. et appendices)
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/485"
 language: fr
-version: 2019-07-22
+version: 2023-11-01
 adopted: 1999-06-03
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/485/20190722/fr/xml/fedlex-data-admin-ch-eli-cc-2006-485-20190722-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/485/20190722/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/485/20231101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-485-20231101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/485/20231101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -28,7 +28,7 @@ Instrument de ratification suisse déposé le 7 mai 2002
 
 Entré en vigueur pour la Suisse le 1<sup>er</sup> juillet 2006
 
-(Etat le 22 juillet 2019)
+(État le 1<sup>er</sup> novembre 2023)
 
 [^t-1]: [RO 2006 3099](https://fedlex.data.admin.ch/eli/oc/2006/484)
 
@@ -1555,7 +1555,7 @@ Le voyageur est responsable envers le transporteur pour tout dommage:
 
 - a)
 
-  résultant du non respect de ses obligations en vertu :
+  résultant du non respect de ses obligations en vertu:
 
   - 1\. des art. 10, 14 et 20,
   - 2\. des dispositions particulières pour le transport des véhicules, contenues dans les Conditions générales de transport, ou
@@ -1719,7 +1719,7 @@ Le jour indiqué comme point de départ de la prescription n’est jamais compri
 
 Les transporteurs sont libres de convenir entre eux de dispositions dérogeant aux art. 61 et 62.
 
-Appendice B à la Convention*[^t-2]*
+Appendice B à la Convention[^t-2]
 
 ## Règles uniformes concernant le contrat de transport international ferroviaire des marchandises
 
@@ -2471,7 +2471,7 @@ Le jour indiqué comme point de départ de la prescription n’est jamais compri
 
 Les transporteurs sont libres de convenir entre eux de dispositions dérogeant aux art. 49 et 50.
 
-Appendice C à la Convention*[^t-3]*
+Appendice C à la Convention[^t-3]
 
 ## Règlement concernant le transport international ferroviaire des marchandises dangereuses
 
@@ -2535,9 +2535,9 @@ L’Annexe fait partie intégrante du présent Règlement.
 
 L’Annexe recevra la teneur que la Commission d’experts pour le transport des marchandises dangereuses aura arrêtée, au moment de l’entrée en vigueur du Protocole du 3 juin 1999 portant modification à la Convention relative aux transports internationaux ferroviaires (COTIF) du 9 mai 1980, selon l’art. 19, par. 4 de cette Convention.
 
-[^annexC-lvlu1-lvlu1-6-1]: L’Annexe et ses modifications ne sont publiés ni dans le RO ni dans le RS. Des tirés à part du RID incluant l’Annexe sont disponibles sur le site de l’Organisation intergouvernementale pour les transports internationaux ferroviaires (OTIF): www.otif.org/
+[^annexC-lvlu1-lvlu1-6-1]: L’Annexe et ses modifications ne sont publiés ni dans le RO ni dans le RS. Des tirés à part du RID incluant l’Annexe sont disponibles sur le site de l’Organisation intergouvernementale pour les transports internationaux ferroviaires (OTIF): [www.otif.org](http://www.otif.org)
 
-Appendice D à la Convention*[^t-4]*
+Appendice D à la Convention[^t-4]
 
 ## Règles uniformes concernant les contrats d’utilisation de véhicules en trafic international ferroviaire
 
@@ -2663,7 +2663,7 @@ Lorsque le contrat d’utilisation de véhicules prévoit que l’entreprise de 
 - a) pour les actions fondées sur l’art. 4, du jour où la perte ou l’avarie du véhicule a été constatée ou du jour où l’ayant droit pouvait considérer le véhicule comme perdu conformément à l’art. 6, par. 1 ou par. 4;
 - b) pour les actions fondées sur l’art. 7, du jour où le dommage s’est produit.
 
-Appendice E à la Convention*[^t-5]*
+Appendice E à la Convention[^t-5]
 
 ## Règles uniformes concernant le contrat d’utilisation de l’infrastructure en trafic international ferroviaire
 
@@ -2792,7 +2792,7 @@ Sauf clause contraire dans les présentes Règles uniformes, est nulle et de nul
 
 **Responsabilité du gestionnaire**
 
-causés au transporteur ou à ses auxiliaires durant l’utilisation de l’infrastructure et ayant leur origine dans l[F03E]infrastructure.
+causés au transporteur ou à ses auxiliaires durant l’utilisation de l’infrastructure et ayant leur origine dans l’infrastructure.
 
 § 3 Si l’événement dommageable est dû au comportement d’un tiers et si, en dépit de cela, le gestionnaire n’est pas entièrement déchargé de sa responsabilité conformément au par. 2, let. a), il répond pour le tout dans les limites des présentes Règles uniformes et sans préjudice de son recours éventuel contre le tiers.
 
@@ -2975,7 +2975,7 @@ Le bien-fondé du paiement effectué par le transporteur sur la base des Règles
 
 § 6 Par ailleurs, la suspension et l’interruption de la prescription sont réglées par le droit national.
 
-Appendice F à la Convention*[^t-6]*
+Appendice F à la Convention[^t-6]
 
 ## Règles uniformes concernant la validation de normes techniques et l’adoption de prescriptions techniques uniformes applicables au matériel ferroviaire destiné à être utilisé en trafic international
 
@@ -3198,19 +3198,19 @@ Annexe
 - La documentation générale (comprenant la description du véhicule neuf, renouvelé ou réaménagé et son usage prévu, les informations sur la conception, la réparation, l’exploitation et l’entretien, le dossier technique, etc.)
 - 1\.2 *Structure et parties mécaniques*
 - L’intégrité mécanique et l’interface entre les véhicules (y compris les tampons et les organes de traction, les couloirs/passerelles), la robustesse de la structure du véhicule et de ses équipements (par exemple, sièges), la capacité de charge, la sécurité passive (y compris la résistance intérieure et extérieure aux chocs)
-- 1\.3 *Interactions véh**i**cule/voie et gabarit*
+- 1\.3 *Interactions véhicule/voie et gabarit*
 - Les interfaces mécaniques vis-à-vis de l’infrastructure (y compris le comportement statique et dynamique, les jeux et tolérances, le gabarit, les organes de roulement, etc.)
-- 1\.4 *Équ**i**pements de freinage*
+- 1\.4 *Équipements de freinage*
 - Dispositifs de freinage (y compris la protection anti-enrayage, la commande de freinage, la puissance de freinage en modes service, stationnement et urgence)
 - 1\.5 *Dispositifs associés aux voyageurs*
 - Les installations à l’usage des voyageurs et l’environnement des voyageurs (y compris les vitres et les portes des voitures de voyageurs, les besoins particuliers des personnes à mobilité réduite, etc.)
-- 1\.6 *Conditions environnementales et effets aérodyn**a**miques*
+- 1\.6 *Conditions environnementales et effets aérodynamiques*
 - L’impact de l’environnement sur le véhicule et l’impact du véhicule sur l’environnement (y compris les conditions aérodynamiques, l’interface entre le véhicule et la partie «sol» du système ferroviaire et l’interface avec l’environnement extérieur)
-- 1\.7 *Avertisseur extérieur, signalétique, exigences en m**a**tière d’intégrité du logiciel*
+- 1\.7 *Avertisseur extérieur, signalétique, exigences en matière d’intégrité du logiciel*
 - Les avertisseurs extérieurs, la signalétique, les fonctions et l’intégrité du logiciel, par exemple les fonctions conditionnant la sécurité et ayant une incidence sur le comportement du train, y compris du bus de train
 - 1\.8 *Systèmes d’alimentation en énergie et de commande à bord*
 - La propulsion à bord, les systèmes d’alimentation et de commande, l’interface du véhicule avec l’infrastructure d’alimentation en énergie et tous les aspects de la compatibilité électromagnétique
-- 1\.9 *Installations pour le personnel, interfaces et enviro**n**nement*
+- 1\.9 *Installations pour le personnel, interfaces et environnement*
 - Les installations à bord, les interfaces, les conditions et l’environnement de travail du personnel (y compris les postes de conduite, l’interface conducteur-machine)
 - 1\.10 *Protection contre l’incendie et évacuation*
 - 1\.11 *Maintenance*
@@ -3243,11 +3243,11 @@ Le Groupe B comprend toutes les règles qui ne tombent pas dans le champ d’app
 
 Le Groupe C comprend les règles associées aux caractéristiques techniques de l’infrastructure et qui sont strictement nécessaires pour garantir un usage sûr et interopérable sur le réseau concerné (par exemple le gabarit).
 
-Appendice G à la Convention*[^t-7]*
+Appendice G à la Convention[^t-7]
 
 ## Règles uniformes concernant l’admission technique de matériel ferroviaire utilisé en trafic international
 
-[^t-7]: Nouvelle teneur selon la D de la Commission de révision des 25/26 juin 2014 ([RO 2015 2131](https://fedlex.data.admin.ch/eli/oc/2015/396)). Mis à jour selon l’erratum du 15 sept. 2015 ([RO 2015 3149](https://fedlex.data.admin.ch/eli/oc/2015/588)), la D de la Commission de révision des 27/28 févr. 2018, en vigueur pour la Suisse depuis le 1<sup>er</sup> mars 2019 ([RO 2019 951](https://fedlex.data.admin.ch/eli/oc/2019/173)) et l’erratum du 22 juillet 2019 ([RO 2019 2975](https://fedlex.data.admin.ch/eli/oc/2019/547)).
+[^t-7]: Nouvelle teneur selon la D de la Commission de révision des 25/26 juin 2014 ([RO 2015 2131](https://fedlex.data.admin.ch/eli/oc/2015/396)). Mis à jour selon l’erratum du 15 sept. 2015 ([RO 2015 3149](https://fedlex.data.admin.ch/eli/oc/2015/588)), la D de la Commission de révision des 27/28 févr. 2018 ([RO 2019 951](https://fedlex.data.admin.ch/eli/oc/2019/173)), l’erratum du 22 juillet 2019 ([RO 2019 2975](https://fedlex.data.admin.ch/eli/oc/2019/547)) et la D de la Commission de révision du 28 oct. 2022, en vigueur pour la Suisse depuis le 1<sup>er</sup> nov. 2023 ([RO 2024 4](https://fedlex.data.admin.ch/eli/oc/2024/4)).
 
 ### (ATMF)
 
@@ -3340,7 +3340,9 @@ Si les conditions a) à e) ne sont pas remplies, le véhicule sera soumis à aut
 
 § 4 Les par. 1 à 2 s’appliquent par analogie aux admissions/autorisations des types de véhicules.
 
-§ 5 Une entité chargée de l’entretien[^annexG-lvlu1-lvlu1-3a-2] (ECE) d’un wagon de marchandises, certifiée conformément à l’art. 15, par. 2, est réputée certifiée conformément à la législation de l’Union européenne applicable et à la législation nationale correspondante et inversement, en cas d’équivalence pleine et entière entre le système de certification adopté en vertu de l’art. 14 bis, par. 5, de la directive 2004/49/CE concernant la sécurité des chemins de fer communautaires et les règles adoptées par la Commission d’experts techniques conformément à l’art. 15, par. 2. Ces règles adoptées sont énoncées à l’annexe A des présentes Règles uniformes.
+§ 5 Une entité chargée de l’entretien (ECE)[^annexG-lvlu1-lvlu1-3a-2] observant les dispositions de l’art. 15, par. 2, est réputée se conformer à la législation de l’Union européenne correspondante, et inversement, en cas d’équivalence pleine et entière entre les règles applicables au sein de l’Union européenne et les règles de la COTIF visées à l’art. 15, par. 2.
+
+La Commission d’experts techniques est compétente pour déclarer l’équivalence entre les règles applicables au sein de l’Union européenne et les règles de la COTIF visées à l’art. 15, par. 2.
 
 § 1 Les véhicules mis en service ou sur le marché conformément à la législation de l’Union européenne (UE) applicable et à la législation nationale correspondante sont considérés comme admis à l’exploitation par tous les États parties conformément aux présentes Règles uniformes:
 
@@ -3359,7 +3361,7 @@ Si les conditions a) à e) ne sont pas remplies, le véhicule sera soumis à aut
 - e) à condition que le véhicule ne fasse pas l’objet de cas spécifiques limitant les conditions d’admission ou l’autorisation de mise en service ou de mise sur le marché.
 
 [^annexG-lvlu1-lvlu1-3a-1]: Directive (UE) 2016/797 du Parlement européen et du Conseil du 11 mai 2016 relative à l’interopérabilité du système ferroviaire au sein de l’Union européenne (JO L 138 du 26.5.2016, p. 44).
-[^annexG-lvlu1-lvlu1-3a-2]: Les exigences relatives à l’entité en charge de la maintenance sont énoncées à l’art. 15
+[^annexG-lvlu1-lvlu1-3a-2]: Les exigences relatives à l’entité chargée de l’entretien sont énoncées à l’art. 15.
 
 #### Art. 4
 
@@ -3716,9 +3718,15 @@ L’autorité compétente octroyant la (première) admission à l’exploitation
 
 § 2 Une ECE est assignée à chaque véhicule avant son admission à l’exploitation ou son utilisation sur le réseau, et enregistrée dans la banque de données prévue à l’art. 13. L’ECE garantit, au moyen d’un système de maintenance, que les véhicules dont la maintenance lui a été confiée sont aptes à circuler en toute sécurité. L’ECE peut faire appel à des sous-traitants, y compris à des ateliers de maintenance.
 
-La Commission d’experts techniques est compétente pour l’adoption et l’amendement des règles de certification et d’audit des ECE et des ateliers de maintenance. Ces règles sont énoncées à l’annexe A des présentes Règles uniformes.
+La Commission d’experts techniques est compétente pour l’adoption des règles de certification et d’audit des ECM et des fonctions de maintenance, y compris les exigences incombant aux parties concernées. Ces règles sont énoncées à l’annexe A des présentes Règles uniformes.
 
-L’ECE pour un wagon de marchandises doit être certifiée par un organisme de certification des ECE accrédité ou reconnu dans l’un des États parties conformément à l’annexe A des présentes Règles uniformes.
+Toutes les ECE doivent se conformer aux exigences et critères d’évaluation définis à l’annexe A aux présentes Règles uniformes.
+
+Les ECE pour les wagons de marchandises doivent être certifiées.
+
+Les ECE des véhicules autres que les wagons de marchandises doivent être certifiées, sauf exceptions permises à l’annexe A aux présentes Règles uniformes.
+
+Les certificats ECE sont délivrés par un organisme de certification des ECE accrédité ou reconnu dans l’un des États parties conformément à l’annexe A des présentes Règles uniformes.
 
 § 3 Dans la mesure où cela est nécessaire à la maintenance, le détenteur met à disposition de l’ECE les éléments concernant les consignes de maintenance, de surveillance continue ou périodique, de réglage et d’entretien.
 
@@ -3825,7 +3833,7 @@ Les différends relatifs à l’admission technique de véhicules destinés à �
 - b) toute organisation régionale au sens de l’art. 2, let. x), des ATMF;
 - c) toute association internationale représentative pour les membres de laquelle l’existence de l’annexe est indispensable pour des raisons de sécurité et d’économie dans l’exercice de leur activité.
 
-Champ d’application le 8 août 2017**[^t-8]**
+Champ d’application le 8 août 2017[^t-8]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -3877,10 +3885,10 @@ Champ d’application le 8 août 2017**[^t-8]**
 <tr><td>Turquie</td><td>3 avril</td><td>2006</td><td>1<sup>er</sup> juillet</td><td>2006</td></tr>
 <tr><td>Ukraine\* <sup>b</sup></td><td>26 octobre</td><td>2007 A</td><td>1<sup>er</sup> novembre</td><td>2007</td></tr>
 <tr><td>Union européenne</td><td>23 juin</td><td>2011 A</td><td>1<sup>er</sup> juillet</td><td>2011</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation intergouvernementale pour les transports internationaux ferroviaires: www.otif.org &gt; Français &gt; L’OTIF &gt; Convention, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Adhésion à la convention après le 1<sup>er</sup> juillet 2006. <sup>b</sup> Adhésion au Protocole de 1999. <sup>c</sup> Adhésion à la convention entre le 3 juin 1999 et l’entrée en vigueur du Protocole 1999.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation intergouvernementale pour les transports internationaux ferroviaires: [www.otif.org](http://www.otif.org) &gt; Français &gt; L’OTIF &gt; Convention, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Adhésion à la convention après le 1<sup>er</sup> juillet 2006. <sup>b</sup> Adhésion au Protocole de 1999. <sup>c</sup> Adhésion à la convention entre le 3 juin 1999 et l’entrée en vigueur du Protocole 1999.</td></tr>
 </table>
 
-[^t-8]: [RO 2006 3101](https://fedlex.data.admin.ch/eli/oc/2006/485), [2007 4405](https://fedlex.data.admin.ch/eli/oc/2007/605), [2009 73](https://fedlex.data.admin.ch/eli/oc/2009/15), [2011 1933](https://fedlex.data.admin.ch/eli/oc/2011/281)[3615](https://fedlex.data.admin.ch/eli/oc/2011/500), [2013 2195](https://fedlex.data.admin.ch/eli/oc/2013/463), [2015 1617](https://fedlex.data.admin.ch/eli/oc/2015/318), [2015 5987](https://fedlex.data.admin.ch/eli/oc/2015/927), [2017 3983](https://fedlex.data.admin.ch/eli/oc/2017/474). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-8]: [RO 2006 3101](https://fedlex.data.admin.ch/eli/oc/2006/485); [2007 4405](https://fedlex.data.admin.ch/eli/oc/2007/605); [2009 73](https://fedlex.data.admin.ch/eli/oc/2009/15); [2011 1933](https://fedlex.data.admin.ch/eli/oc/2011/281), [3615](https://fedlex.data.admin.ch/eli/oc/2011/500); [2013 2195](https://fedlex.data.admin.ch/eli/oc/2013/463); [2015 1617](https://fedlex.data.admin.ch/eli/oc/2015/318), [5987](https://fedlex.data.admin.ch/eli/oc/2015/927); [2017 3983](https://fedlex.data.admin.ch/eli/oc/2017/474). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Réserves et déclarations
 

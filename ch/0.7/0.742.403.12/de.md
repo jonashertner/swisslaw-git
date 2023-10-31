@@ -3,11 +3,11 @@ sr: "0.742.403.12"
 title: Übereinkommen über den internationalen Eisenbahnverkehr in der Fassung des Änderungsprotokolls vom 3. Juni 1999 (COTIF) (mit Prot. und Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/485"
 language: de
-version: 2019-07-22
+version: 2023-11-01
 adopted: 1999-06-03
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/485/20190722/de/xml/fedlex-data-admin-ch-eli-cc-2006-485-20190722-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/485/20190722/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/485/20231101/de/xml/fedlex-data-admin-ch-eli-cc-2006-485-20231101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/485/20231101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Originaltext
 
 Abgeschlossen in Vilnius am 3. Juni 1999 Von der Bundesversammlung genehmigt am 14. Dezember 2001[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 7. Mai 2002 Für die Schweiz in Kraft getreten am 1. Juli 2006
 
-(Stand am 22. Juli 2019)
+(Stand am 1. November 2023)
 
 [^t-1]: [AS 2006 3099](https://fedlex.data.admin.ch/eli/oc/2006/484)
 
@@ -52,11 +52,11 @@ Das COTIF 1980 wird geändert und erhält die Fassung, die als Anlage beigefügt
 
 § 1 Die Aufgaben der Depositarregierung, wie sie in den Artikeln 22–26 COTIF 1980 vorgesehen sind, werden von der OTIF als vorläufigem Depositar in der Zeit von der Auflegung dieses Protokolls zur Unterzeichnung bis zum Inkrafttreten dieses Protokolls wahrgenommen.
 
-§ 2 Der vorläufige Depositar unterrichtet die Mitgliedstaaten über
-
 und erfüllt die übrigen Aufgaben eines Depositars, wie sie in Teil VII des Wiener Übereinkommens vom 23. Mai 1969[^2-1] über das Recht der Verträge aufgeführt sind.
 
-- a) die Unterzeichnungen dieses Protokolls, die Hinterlegung der Ratifikations-, Annahme-, Genehmigungs- und Beitrittsurkunden,
+§ 2 Der vorläufige Depositar unterrichtet die Mitgliedstaaten über:
+
+- a) die Unterzeichnungen dieses Protokolls, die Hinterlegung der Ratifikations-, Annahme-, Genehmigungs- und Beitrittsurkunden;
 - b) den Tag, an dem dieses Protokoll in Anwendung seines Artikels 4 in Kraft tritt,
 
 [^2-1]: [SR 0.111](https://fedlex.data.admin.ch/eli/cc/1990/1112_1112_1112)
@@ -97,8 +97,6 @@ Erklärungen und Vorbehalte, die nach Artikel 42 § 1 des Übereinkommens in der
 
 § 4 Die Amtszeit des im Zeitpunkt des Inkrafttretens dieses Protokolls im Amt befindlichen Generaldirektors des Zentralamtes endet mit Ablauf des Zeitraumes, für den er gemäss Artikel 7 § 2 Buchstabe d) COTIF 1980 bestellt worden ist. Er übt ab dem Zeitpunkt des Inkrafttretens dieses Protokolls die Funktionen des Generalsekretärs aus.
 
-§ 5 Auch nach Inkrafttreten dieses Protokolls bleiben für
-
 die einschlägigen Bestimmungen der Artikel 6, 7 und 11 COTIF 1980 anwendbar. Die Buchstaben a) bis c) betreffen das Jahr, in dem dieses Protokoll in Kraft tritt, sowie das diesem Jahr vorangehende Jahr.
 
 § 6 Die endgültigen Beiträge der Mitgliedstaaten für das Jahr, in dem dieses Protokoll in Kraft tritt, werden auf der Grundlage des Artikels 11 § 1 COTIF 1980 berechnet.
@@ -111,13 +109,15 @@ Diese Bestimmung findet keine Anwendung auf Mitgliedstaaten, die den Mindestbeit
 
 § 1 Spätestens sechs Monate nach Inkrafttreten dieses Protokolls beruft der Generalsekretär der OTIF die Generalversammlung ein:
 
-- a) zur Bezeichnung der Mitglieder des Verwaltungsausschusses für die nächste Amtszeit (Art. 14 § 2 Bst. b) COTIF in der Fassung der Anlage zu diesem Protokoll) und, gegebenenfalls, zur Beschlussfassung über das Ende der Amtszeit des im Amt befindlichen Verwaltungsausschusses,
-- b) zur Festsetzung des Höchstbetrages, den die Ausgaben der Organisation in jeder Haushaltsperiode in einem Zeitraum von sechs Jahren erreichen dürfen (Art. 14 § 2 Bst. e) COTIF in der Fassung der Anlage zu diesem Protokoll), und
+- a) zur Bezeichnung der Mitglieder des Verwaltungsausschusses für die nächste Amtszeit (Art. 14 § 2 Bst. b) COTIF in der Fassung der Anlage zu diesem Protokoll) und, gegebenenfalls, zur Beschlussfassung über das Ende der Amtszeit des im Amt befindlichen Verwaltungsausschusses;
+- b) zur Festsetzung des Höchstbetrages, den die Ausgaben der Organisation in jeder Haushaltsperiode in einem Zeitraum von sechs Jahren erreichen dürfen (Art. 14 § 2 Bst. e) COTIF in der Fassung der Anlage zu diesem Protokoll); und
 - c) gegebenenfalls zur Wahl des Generalsekretärs (Art. 14 § 2 Bst. c) COTIF in der Fassung der Anlage zu diesem Protokoll).
 
-- a) die Rechnungsprüfung und die Genehmigung der Jahresrechnung der Organisation,
-- b) die Festsetzung der endgültigen Beiträge der Mitgliedstaaten zu den Ausgaben der Organisation,
-- c) die Bezahlung der Beiträge,
+§ 5 Auch nach Inkrafttreten dieses Protokolls bleiben für:
+
+- a) die Rechnungsprüfung und die Genehmigung der Jahresrechnung der Organisation;
+- b) die Festsetzung der endgültigen Beiträge der Mitgliedstaaten zu den Ausgaben der Organisation;
+- c) die Bezahlung der Beiträge;
 - d) den vor Inkrafttreten dieses Protokolls festgesetzten Höchstbetrag, den die Ausgaben der Organisation in einem Fünfjahreszeitraum erreichen dürfen,
 
 § 7 Auf Antrag eines Mitgliedstaates, dessen auf der Grundlage des Artikels 26 des Übereinkommens in der Fassung der Anlage zu diesem Protokoll berechneter Beitrag höher ist als der für das Jahr 1999 geschuldete Beitrag, kann die Generalversammlung den Beitrag dieses Staates für die drei auf das Jahr des Inkrafttretens dieses Protokolls folgenden Jahre unter Beachtung folgender Grundsätze festsetzen:
@@ -161,17 +161,15 @@ vom 9. Mai 1980 in der Fassung des Änderungsprotokolls vom 3. Juni 1999
 
 **Ziel der Organisation**
 
-§ 1 Ziel der Organisation ist es, den internationalen Eisenbahnverkehr in jeder Hinsicht zu fördern, zu verbessern und zu erleichtern; zu diesem Zweck wird sie insbesondere
-
-§ 2 Die Organisation kann
+§ 1 Ziel der Organisation ist es, den internationalen Eisenbahnverkehr in jeder Hinsicht zu fördern, zu verbessern und zu erleichtern; zu diesem Zweck wird sie insbesondere:
 
 - a)
 
   einheitliche Rechtsordnungen für folgende Rechtsbereiche aufstellen:
 
-  - 1\. Vertrag über die Beförderung von Personen und Gütern im durchgehenden internationalen Eisenbahnverkehr, einschliesslich ergänzender Beförderungen mit anderen Beförderungsmitteln, die Gegenstand eines einzigen Vertrages sind;
-  - 2\. Vertrag über die Verwendung von Wagen als Beförderungsmittel im internationalen Eisenbahnverkehr;
-  - 3\. Vertrag über die Nutzung der Infrastruktur im internationalen Eisenbahnverkehr;
+  - 1\. Vertrag über die Beförderung von Personen und Gütern im durchgehenden internationalen Eisenbahnverkehr, einschliesslich ergänzender Beförderungen mit anderen Beförderungsmitteln, die Gegenstand eines einzigen Vertrages sind,
+  - 2\. Vertrag über die Verwendung von Wagen als Beförderungsmittel im internationalen Eisenbahnverkehr,
+  - 3\. Vertrag über die Nutzung der Infrastruktur im internationalen Eisenbahnverkehr,
   - 4\. Beförderung gefährlicher Güter im internationalen Eisenbahnverkehr;
 
 - b) auf eine zügige Beseitigung von Hindernissen beim Grenzübertritt im internationalen Eisenbahnverkehr unter Berücksichtigung besonderer öffentlicher Belange hinwirken, soweit diese Hindernisse ihre Ursache im staatlichen Verantwortungsbereich haben;
@@ -179,6 +177,8 @@ vom 9. Mai 1980 in der Fassung des Änderungsprotokolls vom 3. Juni 1999
 - d) ein einheitliches Verfahren für die technische Zulassung von Eisenbahnmaterial, das zur Verwendung im internationalen Verkehr bestimmt ist, aufstellen;
 - e) die Anwendung und Durchführung aller im Rahmen der Organisation geschaffenen Rechtsvorschriften und ausgesprochenen Empfehlungen überwachen;
 - f) die in den Buchstaben a) bis e) genannten einheitlichen Rechtsordnungen, Regeln und Verfahren unter Berücksichtigung der rechtlichen, wirtschaftlichen und technischen Veränderungen weiterentwickeln.
+
+§ 2 Die Organisation kann:
 
 - a) im Rahmen der in § 1 genannten Ziele weitere einheitliche Rechtsordnungen ausarbeiten;
 - b) einen Rahmen bilden, in dem die Mitgliedstaaten weitere internationale Übereinkommen mit dem Ziel ausarbeiten können, den internationalen Eisenbahnverkehr zu fördern, zu verbessern oder zu erleichtern.
@@ -211,8 +211,8 @@ vom 9. Mai 1980 in der Fassung des Änderungsprotokolls vom 3. Juni 1999
 
 § 1 Die Mitgliedstaaten kommen überein, alle geeigneten Massnahmen zu ergreifen, um den internationalen Eisenbahnverkehr zu erleichtern und zu beschleunigen. Zu diesem Zweck verpflichtet sich jeder Mitgliedstaat, im Rahmen des Möglichen:
 
-- a) jedes überflüssige Verfahren zu beseitigen,
-- b) die noch erforderlichen Formalitäten zu vereinfachen und zu vereinheitlichen,
+- a) jedes überflüssige Verfahren zu beseitigen;
+- b) die noch erforderlichen Formalitäten zu vereinfachen und zu vereinheitlichen;
 - c) die Grenzkontrollen zu vereinfachen.
 
 #### Art. 6
@@ -223,13 +223,13 @@ vom 9. Mai 1980 in der Fassung des Änderungsprotokolls vom 3. Juni 1999
 
 § 1 Sofern keine Erklärungen oder Vorbehalte gemäss Artikel 42 § 1 erster Satz abgegeben oder eingelegt worden sind, finden im internationalen Eisenbahnverkehr und bei der technischen Zulassung von Eisenbahnmaterial zur Verwendung im internationalen Verkehr Anwendung:
 
-- a) die «Einheitlichen Rechtsvorschriften für den Vertrag über die internationale Eisenbahnbeförderung von Personen (CIV)», Anhang A zum Übereinkommen,
-- b) die «Einheitlichen Rechtsvorschriften für den Vertrag über die internationale Eisenbahnbeförderung von Gütern (CIM)», Anhang B zum Übereinkommen,
-- c) die «Ordnung für die internationale Eisenbahnbeförderung gefährlicher Güter (RID)», Anhang C zum Übereinkommen,
-- d) die «Einheitlichen Rechtsvorschriften für Verträge über die Verwendung von Wagen im internationalen Eisenbahnverkehr (CUV)», Anhang D zum Übereinkommen,
-- e) die «Einheitlichen Rechtsvorschriften für den Vertrag über die Nutzung der Infrastruktur im internationalen Eisenbahnverkehr (CUI)», Anhang E zum Übereinkommen,
-- f) die «Einheitlichen Rechtsvorschriften für die Verbindlicherklärung technischer Normen und für die Annahme einheitlicher technischer Vorschriften für Eisenbahnmaterial, das zur Verwendung im internationalen Verkehr bestimmt ist (APTU)», Anhang F zum Übereinkommen,
-- g) die «Einheitlichen Rechtsvorschriften für die technische Zulassung von Eisenbahnmaterial, das im internationalen Verkehr verwendet wird (ATMF)», Anhang G zum Übereinkommen,
+- a) die «Einheitlichen Rechtsvorschriften für den Vertrag über die internationale Eisenbahnbeförderung von Personen (CIV)», Anhang A zum Übereinkommen;
+- b) die «Einheitlichen Rechtsvorschriften für den Vertrag über die internationale Eisenbahnbeförderung von Gütern (CIM)», Anhang B zum Übereinkommen;
+- c) die «Ordnung für die internationale Eisenbahnbeförderung gefährlicher Güter (RID)», Anhang C zum Übereinkommen;
+- d) die «Einheitlichen Rechtsvorschriften für Verträge über die Verwendung von Wagen im internationalen Eisenbahnverkehr (CUV)», Anhang D zum Übereinkommen;
+- e) die «Einheitlichen Rechtsvorschriften für den Vertrag über die Nutzung der Infrastruktur im internationalen Eisenbahnverkehr (CUI)», Anhang E zum Übereinkommen;
+- f) die «Einheitlichen Rechtsvorschriften für die Verbindlicherklärung technischer Normen und für die Annahme einheitlicher technischer Vorschriften für Eisenbahnmaterial, das zur Verwendung im internationalen Verkehr bestimmt ist (APTU)», Anhang F zum Übereinkommen;
+- g) die «Einheitlichen Rechtsvorschriften für die technische Zulassung von Eisenbahnmaterial, das im internationalen Verkehr verwendet wird (ATMF)», Anhang G zum Übereinkommen;
 - h) weitere von der Organisation auf der Grundlage des Artikels 2 § 2 Bst. a) ausgearbeitete einheitliche Rechtsordnungen, die ebenfalls Anhänge zum Übereinkommen bilden.
 
 #### Art. 7
@@ -309,12 +309,12 @@ Bei Klagen auf Grund der Einheitlichen Rechtsvorschriften CIV, der Einheitlichen
 
 § 1 Die Tätigkeit der Organisation wird durch die folgenden Organe wahrgenommen:
 
-- a) Generalversammlung,
-- b) Verwaltungsausschuss,
-- c) Revisionsausschuss,
-- d) Fachausschuss für die Beförderung gefährlicher Güter (Fachausschuss RID),
-- e) Ausschuss für Erleichterungen im Eisenbahnverkehr,
-- f) Fachausschuss für technische Fragen,
+- a) Generalversammlung;
+- b) Verwaltungsausschuss;
+- c) Revisionsausschuss;
+- d) Fachausschuss für die Beförderung gefährlicher Güter (Fachausschuss RID);
+- e) Ausschuss für Erleichterungen im Eisenbahnverkehr;
+- f) Fachausschuss für technische Fragen;
 - g) Generalsekretär.
 
 #### Art. 14
@@ -322,8 +322,6 @@ Bei Klagen auf Grund der Einheitlichen Rechtsvorschriften CIV, der Einheitlichen
 **Generalversammlung**
 
 § 1 Die Generalversammlung besteht aus allen Mitgliedstaaten.
-
-§ 2 Die Generalversammlung
 
 § 3 Der Generalsekretär beruft die Generalversammlung alle drei Jahre oder auf Antrag eines Drittels der Mitgliedstaaten oder auf Antrag des Verwaltungsausschusses sowie in den Fällen ein, die in Artikel 33 §§ 2 und 3 und in Artikel 37 § 4 vorgesehen sind. Er übermittelt den Mitgliedstaaten spätestens drei Monate vor der Eröffnung der Tagung den Entwurf der Tagesordnung gemäss den in der Geschäftsordnung nach § 2 Buchstabe a) festgelegten Bedingungen.
 
@@ -333,9 +331,9 @@ Bei Klagen auf Grund der Einheitlichen Rechtsvorschriften CIV, der Einheitlichen
 
 § 6 Die Generalversammlung fasst ihre Beschlüsse mit der Mehrheit der bei der Abstimmung vertretenen Mitgliedstaaten; in den Fällen des § 2 Buchstaben e), f), g), h), l) und p) sowie im Falle des Artikels 34 § 6 ist jedoch eine Mehrheit von zwei Dritteln erforderlich. Im Falle des § 2 Buchstabe l) ist eine Mehrheit von zwei Dritteln nur erforderlich, soweit es sich um Anträge auf Änderung des Übereinkommens selbst, mit Ausnahme der Artikel 9 und 27 §§ 2–10, sowie um Anträge auf Änderung des in Artikel 1 § 4 genannten Protokolls handelt.
 
-§ 7 Auf Einladung des Generalsekretärs, die im Einverständnis mit der Mehrheit der Mitgliedstaaten ausgesprochen wurde, können auch
-
 an den Tagungen der Generalversammlung mit beratender Stimme teilnehmen.
+
+§ 2 Die Generalversammlung:
 
 - a) gibt sich eine Geschäftsordnung;
 - b) bestimmt die Mitglieder des Verwaltungsausschusses sowie für jedes Mitglied ein Ersatzmitglied und bezeichnet den Mitgliedstaat, welcher den Vorsitz führt (Art. 15 §§ 1–3);
@@ -355,7 +353,9 @@ an den Tagungen der Generalversammlung mit beratender Stimme teilnehmen.
 - p) beschliesst über die Auflösung der Organisation und die allfällige Übertragung ihrer Aufgaben auf eine andere zwischenstaatliche Organisation (Art. 43);
 - q) entscheidet über sonstige Fragen, die auf die Tagesordnung gesetzt sind.
 
-- a) Staaten, die nicht Mitglied der Organisation sind,
+§ 7 Auf Einladung des Generalsekretärs, die im Einverständnis mit der Mehrheit der Mitgliedstaaten ausgesprochen wurde, können auch:
+
+- a) Staaten, die nicht Mitglied der Organisation sind;
 - b) internationale Organisationen und Verbände, die für Fragen, die die Tätigkeit der Organisation betreffen, zuständig sind oder die sich mit auf der Tagesordnung stehenden Fragen befassen,
 
 #### Art. 15
@@ -370,17 +370,15 @@ an den Tagungen der Generalversammlung mit beratender Stimme teilnehmen.
 
 § 4 Abgesehen vom Fall des § 3 darf ein Mitgliedstaat nicht mehr als zwei volle aufeinander folgende Amtszeiten dem Ausschuss angehören.
 
-§ 5 Der Ausschuss
-
 § 6 Der Ausschuss ist beschlussfähig, wenn zwei Drittel seiner Mitglieder vertreten sind. Ein Mitglied kann sich von einem anderen Mitglied vertreten lassen; ein Mitglied kann jedoch nicht mehr als ein anderes Mitglied vertreten.
 
 § 7 Der Ausschuss fasst seine Beschlüsse mit der Mehrheit der bei der Abstimmung vertretenen Mitglieder.
 
 § 8 Sofern er nichts anderes beschliesst, tritt der Ausschuss am Sitz der Organisation zusammen. Die Niederschriften der Tagungen werden allen Mitgliedstaaten zugestellt.
 
-§ 9 Der Vorsitzende des Ausschusses
-
 § 10 Der Ausschuss kann im Rahmen seiner eigenen Zuständigkeiten den Vorsitzenden beauftragen, bestimmte besondere Aufgaben auszuführen.
+
+§ 5 Der Ausschuss:
 
 - a) gibt sich eine Geschäftsordnung;
 - b) schliesst das Sitzabkommen;
@@ -401,6 +399,8 @@ an den Tagungen der Generalversammlung mit beratender Stimme teilnehmen.
 - q) entscheidet bei Streitigkeiten zwischen einem Mitgliedstaat und dem Generalsekretär hinsichtlich seiner Funktionen als Depositar (Art. 36 § 2);
 - r) entscheidet über Anträge auf Ruhen der Mitgliedschaft (Art. 40).
 
+§ 9 Der Vorsitzende des Ausschusses:
+
 - a) beruft den Ausschuss mindestens einmal im Jahr sowie auf Antrag entweder von vier seiner Mitglieder oder des Generalsekretärs ein;
 - b) übermittelt den Mitgliedern des Ausschusses den Entwurf der Tagesordnung;
 - c) behandelt in den Grenzen und unter den Bedingungen, die in der Geschäftsordnung des Ausschusses festgelegt sind, die dringlichen Fragen, die zwischen den Tagungen auftreten;
@@ -416,11 +416,7 @@ an den Tagungen der Generalversammlung mit beratender Stimme teilnehmen.
 
 § 3 Ein Mitgliedstaat kann sich von einem anderen Mitgliedstaat vertreten lassen, jedoch kann ein Staat nicht mehr als zwei andere Staaten vertreten.
 
-§ 4 Jeder vertretene Mitgliedstaat verfügt über eine Stimme. Ein Antrag ist angenommen, wenn die Zahl der Ja-Stimmen
-
 ist.
-
-§ 5 Auf Einladung des Generalsekretärs, die im Einverständnis mit der Mehrheit der Mitgliedstaaten ausgesprochen wurde, können auch
 
 an den Tagungen der Ausschüsse mit beratender Stimme teilnehmen.
 
@@ -434,20 +430,24 @@ an den Tagungen der Ausschüsse mit beratender Stimme teilnehmen.
 
 § 10 Die Ausschüsse geben sich eine Geschäftsordnung.
 
-- a) mindestens gleich einem Drittel der bei der Abstimmung vertretenen Mitgliedstaaten und
-- b) grösser als die Zahl der Nein-Stimmen
+§ 4 Jeder vertretene Mitgliedstaat verfügt über eine Stimme. Ein Antrag ist angenommen, wenn die Zahl der Ja-Stimmen:
 
-- a) Staaten, die nicht Mitglied der Organisation sind,
-- b) Mitgliedstaaten, die jedoch nicht Mitglied des jeweiligen Ausschusses sind,
+- a) mindestens gleich einem Drittel der bei der Abstimmung vertretenen Mitgliedstaaten; und
+- b) grösser als die Zahl der Nein-Stimmen,
+
+§ 5 Auf Einladung des Generalsekretärs, die im Einverständnis mit der Mehrheit der Mitgliedstaaten ausgesprochen wurde, können auch:
+
+- a) Staaten, die nicht Mitglied der Organisation sind;
+- b) Mitgliedstaaten, die jedoch nicht Mitglied des jeweiligen Ausschusses sind;
 - c) internationale Organisationen und Verbände, die für Fragen, die die Tätigkeit der Organisation betreffen, zuständig sind oder die sich mit auf der Tagesordnung stehenden Fragen befassen,
 
 #### Art. 17
 
 **Revisionsausschuss**
 
-§ 1 Der Revisionsausschuss
-
 § 2 Der Revisionsausschuss ist beschlussfähig (Art. 13 § 3), wenn die Mehrheit der Mitgliedstaaten vertreten ist.
+
+§ 1 Der Revisionsausschuss:
 
 - a) entscheidet gemäss Artikel 33 § 4 über Anträge auf Änderung des Übereinkommens;
 - b) prüft die Anträge, die gemäss Artikel 33 § 2 der Generalversammlung zur Entscheidung vorzulegen sind.
@@ -464,9 +464,9 @@ an den Tagungen der Ausschüsse mit beratender Stimme teilnehmen.
 
 **Ausschuss für Erleichterungen im Eisenbahnverkehr**
 
-§ 1 Der Ausschuss für Erleichterungen im Eisenbahnverkehr
-
 § 2 Der Ausschuss für Erleichterungen im Eisenbahnverkehr ist beschlussfähig (Art. 13 § 3), wenn ein Drittel der Mitgliedstaaten vertreten ist.
+
+§ 1 Der Ausschuss für Erleichterungen im Eisenbahnverkehr:
 
 - a) befasst sich mit allen Fragen der Erleichterung des Grenzübertritts im internationalen Eisenbahnverkehr;
 - b) empfiehlt Standards, Methoden, Verfahren und Praktiken betreffend Erleichterungen im internationalen Eisenbahnverkehr.
@@ -475,11 +475,11 @@ an den Tagungen der Ausschüsse mit beratender Stimme teilnehmen.
 
 **Fachausschuss für technische Fragen**
 
-§ 1 Der Fachausschuss für technische Fragen
-
 § 2 Der Fachausschuss für technische Fragen ist beschlussfähig (Art. 13 § 3), wenn die Hälfte der Mitgliedstaaten im Sinne des Artikels 16 § 1 vertreten ist. Bei der Beschlussfassung über Bestimmungen der Anlagen der Einheitlichen Rechtsvorschriften APTU haben Mitgliedstaaten, die den betreffenden Bestimmungen gemäss Artikel 35 § 4 widersprochen oder eine Erklärung gemäss Artikel 9 § 1 der Einheitlichen Rechtsvorschriften APTU abgegeben haben, kein Stimmrecht.
 
 § 3 Der Fachausschuss für technische Fragen kann entweder technische Normen für verbindlich erklären oder einheitliche technische Vorschriften annehmen, oder ihre Verbindlicherklärung oder Annahme ablehnen; er kann sie keinesfalls ändern.
+
+§ 1 Der Fachausschuss für technische Fragen:
 
 - a) entscheidet über die Verbindlicherklärung einer technischen Norm für Eisenbahnmaterial, das zur Verwendung im internationalen Verkehr bestimmt ist, gemäss Artikel 5 der Einheitlichen Rechtsvorschriften APTU;
 - b) entscheidet über die Annahme einer einheitlichen technischen Vorschrift für Bau, Betrieb, Instandhaltung oder für Verfahren betreffend Eisenbahnmaterial, das zur Verwendung im internationalen Verkehr bestimmt ist, gemäss Artikel 6 der Einheitlichen Rechtsvorschriften APTU;
@@ -495,9 +495,9 @@ an den Tagungen der Ausschüsse mit beratender Stimme teilnehmen.
 
 § 2 Der Generalsekretär wird für einen Zeitraum von drei Jahren von der Generalversammlung gewählt und ist höchstens zweimal wieder wählbar.
 
-§ 3 Der Generalsekretär hat insbesondere
-
 § 4 Der Generalsekretär kann von sich aus Anträge zur Änderung des Übereinkommens vorlegen.
+
+§ 3 Der Generalsekretär hat insbesondere:
 
 - a) die Aufgaben des Depositars zu erfüllen (Art. 36);
 - b) die Organisation nach aussen zu vertreten;
@@ -570,8 +570,6 @@ Die Rechte und Pflichten des Personals der Organisation ergeben sich aus dem vom
 
 § 3 Jeder Mitgliedstaat trägt mindestens 0,25 Prozent und höchstens 15 Prozent der Beiträge.
 
-§ 4 Der Verwaltungsausschuss legt fest, welche Aufgaben der Organisation
-
 § 3 gilt entsprechend. Artikel 4 § 3 bleibt unberührt.
 
 § 5 Die Beiträge der Mitgliedstaaten zu den Ausgaben der Organisation werden in Form einer Vorauszahlung in zwei Raten bis spätestens 31. Oktober eines jeden der beiden Jahre, die der Voranschlag umfasst, geschuldet. Die Höhe der Vorauszahlungen wird auf der Grundlage der für die beiden Vorjahre endgültig geschuldeten Beiträge festgesetzt.
@@ -592,6 +590,8 @@ Die Rechte und Pflichten des Personals der Organisation ergeben sich aus dem vom
 
 - a) Statt der gesamten Länge der Eisenbahninfrastruktur auf dem Gebiet dieses Mitgliedstaates wird nur die Länge der gemäss Artikel 24 § 2 eingetragenen Eisenbahnstrecken berücksichtigt;
 - b) der Teil des Beitrages nach dem Schlüssel der Vereinten Nationen wird nur anteilig im Verhältnis der Länge der gemäss Artikel 24 §§ 1 und 2 eingetragenen Linien oder Eisenbahnstrecken zur Gesamtlänge der Eisenbahninfrastruktur auf dem Gebiet dieses Mitgliedstaates, zuzüglich der Länge der gemäss Artikel 24 § 1 eingetragenen Linien, berechnet; in keinem Falle darf er weniger als 0,01 Prozent betragen.
+
+§ 4 Der Verwaltungsausschuss legt fest, welche Aufgaben der Organisation:
 
 - a) alle Mitgliedstaaten in gleicher Weise betreffen und welche Ausgaben von allen Mitgliedstaaten nach dem in § 1 genannten Schlüssel getragen werden;
 - b) nur einen Teil der Mitgliedstaaten betreffen und welche Ausgaben von diesen Mitgliedstaaten nach dem gleichen Schlüssel getragen werden.
@@ -628,13 +628,13 @@ Die Rechte und Pflichten des Personals der Organisation ergeben sich aus dem vom
 
 **Schiedsvertrag. Gerichtskanzlei**
 
-Die Parteien schliessen einen Schiedsvertrag, der insbesondere
-
 bestimmt. Der Schiedsvertrag muss dem Generalsekretär mitgeteilt werden, der die Aufgaben einer Gerichtskanzlei wahrnimmt.
 
-- a) den Streitgegenstand,
-- b) die Zusammensetzung des Gerichtes und die für die Ernennung des oder der Schiedsrichter vereinbarten Fristen und
-- c) den als Sitz des Gerichtes vereinbarten Ort
+Die Parteien schliessen einen Schiedsvertrag, der insbesondere:
+
+- a) den Streitgegenstand;
+- b) die Zusammensetzung des Gerichtes und die für die Ernennung des oder der Schiedsrichter vereinbarten Fristen; und
+- c) den als Sitz des Gerichtes vereinbarten Ort,
 
 #### Art. 30
 
@@ -683,13 +683,13 @@ bestimmt. Der Schiedsvertrag muss dem Generalsekretär mitgeteilt werden, der di
 
 § 3 Wird der Generalversammlung ein Antrag auf Änderung vorgelegt, so kann sie mit der in Artikel 14 § 6 vorgesehenen Mehrheit feststellen, dass ein solcher Antrag in unmittelbarem Zusammenhang mit einer oder mit mehreren Bestimmungen der Anhänge zum Übereinkommen steht. In diesem Fall sowie in den Fällen der §§ 4 bis 6, jeweils zweiter Satz, ist die Generalversammlung auch für die Entscheidung über die Änderung dieser Bestimmung oder dieser Bestimmungen der Anhänge zuständig.
 
-§ 4 Vorbehaltlich einer Feststellung der Generalversammlung gemäss § 3 erster Satz entscheidet der Revisionsausschuss über Anträge auf Änderung der
-
 Werden Anträge auf Änderung gemäss Buchstabe a) bis g) dem Revisionsausschuss vorgelegt, so kann ein Drittel der im Ausschuss vertretenen Staaten verlangen, dass diese Anträge der Generalversammlung zur Entscheidung vorgelegt werden.
 
 § 5 Der Fachausschuss RID entscheidet über Anträge auf Änderung der Ordnung für die internationale Eisenbahnbeförderung gefährlicher Güter (RID). Werden solche Anträge dem Fachausschuss RID vorgelegt, so kann ein Drittel der im Ausschuss vertretenen Staaten verlangen, dass diese Anträge der Generalversammlung zur Entscheidung vorgelegt werden.
 
 § 6 Der Fachausschuss für technische Fragen entscheidet über Anträge auf Änderung der Anlagen der Einheitlichen Rechtsvorschriften APTU. Werden solche Anträge dem Fachausschuss für technische Fragen vorgelegt, so kann ein Drittel der im Ausschuss vertretenen Staaten verlangen, dass diese Anträge der Generalversammlung zur Entscheidung vorgelegt werden.
+
+§ 4 Vorbehaltlich einer Feststellung der Generalversammlung gemäss § 3 erster Satz entscheidet der Revisionsausschuss über Anträge auf Änderung der:
 
 - a) Artikel 9 und 27 §§ 2 bis 10;
 - b) Einheitlichen Rechtsvorschriften CIV, ausgenommen Artikel 1, 2, 5, 6, 16, 26–39, 41–53 und 56–60;
@@ -731,12 +731,12 @@ Werden Anträge auf Änderung gemäss Buchstabe a) bis g) dem Revisionsausschuss
 
 § 5 Der Generalsekretär teilt Aussetzungen gemäss § 4 den Mitgliedstaaten mit; sie verlieren ihre Wirkung nach Ablauf eines Monats, gerechnet von dem Tag, an dem der Generalsekretär die Rücknahme eines solchen Widerspruches den übrigen Mitgliedstaaten mitgeteilt hat.
 
-§ 6 Bei der Ermittlung der Zahl der Widersprüche gemäss den §§ 2 und 4 werden Mitgliedstaaten
-
 nicht berücksichtigt.
 
-- a) ohne Stimmrecht (Art. 14 § 5, Art. 26 § 7 oder Art. 40 § 4),
-- b) die nicht Mitglied des betreffenden Ausschusses sind (Art. 16 § 1 zweiter Satz ),
+§ 6 Bei der Ermittlung der Zahl der Widersprüche gemäss den §§ 2 und 4 werden Mitgliedstaaten:
+
+- a) ohne Stimmrecht (Art. 14 § 5, Art. 26 § 7 oder Art. 40 § 4);
+- b) die nicht Mitglied des betreffenden Ausschusses sind (Art. 16 § 1 zweiter Satz);
 - c) die eine Erklärung gemäss Artikel 9 § 1 der Einheitlichen Rechtsvorschriften APTU abgegeben haben,
 
 ## Titel VII Schlussbestimmungen
@@ -797,7 +797,7 @@ nicht berücksichtigt.
 
 § 3 Das Ruhen der Mitgliedschaft tritt am ersten Tag des Monats in Kraft, der auf den Tag der Mitteilung des Generalsekretärs an die Mitgliedstaaten über die Entscheidung des Verwaltungsausschusses folgt. Das Ruhen der Mitgliedschaft endet mit der Mitteilung des Mitgliedstaates über die Wiederaufnahme des internationalen Eisenbahnverkehrs auf seinem Gebiet. Der Generalsekretär unterrichtet davon unverzüglich die übrigen Mitgliedstaaten.
 
-§ 4 Das Ruhen der Mitgliedschaft hat zur Folge, dass
+§ 4 Das Ruhen der Mitgliedschaft hat zur Folge, dass:
 
 - a) der Mitgliedstaat von der Verpflichtung, Beiträge zu den Ausgaben der Organisation zu entrichten, befreit ist;
 - b) das Stimmrecht in den Organen der Organisation ausgesetzt ist;
@@ -943,7 +943,7 @@ Die von der Organisation berufenen Sachverständigen geniessen während ihrer di
 
 § 1 Die in diesem Protokoll vorgesehenen Vorrechte und Immunitäten werden ausschliesslich gewährt, um unter allen Umständen die unbehinderte Ausübung der Tätigkeit der Organisation und die vollständige Unabhängigkeit der Personen, denen die Vorrechte und Immunitäten gewährt werden, sicherzustellen. Die zuständigen Behörden heben eine Immunität auf, wenn ihre Aufrechterhaltung verhindern würde, dass der Gerechtigkeit Genüge geschieht, und wenn sie ohne Beeinträchtigung der Zielsetzungen, für die sie gewährt worden ist, aufgehoben werden kann.
 
-§ 2 Zuständig für Zwecke des § 1 sind
+§ 2 Zuständig für Zwecke des § 1 sind:
 
 - a) die Mitgliedstaaten für ihre Vertreter;
 - b) der Verwaltungsausschuss für den Generalsekretär;
@@ -961,13 +961,13 @@ Die von der Organisation berufenen Sachverständigen geniessen während ihrer di
 
 **Behandlung eigener Staatsangehöriger**
 
-Ein Mitgliedstaat ist nicht verpflichtet, seinen eigenen Staatsangehörigen oder Personen, die ihren ständigen Aufenthalt in diesem Staat haben, die Vorrechte und Immunitäten gemäss
-
 zu gewähren.
 
-- a) Artikel 8, ausgenommen Buchstabe d),
-- b) Artikel 9, ausgenommen Buchstabe a), b) und d),
-- c) Artikel 10, ausgenommen Buchstabe a) und b)
+Ein Mitgliedstaat ist nicht verpflichtet, seinen eigenen Staatsangehörigen oder Personen, die ihren ständigen Aufenthalt in diesem Staat haben, die Vorrechte und Immunitäten gemäss:
+
+- a) Artikel 8, ausgenommen Buchstabe d);
+- b) Artikel 9, ausgenommen Buchstabe a), b) und d);
+- c) Artikel 10, ausgenommen Buchstabe a) und b),
 
 #### Art. 14
 
@@ -997,11 +997,11 @@ Anhang A zum Übereinkommen
 
 § 5 Diese Einheitlichen Rechtsvorschriften finden keine Anwendung auf Beförderungen zwischen Bahnhöfen auf dem Gebiet von Nachbarstaaten, wenn die Infrastruktur dieser Bahnhöfe von einem oder mehreren Infrastrukturbetreibern, die einem einzigen dieser Staaten zugehören, betrieben wird.
 
-§ 6 Jeder Staat, der Vertragspartei eines anderen mit diesen Einheitlichen Rechtsvorschriften vergleichbaren Übereinkommens über die durchgehende internationale Beförderung von Personen auf der Schiene ist und der einen Antrag auf Beitritt zum Übereinkommen stellt, kann sich dabei vorbehalten, diese Einheitlichen Rechtsvorschriften nur auf Beförderungen auf einem Teil der in seinem Gebiet gelegenen Eisenbahninfrastruktur anzuwenden. Dieser Teil der Eisenbahninfrastruktur muss genau bezeichnet sein und an eine Eisenbahninfrastruktur eines Mitgliedstaates anschliessen. Hat ein Staat einen solchen Vorbehalt eingelegt, so gelten diese Einheitlichen Rechtsvorschriften nur,
-
 § 7 Der Staat, der einen Vorbehalt gemäss § 6 eingelegt hat, kann ihn jederzeit durch Mitteilung an den Depositar zurücknehmen. Die Rücknahme wird einen Monat nach dem Tag wirksam, an dem der Depositar die Mitgliedstaaten darüber unterrichtet hat. Der Vorbehalt wird wirkungslos, wenn das in § 6 erster Satz genannte Übereinkommen für diesen Staat ausser Kraft tritt.
 
-- a) wenn der im Beförderungsvertrag vorgesehene Abgangs- oder Bestimmungsort sowie der vorgesehene Beförderungsweg zur bezeichneten Eisenbahninfrastruktur gehören oder
+§ 6 Jeder Staat, der Vertragspartei eines anderen mit diesen Einheitlichen Rechtsvorschriften vergleichbaren Übereinkommens über die durchgehende internationale Beförderung von Personen auf der Schiene ist und der einen Antrag auf Beitritt zum Übereinkommen stellt, kann sich dabei vorbehalten, diese Einheitlichen Rechtsvorschriften nur auf Beförderungen auf einem Teil der in seinem Gebiet gelegenen Eisenbahninfrastruktur anzuwenden. Dieser Teil der Eisenbahninfrastruktur muss genau bezeichnet sein und an eine Eisenbahninfrastruktur eines Mitgliedstaates anschliessen. Hat ein Staat einen solchen Vorbehalt eingelegt, so gelten diese Einheitlichen Rechtsvorschriften nur:
+
+- a) wenn der im Beförderungsvertrag vorgesehene Abgangs- oder Bestimmungsort sowie der vorgesehene Beförderungsweg zur bezeichneten Eisenbahninfrastruktur gehören; oder
 - b) wenn die bezeichnete Eisenbahninfrastruktur die Eisenbahninfrastruktur zweier Mitgliedstaaten verbindet und sie im Beförderungsvertrag als Beförderungsweg für einen Transitverkehr vereinbart wurde.
 
 #### Art. 2
@@ -1016,7 +1016,7 @@ Anhang A zum Übereinkommen
 
 **Begriffsbestimmungen**
 
-Für Zwecke dieser Einheitlichen Rechtsvorschriften bezeichnet der Ausdruck
+Für Zwecke dieser Einheitlichen Rechtsvorschriften bezeichnet der Ausdruck:
 
 - a) «Beförderer» den vertraglichen Beförderer, mit dem der Reisende den Beförderungsvertrag gemäss diesen Einheitlichen Rechtsvorschriften geschlossen hat, oder einen aufeinander folgenden Beförderer, der auf der Grundlage dieses Vertrages haftet;
 - b) «ausführender Beförderer» einen Beförderer, der mit dem Reisenden den Beförderungsvertrag nicht geschlossen hat, dem aber der Beförderer gemäss Buchstabe a) die Durchführung der Beförderung auf der Schiene ganz oder teilweise übertragen hat;
@@ -1083,17 +1083,17 @@ Soweit diese Einheitlichen Rechtsvorschriften es nicht ausdrücklich zulassen, i
 
 **Berechtigung zur Fahrt. Ausschluss von der Beförderung**
 
-§ 1 Der Reisende muss vom Beginn der Reise an mit einem gültigen Beförderungsausweis versehen sein und ihn bei der Prüfung der Beförderungsausweise vorzeigen. Die Allgemeinen Beförderungsbedingungen können vorsehen,
-
-§ 2 Die Allgemeinen Beförderungsbedingungen können vorsehen, dass Reisende, die
-
 von der Beförderung ausgeschlossen sind oder unterwegs davon ausgeschlossen werden können, und dass diese Personen keinen Anspruch auf Erstattung des Beförderungspreises und der Gepäckfracht haben.
+
+§ 1 Der Reisende muss vom Beginn der Reise an mit einem gültigen Beförderungsausweis versehen sein und ihn bei der Prüfung der Beförderungsausweise vorzeigen. Die Allgemeinen Beförderungsbedingungen können vorsehen:
 
 - a) dass ein Reisender, der keinen gültigen Beförderungsausweis vorzeigt, ausser dem Beförderungspreis einen Zuschlag zu zahlen hat;
 - b) dass ein Reisender, der die sofortige Zahlung des Beförderungspreises oder des Zuschlages verweigert, von der Beförderung ausgeschlossen werden kann;
 - c) ob und unter welchen Bedingungen ein Zuschlag zu erstatten ist.
 
-- a) eine Gefahr für die Sicherheit und Ordnung des Betriebes oder für die Sicherheit der Mitreisenden darstellen,
+§ 2 Die Allgemeinen Beförderungsbedingungen können vorsehen, dass Reisende, die:
+
+- a) eine Gefahr für die Sicherheit und Ordnung des Betriebes oder für die Sicherheit der Mitreisenden darstellen;
 - b) die Mitreisenden in unzumutbarer Weise belästigen,
 
 #### Art. 10
@@ -1196,7 +1196,7 @@ Ist zwischen dem Reisenden und dem Beförderer nichts anderes vereinbart, ist di
 
 Der Reisende hat auf jedem Gepäckstück, an gut sichtbarer Stelle, haltbar und deutlich anzugeben:
 
-- a) seinen Namen und seine Anschrift,
+- a) seinen Namen und seine Anschrift;
 - b) den Bestimmungsort.
 
 #### Art. 21
@@ -1213,8 +1213,6 @@ Der Reisende hat auf jedem Gepäckstück, an gut sichtbarer Stelle, haltbar und 
 
 § 1 Das Reisegepäck wird gegen Rückgabe des Gepäckscheins und gegen Zahlung der gegebenenfalls die Sendung belastenden Kosten ausgeliefert. Der Beförderer ist berechtigt, aber nicht verpflichtet nachzuprüfen, ob der Inhaber des Gepäckscheins berechtigt ist, das Reisegepäck in Empfang zu nehmen.
 
-§ 2 Der Auslieferung an den Inhaber des Gepäckscheins stehen gleich eine gemäss den am Bestimmungsort geltenden Vorschriften erfolgte
-
 § 3 Der Inhaber des Gepäckscheins kann am Bestimmungsort die Auslieferung des Reisegepäcks verlangen, sobald die vereinbarte und die gegebenenfalls zur Abfertigung durch die Zoll- oder sonstigen Verwaltungsbehörden erforderliche Zeit abgelaufen ist.
 
 § 4 Wird der Gepäckschein nicht zurückgegeben, so braucht der Beförderer das Reisegepäck nur demjenigen auszuliefern, der seine Berechtigung nachweist; bei unzureichendem Nachweis kann der Beförderer eine Sicherheitsleistung verlangen.
@@ -1227,7 +1225,9 @@ Der Reisende hat auf jedem Gepäckstück, an gut sichtbarer Stelle, haltbar und 
 
 § 8 Im Übrigen erfolgt die Auslieferung des Reisegepäcks gemäss den am Bestimmungsort geltenden Vorschriften.
 
-- a) Übergabe des Reisegepäcks an die Zoll- oder Steuerverwaltung in deren Abfertigungs- oder Lagerräumen, wenn diese nicht unter der Obhut des Beförderers stehen,
+§ 2 Der Auslieferung an den Inhaber des Gepäckscheins stehen gleich eine gemäss den am Bestimmungsort geltenden Vorschriften erfolgte:
+
+- a) Übergabe des Reisegepäcks an die Zoll- oder Steuerverwaltung in deren Abfertigungs- oder Lagerräumen, wenn diese nicht unter der Obhut des Beförderers stehen;
 - b) Übergabe von lebenden Tieren an einen Dritten zur Verwahrung.
 
 ### Kapitel IV Fahrzeuge
@@ -1270,13 +1270,13 @@ Vorbehaltlich der Bestimmungen dieses Kapitels gelten für Fahrzeuge die Bestimm
 
 § 1 Der Beförderer haftet für den Schaden, der dadurch entsteht, dass der Reisende durch einen Unfall im Zusammenhang mit dem Eisenbahnbetrieb während seines Aufenthaltes in den Eisenbahnwagen oder beim Ein- oder Aussteigen getötet, verletzt oder sonst in seiner körperlichen oder in seiner geistigen Gesundheit beeinträchtigt wird, unabhängig davon, welche Eisenbahninfrastruktur benutzt wird.
 
-§ 2 Der Beförderer ist von dieser Haftung befreit,
-
 § 3 Ist der Unfall auf das Verhalten eines Dritten zurückzuführen und ist der Beförderer gleichwohl von seiner Haftung nicht gemäss § 2 Buchstaben c) ganz befreit, so haftet er unter den Beschränkungen dieser Einheitlichen Rechtsvorschriften voll, unbeschadet eines etwaigen Rückgriffsrechtes gegen den Dritten.
 
 § 4 Eine etwaige Haftung des Beförderers in den in § 1 nicht vorgesehenen Fällen wird durch diese Einheitlichen Rechtsvorschriften nicht berührt.
 
 § 5 Wird eine Beförderung, die Gegenstand eines einzigen Beförderungsvertrages ist, von aufeinander folgenden Beförderern ausgeführt, so haftet bei Tötung und Verletzung von Reisenden derjenige Beförderer, der die Beförderungsleistung, bei der sich der Unfall ereignet hat, gemäss Beförderungsvertrag zu erbringen hatte. Wurde diese Beförderungsleistung nicht vom Beförderer, sondern von einem ausführenden Beförderer erbracht, haften beide als Gesamtschuldner nach diesen Einheitlichen Rechtsvorschriften.
+
+§ 2 Der Beförderer ist von dieser Haftung befreit:
 
 - a) wenn der Unfall durch ausserhalb des Eisenbahnbetriebes liegende Umstände verursacht worden ist und der Beförderer diese Umstände trotz Anwendung der nach Lage des Falles gebotenen Sorgfalt nicht vermeiden und deren Folgen nicht abwenden konnte;
 - b) soweit der Unfall auf ein Verschulden des Reisenden zurückzuführen ist;
@@ -1338,8 +1338,8 @@ Ob und inwieweit der Beförderer bei Personenschäden für andere als die in Art
 
 § 2 Der Beförderer ist von dieser Haftung befreit, wenn der Ausfall, die Verspätung oder das Anschlussversäumnis auf eine der folgenden Ursachen zurückzuführen ist:
 
-- a) ausserhalb des Eisenbahnbetriebes liegende Umstände, die der Beförderer trotz Anwendung der nach Lage des Falles gebotenen Sorgfalt nicht vermeiden und deren Folgen er nicht abwenden konnte,
-- b) Verschulden des Reisenden oder
+- a) ausserhalb des Eisenbahnbetriebes liegende Umstände, die der Beförderer trotz Anwendung der nach Lage des Falles gebotenen Sorgfalt nicht vermeiden und deren Folgen er nicht abwenden konnte;
+- b) Verschulden des Reisenden; oder
 - c) Verhalten eines Dritten, das der Beförderer trotz Anwendung der nach Lage des Falles gebotenen Sorgfalt nicht vermeiden und dessen Folgen er nicht abwenden konnte; ein anderes Unternehmen, das dieselbe Eisenbahninfrastruktur benutzt, gilt nicht als Dritter; Rückgriffsrechte bleiben unberührt.
 
 ### Kapitel III Haftung für Handgepäck, Tiere, Reisegepäck und Fahrzeuge
@@ -1443,7 +1443,7 @@ Die Art der Entschädigung, je fehlendes Kilogramm oder je Gepäckstück, wird i
 
 § 1 Bei Beschädigung des Reisegepäcks hat der Beförderer ohne weiteren Schadenersatz eine Entschädigung zu zahlen, die der Wertminderung des Reisegepäcks entspricht.
 
-§ 2 Die Entschädigung übersteigt nicht,
+§ 2 Die Entschädigung übersteigt nicht:
 
 - a) wenn das gesamte Reisegepäck durch die Beschädigung entwertet ist, den Betrag, der bei gänzlichem Verlust zu zahlen wäre;
 - b) wenn nur ein Teil des Reisegepäcks durch die Beschädigung entwertet ist, den Betrag, der bei Verlust des entwerteten Teiles zu zahlen wäre.
@@ -1545,14 +1545,17 @@ Der Beförderer haftet für seine Bediensteten und für andere Personen, deren e
 
 **Besondere Haftungsgründe**
 
-Der Reisende haftet dem Beförderer für jeden Schaden,
-
 sofern er nicht beweist, dass der Schaden auf Umstände zurückzuführen ist, die er trotz Anwendung der von einem gewissenhaften Reisenden geforderten Sorgfalt nicht vermeiden und deren Folgen er nicht abwenden konnte. Diese Bestimmung berührt nicht die Haftung des Beförderers nach Artikel 26 und 33 § 1.
 
-- a) der dadurch entsteht, dass er seinen Verpflichtungen nicht nachgekommen ist, die sich für ihn
+Der Reisende haftet dem Beförderer für jeden Schaden:
+
+- a)
+
+  der dadurch entsteht, dass er seinen Verpflichtungen nicht nachgekommen ist, die sich für ihn:
+
   - 1\. aus Artikel 10, 14 und 20,
-  - 2\. aus den besonderen Bestimmungen über die Beförderung von Fahrzeugen in den Allgemeinen Beförderungsbedingungen oder
-  - 3\. aus der Ordnung für die internationale Eisenbahnbeförderung gefährlicher Güter (RID)
+  - 2\. aus den besonderen Bestimmungen über die Beförderung von Fahrzeugen in den Allgemeinen Beförderungsbedingungen, oder
+  - 3\. aus der Ordnung für die internationale Eisenbahnbeförderung gefährlicher Güter (RID),
   - [tab] ergeben, oder
 
 - b) der durch Gegenstände oder Tiere verursacht wird, die er mitnimmt,
@@ -1611,7 +1614,7 @@ sofern er nicht beweist, dass der Schaden auf Umstände zurückzuführen ist, di
 
 § 1 Alle Ansprüche des Berechtigten auf Grund der Haftung des Beförderers bei Tötung und Verletzung von Reisenden sind erloschen, wenn er den Unfall des Reisenden nicht spätestens zwölf Monate, nachdem er vom Schaden Kenntnis erlangt hat, einem der Beförderer anzeigt, bei denen die Reklamation gemäss Artikel 55 § 1 eingereicht werden kann. Zeigt der Berechtigte dem Beförderer den Unfall mündlich an, so hat dieser ihm über die mündliche Anzeige eine Bestätigung auszustellen.
 
-§ 2 Die Ansprüche erlöschen jedoch nicht, wenn
+§ 2 Die Ansprüche erlöschen jedoch nicht, wenn:
 
 - a) der Berechtigte innerhalb der in § 1 vorgesehenen Frist eine Reklamation an einen der in Artikel 55 § 1 genannten Beförderer gerichtet hat;
 - b) der haftbare Beförderer innerhalb der in § 1 vorgesehenen Frist auf andere Weise vom Unfall des Reisenden Kenntnis erhalten hat;
@@ -1626,12 +1629,18 @@ sofern er nicht beweist, dass der Schaden auf Umstände zurückzuführen ist, di
 
 § 2 Die Ansprüche erlöschen jedoch nicht:
 
-- a) bei teilweisem Verlust oder bei Beschädigung, wenn
+- a)
+
+  bei teilweisem Verlust oder bei Beschädigung, wenn:
+
   - 1\. der Verlust oder die Beschädigung vor der Annahme des Reisegepäcks durch den Berechtigten gemäss Artikel 54 festgestellt worden ist,
   - 2\. die Feststellung, die gemäss Artikel 54 hätte erfolgen müssen, nur durch Verschulden des Beförderers unterblieben ist;
 
-- b) bei äusserlich nicht erkennbarem Schaden, der erst nach der Annahme des Reisegepäcks durch den Berechtigten festgestellt worden ist, wenn er
-  - 1\. die Feststellung gemäss Artikel 54 sofort nach der Entdeckung des Schadens und spätestens drei Tage nach der Annahme des Reisegepäcks verlangt und
+- b)
+
+  bei äusserlich nicht erkennbarem Schaden, der erst nach der Annahme des Reisegepäcks durch den Berechtigten festgestellt worden ist, wenn er:
+
+  - 1\. die Feststellung gemäss Artikel 54 sofort nach der Entdeckung des Schadens und spätestens drei Tage nach der Annahme des Reisegepäcks verlangt, und
   - 2\. ausserdem beweist, dass der Schaden in der Zeit zwischen der Übernahme durch den Beförderer und der Auslieferung entstanden ist;
 
 - c) bei verspäteter Auslieferung, wenn der Berechtigte binnen 21 Tagen seine Rechte gegen einen der in Artikel 56 § 3 genannten Beförderer geltend gemacht hat;
@@ -1642,8 +1651,6 @@ sofern er nicht beweist, dass der Schaden auf Umstände zurückzuführen ist, di
 **Verjährung**
 
 § 2 Andere Ansprüche aus dem Beförderungsvertrag verjähren in einem Jahr. Die Verjährungsfrist beträgt jedoch zwei Jahre bei Ansprüchen wegen eines Schadens, der auf eine Handlung oder Unterlassung zurückzuführen ist, die entweder in der Absicht, einen solchen Schaden herbeizuführen, oder leichtfertig und in dem Bewusstsein begangen wurde, dass ein solcher Schaden mit Wahrscheinlichkeit eintreten werde.
-
-§ 3 Die Verjährung gemäss § 2 beginnt bei Ansprüchen
 
 Der als Beginn der Verjährung bezeichnete Tag ist in keinem Fall in der Frist inbegriffen.
 
@@ -1657,6 +1664,8 @@ Der als Beginn der Verjährung bezeichnete Tag ist in keinem Fall in der Frist i
 
 - a) Ansprüche des Reisenden in drei Jahren, gerechnet vom ersten Tag nach dem Unfall;
 - b) Ansprüche der anderen Berechtigten in drei Jahren, gerechnet vom ersten Tag nach dem Tod des Reisenden, spätestens aber in fünf Jahren, gerechnet vom ersten Tag nach dem Unfall.
+
+§ 3 Die Verjährung gemäss § 2 beginnt bei Ansprüchen:
 
 - a) auf Entschädigung wegen gänzlichen Verlustes mit dem vierzehnten Tag nach Ablauf der Frist gemäss Artikel 22 § 3;
 - b) auf Entschädigung wegen teilweisen Verlustes, Beschädigung oder verspäteter Auslieferung mit dem Tag der Auslieferung;
@@ -1706,7 +1715,7 @@ Der als Beginn der Verjährung bezeichnete Tag ist in keinem Fall in der Frist i
 
 Den Beförderern steht es frei, untereinander Vereinbarungen zu treffen, die von den Artikeln 61 und 62 abweichen.
 
-Anhang B zum Übereinkommen*[^t-2]*
+Anhang B zum Übereinkommen[^t-2]
 
 ## Einheitliche Rechtsvorschriften für den Vertrag über die internationale Eisenbahnbeförderung von Gütern
 
@@ -1730,11 +1739,11 @@ Anhang B zum Übereinkommen*[^t-2]*
 
 § 5 Diese Einheitlichen Rechtsvorschriften finden keine Anwendung auf Beförderungen zwischen Bahnhöfen auf dem Gebiet von Nachbarstaaten, wenn die Infrastruktur dieser Bahnhöfe von einem oder mehreren Infrastrukturbetreibern, die einem einzigen dieser Staaten zugehören, betrieben wird.
 
-§ 6 Jeder Staat, der Vertragspartei eines anderen mit diesen Einheitlichen Rechtsvorschriften vergleichbaren Übereinkommens über die durchgehende internationale Beförderung von Gütern auf der Schiene ist und der einen Antrag auf Beitritt zum Übereinkommen stellt, kann sich dabei vorbehalten, diese Einheitlichen Rechtsvorschriften nur auf Beförderungen auf einem Teil der in seinem Gebiet gelegenen Eisenbahninfrastruktur anzuwenden. Dieser Teil der Eisenbahninfrastruktur muss genau bezeichnet sein und an eine Eisenbahninfrastruktur eines Mitgliedstaates anschliessen. Hat ein Staat einen solchen Vorbehalt eingelegt, so gelten diese Einheitlichen Rechtsvorschriften nur,
-
 § 7 Der Staat, der einen Vorbehalt gemäss § 6 eingelegt hat, kann ihn jederzeit durch Mitteilung an den Depositar zurücknehmen. Die Rücknahme wird einen Monat nach dem Tag wirksam, an dem der Depositar die Mitgliedstaaten darüber unterrichtet hat. Der Vorbehalt wird wirkungslos, wenn das in § 6 Satz 1 genannte Übereinkommen für diesen Staat ausser Kraft tritt.
 
-- a) wenn der im Beförderungsvertrag vorgesehene Ort der Übernahme des Gutes zur Beförderung oder der für die Ablieferung vorgesehene Ort sowie der vorgesehene Beförderungsweg zur bezeichneten Eisenbahninfrastruktur gehören, oder
+§ 6 Jeder Staat, der Vertragspartei eines anderen mit diesen Einheitlichen Rechtsvorschriften vergleichbaren Übereinkommens über die durchgehende internationale Beförderung von Gütern auf der Schiene ist und der einen Antrag auf Beitritt zum Übereinkommen stellt, kann sich dabei vorbehalten, diese Einheitlichen Rechtsvorschriften nur auf Beförderungen auf einem Teil der in seinem Gebiet gelegenen Eisenbahninfrastruktur anzuwenden. Dieser Teil der Eisenbahninfrastruktur muss genau bezeichnet sein und an eine Eisenbahninfrastruktur eines Mitgliedstaates anschliessen. Hat ein Staat einen solchen Vorbehalt eingelegt, so gelten diese Einheitlichen Rechtsvorschriften nur:
+
+- a) wenn der im Beförderungsvertrag vorgesehene Ort der Übernahme des Gutes zur Beförderung oder der für die Ablieferung vorgesehene Ort sowie der vorgesehene Beförderungsweg zur bezeichneten Eisenbahninfrastruktur gehören; oder
 - b) wenn die bezeichnete Eisenbahninfrastruktur die Eisenbahninfrastruktur zweier Mitgliedstaaten verbindet und sie im Beförderungsvertrag als Beförderungsweg für einen Transitverkehr vereinbart wurde.
 
 #### Art. 2
@@ -1747,7 +1756,7 @@ Beförderungen, auf die diese Einheitlichen Rechtsvorschriften Anwendung finden,
 
 **Begriffsbestimmungen**
 
-Für Zwecke dieser Einheitlichen Rechtsvorschriften bezeichnet der Ausdruck
+Für Zwecke dieser Einheitlichen Rechtsvorschriften bezeichnet der Ausdruck:
 
 - a) «Beförderer» den vertraglichen Beförderer, mit dem der Absender den Beförderungsvertrag gemäss diesen Einheitlichen Rechtsvorschriften geschlossen hat, oder einen aufeinanderfolgenden Beförderer, der auf der Grundlage dieses Vertrages haftet;
 - b) «ausführender Beförderer» einen Beförderer, der mit dem Absender den Beförderungsvertrag nicht geschlossen hat, dem aber der Beförderer gemäss Buchstabe a) die Durchführung der Beförderung auf der Schiene ganz oder teilweise übertragen hat;
@@ -1834,13 +1843,13 @@ Soweit diese Einheitlichen Rechtsvorschriften es nicht ausdrücklich zulassen, i
 
 **Haftung für die Angaben im Frachtbrief**
 
-§ 1 Der Absender haftet für alle Kosten und Schäden, die dem Beförderer dadurch entstehen, dass
-
 § 2 Trägt der Beförderer auf Verlangen des Absenders Angaben in den Frachtbrief ein, wird bis zum Beweis des Gegenteils vermutet, dass der Beförderer hierbei im Namen des Absenders gehandelt hat.
 
 § 3 Enthält der Frachtbrief die in Artikel 7 § 1 Buchstabe p) bezeichnete Angabe nicht, so haftet der Beförderer für alle Kosten und Schäden, die dem Verfügungsberechtigten infolge dieser Unterlassung entstehen.
 
-- a) die Angaben des Absenders im Frachtbrief unrichtig, ungenau oder unvollständig sind oder nicht an der für sie vorgesehenen Stelle stehen, oder
+§ 1 Der Absender haftet für alle Kosten und Schäden, die dem Beförderer dadurch entstehen, dass:
+
+- a) die Angaben des Absenders im Frachtbrief unrichtig, ungenau oder unvollständig sind oder nicht an der für sie vorgesehenen Stelle stehen; oder
 - b) der Absender die im RID vorgeschriebenen Angaben unterlassen hat.
 
 #### Art. 9
@@ -1903,8 +1912,6 @@ Der Absender haftet dem Beförderer für alle durch das Fehlen oder die Mangelha
 
 § 3 Der Beförderer haftet für die Folgen des Verlustes oder der unrichtigen Verwendung der im Frachtbrief bezeichneten und diesem beigegebenen oder dem Beförderer ausgehändigten Urkunden, es sei denn, dass der Verlust oder der durch die unrichtige Verwendung dieser Urkunden verursachte Schaden auf Umständen beruht, die der Beförderer nicht vermeiden und deren Folgen er nicht abwenden konnte. Er hat jedoch keinen höheren Schadenersatz zu leisten als bei Verlust des Gutes.
 
-§ 4 Der Absender kann durch einen Vermerk im Frachtbrief oder der Empfänger durch eine Verfügung gemäss Artikel 18 § 3 verlangen,
-
 In diesen Fällen dürfen weder der Absender noch der verfügungsberechtigte Empfänger, noch ihr Beauftragter das Gut in Besitz nehmen.
 
 § 5 Hat der Absender für die Erfüllung der zoll‑ oder sonstigen verwaltungsbehördlichen Vorschriften einen Ort bezeichnet, an dem dies wegen der geltenden Vorschriften nicht möglich ist, oder hat er dafür ein anderes Verfahren vorgeschrieben, das nicht ausführbar ist, so handelt der Beförderer so, wie es ihm für den Berechtigten am vorteilhaftesten zu sein scheint, und teilt dem Absender die getroffenen Massnahmen mit.
@@ -1914,6 +1921,8 @@ In diesen Fällen dürfen weder der Absender noch der verfügungsberechtigte Emp
 § 7 Löst der Empfänger den Frachtbrief nicht innerhalb der Frist ein, die in den am Bestimmungsort geltenden Vorschriften vorgesehen ist, so kann der Beförderer gemäss § 5 verfahren.
 
 § 8 Der Absender hat für eine den zoll- oder sonstigen verwaltungsbehördlichen Vorschriften entsprechende Verpackung und Bedeckung der Güter zu sorgen. Hat der Absender die Güter nicht gemäss diesen Vorschriften verpackt oder bedeckt, so kann der Beförderer dies besorgen; die entstandenen Kosten belasten das Gut.
+
+§ 4 Der Absender kann durch einen Vermerk im Frachtbrief oder der Empfänger durch eine Verfügung gemäss Artikel 18 § 3 verlangen:
 
 - a) dass er selbst oder sein Beauftragter der Erfüllung der zoll- oder sonstigen verwaltungsbehördlichen Vorschriften beiwohnt, um alle Auskünfte zu geben und sachdienliche Erklärungen vorzubringen;
 - b) dass er selbst oder sein Beauftragter die Erfüllung der zoll- oder sonstigen verwaltungsbehördlichen Vorschriften betreibt, soweit die Gesetze und Vorschriften des Staates, in dem sie vorgenommen wird, es zulassen;
@@ -1943,7 +1952,10 @@ Die Dauer der Zuschlagsfristen muss aus den Allgemeinen Beförderungsbedingungen
 
 § 3 Der Beförderer kann Zuschlagsfristen von bestimmter Dauer für folgende Fälle festsetzen:
 
-- a) Sendungen, die
+- a)
+
+  Sendungen, die:
+
   - – über Linien mit unterschiedlicher Spurweite,
   - – zur See oder auf Binnengewässern,
   - – auf einer Strasse, wenn keine Schienenverbindung besteht,
@@ -1957,8 +1969,6 @@ Die Dauer der Zuschlagsfristen muss aus den Allgemeinen Beförderungsbedingungen
 
 § 1 Der Beförderer hat dem Empfänger an dem für die Ablieferung vorgesehenen Ort gegen Empfangsbescheinigung und gegen Zahlung der sich aus dem Beförderungsvertrag ergebenden Forderungen den Frachtbrief zu übergeben und das Gut abzuliefern.
 
-§ 2 Eine gemäss den am Ort der Ablieferung geltenden Vorschriften erfolgte
-
 steht der Ablieferung an den Empfänger gleich.
 
 § 3 Nach Ankunft des Gutes am Ort der Ablieferung kann der Empfänger vom Beförderer die Übergabe des Frachtbriefes und die Ablieferung des Gutes verlangen. Ist der Verlust des Gutes festgestellt oder ist das Gut innerhalb der in Artikel 29 § 1 vorgesehenen Frist nicht angekommen, so kann der Empfänger seine Rechte aus dem Beförderungsvertrag im eigenen Namen gegen den Beförderer geltend machen.
@@ -1969,32 +1979,34 @@ steht der Ablieferung an den Empfänger gleich.
 
 § 6 Ist das Gut dem Empfänger ohne vorherige Einziehung einer das Gut belastenden Nachnahme abgeliefert worden, so hat der Beförderer dem Absender den Schaden bis zum Betrag der Nachnahme zu ersetzen, vorbehaltlich seines Rückgriffes gegen den Empfänger.
 
+§ 2 Eine gemäss den am Ort der Ablieferung geltenden Vorschriften erfolgte:
+
 - a) Übergabe des Gutes an die Zoll‑ oder Steuerverwaltung in deren Abfertigungs‑ oder Lagerräumen, wenn diese nicht unter der Obhut des Beförderers stehen;
-- b) Einlagerung des Gutes beim Beförderer oder seine Hinterlegung bei einem Spediteur oder in einem öffentlichen Lagerhaus
+- b) Einlagerung des Gutes beim Beförderer oder seine Hinterlegung bei einem Spediteur oder in einem öffentlichen Lagerhaus,
 
 #### Art. 18
 
 **Verfügungsrecht über das Gut**
 
-§ 1 Der Absender ist berechtigt, über das Gut zu verfügen und den Beförderungsvertrag nachträglich zu ändern. Er kann insbesondere verlangen, dass der Beförderer
-
-§ 2 Das Recht des Absenders zur Änderung des Beförderungsvertrages erlischt, auch wenn er das Frachtbriefdoppel besitzt, in den Fällen, in denen der Empfänger
-
 § 3 Das Recht zur Änderung des Beförderungsvertrages steht vorbehaltlich eines gegenteiligen Vermerks des Absenders im Frachtbrief dem Empfänger bereits von der Ausstellung des Frachtbriefes an zu.
 
-§ 4 Das Recht des Empfängers zur Änderung des Beförderungsvertrages erlischt, wenn er
-
 § 5 Hat der Empfänger vorgeschrieben, dass das Gut an einen Dritten abzuliefern ist, so ist dieser nicht berechtigt, den Beförderungsvertrag zu ändern.
+
+§ 1 Der Absender ist berechtigt, über das Gut zu verfügen und den Beförderungsvertrag nachträglich zu ändern. Er kann insbesondere verlangen, dass der Beförderer:
 
 - a) das Gut nicht weiterbefördert;
 - b) die Ablieferung des Gutes aussetzt;
 - c) das Gut an einen anderenals den im Frachtbrief angegebenen Empfänger abliefert;
 - d) das Gut an einem anderen als dem im Frachtbrief angegebenen Ort abliefert.
 
+§ 2 Das Recht des Absenders zur Änderung des Beförderungsvertrages erlischt, auch wenn er das Frachtbriefdoppel besitzt, in den Fällen, in denen der Empfänger:
+
 - a) den Frachtbrief eingelöst hat;
 - b) das Gut angenommen hat;
 - c) seine Rechte gemäss Artikel 17 § 3 geltend gemacht hat;
 - d) gemäss § 3 verfügungsberechtigt ist; von diesem Zeitpunkt an hat der Beförderer die Verfügungen und die Anweisungen des Empfängers zu befolgen.
+
+§ 4 Das Recht des Empfängers zur Änderung des Beförderungsvertrages erlischt, wenn er:
 
 - a) den Frachtbrief eingelöst hat;
 - b) das Gut angenommen hat;
@@ -2043,8 +2055,6 @@ steht der Ablieferung an den Empfänger gleich.
 
 **Folgen der Beförderungs‑ und Ablieferungshindernisse**
 
-§ 1 Der Beförderer hat Anspruch auf Erstattung der Kosten, die ihm dadurch entstehen, dass er
-
 es sei denn, diese Kosten sind durch sein Verschulden entstanden. Er kann insbesondere die Fracht über den tatsächlichen Beförderungsweg erheben und die entsprechende Lieferfrist beanspruchen.
 
 § 2 In den in Artikel 20 § 2 und in Artikel 21 § 1 bezeichneten Fällen kann der Beförderer das Gut sofort auf Kosten des Verfügungsberechtigten ausladen. Nach dem Ausladen gilt die Beförderung als beendet. Der Beförderer hat sodann das Gut für den Verfügungsberechtigten zu verwahren. Er kann es jedoch auch einem Dritten anvertrauen und haftet dann nur für die sorgfältige Auswahl des Dritten. Das Gut bleibt mit den sich aus dem Beförderungsvertrag ergebenden Forderungen sowie mit allen anderen Kosten belastet.
@@ -2057,10 +2067,12 @@ es sei denn, diese Kosten sind durch sein Verschulden entstanden. Er kann insbes
 
 § 6 Erteilt der Absender bei Beförderungs- oder Ablieferungshindernissen innerhalb angemessener Zeit keine Anweisung und kann das Beförderungs- oder Ablieferungshindernis nicht gemäss §§ 2 und 3 beseitigt werden, so kann der Beförderer das Gut an den Absender auf dessen Kosten zurücksenden oder, sofern dies gerechtfertigt ist, vernichten.
 
+§ 1 Der Beförderer hat Anspruch auf Erstattung der Kosten, die ihm dadurch entstehen, dass er:
+
 - a) Anweisungen einholt;
 - b) Anweisungen ausführt;
 - c) Anweisungen, um die er ersucht hat, nicht oder nicht rechtzeitig erhält;
-- d) ohne eine Anweisung einzuholen, eine Entscheidung gemäss Artikel 20 § 1 trifft;
+- d) ohne eine Anweisung einzuholen, eine Entscheidung gemäss Artikel 20 § 1 trifft,
 
 ### Titel III Haftung
 
@@ -2179,11 +2191,11 @@ Wird eine Beförderung, die Gegenstand eines einzigen Beförderungsvertrages ist
 
 § 1 Bei Beschädigung des Gutes hat der Beförderer ohne weiteren Schadenersatz eine Entschädigung zu zahlen, die der Wertminderung des Gutes entspricht. Der Berechnung dieses Betrages ist der Prozentsatz zugrunde zu legen, um den der gemäss Artikel 30 ermittelte Wert des Gutes am Bestimmungsort gemindert ist.
 
-§ 2 Die Entschädigung übersteigt nicht
-
 § 3 Bei Beschädigung eines auf eigenen Rädern rollenden und als Beförderungsgut aufgegebenen Eisenbahnfahrzeuges, einer intermodalen Transporteinheit oder ihrer Bestandteile ist die Entschädigung auf die Instandsetzungskosten ohne weiteren Schadenersatz beschränkt. Die Entschädigung übertsteigt nicht den Betrag, der im Fall des Verlustes zu zahlen wäre.
 
 § 4 Der Beförderer hat ausserdem in dem in § 1 bezeichneten Verhältnis die in Artikel 30 § 4 erwähnten Kosten zu erstatten.
+
+§ 2 Die Entschädigung übersteigt nicht:
 
 - a) den Betrag, der im Fall ihres gänzlichen Verlustes zu zahlen wäre, wenn die ganze Sendung durch die Beschädigung entwertet ist;
 - b) den Betrag, der im Falle des Verlustes des entwerteten Teiles zu zahlen wäre, wenn nur ein Teil der Sendung durch die Beschädigung entwertet ist.
@@ -2315,12 +2327,18 @@ Der Beförderer haftet für seine Bediensteten und für andere Personen, deren e
 
 § 1 Vorbehaltlich der §§ 3 und 4 sind zur gerichtlichen Geltendmachung von Ansprüchen aus dem Beförderungsvertrag berechtigt:
 
-- a) der Absender bis zu dem Zeitpunkt, in dem der Empfänger
+- a)
+
+  der Absender bis zu dem Zeitpunkt, in dem der Empfänger:
+
   - 1\. den Frachtbrief eingelöst,
   - 2\. das Gut angenommen, oder
   - 3\. die ihm gemäss Artikel 17 § 3 oder Artikel 18 § 3 zustehenden Rechte geltend gemacht hat;
 
-- b) der Empfänger von dem Zeitpunkt an, in dem er
+- b)
+
+  der Empfänger von dem Zeitpunkt an, in dem er:
+
   - 1\. den Frachtbrief eingelöst,
   - 2\. das Gut angenommen, oder
   - 3\. die ihm gemäss Artikel 17 § 3 oder Artikel 18 § 3 zustehenden Rechte geltend gemacht hat.
@@ -2347,13 +2365,13 @@ Der Beförderer haftet für seine Bediensteten und für andere Personen, deren e
 
 **Gerichtsstand**
 
-§ 1 Auf diese Einheitlichen Rechtsvorschriften gegründete Ansprüche können vor den durch Vereinbarung der Parteien bestimmten Gerichten der Mitgliedstaaten oder vor den Gerichten eines Staates geltend gemacht werden, auf dessen Gebiet
-
 Andere Gerichte können nicht angerufen werden.
 
 § 2 Ist ein Verfahren bei einem nach § 1 zuständigen Gericht wegen eines auf diese Einheitlichen Rechtsvorschriften gegründeten Anspruches anhängig oder ist durch ein solches Gericht in einer solchen Streitsache ein Urteil erlassen worden, so kann eine neue Klage wegen derselben Sache zwischen denselben Parteien nicht erhoben werden, es sei denn, dass die Entscheidung des Gerichtes, bei dem die erste Klage erhoben worden ist, in dem Staat nicht vollstreckt werden kann, in dem die neue Klage erhoben wird.
 
-- a) der Beklagte seinen Wohnsitz oder gewöhnlichen Aufenthalt, seine Hauptniederlassung oder die Zweigniederlassung oder Geschäftsstelle hat, durch die der Beförderungsvertrag geschlossen worden ist, oder
+§ 1 Auf diese Einheitlichen Rechtsvorschriften gegründete Ansprüche können vor den durch Vereinbarung der Parteien bestimmten Gerichten der Mitgliedstaaten oder vor den Gerichten eines Staates geltend gemacht werden, auf dessen Gebiet:
+
+- a) der Beklagte seinen Wohnsitz oder gewöhnlichen Aufenthalt, seine Hauptniederlassung oder die Zweigniederlassung oder Geschäftsstelle hat, durch die der Beförderungsvertrag geschlossen worden ist; oder
 - b) der Ort der Übernahme des Gutes oder der für die Ablieferung vorgesehene Ort liegt.
 
 #### Art. 47
@@ -2362,16 +2380,22 @@ Andere Gerichte können nicht angerufen werden.
 
 § 1 Mit der Annahme des Gutes durch den Berechtigten sind alle Ansprüche gegen den Beförderer aus dem Beförderungsvertrag bei teilweisem Verlust, Beschädigung oder Überschreitung der Lieferfrist erloschen.
 
-§ 2 Die Ansprüche erlöschen jedoch nicht
-
 § 3 Ist das Gut gemäss Artikel 28 neu aufgegeben worden, so erlöschen die Ansprüche bei teilweisem Verlust oder bei Beschädigung aus einem der vorangehenden Beförderungsverträge, als handelte es sich um einen einzigen Vertrag.
 
-- a) bei teilweisem Verlust oder bei Beschädigung, wenn
+§ 2 Die Ansprüche erlöschen jedoch nicht:
+
+- a)
+
+  bei teilweisem Verlust oder bei Beschädigung, wenn:
+
   - 1\. der Verlust oder die Beschädigung vor der Annahme des Gutes durch den Berechtigten gemäss Artikel 42 festgestellt worden ist,
   - 2\. die Feststellung, die gemäss Artikel 42 hätte erfolgen müssen, nur durch Verschulden des Beförderers unterblieben ist;
 
-- b) bei äusserlich nicht erkennbarem Schaden, der erst nach der Annahme des Gutes durch den Berechtigten festgestellt worden ist, wenn er
-  - 1\. die Feststellung gemäss Artikel 42 sofort nach der Entdeckung des Schadens und spätestens sieben Tage nach der Annahme des Gutes verlangt und
+- b)
+
+  bei äusserlich nicht erkennbarem Schaden, der erst nach der Annahme des Gutes durch den Berechtigten festgestellt worden ist, wenn er:
+
+  - 1\. die Feststellung gemäss Artikel 42 sofort nach der Entdeckung des Schadens und spätestens sieben Tage nach der Annahme des Gutes verlangt, und
   - 2\. ausserdem beweist, dass der Schaden in der Zeit zwischen der Übernahme des Gutes und der Ablieferung entstanden ist;
 
 - c) bei Überschreitung der Lieferfrist, wenn der Berechtigte binnen 60 Tagen seine Ansprüche gegen einen der in Artikel 45 § 1 genannten Beförderer geltend gemacht hat;
@@ -2381,10 +2405,6 @@ Andere Gerichte können nicht angerufen werden.
 
 **Verjährung**
 
-§ 1 Ansprüche aus dem Beförderungsvertrag verjähren in einem Jahr. Die Verjährungsfrist beträgt jedoch zwei Jahre bei Ansprüchen
-
-§ 2 Die Verjährung beginnt bei Ansprüchen
-
 Der als Beginn der Verjährung bezeichnete Tag ist in keinem Fall in der Frist inbegriffen.
 
 § 3 Die Verjährung wird durch eine schriftliche Reklamation gemäss Artikel 43 bis zu dem Tag gehemmt, an dem der Beförderer die Reklamation schriftlich zurückweist und die beigefügten Belege zurücksendet. Wird der Reklamation teilweise stattgegeben, so beginnt die Verjährung für den noch streitigen Teil der Reklamation wieder zu laufen. Wer sich auf die Einreichung einer Reklamation oder auf die Erteilung einer Antwort und die Rückgabe der Belege beruft, hat dies zu beweisen. Weitere Reklamationen, die denselben Anspruch betreffen, hemmen die Verjährung nicht.
@@ -2393,10 +2413,14 @@ Der als Beginn der Verjährung bezeichnete Tag ist in keinem Fall in der Frist i
 
 § 5 Im übrigen gilt für die Hemmung und die Unterbrechung der Verjährung Landesrecht.
 
+§ 1 Ansprüche aus dem Beförderungsvertrag verjähren in einem Jahr. Die Verjährungsfrist beträgt jedoch zwei Jahre bei Ansprüchen:
+
 - a) auf Auszahlung einer Nachnahme, welche der Beförderer vom Empfänger eingezogen hat;
 - b) auf Auszahlung des Erlöses eines vom Beförderer vorgenommenen Verkaufs;
 - c) wegen eines Schadens, der auf eine Handlung oder Unterlassung zurückzuführen ist, die entweder in der Absicht, einen solchen Schaden herbeizuführen, oder leichtfertig und in dem Bewusstsein begangen wurde, dass ein solcher Schaden mit Wahrscheinlichkeit eintreten werde;
 - d) aus einem der der Neuaufgabe vorangehenden Beförderungsverträge in dem in Artikel 28 vorgesehenen Fall.
+
+§ 2 Die Verjährung beginnt bei Ansprüchen:
 
 - a) auf Entschädigung wegen gänzlichen Verlustes mit dem dreissigsten Tag nach Ablauf der Lieferfrist;
 - b) auf Entschädigung wegen teilweisen Verlustes, Beschädigung oder Überschreitung der Lieferfrist mit dem Tag der Ablieferung;
@@ -2446,7 +2470,7 @@ Der als Beginn der Verjährung bezeichnete Tag ist in keinem Fall in der Frist i
 
 Den Beförderern steht es frei, untereinander Vereinbarungen zu treffen, die von den Artikeln 49 und 50 abweichen.
 
-Anhang C zum Übereinkommen*[^t-3]*
+Anhang C zum Übereinkommen[^t-3]
 
 ## Ordnung für die internationale Eisenbahnbeförderung gefährlicher Güter
 
@@ -2465,7 +2489,7 @@ einschliesslich der in der Anlage zu dieser Ordnung erfassten Tätigkeiten.
 § 1 Diese Ordnung gilt für:
 
 - a) die internationale Beförderung gefährlicher Güter auf der Schiene auf dem Gebiet der RID-Vertragsstaaten;
-- b) die Schienenbeförderung ergänzende Beförderungen, auf die die Einheitlichen Rechtsvorschriften CIM anzuwenden sind, vorbehaltlich der für Beförderungen mit einem anderen Verkehrsträger geltenden internationalen Vorschriften;
+- b) die Schienenbeförderung ergänzende Beförderungen, auf die die Einheitlichen Rechtsvorschriften CIM anzuwenden sind, vorbehaltlich der für Beförderungen mit einem anderen Verkehrsträger geltenden internationalen Vorschriften,
 
 #### Art. 1<sup>bis</sup>
 
@@ -2512,7 +2536,7 @@ Die Anlage erhält die Fassung, die der Fachausschuss für die Beförderung gef�
 
 [^annexC-lvlu1-lvlu1-6-1]: Die Anlage und ihre Änderungen werden weder in der AS noch in der SR veröffentlicht. Das RID mit Einschluss der Anlage ist auf der Internetseite der Zwischenstaatliche Organisation für den internationalen Eisenbahnverkehr (OTIF): http://www.otif.org/ einsehbar.
 
-Anhang D zum Übereinkommen*[^t-4]*
+Anhang D zum Übereinkommen[^t-4]
 
 ## Einheitliche Rechtsvorschriften für Verträge über die Verwendung von Wagen im internationalen Eisenbahnverkehr
 
@@ -2530,7 +2554,7 @@ Diese Einheitlichen Rechtsvorschriften gelten für zwei- oder mehrseitige Vertr�
 
 **Begriffsbestimmungen**
 
-Für Zwecke dieser Einheitlichen Rechtsvorschriften bezeichnet der Ausdruck
+Für Zwecke dieser Einheitlichen Rechtsvorschriften bezeichnet der Ausdruck:
 
 - a) «Eisenbahnverkehrsunternehmen» jedes private oder öffentlich-rechtliche Unternehmen, das zur Beförderung von Personen oder Gütern berechtigt ist und die Traktion sicherstellt;
 - b) «Wagen» auf eigenen Rädern auf Eisenbahnschienen rollende Fahrzeuge ohne eigenen Antrieb;
@@ -2594,7 +2618,7 @@ Die in Artikel 4 §§ 3 und 4 vorgesehenen Haftungsbeschränkungen finden keine 
 
 **Subrogation**
 
-Sieht der Vertrag über die Verwendung von Wagen vor, dass das Eisenbahnverkehrsunternehmen den Wagen anderen Eisenbahnverkehrsunternehmen zur Verwendung als Beförderungsmittel zur Verfügung stellen darf, so kann das Eisenbahnverkehrsunternehmen mit Zustimmung des Halters mit den anderen Eisenbahnverkehrsunternehmen vereinbaren,
+Sieht der Vertrag über die Verwendung von Wagen vor, dass das Eisenbahnverkehrsunternehmen den Wagen anderen Eisenbahnverkehrsunternehmen zur Verwendung als Beförderungsmittel zur Verfügung stellen darf, so kann das Eisenbahnverkehrsunternehmen mit Zustimmung des Halters mit den anderen Eisenbahnverkehrsunternehmen vereinbaren:
 
 - a) dass es, vorbehaltlich seiner Rückgriffsrechte, hinsichtlich ihrer Haftung für Verlust und Beschädigung des Wagens oder seiner Bestandteile gegenüber dem Halter an ihre Stelle tritt;
 - b) dass nur der Halter gegenüber den anderen Eisenbahnverkehrsunternehmen für durch den Wagen verursachte Schäden haftet, jedoch nur das Eisenbahnverkehrsunternehmen, das Vertragspartner des Halters ist, zur Geltendmachung der Ansprüche der anderen Eisenbahnverkehrsunternehmen berechtigt ist.
@@ -2633,12 +2657,12 @@ Sieht der Vertrag über die Verwendung von Wagen vor, dass das Eisenbahnverkehrs
 
 § 1 Ansprüche nach Artikel 4 und 7 verjähren in drei Jahren.
 
-§ 2 Die Verjährung beginnt
+§ 2 Die Verjährung beginnt:
 
 - a) für Ansprüche nach Artikel 4 mit dem Tag, an dem der Verlust oder die Beschädigung des Wagens festgestellt worden ist, oder mit dem Tag, an dem der Berechtigte den Wagen gemäss Artikel 6 § 1 oder § 4 als verloren betrachten darf;
 - b) für Ansprüche nach Artikel 7 mit dem Tag, an dem der Schaden eingetreten ist.
 
-Anhang E zum Übereinkommen*[^t-5]*
+Anhang E zum Übereinkommen[^t-5]
 
 ## Einheitliche Rechtsvorschriften für den Vertrag über die Nutzung der Infrastruktur im internationalen Eisenbahnverkehr
 
@@ -2654,7 +2678,7 @@ Anhang E zum Übereinkommen*[^t-5]*
 
 § 1 Diese Einheitlichen Rechtsvorschriften gelten für jeden Vertrag über die Nutzung einer Eisenbahninfrastruktur zum Zwecke der Durchführung internationaler Eisenbahnbeförderungen im Sinne der Einheitlichen Rechtsvorschriften CIV und der Einheitlichen Rechtsvorschriften CIM. Dies gilt ohne Rücksicht auf den Sitz und die Staatszugehörigkeit der Parteien des Vertrages. Diese Einheitlichen Rechtsvorschriften gelten auch, wenn die Eisenbahninfrastruktur von Staaten oder von staatlichen Einrichtungen oder Organisationen betrieben oder genutzt wird.
 
-§ 2 Vorbehaltlich des Artikels 21 gelten diese Einheitlichen Rechtsvorschriften nicht für andere Rechtsverhältnisse, wie insbesondere
+§ 2 Vorbehaltlich des Artikels 21 gelten diese Einheitlichen Rechtsvorschriften nicht für andere Rechtsverhältnisse, wie insbesondere:
 
 - a) die Haftung des Beförderers oder des Betreibers gegenüber ihren Bediensteten oder anderen Personen, deren sie sich zur Erfüllung ihrer Aufgaben bedienen;
 - b) die Haftung zwischen Beförderer oder Betreiber einerseits und Dritten andererseits.
@@ -2671,7 +2695,7 @@ Anhang E zum Übereinkommen*[^t-5]*
 
 **Begriffsbestimmungen**
 
-Für Zwecke dieser Einheitlichen Rechtsvorschriften bezeichnet der Ausdruck
+Für Zwecke dieser Einheitlichen Rechtsvorschriften bezeichnet der Ausdruck:
 
 - a) «Eisenbahninfrastruktur» alle Schienenwege und festen Anlagen, soweit sie für den Verkehr von Eisenbahnfahrzeugen und für die Verkehrssicherheit notwendig sind;
 - b) «Betreiber» denjenigen, der eine Eisenbahninfrastruktur bereitstellt und der Verpflichtungen nach den Gesetzen und Vorschriften hat, die in dem Staat gelten, in dem die Infrastruktur liegt;
@@ -2679,7 +2703,10 @@ Für Zwecke dieser Einheitlichen Rechtsvorschriften bezeichnet der Ausdruck
 - d) «Hilfsperson» Bedienstete oder andere Personen, deren sich der Betreiber oder der Beförderer zur Erfüllung des Vertrages bedienen, soweit diese Bediensteten und anderen Personen in Ausübung ihrer Verrichtungen handeln;
 - e) «Dritter» jeden anderen als den Betreiber, den Beförderer und ihre Hilfspersonen;
 - f) «Betriebsgenehmigung» die Berechtigung, die einem Eisenbahnunternehmen durch einen Staat nach den Gesetzen und Vorschriften, die in diesem Staat gelten, erteilt wird, wodurch seine Fähigkeit als Beförderer anerkannt ist;
-- g) «Sicherheitszertifikat» das Dokument, das nach den Gesetzen und Vorschriften, die in dem Staat gelten, in dem die Infrastruktur liegt, bestätigt, dass auf der Seite des Beförderers
+- g)
+
+  «Sicherheitszertifikat» das Dokument, das nach den Gesetzen und Vorschriften, die in dem Staat gelten, in dem die Infrastruktur liegt, bestätigt, dass auf der Seite des Beförderers:
+
   - – die interne Organisation des Unternehmens, sowie
   - – das Personal und die Fahrzeuge, die auf der Infrastruktur eingesetzt werden sollen,
 
@@ -2737,8 +2764,6 @@ Soweit diese Einheitlichen Rechtsvorschriften es nicht ausdrücklich zulassen, i
 
 **Beendigung des Vertrages**
 
-§ 1 Der Betreiber kann den Nutzungsvertrag fristlos kündigen, wenn
-
 § 2 Der Beförderer kann den Nutzungsvertrag fristlos kündigen, wenn der Betreiber sein Recht zum Betreiben der Infrastruktur verliert.
 
 § 3 Jede Partei des Vertrages kann den Nutzungsvertrag fristlos kündigen, wenn die andere Partei des Vertrages eine ihrer wesentlichen Pflichten schwerwiegend verletzt, sofern diese Pflicht die Sicherheit von Personen und Gütern betrifft; die Parteien des Vertrages können die Modalitäten der Ausübung dieses Rechtes vereinbaren.
@@ -2747,9 +2772,14 @@ Soweit diese Einheitlichen Rechtsvorschriften es nicht ausdrücklich zulassen, i
 
 § 5 Die Parteien des Vertrages können Vereinbarungen treffen, die von § 1 Buchstaben c) und d) und von § 4 abweichen.
 
+§ 1 Der Betreiber kann den Nutzungsvertrag fristlos kündigen, wenn:
+
 - a) der Beförderer nicht mehr berechtigt ist, die Tätigkeit als Eisenbahnbeförderer auszuüben;
 - b) das einzusetzende Personal und die zu verwendenden Fahrzeuge den Sicherheitsanforderungen nicht mehr genügen;
-- c) der Beförderer sich in Zahlungsverzug befindet, und zwar
+- c)
+
+  der Beförderer sich in Zahlungsverzug befindet, und zwar:
+
   - 1\. für zwei aufeinanderfolgende Fälligkeitstermine mit einem Betrag, der ein monatliches Nutzungsentgelt übersteigt, oder
   - 2\. in einem Zeitraum, der sich über mehr als zwei Fälligkeitstermine erstreckt, mit einem Betrag, der das Nutzungsentgelt für zwei Monate erreicht;
 
@@ -2761,19 +2791,19 @@ Soweit diese Einheitlichen Rechtsvorschriften es nicht ausdrücklich zulassen, i
 
 **Haftung des Betreibers**
 
-§ 1 Der Betreiber haftet für
-
 die der Beförderer oder seine Hilfspersonen während der Nutzung der Infrastruktur erleiden und die ihre Ursache in der Infrastruktur haben.
-
-§ 2 Der Betreiber ist von dieser Haftung befreit
 
 § 3 Ist das schädigende Ereignis auf das Verhalten eines Dritten zurückzuführen und ist der Betreiber gleichwohl von seiner Haftung nicht gemäss § 2 Buchstabe a) ganz befreit, so haftet er unter den Beschränkungen dieser Einheitlichen Rechtsvorschriften voll, unbeschadet eines etwaigen Rückgriffsrechtes gegen den Dritten.
 
 § 4 Die Parteien des Vertrages können Vereinbarungen darüber treffen, ob und inwieweit der Betreiber für Schäden, die dem Beförderer durch Verspätung oder Betriebsstörungen entstehen, haftet.
 
+§ 1 Der Betreiber haftet für:
+
 - a) Personenschäden (Tötung, Verletzung oder sonstige Beeinträchtigung der körperlichen oder geistigen Gesundheit);
 - b) Sachschäden (Zerstörung oder Beschädigung beweglicher und unbeweglicher Sachen);
 - c) Vermögensschäden, die sich daraus ergeben, dass der Beförderer Entschädigungen gemäss den Einheitlichen Rechtsvorschriften CIV und den Einheitlichen Rechtsvorschriften CIM zu leisten hat,
+
+§ 2 Der Betreiber ist von dieser Haftung befreit:
 
 - a) bei Personenschäden und bei Vermögensschäden, die sich daraus ergeben, dass der Beförderer Entschädigungen gemäss den Einheitlichen Rechtsvorschriften CIV zu leisten hat,
   - 1\. wenn das schädigende Ereignis durch ausserhalb des Betriebes liegende Umstände verursacht worden ist und der Betreiber diese Umstände trotz Anwendung der nach Lage des Falles gebotenen Sorgfalt nicht vermeiden und deren Folgen nicht abwenden konnte,
@@ -2786,20 +2816,23 @@ die der Beförderer oder seine Hilfspersonen während der Nutzung der Infrastruk
 
 **Haftung des Beförderers**
 
-§ 1 Der Beförderer haftet für
-
 die dem Betreiber oder seinen Hilfspersonen durch den Beförderer, durch die von ihm verwendeten Beförderungsmittel, durch von ihm beförderte Personen oder befördertes Gut bei der Nutzung der Infrastruktur verursacht worden sind.
-
-§ 2 Der Beförderer ist von dieser Haftung befreit
 
 § 3 Ist das schädigende Ereignis auf das Verhalten eines Dritten zurückzuführen und ist der Beförderer gleichwohl von seiner Haftung nicht gemäss § 2 Buchstabe a) ganz befreit, so haftet er unter den Beschränkungen dieser Einheitlichen Rechtsvorschriften voll, unbeschadet eines etwaigen Rückgriffsrechtes gegen den Dritten.
 
 § 4 Die Parteien des Vertrages können Vereinbarungen darüber treffen, ob und inwieweit der Beförderer für Schäden, die dem Betreiber durch Betriebsstörungen entstehen, haftet.
 
+§ 1 Der Beförderer haftet für:
+
 - a) Personenschäden (Tötung, Verletzung oder sonstige Beeinträchtigung der körperlichen oder geistigen Gesundheit);
 - b) Sachschäden (Zerstörung oder Beschädigung beweglicher und unbeweglicher Sachen),
 
-- a) bei Personenschäden
+§ 2 Der Beförderer ist von dieser Haftung befreit:
+
+- a)
+
+  bei Personenschäden:
+
   - 1\. wenn das schädigende Ereignis durch ausserhalb des Betriebes liegende Umstände verursacht worden ist und der Beförderer diese Umstände trotz Anwendung der nach Lage des Falles gebotenen Sorgfalt nicht vermeiden und deren Folgen nicht abwenden konnte,
   - 2\. soweit das schädigende Ereignis auf ein Verschulden des Geschädigten zurückzuführen ist,
   - 3\. wenn das schädigende Ereignis auf das Verhalten eines Dritten zurückzuführen ist und der Beförderer dieses Verhalten trotz Anwendung der nach Lage des Falles gebotenen Sorgfalt nicht vermeiden und dessen Folgen nicht abwenden konnte;
@@ -2938,7 +2971,7 @@ Die Rechtmässigkeit einer durch den Beförderer auf Grund der Einheitlichen Rec
 
 § 6 Im Übrigen gilt für die Hemmung und die Unterbrechung der Verjährung Landesrecht.
 
-Anhang F zum Übereinkommen*[^t-6]*
+Anhang F zum Übereinkommen[^t-6]
 
 ## Einheitliche Rechtsvorschriften für die Verbindlicherklärung technischer Normen und für die Annahme einheitlicher technischer Vorschriften für Eisenbahnmaterial, das zur Verwendung im internationalen Verkehr bestimmt ist
 
@@ -2956,7 +2989,7 @@ Diese Einheitlichen Rechtsvorschriften legen das Verfahren fest, nach dem für E
 
 **Begriffsbestimmungen**
 
-Für Zwecke dieser Einheitlichen Rechtsvorschriften, ihrer Anlage(n) und der ETV bezeichnet zusätzlich zu den in Artikel 2 der ATMF definierten Begriffen der Ausdruck
+Für Zwecke dieser Einheitlichen Rechtsvorschriften, ihrer Anlage(n) und der ETV bezeichnet zusätzlich zu den in Artikel 2 der ATMF definierten Begriffen der Ausdruck:
 
 - a) «Reisezugwagen» ein Eisenbahnfahrzeug ohne eigenen Antrieb, das zur Beförderung von Personen bestimmt ist; der Begriff umfasst einen Gepäckwagen, der in einem Reisezug mitgeführt werden soll;
 - b) «Projekt in einem fortgeschrittenen Entwicklungsstand» ein Projekt, dessen Planungs-/Konstruktionsphase einen Punkt erreicht hat, an dem eine Änderung der technischen Spezifikationen für den betreffenden Vertragsstaat nicht annehmbar wäre. Ein solches Hindernis kann rechtlicher, vertraglicher, wirtschaftlicher, finanzieller, sozialer oder umweltbezogener Art sein und ist entsprechend zu begründen;
@@ -2970,15 +3003,15 @@ Für Zwecke dieser Einheitlichen Rechtsvorschriften, ihrer Anlage(n) und der ETV
 
 **Zweck**
 
-§ 1 Die Verbindlicherklärung technischer Normen für Eisenbahnmaterial sowie die Annahme von ETV für Eisenbahnmaterial sollen
-
 § 2 Bei der Verbindlicherklärung technischer Normen oder der Annahme von ETV werden ausschliesslich solche herangezogen, die auf internationaler Ebene ausgearbeitet wurden.
 
-§ 3 Nach Möglichkeit
+§ 1 Die Verbindlicherklärung technischer Normen für Eisenbahnmaterial sowie die Annahme von ETV für Eisenbahnmaterial sollen:
 
 - a) das freie Verkehren von Fahrzeugen und die freizügige Verwendung von sonstigem Eisenbahnmaterial im internationalen Verkehr erleichtern;
 - b) dazu beitragen, die Sicherheit, die Zuverlässigkeit und die Betriebsbereitschaft im internationalen Verkehr zu gewährleisten;
 - c) den Belangen der Umwelt und der öffentlichen Gesundheit Rechnung tragen.
+
+§ 3 Nach Möglichkeit:
 
 - a) ist die Interoperabilität der für den internationalen Verkehr erforderlichen technischen Systeme und Komponenten sicherzustellen;
 - b) sind die technischen Normen und ETV wirkungsorientiert; gegebenenfalls enthalten sie Varianten.
@@ -3110,9 +3143,9 @@ Mit Inkrafttreten der vom Fachausschuss für technische Fragen gemäss Artikel 6
 
 § 1 Mit Inkrafttreten der vom Fachausschuss für technische Fragen gemäss Artikel 6 § 1 beschlossenen ETV haben die technischen Normen und ETV im Verhältnis zwischen den Vertragsstaaten Vorrang gegenüber den Bestimmungen der Fassung 1938 des Internationalen Übereinkommens über die Technische Einheit im Eisenbahnwesen, unterzeichnet zu Bern am 21. Oktober 1882.
 
-§ 2 Mit Inkrafttreten der vom Fachausschuss für technische Fragen gemäss Artikel 6 § 1 beschlossenen ETV haben diese Einheitlichen Rechtsvorschriften sowie die technischen Normen und ETV in den Vertragsstaaten Vorrang vor den technischen Regelungen des
+§ 2 Mit Inkrafttreten der vom Fachausschuss für technische Fragen gemäss Artikel 6 § 1 beschlossenen ETV haben diese Einheitlichen Rechtsvorschriften sowie die technischen Normen und ETV in den Vertragsstaaten Vorrang vor den technischen Regelungen des:
 
-- a) Übereinkommens über die gegenseitige Benutzung der Personen- und Gepäckwagen im internationalen Verkehr (RIC),
+- a) Übereinkommens über die gegenseitige Benutzung der Personen- und Gepäckwagen im internationalen Verkehr (RIC);
 - b) Übereinkommens über die gegenseitige Benutzung der Güterwagen im internationalen Verkehr (RIV).
 
 #### Art. 12
@@ -3148,7 +3181,7 @@ Die erklärte Äquivalenz ist im Referenzdokument gemäss § 3 in einer Äquival
 § 4 Der Fachausschuss für technische Fragen kann nach gebührender Berücksichtigung der Ansicht der betroffenen Vertragsstaaten und der einbezogenen regionalen Organisationen beschliessen, in Bezug auf die Eisenbahnsicherheit die Äquivalenz zu erklären:
 
 - a) zwischen den nationalen technischen Anforderungen verschiedener Vertragsstaaten;
-- b) zwischen den Bestimmungen in den ETV und den entsprechenden TSI und
+- b) zwischen den Bestimmungen in den ETV und den entsprechenden TSI; und
 - c) zwischen den nationalen technischen Anforderungen eines oder mehrerer Vertragsstaaten und Bestimmungen in den ETV und/oder Bestimmungen in den TSI.
 
 Anlage
@@ -3206,11 +3239,11 @@ Gruppe B umfasst alle Vorschriften, die nicht Gruppe A oder Gruppe C zuzuordnen 
 
 Gruppe C umfasst die Vorschriften, die mit Merkmalen der technischen Infrastruktur zusammenhängen und unbedingt notwendig sind, um einen sicheren und interoperablen Einsatz im betroffenen Netz sicher zu stellen (z.B. Lichtraumprofil).
 
-Anhang G zum Übereinkommen*[^t-7]*
+Anhang G zum Übereinkommen[^t-7]
 
 ## Einheitliche Rechtsvorschriften für die technische Zulassung von Eisenbahnmaterial, das im internationalen Verkehr verwendet wird
 
-[^t-7]: Fassung gemäss Beschluss des Revisionsausschusses vom 25./26. Juni 2014 ([AS 2015 2131](https://fedlex.data.admin.ch/eli/oc/2015/396)). Bereinigt gemäss Beschluss des Revisionsausschusses vom 27./28. Febr. 2018, in Kraft für die Schweiz seit 1. März 2019 ([AS 2019 951](https://fedlex.data.admin.ch/eli/oc/2019/173)) und gemäss Berichtigung vom 22. Juli 2019 ([AS 2019 2975](https://fedlex.data.admin.ch/eli/oc/2019/547)).
+[^t-7]: Fassung gemäss Beschluss des Revisionsausschusses vom 25./26. Juni 2014 ([AS 2015 2131](https://fedlex.data.admin.ch/eli/oc/2015/396)). Bereinigt gemäss Beschluss des Revisionsausschusses vom 27./28. Febr. 2018, in Kraft für die Schweiz seit 1. März 2019 ([AS 2019 951](https://fedlex.data.admin.ch/eli/oc/2019/173)) und gemäss Berichtigung vom 22. Juli 2019 ([AS 2019 2975](https://fedlex.data.admin.ch/eli/oc/2019/547)) und gemäss Beschluss des Revisionsausschusses vom 28. Okt. 2022, in Kraft für die Schweiz seit 1. Nov. 2023 ([AS 2024 4](https://fedlex.data.admin.ch/eli/oc/2024/4)).
 
 ### (ATMF)
 
@@ -3305,7 +3338,9 @@ Bei Nichterfüllung der Voraussetzungen der Buchstaben a) bis e) unterliegt das 
 
 § 4 §§ 1 und 2 gelten sinngemäss für Zulassungen/Genehmigungen von Fahrzeugbauarten.
 
-§ 5 Eine gemäss Artikel 15 § 2 zertifizierte für die Instandhaltung zuständige Stelle (ECM)[^annexG-lvlu1-lvlu1-3a-2] für Güterwagen gilt als gemäss geltender Gesetzgebung der Europäischen Union und entsprechender nationaler Gesetzgebung zertifiziert und *vice* *versa*, wenn zwischen dem gemäss Artikel 14*a* (5) der Eisenbahnsicherheitsrichtlinie 2004/49/EG der EU angenommenen Zertifizierungssystem und den vom Fachausschuss für technische Fragen gemäss Artikel 15 § 2 angenommenen Regelungen volle Äquivalenz besteht. Diese angenommenen Regelungen sind in Anlage A dieser Einheitlichen Rechtsvorschriften enthalten.
+§ 5 Bei voller Äquivalenz zwischen den in der Europäischen Union geltenden Vorschriften und den in Artikel 15 § 2 genannten COTIF-Vorschriften wird bei einer für die Instandhaltung zuständige Stelle (ECM)[^annexG-lvlu1-lvlu1-3a-2], die die Bestimmungen von Artikel 15 § 2 erfüllt, von der Erfüllung der entsprechenden Rechtsvorschriften der Europäischen Union ausgegangen und umgekehrt.
+
+Der Fachausschuss für technische Fragen ist befugt, die Äquivalenz zwischen den innerhalb der Europäischen Union geltenden Vorschriften und den in Artikel 15 § 2 genannten COTIF-Vorschriften zu erklären.
 
 § 1 Gemäss geltender Gesetzgebung der Europäischen Union (EU) und entsprechender nationaler Gesetzgebung in den Dienst gestellte oder in Verkehr gebrachte Fahrzeuge gelten als von allen Vertragsstaaten gemäss diesen Einheitlichen Rechtsvorschriften zum Betrieb zugelassen:
 
@@ -3405,7 +3440,10 @@ ist nicht erneut zu bewerten.
 § 3 Unbeschadet von Artikel 3*a* gilt eine für ein Fahrzeug, das alle gültigen ETV erfüllt, ausgestellte Betriebszulassung auf dem Gebiet anderer Vertragsstaaten, vorausgesetzt:
 
 - a) alle wesentlichen Anforderungen in diesen ETV sind abgedeckt; und
-- b) das Fahrzeug ist nicht Gegenstand
+- b)
+
+  das Fahrzeug ist nicht Gegenstand:
+
   - – eines Sonderfalls, der Auswirkungen auf die technische Kompatibilität des Netzes des betroffenen Vertragsstaates hat, oder
   - – offener Punkte in der ETV, die sich auf die technische Kompatibilität mit der Infrastruktur beziehen, oder
   - – einer Abweichung.
@@ -3567,7 +3605,10 @@ Ist eine Neuzulassung erforderlich und werden die ETV nicht vollständig angewan
 
 § 2 Ein Betriebszertifikat kann entzogen werden:
 
-- a) wenn das Fahrzeug
+- a)
+
+  wenn das Fahrzeug:
+
   - – den in den ETV und in den gemäss Artikel 12 der Einheitlichen Rechtsvorschriften APTU geltenden nationalen Vorschriften enthaltenen Bestimmungen, oder
   - – den besonderen Bedingungen seiner Zulassung gemäss Artikel 7*a,* oder
   - – den im RID enthaltenen Bau- und Ausrüstungsvorschriften nicht mehr entspricht; oder
@@ -3682,11 +3723,17 @@ Die zuständige Behörde, welche die (erste) Betriebszulassung erteilt, ist daf�
 
 § 1 Fahrzeuge sind so instand zu halten, dass sie die in Artikel 7 festgelegten Bestimmungen einhalten. Der Zustand der Fahrzeuge darf in keiner Weise die Betriebssicherheit gefährden und ihr Einsatz im internationalen Verkehr der Infrastruktur, Umwelt und öffentlichen Gesundheit nicht schaden. Zu diesem Zweck sind Fahrzeuge für Instandhaltung, Untersuchungen und Instandsetzung abzustellen und diese Arbeiten an ihnen vorzunehmen, wie dies in den Instandhaltungsunterlagen vorgeschrieben ist. Der Halter ist verpflichtet, zu diesem Zweck eine ECM zu benennen.
 
-§ 2 Jedem Fahrzeug ist, bevor es zum Betrieb zugelassen oder auf dem Netz eingesetzt wird, eine ECM zuzuweisen, die in der Datenbank gemäss Artikel 13 registriert sein muss. Die ECM gewährleistet mittels eines Instandhaltungssystems, dass die Fahrzeuge, für deren Instandhaltung sie zuständig ist, in einem sicheren Betriebszustand sind. Die ECM kann sich Vertragspartnern, einschliesslich Ausbesserungswerken bedienen.
+§ 2 Jedem Fahrzeug ist, bevor es zum Betrieb zugelassen oder auf dem Netz eingesetzt wird, eine ECM zuzuweisen, die in der Datenbank gemäss Artikel 13 registriert sein muss. Die ECM gewährleistet mittels eines Instandhaltungssystems, dass die Fahrzeuge, für deren Instandhaltung sie zuständig ist, in einem sicheren Betriebszustand sind. Die ECM kann sich Vertragspartnern, einschliesslich Ausbesserungswerkstätten, bedienen.
 
-Der Fachausschuss für technische Fragen ist zuständig für die Annahme und Änderung der Zertifizierungs- und Prüfvorschriften für ECM und Ausbesserungswerke. Die Vorschriften sind in Anlage A dieser Einheitlichen Rechtsvorschriften enthalten.
+Der Fachausschuss für technische Fragen ist zuständig für die Annahme von Vorschriften betreffend die Zertifizierung und Prüfung von ECM und die Instandhaltungsfunktionen, einschliesslich der von den beteiligten Parteien zu erfüllenden Anforderungen. Die Vorschriften sind in Anlage A dieser Einheitlichen Rechtsvorschriften enthalten.
 
-Die für die Instandhaltung eines Güterwagens zuständige Stelle ist von einer ECMZertifizierungsstelle zu zertifizieren, die in Übereinstimmung mit Anlage A dieser Einheitlichen Rechtsvorschriften in einem der Vertragsstaaten akkreditierte/anerkannt wurde.
+Alle ECM müssen die in Anlage A dieser Einheitlichen Rechtsvorschriften festgelegten Anforderungen und Bewertungskriterien erfüllen.
+
+ECM für Güterwagen müssen zertifiziert sein.
+
+ECM für andere Fahrzeuge als Güterwagen müssen zertifiziert sein, es sei denn, es gilt eine Ausnahme gemäss Anlage A dieser Einheitlichen Rechtsvorschriften.
+
+ECM-Zertifikate werden ausschliesslich von ECM-Zertifizierungsstellen ausgestellt, die in Übereinstimmung mit Anlage A dieser Einheitlichen Rechtsvorschriften in einem der Vertragsstaaten akkreditierte oder anerkannt sind.
 
 § 3 Der Halter stellt der ECM in dem für die Instandhaltung notwendigen Rahmen sämtliche Angaben zu Wartungs-, kontinuierlichen oder regelmäßigen Überwachungs-, Einstell- und Instandhaltungsvorschriften zur Verfügung.
 
@@ -3793,62 +3840,62 @@ Meinungsverschiedenheiten betreffend die technische Zulassung von zur Verwendung
 - b) einer regionalen Organisation nach Artikel 2 x) ATMF;
 - c) einem repräsentativen internationalen Verband, für dessen Mitglieder das Vorhandensein des Anhangs aus Gründen der Sicherheit und Wirtschaftlichkeit bei der Ausübung ihrer Tätigkeit unerlässlich ist.
 
-Geltungsbereich am 8. August 2017**[^t-8]**
+Geltungsbereich am 8. August 2017[^t-8]
 
 <table>
-<tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th colspan="2">Inkrafttreten</th><th colspan="2"></th></tr>
-<tr><td>Albanien\*</td><td colspan="2">28. September</td><td>2000 B</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Algerien</td><td colspan="2">4. Februar</td><td>2003</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Armenien <sup>a</sup></td><td colspan="2">30. Dezember</td><td>2010 B</td><td>1. Juli</td><td colspan="3">2011</td></tr>
-<tr><td>Aserbaidschan\* <sup>a</sup></td><td colspan="2">12. Mai</td><td>2015 B</td><td>1. November</td><td colspan="3">2015</td></tr>
-<tr><td>Belgien</td><td colspan="2">14. August</td><td>2007</td><td>14. August</td><td colspan="3">2007</td></tr>
-<tr><td>Bosnien und Herzegowina</td><td colspan="2">16. Mai</td><td>2006</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Bulgarien</td><td colspan="2">29. November</td><td>2004</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Dänemark</td><td colspan="2">29. September</td><td>2004</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Deutschland</td><td colspan="2">05. September</td><td>2003</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Estland\* <sup>a</sup></td><td colspan="2">20. August</td><td>2008 B</td><td>1. Januar</td><td colspan="3">2009</td></tr>
-<tr><td>Europäische Union</td><td colspan="2">23. Juni</td><td>2011 B</td><td colspan="2">1. Juli</td><td colspan="2">2011</td></tr>
-<tr><td>Finnland</td><td colspan="2">4. August</td><td>2004</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Frankreich</td><td colspan="2">29. Mai</td><td>2006</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Georgien\* <sup>a</sup></td><td colspan="2">24. Oktober</td><td>2011 B</td><td colspan="2">1. Mai</td><td colspan="2">2012</td></tr>
-<tr><td>Griechenland</td><td colspan="2">2. Juni</td><td>2008</td><td>2. Juni</td><td colspan="3">2008</td></tr>
-<tr><td>Iran <sup>b</sup></td><td colspan="2">15. Juni</td><td>2004 B</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Irland <sup>b</sup></td><td colspan="2">14. April</td><td>2016 B</td><td>14. April</td><td colspan="3">2016</td></tr>
-<tr><td>Italien</td><td colspan="2">5. Februar</td><td>2015</td><td colspan="2">5. Februar</td><td colspan="2">2015</td></tr>
-<tr><td>Kroatien</td><td colspan="2">9. März</td><td>2001</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Lettland\* <sup>c</sup></td><td colspan="2">2. April</td><td>2004 B</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Liechtenstein</td><td colspan="2">13. Mai</td><td>2003</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Litauen</td><td colspan="2">10. November</td><td>2003</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Luxemburg</td><td colspan="2">29. Juni</td><td>2006</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Marokko</td><td colspan="2">28. April</td><td>2011</td><td colspan="2">28. April</td><td colspan="2">2011</td></tr>
-<tr><td>Monaco\* <sup>b</sup></td><td colspan="2">11. Juli</td><td>2000 B</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Montenegro <sup>a</sup></td><td colspan="2">21. Dezember</td><td>2009 B</td><td>1. Juli</td><td colspan="3">2010</td></tr>
-<tr><td>Niederlande</td><td colspan="2">11. September</td><td>2002</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Nordmazedonien <sup>b</sup></td><td colspan="2">26. Februar</td><td>2001 B</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Norwegen</td><td colspan="2">27. Januar</td><td>2005</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Österreich\*</td><td colspan="2">22. Januar</td><td>2004</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Pakistan\* <sup>a</sup></td><td colspan="2">21. Februar</td><td>2013 B</td><td>1. September</td><td colspan="3">2013</td></tr>
-<tr><td>Polen</td><td colspan="2">3. März</td><td>2003</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Portugal\*</td><td colspan="2">7. April</td><td>2005</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Rumänien\*</td><td colspan="2">8. März</td><td>2002</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Russland\* <sup>a</sup></td><td colspan="2">21. August</td><td>2009 B</td><td>1. Februar</td><td colspan="3">2010</td></tr>
-<tr><td>Schweden</td><td colspan="2">12. Juni</td><td>2015</td><td>12. Juni</td><td colspan="3">2015</td></tr>
-<tr><td>Schweiz\*</td><td colspan="2">7. Mai</td><td>2002</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Serbien <sup>b</sup></td><td colspan="2">24. Januar</td><td>2001 B</td><td>1. Juli</td><td colspan="2">2006</td></tr>
-<tr><td>Slowakei\*</td><td colspan="2">11. Juni</td><td>2004</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Slowenien</td><td colspan="2">10. Februar</td><td>2004</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Spanien</td><td colspan="2">18. Juni</td><td>2002</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Syrien</td><td colspan="2">4. Juli</td><td>2005</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Tschechische Republik\*</td><td colspan="2">22. Dezember</td><td>2003</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Tunesien</td><td colspan="2">31. August</td><td>2000</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Türkei</td><td colspan="2">3. April</td><td>2006</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Ukraine\* <sup>b</sup></td><td colspan="2">26. Oktober</td><td>2007 B</td><td>1. November</td><td colspan="3">2007</td></tr>
-<tr><td>Ungarn</td><td colspan="2">15. April</td><td>2004</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Vereinigtes Königreich\*</td><td colspan="2">29. Juni</td><td>2006</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td colspan="8">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Internationale Zivilluftfahrtorganisation: www.icao.int/ &gt; Français &gt; Recueil des traités &gt; Current lists of parties to multilateral air law treaties oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Beitritt zum Übereinkommen nach dem 1. Juli 2006. <sup>b</sup> Beitritt zum Protokoll von 1999. <sup>c</sup> Beitritt zum Übereink. zwischen 3. Juni 1999 und dem Inkrafttreten des Prot. 1999.</td></tr>
+<tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th colspan="2"></th><th colspan="2">Inkrafttreten</th><th colspan="2"></th></tr>
+<tr><td>Albanien\*</td><td colspan="2">28. September</td><td colspan="2">2000 B</td><td>1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Algerien</td><td colspan="2">4. Februar</td><td colspan="2">2003</td><td>1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Armenien <sup>a</sup></td><td colspan="2">30. Dezember</td><td colspan="2">2010 B</td><td>1. Juli</td><td colspan="3">2011</td></tr>
+<tr><td>Aserbaidschan\* <sup>a</sup></td><td colspan="2">12. Mai</td><td colspan="2">2015 B</td><td>1. November</td><td colspan="3">2015</td></tr>
+<tr><td>Belgien</td><td colspan="2">14. August</td><td colspan="2">2007</td><td>14. August</td><td colspan="3">2007</td></tr>
+<tr><td>Bosnien und Herzegowina</td><td colspan="2">16. Mai</td><td colspan="2">2006</td><td>1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Bulgarien</td><td colspan="2">29. November</td><td colspan="2">2004</td><td>1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Dänemark</td><td colspan="2">29. September</td><td colspan="2">2004</td><td>1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Deutschland</td><td colspan="2">05. September</td><td colspan="2">2003</td><td>1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td colspan="2">Estland <sup>a</sup></td><td colspan="2">20. August</td><td>2008 B</td><td colspan="2">1. Januar</td><td colspan="2">2009</td></tr>
+<tr><td>Europäische Union</td><td colspan="2">23. Juni</td><td colspan="2">2011 B</td><td colspan="2">1. Juli</td><td colspan="2">2011</td></tr>
+<tr><td>Finnland</td><td colspan="2">4. August</td><td colspan="2">2004</td><td>1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Frankreich</td><td colspan="2">29. Mai</td><td colspan="2">2006</td><td>1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Georgien\* <sup>a</sup></td><td colspan="2">24. Oktober</td><td colspan="2">2011 B</td><td colspan="2">1. Mai</td><td colspan="2">2012</td></tr>
+<tr><td>Griechenland</td><td colspan="2">2. Juni</td><td colspan="2">2008</td><td>2. Juni</td><td colspan="3">2008</td></tr>
+<tr><td>Iran <sup>b</sup></td><td colspan="2">15. Juni</td><td colspan="2">2004 B</td><td>1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Irland <sup>b</sup></td><td colspan="2">14. April</td><td colspan="2">2016 B</td><td>14. April</td><td colspan="3">2016</td></tr>
+<tr><td>Italien</td><td colspan="2">5. Februar</td><td colspan="2">2015</td><td colspan="2">5. Februar</td><td colspan="2">2015</td></tr>
+<tr><td>Kroatien</td><td colspan="2">9. März</td><td colspan="2">2001</td><td>1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Lettland\* <sup>c</sup></td><td colspan="2">2. April</td><td colspan="2">2004 B</td><td>1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Liechtenstein</td><td colspan="2">13. Mai</td><td colspan="2">2003</td><td>1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Litauen</td><td colspan="2">10. November</td><td colspan="2">2003</td><td>1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Luxemburg</td><td colspan="2">29. Juni</td><td colspan="2">2006</td><td>1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Marokko</td><td colspan="2">28. April</td><td colspan="2">2011</td><td colspan="2">28. April</td><td colspan="2">2011</td></tr>
+<tr><td>Monaco\* <sup>b</sup></td><td colspan="2">11. Juli</td><td colspan="2">2000 B</td><td>1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Montenegro <sup>a</sup></td><td colspan="2">21. Dezember</td><td colspan="2">2009 B</td><td>1. Juli</td><td colspan="3">2010</td></tr>
+<tr><td>Niederlande</td><td colspan="2">11. September</td><td colspan="2">2002</td><td>1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Nordmazedonien <sup>b</sup></td><td colspan="2">26. Februar</td><td colspan="2">2001 B</td><td>1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Norwegen</td><td colspan="2">27. Januar</td><td colspan="2">2005</td><td>1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Österreich\*</td><td colspan="2">22. Januar</td><td colspan="2">2004</td><td>1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Pakistan\* <sup>a</sup></td><td colspan="2">21. Februar</td><td colspan="2">2013 B</td><td>1. September</td><td colspan="3">2013</td></tr>
+<tr><td>Polen</td><td colspan="2">3. März</td><td colspan="2">2003</td><td>1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Portugal\*</td><td colspan="2">7. April</td><td colspan="2">2005</td><td>1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Rumänien\*</td><td colspan="2">8. März</td><td colspan="2">2002</td><td>1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Russland\* <sup>a</sup></td><td colspan="2">21. August</td><td colspan="2">2009 B</td><td>1. Februar</td><td colspan="3">2010</td></tr>
+<tr><td>Schweden</td><td colspan="2">12. Juni</td><td colspan="2">2015</td><td>12. Juni</td><td colspan="3">2015</td></tr>
+<tr><td>Schweiz\*</td><td colspan="2">7. Mai</td><td colspan="2">2002</td><td>1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Serbien <sup>b</sup></td><td colspan="2">24. Januar</td><td colspan="2">2001 B</td><td>1. Juli</td><td colspan="2">2006</td></tr>
+<tr><td>Slowakei\*</td><td colspan="2">11. Juni</td><td colspan="2">2004</td><td>1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Slowenien</td><td colspan="2">10. Februar</td><td colspan="2">2004</td><td>1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Spanien</td><td colspan="2">18. Juni</td><td colspan="2">2002</td><td>1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Syrien</td><td colspan="2">4. Juli</td><td colspan="2">2005</td><td>1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Tschechische Republik\*</td><td colspan="2">22. Dezember</td><td colspan="2">2003</td><td>1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Tunesien</td><td colspan="2">31. August</td><td colspan="2">2000</td><td>1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Türkei</td><td colspan="2">3. April</td><td colspan="2">2006</td><td>1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Ukraine\* <sup>b</sup></td><td colspan="2">26. Oktober</td><td colspan="2">2007 B</td><td>1. November</td><td colspan="3">2007</td></tr>
+<tr><td>Ungarn</td><td colspan="2">15. April</td><td colspan="2">2004</td><td>1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Vereinigtes Königreich\*</td><td colspan="2">29. Juni</td><td colspan="2">2006</td><td>1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td colspan="9">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Zwischenstaatlichen Organisation für den Internationalen Eisenbahnverkehr: www.otif.org &gt; Français &gt; L’OTIF &gt; Convention eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Beitritt zum Übereinkommen nach dem 1. Juli 2006. <sup>b</sup> Beitritt zum Protokoll von 1999. <sup>c</sup> Beitritt zum Übereink. zwischen 3. Juni 1999 und dem Inkrafttreten des Prot. 1999.</td></tr>
 </table>
 
-[^t-8]: [AS 2006 3101](https://fedlex.data.admin.ch/eli/oc/2006/485), [2007 4405](https://fedlex.data.admin.ch/eli/oc/2007/605), [2009 73](https://fedlex.data.admin.ch/eli/oc/2009/15), [2011 1933](https://fedlex.data.admin.ch/eli/oc/2011/281)[3615](https://fedlex.data.admin.ch/eli/oc/2011/500), [2013 2195](https://fedlex.data.admin.ch/eli/oc/2013/463), [2015 1617](https://fedlex.data.admin.ch/eli/oc/2015/318)[5987](https://fedlex.data.admin.ch/eli/oc/2015/927), [2017 3983](https://fedlex.data.admin.ch/eli/oc/2017/474). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-8]: [AS 2006 3101](https://fedlex.data.admin.ch/eli/oc/2006/485); [2007 4405](https://fedlex.data.admin.ch/eli/oc/2007/605); [2009 73](https://fedlex.data.admin.ch/eli/oc/2009/15); [2011 1933](https://fedlex.data.admin.ch/eli/oc/2011/281), [3615](https://fedlex.data.admin.ch/eli/oc/2011/500); [2013 2195](https://fedlex.data.admin.ch/eli/oc/2013/463); [2015 1617](https://fedlex.data.admin.ch/eli/oc/2015/318), [5987](https://fedlex.data.admin.ch/eli/oc/2015/927); [2017 3983](https://fedlex.data.admin.ch/eli/oc/2017/474). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 
