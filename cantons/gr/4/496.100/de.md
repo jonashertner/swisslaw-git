@@ -4,13 +4,13 @@ number: "496.100"
 title: Kantonale Natur- und Heimatschutzverordnung
 short: KNHV
 language: de
-version: 2020-07-01
-corrected: 2021-09-23
-version_adopted: 2020-06-30
+version: 2023-11-01
+valid_until: 2024-08-31
+version_adopted: 2023-10-24
 adopted: 2011-04-18
 in_force: 2011-05-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/496.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3063/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3342/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3063/pdf_file"
 
 (KNHV)
 
-Vom 18.04.2011 (Stand 01.07.2020)
+Vom 18.04.2011 (Stand 01.11.2023)
 
 Gestützt auf Art. 45 der Kantonsverfassung[^ingress-1]
 
@@ -112,7 +112,7 @@ von der Regierung erlassen am 18. April 2011
 
 <sup>1</sup> Die Höhe der Ersatzpflicht wird anhand der Richtlinien der Regierung ermittelt.
 
-<sup>2</sup> Bei Eingriffen in seltene Waldgesellschaften wird die Höhe der Ersatzpflicht nach den Grundlagen des Amtes für Wald ermittelt.
+<sup>2</sup> Bei Eingriffen in seltene Waldgesellschaften wird die Höhe der Ersatzpflicht nach den Grundlagen des Amts für Wald und Naturgefahren ermittelt.
 
 <sup>3</sup> Die Höhe der Ersatzabgabe entspricht den durchschnittlichen Kosten für gleichwertigen Realersatz.
 
@@ -180,11 +180,15 @@ von der Regierung erlassen am 18. April 2011
 
 #### Art. 14
 
-**Kantonales Bauinventar**
+**Erstellung des kantonalen Bauinventars**
 
-<sup>1</sup> Bei der Erstellung des kantonalen Inventars der schutzwürdigen Bauten und Anlagen werden die Inventare und Sachpläne des Bundes, die Richt- und Nutzungspläne des Kantons und der Gemeinden sowie weitere Grundlagen berücksichtigt.
+<sup>1</sup> Bei der Erstellung des kantonalen Inventars der schutzwürdigen Bauten und Anlagen (kantonales Bauinventar) werden die Inventare und Sachpläne des Bundes, die Richt- und Nutzungspläne des Kantons und der Gemeinden sowie weitere Grundlagen berücksichtigt.
 
-<sup>2</sup> Das Inventar kann bei der kantonalen Denkmalpflege eingesehen werden.
+<sup>1<sup>bis</sup></sup> Die Fachstelle orientiert die Gemeinde zu Beginn der Erstellung oder Nachführung des kantonalen Bauinventars unter Angabe der Beurteilungsgrundlagen über die Einleitung des Inventarisierungsprozesses und gibt dieser die Möglichkeit, weitere Grundlagen beizubringen.
+
+<sup>1<sup>ter</sup></sup> Wird eine Besichtigung der Ortschaft, von Gebäudegruppen oder von Einzelbauten durchgeführt, hat die Fachstelle der Gemeinde die Möglichkeit zur Teilnahme einzuräumen.
+
+<sup>2</sup> Das kantonale Bauinventar kann bei der kantonalen Denkmalpflege eingesehen werden.
 
 #### Art. 15
 
@@ -234,7 +238,7 @@ von der Regierung erlassen am 18. April 2011
 
 **Begutachtung**
 
-<sup>1</sup> Die zuständigen Fachstellen unterbreiten Beitragsgesuche von über 200 000 Franken der kantonalen Natur- und Heimatschutzkommission.
+<sup>1</sup> Die zuständigen Fachstellen unterbreiten Beitragsgesuche von über 200 000 Franken der kantonalen Natur- und Heimatschutzkommission. Davon ausgenommen sind Beitragsgesuche im Bereich des Landschafts- und Naturschutzes, welche Bundes- und Kantonsmittel aus Programmvereinbarungen betreffen.
 
 #### Art. 21
 
@@ -324,6 +328,16 @@ von der Regierung erlassen am 18. April 2011
 <sup>2</sup> Bei grösseren Projekten sind Akonto- oder Ratenzahlungen nach Massgabe des Projektfortschrittes möglich.
 
 <sup>3</sup> Die Schlusszahlung erfolgt nach Prüfung der Schlussabrechnung und der Ablieferung einer fachgerechten Dokumentation.
+
+## 4a. Verfahrensbestimmungen
+
+#### Art. 29a
+
+**Genehmigungsbehörde gemäss Spezialgesetzgebung**
+
+<sup>1</sup> Sofern ein Vorhaben einem spezialgesetzlichen Konzessions- oder Projektgenehmigungsverfahren unterliegt, kann die betreffende Genehmigungsbehörde die allfälligen naturschutzrechtlichen Bewilligungen erteilen.
+
+<sup>2</sup> Die naturschutzrechtlichen Bewilligungen dürfen nur erteilt werden, wenn die Zustimmung der üblicherweise zuständigen Bewilligungsbehörde vorliegt.
 
 ## 5. Strafbestimmungen
 

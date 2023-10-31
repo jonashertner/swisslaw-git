@@ -4,13 +4,13 @@ number: "496.100"
 title: Ordinanza cantonale sulla protezione della natura e del paesaggio
 short: OCNP
 language: it
-version: 2020-07-01
-corrected: 2021-09-23
-version_adopted: 2020-06-30
+version: 2023-11-01
+valid_until: 2024-08-31
+version_adopted: 2023-10-24
 adopted: 2011-04-18
 in_force: 2011-05-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/496.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3063/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3342/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3063/pdf_file"
 
 (OCNP)
 
-del 18.04.2011 (stato 01.07.2020)
+del 18.04.2011 (stato 01.11.2023)
 
 emanata dal Governo il 18 aprile 2011
 
@@ -112,7 +112,7 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> L'entità dell'obbligo di compensazione viene determinata in base alle direttive del Governo.
 
-<sup>2</sup> In caso di interventi in fitocenosi forestali rare, l'entità dell'obbligo di compensazione viene determinata secondo le basi dell'Ufficio forestale.
+<sup>2</sup> In caso di interventi in fitocenosi forestali rare, l'entità dell'obbligo di compensazione viene determinata secondo le basi dell'Ufficio foreste e pericoli naturali.
 
 <sup>3</sup> L'ammontare della tassa di compensazione corrisponde alle spese medie per una compensazione in natura equivalente.
 
@@ -180,11 +180,15 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 
 #### Art. 14
 
-**Inventario cantonale delle costruzioni**
+**Allestimento dell'inventario cantonale delle costruzioni**
 
-<sup>1</sup> Per l'allestimento dell'inventario cantonale degli edifici e degli impianti degni di protezione vengono considerati gli inventari e i piani settoriali della Confederazione, i piani direttori e i piani delle utilizzazioni del Cantone e dei comuni, nonché ulteriori basi.
+<sup>1</sup> Per l'allestimento dell'inventario cantonale degli edifici e degli impianti degni di protezione (inventario cantonale delle costruzioni) vengono considerati gli inventari e i piani settoriali della Confederazione, i piani direttori e i piani delle utilizzazioni del Cantone e dei comuni, nonché ulteriori basi.
 
-<sup>2</sup> L'inventario può essere visionato presso il Servizio monumenti cantonale.
+<sup>1<sup>bis</sup></sup> All'inizio dell'allestimento o della tenuta a giorno dell'inventario cantonale delle costruzioni, indicando le basi di valutazione il servizio specializzato informa il comune in merito all'avvio del processo di allestimento dell'inventario e concede al comune la possibilità di addurre ulteriori basi.
+
+<sup>1<sup>ter</sup></sup> Se si procede a una visita della località, di gruppi di edifici o di singoli edifici, il servizio specializzato deve concedere al comune la possibilità di partecipare.
+
+<sup>2</sup> L'inventario cantonale delle costruzioni può essere visionato presso il Servizio monumenti cantonale.
 
 #### Art. 15
 
@@ -234,7 +238,7 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 
 **Esame della domanda**
 
-<sup>1</sup> I competenti servizi specializzati sottopongono le domande di sussidio che superano i 200 000 franchi alla Commissione cantonale per la protezione della natura e del paesaggio.
+<sup>1</sup> I competenti servizi specializzati sottopongono le domande di sussidio che superano i 200 000 franchi alla Commissione cantonale per la protezione della natura e del paesaggio. Fanno eccezione le domande di sussidio nel settore della protezione del paesaggio e della natura concernenti mezzi federali e cantonali da accordi di programma.
 
 #### Art. 21
 
@@ -324,6 +328,16 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 <sup>2</sup> In caso di progetti più importanti sono possibili acconti o versamenti rateali in base all'avanzamento del progetto.
 
 <sup>3</sup> Il versamento finale avviene dopo l'esame del conteggio finale e previa presentazione di una documentazione appropriata.
+
+## 4a. Disposizioni procedurali
+
+#### Art. 29a
+
+**Autorità di approvazione secondo la legislazione specifica**
+
+<sup>1</sup> Se un progetto è soggetto a una procedura di approvazione della concessione o del progetto prevista da una legge specifica, l'autorità di approvazione interessata può rilasciare le eventuali autorizzazioni di diritto in materia di protezione della natura.
+
+<sup>2</sup> Le autorizzazioni di diritto in materia di protezione della natura possono essere rilasciate solo con il consenso dell'autorità usualmente competente per il rilascio dell'autorizzazione.
 
 ## 5. Disposizioni penali
 

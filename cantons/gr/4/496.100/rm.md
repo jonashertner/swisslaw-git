@@ -4,13 +4,13 @@ number: "496.100"
 title: Ordinaziun chantunala davart la protecziun da la natira e da la patria
 short: ONPGR
 language: rm
-version: 2020-07-01
-corrected: 2021-09-23
-version_adopted: 2020-06-30
+version: 2023-11-01
+valid_until: 2024-08-31
+version_adopted: 2023-10-24
 adopted: 2011-04-18
 in_force: 2011-05-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/496.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3063/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3342/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3063/pdf_file"
 
 (ONPGR)
 
-dals 18-04-2011 (versiun dals 01-07-2020)
+dals 18-04-2011 (versiun dals 01-11-2023)
 
 sa basond sin l'art. 45 da la constituziun chantunala[^ingress-1]
 
@@ -112,7 +112,7 @@ relaschada da la regenza ils 18 d'avrigl 2011
 
 <sup>1</sup> L'autezza da la taxa da cumpensaziun vegn eruida a maun da las directivas da la regenza.
 
-<sup>2</sup> En cas d'intervenziuns en biotops da guaud rars vegn l'autezza da la taxa da cumpensaziun eruida tenor la basa da l'uffizi forestal.
+<sup>2</sup> En cas d'intervenziuns en biotops da guaud rars vegn l'autezza da la taxa da cumpensaziun eruida tenor la basa da l'Uffizi da guaud e privels da la natira.
 
 <sup>3</sup> L'autezza da la taxa da cumpensaziun correspunda a la media dals custs d'ina cumpensaziun reala equivalenta.
 
@@ -180,11 +180,15 @@ relaschada da la regenza ils 18 d'avrigl 2011
 
 #### Art. 14
 
-**Inventari chantunal dals edifizis**
+**Elavuraziun da l'Inventari chantunal dals edifizis**
 
-<sup>1</sup> Cun far l'inventari chantunal dals edifizis e dals stabiliments degns da vegnir protegids vegnan resguardads ils inventaris ed ils plans secturials da la confederaziun, ils plans directivs ed ils plans d'utilisaziun dal chantun e da las vischnancas sco er ulteriuras basas.
+<sup>1</sup> Cun elavurar l'inventari chantunal dals edifizis e dals stabiliments degns da vegnir protegids (Inventari chantunal dals edifizis) vegnan resguardads ils inventaris ed ils plans sectorials da la Confederaziun, ils plans directivs ed ils plans d'utilisaziun dal chantun e da las vischnancas sco er ulteriuras basas.
 
-<sup>2</sup> L'inventari po vegnir consultà tar la tgira chantunala da monuments.
+<sup>1<sup>bis</sup></sup> Il post spezialisà orientescha la vischnanca al cumenzament da l'elavuraziun u da l'actualisaziun da l'Inventari chantunal dals edifizis – inditgond las basas da giudicament – davart l'introducziun dal process d'inventarisaziun e dat a la vischnanca la pussaivladad da preschentar ulteriurs documents.
+
+<sup>1<sup>ter</sup></sup> Sch'i vegn fatga ina inspecziun dal lieu, da la gruppa d'edifizis u d'edifizis singuls, sto il post spezialisà conceder a la vischnanca la pussaivladad da sa participar a questa inspecziun.
+
+<sup>2</sup> L'Inventari chantunal dals edifizis po vegnir consultà tar la Tgira chantunala da monuments.
 
 #### Art. 15
 
@@ -234,7 +238,7 @@ relaschada da la regenza ils 18 d'avrigl 2011
 
 **Expertisa**
 
-<sup>1</sup> Ils posts spezialisads cumpetents suttamettan dumondas per contribuziuns da passa 200 000 francs a la cumissiun chantunala per la protecziun da la natira e da la patria.
+<sup>1</sup> Ils posts spezialisads cumpetents suttamettan dumondas per contribuziuns da passa 200 000 francs a la Cumissiun chantunala per la protecziun da la natira e da la patria. Exceptadas da quai èn dumondas per contribuziuns en il sectur da la protecziun da la cuntrada e da la natira, che pertutgan meds finanzials federals e chantunals or da cunvegnas da program.
 
 #### Art. 21
 
@@ -324,6 +328,16 @@ relaschada da la regenza ils 18 d'avrigl 2011
 <sup>2</sup> Tar projects pli gronds pon vegnir fatgs pajaments a quint u en ratas a norma dal progress dal project.
 
 <sup>3</sup> Il pajament final vegn fatg suenter ch'il rendaquint final è vegnì controllà e suenter ch'ina documentaziun professiunala è vegnida furnida.
+
+## 4a. Disposiziuns da procedura
+
+#### Art. 29a
+
+**Autoritad d'approvaziun tenor la legislaziun speziala**
+
+<sup>1</sup> En cas ch'in project è suttamess ad ina procedura d'approvaziun da concessiun u da project da dretg spezial, po l'autoritad d'approvaziun respectiva conceder las eventualas permissiuns tenor il dretg davart la protecziun da la natira.
+
+<sup>2</sup> Las permissiuns tenor il dretg davart la protecziun da la natira dastgan vegnir concedidas mo, sche l'approvaziun da quella autoritad da permissiun, ch'è normalmain cumpetenta, è avant maun.
 
 ## 5. Disposiziuns penalas
 
