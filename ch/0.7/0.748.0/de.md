@@ -3,16 +3,16 @@ sr: "0.748.0"
 title: Übereinkommen vom 7. Dezember 1944 über die internationale Zivilluftfahrt
 eli: "https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381"
 language: de
-version: 2019-06-18
+version: 2023-11-02
 adopted: 1944-12-07
 in_force: 1947-04-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1377_1378_1381/20190618/de/xml/fedlex-data-admin-ch-eli-cc-63-1377_1378_1381-20190618-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/1377_1378_1381/20190618/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1377_1378_1381/20231102/de/xml/fedlex-data-admin-ch-eli-cc-63-1377_1378_1381-20231102-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/1377_1378_1381/20231102/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Übereinkommen über die internationale Zivilluftfahrt****
+# Übereinkommen über die internationale Zivilluftfahrt
 
 BS **13** 615; BBl **1946** III 608[^t-1]
 
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 6. Februar 1947
 
 In Kraft getreten für die Schweiz am 4. April 1947
 
-(Stand am 18. Juni 2019)
+(Stand am 2. November 2023)
 
 [^t-1]: Konsolidierte Version ([AS 1971 1301](https://fedlex.data.admin.ch/eli/oc/1971/1301_1296_1296)).
 
@@ -155,11 +155,11 @@ Jeder Vertragsstaat erklärt sich einverstanden, wirksame Massnahmen zu treffen,
 
 Jeder Flughafen in einem Vertragsstaat, der den inländischen Luftfahrzeugen zur öffentlichen Benutzung offensteht, hat vorbehaltlich der Bestimmungen des Artikels 68 auch den Luftfahrzeugen aller anderen Vertragsstaaten unter einheitlichen Bedingungen offen zu stehen. Die gleichen einheitlichen Bedingungen gelten auch für die Benutzung aller der Öffentlichkeit für die Sicherheit und rasche Abwicklung des Luftverkehrs zur Verfügung stehenden Luftfahrteinrichtungen, einschliesslich des Funk‑ und Wetterdienstes, durch die Luftfahrzeuge jedes Vertragsstaates.
 
-Die Gebühren, die von einem Vertragsstaat für die Benutzung dieser Flughäfen und Luftfahrteinrichtungen durch Luftfahrzeuge eines anderen Vertragsstaates auferlegt werden oder deren Auferlegung von einem Vertragsstaat genehmigt wird, dürfen
-
 Alle diese Gebühren sind zu veröffentlichen und der Internationalen Zivilluftfahrtorganisation mitzuteilen, wobei jedoch die für die Benutzung von Flughäfen und anderen Einrichtungen auferlegten Gebühren auf Vorstellung eines interessierten Vertragsstaates einer Überprüfung durch den Rat unterliegen, der darüber einen Bericht und Empfehlungen zur Prüfung durch den oder die betroffenen Staaten vorlegt. Ein Vertragsstaat darf lediglich für das Recht des Durchflugs über oder des Einflugs in sein Hoheitsgebiet oder des Ausflugs aus diesem durch Luftfahrzeuge eines Vertragsstaates oder der an Bord befindlichen Personen oder Güter keine Gebühren, Abgaben oder sonstiges Entgelt auferlegen.
 
-- a) für Luftfahrzeuge, die nicht im internationalen Fluglinienverkehr eingesetzt sind, nicht höher sein, als die Gebühren, die von inländischen in gleicher Weise verwendeten Luftfahrzeugen derselben Klasse bezahlt würden, und
+Die Gebühren, die von einem Vertragsstaat für die Benutzung dieser Flughäfen und Luftfahrteinrichtungen durch Luftfahrzeuge eines anderen Vertragsstaates auferlegt werden oder deren Auferlegung von einem Vertragsstaat genehmigt wird, dürfen:
+
+- a) für Luftfahrzeuge, die nicht im internationalen Fluglinienverkehr eingesetzt sind, nicht höher sein, als die Gebühren, die von inländischen in gleicher Weise verwendeten Luftfahrzeugen derselben Klasse bezahlt würden; und
 - b) für Luftfahrzeuge, die im internationalen Fluglinienverkehr eingesetzt sind, nicht höher sein, als die Gebühren, die inländische in gleichartigem internationalem Fluglinienverkehr eingesetzte Luftfahrzeuge bezahlen würden.
 
 #### Art. 16
@@ -241,13 +241,13 @@ Bei einem Unfall, der dem Luftfahrzeug eines Vertragsstaates im Hoheitsgebiet ei
 - b) Die Bestimmungen des Absatzes a) dieses Artikels finden auch auf die Lagerung von Ersatzteilen und Ersatzausrüstung für das Luftfahrzeug sowie auf das Recht Anwendung, diese bei Instandsetzung eines Luftfahrzeuges eines Vertragsstaates im Hoheitsgebiet eines anderen Vertragsstaates zu verwenden und einzubauen, vorausgesetzt, dass dieser gelagerte patentierte Teil oder Ausrüstungsgegenstand weder in dem Vertragsstaat, in den das Luftfahrzeug eingeflogen ist, verkauft oder abgegeben, noch aus diesem Staat zu gewerblichen Zwecken ausgeführt wird.
 - c) Die Vergünstigungen dieses Artikels gelten nur für die Vertragsstaaten dieses Übereinkommens, die entweder 1) Parteien der internationalen Übereinkunft zum Schutze des gewerblichen Eigentums und deren Änderungen[^27-1] sind, oder 2) Patentgesetze erlassen haben, welche die Erfindungen von Staatsangehörigen der anderen Vertragsstaaten dieses Übereinkommens anerkennen und ihnen angemessenen Schutz gewähren.
 
-[^27-1]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**/.02**
+[^27-1]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253), SR**0.232****.02**
 
 #### Art. 28
 
 **Luftfahrteinrichtungen und vereinheitlichte Systeme**
 
-Jeder Vertragsstaat verpflichtet sich, soweit er es für durchführbar hält,
+Jeder Vertragsstaat verpflichtet sich, soweit er es für durchführbar hält:
 
 - a) in seinem Hoheitsgebiet Flughäfen, Funk‑ und Wetterdienste und andere Luftfahrteinrichtungen zur Erleichterung der internationalen Luftfahrt gemäss den Normen und Verfahren bereitzustellen, die auf Grund dieses Übereinkommens jeweils empfohlen oder festgelegt werden;
 - b) die entsprechenden vereinheitlichten Systeme für Fernmeldeverfahren, Verschlüsselungen, Markierungen, Signale, Befeuerung und andere Betriebsverfahren und ‑regeln, die auf Grund dieses Übereinkommens jeweils empfohlen oder festgelegt werden, anzunehmen und einzuführen;
@@ -336,7 +336,7 @@ Zu diesem Zweck hat die Internationale Zivilluftfahrtorganisation jeweils, sowei
 - h) Bordbücher;
 - i) Luftfahrtkarten;
 - j) Zoll‑ und Einreiseverfahren;
-- k) Luftfahrzeuge in Not und Unfalluntersuchung
+- k) Luftfahrzeuge in Not und Unfalluntersuchung;
 
 #### Art. 38
 
@@ -383,7 +383,7 @@ Durch dieses Übereinkommen wird eine Organisation gebildet, welche die Internat
 
 **Ziele**
 
-Zweck und Ziel der Organisation sind die Ausarbeitung der Grundsätze und technischen Methoden für die internationale Luftfahrt sowie die Förderung der Planung und Entwicklung des internationalen Luftverkehrs, um
+Zweck und Ziel der Organisation sind die Ausarbeitung der Grundsätze und technischen Methoden für die internationale Luftfahrt sowie die Förderung der Planung und Entwicklung des internationalen Luftverkehrs, um:
 
 - a) ein sicheres und geordnetes Wachsen der internationalen Zivilluftfahrt in der ganzen Welt zu gewährleisten;
 - b) die Konstruktion und den Betrieb von Luftfahrzeugen zu friedlichen Zwecken zu fördern;
@@ -485,7 +485,7 @@ Jeder Vertragsstaat kann ohne Stimmrecht an der durch den Rat, seine Ausschüsse
 
 **Pflichten des Rates**
 
-Der Rat hat
+Der Rat hat:
 
 - a) der Versammlung jährliche Berichte vorzulegen;
 - b) die Weisungen der Versammlung auszuführen und die ihm durch dieses Übereinkommen auferlegten Aufgaben und Obliegenheiten zu erfüllen;
@@ -506,7 +506,7 @@ Der Rat hat
 
 **Freiwillige Tätigkeiten des Rates**
 
-Der Rat kann
+Der Rat kann:
 
 - a) sofern es angebracht und auf Grund der Erfahrungen wünschenswert ist, untergeordnete Luftverkehrskommissionen auf regionaler oder anderer Grundlage schaffen und Gruppen von Staaten oder Fluglinienunternehmen bestimmen, mit denen oder durch die er verhandeln kann, um die Verwirklichung der Ziele dieses Übereinkommens zu erleichtern;
 - b) der Luftfahrtkommission zusätzlich zu den im Übereinkommen festgelegten Aufgaben weitere übertragen und diese Vollmachtsübertragungen jederzeit widerrufen oder ändern;
@@ -817,7 +817,7 @@ Andere als die in den Artikeln 91 und 92 a) vorgesehenen Staaten können, vorbeh
 
 #### Art. 96
 
-Für die Zwecke dieses Übereinkommens bedeutet der Ausdruck
+Für die Zwecke dieses Übereinkommens bedeutet der Ausdruck:
 
 - a) «Fluglinie» jede planmässige Luftverkehrsverbindung, die mit Luftfahrzeugen zur öffentlichen Beförderung von Fluggästen, Post oder Fracht durchgeführt wird;
 - b) «Internationale Fluglinie» eine Fluglinie, die durch den Luftraum über dem Hoheitsgebiet von mehr als einem Staat führt;
@@ -830,17 +830,17 @@ Für die Zwecke dieses Übereinkommens bedeutet der Ausdruck
 
 [^t-2]: Fassung gemäss Prot. vom 30. Sept. 1977, von der BVers genehmigt am 12. Dez. 1979, für die Schweiz in Kraft seit 17. Aug. 1999 ([AS 2004 3999](https://fedlex.data.admin.ch/eli/oc/2004/580)[3993](https://fedlex.data.admin.ch/eli/oc/2004/577); [BBl 1979 II 1](https://fedlex.data.admin.ch/eli/fga/1979/2_1_8_)).
 
-Anhänge**[^t-3]**
+Anhänge[^t-3]
 
 \1. Nachfolgend aufgeführte Anhänge zum Abkommen über die internationale Zivilluftfahrt sind in Kraft:
 
 *Anhang 1* Lizenzierung von Luftfahrtpersonal
 
-Zwölfte Auflage, Juli 2018, anwendbar seit 8. November 2018
+Vierzehnte Auflage, Juli 2018, anwendbar seit 3. November 2022
 
-Letzte Änderung: Nr. –
+Letzte Änderung: –
 
-[^t-3]: Die Anhänge sind weder in der AS noch in der SR veröffentlicht ([AS 2019 3433](https://fedlex.data.admin.ch/eli/oc/2019/624)).
+[^t-3]: Die Anhänge sind weder in der AS noch in der SR veröffentlicht ([AS 2024 112](https://fedlex.data.admin.ch/eli/oc/2024/112)).
 
 *Anhang 2* Verkehrsregeln
 
@@ -850,19 +850,17 @@ Letzte Änderung: Nr. 46, anwendbar seit 8. November 2018
 
 *Anhang 3* Meteorologische Dienste
 
-Zwanzigste Auflage, Juli 2018, anwendbar seit 8. November 2018
-
-Teil I: essentielle SARP
+Zwanzigste Auflage, Juli 2018
 
 Teil II: Beilage und Zusätze
 
-Letzte Änderung: –
+Letzte Änderung: Nr. 80, anwendbar seit 4. November 2021
 
 *Anhang 4* Luftfahrtkarten
 
 Elfte Auflage, Juli 2009
 
-Letzte Änderung: Nr. 60, anwendbar seit 8. November 2018
+Letzte Änderung: Nr. 61, anwendbar seit 4. November 2021
 
 *Anhang 5* Masseinheiten zur Verwendung in der Luft- und Bodenoperationen
 
@@ -876,35 +874,35 @@ Teil I: Internationaler kommerzieller Lufttransport – Flugzeug
 
 Elfte Auflage, Juli 2018, anwendbar seit 8. November 2018
 
-Letzte Änderung: –
+Letzte Änderung: Nr. 48, anwendbar seit 29. Dezember 2022 und ab 1. Januar 2025
 
 Teil II: Internationale allgemeine Luftfahrt – Flugzeug
 
-Zehnte Auflage, Juli 2018, anwendbar seit 8. November 2018
+Elfte Auflage, Juli 2022, anwendbar seit 3. November 2022
 
 Letzte Änderung: –
 
 Teil III: Internationale Flüge von Helikoptern
 
-Neunte Auflage, Juli 2018, anwendbar seit 8. November 2018
+Elfte Auflage, Juli 2018, anwendbar seit 3. November 2022
 
 Letzte Änderung: –
 
 *Anhang 7* Nationalitäts- und Registrierungskennzeichen von Luftfahrzeugen
 
-Sechste Auflage, Juli 2012, anwendbar seit 15. November 2012
+Sechste Auflage, Juli 2012
 
-Letzte Änderung: –
+Letzte Änderung: Nr. 7, anwendbar seit 2. November 2023 und ab 26. November 2026
 
 *Anhang 8* Lufttüchtigkeit von Luftfahrzeugen
 
-Zwölfte Auflage, Juli 2018, anwendbar seit 8. November 2018
+Dreizehnte Auflage, Juli 2022, anwendbar seit 3. November 2022
 
 Letzte Änderung: –
 
 *Anhang 9* Erleichterungen der Luftfahrt (Facilitation)
 
-Fünftzehnte Auflage, Oktober 2017, anwendbar seit 23. Februar 2018
+Sechzehnte Auflage, Juli 2022, anwendbar seit 18. November 2022
 
 Letzte Änderung: –
 
@@ -912,27 +910,27 @@ Letzte Änderung: –
 
 Volume I: Radionavigationshilfen
 
-Siebte Auflage, Juli 2018, anwendbar seit 8. November 2018
+Siebte Auflage, Juli 2018
 
-Letzte Änderung: –
+Letzte Änderung: Nr. 92, anwendbar seit 5. November 2020
 
 Volume II: Kommunikationsverfahren, inkl. jener mit Eigenschaften der Flugsicherungsverfahren
 
-Siebte Auflage, Juli 2016, anwendbar seit 10. November 2016
+Siebte Auflage, Juli 2016
 
-Letzte Änderung: Nr. 91, anwendbar seit 8. November 2018
+Letzte Änderung: Nr. 92, anwendbar seit 5. November 2020
 
 Volume III: Kommunikationssysteme (Teil 1 – Kommunikationssysteme digitaler Daten; Teil 2 – Sprachgestützte Kommunikationssysteme)
 
 Zweite Auflage, Juli 2007
 
-Letzte Änderung: Nr. 90, anwendbar seit 10. November 2016
+Letzte Änderung: Nr. 91, anwendbar seit 3. November 2022
 
 Volume IV: Überwachungs- und Antikollisionssysteme
 
-Fünfte Auflage, Juli 2014, anwendbar seit 13. November 2014
+Fünfte Auflage, Juli 2014
 
-Letzte Änderung: Nr. 90, anwendbar seit 8. November 2018
+Letzte Änderung: Nr. 91, anwendbar seit 3. November 2022
 
 Volume V: Anwendungsspektrum aeronautischer Frequenzen
 
@@ -942,9 +940,9 @@ Letzte Änderung: –
 
 *Anhang 11* Luftverkehrsdienste (ATC, Luftraumüberwachung)
 
-Fünfzehnte Auflage, Juli 2018, anwendbar seit 8. November 2018
+Fünfzehnte Auflage, Juli 2018
 
-Letzte Änderung: –
+Letzte Änderung: Nr. 52, anwendbar seit 5. November 2020
 
 *Anhang 12* Suche und Rettung (SAR)
 
@@ -954,7 +952,7 @@ Letzte Änderung: Nr. 18, anwendbar seit 22. November 2007
 
 *Anhang 13* Flugunfalluntersuchung
 
-Elfte Auflage, Juli 2016, anwendbar seit 10. November 2016
+Zwölfte Auflage, Juli 2020, anwendbar seit 5. November 2020
 
 Letzte Änderung: –
 
@@ -962,41 +960,41 @@ Letzte Änderung: –
 
 Volume I: Konzeption und technischer Betrieb von Flugplätzen
 
-Achte Auflage, Juli 2018, anwendbar seit 8. November 2018
+Neunte Auflage, Juli 2022, anwendbar seit 3. November 2022
 
 Letzte Änderung: –
 
 Volume II: Helikopterlandeplätze
 
-Vierte Auflage, Juli 2013
+Fünfte Auflage, anwendbar seit 5. November 2020
 
-Letzte Änderung: Nr. 8, anwendbar seit 8. November 2018
+Letzte Änderung: -
 
 *Anhang 15* Flugverkehrsinformationsdienste
 
-Sechszehnte Auflage, Juli 2018, anwendbar seit 8. November 2018
+Sechszehnte Auflage, Juli 2018
 
-Letzte Änderung: –
+Letzte Änderung: Nr. 42, anwendbar seit 4. November 2021
 
 *Anhang 16* Umweltschutz
 
 Volume I: Flugzeuglärm
 
-Achte Auflage, Juli 2017, anwendbar seit 1. Januar 2018
+Achte Auflage, Juli 2017
 
-Letzte Änderung: –
+Letzte Änderung: Nr. 13, anwendbar seit 1. Januar 2021
 
 Volume II: Triebwerk-Emissionen
 
-Vierte Auflage, Juli 2017, anwendbar seit 1. Januar 2018
+Vierte Auflage, Juli 2017
 
-Letzte Änderung: –
+Letzte Änderung: Nr. 10, anwendbar seit 1. Januar 2021
 
-Volume III: CO<sub>2</sub>-Emissionen der Flugzeugen
+Volume III: CO<sub>2</sub>-Emissionen der Flugzeuge
 
-Erste Auflage, Juli 2017, anwendbar seit 1. Januar 2018
+Erste Auflage, Juli 2017
 
-Letzte Änderung: –
+Letzte Änderung: Nr. 1, anwendbar seit 1. Januar 2021
 
 Volume IV: CORSIA
 
@@ -1006,9 +1004,9 @@ Letzte Änderung: –
 
 *Anhang 17* Luftsicherheit
 
-Zehnte Auflage, April 2017, anwendbar seit 3. August 2017
+Zwölfte Auflage, Juli 2022, anwendbar seit 18. November 2022
 
-Letzte Änderung: Nr. 16, anwendbar seit 16. November 2018
+Letzte Änderung: –
 
 *Anhang 18* Lufttransport gefährlicher Güter
 
@@ -1018,17 +1016,17 @@ Letzte Änderung: Nr. 12, anwendbar seit 12. November 2015
 
 *Anhang 19* Sicherheitsmanagement
 
-Erste Auflage, Juli 2013, anwendbar seit 14. November 2013
+Zweite Auflage, Juli 2016, anwendbar seit 7. November 2019
 
 Letzte Änderung: –
 
 \2. Die Anhänge und ihre Änderungen werden nicht in der Amtlichen Sammlung des Bundesrechts veröffentlicht und werden nicht in die Landessprachen übersetzt. Eine Ausnahme bildet das Französische, welches eine offizielle Sprache der Internationalen Zivilluftfahrtorganisation (ICAO) ist.
 
-\3. Die Anhänge werden auf der Website des Bundesamtes für Zivilluftfahrt (BAZL) publiziert. Sie können zudem bei der Internationalen Zivilluftfahrtorganisation (ICAO)[^t-4] kostenpflichtig bezogen werden.
+\3. Die Anhänge werden auf der Website des Bundesamtes für Zivilluftfahrt (BAZL) publiziert[^t-4]. Sie können zudem bei der Internationalen Zivilluftfahrtorganisation (ICAO) kostenpflichtig bezogen werden.
 
-[^t-4]: www.bazl.admin.ch
+[^t-4]: Link zum Text der Anhänge: [www.bazl.admin.ch &gt; Themen &gt; Rechtliche Grundlagen &gt; Anhänge zur Konvention der ICAO](https://www.bazl.admin.ch/bazl/de/home/themen/rechtliche-grundlagen/anhaenge-icao.html).
 
-Geltungsbereich am 18. Juni 2019**[^t-5]**
+Geltungsbereich am 18. Juni 2019[^t-5]
 
 <table>
 <tr><th colspan="2">Vertragsstaaten</th><th colspan="2">Ratifikation Beitritt (B)</th><th colspan="2"></th><th>Inkrafttreten</th><th></th></tr>
@@ -1234,7 +1232,7 @@ Geltungsbereich am 18. Juni 2019**[^t-5]**
 <tr><td colspan="8">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite der Vereinigten Staaten: www.state.gov &gt; Policy Issues &gt; Treaties and International Agreements &gt; Offices of Treaty Affairs &gt; Agreement Texts eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Vom 4. April 1947 bis zum 30. Juni 1997 war das Übereink. auf Grund der Zugehörigkeit zum Hoheitsgebiet des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 3. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar. <sup>b</sup> 1. März 1947: Inkrafttreten. Auf Grund der chinesischen Erklärung vom 8. Dez. 1999 ist das Übereink. seit dem 20. Dez. 1999 auch in der SAR Macau anwendbar.</td></tr>
 </table>
 
-[^t-5]: AS **1971** 1305, [1973 1616](https://fedlex.data.admin.ch/eli/oc/1973/1616_1616_1616), [1975 1552](https://fedlex.data.admin.ch/eli/oc/1975/1552_1552_1552), [1976 496](https://fedlex.data.admin.ch/eli/oc/1976/496_496_496), [1977 1299](https://fedlex.data.admin.ch/eli/oc/1977/1299_1299_1299), [1978 190](https://fedlex.data.admin.ch/eli/oc/1978/190_190_190), [1980 418](https://fedlex.data.admin.ch/eli/oc/1980/418_418_418), [1981 1438](https://fedlex.data.admin.ch/eli/oc/1981/1438_1438_1438), [1985 771](https://fedlex.data.admin.ch/eli/oc/1985/771_771_771), [1987 1073](https://fedlex.data.admin.ch/eli/oc/1987/1073_1073_1073), [1989 859](https://fedlex.data.admin.ch/eli/oc/1989/859_859_859), [1990 1566](https://fedlex.data.admin.ch/eli/oc/1990/1566_1566_1566), [2004 3999](https://fedlex.data.admin.ch/eli/oc/2004/580), [2008 1647](https://fedlex.data.admin.ch/eli/oc/2008/238), [2014 2613](https://fedlex.data.admin.ch/eli/oc/2014/459), [2019 2371](https://fedlex.data.admin.ch/eli/oc/2019/443). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-5]: AS **1971** 1305; [1973 1616](https://fedlex.data.admin.ch/eli/oc/1973/1616_1616_1616); [1975 1552](https://fedlex.data.admin.ch/eli/oc/1975/1552_1552_1552); [1976 496](https://fedlex.data.admin.ch/eli/oc/1976/496_496_496); [1977 1299](https://fedlex.data.admin.ch/eli/oc/1977/1299_1299_1299); [1978 190](https://fedlex.data.admin.ch/eli/oc/1978/190_190_190); [1980 418](https://fedlex.data.admin.ch/eli/oc/1980/418_418_418); [1981 1438](https://fedlex.data.admin.ch/eli/oc/1981/1438_1438_1438); [1985 771](https://fedlex.data.admin.ch/eli/oc/1985/771_771_771); [1987 1073](https://fedlex.data.admin.ch/eli/oc/1987/1073_1073_1073); [1989 859](https://fedlex.data.admin.ch/eli/oc/1989/859_859_859); [1990 1566](https://fedlex.data.admin.ch/eli/oc/1990/1566_1566_1566); [2004 3999](https://fedlex.data.admin.ch/eli/oc/2004/580); [2008 1647](https://fedlex.data.admin.ch/eli/oc/2008/238); [2014 2613](https://fedlex.data.admin.ch/eli/oc/2014/459); [2019 2371](https://fedlex.data.admin.ch/eli/oc/2019/443). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.
 
 Vorbehalte und Erklärungen
 

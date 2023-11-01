@@ -3,28 +3,22 @@ sr: "0.748.0"
 title: "Convenzione del 7 dicembre 1944 relativa all'aviazione civile internazionale"
 eli: "https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381"
 language: it
-version: 2019-06-18
+version: 2023-11-02
 adopted: 1944-12-07
 in_force: 1947-04-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1377_1378_1381/20190618/it/xml/fedlex-data-admin-ch-eli-cc-63-1377_1378_1381-20190618-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/1377_1378_1381/20190618/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1377_1378_1381/20231102/it/xml/fedlex-data-admin-ch-eli-cc-63-1377_1378_1381-20231102-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/1377_1378_1381/20231102/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Convenzione relativa all’aviazione civile internazionale****
+# Convenzione relativa all’aviazione civile internazionale
 
 Traduzione[^t-1]
 
-Conchiusa a Chicago il 7 dicembre 1944
+Conchiusa a Chicago il 7 dicembre 1944 Approvata dall’Assemblea federale il 13 dicembre 1946 Ratificazione depositata dalla Svizzera il 6 febbraio 1947 Entrata in vigore per la Svizzera il 4 aprile 1947
 
-Approvata dall’Assemblea federale il 13 dicembre 1946
-
-Ratificazione depositata dalla Svizzera il 6 febbraio 1947
-
-Entrata in vigore per la Svizzera il 4 aprile 1947
-
-(Stato 18 giugno 2019)
+(Stato 2 novembre 2023)
 
 [^t-1]: CS **13** 569; ed. franc. FF **1946** III 583 Versione consolidata (RU **1971** 1296).
 
@@ -239,7 +233,7 @@ In caso di infortunio sopravvenuto ad un aeromobile di uno Stato contraente, sul
 - b) Le disposizioni del paragrafo a) del presente articolo si applicano parimente all’immagazzinamento dei pezzi e del materiale di ricambio dell’aeromobile, come pure al diritto di utilizzare o di montare tali pezzi e materiale per la riparazione degli aeromobili di uno Stato contraente sul territorio di un altro Stato contraente, purché tutti questi pezzi di ricambio o materiale brevettati, in tal modo immagazzinati, non siano venduti o ceduti all’interno dello Stato contraente sul territorio del quale è penetrato l’aeromobile, o esportati a scopo commerciale fuori di tale Stato.
 - c) Possono essere posti al beneficio delle disposizioni del presente articolo soltanto gli Stati membri della presente Convenzione 1) che fanno parte della Convenzione internazionale per la protezione della proprietà industriale e dei suoi emendamenti[^27-1] o 2) che in materia di brevetti hanno promulgato leggi che riconoscano e proteggano adeguatamente le invenzioni appartenenti a cittadini di altri Stati membri della presente Convenzione.
 
-[^27-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**/.02**
+[^27-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253),[0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265)
 
 #### Art. 28
 
@@ -827,16 +821,21 @@ Nel senso della presente Convenzione:
 
 ## Firma della Convenzione
 
-*In fede di che,* i Plenipotenziari sottoscritti, a ciò debitamente autorizzati, firmano la presente Convenzione in nome dei loro rispettivi Governi, il giorno che figura a lato della loro firma. *Fatto* a Chicago, il settimo giorno del mese di dicembre 1944, in lingua inglese. I testi della presente Convenzione redatti nelle lingue francese, inglese, spagnola e russa fanno parimenti fede. I testi saranno depositati presso gli archivi del Governo degli Stati Uniti d’America e copie certificate conformi saranno trasmesse da quel Governo ai Governi di tutti gli Stati che firmeranno la presente Convenzione o vi aderiranno. La presente Convenzione sarà aperta alla firma a Washington (D.C.).[^t-2] (Seguono le firme) Allegati[^t-3] 1. Gli allegati alla Convenzione relativa all’aviazione civile internazionale in vigore sono i seguenti:
+*In fede di che,* i Plenipotenziari sottoscritti, a ciò debitamente autorizzati, firmano la presente Convenzione in nome dei loro rispettivi Governi, il giorno che figura a lato della loro firma. *Fatto* a Chicago, il settimo giorno del mese di dicembre 1944, in lingua inglese. I testi della presente Convenzione redatti nelle lingue francese, inglese, spagnola e russa fanno parimenti fede. I testi saranno depositati presso gli archivi del Governo degli Stati Uniti d’America e copie certificate conformi saranno trasmesse da quel Governo ai Governi di tutti gli Stati che firmeranno la presente Convenzione o vi aderiranno. La presente Convenzione sarà aperta alla firma a Washington (D.C.).[^t-2] (Seguono le firme)
 
 [^t-2]: Emendato dal Prot. del 30 set. 1977, approvato dall’AF il 12 dic. 1979, in vigore per la Svizzera dal 17 ago. 1999 ([RU 2004 3999](https://fedlex.data.admin.ch/eli/oc/2004/580)[3993](https://fedlex.data.admin.ch/eli/oc/2004/577); [FF 1979 II 1](https://fedlex.data.admin.ch/eli/fga/1979/2_1_1_1)).
-[^t-3]: [RU 2019 3433](https://fedlex.data.admin.ch/eli/oc/2019/624)
+
+Allegati[^t-3]
+
+\1. Sono in vigore i seguenti allegati alla Convenzione relativa all’aviazione civile internazionale:
 
 *Allegato 1* Licenze del personale
 
-Dodicesima edizione, luglio 2018, applicabile dall’8 novembre 2018
+Quattordicesima edizione, luglio 2018, applicabile dal 3 novembre 2022
 
 Ultimo emendamento: –
+
+[^t-3]: Il testo dei presenti allegati non è pubblicato né nella RU né nella RS ([RU 2024 112](https://fedlex.data.admin.ch/eli/oc/2024/112)).
 
 *Allegato 2* Regole dell’aria
 
@@ -846,19 +845,17 @@ Ultimo emendamento: n. 46, applicabile dall’8 novembre 2018
 
 *Allegato 3* Servizi di meteorologia per la navigazione aerea internazionale
 
-Ventesima edizione, luglio 2018, applicabile dall’8 novembre 2018
-
-Parte I: SARPs essenziali
+Ventesima edizione, luglio 2018
 
 Parte II: Appendici e supplementi
 
-Ultimo emendamento: –
+Ultimo emendamento: n. 80, applicabile dal 4 novembre 2021
 
 *Allegato 4* Carte aeronautiche
 
 Undicesima edizione, luglio 2009
 
-Ultimo emendamento: n. 60, applicabile dall’8 novembre 2018
+Ultimo emendamento: n. 61, applicabile dal 4 novembre 2021
 
 *Allegato 5* Unità di misura per le operazioni in volo e a terra
 
@@ -872,35 +869,35 @@ Parte I: Trasporto aereo commerciale internazionale – Aeroplani
 
 Undicesima edizione, luglio 2018, applicabile dall’8 novembre 2018
 
-Ultimo emendamento: –
+Ultimo emendamento: n. 48, applicabile dal 29 dicembre 2022 e a partire dal 1° gennaio 2025
 
 Parte II: Aviazione generale internazionale – Aeroplani
 
-Decima edizione, luglio 2018, applicabile dall’8 novembre 2018
+Undicesima edizione, luglio 2022, applicabile dal 3 novembre 2022
 
 Ultimo emendamento: –
 
 Parte III: Voli internazionali – Elicotteri
 
-Nona edizione, luglio 2018, applicabile dall’8 novembre 2018
+Undicesima edizione, luglio 2018, applicabile dal 3 novembre 2022
 
 Ultimo emendamento: –
 
 *Allegato 7* Marche di nazionalità e di immatricolazione degli aeromobili
 
-Sesta edizione, luglio 2012, applicabile dal 15 novembre 2012
+Sesta edizione, luglio 2012
 
-Ultimo emendamento: –
+Ultimo emendamento: n. 7, applicabile dal 2 novembre 2023 e a partire dal 26 novembre 2026
 
 *Allegato 8* Aeronavigabilità degli aeromobili
 
-Dodicesima edizione, luglio 2018, applicabile dall’8 novembre 2018
+Tredicesima edizione, luglio 2022, applicabile dal 3 novembre 2022
 
 Ultimo emendamento: –
 
 *Allegato 9* Facilitazioni
 
-Quindicesima edizione, ottobre 2017, applicabile dal 23 febbraio 2018
+Sedicesima edizione, luglio 2022, applicabile dal 18 novembre 2022
 
 Ultimo emendamento: –
 
@@ -908,29 +905,29 @@ Ultimo emendamento: –
 
 Volume I: Aiuti di radionavigazione
 
-Settima edizione, luglio 2018, applicabile dall’8 novembre 2018
+Settima edizione, luglio 2018
 
-Ultimo emendamento: –
+Ultimo emendamento: n. 92, applicabile dal 5 novembre 2020
 
-Volume II: Procedure di comunicazione
+Volume II: Procedure di comunicazione, comprese quelle che hanno il carattere di procedure per i servizi di navigazione aerea
 
-Settima edizione, luglio 2016, applicabile dal 10 novembre 2016
+Settima edizione, luglio 2016
 
-Ultimo emendamento: n. 91, applicabile dall’8 novembre 2018
+Ultimo emendamento: n. 92, applicabile dal 5 novembre 2020
 
 Volume III: Sistemi di comunicazione (Parte 1: Sistemi di comunicazione di dati digitali; Parte 2: Sistemi di comunicazione vocale)
 
 Seconda edizione, luglio 2007
 
-Ultimo emendamento: n. 90, applicabile dal 10 novembre 2016
+Ultimo emendamento: n. 91, applicabile dal 3 novembre 2022
 
 Volume IV: Sistemi di sorveglianza e anticollisione
 
-Quinta edizione, luglio 2014, applicabile dal 13 novembre 2014
+Quinta edizione, luglio 2014
 
-Ultimo emendamento: n. 90, applicabile dall’8 novembre 2018
+Ultimo emendamento: n. 91, applicabile dal 3 novembre 2022
 
-Volume V: Impiego dello spettro delle radiofrequenze
+Volume V: Impiego dello spettro delle radiofrequenze aeronautiche
 
 Terza edizione, luglio 2013, applicabile dal 14 novembre 2013
 
@@ -938,9 +935,9 @@ Ultimo emendamento: –
 
 *Allegato 11* Servizi del traffico aereo
 
-Quindicesima edizione, luglio 2018, applicabile dall’8 novembre 2018
+Quindicesima edizione, luglio 2018
 
-Ultimo emendamento: –
+Ultimo emendamento: n. 52, applicabile dal 5 novembre 2020
 
 *Allegato 12* Ricerca e soccorso
 
@@ -950,7 +947,7 @@ Ultimo emendamento: n. 18, applicabile dal 22 novembre 2007
 
 *Allegato 13* Inchieste sugli incidenti aeronautici
 
-Undicesima edizione, luglio 2016, applicabile dal 10 novembre 2016
+Dodicesima edizione, luglio 2020, applicabile dal 5 novembre 2020
 
 Ultimo emendamento: –
 
@@ -958,53 +955,53 @@ Ultimo emendamento: –
 
 Volume I: Pianificazione ed esercizio degli aerodromi
 
-Ottava edizione, luglio 2018, applicabile dall’8 novembre 2018
+Nona edizione, luglio 2022, applicabile dal 3 novembre 2022
 
 Ultimo emendamento: –
 
 Volume II: Eliporti
 
-Quarta edizione, luglio 2013
+Quinta edizione, applicabile dal 5 novembre 2020
 
-Ultimo emendamento: n. 8, applicabile dall’8 novembre 2018
+Ultimo emendamento: –
 
 *Allegato 15* Servizio di informazioni aeronautiche
 
-Sedicesima edizione, luglio 2018, applicabile dall’8 novembre 2018
+Sedicesima edizione, luglio 2018
 
-Ultimo emendamento: –
+Ultimo emendamento: n. 42, applicabile dal 4 novembre 2021
 
 *Allegato 16* Protezione dell’ambiente
 
 Volume I: Rumore degli aeromobili
 
-Ottava edizione, luglio 2017, applicabile dal 1° gennaio 2018
+Ottava edizione, luglio 2017
 
-Ultimo emendamento: –
+Ultimo emendamento: n. 13, applicabile dal 1° gennaio 2021
 
 Volume II: Emissioni dei motori degli aeromobili
 
-Quarta edizione, luglio 2017, applicabile dal 1° gennaio 2018
+Quarta edizione, luglio 2017
 
-Ultimo emendamento: –
+Ultimo emendamento: n. 10, applicabile dal 1° gennaio 2021
 
-Volume III: Emissioni di CO*2* degli aeromobili
+Volume III: Emissioni di CO<sub>2</sub> degli aeromobili
 
-Prima edizione, luglio 2017, applicabile dal 1° gennaio 2018
+Prima edizione, luglio 2017
 
-Ultimo emendamento: –
+Ultimo emendamento: n. 1, applicabile dal 1° gennaio 2021
 
 Volume IV: CORSIA
 
-Prima edizione, ottobre 2018, applicabile dal 1° settembre 2019
+Prima edizione, ottobre 2018, applicabile dal 1° gennaio 2019
 
 Ultimo emendamento: –
 
 *Allegato 17* Misure di sicurezza contro gli atti di interferenza illecita
 
-Decima edizione, aprile 2017, applicabile dal 3 agosto 2017
+Dodicesima edizione, luglio 2022, applicabile dal 18 novembre 2022
 
-Ultimo emendamento: n. 16, applicabile dal 16 novembre 2018
+Ultimo emendamento: –
 
 *Allegato 18* Misure di sicurezza per il trasporto aereo di merci pericolose
 
@@ -1014,17 +1011,17 @@ Ultimo emendamento: n. 12, applicabile dal 12 novembre 2015
 
 *Allegato 19* Gestione della sicurezza
 
-Prima edizione, luglio 2013, applicabile dal 14 novembre 2013
+Seconda edizione, luglio 2016, applicabile dal 7 novembre 2019
 
 Ultimo emendamento: –
 
-\2. Gli allegati e i loro emendamenti non sono né pubblicati nella Raccolta ufficiale delle leggi federali né tradotti nelle lingue nazionali svizzere, ad eccezione del francese che è una lingua ufficiale dell’Organizzazione per l’aviazione civile internazionale (OACI).
+\2. Gli allegati e i loro emendamenti non sono né pubblicati nella Raccolta ufficiale delle leggi federali né tradotti nelle lingue nazionali, ad eccezione del francese che è una lingua ufficiale dell’Organizzazione per l’aviazione civile internazionale (OACI).
 
 \3. Il testo degli allegati e dei loro emendamenti è accessibile sul sito Internet dell’Ufficio federale dell’aviazione civile (UFAC)[^t-4]. Può essere anche acquistato presso l’OACI.
 
-[^t-4]: www.ufac.admin.ch
+[^t-4]: Link al testo degli allegati e degli emendamenti: [www.bazl.admin.ch &gt; Temi &gt; Basi legali &gt; Allegati della Convenzione dell’OACI](https://www.bazl.admin.ch/bazl/it/home/themen/basi-legali/allegati-della-convenzione-dell-organizzazione-dell-aviazione-ci.html).
 
-Campo d’applicazione il 18 giugno 2019**[^t-5]**
+Campo d’applicazione il 18 giugno 2019[^t-5]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -1227,12 +1224,12 @@ Campo d’applicazione il 18 giugno 2019**[^t-5]**
 <tr><td>Yemen</td><td>17 aprile</td><td>1964 A</td><td>17 maggio</td><td>1964</td></tr>
 <tr><td>Zambia</td><td>30 ottobre</td><td>1964 A</td><td>29 novembre</td><td>1964</td></tr>
 <tr><td>Zimbabwe</td><td>11 febbraio</td><td>1981 A</td><td>13 marzo</td><td>1981</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e dichiarazioni, ad eccezione di quelle della Svizzera, non sono pubblicate nella RU. Il testo in inglese può essere consultato sul sito Internet del Governo degli Stati Uniti: www.state.gov &gt; Policy Issues &gt; Treaties and International Agreements &gt; Offices of Treaty Affairs &gt; Agreement Texts, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e dichiarazioni, ad eccezione di quelle della Svizzera, non sono pubblicate nella RU. Il testo in inglese può essere consultato sul sito Internet del Governo degli Stati Uniti: [www.state.gov](http://www.state.gov) &gt; Policy Issues &gt; Treaties and International Agreements &gt; Offices of Treaty Affairs &gt; Agreement Texts, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Dal 4 apr. 1947 al 30 giu. 1997, la Conv. era applicabile a Hong Kong che faceva parte del territorio del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 3 giu. 1997, dal 1° lug. 1997 la Conv. è applicabile anche alla RAS Hong Kong.</td></tr>
 <tr><td colspan="5"><sup>b</sup> In base a una dichiarazione della Repubblica Popolare Cinese dell’8 dic. 1999, dal 20 dic. 1999 la Conv. è applicabile alla Regione amministrativa speciale (RAS) di Macao.</td></tr>
 </table>
 
-[^t-5]: RU **1971** 1299, [1973 1616](https://fedlex.data.admin.ch/eli/oc/1973/1616_1616_1616), [1975 1551](https://fedlex.data.admin.ch/eli/oc/1975/1552_1551_1551), [1976 496](https://fedlex.data.admin.ch/eli/oc/1976/496_496_496), [1977 1299](https://fedlex.data.admin.ch/eli/oc/1977/1299_1299_1299), [1978 190](https://fedlex.data.admin.ch/eli/oc/1978/190_190_190), [1980 418](https://fedlex.data.admin.ch/eli/oc/1980/418_418_418), [1981 1438](https://fedlex.data.admin.ch/eli/oc/1981/1438_1438_1438), [1985 771](https://fedlex.data.admin.ch/eli/oc/1985/771_771_771), [1987 1073](https://fedlex.data.admin.ch/eli/oc/1987/1073_1073_1073), [1989 859](https://fedlex.data.admin.ch/eli/oc/1989/859_859_859), [1990 1566](https://fedlex.data.admin.ch/eli/oc/1990/1566_1566_1566), [2004 3999](https://fedlex.data.admin.ch/eli/oc/2004/580), [2008 1647](https://fedlex.data.admin.ch/eli/oc/2008/238), [2014 2613](https://fedlex.data.admin.ch/eli/oc/2014/459)e [2019 2371](https://fedlex.data.admin.ch/eli/oc/2019/443). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-5]: RU **1971** 1299; [1973 1616](https://fedlex.data.admin.ch/eli/oc/1973/1616_1616_1616); [1975 1551](https://fedlex.data.admin.ch/eli/oc/1975/1552_1551_1551); [1976 496](https://fedlex.data.admin.ch/eli/oc/1976/496_496_496); [1977 1299](https://fedlex.data.admin.ch/eli/oc/1977/1299_1299_1299); [1978 190](https://fedlex.data.admin.ch/eli/oc/1978/190_190_190); [1980 418](https://fedlex.data.admin.ch/eli/oc/1980/418_418_418); [1981 1438](https://fedlex.data.admin.ch/eli/oc/1981/1438_1438_1438); [1985 771](https://fedlex.data.admin.ch/eli/oc/1985/771_771_771); [1987 1073](https://fedlex.data.admin.ch/eli/oc/1987/1073_1073_1073); [1989 859](https://fedlex.data.admin.ch/eli/oc/1989/859_859_859); [1990 1566](https://fedlex.data.admin.ch/eli/oc/1990/1566_1566_1566); [2004 3999](https://fedlex.data.admin.ch/eli/oc/2004/580); [2008 1647](https://fedlex.data.admin.ch/eli/oc/2008/238); [2014 2613](https://fedlex.data.admin.ch/eli/oc/2014/459); [2019 2371](https://fedlex.data.admin.ch/eli/oc/2019/443). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
 
 Riserve e dichiarazioni
 

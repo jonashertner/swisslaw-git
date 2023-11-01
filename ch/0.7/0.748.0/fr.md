@@ -3,16 +3,16 @@ sr: "0.748.0"
 title: "Convention du 7 décembre 1944 relative à l'aviation civile internationale"
 eli: "https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381"
 language: fr
-version: 2019-06-18
+version: 2023-11-02
 adopted: 1944-12-07
 in_force: 1947-04-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1377_1378_1381/20190618/fr/xml/fedlex-data-admin-ch-eli-cc-63-1377_1378_1381-20190618-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/1377_1378_1381/20190618/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1377_1378_1381/20231102/fr/xml/fedlex-data-admin-ch-eli-cc-63-1377_1378_1381-20231102-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/1377_1378_1381/20231102/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Convention relative à l’aviation civile internationale****
+# Convention relative à l’aviation civile internationale
 
 RS **13** 619; FF **1946** III 583[^t-1]
 
@@ -26,7 +26,7 @@ Instruments de ratification déposés par la Suisse le 6 février 1947
 
 Entrée en vigueur pour la Suisse le 4 avril 1947
 
-(Etat le 18 juin 2019)
+(État le 2 novembre 2023)
 
 [^t-1]: Version consolidée ([RO 1971 1296](https://fedlex.data.admin.ch/eli/oc/1971/1301_1296_1296)).
 [^t-2]: RO **63** 1377
@@ -242,7 +242,7 @@ En cas d’accident survenu à un aéronef d’un État contractant sur le terri
 - b) Les dispositions du par. a) du présent article s’appliquent aussi à l’entreposage des pièces et du matériel de rechange pour les aéronefs, ainsi qu’au droit d’utiliser et de monter ces pièces et matériel lors de la réparation d’un aéronef d’un État contractant sur le territoire d’un autre État contractant, aucune pièce ni aucun matériel breveté ainsi entreposé ne pouvant être vendu ou cédé à l’intérieur de l’État contractant sur le territoire duquel a pénétré l’aéronef, ou exporté de cet État à des fins commerciales.
 - c) Seuls bénéficient des dispositions du présent article les États parties à la présente Convention 1) qui sont également parties à la Convention internationale sur la protection de la propriété industrielle et à tous amendements à ladite Convention[^27-1] ou 2) qui ont promulgué, sur les brevets, des lois reconnaissant et protégeant d’une manière adéquate les inventions des ressortissants des autres États parties à la présente Convention.
 
-[^27-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**/.02**
+[^27-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253), [0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265)
 
 #### Art. 28
 
@@ -833,17 +833,17 @@ Les États autres que ceux auxquels s’appliquent les art. 91 et 92 a) peuvent,
 
 [^t-3]: Amendé par le prot. du 30 sept. 1977, approuvé par l’Ass. féd. le 12 déc. 1979, en vigueur pour la Suisse depuis le 17 août 1999 ([RO 2004 3999](https://fedlex.data.admin.ch/eli/oc/2004/580)[3993](https://fedlex.data.admin.ch/eli/oc/2004/577); [FF 1979 II 1](https://fedlex.data.admin.ch/eli/fga/1979/2_1_1_1)).
 
-Annexes**[^t-4]**
+Annexes[^t-4]
 
 \1. Les annexes à la Convention relative à l’aviation civile internationale en vigueur sont les éditions suivantes:
 
 *Annexe 1* Licences du personnel
 
-Douzième édition, juillet 2018, applicable depuis le 8 novembre 2018
+Quatorzième édition, juillet 2018, applicable depuis le 3 novembre 2022
 
 Dernier amendement: –
 
-[^t-4]: Ces annexes ne sont publiées ni au RO, ni au RS ([RO 2019 3433](https://fedlex.data.admin.ch/eli/oc/2019/624)).
+[^t-4]: Ces annexes ne sont publiées ni au RO, ni au RS ([RO 2024 112](https://fedlex.data.admin.ch/eli/oc/2024/112)).
 
 *Annexe 2* Règles de l’air
 
@@ -853,23 +853,21 @@ Dernier amendement: n<sup>o</sup> 46, applicable depuis le 8 novembre 2018
 
 *Annexe 3* Assistance météorologique à la navigation aérienne internationale
 
-Vingtième édition, juillet 2018, applicable depuis le 8 novembre 2018
-
-Partie I: SARP essentielles
+Vingtième édition, juillet 2018
 
 Partie II: Appendices et suppléments
 
-Dernier amendement: –
+Dernier amendement: n<sup>o</sup> 80, applicable depuis le 4 novembre 2021
 
 *Annexe 4* Cartes aéronautiques
 
 Onzième édition, juillet 2009
 
-Dernier amendement: n<sup>o</sup> 60, applicable depuis le 8 novembre 2018
+Dernier amendement: n<sup>o</sup> 61, applicable depuis le 4 novembre 2021
 
 *Annexe 5* Unités de mesure à utiliser dans l’exploitation en vol et au sol
 
-Cinquième édition, juillet 2010, applicable depuis le 10 novembre 2010
+Cinquième édition, juillet 2010, applicable depuis le 18 novembre 2010
 
 Dernier amendement: –
 
@@ -879,35 +877,35 @@ Partie I: Aviation de transport commercial international – Avions
 
 Onzième édition, juillet 2018, applicable depuis le 8 novembre 2018
 
-Dernier amendement: –
+Dernier amendement: n<sup>o</sup> 48, applicable depuis le 29 décembre 2022 et à partir du 1<sup>er</sup> janvier 2025
 
 Partie II: Aviation générale internationale – Avions
 
-Dixième édition, juillet 2018, applicable depuis le 8 novembre 2018
+Onzième édition, juillet 2022, applicable depuis le 3 novembre 2022
 
 Dernier amendement: –
 
 Partie III: Vols internationaux d’hélicoptères
 
-Neuvième édition, juillet 2018, applicable depuis le 8 novembre 2018
+Onzième édition, juillet 2018, applicable depuis le 3 novembre 2022
 
 Dernier amendement: –
 
 *Annexe 7* Marques de nationalité et d’immatriculation des aéronefs
 
-Sixième édition, juillet 2012, applicable depuis le 15 novembre 2012
+Sixième édition, juillet 2012
 
-Dernier amendement: –
+Dernier amendement: n<sup>o</sup> 7, applicable depuis le 2 novembre 2023 et à partir du 26 novembre 2026
 
 *Annexe 8* Navigabilité des aéronefs
 
-Douzième édition, juillet 2018, applicable depuis le 8 novembre 2018
+Treizième édition, juillet 2022, applicable depuis le 3 novembre 2022
 
 Dernier amendement: –
 
 *Annexe 9* Facilitation
 
-Quinzième édition, octobre 2017, applicable depuis le 23 février 2018
+Seizième édition, juillet 2022, applicable depuis le 18 novembre 2022
 
 Dernier amendement: –
 
@@ -915,27 +913,27 @@ Dernier amendement: –
 
 Volume I: Aides radio à la navigation
 
-Septième édition, juillet 2018, applicable depuis le 8 novembre 2018
+Septième édition, juillet 2018
 
-Dernier amendement: –
+Dernier amendement: n<sup>o</sup> 92, applicable depuis le 5 novembre 2020
 
 Volume II: Procédures de télécommunication, y compris celles qui ont le caractère de procédures pour les services de navigation aérienne
 
-Septième édition, juillet 2016, applicable depuis le 10 novembre 2016
+Septième édition, juillet 2016
 
-Dernier amendement: n<sup>o</sup> 91, applicable depuis le 8 novembre 2018
+Dernier amendement: n<sup>o</sup> 92, applicable depuis le 5 novembre 2020
 
 Volume III: Systèmes de télécommunication (Partie 1 – Systèmes de communication de données numériques; Partie 2 – Systèmes de communications vocales)
 
 Deuxième édition, juillet 2007
 
-Dernier amendement: n<sup>o</sup> 90, applicable depuis le 10 novembre 2016
+Dernier amendement: n<sup>o</sup> 91, applicable depuis le 3 novembre 2022
 
 Volume IV: Systèmes de surveillance et anticollision
 
-Cinquième édition, juillet 2014, applicable depuis le 13 novembre 2014
+Cinquième édition, juillet 2014
 
-Dernier amendement: n<sup>o</sup> 90, applicable depuis le 8 novembre 2018
+Dernier amendement: n<sup>o</sup> 91, applicable depuis le 3 novembre 2022
 
 Volume V: Emploi du spectre des radiofréquences aéronautiques
 
@@ -945,9 +943,9 @@ Dernier amendement: –
 
 *Annexe 11* Services de la circulation aérienne
 
-Quinzième édition, juillet 2018, applicable depuis le 8 novembre 2018
+Quinzième édition, juillet 2018
 
-Dernier amendement: –
+Dernier amendement: n<sup>o</sup> 52, applicable depuis le 5 novembre 2020
 
 *Annexe 12* Recherches et sauvetage
 
@@ -957,7 +955,7 @@ Dernier amendement: n<sup>o</sup> 18, applicable depuis le 22 novembre 2007
 
 *Annexe 13* Enquêtes sur les accidents et incidents d’aviation
 
-Onzième édition, juillet 2016, applicable depuis le 10 novembre 2016
+Douzième édition, juillet 2020, applicable depuis le 5 novembre 2020
 
 Dernier amendement: –
 
@@ -965,41 +963,41 @@ Dernier amendement: –
 
 Volume I: Conception et exploitation technique des aérodromes
 
-Huitième édition, juillet 2018, applicable depuis le 8 novembre 2018
+Neuvième édition, juillet 2022, applicable depuis le 3 novembre 2022
 
 Dernier amendement: –
 
 Volume II: Hélistations
 
-Quatrième édition, juillet 2013
+Cinquième édition, applicable depuis le 5 novembre 2020
 
-Dernier amendement: n<sup>o</sup> 8, applicable depuis le 8 novembre 2018
+Dernier amendement: –
 
 *Annexe 15* Services d’information aéronautique
 
-Seizième édition, juillet 2018, applicable depuis le 8 novembre 2018
+Seizième édition, juillet 2018
 
-Dernier amendement: –
+Dernier amendement: n<sup>o</sup> 42, applicable depuis le 4 novembre 2021
 
 *Annexe 16* Protection de l’environnement
 
 Volume I: Bruit des aéronefs
 
-Huitième édition, juillet 2017, applicable depuis le 1<sup>er</sup> janvier 2018
+Huitième édition, juillet 2017
 
-Dernier amendement: –
+Dernier amendement: n<sup>o</sup> 13, applicable depuis le 1<sup>er</sup> janvier 2021
 
-Volume II: Emissions des moteurs d’aviation
+Volume II: Émissions des moteurs d’aviation
 
-Quatrième édition, juillet 2017, applicable depuis le 1<sup>er</sup> janvier 2018
+Quatrième édition, juillet 2017
 
-Dernier amendement: –
+Dernier amendement: n<sup>o</sup> 10, applicable depuis le 1<sup>er</sup> janvier 2021
 
-Volume III: Emissions de CO<sub>2</sub> des avions
+Volume III: Émissions de CO<sub>2</sub> des avions
 
-Première édition, juillet 2017, applicable depuis le 1<sup>er</sup> janvier 2018
+Première édition, juillet 2017
 
-Dernier amendement: –
+Dernier amendement: n<sup>o</sup> 1, applicable depuis le 1<sup>er</sup> janvier 2021
 
 Volume IV: Régime de compensation et de réduction de carbone pour l’aviation civile internationale (CORSIA)
 
@@ -1009,9 +1007,9 @@ Dernier amendement: –
 
 *Annexe 17* Sûreté
 
-Dixième édition, avril 2017, applicable depuis le 3 août 2017
+Douzième édition, juillet 2022, applicable depuis le 18 novembre 2022
 
-Dernier amendement: n<sup>o</sup> 16, applicable depuis le 16 novembre 2018
+Dernier amendement: –
 
 *Annexe 18* Sécurité du transport aérien des marchandises dangereuses
 
@@ -1021,7 +1019,7 @@ Dernier amendement: n<sup>o</sup> 12, applicable depuis le 12 novembre 2015
 
 *Annexe 19* Gestion de la sécurité
 
-Première édition, juillet 2013, applicable depuis le 14 novembre 2013
+Deuxième édition, juillet 2016, applicable depuis le 7 novembre 2019
 
 Dernier amendement: –
 
@@ -1029,9 +1027,9 @@ Dernier amendement: –
 
 \3. Le texte des annexes et de leurs amendements est accessible sur le site web de l’office fédéral de l’aviation civile (OFAC)[^t-5]. Il peut d’autre part être obtenu contre paiement auprès de l’OACI.
 
-[^t-5]: Site de l’OFAC: www.bazl.admin.ch
+[^t-5]: Lien vers les textes des annexes et de leurs amendements: [www.bazl.admin.ch &gt; Thèmes &gt; Bases légales &gt; Annexes à la Convention de l’OACI](https://www.bazl.admin.ch/bazl/fr/home/themen/rechtliche-grundlagen/anhaenge-icao.html).
 
-Champ d’application le 18 juin 2019**[^t-6]**
+Champ d’application le 18 juin 2019[^t-6]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -1238,7 +1236,7 @@ Champ d’application le 18 juin 2019**[^t-6]**
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site Internet des États-Unis d’Amérique, dépositaire de cette convention: www.state.gov &gt; Policy Issues &gt; Treaties and International Agreements &gt; Offices of Treaty Affairs &gt; Agreement Texts, ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne <sup>a</sup> Du 4 avril 1947 au 30 juin 1997, la convention était applicable à Hong Kong dû à son appartenance au territoire du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 3 juin 1997, la convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>b</sup> 1<sup>er</sup> avril 1947: Entrée en vigueur. En vertu d’une déclaration de la République populaire de Chine du 8 déc. 1999, la Convention est applicable à la Région administrative spéciale (RAS) de Macao à partir du 20 déc. 1999.</td></tr>
 </table>
 
-[^t-6]: RO **1971** 1300, [1973 1616](https://fedlex.data.admin.ch/eli/oc/1973/1616_1616_1616), [1975 1551](https://fedlex.data.admin.ch/eli/oc/1975/1552_1551_1551), [1976 496](https://fedlex.data.admin.ch/eli/oc/1976/496_496_496), [1977 1299](https://fedlex.data.admin.ch/eli/oc/1977/1299_1299_1299), [1978 190](https://fedlex.data.admin.ch/eli/oc/1978/190_190_190), [1980 418](https://fedlex.data.admin.ch/eli/oc/1980/418_418_418), [1981 1438](https://fedlex.data.admin.ch/eli/oc/1981/1438_1438_1438), [1985 771](https://fedlex.data.admin.ch/eli/oc/1985/771_771_771), [1987 1073](https://fedlex.data.admin.ch/eli/oc/1987/1073_1073_1073), [1989 859](https://fedlex.data.admin.ch/eli/oc/1989/859_859_859), [1990 1566](https://fedlex.data.admin.ch/eli/oc/1990/1566_1566_1566), [2004 3999](https://fedlex.data.admin.ch/eli/oc/2004/580), [2008 1647](https://fedlex.data.admin.ch/eli/oc/2008/238), [2014 2613](https://fedlex.data.admin.ch/eli/oc/2014/459), [2019 2371](https://fedlex.data.admin.ch/eli/oc/2019/443). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-6]: RO **1971** 1300; [1973 1616](https://fedlex.data.admin.ch/eli/oc/1973/1616_1616_1616); [1975 1551](https://fedlex.data.admin.ch/eli/oc/1975/1552_1551_1551); [1976 496](https://fedlex.data.admin.ch/eli/oc/1976/496_496_496); [1977 1299](https://fedlex.data.admin.ch/eli/oc/1977/1299_1299_1299); [1978 190](https://fedlex.data.admin.ch/eli/oc/1978/190_190_190); [1980 418](https://fedlex.data.admin.ch/eli/oc/1980/418_418_418); [1981 1438](https://fedlex.data.admin.ch/eli/oc/1981/1438_1438_1438); [1985 771](https://fedlex.data.admin.ch/eli/oc/1985/771_771_771); [1987 1073](https://fedlex.data.admin.ch/eli/oc/1987/1073_1073_1073); [1989 859](https://fedlex.data.admin.ch/eli/oc/1989/859_859_859); [1990 1566](https://fedlex.data.admin.ch/eli/oc/1990/1566_1566_1566); [2004 3999](https://fedlex.data.admin.ch/eli/oc/2004/580); [2008 1647](https://fedlex.data.admin.ch/eli/oc/2008/238); [2014 2613](https://fedlex.data.admin.ch/eli/oc/2014/459); [2019 2371](https://fedlex.data.admin.ch/eli/oc/2019/443). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Réserves et déclarations
 
