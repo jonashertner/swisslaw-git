@@ -3,11 +3,11 @@ sr: "0.672.972.91"
 title: Convenzione del 23 giugno 2010 tra la Confederazione Svizzera e la Repubblica del Tagikistan per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio (con prot.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/744"
 language: it
-version: 2012-12-04
+version: 2023-11-02
 adopted: 2010-06-23
 in_force: 2011-10-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/744/20121204/it/xml/fedlex-data-admin-ch-eli-cc-2011-744-20121204-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/744/20121204/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/744/20231102/it/xml/fedlex-data-admin-ch-eli-cc-2011-744-20231102-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/744/20231102/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,22 +16,25 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/744/20121204/it"
 
 RU **2011** 5055; FF **2010** 5109
 
-Traduzione*[^t-1]*
+Traduzione
 
 tra la Confederazione Svizzera e la Repubblica del Tagikistan per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio
 
-Conclusa il 23 giugno 2010 Approvata dall’Assemblea federale il 17 giugno 2011[^t-2] Ratificata con strumenti scambiati il 26 ottobre 2011 Entrata in vigore il 26 ottobre 2011
+Conclusa il 23 giugno 2010 Approvata dall’Assemblea federale il 17 giugno 2011[^t-1] Ratificata con strumenti scambiati il 26 ottobre 2011 Entrata in vigore il 26 ottobre 2011
 
-(Stato 4 dicembre 2012)
+(Stato 2 novembre 2023)
 
-[^t-1]: Il testo originale tedesco è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
-[^t-2]: [RU 2011 5053](https://fedlex.data.admin.ch/eli/oc/2011/743)
+[^t-1]: [RU 2011 5053](https://fedlex.data.admin.ch/eli/oc/2011/743)
 
-La Confederazione Svizzera e la Repubblica del Tagikistan
+La Confederazione Svizzera e la Repubblica del Tagikistan,
 
-animati dal desiderio di promuovere e rafforzare la collaborazione economica, scientifica e tecnica fra i due Stati e a tale scopo di concludere una Convenzione per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio,
+desiderosi di sviluppare ulteriormente le relazioni economiche, scientifiche e tecniche fra i due Stati e di concludere una convenzione per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio;
 
-hanno convenuto quanto segue:
+nell’intento di eliminare la doppia imposizione in materia di imposte sul reddito e sul patrimonio considerate dalla Convenzione, senza creare opportunità di non imposizione o di ridotta imposizione attraverso l’evasione o l’elusione fiscale (incluse le strategie di abuso dei trattati fiscali [«treaty-shopping»] finalizzate a ottenere i benefici previsti dalla presente Convenzione a beneficio indiretto di residenti in Stati terzi),
+
+hanno convenuto quanto segue:[^ingress-1]
+
+[^ingress-1]: Nuovo testo giusta l’art. I del Prot. del 4 lug. 2022, approvato dall’AF il 16 giu. 2023, in vigore dal 2 nov. 2023 ([RU 2023 733](https://fedlex.data.admin.ch/eli/oc/2023/733), [732](https://fedlex.data.admin.ch/eli/oc/2023/732); [FF 2022 2960](https://fedlex.data.admin.ch/eli/fga/2022/2960)).
 
 #### Art. 1
 
@@ -93,14 +96,16 @@ Ai sensi della presente Convenzione, salvo che il contesto non richieda una dive
   - – le persone fisiche che possiedono la cittadinanza di uno Stato contraente,
   - – le persone giuridiche, le società di persone e altre associazioni di persone costituite conformemente alla legislazione in vigore in uno Stato contraente;
 
-- i)
+- i)[^3-1]
 
   l’espressione «autorità competente» designa:
 
-  - – per quanto concerne il Tagikistan, il Ministero delle finanze o il suo rappresentante,
-  - – per quanto riguarda la Svizzera, il Direttore dell’Amministrazione federale delle contribuzioni o il suo rappresentante autorizzato.
+  - – in Tagikistan, il Ministero delle finanze o il suo rappresentante autorizzato,
+  - – in Svizzera, il capo del Dipartimento federale delle finanze o il suo rappresentante autorizzato.
 
 <sup>2.</sup> Per l’applicazione della Convenzione da parte di uno Stato contraente, salvo che il contesto non richieda una diversa interpretazione, le espressioni non diversamente definite hanno il significato che ad esse è attribuito nel momento in cui la Convenzione è applicata conformemente alla legislazione di detto Stato relativa alle imposte oggetto della Convenzione, ritenuto che il senso attribuito a queste espressioni dalla legislazione fiscale applicabile in questo Stato prevale sul senso loro attribuito da un’altra legislazione di detto Stato.
+
+[^3-1]: Nuovo testo giusta l’art. II del Prot. del 4 lug. 2022, approvato dall’AF il 16 giu. 2023, in vigore dal 2 nov. 2023 ([RU 2023 733](https://fedlex.data.admin.ch/eli/oc/2023/733), [732](https://fedlex.data.admin.ch/eli/oc/2023/732); [FF 2022 2960](https://fedlex.data.admin.ch/eli/fga/2022/2960)).
 
 #### Art. 4
 
@@ -184,7 +189,12 @@ Nonostante le precedenti disposizioni del presente articolo non si considera che
 
 <sup>6.</sup> Ai fini dell’applicazione dei paragrafi precedenti, gli utili da attribuire alla stabile organizzazione sono determinati ogni anno con lo stesso metodo, a meno che non esistano validi e sufficienti motivi per procedere diversamente.
 
-<sup>7.</sup> Quando gli utili comprendono elementi di reddito considerati separatamente in altri articoli della presente Convenzione, le disposizioni di tali articoli non sono pregiudicate da quelle del presente articolo.
+<sup>7.</sup> Uno Stato contraente non può eseguire una rettifica degli utili attribuibili a una stabile organizzazione di un’impresa di uno Stato contraente decorsi cinque anni dalla fine dell’anno fiscale in cui gli utili sarebbero stati attribuibili alla stabile organizzazione. Le disposizioni del presente paragrafo non sono applicabili in caso di frode, negligenza grave od omissione volontaria.[^7-1]
+
+<sup>8.</sup> [^7-2] Quando gli utili comprendono elementi di reddito considerati separatamente in altri articoli della presente Convenzione, le disposizioni di tali articoli non sono pregiudicate da quelle del presente articolo.
+
+[^7-1]: Introdotto dall’art. III del Prot. del 4 lug. 2022, approvato dall’AF il 16 giu. 2023, in vigore dal 2 nov. 2023 ([RU 2023 733](https://fedlex.data.admin.ch/eli/oc/2023/733), [732](https://fedlex.data.admin.ch/eli/oc/2023/732); [FF 2022 2960](https://fedlex.data.admin.ch/eli/fga/2022/2960)).
+[^7-2]: Originario par. 7.
 
 #### Art. 8
 
@@ -207,7 +217,12 @@ Allorché:
 - a) un’impresa di uno Stato contraente partecipa, direttamente o indirettamente, alla direzione, al controllo o al capitale di un’impresa dell’altro Stato contraente; o
 - b) le medesime persone partecipano, direttamente o indirettamente, alla direzione, al controllo o al capitale di un’impresa di uno Stato contraente e di un’impresa dell’altro Stato contraente; e
 
-<sup>2.</sup> Quando utili, in base ai quali un’impresa di uno Stato contraente è stata tassata in questo Stato, sono inclusi anche negli utili di un’impresa dell’altro Stato contraente e tassati in conseguenza, e gli utili così inclusi sono utili che sarebbero stati conseguiti dall’impresa dell’altro Stato contraente se le condizioni convenute tra le due imprese fossero state quelle che sarebbero state fissate tra imprese indipendenti, le autorità competenti degli Stati contraenti possono consultarsi in vista di raggiungere un accordo sugli adeguamenti da portare agli utili nei due Stati contraenti.
+<sup>2.</sup> Quando uno Stato contraente include negli utili di un’impresa di questo Stato, e tassa di conseguenza, utili sui quali un’impresa dell’altro Stato contraente è stata tassata in questo altro Stato e gli utili così inclusi sono utili che sarebbero stati conseguiti dall’impresa del primo Stato se le condizioni convenute tra le due imprese fossero state quelle che sarebbero state fissate tra imprese indipendenti, l’altro Stato procede a una rettifica appropriata dell’ammontare d’imposta prelevato su questi utili. Per determinare la rettifica occorre tener conto delle altre disposizioni della presente Convenzione; se necessario, le autorità competenti degli Stati contraenti si consultano.[^9-1]
+
+<sup>3.</sup> Uno Stato contraente non può includere negli utili di un’impresa, e tassare di conseguenza, utili che sarebbero stati conseguiti da detta impresa ma che non lo sono stati a motivo delle condizioni indicate nel paragrafo 1 decorsi cinque anni dalla fine dell’anno fiscale in cui gli utili sarebbero stati conseguiti dall’impresa. Le disposizioni del presente paragrafo non sono applicabili in caso di frode, negligenza grave od omissione volontaria.[^9-2]
+
+[^9-1]: Nuovo testo giusta l’art. IV par. 1 del Prot. del 4 lug. 2022, approvato dall’AF il 16 giu. 2023, in vigore dal 2 nov. 2023 ([RU 2023 733](https://fedlex.data.admin.ch/eli/oc/2023/733), [732](https://fedlex.data.admin.ch/eli/oc/2023/732); [FF 2022 2960](https://fedlex.data.admin.ch/eli/fga/2022/2960)).
+[^9-2]: Introdotto dall’art. IV par. 2 del Prot. del 4 lug. 2022, approvato dall’AF il 16 giu. 2023, in vigore dal 2 nov. 2023 ([RU 2023 733](https://fedlex.data.admin.ch/eli/oc/2023/733), [732](https://fedlex.data.admin.ch/eli/oc/2023/732); [FF 2022 2960](https://fedlex.data.admin.ch/eli/fga/2022/2960)).
 
 #### Art. 10
 
@@ -437,13 +452,45 @@ Per quanto concerne la Svizzera, la doppia imposizione sarà evitata nel modo se
 
 #### Art. 26
 
-**Membri di missioni diplomatiche e di rappresentanze consolari**
+**Scambio di informazioni**[^26-1]
 
-Le disposizioni della presente Convenzione non pregiudicano i privilegi fiscali di cui beneficiano i membri di missioni diplomatiche e di rappresentanze consolari in virtù delle regole generali del diritto internazionale o di accordi particolari.
+<sup>1.</sup> Le autorità competenti degli Stati contraenti si scambiano le informazioni verosimilmente rilevanti per l’esecuzione della presente Convenzione oppure per l’applicazione o l’esecuzione della legislazione nazionale relativa alle imposte considerate dalla Convenzione nella misura in cui l’imposizione prevista da tale legislazione non sia contraria alla Convenzione. Lo scambio di informazioni non è limitato dall’articolo 1.
+
+<sup>2.</sup> Le informazioni ottenute da uno Stato contraente in virtù del paragrafo 1 sono tenute segrete allo stesso modo di quelle ottenute in applicazione della legislazione di questo Stato e sono accessibili soltanto alle persone o autorità (compresi i tribunali e gli organi amministrativi) incaricate dell’accertamento o della riscossione delle imposte di cui al paragrafo 1, dell’esecuzione o del perseguimento penale relativi a tali imposte oppure della decisione in merito ai ricorsi concernenti tali imposte. Dette persone o autorità possono utilizzare le informazioni unicamente per questi fini. Possono rivelarle nell’ambito di una procedura giudiziaria pubblica o di una decisione giudiziaria. Nonostante le disposizioni precedenti, uno Stato contraente può utilizzare le informazioni ricevute ad altri fini, se tali informazioni possono essere impiegate per tali altri fini secondo la legislazione di entrambi gli Stati e se le autorità competenti dello Stato richiesto ne hanno approvato tale altro impiego.
+
+<sup>3.</sup>
+
+Le disposizioni dei paragrafi 1 e 2 non possono essere interpretate nel senso che facciano obbligo a uno Stato contraente di:
+
+- a) eseguire misure amministrative in deroga alla sua legislazione e alla sua prassi amministrativa o a quelle dell’altro Stato contraente;
+- b) fornire informazioni che non possono essere ottenute in virtù della sua legislazione o nell’ambito della sua normale prassi amministrativa oppure di quelle dell’altro Stato contraente;
+- c) fornire informazioni che potrebbero rivelare segreti commerciali o d’affari, industriali o professionali oppure metodi commerciali o informazioni la cui comunicazione sarebbe contraria all’ordine pubblico.
+
+<sup>4.</sup> Qualora, ai sensi del presente articolo, uno Stato contraente chieda informazioni, l’altro Stato contraente usa i poteri a sua disposizione per ottenerle, anche qualora non gli fossero utili a fini fiscali propri. L’obbligo di cui al periodo precedente è soggetto alle limitazioni previste nel paragrafo 3, che tuttavia in nessun caso sono da interpretare come la facoltà di uno Stato contraente di rifiutare la comunicazione di informazioni unicamente perché tali informazioni non presentano alcun interesse per la legislazione di detto Stato contraente.
+
+<sup>5.</sup> In nessun caso le disposizioni del paragrafo 3 sono da interpretare come la facoltà di uno Stato contraente di rifiutare la comunicazione di informazioni unicamente perché tali informazioni sono detenute da una banca, un altro istituto finanziario, un mandatario o una persona operante come agente o fiduciario oppure perché dette informazioni si rifanno ai diritti di proprietà di una persona. Nonostante le disposizioni del paragrafo 3 o le disposizioni contrarie del diritto nazionale, le autorità fiscali dello Stato richiesto sono autorizzate a divulgare le informazioni menzionate in questo paragrafo, sempre che sia necessario per soddisfare gli obblighi da esso previsti.
+
+[^26-1]: Introdotto dall’art. V del Prot. del 4 lug. 2022, approvato dall’AF il 16 giu. 2023, in vigore dal 2 nov. 2023 ([RU 2023 733](https://fedlex.data.admin.ch/eli/oc/2023/733), [732](https://fedlex.data.admin.ch/eli/oc/2023/732); [FF 2022 2960](https://fedlex.data.admin.ch/eli/fga/2022/2960)).
 
 #### Art. 27
 
-**Entrata in vigore**
+**Membri di missioni diplomatiche e di rappresentanze consolari**[^27-1]
+
+Le disposizioni della presente Convenzione non pregiudicano i privilegi fiscali di cui beneficiano i membri di missioni diplomatiche e di rappresentanze consolari in virtù delle regole generali del diritto internazionale o di accordi particolari.
+
+[^27-1]: Originario art 26.
+
+#### Art. 28
+
+**Prevenzione dell’abuso dei trattati**[^28-1]
+
+Nonostante le altre disposizioni della presente Convenzione, un beneficio ai sensi della presente Convenzione non è concesso in relazione a un elemento di reddito o di patrimonio, se è ragionevole concludere, tenuto conto di tutti i fatti e di tutte le circostanze pertinenti, che l’ottenimento di tale beneficio era uno degli scopi principali di qualsiasi accordo, strumento o transazione che ha portato direttamente o indirettamente a tale beneficio, a meno che venga stabilito che la concessione di tale beneficio in dette circostanze sarebbe conforme all’oggetto e allo scopo delle pertinenti disposizioni della presente Convenzione.
+
+[^28-1]: Introdotto dall’art. VII del Prot. del 4 lug. 2022, approvato dall’AF il 16 giu. 2023, in vigore dal 2 nov. 2023 ([RU 2023 733](https://fedlex.data.admin.ch/eli/oc/2023/733), [732](https://fedlex.data.admin.ch/eli/oc/2023/732); [FF 2022 2960](https://fedlex.data.admin.ch/eli/fga/2022/2960)).
+
+#### Art. 29
+
+**Entrata in vigore**[^29-1]
 
 <sup>1.</sup> La presente Convenzione dev’essere ratificata e gli strumenti di ratifica saranno scambiati non appena possibile.
 
@@ -454,18 +501,22 @@ La Convenzione entrerà in vigore allo scambio degli strumenti di ratifica. Le s
 - a) con riferimento alle imposte trattenute alla fonte per importi pagati oppure accreditati il 1° gennaio dell’anno civile successivo a quello dell’entrata in vigore della Convenzione, o dopo tale data;
 - b) con riferimento alle altre imposte, agli anni fiscali che iniziano il 1° gennaio dell’anno civile successivo a quello dell’entrata in vigore della Convenzione, o dopo tale data.
 
-#### Art. 28
+[^29-1]: Originario art 27.
 
-**Denuncia**
+#### Art. 30
+
+**Denuncia**[^30-1]
 
 La presente Convenzione rimane in vigore sino alla denuncia da parte di uno degli Stati contraenti. Ciascuno Stato contraente può denunciare la Convenzione per via diplomatica con un preavviso minimo di sei mesi prima della fine di ogni anno civile. In tal caso, la Convenzione cessa di essere applicabile:
 
 - a) con riferimento alle imposte trattenute alla fonte per importi pagati oppure accreditati il 1° gennaio dell’anno civile successivo a quello in cui è stata notificata la denuncia, o dopo tale data;
 - b) alle rimanenti imposte per gli anni fiscali che iniziano il 1° gennaio dell’anno civile successivo a quello nel corso del quale è stata notificata la denuncia, o dopo tale data.
 
-*In fede di che*, i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato la presente Convenzione. Fatto a Duschanbe, il 23 giugno 2010, in due esemplari in lingua tedesca, tagika, russa e inglese, ciascun testo facente egualmente fede. In caso di divergenza d’interpretazione fra il testo tedesco, tagiko e russo, farà stato il testo inglese. Per la Confederazione Svizzera, Per la Repubblica del Tagikistan, Stephan Nellen Safarali Mahsuddinovich Najmiddinov
+[^30-1]: Originario art 28.
 
-Protocollo
+*In fede di che*, i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato la presente Convenzione. Fatto a Duschanbe, il 23 giugno 2010, in due esemplari in lingua tedesca, tagika, russa e inglese, ciascun testo facente egualmente fede. In caso di divergenza d’interpretazione fra il testo tedesco, tagiko e russo, farà stato il testo inglese. Per la Confederazione Svizzera: Stephan Nellen Per la Repubblica del Tagikistan: Safarali Mahsuddinovich Najmiddinov
+
+[^t-2]
 
 La Confederazione Svizzera e la Repubblica del Tagikistan
 
@@ -487,9 +538,34 @@ Resta inteso che i pagamenti ricevuti per l’uso o la concessione in uso di att
 
 Resta inteso che il termine «pensioni» di cui agli articoli 18 (Pensioni) e 19 (Funzioni pubbliche) non comprende soltanto pagamenti periodici, ma anche prestazioni forfettarie.
 
+**4. Ad art. 26**
+
 Fatto a Duschanbe, il 23 giugno 2010, in due esemplari in lingua tedesca, tagika, russa e inglese, ciascun testo facente egualmente fede. In caso di divergenza d’interpretazione prevale il testo inglese.
 
+Art. IX paragrafo 2 del Protocollo del 4 luglio 2022[^t-3]
+
+- a) Resta inteso che lo Stato richiedente deve sfruttare tutte le fonti di informazione abituali previste dalla sua procedura fiscale interna prima di richiedere uno scambio di informazioni.
+- b)
+
+  Resta inteso che nella domanda di assistenza amministrativa ai sensi dell’articolo 26 le autorità fiscali dello Stato richiedente forniscono le seguenti informazioni alle autorità fiscali dello Stato richiesto:
+
+  - (i) l’identità della persona oggetto del controllo o dell’inchiesta;
+  - (ii) il periodo oggetto della domanda;
+  - (iii) una descrizione delle informazioni richieste, nonché indicazioni sulla forma nella quale lo Stato richiedente desidera ricevere tali informazioni dallo Stato richiesto;
+  - (iv) lo scopo fiscale per cui le informazioni sono richieste;
+  - (v) se sono noti, il nome e l’indirizzo del detentore presunto delle informazioni richieste.
+
+- c) Resta inteso che il riferimento alle informazioni «verosimilmente rilevanti» ha lo scopo di garantire uno scambio di informazioni in ambito fiscale il più ampio possibile, senza tuttavia consentire agli Stati contraenti di intraprendere una ricerca generalizzata e indiscriminata di informazioni («fishing expedition») o di domandare informazioni la cui rilevanza in merito agli affari fiscali di un determinato contribuente non è verosimile. Sebbene la lettera b) contenga importanti requisiti procedurali volti a impedire la «fishing expedition», i numeri (i)–(v) della lettera b) devono essere interpretati in modo da non ostacolare uno scambio effettivo di informazioni.
+- d) Resta inteso che, sulla base dell’articolo 26, gli Stati contraenti non sono tenuti a procedere a uno scambio di informazioni spontaneo o automatico.
+- e) Resta inteso che nel caso di uno scambio di informazioni si applicano le norme di procedura amministrativa relative ai diritti del contribuente in vigore nello Stato richiesto. Resta inoltre inteso che queste norme servono a garantire al contribuente una procedura regolare e non mirano a ostacolare o ritardare indebitamente lo scambio di informazioni.
+
 <table>
-<tr><td>Per la Confederazione Svizzera,</td><td>Per la Repubblica del Tagikistan,</td></tr>
-<tr><td>Stephan Nellen</td><td>Safarali Mahsuddinovich Najmiddinov</td></tr>
+<tr><td>Per la Confederazione Svizzera: Stephan Nellen</td><td>Per la Repubblica del Tagikistan: Safarali Mahsuddinovich Najmiddinov</td></tr>
 </table>
+
+<sup>2.</sup> Le sue disposizioni si applicano, per quanto riguarda lo scambio di informazioni, alle domande presentate il giorno dell’entrata in vigore del Protocollo, o dopo tale data, per informazioni relative ad anni o esercizi fiscali che iniziano il 1° gennaio dell’anno civile successivo a quello di entrata in vigore del Protocollo, o dopo tale data. Il Protocollo è applicato a tutte le altre modifiche a partire dalla sua entrata in vigore.
+
+Protocollo
+
+[^t-2]: Aggiornato dall’art. VIII del Prot. del 4 lug. 2022, approvato dall’AF il 16 giu. 2023, in vigore dal 2 nov. 2023 ([RU 2023 733](https://fedlex.data.admin.ch/eli/oc/2023/733), [732](https://fedlex.data.admin.ch/eli/oc/2023/732); [FF 2022 2960](https://fedlex.data.admin.ch/eli/fga/2022/2960)).
+[^t-3]: [RU 2023 733](https://fedlex.data.admin.ch/eli/oc/2023/733), [732](https://fedlex.data.admin.ch/eli/oc/2023/732); [FF 2022 2960](https://fedlex.data.admin.ch/eli/fga/2022/2960)

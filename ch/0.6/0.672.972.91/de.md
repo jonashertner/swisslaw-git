@@ -3,11 +3,11 @@ sr: "0.672.972.91"
 title: Abkommen vom 23. Juni 2010 zwischen der Schweizerischen Eidgenossenschaft und der Republik Tadschikistan zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen (mit Prot.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/744"
 language: de
-version: 2012-12-04
+version: 2023-11-02
 adopted: 2010-06-23
 in_force: 2011-10-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/744/20121204/de/xml/fedlex-data-admin-ch-eli-cc-2011-744-20121204-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/744/20121204/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/744/20231102/de/xml/fedlex-data-admin-ch-eli-cc-2011-744-20231102-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/744/20231102/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,15 +20,19 @@ Originaltext
 
 Abgeschlossen am 23. Juni 2010 Von der Bundesversammlung genehmigt am 17. Juni 2011[^t-1] Ratifikationsurkunden ausgetauscht am 26. Oktober 2011 In Kraft getreten am 26. Oktober 2011
 
-(Stand am 4. Dezember 2012)
+(Stand am 2. November 2023)
 
 [^t-1]: [AS 2011 5053](https://fedlex.data.admin.ch/eli/oc/2011/743)
 
 Die Schweizerische Eidgenossenschaft und die Republik Tadschikistan
 
-vom Wunsch geleitet, die wirtschaftliche, wissenschaftliche und technische Zusammenarbeit zwischen den beiden Staaten auszubauen und zu festigen und zu diesem Zweck ein Abkommen zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen abzuschliessen,
+vom Wunsch geleitet, die wirtschaftlichen, wissenschaftlichen und technischen Beziehungen zwischen den beiden Staaten weiterzuentwickeln und ein Abkommen zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen abzuschliessen,
 
-haben Folgendes vereinbart:
+in der Absicht, in Bezug auf die vom Abkommen erfassten Steuern vom Einkommen und vom Vermögen eine Doppelbesteuerung zu beseitigen, ohne Möglichkeiten zur Nichtbesteuerung oder reduzierten Besteuerung durch Steuerhinterziehung oder -umgehung (unter anderem durch missbräuchliche Gestaltungen mit dem Ziel des Erhalts von in diesem Abkommen vorgesehenen Erleichterungen zum mittelbaren Nutzen von in Drittstaaten ansässigen Personen) zu schaffen,
+
+haben Folgendes vereinbart:[^ingress-1]
+
+[^ingress-1]: Fassung gemäss Art. I des Prot. vom 4. Juli 2022, von der BVers genehmigt am 16. Juni 2023 und in Kraft seit 2. Nov. 2023 ([AS 2023 733](https://fedlex.data.admin.ch/eli/oc/2023/733), [732](https://fedlex.data.admin.ch/eli/oc/2023/732); [BBl 2022 2960](https://fedlex.data.admin.ch/eli/fga/2022/2960)).
 
 #### Art. 1
 
@@ -90,14 +94,16 @@ Im Sinne diese Abkommens, wenn der Zusammenhang nichts anderes erfordert:
   - – jede natürliche Person, welche die Staatsangehörigkeit eines Vertragsstaats besitzt,
   - – jede juristische Person, Personengesellschaft oder Personenvereinigung, die nach dem in einem Vertragsstaat geltenden Recht errichtet worden sind;
 
-- i)
+- i)[^3-1]
 
   bedeutet der Ausdruck «zuständige Behörde»:
 
-  - – in Tadschikistan, das Finanzministerium oder dessen bevollmächtigter Vertreter,
-  - – in der Schweiz der Direktor der Eidgenössischen Steuerverwaltung oder sein bevollmächtigter Vertreter.
+  - – in Tadschikistan, das Finanzministerium oder seinen bevollmächtigten Vertreter,
+  - – in der Schweiz den Vorsteher des Eidgenössischen Finanzdepartements oder seinen bevollmächtigten Vertreter.
 
 <sup>2.</sup> Bei der Anwendung des Abkommens durch einen Vertragsstaat hat, wenn der Zusammenhang nichts anderes erfordert, jeder im Abkommen nicht definierte Ausdruck die Bedeutung, die ihm im Anwendungszeitraum nach dem Recht dieses Staates über die Steuern zukommt, für die das Abkommen gilt, wobei die Bedeutung nach der in diesem Staat anwendbaren Steuergesetzgebung einer Bedeutung vorgeht, die der Ausdruck nach anderem Recht dieses Staates hat.
+
+[^3-1]: Fassung gemäss Art. II des Prot. vom 4. Juli 2022, von der BVers genehmigt am 16. Juni 2023 und in Kraft seit 2. Nov. 2023 ([AS 2023 733](https://fedlex.data.admin.ch/eli/oc/2023/733), [732](https://fedlex.data.admin.ch/eli/oc/2023/732); [BBl 2022 2960](https://fedlex.data.admin.ch/eli/fga/2022/2960)).
 
 #### Art. 4
 
@@ -181,7 +187,12 @@ Ungeachtet der vorgehenden Bestimmungen dieses Artikels gelten nicht als Betrieb
 
 <sup>6.</sup> Bei der Anwendung der vorstehenden Absätze sind die der Betriebsstätte zuzurechnenden Gewinne jedes Jahr auf dieselbe Art zu ermitteln, es sei denn, dass ausreichende Gründe dafür bestehen, anders zu verfahren.
 
-<sup>7.</sup> Gehören zu den Gewinnen Einkünfte, die in anderen Artikeln dieses Abkommens behandelt werden, so werden die Bestimmungen jener Artikel durch die Bestimmungen dieses Artikels nicht berührt.
+<sup>7.</sup> Ein Vertragsstaat darf keine Berichtigung der Gewinne, die einer Betriebsstätte eines Unternehmens eines der Vertragsstaaten zugerechnet werden können, nach Ablauf von fünf Jahren ab dem Ende des Steuerjahres vornehmen, in dem die Gewinne der Betriebsstätte hätten zugerechnet werden können. Dieser Absatz ist nicht anzuwenden im Fall von Betrug, grober Fahrlässigkeit oder vorsätzlicher Unterlassung.[^7-1]
+
+<sup>8.</sup> Gehören zu den Gewinnen Einkünfte, die in anderen Artikeln dieses Abkommens behandelt werden, so werden die Bestimmungen jener Artikel durch die Bestimmungen dieses Artikels nicht berührt.[^7-2]
+
+[^7-1]: Eingefügt durch Art. III des Prot. vom 4. Juli 2022, von der BVers genehmigt am 16. Juni 2023 und in Kraft seit 2. Nov. 2023 ([AS 2023 733](https://fedlex.data.admin.ch/eli/oc/2023/733), [732](https://fedlex.data.admin.ch/eli/oc/2023/732); [BBl 2022 2960](https://fedlex.data.admin.ch/eli/fga/2022/2960)).
+[^7-2]: Ursprünglich: Abs. 7.
 
 #### Art. 8
 
@@ -204,7 +215,12 @@ Wenn:
 - a) ein Unternehmen eines Vertragsstaats unmittelbar oder mittelbar an der Geschäftsleitung, der Kontrolle oder dem Kapital eines Unternehmens des anderen Vertragsstaats beteiligt ist; oder
 - b) dieselben Personen unmittelbar oder mittelbar an der Geschäftsleitung, der Kontrolle oder dem Kapital eines Unternehmens eines Vertragsstaats und eines Unternehmens des anderen Vertragsstaats beteiligt sind; und
 
-<sup>2.</sup> Werden Gewinne, mit denen ein Unternehmen eines Vertragsstaats besteuert worden ist, auch den Gewinnen eines Unternehmens des andern Vertragsstaats zugerechnet und entsprechend besteuert und handelt es sich dabei um Gewinne, die das Unternehmen des andern Vertragsstaats erzielt hätte, wenn die zwischen den beiden Unternehmen vereinbarten Bedingungen die gleichen gewesen wären, wie sie unabhängige Unternehmen miteinander vereinbaren würden, so können sich die zuständigen Behörden der Vertragsstaaten zur Herbeiführung einer Einigung über die Berichtigung der Gewinne in den beiden Vertragsstaaten konsultieren.
+<sup>2.</sup> Werden in einem Vertragsstaat den Gewinnen eines Unternehmens dieses Staates Gewinne zugerechnet und entsprechend besteuert, mit denen ein Unternehmen des anderen Vertragsstaats in diesem Staat besteuert worden ist, und handelt es sich bei den zugerechneten Gewinnen um solche, die das Unternehmen des erstgenannten Staates erzielt hätte, wenn die zwischen den beiden Unternehmen vereinbarten Bedingungen die gleichen gewesen wären, die unabhängige Unternehmen miteinander vereinbaren würden, so nimmt der andere Staat eine entsprechende Änderung der dort von diesen Gewinnen erhobenen Steuer vor. Bei dieser Änderung sind die übrigen Bestimmungen dieses Abkommens zu berücksichtigen; soweit erforderlich, konsultieren sich die zuständigen Behörden der Vertragsstaaten.[^9-1]
+
+<sup>3.</sup> Ein Vertragsstaat darf nach Ablauf von fünf Jahren ab dem Ende des Steuerjahres, in dem ein Unternehmen die Gewinne erzielt hätte, den Gewinnen des Unternehmens keine Gewinne zurechnen und entsprechend besteuern, die das Unternehmen erzielt hätte, aufgrund der in Absatz 1 genannten Bedingungen jedoch nicht erzielt hat. Dieser Absatz ist nicht anzuwenden im Fall von Betrug, grober Fahrlässigkeit oder vorsätzlicher Unterlassung.[^9-2]
+
+[^9-1]: Fassung gemäss Art. IV Ziff. 1 des Prot. vom 4. Juli 2022, von der BVers genehmigt am 16. Juni 2023 und in Kraft seit 2. Nov. 2023 ([AS 2023 733](https://fedlex.data.admin.ch/eli/oc/2023/733), [732](https://fedlex.data.admin.ch/eli/oc/2023/732); [BBl 2022 2960](https://fedlex.data.admin.ch/eli/fga/2022/2960)).
+[^9-2]: Eingefügt durch Art. IV Ziff. 2 des Prot. vom 4. Juli 2022, von der BVers genehmigt am 16. Juni 2023 und in Kraft seit 2. Nov. 2023 ([AS 2023 733](https://fedlex.data.admin.ch/eli/oc/2023/733), [732](https://fedlex.data.admin.ch/eli/oc/2023/732); [BBl 2022 2960](https://fedlex.data.admin.ch/eli/fga/2022/2960)).
 
 #### Art. 10
 
@@ -437,13 +453,45 @@ In der Schweiz wird die Doppelbesteuerung wie folgt vermieden:
 
 #### Art. 26
 
-**Mitglieder diplomatischer Missionen und konsularischer Vertretungen**
+**Informationsaustausch**[^26-1]
 
-Dieses Abkommen berührt nicht die steuerlichen Vorrechte, die den Mitgliedern diplomatischer Missionen und konsularischer Vertretungen nach den allgemeinen Regeln des Völkerrechts oder aufgrund besonderer Vereinbarungen zustehen.
+<sup>1.</sup> Die zuständigen Behörden der Vertragsstaaten tauschen die Informationen aus, die zur Durchführung dieses Abkommens oder zur Anwendung oder Durchsetzung des innerstaatlichen Rechts über die unter das Abkommen fallenden Steuern voraussichtlich erheblich sind, soweit die diesem Recht entsprechende Besteuerung nicht dem Abkommen widerspricht. Der Informationsaustausch ist durch Artikel 1 nicht eingeschränkt.
+
+<sup>2.</sup> Alle Informationen, die ein Vertragsstaat nach Absatz 1 erhalten hat, sind ebenso geheim zu halten wie die aufgrund des innerstaatlichen Rechts dieses Staates beschafften Informationen; sie dürfen nur den Personen oder Behörden, einschliesslich der Gerichte und der Verwaltungsbehörden, zugänglich gemacht werden, die mit der Veranlagung oder der Erhebung, mit der Vollstreckung oder der Strafverfolgung oder mit der Entscheidung von Rechtsmitteln hinsichtlich der in Absatz 1 genannten Steuern befasst sind. Diese Personen oder Behörden dürfen die Informationen nur für diese Zwecke verwenden. Sie können die Informationen in einem öffentlichen Gerichtsverfahren oder in einer Gerichtsentscheidung offenlegen. Ungeachtet der vorstehenden Bestimmungen kann ein Vertragsstaat die erhaltenen Informationen für andere Zwecke verwenden, wenn solche Informationen nach dem Recht beider Staaten für solche andere Zwecke verwendet werden können und die zuständige Behörde des übermittelnden Staates dieser anderen Verwendung zustimmt.
+
+<sup>3.</sup>
+
+Die Absätze 1 und 2 sind nicht so auszulegen, als verpflichteten sie einen Vertragsstaat:
+
+- a) Verwaltungsmassnahmen durchzuführen, die von den Gesetzen und der Verwaltungspraxis dieses oder des anderen Vertragsstaats abweichen;
+- b) Informationen zu erteilen, die nach den Gesetzen oder im üblichen Verwaltungsverfahren dieses oder des anderen Vertragsstaats nicht beschafft werden können;
+- c) Informationen zu erteilen, die ein Handels-, Geschäfts-, Industrie-, Gewerbe- oder Berufsgeheimnis oder ein Geschäftsverfahren preisgeben würden oder deren Erteilung dem Ordre public widerspräche.
+
+<sup>4.</sup> Ersucht ein Vertragsstaat um Informationen nach diesem Artikel, so nutzt der andere Vertragsstaat die ihm zur Verfügung stehenden Möglichkeiten zur Beschaffung dieser Informationen, selbst wenn dieser andere Staat sie für seine eigenen steuerlichen Zwecke nicht benötigt. Die im vorhergehenden Satz enthaltene Verpflichtung unterliegt den Beschränkungen nach Absatz 3, die jedoch in keinem Fall so auszulegen sind, dass ein Vertragsstaat die Erteilung von Informationen nur deshalb ablehnen kann, weil er kein innerstaatliches Interesse an solchen Informationen hat.
+
+<sup>5.</sup> Absatz 3 ist in keinem Fall so auszulegen, als könne ein Vertragsstaat die Erteilung von Informationen nur deshalb ablehnen, weil sich die Informationen bei einer Bank, einem sonstigen Finanzinstitut, einem Bevollmächtigten, Beauftragten oder Treuhänder befinden oder weil sie sich auf Eigentumsrechte an einer Person beziehen. Ungeachtet des Absatzes 3 oder entgegenstehender Bestimmungen des innerstaatlichen Rechts verfügen die Steuerbehörden des ersuchten Vertragsstaats über die Befugnis, die Offenlegung der in diesem Absatz genannten Informationen durchzusetzen, sofern dies für die Erfüllung der Verpflichtungen nach diesem Absatz erforderlich ist.
+
+[^26-1]: Eingefügt durch Art. V des Prot. vom 4. Juli 2022, von der BVers genehmigt am 16. Juni 2023 und in Kraft seit 2. Nov. 2023 ([AS 2023 733](https://fedlex.data.admin.ch/eli/oc/2023/733), [732](https://fedlex.data.admin.ch/eli/oc/2023/732); [BBl 2022 2960](https://fedlex.data.admin.ch/eli/fga/2022/2960)).
 
 #### Art. 27
 
-**Inkrafttreten**
+**Mitglieder diplomatischer Missionen und konsularischer Vertretungen**[^27-1]
+
+Dieses Abkommen berührt nicht die steuerlichen Vorrechte, die den Mitgliedern diplomatischer Missionen und konsularischer Vertretungen nach den allgemeinen Regeln des Völkerrechts oder aufgrund besonderer Vereinbarungen zustehen.
+
+[^27-1]: Ursprünglich: Art. 26.
+
+#### Art. 28
+
+**Verhinderung von Abkommensmissbrauch**[^28-1]
+
+Ungeachtet der übrigen Bestimmungen dieses Abkommens wird ein Vorteil nach diesem Abkommen nicht für bestimmte Einkünfte oder Vermögenswerte gewährt, wenn unter Berücksichtigung aller massgeblichen Tatsachen und Umstände die Feststellung gerechtfertigt ist, dass der Erhalt dieses Vorteils einer der Hauptzwecke einer Gestaltung oder Transaktion war, die unmittelbar oder mittelbar zu diesem Vorteil geführt hat, es sei denn, es wird nachgewiesen, dass die Gewährung dieses Vorteils unter diesen Umständen mit dem Ziel und Zweck der einschlägigen Bestimmungen dieses Abkommens im Einklang steht.
+
+[^28-1]: Eingefügt durch Art. VII des Prot. vom 4. Juli 2022, von der BVers genehmigt am 16. Juni 2023 und in Kraft seit 2. Nov. 2023 ([AS 2023 733](https://fedlex.data.admin.ch/eli/oc/2023/733), [732](https://fedlex.data.admin.ch/eli/oc/2023/732); [BBl 2022 2960](https://fedlex.data.admin.ch/eli/fga/2022/2960)).
+
+#### Art. 29
+
+**Inkrafttreten**[^29-1]
 
 <sup>1.</sup> Dieses Abkommen bedarf der Ratifizierung. Die Ratifikationsurkunden werden so bald wie möglich ausgetauscht.
 
@@ -454,18 +502,22 @@ Das Abkommen tritt mit dem Austausch der Ratifikationsurkunden in Kraft. Seine B
 - a) hinsichtlich der an der Quelle erhobenen Steuern für Beträge, die am oder nach dem 1. Januar des auf das Inkrafttreten des Abkommens folgenden Kalenderjahres gezahlt oder gutgeschrieben werden;
 - b) hinsichtlich der übrigen Steuern auf Steuerjahre, die am oder nach dem 1. Januar des auf das Inkrafttreten des Abkommens folgenden Kalenderjahres beginnen.
 
-#### Art. 28
+[^29-1]: Ursprünglich: Art. 27.
 
-**Kündigung**
+#### Art. 30
+
+**Kündigung**[^30-1]
 
 Dieses Abkommen bleibt in Kraft, solange es nicht von einem Vertragsstaat gekündigt wird. Jeder Vertragsstaat kann das Abkommen auf diplomatischem Weg unter Einhaltung einer Frist von mindestens sechs Monaten zum Ende eines Kalenderjahres kündigen. In diesem Fall findet das Abkommen nicht mehr Anwendung:
 
 - a) hinsichtlich der an der Quelle erhobenen Steuern für Beträge, die am oder nach dem 1. Januar des auf die Kündigung folgenden Kalenderjahres gezahlt oder gutgeschrieben werden;
 - b) hinsichtlich der übrigen Steuern auf Steuerjahre, die am oder nach dem 1. Januar des auf die Kündigung folgenden Kalenderjahres beginnen.
 
-*Zu Urkund dessen* haben die hierzu gehörig bevollmächtigten Unterzeichneten dieses Abkommen unterschrieben. Geschehen zu Duschanbe, am 23. Juni 2010, im Doppel in deutscher, tadschikischer, russischer und englischer Sprache, wobei jeder Wortlaut gleicherweise verbindlich ist. Bei unterschiedlicher Auslegung des deutschen, tadschikischen und russischen Wortlauts soll der englische Wortlaut massgebend sein. Für die Schweizerische Eidgenossenschaft: Für die Republik Tadschikistan: Stephan Nellen Safarali Mahsuddinovich Najmiddinov
+[^30-1]: Ursprünglich: Art. 28.
 
-Protokoll
+*Zu Urkund dessen* haben die hierzu gehörig bevollmächtigten Unterzeichneten dieses Abkommen unterschrieben. Geschehen zu Duschanbe, am 23. Juni 2010, im Doppel in deutscher, tadschikischer, russischer und englischer Sprache, wobei jeder Wortlaut gleicherweise verbindlich ist. Bei unterschiedlicher Auslegung des deutschen, tadschikischen und russischen Wortlauts soll der englische Wortlaut massgebend sein. Für die Schweizerische Eidgenossenschaft: Stephan Nellen Für die Republik Tadschikistan: Safarali Mahsuddinovich Najmiddinov
+
+[^t-2]
 
 Die Schweizerische Eidgenossenschaft und die Republik Tadschikistan
 
@@ -487,9 +539,34 @@ Es besteht Einvernehmen darüber, dass Zahlungen für die Benutzung oder das Rec
 
 Es besteht Einvernehmen darüber, dass der in den Artikeln 18 (Ruhegehälter) und 19 (Öffentlicher Dienst) verwendete Ausdruck «Ruhegehälter» nicht nur periodische Zahlungen, sondern auch Pauschalleistungen einschliesst.
 
+**4. Zu Art. 26**
+
 Geschehen zu Duschanbe, am 23. Juni 2010, im Doppel in deutscher, tadschikischer, russischer und englischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist. Bei unterschiedlicher Auslegung des deutschen, tadschikischen und russischen Wortlauts soll der englische Wortlaut massgebend sein.
 
+Art. IX Ziff. 2 des Prot. vom 4. Juli 2022[^t-3]
+
+- a) Es besteht Einvernehmen darüber, dass der ersuchende Vertragsstaat ein Begehren um Austausch von Informationen erst dann stellt, wenn er alle in seinem innerstaatlichen Steuerverfahren vorgesehenen üblichen Mittel zur Beschaffung der Informationen ausgeschöpft hat.
+- b)
+
+  Es besteht Einvernehmen darüber, dass die Steuerbehörden des ersuchenden Staates bei der Stellung eines Amtshilfebegehrens nach Artikel 26 den Steuerbehörden des ersuchten Staates die nachstehenden Angaben zu liefern haben:
+
+  - (i) die Identität der in eine Überprüfung oder Untersuchung einbezogenen Person;
+  - (ii) die Zeitperiode, für welche die Informationen verlangt werden;
+  - (iii) eine Beschreibung der verlangten Informationen sowie Angaben hinsichtlich der Form, in der der ersuchende Staat diese Informationen vom ersuchten Staat zu erhalten wünscht;
+  - (iv) den Steuerzweck, für den die Informationen verlangt werden;
+  - (v) soweit bekannt, den Namen und die Adresse des mutmasslichen Inhabers der verlangten Informationen.
+
+- c) Es besteht Einvernehmen darüber, dass der Zweck der Verweisung auf Informationen, die voraussichtlich erheblich sind, darin besteht, einen möglichst weit gehenden Informationsaustausch in Steuerbelangen zu gewährleisten, ohne den Vertragsstaaten zu erlauben, «fishing expeditions» zu betreiben oder um Informationen zu ersuchen, deren Erheblichkeit hinsichtlich der Steuerbelange einer bestimmten steuerpflichtigen Person unwahrscheinlich ist. Während Buchstabe b wichtige verfahrenstechnische Anforderungen enthält, die «fishing expeditions» vermeiden sollen, sind die Ziffern i–v von Buchstabe b nicht so auszulegen, dass sie einen wirksamen Informationsaustausch behindern.
+- d) Es besteht Einvernehmen darüber, dass Artikel 26 die Vertragsstaaten nicht dazu verpflichtet, Informationen auf automatischer oder spontaner Basis auszutauschen.
+- e) Es besteht Einvernehmen darüber, dass im Fall des Austauschs von Informationen die im ersuchten Staat geltenden Bestimmungen des Verwaltungsverfahrensrechts über die Rechte der Steuerpflichtigen vorbehalten bleiben. Es besteht im Weiteren Einvernehmen darüber, dass diese Bestimmungen dazu dienen, der steuerpflichtigen Person ein ordnungsgemässes Verfahren zu gewähren, und nicht bezwecken, den Informationsaustausch zu verhindern oder übermässig zu verzögern.
+
 <table>
-<tr><td>Für die Schweizerische Eidgenossenschaft:</td><td>Für die Republik Tadschikistan:</td></tr>
-<tr><td>Stephan Nellen</td><td>Safarali Mahsuddinovich Najmiddinov</td></tr>
+<tr><td>Für die Schweizerische Eidgenossenschaft: Stephan Nellen</td><td>Für die Republik Tadschikistan: Safarali Mahsuddinovich Najmiddinov</td></tr>
 </table>
+
+<sup>2.</sup> Seine Bestimmungen finden Anwendung hinsichtlich Informationsaustausch auf Ersuchen, die am Tag des Inkrafttretens des Protokolls oder danach gestellt werden für Informationen über Steuerjahre oder Geschäftsjahre, die am oder nach dem 1. Januar des auf das Inkrafttreten des Protokolls folgenden Kalenderjahres beginnen. Für alle anderen Änderungen findet das Protokoll mit seinem Inkrafttreten Anwendung.
+
+Protokoll
+
+[^t-2]: Bereinigt gemäss Art. VIII des Prot. vom 4. Juli 2022, von der BVers genehmigt am 16. Juni 2023 und in Kraft seit 2. Nov. 2023 ([AS 2023 733](https://fedlex.data.admin.ch/eli/oc/2023/733), [732](https://fedlex.data.admin.ch/eli/oc/2023/732); [BBl 2022 2960](https://fedlex.data.admin.ch/eli/fga/2022/2960)).
+[^t-3]: [AS 2023 733](https://fedlex.data.admin.ch/eli/oc/2023/733), [732](https://fedlex.data.admin.ch/eli/oc/2023/732); [BBl 2022 2960](https://fedlex.data.admin.ch/eli/fga/2022/2960)
