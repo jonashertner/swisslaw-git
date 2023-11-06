@@ -1,24 +1,24 @@
 ---
 canton: FR
 number: "431.1.16"
-title: Verordnung über die Zulassungsbeschränkungen zum Master of Medicine (MMed) der Universität Freiburg im akademischen Jahr 2023/24
+title: Verordnung über die Zulassungsbeschränkungen zum Master of Medicine (MMed) der Universität Freiburg im akademischen Jahr 2024/25
 language: de
-version: 2022-12-12
-valid_until: 2023-11-06
-version_adopted: 2022-12-12
+version: 2023-11-07
+valid_until: 2025-02-09
+version_adopted: 2023-11-07
 adopted: 2026-01-27
 in_force: 2026-06-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/431.1.16"
-pdf: "https://bdlf.fr.ch/api/de/versions/7678/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7855/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Zulassungsbeschränkungen zum Master of Medicine (MMed) der Universität Freiburg im akademischen Jahr 2023/24
+# Verordnung über die Zulassungsbeschränkungen zum Master of Medicine (MMed) der Universität Freiburg im akademischen Jahr 2024/25
 
 Universität, Master of Medicine (MMed) – V
 
-vom 12.12.2022 (Fassung in Kraft getreten am 12.12.2022)
+vom 07.11.2023 (Fassung in Kraft getreten am 07.11.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -30,7 +30,7 @@ Der Grosse Rat des Kantons Freiburg hat am 7. September 2016 die Einführung ein
 
 Der Studiengang hat im Herbstsemester 2019 begonnen. Die Anzahl Studienplätze ist dabei insbesondere wegen der Anforderungen an die klinische Ausbildung beschränkt. Da zu erwarten ist, dass die Aufnahmekapazitäten überschritten werden, müssen die Kriterien für die Zuteilung der Studienplätze festgelegt werden.
 
-Das Rektorat der Universität Freiburg hat in seiner Sitzung vom 28. November 2022 dieser Verordnung zugestimmt.
+Das Rektorat der Universität Freiburg hat in seiner Sitzung vom 9. Oktober 2023 dieser Verordnung zugestimmt.
 
 Auf Antrag der Direktion für Bildung und kulturelle Angelegenheiten,
 
@@ -40,7 +40,7 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung gilt für Studierende, die ab dem Herbstsemester 2023 den Masterstudiengang Humanmedizin (Master of Medicine – MMed) an der Universität Freiburg absolvieren möchten.
+<sup>1</sup> Diese Verordnung gilt für Studierende, die ab dem Herbstsemester 2024 den Masterstudiengang Humanmedizin (Master of Medicine – MMed) an der Universität Freiburg absolvieren möchten.
 
 #### Art. 2
 
@@ -91,4 +91,4 @@ beschliesst:
 
 <sup>3</sup> Gegen Entscheide des Rektorats oder der Internen Rekurskommission der Universität Freiburg kann bei der Rekurskommission der Universität Freiburg Beschwerde erhoben werden.
 
-2022\_138
+2023\_096
