@@ -5,31 +5,30 @@ title: Verordnung über die Gebühren der Gerichte
 short: GGV
 language: de
 version: 2014-12-01
-valid_until: 2023-12-31
+corrected: 2023-11-09
 version_adopted: 2014-12-01
 adopted: 2001-10-01
 in_force: 2001-10-01
 url: "https://ai.clex.ch/app/de/texts_of_law/173.810"
-pdf: "https://ai.clex.ch/api/de/versions/2242/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/188/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über die Gebühren der Gerichte
+# Verordnung über die Gebühren der Gerichte (GGV)
 
-(GGV)
-
-vom 01.10.2001 (Stand 01.12.2014)
+vom 1. Oktober 20011
 
 Der Grosse Rat des Kantons Appenzell I.Rh.,
 
-gestützt auf Art. 45 Abs. 4 des Gerichtsorganisationsgesetzes vom 25. April 2010 (GOG),
+gestützt auf Art. 45 Abs. 4 des Gerichtsorganisationsgesetzes vom 25. April 2010 (GOG),2
 
 beschliesst:
 
-## I. Allgemeine Bestimmungen
+### I. Allgemeine Bestimmungen
 
-#### Art. 1
+#### Art. 13
 
 **Geltungsbereich**
 
@@ -43,9 +42,9 @@ beschliesst:
 
 **Bemessung**
 
-<sup>1</sup> Enthält dieser Tarif einen Mindest- und einen Höchstansatz, so werden bei der Bestimmung der Gebühr die Art des Falls, die finanziellen Interessen der Beteiligten, die Umtriebe, die Vermögensverhältnisse des Kostenpflichtigen und die Art der Prozessführung der Beteiligten berücksichtigt.
+Enthält dieser Tarif einen Mindest- und einen Höchstansatz, so werden bei der Bestimmung der Gebühr die Art des Falls, die finanziellen Interessen der Beteiligten, die Umtriebe, die Vermögensverhältnisse des Kostenpflichtigen und die Art der Prozessführung der Beteiligten berücksichtigt.
 
-#### Art. 3
+#### Art. 34
 
 **Kostenvorschuss**
 
@@ -57,208 +56,173 @@ beschliesst:
 
 #### Art. 4
 
-**Kostenspruch**
+Kostenspruch <sup>1</sup>Der Kostenspruch ist Bestandteil einer Verfügung oder eines Entscheids und um-
 
-<sup>1</sup> Der Kostenspruch ist Bestandteil einer Verfügung oder eines Entscheids und umfasst die Entscheidgebühr und allfällige zusätzliche Gerichtskosten.
+fasst die Entscheidgebühr und allfällige zusätzliche Gerichtskosten.
 
 <sup>2</sup> Werden einem am Verfahren nicht beteiligten Dritten Kosten auferlegt oder eine beanspruchte Entschädigung verweigert, so ist ihm vor Erlass des Kostenspruchs Gelegenheit zur Stellungnahme zu geben.
 
 #### Art. 5
 
-**Fälligkeit**
-
-<sup>1</sup> Die Kosten werden mit Rechnungsstellung bzw. mit Rechtskraft des zugrundeliegenden Entscheides fällig.
+Fälligkeit <sup>1</sup>Die Kosten werden mit Rechnungsstellung bzw. mit Rechtskraft des zugrundeliegenden Entscheides fällig.
 
 <sup>2</sup> Ein allfälliger Überschuss aus dem geleisteten Kostenvorschuss wird nach Rechtskraft des zugrundeliegenden Entscheides zurückerstattet.
 
 #### Art. 6
 
-**Verzugszins**
+Verzugszins Für amtliche Kosten nach diesem Tarif, die aufgrund eines rechtskräftigen Entscheids geschuldet werden, wird im Betreibungsfall zusätzlich ein Verzugszins von 5 % ab Fälligkeit berechnet.
 
-<sup>1</sup> Für amtliche Kosten nach diesem Tarif, die aufgrund eines rechtskräftigen Entscheids geschuldet werden, wird im Betreibungsfall zusätzlich ein Verzugszins von 5% ab Fälligkeit berechnet.
+### II. Schlichtungsbehörden1
 
-## II. Schlichtungsbehörden
+#### Art. 72
 
-#### Art. 7
+**50.— bis 300.— 20.— bis 100.— 50.— bis 500.— 50.— bis 200.—**
 
-**Vermittler und Schlichtungsstellen**
+Vermittler und a) Vorstand Schlichtungsstel- b) Erteilung einer Klagebewilligung len c) Urteilsvorschlag oder Entscheid d) Kosten bei Einigung, Rückzug oder Säumnis
 
-<sup>1</sup>
+Art. 8 Schlichtungs- Mutwillige Prozessführung stellen3
 
-- a) Vorstand: — 50.-- bis 300.--
-- b) Erteilung einer Klagebewilligung: — 20.-- bis 100.--
-- c) Urteilsvorschlag oder Entscheid: — 50.-- bis 500.--
-- d) Kosten bei Einigung, Rückzug oder Säumnis: — 50.-- bis 200.--
-
-#### Art. 8
-
-**Schlichtungsstellen**
-
-<sup>1</sup>
-
-- a) Mutwillige Prozessführung: — 50.-- bis 500.--
-
-## III. Entscheidgebühren der Gerichte
+### III. Entscheidgebühren der Gerichte
 
 #### Art. 9
 
 **Entscheidgebühr**
 
-<sup>1</sup> Die Entscheidgebühr wird für schriftlich eröffnete Entscheide erhoben.
+Die Entscheidgebühr wird für schriftlich eröffnete Entscheide erhoben.
 
-#### Art. 10
+#### Art. 101
 
-**Bezirksgerichtspräsident**
+- a) Zwischenentscheid 50.— bis 2'000.— Bezirksgerichts-
 
-<sup>1</sup>
+- b) Endentscheid 50.— bis 3'000.— präsident
 
-- a) Zwischenentscheid: — 50.-- bis 2'000.--
-- b) Endentscheid: — 50.-- bis 3'000.--
+Art. 112 a) Zwischenentscheid 50.— bis 8'000.— Bezirksgericht,
 
-#### Art. 11
+- b) Präsidialentscheid 100.— bis 3'000.— Abteilung,
 
-**Bezirksgericht, Abteilung, Kommission**
+- c) Endentscheid 200.— bis 15'000.— Kommission
 
-<sup>1</sup>
+Art. 123 a) Zwischenentscheid 50.— bis 3'000.— Kantonsgerichtsb) Endentscheid 100.— bis 5'000.— präsident
 
-- a) Zwischenentscheid: — 50.-- bis 8'000.--
-- b) Präsidialentscheid: — 100.-- bis 3'000.--
-- c) Endentscheid: — 200.-- bis 15'000.--
+Art. 134 a) Zwischenentscheid 100.— bis 10'000.— Kantonsgericht,
 
-#### Art. 12
+- b) Präsidialentscheid 200.— bis 5'000.— Abteilung,
 
-**Kantonsgerichtspräsident**
+- c) Endentscheid 300.— bis 20'000.— Kommission
 
-<sup>1</sup>
+**50.— bis 500.—**
 
-- a) Zwischenentscheid: — 50.-- bis 3'000.--
-- b) Endentscheid: — 100.-- bis 5'000.--
+Art. 145 a) Zwischenentscheid 100.— bis 3'000.— Schiedsgericht b) Präsidialentscheid 200.— bis 4'000.— nach KVG c) Endentscheid 300.— bis 15'000.—
 
-#### Art. 13
+Art. 156 Die Gebühren können in besonders aufwendigen Verfahren oder bei Streitwerten Gebührenüber Fr. 1 Mio. bis höchstens zum Vierfachen der oberen Rahmenwerte dieser Ver- erhöhung ordnung erhöht werden, soweit dadurch nicht ein offensichtliches Missverhältnis zum tatsächlichen Aufwand des Gerichts entsteht.
 
-**Kantonsgericht, Abteilung, Kommission**
+#### Art. 161
 
-<sup>1</sup>
+Kostenermässi- Die amtlichen Kosten werden grundsätzlich um einen Drittel ermässigt, wenn bei gung Entscheiden keine Begründung erfolgt. In Ausnahmefällen, namentlich dann, wenn die Begründung einen ausserordentlich grossen Aufwand verursachen würde, kann
 
-- a) Zwischenentscheid: — 100.-- bis 10'000.--
-- b) Präsidialentscheid — 200.-- bis 5'000.--
-- c) Endentscheid — 300.-- bis 20'000.--
-
-#### Art. 14
-
-**Schiedsgericht nach KVG**
-
-<sup>1</sup>
-
-- a) Zwischenentscheid: — 100.-- bis 3'000.--
-- b) Präsidialentscheid: — 200.-- bis 4'000.--
-- c) Endentscheid: — 300.-- bis 15'000.--
-
-#### Art. 15
-
-**Gebührenerhöhung**
-
-<sup>1</sup> Die Gebühren können in besonders aufwendigen Verfahren oder bei Streitwerten über Fr. 1 Mio. bis höchstens zum Vierfachen der oberen Rahmenwerte dieser Verordnung erhöht werden, soweit dadurch nicht ein offensichtliches Missverhältnis zum tatsächlichen Aufwand des Gerichts entsteht.
-
-#### Art. 16
-
-**Kostenermässigung**
-
-<sup>1</sup> Die amtlichen Kosten werden grundsätzlich um einen Drittel ermässigt, wenn bei Entscheiden keine Begründung erfolgt. In Ausnahmefällen, namentlich dann, wenn die Begründung einen ausserordentlich grossen Aufwand verursachen würde, kann die Kostenermässigung über den Drittel hinaus erhöht werden.
+die Kostenermässigung über den Drittel hinaus erhöht werden.
 
 #### Art. 17
 
-**Ausnahmen bei kostenlosen Verfahren**
+**100.— bis 2'000.—**
 
-<sup>1</sup>
+Ausnahmen bei Leichtsinnige oder mutwillige Prozessführung kostenlosen Verfahren IV. Zusätzliche Gerichtskosten
 
-- a) Leichtsinnige oder mutwillige Prozessführung: — 100.-- bis 2'000.--
+Art. 18 Beweiserhebung Die Kosten für mitwirkende Dritte werden entsprechend den nachfolgenden Best-
 
-## IV. Zusätzliche Gerichtskosten
+immungen tatsächlich ausgerichteten Entschädigungen belastet.
 
-#### Art. 18
+#### Art. 192
 
-**Beweiserhebung**
+- a. Zeugen und Zeitaufwand:
 
-<sup>1</sup> Die Kosten für mitwirkende Dritte werden entsprechend den nachfolgenden Bestimmungen tatsächlich ausgerichteten Entschädigungen belastet.
+**bis 200.— bis 400.—**
 
-#### Art. 19
+Auskunftsperso- a) bis vier Stunden nen b) über vier Stunden In Zivilstreitigkeiten kann die Entschädigung bis zur Höhe des Verdienstausfalles erhöht werden.
 
-**a. Zeugen und Auskunftspersonen**
+Spesen:
 
-<sup>1</sup> Zeitaufwand:
-
-- a) bis vier Stunden: — bis 200.--
-- b) über vier Stunden: — bis 400.--
-
-<sup>2</sup> In Zivilstreitigkeiten kann die Entschädigung bis zur Höhe des Verdienstausfalles erhöht werden.
-
-<sup>3</sup> Spesen: Angemessene Entschädigung für Reisekosten sowie notwendige auswärtige Verpflegung und Unterkunft. Der Nachweis weiterer notwendiger Auslagen bleibt vorbehalten.
+Angemessene Entschädigung für Reisekosten sowie notwendige auswärtige Verpflegung und Unterkunft. Der Nachweis weiterer notwendiger Auslagen bleibt vorbehalten.
 
 #### Art. 20
 
-**b. Sachverständige**
+- b. Sachver- Die Entschädigung wird nach der geleisteten Arbeit und der Bedeutung der Streitständige sache durch das Gericht festgelegt.
 
-<sup>1</sup> Die Entschädigung wird nach der geleisteten Arbeit und der Bedeutung der Streitsache durch das Gericht festgelegt.
+#### Art. 211
 
-#### Art. 21
+**50.— bis 100.— c. Übersetzer**
 
-**c. Übersetzer**
-
-<sup>1</sup>
-
-- a) Pro Stunde Zeitaufwand und Spesenentschädigung wie bei Zeugen: — 50.-- bis 100.--
-
-<sup>2</sup> In Zivilstreitigkeiten kann die Entschädigung bis zur Höhe des Verdienstausfalls erhöht werden.
+Pro Stunde Zeitaufwand und Spesenentschädigung wie bei Zeugen In Zivilstreitigkeiten kann die Entschädigung bis zur Höhe des Verdienstausfalls erhöht werden.
 
 #### Art. 22
 
 **d. Übrige**
 
-<sup>1</sup> Dritte, die auf Anordnung des Richters eine Urkunde herausgeben, einen Augenschein oder die Untersuchung Sachverständiger dulden usw., erhalten die gleiche Entschädigung wie Zeugen.
+Dritte, die auf Anordnung des Richters eine Urkunde herausgeben, einen Augenschein oder die Untersuchung Sachverständiger dulden usw., erhalten die gleiche Entschädigung wie Zeugen.
 
 #### Art. 23
 
 **Fristverlängerung**
 
-<sup>1</sup> Die Kosten für die Verlängerung einer richterlichen Frist betragen Fr. 25.--.
+Die Kosten für die Verlängerung einer richterlichen Frist betragen Fr. 25.—.
 
 #### Art. 24
 
 **Amtliche Veröffentlichung**
 
-<sup>1</sup> Die Kosten der amtlichen Veröffentlichung werden nach dem Insertionstarif des Publikationsorgans berechnet.
+Die Kosten der amtlichen Veröffentlichung werden nach dem Insertionstarif des Publikationsorgans berechnet.
 
-## V. Kanzleigebühren
+### V. Kanzleigebühren
 
 #### Art. 25
 
 **Grundsatz**
 
-<sup>1</sup> Kanzleigebühren werden für Leistungen erhoben, die nicht Bestandteil des ordentlichen Geschäftsganges eines Verfahrens sind.
+Kanzleigebühren werden für Leistungen erhoben, die nicht Bestandteil des ordentlichen Geschäftsganges eines Verfahrens sind.
 
-#### Art. 26
+#### Art. 262
 
-**Gebührenpflichtige Verrichtungen**
+**Gebühren- 25.— pflichtige Ver-**
 
 <sup>1</sup> Es werden folgende Gebühren erhoben:
 
-- a) Vollstreckbarkeitsbescheinigung: — 25.--
-- b) Weitere Bescheinigungen: — 10.-- bis 100.--
-- c) Ausfertigung, Abschrift oder Auszug von Schriftstücken pro Seite: — 4.--
+- a) Vollstreckbarkeitsbescheinigung
+
+**10.— bis 100.— richtungen**
+
+- b) Weitere Bescheinigungen
+
+- c) Ausfertigung, Abschrift oder Auszug von Schriftstücken pro Seite
+
+**4.—**
 
 <sup>2</sup> Im Übrigen gelten die allgemeinen Gebührenbestimmungen der Verordnung über die Gebühren der kantonalen Verwaltung sinngemäss.
 
-## VI. Schlussbestimmung
+### VI. Schlussbestimmung
 
-#### Art. 27
-
-**…**
+#### Art. 271
 
 #### Art. 28
 
-**Inkrafttreten**
+Inkrafttreten Diese Verordnung tritt nach Annahme durch den Grossen Rat in Kraft.
 
-<sup>1</sup> Diese Verordnung tritt nach Annahme durch den Grossen Rat in Kraft.
+## Weitere Fussnoten
 
-cGS -
+- [1] Mit Revisionen vom 18. November 2002, 23. Juni 2003, 28. März 2011 und 1. Dezember 2014.
+- [2] Ingress abgeändert durch GrRB vom 23. Juni 2003, 28. März 2011 und 1. Dezember 2014.
+- [3] Abgeändert (Abs. 1) durch GrRB vom 28. März 2011.
+- [4] Abgeändert (Abs. 3) durch GrRB vom 28. März 2011.
+- [1] Titel abgeändert durch GrRB vom 28. März 2011.
+- [2] Abgeändert durch GrRB vom 28. März 2011.
+- [3] Marginalie abgeändert durch GrRB vom 28. März 2011.
+- [1] Abgeändert (lit. b) durch GrRB vom 18. November 2002.
+- [2] Abgeändert durch GrRB vom 18. November 2002 und 28. März 2011.
+- [3] Abgeändert durch GrRB vom 18. November 2002.
+- [4] Abgeändert durch GrRB vom 18. November 2002 und 28. März 2011.
+- [5] Abgeändert durch GrRB vom 18. November 2002 und 28. März 2011.
+- [6] Geändert durch GrRB vom 28. März 2011.
+- [1] Geändert durch GrRB vom 18. November 2002 und 28. März 2011.
+- [2] Abgeändert (lit. a und b) durch GrRB vom 28. März 2011.
+- [1] Geändert durch GrRB vom 28. März 2011.
+- [2] Geändert durch GrRB vom 28. März 2011.
+- [1] Aufgehoben durch GrRB vom 23. Juni 2003.
