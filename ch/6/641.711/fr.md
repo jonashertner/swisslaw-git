@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Ordonnance du 30 novembre 2012 sur la réduction des émissions de CO<sub>2</sub> (Ordonnance sur le CO<sub>2</sub>)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: fr
-version: 2023-11-01
+version: 2023-11-10
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20231101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-856-20231101-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20231101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20231110/fr/xml/fedlex-data-admin-ch-eli-cc-2012-856-20231110-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20231110/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20231101/fr"
 
 (Ordonnance sur le CO<sub>2</sub>)
 
-du 30 novembre 2012 (État le 1<sup>er</sup> novembre 2023)
+du 30 novembre 2012 (État le 10 novembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -3526,7 +3526,7 @@ Annexe 3a[^t-4]
 
 ## Exigences relatives au calcul des réductions d’émissions et au plan de suivi concernant les projets et les programmes en relation avec un réseau de chauffage à distance
 
-[^t-4]: Introduite par le ch. II al.1 de l’O du 21 sept. 2018 ([RO 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)). Nouvelle teneur selon le ch. II al. 2 de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^t-4]: Introduite par le ch. II al.1 de l’O du 21 sept. 2018 ([RO 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)). Nouvelle teneur selon le ch. II al. 2 de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)). Erratum du 10 nov. 2023 ([RO 2023 640](https://fedlex.data.admin.ch/eli/oc/2023/640)).
 
 ### 1 Champ d’application
 
@@ -3623,7 +3623,7 @@ où:
 
 Les émissions annuelles d’un projet et les émissions annuelles de chacun des projets d’un programme se calculent comme suit:
 
-*EP**<sub>y</sub>* *= FE**<sub>HC</sub>* *\* Q**<sub>HC,y</sub>* *+ FE**<sub>gaz</sub>* *\* Q**<sub>gaz,y</sub>* *+ FE**<sub>él</sub>* *\* Q**<sub>él,y</sub>* *+ EP**<sub>SEQE,y</sub>* (4)
+*EP**<sub>y</sub>* *= FE**<sub>HC</sub>* *\* Q**<sub>HC,y</sub>* <sub>/ 1000</sub> *+ FE**<sub>gaz</sub>* *\* Q**<sub>gaz,y</sub>* *+ FE**<sub>él</sub>* *\* Q**<sub>él,y</sub>* *+ EP**<sub>SEQE,y</sub>* (4)
 
 où:
 
@@ -3632,7 +3632,7 @@ où:
 - Q<sub>gaz,y</sub> Consommation de gaz attendue au cours de l’année y pour l’exploitation de la ou des sources de chaleur centrales [Nm<sup>3</sup> ou MWh]; dans le suivi, ce paramètre est remplacé par la valeur mesurée conformément au ch. 4.5.
 - Q<sub>él,y</sub> Consommation d’énergie électrique attendue au cours de l’année y pour l’exploitation des pompes à chaleur centrales [kWh]; dans le suivi, ce paramètre est remplacé par la valeur mesurée conformément au ch. 4.6.
 - FE<sub>gaz</sub> Facteur d’émission du gaz naturel visé à l’annexe 10 converti en t éq.‑CO<sub>2</sub>Nm<sup>3</sup> ou en t éq.‑CO<sub>2</sub>MWh en fonction de l’unité employée pour le Q<sub>gaz</sub>. Pour la conversion des t éq.‑CO<sub>2</sub>/TJ en t éq.‑CO<sub>2</sub>MWh, il convient d’utiliser le facteur 0,0036 TJ/MWh.
-- FE<sub>HCl</sub> Le facteur d’émission de l’huile de chauffage vaut 2,65 t éq.‑CO<sub>2</sub>/1000 l.
+- FE<sub>HC</sub> Le facteur d’émission de l’huile de chauffage vaut 2,65 t éq.‑CO<sub>2</sub>/1000 l.
 - EP<sub>SEQE,y</sub> Paramètre destiné à éviter le double comptage des émissions du scénario de référence et de celles du SEQE; ce paramètre est égal à 0.
 - Si le réseau de chauffage à distance s’approvisionne auprès d’une source de chaleur située dans le périmètre d’une installation dont l’exploitant participe au SEQE, le paramètre est remplacé par la valeur des droits d’émission attribués au cours de l’année y [t éq.‑CO<sub>2</sub>]; cette valeur est déterminée chaque année dans le rapport de suivi; elle correspond aux droits d’émission délivrés à l’exploitant d’installations dans le SEQE.
 - FE<sub>él</sub> Le facteur d’émission de l’électricité vaut 29,6 \* 10–6 t éq.‑CO<sub>2</sub>/kWh.
@@ -3759,7 +3759,7 @@ Au sens de la présente annexe, on entend par:
 
 Le facteur d’oxydation (OX) est un paramètre indispensable au calcul des réductions d’émissions. Le choix de sa valeur découle de l’arbre de décision suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20231101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20231110/fr/xml/image/image1.png)
 
 ### 3.3 Calcul ex-ante des réductions des émissions de méthane
 

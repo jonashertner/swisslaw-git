@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Ordinanza del 30 novembre 2012 sulla riduzione delle emissioni di CO<sub>2</sub> (Ordinanza sul CO<sub>2</sub>)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: it
-version: 2023-11-01
+version: 2023-11-10
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20231101/it/xml/fedlex-data-admin-ch-eli-cc-2012-856-20231101-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20231101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20231110/it/xml/fedlex-data-admin-ch-eli-cc-2012-856-20231110-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20231110/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20231101/it"
 
 (Ordinanza sul CO<sub>2</sub>)
 
-del 30 novembre 2012 (Stato 1° novembre 2023)
+del 30 novembre 2012 (Stato 10 novembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -3523,7 +3523,7 @@ Allegato 3a[^t-4]
 
 ## Requisiti per il calcolo delle riduzioni delle emissioni e il piano di monitoraggio per progetti e programmi connessi a reti di riscaldamento a distanza
 
-[^t-4]: Introdotto dal n. II cpv. 1 dell’O del 21 set. 2018 ([RU 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)). Nuovo testo giusta il n. II cpv. 2 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^t-4]: Introdotto dal n. II cpv. 1 dell’O del 21 set. 2018 ([RU 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)). Nuovo testo giusta il n. II cpv. 2 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)). Correzione del 10 nov. 2023 ([RU 2023 640](https://fedlex.data.admin.ch/eli/oc/2023/640)).
 
 ### 1 Campo d’applicazione
 
@@ -3620,7 +3620,7 @@ dove:
 
 Le emissioni annuali di un progetto o le emissioni annuali di ciascun progetto di un programma devono essere calcolate come segue:
 
-*EP**<sub>y</sub>* *= FE**<sub>olio da riscald.</sub>* *\* Q**<sub>olio da riscald.,y</sub>* *+ FE**<sub>gas</sub>* *\* Q**<sub>gas,y</sub>* *+ FE**<sub>el.</sub>* *\* Q**<sub>el.,y</sub>* *+ EP**<sub>SSQE,y</sub>* (4)
+*EP**<sub>y</sub>* *= FE**<sub>olio da riscald.</sub>* *\* Q**<sub>olio da riscald.,y</sub>* <sub>/ 1000</sub> *+ FE**<sub>gas</sub>* *\* Q**<sub>gas,y</sub>* *+ FE**<sub>elettricità</sub>* *\* Q**<sub>elettricità,y</sub>* *+ EP**<sub>SSQE,y</sub>* (4)
 
 dove:
 
@@ -3715,9 +3715,9 @@ Allegato 3b[^t-5]
 
 (art. 6 cpv. 3[^t-6])
 
-## Requisiti per il calcolo della riduzione di metano e il piano di monitoraggio per progetti e programmi riguardanti il gas di discarica
+## Requisiti per il calcolo della riduzione delle emissioni e il piano di monitoraggio per progetti e programmi riguardanti il gas di discarica
 
-[^t-5]: Introdotto dal n. II cpv. 1 dell’O del 21 set. 2018 ([RU 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)). Aggiornato dal n. II cpv. 1 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^t-5]: Introdotto dal n. II cpv. 1 dell’O del 21 set. 2018 ([RU 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)). Aggiornato dal n. II cpv. 1 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)). Correzione del 10 nov. 2023 ([RU 2023 640](https://fedlex.data.admin.ch/eli/oc/2023/640)).
 [^t-6]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 
 ### 1. Campo d’applicazione
@@ -3756,7 +3756,7 @@ Ai sensi del presente allegato si intendono per:
 
 Per la determinazione del valore del fattore di ossidazione (OX) necessario per i calcoli delle riduzioni di emissioni deve essere utilizzato il seguente albero decisionale:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20231101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20231110/it/xml/image/image1.png)
 
 ### 3.3 Calcolo ex ante della riduzione di metano
 

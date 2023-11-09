@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Verordnung vom 30. November 2012 über die Reduktion der CO<sub>2</sub>-Emissionen (CO<sub>2</sub>-Verordnung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: de
-version: 2023-11-01
+version: 2023-11-10
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20231101/de/xml/fedlex-data-admin-ch-eli-cc-2012-856-20231101-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20231101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20231110/de/xml/fedlex-data-admin-ch-eli-cc-2012-856-20231110-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20231110/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20231101/de"
 
 (CO<sub>2</sub>-Verordnung)
 
-vom 30. November 2012 (Stand am 1. November 2023)
+vom 30. November 2012 (Stand am 10. November 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -39,12 +39,14 @@ Diese Verordnung regelt die Verminderung der Emission folgender Treibhausgase:
 - a. Kohlendioxid (CO<sub>2</sub>);
 - b. Methan (CH<sub>4</sub>);
 - c. Distickstoffmonoxid (N<sub>2</sub>O, Lachgas);
-- d. Fluorkohlenwasserstoffe (HFCs);
+- d.[^1-1] teilhalogenierte Fluorkohlenwasserstoffe (HFCs);
 - e. perfluorierte Kohlenwasserstoffe (PFCs);
 - f. Schwefelhexafluorid (SF<sub>6</sub>);
 - g. Stickstofftrifluorid (NF<sub>3</sub>).
 
 <sup>2</sup> Die erwärmende Wirkung der Treibhausgase auf das Klima wird in CO<sub>2</sub>-Äquivalente (CO<sub>2</sub>eq) umgerechnet. Die Werte sind in Anhang 1 aufgeführt.
+
+[^1-1]: Berichtigung vom 10. Nov. 2023 ([AS 2023 640](https://fedlex.data.admin.ch/eli/oc/2023/640)).
 
 ### 2. Abschnitt: Begriffe
 
@@ -3374,18 +3376,20 @@ Emissionen, die durch die Stromproduktion infolge eines Reserveabrufs nach der W
 
 Diese Verordnung tritt am 1. Januar 2013 in Kraft.
 
-Anhang 1
+Anhang 1[^t-1]
 
 (Art. 1 Abs. 2)
 
 ## Erwärmende Wirkung der Treibhausgase auf das Klima in CO<sub>2</sub>eq
+
+[^t-1]: Berichtigung vom 10. Nov. 2023 ([AS 2023 640](https://fedlex.data.admin.ch/eli/oc/2023/640)).
 
 <table>
 <tr><td>Treibhausgas</td><td>Chemische Formel</td><td>Wirkung in CO<sub>2</sub>eq</td></tr>
 <tr><td>Kohlendioxid</td><td>CO<sub>2</sub></td><td>1</td></tr>
 <tr><td>Methan</td><td>CH<sub>4</sub></td><td>25</td></tr>
 <tr><td>Distickstoffmonoxid, Lachgas</td><td>N<sub>2</sub>O</td><td>298</td></tr>
-<tr><td>Fluorkohlenwasserstoffe (HFCs)</td><td></td><td></td></tr>
+<tr><td>Teilhalogenierte Fluorkohlenwasserstoffe (HFCs)</td><td></td><td></td></tr>
 <tr><td>– HFC-23</td><td>CHF<sub>3</sub></td><td>14 800</td></tr>
 <tr><td>– HFC-32</td><td>CH<sub>2</sub>F<sub>2</sub></td><td>675</td></tr>
 <tr><td>– HFC-41</td><td>CH<sub>3</sub>F</td><td>92</td></tr>
@@ -3418,13 +3422,13 @@ Anhang 1
 <tr><td>Stickstofftrifluorid</td><td>NF<sub>3</sub></td><td>17 200</td></tr>
 </table>
 
-Anhang 2[^t-1]
+Anhang 2[^t-2]
 
 (Art. 146l Bst. b)
 
 ## Nicht anrechenbare Emissionsverminderungen im Ausland
 
-[^t-1]: Bereinigt gemäss Ziff. II der V vom 8. Okt. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), Ziff. II Abs. 1 der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) und Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^t-2]: Bereinigt gemäss Ziff. II der V vom 8. Okt. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), Ziff. II Abs. 1 der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) und Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 \1. Folgende Emissionsminderungszertifikate werden nicht angerechnet:
 
@@ -3448,13 +3452,13 @@ Anhang 2[^t-1]
 
 [^annex2-lvlu1-1]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 
-Anhang 2a[^t-2]
+Anhang 2a[^t-3]
 
 (Art. 5 Abs. 1 Bst. a)
 
 ## Emissionsverminderungen oder Erhöhung der Senkenleistungen im Ausland, für die keine Bescheinigungen ausgestellt werden
 
-[^t-2]: Eingefügt durch Ziff. II Abs. 1 der V vom 4. Mai 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^t-3]: Eingefügt durch Ziff. II Abs. 1 der V vom 4. Mai 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 \1. Für ein Projekt oder Programm im Ausland werden keine internationalen Bescheinigungen ausgestellt, wenn die Emissionsverminderungen oder die Erhöhungen der Senkenleistungen erzielt werden durch:
 
@@ -3475,13 +3479,13 @@ Anhang 2a[^t-2]
 
 - [tab]
 
-Anhang 3[^t-3]
+Anhang 3[^t-4]
 
 (Art. 5 Abs. 1 Bst. a)
 
 ## Emissionsverminderungen oder Erhöhung der Senkenleistungen im Inland, für die keine Bescheinigungen ausgestellt werden
 
-[^t-3]: Fassung gemäss Ziff. II Abs. 2 der V vom 4. Mai 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^t-4]: Fassung gemäss Ziff. II Abs. 2 der V vom 4. Mai 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 Für ein Projekt oder Programm im Inland werden keine nationalen Bescheinigungen ausgestellt, wenn die Emissionsverminderungen oder die Erhöhung der Senkenleistungen erzielt werden durch:
 
@@ -3514,13 +3518,13 @@ Für ein Projekt oder Programm im Inland werden keine nationalen Bescheinigungen
 [^annex3-lvlu1-4]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
 [^annex3-lvlu1-5]: [SR 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
 
-Anhang 3a[^t-4]
+Anhang 3a[^t-5]
 
 (Art. 6 Abs. 3)
 
 ## Anforderungen an die Berechnung der Emissionsverminderungen und das Monitoringkonzept für Projekte und Programme im Zusammenhang mit Wärmeverbünden
 
-[^t-4]: Eingefügt durch Ziff. II Abs. 1 der V vom 21. Sept. 2018 ([AS 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)). Fassung gemäss Ziff. II Abs. 2 der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^t-5]: Eingefügt durch Ziff. II Abs. 1 der V vom 21. Sept. 2018 ([AS 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)). Fassung gemäss Ziff. II Abs. 2 der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)). Berichtigung vom 10. Nov. 2023 ([AS 2023 640](https://fedlex.data.admin.ch/eli/oc/2023/640)).
 
 ### 1 Geltungsbereich
 
@@ -3617,7 +3621,7 @@ dabei bedeuten:
 
 Die jährlichen Emissionen eines Projektes und die jährlichen Emissionen jedes Projektes eines Programmes sind wie folgt zu berechnen:
 
-*PE**<sub>y</sub>* *= EF**<sub>Heizöl</sub>* *\* M**<sub>Heizöl,y</sub>* *+ EF**<sub>Gas</sub>* *\* M**<sub>Gas,y</sub>* *+ EF**<sub>Strom</sub>* *\* M**<sub>Strom,y</sub>* *+ PE**<sub>EHS,y</sub>* (4)
+*PE**<sub>y</sub>* *= EF**<sub>Heizöl</sub>* *\* M**<sub>Heizöl,y</sub>* <sub>/ 1000</sub> *+ EF**<sub>Gas</sub>* *\* M**<sub>Gas,y</sub>* *+ EF**<sub>Strom</sub>* *\* M**<sub>Strom,y</sub>* *+ PE**<sub>EHS,y</sub>* (4)
 
 dabei bedeuten:
 
@@ -3710,14 +3714,14 @@ Bei der Messung der Menge an elektrischer Energie (M<sub>Strom,y</sub>) sind die
 
 - [tab]
 
-Anhang 3b[^t-5]
+Anhang 3b[^t-6]
 
-(Art. 6 Abs. 3[^t-6])
+(Art. 6 Abs. 3[^t-7])
 
-## Anforderungen an die Berechnung der Methandreduktion und das Monitoringkonzept für Deponiegasprojekte und ‑programme
+## Anforderungen an die Berechnung der Emissionsverminderungen und das Monitoringkonzept für Deponiegasprojekte und ‑programme
 
-[^t-5]: Eingefügt durch Ziff. II Abs. 1 der V vom 21. Sept. 2018 ([AS 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
-[^t-6]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) angepasst.
+[^t-6]: Eingefügt durch Ziff. II Abs. 1 der V vom 21. Sept. 2018 ([AS 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)). Berichtigung vom 10. Nov. 2023 ([AS 2023 640](https://fedlex.data.admin.ch/eli/oc/2023/640)).
+[^t-7]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) angepasst.
 
 ### 1 Geltungsbereich
 
@@ -3755,7 +3759,7 @@ Im Sinne dieses Anhangs bedeuten:
 
 Für die Festlegung des Werts für den in den Berechnungen der Emissionsverminderungen notwendige Paramater Oxidationsfaktor (OX) ist der folgende Entscheidungsbaum zu verwenden:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20231101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20231110/de/xml/image/image1.png)
 
 ### 3.3 Ex-ante-Berechnung der Methanreduktion
 
@@ -3879,13 +3883,13 @@ Bei der Bestimmung der Gasmenge (M<sub>Gas,y</sub>) sind alle der folgenden Anfo
 - d. Die Messung hat kontinuierlich oder bei jeder Lieferung neuer Gasflaschen zu erfolgen.
 - e. Die Qualitätssicherung hat gemäss Herstellerangaben zu erfolgen.
 
-Anhang 4[^t-7]
+Anhang 4[^t-8]
 
 (Art. 25 Abs. 2)
 
 ## Berechnung der CO<sub>2</sub>-Emissionen von Fahrzeugen ohne Angaben nach Artikel 25 Absatz 2
 
-[^t-7]: Fassung gemäss Ziff. II Abs. 2 der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^t-8]: Fassung gemäss Ziff. II Abs. 2 der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 ### 1 Berechnung der CO<sub>2</sub>-Emissionen von Personenwagen
 
@@ -3965,13 +3969,13 @@ Anhang 4[^t-7]
   - a. Ist der Wert der zweiten Dezimalstelle 4 oder kleiner, so wird abgerundet.
   - b. Ist der Wert der zweiten Dezimalstelle 5 oder grösser, so wird aufgerundet.
 
-Anhang 4a[^t-8]
+Anhang 4a[^t-9]
 
 (Art. 28)
 
 ## Berechnung der individuellen Zielvorgabe
 
-[^t-8]: Eingefügt durch Ziff. II Abs. 3 der V vom 1. Nov. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Bereinigt gemäss Ziff. I der V des UVEK vom 16. Sept. 2019 ([AS 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), vom 18. Sept. 2020 ([AS 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), Ziff. II Abs. 1 der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) und Ziff. I der V des UVEK vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 798](https://fedlex.data.admin.ch/eli/oc/2022/798)).
+[^t-9]: Eingefügt durch Ziff. II Abs. 3 der V vom 1. Nov. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Bereinigt gemäss Ziff. I der V des UVEK vom 16. Sept. 2019 ([AS 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), vom 18. Sept. 2020 ([AS 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), Ziff. II Abs. 1 der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) und Ziff. I der V des UVEK vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 798](https://fedlex.data.admin.ch/eli/oc/2022/798)).
 
 ### 1 Berechnung der individuellen Zielvorgabe
 
@@ -4017,13 +4021,13 @@ Anhang 4a[^t-8]
   - d. 2021: 2094 kg.
   - [tab]
 
-Anhang 5[^t-9]
+Anhang 5[^t-10]
 
 (Art. 29 Abs. 1)
 
 ## Sanktionsbeträge bei Überschreiten der individuellen Zielvorgabe (Art. 13 Abs. 1 des CO<sub>2</sub>-Gesetzes)
 
-[^t-9]: Fassung gemäss Ziff. I Abs. 2 der V des UVEK vom 21. Sept. 2018 ([AS 2018 3497](https://fedlex.data.admin.ch/eli/oc/2018/567)). Bereinigt gemäss Ziff. I der V des UVEK vom 16. Sept. 2019 ([AS 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), vom 18. Sept. 2020 ([AS 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), Ziff. II Abs. 1 der V vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) und Ziff. I der V des UVEK vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 798](https://fedlex.data.admin.ch/eli/oc/2022/798)).
+[^t-10]: Fassung gemäss Ziff. I Abs. 2 der V des UVEK vom 21. Sept. 2018 ([AS 2018 3497](https://fedlex.data.admin.ch/eli/oc/2018/567)). Bereinigt gemäss Ziff. I der V des UVEK vom 16. Sept. 2019 ([AS 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), vom 18. Sept. 2020 ([AS 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), Ziff. II Abs. 1 der V vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) und Ziff. I der V des UVEK vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 798](https://fedlex.data.admin.ch/eli/oc/2022/798)).
 
 ### 1 Sanktionsbeträge für das Referenzjahr 2017
 
@@ -4053,13 +4057,13 @@ Die zu entrichtenden Sanktionsbeträge bei Überschreiten der individuellen Ziel
 - d. für das Referenzjahr 2022: 104 Franken;
 - e. für das Referenzjahr 2023: 101 Franken.
 
-Anhang 6[^t-10]
+Anhang 6[^t-11]
 
 (Art. 40 Abs. 1)
 
 ## Zur Teilnahme am EHS verpflichtete Betreiber von Anlagen
 
-[^t-10]: Bereinigt gemäss Ziff. II der V vom 8. Okt. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), Anhang 6 Ziff. 2 der Abfallverordnung vom 4. Dez. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)) und Ziff. II Abs. 1 der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)) und 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^t-11]: Bereinigt gemäss Ziff. II der V vom 8. Okt. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), Anhang 6 Ziff. 2 der Abfallverordnung vom 4. Dez. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)) und Ziff. II Abs. 1 der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)) und 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
 Ein Betreiber von Anlagen, der mindestens eine der folgenden Tätigkeiten ausübt, muss am EHS teilnehmen:
 
@@ -4092,13 +4096,13 @@ Ein Betreiber von Anlagen, der mindestens eine der folgenden Tätigkeiten ausüb
 
 [^annex6-lvlu1-1]: [SR 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
 
-Anhang 7[^t-11]
+Anhang 7[^t-12]
 
 (Art. 42 Abs. 1 Bst. a und 66 Abs. 1 Bst. a und b und 3 Bst. a und b)
 
 ## Tätigkeiten, die zur Teilnahme am EHS oder zur Abgabebefreiung mit Verminderungsverpflichtung berechtigen
 
-[^t-11]: Bereinigt gemäss Ziff. II der V vom 8. Okt. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)) und Ziff. II Abs. 1 vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
+[^t-12]: Bereinigt gemäss Ziff. II der V vom 8. Okt. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)) und Ziff. II Abs. 1 vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 
 - 1\. Anbau von Pflanzen in Gewächshäusern;
 - 2\. Gewinnung von Steinen und Erden und sonstiger Bergbau;
@@ -4123,13 +4127,13 @@ Anhang 7[^t-11]
 - 20\. Produktion von fossil erzeugter Wärme oder Kälte, allenfalls gekoppelt mit der Produktion von Strom, die in regionale Fernwärme- und Fernkältenetze eingespeist oder an Betreiber von Anlagen geliefert wird, die Tätigkeiten nach den Ziffern 1–19 und 21 ausüben;
 - 21\. Reinigung von Fässern, Containern und anderen Gebinden, die im Zusammenhang mit Tätigkeiten nach diesem Anhang verwendet werden.
 
-Anhang 8[^t-12]
+Anhang 8[^t-13]
 
 *(*Art. 45 Abs. 1 und 48 Abs. 1<sup>bis</sup>)
 
 ## Berechnung der maximal zur Verfügung stehenden Menge der Emissionsrechte für Betreiber von Anlagen im EHS und Berechnung der Umlaufmenge
 
-[^t-12]: Fassung gemäss Ziff. II Abs. 2 der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^t-13]: Fassung gemäss Ziff. II Abs. 2 der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 ### 1 Maximal zur Verfügung stehende Menge der Emissionsrechte für Betreiber von Anlagen im EHS
 
@@ -4154,13 +4158,13 @@ Die jährlich für die Gesamtheit der Betreiber von Anlagen im EHS maximal zur V
 
 - 2\.3 Die Nachfrage nach Emissionsrechten für Anlagen ist das Ergebnis folgender Subtraktion: die in der Zeit vom Jahr 2013 bis zum Vorjahr nach Artikel 55 relevanten Treibhausgasemissionen der Anlagen abzüglich der Emissionsminderungszertifikate, die für die Jahre 2013–2020 zur Deckung dieser Treibhausgasemissionen abgegeben worden sind.
 
-Anhang 9[^t-13]
+Anhang 9[^t-14]
 
 (Art. 46 Abs. 1, 46*a* Abs. 2 sowie 46*b* Abs. 1 und 3)
 
 ## Berechnung der kostenlos zugeteilten Emissionsrechte für Betreiber von Anlagen im EHS
 
-[^t-13]: Bereinigt gemäss Ziff. II der V vom 8. Okt. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), vom 22. Juni 2016 ([AS 2016 2473](https://fedlex.data.admin.ch/eli/oc/2016/394)), Ziff. II Abs. 1 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)), vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), der Berichtigung vom 10. Febr. 2021 ([AS 2021 80](https://fedlex.data.admin.ch/eli/oc/2021/80)), Ziff. II Abs. 1 der V vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) und Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^t-14]: Bereinigt gemäss Ziff. II der V vom 8. Okt. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), vom 22. Juni 2016 ([AS 2016 2473](https://fedlex.data.admin.ch/eli/oc/2016/394)), Ziff. II Abs. 1 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)), vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), der Berichtigung vom 10. Febr. 2021 ([AS 2021 80](https://fedlex.data.admin.ch/eli/oc/2021/80)), Ziff. II Abs. 1 der V vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) und Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### 1 Benchmarks
 
@@ -4336,13 +4340,13 @@ Anhang 9[^t-13]
   - 1\. die innerhalb eines Produktbenchmarks genutzte Wärme gemäss Ziffer 1.7;
   - 2\. das Verhältnis der direkten Emissionen zur Summe der direkten und indirekten Emissionen gemäss Ziffer 4.1.
 
-Anhang 10[^t-14]
+Anhang 10[^t-15]
 
 (Art. 86 Abs. 1 und 89 Abs. 2)
 
 ## Treibstoffe, deren CO<sub>2</sub>-Emissionen kompensiert werden müssen
 
-[^t-14]: Eingefügt durch Anhang 2 Ziff. 3 der V vom 29. März 2017 über das Bundesinventar der Landschaften und Naturdenkmäler, in Kraft seit 1. Juni 2017 ([AS 2017 2815](https://fedlex.data.admin.ch/eli/oc/2017/290)).
+[^t-15]: Eingefügt durch Anhang 2 Ziff. 3 der V vom 29. März 2017 über das Bundesinventar der Landschaften und Naturdenkmäler, in Kraft seit 1. Juni 2017 ([AS 2017 2815](https://fedlex.data.admin.ch/eli/oc/2017/290)).
 
 <table>
 <tr><td>Zolltarifnummer[^annex10-lvlu1-1]</td><td>Warenbezeichnung</td><td>Emissionsfaktor t CO<sub>2</sub> je 1000 kg</td><td>Emissionsfaktor t CO<sub>2</sub> je TJ</td><td>Emissionsfaktor t CO<sub>2</sub> je m<sup>3</sup></td></tr>
@@ -4361,13 +4365,13 @@ Anhang 10[^t-14]
 
 [^annex10-lvlu1-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
 
-Anhang 11[^t-15]
+Anhang 11[^t-16]
 
 (Art. 94 Abs. 2)
 
 ## Tarif der CO<sub>2</sub>-Abgabe auf Brennstoffen: 120 Franken pro Tonne CO<sub>2</sub>
 
-[^t-15]: Fassung gemäss Ziff. II Abs. 2 der V vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)). Bereinigt gemäss Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^t-16]: Fassung gemäss Ziff. II Abs. 2 der V vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)). Bereinigt gemäss Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### 1 …
 
@@ -4465,13 +4469,13 @@ Für die folgenden Brennstoffe gelten die folgenden Abgabesätze:
 
 - Die nach Ziffer 3.1 verwendeten Brennstoffe unterliegen den Abgabesätzen nach Ziffer 2.
 
-Anhang 12[^t-16]
+Anhang 12[^t-17]
 
 (Art. 112–113*b*)
 
 ## Direkte Nutzung der Geothermie für die Wärmebereitstellung
 
-[^t-16]: Eingefügt durch Ziff. II Abs. 3 der V vom 1. Nov. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) und Ziff. III der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^t-17]: Eingefügt durch Ziff. II Abs. 3 der V vom 1. Nov. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) und Ziff. III der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 ### 1 Prospektion und Erschliessung
 
@@ -4626,13 +4630,13 @@ Anhang 12[^t-16]
 [^annex12-lvlu1-lvl5-1]: [SR 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
 [^annex12-lvlu1-lvl5-2]: [SR 510.624](https://fedlex.data.admin.ch/eli/cc/2008/391)
 
-Anhang 13[^t-17]
+Anhang 13[^t-18]
 
 (Art. 46*d*)
 
 ## Zur Teilnahme am EHS verpflichtete Betreiber von Luftfahrzeugen
 
-[^t-17]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Bereinigt gemäss Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^t-18]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Bereinigt gemäss Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 - 1\.
 
@@ -4676,13 +4680,13 @@ Anhang 13[^t-17]
 
 [^annex13-lvlu1-1]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
 
-Anhang 14[^t-18]
+Anhang 14[^t-19]
 
 (Art. 46*d* Abs. 1 und 2, 51 Abs. 1, 2 und 4, 52 Abs. 1, 6 und 7, 53 Abs. 1 und 2, 55 Abs. 2 sowie 130 Abs. 1)
 
 ## Zuständige Behörde für EHS-Teilnehmer
 
-[^t-18]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^t-19]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 
 ### 1 Betreiber von Anlagen
 
@@ -4702,13 +4706,13 @@ Anhang 14[^t-18]
 
 [^annex14-lvlu1-lvl2-1]: Siehe Fussnote zu Art. 135 Bst. f.
 
-Anhang 15[^t-19]
+Anhang 15[^t-20]
 
 (Art. 46*e* und 46*f*)
 
 ## Berechnung der maximal zur Verfügung stehenden Menge der Emissionsrechte und der Menge der kostenlos zuzuteilenden Emissionsrechte für Luftfahrzeuge
 
-[^t-19]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^t-20]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
 - 1\. Die Menge der Emissionsrechte wird basierend auf folgendem Benchmark berechnet:
 - 0,000642186914222035 Emissionsrechte pro Tonnenkilometer
@@ -4745,13 +4749,13 @@ BM Benchmark
 
 Zuteilung<sub>202x</sub> Zuteilung für das Jahr 202x; mit x = 1, 2, 3 etc.
 
-Anhang 16[^t-20]
+Anhang 16[^t-21]
 
 (Art. 51)
 
 ## Anforderungen an das Monitoringkonzept
 
-[^t-20]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) und Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^t-21]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) und Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### 1 Monitoringkonzept für Betreiber von Anlagen
 
@@ -4798,13 +4802,13 @@ Anhang 16[^t-20]
 
 [^annex16-lvlu1-lvl3-1]: Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen (Neufassung), ABl. L 328 vom 21.12.2018, S. 82.
 
-Anhang 17[^t-21]
+Anhang 17[^t-22]
 
 (Art. 52)
 
 ## Anforderungen an den Monitoringbericht
 
-[^t-21]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) und Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^t-22]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) und Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### 1 Monitoringbericht für Betreiber von Anlagen
 
@@ -4841,13 +4845,13 @@ Anhang 17[^t-21]
 
 [^annex17-lvlu1-lvl2-1]: Siehe Fussnote zu Art. 52 Abs. 5.
 
-Anhang 18[^t-22]
+Anhang 18[^t-23]
 
 (Art. 52)
 
 ## Verifizierung der Monitoringberichte von Luftfahrzeugbetreibern und Anforderungen an die Verifizierungsstelle
 
-[^t-22]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Bereinigt gemäss Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^t-23]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Bereinigt gemäss Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### 1 Pflichten der Verifizierungsstelle und des Luftfahrzeugbetreibers
 
