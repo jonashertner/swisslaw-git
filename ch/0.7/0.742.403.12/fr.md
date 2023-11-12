@@ -3,11 +3,11 @@ sr: "0.742.403.12"
 title: Convention relative aux transports internationaux ferroviaires dans la teneur du Protocole de modification du 3 juin 1999 (COTIF) (avec prot. et appendices)
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/485"
 language: fr
-version: 2023-11-01
+version: 2023-11-13
 adopted: 1999-06-03
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/485/20231101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-485-20231101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/485/20231101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/485/20231113/fr/xml/fedlex-data-admin-ch-eli-cc-2006-485-20231113-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/485/20231113/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -28,7 +28,7 @@ Instrument de ratification suisse déposé le 7 mai 2002
 
 Entré en vigueur pour la Suisse le 1<sup>er</sup> juillet 2006
 
-(État le 1<sup>er</sup> novembre 2023)
+(État le 13 novembre 2023)
 
 [^t-1]: [RO 2006 3099](https://fedlex.data.admin.ch/eli/oc/2006/484)
 
@@ -3833,10 +3833,11 @@ Les différends relatifs à l’admission technique de véhicules destinés à �
 - b) toute organisation régionale au sens de l’art. 2, let. x), des ATMF;
 - c) toute association internationale représentative pour les membres de laquelle l’existence de l’annexe est indispensable pour des raisons de sécurité et d’économie dans l’exercice de leur activité.
 
-Champ d’application le 8 août 2017[^t-8]
+Champ d’application 13 novembre 2023[^t-8]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Afghanistan <sup>a</sup></td><td>7 novembre</td><td>2018 A</td><td>1<sup>er</sup> mai</td><td>2019</td></tr>
 <tr><td>Albanie\*</td><td>28 septembre</td><td>2000 A</td><td>1<sup>er</sup> juillet</td><td>2006</td></tr>
 <tr><td>Algérie</td><td>4 février</td><td>2003</td><td>1<sup>er</sup> juillet</td><td>2006</td></tr>
 <tr><td>Allemagne</td><td>5 septembre</td><td>2003</td><td>1<sup>er</sup> juillet</td><td>2006</td></tr>
@@ -3849,16 +3850,16 @@ Champ d’application le 8 août 2017[^t-8]
 <tr><td>Croatie</td><td>9 mars</td><td>2001</td><td>1<sup>er</sup> juillet</td><td>2006</td></tr>
 <tr><td>Danemark</td><td>29 septembre</td><td>2004</td><td>1<sup>er</sup> juillet</td><td>2006</td></tr>
 <tr><td>Espagne <sup>b</sup></td><td>18 juin</td><td>2002</td><td>1<sup>er</sup> juillet</td><td>2006</td></tr>
-<tr><td>Estonie\* <sup>a</sup></td><td>20 août</td><td>2008 A</td><td>1<sup>er</sup> janvier</td><td>2009</td></tr>
+<tr><td>Estonie <sup>a</sup></td><td>20 août</td><td>2008 A</td><td>1<sup>er</sup> janvier</td><td>2009</td></tr>
 <tr><td>Finlande</td><td>4 août</td><td>2004</td><td>1<sup>er</sup> juillet</td><td>2006</td></tr>
-<tr><td>France\*</td><td>29 mai</td><td>2006</td><td>1<sup>er</sup> juillet</td><td>2006</td></tr>
+<tr><td>France</td><td>29 mai</td><td>2006</td><td>1<sup>er</sup> juillet</td><td>2006</td></tr>
 <tr><td>Géorgie\* <sup>a</sup></td><td>24 octobre</td><td>2011 A</td><td>1<sup>er</sup> mai</td><td>2012</td></tr>
 <tr><td>Grèce</td><td>2 juin</td><td>2008</td><td>2 juin</td><td>2008</td></tr>
 <tr><td>Hongrie</td><td>15 avril</td><td>2004</td><td>1<sup>er</sup> juillet</td><td>2006</td></tr>
 <tr><td>Iran <sup>b</sup></td><td>15 juin</td><td>2004 A</td><td>1<sup>er</sup> juillet</td><td>2006</td></tr>
 <tr><td>Irlande <sup>b</sup></td><td>14 avril</td><td>2016 A</td><td>14 avril</td><td>2016</td></tr>
 <tr><td>Italie</td><td>5 février</td><td>2015</td><td>5 février</td><td>2015</td></tr>
-<tr><td>Lettonie\* <sup>c</sup></td><td>2 avril</td><td>2004</td><td>1<sup>er</sup> juillet</td><td>2006</td></tr>
+<tr><td>Lettonie\* <sup>c</sup></td><td>2 avril</td><td>2004 A</td><td>1<sup>er</sup> juillet</td><td>2006</td></tr>
 <tr><td>Liechtenstein</td><td>13 mai</td><td>2003</td><td>1<sup>er</sup> juillet</td><td>2006</td></tr>
 <tr><td>Lituanie</td><td>10 novembre</td><td>2003</td><td>1<sup>er</sup> juillet</td><td>2006</td></tr>
 <tr><td>Luxembourg</td><td>29 juin</td><td>2006</td><td>1<sup>er</sup> juillet</td><td>2006</td></tr>
@@ -3885,10 +3886,10 @@ Champ d’application le 8 août 2017[^t-8]
 <tr><td>Turquie</td><td>3 avril</td><td>2006</td><td>1<sup>er</sup> juillet</td><td>2006</td></tr>
 <tr><td>Ukraine\* <sup>b</sup></td><td>26 octobre</td><td>2007 A</td><td>1<sup>er</sup> novembre</td><td>2007</td></tr>
 <tr><td>Union européenne</td><td>23 juin</td><td>2011 A</td><td>1<sup>er</sup> juillet</td><td>2011</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation intergouvernementale pour les transports internationaux ferroviaires: [www.otif.org](http://www.otif.org) &gt; Français &gt; L’OTIF &gt; Convention, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Adhésion à la convention après le 1<sup>er</sup> juillet 2006. <sup>b</sup> Adhésion au Protocole de 1999. <sup>c</sup> Adhésion à la convention entre le 3 juin 1999 et l’entrée en vigueur du Protocole 1999.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation intergouvernementale pour les transports internationaux ferroviaires: [www.otif.org](http://www.otif.org) &gt; Français &gt; L’OTIF &gt; Convention, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne <sup>a</sup> Adhésion à la convention après le 1<sup>er</sup> juillet 2006. <sup>b</sup> Adhésion au Protocole de 1999. <sup>c</sup> Adhésion à la convention entre le 3 juin 1999 et l’entrée en vigueur du Protocole 1999.</td></tr>
 </table>
 
-[^t-8]: [RO 2006 3101](https://fedlex.data.admin.ch/eli/oc/2006/485); [2007 4405](https://fedlex.data.admin.ch/eli/oc/2007/605); [2009 73](https://fedlex.data.admin.ch/eli/oc/2009/15); [2011 1933](https://fedlex.data.admin.ch/eli/oc/2011/281), [3615](https://fedlex.data.admin.ch/eli/oc/2011/500); [2013 2195](https://fedlex.data.admin.ch/eli/oc/2013/463); [2015 1617](https://fedlex.data.admin.ch/eli/oc/2015/318), [5987](https://fedlex.data.admin.ch/eli/oc/2015/927); [2017 3983](https://fedlex.data.admin.ch/eli/oc/2017/474). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-8]: [RO 2006 3101](https://fedlex.data.admin.ch/eli/oc/2006/485); [2007 4405](https://fedlex.data.admin.ch/eli/oc/2007/605); [2009 73](https://fedlex.data.admin.ch/eli/oc/2009/15); [2011 1933](https://fedlex.data.admin.ch/eli/oc/2011/281), [3615](https://fedlex.data.admin.ch/eli/oc/2011/500); [2013 2195](https://fedlex.data.admin.ch/eli/oc/2013/463); [2015 1617](https://fedlex.data.admin.ch/eli/oc/2015/318), [5987](https://fedlex.data.admin.ch/eli/oc/2015/927); [2017 3983](https://fedlex.data.admin.ch/eli/oc/2017/474); [2023 649](https://fedlex.data.admin.ch/eli/oc/2023/649). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Réserves et déclarations
 

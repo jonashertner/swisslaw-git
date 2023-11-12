@@ -3,11 +3,11 @@ sr: "0.742.403.12"
 title: Übereinkommen über den internationalen Eisenbahnverkehr in der Fassung des Änderungsprotokolls vom 3. Juni 1999 (COTIF) (mit Prot. und Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/485"
 language: de
-version: 2023-11-01
+version: 2023-11-13
 adopted: 1999-06-03
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/485/20231101/de/xml/fedlex-data-admin-ch-eli-cc-2006-485-20231101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/485/20231101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/485/20231113/de/xml/fedlex-data-admin-ch-eli-cc-2006-485-20231113-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/485/20231113/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Originaltext
 
 Abgeschlossen in Vilnius am 3. Juni 1999 Von der Bundesversammlung genehmigt am 14. Dezember 2001[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 7. Mai 2002 Für die Schweiz in Kraft getreten am 1. Juli 2006
 
-(Stand am 1. November 2023)
+(Stand am 13. November 2023)
 
 [^t-1]: [AS 2006 3099](https://fedlex.data.admin.ch/eli/oc/2006/484)
 
@@ -3840,62 +3840,63 @@ Meinungsverschiedenheiten betreffend die technische Zulassung von zur Verwendung
 - b) einer regionalen Organisation nach Artikel 2 x) ATMF;
 - c) einem repräsentativen internationalen Verband, für dessen Mitglieder das Vorhandensein des Anhangs aus Gründen der Sicherheit und Wirtschaftlichkeit bei der Ausübung ihrer Tätigkeit unerlässlich ist.
 
-Geltungsbereich am 8. August 2017[^t-8]
+Geltungsbereich am 13. November 2023[^t-8]
 
 <table>
-<tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th colspan="2"></th><th colspan="2">Inkrafttreten</th><th colspan="2"></th></tr>
-<tr><td>Albanien\*</td><td colspan="2">28. September</td><td colspan="2">2000 B</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Algerien</td><td colspan="2">4. Februar</td><td colspan="2">2003</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Armenien <sup>a</sup></td><td colspan="2">30. Dezember</td><td colspan="2">2010 B</td><td>1. Juli</td><td colspan="3">2011</td></tr>
-<tr><td>Aserbaidschan\* <sup>a</sup></td><td colspan="2">12. Mai</td><td colspan="2">2015 B</td><td>1. November</td><td colspan="3">2015</td></tr>
-<tr><td>Belgien</td><td colspan="2">14. August</td><td colspan="2">2007</td><td>14. August</td><td colspan="3">2007</td></tr>
-<tr><td>Bosnien und Herzegowina</td><td colspan="2">16. Mai</td><td colspan="2">2006</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Bulgarien</td><td colspan="2">29. November</td><td colspan="2">2004</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Dänemark</td><td colspan="2">29. September</td><td colspan="2">2004</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Deutschland</td><td colspan="2">05. September</td><td colspan="2">2003</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td colspan="2">Estland <sup>a</sup></td><td colspan="2">20. August</td><td>2008 B</td><td colspan="2">1. Januar</td><td colspan="2">2009</td></tr>
-<tr><td>Europäische Union</td><td colspan="2">23. Juni</td><td colspan="2">2011 B</td><td colspan="2">1. Juli</td><td colspan="2">2011</td></tr>
-<tr><td>Finnland</td><td colspan="2">4. August</td><td colspan="2">2004</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Frankreich</td><td colspan="2">29. Mai</td><td colspan="2">2006</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Georgien\* <sup>a</sup></td><td colspan="2">24. Oktober</td><td colspan="2">2011 B</td><td colspan="2">1. Mai</td><td colspan="2">2012</td></tr>
-<tr><td>Griechenland</td><td colspan="2">2. Juni</td><td colspan="2">2008</td><td>2. Juni</td><td colspan="3">2008</td></tr>
-<tr><td>Iran <sup>b</sup></td><td colspan="2">15. Juni</td><td colspan="2">2004 B</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Irland <sup>b</sup></td><td colspan="2">14. April</td><td colspan="2">2016 B</td><td>14. April</td><td colspan="3">2016</td></tr>
-<tr><td>Italien</td><td colspan="2">5. Februar</td><td colspan="2">2015</td><td colspan="2">5. Februar</td><td colspan="2">2015</td></tr>
-<tr><td>Kroatien</td><td colspan="2">9. März</td><td colspan="2">2001</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Lettland\* <sup>c</sup></td><td colspan="2">2. April</td><td colspan="2">2004 B</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Liechtenstein</td><td colspan="2">13. Mai</td><td colspan="2">2003</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Litauen</td><td colspan="2">10. November</td><td colspan="2">2003</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Luxemburg</td><td colspan="2">29. Juni</td><td colspan="2">2006</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Marokko</td><td colspan="2">28. April</td><td colspan="2">2011</td><td colspan="2">28. April</td><td colspan="2">2011</td></tr>
-<tr><td>Monaco\* <sup>b</sup></td><td colspan="2">11. Juli</td><td colspan="2">2000 B</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Montenegro <sup>a</sup></td><td colspan="2">21. Dezember</td><td colspan="2">2009 B</td><td>1. Juli</td><td colspan="3">2010</td></tr>
-<tr><td>Niederlande</td><td colspan="2">11. September</td><td colspan="2">2002</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Nordmazedonien <sup>b</sup></td><td colspan="2">26. Februar</td><td colspan="2">2001 B</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Norwegen</td><td colspan="2">27. Januar</td><td colspan="2">2005</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Österreich\*</td><td colspan="2">22. Januar</td><td colspan="2">2004</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Pakistan\* <sup>a</sup></td><td colspan="2">21. Februar</td><td colspan="2">2013 B</td><td>1. September</td><td colspan="3">2013</td></tr>
-<tr><td>Polen</td><td colspan="2">3. März</td><td colspan="2">2003</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Portugal\*</td><td colspan="2">7. April</td><td colspan="2">2005</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Rumänien\*</td><td colspan="2">8. März</td><td colspan="2">2002</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Russland\* <sup>a</sup></td><td colspan="2">21. August</td><td colspan="2">2009 B</td><td>1. Februar</td><td colspan="3">2010</td></tr>
-<tr><td>Schweden</td><td colspan="2">12. Juni</td><td colspan="2">2015</td><td>12. Juni</td><td colspan="3">2015</td></tr>
-<tr><td>Schweiz\*</td><td colspan="2">7. Mai</td><td colspan="2">2002</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Serbien <sup>b</sup></td><td colspan="2">24. Januar</td><td colspan="2">2001 B</td><td>1. Juli</td><td colspan="2">2006</td></tr>
-<tr><td>Slowakei\*</td><td colspan="2">11. Juni</td><td colspan="2">2004</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Slowenien</td><td colspan="2">10. Februar</td><td colspan="2">2004</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Spanien</td><td colspan="2">18. Juni</td><td colspan="2">2002</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Syrien</td><td colspan="2">4. Juli</td><td colspan="2">2005</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Tschechische Republik\*</td><td colspan="2">22. Dezember</td><td colspan="2">2003</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Tunesien</td><td colspan="2">31. August</td><td colspan="2">2000</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Türkei</td><td colspan="2">3. April</td><td colspan="2">2006</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Ukraine\* <sup>b</sup></td><td colspan="2">26. Oktober</td><td colspan="2">2007 B</td><td>1. November</td><td colspan="3">2007</td></tr>
-<tr><td>Ungarn</td><td colspan="2">15. April</td><td colspan="2">2004</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td>Vereinigtes Königreich\*</td><td colspan="2">29. Juni</td><td colspan="2">2006</td><td>1. Juli</td><td colspan="3">2006</td></tr>
-<tr><td colspan="9">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Zwischenstaatlichen Organisation für den Internationalen Eisenbahnverkehr: www.otif.org &gt; Français &gt; L’OTIF &gt; Convention eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Beitritt zum Übereinkommen nach dem 1. Juli 2006. <sup>b</sup> Beitritt zum Protokoll von 1999. <sup>c</sup> Beitritt zum Übereink. zwischen 3. Juni 1999 und dem Inkrafttreten des Prot. 1999.</td></tr>
+<tr><th colspan="2">Vertragsstaaten</th><th colspan="2">Ratifikation Beitritt (B)</th><th colspan="3"></th><th colspan="3">Inkrafttreten</th><th colspan="2"></th></tr>
+<tr><td colspan="2">Afghanistan <sup>a</sup></td><td colspan="3">7. November</td><td colspan="2">2018 B</td><td colspan="3">1. Mai</td><td colspan="2">2019</td></tr>
+<tr><td>Albanien\*</td><td colspan="3">28. September</td><td colspan="3">2000 B</td><td colspan="2">1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Algerien</td><td colspan="3">4. Februar</td><td colspan="3">2003</td><td colspan="2">1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Armenien <sup>a</sup></td><td colspan="3">30. Dezember</td><td colspan="3">2010 B</td><td colspan="2">1. Juli</td><td colspan="3">2011</td></tr>
+<tr><td>Aserbaidschan\* <sup>a</sup></td><td colspan="3">12. Mai</td><td colspan="3">2015 B</td><td colspan="2">1. November</td><td colspan="3">2015</td></tr>
+<tr><td>Belgien</td><td colspan="3">14. August</td><td colspan="3">2007</td><td colspan="2">14. August</td><td colspan="3">2007</td></tr>
+<tr><td>Bosnien und Herzegowina</td><td colspan="3">16. Mai</td><td colspan="3">2006</td><td colspan="2">1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Bulgarien</td><td colspan="3">29. November</td><td colspan="3">2004</td><td colspan="2">1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Dänemark</td><td colspan="3">29. September</td><td colspan="3">2004</td><td colspan="2">1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Deutschland</td><td colspan="3">05. September</td><td colspan="3">2003</td><td colspan="2">1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td colspan="3">Estland <sup>b</sup></td><td colspan="3">20. August</td><td colspan="2">2008 B</td><td colspan="2">1. Januar</td><td colspan="2">2009</td></tr>
+<tr><td>Europäische Union</td><td colspan="3">23. Juni</td><td colspan="3">2011 B</td><td colspan="3">1. Juli</td><td colspan="2">2011</td></tr>
+<tr><td>Finnland</td><td colspan="3">4. August</td><td colspan="3">2004</td><td colspan="2">1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Frankreich</td><td colspan="3">29. Mai</td><td colspan="3">2006</td><td colspan="2">1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Georgien\* <sup>a</sup></td><td colspan="3">24. Oktober</td><td colspan="3">2011 B</td><td colspan="3">1. Mai</td><td colspan="2">2012</td></tr>
+<tr><td>Griechenland</td><td colspan="3">2. Juni</td><td colspan="3">2008</td><td colspan="2">2. Juni</td><td colspan="3">2008</td></tr>
+<tr><td>Iran <sup>b</sup></td><td colspan="3">15. Juni</td><td colspan="3">2004 B</td><td colspan="2">1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Irland <sup>b</sup></td><td colspan="3">14. April</td><td colspan="3">2016 B</td><td colspan="2">14. April</td><td colspan="3">2016</td></tr>
+<tr><td>Italien</td><td colspan="3">5. Februar</td><td colspan="3">2015</td><td colspan="3">5. Februar</td><td colspan="2">2015</td></tr>
+<tr><td>Kroatien</td><td colspan="3">9. März</td><td colspan="3">2001</td><td colspan="2">1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Lettland\* <sup>c</sup></td><td colspan="3">2. April</td><td colspan="3">2004 B</td><td colspan="2">1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Liechtenstein</td><td colspan="3">13. Mai</td><td colspan="3">2003</td><td colspan="2">1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Litauen</td><td colspan="3">10. November</td><td colspan="3">2003</td><td colspan="2">1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Luxemburg</td><td colspan="3">29. Juni</td><td colspan="3">2006</td><td colspan="2">1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Marokko</td><td colspan="3">28. April</td><td colspan="3">2011</td><td colspan="3">28. April</td><td colspan="2">2011</td></tr>
+<tr><td>Monaco\* <sup>b</sup></td><td colspan="3">11. Juli</td><td colspan="3">2000 B</td><td colspan="2">1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Montenegro <sup>a</sup></td><td colspan="3">21. Dezember</td><td colspan="3">2009 B</td><td colspan="2">1. Juli</td><td colspan="3">2010</td></tr>
+<tr><td>Niederlande</td><td colspan="3">11. September</td><td colspan="3">2002</td><td colspan="2">1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Nordmazedonien <sup>b</sup></td><td colspan="3">26. Februar</td><td colspan="3">2001 B</td><td colspan="2">1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Norwegen</td><td colspan="3">27. Januar</td><td colspan="3">2005</td><td colspan="2">1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Österreich\*</td><td colspan="3">22. Januar</td><td colspan="3">2004</td><td colspan="2">1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Pakistan\* <sup>a</sup></td><td colspan="3">21. Februar</td><td colspan="3">2013 B</td><td colspan="2">1. September</td><td colspan="3">2013</td></tr>
+<tr><td>Polen</td><td colspan="3">3. März</td><td colspan="3">2003</td><td colspan="2">1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Portugal\*</td><td colspan="3">7. April</td><td colspan="3">2005</td><td colspan="2">1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Rumänien\*</td><td colspan="3">8. März</td><td colspan="3">2002</td><td colspan="2">1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Russland\* <sup>a</sup></td><td colspan="3">21. August</td><td colspan="3">2009 B</td><td colspan="2">1. Februar</td><td colspan="3">2010</td></tr>
+<tr><td>Schweden</td><td colspan="3">12. Juni</td><td colspan="3">2015</td><td colspan="2">12. Juni</td><td colspan="3">2015</td></tr>
+<tr><td>Schweiz\*</td><td colspan="3">7. Mai</td><td colspan="3">2002</td><td colspan="2">1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Serbien <sup>b</sup></td><td colspan="3">24. Januar</td><td colspan="3">2001 B</td><td colspan="2">1. Juli</td><td colspan="2">2006</td></tr>
+<tr><td>Slowakei\*</td><td colspan="3">11. Juni</td><td colspan="3">2004</td><td colspan="2">1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Slowenien</td><td colspan="3">10. Februar</td><td colspan="3">2004</td><td colspan="2">1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Spanien</td><td colspan="3">18. Juni</td><td colspan="3">2002</td><td colspan="2">1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Syrien</td><td colspan="3">4. Juli</td><td colspan="3">2005</td><td colspan="2">1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Tschechische Republik\*</td><td colspan="3">22. Dezember</td><td colspan="3">2003</td><td colspan="2">1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Tunesien</td><td colspan="3">31. August</td><td colspan="3">2000</td><td colspan="2">1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Türkei</td><td colspan="3">3. April</td><td colspan="3">2006</td><td colspan="2">1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Ukraine\* <sup>b</sup></td><td colspan="3">26. Oktober</td><td colspan="3">2007 B</td><td colspan="2">1. November</td><td colspan="3">2007</td></tr>
+<tr><td>Ungarn</td><td colspan="3">15. April</td><td colspan="3">2004</td><td colspan="2">1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td>Vereinigtes Königreich\*</td><td colspan="3">29. Juni</td><td colspan="3">2006</td><td colspan="2">1. Juli</td><td colspan="3">2006</td></tr>
+<tr><td colspan="12">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Zwischenstaatlichen Organisation für den Internationalen Eisenbahnverkehr: www.otif.org &gt; Français &gt; L’OTIF &gt; Convention eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Beitritt zum Übereinkommen nach dem 1. Juli 2006. <sup>b</sup> Beitritt zum Protokoll von 1999. <sup>c</sup> Beitritt zum Übereink. zwischen 3. Juni 1999 und dem Inkrafttreten des Prot. 1999.</td></tr>
 </table>
 
-[^t-8]: [AS 2006 3101](https://fedlex.data.admin.ch/eli/oc/2006/485); [2007 4405](https://fedlex.data.admin.ch/eli/oc/2007/605); [2009 73](https://fedlex.data.admin.ch/eli/oc/2009/15); [2011 1933](https://fedlex.data.admin.ch/eli/oc/2011/281), [3615](https://fedlex.data.admin.ch/eli/oc/2011/500); [2013 2195](https://fedlex.data.admin.ch/eli/oc/2013/463); [2015 1617](https://fedlex.data.admin.ch/eli/oc/2015/318), [5987](https://fedlex.data.admin.ch/eli/oc/2015/927); [2017 3983](https://fedlex.data.admin.ch/eli/oc/2017/474). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-8]: [AS 2006 3101](https://fedlex.data.admin.ch/eli/oc/2006/485); [2007 4405](https://fedlex.data.admin.ch/eli/oc/2007/605); [2009 73](https://fedlex.data.admin.ch/eli/oc/2009/15); [2011 1933](https://fedlex.data.admin.ch/eli/oc/2011/281), [3615](https://fedlex.data.admin.ch/eli/oc/2011/500); [2013 2195](https://fedlex.data.admin.ch/eli/oc/2013/463); [2015 1617](https://fedlex.data.admin.ch/eli/oc/2015/318), [5987](https://fedlex.data.admin.ch/eli/oc/2015/927); [2017 3983](https://fedlex.data.admin.ch/eli/oc/2017/474); [2023 649](https://fedlex.data.admin.ch/eli/oc/2023/649). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 

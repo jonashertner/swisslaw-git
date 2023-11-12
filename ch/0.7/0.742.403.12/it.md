@@ -3,11 +3,11 @@ sr: "0.742.403.12"
 title: Convenzione relativa ai trasporti internazionali ferroviari nel tenore del Protocollo di modifica del 3 giugno 1999 (COTIF) (con prot. e appendici)
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/485"
 language: it
-version: 2023-11-01
+version: 2023-11-13
 adopted: 1999-06-03
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/485/20231101/it/xml/fedlex-data-admin-ch-eli-cc-2006-485-20231101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/485/20231101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/485/20231113/it/xml/fedlex-data-admin-ch-eli-cc-2006-485-20231113-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/485/20231113/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -22,7 +22,7 @@ Traduzione
 
 Concluso a Vilnius il 3 giugno 1999 Approvato dall’Assemblea federale il 14 dicembre 2001[^t-1] Ratificato con strumenti depositati dalla Svizzera il 7 maggio 2002 Entrato in vigore per la Svizzera il 1° luglio 2006
 
-(Stato 1° novembre 2023)
+(Stato 13 novembre 2023)
 
 [^t-1]: [RU 2006 3099](https://fedlex.data.admin.ch/eli/oc/2006/484)
 
@@ -2474,7 +2474,7 @@ Appendice C alla Convenzione COTIF
 
 [^annexC-lvlu1-lvlu1-1]
 
-[^annexC-lvlu1-lvlu1-1]: Nuovo testo giusta le Dec. della Commissione di esperti RID dei 20 nov. 2009/20 mag. 2010, in vigore dal 1° gen. 2011 ([RU 2011 2345](https://fedlex.data.admin.ch/eli/oc/2011/330)).
+[^annexC-lvlu1-lvlu1-1]: Nuovo testo giusta le Dec. della Commissione di esperti RID dei 20 nov. 2009 /20 mag. 2010, in vigore dal 1° gen. 2011 ([RU 2011 2345](https://fedlex.data.admin.ch/eli/oc/2011/330)).
 
 #### Art. 1
 
@@ -3831,10 +3831,11 @@ Le controversie relative all’ammissione tecnica di veicoli destinati ad essere
 - b) un’organizzazione regionale di cui all’articolo 2 lettera x) delle ATMF;
 - c) un’associazione internazionale rappresentativa per i cui membri l’esistenza dell’appendice è indispensabile per ragioni di sicurezza e di economia nell’esercizio della loro attività.
 
-Campo d’applicazione l’8 agosto 2017[^t-6]
+Campo d’applicazione il 13 novembre 2023[^t-6]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Afghanistan <sup>a</sup></td><td>7 novembre</td><td>2018 A</td><td>1° maggio</td><td>2019</td></tr>
 <tr><td>Albania<sup>\*</sup></td><td>28 settembre</td><td>2000 A</td><td>1° luglio</td><td>2006</td></tr>
 <tr><td>Algeria</td><td>4 febbraio</td><td>2003</td><td>1° luglio</td><td>2006</td></tr>
 <tr><td>Armenia <sup>a</sup></td><td>30 dicembre</td><td>2010 A</td><td>1° luglio</td><td>2011</td></tr>
@@ -3846,7 +3847,7 @@ Campo d’applicazione l’8 agosto 2017[^t-6]
 <tr><td>Ceca, Repubblica<sup>\*</sup></td><td>22 dicembre</td><td>2003</td><td>1° luglio</td><td>2006</td></tr>
 <tr><td>Croazia</td><td>9 marzo</td><td>2001</td><td>1° luglio</td><td>2006</td></tr>
 <tr><td>Danimarca</td><td>29 settembre</td><td>2004</td><td>1° luglio</td><td>2006</td></tr>
-<tr><td>Estonia<sup>\*</sup> <sup>a</sup></td><td>20 agosto</td><td>2008 A</td><td>1° gennaio</td><td>2009</td></tr>
+<tr><td>Estonia <sup>a</sup></td><td>20 agosto</td><td>2008 A</td><td>1° gennaio</td><td>2009</td></tr>
 <tr><td>Finlandia</td><td>4 agosto</td><td>2004</td><td>1° luglio</td><td>2006</td></tr>
 <tr><td>Francia</td><td>29 maggio</td><td>2006</td><td>1° luglio</td><td>2006</td></tr>
 <tr><td>Georgia<sup>\*</sup> <sup>a</sup></td><td>24 ottobre</td><td>2011 A</td><td>1° maggio</td><td>2012</td></tr>
@@ -3855,7 +3856,7 @@ Campo d’applicazione l’8 agosto 2017[^t-6]
 <tr><td>Iran <sup>b</sup></td><td>15 giugno</td><td>2004 A</td><td>1° luglio</td><td>2006</td></tr>
 <tr><td>Irlanda <sup>b</sup></td><td>14 aprile</td><td>2016 A</td><td>14 aprile</td><td>2016</td></tr>
 <tr><td>Italia</td><td>5 febbraio</td><td>2015</td><td>5 febbraio</td><td>2015</td></tr>
-<tr><td>Lettonia<sup>\* c</sup></td><td>2 aprile</td><td>2004</td><td>1° luglio</td><td>2006</td></tr>
+<tr><td>Lettonia<sup>\* c</sup></td><td>2 aprile</td><td>2004 A</td><td>1° luglio</td><td>2006</td></tr>
 <tr><td>Liechtenstein</td><td>13 maggio</td><td>2003</td><td>1° luglio</td><td>2006</td></tr>
 <tr><td>Lituania</td><td>10 novembre</td><td>2003</td><td>1° luglio</td><td>2006</td></tr>
 <tr><td>Lussemburgo</td><td>29 giugno</td><td>2006</td><td>1° luglio</td><td>2006</td></tr>
@@ -3868,12 +3869,12 @@ Campo d’applicazione l’8 agosto 2017[^t-6]
 <tr><td>Pakistan<sup>\*</sup> <sup>a</sup></td><td>21 febbraio</td><td>2013 A</td><td>1° settembre</td><td>2013</td></tr>
 <tr><td>Polonia</td><td>3 marzo</td><td>2003</td><td>1° luglio</td><td>2006</td></tr>
 <tr><td>Portogallo<sup>\*</sup></td><td>7 aprile</td><td>2005</td><td>1° luglio</td><td>2006</td></tr>
-<tr><td>Regno Unito\*</td><td>29 giugno</td><td>2006</td><td>1° luglio</td><td>2006</td></tr>
+<tr><td>Regno Unito<sup>\*</sup></td><td>29 giugno</td><td>2006</td><td>1° luglio</td><td>2006</td></tr>
 <tr><td>Romania<sup>\*</sup></td><td>8 marzo</td><td>2002</td><td>1° luglio</td><td>2006</td></tr>
 <tr><td>Russia<sup>\*</sup> <sup>a</sup></td><td>21 agosto</td><td>2009 A</td><td>1° febbraio</td><td>2010</td></tr>
 <tr><td>Serbia <sup>b</sup></td><td>24 gennaio</td><td>2001 A</td><td>1° luglio</td><td>2006</td></tr>
 <tr><td>Siria</td><td>4 luglio</td><td>2005</td><td>1° luglio</td><td>2006</td></tr>
-<tr><td>Slovacchia\*</td><td>11 giugno</td><td>2004</td><td>1° luglio</td><td>2006</td></tr>
+<tr><td>Slovacchia<sup>\*</sup></td><td>11 giugno</td><td>2004</td><td>1° luglio</td><td>2006</td></tr>
 <tr><td>Slovenia</td><td>10 febbraio</td><td>2004</td><td>1° luglio</td><td>2006</td></tr>
 <tr><td>Spagna <sup>b</sup></td><td>18 giugno</td><td>2002</td><td>1° luglio</td><td>2006</td></tr>
 <tr><td>Svezia</td><td>12 giugno</td><td>2015</td><td>12 giugno</td><td>2015</td></tr>
@@ -3883,21 +3884,16 @@ Campo d’applicazione l’8 agosto 2017[^t-6]
 <tr><td>Ucraina<sup>\*</sup> <sup>b</sup></td><td>26 ottobre</td><td>2007 A</td><td>1° novembre</td><td>2007</td></tr>
 <tr><td>Ungheria</td><td>15 aprile</td><td>2004</td><td>1° luglio</td><td>2006</td></tr>
 <tr><td>Unione europea</td><td>23 giugno</td><td>2011 A</td><td>1° luglio</td><td>2011</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. I testi, francese ed inglese, possono essere consultati sul sito Internet dell'Organizzazione intergovernativa per i trasporti internazionali per ferrovia (OTIF): www.otif.org &gt; Français &gt; L’OTIF &gt; Convention, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna</td></tr>
-<tr><td colspan="5"><sup>a</sup> Adesione alla Conv. dopo il 1° lug. 2006.</td></tr>
-<tr><td colspan="5"><sup>d</sup> Adesione al Prot. del 1999.</td></tr>
-<tr><td colspan="5"><sup>g</sup> Adesione alla Conv. entro il 3 giu. 1999 e l’entrata in vigore del Prot. 1999.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. I testi, francese ed inglese, possono essere consultati sul sito Internet dell'Organizzazione intergovernativa per i trasporti internazionali per ferrovia (OTIF): [www.otif.org](http://www.otif.org) &gt; Français &gt; L’OTIF &gt; Convention, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Adesione alla Conv. dopo il 1° lug. 2006. <sup>b</sup> Adesione al Prot. del 1999. <sup>c</sup> Adesione alla Conv. entro il 3 giu. 1999 e l’entrata in vigore del Prot. 1999.</td></tr>
 </table>
 
-[^t-6]: [RU 2006 3101](https://fedlex.data.admin.ch/eli/oc/2006/485); [2007 4405](https://fedlex.data.admin.ch/eli/oc/2007/605); [2009 73](https://fedlex.data.admin.ch/eli/oc/2009/15); [2011 1933](https://fedlex.data.admin.ch/eli/oc/2011/281), [3615](https://fedlex.data.admin.ch/eli/oc/2011/500); [2013 2195](https://fedlex.data.admin.ch/eli/oc/2013/463); [2015 1617](https://fedlex.data.admin.ch/eli/oc/2015/318), [5987](https://fedlex.data.admin.ch/eli/oc/2015/927); [2017 3983](https://fedlex.data.admin.ch/eli/oc/2017/474). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-6]: [RU 2006 3101](https://fedlex.data.admin.ch/eli/oc/2006/485); [2007 4405](https://fedlex.data.admin.ch/eli/oc/2007/605); [2009 73](https://fedlex.data.admin.ch/eli/oc/2009/15); [2011 1933](https://fedlex.data.admin.ch/eli/oc/2011/281), [3615](https://fedlex.data.admin.ch/eli/oc/2011/500); [2013 2195](https://fedlex.data.admin.ch/eli/oc/2013/463); [2015 1617](https://fedlex.data.admin.ch/eli/oc/2015/318), [5987](https://fedlex.data.admin.ch/eli/oc/2015/927); [2017 3983](https://fedlex.data.admin.ch/eli/oc/2017/474); [2023 649](https://fedlex.data.admin.ch/eli/oc/2023/649). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
 
 Riserve e dichiarazioni
 
 **Dichiarazione della Confederazione Svizzera in relazione all’adesione dell’Unione europea alla COTIF**
 
-Depositata il 23 giugno 2011
-
-Entrata in vigore per la Svizzera il 1° luglio 2011
+Depositata il 23 giugno 2011 Entrata in vigore per la Svizzera il 1° luglio 2011
 
 A seguito della decisione relativa all’adesione dell’Unione europea alla COTIF, adottata il 23 giugno 2011 dalla 10<sup>a</sup> Assemblea generale dell’Organizzazione intergovernativa per i trasporti internazionali per ferrovia (OTIF), la Svizzera ha depositato la seguente dichiarazione:
 
