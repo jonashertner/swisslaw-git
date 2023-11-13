@@ -4,13 +4,12 @@ number: "962.1"
 title: Einführungsgesetz zur Schweizerischen Straf- und Jugendstrafprozessordnung
 short: EG-StPO
 language: de
-version: 2020-01-01
-corrected: 2019-12-30
-version_adopted: 2019-01-29
+version: 2023-11-14
+version_adopted: 2023-11-14
 adopted: 2010-08-03
 in_force: 2011-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/962.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2859/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3546/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2859/pdf_file"
 
 (EG-StPO)
 
-vom 03.08.2010 (Stand 01.01.2020)
+vom 03.08.2010 (Stand 14.11.2023)
 
 Der Kantonsrat des Kantons St.Gallen
 
@@ -444,6 +443,22 @@ als Gesetz:[^ingress-4]
 
 [^30-1]: BG über die Hilfe an Opfer von Straftaten vom 23. März 2007 (SR [312.5](https://db.clex.ch/link/Bund/312.5/de); abgekürzt OHG).
 
+#### Art. 30a
+
+**a<sup>bis</sup>) Notunterkünfte**
+
+<sup>1</sup> Anerkannte Notunterkünfte für Opfer häuslicher Gewalt nach Art. 37 des Sozialhilfegesetzes vom 27. September 1998[^30a-1]:
+
+- a) stellen der zuständigen Beratungsstelle rechtzeitig ein begründetes Gesuch um Opferhilfe, wenn der Aufenthalt der betroffenen Personen länger als zehn Tage dauert und das Opfer Wohnsitz im Kanton St.Gallen hat;
+- b) holen unverzüglich eine Kostengutsprache der zuständigen Stelle des Kantons ein, in dem das Opfer unmittelbar vor Eintritt in die Notunterkunft Wohnsitz hatte.
+
+<sup>2</sup> Die Beratungsstelle stellt den Anspruch auf Soforthilfe oder auf längerfristige Hilfe nach dem eidgenössischen Opferhilfegesetz vom 23. März 2007[^30a-2] fest.
+
+<sup>3</sup> Die Beratungsstelle erstattet dem zuständigen Departement jährlich Bericht zu den anrechenbaren Aufenthaltstagen von Opfern mit Wohnsitz im Kanton St.Gallen.
+
+[^30a-1]: sGS [381.1](https://www.gesetzessammlung.sg.ch/data/381.1/de).
+[^30a-2]: BG über die Hilfe an Opfer von Straftaten vom 23. März 2007 (SR [312.5](https://db.clex.ch/link/Bund/312.5/de); abgekürzt OHG).
+
 #### Art. 31
 
 **b) Entschädigung und Genugtuung**
@@ -744,17 +759,17 @@ als Gesetz:[^ingress-4]
 
 <sup>1</sup> Mit der Begnadigung können rechtskräftige Strafen ganz oder teilweise erlassen oder in mildere Strafen umgewandelt werden, wenn aussergewöhnliche Umstände vorliegen, die den Vollzug der Strafe im konkreten Fall als eine unbillige, nicht gerechtfertigte Massnahme erscheinen lassen.
 
-<sup>2</sup> Der Kantonsrat übt das Begnadigungsrecht bei Freiheitsstrafen von mehr als fünf Jahren aus. Im Übrigen übt die Regierung das Begnadigungsrecht aus.
+<sup>2</sup> Die Regierung übt das Begnadigungsrecht aus.
 
 #### Art. 54
 
 **Gesuch und Verfahren**
 
-<sup>1</sup> Die verurteilte Person oder eine andere in Art. 382 Abs. 1 des Schweizerischen Strafgesetzbuches vom 21. Dezember 1937[^54-1] bezeichnete Person reicht das Begnadigungsgesuch schriftlich und begründet der Regierung ein. Ist diese zum Entscheid nicht zuständig, stellt sie dem Kantonsrat Antrag.
+<sup>1</sup> Die verurteilte Person oder eine andere in Art. 382 Abs. 1 des Schweizerischen Strafgesetzbuches vom 21. Dezember 1937[^54-1] bezeichnete Person reicht das Begnadigungsgesuch schriftlich und begründet der Regierung ein.
 
-<sup>2</sup> Ist das Begnadigungsgesuch nicht offensichtlich unzulässig oder unbegründet, führt das zuständige Departement die notwendigen Erhebungen durch. Es kann den Strafvollzug bis zum Entscheid der Begnadigungsinstanz aufschieben oder unterbrechen. Auf Verfahren und Kosten werden die Vorschriften des Gesetzes über die Verwaltungsrechtspflege vom 16. Mai 1965[^54-2] sachgemäss angewendet.
+<sup>2</sup> Ist das Begnadigungsgesuch nicht offensichtlich unzulässig oder unbegründet, führt das zuständige Departement die notwendigen Erhebungen durch. Es kann den Strafvollzug bis zum Entscheid der Regierung aufschieben oder unterbrechen. Auf Verfahren und Kosten werden die Vorschriften des Gesetzes über die Verwaltungsrechtspflege vom 16. Mai 1965[^54-2] sachgemäss angewendet.
 
-<sup>3</sup> Der Entscheid über das Begnadigungsgesuch muss nicht begründet werden. Die Begnadigungsbehörde kann bestimmen, bis zu welchem Zeitpunkt ein neues Gesuch nicht zugelassen wird.
+<sup>3</sup> Der Entscheid über das Begnadigungsgesuch muss nicht begründet werden. Die Regierung kann bestimmen, bis zu welchem Zeitpunkt ein neues Gesuch nicht zugelassen wird.
 
 [^54-1]: Schweizerisches Strafgesetzbuch vom 21. Dezember 1937 (SR [311.0](https://db.clex.ch/link/Bund/311.0/de); abgekürzt StGB).
 [^54-2]: sGS [951.1](https://www.gesetzessammlung.sg.ch/data/951.1/de).
