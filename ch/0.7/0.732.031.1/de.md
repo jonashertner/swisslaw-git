@@ -3,11 +3,11 @@ sr: "0.732.031.1"
 title: Änderung vom 8. Juli 2005 des Übereinkommens vom 26. Oktober 1979 über den physischen Schutz von Kernmaterial
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/286"
 language: de
-version: 2022-04-07
+version: 2023-11-14
 adopted: 2005-07-08
 in_force: 2016-05-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/286/20220407/de/xml/fedlex-data-admin-ch-eli-cc-2016-286-20220407-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/286/20220407/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/286/20231114/de/xml/fedlex-data-admin-ch-eli-cc-2016-286-20231114-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/286/20231114/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 15. Oktober 2008
 
 In Kraft getreten für die Schweiz am 8. Mai 2016
 
-(Stand am 7. April 2022)
+(Stand am 14. November 2023)
 
 [^t-1]: [AS 2016 1485](https://fedlex.data.admin.ch/eli/oc/2016/285)
 

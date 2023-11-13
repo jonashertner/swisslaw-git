@@ -3,11 +3,11 @@ sr: "0.732.031.1"
 title: "Modifica dell' 8 luglio 2005 della Convenzione del 26 ottobre 1979 sulla protezione fisica delle materie nucleari"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/286"
 language: it
-version: 2022-04-07
+version: 2023-11-14
 adopted: 2005-07-08
 in_force: 2016-05-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/286/20220407/it/xml/fedlex-data-admin-ch-eli-cc-2016-286-20220407-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/286/20220407/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/286/20231114/it/xml/fedlex-data-admin-ch-eli-cc-2016-286-20231114-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/286/20231114/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ RU **2016** 1487; FF **2008** 985
 
 Conclusa a Vienna l’8 luglio 2005 Approvata dall’Assemblea federale il 13 giugno 2008[^t-1] Strumento di ratifica depositato dalla Svizzera il 15 ottobre 2008 Entrata in vigore per la Svizzera l’8 maggio 2016
 
-(Stato 7 aprile 2022)
+(Stato 14 novembre 2023)
 
 [^t-1]: [RU 2016 1485](https://fedlex.data.admin.ch/eli/oc/2016/285)
 

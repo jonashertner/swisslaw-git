@@ -3,11 +3,11 @@ sr: "0.732.031.1"
 title: Amendement du 8 juillet 2005 de la Convention du 26 octobre 1979 sur la protection physique des matières nucléaires
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/286"
 language: fr
-version: 2022-04-07
+version: 2023-11-14
 adopted: 2005-07-08
 in_force: 2016-05-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/286/20220407/fr/xml/fedlex-data-admin-ch-eli-cc-2016-286-20220407-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/286/20220407/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/286/20231114/fr/xml/fedlex-data-admin-ch-eli-cc-2016-286-20231114-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/286/20231114/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 15 octobre 2008
 
 Entré en vigueur pour la Suisse le 8 mai 2016
 
-(État le 7 avril 2022)
+(État le 14 novembre 2023)
 
 [^t-1]: [RO 2016 1485](https://fedlex.data.admin.ch/eli/oc/2016/285)
 
