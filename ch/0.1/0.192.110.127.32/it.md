@@ -3,11 +3,11 @@ sr: "0.192.110.127.32"
 title: "Accordo del 1<sup>o</sup> luglio 1959 su i privilegi e le immunità dell'Agenzia internazionale dell'energia nucleare"
 eli: "https://fedlex.data.admin.ch/eli/cc/1970/116_118_118"
 language: it
-version: 2020-10-20
+version: 2023-11-15
 adopted: 1959-07-01
 in_force: 1969-09-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/116_118_118/20201020/it/xml/fedlex-data-admin-ch-eli-cc-1970-116_118_118-20201020-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1970/116_118_118/20201020/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/116_118_118/20231115/it/xml/fedlex-data-admin-ch-eli-cc-1970-116_118_118-20231115-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1970/116_118_118/20231115/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **1970** 118; FF **1969** I 121
 
 Traduzione
 
-Approvato dal Consiglio direttivo il 1° luglio 1959
+Approvato dal Consiglio direttivo il 1° luglio 1959 Approvato dall’Assemblea federale il 18 giugno 1969[^t-1] Accettato dalla Svizzera con strumento depositato il 16 settembre 1969 Entrato in vigore per la Svizzera il 16 settembre 1969
 
-Approvato dall’Assemblea federale il 18 giugno 1969[^t-1]
-
-Accettato dalla Svizzera con strumento depositato il 16 settembre 1969
-
-Entrato in vigore per la Svizzera il 16 settembre 1969
-
-(Stato 20 ottobre 2020)
+(Stato 15 novembre 2023)
 
 [^t-1]: [RU 1970 117](https://fedlex.data.admin.ch/eli/oc/1970/114_117_117)
 
@@ -314,7 +308,7 @@ Il presente Accordo rimane in vigore tra l’Agenzia e ciascun Membro che abbia 
 
 Il Consiglio direttivo dell’Agenzia, a domanda d’un terzo degli Stati partecipi del presente Accordo, esamina se occorra emendarlo. Gli emendamenti approvati dal Consiglio entrano in vigore dopo che siano stati accettati giusta la procedura definita nella sezione 38.
 
-Campo d’applicazione il 20 ottobre 2020**[^t-2]**
+Campo d’applicazione il 15 novembre 2023[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -367,6 +361,7 @@ Campo d’applicazione il 20 ottobre 2020**[^t-2]**
 <tr><td>Kuwait</td><td>15 settembre</td><td>1998</td><td>15 settembre</td><td>1998</td></tr>
 <tr><td>Lesotho</td><td>16 settembre</td><td>2019</td><td>16 settembre</td><td>2019</td></tr>
 <tr><td>Lettonia</td><td>5 gennaio</td><td>2000</td><td>5 gennaio</td><td>2000</td></tr>
+<tr><td>Libano</td><td>13 aprile</td><td>2022</td><td>13 aprile</td><td>2022</td></tr>
 <tr><td>Lituania</td><td>28 febbraio</td><td>2001</td><td>28 febbraio</td><td>2001</td></tr>
 <tr><td>Lussemburgo<sup>\*</sup></td><td>24 marzo</td><td>1972</td><td>24 marzo</td><td>1972</td></tr>
 <tr><td>Marocco<sup>\*</sup></td><td>30 marzo</td><td>1977</td><td>30 marzo</td><td>1977</td></tr>
@@ -395,6 +390,7 @@ Campo d’applicazione il 20 ottobre 2020**[^t-2]**
 <tr><td>Regno Unito</td><td>19 settembre</td><td>1961</td><td>19 settembre</td><td>1961</td></tr>
 <tr><td>Romania<sup>\*</sup></td><td>7 ottobre</td><td>1970</td><td>7 ottobre</td><td>1970</td></tr>
 <tr><td>Russia<sup>\*</sup></td><td>1° luglio</td><td>1966</td><td>1° luglio</td><td>1966</td></tr>
+<tr><td>Saint Kitts e Nevis</td><td>12 giugno</td><td>2023</td><td>12 giugno</td><td>2023</td></tr>
 <tr><td>Santa Sede</td><td>21 gennaio</td><td>1986</td><td>21 gennaio</td><td>1986</td></tr>
 <tr><td>Senegal</td><td>15 dicembre</td><td>2006</td><td>15 dicembre</td><td>2006</td></tr>
 <tr><td>Serbia</td><td>28 aprile</td><td>1992</td><td>27 aprile</td><td>1992</td></tr>
@@ -412,11 +408,13 @@ Campo d’applicazione il 20 ottobre 2020**[^t-2]**
 <tr><td>Turchia<sup>\*</sup></td><td>26 giugno</td><td>1978</td><td>26 giugno</td><td>1978</td></tr>
 <tr><td>Ucraina<sup>\*</sup></td><td>5 ottobre</td><td>1966</td><td>5 ottobre</td><td>1966</td></tr>
 <tr><td>Ungheria<sup>\*</sup></td><td>14 luglio</td><td>1967</td><td>14 luglio</td><td>1967</td></tr>
+<tr><td>Uruguay</td><td>17 marzo</td><td>2023</td><td>17 marzo</td><td>2023</td></tr>
 <tr><td>Vietnam</td><td>31 luglio</td><td>1969</td><td>31 luglio</td><td>1969</td></tr>
+<tr><td>Zimbabwe</td><td>25 settembre</td><td>2023</td><td>25 settembre</td><td>2023</td></tr>
 <tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. I testi in inglese possono essere consultati sul sito Internet dell’Agenzia internazionale per l’energia atomica (AIEA): www.iaea.org/ &gt; Resources &gt; Treaties, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 1970 118](https://fedlex.data.admin.ch/eli/oc/1970/116_118_118), [1974 263](https://fedlex.data.admin.ch/eli/oc/1974/263_263_263), [1982 1287](https://fedlex.data.admin.ch/eli/oc/1982/1287_1287_1287)[2089](https://fedlex.data.admin.ch/eli/oc/1982/2089_2089_2089), [1984 198](https://fedlex.data.admin.ch/eli/oc/1984/198_198_198), [1985 500](https://fedlex.data.admin.ch/eli/oc/1985/500_500_500), [1986 177](https://fedlex.data.admin.ch/eli/oc/1986/177_177_177), [1987 469](https://fedlex.data.admin.ch/eli/oc/1987/469_469_469), [1988 1748](https://fedlex.data.admin.ch/eli/oc/1988/1748_1748_1748), [1990 560](https://fedlex.data.admin.ch/eli/oc/1990/560_560_560)[1601](https://fedlex.data.admin.ch/eli/oc/1990/1601_1601_1601), [2004 2979](https://fedlex.data.admin.ch/eli/oc/2004/373), [2007 4391](https://fedlex.data.admin.ch/eli/oc/2007/598), [2011 4883](https://fedlex.data.admin.ch/eli/oc/2011/694), [2016 495](https://fedlex.data.admin.ch/eli/oc/2016/84), [2019 3111](https://fedlex.data.admin.ch/eli/oc/2019/572), [2020 4393](https://fedlex.data.admin.ch/eli/oc/2020/782). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1970 118](https://fedlex.data.admin.ch/eli/oc/1970/116_118_118); [1974 263](https://fedlex.data.admin.ch/eli/oc/1974/263_263_263); [1982 1287](https://fedlex.data.admin.ch/eli/oc/1982/1287_1287_1287), [2089](https://fedlex.data.admin.ch/eli/oc/1982/2089_2089_2089); [1984 198](https://fedlex.data.admin.ch/eli/oc/1984/198_198_198); [1985 500](https://fedlex.data.admin.ch/eli/oc/1985/500_500_500); [1986 177](https://fedlex.data.admin.ch/eli/oc/1986/177_177_177); [1987 469](https://fedlex.data.admin.ch/eli/oc/1987/469_469_469); [1988 1748](https://fedlex.data.admin.ch/eli/oc/1988/1748_1748_1748); [1990 560](https://fedlex.data.admin.ch/eli/oc/1990/560_560_560), [1601](https://fedlex.data.admin.ch/eli/oc/1990/1601_1601_1601); [2004 2979](https://fedlex.data.admin.ch/eli/oc/2004/373); [2007 4391](https://fedlex.data.admin.ch/eli/oc/2007/598); [2011 4883](https://fedlex.data.admin.ch/eli/oc/2011/694); [2016 495](https://fedlex.data.admin.ch/eli/oc/2016/84); [2019 3111](https://fedlex.data.admin.ch/eli/oc/2019/572); [2020 4393](https://fedlex.data.admin.ch/eli/oc/2020/782); [2023 659](https://fedlex.data.admin.ch/eli/oc/2023/659). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty.
 
 Riserve e dichiarazioni
 
