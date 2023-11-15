@@ -3,20 +3,20 @@ canton: GL
 number: IV A/21/2
 title: Geschäftsreglement der Synode
 language: de
-version: 2021-06-03
-valid_until: 2023-11-15
-version_adopted: 2021-06-03
+version: 2023-11-16
+valid_until: 2024-06-05
+version_adopted: 2023-11-16
 adopted: 1995-11-09
 in_force: 1996-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-A.21.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2510/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2511/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Geschäftsreglement der Synode
 
-Vom 09.11.1995 (Stand 03.06.2021)
+Vom 09.11.1995 (Stand 16.11.2023)
 
 (Beschlossen an der Synode vom 9. November 1995)
 
@@ -97,6 +97,8 @@ Dient einander als gute Verwalter der vielfältigen Gnade Gottes, jedes mit der 
 <sup>3</sup> Das Büro versammelt sich auf Einladung des Präsidenten oder der Präsidentin. Ueber die Verhandlungen wird ein Kurzprotokoll erstellt[^7-1].
 
 <sup>4</sup> …
+
+<sup>5</sup> Das Büro der Synode bereitet die Wahlgeschäfte der Synode vor. Es kann den kantonalen Kirchenrat anhören, Fachpersonen beiziehen und Auskünfte von Dritten einholen.
 
 [^7-1]: Nachträgliche Publikation, da Beschluss nicht gemeldet wurde
 
