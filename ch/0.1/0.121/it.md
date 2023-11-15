@@ -3,11 +3,11 @@ sr: "0.121"
 title: "Trattato del 1<sup>o</sup> dicembre 1959 sull'Antartide"
 eli: "https://fedlex.data.admin.ch/eli/cc/1990/1925_1925_1925"
 language: it
-version: 2020-04-17
+version: 2023-11-16
 adopted: 1959-12-01
 in_force: 1990-11-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/1925_1925_1925/20200417/it/xml/fedlex-data-admin-ch-eli-cc-1990-1925_1925_1925-20200417-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1990/1925_1925_1925/20200417/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/1925_1925_1925/20231116/it/xml/fedlex-data-admin-ch-eli-cc-1990-1925_1925_1925-20231116-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1990/1925_1925_1925/20231116/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **1990** 1925, **1991** 87; FF **1989** III 253
 
 Traduzione
 
-Firmato a Washington il 1° dicembre 1959
+Firmato a Washington il 1° dicembre 1959 Approvato dall’Assemblea federale il 22 giugno 1990[^t-1] Istrumento di adesione depositato dalla Svizzera il 15 novembre 1990 Entrato in vigore per la Svizzera il 15 novembre 1990
 
-Approvato dall’Assemblea federale il 22 giugno 1990[^t-1]
-
-Istrumento di adesione depositato dalla Svizzera il 15 novembre 1990
-
-Entrato in vigore per la Svizzera il 15 novembre 1990
-
-(Stato 17 aprile 2020)
+(Stato 16 novembre 2023)
 
 [^t-1]: [RU 1990 1924](https://fedlex.data.admin.ch/eli/oc/1990/1924_1924_1924)
 
@@ -42,7 +36,7 @@ convinti che un Trattato inteso a riservare l’Antartide soltanto per attività
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. I
 
@@ -171,10 +165,10 @@ Il presente Trattato, redatto nelle lingue inglese, francese, russa e spagnola, 
 
 *In fede di che,* i plenipotenziari sottoscritti, debitamente autorizzati, hanno firmato il presente Trattato. Fatto a Washington il primo dicembre millenovecentocinquantanove. (Seguono le firme)
 
-Campo d’applicazione il 17 aprile 2020**[^t-2]**
+Campo d’applicazione il 16 novembre 2023[^t-2]
 
 <table>
-<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th colspan="2"></th></tr>
 <tr><td>Argentina <sup>a</sup></td><td>23 giugno</td><td>1961</td><td>23 giugno</td><td>1961</td></tr>
 <tr><td>Australia <sup>a</sup></td><td>23 giugno</td><td>1961</td><td>23 giugno</td><td>1961</td></tr>
 <tr><td>Austria</td><td>25 agosto</td><td>1987 A</td><td>25 agosto</td><td>1987</td></tr>
@@ -189,11 +183,12 @@ Campo d’applicazione il 17 aprile 2020**[^t-2]**
 <tr><td>Colombia</td><td>31 gennaio</td><td>1989 A</td><td>31 gennaio</td><td>1989</td></tr>
 <tr><td>Corea (Nord)</td><td>21 gennaio</td><td>1987 A</td><td>21 gennaio</td><td>1987</td></tr>
 <tr><td>Corea (Sud) <sup>a</sup></td><td>28 novembre</td><td>1986 A</td><td>28 novembre</td><td>1986</td></tr>
+<tr><td>Costa Rica</td><td>11 agosto</td><td>2022 A</td><td>11 agosto</td><td>2022</td></tr>
 <tr><td>Cuba</td><td>16 agosto</td><td>1984 A</td><td>16 agosto</td><td>1984</td></tr>
 <tr><td>Danimarca</td><td>20 maggio</td><td>1965 A</td><td>20 maggio</td><td>1965</td></tr>
 <tr><td>Ecuador <sup>a</sup></td><td>15 settembre</td><td>1987 A</td><td>15 settembre</td><td>1987</td></tr>
 <tr><td>Estonia</td><td>17 maggio</td><td>2001 A</td><td>17 maggio</td><td>2001</td></tr>
-<tr><td>Finlandia <sup>a</sup></td><td>5 maggio</td><td>1984 A</td><td>5 maggio</td><td>1984</td></tr>
+<tr><td>Finlandia <sup>a</sup></td><td>15 maggio</td><td>1984 A</td><td>15 maggio</td><td>1984</td></tr>
 <tr><td>Francia <sup>a</sup></td><td>16 settembre</td><td>1960</td><td>23 giugno</td><td>1961</td></tr>
 <tr><td>Germania <sup>a</sup></td><td>5 febbraio</td><td>1979 A</td><td>5 febbraio</td><td>1979</td></tr>
 <tr><td>Giappone <sup>a</sup></td><td>4 agosto</td><td>1960</td><td>23 giugno</td><td>1961</td></tr>
@@ -221,6 +216,7 @@ Campo d’applicazione il 17 aprile 2020**[^t-2]**
 <tr><td>Regno Unito <sup>a</sup></td><td>31 maggio</td><td>1960</td><td>23 giugno</td><td>1961</td></tr>
 <tr><td>Romania</td><td>15 settembre</td><td>1971 A</td><td>15 settembre</td><td>1971</td></tr>
 <tr><td>Russia <sup>a</sup></td><td>2 novembre</td><td>1960</td><td>23 giugno</td><td>1961</td></tr>
+<tr><td>San Marino</td><td>14 febbraio</td><td>2023 A</td><td>14 febbraio</td><td>2023</td></tr>
 <tr><td>Slovacchia</td><td>15 settembre</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
 <tr><td>Slovenia</td><td>22 aprile</td><td>2019 A</td><td>22 aprile</td><td>2019</td></tr>
 <tr><td>Spagna <sup>a</sup></td><td>31 marzo</td><td>1982 A</td><td>31 marzo</td><td>1982</td></tr>
@@ -236,4 +232,4 @@ Campo d’applicazione il 17 aprile 2020**[^t-2]**
 <tr><td colspan="6"><sup>a</sup> Membro consultivo secondo l’art. IX par. 2. <sup>b</sup> Membro consultivo dal 5 giu. 1998. <sup>c</sup> Membro consultivo dal 1° apr. 2014. <sup>d</sup> Membro consultivo dal 4 giu. 2004.</td></tr>
 </table>
 
-[^t-2]: [RU 2003 2399](https://fedlex.data.admin.ch/eli/oc/2003/345), [2009 1295](https://fedlex.data.admin.ch/eli/oc/2009/209), [2013 821](https://fedlex.data.admin.ch/eli/oc/2013/170), [2017 2833](https://fedlex.data.admin.ch/eli/oc/2017/294)e [2020 1465](https://fedlex.data.admin.ch/eli/oc/2020/282). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1990 1925](https://fedlex.data.admin.ch/eli/oc/1990/1925_1925_1925); [2003 2399](https://fedlex.data.admin.ch/eli/oc/2003/345); [2009 1295](https://fedlex.data.admin.ch/eli/oc/2009/209); [2013 821](https://fedlex.data.admin.ch/eli/oc/2013/170); [2017 2833](https://fedlex.data.admin.ch/eli/oc/2017/294); [2020 1465](https://fedlex.data.admin.ch/eli/oc/2020/282); [2023 656](https://fedlex.data.admin.ch/eli/oc/2023/656). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

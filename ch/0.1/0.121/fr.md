@@ -3,11 +3,11 @@ sr: "0.121"
 title: "Traité du 1<sup>er</sup> décembre 1959 sur l'Antarctique"
 eli: "https://fedlex.data.admin.ch/eli/cc/1990/1925_1925_1925"
 language: fr
-version: 2020-04-17
+version: 2023-11-16
 adopted: 1959-12-01
 in_force: 1990-11-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/1925_1925_1925/20200417/fr/xml/fedlex-data-admin-ch-eli-cc-1990-1925_1925_1925-20200417-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1990/1925_1925_1925/20200417/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/1925_1925_1925/20231116/fr/xml/fedlex-data-admin-ch-eli-cc-1990-1925_1925_1925-20231116-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1990/1925_1925_1925/20231116/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument d’adhésion déposé par la Suisse le 15 novembre 1990
 
 Entré en vigueur pour la Suisse le 15 novembre 1990
 
-(Etat le 17 avril 2020)
+(État le 16 novembre 2023)
 
 [^t-1]: [RO 1990 1924](https://fedlex.data.admin.ch/eli/oc/1990/1924_1924_1924)
 
@@ -42,7 +42,7 @@ persuadés qu’un Traité réservant l’Antarctique aux seules activités paci
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. I
 
@@ -171,7 +171,7 @@ Le présent Traité, rédigé dans les langues anglaise, française, russe et es
 
 *En foi* *de* quoi, les Plénipotentiaires soussignés, dûment autorisés, ont apposé leur signature au présent Traité. Fait à Washington, le premier décembre mille neuf cent cinquante-neuf. (Suivent les signatures)
 
-Champ d’application le 17 avril 2020**[^t-2]**
+Champ d’application le 16 novembre 2023[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -190,13 +190,14 @@ Champ d’application le 17 avril 2020**[^t-2]**
 <tr><td>Colombie</td><td>31 janvier</td><td>1989 A</td><td>31 janvier</td><td>1989</td></tr>
 <tr><td>Corée (Nord)</td><td>21 janvier</td><td>1987 A</td><td>21 janvier</td><td>1987</td></tr>
 <tr><td>Corée (Sud) <sup>a</sup></td><td>28 novembre</td><td>1986 A</td><td>28 novembre</td><td>1986</td></tr>
+<tr><td>Costa Rica</td><td>11 août</td><td>2022 A</td><td>11 août</td><td>2022</td></tr>
 <tr><td>Cuba</td><td>16 août</td><td>1984 A</td><td>16 août</td><td>1984</td></tr>
 <tr><td>Danemark</td><td>20 mai</td><td>1965 A</td><td>20 mai</td><td>1965</td></tr>
 <tr><td>Équateur <sup>a</sup></td><td>15 septembre</td><td>1987 A</td><td>15 septembre</td><td>1987</td></tr>
 <tr><td>Espagne <sup>a</sup></td><td>31 mars</td><td>1982 A</td><td>31 mars</td><td>1982</td></tr>
 <tr><td>Estonie</td><td>17 mai</td><td>2001 A</td><td>17 mai</td><td>2001</td></tr>
 <tr><td>États-Unis <sup>a</sup></td><td>18 août</td><td>1960</td><td>23 juin</td><td>1961</td></tr>
-<tr><td>Finlande <sup>a</sup></td><td>5 mai</td><td>1984 A</td><td>5 mai</td><td>1984</td></tr>
+<tr><td>Finlande <sup>a</sup></td><td>15 mai</td><td>1984 A</td><td>15 mai</td><td>1984</td></tr>
 <tr><td>France <sup>a</sup></td><td>16 septembre</td><td>1960</td><td>23 juin</td><td>1961</td></tr>
 <tr><td>Grèce</td><td>8 janvier</td><td>1987 A</td><td>8 janvier</td><td>1987</td></tr>
 <tr><td>Guatemala</td><td>31 juillet</td><td>1991 A</td><td>31 juillet</td><td>1991</td></tr>
@@ -225,6 +226,7 @@ Champ d’application le 17 avril 2020**[^t-2]**
 <tr><td>Roumanie</td><td>15 septembre</td><td>1971 A</td><td>15 septembre</td><td>1971</td></tr>
 <tr><td>Royaume-Uni <sup>a</sup></td><td>31 mai</td><td>1960</td><td>23 juin</td><td>1961</td></tr>
 <tr><td>Russie <sup>a</sup></td><td>2 novembre</td><td>1960</td><td>23 juin</td><td>1961</td></tr>
+<tr><td>Saint-Marin</td><td>14 février</td><td>2023 A</td><td>14 février</td><td>2023</td></tr>
 <tr><td>Slovaquie</td><td>15 septembre</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Slovénie</td><td>22 avril</td><td>2019 A</td><td>22 avril</td><td>2019</td></tr>
 <tr><td>Suède <sup>a</sup></td><td>24 avril</td><td>1984 A</td><td>24 avril</td><td>1984</td></tr>
@@ -236,4 +238,4 @@ Champ d’application le 17 avril 2020**[^t-2]**
 <tr><td colspan="5"><sup>a</sup> Membre consultatif selon art. IX, par. 2. <sup>b</sup> Membre consultatif depuis le 5 juin 1998. <sup>c</sup> Membre consultatif depuis le 1<sup>er</sup> avril 2014. <sup>d</sup> Membre consultatif depuis le 4 juin 2004.</td></tr>
 </table>
 
-[^t-2]: [RO 2003 2399](https://fedlex.data.admin.ch/eli/oc/2003/345), [2009 1295](https://fedlex.data.admin.ch/eli/oc/2009/209), [2013 821](https://fedlex.data.admin.ch/eli/oc/2013/170), [2017 2833](https://fedlex.data.admin.ch/eli/oc/2017/294), [2020 1465](https://fedlex.data.admin.ch/eli/oc/2020/282). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1990 1925](https://fedlex.data.admin.ch/eli/oc/1990/1925_1925_1925); [2003 2399](https://fedlex.data.admin.ch/eli/oc/2003/345); [2009 1295](https://fedlex.data.admin.ch/eli/oc/2009/209); [2013 821](https://fedlex.data.admin.ch/eli/oc/2013/170); [2017 2833](https://fedlex.data.admin.ch/eli/oc/2017/294); [2020 1465](https://fedlex.data.admin.ch/eli/oc/2020/282); [2023 656](https://fedlex.data.admin.ch/eli/oc/2023/656). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

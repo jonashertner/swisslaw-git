@@ -3,11 +3,11 @@ sr: "0.121"
 title: Antarktis-Vertrag vom 1. Dezember 1959
 eli: "https://fedlex.data.admin.ch/eli/cc/1990/1925_1925_1925"
 language: de
-version: 2020-04-17
+version: 2023-11-16
 adopted: 1959-12-01
 in_force: 1990-11-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/1925_1925_1925/20200417/de/xml/fedlex-data-admin-ch-eli-cc-1990-1925_1925_1925-20200417-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1990/1925_1925_1925/20200417/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/1925_1925_1925/20231116/de/xml/fedlex-data-admin-ch-eli-cc-1990-1925_1925_1925-20231116-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1990/1925_1925_1925/20231116/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1990** 1925, **1991** 87; BBl **1989** III 297
 
 Abgeschlossen in Washington am 1. Dezember 1959 Von der Bundesversammlung genehmigt am 22. Juni 1990[^t-1] Schweizerische Beitrittsurkunde hinterlegt am 15. November 1990 In Kraft getreten für die Schweiz am 15. November 1990
 
-(Stand am 17. April 2020)
+(Stand am 16. November 2023)
 
 [^t-1]: [AS 1990 1924](https://fedlex.data.admin.ch/eli/oc/1990/1924_1924_1924)
 
@@ -36,7 +36,7 @@ sowie in der Überzeugung, dass ein Vertrag, der die Nutzung der Antarktis für 
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. I
 
@@ -50,7 +50,9 @@ Die Freiheit der wissenschaftlichen Forschung in der Antarktis und die Zusammena
 
 #### Art. III
 
-<sup>(1)</sup> Um die in Artikel II vorgesehene internationale Zusammenarbeit bei der wissenschaftlichen Forschung in der Antarktis zu fördern, vereinbaren die Vertragsparteien, dass, soweit möglich und durchführbar,
+<sup>(1)</sup>
+
+Um die in Artikel II vorgesehene internationale Zusammenarbeit bei der wissenschaftlichen Forschung in der Antarktis zu fördern, vereinbaren die Vertragsparteien, dass, soweit möglich und durchführbar:
 
 - a) Informationen über Pläne für wissenschaftliche Programme in der Antarktis ausgetauscht werden, um ein Höchstmass an Wirtschaftlichkeit und Leistungsfähigkeit der Unternehmungen zu ermöglichen;
 - b) wissenschaftliches Personal in der Antarktis zwischen Expeditionen und Stationen ausgetauscht wird;
@@ -60,7 +62,9 @@ Die Freiheit der wissenschaftlichen Forschung in der Antarktis und die Zusammena
 
 #### Art. IV
 
-<sup>(1)</sup> Dieser Vertrag ist nicht so auszulegen,
+<sup>(1)</sup>
+
+Dieser Vertrag ist nicht so auszulegen:
 
 - a) als stellte er einen Verzicht einer Vertragspartei auf vorher geltend gemachte Rechte und Ansprüche auf Gebietshoheit in der Antarktis dar;
 - b) als stellte er einen vollständigen oder teilweisen Verzicht einer Vertragspartei auf die Grundlage eines Anspruchs auf Gebietshoheit in der Antarktis dar, die sich aus ihrer Tätigkeit oder derjenigen ihrer Staatsangehörigkeiten in der Antarktis oder auf andere Weise ergeben könnte;
@@ -88,7 +92,9 @@ Dieser Vertrag gilt für das Gebiet südlich von 60° südlicher Breite einschli
 
 <sup>(4)</sup> Jede der Vertragsparteien, die ein Recht auf Benennung von Beobachtern haben, kann jederzeit Luftbeobachtungen über einzelne oder allen Gebieten der Antarktis durchführen.
 
-<sup>(5)</sup> Jede Vertragspartei unterrichtet zu dem Zeitpunkt, zu dem dieser Vertrag für sie in Kraft tritt, und danach jeweils im voraus die anderen Vertragsparteien
+<sup>(5)</sup>
+
+Jede Vertragspartei unterrichtet zu dem Zeitpunkt, zu dem dieser Vertrag für sie in Kraft tritt, und danach jeweils im voraus die anderen Vertragsparteien:
 
 - a) über alle nach und innerhalb der Antarktis von ihren Schiffen oder Staatsangehörigen durchgeführten Expeditionen und alle in ihrem Hoheitsgebiet organisierten oder von dort aus durchgeführten Expeditionen nach der Antarktis;
 - b) über alle von ihren Staatsangehörigen besetzten Stationen in der Antarktis und
@@ -102,7 +108,9 @@ Dieser Vertrag gilt für das Gebiet südlich von 60° südlicher Breite einschli
 
 #### Art. IX
 
-<sup>(1)</sup> Vertreter der in der Präambel genannten Vertragsparteien halten binnen zwei Monaten nach Inkrafttreten dieses Vertrags in der Stadt Canberra und danach in angemessenen Abständen und an geeigneten Orten Tagungen ab, um Informationen auszutauschen, sich über Fragen von gemeinsamem Interesse im Zusammenhang mit der Antarktis zu konsultieren und Massnahmen auszuarbeiten, zu erörtern und ihren Regierungen zu empfehlen, durch welche die Grundsätze und Ziele des Vertrags gefördert werden, darunter Massnahmen
+<sup>(1)</sup>
+
+Vertreter der in der Präambel genannten Vertragsparteien halten binnen zwei Monaten nach Inkrafttreten dieses Vertrags in der Stadt Canberra und danach in angemessenen Abständen und an geeigneten Orten Tagungen ab, um Informationen auszutauschen, sich über Fragen von gemeinsamem Interesse im Zusammenhang mit der Antarktis zu konsultieren und Massnahmen auszuarbeiten, zu erörtern und ihren Regierungen zu empfehlen, durch welche die Grundsätze und Ziele des Vertrags gefördert werden, darunter Massnahmen:
 
 - a) zur Nutzung der Antarktis für ausschliesslich friedliche Zwecke;
 - b) zur Erleichterung der wissenschaftlichen Forschung in der Antarktis;
@@ -157,7 +165,7 @@ Dieser Vertrag, der in englischer, französischer, russischer und spanischer Spr
 
 *Zu Urkund* *dessen* haben die unterzeichneten, gehörig befugten Bevollmächtigten diesen Vertrag unterschrieben. Geschehen zu Washington am 1. Dezember 1959. (Es folgen die Unterschriften)
 
-Geltungsbereich am 17. April 2020**[^t-2]**
+Geltungsbereich am 16. November 2023[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -169,11 +177,12 @@ Geltungsbereich am 17. April 2020**[^t-2]**
 <tr><td>Bulgarien <sup>a</sup> <sup>b</sup></td><td>11. September</td><td>1978 B</td><td>11. September</td><td>1978</td></tr>
 <tr><td>Chile <sup>a</sup></td><td>23. Juni</td><td>1961</td><td>23. Juni</td><td>1961</td></tr>
 <tr><td>China <sup>a</sup></td><td>8. Juni</td><td>1983 B</td><td>8. Juni</td><td>1983</td></tr>
+<tr><td>Costa Rica</td><td>11. August</td><td>2022 B</td><td>11. August</td><td>2022</td></tr>
 <tr><td>Dänemark</td><td>20. Mai</td><td>1965 B</td><td>20. Mai</td><td>1965</td></tr>
 <tr><td>Deutschland <sup>a</sup></td><td>5. Februar</td><td>1979 B</td><td>5. Februar</td><td>1979</td></tr>
 <tr><td>Ecuador <sup>a</sup></td><td>15. September</td><td>1987 B</td><td>15. September</td><td>1987</td></tr>
 <tr><td>Estland</td><td>17. Mai</td><td>2001 B</td><td>17. Mai</td><td>2001</td></tr>
-<tr><td>Finnland <sup>a</sup></td><td>5. Mai</td><td>1984 B</td><td>5. Mai</td><td>1984</td></tr>
+<tr><td>Finnland <sup>a</sup></td><td>15. Mai</td><td>1984 B</td><td>15. Mai</td><td>1984</td></tr>
 <tr><td>Frankreich <sup>a</sup></td><td>16. September</td><td>1960</td><td>23. Juni</td><td>1961</td></tr>
 <tr><td>Griechenland</td><td>8. Januar</td><td>1987 B</td><td>8. Januar</td><td>1987</td></tr>
 <tr><td>Guatemala</td><td>31. Juli</td><td>1991 B</td><td>31. Juli</td><td>1991</td></tr>
@@ -205,6 +214,7 @@ Geltungsbereich am 17. April 2020**[^t-2]**
 <tr><td>Portugal</td><td>29. Januar</td><td>2010 B</td><td>29. Oktober</td><td>2010</td></tr>
 <tr><td>Rumänien</td><td>15. September</td><td>1971 B</td><td>15. September</td><td>1971</td></tr>
 <tr><td>Russland <sup>a</sup></td><td>2. November</td><td>1960</td><td>23. Juni</td><td>1961</td></tr>
+<tr><td>San Marino</td><td>14. Februar</td><td>2023 B</td><td>14. Februar</td><td>2023</td></tr>
 <tr><td>Schweden <sup>a</sup></td><td>24. April</td><td>1984 B</td><td>24. April</td><td>1984</td></tr>
 <tr><td>Schweiz</td><td>15. November</td><td>1990 B</td><td>15. November</td><td>1990</td></tr>
 <tr><td>Slowakei</td><td>15. September</td><td>1993 N</td><td>1. Januar</td><td>1993</td></tr>
@@ -222,4 +232,4 @@ Geltungsbereich am 17. April 2020**[^t-2]**
 <tr><td colspan="5"><sup>a</sup> Konsultativmitglied gemäss Artikel IX Absatz 2. <sup>b</sup> Konsultativmitglied seit dem 5. Juni 1998. <sup>c</sup> Konsultativmitglied seit dem 1. April 2014. <sup>d</sup> Konsultativmitglied seit dem 4. Juni 2004.</td></tr>
 </table>
 
-[^t-2]: AS 2**003** 2399, **2009** 1295, **2013** 821, **2017** 2833, **2020** 1465. Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1990 1925](https://fedlex.data.admin.ch/eli/oc/1990/1925_1925_1925); [2003 2399](https://fedlex.data.admin.ch/eli/oc/2003/345); [2009 1295](https://fedlex.data.admin.ch/eli/oc/2009/209); [2013 821](https://fedlex.data.admin.ch/eli/oc/2013/170); [2017 2833](https://fedlex.data.admin.ch/eli/oc/2017/294); [2020 1465](https://fedlex.data.admin.ch/eli/oc/2020/282); [2023 656](https://fedlex.data.admin.ch/eli/oc/2023/656). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
