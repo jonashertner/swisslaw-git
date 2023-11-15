@@ -3,11 +3,11 @@ sr: "0.814.03"
 title: Convention de Stockholm du 22 mai 2001 sur les polluants organiques persistants (Convention POP) (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/347"
 language: fr
-version: 2022-05-13
+version: 2023-11-16
 adopted: 2001-05-22
 in_force: 2004-05-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/347/20220513/fr/xml/fedlex-data-admin-ch-eli-cc-2004-347-20220513-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/347/20220513/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/347/20231116/fr/xml/fedlex-data-admin-ch-eli-cc-2004-347-20231116-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/347/20231116/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -28,7 +28,7 @@ Instrument de ratification déposé par la Suisse le 30 juillet 2003
 
 Entrée en vigueur pour la Suisse le 17 mai 2004
 
-(Etat le 13 mai 2022)
+(État le 16 novembre 2023)
 
 [^t-1]: [RO 2004 2795](https://fedlex.data.admin.ch/eli/oc/2004/346)
 
@@ -649,11 +649,11 @@ L’original de la présente Convention, dont les textes anglais, arabe, chinois
 
 *En foi de quoi,* les soussignés, à ce dûment habilités, ont signé la présente Convention. Fait à Stockholm, le vingt-deux mai deux mille un*.* (Suivent les signatures)
 
-Annexe A*[^t-2]*
+Annexe A[^t-2]
 
 ## Élimination
 
-[^t-2]: Nouvelle teneur selon les D n<sup>o</sup> SC-7/12, SC-7/13 et SC-7/14 de la Conférence des Parties adoptées le 15 mai 2015 ([RO 2017 725](https://fedlex.data.admin.ch/eli/oc/2017/139)). Mise à jour par les D n<sup>o</sup> SC-8/10, SC-8/11 et SC-8/12 de la Conférence des Parties adoptées le 5 mai 2017 ([RO 2019 603](https://fedlex.data.admin.ch/eli/oc/2019/103)), les D n° SC-9/4, SC-9/11 et SC-9/12 de la Conférence des Parties adoptées le 10 mai 2019, en vigueur pour la Suisse depuis le 3 déc. 2020 ([RO 2020 3961](https://fedlex.data.admin.ch/eli/oc/2020/734)).
+[^t-2]: Nouvelle teneur selon les D n<sup>o</sup> SC-7/12, SC-7/13 et SC-7/14 de la Conférence des Parties adoptées le 15 mai 2015 ([RO 2017 725](https://fedlex.data.admin.ch/eli/oc/2017/139)). Mise à jour par les D n<sup>o</sup> SC-8/10, SC-8/11 et SC-8/12 de la Conférence des Parties adoptées le 5 mai 2017 ([RO 2019 603](https://fedlex.data.admin.ch/eli/oc/2019/103)), les D n° SC-9/4, SC-9/11 et SC-9/12 de la Conférence des Parties adoptées le 10 mai 2019 ([RO 2020 3961](https://fedlex.data.admin.ch/eli/oc/2020/734)) et la D n<sup>o</sup> SC-10/13 de la Conférence des Parties adoptée le 17 juin 2022, en vigueur pour la Suisse depuis le 16 nov. 2023 ([RO 2024 113](https://fedlex.data.admin.ch/eli/oc/2024/113)).
 
 ### Partie I
 
@@ -709,6 +709,8 @@ Annexe A*[^t-2]*
 <tr><td></td><td>Utilisation</td><td>Néant</td></tr>
 <tr><td>Pentachlorophénol et ses sels et esters</td><td>Production</td><td>Telle qu’autorisée pour les Parties inscrites au Registre, conformément aux dispositions de la partie VIII de la présente Annexe</td></tr>
 <tr><td></td><td>Utilisation</td><td>Pentachlorophénol pour traiter les poteaux électriques et leurs traverses, conformément aux dispositions de la partie VIII de la présente Annexe</td></tr>
+<tr><td>Acide perfluorohexane sulfonique (PFHxS), ses sels et les composés apparentés On entend par «acide perfluorohexane sulfonique (PFHxS), ses sels et les composés apparentés»: i) L’acide perfluorohexane sulfonique (n<sup>o</sup> CAS: 355‑46‑4, PFHxS), y compris ses isomères ramifiés; ii) Ses sels; iii) Toute substance qui comporte le groupe fonctionnel C<sub>6</sub>F<sub>13</sub>SO<sub>2</sub>- parmi ses éléments structurels et est susceptible de se dégrader en PFHxS.</td><td>Production</td><td>Néant</td></tr>
+<tr><td></td><td>Utilisation</td><td>Néant</td></tr>
 <tr><td>Acide perfluorooctanoïque (APFO), ses sels et les composés apparentés On entend par «acide perfluorooctanoïque (APFO), ses sels et les composés apparentés»: i) L’acide perfluorooctanoïque (APFO; n<sup>o</sup> CAS 335-67-1) y compris ses isomères ramifiés; ii) Ses sels iii) Les composés apparentés à l’APFO qui, aux fins de la présente Convention, se définissent comme toute substance qui se dégrade en APFO, notamment les substances (y compris les sels et polymères) dont l’un des éléments structurels est un groupe perfluoroheptyle linéaire ou ramifié de formule (C<sub>7</sub>F<sub>15</sub>)C directement rattaché à un autre atome de carbone; Les composés ci-après n’en font pas partie: i) Composés de formule C<sub>8</sub>F<sub>17</sub>-X, où X= F, Cl, Br; ii) Fluoropolymères de formule CF<sub>3</sub>[CF<sub>2</sub>]n-R’, où R’ désigne un groupe quelconque, avec n&gt;16; iii) Acides perfluorocarboxyliques et acides phosphoniques (y compris leurs sels, esters, halogénures et anhydrides) avec au moins huit atomes de carbone perfluorés; iv) Acides perfluoroalcanes sulfoniques (y compris leurs sels, esters, halogénures et anhydrides) avec au moins neuf atomes de carbone perfluorés; v) Acide perfluorooctane sulfonique (SPFO), ses sels et le fluorure de perfluorooctane sulfonyle (FSPFO), qui figurent dans l’Annexe B de la Convention de Stockholm.</td><td>Production</td><td>Mousses anti-incendie: néant Autres productions: telles qu’autorisées pour les Parties inscrites au registre, conformément aux dispositions de la partie X de la présente Annexe</td></tr>
 <tr><td></td><td>Utilisation</td><td>Conformément aux dispositions de la partie X de la présente Annexe: Procédés de photolithographie ou de gravure Revêtements photographiques appliqués aux films Textiles hydrofuges ou oléofuges pour vêtements de protection contre les accidents du travail et les maladies professionnelles dus à des liquides dangereux Dispositifs médicaux invasifs et implantables</td></tr>
 <tr><td></td><td></td><td>Mousses anti-incendie pour la suppression des vapeurs de combustibles liquides et la lutte contre les incendies provoqués par des combustibles liquides (incendies de classe B) déjà présentes dans des systèmes installés, qu’ils soient mobiles ou fixes, conformément au par. 2 de la partie X de la présente Annexe Utilisation d’iodure de perfluorooctyle pour la production de bromure de perfluorooctyle en vue de la fabrication de produits pharmaceutiques, conformément aux dispositions du par. 3 de la partie X de la présente Annexe Production de polytétrafluoroéthylène (PTFE) et de fluorure de polyvinylidène (PVDF) pour la fabrication de: – Membranes haute performance anti-corrosion pour filtres à gaz, filtres à eau et textiles médicaux – Dispositifs industriels de récupération de chaleur résiduelle – Matériaux d’étanchéité capables de prévenir les fuites de composés organiques volatils et de particules fines PM 2,5 Production de polyfluoroéthylène-propylène pour la fabrication de fils et câbles électriques à haute tension pour la transmission de courant Production de fluoroélastomères pour la fabrication de joints toriques, de courroies trapézoïdales et d’accessoires en plastique pour l’intérieur des véhicules automobiles</td></tr>
@@ -867,7 +869,7 @@ Chaque Partie ayant fait enregistrer une dérogation conformément à l’art. 4
 
 <sup>3</sup> Concernant la dérogation spécifique relative à l’utilisation d’iodure de perfluorooctyle pour la production de bromure de perfluorooctyle en vue de la fabrication de produits pharmaceutiques, la Conférence des Parties évaluera, à sa treizième réunion ordinaire et, par la suite, lors d’une réunion ordinaire sur deux, la nécessité de maintenir cette dérogation spécifique. Celle-ci expirera en tout état de cause au plus tard en 2036.
 
-Annexe B*[^t-3]*
+Annexe B[^t-3]
 
 ## Restriction
 
@@ -963,7 +965,7 @@ Notes:
 - d) D’ici à la fin de l’année 2022, si la Partie le peut, limiter l’utilisation de mousses anti-incendie qui contiennent ou peuvent contenir de l’acide perfluorooctane sulfonique, de ses sels ou du fluorure de perfluorooctane sulfonyle aux sites permettant le confinement de tous les rejets;
 - e) S’employer résolument à parvenir dans les meilleurs délais à une gestion écologiquement rationnelle des stocks de mousses anti-incendie et des déchets qui contiennent ou peuvent contenir de l’acide perfluorooctane sulfonique, de ses sels ou du fluorure de perfluorooctane sulfonyle, conformément au par. 1 de l’art. 6.
 
-Annexe C*[^t-4]*
+Annexe C[^t-4]
 
 ## Production non intentionnelle
 
@@ -1188,7 +1190,7 @@ Une évaluation des éventuelles mesures de réglementation de substances chimiq
 - f. état des moyens de contrôle et de surveillance;
 - g. toute mesure nationale ou régionale de réglementation adoptée, y compris informations sur les solutions de remplacement et autres informations pertinentes sur la gestion des risques.
 
-Annexe G*[^t-5]*
+Annexe G[^t-5]
 
 ## Procédure d’arbitrage
 
@@ -1327,7 +1329,7 @@ En cas de désaccord au sujet de la compétence de la commission de conciliation
 
 Les frais de la commission sont supportés par les parties au différend dans des proportions dont elles conviennent. La commission tient un relevé de tous ses frais et en fournit un état final aux parties.
 
-Champ d’application le 13 mai 2022**[^t-6]**
+Champ d’application le 13 mai 2022[^t-6]
 
 <table>
 <tr><th colspan="2">États parties</th><th colspan="2">Ratification Adhésion (A)</th><th colspan="2"></th><th>Entrée en vigueur</th><th></th></tr>

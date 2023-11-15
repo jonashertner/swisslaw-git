@@ -3,11 +3,11 @@ sr: "0.814.03"
 title: Stockholmer Übereinkommen vom 22. Mai 2001 über persistente organische Schadstoffe (POP-Konvention) (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/347"
 language: de
-version: 2022-05-13
+version: 2023-11-16
 adopted: 2001-05-22
 in_force: 2004-05-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/347/20220513/de/xml/fedlex-data-admin-ch-eli-cc-2004-347-20220513-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/347/20220513/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/347/20231116/de/xml/fedlex-data-admin-ch-eli-cc-2004-347-20231116-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/347/20231116/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -28,7 +28,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 30. Juli 2003
 
 In Kraft getreten für die Schweiz am 17. Mai 2004
 
-(Stand am 13. Mai 2022)
+(Stand am 16. November 2023)
 
 [^t-1]: [AS 2004 2795](https://fedlex.data.admin.ch/eli/oc/2004/346)
 
@@ -90,7 +90,7 @@ Unter Berücksichtigung des Vorsorgeprinzips nach Grundsatz 15 der Erklärung vo
 
 **Begriffsbestimmungen**
 
-Im Sinne dieses Übereinkommens
+Im Sinne dieses Übereinkommens:
 
 - a. bedeutet «Vertragspartei» einen Staat oder eine Organisation der regionalen Wirtschaftsintegration, der/die zugestimmt hat, durch dieses Übereinkommen gebunden zu sein, und in dem/der das Übereinkommen in Kraft ist;
 - b. bedeutet «Organisation der regionalen Wirtschaftsintegration» eine von souveränen Staaten einer bestimmten Region gebildete Organisation, der ihre Mitgliedstaaten die Zuständigkeit für die durch dieses Übereinkommen erfassten Angelegenheiten übertragen haben und die im Einklang mit ihren internen Verfahren ordnungsgemäss ermächtigt ist, dieses Übereinkommen zu unterzeichnen, zu ratifizieren, anzunehmen, zu genehmigen oder ihm beizutreten;
@@ -100,26 +100,39 @@ Im Sinne dieses Übereinkommens
 
 **Massnahmen zur Verringerung oder Verhinderung von Freisetzungen aus beabsichtigter Produktion und Verwendung**
 
-<sup>1</sup> Jede Vertragspartei erwirkt
+<sup>1</sup>
 
-- a. ein Verbot und/oder die Ergreifung der notwendigen rechtlichen und Verwaltungsmassnahmen zur Einstellung
+Jede Vertragspartei erwirkt:
+
+- a.
+
+  ein Verbot und/oder die Ergreifung der notwendigen rechtlichen und Verwaltungsmassnahmen zur Einstellung:
+
   - i) der bei ihr erfolgenden Produktion und Verwendung der in Anlage A aufgenommenen Chemikalien vorbehaltlich der genannten Anlage und
-  - ii) der bei ihr erfolgenden Einfuhr und Ausfuhr der in Anlage A aufgenommenen Chemikalien nach Massgabe des Absatzes 2 und
+  - ii) der bei ihr erfolgenden Einfuhr und Ausfuhr der in Anlage A aufgenommenen Chemikalien nach Massgabe des Absatzes 2, und
 
 - b. eine Beschränkung der bei ihr erfolgenden Produktion und Verwendung der in Anlage B aufgenommenen Chemikalien vorbehaltlich der genannten Anlage.
 
-<sup>2</sup> Jede Vertragspartei ergreift Massnahmen, um zu gewährleisten,
+<sup>2</sup>
 
-- a. dass die Einfuhr einer in Anlage A oder Anlage B aufgenommenen Chemikalie ausschliesslich
-  - i) zum Zweck einer umweltgerechten Entsorgung nach Artikel 6 Absatz 1 Buchstabe d erfolgt oder
+Jede Vertragspartei ergreift Massnahmen, um zu gewährleisten:
+
+- a.
+
+  dass die Einfuhr einer in Anlage A oder Anlage B aufgenommenen Chemikalie ausschliesslich:
+
+  - i) zum Zweck einer umweltgerechten Entsorgung nach Artikel 6 Absatz 1 Buchstabe d erfolgt ,oder
   - ii) der Verwendung oder dem Zweck dient, die/der nach Anlage A oder B für diese Vertragspartei zugelassen ist;
 
-- b. dass die Ausfuhr einer in Anlage A aufgenommenen Chemikalie, für die eine produktions- oder verwendungsspezifische Ausnahmeregelung gilt, oder einer in Anlage B aufgenommenen Chemikalie, für die eine produktions- oder verwendungsspezifische Ausnahmeregelung oder ein akzeptabler Zweck gilt, unter Berücksichtigung etwaiger einschlägiger Bestimmungen in geltenden völkerrechtlichen, auf dem Verfahren der vorherigen Zustimmung nach Inkenntnissetzung beruhenden Übereinkünften ausschliesslich
-  - i) zum Zweck einer umweltgerechten Entsorgung nach Artikel 6 Absatz 1 Buchstabe d erfolgt;
+- b.
+
+  dass die Ausfuhr einer in Anlage A aufgenommenen Chemikalie, für die eine produktions- oder verwendungsspezifische Ausnahmeregelung gilt, oder einer in Anlage B aufgenommenen Chemikalie, für die eine produktions- oder verwendungsspezifische Ausnahmeregelung oder ein akzeptabler Zweck gilt, unter Berücksichtigung etwaiger einschlägiger Bestimmungen in geltenden völkerrechtlichen, auf dem Verfahren der vorherigen Zustimmung nach Inkenntnissetzung beruhenden Übereinkünften ausschliesslich:
+
+  - i) zum Zweck einer umweltgerechten Entsorgung nach Artikel 6 Absatz 1 Buchstabe d erfolgt,
   - ii) an eine Vertragspartei erfolgt, welche diese Chemikalie nach Anlage A oder B verwenden darf, oder
   - iii) an einen Staat, der nicht Vertragspartei dieses Übereinkommens ist, erfolgt, welcher der ausführenden Vertragspartei eine Jahresbescheinigung zur Verfügung gestellt hat. Diese Bescheinigung nennt die vorgesehene Verwendung der Chemikalie und enthält eine Erklärung, der zufolge der einführende Staat in Bezug auf diese Chemikalie verpflichtet ist,
-    - a. die menschliche Gesundheit und die Umwelt zu schützen, indem er die notwendigen Massnahmen ergreift, um Freisetzungen auf ein Mindestmass zu beschränken oder zu verhindern;
-    - b. Artikel 6 Absatz 1 einzuhalten und
+    - a. die menschliche Gesundheit und die Umwelt zu schützen, indem er die notwendigen Massnahmen ergreift, um Freisetzungen auf ein Mindestmass zu beschränken oder zu verhindern,
+    - b. Artikel 6 Absatz 1 einzuhalten, und
     - c. gegebenenfalls Anlage B Teil II Absatz 2 einzuhalten;
 
   - die Bescheinigung enthält auch geeignete unterstützende Unterlagen, zum Beispiel Gesetze, Rechtsvorschriften oder Verwaltungs- und Handlungsrichtlinien. Die ausführende Vertragspartei übermittelt die Bescheinigung spätestens sechzig Tage nach Eingang an das Sekretariat;
@@ -141,10 +154,12 @@ Im Sinne dieses Übereinkommens
 
 <sup>1</sup> Hiermit wird ein Register zu dem Zweck eingerichtet, diejenigen Vertragsparteien zu benennen, für welche spezifische Ausnahmeregelungen gelten, die in Anlage A oder Anlage B aufgenommen sind. Hierin nicht benannt werden Vertragsparteien, die von den Bestimmungen in Anlage A oder Anlage B Gebrauch machen, welche von allen Vertragsparteien in Anspruch genommen werden können. Das Register wird vom Sekretariat geführt und ist für die Öffentlichkeit verfügbar.
 
-<sup>2</sup> Das Register umfasst
+<sup>2</sup>
+
+Das Register umfasst:
 
 - a. eine den Anlagen A und B entnommene Aufstellung der Arten spezifischer Ausnahmeregelungen;
-- b. eine Aufstellung der Vertragsparteien, für die eine in Anlage A oder Anlage B aufgenommene Ausnahmeregelung gilt, und
+- b. eine Aufstellung der Vertragsparteien, für die eine in Anlage A oder Anlage B aufgenommene Ausnahmeregelung gilt; und
 - c. eine Aufstellung der für jede registrierte spezifische Ausnahmeregelung geltenden Ablauftermine.
 
 <sup>3</sup> Jeder Staat kann sich, wenn er Vertragspartei wird, durch schriftliche Notifikation an das Sekretariat für eine oder mehrere Arten spezifischer Ausnahmeregelungen, die in Anlage A oder Anlage B aufgenommen sind, registrieren lassen.
@@ -171,11 +186,11 @@ Jede Vertragspartei ergreift zumindest die folgenden Massnahmen zur Verringerung
 
   Erarbeitung eines Aktionsplans oder gegebenenfalls eines regionalen oder subregionalen Aktionsplans spätestens zwei Jahre nach Inkrafttreten dieses Übereinkommens für diese Vertragspartei sowie dessen anschliessende Durchführung im Rahmen ihres in Artikel 7 bezeichneten Durchführungsplans, mit dem die Freisetzung der in Anlage C aufgenommenen Chemikalien angegeben, beschrieben und behandelt sowie die Durchführung der Buchstaben b bis e erleichtert werden sollen. Der Aktionsplan umfasst folgende Elemente:
 
-  - i) eine Bewertung derzeitiger und hochgerechneter Freisetzungen, einschliesslich der Erarbeitung und Pflege von Quellverzeichnissen und Emissionsschätzungen, unter Berücksichtigung der in Anlage C angegebenen Quellkategorien;
-  - ii) eine Bewertung der Wirksamkeit der Rechtsvorschriften und Grundsätze der Vertragspartei in Bezug auf die Regelung dieser Freisetzungen;
-  - iii) Strategien zur Erfüllung der in diesem Absatz enthaltenen Verpflichtungen unter Berücksichtigung der Bewertungen nach den Ziffern i und ii;
-  - iv) Schritte zur Förderung von Ausbildungs- und Schulungsmassnahmen in Bezug auf diese Strategien und Aufklärung über sie;
-  - v) eine alle fünf Jahre erfolgende Überprüfung dieser Strategien und ihres Erfolgs bei der Erfüllung der Verpflichtungen aus diesem Absatz; derartige Überprüfungen sind in die nach Artikel 15 vorzulegenden Berichte einzubeziehen;
+  - i) eine Bewertung derzeitiger und hochgerechneter Freisetzungen, einschliesslich der Erarbeitung und Pflege von Quellverzeichnissen und Emissionsschätzungen, unter Berücksichtigung der in Anlage C angegebenen Quellkategorien,
+  - ii) eine Bewertung der Wirksamkeit der Rechtsvorschriften und Grundsätze der Vertragspartei in Bezug auf die Regelung dieser Freisetzungen,
+  - iii) Strategien zur Erfüllung der in diesem Absatz enthaltenen Verpflichtungen unter Berücksichtigung der Bewertungen nach den Ziffern i und ii,
+  - iv) Schritte zur Förderung von Ausbildungs- und Schulungsmassnahmen in Bezug auf diese Strategien und Aufklärung über sie,
+  - v) eine alle fünf Jahre erfolgende Überprüfung dieser Strategien und ihres Erfolgs bei der Erfüllung der Verpflichtungen aus diesem Absatz; derartige Überprüfungen sind in die nach Artikel 15 vorzulegenden Berichte einzubeziehen,
   - vi) einen Zeitplan für die Durchführung des Aktionsplans und für die darin genannten Strategien und Massnahmen;
 
 - b. Förderung der Anwendung verfügbarer, durchführbarer und zweckmässiger Massnahmen, mit denen sich ein realistisches und sinnvolles Mass an Freisetzungsverringerung oder Quellenbeseitigung zügig erreichen lässt;
@@ -189,14 +204,20 @@ Jede Vertragspartei ergreift zumindest die folgenden Massnahmen zur Verringerung
   - ii) für neue Quellen innerhalb von Quellkategorien, wie sie in Anlage C Teil III beispielhaft genannt sind, die eine Vertragspartei nicht unter Buchstabe d behandelt hat.
 
 - Bei der Anwendung der besten verfügbaren Techniken und der besten Umweltschutzpraktiken sollen die Vertragsparteien die allgemeinen Leitlinien über Massnahmen zur Verhinderung und Verringerung von Freisetzungen in Anlage C sowie die Richtlinien zu den besten verfügbaren Techniken und besten Umweltschutzpraktiken, die durch die Konferenz der Vertragsparteien zu beschliessen sind, berücksichtigen;
-- f. im Sinne dieses Absatzes und der Anlage C
-  - i) bedeutet «beste verfügbare Techniken» die wirksamste und am weitesten fortgeschrittene Stufe der Entwicklung von Tätigkeiten und entsprechenden Verfahren, welche die praktische Eignung bestimmter Techniken für eine grundsätzliche Schaffung der Grundlage für Freisetzungsbegrenzungen anzeigen, mit denen die Freisetzung von Chemikalien, die in Anlage C Teil I aufgenommen sind, sowie deren Auswirkungen auf die Umwelt als Ganzes verhindert oder, wo dies nicht praktikabel ist, allgemein verringert werden sollen. In dieser Hinsicht
-  - ii) umfasst «Techniken» sowohl die eingesetzte Technologie als auch die Art und Weise, in der die Anlage geplant, gebaut, instand gehalten, betrieben und ausser Betrieb genommen wird;
-  - iii) bedeutet «verfügbare» Techniken diejenigen Techniken, auf die der Betreiber zugreifen kann und die in einem Massstab entwickelt wurden, der ihre Realisierung in dem betreffenden Industriesektor unter wirtschaftlich und technisch tragfähigen Bedingungen bei Berücksichtigung der Kosten und Vorteile gestattet;
-  - iv) bedeutet «beste» am wirksamsten im Hinblick auf die Erreichung eines hohen allgemeinen Schutzniveaus der Umwelt als Ganzes;
-  - v) bedeutet «beste Umweltschutzpraktiken» die Anwendung der geeignetsten Kombination aus Kontrollmassnahmen und Strategien zum Schutz der Umwelt;
-  - vi) bedeutet «neue Quelle» jede Quelle, deren Bau oder wesentliche Veränderung frühestens ein Jahr nach dem Tag begonnen wird, an dem
-    - a. dieses Übereinkommen für die betreffende Vertragspartei in Kraft tritt oder
+- f.
+
+  im Sinne dieses Absatzes und der Anlage C:
+
+  - i) bedeutet «beste verfügbare Techniken» die wirksamste und am weitesten fortgeschrittene Stufe der Entwicklung von Tätigkeiten und entsprechenden Verfahren, welche die praktische Eignung bestimmter Techniken für eine grundsätzliche Schaffung der Grundlage für Freisetzungsbegrenzungen anzeigen, mit denen die Freisetzung von Chemikalien, die in Anlage C Teil I aufgenommen sind, sowie deren Auswirkungen auf die Umwelt als Ganzes verhindert oder, wo dies nicht praktikabel ist, allgemein verringert werden sollen. In dieser Hinsicht,
+  - ii) umfasst «Techniken» sowohl die eingesetzte Technologie als auch die Art und Weise, in der die Anlage geplant, gebaut, instand gehalten, betrieben und ausser Betrieb genommen wird,
+  - iii) bedeutet «verfügbare» Techniken diejenigen Techniken, auf die der Betreiber zugreifen kann und die in einem Massstab entwickelt wurden, der ihre Realisierung in dem betreffenden Industriesektor unter wirtschaftlich und technisch tragfähigen Bedingungen bei Berücksichtigung der Kosten und Vorteile gestattet,
+  - iv) bedeutet «beste» am wirksamsten im Hinblick auf die Erreichung eines hohen allgemeinen Schutzniveaus der Umwelt als Ganzes,
+  - v) bedeutet «beste Umweltschutzpraktiken» die Anwendung der geeignetsten Kombination aus Kontrollmassnahmen und Strategien zum Schutz der Umwelt,
+  - vi)
+
+    bedeutet «neue Quelle» jede Quelle, deren Bau oder wesentliche Veränderung frühestens ein Jahr nach dem Tag begonnen wird, an dem:
+
+    - a. dieses Übereinkommen für die betreffende Vertragspartei in Kraft tritt, oder
     - b. eine Änderung der Anlage C für die betreffende Vertragspartei in Kraft tritt, wobei die Quelle erst aufgrund dieser Änderung unter dieses Übereinkommen fällt;
 
 - g. Emissionsgrenzwerte oder Leistungsvorgaben können von einer Vertragspartei zur Erfüllung ihrer Verpflichtungen in Bezug auf beste verfügbare Techniken nach diesem Absatz herangezogen werden.
@@ -209,24 +230,32 @@ Jede Vertragspartei ergreift zumindest die folgenden Massnahmen zur Verringerung
 
 Um zu gewährleisten, dass Lagerbestände, die aus in Anlage A oder Anlage B aufgenommenen Chemikalien bestehen oder diese enthalten, sowie Abfälle, die aus einer in Anlage A, B oder C aufgenommenen Chemikalie bestehen, diese enthalten oder mit dieser verunreinigt sind – darunter auch Produkte und Artikel, wenn diese zu derartigen Abfällen werden –, so behandelt werden, dass die menschliche Gesundheit und die Umwelt geschützt werden, verpflichtet sich jede Vertragspartei zu Folgendem:
 
-- a. Entwicklung geeigneter Strategien zur Feststellung von
+- a.
+
+  Entwicklung geeigneter Strategien zur Feststellung von:
+
   - i) Lagerbeständen, die aus in Anlage A oder Anlage B aufgenommenen Chemikalien bestehen oder diese enthalten, und
   - ii) in Gebrauch befindlichen Produkten und Artikeln sowie Abfällen, die aus einer in Anlage A, Anlage B oder Anlage C aufgenommenen Chemikalie bestehen, diese enthalten oder mit dieser verunreinigt sind;
 
 - b. soweit durchführbar Feststellung von Lagerbeständen, die aus in Anlage A oder Anlage B aufgenommenen Chemikalien bestehen oder diese enthalten, und zwar auf der Grundlage der unter Buchstabe a genannten Strategien;
 - c. soweit angebracht eine sichere, effiziente und umweltgerechte Behandlung von Lagerbeständen. Lagerbestände von in Anlage A oder Anlage B aufgenommenen Chemikalien gelten, nachdem ihre Verwendung aufgrund einer spezifischen Ausnahmeregelung nach Anlage A oder aufgrund einer spezifischen Ausnahmeregelung oder eines akzeptablen Zwecks nach Anlage B nicht mehr gestattet ist – wovon jedoch Lagerbestände ausgenommen sind, deren Ausfuhr nach Artikel 3 Absatz 2 gestattet ist –, als Abfall und sind nach Buchstabe d zu behandeln;
-- d. Ergreifung geeigneter Massnahmen, damit derartige Abfälle – darunter auch Produkte und Artikel, wenn diese zu derartigen Abfällen werden –
-  - i) umweltgerecht gehandhabt, gesammelt, befördert und gelagert werden;
-  - ii) so entsorgt werden, dass die darin enthaltenen persistenten organischen Schadstoffe zerstört oder unumkehrbar umgewandelt werden, so dass sie nicht mehr die Eigenschaften persistenter organischer Schadstoffe aufweisen, oder auf andere Weise umweltgerecht entsorgt werden, wenn ihre Zerstörung oder unumkehrbare Umwandlung nicht die unter Umweltgesichtspunkten vorzuziehende Möglichkeit darstellt oder ihr Gehalt an persistenten organischen Schadstoffen niedrig ist, wobei internationale Regeln, Normen und Richtlinien, auch solche, die nach Absatz 2 gegebenenfalls erarbeitet werden, sowie einschlägige weltweite und regionale Regelungen zur Behandlung gefährlicher Abfälle zu berücksichtigen sind;
+- d.
+
+  Ergreifung geeigneter Massnahmen, damit derartige Abfälle – darunter auch Produkte und Artikel, wenn diese zu derartigen Abfällen werden –:
+
+  - i) umweltgerecht gehandhabt, gesammelt, befördert und gelagert werden,
+  - ii) so entsorgt werden, dass die darin enthaltenen persistenten organischen Schadstoffe zerstört oder unumkehrbar umgewandelt werden, so dass sie nicht mehr die Eigenschaften persistenter organischer Schadstoffe aufweisen, oder auf andere Weise umweltgerecht entsorgt werden, wenn ihre Zerstörung oder unumkehrbare Umwandlung nicht die unter Umweltgesichtspunkten vorzuziehende Möglichkeit darstellt oder ihr Gehalt an persistenten organischen Schadstoffen niedrig ist, wobei internationale Regeln, Normen und Richtlinien, auch solche, die nach Absatz 2 gegebenenfalls erarbeitet werden, sowie einschlägige weltweite und regionale Regelungen zur Behandlung gefährlicher Abfälle zu berücksichtigen sind,
   - iii) nicht für ein Entsorgungsverfahren zugelassen werden, das zur Wiedergewinnung, Verwertung, Rückgewinnung, unmittelbaren Wiederverwendung oder anderen Möglichkeiten der Weiterverwendung persistenter organischer Schadstoffe führen kann, und
   - iv) nicht ohne Berücksichtigung einschlägiger internationaler Regeln, Normen und Richtlinien über Staatsgrenzen hinweg befördert werden;
 
 - e. Bemühungen zur Erarbeitung geeigneter Strategien zur Feststellung von Flächen, die durch in Anlage A, B oder C aufgenommene Chemikalien verunreinigt sind; wird eine Sanierung dieser Standorte durchgeführt, so hat sie in einer umweltgerechten Weise zu erfolgen.
 
-<sup>2</sup> Die Konferenz der Vertragsparteien arbeitet eng mit den zuständigen Organen des Basler Übereinkommens über die Kontrolle der grenzüberschreitenden Verbringung gefährlicher Abfälle und ihrer Entsorgung zusammen, um unter anderem
+<sup>2</sup>
+
+Die Konferenz der Vertragsparteien arbeitet eng mit den zuständigen Organen des Basler Übereinkommens über die Kontrolle der grenzüberschreitenden Verbringung gefährlicher Abfälle und ihrer Entsorgung zusammen, um unter anderem:
 
 - a. Grade der Zerstörung und unumkehrbaren Umwandlung festzulegen, die notwendig sind, um sicherzustellen, dass die Eigenschaften persistenter organischer Schadstoffe nach Anlage D Absatz 1 nicht auftreten;
-- b. die Methoden festzulegen, die nach ihrer Auffassung die genannte umweltgerechte Entsorgung darstellen, und
+- b. die Methoden festzulegen, die nach ihrer Auffassung die genannte umweltgerechte Entsorgung darstellen; und
 - c. soweit angebracht, an der Festlegung der Konzentrationen der in die Anlagen A, B und C aufgenommenen Chemikalien zu arbeiten, um den in Absatz 1 Buchstabe d Ziffer ii genannten niedrigen Gehalt an persistenten organischen Schadstoffen festzusetzen.
 
 #### Art. 7
@@ -238,7 +267,7 @@ Um zu gewährleisten, dass Lagerbestände, die aus in Anlage A oder Anlage B auf
 Jede Vertragspartei:
 
 - a. erarbeitet einen Plan für die Erfüllung ihrer Verpflichtungen aus diesem Übereinkommen und bemüht sich um dessen Durchführung;
-- b. übermittelt ihren Durchführungsplan innerhalb von zwei Jahren, nachdem dieses Übereinkommen für diese Vertragspartei in Kraft getreten ist, der Konferenz der Vertragsparteien und
+- b. übermittelt ihren Durchführungsplan innerhalb von zwei Jahren, nachdem dieses Übereinkommen für diese Vertragspartei in Kraft getreten ist, der Konferenz der Vertragsparteien; und
 - c. überprüft ihren Durchführungsplan in regelmässigen Abständen in einer von der Konferenz der Vertragsparteien festzulegenden Art und Weise und bringt ihn gegebenenfalls auf den neuesten Stand.
 
 <sup>2</sup> Die Vertragsparteien arbeiten gegebenenfalls unmittelbar oder über weltweite, regionale und subregionale Organisationen zusammen und konsultieren ihre nationalen Interessengruppen, darunter Frauengruppen sowie mit der Gesundheit von Kindern befasste Gruppen, um die Erarbeitung, Verwirklichung und Aktualisierung ihrer Durchführungspläne zu erleichtern.
@@ -255,9 +284,11 @@ Jede Vertragspartei:
 
 <sup>3</sup> Der Ausschuss prüft den Vorschlag und wendet die in Anlage D aufgeführten Prüfkriterien auf flexible und transparente Art und Weise und unter integrativer und ausgewogener Berücksichtigung aller bereitgestellten Informationen an.
 
-<sup>4</sup> Hat sich der Ausschuss davon überzeugt,
+<sup>4</sup>
 
-- a. dass die Prüfkriterien erfüllt wurden, so stellt er den Vorschlag und die Bewertung des Ausschusses allen Vertragsparteien und Beobachtern über das Sekretariat zur Verfügung und fordert sie zur Vorlage der in Anlage E angegebenen Informationen auf, oder
+Hat sich der Ausschuss davon überzeugt:
+
+- a. dass die Prüfkriterien erfüllt wurden, so stellt er den Vorschlag und die Bewertung des Ausschusses allen Vertragsparteien und Beobachtern über das Sekretariat zur Verfügung und fordert sie zur Vorlage der in Anlage E angegebenen Informationen auf; oder
 - b. dass die Prüfkriterien nicht erfüllt wurden, so unterrichtet er alle Vertragsparteien und Beobachter über das Sekretariat und stellt den Vorschlag und die Bewertung des Ausschusses allen Vertragsparteien zur Verfügung; der Vorschlag wird zurückgestellt.
 
 <sup>5</sup> Jede Vertragspartei kann einen vom Ausschuss nach Absatz 4 zurückgestellten Vorschlag dem Ausschuss wieder vorlegen. Im Rahmen dieser Wiedervorlage können etwaige Belange der Vertragspartei sowie eine Begründung für eine weitere Prüfung durch den Ausschuss vorgebracht werden. Stellt der Ausschuss im Anschluss an dieses Verfahren den Vorschlag erneut zurück, so kann die Vertragspartei die Entscheidung des Ausschusses anfechten, woraufhin die Konferenz der Vertragsparteien die Angelegenheit auf ihrer nächsten Tagung prüft. Die Konferenz der Vertragsparteien kann auf der Grundlage der Prüfkriterien in Anlage D und unter Berücksichtigung der Bewertung des Ausschusses sowie etwaiger zusätzlicher, seitens einer Vertragspartei oder eines Beobachters bereitgestellter Informationen beschliessen, dass der Vorschlag weiter behandelt werden soll.
@@ -268,7 +299,7 @@ Jede Vertragspartei:
 
 Beschliesst der Ausschuss auf der Grundlage des nach Anlage E erarbeiteten Risikoprofils:
 
-- a. dass die Chemikalie infolge ihres weiträumigen Transports in der Umwelt wahrscheinlich zu erheblichen schädlichen Auswirkungen auf die menschliche Gesundheit und/oder Umwelt führt, so dass weltweite Massnahmen erforderlich sind, so wird der Vorschlag weiter behandelt. Das Fehlen einer vollständigen wissenschaftlichen Sicherheit verhindert nicht die weitere Behandlung des Vorschlags. Der Ausschuss fordert über das Sekretariat von allen Vertragsparteien und Beobachtern Informationen zu den in Anlage F aufgeführten Überlegungen an. Daraufhin erstellt er eine Bewertung zum Risikomanagement, die eine Analyse möglicher Kontrollmassnahmen für die Chemikalie nach Massgabe der genannten Anlage enthält, oder
+- a. dass die Chemikalie infolge ihres weiträumigen Transports in der Umwelt wahrscheinlich zu erheblichen schädlichen Auswirkungen auf die menschliche Gesundheit und/oder Umwelt führt, so dass weltweite Massnahmen erforderlich sind, so wird der Vorschlag weiter behandelt. Das Fehlen einer vollständigen wissenschaftlichen Sicherheit verhindert nicht die weitere Behandlung des Vorschlags. Der Ausschuss fordert über das Sekretariat von allen Vertragsparteien und Beobachtern Informationen zu den in Anlage F aufgeführten Überlegungen an. Daraufhin erstellt er eine Bewertung zum Risikomanagement, die eine Analyse möglicher Kontrollmassnahmen für die Chemikalie nach Massgabe der genannten Anlage enthält; oder
 - b. dass der Vorschlag nicht weiter behandelt werden soll, so stellt er über das Sekretariat das Risikoprofil allen Vertragsparteien und Beobachtern zur Verfügung und stellt den Vorschlag zurück.
 
 <sup>8</sup> Bei jedem nach Absatz 7 Buchstabe b zurückgestellten Vorschlag kann eine Vertragspartei die Konferenz der Vertragsparteien ersuchen, den Erlass einer Anweisung an den Ausschuss zu prüfen, der zufolge von der vorschlagenden Vertragspartei und von anderen Vertragsparteien während eines Zeitraums von höchstens einem Jahr zusätzliche Informationen anzufordern sind. Nach Ablauf dieses Zeitraums und auf der Grundlage gegebenenfalls erhaltener Informationen prüft der Ausschuss den Vorschlag nach Absatz 6 mit der von der Konferenz der Vertragsparteien zu beschliessenden Vorrangigkeit erneut. Stellt der Ausschuss im Anschluss an dieses Verfahren den Vorschlag erneut zurück, so kann die Vertragspartei die Entscheidung des Ausschusses anfechten, woraufhin die Konferenz der Vertragsparteien die Angelegenheit auf ihrer nächsten Tagung prüft. Die Konferenz der Vertragsparteien kann auf der Grundlage des nach Anlage E erarbeiteten Risikoprofils und unter Berücksichtigung der Bewertung des Ausschusses sowie etwaiger zusätzlicher Informationen seitens einer Vertragspartei oder eines Beobachters beschliessen, dass der Vorschlag weiter behandelt werden soll. Beschliesst die Konferenz der Vertragsparteien, dass der Vorschlag weiter zu behandeln ist, so erstellt der Ausschuss daraufhin die Bewertung des Risikomanagements.
@@ -279,9 +310,11 @@ Beschliesst der Ausschuss auf der Grundlage des nach Anlage E erarbeiteten Risik
 
 **Informationsaustausch**
 
-<sup>1</sup> Jede Vertragspartei erleichtert oder übernimmt den Austausch von Informationen, die massgeblich sind
+<sup>1</sup>
 
-- a für die Verringerung oder Verhinderung der Produktion, Verwendung und Freisetzung persistenter organischer Schadstoffe und
+Jede Vertragspartei erleichtert oder übernimmt den Austausch von Informationen, die massgeblich sind:
+
+- a für die Verringerung oder Verhinderung der Produktion, Verwendung und Freisetzung persistenter organischer Schadstoffe; und
 - b. für Alternativen zu persistenten organischen Schadstoffen, einschliesslich Informationen über deren Risiken sowie deren wirtschaftliche und soziale Kosten.
 
 <sup>2</sup> Die Vertragsparteien tauschen die in Absatz 1 genannten Informationen unmittelbar oder über das Sekretariat aus.
@@ -296,7 +329,9 @@ Beschliesst der Ausschuss auf der Grundlage des nach Anlage E erarbeiteten Risik
 
 **Informationen, Bewusstseinsbildung und Aufklärung**
 
-<sup>1</sup> Jede Vertragspartei fördert und erleichtert im Rahmen ihrer Möglichkeiten
+<sup>1</sup>
+
+Jede Vertragspartei fördert und erleichtert im Rahmen ihrer Möglichkeiten:
 
 - a. die Bewusstseinsbildung unter ihren politisch Verantwortlichen und Entscheidungsträgern in Bezug auf persistente organische Schadstoffe;
 - b. die Bereitstellung aller verfügbaren Informationen über persistente organische Schadstoffe für die Öffentlichkeit unter Berücksichtigung des Artikels 9 Absatz 5;
@@ -318,23 +353,27 @@ Beschliesst der Ausschuss auf der Grundlage des nach Anlage E erarbeiteten Risik
 
 **Forschung, Entwicklung und Überwachung**
 
-<sup>1</sup> Die Vertragsparteien fördern und/oder übernehmen im Rahmen ihrer Möglichkeiten auf nationaler und internationaler Ebene eine geeignete Forschung, Entwicklung, Überwachung und Zusammenarbeit in Bezug auf persistente organische Schadstoffe und gegebenenfalls deren Alternativen sowie potentielle persistente organische Schadstoffe, auch hinsichtlich
+<sup>1</sup>
+
+Die Vertragsparteien fördern und/oder übernehmen im Rahmen ihrer Möglichkeiten auf nationaler und internationaler Ebene eine geeignete Forschung, Entwicklung, Überwachung und Zusammenarbeit in Bezug auf persistente organische Schadstoffe und gegebenenfalls deren Alternativen sowie potentielle persistente organische Schadstoffe, auch hinsichtlich:
 
 - a. Quellen und Freisetzungen in die Umwelt;
 - b. Vorhandensein, Konzentration und Entwicklung der Konzentration im Menschen und in der Umwelt;
 - c. Transport, Verhalten und Umwandlung in der Umwelt;
 - d. Auswirkungen auf die menschliche Gesundheit und die Umwelt;
 - e. sozioökonomischer und kultureller Auswirkungen;
-- f. Verringerung und/oder Verhinderung ihrer Freisetzung und
+- f. Verringerung und/oder Verhinderung ihrer Freisetzung; und
 - g. harmonisierter Methoden zur Bestandserfassung von Quellen, bei denen persistente organische Schadstoffe entstehen, und Analysemethoden für die Messung von Freisetzungen.
 
-<sup>2</sup> Bei der Durchführung der Massnahmen nach Absatz 1 sind die Vertragsparteien im Rahmen ihrer Möglichkeiten verpflichtet,
+<sup>2</sup>
+
+Bei der Durchführung der Massnahmen nach Absatz 1 sind die Vertragsparteien im Rahmen ihrer Möglichkeiten verpflichtet:
 
 - a. internationale Programme, Netzwerke und Organisationen, deren Ziel die Festlegung, Durchführung, Einschätzung und Finanzierung von Forschung, Datenerfassung und Überwachung ist, unter Berücksichtigung der Notwendigkeit, Doppelarbeit auf ein Mindestmass zu beschränken, zu unterstützen beziehungsweise weiterzuentwickeln;
 - b. nationale und internationale Bemühungen zur Stärkung nationaler wissenschaftlicher und technischer Forschungsmöglichkeiten zu unterstützen, insbesondere in Entwicklungsländern und in Ländern mit im Übergang befindlichen Wirtschaftssystemen, und den Zugang zu Daten und Analysen sowie deren Austausch zu fördern;
 - c. die Belange und Bedürfnisse von Entwicklungsländern sowie Ländern mit im Übergang befindlichen Wirtschaftssystemen, insbesondere im Bereich finanzieller und technischer Mittel, zu berücksichtigen und bei der Verbesserung ihrer Möglichkeiten zur Beteiligung an den unter den Buchstaben a und b genannten Bemühungen zusammenzuarbeiten;
 - d. Forschungsarbeiten durchzuführen, die auf die Minderung der Auswirkungen persistenter organischer Schadstoffe auf die Fortpflanzungsfähigkeit gerichtet sind;
-- e. die Ergebnisse ihrer in diesem Absatz genannten Forschungs-, Entwicklungs- und Überwachungstätigkeit der Öffentlichkeit rechtzeitig und regelmässig zur Verfügung zu stellen und
+- e. die Ergebnisse ihrer in diesem Absatz genannten Forschungs-, Entwicklungs- und Überwachungstätigkeit der Öffentlichkeit rechtzeitig und regelmässig zur Verfügung zu stellen; und
 - f. die Zusammenarbeit hinsichtlich Speicherung und Pflege von Informationen, die aus der Forschung, Entwicklung und Überwachung gewonnen wurden, zu fördern und/oder zu verwirklichen.
 
 #### Art. 12
@@ -367,12 +406,14 @@ Beschliesst der Ausschuss auf der Grundlage des nach Anlage E erarbeiteten Risik
 
 <sup>6</sup> Hiermit wird ein Mechanismus für die Bereitstellung angemessener und nachhaltiger finanzieller Mittel in Form unentgeltlicher Zuschüsse oder zu Vorzugsbedingungen für Vertragsparteien, die Entwicklungsländer sind, und für Vertragsparteien mit im Übergang befindlichen Wirtschaftssystemen festgelegt, um diese bei der Durchführung des Übereinkommens zu unterstützen. Der Mechanismus arbeitet für die Zwecke des Übereinkommens unter der Aufsicht – sofern angebracht – und Leitung der Konferenz der Vertragsparteien und ist dieser gegenüber verantwortlich. Seine Arbeit wird einem oder mehreren Rechtsträgern, einschliesslich bestehender internationaler Rechtsträger, nach Beschluss der Konferenz der Vertragsparteien übertragen. In den Mechanismus können auch andere Rechtsträger einbezogen werden, die multilaterale, regionale und bilaterale finanzielle und technische Hilfe bereitstellen. Beiträge zu dem Mechanismus werden zusätzlich zu sonstigen im Rahmen und nach Massgabe des Absatzes 2 vorgenommenen Finanztransfers an Vertragsparteien, die Entwicklungsländer sind, und an Vertragsparteien mit im Übergang befindlichen Wirtschaftssystemen geleistet.
 
-<sup>7</sup> Im Einklang mit den Zielen dieses Übereinkommens und Absatz 6 beschliesst die Konferenz der Vertragsparteien auf ihrer ersten Tagung geeignete Leitlinien für den Mechanismus und einigt sich mit dem oder den an dem Finanzierungsmechanismus beteiligten Rechtsträger(n) auf die Regelungen zu dessen Durchführung. Die Leitlinien befassen sich unter anderem mit
+<sup>7</sup>
+
+Im Einklang mit den Zielen dieses Übereinkommens und Absatz 6 beschliesst die Konferenz der Vertragsparteien auf ihrer ersten Tagung geeignete Leitlinien für den Mechanismus und einigt sich mit dem oder den an dem Finanzierungsmechanismus beteiligten Rechtsträger(n) auf die Regelungen zu dessen Durchführung. Die Leitlinien befassen sich unter anderem mit:
 
 - a. der Festlegung der Politik, der Strategien und der Programmprioritäten sowie eindeutiger und detaillierter Kriterien und Leitlinien für die Berechtigung zum Zugang zu finanziellen Mitteln und zu ihrer Verwendung, wozu auch eine regelmässige Überwachung und Bewertung dieser Verwendung gehört;
 - b. der von Seiten des oder der Rechtsträger zu erfolgenden Bereitstellung regelmässiger Berichte an die Konferenz der Vertragsparteien über die Angemessenheit und Nachhaltigkeit der Finanzierung von Tätigkeiten, die hinsichtlich der Durchführung dieses Übereinkommens von Belang sind;
 - c. der Förderung von Vorgehensweisen, Mechanismen und Regelungen für eine Finanzierung aus mehreren Quellen;
-- d. den näheren Einzelheiten einer berechenbaren und nachvollziehbaren Festlegung des Finanzierungsbetrags, der zur Durchführung dieses Übereinkommens notwendig und verfügbar ist, wobei die Möglichkeit, dass die allmähliche Abschaffung persistenter organischer Schadstoffe eine nachhaltige Finanzierung erforderlich machen könnte, sowie die Bedingungen, unter denen dieser Betrag in regelmässigen Abständen einer Überprüfung zu unterziehen ist, zu berücksichtigen sind, und
+- d. den näheren Einzelheiten einer berechenbaren und nachvollziehbaren Festlegung des Finanzierungsbetrags, der zur Durchführung dieses Übereinkommens notwendig und verfügbar ist, wobei die Möglichkeit, dass die allmähliche Abschaffung persistenter organischer Schadstoffe eine nachhaltige Finanzierung erforderlich machen könnte, sowie die Bedingungen, unter denen dieser Betrag in regelmässigen Abständen einer Überprüfung zu unterziehen ist, zu berücksichtigen sind; und
 - e. den näheren Einzelheiten der Bereitstellung von Hilfe an betroffene Vertragsparteien, einschliesslich Bedarfsabschätzungen, Informationen zu verfügbaren Finanzierungsquellen und Finanzierungssystemen, um die Koordinierung zwischen ihnen zu erleichtern.
 
 <sup>8</sup> Die Konferenz der Vertragsparteien überprüft spätestens auf ihrer zweiten Tagung und danach in regelmässigen Abständen die Wirksamkeit des nach diesem Artikel eingerichteten Mechanismus, dessen Fähigkeit einer angemessenen Berücksichtigung der sich ändernden Bedürfnisse von Vertragsparteien, die Entwicklungsländer sind, sowie von Vertragsparteien mit im Übergang befindlichen Wirtschaftssystemen, die in Absatz 7 genannten Kriterien und Leitlinien, die Höhe der Finanzierung sowie die Wirksamkeit der Tätigkeit der institutionellen Rechtsträger, die mit der Erfüllung der Aufgaben des Finanzierungsmechanismus betraut sind. Auf der Grundlage dieser Überprüfung ergreift die Konferenz der Vertragsparteien erforderlichenfalls geeignete Massnahmen, um die Wirksamkeit des Mechanismus zu verbessern, auch mit Hilfe von Empfehlungen und Leitlinien betreffend Massnahmen zur Gewährleistung einer angemessenen und nachhaltigen Finanzierung, um den Bedürfnissen der Vertragsparteien Rechnung zu tragen.
@@ -393,7 +434,7 @@ Die institutionelle Struktur der Globalen Umweltfazilität, die nach Massgabe de
 
 Jede Vertragspartei stellt dem Sekretariat Folgendes zur Verfügung:
 
-- a. statistische Daten zu ihren gesamten Produktions-, Einfuhr- und Ausfuhrmengen jeder der in die Anlage A und Anlage B aufgenommenen Chemikalien oder eine realistische Schätzung dieser Daten und
+- a. statistische Daten zu ihren gesamten Produktions-, Einfuhr- und Ausfuhrmengen jeder der in die Anlage A und Anlage B aufgenommenen Chemikalien oder eine realistische Schätzung dieser Daten; und
 - b. soweit wie möglich, eine Liste der Staaten, aus denen sie jeden dieser Stoffe eingeführt hat, sowie eine Liste der Staaten, in die sie jeden dieser Stoffe ausgeführt hat.
 
 <sup>3</sup> Diese Berichterstattung erfolgt in regelmässigen Abständen und in einer von der Konferenz der Vertragsparteien auf ihrer ersten Tagung zu beschliessenden Form.
@@ -404,16 +445,20 @@ Jede Vertragspartei stellt dem Sekretariat Folgendes zur Verfügung:
 
 <sup>1</sup> Erstmals vier Jahre nach dem Tag des Inkrafttretens dieses Übereinkommens und danach in regelmässigen Abständen, die von der Konferenz der Vertragsparteien zu beschliessen sind, bewertet die Konferenz die Wirksamkeit dieses Übereinkommens.
 
-<sup>2</sup> Um diese Bewertung zu erleichtern, leitet die Konferenz der Vertragsparteien auf ihrer ersten Tagung die Festlegung von Regelungen in die Wege, um sich vergleichsfähige Überwachungsdaten über das Vorhandensein der in die Anlagen A, B oder C aufgenommenen Chemikalien sowie deren regionalen und weltweiten Transport in der Umwelt zu verschaffen. Diese Regelungen
+<sup>2</sup>
+
+Um diese Bewertung zu erleichtern, leitet die Konferenz der Vertragsparteien auf ihrer ersten Tagung die Festlegung von Regelungen in die Wege, um sich vergleichsfähige Überwachungsdaten über das Vorhandensein der in die Anlagen A, B oder C aufgenommenen Chemikalien sowie deren regionalen und weltweiten Transport in der Umwelt zu verschaffen. Diese Regelungen:
 
 - a. sollen von den Vertragsparteien auf regionaler Ebene zum angemessenen Zeitpunkt, im Rahmen ihrer technischen und finanziellen Möglichkeiten, so weit wie möglich unter Verwendung bestehender Überwachungsprogramme und -mechanismen und unter Förderung einer Harmonisierung der Vorgehensweisen durchgeführt werden;
-- b. können, falls erforderlich, unter Berücksichtigung der Unterschiede zwischen den Regionen und deren Möglichkeiten bei der Durchführung von Überwachungstätigkeiten ergänzt werden und
+- b. können, falls erforderlich, unter Berücksichtigung der Unterschiede zwischen den Regionen und deren Möglichkeiten bei der Durchführung von Überwachungstätigkeiten ergänzt werden; und
 - c. enthalten Berichte an die Konferenz der Vertragsparteien über die Ergebnisse der Überwachungstätigkeiten auf regionaler und weltweiter Grundlage in von der Konferenz der Vertragsparteien festzulegenden Abständen.
 
-<sup>3</sup> Die in Absatz 1 beschriebene Bewertung wird auf der Grundlage der verfügbaren wissenschaftlichen, umweltbezogenen, technischen und wirtschaftlichen Informationen durchgeführt; dazu gehören
+<sup>3</sup>
+
+Die in Absatz 1 beschriebene Bewertung wird auf der Grundlage der verfügbaren wissenschaftlichen, umweltbezogenen, technischen und wirtschaftlichen Informationen durchgeführt; dazu gehören:
 
 - a. Berichte und sonstige Überwachungsinformationen, die nach Absatz 2 bereitgestellt werden;
-- b. nationale Berichte, die nach Artikel 15 vorgelegt werden, und
+- b. nationale Berichte, die nach Artikel 15 vorgelegt werden; und
 - c. Informationen über die Nichteinhaltung, die nach den in Artikel 17 festgelegten Verfahren bereitgestellt werden
 
 #### Art. 17
@@ -455,14 +500,18 @@ Bei der Ratifikation, der Annahme oder der Genehmigung des Übereinkommens oder 
 
 <sup>4</sup> Die Konferenz der Vertragsparteien vereinbart und beschliesst auf ihrer ersten Tagung durch Konsens eine Geschäftsordnung und eine Finanzordnung für sich selbst und für alle Nebenorgane sowie Finanzbestimmungen für die Tätigkeit des Sekretariats.
 
-<sup>5</sup> Die Konferenz der Vertragsparteien prüft und bewertet laufend die Durchführung dieses Übereinkommens. Sie nimmt die ihr aufgrund des Übereinkommens übertragenen Aufgaben wahr; zu diesem Zweck
+<sup>5</sup>
+
+Die Konferenz der Vertragsparteien prüft und bewertet laufend die Durchführung dieses Übereinkommens. Sie nimmt die ihr aufgrund des Übereinkommens übertragenen Aufgaben wahr; zu diesem Zweck:
 
 - a. setzt sie zusätzlich zu den Anforderungen des Absatzes 6 die von ihr zur Durchführung des Übereinkommens für notwendig erachteten Nebenorgane ein;
 - b. arbeitet sie gegebenenfalls mit den zuständigen internationalen Organisationen sowie zwischenstaatlichen und nichtstaatlichen Stellen zusammen;
 - c. überprüft sie regelmässig alle den Vertragsparteien nach Artikel 15 zur Verfügung gestellten Informationen, einschliesslich der Prüfung der Wirksamkeit des Artikels 3 Absatz 2 Buchstabe b Ziffer iii;
 - d. prüft und ergreift sie weitere Massnahmen, die zur Erreichung der Ziele des Übereinkommens erforderlich sind.
 
-<sup>6</sup> Die Konferenz der Vertragsparteien setzt auf ihrer ersten Tagung ein als Überprüfungsausschuss für persistente organische Schadstoffe zu bezeichnendes Nebenorgan ein, das die diesem Ausschuss aufgrund dieses Übereinkommens zugewiesenen Aufgaben wahrnimmt. Dabei
+<sup>6</sup>
+
+Die Konferenz der Vertragsparteien setzt auf ihrer ersten Tagung ein als Überprüfungsausschuss für persistente organische Schadstoffe zu bezeichnendes Nebenorgan ein, das die diesem Ausschuss aufgrund dieses Übereinkommens zugewiesenen Aufgaben wahrnimmt. Dabei:
 
 - a. werden die Mitglieder des Überprüfungsausschusses für persistente organische Schadstoffe von der Konferenz der Vertragsparteien ernannt. Der Ausschuss besteht aus Fachleuten für Chemikalien-Bewertung oder Chemikalien-Management, die von den Regierungen benannt werden. Die Ausschussmitglieder werden auf der Grundlage einer ausgewogenen geographischen Verteilung ernannt;
 - b. entscheidet die Konferenz der Vertragsparteien über das Mandat, die Organisation und die Arbeitsweise des Ausschusses;
@@ -519,7 +568,7 @@ Folgendes Verfahren findet auf den Vorschlag weiterer Anlagen dieses Übereinkom
 
 - a. Weitere Anlagen werden nach dem in Artikel 21 Absätze 1, 2 und 3 festgelegten Verfahren vorgeschlagen und beschlossen;
 - b. eine Vertragspartei, die eine weitere Anlage nicht anzunehmen vermag, notifiziert dies schriftlich dem Verwahrer innerhalb eines Jahres nach dem Zeitpunkt, zu dem dieser mitgeteilt hat, dass die weitere Anlage beschlossen worden ist. Der Verwahrer verständigt unverzüglich alle Vertragsparteien vom Empfang jeder derartigen Notifikation. Eine Vertragspartei kann ihre Notifikation über die Nichtannahme einer etwaigen weiteren Anlage jederzeit zurücknehmen, und die Anlage tritt daraufhin für diese Vertragspartei nach Buchstabe c in Kraft;
-- c. nach Ablauf eines Jahres nach dem Zeitpunkt, zu dem der Verwahrer mitgeteilt hat, dass eine weitere Anlage beschlossen worden ist, tritt diese für alle Vertragsparteien des Übereinkommens, die keine Notifikation nach Buchstabe b vorgelegt haben, in Kraft
+- c. nach Ablauf eines Jahres nach dem Zeitpunkt, zu dem der Verwahrer mitgeteilt hat, dass eine weitere Anlage beschlossen worden ist, tritt diese für alle Vertragsparteien des Übereinkommens, die keine Notifikation nach Buchstabe b vorgelegt haben, in Kraft.
 
 <sup>4</sup> Der Vorschlag von Änderungen der Anlage A, B oder C, die Beschlussfassung darüber und das Inkrafttreten derselben unterliegen demselben Verfahren wie der Vorschlag weiterer Anlagen des Übereinkommens, die Beschlussfassung darüber und das Inkrafttreten derselben, wobei jedoch eine Änderung der Anlage A, B oder C für eine Vertragspartei nicht in Kraft tritt, die eine Erklärung hinsichtlich der Änderung dieser Anlagen nach Artikel 25 Absatz 4 abgegeben hat; in diesem Fall tritt eine derartige Änderung für diese Vertragspartei am neunzigsten Tag nach dem Zeitpunkt der Hinterlegung ihrer sich auf diese Änderung beziehenden Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde beim Verwahrer in Kraft.
 
@@ -528,7 +577,7 @@ Folgendes Verfahren findet auf den Vorschlag weiterer Anlagen dieses Übereinkom
 Folgendes Verfahren findet beim Vorschlag einer Änderung der Anlage D, E oder F, bei der Beschlussfassung darüber und beim Inkrafttreten derselben Anwendung:
 
 - a. Änderungen werden nach dem in Artikel 21 Absätze 1 und 2 festgelegten Verfahren vorgeschlagen;
-- b. die Beschlussfassung der Vertragsparteien über eine Änderung der Anlage D, E oder F erfolgt durch Konsens und
+- b. die Beschlussfassung der Vertragsparteien über eine Änderung der Anlage D, E oder F erfolgt durch Konsens; und
 - c. ein Beschluss über eine Änderung der Anlage D, E oder F wird vom Verwahrer den Vertragsparteien unverzüglich mitgeteilt. Die Änderung tritt für alle Vertragsparteien zu einem in dem Beschluss festzulegenden Zeitpunkt in Kraft.
 
 <sup>6</sup> Bezieht sich eine weitere Anlage oder eine Änderung einer Anlage auf eine Änderung dieses Übereinkommens, so tritt die weitere Anlage oder die geänderte Anlage erst in Kraft, wenn die Änderung des Übereinkommens in Kraft tritt.
@@ -601,7 +650,7 @@ Anlage A[^t-2]
 
 ## Eliminierung
 
-[^t-2]: Fassung gemäss den Beschlüssen Nr. SC-7/12, SC-7/13 und SC-7/14 der Konferenz der Vertragsparteien vom 15. Mai 2015 ([AS 2017 725](https://fedlex.data.admin.ch/eli/oc/2017/139)). Bereinigt gemäss den Beschlüssen Nr. SC-8/10, SC-8/11 und SC-8/12 der Vertragsparteienkonferenz vom 5. Mai 2017 ([AS 2019 603](https://fedlex.data.admin.ch/eli/oc/2019/103)) und den Beschlüssen Nr. SC-9/4, SC-9/11 und SC-9/12 der Vertragsparteienkonferenz vom 10. Mai 2019, in Kraft getreten für die Schweiz am 3. Dez. 2020 ([AS 2020 3961](https://fedlex.data.admin.ch/eli/oc/2020/734)).
+[^t-2]: Fassung gemäss den Beschlüssen Nr. SC-7/12, SC-7/13 und SC-7/14 der Konferenz der Vertragsparteien vom 15. Mai 2015 ([AS 2017 725](https://fedlex.data.admin.ch/eli/oc/2017/139)). Bereinigt gemäss den Beschlüssen Nr. SC-8/10, SC-8/11 und SC-8/12 der Vertragsparteienkonferenz vom 5. Mai 2017 ([AS 2019 603](https://fedlex.data.admin.ch/eli/oc/2019/103)), den Beschlüssen Nr. SC-9/4, SC-9/11 und SC-9/12 der Vertragsparteienkonferenz vom 10. Mai 2019 ([AS 2020 3961](https://fedlex.data.admin.ch/eli/oc/2020/734)) und Beschluss Nr. SC-10/13 der Vertragsparteienkonferenz vom 17. Juni 2022, in Kraft getreten für die Schweiz am 16. Nov. 2023 ([AS 2024 113](https://fedlex.data.admin.ch/eli/oc/2024/113)).
 
 ### Teil I
 
@@ -653,6 +702,7 @@ Anlage A[^t-2]
 <tr><td></td><td>Verwendung</td><td>keine</td></tr>
 <tr><td>Pentachlorphenol und seine Salze und Ester</td><td>Produktion</td><td>zugelassen für die in das Register aufgenommenen Vertragsparteien, nach Massgabe von Teil VIII dieser Anlage</td></tr>
 <tr><td></td><td>Verwendung</td><td>Pentachlorphenol zur Behandlung von Strommasten und deren Querträger nach Massgabe von Teil VIII dieser Anlage</td></tr>
+<tr><td>Perfluorhexansulfonsäure (PFHxS), ihre Salze und PFHxS-verwandte Verbindungen Perfluorhexansulfonsäure (PFHxS), ihre Salze und PFHxS-verwandte Verbindungen umfassen: i) Perfluorhexansulfonsäure (PFHxS; CAS-Nr.: 355-46-4), einschliesslich ihrer verzweigten Isomere; ii) ihre Salze; iii) alle Stoffe mit der Struktureinheit C<sub>6</sub>F<sub>13</sub>SO<sub>2</sub>–, die sich potentiell zu PFHxS abbauen;</td><td>Produktion</td><td>keine</td></tr>
 <tr><td>Perfluoroctansäure (PFOA), ihre Salze und PFOA-verwandte Verbindungen Perfluoroctansäure (PFOA), ihre Salze und PFOA-verwandte Verbindungen umfassen: i) Perfluoroctansäure (PFOA; CAS-Nr.: 335-67-1), einschliesslich aller ihrer verzweigten Isomere; ii) ihre Salze; iii) PFOA-verwandte Verbindungen, die im Sinne dieses Übereinkommens alle Substanzen umfassen, die sich zu PFOA abbauen, einschliesslich aller Substanzen (einschliesslich der Salze und Polymere) mit einer linearen oder verzweigten Perfluorheptyl-Gruppe mit (C<sub>7</sub>F<sub>15</sub>)C als Struktureinheit; Die folgenden Verbindungen werden nicht den PFOA-verwandten Verbindungen zugerechnet: i) C<sub>8</sub>F<sub>17</sub>-X, wenn X= F, Cl, Br; ii) Fluorpolymere, die unter CF<sub>3</sub>[CF<sub>2</sub>]<sub>n</sub>-R’, wenn R’=jegliche Gruppe, n&gt;16, fallen; iii) Perfluoralkylcarbonsäuren und Perfluoralkylphosphonsäuren (einschliesslich ihrer Salze, Ester, Halogenide und Anhydride) mit ≥8 perfluorinierten Kohlenstoffatomen; iv) Perfluoralkansulfonsäuren (einschliesslich ihrer Salze, Ester, Halogenide und Anhydride) mit ≥ 9 perfluorinierten Kohlenstoffatomen; v) Perfluoroctansulfonsäure (PFOS), ihre Salze und Perfluoroctansulfonylfluoride (PFOSF), gemäss Anlage B des Übereinkommens.</td><td>Produktion</td><td>Feuerlöschschaum: keine für sonstige Produktion, so wie sie gemäss den Bestimmungen nach Teil X dieser Anlage für in das Register aufgenommene Vertragsparteien zugelassen ist</td></tr>
 <tr><td>[tab]</td><td>Verwendung</td><td>Gemäss den Bestimmungen nach Teil X dieser Anlage: fotolithografische Prozesse oder Ätzverfahren in der Fertigung von Halbleitern fotografische Beschichtungen von Filmen öl- und wasserabweisende Textilien zum Schutz vor gefährlichen und gesundheitsgefährdenden Flüssigkeiten am Arbeitsplatz invasive und implantierbare Medizinprodukte</td></tr>
 <tr><td>[tab]</td><td></td><td>Feuerlöschschaum zur Bekämpfung von Dämpfen aus Flüssigbrennstoffen und Bränden von Flüssigbrennstoffen (Brandklasse B), der sich bereits in installierten Systemen – sowohl mobiler als auch stationärer Art – befindet, wie in Teil X Absatz 2 dieser Anlage dargelegt. Die Verwendung von Perfluoroctyliodid für die Produktion von Perfluoroctylbromid für die Herstellung pharmazeutischer Produkte im Einklang mit den Bestimmungen von Teil I Absatz 3 dieser Anlage. Herstellung von Polytetrafluorethylen (PTFE) und Polyvinylidenfluorid (PVDF) für die Produktion von: – hochleistungsfähigen, korrosionsbeständigen Gasfiltermembranen, Wasserfiltermembranen und Membranen für medizinische Textilien – Geräten für industrielle Abwärmetauscher – industriellen Dichtungsmitteln zur Verhinderung des Entweichens flüchtiger organischer Verbindungen und PM<sub>2.5</sub>-Partikeln Herstellung von Polyfluorethylenpropylen (FEP) zur Produktion von Hochspannungsdrähten und -kabeln zur Stromübertragung Herstellung von Fluorelastomeren für die Produktion von O-Ringen, V-Bändern und Plastikteilen für Autoinnenausstattungen</td></tr>
@@ -1454,7 +1504,7 @@ Geltungsbereich am 13. Mai 2022[^t-6]
 <tr><td>Vietnam</td><td>22. Juli</td><td>2002</td><td>17. Mai</td><td>2004</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>12. Februar</td><td>2008</td><td>12. Mai</td><td>2008</td></tr>
 <tr><td>Zypern</td><td>7. März</td><td>2005 B</td><td>5. Juni</td><td>2005</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Vorbehalte und Erklärungen. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Grönland. <sup>b</sup> Das Übereink. gilt nicht für Tokelau. <sup>c</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Vorbehalte und Erklärungen. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org/](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Grönland. <sup>b</sup> Das Übereink. gilt nicht für Tokelau. <sup>c</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-6]: [AS 2004 2797](https://fedlex.data.admin.ch/eli/oc/2004/347), [4353](https://fedlex.data.admin.ch/eli/oc/2004/657); [2005 4443](https://fedlex.data.admin.ch/eli/oc/2005/574); [2006 849](https://fedlex.data.admin.ch/eli/oc/2006/146); [2007 597](https://fedlex.data.admin.ch/eli/oc/2007/121), [5089](https://fedlex.data.admin.ch/eli/oc/2007/716); [2009 3725](https://fedlex.data.admin.ch/eli/oc/2009/473); [2010 2299](https://fedlex.data.admin.ch/eli/oc/2010/327); [2012 435](https://fedlex.data.admin.ch/eli/oc/2012/50); [2014 1427](https://fedlex.data.admin.ch/eli/oc/2014/307); [2019 2595](https://fedlex.data.admin.ch/eli/oc/2019/483); [2022 298](https://fedlex.data.admin.ch/eli/oc/2022/298). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht www.fedlex.admin.ch/de/treaty
+[^t-6]: [AS 2004 2797](https://fedlex.data.admin.ch/eli/oc/2004/347), [4353](https://fedlex.data.admin.ch/eli/oc/2004/657); [2005 4443](https://fedlex.data.admin.ch/eli/oc/2005/574); [2006 849](https://fedlex.data.admin.ch/eli/oc/2006/146); [2007 597](https://fedlex.data.admin.ch/eli/oc/2007/121), [5089](https://fedlex.data.admin.ch/eli/oc/2007/716); [2009 3725](https://fedlex.data.admin.ch/eli/oc/2009/473); [2010 2299](https://fedlex.data.admin.ch/eli/oc/2010/327); [2012 435](https://fedlex.data.admin.ch/eli/oc/2012/50); [2014 1427](https://fedlex.data.admin.ch/eli/oc/2014/307); [2019 2595](https://fedlex.data.admin.ch/eli/oc/2019/483); [2022 298](https://fedlex.data.admin.ch/eli/oc/2022/298). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.
