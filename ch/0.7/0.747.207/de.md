@@ -4,18 +4,18 @@ title: Europäisches Übereinkommen vom 19. Januar 1996 über die grossen Wasser
 short: AGN
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/938"
 language: de
-version: 2020-04-14
+version: 2023-11-17
 adopted: 1996-01-19
 in_force: 1999-07-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/de/xml/fedlex-data-admin-ch-eli-cc-2007-938-20200414-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/938/20200414/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/de/xml/fedlex-data-admin-ch-eli-cc-2007-938-20231117-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/938/20231117/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Europäisches Übereinkommen über die grossen Wasserstrassen von internationaler Bedeutung (AGN)
 
-AS **2007** 7147
+AS **2007** 7147[^t-1]
 
 Übersetzung
 
@@ -25,7 +25,9 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 21. August 1997
 
 In Kraft getreten für die Schweiz am 26. Juli 1999
 
-(Stand am 14. April 2020)
+(Stand am 17. November 2023)
+
+[^t-1]: Die Berichtigung vom 17. Nov. 2023 betrifft nur den italienischen Text ([AS 2023 658](https://fedlex.data.admin.ch/eli/oc/2023/658)).
 
 Die Vertragsparteien,
 
@@ -154,7 +156,7 @@ Jeder Staat kann, bei der Unterzeichnung des vorliegenden Übereinkommens oder b
 
 <sup>2.</sup> Auf Antrag einer Vertragspartei wird jede von dieser Partei vorgeschlagene Änderung der Anhänge I und II von der Arbeitsgruppe für Wasserstrassentransport der Wirtschaftskommission für Europa der Vereinten Nationen geprüft.
 
-<sup>3.</sup> Falls diese von den anwesenden und abstimmenden Vertragsparteien mehrheitlich angenommen wird, gibt der Generalsekretär der Vereinten Nationen die Änderung den direkt betroffenen Vertragsparteien zur Annahme bekannt. Eine Vertragspartei gilt als direkt betroffen, wenn, im Falle einer Einbeziehung einer neuen Wasserstrasse oder eines Hafens von internationaler Bedeutung oder im Falle einer Änderung der Anhänge, die Wasserstrasse durch ihr Hoheitsgebiet führt oder der in Betracht gezogene Hafen sich auf ihrem Hoheitsgebiet befindet.
+<sup>3.</sup> Falls diese von den anwesenden und abstimmenden Vertragsparteien mehrheitlich angenommen wird, gibt der Generalsekretär der Vereinten Nationen die Änderung den direkt betroffenen Vertragsparteien zur Annahme bekannt. Eine Vertragspartei gilt als direkt betroffen, wenn, im Falle einer Einbeziehung einer neuen Wasserstrasse oder eines Hafens von internationaler Bedeutung oder im Falle einer Änderung der Anhänge, die Wasserstrasse durch ihr Hoheitsgebiet führt oder der in Betracht gezogene Hafen sich auf ihrem Hoheitsgebiet befindet.[^13-1]
 
 <sup>4.</sup> Änderungsanträge, die nach den Bestimmungen der Absätze 2 und 3 des vorliegenden Artikels bekannt gegeben wurden, gelten als angenommen, wenn, in einem Zeitraum von sechs Monaten nach Bekanntgabe durch den Verwahrer, keine der direkt betroffenen Vertragsparteien Einspruch gegen diesen Änderungsantrag beim Generalsekretär der Vereinten Nationen erhoben hat.
 
@@ -163,6 +165,8 @@ Jeder Staat kann, bei der Unterzeichnung des vorliegenden Übereinkommens oder b
 <sup>6.</sup> Falls ein Einspruch gegen den Änderungsantrag gemäss den Bestimmungen in Absatz 4 des vorliegenden Artikels erhoben wurde, gilt der Änderungsantrag als abgelehnt und wirkungslos.
 
 <sup>7.</sup> Der Verwahrer wird vom Sekretariat der Wirtschaftskommission für Europa unverzüglich über die von einem Änderungsantrag direkt betroffenen vertragsschliessenden Parteien in Kenntnis gesetzt.
+
+[^13-1]: Die Berichtigung vom 17. Nov. 2023 betrifft nur den italienischen Text ([AS 2023 658](https://fedlex.data.admin.ch/eli/oc/2023/658)).
 
 #### Art. 14
 
@@ -210,11 +214,11 @@ Die Urschrift dieses Übereinkommens, dessen englischer, französischer und russ
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Genf am 19. Januar 1996. (Es folgen die Unterschriften)
 
-Anhang I*[^t-1]*
+Anhang I[^t-2]
 
 ## Wasserstrassen von internationaler Bedeutung
 
-[^t-1]: Geändert anlässlich der 52. Sitzung der Arbeitsgruppe für Wasserstrassentransport der Wirtschaftskommission für Europa der Vereinten Nationen in Genf, vom 13.‒15. Okt. 2008 ([AS 2009 7109](https://fedlex.data.admin.ch/eli/oc/2009/862)), der 56. Sitzung vom 10.–12. Okt. 2012 ([AS 2014 1379](https://fedlex.data.admin.ch/eli/oc/2014/292)) und der 61. Sitzung vom 4.–6. Okt. 2017, in Kraft für die Vertragsparteien seit 6. Nov. 2018 ([AS 2019 381](https://fedlex.data.admin.ch/eli/oc/2019/69)).
+[^t-2]: Geändert anlässlich der 52. Sitzung der Arbeitsgruppe für Wasserstrassentransport der Wirtschaftskommission für Europa der Vereinten Nationen in Genf, vom 13.‒15. Okt. 2008 ([AS 2009 7109](https://fedlex.data.admin.ch/eli/oc/2009/862)), der 56. Sitzung vom 10.–12. Okt. 2012 ([AS 2014 1379](https://fedlex.data.admin.ch/eli/oc/2014/292)) und der 61. Sitzung vom 4.–6. Okt. 2017, in Kraft für die Vertragsparteien seit 6. Nov. 2018 ([AS 2019 381](https://fedlex.data.admin.ch/eli/oc/2019/69)).
 
 Nummerierung der Wasserstrassen von internationaler Bedeutung
 
@@ -373,11 +377,11 @@ Liste der Wasserstrassen von internationaler Bedeutung
 <tr><td colspan="5">\* Noch inexistente Wasserstrassen E, die jedoch in die entsprechenden Pläne für den Ausbau der Infrastrukturen miteinbezogen wurden, sind in Klammern […].</td></tr>
 </table>
 
-Anhang II*[^t-2]*
+Anhang II[^t-3]
 
 ## Binnenhäfen von internationaler Bedeutung
 
-[^t-2]: Geändert anlässlich der 52. Sitzung der Arbeitsgruppe für Wasserstrassentransport der Wirtschaftskommission für Europa der Vereinten Nationen in Genf, vom 13.‒15. Okt. 2008 ([AS 2009 7109](https://fedlex.data.admin.ch/eli/oc/2009/862)), der 56. Sitzung vom 10.–12. Okt. 2012 ([AS 2014 1379](https://fedlex.data.admin.ch/eli/oc/2014/292)) und der 61. Sitzung vom 4.–6. Okt. 2017, in Kraft für die Vertragsparteien seit 6. Nov. 2018 ([AS 2019 381](https://fedlex.data.admin.ch/eli/oc/2019/69)).
+[^t-3]: Geändert anlässlich der 52. Sitzung der Arbeitsgruppe für Wasserstrassentransport der Wirtschaftskommission für Europa der Vereinten Nationen in Genf, vom 13.‒15. Okt. 2008 ([AS 2009 7109](https://fedlex.data.admin.ch/eli/oc/2009/862)), der 56. Sitzung vom 10.–12. Okt. 2012 ([AS 2014 1379](https://fedlex.data.admin.ch/eli/oc/2014/292)) und der 61. Sitzung vom 4.–6. Okt. 2017, in Kraft für die Vertragsparteien seit 6. Nov. 2018 ([AS 2019 381](https://fedlex.data.admin.ch/eli/oc/2019/69)).
 
 Nummerierung der Binnenhäfen von internationaler Bedeutung
 
@@ -830,11 +834,11 @@ Liste der Binnenhäfen von internationaler Bedeutung
 <tr><td colspan="2">Firmenzugehörige Privathäfen sind durch ein \*) gekennzeichnet. <sup>1</sup> Die Entfernungen, die Häfen an der Elbe betreffen wurden wie folgt gemessen: in Deutschland, beginnend mit 0,0 km, ab der deutsch-tschechischen Grenze; in der Tschechischen Republik, ab der deutsch-tschechischen Grenze, beginnend mit 726,15 km, um zu vermeiden, dass sich die in den beiden betroffenen Ländern gemessenen Distanzen überschneiden. <sup>2</sup> Die Entfernungen, die litauische Häfen betreffen werden ab dem Seehafen Klaipeda gemessen. <sup>3</sup> Entfernung ab Moskauer Südhafen. <sup>4</sup> Schifffahrt im Hafenbecken verboten. <sup>5</sup> In Planung. <sup>6</sup> Im Bau oder in Planung.</td></tr>
 </table>
 
-Anhang III*[^t-3]*
+Anhang III[^t-4]
 
 ## Technische und betriebliche Merkmale der Wasserstrassen von internationaler Bedeutung
 
-[^t-3]: Geändert anlässlich der 49. Sitzung der Arbeitsgruppe für Wasserstrassentransport der Wirtschaftskommission für Europa der Vereinten Nationen in Genf, vom 18.–20. Okt. 2005, mit Wirkung für die Vertragsparteien am 29. Nov. 2006.
+[^t-4]: Geändert anlässlich der 49. Sitzung der Arbeitsgruppe für Wasserstrassentransport der Wirtschaftskommission für Europa der Vereinten Nationen in Genf, vom 18.–20. Okt. 2005, mit Wirkung für die Vertragsparteien am 29. Nov. 2006.
 
 a) Technische Merkmale der Wasserstrassen E
 
@@ -862,7 +866,7 @@ Binnenschiffe mit einer Breite von 11,4 m und einer Länge von 110 m müssen Con
 
 Tabelle 1
 
-Auflistung der Wasserstrassen von internationaler Bedeutung**[^annexIII-lvlu1-3]**
+Auflistung der Wasserstrassen von internationaler Bedeutung[^annexIII-lvlu1-3]
 
 <table>
 <tr><th>Art der Wasser-strasse</th><th>Klasse der Wasser- strasse</th><th colspan="5">Selbstfahrer und Schleppverbände</th><th colspan="5">Schubverbände</th><th>Mindest-durchfahrtshöhe unter Brücken<sup>2)</sup></th><th>Graphische Symbole auf den Karten</th></tr>
@@ -870,14 +874,14 @@ Auflistung der Wasserstrassen von internationaler Bedeutung**[^annexIII-lvlu1-3]
 <tr><th></th><th></th><th>Bezeichnung</th><th>Maximale Länge</th><th>Maximale Breite</th><th>Tiefgang<sup>6)</sup></th><th>Tragfähigkeit</th><th></th><th>Länge</th><th>Breite</th><th>Tiefgang<sup>6)</sup></th><th>Tragfähigkeit</th><th></th><th></th></tr>
 <tr><th></th><th></th><th></th><th>L (m)</th><th>B (m)</th><th>d (m)</th><th>T (t)</th><th></th><th>L (m)</th><th>B (m)</th><th>d (m)</th><th>T (t)</th><th>H (m)</th><th></th></tr>
 <tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th><th>12</th><th>13</th><th>14</th></tr>
-<tr><td>von internationaler Bedeutung</td><td>IV</td><td>Johann Welker</td><td>80–85</td><td>9,5</td><td>2,50</td><td>1000–1500</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/de/xml/image/image1.png)</td><td>85</td><td>9,5<sup>5)</sup></td><td>2,50–2,80</td><td>1250–1450</td><td>5,25 oder 7,00<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/de/xml/image/image2.png)</td></tr>
-<tr><td></td><td>Va</td><td>Grosse Rheinschiffe</td><td>95–110</td><td>11,4</td><td>2,50–2,80</td><td>1500–3000</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/de/xml/image/image1.png)</td><td>95–110<sup>1)</sup></td><td>11,4</td><td>2,50–4,50</td><td>1600–3000</td><td>5,25 oder 7,00 oder 9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/de/xml/image/image3.png)</td></tr>
-<tr><td></td><td>Vb</td><td></td><td></td><td></td><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/de/xml/image/image4.png)</td><td>172–185<sup>1)</sup></td><td>11,4</td><td>2,50–4,50</td><td>3200–6000</td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/de/xml/image/image5.png)</td></tr>
-<tr><td></td><td>Vla</td><td></td><td></td><td></td><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/de/xml/image/image6.png)</td><td>95–110<sup>1)</sup></td><td>22,8</td><td>2,50–4,50</td><td>3 200– 6 000</td><td>7,00 oder 9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/de/xml/image/image7.png)</td></tr>
-<tr><td></td><td>Vlb</td><td><sup>3)</sup></td><td>140</td><td>15,0</td><td>3,90</td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/de/xml/image/image8.png)</td><td>185–195<sup>1)</sup></td><td>22,8</td><td>2,50–4,50</td><td>6 400–12 000</td><td>7,00 oder 9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/de/xml/image/image9.png)</td></tr>
-<tr><td></td><td>Vlc</td><td></td><td></td><td></td><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/de/xml/image/image10.png)</td><td>270–280<sup>1)</sup></td><td>22,8</td><td>2,50–4,50</td><td>9 600–18 000</td><td>9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/de/xml/image/image11.png)</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/de/xml/image/image12.png)</td><td>195–200<sup>1)</sup></td><td>33,0–34,2<sup>1)</sup></td><td>2,50–4,50</td><td>9 600–18 000</td><td></td><td></td></tr>
-<tr><td></td><td>VII</td><td></td><td></td><td></td><td></td><td></td><td><sup>7)</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/de/xml/image/image13.png)</td><td>275–285</td><td>33,0–34,2<sup>1)</sup></td><td>2,50–4,50</td><td>14 500–27 000</td><td>9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/de/xml/image/image14.png)</td></tr>
+<tr><td>von internationaler Bedeutung</td><td>IV</td><td>Johann Welker</td><td>80–85</td><td>9,5</td><td>2,50</td><td>1000–1500</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/de/xml/image/image1.png)</td><td>85</td><td>9,5<sup>5)</sup></td><td>2,50–2,80</td><td>1250–1450</td><td>5,25 oder 7,00<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/de/xml/image/image2.png)</td></tr>
+<tr><td></td><td>Va</td><td>Grosse Rheinschiffe</td><td>95–110</td><td>11,4</td><td>2,50–2,80</td><td>1500–3000</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/de/xml/image/image1.png)</td><td>95–110<sup>1)</sup></td><td>11,4</td><td>2,50–4,50</td><td>1600–3000</td><td>5,25 oder 7,00 oder 9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/de/xml/image/image3.png)</td></tr>
+<tr><td></td><td>Vb</td><td></td><td></td><td></td><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/de/xml/image/image4.png)</td><td>172–185<sup>1)</sup></td><td>11,4</td><td>2,50–4,50</td><td>3200–6000</td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/de/xml/image/image5.png)</td></tr>
+<tr><td></td><td>Vla</td><td></td><td></td><td></td><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/de/xml/image/image6.png)</td><td>95–110<sup>1)</sup></td><td>22,8</td><td>2,50–4,50</td><td>3 200– 6 000</td><td>7,00 oder 9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/de/xml/image/image7.png)</td></tr>
+<tr><td></td><td>Vlb</td><td><sup>3)</sup></td><td>140</td><td>15,0</td><td>3,90</td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/de/xml/image/image8.png)</td><td>185–195<sup>1)</sup></td><td>22,8</td><td>2,50–4,50</td><td>6 400–12 000</td><td>7,00 oder 9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/de/xml/image/image9.png)</td></tr>
+<tr><td></td><td>Vlc</td><td></td><td></td><td></td><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/de/xml/image/image10.png)</td><td>270–280<sup>1)</sup></td><td>22,8</td><td>2,50–4,50</td><td>9 600–18 000</td><td>9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/de/xml/image/image11.png)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/de/xml/image/image12.png)</td><td>195–200<sup>1)</sup></td><td>33,0–34,2<sup>1)</sup></td><td>2,50–4,50</td><td>9 600–18 000</td><td></td><td></td></tr>
+<tr><td></td><td>VII</td><td></td><td></td><td></td><td></td><td></td><td><sup>7)</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/de/xml/image/image13.png)</td><td>275–285</td><td>33,0–34,2<sup>1)</sup></td><td>2,50–4,50</td><td>14 500–27 000</td><td>9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/de/xml/image/image14.png)</td></tr>
 </table>
 
 Notizen zur Tabelle 1
@@ -920,7 +924,7 @@ Das Wasserstrassennetz E wird durch ein Binnenhafensystem von internationaler Be
 [^annexIII-lvlu1-5]: Nicht publiziert in der AS.
 [^annexIII-lvlu1-6]: [SR 0.740.81](https://fedlex.data.admin.ch/eli/cc/1993/2838_2838_2838)
 
-Geltungsbereich am 14. April 2020**[^t-4]**
+Geltungsbereich am 14. April 2020[^t-5]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -943,8 +947,8 @@ Geltungsbereich am 14. April 2020**[^t-4]**
 <tr><td>Tschechische Republik</td><td>8. August</td><td>1997</td><td>26. Juli</td><td>1999</td></tr>
 <tr><td>Ukraine</td><td>5. Januar</td><td>2010 B</td><td>5. April</td><td>2010</td></tr>
 <tr><td>Ungarn</td><td>22. Oktober</td><td>1997</td><td>26. Juli</td><td>1999</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-4]: [AS 2007 7147](https://fedlex.data.admin.ch/eli/oc/2007/938), [2011 3145](https://fedlex.data.admin.ch/eli/oc/2011/394), [2016 2623](https://fedlex.data.admin.ch/eli/oc/2016/414), [2020 1389](https://fedlex.data.admin.ch/eli/oc/2020/270). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-5]: [AS 2007 7147](https://fedlex.data.admin.ch/eli/oc/2007/938); [2011 3145](https://fedlex.data.admin.ch/eli/oc/2011/394); [2016 2623](https://fedlex.data.admin.ch/eli/oc/2016/414); [2020 1389](https://fedlex.data.admin.ch/eli/oc/2020/270). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

@@ -4,28 +4,26 @@ title: "Accordo europeo del 19 gennaio 1996 sulle grandi idrovie d'importanza in
 short: AGN
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/938"
 language: it
-version: 2020-04-14
+version: 2023-11-17
 adopted: 1996-01-19
 in_force: 1999-07-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/it/xml/fedlex-data-admin-ch-eli-cc-2007-938-20200414-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/938/20200414/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/it/xml/fedlex-data-admin-ch-eli-cc-2007-938-20231117-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/938/20231117/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Accordo europeo sulle grandi idrovie d’importanza nazionale (AGN)
+# Accordo europeo sulle grandi idrovie d’importanza internazionale (AGN)
 
-RU **2007** 7147
+RU **2007** 7147[^t-1]
 
 Traduzione
 
-Adottato a Ginevra il 19 gennaio 1996
+Adottato a Ginevra il 19 gennaio 1996 Ratificazione depositata dalla Svizzera il 21 agosto 1997 Entrato in vigore per la Svizzera il 26 luglio 1999
 
-Ratificazione depositata dalla Svizzera il 21 agosto 1997
+(Stato 17 novembre 2023)
 
-Entrato in vigore per la Svizzera il 26 luglio 1999
-
-(Stato 14 aprile 2020)
+[^t-1]: Correzione del 17 nov. 2023 ([RU 2023 658](https://fedlex.data.admin.ch/eli/oc/2023/658)).
 
 Le Parti contraenti,
 
@@ -45,12 +43,13 @@ hanno convenuto quanto segue:
 
 **Designazione della rete**
 
-<sup>1.</sup> Le Parti contraenti adottano le disposizioni del presente Accordo sotto forma di un piano coordinato di sviluppo e di costruzione di una rete di idrovie, denominata qui appresso «rete di idrovie d’importanza nazionale» o «rete di idrovie E», e intendono attuarlo nel quadro di adeguati programmi. Nell’ambito del presente Accordo, la rete di idrovie E è costituita dalle idrovie e dai percorsi costieri seguiti dalle navi per il trasporto fluvio-marittimo come pure dai porti d’importanza internazionale situati su tali idrovie e percorsi, menzionati negli allegati I e II del presente Accordo[^1-1].
+<sup>1.</sup> Le Parti contraenti adottano le disposizioni del presente Accordo sotto forma di un piano coordinato di sviluppo e di costruzione di una rete di idrovie, denominata qui appresso «rete di idrovie d’importanza internazionale» o «rete di idrovie E», e intendono attuarlo nel quadro di adeguati programmi. Nell’ambito del presente Accordo, la rete di idrovie E è costituita dalle idrovie e dai percorsi costieri seguiti dalle navi per il trasporto fluvio-marittimo come pure dai porti d’importanza internazionale situati su tali idrovie e percorsi, menzionati negli allegati I e II del presente Accordo[^1-1].[^1-2]
 
-<sup>2.</sup> Le Parti contraenti adottano le misure necessarie all’effettiva protezione del percorso previsto per le parti di idrovie E che non esistono ancora ma che rientrano nei programmi di pianificazione delle infrastrutture, e ciò tenendo debito conto dei loro futuri parametri e fino alla data in cui sarà presa una decisione sulla loro costruzione[^1-2].
+<sup>2.</sup> Le Parti contraenti adottano le misure necessarie all’effettiva protezione del percorso previsto per le parti di idrovie E che non esistono ancora ma che rientrano nei programmi di pianificazione delle infrastrutture, e ciò tenendo debito conto dei loro futuri parametri e fino alla data in cui sarà presa una decisione sulla loro costruzione[^1-3].
 
-[^1-1]: Modificato in occasione della 49<sup>a</sup> seduta del Gruppo di lavoro per il trasporto per idrovia della Commissione economica per l’Europa delle Nazioni Unite a Ginevra, dal 18 al 20 ott. 2005, con effetto per le Parti dal 1° giu. 2007.
-[^1-2]: Modificato in occasione della 50<sup>a</sup> seduta del Gruppo di lavoro per il trasporto per idrovia della Commissione economica per l’Europa delle Nazioni Unite a Ginevra, dall’11 al 13 ott. 2006, con effetto per le Parti dal 31 gen. 2008.
+[^1-1]: Accordo modificato in occasione della 49<sup>a</sup> seduta del Gruppo di lavoro per il trasporto per idrovia della Commissione economica per l’Europa delle Nazioni Unite a Ginevra, dal 18 al 20 ottobre 2005, con effetto per le Parti dal 1° giugno 2007.
+[^1-2]: Correzione del 17 nov. 2023 ([RU 2023 658](https://fedlex.data.admin.ch/eli/oc/2023/658)).
+[^1-3]: Modificato in occasione della 50<sup>a</sup> seduta del Gruppo di lavoro per il trasporto per idrovia della Commissione economica per l’Europa delle Nazioni Unite a Ginevra, dall’11 al 13 ott. 2006, con effetto per le Parti dal 31 gen. 2008.
 
 #### Art. 2
 
@@ -136,7 +135,7 @@ Qualsiasi Stato può, al momento della firma del presente Accordo o del deposito
 
 <sup>1.</sup> Il presente Accordo può essere emendato secondo la procedura definita nel presente articolo, fatte salve le disposizioni degli articoli 13 e 14.
 
-2.[^12-1] A domanda di una Parte contraente, qualsiasi emendamento del presente Accordo proposto da quest’ultima è esaminato dal Gruppo di lavoro dei trasporti per idrovia della Commissione economica delle Nazioni Unite per l’Europa.
+<sup>2.</sup> A domanda di una Parte contraente, qualsiasi emendamento del presente Accordo proposto da quest’ultima è esaminato dal Gruppo di lavoro dei trasporti per idrovia della Commissione economica delle Nazioni Unite per l’Europa. [^12-1]
 
 <sup>3.</sup> Se è adottato a maggioranza dei due terzi delle Parti contraenti presenti e votanti, l’emendamento è comunicato per accettazione a tutte le Parti contraenti dal Segretario generale dell’Organizzazione delle Nazioni Unite.
 
@@ -152,9 +151,9 @@ Qualsiasi Stato può, al momento della firma del presente Accordo o del deposito
 
 <sup>1.</sup> Gli allegati I e II del presente Accordo possono essere emendati secondo la procedura definita nel presente articolo.
 
-2.[^13-1] A domanda di una Parte contraente, qualsiasi emendamento degli allegati I e II proposto da quest’ultima è esaminato dal Gruppo di lavoro dei trasporti per idrovia della Commissione economica delle Nazioni Unite per l’Europa.
+<sup>2.</sup> A domanda di una Parte contraente, qualsiasi emendamento degli allegati I e II proposto da quest’ultima è esaminato dal Gruppo di lavoro dei trasporti per idrovia della Commissione economica delle Nazioni Unite per l’Europa.[^13-1]
 
-<sup>3.</sup> Se è adottata a maggioranza delle Parti contraenti presenti e votanti, la proposta di emendamento è comunicata per accettazione alle Parti contraenti direttamente interessate dal Segretario generale dell’Organizzazione delle Nazioni Unite. Ai fini del presente articolo, una Parte contraente è considerata direttamente interessata se, in caso d’inclusione di una nuova idrovia o di un porto d’importanza nazionale o in caso di modifica di tali impianti, il suo territorio è attraversato da questa idrovia o il porto di cui si tratta è situato su tale territorio.
+<sup>3.</sup> Se è adottata a maggioranza delle Parti contraenti presenti e votanti, la proposta di emendamento è comunicata per accettazione alle Parti contraenti direttamente interessate dal Segretario generale dell’Organizzazione delle Nazioni Unite. Ai fini del presente articolo, una Parte contraente è considerata direttamente interessata se, in caso d’inclusione di una nuova idrovia o di un porto d’importanza internazionale o in caso di modifica di tali impianti, il suo territorio è attraversato da questa idrovia o il porto di cui si tratta è situato su tale territorio.[^13-2]
 
 <sup>4.</sup> Qualsiasi proposta di emendamento comunicata conformemente alle disposizioni dei paragrafi 2 e 3 del presente articolo è considerata accettata se, nei sei mesi dopo la data della sua comunicazione da parte del depositario, nessuna Parte contraente direttamente interessata ha notificato la propria obiezione contro tale proposta di emendamento al Segretario generale dell’Organizzazione delle Nazioni Unite.
 
@@ -165,6 +164,7 @@ Qualsiasi Stato può, al momento della firma del presente Accordo o del deposito
 <sup>7.</sup> Il depositario è tenuto costantemente informato dal Segretariato della Commissione economica per l’Europa circa le Parti contraenti direttamente interessate da una proposta di emendamento.
 
 [^13-1]: Modificato il 12 ott. 2012 in occasione della 56<sup>a</sup> seduta del Gruppo di lavoro per il trasporto per idrovia della Commissione economica per l’Europa delle Nazioni Unite, tenuta a Ginevra dal 10 al 12 ott. 2012, con effetto per le Parti contraenti dal 15 ott. 2013 ([RU 2014 1379](https://fedlex.data.admin.ch/eli/oc/2014/292)).
+[^13-2]: Correzione del 17 nov. 2023 ([RU 2023 658](https://fedlex.data.admin.ch/eli/oc/2023/658)).
 
 #### Art. 14
 
@@ -172,7 +172,7 @@ Qualsiasi Stato può, al momento della firma del presente Accordo o del deposito
 
 <sup>1.</sup> L’allegato III del presente Accordo può essere emendato conformemente alla procedura definita nel presente articolo.
 
-2.[^14-1] A domanda di una Parte contraente, qualsiasi emendamento dell’allegato III del presente Accordo proposto da quest’ultima è esaminato dal Gruppo di lavoro dei trasporti per idrovia della Commissione economica delle Nazioni Unite per l’Europa.
+<sup>2.</sup> A domanda di una Parte contraente, qualsiasi emendamento dell’allegato III del presente Accordo proposto da quest’ultima è esaminato dal Gruppo di lavoro dei trasporti per idrovia della Commissione economica delle Nazioni Unite per l’Europa.[^14-1]
 
 <sup>3.</sup> Se è adottato a maggioranza delle Parti contraenti presenti e votanti, l’emendamento è comunicato per accettazione a tutte le Parti contraenti dal Segretario generale dell’Organizzazione delle Nazioni Unite.
 
@@ -214,11 +214,11 @@ L’originale del presente Accordo, i cui testi nelle lingue inglese, francese e
 
 *In fede di che,* i sottoscritti, debitamente autorizzati a tal fine, hanno firmato il presente Accordo. Fatto a Ginevra, il diciannove gennaio millenovecentonovantasei. (Seguono le firme)
 
-Allegato I*[^t-1]*
+Allegato I[^t-2]
 
 ## Idrovie d’importanza internazionale
 
-[^t-1]: Modificato in occasione della 52<sup>a</sup> sessione del Gruppo di lavoro per il trasporto per idrovia della Commissione economica per l’Europa delle Nazioni Unite, tenutasi a Ginevra dal 13 al 15 ott. 2008 ([RU 2009 7109](https://fedlex.data.admin.ch/eli/oc/2009/862)), il 12 ott. 2012 in occasione della 56<sup>a</sup> sessione ([RU 2014 1379](https://fedlex.data.admin.ch/eli/oc/2014/292)) ed il 6 ott. 2017 in occasione della 61<sup>a</sup> seduta del Gruppo di lavoro per il trasporto per idrovia della Commissione economica per l’Europa delle Nazioni Unite a Ginevra, tenutasi dal 4 al 6 ott. 2017, con effetto per le Parti dal 6 nov. 2018 ([RU 2019 381](https://fedlex.data.admin.ch/eli/oc/2019/69)).
+[^t-2]: Modificato in occasione della 52<sup>a</sup> sessione del Gruppo di lavoro per il trasporto per idrovia della Commissione economica per l’Europa delle Nazioni Unite, tenutasi a Ginevra dal 13 al 15 ott. 2008 ([RU 2009 7109](https://fedlex.data.admin.ch/eli/oc/2009/862)), il 12 ott. 2012 in occasione della 56<sup>a</sup> sessione ([RU 2014 1379](https://fedlex.data.admin.ch/eli/oc/2014/292)) ed il 6 ott. 2017 in occasione della 61<sup>a</sup> seduta del Gruppo di lavoro per il trasporto per idrovia della Commissione economica per l’Europa delle Nazioni Unite a Ginevra, tenutasi dal 4 al 6 ott. 2017, con effetto per le Parti dal 6 nov. 2018 ([RU 2019 381](https://fedlex.data.admin.ch/eli/oc/2019/69)).
 
 ### Numerazione delle idrovie d’importanza internazionale
 
@@ -375,11 +375,11 @@ Allegato I*[^t-1]*
 <tr><td colspan="5">\* I tratti di idrovie E che non esistono attualmente, ma che figurano in appropriati piani di sviluppo delle infrastrutture sono indicati fra parentesi […].</td></tr>
 </table>
 
-Allegato II*[^t-2]*
+Allegato II[^t-3]
 
 ## Porti di navigazione interna d’importanza internazionale
 
-[^t-2]: Modificato in occasione della 52<sup>a</sup> sessione del Gruppo di lavoro per il trasporto per idrovia della Commissione economica per l’Europa delle Nazioni Unite, tenutasi a Ginevra dal 13 al 15 ott. 2008 ([RU 2009 7109](https://fedlex.data.admin.ch/eli/oc/2009/862)), il 12 ott. 2012 in occasione della 56<sup>a</sup> sessione tenutasi dal 10 al 12 ott. 2012 ([RU 2014 1379](https://fedlex.data.admin.ch/eli/oc/2014/292)) ed il 6 ott. 2017 in occasione della 61<sup>a</sup> seduta del Gruppo di lavoro per il trasporto per idrovia della Commissione economica per l’Europa delle Nazioni Unite a Ginevra, tenutasi dal 4 al 6 ott. 2017, con effetto per le Parti dal 6 nov. 2018 ([RU 2019 381](https://fedlex.data.admin.ch/eli/oc/2019/69)).
+[^t-3]: Modificato in occasione della 52<sup>a</sup> sessione del Gruppo di lavoro per il trasporto per idrovia della Commissione economica per l’Europa delle Nazioni Unite, tenutasi a Ginevra dal 13 al 15 ott. 2008 ([RU 2009 7109](https://fedlex.data.admin.ch/eli/oc/2009/862)), il 12 ott. 2012 in occasione della 56<sup>a</sup> sessione tenutasi dal 10 al 12 ott. 2012 ([RU 2014 1379](https://fedlex.data.admin.ch/eli/oc/2014/292)) ed il 6 ott. 2017 in occasione della 61<sup>a</sup> seduta del Gruppo di lavoro per il trasporto per idrovia della Commissione economica per l’Europa delle Nazioni Unite a Ginevra, tenutasi dal 4 al 6 ott. 2017, con effetto per le Parti dal 6 nov. 2018 ([RU 2019 381](https://fedlex.data.admin.ch/eli/oc/2019/69)).
 
 ### Numerazione dei porti di navigazione interna d’importanza internazionale
 
@@ -842,11 +842,11 @@ Ad ogni porto di navigazione interna d’importanza internazionale (porto E) è 
 <tr><td colspan="2"><sup>6</sup> In costruzione o in previsione.</td></tr>
 </table>
 
-Allegato III*[^t-3]*
+Allegato III[^t-4]
 
 ## Caratteristiche tecniche ed esercizio delle idrovie d’importanza internazionale
 
-[^t-3]: Acc. modificato in occasione della 49<sup>a</sup> seduta del Gruppo di lavoro per il trasporto per idrovia della Commissione economica per l’Europa delle Nazioni Unite a Ginevra, dal 18 al 20 ott. 2005, con effetto per le Parti dal 29 nov. 2006.
+[^t-4]: Acc. modificato in occasione della 49<sup>a</sup> seduta del Gruppo di lavoro per il trasporto per idrovia della Commissione economica per l’Europa delle Nazioni Unite a Ginevra, dal 18 al 20 ott. 2005, con effetto per le Parti dal 29 nov. 2006.
 
 ### a) Caratteristiche tecniche delle idrovie E
 
@@ -872,7 +872,7 @@ Si considera che le esigenze minime qui appresso devono essere rispettate affinc
 
 i battelli della navigazione interna larghi 11,4 m e lunghi 110 m circa devono poter trasportare contenitori su tre o più livelli; se tale non è il caso, si dovrebbe autorizzare una lunghezza massima di 185 m per i convogli spinti, nel qual caso questi ultimi dovrebbero poter trasportare contenitori su due livelli.
 
-Classifica delle idrovie interne d’importanza internazionale**[^annexIII-lvlu1-lvlu1-3]**
+Classifica delle idrovie interne d’importanza internazionale[^annexIII-lvlu1-lvlu1-3]
 
 <table>
 <tr><th>Tipo di idrovia</th><th>Classe di idrovie</th><th colspan="5">Semoventi e chiatte</th><th colspan="5">Convogli spinti</th><th>Altezza minima sotto i ponti<sup>2)</sup></th><th>Simboli grafici sulle carte</th></tr>
@@ -880,14 +880,14 @@ Classifica delle idrovie interne d’importanza internazionale**[^annexIII-lvlu1
 <tr><th></th><th></th><th>Denominazione</th><th>Lunghezza massima</th><th>Larghezza massima</th><th>Pescag-gio<sup>6)</sup></th><th>Tonnellaggio</th><th></th><th>Lunghezza</th><th>Larghezza</th><th>Pescaggio<sup>6)</sup></th><th>Tonnellaggio</th><th></th><th></th></tr>
 <tr><th></th><th></th><th></th><th>L (m)</th><th>B (m)</th><th>d (m)</th><th>T (t)</th><th></th><th>L (m)</th><th>B (m)</th><th>d (m)</th><th>T (t)</th><th>H (m)</th><th></th></tr>
 <tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th><th>12</th><th>13</th><th>14</th></tr>
-<tr><td>d’importanza internazionale</td><td>IV</td><td>Johann Welker</td><td>80–85</td><td>9,5</td><td>2,50</td><td>1000–1500</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/it/xml/image/image1.png)</td><td>85</td><td>9,5<sup>5)</sup></td><td>2,50–2,80</td><td>1250–1450</td><td>5,25 oppure 7,00<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/it/xml/image/image2.png)</td></tr>
-<tr><td></td><td>Va</td><td>Grandi battelli del Reno</td><td>95–110</td><td>11,4</td><td>2,50–2,80</td><td>1500–3000</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/it/xml/image/image1.png)</td><td>95–110<sup>1)</sup></td><td>11,4</td><td>2,50–4,50</td><td>1600–3000</td><td>5,25 oppure 7,00 oppure 9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/it/xml/image/image3.png)</td></tr>
-<tr><td></td><td>Vb</td><td></td><td></td><td></td><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/it/xml/image/image4.png)</td><td>172–185<sup>1)</sup></td><td>11,4</td><td>2,50–4,50</td><td>3200–6000</td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/it/xml/image/image5.png)</td></tr>
-<tr><td></td><td>Vla</td><td></td><td></td><td></td><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/it/xml/image/image6.png)</td><td>95–110<sup>1)</sup></td><td>22,8</td><td>2,50–4,50</td><td>3 200– 6 000</td><td>7,00 oppure 9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/it/xml/image/image7.png)</td></tr>
-<tr><td></td><td>Vlb</td><td><sup>3)</sup></td><td>140</td><td>15,0</td><td>3,90</td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/it/xml/image/image8.png)</td><td>185–195<sup>1)</sup></td><td>22,8</td><td>2,50–4,50</td><td>6 400–12 000</td><td>7,00 oppure 9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/it/xml/image/image9.png)</td></tr>
-<tr><td></td><td>Vlc</td><td></td><td></td><td></td><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/it/xml/image/image10.png)</td><td>270–280<sup>1)</sup></td><td>22,8</td><td>2,50–4,50</td><td>9 600–18 000</td><td>9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/it/xml/image/image11.png)</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/it/xml/image/image12.png)</td><td>195–200<sup>1)</sup></td><td>33,0–34,2<sup>1)</sup></td><td>2,50–4,50</td><td>9 600–18 000</td><td></td><td></td></tr>
-<tr><td></td><td>VII</td><td></td><td></td><td></td><td></td><td></td><td><sup>7)</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/it/xml/image/image13.png)</td><td>275–285</td><td>33,0–34,2<sup>1)</sup></td><td>2,50–4,50</td><td>14 500–27 000</td><td>9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/it/xml/image/image14.png)</td></tr>
+<tr><td>d’importanza internazionale</td><td>IV</td><td>Johann Welker</td><td>80–85</td><td>9,5</td><td>2,50</td><td>1000–1500</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/it/xml/image/image1.png)</td><td>85</td><td>9,5<sup>5)</sup></td><td>2,50–2,80</td><td>1250–1450</td><td>5,25 oppure 7,00<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/it/xml/image/image2.png)</td></tr>
+<tr><td></td><td>Va</td><td>Grandi battelli del Reno</td><td>95–110</td><td>11,4</td><td>2,50–2,80</td><td>1500–3000</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/it/xml/image/image1.png)</td><td>95–110<sup>1)</sup></td><td>11,4</td><td>2,50–4,50</td><td>1600–3000</td><td>5,25 oppure 7,00 oppure 9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/it/xml/image/image3.png)</td></tr>
+<tr><td></td><td>Vb</td><td></td><td></td><td></td><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/it/xml/image/image4.png)</td><td>172–185<sup>1)</sup></td><td>11,4</td><td>2,50–4,50</td><td>3200–6000</td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/it/xml/image/image5.png)</td></tr>
+<tr><td></td><td>Vla</td><td></td><td></td><td></td><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/it/xml/image/image6.png)</td><td>95–110<sup>1)</sup></td><td>22,8</td><td>2,50–4,50</td><td>3 200– 6 000</td><td>7,00 oppure 9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/it/xml/image/image7.png)</td></tr>
+<tr><td></td><td>Vlb</td><td><sup>3)</sup></td><td>140</td><td>15,0</td><td>3,90</td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/it/xml/image/image8.png)</td><td>185–195<sup>1)</sup></td><td>22,8</td><td>2,50–4,50</td><td>6 400–12 000</td><td>7,00 oppure 9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/it/xml/image/image9.png)</td></tr>
+<tr><td></td><td>Vlc</td><td></td><td></td><td></td><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/it/xml/image/image10.png)</td><td>270–280<sup>1)</sup></td><td>22,8</td><td>2,50–4,50</td><td>9 600–18 000</td><td>9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/it/xml/image/image11.png)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/it/xml/image/image12.png)</td><td>195–200<sup>1)</sup></td><td>33,0–34,2<sup>1)</sup></td><td>2,50–4,50</td><td>9 600–18 000</td><td></td><td></td></tr>
+<tr><td></td><td>VII</td><td></td><td></td><td></td><td></td><td></td><td><sup>7)</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/it/xml/image/image13.png)</td><td>275–285</td><td>33,0–34,2<sup>1)</sup></td><td>2,50–4,50</td><td>14 500–27 000</td><td>9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/it/xml/image/image14.png)</td></tr>
 </table>
 
 Note alla tabella 1
@@ -932,7 +932,7 @@ La rete delle idrovie E è completata con un sistema di porti di navigazione int
 [^annexIII-lvlu1-lvlu3-2]: Non pubblicato nella RU.
 [^annexIII-lvlu1-lvlu3-3]: [RS 0.740.81](https://fedlex.data.admin.ch/eli/cc/1993/2838_2838_2838)
 
-Campo d’applicazione il 14 aprile 2020**[^t-4]**
+Campo d’applicazione il 14 aprile 2020[^t-5]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -955,8 +955,8 @@ Campo d’applicazione il 14 aprile 2020**[^t-4]**
 <tr><td>Svizzera</td><td>21 agosto</td><td>1997</td><td>26 luglio</td><td>1999</td></tr>
 <tr><td>Ucraina</td><td>5 gennaio</td><td>2010 A</td><td>5 aprile</td><td>2010</td></tr>
 <tr><td>Ungheria</td><td>22 ottobre</td><td>1997</td><td>26 luglio</td><td>1999</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org](http://treaties.un.org) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Applicabile al Regno in Europa.</td></tr>
 </table>
 
-[^t-4]: [RU 2007 7147](https://fedlex.data.admin.ch/eli/oc/2007/938), [2011 3145](https://fedlex.data.admin.ch/eli/oc/2011/394), [2016 2623](https://fedlex.data.admin.ch/eli/oc/2016/414)e [2020 1389](https://fedlex.data.admin.ch/eli/oc/2020/270)Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-5]: [RU 2007 7147](https://fedlex.data.admin.ch/eli/oc/2007/938), [2011 3145](https://fedlex.data.admin.ch/eli/oc/2011/394), [2016 2623](https://fedlex.data.admin.ch/eli/oc/2016/414)e [2020 1389](https://fedlex.data.admin.ch/eli/oc/2020/270)Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).

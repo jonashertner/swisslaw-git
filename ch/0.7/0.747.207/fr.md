@@ -4,18 +4,18 @@ title: "Accord européen du 19 janvier 1996 sur les grandes voies navigables d'i
 short: AGN
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/938"
 language: fr
-version: 2020-04-14
+version: 2023-11-17
 adopted: 1996-01-19
 in_force: 1999-07-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/fr/xml/fedlex-data-admin-ch-eli-cc-2007-938-20200414-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/938/20200414/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/fr/xml/fedlex-data-admin-ch-eli-cc-2007-938-20231117-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/938/20231117/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Accord européen sur les grandes voies navigables d’importance internationale
 
-RO **2007** 7147
+RO **2007** 7147[^t-1]
 
 Texte original
 
@@ -27,7 +27,9 @@ Instrument de ratification déposé par la Suisse le 21 août 1997
 
 Entré en vigueur pour la Suisse le 26 juillet 1999
 
-(Etat le 14 avril 2020)
+(État le 17 novembre 2023)
+
+[^t-1]: Erratum du 17 nov. 2023, ne concerne que le texte italien ([RO 2023 658](https://fedlex.data.admin.ch/eli/oc/2023/658)).
 
 Les Parties contractantes,
 
@@ -216,11 +218,11 @@ L’original du présent Accord, dont les textes en langues anglaise, française
 
 *En foi de quoi,* les soussignés, à ce dûment autorisés, ont signé le présent Accord. Fait à Genève, le 19 janvier 1996. (Suivent les signatures)
 
-Annexe I*[^t-1]*
+Annexe I[^t-2]
 
 ## Voies navigables d’importance internationale
 
-[^t-1]: Amendée lors de la 52<sup>e</sup> session du Groupe de travail des transports par voie navigable de la Commission économique pour l’Europe des Nations Unies, tenue à Genève du 13 au 15 oct. 2008 ([RO 2009 7109](https://fedlex.data.admin.ch/eli/oc/2009/862)), le 12 oct. 2012 lors de la 56<sup>e</sup> session ([RO 2014 1379](https://fedlex.data.admin.ch/eli/oc/2014/292)) et le 6 oct. 2017 lors de la 61<sup>e</sup> session, en vigueur pour les Parties contractantes depuis le 6 nov. 2018 ([RO 2019 381](https://fedlex.data.admin.ch/eli/oc/2019/69)).
+[^t-2]: Amendée lors de la 52<sup>e</sup> session du Groupe de travail des transports par voie navigable de la Commission économique pour l’Europe des Nations Unies, tenue à Genève du 13 au 15 oct. 2008 ([RO 2009 7109](https://fedlex.data.admin.ch/eli/oc/2009/862)), le 12 oct. 2012 lors de la 56<sup>e</sup> session ([RO 2014 1379](https://fedlex.data.admin.ch/eli/oc/2014/292)) et le 6 oct. 2017 lors de la 61<sup>e</sup> session, en vigueur pour les Parties contractantes depuis le 6 nov. 2018 ([RO 2019 381](https://fedlex.data.admin.ch/eli/oc/2019/69)).
 
 ### Numérotation des voies navigables d’importance internationale
 
@@ -377,11 +379,11 @@ Annexe I*[^t-1]*
 <tr><td colspan="4">\* Les portions de voies navigables E qui n’existent pas actuellement mais qui figurent dans des plans appropriés de développement des infrastructures sont indiquées entre crochets [...].</td></tr>
 </table>
 
-Annexe II*[^t-2]*
+Annexe II[^t-3]
 
 ## Ports de navigation intérieure d’importance internationale
 
-[^t-2]: Amendée lors de la 52<sup>e</sup> session du Groupe de travail des transports par voie navigable de la Commission économique pour l’Europe des Nations Unies, tenue à Genève du 13 au 15 oct. 2008 ([RO 2009 7109](https://fedlex.data.admin.ch/eli/oc/2009/862)) et le 12 oct. 2012 lors de la 56<sup>e</sup> session ([RO 2014 1379](https://fedlex.data.admin.ch/eli/oc/2014/292)) ) et le 6 oct. 2017 lors de la 61<sup>e</sup> session, en vigueur pour les Parties contractantes depuis le 6 nov. 2018 ([RO 2019 381](https://fedlex.data.admin.ch/eli/oc/2019/69)).
+[^t-3]: Amendée lors de la 52<sup>e</sup> session du Groupe de travail des transports par voie navigable de la Commission économique pour l’Europe des Nations Unies, tenue à Genève du 13 au 15 oct. 2008 ([RO 2009 7109](https://fedlex.data.admin.ch/eli/oc/2009/862)) et le 12 oct. 2012 lors de la 56<sup>e</sup> session ([RO 2014 1379](https://fedlex.data.admin.ch/eli/oc/2014/292)) ) et le 6 oct. 2017 lors de la 61<sup>e</sup> session, en vigueur pour les Parties contractantes depuis le 6 nov. 2018 ([RO 2019 381](https://fedlex.data.admin.ch/eli/oc/2019/69)).
 
 ### Numérotation des ports de navigation intérieure d’importance internationale
 
@@ -834,11 +836,11 @@ A chaque port de navigation intérieure d’importance internationale (port E) e
 <tr><td colspan="2"><sup>1</sup> Les distances relatives aux ports situés sur l’Elbe sont mesurées de la manière suivante: en Allemagne à partir de la frontière germano-tchèque en commençant à 0,0 km; en République tchèque à partir de la frontière germano-tchèque en commençant à 726,15 km pour éviter que les distances mesurées dans les deux pays concernés fassent double emploi. <sup>2</sup> La distance à laquelle se situent les ports lituaniens est calculée à partir du port maritime de Klaipeda. <sup>3</sup> Distance à partir du port Sud de Moskva. [tab] <sup>4</sup> Navigation interdite dans le bassin portuaire. <sup>5</sup> Construction prévue. <sup>6</sup> En construction ou en prévision.</td></tr>
 </table>
 
-Annexe III*[^t-3]*
+Annexe III[^t-4]
 
 ## Caractéristiques techniques et d’exploitation des voies navigables d’importance internationale
 
-[^t-3]: Amendée lors de la 49<sup>e</sup> session du Groupe de travail des transports par voie navigable de la Commission économique pour l’Europe des Nations Unies, tenue à Genève du 18 au 20 oct. 2005, en vigueur pour les Parties contractantes depuis le 29 nov. 2006.
+[^t-4]: Amendée lors de la 49<sup>e</sup> session du Groupe de travail des transports par voie navigable de la Commission économique pour l’Europe des Nations Unies, tenue à Genève du 18 au 20 oct. 2005, en vigueur pour les Parties contractantes depuis le 29 nov. 2006.
 
 ### a) Caractéristiques techniques des voies navigables E
 
@@ -874,14 +876,14 @@ Tableau 1
 <tr><th></th><th></th><th>Dénomination</th><th>Longueur max.</th><th>Largeur max.</th><th>Tirant d’eau<sup>6)</sup></th><th colspan="5">Tonnage</th><th></th><th>Longueur</th><th>Largeur</th><th>Tirant d’eau<sup>6)</sup></th><th colspan="5">Tonnage</th><th></th><th></th></tr>
 <tr><th></th><th></th><th></th><th>L (m)</th><th>B (m)</th><th>d (m)</th><th colspan="5">T (t)</th><th></th><th>L (m)</th><th>B (m)</th><th>d (m)</th><th colspan="5">T (t)</th><th>H (m)</th><th></th></tr>
 <tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th colspan="5">7</th><th>8</th><th>9</th><th>10</th><th>11</th><th colspan="5">12</th><th>13</th><th>14</th></tr>
-<tr><td>d’importance internationale</td><td>IV</td><td>Johann Welker</td><td>80–85</td><td>9,5</td><td>2,50</td><td colspan="5">1000–1500</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/fr/xml/image/image1.png)</td><td>85</td><td>9,5<sup>5)</sup></td><td>2,50–2,80</td><td colspan="5">1250–1450</td><td>5,25 ou 7,00<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/fr/xml/image/image2.png)</td></tr>
-<tr><td></td><td>Va</td><td>Gros bateaux du Rhin</td><td>95–110</td><td>11,4</td><td>2,50–2,80</td><td colspan="5">1500–3000</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/fr/xml/image/image1.png)</td><td>95–110<sup>1)</sup></td><td>11,4</td><td>2,50–4,50</td><td colspan="5">1600–3000</td><td>5,25 ou 7,00 ou 9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/fr/xml/image/image3.png)</td></tr>
-<tr><td></td><td>Vb</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/fr/xml/image/image4.png)</td><td>172–185<sup>1)</sup></td><td>11,4</td><td>2,50–4,50</td><td colspan="5">3200–6000</td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/fr/xml/image/image5.png)</td></tr>
-<tr><td></td><td>Vla</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/fr/xml/image/image6.png)</td><td>95–110<sup>1)</sup></td><td>22,8</td><td>2,50–4,50</td><td colspan="5">3 200– 6 000</td><td>7,00 ou 9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/fr/xml/image/image7.png)</td></tr>
-<tr><td></td><td>Vlb</td><td><sup>3)</sup></td><td>140</td><td>15,0</td><td>3,90</td><td colspan="5"></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/fr/xml/image/image8.png)</td><td>185–195<sup>1)</sup></td><td>22,8</td><td>2,50–4,50</td><td colspan="5">6 400–12 000</td><td>7,00 ou 9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/fr/xml/image/image9.png)</td></tr>
-<tr><td></td><td>Vlc</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/fr/xml/image/image10.png)</td><td>270–280<sup>1)</sup></td><td>22,8</td><td>2,50–4,50</td><td colspan="5">9 600–18 000</td><td>9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/fr/xml/image/image11.png)</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="5"></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/fr/xml/image/image12.png)</td><td>195–200<sup>1)</sup></td><td>33,0–34,2<sup>1)</sup></td><td>2,50–4,50</td><td colspan="5">9 600–18 000</td><td></td><td></td></tr>
-<tr><td></td><td>VII</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td><sup>7)</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/fr/xml/image/image13.png)</td><td>275–285</td><td>33,0–34,2<sup>1)</sup></td><td>2,50–4,50</td><td colspan="5">14 500–27 000</td><td>9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20200414/fr/xml/image/image14.png)</td></tr>
+<tr><td>d’importance internationale</td><td>IV</td><td>Johann Welker</td><td>80–85</td><td>9,5</td><td>2,50</td><td colspan="5">1000–1500</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/fr/xml/image/image1.png)</td><td>85</td><td>9,5<sup>5)</sup></td><td>2,50–2,80</td><td colspan="5">1250–1450</td><td>5,25 ou 7,00<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/fr/xml/image/image2.png)</td></tr>
+<tr><td></td><td>Va</td><td>Gros bateaux du Rhin</td><td>95–110</td><td>11,4</td><td>2,50–2,80</td><td colspan="5">1500–3000</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/fr/xml/image/image1.png)</td><td>95–110<sup>1)</sup></td><td>11,4</td><td>2,50–4,50</td><td colspan="5">1600–3000</td><td>5,25 ou 7,00 ou 9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/fr/xml/image/image3.png)</td></tr>
+<tr><td></td><td>Vb</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/fr/xml/image/image4.png)</td><td>172–185<sup>1)</sup></td><td>11,4</td><td>2,50–4,50</td><td colspan="5">3200–6000</td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/fr/xml/image/image5.png)</td></tr>
+<tr><td></td><td>Vla</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/fr/xml/image/image6.png)</td><td>95–110<sup>1)</sup></td><td>22,8</td><td>2,50–4,50</td><td colspan="5">3 200– 6 000</td><td>7,00 ou 9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/fr/xml/image/image7.png)</td></tr>
+<tr><td></td><td>Vlb</td><td><sup>3)</sup></td><td>140</td><td>15,0</td><td>3,90</td><td colspan="5"></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/fr/xml/image/image8.png)</td><td>185–195<sup>1)</sup></td><td>22,8</td><td>2,50–4,50</td><td colspan="5">6 400–12 000</td><td>7,00 ou 9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/fr/xml/image/image9.png)</td></tr>
+<tr><td></td><td>Vlc</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/fr/xml/image/image10.png)</td><td>270–280<sup>1)</sup></td><td>22,8</td><td>2,50–4,50</td><td colspan="5">9 600–18 000</td><td>9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/fr/xml/image/image11.png)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="5"></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/fr/xml/image/image12.png)</td><td>195–200<sup>1)</sup></td><td>33,0–34,2<sup>1)</sup></td><td>2,50–4,50</td><td colspan="5">9 600–18 000</td><td></td><td></td></tr>
+<tr><td></td><td>VII</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td><sup>7)</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/fr/xml/image/image13.png)</td><td>275–285</td><td>33,0–34,2<sup>1)</sup></td><td>2,50–4,50</td><td colspan="5">14 500–27 000</td><td>9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/fr/xml/image/image14.png)</td></tr>
 </table>
 
 **Notes du tableau 1**
@@ -939,7 +941,7 @@ Le réseau de voies navigables E est complété par un système de ports de navi
 [^annexIII-lvlu1-lvlu3-2]: Non publié dans le RO.
 [^annexIII-lvlu1-lvlu3-3]: [RS 0.740.81](https://fedlex.data.admin.ch/eli/cc/1993/2838_2838_2838)
 
-Champ d’application le 14 avril 2020**[^t-4]**
+Champ d’application le 14 avril 2020[^t-5]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -962,7 +964,7 @@ Champ d’application le 14 avril 2020**[^t-4]**
 <tr><td>Slovaquie</td><td>2 février</td><td>1998</td><td>26 juillet</td><td>1999</td></tr>
 <tr><td>Suisse</td><td>21 août</td><td>1997</td><td>26 juillet</td><td>1999</td></tr>
 <tr><td>Ukraine</td><td>5 janvier</td><td>2010 A</td><td>5 avril</td><td>2010</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org](http://treaties.un.org), ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-4]: [RO 2007 7147](https://fedlex.data.admin.ch/eli/oc/2007/938), [2011 3145](https://fedlex.data.admin.ch/eli/oc/2011/394), [2016 2623](https://fedlex.data.admin.ch/eli/oc/2016/414), [2020 1389](https://fedlex.data.admin.ch/eli/oc/2020/270). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-5]: [RO 2007 7147](https://fedlex.data.admin.ch/eli/oc/2007/938); [2011 3145](https://fedlex.data.admin.ch/eli/oc/2011/394); [2016 2623](https://fedlex.data.admin.ch/eli/oc/2016/414); [2020 1389](https://fedlex.data.admin.ch/eli/oc/2020/270). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](http://www.fedlex.admin.ch/fr/treaty).
