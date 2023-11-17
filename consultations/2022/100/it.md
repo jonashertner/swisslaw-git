@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dell’ordinanza sulla definizione e l’adeguamento delle strutture tariffali nell’assicurazione malattie
 document: Progetto posto in consultazione
 language: it

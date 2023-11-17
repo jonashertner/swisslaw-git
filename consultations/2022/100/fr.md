@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de l’ordonnance sur la fixation et l’adaptation de structures tarifaires dans l’assurance‑maladie
 document: Projet mis en consultation
 language: fr
