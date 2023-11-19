@@ -3,11 +3,11 @@ sr: "131.222.2"
 title: "Costituzione del Cantone di Basilea Campagna, del 17 maggio 1984"
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/2_1157_1173_1041_fga"
 language: it
-version: 2023-03-06
+version: 2023-11-20
 adopted: 1984-05-17
 in_force: 1987-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/2_1157_1173_1041_fga/20230306/it/xml/fedlex-data-admin-ch-eli-cc-1985-2_1157_1173_1041_fga-20230306-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/2_1157_1173_1041_fga/20230306/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/2_1157_1173_1041_fga/20231120/it/xml/fedlex-data-admin-ch-eli-cc-1985-2_1157_1173_1041_fga-20231120-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/2_1157_1173_1041_fga/20231120/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,10 +16,10 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/2_1157_1173_1041_fga/20230306/it"
 
 Traduzione[^t-1]
 
-del 17 maggio 1984 (Stato 6 marzo 2023)[^t-2]
+del 17 maggio 1984 (Stato 20 novembre 2023)[^t-2]
 
 [^t-1]: Accettata nella votazione popolare del 4 nov. 1984, in vigore dal 1° gen. 1987. Garanzia dell’AF dell’11 giu. 1986 (FF **1986** II 511 art. 1, **1985** II 1041). Il testo nella lingua originale è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
-[^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell’ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
+[^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi.
 
 Il Popolo del Cantone di Basilea Campagna,
 
@@ -1670,12 +1670,14 @@ Il Cantone riscuote:
 - f. un’imposta di culto presso le persone giuridiche;
 - g. una tassa sui veicoli a motore;
 - h.[^131-1] una tassa sugli apparecchi automatici da gioco, sulle sale da gioco e sulle case da gioco;
-- i.[^131-2] una tassa di soggiorno.
+- i.[^131-2] una tassa di soggiorno;
+- j.[^131-3] una tassa sul deposito definitivo di rifiuti nelle discariche.
 
 <sup>2</sup> L’introduzione di nuove imposte cantonali esige une modifica della Costituzione. Tale modifica dev’essere sottoposta al Popolo simultaneamente alle disposizioni legali di esecuzione.
 
 [^131-1]: Accettata nella [votazione popolare del 24 set. 2000](http://www.admin.ch/ch/i/pore/va/20000924/index.html), in vigore dal 1° gen. 2001. Garanzia dell’AF dell’11 dic. 2001 ([FF 2001 5802](https://fedlex.data.admin.ch/eli/fga/2001/1125)art. 1 n. 5 [4365](https://fedlex.data.admin.ch/eli/fga/2001/813)).
 [^131-2]: Accettata nella [votazione popolare del 3 mar. 2013](http://www.admin.ch/ch/i/pore/va/20130303/index.html), in vigore dal 1° gen. 2014. Garanzia dell’AF del 24 set. 2014 ([FF 2014 6817](https://fedlex.data.admin.ch/eli/fga/2014/1644)art. 1 n. 5 [3183](https://fedlex.data.admin.ch/eli/fga/2014/868)).
+[^131-3]: Accettata nella [votazione popolare del 19 nov. 2023](http://www.admin.ch/ch/i/pore/va/20231119/index.html), in vigore dal 20 nov. 2023. Garanzia dell’AF del 17 mar. 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 4; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### § 132
 

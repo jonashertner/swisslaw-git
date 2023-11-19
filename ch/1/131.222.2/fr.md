@@ -3,11 +3,11 @@ sr: "131.222.2"
 title: "Constitution du canton de Bâle-Campagne, du 17 mai 1984"
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/2_1157_1173_1041_fga"
 language: fr
-version: 2023-03-06
+version: 2023-11-20
 adopted: 1984-05-17
 in_force: 1987-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/2_1157_1173_1041_fga/20230306/fr/xml/fedlex-data-admin-ch-eli-cc-1985-2_1157_1173_1041_fga-20230306-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/2_1157_1173_1041_fga/20230306/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/2_1157_1173_1041_fga/20231120/fr/xml/fedlex-data-admin-ch-eli-cc-1985-2_1157_1173_1041_fga-20231120-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/2_1157_1173_1041_fga/20231120/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,10 +16,10 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/2_1157_1173_1041_fga/20230306/fr"
 
 Traduction[^t-1]
 
-du 17 mai 1984 (État le 6 mars 2023)[^t-2]
+du 17 mai 1984 (État le 20 novembre 2023)[^t-2]
 
 [^t-1]: Le texte en langue originale est publié, sous le même chiffre, dans l’édition allemande du présent recueil.
-[^t-2]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
+[^t-2]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale.
 
 Le peuple du canton de Bâle-Campagne,
 
@@ -1656,12 +1656,14 @@ Le canton perçoit:
 - f. un impôt ecclésiastique auprès des personnes morales;
 - g. une taxe sur les véhicules à moteur;
 - h.[^131-1] une taxe sur les appareils à sous, les salons de jeu et les maisons de jeu;
-- i.[^131-2] une taxe de séjour.
+- i.[^131-2] une taxe de séjour;
+- j.[^131-3] une taxe sur le stockage définitif de déchets dans les décharges.
 
 <sup>2</sup> L’introduction de nouveaux impôts cantonaux exige une modification de la Constitution. Celle-ci doit être soumise au peuple en même temps que les dispositions légales d’exécution.
 
 [^131-1]: Acceptée en [votation populaire du 24 sept. 2000](http://www.admin.ch/ch/f/pore/va/20000924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2001. Garantie de l’Ass. féd. du 11 déc. 2001 ([FF 2001 6190](https://fedlex.data.admin.ch/eli/fga/2001/1125)art. 1 ch. 5 [4659](https://fedlex.data.admin.ch/eli/fga/2001/813)).
 [^131-2]: Acceptée en [votation populaire du 3 mars 2013](http://www.admin.ch/ch/f/pore/va/20130303/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2014. Garantie de l’Ass. féd. du 24 sept. 2014 ([FF 2014 7615](https://fedlex.data.admin.ch/eli/fga/2014/1644)art. 1 ch. 5 [3573](https://fedlex.data.admin.ch/eli/fga/2014/868)).
+[^131-3]: Acceptée en [votation populaire du 19 nov. 2023](http://www.admin.ch/ch/f/pore/va/20231119/index.html), en vigueur depuis le 20 nov. 2023. Garantie de l’Ass. féd. du 17 mars 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 4; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### § 132
 
@@ -2419,6 +2421,8 @@ Santé
 **Sécurité sociale** 16<sup>2</sup>, 104
 
 **Stationnement facilité 118**<sup>3</sup>
+
+**Stockage des déchets,** taxe 131<sup>1 j</sup>
 
 **T****âches de la Confédération** participation dans l’accomplissement 1<sup>2</sup>
 

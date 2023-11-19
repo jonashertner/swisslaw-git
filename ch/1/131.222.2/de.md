@@ -3,20 +3,20 @@ sr: "131.222.2"
 title: "Verfassung des Kantons Basel-Landschaft, vom 17. Mai 1984"
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/2_1157_1173_1041_fga"
 language: de
-version: 2023-03-06
+version: 2023-11-20
 adopted: 1984-05-17
 in_force: 1987-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/2_1157_1173_1041_fga/20230306/de/xml/fedlex-data-admin-ch-eli-cc-1985-2_1157_1173_1041_fga-20230306-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/2_1157_1173_1041_fga/20230306/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/2_1157_1173_1041_fga/20231120/de/xml/fedlex-data-admin-ch-eli-cc-1985-2_1157_1173_1041_fga-20231120-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/2_1157_1173_1041_fga/20231120/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verfassung des Kantons Basel-Landschaft
 
-vom 17. Mai 1984 (Stand am 6. März 2023)[^t-1]
+vom 17. Mai 1984 (Stand am 20. November 2023)[^t-1]
 
-[^t-1]: Angenommen in der Volksabstimmung vom 4. Nov. 1984, in Kraft seit 1. Jan. 1987. Gewährleistungsbeschluss vom 11. Juni 1986 (BBl **1986** II 681 Art. 1; **1985** II 1157). Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
+[^t-1]: Angenommen in der Volksabstimmung vom 4. Nov. 1984, in Kraft seit 1. Jan. 1987. Gewährleistungsbeschluss vom 11. Juni 1986 (BBl **1986** II 681 Art. 1; **1985** II 1157). Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen.
 
 Das Baselbieter Volk,
 
@@ -1666,12 +1666,14 @@ Der Kanton erhebt:
 - f. Kirchensteuern von den juristischen Personen;
 - g. Motorfahrzeugsteuern;
 - h.[^131-1] Abgaben auf Spielautomaten, Spiellokale und Spielbanken;
-- i.[^131-2] Gasttaxen.
+- i.[^131-2] Gasttaxen;
+- j.[^131-3] Abgaben für die Ablagerung von Abfällen auf Deponien.
 
 <sup>2</sup> Die Einführung neuer kantonaler Steuern bedarf einer Verfassungsänderung. Diese ist gleichzeitig mit den gesetzlichen Ausführungsbestimmungen dem Volk vorzulegen.
 
 [^131-1]: Angenommen in der [Volksabstimmung vom 24. Sept. 2000](http://www.admin.ch/ch/d/pore/va/20000924/index.html), in Kraft seit 1. Jan. 2001. Gewährleistungsbeschluss vom 11. Dez. 2001 ([BBl 2001 6542](https://fedlex.data.admin.ch/eli/fga/2001/1125)Art. 1 Ziff. 5, [4879](https://fedlex.data.admin.ch/eli/fga/2001/813)).
 [^131-2]: Angenommen in der [Volksabstimmung vom 3. März 2013](http://www.admin.ch/ch/d/pore/va/20130303/index.html), in Kraft seit 1. Jan. 2014. Gewährleistungsbeschluss vom 24. Sept. 2014 ([BBl 2014 7859](https://fedlex.data.admin.ch/eli/fga/2014/1644)Art. 1 Ziff. 5, [3723](https://fedlex.data.admin.ch/eli/fga/2014/868)).
+[^131-3]: Angenommen in der [Volksabstimmung vom 19. Nov. 2023](http://www.admin.ch/ch/d/pore/va/20231119/index.html), in Kraft seit 20. Nov. 2023. Gewährleistungsbeschluss vom 17. März 2025 (BBl **20****25** 966 Art. 4; **2024** 2852).
 
 #### § 132
 
@@ -1936,6 +1938,8 @@ Die Amtsperiode 2010–2014 des Präsidiums und der übrigen Mitglieder des Verf
 
 Die Zahlen verweisen auf die Paragraphen und Paragraphenteile der Verfassung
 
+**Abfälle** und **Abwässer** s. Umweltschutz
+
 **Abgaben** s. Steuern
 
 **Abstimmungen** s. Volksabstimmungen
@@ -2148,7 +2152,7 @@ Kirchen
 
 - – Landeskirchen
   - – Anerkennung 136
-  - – Kirchensteuern und Beiträge 140
+  - – Kirchensteuern und Beiträge 131, 140
   - – Selbständigkeit 137
   - – Zugehörigkeit 138
 
@@ -2345,7 +2349,7 @@ Regierungsrat
 
 **Sozialrechte** Existenzgarantie, soziale Sicherheit, Bildung, Arbeit, Wohnung 16–17
 
-**Spielautomaten, -lokale und -banken.** Abgabe131<sup>1/h</sup>
+**Spielautomaten, -lokale und -banken** Abgabe131<sup>1/h</sup>
 
 **Spitalwesen** s. Gesundheitswesen
 
@@ -2401,7 +2405,9 @@ Stimm- und Wahlrecht
 
 Umweltschutz
 
-- – Abwässer und Abfälle 113
+- – Abfälle 113
+- – Abgaben für die Ablagerung von Abfällen auf Deponien 131<sup>1j</sup>
+- – Abwässer 113
 - – Grundsätze 112
 - – Lärmbekämpfung 112<sup>2</sup>
 
