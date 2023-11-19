@@ -3,20 +3,20 @@ canton: BL
 number: "100"
 title: Verfassung des Kantons Basel-Landschaft
 language: de
-version: 2022-08-01
-valid_until: 2023-11-19
-version_adopted: 2022-05-15
+version: 2023-11-20
+valid_until: 2026-03-08
+version_adopted: 2023-11-19
 adopted: 1984-05-17
 in_force: 1987-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/100"
-pdf: "https://bl.clex.ch/api/de/versions/3582/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3853/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verfassung des Kantons Basel-Landschaft
 
-Vom 17.05.1984 (Stand 01.08.2022)
+Vom 17.05.1984 (Stand 20.11.2023)
 
 Das Baselbieter Volk,
 
@@ -1492,7 +1492,8 @@ medizinischen Lehre und ordnet die Ausübung der Heilberufe.
 - f. Kirchensteuern von den juristischen Personen;
 - g. Motorfahrzeugsteuern;
 - h. Abgaben auf Spielautomaten, Spiellokale und Spielbanken;
-- i. Gasttaxen.
+- i. Gasttaxen;
+- j. Abgaben für die Ablagerung von Abfällen auf Deponien.
 
 <sup>2</sup> Die Einführung neuer kantonaler Steuern bedarf einer Verfassungsänderung. Diese ist gleichzeitig mit den gesetzlichen Ausführungsbestimmungen dem Volk vorzulegen.
 
