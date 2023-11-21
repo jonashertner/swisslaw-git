@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification des ordonnances concernant l’importation, le transit et l’exportation d’animaux et de produits animaux"
 document: Projet mis en consultation
 language: fr

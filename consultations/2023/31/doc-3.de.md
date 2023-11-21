@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung von Verordnungen im Bereich der Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten"
 document: Vernehmlassungsvorlage
 language: de
