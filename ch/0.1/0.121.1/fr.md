@@ -3,11 +3,11 @@ sr: "0.121.1"
 title: "Protocole du 4 octobre 1991 au Traité sur l'Antarctique, relatif à la protection de l'environnement (avec app. et annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/297"
 language: fr
-version: 2020-04-17
+version: 2023-11-22
 adopted: 1991-10-04
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/297/20200417/fr/xml/fedlex-data-admin-ch-eli-cc-2017-297-20200417-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/297/20200417/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/297/20231122/fr/xml/fedlex-data-admin-ch-eli-cc-2017-297-20231122-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/297/20231122/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 2 mai 2017
 
 Entré en vigueur pour la Suisse le 1<sup>er</sup> juin 2017
 
-(Etat le 17 avril 2020)
+(État le 22 novembre 2023)
 
 [^t-1]: [RO 2017 2835](https://fedlex.data.admin.ch/eli/oc/2017/295)
 
@@ -52,7 +52,7 @@ désireux de compléter à cette fin le Traité sur l’Antarctique,
 
 sont convenus des dispositions qui suivent:
 
-[^ingress-1]: [RS 0.121](https://fedlex.data.admin.ch/eli/cc/1990/1925_1925_1925)
+[^ingress-1]: [RS 0.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/43)
 
 #### Art. 1
 
@@ -412,7 +412,7 @@ Le Dépositaire notifie à toutes les Parties contractantes au Traité sur l’A
 
 <sup>2.</sup> Le présent Protocole sera enregistré par le Dépositaire conformément aux dispositions de l’art. 102 de la Charte des Nations Unies[^27-1].
 
-[^27-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^27-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 (Suivent les signatures)
 
@@ -654,7 +654,7 @@ Aux fins de la présente Annexe:
 
 - i) «Convention internationale pour la règlementation de la chasse à la baleine» désigne la Convention de Washington du 2 décembre 1946[^annexII-lvlu1-1-1].
 
-[^annexII-lvlu1-1-1]: [RS 0.922.74](https://fedlex.data.admin.ch/eli/cc/1980/1072_1072_1072)
+[^annexII-lvlu1-1-1]: [RS 0.922.74](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4078)
 
 #### Art. 2
 
@@ -740,7 +740,7 @@ Les Parties prennent des dispositions pour:
 
 Rien dans la présente Annexe ne déroge aux droits et obligations des Parties découlant de la Convention internationale pour la règlementation de la chasse à la baleine[^annexII-lvlu1-7-1].
 
-[^annexII-lvlu1-7-1]: [RS 0.922.74](https://fedlex.data.admin.ch/eli/cc/1980/1072_1072_1072)
+[^annexII-lvlu1-7-1]: [RS 0.922.74](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4078)
 
 #### Art. 8
 
@@ -955,7 +955,7 @@ Aux fins de la présente Annexe:
 - f) «mélange d’hydrocarbures» désigne tout mélange contenant des hydrocarbures;
 - g) «navire» désigne tout bâtiment opérant en milieu marin et englobe les hydroptères, aéroglisseurs, engins submersibles, engins flottants et plates-formes fixes ou flottantes.
 
-[^annexIV-lvlu1-1-1]: [RS 0.814.288.2](https://fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652)
+[^annexIV-lvlu1-1-1]: [RS 0.814.288.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3522)
 
 #### Art. 2
 
@@ -1305,47 +1305,48 @@ Les Parties prennent des dispositions pour:
 
 <sup>2.</sup> Tout amendement ou toute modification de la présente Annexe qui prend effet conformément au par. 1 ci-dessus, entrera par la suite en vigueur à l’égard de toute autre Partie dès qu’un avis d’approbation émanant de celle-ci aura été reçu par l’État dépositaire.
 
-Champ d’application du protocole le 17 avril 2020**[^t-2]**
+Champ d’application du protocole le 22 novembre 2023[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
-<tr><td>Afrique du Sud <sup>a</sup></td><td>3 août</td><td>1995</td><td>14 janvier</td><td>1998</td></tr>
+<tr><td>Afrique du Sud <sup>a</sup> <sup>b</sup></td><td>3 août</td><td>1995</td><td>14 janvier</td><td>1998</td></tr>
 <tr><td>Allemagne <sup>a</sup> <sup>b</sup></td><td>25 novembre</td><td>1994</td><td>14 janvier</td><td>1998</td></tr>
 <tr><td>Argentine\* <sup>a</sup> <sup>b</sup></td><td>28 octobre</td><td>1993</td><td>14 janvier</td><td>1998</td></tr>
 <tr><td>Australie <sup>a</sup> <sup>b</sup></td><td>6 avril</td><td>1994</td><td>14 janvier</td><td>1998</td></tr>
+<tr><td>Autriche\* <sup>b</sup></td><td>27 juillet</td><td>2021</td><td>26 août</td><td>2021</td></tr>
 <tr><td>Belgique <sup>a</sup> <sup>b</sup></td><td>26 avril</td><td>1996</td><td>14 janvier</td><td>1998</td></tr>
-<tr><td>Brésil <sup>a</sup></td><td>15 août</td><td>1995</td><td>14 janvier</td><td>1998</td></tr>
+<tr><td>Brésil <sup>a b</sup></td><td>15 août</td><td>1995</td><td>14 janvier</td><td>1998</td></tr>
 <tr><td>Bulgarie <sup>a</sup> <sup>b</sup></td><td>21 avril</td><td>1998 A</td><td>21 mai</td><td>1998</td></tr>
-<tr><td>Bélarus</td><td>16 juillet</td><td>2008 A</td><td>15 août</td><td>2008</td></tr>
-<tr><td>Canada</td><td>13 novembre</td><td>2003</td><td>13 décembre</td><td>2003</td></tr>
-<tr><td>Chili <sup>a</sup></td><td>11 janvier</td><td>1995</td><td>14 janvier</td><td>1998</td></tr>
-<tr><td>Chine <sup>a</sup> <sup>b</sup></td><td>2 août</td><td>1994</td><td>14 janvier</td><td>1998</td></tr>
-<tr><td>Colombie</td><td>14 février</td><td>2020</td><td>14 mars</td><td>2020</td></tr>
-<tr><td>Corée (Sud) <sup>a</sup></td><td>2 janvier</td><td>1996</td><td>14 janvier</td><td>1998</td></tr>
+<tr><td>Bélarus <sup>b</sup></td><td>16 juillet</td><td>2008 A</td><td>15 août</td><td>2008</td></tr>
+<tr><td>Canada <sup>b</sup></td><td>13 novembre</td><td>2003</td><td>13 décembre</td><td>2003</td></tr>
+<tr><td>Chili <sup>a b</sup></td><td>11 janvier</td><td>1995</td><td>14 janvier</td><td>1998</td></tr>
+<tr><td>Chine <sup>b</sup></td><td>2 août</td><td>1994</td><td>14 janvier</td><td>1998</td></tr>
+<tr><td>Colombie <sup>b</sup></td><td>14 février</td><td>2020</td><td>14 mars</td><td>2020</td></tr>
+<tr><td>Corée (Sud) <sup>a b</sup></td><td>2 janvier</td><td>1996</td><td>14 janvier</td><td>1998</td></tr>
 <tr><td>Équateur <sup>a</sup> <sup>b</sup></td><td>4 janvier</td><td>1993</td><td>14 janvier</td><td>1998</td></tr>
 <tr><td>Espagne <sup>a</sup> <sup>b</sup></td><td>1<sup>er</sup> juillet</td><td>1992</td><td>14 janvier</td><td>1998</td></tr>
 <tr><td>États-Unis <sup>a</sup> <sup>b</sup></td><td>17 avril</td><td>1997</td><td>14 janvier</td><td>1998</td></tr>
 <tr><td>Finlande <sup>a</sup> <sup>b</sup></td><td>1<sup>er</sup> novembre</td><td>1996</td><td>14 janvier</td><td>1998</td></tr>
 <tr><td>France <sup>a</sup> <sup>b</sup></td><td>5 février</td><td>1993</td><td>14 janvier</td><td>1998</td></tr>
 <tr><td>Grèce</td><td>23 mai</td><td>1995</td><td>14 janvier</td><td>1998</td></tr>
-<tr><td>Inde <sup>a</sup></td><td>26 avril</td><td>1996</td><td>14 janvier</td><td>1998</td></tr>
+<tr><td>Inde <sup>a b</sup></td><td>26 avril</td><td>1996</td><td>14 janvier</td><td>1998</td></tr>
 <tr><td>Italie <sup>a</sup> <sup>b</sup></td><td>31 mars</td><td>1995</td><td>14 janvier</td><td>1998</td></tr>
 <tr><td>Japon <sup>a</sup> <sup>b</sup></td><td>15 décembre</td><td>1997</td><td>14 janvier</td><td>1998</td></tr>
-<tr><td>Malaisie</td><td>14 septembre</td><td>2016 A</td><td>14 octobre</td><td>2016</td></tr>
+<tr><td>Malaisie</td><td>15 août</td><td>2016 A</td><td>14 septembre</td><td>2016</td></tr>
 <tr><td>Monaco</td><td>1<sup>er</sup> juillet</td><td>2009 A</td><td>31 juillet</td><td>2009</td></tr>
-<tr><td>Norvège <sup>a</sup></td><td>16 juin</td><td>1993</td><td>14 janvier</td><td>1998</td></tr>
-<tr><td>Nouvelle-Zélande <sup>a</sup></td><td>22 décembre</td><td>1994</td><td>14 janvier</td><td>1998</td></tr>
+<tr><td>Norvège <sup>a b</sup></td><td>16 juin</td><td>1993</td><td>14 janvier</td><td>1998</td></tr>
+<tr><td>Nouvelle-Zélande <sup>a b</sup></td><td>22 décembre</td><td>1994</td><td>14 janvier</td><td>1998</td></tr>
 <tr><td>Pakistan</td><td>1<sup>er</sup> mars</td><td>2012 A</td><td>31 mars</td><td>2012</td></tr>
-<tr><td>Pays-Bas\* <sup>a</sup></td><td>14 avril</td><td>1994</td><td>14 janvier</td><td>1998</td></tr>
+<tr><td>Pays-Bas\* <sup>a b</sup></td><td>14 avril</td><td>1994</td><td>14 janvier</td><td>1998</td></tr>
 <tr><td>[tab] Aruba\*</td><td>15 octobre</td><td>2004</td><td>15 octobre</td><td>2004</td></tr>
 <tr><td>[tab] Curaçao\*</td><td>15 octobre</td><td>2004</td><td>15 octobre</td><td>2004</td></tr>
 <tr><td>[tab] Partie caraïbe (Bonaire, Sint Eustatius et Saba)\*</td><td>15 octobre</td><td>2004</td><td>15 octobre</td><td>2004</td></tr>
 <tr><td>[tab] Sint Maarten\*</td><td>27 octobre</td><td>2004</td><td>27 octobre</td><td>2004</td></tr>
 <tr><td>Pérou <sup>a</sup> <sup>b</sup></td><td>8 mars</td><td>1993</td><td>14 janvier</td><td>1998</td></tr>
-<tr><td>Pologne <sup>a</sup></td><td>1<sup>er</sup> novembre</td><td>1995</td><td>14 janvier</td><td>1998</td></tr>
+<tr><td>Pologne <sup>a b</sup></td><td>1<sup>er</sup> novembre</td><td>1995</td><td>14 janvier</td><td>1998</td></tr>
 <tr><td>Portugal</td><td>10 septembre</td><td>2014 A</td><td>10 octobre</td><td>2014</td></tr>
 <tr><td>Roumanie <sup>b</sup></td><td>3 février</td><td>2003</td><td>5 mars</td><td>2003</td></tr>
-<tr><td>Royaume-Uni <sup>a</sup></td><td>25 avril</td><td>1995</td><td>14 janvier</td><td>1998</td></tr>
+<tr><td>Royaume-Uni <sup>a b</sup></td><td>25 avril</td><td>1995</td><td>14 janvier</td><td>1998</td></tr>
 <tr><td>[tab] Anguilla</td><td>25 avril</td><td>1995</td><td>14 janvier</td><td>1998</td></tr>
 <tr><td>[tab] Bermudes</td><td>25 avril</td><td>1995</td><td>14 janvier</td><td>1998</td></tr>
 <tr><td>[tab] Guernesey</td><td>25 avril</td><td>1995</td><td>14 janvier</td><td>1998</td></tr>
@@ -1359,18 +1360,18 @@ Champ d’application du protocole le 17 avril 2020**[^t-2]**
 <tr><td>[tab] Montserrat</td><td>25 avril</td><td>1995</td><td>14 janvier</td><td>1998</td></tr>
 <tr><td>[tab] Sainte-Hélène et dépendances (Ascension et Tristan da Cunha)</td><td>25 avril</td><td>1995</td><td>14 janvier</td><td>1998</td></tr>
 <tr><td>[tab] Territoire antarctique britannique</td><td>25 avril</td><td>1995</td><td>14 janvier</td><td>1998</td></tr>
-<tr><td>Russie <sup>a</sup></td><td>6 août</td><td>1997</td><td>14 janvier</td><td>1998</td></tr>
-<tr><td>République tchèque\* <sup>a</sup></td><td>25 août</td><td>2004</td><td>24 septembre</td><td>2004</td></tr>
+<tr><td>Russie <sup>a b</sup></td><td>6 août</td><td>1997</td><td>14 janvier</td><td>1998</td></tr>
+<tr><td>République tchèque\* <sup>a b</sup></td><td>25 août</td><td>2004</td><td>24 septembre</td><td>2004</td></tr>
 <tr><td>Suisse\* <sup>b</sup></td><td>2 mai</td><td>2017</td><td>1<sup>er</sup> juin</td><td>2017</td></tr>
 <tr><td>Suède <sup>a</sup> <sup>b</sup></td><td>30 mars</td><td>1994</td><td>14 janvier</td><td>1998</td></tr>
 <tr><td>Turquie</td><td>27 septembre</td><td>2017 A</td><td>27 octobre</td><td>2017</td></tr>
 <tr><td>Ukraine <sup>b</sup></td><td>25 mai</td><td>2001 A</td><td>24 juin</td><td>2001</td></tr>
-<tr><td>Uruguay <sup>a</sup></td><td>11 janvier</td><td>1995</td><td>14 janvier</td><td>1998</td></tr>
+<tr><td>Uruguay <sup>a b</sup></td><td>11 janvier</td><td>1995</td><td>14 janvier</td><td>1998</td></tr>
 <tr><td>Venezuela</td><td>1<sup>er</sup> août</td><td>2014 A</td><td>31 août</td><td>2014</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations, voir ci-après. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en anglais peuvent être consultés à l’adresse du site Internet des États-Unis d’Amérique: www.state.gov &gt; Policy Issues &gt; Treaties and International Agreements &gt; Offices of Treaty Affairs &gt; Agreement Texts, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Cet État partie a accepté les Recommandations XVI-10. <sup>b</sup> Cet État partie a accepté l’annexe V.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations, voir ci-après. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en anglais pourront être consultés à l’adresse du site Internet des États-Unis [www.state.gov](https://www.state.gov/depositary-information/) &gt; policy issues &gt; Treaties and International Agreements &gt; Office of Treaty Affairs &gt; Depositary Information ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Cet État partie a accepté les Recommandations XVI-10. <sup>b</sup> Cet État partie a accepté l’annexe V.</td></tr>
 </table>
 
-[^t-2]: [RO 2017 2841](https://fedlex.data.admin.ch/eli/oc/2017/297), [2020 1467](https://fedlex.data.admin.ch/eli/oc/2020/283). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2017 2841](https://fedlex.data.admin.ch/eli/oc/2017/297); [2020 1467](https://fedlex.data.admin.ch/eli/oc/2020/283); [2023 681](https://fedlex.data.admin.ch/eli/oc/2023/681). Une version du champ d'application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
 
 Déclaration de la Suisse
 

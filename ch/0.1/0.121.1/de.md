@@ -3,11 +3,11 @@ sr: "0.121.1"
 title: Umweltschutzprotokoll vom 4. Oktober 1991 zum Antarktis-Vertrag (mit Anhang und Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/297"
 language: de
-version: 2020-04-17
+version: 2023-11-22
 adopted: 1991-10-04
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/297/20200417/de/xml/fedlex-data-admin-ch-eli-cc-2017-297-20200417-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/297/20200417/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/297/20231122/de/xml/fedlex-data-admin-ch-eli-cc-2017-297-20231122-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/297/20231122/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,13 +26,13 @@ Schweizerische Ratifikationsurkunde hinterlegt am 2. Mai 2017
 
 In Kraft getreten für die Schweiz am 1. Juni 2017
 
-(Stand am 17. April 2020)
+(Stand am 22. November 2023)
 
 [^t-1]: [AS 2017 2835](https://fedlex.data.admin.ch/eli/oc/2017/295)
 
 *Präambel*
 
-Die Staaten, die Vertragsparteien dieses Protokolls zum Antarktis-Vertrag*[^ingress-1]* sind, im Folgenden als Vertragsparteien bezeichnet,
+Die Staaten, die Vertragsparteien dieses Protokolls zum Antarktis-Vertrag[^ingress-1] sind, im Folgenden als Vertragsparteien bezeichnet,
 
 überzeugt von der Notwendigkeit, den Schutz der antarktischen Umwelt sowie der abhängigen und verbundenen Ökosysteme zu verbessern;
 
@@ -52,7 +52,7 @@ in dem Wunsch, den Antarktis-Vertrag zu diesem Zweck zu erweitern,
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.121](https://fedlex.data.admin.ch/eli/cc/1990/1925_1925_1925)
+[^ingress-1]: [SR 0.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/43)
 
 #### Art. 1
 
@@ -412,7 +412,7 @@ Der Verwahrer notifiziert allen Vertragsparteien des Antarktis-Vertrags:
 
 <sup>(2)</sup> Der Verwahrer lässt dieses Protokoll nach Artikel 102 der Charta der Vereinten Nationen[^27-1] registrieren.
 
-[^27-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^27-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 (Es folgen die Unterschriften)
 
@@ -653,7 +653,7 @@ Im Sinne dieser Anlage:
 
 - i) bedeutet «Internationales Übereinkommen zur Regelung des Walfangs» das am 2. Dezember 1946[^annexII-lvlu1-1-1] in Washington beschlossene Übereinkommen.
 
-[^annexII-lvlu1-1-1]: [SR 0.922.74](https://fedlex.data.admin.ch/eli/cc/1980/1072_1072_1072)
+[^annexII-lvlu1-1-1]: [SR 0.922.74](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4078)
 
 #### Art. 2
 
@@ -741,7 +741,7 @@ Die Vertragsparteien treffen Vorkehrungen:
 
 Diese Anlage lässt die Rechte und Pflichten der Vertragsparteien aufgrund des Internationalen Übereinkommens zur Regelung des Walfangs[^annexII-lvlu1-7-1] unberührt.
 
-[^annexII-lvlu1-7-1]: [SR 0.922.74](https://fedlex.data.admin.ch/eli/cc/1980/1072_1072_1072)
+[^annexII-lvlu1-7-1]: [SR 0.922.74](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4078)
 
 #### Art. 8
 
@@ -960,7 +960,7 @@ Im Sinne dieser Anlage:
 - f) bedeutet «ölhaltiges Gemisch», ein Gemisch mit einem beliebigen Ölgehalt;
 - g) bedeutet «Schiff» ein Fahrzeug jeder Art, das in der Meeresumwelt betrieben wird; es umfasst Tragflächenboote, Luftkissenfahrzeuge, Unterwassergerät, schwimmendes Gerät oder feste oder schwimmende Plattformen.
 
-[^annexIV-lvlu1-1-1]: [SR 0.814.288.2](https://fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652)
+[^annexIV-lvlu1-1-1]: [SR 0.814.288.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3522)
 
 #### Art. 2
 
@@ -1315,72 +1315,73 @@ Die Vertragsparteien treffen Vorkehrungen:
 
 <sup>(2)</sup> Eine Änderung oder Ergänzung dieser Anlage, die nach Absatz 1 in Kraft tritt, tritt danach für jede andere Vertragspartei in Kraft, sobald ihre Genehmigungsanzeige beim Verwahrer eingegangen ist.
 
-Geltungsbereich am 17. April 2020**[^t-2]**
+Geltungsbereich am 22. November 2023[^t-2]
 
 <table>
-<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
-<tr><td>Argentinien\* <sup>a</sup> <sup>b</sup></td><td>28. Oktober</td><td>1993</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Australien <sup>a</sup> <sup>b</sup></td><td>6. April</td><td>1994</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Belarus</td><td>16. Juli</td><td>2008 B</td><td>15. August</td><td>2008</td></tr>
-<tr><td>Belgien <sup>a</sup> <sup>b</sup></td><td>26. April</td><td>1996</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Brasilien <sup>b</sup></td><td>15. August</td><td>1995</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Bulgarien <sup>a</sup> <sup>b</sup></td><td>21. April</td><td>1998 B</td><td>21. Mai</td><td>1998</td></tr>
-<tr><td>Chile <sup>b</sup></td><td>11. Januar</td><td>1995</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>China <sup>a</sup> <sup>b</sup></td><td>2. August</td><td>1994</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Deutschland <sup>a</sup> <sup>b</sup></td><td>25. November</td><td>1994</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Ecuador <sup>a</sup> <sup>b</sup></td><td>4. Januar</td><td>1993</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Finnland <sup>a</sup> <sup>b</sup></td><td>1. November</td><td>1996</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Frankreich <sup>a</sup> <sup>b</sup></td><td>5. Februar</td><td>1993</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Griechenland</td><td>23. Mai</td><td>1995</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Indien <sup>b</sup></td><td>26. April</td><td>1996</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Italien <sup>a</sup> <sup>b</sup></td><td>31. März</td><td>1995</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Japan <sup>a</sup> <sup>b</sup></td><td>15. Dezember</td><td>1997</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Kanada</td><td>13. November</td><td>2003</td><td>13. Dezember</td><td>2003</td></tr>
-<tr><td>Kolumbien</td><td>14. Februar</td><td>2020</td><td>14. März</td><td>2020</td></tr>
-<tr><td>Korea (Süd-) <sup>b</sup></td><td>2. Januar</td><td>1996</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Malaysia</td><td>14. September</td><td>2016 B</td><td>14. Oktober</td><td>2016</td></tr>
-<tr><td>Monaco</td><td>1. Juli</td><td>2009 B</td><td>31. Juli</td><td>2009</td></tr>
-<tr><td>Neuseeland <sup>b</sup></td><td>22. Dezember</td><td>1994</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Niederlande\* <sup>b</sup></td><td>14. April</td><td>1994</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Aruba\*</td><td>15. Oktober</td><td>2004</td><td>15. Oktober</td><td>2004</td></tr>
-<tr><td>Curaçao\*</td><td>15. Oktober</td><td>2004</td><td>15. Oktober</td><td>2004</td></tr>
-<tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)\*</td><td>15. Oktober</td><td>2004</td><td>15. Oktober</td><td>2004</td></tr>
-<tr><td>Sint Maarten\*</td><td>27. Oktober</td><td>2004</td><td>27. Oktober</td><td>2004</td></tr>
-<tr><td>Norwegen <sup>b</sup></td><td>16. Juni</td><td>1993</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Pakistan</td><td>1. März</td><td>2012 B</td><td>31. März</td><td>2012</td></tr>
-<tr><td>Peru <sup>a</sup> <sup>b</sup></td><td>8. März</td><td>1993</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Polen <sup>b</sup></td><td>1. November</td><td>1995</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Portugal</td><td>10. September</td><td>2014 B</td><td>10. Oktober</td><td>2014</td></tr>
-<tr><td>Rumänien <sup>a</sup></td><td>3. Februar</td><td>2003</td><td>5. März</td><td>2003</td></tr>
-<tr><td>Russland <sup>b</sup></td><td>6. August</td><td>1997</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Schweden <sup>a</sup> <sup>b</sup></td><td>30. März</td><td>1994</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Schweiz\*</td><td>2. Mai</td><td>2017</td><td>1. Juni</td><td>2017</td></tr>
-<tr><td>Spanien <sup>a</sup> <sup>b</sup></td><td>1. Juli</td><td>1992</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Südafrika <sup>b</sup></td><td>3. August</td><td>1995</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Tschechische Republik\* <sup>b</sup></td><td>25. August</td><td>2004</td><td>24. September</td><td>2004</td></tr>
-<tr><td>Türkei</td><td>27. September</td><td>2017 B</td><td>27. Oktober</td><td>2017</td></tr>
-<tr><td>Ukraine <sup>a</sup></td><td>25. Mai</td><td>2001 B</td><td>24. Juni</td><td>2001</td></tr>
-<tr><td>Uruguay <sup>b</sup></td><td>11. Januar</td><td>1995</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Venezuela</td><td>1. August</td><td>2014 B</td><td>31. August</td><td>2014</td></tr>
-<tr><td>Vereinigte Staaten <sup>a</sup> <sup>b</sup></td><td>17. April</td><td>1997</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Vereinigtes Königreich <sup>b</sup></td><td>25. April</td><td>1995</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Anguilla</td><td>25. April</td><td>1995</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Bermudas</td><td>25. April</td><td>1995</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Britische Jungferninseln</td><td>25. April</td><td>1995</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Britisches Antarktis-Territorium</td><td>25. April</td><td>1995</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Falklandinseln</td><td>25. April</td><td>1995</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Guernsey</td><td>25. April</td><td>1995</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Insel Man</td><td>25. April</td><td>1995</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Jersey</td><td>25. April</td><td>1995</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Kaimaninseln</td><td>25. April</td><td>1995</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Montserrat</td><td>25. April</td><td>1995</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>St. Helena und Nebengebiete (Ascension und Tristan da Cunha)</td><td>25. April</td><td>1995</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Südgeorgien und Südliche Sandwichinseln</td><td>25. April</td><td>1995</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td>Turks- und Caicosinseln</td><td>25. April</td><td>1995</td><td>14. Januar</td><td>1998</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen siehe hiernach. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite der Vereinigten Staaten: www.state.gov &gt; Policy Issues &gt; Treaties and International Agreements &gt; Offices of Treaty Affairs &gt; Agreement Texts eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Dieser Vertragsstaat hat Anlage V angenommen. <sup>b</sup> Dieser Vertragsstaat hat die Empfehlungen XVI-10 angenommen.</td></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th colspan="2"></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Argentinien\* <sup>a</sup> <sup>b</sup></td><td>28. Oktober</td><td colspan="2">1993</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Australien <sup>a</sup> <sup>b</sup></td><td>6. April</td><td colspan="2">1994</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Belarus <sup>a</sup></td><td>16. Juli</td><td colspan="2">2008 B</td><td>15. August</td><td>2008</td></tr>
+<tr><td>Belgien <sup>a</sup> <sup>b</sup></td><td>26. April</td><td colspan="2">1996</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Brasilien <sup>a</sup> <sup>b</sup></td><td colspan="2">15. August</td><td>1995</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Bulgarien <sup>a</sup> <sup>b</sup></td><td>21. April</td><td colspan="2">1998 B</td><td>21. Mai</td><td>1998</td></tr>
+<tr><td>Chile <sup>a</sup> <sup>b</sup></td><td colspan="2">11. Januar</td><td>1995</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>China <sup>a</sup></td><td colspan="2">2. August</td><td>1994</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Deutschland <sup>a</sup> <sup>b</sup></td><td>25. November</td><td colspan="2">1994</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Ecuador <sup>a</sup> <sup>b</sup></td><td>4. Januar</td><td colspan="2">1993</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Finnland <sup>a</sup> <sup>b</sup></td><td>1. November</td><td colspan="2">1996</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Frankreich <sup>a</sup> <sup>b</sup></td><td>5. Februar</td><td colspan="2">1993</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Griechenland</td><td>23. Mai</td><td colspan="2">1995</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Indien <sup>a b</sup></td><td colspan="2">26. April</td><td>1996</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Italien <sup>a</sup> <sup>b</sup></td><td>31. März</td><td colspan="2">1995</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Japan <sup>a</sup> <sup>b</sup></td><td>15. Dezember</td><td colspan="2">1997</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Kanada <sup>a</sup></td><td colspan="2">13. November</td><td>2003</td><td>13. Dezember</td><td>2003</td></tr>
+<tr><td>Kolumbien <sup>a</sup></td><td colspan="2">13. Februar</td><td>2020</td><td>14. März</td><td>2020</td></tr>
+<tr><td>Korea (Süd-) <sup>a</sup> <sup>b</sup></td><td colspan="2">2. Januar</td><td>1996</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Malaysia</td><td colspan="2">15. August</td><td>2016 B</td><td>14. September</td><td>2016</td></tr>
+<tr><td>Monaco</td><td>1. Juli</td><td colspan="2">2009 B</td><td>31. Juli</td><td>2009</td></tr>
+<tr><td>Neuseeland <sup>a</sup> <sup>b</sup></td><td colspan="2">22. Dezember</td><td>1994</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Niederlande\* <sup>a</sup> <sup>b</sup></td><td colspan="2">14. April</td><td>1994</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Aruba\*</td><td>15. Oktober</td><td colspan="2">2004</td><td>15. Oktober</td><td>2004</td></tr>
+<tr><td>Curaçao\*</td><td>15. Oktober</td><td colspan="2">2004</td><td>15. Oktober</td><td>2004</td></tr>
+<tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)\*</td><td>15. Oktober</td><td colspan="2">2004</td><td>15. Oktober</td><td>2004</td></tr>
+<tr><td>Sint Maarten\*</td><td>27. Oktober</td><td colspan="2">2004</td><td>27. Oktober</td><td>2004</td></tr>
+<tr><td>Norwegen <sup>a b</sup></td><td colspan="2">16. Juni</td><td>1993</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Österreich\* <sup>a</sup></td><td colspan="2">27. Juli</td><td>2021</td><td>26. August</td><td>2021</td></tr>
+<tr><td>Pakistan</td><td>1. März</td><td colspan="2">2012 B</td><td>31. März</td><td>2012</td></tr>
+<tr><td>Peru <sup>a</sup> <sup>b</sup></td><td>8. März</td><td colspan="2">1993</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Polen <sup>a</sup> <sup>b</sup></td><td colspan="2">1. November</td><td>1995</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Portugal</td><td>10. September</td><td colspan="2">2014 B</td><td>10. Oktober</td><td>2014</td></tr>
+<tr><td>Rumänien <sup>a</sup></td><td>3. Februar</td><td colspan="2">2003</td><td>5. März</td><td>2003</td></tr>
+<tr><td>Russland <sup>a b</sup></td><td colspan="2">6. August</td><td>1997</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Schweden <sup>a</sup> <sup>b</sup></td><td>30. März</td><td colspan="2">1994</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Schweiz\*</td><td>2. Mai</td><td colspan="2">2017</td><td>1. Juni</td><td>2017</td></tr>
+<tr><td>Spanien <sup>a</sup> <sup>b</sup></td><td>1. Juli</td><td colspan="2">1992</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Südafrika <sup>a</sup> <sup>b</sup></td><td colspan="2">3. August</td><td>1995</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Tschechische Republik\* <sup>a</sup> <sup>b</sup></td><td colspan="2">25. August</td><td>2004</td><td>24. September</td><td>2004</td></tr>
+<tr><td>Türkei</td><td>27. September</td><td colspan="2">2017 B</td><td>27. Oktober</td><td>2017</td></tr>
+<tr><td>Ukraine <sup>a</sup></td><td>25. Mai</td><td colspan="2">2001 B</td><td>24. Juni</td><td>2001</td></tr>
+<tr><td>Uruguay <sup>a</sup> <sup>b</sup></td><td colspan="2">11. Januar</td><td>1995</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Venezuela</td><td>1. August</td><td colspan="2">2014 B</td><td>31. August</td><td>2014</td></tr>
+<tr><td>Vereinigte Staaten <sup>a</sup> <sup>b</sup></td><td>17. April</td><td colspan="2">1997</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Vereinigtes Königreich <sup>a</sup> <sup>b</sup></td><td colspan="2">25. April</td><td>1995</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Anguilla</td><td>25. April</td><td colspan="2">1995</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Bermudas</td><td>25. April</td><td colspan="2">1995</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Britische Jungferninseln</td><td>25. April</td><td colspan="2">1995</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Britisches Antarktis-Territorium</td><td>25. April</td><td colspan="2">1995</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Falklandinseln</td><td>25. April</td><td colspan="2">1995</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Guernsey</td><td>25. April</td><td colspan="2">1995</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Insel Man</td><td>25. April</td><td colspan="2">1995</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Jersey</td><td>25. April</td><td colspan="2">1995</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Kaimaninseln</td><td>25. April</td><td colspan="2">1995</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Montserrat</td><td>25. April</td><td colspan="2">1995</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>St. Helena und Nebengebiete (Ascension und Tristan da Cunha)</td><td>25. April</td><td colspan="2">1995</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Südgeorgien und Südliche Sandwichinseln</td><td>25. April</td><td colspan="2">1995</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td>Turks- und Caicosinseln</td><td>25. April</td><td colspan="2">1995</td><td>14. Januar</td><td>1998</td></tr>
+<tr><td colspan="6">\* Vorbehalte und Erklärungen siehe hiernach. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite der Vereinigten Staaten: www.state.gov &gt; Policy Issues &gt; Treaties and International Agreements &gt; Offices of Treaty Affairs &gt; Depository Information eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Dieser Vertragsstaat hat Anlage V angenommen. <sup>b</sup> Dieser Vertragsstaat hat die Empfehlungen XVI-10 angenommen.</td></tr>
 </table>
 
-[^t-2]: [AS 2017 2841](https://fedlex.data.admin.ch/eli/oc/2017/297), [2020 1467](https://fedlex.data.admin.ch/eli/oc/2020/283). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2017 2841](https://fedlex.data.admin.ch/eli/oc/2017/297); [2020 1467](https://fedlex.data.admin.ch/eli/oc/2020/283); [2023 681](https://fedlex.data.admin.ch/eli/oc/2023/681). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Erklärung der Schweiz
 
