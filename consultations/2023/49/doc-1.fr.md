@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Adaptation des dispositions concernant la reconnaissance d’organes d’expertise technique dans le domaine des véhicules routiers – révision partielle de trois ordonnances
 document: Projet mis en consultation
 language: fr

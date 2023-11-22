@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Anpassung der Bestimmungen über die Anerkennung technischer Prüfstellen im Bereich der Strassenfahrzeuge – Teilrevision von drei Verordnungen
 document: Vernehmlassungsvorlage-3
 language: de

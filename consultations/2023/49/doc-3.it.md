@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Adeguamento delle disposizioni sul riconoscimento degli organi specializzati nel controllo tecnico dei veicoli stradali – Revisione parziale di tre ordinanze
 document: Progetto posto in consultazione-2
 language: it
