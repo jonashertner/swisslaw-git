@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione del Codice civile svizzero (Educazione non violenta)
 document: Progetto posto in consultazione
 language: it

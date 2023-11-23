@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Zivilgesetzbuches (Gewaltfreie Erziehung)
 document: Vernehmlassungsvorlage
 language: de

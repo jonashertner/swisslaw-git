@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision du Code civil suisse (Éducation sans violence)
 document: Projet mis en consultation
 language: fr
