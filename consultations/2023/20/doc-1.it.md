@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Diritto d’esecuzione concernente la legge federale sulla promozione della formazione in cure infermieristiche ed entrata in vigore definitiva della legge sulle professioni sanitarie (attuazione della 1ª tappa dell’iniziativa sulle cure infermieristiche)
 document: Progetto posto in consultazione-4
 language: it

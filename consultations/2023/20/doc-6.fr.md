@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Droit d’exécution concernant la loi fédérale relative à l’encouragement de la formation dans le domaine des soins infirmiers et entrée en vigueur définitive de la loi fédérale sur les professions de la santé (mise en œuvre de la 1re étape de l’initiative sur les soins infirmiers)
 document: Projet mis en consultation-3
 language: fr

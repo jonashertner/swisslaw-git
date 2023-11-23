@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ausführungsrecht zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege und abschliessende Inkraftsetzung des Gesundheitsberufegesetzes (Umsetzung der 1. Etappe der Pflegeinitiative)
 document: Vernehmlassungsvorlage-6
 language: de
