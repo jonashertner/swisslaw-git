@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 20.406 n Iv. pa. Silberschmidt. Gli imprenditori che pagano i contributi per l’assicurazione contro la disoccupazione devono anche essere assicurati contro la disoccupazione
 document: Progetto posto in consultazione
 language: it

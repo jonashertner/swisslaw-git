@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 20.406 n Iv. pa. Silberschmidt. Les entrepreneurs qui versent des cotisations à l’assurance-chômage doivent être assurés eux aussi contre le chômage
 document: Projet mis en consultation
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "20.406 n Pa. Iv. Silberschmidt. Unternehmerinnen und Unternehmer, welche Beiträge an die Arbeitslosenversicherung bezahlen, sollen auch gegen Arbeitslosigkeit versichert sein"
 document: Vernehmlassungsvorlage
 language: de
