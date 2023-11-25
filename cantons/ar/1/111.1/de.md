@@ -3,20 +3,20 @@ canton: AR
 number: "111.1"
 title: Verfassung des Kantons Appenzell A.Rh.
 language: de
-version: 2015-06-01
-valid_until: 2023-11-25
-version_adopted: 2014-05-18
+version: 2023-11-26
+valid_until: 2026-12-31
+version_adopted: 2023-11-26
 adopted: 1995-04-30
 in_force: 1996-05-01
 url: "https://ar.clex.ch/app/de/texts_of_law/111.1"
-pdf: "https://ar.clex.ch/api/de/versions/1314/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1512/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verfassung des Kantons Appenzell A.Rh.
 
-vom 30.04.1995 (Stand 01.06.2015)
+vom 30.04.1995 (Stand 26.11.2023)
 
 Von der Landsgemeinde erlassen am 30. April 1995
 
@@ -42,7 +42,7 @@ Im Bewusstsein, dass das Wohl der Gemeinschaft und das Wohl der Einzelnen untren
 
 **Kantonsgebiet**
 
-<sup>1</sup> Der Kanton Appenzell Ausserrhoden besteht aus den Gemeinden Urnäsch, Herisau, Schwellbrunn, Hundwil, Stein, Schönengrund, Waldstatt, Teufen, Bühler, Gais, Speicher, Trogen, Rehetobel, Wald, Grub, Heiden, Wolfhalden, Lutzenberg, Walzenhausen und Reute.
+<sup>1</sup> Der Kanton Appenzell Ausserrhoden gliedert sich in Gemeinden. Das Gesetz regelt Bestand und Gebiet der Gemeinden.
 
 #### Art. 3
 
@@ -1063,6 +1063,16 @@ Im Bewusstsein, dass das Wohl der Gemeinschaft und das Wohl der Einzelnen untren
 <sup>1</sup> Die Autonomie der Gemeinden ist gewährleistet. Ihr Umfang ist durch das kantonale und das eidgenössische Recht bestimmt.
 
 <sup>2</sup> Alle kantonalen Organe wahren eine möglichst grosse Selbständigkeit der Gemeinden.
+
+#### Art. 101bis
+
+**Bestandes und Gebietsänderungen**
+
+<sup>1</sup> Bestandes- und Gebietsänderungen benötigen die Zustimmung der Stimmberechtigten jeder betroffenen Gemeinde.
+
+<sup>2</sup> Der Kanton leistet administrative und finanzielle Unterstützung an Gemeinden, die sich zusammenschliessen wollen.
+
+<sup>3</sup> Das Gesetz regelt das Nähere.
 
 #### Art. 102
 
