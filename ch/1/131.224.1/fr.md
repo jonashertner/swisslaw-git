@@ -3,11 +3,11 @@ sr: "131.224.1"
 title: "Constitution du canton d'Appenzell (Rh.-Ext.), du 30 avril 1995"
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/1_1021_965_841_fga"
 language: fr
-version: 2015-03-11
+version: 2023-11-26
 adopted: 1995-04-30
 in_force: 1996-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1_1021_965_841_fga/20150311/fr/xml/fedlex-data-admin-ch-eli-cc-1996-1_1021_965_841_fga-20150311-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/1_1021_965_841_fga/20150311/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1_1021_965_841_fga/20231126/fr/xml/fedlex-data-admin-ch-eli-cc-1996-1_1021_965_841_fga-20231126-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1_1021_965_841_fga/20231126/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,10 +16,10 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/1_1021_965_841_fga/20150311/fr"
 
 Traduction[^t-1]
 
-du 30 avril 1995 (État le 11 mars 2015)[^t-2]
+du 30 avril 1995 (État le 26 novembre 2023)[^t-2]
 
 [^t-1]: Le texte en langue originale est publié, sous le même chiffre, dans l’édition allemande du présent recueil.
-[^t-2]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
+[^t-2]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale.
 
 Nous, femmes et hommes d’Appenzell Rhodes-Extérieures, voulons respecter dans la foi la création dans sa diversité.
 
@@ -43,7 +43,9 @@ Conscients du lien indissoluble entre le bien de la communauté et celui de l’
 
 **Territoire cantonal**
 
-Le canton d’Appenzell Rhodes-Extérieures se compose des communes d’Urnäsch, de Herisau, Schwellbrunn, Hundwil, Stein, Schönengrund, Waldstatt, Teufen, Bühler, Gais, Speicher, Trogen, Rehetobel, Wald, Grub, Heiden, Wolfhalden, Lutzenberg, Walzenhausen et Reute.
+Le canton d’Appenzell Rhodes-Extérieures est divisé en communes. La loi règle l’existence et le territoire des communes.[^2-1]
+
+[^2-1]: Accepté en [votation populaire du 26 nov. 2023](http://www.admin.ch/ch/f/pore/va/20231126/index.html), en vigueur depuis le 26 nov. 2023. Garantie de l’Ass. féd. du 17 mars 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 5; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 3
 
@@ -1173,6 +1175,18 @@ Toute dépense présuppose une base juridique, un crédit et une décision de l�
 
 <sup>2</sup> Les organes cantonaux accordent aux communes la plus grande autonomie possible.
 
+#### Art. 101<sup>bis</sup>
+
+**Modification du nombre et du territoire des communes**[^101bis-1]
+
+<sup>1</sup> La modification du nombre et du territoire des communes est soumise à l’approbation du corps électoral de chaque commune concernée.
+
+<sup>2</sup> Le canton apporte un soutien administratif et financier aux communes qui ont l’intention de fusionner.
+
+<sup>3</sup> La loi fixe les modalités.
+
+[^101bis-1]: Accepté en [votation populaire du 26 nov. 2023](http://www.admin.ch/ch/f/pore/va/20231126/index.html), en vigueur depuis le 26 nov. 2023. Garantie de l’Ass. féd. du 17 mars 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 5; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+
 #### Art. 102
 
 **Organisation**
@@ -1384,7 +1398,6 @@ Autonomie
 Canton
 
 - – administration 93
-- – banque cantonale 2
 - – principes 1
 - – territoire cantonal 2
 - – Tribunal cantonal 94<sup>1c</sup>, v. aussi Tribunaux
@@ -1439,8 +1452,10 @@ Commun, vie en commun
 - – droit de cité 3
 - – droit de vote 105
 - – droit d’initiative 106
+- – fusion 101<sup>bis</sup>
 - – loi communale 107
 - – organisation 102
+- – nombre et territoire 101<sup>bis</sup>
 - – parlement communal 102<sup>3</sup>
 - – péréquation financière 104
 - – relations des communes entre elles et avec le canton 103

@@ -3,20 +3,20 @@ sr: "131.224.1"
 title: "Verfassung des Kantons Appenzell A. Rh., vom 30. April 1995"
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/1_1021_965_841_fga"
 language: de
-version: 2015-03-11
+version: 2023-11-26
 adopted: 1995-04-30
 in_force: 1996-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1_1021_965_841_fga/20150311/de/xml/fedlex-data-admin-ch-eli-cc-1996-1_1021_965_841_fga-20150311-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/1_1021_965_841_fga/20150311/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1_1021_965_841_fga/20231126/de/xml/fedlex-data-admin-ch-eli-cc-1996-1_1021_965_841_fga-20231126-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1_1021_965_841_fga/20231126/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verfassung des Kantons Appenzell Ausserrhoden
 
-vom 30. April 1995 (Stand am 11. März 2015)[^t-1]
+vom 30. April 1995 (Stand am 26. November 2023)[^t-1]
 
-[^t-1]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
+[^t-1]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen.
 
 Im Vertrauen auf Gott wollen wir, Frauen und Männer von Appenzell Ausserrhoden, die Schöpfung in ihrer Vielfalt achten.
 
@@ -40,7 +40,9 @@ Im Bewusstsein, dass das Wohl der Gemeinschaft und das Wohl der Einzelnen untren
 
 **Kantonsgebiet**
 
-Der Kanton Appenzell Ausserrhoden besteht aus den Gemeinden Urnäsch, Herisau, Schwellbrunn, Hundwil, Stein, Schönengrund, Waldstatt, Teufen, Bühler, Gais, Speicher, Trogen, Rehetobel, Wald, Grub, Heiden, Wolfhalden, Lutzenberg, Walzenhausen und Reute.
+Der Kanton Appenzell Ausserrhoden gliedert sich in Gemeinden. Das Gesetz regelt Bestand und Gebiet der Gemeinden.[^2-1]
+
+[^2-1]: Angenommen in der [Volksabstimmung vom 26. Nov. 2023](http://www.admin.ch/ch/d/pore/va/20231126/index.html), in Kraft seit 26. Nov. 2023. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 5; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 3
 
@@ -1155,6 +1157,18 @@ Jede Ausgabe setzt eine Rechtsgrundlage, einen entsprechenden Kredit sowie einen
 
 <sup>2</sup> Alle kantonalen Organe wahren eine möglichst grosse Selbständigkeit der Gemeinden.
 
+#### Art. 101<sup>bis</sup>
+
+**Bestandes- und Gebietsänderungen**[^101bis-1]
+
+<sup>1</sup> Bestandes- und Gebietsänderungen benötigen die Zustimmung der Stimmberechtigten jeder betroffenen Gemeinde.
+
+<sup>2</sup> Der Kanton leistet administrative und finanzielle Unterstützung an Gemeinden, die sich zusammenschliessen wollen.
+
+<sup>3</sup> Das Gesetz regelt das Nähere.
+
+[^101bis-1]: Angenommen in der [Volksabstimmung vom 26. Nov. 2023](http://www.admin.ch/ch/d/pore/va/20231126/index.html), in Kraft seit 26. Nov. 2023. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 5; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+
 #### Art. 102
 
 **Organisation**
@@ -1475,6 +1489,7 @@ Garantien
 **Gemeinden** 2, 100–107
 
 - – Arten 100
+- – Bestandes- und Gebietsänderungen 101<sup>bis</sup>
 - – Bürgergemeinden 115
 - – Bürgerrecht 3
 - – Finanzausgleich 104

@@ -3,11 +3,11 @@ sr: "131.224.1"
 title: "Costituzione del Cantone di Appenzello Esterno, del 30 aprile 1995"
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/1_1021_965_841_fga"
 language: it
-version: 2015-03-11
+version: 2023-11-26
 adopted: 1995-04-30
 in_force: 1996-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1_1021_965_841_fga/20150311/it/xml/fedlex-data-admin-ch-eli-cc-1996-1_1021_965_841_fga-20150311-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/1_1021_965_841_fga/20150311/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1_1021_965_841_fga/20231126/it/xml/fedlex-data-admin-ch-eli-cc-1996-1_1021_965_841_fga-20231126-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1_1021_965_841_fga/20231126/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,10 +16,10 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/1_1021_965_841_fga/20150311/it"
 
 Traduzione[^t-1]
 
-del 30 aprile 1995 (Stato 11 marzo 2015)[^t-2]
+del 30 aprile 1995 (Stato 26 novembre 2023)[^t-2]
 
 [^t-1]: Il testo nella lingua originale è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
-[^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell’ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
+[^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi.
 
 Confidando in Dio, noi, donne e uomini di Appenzello Esterno, vogliamo rispettare il Creato nella sua molteplicità.
 
@@ -43,7 +43,9 @@ Consapevoli che il bene della comunità e il bene del singolo sono indissolubilm
 
 **Territorio cantonale**
 
-Il Cantone di Appenzello Esterno è composto dei Comuni di Urnäsch, Herisau, Schwellbrunn, Hundwil, Stein, Schönengrund, Waldstatt, Teufen, Bühler, Gais, Speicher, Trogen, Rehetobel, Wald, Grub, Heiden, Wolfhalden, Lutzenberg, Walzenhausen e Reute.
+Il Cantone di Appenzello Esterno è suddiviso in Comuni. La legge disciplina l’esistenza e il territorio dei Comuni.[^2-1]
+
+[^2-1]: Accettata nella [votazione popolare del 26. nov. 2023](http://www.admin.ch/ch/i/pore/va/20231126/index.html), in vigore dal 26.nov. 2023. Garanzia dell’AF del 17 mar. 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 5; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 3
 
@@ -1171,6 +1173,18 @@ Qualsiasi spesa presuppone una base giuridica, un pertinente credito e una decis
 <sup>1</sup> L’autonomia dei Comuni è garantita. La sua estensione è determinata dal diritto cantonale e dal diritto federale.
 
 <sup>2</sup> Tutti gli organi cantonali accordano ai Comuni un margine d’azione quanto ampio possibile.
+
+#### Art. 101<sup>bis</sup>
+
+**Modifica del numero e del territorio dei Comuni**[^101bis-1]
+
+<sup>1</sup> La modifica del numero e del territorio dei Comuni richiede il consenso degli aventi diritto di voto di ciascun Comune interessato.
+
+<sup>2</sup> Il Cantone fornisce supporto amministrativo e finanziario ai Comuni che intendono fondersi.
+
+<sup>3</sup> La legge disciplina i particolari.
+
+[^101bis-1]: Accettata nella [votazione popolare del 26. nov. 2023](http://www.admin.ch/ch/i/pore/va/20231126/index.html), in vigore dal 26.nov. 2023. Garanzia dell’AF del 17 mar. 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 5; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 102
 
