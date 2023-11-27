@@ -3,18 +3,18 @@ sr: "946.231.178.5"
 title: "Ordonnance du 28 mars 2018 instituant des mesures à l'encontre du Venezuela"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/191"
 language: fr
-version: 2023-01-24
+version: 2023-11-28
 adopted: 2018-03-28
 in_force: 2018-03-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/191/20230124/fr/xml/fedlex-data-admin-ch-eli-cc-2018-191-20230124-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/191/20230124/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/191/20231128/fr/xml/fedlex-data-admin-ch-eli-cc-2018-191-20231128-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/191/20231128/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Venezuela
 
-du 28 mars 2018 (État le 24 janvier 2023)
+du 28 mars 2018 (État le 28 novembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -182,8 +182,8 @@ Annexe 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Mise à jour par le ch. I des O du DEFR du 9 juil. 2018 ([RO 2018 2571](https://fedlex.data.admin.ch/eli/oc/2018/382)), du 15 nov. 2018 ([RO 2018 4005](https://fedlex.data.admin.ch/eli/oc/2018/645)), du 5 août 2019 ([RO 2019 2473](https://fedlex.data.admin.ch/eli/oc/2019/460)), du 10 oct. 2019 ([RO 2019 3117](https://fedlex.data.admin.ch/eli/oc/2019/574)), du 21 nov. 2019 ([RO 2019 3695](https://fedlex.data.admin.ch/eli/oc/2019/670)), du 6 juil. 2020 ([RO 2020 2833](https://fedlex.data.admin.ch/eli/oc/2020/516)), du 26 nov. 2020 ([RO 2020 4935](https://fedlex.data.admin.ch/eli/oc/2020/879)), du 18 mars 2021 ([RO 2021 155](https://fedlex.data.admin.ch/eli/oc/2021/155)), du 23 nov. 2021 ([RO 2021 746](https://fedlex.data.admin.ch/eli/oc/2021/746)) et du 23 janv. 2023, en vigueur depuis le 24 janv. 2023 à 18 heures ([RO 2023 27](https://fedlex.data.admin.ch/eli/oc/2023/27)).
-[^annex1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/27](https://fedlex.data.admin.ch/eli/oc/2023/27) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-1]: Mise à jour par le ch. I des O du DEFR du 9 juil. 2018 ([RO 2018 2571](https://fedlex.data.admin.ch/eli/oc/2018/382)), du 15 nov. 2018 ([RO 2018 4005](https://fedlex.data.admin.ch/eli/oc/2018/645)), du 5 août 2019 ([RO 2019 2473](https://fedlex.data.admin.ch/eli/oc/2019/460)), du 10 oct. 2019 ([RO 2019 3117](https://fedlex.data.admin.ch/eli/oc/2019/574)), du 21 nov. 2019 ([RO 2019 3695](https://fedlex.data.admin.ch/eli/oc/2019/670)), du 6 juil. 2020 ([RO 2020 2833](https://fedlex.data.admin.ch/eli/oc/2020/516)), du 26 nov. 2020 ([RO 2020 4935](https://fedlex.data.admin.ch/eli/oc/2020/879)), du 18 mars 2021 ([RO 2021 155](https://fedlex.data.admin.ch/eli/oc/2021/155)), du 23 nov. 2021 ([RO 2021 746](https://fedlex.data.admin.ch/eli/oc/2021/746)), du 23 janv. 2023 ([RO 2023 27](https://fedlex.data.admin.ch/eli/oc/2023/27)) et du 27 nov. 2023, en vigueur depuis le 28 nov. 2023 à 18 heures ([RO 2023 693](https://fedlex.data.admin.ch/eli/oc/2023/693)).
+[^annex1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/693](https://fedlex.data.admin.ch/eli/oc/2023/693) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 2
 
