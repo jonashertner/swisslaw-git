@@ -3,20 +3,20 @@ canton: LU
 number: 736a
 title: Beschluss über die gemeindeweise Inkraftsetzung von neuen Bestimmungen im Planungs- und Baurecht
 language: de
-version: 2023-10-31
-valid_until: 2023-11-27
-version_adopted: 2023-10-31
+version: 2023-11-28
+valid_until: 2023-12-11
+version_adopted: 2023-11-28
 adopted: 2017-07-04
 in_force: 2017-07-04
 url: "https://srl.lu.ch/app/de/texts_of_law/736a"
-pdf: "https://srl.lu.ch/api/de/versions/4135/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4140/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss über die gemeindeweise Inkraftsetzung von neuen Bestimmungen im Planungs- und Baurecht
 
-vom 04.07.2017 (Stand 31.10.2023)
+vom 04.07.2017 (Stand 28.11.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -65,6 +65,8 @@ beschliesst:
 <tr><td>Sempach</td><td>5. April 2022</td><td>4. Juli 2023</td></tr>
 <tr><td>Ufhusen</td><td>1. Dezember 2022</td><td>8. September 2023</td></tr>
 <tr><td>Schwarzenberg</td><td>7. Juli 2022</td><td>31. Oktober 2023</td></tr>
+<tr><td>Hildisrieden</td><td>23. Mai 2023</td><td>28. November 2023</td></tr>
+<tr><td>Schlierbach</td><td>20. Juni 2023</td><td>28. November 2023</td></tr>
 </table>
 
 [^Ziff1-1]: SRL Nr. [735](https://srl.lu.ch/data/735/de)
