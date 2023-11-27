@@ -4,13 +4,13 @@ number: "494.310"
 title: Verordnung zum Gesetz über die Förderung der Kultur
 short: "Kulturförderungsverordnung, KFV"
 language: de
-version: 2018-01-01
-corrected: 2018-01-08
-version_adopted: 2017-12-12
+version: 2020-01-01
+corrected: 2023-11-28
+version_adopted: 2020-10-13
 adopted: 2017-12-12
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/494.310"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2842/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3085/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2842/pdf_file"
 
 (Kulturförderungsverordnung, KFV)
 
-Vom 12.12.2017 (Stand 01.01.2018)
+Vom 12.12.2017 (Stand 01.01.2020)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
 
@@ -173,11 +173,19 @@ von der Regierung erlassen am 12. Dezember 2017
 
 #### Art. 16
 
-**Anrechenbare Kosten**
+**Anrechenbare Kosten und Unterrichtsfächer**
 
 <sup>1</sup> Der Beitrag je Unterrichtseinheit errechnet sich aus dem subventionsberechtigten Stundenansatz für eine Primarlehrperson gemäss Schulgesetz[^16-1] zuzüglich 20 Prozent Lohnnebenkosten sowie 20 Prozent übrige Kosten.
 
 <sup>2</sup> Eine anrechenbare Unterrichtseinheit dauert 60 Minuten.
+
+<sup>3</sup> Subventionierte Unterrichtsfächer/-bereiche sind:
+
+- a) musikalische Grundausbildung (Früherziehung und/oder Grundschulung);
+- b) breitgefächerter Instrumental- und Vokalunterricht (verschiedene Unterrichtsformen);
+- c) gemeinsames Musizieren (Ensemble, Chor, Orchester);
+- d) Tanzen und Ballett;
+- e) Ergänzungsfächer (Rhythmik, Theoriefächer in den Bereichen Musik, Tanzen und Ballett).
 
 [^16-1]: BR [421.000](https://www.gr-lex.gr.ch/data/421.000/de)
 

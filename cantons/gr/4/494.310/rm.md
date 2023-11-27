@@ -4,13 +4,13 @@ number: "494.310"
 title: Ordinaziun tar la lescha davart la promoziun da la cultura
 short: "ordinaziun davart la promoziun da la cultura, OPC"
 language: rm
-version: 2018-01-01
-corrected: 2018-01-08
-version_adopted: 2017-12-12
+version: 2020-01-01
+corrected: 2023-11-28
+version_adopted: 2020-10-13
 adopted: 2017-12-12
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/494.310"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2842/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3085/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2842/pdf_file"
 
 (ordinaziun davart la promoziun da la cultura, OPC)
 
-dals 12-12-2017 (versiun dals 01-01-2018)
+dals 12-12-2017 (versiun dals 01-01-2020)
 
 Sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1]
 
@@ -135,7 +135,7 @@ relaschada da la regenza ils 12 da december 2017
 <sup>1</sup> La premissa per sustegnair projects scientifics per perscrutar il spazi cultural e vital dal Grischun èn:
 
 - a) la qualificaziun da las persunas exequentas;
-- b) l'impurtanza dal project per la pescrutaziun da la cultura grischuna.
+- b) l'impurtanza dal project per la perscrutaziun da la cultura grischuna.
 
 #### Art. 12
 
@@ -173,11 +173,19 @@ relaschada da la regenza ils 12 da december 2017
 
 #### Art. 16
 
-**Custs imputabels**
+**Custs imputabels e roms d'instrucziun**
 
 <sup>1</sup> La contribuziun per unitad d'instrucziun vegn calculada or da la tariffa per ura cun dretg da survegnir subvenziuns per ina persuna d'instrucziun da la scola primara tenor la lescha da scola[^16-1], plus 20 pertschient custs accessorics al salari sco er 20 pertschient ulteriurs custs.
 
 <sup>2</sup> Ina unitad d'instrucziun imputabla dura 60 minutas.
+
+<sup>3</sup> Ils roms/secturs d'instrucziun subvenziunads èn:
+
+- a) scolaziun musicala da basa (educaziun prescolara e/u scolaziun da basa);
+- b) instrucziun instrumentala e vocala diversifitgada (differentas furmas d'instrucziun);
+- c) far cuminaivlamain musica (ensemble, chor, orchester);
+- d) saut e ballet;
+- e) roms cumplementars (ritmica, roms teoretics en ils secturs musica, saut e ballet).
 
 [^16-1]: DG [421.000](https://www.gr-lex.gr.ch/data/421.000/rm)
 

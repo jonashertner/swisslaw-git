@@ -4,13 +4,13 @@ number: "494.310"
 title: Ordinanza relativa alla legge sulla promozione della cultura
 short: "Ordinanza sulla promozione della cultura, OPCult"
 language: it
-version: 2018-01-01
-corrected: 2018-01-08
-version_adopted: 2017-12-12
+version: 2020-01-01
+corrected: 2023-11-28
+version_adopted: 2020-10-13
 adopted: 2017-12-12
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/494.310"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2842/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3085/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2842/pdf_file"
 
 (Ordinanza sulla promozione della cultura, OPCult)
 
-del 12.12.2017 (stato 01.01.2018)
+del 12.12.2017 (stato 01.01.2020)
 
 emanata dal Governo il 12 dicembre 2017
 
@@ -173,11 +173,19 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 #### Art. 16
 
-**Spese computabili**
+**Spese computabili e materie d'insegnamento**
 
 <sup>1</sup> Il contributo per ogni unità d'insegnamento si calcola a partire dall'aliquota oraria avente diritto a contributi per un insegnante di scuola elementare conformemente alla legge scolastica[^16-1], aggiungendo il 20 per cento per gli oneri complementari del lavoro nonché il 20 per cento per altre spese.
 
 <sup>2</sup> Un'unità d'insegnamento computabile dura 60 minuti.
+
+<sup>3</sup> Sono materie/settori d'insegnamento sovvenzionati:
+
+- a) formazione musicale di base (educazione prescolare e/o istruzione di base);
+- b) ampio insegnamento strumentale e vocale (diverse forme d'insegnamento);
+- c) attività musicale in gruppo (ensemble, coro, orchestra);
+- d) danza e balletto;
+- e) materie complementari (ritmica, materie teoriche nei settori musica, danza e balletto).
 
 [^16-1]: CSC [421.000](https://www.gr-lex.gr.ch/data/421.000/it)
 
