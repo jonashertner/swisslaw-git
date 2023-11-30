@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 20. Juni 1986 über die Jagd und den Schutz wildlebende
 short: JSG
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/506_506_506"
 language: de
-version: 2023-09-01
+version: 2023-12-01
 adopted: 1986-06-20
 in_force: 1988-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/506_506_506/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1988-506_506_506-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/506_506_506/20231201/de/xml/fedlex-data-admin-ch-eli-cc-1988-506_506_506-20231201-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20231201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20230901/de"
 
 (Jagdgesetz, JSG)
 
-vom 20. Juni 1986 (Stand am 1. September 2023)
+vom 20. Juni 1986 (Stand am 1. Dezember 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -139,17 +139,37 @@ Während des ganzen Jahres können gejagt werden:
 
 <sup>1</sup> Alle Tiere nach Artikel 2, die nicht zu einer jagdbaren Art gehören, sind geschützt (geschützte Arten).
 
-<sup>2</sup> Die Kantone können mit vorheriger Zustimmung des Bundesamts für Umwelt[^7-1] (Bundesamt) den Abschuss von geschützten Tieren vorsehen, soweit der Schutz der Lebensräume oder die Erhaltung der Artenvielfalt es verlangt. Der Bundesrat bezeichnet die unter diese Bestimmung fallenden Arten.
-
-<sup>3</sup> Steinböcke können zur Regulierung der Bestände zwischen dem 1. September und dem 30. November gejagt werden. Die Kantone unterbreiten jährlich dem Departement eine Abschussplanung zur Genehmigung. Der Bundesrat erlässt die entsprechenden Vorschriften.
+<sup>2</sup> und <sup>3</sup> …[^7-1]
 
 <sup>4</sup> Die Kantone sorgen für einen ausreichenden Schutz der wildlebenden Säugetiere und Vögel vor Störung.
 
 <sup>5</sup> Sie regeln insbesondere den Schutz der Muttertiere und der Jungtiere während der Jagd sowie der Altvögel während der Brutzeit.
 
-<sup>6</sup> Bei der Planung und Ausführung von Bauten und Anlagen, die den Schutz der wildlebenden Säugetiere und Vögel beeinträchtigen können, hört der Bund die Kantone an. Für Vorhaben, die Schutzgebiete von internationaler und nationaler Bedeutung beeinträchtigen, ist die Stellungnahme des Bundesamtes einzuholen.
+<sup>6</sup> Bei der Planung und Ausführung von Bauten und Anlagen, die den Schutz der wildlebenden Säugetiere und Vögel beeinträchtigen können, hört der Bund die Kantone an. Für Vorhaben, die Schutzgebiete von internationaler und nationaler Bedeutung beeinträchtigen, ist die Stellungnahme des Bundesamts für Umwelt[^7-2] (Bundesamt) einzuholen.
 
-[^7-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
+[^7-1]: Aufgehoben durch Ziff. I des BG vom 16. Dez. 2022, mit Wirkung seit 1. Dez. 2023 ([AS 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [BBl 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
+[^7-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
+
+#### Art. 7a
+
+**Regulierung von Steinböcken und Wölfen und Finanzierung von Massnahmen**[^7a-1]
+
+<sup>1</sup>
+
+Die Kantone können mit vorheriger Zustimmung des Bundesamts eine Bestandsregulierung vorsehen für:
+
+- a. Steinböcke: im Zeitraum vom 1. August bis zum 30. November;
+- b. Wölfe: im Zeitraum vom 1. September bis zum 31. Januar.
+
+<sup>2</sup>
+
+Solche Regulierungen dürfen den Bestand der Population nicht gefährden und müssen erforderlich sein, um:
+
+- a. Lebensräume zu schützen oder die Artenvielfalt zu erhalten;
+- b. das Eintreten eines Schadens oder einer Gefährdung von Menschen zu verhindern, sofern dies durch zumutbare Schutzmassnahmen nicht erreicht werden kann; oder
+- c. regional angemessene Wildbestände zu erhalten.
+
+[^7a-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2022, in Kraft seit 1. Dez. 2023 ([AS 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [BBl 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
 
 #### Art. 8
 
@@ -212,15 +232,19 @@ Eine Bewilligung des Bundes braucht, wer:
 
 <sup>3</sup> Die Kantone bestimmen, welche Selbsthilfemassnahmen gegen jagdbare Tiere zum Schutze von Haustieren, Liegenschaften und landwirtschaftlichen Kulturen zulässig sind.[^12-3] Der Bundesrat bezeichnet die geschützten Tierarten, gegen die solche Selbsthilfemassnahmen ergriffen werden dürfen.
 
-<sup>4</sup> Weist eine geschützte Tierart einen zu hohen Bestand auf und entsteht dadurch grosser Schaden oder eine erhebliche Gefährdung, so können die Kantone mit vorheriger Zustimmung des Departements Massnahmen zur Verringerung des Bestandes treffen.
+<sup>4</sup> Weist eine geschützte Tierart einen zu hohen Bestand auf und entsteht dadurch grosser Schaden oder eine erhebliche Gefährdung, so können die Kantone mit vorheriger Zustimmung des Departements Massnahmen zur Verringerung des Bestandes treffen. Vorbehalten bleibt die Bestandsregulierung von Arten gemäss Artikel 7*a* Absätze 1 und 2.[^12-4]
 
-<sup>5</sup> Der Bund fördert und koordiniert die Massnahmen der Kantone zur Verhütung von Wildschaden, der durch Grossraubtiere an Nutztieren verursacht wird.[^12-4] Er kann gegen Entschädigung öffentlich-rechtliche Körperschaften oder Private mit dem Vollzug dieser Aufgaben beauftragen.[^12-5]
+<sup>4bis</sup> Wölfe eines Rudels dürfen zwischen dem 1. Juni und dem 31. August mit vorgängiger Zustimmung des Bundesamtes reguliert werden, wenn das Rudel Schäden insbesondere an Nutztieren der Rinder- oder Pferdegattung anrichtet. Der Bundesrat regelt die Bedingungen.[^12-5]
+
+<sup>5</sup> Der Bund fördert und koordiniert die Massnahmen der Kantone zur Verhütung von Wildschaden, der durch Grossraubtiere an Nutztieren verursacht wird.[^12-6] Er kann gegen Entschädigung öffentlich-rechtliche Körperschaften oder Private mit dem Vollzug dieser Aufgaben beauftragen.[^12-7]
 
 [^12-1]: Fassung gemäss Anh. Ziff. II 11 des BG vom 22. März 2002 über die Anpassung von Organisationsbestimmungen des Bundesrechts, in Kraft seit 1. Febr. 2003 ([AS 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [BBl 2001 3845](https://fedlex.data.admin.ch/eli/fga/2001/686)).
 [^12-2]: Eingefügt durch Anh. Ziff. II 11 des BG vom 22. März 2002 über die Anpassung von Organisationsbestimmungen des Bundesrechts, in Kraft seit 1. Febr. 2003 ([AS 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [BBl 2001 3845](https://fedlex.data.admin.ch/eli/fga/2001/686)).
 [^12-3]: Fassung gemäss Anh. Ziff. II 11 des BG vom 22. März 2002 über die Anpassung von Organisationsbestimmungen des Bundesrechts, in Kraft seit 1. Febr. 2003 ([AS 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [BBl 2001 3845](https://fedlex.data.admin.ch/eli/fga/2001/686)).
-[^12-4]: Eingefügt durch Anhang Ziff. 9 des BG vom 22. März 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356))
-[^12-5]: Satz eingefügt durch Anhang Ziff. 2 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^12-4]: Zweiter Satz eingefügt durch Ziff. I des BG vom 16. Dez. 2022, in Kraft seit 1. Dez. 2023 ([AS 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [BBl 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
+[^12-5]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2022, in Kraft seit 1. Dez. 2023 ([AS 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [BBl 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
+[^12-6]: Eingefügt durch Anhang Ziff. 9 des BG vom 22. März 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356))
+[^12-7]: Satz eingefügt durch Anhang Ziff. 2 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 13
 

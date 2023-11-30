@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 juin 1986 sur la chasse et la protection des mammif
 short: LChP
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/506_506_506"
 language: fr
-version: 2023-09-01
+version: 2023-12-01
 adopted: 1986-06-20
 in_force: 1988-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/506_506_506/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1988-506_506_506-20230901-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/506_506_506/20231201/fr/xml/fedlex-data-admin-ch-eli-cc-1988-506_506_506-20231201-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20231201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20230901/fr"
 
 (Loi sur la chasse, LChP)
 
-du 20 juin 1986 (État le 1<sup>er</sup> septembre 2023)
+du 20 juin 1986 (État le 1<sup>er</sup> décembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -154,17 +154,37 @@ Les espèces suivantes peuvent être chassées toute l’année:
 
 <sup>1</sup> Tous les animaux visés à l’art. 2 qui n’appartiennent pas à une espèce pouvant être chassée, sont protégés (espèces protégées).
 
-<sup>2</sup> Les cantons peuvent, avec l’assentiment préalable de l’Office fédéral de l’environnement (Office fédéral)[^7-1], prévoir le tir d’animaux protégés si la sauvegarde des biotopes ou le maintien de la diversité des espèces l’exige. Le Conseil fédéral désigne les animaux visés par cette disposition.
-
-<sup>3</sup> La chasse des bouquetins peut être autorisée du 1<sup>er</sup> septembre au 30 novembre, lorsqu’elle vise à une régulation des populations. À cette fin, les cantons soumettent chaque année à l’approbation du Département une planification des tirs. Le Conseil fédéral arrête les prescriptions nécessaires.
+<sup>2</sup> et <sup>3</sup> …[^7-1]
 
 <sup>4</sup> Les cantons assurent une protection suffisante des mammifères et des oiseaux sauvages contre les dérangements.
 
 <sup>5</sup> Ils règlent en particulier la protection des jeunes animaux et de leurs mères en période de chasse, ainsi que celle des oiseaux adultes pendant la couvaison.
 
-<sup>6</sup> Lors de l’élaboration et de la réalisation de projets qui peuvent compromettre la protection des mammifères et des oiseaux sauvages, la Confédération prend l’avis des cantons. Lorsque les projets affectent des zones protégées d’importance internationale et nationale, il y a lieu de demander le préavis de l’Office fédéral.
+<sup>6</sup> Lors de l’élaboration et de la réalisation de projets qui peuvent compromettre la protection des mammifères et des oiseaux sauvages, la Confédération prend l’avis des cantons. Lorsque les projets affectent des zones protégées d’importance internationale et nationale, il y a lieu de demander le préavis de l’Office fédéral de l’environnement (Office fédéral)[^7-2].
 
-[^7-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^7-1]: Abrogés par le ch. I de la LF du 16 déc. 2022, avec effet au 1<sup>er</sup> déc. 2023 ([RO 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [FF 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
+[^7-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+
+#### Art. 7a
+
+**Régulation des bouquetins et des loups et financement des mesures**[^7a-1]
+
+<sup>1</sup>
+
+Les cantons peuvent, avec l’assentiment préalable de l’Office fédéral, prévoir la régulation des populations:
+
+- a. de bouquetins: durant la période allant du 1<sup>er</sup> août au 30 novembre;
+- b. de loups: durant la période allant du 1<sup>er</sup> septembre au 31 janvier.
+
+<sup>2</sup>
+
+Ces régulations ne doivent pas mettre en danger l’effectif de la population et doivent être nécessaires pour:
+
+- a. protéger des biotopes ou conserver la diversité des espèces;
+- b. prévenir un dommage ou un danger pour l’homme lorsqu’il apparaît que des mesures de protection raisonnables ne seront pas suffisantes, ou
+- c. préserver des populations sauvages adaptées au niveau régional.
+
+[^7a-1]: Introduit par le ch. I de la LF du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2023 ([RO 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [FF 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
 
 #### Art. 8
 
@@ -227,15 +247,19 @@ Une autorisation de la Confédération est nécessaire pour:
 
 <sup>3</sup> Les cantons déterminent les mesures qui peuvent légalement être prises à titre individuel en vue de protéger du gibier les animaux domestiques, les biens-fonds et les cultures.[^12-3] Le Conseil fédéral désigne les espèces protégées contre lesquelles il est permis de prendre de telles mesures.
 
-<sup>4</sup> Lorsque la population d’animaux d’une espèce protégée est trop nombreuse et qu’il en résulte d’importants dommages ou un grave danger, les cantons peuvent prendre des mesures pour la réduire, avec l’assentiment préalable du Département.
+<sup>4</sup> Lorsque la population d’animaux d’une espèce protégée est trop nombreuse et qu’il en résulte d’importants dommages ou un grave danger, les cantons peuvent prendre des mesures pour la réduire, avec l’assentiment préalable du Département. Est réservée la régulation de populations d’espèces au sens de l’art. 7*a*, al. 1 et 2.[^12-4]
 
-<sup>5</sup> La Confédération encourage et coordonne les mesures des cantons visant à prévenir les dommages causés par les grands prédateurs aux animaux de rente.[^12-4] Elle peut charger des collectivités de droit public ou des particuliers d’exécuter ces tâches contre rémunération.[^12-5]
+<sup>4bis</sup> Les loups appartenant à une meute peuvent faire l’objet d’une mesure de régulation entre le 1<sup>er</sup> juin et le 31 août, avec l’accord préalable de l’Office fédéral, si la meute concernée cause des dommages, notamment en attaquant des animaux de rente, bovidés ou équidés. Le Conseil fédéral arrête les conditions de régulation.[^12-5]
+
+<sup>5</sup> La Confédération encourage et coordonne les mesures des cantons visant à prévenir les dommages causés par les grands prédateurs aux animaux de rente.[^12-6] Elle peut charger des collectivités de droit public ou des particuliers d’exécuter ces tâches contre rémunération.[^12-7]
 
 [^12-1]: Nouvelle teneur selon l’annexe ch. II 11 de la LF du 22 mars 2002 sur l’adaptation de disp. du droit fédéral en matière d’organisation, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3657](https://fedlex.data.admin.ch/eli/fga/2001/686)).
 [^12-2]: Introduit par l’annexe ch. II 11 de la LF du 22 mars 2002 sur l’adaptation de disp. du droit fédéral en matière d’organisation, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3657](https://fedlex.data.admin.ch/eli/fga/2001/686)).
 [^12-3]: Nouvelle teneur selon l’annexe ch. II 11 de la LF du 22 mars 2002 sur l’adaptation de disp. du droit fédéral en matière d’organisation, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3657](https://fedlex.data.admin.ch/eli/fga/2001/686)).
-[^12-4]: Introduit par l’annexe ch. 9 de la LF du 22 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1857](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^12-5]: Phrase introduite par l’annexe ch. 2 de la L du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4775](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^12-4]: Phrase introduite par le ch. I de la LF du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2023 ([RO 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [FF 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
+[^12-5]: Introduit par le ch. I de la LF du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2023 ([RO 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [FF 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
+[^12-6]: Introduit par l’annexe ch. 9 de la LF du 22 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1857](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^12-7]: Phrase introduite par l’annexe ch. 2 de la L du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4775](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 13
 

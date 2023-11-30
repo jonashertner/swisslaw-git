@@ -4,11 +4,11 @@ title: "Legge federale del 20 giugno 1986 su la caccia e la protezione dei mammi
 short: LCP
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/506_506_506"
 language: it
-version: 2023-09-01
+version: 2023-12-01
 adopted: 1986-06-20
 in_force: 1988-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/506_506_506/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1988-506_506_506-20230901-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/506_506_506/20231201/it/xml/fedlex-data-admin-ch-eli-cc-1988-506_506_506-20231201-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20231201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20230901/it"
 
 (Legge sulla caccia, LCP)
 
-del 20 giugno 1986 (Stato 1° settembre 2023)
+del 20 giugno 1986 (Stato 1° dicembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -139,17 +139,37 @@ Le specie seguenti possono essere cacciate tutto l’anno:
 
 <sup>1</sup> Tutti gli animali di cui all’articolo 2, non appartenenti a una specie cacciabile, sono protetti (specie protette).
 
-<sup>2</sup> I Cantoni possono, previo consenso dell’Ufficio federale dell’ambiente (Ufficio federale)[^7-1], prevedere l’abbattimento di animali protetti se necessario per la protezione del biotopo o per la conservazione della diversità delle specie. Il Consiglio federale stabilisce le specie cui questa norma è applicabile.
-
-<sup>3</sup> Gli stambecchi possono essere cacciati dal 1° settembre al 30 novembre a scopo di regolazione degli effettivi. I Cantoni presentano ogni anno al Dipartimento, per approvazione, una pianificazione degli abbattimenti. Il Consiglio federale emana le relative prescrizioni.
+<sup>2</sup> e <sup>3</sup> ...[^7-1]
 
 <sup>4</sup> I Cantoni provvedono a proteggere sufficientemente dai disturbi i mammiferi e gli uccelli selvatici.
 
 <sup>5</sup> Essi disciplinano segnatamente la protezione dei giovani animali e delle loro madri durante i periodi di caccia e degli uccelli adulti, durante il periodo della cova.
 
-<sup>6</sup> Nella pianificazione ed esecuzione di costruzioni e impianti che possono pregiudicare la protezione dei mammiferi e degli uccelli selvatici, la Confederazione consulta i Cantoni. Per progetti che pregiudicano zone protette d’importanza internazionale o nazionale, dev’essere chiesto il preavviso dell’Ufficio federale.
+<sup>6</sup> Nella pianificazione ed esecuzione di costruzioni e impianti che possono pregiudicare la protezione dei mammiferi e degli uccelli selvatici, la Confederazione consulta i Cantoni. Per progetti che pregiudicano zone protette d’importanza internazionale o nazionale, dev’essere chiesto il preavviso dell’Ufficio federale dell’ambiente (Ufficio federale)[^7-2].
 
-[^7-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^7-1]: Abrogati dal n. I della LF del 16 dic. 2022, con effetto dal 1° dic. 2023 ([RU 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [FF 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
+[^7-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+
+#### Art. 7a
+
+**Regolazione degli effettivi di stambecchi e lupi e finanziamento delle misure**[^7a-1]
+
+<sup>1</sup>
+
+Previo consenso dell’Ufficio federale, i Cantoni possono prevedere una regolazione degli effettivi di:
+
+- a. stambecchi, dal 1° agosto al 30 novembre;
+- b. lupi, dal 1° settembre al 31 gennaio.
+
+<sup>2</sup>
+
+Tali regolazioni non devono mettere in pericolo l’effettivo della popolazione e devono essere necessarie per:
+
+- a. proteggere gli spazi vitali o conservare la diversità delle specie;
+- b. impedire il verificarsi di danni o di un pericolo per l’uomo, sempre che ciò non possa essere raggiunto mediante misure di protezione ragionevolmente esigibili; o
+- c. mantenere effettivi adeguati di selvaggina a livello regionale.
+
+[^7a-1]: Introdotto dal n. I della LF del 16 dic. 2022, in vigore dal 1° dic. 2023 ([RU 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [FF 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
 
 #### Art. 8
 
@@ -212,14 +232,18 @@ Necessita di un’autorizzazione della Confederazione chi vuole:
 
 <sup>3</sup> I Cantoni stabiliscono le misure ammesse di autodifesa contro la selvaggina per la protezione di animali domestici, beni immobili e colture agricole. Il Consiglio federale designa le specie protette contro le quali possono essere prese queste misure di autodifesa.
 
-<sup>4</sup> Se una specie protetta presenta un effettivo eccessivo per cui causa danni ingenti o grave pericolo, i Cantoni possono prendere misure per diminuirne l’effettivo, previo consenso del Dipartimento.
+<sup>4</sup> Se una specie protetta presenta un effettivo eccessivo per cui causa danni ingenti o grave pericolo, i Cantoni possono prendere misure per diminuirne l’effettivo, previo consenso del Dipartimento. È fatta salva la regolazione degli effettivi delle specie di cui all’articolo 7*a* capoversi 1 e 2.[^12-3]
 
-<sup>5</sup> La Confederazione promuove e coordina le misure dei Cantoni volte a prevenire i danni causati dalla selvaggina, segnatamente quelli causati dai grandi predatori agli animali da reddito.[^12-3] Può affidare l’esecuzione di tali compiti, contro indennità, a corporazioni di diritto pubblico o a privati.[^12-4]
+<sup>4bis</sup> Tra il 1° giugno e il 31 agosto i lupi di un branco possono essere regolati previo consenso dell’Ufficio federale se il branco causa danni in particolare ad animali da reddito delle specie bovina o equina. Il Consiglio federale disciplina le condizioni.[^12-4]
+
+<sup>5</sup> La Confederazione promuove e coordina le misure dei Cantoni volte a prevenire i danni causati dalla selvaggina, segnatamente quelli causati dai grandi predatori agli animali da reddito.[^12-5] Può affidare l’esecuzione di tali compiti, contro indennità, a corporazioni di diritto pubblico o a privati.[^12-6]
 
 [^12-1]: Nuovo testo giusta l’all. n. II 11 della LF del 22 mar. 2002 concernente l’adeguamento di disposizioni organizzative del diritto federale, in vigore dal 1° feb. 2003 ([RU 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3431](https://fedlex.data.admin.ch/eli/fga/2001/686)).
 [^12-2]: Introdotto dall’all. n. II 11 della LF del 22 mar. 2002 concernente l’adeguamento di disposizioni organizzative del diritto federale, in vigore dal 1° feb. 2003 ([RU 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3431](https://fedlex.data.admin.ch/eli/fga/2001/686)).
-[^12-3]: Introdotto dall’all. n. 9 della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^12-4]: Per. introdotto dall’all. n. 2 della L del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^12-3]: Per. introdotto dal n. I della LF del 16 dic. 2022, in vigore dal 1° dic. 2023 ([RU 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [FF 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
+[^12-4]: Introdotto dal n. I della LF del 16 dic. 2022, in vigore dal 1° dic. 2023 ([RU 2023 631](https://fedlex.data.admin.ch/eli/oc/2023/631); [FF 2022 1925](https://fedlex.data.admin.ch/eli/fga/2022/1925), [2104](https://fedlex.data.admin.ch/eli/fga/2022/2104)).
+[^12-5]: Introdotto dall’all. n. 9 della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^12-6]: Per. introdotto dall’all. n. 2 della L del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 13
 
