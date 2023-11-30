@@ -4,13 +4,13 @@ number: "620.0"
 title: Loi sur les finances
 short: LFin
 language: fr
-version: 2023-01-01
-valid_until: 2023-11-30
-version_adopted: 2022-06-15
+version: 2023-12-01
+valid_until: 2026-08-31
+version_adopted: 2023-10-27
 adopted: 2022-06-15
 in_force: 2023-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/620.0"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2717/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2887/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2717/pdf_file"
 
 (LFin)
 
-du 15.06.2022 (état au 01.01.2023)
+du 15.06.2022 (état au 01.12.2023)
 
 Le Grand Conseil du canton de Berne,
 
@@ -177,11 +177,11 @@ arrête:
 
 **Report de crédit**
 
-<sup>1</sup> Le Conseil-exécutif peut reporter une seule fois sur l'exercice suivant les enveloppes budgétaires des groupes de produits non utilisées, à condition qu'il s'agisse d'un retard inhérent au projet et que le report porte sur un tiers au maximum des coûts totaux du projet.
+<sup>1</sup> Le Conseil-exécutif ou la Direction administrative de la magistrature peut reporter une seule fois sur l'exercice suivant les enveloppes budgétaires des groupes de produits non utilisées, à condition qu'il s'agisse d'un retard inhérent au projet et que le report porte sur un tiers au maximum des coûts totaux du projet.
 
 <sup>2</sup> Le solde de l'enveloppe budgétaire non utilisée du groupe de produits est reporté.
 
-<sup>3</sup> En même temps qu'il procède au report de crédit dans le groupe de produits concerné, le Conseil-exécutif corrige les postes correspondants du compte de résultats, du compte des investissements et des subventions cantonales.
+<sup>3</sup> En procédant au report de crédit dans le groupe de produits concerné, le Conseil-exécutif ou la Direction administrative de la magistrature corrige les postes correspondants du compte de résultats, du compte des investissements et des subventions cantonales.
 
 <sup>4</sup> Les reports de crédit sont portés à la connaissance du Grand Conseil dans le cadre du rapport de gestion.
 
@@ -399,9 +399,9 @@ arrête:
 
 <sup>2</sup> Une dépense est liée si elle n’est pas considérée comme nouvelle au sens de l’alinéa 1.
 
-<sup>3</sup> Les autorisations de dépenses du Conseil-exécutif, accompagnées des rapports motivant en détail le caractère lié de ces dépenses, sont portées à la connaissance de la Commission des finances du Grand Conseil lorsqu'elles concernent des dépenses qui, si elles étaient nouvelles, ressortiraient au Grand Conseil.
+<sup>3</sup> Les autorisations de dépenses du Conseil-exécutif ou de la Direction administrative de la magistrature, accompagnées des rapports motivant en détail le caractère lié de ces dépenses, sont respectivement portées à la connaissance de la Commission des finances ou de la Commission de justice du Grand Conseil lorsqu'elles concernent des dépenses qui, si elles étaient nouvelles, ressortiraient au Grand Conseil.
 
-<sup>4</sup> Les autorisations de dépenses du Conseil-exécutif doivent en outre être publiées dans la Feuille officielle lorsqu'il s'agit de dépenses liées qui, si elles étaient nouvelles, seraient soumises à la votation populaire facultative.
+<sup>4</sup> Les autorisations de dépenses du Conseil-exécutif ou de la Direction administrative de la magistrature doivent en outre être publiées dans la Feuille officielle lorsqu'il s'agit de dépenses liées qui, si elles étaient nouvelles, seraient soumises à la votation populaire facultative.
 
 ### 3.3 Formes d'autorisation
 

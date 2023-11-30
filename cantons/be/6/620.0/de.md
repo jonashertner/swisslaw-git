@@ -4,13 +4,13 @@ number: "620.0"
 title: Finanzhaushaltsgesetz
 short: FHG
 language: de
-version: 2023-01-01
-valid_until: 2023-11-30
-version_adopted: 2022-06-15
+version: 2023-12-01
+valid_until: 2026-08-31
+version_adopted: 2023-10-27
 adopted: 2022-06-15
 in_force: 2023-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/620.0"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2717/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2887/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2717/pdf_file"
 
 (FHG)
 
-vom 15.06.2022 (Stand 01.01.2023)
+vom 15.06.2022 (Stand 01.12.2023)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -177,11 +177,11 @@ beschliesst:
 
 **Kreditübertragung**
 
-<sup>1</sup> Nicht beanspruchte Globalbudgets der Produktgruppen können durch den Regierungsrat durch Kreditübertragung einmalig auf das nächste Rechnungsjahr übertragen werden, wenn eine projektbedingte Verzögerung vorliegt und höchstens ein Drittel der gesamten Projektkosten übertragen wird.
+<sup>1</sup> Nicht beanspruchte Globalbudgets der Produktgruppen können durch den Regierungsrat oder die Justizverwaltungsleitung durch Kreditübertragung einmalig auf das nächste Rechnungsjahr übertragen werden, wenn eine projektbedingte Verzögerung vorliegt und höchstens ein Drittel der gesamten Projektkosten übertragen wird.
 
 <sup>2</sup> Übertragen wird der Saldo des nicht beanspruchten Globalbudgets der Produktgruppe.
 
-<sup>3</sup> Der Regierungsrat passt gleichzeitig mit der Kreditübertragung in der betreffenden Produktgruppe die entsprechenden Positionen in der Erfolgsrechnung, der Investitionsrechnung und bei den Staatsbeiträgen an.
+<sup>3</sup> Der Regierungsrat oder die Justizverwaltungsleitung passt gleichzeitig mit der Kreditübertragung in der betreffenden Produktgruppe die entsprechenden Positionen in der Erfolgsrechnung, der Investitionsrechnung und bei den Staatsbeiträgen an.
 
 <sup>4</sup> Die Kreditübertragungen werden dem Grossen Rat im Rahmen des Geschäftsberichts zur Kenntnis gebracht.
 
@@ -399,9 +399,9 @@ beschliesst:
 
 <sup>2</sup> Eine Ausgabe ist gebunden, wenn sie nicht gemäss Absatz 1 neu ist.
 
-<sup>3</sup> Ausgabenbewilligungen des Regierungsrates einschliesslich des Vortrags dazu, welcher die Gebundenheit einlässlich begründet, sind der Finanzkommission des Grossen Rates zur Kenntnis zu bringen, wenn diese Ausgaben, wären sie neu, in die Zuständigkeit des Grossen Rates fallen würden.
+<sup>3</sup> Ausgabenbewilligungen des Regierungsrates oder der Justizverwaltungsleitung einschliesslich des Vortrags dazu, der die Gebundenheit einlässlich begründet, sind der Finanzkommission bzw. der Justizkommission des Grossen Rates zur Kenntnis zu bringen, wenn diese Ausgaben, wären sie neu, in die Zuständigkeit des Grossen Rates fallen würden.
 
-<sup>4</sup> Ausgabenbewilligungen des Regierungsrates sind überdies im Amtsblatt zu veröffentlichen, wenn die bewilligten gebundenen Ausgaben, wären sie neu, der fakultativen Volksabstimmung unterstehen würden.
+<sup>4</sup> Ausgabenbewilligungen des Regierungsrates oder der Justizverwaltungsleitung sind überdies im Amtsblatt zu veröffentlichen, wenn die bewilligten gebundenen Ausgaben, wären sie neu, der fakultativen Volksabstimmung unterliegen würden.
 
 ### 3.3 Bewilligungsformen
 
