@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Totalrevision der Verordnung über die Meteorologie und Klimatologie (MetV)
 document: Vernehmlassungsvorlage
 language: de

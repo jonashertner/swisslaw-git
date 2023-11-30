@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision totale de l’ordonnance sur la météorologie et la climatologie (OMét)
 document: Projet mis en consultation
 language: fr
