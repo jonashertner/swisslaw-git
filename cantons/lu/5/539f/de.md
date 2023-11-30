@@ -3,20 +3,19 @@ canton: LU
 number: 539f
 title: Habilitationsordnung der Universität Luzern
 language: de
-version: 2009-01-01
-valid_until: 2023-11-30
-version_adopted: 2009-04-29
+version: 2023-12-01
+version_adopted: 2023-10-19
 adopted: 2003-06-25
 in_force: 2003-10-01
 url: "https://srl.lu.ch/app/de/texts_of_law/539f"
-pdf: "https://srl.lu.ch/api/de/versions/2320/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4141/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Habilitationsordnung der Universität Luzern
 
-vom 25.06.2003 (Stand 01.01.2009)
+vom 25.06.2003 (Stand 01.12.2023)
 
 Der Universitätsrat der Universität Luzern,
 
@@ -46,9 +45,9 @@ beschliesst:
 
 **Habilitationsarten**
 
-<sup>1</sup> Die Habilitation erfolgt grundsätzlich zur Erlangung einer bestimmten Lehrbefugnis (Venia Legendi) und führt zum Titel Privatdozentin oder Privatdozent (PD).
+<sup>1</sup> Die Habilitation erfolgt grundsätzlich zur Erlangung einer bestimmten Lehrbefugnis (Venia Legendi) und führt zum Titel Privatdozentin oder Privatdozent (PD) für ein bestimmtes Gebiet.
 
-<sup>2</sup> Die Fakultäten können vorsehen, dass sich die Habilitation lediglich auf die entsprechende wissenschaftliche Qualifikation erstreckt; eine solche Habilitation führt zum Titel der habilitierten Doktorin oder des habilitierten Doktors (Dr. habil.). Die nachfolgenden Bestimmungen gelten für diese Habilitationsart sinngemäss.
+<sup>2</sup> Die Fakultäten können im Einzelfall entscheiden, dass sich die Habilitation lediglich auf die entsprechende wissenschaftliche Qualifikation erstreckt; eine solche Habilitation führt zum Titel der habilitierten Doktorin oder des habilitierten Doktors (Dr. habil.). Die nachfolgenden Bestimmungen gelten für diese Habilitationsart sinngemäss.
 
 ## 2 Voraussetzungen und Anforderungen
 
@@ -117,7 +116,7 @@ beschliesst:
 
 **Entscheid der Fakultätsversammlung**
 
-<sup>1</sup> Die Fakultätsversammlung heisst das Gesuch um Eröffnung des Habilitationsverfahrens gut, falls sie aufgrund der persönlichen Vorstellung und der Unterlagen zur Überzeugung gelangt, dass der Gesuchsteller oder die Gesuchstellerin das persönliche, didaktische und wissenschaftliche Potenzial für eine erfolgreiche Habilitation hat.
+<sup>1</sup> Die Fakultätsversammlung heisst das Gesuch um Eröffnung des Habilitationsverfahrens gut, falls sie zur Überzeugung gelangt, dass die Gesuchstellerin oder der Gesuchsteller das persönliche, didaktische und wissenschaftliche Potenzial für eine erfolgreiche Habilitation hat. In der Regel erfolgt vor dem Zulassungsentscheid eine persönliche Präsentation des Projekts durch die Gesuchstellerin oder den Gesuchsteller in der Fakultätsversammlung oder vor einer Delegation der Fakultät.
 
 <sup>2</sup> Mit der Gutheissung des Zulassungsgesuchs ist das Vorprüfungsverfahren abgeschlossen und das Habilitationsverfahren eröffnet.
 
@@ -139,7 +138,7 @@ beschliesst:
 
 <sup>1</sup> Die Habilitationsschrift beziehungsweise die Aufsätze werden begutachtet.
 
-<sup>2</sup> Als Gutachterinnen oder Gutachter bestimmt die Fakultätsversammlung auf Antrag der Dekanin oder des Dekans in der Regel das Fakultätsmitglied, das die Habilitation betreut, sowie mindestens eine weitere Professorin oder einen weiteren Professor oder ein weiteres habilitiertes Mitglied, ausserdem in der Regel mindestens ein Mitglied einer anderen Fakultät oder Universität. Im Fall fachübergreifender Thematiken kann auch eine Gutachterin oder ein Gutachter aus einer anderen Fakultät hinzugezogen werden.
+<sup>2</sup> Als Erstgutachterin oder Erstgutachter bestimmt die Fakultätsversammlung auf Antrag der Dekanin oder des Dekans in der Regel das Fakultätsmitglied, das die Habilitation betreut. Zusätzlich sind zwei weitere Gutachten von im betreffenden Fachgebiet habilitierten Professorinnen oder Professoren einzuholen, davon mindestens eines von einem Mitglied einer anderen Fakultät oder Universität.
 
 <sup>3</sup> Die Gutachterinnen oder Gutachter erstatten binnen sechs Monaten ihre Gutachten. Diese äussern sich darüber, ob die Habilitationsschrift beziehungsweise die Aufsätze als Habilitationsleistung anzuerkennen sind oder nicht.
 
@@ -179,17 +178,17 @@ beschliesst:
 
 <sup>1</sup> Die habilitierte Person erhält den Titel der Privatdozentin oder des Privatdozenten (PD) sowie die Lehrbefugnis für das umschriebene Gebiet an der Fakultät. In den Fällen von § 2 Absatz 2 erhält die habilitierte Person stattdessen den Titel der habilitierten Doktorin oder des habilitierten Doktors (Dr. habil.).
 
-<sup>2</sup> Die Lehrbefugnis verleiht der habilitierten Person den Anspruch auf die Einräumung eines unbezahlten Lehrauftrags von zwei Jahreswochenstunden.
+<sup>2</sup> Mit der Lehrbefugnis ist keine Lehrverpflichtung verbunden.
 
-<sup>3</sup> Mit der Lehrbefugnis ist grundsätzlich eine Lehrverpflichtung im Umfang einer Jahreswochenstunde verbunden. Bei Vorliegen triftiger Gründe kann die Dekanin oder der Dekan die habilitierte Person für eine bestimmte Dauer von ihrer Lehrverpflichtung entbinden.
+<sup>3</sup> Die Fakultät erteilt der habilitierten Person auf deren Wunsch im Rahmen der ordentlichen Lehrplanung und mit Rücksicht auf die Bedürfnisse der Fakultät nach Möglichkeit einen unbezahlten Lehrauftrag von zwei Jahreswochenstunden.
 
-<sup>4</sup> Die Fakultät integriert die habilitierte Person nach Möglichkeit mit bezahlten Lehraufträgen in den ordentlichen Lehrbetrieb.
+<sup>4</sup> Die habilitierte Person hat keinen Anspruch auf bezahlte Lehraufträge.
 
-## 7 Entzug der Lehrbefugnis
+## 7 Entzug des Titels
 
 #### § 15
 
-<sup>1</sup> Wird die Habilitation durch Plagiate erschlichen, entzieht die Rektorin oder der Rektor der fehlbaren Person auf Antrag der Fakultät die Lehrbefugnis.
+<sup>1</sup> Wird der habilitierten Person ein schweres wissenschaftliches Fehlverhalten im Zusammenhang mit der Habilitation nachgewiesen, entzieht die Rektorin oder der Rektor der fehlbaren Person auf Antrag der Fakultät den Titel.
 
 ## 8 Einsichtsrecht und Rechtsschutz
 
@@ -252,7 +251,7 @@ beschliesst:
 
 **Übergangsbestimmung**
 
-<sup>1</sup> Für habilitierende Personen, die im Zeitpunkt des Inkrafttretens dieser Ordnung seit weniger als zwei Jahren unter der Betreuung eines habilitierten Fakultätsmitglieds stehen, wird das Vorprüfungsverfahren nach den §§ 7 und 8 nachgeholt, sofern nicht schon ein äquivalentes Verfahren durchgeführt worden ist.
+<sup>1</sup> Die Änderungen in §§ 2, 8 und 10 vom 1. Dezember 2023 finden auf alle Habilitationsverfahren Anwendung, in denen die Begutachtung nach § 10 noch nicht eingeleitet worden ist. Die Änderungen in §§ 14 und 15 vom 1. Dezember 2023 sind mit deren Inkrafttreten auch auf alle nach bisherigem Recht gemäss dieser Ordnung habilitierten Personen anwendbar.
 
 #### § 20
 
