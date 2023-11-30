@@ -3,18 +3,18 @@ sr: "741.712"
 title: Verordnung des EFD vom 30. Oktober 2011 über die Aufwandsentschädigung im Zusammenhang mit der Erhebung der Nationalstrassenabgabe
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/735"
 language: de
-version: 2022-01-01
+version: 2023-12-01
 adopted: 2011-10-30
 in_force: 2011-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/735/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2011-735-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/735/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/735/20231201/de/xml/fedlex-data-admin-ch-eli-cc-2011-735-20231201-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/735/20231201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EFD über die Aufwandsentschädigung im Zusammenhang mit der Erhebung der Nationalstrassenabgabe
 
-vom 30. Oktober 2011 (Stand am 1. Januar 2022)
+vom 30. Oktober 2011 (Stand am 1. Dezember 2023)
 
 Das Eidgenössische Finanzdepartement (EFD),
 
@@ -28,12 +28,13 @@ verordnet:
 
 **Aufwandsentschädigung der Kantone und beauftragter Dritter**
 
-<sup>1</sup> Die Aufwandsentschädigung der Kantone und beauftragter Dritter nach Artikel 2 Buchstaben a und c der Nationalstrassenabgabeverordnung vom 24. August 2011[^1-1] beträgt 10 Prozent des Preises der von ihnen verkauften Vignetten.
+<sup>1</sup> Die Aufwandsentschädigung der Kantone und der gestützt auf Artikel 2 Absatz 1 Buchstaben a und c der Nationalstrassenabgabeverordnung vom 16. Juni 2023[^1-1] beauftragten Dritten beträgt 9,8 Prozent des Preises der von ihnen verkauften Vignetten.[^1-2]
 
-<sup>2</sup> Für staatliche Abgaben und Steuern, die auf der Aufwandsentschädigung bezahlt werden, wird eine zusätzliche Entschädigung in der Höhe der Abgabe oder der Steuer gewährt. Für in der Schweiz mehrwertsteuerpflichtige Personen wird die zusätzliche Entschädigung mit Hilfe des Saldo- oder Pauschalsteuersatzes nach Artikel 37 des Mehrwertsteuergesetzes vom 12. Juni 2009[^1-2] berechnet, der bei zum Normalsatz steuerbaren Dienstleistungen zur Anwendung kommt.
+<sup>2</sup> Für staatliche Abgaben und Steuern, die auf der Aufwandsentschädigung bezahlt werden, wird eine zusätzliche Entschädigung in der Höhe der Abgabe oder der Steuer gewährt. Für in der Schweiz mehrwertsteuerpflichtige Personen wird die zusätzliche Entschädigung mit Hilfe des Saldo- oder Pauschalsteuersatzes nach Artikel 37 des Mehrwertsteuergesetzes vom 12. Juni 2009[^1-3] berechnet, der bei zum Normalsatz steuerbaren Dienstleistungen zur Anwendung kommt.
 
 [^1-1]: [SR 741.711](https://fedlex.data.admin.ch/eli/cc/2023/338)
-[^1-2]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^1-2]: Fassung gemäss Ziff. I der V des EFD vom 28. Sept. 2023, in Kraft seit 1. Dez. 2023 ([AS 2023 562](https://fedlex.data.admin.ch/eli/oc/2023/562)).
+[^1-3]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
 
 #### Art. 2
 
@@ -43,12 +44,13 @@ verordnet:
 
 <sup>2</sup>
 
-Das BAZG wird zudem entschädigt für die Kosten, die ihm durch die Übertragung der folgenden Aufgaben an Dritte entstehen:
+Das BAZG wird zudem entschädigt für die Kosten, die ihm entstehen, falls gestützt auf Artikel 18 Absätze 3 und 4 NSAG die folgenden Aufgaben an Dritte übertragen werden:
 
-- a. der Kontrolle und der Strafverfolgung im vereinfachten Verfahren nach Artikel 18 Absatz 3 NSAG; und
-- b. des Verkaufs der Vignette an der Grenze.
+- a. die Kontrolle;
+- b. die Erhebung der Abgabe mittels Klebevignette an der Grenze.[^2-2]
 
 [^2-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^2-2]: Fassung gemäss Ziff. I der V des EFD vom 28. Sept. 2023, in Kraft seit 1. Dez. 2023 ([AS 2023 562](https://fedlex.data.admin.ch/eli/oc/2023/562)).
 
 #### Art. 3
 

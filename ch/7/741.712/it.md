@@ -3,18 +3,18 @@ sr: "741.712"
 title: "Ordinanza del DFF del 30 ottobre 2011 concernente il compenso per prestazioni relative alla riscossione della tassa per l'utilizzazione delle strade nazionali"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/735"
 language: it
-version: 2022-01-01
+version: 2023-12-01
 adopted: 2011-10-30
 in_force: 2011-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/735/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2011-735-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/735/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/735/20231201/it/xml/fedlex-data-admin-ch-eli-cc-2011-735-20231201-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/735/20231201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFF concernente il compenso per prestazioni relative alla riscossione della tassa per l’utilizzazione delle strade nazionali
 
-del 30 ottobre 2011 (Stato 1° gennaio 2022)
+del 30 ottobre 2011 (Stato 1° dicembre 2023)
 
 Il Dipartimento federale delle finanze (DFF),
 
@@ -28,12 +28,13 @@ ordina:
 
 **Compenso per prestazioni fornite da Cantoni e terzi incaricati**
 
-<sup>1</sup> Il compenso per prestazioni fornite da Cantoni e terzi incaricati secondo l’articolo 2 lettere a e c dell’ordinanza del 24 agosto 2011[^1-1] sul contrassegno stradale ammonta al 10 per cento del prezzo dei contrassegni da essi venduti.
+<sup>1</sup> Il compenso per prestazioni fornite dai Cantoni e da terzi incaricati secondo l’articolo 2 capoverso 1 lettere a e c dell’ordinanza del 16 giugno 2023[^1-1] sul contrassegno stradale ammonta al 9,8 per cento del prezzo dei contrassegni da essi venduti.[^1-2]
 
-<sup>2</sup> Per le tasse e le imposte statali versate sul compenso per prestazioni è concesso un compenso supplementare pari all’importo della tassa o dell’imposta. Per le persone assoggettate all’IVA in Svizzera, il compenso supplementare è calcolato secondo il metodo delle aliquote saldo o delle aliquote forfetarie ai sensi dell’articolo 37 della legge del 12 giugno 2009[^1-2] sull’IVA, applicato alle prestazioni imponibili all’aliquota normale.
+<sup>2</sup> Per le tasse e le imposte statali versate sul compenso per prestazioni è concesso un compenso supplementare pari all’importo della tassa o dell’imposta. Per le persone assoggettate all’IVA in Svizzera, il compenso supplementare è calcolato secondo il metodo delle aliquote saldo o delle aliquote forfetarie ai sensi dell’articolo 37 della legge del 12 giugno 2009[^1-3] sull’IVA, applicato alle prestazioni imponibili all’aliquota normale.
 
 [^1-1]: [RS 741.711](https://fedlex.data.admin.ch/eli/cc/2023/338)
-[^1-2]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^1-2]: Nuovo testo giusta dal n. I dell’O del DFF del 28 set. 2023, in vigore dal 1° dic. 2023 ([RU 2023 562](https://fedlex.data.admin.ch/eli/oc/2023/562)).
+[^1-3]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
 
 #### Art. 2
 
@@ -43,12 +44,13 @@ ordina:
 
 <sup>2</sup>
 
-All’UDSC spetta inoltre un compenso per i costi che le derivano dalla delega dei seguenti compiti a terzi:
+All’UDSC spetta inoltre un compenso per i costi che gli derivano se i seguenti compiti sono delegati a terzi in virtù dell’articolo 18 capoversi 3 e 4 LUSN:
 
-- a. controllo e perseguimento penale in procedura semplificata ai sensi dell’articolo 18 capoverso 3 LUSN; e
-- b. vendita del contrassegno al confine.
+- a. il controllo;
+- b. la riscossione della tassa mediante contrassegno adesivo al confine.[^2-2]
 
 [^2-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^2-2]: Nuovo testo giusta dal n. I dell’O del DFF del 28 set. 2023, in vigore dal 1° dic. 2023 ([RU 2023 562](https://fedlex.data.admin.ch/eli/oc/2023/562)).
 
 #### Art. 3
 
