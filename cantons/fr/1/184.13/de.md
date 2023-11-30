@@ -1,205 +1,368 @@
 ---
 canton: FR
 number: "184.13"
-title: Verordnung über den E-Government-Schalter des Staates
-short: E-GovSchV
+title: Verordnung über den virtuellen Schalter
+short: VSV
 language: de
-version: 2022-07-01
-valid_until: 2023-11-30
-version_adopted: 2022-06-28
+version: 2023-12-01
+valid_until: 2026-04-20
+version_adopted: 2023-11-20
 adopted: 2023-11-20
 in_force: 2023-12-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/184.13"
-pdf: "https://bdlf.fr.ch/api/de/versions/7513/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7874/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über den E-Government-Schalter des Staates
+# Verordnung über den virtuellen Schalter
 
-E-Government-Schalter des Staates – V
+Virtueller Schalter – V
 
-(E-GovSchV)
+(VSV)
 
-vom 15.05.2017 (Fassung in Kraft getreten am 01.07.2022)
+vom 20.11.2023 (Fassung in Kraft getreten am 01.12.2023)
 
 Der Staatsrat des Kantons Freiburg
 
-gestützt auf das Gesetz vom 2. November 2016 über den E-Government-Schalter des Staates (E-GovSchG), umgewandelt in das E-Government-Gesetz vom 18. Dezember 2020 (E-GovG);
+gestützt auf das E-Government-Gesetz vom 18. Dezember 2020 (E-GovG), insbesondere die Artikel 4-16 und 34;
 
-gestützt auf die Stellungnahme der E-Governmentkommission vom 27. April 2017;
+gestützt auf die Verordnung vom 28. Juni 2021 über die Governance der Digitalisierung und der Informationssysteme des Staates;
 
-auf Antrag der Finanzdirektion und der Staatskanzlei,
+gestützt auf die Stellungnahme der E-Government-Kommission vom 9. Novembre 2023;
+
+auf Antrag der Staatskanzlei,
 
 beschliesst:
 
+## 1 Allgemeine Bestimmungen
+
 #### Art. 1
 
-**Verwaltungsorgan (Art. 14 und 15 Abs. 1 E-GovG)**
+**Zweck**
 
-<sup>1</sup> Die Staatskanzlei ist das Organ, das mit der Verwaltung des virtuellen Schalters beauftragt ist. Sie erhält technische Unterstützung vom Amt für Informatik und Telekommunikation (ITA).
+<sup>1</sup> In dieser Verordnung werden die Bestimmungen für die Benutzung des virtuellen Schalters durch die Bevölkerung, die Wirtschaft und die Verwaltung festgelegt.
+
+<sup>2</sup> Vorbehalten bleiben die Bestimmungen für gewisse Leistungen, die unter die eidgenössische oder interkantonale Gesetzgebung fallen.
 
 #### Art. 2
 
-**Mittel zur Identifikation und zur Unterschrift (Art. 14 E-GovG)**
+**Verantwortliche Organe**
 
-<sup>1</sup> Im Rahmen des Möglichen bewilligt der virtuelle Schalter die Verwendung der Mittel zur Identifikation und zur Unterschrift, die vom Bund oder von den schweizerischen Organen des E-Governments anerkannt werden.
+<sup>1</sup> Die Staatskanzlei (Kanzlei) ist das Organ, das mit der strategischen Ausrichtung des virtuellen Schalters beauftragt ist. Sie koordiniert dessen Entwicklung sowie die Einführung und die Nachverfolgung neuer Leistungen. Sie erlässt zu diesem Zweck die erforderlichen Richtlinien.
 
-<sup>2</sup> Das höchststehende Mittel zur Identifikation, das auf Kantonsebene zugelassen wird, kann für alle Verfahren, die über den virtuellen Schalter behandelt werden, verwendet werden, selbst wenn es für die fragliche Transaktion nicht verlangt wird.
+<sup>2</sup> Für die technische Entwicklung, den technischen Unterhalt und Betrieb und die technische Weiterentwicklung sowie die Informatiksicherheit des Schalters ist gemäss der Verordnung vom 28. Juni 2021 über die Governance der Digitalisierung und der Informationssysteme des Staates (GDISV) das Amt für Informatik und Telekommunikation (ITA) zuständig.
 
 #### Art. 3
 
-**Änderung der Nutzungsbedingungen (Art. 14 E-GovG)**
+**Begriffe**
 
-<sup>1</sup> Jede bedeutende Änderung der allgemeinen Nutzungsbedingungen muss zunächst auf Stellungnahme der kantonalen Behörde für Öffentlichkeit, Datenschutz und Mediation von der E-Governmentkommission genehmigt werden.
+<sup>1</sup> In dieser Verordnung werden folgende Begriffe verwendet:
 
-<sup>2</sup> Bei einer bedeutenden Änderung der allgemeinen Nutzungsbedingungen wird jede Person, die eine Zugangsberechtigung erhalten hat, auf elektronischem Weg informiert und aufgefordert, die neuen Bedingungen anzunehmen. Solange die neuen Bedingungen nicht angenommen wurden, kann die Nutzung des virtuellen Schalters eingeschränkt oder gesperrt werden.
+- a) Online-Behördenleistung (Leistung): die Leistung, die den Benutzerinnen und Benutzern über den virtuellen Schalter zur Verfügung gestellt wird;
+- b) kontinuierliche Leistung: Leistung, die sich über einen längeren Zeitraum erstreckt und von der Benutzerin oder dem Benutzer frei aktiviert oder deaktiviert werden kann;
+- c) Basisdienst: ein technologischer Baustein mit Querschnittscharakter, der die gemeinsame Grundlage mehrerer Leistungen bildet;
+- d) Verwaltungsbehörde: das Organ, die Verwaltungseinheit oder die mit einer öffentlichen Aufgabe betraute Person, das oder die Leistungen im virtuellen Schalter anbietet;
+- e) elektronisches Identifizierungsmittel: das persönliche Identifizierungsmittel, mit dem sich eine Benutzerin oder ein Benutzer authentifizieren kann, um Zugang zu einer Leistung zu erhalten.
 
 #### Art. 4
 
-**Pflichten der Userinnen und User (Art. 11 E-GovG)**
+**Funktionen des Schalters**
 
-<sup>1</sup> Wer eine Bewilligung für den Zugriff auf den virtuellen Schalter hat, muss:
+<sup>1</sup> Der virtuelle Schalter hat insbesondere folgende Funktionen:
 
-- a) die Daten, die ihn betreffen, über den virtuellen Schalter aktualisieren;
-- b) alle nötigen Vorsichtsmassnahmen ergreifen, damit eine Drittperson nicht seine elektronischen Mittel zur Identifikation und zur Unterschrift benützen kann.
+- a) Übermittlung von Gesuchen an die Behörden in elektronischer Form;
+- b) Bestellung und Erhalt von Leistungen oder amtlichen Dokumenten in elektronischer Form;
+- c) Erfüllung der Melde- und Mitteilungspflichten auf elektronischem Weg;
+- d) Zustellung beantragter Entscheide über eine Online-Leistung der Verwaltung.
 
-<sup>2</sup> Wer fürchtet, dass seine Rechte missbräuchlich verwendet werden, benachrichtigt unverzüglich das Verwaltungsorgan des virtuellen Schalters. Dieses lässt das betreffende Konto sperren und ergreift wenn nötig die sich aufdrängenden Untersuchungsmassnahmen.
-
-<sup>3</sup> Wer unfreiwillig auf Daten zugreift, obwohl er nicht genügend ermächtigt ist, verpflichtet sich, diese vertraulich zu behandeln, sie nicht für andere Zwecke zu verwenden und sie allenfalls zu vernichten. Er teilt das dem Verwaltungsorgan des virtuellen Schalters mit.
+## 2 Elektronisches Konto
 
 #### Art. 5
 
-**Ende der Bewilligung (Art. 14 E-GovG)**
+**Pflichten der Benutzerinnen und Benutzer**
 
-<sup>1</sup> Die betroffene Person kann mit einer Kündigungsfrist von einem Monat ohne Angabe von Gründen auf ihr Recht, den virtuellen Schalter zu nutzen, verzichten. Die besonderen Vorschriften für gewisse Anwendungen bleiben vorbehalten.
+<sup>1</sup> Die Person, die im virtuellen Schalter ein Konto einrichtet, ist verpflichtet:
 
-<sup>2</sup> Bei Widerhandlung gegen die Regeln zur Nutzung des virtuellen Schalters oder anderen Formen von Missbrauch wird die Nutzungsbewilligung widerrufen. Dem Entscheid geht wenn möglich eine Verwarnung voraus.
+- a) die sie betreffenden Daten oder die Daten zu einer juristischen Person oder einer Organisation, wenn es sich um eine solche handelt, im Schalter einzugeben und auf dem neuesten Stand zu halten;
+- b) alle nötigen Vorsichtsmassnahmen zu ergreifen, damit eine Drittperson nicht ihre elektronischen Mittel zur Identifikation und zur Signatur benützen kann;
+- c) über ein anerkanntes Identifikationsmittel im Sinne von Artikel 22 zu verfügen;
+- d) die allgemeinen Nutzungsbedingungen des virtuellen Schalters zu akzeptieren.
 
-<sup>3</sup> Wenn nötig, namentlich wenn Missbräuche zu befürchten sind, ergreift das Verwaltungsorgan des virtuellen Schalters vorsorgliche Massnahmen, indem es zum Beispiel den Zugang vorübergehend sperren lässt.
+<sup>2</sup> Die Benutzerin oder der Benutzer, die oder der eine missbräuchliche Verwendung ihrer oder seiner Rechte befürchtet, benachrichtigt unverzüglich das ITA. Dieses sperrt das betreffende Konto im virtuellen Schalter und ergreift nötigenfalls die erforderlichen Untersuchungsmassnahmen.
 
-<sup>4</sup> Ein elektronisches Konto kann nach einer Kündigungsfrist von zwei Monaten gelöscht werden, wenn:
-
-- a) das Konto seit mehr als 36 Monaten inaktiv ist;
-- b) das Konto die technischen Anforderungen nicht mehr erfüllt.
-
-<sup>5</sup> Benützerinnen und Benützer, welche die Schliessung ihres Kontos ankündigen oder eine Benachrichtigung über die Schliessung ihres Kontos erhalten, werden darüber informiert, dass ihre Daten nach Ablauf der festgelegten Frist endgültig gelöscht werden. Es obliegt ihnen, geeignete Massnahmen zu ergreifen, um die Daten, die sie benötigen, aufzubewahren und/oder um noch laufende Verfahren fortzusetzen.
+<sup>3</sup> Die Person, die unbeabsichtigt auf Daten zugreift, ohne dazu ordnungsgemäss ermächtigt zu sein, vernichtet diese und informiert die zuständige Verwaltungsbehörde oder, wenn diese nicht feststellbar ist, die Staatskanzlei.
 
 #### Art. 6
 
-**Vorteile (Art. 6 Abs. 5 E-GovG)**
+**Identifizierung natürlicher Personen**
 
-<sup>1</sup> In der Spezialgesetzgebung werden die Fälle, in denen natürlichen und juristischen Personen ein Vorteil gewährt wird, weil sie gewisse Transaktionen über den virtuellen Schalter erledigen, geregelt, falls dem Staat ein wesentlicher Vorteil aus der Nutzung des elektronischen Wegs entsteht.
+<sup>1</sup> Die Daten, welche die Benutzerin oder der Benutzer zur Identifizierung angibt, werden mit denjenigen des kantonalen Bezugssystems oder, falls dort entsprechende Daten fehlen, mit anderen amtlichen Registern verglichen.
+
+<sup>2</sup> Im Falle von Abweichungen weist das Informatiksystem die Benutzerin oder den Benutzer auf die festgestellten Fehler hin und fordert sie oder ihn dazu auf, die Eingabe zu korrigieren oder die notwendigen Schritte zur Aktualisierung der erforderlichen Daten zu unternehmen.
+
+<sup>3</sup> Die Staatskanzlei erlässt Richtlinien über den Prozess der Identifizierung natürlicher Personen.
 
 #### Art. 7
 
-**Verzeichnis der Userinnen und User (Art. 14 ff. E-GovG)**
+**Vertretung**
 
-<sup>1</sup> Für den technischen Betrieb des E-Government-Schalters wird ein Verzeichnis der Userinnen und User geschaffen; es kann folgende Informationen enthalten:
+<sup>1</sup> Eine Person, die über ein elektronisches Konto verfügt und einer anderen Person die Befugnis, sie zu vertreten und in ihrem Namen und auf eigene Rechnung Transaktionen auszuführen, erteilen will, unterzeichnet über die dafür vorgesehene Funktionalität im virtuellen Schalter eine Vollmacht.
 
-- a) die User-ID der betroffenen Person für ihr Konto;
-- b) den Verlauf ihrer Transaktionen;
-- c) den Verlauf ihrer Zahlungen;
-- d) die Daten zum Vertrag und zu den allgemeinen Bedingungen sowie die Ermächtigungen im Zusammenhang mit ihrem Konto (Vollmachten, Rolle nach Tätigkeit usw.);
-- e) die weiteren Personendaten, die freiwillig geliefert werden, und, während der Zeit, die es braucht, um die Transaktion richtig abzuwickeln, Daten, die behandelt werden müssen, um die gewünschte Transaktion auszuführen.
+<sup>2</sup> Die Vollmacht kann allgemein oder nur für gewisse Leistungen gewährt werden. Die Benutzerin oder der Benutzer kann die Vertretungsrechte jederzeit widerrufen. Sie oder er ist für alle Handlungen verantwortlich, die von der Vertreterin oder vom Vertreter ausgeführt werden, solange die Vollmacht gültig ist.
+
+<sup>3</sup> In besonderen Fällen kann die Verwaltungsbehörde eine Vollmacht in einer besonderen Form verlangen.
+
+<sup>4</sup> Die Vertreterin oder der Vertreter muss klar identifizierbar sein und über ein Konto und ein eigenes elektronisches Identifikationsmittel verfügen.
+
+<sup>5</sup> Die Vorschriften über die gesetzliche Vertretung und allfällige Einschränkungen bei der Wahl der Vertreterinnen und Vertreter oder der Bevollmächtigten, die in der Spezialgesetzgebung vorgesehen werden, bleiben vorbehalten.
 
 #### Art. 8
 
-**Aufbewahrung der Daten (Art. 16 ff. E-GovG)**
+**Anmeldung von juristischen Personen und anderen Kategorien anerkannter Organisationen**
 
-<sup>1</sup> Der virtuelle Schalter gibt der betroffenen Person einen Überblick über den Verlauf der Transaktionen, die sie in den letzten 24 Monaten getätigt hat.
+<sup>1</sup> Eine natürliche Person kann unter folgenden Bedingungen im Namen einer juristischen Person oder einer anderen anerkannten Organisation ein Konto im virtuellen Schalter erstellen:
 
-<sup>2</sup> Die übrigen Daten der Userinnen und User werden im virtuellen Schalter wie folgt aufbewahrt:
+- a) Sie verfügt über ein persönliches Konto im virtuellen Schalter.
+- b) Sie verfügt über die Vertretungsrechte für die betreffende Organisation.
 
-- a) während der Dauer des Nutzungsvertrags und ein Jahr nach dessen Ende: die Beweismittel für das Unterschreiben des Vertrags und dessen Nachträge sowie für die Zustimmung zu den allgemeinen Bedingungen und deren Änderungen;
-- b) während 24 Monaten: die nötigen Daten, um die Übersicht über den Verlauf herzustellen;
-- c) während höchstens 24 Monaten: die Daten zur Kontrolle des Betriebs des virtuellen Schalters, einschliesslich der Erfassung der Verwaltungseinheiten, die auf die Kontodaten zugegriffen haben;
-- d) bis zur Übernahme durch die fachliche Anwendung (d. h. ohne Unvorhergesehenes während der Dauer der Transaktion): die heiklen Personendaten, die für das Gesuch um eine besondere Leistung gesammelt werden.
+<sup>2</sup> Die Registrierung erfolgt mit einer Nutzungsvereinbarung zwischen der Person oder den Personen, die berechtigt sind, die Organisation zu vertreten, und dem Organ, das zur Bestätigung der Registrierung bestimmt wurde. In der Nutzungsvereinbarung kann bestimmt werden, dass Angestellte oder Drittpersonen ermächtigt werden, im Namen und auf Rechnung der Organisation zu handeln.Gegebenenfalls wird die Person, welche diese Bewilligungen verwaltet, erwähnt.
 
-<sup>3</sup> Nach der oben erwähnten Aufbewahrungsdauer werden die Daten aus dem virtuellen Schalter gelöscht. Anonymisierte technische Daten können aber zu Statistikzwecken aufbewahrt werden.
+<sup>3</sup> Jede juristische Person oder anerkannte Organisation, die den virtuellen Schalter nutzt, ist für die Verwaltung der von ihr erteilten Bewilligungen verantwortlich und sorgt insbesondere dafür, dass Personen, die nicht mehr befugt sind, sie zu vertreten, ersetzt werden. Die Erteilung und der Entzug von Vertretungsbefugnissen unterliegen keiner formellen Bestätigung durch das für den Schalter zuständige Organ.
 
-<sup>4</sup> Die kantonale persönliche User-ID und die Daten, die es für die Individualisierung der entsprechenden Person braucht, werden bis zum Tod der natürlichen Person und bis zur Auflösung der betreffenden juristischen Person sowie für die Dauer der Verfahren nach deren Verschwinden im kantonalen Bezugssystem aufbewahrt.
+<sup>4</sup> Für jede Kategorie von Organisationen bestimmt die Staatskanzlei das Organ, das für die Bestätigung der Registrierung zuständig ist. Eine Bestätigung wird an den Sitz der betreffenden juristischen Person oder an die Organisation gesandt.
 
-<sup>5</sup> Die Aufbewahrung der übrigen Daten des kantonalen Bezugssystems und der Daten, die von den Verwaltungseinheiten im ihnen zukommenden Informationssystem behandelt werden, wird in der Gesetzgebung, die für das betreffende Verfahren gilt, und derjenigen über die Archivierung geregelt.
+<sup>5</sup> Die Staatskanzlei regelt die Einzelheiten des Registrierungsverfahrens in einer Richtlinie.
 
 #### Art. 9
 
-**Identifikation der natürlichen Personen (Art. 14 und 19 E-GovG)**
+**Einwilligung**
 
-<sup>1</sup> Das Informatiksystem gleicht die Daten, welche die Person eingibt, um sich zu identifizieren, mit denjenigen im kantonalen Bezugssystem ab und meldet der Userin oder dem User allfällige Abweichungen, damit es über genaue und nachgeführte Daten im kantonalen Bezugssystem und in den einschlägigen Registern und Datenbanken verfügt (Art. 14 Abs. 2 E-GovG). Die Userin oder der User wird aufgefordert, ihre oder seine Eingabe zu korrigieren oder die nötigen Schritte zu unternehmen, um die geforderten Daten nachzuführen.
+<sup>1</sup> Eine Einwilligung liegt vor, wenn die Benutzerin oder der Benutzer das Gesuch weiterführt, nachdem sie oder er klar über die Daten, die für die Erbringung der gewünschten Leistung nötig sind, informiert wurde.
 
-<sup>2</sup> Wenn der Zugang verweigert wird, erhält die betroffene Person zur Information eine Nachricht, wenn möglich ein E-Mail, mit einer kurzen Begründung. Sie kann verlangen, dass die zuständige Verwaltungseinheit eine Verfügung im Sinn des Gesetzes über die Verwaltungsrechtspflege erlässt oder prüft, ob ein besonderer Grund vorliegt, ihr doch den Zugriff auf den virtuellen Schalter zu bewilligen.
+<sup>2</sup> Für die Bearbeitungen besonders schützenswerter oder an eine private Organisation ausgelagerter Daten wird eine ausdrückliche Einwilligung verlangt. Gegebenenfalls obliegt es der für die Leistung zuständigen Verwaltungsbehörde, sicherzustellen, dass diese Verpflichtung eingehalten wird.
+
+<sup>3</sup> Die Benutzerin oder der Benutzer kann die Einwilligungen, die sie oder er erteilt hat, vom virtuellen Schalter aus verwalten. Sie oder er verfügt dazu über eine Historie aller ihrer oder seiner Einwilligungen.
+
+<sup>4</sup> Der Nachweis der Einwilligung wird von der Behörde, die für die Leistung zuständig ist, aufbewahrt; diese legt auch die Dauer der Aufbewahrung fest.
 
 #### Art. 10
 
-**Besondere Zugangsberechtigung (Art. 14 und 18 E-GovG)**
+**Schliessung, Sperrung und Löschung des Kontos**
 
-<sup>1</sup> Wenn die Zugangsberechtigung zu gewissen Leistungen von besonderen Anforderungen abhängt, muss sie von der betreffenden Verwaltungseinheit verwaltet werden.
+<sup>1</sup> Jede Benutzerin und jeder Benutzer kann ihr oder sein Konto im virtuellen Schalter jederzeit schliessen. Das Konto wird sofort gelöscht. Ein geschlossenes Konto kann nicht reaktiviert werden.
 
-<sup>2</sup> …
+<sup>2</sup> Der Zugang zu einem Konto kann von der Staatskanzlei mit einer kurzen Ankündigung gesperrt werden, wenn:
+
+- a) die Benutzerin oder der Benutzer gegen die Nutzungsbestimmungen verstösst;
+- b) ein Missbrauch zu befürchten ist.
+
+<sup>3</sup> Ein elektronisches Konto kann nach einer dreimonatigen Kündigungsfrist gelöscht werden:
+
+- a) automatisch, wenn das Konto seit 36 Monaten inaktiv ist;
+- b) von der Staatskanzlei, wenn das Konto nicht mehr den erforderlichen technischen Anforderungen entspricht.
+
+<sup>4</sup> Benutzerinnen und Benutzer, die ihr Konto schliessen oder eine Vorankündigung zur Löschung ihres Kontos erhalten, werden darüber informiert, dass ihre Daten nach Ablauf der in der Vorankündigung vermerkten Frist endgültig gelöscht werden. Es obliegt der Benutzerin oder dem Benutzer geeignete Massnahmen zu ergreifen, um ihre oder seine Daten, die sie oder er noch braucht und/oder mit denen sie oder er noch laufende Verfahren fortzusetzen gedenkt, in geeigneter Weise aufzubewahren.
+
+<sup>5</sup> Die Vorankündigung der Sperrung oder Löschung des Kontos wird per E-Mail an die Adresse gesendet, welche die Benutzerin oder der Benutzer nutzt, um sich im virtuellen Schalter anzumelden.
 
 #### Art. 11
 
-**Identifikation der natürlichen Personen (Art. 15 E-GovG)**
+**Allgemeine Nutzungsbedingungen**
 
-<sup>1</sup> Eine Person, die über ein elektronisches Konto verfügt und die einer anderen Person die Vollmacht, sie zu vertreten und in ihrem Namen und auf eigene Rechnung Transaktionen auszuführen, erteilen will, unterzeichnet eine Vollmacht auf einem Formular, das von der Staatskanzlei erstellt wird.
+<sup>1</sup> Die Staatskanzlei ist zuständig für das Erlassen von Allgemeinen Nutzungsbedingungen des virtuellen Schalters.
 
-<sup>2</sup> Die Vollmacht kann allgemein oder nur für gewisse Verfahren gelten. In allen Fällen werden das Ausmass der Vertretungsvollmacht und insbesondere die betroffenen Leistungen klar festgehalten.
+<sup>2</sup> Jede neue Version oder wesentliche Änderung der Allgemeinen Nutzungsbedingungen wird vorab der E-Government-Kommission des Staates (EGovK) unterbreitet.
 
-<sup>3</sup> Die Vertreterin oder der Vertreter muss klar identifizierbar sein und über ein Konto und über ihr oder sein eigenes Mittel zur elektronischen Identifikation verfügen.
+<sup>3</sup> Falls die Allgemeinen Nutzungsbedingungen geändert werden, wird jede Benutzerin und jeder Benutzer aufgefordert, die neuen Bedingungen zu akzeptieren. Solange die neuen Bedingungen nicht angenommen wurden, kann die Nutzung des virtuellen Schalters eingeschränkt oder gesperrt werden.
 
-<sup>4</sup> Die gesetzliche Vertreterin oder der gesetzliche Vertreter und die Person, die ausserhalb des virtuellen Schalters über eine Vollmacht verfügt, können von der Staatskanzlei verlangen, dass ihre Rechte auf dem Konto der vertretenen Person aktiviert werden und wenn nötig ein elektronisches Konto im Namen der vertretenen Person eröffnet wird.
+<sup>4</sup> Die neuen Allgemeinen Nutzungsbedingungen werden der kantonalen Behörde für Öffentlichkeit, Datenschutz und Mediation zur Kenntnisnahme übermittelt.
 
-<sup>5</sup> Allfällige Einschränkungen bei der Wahl der Vertreterinnen und Vertreter und der Beauftragten, die in der Gesetzgebung vorgesehen werden, bleiben vorbehalten.
-
-<sup>6</sup> Die Vorschriften über die Vertretung gelten sinngemäss für die Verleihung von Leserechten auf dem elektronischen Konto.
+## 3 Elektronische Dienste
 
 #### Art. 12
 
-**Nutzungsvertrag der juristischen Personen und weiterer Firmen (Art. 14 und 22 E-GovG)**
+**Basidienste**
 
-<sup>1</sup> Der Vertrag zur Nutzung des virtuellen Schalters durch eine juristische Person wird grundsätzlich in der ordentlichen schriftlichen Form abgeschlossen. Die Staatskanzlei bestimmt, in welchen Fällen der Nutzungsvertrag elektronisch abgeschlossen werden kann. Das gilt auch für die Modalitäten der Vertretung.
+<sup>1</sup> Der virtuelle Schalter bietet schrittweise Basisdienste an, welche den Einsatz und den einheitlichen Betrieb von Online-Leistungen erleichtern.
 
-<sup>2</sup> Im Vertrag kann vorgesehen werden, dass Angestellte oder Drittpersonen ermächtigt werden, im Namen und auf Rechnung der juristischen Person zu handeln. Gegebenenfalls wird darin die Person, welche diese Bewilligungen (Bezeichnung der Personen, Definition und Widerruf ihrer Rechte und Information des Organs, das den Schalter verwaltet) verwalten darf, erwähnt.
+<sup>2</sup> Der Schalter bietet insbesondere folgende Basisdienste an:
 
-<sup>3</sup> Die Absätze 1 und 2 gelten sinngemäss für Firmen ohne Rechtspersönlichkeit.
+- a) ein Modul für Online-Zahlungen;
+- b) ein Dienst zur Verifizierung der Authentizität eines Dokuments in elektronischer Form;
+- c) ein System zum sicheren Datenaustausch;
+- d) eine Funktionalität zur Nachverfolgung der laufenden Gesuche;
+- e) ein separates und gesichertes Verzeichnis zur Datenspeicherung;
+- f) spezifische Werkzeuge für die Bereitstellung von Leistungen der Gemeinden.
 
-<sup>4</sup> Ausserdem gelten die Vorschriften für die natürlichen Personen sinngemäss.
+<sup>3</sup> Die Staatskanzlei hat gemeinsam mit dem ITA die Verantwortung für die Basisdienste. Insbesondere stellen sie sicher, dass für jeden Dienst die geeigneten Sicherheitsmassnahmen zur Anwendung gelangen.
+
+<sup>4</sup> Die Staatskanzlei kann unter Mitwirkung des ITA Reglemente über den Betrieb und die Nutzung der Basisdienste erlassen.
 
 #### Art. 13
 
-**Unterstützung**
+**Online-Leistungen der Verwaltung – Gemeinsame Bestimmung**
 
-<sup>1</sup> Den Userinnen und Usern stehen eine Online-Hilfe und eine Unterstützung über Telekommunikation in beiden Amtssprachen zur Verfügung. Die Unterstützung über Telekommunikation kann auf die Arbeitszeit der Kantonsverwaltung beschränkt werden.
+<sup>1</sup> Über den virtuellen Schalter werden schrittweise Leistungen angeboten, die denjenigen des Kantons und der Gemeinden entsprechen.
 
-#### Art. 13a
+<sup>2</sup> Für die Unterstützung der Benutzerinnen und Benutzer einer Leistung ist die Verwaltungsbehörde, welche diese erbringt, verantwortlich. Sie erhält technische Unterstützung vom ITA. Die Verwaltungsbehörde ist darüber hinaus Verantwortlicher im Sinne der Datenschutzgesetzgebung.
 
-**Elektronisches Identifikationsmittel (Art. 34 E-GovG)**
-
-<sup>1</sup> Der Staatsrat legt auf gemeinsamen Vorschlag der Staatskanzlei und des ITA das oder die elektronischen Identifikationsmittel, die für die Verbindung mit dem virtuellen Schalter anerkannt werden, fest. Je nach Bedarf und verfügbaren Lösungen können sie entweder auf einer von der öffentlichen Hand entwickelten Lösung oder auf einer von einem privaten Anbieter angebotenen Lösung beruhen.
-
-<sup>2</sup> Bei einem Wechsel des elektronischen Identifikationsmittels ist die Staatskanzlei dafür zuständig, die Migration zu den neu gewählten Identifikationsmitteln zu organisieren. Sie kann den betroffenen Personen eine Frist setzen, um die Migration durchzuführen. Es gilt Artikel 5 Abs. 4 Bst. b.
+<sup>3</sup> Die Bereitstellung neuer Leistungen folgt den von der Staatskanzlei festgelegten Regeln für die Standardisierung des virtuellen Schalters.
 
 #### Art. 14
 
-**Befugnisse der Staatskanzlei**
+**Online-Leistungen der Verwaltung – Kanton**
 
-<sup>1</sup> Die Verordnung vom 12. März 2002 über die Zuständigkeitsbereiche der Direktionen des Staatsrats und der Staatskanzlei (SGF 122.0.12) wird wie folgt geändert:
+<sup>1</sup> Die Einrichtung jeder neuen Leistung im virtuellen Schalter bedarf der vorgängigen Zustimmung der zuständigen Direktion, die überprüft, ob die geltenden rechtlichen Grundlagen eingehalten werden. Die autonomen Einheiten im Sinne von Artikel 2 Abs. 2 GDISV führen diese Überprüfung selbst durch.
 
-...
+<sup>2</sup> Eine neue Leistung wird gemäss den Bestimmungen über das Management von Informatikprojekten gemäss GDISV hinzugefügt. Die EGovK führt eine Roadmap der Leistungen und legt deren Priorisierung bei der Umsetzung fest.
 
 #### Art. 15
 
-**Gebühren (Art. 6 Abs. 2 und 3 E-GovG)**
+**Online-Leistungen der Verwaltung – Leistungen von Gemeinden und Gemeindeverbänden**
 
-<sup>1</sup> Der Tarif vom 9. Januar 1968 der Verwaltungsgebühren (SGF 126.21) wird wie folgt geändert:
+<sup>1</sup> Die Einrichtung neuer Leistungen der Gemeinden wird in einer Vereinbarung zwischen dem Staat und den Gemeinden geregelt. Das Genehmigungsorgan im Sinne von Artikel 14 Abs. 1 ist der Freiburger Gemeindeverband oder ein anderes von ihm bezeichnetes Organ. Die EGovK nimmt die Leistungen der Gemeinden in ihre Roadmap auf.
 
-...
+<sup>2</sup> Das Hinzufügen und das Verwalten von Leistungen der Gemeinden im virtuellen Schalter werden von den Gemeinden finanziert. Der Staatsrat kann aber eine bis zum 31. Dezember 2026 befristete finanzielle Unterstützung vorsehen.
+
+<sup>3</sup> Die Einrichtung von Leistungen durch den Staat auf Rechnung der Gemeinden unterliegt den Bestimmungen der GDISV über das Management von Informatikprojekten.
 
 #### Art. 16
 
-**Inkrafttreten**
+**Leistungen Dritter**
 
-<sup>1</sup> Diese Verordnung tritt am 1. Juni 2017 in Kraft.
+<sup>1</sup> Eine Verwaltungsbehörde kann unter folgenden Bedingungen Leistungen Dritter im virtuellen Schalter anbieten:
 
-2017\_041
+- a) Die Leistungen stehen im Zusammenhang mit der Erfüllung einer Aufgabe, die vom Bundes-, Kantons- oder Gemeinderecht vorgeschrieben wird.
+- b) Die Leistungen genügen den Anforderungen der Gesetzgebung über den Datenschutz und die Informationssicherheit.
+
+<sup>2</sup> Eine Leistung Dritter wird gemäss dem Verfahren hinzugefügt, das für die Behörde gilt, welche die Leistung vorschlägt.
+
+#### Art. 17
+
+**Online-Leistungen, die besonderen Anforderungen unterliegen**
+
+<sup>1</sup> Das Recht auf Zugang zu bestimmten Leistungen kann von besonderen Anforderungen abhängig gemacht werden. Die verantwortliche Verwaltungsbehörde muss diese definieren, zugänglich machen und ihre Einhaltung sicherstellen.
+
+<sup>2</sup> Wenn der Zugang verweigert wird, erhält die betroffene Person zur Information ein E-Mail mit einer kurzen Begründung. Sie kann verlangen, dass die zuständige Verwaltungsbehörde einen Entscheid im Sinn des Gesetzes über die Verwaltungsrechtspflege erlässt oder prüft, ob ein besonderer Grund vorliegt, der betroffenen Person den Zugang zur Leistung trotzdem zu bewilligen.
+
+## 4 Daten des virtuellen Schalters
+
+#### Art. 18
+
+**Daten der Benutzerinnen und Benutzer**
+
+<sup>1</sup> Für den Betrieb des virtuellen Schalters werden folgende Personendaten bearbeitet:
+
+- a) die Grunddaten der Person, die zum Zeitpunkt ihrer Registrierung erhoben wurden;
+- b) die User-ID der betroffenen Person für ihr Konto;
+- c) der kantonalen Identifikator der Person und wenn nötig ihre AHV-Nummer im Sinne der Gesetzgebung über die Alters- und Hinterlassenenversicherung;
+- d) die Historie ihrer Transaktionen und Aktivitäten;
+- e) die Historie ihrer Zahlungen;
+- f) die Daten zur Vereinbarung und zu den Allgemeinen Nutzungsbedingungen und die Befugnisse im Zusammenhang mit ihrem Konto (Vollmachten, Rollen nach Tätigkeitsbereich usw.);
+- g) die weiteren Personendaten, die freiwillig zu Verfügung gestellt werden;
+- h) Dokumente und Nachrichten zu den beantragten Leistungen;
+- i) der Nachweis von Einwilligungen und die Daten, die gemäss diesen verarbeitet werden;
+- j) Protokolldaten (URL, User-ID, Fehlermeldungen usw.).
+
+#### Art. 19
+
+**Fristen für die Aufbewahrung von Daten – Grundsatz**
+
+<sup>1</sup> Der virtuelle Schalter ermöglicht der betroffenen Person einen Überblick über die Historie der Transaktionen, die sie in den letzten 24 Monaten getätigt hat.
+
+<sup>2</sup> Folgende Daten der Benutzerinnen und Benutzer werden im Schalter aufbewahrt:
+
+- a) während der Dauer der Nutzungsvereinbarung: die Daten nach Artikel 18 Abs. 1 Bst. a, b, c, f, g und i;
+- b) während der Dauer der Nutzungsvereinbarung: Dokumente und Nachrichten zu den beantragten Leistungen, es sei denn, die Staatskanzlei oder die Verwaltungsbehörde legt eine kürzere Aufbewahrungsfrist fest;
+- c) während 24 Monaten: die nötigen Daten für die Übersicht über die Historie;
+- d) während höchstens 24 Monaten: die Daten zur Kontrolle des Betriebs des virtuellen Schalters, einschliesslich der Rückverfolgung der Zugriffe der Verwaltungseinheiten auf die Kontodaten;
+- e) bis zu ihrer Übernahme durch die zuständige Verwaltungsbehörde: Personendaten, die für die Durchführung der erforderlichen Transaktion erhoben wurden;
+- f) während 30 Tagen: die Protokolldaten.
+
+<sup>3</sup> Nach der oben erwähnten Aufbewahrungsdauer werden die Daten aus dem virtuellen Schalter gelöscht. Anonymisierte technische Daten können aber zu Statistikzwecken aufbewahrt werden.
+
+<sup>4</sup> Die Aufbewahrung der Daten des kantonalen Bezugssystems und die Aufbewahrung der Daten, die von den Verwaltungseinheiten in dem ihnen zugewiesenen Informationssystem bearbeitet werden, werden in der Spezialgesetzgebung und in der Gesetzgebung über die Archivierung geregelt.
+
+#### Art. 20
+
+**Frist für die Aufbewahrung der Daten – Sonderfall**
+
+<sup>1</sup> In Sonderfällen können die Daten, die für die Ausführung einer bestimmten Leistung erhoben werden, in einem eigens dafür eingerichteten Basisdienst des virtuellen Schalters gespeichert werden. Die Daten werden innerhalb von 30 Tagen nach der Leistungserbringung oder Ablehnung der Leistung gelöscht.
+
+<sup>2</sup> Sonderfälle sind Leistungen, bei denen:
+
+- a) es keine spezifische Lösung gibt und
+- b) der Aufwand und die Kosten für die Entwicklung einer solchen Lösung unverhältnismässig wären.
+
+<sup>3</sup> Die Nutzung dieses Basisdienstes bedarf der Genehmigung durch die Staatskanzlei. Diese berücksichtigt die besondere Situation der Gemeinden.
+
+#### Art. 21
+
+**Daten im Zusammenhang mit der Ausführung kontinuierlicher Leistungen**
+
+<sup>1</sup> Der virtuelle Schalter kann Daten im Zusammenhang mit der Durchführung und Überwachung kontinuierlicher Leistungen speichern und automatisiert verarbeiten.
+
+<sup>2</sup> Die Benutzerin oder der Benutzer, die oder der eine kontinuierliche Leistung aktivieren möchte, wird darüber informiert, dass ihre oder seine Personendaten direkt im virtuellen Schalter gespeichert und bearbeitet werden.
+
+<sup>3</sup> Die Daten werden in einem separaten Verzeichnis gehostet und sind verschlüsselt. Der Entschlüsselungsschlüssel befindet sich im Besitz der Verwaltungsbehörde, welche die Leistung erbringt, und des Organs, das für die technische Unterstützung zuständig ist.
+
+<sup>4</sup> Die Aufbewahrungsfrist für Daten, die mit der Ausführung kontinuierlicher Leistungen verbunden sind, wird von der Verwaltungsbehörde festgelegt, die sie bereitstellt. Daten, die nicht aktualisiert wurden, werden spätestens nach zwei Jahren gelöscht.
+
+## 5 Elektronische Identifikationsmittel
+
+#### Art. 22
+
+**Anerkannte elektronische Identifikationsmittel**
+
+<sup>1</sup> Der Staatsrat legt das oder die elektronischen Identifikationsmittel, die für die Verbindung mit dem virtuellen Schalter anerkannt werden, auf Antrag der Finanzdirektion und der Staatskanzlei fest. Je nach Bedarf und den verfügbaren Lösungen können sie entweder auf einer von der öffentlichen Hand entwickelten Lösung oder auf der Lösung einer privaten Anbieterin oder eines privaten Anbieters beruhen.
+
+<sup>2</sup> Bei einem Wechsel des elektronischen Identifikationsmittels organisiert die Staatskanzlei in Zusammenarbeit mit dem ITA die Migration zu dem oder den neu gewählten Mitteln. Sie kann den betroffenen Personen eine Frist setzen, um die Migration durchzuführen. Artikel 10 Abs. 3 ist anwendbar.
+
+<sup>3</sup> Sofern der Staatsrat nichts anderes beschliesst, gelten die für den virtuellen Schalter anerkannten elektronischen Identifikationsmittel auch für die anderen elektronischen Plattformen des Staates, die der Bevölkerung zugänglich sind.
+
+#### Art. 23
+
+**Registrierungsbehörden**
+
+<sup>1</sup> Die Staatskanzlei bestimmt die mit der Registrierung betrauten Behörden und berücksichtigt dabei die Anforderungen, die für jede Art von Leistung gelten, und die entsprechende Gesetzgebung.
+
+#### Art. 24
+
+**Vertrauensstufen**
+
+<sup>1</sup> Die zur Verfügung gestellten Vertrauensstufen orientieren sich an den einschlägigen Standards, die von den Dachorganen des E-Government in der Schweiz verabschiedet wurden.
+
+<sup>2</sup> Die verantwortliche Verwaltungsbehörde legt je nach Sensibilität der angebotenen Leistung die Mindeststufe an Vertrauen fest, das für die Identifizierung der Benutzerin oder des Benutzers erforderlich ist.
+
+<sup>3</sup> Die Leistungen sind auch dann zugänglich, wenn das verwendete Identifikationsmittel eine höhere als die erforderliche Vertrauensstufe aufweist.
+
+## 6 Verschiedene Bestimmungen
+
+#### Art. 25
+
+**Benutzererfahrung und Barrierefreiheit**
+
+<sup>1</sup> Alle Leistungen des virtuellen Schalters müssen die grafischen Leitlinien, die Navigationsschritte, die Vorschriften über die Barrierefreiheit und die anderen von der Staatskanzlei festgelegten Regeln für die Benutzererfahrung einhalten.
+
+#### Art. 26
+
+**Vorteile**
+
+<sup>1</sup> In der Spezialgesetzgebung werden die Fälle, in denen natürlichen und juristischen Personen ein Vorteil gewährt wird, weil sie gewisse Transaktionen über den virtuellen Schalter erledigen, geregelt; Voraussetzung dafür ist, dass dem Staat oder den Gemeinden ein wesentlicher Vorteil aus der Nutzung des elektronischen Kanals entsteht.
+
+#### Art. 27
+
+**Unterstützung**
+
+<sup>1</sup> Den Benutzerinnen und Benutzern stehen eine Online-Hilfe und eine Unterstützung über Telekommunikation in beiden Amtssprachen zur Verfügung. Die Unterstützung über Telekommunikation kann auf die Arbeitszeit der betroffenen Verwaltungsbehörde beschränkt werden.
+
+## 7 Schlussbestimmungen
+
+#### Art. 28
+
+**Übergangsrecht**
+
+<sup>1</sup> Registrierungen von natürlichen Personen, juristischen Personen und anderen anerkannten Organisationen, die im virtuellen Schalter bereits gemäss der Verordnung vom 15. Mai 2017 über den E-Government-Schalter (E-Government-Schalterverordnung, E-GovSchV) vorgenommen wurden, bleiben gültig.
+
+2023\_102
