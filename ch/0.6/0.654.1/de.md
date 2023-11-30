@@ -3,11 +3,11 @@ sr: "0.654.1"
 title: Multilaterale Vereinbarung vom 27. Januar 2016 der zuständigen Behörden über den Austausch länderbezogener Berichte
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/785"
 language: de
-version: 2023-03-23
+version: 2023-12-01
 adopted: 2016-01-27
 in_force: 2017-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/785/20230323/de/xml/fedlex-data-admin-ch-eli-cc-2017-785-20230323-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/785/20230323/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/785/20231201/de/xml/fedlex-data-admin-ch-eli-cc-2017-785-20231201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/785/20231201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Von der Bundesversammlung genehmigt am 16. Juni 2017[^t-1]
 
 In Kraft getreten am 1. Dezember 2017
 
-(Stand am 23. März 2023)
+(Stand am 1. Dezember 2023)
 
 [^t-1]: [AS 2017 7243](https://fedlex.data.admin.ch/eli/oc/2017/784)
 
@@ -163,7 +163,7 @@ Sofern die Vereinbarung nichts anderes vorsieht, benachrichtigt das Sekretariat 
 
 Geschehen in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist.
 
-Geltungsbereich am 23. März 2023[^t-2]
+Geltungsbereich am 1. Dezember 2023[^t-2]
 
 Die Schweiz ist durch die Bestimmungen der Multilateralen Vereinbarung der zuständigen Behörden über den Austausch länderbezogener Berichte in Bezug auf die folgenden Staaten und Gebiete gebunden, gemäss Abschnitt 8 Absatz 2 dieser Vereinbarung:
 
@@ -172,6 +172,7 @@ Die Schweiz ist durch die Bestimmungen der Multilateralen Vereinbarung der zust�
 <tr><td>Andorra</td><td>1. Januar 2018</td></tr>
 <tr><td>Anguilla</td><td>1. Januar 2018\*</td></tr>
 <tr><td>Argentinien</td><td>1. Januar 2018\*\*</td></tr>
+<tr><td>Aruba</td><td>1. Januar 2019</td></tr>
 <tr><td>Australien</td><td>1. Januar 2018\*\*</td></tr>
 <tr><td>Aserbaidschan</td><td>1. Januar 2018</td></tr>
 <tr><td>Bahamas</td><td>1. Januar 2019\*</td></tr>
@@ -185,12 +186,12 @@ Die Schweiz ist durch die Bestimmungen der Multilateralen Vereinbarung der zust�
 <tr><td>Bulgarien</td><td>1. Januar 2018\*\*</td></tr>
 <tr><td>Chile</td><td>1. Januar 2018</td></tr>
 <tr><td>China</td><td>1. Januar 2018</td></tr>
-<tr><td>China - Macau</td><td>1. Januar 2019\*</td></tr>
 <tr><td>Costa Rica</td><td>1. Januar 2018\*</td></tr>
-<tr><td>Curacao</td><td>1. Januar 2018\*</td></tr>
+<tr><td>Curaçao</td><td>1. Januar 2018\*</td></tr>
 <tr><td>Dänemark</td><td>1. Januar 2018\*\*</td></tr>
 <tr><td>Deutschland</td><td>1. Januar 2018\*\*</td></tr>
 <tr><td>Estland</td><td>1. Januar 2018\*\*</td></tr>
+<tr><td>Färöer</td><td>1. Januar 2024</td></tr>
 <tr><td>Finnland</td><td>1. Januar 2018\*\*</td></tr>
 <tr><td>Frankreich</td><td>1. Januar 2018\*\*</td></tr>
 <tr><td>Gibraltar</td><td>1. Januar 2018</td></tr>
@@ -211,18 +212,22 @@ Die Schweiz ist durch die Bestimmungen der Multilateralen Vereinbarung der zust�
 <tr><td>Kanada</td><td>1. Januar 2018</td></tr>
 <tr><td>Kasachstan</td><td>1. Januar 2018</td></tr>
 <tr><td>Katar</td><td>1. Januar 2018\*</td></tr>
+<tr><td>Kenia</td><td>1. Januar 2022</td></tr>
 <tr><td>Kolumbien</td><td>1. Januar 2018\*\*</td></tr>
 <tr><td>Kroatien</td><td>1. Januar 2018</td></tr>
 <tr><td>Lettland</td><td>1. Januar 2018</td></tr>
+<tr><td>Liberia</td><td>1. Januar 2024\*</td></tr>
 <tr><td>Liechtenstein</td><td>1. Januar 2018\*\*</td></tr>
 <tr><td>Litauen</td><td>1. Januar 2018\*\*</td></tr>
 <tr><td>Luxemburg</td><td>1. Januar 2018\*\*</td></tr>
+<tr><td>Macau</td><td>1. Januar 2019\*</td></tr>
 <tr><td>Malaysia</td><td>1. Januar 2018\*\*</td></tr>
 <tr><td>Malediven</td><td>1. Januar 2018\*\*</td></tr>
 <tr><td>Malta</td><td>1. Januar 2018\*\*</td></tr>
 <tr><td>Mauritius</td><td>1. Januar 2018</td></tr>
 <tr><td>Mexiko</td><td>1. Januar 2018\*\*</td></tr>
 <tr><td>Monaco</td><td>1. Januar 2018</td></tr>
+<tr><td>Montserrat</td><td>1. Januar 2024\*</td></tr>
 <tr><td>Neuseeland</td><td>1. Januar 2018\*\*</td></tr>
 <tr><td>Niederlande</td><td>1. Januar 2018\*\*</td></tr>
 <tr><td>Nigeria</td><td>1. Januar 2018</td></tr>
@@ -258,5 +263,5 @@ Die Schweiz ist durch die Bestimmungen der Multilateralen Vereinbarung der zust�
 <tr><td colspan="2">\* Diese Staaten und Gebiete wenden den automatischen Informationsaustausch gestützt auf eine Notifikation gemäss Abschnitt 8 Absatz 1 Buchstabe b der Multilateralen Vereinbarung ständig in nichtreziproker Weise an. Dies bedeutet, dass sie keine länderbezogene Berichte von der Schweiz erhalten, der Schweiz aber solche Berichte übermitteln werden. \*\* Einschliesslich freiwillig in der Schweiz eingereichte länderbezogene Berichte für Steuerperioden 2016 und 2017 gemäss Erklärung zum zeitlichen Geltungsbereich für den Informationsaustausch gemäss der multilateralen Vereinbarung der zuständigen Behörden über den Austausch länderbezogener Berichte[^t-3].</td></tr>
 </table>
 
-[^t-2]: [AS 2023 155](https://fedlex.data.admin.ch/eli/oc/2023/155). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://www.fedlex.admin.ch/de/treaty.
+[^t-2]: [AS 2023 840](https://fedlex.data.admin.ch/eli/oc/2023/840). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 [^t-3]: [AS 2018 25](https://fedlex.data.admin.ch/eli/oc/2018/11)
