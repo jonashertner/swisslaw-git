@@ -4,13 +4,12 @@ number: "762.415"
 title: Verordnung über die Beiträge der Gemeinden an die Kosten des öffentlichen Verkehrs
 short: KBV
 language: de
-version: 2021-11-01
-valid_until: 2023-11-30
-version_adopted: 2021-09-22
+version: 2023-12-01
+version_adopted: 2023-10-25
 adopted: 1995-08-23
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/762.415"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2388/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2884/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2388/pdf_file"
 
 (KBV)
 
-vom 23.08.1995 (Stand 01.11.2021)
+vom 23.08.1995 (Stand 01.12.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -167,9 +166,9 @@ beschliesst:
 
 **Festlegung des Verteilschlüssels**
 
-<sup>1</sup> Das Amt für öffentlichen Verkehr und Verkehrskoordination berechnet das Verkehrsangebot jeweils für zwei Jahre im Voraus.
+<sup>1</sup> Das Amt für öffentlichen Verkehr und Verkehrskoordination berechnet das Verkehrsangebot in der Regel für zwei Jahre im Voraus.
 
-<sup>2</sup> Grundlage ist dabei der veröffentlichte Jahresfahrplan des Jahres vor der festzulegenden Zweijahresperiode. Bahnersatzangebote aufgrund von Umbauten oder Sanierungen werden nicht berücksichtigt, es gilt der normale Fahrplan.
+<sup>2</sup> Grundlage ist dabei der veröffentlichte Jahresfahrplan des Jahres vor der festzulegenden Periode. Bahnersatzangebote aufgrund von Umbauten oder Sanierungen werden nicht berücksichtigt, es gilt der normale Fahrplan.
 
 #### Art. 10–11
 

@@ -4,13 +4,12 @@ number: "762.415"
 title: Ordonnance sur la participation des communes aux coûts des transports publics
 short: OPCTP
 language: fr
-version: 2021-11-01
-valid_until: 2023-11-30
-version_adopted: 2021-09-22
+version: 2023-12-01
+version_adopted: 2023-10-25
 adopted: 1995-08-23
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/762.415"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2388/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2884/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2388/pdf_file"
 
 (OPCTP)
 
-du 23.08.1995 (état au 01.11.2021)
+du 23.08.1995 (état au 01.12.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -167,9 +166,9 @@ arrête:
 
 **Fixation de la clé de répartition**
 
-<sup>1</sup> L'Office des transports publics et de la coordination des transports calcule l’offre de transports publics à l’avance pour une période de deux ans.
+<sup>1</sup> L'Office des transports publics et de la coordination des transports calcule l’offre de transports publics à l’avance pour une période de deux ans en général.
 
-<sup>2</sup> Pour ce faire, il se réfère à l’horaire annuel publié l’année précédant la période de deux ans à déterminer. Les offres de remplacement en raison de travaux de transformation ou de rénovation ne sont pas prises en compte, l’horaire normal s’applique.
+<sup>2</sup> Pour ce faire, il se réfère à l’horaire annuel publié l’année précédant la période à déterminer. Les offres de remplacement en raison de travaux de transformation ou de rénovation ne sont pas prises en compte, l’horaire normal s’applique.
 
 #### Art. 10–11
 
