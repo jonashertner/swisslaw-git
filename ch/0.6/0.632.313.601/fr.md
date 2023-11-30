@@ -3,11 +3,11 @@ sr: "0.632.313.601"
 title: "Accord de libre-échange du 27 juin 2016 entre les États de l'AELE et la Géorgie (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/240"
 language: fr
-version: 2018-05-01
+version: 2023-12-01
 adopted: 2016-06-27
 in_force: 2018-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/240/20180501/fr/xml/fedlex-data-admin-ch-eli-cc-2018-240-20180501-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/240/20180501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/240/20231201/fr/xml/fedlex-data-admin-ch-eli-cc-2018-240-20231201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/240/20231201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 8 février 2018
 
 Entré en vigueur pour la Suisse le 1<sup>er</sup> mai 2018
 
-(Etat le 1<sup>er</sup> mai 2018)
+(État le 1<sup>er</sup> décembre 2023)
 
 [^t-1]: [RO 2018 1587](https://fedlex.data.admin.ch/eli/oc/2018/239)
 
@@ -249,7 +249,7 @@ Conformément à l’Annexe III et dans le but de faciliter les échanges entre 
 
 **Entreprises commerciales d’État**
 
-L’art. XVII du GATT 1994[^212-1] et le Mémorandum d’accord sur l’interprétation de l’Article XVII de l’Accord général sur les tarifs douaniers et le commerce de 1994[^212-2] s’appliquent; ils sont incorporés au présent Accord et en font partie intégrante *mut**a**tis mutandis*.
+L’art. XVII du GATT 1994[^212-1] et le Mémorandum d’accord sur l’interprétation de l’Article XVII de l’Accord général sur les tarifs douaniers et le commerce de 1994[^212-2] s’appliquent; ils sont incorporés au présent Accord et en font partie intégrante *mutatis mutandis*.
 
 [^212-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.1
 [^212-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.1.b
@@ -269,7 +269,7 @@ L’art. XVII du GATT 1994[^212-1] et le Mémorandum d’accord sur l’interpr�
 
 **Mesures antidumping**
 
-<sup>1.</sup> Les Parties s’efforcent de ne pas engager des procédures antidumping les unes contre les autres en vertu de l’art. VI du GATT 1994[^214-1] et de l’Accord de l’OMC sur la mise en œuvre de l’art. VI du GATT 1994 (ci-après dénommé «Accord *antidu**m**ping*»)[^214-2].
+<sup>1.</sup> Les Parties s’efforcent de ne pas engager des procédures antidumping les unes contre les autres en vertu de l’art. VI du GATT 1994[^214-1] et de l’Accord de l’OMC sur la mise en œuvre de l’art. VI du GATT 1994 (ci-après dénommé «Accord *antidumping*»)[^214-2].
 
 <sup>2.</sup> Avant d’ouvrir une enquête en vertu de l’Accord *antidumping*, une Partie qui a été saisie d’une demande dûment documentée adresse une notification écrite à la Partie dont les marchandises sont soupçonnées faire l’objet de dumping, tout en ménageant une période de 60 jours pour mener des consultations en vue de trouver une solution mutuellement acceptable. Les consultations ont lieu au sein du Comité mixte, si l’une des Parties en fait la demande, dans un délai de 20 jours à compter de la réception de la notification[^214-3].
 
@@ -1751,28 +1751,30 @@ Le gouvernement de Norvège agit en qualité de Dépositaire.
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé le présent Accord. Fait à Berne, le 27 juin 2016, en un exemplaire original en langue anglaise, déposé auprès du Dépositaire, lequel transmet des copies certifiées conformes à toutes les Parties. (Suivent les signatures)
 
-Liste des annexes**[^t-2]**
+Liste des annexes[^t-2]
 
 <table>
-<tr><td>**Annex I**</td><td>Product Coverage of Non-Agricultural Products</td></tr>
-<tr><td>**Annex II**</td><td>Rules of Origin</td></tr>
-<tr><td>**Annex III**</td><td>Trade Facilitation</td></tr>
-<tr><td>**Annex IV**</td><td>Mandate Sub-committee on Trade in Goods</td></tr>
-<tr><td>**Annex V**</td><td>Schedule of Tariff Commitments on Agricultural Products – Iceland and Georgia</td></tr>
-<tr><td>**Annex VI**</td><td>Schedule of Tariff Commitments on Agricultural Products – Norway and Georgia</td></tr>
-<tr><td>**Annex VII**</td><td>Schedule of Tariff Commitments on Agricultural Products – Switzerland and the Georgia</td></tr>
-<tr><td>**Annex VIII**</td><td>Schedule of Specific Commitments Appendix 1 – Georgia Appendix 2 – Iceland Appendix 3 – Liechtenstein Appendix 4 – Norway Appendix 5 – Switzerland</td></tr>
-<tr><td>**Annex IX**</td><td>List of MFN Exemptions Appendix 1 – Georgia Appendix 2 – Iceland Appendix 3 – Liechtenstein Appendix 4 – Norway Appendix 5 – Switzerland</td></tr>
-<tr><td>**Annex X**</td><td>Financial Services</td></tr>
-<tr><td>**Annex XI**</td><td>Telecommunication Services</td></tr>
-<tr><td>**Annex XII**</td><td>Maritime Transport and Related Services</td></tr>
-<tr><td>**Annex XIII**</td><td>Energy Related Services</td></tr>
-<tr><td>**Annex XIV**</td><td>Reservations Appendix 1 – Georgia Appendix 2 – Iceland Appendix 3 – Liechtenstein Appendix 4 – Norway Appendix 5 – Switzerland</td></tr>
-<tr><td>**Annex XV**</td><td>Protection of Intellectual Property</td></tr>
-<tr><td>**Annex XVI**</td><td>Government Procurement</td></tr>
+<tr><td>**Annex I**</td><td colspan="2">Product Coverage of Non-Agricultural Products</td></tr>
+<tr><td>**Annex II**</td><td colspan="2">Rules of Origin</td></tr>
+<tr><td>**Annex III**</td><td colspan="2">Trade Facilitation</td></tr>
+<tr><td>**Annex IV**</td><td colspan="2">Mandate Sub-committee on Trade in Goods</td></tr>
+<tr><td>**Annex V**</td><td colspan="2">Schedule of Tariff Commitments on Agricultural Products – Iceland and Georgia</td></tr>
+<tr><td>**Annex VI**</td><td colspan="2">Schedule of Tariff Commitments on Agricultural Products – Norway and Georgia</td></tr>
+<tr><td>**Annex VII**</td><td colspan="2">Schedule of Tariff Commitments on Agricultural Products – Switzerland and the Georgia</td></tr>
+<tr><td>**Annex VIII**</td><td colspan="2">Schedule of Specific Commitments Appendix 1 – Georgia Appendix 2 – Iceland Appendix 3 – Liechtenstein Appendix 4 – Norway Appendix 5 – Switzerland</td></tr>
+<tr><td>**Annex IX**</td><td colspan="2">List of MFN Exemptions Appendix 1 – Georgia Appendix 2 – Iceland Appendix 3 – Liechtenstein Appendix 4 – Norway Appendix 5 – Switzerland</td></tr>
+<tr><td>**Annex X**</td><td colspan="2">Financial Services</td></tr>
+<tr><td>**Annex XI**</td><td colspan="2">Telecommunication Services</td></tr>
+<tr><td>**Annex XII**</td><td colspan="2">Maritime Transport and Related Services</td></tr>
+<tr><td>**Annex XIII**</td><td colspan="2">Energy Related Services</td></tr>
+<tr><td>**Annex XIV**</td><td colspan="2">Reservations Appendix 1 – Georgia Appendix 2 – Iceland Appendix 3 – Liechtenstein Appendix 4 – Norway Appendix 5 – Switzerland</td></tr>
+<tr><td>**Annex XV**</td><td colspan="2">Protection of Intellectual Property</td></tr>
+<tr><td>**Annex XVI**</td><td colspan="2">Government Procurement</td></tr>
+<tr><td colspan="2">**Joint Committee Decisions**</td><td></td></tr>
+<tr><td colspan="2">No 2/22</td><td>Amendment to Annex II</td></tr>
 </table>
 
-[^t-2]: Les annexes à l’accord ne sont pas publiées au RO. Elles peuvent être obtenues auprès de l’Office fédéral des constructions et de la logistique, Vente des publications fédérales, 3003 Berne, et sont disponibles en anglais sur le site internet du Secrétariat de l’AELE: [www.efta.int](http://www.efta.int) &gt; Free Trade &gt; Free Trade Agreements &gt; Georgia
+[^t-2]: Les annexes ne sont publiées ni dans le RO, ni dans le RS ([RO 2018 1589](https://fedlex.data.admin.ch/eli/oc/2018/240); [2023 633](https://fedlex.data.admin.ch/eli/oc/2023/633)). Elles peuvent être obtenues en version originale anglaise sur le site Internet du Secrétariat de l’AELE: [www.efta.int/free-trade/free-trade-agreements/georgia](http://www.efta.int/free-trade/free-trade-agreements/georgia)
 
 Champ d’application le 14 mars 2018
 

@@ -3,11 +3,11 @@ sr: "0.632.313.601"
 title: "Accordo di libero scambio del 27 giugno 2016 tra gli Stati dell'AELS e la Georgia (con allegati)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/240"
 language: it
-version: 2018-05-01
+version: 2023-12-01
 adopted: 2016-06-27
 in_force: 2018-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/240/20180501/it/xml/fedlex-data-admin-ch-eli-cc-2018-240-20180501-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/240/20180501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/240/20231201/it/xml/fedlex-data-admin-ch-eli-cc-2018-240-20231201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/240/20231201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2018** 1589; FF **2017** 1965
 
 Traduzione
 
-Concluso a Berna il 27 giugno 2016
+Concluso a Berna il 27 giugno 2016 Approvato dall’Assemblea federale il 29 settembre 2017[^t-1] Strumento di ratifica depositato dalla Svizzera l’8 febbraio 2018 Entrato in vigore per la Svizzera il 1° maggio 2018
 
-Approvato dall’Assemblea federale il 29 settembre 2017[^t-1]
-
-Strumento di ratifica depositato dalla Svizzera l’8 febbraio 2018
-
-Entrato in vigore per la Svizzera il 1° maggio 2018
-
-(Stato 1° maggio 2018)
+(Stato 1° dicembre 2023)
 
 [^t-1]: [RU 2018 1587](https://fedlex.data.admin.ch/eli/oc/2018/239)
 
@@ -166,7 +160,7 @@ Le regole d’origine e i metodi di cooperazione amministrativa sono specificati
 
 <sup>2.</sup> Per dazi all’importazione e oneri di effetto equivalente si intende qualsiasi tipo di dazio o onere applicato in relazione all’importazione di prodotti, comprese tutte le forme di sovrattassa, ma non gli oneri applicati conformemente agli articoli III e VIII del GATT 1994[^23-1].
 
-[^23-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), allegato 1A.1
+[^23-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), all. 1A.1
 
 #### Art. 2.4
 
@@ -182,7 +176,7 @@ Le regole d’origine e i metodi di cooperazione amministrativa sono specificati
 
 Si applicano l’articolo VII del GATT 1994[^25-2] e la Parte I dell’Accordo di attuazione dell’articolo VII del GATT 1994[^25-3], che sono inseriti nel presente Accordo e ne divengono parte integrante, *mutatis mutandis*.
 
-[^25-1]: La Svizzera applica dazi in base al peso e alla quantità piuttosto che secondo il principio *ad valorem*.
+[^25-1]: La Svizzera applica dazi in base al peso e alla quantità piuttosto che secondo il principio ad valorem.
 [^25-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), all. 1A.1
 [^25-3]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), all. 1A.9
 
@@ -1619,7 +1613,7 @@ Il Comitato misto:
 
 **Procedure del tribunale arbitrale**
 
-<sup>1.</sup> Salvo altrimenti disposto dal presente Accordo o convenuto dalle Parti in causa, le procedure del tribunale sono disciplinate dalle Regole opzionali, *mutatis muta**n**dis*.
+<sup>1.</sup> Salvo altrimenti disposto dal presente Accordo o convenuto dalle Parti in causa, le procedure del tribunale sono disciplinate dalle Regole opzionali, *mutatis mutandis*.
 
 <sup>2.</sup> Il tribunale arbitrale esamina la questione per la quale è stata richiesta la sua istituzione alla luce delle disposizioni pertinenti del presente Accordo, interpretate conformemente alle norme di interpretazione consuetudinarie del diritto internazionale pubblico.
 
@@ -1751,28 +1745,30 @@ Il Governo di Norvegia è il Depositario del presente Accordo.
 
 *In fede di che,* i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato il presente Accordo. Fatto a Berna il 27 giugno 2016 in un esemplare originale in lingua inglese, depositato presso il Depositario, il quale provvede a trasmettere copie certificate conformi a tutte le Parti. (Seguono le firme)
 
-Lista degli allegati**[^t-2]**
+Lista degli allegati[^t-2]
 
 <table>
-<tr><td>**Annex I**</td><td>Product Coverage of Non-Agricultural Products</td></tr>
-<tr><td>**Annex II**</td><td>Rules of Origin</td></tr>
-<tr><td>**Annex III**</td><td>Trade Facilitation</td></tr>
-<tr><td>**Annex IV**</td><td>Mandate Sub-committee on Trade in Goods</td></tr>
-<tr><td>**Annex V**</td><td>Schedule of Tariff Commitments on Agricultural Products – Iceland and Georgia</td></tr>
-<tr><td>**Annex VI**</td><td>Schedule of Tariff Commitments on Agricultural Products – Norway and Georgia</td></tr>
-<tr><td>**Annex VII**</td><td>Schedule of Tariff Commitments on Agricultural Products – Switzerland and the Georgia</td></tr>
-<tr><td>**Annex VIII**</td><td>Schedule of Specific Commitments Appendix 1 – Georgia Appendix 2 – Iceland Appendix 3 – Liechtenstein Appendix 4 – Norway Appendix 5 – Switzerland</td></tr>
-<tr><td>**Annex IX**</td><td>List of MFN Exemptions Appendix 1 – Georgia Appendix 2 – Iceland Appendix 3 – Liechtenstein Appendix 4 – Norway Appendix 5 – Switzerland</td></tr>
-<tr><td>**Annex X**</td><td>Financial Services</td></tr>
-<tr><td>**Annex XI**</td><td>Telecommunication Services</td></tr>
-<tr><td>**Annex XII**</td><td>Maritime Transport and Related Services</td></tr>
-<tr><td>**Annex XIII**</td><td>Energy Related Services</td></tr>
-<tr><td>**Annex XIV**</td><td>Reservations Appendix 1 – Georgia Appendix 2 – Iceland Appendix 3 – Liechtenstein Appendix 4 – Norway Appendix 5 – Switzerland</td></tr>
-<tr><td>**Annex XV**</td><td>Protection of Intellectual Property</td></tr>
-<tr><td>**Annex XVI**</td><td>Government Procurement</td></tr>
+<tr><td>**Annex I**</td><td colspan="2">Product Coverage of Non-Agricultural Products</td></tr>
+<tr><td>**Annex II**</td><td colspan="2">Rules of Origin</td></tr>
+<tr><td>**Annex III**</td><td colspan="2">Trade Facilitation</td></tr>
+<tr><td>**Annex IV**</td><td colspan="2">Mandate Sub-committee on Trade in Goods</td></tr>
+<tr><td>**Annex V**</td><td colspan="2">Schedule of Tariff Commitments on Agricultural Products – Iceland and Georgia</td></tr>
+<tr><td>**Annex VI**</td><td colspan="2">Schedule of Tariff Commitments on Agricultural Products – Norway and Georgia</td></tr>
+<tr><td>**Annex VII**</td><td colspan="2">Schedule of Tariff Commitments on Agricultural Products – Switzerland and the Georgia</td></tr>
+<tr><td>**Annex VIII**</td><td colspan="2">Schedule of Specific Commitments Appendix 1 – Georgia Appendix 2 – Iceland Appendix 3 – Liechtenstein Appendix 4 – Norway Appendix 5 – Switzerland</td></tr>
+<tr><td>**Annex IX**</td><td colspan="2">List of MFN Exemptions Appendix 1 – Georgia Appendix 2 – Iceland Appendix 3 – Liechtenstein Appendix 4 – Norway Appendix 5 – Switzerland</td></tr>
+<tr><td>**Annex X**</td><td colspan="2">Financial Services</td></tr>
+<tr><td>**Annex XI**</td><td colspan="2">Telecommunication Services</td></tr>
+<tr><td>**Annex XII**</td><td colspan="2">Maritime Transport and Related Services</td></tr>
+<tr><td>**Annex XIII**</td><td colspan="2">Energy Related Services</td></tr>
+<tr><td>**Annex XIV**</td><td colspan="2">Reservations Appendix 1 – Georgia Appendix 2 – Iceland Appendix 3 – Liechtenstein Appendix 4 – Norway Appendix 5 – Switzerland</td></tr>
+<tr><td>**Annex XV**</td><td colspan="2">Protection of Intellectual Property</td></tr>
+<tr><td>**Annex XVI**</td><td colspan="2">Government Procurement</td></tr>
+<tr><td colspan="2">**Joint Committee Decisions**</td><td></td></tr>
+<tr><td colspan="2">No 2/22</td><td>Amendment to Annex II</td></tr>
 </table>
 
-[^t-2]: Gli all. dell’Acc. non sono pubblicati nella RU. Possono essere ottenuti presso l’Ufficio federale delle costruzioni e della logistica UFCL, Vendita di pubblicazioni federali, 3003 Berna, e sono disponibili e visibili in lingua originale inglese sul sito Internet del Segretariato dell’AELS: www.efta.int &gt; Free Trade &gt; Free Trade Agreements &gt; Georgia
+[^t-2]: Gli allegati non sono pubblicati nella RU né nella RS ([RU 2018 1589](https://fedlex.data.admin.ch/eli/oc/2018/240); [2023 633](https://fedlex.data.admin.ch/eli/oc/2023/633)). Possono essere ottenuti nella versione originale inglese sul sito Internet del Segretariato dell’AELS: [www.efta.int/free-trade/free-trade-agreements/georgia](http://www.efta.int/free-trade/free-trade-agreements/georgia)
 
 Campo d’applicazione il 14 marzo 2018
 

@@ -3,11 +3,11 @@ sr: "0.632.313.601"
 title: Freihandelsabkommen vom 27. Juni 2016 zwischen den EFTA-Staaten und Georgien (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/240"
 language: de
-version: 2018-05-01
+version: 2023-12-01
 adopted: 2016-06-27
 in_force: 2018-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/240/20180501/de/xml/fedlex-data-admin-ch-eli-cc-2018-240-20180501-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/240/20180501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/240/20231201/de/xml/fedlex-data-admin-ch-eli-cc-2018-240-20231201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/240/20231201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 8. Februar 2018
 
 In Kraft getreten am 1. Mai 2018
 
-(Stand am 1. Mai 2018)
+(Stand am 1. Dezember 2023)
 
 [^t-1]: [AS 2018 1587](https://fedlex.data.admin.ch/eli/oc/2018/239)
 
@@ -900,7 +900,7 @@ Artikel XIV des GATS[^610-1] ist anwendbar und wird hiermit *mutatis mutandis* i
 
 **Ausnahmen zur Wahrung der Sicherheit**
 
-Artikel XIV<sup>bis</sup> Absatz 1 des GATS[^611-1] ist anwendbar und wird hiermit *mutatis muta**n**dis* in dieses Kapitel übernommen und zu dessen Bestandteil erklärt.
+Artikel XIV<sup>bis</sup> Absatz 1 des GATS[^611-1] ist anwendbar und wird hiermit *mutatis mutandis* in dieses Kapitel übernommen und zu dessen Bestandteil erklärt.
 
 [^611-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1B
 
@@ -1751,28 +1751,30 @@ Die Regierung von Norwegen handelt als Depositar.
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Abkommen unterzeichnet. Geschehen zu Bern, am 27. Juni 2016, in einer englischen Urschrift, die beim Depositar hinterlegt wird, der allen Vertragsparteien beglaubigte Abschriften übermittelt. (Es folgen die Unterschriften)
 
-Liste der Anhänge**[^t-2]**
+Liste der Anhänge[^t-2]
 
 <table>
-<tr><td>**Annex I**</td><td>Product Coverage of Non-Agricultural Products</td></tr>
-<tr><td>**Annex II**</td><td>Rules of Origin</td></tr>
-<tr><td>**Annex III**</td><td>Trade Facilitation</td></tr>
-<tr><td>**Annex IV**</td><td>Mandate Sub-committee on Trade in Goods</td></tr>
-<tr><td>**Annex V**</td><td>Schedule of Tariff Commitments on Agricultural Products – Iceland and Georgia</td></tr>
-<tr><td>**Annex VI**</td><td>Schedule of Tariff Commitments on Agricultural Products – Norway and Georgia</td></tr>
-<tr><td>**Annex VII**</td><td>Schedule of Tariff Commitments on Agricultural Products – Switzerland and the Georgia</td></tr>
-<tr><td>**Annex VIII**</td><td>Schedule of Specific Commitments Appendix 1 – Georgia Appendix 2 – Iceland Appendix 3 – Liechtenstein Appendix 4 – Norway Appendix 5 – Switzerland</td></tr>
-<tr><td>**Annex IX**</td><td>List of MFN Exemptions Appendix 1 – Georgia Appendix 2 – Iceland Appendix 3 – Liechtenstein Appendix 4 – Norway Appendix 5 – Switzerland</td></tr>
-<tr><td>**Annex X**</td><td>Financial Services</td></tr>
-<tr><td>**Annex XI**</td><td>Telecommunication Services</td></tr>
-<tr><td>**Annex XII**</td><td>Maritime Transport and Related Services</td></tr>
-<tr><td>**Annex XIII**</td><td>Energy Related Services</td></tr>
-<tr><td>**Annex XIV**</td><td>Reservations Appendix 1 – Georgia Appendix 2 – Iceland Appendix 3 – Liechtenstein Appendix 4 – Norway Appendix 5 – Switzerland</td></tr>
-<tr><td>**Annex XV**</td><td>Protection of Intellectual Property</td></tr>
-<tr><td>**Annex XVI**</td><td>Government Procurement</td></tr>
+<tr><td>**Annex I**</td><td colspan="2">Product Coverage of Non-Agricultural Products</td></tr>
+<tr><td>**Annex II**</td><td colspan="2">Rules of Origin</td></tr>
+<tr><td>**Annex III**</td><td colspan="2">Trade Facilitation</td></tr>
+<tr><td>**Annex IV**</td><td colspan="2">Mandate Sub-committee on Trade in Goods</td></tr>
+<tr><td>**Annex V**</td><td colspan="2">Schedule of Tariff Commitments on Agricultural Products – Iceland and Georgia</td></tr>
+<tr><td>**Annex VI**</td><td colspan="2">Schedule of Tariff Commitments on Agricultural Products – Norway and Georgia</td></tr>
+<tr><td>**Annex VII**</td><td colspan="2">Schedule of Tariff Commitments on Agricultural Products – Switzerland and the Georgia</td></tr>
+<tr><td>**Annex VIII**</td><td colspan="2">Schedule of Specific Commitments Appendix 1 – Georgia Appendix 2 – Iceland Appendix 3 – Liechtenstein Appendix 4 – Norway Appendix 5 – Switzerland</td></tr>
+<tr><td>**Annex IX**</td><td colspan="2">List of MFN Exemptions Appendix 1 – Georgia Appendix 2 – Iceland Appendix 3 – Liechtenstein Appendix 4 – Norway Appendix 5 – Switzerland</td></tr>
+<tr><td>**Annex X**</td><td colspan="2">Financial Services</td></tr>
+<tr><td>**Annex XI**</td><td colspan="2">Telecommunication Services</td></tr>
+<tr><td>**Annex XII**</td><td colspan="2">Maritime Transport and Related Services</td></tr>
+<tr><td>**Annex XIII**</td><td colspan="2">Energy Related Services</td></tr>
+<tr><td>**Annex XIV**</td><td colspan="2">Reservations Appendix 1 – Georgia Appendix 2 – Iceland Appendix 3 – Liechtenstein Appendix 4 – Norway Appendix 5 – Switzerland</td></tr>
+<tr><td>**Annex XV**</td><td colspan="2">Protection of Intellectual Property</td></tr>
+<tr><td>**Annex XVI**</td><td colspan="2">Government Procurement</td></tr>
+<tr><td colspan="2">**Joint Committee Decisions**</td><td></td></tr>
+<tr><td colspan="2">No 2/2022</td><td>Amendment to Annex II</td></tr>
 </table>
 
-[^t-2]: Die Anhänge zum Abkommen werden in der AS nicht publiziert. Sie können in englischer Originalsprache beim Bundesamt für Bauten und Logistik BBL, Vertrieb Bundespublikationen, 3003 Bern, bezogen werden und sind auf der Internetseite des EFTA-Sekretariats verfügbar: [www.efta.int](http://www.efta.int) &gt; Free Trade &gt; Free Trade Agreements &gt; Georgia
+[^t-2]: Die Anhänge zum Abkommen werden weder in der AS noch in der SR veröffentlicht ([AS 2018 1589](https://fedlex.data.admin.ch/eli/oc/2018/240); [2023 633](https://fedlex.data.admin.ch/eli/oc/2023/633)). Sie sind nur in englischer Sprache verfügbar und können auf der Internetseite der EFTA unter folgender Adresse eingesehen werden: [www.efta.int/free-trade/free-trade-agreements/georgia](https://www.efta.int/free-trade/free-trade-agreements/georgia).
 
 Geltungsbereich am 14. März 2018
 
