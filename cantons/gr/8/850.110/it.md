@@ -4,13 +4,12 @@ number: "850.110"
 title: Ordinanza sulle valutazioni immobiliari ufficiali
 short: OVI
 language: it
-version: 2022-07-01
-valid_until: 2023-11-30
-version_adopted: 2022-05-10
+version: 2023-12-01
+version_adopted: 2023-10-16
 adopted: 2017-09-26
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/850.110"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3249/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3340/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3249/pdf_file"
 
 (OVI)
 
-del 26.09.2017 (stato 01.07.2022)
+del 26.09.2017 (stato 01.12.2023)
 
 emanata dal Governo il 26 settembre 2017
 
@@ -104,13 +103,17 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>2</sup> In caso di valutazioni di revisione, di norma viene effettuata un'ispezione se è soddisfatta almeno una delle seguenti condizioni:
 
-- a) il valore a nuovo indicizzato per oggetto di valutazione è superiore a 2 milioni di franchi (indice dei prezzi delle costruzioni nell'edilizia Svizzera orientale);
-- b) nell'ultima valutazione il valore attuale di un fabbricato è inferiore al 65 per cento del valore a nuovo e il valore a nuovo è superiore a 100 000 franchi;
-- c) dall'ultima ispezione sono stati spesi più di 100 000 franchi per oggetto di valutazione;
-- d) in occasione dell'ultima valutazione di revisione o più tardi non è stata svolta alcuna ispezione e il valore a nuovo dell'oggetto di valutazione è superiore a 100 000 franchi;
-- e) quest'ultima è necessaria per il rilevamento di dati di mercato.
+- a) …
+- b) Un'ispezione è opportuna per motivi attuariali conformemente alla legge sull'Assicurazione fabbricati (LAFab)[^6-1], segnatamente se:
+  - 1\. nel quadro dell'ultima valutazione il valore attuale di un fabbricato è stato tassato con almeno il 50 e al massimo il 60 per cento del valore a nuovo (cfr. art. 18 cpv. 2 LAFab) e il valore a nuovo del fabbricato ammonta ad almeno 100 000 franchi;
+  - 2\. nel quadro dell'ultima valutazione il valore attuale di un fabbricato è stato tassato con almeno il 31 e al massimo il 40 per cento del valore a nuovo (cfr. art. 16 cpv. 3 LAFab) e il valore a nuovo del fabbricato ammonta ad almeno 100 000 franchi;
+- c) Dall'ultima valutazione sono stati effettuati investimenti determinanti. Il carattere determinante degli investimenti viene stabilito dall'Ufficio tenendo conto delle condizioni locali e regionali previste dalle istruzioni di cui all'articolo 2 capoverso 1 della legge;
+- d) …
+- e) l'ispezione è necessaria per il rilevamento di dati di mercato.
 
-<sup>3</sup> L'Ufficio può rinunciare a un'ispezione se le basi a disposizione (atti, dati, informazioni pubbliche e interne, prescrizioni dell'Assicurazione fabbricati dei Grigioni, ecc.) permettono di effettuare una valutazione adeguata.
+<sup>3</sup> L'Ufficio può rinunciare a un'ispezione se le basi a disposizione (anzianità e qualità degli atti, dati, informazioni pubbliche e interne, prescrizioni dell'Assicurazione fabbricati dei Grigioni, ecc.) permettono di effettuare una valutazione adeguata. Se ciò non è il caso, occorre procedere a un'ispezione.
+
+[^6-1]: CSC [830.100](https://www.gr-lex.gr.ch/data/830.100/it)
 
 #### Art. 7
 
@@ -426,10 +429,10 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 - a) 1,4 per mille del valore a nuovo per:
   - 1\. una prima valutazione;
   - 2\. richieste senza obbligo di valutazione.
-- b) 1,4 per mille dell'importo impiegato per:
+- b) 1,3 per mille dell'importo impiegato per:
   - 1\. investimenti nel caso di richieste con obbligo di valutazione;
   - 2\. valutazioni di revisione con investimenti di 100 000 franchi e più o primo ampliamento di proprietà per piani nonché comproprietà con regolamento per l'uso e l'amministrazione.
-- c) 1,1 per mille del valore a nuovo per:
+- c) 1,0 per mille del valore a nuovo per:
   - 1\. una prima valutazione e richieste senza obbligo di valutazione, se vengono valutati solo il valore a nuovo e il valore attuale;
   - 2\. ripartizioni di fondi con obbligo di valutazione, se l'ultima valutazione risale a più di 3 anni prima e/o da allora si sono verificati cambiamenti sostanziali;
   - 3\. richieste senza obbligo di valutazione in caso di azienda agricola.
@@ -439,7 +442,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
   - 3\. trasformazione in diritto di superficie;
   - 4\. ripartizioni di fondi con obbligo di valutazione, se l'ultima valutazione risale a 3 anni prima o meno e da allora non si sono verificati cambiamenti sostanziali.
 
-<sup>2</sup> Per tasse conformemente al capoverso 1 viene concesso uno sconto pari al 25 per cento per la quota della tassa eccedente 5000 franchi.
+<sup>2</sup> Per tasse conformemente al capoverso 1 viene concesso uno sconto pari al 33,3 per cento per la quota della tassa eccedente 5000 franchi. La tassa massima ammonta a 15 000 franchi.
 
 #### Art. 38
 
@@ -447,7 +450,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> L'onere amministrativo per la consegna di copie di atti viene fatturato come segue:
 
-- a) notifica di valutazione: 30 franchi per fondo;
+- a) notifica di valutazione: 20 franchi per fondo;
 - b) …
 - c) documenti di valutazione: 50 franchi per fondo;
 - d) documenti dall'Archivio di Stato: 80 franchi per fondo.

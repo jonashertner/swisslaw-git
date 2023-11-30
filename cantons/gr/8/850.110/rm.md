@@ -4,13 +4,12 @@ number: "850.110"
 title: "Ordinaziun davart las valitaziuns uffizialas d'immobiglias"
 short: OVI
 language: rm
-version: 2022-07-01
-valid_until: 2023-11-30
-version_adopted: 2022-05-10
+version: 2023-12-01
+version_adopted: 2023-10-16
 adopted: 2017-09-26
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/850.110"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3249/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3340/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3249/pdf_file"
 
 (OVI)
 
-dals 26-09-2017 (versiun dals 01-07-2022)
+dals 26-09-2017 (versiun dals 01-12-2023)
 
 Sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1]
 
@@ -104,13 +103,17 @@ relaschada da la regenza ils 26 da settember 2017
 
 <sup>2</sup> En cas da valitaziuns da revisiun vegn per regla fatga ina inspecziun, sche almain ina da las suandantas premissas è ademplida:
 
-- a) la valur da nov indexada per object da valitaziun importa passa 2 milliuns francs (index dals custs da construcziun per construcziuns autas da la Svizra orientala);
-- b) en l'ultima valitaziun importa la valur actuala da l'edifizi main che 65 pertschient da la valur da nov e la valur da nov da l'edifizi importa passa 100 000 francs;
-- c) dapi l'ultima inspecziun èn vegnids impundids passa 100 000 francs per object da valitaziun;
-- d) a chaschun da l'ultima valitaziun da revisiun u pli tard n'è vegnida fatga nagina inspecziun e la valur da nov da l'object da valitaziun importa passa 100 000 francs;
+- a) …
+- b) ina inspecziun è inditgada per motivs assicuratorics tenor la Lescha davart l'assicuranza d'edifizis (LAE)[^6-1], numnadamain:
+  - 1\. la valur actuala d'in edifizi è vegnida fixada en l'ultima valitaziun ad almain 50 e maximalmain 60 pertschient da la valur da nov (cf. art. 18 al. 2 LAE) e la valur da nov da l'edifizi importa almain 100 000 francs;
+  - 2\. la valur actuala d'in edifizi è vegnida fixada en l'ultima valitaziun ad almain 31 e maximalmain 40 pertschient da la valur da nov (cf. art. 16 al. 3 LAE) e la valur da nov da l'edifizi importa almain 100 000 francs;
+- c) dapi l'ultima valitaziun èn vegnidas fatgas investiziuns relevantas; la relevanza da las investiziuns vegn fixada da l'uffizi en las directivas tenor l'artitgel 2 alinea 1 da la lescha, resguardond las relaziuns localas e regiunalas;
+- d) …
 - e) l'inspecziun è necessaria per eruir las datas dal martgà.
 
-<sup>3</sup> L'uffizi po desister da far ina inspecziun, sche las basas che stattan a disposiziun (actas, datas, infurmaziuns publicas ed internas, prescripziuns da l'Assicuranza d'edifizis dal Grischun e.u.v.) permettan da far ina valitaziun adequata.
+<sup>3</sup> L'uffizi po desister da far ina inspecziun, sche las basas che stattan a disposiziun (vegliadetgna e qualitad da las actas, datas, infurmaziuns publicas ed internas, prescripziuns da l'Assicuranza d'edifizis dal Grischun e.u.v.) permettan da far ina valitaziun adequata. Sche quai n'è betg il cas, sto vegnir fatga ina inspecziun.
+
+[^6-1]: DG [830.100](https://www.gr-lex.gr.ch/data/830.100/rm)
 
 #### Art. 7
 
@@ -426,10 +429,10 @@ relaschada da la regenza ils 26 da settember 2017
 - a) 1,4 promils da la valur da nov en cas da:
   - 1\. l'emprima valitaziun;
   - 2\. dumondas senza obligaziun da valitaziun.
-- b) 1,4 promils da l'import impundì en cas da:
+- b) 1,3 promils da l'import impundì en cas da:
   - 1\. investiziuns tar dumondas cun obligaziun da valitaziun;
   - 2\. valitaziuns da revisiun cun investiziuns da 100 000 francs e dapli u emprima renovaziun da proprietad en condomini sco er da cumproprietad cun urden d'utilisaziun e d'administraziun.
-- c) 1,1 promils da la valur da nov en cas da:
+- c) 1,0 promils da la valur da nov en cas da:
   - 1\. in'emprima valitaziun e dumondas senza obligaziun da valitaziun, sche mo la valur da nov e la valur actuala vegnan valitadas;
   - 2\. partiziuns da bains immobigliars cun obligaziun da valitaziun, sche l'ultima valitaziun ha gì lieu avant passa 3 onns e/u sch'i ha dà midadas decisivas dapi lura;
   - 3\. dumondas senza obligaziun da valitaziun per in manaschi agricul.
@@ -439,7 +442,7 @@ relaschada da la regenza ils 26 da settember 2017
   - 3\. la transfurmaziun en dretg da construcziun;
   - 4\. partiziuns da bains immobigliars cun obligaziun da valitaziun, sche l'ultima valitaziun ha gì lieu avant 3 u main onns e sch'i n'ha dà naginas midadas decisivas dapi lura.
 
-<sup>2</sup> A partir d'ina taxa da 5000 francs vegn concedì in rabat da 25 pertschient sin las taxas tenor l'alinea 1.
+<sup>2</sup> A partir d'ina taxa da 5000 francs vegn concedì in rabat da 33,3 pertschient sin las taxas tenor l'alinea 1. La taxa maximala importa 15 000 francs.
 
 #### Art. 38
 
@@ -447,7 +450,7 @@ relaschada da la regenza ils 26 da settember 2017
 
 <sup>1</sup> La lavur administrativa impundida per consegnar copias d'actas vegn messa a quint sco suonda:
 
-- a) communicaziun da la valitaziun: 30 francs per bain immobigliar;
+- a) communicaziun da la valitaziun: 20 francs per bain immobigliar;
 - b) …
 - c) documents da valitaziun: 50 francs per bain immobigliar;
 - d) documents or da l'archiv dal stadi: 80 francs per bain immobigliar.

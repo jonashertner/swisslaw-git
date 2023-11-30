@@ -4,13 +4,12 @@ number: "850.110"
 title: Verordnung über die amtlichen Immobilienbewertungen
 short: VAIB
 language: de
-version: 2022-07-01
-valid_until: 2023-11-30
-version_adopted: 2022-05-10
+version: 2023-12-01
+version_adopted: 2023-10-16
 adopted: 2017-09-26
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/850.110"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3249/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3340/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3249/pdf_file"
 
 (VAIB)
 
-Vom 26.09.2017 (Stand 01.07.2022)
+Vom 26.09.2017 (Stand 01.12.2023)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
 
@@ -104,13 +103,17 @@ von der Regierung erlassen am 26. September 2017
 
 <sup>2</sup> Bei Revisionsbewertungen erfolgt in der Regel eine Besichtigung, wenn mindestens eine der folgenden Bedingungen erfüllt ist:
 
-- a) der indexierte Neuwert pro Bewertungsobjekt beträgt mehr als 2 Millionen Franken (Baupreisindex Hochbau Ostschweiz);
-- b) in der letzten Bewertung beträgt der Zeitwert eines Gebäudes weniger als 65 Prozent des Neuwertes und der Neuwert des Gebäudes beträgt mehr als 100 000 Franken;
-- c) seit der letzten Besichtigung wurden mehr als 100 000 Franken pro Bewertungsobjekt aufgewendet;
-- d) bei der letzten Revisionsbewertung oder später erfolgte keine Besichtigung und der Neuwert des Bewertungsobjekts beträgt mehr als 100 000 Franken;
-- e) diese ist für die Erhebung von Marktdaten notwendig.
+- a) …
+- b) Eine Besichtigung ist aus versicherungstechnischen Gründen gemäss Gebäudeversicherungsgesetz (GebVG)[^6-1] angezeigt, nämlich:
+  - 1\. der Zeitwert eines Gebäudes wurde in der letzten Bewertung mit mindestens 50 und maximal 60 Prozent des Neuwerts veranlagt (vgl. Art. 18 Abs. 2 GebVG) und der Neuwert des Gebäudes beträgt mindestens 100 000 Franken;
+  - 2\. der Zeitwert eines Gebäudes wurde in der letzten Bewertung mit mindestens 31 und maximal 40 Prozent des Neuwerts veranlagt (vgl. Art. 16 Abs. 3 GebVG) und der Neuwert des Gebäudes beträgt mindestens 100 000 Franken;
+- c) Seit der letzten Bewertung sind massgebende Investitionen getätigt worden. Die Massgeblichkeit der Investitionen legt das Amt unter Berücksichtigung der örtlichen und regionalen Verhältnisse in den Weisungen gemäss Artikel 2 Absatz 1 des Gesetzes fest;
+- d) …
+- e) Die Besichtigung ist für die Erhebung von Marktdaten notwendig.
 
-<sup>3</sup> Das Amt kann auf eine Besichtigung verzichten, wenn die vorhandenen Grundlagen (Akten, Daten, öffentliche und interne Informationen, Vorgaben der Gebäudeversicherung Graubünden usw.) eine sachgerechte Bewertung zulassen.
+<sup>3</sup> Das Amt kann auf eine Besichtigung verzichten, wenn die vorhandenen Grundlagen (Alter und Qualität der Akten, Daten, öffentliche und interne Informationen, Vorgaben der Gebäudeversicherung Graubünden usw.) eine sachgerechte Bewertung zulassen. Ist dies nicht der Fall, muss eine Besichtigung erfolgen.
+
+[^6-1]: BR [830.100](https://www.gr-lex.gr.ch/data/830.100/de)
 
 #### Art. 7
 
@@ -426,10 +429,10 @@ von der Regierung erlassen am 26. September 2017
 - a) 1,4 Promille des Neuwerts bei:
   - 1\. einer erstmaligen Bewertung;
   - 2\. Anträgen ohne Bewertungspflicht.
-- b) 1,4 Promille des aufgewendeten Betrages bei:
+- b) 1,3 Promille des aufgewendeten Betrags bei:
   - 1\. Investitionen im Falle von Anträgen mit Bewertungspflicht;
   - 2\. Revisionsbewertungen mit Investitionen von 100 000 Franken und mehr oder erstmaligem Ausbau von Stockwerkeigentum sowie von Miteigentum mit Nutzungs- und Verwaltungsordnung.
-- c) 1,1 Promille des Neuwerts bei:
+- c) 1,0 Promille des Neuwerts bei:
   - 1\. einer erstmaligen Bewertung und Anträgen ohne Bewertungspflicht, wenn nur der Neu- und Zeitwert bewertet werden;
   - 2\. Grundstücksteilungen mit Bewertungspflicht, wenn die letzte Bewertung mehr als 3 Jahre zurückliegt und/oder seither massgebliche Veränderungen eingetreten sind;
   - 3\. Anträgen ohne Bewertungspflicht bei einem landwirtschaftlichen Betrieb.
@@ -439,7 +442,7 @@ von der Regierung erlassen am 26. September 2017
   - 3\. Umwandlung in Baurecht;
   - 4\. Grundstücksteilungen mit Bewertungspflicht, wenn die letzte Bewertung 3 Jahre oder weniger zurückliegt und seither keine massgeblichen Veränderungen eingetreten sind.
 
-<sup>2</sup> Auf die Gebühren gemäss Absatz 1 wird für den Gebührenanteil ab 5000 Franken ein Rabatt von 25 Prozent gewährt.
+<sup>2</sup> Auf die Gebühren gemäss Absatz 1 wird für den Gebührenanteil ab 5000 Franken ein Rabatt von 33,3 Prozent gewährt. Die maximale Gebühr beträgt 15 000 Franken.
 
 #### Art. 38
 
@@ -447,7 +450,7 @@ von der Regierung erlassen am 26. September 2017
 
 <sup>1</sup> Der administrative Aufwand für die Herausgabe von Aktenkopien wird wie folgt verrechnet:
 
-- a) Bewertungseröffnung: 30 Franken pro Grundstück;
+- a) Bewertungseröffnung: 20 Franken pro Grundstück;
 - b) …
 - c) Bewertungsunterlagen: 50 Franken pro Grundstück;
 - d) Unterlagen aus dem Staatsarchiv: 80 Franken pro Grundstück.
