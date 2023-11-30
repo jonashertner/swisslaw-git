@@ -3,11 +3,11 @@ sr: "235.22"
 title: "Ordinanza del 17 agosto 2016 concernente il sistema d'informazione E-VERA (Ordinanza E-VERA)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/487"
 language: it
-version: 2023-09-01
+version: 2023-12-01
 adopted: 2016-08-17
 in_force: 2016-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2016-487-20230901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20231201/it/xml/fedlex-data-admin-ch-eli-cc-2016-487-20231201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20231201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,16 +16,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20230901/it"
 
 (Ordinanza E-VERA)
 
-del 17 agosto 2016 (Stato 1° settembre 2023)
+del 17 agosto 2016 (Stato 1° dicembre 2023)
 
 Il Consiglio federale svizzero,
 
-visto l’articolo 6 della legge federale del 24 marzo 2000[^ingress-1] sul trattamento di dati personali in seno al Dipartimento federale degli affari esteri; visto l’articolo 63 capoverso 2 della legge federale del 26 settembre 2014[^ingress-2] sugli Svizzeri all’estero,
+visto l’articolo 29 capoverso 1 lettera a della legge federale del 18 dicembre 2020[^ingress-1] sul trattamento dei dati personali da parte del Dipartimento federale degli affari esteri; visto l’articolo 63 capoverso 2 della legge federale del 26 settembre 2014[^ingress-2] sugli svizzeri all’estero (LSEst),[^ingress-3]
 
 ordina:
 
 [^ingress-1]: [RS 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
 [^ingress-2]: [RS 195.1](https://fedlex.data.admin.ch/eli/cc/2015/653)
+[^ingress-3]: Nuovo testo giusta il n. I dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -87,12 +88,19 @@ In E-VERA sono trattati i dati delle persone seguenti:
 
 <sup>1</sup> Tutti i dati contenuti in E-VERA sono registrati dalle rappresentanze. Il sistema attribuisce automaticamente un numero a ogni persona registrata.
 
-<sup>2</sup> I numeri AVS registrati in E-VERA sono verificati e, se del caso, rettificati secondo gli articoli 133<sup>bis</sup> e 134<sup>quater</sup> dell’ordinanza del 31 ottobre 1947[^6-1] sull’assicurazione per la vecchiaia e per i superstiti. L’Ufficio centrale di compensazione (UCC) assegna un numero AVS alle persone che ne sono prive.[^6-2]
+<sup>1bis</sup> I Comuni svizzeri possono notificare per via elettronica a E‑VERA la partenza all’estero (art. 12 cpv. 4 LSEst) o l’arrivo in Svizzera (art. 13 cpv. 3 LSEst) di persone di cui all’articolo 5 lettere a–d. I dati sull’arrivo in Svizzera sono ripresi in E‑VERA.[^6-1]
+
+<sup>1ter</sup> E-VERA verifica se i dati sull’identità registrati in E-VERA corrispondono a quelli nel registro dello stato civile (art. 39 del Codice civile[^6-2]). I dati registrati in E‑VERA in modo errato sono rettificati in E‑VERA e i dati mancanti aggiunti.[^6-3]
+
+<sup>2</sup> I numeri AVS registrati in E-VERA sono verificati e, se del caso, rettificati secondo gli articoli 133<sup>bis</sup> e 134<sup>quater</sup> dell’ordinanza del 31 ottobre 1947[^6-4] sull’assicurazione per la vecchiaia e per i superstiti. L’Ufficio centrale di compensazione (UCC) assegna un numero AVS alle persone che ne sono prive.[^6-5]
 
 <sup>3</sup> E-VERA verifica mediante una consultazione online se le persone registrate in E‑VERA sono segnalate nel sistema di ricerca informatizzato di polizia (RIPOL) per aver commesso un crimine o un delitto. Il risultato della consultazione non viene memorizzato in E-VERA.
 
-[^6-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^6-2]: Nuovo testo giusta l’all. n. II 11 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^6-1]: Introdotto dal n. I dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
+[^6-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^6-3]: Introdotto dal n. I dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
+[^6-4]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^6-5]: Nuovo testo giusta l’all. n. II 11 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 7
 
@@ -100,7 +108,7 @@ In E-VERA sono trattati i dati delle persone seguenti:
 
 <sup>1</sup> Le rappresentanze e la DC dispongono di diritti di trattamento completi per tutti i dati registrati in E-VERA.
 
-<sup>2</sup> Per quanto i loro diritti di accesso lo consentano, le persone di cui all’articolo 5 possono visionare i dati di cui all’allegato 1 che li riguardano o che riguardano i congiunti che vivono nella stessa economia domestica; possono chiedere servizi consolari nonché la modifica di dati inesatti o non più attuali.
+<sup>2</sup> Per quanto i loro diritti di accesso lo consentano, le persone di cui all’articolo 5 possono visionare mediante lo sportello online i dati di cui all’allegato 1 che li riguardano o che riguardano i congiunti che vivono nella stessa economia domestica; possono chiedere servizi consolari nonché la modifica di dati inesatti o non più attuali e trasmettere documenti per via elettronica mediante lo sportello online.[^7-1]
 
 <sup>3</sup>
 
@@ -111,11 +119,15 @@ I seguenti servizi possono consultare mediante procedura di richiamo tutti i dat
 - c. il Centro di gestione delle crisi DFAE: per localizzare rapidamente i cittadini svizzeri nelle situazioni di crisi;
 - d. l’Ufficio passaporti DFAE: per rintracciare i titolari di passaporti diplomatici o di servizio all’estero;
 - e. la CSC: per adempiere i compiti previsti dalla legge nell’ambito dell’assicurazione per la vecchiaia e per i superstiti e dell’assicurazione per l’invalidità;
-- f. l’UCC: per assegnare il numero AVS[^7-1].
+- f. l’UCC: per assegnare il numero AVS[^7-2].
 
 <sup>4</sup> L’unità Informatica DFAE dispone dei diritti di accesso necessari per adempiere i propri compiti.
 
-[^7-1]: Nuova espr. giusta l’all. n. II 11 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+<sup>5</sup> Le autorità competenti per il catalogo elettorale dispongono, per lo sportello online, dei diritti di accesso necessari a ricevere le notifiche concernenti cambiamenti relativi al diritto di voto.[^7-3]
+
+[^7-1]: Nuovo testo giusta il n. I dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
+[^7-2]: Nuova espr. giusta l’all. n. II 11 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^7-3]: Introdotto dal n. I dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
 
 #### Art. 8
 
@@ -133,8 +145,19 @@ I dati di cui all’allegato 1 vengono trasmessi automaticamente e in forma cifr
 
 <sup>3</sup> Se altre autorità hanno bisogno dei dati registrati in E-VERA per l’adempimento dei loro compiti, le rappresentanze e la DC possono comunicarglieli.
 
+<sup>4</sup> Le notifiche concernenti cambiamenti relativi al diritto di voto vengono trasmesse alle autorità competenti per il catalogo elettorale automaticamente e in forma cifrata oppure mediante lo sportello online.[^8-3]
+
 [^8-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
 [^8-2]: [RS 431.021](https://fedlex.data.admin.ch/eli/cc/2007/868)
+[^8-3]: Introdotto dal n. I dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
+
+#### Art. 8a
+
+**Elaborazione di documenti**[^8a-1]
+
+I documenti elaborati in E-VERA sono archiviati nel pertinente sistema di gestione degli affari. In E-VERA sono eliminati dopo l’elaborazione.
+
+[^8a-1]: Introdotto dal n. I dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
 
 #### Art. 9
 
@@ -177,9 +200,18 @@ I dati relativi a una persona vengono distrutti dopo cinque anni dalla registraz
 
 #### Art. 12
 
-**Interfaccia**
+**Interfacce**[^12-1]
 
-E-VERA dispone di un’interfaccia elettronica con il sistema d’informazione EDAssist+. L’allegato 2 contiene le informazioni sui dati trasmessi da E-VERA a EDAssist+ nonché sulla periodicità della trasmissione.
+<sup>1</sup> E-VERA dispone di un’interfaccia con il sistema d’informazione EDAssist+.
+
+<sup>2</sup> L’allegato 2 contiene le informazioni sui dati che sono trasmessi da E‑VERA a EDAssist+ e definisce la periodicità della trasmissione.
+
+<sup>3</sup> I documenti di cui all’articolo 7 capoverso 2 sono trasmessi a EDAssist+ mediante un’interfaccia nella misura in cui sono necessari all’adempimento dei compiti di cui all’articolo 3 dell’ordinanza del 18 giugno 2021[^12-2] sui sistemi d’informazione consolare del Dipartimento federale degli affari esteri.
+
+<sup>4</sup> I dati necessari per creare dossier personali elettronici nel sistema di gestione degli affari standardizzato GEVER sono trasmessi a GEVER mediante un’interfaccia.
+
+[^12-1]: Nuovo testo giusta il n. I dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
+[^12-2]: [RS 852.12](https://fedlex.data.admin.ch/eli/cc/2021/396)
 
 ## Sezione 4: Sicurezza dei dati
 
@@ -247,21 +279,22 @@ Gli atti normativi qui appresso sono modificati come segue:
 
 La presente ordinanza entra in vigore il 1° settembre 2016.
 
-Allegato 1
+Allegato 1[^t-1]
 
 (art. 5 cpv. 2)
 
 ## Diritti di trattamento
 
+[^t-1]: Nuovo testo giusta il n. II dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
+
 Legenda:
 
 <table>
-<tr><td colspan="2">Servizi con diritti di accesso / che ricevono i dati</td><td></td><td colspan="2">Diritti di trattamento</td><td></td></tr>
+<tr><th colspan="2">Servizi con diritti di accesso / che ricevono i dati</th><th></th><th colspan="2">Diritti di trattamento</th><th></th></tr>
 <tr><td>Rappresentanze</td><td colspan="2">Rappresentanze svizzere all’estero</td><td>A</td><td colspan="2">Diritti di trattamento completi</td></tr>
 <tr><td>DC</td><td colspan="2">Direzione consolare</td><td>B</td><td colspan="2">Diritto di lettura</td></tr>
-<tr><td>Organo</td><td colspan="2">Organo per la protezione dei dati, trasparenza</td><td>C</td><td colspan="2">Diritto di lettura e di richiesta</td></tr>
-<tr><td></td><td colspan="2">e sicurezza dell’informazione DFAE</td><td>D</td><td colspan="2">Trasmissione cifrata dei dati</td></tr>
-<tr><td>RI</td><td colspan="2">Revisione interna DFAE</td><td></td><td colspan="2"></td></tr>
+<tr><td>Organo</td><td colspan="2">Organo per la protezione dei dati, trasparenza e sicurezza dell’informazione DFAE</td><td>C</td><td colspan="2">Diritto di lettura e di richiesta</td></tr>
+<tr><td>RI</td><td colspan="2">Revisione interna DFAE</td><td>D</td><td colspan="2">Trasmissione cifrata dei dati</td></tr>
 <tr><td>KMZ</td><td colspan="2">Centro di gestione delle crisi</td><td></td><td colspan="2"></td></tr>
 <tr><td>CSC</td><td colspan="2">Cassa svizzera di compensazione</td><td></td><td colspan="2"></td></tr>
 <tr><td>UCC</td><td colspan="2">Ufficio centrale di compensazione</td><td></td><td colspan="2"></td></tr>
@@ -292,9 +325,10 @@ Legenda:
 <tr><td>Dati su figli e autorità parentale: cognome, nome, data di nascita, numero AVS, titolari dell’autorità parentale</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B</td><td></td><td>C</td></tr>
 <tr><td>Dati di contatto: indirizzi, coordinate GPS, indirizzo e-mail, numero di telefono, numero di fax</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B</td><td>D</td><td>C</td></tr>
 <tr><td>Dati sulla circoscrizione consolare</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td></td><td>D</td><td>C</td></tr>
-<tr><td>N. personale, art. 6 cpv. 1</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td></td><td></td></tr>
+<tr><td>N. personale, art. 6 cpv. 1</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td></td></tr>
 <tr><td>Dati sui genitori: cognome, nome</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td></td><td>C</td></tr>
 <tr><td>Dati della persona di contatto in caso di decesso: cognome, nome, contatto</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td></td><td></td><td>C</td></tr>
+<tr><td>Dati di emergenza (facoltativi): informazioni sulla cassa malati, sull’assicurazione viaggi, direttive del paziente, testamento, indirizzo di emergenza</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>C</td></tr>
 <tr><td>Dati sulla partenza: data, luogo, indirizzo, motivo</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td></td><td>D</td><td>C</td></tr>
 <tr><td>Dati sull’arrivo: data, luogo, indirizzo, motivo</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td></td><td>D</td><td>C</td></tr>
 <tr><td>Dati sul diritto di voto: data di annuncio di arrivo/partenza, Comune di voto, lingua del materiale di voto</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td>D</td><td>C</td></tr>

@@ -4,11 +4,11 @@ title: Ordonnance du 17 août 2016 sur le système d’information E-VERA
 short: O E-VERA
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/487"
 language: fr
-version: 2023-09-01
+version: 2023-12-01
 adopted: 2016-08-17
 in_force: 2016-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2016-487-20230901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20231201/fr/xml/fedlex-data-admin-ch-eli-cc-2016-487-20231201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20231201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20230901/fr"
 
 (O E-VERA)
 
-du 17 août 2016 (État le 1<sup>er</sup> septembre 2023)
+du 17 août 2016 (État le 1<sup>er</sup> décembre 2023)
 
 Le Conseil fédéral suisse,
 
-vu l’art. 6 de la loi fédérale du 24 mars 2000 sur le traitement des données personnelles au Département fédéral des affaires étrangères[^ingress-1], vu l’art. 63, al. 2, de la loi du 26 septembre 2014 sur les Suisses de l’étranger[^ingress-2],
+vu l’art. 29, al. 1, let. a, de la loi fédérale du 18 décembre 2020 sur le traitement des données personnelles par le Département fédéral des affaires étrangères[^ingress-1], vu l’art. 63, al. 2, de la loi du 26 septembre 2014 sur les Suisses de l’étranger (LSEtr)[^ingress-2],[^ingress-3]
 
 arrête:
 
 [^ingress-1]: [RS 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
 [^ingress-2]: [RS 195.1](https://fedlex.data.admin.ch/eli/cc/2015/653)
+[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> déc. 2023 ([RO 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
 
 ## Section 1 Dispositions générales
 
@@ -88,12 +89,19 @@ Sont traitées dans E-VERA les données relatives aux personnnes ci‑après:
 
 <sup>1</sup> Toutes les données sont saisies dans E-VERA par les représentations. Le système attribue automatiquement un numéro à toute personne qui y est saisie.
 
-<sup>2</sup> Les numéros AVS saisis dans E-VERA sont vérifiés conformément aux art. 133<sup>bis</sup> et 134<sup>quater</sup> du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants[^6-1] et, le cas échéant, corrigés. La Centrale de compensation (CdC) attribue un numéro AVS aux personnes qui n’en ont pas.[^6-2]
+<sup>1bis</sup> Les communes suisses peuvent transmettre sous forme électronique à E-VERA les annonces des personnes visées à l’art. 5, let. a à d, qui partent à l’étranger (art. 12, al. 4, LSEtr) ou qui rentrent en Suisse (art. 13, al. 3, LSEtr). Les données relatives au retour en Suisse sont reprises dans E-VERA.[^6-1]
+
+<sup>1ter</sup> E-VERA vérifie si les données relatives à l’identité de la personne saisies dans le système correspondent à celles qui figurent dans le registre de l’état civil (art. 39 CC[^6-2]). Les données saisies dans E-VERA de manière erronée y sont corrigées et, le cas échéant, complétées.[^6-3]
+
+<sup>2</sup> Les numéros AVS saisis dans E-VERA sont vérifiés conformément aux art. 133<sup>bis</sup> et 134<sup>quater</sup> du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants[^6-4] et, le cas échéant, corrigés. La Centrale de compensation (CdC) attribue un numéro AVS aux personnes qui n’en ont pas.[^6-5]
 
 <sup>3</sup> E-VERA vérifie par consultation en ligne si les personnes qui y sont saisies sont inscrites dans le système de recherches informatisées de police (RIPOL) en raison d’un crime ou d’un délit. Le résultat de la consultation n’est pas enregistré dans E‑VERA.
 
-[^6-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^6-2]: Nouvelle teneur selon l’annexe ch. II 11 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^6-1]: Introduit par le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> déc. 2023 ([RO 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
+[^6-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^6-3]: Introduit par le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> déc. 2023 ([RO 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
+[^6-4]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^6-5]: Nouvelle teneur selon l’annexe ch. II 11 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 7
 
@@ -101,7 +109,7 @@ Sont traitées dans E-VERA les données relatives aux personnnes ci‑après:
 
 <sup>1</sup> Les représentations et la DC disposent de tous les droits de traitement pour l’ensemble des données figurant dans E-VERA.
 
-<sup>2</sup> Les personnes visées à l’art. 5 peuvent consulter les données mentionnées à l’annexe 1 qui les concernent ou qui concernent leurs proches vivant dans le même foyer; elles peuvent requérir des prestations consulaires ainsi que la modification de données inexactes ou périmées.
+<sup>2</sup> Les personnes visées à l’art. 5 peuvent consulter les données mentionnées à l’annexe 1 qui les concernent ou qui concernent leurs proches vivant dans le même foyer conformément aux droits dont elles disposent pour accéder au guichet en ligne; ce dernier leur permet en outre de requérir des prestations consulaires, de demander que des données inexactes ou périmées soient modifiées et de transmettre des documents par voie électronique.[^7-1]
 
 <sup>3</sup>
 
@@ -115,6 +123,11 @@ Les services énumérés ci-après peuvent consulter en ligne les données menti
 - f. la CdC: pour l’attribution du numéro AVS.
 
 <sup>4</sup> L’unité Informatique DFAE dispose des droits d’accès nécessaires à l’accomplissement de ses tâches.
+
+<sup>5</sup> Les autorités responsables du registre électoral disposent des droits nécessaires pour obtenir, sur le guichet en ligne, les annonces relatives aux changements concernant le droit de vote.[^7-2]
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> déc. 2023 ([RO 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
+[^7-2]: Introduit par le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> déc. 2023 ([RO 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
 
 #### Art. 8
 
@@ -132,8 +145,19 @@ Les données mentionnées à l’annexe 1 sont transmises automatiquement et sou
 
 <sup>3</sup> Les représentations et la DC peuvent également communiquer des données saisies dans E-VERA à d’autres autorités, si ces dernières ont besoin de ces données pour accomplir leurs tâches.
 
+<sup>4</sup> Les annonces relatives aux changements concernant le droit de vote sont transmises de manière automatique et chiffrée aux autorités responsables du registre électoral, ou mises à leur disposition au moyen du guichet en ligne.[^8-3]
+
 [^8-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
 [^8-2]: [RS 431.021](https://fedlex.data.admin.ch/eli/cc/2007/868)
+[^8-3]: Introduit par le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> déc. 2023 ([RO 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
+
+#### Art. 8a
+
+**Traitement des documents**[^8a-1]
+
+Les documents traités dans E-VERA sont classés dans le système de gestion des affaires pertinent. Une fois traités, ils sont effacés d’E-VERA.
+
+[^8a-1]: Introduit par le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> déc. 2023 ([RO 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
 
 #### Art. 9
 
@@ -176,9 +200,18 @@ Les données relatives à une personne sont détruites cinq ans après la saisie
 
 #### Art. 12
 
-**Interface**
+**Interfaces**[^12-1]
 
-E-VERA présente une interface électronique avec le système d’information EDAssist+. L’annexe 2 indique les données qui doivent être transmises par E-VERA au système d’information EDAssist+, ainsi que la périodicité de la transmission de ces données.
+<sup>1</sup> E-VERA dispose d’une interface avec le système d’information EDAssist+.
+
+<sup>2</sup> L’annexe 2 indique les données qui sont transmises par E-VERA au système d’information EDAssist+ et précise à quelle périodicité elles doivent l’être.
+
+<sup>3</sup> Les documents visés à l’art. 7, al. 2, sont transmis à EDAssist+ au moyen d’une interface dans la mesure où le DFAE en a besoin pour effectuer les tâches décrites à l’art. 3 de l’ordonnance du 18 juin 2021 sur les systèmes d’information consulaires du Département fédéral des affaires étrangères[^12-2].
+
+<sup>4</sup> Les données nécessaires à la création de dossiers personnels électroniques dans le système standardisé de gestion des affaires GEVER sont transmises au système au moyen d’une interface.
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> déc. 2023 ([RO 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
+[^12-2]: [RS 852.12](https://fedlex.data.admin.ch/eli/cc/2021/396)
 
 ## Section 4 Sécurité des données
 
@@ -246,62 +279,65 @@ Les actes mentionnés ci-après sont modifiés comme suit:
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> septembre 2016.
 
-Annexe 1
+Annexe 1[^t-1]
 
 (art. 5, al. 2)
 
 ## Droits de traitement
 
-Explication des signes:
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> déc. 2023 ([RO 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
+
+Explication des signes
 
 <table>
-<tr><td>Bénéficiaires de droits d’accès / destinataires de données</td><td>Droits de traitement</td></tr>
-<tr><td>Représentations Représentations suisses à l’étranger</td><td>A Tous les droits de traitement</td></tr>
-<tr><td>DC Direction consulaire</td><td>B Droit de lecture</td></tr>
-<tr><td>Organe Organe pour la protection des données, la transparence et la sécurité de l’information DFAE</td><td>C Droit de requête et droit de lecture</td></tr>
-<tr><td></td><td>D Transmission des données sous forme chiffrée</td></tr>
-<tr><td>AI Audit interne DFAE</td><td></td></tr>
-<tr><td>KMZ Centre de gestion des crises</td><td></td></tr>
-<tr><td>CSC Caisse suisse de compensation</td><td></td></tr>
-<tr><td>CdC Centrale de compensation</td><td></td></tr>
-<tr><td>OFS Office fédéral de la statistique</td><td></td></tr>
+<tr><th colspan="2">Bénéficiaires de droits d’accès / destinataires de données</th><th></th><th colspan="2">Droits de traitement</th><th></th></tr>
+<tr><td>Représentations</td><td colspan="2">Représentations suisses à l’étranger</td><td>A</td><td colspan="2">Tous les droits de traitement</td></tr>
+<tr><td>DC</td><td colspan="2">Direction consulaire</td><td>B</td><td colspan="2">Droit de lecture</td></tr>
+<tr><td>Organe</td><td colspan="2">Organe pour la protection des données, la transparence et la sécurité de l’information DFAE</td><td>C</td><td colspan="2">Droit de requête et droit de lecture</td></tr>
+<tr><td></td><td colspan="2">la transparence et la sécurité de l’information</td><td>D</td><td colspan="2">Transmission des données sous forme chiffrée</td></tr>
+<tr><td>AI</td><td colspan="2">Audit interne DFAE</td><td></td><td colspan="2"></td></tr>
+<tr><td>KMZ</td><td colspan="2">Centre de gestion des crises</td><td></td><td colspan="2"></td></tr>
+<tr><td>CSC</td><td colspan="2">Caisse suisse de compensation</td><td></td><td colspan="2"></td></tr>
+<tr><td>CdC</td><td colspan="2">Centrale de compensation</td><td></td><td colspan="2"></td></tr>
+<tr><td>OFS</td><td colspan="2">Office fédéral de la statistique</td><td></td><td colspan="2"></td></tr>
 </table>
 
 <table>
 <tr><th>Données</th><th>Représentations</th><th>DC</th><th>Organe</th><th>AI</th><th>KMZ</th><th>Bureau des passeports DFAE</th><th>CSC</th><th>CdC</th><th>OFS</th><th>Personnes concernées (art. 5)</th></tr>
-<tr><td>Nom</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>
-<tr><td>Prénom</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>
-<tr><td>Date de naissance</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>
-<tr><td>Lieu de naissance</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>
-<tr><td>Sexe</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>
-<tr><td>État civil</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>
-<tr><td>Lieu d’origine</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B</td><td>D</td><td>C</td></tr>
-<tr><td>Nationalité / Droit de cité</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>
-<tr><td>Indications relatives à la naturalisation, perte de la nationalité: lieu, date, autorité, force de chose jugée</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>
+<tr><td>Nom</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B / D</td><td>B / D</td><td>D</td><td>C</td></tr>
+<tr><td>Prénom</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B / D</td><td>B / D</td><td>D</td><td>C</td></tr>
+<tr><td>Date de naissance</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B / D</td><td>B / D</td><td>D</td><td>C</td></tr>
+<tr><td>Lieu de naissance</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B / D</td><td>B / D</td><td>D</td><td>C</td></tr>
+<tr><td>Sexe</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B / D</td><td>B / D</td><td>D</td><td>C</td></tr>
+<tr><td>État civil</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B / D</td><td>B / D</td><td>D</td><td>C</td></tr>
+<tr><td>Lieu d’origine</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B / D</td><td>B</td><td>D</td><td>C</td></tr>
+<tr><td>Nationalité / Droit de cité</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B / D</td><td>B / D</td><td>D</td><td>C</td></tr>
+<tr><td>Indications relatives à la naturalisation, perte de la nationalité: lieu, date, autorité, force de chose jugée</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B / D</td><td>B / D</td><td>D</td><td>C</td></tr>
 <tr><td>Formule de civilité</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>D</td><td></td><td></td><td>C</td></tr>
 <tr><td>Titre</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>D</td><td></td><td></td><td>C</td></tr>
-<tr><td>Numéro AVS</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>
+<tr><td>Numéro AVS</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B / D</td><td>B / D</td><td>D</td><td>C</td></tr>
 <tr><td>Niveau d’éducation</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td>D</td><td>C</td></tr>
 <tr><td>Profession: dénomination de la profession, catégorie professionnelle, diplôme le plus élevé obtenu, date de saisie</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td>D</td><td>C</td></tr>
-<tr><td>Indications relatives à des faits d’état civil: mariage, divorce, enregistrement du partenariat, dissolution du partenariat, séparation, début de la séparation, fin de la séparation, motif de dissolution de l’union, annulation, adoption, naissance, changement de nom, attestation officielle, date, lieu, jugement, date d’entrée en force</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>
-<tr><td>Indications relatives au décès: date, lieu, mode de signalement</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>
-<tr><td>Langue</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>
+<tr><td>Indications relatives à des faits d’état civil: mariage, divorce, enregistrement du partenariat, dissolution du partenariat, séparation, début de la séparation, fin de la séparation, motif de dissolution de l’union, annulation, adoption, naissance, changement de nom, attestation officielle, date, lieu, jugement, date d’entrée en force</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B / D</td><td>B / D</td><td>D</td><td>C</td></tr>
+<tr><td>Indications relatives au décès: date, lieu, mode de signalement</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B / D</td><td>B / D</td><td>D</td><td>C</td></tr>
+<tr><td>Langue</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B / D</td><td>B / D</td><td>D</td><td>C</td></tr>
 <tr><td>Langue de correspondance</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td>D</td><td>C</td></tr>
-<tr><td>Indications relatives à l’époux / à l’épouse, au partenaire / à la partenaire: nom, prénom, date de naissance, numéro AVS</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B</td><td></td><td>C</td></tr>
-<tr><td>Indications relatives aux enfants et à l’autorité parentale: nom, prénom, date de naissance, numéro AVS, détenteurs de l’autorité parentale</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B</td><td></td><td>C</td></tr>
-<tr><td>Coordonnées: adresses, données GPS, adresse électronique, numéro de téléphone, numéro de fax</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B</td><td>D</td><td>C</td></tr>
-<tr><td>Indications relatives à la circonscription consulaire</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td></td><td>D</td><td>C</td></tr>
-<tr><td>Numéro personnel tel que prévu à l’art. 6, al. 1</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td></td><td></td></tr>
-<tr><td>Indications relatives aux parents: nom, prénom</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td></td><td>C</td></tr>
-<tr><td>Indications relatives aux personnes à contacter en cas de décès: nom, prénom, coordonnées</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td></td><td></td><td>C</td></tr>
-<tr><td>Indications relatives au départ: date, lieu de destination, adresse, motif</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td></td><td>D</td><td>C</td></tr>
-<tr><td>Indications relatives à l’arrivée: date, lieu de provenance, adresse, motif</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td></td><td>D</td><td>C</td></tr>
-<tr><td>Indications relatives au droit de vote: date de l’annonce d’arrivée/ de départ, commune de vote, langue du matériel de vote</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td>D</td><td>C</td></tr>
-<tr><td>Annonce d’arrivée/de départ</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td></td><td></td><td>C</td></tr>
+<tr><td>Indications relatives à l’époux / à l’épouse, au partenaire / à la partenaire: nom, prénom, date de naissance, numéro AVS</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B / D</td><td>B</td><td></td><td>C</td></tr>
+<tr><td>Indications relatives aux enfants et à l’autorité parentale: nom, prénom, date de naissance, numéro AVS, détenteurs de l’autorité parentale</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B / D</td><td>B</td><td></td><td>C</td></tr>
+<tr><td>Coordonnées: adresses, données GPS, adresse électronique, numéro de téléphone, numéro de fax</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B / D</td><td>B</td><td>D</td><td>C</td></tr>
+<tr><td>Indications relatives à la circonscription consulaire</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B / D</td><td></td><td>D</td><td>C</td></tr>
+<tr><td>Numéro personnel tel que prévu à l’art. 6, al. 1</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B / D</td><td>B / D</td><td>D</td><td></td></tr>
+<tr><td>Indications relatives aux parents: nom, prénom</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B / D</td><td>B / D</td><td></td><td>C</td></tr>
+<tr><td>Indications relatives aux personnes à contacter en cas de décès: nom, prénom, coordonnées</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B / D</td><td></td><td></td><td>C</td></tr>
+<tr><td>Indications en cas d’urgence (facultatif): caisse-maladie, assurance voyage, directives anticipées, testament et adresse en cas d’urgence</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>C</td></tr>
+<tr><td>Indications relatives au départ: date, lieu de destination, adresse, motif</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B / D</td><td></td><td>D</td><td>C</td></tr>
+<tr><td>Indications relatives à l’arrivée: date, lieu de provenance, adresse, motif</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B / D</td><td></td><td>D</td><td>C</td></tr>
+<tr><td>Indications relatives au droit de vote: date de l’annonce d’arrivée / de départ, commune de vote, langue du matériel de vote</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td>D</td><td>C</td></tr>
+<tr><td>Annonce d’arrivée / de départ</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B / D</td><td></td><td></td><td>C</td></tr>
 <tr><td>Identifiants d’accès au guichet en ligne E-VERA</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td>C</td></tr>
 <tr><td>Passeport: numéro du passeport, date d’établissement, autorité d’établissement, date d’expiration</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Déclaration de perte: document de voyage, type, numéro, motif, lieu, date, rapport de police, date d’établissement, autorité d’établissement, date d’expiration, date de déclaration</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td>C</td></tr>
-<tr><td>Avis de disparition: date, autorité, lieu</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td></td><td></td><td>C</td></tr>
+<tr><td>Avis de disparition: date, autorité, lieu</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B / D</td><td></td><td></td><td>C</td></tr>
 <tr><td>Vérification-RIPOL</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Dépôt: type, numéro du document d’identité, date de prise en dépôt et date de restitution</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td>C</td></tr>
 <tr><td>Personne d’intérêt dans le cadre de tâches diplomatiques</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td></tr>
