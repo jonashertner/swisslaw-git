@@ -1,112 +1,263 @@
 ---
 canton: VS
 number: "814.104"
-title: Beschluss über die Kosten und Gebühren für Verrichtungen im Umweltbereich
+title: Beschluss über die Kostentarife für behördliche Leistungen im Umwelt- und Gewässerschutz
 language: de
-version: 1991-04-01
-corrected: 2017-10-06
-version_adopted: 1990-11-28
+version: 2023-12-01
+version_adopted: 2023-11-22
 adopted: 2018-01-17
 in_force: 2018-01-26
 url: "https://lex.vs.ch/app/de/texts_of_law/814.104"
-pdf: "https://lex.vs.ch/api/de/versions/219/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3244/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Beschluss über die Kosten und Gebühren für Verrichtungen im Umweltbereich
+# Beschluss über die Kostentarife für behördliche Leistungen im Umwelt- und Gewässerschutz
 
-vom 28. November 1990
+vom 17.01.2018 (Stand 01.12.2023)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen den Artikel 48 des Bundesgesetzes über den Umweltschutz (USG);
+eingesehen die Artikel 2, 48 und 59 des Bundesgesetzes über den Umweltschutz vom 7. Oktober 1983 (USG);
 
-eingesehen den Artikel 38, Absatz 1 des Gesetzes vom 21. Juni 1990 betreffend die Anwendung der Bundesgesetzgebung über Umweltschutz (GAUSG);
+eingesehen die Artikel 10 und 11 des kantonalen Umweltschutzgesetzes vom 18. November 2010 (kUSG);
 
-eingesehen den Artikel 88 des Gesetzes vom 6. Oktober 1976 über das Verwaltungsverfahren und die Verwaltungsrechtspflege (VVRG);
+eingesehen die Artikel 3a und 54 des Bundesgesetzes über den Schutz der Gewässer vom 24. Januar 1991 (GSchG);
 
-auf Antrag des Departementes für Umwelt und Raumplanung,
+eingesehen die Artikel 15 und 16 des kantonalen Gewässerschutzgesetzes vom 16. Mai 2013 (kGSchG);
+
+eingesehen den Artikel 1, Absatz 3 des Gesetzes über das Verwaltungsverfahren und die Verwaltungsrechtspflege vom 6. Oktober 1976 (VVRG);
+
+eingesehen den Artikel 1 Absatz 3 Buchstabe a des Gesetzes betreffend den Tarif der Kosten und Entschädigungen vor Gerichts- oder Verwaltungsbehörden vom 11. Februar 2009 (GTar);
+
+auf Antrag des für den Umwelt- und Gewässerschutz zuständigen Departements,
 
 beschliesst:
+
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Geltungsbereich**
 
-<sup>1</sup> Dieser Beschluss regelt die Kosten und Gebühren, die von den kantonalen Behörden für Dienstleistungen, Verfügungen, Kontrollmassnahmen und weitere Verrichtungen, die von der Bundesgesetzgebung über die Umwelt und deren kantonalen Anwendungsdekret vorgesehen sind, erhoben werden.
+<sup>1</sup> Dieser Beschluss regelt die Kosten, die zu erheben sind, wenn die für den Umweltschutz zuständige Behörde (nachstehend: Behörde) oder eine im Auftrag der Behörde handelnde öffentlich-rechtliche oder private Organisation oder Person (nachstehend: Vollzugsorgane) beim Vollzug der kantonalen und eidgenössischen Gesetzgebung eine Leistung im Umweltschutz (nachstehend: behördliche Leistung) erbringt. Als Leistungen gelten namentlich: Verfügungen, Strafbefehle, Bewilligungen, Dossierprüfungen, Stellungnahmen, Gutachten, Beprobungen, Interventionen in Verschmutzungsfällen, Analysen, technische Massnahmen und Anlagenkontrollen.
 
-<sup>2</sup> Grundsätzlich werden für die Ausführung von gewöhnlichen Aufgaben der Dienststellen und für die Leistungen gegenüber den Behörden, welche dem Kanton ihre eigenen Leistungen kostenlos gewähren, keine Gebühren erhoben.
+<sup>2</sup> Unabhängig hiervon bleiben das Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege (VVRG) und das Gesetz betreffend den Tarif der Kosten und Entschädigungen vor Gerichts- oder Verwaltungsbehörden (GTar) anwendbar.
+
+<sup>3</sup> Die im vorliegenden Erlass verwendeten Personen-, Funktions- oder Berufsbezeichnungen gelten für beide Geschlechter.
 
 #### Art. 2
 
-**Leistungspflichtige Verfügung**
+**Kostenerhebung durch ein Vollzugsorgan**
 
-<sup>1</sup> Wer unter den Geltungsbereich der Artikel 2 USG, 37 GAUSG und 88 VVRG fällt, hat die Kosten und Gebühren zu übernehmen.
+<sup>1</sup> Wenn die Behörde eine Aufgabe an ein Vollzugsorgan delegiert, ist dieses dazu befugt, Kosten in Rechnung zu stellen, über Anfechtungen der in Rechnung gestellten Kosten zu entscheiden und das Inkasso zu veranlassen. Die Behörde kann aber bei Delegation der Vollzugsaufgabe verfügen, dass sie selber für die Inrechnungstellung der Kosten zuständig bleibt, was sie namentlich dann tut, wenn das Vollzugsorgan selber die Kosten nicht erheben kann.
 
-<sup>2</sup> Grundsätzlich werden die Kosten und Gebühren im Endentscheid festgesetzt. Fehlt ein solcher, wird eine Rechnung erstellt, und bei mangelnder Einigung werden sie durch getrennte Verfügung gemäss Artikel 38, Absatz 1, Buchstabe a VVRG festgesetzt.
+<sup>2</sup> Die Behörde und das Vollzugsorgan vereinbaren untereinander, welcher Anteil an den Kosten dem Vollzugsorgan zur Deckung seiner Ausgaben zusteht.
 
 #### Art. 3
 
-**Grundsatz**
+**Kostenpflichtige Personen**
 
-<sup>1</sup> Der Leistungspflichtige hat generell die gesamten verursachten Kosten zu tragen, inklusive die den Leistungen angerechneten Kosten.
-
-<sup>2</sup> Ermässigungen oder Erlasse werden als solche bezeichnet und nur auf Ersuchen eines bedürftigen Pflichtigen oder aus anderen berechtigten Gründen genehmigt.
+<sup>1</sup> Kostenpflichtig wird, wer eine behördliche Leistung in Anspruch nimmt, eine solche verursacht oder unumgänglich macht.
 
 #### Art. 4
 
-**Berechnung**
+**Kostenbegriff**
 
-<sup>1</sup> Grundsätzlich werden die Kosten und Gebühren für die Leistungen gemäss den diesbezüglich festgesetzten Ansätzen berechnet.
+<sup>1</sup> Die Kosten setzen sich aus Gebühren und Auslagen der Behörde zusammen.
 
-<sup>2</sup> Fehlen solche Ansätze, so werden die Gebühren im Verhältnis zur benötigten Zeit und zum benutzten Material berechnet.
+<sup>2</sup> Als Auslagen verrechnet die Behörde die Kosten, die ihr aus Leistungen Dritter entstehen, so etwa Honorare für Experten, Dolmetscher und Übersetzer und weitere notwendige Ausgaben.
+
+<sup>3</sup> Als Gebühr verrechnet die Behörde den Aufwand an Personal, Gerätschaften, Laboranalysen, Sekretariatsarbeiten und ähnlichem, der ihr bei Erbringung einer behördlichen Leistung entsteht.
+
+## 2 Bestimmungen über die Auslagen
 
 #### Art. 5
 
-**Verweisung**
+**Berechnung der Auslagen**
 
-<sup>1</sup> Die allgemeinen Vorschriften, Definitionen und Tarife, die Verwaltungssachen betreffen und die im Gesetz betreffend den Tarif der Kosten und Entschädigungen vor Gerichts- oder Verwaltungsbehörden (GTar) geregelt sind, sind anwendbar.
+<sup>1</sup> Die Honorare für Experten, Dolmetscher und Übersetzer werden gemäss ihren effektiven Kosten berechnet.
 
-<sup>2</sup> Ist eine Verrichtung in einem kantonalen Gesetzestexte bereits vorgesehen so hat die Behörde diesen Text zum Vergleich beizuziehen.
+<sup>2</sup> Zeugen erhalten eine Einvernahmeentschädigung von 50 Franken und eine Pauschale von 120 Franken pro Nacht, wenn sie wegen der Einvernahme ihrem Wohnsitz fernbleiben müssen.
 
-<sup>3</sup> Für die Stoffanalysen, die Bewertungen und anderen technischen Untersuchungen kann die Behörde auf die auf Bundesebene bestehenden Gebührenansätze zurückgreifen.
+<sup>3</sup> Der Tarif für Fahrspesen wird auf 0,70 Franken pro effektiv zurückgelegten Kilometer festgesetzt.
+
+<sup>4</sup> Die übrigen leistungsbedingten Auslagen werden zu ihrem Nennbetrag in Rechnung gestellt. Für Auslagen unter 200 Franken kann ein Pauschalbetrag eingesetzt werden.
+
+## 3 Bestimmungen über die Gebühren
 
 #### Art. 6
 
-**Gebühren nach Zeitaufwand**
+**Berechnung der Gebühr**
 
-<sup>1</sup> Die Personalkosten werden auf folgender Grundlage berechnet:
+<sup>1</sup> Die Gebühren werden nach dem Kostendeckungs- und Äquivalenzprinzip festgelegt.
 
-- a) Verantwortliche und Hochschulbildung 50 bis 80 Franken pro Stunde,
-
-- b) Laborant oder Handelsschulbildung 30 bis 50 Franken pro Stunde;
-
-- c) Sekretariat 20 bis 30 Franken pro Stunde oder von 15 bis 35 Franken pro Seite.
-
-<sup>2</sup> Die Tageskosten für Apparate sind folgende:
-
-Fahrzeuge zur Immissionsmessung 500 Franken.
-
-Ausrüstung, je nach eingesetztem Umfang 120 bis 400 Franken.
-
-<sup>3</sup> Die obenstehenden Ansätze entsprechen dem Landesindex der Konsumentenpreise von 118,4 Punkten; bei jeder Änderung des Indexes um zehn Punkten können diese indexiert werden.
+<sup>2</sup> Für behördliche Leistungen, die aussergewöhnlich umfangreich, mit besonderen Schwierigkeiten verbunden, dringlich oder ausserhalb der normalen Bürozeiten zu erbringen sind, namentlich bei Piketteinsätzen in Verschmutzungsfällen, kann auf die nachfolgend aufgeführten Tarife ein Aufschlag von bis zu 50 Prozent erfolgen.
 
 #### Art. 7
 
-**Erhöhung**
+**Personalkosten**
 
-Bei Leistungen in dringenden Fällen oder ausserhalb der Arbeitszeit können die Tarife bis zu 50 Prozent erhöht werden.
+<sup>1</sup> Die Kosten für das Behördenpersonal werden gemäss effektivem Zeitaufwand und folgenden Stundentarifen berechnet:
+
+- a) Dienstchef oder Adjunkt: 185 Franken pro Stunde;
+- b) Sektionschef: 140 Franken pro Stunde;
+- c) interner Mitarbeiter mit (natur- oder rechtswissenschaftlichem) Hochschulabschluss: 120 Franken pro Stunde;
+- d) für nach öffentlichem Beschaffungsrecht extern vergebene (natur- oder rechtswissenschaftliche) Mandate: gemäss Rechnung;
+- e) Ingenieur FH: 105 Franken pro Stunde;
+- f) Techniker, Fachlaborant: 90 Franken pro Stunde;
+- g) Laborant, technischer Zeichner: 80 Franken pro Stunde;
+- h) Sekretariatsangestellter: 65 Franken pro Stunde.
 
 #### Art. 8
 
-Verfall, Inkasso und die Verjährung richten sich nach den im Kanton üblichen Regeln.
+**Reisespesen**
+
+<sup>1</sup> Der Tarif für Fahrspesen wird auf 0,70 Franken pro effektiv zurückgelegten Kilometer festgesetzt.
 
 #### Art. 9
 
-Die Departemente werden mit dem Vollzug dieses Beschlusses beauftragt. Dieser tritt gleichzeitig mit dem Anwendungsdekret des USG in Kraft.
+**Geräte- und Analysekosten**
 
-So beschlossen im Staatsrat zu Sitten, den 28. November 1990.
+<sup>1</sup> Die Gerätekosten werden nach den Unterhalts und Amortisierungskosten der eingesetzten Geräte berechnet.
 
-Der Präsident des Staatsrates: Dr. Bernard Bornet Der Staatskanzler: Henri v. Roten
+<sup>2</sup> Die Kosten für gängige Analyseverfahren werden nach den Gerätekosten und dem durchschnittlichen Zeitaufwand pro Analyse berechnet. Sie dürfen die branchenüblichen Tarife privater Laboratorien in der Schweiz nicht übersteigen. Die Behörde gibt jedes Jahr eine Preisliste der gängigen Analyseverfahren heraus.
+
+#### Art. 10
+
+**Sekretariatsarbeiten**
+
+<sup>1</sup> Für Sekretariatsarbeiten wird der folgende Kostentarif festgesetzt:
+
+- a) Kopierkosten: 1 Franken pro Seite;
+- b) Versandkosten: zum Selbstkostenpreis;
+- c) Verbrauchsmaterial, Diverses: zum Selbstkostenpreis.
+
+#### Art. 11
+
+**Pauschalen für einfache Fälle**
+
+<sup>1</sup> Einfache Fälle sind solche ohne besonderen Abklärungs- und Ermittlungsbedarf, deren Sachverhalt sowohl technisch als auch rechtlich eindeutig ist. Repetitive, standardisierte Leistungen werden als einfache Fälle behandelt, für die eine Pauschale verrechnet werden kann.
+
+<sup>2</sup> Für einfache Fälle gelten die folgenden Pauschalen:
+
+- a) Für alle einfachen Entscheide und Bewilligungen: 120 Franken pro Seite;
+- b) für Mobilfunkanlagen:
+  - 1\. Prüfung des Massnahmenberichts: 300 Franken,
+  - 2\. Kontrollen vor Ort: 300 Franken pro Anlage,
+  - 3\. Qualitätskontrolle bei den Betreibern: 300 Franken pro Anlage,
+  - 4\. Kontrolle des Standortdatenblatts (m. kl. Änderungen): 200 Franken pro Anlage,
+  - 5\. Kontrolle des Standortdatenblatts (NIS shift): 100 Franken pro Anlage,
+  - 6\. Prüfung des Standortdatenblatts (mit grösseren Änderungen): 300 Franken pro Anlage;
+- c) Heizungen:
+  - 1\. Periodische Kontrolle einer Öl - oder Gasheizung &gt; 1 MW: 500 Franken pro Anlage,
+  - 2\. Periodische Kontrolle einer Holzheizung &gt; 1 MW: 2'000 Franken pro Anlage,
+  - 3\. Periodische Kontrolle einer Holzheizung (70 kW - 1 MW): 1'000 Franken pro Anlage,
+  - 4\. Manuelle Eingabe eines Formulars in Papierform: 10 Franken pro Stück,
+  - 5\. Importieren eines Formulars in elektronischer Form: gratis,
+  - 6\. Kontrollvignette: 20 Franken pro Stück;
+- c)<sup>bis</sup> Gewässerschutz:
+  - 1\. Bohrbewilligung: 100 bis 3000 Franken, je nach Komplexität der Bohrung,
+  - 2\. Kontrolle der Bohrausführung in der Bauzone: 250 Franken pro Kontrolle,
+  - 3\. Kontrolle vor Ort betreffend Einhaltung der Vorschriften in den Grundwasserschutzzonen S1, S2 und Sh (Grundpauschale): 250 Franken pro Kontrolle,
+  - 4\. Jahresbilanz ARA (Grundpauschale): 250 Franken pro ARA,
+  - 5\. Tankvignette gemäss Art. 35 Abs. 2 kGSchG: 50 Franken pro Stück;
+- d) …
+- e) Kontrollen von Landwirtschaftsbetrieben hinsichtlich des Gewässerschutzes:
+  - 1\. Konformitätserklärung: 120 Franken pro Betrieb,
+  - 2\. Nachkontrolle (der DUW) bei lückenhaften Angaben oder nach Erlass einer Sanierungsverfügung: 100 Franken pro Betrieb;
+- f) Deponien, Abfallsammelstellen (Ökohöfe), Anlagen zur Verwertung mineralischer (Bau)abfälle oder zur Behandlung VeVA-pflichtiger Abfälle:
+  - 1\. …
+  - 2\. …
+  - 2<sup>bis</sup>. Kontrolle einer Deponie vor Ort: 500 Franken pro Kontrolle,
+  - 2<sup>ter</sup>. Kontrolle einer Abfallsammelstelle (Ökohofs): 300 Franken pro Kontrolle,
+  - 3\. Kontrolle einer Anlage zur Verwertung mineralischer (Bau)abfälle: 300 Franken pro Kontrolle,
+  - 4\. Kontrolle einer Anlage zur Verwertung VeVA-pflichtiger Abfälle: 300 Franken pro Kontrolle;
+- g) …
+- h) Belastete Standorte: Bescheinigung für den Eintrag oder Nichteintrag im Kataster der belasteten Standorte: 120 Franken pro Parzelle.
+
+<sup>3</sup> In den folgenden Fällen erfolgt die Rechnungstellung nach Stundentarif gemäss Artikel 7 dieses Beschlusses:
+
+- a) wenn die Grundpauschalen für einfache Fälle in Bezug auf die Arbeitsstunden weit überschritten werden;
+- b) für Aufgaben, welche der Dienststelle gemäss der Verordnung des Bundes über die Umweltverträglichkeitsprüfung (UVPV) oder deren kantonalem Ausführungsreglement (RUVPV) obliegen.
+
+#### Art. 12
+
+**Teuerungsausgleich**
+
+<sup>1</sup> Die in Artikel 7 bis 10 aufgeführten Kostentarife basieren auf dem Landesindex der Konsumentenpreise, Stand vom 31. Dezember 2022 (= 100 Punkte). Sie können jährlich an den Index angepasst werden, wenn sich dieser um mindestens 5 Punkte verändert. Die angepassten Tarife werden auf 5 Franken genau gerundet.
+
+## 4 Für Gebühren und Auslagen gleichermassen gültige Bestimmungen
+
+#### Art. 13
+
+**Leistungswiederholung**
+
+<sup>1</sup> Wird dieselbe Leistung ein zweites Mal, namentlich infolge Anfechtung eines Entscheids, beansprucht, wird diese grundsätzlich zum selben Betrag noch einmal in Rechnung gestellt.
+
+#### Art. 14
+
+**Kostenvorschuss**
+
+<sup>1</sup> In begründeten Ausnahmefällen kann die Behörde vom Pflichtigen einen angemessenen Vorschuss fordern.
+
+#### Art. 15
+
+**Inrechnungstellung der Leistungen**
+
+<sup>1</sup> Die Behörde kann ihre Leistungen in Rechnung stellen, sobald sie diese erfüllt hat.
+
+<sup>2</sup> Vorbehalten bleiben die eidgenössischen Gesetzesbestimmungen des Bundesgesetzes über die Mehrwertsteuer (MWSTG) sowie der Mehrwertsteuerverordnung (MWSTV).
+
+#### Art. 16
+
+**Fälligkeit**
+
+<sup>1</sup> Die Gebühren und Auslagen werden fällig:
+
+- a) bei Entscheiden mit deren Inkrafttreten;
+- b) bei Leistungen mit deren Inrechnungstellung;
+- c) nach Anfechtung der Rechnungstellung mit Inkrafttreten der Kostenerkenntnis.
+
+<sup>2</sup> Die Zahlungsfrist beträgt dreissig Tage ab Fälligkeitsdatum. In Ausnahmefällen kann die Behörde die Zahlungsfrist verlängern.
+
+#### Art. 17
+
+**Aufschub, teilweiser oder vollständiger Erlass der Zahlung**
+
+<sup>1</sup> Ausnahmsweise, zum Beispiel wenn die Kosten einer verursachten Leistung vernachlässigbar sind, kann die Behörde ganz oder teilweise auf deren Bezahlung verzichten.
+
+<sup>2</sup> Bei Zahlungsnot des Pflichtigen oder aus anderen gewichtigen Gründen kann die Behörde den Aufschub, die Herabsetzung oder den Erlass der Zahlung gewähren.
+
+#### Art. 18
+
+**Verjährung**
+
+<sup>1</sup> Die Forderungen verjähren fünf Jahre nach ihrer Fälligkeit.
+
+<sup>2</sup> Die Verjährungsfrist wird durch jede Verfahrenshandlung unterbrochen, mit welcher die Forderung beim Zahlungspflichtigen geltend gemacht wird.
+
+<sup>3</sup> Nach jedem Unterbruch beginnt die Verjährungsfrist von neuem zu laufen.
+
+## 5 Schlussbestimmung
+
+#### Art. 19
+
+**Vollzug**
+
+<sup>1</sup> Die für den Umweltschutz zuständige Behörde sorgt für den Vollzug dieses Beschlusses.
+
+## T1 Übergangsbestimmung
+
+#### Art. T1-1
+
+<sup>1</sup> Leistungen, die unter altem Recht vereinbart und bei Inkrafttreten dieses Beschlusses noch nicht in Rechnung gestellt worden sind, werden nach neuem Recht geregelt.
+
+## T2 Übergangsbestimmung der Änderung vom 22. November 2023
+
+#### Art. T2-1
+
+<sup>1</sup> Leistungen, die schon vereinbart und bei Inkrafttreten der Änderung vom 22. November 2023 noch nicht in Rechnung gestellt worden sind, werden nach neuem Recht geregelt.
+
+CSW BO/Abl. 4/2018
