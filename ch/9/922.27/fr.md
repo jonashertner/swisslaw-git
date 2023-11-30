@@ -4,22 +4,24 @@ title: Ordonnance du 30 avril 1990 sur la régulation des populations de bouquet
 short: ORB
 eli: "https://fedlex.data.admin.ch/eli/cc/1990/1678_1678_1678"
 language: fr
-version: 1996-08-01
+version: 2023-12-01
 adopted: 1990-04-30
 in_force: 1991-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/1678_1678_1678/19960801/fr/xml/fedlex-data-admin-ch-eli-cc-1990-1678_1678_1678-19960801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1990/1678_1678_1678/19960801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/1678_1678_1678/20231201/fr/xml/fedlex-data-admin-ch-eli-cc-1990-1678_1678_1678-20231201-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1990/1678_1678_1678/20231201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur la régulation des populations de bouquetins
 
+Cette ordonnance est abrogée du 1<sup>er</sup> déc. 2023 au 31 janv. 2025 (RO **2023** 662).
+
 (ORB)
 
-du 30 avril 1990 (Etat le 1<sup>er</sup> octobre 1996)
+du 30 avril 1990 (État le 1<sup>er</sup> décembre 2023)
 
-Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication,*[^ingress-1]*
+Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication,[^ingress-1]
 
 vu l’art. 7, al. 3, de la loi du 20 juin 1986[^ingress-2] sur la chasse (LChP); vu l’art. 4, al. 4, de l’ordonnance du 29 février 1988[^ingress-3] sur la chasse (OChP),
 

@@ -4,22 +4,24 @@ title: Verordnung vom 30. April 1990 über die Regulierung von Steinbockbeständ
 short: VRS
 eli: "https://fedlex.data.admin.ch/eli/cc/1990/1678_1678_1678"
 language: de
-version: 1996-08-01
+version: 2023-12-01
 adopted: 1990-04-30
 in_force: 1991-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/1678_1678_1678/19960801/de/xml/fedlex-data-admin-ch-eli-cc-1990-1678_1678_1678-19960801-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1990/1678_1678_1678/19960801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/1678_1678_1678/20231201/de/xml/fedlex-data-admin-ch-eli-cc-1990-1678_1678_1678-20231201-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1990/1678_1678_1678/20231201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Regulierung von Steinbockbeständen
 
+Diese Verordnung wird vom 1. Dez. 2023 bis zum 31. Jan. 2025 aufgehoben (AS **2023** 662).
+
 (VRS)
 
-vom 30. April 1990 (Stand am 1. Oktober 1996)
+vom 30. April 1990 (Stand am 1. Dezember 2023)
 
-Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation*[^ingress-1]*,
+Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation[^ingress-1],
 
 gestützt auf Artikel 7 Absatz 3 des Bundesgesetzes vom 20. Juni 1986[^ingress-2] über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Jagdgesetz) und Artikel 4 Absatz 4 der Verordnung vom 29. Februar 1988[^ingress-3] über die Jagd und den Schutz wildlebender Säugetiere und Vögel,
 

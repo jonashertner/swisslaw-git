@@ -4,28 +4,24 @@ title: Ordinanza del 30 aprile 1990 sulla regolazione degli effettivi degli stam
 short: ORES
 eli: "https://fedlex.data.admin.ch/eli/cc/1990/1678_1678_1678"
 language: it
-version: 1996-08-01
+version: 2023-12-01
 adopted: 1990-04-30
 in_force: 1991-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/1678_1678_1678/19960801/it/xml/fedlex-data-admin-ch-eli-cc-1990-1678_1678_1678-19960801-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1990/1678_1678_1678/19960801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/1678_1678_1678/20231201/it/xml/fedlex-data-admin-ch-eli-cc-1990-1678_1678_1678-20231201-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1990/1678_1678_1678/20231201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulla regolazione degli effettivi degli stambecchi
 
-[^t-1]¶ (Stato il 1° ottobre 1996)
-
-922.27
+La presente ordinanza è abrogata dal 1° dic. 2023 al 31 gen. 2025 (RU **2023** 662).
 
 (ORES)
 
-del 30 aprile 1990 (Stato il 1° ottobre 1996)
+del 30 aprile 1990 (Stato 1° dicembre 2023)
 
-[^t-1]: [RU 1990 1678](https://fedlex.data.admin.ch/eli/oc/1990/1678_1678_1678)
-
-Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni,*[^ingress-1]*
+Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni,[^ingress-1]
 
 visto l’articolo 7 capoverso 3 della legge del 20 giugno 1986[^ingress-2] sulla caccia (LCP); visto l’articolo 4 capoverso 4 dell’ordinanza del 29 febbraio 1988[^ingress-3] sulla caccia (OCP),
 
