@@ -3,18 +3,18 @@ sr: "531.82"
 title: Verordnung vom 18. Mai 2022 über die Sicherstellung der Lieferkapazitäten bei einer schweren Mangellage in der Erdgasversorgung
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/310"
 language: de
-version: 2023-05-01
+version: 2023-12-01
 adopted: 2022-05-18
 in_force: 2022-05-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/310/20230501/de/xml/fedlex-data-admin-ch-eli-cc-2022-310-20230501-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/310/20230501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/310/20231201/de/xml/fedlex-data-admin-ch-eli-cc-2022-310-20231201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/310/20231201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Sicherstellung der Lieferkapazitäten bei einer schweren Mangellage in der Erdgasversorgung
 
-vom 18. Mai 2022 (Stand am 1. Mai 2023)
+vom 18. Mai 2022 (Stand am 1. Dezember 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -36,7 +36,7 @@ Mit dieser Verordnung sollen Vorbereitungsmassnahmen für den Fall einer schwere
 
 <sup>1</sup>
 
-Die folgenden regionalen Gasnetzbetreiber sind verpflichtet, durch geeignete Massnahmen sicherzustellen, dass bei einer schweren Mangellage die Schweiz von Oktober 2023 bis April 2024 hinreichend mit Erdgas versorgt wird:
+Die folgenden regionalen Gasnetzbetreiber sind verpflichtet, durch geeignete Massnahmen sicherzustellen, dass die Schweiz im Fall einer schweren Mangellage in den Jahren 2023 bis 2025 jeweils von Oktober bis April hinreichend mit Erdgas versorgt wird:
 
 - a. Aziende Industriali di Lugano SA;
 - b. Erdgas Ostschweiz AG;
@@ -44,9 +44,11 @@ Die folgenden regionalen Gasnetzbetreiber sind verpflichtet, durch geeignete Mas
 - d. Gasverbund Mittelland AG;
 - e. Gaznat SA.
 
-<sup>2</sup> Sie müssen gewährleisten, dass ab dem 1. November 2023 Erdgas im Umfang von mindestens 15 Prozent des durchschnittlichen schweizerischen Jahresverbrauchs in handelsüblicher Qualität in Speicheranlagen gelagert und verfügbar ist.
+<sup>2</sup> Sie müssen sicherstellen, dass ab dem 1. November 2023 sowie ab dem 1. November 2024 Erdgas im Umfang von mindestens 15 Prozent des durchschnittlichen schweizerischen Jahresverbrauchs in handelsüblicher Qualität in Speicheranlagen gelagert und verfügbar ist.
 
-[^2-1]: Fassung gemäss Ziff. I der V vom 1. Febr. 2023, in Kraft seit 1. Mai 2023 ([AS 2023 52](https://fedlex.data.admin.ch/eli/oc/2023/52)).
+<sup>3</sup> Die regionalen Gasnetzbetreiber nach Absatz 1 Buchstaben b–e müssen sicherstellen, dass sie vom 1. Oktober 2023 bis 30. September 2024 über Optionen verfügen, die im Fall einer Einschränkung der Gaslieferung aus Deutschland zum Bezug von Erdgas aus dem Transitgasleitungssystem berechtigen. Der Bezug muss im Winterhalbjahr eine Leistung von 4000 MWh/h und im Sommerhalbjahr eine Leistung von 2000 MWh/h ermöglichen.
+
+[^2-1]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Dez. 2023 ([AS 2023 580](https://fedlex.data.admin.ch/eli/oc/2023/580)).
 
 #### Art. 3
 
@@ -88,4 +90,7 @@ Die regionalen Gasnetzbetreiber nach Artikel 2 Absatz 1 sind verpflichtet, dem F
 
 <sup>3</sup> Die Geltungsdauer dieser Verordnung wird bis zum 30. September 2024 verlängert.[^7-1]
 
+<sup>4</sup> Die Geltungsdauer dieser Verordnung wird bis zum 30. September 2025 verlängert.[^7-2]
+
 [^7-1]: Eingefügt durch Ziff. I der V vom 1. Febr. 2023, in Kraft seit 1. Mai 2023 ([AS 2023 52](https://fedlex.data.admin.ch/eli/oc/2023/52)).
+[^7-2]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Dez. 2023 ([AS 2023 580](https://fedlex.data.admin.ch/eli/oc/2023/580)).

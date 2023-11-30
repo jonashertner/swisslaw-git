@@ -3,18 +3,18 @@ sr: "531.82"
 title: Ordonnance du 18 mai 2022 sur la garantie des capacités de livraison en cas de pénurie grave de gaz naturel
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/310"
 language: fr
-version: 2023-05-01
+version: 2023-12-01
 adopted: 2022-05-18
 in_force: 2022-05-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/310/20230501/fr/xml/fedlex-data-admin-ch-eli-cc-2022-310-20230501-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/310/20230501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/310/20231201/fr/xml/fedlex-data-admin-ch-eli-cc-2022-310-20231201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/310/20231201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur la garantie des capacités de livraison en cas de pénurie grave de gaz naturel
 
-du 18 mai 2022 (État le 1<sup>er</sup> mai 2023)
+du 18 mai 2022 (État le 1<sup>er</sup> décembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -36,7 +36,7 @@ La présente ordonnance vise à ce que des préparatifs soient effectués en vue
 
 <sup>1</sup>
 
-Les gestionnaires régionaux de réseaux de gaz naturel suivants sont tenus de prendre les mesures adéquates pour garantir un approvisionnement suffisant de la Suisse en gaz naturel d’octobre 2023 à avril 2024 au cas où surviendrait une pénurie grave:
+Les gestionnaires régionaux de réseaux de gaz naturel suivants sont tenus de prendre les mesures adéquates pour garantir un approvisionnement suffisant de la Suisse en gaz naturel d’octobre à avril pendant les années 2023 à 2025 au cas où surviendrait une pénurie grave:
 
 - a. Aziende Industriali di Lugano SA;
 - b. Erdgas Ostschweiz AG;
@@ -44,9 +44,11 @@ Les gestionnaires régionaux de réseaux de gaz naturel suivants sont tenus de p
 - d. Gasverbund Mittelland AG;
 - e. Gaznat SA.
 
-<sup>2</sup> Ils doivent faire en sorte qu’à partir du 1<sup>er</sup> novembre 2023, un volume de gaz naturel correspondant à au moins 15 % de la consommation annuelle moyenne de gaz naturel de la Suisse soit stocké en qualité marchande dans des installations de stockage et disponible.
+<sup>2</sup> Ils doivent garantir qu’un volume de gaz naturel correspondant à au moins 15 % de la consommation annuelle moyenne de gaz naturel de la Suisse est stocké en qualité marchande dans des installations de stockage et disponible à partir du 1<sup>er</sup> novembre 2023 et à partir du 1<sup>er</sup> novembre 2024.
 
-[^2-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> fév. 2023, en vigueur depuis le 1<sup>er</sup> mai 2023 ([RO 2023 52](https://fedlex.data.admin.ch/eli/oc/2023/52)).
+<sup>3</sup> Les gestionnaires régionaux de réseaux de gaz naturel visés à l’al. 1, let. b à e, doivent garantir qu’ils disposent, du 1<sup>er</sup> octobre 2023 au 30 septembre 2024, d’options donnant droit au soutirage de gaz naturel dans le système de gazoducs de transit en cas de restriction des livraisons de gaz en provenance d’Allemagne. Le soutirage doit permettre d’atteindre une puissance de 4000 MWh/h pendant le semestre d’hiver et de 2000 MWh/h pendant le semestre d’été.
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> déc. 2023 ([RO 2023 580](https://fedlex.data.admin.ch/eli/oc/2023/580)).
 
 #### Art. 3
 
@@ -88,4 +90,7 @@ Sur demande, les gestionnaires régionaux de réseaux de gaz naturel visés à l
 
 <sup>3</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 30 septembre 2024.[^7-1]
 
-[^7-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> fév. 2023, en vigueur depuis le 1<sup>e</sup><sup>r</sup> mai 2023 ([RO 2023 52](https://fedlex.data.admin.ch/eli/oc/2023/52)).
+<sup>4</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 30 septembre 2025.[^7-2]
+
+[^7-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> fév. 2023, en vigueur depuis le 1<sup>er</sup> mai 2023 ([RO 2023 52](https://fedlex.data.admin.ch/eli/oc/2023/52)).
+[^7-2]: Introduit par le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> déc. 2023 ([RO 2023 580](https://fedlex.data.admin.ch/eli/oc/2023/580)).
