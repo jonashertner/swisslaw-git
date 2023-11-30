@@ -4,11 +4,11 @@ title: "Ordonnance du 7 octobre 2015 sur les personnes et les institutions suiss
 short: OSEtr
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/654"
 language: fr
-version: 2015-11-01
+version: 2023-12-01
 adopted: 2015-10-07
 in_force: 2015-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/654/20151101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-654-20151101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/654/20151101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/654/20231201/fr/xml/fedlex-data-admin-ch-eli-cc-2015-654-20231201-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/654/20231201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/654/20151101/fr"
 
 (Ordonnance sur les Suisses de l’étranger, OSEtr)
 
-du 7 octobre 2015 (Etat le 1<sup>er</sup> novembre 2015)
+du 7 octobre 2015 (État le 1<sup>er</sup> décembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -117,7 +117,7 @@ Lorsqu’une personne est inscrite au registre des Suisses de l’étranger, ell
 
 <sup>1</sup> Les Suisses de l’étranger qui entendent exercer leurs droits politiques en font la demande soit par écrit, soit en se présentant en personne à la représentation compétente.
 
-<sup>2</sup> Les Suisses de l’étranger domiciliés dans la Principauté de Liechtenstein déposent la demande d’exercice des droits politiques auprès de l’instance désignée par le canton de Saint-Gall, laquelle exerce à leur égard les fonctions d’une représentation. Le DFAE règle les processus administratifs avec le canton de Saint-Gall.
+<sup>2</sup> …[^7-1]
 
 <sup>3</sup>
 
@@ -130,7 +130,10 @@ Lors du dépôt de la demande, les Suisses de l’étranger fournissent les donn
 - e. leur dernière commune de domicile et, s’il diffère de cette dernière, leur dernier domicile politique en Suisse;
 - f. leurs communes et cantons d’origine.
 
-<sup>4</sup> La représentation ou, le cas échéant, l’instance désignée par le canton de Saint-Gall transmet la demande d’exercice des droits politiques à la commune de vote.
+<sup>4</sup> La représentation transmet la demande d’exercice des droits politiques à la commune de vote.[^7-2]
+
+[^7-1]: Abrogé par le ch. III de l’O du 25 oct. 2023, avec effet au 1<sup>er</sup> déc. 2023 ([RO 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
+[^7-2]: Nouvelle teneur selon le ch. III de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> déc. 2023 ([RO 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
 
 #### Art. 8
 
@@ -1045,7 +1048,7 @@ Sont abrogés:
 [^75-1]: [[RO 1991 2391](https://fedlex.data.admin.ch/eli/oc/1991/2391_2391_2391), [2002 1758](https://fedlex.data.admin.ch/eli/oc/2002/263)]
 [^75-2]: [[RO 1967 2039](https://fedlex.data.admin.ch/eli/oc/1967/1994_2039_2033), [1978 1402](https://fedlex.data.admin.ch/eli/oc/1978/1402_1402_1402), [2004 2915](https://fedlex.data.admin.ch/eli/oc/2004/362)art. 99 al. 2, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)ch. IV 8, [2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)ch. II]
 [^75-3]: [[RO 2003 505](https://fedlex.data.admin.ch/eli/oc/2003/110), [2009 6425](https://fedlex.data.admin.ch/eli/oc/2009/787)]
-[^75-4]: [[RO 2009 5861](https://fedlex.data.admin.ch/eli/oc/2009/715), **2****014** 3789 ch. I 6]
+[^75-4]: [[RO 2009 5861](https://fedlex.data.admin.ch/eli/oc/2009/715), [2014 3789](https://fedlex.data.admin.ch/eli/oc/2014/654)ch. I 6]
 
 #### Art. 76
 

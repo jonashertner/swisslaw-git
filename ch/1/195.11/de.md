@@ -4,11 +4,11 @@ title: "Verordnung vom 7. Oktober 2015 über Schweizer Personen und Institutione
 short: V-ASG
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/654"
 language: de
-version: 2015-11-01
+version: 2023-12-01
 adopted: 2015-10-07
 in_force: 2015-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/654/20151101/de/xml/fedlex-data-admin-ch-eli-cc-2015-654-20151101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/654/20151101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/654/20231201/de/xml/fedlex-data-admin-ch-eli-cc-2015-654-20231201-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/654/20231201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/654/20151101/de"
 
 (Auslandschweizerverordnung, V-ASG)
 
-vom 7. Oktober 2015 (Stand am 1. November 2015)
+vom 7. Oktober 2015 (Stand am 1. Dezember 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -117,7 +117,7 @@ Wer im Auslandschweizerregister eingetragen ist, ist verpflichtet, der zuständi
 
 <sup>1</sup> Auslandschweizerinnen und -schweizer, die ihre politischen Rechte ausüben wollen, melden sich bei der zuständigen Vertretung entweder schriftlich oder durch persönliche Vorsprache an.
 
-<sup>2</sup> Auslandschweizerinnen und -schweizer mit Wohnsitz im Fürstentum Liechtenstein melden sich bei der vom Kanton St. Gallen bezeichneten Stelle an; diese erfüllt ihnen gegenüber die Aufgaben der Vertretung. Das EDA regelt die administrativen Abläufe mit dem Kanton St. Gallen.
+<sup>2</sup> …[^7-1]
 
 <sup>3</sup>
 
@@ -130,7 +130,10 @@ Bei der Anmeldung geben die Auslandschweizerinnen und -schweizer an:
 - e. die letzte Wohnsitzgemeinde und, sofern davon abweichend, den letzten politischen Wohnsitz in der Schweiz;
 - f. sämtliche Heimatgemeinden und Heimatkantone.
 
-<sup>4</sup> Die Vertretung beziehungsweise die vom Kanton St. Gallen bezeichnete Stelle leitet die Anmeldung an die Stimmgemeinde weiter.
+<sup>4</sup> Die Vertretung leitet die Anmeldung an die Stimmgemeinde weiter.[^7-2]
+
+[^7-1]: Aufgehoben durch Ziff. III des BG vom 25. Okt., mit Wirkung seit 1. Dez. 2023 (AS **2023** 636).
+[^7-2]: Fassung gemäss Ziff. III des BG vom 25. Okt. 2023, in Kraft seit 1. Dez. 2023 ([AS 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
 
 #### Art. 8
 
@@ -1045,7 +1048,7 @@ Die folgenden Erlasse werden aufgehoben:
 [^75-1]: [[AS 1991 2391](https://fedlex.data.admin.ch/eli/oc/1991/2391_2391_2391), [2002 1758](https://fedlex.data.admin.ch/eli/oc/2002/263), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 4]
 [^75-2]: [[AS 1967 1994](https://fedlex.data.admin.ch/eli/oc/1967/1994_2039_2033), [1978 1402](https://fedlex.data.admin.ch/eli/oc/1978/1402_1402_1402), [2004 2915](https://fedlex.data.admin.ch/eli/oc/2004/362)Art. 99 Abs. 2, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 8, [2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)Ziff. II]
 [^75-3]: [[AS 2003 505](https://fedlex.data.admin.ch/eli/oc/2003/110), [2009 6425](https://fedlex.data.admin.ch/eli/oc/2009/787)]
-[^75-4]: [[AS 2009 5861](https://fedlex.data.admin.ch/eli/oc/2009/715), **2****014** 3789 Ziff. I 6]
+[^75-4]: [[AS 2009 5861](https://fedlex.data.admin.ch/eli/oc/2009/715), [2014 3789](https://fedlex.data.admin.ch/eli/oc/2014/654)Ziff. I 6]
 
 #### Art. 76
 

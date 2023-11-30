@@ -4,11 +4,11 @@ title: "Ordinanza del 7 ottobre 2015 concernente persone e istituzioni svizzere 
 short: OSEst
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/654"
 language: it
-version: 2015-11-01
+version: 2023-12-01
 adopted: 2015-10-07
 in_force: 2015-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/654/20151101/it/xml/fedlex-data-admin-ch-eli-cc-2015-654-20151101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/654/20151101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/654/20231201/it/xml/fedlex-data-admin-ch-eli-cc-2015-654-20231201-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/654/20231201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/654/20151101/it"
 
 (Ordinanza sugli Svizzeri all’estero, OSEst)
 
-del 7 ottobre 2015 (Stato 1° novembre 2015)
+del 7 ottobre 2015 (Stato 1° dicembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -117,7 +117,7 @@ Le persone iscritte nel registro degli Svizzeri all’estero sono tenute a notif
 
 <sup>1</sup> Gli Svizzeri all’estero che intendono esercitare i loro diritti politici lo comunicano alla rappresentanza competente per scritto o presentandosi di persona.
 
-<sup>2</sup> Gli Svizzeri all’estero con domicilio nel Principato del Liechtenstein si annunciano presso l’ufficio designato dal Cantone di San Gallo, che assume nei loro confronti i compiti di una rappresentanza. Il DFAE disciplina le relative procedure amministrative con il Cantone di San Gallo.
+<sup>2</sup> ...[^7-1]
 
 <sup>3</sup>
 
@@ -130,7 +130,10 @@ Al momento dell’annuncio, gli Svizzeri all’estero indicano:
 - e. l’ultimo Comune di domicilio in Svizzera e, se diverso, l’ultimo domicilio politico in Svizzera;
 - f. tutti i Comuni e i Cantoni d’origine.
 
-<sup>4</sup> La rappresentanza o l’ufficio designato dal Cantone di San Gallo inoltra l’annuncio al Comune di voto.
+<sup>4</sup> La rappresentanza inoltra l’annuncio al Comune di voto.[^7-2]
+
+[^7-1]: Abrogato dal n. III dell’O del 25 ott. 2023, con effetto dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
+[^7-2]: Nuovo testo giusta il n. III dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
 
 #### Art. 8
 

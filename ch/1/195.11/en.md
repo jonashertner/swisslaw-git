@@ -4,11 +4,11 @@ title: "Ordinance of 7 October 2015 on Swiss Persons and Institutions Abroad (Sw
 short: SAO
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/654"
 language: en
-version: 2015-11-01
+version: 2023-12-01
 adopted: 2015-10-07
 in_force: 2015-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/654/20151101/en/xml/fedlex-data-admin-ch-eli-cc-2015-654-20151101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/654/20151101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/654/20231201/en/xml/fedlex-data-admin-ch-eli-cc-2015-654-20231201-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/654/20231201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Swiss Abroad Ordinance, SAO)
 
-of 7 October 2015 (Status as of 1 November 2015)
+of 7 October 2015 (Status as of 1 December 2023)
 
 The Swiss Federal Council,
 
@@ -119,7 +119,7 @@ Any person who is entered in the Register of the Swiss Abroad must notify the co
 
 <sup>1</sup> The Swiss Abroad who wish to exercise their political rights must register with the competent representation either in writing or in person.
 
-<sup>2</sup> Swiss nationals who are resident in the Principality of Liechtenstein must register with the authority designated by the Canton of St. Gallen; this authority performs the tasks of the representation for them. The FDFA regulates the administrative processes with the Canton of St. Gallen.
+<sup>2</sup> …[^7-1]
 
 <sup>3</sup>
 
@@ -132,7 +132,10 @@ When they register, the Swiss Abroad must state:
 - e. their last commune of domicile and, if different, their last political domicile in Switzerland;
 - f. all communes and cantons of origin.
 
-<sup>4</sup> The representation or, where applicable, the authority designated by the Canton of St. Gallen shall forward the registration to the electoral commune.
+<sup>4</sup> The representation shall forward the registration to the electoral commune.[^7-2]
+
+[^7-1]: Repealed by No III of the FA of 25 Oct., with effect from 1 Dec. 2023 ([AS 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
+[^7-2]: Amended by No III of the FA of 25 Oct. 2023, in force since 1 Dec. 2023 ([AS 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
 
 #### Art. 8
 
