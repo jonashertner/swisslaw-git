@@ -4,13 +4,13 @@ number: "122.96.11"
 title: "Ordonnance sur la gouvernance de la digitalisation et des systèmes d'information de l'Etat"
 short: OGDSI
 language: fr
-version: 2023-08-01
-valid_until: 2023-11-30
-version_adopted: 2023-07-06
+version: 2023-12-01
+valid_until: 2025-07-31
+version_adopted: 2023-11-20
 adopted: 2021-06-28
 in_force: 2021-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.96.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7795/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7873/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,9 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7795/pdf_file"
 
 Gouvernance de la digitalisation et des systèmes d'information de l'Etat – O
 
-du 28.06.2021 (version entrée en vigueur le 01.08.2023)
+(OGDSI)
+
+du 28.06.2021 (version entrée en vigueur le 01.12.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -515,6 +517,7 @@ Arrête:
 <sup>1</sup> La CoCyb a les attributions spécifiques suivantes:
 
 - a) elle propose et/ou soutient les projets de cyberadministration dans le cadre du PDI, en tenant compte des développements sur le plan national;
+- a1) elle fixe l'ordre de priorité des prestations de cyberadministration à développer;
 - b) elle est consultée sur les projets de documents en lien avec la cyberadministration (lois, ordonnances, directives, stratégies, concepts, etc.);
 - c) elle promeut l'élaboration et la réalisation d'initiatives en lien avec la cyberadministration;
 - d) elle coordonne la mise en œuvre du PDI dans le domaine de la cyberadministration;

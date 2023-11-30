@@ -4,13 +4,13 @@ number: "122.96.11"
 title: Verordnung über die Governance der Digitalisierung und der Informationssysteme des Staates
 short: GDISV
 language: de
-version: 2023-08-01
-valid_until: 2023-11-30
-version_adopted: 2023-07-06
+version: 2023-12-01
+valid_until: 2025-07-31
+version_adopted: 2023-11-20
 adopted: 2021-06-28
 in_force: 2021-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.96.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7795/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7873/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,9 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7795/pdf_file"
 
 Governance der Digitalisierung und der Informationssysteme des Staates – V
 
-vom 28.06.2021 (Fassung in Kraft getreten am 01.08.2023)
+(GDISV)
+
+vom 28.06.2021 (Fassung in Kraft getreten am 01.12.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -515,6 +517,7 @@ beschliesst:
 <sup>1</sup> Die EGovK hat folgende besondere Aufgaben:
 
 - a) Sie schlägt unter Berücksichtigung der Entwicklungen auf nationaler Ebene die E-Government-Projekte im Rahmen des Richtplans vor und unterstützt sie.
+- a1) Sie legt die Priorisierung der zu entwickelnden E-Government-Leistungen fest.
 - b) Sie wird zu Entwürfen von Dokumenten mit Bezug zum E-Government (Gesetze, Verordnungen, Richtlinien, Strategien, Konzepte usw.) angehört.
 - c) Sie fördert die Erarbeitung und Umsetzung von E-Government-Initiativen.
 - d) Sie koordiniert die Umsetzung des Richtplans im Bereich E-Government.
