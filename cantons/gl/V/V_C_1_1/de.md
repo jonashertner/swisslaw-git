@@ -4,13 +4,12 @@ number: V C/1/1
 title: Gesetz über den Brandschutz und die Feuerwehr
 short: Brandschutzgesetz
 language: de
-version: 2023-01-01
-valid_until: 2023-11-30
-version_adopted: 2021-09-05
+version: 2023-12-01
+version_adopted: 2022-05-01
 adopted: 1995-05-07
 in_force: 1996-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/V-C.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2357/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2449/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2357/pdf_file"
 
 (Brandschutzgesetz)
 
-Vom 07.05.1995 (Stand 01.01.2023)
+Vom 07.05.1995 (Stand 01.12.2023)
 
 (Erlassen von der Landsgemeinde am 7. Mai 1995)
 
@@ -102,7 +101,7 @@ Vom 07.05.1995 (Stand 01.01.2023)
 - c. Ausbildung der Vollzugsorgane;
 - d. Beratung von Bauherrschaft und Baufachleuten in Belangen der Verhütung von Feuer-, Elementar- und anderen Schadenereignissen sowie die Erteilung von Empfehlungen;
 - e. Information der Öffentlichkeit über die Schadenverhütung.
-- f. Erteilung der Zulassung für die Kaminfeger und deren Beaufsichtigung.
+- f. Erteilung und Entzug der Zulassung für die Kaminfeger und deren Beaufsichtigung.
 
 <sup>2</sup> Besteht bei Trockenheit oder Wasserknappheit bzw. bei Veranstaltungen die Möglichkeit erhöhter Brandgefahr, ordnet die Glarnersach die erforderlichen Massnahmen an; sie kann Verbote aussprechen.
 
@@ -170,8 +169,8 @@ Vom 07.05.1995 (Stand 01.01.2023)
 
 - a. höhere Fachprüfung;
 - b. ausreichende Berufshaftpflichtversicherung;
-- c. Kenntnisse der Brandschutzvorschriften;
-- d. Gegenrecht des betreffenden Kantons bei ausserkantonalen Gesuchstellenden.
+- c. Kenntnisse der Brandschutzvorschriften.
+- d. …
 
 <sup>3</sup> Die Zulassung kann mit Auflagen verbunden werden, insbesondere mit der Pflicht, die Kontroll- und Reinigungsarbeiten im ganzen Kanton, auch in abgelegenen Gebieten, zu verhältnismässigen Kosten auszuführen.
 
@@ -193,16 +192,36 @@ Vom 07.05.1995 (Stand 01.01.2023)
 
 **Entzug der Zulassung**
 
-<sup>1</sup> Die Zulassung für die Ausübung der Kaminfegertätigkeit kann entzogen werden, wenn deren Inhaber
+<sup>1</sup> Die Zulassung für die Ausübung der Kaminfegertätigkeit kann von der Glarnersach entzogen werden, wenn deren Inhaber:
 
 - a. gegen Berufspflichten verstösst oder brandschutzrechtliche Bestimmungen verletzt;
 - b. die berufliche Stellung missbräuchlich ausnützt oder Handlungen vornimmt, die mit dem Kaminfegerdienst unvereinbar sind.
 
 <sup>2</sup> …
 
+<sup>3</sup> Der Regierungsrat regelt die erforderlichen Einzelheiten.
+
 #### Art. 20
 
 **…**
+
+### 2.4. Gebühren
+
+#### Art. 20a
+
+**Grundsatz**
+
+<sup>1</sup> Die Glarnersach kann für ihre Verrichtungen, insbesondere die Erteilung der Zulassung an Kaminfeger, die Durchführung von Kontrollen und weitere Dienstleistungen kostendeckende Gebühren erheben.
+
+<sup>2</sup> Die Gebühren sind von derjenigen Person zu tragen, welche die Amtshandlung in eigenem Interesse beantragt oder durch ihr Verhalten veranlasst hat.
+
+#### Art. 20b
+
+**Höhe**
+
+<sup>1</sup> Die Gebühren werden nach Aufwand festgelegt und können bis 5000 Franken betragen.
+
+<sup>2</sup> Der Verwaltungsrat der Glarnersach bestimmt die Ansätze in einem Gebührentarif und regelt die weiteren Einzelheiten der Bemessung.
 
 ## 3. Schadenbekämpfung
 
