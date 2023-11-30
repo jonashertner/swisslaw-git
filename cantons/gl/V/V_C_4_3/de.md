@@ -3,20 +3,19 @@ canton: GL
 number: V C/4/3
 title: Kaminfegerreglement
 language: de
-version: 2014-01-01
-valid_until: 2023-11-30
-version_adopted: 2013-11-05
+version: 2023-12-01
+version_adopted: 2023-10-30
 adopted: 2013-11-05
 in_force: 2014-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/V-C.4.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/1347/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2451/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kaminfegerreglement
 
-Vom 05.11.2013 (Stand 01.01.2014)
+Vom 05.11.2013 (Stand 01.12.2023)
 
 Der Verwaltungsrat der Glarnersach,
 
@@ -45,21 +44,7 @@ erlässt:
 
 #### Art. 3
 
-**Voraussetzungen**
-
-<sup>1</sup> Wer wärmetechnische Anlagen für feste, flüssige oder gasförmige Brennstoffe reinigt, bedarf einer Zulassung der Glarnersach.
-
-<sup>2</sup> Die Zulassung wird erteilt, wenn der Gesuchsteller folgende Voraussetzungen erfüllt:
-
-- a. Inhaber des Meisterdiploms des Schweizerischen Kaminfegermeisterverbandes;
-- b. Handlungsfähigkeit;
-- c. Abschluss einer Berufshaftpflichtversicherung über einen Betrag von 5 Millionen Franken;
-- d. Kenntnis der Schweizerischen Brandschutzvorschriften;
-- e. Übernahme der Verpflichtung, im ganzen Kanton auch in abgelegenen Gebieten Kontroll- und Reinigungsarbeiten zu verhältnismässigen Kosten auszuführen;
-- f. Übernahme der Verpflichtung zur Kontrolle von Holzfeuerungsanlagen gemäss den Bestimmungen der Verordnung zum kantonalen Umweltschutzgesetz;
-- g. Annahme der in der Zulassung formulierten Bedingungen.
-
-<sup>3</sup> Gesuchsteller mit Wohnsitz ausserhalb des Kantons Glarus erhalten die Zulassung nur, wenn der Wohnsitzkanton Gegenrecht erteilt.
+**…**
 
 #### Art. 4
 
@@ -72,7 +57,7 @@ erlässt:
   - 2\. Funktion und Stellung des Gesuchstellers im Betrieb,
   - 3\. Aktuelle Anzahl beschäftigter Kaminfeger mit Fähigkeitsausweis und der Kaminfegerlehrlinge,
   - 4\. Allfällige Kooperationen mit anderen Betrieben;
-- b. Kopie des Meisterdiploms des Schweizerischen Kaminfegermeisterverbandes;
+- b. Kopie Diploms «Kaminfegermeister HFP» des Bundesamtes für Berufsbildung und Technologie;
 - c. Handelsregisterauszug;
 - d. Kopie der Police der Berufshaftpflichtversicherung;
 - e. Handlungsfähigkeitszeugnis;
@@ -82,29 +67,11 @@ erlässt:
 
 <sup>2</sup> Die Glarnersach prüft die eingereichten Dokumente und erteilt dem Gesuchsteller die Zulassung wenn die Voraussetzungen erfüllt sind und keine anderweitigen Ausschlussgründe vorliegen.
 
-<sup>3</sup> Die Erteilung von Zulassungen wird im Amtsblatt des Kantons Glarus veröffentlicht.
+<sup>3–4</sup> …
 
-<sup>4</sup> Die Glarnersach führt eine öffentliche Liste über die Zulassungsinhaber. Diese ist auch auf der Homepage der Glarnersach einsehbar.
+#### Art. 5–6
 
-#### Art. 5
-
-**Umfang und Dauer der Zulassung**
-
-<sup>1</sup> Die Zulassung ist für das gesamte Kantonsgebiet unbeschränkt gültig, längstens jedoch bis zum Erreichen des gesetzlichen Pensionsalters.
-
-<sup>2</sup> Die Zulassung wird an den Gesuchsteller erteilt und ist nicht übertragbar.
-
-#### Art. 6
-
-**Entzug der Zulassung**
-
-<sup>1</sup> Die Zulassung kann entzogen werden, wenn:
-
-- a. gegen Bestimmungen der Zulassung verstossen wird;
-- b. die berufliche Stellung missbräuchlich ausgenützt wird;
-- c. die Voraussetzungen für die Erteilung einer Bewilligung nicht mehr gegeben sind.
-
-<sup>2</sup> Der Entzug der Zulassung ist Amtsblatt des Kantons Glarus zu veröffentlichen.
+**…**
 
 ## 3. Pflichten des Kaminfegers
 
@@ -236,7 +203,5 @@ erlässt:
 ## 6. Übergangsbestimmung
 
 #### Art. 17
-
-<sup>1</sup> Die nach bisherigem Recht zugelassenen Kaminfeger, welche die Voraussetzungen gemäss Artikel 3 Absatz 2 Buchstaben a und f sowie Absatz 3 nicht erfüllen, erhalten eine befristete Zulassung von drei Jahren.
 
 SBE 2013 45
