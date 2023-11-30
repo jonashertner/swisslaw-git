@@ -4,11 +4,11 @@ title: "Verordnung des EFD vom 4. April 2007 über Zollerleichterungen für Ware
 short: ZEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/252"
 language: de
-version: 2023-11-01
+version: 2023-12-01
 adopted: 2007-04-04
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/252/20231101/de/xml/fedlex-data-admin-ch-eli-cc-2007-252-20231101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/252/20231101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/252/20231201/de/xml/fedlex-data-admin-ch-eli-cc-2007-252-20231201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/252/20231201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/252/20231101/de"
 
 (Zollerleichterungsverordnung, ZEV)
 
-vom 4. April 2007 (Stand am 1. November 2023)
+vom 4. April 2007 (Stand am 1. Dezember 2023)
 
 Das Eidgenössische Finanzdepartement (EFD),
 
@@ -426,7 +426,7 @@ Anhang 1[^t-1]
 
 ## Zollerleichterungen je nach Verwendungszweck
 
-[^t-1]: Fassung gemäss Ziff. I der V des EFD vom 16. März 2016 ([AS 2016 1093](https://fedlex.data.admin.ch/eli/oc/2016/206)). Bereinigt gemäss Ziff. I der V des EFD vom 12. Aug. 2016 ([AS 2016 2947](https://fedlex.data.admin.ch/eli/oc/2016/489)), vom 28. Okt. 2016 ([AS 2016 4031](https://fedlex.data.admin.ch/eli/oc/2016/667)), vom 28. Okt. 2016 ([AS 2016 4033](https://fedlex.data.admin.ch/eli/oc/2016/668)), der OZD vom 11. Nov. 2016 ([AS 2016 4035](https://fedlex.data.admin.ch/eli/oc/2016/669)), des EFD vom 11. Aug. 2017 ([AS 2017 4889](https://fedlex.data.admin.ch/eli/oc/2017/534)), vom 1. Nov. 2017 ([AS 2017 6665](https://fedlex.data.admin.ch/eli/oc/2017/741)), der OZD vom 22. Sept. 2020 ([AS 2020 3867](https://fedlex.data.admin.ch/eli/oc/2020/716)), des EFD vom 17. Nov. 2020 ([AS 2020 5431](https://fedlex.data.admin.ch/eli/oc/2020/944)), Ziff. I und II der V des EFD vom 8. Sept. 2021 ([AS 2021 577](https://fedlex.data.admin.ch/eli/oc/2021/577)), Ziff. I der V des EFD vom 15. Nov. 2021 ([AS 2021 737](https://fedlex.data.admin.ch/eli/oc/2021/737)), Ziff. I der V des BAZG vom 8. März 2022 ([AS 2022 157](https://fedlex.data.admin.ch/eli/oc/2022/157)), vom 22. März 2022 ([AS 2022 189](https://fedlex.data.admin.ch/eli/oc/2022/189)), vom 21. April 2022 ([AS 2022 252](https://fedlex.data.admin.ch/eli/oc/2022/252)), vom 20. Okt. 2023 ([AS 2023 596](https://fedlex.data.admin.ch/eli/oc/2023/596)) und vom 20. Okt. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 602](https://fedlex.data.admin.ch/eli/oc/2023/602)).
+[^t-1]: Fassung gemäss Ziff. I der V des EFD vom 16. März 2016 ([AS 2016 1093](https://fedlex.data.admin.ch/eli/oc/2016/206)). Bereinigt gemäss Ziff. I der V des EFD vom 12. Aug. 2016 ([AS 2016 2947](https://fedlex.data.admin.ch/eli/oc/2016/489)), vom 28. Okt. 2016 ([AS 2016 4031](https://fedlex.data.admin.ch/eli/oc/2016/667)), vom 28. Okt. 2016 ([AS 2016 4033](https://fedlex.data.admin.ch/eli/oc/2016/668)), der OZD vom 11. Nov. 2016 ([AS 2016 4035](https://fedlex.data.admin.ch/eli/oc/2016/669)), des EFD vom 11. Aug. 2017 ([AS 2017 4889](https://fedlex.data.admin.ch/eli/oc/2017/534)), vom 1. Nov. 2017 ([AS 2017 6665](https://fedlex.data.admin.ch/eli/oc/2017/741)), der OZD vom 22. Sept. 2020 ([AS 2020 3867](https://fedlex.data.admin.ch/eli/oc/2020/716)), des EFD vom 17. Nov. 2020 ([AS 2020 5431](https://fedlex.data.admin.ch/eli/oc/2020/944)), Ziff. I und II der V des EFD vom 8. Sept. 2021 ([AS 2021 577](https://fedlex.data.admin.ch/eli/oc/2021/577)), Ziff. I der V des EFD vom 15. Nov. 2021 ([AS 2021 737](https://fedlex.data.admin.ch/eli/oc/2021/737)), Ziff. I der V des BAZG vom 8. März 2022 ([AS 2022 157](https://fedlex.data.admin.ch/eli/oc/2022/157)), vom 22. März 2022 ([AS 2022 189](https://fedlex.data.admin.ch/eli/oc/2022/189)), vom 21. April 2022 ([AS 2022 252](https://fedlex.data.admin.ch/eli/oc/2022/252)), vom 20. Okt. 2023 ([AS 2023 596](https://fedlex.data.admin.ch/eli/oc/2023/596)), vom 20. Okt. 2023 ([AS 2023 602](https://fedlex.data.admin.ch/eli/oc/2023/602)) und vom 21. Nov. 2023, in Kraft seit 1. Dez. 2023 ([AS 2023 670](https://fedlex.data.admin.ch/eli/oc/2023/670)).
 
 <table>
 <tr><th>Tarifnummer</th><th>Warenbezeichnung</th><th>Verwendung</th><th>Zollansatz Fr. je 100 kg brutto</th></tr>
@@ -492,7 +492,7 @@ Anhang 1[^t-1]
 <tr><td>1104. 19 29</td><td>Körner von Gerste, gequetscht oder in Flocken</td><td>zur menschlichen Ernährung ohne Futtermittelanfall</td><td>10.—</td></tr>
 <tr><td>1104. 19 99</td><td>Körner von anderem Getreide, gequetscht oder in Flocken</td><td>zur menschlichen Ernährung ohne Futtermittelanfall</td><td>10.—</td></tr>
 <tr><td>1104. 22 20</td><td>Anders bearbeitete Körner von Hafer</td><td>zur Herstellung von Nahrungsmitteln ohne Futtermittelanfall</td><td>10.—</td></tr>
-<tr><td>1104. 22 20</td><td>Anders bearbeitete Körner von Hafer</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>9.60</td></tr>
+<tr><td>1104. 22 20</td><td>Anders bearbeitete Körner von Hafer</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>8.40</td></tr>
 <tr><td>1104. 22 20</td><td>Mahlhafer, geschält, noch circa 10 % ungeschälte Körner enthaltend</td><td>zur Herstellung von fertigen Haferprodukten für die menschliche Ernährung</td><td>—.60</td></tr>
 <tr><td>1104. 23 90</td><td>Anders bearbeitete Körner von Mais</td><td>zur menschlichen Ernährung ohne Futtermittelanfall</td><td>10.—</td></tr>
 <tr><td>1104. 23 90</td><td>Maisgrütze, d.h. grob gebrochene (geschrotete) Maiskörner, entkeimt und geschält</td><td>zur Herstellung von Cornflakes</td><td>—.20</td></tr>
