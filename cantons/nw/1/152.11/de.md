@@ -4,13 +4,13 @@ number: "152.11"
 title: Vollzugsverordnung zum Gesetz über die Organisation des Regierungsrates und der Verwaltung
 short: "Regierungsratsverordnung, RRV"
 language: de
-version: 2023-09-01
-valid_until: 2023-11-30
-version_adopted: 2023-05-16
+version: 2023-12-01
+valid_until: 2024-08-31
+version_adopted: 2023-10-24
 adopted: 1998-07-07
 in_force: 1998-07-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/152.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1378/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1379/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1378/pdf_file"
 
 (Regierungsratsverordnung, RRV)
 
-vom 07.07.1998 (Stand 01.09.2023)
+vom 07.07.1998 (Stand 01.12.2023)
 
 Der Regierungsrat von Nidwalden,
 
@@ -718,7 +718,7 @@ beschliesst:
   - 2\. Seepolizei
   - 3\. Sprengstoffe
   - 4\. Waffen
-  - 5\. Strafregister
+  - 5\. …
 - f. Amt für Militär und Zivilschutz
   - 1\. Militärverwaltung
   - 2\. Wehr- und Dienstpflicht (Kreiskommando, Wehrpflichtersatz)
