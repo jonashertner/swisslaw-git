@@ -4,13 +4,12 @@ number: V C/1/2
 title: Verordnung zum Gesetz über den Brandschutz und die Feuerwehr
 short: Brandschutzverordnung
 language: de
-version: 2020-01-01
-valid_until: 2023-11-30
-version_adopted: 2019-10-01
+version: 2023-12-01
+version_adopted: 2023-11-14
 adopted: 2013-11-05
 in_force: 2014-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/V-C.1.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2126/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2450/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2126/pdf_file"
 
 (Brandschutzverordnung)
 
-Vom 05.11.2013 (Stand 01.01.2020)
+Vom 05.11.2013 (Stand 01.12.2023)
 
 Der Regierungsrat,
 
@@ -46,7 +45,7 @@ verordnet:
 
 - a. Ausrichtung von Beiträgen zur freiwilligen Verbesserung des vorbeugenden Brandschutzes und Objektschutzes gegen Naturgefahren an Gebäuden sowie Verbesserung von Löschwasserversorgungen;
 - b. Kontrolle und Reinigung von wärmetechnischen Anlagen;
-- c. Voraussetzungen für die Zulassungserteilung an Kaminfeger;
+- c. …
 - d. Organisation, Ausrüstung und Ausbildung der Feuerwehren;
 - e. Verrechnung von Feuerwehreinsätzen.
 
@@ -67,6 +66,45 @@ verordnet:
 **Funktionsbezeichnungen**
 
 <sup>1</sup> Die in diesen Ausführungsbestimmungen genannten Funktionen beziehen sich stets auf beide Geschlechter.
+
+## 1a. Zulassung als Kaminfeger
+
+#### Art. 4a
+
+**Voraussetzungen**
+
+<sup>1</sup> Wer wärmetechnische Anlagen für feste, flüssige oder gasförmige Brennstoffe reinigt, bedarf einer Zulassung durch die Glarnersach.
+
+<sup>2</sup> Die Zulassung wird erteilt, wenn die gesuchstellende natürliche Person:
+
+- a. handlungsfähig ist;
+- b. über das Diplom «Kaminfegermeister HFP» des Bundesamtes für Berufsbildung und Technologie verfügt;
+- c. die Schweizerischen Brandschutzvorschriften kennt;
+- d. über eine Berufshaftpflichtversicherung im Umfang von mindestens 5 Millionen Franken verfügt;
+- e. auch in den abgelegenen Gebieten des Kantons die Kontroll- und Reinigungsarbeiten gemäss ordentlichem Tarif (ohne Aufgeld) ausführt;
+- f. die Kontrolle von Holzfeuerungsanlagen gemäss den Bestimmungen der Verordnung zum kantonalen Umweltschutzgesetz übernimmt;
+- g. eine Gewähr für eine ordnungsgemässe Berufsausübung bietet.
+
+<sup>3</sup> Die Zulassung lautet auf die gesuchstellende natürliche Person und ist nicht übertragbar. Sie ist für das gesamte Kantonsgebiet unbeschränkt gültig.
+
+<sup>4</sup> Die Erteilung der Zulassung wird im kantonalen Amtsblatt veröffentlicht.
+
+<sup>5</sup> Die Glarnersach führt eine öffentlich einsehbare Liste der im Kanton als Kaminfeger zugelassenen Personen.
+
+#### Art. 4b
+
+**Entzug der Zulassung**
+
+<sup>1</sup> Die Zulassung wird durch die Glarnersach entzogen, wenn:
+
+- a. die Zulassungsvoraussetzungen nicht mehr erfüllt sind;
+- b. den Pflichten gemäss diesem Gesetz nicht nachgekommen wird;
+- c. gegen Auflagen verstossen wird;
+- d. die Zulassung zur Kontrolle von Holzfeuerungen entzogen worden ist.
+
+<sup>2</sup> In leichten Fällen sowie bei erstmaligen Versäumnissen kann eine Verwarnung erteilt oder es können Auflagen oder Bedingungen verfügt werden.
+
+<sup>3</sup> Der Entzug der Zulassung wird im kantonalen Amtsblatt veröffentlicht.
 
 ## 2. Schadenverhütung und -bekämpfung
 
