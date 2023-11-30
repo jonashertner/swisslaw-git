@@ -4,11 +4,11 @@ title: "Ordonnance du 29 février 1988 sur la chasse et la protection des mammif
 short: OChP
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/517_517_517"
 language: fr
-version: 2023-07-01
+version: 2023-12-01
 adopted: 1988-02-29
 in_force: 1988-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1988-517_517_517-20230701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20231201/fr/xml/fedlex-data-admin-ch-eli-cc-1988-517_517_517-20231201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20231201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20230701/fr"
 
 (Ordonnance sur la chasse, OChP)
 
-du 29 février 1988 (État le 1<sup>er</sup> juillet 2023)
+du 29 février 1988 (État le 1<sup>er</sup> décembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -139,66 +139,46 @@ Les périodes de protection selon l’art. 5 de la loi sur la chasse sont limit�
 
 <sup>1</sup>
 
-Les cantons peuvent, avec l’assentiment préalable de l’OFEV, prendre des mesures temporaires visant la régulation de populations d’animaux protégés, lorsque, en dépit de mesures raisonnables prises pour empêcher les dommages, des animaux d’une espèce déterminée:[^4-1]
+En vertu de l’art. 12, al. 4, de la loi sur la chasse, les cantons peuvent, avec l’assentiment préalable de l’OFEV, prendre des mesures temporaires visant la régulation de populations d’animaux protégés, lorsque, en dépit de mesures raisonnables prises pour empêcher les dommages, des animaux d’une espèce déterminée:[^4-1]
 
-- a. portent atteinte à leur habitat;
-- b. mettent en péril la diversité des espèces;
-- c.[^4-2] causent d’importants dommages aux forêts, aux cultures ou aux animaux de rente;
-- d.[^4-3] représentent un grave danger pour l’homme;
+- [tab] a. et b.[^4-2] ...
+- c.[^4-3] causent d’importants dommages aux forêts, aux cultures ou aux animaux de rente;
+- d.[^4-4] représentent un grave danger pour l’homme;
 - e. répandent des épizooties;
-- f.[^4-4] constituent une grave menace pour les zones habitées ou les bâtiments et installations d’intérêt public;
-- g.[^4-5] causent des pertes sévères dans l’utilisation des régales cantonales de la chasse.
+- f.[^4-5] constituent une grave menace pour les zones habitées ou les bâtiments et installations d’intérêt public;
+- g.[^4-6] causent des pertes sévères dans l’utilisation des régales cantonales de la chasse.
 
 <sup>2</sup>
 
-Dans leur proposition, les cantons indiquent à l’OFEV:[^4-6]
+Dans leur proposition, les cantons indiquent à l’OFEV:[^4-7]
 
 - a. la grandeur des populations;
 - b. le type et la localisation du danger;
 - c. l’ampleur et la localisation des dégâts;
 - d. les mesures prises pour prévenir les dégâts;
 - e. le genre d’intervention prévue et son impact sur les populations;
-- f. l’état de régénération des peuplements forestiers.[^4-7]
+- f. l’état de régénération des peuplements forestiers.[^4-8]
 
-<sup>3</sup> Ils communiquent chaque année à l’OFEV[^4-8] le lieu, le moment et le résultat des interventions.
+<sup>3</sup> Ils communiquent chaque année à l’OFEV[^4-9] le lieu, le moment et le résultat des interventions.
 
-<sup>4</sup> Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication[^4-9] (Département) détermine dans une ordonnance le mode de régulation des populations de bouquetins. Il prend au préalable l’avis des cantons.
+<sup>4</sup> …[^4-10]
 
-[^4-1]: Nouvelle teneur selon le ch. I de l’O du 27 juin 2012, en vigueur depuis le 15 juil. 2012 ([RO 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)).
-[^4-2]: Nouvelle teneur selon le ch. I de l’O du 27 juin 2012, en vigueur depuis le 15 juil. 2012 ([RO 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)).
-[^4-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2207](https://fedlex.data.admin.ch/eli/oc/2015/407)).
-[^4-4]: Introduite par le ch. I de l’O du 27 juin 2012, en vigueur depuis le 15 juil. 2012 ([RO 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)).
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur du 1<sup>er</sup> déc. 2023 au 31 janv. 2025 ([RO 2023 662](https://fedlex.data.admin.ch/eli/oc/2023/662)).
+[^4-2]: Abrogées par le ch. I de l’O du 1<sup>er</sup> nov. 2023, avec effet du 1<sup>er</sup> déc. 2023 au 31 janv. 2025 ([RO 2023 662](https://fedlex.data.admin.ch/eli/oc/2023/662)).
+[^4-3]: Nouvelle teneur selon le ch. I de l’O du 27 juin 2012, en vigueur depuis le 15 juil. 2012 ([RO 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)).
+[^4-4]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2207](https://fedlex.data.admin.ch/eli/oc/2015/407)).
 [^4-5]: Introduite par le ch. I de l’O du 27 juin 2012, en vigueur depuis le 15 juil. 2012 ([RO 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)).
-[^4-6]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2001, en vigueur depuis le 15 avr. 2001 ([RO 2001 1005](https://fedlex.data.admin.ch/eli/oc/2001/143)).
-[^4-7]: Nouvelle teneur selon le ch. I de l’O du 27 juin 2012, en vigueur depuis le 15 juil. 2012 ([RO 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)).
-[^4-8]: Nouvelle expression selon l’annexe 5 ch. 17 de l’O du 10 sept. 2008 sur la dissémination dans l’environnement, en vigueur depuis le 1<sup>er</sup> oct. 2008 ([RO 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)). Il a été tenu compte de cette mod. dans tout le texte.
-[^4-9]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^4-6]: Introduite par le ch. I de l’O du 27 juin 2012, en vigueur depuis le 15 juil. 2012 ([RO 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)).
+[^4-7]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2001, en vigueur depuis le 15 avr. 2001 ([RO 2001 1005](https://fedlex.data.admin.ch/eli/oc/2001/143)).
+[^4-8]: Nouvelle teneur selon le ch. I de l’O du 27 juin 2012, en vigueur depuis le 15 juil. 2012 ([RO 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)).
+[^4-9]: Nouvelle expression selon l’annexe 5 ch. 17 de l’O du 10 sept. 2008 sur la dissémination dans l’environnement, en vigueur depuis le 1<sup>er</sup> oct. 2008 ([RO 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)). Il a été tenu compte de cette mod. dans tout le texte.
+[^4-10]: Abrogé par le ch. I de l’O du 1<sup>er</sup> nov. 2023, avec effet du 1<sup>er</sup> déc. 2023 au 31 janv. 2025 ([RO 2023 662](https://fedlex.data.admin.ch/eli/oc/2023/662)).
 
 #### Art. 4<sup>bis</sup>
 
-**Régulation du loup**[^4bis-1]
+[^4bis-1]
 
-<sup>1</sup> Le loup ne peut être régulé que si la meute concernée s’est reproduite avec succès pendant l’année durant laquelle la régulation a été autorisée. La régulation se fait par le tir de jeunes animaux. Le nombre d’individus abattus ne doit pas dépasser la moitié des jeunes animaux nés l’année en question. Dans les régions où il y a plus d’une meute de loups, deux tiers au maximum des jeunes animaux nés dans l’année peuvent être abattus.[^4bis-2]
-
-<sup>1bis</sup> Les années sans reproduction, un jeune animal né l’année précédente peut être abattu dans les régions où il y a plus d’une meute de loups.[^4bis-3]
-
-<sup>1ter</sup> À titre exceptionnel, un géniteur particulièrement nuisible peut être abattu de novembre à janvier dans le cadre de la régulation visée à l’al. 1. Un géniteur est considéré comme particulièrement nuisible notamment s’il cause chaque année, durant plusieurs années, au moins deux tiers des dommages au sens de l’al. 2.[^4bis-4]
-
-<sup>1quater</sup> Les loups doivent être abattus, dans la mesure du possible, à proximité des zones habitées et des troupeaux d’animaux de rente.[^4bis-5]
-
-<sup>2</sup> Une régulation en cas de dommages causés aux animaux de rente est admissible si en quatre mois, sur le territoire d’une meute de loups, au moins huit animaux de rente ont été tués ou au moins un bovidé, un équidé ou un camélidé du Nouveau-Monde a été tué ou gravement blessé. Pour l’évaluation des dommages, l’art. 9<sup>bis</sup>, al. 4, s’applique par analogie.[^4bis-6]
-
-<sup>3</sup> Une régulation en cas de grave danger pour l’homme est en particulier admissible si, de leur propre initiative, des loups d’une meute s’approchent régulièrement de zones habitées ou y pénètrent en se montrant trop peu farouches ou agressifs envers l’homme.[^4bis-7]
-
-<sup>4</sup> Les autorisations de tir sont restreintes au territoire de la meute concernée. Elles sont accordées au plus tard le 31 décembre de l’année en question pour une durée limitée au 31 mars de l’année suivante.
-
-[^4bis-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2207](https://fedlex.data.admin.ch/eli/oc/2015/407)).
-[^4bis-2]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
-[^4bis-3]: Introduit par le ch. I de l’O du 30 juin 2021 ([RO 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)). Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
-[^4bis-4]: Introduit par le ch. I de l’O du 30 juin 2021 ([RO 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)). Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
-[^4bis-5]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
-[^4bis-6]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
-[^4bis-7]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
+[^4bis-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2207](https://fedlex.data.admin.ch/eli/oc/2015/407)). Abrogé par le ch. I de l’O du 1<sup>er</sup> nov. 2023, avec effet du 1<sup>er</sup> déc. 2023 au 31 janv. 2025 ([RO 2023 662](https://fedlex.data.admin.ch/eli/oc/2023/662)).
 
 #### Art. 4<sup>ter</sup>
 
@@ -213,6 +193,113 @@ Dans leur proposition, les cantons indiquent à l’OFEV:[^4-6]
 <sup>4</sup> L’Office fédéral de la topographie indique les zones de tranquillité pour la faune sauvage ainsi que les itinéraires autorisés sur les cartes nationales avec activités sportives de neige.
 
 [^4ter-1]: Anciennement art. 4<sup>bis</sup>. Introduit par le ch. I de l’O du 27 juin 2012, en vigueur depuis le 15 juil. 2012 ([RO 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)).
+
+#### Art. 4a
+
+**Régulation du bouquetin**[^4a-1]
+
+<sup>1</sup> En vertu de l’art. 7*a*, al. 1, let. a, de la loi sur la chasse, les cantons peuvent, avec l’assentiment préalable de l’OFEV, réguler par voie de décision les unités de reproduction des bouquetins.
+
+<sup>2</sup>
+
+Dans leur demande, ils indiquent à l’OFEV, pour chaque colonie de bouquetins:
+
+- a.
+
+  quelle a été l’évolution de la population au cours des trois dernières années, en précisant le nombre:
+
+  - 1\. de cabris,
+  - 2\. de jeunes animaux des deux sexes d’un à deux ans,
+  - 3\. d’étagnes de trois ans et plus,
+  - 4\. de boucs de trois à cinq ans,
+  - 5\. de boucs de six à dix ans,
+  - 6\. de boucs d’onze ans et plus;
+
+- b.
+
+  dans quelle mesure, justification à l’appui, la régulation est nécessaire pour:
+
+  - 1\. prévenir les dégâts causés à des biotopes, avec indication de l’effet de la population de bouquetins sur la forêt si la régulation vise à prévenir les dégâts dans des forêts de montagne, ou
+  - 2\. conserver des populations de gibier saines;
+
+- c. quel est le genre d’intervention prévue;
+- d. quelle est la population cible souhaitée.
+
+<sup>3</sup>
+
+Les exigences suivantes s’appliquent à la régulation d’une colonie:
+
+- a. les structures naturelles des classes d’âge et de sexe au sein de la population sont conservées à long terme;
+- b. au moins 50 % des animaux abattus sont des femelles.
+
+<sup>4</sup> Les cantons coordonnent le relevé annuel des populations et les autorisations de régulation dans des colonies réparties sur plusieurs cantons.
+
+<sup>5</sup> L’OFEV donne son assentiment au canton pour chaque colonie pour quatre ans au plus.
+
+[^4a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur du 1<sup>er</sup> déc. 2023 au 31 janv. 2025 ([RO 2023 662](https://fedlex.data.admin.ch/eli/oc/2023/662)).
+
+#### Art. 4b
+
+**Régulation du loup en vertu de l’art. 7*a*, al. 1, let. b, de la loi sur la chasse**[^4b-1]
+
+<sup>1</sup> En vertu de l’art. 7*a*, al. 1, let. b, de la loi sur la chasse, les cantons peuvent, avec l’assentiment préalable de l’OFEV, réguler par voie de décision les meutes de loups.
+
+<sup>2</sup>
+
+Dans leur demande, ils indiquent à l’OFEV:
+
+- a.
+
+  quelle est l’évolution de la population de loups en précisant:
+
+  - 1\. le nombre de couples sédentaires et de meutes, leur territoire au cours des douze derniers mois et leur appartenance aux régions définies à l’annexe 3,
+  - 2\. la composition des meutes, avec indication du nombre de jeunes loups nés l’année précédente et, s’il est connu, durant l’année en cours,
+  - 3\. le nombre de tirs de loups ordonnés par les autorités et le nombre de loups victimes de braconnage, par meute, au cours des douze derniers mois;
+
+- b.
+
+  dans quelle mesure, justification à l’appui, la régulation de la meute concernée est nécessaire pour:
+
+  - 1\. prévenir les dégâts causés aux animaux de rente agricoles détenus dans des unités d’élevage appliquant les mesures raisonnables de protection des troupeaux prévues par la vulgarisation agricole cantonale,
+  - 2\. prévenir un danger pour l’homme, ou
+  - 3\. prévenir une baisse excessive de la population régionale d’artiodactyles sauvages; une régulation n’est pas admise tant que les populations d’artiodactyles sauvages entravent la régénération naturelle de la forêt sur le territoire de la meute à tel point que des stratégies pour la prévention des dégâts causés par le gibier sont requises en vertu de l’art. 31 de l’ordonnance du 30 novembre 1992 sur les forêts[^4b-2];
+
+- c. quel est le résultat de la coordination intercantonale au sein de la région concernée définie à l’annexe 3.
+
+<sup>3</sup>
+
+Les exigences suivantes s’appliquent à la régulation des meutes de loups en fonction de la population de loups dans les régions définies à l’annexe 3:
+
+- a. si la région compte une seule meute: jusqu’à la moitié des jeunes loups nés l’année de la régulation peuvent être abattus;
+- b. si la région compte plusieurs meutes: jusqu’à deux tiers des jeunes loups nés l’année de la régulation peuvent être abattus par meute;
+- c. dans les régions où le seuil fixé à l’annexe 3 est dépassé: tous les loups d’une meute peuvent être abattus, pour autant que le seuil relatif à la région soit respecté.
+
+<sup>4</sup> À titre exceptionnel, un géniteur particulièrement nuisible peut être abattu dans le cadre de la régulation visée à l’al. 3, let. a et b .
+
+<sup>5</sup> Les loups victimes de braconnage ou abattus en vertu de l’art. 4*c* ou 9<sup>ter</sup> sur le territoire de la meute concernée dans les douze mois précédant l’octroi de l’autorisation de régulation doivent être comptabilisés parmi les loups pouvant être régulés.
+
+<sup>6</sup> L’autorisation doit être restreinte au territoire de la meute concernée. Les loups doivent être abattus au sein de la meute et, dans la mesure du possible, à proximité de troupeaux d’animaux de rente, de zones habitées, de bâtiments habités toute l’année ou d’installations fréquemment utilisées par l’homme. Cette exigence ne s’applique pas au tir des loups d’une meute visés à l’al. 3, let. c.
+
+<sup>7</sup> Les cantons coordonnent le relevé annuel des populations et les autorisations de régulation dans les régions définies à l’annexe 3.
+
+<sup>8</sup> L’OFEV donne son assentiment au canton pour un an; il tient compte de la répartition des meutes sur les cantons de la région concernée définie à l’annexe 3. Les meutes dont le territoire s’étend sur plusieurs des régions définies à l’annexe 3 sont comptabilisées proportionnellement.
+
+[^4b-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur du 1<sup>er</sup> déc. 2023 au 31 janv. 2025 ([RO 2023 662](https://fedlex.data.admin.ch/eli/oc/2023/662)).
+[^4b-2]: [RS 921.01](https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538)
+
+#### Art. 4c
+
+**Régulation du loup en vertu de l’art. 12, al. 4<sup>bis</sup>, de la loi sur la chasse**[^4c-1]
+
+<sup>1</sup> Des loups appartenant à une meute causent des dommages aux animaux de rente au sens de l’art. 12, al. 4<sup>bis</sup>, de la loi sur la chasse lorsque, sur leur territoire durant la période d’estivage en cours, ils tuent au moins huit animaux de rente ou ils tuent ou blessent gravement au moins un bovidé ou un équidé, pour autant que les mesures raisonnables de protection des troupeaux aient été prises au préalable.
+
+<sup>2</sup> Jusqu’à deux tiers des jeunes loups nés l’année de la régulation peuvent être abattus.
+
+<sup>3</sup> Les loups doivent être abattus à proximité du troupeau d’animaux de rente auquel appartiennent les animaux attaqués.
+
+<sup>4</sup> Dans leur demande, les cantons fournissent à l’OFEV les indications visées à l’art. 4, al. 2.
+
+[^4c-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur du 1<sup>er</sup> déc. 2023 au 31 janv. 2025 ([RO 2023 662](https://fedlex.data.admin.ch/eli/oc/2023/662)).
 
 #### Art. 5
 
@@ -296,18 +383,19 @@ Les dispositions de l’ordonnance du 4 septembre 2013 sur la circulation des es
 
 <sup>1</sup>
 
-Le Département peut, avec l’approbation des cantons concernés, autoriser le lâcher d’animaux qui faisaient autrefois partie de l’ensemble des espèces indigènes mais qu’on ne rencontre plus en Suisse. Pour ce faire, il faut que soit prouvé:
+Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication[^8-2] (Département) peut, avec l’approbation des cantons concernés, autoriser le lâcher d’animaux qui faisaient autrefois partie de l’ensemble des espèces indigènes mais qu’on ne rencontre plus en Suisse. Pour ce faire, il faut que soit prouvé:
 
 - a. qu’il existe des biotopes spécifiques à l’espèce qui soient de dimension suffisante;
 - b. que des dispositions légales ont été prises en vue de protéger l’espèce;
 - c. que le lâcher d’animaux ne portera pas préjudice à la sauvegarde de la diversité des espèces et aux particularités génétiques, ni à l’agriculture et à la sylviculture.
 
-<sup>2</sup> L’OFEV peut, avec l’approbation des cantons, autoriser le lâcher d’animaux appartenant à des espèces protégées qu’on rencontre déjà en Suisse et qui sont menacées d’extinction. L’autorisation n’est accordée que si les conditions de l’al. 1 sont remplies.[^8-2]
+<sup>2</sup> L’OFEV peut, avec l’approbation des cantons, autoriser le lâcher d’animaux appartenant à des espèces protégées qu’on rencontre déjà en Suisse et qui sont menacées d’extinction. L’autorisation n’est accordée que si les conditions de l’al. 1 sont remplies.[^8-3]
 
 <sup>3</sup> Les animaux lâchés doivent être marqués et annoncés (art. 13, al. 4).
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du 27 juin 2012, en vigueur depuis le 15 juil. 2012 ([RO 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)).
-[^8-2]: Erratum du 15 oct. 2013 ([RO 2013 3325](https://fedlex.data.admin.ch/eli/oc/2013/637)).
+[^8-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^8-3]: Erratum du 15 oct. 2013 ([RO 2013 3325](https://fedlex.data.admin.ch/eli/oc/2013/637)).
 
 #### Art. 8<sup>bis</sup>
 
@@ -683,4 +771,55 @@ Annexe 2[^t-2]
 <tr><td>*Sciurus carolinensis*</td><td>Écureuil gris</td></tr>
 <tr><td>Oxyura jamaicensis</td><td>Érismature rousse</td></tr>
 <tr><td></td><td>Rapaces hybrides</td></tr>
+</table>
+
+Annexe 3[^t-3]
+
+(art. 4*b*, al. 3)
+
+## Les cinq régions définies pour le loup en Suisse
+
+[^t-3]: Introduite par le ch. II de l’O du 1<sup>er</sup> nov. 2023, en vigueur du 1<sup>er</sup> déc. 2023 au 31 janv. 2025 ([RO 2023 662](https://fedlex.data.admin.ch/eli/oc/2023/662)).
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20231201/fr/xml/image/image1.png)
+
+<table>
+<tr><th>Nom de la région</th><th>Numéro</th><th>Cantons</th><th>Surface</th><th>Seuil pour les meutes de loups</th></tr>
+<tr><td>Jura</td><td>I</td><td></td><td>7641 km<sup>2</sup></td><td>2</td></tr>
+<tr><td></td><td></td><td>VD</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>AG</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>NE</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>FR</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>BE</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>SO</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>JU</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>BL</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>BS</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>GE</td><td></td><td></td></tr>
+<tr><td>Nord-est de la Suisse</td><td>II</td><td></td><td>4739 km<sup>2</sup></td><td>2</td></tr>
+<tr><td></td><td></td><td>SG</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>ZH</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>SH</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>AR</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>AI</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>TG</td><td></td><td></td></tr>
+<tr><td>Suisse centrale</td><td>III</td><td></td><td>6226 km<sup>2</sup></td><td>2</td></tr>
+<tr><td></td><td></td><td>LU</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>BE</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>SZ</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>UR</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>GL</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>OW</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>SG</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>NW</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>ZG</td><td></td><td></td></tr>
+<tr><td>Ouest des Alpes</td><td>IV</td><td></td><td>11 380 km<sup>2</sup></td><td>3</td></tr>
+<tr><td></td><td></td><td>VS</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>BE</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>FR</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>VD</td><td></td><td></td></tr>
+<tr><td>Sud-est de la Suisse</td><td>V</td><td></td><td>10 038 km<sup>2</sup></td><td>3</td></tr>
+<tr><td></td><td></td><td>GR</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>TI</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>SG</td><td></td><td></td></tr>
 </table>

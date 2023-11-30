@@ -4,11 +4,11 @@ title: "Verordnung vom 29. Februar 1988 über die Jagd und den Schutz wildlebend
 short: JSV
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/517_517_517"
 language: de
-version: 2023-07-01
+version: 2023-12-01
 adopted: 1988-02-29
 in_force: 1988-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1988-517_517_517-20230701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20231201/de/xml/fedlex-data-admin-ch-eli-cc-1988-517_517_517-20231201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20231201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20230701/de"
 
 (Jagdverordnung, JSV)
 
-vom 29. Februar 1988 (Stand am 1. Juli 2023)
+vom 29. Februar 1988 (Stand am 1. Dezember 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -139,15 +139,14 @@ Die Schonzeiten nach Artikel 5 des Jagdgesetzes werden wie folgt beschränkt ode
 
 <sup>1</sup>
 
-Mit vorheriger Zustimmung des BAFU können die Kantone befristete Massnahmen zur Regulierung von Beständen geschützter Tierarten treffen, wenn Tiere einer bestimmten Art trotz zumutbarer Massnahmen zur Schadenverhütung:[^4-1]
+Mit vorheriger Zustimmung des BAFU können die Kantone befristete Massnahmen zur Regulierung von Beständen geschützter Tierarten nach Artikel 12 Absatz 4 Jagdgesetz treffen, wenn Tiere einer bestimmten Art trotz zumutbarer Massnahmen zur Schadenverhütung:[^4-1]
 
-- a. ihren Lebensraum beeinträchtigen;
-- b. die Artenvielfalt gefährden;
-- c.[^4-2] grosse Schäden an Wald, landwirtschaftlichen Kulturen oder Nutztierbeständen verursachen;
+- a. und b.[^4-2] …
+- c.[^4-3] grosse Schäden an Wald, landwirtschaftlichen Kulturen oder Nutztierbeständen verursachen;
 - d. Menschen erheblich gefährden;
 - e. Tierseuchen verbreiten;
-- f.[^4-3] Siedlungen oder im öffentlichen Interesse stehende Bauten und Anlagen erheblich gefährden;
-- g.[^4-4] hohe Einbussen bei der Nutzung der Jagdregale durch die Kantone verursachen.
+- f.[^4-4] Siedlungen oder im öffentlichen Interesse stehende Bauten und Anlagen erheblich gefährden;
+- g.[^4-5] hohe Einbussen bei der Nutzung der Jagdregale durch die Kantone verursachen.
 
 <sup>2</sup>
 
@@ -158,45 +157,26 @@ Die Kantone geben dem BAFU in ihrem Antrag an:
 - c. das Ausmass und den örtlichen Bereich des Schadens;
 - d. die getroffenen Massnahmen zur Schadenverhütung;
 - e. die Art des geplanten Eingriffs und dessen Auswirkung auf den Bestand;
-- f. die Verjüngungssituation im Wald.[^4-5]
+- f. die Verjüngungssituation im Wald.[^4-6]
 
-<sup>3</sup> Sie melden dem BAFU[^4-6] jährlich Ort, Zeit und Erfolg der Eingriffe.
+<sup>3</sup> Sie melden dem BAFU[^4-7] jährlich Ort, Zeit und Erfolg der Eingriffe.
 
-<sup>4</sup> Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation[^4-7] (Departement) legt in einer Verordnung die Regulierung von Steinbockbeständen fest. Es hört zuvor die Kantone an.
+<sup>4</sup> …[^4-8]
 
-[^4-1]: Fassung gemäss Ziff. I der V vom 27. Juni 2012, in Kraft seit 15. Juli 2012 ([AS 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)).
-[^4-2]: Fassung gemäss Ziff. I der V vom 27. Juni 2012, in Kraft seit 15. Juli 2012 ([AS 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)).
-[^4-3]: Eingefügt durch Ziff. I der V vom 27. Juni 2012, in Kraft seit 15. Juli 2012 ([AS 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)).
+[^4-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft vom 1. Dez. 2023 bis zum 31. Jan. 2025 ([AS 2023 662](https://fedlex.data.admin.ch/eli/oc/2023/662)).
+[^4-2]: Aufgehoben durch Ziff. I der V vom 1. Nov. 2023, mit Wirkung vom 1. Dez. 2023 bis zum 31. Jan. 2025 ([AS 2023 662](https://fedlex.data.admin.ch/eli/oc/2023/662)).
+[^4-3]: Fassung gemäss Ziff. I der V vom 27. Juni 2012, in Kraft seit 15. Juli 2012 ([AS 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)).
 [^4-4]: Eingefügt durch Ziff. I der V vom 27. Juni 2012, in Kraft seit 15. Juli 2012 ([AS 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)).
-[^4-5]: Fassung gemäss Ziff. I der V vom 27. Juni 2012, in Kraft seit 15. Juli 2012 ([AS 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)).
-[^4-6]: Ausdruck gemäss Anhang 5 Ziff. 17 der Freisetzungsverordnung vom 10. Sept. 2008, in Kraft seit 1. Okt. 2008 ([AS 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)). Die Anpassung wurde im ganzen Text vorgenommen.
-[^4-7]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
+[^4-5]: Eingefügt durch Ziff. I der V vom 27. Juni 2012, in Kraft seit 15. Juli 2012 ([AS 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)).
+[^4-6]: Fassung gemäss Ziff. I der V vom 27. Juni 2012, in Kraft seit 15. Juli 2012 ([AS 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)).
+[^4-7]: Ausdruck gemäss Anhang 5 Ziff. 17 der Freisetzungsverordnung vom 10. Sept. 2008, in Kraft seit 1. Okt. 2008 ([AS 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)). Die Anpassung wurde im ganzen Text vorgenommen.
+[^4-8]: Aufgehoben durch Ziff. I der V vom 1. Nov. 2023, mit Wirkung vom 1. Dez. 2023 bis zum 31. Jan. 2025 ([AS 2023 662](https://fedlex.data.admin.ch/eli/oc/2023/662)).
 
 #### Art. 4<sup>bis</sup>
 
-**Regulierung von Wölfen**[^4bis-1]
+[^4bis-1]
 
-<sup>1</sup> Wölfe eines Rudels dürfen nur reguliert werden, wenn sich das betroffene Rudel im Jahr, in dem die Regulierung bewilligt wird, erfolgreich fortgepflanzt hat. Die Regulierung erfolgt über den Abschuss von Jungtieren. Es darf höchstens eine Anzahl Wölfe erlegt werden, welche die Hälfte der im betreffenden Jahr geborenen Jungtiere nicht übersteigt. In Regionen, in denen es mehr als ein Wolfsrudel gibt, dürfen höchstens zwei Drittel der im betreffenden Jahr geborenen Jungtiere erlegt werden.[^4bis-2]
-
-<sup>1bis</sup> In Jahren ohne Fortpflanzung darf in Regionen, in denen es mehr als ein Wolfsrudel gibt, ein Jungtier, das im Vorjahr geboren wurde, erlegt werden.[^4bis-3]
-
-<sup>1ter</sup> Ausnahmsweise kann im Rahmen der Regulierung nach Absatz 1 auch ein Elterntier, das besonders schadenstiftend in Erscheinung tritt, in den Monaten November bis Januar erlegt werden. Ein Elterntier gilt insbesondere dann als besonders schadenstiftend, wenn es über mehrere Jahre jeweils mindestens zwei Drittel des Schadens nach Absatz 2 verursacht.[^4bis-4]
-
-<sup>1quater</sup> Die Wölfe sind soweit möglich nahe von Siedlungen und Nutztierherden zu erlegen.[^4bis-5]
-
-<sup>2</sup> Eine Regulierung aufgrund von Schäden an Nutztierbeständen ist zulässig, wenn im Streifgebiet eines Wolfsrudels innerhalb von vier Monaten mindestens 8 Nutztiere getötet worden oder ein Tier der Rinder- oder Pferdegattung oder Neuweltkameliden getötet oder schwer verletzt worden sind. Bei der Beurteilung der Schäden ist Artikel 9<sup>bis</sup> Absatz 4 sinngemäss anwendbar.[^4bis-6]
-
-<sup>3</sup> Eine Regulierung aufgrund einer erheblichen Gefährdung von Menschen ist insbesondere zulässig, wenn sich Wölfe eines Rudels aus eigenem Antrieb regelmässig innerhalb oder in unmittelbarer Nähe von Siedlungen aufhalten und sich dabei gegenüber Menschen zu wenig scheu oder aggressiv zeigen.[^4bis-7]
-
-<sup>4</sup> Abschussbewilligungen sind auf das Streifgebiet des betreffenden Wolfsrudels zu beschränken. Sie sind bis spätestens am 31. Dezember des betreffenden Jahres zu erteilen und bis längstens am 31. März des nachfolgenden Jahres zu befristen.
-
-[^4bis-1]: Eingefügt durch Ziff. I der V vom 1. Juli 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2207](https://fedlex.data.admin.ch/eli/oc/2015/407)).
-[^4bis-2]: Fassung gemäss Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
-[^4bis-3]: Eingefügt durch Ziff. I der V vom 30. Juni 2021 ([AS 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)). Fassung gemäss Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
-[^4bis-4]: Eingefügt durch Ziff. I der V vom 30. Juni 2021 ([AS 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)). Fassung gemäss Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
-[^4bis-5]: Eingefügt durch Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
-[^4bis-6]: Fassung gemäss Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
-[^4bis-7]: Fassung gemäss Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 286](https://fedlex.data.admin.ch/eli/oc/2023/286)).
+[^4bis-1]: Eingefügt durch Ziff. I der V vom 1. Juli 2015 ([AS 2015 2207](https://fedlex.data.admin.ch/eli/oc/2015/407)). Aufgehoben durch Ziff. I der V vom 1. Nov. 2023, mit Wirkung vom 1. Dez. 2023 bis zum 31. Jan. 2025 ([AS 2023 662](https://fedlex.data.admin.ch/eli/oc/2023/662)).
 
 #### Art. 4<sup>ter</sup>
 
@@ -211,6 +191,113 @@ Die Kantone geben dem BAFU in ihrem Antrag an:
 <sup>4</sup> Das Bundesamt für Landestopografie bezeichnet in den Landeskarten mit Schneesportthematik die Wildruhezonen sowie die darin zur Benutzung erlaubten Routen.
 
 [^4ter-1]: Ursprünglich: Art. 4<sup>bis</sup>. Eingefügt durch Ziff. I der V vom 27. Juni 2012, in Kraft seit 15. Juli 2012 ([AS 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)).
+
+#### Art. 4a
+
+**Regulierung von Steinböcken**[^4a-1]
+
+<sup>1</sup> Die Kantone können mittels Verfügung und nach vorheriger Zustimmung des BAFU Fortpflanzungsgemeinschaften von Steinböcken nach Artikel 7*a* Absatz 1 Buchstabe a Jagdgesetz regulieren.
+
+<sup>2</sup>
+
+Sie geben in ihrem Antrag an das BAFU pro Steinbock-Kolonie an:
+
+- a.
+
+  die Entwicklung des Bestandes in den letzten drei Jahren unter Angabe der Anzahl an:
+
+  - 1\. Kitzen,
+  - 2\. ein- und zweijährigen Jungtieren beiderlei Geschlechts,
+  - 3\. dreijährigen und älteren Geissen,
+  - 4\. drei- bis fünfjährigen Böcken,
+  - 5\. sechs- bis zehnjährigen Böcken,
+  - 6\. elfjährigen und älteren Böcken;
+
+- b.
+
+  eine Begründung, inwiefern die Regulierung erforderlich ist für:
+
+  - 1\. das Verhüten von Schäden am Lebensraum, unter Angabe der Einwirkung des Steinbockbestands auf den Wald, falls die Regulierung die Verhütung von Schäden am Gebirgswald bezweckt, oder
+  - 2\. den Erhalt eines gesunden Wildbestands;
+
+- c. die Art der geplanten Massnahme;
+- d. den gewünschten Zielbestand.
+
+<sup>3</sup>
+
+Bei der Regulierung einer Kolonie gelten folgende Vorgaben:
+
+- a. Die natürlichen Alters- und Geschlechtsstrukturen im Bestand müssen langfristig erhalten bleiben.
+- b. Von den erlegten Tieren müssen mindestens 50 Prozent weiblich sein.
+
+<sup>4</sup> Die Kantone koordinieren die jährlichen Bestandserhebungen und Bewilligungen zur Regulierung von Kolonien, die sich über mehrere Kantone erstrecken.
+
+<sup>5</sup> Das BAFU erteilt die Zustimmung an den Kanton pro Kolonie für höchstens vier Jahre.
+
+[^4a-1]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft vom 1. Dez. 2023 bis zum 31. Jan. 2025 ([AS 2023 662](https://fedlex.data.admin.ch/eli/oc/2023/662)).
+
+#### Art. 4b
+
+**Regulierung von Wölfen nach Artikel 7*a* Absatz 1 Buchstabe b Jagdgesetz**[^4b-1]
+
+<sup>1</sup> Die Kantone können mittels Verfügung und nach vorheriger Zustimmung des BAFU die Wölfe von Rudeln nach Artikel 7*a* Absatz 1 Buchstabe b Jagdgesetz regulieren.
+
+<sup>2</sup>
+
+Sie geben in ihrem Antrag an das BAFU an:
+
+- a.
+
+  die Entwicklung des Wolfsbestands in Bezug auf:
+
+  - 1\. die Anzahl an Rudeln und sesshaft lebenden Wolfspaaren, deren Streifgebiet während den letzten 12 Monaten, sowie deren Zugehörigkeit zu den Regionen nach Anhang 3,
+  - 2\. die aktuelle Zusammensetzung der Rudel, unter Angabe der Anzahl an Jungwölfen, die im Vorjahr und, soweit bereits bekannt, im laufenden Jahr geboren wurden,
+  - 3\. die behördlich angeordneten Abschüsse von Wölfen sowie gewilderten Wölfe pro Rudel während den letzten 12 Monaten;
+
+- b.
+
+  eine Begründung, inwiefern die Regulierung des betreffenden Rudels erforderlich ist für:
+
+  - 1\. die Verhütung von Schäden an landwirtschaftlichen Nutztieren bei Tierhaltungen, welche die zumutbaren Herdenschutzmassnahmen gemäss der kantonalen landwirtschaftlichen Beratung umgesetzt haben,
+  - 2\. die Verhütung einer Gefährdung des Menschen, oder
+  - 3\. die Verhütung einer übermässigen Senkung des regionalen Bestands an wildlebenden Paarhufern; eine Regulierung ist nicht zulässig, solange die Bestände an wildlebenden Paarhufern die natürliche Verjüngung des Waldes im Streifgebiet so stark hemmen, dass Konzepte zur Verhütung von Wildschäden nach Artikel 31 Waldverordnung vom 30. November 1992[^4b-2] notwendig sind;
+
+- c. das Ergebnis der interkantonalen Koordination innerhalb der massgebenden Region gemäss Anhang 3.
+
+<sup>3</sup>
+
+Bei der Regulierung von Wolfsrudeln gelten abhängig vom Wolfsbestand in den Regionen gemäss Anhang 3 die folgenden Vorgaben:
+
+- a. bei einem Rudel: es dürfen bis zur Hälfte der im Jahr der Regulierung geborenen Jungwölfe des Rudels erlegt werden;
+- b. bei mehreren Rudeln: es dürfen pro Rudel bis zu zwei Drittel der im Jahr der Regulierung geborenen Jungwölfe erlegt werden;
+- c. bei überschrittenem Schwellenwert an Rudeln gemäss Anhang 3: es dürfen sämtliche Wölfe eines Rudels erlegt werden, sofern dadurch der Schwellenwert der Region nicht unterschritten wird.
+
+<sup>4</sup> Ausnahmsweise kann im Rahmen der Regulierung nach Absatz 3 Buchstabe a und b auch ein Elterntier, das besonders schadenstiftend in Erscheinung tritt, erlegt werden.
+
+<sup>5</sup> Wölfe, die im Streifgebiet des betreffenden Rudels innerhalb von 12 Monaten vor der Erteilung der Bewilligung zur Regulierung gewildert oder nach den Artikeln 4*c* sowie 9<sup>ter</sup> erlegt wurden, sind der Anzahl Wölfe, die reguliert werden dürfen, anzurechnen.
+
+<sup>6</sup> Die Bewilligung ist auf die Streifgebiete der betreffenden Rudel zu beschränken. Die Wölfe sind dabei aus dem Rudelverband und soweit möglich nahe von Nutztierherden, Siedlungen, ganzjährig bewohnten Gebäuden oder stark vom Menschen genutzten Anlagen zu erlegen. Dies gilt nicht für die Erlegung der Wölfe eines Rudels nach Absatz 3 Buchstabe c.
+
+<sup>7</sup> Die Kantone koordinieren die jährlichen Bestandserhebungen und die Bewilligung innerhalb der Regionen gemäss Anhang 3.
+
+<sup>8</sup> Das BAFU erteilt seine Zustimmung an den Kanton für ein Jahr; es berücksichtigt dabei die Verteilung der Rudel auf die Kantone einer Region gemäss Anhang 3. Rudel, deren Streifgebiet in mehreren Regionen nach Anhang 3 liegt, werden anteilmässig angerechnet.
+
+[^4b-1]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft vom 1. Dez. 2023 bis zum 31. Jan. 2025 ([AS 2023 662](https://fedlex.data.admin.ch/eli/oc/2023/662)).
+[^4b-2]: [SR 922.01](https://fedlex.data.admin.ch/eli/cc/1988/517_517_517)
+
+#### Art. 4c
+
+**Regulierung von Wölfen nach Artikel 12 Absatz 4<sup>bis</sup> Jagdgesetz**[^4c-1]
+
+<sup>1</sup> Ein Schaden nach Artikel 12 Absatz 4<sup>bis</sup> Jagdgesetz an Nutztieren liegt vor, wenn Wölfe eines Rudels in ihrem Streifgebiet innerhalb der aktuellen Sömmerungsperiode mindestens 8 Nutztiere getötet oder ein Tier der Rinder- und Pferdegattung getötet oder schwer verletzt haben und sofern die zumutbaren Massnahmen zum Herdenschutz vorgängig ergriffen wurden.
+
+<sup>2</sup> Es dürfen bis zu zwei Drittel der im Jahr der Regulierung geborenen Jungtiere erlegt werden.
+
+<sup>3</sup> Die Wölfe sind bei der Nutztierherde zu erlegen, aus der die geschädigten Nutztiere stammen.
+
+<sup>4</sup> Die Kantone liefern dem BAFU in ihrem Antrag die Angaben nach Artikel 4 Absatz 2.
+
+[^4c-1]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft vom 1. Dez. 2023 bis zum 31. Jan. 2025 ([AS 2023 662](https://fedlex.data.admin.ch/eli/oc/2023/662)).
 
 #### Art. 5
 
@@ -294,7 +381,7 @@ Bei der falknerischen Haltung von Greifvögeln ist die folgende Haltung zulässi
 
 <sup>1</sup>
 
-Das Departement kann mit Zustimmung der betroffenen Kantone bewilligen, dass Tiere von Arten, die früher zur einheimischen Artenvielfalt zählten, die heute aber in der Schweiz nicht mehr vorkommen, ausgesetzt werden. Voraussetzung ist der Nachweis, dass:
+Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation[^8-2] (Departement) kann mit Zustimmung der betroffenen Kantone bewilligen, dass Tiere von Arten, die früher zur einheimischen Artenvielfalt zählten, die heute aber in der Schweiz nicht mehr vorkommen, ausgesetzt werden. Voraussetzung ist der Nachweis, dass:
 
 - a. ein genügend grosser artspezifischer Lebensraum vorhanden ist;
 - b. rechtliche Vorkehren zum Schutz der Art getroffen worden sind;
@@ -305,6 +392,7 @@ Das Departement kann mit Zustimmung der betroffenen Kantone bewilligen, dass Tie
 <sup>3</sup> Tiere, die ausgesetzt werden, müssen markiert und gemeldet werden (Art. 13 Abs. 4).
 
 [^8-1]: Fassung gemäss Ziff. I der V vom 27. Juni 2012, in Kraft seit 15. Juli 2012 ([AS 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)).
+[^8-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
 
 #### Art. 8<sup>bis</sup>
 
@@ -680,4 +768,55 @@ Anhang 2[^t-2]
 <tr><td>Sciurus carolinensis</td><td>Grauhörnchen</td></tr>
 <tr><td>Oxyura jamaicensis</td><td>Schwarzkopfruderente</td></tr>
 <tr><td></td><td>Greifvogel-Arthybriden</td></tr>
+</table>
+
+Anhang 3[^t-3]
+
+(Art. 4*b* Abs. 3)
+
+## Die fünf Wolfsregionen der Schweiz
+
+[^t-3]: Eingefügt durch Ziff. II der V vom 1. Nov. 2023, in Kraft vom 1. Dez. 2023 bis zum 31. Jan. 2025 ([AS 2023 662](https://fedlex.data.admin.ch/eli/oc/2023/662)).
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20231201/de/xml/image/image1.png)
+
+<table>
+<tr><th>Bezeichnung der Region</th><th>Nummer</th><th>Kantone</th><th>Fläche</th><th>Schwellenwert an Wolfsrudeln</th></tr>
+<tr><td>«Jura»</td><td>I</td><td></td><td>7641 km<sup>2</sup></td><td>2</td></tr>
+<tr><td></td><td></td><td>VD</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>AG</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>NE</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>FR</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>BE</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>SO</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>JU</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>BL</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>BS</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>GE</td><td></td><td></td></tr>
+<tr><td>«Nordostschweiz»</td><td>II</td><td></td><td>4739 km<sup>2</sup></td><td>2</td></tr>
+<tr><td></td><td></td><td>SG</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>ZH</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>SH</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>AR</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>AI</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>TG</td><td></td><td></td></tr>
+<tr><td>«Zentralschweiz»</td><td>III</td><td></td><td>6226 km<sup>2</sup></td><td>2</td></tr>
+<tr><td></td><td></td><td>LU</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>BE</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>SZ</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>UR</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>GL</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>OW</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>SG</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>NW</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>ZG</td><td></td><td></td></tr>
+<tr><td>«Westschweizer Alpen»</td><td>IV</td><td></td><td>11 380 km<sup>2</sup></td><td>3</td></tr>
+<tr><td></td><td></td><td>VS</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>BE</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>FR</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>VD</td><td></td><td></td></tr>
+<tr><td>«Südostschweiz»</td><td>V</td><td></td><td>10 038 km<sup>2</sup></td><td>3</td></tr>
+<tr><td></td><td></td><td>GR</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>TI</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>SG</td><td></td><td></td></tr>
 </table>
