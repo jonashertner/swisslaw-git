@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Loi fédérale des personnes morales et l’identification des ayants droit économiques (Loi sur la transparence des personnes morales; LTPM)
 document: Projet mis en consultation
 language: fr

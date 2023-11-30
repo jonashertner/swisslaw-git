@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bundesgesetz über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen (Gesetz über die Transparenz juristischer Personen; TJPG)
 document: Vernehmlassungsvorlage
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Legge federale sulla trasparenza delle persone giuridiche e di altri costrutti giuridici (Legge sulla trasparenza delle persone giuridiche; LTPG)
 document: Progetto posto in consultazione
 language: it
