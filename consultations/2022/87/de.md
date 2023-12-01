@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revision der Verordnungen 1 und 3 zum Arbeitsgesetz (Informations- und Dokumentationssystem des Bundes für die Umsetzung und den Vollzug der Pflicht zum sorgfältigen Umgang mit Chemikalien am Arbeitsplatz)
 document: Vernehmlassungsvorlage
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione delle ordinanze 1 e 3 concernenti la legge sul lavoro (Sistema di informazione e di documentazione della Confederazione per l’attuazione e l’esecuzione dell’obbligo relativo all’utilizzazione corretta dei prodotti chimici sul posto di lavoro)
 document: Progetto posto in consultazione
 language: it

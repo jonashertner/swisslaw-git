@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision des ordonnances 1 et 3 relatives à la loi sur le travail (Système d’information et de documentation de la Confédération pour la mise en œuvre et l’exécution de l’obligation d’utiliser soigneusement les produits chimiques sur le lieu de travail)
 document: Projet mis en consultation
 language: fr
