@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnungsänderungen zur Revision des Personenbeförderungsgesetzes / Totalrevision der Verordnung über die Abgeltung des regionalen Personenverkehrs (ARPV)
 document: Vernehmlassungsvorlage
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifications d’ordonnances relatives à la révision de la loi sur le transport de voyageurs / révision totale de l’ordonnance sur l’indemnisation du trafic régional de voyageurs (OITRV)
 document: Projet mis en consultation
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifiche d’ordinanza conseguenti alla revisione della legge sul trasporto di viaggiatori (LTV) / revisione totale dell’ordinanza sulle indennità per il traffico regionale viaggiatori (OITRV)
 document: Progetto posto in consultazione
 language: it
