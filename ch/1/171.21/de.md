@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 18. März 1988 über Bezüge und Infrastruktur der Mitg
 short: PRG
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1162_1162_1162"
 language: de
-version: 2012-09-01
+version: 2023-12-04
 adopted: 1988-03-18
 in_force: 1988-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1162_1162_1162/20120901/de/xml/fedlex-data-admin-ch-eli-cc-1988-1162_1162_1162-20120901-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1162_1162_1162/20120901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1162_1162_1162/20231204/de/xml/fedlex-data-admin-ch-eli-cc-1988-1162_1162_1162-20231204-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1162_1162_1162/20231204/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/1162_1162_1162/20120901/de"
 
 (Parlamentsressourcengesetz, PRG)[^t-1]
 
-vom 18. März 1988 (Stand am 1. September 2012)
+vom 18. März 1988 (Stand am 4. Dezember 2023)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2002, in Kraft seit 1. Dez. 2002 ([AS 2002 3629](https://fedlex.data.admin.ch/eli/oc/2002/548); [BBl 2002 4001](https://fedlex.data.admin.ch/eli/fga/2002/575)[4006](https://fedlex.data.admin.ch/eli/fga/2002/577)).
 
@@ -58,13 +58,14 @@ Die Ratsmitglieder erhalten für die Vorbereitung der Ratsarbeit ein Jahreseinko
 
 <sup>2</sup> Kann ein Ratsmitglied wegen Krankheit oder Unfall an einer Sitzung nicht teilnehmen, so hat es Anspruch auf einen angemessenen Ersatz für das entgangene Taggeld.[^3-3]
 
-<sup>3</sup> Während eines Mutterschaftsurlaubs wird der Parlamentarierin das entgangene Taggeld ausbezahlt. Für die Bemessung eines Mutterschaftsurlaubs ist Artikel 35*a* des Arbeitsgesetzes vom 13. März 1964[^3-4] sinngemäss anwendbar.[^3-5]
+<sup>3</sup> Während eines Mutterschaftsurlaubes oder eines Vaterschaftsurlaubes wird der Parlamentarierin oder dem Parlamentarier das entgangene Taggeld ausbezahlt. Für die Bemessung eines Mutterschaftsurlaubs oder eines Vaterschaftsurlaubs sind Artikel 35*a* des Arbeitsgesetzes vom 13. März 1964[^3-4] sowie die Artikel 16*c*, 16*d*, 16*j* und 16*k* des Erwerbsersatzgesetzes vom 25. September 1952[^3-5] sinngemäss anwendbar.[^3-6]
 
 [^3-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2002, in Kraft seit 1. Dez. 2002 ([AS 2002 3629](https://fedlex.data.admin.ch/eli/oc/2002/548); [BBl 2002 4001](https://fedlex.data.admin.ch/eli/fga/2002/575)[4006](https://fedlex.data.admin.ch/eli/fga/2002/577)).
 [^3-2]: Taggeld gemäss Ziff. I Bst. b der V der BVers vom 15. Juni 2012, in Kraft seit 1. Sept. 2012 ([AS 2012 4573](https://fedlex.data.admin.ch/eli/oc/2012/551); [BBl 2012 383](https://fedlex.data.admin.ch/eli/fga/2012/114)[393](https://fedlex.data.admin.ch/eli/fga/2012/117)).
 [^3-3]: Eingefügt durch Ziff. I des BG vom 13. Dez. 2002, in Kraft seit 1. Dez. 2003 ([AS 2003 3661](https://fedlex.data.admin.ch/eli/oc/2003/516); [BBl 2002 7082](https://fedlex.data.admin.ch/eli/fga/2002/1126)[7102](https://fedlex.data.admin.ch/eli/fga/2002/1129)).
 [^3-4]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
-[^3-5]: Eingefügt durch Ziff. I des BG vom 13. Dez. 2002, in Kraft seit 1. Dez. 2003 ([AS 2003 3661](https://fedlex.data.admin.ch/eli/oc/2003/516); [BBl 2002 7082](https://fedlex.data.admin.ch/eli/fga/2002/1126)[7102](https://fedlex.data.admin.ch/eli/fga/2002/1129)).
+[^3-5]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^3-6]: Eingefügt durch Ziff. I des BG vom 13. Dez. 2002 ([AS 2003 3661](https://fedlex.data.admin.ch/eli/oc/2003/516); [BBl 2002 7082](https://fedlex.data.admin.ch/eli/fga/2002/1126)[7102](https://fedlex.data.admin.ch/eli/fga/2002/1129)). Fassung gemäss Ziff. III 1 des BG vom 17. März 2023 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), in Kraft seit 4. Dez. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301)[433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 3a
 
@@ -214,9 +215,7 @@ Das Bundesgesetz vom 17. März 1972[^15-1] über die Bezüge der Mitglieder der 
 
 #### Art. 15a
 
-**Übergangsbestimmung zu Artikel 2**[^15a-1]
-
-In den Jahren 2004 bis und mit 2007 erhalten die Ratsmitglieder aus Spargründen für die Vorbereitung der Ratsarbeit ein um 3000 Franken reduziertes Jahreseinkommen.
+[^15a-1]
 
 [^15a-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2003, in Kraft bis 31. Dez. 2007 ([AS 2003 5007](https://fedlex.data.admin.ch/eli/oc/2003/743); [BBl 2003 5615](https://fedlex.data.admin.ch/eli/fga/2003/887)).
 

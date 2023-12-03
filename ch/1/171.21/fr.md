@@ -4,11 +4,11 @@ title: "Loi fédérale du 18 mars 1988 sur les moyens alloués aux membres de l'
 short: LMAP
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1162_1162_1162"
 language: fr
-version: 2012-09-01
+version: 2023-12-04
 adopted: 1988-03-18
 in_force: 1988-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1162_1162_1162/20120901/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1162_1162_1162-20120901-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1162_1162_1162/20120901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1162_1162_1162/20231204/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1162_1162_1162-20231204-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1162_1162_1162/20231204/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,18 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/1162_1162_1162/20120901/fr"
 
 (Loi sur les moyens alloués aux parlementaires, LMAP)[^t-1]
 
-du 18 mars 1988 (État le 1<sup>er</sup> septembre 2012)
+du 18 mars 1988 (État le 4 décembre 2023)
 
-[^t-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3629](https://fedlex.data.admin.ch/eli/oc/2002/548); [FF 2002 3715](https://fedlex.data.admin.ch/eli/fga/2002/574)[3737](https://fedlex.data.admin.ch/eli/fga/2002/577)).
+[^t-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3629](https://fedlex.data.admin.ch/eli/oc/2002/548); [FF 2002 3715](https://fedlex.data.admin.ch/eli/fga/2002/574), [3737](https://fedlex.data.admin.ch/eli/fga/2002/577)).
 
 L’Assemblée fédérale de la Confédération suisse,
 
-vu les art. 79 et 83 de la constitution[^ingress-1],[^ingress-2] après examen d’une initiative parlementaire, vu les rapports du Bureau du Conseil des Etats du 12 février 1988 et du Bureau du Conseil national du 26 février 1988[^ingress-3],
+vu les art. 79 et 83 de la constitution[^ingress-1],[^ingress-2] après examen d’une initiative parlementaire, vu les rapports du Bureau du Conseil des États du 12 février 1988 et du Bureau du Conseil national du 26 février 1988[^ingress-3],
 
 arrête:
 
 [^ingress-1]: [RS **1** 3]. Aux dispositions mentionnées correspond actuellement l’art. 164, al. 1, let. g, de la Constitution du 18 avril 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> déc. 2003 ([RO 2003 3661](https://fedlex.data.admin.ch/eli/oc/2003/516); [FF 2002 6597](https://fedlex.data.admin.ch/eli/fga/2002/1126)[6617](https://fedlex.data.admin.ch/eli/fga/2002/1129)).
+[^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> déc. 2003 ([RO 2003 3661](https://fedlex.data.admin.ch/eli/oc/2003/516); [FF 2002 6597](https://fedlex.data.admin.ch/eli/fga/2002/1126), [6617](https://fedlex.data.admin.ch/eli/fga/2002/1129)).
 [^ingress-3]: [FF 1988 II 849](https://fedlex.data.admin.ch/eli/fga/1988/2__849_)
 
 #### Art. 1
@@ -39,7 +39,7 @@ arrête:
 
 <sup>2</sup> Ils perçoivent une contribution destinée à couvrir les coûts qui résultent de leur activité parlementaire.
 
-[^1-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3629](https://fedlex.data.admin.ch/eli/oc/2002/548); [FF 2002 3715](https://fedlex.data.admin.ch/eli/fga/2002/574)[3737](https://fedlex.data.admin.ch/eli/fga/2002/577)).
+[^1-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3629](https://fedlex.data.admin.ch/eli/oc/2002/548); [FF 2002 3715](https://fedlex.data.admin.ch/eli/fga/2002/574), [3737](https://fedlex.data.admin.ch/eli/fga/2002/577)).
 
 #### Art. 2
 
@@ -47,8 +47,8 @@ arrête:
 
 Les députés perçoivent une indemnité annuelle de 26 000 francs[^2-2] au titre de la préparation des travaux parlementaires.
 
-[^2-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3629](https://fedlex.data.admin.ch/eli/oc/2002/548); [FF 2002 3715](https://fedlex.data.admin.ch/eli/fga/2002/574)[3737](https://fedlex.data.admin.ch/eli/fga/2002/577)). Voir toutefois l’art. 15*a* ci-après.
-[^2-2]: Nouveau montant selon le ch. I let. a de l’O de l’Ass. féd. du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> sept. 2012 ([RO 2012 4573](https://fedlex.data.admin.ch/eli/oc/2012/551); [FF 2012 291](https://fedlex.data.admin.ch/eli/fga/2012/114)[303](https://fedlex.data.admin.ch/eli/fga/2012/117)).
+[^2-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3629](https://fedlex.data.admin.ch/eli/oc/2002/548); [FF 2002 3715](https://fedlex.data.admin.ch/eli/fga/2002/574), [3737](https://fedlex.data.admin.ch/eli/fga/2002/577)). Voir toutefois l’art. 15*a* ci-après.
+[^2-2]: Nouveau montant selon le ch. I let. a de l’O de l’Ass. féd. du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> sept. 2012 ([RO 2012 4573](https://fedlex.data.admin.ch/eli/oc/2012/551); [FF 2012 291](https://fedlex.data.admin.ch/eli/fga/2012/114), [303](https://fedlex.data.admin.ch/eli/fga/2012/117)).
 
 #### Art. 3
 
@@ -58,13 +58,14 @@ Les députés perçoivent une indemnité annuelle de 26 000 francs[^2-2] au titr
 
 <sup>2</sup> En cas de maladie ou d’accident entraînant l’incapacité de participer aux séances et la perte de l’indemnité journalière, le député perçoit une compensation d’un montant approprié.[^3-3]
 
-<sup>3</sup> Toute députée absente pour cause de congé maternité continue de percevoir l’indemnité journalière. L’art. 35*a* de la loi du 13 mars 1964 sur le travail[^3-4] est applicable par analogie à la durée du congé maternité.[^3-5]
+<sup>3</sup> Toute députée absente et tout député absent pour cause de congé de maternité ou de paternité continue de percevoir l’indemnité journalière. L’art. 35*a* de la loi du 13 mars 1964 sur le travail[^3-4], ainsi que les art. 16*c*, 16*d*, 16*j* et 16*k* de la loi fédérale du 25 septembre 1952 sur les allocations pour perte de gain[^3-5], sont applicables par analogie à la durée du congé de maternité ou de paternité.[^3-6]
 
-[^3-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3629](https://fedlex.data.admin.ch/eli/oc/2002/548); [FF 2002 3715](https://fedlex.data.admin.ch/eli/fga/2002/574)[3737](https://fedlex.data.admin.ch/eli/fga/2002/577)).
-[^3-2]: Nouveau montant selon le ch. I let. b de l’O de l’Ass. féd. du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> sept. 2012 ([RO 2012 4573](https://fedlex.data.admin.ch/eli/oc/2012/551); [FF 2012 291](https://fedlex.data.admin.ch/eli/fga/2012/114)[303](https://fedlex.data.admin.ch/eli/fga/2012/117)).
-[^3-3]: Introduit par le ch. I de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> déc. 2003 ([RO 2003 3661](https://fedlex.data.admin.ch/eli/oc/2003/516); [FF 2002 6597](https://fedlex.data.admin.ch/eli/fga/2002/1126)[6617](https://fedlex.data.admin.ch/eli/fga/2002/1129)).
+[^3-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3629](https://fedlex.data.admin.ch/eli/oc/2002/548); [FF 2002 3715](https://fedlex.data.admin.ch/eli/fga/2002/574), [3737](https://fedlex.data.admin.ch/eli/fga/2002/577)).
+[^3-2]: Nouveau montant selon le ch. I let. b de l’O de l’Ass. féd. du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> sept. 2012 ([RO 2012 4573](https://fedlex.data.admin.ch/eli/oc/2012/551); [FF 2012 291](https://fedlex.data.admin.ch/eli/fga/2012/114), [303](https://fedlex.data.admin.ch/eli/fga/2012/117)).
+[^3-3]: Introduit par le ch. I de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> déc. 2003 ([RO 2003 3661](https://fedlex.data.admin.ch/eli/oc/2003/516); [FF 2002 6597](https://fedlex.data.admin.ch/eli/fga/2002/1126), [6617](https://fedlex.data.admin.ch/eli/fga/2002/1129)).
 [^3-4]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
-[^3-5]: Introduit par le ch. I de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> déc. 2003 ([RO 2003 3661](https://fedlex.data.admin.ch/eli/oc/2003/516); [FF 2002 6597](https://fedlex.data.admin.ch/eli/fga/2002/1126)[6617](https://fedlex.data.admin.ch/eli/fga/2002/1129)).
+[^3-5]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^3-6]: Introduit par le ch. I de la LF du 13 déc. 2002 ([RO 2003 3661](https://fedlex.data.admin.ch/eli/oc/2003/516); [FF 2002 6597](https://fedlex.data.admin.ch/eli/fga/2002/1126), [6617](https://fedlex.data.admin.ch/eli/fga/2002/1129)). Nouvelle teneur selon le ch. III 1 de la LF du 17 mars 2023 (Amélioration du fonctionnement du Parlement, notamment en situation de crise), en vigueur depuis le 4 déc. 2023 ([RO 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 3a
 
@@ -72,8 +73,8 @@ Les députés perçoivent une indemnité annuelle de 26 000 francs[^2-2] au titr
 
 Les députés perçoivent un montant annuel de 33 000 francs[^3a-2] à titre de contribution aux dépenses de personnel et de matériel liées à l’exercice de leur mandat parlementaire.
 
-[^3a-1]: Introduit par le ch. I de la LF du 21 juin 2002 ([RO 2002 3629](https://fedlex.data.admin.ch/eli/oc/2002/548); [FF 2002 3715](https://fedlex.data.admin.ch/eli/fga/2002/574)[3737](https://fedlex.data.admin.ch/eli/fga/2002/577)). Nouvelle teneur selon le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3459](https://fedlex.data.admin.ch/eli/oc/2008/449); [FF 2008 117](https://fedlex.data.admin.ch/eli/fga/2008/52)[129](https://fedlex.data.admin.ch/eli/fga/2008/56)).
-[^3a-2]: Nouveau montant selon le ch. I let. c de l’O de l’Ass. féd. du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> sept. 2012 ([RO 2012 4573](https://fedlex.data.admin.ch/eli/oc/2012/551); [FF 2012 291](https://fedlex.data.admin.ch/eli/fga/2012/114)[303](https://fedlex.data.admin.ch/eli/fga/2012/117)).
+[^3a-1]: Introduit par le ch. I de la LF du 21 juin 2002 ([RO 2002 3629](https://fedlex.data.admin.ch/eli/oc/2002/548); [FF 2002 3715](https://fedlex.data.admin.ch/eli/fga/2002/574), [3737](https://fedlex.data.admin.ch/eli/fga/2002/577)). Nouvelle teneur selon le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3459](https://fedlex.data.admin.ch/eli/oc/2008/449); [FF 2008 117](https://fedlex.data.admin.ch/eli/fga/2008/52), [129](https://fedlex.data.admin.ch/eli/fga/2008/56)).
+[^3a-2]: Nouveau montant selon le ch. I let. c de l’O de l’Ass. féd. du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> sept. 2012 ([RO 2012 4573](https://fedlex.data.admin.ch/eli/oc/2012/551); [FF 2012 291](https://fedlex.data.admin.ch/eli/fga/2012/114), [303](https://fedlex.data.admin.ch/eli/fga/2012/117)).
 
 #### Art. 4
 
@@ -81,7 +82,7 @@ Les députés perçoivent un montant annuel de 33 000 francs[^3a-2] à titre de 
 
 Les députés sont défrayés pour les repas et les nuitées.
 
-[^4-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3629](https://fedlex.data.admin.ch/eli/oc/2002/548); [FF 2002 3715](https://fedlex.data.admin.ch/eli/fga/2002/574)[3737](https://fedlex.data.admin.ch/eli/fga/2002/577)).
+[^4-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3629](https://fedlex.data.admin.ch/eli/oc/2002/548); [FF 2002 3715](https://fedlex.data.admin.ch/eli/fga/2002/574), [3737](https://fedlex.data.admin.ch/eli/fga/2002/577)).
 
 #### Art. 5
 
@@ -89,7 +90,7 @@ Les députés sont défrayés pour les repas et les nuitées.
 
 Les députés sont défrayés pour les déplacements qu’ils effectuent sur le territoire national ou à l’étranger, pour autant qu’il s’agisse de déplacements liés à leur mandat parlementaire.
 
-[^5-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3629](https://fedlex.data.admin.ch/eli/oc/2002/548); [FF 2002 3715](https://fedlex.data.admin.ch/eli/fga/2002/574)[3737](https://fedlex.data.admin.ch/eli/fga/2002/577)).
+[^5-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3629](https://fedlex.data.admin.ch/eli/oc/2002/548); [FF 2002 3715](https://fedlex.data.admin.ch/eli/fga/2002/574), [3737](https://fedlex.data.admin.ch/eli/fga/2002/577)).
 
 #### Art. 6
 
@@ -97,7 +98,7 @@ Les députés sont défrayés pour les déplacements qu’ils effectuent sur le 
 
 Les députés qui, en raison de l’éloignement de leur domicile, doivent effectuer des trajets particulièrement longs pour se rendre à Berne perçoivent un défraiement.
 
-[^6-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3629](https://fedlex.data.admin.ch/eli/oc/2002/548); [FF 2002 3715](https://fedlex.data.admin.ch/eli/fga/2002/574)[3737](https://fedlex.data.admin.ch/eli/fga/2002/577)).
+[^6-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3629](https://fedlex.data.admin.ch/eli/oc/2002/548); [FF 2002 3715](https://fedlex.data.admin.ch/eli/fga/2002/574), [3737](https://fedlex.data.admin.ch/eli/fga/2002/577)).
 
 #### Art. 6a
 
@@ -105,7 +106,7 @@ Les députés qui, en raison de l’éloignement de leur domicile, doivent effec
 
 Les députés perçoivent les mêmes allocations familiales que celles accordées aux collaborateurs de l’administration fédérale conformément à la loi du 24 mars 2000 sur le personnel de la Confédération[^6a-2]. Les allocations familiales perçues par le député ou l’autre parent au titre d’une autre activité sont décomptées. La Délégation administrative de l’Assemblée fédérale peut conclure une convention d’affiliation avec la Caisse de compensation pour allocations familiales de la Caisse fédérale de compensation conformément à la loi du 24 mars 2006 sur les allocations familiales[^6a-3].
 
-[^6a-1]: Introduit par le ch. I de la LF du 13 déc. 2002 ([RO 2003 3661](https://fedlex.data.admin.ch/eli/oc/2003/516); [FF 2002 6597](https://fedlex.data.admin.ch/eli/fga/2002/1126)[6617](https://fedlex.data.admin.ch/eli/fga/2002/1129)). Nouvelle teneur selon le ch. II de la LF du 18 juin 2010, en vigueur depuis le 15 oct. 2010 ([RO 2010 4491](https://fedlex.data.admin.ch/eli/oc/2010/636); [FF 2009 5491](https://fedlex.data.admin.ch/eli/fga/2009/1101)).
+[^6a-1]: Introduit par le ch. I de la LF du 13 déc. 2002 ([RO 2003 3661](https://fedlex.data.admin.ch/eli/oc/2003/516); [FF 2002 6597](https://fedlex.data.admin.ch/eli/fga/2002/1126), [6617](https://fedlex.data.admin.ch/eli/fga/2002/1129)). Nouvelle teneur selon le ch. II de la LF du 18 juin 2010, en vigueur depuis le 15 oct. 2010 ([RO 2010 4491](https://fedlex.data.admin.ch/eli/oc/2010/636); [FF 2009 5491](https://fedlex.data.admin.ch/eli/fga/2009/1101)).
 [^6a-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 [^6a-3]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
 
@@ -128,7 +129,7 @@ La contribution est versée par la Confédération:
 
 <sup>5</sup> L’ordonnance de l’Assemblée fédérale règle les modalités.
 
-[^7-1]: Nouvelle teneur selon le ch. I de la LF du 8 oct. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2005 711](https://fedlex.data.admin.ch/eli/oc/2005/82); [FF 2004 1363](https://fedlex.data.admin.ch/eli/fga/2004/295)[1375](https://fedlex.data.admin.ch/eli/fga/2004/298)).
+[^7-1]: Nouvelle teneur selon le ch. I de la LF du 8 oct. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2005 711](https://fedlex.data.admin.ch/eli/oc/2005/82); [FF 2004 1363](https://fedlex.data.admin.ch/eli/fga/2004/295), [1375](https://fedlex.data.admin.ch/eli/fga/2004/298)).
 [^7-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 
 #### Art. 8
@@ -139,7 +140,7 @@ La contribution est versée par la Confédération:
 
 <sup>2</sup> La Confédération prend en charge les frais causés par la maladie ou l’accident subi durant l’exercice de ses fonctions par un député séjournant à l’étranger, pour autant que des frais ne soient pas déjà assumés par l’assurance-maladie et accidents personnelle du député. L’ordonnance de l’Assemblée fédérale du 18 mars 1988 relative à la loi sur les moyens alloués aux parlementaires[^8-2] règle les modalités.
 
-[^8-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> déc. 2003 ([RO 2003 3661](https://fedlex.data.admin.ch/eli/oc/2003/516); [FF 2002 6597](https://fedlex.data.admin.ch/eli/fga/2002/1126)[6617](https://fedlex.data.admin.ch/eli/fga/2002/1129)).
+[^8-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> déc. 2003 ([RO 2003 3661](https://fedlex.data.admin.ch/eli/oc/2003/516); [FF 2002 6597](https://fedlex.data.admin.ch/eli/fga/2002/1126), [6617](https://fedlex.data.admin.ch/eli/fga/2002/1129)).
 [^8-2]: [RS 171.211](https://fedlex.data.admin.ch/eli/cc/1988/1166_1166_1166)
 
 #### Art. 8a
@@ -157,7 +158,7 @@ Un député peut demander une aide transitoire:
 
 <sup>3</sup> La Délégation administrative de l’Assemblée fédérale se prononce sur les demandes.
 
-[^8a-1]: Introduit par le ch. I de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> déc. 2003 ([RO 2003 3661](https://fedlex.data.admin.ch/eli/oc/2003/516); [FF 2002 6597](https://fedlex.data.admin.ch/eli/fga/2002/1126)[6617](https://fedlex.data.admin.ch/eli/fga/2002/1129)).
+[^8a-1]: Introduit par le ch. I de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> déc. 2003 ([RO 2003 3661](https://fedlex.data.admin.ch/eli/oc/2003/516); [FF 2002 6597](https://fedlex.data.admin.ch/eli/fga/2002/1126), [6617](https://fedlex.data.admin.ch/eli/fga/2002/1129)).
 
 #### Art. 9
 
@@ -175,7 +176,7 @@ Un député peut demander une aide transitoire:
 
 <sup>2</sup> La Délégation administrative de l’Assemblée fédérale se prononce sur l’octroi de l’indemnité spéciale et en fixe le montant.[^10-1]
 
-[^10-1]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3459](https://fedlex.data.admin.ch/eli/oc/2008/449); [FF 2008 117](https://fedlex.data.admin.ch/eli/fga/2008/52)[129](https://fedlex.data.admin.ch/eli/fga/2008/56)).
+[^10-1]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3459](https://fedlex.data.admin.ch/eli/oc/2008/449); [FF 2008 117](https://fedlex.data.admin.ch/eli/fga/2008/52), [129](https://fedlex.data.admin.ch/eli/fga/2008/56)).
 
 #### Art. 11
 
@@ -205,7 +206,7 @@ Les frais de représentation des conseils, des présidents des conseils et des c
 
 <sup>3</sup> Lorsqu’il y a doute quant au droit à une indemnité ou à un défraiement, ou lorsqu’un député conteste l’exactitude d’un compte, la Délégation administrative de l’Assemblée fédérale tranche.
 
-[^14-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3629](https://fedlex.data.admin.ch/eli/oc/2002/548); [FF 2002 3715](https://fedlex.data.admin.ch/eli/fga/2002/574)[3737](https://fedlex.data.admin.ch/eli/fga/2002/577)).
+[^14-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3629](https://fedlex.data.admin.ch/eli/oc/2002/548); [FF 2002 3715](https://fedlex.data.admin.ch/eli/fga/2002/574), [3737](https://fedlex.data.admin.ch/eli/fga/2002/577)).
 
 #### Art. 15
 
@@ -213,14 +214,12 @@ Les frais de représentation des conseils, des présidents des conseils et des c
 
 La loi fédérale du 17 mars 1972[^15-1] sur les indemnités dues aux membres des conseils législatifs et l’arrêté fédéral du 28 juin 1972[^15-2] relatif à la loi sur les indemnités sont abrogés.
 
-[^15-1]: [[RO 1972 1516](https://fedlex.data.admin.ch/eli/oc/1972/1488_1516_1688), [1981 1602](https://fedlex.data.admin.ch/eli/oc/1981/1602_1602_1602), [1983 1940](https://fedlex.data.admin.ch/eli/oc/1983/1940_1940_1940)]
-[^15-2]: [[RO 1972 1520](https://fedlex.data.admin.ch/eli/oc/1972/1492_1520_1692), [1983 1442](https://fedlex.data.admin.ch/eli/oc/1983/1442_1442_1442)[1940](https://fedlex.data.admin.ch/eli/oc/1983/1940_1940_1940)ch. II]
+[^15-1]: [[RO 1972 1516](https://fedlex.data.admin.ch/eli/oc/1972/1488_1516_1688); [1981 1602](https://fedlex.data.admin.ch/eli/oc/1981/1602_1602_1602); [1983 1940](https://fedlex.data.admin.ch/eli/oc/1983/1940_1940_1940)]
+[^15-2]: [[RO 1972 1520](https://fedlex.data.admin.ch/eli/oc/1972/1492_1520_1692); [1983 1442](https://fedlex.data.admin.ch/eli/oc/1983/1442_1442_1442), [1940](https://fedlex.data.admin.ch/eli/oc/1983/1940_1940_1940)ch. II]
 
 #### Art. 15a
 
-**Dispositions transitoires relatives à l’art. 2**[^15a-1]
-
-En raison de restrictions budgétaires, l’indemnité annuelle versée aux députés au titre de la préparation des travaux parlementaires est réduite de 3000 francs entre 2004 et 2007.
+[^15a-1]
 
 [^15a-1]: Introduit par le ch. I de la LF du 19 déc. 2003, en vigueur jusqu’au 31 déc. 2007 ([RO 2003 5007](https://fedlex.data.admin.ch/eli/oc/2003/743); [FF 2003 5091](https://fedlex.data.admin.ch/eli/fga/2003/887)).
 
@@ -236,7 +235,7 @@ En raison de restrictions budgétaires, l’indemnité annuelle versée aux dép
 
 [^u1-1]
 
-[^u1-1]: [RO 2003 3661](https://fedlex.data.admin.ch/eli/oc/2003/516); [FF 2002 6597](https://fedlex.data.admin.ch/eli/fga/2002/1126)[6617](https://fedlex.data.admin.ch/eli/fga/2002/1129)
+[^u1-1]: [RO 2003 3661](https://fedlex.data.admin.ch/eli/oc/2003/516); [FF 2002 6597](https://fedlex.data.admin.ch/eli/fga/2002/1126), [6617](https://fedlex.data.admin.ch/eli/fga/2002/1129)
 
 Les députés qui, conformément à l’art. 7[^u1-2] de la loi du 18 mars 1988 sur les moyens alloués aux parlementaires (version du 4 octobre 1996)[^u1-3], ont droit à une contribution au titre de la prévoyance professionnelle privée, continuent de percevoir cette contribution jusqu’à la fin de leur activité parlementaire même après l’entrée en vigueur de la présente modification, pour autant qu’ils aient exercé ce mandat de manière ininterrompue et qu’ils aient atteint l’âge de 65 ans. Les sommes perçues sont assimilées à un revenu et sont à ce titre imposables.
 

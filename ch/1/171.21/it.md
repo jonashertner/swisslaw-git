@@ -4,11 +4,11 @@ title: "Legge federale del 18 marzo 1988 sulla retribuzione e l'infrastruttura d
 short: LI
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1162_1162_1162"
 language: it
-version: 2012-09-01
+version: 2023-12-04
 adopted: 1988-03-18
 in_force: 1988-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1162_1162_1162/20120901/it/xml/fedlex-data-admin-ch-eli-cc-1988-1162_1162_1162-20120901-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1162_1162_1162/20120901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1162_1162_1162/20231204/it/xml/fedlex-data-admin-ch-eli-cc-1988-1162_1162_1162-20231204-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1162_1162_1162/20231204/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/1162_1162_1162/20120901/it"
 
 (Legge sulle indennità parlamentari, LI)[^t-1]
 
-del 18 marzo 1988 (Stato 1° settembre 2012)
+del 18 marzo 1988 (Stato 4 dicembre 2023)
 
 [^t-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° dic. 2002 ([RU 2002 3629](https://fedlex.data.admin.ch/eli/oc/2002/548); [FF 2002 3586](https://fedlex.data.admin.ch/eli/fga/2002/575)[3591](https://fedlex.data.admin.ch/eli/fga/2002/577)).
 
@@ -58,13 +58,14 @@ Il parlamentare riceve una retribuzione annua di 26 000 franchi[^2-2] per i lavo
 
 <sup>2</sup> Il parlamentare impossibilitato a partecipare a una seduta in seguito a malattia o infortunio ha diritto a un adeguato importo sostitutivo della diaria persa.[^3-3]
 
-<sup>3</sup> La parlamentare in congedo maternità riceve un importo pari alla diaria persa. Alla determinazione della durata del congedo maternità si applica per analogia l’articolo 35*a* della legge del 13 marzo 1964[^3-4] sul lavoro.[^3-5]
+<sup>3</sup> I parlamentari in congedo di maternità o in congedo di paternità ricevono un importo pari alla diaria persa. Alla determinazione della durata del congedo di maternità e del congedo di paternità si applicano per analogia l’articolo 35*a* della legge del 13 marzo 1964[^3-4] sul lavoro e gli articoli 16*c*, 16*d*, 16*j* e 16*k* della legge del 25 settembre 1952[^3-5] sulle indennità di perdita di guadagno.[^3-6]
 
 [^3-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° dic. 2002 ([RU 2002 3629](https://fedlex.data.admin.ch/eli/oc/2002/548); [FF 2002 3586](https://fedlex.data.admin.ch/eli/fga/2002/575)[3591](https://fedlex.data.admin.ch/eli/fga/2002/577)).
 [^3-2]: Nuova diaria giusta il n. I lett. b dell’O dell’AF del 15 giu. 2012, in vigore dal 1° set. 2012 ([RU 2012 4573](https://fedlex.data.admin.ch/eli/oc/2012/551); [FF 2012 265](https://fedlex.data.admin.ch/eli/fga/2012/114)[275](https://fedlex.data.admin.ch/eli/fga/2012/117)).
 [^3-3]: Introdotto dal n. I della LF sulle indennità parlamentari del 13 dic. 2002, in vigore dal 1° dic. 2003 ([RU 2003 3661](https://fedlex.data.admin.ch/eli/oc/2003/516); [FF 2002 6323](https://fedlex.data.admin.ch/eli/fga/2002/1126)[6343](https://fedlex.data.admin.ch/eli/fga/2002/1129)).
 [^3-4]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
-[^3-5]: Introdotto dal n. I della LF sulle indennità parlamentari del 13 dic. 2002, in vigore dal 1° dic. 2003 ([RU 2003 3661](https://fedlex.data.admin.ch/eli/oc/2003/516); [FF 2002 6323](https://fedlex.data.admin.ch/eli/fga/2002/1126)[6343](https://fedlex.data.admin.ch/eli/fga/2002/1129)).
+[^3-5]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^3-6]: Introdotto dal n. I della LF sulle indennità parlamentari del 13 dic. 2002 ([RU 2003 3661](https://fedlex.data.admin.ch/eli/oc/2003/516); [FF 2002 6323](https://fedlex.data.admin.ch/eli/fga/2002/1126)[6343](https://fedlex.data.admin.ch/eli/fga/2002/1129)). Nuovo testo giusta il n. III 1 della LF del 17 mar. 2023 (Miglioramenti del funzionamento del Parlamento, in particolare in situazioni di crisi), in vigore dal 4 dic. 2023 ([RU 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 3a
 
@@ -209,14 +210,12 @@ Per le spese di rappresentanza dei due Consigli, dei loro presidenti e delle com
 
 La legge federale del 17 marzo 1972[^15-1] sulle indennità parlamentari e il relativo decreto federale del 28 giugno 1972[^15-2] sono abrogati.
 
-[^15-1]: [[RU 1972 1688](https://fedlex.data.admin.ch/eli/oc/1972/1488_1516_1688), [1981 1602](https://fedlex.data.admin.ch/eli/oc/1981/1602_1602_1602), [1983 1940](https://fedlex.data.admin.ch/eli/oc/1983/1940_1940_1940)]
-[^15-2]: [[RU 1972 1692](https://fedlex.data.admin.ch/eli/oc/1972/1492_1520_1692), [1983 1442](https://fedlex.data.admin.ch/eli/oc/1983/1442_1442_1442)[1940](https://fedlex.data.admin.ch/eli/oc/1983/1940_1940_1940)n. II]
+[^15-1]: [[RU 1972 1688](https://fedlex.data.admin.ch/eli/oc/1972/1488_1516_1688); [1981 1602](https://fedlex.data.admin.ch/eli/oc/1981/1602_1602_1602); [1983 1940](https://fedlex.data.admin.ch/eli/oc/1983/1940_1940_1940)]
+[^15-2]: [[RU 1972 1692](https://fedlex.data.admin.ch/eli/oc/1972/1492_1520_1692); [1983 1442](https://fedlex.data.admin.ch/eli/oc/1983/1442_1442_1442), [1940](https://fedlex.data.admin.ch/eli/oc/1983/1940_1940_1940)n. II]
 
 #### Art. 15a
 
-**Disposizione transitoria dell’art. 2**[^15a-1]
-
-Per ragioni di risparmio, la retribuzione annua dei parlamentari per i lavori preparatori è ridotta di 3000 franchi dal 2004 al 2007 compreso.
+[^15a-1]
 
 [^15a-1]: Introdotto dal n. I della LF del 19 dic. 2003, con effetto sino al 31 dic. 2007 ([RU 2003 5007](https://fedlex.data.admin.ch/eli/oc/2003/743); [FF 2003 4857](https://fedlex.data.admin.ch/eli/fga/2003/887)).
 
