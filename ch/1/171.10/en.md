@@ -4,11 +4,11 @@ title: "Federal Act of 13 December 2002 on the Federal Assembly (Parliament Act,
 short: ParlA
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: en
-version: 2023-09-01
+version: 2023-12-04
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2003-510-20230901-en-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20231204/en/xml/fedlex-data-admin-ch-eli-cc-2003-510-20231204-en-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20231204/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -2758,17 +2758,17 @@ I
 
 Following enactments are repealed:
 
-- 1\. Guarantee Act of 26 March 1934[^annexu1-lvlu1-1].
-- 2\. Decree the Federal Assembly of 15 November 1848[^annexu1-lvlu1-2] relating to Oath of Office sworn by the Supreme Federal Authorities.
-- 3\. Parliamentary Procedure Act of 23 March 1962[^annexu1-lvlu1-3]. Article 8<sup>septies</sup> remains in force until Article 61 of the Parliament Act comes into force (Art. 174 para. 3).
+- 1\. Guarantee Act of 26 March 1934[^annex1-lvlu1-1].
+- 2\. Decree the Federal Assembly of 15 November 1848[^annex1-lvlu1-2] relating to Oath of Office sworn by the Supreme Federal Authorities.
+- 3\. Parliamentary Procedure Act of 23 March 1962[^annex1-lvlu1-3]. Article 8<sup>septies</sup> remains in force until Article 61 of the Parliament Act comes into force (Art. 174 para. 3).
 
 II
 
 The following enactments are amended as follows:
 
-[^annexu1-lvlu1-1]: [BS **1** 152; [AS 1962 773](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831)Art. 60 para. 2; [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)No I 121; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226),[2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)Annex No I 414; [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Annex No 3]
-[^annexu1-lvlu1-2]: [BS **1** 461]
-[^annexu1-lvlu1-3]: [[AS 1962 811](https://fedlex.data.admin.ch/eli/oc/1962/811_849_869); [1984 768](https://fedlex.data.admin.ch/eli/oc/1984/768_768_768), [1985 452](https://fedlex.data.admin.ch/eli/oc/1985/452_452_452); [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 16 No 3; [1989 257](https://fedlex.data.admin.ch/eli/oc/1989/257_257_257); [1990 1642](https://fedlex.data.admin.ch/eli/oc/1990/1642_1642_1642); [1992 2344](https://fedlex.data.admin.ch/eli/oc/1992/2344_2344_2344); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)]
+[^annex1-lvlu1-1]: [BS **1** 152; [AS 1962 773](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831)Art. 60 para. 2; [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)No I 121; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226),[2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)Annex No I 414; [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Annex No 3]
+[^annex1-lvlu1-2]: [BS **1** 461]
+[^annex1-lvlu1-3]: [[AS 1962 811](https://fedlex.data.admin.ch/eli/oc/1962/811_849_869); [1984 768](https://fedlex.data.admin.ch/eli/oc/1984/768_768_768), [1985 452](https://fedlex.data.admin.ch/eli/oc/1985/452_452_452); [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 16 No 3; [1989 257](https://fedlex.data.admin.ch/eli/oc/1989/257_257_257); [1990 1642](https://fedlex.data.admin.ch/eli/oc/1990/1642_1642_1642); [1992 2344](https://fedlex.data.admin.ch/eli/oc/1992/2344_2344_2344); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)]
 
 Annex 2[^t-2]
 

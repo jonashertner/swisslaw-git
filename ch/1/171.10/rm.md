@@ -4,11 +4,11 @@ title: "Lescha federala dals 13 da december 2002 davart l'Assamblea federala (Le
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: rm
-version: 2023-09-01
+version: 2023-12-04
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-2003-510-20230901-rm-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20230901/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20231204/rm/xml/fedlex-data-admin-ch-eli-cc-2003-510-20231204-rm-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20231204/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha dal parlament, LParl)
 
-dals 13 da december 2002 (versiun dal 1. da settember 2023)
+dals 13 da december 2002 (versiun dals 4 da december 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -64,10 +64,19 @@ In quart dals commembers d’ina chombra u il Cussegl federal pon pretender che 
 - c. elecziuns;
 - d. decleraziuns dal Cussegl federal u sbozs da decleraziun dal Cussegl naziunal e dal Cussegl dals chantuns da cuntegn identic inoltrads en tuttas duas chombras.[^2-1]
 
-<sup>4</sup> Ad ina sessiun ordinaria u extraordinaria sa radunan tuttas duas chombras per regla durant las medemas emnas dal chalender.[^2-2]
+<sup>3bis</sup>
+
+La sessiun extraordinaria ha lieu immediatamain, sche:
+
+- a. il Cussegl federal ha decretà u midà in’ordinaziun che sa basa sin l’artitgel 184 alinea 3 u 185 alinea 3 da la Constituziun federala u sin in’autorisaziun legala per dumagnar ina crisa tenor l’agiunta 2;
+- b. il sboz d’ina ordinaziun u d’in conclus federal simpel tenor l’artitgel 173 alinea 1 litera c da la Constituziun federala u d’ina lescha federala urgenta tenor l’artitgel 165 da la Constituziun federala daventa pendent;
+- c. igl è vegnì concludì da spustar u da terminar anticipadamain la sessiun tenor l’artitgel 33*a*.[^2-2]
+
+<sup>4</sup> Ad ina sessiun ordinaria u extraordinaria sa radunan tuttas duas chombras per regla durant las medemas emnas dal chalender.[^2-3]
 
 [^2-1]: Versiun tenor la cifra I da la LF dals 21 da zer. 2013 (meglieraziuns da l’organisaziun e da las proceduras dal parlament), en vigur dapi ils 25 da nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
-[^2-2]: Integrà tras la cifra I da la LF dals 21 da zer. 2013 (meglieraziuns da l’organisaziun e da las proceduras dal parlament), en vigur dapi ils 25 da nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^2-2]: Integrà tras la cifra I da la LF dals 17 da mars 2023 (meglieraziuns dal funcziunament dal Parlament, en spezial en situaziuns da crisa), en vigur dapi ils 4 da dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^2-3]: Integrà tras la cifra I da la LF dals 21 da zer. 2013 (meglieraziuns da l’organisaziun e da las proceduras dal parlament), en vigur dapi ils 25 da nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 3
 
@@ -406,9 +415,11 @@ Sch’igl è dispitaivel, schebain in’autorisaziun tenor ils artitgels 17–20
 
 <sup>2</sup> Ella po fixar ulteriuras disposiziuns legislativas en furma d’ina lescha federala u – tant enavant ch’ella è autorisada tras la Constituziun federala u tras ina lescha da far quai – en furma d’ina ordinaziun da l’Assamblea federala.
 
-<sup>3</sup> Sche las cumissiuns cumpetentas da l’Assamblea federala pretendan quai, las consultescha il Cussegl federal avant che decretar disposiziuns legislativas, premess che l’urgenza da l’ordinaziun permettia quai.
+<sup>3</sup> Sche las cumissiuns cumpetentas da l’Assamblea federala pretendan quai, las consultescha il Cussegl federal avant che decretar disposiziuns legislativas, premess che l’urgenza da l’ordinaziun permettia quai. Sbozs d’ordinaziuns tenor l’artitgel 151 alinea 2<sup>bis</sup> ston vegnir suttamess en mintga cas a las cumissiuns cumpetentas per la consultaziun.[^22-1]
 
 <sup>4</sup> Sco legislativas valan disposiziuns che decreteschan obligaziuns, surdattan dretgs u fixeschan cumpetenzas, e quai en moda directamain lianta e generalmain abstracta.
+
+[^22-1]: Integrà la segunda frasa tras la cifra I da la LF dals 17 da mars 2023 (meglieraziuns dal funcziunament dal Parlament, en spezial en situaziuns da crisa), en vigur dapi ils 4 da dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 23
 
@@ -555,6 +566,10 @@ Ils organs da l’Assamblea federala èn:
 
 <sup>2</sup> Tras in conclus federal simpel po ella decider da sa radunar excepziunalmain en in auter lieu.
 
+<sup>3</sup> Sch’i n’è betg pussaivel da sa radunar a Berna, po la Conferenza da coordinaziun concluder che l’Assamblea federala sa radunia en in auter lieu.[^32-1]
+
+[^32-1]: Integrà tras la cifra I da la LF dals 17 da mars 2023 (meglieraziuns dal funcziunament dal Parlament, en spezial en situaziuns da crisa), en vigur dapi ils 4 da dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+
 #### Art. 33
 
 **Convocaziun**
@@ -564,6 +579,16 @@ Ils organs da l’Assamblea federala èn:
 <sup>2</sup> L’Assamblea federala plenara vegn convocada da la Conferenza da coordinaziun.
 
 <sup>3</sup> Il president dal Cussegl naziunal u – sche quel è impedì – il president dal Cussegl dals chantuns è obligà da convocar las chombras, sche la segirezza da las autoritads federalas è periclitada u sch’il Cussegl federal n’è betg en cas d’agir.
+
+#### Art. 33a
+
+**Spustament u terminaziun anticipada d’ina sessiun**[^33a-1]
+
+<sup>1</sup> Il conclus d’ina chombra da spustar u da terminar anticipadamain la sessiun dovra il consentiment da l’autra chombra.
+
+<sup>2</sup> Sch’i n’è betg pussaivel da sa radunar fisicamain, po la Conferenza da coordinaziun concluder da spustar u da terminar anticipadamain la sessiun.
+
+[^33a-1]: Integrà tras la cifra I da la LF dals 17 da mars 2023 (meglieraziuns dal funcziunament dal Parlament, en spezial en situaziuns da crisa), en vigur dapi ils 4 da dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 ### 2. chapitel Cussegl naziunal e Cussegl dals chantuns
 
@@ -601,7 +626,7 @@ La Conferenza da coordinaziun ha las suandantas incumbensas:
 
 - a.[^37-1] ella fixescha, durant tge emnas dal chalender che las sessiuns ordinarias ed extraordinarias han lieu;
 - b. ella procura per la correspundenza tranter las duas chombras sco er per la correspundenza tranter quellas ed il Cussegl federal;
-- c. ella po decretar directivas davart l’attribuziun dals meds persunals e finanzials als organs da l’Assamblea federala;
+- c.[^37-2] …
 - d. ella elegia il secretari general da l’Assamblea federala. L’elecziun sto vegnir confermada da l’Assamblea federala plenara;
 - e. ella approvescha la furmaziun da novas fracziuns tenor ils criteris da l’artitgel 61.
 
@@ -609,10 +634,11 @@ La Conferenza da coordinaziun ha las suandantas incumbensas:
 
 <sup>4</sup> Las decisiuns da la Conferenza da coordinaziun ston vegnir approvadas dals biros dal Cussegl naziunal e dal Cussegl dals chantuns. L’elecziun tenor l’alinea 2 litera d ha lieu cun la maioritad absoluta dals commembers ch’elegian.
 
-<sup>5</sup> ...[^37-2]
+<sup>5</sup> ...[^37-3]
 
 [^37-1]: Versiun tenor la cifra I da la LF dals 21 da zer. 2013 (meglieraziuns da l’organisaziun e da las proceduras dal parlament), en vigur dapi ils 25 da nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
-[^37-2]: Abolì tras la cifra I da la LF dals 15 da zer. 2018, cun effect dapi ils 26 da nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^37-2]: Abolì tras la cifra I da la LF dals 17 da mars 2023 (meglieraziuns dal funcziunament dal Parlament, en spezial en situaziuns da crisa), cun effect dapi ils 4 da dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^37-3]: Abolì tras la cifra I da la LF dals 15 da zer. 2018, cun effect dapi ils 26 da nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 38
 
@@ -620,9 +646,11 @@ La Conferenza da coordinaziun ha las suandantas incumbensas:
 
 <sup>1</sup> La Delegaziun administrativa sa cumpona da mintgamai trais commembers dals biros da tuttas duas chombras ch’èn vegnids elegids da la Conferenza da coordinaziun. La Delegaziun administrativa designescha in da ses commembers sco delegà. Ella sa constituescha sezza.
 
-<sup>2</sup> La direcziun suprema da l’administraziun dal parlament è chaussa da la Delegaziun administrativa.
+<sup>2</sup> La direcziun suprema da l’administraziun dal parlament è chaussa da la Delegaziun administrativa. En il rom da sias cumpetenzas per il sboz dal preventiv da l’Assamblea federala procura ella en spezial, che l’Assamblea federala e ses organs disponian da las resursas ed infrastructuras necessarias. Ella po decretar directivas davart l’attribuziun dals meds persunals e finanzials.[^38-1]
 
 <sup>3</sup> La Delegaziun administrativa decida cun la maioritad dals commembers votants.
+
+[^38-1]: Versiun tenor la cifra I da la LF dals 17 da mars 2023 (meglieraziuns dal funcziunament dal Parlament, en spezial en situaziuns da crisa), en vigur dapi ils 4 da dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 ### 3. chapitel Assamblea federala plenara
 
@@ -752,6 +780,40 @@ Per ademplir lur incumbensas pon las cumissiuns:
 - d. far inspecziuns.
 
 <sup>2</sup> Las cumissiuns pon nominar atgnas sutcumissiuns. Quellas suttamettan a la cumissiun rapports e propostas. Pliras cumissiuns pon nominar sutcumissiuns cuminaivlas.
+
+#### Art. 45a
+
+**Sesidas**[^45a-1]
+
+<sup>1</sup> Las sesidas da las cumissiuns han per regla lieu tenor ina planisaziun annuala.
+
+<sup>2</sup> Il president po stritgar sesidas u fixar sesidas supplementaras. Conclus cuntraris da la cumissiun restan resalvads.
+
+<sup>3</sup> Tranter las sesidas ordinarias vegn la cumissiun convocada ordaifer ils dis fixads, sche la maioritad dals commembers da la cumissiun ha acceptà sin via circulara ina proposta correspundenta, che cuntegna ina tractanda ch’è da tractar urgentamain.
+
+[^45a-1]: Integrà tras la cifra I da la LF dals 17 da mars 2023 (meglieraziuns dal funcziunament dal Parlament, en spezial en situaziuns da crisa), en vigur dapi ils 4 da dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+
+#### Art. 45b
+
+**Sesidas virtualas**[^45b-1]
+
+<sup>1</sup>
+
+Las cumissiuns pon far lur sesidas en moda virtuala, sche:
+
+- a. i n’è betg pussaivel da sa radunar fisicamain; u
+- b. ellas ston prender decisiuns urgentas u decisiuns concernent la procedura.
+
+<sup>2</sup> Ina sesida dastga mo avair lieu en moda virtuala, sch’il president e la maioritad dals commembers da la cumissiun han acceptà quai sin via circulara.
+
+<sup>3</sup>
+
+Las suandantas persunas pon sa participar en moda virtuala ad ina sesida da la cumissiun che ha lieu fisicamain:
+
+- a. commembers da la cumissiun, per ils quals ina substituziun n’è giuridicamain betg pussaivla;
+- b. participants d’audiziuns tenor l’artitgel 45 alinea 1 literas b e c.
+
+[^45b-1]: Integrà tras la cifra I da la LF dals 17 da mars 2023 (meglieraziuns dal funcziunament dal Parlament, en spezial en situaziuns da crisa), en vigur dapi ils 4 da dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 46
 
@@ -1601,11 +1663,14 @@ La furma da l’iniziativa parlamentara sto vegnir giuditgada sco cunvegnenta cu
 
 <sup>3</sup> Il rapport ed il sboz per in decret, ch’ella suttametta a la chombra, suttametta ella a medem temp er al Cussegl federal per laschar prender posiziun e fixescha in termin adequat per quest intent; exceptadas èn disposiziuns davart l’organisaziun u la procedura da l’Assamblea federala che n’èn betg fixadas en la lescha e che na concernan betg directamain il Cussegl federal.[^112-3]
 
+<sup>3bis</sup> Sch’i sa tracta d’in sboz d’in decret tenor l’artitgel 165 u 173 alinea 1 litera c da la Constituziun federala, po il termin per la posiziun dal Cussegl federal vegnir fixà uschia, ch’igl è pussaivel da tractar il project en la proxima sessiun ordinaria u extraordinaria.[^112-4]
+
 <sup>4</sup> Sch’il Cussegl federal propona ina midada, tracta la cumissiun la posiziun dal Cussegl federal avant che la tractativa dal sboz per in decret ha lieu en la chombra prioritara.
 
 [^112-1]: [SR 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)
 [^112-2]: Versiun tenor l’art. 12 cifra 1 da la LF dals 18 da mars 2005 davart la procedura da consultaziun, en vigur dapi il 1. da sett. 2005 ([AS 2005 4099](https://fedlex.data.admin.ch/eli/oc/2005/542); [BBl 2004 533](https://fedlex.data.admin.ch/eli/fga/2004/127)).
 [^112-3]: Versiun tenor la cifra I da la LF dals 21 da zer. 2013 (meglieraziuns da l’organisaziun e da las proceduras dal parlament), en vigur dapi ils 25 da nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^112-4]: Integrà tras la cifra I da la LF dals 17 da mars 2023 (meglieraziuns dal funcziunament dal Parlament, en spezial en situaziuns da crisa), en vigur dapi ils 4 da dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 113
 
@@ -1743,6 +1808,10 @@ L’intervenziun d’in parlamentari u d’ina fracziun vegn annullada senza ina
 
 <sup>1</sup> Il Cussegl federal propona d’acceptar u da refusar la moziun, e quai per regla il pli tard il cumenzament da la proxima sessiun ordinaria suenter l’inoltraziun. Sch’ina moziun vegn inoltrada d’ina cumissiun damain che 1 mais avant che la proxima sessiun ordinaria cumenza, formulescha il Cussegl federal sia proposta il pli tard il cumenzament da la surproxima sessiun.
 
+<sup>1bis</sup> Sche moziuns identicas vegnan inoltradas da cumissiuns da tuttas duas chombras il pli tard 1 emna avant la proxima sessiun ordinaria u extraordinaria, preschenta il Cussegl federal sia proposta, avant che la moziun vegn tractada en tala sessiun.[^121-2]
+
+<sup>1ter</sup> Moziuns da cumissiuns, che pretendan dal Cussegl federal da decretar u da midar in’ordinaziun che sa basa sin l’artitgel 184 alinea 3 u 185 alinea 3 da la Constituziun federala u sin in’autorisaziun legala per dumagnar ina crisa tenor l’agiunta 2, vegnan tractandadas en la proxima u en l’actuala sessiun ordinaria u extraordinaria. Il Cussegl federal preschenta sia proposta en scrit u a bucca.[^121-3]
+
 <sup>2</sup> Sch’ina chombra refusa ina moziun, è quella liquidada. Sche la chombra, nua che la moziun è vegnida inoltrada, accepta quella, vegn ella transferida a l’autra chombra.
 
 <sup>3</sup>
@@ -1758,9 +1827,9 @@ Sche la segunda chombra fa ina midada, po la chombra prioritara far il suandant 
 
 - a. acceptar la midada;
 - b. confermar ses conclus d’acceptar la moziun en sia versiun oriunda; u
-- c. refusar definitivamain la moziun.[^121-2]
+- c. refusar definitivamain la moziun.[^121-4]
 
-<sup>4bis</sup> Sche la chombra prioritara conferma en la segunda tractativa ses conclus d’acceptar la moziun en sia versiun oriunda, po la segunda chombra approvar quest conclus u refusar definitivamain la moziun.[^121-3]
+<sup>4bis</sup> Sche la chombra prioritara conferma en la segunda tractativa ses conclus d’acceptar la moziun en sia versiun oriunda, po la segunda chombra approvar quest conclus u refusar definitivamain la moziun.[^121-5]
 
 <sup>5</sup>
 
@@ -1770,14 +1839,25 @@ Ina moziun ch’è vegnida acceptada da la chombra prioritara è acceptada defin
 - b. ella è vegnida inoltrada d’ina cumissiun ed ina moziun identica d’ina cumissiun è vegnida acceptada da l’autra chombra.
 
 [^121-1]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2008, en vigur dapi ils 2 da mars 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^121-2]: Versiun tenor la cifra I da la LF dals 18 da zer. 2021 (procedura d’eliminaziun da las differenzas per las moziuns), en vigur dapi il 1. da nov. 2021 ([AS 2021 612](https://fedlex.data.admin.ch/eli/oc/2021/612); [BBl 2020 9309](https://fedlex.data.admin.ch/eli/fga/2020/2508); [2021 138](https://fedlex.data.admin.ch/eli/fga/2021/138)).
-[^121-3]: Integrà tras la cifra I da la LF dals 18 da zer. 2021 (procedura d’eliminaziun da las differenzas per las moziuns), en vigur dapi il 1. da nov. 2021 ([AS 2021 612](https://fedlex.data.admin.ch/eli/oc/2021/612); [BBl 2020 9309](https://fedlex.data.admin.ch/eli/fga/2020/2508); [2021 138](https://fedlex.data.admin.ch/eli/fga/2021/138)).
+[^121-2]: Integrà tras la cifra I da la LF dals 17 da mars 2023 (meglieraziuns dal funcziunament dal Parlament, en spezial en situaziuns da crisa), en vigur dapi ils 4 da dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^121-3]: Integrà tras la cifra I da la LF dals 17 da mars 2023 (meglieraziuns dal funcziunament dal Parlament, en spezial en situaziuns da crisa), en vigur dapi ils 4 da dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^121-4]: Versiun tenor la cifra I da la LF dals 18 da zer. 2021 (procedura d’eliminaziun da las differenzas per las moziuns), en vigur dapi il 1. da nov. 2021 ([AS 2021 612](https://fedlex.data.admin.ch/eli/oc/2021/612); [BBl 2020 9309](https://fedlex.data.admin.ch/eli/fga/2020/2508); [2021 138](https://fedlex.data.admin.ch/eli/fga/2021/138)).
+[^121-5]: Integrà tras la cifra I da la LF dals 18 da zer. 2021 (procedura d’eliminaziun da las differenzas per las moziuns), en vigur dapi il 1. da nov. 2021 ([AS 2021 612](https://fedlex.data.admin.ch/eli/oc/2021/612); [BBl 2020 9309](https://fedlex.data.admin.ch/eli/fga/2020/2508); [2021 138](https://fedlex.data.admin.ch/eli/fga/2021/138)).
 
 #### Art. 122
 
 **Tractament da moziuns acceptadas**[^122-1]
 
-<sup>1</sup> Sch’ina moziun è pendenta per passa 2 onns, infurmescha il Cussegl federal ina giada l’onn l’Assamblea federala davart las lavurs fatgas fin ussa e davart las mesiras ch’el vul prender per ademplir l’incumbensa. Quest rapport vegn adressà a las cumissiuns cumpetentas.
+<sup>1</sup> Sch’ina moziun è pendenta per passa 2 onns, infurmescha il Cussegl federal ina giada l’onn l’Assamblea federala davart las lavurs fatgas fin ussa e davart las mesiras ch’el vul prender per ademplir l’incumbensa.[^122-2]
+
+<sup>1bis</sup>
+
+Il Cussegl federal rapporta immediatamain, sche:
+
+- a. ina moziun d’ina cumissiun, che pretenda da midar in’ordinaziun dal Cussegl federal, la quala è en vigur dapi maximalmain 1 onn, u che pretenda da midar il sboz d’ina ordinaziun dal Cussegl federal, n’è anc betg ademplida suenter 6 mais; u
+- b. ina moziun d’ina cumissiun, che pretenda da decretar u da midar in’ordinaziun che sa basa sin l’artitgel 184 alinea 3 u 185 alinea 3 da la Constituziun federala u sin in’autorisaziun legala per dumagnar ina crisa tenor l’agiunta 2, n’è anc betg ademplida suenter la scadenza dal termin ch’il text da la moziun prevesa per preschentar il rapport.[^122-3]
+
+<sup>1ter</sup> Il rapport dal Cussegl federal vegn tramess a las cumissiuns cumpetentas.[^122-4]
 
 <sup>2</sup> Ina cumissiun u il Cussegl federal propona d’annullar ina moziun, sche la finamira da la moziun è ademplida. La proposta sa drizza a tuttas duas chombras, nun che la moziun sa refereschia a dumondas da l’organisaziun e da la procedura d’ina singula chombra.
 
@@ -1795,6 +1875,9 @@ L’annullaziun po er vegnir proponida, sche l’incumbensa n’è anc betg adem
 <sup>6</sup> Sch’il Cussegl federal n’observa betg il termin, decidan las duas chombras en la proxima sessiun ordinaria sin proposta da las cumissiuns cumpetentas davart ina nova prolungaziun dal termin u davart l’annullaziun.
 
 [^122-1]: Versiun tenor la cifra I da la LF dals 5 d’oct. 2007 (effect liant da la moziun), en vigur dapi ils 26 da matg 2008 ([AS 2008 2113](https://fedlex.data.admin.ch/eli/oc/2008/303); [BBl 2007 1457](https://fedlex.data.admin.ch/eli/fga/2007/198)[2149](https://fedlex.data.admin.ch/eli/fga/2007/329)). Guardar er la disp. trans. da questa midada a la fin da questa lescha.
+[^122-2]: Versiun tenor la cifra I da la LF dals 17 da mars 2023 (meglieraziuns dal funcziunament dal Parlament, en spezial en situaziuns da crisa), en vigur dapi ils 4 da dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^122-3]: Integrà tras la cifra I da la LF dals 17 da mars 2023 (meglieraziuns dal funcziunament dal Parlament, en spezial en situaziuns da crisa), en vigur dapi ils 4 da dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^122-4]: Integrà tras la cifra I da la LF dals 17 da mars 2023 (meglieraziuns dal funcziunament dal Parlament, en spezial en situaziuns da crisa), en vigur dapi ils 4 da dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 ### 3. part Postulat
 
@@ -2258,7 +2341,11 @@ Ellas n’han nagin dretg da survegnir infurmaziuns:
 
 <sup>2</sup> Sch’ina ordinaziun sto vegnir midada u decretada directamain suenter ina decisiun da l’Assamblea federala, decida la cumissiun a chaschun da la votaziun generala davart il sboz dal decret, sch’ella vul vegnir consultada u betg.
 
+<sup>2bis</sup> Il Cussegl federal consultescha las cumissiuns cumpetentas davart ils sbozs d’ordinaziuns e da midadas d’ordinaziuns, ch’el decretescha sin basa da l’artitgel 185 alinea 3 da la Constituziun federala u sin basa d’ina autorisaziun legala per dumagnar ina crisa tenor l’agiunta 2. Sch’il sboz cuntegna infurmaziuns ch’èn classifitgadas sco confidenzialas u secretas, na consultescha el betg las cumissiuns cumpetentas, mabain infurmescha la Delegaziun da finanzas e la Delegaziun da las Cumissiuns da gestiun.[^151-1]
+
 <sup>3</sup> Il Cussegl federal infurmescha l’Assamblea federala davart la preparaziun d’ordinaziuns.
+
+[^151-1]: Integrà tras la cifra I da la LF dals 17 da mars 2023 (meglieraziuns dal funcziunament dal Parlament, en spezial en situaziuns da crisa), en vigur dapi ils 4 da dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 152
 
@@ -2569,7 +2656,9 @@ Per la relaziun uffiziala tranter l’Assamblea federala ed ils tribunals da la 
 
 **Aboliziun e midada dal dretg vertent**
 
-L’aboliziun e la midada dal dretg vertent vegnan regladas en l’agiunta.
+L’aboliziun e la midada dal dretg vertent vegnan regladas en l’agiunta[^172-1].
+
+[^172-1]: Ussa: Agiunta 1.
 
 #### Art. 173
 
@@ -2627,13 +2716,14 @@ Per las iniziativas federalas dal pievel ch’èn pendentas il mument che la mid
 
 <sup>2</sup> La Conferenza da coordinaziun fixescha l’entrada en vigur.
 
-<sup>3</sup> Ils artitgels 14, 15 e 61 entran en vigur cun il cumenzament da l’emprima sessiun che suonda la renovaziun totala dal Cussegl naziunal che ha lieu suenter l’entrada en vigur da questa lescha.[^174-1] Il medem mument vegn abolì l’artitgel 18 da la Lescha federala dals 17 da december 1976[^174-2] davart ils dretgs politics (agiunta cifra II 1).
+<sup>3</sup> Ils artitgels 14, 15 e 61 entran en vigur cun il cumenzament da l’emprima sessiun che suonda la renovaziun totala dal Cussegl naziunal che ha lieu suenter l’entrada en vigur da questa lescha.[^174-1] Il medem mument vegn abolì l’artitgel 18 da la Lescha federala dals 17 da december 1976[^174-2] davart ils dretgs politics (agiunta[^174-3] cifra II 1).
 
-Data da l’entrada en vigur: 1. da december 2003[^174-3]
+Data da l’entrada en vigur: 1. da december 2003[^174-4]
 
 [^174-1]: 1. di da la sessiun d’enviern 2007 (3 da dec. 2007).
 [^174-2]: [SR 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
-[^174-3]: Decretà da la Conferenza da coordinaziun da la AF dals 16 da sett. 2002.
+[^174-3]: Ussa: Agiunta 1.
+[^174-4]: Decretà da la Conferenza da coordinaziun da la AF dals 16 da sett. 2002.
 
 ## Disposiziun transitorica da la midada dals 5 d’october 2007
 
@@ -2659,27 +2749,50 @@ Per tractar dumondas per abolir l’immunitad e dumondas sumegliantas ch’èn p
 
 Iniziativas parlamentaras ed iniziativas dals chantuns ch’èn gia vegnidas attribuidas ad ina cumissiun per la predeliberaziun cura che questa midada è entrada en vigur, vegnan regladas tenor il dretg vertent.
 
-Agiunta
+Agiunta 1[^t-1]
 
 (art. 172)
 
 ## Aboliziun e midada dal dretg vertent
 
+[^t-1]: Oriundamain: Agiunta.
+
 I
 
 Ils suandants decrets vegnan abolids:
 
-- 1\. Lescha da garanzia dals 26 da mars 1934[^annexu1-lvlu1-1]
-- 2\. Decret da l’Assamblea federala dals 15 da november 1848[^annexu1-lvlu1-2] concernent il sarament che sto vegnir fatg da las autoritads federalas supremas
-- 3\. Lescha dals 23 da mars 1962[^annexu1-lvlu1-3] davart las relaziuns tranter las chombras. L’artitgel 8<sup>septies</sup> resta en vigur fin che l’artitgel 61 da la Lescha dal parlament vegn mess en vigur (art. 174 al. 3).
+- 1\. Lescha da garanzia dals 26 da mars 1934[^annex1-lvlu1-1]
+- 2\. Decret da l’Assamblea federala dals 15 da november 1848[^annex1-lvlu1-2] concernent il sarament che sto vegnir fatg da las autoritads federalas supremas
+- 3\. Lescha dals 23 da mars 1962[^annex1-lvlu1-3] davart las relaziuns tranter las chombras. L’artitgel 8<sup>septies</sup> resta en vigur fin che l’artitgel 61 da la Lescha dal parlament vegn mess en vigur (art. 174 al. 3).
 
 II
 
 Ils decrets qua sutvart vegnan midads sco suonda:
 
-...[^annexu1-lvlu1-4]
+...[^annex1-lvlu1-4]
 
-[^annexu1-lvlu1-1]: [BS **1** 152; [AS 1962 773](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831)art. 60 al. 2; [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)cifra I 121; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)agiunta cifra I 414; [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)agiunta cifra 3]
-[^annexu1-lvlu1-2]: [BS **1** 461]
-[^annexu1-lvlu1-3]: [[AS 1962 811](https://fedlex.data.admin.ch/eli/oc/1962/811_849_869); [1984 768](https://fedlex.data.admin.ch/eli/oc/1984/768_768_768); [1985 452](https://fedlex.data.admin.ch/eli/oc/1985/452_452_452); [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 16 cifra 3; [1989 257](https://fedlex.data.admin.ch/eli/oc/1989/257_257_257); [1990 1642](https://fedlex.data.admin.ch/eli/oc/1990/1642_1642_1642); [1992 2344](https://fedlex.data.admin.ch/eli/oc/1992/2344_2344_2344); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)]
-[^annexu1-lvlu1-4]: Las midadas pon vegnir consultadas en la [AS 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510).
+[^annex1-lvlu1-1]: [BS **1** 152; [AS 1962 773](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831)art. 60 al. 2; [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)cifra I 121; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)agiunta cifra I 414; [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)agiunta cifra 3]
+[^annex1-lvlu1-2]: [BS **1** 461]
+[^annex1-lvlu1-3]: [[AS 1962 811](https://fedlex.data.admin.ch/eli/oc/1962/811_849_869); [1984 768](https://fedlex.data.admin.ch/eli/oc/1984/768_768_768); [1985 452](https://fedlex.data.admin.ch/eli/oc/1985/452_452_452); [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 16 cifra 3; [1989 257](https://fedlex.data.admin.ch/eli/oc/1989/257_257_257); [1990 1642](https://fedlex.data.admin.ch/eli/oc/1990/1642_1642_1642); [1992 2344](https://fedlex.data.admin.ch/eli/oc/1992/2344_2344_2344); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)]
+[^annex1-lvlu1-4]: Las midadas pon vegnir consultadas en la [AS 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510).
+
+Agiunta 2[^t-2]
+
+(Art. 2 al. 3<sup>bis</sup>, 121 al. 1<sup>ter</sup>, 122 al. 1<sup>bis</sup> e 151 al. 2<sup>bis</sup>)
+
+Las suandantas disposiziuns cuntegnan autorisaziuns legalas per dumagnar ina crisa:
+
+- 1\. artitgel 55 da la Lescha d’asil dals 26 da zercladur 1998[^t-3],
+- 2\. artitgel 62 da la Lescha federala dals 11 d’avrigl 1889[^t-4] davart la scussiun ed il concurs,
+- 3\. artitgels 31–34 da la Lescha dals 17 da zercladur 2016 davart il provediment dal pajais[^t-5],
+- 4\. artitgels 6 e 7 da la Lescha dals 9 d’october 1986[^t-6] davart las tariffas da dazi,
+- 5\. artitgel 48 da la Lescha da telecommunicaziun dals 30 d’avrigl 1997[^t-7],
+- 6\. artitgels 6 e 7 da la Lescha d’epidemias dals 28 da settember 2012[^t-8].
+
+[^t-2]: Integrà tras la cifra II da la LF dals 17 da mars 2023 (meglieraziuns dal funcziunament dal Parlament, en spezial en situaziuns da crisa), en vigur dapi ils 4 da dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^t-3]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^t-4]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^t-5]: [SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^t-6]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^t-7]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^t-8]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)

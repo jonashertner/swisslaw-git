@@ -4,11 +4,11 @@ title: "Legge federale del 13 dicembre 2002 sull'Assemblea federale (Legge sul P
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: it
-version: 2023-09-01
+version: 2023-12-04
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2003-510-20230901-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20231204/it/xml/fedlex-data-admin-ch-eli-cc-2003-510-20231204-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20231204/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20230901/it"
 
 (Legge sul Parlamento, LParl)
 
-del 13 dicembre 2002 (Stato 1° settembre 2023)
+del 13 dicembre 2002 (Stato 4 dicembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -60,10 +60,19 @@ Un quarto dei membri di una Camera o il Consiglio federale possono esigere la co
 - c. elezioni;
 - d. dichiarazioni del Consiglio federale o progetti di dichiarazione del Consiglio nazionale e del Consiglio degli Stati di ugual tenore presentati nelle due Camere.[^2-1]
 
-<sup>4</sup> Di norma le Camere si riuniscono in sessione ordinaria o in sessione straordinaria nel corso delle stesse settimane.[^2-2]
+<sup>3bis</sup>
+
+Le Camere si riuniscono senza indugio in sessione straordinaria quando:
+
+- a. il Consiglio federale ha emanato o modificato un’ordinanza fondandosi sull’articolo 184 capoverso 3 o 185 capoverso 3 della Costituzione federale o su poteri di gestione delle crisi conferiti da una delle basi legali di cui all’allegato 2;
+- b. è iscritto nel ruolo il disegno di un’ordinanza o di un decreto federale semplice secondo l’articolo 173 capoverso 1 lettera c della Costituzione federale o di una legge federale urgente secondo l’articolo 165 della Costituzione federale;
+- c. è stato deciso il differimento o la conclusione anticipata della sessione secondo l’articolo 33*a*.[^2-2]
+
+<sup>4</sup> Di norma le Camere si riuniscono in sessione ordinaria o in sessione straordinaria nel corso delle stesse settimane.[^2-3]
 
 [^2-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), in vigore dal 25 nov. 2013 ([RU 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
-[^2-2]: Introdotto dal n. I della LF del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), in vigore dal 25 nov. 2013 ([RU 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^2-2]: Introdotto dal n. I della LF del 17 mar. 2023 (Miglioramenti del funzionamento del Parlamento, in particolare in situazioni di crisi), in vigore dal 4 dic. 2023 ([RU 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^2-3]: Introdotto dal n. I della LF del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), in vigore dal 25 nov. 2013 ([RU 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 3
 
@@ -407,9 +416,11 @@ Se la necessità dell’autorizzazione secondo gli articoli 17–20 è controver
 
 <sup>2</sup> Può emanare sotto forma di legge federale anche altre disposizioni contenenti norme di diritto o, sempre che autorizzata dalla Costituzione federale o dalla legge, emanarle sotto forma di ordinanza.
 
-<sup>3</sup> Se lo richiedono, le commissioni competenti dell’Assemblea federale vengono consultate prima che il Consiglio federale emani disposizioni contenenti norme di diritto, sempre che l’urgenza delle stesse lo consenta.
+<sup>3</sup> Se lo richiedono, le commissioni competenti dell’Assemblea federale vengono consultate prima che il Consiglio federale emani disposizioni contenenti norme di diritto, sempre che l’urgenza delle stesse lo consenta. I disegni di ordinanze secondo l’articolo 151 capoverso 2<sup>bis</sup> sono in ogni caso sottoposti alle commissioni competenti per consultazione.[^22-1]
 
 <sup>4</sup> Contengono norme di diritto le disposizioni che, in forma direttamente vincolante e in termini generali ed astratti, impongono obblighi, conferiscono diritti o determinano competenze.
+
+[^22-1]: Per. introdotto dal n. I della LF del 17 mar. 2023 (Miglioramenti del funzionamento del Parlamento, in particolare in situazioni di crisi), in vigore dal 4 dic. 2023 ([RU 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 23
 
@@ -556,6 +567,10 @@ Gli organi dell’Assemblea federale sono:
 
 <sup>2</sup> Con decreto federale semplice può decidere di riunirsi eccezionalmente altrove.
 
+<sup>3</sup> Se la riunione in presenza a Berna non è possibile, la Conferenza di coordinamento può decidere che l’Assemblea federale si riunisce altrove.[^32-1]
+
+[^32-1]: Introdotto dal n. I della LF del 17 mar. 2023 (Miglioramenti del funzionamento del Parlamento, in particolare in situazioni di crisi), in vigore dal 4 dic. 2023 ([RU 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+
 #### Art. 33
 
 **Convocazione**
@@ -565,6 +580,16 @@ Gli organi dell’Assemblea federale sono:
 <sup>2</sup> L’Assemblea federale plenaria è convocata dalla Conferenza di coordinamento.
 
 <sup>3</sup> Il presidente del Consiglio nazionale o, se impedito, il presidente del Consiglio degli Stati è tenuto a convocare le Camere se la sicurezza delle autorità federali è in pericolo o se il Consiglio federale non è in grado di agire.
+
+#### Art. 33a
+
+**Differimento o conclusione anticipata di una sessione**[^33a-1]
+
+<sup>1</sup> La decisione di una Camera di differire la sessione o di concluderla anticipatamente richiede il consenso dell’altra Camera.
+
+<sup>2</sup> Se la riunione in presenza delle Camere non è possibile, la Conferenza di coordinamento può decidere di differire la sessione o di concluderla anticipatamente.
+
+[^33a-1]: Introdotto dal n. I della LF del 17 mar. 2023 (Miglioramenti del funzionamento del Parlamento, in particolare in situazioni di crisi), in vigore dal 4 dic. 2023 ([RU 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 ### Capitolo 2: Consiglio nazionale e Consiglio degli Stati
 
@@ -602,7 +627,7 @@ La Conferenza di coordinamento ha i compiti seguenti:
 
 - a.[^37-1] stabilisce le settimane in cui si svolgono le sessioni ordinarie e le sessioni straordinarie;
 - b. cura le relazioni tra le due Camere e tra queste e il Consiglio federale;
-- c. può impartire istruzioni per l’assegnazione di personale e di mezzi finanziari agli organi dell’Assemblea federale;
+- c.[^37-2] ...
 - d. elegge il segretario generale dell’Assemblea federale. L’elezione va confermata dall’Assemblea federale plenaria;
 - e. approva la costituzione di nuovi gruppi parlamentari secondo i criteri di cui all’articolo 61.
 
@@ -610,10 +635,11 @@ La Conferenza di coordinamento ha i compiti seguenti:
 
 <sup>4</sup> Le decisioni della Conferenza di coordinamento richiedono l’approvazione degli Uffici del Consiglio nazionale e del Consiglio degli Stati. L’elezione secondo il capoverso 2 lettera d avviene a maggioranza assoluta dei membri votanti.
 
-<sup>5</sup> ...[^37-2]
+<sup>5</sup> ...[^37-3]
 
 [^37-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), in vigore dal 25 nov. 2013 ([RU 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
-[^37-2]: Abrogato dal n. I della LF del 15 giu. 2018, con effetto dal 26 nov. 2018 ([RU 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 5807](https://fedlex.data.admin.ch/eli/fga/2017/1995)[5873](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^37-2]: Abrogata dal n. I della LF del 17 mar. 2023 (Miglioramenti del funzionamento del Parlamento, in particolare in situazioni di crisi), con effetto dal 4 dic. 2023 ([RU 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^37-3]: Abrogato dal n. I della LF del 15 giu. 2018, con effetto dal 26 nov. 2018 ([RU 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 5807](https://fedlex.data.admin.ch/eli/fga/2017/1995)[5873](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 38
 
@@ -621,9 +647,11 @@ La Conferenza di coordinamento ha i compiti seguenti:
 
 <sup>1</sup> La Delegazione amministrativa consta di tre membri di ciascun Ufficio delle Camere nominati dalla Conferenza di coordinamento. Essa designa un proprio membro in veste di delegato. Si costituisce da sé.
 
-<sup>2</sup> La Delegazione amministrativa è incaricata della direzione suprema dell’amministrazione parlamentare.
+<sup>2</sup> La Delegazione amministrativa è incaricata della direzione suprema dell’amministrazione parlamentare. Nei limiti delle sue competenze concernenti il progetto di preventivo dell’Assemblea federale assicura in particolare che l’Assemblea federale e i suoi organi dispongano delle necessarie risorse e infrastrutture. Può emanare istruzioni per l’assegnazione di personale e mezzi finanziari.[^38-1]
 
 <sup>3</sup> Le sue decisioni sono prese a maggioranza dei membri votanti.
+
+[^38-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Miglioramenti del funzionamento del Parlamento, in particolare in situazioni di crisi), in vigore dal 4 dic. 2023 ([RU 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 ### Capitolo 3: Assemblea federale plenaria
 
@@ -753,6 +781,40 @@ Per l’adempimento dei loro compiti, le commissioni possono:
 - d. procedere ad ispezioni.
 
 <sup>2</sup> Le commissioni possono istituire al proprio interno sottocommissioni. Le sottocommissioni presentano rapporto alla commissione corredandolo di una proposta. Più commissioni possono istituire sottocommissioni congiunte.
+
+#### Art. 45a
+
+**Sedute**[^45a-1]
+
+<sup>1</sup> Le sedute delle commissioni si svolgono di norma secondo una pianificazione annuale.
+
+<sup>2</sup> Il presidente può stralciare sedute o prevederne di nuove. Sono fatte salve decisioni contrarie della commissione.
+
+<sup>3</sup> Tra le sedute ordinarie la commissione si riunisce se la maggioranza dei suoi membri approva mediante circolazione degli atti una proposta inerente a un oggetto la cui trattazione è urgente.
+
+[^45a-1]: Introdotto dal n. I della LF del 17 mar. 2023 (Miglioramenti del funzionamento del Parlamento, in particolare in situazioni di crisi), in vigore dal 4 dic. 2023 ([RU 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+
+#### Art. 45b
+
+**Sedute in linea**[^45b-1]
+
+<sup>1</sup>
+
+La commissione può svolgere le sue sedute in linea se:
+
+- a. non può riunirsi in presenza; o
+- b. deve prendere decisioni di carattere urgente o procedurale.
+
+<sup>2</sup> Una seduta può essere svolta in linea soltanto se il presidente e la maggioranza dei membri della commissione hanno approvato questa modalità mediante circolazione degli atti.
+
+<sup>3</sup>
+
+Le persone seguenti possono partecipare in linea a una seduta della commissione che si svolge in presenza:
+
+- a. i membri della commissione che non possono legalmente farsi rappresentare da un supplente;
+- b. i partecipanti ad audizioni secondo l’articolo 45 capoverso 1 lettere b e c.
+
+[^45b-1]: Introdotto dal n. I della LF del 17 mar. 2023 (Miglioramenti del funzionamento del Parlamento, in particolare in situazioni di crisi), in vigore dal 4 dic. 2023 ([RU 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 46
 
@@ -1613,11 +1675,14 @@ L’iter di un’iniziativa parlamentare è considerato appropriato segnatamente
 
 <sup>3</sup> Trasmette il suo rapporto e il suo progetto di atto legislativo che sottopone alla Camera simultaneamente al Consiglio federale, invitandolo ad esprimere il proprio parere entro congruo termine; sono fatte salve le modifiche di carattere organizzativo o procedurale dell’Assemblea federale che non sono stabilite nella legge e non concernono direttamente il Consiglio federale.[^112-3]
 
+<sup>3bis</sup> Se si tratta di un progetto di atto legislativo secondo l’articolo 165 o 173 capoverso 1 lettera c della Costituzione federale, la commissione può fissare il termine impartito al Consiglio federale in modo tale che sia possibile trattare il progetto nella successiva sessione ordinaria o straordinaria.[^112-4]
+
 <sup>4</sup> Se il Consiglio federale propone una modifica, la commissione la esamina prima della trattazione del progetto nella Camera prioritaria.
 
 [^112-1]: [RS 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)
 [^112-2]: Nuovo testo giusta l’art. 12 n. 1 della L del 18 mar. 2005 sulla consultazione, in vigore dal 1° set. 2005 ([RU 2005 4099](https://fedlex.data.admin.ch/eli/oc/2005/542); [FF 2004 453](https://fedlex.data.admin.ch/eli/fga/2004/127)).
 [^112-3]: Nuovo testo giusta il n. I della LF del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), in vigore dal 25 nov. 2013 ([RU 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^112-4]: Introdotto dal n. I della LF del 17 mar. 2023 (Miglioramenti del funzionamento del Parlamento, in particolare in situazioni di crisi), in vigore dal 4 dic. 2023 ([RU 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 113
 
@@ -1755,6 +1820,10 @@ Un intervento di un parlamentare o di un gruppo parlamentare è tolto dal ruolo 
 
 <sup>1</sup> Il Consiglio federale si pronuncia di norma pro o contro una mozione al più tardi entro l’inizio della sessione ordinaria successiva alla sua presentazione. Se si tratta di una mozione di commissione presentata meno di un mese prima dell’inizio della sessione ordinaria seguente, si pronuncia pro o contro la mozione al più tardi entro l’inizio della sessione successiva.
 
+<sup>1bis</sup> Se mozioni di ugual tenore di commissioni delle due Camere sono presentate al più tardi una settimana prima della successiva sessione ordinaria o straordinaria, il Consiglio federale si pronuncia pro o contro la mozione prima della trattazione della stessa durante tale sessione.[^121-2]
+
+<sup>1ter</sup> Le mozioni di commissione che incaricano il Consiglio federale di emanare o modificare un’ordinanza poggiante sull’articolo 184 capoverso 3 o 185 capoverso 3 della Costituzione federale o su poteri di gestione delle crisi conferiti da una delle basi legali di cui all’allegato 2 sono iscritte all’ordine del giorno dell’eventuale sessione in corso o, al più tardi, della sessione successiva, sia essa ordinaria o straordinaria. Il Consiglio federale si pronuncia pro o contro la mozione per scritto o a voce.[^121-3]
+
 <sup>2</sup> La mozione rifiutata da una Camera è considerata liquidata. Se è accolta dalla Camera in cui è stata presentata, la mozione passa all’altra Camera.
 
 <sup>3</sup>
@@ -1770,9 +1839,9 @@ Se la seconda Camera procede a una modifica, in seconda lettura la Camera priori
 
 - a. acconsentire alla modifica;
 - b. confermare la propria decisione di accogliere la mozione nella sua versione iniziale; o
-- c. respingere definitivamente la mozione.[^121-2]
+- c. respingere definitivamente la mozione.[^121-4]
 
-<sup>4bis</sup> Se la Camera prioritaria conferma in seconda lettura la propria decisione di accogliere la mozione nella sua versione iniziale, la seconda Camera può aderire a tale decisione o respingere definitivamente la mozione. [^121-3]
+<sup>4bis</sup> Se la Camera prioritaria conferma in seconda lettura la propria decisione di accogliere la mozione nella sua versione iniziale, la seconda Camera può aderire a tale decisione o respingere definitivamente la mozione. [^121-5]
 
 <sup>5</sup>
 
@@ -1782,14 +1851,25 @@ Una mozione accolta dalla Camera prioritaria è accolta definitivamente senza es
 - b. se si tratta di una mozione di commissione e una mozione di commissione di ugual tenore è accolta dalla seconda Camera.
 
 [^121-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2008 (Diritto parlamentare. Diverse modifiche), in vigore dal 2 mar. 2009 ([RU 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1593](https://fedlex.data.admin.ch/eli/fga/2008/423)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^121-2]: Nuovo testo giusta il n. I della LF del 18 giu. 2021 (Procedura di appianamento delle divergenze per le mozioni), in vigore dal 1° nov. 2021 ([RU 2021 612](https://fedlex.data.admin.ch/eli/oc/2021/612); [FF 2020 8149](https://fedlex.data.admin.ch/eli/fga/2020/2508); [2021 138](https://fedlex.data.admin.ch/eli/fga/2021/138)).
-[^121-3]: Introdotto dal n. I della LF del 18 giu. 2021 (Procedura di appianamento delle divergenze per le mozioni), in vigore dal 1° nov. 2021 ([RU 2021 612](https://fedlex.data.admin.ch/eli/oc/2021/612); [FF 2020 8149](https://fedlex.data.admin.ch/eli/fga/2020/2508); [2021 138](https://fedlex.data.admin.ch/eli/fga/2021/138)).
+[^121-2]: Introdotto dal n. I della LF del 17 mar. 2023 (Miglioramenti del funzionamento del Parlamento, in particolare in situazioni di crisi), in vigore dal 4 dic. 2023 ([RU 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^121-3]: Introdotto dal n. I della LF del 17 mar. 2023 (Miglioramenti del funzionamento del Parlamento, in particolare in situazioni di crisi), in vigore dal 4 dic. 2023 ([RU 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^121-4]: Nuovo testo giusta il n. I della LF del 18 giu. 2021 (Procedura di appianamento delle divergenze per le mozioni), in vigore dal 1° nov. 2021 ([RU 2021 612](https://fedlex.data.admin.ch/eli/oc/2021/612); [FF 2020 8149](https://fedlex.data.admin.ch/eli/fga/2020/2508); [2021 138](https://fedlex.data.admin.ch/eli/fga/2021/138)).
+[^121-5]: Introdotto dal n. I della LF del 18 giu. 2021 (Procedura di appianamento delle divergenze per le mozioni), in vigore dal 1° nov. 2021 ([RU 2021 612](https://fedlex.data.admin.ch/eli/oc/2021/612); [FF 2020 8149](https://fedlex.data.admin.ch/eli/fga/2020/2508); [2021 138](https://fedlex.data.admin.ch/eli/fga/2021/138)).
 
 #### Art. 122
 
 **Trattazione delle mozioni accolte**[^122-1]
 
-<sup>1</sup> Se una mozione non è ancora adempiuta dopo due anni, il Consiglio federale riferisce annualmente all’Assemblea federale su quanto ha intrapreso per l’adempimento del mandato e su come intenda adempierlo. Questo rapporto è trasmesso alle commissioni competenti.
+<sup>1</sup> Se una mozione non è ancora adempiuta dopo due anni, il Consiglio federale riferisce annualmente all’Assemblea federale su quanto ha intrapreso per l’adempimento del mandato e su come intenda adempierlo.[^122-2]
+
+<sup>1bis</sup>
+
+Il Consiglio federale riferisce senza indugio se:
+
+- a. una mozione di commissione che incarica il Consiglio federale di modificare un’ordinanza del Consiglio federale in vigore da non più di un anno o di modificare un disegno d’ordinanza del Consiglio federale non è ancora adempiuta dopo sei mesi; oppure
+- b. una mozione di commissione che incarica il Consiglio federale di emanare o di modificare un’ordinanza poggiante sull’articolo 184 capoverso 3 o 185 capoverso 3 della Costituzione federale o su poteri di gestione delle crisi conferiti da una delle basi legali di cui all’allegato 2 non è ancora adempiuta allo scadere del termine impartito al Consiglio federale nel testo della mozione per presentare rapporto.[^122-3]
+
+<sup>1ter</sup> Il rapporto del Consiglio federale è trasmesso alle commissioni competenti.[^122-4]
 
 <sup>2</sup> Una commissione o il Consiglio federale propone di togliere dal ruolo le mozioni che risultano adempiute. La proposta è indirizzata alle due Camere, tranne che la mozione si riferisca a questioni organizzative e procedurali di una singola Camera.
 
@@ -1807,6 +1887,9 @@ Lo stralcio dal ruolo può essere proposto anche qualora non sia più giustifica
 <sup>6</sup> Qualora il Consiglio federale non rispetti il termine fissato, nel corso della successiva sessione ordinaria le due Camere decidono, su proposta delle commissioni competenti, se prorogare nuovamente il termine o togliere dal ruolo la mozione.
 
 [^122-1]: Nuovo testo giusta il n. I della LF del 5 ott. 2007 (Effetto vincolante della mozione), in vigore dal 26 mag. 2008 ([RU 2008 2113](https://fedlex.data.admin.ch/eli/oc/2008/303); [FF 2007 1359](https://fedlex.data.admin.ch/eli/fga/2007/198)[1969](https://fedlex.data.admin.ch/eli/fga/2007/329)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
+[^122-2]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Miglioramenti del funzionamento del Parlamento, in particolare in situazioni di crisi), in vigore dal 4 dic. 2023 ([RU 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^122-3]: Introdotto dal n. I della LF del 17 mar. 2023 (Miglioramenti del funzionamento del Parlamento, in particolare in situazioni di crisi), in vigore dal 4 dic. 2023 ([RU 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^122-4]: Introdotto dal n. I della LF del 17 mar. 2023 (Miglioramenti del funzionamento del Parlamento, in particolare in situazioni di crisi), in vigore dal 4 dic. 2023 ([RU 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 ### Sezione 3: Postulato
 
@@ -2278,7 +2361,11 @@ Le commissioni e le sottocommissioni non hanno diritto di esigere informazioni:
 
 <sup>2</sup> Se un’ordinanza dev’essere emanata o modificata immediatamente a complemento di un atto legislativo dell’Assemblea federale, nel voto sul complesso dell’atto legislativo la commissione decide se intenda essere consultata.
 
+<sup>2bis</sup> Il Consiglio federale consulta le commissioni competenti sui disegni d’ordinanza e di modifiche d’ordinanza che emana fondandosi sull’articolo 185 capoverso 3 della Costituzione federale o su poteri di gestione delle crisi conferiti da una delle basi legali di cui all’allegato 2. Se il disegno contiene informazioni classificate come confidenziali o segrete, invece di consultare le commissioni competenti il Consiglio federale informa la Delegazione delle finanze e la Delegazione delle Commissioni della gestione.[^151-1]
+
 <sup>3</sup> Il Consiglio federale informa l’Assemblea federale sulla preparazione di ordinanze.
+
+[^151-1]: Introdotto dal n. I della LF del 17 mar. 2023 (Miglioramenti del funzionamento del Parlamento, in particolare in situazioni di crisi), in vigore dal 4 dic. 2023 ([RU 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 152
 
@@ -2589,7 +2676,9 @@ Le relazioni di servizio tra l’Assemblea federale e i tribunali della Confeder
 
 **Abrogazione e modificazione del diritto vigente**
 
-L’abrogazione e la modificazione del diritto vigente sono disciplinate nell’allegato.
+L’abrogazione e la modificazione del diritto vigente sono disciplinate nell’allegato[^172-1].
+
+[^172-1]: Ora: allegato 1
 
 #### Art. 173
 
@@ -2647,13 +2736,14 @@ Alle iniziative popolari federali pendenti al momento dell’entrata in vigore d
 
 <sup>2</sup> La Conferenza di coordinamento ne determina l’entrata in vigore.
 
-<sup>3</sup> Gli articoli 14, 15 e 61 entrano in vigore all’inizio della prima sessione che segue il rinnovo integrale del Consiglio nazionale successivo all’entrata in vigore della presente legge[^174-1]. Allo stesso momento è abrogato l’articolo 18 della legge federale del 17 dicembre 1976[^174-2] sui diritti politici (allegato n. II 1).
+<sup>3</sup> Gli articoli 14, 15 e 61 entrano in vigore all’inizio della prima sessione che segue il rinnovo integrale del Consiglio nazionale successivo all’entrata in vigore della presente legge[^174-1]. Allo stesso momento è abrogato l’articolo 18 della legge federale del 17 dicembre 1976[^174-2] sui diritti politici (allegato[^174-3] n. II 1).
 
-Data dell’entrata in vigore: 1° dicembre 2003[^174-3]
+Data dell’entrata in vigore: 1° dicembre 2003[^174-4]
 
 [^174-1]: I° giorno della sessione invernale del 2007, il 3 dic. 2007.
 [^174-2]: [RS 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
-[^174-3]: Dec. della Conferenza di coordinazione dell’AF del 16 set. 2002.
+[^174-3]: Ora: allegato 1
+[^174-4]: Dec. della Conferenza di coordinazione dell’AF del 16 set. 2002.
 
 ## Disposizione transitoria della modifica del 5 ottobre 2007
 
@@ -2679,27 +2769,50 @@ Alla trattazione delle richieste di soppressione dell’immunità e richieste an
 
 Le iniziative parlamentari e iniziative cantonali che al momento dell’entrata in vigore della presente modifica sono già state attribuite a una commissione per esame preliminare sono rette dal diritto anteriore.
 
-Allegato
+Allegato 1[^t-1]
 
 (art. 172)
 
 ## Abrogazione e modifica del diritto vigente
 
+[^t-1]: Originario: allegato
+
 I
 
 Sono abrogate:
 
-- 1\. la legge federale del 26 marzo 1934[^annexu1-lvlu1-1] sulle garanzie;
-- 2\. la risoluzione federale del 15 novembre 1848[^annexu1-lvlu1-2] sul giuramento da prestarsi dalle supreme autorità federali;
-- 3\. la legge del 23 marzo 1962[^annexu1-lvlu1-3] sui rapporti fra i Consigli. L’articolo 8<sup>septies</sup> conserva la sua vigenza fino all’entrata in vigore dell’articolo 61 della legge sul Parlamento (art. 174 cpv. 3).
+- 1\. la legge federale del 26 marzo 1934[^annex1-lvlu1-1] sulle garanzie;
+- 2\. la risoluzione federale del 15 novembre 1848[^annex1-lvlu1-2] sul giuramento da prestarsi dalle supreme autorità federali;
+- 3\. la legge del 23 marzo 1962[^annex1-lvlu1-3] sui rapporti fra i Consigli. L’articolo 8<sup>septies</sup> conserva la sua vigenza fino all’entrata in vigore dell’articolo 61 della legge sul Parlamento (art. 174 cpv. 3).
 
 II
 
 Le leggi qui appresso sono modificate come segue:
 
-...[^annexu1-lvlu1-4]
+...[^annex1-lvlu1-4]
 
-[^annexu1-lvlu1-1]: [CS **1** 148; [RU 1962 831](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831)art. 60 cpv. 2; [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)n. I 121; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)all. n. I, [414](https://fedlex.data.admin.ch/eli/oc/2000/91); [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)all. n.3].
-[^annexu1-lvlu1-2]: [CS **1** 431]
-[^annexu1-lvlu1-3]: [[RU 1962 831](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831); [1966 1363](https://fedlex.data.admin.ch/eli/oc/1966/1325_1375_1363), [1753](https://fedlex.data.admin.ch/eli/oc/1966/__1753); [1970 1249](https://fedlex.data.admin.ch/eli/oc/1970/1253_1249_1249), [1972 245](https://fedlex.data.admin.ch/eli/oc/1972/241_245_245), [1686](https://fedlex.data.admin.ch/eli/oc/1972/1486_1514_1686); [1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)II n. 1; [1978 570](https://fedlex.data.admin.ch/eli/oc/1978/__570), [688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 n. 2; [1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)art. 66, [679](https://fedlex.data.admin.ch/eli/oc/1979/679_679_679), [1318](https://fedlex.data.admin.ch/eli/oc/1979/1318_1318_1318); [1984 768](https://fedlex.data.admin.ch/eli/oc/1984/768_768_768); [1985 452](https://fedlex.data.admin.ch/eli/oc/1985/452_452_452); [1986 1712](https://fedlex.data.admin.ch/eli/oc/1986/1712_1712_1712); [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 16 n. 3; [1989 257](https://fedlex.data.admin.ch/eli/oc/1989/257_257_257), [260](https://fedlex.data.admin.ch/eli/oc/1989/260_260_260); [1990 1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530), [1642](https://fedlex.data.admin.ch/eli/oc/1990/1642_1642_1642); [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 1; [1992 641](https://fedlex.data.admin.ch/eli/oc/1992/641_641_641), [2344](https://fedlex.data.admin.ch/eli/oc/1992/2344_2344_2344); [1994 360](https://fedlex.data.admin.ch/eli/oc/1994/360_360_360), [2147](https://fedlex.data.admin.ch/eli/oc/1994/2147_2147_2147); [1995 4840](https://fedlex.data.admin.ch/eli/oc/1995/4840_4840_4840); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)all. n. 1, [2868](https://fedlex.data.admin.ch/eli/oc/1996/2868_2868_2868); [1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753), [760](https://fedlex.data.admin.ch/eli/oc/1997/760_760_760)art. 1, [2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)all. n. 4; [1998 646](https://fedlex.data.admin.ch/eli/oc/1998/646_646_646), [1418](https://fedlex.data.admin.ch/eli/oc/1998/1418_1418_1418), [2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 8; [1999 468](https://fedlex.data.admin.ch/eli/oc/1999/61); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54), [2093](https://fedlex.data.admin.ch/eli/oc/2000/317); [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)n. I 1; [2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510)all. n. 1; [2003 2119](https://fedlex.data.admin.ch/eli/oc/2003/310). [RU 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510)all. n. I 3].
-[^annexu1-lvlu1-4]: Le mod. possono essere consultate alla [RU 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510).
+[^annex1-lvlu1-1]: [CS **1** 148; [RU 1962 831](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831)art. 60 cpv. 2; [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)n. I 121; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)all. n. I, [414](https://fedlex.data.admin.ch/eli/oc/2000/91); [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)all. n.3].
+[^annex1-lvlu1-2]: [CS **1** 431]
+[^annex1-lvlu1-3]: [[RU 1962 831](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831); [1966 1363](https://fedlex.data.admin.ch/eli/oc/1966/1325_1375_1363), [1753](https://fedlex.data.admin.ch/eli/oc/1966/__1753); [1970 1249](https://fedlex.data.admin.ch/eli/oc/1970/1253_1249_1249); [1972 245](https://fedlex.data.admin.ch/eli/oc/1972/241_245_245), [1686](https://fedlex.data.admin.ch/eli/oc/1972/1486_1514_1686); [1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)II n. 1; [1978 570](https://fedlex.data.admin.ch/eli/oc/1978/__570), [688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 n. 2; [1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)art. 66, [679](https://fedlex.data.admin.ch/eli/oc/1979/679_679_679), [1318](https://fedlex.data.admin.ch/eli/oc/1979/1318_1318_1318); [1984 768](https://fedlex.data.admin.ch/eli/oc/1984/768_768_768); [1985 452](https://fedlex.data.admin.ch/eli/oc/1985/452_452_452); [1986 1712](https://fedlex.data.admin.ch/eli/oc/1986/1712_1712_1712); [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 16 n. 3; [1989 257](https://fedlex.data.admin.ch/eli/oc/1989/257_257_257), [260](https://fedlex.data.admin.ch/eli/oc/1989/260_260_260); [1990 1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530), [1642](https://fedlex.data.admin.ch/eli/oc/1990/1642_1642_1642); [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 1; [1992 641](https://fedlex.data.admin.ch/eli/oc/1992/641_641_641), [2344](https://fedlex.data.admin.ch/eli/oc/1992/2344_2344_2344); [1994 360](https://fedlex.data.admin.ch/eli/oc/1994/360_360_360), [2147](https://fedlex.data.admin.ch/eli/oc/1994/2147_2147_2147); [1995 4840](https://fedlex.data.admin.ch/eli/oc/1995/4840_4840_4840); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)all. n. 1, [2868](https://fedlex.data.admin.ch/eli/oc/1996/2868_2868_2868); [1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753), [760](https://fedlex.data.admin.ch/eli/oc/1997/760_760_760)art. 1, [2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)all. n. 4; [1998 646](https://fedlex.data.admin.ch/eli/oc/1998/646_646_646), [1418](https://fedlex.data.admin.ch/eli/oc/1998/1418_1418_1418), [2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 8; [1999 468](https://fedlex.data.admin.ch/eli/oc/1999/61); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54), [2093](https://fedlex.data.admin.ch/eli/oc/2000/317); [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)n. I 1; [2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510)all. n. 1; [2003 2119](https://fedlex.data.admin.ch/eli/oc/2003/310). [RU 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510)all. n. I 3].
+[^annex1-lvlu1-4]: Le mod. possono essere consultate alla [RU 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510).
+
+Allegato 2[^t-2]
+
+(art. 2 cpv. 3<sup>bis</sup>, 121 cpv. 1<sup>ter</sup>, 122 cpv. 1<sup>bis</sup> e 151 cpv. 2<sup>bis</sup>)
+
+Le disposizioni seguenti conferiscono poteri di gestione delle crisi:
+
+- 1\. l’articolo 55 della legge del 26 giugno 1998[^t-3] sull’asilo,
+- 2\. l’articolo 62 della legge federale dell’11 aprile 1889[^t-4] sulla esecuzione e sul fallimento,
+- 3\. gli articoli 31–34 della legge del 17 giugno 2016[^t-5] sull’approvvigionamento del Paese,
+- 4\. gli articoli 6 e 7 della legge del 9 ottobre 1986[^t-6] sulla tariffa delle dogane,
+- 5\. l’articolo 48 della legge del 30 aprile 1997[^t-7] sulle telecomunicazioni,
+- 6\. gli articoli 6 e 7 della legge del 28 settembre 2012[^t-8] sulle epidemie.
+
+[^t-2]: Introdotto dal n. II della LF del 17 mar. 2023 (Miglioramenti del funzionamento del Parlamento, in particolare in situazioni di crisi), in vigore dal 4 dic. 2023 ([RU 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^t-3]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^t-4]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^t-5]: [RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^t-6]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^t-7]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^t-8]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)

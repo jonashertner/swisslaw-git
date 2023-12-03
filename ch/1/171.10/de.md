@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 13. Dezember 2002 über die Bundesversammlung (Parlamen
 short: ParlG
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: de
-version: 2023-09-01
+version: 2023-12-04
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2003-510-20230901-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20231204/de/xml/fedlex-data-admin-ch-eli-cc-2003-510-20231204-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20231204/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20230901/de"
 
 (Parlamentsgesetz, ParlG)
 
-vom 13. Dezember 2002 (Stand am 1. September 2023)
+vom 13. Dezember 2002 (Stand am 4. Dezember 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -60,10 +60,19 @@ Ein Viertel der Mitglieder eines Rates oder der Bundesrat können die Einberufun
 - c. Wahlen;
 - d. Erklärungen des Bundesrates oder in beiden Räten eingereichte gleich lautende Entwürfe für Erklärungen des Nationalrates und des Ständerates.[^2-1]
 
-<sup>4</sup> Eine ordentliche oder eine ausserordentliche Session findet in beiden Räten in der Regel in denselben Kalenderwochen statt.[^2-2]
+<sup>3bis</sup>
+
+Die ausserordentliche Session findet unverzüglich statt, wenn:
+
+- a. der Bundesrat eine Verordnung erlassen oder geändert hat, die sich auf Artikel 184 Absatz 3 oder 185 Absatz 3 der Bundesverfassung oder auf eine gesetzliche Ermächtigung zur Bewältigung einer Krise nach Anhang 2 stützt;
+- b. der Entwurf für eine Verordnung oder für einen einfachen Bundesbeschluss nach Artikel 173 Absatz 1 Buchstabe c der Bundesverfassung oder für ein dringliches Bundesgesetz nach Artikel 165 der Bundesverfassung anhängig gemacht wird;
+- c. die Verschiebung oder vorzeitige Beendigung der Session nach Artikel 33*a* beschlossen wurde.[^2-2]
+
+<sup>4</sup> Eine ordentliche oder eine ausserordentliche Session findet in beiden Räten in der Regel in denselben Kalenderwochen statt.[^2-3]
 
 [^2-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
-[^2-2]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^2-2]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), in Kraft seit 4. Dez. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^2-3]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 3
 
@@ -402,9 +411,11 @@ Ist streitig, ob eine Ermächtigung nach den Artikeln 17–20 erforderlich sei, 
 
 <sup>2</sup> Sie kann weitere rechtsetzende Bestimmungen in der Form des Bundesgesetzes oder, soweit sie durch Bundesverfassung oder Gesetz dazu ermächtigt ist, in der Form der Verordnung der Bundesversammlung erlassen.
 
-<sup>3</sup> Die zuständigen Kommissionen der Bundesversammlung werden auf Verlangen vor dem Erlass von rechtsetzenden Bestimmungen des Bundesrates konsultiert, sofern die Dringlichkeit der Verordnung es zulässt.
+<sup>3</sup> Die zuständigen Kommissionen der Bundesversammlung werden auf Verlangen vor dem Erlass von rechtsetzenden Bestimmungen des Bundesrates konsultiert, sofern die Dringlichkeit der Verordnung es zulässt. Entwürfe für Verordnungen nach Artikel 151 Absatz 2<sup>bis</sup> sind auf jeden Fall den zuständigen Kommissionen zur Konsultation zu unterbreiten.[^22-1]
 
 <sup>4</sup> Als rechtsetzend gelten Bestimmungen, die in unmittelbar verbindlicher und generell-abstrakter Weise Pflichten auferlegen, Rechte verleihen oder Zuständigkeiten festlegen.
+
+[^22-1]: Zweiter Satz eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), in Kraft seit 4. Dez. 2023 (AS **2023** 483; BBl **2022** 301, 433).
 
 #### Art. 23
 
@@ -551,6 +562,10 @@ Die Organe der Bundesversammlung sind:
 
 <sup>2</sup> Sie kann mit einfachem Bundesbeschluss beschliessen, ausnahmsweise an einem anderen Ort zu tagen.
 
+<sup>3</sup> Ist ein Zusammentreten in Bern nicht möglich, so kann die Koordinationskonferenz beschliessen, dass die Bundesversammlung an einem anderen Ort tagt.[^32-1]
+
+[^32-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), in Kraft seit 4. Dez. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+
 #### Art. 33
 
 **Einberufung**
@@ -560,6 +575,16 @@ Die Organe der Bundesversammlung sind:
 <sup>2</sup> Die Vereinigte Bundesversammlung wird von der Koordinationskonferenz einberufen.
 
 <sup>3</sup> Die Präsidentin oder der Präsident des Nationalrates oder, im Verhinderungsfall, die Präsidentin oder der Präsident des Ständerates ist verpflichtet, die Räte einzuberufen, wenn die Sicherheit der Bundesbehörden gefährdet ist oder der Bundesrat nicht in der Lage ist zu handeln.
+
+#### Art. 33a
+
+**Verschiebung oder vorzeitige Beendigung einer Session**[^33a-1]
+
+<sup>1</sup> Der Beschluss eines Rates, die Session zu verschieben oder vorzeitig zu beenden, bedarf der Zustimmung des anderen Rates.
+
+<sup>2</sup> Ist ein physisches Zusammentreten nicht möglich, kann die Koordinationskonferenz beschliessen, die Session zu verschieben oder vorzeitig zu beenden.
+
+[^33a-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), in Kraft seit 4. Dez. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 ### 2. Kapitel: Nationalrat und Ständerat
 
@@ -597,7 +622,7 @@ Die Koordinationskonferenz hat folgende Aufgaben:
 
 - a.[^37-1] Sie legt fest, in welchen Kalenderwochen die ordentlichen und die ausserordentlichen Sessionen stattfinden.
 - b. Sie sorgt für den Geschäftsverkehr zwischen den beiden Räten und zwischen diesen und dem Bundesrat.
-- c. Sie kann Weisungen erlassen über die Zuteilung der personellen und finanziellen Mittel an die Organe der Bundesversammlung.
+- c.[^37-2] …
 - d. Sie wählt die Generalsekretärin oder den Generalsekretär der Bundesversammlung. Die Wahl bedarf der Bestätigung durch die Vereinigte Bundesversammlung.
 - e. Sie genehmigt nach den in Artikel 61 genannten Kriterien die Bildung neuer Fraktionen.
 
@@ -605,10 +630,11 @@ Die Koordinationskonferenz hat folgende Aufgaben:
 
 <sup>4</sup> Die Beschlüsse der Koordinationskonferenz bedürfen der Zustimmung der Büros des Nationalrates und des Ständerates. Die Wahl nach Absatz 2 Buchstabe d erfolgt mit der absoluten Mehrheit der stimmenden Mitglieder.
 
-<sup>5</sup> …[^37-2]
+<sup>5</sup> …[^37-3]
 
 [^37-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
-[^37-2]: Aufgehoben durch Ziff. I des BG vom 15. Juni 2018, mit Wirkung seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^37-2]: Aufgehoben durch Ziff. I des BG vom 17. März 2023 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen mit Wirkung seit 4. Dez. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^37-3]: Aufgehoben durch Ziff. I des BG vom 15. Juni 2018, mit Wirkung seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 38
 
@@ -616,9 +642,11 @@ Die Koordinationskonferenz hat folgende Aufgaben:
 
 <sup>1</sup> Die Verwaltungsdelegation besteht aus je drei von der Koordinationskonferenz gewählten Mitgliedern der Büros beider Räte. Die Verwaltungsdelegation bezeichnet eines ihrer Mitglieder als Delegierte oder als Delegierten. Sie konstituiert sich selbst.
 
-<sup>2</sup> Der Verwaltungsdelegation obliegt die oberste Leitung der Parlamentsverwaltung.
+<sup>2</sup> Der Verwaltungsdelegation obliegt die oberste Leitung der Parlamentsverwaltung. Im Rahmen ihrer Zuständigkeiten für den Entwurf des Voranschlags der Bundesversammlung stellt sie insbesondere sicher, dass die Bundesversammlung und ihre Organe über die nötigen Ressourcen und Infrastrukturen verfügen. Sie kann Weisungen erlassen über die Zuteilung der personellen und finanziellen Mittel.[^38-1]
 
 <sup>3</sup> Die Verwaltungsdelegation beschliesst mit der Mehrheit der stimmenden Mitglieder.
+
+[^38-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), in Kraft seit 4. Dez. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 ### 3. Kapitel: Vereinigte Bundesversammlung
 
@@ -748,6 +776,40 @@ Die Kommissionen können zur Erfüllung ihrer Aufgaben:
 - d. Besichtigungen vornehmen.
 
 <sup>2</sup> Die Kommissionen können aus ihrer Mitte Subkommissionen einsetzen. Diese erstatten der Kommission Bericht und stellen Antrag. Mehrere Kommissionen können gemeinsame Subkommissionen einsetzen.
+
+#### Art. 45a
+
+**Sitzungen**[^45a-1]
+
+<sup>1</sup> Die Sitzungen der Kommissionen finden in der Regel gemäss einer Jahressitzungsplanung statt.
+
+<sup>2</sup> Die Präsidentin oder der Präsident kann Sitzungen streichen oder zusätzliche Sitzungen festlegen. Anderslautende Beschlüsse der Kommission bleiben vorbehalten.
+
+<sup>3</sup> Zwischen den ordentlichen Sitzungen wird die Kommission an einem nicht vorgesehenen Sitzungstag einberufen, wenn die Mehrheit der Kommissionsmitglieder im Zirkularverfahren einem entsprechenden Antrag zugestimmt hat, in welchem ein Beratungsgegenstand bezeichnet wird, dessen Behandlung zeitlich dringlich ist.
+
+[^45a-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), in Kraft seit 4. Dez. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+
+#### Art. 45b
+
+**Virtuelle Sitzungen**[^45b-1]
+
+<sup>1</sup>
+
+Die Kommissionen können ihre Sitzungen virtuell durchführen, wenn:
+
+- a. ein physisches Zusammentreten verunmöglicht ist; oder
+- b. dringende Entscheide oder Entscheide zum Vorgehen zu fällen sind.
+
+<sup>2</sup> Eine Sitzung kann nur dann virtuell durchgeführt werden, wenn die Präsidentin oder der Präsident und die Mehrheit der Kommissionsmitglieder im Zirkularverfahren zugestimmt haben.
+
+<sup>3</sup>
+
+Die folgenden Personen können zu einer physisch stattfindenden Kommissionssitzung virtuell zugeschaltet werden:
+
+- a. Kommissionsmitglieder, für welche die Stellvertretung rechtlich nicht möglich ist;
+- b. Teilnehmerinnen oder Teilnehmer von Anhörungen gemäss Artikel 45 Absatz 1 Buchstaben b und c.
+
+[^45b-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), in Kraft seit 4. Dez. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 46
 
@@ -1597,11 +1659,14 @@ Als zweckmässig ist der Weg der parlamentarischen Initiative insbesondere dann 
 
 <sup>3</sup> Sie überweist ihren dem Rat unterbreiteten Bericht und Erlassentwurf gleichzeitig dem Bundesrat zur Stellungnahme und setzt ihm eine angemessene Frist; ausgenommen sind Bestimmungen über die Organisation oder das Verfahren der Bundesversammlung, die nicht im Gesetz festgelegt sind und die den Bundesrat nicht unmittelbar betreffen.[^112-3]
 
+<sup>3bis</sup> Handelt es sich um einen Entwurf für einen Erlass nach Artikel 165 oder Artikel 173 Absatz 1 Buchstabe c der Bundesverfassung, so kann die Frist für die Stellungnahme des Bundesrates so gesetzt werden, dass eine Behandlung in der nächsten ordentlichen oder ausserordentlichen Session möglich ist.[^112-4]
+
 <sup>4</sup> Beantragt der Bundesrat eine Änderung, so berät die Kommission die Stellungnahme des Bundesrates vor der Beratung des Erlassentwurfes im Erstrat.
 
 [^112-1]: [SR 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)
 [^112-2]: Fassung gemäss Art. 12 Ziff. 1 des Vernehmlassungsgesetzes vom 18. März 2005, in Kraft seit 1. Sept. 2005 ([AS 2005 4099](https://fedlex.data.admin.ch/eli/oc/2005/542); [BBl 2004 533](https://fedlex.data.admin.ch/eli/fga/2004/127)).
 [^112-3]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^112-4]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), in Kraft seit 4. Dez. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 113
 
@@ -1739,6 +1804,10 @@ Ein Vorstoss eines Ratsmitglieds oder einer Fraktion wird ohne Ratsbeschluss abg
 
 <sup>1</sup> Der Bundesrat stellt in der Regel bis zum Beginn der nächsten ordentlichen Session nach der Einreichung einer Motion Antrag auf deren Annahme oder Ablehnung. Zu einer Kommissionsmotion, welche weniger als einen Monat vor Beginn der nächsten ordentlichen Session eingereicht wird, stellt er seinen Antrag spätestens bis zum Beginn der übernächsten Session.
 
+<sup>1bis</sup> Liegen spätestens eine Woche vor der nächsten ordentlichen oder ausserordentlichen Session gleichlautende Motionen von Kommissionen beider Räte vor, so stellt der Bundesrat seinen Antrag bis zur Beratung der Motion in dieser Session.[^121-2]
+
+<sup>1ter</sup> Kommissionsmotionen, die vom Bundesrat den Erlass oder die Änderung einer Verordnung verlangen, die sich auf Artikel 184 Absatz 3 oder Artikel 185 Absatz 3 der Bundesverfassung oder auf eine gesetzliche Ermächtigung zur Bewältigung einer Krise nach Anhang 2 stützt, werden in der nächsten oder laufenden ordentlichen oder ausserordentlichen Session traktandiert. Der Bundesrat stellt seinen Antrag schriftlich oder mündlich.[^121-3]
+
 <sup>2</sup> Lehnt ein Rat eine Motion ab, so ist diese erledigt. Nimmt der Rat, in dem die Motion eingereicht worden ist, diese an, so geht sie an den anderen Rat.
 
 <sup>3</sup>
@@ -1754,9 +1823,9 @@ Nimmt der Zweitrat eine Änderung vor, so kann der Erstrat in der zweiten Beratu
 
 - a. der Änderung zustimmen;
 - b. an seinem Beschluss, die Motion in ihrer ursprünglichen Fassung anzunehmen, festhalten; oder
-- c. die Motion definitiv ablehnen.[^121-2]
+- c. die Motion definitiv ablehnen.[^121-4]
 
-<sup>4bis</sup> Hält der Erstrat in der zweiten Beratung an seinem Beschluss, die Motion in ihrer ursprünglichen Fassung anzunehmen, fest, so kann der Zweitrat diesem Beschluss zustimmen oder die Motion definitiv ablehnen.[^121-3]
+<sup>4bis</sup> Hält der Erstrat in der zweiten Beratung an seinem Beschluss, die Motion in ihrer ursprünglichen Fassung anzunehmen, fest, so kann der Zweitrat diesem Beschluss zustimmen oder die Motion definitiv ablehnen.[^121-5]
 
 <sup>5</sup>
 
@@ -1766,14 +1835,25 @@ Eine vom Erstrat angenommene Motion ist ohne Zustimmung des Zweitrates definitiv
 - b. es sich um eine Kommissionsmotion handelt und eine gleich lautende Kommissionsmotion im anderen Rat angenommen wird.
 
 [^121-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^121-2]: Fassung gemäss Ziff. I des BG vom 18. Juni 2021 (Differenzbereinigungsverfahren bei Motionen), in Kraft seit 1. Nov. 2021 ([AS 2021 612](https://fedlex.data.admin.ch/eli/oc/2021/612); [BBl 2020 9309](https://fedlex.data.admin.ch/eli/fga/2020/2508); [2021 138](https://fedlex.data.admin.ch/eli/fga/2021/138)).
-[^121-3]: Eingefügt durch Ziff. I des BG vom 18. Juni 2021 (Differenzbereinigungsverfahren bei Motionen), in Kraft seit 1. Nov. 2021 ([AS 2021 612](https://fedlex.data.admin.ch/eli/oc/2021/612); [BBl 2020 9309](https://fedlex.data.admin.ch/eli/fga/2020/2508); [2021 138](https://fedlex.data.admin.ch/eli/fga/2021/138)).
+[^121-2]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), in Kraft seit 4. Dez. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^121-3]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), in Kraft seit 4. Dez. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^121-4]: Fassung gemäss Ziff. I des BG vom 18. Juni 2021 (Differenzbereinigungsverfahren bei Motionen), in Kraft seit 1. Nov. 2021 ([AS 2021 612](https://fedlex.data.admin.ch/eli/oc/2021/612); [BBl 2020 9309](https://fedlex.data.admin.ch/eli/fga/2020/2508); [2021 138](https://fedlex.data.admin.ch/eli/fga/2021/138)).
+[^121-5]: Eingefügt durch Ziff. I des BG vom 18. Juni 2021 (Differenzbereinigungsverfahren bei Motionen), in Kraft seit 1. Nov. 2021 ([AS 2021 612](https://fedlex.data.admin.ch/eli/oc/2021/612); [BBl 2020 9309](https://fedlex.data.admin.ch/eli/fga/2020/2508); [2021 138](https://fedlex.data.admin.ch/eli/fga/2021/138)).
 
 #### Art. 122
 
 **Behandlung angenommener Motionen**[^122-1]
 
-<sup>1</sup> Ist eine Motion nach zwei Jahren noch nicht erfüllt, so berichtet der Bundesrat der Bundesversammlung jährlich darüber, was er zur Erfüllung des Auftrages bisher unternommen hat und wie er den Auftrag zu erfüllen beabsichtigt. Dieser Bericht geht an die zuständigen Kommissionen.
+<sup>1</sup> Ist eine Motion nach zwei Jahren noch nicht erfüllt, so berichtet der Bundesrat der Bundesversammlung jährlich darüber, was er zur Erfüllung des Auftrages bisher unternommen hat und wie er den Auftrag zu erfüllen beabsichtigt.[^122-2]
+
+<sup>1bis</sup>
+
+Der Bundesrat berichtet unverzüglich, wenn:
+
+- a. eine Kommissionsmotion, welche die Änderung einer Verordnung des Bundesrates, die noch nicht länger als ein Jahr in Kraft ist, oder des Entwurfs für eine Verordnung des Bundesrates verlangt, nach sechs Monaten noch nicht erfüllt ist; oder
+- b. eine Kommissionsmotion, welche den Erlass oder die Änderung einer Verordnung verlangt, die sich auf Artikel 184 Absatz 3 oder Artikel 185 Absatz 3 der Bundesverfassung oder auf eine gesetzliche Ermächtigung zur Bewältigung einer Krise nach Anhang 2 stützt, nach Ablauf der im Motionstext vorgesehenen Frist für die Berichterstattung noch nicht erfüllt ist.[^122-3]
+
+<sup>1ter</sup> Der Bericht des Bundesrates geht an die zuständigen Kommissionen.[^122-4]
 
 <sup>2</sup> Eine Kommission oder der Bundesrat beantragt die Abschreibung einer Motion, wenn der Auftrag der Motion erfüllt ist. Der Antrag richtet sich an beide Räte, ausser wenn sich die Motion auf Fragen der Organisation und des Verfahrens eines einzelnen Rates bezieht.
 
@@ -1791,6 +1871,9 @@ Die Abschreibung kann auch beantragt werden, wenn der Auftrag zwar nicht erfüll
 <sup>6</sup> Hält der Bundesrat die Frist nicht ein, so wird in der nächsten ordentlichen Session in beiden Räten auf Antrag der zuständigen Kommissionen über eine erneute Fristverlängerung oder die Abschreibung entschieden.
 
 [^122-1]: Fassung gemäss Ziff. I des BG vom 5. Okt. 2007 (Verbindliche Wirkung der Motion), in Kraft seit 26. Mai 2008 ([AS 2008 2113](https://fedlex.data.admin.ch/eli/oc/2008/303); [BBl 2007 1457](https://fedlex.data.admin.ch/eli/fga/2007/198)[2149](https://fedlex.data.admin.ch/eli/fga/2007/329)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
+[^122-2]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), in Kraft seit 4. Dez. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^122-3]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), in Kraft seit 4. Dez. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^122-4]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), in Kraft seit 4. Dez. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 ### 3. Abschnitt: Postulat
 
@@ -2254,7 +2337,11 @@ Sie haben keinen Anspruch auf Informationen:
 
 <sup>2</sup> Ist eine Verordnung unmittelbar im Anschluss an einen Erlass der Bundesversammlung zu ändern oder zu erlassen, so beschliesst die Kommission bei der Gesamtabstimmung über den Erlassentwurf, ob sie konsultiert werden will.
 
+<sup>2bis</sup> Der Bundesrat konsultiert die zuständigen Kommissionen zu den Entwürfen für Verordnungen und Verordnungsänderungen, die er gestützt auf Artikel 185 Absatz 3 der Bundesverfassung oder gestützt auf eine gesetzliche Ermächtigung zur Bewältigung einer Krise nach Anhang 2 erlässt. Enthält der Entwurf als «vertraulich» oder «geheim» klassifizierte Informationen, so informiert er stattdessen die Finanzdelegation und die Geschäftsprüfungsdelegation.[^151-1]
+
 <sup>3</sup> Der Bundesrat setzt die Bundesversammlung von der Vorbereitung von Verordnungen in Kenntnis.
+
+[^151-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), in Kraft seit 4. Dez. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 152
 
@@ -2565,7 +2652,9 @@ Auf den Geschäftsverkehr zwischen der Bundesversammlung und den eidgenössische
 
 **Aufhebung und Änderung bisherigen Rechts**
 
-Die Aufhebung und die Änderung bisherigen Rechts werden im Anhang geregelt.
+Die Aufhebung und die Änderung bisherigen Rechts werden im Anhang[^172-1] geregelt.
+
+[^172-1]: Heute: Anhang 1.
 
 #### Art. 173
 
@@ -2623,13 +2712,14 @@ Für eidgenössische Volksinitiativen, die im Zeitpunkt des Inkrafttretens der �
 
 <sup>2</sup> Die Koordinationskonferenz bestimmt das Inkrafttreten.
 
-<sup>3</sup> Die Artikel 14, 15 und 61 treten mit Beginn der ersten Session nach der auf das Inkrafttreten dieses Gesetzes folgenden Gesamterneuerung des Nationalrates in Kraft.[^174-1] Zum gleichen Zeitpunkt wird Artikel 18 des Bundesgesetzes vom 17. Dezember 1976[^174-2] über die politischen Rechte (Anhang Ziff. II 1) aufgehoben.
+<sup>3</sup> Die Artikel 14, 15 und 61 treten mit Beginn der ersten Session nach der auf das Inkrafttreten dieses Gesetzes folgenden Gesamterneuerung des Nationalrates in Kraft.[^174-1] Zum gleichen Zeitpunkt wird Artikel 18 des Bundesgesetzes vom 17. Dezember 1976[^174-2] über die politischen Rechte (Anhang[^174-3] Ziff. II 1) aufgehoben.
 
-Datum des Inkrafttretens: 1. Dezember 2003[^174-3]
+Datum des Inkrafttretens: 1. Dezember 2003[^174-4]
 
 [^174-1]: 1. Tag der Wintersession 2007 (3. Dez. 2007)
 [^174-2]: [SR 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
-[^174-3]: Verfügt durch die Koordinationskonferenz der BVers vom 16. Sept. 2002
+[^174-3]: Heute: Anhang 1.
+[^174-4]: Verfügt durch die Koordinationskonferenz der BVers vom 16. Sept. 2002
 
 ## Übergangsbestimmung der Änderung vom 5. Oktober 2007
 
@@ -2655,27 +2745,47 @@ Für die Behandlung von Gesuchen um die Aufhebung der Immunität und von ähnlic
 
 Für parlamentarische Initiativen und Standesinitiativen, die zum Zeitpunkt des Inkrafttretens dieser Änderung bereits einer Kommission zur Vorberatung zugewiesen worden sind, gilt das bisherige Recht.
 
-Anhang
+Anhang 1[^t-1]
 
 (Art. 172)
 
 ## Aufhebung und Änderung bisherigen Rechts
 
+[^t-1]: Ursprünglich: Anhang.
+
 I
 
 Folgende Erlasse werden aufgehoben:
 
-- 1\. Garantiegesetz vom 26. März 1934[^annexu1-lvlu1-1]
-- 2\. Dekret der Bundesversammlung vom 15. November 1848[^annexu1-lvlu1-2] betreffend den von den obersten Bundesbehörden zu leistenden Amtseid
-- 3\. Geschäftsverkehrsgesetz vom 23. März 1962[^annexu1-lvlu1-3]. Artikel 8<sup>septies</sup> bleibt in Kraft, bis Artikel 61 des Parlamentsgesetzes in Kraft gesetzt wird (Art. 174 Abs. 3).
+- 1\. Garantiegesetz vom 26. März 1934[^annex1-lvlu1-1]
+- 2\. Dekret der Bundesversammlung vom 15. November 1848[^annex1-lvlu1-2] betreffend den von den obersten Bundesbehörden zu leistenden Amtseid
+- 3\. Geschäftsverkehrsgesetz vom 23. März 1962[^annex1-lvlu1-3]. Artikel 8<sup>septies</sup> bleibt in Kraft, bis Artikel 61 des Parlamentsgesetzes in Kraft gesetzt wird (Art. 174 Abs. 3).
 
 II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-…[^annexu1-lvlu1-4]
+[^annex1-lvlu1-1]: [BS **1** 152; [AS 1962 773](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831)Art. 60 Abs. 2; [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I 121; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)Anhang Ziff. I 414; [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Anhang Ziff. 3]
+[^annex1-lvlu1-2]: [BS **1** 461]
+[^annex1-lvlu1-3]: [[AS 1962 811](https://fedlex.data.admin.ch/eli/oc/1962/811_849_869); [1984 768](https://fedlex.data.admin.ch/eli/oc/1984/768_768_768); [1985 452](https://fedlex.data.admin.ch/eli/oc/1985/452_452_452); [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 16 Ziff. 3; [1989 257](https://fedlex.data.admin.ch/eli/oc/1989/257_257_257); [1990 1642](https://fedlex.data.admin.ch/eli/oc/1990/1642_1642_1642); [1992 2344](https://fedlex.data.admin.ch/eli/oc/1992/2344_2344_2344); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)]
 
-[^annexu1-lvlu1-1]: [BS **1** 152; [AS 1962 773](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831)Art. 60 Abs. 2; [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I 121; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)Anhang Ziff. I 414; [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Anhang Ziff. 3]
-[^annexu1-lvlu1-2]: [BS **1** 461]
-[^annexu1-lvlu1-3]: [[AS 1962 811](https://fedlex.data.admin.ch/eli/oc/1962/811_849_869); [1984 768](https://fedlex.data.admin.ch/eli/oc/1984/768_768_768); [1985 452](https://fedlex.data.admin.ch/eli/oc/1985/452_452_452); [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 16 Ziff. 3; [1989 257](https://fedlex.data.admin.ch/eli/oc/1989/257_257_257); [1990 1642](https://fedlex.data.admin.ch/eli/oc/1990/1642_1642_1642); [1992 2344](https://fedlex.data.admin.ch/eli/oc/1992/2344_2344_2344); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)]
-[^annexu1-lvlu1-4]: Die Änderungen können unter [AS 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510)konsultiert werden.
+Anhang 2[^t-2]
+
+(Art. 2 Abs. 3<sup>bis</sup>, 121 Abs. 1<sup>ter</sup>, 122 Abs. 1<sup>bis</sup> und 151 Abs. 2<sup>bis</sup>)
+
+In den nachfolgenden Bestimmungen sind gesetzliche Ermächtigungen zur Bewältigung einer Krise enthalten:
+
+- 1\. Artikel 55 des Asylgesetzes vom 26. Juni 1998[^t-3],
+- 2\. Artikel 62 des Schuldbetreibungs- und Konkursgesetzes vom 11. April 1889[^t-4],
+- 3\. Artikel 31–34 des Landesversorgungsgesetzes vom 17. Juni 2016[^t-5],
+- 4\. Artikel 6 und 7 des Zolltarifgesetzes vom 9. Oktober 1986[^t-6],
+- 5\. Artikel 48 des Fernmeldegesetzes vom 30. April 1997[^t-7],
+- 6\. Artikel 6 und 7 des Epidemiengesetzes vom 28. September 2012[^t-8].
+
+[^t-2]: Eingefügt durch Ziff. II des BG vom 17. März 2023 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), in Kraft seit 4. Dez. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^t-3]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^t-4]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^t-5]: [SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^t-6]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^t-7]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^t-8]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
