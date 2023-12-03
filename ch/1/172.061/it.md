@@ -4,11 +4,11 @@ title: "Legge federale del 18 marzo 2005 sulla procedura di consultazione (Legge
 short: LCo
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/542"
 language: it
-version: 2018-11-26
+version: 2023-12-04
 adopted: 2005-03-18
 in_force: 2005-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/542/20181126/it/xml/fedlex-data-admin-ch-eli-cc-2005-542-20181126-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/542/20181126/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/542/20231204/it/xml/fedlex-data-admin-ch-eli-cc-2005-542-20231204-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/542/20231204/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/542/20181126/it"
 
 (Legge sulla consultazione, LCo[^t-1])
 
-del 18 marzo 2005 (Stato 26 novembre 2018)
+del 18 marzo 2005 (Stato 4 dicembre 2023)
 
-[^t-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^t-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -27,7 +27,7 @@ visto l’articolo 147 della Costituzione federale[^ingress-1]; visto il messagg
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2004 453](https://fedlex.data.admin.ch/eli/fga/2004/127)
 
 #### Art. 1
@@ -74,12 +74,14 @@ La procedura di consultazione è indetta per la preparazione di:
 
 Si può rinunciare a una procedura di consultazione se:
 
-- a. il progetto concerne principalmente l’organizzazione o le procedure di autorità federali o la ripartizione delle competenze tra autorità federali; oppure
-- b. non v’è da attendersi nessuna nuova informazione poiché le posizioni degli ambienti interessati sono note, in particolare poiché è già stata svolta una consultazione sull’oggetto su cui verte il progetto.
+- a. il progetto concerne principalmente l’organizzazione o le procedure di autorità federali o la ripartizione delle competenze tra autorità federali;
+- b. non v’è da attendersi nessuna nuova informazione poiché le posizioni degli ambienti interessati sono note, in particolare poiché è già stata svolta una consultazione sull’oggetto su cui verte il progetto; oppure
+- c.[^3a-2] il progetto concerne l’emanazione o la modifica di una legge federale secondo l’articolo 165 della Costituzione federale o di un’ordinanza secondo l’articolo 173 capoverso 1 lettera c, 184 capoverso 3 o 185 capoverso 3 della Costituzione federale.
 
 <sup>2</sup> La rinuncia alla procedura di consultazione dev’essere motivata indicando le ragioni oggettive che la giustificano.
 
 [^3a-1]: Introdotto dal n. I della LF del 26 set. 2014, in vigore dal 1° apr. 2016 ([RU 2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [FF 2013 7619](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
+[^3a-2]: Introdotta dal n. III 2 della LF del 17 mar. 2023 (Miglioramenti del funzionamento del Parlamento, in particolare in situazioni di crisi), in vigore dal 4 dic. 2023 ([RU 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 4
 
@@ -106,7 +108,10 @@ Sono invitati a esprimere il proprio parere:
 
 **Indizione**[^5-1]
 
-- [tab] <sup>1</sup> La procedura di consultazione su un progetto dell’Amministrazione federale è indetta:
+<sup>1</sup>
+
+La procedura di consultazione su un progetto dell’Amministrazione federale è indetta:
+
 - a. dal Consiglio federale per i progetti di cui all’articolo 3 capoverso 1;
 - b. dal dipartimento competente o dalla Cancelleria federale per i progetti di cui all’articolo 3 capoverso 2;
 - c. dall’unità competente dell’Amministrazione federale centrale o decentralizzata, se ha la facoltà di emanare norme di diritto.
@@ -134,7 +139,7 @@ Sono invitati a esprimere il proprio parere:
 Ai testi esplicativi dei progetti si applicano per analogia i requisiti previsti per i messaggi del Consiglio federale di cui all’articolo 141 capoverso 2 della legge del 13 dicembre 2002[^6a-2] sul Parlamento.
 
 [^6a-1]: Introdotto dal n. II 2 della LF del 15 giu. 2018 (Diverse modifiche del diritto parlamentare), in vigore dal 26 nov. 2018 ([RU 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 5807](https://fedlex.data.admin.ch/eli/fga/2017/1995)[5873](https://fedlex.data.admin.ch/eli/fga/2017/1999))
-[^6a-2]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^6a-2]: [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 
 #### Art. 7
 
@@ -183,13 +188,15 @@ Sono accessibili al pubblico:
 <sup>3</sup> La legge del 17 dicembre 2004[^9-2] sulla trasparenza non è applicabile.
 
 [^9-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° apr. 2016 ([RU 2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [FF 2013 7619](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
-[^9-2]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^9-2]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 #### Art. 10
 
-[^10-1]
+**Consultazione in casi di urgenza**[^10-1]
 
-[^10-1]: Abrogato dal n. I della LF del 26 set. 2014, con effetto dal 1° apr. 2016 ([RU 2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [FF 2013 7619](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
+Se in virtù dell’articolo 3*a* capoverso 1 lettera c si rinuncia a una procedura di consultazione, l’autorità competente consulta se possibile i governi cantonali e gli ambienti interessati in modo particolare dal progetto.
+
+[^10-1]: Nuovo testo giusta il n. III 2 della LF del 17 mar. 2023 (Miglioramenti del funzionamento del Parlamento, in particolare in situazioni di crisi), in vigore dal 4 dic. 2023 ([RU 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 11
 

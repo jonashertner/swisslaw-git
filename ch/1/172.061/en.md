@@ -4,11 +4,11 @@ title: "Federal Act of 18 March 2005 on the Consultation Procedure (Consultation
 short: CPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/542"
 language: en
-version: 2018-11-26
+version: 2023-12-04
 adopted: 2005-03-18
 in_force: 2005-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/542/20181126/en/xml/fedlex-data-admin-ch-eli-cc-2005-542-20181126-en-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/542/20181126/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/542/20231204/en/xml/fedlex-data-admin-ch-eli-cc-2005-542-20231204-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/542/20231204/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Consultation Procedure Act, CPA)
 
-of 18 March 2005 (Status as of 26 November 2018)
+of 18 March 2005 (Status as of 4 December 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -27,7 +27,7 @@ based on Article 147 of the Federal Constitution[^ingress-1], and having conside
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2004 533](https://fedlex.data.admin.ch/eli/fga/2004/127)
 
 #### Art. 1
@@ -74,12 +74,14 @@ A consultation procedure takes place when drafting:
 
 A consultation procedure may be dispensed with if:
 
-- a. the project relates primarily to the organisation or procedures of federal authorities or to the allocation of responsibilities among federal authorities; or
-- b. no new findings are expected because the positions of the interested groups are known, in particular because a consultation procedure on the subject matter of the project has already been carried out.
+- a. the project relates primarily to the organisation or procedures of federal authorities or to the allocation of responsibilities among federal authorities;
+- b. no new findings are expected because the positions of the interested groups are known, in particular because a consultation procedure on the subject matter of the project has already been carried out; or
+- c.[^3a-2] the project relates to the enactment or amendment of a federal act in accordance with Article 165 of the Federal Constitution or an ordinance in accordance with Article 173 paragraph 1 letter c, Article 184 paragraph 3 or Article 185 paragraph 3 of the Federal Constitution.
 
 <sup>2</sup> Well-founded justification must be provided for a decision to dispense with a consultation procedure.
 
 [^3a-1]: Inserted by No I of the FA of 26 Sept. 2014, in force since 1 April 2016 ([AS 2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [BBl 2013 8875](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
+[^3a-2]: Inserted by No III 2 of the FA of 17 March 2023 (Improvements to the Functioning of Parliament, particularly in Crisis Situations), in force since 4 Dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 4
 
@@ -137,7 +139,7 @@ Consultation procedures on projects from the Federal Administration are initiate
 The requirements for Federal Council dispatches in terms of Article 141 paragraph 2 of the Parliament Act of 13 December 2002[^6a-2] apply by analogy to the explanation of the project.
 
 [^6a-1]: Inserted by No II 2 of the FA of 15 June 2018 (Miscellaneous Amendments to Parliamentary Law), in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^6a-2]: [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^6a-2]: [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 
 #### Art. 7
 
@@ -186,13 +188,15 @@ The following are made available to the public:
 <sup>3</sup> The Freedom of Information Act of 17 December 2004[^9-2] does not apply.
 
 [^9-1]: Amended by No I of the FA of 26 Sept. 2014, in force since 1 April 2016 ([AS 2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [BBl 2013 8875](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
-[^9-2]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^9-2]: [SR 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 #### Art. 10
 
-[^10-1]
+**Consultation in urgent cases**[^10-1]
 
-[^10-1]: Repealed by the Federal Act of 26 Sept. 2014, with effect from 1 April 2016 ([AS 2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [BBl 2013 8875](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
+If a consultation procedure is dispensed with on the basis of Article 3*a* paragraph 1 letter c, the authority responsible shall, if possible, consult the cantonal governments as well as the groups significantly affected by the project.
+
+[^10-1]: Amended by No III 2 of the FA of 17 March 2023 (Improvements to the Functioning of Parliament, particularly in Crisis Situations), in force since 4 Dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 11
 

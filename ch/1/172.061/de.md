@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 18. März 2005 über das Vernehmlassungsverfahren (Vern
 short: VlG
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/542"
 language: de
-version: 2018-11-26
+version: 2023-12-04
 adopted: 2005-03-18
 in_force: 2005-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/542/20181126/de/xml/fedlex-data-admin-ch-eli-cc-2005-542-20181126-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/542/20181126/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/542/20231204/de/xml/fedlex-data-admin-ch-eli-cc-2005-542-20231204-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/542/20231204/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/542/20181126/de"
 
 (Vernehmlassungsgesetz, VlG)
 
-vom 18. März 2005 (Stand am 26. November 2018)
+vom 18. März 2005 (Stand am 4. Dezember 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 147 der Bundesverfassung[^ingress-1], nach Einsicht in die
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2004 533](https://fedlex.data.admin.ch/eli/fga/2004/127)
 
 #### Art. 1
@@ -72,12 +72,14 @@ Ein Vernehmlassungsverfahren findet statt bei der Vorbereitung von:
 
 Auf ein Vernehmlassungsverfahren kann verzichtet werden, wenn:
 
-- a. das Vorhaben vorwiegend die Organisation oder das Verfahren von Bundesbehörden oder die Verteilung der Zuständigkeiten zwischen Bundesbehörden betrifft; oder
-- b. keine neuen Erkenntnisse zu erwarten sind, weil die Positionen der interessierten Kreise bekannt sind, insbesondere weil über den Gegenstand des Vorhabens bereits eine Vernehmlassung durchgeführt worden ist.
+- a. das Vorhaben vorwiegend die Organisation oder das Verfahren von Bundesbehörden oder die Verteilung der Zuständigkeiten zwischen Bundesbehörden betrifft;
+- b. keine neuen Erkenntnisse zu erwarten sind, weil die Positionen der interessierten Kreise bekannt sind, insbesondere weil über den Gegenstand des Vorhabens bereits eine Vernehmlassung durchgeführt worden ist; oder
+- c.[^3a-2] das Vorhaben den Erlass oder die Änderung eines Bundesgesetzes nach Artikel 165 der Bundesverfassung oder einer Verordnung nach Artikel 173 Absatz 1 Buchstabe c, Artikel 184 Absatz 3 oder Artikel 185 Absatz 3 der Bundesverfassung betrifft.
 
 <sup>2</sup> Der Verzicht auf ein Vernehmlassungsverfahren muss sachlich begründet werden.
 
 [^3a-1]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. April 2016 ([AS 2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [BBl 2013 8875](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
+[^3a-2]: Eingefügt durch Ziff. III 2 des BG vom 17. März 2023 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), in Kraft seit 4. Dez. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 4
 
@@ -135,7 +137,7 @@ Vernehmlassungsverfahren zu Vorhaben, die von der Bundesverwaltung ausgehen, wer
 Für die Erläuterung des Vorhabens gelten die Anforderungen an die Botschaften des Bundesrates nach Artikel 141 Absatz 2 des Parlamentsgesetzes vom 13. Dezember 2002[^6a-2] sinngemäss.
 
 [^6a-1]: Eingefügt durch Ziff. II 2 des BG vom 15. Juni 2018 (Verschiedene Änderungen des Parlamentsrechts), in Kraft seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^6a-2]: [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^6a-2]: [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 
 #### Art. 7
 
@@ -184,13 +186,15 @@ Die Vernehmlassungsfrist beträgt mindestens drei Monate. Sie wird unter Berück
 <sup>3</sup> Das Öffentlichkeitsgesetz vom 17. Dezember 2004[^9-2] findet keine Anwendung.
 
 [^9-1]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. April 2016 ([AS 2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [BBl 2013 8875](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
-[^9-2]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^9-2]: [SR 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 #### Art. 10
 
-[^10-1]
+**Konsultation in dringlichen Fällen**[^10-1]
 
-[^10-1]: Aufgehoben durch Ziff. I des BG vom 26. Sept. 2014, mit Wirkung seit 1. April 2016 ([AS 2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [BBl 2013 8875](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
+Wird auf der Grundlage von Artikel 3*a* Absatz 1 Buchstabe c auf eine Vernehmlassung verzichtet, so konsultiert die zuständige Behörde wenn möglich die Kantonsregierungen und die vom Vorhaben in erheblichem Mass betroffene Kreise.
+
+[^10-1]: Fassung gemäss Ziff. III 2 des BG vom 17. März 2023 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), in Kraft seit 4. Dez. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 11
 

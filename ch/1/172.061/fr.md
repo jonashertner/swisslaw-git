@@ -4,22 +4,22 @@ title: "Loi fédérale du 18 mars 2005 sur la procédure de consultation (Loi su
 short: LCo
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/542"
 language: fr
-version: 2018-11-26
+version: 2023-12-04
 adopted: 2005-03-18
 in_force: 2005-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/542/20181126/fr/xml/fedlex-data-admin-ch-eli-cc-2005-542-20181126-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/542/20181126/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/542/20231204/fr/xml/fedlex-data-admin-ch-eli-cc-2005-542-20231204-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/542/20231204/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur la procédure de consultation<sup></sup>
+# Loi fédérale sur la procédure de consultation\*
 
 (Loi sur la consultation, LCo)[^t-1]
 
-du 18 mars 2005 (État le 26 novembre 2018)
+du 18 mars 2005 (État le 4 décembre 2023)
 
-[^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
+[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -27,7 +27,7 @@ vu l’art. 147 de la Constitution[^ingress-1], vu le message du Conseil fédér
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/127)
 
 #### Art. 1
@@ -75,11 +75,13 @@ Une consultation est organisée lors des travaux préparatoires concernant:
 Il est possible de renoncer à une procédure de consultation lorsqu’une des conditions suivantes est remplie:
 
 - a. le projet porte principalement sur l’organisation ou les procédures des autorités fédérales ou sur la répartition des compétences entre autorités fédérales;
-- b. aucune information nouvelle n’est à attendre du fait que les positions des milieux intéressés sont connues, notamment parce que l’objet dont traite le projet a déjà été mis en consultation précédemment.
+- b. aucune information nouvelle n’est à attendre du fait que les positions des milieux intéressés sont connues, notamment parce que l’objet dont traite le projet a déjà été mis en consultation précédemment;
+- c.[^3a-2] le projet porte sur l’édiction ou la modification d’une loi fédérale au sens de l’art. 165 de la Constitution ou d’une ordonnance au sens des art. 173, al. 1, let. c, 184, al. 3, ou 185, al. 3, de la Constitution.
 
 <sup>2</sup> La renonciation à la procédure de consultation doit être justifiée par des motifs objectifs.
 
 [^3a-1]: Introduit par le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [FF 2013 7957](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
+[^3a-2]: Introduite par le ch. III 2 de la LF du 17 mars 2023 (Amélioration du fonctionnement du Parlement, notamment en situation de crise), en vigueur depuis le 4 déc. 2023 ([RO 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 4
 
@@ -136,8 +138,8 @@ La procédure de consultation concernant un projet issu de l’administration f�
 
 Les exigences applicables aux messages du Conseil fédéral, énumérées à l’art. 141, al. 2, de la loi du 13 décembre 2002[^6a-2] sur le Parlement, s’appliquent par analogie au rapport explicatif relatif au projet.
 
-[^6a-1]: Introduit par le ch. II de la LF du 15 juin 2018 (Modifications diverses du droit parlementaire), en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^6a-2]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^6a-1]: Introduit par le ch. II de la LF du 15 juin 2018 (Modifications diverses du droit parlementaire), en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^6a-2]: [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 
 #### Art. 7
 
@@ -186,13 +188,15 @@ Sont accessibles au public:
 <sup>3</sup> La loi du 17 décembre 2004 sur la transparence[^9-2] n’est pas applicable.
 
 [^9-1]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [FF 2013 7957](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
-[^9-2]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^9-2]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 #### Art. 10
 
-[^10-1]
+**Consultation informelle en cas d’urgence**[^10-1]
 
-[^10-1]: Abrogé par le ch. I de la LF du 26 sept. 2014, avec effet au 1<sup>er</sup> avr. 2016 ([RO 2016 925](https://fedlex.data.admin.ch/eli/oc/2016/161); [FF 2013 7957](https://fedlex.data.admin.ch/eli/fga/2013/1759)).
+Si, conformément à l’art. 3*a*, al. 1, let. c, aucune consultation n’est menée, l’autorité compétente sollicite, dans la mesure du possible, l’avis des gouvernements cantonaux et des milieux particulièrement concernés par le projet.
+
+[^10-1]: Nouvelle teneur selon le ch. III 2 de la LF du 17 mars 2023 (Amélioration du fonctionnement du Parlement, notamment en situation de crise), en vigueur depuis le 4 déc. 2023 ([RO 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 11
 
