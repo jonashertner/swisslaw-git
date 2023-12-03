@@ -3,18 +3,18 @@ sr: "171.211"
 title: "Ordinanza dell'Assemblea federale del 18 marzo 1988 concernente la legge sulle indennità parlamentari"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1166_1166_1166"
 language: it
-version: 2022-05-30
+version: 2023-12-04
 adopted: 1988-03-18
 in_force: 1988-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1166_1166_1166/20220530/it/xml/fedlex-data-admin-ch-eli-cc-1988-1166_1166_1166-20220530-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1166_1166_1166/20220530/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1166_1166_1166/20231204/it/xml/fedlex-data-admin-ch-eli-cc-1988-1166_1166_1166-20231204-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1166_1166_1166/20231204/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’Assemblea federale concernente la legge sulle indennità parlamentari
 
-del 18 marzo 1988 (Stato 30 maggio 2022) (Stato 30 maggio 2022)[^t-1]
+del 18 marzo 1988 (Stato 4 dicembre 2023)[^t-1]
 
 [^t-1]: Nuovo testo giusta il n. I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° dic. 2002 ([RU 2002 3632](https://fedlex.data.admin.ch/eli/oc/2002/549); [FF 2002 3570](https://fedlex.data.admin.ch/eli/fga/2002/574)[3591](https://fedlex.data.admin.ch/eli/fga/2002/577)).
 
@@ -201,11 +201,12 @@ La Confederazione conclude un’assicurazione che, in caso di malattia o infortu
 
 <sup>2</sup> Durante i primi 30 giorni civili il parlamentare ha diritto a un importo pari al 100 per cento della diaria persa. Dal 31° giorno civile ha diritto all’80 per cento della diaria persa.
 
-<sup>3</sup> La parlamentare in congedo maternità ha diritto a un importo pari al 100 per cento della diaria persa.
+<sup>3</sup> I parlamentari in congedo maternità o in congedo paternità hanno diritto a un importo pari al 100 per cento della diaria persa.[^8a-2]
 
 <sup>4</sup> Il parlamentare che fa valere un diritto al versamento di un importo sostitutivo di più di cinque diarie deve produrre un certificato medico.
 
 [^8a-1]: Introdotto dal n. I dell’O dell’AF del 13 dic. 2002, in vigore dal 1° dic. 2003 ([RU 2003 3665](https://fedlex.data.admin.ch/eli/oc/2003/517); [FF 2002 6323](https://fedlex.data.admin.ch/eli/fga/2002/1126)6243).
+[^8a-2]: Nuovo testo giusta il n. I dell’O dell’AF del 17 mar. 2023 (Congedo di paternità: importo sostitutivo della diaria), in vigore dal 4 dic. 2023 (RU **20****23** 484; FF **20****22** 301, 433).
 
 #### Art. 8b
 

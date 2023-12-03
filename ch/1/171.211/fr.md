@@ -4,11 +4,11 @@ title: "Ordonnance de l'Assemblée fédérale du 18 mars 1988 relative à la loi
 short: OMAP
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1166_1166_1166"
 language: fr
-version: 2022-05-30
+version: 2023-12-04
 adopted: 1988-03-18
 in_force: 1988-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1166_1166_1166/20220530/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1166_1166_1166-20220530-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1166_1166_1166/20220530/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1166_1166_1166/20231204/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1166_1166_1166-20231204-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1166_1166_1166/20231204/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/1166_1166_1166/20220530/fr"
 
 (OMAP)[^t-1]
 
-du 18 mars 1988 (État le 30 mai 2022)
+du 18 mars 1988 (État le 4 décembre 2023)
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3632](https://fedlex.data.admin.ch/eli/oc/2002/549); [FF 2002 3715](https://fedlex.data.admin.ch/eli/fga/2002/574)[3737](https://fedlex.data.admin.ch/eli/fga/2002/577)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3632](https://fedlex.data.admin.ch/eli/oc/2002/549); [FF 2002 3715](https://fedlex.data.admin.ch/eli/fga/2002/574), [3737](https://fedlex.data.admin.ch/eli/fga/2002/577)).
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -28,13 +28,13 @@ vu l’art. 14 de la loi du 18 mars 1988 sur les moyens alloués aux parlementai
 arrête:
 
 [^ingress-1]: [RS 171.21](https://fedlex.data.admin.ch/eli/cc/1988/1162_1162_1162)
-[^ingress-2]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 8 oct. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2005 713](https://fedlex.data.admin.ch/eli/oc/2005/83); [FF 2004 1363](https://fedlex.data.admin.ch/eli/fga/2004/295)[1375](https://fedlex.data.admin.ch/eli/fga/2004/298)).
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 8 oct. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2005 713](https://fedlex.data.admin.ch/eli/oc/2005/83); [FF 2004 1363](https://fedlex.data.admin.ch/eli/fga/2004/295), [1375](https://fedlex.data.admin.ch/eli/fga/2004/298)).
 
 #### Art. 1 et 2
 
 [^12-1]
 
-[^12-1]: Abrogés par le ch. I de l’O de l’Ass. féd. du 21 juin 2002, avec effet au 1<sup>er</sup> déc. 2002 ([RO 2002 3632](https://fedlex.data.admin.ch/eli/oc/2002/549); [FF 2002 3715](https://fedlex.data.admin.ch/eli/fga/2002/574)[3737](https://fedlex.data.admin.ch/eli/fga/2002/577)).
+[^12-1]: Abrogés par le ch. I de l’O de l’Ass. féd. du 21 juin 2002, avec effet au 1<sup>er</sup> déc. 2002 ([RO 2002 3632](https://fedlex.data.admin.ch/eli/oc/2002/549); [FF 2002 3715](https://fedlex.data.admin.ch/eli/fga/2002/574), [3737](https://fedlex.data.admin.ch/eli/fga/2002/577)).
 
 #### Art. 3
 
@@ -53,13 +53,13 @@ Pour les activités à l’étranger, le montant du défraiement pour repas et c
 - a. pour certains pays et villes, lorsque les conditions l’exigent;
 - b. dans des cas particuliers, sur présentation de pièces justificatives.
 
-[^3-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3632](https://fedlex.data.admin.ch/eli/oc/2002/549); [FF 2002 3715](https://fedlex.data.admin.ch/eli/fga/2002/574)[3737](https://fedlex.data.admin.ch/eli/fga/2002/577)).
-[^3-2]: Nouveau montant selon le ch. I let. d de l’O de l’Ass. féd. du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> sept. 2012 ([RO 2012 4573](https://fedlex.data.admin.ch/eli/oc/2012/551); [FF 2012 291](https://fedlex.data.admin.ch/eli/fga/2012/114)[303](https://fedlex.data.admin.ch/eli/fga/2012/117)).
-[^3-3]: Nouveau montant selon le ch. I let. e de l’O de l’Ass. féd. du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> sept. 2012 ([RO 2012 4573](https://fedlex.data.admin.ch/eli/oc/2012/551); [FF 2012 291](https://fedlex.data.admin.ch/eli/fga/2012/114)[303](https://fedlex.data.admin.ch/eli/fga/2012/117)).
-[^3-4]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 21 mars 2014, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2015 1135](https://fedlex.data.admin.ch/eli/oc/2015/228); [FF 2013 7161](https://fedlex.data.admin.ch/eli/fga/2013/1542)[7167](https://fedlex.data.admin.ch/eli/fga/2013/1544)).
-[^3-5]: Introduit par le ch. I de l’O de l’Ass. féd. du 18 mars 2011 (Députés domiciliés à l’étranger), en vigueur depuis le 5 déc. 2011 ([RO 2011 5005](https://fedlex.data.admin.ch/eli/oc/2011/728); [FF 2010 8009](https://fedlex.data.admin.ch/eli/fga/2010/1644)[8015](https://fedlex.data.admin.ch/eli/fga/2010/1646)).
-[^3-6]: Nouveau montant selon le ch. I let. f de l’O de l’Ass. féd. du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> sept. 2012 ([RO 2012 4573](https://fedlex.data.admin.ch/eli/oc/2012/551); [FF 2012 291](https://fedlex.data.admin.ch/eli/fga/2012/114)[303](https://fedlex.data.admin.ch/eli/fga/2012/117)).
-[^3-7]: Nouvelle expression selon le ch. I de l’O de l’Ass. féd. du 18 mars 2011 (Députés domiciliés à l’étranger), en vigueur depuis le 5 déc. 2011 ([RO 2011 5005](https://fedlex.data.admin.ch/eli/oc/2011/728); [FF 2010 8009](https://fedlex.data.admin.ch/eli/fga/2010/1644)[8015](https://fedlex.data.admin.ch/eli/fga/2010/1646)). Il a été tenu compte de cette mod. dans tout le présent texte.
+[^3-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3632](https://fedlex.data.admin.ch/eli/oc/2002/549); [FF 2002 3715](https://fedlex.data.admin.ch/eli/fga/2002/574), [3737](https://fedlex.data.admin.ch/eli/fga/2002/577)).
+[^3-2]: Nouveau montant selon le ch. I let. d de l’O de l’Ass. féd. du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> sept. 2012 ([RO 2012 4573](https://fedlex.data.admin.ch/eli/oc/2012/551); [FF 2012 291](https://fedlex.data.admin.ch/eli/fga/2012/114), [303](https://fedlex.data.admin.ch/eli/fga/2012/117)).
+[^3-3]: Nouveau montant selon le ch. I let. e de l’O de l’Ass. féd. du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> sept. 2012 ([RO 2012 4573](https://fedlex.data.admin.ch/eli/oc/2012/551); [FF 2012 291](https://fedlex.data.admin.ch/eli/fga/2012/114), [303](https://fedlex.data.admin.ch/eli/fga/2012/117)).
+[^3-4]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 21 mars 2014, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2015 1135](https://fedlex.data.admin.ch/eli/oc/2015/228); [FF 2013 7161](https://fedlex.data.admin.ch/eli/fga/2013/1542), [7167](https://fedlex.data.admin.ch/eli/fga/2013/1544)).
+[^3-5]: Introduit par le ch. I de l’O de l’Ass. féd. du 18 mars 2011 (Députés domiciliés à l’étranger), en vigueur depuis le 5 déc. 2011 ([RO 2011 5005](https://fedlex.data.admin.ch/eli/oc/2011/728); [FF 2010 8009](https://fedlex.data.admin.ch/eli/fga/2010/1644), [8015](https://fedlex.data.admin.ch/eli/fga/2010/1646)).
+[^3-6]: Nouveau montant selon le ch. I let. f de l’O de l’Ass. féd. du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> sept. 2012 ([RO 2012 4573](https://fedlex.data.admin.ch/eli/oc/2012/551); [FF 2012 291](https://fedlex.data.admin.ch/eli/fga/2012/114), [303](https://fedlex.data.admin.ch/eli/fga/2012/117)).
+[^3-7]: Nouvelle expression selon le ch. I de l’O de l’Ass. féd. du 18 mars 2011 (Députés domiciliés à l’étranger), en vigueur depuis le 5 déc. 2011 ([RO 2011 5005](https://fedlex.data.admin.ch/eli/oc/2011/728); [FF 2010 8009](https://fedlex.data.admin.ch/eli/fga/2010/1644), [8015](https://fedlex.data.admin.ch/eli/fga/2010/1646)). Il a été tenu compte de cette mod. dans tout le présent texte.
 
 #### Art. 4
 
@@ -106,7 +106,7 @@ Si, à titre exceptionnel, le député préfère organiser lui-même son déplac
 
 <sup>2</sup> Les députés n’ont pas droit aux défraiements pour repas, nuitées ou voyages lorsque la Confédération met à disposition les moyens de transport, assure la subsistance et procure le logement. Les repas offerts occasionnellement par la Confédération ne sont pas pris en compte.
 
-[^5-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3632](https://fedlex.data.admin.ch/eli/oc/2002/549); [FF 2002 3715](https://fedlex.data.admin.ch/eli/fga/2002/574)[3737](https://fedlex.data.admin.ch/eli/fga/2002/577)).
+[^5-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3632](https://fedlex.data.admin.ch/eli/oc/2002/549); [FF 2002 3715](https://fedlex.data.admin.ch/eli/fga/2002/574), [3737](https://fedlex.data.admin.ch/eli/fga/2002/577)).
 
 #### Art. 6
 
@@ -122,9 +122,9 @@ Si, à titre exceptionnel, le député préfère organiser lui-même son déplac
 
 <sup>4</sup> Une fois calculés par les Services du Parlement, les défraiements longue distance sont soumis à l’approbation de la Délégation administrative, qui tranche dans des cas particuliers.
 
-[^6-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3632](https://fedlex.data.admin.ch/eli/oc/2002/549); [FF 2002 3715](https://fedlex.data.admin.ch/eli/fga/2002/574)[3737](https://fedlex.data.admin.ch/eli/fga/2002/577)).
-[^6-2]: Nouveau montant selon le ch. I let. g de l’O de l’Ass. féd. du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> sept. 2012 ([RO 2012 4573](https://fedlex.data.admin.ch/eli/oc/2012/551); [FF 2012 291](https://fedlex.data.admin.ch/eli/fga/2012/114)[303](https://fedlex.data.admin.ch/eli/fga/2012/117)).
-[^6-3]: Introduit par le ch. I de l’O de l’Ass. féd. du 18 mars 2011 (Députés domiciliés à l’étranger), en vigueur depuis le 5 déc. 2011 ([RO 2011 5005](https://fedlex.data.admin.ch/eli/oc/2011/728); [FF 2010 8009](https://fedlex.data.admin.ch/eli/fga/2010/1644)[8015](https://fedlex.data.admin.ch/eli/fga/2010/1646)).
+[^6-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3632](https://fedlex.data.admin.ch/eli/oc/2002/549); [FF 2002 3715](https://fedlex.data.admin.ch/eli/fga/2002/574), [3737](https://fedlex.data.admin.ch/eli/fga/2002/577)).
+[^6-2]: Nouveau montant selon le ch. I let. g de l’O de l’Ass. féd. du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> sept. 2012 ([RO 2012 4573](https://fedlex.data.admin.ch/eli/oc/2012/551); [FF 2012 291](https://fedlex.data.admin.ch/eli/fga/2012/114), [303](https://fedlex.data.admin.ch/eli/fga/2012/117)).
+[^6-3]: Introduit par le ch. I de l’O de l’Ass. féd. du 18 mars 2011 (Députés domiciliés à l’étranger), en vigueur depuis le 5 déc. 2011 ([RO 2011 5005](https://fedlex.data.admin.ch/eli/oc/2011/728); [FF 2010 8009](https://fedlex.data.admin.ch/eli/fga/2010/1644), [8015](https://fedlex.data.admin.ch/eli/fga/2010/1646)).
 
 #### Art. 7
 
@@ -145,7 +145,7 @@ La prestation de la caisse de pensions affiliée, au sens de l’art. 7, al. 3, 
 
 <sup>4</sup> S’agissant des revenus liés à l’exercice d’un mandat parlementaire, la Confédération et les députés s’acquittent, par le versement de cette contribution, de toutes les obligations prévues par la LPP en matière de cotisations.
 
-[^7-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 8 oct. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2005 713](https://fedlex.data.admin.ch/eli/oc/2005/83); [FF 2004 1363](https://fedlex.data.admin.ch/eli/fga/2004/295)[1375](https://fedlex.data.admin.ch/eli/fga/2004/298)).
+[^7-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 8 oct. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2005 713](https://fedlex.data.admin.ch/eli/oc/2005/83); [FF 2004 1363](https://fedlex.data.admin.ch/eli/fga/2004/295), [1375](https://fedlex.data.admin.ch/eli/fga/2004/298)).
 [^7-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 
 #### Art. 7a
@@ -158,7 +158,7 @@ La prestation de la caisse de pensions affiliée, au sens de l’art. 7, al. 3, 
 
 <sup>3</sup> La rente invalidité complète s’élève annuellement à 250 % du montant maximum de la rente annuelle de vieillesse prévue à l’art. 34 de la loi fédérale du 20 décembre 1946 sur l’assurance vieillesse et survivants (LAVS)[^7a-3]. Les éventuelles prestations d’invalidité versées par des institutions de prévoyance professionnelle ou, dans le cas des personnes exerçant une profession indépendante, de formes reconnues de prévoyance individuelle liée (pilier 3a), sont décomptées.
 
-[^7a-1]: Introduit par le ch. I de l’O de l’Ass. féd. du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> déc. 2003 ([RO 2003 3665](https://fedlex.data.admin.ch/eli/oc/2003/517); [FF 2002 6597](https://fedlex.data.admin.ch/eli/fga/2002/1126)[6617](https://fedlex.data.admin.ch/eli/fga/2002/1129)).
+[^7a-1]: Introduit par le ch. I de l’O de l’Ass. féd. du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> déc. 2003 ([RO 2003 3665](https://fedlex.data.admin.ch/eli/oc/2003/517); [FF 2002 6597](https://fedlex.data.admin.ch/eli/fga/2002/1126), [6617](https://fedlex.data.admin.ch/eli/fga/2002/1129)).
 [^7a-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 [^7a-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
@@ -174,7 +174,7 @@ La prestation de la caisse de pensions affiliée, au sens de l’art. 7, al. 3, 
 
 <sup>4</sup> L’ordre des bénéficiaires est réglé à l’art. 15, al. 1, let. b, et al. 2, de l’ordonnance du 3 octobre 1994 sur le libre passage dans la prévoyance professionnelle vieillesse, survivants et invalidité[^7b-3].
 
-[^7b-1]: Introduit par le ch. I de l’O de l’Ass. féd. du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> déc. 2003 ([RO 2003 3665](https://fedlex.data.admin.ch/eli/oc/2003/517); [FF 2002 6597](https://fedlex.data.admin.ch/eli/fga/2002/1126)[6617](https://fedlex.data.admin.ch/eli/fga/2002/1129)).
+[^7b-1]: Introduit par le ch. I de l’O de l’Ass. féd. du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> déc. 2003 ([RO 2003 3665](https://fedlex.data.admin.ch/eli/oc/2003/517); [FF 2002 6597](https://fedlex.data.admin.ch/eli/fga/2002/1126), [6617](https://fedlex.data.admin.ch/eli/fga/2002/1129)).
 [^7b-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^7b-3]: [RS 831.425](https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399)
 
@@ -194,7 +194,7 @@ La Confédération conclut une assurance qui, en cas de maladie ou d’accident 
 
 <sup>3</sup> Le droit du député à des prestations doit être exercé directement auprès de l’assurance.
 
-[^8-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 8 oct. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2005 713](https://fedlex.data.admin.ch/eli/oc/2005/83); [FF 2004 1363](https://fedlex.data.admin.ch/eli/fga/2004/295)[1375](https://fedlex.data.admin.ch/eli/fga/2004/298)).
+[^8-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 8 oct. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2005 713](https://fedlex.data.admin.ch/eli/oc/2005/83); [FF 2004 1363](https://fedlex.data.admin.ch/eli/fga/2004/295), [1375](https://fedlex.data.admin.ch/eli/fga/2004/298)).
 
 #### Art. 8a
 
@@ -204,11 +204,12 @@ La Confédération conclut une assurance qui, en cas de maladie ou d’accident 
 
 <sup>2</sup> Pendant les 30 premiers jours, le député perçoit 100 % de l’indemnité journalière. À partir du 31<sup>e</sup> jour, il n’en perçoit plus que 80 %.
 
-<sup>3</sup> Toute députée absente pour cause de congé maternité perçoit l’indemnité journalière.
+<sup>3</sup> Toute députée absente et tout député absent pour cause de congé de maternité ou de paternité perçoit 100 % de l’indemnité journalière.[^8a-2]
 
 <sup>4</sup> Tout député absent pour raison de maladie ou d’accident qui fait valoir un droit au versement de plus de cinq indemnités journalières doit produire un certificat médical.
 
-[^8a-1]: Introduit par le ch. I de l’O de l’Ass. féd. du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> déc. 2003 ([RO 2003 3665](https://fedlex.data.admin.ch/eli/oc/2003/517); [FF 2002 6597](https://fedlex.data.admin.ch/eli/fga/2002/1126)[6617](https://fedlex.data.admin.ch/eli/fga/2002/1129)).
+[^8a-1]: Introduit par le ch. I de l’O de l’Ass. féd. du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> déc. 2003 ([RO 2003 3665](https://fedlex.data.admin.ch/eli/oc/2003/517); [FF 2002 6597](https://fedlex.data.admin.ch/eli/fga/2002/1126), [6617](https://fedlex.data.admin.ch/eli/fga/2002/1129)).
+[^8a-2]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 17 mars 2023 (Congé de paternité: compensation de l’indemnité journalière), en vigueur depuis le 4 déc. 2023 ([RO 2023 484](https://fedlex.data.admin.ch/eli/oc/2023/484); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 8b
 
@@ -218,7 +219,7 @@ La Confédération conclut une assurance qui, en cas de maladie ou d’accident 
 
 <sup>2</sup> Le revenu d’un député visé à l’art. 8*a*, al. 1, let. a, de la loi du 18 mars 1988 sur les moyens alloués aux parlementaires est calculé d’après l’indemnité annuelle et la somme moyenne des indemnités journalières versées aux députés au cours de l’année civile précédente.
 
-[^8b-1]: Introduit par le ch. I de l’O de l’Ass. féd. du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> déc. 2003 ([RO 2003 3665](https://fedlex.data.admin.ch/eli/oc/2003/517); [FF 2002 6597](https://fedlex.data.admin.ch/eli/fga/2002/1126)[6617](https://fedlex.data.admin.ch/eli/fga/2002/1129)).
+[^8b-1]: Introduit par le ch. I de l’O de l’Ass. féd. du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> déc. 2003 ([RO 2003 3665](https://fedlex.data.admin.ch/eli/oc/2003/517); [FF 2002 6597](https://fedlex.data.admin.ch/eli/fga/2002/1126), [6617](https://fedlex.data.admin.ch/eli/fga/2002/1129)).
 [^8b-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 9
@@ -229,8 +230,8 @@ La Confédération conclut une assurance qui, en cas de maladie ou d’accident 
 
 <sup>2</sup> Le supplément est réputé couvrir les dépenses et les frais qu’ils assument dans l’exercice de leur mandat. Ils reçoivent une indemnité spéciale lorsqu’ils participent à des séances à l’étranger ou qu’ils accompagnent des délégations parlementaires étrangères en Suisse.
 
-[^9-1]: Nouveau montant selon le ch. I let. h de l’O de l’Ass. féd. du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> sept. 2012 ([RO 2012 4573](https://fedlex.data.admin.ch/eli/oc/2012/551); [FF 2012 291](https://fedlex.data.admin.ch/eli/fga/2012/114)[303](https://fedlex.data.admin.ch/eli/fga/2012/117)).
-[^9-2]: Nouveau montant selon le ch. I let. i de l’O de l’Ass. féd. du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> sept. 2012 ([RO 2012 4573](https://fedlex.data.admin.ch/eli/oc/2012/551); [FF 2012 291](https://fedlex.data.admin.ch/eli/fga/2012/114)[303](https://fedlex.data.admin.ch/eli/fga/2012/117)).
+[^9-1]: Nouveau montant selon le ch. I let. h de l’O de l’Ass. féd. du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> sept. 2012 ([RO 2012 4573](https://fedlex.data.admin.ch/eli/oc/2012/551); [FF 2012 291](https://fedlex.data.admin.ch/eli/fga/2012/114), [303](https://fedlex.data.admin.ch/eli/fga/2012/117)).
+[^9-2]: Nouveau montant selon le ch. I let. i de l’O de l’Ass. féd. du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> sept. 2012 ([RO 2012 4573](https://fedlex.data.admin.ch/eli/oc/2012/551); [FF 2012 291](https://fedlex.data.admin.ch/eli/fga/2012/114), [303](https://fedlex.data.admin.ch/eli/fga/2012/117)).
 
 #### Art. 10
 
@@ -240,7 +241,7 @@ La Confédération conclut une assurance qui, en cas de maladie ou d’accident 
 
 <sup>2</sup> Chaque année, au plus tard à la fin du mois de mars, les groupes remettent un rapport à la Délégation administrative sur l’utilisation des contributions reçues au cours de l’exercice précédent.
 
-[^10-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 11 déc. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6571](https://fedlex.data.admin.ch/eli/oc/2009/810); [FF 2009 5583](https://fedlex.data.admin.ch/eli/fga/2009/1108)[5591](https://fedlex.data.admin.ch/eli/fga/2009/1110)).
+[^10-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 11 déc. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6571](https://fedlex.data.admin.ch/eli/oc/2009/810); [FF 2009 5583](https://fedlex.data.admin.ch/eli/fga/2009/1108), [5591](https://fedlex.data.admin.ch/eli/fga/2009/1110)).
 
 #### Art. 11
 
@@ -250,8 +251,8 @@ La Confédération conclut une assurance qui, en cas de maladie ou d’accident 
 
 <sup>1</sup> Les experts et autres personnes consultés par les commissions ou les délégations reçoivent en règle générale les mêmes indemnités que les députés, à moins qu’ils ne donnent des renseignements dans leur propre intérêt.[^11-1] Les honoraires versés pour des expertises et des consultations régulières sont fixés par contrat écrit; il est tenu compte en l’occurrence du travail effectif, des difficultés rencontrées et de l’importance du mandat donné. Les tarifs comparables des associations professionnelles sont pris en considération. La Délégation administrative peut fixer d’autres indemnités, notamment pour les experts étrangers, ainsi que dans des cas spéciaux.[^11-2]
 
-[^11-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> avril 2008 ([RO 2008 1219](https://fedlex.data.admin.ch/eli/oc/2008/224); [FF 2008 117](https://fedlex.data.admin.ch/eli/fga/2008/52)[129](https://fedlex.data.admin.ch/eli/fga/2008/56)).
-[^11-2]: Nouvelle teneur de la phrase selon le ch. I de l’O de l’Ass. féd. du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> avril 2008 ([RO 2008 1219](https://fedlex.data.admin.ch/eli/oc/2008/224); [FF 2008 117](https://fedlex.data.admin.ch/eli/fga/2008/52)[129](https://fedlex.data.admin.ch/eli/fga/2008/56)).
+[^11-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> avril 2008 ([RO 2008 1219](https://fedlex.data.admin.ch/eli/oc/2008/224); [FF 2008 117](https://fedlex.data.admin.ch/eli/fga/2008/52), [129](https://fedlex.data.admin.ch/eli/fga/2008/56)).
+[^11-2]: Nouvelle teneur de la phrase selon le ch. I de l’O de l’Ass. féd. du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> avril 2008 ([RO 2008 1219](https://fedlex.data.admin.ch/eli/oc/2008/224); [FF 2008 117](https://fedlex.data.admin.ch/eli/fga/2008/52), [129](https://fedlex.data.admin.ch/eli/fga/2008/56)).
 
 #### Art. 12
 
@@ -261,7 +262,7 @@ La Confédération conclut une assurance qui, en cas de maladie ou d’accident 
 
 <sup>2</sup> L’indemnité annuelle et la contribution annuelle aux dépenses sont réduites de façon équitable lorsque le député, pour un motif autre que la maladie ou l’accident, n’a pas participé aux travaux du conseil ou des commissions durant un trimestre au moins.
 
-[^12-2]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3632](https://fedlex.data.admin.ch/eli/oc/2002/549); [FF 2002 3715](https://fedlex.data.admin.ch/eli/fga/2002/574)[3737](https://fedlex.data.admin.ch/eli/fga/2002/577)).
+[^12-2]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3632](https://fedlex.data.admin.ch/eli/oc/2002/549); [FF 2002 3715](https://fedlex.data.admin.ch/eli/fga/2002/574), [3737](https://fedlex.data.admin.ch/eli/fga/2002/577)).
 
 #### Art. 13
 
@@ -271,7 +272,7 @@ La Confédération conclut une assurance qui, en cas de maladie ou d’accident 
 
 <sup>2</sup> Il entre en vigueur en même temps que la loi du 18 mars 1988 sur les indemnités parlementaires[^13-4].
 
-[^13-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3632](https://fedlex.data.admin.ch/eli/oc/2002/549); [FF 2002 3715](https://fedlex.data.admin.ch/eli/fga/2002/574)[3737](https://fedlex.data.admin.ch/eli/fga/2002/577)).
+[^13-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3632](https://fedlex.data.admin.ch/eli/oc/2002/549); [FF 2002 3715](https://fedlex.data.admin.ch/eli/fga/2002/574), [3737](https://fedlex.data.admin.ch/eli/fga/2002/577)).
 [^13-2]: Actuellement «O de l’Ass. féd.» (art. 163, al. 1, Cst. – [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
 [^13-3]: Actuellement «loi sur les moyens alloués aux parlementaires».
 [^13-4]: Actuellement «loi sur les moyens alloués aux parlementaires». Cette loi est entrée en vigueur le 1<sup>er</sup> juil. 1988.

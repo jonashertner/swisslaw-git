@@ -4,11 +4,11 @@ title: Verordnung der Bundesversammlung vom 18. März 1988 zum Parlamentsressour
 short: VPRG
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1166_1166_1166"
 language: de
-version: 2022-05-30
+version: 2023-12-04
 adopted: 1988-03-18
 in_force: 1988-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1166_1166_1166/20220530/de/xml/fedlex-data-admin-ch-eli-cc-1988-1166_1166_1166-20220530-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1166_1166_1166/20220530/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1166_1166_1166/20231204/de/xml/fedlex-data-admin-ch-eli-cc-1988-1166_1166_1166-20231204-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1166_1166_1166/20231204/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/1166_1166_1166/20220530/de"
 
 (VPRG)[^t-1]
 
-vom 18. März 1988 (Stand am 30. Mai 2022)
+vom 18. März 1988 (Stand am 4. Dezember 2023)
 
 [^t-1]: Fassung gemäss Ziff. I der V der BVers vom 21. Juni 2002, in Kraft seit 1. Dez. 2002 ([AS 2002 3632](https://fedlex.data.admin.ch/eli/oc/2002/549); [BBl 2002 4001](https://fedlex.data.admin.ch/eli/fga/2002/575)[4006](https://fedlex.data.admin.ch/eli/fga/2002/577)).
 
@@ -204,11 +204,12 @@ Der Bund schliesst eine Versicherung ab, die bei Krankheit oder Unfall eines Rat
 
 <sup>2</sup> Während den ersten 30 Kalendertagen hat das Ratsmitglied Anspruch auf 100 Prozent des entgangenen Taggeldes. Ab dem 31. Kalendertag beträgt der Anspruch 80 Prozent.
 
-<sup>3</sup> Während des Mutterschaftsurlaubes hat die Parlamentarierin Anspruch auf 100 Prozent des entgangenen Taggeldes.
+<sup>3</sup> Während des Mutterschaftsurlaubes oder des Vaterschaftsurlaubes hat die Parlamentarierin oder der Parlamentarier Anspruch auf 100 Prozent des entgangenen Taggeldes.[^8a-2]
 
 <sup>4</sup> Wird ein Anspruch auf mehr als fünf Taggeldersatzzahlungen geltend gemacht, so ist ein Arztzeugnis vorzulegen.
 
 [^8a-1]: Eingefügt durch Ziff. I der V der BVers vom 13. Dez. 2002, in Kraft seit 1. Dez. 2003 ([AS 2003 3665](https://fedlex.data.admin.ch/eli/oc/2003/517); [BBl 2002 7082](https://fedlex.data.admin.ch/eli/fga/2002/1126)[7102](https://fedlex.data.admin.ch/eli/fga/2002/1129)).
+[^8a-2]: Fassung gemäss Ziff. I der V der BVers vom 17. März. 2023 (Vaterschaftsurlaub: Taggeldersatz), in Kraft seit 4. Dez. 2023 ([AS 2023 484](https://fedlex.data.admin.ch/eli/oc/2023/484); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 8b
 
