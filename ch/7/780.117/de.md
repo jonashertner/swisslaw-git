@@ -4,11 +4,11 @@ title: Verordnung des EJPD vom 15. November 2017 über die Durchführung der Üb
 short: VD-ÜPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/35"
 language: de
-version: 2022-06-01
+version: 2023-12-04
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/35/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2018-35-20220601-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20220601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/35/20231204/de/xml/fedlex-data-admin-ch-eli-cc-2018-35-20231204-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20231204/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20220601/de"
 
 (VD-ÜPF)
 
-vom 15. November 2017 (Stand am 1. Juni 2022)
+vom 15. November 2017 (Stand am 4. Dezember 2023)
 
 Das Eidgenössische Justiz- und Polizeidepartement (EJPD),
 
@@ -265,13 +265,15 @@ Die Annullierung ist wie folgt durchzuführen:
 
 **Anbindung der Systeme einer Anbieterin an das Verarbeitungssystem des Dienstes ÜPF**
 
-<sup>1</sup> Die Anbieterinnen von Fernmeldediensten und die Anbieterinnen abgeleiteter Kommunikationsdienste mit weitergehenden Auskunftspflichten informieren den Dienst ÜPF über ihre Auskunftsbereitschaft bezüglich der von ihnen angebotenen Dienste und wie sie die standardisierten Auskunftstypen für die einzelnen Dienste realisieren.
+<sup>1</sup> Die Anbieterinnen von Fernmeldediensten und die Anbieterinnen abgeleiteter Kommunikationsdienste mit weitergehenden Auskunftspflichten informieren den Dienst ÜPF über ihre Auskunftsbereitschaft bezüglich der von ihnen angebotenen Dienste und wie sie die standardisierten Auskunftstypen für die einzelnen Dienste realisieren.[^20-1]
 
 <sup>2</sup> Die Anbieterinnen von Fernmeldediensten, ausser jenen mit reduzierten Überwachungspflichten, und die Anbieterinnen abgeleiteter Kommunikationsdienste mit weitergehenden Überwachungspflichten gemäss Artikel 52 VÜPF informieren den Dienst ÜPF über ihre Überwachungsbereitschaft bezüglich der von ihnen angebotenen Dienste und wie sie die standardisierten Überwachungstypen für die einzelnen Dienste realisieren.
 
 <sup>3</sup> Der Dienst ÜPF legt nach Anhörung der Anbieterin die Einzelheiten zur Auftragsabwicklung, zum Ausleitungsnetz sowie die für die einzelnen Auskunfts- und Überwachungstypen zutreffenden Identifikatoren wie Typ oder Format fest.
 
 <sup>4</sup> Die Anbieterin implementiert das Ausleitungsnetz gemäss Anhang 2 und den Anweisungen des Dienstes ÜPF.
+
+[^20-1]: Die Berichtigung vom 4. Dez. 2023 betrifft nur den französischen Text ([AS 2023 730](https://fedlex.data.admin.ch/eli/oc/2023/730)).
 
 #### Art. 21
 
@@ -355,18 +357,18 @@ Bis die Anbieterinnen ihre Systeme für die Mobilfunklokalisierung terroristisch
 
 Diese Verordnung tritt am 1. März 2018 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 7 Abs. 3 Bst. a, 26 und 27*a*)
 
-## Technische Vorschriften für die Schnittstellen für die Durchführung der Fernmeldeüberwachung (Ausgabe 2.2)****
+## Technische Vorschriften für die Schnittstellen für die Durchführung der Fernmeldeüberwachung (Ausgabe 2.2)
 
 [^annex1-lvlu1-1]
 
 [^t-1]: Fassung gemäss Ziff. II der V des EJPD vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 302](https://fedlex.data.admin.ch/eli/oc/2022/302)).
 [^annex1-lvlu1-1]: Dieser Anhang wird in der AS nicht veröffentlicht. Er kann kostenlos im Internet unter www.li.admin.ch &gt; Dokumentation &gt; Downloads abgerufen oder beim Dienst ÜPF, 3003 Bern bezogen werden.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 20 Abs. 4 und 26)
 

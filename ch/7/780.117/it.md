@@ -4,11 +4,11 @@ title: "Ordinanza del DFGP del 15 novembre 2017 sull'esecuzione della sorveglian
 short: OE-SCPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/35"
 language: it
-version: 2022-06-01
+version: 2023-12-04
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/35/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2018-35-20220601-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20220601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/35/20231204/it/xml/fedlex-data-admin-ch-eli-cc-2018-35-20231204-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20231204/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20220601/it"
 
 (OE-SCPT)
 
-del 15 novembre 2017 (Stato 1° giugno 2022)
+del 15 novembre 2017 (Stato 4 dicembre 2023)
 
 Il Dipartimento federale di giustizia e polizia (DFGP),
 
@@ -265,13 +265,15 @@ L’annullamento è eseguito nel modo seguente:
 
 **Collegamento dei sistemi del fornitore con il sistema di trattamento del Servizio SCPT**
 
-<sup>1</sup> I fornitori di servizi di telecomunicazione e i fornitori di servizi di comunicazione derivati con obblighi di informazione supplementari comunicano al Servizio SCPT la loro disponibilità a informare sui servizi offerti e sulle modalità di realizzazione dei tipi d’informazione standardizzati per i singoli servizi.
+<sup>1</sup> I fornitori di servizi di telecomunicazione e i fornitori di servizi di comunicazione derivati con obblighi di informazione supplementari comunicano al Servizio SCPT la loro disponibilità a informare sui servizi offerti e sulle modalità di realizzazione dei tipi d’informazione standardizzati per i singoli servizi.[^20-1]
 
 <sup>2</sup> I fornitori di servizi di telecomunicazione, eccetto quelli con obblighi di sorveglianza ridotti, e i fornitori di servizi di comunicazione derivati con obblighi di sorveglianza supplementari secondo l’articolo 52 OSCPT informano il Servizio SCPT in merito alla loro disponibilità a sorvegliare riguardo ai servizi da loro offerti e alle modalità secondo cui realizzano i tipi di sorveglianza standardizzati per i singoli servizi.
 
 <sup>3</sup> Dopo aver sentito il fornitore, il Servizio SCPT definisce i dettagli relativi allo svolgimento del mandato e alla rete di trasferimento nonché gli identificativi, come tipo e formato, per ogni tipo di informazione e sorveglianza.
 
 <sup>4</sup> Il fornitore implementa la rete di trasferimento conformemente all’allegato 2 e alle istruzioni del Servizio SCPT.
+
+[^20-1]: La correzione del 4 dic. 2023 concerne soltanto il testo francese ([RU 2023 730](https://fedlex.data.admin.ch/eli/oc/2023/730)).
 
 #### Art. 21
 
@@ -355,18 +357,18 @@ Finché i fornitori non hanno adeguato i loro sistemi per la localizzazione di p
 
 La presente ordinanza entra in vigore il 1° marzo 2018.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 7 cpv. 3 lett. a, 26 e 27*a*)
 
-## Prescrizioni tecniche in materia di interfacce per l’esecuzione della sorveglianza delle telecomunicazioni (versione 2.2)****
+## Prescrizioni tecniche in materia di interfacce per l’esecuzione della sorveglianza delle telecomunicazioni (versione 2.2)
 
 [^annex1-lvlu1-1]
 
 [^t-1]: Nuovo testo giusta il n. II dell’O del DFGP del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 302](https://fedlex.data.admin.ch/eli/oc/2022/302)).
 [^annex1-lvlu1-1]: Il testo dell’all. 1 non è pubblicato nella RU. Può essere consultato gratuitamente in Internet all’indirizzo www.li.admin.ch &gt; Documentazione &gt; Downloads o presso il Servizio SCPT, 3003 Berna.
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 20 cpv. 4 e 26)
 

@@ -4,11 +4,11 @@ title: Ordonnance du DFJP du 15 novembre 2017 sur la mise en uvre de la survei
 short: OME-SCPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/35"
 language: fr
-version: 2022-06-01
+version: 2023-12-04
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/35/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2018-35-20220601-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20220601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/35/20231204/fr/xml/fedlex-data-admin-ch-eli-cc-2018-35-20231204-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20231204/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20220601/fr"
 
 (OME-SCPT)
 
-du 15 novembre 2017 (Etat le 1<sup>er</sup> juin 2022)
+du 15 novembre 2017 (État le 4 décembre 2023)
 
 Le Département fédéral de justice et police (DFJP),
 
@@ -168,7 +168,7 @@ La recherche flexible selon l’art. 27, en relation avec les art. 35, 40, 42 et
 - b. elle est tolérante à l’erreur pour l’inversion, l’omission et l’abréviation de parties de nom, par exemple l’inversion du nom et du prénom;
 - c. elle trouve des correspondances phonétiques selon les sonorités de la langue anglaise et, si possible, aussi des trois langues officielles que sont l’allemand, le français et l’italien.
 
-[^13-1]: La directive peut être téléchargée gratuitement à partir du site internet du Secrétariat d’État aux migrations: www.sem.admin.ch &gt; Publications & services &gt; Directives et circulaires &gt; I. Domaine des étrangers &gt; 3 Réglementation du séjour.
+[^13-1]: La directive peut être téléchargée gratuitement à partir du site internet du Secrétariat d’État aux migrations: [www.sem.admin.ch](http://www.sem.admin.ch) &gt; Publications & services &gt; Directives et circulaires &gt; I. Domaine des étrangers &gt; 3 Réglementation du séjour.
 
 #### Art. 14
 
@@ -265,13 +265,15 @@ L’annulation s’effectue comme suit:
 
 **Raccordement des systèmes des fournisseurs au système de traitement du Service SCPT**
 
-<sup>1</sup> Les fournisseurs de services de télécommunication et les fournisseurs de services de communication dérivés ayant des obligations étendues en matière de fourniture de renseignements informent le Service SCPT de leur disponibilité à renseigner concernant les services qu’ils offrent et des modalités d’exécution, pour chacun de leurs services, des demandes portant sur des types de renseignements ayant fait l’objet d’une standardisation. Les fournisseurs de services de télécommunication ayant des obligations restreintes en matière de surveillance, visés à l’art. 51 OSCPT, sont dispensés de cette obligation d’informer le Service SCPT.
+<sup>1</sup> Les fournisseurs de services de télécommunication et les fournisseurs de services de communication dérivés ayant des obligations étendues en matière de fourniture de renseignements informent le Service SCPT de leur disponibilité à renseigner concernant les services qu’ils offrent et des modalités d’exécution, pour chacun de leurs services, des demandes portant sur des types de renseignements ayant fait l’objet d’une standardisation.[^20-1]
 
 <sup>2</sup> Les fournisseurs de services de télécommunication, à l’exception de ceux qui ont des obligations restreintes en matière de surveillance, et les fournisseurs de services de communication dérivés ayant des obligations étendues en matière de surveillance visés à l’art. 52 OSCPT informent le Service SCPT de leur disponibilité à surveiller les services qu’ils offrent et des modalités d’exécution, pour chacun de leurs services, des types de surveillance ayant fait l’objet d’une standardisation.
 
 <sup>3</sup> Le Service SCPT fixe, après avoir entendu les fournisseurs, les modalités concernant l’exécution du mandat et le réseau de transmission, et détermine pour chaque type de renseignements et de surveillance les identifiants pertinents, comme le type ou le format.
 
 <sup>4</sup> Les fournisseurs mettent en place le réseau de transmission conformément à l’annexe 2 et aux instructions du Service SCPT.
+
+[^20-1]: Erratum du 4 déc. 2023 ([RO 2023 730](https://fedlex.data.admin.ch/eli/oc/2023/730)).
 
 #### Art. 21
 
@@ -355,21 +357,21 @@ Jusqu’à ce que les fournisseurs aient adapté leurs systèmes pour la localis
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> mars 2018.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 7, al. 3, let. a, 26 et 27*a*)
 
-## Prescriptions techniques relatives aux interfaces pour la mise en œuvre de la surveillance de la correspondance par poste et télécommunication (version 2.2)****
+## Prescriptions techniques relatives aux interfaces pour la mise en œuvre de la surveillance de la correspondance par poste et télécommunication (version 2.2)
 
 [^annex1-lvlu1-1]
 
 [^t-1]: Nouvelle teneur selon le ch. II de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 302](https://fedlex.data.admin.ch/eli/oc/2022/302)).
-[^annex1-lvlu1-1]: La présente annexe n’est pas publiée au RO. Elle peut être obtenue gratuitement sur le site www.li.admin.ch &gt; Documentation &gt; Téléchargements ou auprès du Service SCPT, 3003 Berne.
+[^annex1-lvlu1-1]: La présente annexe n’est pas publiée au RO. Elle peut être obtenue gratuitement sur le site [www.li.admin.ch](http://www.li.admin.ch) &gt; Documentation &gt; Téléchargements ou auprès du Service SCPT, 3003 Berne.
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 20, al. 4, et art. 26)
 
 ## Prescriptions techniques relatives aux réseaux de transmission pour la mise en œuvre de la surveillance de la correspondance par poste et télécommunications (version 1.1)
 
-[^t-2]: Cette annexe n’est pas publiée au RO ([RO 2019 571](https://fedlex.data.admin.ch/eli/oc/2019/96)). Elle peut être obtenue gratuitement sur le site www.li.admin.ch ou auprès du Service SCPT, Fellerstrasse 15, 3003 Berne.
+[^t-2]: Cette annexe n’est pas publiée au RO ([RO 2019 571](https://fedlex.data.admin.ch/eli/oc/2019/96)). Elle peut être obtenue gratuitement sur le site [www.li.admin.ch](http://www.li.admin.ch) ou auprès du Service SCPT, Fellerstrasse 15, 3003 Berne.
