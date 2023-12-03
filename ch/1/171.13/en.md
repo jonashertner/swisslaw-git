@@ -4,11 +4,11 @@ title: Standing Orders of the National Council of 3 October 2003 (SO-NC)
 short: SO-NC
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/514"
 language: en
-version: 2022-05-30
+version: 2023-12-04
 adopted: 2003-10-03
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/514/20220530/en/xml/fedlex-data-admin-ch-eli-cc-2003-514-20220530-en-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20220530/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/514/20231204/en/xml/fedlex-data-admin-ch-eli-cc-2003-514-20231204-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20231204/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (SO-NC)
 
-of 3 October 2003 (Status as of 30 May 2022)
+of 3 October 2003 (Status as of 4 December 2023)
 
 The National Council,
 
@@ -58,7 +58,7 @@ At this meeting, the Council:
 
 <sup>1</sup> The Oldest Member is the council member who has served the longest uninterrupted term. If two or more members of the Council have served the same term, the older member shall take precedence.
 
-<sup>2</sup> The Council Bureau for the previous legislative period shall designate the Oldest Member based on the report of the Federal Council on the results of the National Council elections.
+<sup>2</sup> The Council Office for the previous legislative period shall designate the Oldest Member based on the report of the Federal Council on the results of the National Council elections.
 
 <sup>3</sup> If the Oldest Member is unable to assume office, the office shall be assumed by the council member next in line in accordance with paragraph 1 of this Article.
 
@@ -70,25 +70,25 @@ At this meeting, the Council:
 
 The Oldest Member:
 
-- a. designates the eight other members of the Provisional Bureau in accordance with Article 43, paragraph 3 ParlA;
-- b. chairs the Provisional Bureau;
+- a. designates the eight other members of the Provisional Office in accordance with Article 43, paragraph 3 ParlA;
+- b. chairs the Provisional Office;
 - c. chairs the Council until the new President is elected.
 
 <sup>2</sup> The other tasks of President are carried out by the President of the previous legislative period until the new President is elected.
 
 #### Art. 4
 
-**Tasks of the Provisional Bureau**
+**Tasks of the Provisional Office**
 
 <sup>1</sup>
 
-The Provisional Bureau shall:
+The Provisional Office shall:
 
 - a. verify whether the elections of the majority of council members have remained uncontested or have been declared valid, and if so, propose that the Council declare that it is constituted;
 - b. verify whether any of the newly elected members of the council are subject to the incompatibility provisions of Article 14 letters b-f ParlA, and, if applicable, propose a declaration of incompatibility;
-- c. ascertain the results of the votes and elections in the Council, until the new Bureau is elected.
+- c. ascertain the results of the votes and elections in the Council, until the new Office is elected.
 
-<sup>2</sup> The other tasks of the Bureau are carried out by the outgoing Bureau of the previous legislative period until the new Bureau is elected.
+<sup>2</sup> The other tasks of the Office are carried out by the outgoing Office of the previous legislative period until the new Office is elected.
 
 #### Art. 5
 
@@ -123,8 +123,8 @@ The Provisional Bureau shall:
 The President shall fulfil the tasks conferred on him or her by law and shall:
 
 - a. chair the Council’s meetings;
-- b. establish the agenda, subject to Council decisions to the contrary, taking into consideration the programme of the parliamentary session established by the Bureau;
-- c. chair the Presiding College and the Bureau;
+- b. establish the agenda, subject to Council decisions to the contrary, taking into consideration the programme of the parliamentary session established by the Office;
+- c. chair the Presiding College and the Office;
 - d. represent the Council in its external dealings.
 
 <sup>2</sup> If the President is unable to chair the meeting, or wishes by way of exception to participate in a debate, he or she shall be replaced provisionally by the First Vice-President, or if need be by the Second Vice-President.
@@ -145,7 +145,7 @@ The Vice-Presidents:
 
 <sup>5</sup> Decisions of the Presiding College require the approval of at least two of its members.
 
-### Section 2 The Bureau
+### Section 2 The Office
 
 #### Art. 8
 
@@ -153,7 +153,7 @@ The Vice-Presidents:
 
 <sup>1</sup>
 
-The Bureau comprises:
+The Office comprises:
 
 - a. the three members of the Presiding College;
 - b. the four Tellers;
@@ -163,7 +163,7 @@ The Bureau comprises:
 
 <sup>3</sup> The allocation of seats of Tellers and their replacements among the parliamentary groups is regulated by Articles 40 and 41 of the Federal Act of 17 December 1976[^8-1] on Political Rights; for their term of office, Article 17 paragraph 1 and 4 apply mutatis mutandis.
 
-<sup>4</sup> The President participates in votes in the Bureau. In the event of a tie, he or she has the casting vote.
+<sup>4</sup> The President participates in votes in the Office. In the event of a tie, he or she has the casting vote.
 
 [^8-1]: [SR 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
 
@@ -173,7 +173,7 @@ The Bureau comprises:
 
 <sup>1</sup>
 
-The Bureau:
+The Office:
 
 - a. plans the activities of the Council and sets out the session programme, subject to decisions by the Council to modify the list of items of business, or to add or withdraw such items;
 - b. determines the remit of the standing committees and institutes special committees;
@@ -186,7 +186,7 @@ The Bureau:
 - i. examines whether incompatibilities exist under Article 14 ParlA, and, if necessary, proposes that the Council confirm the existence of any incompatibility;
 - j. handles all other issues of organisation and procedure in the Council.
 
-<sup>2</sup> The Bureau consults the presidents of the committees before taking decisions on matters concerning paragraph 1 letters b, c, and e.
+<sup>2</sup> The Office consults the presidents of the committees before taking decisions on matters concerning paragraph 1 letters b, c, and e.
 
 ### Section 3 Committees and Delegations
 
@@ -215,7 +215,7 @@ The following standing committees exist:
 
 **Special committees**
 
-In exceptional cases, the Bureau may institute special committees. Prior to doing so, it shall consult the presidents of the standing committees whose area of competence may be affected.
+In exceptional cases, the Office may institute special committees. Prior to doing so, it shall consult the presidents of the standing committees whose area of competence may be affected.
 
 #### Art. 12
 
@@ -251,7 +251,10 @@ The Legislature Planning Committee is constituted in the first session of the le
 
 <sup>3</sup> The finance and the control committee may establish standing sub-committees to supervise certain areas on behalf of the committee.
 
+<sup>4</sup> The Foreign Affairs Committee shall establish a standing sub-committee for European affairs. This committee shall keep itself informed about forthcoming legal developments in the European Union that are of importance to Switzerland and report regularly to the Committee thereon.[^14-2]
+
 [^14-1]: Amended by No I of the NC Decree of 18 March 2022 (Improving the Functioning of Parliament, in particular in Crisis Situations), in force since 30 May 2021 ([AS 2022 295](https://fedlex.data.admin.ch/eli/oc/2022/295); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^14-2]: Inserted by No I of the NC Decree of 29 Sept. 2023 (Standing Sub-Committee for European Affairs of the National Council Foreign Affairs Committee), in force since 4 Dec. 2023 ([AS 2023 673](https://fedlex.data.admin.ch/eli/oc/2023/673); [BBl 2023 1574](https://fedlex.data.admin.ch/eli/fga/2023/1574), [1988](https://fedlex.data.admin.ch/eli/fga/2023/1988)).
 
 #### Art. 15
 
@@ -320,7 +323,7 @@ An extraordinary total renewal of the committee for the remainder of the term of
 
 <sup>1</sup> A committee member may be substituted for a single meeting of the committee or sub-committee. The replacement member is nominated by the group.
 
-<sup>2</sup> If a committee member leaves the Council, the parliamentary group shall nominate a replacement, as long as the Bureau has not assigned another member to the position.
+<sup>2</sup> If a committee member leaves the Council, the parliamentary group shall nominate a replacement, as long as the Office has not assigned another member to the position.
 
 <sup>3</sup> In the cases under paragraphs 1 and 2, the parliamentary group shall give notice of the name of the replacement to the secretary of the committee without delay.
 
@@ -384,7 +387,7 @@ Items of business under Article 71 ParlA are subject to preliminary examination 
 
 <sup>2</sup> If, as a result of a Council resolution, an item of business has to be allocated to a committee, the allocation shall take place at the end of the session.
 
-<sup>3</sup> A Federal Council report may be allocated directly to the responsible committee. The committee may propose that the Bureau include the report in the session programme.
+<sup>3</sup> A Federal Council report may be allocated directly to the responsible committee. The committee may propose that the Office include the report in the session programme.
 
 #### Art. 23
 
@@ -394,7 +397,7 @@ Items of business under Article 71 ParlA are subject to preliminary examination 
 
 <sup>2</sup> The evaluation of formal legality of further items of business submitted in accordance with Article 71 ParlA is only conducted by the President if a corresponding proposal is made. If the item of business is pending in the Federal Assembly, the President of the Council of States shall be consulted.
 
-<sup>3</sup> If an item of business is declared inadmissible by the President, the author may appeal to the Bureau. The decision of the Bureau is final.
+<sup>3</sup> If an item of business is declared inadmissible by the President, the author may appeal to the Office. The decision of the Office is final.
 
 #### Art. 24
 
@@ -402,7 +405,7 @@ Items of business under Article 71 ParlA are subject to preliminary examination 
 
 <sup>1</sup> Legislative bills produced by a committee or proposals submitted by the committee responsible for the preliminary examination of a legislative bill put forward by the Federal Council must be sent to members of the Council at least fourteen days before they are due to come before the Council; this rule does not apply to legislative bills examined by both chambers in the same session (Art. 85 ParlA).
 
-<sup>2</sup> If the documents are not submitted in time, the Bureau shall consider removing the item of business from the session programme.
+<sup>2</sup> If the documents are not submitted in time, the Office shall consider removing the item of business from the session programme.
 
 #### Art. 24a
 
@@ -432,7 +435,7 @@ A member of the Council or a group may submit a parliamentary initiative or a pr
 
 **Answering procedural requests**[^27-1]
 
-If the addressee of a procedural request is unable to respond to the request within the specified period, he or she shall inform the Bureau and the author stating a reason for the delay.
+If the addressee of a procedural request is unable to respond to the request within the specified period, he or she shall inform the Office and the author stating a reason for the delay.
 
 [^27-1]: Amended by No I of the NC Decree of 3 Oct. 2008, in force since 2 March 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
@@ -500,18 +503,18 @@ If the addressee of a procedural request is unable to respond to the request wit
 
 The party responsible for the declaration of urgency is:
 
-- a. in the case of an interpellation, the Bureau, unless the Council decides otherwise;
-- b. in the case of a question, the President; if the President is of the view that the question is not urgent, the Bureau makes the final decision.[^30-1]
+- a. in the case of an interpellation, the Office, unless the Council decides otherwise;
+- b. in the case of a question, the President; if the President is of the view that the question is not urgent, the Office makes the final decision.[^30-1]
 
 <sup>3</sup> An urgent interpellation or an urgent question must be submitted at the latest by the beginning of the third sitting of a three-week session. It shall be answered by the Federal Council in the same session.[^30-2]
 
-<sup>4</sup> The Bureau may with the consent of its author convert an urgent interpellation into an urgent question.[^30-3]
+<sup>4</sup> The Office may with the consent of its author convert an urgent interpellation into an urgent question.[^30-3]
 
 [^30-1]: Amended by No I of the NC Decree of 3 Oct. 2008, in force since 2 March 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 [^30-2]: Amended by No I of the NC Decree of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 [^30-3]: Amended by No I of the NC Decree of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
-### a<sup>bis</sup>.**** Debate on Current Issues
+### a<sup>bis</sup>. Debate on Current Issues
 
 [^chap3-sec2-lvlabis-1]
 
@@ -564,7 +567,7 @@ The party responsible for the declaration of urgency is:
 
 <sup>2</sup> At the proposal of a member, the Council may decide to hold a discussion on the statement.
 
-### d.**** Legislature Plan
+### d. Legislature Plan
 
 [^chap3-sec2-lvld-1]
 
@@ -610,7 +613,7 @@ The party responsible for the declaration of urgency is:
 
 [^33cbis-1]: Inserted by No I of the NC Decree of 19 Dec. 2008 (Annual Report of the Federal Council) ([AS 2009 699](https://fedlex.data.admin.ch/eli/oc/2009/116); [BBl 2008 1095](https://fedlex.data.admin.ch/eli/fga/2008/229)[1105](https://fedlex.data.admin.ch/eli/fga/2008/232)). Repealed by No I of the NC Decree of 29 Sept. 2017 (Annual Report of the Federal Council), with effect from 1 Jan. 2018 ([AS 2017 5141](https://fedlex.data.admin.ch/eli/oc/2017/563); [BBl 2017 3419](https://fedlex.data.admin.ch/eli/fga/2017/776)[3425](https://fedlex.data.admin.ch/eli/fga/2017/778)).
 
-### f.**** Relative Immunity
+### f. Relative Immunity
 
 [^chap3-sec2-lvlf-1]
 
@@ -649,7 +652,7 @@ The Council normally sits as follows:
 - b. Tuesday: from 8.00 a.m. to 1.00 p.m.; Tuesday afternoon is reserved for group sittings;
 - c. Wednesday: from 8.00 a.m. to 1.00 p.m. and from 3.00 p.m. to 7.00 p.m.;
 - d. Thursday: from 8.00 a.m. to 1.00 p.m. and in the final week of a session from 3.00 p.m. to 7.00 p.m.;
-- e. On the Friday of the final week of a session: from 8.00 a.m. to 11.00 p.m..
+- e. On the Friday of the final week of a session: from 8.00 a.m. to 11.00 p.m.
 
 <sup>2</sup> Evening sittings (from 7.00 p.m. to 10.00 p.m.) are arranged if the workload and the urgency of the business so requires.
 
@@ -834,7 +837,7 @@ An organised debate may in particular be held:
 - a. for the introductory debate;
 - b. for consideration of an interpellation or a report.
 
-<sup>2</sup> The Bureau shall specify an overall speaking time for the groups and allocate each group a share of this time based on their size in the Council.[^47-1]
+<sup>2</sup> The Office shall specify an overall speaking time for the groups and allocate each group a share of this time based on their size in the Council.[^47-1]
 
 <sup>3</sup> ...[^47-2]
 
@@ -849,7 +852,7 @@ An organised debate may in particular be held:
 
 **Group debate and short debate[^48-1]**
 
-<sup>1</sup> In a normal group debate, the right to speak shall be limited to group spokespersons and members proposing amendments. In a time limited group debate, speaking times in the introductory debate in accordance with Article 44 shall be halved for all speakers other than those who fall within Article 44 paragraph 1 letter d.[^48-2]
+<sup>1</sup> In a normal group debate, the right to speak shall be limited to group spokespersons and members proposing amendments. In a time-limited group debate, speaking times in the introductory debate in accordance with Article 44 shall be halved for all speakers other than those who fall within Article 44 paragraph 1 letter d.[^48-2]
 
 <sup>2</sup> In the short debate, only the rapporteurs for the committee minorities shall have the right to speak.
 
@@ -1049,7 +1052,7 @@ The following persons are allowed access to the Chamber and its anterooms (the L
 
 The Standing Orders of the National Council of 22 June 1990[^63-1] are repealed.
 
-[^63-1]: [[AS 1990 954](https://fedlex.data.admin.ch/eli/oc/1990/954_954_954), [1991 2158](https://fedlex.data.admin.ch/eli/oc/1991/2158_2158_2158), [1992 505](https://fedlex.data.admin.ch/eli/oc/1992/505_505_505), [1994 362](https://fedlex.data.admin.ch/eli/oc/1994/362_362_362)[2150](https://fedlex.data.admin.ch/eli/oc/1994/2150_2150_2150), [1995 530](https://fedlex.data.admin.ch/eli/oc/1995/530_530_530)[4358](https://fedlex.data.admin.ch/eli/oc/1995/4358_4358_4358), [1998 782](https://fedlex.data.admin.ch/eli/oc/1998/782_782_782), [1999 161](https://fedlex.data.admin.ch/eli/oc/1999/24)[2612](https://fedlex.data.admin.ch/eli/oc/1999/405)]
+[^63-1]: [[AS 1990 954](https://fedlex.data.admin.ch/eli/oc/1990/954_954_954); [1991 2158](https://fedlex.data.admin.ch/eli/oc/1991/2158_2158_2158); [1992 505](https://fedlex.data.admin.ch/eli/oc/1992/505_505_505); [1994 362](https://fedlex.data.admin.ch/eli/oc/1994/362_362_362), [2150](https://fedlex.data.admin.ch/eli/oc/1994/2150_2150_2150); [1995 530](https://fedlex.data.admin.ch/eli/oc/1995/530_530_530), [4358](https://fedlex.data.admin.ch/eli/oc/1995/4358_4358_4358); [1998 782](https://fedlex.data.admin.ch/eli/oc/1998/782_782_782); [1999 161](https://fedlex.data.admin.ch/eli/oc/1999/24), [2612](https://fedlex.data.admin.ch/eli/oc/1999/405)]
 
 #### Art. 64
 
@@ -1074,7 +1077,7 @@ The Council shall rule:
 
 These Standing Orders come into force together with the Parliament Act on 1 December 2003.
 
-## Transitional Provisions to the amendment of 3 October 2008****
+## Transitional Provisions to the amendment of 3 October 2008
 
 [^u1-1]
 
@@ -1088,10 +1091,10 @@ A group that is granted the right to additional committee seats in accordance wi
 
 Articles 28*a* and 28*b* apply to parliamentary initiatives, motions and postulates that have not been submitted by the date on which the Amendment of 3 October 2008 comes into force.
 
-## Transitional Provision to the amendment of 12 December 2014****
+## Transitional Provision to the amendment of 12 December 2014
 
 [^u2-1]
 
-[^u2-1]: [AS 2015 649](https://fedlex.data.admin.ch/eli/oc/2015/105)
+[^u2-1]: [AS 2015 649](https://fedlex.data.admin.ch/eli/oc/2015/105).
 
 Article 28 paragraph 2 second sentence applies to procedural requests that are opposed from the floor of the Council from the date on which the Amendment of 12 December 2014 comes into force.

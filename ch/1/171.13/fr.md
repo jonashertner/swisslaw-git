@@ -4,11 +4,11 @@ title: Règlement du Conseil national du 3 octobre 2003 (RCN)
 short: RCN
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/514"
 language: fr
-version: 2022-05-30
+version: 2023-12-04
 adopted: 2003-10-03
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/514/20220530/fr/xml/fedlex-data-admin-ch-eli-cc-2003-514-20220530-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20220530/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/514/20231204/fr/xml/fedlex-data-admin-ch-eli-cc-2003-514-20231204-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20231204/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20220530/fr"
 
 (RCN)
 
-du 3 octobre 2003 (État le 30 mai 2022)
+du 3 octobre 2003 (État le 4 décembre 2023)
 
 Le Conseil national,
 
@@ -249,7 +249,10 @@ Sauf disposition contraire de la loi ou d’une ordonnance de l’Assemblée fé
 
 <sup>3</sup> La Commission des finances et la Commission de gestion peuvent instituer des sous-commissions permanentes, auxquelles elles confient une partie de leur domaine de compétences.
 
+<sup>4</sup> La Commission de politique extérieure institue une sous-commission permanente des questions européennes. Celle‑ci se tient informée des développements juridiques en préparation dans l’Union européenne qui sont importants pour la Suisse; elle fait régulièrement rapport à la commission.[^14-2]
+
 [^14-1]: Nouvelle teneur selon le ch. I de l’A du CN du 18 mars 2022 (Amélioration du fonctionnement du Parlement, notamment en situation de crise), en vigueur depuis le 30 mai 2022 ([RO 2022 295](https://fedlex.data.admin.ch/eli/oc/2022/295); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^14-2]: Introduit par le ch. I de l’A du CN du 29 sept. 2023 (Sous-commission permanente des questions européennes de la Commission de politique extérieure du Conseil national), en vigueur depuis le 4 déc. 2023 ([RO 2023 673](https://fedlex.data.admin.ch/eli/oc/2023/673); [FF 2023 1574](https://fedlex.data.admin.ch/eli/fga/2023/1574), [1988](https://fedlex.data.admin.ch/eli/fga/2023/1988)).
 
 #### Art. 15
 

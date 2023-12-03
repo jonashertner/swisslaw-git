@@ -4,11 +4,11 @@ title: Geschäftsreglement des Nationalrates vom 3. Oktober 2003 (GRN)
 short: GRN
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/514"
 language: de
-version: 2022-05-30
+version: 2023-12-04
 adopted: 2003-10-03
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/514/20220530/de/xml/fedlex-data-admin-ch-eli-cc-2003-514-20220530-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20220530/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/514/20231204/de/xml/fedlex-data-admin-ch-eli-cc-2003-514-20231204-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20231204/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20220530/de"
 
 (GRN)
 
-vom 3. Oktober 2003 (Stand am 30. Mai 2022)
+vom 3. Oktober 2003 (Stand am 4. Dezember 2023)
 
 Der Nationalrat,
 
@@ -207,7 +207,7 @@ Es bestehen folgende ständige Kommissionen:
 - 11\. Kommission für Rechtsfragen (RK);
 - 12\.[^10-1] Immunitätskommission (IK).
 
-[^10-1]: Fassung gemäss Ziff. I des Beschlusses des N vom 30. Sept. 2011 (Immunitätskommission), in Kraft seit 5. Dez. 2011 ([AS 2011 4633](https://fedlex.data.admin.ch/eli/oc/2011/664); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^10-1]: Fassung gemäss Ziff. I des Beschlusses des N vom 30. Sept. 2011 (Immunitätskommission), in Kraft seit 5. Dez. 2011 ([AS 2011 4633](https://fedlex.data.admin.ch/eli/oc/2011/664); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294), [7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
 #### Art. 11
 
@@ -237,7 +237,7 @@ Die Legislaturplanungskommission wird in der ersten Session einer Legislaturperi
 
 <sup>2</sup> Für jedes Kommissionsmitglied wird eine ständige Stellvertreterin oder ein ständiger Stellvertreter gewählt.
 
-[^13a-1]: Eingefügt durch Ziff. I des Beschlusses des N vom 30. Sept. 2011 (Immunitätskommission), in Kraft seit 5. Dez. 2011 ([AS 2011 4633](https://fedlex.data.admin.ch/eli/oc/2011/664); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^13a-1]: Eingefügt durch Ziff. I des Beschlusses des N vom 30. Sept. 2011 (Immunitätskommission), in Kraft seit 5. Dez. 2011 ([AS 2011 4633](https://fedlex.data.admin.ch/eli/oc/2011/664); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294), [7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
 #### Art. 14
 
@@ -249,7 +249,10 @@ Die Legislaturplanungskommission wird in der ersten Session einer Legislaturperi
 
 <sup>3</sup> Die Finanzkommission und die Geschäftsprüfungskommission können ständige Subkommissionen einsetzen, welche im Auftrag der Kommission einzelne Aufgabenbereiche betreuen.
 
+<sup>4</sup> Die Aussenpolitische Kommission setzt eine ständige Subkommission für Europafragen ein. Diese informiert sich über sich anbahnende Rechtsentwicklungen in der Europäischen Union, die für die Schweiz wichtig sind, und erstattet der Kommission regelmässig Bericht.[^14-2]
+
 [^14-1]: Fassung gemäss Ziff. I des Beschlusses des N vom 18. März 2022 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), in Kraft seit 30. Mai 2022 ([AS 2022 295](https://fedlex.data.admin.ch/eli/oc/2022/295); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^14-2]: Eingefügt durch Ziff. I des Beschlusses des N vom 29. Sept. 2023 (Ständige Subkommission für Europafragen der Aussenpolitischen Kommission des Nationalrates), in Kraft seit 4. Dez. 2023 ([AS 2023 673](https://fedlex.data.admin.ch/eli/oc/2023/673); [BBl 2023 1574](https://fedlex.data.admin.ch/eli/fga/2023/1574), [1988](https://fedlex.data.admin.ch/eli/fga/2023/1988)).
 
 #### Art. 15
 
@@ -269,10 +272,10 @@ Folgende Sitze werden in sinngemässer Anwendung der Artikel 40 und 41 des Bunde
 <sup>3</sup> Ein Ratsmitglied darf in der Regel gleichzeitig nicht mehr als zwei Kommissionen nach Artikel 10 angehören.[^15-5]
 
 [^15-1]: [SR 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
-[^15-2]: Fassung gemäss Ziff. I des Beschlusses des N vom 15. Juni 2018, in Kraft seit 2. Dez. 2019 ([AS 2018 3473](https://fedlex.data.admin.ch/eli/oc/2018/564); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^15-3]: Eingefügt durch Ziff. I des Beschlusses des N vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^15-4]: Aufgehoben durch Ziff. I des Beschlusses des N vom 3. Okt. 2008, mit Wirkung seit 2. März 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^15-5]: Fassung gemäss Ziff. I des Beschlusses des N vom 1. Okt. 2010, in Kraft seit 5. Dez. 2011 ([AS 2010 4543](https://fedlex.data.admin.ch/eli/oc/2010/650); [BBl 2010 5977](https://fedlex.data.admin.ch/eli/fga/2010/1054)[5983](https://fedlex.data.admin.ch/eli/fga/2010/1056)).
+[^15-2]: Fassung gemäss Ziff. I des Beschlusses des N vom 15. Juni 2018, in Kraft seit 2. Dez. 2019 ([AS 2018 3473](https://fedlex.data.admin.ch/eli/oc/2018/564); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^15-3]: Eingefügt durch Ziff. I des Beschlusses des N vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^15-4]: Aufgehoben durch Ziff. I des Beschlusses des N vom 3. Okt. 2008, mit Wirkung seit 2. März 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^15-5]: Fassung gemäss Ziff. I des Beschlusses des N vom 1. Okt. 2010, in Kraft seit 5. Dez. 2011 ([AS 2010 4543](https://fedlex.data.admin.ch/eli/oc/2010/650); [BBl 2010 5977](https://fedlex.data.admin.ch/eli/fga/2010/1054), [5983](https://fedlex.data.admin.ch/eli/fga/2010/1056)).
 
 #### Art. 16
 
@@ -310,7 +313,7 @@ Eine ausserordentliche Gesamterneuerung der Kommissionen für den Rest der Amtsd
 - a. eine Änderung der Mitgliederzahl einer Fraktion dazu führt, dass eine Fraktion in einer ständigen Kommission gemäss Artikel 10 mit mehr als einem Mitglied über- oder untervertreten ist;
 - b. eine neue Fraktion gebildet wird.[^17-1]
 
-[^17-1]: Eingefügt durch Ziff. I des Beschlusses des N vom 3. Okt. 2008, in Kraft ab Beginn der Wintersession 2011 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^17-1]: Eingefügt durch Ziff. I des Beschlusses des N vom 3. Okt. 2008, in Kraft ab Beginn der Wintersession 2011 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 18
 
@@ -326,7 +329,7 @@ Eine ausserordentliche Gesamterneuerung der Kommissionen für den Rest der Amtsd
 
 <sup>4</sup> Die Mitglieder der Geschäftsprüfungskommission und einer parlamentarischen Untersuchungskommission sowie von deren Subkommissionen können sich nicht vertreten lassen.
 
-[^18-1]: Eingefügt durch Ziff. I des Beschlusses des N vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3473](https://fedlex.data.admin.ch/eli/oc/2018/564); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^18-1]: Eingefügt durch Ziff. I des Beschlusses des N vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3473](https://fedlex.data.admin.ch/eli/oc/2018/564); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 19
 
@@ -372,7 +375,7 @@ Die Beratungsgegenstände nach Artikel 71 ParlG werden von den zuständigen Komm
 
 <sup>3</sup> …[^21-1]
 
-[^21-1]: Aufgehoben durch Ziff. I des Beschlusses des N vom 30. Sept. 2011 (Immunitätskommission), mit Wirkung seit 5. Dez. 2011 ([AS 2011 4633](https://fedlex.data.admin.ch/eli/oc/2011/664); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^21-1]: Aufgehoben durch Ziff. I des Beschlusses des N vom 30. Sept. 2011 (Immunitätskommission), mit Wirkung seit 5. Dez. 2011 ([AS 2011 4633](https://fedlex.data.admin.ch/eli/oc/2011/664); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294), [7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
 #### Art. 22
 
@@ -432,7 +435,7 @@ Ein Ratsmitglied oder eine Fraktion kann eine parlamentarische Initiative oder e
 
 Kann der Adressat eines Vorstosses die Frist zur Beantwortung ausnahmsweise nicht einhalten, so informiert er das Büro und die Urheberin oder den Urheber des Vorstosses und begründet die Verzögerung.
 
-[^27-1]: Fassung gemäss Ziff. I des Beschlusses des N vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^27-1]: Fassung gemäss Ziff. I des Beschlusses des N vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 28
 
@@ -446,8 +449,8 @@ Kann der Adressat eines Vorstosses die Frist zur Beantwortung ausnahmsweise nich
 
 <sup>4</sup> Eine Interpellantin oder ein Interpellant kann erklären, ob sie oder er von der Antwort des Bundesrates befriedigt ist, auch wenn der Rat die Diskussion über die Interpellation ablehnt.
 
-[^28-1]: Fassung gemäss Ziff. I des Beschlusses des N vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^28-2]: Fassung gemäss Ziff. I des Beschlusses des N vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^28-1]: Fassung gemäss Ziff. I des Beschlusses des N vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^28-2]: Fassung gemäss Ziff. I des Beschlusses des N vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 [^28-3]: Zweiter Satz eingefügt durch Ziff. I des Beschlusses des N vom 12. Dez. 2014 (Prioritäre Behandlung von bekämpften Vorstössen), in Kraft seit 2. März 2015 ([AS 2015 649](https://fedlex.data.admin.ch/eli/oc/2015/105); [BBl 2014 9413](https://fedlex.data.admin.ch/eli/fga/2014/2043)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 
 #### Art. 28a
@@ -458,8 +461,8 @@ Kann der Adressat eines Vorstosses die Frist zur Beantwortung ausnahmsweise nich
 
 <sup>2</sup> …[^28a-2]
 
-[^28a-1]: Eingefügt durch Ziff. I des Beschlusses des N vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
-[^28a-2]: Eingefügt durch Ziff. I des Beschlusses des N vom 17. Dez. 2010 ([AS 2011 637](https://fedlex.data.admin.ch/eli/oc/2011/98); [BBl 2010 8075](https://fedlex.data.admin.ch/eli/fga/2010/1473)[8083](https://fedlex.data.admin.ch/eli/fga/2010/1475)). Aufgehoben durch Ziff. I des Beschlusses des N vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), mit Wirkung seit 25. Nov. 2013 ([AS 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^28a-1]: Eingefügt durch Ziff. I des Beschlusses des N vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^28a-2]: Eingefügt durch Ziff. I des Beschlusses des N vom 17. Dez. 2010 ([AS 2011 637](https://fedlex.data.admin.ch/eli/oc/2011/98); [BBl 2010 8075](https://fedlex.data.admin.ch/eli/fga/2010/1473), [8083](https://fedlex.data.admin.ch/eli/fga/2010/1475)). Aufgehoben durch Ziff. I des Beschlusses des N vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), mit Wirkung seit 25. Nov. 2013 ([AS 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 28b
 
@@ -473,8 +476,8 @@ Kann der Adressat eines Vorstosses die Frist zur Beantwortung ausnahmsweise nich
 
 <sup>4</sup> …[^28b-2]
 
-[^28b-1]: Eingefügt durch Ziff. I des Beschlusses des N vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
-[^28b-2]: Aufgehoben durch Ziff. I des Beschlusses des N vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), mit Wirkung seit 25. Nov. 2013 ([AS 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^28b-1]: Eingefügt durch Ziff. I des Beschlusses des N vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^28b-2]: Aufgehoben durch Ziff. I des Beschlusses des N vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), mit Wirkung seit 25. Nov. 2013 ([AS 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 29
 
@@ -505,15 +508,15 @@ Zuständig für die Dringlicherklärung ist:
 
 <sup>4</sup> Das Büro kann eine dringliche Interpellation im Einverständnis mit deren Urheberin oder Urheber in eine dringliche Anfrage umwandeln.[^30-3]
 
-[^30-1]: Fassung gemäss Ziff. I des Beschlusses des N vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^30-2]: Fassung gemäss Ziff. I des Beschlusses des N vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
-[^30-3]: Fassung gemäss Ziff. I des Beschlusses des N vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^30-1]: Fassung gemäss Ziff. I des Beschlusses des N vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^30-2]: Fassung gemäss Ziff. I des Beschlusses des N vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^30-3]: Fassung gemäss Ziff. I des Beschlusses des N vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 ### a<sup>bis</sup>. Aktuelle Debatte
 
 [^chap3-sec2-lvlabis-1]
 
-[^chap3-sec2-lvlabis-1]: Eingefügt durch Ziff. I des Beschlusses des N vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^chap3-sec2-lvlabis-1]: Eingefügt durch Ziff. I des Beschlusses des N vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 30a
 
@@ -539,7 +542,7 @@ Zuständig für die Dringlicherklärung ist:
 
 <sup>6</sup> Auf Fragen, für deren Behandlung die Zeit nicht reicht, und auf Fragen oder Zusatzfragen, die weiterer Klärung bedürfen, antwortet der Bundesrat schriftlich nach der Regel für dringliche Anfragen.
 
-[^31-1]: Fassung gemäss Ziff. I des Beschlusses des N vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^31-1]: Fassung gemäss Ziff. I des Beschlusses des N vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 [^31-2]: Eingefügt durch Ziff. I des Beschlusses des N vom 4. Mai 2020 (Beratungen ausserhalb des Parlamentsgebäudes), in Kraft seit 4. Mai 2020, bis der N wieder im Parlamentsgebäude tagt (7. Sept. 2020) ([AS 2020 1601](https://fedlex.data.admin.ch/eli/oc/2020/327); [BBl 2020 4305](https://fedlex.data.admin.ch/eli/fga/2020/925)).
 
 ### c. Erklärungen
@@ -566,7 +569,7 @@ Zuständig für die Dringlicherklärung ist:
 
 [^chap3-sec2-lvld-1]
 
-[^chap3-sec2-lvld-1]: Eingefügt durch Ziff. I des Beschlusses des N vom 22. Juni 2007, in Kraft seit 1. Dez. 2007 ([AS 2007 3773](https://fedlex.data.admin.ch/eli/oc/2007/488)[5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [BBl 2006 1837](https://fedlex.data.admin.ch/eli/fga/2006/164)[1857](https://fedlex.data.admin.ch/eli/fga/2006/167)).
+[^chap3-sec2-lvld-1]: Eingefügt durch Ziff. I des Beschlusses des N vom 22. Juni 2007, in Kraft seit 1. Dez. 2007 ([AS 2007 3773](https://fedlex.data.admin.ch/eli/oc/2007/488)[5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [BBl 2006 1837](https://fedlex.data.admin.ch/eli/fga/2006/164), [1857](https://fedlex.data.admin.ch/eli/fga/2006/167)).
 
 #### Art. 33a
 
@@ -606,13 +609,13 @@ Zuständig für die Dringlicherklärung ist:
 
 [^33cbis-1]
 
-[^33cbis-1]: Eingefügt durch Ziff. I des Beschlusses des N vom 19. Dez. 2008 (Geschäftsbericht des Bundesrates) ([AS 2009 699](https://fedlex.data.admin.ch/eli/oc/2009/116); [BBl 2008 1095](https://fedlex.data.admin.ch/eli/fga/2008/229)[1105](https://fedlex.data.admin.ch/eli/fga/2008/232)). Aufgehoben durch Ziff. I des Beschlusses vom 29. Sept. 2017 (Geschäftsbericht des Bundesrates), mit Wirkung seit 1. Jan. 2018 ([AS 2017 5141](https://fedlex.data.admin.ch/eli/oc/2017/563); [BBl 2017 3419](https://fedlex.data.admin.ch/eli/fga/2017/776)[3425](https://fedlex.data.admin.ch/eli/fga/2017/778)).
+[^33cbis-1]: Eingefügt durch Ziff. I des Beschlusses des N vom 19. Dez. 2008 (Geschäftsbericht des Bundesrates) ([AS 2009 699](https://fedlex.data.admin.ch/eli/oc/2009/116); [BBl 2008 1095](https://fedlex.data.admin.ch/eli/fga/2008/229), [1105](https://fedlex.data.admin.ch/eli/fga/2008/232)). Aufgehoben durch Ziff. I des Beschlusses vom 29. Sept. 2017 (Geschäftsbericht des Bundesrates), mit Wirkung seit 1. Jan. 2018 ([AS 2017 5141](https://fedlex.data.admin.ch/eli/oc/2017/563); [BBl 2017 3419](https://fedlex.data.admin.ch/eli/fga/2017/776), [3425](https://fedlex.data.admin.ch/eli/fga/2017/778)).
 
 ### f. Relative Immunität
 
 [^chap3-sec2-lvlf-1]
 
-[^chap3-sec2-lvlf-1]: Eingefügt durch Ziff. I des Beschlusses des N vom 30. Sept. 2011 (Immunitätskommission), in Kraft seit 5. Dez. 2011 ([AS 2011 4633](https://fedlex.data.admin.ch/eli/oc/2011/664); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^chap3-sec2-lvlf-1]: Eingefügt durch Ziff. I des Beschlusses des N vom 30. Sept. 2011 (Immunitätskommission), in Kraft seit 5. Dez. 2011 ([AS 2011 4633](https://fedlex.data.admin.ch/eli/oc/2011/664); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294), [7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
 #### Art. 33c<sup>ter</sup>
 
@@ -633,7 +636,7 @@ Der Rat versammelt sich in der Regel wie folgt:
 
 <sup>2</sup> Ausserordentliche Sessionen (Art. 2 ParlG) bleiben vorbehalten.
 
-[^33d-1]: Eingefügt durch Ziff. I des Beschlusses des N vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^33d-1]: Eingefügt durch Ziff. I des Beschlusses des N vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 34
 
@@ -816,10 +819,10 @@ Die Beratungsgegenstände werden in einer der folgenden Formen beraten:
 
 <sup>5</sup> Unabhängig von der Beratungsform kann bei der Vorprüfung einer Standesinitiative ein Ratsmitglied aus dem Kanton, welcher Urheber der Initiative ist, die Initiative mündlich begründen, sofern die Mehrheit der Abgeordneten des Kantons ein solches Ratsmitglied bezeichnet.[^46-4]
 
-[^46-1]: Ursprünglich Ziff. III. Fassung gemäss Ziff. I des Beschlusses des N vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^46-2]: Eingefügt durch Ziff. I des Beschlusses des N vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^46-3]: Fassung gemäss Ziff. I des Beschlusses des N vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
-[^46-4]: Eingefügt durch Ziff. I des Beschlusses des N vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^46-1]: Ursprünglich Ziff. III. Fassung gemäss Ziff. I des Beschlusses des N vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^46-2]: Eingefügt durch Ziff. I des Beschlusses des N vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^46-3]: Fassung gemäss Ziff. I des Beschlusses des N vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^46-4]: Eingefügt durch Ziff. I des Beschlusses des N vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 47
 
@@ -855,9 +858,9 @@ Die organisierte Debatte kann insbesondere durchgeführt werden:
 
 <sup>3</sup> Artikel 46 Absätze 3 und 4 bleibt in jedem Fall vorbehalten.
 
-[^48-1]: Fassung gemäss Ziff. I des Beschlusses des N vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^48-2]: Fassung gemäss Ziff. I des Beschlusses des N vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^48-3]: Eingefügt durch Ziff. I des Beschlusses des N vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^48-1]: Fassung gemäss Ziff. I des Beschlusses des N vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^48-2]: Fassung gemäss Ziff. I des Beschlusses des N vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^48-3]: Eingefügt durch Ziff. I des Beschlusses des N vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 49
 
@@ -883,7 +886,7 @@ Die organisierte Debatte kann insbesondere durchgeführt werden:
 
 <sup>6</sup> Werden mehrere gleich lautende Anträge zu Beratungsgegenständen eingereicht, die in den Beratungsformen I–III beraten werden, so erhält das Wort, wer den ersten Antrag stellt. Wer später einen Antrag eingereicht hat, kann eine kurze Zusatzerklärung abgeben.
 
-[^50-1]: Dritter Satz eingefügt durch Ziff. I des Beschlusses des N vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^50-1]: Dritter Satz eingefügt durch Ziff. I des Beschlusses des N vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 51
 
@@ -961,10 +964,10 @@ Auf der Namensliste wird für jedes Ratsmitglied vermerkt, ob es:
 
 <sup>5</sup> …[^57-4]
 
-[^57-1]: Fassung gemäss Ziff. I des Beschlusses des N vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^57-1]: Fassung gemäss Ziff. I des Beschlusses des N vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 [^57-2]: Fassung gemäss Ziff. I des Beschlusses des N vom 18. März 2022 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), in Kraft seit 1. Jan. 2021 ([AS 2022 295](https://fedlex.data.admin.ch/eli/oc/2022/295); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
-[^57-3]: Fassung gemäss Ziff. I des Beschlusses des N vom 1. Okt. 2010 (Entschuldigungen auf Namenslisten bei Abstimmungen), in Kraft seit 29. Nov. 2010 ([AS 2011 1](https://fedlex.data.admin.ch/eli/oc/2011/1); [BBl 2010 5997](https://fedlex.data.admin.ch/eli/fga/2010/1060)[6007](https://fedlex.data.admin.ch/eli/fga/2010/1062)).
-[^57-4]: Aufgehoben durch Ziff. I des Beschlusses des N vom 3. Okt. 2008, mit Wirkung seit 2. März 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^57-3]: Fassung gemäss Ziff. I des Beschlusses des N vom 1. Okt. 2010 (Entschuldigungen auf Namenslisten bei Abstimmungen), in Kraft seit 29. Nov. 2010 ([AS 2011 1](https://fedlex.data.admin.ch/eli/oc/2011/1); [BBl 2010 5997](https://fedlex.data.admin.ch/eli/fga/2010/1060), [6007](https://fedlex.data.admin.ch/eli/fga/2010/1062)).
+[^57-4]: Aufgehoben durch Ziff. I des Beschlusses des N vom 3. Okt. 2008, mit Wirkung seit 2. März 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 58
 
@@ -972,7 +975,7 @@ Auf der Namensliste wird für jedes Ratsmitglied vermerkt, ob es:
 
 Bei Ausfall der elektronischen Abstimmungsanlage erfolgt die Stimmabgabe unter Namensaufruf.
 
-[^58-1]: Fassung gemäss Ziff. I des Beschlusses des N vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3473](https://fedlex.data.admin.ch/eli/oc/2018/564); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^58-1]: Fassung gemäss Ziff. I des Beschlusses des N vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3473](https://fedlex.data.admin.ch/eli/oc/2018/564); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 58a
 
@@ -984,7 +987,7 @@ Bei Ausfall der elektronischen Abstimmungsanlage erfolgt die Stimmabgabe unter N
 
 [^59-1]
 
-[^59-1]: Aufgehoben durch Ziff. I des Beschlusses des N vom 15. Juni 2018, mit Wirkung seit 26. Nov. 2018 ([AS 2018 3473](https://fedlex.data.admin.ch/eli/oc/2018/564); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^59-1]: Aufgehoben durch Ziff. I des Beschlusses des N vom 15. Juni 2018, mit Wirkung seit 26. Nov. 2018 ([AS 2018 3473](https://fedlex.data.admin.ch/eli/oc/2018/564); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 60
 
@@ -998,7 +1001,7 @@ Bei Ausfall der elektronischen Abstimmungsanlage erfolgt die Stimmabgabe unter N
 
 <sup>4</sup> Es zählt nur die Stimme, die unmittelbar nach der Verlesung des einzelnen Namens abgegeben wird.
 
-[^60-1]: Aufgehoben durch Ziff. I des Beschlusses des N vom 15. Juni 2018, mit Wirkung seit 26. Nov. 2018 ([AS 2018 3473](https://fedlex.data.admin.ch/eli/oc/2018/564); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^60-1]: Aufgehoben durch Ziff. I des Beschlusses des N vom 15. Juni 2018, mit Wirkung seit 26. Nov. 2018 ([AS 2018 3473](https://fedlex.data.admin.ch/eli/oc/2018/564); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 ## 4. Kapitel: Hausrecht
 

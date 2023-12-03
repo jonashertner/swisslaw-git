@@ -4,11 +4,11 @@ title: Regolamento del Consiglio nazionale del 3 ottobre 2003 (RCN)
 short: RCN
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/514"
 language: it
-version: 2022-05-30
+version: 2023-12-04
 adopted: 2003-10-03
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/514/20220530/it/xml/fedlex-data-admin-ch-eli-cc-2003-514-20220530-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20220530/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/514/20231204/it/xml/fedlex-data-admin-ch-eli-cc-2003-514-20231204-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20231204/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20220530/it"
 
 (RCN)
 
-del 3 ottobre 2003 (Stato 30 maggio 2022) (Stato 30 maggio 2022)
+del 3 ottobre 2003 (Stato 4 dicembre 2023)
 
 Il Consiglio nazionale,
 
@@ -249,7 +249,10 @@ Nella prima sessione di ogni legislatura è istituita una commissione speciale i
 
 <sup>3</sup> La Commissione delle finanze e la Commissione della gestione possono istituire sottocommissioni permanenti incaricate di trattare per loro singoli settori di compiti.
 
+<sup>4</sup> La Commissione della politica estera istituisce una sottocommissione permanente per le questioni europee. Quest’ultima si informa sugli sviluppi giuridici importanti per la Svizzera che vanno delineandosi nell’Unione europea e riferisce periodicamente al plenum.[^14-2]
+
 [^14-1]: La mod. del 18 mar. 2022, in vigore dal 30 mag. 2022, concerne soltanto i testi tedesco e francese ([RU 2022 295](https://fedlex.data.admin.ch/eli/oc/2022/295); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^14-2]: Introdotto dal n. I del D del CN del 29 set. 2023 (Sottocommissione permanente per le questioni europee della Commissione della politica estera del Consiglio nazionale), in vigore dal 4 dic. 2023 ([RU 2023 673](https://fedlex.data.admin.ch/eli/oc/2023/673); [FF 2023 1574](https://fedlex.data.admin.ch/eli/fga/2023/1574), [1988](https://fedlex.data.admin.ch/eli/fga/2023/1988))
 
 #### Art. 15
 
@@ -804,7 +807,7 @@ Gli oggetti in deliberazione sono discussi in una delle seguenti forme:
 - I: dibattito libero;
 - II: dibattito organizzato;
 - IIIa:[^46-1] dibattito dei gruppi;
-- [tab] IIIb:[^46-2] dibattito dei gruppi breve;
+- IIIb:[^46-2] dibattito dei gruppi breve;
 - IV: dibattito breve;
 - V: procedura scritta.
 
@@ -883,7 +886,7 @@ Si può procedere a un dibattito organizzato in particolare:
 
 <sup>6</sup> Se sono presentate più proposte di ugual tenore in merito ad oggetti in deliberazione discussi nelle forme I–III, è data la parola a chi ha presentato la prima proposta. Gli altri proponenti possono fare una breve dichiarazione supplementare.
 
-[^50-1]: Introdotto dal n. I del D del CN del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), in vigore dal 25 nov. 2013 ([RU 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^50-1]: Terzo per. introdotto dal n. I del D del CN del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), in vigore dal 25 nov. 2013 ([RU 2013 3693](https://fedlex.data.admin.ch/eli/oc/2013/690); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 51
 
