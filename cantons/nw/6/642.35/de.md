@@ -1,40 +1,49 @@
 ---
 canton: NW
 number: "642.35"
-title: Landratsbeschluss über die Beteiligung des Kantonalen Elektrizitätswerkes Nidwalden an der Repartner Produktions AG
+title: Landratsbeschluss über Beteiligungen und Investitionen des Kantonalen Elektrizitätswerkes Nidwalden zur Produktion von erneuerbarem Strom
 language: de
-version: 2012-02-21
-corrected: 2022-03-03
-version_adopted: 2011-12-14
+version: 2023-12-05
+version_adopted: 2023-09-27
 adopted: 2011-12-14
 in_force: 2012-02-21
 url: "https://gesetze.nw.ch/app/de/texts_of_law/642.35"
-pdf: "https://gesetze.nw.ch/api/de/versions/246/pdf_file"
-text: pdf
+pdf: "https://gesetze.nw.ch/api/de/versions/1230/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Landratsbeschluss über die Beteiligung des Kantonalen Elektrizitätswerkes Nidwalden an der Repartner Produktions AG
+# Landratsbeschluss über Beteiligungen und Investitionen des Kantonalen Elektrizitätswerkes Nidwalden zur Produktion von erneuerbarem Strom
 
-vom 21. Dezember 2011[^t-1]
+vom 14.12.2011 (Stand 05.12.2023)
 
-Der Landrat von Nidwalden, gestützt auf Art. 2 und 11 des Gesetzes vom 27. April 1969 über das Kantonale Elektrizitätswerk Nidwalden[^t-2], beschliesst:
+Der Landrat von Nidwalden,
 
-1.
+gestützt auf Art. 7 Abs. 2 Ziff. 6 und 7 des Gesetzes vom 27. März 2013 über das Kantonale Elektrizitätswerk Nidwalden (Elektrizitätswerkgesetz, EWNG)[^ingress-1],
 
-Das Kantonale Elektrizitätswerk Nidwalden (EWN) wird ermächtigt, sich am Aktienkapital der Repartner Produktions AG, mit Sitz in Poschiavo (GR), mit einem Anteil von 5 Prozent beziehungsweise im Betrage von 50 Millionen Franken zu beteiligen.
+beschliesst:
 
-2.
+[^ingress-1]: NG 642.1
+
+#### Ziff. 1
+
+<sup>1</sup> Das Kantonale Elektrizitätswerk Nidwalden (EWN) wird ermächtigt, sich am Aktienkapital der Repartner Produktions AG, mit Sitz in Poschiavo (GR), mit einem Anteil von 5 Prozent beziehungsweise im Betrage von 50 Millionen Franken zu beteiligen.
+
+#### Ziff. 1a
+
+<sup>1</sup> Wird der Betrag von 50 Millionen Franken gemäss Ziff. 1 nicht ausgeschöpft, kann das EWN den Restbetrag einsetzen für:
+
+- 1\. Beteiligungen an der Repartner Produktions AG, welche den Anteil von 5 Prozent übersteigen;
+- 2\. Beteiligungen an anderen Gesellschaften zur Produktion von Strom, sofern dafür eine anteilige Stromlieferung zugesichert wird;
+- 3\. Investitionen in inländische, erneuerbare Produktionsanlagen von Strom, sofern dafür eine anteilige Stromlieferung zugesichert wird;
+- 4\. Investitionen in ausländische, erneuerbare Produktionsanlagen von Strom, sofern ein Partner den im Ausland anteilig produzierten Strom an das EWN liefern kann.
+
+#### Ziff. 2
 
 <sup>1</sup> Dieser Beschluss untersteht dem fakultativen Referendum.
 
-<sup>2</sup> Er tritt gemäss Art. 24 des Wahl- und Abstimmungsgesetzes[^t-3] in Kraft.
+<sup>2</sup> Er tritt gemäss Art. 24 des Wahl- und Abstimmungsgesetzes[^Ziff2-1] in Kraft.
 
-**1**
+[^Ziff2-1]: NG 132.2
 
-Stand: 1. Mai 2012
-
-[^t-1]: A 2011, 1781; A 2012, 558
-[^t-2]: NG 642.1
-[^t-3]: NG 132.2
+A 2011, 1781; A 2012, 558
