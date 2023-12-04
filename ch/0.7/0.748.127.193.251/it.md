@@ -3,11 +3,11 @@ sr: "0.748.127.193.251"
 title: Accordo del 7 dicembre 2017 tra la Confederazione Svizzera e gli Emirati Arabi Uniti concernente il traffico aereo di linea fra i rispettivi territori e oltre (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/431"
 language: it
-version: 2023-07-20
+version: 2023-12-05
 adopted: 2017-12-07
 in_force: 2017-12-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/431/20230720/it/xml/fedlex-data-admin-ch-eli-cc-2018-431-20230720-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/431/20230720/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/431/20231205/it/xml/fedlex-data-admin-ch-eli-cc-2018-431-20231205-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/431/20231205/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -24,7 +24,7 @@ Applicato provvisoriamente dal 7 dicembre 2017
 
 Entrato in vigore il 20 luglio 2023[^t-1]
 
-(Stato 20 luglio 2023)
+(Stato 5 dicembre 2023)
 
 [^t-1]: [RU 2023 469](https://fedlex.data.admin.ch/eli/oc/2023/469)
 
@@ -230,6 +230,14 @@ Le autorità aeronautiche di una Parte trasmettono alle autorità aeronautiche d
 <sup>1.</sup> Ciascuna Parte accorda alle imprese designate dell’altra Parte il diritto di trasferire le eccedenze di introiti realizzate sul territorio della rispettiva Parte. Tuttavia tali trasferimenti avvengono in conformità con le disposizioni sulle divise della Parte sul cui territorio sono state realizzate le eccedenze. Tali trasferimenti sono effettuati sulla base dei tassi di cambio ufficiali o, in mancanza di detti tassi ufficiali, ai tassi di cambio vigenti sul mercato valutario per i pagamenti correnti.
 
 <sup>2.</sup> Se una Parte impone limitazioni concernenti il trasferimento delle eccedenze di introiti delle imprese designate dell’altra Parte, quest’ultima è autorizzata a imporre limitazioni reciproche alle imprese designate dalla prima Parte.
+
+#### Art. 13<sup>bis</sup>
+
+**Servizi intermodali**[^13bis-1]
+
+Le imprese designate di ciascuna Parte sono autorizzate a impiegare, in connessione con i servizi aerei internazionali, qualsiasi servizio di trasporto terrestre da o verso qualsiasi punto situato nel territorio delle Parti o in Paesi terzi, conformemente al presente Accordo e al suo Allegato. L’impresa designata può scegliere di effettuare essa stessa il trasporto terrestre oppure di farlo eseguire in base ad accordi, inclusi gli accordi di ripartizione di codici («code sharing»), stipulati con altri trasportatori terrestri, in conformità con la pertinente legislazione nazionale sul trasporto terrestre. Tale servizio intermodale può essere offerto a un prezzo unico come servizio continuo, comprensivo di tutto il trasporto combinato aria-terra, a condizione che i passeggeri e gli speditori di merci siano informati dei fornitori del servizio in questione.
+
+[^13bis-1]: Introdotto dall’art. 1 del Prot. del 5 dic. 2023, applicato provvisoriamente dal 5 dic. 2023 ([RU 2025 241](https://fedlex.data.admin.ch/eli/oc/2025/241))
 
 #### Art. 14
 

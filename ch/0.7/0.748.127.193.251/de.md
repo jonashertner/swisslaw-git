@@ -3,11 +3,11 @@ sr: "0.748.127.193.251"
 title: Abkommen vom 7. Dezember 2017 zwischen der Schweizerischen Eidgenossenschaft und den Vereinigten Arabischen Emiraten über den Luftlinienverkehr zwischen ihren Gebieten und darüber hinaus (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/431"
 language: de
-version: 2023-07-20
+version: 2023-12-05
 adopted: 2017-12-07
 in_force: 2017-12-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/431/20230720/de/xml/fedlex-data-admin-ch-eli-cc-2018-431-20230720-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/431/20230720/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/431/20231205/de/xml/fedlex-data-admin-ch-eli-cc-2018-431-20231205-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/431/20231205/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Provisorisch angewendet ab 7. Dezember 2017
 
 In Kraft getreten am 20. Juli 2023[^t-1]
 
-(Stand am 20. Juli 2023)
+(Stand am 5. Dezember 2023)
 
 [^t-1]: [AS 2023 469](https://fedlex.data.admin.ch/eli/oc/2023/469)
 
@@ -231,6 +231,14 @@ Die Luftfahrtbehörden einer Vertragspartei übermitteln den Luftfahrtbehörden 
 
 <sup>2.</sup> Wenn eine Vertragspartei für die Überweisung von Einnahmenüberschüssen der bezeichneten Luftverkehrsunternehmen der anderen Vertragspartei Beschränkungen auferlegt, ist letztere umgekehrt berechtigt, den von der ersten Vertragspartei bezeichneten Luftverkehrsunternehmen entsprechende Beschränkungen aufzuerlegen.
 
+#### Art. 13<sup>bis</sup>
+
+**Intermodale Beförderung**[^13bis-1]
+
+Die bezeichneten Luftverkehrsunternehmen jeder Vertragspartei dürfen in Verbindung mit internationalen Luftverkehrslinien jedes Landverkehrsmittel zur Beförderung von und nach jedem Punkt im Gebiet der Vertragsparteien oder in Drittstaaten gemäss diesem Abkommen und seinem Anhang benutzen. Das bezeichnete Luftverkehrsunternehmen kann wählen, ob es den Landverkehr selbst durchführt oder ob es ihn durch Vereinbarungen mit anderen Landverkehrsträgern, einschliesslich «Code Sharing»-Vereinbarungen, durchführen lässt, in Übereinstimmung mit der einschlägigen nationalen Gesetzgebung über Beförderung im Landverkehr. Diese intermodale Beförderung kann als durchgehender Dienst und zu einem einzigen Preis, der für die Beförderung in der Luft und auf dem Landweg gemeinsam gilt, angeboten werden, vorausgesetzt, dass Fluggäste und Versender als Anbieter der betreffenden Beförderung informiert werden.
+
+[^13bis-1]: Eingefügt durch Art. 1 des Prot. vom 5. Dez. 2023, vorläufig angewendet seit 5. Dez. 2023 ([AS 2025 241](https://fedlex.data.admin.ch/eli/oc/2025/241)).
+
 #### Art. 14
 
 **Personal**
@@ -294,7 +302,7 @@ Dieses Abkommen wird vom Zeitpunkt seiner Unterzeichnung an vorläufig angewandt
 Mit dem Inkrafttreten dieses Abkommens wird das Abkommen zwischen den beiden Vertragsparteien vom 13. März 1989[^21-2] über die Errichtung regelmässiger Luftverkehrslinien zwischen ihren Gebieten und darüber hinaus aufgehoben.
 
 [^21-1]: [SR 0.748.127.193.25](https://fedlex.data.admin.ch/eli/cc/1993/1526_1526_1526)
-[^21-2]: [AS 1993 1526](https://fedlex.data.admin.ch/eli/oc/1993/1526_1526_1526)
+[^21-2]: [[AS 1993 1526](https://fedlex.data.admin.ch/eli/oc/1993/1526_1526_1526)]
 
 *Zu Urkund dessen* haben die durch ihre Regierungen entsprechend bevollmächtigten Unterzeichnenden dieses Abkommen unterzeichnet. Geschehen in doppelter Urschrift in Colombo, Sri Lanka, am 7. Dezember 2017, in englischer, arabischer und deutscher Sprache, wobei alle drei Wortlaute gleichermassen verbindlich sind. Im Falle von Meinungsverschiedenheiten bei der Durchführung, Auslegung oder Anwendung dieses Abkommens geht der englische Text vor. Für die Schweizerische Eidgenossenschaft: Frédéric Rocheray Für die Vereinigten Arabischen Emirate: Seif Mohamed al Suwaidi
 
@@ -318,7 +326,6 @@ Anmerkungen:
 - 3\. Die bezeichneten Luftverkehrsunternehmen können jede der vereinbarten Linien auf dem Gebiet der anderen Vertragspartei enden lassen.
 - 4\. Die bezeichneten Luftverkehrsunternehmen können nicht erwähnte Punkte unter der Bedingung bedienen, dass zwischen diesen Punkten und dem Gebiet der anderen Vertragspartei keine Verkehrsrechte ausgeübt werden.
 - 5\. Punkte im Gebiet jeder Vertragspartei können in jeder Reihenfolge bedient werden, vorausgesetzt, dass zwischen diesen Punkten keine Verkehrsrechte ausgeübt werden.
-- [tab]
 
 ### Linienplan II
 

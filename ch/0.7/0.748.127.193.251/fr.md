@@ -3,11 +3,11 @@ sr: "0.748.127.193.251"
 title: Accord du 7 décembre 2017 entre la Confédération suisse et les Émirats arabes unis relatif aux services aériens réguliers entre leurs territoires respectifs et au-delà (avec annexe)
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/431"
 language: fr
-version: 2023-07-20
+version: 2023-12-05
 adopted: 2017-12-07
 in_force: 2017-12-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/431/20230720/fr/xml/fedlex-data-admin-ch-eli-cc-2018-431-20230720-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/431/20230720/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/431/20231205/fr/xml/fedlex-data-admin-ch-eli-cc-2018-431-20231205-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/431/20231205/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Appliqué provisoirement dès le 7 décembre 2017
 
 Entré en vigueur le 20 juillet 2023[^t-1]
 
-(État le 20 juillet 2023)
+(État le 5 décembre 2023)
 
 [^t-1]: [RO 2023 469](https://fedlex.data.admin.ch/eli/oc/2023/469)
 
@@ -230,6 +230,14 @@ Les autorités aéronautiques d’une Partie contractante fournissent aux autori
 <sup>1.</sup> Chacune des Parties contractantes accordera à la ou aux entreprises de transport aérien désignées de l’autre Partie contractante le droit de transférer les excédents de revenus réalisés sur le territoire de la première Partie contractante. Ces transferts se feront toutefois conformément aux réglementations en matière de change de la Partie contractante sur le territoire de laquelle les revenus ont été réalisés. Ces transferts se feront sur base des taux de change officiels, ou à défaut d’un taux de change officiel, aux taux en vigueur sur le marché des devises étrangères pour les paiements courants.
 
 <sup>2.</sup> Si une Partie contractante impose des restrictions au transfert des excédents de revenus par la ou les entreprises désignées de l’autre Partie contractante, cette dernière aura le droit d’imposer à son tour des restrictions à la ou aux entreprises désignées de la première Partie contractante.
+
+#### Art. 13<sup>bis</sup>
+
+**Transport intermodal**[^13bis-1]
+
+Les entreprises désignées de chacune des Parties contractantes sont habilitées à utiliser, dans le cadre des services aériens internationaux, tout moyen de transport de surface vers n’importe quel point des territoires des Parties contractantes ou de pays tiers ou à partir de ces points, conformément au présent Accord et à son annexe. Les entreprises désignées peuvent choisir d’effectuer le transport de surface par leurs propres moyens ou par accord, y compris en partage de codes, avec d’autres transporteurs de surface, conformément à la législation nationale pertinente régissant le transport de surface. Ce transport intermodal peut être offert de point à point et à un prix unique pour les services aériens et le transport de surface combinés, à condition que les passagers et les expéditeurs soient informés des fournisseurs de transport impliqués.
+
+[^13bis-1]: Introduit par l’art. 1 du Prot. du 5 déc. 2023, appliqué provisoirement dès le 5 déc. 2023 ([RO 2025 241](https://fedlex.data.admin.ch/eli/oc/2025/241)).
 
 #### Art. 14
 
