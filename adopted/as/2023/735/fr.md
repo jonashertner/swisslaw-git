@@ -1,0 +1,1758 @@
+---
+status: "beschlossen, noch nicht in Kraft"
+reference: AS 2023 735
+title: "Ordonnance du 8 novembre 2023 sur la sécurité de l’information dans l’administration fédérale et l’armée (Ordonnance sur la sécurité de l’information, OSI)"
+language: fr
+adopted: 2023-11-08
+published: 2023-12-06
+in_force: ["2024-01-01"]
+url: "https://www.fedlex.admin.ch/eli/oc/2023/735/fr"
+---
+
+> Reproduction non officielle du Recueil officiel (RO). L’acte est publié mais n’est pas encore en vigueur ; seule la publication au RO fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur la sécurité de l’information dans l’administration fédérale et l’armée
+
+(Ordonnance sur la sécurité de l’information, OSI)
+
+du 8 novembre 2023
+
+Le Conseil fédéral suisse,
+
+vu les art. 2, al. 3 et 4, 12, al. 3, 83, al. 3, 84, al. 1, 85, al. 1 et 2, et 86, al. 4, de la loi du 18 décembre 2020 sur la sécurité de l’information (LSI)[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+
+## Section 1 Dispositions générales
+
+#### Art. 1
+
+**Objet**
+
+(art. 1 LSI)
+
+La présente ordonnance régit les tâches, les responsabilités, les compétences et les procédures qui permettent de garantir la sécurité de l’information au sein de l’administration fédérale et de l’armée.
+
+#### Art. 2
+
+**Champ d’application**
+
+(art. 2 et 3 LSI)
+
+<sup>1</sup>
+
+La présente ordonnance s’applique:
+
+- a. au Conseil fédéral;
+- b. aux départements;
+- c. à la Chancellerie fédérale (ChF), aux secrétariats généraux, aux groupements et aux offices fédéraux;
+- d. à l’armée.
+
+<sup>2</sup>
+
+Les dispositions suivantes de la LSI et de la présente ordonnance s’appliquent aux unités de l’administration fédérale décentralisée au sens de l’art. 2, al. 3, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration (LOGA)[^2-1] et aux organisations visées à l’art. 2, al. 4, LOGA:
+
+- a. les art. 5, 6, 9, 10, 12 à 15, 20 à 23 et 27 à 73 LSI et les art. 16, 21, 24, 26, 32, 34 et 35 de la présente ordonnance, lorsqu’elles traitent des informations classifiées de la Confédération;
+- b. les art. 5, 6, 9, 10 et 16 à 73 LSI et les art. 10 à 12, 27 et 29 à 35 de la présente ordonnance, lorsqu’elles accèdent aux moyens informatiques des fournisseurs internes de prestations informatiques visés à l’art. 9 de l’ordonnance du 25 novembre 2020 sur la transformation numérique et l’informatique (OTNI)[^2-2] ou délèguent l’exploitation de leurs moyens informatiques à ces fournisseurs.
+
+<sup>3</sup> La ChF et les départements peuvent, dans leur domaine de compétence, soumettre les unités de l’administration fédérale décentralisée qui exercent constamment des activités sensibles à l’ensemble des dispositions de la LSI.
+
+<sup>4</sup>
+
+Les dispositions suivantes de la présente ordonnance s’appliquent aux cantons, sous réserve de l’art. 3, al. 2, LSI:
+
+- a. les dispositions de la section 4, lors du traitement d’informations classifiées de la Confédération;
+- b. les art. 28 à 30 et 34, lors de l’accès aux moyens informatiques de la Confédération.
+
+<sup>5</sup> Le Groupement Défense assume pour l’armée les tâches, compétences et responsabilités que la présente ordonnance assigne aux unités administratives visées à l’art. 2, al. 1, let. c.
+
+[^2-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^2-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+
+## Section 2 Principes
+
+#### Art. 3
+
+**Objectifs de sécurité**
+
+(art. 7, al. 2, let. a, LSI)
+
+<sup>1</sup> Les organisations visées à l’art. 2, al. 1, veillent ensemble à protéger leurs informations et leurs moyens informatiques en fonction du risque et à faire preuve d’une résilience appropriée face aux risques pour la sécurité de l’information.
+
+<sup>2</sup> Elles contribuent, en collaborant et en échangeant des informations avec les autres autorités fédérales, les cantons, les communes, les milieux économiques, la société, les milieux scientifiques et les partenaires internationaux, à améliorer la sécurité de l’information de la Suisse.
+
+<sup>3</sup> Elles œuvrent à l’harmonisation, sur le plan national et international, des prescriptions et des niveaux en matière de sécurité afin de permettre l’interaction des autorités fédérales avec d’autres autorités de la Confédération ainsi qu’avec les cantons, les communes et les partenaires internationaux.
+
+#### Art. 4
+
+**Responsabilité**
+
+<sup>1</sup> Les unités administratives sont responsables de la protection des informations qu’elles traitent ou dont elles délèguent le traitement et de la sécurité des moyens informatiques qu’elles exploitent elles-mêmes ou font exploiter par des tiers.
+
+<sup>2</sup> Elles assument toutes les tâches relevant de leur domaine de compétence que la présente ordonnance ou d’autres dispositions du droit fédéral n’attribuent pas à une autre organisation ou à un autre service.
+
+<sup>3</sup> Les collaborateurs de l’administration fédérale et les militaires qui traitent des informations ou utilisent des moyens informatiques de la Confédération sont responsables du respect des prescriptions en la matière.
+
+<sup>4</sup> Les supérieurs de tous les échelons sont responsables de la formation liée à la sécurité de l’information de leurs collaborateurs et des militaires qui leur sont subordonnés en fonction de leurs tâches et s’assurent que ceux-ci respectent les prescriptions.
+
+## Section 3 Gestion de la sécurité de l’information
+
+#### Art. 5
+
+**Système de management de la sécurité de l’information**
+
+(art. 7, al. 1, LSI)
+
+<sup>1</sup> Les unités administratives visées à l’art. 2, al. 1, let. c, établissent chacune un système de management de la sécurité de l’information (SMSI).
+
+<sup>2</sup> Elles fixent les objectifs de leur SMSI, vérifient chaque année si ces objectifs ont été atteints et relèvent les indicateurs nécessaires à cette fin.
+
+<sup>3</sup> Elles font contrôler leur SMSI au moins tous les trois ans par un service indépendant ou par leur département et veillent à améliorer continuellement le système.
+
+<sup>4</sup> Elles coordonnent leur SMSI avec la gestion ordinaire des risques, la gestion de la continuité des activités et la gestion des crises.
+
+#### Art. 6
+
+**Gestion des bases légales et des obligations contractuelles**
+
+(art. 7, al. 1, LSI)
+
+Les unités administratives visées à l’art. 2, al. 1, let. c, les départements et le service spécialisé de la Confédération pour la sécurité de l’information établissent la liste des bases légales déterminantes pour leur domaine de compétence et de leurs obligations contractuelles en matière de sécurité de l’information et la tiennent à jour.
+
+#### Art. 7
+
+**Inventaire des objets à protéger**
+
+(art. 7, al. 1, LSI)
+
+<sup>1</sup> Les unités administratives visées à l’art. 2, al. 1, let. c, dressent l’inventaire de leurs objets à protéger et le tiennent à jour.
+
+<sup>2</sup>
+
+Par objets à protéger, on entend des objets indépendants, plusieurs objets de même nature ou des objets connexes:
+
+- a. les collections d’informations traitées dans le but d’exécuter un processus d’affaires de la Confédération;
+- b. les moyens informatiques visés à l’art. 5, let. a, LSI.
+
+<sup>3</sup>
+
+L’inventaire mentionne:
+
+- a. le besoin de protection des objets à protéger;
+- b. les responsabilités liées aux objets à protéger;
+- c. la participation de tiers;
+- d. le résultat de l’évaluation des risques;
+- e. la mise en œuvre des mesures de sécurité et l’acceptation des risques qui ne peuvent pas être réduits de manière suffisante (risques résiduels);
+- f. les contrôles et les audits périodiques;
+- g. le cas échéant, l’utilisation partagée des objets à protéger.
+
+#### Art. 8
+
+**Gestion des risques**
+
+(art. 7, al. 2, let. b, et 8 LSI)
+
+<sup>1</sup>
+
+Les unités administratives visées à l’art. 2, al. 1, let. c, évaluent en continu les risques pour leurs objets à protéger et assument notamment les tâches suivantes:
+
+- a. elles analysent régulièrement les menaces et les vulnérabilités et en évaluent les répercussions sur les objets à protéger;
+- b. elles mettent en œuvre les mesures nécessaires et en contrôlent les effets;
+- c. elles contrôlent le respect des directives;
+- d. elles démontrent l’acceptation des risques résiduels.
+
+<sup>2</sup> Le service spécialisé de la Confédération pour la sécurité de l’information, l’Office fédéral de la cybersécurité (OFCS), les unités administratives qui fournissent des prestations et les organes de sécurité de la Confédération informent les unités administratives visées à l’art. 2, al. 1, let. c, et les départements des menaces et vulnérabilités actuelles et des risques qui les concernent. Ils recommandent au besoin des mesures de limitation des risques.
+
+<sup>3</sup> Les unités administratives visées à l’art. 2, al. 1, let. c, rendent compte de leurs risques pour la sécurité de l’information dans le cadre du processus ordinaire de gestion des risques conformément aux directives de l’Administration fédérale des finances.
+
+#### Art. 9
+
+**Autorisation et liste des exceptions**
+
+(art. 7, al. 1, LSI)
+
+<sup>1</sup> Si une unité administrative n’est pas en mesure d’observer une consigne contraignante pour elle d’une directive générale et abstraite visée à l’art. 85 LSI concernant un objet à protéger, elle doit obtenir une autorisation exceptionnelle du service ayant émis la directive.
+
+<sup>2</sup> Si une exception relevant du domaine de compétence du service spécialisé de la Confédération pour la sécurité de l’information concerne également des directives de la ChF sur la transformation numérique et la gouvernance de l’informatique, le service spécialisé de la Confédération pour la sécurité de l’information consulte au préalable le délégué TNI visé à l’art. 4, al. 1, OTNI[^9-1].
+
+<sup>3</sup> Les unités administratives visées à l’art. 2, al. 1, let. c, les départements et le service spécialisé de la Confédération pour la sécurité de l’information établissent la liste de leurs autorisations exceptionnelles en vigueur.
+
+[^9-1]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+
+#### Art. 10
+
+**Collaboration avec les tiers**
+
+(art. 9 LSI)
+
+<sup>1</sup> Les unités administratives visées à l’art. 2, al. 1, let. c, évaluent les risques pour leurs objets à protéger lors de la collaboration avec des tiers et leur dépendance vis-à-vis de tiers.
+
+<sup>2</sup> Les services d’achat visés aux art. 9 et 10 de l’ordonnance du 24 octobre 2012 sur l’organisation des marchés publics de l’administration fédérale (Org‑OMP)[^10-1] collaborent à l’évaluation et mettent les informations nécessaires à disposition.
+
+<sup>3</sup> Le service spécialisé de la Confédération pour la sécurité de l’information, après avoir consulté l’OFCS et la Conférence des achats de la Confédération visée à l’art. 24 Org‑OMP, émet des recommandations quant aux dispositions relatives à la sécurité de l’information devant figurer dans tous les contrats d’acquisition ou de prestation de la Confédération.
+
+[^10-1]: [RS 172.056.15](https://fedlex.data.admin.ch/eli/cc/2012/695)
+
+#### Art. 11
+
+**Formation et sensibilisation**
+
+(art. 7, al. 1, et 20, al. 1, let. c, LSI)
+
+<sup>1</sup> Les unités administratives visées à l’art. 2, al. 1, let. c, forment leurs collaborateurs à leur entrée en fonction, puis périodiquement de manière à ce qu’ils puissent assumer leurs responsabilités en matière de sécurité de l’information. Elles établissent la liste des formations et des participants.
+
+<sup>2</sup>
+
+Les formations portent notamment sur:
+
+- a. l’identification correcte du besoin de protection des informations;
+- b. l’utilisation sûre des informations et des moyens informatiques;
+- c. la réaction correcte en cas de soupçon d’incident de sécurité;
+- d. la connaissance de l’organisation de sécurité et des interlocuteurs en cas de questions relatives à la sécurité de l’information;
+- e. les tâches de contrôle des supérieurs;
+- f. la mise en œuvre de la sécurité de l’information dans les projets et dans l’exploitation.
+
+<sup>3</sup> Les unités administratives visées à l’art. 2, al. 1, let. c, les départements et le service spécialisé de la Confédération pour la sécurité de l’information veillent à sensibiliser régulièrement les collaborateurs de tous les échelons aux risques pour la sécurité de l’information.
+
+<sup>4</sup> Le service spécialisé de la Confédération pour la sécurité de l’information établit des outils de formation et de sensibilisation.
+
+#### Art. 12
+
+**Gestion des incidents**
+
+(art. 7, al. 1, et 10, al. 1, LSI)
+
+<sup>1</sup> Les unités administratives visées à l’art. 2, al. 1, let. c, fixent en accord avec leurs fournisseurs de prestations la manière dont les incidents et les failles de sécurité sont annoncés et maîtrisés ou traités. Elles règlent la compétence d’ordonner des mesures immédiates.
+
+<sup>2</sup> Si un fournisseur de prestations découvre des incidents ou des failles de sécurité qui concernent une unité administrative à laquelle il fournit des prestations, il les lui annonce immédiatement et l’aide à les maîtriser ou à les traiter.
+
+<sup>3</sup> Le service spécialisé de la Confédération pour la sécurité de l’information et l’OFCS peuvent aider les unités administratives visées à l’art. 2, al. 1, let. c, et les départements à maîtriser les incidents de sécurité et à traiter les failles de sécurité.
+
+<sup>4</sup> Les unités administratives visées à l’art. 2, al. 1, let. c, vérifient lors de la maîtrise des incidents de sécurité s’il est nécessaire de faire une annonce au Préposé fédéral à la protection des données et à la transparence en vertu de la législation sur la protection des données.
+
+<sup>5</sup>
+
+Elles informent immédiatement leur département et le service spécialisé de la Confédération pour la sécurité de l’information de l’incident ou de la faille de sécurité si l’une des conditions suivantes est remplie:
+
+- a. le fonctionnement de l’administration fédérale pourrait être compromis;
+- b. un moyen informatique relevant des catégories de sécurité «protection élevée» ou «protection très élevée» est concerné;
+- c. plusieurs départements pourraient être touchés;
+- d. la protection des informations classifiées d’un État ou d’une organisation internationale avec lequel ou laquelle le Conseil fédéral a conclu un traité international visé à l’art. 87 LSI pourrait être menacée;
+- e. l’incident ou la faille de sécurité pourrait avoir une grande importance politique;
+- f. l’incident ou la faille de sécurité requiert des mesures sortant de la procédure fixée à l’al. 1.
+
+<sup>6</sup> Le service spécialisé de la Confédération pour la sécurité de l’information évalue le risque et le soutien requis avec l’unité administrative concernée.
+
+<sup>7</sup>
+
+Dans les cas visés à l’al. 5, il peut, en accord avec l’unité administrative et le département concernés, diriger les opérations de maîtrise de l’incident de sécurité ou de traitement de la faille de sécurité ou en déléguer la direction à l’OFCS avec son approbation. Ils ont dans ce cadre les tâches et les compétences suivantes:
+
+- a. ils peuvent obliger les unités administratives, les fournisseurs de prestations et les tiers concernés à leur communiquer toutes les informations nécessaires;
+- b. ils peuvent ordonner des mesures immédiates;
+- c. ils peuvent demander l’aide de spécialistes externes;
+- d. ils informent la direction des unités administratives concernées et des départements de l’avancement des opérations.
+
+<sup>8</sup> Lorsque la sécurité de l’information a été rétablie à la suite d’un incident ou d’une faille de sécurité et que les travaux de suivi nécessaires et leur financement ont été arrêtés, le service spécialisé de la Confédération pour la sécurité de l’information ou l’OFCS rend la direction des opérations à l’unité administrative concernée.
+
+#### Art. 13
+
+**Planification des contrôles et des audits**
+
+(art. 7, al. 1, 81, al. 2, let. c, et 83, al. 1, let. c, LSI)
+
+<sup>1</sup> Les unités administratives visées à l’art. 2, al. 1, let. c, et les départements fixent dans une planification annuelle de contrôle et d’audit la manière de contrôler en fonction du risque le respect des prescriptions de la présente ordonnance et l’efficacité des mesures permettant de garantir la sécurité de l’information dans leur domaine de compétence et auprès des tiers mandatés.
+
+<sup>2</sup> Les audits menés auprès des tiers disposant d’une déclaration de sécurité relative aux entreprises visée à l’art. 61 LSI doivent être coordonnés avec le service spécialisé chargé de mener la procédure de sécurité relative aux entreprises.
+
+<sup>3</sup> Le service spécialisé de la Confédération pour la sécurité de l’information recueille le besoin de contrôle et d’audit pour garantir la sécurité de l’information de l’ensemble de l’administration fédérale et de l’armée.
+
+<sup>4</sup> Il peut, en accord avec la ChF ou le département responsable, réaliser des audits ou en confier la réalisation au Contrôle fédéral des finances.
+
+#### Art. 14
+
+**Compte rendu**
+
+(art. 7, al. 1, 81, al. 2, let. c, et 83, al. 1, let. h, LSI)
+
+<sup>1</sup> La ChF, les départements, l’OFCS et les fournisseurs internes de prestations informatiques visés à l’art. 9 OTNI[^14-1] rendent compte chaque année au service spécialisé de la Confédération pour la sécurité de l’information de la situation en matière de sécurité de l’information dans leur domaine de compétence. Ils collectent les informations nécessaires auprès des unités administratives et de leurs fournisseurs de prestations.
+
+<sup>2</sup> Le service spécialisé de la Confédération pour la sécurité de l’information rend compte chaque année au Conseil fédéral de la situation en matière de sécurité de l’information au sein de la Confédération.
+
+<sup>3</sup> Il coordonne les comptes rendus avec les autorités visées à l’art. 2, al. 1, LSI.
+
+[^14-1]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+
+#### Art. 15
+
+**Directives relatives à la gestion de la sécurité de l’information**
+
+(art. 85 LSI)
+
+Le service spécialisé de la Confédération pour la sécurité de l’information émet des directives générales et abstraites s’appliquant à toutes les organisations visées à l’art. 2, al. 1 et 3, qui concernent les exigences minimales auxquelles la gestion de la sécurité de l’information visée aux art. 5 à 14 doit répondre.
+
+## Section 4 Informations classifiées
+
+#### Art. 16
+
+**Principes**
+
+(art. 11 et 14 LSI)
+
+<sup>1</sup> La communication et la mise à disposition d’informations classifiées et l’établissement de supports d’information classifiés doivent être limités autant que possible.
+
+<sup>2</sup> Si des informations sont regroupées dans un recueil, il faut réévaluer la classification.
+
+#### Art. 17
+
+**Auteurs de la classification**
+
+(art. 12 LSI)
+
+<sup>1</sup> Les unités administratives visées à l’art. 2, al. 1, let. c, et les départements fixent dans un catalogue de classification la manière de classifier les informations souvent traitées dans leur domaine de compétence et la durée de la classification.
+
+<sup>2</sup> Le service spécialisé de la Confédération pour la sécurité de l’information contrôle les catalogues de classification et émet si nécessaire une recommandation.
+
+<sup>3</sup> Après avoir consulté la Conférence des préposés à la sécurité de l’information, il fixe dans des directives générales et abstraites s’appliquant à toutes les organisations visées à l’art. 2, al. 1 à 3, la manière de classifier les informations souvent traitées par plusieurs départements et la durée de la classification.
+
+<sup>4</sup>
+
+Les personnes et les services suivants sont compétents pour classifier et déclassifier les informations qui ne figurent pas dans les catalogues de classification:
+
+- a. le personnel de la Confédération et les militaires;
+- b. les adjudicateurs, lorsque des informations de la Confédération sont traitées par des tiers.
+
+<sup>5</sup> Le personnel de la Confédération, les militaires et les tiers sont compétents pour marquer formellement les supports d’information qu’ils établissent ou les informations qu’ils communiquent oralement.
+
+#### Art. 18
+
+**Échelon de classification «interne»**
+
+(art. 13, al. 1, LSI)
+
+<sup>1</sup>
+
+Les informations susceptibles de nuire de la manière suivante aux intérêts définis à l’art. 1, al. 2, let. a à d, LSI si elles sont portées à la connaissance d’une personne non autorisée sont classifiées «interne»:
+
+- a. un important processus d’affaires du Conseil fédéral ou de l’administration fédérale ou un processus de conduite important de l’armée est entravé;
+- b. l’exécution d’engagements des autorités de poursuite pénale, du Service de renseignement de la Confédération (SRC), de l’armée ou des autres organes de sécurité de la Confédération est entravée;
+- c. des personnes subissent des lésions corporelles;
+- d. la sécurité nucléaire ou la sûreté d’installations nucléaires ou de matières nucléaires sont indirectement compromises;
+- e. la Suisse subit un désavantage sur les plans de la politique extérieure ou de l’économie;
+- f. les relations entre la Confédération et les cantons ou entre les cantons sont perturbées.
+
+<sup>2</sup> Sont également classifiées «interne» les informations permettant de tirer des conclusions sur des informations classifiées «confidentiel» ou «secret» si elles sont portées à la connaissance d’une personne non autorisée.
+
+#### Art. 19
+
+**Échelon de classification «confidentiel»**
+
+(art. 13, al. 2, LSI)
+
+Les informations susceptibles de nuire considérablement de la manière suivante aux intérêts définis à l’art. 1, al. 2, let. a à d, LSI si elles sont portées à la connaissance d’une personne non autorisée sont classifiées «confidentiel»:
+
+- a. la capacité de décision et d’action du Conseil fédéral, du Parlement, de plusieurs unités administratives ou de plusieurs corps de troupe de l’armée sont entravées durant plusieurs jours;
+- b. l’exécution d’opérations des autorités de poursuite pénale, du SRC, de l’armée ou des autres organes de sécurité de la Confédération conforme aux objectifs est compromise;
+- c. les moyens et les méthodes opérationnels des services de renseignement et des autorités de poursuite pénale de la Confédération ou l’identité de sources et de personnes exposées sont divulgués;
+- d. la sécurité de la population est compromise durant plusieurs jours ou des personnes ou des groupes de personnes meurent;
+- e. la sécurité nucléaire ou la sûreté d’installations nucléaires ou de matières nucléaires sont compromises;
+- f. l’approvisionnement économique du pays ou l’exploitation d’infrastructures critiques sont entravés;
+- g. la Suisse subit un désavantage considérable sur les plans de la politique extérieure ou de l’économie ou les relations diplomatiques avec un État ou avec une organisation internationale sont rompues;
+- h. la position de la Suisse est temporairement considérablement affaiblie lors de négociations relatives à des affaires importantes de politique extérieure.
+
+#### Art. 20
+
+**Échelon de classification «secret»**
+
+(art. 13, al. 3, LSI)
+
+Les informations susceptibles de nuire gravement de la manière suivante aux intérêts définis à l’art. 1, al. 2, let. a à d, LSI si elles sont portées à la connaissance d’une personne non autorisée sont classifiées «secret»:
+
+- a. la capacité de décision et d’action du Conseil fédéral, du Parlement, de plusieurs unités administratives ou de plusieurs corps de troupe de l’armée sont annihilées durant des jours ou entravées pendant des semaines;
+- b. l’exécution d’opérations d’importance stratégique des autorités de poursuite pénale, du SRC, de l’armée ou des autres organes de sécurité de la Confédération est compromise ou entravée durant des jours dans une mesure particulièrement importante;
+- c. des sources stratégiques, l’identité de personnes particulièrement exposées ou les moyens et les méthodes stratégiques des services de renseignement et des autorités de poursuite pénale de la Confédération sont divulgués;
+- d. la sécurité de la population est compromise durant des semaines dans une mesure particulièrement importante ou un grand nombre de personnes meurent;
+- e. la sécurité nucléaire ou la sûreté d’installations nucléaires ou de matières nucléaires sont compromises dans une mesure particulièrement importante;
+- f. l’approvisionnement économique du pays ou l’exploitation d’infrastructures critiques ne sont plus assurés durant des jours;
+- g. la Suisse subit durant des semaines des conséquences particulièrement lourdes sur les plans de la politique extérieure ou de l’économie, telles que des mesures d’embargo ou des sanctions;
+- h. la position de la Suisse est affaiblie lors de négociations relatives à des affaires stratégiques de politique extérieure durant des années.
+
+#### Art. 21
+
+**Directives relatives au traitement**
+
+(art. 6, al. 2, 84, al. 1, et 85 LSI)
+
+<sup>1</sup> Le service spécialisé de la Confédération pour la sécurité de l’information émet des directives générales et abstraites s’appliquant à toutes les organisations visées à l’art. 2, al. 1 à 3, qui concernent le traitement des informations classifiées et fixe les exigences de sécurité minimales en matière d’organisation, de personnel et de construction, de même que sur le plan technique. Il tient compte pour ce faire des normes internationales en la matière.
+
+<sup>2</sup>
+
+Il consulte au préalable les services suivants:
+
+- a. l’OFCS;
+- b. le service cryptographique de l’armée;
+- c. les services ayant la compétence d’acheter des biens cryptologiques visés à l’art. 10, al. 1, let. d, Org‑OMP[^21-1];
+- d. les organes de l’administration fédérale et de l’armée responsables de la sécurité des objets.
+
+<sup>3</sup> La ChF règle le traitement des affaires classifiées du Conseil fédéral.
+
+<sup>4</sup> Le traitement des informations classifiées provenant de l’étranger est régi par les prescriptions correspondant à l’échelon de classification étranger. Les dispositions différentes figurant dans un traité international visé à l’art. 87 LSI sont réservées.
+
+[^21-1]: [RS 172.056.15](https://fedlex.data.admin.ch/eli/cc/2012/695)
+
+#### Art. 22
+
+**Mesures de sécurité liées à l’engagement**
+
+(art. 6, al. 2, et 85 LSI)
+
+<sup>1</sup>
+
+Si des informations classifiées sont traitées dans le cadre d’un engagement ou d’une opération et ne sont accessibles qu’à un cercle fermé d’utilisateurs clairement identifiable, les personnes suivantes peuvent, après avoir consulté le service spécialisé de la Confédération pour la sécurité de l’information, arrêter des directives spécifiques à l’engagement ou à l’opération visant à simplifier le traitement:
+
+- a. le directeur de l’Office fédéral de la police;
+- b. le directeur du SRC;
+- c. le chef de l’armée;
+- d. le chef du commandement des Opérations;
+- e. le directeur de l’Office fédéral de la douane et de la sécurité des frontières.
+
+<sup>2</sup> Les personnes visées à l’al. 1 veillent à ce qu’il soit clairement indiqué sur les supports d’information que les prescriptions de traitement simplifié s’appliquent.
+
+<sup>3</sup> Les directives relatives au traitement visées à l’art. 21 s’appliquent en dehors du cercle d’utilisateurs et à la conservation des informations en vue de leur archivage.
+
+#### Art. 23
+
+**Certification de sécurité des moyens informatiques**
+
+(art. 83, al. 1, let. e, LSI)
+
+<sup>1</sup> Les moyens informatiques sont certifiés sur le plan de la sécurité avant leur mise en exploitation si cela est nécessaire à la collaboration nationale ou internationale.
+
+<sup>2</sup> La certification de sécurité est effectuée par le service spécialisé de la Confédération pour la sécurité de l’information, après consultation du service cryptographique de l’armée et des services ayant la compétence d’acheter des biens cryptologiques visés à l’art. 10, al. 1, let. d, Org‑OMP[^23-1].
+
+<sup>3</sup> Elle atteste que le moyen informatique remplit les exigences minimales correspondant à l’échelon de classification concerné et que les risques résiduels sont acceptables en fonction de l’état des connaissances techniques.
+
+<sup>4</sup> Elle est répétée en cas de changements importants concernant les risques ou le moyen informatique.
+
+<sup>5</sup> Le Département fédéral de la défense, de la protection de la population et des sports (DDPS) fixe la procédure relative à la certification de sécurité en tenant compte des normes internationales en la matière.
+
+[^23-1]: [RS 172.056.15](https://fedlex.data.admin.ch/eli/cc/2012/695)
+
+#### Art. 24
+
+**Protection en cas de menace pour des informations classifiées**
+
+(art. 10, al. 1, et 11, al. 1, LSI)
+
+<sup>1</sup> Quiconque constate que des informations classifiées ont été compromises, ont disparu ou qu’il en a été fait une utilisation abusive ou encore que des informations n’ont pas été classifiées alors qu’elles auraient dû l’être ou qu’elles ont été classifiées de manière erronée prend les mesures de protection nécessaires.
+
+<sup>2</sup> Il en informe immédiatement l’auteur de la classification et les organes de sécurité concernés.
+
+#### Art. 25
+
+**Contrôle du besoin de protection et cercle des personnes autorisées**
+
+(art. 11, al. 2, LSI)
+
+Les auteurs de la classification contrôlent le besoin de protection de leurs informations classifiées et le cercle des personnes autorisées au moins tous les cinq ans et les examinent systématiquement lorsque les informations sont proposées aux Archives fédérales.
+
+#### Art. 26
+
+**Archivage**
+
+(art. 12, al. 3, LSI)
+
+<sup>1</sup> L’archivage des informations classifiées est régi par les dispositions de la législation fédérale sur l’archivage.
+
+<sup>2</sup> Les Archives fédérales veillent à ce que la sécurité de l’information visée dans la présente ordonnance soit garantie.
+
+<sup>3</sup> Les archives cessent d’être classifiées une fois que le délai de protection est échu. La prolongation du délai de protection est régie par l’art. 14 de l’ordonnance du 8 septembre 1999 sur l’archivage[^26-1].
+
+[^26-1]: [RS 152.11](https://fedlex.data.admin.ch/eli/cc/1999/371)
+
+## Section 5 Sécurité des moyens informatiques
+
+#### Art. 27
+
+**Procédure de sécurité**
+
+(art. 16 LSI)
+
+<sup>1</sup> Les unités administratives visées à l’art. 2, al. 1, let. c, doivent pouvoir démontrer le besoin de protection de leurs objets à protéger et leur importance pour la gestion de la continuité des activités.
+
+<sup>2</sup> Elles mettent en œuvre les consignes minimales des différentes catégories de sécurité et vérifient si des mesures de sécurité supplémentaires sont nécessaires.
+
+<sup>3</sup> Elles démontrent les risques résiduels.
+
+<sup>4</sup> Les responsables de la sécurité de l’information (art. 36) décident si les risques résiduels sont acceptables. Ils peuvent déléguer cette décision à d’autres membres de la direction.
+
+<sup>5</sup> La procédure de sécurité est répétée en cas de changements importants concernant la menace, la technologie, les tâches ou la situation de l’organisation.
+
+<sup>6</sup> Les unités administratives visées à l’art. 2, al. 1, let. c, contrôlent chaque année si un changement important a eu lieu.
+
+<sup>7</sup> Le service spécialisé de la Confédération pour la sécurité de l’information émet des directives générales et abstraites s’appliquant à toutes les organisations visées à l’art. 2, al. 1 à 3, qui concernent la procédure de sécurité visée à l’art. 16 LSI.
+
+#### Art. 28
+
+**Attribution des catégories de sécurité «protection élevée» et «protection très élevée»**
+
+(art. 17 LSI)
+
+<sup>1</sup> La catégorie de sécurité «protection élevée» est attribuée à un moyen informatique lorsqu’une violation de la sécurité de l’information est susceptible de provoquer un préjudice visé à l’art. 19 ou un dommage de 50 à 500 millions de francs.
+
+<sup>2</sup> La catégorie de sécurité «protection très élevée» est attribuée à un moyen informatique lorsqu’une violation de la sécurité de l’information est susceptible de provoquer un préjudice visé à l’art. 20 ou un dommage supérieur à 500 millions de francs.
+
+#### Art. 29
+
+**Mesures de sécurité**
+
+(art. 6, al. 3, 18 et 85 LSI)
+
+<sup>1</sup> Le service spécialisé de la Confédération pour la sécurité de l’information émet des directives générales et abstraites s’appliquant à toutes les organisations visées à l’art. 2, al. 1 à 3, qui concernent les exigences minimales pour les catégories de sécurité visées à l’art. 17 LSI.
+
+<sup>2</sup> Il tient compte des exigences concernant la sécurité des données personnelles au sens de la législation sur la protection des données et celle des autres informations que la Confédération doit protéger en vertu de ses obligations légales ou contractuelles.
+
+<sup>3</sup>
+
+L’efficacité des mesures de sécurité applicables aux moyens informatiques suivants doit être contrôlée avant leur mise en exploitation, ainsi que durant l’exploitation en cas de changements importants des risques, mais au moins tous les cinq ans:
+
+- a. les moyens informatiques de la catégorie de sécurité «protection élevée» qui sont utilisés pour accomplir des tâches dépassant le cadre d’une autorité ou d’un département;
+- b. les moyens informatiques de la catégorie de sécurité «protection très élevée».
+
+<sup>4</sup> La ChF et les départements intègrent leurs moyens informatiques de la catégorie de sécurité «protection très élevée» dans leur gestion de la continuité.
+
+#### Art. 30
+
+**Sécurité de l’exploitation**
+
+(art. 19 LSI)
+
+<sup>1</sup> Les unités administratives visées à l’art. 2, al. 1, let. c, veillent à ce que les responsabilités en matière de sécurité de l’information au niveau opérationnel soient consignées dans les accords de projets et les conventions de prestations conclus avec les fournisseurs internes de prestations.
+
+<sup>2</sup> Les fournisseurs internes de prestations mettent à la disposition des unités administratives visées à l’art. 2, al. 1, let. c, des départements et du service spécialisé de la Confédération pour la sécurité de l’information les informations dont ceux-ci ont besoin pour assurer la sécurité de l’information.
+
+<sup>3</sup> Ils veillent à disposer, sur le plan du personnel et des finances, des capacités et compétences nécessaires à la détection précoce, à l’analyse technique et à la maîtrise ou au traitement des incidents et des failles de sécurité qui les concernent ou qui concernent les bénéficiaires de leurs prestations dans le cadre des accords et conventions visés à l’al. 1.
+
+<sup>4</sup> Ils surveillent l’utilisation de leur infrastructure informatique et l’examinent régulièrement à la recherche de menaces et de vulnérabilités techniques. Ils peuvent charger des tiers d’effectuer cet examen.
+
+<sup>5</sup> Le traitement des données personnelles dans le cadre de la surveillance et de l’examen visés à l’al. 4 est régi par l’ordonnance du 22 février 2012 sur le traitement des données personnelles et des données des personnes morales lors de l’utilisation de l’infrastructure électronique de la Confédération[^30-1].
+
+[^30-1]: [RS 172.010.442](https://fedlex.data.admin.ch/eli/cc/2012/160)
+
+## Section 6 Mesures relatives aux personnes et protection physique
+
+#### Art. 31
+
+**Vérification de l’identité des personnes et des machines**
+
+(art. 20 et 85 LSI)
+
+<sup>1</sup> Après avoir consulté le délégué TNI, le service spécialisé de la Confédération pour la sécurité de l’information peut émettre des directives générales et abstraites s’appliquant à toutes les organisations visées à l’art. 2, al. 1 à 3, qui concernent les exigences techniques minimales auxquelles doit satisfaire la vérification, en fonction du risque, de l’identité des personnes et des machines qui ont besoin d’accéder à des informations, à des moyens informatiques, à des locaux et à d’autres infrastructures de la Confédération.
+
+<sup>2</sup> Le traitement des données personnelles effectué lors de la vérification de l’identité dans les systèmes de gestion des données d’identification visés à l’art. 24 LSI est régi par les dispositions de l’ordonnance du 19 octobre 2016 sur les systèmes de gestion des données d’identification et les services d’annuaires de la Confédération[^31-1].
+
+[^31-1]: [RS 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+
+#### Art. 32
+
+**Sécurité relative aux personnes**
+
+(art. 6, al. 2 et 3, 8 et 20, al. 1, let. a et c, LSI)
+
+<sup>1</sup> Les unités administratives visées à l’art. 2, al. 1, let. c, veillent à ce que les collaborateurs soumis à un contrôle de sécurité relatif aux personnes visé dans l’ordonnance du 8 novembre 2023 sur les contrôles de sécurité relatifs aux personnes (OCSP)[^32-1] soient sensibilisés chaque année à l’activité sensible déterminante et aux risques qui y sont liés.
+
+<sup>2</sup> Ces collaborateurs sont tenus d’annoncer à leur employeur les circonstances privées ou professionnelles susceptibles de les empêcher d’exercer leur activité sensible dans le respect des prescriptions.
+
+[^32-1]: [RS 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+
+#### Art. 33
+
+**Soupçon de comportement répréhensible**
+
+(art. 7, al. 2, let. c, LSI)
+
+<sup>1</sup> Lorsque la violation des prescriptions en matière de sécurité de l’information paraît constituer en même temps une infraction, la ChF et les départements transmettent le dossier de l’enquête et les procès-verbaux d’audition au Ministère public de la Confédération ou à l’auditeur en chef de l’armée suisse.
+
+<sup>2</sup> Ils saisissent les objets qui sont à même de servir de moyens de preuve dans une procédure.
+
+#### Art. 34
+
+**Mesures de protection physique**
+
+(art. 22 et 85 LSI)
+
+<sup>1</sup> Après avoir consulté les organes de l’administration fédérale et de l’armée responsables de la sécurité des objets, le service spécialisé de la Confédération pour la sécurité de l’information peut émettre des directives générales et abstraites s’appliquant à toutes les organisations visées à l’art. 2, al. 1 à 3, qui concernent les exigences minimales de protection physique des informations et des moyens informatiques.
+
+<sup>2</sup>
+
+Il tient compte à cet égard:
+
+- a. du cycle de vie entier des informations et des moyens informatiques;
+- b. des exigences spécifiques à la place de travail;
+- c. des stratégies et des plans d’hébergement de l’administration fédérale et de l’armée.
+
+#### Art. 35
+
+**Zones de sécurité**
+
+(art. 23 et 85 LSI)
+
+<sup>1</sup>
+
+Les unités administratives visées à l’art. 2, al. 1, let. c, peuvent établir les zones de sécurité suivantes:
+
+- a. zone de sécurité 1: les locaux et les espaces dans lesquels des informations classifiées «confidentiel» sont fréquemment traitées ou des moyens informatiques de la catégorie de sécurité «protection élevée» sont exploités;
+- b. zone de sécurité 2: les locaux et les espaces dans lesquels des informations classifiées «secret» sont fréquemment traitées ou des moyens informatiques de la catégorie de sécurité «protection très élevée» sont exploités.
+
+<sup>2</sup> Ces locaux et ces espaces ne sont considérés comme des zones de sécurité que si l’organe de l’administration fédérale ou de l’armée responsable de la sécurité des objets confirme avant leur mise en exploitation et ensuite au moins tous les cinq ans que les exigences en matière de sécurité sont remplies.
+
+<sup>3</sup> Après avoir consulté les organes de l’administration fédérale et de l’armée responsables de la sécurité des objets, le service spécialisé de la Confédération pour la sécurité de l’information émet des directives générales et abstraites s’appliquant à toutes les organisations visées à l’art. 2, al. 1 à 3, qui concernent les exigences en matière de sécurité pour les zones de sécurité et leur établissement.
+
+<sup>4</sup> Les unités administratives visées à l’art. 2, al. 1, let. c, peuvent prendre des mesures aux alentours des zones de sécurité afin d’identifier les actes d’espionnage électromagnétique et de s’en protéger.
+
+## Section 7 Organisation de sécurité
+
+#### Art. 36
+
+**Responsables de la sécurité de l’information des unités administratives visées à l’art. 2, al. 1, let. c**
+
+(art. 7, al. 1, LSI)
+
+<sup>1</sup> Le chancelier de la Confédération, les secrétaires généraux et les directeurs des unités administratives visées à l’art. 2, al. 1, let. c, sont responsables de la sécurité de l’information dans leur domaine de compétence.
+
+<sup>2</sup> Ils peuvent déléguer la responsabilité en matière de sécurité de l’information à un membre de la direction s’il dispose des pouvoirs nécessaires pour prendre des mesures, les contrôler et les corriger.
+
+<sup>3</sup>
+
+Les responsables de la sécurité de l’information des unités administratives visées à l’art. 2, al. 1, let. c, assument notamment les tâches suivantes:
+
+- a. ils assurent la mise en place, l’exploitation, le contrôle et l’amélioration continue du SMSI dans leur domaine de compétence et émettent les directives nécessaires;
+- b. ils prennent toutes les décisions qui ont une influence déterminante sur la sécurité de l’information dans leur domaine de compétence, notamment concernant l’organisation, les processus, l’acceptation des risques et les objectifs de sécurité;
+- c. ils décident des mesures nécessaires, notamment concernant la formation et la sensibilisation;
+- d. ils approuvent la planification annuelle de contrôle et d’audit et mettent les ressources nécessaires à disposition.
+
+<sup>4</sup>
+
+Le chancelier de la Confédération, les secrétaires généraux et les directeurs des unités administratives visées à l’art. 2, al. 1, let. c, confient des tâches à leurs préposés à la sécurité de l’information visés à l’art. 37 et s’assurent:
+
+- a. qu’ils disposent des compétences et des ressources appropriées, et
+- b. qu’ils ne se voient confier aucune tâche susceptible d’entraîner un conflit d’intérêts avec les tâches visées à l’art. 37.
+
+#### Art. 37
+
+**Préposés à la sécurité de l’information des unités administratives visées à l’art. 2, al. 1, let. c**
+
+(art. 7, al. 1, LSI)
+
+<sup>1</sup> Les unités administratives visées à l’art. 2, al. 1, let. c, désignent un ou plusieurs préposés à la sécurité de l’information et leurs suppléants.
+
+<sup>2</sup>
+
+Les préposés à la sécurité de l’information accomplissent les tâches et assument les compétences suivantes:
+
+- a. ils exploitent le SMSI de l’unité administrative sur mandat du responsable de la sécurité de l’information;
+- b. ils élaborent les bases de décision nécessaires à l’intention du responsable de la sécurité de l’information et lui proposent des mesures à prendre;
+- c. ils sont les interlocuteurs principaux de l’unité administrative pour les questions de sécurité de l’information et conseillent les personnes et les services responsables et les aident à accomplir leurs tâches et à exécuter leurs obligations dans le domaine de la sécurité de l’information;
+- d. ils veillent à la mise en œuvre des directives en matière de sécurité de l’information et à l’application de la procédure de sécurité visée à l’art. 27;
+- e. ils exercent la surveillance de la liste des bases légales, de l’inventaire des objets à protéger et de la liste des autorisations exceptionnelles;
+- f. ils exercent la surveillance de la planification de la formation et de la sensibilisation visées à l’art. 11 et proposent au responsable de la sécurité de l’information l’organisation de mesures de formation et de sensibilisation supplémentaires;
+- g. ils demandent l’ouverture de la procédure de sécurité relative aux entreprises visée à l’art. 4 de l’ordonnance du 8 novembre 2023 sur la procédure de sécurité relative aux entreprises (OPSEnt)[^37-1];
+- h. ils coordonnent la maîtrise des incidents de sécurité et le traitement des failles de sécurité dans l’unité administrative et auprès des tiers mandatés;
+- i. ils établissent la planification annuelle de contrôle et d’audit et la soumettent au responsable de la sécurité de l’information pour approbation;
+- j. ils contrôlent périodiquement la présence de supports d’information classifiés «secret» et la sécurité de ceux-ci dans leur domaine de compétence;
+- k. sur mandat du responsable de la sécurité de l’information, ils peuvent contrôler ou faire contrôler l’utilisation des informations aux postes de travail ouverts, partagés ou non verrouillables et dans les moyens informatiques de l’unité administrative;
+- l. ils rendent compte chaque semestre au responsable de la sécurité de l’information de la situation en matière de sécurité de l’information.
+
+[^37-1]: [RS 128.41](https://fedlex.data.admin.ch/eli/cc/2023/737)
+
+#### Art. 38
+
+**Sécurité de l’information dans les services standard**
+
+(art. 7, al. 1, LSI)
+
+<sup>1</sup> Le délégué TNI est chargé de garantir la sécurité de l’information dans les services standard visés à l’art. 17, al. 1, let. e, OTNI[^38-1].
+
+<sup>2</sup> Il désigne un ou plusieurs préposés à la sécurité de l’information pour les services standard et leurs suppléants.
+
+<sup>3</sup> Les préposés à la sécurité de l’information assument les tâches visées à l’art. 37, al. 2, pour les services standard et informent l’administration fédérale et l’armée des risques pour la sécurité de l’information.
+
+[^38-1]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+
+#### Art. 39
+
+**Responsabilité des départements en matière de sécurité de l’information**
+
+(art. 7, al. 1, et 81 LSI)
+
+<sup>1</sup> Les départements sont responsables du pilotage et de la surveillance de la sécurité de l’information dans leur domaine de compétence.
+
+<sup>2</sup>
+
+Ils accomplissent à cet égard notamment les tâches suivantes:
+
+- a. ils déterminent la politique en matière de sécurité de l’information et l’organisation de sécurité du département, y compris la conduite technique des préposés à la sécurité de l’information visés à l’art. 37;
+- b. ils édictent les directives nécessaires et en surveillent la mise en œuvre;
+- c. ils surveillent le SMSI des unités administratives visées à l’art. 2, al. 1, let. c, et relèvent les indicateurs nécessaires à cette fin;
+- d. ils fixent des objectifs annuels de sécurité pour les unités administratives visées à l’art. 2, al. 1, let. c, et vérifient qu’elles les ont atteints;
+- e. ils approuvent la planification annuelle de contrôle et d’audit du département et mettent les ressources nécessaires à disposition;
+- f.
+
+  ils confient des tâches à leurs préposés à la sécurité de l’information visés à l’art. 40 et s’assurent:
+
+  - 1\. qu’ils disposent des compétences et des ressources appropriées, et
+  - 2\. qu’ils ne se voient confier aucune tâche susceptible d’entraîner un conflit d’intérêts avec les tâches visées à l’art. 40.
+
+<sup>3</sup> Ils peuvent fixer pour leur domaine de compétence des exigences en matière de sécurité qui dépassent les exigences minimales du service spécialisé de la Confédération pour la sécurité de l’information.
+
+<sup>4</sup> Pour autant que le chef de département n’en décide pas autrement, la sécurité de l’information dans le département relève de la responsabilité du secrétaire général qui agit sous son mandat.
+
+#### Art. 40
+
+**Préposés à la sécurité de l’information des départements**
+
+(art. 7, al. 1, et 81 LSI)
+
+Les préposés à la sécurité de l’information des départements accomplissent les tâches suivantes en plus de celles qui sont visées à l’art. 81, al. 2, LSI:
+
+- a. ils assurent la coordination interdépartementale de la sécurité de l’information;
+- b. ils élaborent les bases de décision nécessaires à l’intention du responsable de la sécurité de l’information et lui proposent des mesures à prendre;
+- c. ils coordonnent la maîtrise des incidents de sécurité et le traitement des failles de sécurité impliquant plusieurs unités administratives visées à l’art. 2, al. 1, let. c;
+- d. ils établissent la planification annuelle de contrôle et d’audit du département et la soumettent au responsable de la sécurité de l’information pour approbation;
+- e. ils représentent le département au sein d’organes spécialisés;
+- f. ils sont consultés pour le choix des préposés à la sécurité de l’information des unités administratives visés à l’art. 37;
+- g. ils vérifient périodiquement et en cas de changement ou de départ d’un membre du Conseil fédéral ou du chancelier de la Confédération que tous les supports d’information classifiés «secret» sont présents et au complet;
+- h. ils rendent compte chaque année au responsable de la sécurité de l’information du département de la situation en matière de sécurité de l’information dans le département.
+
+#### Art. 41
+
+**Préposé à la sécurité de l’information du Conseil fédéral**
+
+(art. 81, al. 1, let. a, LSI)
+
+Le DDPS nomme le préposé à la sécurité de l’information du Conseil fédéral et son suppléant.
+
+#### Art. 42
+
+**Service spécialisé de la Confédération pour la sécurité de l’information**
+
+(art. 7, al. 1, et 83 LSI)
+
+<sup>1</sup>
+
+Le service spécialisé de la Confédération pour la sécurité de l’information accomplit les tâches et assume les compétences suivantes pour l’administration fédérale et l’armée:
+
+- a. il élabore des stratégies sur des thèmes pertinents pour la sécurité;
+- b. il peut demander des informations, émettre des avis et proposer des modifications concernant des projets dans le domaine de la sécurité;
+- c. il participe à la formation des membres de l’organisation de sécurité;
+- d. il prépare des modèles et des aides;
+- e. il aide les préposés à la sécurité de l’information à contrôler les supports d’information classifiés «secret»;
+- f. il assume la responsabilité des solutions de sécurité certifiées utilisées dans toute l’administration fédérale et l’armée.
+
+<sup>2</sup> Il consulte la Conférence des préposés à la sécurité de l’information lors de l’accomplissement de ces tâches et de celles visées à l’art. 83, al. 1, LSI.
+
+<sup>3</sup>
+
+Il représente la Suisse dans les relations internationales en tant qu’autorité nationale de sécurité et assume dans ce contexte les tâches suivantes:
+
+- a. il élabore les traités internationaux visés à l’art. 87 LSI et en contrôle la mise en œuvre;
+- b. il veille à ce que les incidents de sécurité qui concernent des informations classifiées d’États partenaires soient clarifiés de manière appropriée;
+- c. il exécute les contrôles prévus dans les traités internationaux ou les fait exécuter;
+- d. il représente la Suisse dans des organismes internationaux spécialisés;
+- e. il autorise l’arrivée d’étrangers en Suisse pour participer à des projets classifiés et l’envoi de personnes à l’étranger pour participer à des projets classifiés;
+- f. il délivre les certificats de sécurité visés à l’art. 30 OCSP[^42-1].
+
+<sup>4</sup> Il fait partie du Secrétariat d’État à la politique de sécurité du DDPS.
+
+[^42-1]: [RS 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+
+#### Art. 43
+
+**Tâches et compétences de l’OFCS**
+
+(art. 7, al. 1, et 84, al. 1, LSI)
+
+<sup>1</sup>
+
+L’OFCS accomplit les tâches et assume les compétences suivantes:
+
+- a. il conseille l’administration fédérale et l’armée ainsi que les organes de sécurité visés aux art. 81 à 83 LSI pour toutes les questions liées à la sécurité technique de l’information;
+- b. il siège à la Conférence des préposés à la sécurité de l’information visée à l’art. 82 LSI;
+- c. il peut, afin d’évaluer et d’améliorer la situation en matière de sécurité technique de l’information de la Confédération, rechercher des menaces et des vulnérabilités techniques sur Internet ou, en concertation avec les responsables de la sécurité de l’information et les fournisseurs de prestations, dans l’infrastructure informatique de l’administration fédérale; il peut en charger d’autres services de l’administration fédérale ou des tiers.
+
+<sup>2</sup> Il coordonne ses activités avec celles du service spécialisé de la Confédération pour la sécurité de l’information.
+
+## Section 8 Coûts et évaluation
+
+#### Art. 44
+
+**Coûts**
+
+<sup>1</sup> Les coûts décentralisés de la sécurité de l’information font partie des coûts de projet et d’exploitation.
+
+<sup>2</sup> Les unités administratives visées à l’art. 2, al. 1, let. c, veillent à ce que les coûts soient suffisamment pris en compte et démontrés lors de la planification.
+
+<sup>3</sup> Le service spécialisé de la Confédération pour la sécurité de l’information perçoit un émolument de 100 francs pour établir et envoyer les certificats de sécurité visés à art. 30 OCSP[^44-1] pour les personnes qui n’exercent pas d’activité sensible de la Confédération.
+
+[^44-1]: [RS 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+
+#### Art. 45
+
+**Évaluation**
+
+(art. 88 LSI)
+
+Six ans après l’entrée en vigueur de la présente ordonnance et ensuite tous les dix ans, le service spécialisé de la Confédération pour la sécurité de l’information demande au Contrôle fédéral des finances d’évaluer la législation sur la sécurité de l’information au sein de la Confédération.
+
+## Section 9 Traitement des informations et des données personnelles
+
+#### Art. 46
+
+**Généralités**
+
+<sup>1</sup> Les organisations visées à l’art. 2, al. 1 à 3, et les organes de sécurité de la Confédération peuvent traiter les informations utiles à la sécurité de l’information, y compris les données personnelles.
+
+<sup>2</sup>
+
+Ils peuvent échanger les informations, y compris les données personnelles, visées à l’al. 1 entre eux et avec des organisations nationales, internationales ou étrangères de droit public ou privé, dans la mesure où:
+
+- a. cela est utile à la sécurité de l’information;
+- b. aucune obligation de maintien du secret légale ou contractuelle n’est violée;
+- c. les dispositions de la législation fédérale en matière de protection des données sont respectées, et
+- d. ces organisations assument des tâches légales dans le domaine de la sécurité de l’information qui correspondent à celles de l’autorité ou de l’organisation qui communique les informations.
+
+<sup>3</sup> Pour autant que cela soit nécessaire pour maîtriser un incident de sécurité ou traiter une faille de sécurité, ils peuvent également traiter et échanger des données sensibles visées à l’art. 5, let. c, de la loi fédérale du 25 septembre 2020 sur la protection des données[^46-1] de personnes qui ont ou auraient participé à l’incident ou à la faille de sécurité ou qui sont ou seraient concernées par l’incident ou la faille de sécurité.
+
+<sup>4</sup> Si, lors d’un incident de sécurité survenant au sein de la Confédération ou auprès de tiers collaborant avec la Confédération, des informations de la Confédération sont dérobées et publiées sur Internet, ils peuvent télécharger et analyser ces informations afin d’évaluer l’atteinte portée à la Confédération et de prendre les mesures de protection nécessaires. Ils ne peuvent pas traiter les données qui ne sont pas utiles à cette évaluation.
+
+<sup>5</sup> Ils peuvent appliquer ces mesures en cas de soupçon concret.
+
+[^46-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 47
+
+**Application SMSI**
+
+<sup>1</sup> Les organisations visées à l’art. 2, al. 1 à 3, peuvent exploiter un système d’information pour gérer la sécurité de l’information (application SMSI).
+
+<sup>2</sup> Elles peuvent traiter dans l’application SMSI toutes les informations liées à la gestion de la sécurité de l’information en vertu de la présente ordonnance et les données sensibles visées à l’art. 46, al. 3.
+
+<sup>3</sup> Elles peuvent relier leurs applications SMSI et échanger des informations pertinentes pour la sécurité de l’information par des interfaces automatisées.
+
+#### Art. 48
+
+**Services électroniques de formulaire**
+
+<sup>1</sup>
+
+Le service spécialisé de la Confédération pour la sécurité de l’information peut exploiter des services électroniques de formulaire et les relier à son application SMSI dans les buts suivants:
+
+- a. gérer les déplacements visés à l’art. 42, al. 3, let. e;
+- b. établir et envoyer les certificats internationaux de sécurité visés à l’art. 30 OCSP[^48-1];
+- c. établir et envoyer les certificats internationaux de sécurité visés à l’art. 66 LSI.
+
+<sup>2</sup> Les données personnelles figurant dans l’annexe 1 peuvent être traitées à l’aide des services de formulaire visés à l’al. 1. Elles peuvent être conservées pendant dix ans au plus.
+
+<sup>3</sup> Les organisations visées à l’art. 2, al. 1 à 3, peuvent exploiter des services électroniques de formulaire pour annoncer des incidents et des failles de sécurité et les relier à leur application SMSI.
+
+<sup>4</sup> À l’aide des services de formulaire visés à l’al. 3, elles peuvent traiter les données personnelles, y compris les données sensibles visées à l’art. 46, al. 3, qui sont nécessaires à la maîtrise des incidents de sécurité et au traitement des failles de sécurité. Elles doivent effacer ces données du service de formulaire immédiatement après leur communication. Elles peuvent provisoirement les enregistrer avant l’envoi durant 24 heures au plus.
+
+[^48-1]: [RS 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+
+## Section 10 Dispositions finales
+
+#### Art. 49
+
+**Dispositions d’exécution particulières**
+
+Le DDPS peut déclarer contraignantes pour les cantons des versions datées des directives générales et abstraites visées aux art. 17, al. 3, 21, al. 1, 29, al. 1 et 34, al. 1.
+
+#### Art. 50
+
+**Abrogation et modification d’autres actes**
+
+L’abrogation et la modification d’autres actes sont réglées dans l’annexe 2.
+
+#### Art. 51
+
+**Dispositions transitoires**
+
+<sup>1</sup> Les directives en matière de sécurité informatique émises par le Centre national pour la cybersécurité (NCSC) et les exceptions qu’il a autorisées avant l’entrée en vigueur de la présente ordonnance conservent leur validité durant trois ans au plus après l’entrée en vigueur de la présente ordonnance.
+
+<sup>2</sup> Le service spécialisé de la Confédération pour la sécurité de l’information ou le NCSC prend les décisions concernant les changements des directives et des exceptions autorisées émises par le NCSC avant l’entrée en vigueur de la présente ordonnance.
+
+<sup>3</sup> Les directives en matière de protection de l’information émises par la Conférence des secrétaires généraux ou l’organe de coordination pour la protection des informations au sein de la Confédération avant l’entrée en vigueur de la présente ordonnance conservent leur validité durant deux ans au plus après l’entrée en vigueur de la présente ordonnance.
+
+<sup>4</sup> Les unités administratives visées à l’art. 2, al. 1, let. c, mettent en place leur SMSI (art. 5) dans les trois ans après l’entrée en vigueur de la présente ordonnance.
+
+<sup>5</sup> Les catalogues de classification (art. 17) doivent être établis au plus tard un an après l’entrée en vigueur de la présente ordonnance.
+
+<sup>6</sup> L’OFCS assume jusqu’au 30 juin 2025 les tâches et les compétences du service spécialisé de la Confédération pour la sécurité de l’information visées aux art. 9, al. 2 et 3, 11, al. 3 et 4, 12, al. 3 et 6 à 8, 15, 27, al. 7, 29, al. 1, et 31, al. 1.
+
+<sup>7</sup> Les directives émises par l’OFCS en application de l’al. 6 conservent leur validité durant deux ans au plus après l’entrée en vigueur de la présente ordonnance.
+
+#### Art. 52
+
+**Entrée en vigueur**
+
+<sup>er</sup> La présente ordonnance entre en vigueur le 1 janvier 2024.
+
+<table>
+<tr><td>8 novembre 2023</td><td>Au nom du Conseil fédéral suisse: Le président de la Confédération, Alain Berset Le chancelier de la Confédération, Walter Thurnherr</td></tr>
+</table>
+
+Annexe 1
+
+(art. 48)
+
+## Traitement des données à l’aide de services électroniques de formulaire
+
+Les données personnelles suivantes peuvent être traitées à l’aide des services de formulaire ci-dessous:
+
+### 1. Service de formulaire pour le but visé à l’art. 48, al. 1, let. a
+
+- a.
+
+  Données relatives à la personne:
+
+  - 1\. Prénoms et noms\*
+  - 2\. Numéro AVS
+  - 3\. Civilité, titre et rang\*
+  - 4\. Date de naissance\*
+  - 5\. Lieu d’origine et lieu de naissance\*
+  - 6\. Nationalités\*
+  - 7\. Numéro de carte d’identité et de passeport, lieu d’établissement et validité\*
+
+- b.
+
+  Données concernant les fonctions professionnelles ou militaires de la personne:
+
+  - 1\. Fonction au sein de l’organisation ou de l’armée\*
+  - 2\. Adresse professionnelle, adresse e-mail, numéros de téléphone et autres coordonnées, en particulier électroniques
+  - 3\. Décision positive concernant le contrôle de sécurité relatif aux personnes, degré de contrôle et durée de validité\*
+
+- c.
+
+  Données relatives à l’organisation requérante:
+
+  - 1\. Nom, adresse et coordonnées de l’organisation\*
+  - 2\. Prénoms et noms de la personne de référence
+  - 3\. Fonction de la personne de référence au sein de l’organisation ou de l’armée
+  - 4\. Adresse professionnelle, adresse e-mail, numéros de téléphone et coordonnées électroniques de la personne de référence
+
+- d.
+
+  Données concernant la visite:
+
+  - 1\. Nom, adresse, adresse e-mail et coordonnées de l’organisation étrangère\*
+  - 2\. Motif de la visite\*
+  - 3\. Catégorie de sécurité de la visite\*
+  - 4\. Durée de la visite\*
+  - 5\. Points du passage de la frontière\*
+  - 6\. Moyens de transport\*
+  - 7\. Matériel transporté, y c. armes, munitions, explosifs, véhicules et autres équipements\*
+
+Les données suivies d’un astérisque (\*) sont communiquées à l’autorité de sécurité étrangère.
+
+### 2. Service de formulaire pour le but visé à l’art. 48, al. 1, let. b
+
+- a.
+
+  Données relatives à la personne:
+
+  - 1\. Prénoms et noms
+  - 2\. Numéro AVS
+  - 3\. Civilité, titre et rang
+  - 4\. Date de naissance
+  - 5\. Lieu d’origine et lieu de naissance
+  - 6\. Nationalités
+  - 7\. Numéro de carte d’identité et de passeport, lieu d’établissement et validité
+
+- b.
+
+  Données concernant les fonctions professionnelles ou militaires de la personne:
+
+  - 1\. Fonction au sein de l’organisation ou de l’armée
+  - 2\. Adresse professionnelle, adresse e-mail, numéros de téléphone et autres coordonnées, en particulier électroniques
+  - 3\. Décision positive concernant le contrôle de sécurité relatif aux personnes, degré de contrôle et durée de validité
+
+- c.
+
+  Données relatives à l’organisation requérante:
+
+  - 1\. Nom, adresse, adresse e-mail et coordonnées de l’organisation
+  - 2\. Prénoms et noms de la personne de référence
+  - 3\. Fonction de la personne de référence au sein de l’organisation ou de l’armée
+  - 4\. Adresse professionnelle, adresse e-mail et autres coordonnées, en particulier électroniques, de la personne de référence
+  - 5\. Motif de l’établissement du certificat
+
+### 3. Service de formulaire pour le but visé à l’art. 48, al. 1, let. c
+
+- a.
+
+  Données relatives à l’entreprise:
+
+  - 1\. Nom complet\*
+  - 2\. Forme juridique\*
+  - 3\. Numéro d’identification de l’entreprise
+  - 4\. Adresse, adresse e-mail et autres coordonnées, en particulier électroniques\*
+  - 5\. Siège\*
+  - 6\. Prénoms et noms de la personne de référence\*
+  - 7\. Fonction de la personne de référence au sein de l’entreprise
+  - 8\. Adresse professionnelle, adresse e-mail et autres coordonnées, en particulier électroniques, de la personne de référence
+
+- b.
+
+  Données concernant la déclaration de sécurité relative aux entreprises:
+
+  - 1\. Date d’établissement et durée de validité\*
+  - 2\. Champ d’application et charges\*
+  - 3\. Échelon de classification ou catégorie de sécurité le plus élevé autorisé\*
+
+Les données suivies d’un astérisque (\*) sont communiquées à l’autorité de sécurité étrangère.
+
+### 4. Service de formulaire visé à l’art. 48, al. 3
+
+- a.
+
+  Données concernant l’auteur de l’annonce:
+
+  - 1\. Prénoms et noms
+  - 2\. Adresse, adresse e-mail, numéros de téléphone et autres coordonnées, en particulier électroniques
+  - 3\. Fonction au sein de l’organisation ou de l’armée
+
+- b. Données relatives au dommage et au calcul du dommage
+- c. Photographies, enregistrements sonores ou vidéos de l’incident ou de la faille de sécurité
+- d. Documents ou fichiers portant sur l’incident ou la faille de sécurité
+- e. Données relatives aux éventuelles personnes impliquées dans l’incident
+- f. Premières analyses de spécialistes, y compris premières mesures prises
+
+Annexe 2
+
+(art. 50)
+
+## Abrogation et modification d’autres actes
+
+I
+
+L’ordonnance du 27 mai 2020 sur les cyberrisques[^annex2-lvlu1-1] est abrogée.
+
+II
+
+Les actes mentionnés ci-après sont modifiés comme suit:
+
+### 1. Ordonnance du 4 décembre 2009 sur les mesures de police administrative de l’Office fédéral de la police et sur le système d’information HOOGAN
+
+[^annex2-lvlu1-lvl1-1]
+
+[^annex2-lvlu1-1]: [RO 2020 2107](https://fedlex.data.admin.ch/eli/oc/2020/416), [5871](https://fedlex.data.admin.ch/eli/oc/2020/988); [2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)
+[^annex2-lvlu1-lvl1-1]: [RS 120.52](https://fedlex.data.admin.ch/eli/cc/2009/847)
+
+Art. 9, al. 7
+
+<sup>7</sup> Les autorités mentionnées à l’al. 1 veillent au respect des dispositions relatives à la protection des données et à la sécurité de l’information.
+
+Art. 13, al. 1, let. b
+
+<sup>1</sup> Pour garantir la sécurité des données, sont applicables:
+
+- b. l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^annex2-lvlu1-lvl1-2].
+
+[^annex2-lvlu1-lvl1-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 2. Ordonnance du 16 août 2017 sur les systèmes d’information et les systèmes de stockage de données du Service de renseignement de la Confédération
+
+[^annex2-lvlu1-lvl2-1]
+
+[^annex2-lvlu1-lvl2-1]: [RS 121.2](https://fedlex.data.admin.ch/eli/cc/2017/496)
+
+Art. 13, al. 1, let. b et c
+
+<sup>1</sup> Pour assurer la sécurité des données s’appliquent:
+
+- b. l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^annex2-lvlu1-lvl2-2];
+- c. *abrogée*
+
+#### Art. 15
+
+**Transmission de données hors du réseau SiLAN**
+
+La transmission de données hors du réseau SiLAN est régie par l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^annex2-lvlu1-lvl2-15-1].
+
+[^annex2-lvlu1-lvl2-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^annex2-lvlu1-lvl2-15-1]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 3. Ordonnance du 10 novembre 2021 sur le système d’entrée et de sortie
+
+[^annex2-lvlu1-lvl3-1]
+
+[^annex2-lvlu1-lvl3-1]: [RS 142.206](https://fedlex.data.admin.ch/eli/cc/2021/734)
+
+Art. 20, al. 2, let. b
+
+<sup>2</sup> S’agissant des autorités fédérales, la sécurité des données est régie en outre par:
+
+- b. l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^annex2-lvlu1-lvl3-2].
+
+[^annex2-lvlu1-lvl3-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 4. Ordonnance 3 du 11 août 1999 sur l’asile
+
+[^annex2-lvlu1-lvl4-1]
+
+[^annex2-lvlu1-lvl4-1]: [RS 142.314](https://fedlex.data.admin.ch/eli/cc/1999/361)
+
+Art. 12, let. b
+
+La sécurité des données est régie par:
+
+- b. l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^annex2-lvlu1-lvl4-2];
+
+[^annex2-lvlu1-lvl4-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 5. Ordonnance VIS du 18 décembre 2013
+
+[^annex2-lvlu1-lvl5-1]
+
+[^annex2-lvlu1-lvl5-1]: [RS 142.512](https://fedlex.data.admin.ch/eli/cc/2014/2)
+
+Art. 34, let. b
+
+La sécurité des données est régie par:
+
+- b. l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^annex2-lvlu1-lvl5-2];
+
+[^annex2-lvlu1-lvl5-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 6. Ordonnance SYMIC du 12 avril 2006
+
+[^annex2-lvlu1-lvl6-1]
+
+[^annex2-lvlu1-lvl6-1]: [RS 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
+
+Art. 17, titre et al. 1, let. b
+
+Sécurité des données et de l’information
+
+<sup>1</sup> La sécurité des données est régie par:
+
+- b. l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^annex2-lvlu1-lvl6-2].
+
+[^annex2-lvlu1-lvl6-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 7. Ordonnance du 5 décembre 2008 concernant la gestion de l’immobilier et la logistique de la Confédération
+
+[^annex2-lvlu1-lvl7-1]
+
+[^annex2-lvlu1-lvl7-1]: [RS 172.010.21](https://fedlex.data.admin.ch/eli/cc/2008/857)
+
+Art. 41, al. 2, let. b
+
+<sup>2</sup> L’OFCL édicte des instructions pour le domaine de la logistique. Sont réservées:
+
+- b. l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^annex2-lvlu1-lvl7-2].
+
+[^annex2-lvlu1-lvl7-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 8. Ordonnance GEVER du 3 avril 2019
+
+[^annex2-lvlu1-lvl8-1]
+
+[^annex2-lvlu1-lvl8-1]: [RS 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)
+
+#### Art. 11
+
+**Traitement d’informations classifiées**
+
+<sup>1</sup> Les informations classifiées CONFIDENTIEL en vertu de l’art. 19 de l’ordonnance du 8 novembre 2023 sur la sécurité de l’information (OSI)[^annex2-lvlu1-lvl8-11-1] sont chiffrées dans les systèmes de gestion des affaires.
+
+<sup>2</sup> Les informations classifiées SECRET en vertu de l’art. 20 OSI ne doivent pas être traitées dans les systèmes de gestion des affaires.
+
+[^annex2-lvlu1-lvl8-11-1]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 9. Ordonnance du 22 février 2012 sur le traitement des données personnelles et des données des personnes morales lors de l’utilisation de l’infrastructure électronique de la Confédération
+
+[^annex2-lvlu1-lvl9-1]
+
+[^annex2-lvlu1-lvl9-1]: [RS 172.010.442](https://fedlex.data.admin.ch/eli/cc/2012/160)
+
+#### Art. 3
+
+**Conservation sécurisée des données**
+
+Les données doivent être conservées de manière sécurisée conformément aux dispositions de l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^annex2-lvlu1-lvl9-3-1].
+
+[^annex2-lvlu1-lvl9-3-1]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 10. Ordonnance SIVIP du 18 novembre 2015
+
+[^annex2-lvlu1-lvl10-1]
+
+[^annex2-lvlu1-lvl10-1]: [RS 172.211.21](https://fedlex.data.admin.ch/eli/cc/2015/797)
+
+Titre précédent l’art. 10
+
+## Section 3 Protection des données et sécurité de l’information
+
+Art. 11, al. 1, phrase introductive et let. b
+
+<sup>1</sup> La sécurité des données et la sécurité de l’information sont régies par:
+
+- b. l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec3-1].
+
+### 11. Ordonnance Web-DFAE du 5 novembre 2014
+
+[^sec3-lvl11-1]
+
+[^sec3-1]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^sec3-lvl11-1]: [RS 172.220.111.42](https://fedlex.data.admin.ch/eli/cc/2014/655)
+
+Titre précédent l’art. 10
+
+## Section 3 Protection des données et sécurité de l’information
+
+Art. 12, al. 1, phrase introductive et let. b
+
+<sup>1</sup> La sécurité des données et la sécurité de l’information sont régies par:
+
+- b. l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec3-2].
+
+### 12. Ordonnance du 17 août 2016 sur le système d’information E‑VERA
+
+[^sec3-lvl12-1]
+
+[^sec3-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^sec3-lvl12-1]: [RS 235.22](https://fedlex.data.admin.ch/eli/cc/2016/487)
+
+Art. 14, al. 1, phrase introductive et let. b
+
+<sup>1</sup> La sécurité des données et la sécurité de l’information sont régies par:
+
+- b. l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec3-lvl12-2];
+
+[^sec3-lvl12-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 13. Ordonnance du 7 novembre 2012 sur la protection extraprocédurale des témoins
+
+[^sec3-lvl13-1]
+
+[^sec3-lvl13-1]: [RS 312.21](https://fedlex.data.admin.ch/eli/cc/2012/815)
+
+Art. 4, al. 2
+
+<sup>2</sup> Pour le reste, les dispositions de l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec3-lvl13-2] s’appliquent.
+
+Art. 12, al. 4
+
+<sup>4</sup> Le traitement des données par le destinataire est régi par les dispositions de l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec3-lvl13-3].
+
+Art. 15, al. 1, let. b
+
+<sup>1</sup> La sécurité des données est garantie par:
+
+- b. l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec3-lvl13-4];
+
+[^sec3-lvl13-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^sec3-lvl13-3]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^sec3-lvl13-4]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 14. Ordonnance du 20 septembre 2013 relative au système d’information en matière pénale de l’Office fédéral de la douane et de la sécurité des frontières
+
+[^sec3-lvl14-1]
+
+[^sec3-lvl14-1]: [RS 313.041](https://fedlex.data.admin.ch/eli/cc/2013/639)
+
+Art. 18, al. 1
+
+<sup>1</sup> La garantie de la sécurité des données est régie par les art. 1 à 4 et 6 de l’OPDo[^sec3-lvl14-2] et par les dispositions de l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec3-lvl14-3].
+
+[^sec3-lvl14-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^sec3-lvl14-3]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 15. Ordonnance du 19 octobre 2022 sur le casier judiciaire
+
+[^sec3-lvl15-1]
+
+[^sec3-lvl15-1]: [RS 331](https://fedlex.data.admin.ch/eli/cc/2022/698)
+
+Art. 11, al. 1, let. b
+
+<sup>1</sup> La sécurité des données est régie notamment par:
+
+- b. l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec3-lvl15-2].
+
+[^sec3-lvl15-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 16. Ordonnance GPDA du 23 septembre 2016
+
+[^sec3-lvl16-1]
+
+[^sec3-lvl16-1]: [RS 351.12](https://fedlex.data.admin.ch/eli/cc/2016/555)
+
+Titre précédant l’art. 13
+
+## Section 6 Exactitude des données, sécurité de l’information, durée de conservation, archivage et statistique
+
+Art. 14, titre et al. 1, phrase introductive et let. b
+
+Sécurité des données et de l’information
+
+<sup>1</sup> La sécurité des données et de l’information est régie par:
+
+- b. l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec6-1];
+
+### 17. Ordonnance SNE du 15 octobre 2008
+
+[^sec6-lvl17-1]
+
+[^sec6-1]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^sec6-lvl17-1]: [RS 360.2](https://fedlex.data.admin.ch/eli/cc/2008/697)
+
+Art. 26, let. b
+
+La sécurité des données est garantie par:
+
+- b. l’ordonnance du 8 novembre 2023 sur la sécurité de l’information (OSI)[^sec6-lvl17-2].
+
+Art. 29n, al. 1, phrase introductive et let. b
+
+<sup>1</sup> La sécurité des données est garantie par:
+
+- b. l’OSI[^sec6-lvl17-3].
+
+Art. 29w, al. 1, phrase introductive et let. b
+
+<sup>1</sup> La sécurité des données est garantie par:
+
+- b. l’OSI[^sec6-lvl17-4].
+
+[^sec6-lvl17-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^sec6-lvl17-3]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^sec6-lvl17-4]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 18. Ordonnance RIPOL du 26 octobre 2016
+
+[^sec6-lvl18-1]
+
+[^sec6-lvl18-1]: [RS 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
+
+Remplacement d’une expression
+
+*Dans tout l’acte,* «sécurité informatique» *est remplacé par* «sécurité de l’information»*.*
+
+Art. 9, al. 5
+
+<sup>5</sup> La communication de données doit être assortie d’une remarque précisant que les renseignements doivent être traités de manière interne conformément à l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec6-lvl18-2] et qu’ils ne peuvent être transmis à d’autres intéressés.
+
+Art. 14, al. 2, let. b
+
+<sup>2</sup> La sécurité des données est régie par:
+
+- b. l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec6-lvl18-3].
+
+[^sec6-lvl18-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^sec6-lvl18-3]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 19. Ordonnance IPAS du 15 octobre 2008
+
+[^sec6-lvl19-1]
+
+[^sec6-lvl19-1]: [RS 361.2](https://fedlex.data.admin.ch/eli/cc/2008/700)
+
+Art. 12, let. b
+
+La sécurité des données est garantie par:
+
+- b. l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec6-lvl19-2].
+
+[^sec6-lvl19-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 20. Ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques
+
+[^sec6-lvl20-1]
+
+[^sec6-lvl20-1]: [RS 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
+
+Art. 14, let. b
+
+La sécurité des données est garantie par:
+
+- b. l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec6-lvl20-2].
+
+[^sec6-lvl20-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 21. Ordonnance du 15 octobre 2008 sur l’index national de police
+
+[^sec6-lvl21-1]
+
+[^sec6-lvl21-1]: [RS 361.4](https://fedlex.data.admin.ch/eli/cc/2008/701)
+
+Art. 12, al. 1, let. b
+
+<sup>1</sup> La sécurité des données est garantie par:
+
+- b. l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec6-lvl21-2].
+
+[^sec6-lvl21-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 22. Ordonnance N-SIS du 8 mars 2013
+
+[^sec6-lvl22-1]
+
+[^sec6-lvl22-1]: [RS 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)
+
+Art. 53, al. 1, let. b
+
+<sup>1</sup> La sécurité des données se fonde sur:
+
+- b. l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec6-lvl22-2];
+
+[^sec6-lvl22-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 23. Ordonnance du 3 décembre 2004 sur les profils d’ADN
+
+[^sec6-lvl23-1]
+
+[^sec6-lvl23-1]: [RS 363.1](https://fedlex.data.admin.ch/eli/cc/2004/812)
+
+Art. 19, al. 1, let. b
+
+<sup>1</sup> La sécurité des données est régie par:
+
+- b. l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec6-lvl23-2].
+
+[^sec6-lvl23-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 24. Ordonnance du 15 septembre 2017 sur les systèmes d’information dans le domaine de la formation professionnelle et des hautes écoles
+
+[^sec6-lvl24-1]
+
+[^sec6-lvl24-1]: [RS 412.108.1](https://fedlex.data.admin.ch/eli/cc/2017/574)
+
+Art. 21, al. 1, phrase introductive et let. b
+
+<sup>1</sup> La sécurité des données et de l’information est régie par:
+
+- b. l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec6-lvl24-2].
+
+[^sec6-lvl24-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 25. Ordonnance du 30 juin 1993 concernant l’organisation de la statistique fédérale
+
+[^sec6-lvl25-1]
+
+[^sec6-lvl25-1]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+
+Art. 10, al. 2
+
+<sup>2</sup> La sécurité des données personnelles et des données des personnes morales est assurée par les dispositions spécifiques de la loi, ainsi que par celles de l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec6-lvl25-2] et de l’OPDo. L’OPDo s’applique par analogie pour les personnes morales.
+
+[^sec6-lvl25-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 26. Ordonnance du 9 juin 2017 sur le Registre fédéral des bâtiments et des logements
+
+[^sec6-lvl26-1]
+
+[^sec6-lvl26-1]: [RS 431.841](https://fedlex.data.admin.ch/eli/cc/2017/376)
+
+Art. 18, al. 1, let. b
+
+<sup>1</sup> La sécurité des données est régie par:
+
+- b. l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec6-lvl26-2].
+
+[^sec6-lvl26-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 27. Ordonnance du 30 juin 1993 sur le Registre des entreprises et des établissements
+
+[^sec6-lvl27-1]
+
+[^sec6-lvl27-1]: [RS 431.903](https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253)
+
+Art. 15, al. 1, let. b
+
+<sup>1</sup> La sécurité des données est régie par:
+
+- b. l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec6-lvl27-2].
+
+[^sec6-lvl27-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 28. Ordonnance du 20 avril 2016 sur le contrôle de l’origine licite des produits de la pêche maritime importés
+
+[^sec6-lvl28-1]
+
+[^sec6-lvl28-1]: [RS 453.2](https://fedlex.data.admin.ch/eli/cc/2016/272)
+
+#### Art. 24
+
+**Sécurité de l’information**
+
+Les mesures pour garantir la sécurité de l’information sont régies par l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec6-lvl28-24-1].
+
+[^sec6-lvl28-24-1]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 29. Ordonnance animex-ch du 1<sup>er</sup> septembre 2010
+
+[^sec6-lvl29-1]
+
+[^sec6-lvl29-1]: [RS 455.61](https://fedlex.data.admin.ch/eli/cc/2010/563)
+
+Remplacement d’une expression
+
+*Dans tout l’acte,* «sécurité informatique» *est remplacé par* «sécurité de l’information»*.*
+
+Art. 20, al. 1
+
+<sup>1</sup> Les mesures pour garantir la sécurité de l’information sont régies par l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec6-lvl29-2].
+
+[^sec6-lvl29-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 30. Ordonnance du 24 juin 2009 concernant les relations militaires internationales
+
+[^sec6-lvl30-1]
+
+[^sec6-lvl30-1]: [RS 510.215](https://fedlex.data.admin.ch/eli/cc/2009/425)
+
+Art. 4, let. c
+
+Les services suivants peuvent établir formellement des relations militaires internationales dans leur domaine d**’**activités sans autorisation du Protocole militaire:
+
+- c. le service spécialisé de la Confédération pour la sécurité de l’information;
+
+Art. 5, al. 1
+
+<sup>1</sup> La remise d’informations classifiées à des personnes ou à des organes étrangers et l’accès à des informations militaires classifiées, à du matériel classifié ou à des installations militaires en Suisse par des personnes étrangères sont soumis aux dispositions régissant la protection de l’information, notamment:
+
+- a. le traité international applicable dans le cas concret visé à l’art. 87 de la loi du 18 décembre 2020 sur la sécurité de l’information[^sec6-lvl30-2];
+- b. l’ordonnance du 8 novembre 2023 sur les contrôles de sécurité relatifs aux personnes[^sec6-lvl30-3];
+- c. l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec6-lvl30-4];
+- d. l’ordonnance du 8 novembre 2023 sur la procédure de sécurité relative aux entreprises[^sec6-lvl30-5].
+
+[^sec6-lvl30-2]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^sec6-lvl30-3]: [RS 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+[^sec6-lvl30-4]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^sec6-lvl30-5]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)**.****4****1**
+
+### 31. Ordonnance du 17 octobre 2012 sur la guerre électronique et l’exploration radio
+
+[^sec6-lvl31-1]
+
+[^sec6-lvl31-1]: [RS 510.292](https://fedlex.data.admin.ch/eli/cc/2012/638)
+
+Art. 7, al. 1
+
+<sup>1</sup> Les résultats des mandats d’exploration radio sont classifiés conformément à l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec6-lvl31-2].
+
+[^sec6-lvl31-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 32. Ordonnance du 2 juillet 2008 sur les armes
+
+[^sec6-lvl32-1]
+
+[^sec6-lvl32-1]: [RS 514.541](https://fedlex.data.admin.ch/eli/cc/2008/767)
+
+Art. 66c, al. 1, let. b
+
+<sup>1</sup> La sécurité des données est garantie conformément à:
+
+- b. l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec6-lvl32-2].
+
+[^sec6-lvl32-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 33. Ordonnance du 12 août 2015 sur le bureau de notification pour les médicaments vitaux à usage humain
+
+[^sec6-lvl33-1]
+
+[^sec6-lvl33-1]: [RS 531.215.32](https://fedlex.data.admin.ch/eli/cc/2015/544)
+
+Art. 8, al. 2, let. b
+
+<sup>2</sup> Sont en outre applicables:
+
+- b. l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec6-lvl33-2].
+
+[^sec6-lvl33-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 34. Ordonnance du 19 août 2020 sur la garantie de l’approvisionnement en eau potable lors d’une pénurie grave
+
+[^sec6-lvl34-1]
+
+[^sec6-lvl34-1]: [RS 531.32](https://fedlex.data.admin.ch/eli/cc/2020/666)
+
+Art. 4, al. 5
+
+<sup>5</sup> L’inventaire et les cartes numérisées sont à classifier «CONFIDENTIEL» selon l’art. 19, let. f, de l’ordonnance du 8 novembre 2023 sur la sécurité de l’information (OSI)[^sec6-lvl34-2].
+
+Art. 7, al. 4
+
+<sup>4</sup> Il est classifié «CONFIDENTIEL» en vertu de l’art. 19, let, f, OSI[^sec6-lvl34-3].
+
+Art. 8, al. 5
+
+<sup>5</sup> La documentation est classifiée «CONFIDENTIEL» en vertu de l’art. 19, let. f, OSI[^sec6-lvl34-4].
+
+[^sec6-lvl34-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^sec6-lvl34-3]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^sec6-lvl34-4]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 35. Ordonnance du 23 août 2017 sur le traitement des données dans l’OFDF
+
+[^sec6-lvl35-1]
+
+[^sec6-lvl35-1]: [RS 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)
+
+Art. 12, al. 1
+
+<sup>1</sup> La sécurité des données est régie par les art. 1 à 4 et 6 de l’ordonnance du 31 août 2022 sur la protection des données[^sec6-lvl35-2] et par l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec6-lvl35-3].
+
+[^sec6-lvl35-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^sec6-lvl35-3]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 36. Ordonnance du 1<sup>er</sup> novembre 2017 sur l’énergie
+
+[^sec6-lvl36-1]
+
+[^sec6-lvl36-1]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+
+Art. 2, al. 2, let. d
+
+<sup>2</sup> Ne sont pas soumis à ces obligations les producteurs d’électricité dont les installations:
+
+- d. sont classifiées conformément à l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec6-lvl36-2], ou
+
+[^sec6-lvl36-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 37. Ordonnance du 16 mars 2007 sur l’attribution d’organes
+
+[^sec6-lvl37-1]
+
+[^sec6-lvl37-1]: [RS 810.212.4](https://fedlex.data.admin.ch/eli/cc/2007/281)
+
+Art. 34i, titre et al. 1, let. b
+
+Sécurité des données
+
+<sup>1</sup> La sécurité des données est régie par:
+
+- b. l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec6-lvl37-2].
+
+[^sec6-lvl37-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 38. Ordonnance du 31 octobre 2018 concernant le système d’information sur les antibiotiques en médecine vétérinaire
+
+[^sec6-lvl38-1]
+
+[^sec6-lvl38-1]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+
+#### Art. 15
+
+**Sécurité de l’information**
+
+Les mesures pour garantir la sécurité de l’information sont régies par l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec6-lvl38-15-1].
+
+[^sec6-lvl38-15-1]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 39. Ordonnance du 20 août 2014 sur le système d’information du service civil
+
+[^sec6-lvl39-1]
+
+[^sec6-lvl39-1]: [RS 824.095](https://fedlex.data.admin.ch/eli/cc/2014/482)
+
+Art. 11, al. 1, let. b
+
+<sup>1</sup> La sécurité des données est régie par les dispositions suivantes:
+
+- b. l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec6-lvl39-2];
+
+[^sec6-lvl39-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 40. Ordonnance du 31 octobre 2007 sur les allocations familiales
+
+[^sec6-lvl40-1]
+
+[^sec6-lvl40-1]: [RS 836.21](https://fedlex.data.admin.ch/eli/cc/2008/52)
+
+Art. 18h, titre et al. 1, phrase introductive et let. b
+
+Protection des données et sécurité de l’information
+
+<sup>1</sup> La protection des données et la sécurité de l’information sont régies par les dispositions suivantes:
+
+- b. l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec6-lvl40-2];
+
+[^sec6-lvl40-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 41. Ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers
+
+[^sec6-lvl41-1]
+
+[^sec6-lvl41-1]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
+
+#### Art. 102g
+
+**Sécurité de l’information**
+
+Les mesures pour garantir la sécurité de l’information sont régies par l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec6-lvl41-102g-1].
+
+[^sec6-lvl41-102g-1]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 42. Ordonnance du 12 août 2015 sur le système de traitement des données relatives aux prestations de sécurité privées
+
+[^sec6-lvl42-1]
+
+[^sec6-lvl42-1]: [RS 935.412](https://fedlex.data.admin.ch/eli/cc/2015/530)
+
+Art. 9, al. 1, phrase introductive et let. b
+
+<sup>1</sup> La sécurité des données et de l’information est régie par:
+
+- b. l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec6-lvl42-2].
+
+[^sec6-lvl42-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 43. Ordonnance du 8 mai 1934 sur le contrôle des métaux précieux
+
+[^sec6-lvl43-1]
+
+[^sec6-lvl43-1]: [RS 941.311](https://fedlex.data.admin.ch/eli/cc/50/363_375_420)
+
+#### Art. 34e
+
+Les droits des personnes concernées, en particulier le droit d’accès aux données, à leur rectification et à leur destruction, sont régis par la loi fédérale du 25 septembre 2020 sur la protection des données[^sec6-lvl43-34e-1].
+
+Art. 34g, al. 1
+
+<sup>1</sup> Les art. 1 à 4 et 6 de l’ordonnance du 31 août 2022 sur la protection des données[^sec6-lvl43-34e-2] et l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec6-lvl43-34e-3] sont applicables pour garantir la sécurité des données.
+
+[^sec6-lvl43-34e-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^sec6-lvl43-34e-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^sec6-lvl43-34e-3]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 44. Ordonnance du 27 novembre 2000 sur les explosifs
+
+[^sec6-lvl44-1]
+
+[^sec6-lvl44-1]: [RS 941.411](https://fedlex.data.admin.ch/eli/cc/2001/78)
+
+Art. 117j, al. 1, let. b
+
+<sup>1</sup> La sécurité des données est garantie conformément à:
+
+- b. l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec6-lvl44-2].
+
+[^sec6-lvl44-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+
+### 45. Ordonnance du 25 août 2004 sur le Bureau de communication en matière de blanchiment d’argent
+
+[^sec6-lvl45-1]
+
+[^sec6-lvl45-1]: [RS 955.23](https://fedlex.data.admin.ch/eli/cc/2004/626)
+
+Art. 19, al. 1, let. b
+
+<sup>1</sup> La sécurité des données est régie par:
+
+- b. l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^sec6-lvl45-2].
+
+[^sec6-lvl45-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
