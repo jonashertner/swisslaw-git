@@ -4,11 +4,11 @@ title: Swiss Criminal Code of 21 December 1937
 short: SCC
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: en
-version: 2023-09-01
+version: 2023-12-06
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20230901/en/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20230901-en-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20231206/en/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20231206-en-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20231206/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230901/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 21 December 1937 (Status as of 1 September 2023)
+of 21 December 1937 (Status as of 6 December 2023)
 
 The Federal Assembly the Swiss Confederation,
 
@@ -2753,7 +2753,7 @@ Any person who causes an authority responsible for the Commercial Register to ma
 
 Any person who, as a member of the board of directors of a company whose shares are listed on a stock exchange, carries out any of the following acts shall be liable to a custodial sentence not exceeding three years or to a monetary penalty:
 
-- a. delegating the management of business wholly or partly to a legal entity in violation of Article 716*b* paragraph 1 first sentence CO;
+- a.[^154-3] delegating the management of business wholly or partly to a legal entity in violation of Article 716*b* paragraph 2 first sentence CO;
 - b. delegating the voting rights of corporate bodies or delegating voting rights to custodian banks (Art. 689*b* para. 2 CO);
 - c.
 
@@ -2770,6 +2770,7 @@ Any person who, as a member of the board of directors of a company whose shares 
 
 [^154-1]: Amended by Annex No 5 of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109), [110](https://fedlex.data.admin.ch/eli/oc/2022/110); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^154-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^154-3]: Correction by the Federal Assembly Drafting Committee of 22 Nov. 2023, published on 6 Dec. 2023 ([AS 2023 739](https://fedlex.data.admin.ch/eli/oc/2023/739)).
 
 ### Counterfeiting of goods
 

@@ -4,18 +4,18 @@ title: Code pénal suisse du 21 décembre 1937
 short: CP
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: fr
-version: 2023-09-01
+version: 2023-12-06
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20230901-fr-xml-36.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20231206/fr/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20231206-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20231206/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Code pénal suisse
 
-du 21 décembre 1937 (État le 1<sup>er</sup> septembre 2023)
+du 21 décembre 1937 (État le 6 décembre 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -2804,7 +2804,7 @@ Quiconque détermine une autorité chargée du registre du commerce à procéder
 
 Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque, en tant que membre du conseil d’administration d’une société dont les actions sont cotées en bourse:
 
-- a. délègue tout ou partie de la gestion à une personne morale, en violation de l’art. 716*b*, al. 1, 1<sup>re</sup> phrase, CO;
+- a.[^154-3] délègue tout ou partie de la gestion à une personne morale, en violation de l’art. 716*b*, al. 2, 1<sup>re</sup> phrase, CO;
 - b. met en place une représentation par un membre d’un organe de la société ou par un dépositaire (art. 689*b*, al. 2, CO);
 - c.
 
@@ -2821,6 +2821,7 @@ Est puni d’une peine privative de liberté de trois ans au plus ou d’une pei
 
 [^154-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109), [110](https://fedlex.data.admin.ch/eli/oc/2022/110); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^154-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^154-3]: Erratum de la CdR de l’Ass. féd. du 22 nov. 2023, publié le 6 déc. 2023 ([RO 2023 739](https://fedlex.data.admin.ch/eli/oc/2023/739)).
 
 ### Falsification de marchandises
 

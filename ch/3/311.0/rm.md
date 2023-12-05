@@ -4,11 +4,11 @@ title: Cudesch penal svizzer dals 21 da december 1937
 short: CP
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: rm
-version: 2023-09-01
+version: 2023-12-06
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20230901-rm-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230901/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20231206/rm/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20231206-rm-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20231206/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230901/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-dals 21 da december 1937 (versiun dal 1. da settember 2023)
+dals 21 da december 1937 (versiun dal 6 da december 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -2751,7 +2751,7 @@ Tgi ch’è la culpa ch’ina autoritad dal register da commerzi fa ina registra
 
 Cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar vegn chastià, tgi che fa – sco commember dal cussegl d’administraziun d’ina societad cun aczias quotadas ad ina bursa – il suandant:
 
-- a. deleghescha, cuntrari a l’artitgel 716*b* alinea 1 emprima frasa DO, l’entira gestiun u ina part da tala ad ina persuna giuridica;
+- a.[^154-3] deleghescha, cuntrari a l’artitgel 716*b* alinea 2 emprima frasa DO, l’entira gestiun u ina part da tala ad ina persuna giuridica;
 - b. instituescha ina represchentanza dal dretg da votar da l’organ u dal deposit (art. 689*b* al. 2 DO);
 - c.
 
@@ -2768,6 +2768,7 @@ Cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar vegn chastià,
 
 [^154-1]: Versiun tenor la cifra 5 da l’agiunta da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109), [110](https://fedlex.data.admin.ch/eli/oc/2022/110); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^154-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^154-3]: Rectifitgà da la Cumissiun da redacziun da la AF ils 22 da nov. 2023, publitgà ils 6 da dec. 2023 ([AS 2023 739](https://fedlex.data.admin.ch/eli/oc/2023/739)).
 
 ### Falsificaziun da rauba
 

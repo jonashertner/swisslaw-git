@@ -4,18 +4,18 @@ title: Schweizerisches Strafgesetzbuch vom 21. Dezember 1937
 short: StGB
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: de
-version: 2023-09-01
+version: 2023-12-06
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20230901/de/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20230901-de-xml-36.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20231206/de/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20231206-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20231206/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Schweizerisches Strafgesetzbuch
 
-vom 21. Dezember 1937 (Stand am 1. September 2023)
+vom 21. Dezember 1937 (Stand am 6. Dezember 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -2749,7 +2749,7 @@ Wer eine Handelsregisterbehörde zu einer unwahren Eintragung veranlasst oder ih
 
 Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer als Mitglied des Verwaltungsrats einer Gesellschaft, deren Aktien an einer Börse kotiert sind:
 
-- a. die Geschäftsführung entgegen Artikel 716*b* Absatz 1 erster Satz OR ganz oder zum Teil einer juristischen Person überträgt;
+- a.[^154-3] die Geschäftsführung entgegen Artikel 716*b* Absatz 2 erster Satz OR ganz oder zum Teil einer juristischen Person überträgt;
 - b. eine Organ- oder Depotstimmrechtsvertretung einsetzt (Art. 689*b* Abs. 2 OR);
 - c.
 
@@ -2766,6 +2766,7 @@ Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer als Mi
 
 [^154-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109), [110](https://fedlex.data.admin.ch/eli/oc/2022/110); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^154-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^154-3]: Berichtigung der RedK der BVers vom 22. Nov. 2023, publiziert am 6. Dez. 2023 (AS **202****3** 739).
 
 ### Warenfälschung
 

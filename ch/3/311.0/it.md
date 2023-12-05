@@ -4,18 +4,18 @@ title: Codice penale svizzero del 21 dicembre 1937
 short: CP
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: it
-version: 2023-09-01
+version: 2023-12-06
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20230901/it/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20230901-it-xml-36.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20231206/it/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20231206-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20231206/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Codice penale svizzero
 
-del 21 dicembre 1937 (Stato 1° settembre 2023)
+del 21 dicembre 1937 (Stato 6 dicembre 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -457,9 +457,9 @@ Quando l’avente diritto presenta querela contro uno dei compartecipi al reato,
 <sup>4</sup> Il numero e l’importo delle aliquote giornaliere sono fissati nella sentenza.
 
 [^34-1]: Nuovo testo giusta il n. I 1 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^34-2]: Nuovo testo del primo e del secondo per. giusta l’all. n. 5 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^34-3]: Nuovo testo del per. giusta l’all. n. 5 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^34-4]: Introdotto dall’all. n. 5 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^34-2]: Nuovo testo giusta il n. I 1 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^34-3]: Nuovo testo del primo e del secondo per. giusta l’all. n. 5 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^34-4]: Per. introdotto dall’all. n. 5 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Esazione
 
@@ -2744,7 +2744,7 @@ Chiunque induce l’autorità preposta al registro di commercio a iscrivere un f
 
 È punito con una pena detentiva sino a tre anni o con una pena pecuniaria chi, in qualità di membro del consiglio d’amministrazione di una società le cui azioni sono quotate in borsa:
 
-- a. delega in tutto o in parte la gestione a una persona giuridica, in violazione dell’articolo 716*b* capoverso 1 primo periodo CO;
+- a.[^154-3] delega in tutto o in parte la gestione a una persona giuridica, in violazione dell’articolo 716*b* capoverso 2 primo periodo CO;
 - b. istituisce una rappresentanza da parte di un organo della società o da parte di un depositario (art. 689*b* cpv. 2 CO);
 - c.
 
@@ -2761,6 +2761,7 @@ Chiunque induce l’autorità preposta al registro di commercio a iscrivere un f
 
 [^154-1]: Nuovo testo giusta l’all. n. 5 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109), [110](https://fedlex.data.admin.ch/eli/oc/2022/110); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^154-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^154-3]: Correzione della CdR dell’AF del 22 nov. 2023, pubblicata il 6 dic. 2023 ([RU 2023 739](https://fedlex.data.admin.ch/eli/oc/2023/739)).
 
 ### Contraffazione di merci
 
