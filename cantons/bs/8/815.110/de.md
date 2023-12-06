@@ -4,13 +4,13 @@ number: "815.110"
 title: Verordnung über die Betreuung von Kindern in Kindertagesstätten und Tagesfamilien
 short: "Kindertagesstätten- und Tagesfamilienverordnung, KTV"
 language: de
-version: 2022-01-01
-valid_until: 2023-12-06
-version_adopted: 2021-08-24
+version: 2023-12-07
+valid_until: 2024-07-31
+version_adopted: 2023-11-28
 adopted: 2021-08-24
 in_force: 2022-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/815.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6074/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6075/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Kinderbetreuung
 
 (Kindertagesstätten- und Tagesfamilienverordnung, KTV)
 
-Vom 24. August 2021 (Stand 1. Januar 2022)
+Vom 24. August 2021 (Stand 7. Dezember 2023)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -269,6 +269,16 @@ beschliesst:
 
 <sup>3</sup> Das Erziehungsdepartement erlässt Richtlinien über die weiteren Kriterien und die Modalitäten der Beitragsgewährung und -bemessung.
 
+#### § 24a
+
+**Teuerungsausgleich**
+
+<sup>1</sup> Das Erziehungsdepartement oder die zuständigen Stellen der Gemeinden gewähren den Kindertagesstätten mit Betreuungsbeiträgen einen Teuerungsausgleich auf die in den Modellkosten hinterlegten Lohnkosten.
+
+<sup>2</sup> Den Kindertagesstätten mit Betreuungsbeiträgen wird zu Jahresbeginn mitgeteilt, ob ein Teuerungsausgleich gewährt wird.
+
+<sup>3</sup> Der Teuerungsausgleich wird monatlich gemäss effektiver Belegung der Kindertagestätte mit Betreuungsbeiträgen zusammen mit den Betreuungsbeiträgen ausbezahlt.
+
 ## 4. Tagesfamilien mit Betreuungsbeiträgen und Tagesfamilienorganisationen mit Leistungsvereinbarung
 
 #### § 25
@@ -397,6 +407,12 @@ beschliesst:
 <sup>5</sup> Werden Rücklagen ihrem Zweck entfremdet oder stellt die Trägerschaft den familienergänzenden Tagesbetreuungsbetrieb in der Übergangszeit gemäss Abs. 3 ein, können die Rücklagen ganz oder teilweise zurückgefordert werden.
 
 <sup>6</sup> Das Erziehungsdepartement oder die zuständigen Stellen der Gemeinden regeln die Rückzahlungsmodalitäten.
+
+#### § 38
+
+**Rückwirkende Auszahlung des Teuerungsausgleichs**
+
+<sup>1</sup> Der Teuerungsausgleich nach § 24a für das Jahr 2023 wird den Kindertagesstätten mit Betreuungsbeiträgen rückwirkend ausbezahlt.
 
 *Schlussbestimmung*
 
