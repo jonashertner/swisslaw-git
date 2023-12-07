@@ -3,20 +3,20 @@ canton: ZG
 number: "154.223"
 title: Reglement über die Abgabe und Entschädigung von Arbeitskleidern und Sicherheitsausrüstung in der Direktion des Innern
 language: de
-version: 2021-12-04
-valid_until: 2023-12-07
-version_adopted: 2021-11-23
+version: 2023-12-08
+valid_until: 2025-06-26
+version_adopted: 2023-12-06
 adopted: 2010-12-22
 in_force: 2011-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/154.223"
-pdf: "https://bgs.zg.ch/api/de/versions/2279/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2506/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Abgabe und Entschädigung von Arbeitskleidern und Sicherheitsausrüstung in der Direktion des Innern
 
-Vom 22. Dezember 2010 (Stand 4. Dezember 2021)
+Vom 22. Dezember 2010 (Stand 8. Dezember 2023)
 
 Die Direktion des Innern des Kantons Zug,
 
@@ -76,12 +76,20 @@ verfügt:
 
 **Abgabe und Entschädigung von Sicherheitsausrüstung und Arbeitskleidern im Amt für Grundbuch und Geoinformation (AGG)**
 
-<sup>1</sup> Für die Mitarbeitenden mit regelmässiger Feldarbeit werden vom Amt für Grundbuch und Geoinformation (AGG) keine Ausrüstungsgegenstände oder Arbeitskleider zur Verfügung gestellt.
+<sup>1</sup> Für die Mitarbeitenden mit regelmässiger Feldarbeit werden vom Amt für Grundbuch und Geoinformation (AGG) Sicherheitsausrüstung und Arbeitskleider zur Verfügung gestellt. Die abgegebenen Ausrüstungsgegenstände dienen dem Schutz der Gesundheit, der Arbeitssicherheit in den Tätigkeitsbereichen sowie der Erkennbarkeit als kantonale Mitarbeitende bei Feldeinsätzen.
 
-<sup>2</sup> Für die Arbeitskleider und -schuhe sowie für die für die Feldarbeit benötigten Sicherheitsausrüstungsgegenstände, welche die Mitarbeitenden mit regelmässiger Feldarbeit auf eigene Kosten anschaffen, reinigen, pflegen und nötigenfalls reparieren oder ersetzen müssen – um ihre Arbeit verrichten zu können – werden diesen – je nach Umfang der durchschnittlich geleisteten Feldarbeit – monatlich folgende Pauschalentschädigungen ausgerichtet:
+<sup>2</sup> Die Sicherheitsausrüstung richtet sich nach den Empfehlungen der SUVA und umfasst Sicherheitsweste und Helm. Sie wird allen Mitarbeitenden abgegeben, die diese für ihre Tätigkeit tragen müssen.
 
-- a) Fr. 50.– bei monatlich bis 120 Stunden Feldarbeit;
-- b) Fr. 80.– bei monatlich ab 121 Stunden Feldarbeit.
+- a) …
+- b) …
+
+<sup>3</sup> Die Arbeitskleidung umfasst eine Regenjacke, Oberteile und feldtaugliche Hosen in Signalfarben. Die abgegebenen Mengen decken den normalen Bedarf beim üblichen Feldeinsatz und werden von der Leitung der Abteilung Vermessung bestimmt.
+
+<sup>4</sup> Die Mitarbeitenden reinigen die abgegebene Sicherheitsausrüstung und Arbeitskleider selbst. Für die Reinigung wird keine Entschädigung entrichtet.
+
+<sup>5</sup> Der Ersatz der abgegebenen Sicherheitsausrüstung und Arbeitskleider richtet sich nach dem üblichen Bedarf. Bei übermässiger Abnützung oder vorsätzlich verursachten Schäden haben die Mitarbeitenden für den Ersatz aufzukommen.
+
+<sup>6</sup> Für die Arbeitsschuhe und weitere Kleidung, welche die Mitarbeitenden mit regelmässiger Feldarbeit auf eigene Kosten anschaffen, reinigen, pflegen und nötigenfalls reparieren oder ersetzen müssen - um ihre Arbeit verrichten zu können - wird diesen monatlich eine Pauschalentschädigung in der Höhe von Fr. 20.– ausgerichtet.
 
 #### § 5
 
@@ -107,14 +115,10 @@ verfügt:
 
 #### § 7
 
-**Aufhebung bisherigen Rechts**
-
-<sup>1</sup> Die Richtlinien des Kantonsforstamtes zur Entschädigung von Bekleidung, Schuhwerk und Schutzmittel vom September 2010 sowie das Reglement der Direktion des Innern über die Kleiderentschädigung im Bereich der Kantonsarchäologie vom 1. Juli 1997 werden aufgehoben.
+**…**
 
 #### § 8
 
-**Inkrafttreten**
-
-<sup>1</sup> Dieses Reglement tritt am 1. Januar 2011 in Kraft.
+**…**
 
 GS 30, 845
