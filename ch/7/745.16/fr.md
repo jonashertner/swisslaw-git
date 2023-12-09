@@ -4,11 +4,11 @@ title: "Ordonnance du 11 novembre 2009 sur l'indemnisation du trafic régional d
 short: OITRV
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/741"
 language: fr
-version: 2019-12-15
+version: 2023-12-10
 adopted: 2009-11-11
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/741/20191215/fr/xml/fedlex-data-admin-ch-eli-cc-2009-741-20191215-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/741/20191215/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/741/20231210/fr/xml/fedlex-data-admin-ch-eli-cc-2009-741-20231210-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/741/20231210/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/741/20191215/fr"
 
 (OITRV)
 
-du 11 novembre 2009 (Etat le 15 décembre 2019)
+du 11 novembre 2009 (État le 10 décembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -389,7 +389,7 @@ La convention d’objectifs fixe au moins:
 
 <sup>4</sup> L’entreprise de transport peut décider librement de l’utilisation du bonus.
 
-### Section 8**** Mise au concours, adjudication et transfert d’offres de transport
+### Section 8 Mise au concours, adjudication et transfert d’offres de transport
 
 [^chap2-sec8-1]
 
@@ -614,7 +614,7 @@ Les commanditaires interrompent la procédure de mise au concours pour des motif
 
 <sup>10</sup> Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication règle les détails quant à la tenue de la comptabilité analytique et des comptes prévisionnels. Il règle notamment la ventilation des coûts et des recettes communs entre les différents secteurs et la répartition des recettes entre les principaux types de titres de transport.
 
-### Section 10**** Parts cantonales et fédérales dans les indemnités
+### Section 10 Parts cantonales et fédérales dans les indemnités
 
 [^chap2-sec10-1]
 
@@ -821,7 +821,7 @@ Si des soumissions ont déjà été présentées en vue d’offres de transport 
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2010.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 29*b,* al. 1)
 
@@ -839,17 +839,17 @@ CIS(IDD) = {600 % – IDD} / 600 %
 
 Participation cantonale = CIS(IDD)<sup>3</sup> × 0.5415 + 0.2
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 29*b,* al. 2)
 
 ## Participations cantonales en pour cent
 
-[^t-2]: Introduite par le ch. II de l’O du 14 oct. 2015 ([RO 2015 4165](https://fedlex.data.admin.ch/eli/oc/2015/698)). Nouvelle teneur selon le ch. II de l’O du 6 nov. 2019, en vigueur depuis le 15 déc. 2019 ([RO 2019 3581](https://fedlex.data.admin.ch/eli/oc/2019/657)).
+[^t-2]: Introduite par le ch. II de l’O du 14 oct. 2015 ([RO 2015 4165](https://fedlex.data.admin.ch/eli/oc/2015/698)). Nouvelle teneur selon le ch. II de l’O du 6 nov. 2019 ([RO 2019 3581](https://fedlex.data.admin.ch/eli/oc/2019/657)). Mise à jour par le ch. I de l’O du 16 août 2023, en vigueur depuis le 10 déc. 2023 ([RO 2023 514](https://fedlex.data.admin.ch/eli/oc/2023/514)).
 
 <table>
 <tr><th>Canton</th><th>Participation cantonale (en %)</th></tr>
-<tr><th></th><th>Années de l’horaire 2020 à 2023</th></tr>
+<tr><th></th><th>Années de l’horaire 2020 à 2024</th></tr>
 <tr><td>ZH</td><td>67</td></tr>
 <tr><td>BE</td><td>46</td></tr>
 <tr><td>LU</td><td>52</td></tr>

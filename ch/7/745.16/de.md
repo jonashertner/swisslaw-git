@@ -4,11 +4,11 @@ title: Verordnung vom 11. November 2009 über die Abgeltung des regionalen Perso
 short: ARPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/741"
 language: de
-version: 2019-12-15
+version: 2023-12-10
 adopted: 2009-11-11
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/741/20191215/de/xml/fedlex-data-admin-ch-eli-cc-2009-741-20191215-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/741/20191215/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/741/20231210/de/xml/fedlex-data-admin-ch-eli-cc-2009-741-20231210-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/741/20231210/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,11 +17,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/741/20191215/de"
 
 (ARPV)
 
-vom 11. November 2009 (Stand am 15. Dezember 2019)
+vom 11. November 2009 (Stand am 10. Dezember 2023)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 30 Absatz 3 und 63 Absatz 1 des Personenbeförderungsgesetzes vom 20. März 2009[^ingress-1] (PBG), Artikel 97 des Eisenbahngesetzes vom 20. Dezember 1957[^ingress-2] (EBG) und Artikel 26 des Seilbahngesetzes vom 23. Juni 2006[^ingress-3], [^ingress-4]
+gestützt auf die Artikel 30 Absatz 3 und 63 Absatz 1 des Personenbeförderungsgesetzes vom 20. März 2009[^ingress-1] (PBG), Artikel 97 des Eisenbahngesetzes vom 20. Dezember 1957[^ingress-2] (EBG) und Artikel 26 des Seilbahngesetzes vom 23. Juni 2006[^ingress-3],[^ingress-4]
 
 verordnet:
 
@@ -389,7 +389,7 @@ In der Zielvereinbarung werden mindestens festgelegt:
 
 <sup>4</sup> Der Bonus steht dem Transportunternehmen zur freien Verfügung.
 
-### 8. Abschnitt:**** Ausschreibung, Vergabe und Übertragung von Verkehrsangeboten
+### 8. Abschnitt: Ausschreibung, Vergabe und Übertragung von Verkehrsangeboten
 
 [^chap2-sec8-1]
 
@@ -614,7 +614,7 @@ Die Besteller brechen das Ausschreibungsverfahren aus wichtigen Gründen ab, ins
 
 <sup>10</sup> Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation regelt die Einzelheiten der Führung der Betriebskosten- und Leistungsrechnung und der Planrechnung. Es regelt insbesondere die Verteilung gemeinsamer Kosten und Erlöse zwischen den Sparten und die Aufteilung der Erlöse nach den wichtigsten Fahrausweisarten.
 
-### 10. Abschnitt:**** Anteile der Kantone und des Bundes an den Abgeltungen
+### 10. Abschnitt: Anteile der Kantone und des Bundes an den Abgeltungen
 
 [^chap2-sec10-1]
 
@@ -795,7 +795,7 @@ Das BAV verlangt die Rückzahlung der Darlehen zusätzlich zur vereinbarten Rüc
 Die Verordnung vom 18. Dezember 1995[^46a-2] über die Anteile der Kantone an den Abgeltungen und Finanzhilfen im Regionalverkehr wird aufgehoben.
 
 [^46a-1]: Eingefügt durch Ziff. I der V vom 14. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4165](https://fedlex.data.admin.ch/eli/oc/2015/698)).
-[^46a-2]: [[AS 1996 169](https://fedlex.data.admin.ch/eli/oc/1996/169_169_169), [2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)Ziff. I 11, [2009 5959](https://fedlex.data.admin.ch/eli/oc/2009/729)Ziff. I 3, [2011 5261](https://fedlex.data.admin.ch/eli/oc/2011/757), [2013 1641](https://fedlex.data.admin.ch/eli/oc/2013/382)]
+[^46a-2]: [[AS 1996 169](https://fedlex.data.admin.ch/eli/oc/1996/169_169_169); [2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)Ziff. I 11; [2009 5959](https://fedlex.data.admin.ch/eli/oc/2009/729)Ziff. I 3; [2011 5261](https://fedlex.data.admin.ch/eli/oc/2011/757); [2013 1641](https://fedlex.data.admin.ch/eli/oc/2013/382)]
 
 #### Art. 47
 
@@ -821,7 +821,7 @@ Liegen Offerten für Angebote der Fahrplanperiode 2014/2015 bereits vor Inkraftt
 
 Diese Verordnung tritt am 1. Januar 2010 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 29*b* Abs. 1)
 
@@ -839,17 +839,17 @@ MSI(IBD) = {600 % – IBD} / 600 %
 
 Kantonsbeteiligung = MSI(IBD)<sup>3</sup> × 0.5415 + 0.2
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 29*b* Abs. 2)
 
 ## Kantonsbeteiligungen: prozentuale Anteile
 
-[^t-2]: Eingefügt durch Ziff. II der V vom 14. Okt. 2015 ([AS 2015 4165](https://fedlex.data.admin.ch/eli/oc/2015/698)). Fassung gemäss Ziff. II der V vom 6. Nov. 2019, in Kraft seit 15. Dez. 2019 ([AS 2019 3581](https://fedlex.data.admin.ch/eli/oc/2019/657)).
+[^t-2]: Eingefügt durch Ziff. II der V vom 14. Okt. 2015 ([AS 2015 4165](https://fedlex.data.admin.ch/eli/oc/2015/698)). Fassung gemäss Ziff. II der V vom 6. Nov. 2019 ([AS 2019 3581](https://fedlex.data.admin.ch/eli/oc/2019/657)). Bereinigt gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 10. Dez. 2023 ([AS 2023 514](https://fedlex.data.admin.ch/eli/oc/2023/514)).
 
 <table>
 <tr><th>Kanton</th><th>Kantonsbeteiligung (in %)</th></tr>
-<tr><th></th><th>Fahrplanjahre 2020–2023</th></tr>
+<tr><th></th><th>Fahrplanjahre 2020–2024</th></tr>
 <tr><td>ZH</td><td>67</td></tr>
 <tr><td>BE</td><td>46</td></tr>
 <tr><td>LU</td><td>52</td></tr>

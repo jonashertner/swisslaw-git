@@ -4,11 +4,11 @@ title: "Ordinanza dell' 11 novembre 2009 sulle indennità per il traffico region
 short: OITRV
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/741"
 language: it
-version: 2019-12-15
+version: 2023-12-10
 adopted: 2009-11-11
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/741/20191215/it/xml/fedlex-data-admin-ch-eli-cc-2009-741-20191215-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/741/20191215/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/741/20231210/it/xml/fedlex-data-admin-ch-eli-cc-2009-741-20231210-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/741/20231210/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/741/20191215/it"
 
 (OITRV)
 
-dell’11 novembre 2009 (Stato 15 dicembre 2019)
+dell’11 novembre 2009 (Stato 10 dicembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -388,7 +388,7 @@ La convenzione sugli obiettivi deve disciplinare almeno:
 
 <sup>4</sup> L’impresa di trasporto può decidere liberamente in merito all’impiego del bonus.
 
-### Sezione 8:**** Messa a concorso, aggiudicazione e trasferimento di offerte di trasporto
+### Sezione 8: Messa a concorso, aggiudicazione e trasferimento di offerte di trasporto
 
 [^chap2-sec8-1]
 
@@ -613,7 +613,7 @@ I committenti interrompono la procedura di messa a concorso se sussistono motivi
 
 <sup>10</sup> Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni disciplina i dettagli sulla conduzione della contabilità analitica e del conto di previsione. Esso disciplina in particolare la ripartizione dei costi e dei ricavi comuni tra i settori e la ripartizione dei ricavi in funzione dei principali tipi di titolo di trasporto.
 
-### Sezione 10:**** Quote dei Cantoni e della Confederazione per le indennità
+### Sezione 10: Quote dei Cantoni e della Confederazione per le indennità
 
 [^chap2-sec10-1]
 
@@ -713,7 +713,7 @@ La Confederazione può concedere una garanzia, nei limiti dei crediti approvati,
 
 <sup>2</sup> La conversione di mutui o la sospensione di rimborsi da parte della Confederazione ai sensi dell’articolo 31 capoverso 3[^37-1] LTV presuppone una corrispondente conversione o sospensione dei mutui dei Cantoni.
 
-[^37-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali (RS **170.512**), con effetto dal 1° lug. 2013.
+[^37-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° lug. 2013.
 
 #### Art. 38
 
@@ -820,7 +820,7 @@ La messa a concorso non è necessaria se prima dell’entrata in vigore della pr
 
 La presente ordinanza entra in vigore il 1° gennaio 2010.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 29*b* cpv. 1)
 
@@ -838,17 +838,17 @@ CIS(IDD) = {600 % – IDD} / 600 %
 
 Partecipazione cantonale = CIS(IDD)<sup>3</sup> × 0.5415 + 0.2
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 29*b* cpv. 2)
 
 ## Partecipazioni cantonali: quote percentuali
 
-[^t-2]: Introdotto dal n. II dell’O del 14 ott. 2015 ([RU 2015 4165](https://fedlex.data.admin.ch/eli/oc/2015/698)). Nuovo testo giusta il n. II dell’O del 6 nov. 2019, in vigore dal 15 dic. 2019 ([RU 2019 3581](https://fedlex.data.admin.ch/eli/oc/2019/657)).
+[^t-2]: Introdotto dal n. II dell’O del 14 ott. 2015 ([RU 2015 4165](https://fedlex.data.admin.ch/eli/oc/2015/698)). Nuovo testo giusta il n. II dell’O del 6 nov. 2019 ([RU 2019 3581](https://fedlex.data.admin.ch/eli/oc/2019/657)). Aggiornato dal n. I dell’O del 16 ago. 2023, in vigore dal 10 dic. 2023 (RU **20****23** 514).
 
 <table>
 <tr><th>Cantone</th><th>Partecipazione cantonale (in %)</th></tr>
-<tr><th></th><th>Anni d’orario 2020–2023</th></tr>
+<tr><th></th><th>Anni d’orario 2020–2024</th></tr>
 <tr><td>ZH</td><td>67</td></tr>
 <tr><td>BE</td><td>46</td></tr>
 <tr><td>LU</td><td>52</td></tr>
