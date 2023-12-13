@@ -3,11 +3,11 @@ sr: "0.740.72"
 title: Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport de marchandises et de voyageurs par rail et par route (avec annexes et acte final)
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/257"
 language: fr
-version: 2022-12-21
+version: 2023-12-14
 adopted: 1999-06-21
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/257/20221221/fr/xml/fedlex-data-admin-ch-eli-cc-2002-257-20221221-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/257/20221221/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/257/20231214/fr/xml/fedlex-data-admin-ch-eli-cc-2002-257-20231214-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/257/20231214/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification suisse déposé le 16 octobre 2000
 
 Entré en vigueur le 1<sup>er</sup> juin 2002
 
-(État le 21 décembre 2022)
+(État le 14 décembre 2023)
 
 [^t-1]: Actuellement: Union européenne.
 [^t-2]: Art. 1 al. 1 let. f de l’AF du 8 oct. 1999 ([RO 2002 1527](https://fedlex.data.admin.ch/eli/oc/2002/242)).
@@ -845,7 +845,7 @@ Annexe 1[^t-3]
 
 ## Dispositions applicables
 
-[^t-3]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 1/2021 du Comité des transports terrestres Communauté/Suisse du 30 juin 2021 ([RO 2021 477](https://fedlex.data.admin.ch/eli/oc/2021/477)). Mise à jour par l’art. 1 de la D n<sup>o</sup> 2/2021 du Comité des transports terrestres Communauté/Suisse du 17 déc. 2021 ([RO 2022 93](https://fedlex.data.admin.ch/eli/oc/2022/93)) et l’art. 1 de la D n<sup>o</sup> 1/2022 du Comité des transports terrestres Communauté/Suisse du 21 déc. 2022, en vigueur pour la Suisse depuis le 21 déc. 2022 ([RO 2023 15](https://fedlex.data.admin.ch/eli/oc/2023/15)).
+[^t-3]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 1/2021 du Comité des transports terrestres Communauté/Suisse du 30 juin 2021 ([RO 2021 477](https://fedlex.data.admin.ch/eli/oc/2021/477)). Mise à jour par l’art. 1 des D n<sup>o</sup> 2/2021 du Comité des transports terrestres Communauté/Suisse du 17 déc. 2021 ([RO 2022 93](https://fedlex.data.admin.ch/eli/oc/2022/93)), n<sup>o</sup> 1/2022 du Comité des transports terrestres Communauté/Suisse du 21 déc. 2022 ([RO 2023 15](https://fedlex.data.admin.ch/eli/oc/2023/15)) et n<sup>o</sup> 1/2023 du Comité des transports terrestres Communauté/Suisse du 14 déc. 2023, en vigueur pour la Suisse depuis le 14 déc. 2023 ([RO 2024 32](https://fedlex.data.admin.ch/eli/oc/2024/32)).
 
 Conformément à l’art. 52, par. 6, du présent Accord, la Suisse applique des dispositions légales équivalentes aux dispositions mentionnées ci-dessous:
 
@@ -853,11 +853,11 @@ Dispositions pertinentes du droit de l’Union européenne
 
 ### Section 1 Accès à la profession
 
-Directive 2006/1/CE du Parlement européen et du Conseil du 18 janvier 2006 relative à l’utilisation de véhicules loués sans chauffeur dans le transport de marchandises par route (version codifiée) (JO L 33 du 4.2.2006, p. 82).
+– Directive 2006/1/CE du Parlement européen et du Conseil du 18 janvier 2006 relative à l’utilisation de véhicules loués sans chauffeur dans le transport de marchandises par route (version codifiée) (JO L 33 du 4.2.2006, p. 82).
 
-Règlement (CE) n<sup>o</sup> 1071/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles communes sur les conditions à respecter pour exercer la profession de transporteur par route, et abrogeant la directive 96/26/CE du Conseil (JO L 300 du 14.11.2009, p. 51), modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 517/2013 du Conseil du 13 mai 2013 (JO L 158 du 10.6.2013, p. 1).
+– Règlement (CE) n<sup>o</sup> 1071/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles communes sur les conditions à respecter pour exercer la profession de transporteur par route, et abrogeant la directive 96/26/CE du Conseil (JO L 300 du 14.11.2009, p. 51), modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 517/2013 du Conseil du 13 mai 2013 (JO L 158 du 10.6.2013, p. 1).
 
-Règlement (CE) n<sup>o</sup> 1072/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles communes pour l’accès au marché du transport international de marchandises par route (JO L 300 du 14.11.2009, p. 72), modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 517/2013 du Conseil du 13 mai 2013 (JO L 158 du 10.6.2013, p. 1).
+– Règlement (CE) n<sup>o</sup> 1072/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles communes pour l’accès au marché du transport international de marchandises par route (JO L 300 du 14.11.2009, p. 72), modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 517/2013 du Conseil du 13 mai 2013 (JO L 158 du 10.6.2013, p. 1).
 
 Aux fins du présent Accord:
 
@@ -865,77 +865,75 @@ Aux fins du présent Accord:
 - b. la Confédération suisse ne pourra exempter des ressortissants d’autres États que ceux mentionnés à la let. a de l’obligation de détenir l’attestation de conducteur qu’après consultation et accord de l’Union européenne;
 - c. les dispositions du chap. III du règlement (CE) n<sup>o</sup> 1072/2009 (relatives au cabotage) ne s’appliquent pas.
 
-Règlement (CE) n<sup>o</sup> 1073/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles communes pour l’accès au marché international des services de transport par autocar et autobus, et modifiant le règlement (CE) n<sup>o</sup> 561/2006 (JO L 300 du 14.11.2009, p. 88), modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 517/2013 du Conseil du 13 mai 2013 (JO L 158 du 10.6.2013, p. 1).
+– Règlement (CE) n<sup>o</sup> 1073/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles communes pour l’accès au marché international des services de transport par autocar et autobus, et modifiant le règlement (CE) n<sup>o</sup> 561/2006 (JO L 300 du 14.11.2009, p. 88), modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 517/2013 du Conseil du 13 mai 2013 (JO L 158 du 10.6.2013, p. 1).
 
 Aux fins du présent Accord, les dispositions du chap. V du règlement (CE) n<sup>o</sup> 1073/2009 (relatives au cabotage) ne s’appliquent pas.
 
-Décision 2009/992/UE de la Commission du 17 décembre 2009 concernant les exigences minimales relatives aux données qui doivent figurer dans le registre électronique national des entreprises de transport routier (JO L 339 du 22.12.2009, p. 36).
+– Décision 2009/992/UE de la Commission du 17 décembre 2009 concernant les exigences minimales relatives aux données qui doivent figurer dans le registre électronique national des entreprises de transport routier (JO L 339 du 22.12.2009, p. 36).
 
-Règlement (UE) n<sup>o</sup> 1213/2010 de la Commission du 16 décembre 2010 établissant des règles communes concernant l’interconnexion des registres électroniques nationaux relatifs aux entreprises de transport routier (JO L 335 du 18.12.2010, p. 21).
+– Règlement (UE) n<sup>o</sup> 1213/2010 de la Commission du 16 décembre 2010 établissant des règles communes concernant l’interconnexion des registres électroniques nationaux relatifs aux entreprises de transport routier (JO L 335 du 18.12.2010, p. 21).
 
-Règlement (UE) n<sup>o</sup> 361/2014 de la Commission du 9 avril 2014 portant modalités d’application du règlement (CE) n<sup>o</sup> 1073/2009 du Parlement européen et du Conseil en ce qui concerne les documents relatifs aux transports internationaux de voyageurs effectués par autocar et autobus, et abrogeant le règlement (CE) n<sup>o</sup> 2121/98 de la Commission (JO L 107 du 10.4.2014, p. 39).
+– Règlement (UE) n<sup>o</sup> 361/2014 de la Commission du 9 avril 2014 portant modalités d’application du règlement (CE) n<sup>o</sup> 1073/2009 du Parlement européen et du Conseil en ce qui concerne les documents relatifs aux transports internationaux de voyageurs effectués par autocar et autobus, et abrogeant le règlement (CE) n<sup>o</sup> 2121/98 de la Commission (JO L 107 du 10.4.2014, p. 39).
 
-Règlement (UE) 2016/403 de la Commission du 18 mars 2016 complétant le règlement (CE) n<sup>o</sup> 1071/2009 du Parlement européen et du Conseil en ce qui concerne la classification des infractions graves aux règles de l’Union pouvant porter préjudice à l’honorabilité des transporteurs par route, et modifiant l’annexe III de la directive 2006/22/CE du Parlement européen et du Conseil (JO L 74 du 19.3.2016, p. 8).
+– Règlement (UE) 2016/403 de la Commission du 18 mars 2016 complétant le règlement (CE) n<sup>o</sup> 1071/2009 du Parlement européen et du Conseil en ce qui concerne la classification des infractions graves aux règles de l’Union pouvant porter préjudice à l’honorabilité des transporteurs par route, et modifiant l’annexe III de la directive 2006/22/CE du Parlement européen et du Conseil (JO L 74 du 19.3.2016, p. 8).
 
 ### Section 2 Normes sociales
 
-Directive 2002/15/CE du Parlement européen et du Conseil du 11 mars 2002 relative à l’aménagement du temps de travail des personnes exécutant des activités mobiles de transport routier (JO L 80 du 23.3.2002, p. 35).
+– Directive 2002/15/CE du Parlement européen et du Conseil du 11 mars 2002 relative à l’aménagement du temps de travail des personnes exécutant des activités mobiles de transport routier (JO L 80 du 23.3.2002, p. 35).
 
-Directive 2003/59/CE du Parlement européen et du Conseil du 15 juillet 2003 relative à la qualification initiale et à la formation continue des conducteurs de certains véhicules routiers affectés aux transports de marchandises ou de voyageurs, modifiant le règlement (CEE) n<sup>o</sup> 3820/85 ainsi que la directive 91/439/CEE du Conseil et abrogeant la directive 76/914/CEE du Conseil (JO L 226 du 10.9.2003, p. 4).[^annex1-lvlu1-sec2-1]
+– Directive (UE) 2022/2561 du Parlement européen de du Conseil du 14 décembre 2022 relative à la qualification initiale et à la formation continue des conducteurs de certains véhicules routiers affectés aux transports de marchandises ou de voyageurs (texte codifié, JO L 330 du 23.12.2022, p. 46).
 
-Règlement (CE) n<sup>o</sup> 561/2006 du Parlement européen et du Conseil du 15 mars 2006 relatif à l’harmonisation de certaines dispositions de la législation sociale dans le domaine des transports par route, modifiant les règlements (CEE) n<sup>o</sup> 3821/85 et (CE) n<sup>o</sup> 2135/98 et abrogeant le règlement (CEE) n<sup>o</sup> 3820/85 (JO L 102 du 11.4.2006, p. 1), modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 165/2014 du Parlement européen et du Conseil du 4 février 2014 (JO L 60 du 28.2.2014, p. 1).
+– Règlement (CE) n<sup>o</sup> 561/2006 du Parlement européen et du Conseil du 15 mars 2006 relatif à l’harmonisation de certaines dispositions de la législation sociale dans le domaine des transports par route, modifiant les règlements (CEE) n<sup>o</sup> 3821/85 et (CE) n<sup>o</sup> 2135/98 et abrogeant le règlement (CEE) n<sup>o</sup> 3820/85 (JO L 102 du 11.4.2006, p. 1), modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 165/2014 du Parlement européen et du Conseil du 4 février 2014 (JO L 60 du 28.2.2014, p. 1).
 
-Directive 2006/22/CE du Parlement européen et du Conseil du 15 mars 2006 établissant les conditions minimales à respecter pour la mise en œuvre des règlements du Conseil (CEE) n<sup>o</sup> 3820/85 et (CEE) n<sup>o</sup> 3821/85 concernant la législation sociale relative aux activités de transport routier et abrogeant la directive 88/599/CEE du Conseil (JO L 102 du 11.4.2006, p. 35), modifiée en dernier lieu par le règlement (UE) 2016/403 de la Commission du 18 mars 2016 (JO L 74 du 19.3.2016, p. 8).
+– Directive 2006/22/CE du Parlement européen et du Conseil du 15 mars 2006 établissant les conditions minimales à respecter pour la mise en œuvre des règlements du Conseil (CEE) n<sup>o</sup> 3820/85 et (CEE) n<sup>o</sup> 3821/85 concernant la législation sociale relative aux activités de transport routier et abrogeant la directive 88/599/CEE du Conseil (JO L 102 du 11.4.2006, p. 35), modifiée en dernier lieu par le règlement (UE) 2016/403 de la Commission du 18 mars 2016 (JO L 74 du 19.3.2016, p. 8).
 
-Règlement (UE) n<sup>o</sup> 581/2010 de la Commission du 1<sup>er</sup> juillet 2010 relatif aux fréquences maximales auxquelles télécharger les données pertinentes à partir des unités embarquées et des cartes de conducteur (JO L 168 du 2.7.2010, p. 16).
+– Règlement (UE) n<sup>o</sup> 581/2010 de la Commission du 1<sup>er</sup> juillet 2010 relatif aux fréquences maximales auxquelles télécharger les données pertinentes à partir des unités embarquées et des cartes de conducteur (JO L 168 du 2.7.2010, p. 16).
 
-Règlement (UE) n<sup>o</sup> 165/2014 du Parlement européen et du Conseil du 4 février 2014 relatif aux tachygraphes dans les transports routiers, abrogeant le règlement (CEE) n<sup>o</sup> 3821/85 du Conseil concernant l’appareil de contrôle dans le domaine des transports par route et modifiant le règlement (CE) n<sup>o</sup> 561/2006 du Parlement européen et du Conseil relatif à l’harmonisation de certaines dispositions de la législation sociale dans le domaine des transports par route (JO L 60 du 28.2.2014, p. 1).
+– Règlement (UE) n<sup>o</sup> 165/2014 du Parlement européen et du Conseil du 4 février 2014 relatif aux tachygraphes dans les transports routiers, abrogeant le règlement (CEE) n<sup>o</sup> 3821/85 du Conseil concernant l’appareil de contrôle dans le domaine des transports par route et modifiant le règlement (CE) n<sup>o</sup> 561/2006 du Parlement européen et du Conseil relatif à l’harmonisation de certaines dispositions de la législation sociale dans le domaine des transports par route (JO L 60 du 28.2.2014, p. 1).
 
-Règlement d’exécution (UE) 2016/68 de la Commission du 21 janvier 2016 relatif aux procédures et spécifications communes nécessaires pour l’interconnexion des registres électroniques des cartes de conducteur (JO L 15 du 22.1.2016, p. 51), modifié par le règlement d’exécution (UE) 2017/1503 de la Commission du 25 août 2017 (JO L 221 du 26.8.2017, p. 10).
+– Règlement d’exécution (UE) 2016/68 de la Commission du 21 janvier 2016 relatif aux procédures et spécifications communes nécessaires pour l’interconnexion des registres électroniques des cartes de conducteur (JO L 15 du 22.1.2016, p. 51), modifié par le règlement d’exécution (UE) 2017/1503 de la Commission du 25 août 2017 (JO L 221 du 26.8.2017, p. 10).
 
-Règlement d’exécution (UE) 2016/799 de la Commission du 18 mars 2016 mettant en œuvre le règlement (UE) n<sup>o</sup> 165/2014 du Parlement européen et du Conseil en ce qui concerne les exigences applicables à la construction, aux essais, à l’installation, à l’utilisation et à la réparation des tachygraphes et de leurs composants (JO L 139 du 26.5.2016, p. 1), modifié par le règlement d’exécution (UE) 2018/502 de la Commission du 28 février 2018 (JO L 85 du 28.3.2018, p. 1).
+– Règlement d’exécution (UE) 2016/799 de la Commission du 18 mars 2016 mettant en œuvre le règlement (UE) n<sup>o</sup> 165/2014 du Parlement européen et du Conseil en ce qui concerne les exigences applicables à la construction, aux essais, à l’installation, à l’utilisation et à la réparation des tachygraphes et de leurs composants (JO L 139 du 26.5.2016, p. 1), modifié par le règlement d’exécution (UE) 2018/502 de la Commission du 28 février 2018 (JO L 85 du 28.3.2018, p. 1).
 
-Règlement d’exécution (UE) 2017/548 de la Commission du 23 mars 2017 établissant un formulaire standard pour la déclaration écrite concernant le retrait ou la casse d’un scellement de tachygraphe (JO L 79 du 24.3.2017, p. 1).
+– Règlement d’exécution (UE) 2017/548 de la Commission du 23 mars 2017 établissant un formulaire standard pour la déclaration écrite concernant le retrait ou la casse d’un scellement de tachygraphe (JO L 79 du 24.3.2017, p. 1).
 
-Décision d’exécution (UE) 2017/1013 de la Commission du 30 mars 2017 établissant le compte rendu type visé à l’art. 17 du règlement (CE) n<sup>o</sup> 561/2006 du Parlement européen et du Conseil (JO L 153 du 16.6.2017, p. 28).
-
-[^annex1-lvlu1-sec2-1]: Cette directive a été remplacée au 12 janvier 2023 par: Directive (UE) 2022/2561 du Parlement européen et du Conseil du 14 décembre 2022 relative à la qualification initiale et à la formation continue des conducteurs de certains véhicules routiers affectés aux transports de marchandises ou de voyageurs, JO L 330 du 23.12.2022, p. 46.
+– Décision d’exécution (UE) 2017/1013 de la Commission du 30 mars 2017 établissant le compte rendu type visé à l’art. 17 du règlement (CE) n<sup>o</sup> 561/2006 du Parlement européen et du Conseil (JO L 153 du 16.6.2017, p. 28).
 
 ### Section 3 Normes techniques
 
 Véhicules à moteur
 
-Directive 70/157/CEE du Conseil du 6 février 1970 concernant le rapprochement des législations des États membres relatives au niveau sonore admissible et au dispositif d’échappement des véhicules à moteur (JO L 42 du 23.2.1970, p. 16), modifiée en dernier lieu par la directive 2007/34/CE de la Commission du 14 juin 2007 (JO L 155 du 15.6.2007, p. 49).
+– Directive 70/157/CEE du Conseil du 6 février 1970 concernant le rapprochement des législations des États membres relatives au niveau sonore admissible et au dispositif d’échappement des véhicules à moteur (JO L 42 du 23.2.1970, p. 16), modifiée en dernier lieu par la directive 2007/34/CE de la Commission du 14 juin 2007 (JO L 155 du 15.6.2007, p. 49).
 
-Directive 88/77/CEE du Conseil du 3 décembre 1987 concernant le rapprochement des législations des États membres relatives aux mesures à prendre contre les émissions de gaz polluants et de particules polluantes provenant des moteurs à allumage par compression destinés à la propulsion des véhicules et les émissions de gaz polluants provenant des moteurs à allumage commandé fonctionnant au gaz naturel ou au gaz de pétrole liquéfié et destinés à la propulsion des véhicules (JO L 36 du 9.2.1988, p. 33), modifiée en dernier lieu par la directive 2001/27/CE de la Commission du 10 avril 2001 (JO L 107 du 18.4.2001, p. 10).
+– Directive 88/77/CEE du Conseil du 3 décembre 1987 concernant le rapprochement des législations des États membres relatives aux mesures à prendre contre les émissions de gaz polluants et de particules polluantes provenant des moteurs à allumage par compression destinés à la propulsion des véhicules et les émissions de gaz polluants provenant des moteurs à allumage commandé fonctionnant au gaz naturel ou au gaz de pétrole liquéfié et destinés à la propulsion des véhicules (JO L 36 du 9.2.1988, p. 33), modifiée en dernier lieu par la directive 2001/27/CE de la Commission du 10 avril 2001 (JO L 107 du 18.4.2001, p. 10).
 
-Directive 91/671/CEE du Conseil du 16 décembre 1991 concernant le rapprochement des législations des États membres relative au port obligatoire de la ceinture de sécurité dans les véhicules de moins de 3,5 tonnes (JO L 373 du 31.12.1991, p. 26), modifiée en dernier lieu par la directive d’exécution 2014/37/UE de la Commission du 27 février 2014 (JO L 59 du 28.2.2014, p. 32).
+– Directive 91/671/CEE du Conseil du 16 décembre 1991 concernant le rapprochement des législations des États membres relative au port obligatoire de la ceinture de sécurité dans les véhicules de moins de 3,5 tonnes (JO L 373 du 31.12.1991, p. 26), modifiée en dernier lieu par la directive d’exécution 2014/37/UE de la Commission du 27 février 2014 (JO L 59 du 28.2.2014, p. 32).
 
-Directive 92/6/CEE du Conseil du 10 février 1992 relative à l’installation et à l’utilisation, dans la Communauté, de limiteurs de vitesse sur certaines catégories de véhicules à moteur (JO L 57 du 2.3.1992, p. 27), modifiée par la directive 2002/85/CE du Parlement européen et du Conseil du 5 novembre 2002 (JO L 327 du 4.12.2002, p. 8).
+– Directive 92/6/CEE du Conseil du 10 février 1992 relative à l’installation et à l’utilisation, dans la Communauté, de limiteurs de vitesse sur certaines catégories de véhicules à moteur (JO L 57 du 2.3.1992, p. 27), modifiée par la directive 2002/85/CE du Parlement européen et du Conseil du 5 novembre 2002 (JO L 327 du 4.12.2002, p. 8).
 
-Directive 96/53/CEE du Conseil du 25 juillet 1996 fixant, pour certains véhicules routiers circulant dans la Communauté, les dimensions maximales autorisées en trafic national et international et les poids maximaux autorisés en trafic international (JO L 235 du 17.9.1996, p. 59), modifiée par la directive 2002/7/CE du Parlement européen et du Conseil du 18 février 2002 (JO L 67 du 9.3.2002, p. 47).
+– Directive 96/53/CEE du Conseil du 25 juillet 1996 fixant, pour certains véhicules routiers circulant dans la Communauté, les dimensions maximales autorisées en trafic national et international et les poids maximaux autorisés en trafic international (JO L 235 du 17.9.1996, p. 59), modifiée par la directive 2002/7/CE du Parlement européen et du Conseil du 18 février 2002 (JO L 67 du 9.3.2002, p. 47).
 
-Règlement (CE) du Conseil n<sup>o</sup> 2411/98 du 3 novembre 1998 relatif à la reconnaissance en circulation intracommunautaire du signe distinctif de l’État membre d’immatriculation des véhicules à moteur et de leurs remorques (JO L 299 du 10.11.1998, p. 1).
+– Règlement (CE) du Conseil n<sup>o</sup> 2411/98 du 3 novembre 1998 relatif à la reconnaissance en circulation intracommunautaire du signe distinctif de l’État membre d’immatriculation des véhicules à moteur et de leurs remorques (JO L 299 du 10.11.1998, p. 1).
 
-Directive 2000/30/CE du Parlement européen et du Conseil du 6 juin 2000 relative au contrôle technique routier des véhicules utilitaires circulant dans la Communauté (JO L 203 du 10.8.2000, p. 1), modifiée en dernier lieu par la directive 2010/47/UE de la Commission du 5 juillet 2010 (JO L 173 du 8.7.2010, p. 33).
+– Directive 2000/30/CE du Parlement européen et du Conseil du 6 juin 2000 relative au contrôle technique routier des véhicules utilitaires circulant dans la Communauté (JO L 203 du 10.8.2000, p. 1), modifiée en dernier lieu par la directive 2010/47/UE de la Commission du 5 juillet 2010 (JO L 173 du 8.7.2010, p. 33).
 
-Directive 2005/55/CEE du Parlement européen et du Conseil du 28 septembre 2005 concernant le rapprochement des législations des États membres relatives aux mesures à prendre contre les émissions de gaz polluants et de particules polluantes provenant des moteurs à allumage par compression destinés à la propulsion des véhicules et les émissions de gaz polluants provenant des moteurs à allumage commandé fonctionnant au gaz naturel ou au gaz de pétrole liquéfié et destinés à la propulsion des véhicules (JO L 275 du 20.10.2005, p. 1), modifiée en dernier lieu par la directive 2008/74/CE de la Commission du 18 juillet 2008 (JO L 192 du 19.7.2008, p. 51).
+– Directive 2005/55/CEE du Parlement européen et du Conseil du 28 septembre 2005 concernant le rapprochement des législations des États membres relatives aux mesures à prendre contre les émissions de gaz polluants et de particules polluantes provenant des moteurs à allumage par compression destinés à la propulsion des véhicules et les émissions de gaz polluants provenant des moteurs à allumage commandé fonctionnant au gaz naturel ou au gaz de pétrole liquéfié et destinés à la propulsion des véhicules (JO L 275 du 20.10.2005, p. 1), modifiée en dernier lieu par la directive 2008/74/CE de la Commission du 18 juillet 2008 (JO L 192 du 19.7.2008, p. 51).
 
-Règlement (CE) n<sup>o</sup> 595/2009 du Parlement européen et du Conseil du 18 juin 2009 relatif à la réception des véhicules à moteur et des moteurs au regard des émissions des véhicules utilitaires lourds (Euro VI) et à l’accès aux informations sur la réparation et l’entretien des véhicules, et modifiant le règlement (CE) n<sup>o</sup> 715/2007 et la directive 2007/46/CE, et abrogeant les directives 80/1269/CEE, 2005/55/CE et 2005/78/CE (JO L 188 du 18.7.2009, p. 1), modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 133/2014 de la Commission du 31 janvier 2014 (JO L 47 du 18.2.2014, p. 1).
+– Règlement (CE) n<sup>o</sup> 595/2009 du Parlement européen et du Conseil du 18 juin 2009 relatif à la réception des véhicules à moteur et des moteurs au regard des émissions des véhicules utilitaires lourds (Euro VI) et à l’accès aux informations sur la réparation et l’entretien des véhicules, et modifiant le règlement (CE) n<sup>o</sup> 715/2007 et la directive 2007/46/CE, et abrogeant les directives 80/1269/CEE, 2005/55/CE et 2005/78/CE (JO L 188 du 18.7.2009, p. 1), modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 133/2014 de la Commission du 31 janvier 2014 (JO L 47 du 18.2.2014, p. 1).
 
-Règlement (CE) n<sup>o</sup> 661/2009 du Parlement européen et du Conseil du 13 juillet 2009 concernant les prescriptions pour l’homologation relatives à la sécurité générale des véhicules à moteur, de leurs remorques et des systèmes, composants et entités techniques distinctes qui leur sont destinés (JO L 200 du 31.7.2009, p. 1), modifié en dernier lieu par le règlement (UE) 2016/1004 de la Commission du 22 juin 2016 (JO L 165 du 23.6.2016, p. 1).
+– Règlement (CE) n<sup>o</sup> 661/2009 du Parlement européen et du Conseil du 13 juillet 2009 concernant les prescriptions pour l’homologation relatives à la sécurité générale des véhicules à moteur, de leurs remorques et des systèmes, composants et entités techniques distinctes qui leur sont destinés (JO L 200 du 31.7.2009, p. 1), modifié en dernier lieu par le règlement (UE) 2016/1004 de la Commission du 22 juin 2016 (JO L 165 du 23.6.2016, p. 1).
 
-Règlement (UE) n<sup>o</sup> 582/2011 de la Commission du 25 mai 2011 portant modalités d’application et modification du règlement (CE) n<sup>o</sup> 595/2009 du Parlement européen et du Conseil au regard des émissions des véhicules utilitaires lourds (Euro VI) et modifiant les annexes I et III de la directive 2007/46/CE du Parlement européen et du Conseil (JO L 167 du 25.6.2011, p. 1), modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 627/2014 de la Commission du 12 juin 2014 (JO L 174 du 13.6.2014, p. 28).
+– Règlement (UE) n<sup>o</sup> 582/2011 de la Commission du 25 mai 2011 portant modalités d’application et modification du règlement (CE) n<sup>o</sup> 595/2009 du Parlement européen et du Conseil au regard des émissions des véhicules utilitaires lourds (Euro VI) et modifiant les annexes I et III de la directive 2007/46/CE du Parlement européen et du Conseil (JO L 167 du 25.6.2011, p. 1), modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 627/2014 de la Commission du 12 juin 2014 (JO L 174 du 13.6.2014, p. 28).
 
-Directive 2014/45/UE du Parlement européen et du Conseil du 3 avril 2014 relative au contrôle technique périodique des véhicules à moteur et de leurs remorques, et abrogeant la directive 2009/40/CE (JO L 127 du 29.4.2014, p. 51).
+– Directive 2014/45/UE du Parlement européen et du Conseil du 3 avril 2014 relative au contrôle technique périodique des véhicules à moteur et de leurs remorques, et abrogeant la directive 2009/40/CE (JO L 127 du 29.4.2014, p. 51).
 
-Règlement (UE) n<sup>o</sup> 540/2014 du Parlement européen et du Conseil du 16 avril 2014 concernant le niveau sonore des véhicules à moteur et des systèmes de silencieux de remplacement, et modifiant la directive 2007/46/CE et abrogeant la directive 70/157/CEE (JO L 158 du 27.5.2014, p. 131), modifié par le règlement délégué (UE) 2017/1576 de la Commission du 26 juin 2017 (JO L 239 du 19.9.2017, p. 3).
+– Règlement (UE) n<sup>o</sup> 540/2014 du Parlement européen et du Conseil du 16 avril 2014 concernant le niveau sonore des véhicules à moteur et des systèmes de silencieux de remplacement, et modifiant la directive 2007/46/CE et abrogeant la directive 70/157/CEE (JO L 158 du 27.5.2014, p. 131), modifié par le règlement délégué (UE) 2017/1576 de la Commission du 26 juin 2017 (JO L 239 du 19.9.2017, p. 3).
 
 Transport de marchandises dangereuses
 
-Directive (UE) 2022/1999 du Parlement européen et du Conseil du 19 octobre 2022 concernant des procédures uniformes en matière de contrôle des transports de marchandises dangereuses par route (texte codifié; JO L 274 du 24.10.2022, p. 1).
+– Directive (UE) 2022/1999 du Parlement européen et du Conseil du 19 octobre 2022 concernant des procédures uniformes en matière de contrôle des transports de marchandises dangereuses par route (texte codifié; JO L 274 du 24.10.2022, p. 1).
 
-Directive 2008/68/CE du Parlement européen et du Conseil du 24 septembre 2008 relative au transport intérieur des marchandises dangereuses (JO L 260 du 30.9.2008, p. 13), modifiée en dernier lieu par la décision d’exécution (UE) 2022/1095 de la Commission du 29 juin 2022 (JO L 176 du 1.7.2022, p. 33).
+– Directive 2008/68/CE du Parlement européen et du Conseil du 24 septembre 2008 relative au transport intérieur des marchandises dangereuses (JO L 260 du 30.9.2008, p. 13), modifiée en dernier lieu par la directive déléguée (UE) 2022/2407 de la Commission du 20 septembre 2022 (JO L 317 du 9.12.2022, p. 64).
 
 Aux fins du présent accord, les dérogations suivantes à la directive 2008/68/CE s’appliquent en Suisse:
 
@@ -1069,63 +1067,63 @@ Référence initiale à la législation nationale: annexe 2.1 de l’ordonnance 
 
 Date d’expiration: 1<sup>er</sup> janvier 2029.
 
-Directive 2010/35/UE du Parlement européen et du Conseil du 16 juin 2010 relative aux équipements sous pression transportables et abrogeant les directives du Conseil 76/767/CEE, 84/525/CEE, 84/526/CEE, 84/527/CEE et 1999/36/CE (JO L 165 du 30.6.2010, p. 1).
+– Directive 2010/35/UE du Parlement européen et du Conseil du 16 juin 2010 relative aux équipements sous pression transportables et abrogeant les directives du Conseil 76/767/CEE, 84/525/CEE, 84/526/CEE, 84/527/CEE et 1999/36/CE (JO L 165 du 30.6.2010, p. 1).
 
 ### Section 4 Droits d’accès et de transit ferroviaire
 
-Directive 91/440/CEE du Conseil du 29 juillet 1991 relative au développement de chemins de fer communautaires (JO L 237 du 24.8.1991, p. 25).
+– Directive 91/440/CEE du Conseil du 29 juillet 1991 relative au développement de chemins de fer communautaires (JO L 237 du 24.8.1991, p. 25).
 
-Directive 95/18/CE du Conseil du 19 juin 1995 concernant les licences des entreprises ferroviaires (JO L 143 du 27.6.1995, p. 70).
+– Directive 95/18/CE du Conseil du 19 juin 1995 concernant les licences des entreprises ferroviaires (JO L 143 du 27.6.1995, p. 70).
 
-Directive 95/19/CE du Conseil du 19 juin 1995 concernant la répartition des capacités d’infrastructure ferroviaire et la perception de redevances d’utilisation de l’infrastructure (JO L 143 du 27.6.1995, p. 75).
+– Directive 95/19/CE du Conseil du 19 juin 1995 concernant la répartition des capacités d’infrastructure ferroviaire et la perception de redevances d’utilisation de l’infrastructure (JO L 143 du 27.6.1995, p. 75).
 
-Directive 2004/49/CE du Parlement européen et du Conseil du 29 avril 2004 concernant la sécurité des chemins de fer communautaires et modifiant la directive 95/18/CE du Conseil concernant les licences des entreprises ferroviaires, ainsi que la directive 2001/14/CE concernant la répartition des capacités d’infrastructure ferroviaire, la tarification de l’infrastructure ferroviaire et la certification en matière de sécurité (directive sur la sécurité ferroviaire) (JO L 164 du 30.4.2004, p. 44), modifiée en dernier lieu par la directive 2014/88/UE de la Commission du 9 juillet 2014 (JO L 201 du 10.7.2014, p. 9).
+– Directive 2004/49/CE du Parlement européen et du Conseil du 29 avril 2004 concernant la sécurité des chemins de fer communautaires et modifiant la directive 95/18/CE du Conseil concernant les licences des entreprises ferroviaires, ainsi que la directive 2001/14/CE concernant la répartition des capacités d’infrastructure ferroviaire, la tarification de l’infrastructure ferroviaire et la certification en matière de sécurité (directive sur la sécurité ferroviaire) (JO L 164 du 30.4.2004, p. 44), modifiée en dernier lieu par la directive 2014/88/UE de la Commission du 9 juillet 2014 (JO L 201 du 10.7.2014, p. 9).
 
-Directive 2007/59/CE du Parlement européen et du Conseil du 23 octobre 2007 relative à la certification des conducteurs de train assurant la conduite de locomotives et de trains sur le système ferroviaire dans la Communauté (JO L 315 du 3.12.2007, p. 51), modifiée en dernier lieu par le règlement (UE) 2019/554 de la Commission du 5 avril 2019 (JO L 97 du 8.4.2019, p. 1).
+– Directive 2007/59/CE du Parlement européen et du Conseil du 23 octobre 2007 relative à la certification des conducteurs de train assurant la conduite de locomotives et de trains sur le système ferroviaire dans la Communauté (JO L 315 du 3.12.2007, p. 51), modifiée en dernier lieu par le règlement (UE) 2019/554 de la Commission du 5 avril 2019 (JO L 97 du 8.4.2019, p. 1).
 
-Règlement (CE) n<sup>o</sup> 653/2007 de la Commission du 13 juin 2007 sur l’utilisation d’un format européen commun pour les certificats de sécurité et pour les documents de demande, conformément à l’art. 10 de la directive 2004/49/CE du Parlement européen et du Conseil, et sur la validité des certificats de sécurité délivrés en vertu de la directive 2001/14/CE du Parlement européen et du Conseil (JO L 153 du 14.6.2007, p. 9), modifié par le règlement (UE) n<sup>o</sup> 445/2011 de la Commission du 10 mai 2011 (JO L 122 du 11.5.2011, p. 22).
+– Règlement (CE) n<sup>o</sup> 653/2007 de la Commission du 13 juin 2007 sur l’utilisation d’un format européen commun pour les certificats de sécurité et pour les documents de demande, conformément à l’art. 10 de la directive 2004/49/CE du Parlement européen et du Conseil, et sur la validité des certificats de sécurité délivrés en vertu de la directive 2001/14/CE du Parlement européen et du Conseil (JO L 153 du 14.6.2007, p. 9), modifié par le règlement (UE) n<sup>o</sup> 445/2011 de la Commission du 10 mai 2011 (JO L 122 du 11.5.2011, p. 22).
 
-Décision 2007/756/CE de la Commission du 9 novembre 2007 adoptant une spécification commune du registre national des véhicules prévu aux art. 14, par. 4 et 5, des directives 96/48/CE et 2001/16/CE (JO L 305 du 23.11.2007, p. 30), modifiée par la décision 2011/107/UE de la Commission du 10 février 2011 (JO L 43 du 17.2.2011, p. 33).
+– Décision 2007/756/CE de la Commission du 9 novembre 2007 adoptant une spécification commune du registre national des véhicules prévu aux art. 14, par. 4 et 5, des directives 96/48/CE et 2001/16/CE (JO L 305 du 23.11.2007, p. 30), modifiée par la décision 2011/107/UE de la Commission du 10 février 2011 (JO L 43 du 17.2.2011, p. 33).
 
-Règlement (CE) n<sup>o</sup> 1371/2007 du Parlement européen et du Conseil du 23 octobre 2007 sur les droits et obligations des voyageurs ferroviaires (JO L 315 du 3.12.2007, p. 14).
+– Règlement (CE) n<sup>o</sup> 1371/2007 du Parlement européen et du Conseil du 23 octobre 2007 sur les droits et obligations des voyageurs ferroviaires (JO L 315 du 3.12.2007, p. 14).
 
-Directive 2008/57/CE du Parlement européen et du Conseil du 17 juin 2008 relative à l’interopérabilité du système ferroviaire au sein de la Communauté (refonte) (JO L 191 du 18.7.2008, p. 1), modifiée en dernier lieu par la directive 2014/38/UE de la Commission du 10 mars 2014 (JO L 70 du 11.3.2014, p. 20).
+– Directive 2008/57/CE du Parlement européen et du Conseil du 17 juin 2008 relative à l’interopérabilité du système ferroviaire au sein de la Communauté (refonte) (JO L 191 du 18.7.2008, p. 1), modifiée en dernier lieu par la directive 2014/38/UE de la Commission du 10 mars 2014 (JO L 70 du 11.3.2014, p. 20).
 
-Décision 2009/965/CE de la Commission du 30 novembre 2009 relative au document de référence visé à l’art. 27, par. 4, de la directive 2008/57/CE du Parlement européen et du Conseil relative à l’interopérabilité du système ferroviaire au sein de la Communauté (JO L 341 du 22.12.2009, p. 1), modifiée par la décision d’exécution (UE) 2015/2299 de la Commission du 17 novembre 2015 (JO L 324 du 10.12.2015, p. 15).
+– Décision 2009/965/CE de la Commission du 30 novembre 2009 relative au document de référence visé à l’art. 27, par. 4, de la directive 2008/57/CE du Parlement européen et du Conseil relative à l’interopérabilité du système ferroviaire au sein de la Communauté (JO L 341 du 22.12.2009, p. 1), modifiée par la décision d’exécution (UE) 2015/2299 de la Commission du 17 novembre 2015 (JO L 324 du 10.12.2015, p. 15).
 
-Règlement (UE) n<sup>o</sup> 36/2010 de la Commission du 3 décembre 2009 relatif aux modèles communautaires pour la licence de conducteur de train, l’attestation complémentaire, la copie certifiée conforme de l’attestation complémentaire et le formulaire de demande de licence de conducteur de train, en vertu de la directive 2007/59/CE du Parlement européen et du Conseil (JO L 13 du 19.1.2010, p. 1).
+– Règlement (UE) n<sup>o</sup> 36/2010 de la Commission du 3 décembre 2009 relatif aux modèles communautaires pour la licence de conducteur de train, l’attestation complémentaire, la copie certifiée conforme de l’attestation complémentaire et le formulaire de demande de licence de conducteur de train, en vertu de la directive 2007/59/CE du Parlement européen et du Conseil (JO L 13 du 19.1.2010, p. 1).
 
-Décision 2010/713/UE de la Commission du 9 novembre 2010 relative à des modules pour les procédures concernant l’évaluation de la conformité, l’aptitude à l’emploi et la vérification CE à utiliser dans le cadre des spécifications techniques d’interopérabilité adoptées en vertu de la directive 2008/57/CE du Parlement européen et du Conseil (JO L 319 du 4.12.2010, p. 1).
+– Décision 2010/713/UE de la Commission du 9 novembre 2010 relative à des modules pour les procédures concernant l’évaluation de la conformité, l’aptitude à l’emploi et la vérification CE à utiliser dans le cadre des spécifications techniques d’interopérabilité adoptées en vertu de la directive 2008/57/CE du Parlement européen et du Conseil (JO L 319 du 4.12.2010, p. 1).
 
-Règlement (UE) n<sup>o</sup> 1158/2010 de la Commission du 9 décembre 2010 relatif à une méthode de sécurité commune pour l’évaluation de la conformité aux exigences pour l’obtention de certificats de sécurité ferroviaire (JO L 326 du 10.12.2010, p. 11).
+– Règlement (UE) n<sup>o</sup> 1158/2010 de la Commission du 9 décembre 2010 relatif à une méthode de sécurité commune pour l’évaluation de la conformité aux exigences pour l’obtention de certificats de sécurité ferroviaire (JO L 326 du 10.12.2010, p. 11).
 
-Règlement (UE) n<sup>o</sup> 1169/2010 de la Commission du 10 décembre 2010 relatif à une méthode de sécurité commune pour l’évaluation de la conformité aux exigences pour l’obtention d’un agrément de sécurité ferroviaire (JO L 327 du 11.12.2010, p. 13).
+– Règlement (UE) n<sup>o</sup> 1169/2010 de la Commission du 10 décembre 2010 relatif à une méthode de sécurité commune pour l’évaluation de la conformité aux exigences pour l’obtention d’un agrément de sécurité ferroviaire (JO L 327 du 11.12.2010, p. 13).
 
-Règlement (UE) n<sup>o</sup> 201/2011 du 1<sup>er</sup> mars 2011 relatif au modèle de déclaration de conformité avec un type autorisé de véhicule ferroviaire (JO L 57 du 2.3.2011, p. 8).
+– Règlement (UE) n<sup>o</sup> 201/2011 du 1<sup>er</sup> mars 2011 relatif au modèle de déclaration de conformité avec un type autorisé de véhicule ferroviaire (JO L 57 du 2.3.2011, p. 8).
 
-Règlement (UE) n<sup>o</sup> 445/2011 de la Commission du 10 mai 2011 concernant un système de certification des entités chargées de l’entretien des wagons de fret et modifiant le règlement (CE) n<sup>o</sup> 653/2007 (JO L 122 du 11.5.2011, p. 22).
+– Règlement (UE) n<sup>o</sup> 445/2011 de la Commission du 10 mai 2011 concernant un système de certification des entités chargées de l’entretien des wagons de fret et modifiant le règlement (CE) n<sup>o</sup> 653/2007 (JO L 122 du 11.5.2011, p. 22).
 
-Règlement (UE) n<sup>o</sup> 454/2011 de la Commission du 5 mai 2011 relatif à la spécification technique d’interopérabilité concernant le sous-système «Applications télématiques au service des voyageurs» du système ferroviaire transeuropéen (JO L 123 du 12.5.2011, p. 11), modifié en dernier lieu par le règlement d’exécution (UE) 2019/775 de la Commission du 16 mai 2019 (JO L 139 I du 27.05.2019, p. 103).
+– Règlement (UE) n<sup>o</sup> 454/2011 de la Commission du 5 mai 2011 relatif à la spécification technique d’interopérabilité concernant le sous-système «Applications télématiques au service des voyageurs» du système ferroviaire transeuropéen (JO L 123 du 12.5.2011, p. 11), modifié en dernier lieu par le règlement d’exécution (UE) 2019/775 de la Commission du 16 mai 2019 (JO L 139 I du 27.05.2019, p. 103).
 
-Décision d’exécution 2011/665/UE de la Commission du 4 octobre 2011 relative au registre européen des types de véhicules ferroviaires autorisés (JO L 264 du 8.10.2011, p. 32), modifiée par le règlement d’exécution (UE) 2019/776 de la Commission du 16 mai 2019 (JO L 139 I du 27.5.2019, p. 108).
+– Décision d’exécution 2011/665/UE de la Commission du 4 octobre 2011 relative au registre européen des types de véhicules ferroviaires autorisés (JO L 264 du 8.10.2011, p. 32), modifiée par le règlement d’exécution (UE) 2019/776 de la Commission du 16 mai 2019 (JO L 139 I du 27.5.2019, p. 108).
 
-Décision 2011/765/UE de la Commission du 22 novembre 2011 concernant les critères de reconnaissance des centres de formation dispensant des formations de conducteur de train, les critères de reconnaissance des examinateurs chargés d’évaluer les conducteurs de train et les critères relatifs à l’organisation des examens conformément à la directive 2007/59/CE du Parlement européen et du Conseil (JO L 314 du 29.11.2011, p. 36).
+– Décision 2011/765/UE de la Commission du 22 novembre 2011 concernant les critères de reconnaissance des centres de formation dispensant des formations de conducteur de train, les critères de reconnaissance des examinateurs chargés d’évaluer les conducteurs de train et les critères relatifs à l’organisation des examens conformément à la directive 2007/59/CE du Parlement européen et du Conseil (JO L 314 du 29.11.2011, p. 36).
 
-Règlement (UE) n<sup>o</sup> 1078/2012 de la Commission du 16 novembre 2012 concernant une méthode de sécurité commune aux fins du contrôle que doivent exercer les entreprises ferroviaires et les gestionnaires d’infrastructure après l’obtention d’un certificat de sécurité ou d’un agrément de sécurité, ainsi que les entités chargées de l’entretien (JO L 320 du 17.11.2012, p. 8).
+– Règlement (UE) n<sup>o</sup> 1078/2012 de la Commission du 16 novembre 2012 concernant une méthode de sécurité commune aux fins du contrôle que doivent exercer les entreprises ferroviaires et les gestionnaires d’infrastructure après l’obtention d’un certificat de sécurité ou d’un agrément de sécurité, ainsi que les entités chargées de l’entretien (JO L 320 du 17.11.2012, p. 8).
 
-Règlement (UE) n<sup>o</sup> 321/2013 de la Commission du 13 mars 2013 relatif à la spécification technique d’interopérabilité concernant le sous-système «matériel roulant – wagons pour le fret» du système ferroviaire dans l’Union européenne et abrogeant la décision 2006/861/CE (JO L 104 du 12.4.2013, p. 1), modifié en dernier lieu par le règlement d’exécution (UE) 2019/776 de la Commission du 16 mai 2019 (JO L 139 I du 27.5.2019, p. 108).
+– Règlement (UE) n<sup>o</sup> 321/2013 de la Commission du 13 mars 2013 relatif à la spécification technique d’interopérabilité concernant le sous-système «matériel roulant – wagons pour le fret» du système ferroviaire dans l’Union européenne et abrogeant la décision 2006/861/CE (JO L 104 du 12.4.2013, p. 1), modifié en dernier lieu par le règlement d’exécution (UE) 2019/776 de la Commission du 16 mai 2019 (JO L 139 I du 27.5.2019, p. 108).
 
-Règlement d’exécution (UE) n<sup>o</sup> 402/2013 de la Commission du 30 avril 2013 concernant la méthode de sécurité commune relative à l’évaluation et à l’appréciation des risques et abrogeant le règlement (CE) n<sup>o</sup> 352/2009 (JO L 121 du 3.5.2013, p. 8), modifié par le règlement d’exécution (UE) 2015/1136 de la Commission du 13 juillet 2015 (JO L 185 du 14.7.2015, p. 6).
+– Règlement d’exécution (UE) n<sup>o</sup> 402/2013 de la Commission du 30 avril 2013 concernant la méthode de sécurité commune relative à l’évaluation et à l’appréciation des risques et abrogeant le règlement (CE) n<sup>o</sup> 352/2009 (JO L 121 du 3.5.2013, p. 8), modifié par le règlement d’exécution (UE) 2015/1136 de la Commission du 13 juillet 2015 (JO L 185 du 14.7.2015, p. 6).
 
-Règlement (UE) n<sup>o</sup> 1299/2014 de la Commission du 18 novembre 2014 concernant les spécifications techniques d’interopérabilité relatives au sous-système «Infrastructure» du système ferroviaire dans l’Union européenne (JO L 356 du 12.12.2014, p. 1), modifié par le règlement d’exécution (UE) 2019/776 de la Commission du 16 mai 2019 (JO L 139 I du 27.5.2019, p. 108).
+– Règlement (UE) n<sup>o</sup> 1299/2014 de la Commission du 18 novembre 2014 concernant les spécifications techniques d’interopérabilité relatives au sous-système «Infrastructure» du système ferroviaire dans l’Union européenne (JO L 356 du 12.12.2014, p. 1), modifié par le règlement d’exécution (UE) 2019/776 de la Commission du 16 mai 2019 (JO L 139 I du 27.5.2019, p. 108).
 
-Règlement (UE) n<sup>o</sup> 1300/2014 de la Commission du 18 novembre 2014 sur les spécifications techniques d’interopérabilité relatives à l’accessibilité du système ferroviaire de l’Union pour les personnes handicapées et les personnes à mobilité réduite (JO L 356 du 12.12.2014, p. 110); modifié par le règlement d’exécution (UE) 2019/772 de la Commission du 16 mai 2019 (JO L 139 I du 27.5.2019, p. 1).
+– Règlement (UE) n<sup>o</sup> 1300/2014 de la Commission du 18 novembre 2014 sur les spécifications techniques d’interopérabilité relatives à l’accessibilité du système ferroviaire de l’Union pour les personnes handicapées et les personnes à mobilité réduite (JO L 356 du 12.12.2014, p. 110); modifié par le règlement d’exécution (UE) 2019/772 de la Commission du 16 mai 2019 (JO L 139 I du 27.5.2019, p. 1).
 
 La règle nationale suivante visée à l’art. 6 de la décision n<sup>o</sup> 2/2019 du Comité mixte s’applique en Suisse:
 
 - – CH-TSI PRM-001 (version 2.0 de juin 2021): Accès autonome aux trains.
 
-Règlement (UE) n<sup>o</sup> 1301/2014 de la Commission du 18 novembre 2014 concernant les spécifications techniques d’interopérabilité relatives au sous-système «énergie» du système ferroviaire de l’Union (JO L 356 du 12.12.2014, p. 179); modifié en dernier lieu par le règlement d’exécution (UE) 2019/776 de la Commission du 16 mai 2019 (JO L 139 I du 27.5.2019, p. 108).
+– Règlement (UE) n<sup>o</sup> 1301/2014 de la Commission du 18 novembre 2014 concernant les spécifications techniques d’interopérabilité relatives au sous-système «énergie» du système ferroviaire de l’Union (JO L 356 du 12.12.2014, p. 179); modifié en dernier lieu par le règlement d’exécution (UE) 2019/776 de la Commission du 16 mai 2019 (JO L 139 I du 27.5.2019, p. 108).
 
 Les cas spécifiques suivants visés à l’art. 6 de la décision n<sup>o</sup> 2/2019 du Comité mixte s’appliquent en Suisse:
 
@@ -1154,7 +1152,7 @@ Les cas spécifiques suivants visés à l’art. 6 de la décision n<sup>o</sup>
 
   - – d’une estimation approximative de U<sub>moyenne utile</sub> pour les cas simples, donnant lieu à une augmentation des capacités supplémentaires pour la croissance future du trafic.
 
-Règlement (UE) n<sup>o</sup> 1302/2014 de la Commission du 18 novembre 2014 concernant une spécification technique d’interopérabilité relative au sous-système «matériel roulant» – «Locomotives et matériel roulant destiné au transport de passagers» du système ferroviaire dans l’Union européenne (JO L 356 du 12.12.2014, p. 228); modifié en dernier lieu par le règlement d’exécution (UE) 2019/776 de la Commission du 16 mai 2019 (JO L 139 I du 27.5.2019, p. 108).
+– Règlement (UE) n<sup>o</sup> 1302/2014 de la Commission du 18 novembre 2014 concernant une spécification technique d’interopérabilité relative au sous-système «matériel roulant» – «Locomotives et matériel roulant destiné au transport de passagers» du système ferroviaire dans l’Union européenne (JO L 356 du 12.12.2014, p. 228); modifié en dernier lieu par le règlement d’exécution (UE) 2019/776 de la Commission du 16 mai 2019 (JO L 139 I du 27.5.2019, p. 108).
 
 Les cas spécifiques suivants visés à l’art. 6 de la décision n<sup>o</sup> 2/2019 du Comité mixte s’appliquent en Suisse:
 
@@ -1196,71 +1194,75 @@ Les règles nationales suivantes visées à l’art. 6 de la décision n<sup>o</
 - – CH-TSI LOC&PAS-003 (version 2.0 de juin 2021): Petits rayons r &lt; 250 m;
 - – CH-TSI LOC&PAS-006 (version 2.0 de juin 2021): Homologation de véhicules pendulaires selon catégorie N;
 - – CH-TSI LOC&PAS-007 (version 2.0 de juin 2021): Dispositif de graissage de boudin;
-- – CH-TSI LOC&PAS-009 (version 1.0 de juin 2015): Emissions de gaz d’échappement des véhicules à moteur thermique (règle potentiellement non compatible avec le règlement (UE) 2016/1628, la règle est à réexaminer avant le 31 décembre 2023);
+- – CH-TSI LOC&PAS-009 (version 1.0 de juin 2015): Emissions de gaz d’échappement des véhicules à moteur thermique (règle potentiellement non compatible avec le règlement (UE) 2016/1628, la règle est à réexaminer avant le 31 décembre 2024);
 - – CH-TSI LOC&PAS-011 (version 2.0 de juin 2021): Limitation de la prestation de traction;
 - – CH-TSI LOC&PAS-012 (version 1.0 de juillet 2016): Admittance;
 - – CH-TSI LOC&PAS-013 (version 1.0 de juillet 2016): Interaction pantographe / ligne de contact;
 - – CH-TSI LOC&PAS-014*a* (version 2.0 de juin 2021): Caractéristiques du matériel roulant nécessaires pour assurer la compatibilité avec les systèmes de détection des trains par circuits de voie;
 - – CH-TSI LOC&PAS-014*b* (version 2.0 de juin 2021): Caractéristiques du matériel roulant nécessaires pour assurer la compatibilité avec les systèmes de détection des trains par compteurs d’essieux;
-- – CH-TSI LOC&PAS-019 (version 2.0 de juin 2019): Signal «non leading input» pour le véhicule de tête (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2023);
-- – CH-TSI LOC&PAS-020 (version 2.0 de juin 2019): Signal «sleeping input» en conduite multiple (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2023);
+- – CH-TSI LOC&PAS-019 (version 2.0 de juin 2019): Signal «non leading input» pour le véhicule de tête (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2024);
+- – CH-TSI LOC&PAS-020 (version 2.0 de juin 2019): Signal «sleeping input» en conduite multiple (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2024);
 - – CH-TSI LOC&PAS-022 (version 2.1 de juin 2021): Réinitialisation du freinage d’urgence;
-- – CH-TSI LOC&PAS-025 (version 2.0 de juin 2019): Sécurisation du dispositif de déconnexion de l’équipement ETCS embarqué (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2023);
+- – CH-TSI LOC&PAS-025 (version 2.0 de juin 2019): Sécurisation du dispositif de déconnexion de l’équipement ETCS embarqué (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2024);
 - – CH-TSI LOC&PAS-026 (version 2.0 de juin 2019): Interdiction de SIGNUM/ZUB sur les véhicules équipés de l’ERTMS/ETCS Baseline 3;
-- – CH-TSI LOC&PAS-027 (version 2.0 de juin 2019): Radiocommande manuelle lors des manœuvres (mode d’exploitation «shunting») (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2023);
+- – CH-TSI LOC&PAS-027 (version 2.0 de juin 2019): Radiocommande manuelle lors des manœuvres (mode d’exploitation «shunting») (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2024);
 - – CH-TSI LOC&PAS-030 (version 2.0 de juin 2021): Utilisation de systèmes de freinage n’agissant pas sur l’adhérence;
-- – CH-TSI LOC&PAS-031 (version 2.1 de novembre 2020): Coupure de la traction en toute sécurité (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2023);
-- – CH-TSI LOC&PAS-035 (version 2.1 de novembre 2020): Puissance suffisante du freinage d’urgence (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2023);
-- – CH-TSI LOC&PAS-036 (version 2.0 de juin 2019): Véhicules dotés d’un pupitre de commande pour les deux sens de marche (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2023).
+- – CH-TSI LOC&PAS-031 (version 2.1 de novembre 2020): Coupure de la traction en toute sécurité (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2024);
+- – CH-TSI LOC&PAS-035 (version 2.1 de novembre 2020): Puissance suffisante du freinage d’urgence (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2024);
+- – CH-TSI LOC&PAS-036 (version 2.0 de juin 2019): Véhicules dotés d’un pupitre de commande pour les deux sens de marche (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2024).
 
-Règlement (UE) n<sup>o</sup> 1303/2014 de la Commission du 18 novembre 2014 concernant la spécification technique d’interopérabilité relative à la sécurité dans les tunnels ferroviaires du système ferroviaire de l’Union européenne (JO L 356 du 12.12.2014, p. 394), modifié en dernier lieu par le règlement d’exécution (UE) 2019/776 de la Commission du 16 mai 2019 (JO L 139 I du 27.5.2019, p. 108).
+– Règlement (UE) n<sup>o</sup> 1303/2014 de la Commission du 18 novembre 2014 concernant la spécification technique d’interopérabilité relative à la sécurité dans les tunnels ferroviaires du système ferroviaire de l’Union européenne (JO L 356 du 12.12.2014, p. 394), modifié en dernier lieu par le règlement d’exécution (UE) 2019/776 de la Commission du 16 mai 2019 (JO L 139 I du 27.5.2019, p. 108).
 
-Règlement (UE) n<sup>o</sup> 1304/2014 de la Commission du 26 novembre 2014 relatif à la spécification technique d’interopérabilité concernant le sous-système «Matériel roulant – bruit», modifiant la décision 2008/232/CE et abrogeant la décision 2011/229/UE (JO L 356 du 12.12.2014, p. 421).
+– Règlement (UE) n<sup>o</sup> 1304/2014 de la Commission du 26 novembre 2014 relatif à la spécification technique d’interopérabilité concernant le sous-système «Matériel roulant – bruit», modifiant la décision 2008/232/CE et abrogeant la décision 2011/229/UE (JO L 356 du 12.12.2014, p. 421), modifié par le règlement d’exécution (UE) 2019/774 de la Commission du 16 mai 2019 (JO L 139 I du 27.5.2019, p. 89).
 
-Règlement (UE) n<sup>o</sup> 1305/2014 de la Commission du 11 décembre 2014 relatif à la spécification technique d’interopérabilité concernant le sous-système «Applications télématiques au service du fret» du système ferroviaire de l’Union européenne et abrogeant le règlement (CE) n<sup>o</sup> 62/2006 (JO L 356 du 12.12.2014, p. 438), modifié en dernier lieu par le règlement d’exécution (UE) 2019/778 de la Commission du 16 mai 2019 (JO L 139 I du 27.5.2019, p. 356).
+– Règlement (UE) n<sup>o</sup> 1305/2014 de la Commission du 11 décembre 2014 relatif à la spécification technique d’interopérabilité concernant le sous-système «Applications télématiques au service du fret» du système ferroviaire de l’Union européenne et abrogeant le règlement (CE) n<sup>o</sup> 62/2006 (JO L 356 du 12.12.2014, p. 438), modifié en dernier lieu par le règlement d’exécution (UE) 2019/778 de la Commission du 16 mai 2019 (JO L 139 I du 27.5.2019, p. 356).
 
-Règlement d’exécution (UE) 2015/171 de la Commission du 4 février 2015 sur certains aspects de la procédure d’octroi des licences des entreprises ferroviaires (JO L 29 du 5.2.2015, p. 3).
+– Règlement d’exécution (UE) 2015/171 de la Commission du 4 février 2015 sur certains aspects de la procédure d’octroi des licences des entreprises ferroviaires (JO L 29 du 5.2.2015, p. 3).
 
-Règlement d’exécution (UE) 2015/909 de la Commission du 12 juin 2015 concernant les modalités de calcul du coût directement imputable à l’exploitation du service ferroviaire (JO L 148 du 13.6.2015, p. 17).
+– Règlement d’exécution (UE) 2015/429 de la Commission du 13 mars 2015 déterminant les modalités à suivre pour l’application des redevances correspondant au coût des effets du bruit (JO L 70 du 13.3.2015, p. 36).
 
-Directive (UE) 2016/797 du Parlement européen et du Conseil du 11 mai 2016 relative à l’interopérabilité du système ferroviaire au sein de l’Union européenne (JO L 138 du 26.5.2016, p. 44); seules les dispositions suivantes s’appliquent en Suisse: art. 7 (par. 1 à 3), 8 à 10, 12, 15, 17, 21 (sans par. 7), 22 à 25, 27 à 42, 44, 45 et 49, ainsi que les annexes II, III et IV.
+– Règlement d’exécution (UE) 2015/909 de la Commission du 12 juin 2015 concernant les modalités de calcul du coût directement imputable à l’exploitation du service ferroviaire (JO L 148 du 13.6.2015, p. 17).
 
-Directive (UE) 2016/798 du Parlement européen et du Conseil du 11 mai 2016 relative à la sécurité ferroviaire (JO L 138 du 26.5.2016, p. 102); seules les dispositions suivantes s’appliquent en Suisse: art. 9, 10 (sans par. 7), 13, 14 et 17, ainsi que l’annexe III.
+– Règlement d’exécution (UE) 2015/1100 de la Commission du 7 juillet 2015 concernant les obligations d’information incombant aux États membres dans le cadre de la surveillance du marché ferroviaire (JO L 181 du 9.7.2015, p. 1).
 
-Règlement (UE) 2016/919 de la Commission du 27 mai 2016 relatif à la spécification technique d’interopérabilité concernant les sous-systèmes «contrôle-commande et signalisation» du système ferroviaire dans l’Union européenne (JO L 158 du 15.6.2016, p. 1), modifié par le règlement d’exécution (UE) 2019/776 de la Commission du 16 mai 2019 (JO L 139 I du 27.5.2019, p. 108).
+– Directive (UE) 2016/797 du Parlement européen et du Conseil du 11 mai 2016 relative à l’interopérabilité du système ferroviaire au sein de l’Union européenne (JO L 138 du 26.5.2016, p. 44); seules les dispositions suivantes s’appliquent en Suisse: art. 7 (par. 1 à 3), 8 à 10, 12, 15, 17, 21 (sans par. 7), 22 à 25, 27 à 42, 44, 45 et 49, ainsi que les annexes II, III et IV.
+
+– Directive (UE) 2016/798 du Parlement européen et du Conseil du 11 mai 2016 relative à la sécurité ferroviaire (JO L 138 du 26.5.2016, p. 102); seules les dispositions suivantes s’appliquent en Suisse: art. 9, 10 (sans par. 7), 13, 14 et 17, ainsi que l’annexe III.
+
+– Règlement (UE) 2016/919 de la Commission du 27 mai 2016 relatif à la spécification technique d’interopérabilité concernant les sous-systèmes «contrôle-commande et signalisation» du système ferroviaire dans l’Union européenne (JO L 158 du 15.6.2016, p. 1), modifié par le règlement d’exécution (UE) 2019/776 de la Commission du 16 mai 2019 (JO L 139 I du 27.5.2019, p. 108).
 
 Les règles nationales suivantes visées à l’art. 6 de la décision n<sup>o</sup> 2/2019 du Comité mixte s’appliquent en Suisse:
 
 - – CH-TSI CCS-003 (version 2.0 de juin 2019): Activation / désactivation de la transmission du paquet 44 aux systèmes ZUB / SIGNUM;
-- – CH-TSI CCS-006 (version 2.1 de novembre 2020): Perte du signal «non leading permitted» en mode d’exploitation «Non Leading» (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2023);
+- – CH-TSI CCS-006 (version 2.1 de novembre 2020): Perte du signal «non leading permitted» en mode d’exploitation «Non Leading» (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2024);
 - – CH-TSI CCS-007 (version 3.0 de novembre 2020): Règle sur les courbes de freinage pour ERTMS/ETCS Baseline 2;
 - – CH-TSI CCS-008 (version 3.0 de juin 2021): Implémentation minimale des «Change Requests»;
 - – CH-TSI CCS-011 (version 2.0 de juin 2019): Fonction Euroloop;
 - – CH-TSI CCS-015 (version 2.0 de juin 2019): Gestion simultanée de deux canaux de données GSM-R;
 - – CH-TSI CCS-016 (version 3.0 de juin 2021): Utilisation de paramètres et de fonctions spécifiques au pays;
 - – CH-TSI CCS-018 (version 2.0 de juin 2019): Interdiction des Levels STM/NTC pour ZUB/SIGNUM;
-- – CH-TSI CCS-019 (version 3.0 de novembre 2020): Reprise et affichage automatiques des données du train (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2023);
+- – CH-TSI CCS-019 (version 3.0 de novembre 2020): Reprise et affichage automatiques des données du train (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2024);
 - – CH-TSI CCS-022 (version 2.0 de juin 2019): Marche arrière en mode d’exploitation «Unfitted»;
 - – CH-TSI CCS-023 (version 2.0 de juin 2019): Affichage des messages texte;
 - – CH-TSI CCS-024 (version 3.0 de juin 2021): Saisie flexible des données;
-- – CH-TSI CCS-026 (version 2.1 de novembre 2020): Monitoring en ligne de l’équipement de voie à partir du véhicule (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2023);
-- – CH-TSI CCS-032 (version 2.1 de novembre 2020): Saisie du numéro de train unique pour l’équipement ETCS embarqué et la radio cabine GSM-R (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2023);
-- – CH-TSI CCS-033 (version 1.1 de novembre 2020): Fonctionnalités GSM-R Voice (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2023);
+- – CH-TSI CCS-026 (version 2.1 de novembre 2020): Monitoring en ligne de l’équipement de voie à partir du véhicule (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2024);
+- – CH-TSI CCS-032 (version 2.1 de novembre 2020): Saisie du numéro de train unique pour l’équipement ETCS embarqué et la radio cabine GSM-R (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2024);
+- – CH-TSI CCS-033 (version 1.1 de novembre 2020): Fonctionnalités GSM-R Voice (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2024);
 - – CH-TSI CCS-034 (version 1.0 de juin 2019): Mode d’exploitation «Non Leading»;
-- – CH-TSI CCS-038 (version 1.1 de novembre 2020): Message signalant un élargissement important de l’intervalle de confiance en odométrie (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2023);
-- – CH-CSM-RA-001 (version 1.0 de juin 2019): Concept de dossier de sécurité pour l’obtention de l’homologation ETCS en Suisse (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2023).
+- – CH-TSI CCS-038 (version 1.1 de novembre 2020): Message signalant un élargissement important de l’intervalle de confiance en odométrie (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2024);
+- – CH-CSM-RA-001 (version 1.0 de juin 2019): Concept de dossier de sécurité pour l’obtention de l’homologation ETCS en Suisse (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2024).
 
-Règlement d’exécution (UE) 2018/545 de la Commission du 4 avril 2018 établissant les modalités pratiques du processus d’autorisation des véhicules ferroviaires et d’autorisation par type de véhicule ferroviaire conformément à la directive (UE) 2016/797 du Parlement européen et du Conseil (JO L 90 du 6.4.2018, p. 66).
+– Règlement d’exécution (UE) 2018/545 de la Commission du 4 avril 2018 établissant les modalités pratiques du processus d’autorisation des véhicules ferroviaires et d’autorisation par type de véhicule ferroviaire conformément à la directive (UE) 2016/797 du Parlement européen et du Conseil (JO L 90 du 6.4.2018, p. 66).
 
-Règlement délégué (UE) 2018/761 de la Commission du 16 février 2018 établissant des méthodes de sécurité communes aux fins de la surveillance exercée par les autorités nationales de sécurité après la délivrance d’un certificat de sécurité unique ou d’un agrément de sécurité conformément à la directive (UE) 2016/798 du Parlement européen et du Conseil et abrogeant le règlement (UE) n<sup>o</sup> 1077/2012 de la Commission (JO L 129 du 25.5.2018, p. 16).
+– Règlement délégué (UE) 2018/761 de la Commission du 16 février 2018 établissant des méthodes de sécurité communes aux fins de la surveillance exercée par les autorités nationales de sécurité après la délivrance d’un certificat de sécurité unique ou d’un agrément de sécurité conformément à la directive (UE) 2016/798 du Parlement européen et du Conseil et abrogeant le règlement (UE) n<sup>o</sup> 1077/2012 de la Commission (JO L 129 du 25.5.2018, p. 16).
 
-Règlement délégué (UE) 2018/762 de la Commission du 8 mars 2018 établissant des méthodes de sécurité communes relatives aux exigences en matière de système de gestion de la sécurité conformément à la directive (UE) 2016/798 du Parlement européen et du Conseil et abrogeant les règlements de la Commission (UE) n<sup>o</sup> 1158/2010 et (UE) n<sup>o</sup> 1169/2010 (JO L 129 du 25.5.2018, p. 26).
+– Règlement délégué (UE) 2018/762 de la Commission du 8 mars 2018 établissant des méthodes de sécurité communes relatives aux exigences en matière de système de gestion de la sécurité conformément à la directive (UE) 2016/798 du Parlement européen et du Conseil et abrogeant les règlements de la Commission (UE) n<sup>o</sup> 1158/2010 et (UE) n<sup>o</sup> 1169/2010 (JO L 129 du 25.5.2018, p. 26).
 
-Règlement d’exécution (UE) 2018/763 de la Commission du 9 avril 2018 établissant les modalités pratiques de la délivrance des certificats de sécurité uniques aux entreprises ferroviaires en application de la directive (UE) 2016/798 du Parlement européen et du Conseil, et abrogeant le règlement (CE) n<sup>o</sup> 653/2007 de la Commission (JO L 129 du 25.5.2018, p. 49).
+– Règlement d’exécution (UE) 2018/763 de la Commission du 9 avril 2018 établissant les modalités pratiques de la délivrance des certificats de sécurité uniques aux entreprises ferroviaires en application de la directive (UE) 2016/798 du Parlement européen et du Conseil, et abrogeant le règlement (CE) n<sup>o</sup> 653/2007 de la Commission (JO L 129 du 25.5.2018, p. 49).
 
-Règlement d’exécution (UE) 2019/250 de la Commission du 12 février 2019 sur les modèles de déclarations «CE» et de certificats pour les constituants d’interopérabilité et sous-systèmes ferroviaires, sur le modèle de déclaration de conformité à un type autorisé de véhicule ferroviaire et sur les procédures de vérification «CE» des sous-systèmes conformément à la directive (UE) 2016/797 du Parlement européen et du Conseil, et abrogeant le règlement (UE) n<sup>o</sup> 201/2011 de la Commission (JO L 42 du 13.2.2019, p. 9).
+– Règlement d’exécution (UE) 2019/250 de la Commission du 12 février 2019 sur les modèles de déclarations «CE» et de certificats pour les constituants d’interopérabilité et sous-systèmes ferroviaires, sur le modèle de déclaration de conformité à un type autorisé de véhicule ferroviaire et sur les procédures de vérification «CE» des sous-systèmes conformément à la directive (UE) 2016/797 du Parlement européen et du Conseil, et abrogeant le règlement (UE) n<sup>o</sup> 201/2011 de la Commission (JO L 42 du 13.2.2019, p. 9).
 
-Règlement d’exécution (UE) 2019/773 de la Commission du 16 mai 2019 concernant la spécification technique d’interopérabilité relative au sous-système «Exploitation et gestion du trafic» du système ferroviaire au sein de l’Union européenne et abrogeant la décision 2012/757/UE (JO L 139 I du 27.5.2019, p. 5).
+– Règlement d’exécution (UE) 2019/773 de la Commission du 16 mai 2019 concernant la spécification technique d’interopérabilité relative au sous-système «Exploitation et gestion du trafic» du système ferroviaire au sein de l’Union européenne et abrogeant la décision 2012/757/UE (JO L 139 I du 27.5.2019, p. 5).
 
 Les règles nationales suivantes visées à l’article 6 de la décision n<sup>o</sup> 2/2019 du Comité mixte s’appliquent en Suisse:
 
@@ -1268,19 +1270,21 @@ Les règles nationales suivantes visées à l’article 6 de la décision n<sup>
 - – CH-TSI OPE-007 (version 1.0 de juillet 2020): Processus d’exploitation ferroviaire, sans base dans la STI OPE;
 - – CH-TSI OPE-008 (version 1.0 de juillet 2020): Règlements qui concernent exclusivement les GI ou qui concernent exclusivement les ETF.
 
-Règlement d’exécution (UE) 2019/777 de la Commission du 16 mai 2019 relatif aux spécifications communes du registre de l’infrastructure ferroviaire et abrogeant la décision d’exécution 2014/880/UE (JO L 139 I du 27.5.2019, p. 312).
+– Règlement d’exécution (UE) 2019/777 de la Commission du 16 mai 2019 relatif aux spécifications communes du registre de l’infrastructure ferroviaire et abrogeant la décision d’exécution 2014/880/UE (JO L 139 I du 27.5.2019, p. 312).
 
-Recommandation (UE) 2019/780 de la Commission du 16 mai 2019 sur les modalités pratiques de la délivrance d’agréments de sécurité aux gestionnaires de l’infrastructure (JO L 139 I du 27.5.2019, p. 390).
+– Recommandation (UE) 2019/780 de la Commission du 16 mai 2019 sur les modalités pratiques de la délivrance d’agréments de sécurité aux gestionnaires de l’infrastructure (JO L 139 I du 27.5.2019, p. 390).
+
+– Décision d’exécution (UE) 2020/453 de la Commission du 27 mars 2020 sur les normes harmonisées relatives aux équipements ferroviaires élaborées à l’appui de la directive 2008/57/CE du Parlement européen et du Conseil relative à l’interopérabilité du système ferroviaire au sein de la Communauté (JO L 95 du 30.3.2020, p. 1).
 
 ### Section 5 Autres domaines
 
-Directive 92/82/CEE du Conseil du 19 octobre 1992 concernant le rapprochement des taux d’accises sur les huiles minérales (JO L 316 du 31.10.1992, p. 19).
+– Directive 92/82/CEE du Conseil du 19 octobre 1992 concernant le rapprochement des taux d’accises sur les huiles minérales (JO L 316 du 31.10.1992, p. 19).
 
-Directive 2004/54/CE du Parlement européen et du Conseil du 29 avril 2004 concernant les exigences de sécurité minimales applicables aux tunnels du réseau routier transeuropéen (JO L 167 du 30.4.2004, p. 39).
+– Directive 2004/54/CE du Parlement européen et du Conseil du 29 avril 2004 concernant les exigences de sécurité minimales applicables aux tunnels du réseau routier transeuropéen (JO L 167 du 30.4.2004, p. 39).
 
-Directive 2008/96/CE du Parlement européen et du Conseil du 19 novembre 2008 concernant la gestion de la sécurité des infrastructures routières (JO L 319 du 29.11.2008, p. 59).
+– Directive 2008/96/CE du Parlement européen et du Conseil du 19 novembre 2008 concernant la gestion de la sécurité des infrastructures routières (JO L 319 du 29.11.2008, p. 59).
 
-Règlement (UE) n<sup>o</sup> 181/2011 du Parlement européen et du Conseil du 16 février 2011 concernant les droits des passagers dans le transport par autobus et autocar et modifiant le règlement (CE) n<sup>o</sup> 2006/2004 (JO L 55 du 28.2.2011, p. 1).
+– Règlement (UE) n<sup>o</sup> 181/2011 du Parlement européen et du Conseil du 16 février 2011 concernant les droits des passagers dans le transport par autobus et autocar et modifiant le règlement (CE) n<sup>o</sup> 2006/2004 (JO L 55 du 28.2.2011, p. 1).
 
 Annexe 2
 
