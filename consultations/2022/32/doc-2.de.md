@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Verordnung über tierische Nebenprodukte (VTNP) und Erlass einer neuen Verordnung des EDI über die Verwertung von tierischen Nebenprodukten für Futtermittel und als Dünger
 document: Vernehmlassungsvorlage
 language: de

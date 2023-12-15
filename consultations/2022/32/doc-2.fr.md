@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de l’ordonnance concernant les sous-produits animaux (OSPA) et adoption d’une nouvelle ordonnance du DFI concernant la valorisation des sous-produits animaux comme aliments pour animaux ou comme engrais
 document: Projet mis en consultation
 language: fr

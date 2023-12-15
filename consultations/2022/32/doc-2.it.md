@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dell’ordinanza concernente i sottoprodotti di origine animale (OSOAn) ed emanazione di una nuova ordinanza del DFI concernente il riciclaggio di sottoprodotti di origine animale per gli alimenti per animali e come concime (ORSOAn)
 document: Progetto posto in consultazione
 language: it
