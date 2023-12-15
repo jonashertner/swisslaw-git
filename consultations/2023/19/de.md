@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Bundesgesetzes über die Unfallversicherung (UVG)
 document: Vernehmlassungsvorlage
 language: de

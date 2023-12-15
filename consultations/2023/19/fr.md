@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la loi fédérale sur l’assurance-accidents (LAA)
 document: Projet mis en consultation
 language: fr
