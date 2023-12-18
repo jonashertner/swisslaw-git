@@ -3,11 +3,11 @@ sr: "0.232.111.14"
 title: Acte de Genève de l’Arrangement de Lisbonne du 20 mai 2015 sur les appellations d’origine et les indications géographiques
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/743"
 language: fr
-version: 2022-09-29
+version: 2023-12-19
 adopted: 2015-05-20
 in_force: 2021-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/743/20220929/fr/xml/fedlex-data-admin-ch-eli-cc-2021-743-20220929-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/743/20220929/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/743/20231219/fr/xml/fedlex-data-admin-ch-eli-cc-2021-743-20231219-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/743/20231219/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclu à Genève le 20 mai 2015 Approuvé par l’Assemblée fédérale le 19 mars 2021[^t-1] Instrument d’adhésion déposé par la Suisse le 31 août 2021 Entré en vigueur pour la Suisse le 1<sup>er</sup> décembre 2021
 
-(État le 29 septembre 2022)
+(État le 19 décembre 2023)
 
 [^t-1]: [RO 2021 742](https://fedlex.data.admin.ch/eli/oc/2021/742)
 
@@ -469,7 +469,7 @@ Aux fins du présent Acte, il est entendu que, lorsque certains éléments de la
 
 Aux fins du présent Acte, il est entendu que l’art. 12 est sans préjudice de l’application des dispositions du présent Acte concernant l’utilisation antérieure étant donné que, avant l’enregistrement international, la dénomination ou l’indication constituant l’appellation d’origine ou l’indication géographique peut déjà, en totalité ou en partie, être générique dans une partie contractante autre que la partie contractante d’origine, par exemple parce que la dénomination ou l’indication, ou une partie de celle-ci, est identique à un terme usuel employé dans le langage courant comme nom commun d’un produit ou d’un service dans la partie contractante en question ou est identique au nom usuel d’une variété de raisin dans cette partie contractante.
 
-Champ d’application le 29 septembre 2022[^t-2]
+Champ d’application le 19 décembre 2023[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -478,16 +478,22 @@ Champ d’application le 29 septembre 2022[^t-2]
 <tr><td>Cap-Vert\*</td><td>6 avril</td><td>2022 A</td><td>6 juillet</td><td>2022</td></tr>
 <tr><td>Corée (Nord)</td><td>8 octobre</td><td>2019 A</td><td>26 février</td><td>2020</td></tr>
 <tr><td>France</td><td>21 janvier</td><td>2021</td><td>21 avril</td><td>2021</td></tr>
-<tr><td>Ghana</td><td>3 novembre</td><td>2021 A</td><td>3 février</td><td>2022</td></tr>
+<tr><td>Ghana\*</td><td>3 novembre</td><td>2021 A</td><td>3 février</td><td>2022</td></tr>
 <tr><td>Hongrie</td><td>10 juin</td><td>2021</td><td>10 septembre</td><td>2021</td></tr>
-<tr><td>Laos</td><td>20 novembre</td><td>2020 A</td><td>20 février</td><td>2021</td></tr>
+<tr><td>Laos\*</td><td>20 novembre</td><td>2020 A</td><td>20 février</td><td>2021</td></tr>
 <tr><td>Oman</td><td>30 mars</td><td>2021 A</td><td>30 juin</td><td>2021</td></tr>
+<tr><td>Organisation africaine de la propriété intellectuelle (OAPI)\*</td><td>15 décembre</td><td>2022 A</td><td>15 mars</td><td>2023</td></tr>
 <tr><td>Pérou</td><td>18 juillet</td><td>2022</td><td>18 octobre</td><td>2022</td></tr>
+<tr><td>Portugal</td><td>18 octobre</td><td>2023</td><td>18 janvier</td><td>2024</td></tr>
 <tr><td>République tchèque</td><td>2 juin</td><td>2022 A</td><td>2 septembre</td><td>2022</td></tr>
+<tr><td>Russie\*</td><td>11 mai</td><td>2023 A</td><td>11 août</td><td>2023</td></tr>
 <tr><td>Samoa\*</td><td>2 octobre</td><td>2019 A</td><td>26 février</td><td>2020</td></tr>
+<tr><td>Sao Tomé-et-Principe\*</td><td>2 août</td><td>2023 A</td><td>2 novembre</td><td>2023</td></tr>
+<tr><td>Sénégal\*</td><td>5 septembre</td><td>2023 A</td><td>5 décembre</td><td>2023</td></tr>
 <tr><td>Suisse</td><td>31 août</td><td>2021 A</td><td>1<sup>er</sup> décembre</td><td>2021</td></tr>
+<tr><td>Tunisie</td><td>6 avril</td><td>2023 A</td><td>6 juillet</td><td>2023</td></tr>
 <tr><td>Union européenne (UE)\*</td><td>26 novembre</td><td>2019 A</td><td>26 février</td><td>2020</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle (OMPI): www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. [tab]</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle (OMPI): [www.wipo.int/](https://www.wipo.int/treaties/fr/registration/lisbon/) &gt; Français &gt; Trouver et découvrir &gt; Traités administrés par l’OMPI, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. [tab]</td></tr>
 </table>
 
-[^t-2]: [RO 2021 743](https://fedlex.data.admin.ch/eli/oc/2021/743); [2022 554](https://fedlex.data.admin.ch/eli/oc/2022/554). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
+[^t-2]: [RO 2021 743](https://fedlex.data.admin.ch/eli/oc/2021/743); [2022 554](https://fedlex.data.admin.ch/eli/oc/2022/554); [2023 822](https://fedlex.data.admin.ch/eli/oc/2023/822). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
