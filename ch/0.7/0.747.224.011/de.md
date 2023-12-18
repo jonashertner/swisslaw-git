@@ -3,11 +3,11 @@ sr: "0.747.224.011"
 title: "Übereinkommen vom 9. September 1996 über die Sammlung, Abgabe und Annahme von Abfällen in der Rhein- und Binnenschifffahrt (mit Anlagen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/630"
 language: de
-version: 2023-08-01
+version: 2023-12-19
 adopted: 1996-09-09
 in_force: 2009-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20230801/de/xml/fedlex-data-admin-ch-eli-cc-2009-630-20230801-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/630/20230801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20231219/de/xml/fedlex-data-admin-ch-eli-cc-2009-630-20231219-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/630/20231219/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen in Strassburg am 9. September 1996 Von der Bundesversammlung genehmigt am 19. Dezember 1997[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 16. Juli 1998 In Kraft getreten für die Schweiz am 1. November 2009
 
-(Stand am 1. August 2023)
+(Stand am 19. Dezember 2023)
 
 [^t-1]: [AS 2009 5291](https://fedlex.data.admin.ch/eli/oc/2009/629)
 
@@ -353,7 +353,7 @@ Anlage 2[^t-3]
 
 ## Anwendungsbestimmung
 
-[^t-3]: Bereinigt gemäss Beschluss vom 8. Juni 2010 ([AS 2010 6379](https://fedlex.data.admin.ch/eli/oc/2010/893)), der von den Konferenzen der Vertragsparteien 2011–2022 verabschiedeten Beschlüsse ([AS 2024 295](https://fedlex.data.admin.ch/eli/oc/2024/295)) und gemäss Beschluss vom 21. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 619](https://fedlex.data.admin.ch/eli/oc/2023/619)).
+[^t-3]: Bereinigt gemäss Beschluss vom 8. Juni 2010 ([AS 2010 6379](https://fedlex.data.admin.ch/eli/oc/2010/893)), der von den Konferenzen der Vertragsparteien 2011–2022 verabschiedeten Beschlüsse ([AS 2024 295](https://fedlex.data.admin.ch/eli/oc/2024/295)), gemäss Beschluss vom 21. Juni 2023 ([AS 2023 619](https://fedlex.data.admin.ch/eli/oc/2023/619)) und der am 19. Dez. 2023 von der Konferenz der Vertragsparteien angenommen Änd., in Kraft seit 19. Dez. 2023 ([AS 2024 309](https://fedlex.data.admin.ch/eli/oc/2024/309)).
 
 <table>
 <tr><td>Teil A</td><td>Sammlung, Abgabe und Annahme von öl- und fetthaltigen Schiffsbetriebsabfällen</td></tr>
@@ -556,7 +556,7 @@ Die innerstaatlichen Institutionen melden dem Sekretariat der Internationalen Au
 
 <sup>(1)</sup> Der Finanzausgleich nach den Artikeln 4.02 und 4.03 wird für jede innerstaatliche Institution wie folgt ermittelt:
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20230801/de/xml/image/image1.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20231219/de/xml/image/image1.png)</sub>
 
 Darin bedeutet:
 
@@ -715,21 +715,22 @@ Werden Laderäume oder Ladetanks:
 - a) gewaschen und darf das Waschwasser nach den Entladungsstandards und den Abgabe-/Annahmevorschriften des Anhangs III nicht in das Gewässer eingeleitet werden, darf das Fahrzeug die Fahrt erst dann fortsetzen, wenn der Schiffsführer in der Entladebescheinigung bestätigt hat, dass dieses Waschwasser übernommen oder ihm eine Annahmestelle zugewiesen worden ist;
 - b) nach den Entgasungsstandards des Anhangs III*a* entgast, darf das Fahrzeug die Fahrt erst dann fortsetzen, wenn der Schiffsführer in der Entladebescheinigung bestätigt hat, dass die Ladetanks entgast worden sind oder dem Schiffsführer eine Annahmestelle zur Entgasung zugewiesen worden ist.
 
-<sup>(7)</sup> sofern das betreffende Schiff die genannten Güter oder Lasten auch tatsächlich ausschliesslich transportiert und als letzte Ladung transportiert hat.
+<sup>(7)</sup> Diese Bestimmung findet keine Anwendung auf den Transport gemischter Ladungen mit solchen Fahrzeugen.
 
-Diese Bestimmung findet keine Anwendung auf den Transport gemischter Ladungen mit solchen Schiffen.
+Im Einzelfall kann die zuständige Behörde bei Vorlage vergleichbarer Voraussetzungen ein Fahrzeug im Rahmen der Durchführung von Sondertransporten von der Anwendung der Absätze 1 und 4 befreien. Der Nachweis dieser Befreiung ist an Bord mitzuführen.
 
-Im Einzelfall kann die zuständige Behörde bei Vorlage vergleichbarerer Voraussetzungen ein Fahrzeug im Rahmen der Durchführung von Sondertransporten von der Anwendung der Absätze 1 und 4 befreien. Der Nachweis dieser Befreiung ist an Bord des Fahrzeuges mitzuführen.
-
-Die Absätze 1 und 4 finden keine Anwendung für Schiffe, die nach ihrer Art und Bauweise geeignet sind und eingesetzt werden für:
+Die Absätze 1 und 4 finden keine Anwendung für Schiffe, die eingesetzt werden für:
 
 - a) den Transport von Containern;
-- b) den Transport von beweglicher Ladung (ro-ro), von Stück- und Schwergut bzw. Grossgeräten;
-- c) die Lieferung von Treibstoffen, Trinkwasser und Bordvorräten an See- und an Binnenschiffe (Bevorratungsschiffe);
-- d) die Sammlung öl- und fetthaltiger Abfälle der See- und Binnenschiffe;
-- e) den Transport von verflüssigten Gasen (ADN Typ G);
-- f) den Transport von flüssigem Schwefel (bei 180 °C), Zementpulver, Flugasche und vergleichbaren Gütern, die als Schüttgut oder pumpbare Ladung befördert werden, wobei von einem ausschliesslich für die betroffene Güterkategorie geeigneten System für Beladung, Entladung und Lagerung an Bord Gebrauch gemacht wird;
-- g) den Transport von Sand, Kies oder Baggergut von der Baggerstelle zur Entladestelle, wenn das betroffene Schiff ausschliesslich für einen solchen Transport gebaut und eingerichtet ist,
+- b) den Transport von beweglicher Ladung (ro-ro), von Stück- und Schwergut bzw. Grossgeräten.
+
+Die Absätze 1 und 4 finden keine Anwendung für Schiffe, die ausschliesslich eingesetzt werden für:
+
+- a) die Lieferung von Treibstoffen, Trinkwasser und Bordvorräten an See- und an Binnenschiffe (Bevorratungsschiffe);
+- b) die Sammlung öl- und fetthaltiger Abfälle der See- und Binnenschifffahrt;
+- c) den Transport von verflüssigten Gasen (ADN Typ G);
+- d) den Transport von flüssigem Schwefel (bei 180 °C), Zementpulver, Flugasche und vergleichbaren Gütern, die als Schüttgut oder pumpbare Ladung befördert werden, wobei von einem ausschliesslich für die betroffene Güterkategorie geeigneten System für Beladung, Entladung und Lagerung an Bord Gebrauch gemacht wird;
+- e) den Transport von Sand, Kies, oder Baggergut von der Baggerstelle zur Entladestelle.
 
 <sup>(8)</sup> Die Absätze 1 und 4 finden auch keine Anwendung auf Transporte, bei denen die Entladung in ein Seeschiff erfolgt. Der Schiffsführer hat diese Entladung anhand der entsprechenden Beförderungspapiere nachzuweisen und die Papiere auf Verlangen den Aufsichtsbehörden vorzuzeigen.
 

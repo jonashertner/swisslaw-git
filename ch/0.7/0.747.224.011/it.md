@@ -3,11 +3,11 @@ sr: "0.747.224.011"
 title: "Convenzione del 9 settembre 1996 sulla raccolta, il deposito e il ritiro di rifiuti nella navigazione sul Reno e nella navigazione interna (con annessi)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/630"
 language: it
-version: 2023-08-01
+version: 2023-12-19
 adopted: 1996-09-09
 in_force: 2009-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20230801/it/xml/fedlex-data-admin-ch-eli-cc-2009-630-20230801-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/630/20230801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20231219/it/xml/fedlex-data-admin-ch-eli-cc-2009-630-20231219-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/630/20231219/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Strasburgo il 9 settembre 1996 Approvata dall’Assemblea federale il 19 dicembre 1997[^t-1] Strumento di ratifica depositato dalla Svizzera il 16 luglio 1998 Entrata in vigore per la Svizzera il 1° novembre 2009
 
-(Stato 1° agosto 2023)
+(Stato 19 dicembre 2023)
 
 [^t-1]: [RU 2009 5291](https://fedlex.data.admin.ch/eli/oc/2009/629)
 
@@ -350,7 +350,7 @@ Annesso 2[^t-3]
 
 ## Disposizione esecutiva
 
-[^t-3]: Aggiornato dagli emendamenti dell’8 giu. 2010 ([RU 2010 6379](https://fedlex.data.admin.ch/eli/oc/2010/893)), dagli emendamenti adottati dalle Conferenze delle Parti nel periodo 2011-2022 ([RU 2024 295](https://fedlex.data.admin.ch/eli/oc/2024/295)) e addottati il 21 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 619](https://fedlex.data.admin.ch/eli/oc/2023/619)).
+[^t-3]: Aggiornato dagli emendamenti dell’8 giu. 2010 ([RU 2010 6379](https://fedlex.data.admin.ch/eli/oc/2010/893)), dagli emendamenti adottati dalle Conferenze delle Parti nel periodo 2011-2022 ([RU 2024 295](https://fedlex.data.admin.ch/eli/oc/2024/295)), il 21 giu. 2023 ([RU 2023 619](https://fedlex.data.admin.ch/eli/oc/2023/619)) ed il 19 dic. 2023, in vigore dal 19 dic. 2023 ([RU 2024 309](https://fedlex.data.admin.ch/eli/oc/2024/309)).
 
 <table>
 <tr><td>Parte A:</td><td>Raccolta, deposito e ritiro di rifiuti oleosi e grassi prodotti nell’esercizio dell’imbarcazione.</td></tr>
@@ -551,7 +551,7 @@ Gli enti nazionali segnalano trimestralmente, vale a dire il 1° febbraio, il 1�
 
 <sup>(1)</sup> Il regolamento finanziario ai sensi degli articoli 4.02 e 4.03 è determinato come segue per ogni ente nazionale:
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20230801/it/xml/image/image1.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20231219/it/xml/image/image1.png)</sub>
 
 Significato:
 
@@ -710,21 +710,22 @@ Se le stive o le cisterne:
 - a) vengono lavate e se l’acqua di lavaggio non può essere immessa nelle acque giusta le norme di scarico e le prescrizioni di deposito e di ritiro dell’appendice III, l’imbarcazione può proseguire il viaggio solo se il conduttore conferma nel certificato di scarico che l’acqua di lavaggio è stata ripresa o che gli è stato assegnato un centro di ritiro;
 - b) vengono degassate conformemente alle norme di degassaggio dell’appendice IIIa, l’imbarcazione può proseguire il viaggio solo se il conduttore conferma nel certificato di scarico che le cisterne sono state degassate o che gli è stato assegnato un centro di ritiro per il degassaggio.
 
-<sup>(7)</sup> purché la nave in questione trasporti anche effettivamente le merci o i carichi menzionati e li abbia trasportati come ultimo carico.
+<sup>(7)</sup> La presente disposizione non si applica al trasporto di carichi misti con imbarcazioni di questi tipi.
 
-La presente disposizione non si applica al trasporto di carichi misti con questo genere di imbarcazioni.
+In casi specifici l’autorità competente può, in presenza di condizioni equivalenti, esonerare un’imbarcazione dall’applicazione dei paragrafi 1 e 4 nell’ambito dell’effettuazione di trasporti eccezionali. La prova di questo esonero deve essere conservata a bordo.
 
-In casi specifici l’autorità competente può, in presenza di condizioni equivalenti, esonerare un’imbarcazione dall’applicazione dei paragrafi 1 e 4 nell’ambito dell’effettuazione di trasporti eccezionali. La prova di questo esonero deve essere conservata a bordo dell’imbarcazione.
+I paragrafi 1 e 4 non si applicano alle imbarcazioni utilizzate per:
 
-I paragrafi 1 e 4 non si applicano alle navi che, per tipologia e sistema di costruzione, sono idonee e vengono utilizzate per:
+- a) il transporto di container;
+- b) il trasporto di carichi mobili (ro-ro), di collettame, di carichi pesanti o apparecchi ingombranti.
 
-- a) il trasporto di container;
-- b) il trasporto di carichi mobili (ro-ro), di collettame, di carichi pesanti o apparecchi ingombranti;
-- c) la fornitura di carburanti, acqua potabile e provviste di bordo a imbarcazioni marittime e a imbarcazioni per la navigazione interna (navi di rifornimento);
-- d) la raccolta di rifiuti oleosi o grassi delle imbarcazioni marittime o per la navigazione interna;
-- e) il trasporto di gas liquefatti (ADN tipo G);
-- f) il trasporto di zolfo liquido (a 180 °C), polvere cementizia, ceneri leggere e merci equiparabili, trasportate come merci sfuse o carico pompabile, a condizione che a bordo si faccia uso di un sistema adatto esclusivamente alle classi merceologiche interessate per il carico, lo scarico e l’immagazzinaggio;
-- g) il trasporto di sabbia, ghiaia o materiale di dragaggio dal luogo di escavazione al punto di scarico, se la nave interessata è stata costruita e allestita esclusivamente per questo tipo di trasporto,
+I paragrafi 1 e 4 non si applicano alle imbarcazioni utilizzate esclusivamente per:
+
+- a) la fornitura di carburanti, acqua potabile e provviste di bordo a imbarcazioni marittime e a imbarcazioni per la navigazione interna (navi di rifornimento);
+- b) la raccolta di rifiuti oleosi o grassi delle imbarcazioni marittime o per la navigazione interna;
+- c) il trasporto di gas liquefatti (ADN tipo G);
+- d) il trasporto di zolfo liquido (a 180 °C), polvere cementizia, ceneri leggere e merci equiparabili, trasportate come merci sfuse o carico pompabile, a condizione che si faccia uso di un sistema adatto esclusivamente alle classi merceologiche interessate per il carico, lo scarico e l’immagazzinaggio a bordo;
+- e) il trasporto di sabbia, ghiaia o materiale dragato dal sito di dragaggio al sito di scarico.
 
 <sup>(8)</sup> I paragrafi 1 e 4 non si applicano neanche ai trasporti per i quali lo scarico è effettuato su un’imbarcazione marittima. Il conduttore deve dimostrare l’avvenuto scarico per mezzo degli appositi documenti di trasporto ed esibire su richiesta i documenti alle autorità di controllo.
 

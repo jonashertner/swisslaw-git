@@ -3,11 +3,11 @@ sr: "0.747.224.011"
 title: "Convention du 9 septembre 1996 relative à la collecte, au dépôt et à la réception des déchets survenant en navigation rhénane et intérieure (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/630"
 language: fr
-version: 2023-08-01
+version: 2023-12-19
 adopted: 1996-09-09
 in_force: 2009-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20230801/fr/xml/fedlex-data-admin-ch-eli-cc-2009-630-20230801-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/630/20230801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20231219/fr/xml/fedlex-data-admin-ch-eli-cc-2009-630-20231219-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/630/20231219/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Strasbourg le 9 septembre 1996 Approuvée par l’Assemblée fédérale le 19 décembre 1997[^t-1] Instrument de ratification déposé par la Suisse le 16 juillet 1998 Entrée en vigueur pour la Suisse le 1<sup>er</sup> novembre 2009
 
-(État le 1<sup>er</sup> août 2023)
+(État le 19 décembre 2023)
 
 [^t-1]: [RO 2009 5291](https://fedlex.data.admin.ch/eli/oc/2009/629)
 
@@ -353,7 +353,7 @@ Annexe 2[^t-3]
 
 ## Règlement d’application
 
-[^t-3]: Mise à jour par les Am. du 8 juin 2010 ([RO 2010 6379](https://fedlex.data.admin.ch/eli/oc/2010/893)), les Am. adoptés par les Conférences des Parties contractantes entre 2011 et 2022 ([RO 2024 295](https://fedlex.data.admin.ch/eli/oc/2024/295)) et les Am. du 21 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 619](https://fedlex.data.admin.ch/eli/oc/2023/619)).
+[^t-3]: Mise à jour par les Am. du 8 juin 2010 ([RO 2010 6379](https://fedlex.data.admin.ch/eli/oc/2010/893)), les Am. adoptés par les Conférences des Parties contractantes entre 2011 et 2022 ([RO 2024 295](https://fedlex.data.admin.ch/eli/oc/2024/295)), les Am. du 21 juin 2023 ([RO 2023 619](https://fedlex.data.admin.ch/eli/oc/2023/619)) et les Am. du 19 déc. 2023, en vigueur depuis le 19 déc. 2023 ([RO 2024 309](https://fedlex.data.admin.ch/eli/oc/2024/309)).
 
 <table>
 <tr><td>Partie A</td><td>Collecte, dépôt et réception des déchets huileux et graisseux survenant lors de l’exploitation du bâtiment.</td></tr>
@@ -556,7 +556,7 @@ Les institutions nationales communiquent au secrétariat de l’instance interna
 
 La péréquation financière visée aux art. 4.02 et 4.03 ci-dessus est déterminée comme suit pour chaque institution nationale:
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20230801/fr/xml/image/image1.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20231219/fr/xml/image/image1.png)</sub>
 
 où:
 
@@ -714,21 +714,22 @@ Lorsque les cales ou citernes:
 - a) doivent être lavées et que les eaux de lavage ne peuvent pas être déversées dans la voie d’eau en vertu des standards de déchargement et des prescriptions de l’appendice III relatives au dépôt et à la réception, le bâtiment ne peut poursuivre son voyage que lorsque le conducteur aura confirmé dans l’attestation de déchargement que les eaux de lavage ont été prises en dépôt ou qu’une station de réception lui a été désignée;
 - b) doivent être dégazées en vertu des standards de dégazage visés à l’appendice IIIa, le bâtiment ne peut poursuivre son voyage que lorsque le conducteur aura confirmé dans l’attestation de déchargement que les citernes à cargaison ont été dégazées ou qu’une station de réception lui a été désignée pour le dégazage.
 
-<sup>(7)</sup> sous réserve que le bateau concerné transporte exclusivement les marchandises et chargements susmentionnés et que ceux-ci ont constitué sa dernière cargaison.
+<sup>(7)</sup> La présente disposition ne s’applique pas au transport de cargaisons mixtes à bord de tels bateaux.
 
-La présente disposition ne s’applique pas au transport de cargaisons mixtes à bord de tels bateaux.
+L’autorité compétente peut exonérer au cas par cas un bâtiment de l’application des paragraphes 1 et 4 dans le cadre de l’exécution de transports spécifiques si prévalent des conditions comparables. La preuve de cette exonération doit se trouver à bord du bâtiment.
 
-L’autorité compétente peut exonérer au cas par cas un bâtiment de l’application des par. 1 et 4 dans le cadre de l’exécution de transports spécifiques si prévalent des conditions comparables. La preuve de cette exonération doit se trouver à bord du bâtiment.
-
-Les par. 1 et 4 ne s’appliquent pas aux bateaux qui, de par leur type et construction, conviennent et sont utilisés pour:
+Les paragraphes 1 et 4 ne s’appliquent pas aux bateaux qui sont utilisés pour:
 
 - a) le transport de conteneurs;
-- b) le transport de cargaisons mobiles (bateaux rouliers), de colis, de colis lourds et de grands appareils;
-- c) la livraison de carburants, d’eau potable et d’avitaillements de bord à des navires de mer et bateaux de la navigation intérieure (bateaux avitailleurs);
-- d) la collecte de déchets huileux et graisseux provenant de navires de mer et bateaux de la navigation intérieure;
-- e) le transport de gaz liquéfiés (ADN, Type G);
-- f) le transport de soufre brut liquide (à 180 °C), de ciment, de cendres volantes et de matières comparables qui sont transportées en vrac ou pouvant être pompées, lorsqu’un système approprié exclusivement pour la catégorie de cargaison concernée est utilisé pour le chargement, le déchargement et le stockage à bord;
-- g) le transport de sable, de graviers ou de produits de dragage depuis le lieu d’extraction vers le site de déchargement pour autant que le bateau concerné n’est construit et aménagé que pour de tels transports,
+- b) le transport de cargaisons mobiles (bateaux rouliers), de colis, de colis lourds et de grands appareils.
+
+Les chiffres 1 et 4 ne s’appliquent pas aux bateaux uniquement utilisés pour:
+
+- a) la livraison de carburants, d’eau potable et d’avitaillements de bord à des navires de mer et bateaux de la navigation intérieure (bateaux avitailleurs);
+- b) la collecte de déchets huileux et graisseux provenant de navires de mer et bateaux de la navigation intérieure;
+- c) le transport de gaz liquéfiés (ADN, Type G);
+- d) le transport de soufre brut liquide (à 180 °C), de ciment, de cendres volantes et de matières comparables qui sont transportées en vrac ou pouvant être pompées, lorsqu’un système approprié exclusivement pour la catégorie de cargaison concernée est utilisé pour le chargement, le déchargement et le stockage à bord;
+- e) le transport de sable, de graviers et/ou de produits de dragage depuis le lieu d’extraction vers le site de déchargement.
 
 <sup>(8)</sup> Les art. 1 et 4 ne sont pas non plus applicables au transport lorsqu’il s’agit d’un déchargement dans un navire de mer. Le conducteur est dans l’obligation de pouvoir justifier un tel déchargement sur la base des documents de transport concernés qu’il doit présenter sur demande aux autorités de surveillance.
 
