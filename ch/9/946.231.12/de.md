@@ -3,18 +3,18 @@ sr: "946.231.12"
 title: Verordnung vom 22. Juni 2005 über Massnahmen gegenüber der Demokratischen Republik Kongo
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/442"
 language: de
-version: 2023-08-15
+version: 2023-12-21
 adopted: 2005-06-22
 in_force: 2005-06-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/442/20230815/de/xml/fedlex-data-admin-ch-eli-cc-2005-442-20230815-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/442/20230815/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/442/20231221/de/xml/fedlex-data-admin-ch-eli-cc-2005-442-20231221-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/442/20231221/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber der Demokratischen Republik Kongo
 
-vom 22. Juni 2005 (Stand am 15. August 2023)
+vom 22. Juni 2005 (Stand am 21. Dezember 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -199,5 +199,5 @@ Anhang 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Eingefügt durch Ziff. II Abs. 2 der V vom 21. Febr. 2018 ([AS 2018 863](https://fedlex.data.admin.ch/eli/oc/2018/114)). Bereinigt gemäss Ziff. I der V des WBF vom 23. April 2018 ([AS 2018 1655](https://fedlex.data.admin.ch/eli/oc/2018/244)), vom 17. Jan. 2019 ([AS 2019 225](https://fedlex.data.admin.ch/eli/oc/2019/35)), vom 19. Dez. 2019 ([AS 2019 4731](https://fedlex.data.admin.ch/eli/oc/2019/769)), vom 21. Dez. 2020 ([AS 2020 6411](https://fedlex.data.admin.ch/eli/oc/2020/1050)), vom 22. Dez. 2021 ([AS 2021 908](https://fedlex.data.admin.ch/eli/oc/2021/908)), vom 19. Sept. 2022 ([AS 2022 512](https://fedlex.data.admin.ch/eli/oc/2022/512)), vom 19. Dez. 2022 ([AS 2022 831](https://fedlex.data.admin.ch/eli/oc/2022/831)), vom 10. Juli 2023 ([AS 2023 370](https://fedlex.data.admin.ch/eli/oc/2023/370)) und vom 14. Aug. 2023, in Kraft seit 15. Aug. 2023 um 18.00 Uhr ([AS 2023 450](https://fedlex.data.admin.ch/eli/oc/2023/450)).
-[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/450](https://fedlex.data.admin.ch/eli/oc/2023/450) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-2]: Eingefügt durch Ziff. II Abs. 2 der V vom 21. Febr. 2018 ([AS 2018 863](https://fedlex.data.admin.ch/eli/oc/2018/114)). Bereinigt gemäss Ziff. I der V des WBF vom 23. April 2018 ([AS 2018 1655](https://fedlex.data.admin.ch/eli/oc/2018/244)), vom 17. Jan. 2019 ([AS 2019 225](https://fedlex.data.admin.ch/eli/oc/2019/35)), vom 19. Dez. 2019 ([AS 2019 4731](https://fedlex.data.admin.ch/eli/oc/2019/769)), vom 21. Dez. 2020 ([AS 2020 6411](https://fedlex.data.admin.ch/eli/oc/2020/1050)), vom 22. Dez. 2021 ([AS 2021 908](https://fedlex.data.admin.ch/eli/oc/2021/908)), vom 19. Sept. 2022 ([AS 2022 512](https://fedlex.data.admin.ch/eli/oc/2022/512)), vom 19. Dez. 2022 ([AS 2022 831](https://fedlex.data.admin.ch/eli/oc/2022/831)), vom 10. Juli 2023 ([AS 2023 370](https://fedlex.data.admin.ch/eli/oc/2023/370)), vom 14. Aug. 2023 ([AS 2023 450](https://fedlex.data.admin.ch/eli/oc/2023/450)) und vom 20. Dez. 2023, in Kraft seit 21. Dez. 2023 um 18.00 Uhr ([AS 2023 816](https://fedlex.data.admin.ch/eli/oc/2023/816)).
+[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/816](https://fedlex.data.admin.ch/eli/oc/2023/816) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
