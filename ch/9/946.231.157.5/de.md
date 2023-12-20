@@ -3,18 +3,18 @@ sr: "946.231.157.5"
 title: Verordnung vom 17. Oktober 2018 über Massnahmen gegenüber Myanmar
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/560"
 language: de
-version: 2023-11-28
+version: 2023-12-21
 adopted: 2018-10-17
 in_force: 2018-10-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20231128/de/xml/fedlex-data-admin-ch-eli-cc-2018-560-20231128-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20231128/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20231221/de/xml/fedlex-data-admin-ch-eli-cc-2018-560-20231221-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20231221/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Myanmar
 
-vom 17. Oktober 2018 (Stand am 28. November 2023)
+vom 17. Oktober 2018 (Stand am 21. Dezember 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -227,8 +227,8 @@ Anhang 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 17. Jan. 2019 ([AS 2019 227](https://fedlex.data.admin.ch/eli/oc/2019/36)), vom 20. Mai 2019 ([AS 2019 1569](https://fedlex.data.admin.ch/eli/oc/2019/295)), vom 6. Mai 2020 ([AS 2020 1497](https://fedlex.data.admin.ch/eli/oc/2020/297)), vom 31. März 2021 ([AS 2021 185](https://fedlex.data.admin.ch/eli/oc/2021/185)), vom 29. April 2021 ([AS 2021 253](https://fedlex.data.admin.ch/eli/oc/2021/253)), vom 10. Mai 2021 ([AS 2021 268](https://fedlex.data.admin.ch/eli/oc/2021/268)), vom 30. Juni 2021 ([AS 2021 412](https://fedlex.data.admin.ch/eli/oc/2021/412)), vom 4. März 2022 ([AS 2022 152](https://fedlex.data.admin.ch/eli/oc/2022/152)), vom 21. Nov. 2022 ([AS 2022 697](https://fedlex.data.admin.ch/eli/oc/2022/697)) vom 1. März 2023 ([AS 2023 99](https://fedlex.data.admin.ch/eli/oc/2023/99)), vom 9. Mai 2023 ([AS 2023 225](https://fedlex.data.admin.ch/eli/oc/2023/225)), vom 2. Aug. 2023 ([AS 2023 439](https://fedlex.data.admin.ch/eli/oc/2023/439)) und vom 27. Nov. 2023, in Kraft seit 28. Nov. 2023 um 18.00 Uhr ([AS 2023 692](https://fedlex.data.admin.ch/eli/oc/2023/692)).
-[^annex1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/692](https://fedlex.data.admin.ch/eli/oc/2023/692) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 17. Jan. 2019 ([AS 2019 227](https://fedlex.data.admin.ch/eli/oc/2019/36)), vom 20. Mai 2019 ([AS 2019 1569](https://fedlex.data.admin.ch/eli/oc/2019/295)), vom 6. Mai 2020 ([AS 2020 1497](https://fedlex.data.admin.ch/eli/oc/2020/297)), Ziff. I der V vom 31. März 2021 ([AS 2021 185](https://fedlex.data.admin.ch/eli/oc/2021/185)), Ziff. I der V des WBF vom 29. April 2021 ([AS 2021 253](https://fedlex.data.admin.ch/eli/oc/2021/253)), vom 10. Mai 2021 ([AS 2021 268](https://fedlex.data.admin.ch/eli/oc/2021/268)), vom 30. Juni 2021 ([AS 2021 412](https://fedlex.data.admin.ch/eli/oc/2021/412)), vom 4. März 2022 ([AS 2022 152](https://fedlex.data.admin.ch/eli/oc/2022/152)), vom 21. Nov. 2022 ([AS 2022 697](https://fedlex.data.admin.ch/eli/oc/2022/697)) vom 1. März 2023 ([AS 2023 99](https://fedlex.data.admin.ch/eli/oc/2023/99)), vom 9. Mai 2023 ([AS 2023 225](https://fedlex.data.admin.ch/eli/oc/2023/225)), vom 2. Aug. 2023 ([AS 2023 439](https://fedlex.data.admin.ch/eli/oc/2023/439)) und vom 27. Nov. 2023 ([AS 2023 692](https://fedlex.data.admin.ch/eli/oc/2023/692)) und vom 20. Dez. 2023, in Kraft seit 21. Dez. 2023 um 18.00 Uhr ([AS 2023 818](https://fedlex.data.admin.ch/eli/oc/2023/818)).
+[^annex1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/818](https://fedlex.data.admin.ch/eli/oc/2023/818) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 2
 
