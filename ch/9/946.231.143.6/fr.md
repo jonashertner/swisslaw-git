@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: "Ordonnance du 11 novembre 2015 instituant des mesures à l'encontre de la République islamique d'Iran"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: fr
-version: 2023-10-26
+version: 2023-12-21
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20231026/fr/xml/fedlex-data-admin-ch-eli-cc-2016-15-20231026-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20231026/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20231221/fr/xml/fedlex-data-admin-ch-eli-cc-2016-15-20231221-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20231221/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République islamique d’Iran
 
-du 11 novembre 2015 (État le 26 octobre 2023)
+du 11 novembre 2015 (État le 21 décembre 2023)
 
 Le Conseil fédéral suisse,
 
@@ -743,8 +743,8 @@ Annexe 6a[^t-5]
 
 [^annex6a-lvlu1-1]
 
-[^t-5]: Introduite par le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 29 sept. 2023 à 18 heures ([RO 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
-[^annex6a-lvlu1-1]: Le contenu de la présente annexe est publié au RO et au RS uniquement sous la forme d’un renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/555](https://fedlex.data.admin.ch/eli/oc/2023/555) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-5]: Introduite par le ch. I de l’O du 29 sept. 2023 ([RO 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)). Mise à jour par le ch. I de l’O du DEFR du 20 déc. 2023, en vigueur depuis le 21 déc. 2023 à 18 heures ([RO 2023 817](https://fedlex.data.admin.ch/eli/oc/2023/817)).
+[^annex6a-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/817](https://fedlex.data.admin.ch/eli/oc/2023/817) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 7[^t-6]
 

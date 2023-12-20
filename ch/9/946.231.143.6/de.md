@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: Verordnung vom 11. November 2015 über Massnahmen gegenüber der Islamischen Republik Iran
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: de
-version: 2023-10-26
+version: 2023-12-21
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20231026/de/xml/fedlex-data-admin-ch-eli-cc-2016-15-20231026-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20231026/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20231221/de/xml/fedlex-data-admin-ch-eli-cc-2016-15-20231221-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20231221/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber der Islamischen Republik Iran
 
-vom 11. November 2015 (Stand am 26. Oktober 2023)
+vom 11. November 2015 (Stand am 21. Dezember 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -733,12 +733,12 @@ Anhang 6a[^t-5]
 
 (Art. 7 Abs. 1, 10 Abs. 1 und 3 und 11 Bst. b)
 
-## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten**
+## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten
 
 [^annex6a-lvlu1-1]
 
-[^t-5]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023, in Kraft seit 29. Sept. 2023 um 18.00 Uhr ([AS 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
-[^annex6a-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2023/555](https://fedlex.data.admin.ch/eli/oc/2023/555) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-5]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023 ([AS 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)). Bereinigt gemäss Ziff. I der V des WBF vom 20. Dez. 2023, in Kraft seit 21. Dez. 2023 um 18.00 Uhr ([AS 2023 817](https://fedlex.data.admin.ch/eli/oc/2023/817)).
+[^annex6a-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/817](https://fedlex.data.admin.ch/eli/oc/2023/817) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 7[^t-6]
 
