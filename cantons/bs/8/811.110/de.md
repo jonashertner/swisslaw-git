@@ -3,22 +3,21 @@ canton: BS
 number: "811.110"
 title: Verordnung zum Gesetz über öffentliche Ruhetage und Ladenöffnung
 language: de
-version: 2019-07-11
-valid_until: 2023-12-20
-version_adopted: 2019-07-02
+version: 2023-12-21
+version_adopted: 2023-12-12
 adopted: 2005-08-30
 in_force: 2005-08-14
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/811.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5466/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6084/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Gesetz über öffentliche Ruhetage und Ladenöffnung
 
-Ruhetage und Ladenöffnung: Verordnung | Arbeitszeit / Ruhetage / Ladenschlusszeiten
+Arbeitszeit / Ruhetage / Ladenschlusszeiten
 
-Vom 30. August 2005 (Stand 11. Juli 2019)
+Vom 30. August 2005 (Stand 21. Dezember 2023)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -49,7 +48,8 @@ beschliesst:
 <sup>2</sup> Nicht als Verkaufslokale im Sinne des Gesetzes gelten:
 
 - a) an Tankstellen angegliederte Detailverkaufsgeschäfte mit dem üblichen Tankstellensortiment bis zu 100 m² Verkaufsfläche;
-- b) Kunstgalerien und Kunstausstellungen.
+- b) Kunstgalerien und Kunstausstellungen;
+- c) unbediente Verkaufslokale.
 
 #### § 3
 
