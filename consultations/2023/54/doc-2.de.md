@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnungsänderungen im Bereich des Bundesamts für Energie mit Bundesratsbeschluss im Mai 2024
 document: Vernehmlassungsvorlage-3
 language: de

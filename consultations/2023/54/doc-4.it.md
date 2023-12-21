@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifiche di ordinanze nell’ambito dell’Ufficio federale dell’energia con decisione del Consiglio federale prevista nel maggio 2024
 document: Progetto posto in consultazione-4
 language: it
