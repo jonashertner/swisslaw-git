@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Direkter Gegenentwurf zur Volksinitiative «Bargeld ist Freiheit»
 document: Vernehmlassungsvorlage
 language: de

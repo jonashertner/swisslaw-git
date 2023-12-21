@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Contre-projet direct à l’initiative populaire «L’argent liquide, c’est la liberté»"
 document: Projet mis en consultation
 language: fr

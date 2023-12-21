@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Controprogetto diretto all’iniziativa popolare «Il denaro contante è libertà»
 document: Progetto posto in consultazione
 language: it
