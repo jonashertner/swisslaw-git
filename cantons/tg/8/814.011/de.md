@@ -1,24 +1,23 @@
 ---
 canton: TG
 number: "814.011"
-title: Verordnung des Regierungsrates zur Umweltverträglichkeitsprüfung
+title: Verordnung zur Umweltverträglichkeitsprüfung
 language: de
-version: 2018-01-01
-valid_until: 2023-12-22
-version_adopted: 2017-12-12
+version: 2023-12-23
+version_adopted: 2023-12-19
 adopted: 1992-12-15
 in_force: 1993-01-30
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/814.011"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2244/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2737/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates zur Umweltverträglichkeitsprüfung
+# Verordnung zur Umweltverträglichkeitsprüfung
 
 RRV Umweltverträglichkeitsprüfung
 
-vom 15.12.1992 (Stand 01.01.2018)
+vom 15.12.1992 (Stand 23.12.2023)
 
 ## 1. Allgemeines, Zuständigkeit
 
@@ -66,9 +65,11 @@ vom 15.12.1992 (Stand 01.01.2018)
 
 **Fristen für die Umweltschutzfachstelle**
 
-<sup>1</sup> Die kantonale Umweltschutzfachstelle nimmt zum Pflichtenheft innerhalb von zwei Monaten Stellung.
+<sup>1</sup> Die kantonale Umweltschutzfachstelle nimmt zu Voruntersuchung und Pflichtenheft innerhalb von drei Monaten Stellung.
 
-<sup>2</sup> Die kantonale Umweltschutzfachstelle beurteilt innerhalb von zwei Monaten die Berichte zu Projekten.
+<sup>1<sup>bis</sup></sup> Stellungnahmen zu Voruntersuchung und Pflichtenheft können auch in Form einer Besprechung zwischen der Gesuchstellerin oder dem Gesuchsteller und der kantonalen Umweltschutzfachstelle sowie weiteren relevanten Fachstellen erfolgen. Die Ergebnisse der Besprechung sind zu protokollieren.
+
+<sup>2</sup> Die kantonale Umweltschutzfachstelle beurteilt innerhalb von drei Monaten die Berichte zu Projekten.
 
 ## 2. Besondere Verfahrensbestimmungen
 
@@ -114,16 +115,8 @@ vom 15.12.1992 (Stand 01.01.2018)
 
 <sup>1</sup> Gesuche, die bei Inkrafttreten dieser Änderung hängig sind, werden nach altem Recht beurteilt.
 
-#### § 10
+#### § 10–11
 
 **…**
-
-#### § 11
-
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung tritt nach Genehmigung durch den Bund mit der Publikation im Amtsblatt in Kraft[^11-1].
-
-[^11-1]: Vom Bund genehmigt am 18. Januar 1993, in Kraft getreten am 30. Januar 1993.
 
 4/1993
