@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung des Bundesgesetzes über die Invalidenversicherung IVG (Intensive Frühintervention bei frühkindlichem Autismus, IFI)"
 document: Vernehmlassungsvorlage
 language: de

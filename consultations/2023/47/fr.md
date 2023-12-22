@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification de la loi fédérale sur l’assurance-invalidité LAI (Intervention précoce intensive en cas d’autisme infantile, IPI)"
 document: Projet mis en consultation
 language: fr
