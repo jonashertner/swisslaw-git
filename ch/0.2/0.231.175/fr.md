@@ -3,11 +3,11 @@ sr: "0.231.175"
 title: "Traité de Marrakech du 27 juin 2013 visant à faciliter l'accès des aveugles, des déficients visuels et des personnes ayant d'autres difficultés de lecture des textes imprimés aux uvres publiées (avec décl. communes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/186"
 language: fr
-version: 2022-06-14
+version: 2023-12-28
 adopted: 2013-06-27
 in_force: 2020-05-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/186/20220614/fr/xml/fedlex-data-admin-ch-eli-cc-2020-186-20220614-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/186/20220614/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/186/20231228/fr/xml/fedlex-data-admin-ch-eli-cc-2020-186-20231228-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/186/20231228/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,9 +26,9 @@ Instrument de ratification déposé par la Suisse le 11 février 2020
 
 Entré en vigueur pour la Suisse le 11 mai 2020
 
-(Etat le 14 juin 2022)
+(État le 28 décembre 2023)
 
-[^t-1]: art. 1, al. 1 de l’AF du 21 juin 2019 ([RO 2020 1013](https://fedlex.data.admin.ch/eli/oc/2020/182))
+[^t-1]: Art. 1, al. 1 de l’AF du 21 juin 2019 ([RO 2020 1013](https://fedlex.data.admin.ch/eli/oc/2020/182)).
 
 Les Parties contractantes,
 
@@ -296,7 +296,7 @@ Fait à Marrakech, le 27 juin 2013
 
 (Suivent les signatures)
 
-## Déclarations communes:
+Déclarations communes
 
 Déclaration commune concernant l’art. 2.a)
 
@@ -332,7 +332,7 @@ Il est entendu qu’aucune disposition du présent Traité n’emporte obligatio
 
 Déclaration commune concernant l’art. 5.4.b)
 
-Il est entendu qu’aucune disposition du présent Traité n’emporte obligation pour une Partie contractante de ratifier le WCT[^lvlu23-1] ou d’adhérer à ce traité ou de se conformer à ses dispositions et que les dispositions du présent Traité sont sans préjudice des droits, exceptions et limitations énoncés dans le WCT.
+Il est entendu qu’aucune disposition du présent Traité n’emporte obligation pour une Partie contractante de ratifier le WCT[^t-2] ou d’adhérer à ce traité ou de se conformer à ses dispositions et que les dispositions du présent Traité sont sans préjudice des droits, exceptions et limitations énoncés dans le WCT.
 
 Déclaration commune concernant l’art. 6
 
@@ -350,17 +350,20 @@ Déclaration commune concernant l’art. 10.2)
 
 Il est entendu que lorsqu’une œuvre constitue une œuvre au sens de l’art. 2.a) du présent Traité, y compris les œuvres sous forme audio, les limitations et exceptions prévues dans le présent Traité s’appliquent *mutatis mutandis* aux droits connexes dans la mesure nécessaire pour réaliser l’exemplaire en format accessible, le distribuer et le mettre à la disposition des personnes bénéficiaires.
 
-[^lvlu23-1]: [RS 0.231.151](https://fedlex.data.admin.ch/eli/cc/2008/358)
+[^t-2]: [RS 0.231.151](https://fedlex.data.admin.ch/eli/cc/2008/358)
 
-Champ d’application le 14 juin 2022**[^t-2]**
+Champ d’application le 28 décembre 2023[^t-3]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afghanistan</td><td>26 juillet</td><td>2018</td><td>26 octobre</td><td>2018</td></tr>
 <tr><td>Arabie Saoudite</td><td>21 novembre</td><td>2018 A</td><td>21 février</td><td>2019</td></tr>
 <tr><td>Argentine</td><td>1<sup>er</sup> avril</td><td>2015</td><td>30 septembre</td><td>2016</td></tr>
+<tr><td>Arménie\*</td><td>1<sup>er</sup> juin</td><td>2022 A</td><td>1<sup>er</sup> septembre</td><td>2022</td></tr>
 <tr><td>Australie\*</td><td>10 décembre</td><td>2015</td><td>30 septembre</td><td>2016</td></tr>
 <tr><td>Azerbaïdjan\*</td><td>24 septembre</td><td>2018 A</td><td>24 décembre</td><td>2018</td></tr>
+<tr><td>Bangladesh</td><td>26 septembre</td><td>2022 A</td><td>26 décembre</td><td>2022</td></tr>
+<tr><td>Barbade</td><td>20 février</td><td>2023 A</td><td>20 mai</td><td>2023</td></tr>
 <tr><td>Bélarus</td><td>22 juillet</td><td>2020</td><td>22 octobre</td><td>2020</td></tr>
 <tr><td>Belize</td><td>9 novembre</td><td>2018 A</td><td>9 février</td><td>2019</td></tr>
 <tr><td>Bolivie</td><td>12 mars</td><td>2019 A</td><td>12 juin</td><td>2019</td></tr>
@@ -445,12 +448,14 @@ Champ d’application le 14 juin 2022**[^t-2]**
 <tr><td>Trinité-et-Tobago</td><td>4 octobre</td><td>2019 A</td><td>4 janvier</td><td>2020</td></tr>
 <tr><td>Tunisie</td><td>7 septembre</td><td>2016</td><td>7 décembre</td><td>2016</td></tr>
 <tr><td>Turkménistan</td><td>15 octobre</td><td>2020 A</td><td>15 janvier</td><td>2021</td></tr>
+<tr><td>Ukraine</td><td>8 juin</td><td>2023 A</td><td>8 septembre</td><td>2023</td></tr>
 <tr><td>Union européenne (UE)</td><td>1<sup>er</sup> octobre</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Uruguay</td><td>1<sup>er</sup> décembre</td><td>2014</td><td>30 septembre</td><td>2016</td></tr>
 <tr><td>Vanuatu</td><td>6 mai</td><td>2020 A</td><td>6 août</td><td>2020</td></tr>
 <tr><td>Venezuela</td><td>2 octobre</td><td>2019 A</td><td>2 janvier</td><td>2020</td></tr>
+<tr><td>Vietnam</td><td>6 décembre</td><td>2022 A</td><td>6 mars</td><td>2023</td></tr>
 <tr><td>Zimbabwe</td><td>12 septembre</td><td>2019</td><td>12 décembre</td><td>2019</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle: www.wipo.int/&gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le Traité de Marrakech ne s’applique pas à Macao.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle: [www.wipo.int/](https://www.wipo.int/) &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le Traité de Marrakech ne s’applique pas à Macao.</td></tr>
 </table>
 
-[^t-2]: [RO 2020 1041](https://fedlex.data.admin.ch/eli/oc/2020/186); [2021 431](https://fedlex.data.admin.ch/eli/oc/2021/431); [2022 364](https://fedlex.data.admin.ch/eli/oc/2022/364). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty
+[^t-3]: [RO 2020 1041](https://fedlex.data.admin.ch/eli/oc/2020/186); [2021 431](https://fedlex.data.admin.ch/eli/oc/2021/431); [2022 364](https://fedlex.data.admin.ch/eli/oc/2022/364); [2024 2](https://fedlex.data.admin.ch/eli/oc/2024/2)Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
