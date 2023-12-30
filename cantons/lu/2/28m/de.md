@@ -3,20 +3,20 @@ canton: LU
 number: 28m
 title: "Verordnung über die Errichtung, Organisation und Finanzierung der zentralen Statistikstelle"
 language: de
-version: 2019-01-01
-valid_until: 2023-12-30
-version_adopted: 2018-11-27
+version: 2023-12-31
+valid_until: 2024-12-31
+version_adopted: 2023-12-19
 adopted: 2007-06-15
 in_force: 2008-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/28m"
-pdf: "https://srl.lu.ch/api/de/versions/3345/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4162/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Errichtung, Organisation und Finanzierung der zentralen Statistikstelle
 
-vom 15.06.2007 (Stand 01.01.2019)
+vom 15.06.2007 (Stand 31.12.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -180,7 +180,7 @@ beschliesst:
 
 **Eigenkapital**
 
-<sup>1</sup> Ein allfälliger Betriebsgewinn fällt an die Lustat. Diese hat daraus angemessene Reserven zu bilden. Die Eigenkapitalbildung darf die Summe von 10 Prozent der jährlichen Abgeltung und von 10 Prozent der restlichen Erträge nicht überschreiten. Ein Überschuss geht an den Kanton.
+<sup>1</sup> Ein allfälliger Betriebsgewinn fällt an die Lustat. Diese hat daraus angemessene Reserven zu bilden. Die Eigenkapitalbildung darf die Summe von 20 Prozent der jährlichen Abgeltung und von 20 Prozent der restlichen Erträge nicht überschreiten. Ein Überschuss geht an den Kanton.
 
 <sup>2</sup> Betriebsverluste sind vorzutragen.
 
