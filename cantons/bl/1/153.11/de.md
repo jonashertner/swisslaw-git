@@ -3,20 +3,19 @@ canton: BL
 number: "153.11"
 title: Verordnung zur Arbeitszeit
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-08-31
+version: 2024-01-01
+version_adopted: 2023-12-19
 adopted: 2000-01-04
 in_force: 2000-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/153.11"
-pdf: "https://bl.clex.ch/api/de/versions/3086/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3842/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zur Arbeitszeit
 
-Vom 04.01.2000 (Stand 01.01.2022)
+Vom 04.01.2000 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -259,7 +258,7 @@ beschliesst:
 
 #### § 16a
 
-**Absenzen infolge Krankheit, Unfalls, Ferien, öffentlicher Dienstleistung oder bezahlten Urlaubs für Pilotanwender SAP Zeitwirtschaft**
+**Absenzen infolge Krankheit, Unfalls, Ferien, öffentlicher Dienstleistung oder bezahlten Urlaubs im Rahmen der SAP Zeitwirtschaft**
 
 <sup>1</sup> Absenzen infolge Krankheit, Unfalls, Ferien, öffentlicher Dienstleistung oder bezahlten Urlaubs werden für die Zeiterfassung wie Arbeitszeit behandelt.
 
