@@ -4,13 +4,12 @@ number: "600.11"
 title: Verordnung über die Kulturförderung
 short: "Kulturförderverordnung, KFV"
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-12-14
+version: 2024-01-01
+version_adopted: 2023-12-05
 adopted: 2016-12-20
 in_force: 2017-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/600.11"
-pdf: "https://bl.clex.ch/api/de/versions/3743/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3832/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3743/pdf_file"
 
 (Kulturförderverordnung, KFV)
 
-Vom 20.12.2016 (Stand 01.01.2022)
+Vom 20.12.2016 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -118,7 +117,7 @@ beschliesst:
 
 <sup>3</sup> Im Übrigen konstituiert sich das Theater Board selbst.
 
-<sup>4</sup> Die Geschäftsführung des Theater Board obliegt der Hauptabteilung Römerstadt Augusta Raurica und Kulturförderung des Amts für Kultur.
+<sup>4</sup> Die Geschäftsführung des Theater Board obliegt den Hauptabteilungen Römerstadt Augusta Raurica und Kulturförderung des Amts für Kultur.
 
 #### § 7
 
@@ -139,18 +138,11 @@ beschliesst:
 
 <sup>1</sup> Die projektorientierte, spartenspezifische Förderung der professionellen Kreation und Produktion für die Region Basel wird in Kooperation mit dem für die Kunst- und Kulturförderung zuständigen Präsidialdepartement des Kantons Basel-Stadt ausgerichtet.
 
-<sup>2</sup> Es bestehen folgende gemeinsame, spartenspezifische Fachausschüsse:
+<sup>2</sup> Zu diesem Zweck setzen die beiden Kantone gemeinsame Fachausschüsse ein. Deren Aufgaben und Organisation werden in einer gemeinsamen Vereinbarung der beiden Kantone geregelt.
 
-- a. Fachausschuss Film und Medienkunst;
-- b. Fachausschuss Tanz und Theater;
-- c. Fachausschuss Literatur;
-- d. Fachausschuss Musik.
+<sup>3</sup> …
 
-<sup>3</sup> Die Aufgaben, die Organisation und die Mittel dieser Fachausschüsse richten sich nach der Vereinbarung über die gemeinsamen Fachausschüsse in den Kantonen Basel-Stadt und Basel-Landschaft für die projektorientierte Kunst- und Kulturförderung vom 18. August 2008[^8-1] .
-
-<sup>4</sup> Sie oder einzelne Mitglieder können in ihrer Sparte zudem zur Beurteilung von Gesuchen, die nicht in ihren Zuständigkeitsbereich gehören, und für fachspezifische Expertisen beigezogen werden.
-
-[^8-1]: [SGS 149.61](https://bl.clex.ch/data/149.61/de)
+<sup>4</sup> Die Fachausschüsse oder einzelne Mitglieder können in ihrer Sparte zudem zur Beurteilung von Gesuchen, die nicht in ihren Zuständigkeitsbereich gehören, und für fachspezifische Expertisen beigezogen werden.
 
 ### 1.5 Förderung durch kantonale Behörden
 
@@ -172,6 +164,12 @@ beschliesst:
 
 <sup>2</sup> Kulturvermittlung setzt sich dafür ein, dass ein möglichst grosser Teil der Bevölkerung Zugang zu Kunst und Kultur erhält und an dieser teilhaben kann.
 
+#### § 10a
+
+**Förderung der kulturellen Teilhabe und Inklusion**
+
+<sup>1</sup> Die Hauptabteilung Kulturförderung des Amts für Kultur kann Vorhaben zur Stärkung der Teilhabe der Bevölkerung am kulturellen Leben unterstützen und wenn nötig gezielte Fördermassnahmen ergreifen.
+
 #### § 11
 
 **Unterstützung von Co-Produktionen**
@@ -190,7 +188,7 @@ beschliesst:
 
 <sup>1</sup> Die Bildungs-, Kultur- und Sportdirektion kann zur Kulturförderung Leistungsvereinbarungen abschliessen.
 
-<sup>2</sup> Im Bereich der Populärmusik besteht eine Leistungsvereinbarung mit dem Rockförderverein Basel (RFV Basel – Popförderung und Musiknetzwerk der Region Basel).
+<sup>2</sup> …
 
 ### 1.6 Beitragsgewährung für die Projektförderung inkl. Kunstkredit
 
@@ -201,13 +199,14 @@ beschliesst:
 <sup>1</sup> Gefördert werden können:
 
 - a. Kunst- und Kulturprojekte professioneller Kulturschaffender, die durch ihren Veranstaltungsort und/oder durch ihre Akteurinnen und Akteure in einem direkten Bezug zur Region Basel stehen;
-- b. Projekte mit einem ausgewiesenen künstlerischen bzw. kulturellen Anspruch und direktem Bezug zur Region Basel.
+- b. Projekte mit einem ausgewiesenen künstlerischen bzw. kulturellen Anspruch und direktem Bezug zur Region Basel;
+- c. Projekte zur Förderung der kulturellen Teilhabe und Inklusion.
 
 <sup>2</sup> Von der Beitragsgewährung ausgeschlossen sind insbesondere:
 
 - a. bereits laufende Projekte sowie Nachfinanzierungen;
 - b. Kunst- und Kulturprojekte ohne angemessene Eigenfinanzierungsanteile oder Eintritte;
-- c. Gesuche, die bereits von einer kantonalen Förderstelle oder einem der Fachausschüsse BS/BL abgelehnt wurden.
+- c. Gesuche, die bereits von einer kantonalen oder bikantonalen Förderstelle abgelehnt wurden.
 
 <sup>3</sup> Gesuche können nicht gleichzeitig bei mehreren basellandschaftlichen oder bikantonalen Förderstellen eingereicht werden.
 
@@ -243,7 +242,7 @@ beschliesst:
 - f. Sie bietet neue Medien und Informationsträger an und ermöglicht den Zugang zu globalen Informationsquellen.
 - g. Sie pflegt Kontakte mit anderen Bibliotheken sowie verwandten Institutionen und vertritt den Kanton in interkantonalen und nationalen Bibliotheksgremien.
 
-<sup>2</sup> Die Kantonsbibliothek ist für alle Personen nutzbar und bietet grosszügige Öffnungszeiten an.
+<sup>2</sup> Die Kantonsbibliothek ist für alle Personen nutzbar und bietet grosszügige Öffnungszeiten an. Sie orientiert sich an den Bedürfnissen von Nutzenden unterschiedlicher Altersgruppen, biografischer Voraussetzungen und kulturellen Interessen (Inklusion, Teilhabe, zeitgenössisches Kulturschaffen).
 
 ## 3 Kantonsmuseum
 
@@ -263,6 +262,7 @@ beschliesst:
 - h. Es begutachtet wissenschaftlich einzelne Sammlungsobjekte.
 - i. Es nimmt Informations- und Publikationstätigkeiten wahr.
 - j. Es führt gemeinsam mit der Kantonsarchäologie eine Fachbibliothek.
+- k. Es orientiert sich an den Bedürfnissen von Nutzenden unterschiedlicher Altersgruppen, biografischer Voraussetzungen und kulturellen Interessen (Inklusion, Teilhabe, zeitgenössisches Kulturschaffen).
 
 ## 4 Kantonsarchäologie
 
@@ -283,6 +283,7 @@ beschliesst:
 - i. Sie nimmt Informations- und Publikationstätigkeiten wahr.
 - j. Sie berät fachlich Dritte.
 - k. Sie führt gemeinsam mit dem Kantonsmuseum eine Fachbibliothek.
+- l. Sie orientiert sich an den Bedürfnissen von Nutzenden unterschiedlicher Altersgruppen, biografischer Voraussetzungen und kulturellen Interessen (Inklusion, Teilhabe, zeitgenössisches Kulturschaffen).
 
 ## 5 Römerstadt Augusta Raurica
 
@@ -293,6 +294,7 @@ beschliesst:
 <sup>1</sup> Die Römerstadt Augusta Raurica hat insbesondere folgende Aufgaben:
 
 - a. Sie ist ein gesellschaftlicher und kultureller Treffpunkt, ein Lernort sowie ein Ort der Begegnung.
+- a<sup>bis</sup>. Sie orientiert sich an den Bedürfnissen von Nutzenden unterschiedlicher Altersgruppen, biografischer Voraussetzungen und kulturellen Interessen (Inklusion, Teilhabe, zeitgenössisches Kulturschaffen).
 - b. Sie dient der Wissens- und Kulturvermittlung.
 - c. Sie trägt mit Ausstellungen, Veranstaltungen, museumspädagogischen Aktionen und Publikationen zu den kulturellen Aktivitäten des Kantons bei.
 - d. Sie führt Prospektionen durch mit dem Ziel, den unersetzbaren Verlust archäologischer Substanz möglichst gering zu halten und kurzfristige Notgrabungen zu verhindern.
@@ -305,6 +307,9 @@ beschliesst:
 - k. Sie überwacht und betreut ihre Sammlungen hinsichtlich konservatorischer Aspekte.
 - l. Sie begutachtet wissenschaftlich einzelne Sammlungsobjekte.
 - m. Sie nimmt Aufgaben für die Frey-Clavel-Stiftung wahr.
+- n. Sie nimmt Aufgaben für die Stiftung Pro Augusta Raurica wahr.
+- o. Sie nimmt Aufgaben für die Römerstiftung Dr. René Clavel wahr.
+- p. Sie nimmt Aufgaben für die Stiftung Hans und Johanna Bischof wahr.
 
 ## 6 Verlag des Kantons Basel-Landschaft
 
