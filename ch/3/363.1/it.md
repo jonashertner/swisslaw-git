@@ -3,11 +3,11 @@ sr: "363.1"
 title: "Ordinanza del 3 dicembre 2004 sull'utilizzo di profili del DNA nel procedimento penale e per l'identificazione di persone sconosciute o scomparse (Ordinanza sui profili del DNA)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/812"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2004-12-03
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/812/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2004-812-20230901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/812/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2004-812-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20230901/it"
 
 (Ordinanza sui profili del DNA)
 
-del 3 dicembre 2004 (Stato 1° settembre 2023)
+del 3 dicembre 2004 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -458,7 +458,7 @@ Con l’istituzione responsabile concorda per iscritto:
 La sicurezza dei dati è disciplinata:
 
 - a.[^19-1] dagli articoli 1–4 e 6 dell’ordinanza del 31 agosto 2022[^19-2] sulla protezione dei dati;
-- b. dall’ordinanza del 27 maggio 2020[^19-3] sui ciber-rischi.[^19-4]
+- b.[^19-3] dall’ordinanza dell’8 novembre 2023[^19-4] sulla sicurezza delle informazioni.[^19-5]
 
 <sup>2</sup> I Cantoni garantiscono la sicurezza dei dati nel loro settore conformemente alle disposizioni di cui al capoverso 1. Sono fatte salve disposizioni cantonali più restrittive in materia di protezione dei dati.
 
@@ -466,8 +466,9 @@ La sicurezza dei dati è disciplinata:
 
 [^19-1]: Nuovo testo giusta l’all. 2 n. II 47 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^19-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^19-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^19-4]: Nuovo testo giusta l’all. n. 23 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^19-3]: Nuovo testo giusta l’all. 2 n. II 23 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^19-4]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^19-5]: Nuovo testo giusta l’all. n. 23 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## Sezione 5: Disposizioni finali
 

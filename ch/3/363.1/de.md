@@ -3,11 +3,11 @@ sr: "363.1"
 title: Verordnung vom 3. Dezember 2004 über die Verwendung von DNA-Profilen im Strafverfahren und zur Identifizierung von unbekannten oder vermissten Personen (DNA-Profil-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/812"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2004-12-03
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/812/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2004-812-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/812/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2004-812-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20230901/de"
 
 (DNA-Profil-Verordnung)
 
-vom 3. Dezember 2004 (Stand am 1. September 2023)
+vom 3. Dezember 2004 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -458,7 +458,7 @@ Es vereinbart mit der verantwortlichen Institution schriftlich:
 Die Datensicherheit richtet sich nach:
 
 - a.[^19-1] den Artikeln 1–4 und 6 der Datenschutzverordnung vom 31. August 2022[^19-2];
-- b. der Cyberrisikenverordnung vom 27. Mai 2020[^19-3].[^19-4]
+- b.[^19-3] der Informationssicherheitsverordnung vom 8. November 2023[^19-4].[^19-5]
 
 <sup>2</sup> Die Kantone gewährleisten die Datensicherheit in ihrem Bereich gemäss den Vorgaben nach Absatz 1. Weitergehende kantonale Bestimmungen zur Datensicherheit bleiben vorbehalten.
 
@@ -466,8 +466,9 @@ Die Datensicherheit richtet sich nach:
 
 [^19-1]: Fassung gemäss Anhang 2 Ziff. II 47 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^19-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^19-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^19-4]: Fassung gemäss Anhang Ziff. 23 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^19-3]: Fassung gemäss Anhang 2 Ziff. II 23 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^19-4]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^19-5]: Fassung gemäss Anhang Ziff. 23 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## 5. Abschnitt: Schlussbestimmungen
 

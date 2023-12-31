@@ -3,11 +3,11 @@ sr: "363.1"
 title: "Ordonnance du 3 décembre 2004 sur l'utilisation de profils d'ADN dans les procédures pénales et sur l'identification de personnes inconnues ou disparues (Ordonnance sur les profils d'ADN)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/812"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2004-12-03
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/812/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2004-812-20230901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/812/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-812-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20230901/fr"
 
 (Ordonnance sur les profils d’ADN)
 
-du 3 décembre 2004 (État le 1<sup>er</sup> septembre 2023)
+du 3 décembre 2004 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -458,7 +458,7 @@ Il convient par écrit avec l’institution compétente:
 La sécurité des données est régie par:
 
 - a.[^19-1] les art. 1 à 4 et 6 de l’ordonnance du 31 août 2022 sur la protection des données[^19-2];
-- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^19-3].[^19-4]
+- b.[^19-3] l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^19-4].[^19-5]
 
 <sup>2</sup> Les cantons garantissent la sécurité des données dans leur domaine conformément aux règles visées à l’al. 1. Les dispositions cantonales plus strictes relatives à la sécurité des données sont réservées.
 
@@ -466,8 +466,9 @@ La sécurité des données est régie par:
 
 [^19-1]: Nouvelle teneur selon l’annexe 2 ch. II 47 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^19-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^19-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^19-4]: Nouvelle teneur selon l’annexe ch. 23 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^19-3]: Nouvelle teneur selon l’annexe 2 ch. II 23 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^19-4]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^19-5]: Nouvelle teneur selon l’annexe ch. 23 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## Section 5 Dispositions finales
 
