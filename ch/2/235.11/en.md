@@ -4,11 +4,11 @@ title: "Ordinance of 31 August 2022 on Data Protection (Data Protection Ordinanc
 short: DPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/568"
 language: en
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2022-08-31
 in_force: 2023-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/568/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2022-568-20230901-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/568/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2022-568-20240101-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Data Protection Ordinance, DPO)
 
-of 31 August 2022 (Status as of 1 September 2023)
+of 31 August 2022 (Status as of 1 January 2024)
 
 The Swiss Federal Council,
 
@@ -209,7 +209,7 @@ The data protection clauses in an agreement under Article 16 paragraph 2 letter 
 
   the rights of data subjects, and in particular:
 
-  - 1\. the right to information and the right to the data portability,
+  - 1\. the right of access and the right to the data portability,
   - 2\. the right to object to the disclosure of personal data,
   - 3\. the right to the correction, deletion or destruction of their data,
   - 4\. the right to request an independent authority for judicial protection.
@@ -250,7 +250,7 @@ They shall include as a minimum the points mentioned in Article 9 paragraph 1 as
 
 **Code of conduct and certification**
 
-<sup>1</sup> Personal data may be disclosed abroad if a code of conduct or certification guarantees an adequate level of data protection.
+<sup>1</sup> Personal data may be disclosed abroad if a code of conduct or certification guarantees an appropriate level of data protection.
 
 <sup>2</sup> The code of conduct must be submitted beforehand to the FDPIC for approval.
 
@@ -294,7 +294,7 @@ The report to the FDPIC of a breach of data security must include the following 
 
 ## Chapter 3 Rights of the Data Subject
 
-### Section 1 Right to Information
+### Section 1 Right of Access
 
 #### Art. 16
 
@@ -314,7 +314,7 @@ The report to the FDPIC of a breach of data security must include the following 
 
 **Responsibility**
 
-<sup>1</sup> Where two or more controllers are processing personal data jointly, the data subject may exercise his or her right to information in relation to any one of them.
+<sup>1</sup> Where two or more controllers are processing personal data jointly, the data subject may exercise his or her right of access in relation to any one of them.
 
 <sup>2</sup> If the request relates to data that is being processed by one processor, the processor shall assist the controller in providing the information where it does not answer the request on behalf of the controller.
 
@@ -326,7 +326,7 @@ The report to the FDPIC of a breach of data security must include the following 
 
 <sup>2</sup> If it is not possible to provide the information within 30 days, the controller must notify the data subject of this and of how long it will take to provide the information.
 
-<sup>3</sup> If the controller decides to refuse to provide the information, restrict the information provided or defer providing the information, it must notify the data subject of this within the same deadline.
+<sup>3</sup> If the controller decides to refuse, restrict or defer the right of access, it must notify the data subject of this within the same deadline.
 
 #### Art. 19
 
@@ -574,11 +574,13 @@ The FDPIC shall issue processing regulations for all automated processing; Artic
 
 #### Art. 41
 
-**Cooperation with the NCSC**
+**Cooperation with the National Cybersecurity Centre**[^41-1]
 
 <sup>1</sup> The FDPIC may, with the consent of the controller concerned, forward the report of a breach of data security to the National Cybersecurity Centre (NCSC) for the purpose of analysing the incident. The report may contain personal data.
 
 <sup>2</sup> The FDPIC shall invite the NCSC to comment before it orders the federal body to take measures under Article 8 FADP.
+
+[^41-1]: Amended by No II 7 of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 42
 
@@ -714,4 +716,4 @@ The enactments below are amended as follows:
 …[^annex2-lvlu1-2]
 
 [^annex2-lvlu1-1]: [[AS 1993 1962](https://fedlex.data.admin.ch/eli/oc/1993/1962_1962_1962); [2000 1227](https://fedlex.data.admin.ch/eli/oc/2000/198)Annex No II 7; [2006 2331](https://fedlex.data.admin.ch/eli/oc/2006/356)Annex 2 No 3, [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)No II 24; [2007 4993](https://fedlex.data.admin.ch/eli/oc/2007/700); [2008 189](https://fedlex.data.admin.ch/eli/oc/2008/58); [2010 3399](https://fedlex.data.admin.ch/eli/oc/2010/465)]
-[^annex2-lvlu1-2]: The amendments may be consulted under [AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568).
+[^annex2-lvlu1-2]: The amendments may be consulted under [AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)..

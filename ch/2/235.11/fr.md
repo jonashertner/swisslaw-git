@@ -4,11 +4,11 @@ title: Ordonnance du 31 août 2022 sur la protection des données (OPDo)
 short: OPDo
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/568"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2022-08-31
 in_force: 2023-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/568/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2022-568-20230901-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/568/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-568-20240101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20230901/fr"
 
 (OPDo)
 
-du 31 août 2022 (État le 1<sup>er</sup> septembre 2023)
+du 31 août 2022 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -572,11 +572,13 @@ Le PFPDT établit un règlement pour tous les traitements automatisés; l’art.
 
 #### Art. 41
 
-**Collaboration avec le NCSC**
+**Collaboration avec l’Office fédéral de la cybersécurité**[^41-1]
 
-<sup>1</sup> Le PFPDT peut, avec l’accord du responsable du traitement tenu d’annoncer, transmettre l’annonce d’une violation de la sécurité des données au Centre national pour la cybersécurité (NCSC) pour que celui-ci analyse l’incident. La communication peut contenir des données personnelles.
+<sup>1</sup> Le PFPDT peut, avec l’accord du responsable du traitement tenu d’annoncer, transmettre l’annonce d’une violation de la sécurité des données à l’Office fédéral de la cybersécurité (OFCS) pour que celui-ci analyse l’incident. La communication peut contenir des données personnelles.
 
-<sup>2</sup> Le PFPDT invite le NCSC à se prononcer avant d’ordonner à l’organe fédéral de prendre les mesures visées à l’art. 8 LPD.
+<sup>2</sup> Le PFPDT invite l’OFCS à se prononcer avant d’ordonner à l’organe fédéral de prendre les mesures visées à l’art. 8 LPD.
+
+[^41-1]: Nouvelle teneur selon le ch. II 7 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 42
 

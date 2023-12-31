@@ -4,11 +4,11 @@ title: "Verordnung vom 31. August 2022 über den Datenschutz (Datenschutzverordn
 short: DSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/568"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2022-08-31
 in_force: 2023-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/568/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2022-568-20230901-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/568/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2022-568-20240101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20230901/de"
 
 (Datenschutzverordnung, DSV)
 
-vom 31. August 2022 (Stand am 1. September 2023)
+vom 31. August 2022 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -572,11 +572,13 @@ Der EDÖB erstellt ein Bearbeitungsreglement für sämtliche automatisierten Bea
 
 #### Art. 41
 
-**Zusammenarbeit mit dem NCSC**
+**Zusammenarbeit mit dem Bundesamt für Cybersicherheit**[^41-1]
 
-<sup>1</sup> Der EDÖB kann die Meldung einer Verletzung der Datensicherheit mit dem Einverständnis des meldepflichtigen Verantwortlichen zur Analyse des Vorfalls an das Nationale Zentrum für Cybersicherheit (NCSC) weiterleiten. Die Mitteilung kann Personendaten enthalten.
+<sup>1</sup> Der EDÖB kann die Meldung einer Verletzung der Datensicherheit mit dem Einverständnis des meldepflichtigen Verantwortlichen zur Analyse des Vorfalls an das Bundesamt für Cybersicherheit (BACS) weiterleiten. Die Mitteilung kann Personendaten enthalten.
 
-<sup>2</sup> Der EDÖB lädt das NCSC zur Stellungnahme ein, bevor er anordnet, dass das Bundesorgan die Vorkehren nach Artikel 8 DSG trifft.
+<sup>2</sup> Der EDÖB lädt das BACS zur Stellungnahme ein, bevor er anordnet, dass das Bundesorgan die Vorkehren nach Artikel 8 DSG trifft.
+
+[^41-1]: Fassung gemäss Ziff. II 7 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 42
 

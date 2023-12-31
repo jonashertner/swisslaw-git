@@ -4,11 +4,11 @@ title: Ordinanza del 31 agosto 2022 sulla protezione dei dati (OPDa)
 short: OPDa
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/568"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2022-08-31
 in_force: 2023-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/568/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2022-568-20230901-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/568/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2022-568-20240101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20230901/it"
 
 (OPDa)
 
-del 31 agosto 2022 (Stato 1° settembre 2023)
+del 31 agosto 2022 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -572,11 +572,13 @@ L’IFPDT elabora un regolamento sul trattamento per tutti i trattamenti automat
 
 #### Art. 41
 
-**Cooperazione con il NCSC**
+**Cooperazione con l’Ufficio federale della cibersicurezza**[^41-1]
 
-<sup>1</sup> Con il consenso del titolare del trattamento soggetto all’obbligo di notifica, l’IFPDT può inoltrare la notifica di una violazione della sicurezza dei dati per un esame dell’evento al Centro nazionale per la cibersicurezza (NCSC). La comunicazione può contenere dati personali.
+<sup>1</sup> Con il consenso del titolare del trattamento soggetto all’obbligo di notifica, l’IFPDT può inoltrare la notifica di una violazione della sicurezza dei dati per un esame dell’evento all’Ufficio federale della cibersicurezza (UFCS). La comunicazione può contenere dati personali.
 
-<sup>2</sup> L’IFPDT invita il NCSC a prendere posizione prima di ordinare a un organo federale di adottare i provvedimenti di cui all’articolo 8 LPD.
+<sup>2</sup> L’IFPDT invita l’UFCS a prendere posizione prima di ordinare a un organo federale di adottare i provvedimenti di cui all’articolo 8 LPD.
+
+[^41-1]: Nuovo testo giusta il n. II 7 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
 
 #### Art. 42
 
