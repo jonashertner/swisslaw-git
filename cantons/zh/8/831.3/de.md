@@ -4,11 +4,11 @@ number: "831.3"
 title: Zusatzleistungsgesetz (ZLG)
 short: ZLG
 language: de
-version: "2022-01-01"
-nachtrag: "117"
-valid_until: 2024-01-01
+version: "2024-01-01"
+nachtrag: "123"
+valid_until: 2026-06-01
 adopted: 1971-02-07
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-831_3-1971_02_07-1971_01_01-117.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-831_3-1971_02_07-1971_01_01-123.html"
 text: pdf
 ---
 
@@ -43,13 +43,13 @@ beschliesst:
 
 **Verhältnis zum europäischen Recht**
 
-§ 1 a.<sup>14</sup> Für die in Art. 2 der Verordnung (EWG) Nr. 1408/71 bezeichneten Personen und in Bezug auf die in Art. 4 dieser Verordnung vorgesehenen Leistungen, soweit sie im Anwendungsbereich dieses Gesetzes liegen, gelten auch a. das Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft sowie ihren Mitgliedstaaten anderseits über die Freizügigkeit<sup>9</sup>, sein Anhang II und die Verordnung (EWG) Nr. 1408/71 und Nr. 574/72 in ihrer angepassten Fassung;
+§ 1 a.[^hErsterAbschnittAl-2] Für die in Art. 2 der Verordnung (EWG) Nr. 1408/71 bezeichneten Personen und in Bezug auf die in Art. 4 dieser Verordnung vorgesehenen Leistungen, soweit sie im Anwendungsbereich dieses Gesetzes liegen, gelten auch a. das Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft sowie ihren Mitgliedstaaten anderseits über die Freizügigkeit[^hErsterAbschnittAl-3], sein Anhang II und die Verordnung (EWG) Nr. 1408/71 und Nr. 574/72 in ihrer angepassten Fassung;
 
-- b. das Abkommen vom 21. Juni 2001 zur Änderung des Übereinkommens zur Errichtung der Europäischen Freihandelsassoziation<sup>10</sup>, sein Anhang O und Anlage 2 zu Anhang O sowie die Verordnungen Nr. 1408/71 und Nr. 574/72 in ihrer angepassten Fassung.
+- b. das Abkommen vom 21. Juni 2001 zur Änderung des Übereinkommens zur Errichtung der Europäischen Freihandelsassoziation[^hErsterAbschnittAl-4], sein Anhang O und Anlage 2 zu Anhang O sowie die Verordnungen Nr. 1408/71 und Nr. 574/72 in ihrer angepassten Fassung.
 
 **1**
 
-- 1\. 7. 22 - 117 § 2.<sup>15</sup> Die Durchführung obliegt den politischen Gemeinden und erfolgt unabhängig von der Sozialhilfe.
+- 1\. 1. 24 - 123 § 2.[^hErsterAbschnittAl-5] Die Durchführung obliegt den politischen Gemeinden und erfolgt unabhängig von der Sozialhilfe.
 
 **Durchführung**
 
@@ -58,6 +58,10 @@ beschliesst:
 § 2 a.<sup>32</sup> Die Gemeinden, die Sozialversicherungsanstalt (SVA) und die Fachorgane orientieren über die Voraussetzungen für den Bezug von Zusatzleistungen.
 
 [^hErsterAbschnittAl-1]: SR 831.3.
+[^hErsterAbschnittAl-2]: Eingefügt durch G vom 7. Juli 2003 (OS 58, 239). In Kraft seit 1. Januar 2004 (OS 58, 267).
+[^hErsterAbschnittAl-3]: SR 0.142.112.681.
+[^hErsterAbschnittAl-4]: SR 0.632.31.
+[^hErsterAbschnittAl-5]: Fassung gemäss G vom 7. Juli 2003 (OS 58, 239). In Kraft seit 1. Januar 2004 (OS 58, 267).
 
 ### Zweiter Abschnitt: Organisation
 
@@ -73,7 +77,7 @@ beschliesst:
 
 § 4.<sup>22</sup>
 
-§ 5.<sup>13</sup>
+§ 5.[^3-1]
 
 § 6.<sup>19</sup>
 
@@ -82,6 +86,8 @@ beschliesst:
 § 7. <sup>1</sup> Die Gemeinden haben dem Regierungsrat jährlich über die Durchführung Bericht zu erstatten und Rechnung abzulegen.
 
 <sup>2</sup> Die zuständige Direktion des Regierungsrates kann zusätzlich besondere statistische und rechnungsmässige Angaben verlangen. Sie ist überdies befugt, die für die Zusammenarbeit mit dem zentralen Rentenregister des Bundes nötigen Angaben über die Bezüger einzufordern.
+
+[^3-1]: Aufgehoben durch G über das Sozialversicherungsgericht vom 7. März 1993 (OS 52, 420). In Kraft seit 1. Januar 1995 (OS 53, 34).
 
 ### B. Aufgabenübertragung an die Sozialversicherungsanstalt<sup>17</sup>
 
@@ -131,15 +137,19 @@ beschliesst:
 
 ### A. Ergänzungsleistungen
 
-§ 8.<sup>26</sup>
+**Verhältnis zum SLBG**
+
+§ 8.<sup>39,</sup> <sup>26</sup> <sup>1</sup> Leistungen gemäss § 9 lit. b des Gesetzes über den selbstbestimmten Leistungsbezug durch Menschen mit Behinderung vom 28. Februar 2022 (SLBG)[^hAErgänzungsleistun-1] gehen den Leistungen für Begleitung und Betreuung nach Art. 14 ELG vor.
+
+**3**
+
+- 1\. 1. 24 - 123
+
+<sup>2</sup> Die individuelle Bedarfsermittlung gemäss §§ 12 und 13 SLBG ist bindend für Leistungen für Begleitung und Betreuung nach Art. 14 ELG.
 
 **Krankheits- und Behinderungskosten**
 
 § 9.<sup>25</sup> <sup>1</sup> Die Vergütung von Krankheits- und Behinderungskosten nach Art. 14 ELG ist beschränkt auf eine wirtschaftliche und zweckmässige Leistungserbringung.
-
-**3**
-
-- 1\. 7. 22 - 117
 
 <sup>2</sup> Die Ansätze nach Art. 14 Abs. 3–5 ELG gelten als Höchstbeträge.
 
@@ -165,6 +175,8 @@ beschliesst:
 
 <sup>2</sup> Überschreitet der in der Bedarfsberechnung ermittelte Anspruch den Betrag, der von der SVA gemäss Abs. 1 lit. b höchstens ausbezahlt wird, zahlt die Durchführungsstelle den Unterschied als Ergänzungsleistung aus.
 
+[^hAErgänzungsleistun-1]: LS 831.5.
+
 ### B. Beihilfen
 
 #### § 13
@@ -187,11 +199,13 @@ beschliesst:
 
 - c. Fr. 15 000 bei rentenberechtigten Waisen und bei Kindern, die einen Anspruch auf eine Kinderrente der AHV oder IV haben.
 
-§ 14.<sup>16</sup>
+§ 14.[^13-1]
 
 **Anwendbare Bestimmungen des ELG**
 
 § 15.<sup>25</sup> Die Vorschriften, die für die jährliche Ergänzungsleistung nach Art. 9 ff. ELG gelten, finden entsprechende Anwendung, soweit für die Beihilfe nichts Abweichendes bestimmt ist.
+
+[^13-1]: Aufgehoben durch G vom 7. Juli 2003 (OS 58, 239). In Kraft seit 1. Januar 2004 (OS 58, 267). 1. 1. 24 - 123 13
 
 #### § 16
 
@@ -201,9 +215,13 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat kann jeweils auf den Zeitpunkt einer Anpassung der Ergänzungsleistungen durch den Bund den Höchstbetrag der Beihilfen der Preisentwicklung anpassen. Massgebend ist der Landesindex der Konsumentenpreise.
 
+**5**
+
+- 1\. 1. 24 - 123 § 17.[^16-1] <sup>1</sup> Für die Berechnung der Beihilfe wird auf die Bedarfsrechnung für die jährliche Ergänzungsleistung abgestellt, wobei
+
 **Berechnung der Beihilfe**
 
-§ 17.<sup>15</sup> <sup>1</sup> Für die Berechnung der Beihilfe wird auf die Bedarfsrechnung für die jährliche Ergänzungsleistung abgestellt, wobei a. die tatsächlich ausgerichteten Ergänzungsleistungen als anrechenbare Einnahmen behandelt werden;
+- a. die tatsächlich ausgerichteten Ergänzungsleistungen als anrechenbare Einnahmen behandelt werden;
 
 - b. der Betrag für den allgemeinen Lebensbedarf bei zu Hause wohnenden Personen um den Höchstbetrag der Beihilfe erhöht wird.
 
@@ -211,11 +229,9 @@ beschliesst:
 
 § 17 a.<sup>33</sup>
 
-**5**
-
-- 1\. 7. 22 - 117 § 18.<sup>32</sup> Die Beihilfe kann gekürzt oder verweigert werden, soweit sie für den Unterhalt nicht benötigt wird.
-
 **Fehlender Bedarf**
+
+§ 18.<sup>32</sup> Die Beihilfe kann gekürzt oder verweigert werden, soweit sie für den Unterhalt nicht benötigt wird.
 
 **Rückerstattung**
 
@@ -231,10 +247,11 @@ beschliesst:
 
 <sup>4</sup> Rückerstattungsansprüche verjähren nach Ablauf von fünf Jahren, seitdem das mit der Durchführung betraute Organ von ihrem Entstehen Kenntnis erhalten hat, in jedem Fall aber nach Ablauf von zehn Jahren seit der letzten Beihilfezahlung.
 
-<sup>5</sup> Unrechtmässig bezogene Beihilfen sind zurückzuerstatten. Art. 25 Abs. 1 und 2 des Bundesgesetzes vom 6. Oktober 2000 über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG)[^16-1] sowie Art. 2–5 der Verordnung vom 11. September 2002 über den Allgemeinen Teil des Sozialversicherungsrechts[^16-2] finden sinngemäss Anwendung.<sup>35</sup>
+<sup>5</sup> Unrechtmässig bezogene Beihilfen sind zurückzuerstatten. Art. 25 Abs. 1 und 2 des Bundesgesetzes vom 6. Oktober 2000 über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG)[^16-2] sowie Art. 2–5 der Verordnung vom 11. September 2002 über den Allgemeinen Teil des Sozialversicherungsrechts[^16-3] finden sinngemäss Anwendung.<sup>35</sup>
 
-[^16-1]: SR 830.1.
-[^16-2]: SR 830.11.
+[^16-1]: Fassung gemäss G vom 7. Juli 2003 (OS 58, 239). In Kraft seit 1. Januar 2004 (OS 58, 267).
+[^16-2]: SR 830.1.
+[^16-3]: SR 830.11.
 
 ### C. Zuschüsse<sup>24</sup>
 
@@ -274,19 +291,17 @@ der Gemeinden<sup>25</sup>
 
 <sup>3</sup> . . .<sup>22,</sup> <sup>26</sup>
 
-**Betrag für die obligatorische Krankenpflegeversicherung a. Aufgaben der Durchführungsstellen**
+**7**
 
-§ 21 a.<sup>36</sup> <sup>1</sup> Die Durchführungsstellen melden der SVA die Angaben, die gemäss Weisung der zuständigen Direktion des Regierungsrates für die Auszahlung des Betrags für die obligatorische Krankenpflegeversicherung erforderlich sind. Dazu gehören neben den Angaben gemäss Bundesrecht insbesondere:
+- 1\. 1. 24 - 123 § 21 a.<sup>36</sup> <sup>1</sup> Die Durchführungsstellen melden der SVA die Angaben, die gemäss Weisung der zuständigen Direktion des Regierungsrates für die Auszahlung des Betrags für die obligatorische Krankenpflegeversicherung erforderlich sind. Dazu gehören neben den Angaben gemäss Bundesrecht insbesondere:
+
+**Betrag für die obligatorische Krankenpflegeversicherung a. Aufgaben der Durchführungsstellen**
 
 - a. mindestens monatlich der Anspruch jeder in die Bedarfsberechnung einbezogenen Person gemäss Art. 21 a ELG,
 
 - b. mindestens jährlich der gesamte Bestand der berechtigten Personen.
 
 <sup>2</sup> Die SVA kann die elektronische Übermittlung der Daten in einer einheitlichen Form verlangen. Die zuständige Direktion des Regierungsrates regelt die Einzelheiten. Sie hört vorgängig die Gemeinden, den Fachverband für Zusatzleistungen und die SVA an.
-
-**7**
-
-- 1\. 7. 22 - 117
 
 <sup>3</sup> Die Durchführungsstellen a. geben der SVA die Angaben bekannt, die für die Auszahlung gemäss Art. 21 a ELG erforderlich sind,
 
@@ -320,15 +335,18 @@ der Gemeinden<sup>25</sup>
 
 <sup>2</sup> Die zuständige Gemeinde oder bei Vorliegen einer Anschlussvereinbarung gemäss § 7 a die SVA<sup>32</sup> richtet die Zusatzleistungen in monatlichen Raten des Jahresbetreffnisses aus.<sup>18</sup>
 
-<sup>3</sup> Im Übrigen richtet sich die Auszahlung der Zusatzleistungen nach dem Ergänzungsleistungsrecht des Bundes.<sup>14</sup>
+<sup>3</sup> Im Übrigen richtet sich die Auszahlung der Zusatzleistungen nach dem Ergänzungsleistungsrecht des Bundes.[^22-1]
 
 **Sicherung und Gewährleistung zweckgemässer Verwendung**
 
-§ 23.<sup>15</sup> <sup>1</sup> Die Sicherung und Gewährleistung der Zusatzleistungen und ihre Auszahlung an Dritte richtet sich nach dem Ergänzungsleistungsrecht des Bundes.
+§ 23.[^22-2] <sup>1</sup> Die Sicherung und Gewährleistung der Zusatzleistungen und ihre Auszahlung an Dritte richtet sich nach dem Ergänzungsleistungsrecht des Bundes.
 
 <sup>2</sup> Zusatzleistungen dürfen nicht mit Steuern oder öffentlichen Abgaben verrechnet werden.
 
 <sup>3</sup> Die Durchführungsorgane der Gemeinden können die Zusatzleistungen in besonderen Fällen selber für die Befriedigung dringender Lebensbedürfnisse des Berechtigten verwenden.
+
+[^22-1]: Eingefügt durch G vom 7. Juli 2003 (OS 58, 239). In Kraft seit 1. Januar 2004 (OS 58, 267).
+[^22-2]: Fassung gemäss G vom 7. Juli 2003 (OS 58, 239). In Kraft seit 1. Januar 2004 (OS 58, 267).
 
 ### Fünfter Abschnitt: Verfahren
 
@@ -359,9 +377,13 @@ der Gemeinden<sup>25</sup>
 
 § 30.<sup>22</sup>
 
-§ 31.<sup>13</sup>
+**9**
+
+- 1\. 1. 24 - 123 § 31.[^hSechsterAbschnitt-1]
 
 § 32.<sup>22</sup>
+
+[^hSechsterAbschnitt-1]: Aufgehoben durch G über das Sozialversicherungsgericht vom 7. März 1993 (OS 52, 420). In Kraft seit 1. Januar 1995 (OS 53, 34).
 
 ### Siebenter Abschnitt: Finanzierung
 
@@ -375,11 +397,9 @@ der Gemeinden<sup>25</sup>
 
 <sup>3</sup> Die Gemeinden tragen die durch sie verursachten Kürzungen des Bundesbeitrages an die Verwaltungskosten gemäss Art. 24 Abs. 2 ELG. Der Regierungsrat regelt die Einzelheiten.<sup>35</sup>
 
-**9**
-
-- 1\. 7. 22 - 117 § 34.<sup>37</sup> <sup>1</sup> Der Kanton leistet den Gemeinden einen Kostenanteil von 70% an den anrechenbaren Teil der von ihnen ausbezahlten Zusatzleistungen. Anrechenbar sind höchstens 125% der durchschnittlichen Bruttokosten pro Kopf der Gesamtbevölkerung.
-
 **Beiträge des Kantons**
+
+§ 34.<sup>37</sup> <sup>1</sup> Der Kanton leistet den Gemeinden einen Kostenanteil von 70% an den anrechenbaren Teil der von ihnen ausbezahlten Zusatzleistungen. Anrechenbar sind höchstens 125% der durchschnittlichen Bruttokosten pro Kopf der Gesamtbevölkerung.
 
 <sup>2</sup> Der Kanton kürzt oder verweigert den Kostenanteil für Zusatzleistungen, die vorschriftswidrig ausbezahlt oder gegenüber dem Kanton nicht richtig abgerechnet wurden.<sup>38</sup>
 
@@ -387,7 +407,9 @@ der Gemeinden<sup>25</sup>
 
 § 35.<sup>27</sup>
 
-§ 36.<sup>12</sup>
+§ 36.[^33-1]
+
+[^33-1]: Aufgehoben durch Staatsbeitragsgesetz vom 1. April 1990 (OS 51, 77). In Kraft seit 1. Januar 1991 (OS 51, 350).
 
 ### Achter Abschnitt: Strafbestimmungen
 
@@ -445,11 +467,11 @@ Die zuständige Direktion des Regierungsrates erlässt die erforderlichen Weisun
 
 <sup>3</sup> Vorbehalten bleiben in jedem Fall die gemäss den §§ 9 bis 11 von Gesetzes wegen eintretenden Anpassungen an das Bundesrecht.
 
-#### § 43
+**11**
+
+- 1\. 1. 24 - 123 § 43. <sup>1</sup> Personen, die keine Rente der eidgenössischen Altersversicherung erhalten und beim Inkrafttreten dieses Gesetzes die Altersbeihilfe beziehen, steht weiterhin ein Anspruch auf Altersbeihilfe zu, sofern und solange die übrigen Bezugsvoraussetzungen gegeben sind.
 
 **Wahrung bisheriger Rechte**
-
-<sup>1</sup> Personen, die keine Rente der eidgenössischen Altersversicherung erhalten und beim Inkrafttreten dieses Gesetzes die Altersbeihilfe beziehen, steht weiterhin ein Anspruch auf Altersbeihilfe zu, sofern und solange die übrigen Bezugsvoraussetzungen gegeben sind.
 
 <sup>2</sup> Ist für Personen, die beim Inkrafttreten dieses Gesetzes eine Beihilfe beziehen, die Summe der Ansprüche auf Renten der eidgenössischen Alters-, Hinterlassenen- und Invalidenversicherung nach dem Bundesgesetz über eine Erhöhung der Renten der Alters-, Hinterlassenen- und Invalidenversicherung vom 24. September 1970 und den nach diesem Gesetz ermittelten kantonalrechtlichen Zusatzleistungen kleiner als die Summe aus kantonalrechtlichen Zusatzleistungen und Renten alter Ordnung, wird die Differenz als Beihilfe gewährt, sofern und solange ihre persönlichen oder wirtschaftlichen Verhältnisse zu keiner Änderung ihres Leistungsanspruches führen.
 
@@ -459,11 +481,13 @@ Die zuständige Direktion des Regierungsrates erlässt die erforderlichen Weisun
 
 Durch dieses Gesetz werden das Gesetz über die Zusatzleistungen zur eidgenössischen Alters-, Hinterlassenen- und Invalidenversicherung vom 1. Juni 1969 sowie die darauf beruhenden Vollziehungsvorschriften aufgehoben.
 
-**11**
+[^44-1]: Vom Eidgenössischen Departement des Innern genehmigt.
 
-- 1\. 7. 22 - 117 § 45. Dieses Gesetz tritt, sofern die Stimmberechtigten es annehmen, nach dem Kantonsratsbeschluss über die Erwahrung am Tage nach der amtlichen Veröffentlichung der Genehmigung der die Ergänzungsleistungen betreffenden Vorschriften durch den Bund<sup>11</sup> mit Wirkung ab 1. Januar 1971 in Kraft.
+#### § 45
 
 **Inkrafttreten**
+
+Dieses Gesetz tritt, sofern die Stimmberechtigten es annehmen, nach dem Kantonsratsbeschluss über die Erwahrung am Tage nach der amtlichen Veröffentlichung der Genehmigung der die Ergänzungsleistungen betreffenden Vorschriften durch den Bund[^44-1] mit Wirkung ab 1. Januar 1971 in Kraft.
 
 ### Übergangsbestimmungen zur Änderung vom 8. Januar 2007
 
@@ -476,22 +500,6 @@ Die Zuständigkeit für die Beurteilung der im Zeitpunkt des Inkrafttretens hän
 (OS 75, 536)
 
 Für Bezügerinnen und Bezüger von Zusatzleistungen, für die während der dreijährigen Übergangsfrist gemäss den Übergangsbestimmungen zur Änderung vom 22. März 2019 des ELG das bisherige Bundesrecht gilt, entspricht der Mindestanspruch auf Ergänzungsleistungen während der Übergangsfrist dem Betrag gemäss Art. 10 Abs. 3 Bst. d ELG in der Fassung bis zum Inkrafttreten der Änderung vom 22. März 2019. Die Durchführungsstellen melden der SVA während der Übergangsfrist den monatlichen Pauschalbetrag für die obligatorische Krankenpflegeversicherung für diese Personen.
-
-<sup>9</sup> SR 0.142.112.681.
-
-<sup>10</sup> SR 0.632.31.
-
-<sup>11</sup> Vom Eidgenössischen Departement des Innern genehmigt.
-
-<sup>12</sup> Aufgehoben durch Staatsbeitragsgesetz vom 1. April 1990 (OS 51, 77). In Kraft seit 1. Januar 1991 (OS 51, 350).
-
-<sup>13</sup> Aufgehoben durch G über das Sozialversicherungsgericht vom 7. März 1993 (OS 52, 420). In Kraft seit 1. Januar 1995 (OS 53, 34).
-
-<sup>14</sup> Eingefügt durch G vom 7. Juli 2003 (OS 58, 239). In Kraft seit 1. Januar 2004 (OS 58, 267).
-
-<sup>15</sup> Fassung gemäss G vom 7. Juli 2003 (OS 58, 239). In Kraft seit 1. Januar 2004 (OS 58, 267).
-
-<sup>16</sup> Aufgehoben durch G vom 7. Juli 2003 (OS 58, 239). In Kraft seit 1. Januar 2004 (OS 58, 267).
 
 <sup>17</sup> Eingefügt durch G vom 29. November 2004 (OS 60, 82). In Kraft seit 1. April 2005.
 
@@ -519,10 +527,6 @@ Für Bezügerinnen und Bezüger von Zusatzleistungen, für die während der drei
 
 <sup>29</sup> Fassung gemäss Pflegegesetz vom 27. September 2010 (OS 65, 613; ABl 2010, 918). In Kraft seit 1. Januar 2011.
 
-**13**
-
-- 1\. 7. 22 - 117
-
 <sup>30</sup> Fassung gemäss Einführungsgesetz zum Kindes- und Erwachsenenschutzrecht vom 25. Juni 2012 (OS 67, 443; ABl 2011, 2567). In Kraft seit 1. Januar 2013.
 
 <sup>31</sup> Eingefügt durch G vom 14. Januar 2013 (OS 68, 487; ABl 2012, 520). In Kraft seit 1. Januar 2014.
@@ -541,6 +545,8 @@ Für Bezügerinnen und Bezüger von Zusatzleistungen, für die während der drei
 
 <sup>38</sup> Fassung gemäss Berichtigung vom 25. Mai 2022 (OS 77, 246). In Kraft seit 1. Januar 2022.
 
-## Weitere Fussnoten
+<sup>39</sup> Eingefügt durch Selbstbestimmungsgesetz vom 28. Febuar 2022 (OS 78, 81; ABl 2021-04-09). In Kraft seit 1. Januar 2024.
 
-- [2] LS 832.01.
+**15**
+
+- 1\. 1. 24 - 123
