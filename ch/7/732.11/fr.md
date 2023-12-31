@@ -4,11 +4,11 @@ title: "Ordonnance du 10 décembre 2004 sur l'énergie nucléaire (OENu)"
 short: OENu
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/68"
 language: fr
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2004-12-10
 in_force: 2005-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-68-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-68-20240101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20220101/fr"
 
 (OENu)
 
-du 10 décembre 2004 (Etat le 1<sup>er</sup> janvier 2022)
+du 10 décembre 2004 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -623,6 +623,17 @@ Il doit établir des appréciations systématiques:
 
 [^33-1]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
+#### Art. 33a
+
+**Contrôles de fiabilité**[^33a-1]
+
+<sup>1</sup> Les contrôles de fiabilité périodiques des personnes exerçant des fonctions essentielles pour la sécurité nucléaire et pour la sûreté de l’installation nucléaire sont régis par l’ordonnance du 8 novembre 2023 sur les contrôles de sécurité relatifs aux personnes (OCSP)[^33a-2].
+
+<sup>2</sup> Les coûts du contrôle sont à la charge du service qui demande le contrôle visé à l’art. 15, al. 4, let. a, OCSP.
+
+[^33a-1]: Introduit par l’annexe 8 ch. II 7 de l’O du 8 nov. 2023 sur les contrôles de sécurité relatifs aux personnes, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^33a-2]: [RS 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+
 #### Art. 34
 
 **Réexamen approfondi de la sécurité des centrales nucléaires**[^34-1]
@@ -1056,8 +1067,11 @@ L’office est compétent pour octroyer:
 
 <sup>2</sup> La compétence particulière visée à l’art. 11, al. 2, let. f, ORaP[^55-1] est réservée.[^55-2]
 
+<sup>3</sup> Le département est compétent pour conclure la convention internationale visée à l’art. 34, al. 3, let. a, LENu en vue de l’exportation de déchets de faible ou de moyenne activité à des fins de conditionnement.[^55-3]
+
 [^55-1]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
 [^55-2]: Introduit par le ch. I de l’O du 7 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
+[^55-3]: Introduit par le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 765](https://fedlex.data.admin.ch/eli/oc/2023/765)).
 
 #### Art. 56
 
@@ -1392,7 +1406,7 @@ L’IFSN peut prolonger sur demande jusqu’à fin 2019 au maximum le délai de 
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> février 2005.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 4)
 
@@ -1417,7 +1431,7 @@ Dans la présente ordonnance, on entend par:
 
 [^annex1-lvlu1-1]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 9, al. 2)
 
@@ -1429,7 +1443,7 @@ Annexe 2*[^t-2]*
 
 Il convient d’aménager des zones et des aires de sûreté ainsi que des barrières de sûreté, échelonnées selon le schéma ci-dessous:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20220101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20240101/fr/xml/image/image1.png)
 
 Les différentes barrières de sûreté ont les fonctions suivantes:
 
@@ -1482,7 +1496,7 @@ Leur *utilisation et* leur *stockage* seront opérés dans un secteur dont l’a
 
 Leur *transport* sera opéré en prenant des précautions spéciales comprenant des arrangements préalables entre l’expéditeur, le destinataire et le transporteur, et un accord préalable entre les organismes soumis à la juridiction et à la réglementation des États fournisseur et destinataire dans le cas d’un transport international, accord qui précisera l’heure, le lieu et les règles du transfert de la responsabilité.
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 28 et 41)
 
@@ -1661,7 +1675,7 @@ Les structures sont réparties en deux classes de structures nucléaires selon l
 - a. Classe I: structures comportant des équipements mécaniques ou électriques de la classe sismique I.
 - b. Classe II: structures comportant des équipements mécaniques de la classe sismique II ou non classifiés par rapport au séisme.
 
-Annexe 5*[^t-4]*
+Annexe 5[^t-4]
 
 (art. 37)
 
@@ -1686,7 +1700,7 @@ Annexe 5*[^t-4]*
 <tr><td>Liste des modifications de l’installation à prendre en compte dans l’APS</td><td>Rapport des centrales nucléaires donnant la liste des modifications apportées à l’installation qui pourraient jouer un rôle dans l’APS mais n’ont pas encore été prises en compte dans le modèle d’APS. À rendre au plus tard le 1<sup>er</sup> mars de l’année suivante.</td><td>Année civile</td></tr>
 </table>
 
-Annexe 6*[^t-5]*
+Annexe 6[^t-5]
 
 (art. 21 et 38)
 

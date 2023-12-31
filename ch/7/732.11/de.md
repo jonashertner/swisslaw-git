@@ -4,11 +4,11 @@ title: Kernenergieverordnung vom 10. Dezember 2004 (KEV)
 short: KEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/68"
 language: de
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2004-12-10
 in_force: 2005-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2005-68-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2005-68-20240101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20220101/de"
 
 (KEV)
 
-vom 10. Dezember 2004 (Stand am 1. Januar 2022)
+vom 10. Dezember 2004 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -623,6 +623,17 @@ Er hat systematische Sicherungsbewertungen für die folgenden Gebiete zu erstell
 
 [^33-1]: Fassung gemäss Anhang Ziff. 12 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
+#### Art. 33a
+
+**Zuverlässigkeitskontrollen**[^33a-1]
+
+<sup>1</sup> Die periodischen Zuverlässigkeitskontrollen von Personen, die Funktionen ausüben, die für die nukleare Sicherheit und die Sicherung der Kernanlage wesentlich sind, sind in der Verordnung vom 8. November 2023[^33a-2] über die Personensicherheitsprüfung (VPSP) geregelt.
+
+<sup>2</sup> Die Kosten für die Prüfung trägt die einleitende Stelle nach Artikel 15 Absatz 4 Buchstabe a VPSP.
+
+[^33a-1]: Eingefügt durch Anhang 8 Ziff. II 7 der V vom 8. Nov. 2023 über die Personensicherheitsprüfungen, in Kraft seit 1. Jan. 2024 ([AS 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^33a-2]: [SR 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+
 #### Art. 34
 
 **Umfassende Sicherheitsüberprüfung für Kernkraftwerke**[^34-1]
@@ -1056,8 +1067,11 @@ Das Bundesamt ist zuständig für die Erteilung:
 
 <sup>2</sup> Die besondere Zuständigkeit von Artikel 11 Absatz 2 Buchstabe f StSV[^55-1] bleibt vorbehalten.[^55-2]
 
+<sup>3</sup> Das Departement ist zuständig für den Abschluss der völkerrechtlichen Vereinbarung nach Artikel 34 Absatz 3 Buchstabe a KEG bei der Ausfuhr von schwach- und mittelaktiven Abfällen zur Konditionierung.[^55-3]
+
 [^55-1]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
 [^55-2]: Eingefügt durch Ziff. I der V vom 7. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
+[^55-3]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 (AS **20****23** 765).
 
 #### Art. 56
 
@@ -1392,7 +1406,7 @@ Das ENSI kann die Frist zur Eingabe der PSÜ mit Sicherheitsnachweis für den La
 
 Diese Verordnung tritt am 1. Februar 2005 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 4)
 
@@ -1417,7 +1431,7 @@ In dieser Verordnung bedeuten:
 
 [^annex1-lvlu1-1]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 9 Abs. 2)
 
@@ -1429,7 +1443,7 @@ Anhang 2*[^t-2]*
 
 Die Anordnung der für die Sicherung relevanten Zonen bzw. Areale und Sicherungsschranken hat abgestuft gemäss folgendem Schema zu erfolgen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20220101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20240101/de/xml/image/image1.png)
 
 Die verschiedenen Sicherungsschranken haben folgende Funktionen:
 
@@ -1481,7 +1495,7 @@ Material in dieser Kategorie ist mit äusserst zuverlässigen Systemen wie folgt
 
 *Beförderung* unter besonderen Vorsichtsmassregeln einschliesslich vorheriger Absprachen zwischen Absender, Empfänger und Beförderer sowie vorheriger Vereinbarung zwischen den der Hoheitsgewalt und Regelungsbefugnis der Liefer- bzw. Empfängerstaaten unterstehenden Rechtsträgern bei grenzüberschreitendem Transport hinsichtlich des Zeitpunkts, des Ortes und des Verfahrens für den Übergang der Verantwortung für den Transport.
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 28 und 41)
 
@@ -1665,7 +1679,7 @@ Die Bauwerke werden aufgrund ihrer Bedeutung für die nukleare Sicherheit und de
 - a. BK I: Bauwerke, in denen mechanische und elektrische Ausrüstungen der EK I eingebaut sind;
 - b. BK II: Bauwerke, in denen mechanische Ausrüstungen der EK II oder für Erdbeben nicht klassierte Ausrüstungen eingebaut sind.
 
-Anhang 5*[^t-4]*
+Anhang 5[^t-4]
 
 (Art. 37)
 
@@ -1690,7 +1704,7 @@ Anhang 5*[^t-4]*
 <tr><td>Liste der PSA-relevanten Anlagenänderungen</td><td>Bericht der Kernkraftwerke mit einer Liste der Anlagenänderungen, welche für die PSA relevant sein könnten, aber noch nicht im PSA-Modell berücksichtigt wurden. Einzureichen bis spätestens zum 1. März des folgenden Jahres.</td><td>Kalenderjahr</td></tr>
 </table>
 
-Anhang 6*[^t-5]*
+Anhang 6[^t-5]
 
 (Art. 21 und 38)
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 10 dicembre 2004 sull'energia nucleare (OENu)"
 short: OENu
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/68"
 language: it
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2004-12-10
 in_force: 2005-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2005-68-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2005-68-20240101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20220101/it"
 
 (OENu)
 
-del 10 dicembre 2004 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 10 dicembre 2004 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -623,6 +623,17 @@ Deve allestire valutazioni sistematiche della sicurezza esterna nei seguenti set
 
 [^33-1]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
+#### Art. 33a
+
+**Controlli di affidabilità**[^33a-1]
+
+<sup>1</sup> I controlli periodici di affidabilità di persone impiegate in funzioni essenziali per la sicurezza interna ed esterna degli impianti nucleari sono disciplinati nell’ordinanza dell’8 novembre 2023[^33a-2] sul controllo di sicurezza relativo alle persone (OCSP).
+
+<sup>2</sup> I costi del controllo sono assunti dal servizio promotore di cui all’articolo 15 capoverso 4 lettera a OCSP.
+
+[^33a-1]: Introdotto dall’all. 8 n. II 7 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^33a-2]: [RS 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+
 #### Art. 34
 
 **Verifica approfondita della sicurezza nelle centrali nucleari**[^34-1]
@@ -1056,8 +1067,11 @@ L’Ufficio federale è competente per il rilascio:
 
 <sup>2</sup> La competenza speciale di cui all’articolo 11 capoverso 2 lettera f ORaP[^55-1] è fatta salva.[^55-2]
 
+<sup>3</sup> Il Dipartimento è competente della conclusione dell’accordo internazionale di cui all’articolo 34 capoverso 3 lettera a LENu in caso di esportazione di scorie a bassa e media attività a scopo di condizionamento.[^55-3]
+
 [^55-1]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
 [^55-2]: Introdotto dal n. I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
+[^55-3]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 (RU **20****23** 765).
 
 #### Art. 56
 
@@ -1392,7 +1406,7 @@ Su richiesta, l’IFSN può prorogare al massimo fino alla fine del 2019 il term
 
 La presente ordinanza entra in vigore il 1° febbraio 2005.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 4)
 
@@ -1417,7 +1431,7 @@ Nella presente ordinanza, s’intende per:
 
 [^annex1-lvlu1-1]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 9 cpv. 2)
 
@@ -1429,7 +1443,7 @@ Allegato 2*[^t-2]*
 
 La disposizione delle zone o aree e delle barriere rilevanti per la sicurezza esterna deve avvenire in maniera scaglionata secondo il seguente schema:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20220101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20240101/it/xml/image/image1.png)
 
 Le diverse barriere di sicurezza esterna assolvono le seguenti funzioni:
 
@@ -1482,7 +1496,7 @@ Utilizzazione *e immagazzinamento* all’interno di una zona il cui accesso è c
 
 *Trasporto* nel rispetto di speciali precauzioni comprendenti accordi prestabiliti tra il mittente, il destinatario e il trasportatore, nonché, nel caso di un trasporto internazionale, un accordo prestabilito tra soggetti di diritto che sottostanno alla sovranità e alla competenza normativa degli Stati mittenti e destinatari specificante l’ora, il luogo e la procedura di trasferimento della responsabilità del trasporto.
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 28 e 41)
 
@@ -1673,7 +1687,7 @@ Le costruzioni vengono suddivise in due classi di fabbricati nucleari (BK) in fu
 - a. BK I: fabbricati in cui sono integrati equipaggiamenti elettrici e meccanici della CT I;
 - b. BK II: fabbricati in cui sono integrati equipaggiamenti elettrici e meccanici della CT II o non classificati per i terremoti.
 
-Allegato 5*[^t-4]*
+Allegato 5[^t-4]
 
 (art. 37)
 
@@ -1698,7 +1712,7 @@ Allegato 5*[^t-4]*
 <tr><td>Elenco delle modifiche dell’impianto rilevanti per l’APS</td><td>Rapporto delle centrali nucleari con un elenco delle modifiche dell’impianto che potrebbero essere rilevanti per l’APS, ma non ancora considerate dal modello APS. Da inoltrare al più tardi entro il 1° marzo dell’anno successivo.</td><td>Anno civile</td></tr>
 </table>
 
-Allegato 6*[^t-5]*
+Allegato 6[^t-5]
 
 (art. 21 e 38)
 

@@ -4,11 +4,11 @@ title: Nuclear Energy Ordinance of 10 December 2004 (NEO)
 short: NEO
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/68"
 language: en
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2004-12-10
 in_force: 2005-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2005-68-20220101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2005-68-20240101-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (NEO)
 
-of 10 December 2004 (Status as of 1 January 2022)
+of 10 December 2004 (Status as of 1 January 2024)
 
 The Federal Council,
 
@@ -625,6 +625,17 @@ The licence holder must carry out systematic security assessments for the follow
 
 [^33-1]: Amended by Annex No 12 of the O of 12 Nov. 2008 on the Swiss Federal Nuclear Safety Inspectorate, in force since 1 Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
+#### Art. 33a
+
+**Reliability assessments**[^33a-1]
+
+<sup>1</sup> The regular reliability assessments on persons who carry out functions that are essential for nuclear safety and the security of the nuclear installation are governed by the Ordinance of 8 November 2023[^33a-2] on Personnel Security Screening (PSSO).
+
+<sup>2</sup> The costs of the assessments are borne by the instigating body in accordance with Article 15 paragraph 4 letter a PSSO.
+
+[^33a-1]: Inserted by Annex 8 No II 7 of the O of 8 Nov. 2023 on Personnel Security Screening, in force since 1 Jan. 2024 ([AS 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^33a-2]: [SR 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+
 #### Art. 34
 
 **Comprehensive safety reviews for nuclear power plants**[^34-1]
@@ -1057,8 +1068,11 @@ The Federal Office is the competent authority for:
 - b. approving the agreement concerning the return of radioactive waste in accordance with Article 34 paragraph 3 letter d and paragraph 4 of the Nuclear Energy Act.
 - [tab] <sup>2</sup> The special competence under Article 11 paragraph 2 letter f RPO[^55-1] is reserved.[^55-2]
 
+<sup>3</sup> The Department is responsible for concluding the agreement under international law in accordance with Article 34 paragraph 3 letter a NEA in the case of the export of low and intermediate-level waste for conditioning purposes.[^55-3]
+
 [^55-1]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
 [^55-2]: Inserted by No I of the O of 7 Dec. 2018, in force since 1 Feb. 2019 ([AS 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
+[^55-3]: Inserted by No I of the O of 29 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 765](https://fedlex.data.admin.ch/eli/oc/2023/765)).
 
 #### Art. 56
 
@@ -1393,7 +1407,7 @@ ENSI may on request extend the deadline for submission of the PSR with proof of 
 
 This Ordinance comes into force on 1 February 2005.
 
-Annex 1*[^t-1]*
+Annex 1[^t-1]
 
 (Art. 4)
 
@@ -1418,7 +1432,7 @@ In this Ordinance:
 
 [^annex1-lvlu1-1]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
 
-Annex 2*[^t-2]*
+Annex 2[^t-2]
 
 (Art. 9, para. 2)
 
@@ -1430,7 +1444,7 @@ Annex 2*[^t-2]*
 
 The arrangement of security zones, areas and barriers must be based on the following model:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20220101/en/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20240101/en/xml/image/image1.png)
 
 The various security barriers perform the following functions:
 
@@ -1483,7 +1497,7 @@ Material in this category must be protected against unauthorised removal with ex
 
 *Movement of nuclear material* in accordance with special precautionary measures, including prior arrangements between sender, recipient and carrier, plus prior agreement between the legal entities subject to the jurisdiction and regulatory authorities of the country of origin and destination for cross-border transport, concerning the time, place and procedure for the transfer of responsibility for the consignment.
 
-Annex 3*[^t-3]*
+Annex 3[^t-3]
 
 (Art. 28 and 41)
 
@@ -1662,7 +1676,7 @@ In view of their significance for nuclear safety and radiation protection, build
 - a. BC I: buildings in which mechanical and electrical equipment classified in earthquake class I is installed;
 - b. BC II: buildings in which mechanical equipment classified in earthquake class II or equipment that is not classified for earthquakes, is installed.
 
-Annex 5*[^t-4]*
+Annex 5[^t-4]
 
 (Art. 37)
 
@@ -1687,7 +1701,7 @@ Annex 5*[^t-4]*
 <tr><td>List of PSA-relevant modifications to the installation</td><td>Report by nuclear power plants with a list of modifications to the installation that could be of relevance to the PSA but have not yet been incorporated into the PSA model. Reports must be submitted by 1 March the following year.</td><td>Calendar year</td></tr>
 </table>
 
-Annex 6*[^t-5]*
+Annex 6[^t-5]
 
 (Art. 21 and 38)
 
@@ -1759,6 +1773,8 @@ Annex 7
 
 The following ordinances are amended as indicated:
 
-…[^annex7-lvlu1-1]
+### …
 
-[^annex7-lvlu1-1]: The amendments may be consulted under [AS 2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68).
+[^annex7-lvlu1-lvlu1-1]
+
+[^annex7-lvlu1-lvlu1-1]: The amendments may be consulted under [AS 2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68).
