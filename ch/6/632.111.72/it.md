@@ -3,18 +3,18 @@ sr: "632.111.72"
 title: "Legge federale del 15 dicembre 2017 sull'importazione di prodotti agricoli trasformati"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/629"
 language: it
-version: 2019-01-01
+version: 2024-01-01
 adopted: 2017-12-15
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/629/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2018-629-20190101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/629/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/629/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2018-629-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/629/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sull’importazione di prodotti agricoli trasformati
 
-del 15 dicembre 2017 (Stato 1° gennaio 2019)
+del 15 dicembre 2017 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -27,9 +27,11 @@ decreta:
 
 #### Art. 1
 
-**Dazi all’importazione**
+**Dazi all’importazione**[^1-1]
 
-Per i prodotti agricoli trasformati il Consiglio federale può, dopo aver sentito la commissione di periti doganali da esso istituita, stabilire le aliquote doganali enucleando un elemento di protezione industriale e aumentandolo degli elementi tariffali mobili.
+Per i prodotti agricoli trasformati il Consiglio federale può, dopo aver sentito la Commissione per la politica economica da esso istituita, stabilire le aliquote doganali enucleando un elemento di protezione industriale e aumentandolo degli elementi tariffali mobili.
+
+[^1-1]: Nuovo testo giusta il n. I 2 dell’O del 9 dic. 2022 sull’adeguamento di leggi in seguito alla verifica del 2022 delle commissioni extraparlamentari, in vigore dal 1° gen. 2024 ([RU 2022 843](https://fedlex.data.admin.ch/eli/oc/2022/843)).
 
 #### Art. 2
 

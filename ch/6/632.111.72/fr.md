@@ -3,18 +3,18 @@ sr: "632.111.72"
 title: "Loi fédérale du 15 décembre 2017 sur l'importation de produits agricoles transformés"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/629"
 language: fr
-version: 2019-01-01
+version: 2024-01-01
 adopted: 2017-12-15
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/629/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-629-20190101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/629/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/629/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-629-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/629/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur l’importation de produits agricoles transformés
 
-du 15 décembre 2017 (Etat le 1<sup>er</sup> janvier 2019)
+du 15 décembre 2017 (État le 1<sup>er</sup> janvier 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -27,9 +27,11 @@ arrête:
 
 #### Art. 1
 
-**Droits de douane à l’importation**
+**Droits de douane à l’importation**[^1-1]
 
-Pour les produits agricoles transformés, le Conseil fédéral peut, après avoir entendu la commission d’experts douaniers instituée par lui, fixer les taux des droits de sorte à dégager un élément de protection industrielle et à majorer celui-ci d’éléments mobiles.
+Pour les produits agricoles transformés, le Conseil fédéral peut, après avoir entendu la Commission de la politique économique instituée par lui, fixer les taux des droits de sorte à dégager un élément de protection industrielle et à majorer celui-ci d’éléments mobiles.
+
+[^1-1]: Nouvelle teneur selon le ch. I 2 de l’O du 9 déc. 2022 portant adaptation de lois à la suite du réexamen de 2022 des commissions extraparlementaires, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 843](https://fedlex.data.admin.ch/eli/oc/2022/843)).
 
 #### Art. 2
 

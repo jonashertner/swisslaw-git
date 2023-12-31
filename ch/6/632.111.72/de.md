@@ -3,18 +3,18 @@ sr: "632.111.72"
 title: Bundesgesetz vom 15. Dezember 2017 über die Einfuhr von Erzeugnissen aus Landwirtschaftsprodukten
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/629"
 language: de
-version: 2019-01-01
+version: 2024-01-01
 adopted: 2017-12-15
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/629/20190101/de/xml/fedlex-data-admin-ch-eli-cc-2018-629-20190101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/629/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/629/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2018-629-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/629/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über die Einfuhr von Erzeugnissen aus Landwirtschaftsprodukten
 
-vom 15. Dezember 2017 (Stand am 1. Januar 2019)
+vom 15. Dezember 2017 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -27,9 +27,11 @@ beschliesst:
 
 #### Art. 1
 
-**Einfuhrzölle**
+**Einfuhrzölle**[^1-1]
 
-Für Erzeugnisse aus Landwirtschaftsprodukten kann der Bundesrat die Zollansätze so festsetzen, dass er ein Industrieschutzelement ausscheidet und dieses um bewegliche Teilbeträge erhöht; er hört zuvor die von ihm bestellte Zollexpertenkommission an.
+Für Erzeugnisse aus Landwirtschaftsprodukten kann der Bundesrat die Zollansätze so festsetzen, dass er ein Industrieschutzelement ausscheidet und dieses um bewegliche Teilbeträge erhöht; er hört zuvor die von ihm bestellte Kommission für Wirtschaftspolitik an.
+
+[^1-1]: Fassung gemäss Ziff. I 2 der V vom 9. Dez. 2022 über die Anpassung von Gesetzen infolge der Überprüfung 2022 der ausserparlamentarischen Kommissionen, in Kraft seit 1. Jan. 2024 ([AS 2022 843](https://fedlex.data.admin.ch/eli/oc/2022/843)).
 
 #### Art. 2
 
@@ -59,7 +61,7 @@ Der Bundesrat unterbreitet der Bundesversammlung jährlich einen Bericht über s
 
 Das Bundesgesetz vom 13. Dezember 1974[^5-1] über die Ein- und Ausfuhr von Erzeugnissen aus Landwirtschaftsprodukten wird aufgehoben.
 
-[^5-1]: [[AS 1976 927](https://fedlex.data.admin.ch/eli/oc/1976/927_927_927), [1995 4796](https://fedlex.data.admin.ch/eli/oc/1995/4796_4796_4796), [2006 4097](https://fedlex.data.admin.ch/eli/oc/2006/599)Ziff. I 2]
+[^5-1]: [[AS 1976 927](https://fedlex.data.admin.ch/eli/oc/1976/927_927_927); [1995 4796](https://fedlex.data.admin.ch/eli/oc/1995/4796_4796_4796); [2006 4097](https://fedlex.data.admin.ch/eli/oc/2006/599)Ziff. I 2]
 
 #### Art. 6
 
@@ -69,5 +71,5 @@ Gesuche um Ausfuhrbeiträge gestützt auf das Bundesgesetz vom 13. Dezember 1974
 
 Datum des Inkrafttretens: 1. Januar 2019[^6-2]
 
-[^6-1]: [[AS 1976 927](https://fedlex.data.admin.ch/eli/oc/1976/927_927_927), [1995 4796](https://fedlex.data.admin.ch/eli/oc/1995/4796_4796_4796), [2006 4097](https://fedlex.data.admin.ch/eli/oc/2006/599)Ziff. I 2]
+[^6-1]: [[AS 1976 927](https://fedlex.data.admin.ch/eli/oc/1976/927_927_927); [1995 4796](https://fedlex.data.admin.ch/eli/oc/1995/4796_4796_4796); [2006 4097](https://fedlex.data.admin.ch/eli/oc/2006/599)Ziff. I 2]
 [^6-2]: BRB vom 21. Sept. 2018 ([AS 2018 3939](https://fedlex.data.admin.ch/eli/oc/2018/632))
