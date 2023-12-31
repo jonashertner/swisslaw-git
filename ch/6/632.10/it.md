@@ -4,11 +4,11 @@ title: Legge del 9 ottobre 1986 sulla tariffa delle dogane (LTD)
 short: LTD
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871"
 language: it
-version: 2022-01-01
+version: 2024-01-01
 adopted: 1986-10-09
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1987-1871_1871_1871-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/1871_1871_1871/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1987-1871_1871_1871-20240101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/1871_1871_1871/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1987/1871_1871_1871/20220101/it"
 
 (LTD)
 
-del 9 ottobre 1986 (Stato 1° gennaio 2022)
+del 9 ottobre 1986 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -71,15 +71,16 @@ Il Consiglio federale può, di sua iniziativa, aumentare singole aliquote della 
 
 <sup>3</sup>
 
-Se gli interessi dell’economia svizzera lo esigono, il Consiglio federale può, indipendentemente da qualsiasi trattato tariffale e dopo essersi consultato con la Commissione di periti doganali:
+Se gli interessi dell’economia svizzera lo esigono, il Consiglio federale può, indipendentemente da qualsiasi trattato tariffale e dopo essersi consultato con la Commissione per la politica economica:[^4-2]
 
 - a. diminuire adeguatamente le aliquote;
 - b. ordinare di non riscuotere temporaneamente, totalmente o in parte, i dazi che gravano determinate merci;
-- c.[^4-2] determinare i contingenti doganali.[^4-3]
+- c.[^4-3] determinare i contingenti doganali.[^4-4]
 
 [^4-1]: [RS 946.201](https://fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923)
-[^4-2]: Introdotta dall’all. n. 3 della LF del 29 apr. 1998 sull’agricoltura, in vigore dal 1° gen. 1999 ([RU 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033); [FF 1996 IV 1](https://fedlex.data.admin.ch/eli/fga/1996/4_1_1_1)).
-[^4-3]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° feb. 1992 ([RU 1992 217](https://fedlex.data.admin.ch/eli/oc/1992/217_217_217); [FF 1991 I 892](https://fedlex.data.admin.ch/eli/fga/1991/1_1140_1092_892)).
+[^4-2]: Nuovo testo giusta il n. I 1 dell’O del 9 dic. 2022 sull’adeguamento di leggi in seguito alla verifica del 2022 delle commissioni extraparlamentari, in vigore dal 1° gen. 2024 ([RU 2022 843](https://fedlex.data.admin.ch/eli/oc/2022/843)).
+[^4-3]: Introdotta dall’all. n. 3 della LF del 29 apr. 1998 sull’agricoltura, in vigore dal 1° gen. 1999 ([RU 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033); [FF 1996 IV 1](https://fedlex.data.admin.ch/eli/fga/1996/4_1_1_1)).
+[^4-4]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° feb. 1992 ([RU 1992 217](https://fedlex.data.admin.ch/eli/oc/1992/217_217_217); [FF 1991 I 892](https://fedlex.data.admin.ch/eli/fga/1991/1_1140_1092_892)).
 
 #### Art. 5
 
@@ -107,7 +108,7 @@ In circostanze straordinarie, segnatamente nel caso di cataclismi, di carestia o
 
 Se, per effetto di provvedimenti esteri o di condizioni straordinarie all’estero, le relazioni commerciali con l’estero fossero influenzate a tal punto da pregiudicare interessi economici svizzeri essenziali, il Consiglio federale può, fintanto che le condizioni lo esigano, mutare le relative aliquote, gravare di diritti doganali le merci esenti e prendere qualunque altra misura opportuna.
 
-## Sezione 4: Statistica del commercio esterno****
+## Sezione 4: Statistica del commercio esterno
 
 [^sec4-1]
 
@@ -121,7 +122,7 @@ Sull’importazione, l’esportazione e il transito delle merci attraverso la li
 
 [^8-1]: Originario art. 10. Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° lug. 1995 ([RU 1995 1826](https://fedlex.data.admin.ch/eli/oc/1995/1826_1826_1826); [FF 1994 IV 923](https://fedlex.data.admin.ch/eli/fga/1994/4_950_995_923)).
 
-## Sezione 5: Modifiche della tariffa generale delle dogane decise dal Consiglio federale sulla base di convenzioni internazionali****
+## Sezione 5: Modifiche della tariffa generale delle dogane decise dal Consiglio federale sulla base di convenzioni internazionali
 
 [^sec5-1]
 
@@ -136,7 +137,7 @@ Sull’importazione, l’esportazione e il transito delle merci attraverso la li
 <sup>2</sup> Esso può, giusta l’articolo 3 capoverso 1 lettera c di questa Convenzione, designare delle linee tariffarie della tariffa generale quali linee statistiche nella tariffa d’uso, sempre che ciò non implichi una modificazione dell’aggravio daziario.
 
 [^9-1]: Originario art. 11.
-[^9-2]: Introdotto dal n. I della LF del 30 apr. 1997, in vigore dal 1° ott. 1997 ([RU 1997 2236](https://fedlex.data.admin.ch/eli/oc/1997/2236_2236_2236); [FF 1997 II 1](https://fedlex.data.admin.ch/eli/fga/1997/2_1_1_1)).
+[^9-2]: Introdotta dal n. I della LF del 30 apr. 1997, in vigore dal 1° ott. 1997 ([RU 1997 2236](https://fedlex.data.admin.ch/eli/oc/1997/2236_2236_2236); [FF 1997 II 1](https://fedlex.data.admin.ch/eli/fga/1997/2_1_1_1)).
 [^9-3]: [RS 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)
 
 #### Art. 9a
@@ -146,9 +147,9 @@ Sull’importazione, l’esportazione e il transito delle merci attraverso la li
 Il Consiglio federale è abilitato a modificare temporaneamente la tariffa generale delle dogane quando una modifica della lista LIX-Svizzera-Liechtenstein<sup>©La\_lista\_d®</sup>[^9a-2] si applica provvisoriamente.
 
 [^9a-1]: Introdotto dal n. I della LF del 30 apr. 1997, in vigore dal 1° ott. 1997 ([RU 1997 2236](https://fedlex.data.admin.ch/eli/oc/1997/2236_2236_2236); [FF 1997 II 1](https://fedlex.data.admin.ch/eli/fga/1997/2_1_1_1)).
-[^9a-2]: La lista LIX-Svizzera-Liechtenstein non é pubblicata né nella RU, né nella RS. Un estratto può essere studiato o richiesto presso l’Ufficio federale della dogana e della sicurezza dei confini, Direzione generale delle dogane, Tariffa doganale, 3003 Berna (031/322 67 11).
+[^9a-2]: La lista LIX-Svizzera-Liechtenstein non è pubblicata né nella RU, né nella RS. Un estratto può essere studiato o richiesto presso l’Ufficio federale della dogana e della sicurezza dei confini, Direzione generale delle dogane, Tariffa doganale, 3003 Berna (031/322 67 11).
 
-## Sezione 6:**** Applicazione di accordi internazionali nel settore agricolo
+## Sezione 6: Applicazione di accordi internazionali nel settore agricolo
 
 [^sec6-1]
 
@@ -188,7 +189,7 @@ Fatto salvo l’articolo 13 capoverso 1 lettere c e d della presente legge, negl
 
 [^11-1]: Nuova espr. giusta il n. I 16 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)). Di detta mod. è tenuto conto in tutto il presente testo.
 
-## Sezione 7:**** Rapporto, approvazione e modificazione della tariffa delle dogane
+## Sezione 7: Rapporto, approvazione e modificazione della tariffa delle dogane
 
 [^sec7-1]
 
@@ -224,7 +225,7 @@ Il Consiglio federale riferisce annualmente all’Assemblea federale, se:[^13-2]
 [^13-2]: Nuovo testo giusta il n. I 1 della LF del 24 mar. 2006 sul nuovo dispositivo normativo concernente il rapporto sulla politica economica esterna, in vigore dal 1° gen. 2007 ([RU 2006 4097](https://fedlex.data.admin.ch/eli/oc/2006/599); [FF 2006 1709](https://fedlex.data.admin.ch/eli/fga/2006/162)).
 [^13-3]: Nuovo testo giusta il n. I della LF del 30 apr. 1997, in vigore dal 1° ott. 1997 ([RU 1997 2236](https://fedlex.data.admin.ch/eli/oc/1997/2236_2236_2236); [FF 1997 II 1](https://fedlex.data.admin.ch/eli/fga/1997/2_1_1_1)).
 
-## Sezione 8:**** Disposizioni finali
+## Sezione 8: Disposizioni finali
 
 [^sec8-1]
 
@@ -232,7 +233,11 @@ Il Consiglio federale riferisce annualmente all’Assemblea federale, se:[^13-2]
 
 #### Art. 14
 
-Il Consiglio federale istituisce una commissione peritale doganale quale organo consultivo.
+**Commissione per la politica economica**[^14-1]
+
+Il Consiglio federale istituisce una Commissione per la politica economica quale organo consultivo.
+
+[^14-1]: Nuovo testo giusta il n. I 1 dell’O del 9 dic. 2022 sull’adeguamento di leggi in seguito alla verifica del 2022 delle commissioni extraparlamentari, in vigore dal 1° gen. 2024 ([RU 2022 843](https://fedlex.data.admin.ch/eli/oc/2022/843)).
 
 #### Art. 15
 
@@ -266,7 +271,7 @@ Data dell’entrata in vigore: 1° gennaio 1988[^17-1]
 
 [^17-1]: Art. 1 dell’O del 4 nov. 1987 ([RU 1987 2309](https://fedlex.data.admin.ch/eli/oc/1987/2309_2309_2309)).
 
-## Disposizione finale****
+## Disposizione finale
 
 [^lvlu9-1]
 
@@ -274,10 +279,24 @@ Data dell’entrata in vigore: 1° gennaio 1988[^17-1]
 
 Il Consiglio federale è autorizzato ad adeguare la tariffa generale in seguito alla soppressione della denaturazione dei cereali panificabili nell’ambito dell’abrogazione della legge sui cereali.
 
-Allegati 1 e 2
+Allegato 1[^t-1]
 
-## Tariffa Doganale****
+(art. 1 cpv. 1)
 
-[^annexu1-lvlu1-1]
+## Tariffa generale: Tariffa doganale svizzera
 
-[^annexu1-lvlu1-1]: Giusta l’art. 5 cpv. 1 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), la tariffa generale non è pubblicata nella RU. L’O con il testo di queste mod. può essere consultata presso la Direzione generale delle dogane, 3003 Berna. Inoltre le modificazioni sono inserite nella tariffa generale pubblicata su Internet all’indirizzo www.ezv.admin.ch e nella tariffa doganale pubblicata in virtù dell’art. 15 cpv. 2 della L del 9 ott. 1986 sulla tariffa delle dogane, consultabile all’indirizzo www.tares.ch (RU **1987** 1876 [2311](https://fedlex.data.admin.ch/eli/oc/1987/2311_2311_2311), [1988 1067](https://fedlex.data.admin.ch/eli/oc/1988/1067_1067_1067), [1989 139](https://fedlex.data.admin.ch/eli/oc/1989/139_139_139)art. 1 [1124](https://fedlex.data.admin.ch/eli/oc/1989/1124_1124_1124)art. 1 [2389](https://fedlex.data.admin.ch/eli/oc/1989/2389_2389_2389)art. 1, [1991 1599](https://fedlex.data.admin.ch/eli/oc/1991/1599_1599_1599)art. 1, [1992 1232](https://fedlex.data.admin.ch/eli/oc/1992/1232_1232_1232)art. 1, [1993 955](https://fedlex.data.admin.ch/eli/oc/1993/955_955_955)all. 2004 art. 1, [1994 1430](https://fedlex.data.admin.ch/eli/oc/1994/1430_1430_1430)art. 1 [1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)n. I 9 [2785](https://fedlex.data.admin.ch/eli/oc/1994/2785_2785_2785)art. 1, [1995 1829](https://fedlex.data.admin.ch/eli/oc/1995/1829_1829_1829)art. 1 [4932](https://fedlex.data.admin.ch/eli/oc/1995/4932_4932_4932)art. 1 e [2](https://fedlex.data.admin.ch/eli/oc/1995/2_2_2)[5366](https://fedlex.data.admin.ch/eli/oc/1995/5366_5366_5366)art. 1, [1996 3045](https://fedlex.data.admin.ch/eli/oc/1996/3045_3045_3045)all. n. 1 [3310](https://fedlex.data.admin.ch/eli/oc/1996/3310_3310_3310)art. 1 [3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)all. 2 n. 3, [1997 2236](https://fedlex.data.admin.ch/eli/oc/1997/2236_2236_2236)[2632](https://fedlex.data.admin.ch/eli/oc/1997/2632_2632_2632)art. 1 [2633](https://fedlex.data.admin.ch/eli/oc/1997/2633_2633_2633)art. 1 [2831](https://fedlex.data.admin.ch/eli/oc/1997/2831_2831_2831)art. 1, [1998 1592](https://fedlex.data.admin.ch/eli/oc/1998/1592_1592_1592)art. 1, [1999 314](https://fedlex.data.admin.ch/eli/oc/1999/36)art. 1 [1514](https://fedlex.data.admin.ch/eli/oc/1999/226)art. 1 [1709](https://fedlex.data.admin.ch/eli/oc/1999/264)art. 1 [1727](https://fedlex.data.admin.ch/eli/oc/1999/273)art. 1, [2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)art. 1 [2409](https://fedlex.data.admin.ch/eli/oc/2001/347)art. 1 cpv. 2, [2002 3643](https://fedlex.data.admin.ch/eli/oc/2002/553), [2003 529](https://fedlex.data.admin.ch/eli/oc/2003/113)art. 1, [2005 503](https://fedlex.data.admin.ch/eli/oc/2005/62)art. 1 e 2 [5447](https://fedlex.data.admin.ch/eli/oc/2005/744)art. 1, [2006 867](https://fedlex.data.admin.ch/eli/oc/2006/151)art. 1 – 3 2995 art. 1 – 3, **2007** 2271 art. 1 2885 art. 1 2887 art. 1, **2010** 5057 n. I cpv. 1, **2011** 3331 art. 1 e 2 5249 n. I cpv. 1 5923 art. 1, **2016** 1401 n. II 2445 art. 1 2647 art. 1, **2020** 3749 art.1, **2021** 445 art. 1 e 2).
+[^annex1-lvlu1-1]
+
+[^t-1]: Aggiornato dall’art. 1 delle O del 7 dic. 1987 ([RU 1987 2311](https://fedlex.data.admin.ch/eli/oc/1987/2311_2311_2311)), del 29 giu. 1988 ([RU 1988 1067](https://fedlex.data.admin.ch/eli/oc/1988/1067_1067_1067)), del 12 dic. 1988 ([RU 1989 139](https://fedlex.data.admin.ch/eli/oc/1989/139_139_139)), del 26 apr. 1989 ([RU 1989 1124](https://fedlex.data.admin.ch/eli/oc/1989/1124_1124_1124)), del 15 nov. 1989 ([RU 1989 2389](https://fedlex.data.admin.ch/eli/oc/1989/2389_2389_2389)), del 17 giu. 1991 ([RU 1991 1599](https://fedlex.data.admin.ch/eli/oc/1991/1599_1599_1599)), del 13 mag. 1992 ([RU 1992 1232](https://fedlex.data.admin.ch/eli/oc/1992/1232_1232_1232)), dall’art. 1 della LF del 9 ott. 1992 concernente l’aumento dei dazi all’importazione sui carburanti ([RU 1993 955](https://fedlex.data.admin.ch/eli/oc/1993/955_955_955)), dall’art. 1 delle O del 14 giu. 1993 ([RU 1993 2004](https://fedlex.data.admin.ch/eli/oc/1993/2004_2004_2004)), del 6 giu. 1994 ([RU 1994 1430](https://fedlex.data.admin.ch/eli/oc/1994/1430_1430_1430)), dal n. I 9 della LF del 18 mar. 1994 sulle misure di risanamento 1993 ([RU 1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)), dall’art. 1 delle O del 26 ott. 1994 ([RU 1994 2785](https://fedlex.data.admin.ch/eli/oc/1994/2785_2785_2785)), del 17 mag. 1995 ([RU 1995 1829](https://fedlex.data.admin.ch/eli/oc/1995/1829_1829_1829)), dagli art. 1 e 2 dell’O del 25 ott. 1995 ([RU 1995 4932](https://fedlex.data.admin.ch/eli/oc/1995/4932_4932_4932)), dall’art. 1 dell’O del 29 nov. 1995 ([RU 1995 5366](https://fedlex.data.admin.ch/eli/oc/1995/5366_5366_5366)), dall’all. n. 1 della LF del 21 giu. 1996 ([RU 1996 3045](https://fedlex.data.admin.ch/eli/oc/1996/3045_3045_3045)), dall’art. 1 dell’O del 2 dic. 1996 ([RU 1996 3310](https://fedlex.data.admin.ch/eli/oc/1996/3310_3310_3310)), dall’all. 2 n. 3 della LF del 21 giu. 1996 sull’imposizione degli oli minerali ([RU 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)), dal n. II della LF del 30 apr. 1997 ([RU 1997 2236](https://fedlex.data.admin.ch/eli/oc/1997/2236_2236_2236)), dall’art. 1 delle O del 19 nov. 1997 ([RU 1997 2632](https://fedlex.data.admin.ch/eli/oc/1997/2632_2632_2632), [2633](https://fedlex.data.admin.ch/eli/oc/1997/2633_2633_2633), [2831](https://fedlex.data.admin.ch/eli/oc/1997/2831_2831_2831)), del 3 giu. 1998 ([RU 1998 1592](https://fedlex.data.admin.ch/eli/oc/1998/1592_1592_1592)), del 7 dic. 1998 ([RU 1999 314](https://fedlex.data.admin.ch/eli/oc/1999/36)), del 14 apr. 1999 ([RU 1999 1514](https://fedlex.data.admin.ch/eli/oc/1999/226)), del 26 mag. 1999 ([RU 1999 1709](https://fedlex.data.admin.ch/eli/oc/1999/264), [1727](https://fedlex.data.admin.ch/eli/oc/1999/273)), del 3 lug. 2001 ([RU 2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)), dall’art. 1 cpv. 2 dell’O del 21 set. 2001 ([RU 2001 2409](https://fedlex.data.admin.ch/eli/oc/2001/347)), dal n. I della LF del 22 dic. 1999 ([RU 2002 3643](https://fedlex.data.admin.ch/eli/oc/2002/553)), dall’art. 1 dell’O del 26 feb. 2003 ([RU 2003 529](https://fedlex.data.admin.ch/eli/oc/2003/113)), dagli art. 1 e 2 dell’O del 22 dic. 2004 ([RU 2005 503](https://fedlex.data.admin.ch/eli/oc/2005/62)), dall’art. 1 delle O del 23 nov. 2005 ([RU 2005 5447](https://fedlex.data.admin.ch/eli/oc/2005/744)), del 1° mar. 2006 ([RU 2006 867](https://fedlex.data.admin.ch/eli/oc/2006/151)), dagli art. 1-3 dell’O del 28 giu. 2006 ([RU 2006 2995](https://fedlex.data.admin.ch/eli/oc/2006/464)), dall’art. 1 delle O del 16 mag. 2007 ([RU 2007 2271](https://fedlex.data.admin.ch/eli/oc/2007/320)), del 8 giu. 2007 ([RU 2007 2885](https://fedlex.data.admin.ch/eli/oc/2007/381)), del 15 giu. 2007 ([RU 2007 2887](https://fedlex.data.admin.ch/eli/oc/2007/382)), dal n. I cpv. 1 dell’O del 27 ott. 2010 ([RU 2010 5057](https://fedlex.data.admin.ch/eli/oc/2010/725)), dagli art. 1 e 2 dell’O del 22 giu. 2011 ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), dal n. I cpv. 1 dell’O del 26 ott. 2011 ([RU 2011 5249](https://fedlex.data.admin.ch/eli/oc/2011/755)), dall’art. 1 dell’O del 23 nov. 2011 ([RU 2011 5923](https://fedlex.data.admin.ch/eli/oc/2011/820)), dal n. II della LF del 18 dic. 2015 ([RU 2016 1401](https://fedlex.data.admin.ch/eli/oc/2016/273)), dall’art. 1 delle O del 10 giu. 2016 ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), del 29 giu. 2016 ([RU 2016 2647](https://fedlex.data.admin.ch/eli/oc/2016/424)), dal n. II 2 della LF del 30 set. 2016 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)), dall’art. 1 dell’O del 26 ago. 2020 ([RU 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), dagli art. 1 e 2 dell’O del 30 giu. 2021([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), dal n. I della LF del 1° ott. 2021 ([RU 2022 119](https://fedlex.data.admin.ch/eli/oc/2022/119)) e dall’art. 1 dell’O del 15 feb. 2023, in vigore dal 1° gen. 2024 ([RU 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
+[^annex1-lvlu1-1]: La Tariffa generale non è pubblicata nella RU. Può essere consultata gratuitamente nel sito Internet dell’Ufficio federale della dogana e della sicurezza dei confini all’indirizzo www.bazg.admin.ch &gt; Documentazione &gt; Basi legali &gt; Riscossione di tributi &gt; Tariffa doganale Il contenuto dell’ultima modifica è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/86](https://fedlex.data.admin.ch/eli/oc/2023/86) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+
+Allegato 2[^t-2]
+
+(art. 1 cpv. 1 e 10 cpv. 4 lett. b)
+
+## Tariffa generale: Contingenti doganali
+
+[^annex2-lvlu1-1]
+
+[^t-2]: Aggiornato dall’art. 1 delle O del 7 dic. 1987 ([RU 1987 2311](https://fedlex.data.admin.ch/eli/oc/1987/2311_2311_2311)), del 29 giu. 1988 ([RU 1988 1067](https://fedlex.data.admin.ch/eli/oc/1988/1067_1067_1067)), del 12 dic. 1988 ([RU 1989 139](https://fedlex.data.admin.ch/eli/oc/1989/139_139_139)), del 26 apr. 1989 ([RU 1989 1124](https://fedlex.data.admin.ch/eli/oc/1989/1124_1124_1124)), del 15 nov. 1989 ([RU 1989 2389](https://fedlex.data.admin.ch/eli/oc/1989/2389_2389_2389)), del 17 giu. 1991 ([RU 1991 1599](https://fedlex.data.admin.ch/eli/oc/1991/1599_1599_1599)), del 13 mag. 1992 ([RU 1992 1232](https://fedlex.data.admin.ch/eli/oc/1992/1232_1232_1232)), dall’art. 1 della LF del 9 ott. 1992 concernente l’aumento dei dazi all’importazione sui carburanti ([RU 1993 955](https://fedlex.data.admin.ch/eli/oc/1993/955_955_955)), dall’art. 1 delle O del 14 giu. 1993 ([RU 1993 2004](https://fedlex.data.admin.ch/eli/oc/1993/2004_2004_2004)), del 6 giu. 1994 ([RU 1994 1430](https://fedlex.data.admin.ch/eli/oc/1994/1430_1430_1430)), dal n. I 9 della LF del 18 mar. 1994 sulle misure di risanamento 1993 ([RU 1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)), dall’art. 1 delle O del 26 ott. 1994 ([RU 1994 2785](https://fedlex.data.admin.ch/eli/oc/1994/2785_2785_2785)), dagli art. 1 e 2 dell’O del 25 ott. 1995 ([RU 1995 4932](https://fedlex.data.admin.ch/eli/oc/1995/4932_4932_4932)), dall’art. 1 dell’O del 29 nov. 1995 ([RU 1995 5366](https://fedlex.data.admin.ch/eli/oc/1995/5366_5366_5366)), dall’all. n. 1 della LF del 21 giu. 1996 ([RU 1996 3045](https://fedlex.data.admin.ch/eli/oc/1996/3045_3045_3045)), dal n. II della LF del 30 apr. 1997 ([RU 1997 2236](https://fedlex.data.admin.ch/eli/oc/1997/2236_2236_2236)), dall’art. 1 delle O del 3 lug. 2001 ([RU 2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)), del 1° mar. 2006 ([RU 2006 867](https://fedlex.data.admin.ch/eli/oc/2006/151)), dagli art. 1-3 dell’O del 28 giu. 2006 ([RU 2006 2995](https://fedlex.data.admin.ch/eli/oc/2006/464)), dagli art. 1 et 2 dell’O del 22 giu. 2011 ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), dall’art. 1 delle O del 10 giu. 2016 ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), del 26 ago. 2020 ([RU 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), dagli art. 1 e 2 dell’O del 30 giu. 2021 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)) e dal n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2024 ([RU 2022 119](https://fedlex.data.admin.ch/eli/oc/2022/119)).
+[^annex2-lvlu1-1]: La Tariffa generale non è pubblicata nella RU. Può essere consultata gratuitamente nel sito Internet dell’Ufficio federale della dogana e della sicurezza dei confini all’indirizzo www.bazg.admin.ch &gt; Documentazione &gt; Basi legali &gt; Riscossione di tributi &gt; Tariffa doganale

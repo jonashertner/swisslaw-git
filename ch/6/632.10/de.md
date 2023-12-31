@@ -4,11 +4,11 @@ title: Zolltarifgesetz vom 9. Oktober 1986 (ZTG)
 short: ZTG
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871"
 language: de
-version: 2022-01-01
+version: 2024-01-01
 adopted: 1986-10-09
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1987-1871_1871_1871-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/1871_1871_1871/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1987-1871_1871_1871-20240101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/1871_1871_1871/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1987/1871_1871_1871/20220101/de"
 
 (ZTG)
 
-vom 9. Oktober 1986 (Stand am 1. Januar 2022)
+vom 9. Oktober 1986 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -71,15 +71,16 @@ Der Bundesrat kann einzelne Ansätze des Generaltarifs von sich aus erhöhen, we
 
 <sup>3</sup>
 
-Wenn es die Interessen der schweizerischen Volkswirtschaft erfordern, kann der Bundesrat auch unabhängig von Zollverträgen nach Anhören der Zollexpertenkommission:
+Wenn es die Interessen der schweizerischen Volkswirtschaft erfordern, kann der Bundesrat auch unabhängig von Zollverträgen nach Anhören der Kommission für Wirtschaftspolitik:[^4-2]
 
 - a. Zollansätze angemessen herabsetzen;
 - b. anordnen, dass auf die Erhebung von Zöllen auf bestimmten Waren vorübergehend ganz oder teilweise verzichtet wird;
-- c.[^4-2] Zollkontingente festlegen.[^4-3]
+- c.[^4-3] Zollkontingente festlegen.[^4-4]
 
 [^4-1]: [SR 946.201](https://fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923)
-[^4-2]: Eingefügt durch Anhang Ziff. 3 des Landwirtschaftsgesetzes vom 29. April 1998, in Kraft seit 1. Jan. 1999 ([AS 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033); [BBl 1996 IV 1](https://fedlex.data.admin.ch/eli/fga/1996/4_1_1_1)).
-[^4-3]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Febr. 1992 ([AS 1992 217](https://fedlex.data.admin.ch/eli/oc/1992/217_217_217); [BBl 1991 I 1140](https://fedlex.data.admin.ch/eli/fga/1991/1_1140_1092_892)).
+[^4-2]: Fassung gemäss Ziff. I 1 der V vom 9. Dez. 2022 über die Anpassung von Gesetzen infolge der Überprüfung 2022 der ausserparlamentarischen Kommissionen, in Kraft seit 1. Jan. 2024 ([AS 2022 843](https://fedlex.data.admin.ch/eli/oc/2022/843)).
+[^4-3]: Eingefügt durch Anhang Ziff. 3 des Landwirtschaftsgesetzes vom 29. April 1998, in Kraft seit 1. Jan. 1999 ([AS 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033); [BBl 1996 IV 1](https://fedlex.data.admin.ch/eli/fga/1996/4_1_1_1)).
+[^4-4]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Febr. 1992 ([AS 1992 217](https://fedlex.data.admin.ch/eli/oc/1992/217_217_217); [BBl 1991 I 1140](https://fedlex.data.admin.ch/eli/fga/1991/1_1140_1092_892)).
 
 #### Art. 5
 
@@ -107,7 +108,7 @@ Der Bundesrat kann bei ausserordentlichen Umständen, namentlich bei verheerende
 
 Werden durch ausländische Massnahmen oder ausserordentliche Verhältnisse im Ausland die Aussenhandelsbeziehungen der Schweiz derart beeinflusst, dass wesentliche schweizerische Wirtschaftsinteressen beeinträchtigt werden, kann der Bundesrat, für solange als es die Umstände erfordern, die in Betracht kommenden Zollansätze abändern oder, soweit Zollfreiheit besteht, Zölle einführen sowie andere geeignete Massnahmen treffen.
 
-## 4. Abschnitt:**** Aussenhandelsstatistik
+## 4. Abschnitt: Aussenhandelsstatistik
 
 [^sec4-1]
 
@@ -121,7 +122,7 @@ Werden durch ausländische Massnahmen oder ausserordentliche Verhältnisse im Au
 
 [^8-1]: Ursprünglich Art. 10.
 
-## 5. Abschnitt:**** Änderungen des Generaltarifs durch den Bundesrat aufgrund internationaler Vereinbarungen****
+## 5. Abschnitt: Änderungen des Generaltarifs durch den Bundesrat aufgrund internationaler Vereinbarungen
 
 [^sec5-1][^sec5-2]
 
@@ -149,7 +150,7 @@ Der Bundesrat ist ermächtigt, den Generaltarif vorläufig zu ändern, wenn eine
 [^9a-1]: Eingefügt durch Ziff. I des BG vom 30. April 1997, in Kraft seit 1. Okt. 1997 ([AS 1997 2236](https://fedlex.data.admin.ch/eli/oc/1997/2236_2236_2236); [BBl 1997 II 1](https://fedlex.data.admin.ch/eli/fga/1997/2_1_1_1)).
 [^9a-2]: Die Liste LIX-Schweiz-Liechtenstein wird weder in der AS, noch in der SR veröffentlicht. Sie kann bei der Oberzolldirektion, Abteilung Zolltarif, 3003 Bern eingesehen oder bezogen werden.
 
-## 6. Abschnitt:**** Anwendung internationaler Abkommen im Agrarbereich
+## 6. Abschnitt: Anwendung internationaler Abkommen im Agrarbereich
 
 [^sec6-1]
 
@@ -189,7 +190,7 @@ Unter Vorbehalt von Artikel 13 Absatz 1 Buchstaben c und d dieses Gesetzes werde
 
 [^11-1]: Ausdruck gemäss Ziff. I 16 der V vom 15. Juni 2012 (Neugliederung der Departemente), in Kraft seit 1. Jan. 2013 ([AS 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
-## 7. Abschnitt:**** Berichterstattung, Genehmigung und Änderung des Zolltarifs
+## 7. Abschnitt: Berichterstattung, Genehmigung und Änderung des Zolltarifs
 
 [^sec7-1]
 
@@ -223,7 +224,7 @@ Der Bundesrat erstattet der Bundesversammlung jährlich Bericht, wenn:[^13-3]
 [^13-3]: Fassung gemäss Ziff. I 1 des BG vom 24. März 2006 über die Neuregelung der Berichterstattung auf dem Gebiet der Aussenwirtschaftspolitik, in Kraft seit 1. Jan. 2007 ([AS 2006 4097](https://fedlex.data.admin.ch/eli/oc/2006/599); [BBl 2006 1831](https://fedlex.data.admin.ch/eli/fga/2006/162)).
 [^13-4]: Fassung gemäss Ziff. I des BG vom 30. April 1997, in Kraft seit 1. Okt. 1997 ([AS 1997 2236](https://fedlex.data.admin.ch/eli/oc/1997/2236_2236_2236); [BBl 1997 II 1](https://fedlex.data.admin.ch/eli/fga/1997/2_1_1_1)).
 
-## 8. Abschnitt:**** Schlussbestimmungen
+## 8. Abschnitt: Schlussbestimmungen
 
 [^sec8-1]
 
@@ -231,9 +232,11 @@ Der Bundesrat erstattet der Bundesversammlung jährlich Bericht, wenn:[^13-3]
 
 #### Art. 14
 
-**Zollexpertenkommission**
+**Kommission für Wirtschaftspolitik**[^14-1]
 
-Der Bundesrat bestellt eine Zollexpertenkommission als beratendes Organ.
+Der Bundesrat bestellt eine Kommission für Wirtschaftspolitik als beratendes Organ.
+
+[^14-1]: Fassung gemäss Ziff. I 1 der V vom 9. Dez. 2022 über die Anpassung von Gesetzen infolge der Überprüfung 2022 der ausserparlamentarischen Kommissionen, in Kraft seit 1. Jan. 2'24 ([AS 2022 843](https://fedlex.data.admin.ch/eli/oc/2022/843)).
 
 #### Art. 15
 
@@ -267,7 +270,7 @@ Datum des Inkrafttretens: 1. Januar 1988[^17-1]
 
 [^17-1]: Art. 1 der V vom 4. Nov. 1987 ([AS 1987 2309](https://fedlex.data.admin.ch/eli/oc/1987/2309_2309_2309)).
 
-## Schlussbestimmung****
+## Schlussbestimmung
 
 [^lvlu9-1]
 
@@ -275,10 +278,24 @@ Datum des Inkrafttretens: 1. Januar 1988[^17-1]
 
 Der Bundesrat wird ermächtigt, im Generaltarif die Anpassungen vorzunehmen, welche aus dem Wegfall der Denaturierung von Brotgetreide im Zusammenhang mit der Aufhebung des Getreidegesetzes notwendig werden.
 
-Anhänge 1 und 2
+Anhang 1[^t-1]
 
-## Generaltarif****
+(Art. 1 Abs. 1)
 
-[^annexu1-lvlu1-1]
+## Generaltarif: Schweizerischer Zolltarif
 
-[^annexu1-lvlu1-1]: Der Generaltarif wird nach Art. 5 Abs. 1 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) in der Amtlichen Sammlung nicht veröffentlicht. Die Verordnung und der Generaltarif mit dem Text der Änderungen sind im Internet unter www.ezv.admin.ch publiziert. Diese Änderungen werden ebenfalls in den gestützt auf Art. 15 Abs. 2 des Zolltarifgesetzes vom 9. Okt. 1986 herausgegebenen Zolltarif übernommen, der im Internet unter www.tares.ch konsultiert werden kann (AS **1987** 1876, [2311](https://fedlex.data.admin.ch/eli/oc/1987/2311_2311_2311); [1988 1067](https://fedlex.data.admin.ch/eli/oc/1988/1067_1067_1067); [1989 139](https://fedlex.data.admin.ch/eli/oc/1989/139_139_139)Art. 1, [1124](https://fedlex.data.admin.ch/eli/oc/1989/1124_1124_1124)Art. 1, [2389](https://fedlex.data.admin.ch/eli/oc/1989/2389_2389_2389)Art. 1; [1991 1599](https://fedlex.data.admin.ch/eli/oc/1991/1599_1599_1599)Art. 1; [1992 1232](https://fedlex.data.admin.ch/eli/oc/1992/1232_1232_1232)Art. 1; [1993 955](https://fedlex.data.admin.ch/eli/oc/1993/955_955_955)Anhang, [2004](https://fedlex.data.admin.ch/eli/oc/1993/2004_2004_2004)Art. 1; [1994 1430](https://fedlex.data.admin.ch/eli/oc/1994/1430_1430_1430)Art. 1, [1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)Ziff. I 9, [2785](https://fedlex.data.admin.ch/eli/oc/1994/2785_2785_2785)Art. 1; [1995 1829](https://fedlex.data.admin.ch/eli/oc/1995/1829_1829_1829)Art. 1, [4932](https://fedlex.data.admin.ch/eli/oc/1995/4932_4932_4932)Art. 1 und [2](https://fedlex.data.admin.ch/eli/oc/1995/2_2_2), [5366](https://fedlex.data.admin.ch/eli/oc/1995/5366_5366_5366)Art. 1; [1996 3045](https://fedlex.data.admin.ch/eli/oc/1996/3045_3045_3045)Anhang Ziff. 1, [3310](https://fedlex.data.admin.ch/eli/oc/1996/3310_3310_3310)Art. 1, [3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Anhang 2 Ziff. 3; [1997 2236](https://fedlex.data.admin.ch/eli/oc/1997/2236_2236_2236), [2632](https://fedlex.data.admin.ch/eli/oc/1997/2632_2632_2632)Art. 1, [2633](https://fedlex.data.admin.ch/eli/oc/1997/2633_2633_2633)Art. 1, [2831](https://fedlex.data.admin.ch/eli/oc/1997/2831_2831_2831)Art. 1; [1998 1592](https://fedlex.data.admin.ch/eli/oc/1998/1592_1592_1592)Art. 1; [1999 314](https://fedlex.data.admin.ch/eli/oc/1999/36)Art. 1, [1514](https://fedlex.data.admin.ch/eli/oc/1999/226)Art. 1, [1709](https://fedlex.data.admin.ch/eli/oc/1999/264)Art. 1, [1727](https://fedlex.data.admin.ch/eli/oc/1999/273)Art. 1; [2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)Art. 1, [2409](https://fedlex.data.admin.ch/eli/oc/2001/347)Art. 1 Abs. 2; [2002 3643](https://fedlex.data.admin.ch/eli/oc/2002/553); [2003 529](https://fedlex.data.admin.ch/eli/oc/2003/113)Art. 1; [2005 503](https://fedlex.data.admin.ch/eli/oc/2005/62)Art. 1 und 2, [5447](https://fedlex.data.admin.ch/eli/oc/2005/744)Art. 1; [2006 867](https://fedlex.data.admin.ch/eli/oc/2006/151), [2995](https://fedlex.data.admin.ch/eli/oc/2006/464)Art. 1–3; **2007** 2271 Art. 1, 2885 Art. 1, 2887 Art. 1; **2010** 5057 Ziff. I Abs. 1; **2011** 3331 Art. 1 und 2, 5249 Ziff. I Abs. 1, 5923 Art. 1; **2016** 1401 Ziff. II, 2445 Art. 1, 2647 Art. 1; **2020** 3749 Art. 1; **2021** 445 Art. 1 und 2).
+[^annex1-lvlu1-1]
+
+[^t-1]: Bereinigt gemäss Art. 1 der V vom 7. Dez. 1987 ([AS 1987 2311](https://fedlex.data.admin.ch/eli/oc/1987/2311_2311_2311)), vom 29. Juni 1988 ([AS 1988 1067](https://fedlex.data.admin.ch/eli/oc/1988/1067_1067_1067)), vom 12. Dez. 1988 ([AS 1989 139](https://fedlex.data.admin.ch/eli/oc/1989/139_139_139)), vom 26. April 1989 ([AS 1989 1124](https://fedlex.data.admin.ch/eli/oc/1989/1124_1124_1124)), vom 15. Nov. 1989 ([AS 1989 2389](https://fedlex.data.admin.ch/eli/oc/1989/2389_2389_2389)), vom 17. Juni 1991 ([AS 1991 1599](https://fedlex.data.admin.ch/eli/oc/1991/1599_1599_1599)), vom 13. Mai 1992 ([AS 1992 1232](https://fedlex.data.admin.ch/eli/oc/1992/1232_1232_1232)), Art. 1 des BG vom 9 Okt. 1992 über die Erhöhung des Treibstoffzolles ([AS 1993 955](https://fedlex.data.admin.ch/eli/oc/1993/955_955_955)), Art. 1 der V vom 14. Juni 1993 ([AS 1993 2004](https://fedlex.data.admin.ch/eli/oc/1993/2004_2004_2004)), vom 6. Juni 1994 ([AS 1994 1430](https://fedlex.data.admin.ch/eli/oc/1994/1430_1430_1430)), Ziff. I 9 des BG vom 18. März 1994 über die Sanierungsmassnahmen 1993 ([AS 1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)), Art. 1 der V vom 26. Okt. 1994 ([AS 1994 2785](https://fedlex.data.admin.ch/eli/oc/1994/2785_2785_2785)), vom 17. Mai 1995 ([AS 1995 1829](https://fedlex.data.admin.ch/eli/oc/1995/1829_1829_1829)), Art. 1 und 2 der V vom 25. Okt. 1995 ([AS 1995 4932](https://fedlex.data.admin.ch/eli/oc/1995/4932_4932_4932)), Art. 1 der V vom 29. Nov. 1995 ([AS 1995 5366](https://fedlex.data.admin.ch/eli/oc/1995/5366_5366_5366)), Anhang Ziff. 1 des BG vom 21. Juni 1996 ([AS 1996 3045](https://fedlex.data.admin.ch/eli/oc/1996/3045_3045_3045)), Art. 1 der V vom 2. Dez. 1996 ([AS 1996 3310](https://fedlex.data.admin.ch/eli/oc/1996/3310_3310_3310)), Anhang 2 Ziff. 3 des Mineralölsteuergesetzes vom 21. Juni 1996 ([AS 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)), Ziff. II des BG vom 30. April 1997 ([AS 1997 2236](https://fedlex.data.admin.ch/eli/oc/1997/2236_2236_2236)), Art. 1 der V vom 19. Nov. 1997 ([AS 1997 2632](https://fedlex.data.admin.ch/eli/oc/1997/2632_2632_2632), [2633](https://fedlex.data.admin.ch/eli/oc/1997/2633_2633_2633), [2831](https://fedlex.data.admin.ch/eli/oc/1997/2831_2831_2831)), vom 3. Juni 1998 ([AS 1998 1592](https://fedlex.data.admin.ch/eli/oc/1998/1592_1592_1592)), vom 7. Dez. 1998 ([AS 1999 314](https://fedlex.data.admin.ch/eli/oc/1999/36)), vom 14. April 1999 ([AS 1999 1514](https://fedlex.data.admin.ch/eli/oc/1999/226)), vom 26. Mai 1999 ([AS 1999 1709](https://fedlex.data.admin.ch/eli/oc/1999/264), [1727](https://fedlex.data.admin.ch/eli/oc/1999/273)), vom 3. Juli 2001 ([AS 2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)), Art. 1 Abs. 2 der V vom 21. Sept. 2001 ([AS 2001 2409](https://fedlex.data.admin.ch/eli/oc/2001/347)), Ziff. I des BG vom 22. Dez. 1999 ([AS 2002 3643](https://fedlex.data.admin.ch/eli/oc/2002/553)), Art. 1 der V vom 26. Febr. 2003 ([AS 2003 529](https://fedlex.data.admin.ch/eli/oc/2003/113)), Art. 1 und 2 der V vom 22. Dez. 2004 ([AS 2005 503](https://fedlex.data.admin.ch/eli/oc/2005/62)), Art. 1 der V vom 23. Nov. 2005 ([AS 2005 5447](https://fedlex.data.admin.ch/eli/oc/2005/744)), vom 1. März 2006 ([AS 2006 867](https://fedlex.data.admin.ch/eli/oc/2006/151)), Art. 1–3 der V vom 28. Juni 2006 ([AS 2006 2995](https://fedlex.data.admin.ch/eli/oc/2006/464)), Art. 1 der V vom 16. Mai 2007 ([AS 2007 2271](https://fedlex.data.admin.ch/eli/oc/2007/320)), vom 8. Juni 2007 ([AS 2007 2885](https://fedlex.data.admin.ch/eli/oc/2007/381)), vom 15. Juni 2007 ([AS 2007 2887](https://fedlex.data.admin.ch/eli/oc/2007/382)), Ziff. I Abs. 1 der V vom 27. Okt. 2010 ([AS 2010 5057](https://fedlex.data.admin.ch/eli/oc/2010/725)), Art. 1 und 2 der V vom 22. Juni 2011 ([AS 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), Ziff. I Abs. 1 der V vom 26. Okt. 2011 ([AS 2011 5249](https://fedlex.data.admin.ch/eli/oc/2011/755)), Art. 1 der V vom 23. Nov. 2011 ([AS 2011 5923](https://fedlex.data.admin.ch/eli/oc/2011/820)), Ziff. II des BG vom 18. Dez. 2015 ([AS 2016 1401](https://fedlex.data.admin.ch/eli/oc/2016/273)), Art. 1 der V vom 10. Juni 2016 ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), vom 29. Juni 2016 ([AS 2016 2647](https://fedlex.data.admin.ch/eli/oc/2016/424)), Ziff. II 2 des BG vom 30. Sept. 2016 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)), Art. 1 der V vom 26. Aug. 2020 ([AS 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), Art. 1 und 2 der V vom 30. Juni 2021 ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), Ziff. I des BG vom 1. Okt. 2021 ([AS 2022 119](https://fedlex.data.admin.ch/eli/oc/2022/119)) und Art. 1 der V vom 15. Febr. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
+[^annex1-lvlu1-1]: Der Inhalt des Generaltarifs wird in der AS und in der SR nicht publiziert. Er kann beim Bundesamt für Zoll und Grenzsicherheit kostenlos abgerufen werden unter: www.bazg.admin.ch &gt; Dokumentation &gt; Rechtsgrundlagen &gt; Abgabenerhebung &gt; Zolltarif. Der Inhalt der letzten Änderung kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/86](https://fedlex.data.admin.ch/eli/oc/2023/86) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+
+Anhang 2[^t-2]
+
+(Art. 1 Abs. 1 und 10 Abs. 4 Bst. b)
+
+## Generaltarif: Zollkontingente
+
+[^annex2-lvlu1-1]
+
+[^t-2]: Bereinigt gemäss Art. 1 der V vom 7. Dez. 1987 ([AS 1987 2311](https://fedlex.data.admin.ch/eli/oc/1987/2311_2311_2311)), vom 29. Juni 1988 ([AS 1988 1067](https://fedlex.data.admin.ch/eli/oc/1988/1067_1067_1067)), vom 12. Dez. 1988 ([AS 1989 139](https://fedlex.data.admin.ch/eli/oc/1989/139_139_139)), vom 26. April 1989 ([AS 1989 1124](https://fedlex.data.admin.ch/eli/oc/1989/1124_1124_1124)), vom 15. Nov. 1989 ([AS 1989 2389](https://fedlex.data.admin.ch/eli/oc/1989/2389_2389_2389)), vom 17. Juni 1991 ([AS 1991 1599](https://fedlex.data.admin.ch/eli/oc/1991/1599_1599_1599)), vom 13. Mai 1992 ([AS 1992 1232](https://fedlex.data.admin.ch/eli/oc/1992/1232_1232_1232)), Art. 1 des BG vom 9 Okt. 1992 über die Erhöhung des Treibstoffzolles ([AS 1993 955](https://fedlex.data.admin.ch/eli/oc/1993/955_955_955)), Art. 1 der V vom 14. Juni 1993 ([AS 1993 2004](https://fedlex.data.admin.ch/eli/oc/1993/2004_2004_2004)), vom 6. Juni 1994 ([AS 1994 1430](https://fedlex.data.admin.ch/eli/oc/1994/1430_1430_1430)), Ziff. I 9 des BG vom 18. März 1994 über die Sanierungsmassnahmen 1993 ([AS 1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)), Art. 1 der V vom 26. Okt. 1994 ([AS 1994 2785](https://fedlex.data.admin.ch/eli/oc/1994/2785_2785_2785)), Art. 1 und 2 der V vom 25. Okt. 1995 ([AS 1995 4932](https://fedlex.data.admin.ch/eli/oc/1995/4932_4932_4932)), Art. 1 der V vom 29. Nov. 1995 ([AS 1995 5366](https://fedlex.data.admin.ch/eli/oc/1995/5366_5366_5366)), Anhang Ziff. 1 des BG vom 21. Juni 1996 ([AS 1996 3045](https://fedlex.data.admin.ch/eli/oc/1996/3045_3045_3045)), Ziff. II des BG vom 30. April 1997 ([AS 1997 2236](https://fedlex.data.admin.ch/eli/oc/1997/2236_2236_2236)), Art. 1 der V vom 3. Juli 2001 ([AS 2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)), vom 1. März 2006 ([AS 2006 867](https://fedlex.data.admin.ch/eli/oc/2006/151)), Art. 1–3 der V vom 28. Juni 2006 ([AS 2006 2995](https://fedlex.data.admin.ch/eli/oc/2006/464)), Art. 1 und 2 der V vom 22. Juni 2011 ([AS 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), Art. 1 der V vom 10. Juni 2016 ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), vom 26. Aug. 2020 ([AS 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), Art. 1 und 2 der V vom 30. Juni 2021 ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)) und Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2024 ([AS 2022 119](https://fedlex.data.admin.ch/eli/oc/2022/119)).
+[^annex2-lvlu1-1]: Der Inhalt des Generaltarifs wird in der AS und in der SR nicht publiziert. Er kann beim Bundesamt für Zoll und Grenzsicherheit kostenlos abgerufen werden unter: www.bazg.admin.ch &gt; Dokumentation &gt; Rechtsgrundlagen &gt; Abgabenerhebung &gt; Zolltarif.
