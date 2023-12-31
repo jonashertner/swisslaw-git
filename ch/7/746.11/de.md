@@ -4,11 +4,11 @@ title: "Verordnung vom 26. Juni 2019 über Rohrleitungsanlagen zur Beförderung 
 short: RLV
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/413"
 language: de
-version: 2023-07-01
+version: 2024-01-01
 adopted: 2019-06-26
 in_force: 2019-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/413/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2019-413-20230701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/413/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2019-413-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20230701/de"
 
 (Rohrleitungsverordnung, RLV)
 
-vom 26. Juni 2019 (Stand am 1. Juli 2023)
+vom 26. Juni 2019 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -244,6 +244,16 @@ Für die Behandlung eines Plangenehmigungsgesuches gelten für das BFE in der Re
 **Sistierung**
 
 Benötigt die Unternehmung für die Ergänzung der Gesuchsunterlagen, die Erarbeitung von Projektvarianten oder die Verhandlungen mit Behörden und Einsprechenden mehr als drei Monate, so kann das Verfahren sistiert werden, bis die Wiederaufnahme verlangt wird.
+
+#### Art. 17a
+
+**Meldungen an die kantonale Vermessungsaufsicht**[^17a-1]
+
+<sup>1</sup> Das BFE informiert die kantonale Vermessungsaufsicht über die Eröffnung eines Plangenehmigungsverfahrens.
+
+<sup>2</sup> Die Unternehmung muss diese Stelle innert 20 Tagen über Änderungen ihrer Anlagen informieren, die eine Nachführung der amtlichen Vermessung notwendig machen.
+
+[^17a-1]: Eingefügt durch Anhang Ziff. 14 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 ## 3. Abschnitt: Rohrleitungstechnische Prüfung
 

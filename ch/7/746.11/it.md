@@ -4,11 +4,11 @@ title: "Ordinanza del 26 giugno 2019 sugli impianti di trasporto in condotta di 
 short: OITC
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/413"
 language: it
-version: 2023-07-01
+version: 2024-01-01
 adopted: 2019-06-26
 in_force: 2019-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/413/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2019-413-20230701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/413/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2019-413-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20230701/it"
 
 (Ordinanza sugli impianti di trasporto in condotta, OITC)
 
-del 26 giugno 2019 (Stato 1° luglio 2023)
+del 26 giugno 2019 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -35,7 +35,7 @@ ordina:
 
 La presente ordinanza disciplina la costruzione e l’esercizio di impianti di condotte destinati al trasporto di combustibili e carburanti liquidi o gassosi, idrocarburi o miscele di idrocarburi come petrolio greggio, gas naturale, gas di raffineria, distillati del petrolio greggio o residui liquidi provenienti dalla distillazione del petrolio greggio, e di impianti di condotte destinati al trasporto di idrogeno.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 24 mag. 2023, in vigore dal 1° lug. 2023 (RU **202****3** 276).
+[^1-1]: Nuovo testo giusta il n. I dell’O del 24 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 276](https://fedlex.data.admin.ch/eli/oc/2023/276)).
 
 #### Art. 2
 
@@ -244,6 +244,16 @@ Per la trattazione di una domanda di approvazione dei piani, l’UFE applica di 
 **Sospensione**
 
 Se per completare la documentazione da allegare alla domanda, elaborare le varianti di progetto o concludere le trattative con le autorità e gli oppositori l’impresa necessita di un periodo superiore ai tre mesi, la procedura può essere sospesa finché è richiesta la riapertura.
+
+#### Art. 17a
+
+**Notifiche al servizio cantonale di vigilanza sulle misurazioni**[^17a-1]
+
+<sup>1</sup> L’UFE informa il servizio cantonale di vigilanza sulle misurazioni in merito all’apertura di una procedura d’approvazione dei piani.
+
+<sup>2</sup> L’impresa è tenuta a informare tale servizio entro un termine di 20 giorni in merito alle modifiche di suoi impianti che rendono necessaria una tenuta a giorno della misurazione ufficiale.
+
+[^17a-1]: Introdotto dall’all. n. 14 dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 ## Sezione 3: Esame tecnico degli impianti di trasporto in condotta
 

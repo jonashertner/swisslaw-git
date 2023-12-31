@@ -4,11 +4,11 @@ title: "Ordonnance du 26 juin 2019 sur les installations de transport par condui
 short: OITC
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/413"
 language: fr
-version: 2023-07-01
+version: 2024-01-01
 adopted: 2019-06-26
 in_force: 2019-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/413/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2019-413-20230701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/413/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-413-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20230701/fr"
 
 (Ordonnance sur les installations de transport par conduites, OITC)
 
-du 26 juin 2019 (État le 1<sup>er</sup> juillet 2023)
+du 26 juin 2019 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -244,6 +244,16 @@ En règle générale, l’OFEN traite les demandes d’approbation des plans dan
 **Suspension**
 
 Si l’entreprise a besoin de plus de trois mois pour compléter son dossier, préparer des variantes de son projet ou pour négocier avec les autorités et les opposants, la procédure peut être suspendue jusqu’à ce que sa reprise soit demandée.
+
+#### Art. 17a
+
+**Annonces au service cantonal du cadastre**[^17a-1]
+
+<sup>1</sup> L’OFEN informe le service cantonal du cadastre de l’ouverture d’une procédure d’approbation des plans.
+
+<sup>2</sup> L’entreprise doit informer ce service dans un délai de 20 jours de toute modification de leurs installations rendant nécessaire une mise à jour de la mensuration officielle.
+
+[^17a-1]: Introduit par l’annexe ch. 14 de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 ## Section 3 Examen technique d’une installation de transport par conduites
 
