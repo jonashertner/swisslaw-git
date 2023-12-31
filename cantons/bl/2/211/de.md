@@ -4,13 +4,12 @@ number: "211"
 title: Gesetz über die Einführung des Zivilgesetzbuches
 short: EG ZGB
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-03-24
+version: 2024-01-01
+version_adopted: 2023-01-26
 adopted: 2006-11-16
 in_force: 2007-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/211"
-pdf: "https://bl.clex.ch/api/de/versions/3660/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3811/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3660/pdf_file"
 
 (EG ZGB)
 
-Vom 16.11.2006 (Stand 01.01.2023)
+Vom 16.11.2006 (Stand 01.01.2024)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -198,8 +197,8 @@ beschliesst:[^ingress-4]
 
 <sup>3</sup> Der Regierungsrat ist zuständig für:
 
-- a. die Oberaufsicht über die Stiftungen der Gemeinden (Art. 84 ZGB);
-- b. die Änderungen von deren Organisation (Art. 85 ZGB) oder Zweck (Art. 86 und 86a ZGB),
+- a. …
+- b. die Änderungen der Organisation (Art. 85 ZGB) oder des Zwecks (Art. 86 und 86a ZGB) der Stiftungen der Gemeinden,
 - c. die Aufhebung der Stiftungen der Gemeinden (Art. 88 Abs. 1 ZGB).
 
 <sup>4</sup> Der Gemeinderat kann die Aufsicht über die von ihm beaufsichtigten Stiftungen an die BVG- und Stiftungsaufsicht beider Basel (BSABB) übertragen.
@@ -341,7 +340,7 @@ beschliesst:[^ingress-4]
 
 <sup>2</sup> Jeder Spruchkörper:
 
-- a. umfasst 3–5 Mitglieder, die ihre Tätigkeit im Anstellungsverhältnis mit einem Arbeitspensum ausüben, das ihrer Aufgabe angemessen ist; vorbehalten bleibt Abs. 3;
+- a. umfasst 3–8 Mitglieder, die ihre Tätigkeit im Anstellungsverhältnis mit einem Arbeitspensum ausüben, das ihrer Aufgabe angemessen ist; vorbehalten bleibt Abs. 3;
 - b. ist zwingend mit einem oder einer Sachverständigen aus dem Bereich der Rechtswissenschaft besetzt; überdies ist er mit Sachverständigen namentlich aus den Bereichen Sozialarbeit, Psychologie, Pädagogik, Medizin, Finanzwesen oder Kindes- und Erwachsenenschutzwesen besetzt;
 - c. umfasst ein Präsidium.
 
@@ -380,10 +379,13 @@ beschliesst:[^ingress-4]
 - l. Gewährung der Akteneinsicht und Einschränkung des Akteneinsichtsrechts (Art. 449b ZGB);
 - m. Entscheid über Informationsberechtigung (Art. 451 Abs. 2 ZGB);
 - n. Genehmigung des Abschlusses und der einvernehmlichen Abänderung eines Unterhaltsvertrags (Art. 134 Abs. 3, Art. 287 Abs. 1 ZGB);
-- o. Anordnung der Beistandschaft und Ernennung der Beiständin bzw. des Beistands zur Feststellung sowie Anfechtung des Kindesverhältnisses (Art. 306 Abs. 2, Art. 309 Abs. 1 und 2 ZGB);
+- o. Anordnung der Beistandschaft und Ernennung der Beiständin bzw. des Beistands zur Feststellung sowie Anfechtung des Kindesverhältnisses (Art. 306 Abs. 2, Art. 308 Abs. 2 ZGB);
 - p. Anordnung der Inventaraufnahme sowie der periodischen Rechnungsstellung und Berichterstattung über das Kindesvermögen (Art. 318 Abs. 3, Art. 322 Abs. 2 ZGB);
 - q. Bewilligung zur Anzehrung des Kindesvermögens (Art. 320 Abs. 2 ZGB);
 - r. Anordnung der Vertretungsbeistandschaft für das ungeborene Kind zur Wahrung erbrechtlicher Ansprüche (Art. 544 Abs. 1<sup>bis</sup> ZGB).
+- s. Handlungen nach der Verordnung über die Vermögensverwaltung im Rahmen einer Beistandschaft oder Vormundschaft (VBVV) vom 4. Juli 2012[^64-1], soweit sie nicht unter Art. 416 ZGB fallen oder gemäss Art. 417 ZGB im Einzelfall der Zustimmungsbedürftigkeit durch die Kindes- und Erwachsenenschutzbehörde unterstellt wurden.
+
+[^64-1]: [SR 211.223.11](https://db.clex.ch/link/Bund/211.223.11/de)
 
 #### § 65
 
@@ -504,11 +506,7 @@ beschliesst:[^ingress-4]
 
 #### § 75
 
-**Kontrolle der Buchhaltung der Berufsbeistandschaften**
-
-<sup>1</sup> Die Einwohnergemeinden kontrollieren periodisch bei den Berufsbeistandschaften die Buchhaltung und Gesamtbilanz sowie die Einhaltung der Vorschriften des Bundes über die Anlage und Aufbewahrung der Vermögen.
-
-<sup>2</sup> Der Regierungsrat regelt die Anforderungen an die Personen, welche Kontrollen im Sinne von Abs. 1 vornehmen können.
+**…**
 
 ## 4.2.4 Pflegekinderwesen, Unterhaltskosten
 
@@ -540,11 +538,11 @@ beschliesst:[^ingress-4]
 
 **Fürsorgerische Unterbringung ohne Gefahr im Verzuge, Verfahren**
 
-<sup>1</sup> Liegt keine Gefahr im Verzuge, klärt die Erwachsenenschutzbehörde die persönlichen Verhältnisse der betroffenen Person umfassend ab.
+<sup>1</sup> Liegt keine Gefahr im Verzuge, klärt die Erwachsenenschutzbehörde die persönlichen Verhältnisse der betroffenen Person umfassend ab, unter anderem auf der Grundlage von Berichten oder Gutachten von Sachverständigen.
 
 <sup>2</sup> Der Spruchkörper der Erwachsenenschutzbehörde hört in der Regel als Kollegium die betroffene Person persönlich an.
 
-<sup>3</sup> Nötigenfalls ist der Bericht oder das Gutachten von Sachverständigen einzuholen.
+<sup>3</sup> …
 
 <sup>4</sup> Ist eine psychiatrische Begutachtung unerlässlich und kann diese nicht ambulant durchgeführt werden, weist die Erwachsenenschutzbehörde die betroffene Person zur Begutachtung in eine geeignete Einrichtung ein. Die Bestimmungen über das Verfahren bei fürsorgerischer Unterbringung sind sinngemäss anwendbar.
 
@@ -1547,9 +1545,7 @@ beschliesst:[^ingress-4]
 
 **Übergangsbestimmung betreffend bisherige Kreisgeometerbüros**
 
-<sup>1</sup> Die gemäss § 150 des Gesetzes betreffend die Einführung des Zivilgesetzbuches (EG ZGB) vom 30. Mai 1911[^184-1] bestehenden Kreisgeometerbüros sind für die Nachführung der ihnen verbleibenden amtlichen Vermessungen weiterhin bis spätestens 31. Dezember 2014 zuständig.
-
-[^184-1]: GS 16.104
+<sup>1</sup> …
 
 #### § 184a
 
@@ -1568,6 +1564,12 @@ beschliesst:[^ingress-4]
 <sup>6</sup> Die Amtsperiode der besonderen Vormundschaftsbehörden, die am 30. Juni 2012 enden würde, dauert bis zum 31. Dezember 2012.
 
 [^184a-1]: [SGS 180](https://bl.clex.ch/data/180/de/art34bbis)
+
+#### § 184b
+
+**Übergangsbestimmung betreffend Kontrolle der Buchhaltung der Berufsbeistandschaften**
+
+<sup>1</sup> Die Einwohnergemeinden stellen alle Kontrollberichte über die Buchhaltung der Berufsbeistandschaften fertig, die sich auf Kontrollen beziehen, welche während dem Geltungszeitraum der entsprechenden Bestimmung (§ 75) erfolgt sind.
 
 ## 9.2 Änderung bisherigen Rechts
 
