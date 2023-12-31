@@ -4,13 +4,13 @@ number: "621"
 title: Steuerverordnung
 short: StV
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-11-02
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-09-05
 adopted: 2000-12-12
 in_force: 2001-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/621"
-pdf: "https://srl.lu.ch/api/de/versions/3979/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4139/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3979/pdf_file"
 
 (StV)
 
-vom 12.12.2000 (Stand 01.01.2023)
+vom 12.12.2000 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -220,7 +220,7 @@ beschliesst:
 
 **Kosten für die Drittbetreuung von Kindern**
 
-<sup>1</sup> Erfüllen bei getrennter Besteuerung beide Elternteile die Voraussetzungen für den Abzug von Kinderbetreuungskosten, kann jeder Elternteil 500 Franken für die eigene Betreuung abziehen; der Abzug jedes Elternteils erhöht sich auf höchstens 3000 Franken für die ungedeckten Kosten der Drittbetreuung jedes Kindes, soweit diese Kosten in direktem Zusammenhang mit der Erwerbstätigkeit oder der Ausbildung des Elternteils stehen. Eine andere Aufteilung der Drittbetreuungskosten ist von den Elternteilen nachzuweisen. Betragen die dabei geltend gemachten Drittbetreuungskosten beider Elternteile zusammen mehr als 5000 Franken, werden die Abzüge der Elternteile im Verhältnis der nachgewiesenen Kosten auf diesen Höchstbetrag gekürzt.
+<sup>1</sup> Erfüllen bei getrennter Besteuerung beide Elternteile die Voraussetzungen für den Abzug von Kinderbetreuungskosten, kann jeder Elternteil 550 Franken für die eigene Betreuung abziehen; der Abzug jedes Elternteils erhöht sich auf höchstens 3050 Franken für die ungedeckten Kosten der Drittbetreuung jedes Kindes, soweit diese Kosten in direktem Zusammenhang mit der Erwerbstätigkeit oder der Ausbildung des Elternteils stehen. Eine andere Aufteilung der Drittbetreuungskosten ist von den Elternteilen nachzuweisen. Betragen die dabei geltend gemachten Drittbetreuungskosten beider Elternteile zusammen mehr als 5000 Franken, werden die Abzüge der Elternteile im Verhältnis der nachgewiesenen Kosten auf diesen Höchstbetrag gekürzt.
 
 #### § 15
 
