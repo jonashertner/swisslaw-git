@@ -4,11 +4,11 @@ title: Verordnung vom 10. November 2021 über das Einreise- und Ausreisesystem (
 short: EESV
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/734"
 language: de
-version: 2023-09-13
+version: 2024-01-01
 adopted: 2021-11-10
 in_force: 2022-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/734/20230913/de/xml/fedlex-data-admin-ch-eli-cc-2021-734-20230913-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20230913/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/734/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2021-734-20240101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20230913/de"
 
 (EESV)
 
-vom 10. November 2021 (Stand am 13. September 2023)
+vom 10. November 2021 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 103*f* des Ausländer- und Integrationsgesetzes vom 16. De
 
 verordnet:
 
-[^ingress-1]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^ingress-1]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 
 ## 1. Abschnitt: Gegenstand und Begriffe
 
@@ -59,8 +59,8 @@ In dieser Verordnung bedeuten:
 
 <sup>2</sup> Die Schengen-Assoziierungsabkommen sind in Anhang 1 aufgeführt.
 
-[^2-1]: [SR 142.204](https://fedlex.data.admin.ch/eli/cc/2018/493)
-[^2-2]: [SR 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)
+[^2-1]: [SR 142.204](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4856)
+[^2-2]: [SR 362.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6314)
 
 ## 2. Abschnitt: Datenkatalog des EES und Zugangsberechtigungen
 
@@ -186,8 +186,8 @@ Folgende Stellen des Bundes nach Artikel 103*c* Absatz 4 Buchstaben a–c AIG k�
 
 <sup>2</sup> Die Polizei- und Strafverfolgungsbehörden der Kantone nach Artikel 103*c* Absatz 4 Buchstabe d AIG können zur Verhütung, Aufdeckung oder Ermittlung terroristischer oder sonstiger schwerer Straftaten im Rahmen ihrer gesetzlichen Aufgaben bei der EAZ fedpol Daten des EES beantragen.
 
-[^10-1]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^10-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^10-1]: [SR 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
+[^10-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 11
 
@@ -228,7 +228,7 @@ Keine vorgängige Abfrage des AFIS ist nötig in Fällen, in denen:
 - a. eine Abfrage von vornherein als aussichtslos erscheint; oder
 - b. eine unmittelbar drohende Lebensgefahr abgewendet werden muss, die im Zusammenhang mit einer terroristischen oder sonstigen schweren Straftat steht.
 
-[^12-1]: [SR 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
+[^12-1]: [SR 361.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6311)
 
 #### Art. 13
 
@@ -294,7 +294,7 @@ Das SEM berichtigt, ergänzt oder löscht auf Gesuch hin Daten von Drittstaatsan
 
 <sup>2</sup> Das SEM bearbeitet die Auskunftsgesuche.
 
-[^18-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^18-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^18-2]: Fassung gemäss Anhang 2 Ziff. II 5 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 19
@@ -322,12 +322,13 @@ Das SEM berichtigt, ergänzt oder löscht auf Gesuch hin Daten von Drittstaatsan
 Die Datensicherheit für die Bundesbehörden richtet sich zudem nach:
 
 - a.[^20-2] der Datenschutzverordnung vom 31. August 2022[^20-3];
-- b. der Cyberrisikenverordnung vom 27. Mai 2020[^20-4].
+- b.[^20-4] der Informationssicherheitsverordnung vom 8. November 2023[^20-5].
 
 [^20-1]: Siehe Fussnote zu Art. 1 Bst. a.
 [^20-2]: Fassung gemäss Anhang 2 Ziff. II 5 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^20-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^20-4]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^20-3]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^20-4]: Fassung gemäss Anhang 2 Ziff. II 3 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^20-5]: [SR 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 
 #### Art. 21
 
@@ -384,12 +385,12 @@ Die Schengen-Assoziierungsabkommen umfassen:
 - e. Abkommen vom 28. April 2005[^annex1-lvlu1-5] zwischen der Schweizerischen Eidgenossenschaft und dem Königreich Dänemark über die Umsetzung, Anwendung und Entwicklung derjenigen Teile des Schengen-Besitzstands, die auf Bestimmungen des Titels IV des Vertrags zur Gründung der Europäischen Gemeinschaft basieren;
 - f. Protokoll vom 28. Februar 2008[^annex1-lvlu1-6] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein über den Beitritt des Fürstentums Liechtenstein zu dem Abkommen zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union und der Europäischen Gemeinschaft über die Assoziierung der Schweizerischen Eidgenossenschaft bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands.
 
-[^annex1-lvlu1-1]: [SR 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
-[^annex1-lvlu1-2]: [SR 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)
-[^annex1-lvlu1-3]: [SR 0.362.11](https://fedlex.data.admin.ch/eli/cc/2012/283)
-[^annex1-lvlu1-4]: [SR 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annex1-lvlu1-5]: [SR 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
-[^annex1-lvlu1-6]: [SR 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
+[^annex1-lvlu1-1]: [SR 0.362.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1513)
+[^annex1-lvlu1-2]: [SR 0.362.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1508)
+[^annex1-lvlu1-3]: [SR 0.362.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1509)
+[^annex1-lvlu1-4]: [SR 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annex1-lvlu1-5]: [SR 0.362.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1520)
+[^annex1-lvlu1-6]: [SR 0.362.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1514)
 
 Anhang 2
 
@@ -419,8 +420,6 @@ Zugangsberechtigte Stellen:
 - KAPO kantonale oder kommunale Polizeibehörden, die im Rahmen von ausländerrechtlichen Aufgaben im Hoheitsgebiet der Schweiz tätig sind
 - GREPO kantonale Polizeibehörden, die für die Kontrolle der Schengen-Aussengrenzen verantwortlich sind
 - MIGRA kantonale Migrationsbehörden oder Gemeindebehörden, auf welche die Kantone entsprechende Kompetenzen übertragen haben
-- [tab]
-- [tab]
 
 ## Datenkatalog EES
 

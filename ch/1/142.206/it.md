@@ -4,11 +4,11 @@ title: Ordinanza del 10 novembre 2021 sul sistema di ingressi/uscite (OEES)
 short: OEES
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/734"
 language: it
-version: 2023-09-13
+version: 2024-01-01
 adopted: 2021-11-10
 in_force: 2022-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/734/20230913/it/xml/fedlex-data-admin-ch-eli-cc-2021-734-20230913-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20230913/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/734/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2021-734-20240101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20230913/it"
 
 (OEES)
 
-del 10 novembre 2021 (Stato 13 settembre 2023)
+del 10 novembre 2021 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visto l’articolo 103*f* della legge federale del 16 dicembre 2005[^ingress-1] 
 
 ordina:
 
-[^ingress-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^ingress-1]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 
 ## Sezione 1: Oggetto e definizioni
 
@@ -59,8 +59,8 @@ Ai sensi della presente ordinanza s’intende per:
 
 <sup>2</sup> Gli accordi di associazione alla normativa di Schengen figurano nell’allegato 1.
 
-[^2-1]: [RS 142.204](https://fedlex.data.admin.ch/eli/cc/2018/493)
-[^2-2]: [RS 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)
+[^2-1]: [RS 142.204](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4856)
+[^2-2]: [RS 362.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6314)
 
 ## Sezione 2: Elenco dei dati dell’EES e diritti di accesso
 
@@ -186,8 +186,8 @@ Nell’ambito dei loro compiti legali, i servizi seguenti delle autorità della 
 
 <sup>2</sup> Nell’ambito dei loro compiti legali, le autorità cantonali di polizia e di perseguimento penale di cui all’articolo 103*c* capoverso 4 lettera d LStrI possono chiedere alla COA fedpol dati dell’EES per prevenire, individuare e investigare reati di terrorismo o altri reati gravi.
 
-[^10-1]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^10-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^10-1]: [RS 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
+[^10-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 11
 
@@ -228,7 +228,7 @@ Non è necessario consultare previamente l’AFIS nei casi in cui:
 - a. una consultazione appare fin dall’inizio priva di qualsiasi possibilità di successo; o
 - b. occorre prevenire un pericolo imminente per la vita di una persona associato a un reato di terrorismo o a un altro reato grave.
 
-[^12-1]: [RS 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
+[^12-1]: [RS 361.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6311)
 
 #### Art. 13
 
@@ -294,7 +294,7 @@ La SEM rettifica, integra o cancella, su richiesta, dati di cittadini di Stati t
 
 <sup>2</sup> La SEM tratta le richieste di accesso.
 
-[^18-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^18-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^18-2]: Nuovo testo giusta l’all. 2 n. II 5 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 19
@@ -321,13 +321,13 @@ La SEM rettifica, integra o cancella, su richiesta, dati di cittadini di Stati t
 
 La sicurezza dei dati per le autorità federali è inoltre retta:
 
-- a.[^20-2] dall’ordinanza del 31 agosto 2022[^20-3] sulla protezione dei dati;
-- b. dell’ordinanza del 27 maggio 2020[^20-4] sui ciber-rischi.
+- a.[^20-2] all’ordinanza del 31 agosto 202215 sulla protezione dei dati;
+- b.[^20-3] dall’ordinanza dell’8 novembre 2023[^20-4] sulla sicurezza delle informazioni.
 
 [^20-1]: Cfr. nota a piè di pagina relativa all’art. 1 lett. a.
 [^20-2]: Nuovo testo giusta l’all. 2 n. II 5 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^20-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^20-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^20-3]: Nuovo testo giusta l’all. 2 n. II 3 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^20-4]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 
 #### Art. 21
 
@@ -384,12 +384,12 @@ Gli accordi di associazione alla normativa di Schengen comprendono:
 - e. Accordo del 28 aprile 2005[^annex1-lvlu1-5] tra la Confederazione Svizzera e il Regno di Danimarca sull’attuazione, l’applicazione e lo sviluppo delle parti dell’acquis di Schengen basate sulle disposizioni del titolo IV del Trattato che istituisce la Comunità europea;
 - f. Protocollo del 28 febbraio 2008[^annex1-lvlu1-6] tra la Confederazione Svizzera, l’Unione europea, la Comunità europea e il Principato del Liechtenstein sull’adesione del Principato del Liechtenstein all’accordo tra la Confederazione Svizzera, l’Unione europea e la Comunità europea, riguardante l’associazione della Confederazione Svizzera all’attuazione, all’applicazione e allo sviluppo dell’acquis di Schengen.
 
-[^annex1-lvlu1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
-[^annex1-lvlu1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)
-[^annex1-lvlu1-3]: [RS 0.362.11](https://fedlex.data.admin.ch/eli/cc/2012/283)
-[^annex1-lvlu1-4]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annex1-lvlu1-5]: [RS 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
-[^annex1-lvlu1-6]: [RS 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
+[^annex1-lvlu1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1513)
+[^annex1-lvlu1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1508)
+[^annex1-lvlu1-3]: [RS 0.362.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1509)
+[^annex1-lvlu1-4]: [RS 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annex1-lvlu1-5]: [RS 0.362.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1520)
+[^annex1-lvlu1-6]: [RS 0.362.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1514)
 
 Allegato 2[^t-1]
 
