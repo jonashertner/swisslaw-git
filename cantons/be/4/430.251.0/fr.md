@@ -4,13 +4,13 @@ number: "430.251.0"
 title: Ordonnance sur le statut du corps enseignant
 short: OSE
 language: fr
-version: 2023-03-01
-valid_until: 2023-12-31
-version_adopted: 2023-01-11
+version: 2024-01-01
+valid_until: 2024-07-31
+version_adopted: 2023-11-29
 adopted: 2007-03-28
 in_force: 2007-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/430.251.0"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2806/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2977/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2806/pdf_file"
 
 (OSE)
 
-du 28.03.2007 (état au 01.03.2023)
+du 28.03.2007 (état au 01.01.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -427,6 +427,8 @@ arrête:
 <sup>4</sup> La direction d’école transmet le certificat médical à la Section du personnel de l’Office des services centralisés de la Direction de l’instruction publique et de la culture.
 
 <sup>5</sup> …
+
+<sup>6</sup> Dans des cas particuliers, le Conseil-exécutif peut, par voie d'arrêté, prolonger le délai de dépôt d'un certificat médical ou dispenser la personne concernée d'en déposer un.
 
 #### Art. 35a
 

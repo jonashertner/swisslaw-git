@@ -4,13 +4,13 @@ number: "430.251.0"
 title: Verordnung über die Anstellung der Lehrkräfte
 short: LAV
 language: de
-version: 2023-03-01
-valid_until: 2023-12-31
-version_adopted: 2023-01-11
+version: 2024-01-01
+valid_until: 2024-07-31
+version_adopted: 2023-11-29
 adopted: 2007-03-28
 in_force: 2007-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/430.251.0"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2806/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2977/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2806/pdf_file"
 
 (LAV)
 
-vom 28.03.2007 (Stand 01.03.2023)
+vom 28.03.2007 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -428,6 +428,8 @@ geführt werden,
 <sup>4</sup> Die Schulleitung leitet das Arztzeugnis an die Abteilung Personaldienstleistungen des Amtes für zentrale Dienste der Bildungs- und Kulturdirektion weiter.
 
 <sup>5</sup> …
+
+<sup>6</sup> Der Regierungsrat kann in besonderen Fällen durch Beschluss die Frist zur Einreichung eines Arztzeugnisses erstrecken oder ganz davon absehen.
 
 #### Art. 35a
 
