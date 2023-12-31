@@ -4,11 +4,11 @@ title: "Ordinance of 8 May 1934 on the Control of Trade in Precious Metals and A
 short: PMCO
 eli: "https://fedlex.data.admin.ch/eli/cc/50/363_375_420"
 language: en
-version: 2023-04-01
+version: 2024-01-01
 adopted: 1934-05-08
 in_force: 1934-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/en/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20230401-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20230401/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20240101/en/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20240101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Precious Metals Control Ordinance, PMCO)[^t-1]
 
-of 8 May 1934 (Status as of 1 April 2023)
+of 8 May 1934 (Status as of 1 January 2024)
 
 [^t-1]: Amended by No I of the O of 17 Feb. 1993, in force since 1 April 1993 ([AS 1993 984](https://fedlex.data.admin.ch/eli/oc/1993/984_984_984)).
 
@@ -45,7 +45,7 @@ The Federal Council is the supreme body in all matters concerning the control of
 - d.[^1-3] ...
 - e.[^1-4] ...
 
-[^1-1]: [BS **1** 610; [AS 1948 367](https://fedlex.data.admin.ch/eli/oc/1948/367_359_305), **1949** I 133 [832](https://fedlex.data.admin.ch/eli/oc/1949/832_855_857), II [1730](https://fedlex.data.admin.ch/eli/oc/1949/1730_1836_1767). [AS 1952 659](https://fedlex.data.admin.ch/eli/oc/1952/659_675_677)Art. 76 para. 2]. See today: the Federal Personnel Act of 24 March 2000 ([SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)).
+[^1-1]: [BS **1** 610; [AS 1948 367](https://fedlex.data.admin.ch/eli/oc/1948/367_359_305); **1949** I 133, [832](https://fedlex.data.admin.ch/eli/oc/1949/832_855_857)II, [1730](https://fedlex.data.admin.ch/eli/oc/1949/1730_1836_1767). [AS 1952 659](https://fedlex.data.admin.ch/eli/oc/1952/659_675_677)Art. 76 para. 2]. See today: the Federal Personnel Act of 24 March 2000 ([SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)).
 [^1-2]: Name in accordance with Art. 1 of the unpublished FCD of 23 April 1980 on the Adaptation of Federal Legislation to the new names of the Departments and Offices. This amendment has been made throughout the text.
 [^1-3]: Let. d concerned the now repealed para. 1 and 2 of Art. 54 of the Act.
 [^1-4]: Repealed by No I of the O of 19 June 1995, with effect from 1 Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
@@ -66,7 +66,7 @@ The Federal Department of Finance is responsible for the direct business managem
 - h. approve the settlement of fees flowing into the federal coffers (Art. 4 let. n);
 - i. select the officers of the Central Office in accordance with Article 4 of the Public Officials Regulations I of 24 October 1930[^2-1].
 
-[^2-1]: [BS **1** 610; [AS 1948 367](https://fedlex.data.admin.ch/eli/oc/1948/367_359_305), **1949** I 133 [832](https://fedlex.data.admin.ch/eli/oc/1949/832_855_857), II [1730](https://fedlex.data.admin.ch/eli/oc/1949/1730_1836_1767). [AS 1952 659](https://fedlex.data.admin.ch/eli/oc/1952/659_675_677)Art. 76 para 2]. See today: the Federal Personnel Act of 24 March 2000 ([SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)).
+[^2-1]: [BS **1** 610; [AS 1948 367](https://fedlex.data.admin.ch/eli/oc/1948/367_359_305); **1949** I 133, [832](https://fedlex.data.admin.ch/eli/oc/1949/832_855_857)II, [1730](https://fedlex.data.admin.ch/eli/oc/1949/1730_1836_1767). [AS 1952 659](https://fedlex.data.admin.ch/eli/oc/1952/659_675_677)Art. 76 para 2]. See today: the Federal Personnel Act of 24 March 2000 ([SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)).
 
 ### III. Central Office
 
@@ -637,9 +637,9 @@ As part of the supervisory process, the Central Office may transmit non-publicly
 
 [^34e-1]
 
-The rights of the persons concerned, particularly the right to information and the right to the correction or destruction of data, shall be governed by the Federal Act of 19 June 1992[^34e-2] on Data Protection.
+The rights of the persons concerned, particularly the right to information and the right to the correction or destruction of data, shall be governed by the Federal Act of 25 September 2020[^34e-2] on Data Protection.
 
-[^34e-1]: Inserted by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^34e-1]: Inserted by Annex No 4 of the O of 31 Aug. 2022 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)). Amended by Annex 1 No II 43 of the Information Security Ordinance of 8 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 [^34e-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 ### f. Correction of data
@@ -658,13 +658,14 @@ The Central Office shall immediately correct or destroy data which is incorrect 
 
 [^34g-1]
 
-<sup>1</sup> As regards data security, Articles 20 and 21 of the Ordinance of 14 June 1993[^34g-2] to the Federal Act on Data Protection and the Cyber Risks Ordinance of 27 May 2020[^34g-3] apply.
+<sup>1</sup> As regards data security, Articles 1–4 and 6 of the Data Protection Ordinance of 31 August 2022[^34g-2] and the Information Security Ordinance of 8 November 2023[^34g-3] apply.[^34g-4]
 
 <sup>2</sup> Data, programs and the associated documentation must be protected from unauthorised processing and against destruction and theft. They must be recoverable.
 
 [^34g-1]: Inserted by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 [^34g-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^34g-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^34g-3]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^34g-4]: Amended by Annex 2 No II 43 of the Information Security Ordinance of 8 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 ### h. Retention period and deletion of data
 
@@ -2550,9 +2551,9 @@ Number 1
 (Art. 109 para. 1)
 
 <table>
-<tr><td>Large hallmark: [tab] Dimensions: [tab] Height: 1.6 mm Width: 2 mm</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/en/xml/image/image1.png)</td></tr>
+<tr><td>Large hallmark: [tab] Dimensions: [tab] Height: 1.6 mm Width: 2 mm</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20240101/en/xml/image/image1.png)</td></tr>
 <tr><td colspan="2">Small hallmark:</td><td></td></tr>
-<tr><td>[tab] Dimensions: [tab] Height: 0.8 mm Width: 1 mm</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/en/xml/image/image2.png)</td></tr>
+<tr><td>[tab] Dimensions: [tab] Height: 0.8 mm Width: 1 mm</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20240101/en/xml/image/image2.png)</td></tr>
 </table>
 
 For small hallmarks applied using laser ablation, the following dimensions are also permitted:
@@ -2572,7 +2573,7 @@ Number 2
 (Art. 58 para. 3)
 
 <table>
-<tr><td>Dimensions: Side length: 0.8 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/en/xml/image/image3.png)</td></tr>
+<tr><td>Dimensions: Side length: 0.8 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20240101/en/xml/image/image3.png)</td></tr>
 </table>
 
 Note:
@@ -2619,8 +2620,8 @@ Examples:
 
 Federal Assay Offices:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/en/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20240101/en/xml/image/image4.png)
 
 Cantonal Assay Offices:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/en/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20240101/en/xml/image/image5.png)

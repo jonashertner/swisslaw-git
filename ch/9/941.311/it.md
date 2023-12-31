@@ -4,11 +4,11 @@ title: "Ordinanza dell'8 maggio 1934 sul controllo del commercio in metalli prez
 short: OCMP
 eli: "https://fedlex.data.admin.ch/eli/cc/50/363_375_420"
 language: it
-version: 2023-04-01
+version: 2024-01-01
 adopted: 1934-05-08
 in_force: 1934-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/it/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20230401-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20230401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20240101/it/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20230401/it"
 
 (Ordinanza sul controllo dei metalli preziosi, OCMP)[^t-1]
 
-dell’8 maggio 1934 (Stato 1° aprile 2023)
+dell’8 maggio 1934 (Stato 1° gennaio 2024)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 17 feb. 1993, in vigore dal 1° apr. 1993 ([RU 1993 984](https://fedlex.data.admin.ch/eli/oc/1993/984_984_984)).
 
@@ -628,9 +628,9 @@ Nell’ambito della vigilanza, l’Ufficio centrale può trasmettere e affidare 
 
 [^34e-1]
 
-I diritti delle persone interessate, in particolare i diritti d’accesso, di rettifica e di distruzione, si fondano sulla legge federale del 19 giugno 1992[^34e-2] sulla protezione dei dati.
+I diritti delle persone interessate, in particolare i diritti d’accesso, di rettifica e di distruzione, si fondano sulla legge federale del 25 settembre 2020[^34e-2] sulla protezione dei dati.
 
-[^34e-1]: Introdotto dall’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^34e-1]: Introdotto dall’all. n. 4 dell’O del 31 ago. 2022 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)). Nuovo testo giusta l’all. 2 n. II 43 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 [^34e-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 ### f. Rettifica dei dati
@@ -649,13 +649,14 @@ L’Ufficio centrale rettifica o distrugge senza indugio i dati errati o incompl
 
 [^34g-1]
 
-<sup>1</sup> Per garantire la sicurezza dei dati sono applicabili gli articoli 20 e 21 dell’ordinanza del 14 giugno 1993[^34g-2] relativa alla legge federale sulla protezione dei dati nonché l’ordinanza del 27 maggio 2020[^34g-3] sui ciber-rischi.
+<sup>1</sup> Per garantire la sicurezza dei dati sono applicabili gli articoli 1–4 e 6 dell’ordinanza del 31 agosto 2022[^34g-2] sulla protezione dei dati nonché l’ordinanza dell’8 novembre 2023[^34g-3] sulla sicurezza delle informazioni.[^34g-4]
 
 <sup>2</sup> I dati, i programmi e la rispettiva documentazione devono essere protetti contro qualsiasi trattamento non autorizzato nonché contro la distruzione e il furto. Essi devono poter essere ripristinati.
 
 [^34g-1]: Introdotto dall’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 [^34g-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^34g-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^34g-3]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^34g-4]: Nuovo testo giusta l’all. 2 n. II 43 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 ### h. Durata della conservazione e cancellazione dei dati
 
@@ -2548,8 +2549,8 @@ Numero 1
 (art. 109 cpv. 1)
 
 <table>
-<tr><td>**Marchio grande:** Dimensioni: Altezza: 1,6 mm Larghezza: 2 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/it/xml/image/image1.png)</td></tr>
-<tr><td>**Marchio piccolo:** Dimensioni: Altezza: 0,8 mm Larghezza: 1 mm Per i marchi piccoli apposti con l’ablazione laser sono ammesse anche le seguenti dimensioni: Altezza: 0,5 mm Larghezza: 0,625 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/it/xml/image/image1.png)</td></tr>
+<tr><td>**Marchio grande:** Dimensioni: Altezza: 1,6 mm Larghezza: 2 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20240101/it/xml/image/image1.png)</td></tr>
+<tr><td>**Marchio piccolo:** Dimensioni: Altezza: 0,8 mm Larghezza: 1 mm Per i marchi piccoli apposti con l’ablazione laser sono ammesse anche le seguenti dimensioni: Altezza: 0,5 mm Larghezza: 0,625 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20240101/it/xml/image/image1.png)</td></tr>
 </table>
 
 *Nota:*
@@ -2563,7 +2564,7 @@ Numero 2
 (art. 58 cpv. 3)
 
 <table>
-<tr><td>Dimensioni: lato: 0,8 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/it/xml/image/image2.png)</td></tr>
+<tr><td>Dimensioni: lato: 0,8 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20240101/it/xml/image/image2.png)</td></tr>
 </table>
 
 Nota:
@@ -2599,8 +2600,8 @@ Esempi:
 
 Uffici federali di controllo:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20240101/it/xml/image/image3.png)
 
 Uffici cantonali di controllo:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20240101/it/xml/image/image3.png)

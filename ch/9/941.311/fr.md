@@ -4,11 +4,11 @@ title: "Ordonnance du 8 mai 1934 sur le contrôle du commerce des métaux préci
 short: OCMP
 eli: "https://fedlex.data.admin.ch/eli/cc/50/363_375_420"
 language: fr
-version: 2023-04-01
+version: 2024-01-01
 adopted: 1934-05-08
 in_force: 1934-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20230401-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20230401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20230401/fr"
 
 (Ordonnance sur le contrôle des métaux précieux, OCMP)[^t-1]
 
-du 8 mai 1934 (État le 1<sup>er</sup> avril 2023)
+du 8 mai 1934 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 17 fév. 1993, en vigueur depuis le 1<sup>er</sup> avr. 1993 ([RO 1993 984](https://fedlex.data.admin.ch/eli/oc/1993/984_984_984)).
 
@@ -628,9 +628,9 @@ Le bureau central peut transmettre, dans le cadre de sa surveillance, des donné
 
 [^34e-1]
 
-Les droits des personnes concernées, en particulier le droit d’accès aux données, à leur rectification et à leur destruction, sont régis par la loi fédérale du 19 juin 1992 sur la protection des données[^34e-2].
+Les droits des personnes concernées, en particulier le droit d’accès aux données, à leur rectification et à leur destruction, sont régis par la loi fédérale du 25 septembre 2020 sur la protection des données[^34e-2].
 
-[^34e-1]: Introduit par l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^34e-1]: Introduit par l’annexe ch. 4 de l’O du 31 août 2022 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)). Nouvelle teneur selon l’annexe 2 ch. II 43 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 [^34e-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 ### f. Rectification des données
@@ -649,13 +649,14 @@ Le bureau central rectifie ou détruit sans délai les données qui sont inexact
 
 [^34g-1]
 
-<sup>1</sup> Les art. 20 et 21 de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^34g-2] et l’ordonnance du 27 mai 2020 sur les cyberrisques[^34g-3] sont applicables pour assurer la sécurité des données.
+<sup>1</sup> Les art. 1 à 4 et 6 de l’ordonnance du 31 août 2022 sur la protection des données[^34g-2] et l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^34g-3] sont applicables pour garantir la sécurité des données.[^34g-4]
 
 <sup>2</sup> Les données, les programmes et la documentation qui y est rattachée doivent être protégés contre tout traitement non autorisé, la destruction et le vol. Ils doivent pouvoir être restaurés.
 
 [^34g-1]: Introduit par l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 [^34g-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^34g-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^34g-3]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^34g-4]: Nouvelle teneur selon l’annexe 2 ch. II 43 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 ### h. Délai de conservation et effacement des données
 
@@ -2535,8 +2536,8 @@ Chiffre 1
 (art. 109, al. 1)
 
 <table>
-<tr><td>**Grand poinçon:** Dimensions: Hauteur: 1,6 mm Largeur: 2 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/fr/xml/image/image1.png)</td></tr>
-<tr><td>**Petit poinçon:** Dimensions: Hauteur: 0,8 mm Largeur: 1 mm Les dimensions suivantes sont autorisées pour les petits poinçons apposés par ablation laser: Hauteur: 0,5 mm Largeur: 0,625 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/fr/xml/image/image1.png)</td></tr>
+<tr><td>**Grand poinçon:** Dimensions: Hauteur: 1,6 mm Largeur: 2 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20240101/fr/xml/image/image1.png)</td></tr>
+<tr><td>**Petit poinçon:** Dimensions: Hauteur: 0,8 mm Largeur: 1 mm Les dimensions suivantes sont autorisées pour les petits poinçons apposés par ablation laser: Hauteur: 0,5 mm Largeur: 0,625 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20240101/fr/xml/image/image1.png)</td></tr>
 </table>
 
 Note:
@@ -2550,7 +2551,7 @@ Chiffre 2
 (art. 58, al. 3)
 
 <table>
-<tr><td>Dimension: 0,8 mm de côté</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/fr/xml/image/image2.png)</td></tr>
+<tr><td>Dimension: 0,8 mm de côté</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20240101/fr/xml/image/image2.png)</td></tr>
 </table>
 
 Note:
@@ -2586,8 +2587,8 @@ Exemples:
 
 Bureaux fédéraux:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20240101/fr/xml/image/image3.png)
 
 Bureaux cantonaux:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20240101/fr/xml/image/image3.png)

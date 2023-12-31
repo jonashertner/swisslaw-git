@@ -4,11 +4,11 @@ title: "Verordnung vom 8. Mai 1934 über die Kontrolle des Verkehrs mit Edelmeta
 short: EMKV
 eli: "https://fedlex.data.admin.ch/eli/cc/50/363_375_420"
 language: de
-version: 2023-04-01
+version: 2024-01-01
 adopted: 1934-05-08
 in_force: 1934-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/de/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20230401-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20230401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20240101/de/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20230401/de"
 
 (Edelmetallkontrollverordnung, EMKV)[^t-1]
 
-vom 8. Mai 1934 (Stand am 1. April 2023)
+vom 8. Mai 1934 (Stand am 1. Januar 2024)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 17. Febr. 1993, in Kraft seit 1. April 1993 ([AS 1993 984](https://fedlex.data.admin.ch/eli/oc/1993/984_984_984)).
 
@@ -637,9 +637,9 @@ Das Zentralamt kann im Rahmen der Aufsicht Personendaten, die nicht öffentlich 
 
 [^34e-1]
 
-Die Rechte der betroffenen Personen, insbesondere das Recht auf Auskunft, auf Berichtigung und auf Vernichtung der Daten, richten sich nach dem Bundesgesetz vom 19. Juni 1992[^34e-2] über den Datenschutz.
+Die Rechte der betroffenen Personen, insbesondere das Recht auf Auskunft, auf Berichtigung und auf Vernichtung der Daten, richten sich nach dem Bundesgesetz vom 25. September 2020[^34e-2] über den Datenschutz.
 
-[^34e-1]: Eingefügt durch Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^34e-1]: Eingefügt durch Anhang Ziff. 4 der V vom 31. Aug. 2022 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)). Fassung gemäss Anhang 2 Ziff. II 43 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 [^34e-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 ### f. Datenberichtigung
@@ -658,13 +658,14 @@ Das Zentralamt berichtigt oder vernichtet umgehend Daten, die unrichtig oder unv
 
 [^34g-1]
 
-<sup>1</sup> Für die Gewährleistung der Datensicherheit gelten die Artikel 20 und 21 der Verordnung vom 14. Juni 1993[^34g-2] zum Bundesgesetz über den Datenschutz sowie die Cyberrisikenverordnung vom 27. Mai 2020[^34g-3].
+<sup>1</sup> Für die Gewährleistung der Datensicherheit gelten die Artikel 1–4 und 6 der Datenschutzverordnung vom 31. August 2022[^34g-2] sowie die Informationssicherheitsverordnung vom 8. November 2023[^34g-3].[^34g-4]
 
 <sup>2</sup> Daten, Programme und dazugehörige Dokumentationen sind gegen unbefugtes Bearbeiten sowie gegen Zerstörung und Entwendung zu schützen. Sie müssen wiederhergestellt werden können.
 
 [^34g-1]: Eingefügt durch Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 [^34g-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^34g-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^34g-3]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^34g-4]: Fassung gemäss Anhang 2 Ziff. II 43 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 
 ### h. Dauer der Aufbewahrung und Löschen der Daten
 
@@ -1658,7 +1659,7 @@ Vorbehalten bleiben folgende Staatsverträge:
 [^126-7]: [SR 0.941.345.4](https://fedlex.data.admin.ch/eli/cc/1974/752_753_753)
 [^126-8]: Eingefügt durch Ziff. I der V vom 2. Nov. 2011, in Kraft seit 2. Aug. 2013 ([AS 2013 2345](https://fedlex.data.admin.ch/eli/oc/2013/494)).
 [^126-9]: [SR 0.941.366.5](https://fedlex.data.admin.ch/eli/cc/2013/499)
-[^126-10]: Eingefügt durch Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. April 2023 (AS **20****2****3** 166).
+[^126-10]: Eingefügt durch Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. April 2023 ([AS 2023 166](https://fedlex.data.admin.ch/eli/oc/2023/166)).
 [^126-11]: [SR 0.941.347.0](https://fedlex.data.admin.ch/eli/cc/2023/167)
 
 #### Art. 127
@@ -2548,8 +2549,8 @@ Ziffer 1
 (Art. 109 Abs. 1)
 
 <table>
-<tr><td>**Grosse Punze:** Dimensionen: Höhe: 1,6 mm Breite: 2 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/de/xml/image/image1.png)</td></tr>
-<tr><td>**Kleine Punze:** Dimensionen: Höhe: 0,8 mm Breite: 1 mm Für durch Laserablation angebrachte kleine Punzen sind auch folgende Dimensionen zulässig: Höhe: 0,5 mm Breite: 0,625 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/de/xml/image/image1.png)</td></tr>
+<tr><td>**Grosse Punze:** Dimensionen: Höhe: 1,6 mm Breite: 2 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20240101/de/xml/image/image1.png)</td></tr>
+<tr><td>**Kleine Punze:** Dimensionen: Höhe: 0,8 mm Breite: 1 mm Für durch Laserablation angebrachte kleine Punzen sind auch folgende Dimensionen zulässig: Höhe: 0,5 mm Breite: 0,625 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20240101/de/xml/image/image1.png)</td></tr>
 </table>
 
 Anmerkung:
@@ -2563,7 +2564,7 @@ Ziffer 2
 (Art. 58 Abs. 3)
 
 <table>
-<tr><td>Dimensionen: Seitenlänge: 0,8 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/de/xml/image/image2.png)</td></tr>
+<tr><td>Dimensionen: Seitenlänge: 0,8 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20240101/de/xml/image/image2.png)</td></tr>
 </table>
 
 Anmerkung:
@@ -2599,8 +2600,8 @@ Beispiele
 
 Eidgenössische Kontrollämter:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20240101/de/xml/image/image3.png)
 
 Kantonale Kontrollämter:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230401/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20240101/de/xml/image/image3.png)
