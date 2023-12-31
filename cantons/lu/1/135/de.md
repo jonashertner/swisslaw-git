@@ -4,13 +4,13 @@ number: "135"
 title: Reglement der Luzerner Pensionskasse
 short: LUPK-Reglement
 language: de
-version: 2022-07-01
-valid_until: 2023-12-31
-version_adopted: 2022-06-22
+version: 2024-01-01
+valid_until: 2025-12-31
+version_adopted: 2023-12-13
 adopted: 2013-12-12
 in_force: 2014-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/135"
-pdf: "https://srl.lu.ch/api/de/versions/4144/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4164/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4144/pdf_file"
 
 (LUPK-Reglement)
 
-vom 12.12.2013 (Stand 01.07.2022)
+vom 12.12.2013 (Stand 01.01.2024)
 
 ## 1 Allgemeine Bestimmungen
 
@@ -34,7 +34,10 @@ vom 12.12.2013 (Stand 01.07.2022)
   - 1\. Kanton Luzern sowie seine rechtsfähigen Anstalten und Körperschaften,
   - 2\. Gemeinden des Kantons Luzern mit Bezug auf die Lehrpersonen und Fachpersonen der schulischen Dienste,
   - 3\. angeschlossene Arbeitgeber
-- c. angeschlossene Arbeitgeber: natürliche oder juristische Personen, die öffentliche Aufgaben erfüllen und ihr Personal durch einen Anschlussvertrag bei der Kasse versichert haben
+- c. angeschlossene Arbeitgeber: natürliche oder juristische Personen, die
+  - 1\. öffentliche Aufgaben erfüllen und
+  - 2\. die wirtschaftlich oder finanziell eng mit dem Kanton Luzern verbunden sind (z. B. die Gemeinden des Kantons Luzern) oder sich gestützt auf einer gesetzlichen Grundlage der Kasse anschliessen können und
+  - 3\. ihr Personal durch einen Anschlussvertrag bei der Kasse versichert haben
 - d. Personal: Arbeitnehmerinnen und Arbeitnehmer, die zu einem Arbeitgeber in einem öffentlich-rechtlichen oder in einem privatrechtlichen Arbeitsverhältnis stehen
 - e. Versicherte, versicherte Person:
   - 1\. aktive Versicherte: versicherungspflichtiges Personal der Arbeitgeber
@@ -74,9 +77,9 @@ vom 12.12.2013 (Stand 01.07.2022)
 
 <sup>2</sup> Die Bestimmungen dieses Reglements gelten auch für die angeschlossenen Arbeitgeber und deren Personal. Für übernommene Anspruchsberechtigte (pensionierte Personen, Hinterlassene) können spezielle Bestimmungen vereinbart werden.
 
-<sup>3</sup> Die Gemeinden des Kantons Luzern haben das Recht, der LUPK ihr Personal, das nicht von Gesetzes wegen bei der LUPK versichert ist, zu den Bedingungen dieses Reglements anzuschliessen. Vorausgesetzt ist eine Einigung über die Bewertung der Vermögenswerte, über den Einkauf in Reserven und freie Mittel sowie über die allfällige Übernahme von pensionierten Versicherten. Kommt keine Einigung zustande, entscheidet ein dreiköpfiges Schiedsgericht. Die anschlusswillige Gemeinde und die LUPK bezeichnen je einen Schiedsrichter oder eine Schiedsrichterin; diese wählen das Präsidium.
+<sup>3</sup> Der Vorstand entscheidet über den Anschluss von Arbeitgebern.
 
-<sup>4</sup> Der Vorstand entscheidet frei über den Anschluss weiterer Arbeitgeber.
+<sup>4</sup> …
 
 #### Art. 3
 
@@ -116,11 +119,7 @@ vom 12.12.2013 (Stand 01.07.2022)
 
 #### Art. 5a
 
-**Weiterversicherung nach Erreichen des Rentenalters**
-
-<sup>1</sup> Versicherte, die nach Vollendung des 65. Lebensjahres aus einem ununterbrochenen Arbeitsverhältnis mit dem Arbeitgeber mindestens ein Erwerbseinkommen gemäss Art. 4.1 erzielen, können auf Verlangen ihre Versicherung bis zum Ende des Arbeitsverhältnisses, längstens bis zur Vollendung des 70. Lebensjahres weiterführen. Die Altersgutschriften richten sich nach Art. 23.1.
-
-<sup>2</sup> Wer auf die Weiterversicherung gemäss Art. 5a.1 verzichtet, erhält die Altersleistungen.
+**…**
 
 #### Art. 6
 
@@ -188,7 +187,7 @@ vom 12.12.2013 (Stand 01.07.2022)
 - a. bei Personen mit festen Pensen auf den Zeitpunkt der Lohnänderung,
 - b. bei Personen mit schwankenden Pensen grundsätzlich auf den Beginn des folgenden Jahres. Eine sofortige Anpassung erfolgt, wenn es wahrscheinlich ist, dass sich der anrechenbare Jahresverdienst für längere Zeit (d.h. für über sechs Monate) und in erheblichem Mass (d.h. über 20%) verändern wird.
 
-<sup>5</sup> Rückwirkende Anpassungen des anrechenbaren Jahresverdienstes für abgeschlossene Kalenderjahre werden nur auf Gesuch der versicherten Person oder des Arbeitgebers vorgenommen.
+<sup>5</sup> Rückwirkende Anpassungen des anrechenbaren Jahresverdienstes für abgeschlossene Kalenderjahre werden nur auf Gesuch der versicherten Person oder des Arbeitgebers und wenn sich dadurch der anrechenbare Jahresverdienst um mindestens 10 Prozent ändert vorgenommen.
 
 <sup>6</sup> Erwerbseinkommen, das nicht bei einem Arbeitgeber im Sinn des Reglements erzielt wird, kann nicht versichert werden.
 
@@ -221,6 +220,8 @@ vom 12.12.2013 (Stand 01.07.2022)
 **Geltung des eidgenössischen Sozialversicherungsrechts**
 
 <sup>1</sup> Die zwingenden Bestimmungen des Bundesrechts gehen diesem Reglement vor. Die LUPK weist die BVG-Mindestleistungen, einschliesslich der vom Bundesrat angeordneten Anpassungen der Hinterlassenen- und Invalidenleistungen an die Preisentwicklung, in einer Schattenrechnung aus. Die übrigen bundesrechtlichen Bestimmungen werden angewendet, soweit dieses Reglement keine eigenen Vorschriften enthält.
+
+Die Umwandlungssätze für die Schattenrechnung entsprechen beim Rücktritt im Referenzalter gemäss BVG den Mindestumwandlungssätzen gemäss BVG. Bei einem früheren Altersrücktritt reduzieren sich diese Umwandlungssätze für jeden Monat des Vorbezugs um 0,0125 Prozent bzw. bei einem späteren Bezug erhöhen sie sich für jeden Monat des Aufschubs um 0,0125 Prozent.
 
 #### Art. 12
 
@@ -281,7 +282,7 @@ vom 12.12.2013 (Stand 01.07.2022)
 
 **Maximalbetrag zur Verfügung der versicherten Person**
 
-<sup>1</sup> Versicherte können für die Kapitalabfindung gemäss Art. 15 und für die Finanzierung der AHV-Ersatzrente gemäss Art. 28.4 zusammen höchstens 100 Prozent ihres für die Altersrentenberechnung massgebenden Altersguthabens verwenden.
+<sup>1</sup> Versicherte können für die Kapitalabfindung gemäss Art. 15 höchstens 100 Prozent ihres für die Altersrentenberechnung massgebenden Altersguthabens verwenden. Bei einer teilweisen Kapitalabfindung muss die verbleibende Altersrente mindestens 10 Prozent der minimalen, vollen ungekürzten AHV-Altersrente betragen.
 
 #### Art. 17
 
@@ -289,7 +290,7 @@ vom 12.12.2013 (Stand 01.07.2022)
 
 <sup>1</sup> Die Hinterlassenen- und Invalidenleistungen werden im Rahmen der bundesrechtlichen Vorgaben gekürzt, soweit sie zusammen mit anderen Leistungen gleicher Art und Zweckbestimmung sowie weiteren nach Bundesrecht anrechenbaren Einkünften 90 Prozent des mutmasslich entgangenen Verdienstes übersteigen.
 
-<sup>2</sup> Die Kürzung anderer Leistungen, die bei Erreichen des ordentlichen AHV-Rentenalters vorgenommen wird, sowie die Kürzung oder Verweigerung anderer Leistungen aufgrund von schwerem Selbstverschulden werden nicht ausgeglichen.
+<sup>2</sup> Die Kürzung anderer Leistungen, die bei Erreichen des Referenzalters gemäss AHV vorgenommen wird, sowie die Kürzung oder Verweigerung anderer Leistungen aufgrund von schwerem Selbstverschulden werden nicht ausgeglichen.
 
 <sup>3</sup> In Härtefällen kann auf eine Kürzung ganz oder teilweise verzichtet werden.
 
@@ -376,9 +377,13 @@ vom 12.12.2013 (Stand 01.07.2022)
 <sup>1</sup> Versicherte haben Anspruch auf eine ganze Altersrente
 
 - a. nach Vollendung des 60. Lebensjahres, sofern das Arbeitsverhältnis zum Arbeitgeber beendet oder die obligatorische Versicherungspflicht entfallen ist, oder
-- b. spätestens bei Vollendung des 65. Lebensjahres, bei Weiterführung der Versicherung gemäss Art. 5a.1 spätestens bei Vollendung des 70. Lebensjahres.
+- b. spätestens bei Vollendung des 65. Lebensjahres, beim Aufschub gemäss Art. 25.2<sup>bis</sup> spätestens bei Vollendung des 70. Lebensjahres.
 
 <sup>2</sup> …
+
+<sup>2<sup>bis</sup></sup> Versicherte, die nach Vollendung des 65. Lebensjahres aus einem ununterbrochenen Arbeitsverhältnis mit dem Arbeitgeber mindestens ein Erwerbseinkommen gemäss Art. 4.1 erzielen, können auf Verlangen die Altersleistung bis zum Ende des Arbeitsverhältnisses, längstens bis zur Vollendung des 70. Lebensjahres, beitragsfrei aufschieben. Die versicherte Person hat die Möglichkeit, während des Aufschubs die Altersvorsorge durch Beiträge weiter aufzubauen; in diesem Fall richten sich die Beiträge für die versicherte Person und den Arbeitgeber nach Art. 47.1 und die Altersgutschriften nach Art. 23.1.
+
+<sup>3</sup> Möchte eine versicherte Person im beitragsfreien Aufschub die Altersvorsorge durch Beiträge weiter aufbauen oder möchte eine versicherte Person, die während des Aufschubs die Altersvorsorge durch Beiträge weiter aufbaut, die Altersleistungen beitragsfrei aufschieben, kann sie dies von der LUPK bis spätestens 30. November schriftlich verlangen. Der Wechsel wird mit Wirkung auf den Beginn des nächsten Kalenderjahres vollzogen.
 
 #### Art. 26
 
@@ -404,26 +409,28 @@ vom 12.12.2013 (Stand 01.07.2022)
 
 **Teil-Altersrente**
 
-<sup>1</sup> Versicherte können die Ausrichtung einer Teil-Altersrente verlangen,
+<sup>1</sup> Versicherte können die Altersleistung nach Vollendung des 60. Lebensjahres abgestuft in bis zu drei Schritten beziehen.
 
-- a. wenn sie das 60. Lebensjahr vollendet haben und
-- b. wenn ihr anrechenbarer Jahresverdienst in einem oder mehreren Schritten um mindestens 20 Prozent des Betrages herabgesetzt wurde, der einer vollamtlichen Tätigkeit an der Arbeitsstelle der versicherten Person entspricht; die Referenzwerte sind der aktuelle und der höchste anrechenbare Jahresverdienst der versicherten Person bei oder nach der Vollendung des 60. Lebensjahres.
+- a. …
+- b. …
 
-<sup>2</sup> Das Altersguthaben wird im Verhältnis der Referenzwerte gemäss Art. 27.1b geteilt. Der eine Teil wird mit dem Umwandlungssatz gemäss Art. 26.2 in eine Teil-Altersrente umgewandelt. Der andere Teil ist dem Altersguthaben einer voll erwerbstätigen versicherten Person gleichgestellt.
+<sup>2</sup> Die versicherte Person hat Anspruch auf einen Teilbezug, wenn ihr anrechenbarer Jahresverdienst in einem oder mehreren Schritten um mindestens 20 Prozent herabgesetzt wurde. Die Mindestherabsetzung beim ersten Teilbezug wird gemessen am höchsten anrechenbaren Jahresverdienst der versicherten Person bei oder nach der Vollendung des 60. Lebensjahres. Die Mindestherabsetzung beim zweiten Teilbezug wird gemessen am anrechenbaren Jahresverdienst unmittelbar nach dem ersten Teilbezug.
 
-<sup>3</sup> Der Anspruch entsteht frühestens ab 1. Januar des laufenden Kalenderjahres der Anmeldung.
+<sup>3</sup> Beim ersten Teilbezug wird das Altersguthaben im Verhältnis des aktuellen und des höchsten Jahresverdienstes der versicherten Person bei oder nach der Vollendung des 60. Lebensjahres geteilt. Beim zweiten Teilbezug wird das Altersguthaben im Verhältnis des aktuellen und des anrechenbaren Jahresverdienstes der versicherten Person unmittelbar nach dem ersten Teilbezug geteilt. Der eine Teil wird mit dem Umwandlungssatz gemäss Art. 26.2 in eine Teil-Altersrente umgewandelt. Der andere Teil ist dem Altersguthaben einer voll erwerbstätigen versicherten Person gleichgestellt. Fällt der anrechenbare Jahresverdienst unter die massgebende untere Einkommensgrenze nacht Art. 4.1, muss die ganze Altersleistung bezogen werden.
+
+<sup>4</sup> Der Anspruch entsteht frühestens ab 1. Januar des laufenden Kalenderjahres der Anmeldung.
 
 #### Art. 28
 
-**AHV-Ersatzrente bis zum ordentlichen AHV-Rentenalter**
+**AHV-Ersatzrente bis zum Referenzalter der AHV**
 
-<sup>1</sup> Versicherte, die eine Altersrente der LUPK beziehen, haben Anspruch auf eine AHV-Ersatzrente in der Höhe von höchstens 80 Prozent der maximalen, vollen, ungekürzten AHV-Altersrente. Die AHV-Ersatzrente wird auf Gesuch hin ab Beginn der Altersrente ausgerichtet und bleibt bis zum Erreichen des ordentlichen AHV-Rentenalters unverändert.
+<sup>1</sup> Versicherte, die eine Altersrente der LUPK beziehen, haben Anspruch auf eine AHV-Ersatzrente in der Höhe von höchstens 80 Prozent der maximalen, vollen, ungekürzten AHV-Altersrente. Die AHV-Ersatzrente wird auf Gesuch hin ab Beginn der Altersrente ausgerichtet und bleibt bis zum Erlöschen des Anspruchs unverändert.
 
 <sup>2</sup> Versicherte, die eine Teil-Altersrente beziehen, haben Anspruch auf eine ihrer Alters-Rentenberechtigung entsprechende Teil-AHV-Ersatzrente.
 
-<sup>3</sup> Der Anspruch auf AHV-Ersatzrente erlischt mit dem Tod, spätestens mit dem Erreichen des ordentlichen AHV-Rentenalters.
+<sup>3</sup> Der Anspruch auf AHV-Ersatzrente erlischt mit dem Tod, spätestens mit dem Erreichen des Referenzalters der AHV; massgebend ist das bei Beginn der Altersrente geltende Referenzalter der AHV.
 
-<sup>4</sup> Die versicherte Person trägt die Kosten der bezogenen AHV-Ersatzrenten in der Form einer dauernden Kürzung der Alters- und der Hinterlassenenleistungen. Die LUPK zieht den Barwert der bis zum Erreichen des ordentlichen AHV-Rentenalters auszurichtenden AHV-Ersatzrente vom Altersguthaben ab.
+<sup>4</sup> Die versicherte Person trägt die Kosten der bezogenen AHV-Ersatzrenten in der Form einer dauernden Kürzung der Alters- und der Hinterlassenenleistungen. Die LUPK zieht den Barwert der bis zum Erreichen des Referenzalters der AHV auszurichtenden AHV-Ersatzrente vom Altersguthaben ab.
 
 <sup>5</sup> Versicherte dürfen höchstens so viel AHV-Ersatzrente beziehen, dass der Abzug gemäss Art. 28.4 zusammen mit jenem für die Kapitalabfindung gemäss Art. 15.3 den der versicherten Person zur Verfügung stehenden Maximalbetrag gemäss Art. 16 nicht übersteigt.
 
@@ -456,7 +463,7 @@ vom 12.12.2013 (Stand 01.07.2022)
 <sup>3</sup> Die Rente beträgt 70 Prozent
 
 - a. der ganzen Invalidenrente, auf welche die versicherte Person Anspruch gehabt hätte, oder
-- b. der Altersrente oder Invalidenrente der versicherten Person, bei Weiterführung der Versicherung gemäss Art. 5a.1 der Altersrente, auf welche die versicherte Person bei ihrem Tod Anspruch gehabt hätte.
+- b. der Altersrente oder Invalidenrente der versicherten Person, beim Aufschub gemäss Art. 25.2<sup>bis</sup> der Altersrente, auf welche die versicherte Person bei ihrem Tod Anspruch gehabt hätte.
 
 <sup>4</sup> Der Anspruch erlischt mit der Verheiratung oder mit dem Tod der anspruchsberechtigten Person. Diese oder deren Hinterlassene haben der LUPK das Erlöschen des Anspruchs zu melden. Die LUPK kann eigene Abklärungen treffen. Unrechtmässig bezogene Leistungen sind zurückzuerstatten.
 
@@ -500,7 +507,7 @@ vom 12.12.2013 (Stand 01.07.2022)
 <sup>2</sup> Die Waisenrente beträgt 20 Prozent
 
 - a. der ganzen Invalidenrente, auf welche die versicherte Person Anspruch gehabt hätte, oder
-- b. der Altersrente oder Invalidenrente der versicherten Person, bei Weiterführung der Versicherung gemäss Art. 5a.1 der Altersrente, auf welche die versicherte Person bei ihrem Tod Anspruch gehabt hätte.
+- b. der Altersrente oder Invalidenrente der versicherten Person, beim Aufschub gemäss Art. 25.2<sup>bis</sup> der Altersrente, auf welche die versicherte Person bei ihrem Tod Anspruch gehabt hätte.
 
 <sup>3</sup> Der Anspruch erlischt am Monatsende, nachdem die anspruchsberechtigte Person das 18. Lebensjahr vollendet hat. Er bleibt längstens bis zur Vollendung des 25. Lebensjahres bestehen, sofern die anspruchsberechtigte Person in Ausbildung steht oder mindestens zu 70 Prozent invalid ist.
 
@@ -513,7 +520,7 @@ vom 12.12.2013 (Stand 01.07.2022)
 <sup>1</sup> Die LUPK richtet beim Tod von aktiv versicherten Personen und von Personen, die eine Invalidenrente beziehen und das Rentenalter noch nicht erreicht haben, ein Todesfallkapital der in Art. 35.3 definierten Höhe aus, wenn folgende Bedingungen gemeinsam erfüllt sind:
 
 - a. Die verstorbene versicherte Person hinterlässt Anspruchsberechtigte im Sinn von Art. 35.2.
-- b. Begünstigte Personen gemäss Art. 35.2b müssen von der versicherten Person zu Lebzeiten der LUPK schriftlich mitgeteilt werden und die Anspruchsberechtigten gemäss Art. 35.2b und c verlangen die Ausrichtung des Todesfallkapitals innert sechs Monaten seit dem Tod der versicherten Person.
+- b. Begünstigte Personen gemäss Art. 35.2b müssen von der versicherten Person zu Lebzeiten der LUPK schriftlich mitgeteilt werden und die Anspruchsberechtigten gemäss Art. 35.2b, c und d verlangen die Ausrichtung des Todesfallkapitals innert sechs Monaten seit dem Tod der versicherten Person.
 - c. …
 
 <sup>2</sup> Anspruchsberechtigte im Sinn von Art. 35.1a sind:
@@ -528,9 +535,11 @@ vom 12.12.2013 (Stand 01.07.2022)
   - 2\. …
   - 3\. …
 - c. 3. Prioritätengruppe
-  - 3\.1 Kinder, Eltern und Geschwister der verstorbenen versicherten Person.
+  - 3\.1 Kinder der verstorbenen versicherten Person.
+- d. 4. Prioritätengruppe
+  - 4\.1 Eltern und Geschwister der verstorbenen versicherten Person.
 
-<sup>3</sup> Die Höhe des Todesfallkapitals entspricht einem Prozentsatz des Altersguthabens der verstorbenen versicherten Person. Der Prozentsatz beträgt für die 1. und 2. Prioritätengruppe 100 Prozent und für die 3. Prioritätengruppe 50 Prozent. Das Todesfallkapital wird um den Barwert aller durch den Tod ausgelösten Renten und Abfindungen gekürzt. Im Fall von verstorbenen invaliden Personen wird das Todesfallkapital auf der Basis des Betrages des Altersguthabens bei Beginn des Anspruchs auf die Invalidenrente gemäss Art. 39.2a berechnet.
+<sup>3</sup> Die Höhe des Todesfallkapitals entspricht einem Prozentsatz des Altersguthabens der verstorbenen versicherten Person. Der Prozentsatz beträgt für die 1., 2. und 3. Prioritätengruppe 100 Prozent und für die 4. Prioritätengruppe 50 Prozent. Das Todesfallkapital wird um den Barwert aller durch den Tod ausgelösten Renten und Abfindungen gekürzt. Im Fall von verstorbenen invaliden Personen wird das Todesfallkapital auf der Basis des Betrages des Altersguthabens bei Beginn des Anspruchs auf die Invalidenrente gemäss Art. 39.2a berechnet.
 
 <sup>4</sup> Versicherte können der LUPK schriftlich mitteilen, wie das Todesfallkapital innerhalb einer Prioritätengruppe aufzuteilen ist. Fehlen Anordnungen, wird das Todesfallkapital innerhalb der Prioritätengruppe gleichmässig aufgeteilt.
 
@@ -554,7 +563,7 @@ vom 12.12.2013 (Stand 01.07.2022)
 
 **Anspruch auf Invalidenrente**
 
-<sup>1</sup> Versicherte, welche das ordentliche AHV-Rentenalter nicht vollendet haben, haben Anspruch auf eine Invalidenrente, wenn sie im Sinne der IV zu mindestens 40 Prozent invalid sind. Die Höhe des Anspruchs wird in prozentualen Anteilen an einer ganzen Rente festgelegt.
+<sup>1</sup> Versicherte, welche das Referenzalter der AHV nicht vollendet haben, haben Anspruch auf eine Invalidenrente, wenn sie im Sinne der IV zu mindestens 40 Prozent invalid sind. Die Höhe des Anspruchs wird in prozentualen Anteilen an einer ganzen Rente festgelegt.
 
 - a. Bei einem Invaliditätsgrad im Sinne der IV von 50–69 Prozent entspricht der prozentuale Anteil dem Invaliditätsgrad.
 - b. Bei einem Invaliditätsgrad im Sinne der IV ab 70 Prozent besteht Anspruch auf eine ganze Rente.
@@ -774,6 +783,8 @@ vom 12.12.2013 (Stand 01.07.2022)
 
 <sup>3</sup> Hat die versicherte Person Vorbezüge für Wohneigentum getätigt, dürfen freiwillige Eintrittsleistungen erst erbracht werden, wenn die Vorbezüge zurückbezahlt sind. Ist die Rückzahlung des Vorbezugs gemäss Art. 30d Absatz 3a BVG nicht mehr zulässig, kann die versicherte Person freiwillige Eintrittsleistungen erbringen. Die freiwilligen Eintrittsleistungen dürfen höchstens den um den Vorbezug verminderten Betrag gemäss Art. 51.2 erreichen.
 
+<sup>4</sup> Wurde das Altersguthaben der versicherten Person im Rahmen eines Vorsorgeausgleichs bei Scheidung geteilt, dürfen freiwillige Eintrittsleistungen erst erbracht werden, wenn der Wiedereinkauf nach Scheidung gemäss Art. 22d FZG vollständig erfolgt ist.
+
 #### Art. 52
 
 **Dauer der Beitragspflicht**
@@ -787,7 +798,7 @@ vom 12.12.2013 (Stand 01.07.2022)
 
 - a. die Versicherung endet,
 - b. Versicherte eine ganze Alters- oder eine ganze Invalidenrente beziehen,
-- c. Versicherte das 65. Lebensjahr, bei Weiterführung der Versicherung gemäss Art. 5a.1 längstens das 70. Lebensjahr vollendet haben.
+- c. Versicherte das 65. Lebensjahr, beim Aufschub gemäss Art. 25.2<sup>bis</sup> längstens das 70. Lebensjahr vollendet haben.
 
 #### Art. 53
 
@@ -1068,6 +1079,12 @@ vom 12.12.2013 (Stand 01.07.2022)
 <sup>3</sup> Während der provisorischen Weiterversicherung nach Art. 26a BVG wird die Anwendung von Art. 38.1 aufgeschoben.
 
 <sup>4</sup> Für Versicherte, deren Rentenanspruch auf eine Invalidenrente vor dem 1. Januar 2022 entstanden ist und die per 1. Januar 2022 das 55. Lebensjahr vollendet haben, gilt das bisherige Recht.
+
+#### Art. 70e
+
+**Übergangsbestimmungen zur Änderung von Art. 1.1c des LUPK-Reglements vom 13. Dezember 2023 per 1. Januar 2024**
+
+<sup>1</sup> Die am 31. Dezember 2023 bestehenden angeschlossenen Arbeitgeber dürfen nach dem 31. Dezember 2023 weiterhin der Kasse angeschlossen bleiben, auch wenn sie die Anforderungen nach Art. 1.1c nicht erfüllen.
 
 #### Art. 71
 
