@@ -4,13 +4,12 @@ number: "162.410"
 title: Verordnung betreffend Ferien und Urlaub der Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt
 short: "Ferien- und Urlaubsverordnung, FUV"
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-09-28
+version: 2024-01-01
+version_adopted: 2023-07-04
 adopted: 2004-07-06
 in_force: 2005-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/162.410"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5348/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5963/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Ferien- und Urlaubsverordnung |Staatspersonal: Dienstverhältnis
 
 (Ferien- und Urlaubsverordnung, FUV)
 
-Vom 6. Juli 2004 (Stand 1. Januar 2022)
+Vom 6. Juli 2004 (Stand 1. Januar 2024)
 
 Der Regierungsrat des Kantons Basel-Stadt
 
@@ -143,9 +142,9 @@ beschliesst:
 
 #### § 15
 
-**Bezahlter Urlaub während der Erbringung von entschädigungspflichtigen Dienstleistungen gemäss dem Bundesgesetz über den Erwerbsersatz für Dienstleistende und bei Mutterschaft (Erwerbsersatzgesetz).**
+**Bezahlter Urlaub während der Erbringung von entschädigungspflichtigen Dienstleistungen**
 
-<sup>1</sup> Für die Erbringung von entschädigungspflichtigen obligatorischen Dienstleistungen gemäss Art. 1a Abs. 1–3 des Erwerbsersatzgesetzes wird bezahlter Urlaub von längstens vier Monaten gewährt. Für obligatorische Feuerwehrdienstleistungen wird bezahlter Urlaub im Umfang des obligatorischen Feuerwehrdienstes des Kantons Basel-Stadt gewährt.
+<sup>1</sup> Für die Erbringung von entschädigungspflichtigen obligatorischen Dienstleistungen gemäss Art. 1a Abs. 1–3 des Bundesgesetzes über den Erwerbsersatz (Erwerbsersatzgesetz, EOG) vom 25. September 1952 wird bezahlter Urlaub von längstens vier Monaten gewährt.
 
 <sup>2</sup> Für diejenigen Dienstleistungen, die während eines Jahres den genannten Umfang übersteigen, sowie für freiwilligen Dienst und für aus dem Dienst resultierende selbstverschuldete Arbeitsverhinderung ist der Anspruch auf den Erwerbsersatz beschränkt.
 
@@ -180,6 +179,15 @@ beschliesst:
 <sup>3</sup> Der Bezug des Urlaubs ist von der oder dem Vorgesetzten unter besonderer Beachtung der Wünsche der Lernenden sowie unter Berücksichtigung der betrieblichen Bedürfnisse zu bewilligen.
 
 <sup>4</sup> Wird der Urlaub innert einem Lehrjahr nicht bezogen, verfällt der Anspruch auf dessen Ende.
+
+#### § 15d
+
+**Bezahlter Urlaub für die Mitwirkung in einer Milizfeuerwehr**
+
+<sup>1</sup> Für die auf die Arbeitszeit fallende Mitwirkung in einer Milizfeuerwehr besteht unter Berücksichtigung der betrieblichen Bedürfnisse pro Kalenderjahr Anspruch auf bezahlten Urlaub in folgendem Umfang:
+
+- a) für obligatorische Ausbildungen, Übungen und Einsätze in einer Milizfeuerwehr, maximal fünf Arbeitstage;
+- b) für die Schulung von Mitgliedern der Milizfeuerwehren als Schweizerische Feuerwehrinstruktorin oder Schweizerischer Feuerwehrinstruktor im Auftrag einer hoheitlichen Feuerwehrinstanz, maximal zehn Arbeitstage.
 
 #### § 16
 
@@ -223,6 +231,7 @@ beschliesst:
 - 2\. Heirat oder Eintragung der Partnerschaft von nahen Angehörigen 1 Arbeitstag
 - 3\. Geburt des Kindes der Partnerin zwanzig Arbeitstage. Davon sind mindestens zehn Tage innert sechs Monaten sowie die restlichen Tage innert zwölf Monaten ab Geburt zu beziehen. Innert dieser Rahmenfristen kann der Urlaub unter Berücksichtigung der betrieblichen Verhältnisse auch tageweise bezogen werden. Der Anspruch besteht auch bei Totgeburt, sofern die Schwangerschaft der Partnerin mindestens 23 Wochen gedauert hat.
 - 4\. Bei unvorhergesehenen Betreuungsengpässen von eigenen Kindern bzw. nahen Angehörigen können Mitarbeiterinnen und Mitarbeiter, sofern es an der notwendigen Betreuung fehlt, bezahlten Urlaub beanspruchen. Pro Jahr wird hierfür bezahlter Urlaub im Umfang von maximal zehn Arbeitstagen, davon maximal drei Tage pro Ereignis, gewährt.
+- 4\.<sup>bis</sup> Nach Bezug der zehn Urlaubstage gemäss § 18 Abs. 1 Ziff. 4 wird Mitarbeiterinnen und Mitarbeitern für die notwendige Betreuung eigener Kinder mit gesundheitlicher Beeinträchtigung gegen Vorlage eines Arztzeugnisses bezahlter Urlaub im Umfang von maximal drei Tagen pro Ereignis gewährt.
 - 5\. …
 - 6\. Todesfall von nahen Angehörigen bis 5 Arbeitstage
 - 7\. Bestattung von anderen Verwandten oder nahe stehenden Personen: Bestattung in Basel und Umgebung bis ½ Arbeitstag bei grösserer Entfernung bis 1 Arbeitstag
