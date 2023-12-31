@@ -4,13 +4,12 @@ number: "122.73.1"
 title: Gesetz über die Pensionskasse des Staatspersonals
 short: PKG
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2020-06-26
+version: 2024-01-01
+version_adopted: 2023-09-08
 adopted: 2011-05-12
 in_force: 2012-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.73.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6686/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8307/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Pensionskasse des Staatspersonals – G
 
 (PKG)
 
-vom 12.05.2011 (Fassung in Kraft getreten am 01.01.2022)
+vom 12.05.2011 (Fassung in Kraft getreten am 01.01.2024)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -57,9 +56,12 @@ beschliesst:
 
 **Verhältnis zum BVG**
 
-<sup>1</sup> Die Pensionskasse führt die obligatorische berufliche Vorsorge gemäss dem Bundesgesetz über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG) durch.
+<sup>1</sup> Die Pensionskasse führt die obligatorische berufliche Vorsorge gemäss dem Bundesgesetz über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG)[^3-1] durch.
 
-<sup>2</sup> Sie erbringt die Leistungen gemäss diesem Gesetz und ihren Reglementen, mindestens aber die Leistungen nach BVG.
+<sup>2</sup> Sie erbringt die Leistungen gemäss diesem Gesetz und ihren Reglementen, mindestens aber die Leistungen nach BVG[^3-2].
+
+[^3-1]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
+[^3-2]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
 
 #### Art. 4
 
@@ -89,7 +91,9 @@ beschliesst:
 
 **Anlage des Vermögens**
 
-<sup>1</sup> Das Vermögen der Pensionskasse wird im Rahmen der Bestimmungen des BVG so angelegt, dass Sicherheit, genügender Ertrag, eine angemessene Verteilung der Risiken und die Deckung des voraussehbaren Bedarfs an flüssigen Mitteln gewährleistet sind. Die Sicherheit der Vermögensanlage geht dem Ertrag vor.
+<sup>1</sup> Das Vermögen der Pensionskasse wird im Rahmen der Bestimmungen des BVG[^6-1] so angelegt, dass Sicherheit, genügender Ertrag, eine angemessene Verteilung der Risiken und die Deckung des voraussehbaren Bedarfs an flüssigen Mitteln gewährleistet sind. Die Sicherheit der Vermögensanlage geht dem Ertrag vor.
+
+[^6-1]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
 
 #### Art. 7
 
@@ -98,24 +102,30 @@ beschliesst:
 <sup>1</sup> Die Pensionskasse führt die folgenden Vorsorgepläne:
 
 - a) einen Grundplan im Beitragsprimat («Pensionsplan»);
-- b) einen Vorsorgeplan mit Beitragsprimat auf der Grundlage der BVG-Altersgutschriften für Personen, die nicht im Grundplan versichert sind («BVG-Plan»);
+- b) einen Vorsorgeplan mit Beitragsprimat auf der Grundlage der BVG-Altersgutschriften[^7-1] für Personen, die nicht im Grundplan versichert sind («BVG-Plan»);
 - c) einen Ergänzungsplan mit Beitragsprimat für Kaderpersonen, dessen Finanzierungsweise für die versicherten Personen nicht vorteilhafter sein darf als jene des Grundplans gemäss Buchstabe a.
 
-<sup>2</sup> Die Pensionskasse kann im Pensionsplan und im Ergänzungsplan für Kaderpersonen maximal drei Vorsorgepläne vorsehen. Im BVG-Plan wird hingegen nur ein Vorsorgeplan angeboten.
+<sup>2</sup> Die Pensionskasse kann im Pensionsplan und im Ergänzungsplan für Kaderpersonen maximal drei Vorsorgepläne vorsehen. Im BVG-Plan[^7-2] wird hingegen nur ein Vorsorgeplan angeboten.
+
+[^7-1]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
+[^7-2]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
 
 #### Art. 8
 
 **Finanzierungssysteme**
 
-<sup>1</sup> Das Finanzierungssystem des Pensionsplans ist ein gemischtes Finanzierungssystem, das nach dem Grundsatz der Teilkapitalisierung betrieben wird. Es wird gemäss den Artikeln 72a und 72b BVG geregelt. Der Deckungsgrad von 80 % der Gesamtverbindlichkeiten der Kasse muss spätestens am 1. Januar 2052 erreicht werden.
+<sup>1</sup> Das Finanzierungssystem des Pensionsplans ist ein gemischtes Finanzierungssystem, das nach dem Grundsatz der Teilkapitalisierung betrieben wird. Es wird gemäss den Artikeln 72a und 72b BVG[^8-1] geregelt. Der Deckungsgrad von 80 % der Gesamtverbindlichkeiten der Kasse muss spätestens am 1. Januar 2052 erreicht werden.
 
 <sup>1a</sup> Die Pensionskasse unterbreitet ihrer Aufsichtsbehörde alle fünf Jahre einen Finanzierungsplan für den Pensionsplan, der die Anforderungen nach Absatz 1 erfüllt, zur Genehmigung.
 
-<sup>2</sup> Dem BVG-Plan und dem Ergänzungsplan für Kaderpersonen liegt das Vollkapitalisierungsverfahren zugrunde. Demnach werden die versicherungstechnischen Verpflichtungen mit dem entsprechenden Nettovorsorgevermögen zu mindestens 100 % gedeckt.
+<sup>2</sup> Dem BVG-Plan[^8-2] und dem Ergänzungsplan für Kaderpersonen liegt das Vollkapitalisierungsverfahren zugrunde. Demnach werden die versicherungstechnischen Verpflichtungen mit dem entsprechenden Nettovorsorgevermögen zu mindestens 100 % gedeckt.
 
 <sup>3</sup> Die versicherungstechnischen Verpflichtungen umfassen die Vorsorgekapitalien der Versicherten, die Vorsorgekapitalien der Leistungsempfänger und die erforderlichen technischen Rückstellungen, die auf denselben Zeitpunkt wie das Vorsorgevermögen berechnet werden.
 
 <sup>4</sup> Der Barwert der Vorsorgekapitalien der Leistungsempfänger wird unter Berücksichtigung der erworbenen Teuerungsanpassung berechnet. Die zukünftige Indexierung der Pensionen und Renten wird nicht mit einberechnet.
+
+[^8-1]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
+[^8-2]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
 
 #### Art. 9
 
@@ -123,17 +133,20 @@ beschliesst:
 
 <sup>1</sup> Die Finanzierungssysteme der Pensionskasse werden nach dem Grundsatz des finanziellen Gleichgewichts geführt.
 
-<sup>2</sup> Das finanzielle Gleichgewicht des Pensionsplans wird am Finanzierungsplan nach Artikel 8 Abs. 1a gemessen. Das finanzielle Gleichgewicht des BVG-Plans und des Ergänzungsplans für Kaderpersonen wird am Deckungsgrad von 100 % gemessen.
+<sup>2</sup> Das finanzielle Gleichgewicht des Pensionsplans wird am Finanzierungsplan nach Artikel 8 Abs. 1a gemessen. Das finanzielle Gleichgewicht des BVG-Plans[^9-1] und des Ergänzungsplans für Kaderpersonen wird am Deckungsgrad von 100 % gemessen.
 
 <sup>3</sup> Das finanzielle Gleichgewicht des Pensionsplans gilt als erreicht, wenn der Deckungsgrad zum gegebenen Zeitpunkt dem von der Pensionskasse verabschiedeten Finanzierungsplan entspricht. Zudem muss der Finanzierungsplan auf der Grundlage von Projektionsberechnungen für die massgebende Finanzierungsperiode eingehalten werden.
 
-<sup>3a</sup> Das finanzielle Gleichgewicht des BVG-Plans und des Ergänzungsplans für Kaderpersonen gilt als erreicht, wenn der Deckungsgrad zum gegebenen Zeitpunkt mindestens 100 % beträgt. Zudem muss der Deckungsgrad von 100 %, auf der Grundlage von Berechnungen anhand jährlicher Voranschlagsprojektionen, für die massgebende Finanzierungsperiode eingehalten werden.
+<sup>3a</sup> Das finanzielle Gleichgewicht des BVG-Plans[^9-2] und des Ergänzungsplans für Kaderpersonen gilt als erreicht, wenn der Deckungsgrad zum gegebenen Zeitpunkt mindestens 100 % beträgt. Zudem muss der Deckungsgrad von 100 %, auf der Grundlage von Berechnungen anhand jährlicher Voranschlagsprojektionen, für die massgebende Finanzierungsperiode eingehalten werden.
 
 <sup>4</sup> Die massgebende Finanzierungsperiode beträgt zwanzig Jahre ab dem Zeitpunkt des versicherungstechnischen Gutachtens, für den Pensionsplan läuft sie jedoch bis mindestens 2052.
 
-<sup>5</sup> Zeigen die Projektionsberechnungen der anerkannten Expertin oder des anerkannten Experten bei der Finanzierung der Pensionskasse ein strukturelles Ungleichgewicht auf, so entscheidet der Vorstand der Pensionskasse (der Vorstand) über die Massnahmen, die ergriffen werden müssen, um das Gleichgewicht wiederherzustellen. Ist eine Gesetzesänderung nötig, so unterbreitet der Vorstand nach Anhören der anerkannten Expertin oder des anerkannten Experten dem Staatsrat Anträge. Der Staatsrat entscheidet über das weitere Vorgehen und unterbreitet dem Grossen Rat gegebenenfalls einen Entwurf.
+<sup>5</sup> Zeigen die Projektionsberechnungen der anerkannten Expertin oder des anerkannten Experten bei der Finanzierung der Pensionskasse ein strukturelles Ungleichgewicht auf, so entscheidet der Verwaltungsrat der Pensionskasse (der Verwaltungsrat) über die Massnahmen, die ergriffen werden müssen, um das Gleichgewicht wiederherzustellen. Ist eine Gesetzesänderung nötig, so unterbreitet der Verwaltungsrat nach Anhören der anerkannten Expertin oder des anerkannten Experten dem Staatsrat Anträge. Der Staatsrat entscheidet über das weitere Vorgehen und unterbreitet dem Grossen Rat gegebenenfalls einen Entwurf.
 
 <sup>6</sup> Besteht in der Finanzierung ein strukturelles Ungleichgewicht, so informiert die Pensionskasse die Aufsichtsbehörde; sie setzt dabei deren Stellungnahme zu den Massnahmen um, die zur Wiederherstellung des Gleichgewichts zu ergreifen sind.
+
+[^9-1]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
+[^9-2]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
 
 #### Art. 10
 
@@ -141,19 +154,22 @@ beschliesst:
 
 <sup>1</sup> Ist ein finanzielles Ungleichgewicht (Unterdeckung) aus konjunkturellen oder strukturellen Gründen (schwache Finanzmärkte, vorübergehendes überdurchschnittliches Auftreten von Schadensfällen usw.), vorherzusehen oder tatsächlich eingetreten, so müssen Sanierungsmassnahmen ergriffen werden.
 
-<sup>2</sup> Der Vorstand legt die Kategorien von Sanierungsmassnahmen und die Umstände fest, unter denen solche Massnahmen ergriffen werden müssen.
+<sup>2</sup> Der Verwaltungsrat legt die Kategorien von Sanierungsmassnahmen und die Umstände fest, unter denen solche Massnahmen ergriffen werden müssen.
 
-<sup>3</sup> Der Vorstand entscheidet zusammen mit der anerkannten Expertin oder dem anerkannten Experten über Sanierungsmassnahmen. Diese müssen zuvor dem Staatsrat zur Stellungnahme unterbreitet werden. Der Staatsrat kann dabei die Föderation der Personalverbände der Staatsangestellten des Kantons Freiburg (FEDE), der Verband des Personals öffentlicher Dienste Freiburg (VPOD Freiburg) und die Vereinigung der höheren Kader und Magistratspersonen des Staates Freiburg konsultieren. Im Übrigen bleibt Artikel 14 vorbehalten.
+<sup>3</sup> Der Verwaltungsrat entscheidet zusammen mit der anerkannten Expertin oder dem anerkannten Experten über Sanierungsmassnahmen. Diese müssen zuvor dem Staatsrat zur Stellungnahme unterbreitet werden. Der Staatsrat kann dabei die Föderation der Personalverbände der Staatsangestellten des Kantons Freiburg (FEDE), den Verband des Personals öffentlicher Dienste Freiburg (VPOD Freiburg) und die Vereinigung der höheren Kader und Magistratspersonen des Staates Freiburg konsultieren. Im Übrigen bleibt Artikel 14 vorbehalten.
 
-<sup>4</sup> Der Vorstand informiert die Aufsichtsbehörde; er berücksichtigt deren Stellungnahme zu den notwendigen Sanierungsmassnahmen.
+<sup>4</sup> Der Verwaltungsrat informiert die Aufsichtsbehörde; er berücksichtigt deren Stellungnahme zu den notwendigen Sanierungsmassnahmen.
 
 #### Art. 11
 
 **Staatsgarantie**
 
-<sup>1</sup> Der Staat garantiert die Leistungen nach Artikel 72c Abs. 1 BVG, soweit diese nicht vollständig im Sinne von Artikel 72a BVG auf der Basis des Ausgangsdeckungsgrades finanziert sind.
+<sup>1</sup> Der Staat garantiert die Leistungen nach Artikel 72c Abs. 1 BVG[^11-1], soweit diese nicht vollständig im Sinne von Artikel 72a BVG[^11-2] auf der Basis des Ausgangsdeckungsgrades finanziert sind.
 
 <sup>2</sup> Wird die Staatsgarantie in Anspruch genommen, so überweisen die externen Institutionen dem Staat den auf sie entfallenden Anteil. Die Pensionskasse legt in ihren reglementarischen Bestimmungen die Berechnungsregeln fest.
+
+[^11-1]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
+[^11-2]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
 
 ## 3 Beiträge
 
@@ -163,13 +179,15 @@ beschliesst:
 
 <sup>1</sup> Die Höhe der Beiträge der Versicherten und der angeschlossenen Arbeitgeber wird auf der Grundlage des versicherten Lohnes bestimmt. Dieser entspricht dem in den reglementarischen Bestimmungen der Pensionskasse festgelegten massgebenden AHV-Lohn, vermindert um den Koordinationsabzug.
 
-<sup>2</sup> Der Koordinationsabzug im Pensionsplan und BVG-Plan entspricht demjenigen des BVG. Die Pensionskasse kann in ihren reglementarischen Bestimmungen vorsehen, dass der Koordinationsabzug im Verhältnis zum Beschäftigungsgrad reduziert wird.
+<sup>2</sup> Der Koordinationsabzug im Pensionsplan und BVG-Plan[^12-1] entspricht demjenigen des BVG. Die Pensionskasse kann in ihren reglementarischen Bestimmungen vorsehen, dass der Koordinationsabzug im Verhältnis zum Beschäftigungsgrad reduziert wird.
+
+[^12-1]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
 
 #### Art. 13
 
 **Beiträge der Arbeitgeber und der Versicherten – Allgemeines**
 
-<sup>1</sup> Im Pensionsplan werden die Pensionskassenbeiträge der versicherten Person und des Arbeitgebers gemäss folgender Tabelle in Prozenten des versicherten Lohns entsprechend dem BVG-Alter der versicherten Person festgelegt:
+<sup>1</sup> Im Pensionsplan werden die Pensionskassenbeiträge der versicherten Person und des Arbeitgebers gemäss folgender Tabelle in Prozenten des versicherten Lohns entsprechend dem BVG-Alter[^13-1] der versicherten Person festgelegt:
 
 <table>
 <tr><th>BVG-Alter</th><th>Beitragssatz versicherte Person</th><th>Beitragssatz Arbeitgeber</th></tr>
@@ -181,17 +199,21 @@ beschliesst:
 
 <sup>1a</sup> Bietet die Pensionskasse in Anwendung von Artikel 7 Abs. 2 mehrere Vorsorgepläne an, so gehen die daraus resultierenden höheren Beiträge vollständig zulasten der versicherten Personen.
 
-<sup>2</sup> Im BVG-Plan wird der Beitrag in Prozenten des versicherten Lohns nach Massgabe der BVG-Altersgutschriften festgelegt. Die Pensionskasse legt in ihren reglementarischen Bestimmungen den Beitragsteil für die Risikodeckung und die Verwaltungskosten fest. Der Beitrag wird zwischen der versicherten Person und dem Arbeitgeber paritätisch aufgeteilt.
+<sup>2</sup> Im BVG-Plan[^13-2] wird der Beitrag in Prozenten des versicherten Lohns nach Massgabe der BVG-Altersgutschriften[^13-3] festgelegt. Die Pensionskasse legt in ihren reglementarischen Bestimmungen den Beitragsteil für die Risikodeckung und die Verwaltungskosten fest. Der Beitrag wird zwischen der versicherten Person und dem Arbeitgeber paritätisch aufgeteilt.
 
 <sup>3</sup> Im Ergänzungsplan für Kaderpersonen legt der Staatsrat den Beitrag und die Aufteilung zwischen dem Arbeitgeber und den Arbeitnehmenden fest.
 
 <sup>4</sup> In den reglementarischen Bestimmungen der Pensionskasse werden die Regeln festgelegt, nach denen die Beiträge erhoben werden.
 
+[^13-1]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
+[^13-2]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
+[^13-3]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
+
 #### Art. 14
 
 **Beiträge der Arbeitgeber und der Versicherten – Bei Unterdeckung**
 
-<sup>1</sup> Der Staatsrat legt auf Antrag des Vorstands die zeitlich befristeten Beiträge fest, die als Sanierungsmassnahme im Sinne von Artikel 10 zusätzlich zu den Beiträgen nach Artikel 13 erhoben werden.
+<sup>1</sup> Der Staatsrat legt auf Antrag des Verwaltungsrats die zeitlich befristeten Beiträge fest, die als Sanierungsmassnahme im Sinne von Artikel 10 zusätzlich zu den Beiträgen nach Artikel 13 erhoben werden.
 
 <sup>2</sup> Übersteigen die zusätzlichen Beiträge insgesamt 2 %, so unterbreitet der Staatsrat diese Erhöhung dem Grossen Rat zum Beschluss.
 
@@ -211,7 +233,9 @@ beschliesst:
 
 <sup>1</sup> Im Pensionsplan hat die versicherte Person frühestens ab dem vollendeten 58. Altersjahr Anspruch auf die Alterspension.
 
-<sup>2</sup> Im BVG-Plan wird das Mindestrentenalter durch die reglementarischen Bestimmungen der Pensionskasse festgelegt.
+<sup>2</sup> Im BVG-Plan[^16-1] wird das Mindestrentenalter durch die reglementarischen Bestimmungen der Pensionskasse festgelegt.
+
+[^16-1]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
 
 #### Art. 17
 
@@ -231,41 +255,43 @@ beschliesst:
 
 <sup>1</sup> Die Organe der Pensionskasse sind:
 
-- a) der Vorstand; dieser wird nach Artikel 51 BVG paritätisch zusammengesetzt;
+- a) der Verwaltungsrat; dieser wird nach Artikel 51 BVG[^18-1] paritätisch zusammengesetzt;
 - b) die Verwaltung.
+
+[^18-1]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
 
 #### Art. 19
 
-**Vorstand – Zusammensetzung**
+**Verwaltungsrat – Zusammensetzung**
 
-<sup>1</sup> Der Vorstand besteht aus zwölf Mitgliedern, von denen sechs den Staat und sechs die Arbeitnehmenden vertreten. Die Mitglieder des Vorstands unterstehen dem Gesetz betreffend die Dauer der öffentlichen Nebenämter.
+<sup>1</sup> Der Verwaltungsrat besteht aus zwölf Mitgliedern, die paritätisch den Arbeitgeber und die Arbeitnehmenden vertreten. Die Mitglieder des Verwaltungsrats unterstehen dem Gesetz betreffend die Dauer der öffentlichen Nebenämter.
 
-<sup>1a</sup> Die Mitglieder des Vorstands müssen einen guten Leumund haben und Gewähr für eine einwandfreie Geschäftstätigkeit bieten. Insgesamt müssen sie über die zur ordnungsgemässen Erfüllung ihrer Aufgaben erforderlichen Fähigkeiten verfügen, insbesondere in den Bereichen berufliche Vorsorge und Personalwesen, Finanzanlagen und Bauwesen sowie im Rechtswesen.
+<sup>1a</sup> Die Mitglieder des Verwaltungsrats müssen einen einwandfreien Leumund haben und Gewähr für eine einwandfreie Geschäftstätigkeit bieten. Insgesamt müssen sie über die zur ordnungsgemässen Erfüllung ihrer Aufgaben erforderlichen Fähigkeiten verfügen, insbesondere in den Bereichen berufliche Vorsorge, Personalwesen, Immobilienmanagement und Finanzanlagen sowie im Rechtswesen.
 
-<sup>2</sup> Wird das Dienstverhältnis eines vom Staat entlöhnten Vorstandsmitglieds beendigt oder tritt ein Vorstandsmitglied zurück, so verständigt der Vorstand die zuständige Behörde oder das zuständige Organ, damit ein Ersatz bezeichnet werden kann.
+<sup>2</sup> Tritt ein Verwaltungsratsmitglied, das den Arbeitgeber vertritt, zurück, so verständigt der Verwaltungsrat die zuständige Behörde oder das zuständige Organ, damit ein Ersatz bezeichnet werden kann. Der Verwaltungsrat legt in einem Reglement fest, welche Bestimmungen gelten, wenn ein Verwaltungsratsmitglied, das die Arbeitnehmenden vertritt, zurücktritt.
 
-<sup>3</sup> Von den sechs Vorstandsmitgliedern, die die Arbeitnehmenden vertreten, werden vier Mitglieder über die FEDE, ein Mitglied über den VPOD Freiburg und ein Mitglied über die Vereinigung der höheren Kader und Magistratspersonen des Staates Freiburg gewählt.
+<sup>3</sup> Die Arbeitnehmenden sind mit sechs Mitgliedern im Verwaltungsrat vertreten, welche die verschiedenen Funktionskategorien des Staatspersonals und des Personals externer Einrichtungen angemessen abbilden, wobei die zahlenmässige Stärke dieser Kategorien zu berücksichtigen ist. Der Verwaltungsrat legt in einem Reglement die Einzelheiten für ihre Bezeichnung fest.
 
-<sup>4</sup> Ein Mitglied des Staatsrats vertritt den Arbeitgeber. Ausserdem bezeichnet der Staatsrat weitere fünf Personen, die den Arbeitgeber vertreten.
+<sup>4</sup> Ein Mitglied des Staatsrats vertritt den Arbeitgeber im Verwaltungsrat. Der Staatsrat bezeichnet zudem fünf weitere Personen, die den Arbeitgeber vertreten.
 
-<sup>5</sup> Die FEDE, der VPOD Freiburg und die Vereinigung der höheren Kader und Magistratspersonen des Staates Freiburg organisieren die Wahl der Vorstandsmitglieder, die die Arbeitnehmenden vertreten. Dabei sind die verschiedenen Kategorien von Arbeitnehmenden und ihre zahlenmässige Bedeutung zu berücksichtigen; der Staatsrat legt die entsprechenden Regeln fest. Mindestens vier Mitglieder der Arbeitnehmendenvertretung müssen bei der Pensionskasse versichert sein.
+<sup>5</sup> …
 
-<sup>6</sup> Die Personen, die eine Alterspension der Pensionskasse beziehen, wählen unter den ehemaligen Staatsangestellten eine Vertreterin oder einen Vertreter. Diese Person nimmt mit beratender Stimme an den Vorstandssitzungen teil.
+<sup>6</sup> Die Personen, die eine Alterspension der Pensionskasse beziehen, wählen unter den ehemaligen Staatsangestellten eine Vertreterin oder einen Vertreter. Diese Person nimmt mit beratender Stimme an den Verwaltungsratssitzungen teil.
 
-<sup>7</sup> Präsidiert wird der Vorstand abwechslungsweise von einem Mitglied, das die Arbeitnehmenden, und einem Mitglied, das die Arbeitgeber vertritt. Der Vorstand kann den Vorsitz jedoch anders regeln.
+<sup>7</sup> Präsidiert wird der Verwaltungsrat abwechslungsweise von einem Mitglied, das die Arbeitnehmenden, und einem Mitglied, das den Arbeitgeber vertritt. Der Verwaltungsrat kann den Vorsitz jedoch anders regeln.
 
 #### Art. 20
 
-**Vorstand – Allgemeine Aufgaben**
+**Verwaltungsrat – Allgemeine Aufgaben**
 
-<sup>1</sup> Der Vorstand ist das oberste Führungsorgan; er übt die Aufsicht und die Kontrolle über die Geschäftsführung aus und vertritt die Pensionskasse nach aussen. Er hat insbesondere die folgenden Befugnisse:
+<sup>1</sup> Der Verwaltungsrat ist das oberste Führungsorgan; er übt die Aufsicht und die Kontrolle über die Geschäftsführung aus und vertritt die Pensionskasse nach aussen. Er hat insbesondere folgende Befugnisse:
 
 - a) Er wählt seine Präsidentin oder seinen Präsidenten.
 - b) Er schliesst die Anschlussvereinbarungen ab.
 - c) Er stellt das Personal der Pensionskasse an.
 - d) Er bezeichnet die Personen, die die Pensionskasse in finanziellen Angelegenheiten vertreten.
 - e) Er trägt gegebenenfalls die Pensionskasse im Handelsregister ein.
-- f) Er bezeichnet die Revisionsstelle und die anerkannte Expertin oder den anerkannten Experten nach Artikel 53 BVG.
+- f) Er bezeichnet die Revisionsstelle und die anerkannte Expertin oder den anerkannten Experten nach Artikel 53 BVG[^20-1].
 - g) Er bezeichnet die Expertinnen und Experten sowie die Kommissionen, die ihm angegliedert sind.
 - h) Er bezeichnet wenn nötig andere externe Revisionsstellen für die Prüfung besonderer Aufgaben.
 - i) Er genehmigt den Jahresbericht und die Jahresrechnung .
@@ -274,13 +300,15 @@ beschliesst:
 - l) Er verwaltet das Vermögen der Pensionskasse .
 - m) Er legt die Entlöhnung seiner Mitglieder fest.
 
-<sup>2</sup> Im Rahmen seiner Befugnisse kann der Vorstand Drittpersonen Aufgaben anvertrauen.
+<sup>2</sup> Im Rahmen seiner Befugnisse kann der Verwaltungsrat Drittpersonen Aufgaben anvertrauen.
+
+[^20-1]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
 
 #### Art. 21
 
-**Vorstand – Erlass reglementarischer Bestimmungen**
+**Verwaltungsrat – Erlass reglementarischer Bestimmungen**
 
-<sup>1</sup> Der Vorstand ist mit dem Erlass der reglementarischen Bestimmungen beauftragt; diese regeln insbesondere:
+<sup>1</sup> Der Verwaltungsrat ist mit dem Erlass der reglementarischen Bestimmungen beauftragt; diese regeln insbesondere:
 
 - a) die Organisation der Pensionskasse;
 - b) die Vermögensanlage;
@@ -304,7 +332,7 @@ beschliesst:
 - t) die Übergangsregelung für die Festlegung der Höhe der Leistungen;
 - u) die Anschlussbedingungen für externe Institutionen.
 
-<sup>2</sup> Die vom Vorstand erlassenen reglementarischen Bestimmungen werden auf der Website der Pensionskasse veröffentlicht.
+<sup>2</sup> Die vom Verwaltungsrat erlassenen reglementarischen Bestimmungen werden auf der Website der Pensionskasse veröffentlicht.
 
 #### Art. 22
 
@@ -315,11 +343,11 @@ beschliesst:
 <sup>2</sup> Die Verwaltung der Pensionskasse hat folgende Befugnisse:
 
 - a) Sie zahlt die geschuldeten Leistungen aus.
-- b) Sie vollzieht die Beschlüsse des Vorstands.
+- b) Sie vollzieht die Beschlüsse des Verwaltungsrats;
 - c) Sie führt die Rechnung der Pensionskasse.
 - d) Sie setzt die reglementarischen Bestimmungen der Pensionskasse um.
 
-<sup>3</sup> Die Leiterin oder der Leiter der Pensionskasse oder die von dieser Person bezeichnete Stellvertretung nimmt mit beratender Stimme an den Sitzungen des Vorstands teil.
+<sup>3</sup> Die Leiterin oder der Leiter der Pensionskasse oder die von dieser Person bezeichnete Stellvertretung nimmt mit beratender Stimme an den Sitzungen des Verwaltungsrats teil.
 
 ## 6 Grundsätze für die Vorstandsarbeit
 
@@ -327,31 +355,36 @@ beschliesst:
 
 **Unvereinbarkeit**
 
-<sup>1</sup> Gehört ein Vorstandsmitglied einem Organ oder der Geschäftsführung eines gewinnorientierten Unternehmens an, das direkt oder indirekt mit der Pensionskasse zu tun hat, so muss es dies dem Vorstand melden.
+<sup>1</sup> Gehört ein Verwaltungsratsmitglied einem Organ oder der Geschäftsführung eines gewinnorientierten Unternehmens an, das direkt oder indirekt mit der Pensionskasse zu tun hat, so muss es dies dem Verwaltungsrat melden.
 
-<sup>2</sup> Der Vorstand entscheidet darüber, ob dieses Mandat oder dieses Anstellungsverhältnis mit dem Amt eines Vorstandsmitglieds vereinbar ist.
+<sup>2</sup> Der Verwaltungsrat entscheidet darüber, ob dieses Mandat oder dieses Anstellungsverhältnis mit dem Amt eines Verwaltungsratsmitglieds vereinbar ist.
 
-<sup>3</sup> Sind die ausgeübten Funktionen nicht vereinbar, so verständigt der Vorstand die zuständige Behörde oder das zuständige Organ, damit ein Ersatzmitglied bezeichnet wird.
+<sup>3</sup> Sind die ausgeübten Funktionen nicht vereinbar, so verständigt der Verwaltungsrat die zuständige Behörde oder das zuständige Organ, damit ein Ersatzmitglied bezeichnet wird.
 
 #### Art. 24
 
 **Ausstand**
 
-<sup>1</sup> Die Ausstandsregeln nach dem Gesetz über die Verwaltungsrechtspflege (VRG) gelten sinngemäss für die Mitglieder des Vorstands und der Verwaltung sowie für die Revisionsstelle und die anerkannte Expertin und den anerkannten Experten.
+<sup>1</sup> Die Ausstandsregeln nach dem Gesetz über die Verwaltungsrechtspflege (VRG)[^24-1] gelten sinngemäss für die Mitglieder des Verwaltungsrats und der Verwaltung sowie für die Revisionsstelle und die anerkannte Expertin und den anerkannten Experten.
+
+[^24-1]: SGF [150.1](https://bdlf.fr.ch/data/150.1/de)
 
 #### Art. 25
 
 **Amtsgeheimnis und Haftung**
 
-<sup>1</sup> Die Mitglieder des Vorstands, der Kommissionen und der Verwaltung sowie die Revisionsstellen und die Expertinnen und Experten unterstehen dem Amtsgeheimnis im Sinne von Artikel 60 des Gesetzes vom 17. Oktober 2001 über das Staatspersonal (StPG).
+<sup>1</sup> Die Mitglieder des Verwaltungsrats, der Kommissionen und der Verwaltung sowie die Revisionsstellen und die Expertinnen und Experten unterstehen dem Amtsgeheimnis im Sinne von Artikel 60 des Gesetzes vom 17. Oktober 2001 über das Staatspersonal (StPG)[^25-1].
 
-<sup>2</sup> Die Mitglieder des Vorstands, die mit der Geschäftsführung und der Verwaltung beauftragten Personen sowie die Revisionsstellen und die Expertinnen und Experten haften für die Schäden, die sie der Pensionskasse absichtlich oder fahrlässig zufügen. Artikel 755 OR gilt sinngemäss für die Revisionsstelle.
+<sup>2</sup> Die Mitglieder des Verwaltungsrats, die mit der Geschäftsführung und der Verwaltung beauftragten Personen sowie die Revisionsstellen und die Expertinnen und Experten haften für die Schäden, die sie der Pensionskasse absichtlich oder fahrlässig zufügen. Artikel 755 OR[^25-2] gilt sinngemäss für die Revisionsstelle.
+
+[^25-1]: SGF [122.70.1](https://bdlf.fr.ch/data/122.70.1/de)
+[^25-2]: SR [220](https://db.clex.ch/link/Bund/220/de)
 
 #### Art. 26
 
 **Übermittlung der Unterlagen**
 
-<sup>1</sup> Der Vorstand übermittelt dem Staatsrat den Verwaltungsbericht, die Jahresrechnung, den Bericht der Revisionsstelle und den Bericht der anerkannten Pensionskassenexpertin oder des anerkannten Pensionskassenexperten. Der Staatsrat nimmt diese Dokumente zur Kenntnis.
+<sup>1</sup> Der Verwaltungsrat übermittelt dem Staatsrat den Verwaltungsbericht, die Jahresrechnung, den Bericht der Revisionsstelle und den Bericht der anerkannten Pensionskassenexpertin oder des anerkannten Pensionskassenexperten. Der Staatsrat nimmt diese Dokumente zur Kenntnis.
 
 <sup>2</sup> Der Staatsrat übermittelt dem Grossen Rat den Verwaltungsbericht, die Jahresrechnung, den Bericht der Revisionsstelle und die Schlussfolgerungen des Berichts der anerkannten Pensionskassenexpertin oder des anerkannten Pensionskassenexperten. Der Grosse Rat nimmt diese Dokumente zur Kenntnis.
 
@@ -361,23 +394,27 @@ beschliesst:
 
 **Revisionsstelle**
 
-<sup>1</sup> Die Revisionsstelle führt die ihr durch das BVG übertragenen Aufgaben aus. Insbesondere prüft sie jährlich, ob die Jahresrechnung, die Alterskonten der Versicherten, die Geschäftsführung und die Vermögensanlage der Pensionskasse den gesetzlichen Vorschriften entsprechen.
+<sup>1</sup> Die Revisionsstelle führt die ihr durch das BVG[^27-1] übertragenen Aufgaben aus. Insbesondere prüft sie jährlich, ob die Jahresrechnung, die Alterskonten der Versicherten, die Geschäftsführung und die Vermögensanlage der Pensionskasse den gesetzlichen Vorschriften entsprechen.
 
-<sup>2</sup> Sie erstellt zuhanden des Vorstandes einen schriftlichen Bericht über das Ergebnis ihrer Prüfung.
+<sup>2</sup> Sie erstellt zuhanden des Verwaltungsrats einen schriftlichen Bericht über das Ergebnis ihrer Prüfung.
+
+[^27-1]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
 
 #### Art. 28
 
 **Expertin oder Experte**
 
-<sup>1</sup> Die anerkannte Expertin oder der anerkannte Experte für berufliche Vorsorge nach Artikel 52e BVG prüft periodisch, ob:
+<sup>1</sup> Die anerkannte Expertin oder der anerkannte Experte für berufliche Vorsorge nach Artikel 52e BVG[^28-1] prüft periodisch, ob:
 
 - a) die Pensionskasse jederzeit die Sicherheit dafür bietet, dass sie ihre Verpflichtungen erfüllen kann;
 - b) die reglementarischen versicherungstechnischen Bestimmungen über die Leistungen und die Finanzierung den gesetzlichen Vorschriften entsprechen.
 
-<sup>2</sup> Sie oder er unterbreitet dem Vorstand Empfehlungen insbesondere über:
+<sup>2</sup> Sie oder er unterbreitet dem Verwaltungsrat Empfehlungen insbesondere über:
 
 - a) die Höhe des technischen Zinssatzes und der übrigen technischen Grundlagen;
 - b) die Massnahmen, die im Falle einer Unterdeckung einzuleiten sind.
+
+[^28-1]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
 
 #### Art. 29
 
@@ -385,7 +422,9 @@ beschliesst:
 
 <sup>1</sup> Bei Streitigkeiten über die Anwendung dieses Gesetzes oder der reglementarischen Bestimmungen der Pensionskasse können die versicherte Person, der Arbeitgeber, die Pensionskasse und alle anderen Anspruchsberechtigten beim Kantonsgericht Klage einreichen.
 
-<sup>2</sup> Bevor die Klage eingereicht wird, müssen der Pensionskasse gemäss Artikel 102 VRG die Ansprüche zusammen mit einer Begründung mitgeteilt werden.
+<sup>2</sup> Bevor die Klage eingereicht wird, müssen der Pensionskasse gemäss Artikel 102 VRG[^29-1] die Ansprüche zusammen mit einer Begründung mitgeteilt werden.
+
+[^29-1]: SGF [150.1](https://bdlf.fr.ch/data/150.1/de)
 
 ## 7a Übergangsbestimmungen für den Wechsel vom Leistungsprimat zum Beitragsprimat im Pensionsplan
 
@@ -401,7 +440,9 @@ beschliesst:
 
 **Altersguthaben**
 
-<sup>1</sup> Am Tag des Inkrafttretens der Änderung vom 26. Juni 2020 dieses Gesetzes schreibt die Pensionskasse dem Altersguthaben jeder aktiven versicherten Person ei-nen Betrag gut, der dem aktuellen Wert der erworbenen Leistungen ent-spricht, wie er gemäss Artikel 16 des Bundesgesetzes vom 17. Dezember 1993 über die Freizügigkeit in der beruflichen Alters-, Hinterlassenen- und Invalidenvorsorge am Vortag des Inkrafttretens berechnet wurde.
+<sup>1</sup> Am Tag des Inkrafttretens der Änderung vom 26. Juni 2020 dieses Gesetzes schreibt die Pensionskasse dem Altersguthaben jeder aktiven versicherten Person ei-nen Betrag gut, der dem aktuellen Wert der erworbenen Leistungen ent-spricht, wie er gemäss Artikel 16 des Bundesgesetzes vom 17. Dezember 1993 über die Freizügigkeit in der beruflichen Alters-, Hinterlassenen- und Invalidenvorsorge[^29b-1] am Vortag des Inkrafttretens berechnet wurde.
+
+[^29b-1]: SR [831.42](https://db.clex.ch/link/Bund/831.42/de)
 
 #### Art. 29c
 
@@ -441,7 +482,9 @@ beschliesst:
 
 **Schuldanerkennung**
 
-<sup>1</sup> Die von der Pensionskasse mitgeteilten Beträge nach Artikel 29d gelten als Schuldanerkennung im Sinne von Artikel 82 des Bundesgesetzes über Schuldbetreibung und Konkurs vom 11. April 1889.
+<sup>1</sup> Die von der Pensionskasse mitgeteilten Beträge nach Artikel 29d gelten als Schuldanerkennung im Sinne von Artikel 82 des Bundesgesetzes über Schuldbetreibung und Konkurs vom 11. April 1889[^29e-1].
+
+[^29e-1]: SR [281.1](https://db.clex.ch/link/Bund/281.1/de)
 
 #### Art. 29f
 
@@ -463,9 +506,11 @@ beschliesst:
 
 <sup>4</sup> Der Staatsrat legt nach Anhörung der betroffenen Anstalten den Betrag fest, den jede Anstalt oder Einrichtung dem Staat überweisen muss.
 
-<sup>5</sup> Gemäss den Bestimmungen des Gesetzes über die obligatorische Schule tragen die Gemeinden zusammen 50 % der Kosten, die von der Änderung vom 26. Juni 2020 dieses Gesetzes für die Lehrpersonen und das sozialpädagogische Personal verursacht werden. Die Aufteilung auf die Gemeinden und die Zahlungsmodalitäten richten sich nach den Artikeln 68 und 69 des Gesetzes vom 9. September 2014 über die obligatorische Schule.
+<sup>5</sup> Gemäss den Bestimmungen des Gesetzes über die obligatorische Schule tragen die Gemeinden zusammen 50 % der Kosten, die von der Änderung vom 26. Juni 2020 dieses Gesetzes für die Lehrpersonen und das sozialpädagogische Personal verursacht werden. Die Aufteilung auf die Gemeinden und die Zahlungsmodalitäten richten sich nach den Artikeln 68 und 69 des Gesetzes vom 9. September 2014 über die obligatorische Schule[^29f-1].
 
 <sup>6</sup> Der Staat kann den Gemeinden und den vorgenannten Anstalten bei Bedarf ein Darlehen gewähren. Der Staatsrat bestimmt die Darlehensbedingungen und ‑modalitäten.
+
+[^29f-1]: sgf [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
 
 ## 8 Schlussbestimmungen
 

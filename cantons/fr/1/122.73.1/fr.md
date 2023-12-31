@@ -4,13 +4,12 @@ number: "122.73.1"
 title: "Loi sur la Caisse de prévoyance du personnel de l'Etat"
 short: LCP
 language: fr
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2020-06-26
+version: 2024-01-01
+version_adopted: 2023-09-08
 adopted: 2011-05-12
 in_force: 2012-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.73.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6686/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8307/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Caisse de prévoyance du personnel de l'Etat – L
 
 (LCP)
 
-du 12.05.2011 (version entrée en vigueur le 01.01.2022)
+du 12.05.2011 (version entrée en vigueur le 01.01.2024)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -57,9 +56,12 @@ Décrète:
 
 **Relation avec la LPP**
 
-<sup>1</sup> La Caisse participe à l'assurance obligatoire prévue par la loi fédérale sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP).
+<sup>1</sup> La Caisse participe à l'assurance obligatoire prévue par la loi fédérale sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP)[^3-1].
 
-<sup>2</sup> Elle fournit des prestations conformément à la présente loi et à ses règlements, mais au moins les prestations prévues par la LPP.
+<sup>2</sup> Elle fournit des prestations conformément à la présente loi et à ses règlements, mais au moins les prestations prévues par la LPP[^3-2].
+
+[^3-1]: RS [831.40](https://db.clex.ch/link/Bund/831.40/fr)
+[^3-2]: RS [831.40](https://db.clex.ch/link/Bund/831.40/fr)
 
 #### Art. 4
 
@@ -89,7 +91,9 @@ Décrète:
 
 **Placement de la fortune**
 
-<sup>1</sup> La fortune de la Caisse doit être placée conformément aux dispositions de la LPP de manière à assurer la sécurité, la rentabilité, la répartition appropriée des risques et des liquidités suffisantes. La sécurité prime la rentabilité.
+<sup>1</sup> La fortune de la Caisse doit être placée conformément aux dispositions de la LPP[^6-1] de manière à assurer la sécurité, la rentabilité, la répartition appropriée des risques et des liquidités suffisantes. La sécurité prime la rentabilité.
+
+[^6-1]: RS [831.40](https://db.clex.ch/link/Bund/831.40/fr)
 
 #### Art. 7
 
@@ -98,24 +102,30 @@ Décrète:
 <sup>1</sup> La Caisse applique les régimes de prévoyance suivants:
 
 - a) un régime principal fonctionnant en primauté des cotisations («régime de pensions»);
-- b) pour les personnes non assurées dans le régime principal, un régime fonctionnant en primauté des cotisations, orienté sur les bonifications de vieillesse LPP («régime LPP»);
+- b) pour les personnes non assurées dans le régime principal, un régime fonctionnant en primauté des cotisations, orienté sur les bonifications de vieillesse LPP[^7-1] («régime LPP»);
 - c) un régime complémentaire pour les cadres fonctionnant en primauté de cotisations, dont le mode de financement ne peut être plus avantageux pour les personnes assurées que celui qui est préconisé dans le régime prévu à la lettre a.
 
-<sup>2</sup> La Caisse peut instituer au maximum trois plans de prévoyance au choix pour les personnes assurées dans le régime de pensions ainsi que dans le régime complémentaire pour les cadres. Un seul plan est en revanche offert dans le régime LPP.
+<sup>2</sup> La Caisse peut instituer au maximum trois plans de prévoyance au choix pour les personnes assurées dans le régime de pensions ainsi que dans le régime complémentaire pour les cadres. Un seul plan est en revanche offert dans le régime LPP[^7-2].
+
+[^7-1]: RS [831.40](https://db.clex.ch/link/Bund/831.40/fr)
+[^7-2]: RS [831.40](https://db.clex.ch/link/Bund/831.40/fr)
 
 #### Art. 8
 
 **Systèmes financiers**
 
-<sup>1</sup> Le système financier du régime de pensions est un système financier mixte fonctionnant en capitalisation partielle. Il est régi conformément aux articles 72a et 72b LPP. Le taux de couverture de 80 % des engagements totaux de la Caisse doit être atteint au plus tard le 1<sup>er</sup> janvier 2052.
+<sup>1</sup> Le système financier du régime de pensions est un système financier mixte fonctionnant en capitalisation partielle. Il est régi conformément aux articles 72a et 72b LPP[^8-1]. Le taux de couverture de 80 % des engagements totaux de la Caisse doit être atteint au plus tard le 1<sup>er</sup> janvier 2052.
 
 <sup>1a</sup> La Caisse soumet tous les cinq ans à son autorité de surveillance, pour approbation, un plan de financement pour le régime de pensions respectant les exigences fixées à l'alinéa 1.
 
-<sup>2</sup> Le système financier du régime LPP et du régime complémentaire pour les cadres est celui de la capitalisation intégrale. Il a pour but de garantir, avec la fortune nette de prévoyance correspondante, une couverture d'au moins 100 % des engagements actuariels.
+<sup>2</sup> Le système financier du régime LPP[^8-2] et du régime complémentaire pour les cadres est celui de la capitalisation intégrale. Il a pour but de garantir, avec la fortune nette de prévoyance correspondante, une couverture d'au moins 100 % des engagements actuariels.
 
 <sup>3</sup> Les engagements actuariels comprennent les capitaux de prévoyance des personnes assurées, les capitaux de prévoyance des bénéficiaires et les provisions techniques nécessaires, calculés à la même date que la fortune de prévoyance.
 
 <sup>4</sup> Le calcul de la valeur actuelle des capitaux de prévoyance des bénéficiaires se fait en prenant en considération l'adaptation au renchérissement acquise. Ce calcul ne tient pas compte de l'indexation future des pensions et des rentes.
+
+[^8-1]: RS [831.40](https://db.clex.ch/link/Bund/831.40/fr)
+[^8-2]: RS [831.40](https://db.clex.ch/link/Bund/831.40/fr)
 
 #### Art. 9
 
@@ -123,17 +133,20 @@ Décrète:
 
 <sup>1</sup> Les systèmes financiers de la Caisse doivent être gérés dans le respect du principe de l'équilibre financier.
 
-<sup>2</sup> L'équilibre financier du régime de pensions est mesuré relativement au plan de financement prévu à l'article 8 al. 1a de la présente loi. L'équilibre financier du régime LPP et du régime complémentaire pour les cadres est mesuré relativement à un degré de couverture de 100 %.
+<sup>2</sup> L'équilibre financier du régime de pensions est mesuré relativement au plan de financement prévu à l'article 8 al. 1a de la présente loi. L'équilibre financier du régime LPP[^9-1] et du régime complémentaire pour les cadres est mesuré relativement à un degré de couverture de 100 %.
 
 <sup>3</sup> L'équilibre financier du régime de pensions est jugé satisfaisant lorsque le degré de couverture à une date donnée respecte le plan de financement adopté par la Caisse. En outre, sur la base de calculs effectués à partir de projections, le plan de financement doit être respecté pour la période de financement déterminante.
 
-<sup>3a</sup> L'équilibre financier du régime LPP et du régime complémentaire pour les cadres est jugé satisfaisant lorsque le degré de couverture à une date donnée est d'au moins 100 %. En outre, sur la base de calculs effectués à partir de projections des budgets annuels, le degré de couverture de 100 % doit être respecté pour la période de financement déterminante.
+<sup>3a</sup> L'équilibre financier du régime LPP[^9-2] et du régime complémentaire pour les cadres est jugé satisfaisant lorsque le degré de couverture à une date donnée est d'au moins 100 %. En outre, sur la base de calculs effectués à partir de projections des budgets annuels, le degré de couverture de 100 % doit être respecté pour la période de financement déterminante.
 
 <sup>4</sup> La période de financement déterminante est de vingt ans à compter de la date de l'expertise actuarielle, mais court au moins jusqu'en 2052 pour le régime de pensions.
 
-<sup>5</sup> Si les calculs projectifs effectués par l'expert ou l'experte agréé-e font apparaître un déséquilibre structurel au niveau du financement de la Caisse, le comité de la Caisse (ci-après: le comité) décide des mesures à prendre pour rétablir l'équilibre. Si ces mesures nécessitent une modification légale, le comité soumet des propositions au Conseil d'Etat, sur le préavis de l'expert ou l'experte agréé-e. Le Conseil d'Etat décide de la suite à donner et, le cas échéant, soumet un projet au Grand Conseil.
+<sup>5</sup> Si les calculs projectifs effectués par l'expert ou l'experte agréé-e font apparaître un déséquilibre structurel au niveau du financement de la Caisse, le conseil d'administration de la Caisse (ci-après: le conseil d'administration) décide des mesures à prendre pour rétablir l'équilibre. Si ces mesures nécessitent une modification légale, le conseil d'administration soumet des propositions au Conseil d'Etat, sur le préavis de l'expert ou l'experte agréé-e. Le Conseil d'Etat décide de la suite à donner et, le cas échéant, soumet un projet au Grand Conseil.
 
 <sup>6</sup> En cas de déséquilibre structurel au niveau du financement, la Caisse informe l'autorité de surveillance et tient compte de l'avis de celle-ci sur les mesures à prendre pour rétablir l'équilibre.
+
+[^9-1]: RS [831.40](https://db.clex.ch/link/Bund/831.40/fr)
+[^9-2]: RS [831.40](https://db.clex.ch/link/Bund/831.40/fr)
 
 #### Art. 10
 
@@ -141,19 +154,22 @@ Décrète:
 
 <sup>1</sup> Dans le cas d'une insuffisance de couverture prévisible ou effective de l'équilibre financier due à des circonstances conjoncturelles ou structurelles (marchés financiers déficients, sursinistralité passagère, etc.), des mesures d'assainissement doivent être prises.
 
-<sup>2</sup> Le comité détermine les catégories de mesures d'assainissement et les circonstances dans lesquelles elles doivent être prises.
+<sup>2</sup> Le conseil d'administration détermine les catégories de mesures d'assainissement et les circonstances dans lesquelles elles doivent être prises.
 
-<sup>3</sup> Le comité, en collaboration avec l'expert ou l'experte agréé-e, décide des mesures d'assainissement. Avant leur adoption, celles-ci sont portées à la connaissance du Conseil d'Etat qui donne son avis. Dans ce cadre, le Conseil d'Etat peut consulter la Fédération des associations du personnel des services publics du canton de Fribourg (ci-après: la FEDE), le Syndicat des services publics - Fribourg (ci-après: le SSP-Fribourg) et l'Association des cadres supérieurs et magistrats, magistrates de l'Etat de Fribourg. L'article 14 est en outre réservé.
+<sup>3</sup> Le conseil d'administration, en collaboration avec l'expert ou l'experte agréé-e, décide des mesures d'assainissement. Avant leur adoption, celles-ci sont portées à la connaissance du Conseil d'Etat qui donne son avis. Dans ce cadre, le Conseil d'Etat peut consulter la Fédération des associations du personnel des services publics du canton de Fribourg (ci-après: la FEDE), le Syndicat des services publics - Fribourg (ci-après: le SSP-Fribourg) et l'Association des cadres supérieurs et magistrats, magistrates de l'Etat de Fribourg. L'article 14 est en outre réservé.
 
-<sup>4</sup> Le comité informe l'autorité de surveillance et tient compte de l'avis de celle-ci sur les mesures d'assainissement à prendre.
+<sup>4</sup> Le conseil d'administration informe l'autorité de surveillance et tient compte de l'avis de celle-ci sur les mesures d'assainissement à prendre.
 
 #### Art. 11
 
 **Garantie de l'Etat**
 
-<sup>1</sup> L'Etat garantit les prestations prévues par l'article 72c al. 1 LPP dans la mesure où elles ne sont pas entièrement financées sur la base des taux de couverture initiaux visés à l'article 72a LPP.
+<sup>1</sup> L'Etat garantit les prestations prévues par l'article 72c al. 1 LPP[^11-1] dans la mesure où elles ne sont pas entièrement financées sur la base des taux de couverture initiaux visés à l'article 72a LPP[^11-2].
 
 <sup>2</sup> En cas de mise en œuvre de la garantie, les institutions externes versent à l'Etat la part qui les concerne. La réglementation de la Caisse fixe les règles de calcul.
+
+[^11-1]: RS [831.40](https://db.clex.ch/link/Bund/831.40/fr)
+[^11-2]: RS [831.40](https://db.clex.ch/link/Bund/831.40/fr)
 
 ## 3 Cotisations
 
@@ -163,13 +179,16 @@ Décrète:
 
 <sup>1</sup> Le montant des cotisations des personnes assurées et des employeurs affiliés est déterminé sur la base du salaire assuré. Celui-ci est égal au salaire déterminant AVS tel qu'il est défini par la réglementation de la Caisse, diminué d'un montant de coordination.
 
-<sup>2</sup> Dans le régime de pensions et le régime LPP, le montant de coordination est celui qui est prévu par la LPP. Dans sa réglementation, la Caisse peut prévoir le fractionnement du montant de coordination en fonction du taux d'activité.
+<sup>2</sup> Dans le régime de pensions et le régime LPP[^12-1], le montant de coordination est celui qui est prévu par la LPP[^12-2]. Dans sa réglementation, la Caisse peut prévoir le fractionnement du montant de coordination en fonction du taux d'activité.
+
+[^12-1]: RS [831.40](https://db.clex.ch/link/Bund/831.40/fr)
+[^12-2]: RS [831.40](https://db.clex.ch/link/Bund/831.40/fr)
 
 #### Art. 13
 
 **Cotisations de l'employeur et des personnes assurées – En général**
 
-<sup>1</sup> Dans le régime de pensions, les cotisations dues à la Caisse par la personne assurée et par l'employeur sont fixées en pour-cent du salaire assuré en fonction de l'âge LPP de la personne assurée, sur la base de la tabelle ci-après:
+<sup>1</sup> Dans le régime de pensions, les cotisations dues à la Caisse par la personne assurée et par l'employeur sont fixées en pour-cent du salaire assuré en fonction de l'âge LPP[^13-1] de la personne assurée, sur la base de la tabelle ci-après:
 
 <table>
 <tr><th>Age LPP</th><th>Taux de cotisation personne assurée</th><th>Taux de cotisation employeur</th></tr>
@@ -181,17 +200,21 @@ Décrète:
 
 <sup>1a</sup> Si la Caisse a institué plusieurs types de plans en application de l'article 7 al. 2, les suppléments de cotisations qui en découlent sont entièrement à la charge des personnes assurées.
 
-<sup>2</sup> Dans le régime LPP, la cotisation est fixée en pour-cent du salaire assuré en fonction des bonifications de vieillesse prévues par la LPP. La Caisse fixe la part risque et frais administratifs dans sa réglementation. La cotisation est répartie paritairement entre la personne assurée et l'employeur.
+<sup>2</sup> Dans le régime LPP[^13-2], la cotisation est fixée en pour-cent du salaire assuré en fonction des bonifications de vieillesse prévues par la LPP[^13-3]. La Caisse fixe la part risque et frais administratifs dans sa réglementation. La cotisation est répartie paritairement entre la personne assurée et l'employeur.
 
 <sup>3</sup> Dans le régime complémentaire pour les cadres, la cotisation et la répartition entre l'employeur et les personnes assurées sont déterminées par le Conseil d'Etat.
 
 <sup>4</sup> La réglementation de la Caisse fixe les règles relatives à la perception des cotisations.
 
+[^13-1]: RS [831.40](https://db.clex.ch/link/Bund/831.40/fr)
+[^13-2]: RS [831.40](https://db.clex.ch/link/Bund/831.40/fr)
+[^13-3]: RS [831.40](https://db.clex.ch/link/Bund/831.40/fr)
+
 #### Art. 14
 
 **Cotisations de l'employeur et des personnes assurées – En cas de découvert**
 
-<sup>1</sup> Lorsque des cotisations doivent être perçues au titre de mesure d'assainissement au sens de l'article 10, le Conseil d'Etat peut fixer, pour une durée limitée, des cotisations supplémentaires à celles qui sont prévues à l'article 13, sur la proposition du comité.
+<sup>1</sup> Lorsque des cotisations doivent être perçues au titre de mesure d'assainissement au sens de l'article 10, le Conseil d'Etat peut fixer, pour une durée limitée, des cotisations supplémentaires à celles qui sont prévues à l'article 13, sur la proposition du conseil d'administration.
 
 <sup>2</sup> Lorsque le taux des cotisations supplémentaires dépasse au total 2 %, le Conseil d'Etat soumet cette augmentation au Grand Conseil pour adoption.
 
@@ -211,7 +234,9 @@ Décrète:
 
 <sup>1</sup> Dans le régime de pensions, la personne assurée a droit, au plus tôt dès l'âge de 58 ans révolus, à une pension de retraite.
 
-<sup>2</sup> Dans le régime LPP, la réglementation de la Caisse fixe l'âge minimal donnant droit aux rentes de vieillesse.
+<sup>2</sup> Dans le régime LPP[^16-1], la réglementation de la Caisse fixe l'âge minimal donnant droit aux rentes de vieillesse.
+
+[^16-1]: RS [831.40](https://db.clex.ch/link/Bund/831.40/fr)
 
 #### Art. 17
 
@@ -231,41 +256,43 @@ Décrète:
 
 <sup>1</sup> Les organes de la Caisse sont:
 
-- a) le comité, composé paritairement conformément à l'article 51 LPP;
+- a) le conseil d'administration, composé paritairement conformément à l'article 51 LPP[^18-1];
 - b) l'administration.
+
+[^18-1]: RS [831.40](https://db.clex.ch/link/Bund/831.40/fr)
 
 #### Art. 19
 
-**Comité – Constitution**
+**Conseil d'administration – Constitution**
 
-<sup>1</sup> Le comité se compose de douze membres, dont six représentent l'employeur et six, les personnes salariées. Ces membres sont soumis à la loi réglant la durée des fonctions publiques accessoires.
+<sup>1</sup> Le conseil d'administration se compose de douze membres, représentant paritairement l'employeur et les personnes salariées. Ces membres sont soumis à la loi réglant la durée des fonctions publiques accessoires.
 
-<sup>1a</sup> Les membres du comité doivent jouir d'une bonne réputation et offrir toutes les garanties d'une activité irréprochable. Dans leur ensemble, ils doivent disposer des compétences, en particulier dans les domaines de la prévoyance professionnelle et de la gestion des ressources humaines, en matière de placements financiers et de constructions ainsi que dans le domaine juridique, nécessaires à la bonne exécution des tâches qui leur incombent.
+<sup>1a</sup> Les membres du conseil d'administration doivent jouir d'une bonne réputation et offrir toutes les garanties d'une activité irréprochable. Dans leur ensemble, ils doivent disposer des compétences, en particulier dans les domaines de la prévoyance professionnelle, de la gestion des ressources humaines et de l'immobilier, en matière de placements financiers, ainsi que dans le domaine juridique, nécessaires à la bonne exécution des tâches qui leur incombent.
 
-<sup>2</sup> En cas de fin des rapports de service d'un membre du comité, salarié de l'Etat, ou en cas de démission, le comité avise l'autorité ou l'organe compétent pour la désignation d'une personne remplaçante.
+<sup>2</sup> En cas de démission d'un membre du conseil d'administration représentant l'employeur, le conseil d'administration avise l'autorité ou l'organe compétent pour la désignation d'une personne remplaçante. Le conseil d'administration précise par voie réglementaire les dispositions applicables en cas de démission d'un membre du conseil d'administration représentant les personnes salariées.
 
-<sup>3</sup> Les personnes salariées sont représentées au comité par six membres, dont quatre sont élus par l'intermédiaire de la FEDE, un, par l'intermédiaire du SSP-Fribourg et le dernier, par l'intermédiaire de l'Association des cadres supérieurs et magistrats, magistrates de l'Etat de Fribourg.
+<sup>3</sup> Les personnes salariées sont représentées au conseil d'administration par six membres, reflétant équitablement les différentes catégories de fonctions du personnel de l'Etat et de celui des institutions externes, en tenant compte de l'importance numérique de ces catégories. Le conseil d'administration définit par voie réglementaire les modalités de leur désignation.
 
-<sup>4</sup> Un membre du Conseil d'Etat représente l'employeur. En outre, le Conseil d'Etat désigne cinq autres personnes représentant l'employeur.
+<sup>4</sup> Un membre du Conseil d'Etat représente l'employeur au conseil d'administration. En outre, le Conseil d'Etat désigne cinq autres personnes représentant l'employeur.
 
-<sup>5</sup> La FEDE, le SSP-Fribourg ainsi que l'Association des cadres supérieurs et magistrats, magistrates de l'Etat de Fribourg organisent l'élection des personnes qui représentent les personnes salariées. Il est tenu compte des diverses catégories de personnes salariées et de l'importance numérique de celles-ci; le Conseil d'Etat fixe les règles de répartition. Quatre des membres représentant les personnes salariées au moins doivent être des personnes assurées de la Caisse.
+<sup>5</sup> …
 
-<sup>6</sup> Les personnes au bénéfice de pensions de retraite de la Caisse élisent un représentant ou une représentante parmi les anciens collaborateurs ou collaboratrices de l'Etat. Cette personne participe aux séances du comité avec voix consultative.
+<sup>6</sup> Les personnes au bénéfice de pensions de retraite de la Caisse élisent un représentant ou une représentante parmi les anciens collaborateurs ou collaboratrices de l'Etat. Cette personne participe aux séances du conseil d'administration avec voix consultative.
 
-<sup>7</sup> La présidence du comité est assurée à tour de rôle par un membre représentant les personnes salariées et un membre représentant l'employeur. Le comité peut toutefois prévoir un autre mode d'attribution de la présidence.
+<sup>7</sup> La présidence du conseil d'administration est assurée à tour de rôle par un membre représentant les personnes salariées et un membre représentant l'employeur. Le conseil d'administration peut toutefois prévoir un autre mode d'attribution de la présidence.
 
 #### Art. 20
 
-**Comité – Tâches générales**
+**Conseil d'administration – Tâches générales**
 
-<sup>1</sup> Le comité est l'organe dirigeant suprême; il exerce la surveillance et le contrôle sur la gestion et représente la Caisse à l'extérieur. Il exerce notamment les attributions suivantes:
+<sup>1</sup> Le conseil d'administration est l'organe dirigeant suprême; il exerce la surveillance et le contrôle sur la gestion et représente la Caisse à l'extérieur. Il exerce notamment les attributions suivantes:
 
 - a) il élit son président ou sa présidente;
 - b) il conclut des conventions d'affiliation;
 - c) il engage le personnel de l'administration de la Caisse;
 - d) il désigne les personnes qui ont le pouvoir de représentation de la Caisse en matière financière;
 - e) il procède, le cas échéant, à l'inscription de la Caisse au registre du commerce;
-- f) il désigne l'organe de contrôle et l'expert ou l'experte agréé-e au sens de l'article 53 LPP;
+- f) il désigne l'organe de contrôle et l'expert ou l'experte agréé-e au sens de l'article 53 LPP[^20-1];
 - g) il désigne les experts ou expertes et les commissions qui lui sont rattachés;
 - h) il désigne, au besoin, d'autres organes de contrôle externes pour la vérification de certaines tâches particulières;
 - i) il adopte le rapport et les comptes annuels;
@@ -274,13 +301,15 @@ Décrète:
 - l) il gère les biens de la Caisse;
 - m) il fixe la rémunération de ses membres.
 
-<sup>2</sup> Dans le cadre de ses attributions, le comité peut confier certaines tâches à des tiers.
+<sup>2</sup> Dans le cadre de ses attributions, le conseil d'administration peut confier certaines tâches à des tiers.
+
+[^20-1]: RS [831.40](https://db.clex.ch/link/Bund/831.40/fr)
 
 #### Art. 21
 
-**Comité – Compétences réglementaires**
+**Conseil d'administration – Compétences réglementaires**
 
-<sup>1</sup> Le comité est chargé d'édicter les dispositions réglementaires qui définissent en particulier:
+<sup>1</sup> Le conseil d'administration est chargé d'édicter les dispositions réglementaires qui définissent en particulier:
 
 - a) l'organisation de la Caisse;
 - b) les placements;
@@ -304,7 +333,7 @@ Décrète:
 - t) le régime transitoire relatif au montant des prestations;
 - u) les conditions de l'affiliation des institutions externes.
 
-<sup>2</sup> La réglementation adoptée par le comité est publiée sur le site Internet de la Caisse.
+<sup>2</sup> La réglementation adoptée par le conseil d'administration est publiée sur le site Internet de la Caisse.
 
 #### Art. 22
 
@@ -315,11 +344,11 @@ Décrète:
 <sup>2</sup> L'administration de la Caisse exerce les attributions suivantes:
 
 - a) elle verse les prestations dues;
-- b) elle exécute les décisions du comité;
+- b) elle exécute les décisions du conseil d'administration;
 - c) elle tient les comptes de la Caisse;
 - d) elle est chargée de la mise en œuvre de la réglementation de la Caisse.
 
-<sup>3</sup> La personne qui dirige l'administration, ou, sur délégation de celle-ci, la personne désignée pour la remplacer, participe avec voix consultative aux séances du comité.
+<sup>3</sup> La personne qui dirige l'administration, ou, sur délégation de celle-ci, la personne désignée pour la remplacer, participe avec voix consultative aux séances du conseil d'administration.
 
 ## 6 Règles de fonctionnement
 
@@ -327,31 +356,36 @@ Décrète:
 
 **Incompatibilité**
 
-<sup>1</sup> Les membres du comité qui siègent dans un organe ou un comité directeur d'une entreprise à but lucratif traitant directement ou indirectement avec la Caisse sont tenus d'en informer le comité.
+<sup>1</sup> Les membres du conseil d'administration qui siègent dans un organe ou un comité directeur d'une entreprise à but lucratif traitant directement ou indirectement avec la Caisse sont tenus d'en informer le conseil d'administration.
 
-<sup>2</sup> Le comité décide si ce mandat ou cet engagement est compatible avec la fonction de membre du comité.
+<sup>2</sup> Le conseil d'administration décide si ce mandat ou cet engagement est compatible avec la fonction de membre du conseil d'administration.
 
-<sup>3</sup> En cas d'incompatibilité, le comité avise l'autorité ou l'organe compétent pour la désignation d'une personne remplaçante.
+<sup>3</sup> En cas d'incompatibilité, le conseil d'administration avise l'autorité ou l'organe compétent pour la désignation d'une personne remplaçante.
 
 #### Art. 24
 
 **Récusation**
 
-<sup>1</sup> Les règles de récusation selon le code de procédure et de juridiction administrative (CPJA) sont applicables par analogie aux membres du comité et de l'administration ainsi qu'à l'organe de révision et à l'expert ou l'experte agréé-e.
+<sup>1</sup> Les règles de récusation selon le code de procédure et de juridiction administrative (CPJA)[^24-1] sont applicables par analogie aux membres du conseil d'administration et de l'administration ainsi qu'à l'organe de révision et à l'expert ou l'experte agréé-e.
+
+[^24-1]: RSF [150.1](https://bdlf.fr.ch/data/150.1/fr)
 
 #### Art. 25
 
 **Secret de fonction et responsabilité**
 
-<sup>1</sup> Les membres du comité, des commissions et de l'administration ainsi que les organes de révision et les experts et expertes sont soumis au secret de fonction au sens de l'article 60 de la loi du 17 octobre 2001 sur le personnel de l'Etat (LPers).
+<sup>1</sup> Les membres du conseil d'administration, des commissions et de l'administration ainsi que les organes de révision et les experts et expertes sont soumis au secret de fonction au sens de l'article 60 de la loi du 17 octobre 2001 sur le personnel de l'Etat (LPers)[^25-1].
 
-<sup>2</sup> Les membres du comité, les personnes chargées de la gestion et de l'administration ainsi que les experts et expertes répondent du dommage qu'ils causent à la Caisse intentionnellement ou par négligence. L'article 755 CO s'applique par analogie à l'organe de révision.
+<sup>2</sup> Les membres du conseil d'administration, les personnes chargées de la gestion et de l'administration ainsi que les experts et expertes répondent du dommage qu'ils causent à la Caisse intentionnellement ou par négligence. L'article 755 CO[^25-2] s'applique par analogie à l'organe de révision.
+
+[^25-1]: RSF [122.70.1](https://bdlf.fr.ch/data/122.70.1/fr)
+[^25-2]: RS [220](https://db.clex.ch/link/Bund/220/fr)
 
 #### Art. 26
 
 **Transmission des documents**
 
-<sup>1</sup> Le comité transmet au Conseil d'Etat le rapport de gestion, les comptes annuels, le rapport de l'organe de révision et le rapport de l'expert ou de l'experte agréé-e. Le Conseil d'Etat prend acte de ces documents.
+<sup>1</sup> Le conseil d'administration transmet au Conseil d'Etat le rapport de gestion, les comptes annuels, le rapport de l'organe de révision et le rapport de l'expert ou de l'experte agréé-e. Le Conseil d'Etat prend acte de ces documents.
 
 <sup>2</sup> Le Conseil d'Etat transmet au Grand Conseil le rapport de gestion, les comptes annuels, le rapport de l'organe de révision et les conclusions du rapport de l'expert ou de l'experte agréé-e. Le Grand Conseil prend acte de ces documents.
 
@@ -361,23 +395,27 @@ Décrète:
 
 **Organe de révision**
 
-<sup>1</sup> L'organe de révision exécute les tâches qui lui sont dévolues par la LPP. Il vérifie notamment chaque année la légalité des comptes annuels, des comptes des personnes assurées, de la gestion et des placements de la Caisse.
+<sup>1</sup> L'organe de révision exécute les tâches qui lui sont dévolues par la LPP[^27-1]. Il vérifie notamment chaque année la légalité des comptes annuels, des comptes des personnes assurées, de la gestion et des placements de la Caisse.
 
-<sup>2</sup> Il établit, à l'intention du comité, un rapport écrit sur le résultat de ses vérifications.
+<sup>2</sup> Il établit, à l'intention du conseil d'administration, un rapport écrit sur le résultat de ses vérifications.
+
+[^27-1]: RS [831.40](https://db.clex.ch/link/Bund/831.40/fr)
 
 #### Art. 28
 
 **Expert ou experte**
 
-<sup>1</sup> L'expert ou l'experte agréé-e selon l'article 52e LPP est chargé-e de déterminer périodiquement:
+<sup>1</sup> L'expert ou l'experte agréé-e selon l'article 52e LPP[^28-1] est chargé-e de déterminer périodiquement:
 
 - a) si la Caisse offre en tout temps la garantie qu'elle peut remplir ses engagements;
 - b) si les dispositions réglementaires de nature actuarielle, relatives aux prestations et au financement, sont conformes aux prescriptions légales.
 
-<sup>2</sup> Il ou elle soumet des recommandations au comité concernant notamment:
+<sup>2</sup> Il ou elle soumet des recommandations au conseil d'administration concernant notamment:
 
 - a) le niveau du taux d'intérêt technique et des autres bases techniques;
 - b) les mesures à prendre en cas de découvert.
+
+[^28-1]: RS [831.40](https://db.clex.ch/link/Bund/831.40/fr)
 
 #### Art. 29
 
@@ -385,7 +423,9 @@ Décrète:
 
 <sup>1</sup> En cas de contestation concernant l'application de la présente législation ou de la réglementation de la Caisse, la personne assurée, l'employeur, la Caisse ou tout autre ayant droit peut ouvrir action auprès du Tribunal cantonal.
 
-<sup>2</sup> Toutefois, avant l'ouverture de l'action, les prétentions doivent être annoncées, ainsi que les motifs, à la Caisse, selon l'article 102 CPJA.
+<sup>2</sup> Toutefois, avant l'ouverture de l'action, les prétentions doivent être annoncées, ainsi que les motifs, à la Caisse, selon l'article 102 CPJA[^29-1].
+
+[^29-1]: RSF [150.1](https://bdlf.fr.ch/data/150.1/fr)
 
 ## 7a Dispositions transitoires relatives au passage de la primauté des prestations à la primauté des cotisations dans le régime de pensions
 
@@ -401,7 +441,9 @@ Décrète:
 
 **Avoir de vieillesse**
 
-<sup>1</sup> Le jour de l'entrée en vigueur de la modification du 26 juin 2020 de la présente loi, la Caisse crédite l'avoir de vieillesse de chaque personne assurée active d'une somme égale à la valeur actuelle des prestations acquises, calculée au jour précédant cette entrée en vigueur, selon l'article 16 de la loi fédérale du 17 décembre 1993 sur le libre passage dans la prévoyance professionnelle vieillesse, survivants et invalidité.
+<sup>1</sup> Le jour de l'entrée en vigueur de la modification du 26 juin 2020 de la présente loi, la Caisse crédite l'avoir de vieillesse de chaque personne assurée active d'une somme égale à la valeur actuelle des prestations acquises, calculée au jour précédant cette entrée en vigueur, selon l'article 16 de la loi fédérale du 17 décembre 1993 sur le libre passage dans la prévoyance professionnelle vieillesse, survivants et invalidité[^29b-1].
+
+[^29b-1]: RS [831.42](https://db.clex.ch/link/Bund/831.42/fr)
 
 #### Art. 29c
 
@@ -441,7 +483,9 @@ Décrète:
 
 **Reconnaissance de dette**
 
-<sup>1</sup> Les montants notifiés par la Caisse conformément à l'article 29d valent reconnaissance de dette au sens de l'article 82 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite.
+<sup>1</sup> Les montants notifiés par la Caisse conformément à l'article 29d valent reconnaissance de dette au sens de l'article 82 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^29e-1].
+
+[^29e-1]: RS [281.1](https://db.clex.ch/link/Bund/281.1/fr)
 
 #### Art. 29f
 
@@ -463,9 +507,12 @@ Décrète:
 
 <sup>4</sup> Le Conseil d'Etat fixe, après avoir entendu les établissements concernés, le montant que chacun d'eux est tenu de verser à l'Etat.
 
-<sup>5</sup> Conformément aux dispositions de la loi sur la scolarité obligatoire, l'ensemble des communes supporte 50 % des coûts engendrés par la modification du 26 juin 2020 de la présente loi en relation avec les membres du corps enseignant et le personnel socio-éducatif. La répartition intercommunale et les modalités de paiement sont régies par les articles 68 et 69 de la loi du 9 septembre 2014 sur la scolarité obligatoire.
+<sup>5</sup> Conformément aux dispositions de la loi sur la scolarité obligatoire[^29f-1], l'ensemble des communes supporte 50 % des coûts engendrés par la modification du 26 juin 2020 de la présente loi en relation avec les membres du corps enseignant et le personnel socio-éducatif. La répartition intercommunale et les modalités de paiement sont régies par les articles 68 et 69 de la loi du 9 septembre 2014 sur la scolarité obligatoire[^29f-2].
 
 <sup>6</sup> L'Etat peut, en cas de besoin, accorder un prêt aux communes et aux établissements précités. Les conditions et les modalités du prêt sont fixées par le Conseil d'Etat.
+
+[^29f-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+[^29f-2]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
 
 ## 8 Dispositions finales
 
