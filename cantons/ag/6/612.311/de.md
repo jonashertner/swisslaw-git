@@ -4,13 +4,13 @@ number: "612.311"
 title: Verordnung über die wirkungsorientierte Steuerung von Aufgaben und Finanzen
 short: VAF
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-11-16
+version: 2024-01-01
+valid_until: 2024-04-30
+version_adopted: 2023-11-08
 adopted: 2012-12-05
 in_force: 2013-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/612.311"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3270/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3370/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3270/pdf_file"
 
 (VAF)
 
-Vom 05.12.2012 (Stand 01.01.2023)
+Vom 05.12.2012 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -182,9 +182,11 @@ beschliesst:
 
 <sup>3</sup> Die zuständigen Instanzen regeln die Vergabe- und Ausgabenkompetenz für ihre Aufgabenbereiche; sie informieren darüber die beauftragten Instanzen.
 
-<sup>4</sup> Bei der Spezialfinanzierung Strassenrechnung werden Vergaben und Ausgaben über Fr. 5 Mio. dem Regierungsrat vorgelegt.
+<sup>4</sup> Bei der Spezialfinanzierung Strassenrechnung werden Vergaben und Ausgaben, bei Hochbauvorhaben Vergaben über Fr. 5 Mio. dem Regierungsrat vorgelegt.
 
-<sup>5</sup> Die bei Vergaben und Ausgaben abzuschliessenden Verträge werden von den für die Vergabe beziehungsweise die Ausgabe zuständigen Stellen unterzeichnet. Die Verträge sind von mindestens zwei Personen zu unterschreiben.
+<sup>5</sup> Verträge werden von der für die Vergabe beziehungsweise die Ausgabe zuständigen Stelle abgeschlossen. Verträge ab Fr. 150'000.– sind immer von zwei Personen zu unterschreiben.
+
+<sup>6</sup> Verträge mit einem Auftragswert von unter Fr. 150'000.– können durch Bestätigung einer Vertragsofferte der für die Vergabe beziehungsweise die Ausgabe zuständigen Stelle abgeschlossen und dokumentiert werden. Bis zu einem Auftragswert von Fr. 1'000.– können Verträge auch mündlich geschlossen werden.
 
 #### § 14
 
@@ -257,13 +259,13 @@ beschliesst:
 
 #### § 18
 
-**Budgetübertragungen**
+**Budgetübertragungen und Kompensationen innerhalb des Globalbudgets**
 
-<sup>1</sup> Übertragungen gemäss § 15 Abs. 1 GAF werden in der Regel drei Mal jährlich zusammen mit den Nachtrags- und Zusatzkrediten und dem Jahresabschluss vorgenommen.
+<sup>1</sup> Übertragungen gemäss § 15 Abs. 1 GAF und Kompensationen innerhalb des Globalbudgets gemäss § 14 Abs. 1<sup>bis</sup> GAF werden in der Regel drei Mal jährlich zusammen mit den Nachtrags- und Zusatzkrediten und dem Jahresabschluss vorgenommen.
 
-<sup>2</sup> Übertragungen sind dem DFR vorgängig zu melden und zu begründen. Die Umsetzung erfolgt auf Antrag der zuständigen Instanzen zentral durch das DFR. Über Differenzen entscheidet die beauftragte Instanz.
+<sup>2</sup> Übertragungen und Kompensationen innerhalb des Globalbudgets gemäss § 14 Abs. 1<sup>bis</sup> GAF sind dem DFR vorgängig zu melden und zu begründen. Die Umsetzung erfolgt auf Antrag der zuständigen Instanzen zentral durch das DFR. Über Differenzen entscheidet die beauftragte Instanz.
 
-<sup>3</sup> Sämtliche Übertragungen sind im Anhang zum Jahresbericht des Regierungsrats auszuweisen.
+<sup>3</sup> Sämtliche Übertragungen und Kompensationen innerhalb des Globalbudgets gemäss § 14 Abs. 1<sup>bis</sup> GAF sind im Anhang zum Jahresbericht des Regierungsrats auszuweisen.
 
 ## 4. Verpflichtungskredit
 
@@ -353,17 +355,17 @@ beschliesst:
 
 <sup>4</sup> Der Regierungsrat erlässt Weisungen zur Inventarführung und Bilanzierung von Vorräten.
 
-## 6. Spezialfinanzierungen, Fonds, Legate, Stiftungen
+## 6. Spezialfinanzierungen und Zuwendungen aus privaten Mitteln mit besonderer Zweckbindung
 
 #### § 27
 
 **Grundsätze**
 
-<sup>1</sup> Die Fonds, Legate und Stiftungen gemäss § 32 DAF werden in der Bilanz ausgewiesen.
+<sup>1</sup> …
 
-<sup>2</sup> Im Jahresbericht mit Jahresrechnung wird deren Jahresendbestand sowie die Veränderungen zum Vorjahr ausgewiesen.
+<sup>2</sup> Im Jahresbericht mit Jahresrechnung werden der Jahresendbestand sowie die Veränderungen zum Vorjahr für die Spezialfinanzierungen und Zuwendungen aus privaten Mitteln mit besonderer Zweckbindung ausgewiesen.
 
-<sup>3</sup> Stiftungen sind dann aufzuführen, wenn deren gesamtes Vermögen in den Finanzanlagen des Kantons geführt wird.
+<sup>3</sup> …
 
 #### § 28
 
@@ -371,33 +373,27 @@ beschliesst:
 
 <sup>1</sup> Spezialfinanzierungen werden weder verzinst noch mit Verwaltungskosten belastet. Besondere Regelungen bleiben vorbehalten.
 
-<sup>2</sup> Erträge und Wertänderungen bei Fonds, Legaten und Stiftungen mit separater Vermögensanlage werden diesen vollständig gutgeschrieben oder belastet. Sind die Vermögen nicht separat angelegt, ist ihnen der Ertrag aufgrund eines durch das DFR festgelegten Zinssatzes gut zu schreiben.
+<sup>2</sup> Erträge und Wertänderungen bei Zuwendungen aus privaten Mitteln mit besonderer Zweckbindung mit separater Vermögensanlage werden diesen vollständig gutgeschrieben oder belastet. Sind die Vermögen nicht separat angelegt, ist ihnen der Ertrag aufgrund eines durch das DFR festgelegten Zinssatzes gutzuschreiben.
 
-<sup>3</sup> Die Fonds, Legate und Stiftungen werden in der Regel mit Verwaltungskosten belastet.
+<sup>3</sup> Zuwendungen aus privaten Mitteln mit besonderer Zweckbindung können mit Verwaltungskosten belastet werden.
 
-<sup>4</sup> Bei Stiftungen kann das DFR für die Verzinsung und die Verwaltungskosten besondere Regelungen treffen.
+<sup>4</sup> …
 
 #### § 29
 
-**Annahme von Zuwendungen**
-
-<sup>1</sup> Über die Annahme von Zuwendungen Dritter entscheidet der Regierungsrat, wenn
-
-- a) der Kanton wesentliche Verpflichtungen eingehen muss,
-- b) der Verwendungszweck und die Verfügungsberechtigung noch zu bestimmen oder zu präzisieren sind,
-- c) der Wert der Zuwendung Fr. 250'000.– übersteigt.
-
-<sup>2</sup> In allen übrigen Fällen entscheidet die zuständige Instanz.
+**…**
 
 #### § 30
 
-**Verwaltung und Verfügungskompetenzen von Fonds, Legaten, Stiftungen**
+**Verwaltung und Verfügungskompetenzen von Zuwendungen aus privaten Mitteln mit besonderer Zweckbindung**
 
-<sup>1</sup> Die Führung von Fonds, Legaten und Stiftungen gemäss § 32 DAF erfolgt durch die dafür zuständigen Instanzen.
+<sup>1</sup> Die Führung von Zuwendungen aus privaten Mitteln mit besonderer Zweckbindung gemäss § 32 DAF erfolgt durch die dafür zuständigen Instanzen.
 
-<sup>2</sup> Der Verwendungszweck und die Verfügungskompetenz betreffend die einzelnen Fonds und Legate sind in Anhang 4 geregelt.
+<sup>2</sup> Der Verwendungszweck und die Verfügungskompetenz betreffend die einzelnen Zuwendungen aus privaten Mitteln mit besonderer Zweckbindung sind in Anhang 4 geregelt.
 
-<sup>3</sup> Die Vermögen der Fonds, Legate und Stiftungen werden in der Regel zentral durch das DFR verwaltet.
+<sup>3</sup> Die Vermögen der Zuwendungen aus privaten Mitteln mit besonderer Zweckbindung werden in der Regel zentral durch das DFR verwaltet.
+
+## 6<sup>bis</sup>. Finanzausgleich der Gemeinden
 
 #### § 31
 
