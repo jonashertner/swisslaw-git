@@ -4,11 +4,11 @@ title: "Ordinanza del 18 maggio 2005 concernente la riduzione dei rischi nell'ut
 short: ORRPChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: it
-version: 2023-10-01
+version: 2024-01-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20231001/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20231001-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20231001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20240101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20231001/it"
 
 (Ordinanza sulla riduzione dei rischi inerenti ai prodotti chimici, ORRPChim)
 
-del 18 maggio 2005 (Stato 1° ottobre 2023)
+del 18 maggio 2005 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -303,12 +303,13 @@ Alla Confederazione competono:
 
 <sup>2</sup> Per le sostanze, i preparati e gli oggetti connessi a impianti e attività che servono alla difesa nazionale l’esecuzione è retta dall’articolo 82 dell’ordinanza del 5 giugno 2015[^16-2] sui prodotti chimici (OPChim).[^16-3]
 
-<sup>3</sup> Per i concimi l’esecuzione è inoltre retta, a titolo supplementare, dalle prescrizioni esecutive dell’ordinanza del 10 gennaio 2001[^16-4] sui concimi.
+<sup>3</sup> Per i concimi l’esecuzione è inoltre retta, in via supplementare, dalle prescrizioni esecutive dell’ordinanza del 1° novembre 2023[^16-4] sui concimi.[^16-5]
 
 [^16-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 [^16-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 [^16-3]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° set. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
 [^16-4]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^16-5]: Nuovo testo giusta l’all. 5 n. II 3 dell’O del 1° nov. 2023 sui concimi, in vigore dal 1° gen. 2024 ([RU 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
 
 #### Art. 17
 
@@ -1315,7 +1316,7 @@ Sono vietati:
 - b. un’indicazione dei pericoli per l’uomo e per l’ambiente e delle misure protettive, conforme al modello seguente:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20231001/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240101/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = almeno 2,5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 per cento di H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 per cento di H</td></tr>
@@ -2366,8 +2367,8 @@ Allegato 1.17[^t-18]
 
 [^annex117-lvlu1-1]
 
-[^t-18]: Introdotto dal n. II cpv. 1 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dai n. I delle O dell’UFAM del 27 ott. 2016 ([RU 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), del 10 gen. 2017 ([RU 2017 173](https://fedlex.data.admin.ch/eli/oc/2017/48)), del 27 set. 2018 ([RU 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), dalla correzione del 26 feb. 2019 ([RU 2019 759](https://fedlex.data.admin.ch/eli/oc/2019/133)), dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dal n. I dell’O dell’UFAM del 29 set. 2020 ([RU 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)) e dal n. I dell’O del 5 apr. 2023, in vigore dal 1° giu. 2023 ([RU 2023 191](https://fedlex.data.admin.ch/eli/oc/2023/191)).
-[^annex117-lvlu1-1]: Regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dicembre 2006, concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), che istituisce un’Agenzia europea per le sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio e il regolamento (CE) n. 1488/94 della Commissione, nonché la direttiva 76/769/CEE del Consiglio e le direttive della Commissione 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE, GU L 396 del 30.12.2006, pag. 1; modificato da ultimo dal regolamento (UE) 2020/171, GU L 35 del 7.2.2020, pag. 1.
+[^t-18]: Introdotto dal n. II cpv. 1 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dal n. I delle O dell’UFAM del 27 ott. 2016 ([RU 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), del 10 gen. 2017 ([RU 2017 173](https://fedlex.data.admin.ch/eli/oc/2017/48)), del 27 set. 2018 ([RU 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), dalla correzione del 26 feb. 2019 ([RU 2019 759](https://fedlex.data.admin.ch/eli/oc/2019/133)), dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dal n. I dell’O dell’UFAM del 29 set. 2020 ([RU 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)), dal n. I dell’O del 5 apr. 2023 ([RU 2023 191](https://fedlex.data.admin.ch/eli/oc/2023/191)) e dal n. I dell’O dell’UFAM del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 749](https://fedlex.data.admin.ch/eli/oc/2023/749)).
+[^annex117-lvlu1-1]: Regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dicembre 2006, concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), che istituisce un’Agenzia europea per le sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio e il regolamento (CE) n. 1488/94 della Commissione, nonché la direttiva 76/769/CEE del Consiglio e le direttive della Commissione 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE, GU L 396 del 30.12.2006, pag. 1; modificato da ultimo dal regolamento (UE) 2022/586, GU L 112 dell’11.4.2022, pag. 6.
 
 ### 1 Divieti
 
@@ -2439,7 +2440,7 @@ L’immissione sul mercato per l’impiego delle sostanze elencate al numero 5 e
 
 <sup>1</sup> Chi si procura da un fabbricante o da un commerciante una sostanza elencata al numero 5 capoverso 1 o un preparato contenente una di queste sostanze e li impiega a titolo professionale o commerciale, deve notificare all’organo di notifica, entro tre mesi dalla prima fornitura, il tipo di impiego e il numero di autorizzazione o il numero dell’autorizzazione UE della sostanza.
 
-<sup>1bis</sup> Chi utilizza un composto di cromo(VI) di cui al numero 5 capoverso 1 numeri 16–18 in un processo il cui prodotto finale non contiene cromo in forma esavalente notifica annualmente all’organo di notifica entro il 31 marzo dell’anno civile precedente:
+<sup>1bis</sup> Chi utilizza un composto di cromo(VI) di cui al numero 5 capoverso 1 numeri 16–18 per la cromatura dura, decorativa e nera o in un processo il cui prodotto finale non contiene cromo in forma esavalente notifica annualmente all’organo di notifica entro il 31 marzo dell’anno civile precedente:
 
 - a. il nome e l’indirizzo dell’utilizzatore;
 - b. il nome e il numero CAS del composto di cromo(VI) o il nome del preparato contenente il composto di cromo(VI) e il suo contenuto in massa;
@@ -2474,61 +2475,66 @@ L’immissione sul mercato per l’impiego delle sostanze elencate al numero 5 e
 <sup>1</sup> Il numero 1 si applica alle sostanze elencate qui di seguito con le disposizioni previste nelle colonne «Periodo di transizione», «Impieghi o categorie di impiego esentati» e «Periodi di revisione».
 
 <table>
-<tr><th>N. di registrazione</th><th>Sostanza</th><th>Proprietà intrinseche alla base dei divieti</th><th>Periodo di transizione</th><th>Impieghi o categorie di impiego esentati</th><th>Periodi di revisione</th></tr>
-<tr><td>1.</td><td>5-ter-butil-2,4,6-trinitro-m-xilene (muschio xilene) n. CE 201-329-4 n. CAS 81-15-2</td><td>vPvB</td><td>21 agosto 2014</td><td>–</td><td>–</td></tr>
-<tr><td>2.</td><td>4,4’-diaminodifenilmetano (MDA) n. CE 202-974-4 n. CAS 101-77-9</td><td>Cancerogeno (categoria 1B)</td><td>21 agosto 2014</td><td>–</td><td>–</td></tr>
-<tr><td>3.</td><td>...</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>4.</td><td>Bis(2-etilesil) ftalato (DEHP) n. CE 204-211-0 n. CAS 117-81-7</td><td>Tossico per la riproduzione (categoria 1B)</td><td>21 febbraio 2015</td><td>Usi nel confezionamento primario dei medicinali di cui al regolamento (CE) n. 726/ 2004[^annex117-lvlu1-lvl5-1], alla direttiva 2001/82/ CE[^annex117-lvlu1-lvl5-2] e/o alla direttiva 2001/83/ CE[^annex117-lvlu1-lvl5-3]</td><td></td></tr>
-<tr><td>5.</td><td>Benzil-butil-ftalato (BBP) n. CE 201-622-7 n. CAS 85-68-7</td><td>Tossico per la riproduzione (categoria 1B)</td><td>21 febbraio 2015</td><td>Usi nel confezionamento primario dei medicinali di cui al regolamento (CE) n. 726/2004, alla direttiva 2001/82/CE e/o alla direttiva 2001/83/CE</td><td></td></tr>
-<tr><td>6.</td><td>Dibutil ftalato (DBP) n. CE 201-557-4 n. CAS 84-74-2</td><td>Tossico per la riproduzione (categoria 1B)</td><td>21 febbraio 2015</td><td>Usi nel confezionamento primario dei medicinali di cui al regolamento (CE) n. 726/2004, alla direttiva 2001/82/CE e/o alla direttiva 2001/83/CE</td><td></td></tr>
-<tr><td>7.</td><td>Diisobutil ftalato (DIBP) n. CE 201-553-2 n. CAS 84-69-5</td><td>Tossico per la riproduzione (categoria 1B)</td><td>21 febbraio 2015</td><td>–</td><td>–</td></tr>
-<tr><td>8.</td><td>Diarsenico triossido n. CE 215-481-4 n. CAS 1327-53-3</td><td>Cancerogeno (categoria 1A)</td><td>21 maggio 2015</td><td>–</td><td>–</td></tr>
-<tr><td>9.</td><td>Pentaossido di diarsenico n. CE 215-116-9 n. CAS 1303-28-2</td><td>Cancerogeno (categoria 1A)</td><td>21 maggio 2015</td><td>–</td><td>–</td></tr>
-<tr><td>10.</td><td>Cromato di piombo n. CE 231-846-0 n. CAS 7758-97-6</td><td>Cancerogeno (categoria 1B) Tossico per la riproduzione (categoria 1A)</td><td>21 maggio 2015</td><td>–</td><td>–</td></tr>
-<tr><td>11.</td><td>Giallo di piombo solfo-cromato (colorante CI Pigment Yellow 34) n. CE 215-693-7 n. CAS 1344-37-2</td><td>Cancerogeno (categoria 1B) Tossico per la riproduzione (categoria 1A)</td><td>21 maggio 2015</td><td>–</td><td>–</td></tr>
-<tr><td>12.</td><td>Piombo cromato molibdato solfato rosso (colorante CI Pigment Red 104) n. CE 235-759-9 n. CAS 12656-85-8</td><td>Cancerogeno (categoria 1B) Tossico per la riproduzione (categoria 1A)</td><td>21 maggio 2015</td><td></td><td></td></tr>
-<tr><td>13.</td><td>Fosfato di tris(2-cloroetile) (TCEP) n. CE 204-118-5 n. CAS 115-96-8</td><td>Tossico per la riproduzione (categoria 1B)</td><td>21 agosto 2015</td><td></td><td></td></tr>
-<tr><td>14.</td><td>2,4-dinitrotoluene (2,4 DNT) n. CE 204-450-0 n. CAS 121-14-2</td><td>Cancerogeno (categoria 1B)</td><td>21 agosto 2015</td><td></td><td></td></tr>
-<tr><td>15.</td><td>Tricloroetilene n. CE 201-167-4 n. CAS 79-01-6</td><td>Cancerogeno (categoria 1B)</td><td>1° dicembre 2019</td><td>–</td><td>–</td></tr>
-<tr><td>16.</td><td>Triossido di cromo n. CE 215‑607-8 n. CAS 1333-82-0</td><td>Cancerogeno (categoria 1A) Mutageno (categoria 1B)</td><td>1° giugno 2021</td><td>Uso in processi nei quali non risultano prodotti finali con cromo esavalente</td><td>–</td></tr>
-<tr><td>17.</td><td>Acidi generati dal triossido di cromo e relativi oligomeri Gruppo contenente: Acido cromico n. CE 231-801-5 n. CAS 7738-94-5 Acido dicromico n. CE 236-881-5 n. CAS 13530-68-2 Oligomeri dell’acido cromico e dell’acido dicromico n. CE non ancora assegnato n. CAS non ancora assegnato</td><td>Cancerogeno (categoria 1B)</td><td>1° giugno 2021</td><td>Uso in processi nei quali non risultano prodotti finali con cromo esavalente</td><td>–</td></tr>
-<tr><td>18.</td><td>Dicromato di sodio n. CE 234-190-3 n. CAS 7789-12-0 10588-01-9</td><td>Cancerogeno (categoria 1B) Mutageno (categoria 1B) Tossico per la riproduzione (categoria 1B)</td><td>1° giugno 2021</td><td>Uso in processi nei quali non risultano prodotti finali con cromo esavalente</td><td>–</td></tr>
-<tr><td>19.</td><td>Dicromato di potassio n. CE 231-906-6 n. CAS 7778-50-9</td><td>Cancerogeno (categoria 1B) Mutageno (categoria 1B) Tossico per la riproduzione (categoria 1B)</td><td>1° giugno 2021</td><td>–</td><td>–</td></tr>
-<tr><td>20.</td><td>Dicromato di ammonio n. CE 232-143-1 n. CAS 7789-09-5</td><td>Cancerogeno (categoria 1B) Mutageno (categoria 1B) Tossico per la riproduzione (categoria 1B)</td><td>1° giugno 2021</td><td>–</td><td>–</td></tr>
-<tr><td>21.</td><td>Cromato di potassio n. CE 232-140-5 n. CAS 7789-00-6</td><td>Cancerogeno (categoria 1B) Mutageno (categoria 1B)</td><td>1° giugno 2021</td><td>–</td><td>–</td></tr>
-<tr><td>22.</td><td>Cromato di sodio n. CE 231-889-5 n. CAS 7775-11-3</td><td>Cancerogeno (categoria 1B) Mutageno (categoria 1B) Tossico per la riproduzione (categoria 1B)</td><td>1° giugno 2021</td><td>–</td><td>–</td></tr>
-<tr><td>23.</td><td>Formaldeide, prodotti di reazione oligomerica con anilina (MDA tecnico) n. CE: 500-036-1 n. CAS: 25214-70-4</td><td>Cancerogeno (categoria 1B)</td><td>1° novembre 2021</td><td>–</td><td>–</td></tr>
-<tr><td>24.</td><td>Acido arsenico n. CE 231-901-9 n. CAS 7778-39-4</td><td>Cancerogeno (categoria 1A)</td><td>1° novembre 2021</td><td>–</td><td>–</td></tr>
-<tr><td>25.</td><td>Bis(2-metossietil) etere (diglime) n. CE 203‑924-4 n. CAS 111-96-6</td><td>Tossico per la riproduzione (categoria 1B)</td><td>1°novembre 2021</td><td>–</td><td>–</td></tr>
-<tr><td>26.</td><td>1,2-dicloroetano (EDC) n. CE 203‑458‑1 n. CAS 107-06-2</td><td>Cancerogeno (categoria 1B)</td><td>1° febbraio 2022</td><td>–</td><td>–</td></tr>
-<tr><td>27.</td><td>2,2’-dicloro-4,4’-metilendianilina (MOCA) n. CE 202 918-9 n. CAS 101-14-4</td><td>Cancerogeno (categoria 1B)</td><td>1° febbraio 2022</td><td>–</td><td>–</td></tr>
-<tr><td>28.</td><td>Tris(cromato) di dicromo n. CE 246‑356-2 n. CAS 24613-89-6</td><td>Cancerogeno (categoria 1B)</td><td>1°aprile 2023</td><td>–</td><td>–</td></tr>
-<tr><td>29.</td><td>Cromato di stronzio n. CE 232-142-6 n. CAS 7789-06-2</td><td>Cancerogeno (categoria 1B)</td><td>1° aprile 2023</td><td>–</td><td>–</td></tr>
-<tr><td>30.</td><td>Idrossiottaossodizincatodicromato di potassio n. CE 234‑329-8 n. CAS 11103-86-9</td><td>Cancerogeno (categoria 1A)</td><td>1° aprile 2023</td><td>–</td><td>–</td></tr>
-<tr><td>31.</td><td>Ottaidrossocromato di pentazinco n. CE 256-418-0 n. CAS 49663-84-5</td><td>Cancerogeno (categoria 1A)</td><td>1° aprile 2023</td><td>–</td><td>–</td></tr>
-<tr><td>32.</td><td>1-Bromopropano (n-bromuro di propile) n. CE: 203-445-0 n. CAS: 106-94-5</td><td>Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td>–</td><td>–</td></tr>
-<tr><td>33.</td><td>Diisopentilftalato n. CE 210-088-4 n. CAS 605-50-5</td><td>Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td>–</td><td>–</td></tr>
-<tr><td>34.</td><td>Acido 1,2- benzendicarbossilico, esteri alchilici di-C6- 8-ramificati, ricchi di C7 n. CE 276-158-1 n. CAS 71888-89-6</td><td>Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td>–</td><td>–</td></tr>
-<tr><td>35.</td><td>Acido 1,2- benzenedicarbossilico, esteri alchilici di-C7- 11-ramificati e lineari n. CE 271-084-6 n. CAS 68515-42-4</td><td>Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td>–</td><td>–</td></tr>
-<tr><td>36.</td><td>Acido 1,2- benzendicarbossilico, dipentilestere, ramificato e lineare n. CE 284-032-2 n. CAS 84777-06-0</td><td>Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td>–</td><td>–</td></tr>
-<tr><td>37.</td><td>Ftalato di bis(2-metossietile) n. CE 204-212-6 n. CAS 117-82-8</td><td>Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td>–</td><td>–</td></tr>
-<tr><td>38.</td><td>Dipentilftalato n. CE 205-017-9 n. CAS 131-18-0</td><td>Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td>–</td><td>–</td></tr>
-<tr><td>39.</td><td>N-pentilisopentilftalato n. CE — n. CAS 776297-69-9</td><td>Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td>–</td><td>–</td></tr>
-<tr><td>40.</td><td>Olio di antracene n. CE 292-602-7 n. CAS 90640-80-5</td><td>Cancerogeno (categoria 1B), se il contenuto di benzo[a]pirene supera lo 0,005 %, PBT, vPvB</td><td>2 febbraio 2024</td><td>–</td><td>–</td></tr>
-<tr><td>41.</td><td>Pece, catrame di carbone, alta temperatura. n. CE 266-028-2 n. CAS 65996-93-2</td><td>Cancerogeno (categoria 1B), PBT, vPvB</td><td>2 febbraio 2024</td><td>–</td><td>–</td></tr>
-<tr><td>42.</td><td>4-(1,1,3,3- tetrametilbutil)fenolo, etossilato [che comprende sostanze ben definite e sostanze UVCB, polimeri e omologhi] n. CE — n. CAS —</td><td>Proprietà di interferenza con il sistema endocrino</td><td>2 maggio 2024</td><td>–</td><td>–</td></tr>
-<tr><td>43.</td><td>4-nonilfenolo, ramificato e lineare, etossilato [sostanze con catena alchilica lineare e/o ramificata C9 legata covalentemente in posizione 4 al fenolo, etossilato che coprono sostanze UVCB e ben definite, polimeri e omologhi, che includono qualsiasi isomero e/o combinazioni di isomeri] n. CE — n. CAS —</td><td>Proprietà di interferenza con il sistema endocrino</td><td>2 maggio 2024</td><td>–</td><td>–</td></tr>
-<tr><td>44.</td><td>Acido 1,2- benzendicarbossilico, diesil estere, ramificato e lineare n. CE 271-093-5 n. CAS 68515-50-4</td><td>Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td>–</td><td>–</td></tr>
-<tr><td>45.</td><td>Ftalato di diesile n. CE 201-559-5 n. CAS 84-75-3</td><td>Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td>–</td><td>–</td></tr>
-<tr><td>46.</td><td>Acido 1,2- benzendicarbossilico, esteri alchilici di-C6-10; acido 1,2-benzendicarbossilico, diesteri misti decilici ed esilici e ottilici con una concentrazione ≥ 0,3 % di ftalato di diesile (n. CE 201-559-5) n. CE 271-094-0; 272-013-1 n. CAS 68515-51-5; 68648-93-1</td><td>Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td>–</td><td>–</td></tr>
-<tr><td>47.</td><td>Fosfato di trixilile n. CE 246-677-8 n. CAS 25155-23-1</td><td>Tossico per la riproduzione (categoria 1B)</td><td>2 febbraio 2024</td><td>–</td><td>–</td></tr>
-<tr><td>48.</td><td>Perborato di sodio; acido perborico, sale di sodio n. CE 239-172-9; 234-390-0 n. CAS —</td><td>Tossico per la riproduzione (categoria 1B)</td><td>2 febbraio 2024</td><td>–</td><td>–</td></tr>
-<tr><td>49.</td><td>Perossometaborato di sodio n. CE 231-556-4 n. CAS 7632-04-4</td><td>Tossico per la riproduzione (categoria 1B)</td><td>2 febbraio 2024</td><td>–</td><td>–</td></tr>
-<tr><td>50.</td><td>5-sec-butil-2-(2,4-dimetilcicloes-3-en-1-il)-5- metil-1,3-diossano [1], 5-sec-butil-2-(4,6-dimetilcicloes-3-en-1-il)-5-metil-1,3-diossano [2] (comprendenti qualsiasi singolo stereoisomero di [1] e [2] o qualsiasi combinazione degli stessi) n. CE — n. CAS —</td><td>vPvB</td><td>2 maggio 2024</td><td>–</td><td>–</td></tr>
-<tr><td>51.</td><td>2-(2H-benzotriazol-2-il)-4,6-diterzpentilfenolo (UV-328) n. CE 247-384-8 n. CAS 25973-55-1</td><td>PBT, vPvB</td><td>2 agosto 2024</td><td>–</td><td>–</td></tr>
-<tr><td>52.</td><td>2,4-di-terz-butil-6- (5-clorobenzotriazol-2-il) fenolo (UV-327) n. CE 223-383-8 n. CAS 3864-99-1</td><td>vPvB</td><td>2 agosto 2024</td><td>–</td><td>–</td></tr>
-<tr><td>53.</td><td>2-(2H-benzotriazol- 2-il)-4-(terz-butil)-6-(sec- butil)fenolo (UV-350) n. CE 253-037-1 n. CAS 36437-37-3</td><td>vPvB</td><td>2 agosto 2024</td><td>–</td><td>–</td></tr>
-<tr><td>54.</td><td>2-benzotriazol-2-il- 4,6-di-terz-butilfenolo (UV-320) n. CE 223-346-6 n. CAS 3846-71-7</td><td>PBT, vPvB</td><td>2 agosto 2024</td><td>–</td><td>–</td></tr>
+<tr><th colspan="2">N. di registrazione</th><th colspan="2">Sostanza</th><th colspan="2">Proprietà intrinseche alla base dei divieti</th><th>Periodo di transizione</th><th colspan="2">Impieghi o categorie di impiego esentati</th><th>Periodi di revisione</th></tr>
+<tr><td colspan="2">1.</td><td colspan="2">5-ter-butil-2,4,6-trinitro-m-xilene (muschio xilene) n. CE 201-329-4 n. CAS 81-15-2</td><td colspan="2">vPvB</td><td>21 agosto 2014</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">2.</td><td colspan="2">4,4’-diaminodifenilmetano (MDA) n. CE 202-974-4 n. CAS 101-77-9</td><td colspan="2">Cancerogeno (categoria 1B)</td><td>21 agosto 2014</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">3.</td><td colspan="2">...</td><td colspan="2"></td><td></td><td colspan="2"></td><td></td></tr>
+<tr><td colspan="2">4.</td><td colspan="2">Bis(2-etilesil) ftalato (DEHP) n. CE 204-211-0 n. CAS 117-81-7</td><td colspan="2">Tossico per la riproduzione (categoria 1B) Proprietà di interferenza endocrina</td><td>21 febbraio 2015</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">5.</td><td colspan="2">Benzil-butil-ftalato (BBP) n. CE 201-622-7 n. CAS 85-68-7</td><td colspan="2">Tossico per la riproduzione (categoria 1B) Proprietà di interferenza endocrina</td><td>21 febbraio 2015</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">6.</td><td colspan="2">Dibutil ftalato (DBP) n. CE 201-557-4 n. CAS 84-74-2</td><td colspan="2">Tossico per la riproduzione (categoria 1B) Proprietà di interferenza endocrina</td><td>21 febbraio 2015</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">7.</td><td colspan="2">Diisobutil ftalato (DIBP) n. CE 201-553-2 n. CAS 84-69-5</td><td colspan="2">Tossico per la riproduzione (categoria 1B) Proprietà di interferenza endocrina</td><td>21 febbraio 2015</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">8.</td><td colspan="2">Diarsenico triossido n. CE 215-481-4 n. CAS 1327-53-3</td><td colspan="2">Cancerogeno (categoria 1A)</td><td>21 maggio 2015</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">9.</td><td colspan="2">Pentaossido di diarsenico n. CE 215-116-9 n. CAS 1303-28-2</td><td colspan="2">Cancerogeno (categoria 1A)</td><td>21 maggio 2015</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">10.</td><td colspan="2">Cromato di piombo n. CE 231-846-0 n. CAS 7758-97-6</td><td colspan="2">Cancerogeno (categoria 1B) Tossico per la riproduzione (categoria 1A)</td><td>21 maggio 2015</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">11.</td><td colspan="2">Giallo di piombo solfo-cromato (colorante CI Pigment Yellow 34) n. CE 215-693-7 n. CAS 1344-37-2</td><td colspan="2">Cancerogeno (categoria 1B) Tossico per la riproduzione (categoria 1A)</td><td>21 maggio 2015</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">12.</td><td colspan="2">Piombo cromato molibdato solfato rosso (colorante CI Pigment Red 104) n. CE 235-759-9 n. CAS 12656-85-8</td><td colspan="2">Cancerogeno (categoria 1B) Tossico per la riproduzione (categoria 1A)</td><td>21 maggio 2015</td><td colspan="2"></td><td></td></tr>
+<tr><td colspan="2">13.</td><td colspan="2">Fosfato di tris(2-cloroetile) (TCEP) n. CE 204-118-5 n. CAS 115-96-8</td><td colspan="2">Tossico per la riproduzione (categoria 1B)</td><td>21 agosto 2015</td><td colspan="2"></td><td></td></tr>
+<tr><td colspan="2">14.</td><td colspan="2">2,4-dinitrotoluene (2,4 DNT) n. CE 204-450-0 n. CAS 121-14-2</td><td colspan="2">Cancerogeno (categoria 1B)</td><td>21 agosto 2015</td><td colspan="2"></td><td></td></tr>
+<tr><td colspan="2">15.</td><td colspan="2">Tricloroetilene n. CE 201-167-4 n. CAS 79-01-6</td><td colspan="2">Cancerogeno (categoria 1B)</td><td>1° dicembre 2019</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">16.</td><td colspan="2">Triossido di cromo n. CE 215‑607-8 n. CAS 1333-82-0</td><td colspan="2">Cancerogeno (categoria 1A) Mutageno (categoria 1B)</td><td>1° giugno 2021</td><td colspan="2">Cromatura dura, d corativa e nera</td><td></td></tr>
+<tr><td colspan="2">17.</td><td colspan="2">Acidi generati dal triossido di cromo e relativi oligomeri Gruppo contenente: Acido cromico n. CE 231-801-5 n. CAS 7738-94-5 Acido dicromico n. CE 236-881-5 n. CAS 13530-68-2 Oligomeri dell’acido cromico e dell’acido dicromico n. CE non ancora assegnato n. CAS non ancora assegnato</td><td colspan="2">Cancerogeno (categoria 1B)</td><td>1° giugno 2021</td><td colspan="2">Cromatura dura, d corativa e nera</td><td></td></tr>
+<tr><td colspan="2">18.</td><td colspan="2">Dicromato di sodio n. CE 234-190-3 n. CAS 7789-12-0 10588-01-9</td><td colspan="2">Cancerogeno (categoria 1B) Mutageno (categoria 1B) Tossico per la riproduzione (categoria 1B)</td><td>1° giugno 2021</td><td colspan="2">Cromatura dura, d corativa e nera</td><td></td></tr>
+<tr><td colspan="2">19.</td><td colspan="2">Dicromato di potassio n. CE 231-906-6 n. CAS 7778-50-9</td><td colspan="2">Cancerogeno (categoria 1B) Mutageno (categoria 1B) Tossico per la riproduzione (categoria 1B)</td><td>1° giugno 2021</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">20.</td><td colspan="2">Dicromato di ammonio n. CE 232-143-1 n. CAS 7789-09-5</td><td colspan="2">Cancerogeno (categoria 1B) Mutageno (categoria 1B) Tossico per la riproduzione (categoria 1B)</td><td>1° giugno 2021</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">21.</td><td colspan="2">Cromato di potassio n. CE 232-140-5 n. CAS 7789-00-6</td><td colspan="2">Cancerogeno (categoria 1B) Mutageno (categoria 1B)</td><td>1° giugno 2021</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">22.</td><td colspan="2">Cromato di sodio n. CE 231-889-5 n. CAS 7775-11-3</td><td colspan="2">Cancerogeno (categoria 1B) Mutageno (categoria 1B) Tossico per la riproduzione (categoria 1B)</td><td>1° giugno 2021</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">23.</td><td colspan="2">Formaldeide, prodotti di reazione oligomerica con anilina (MDA tecnico) n. CE: 500-036-1 n. CAS: 25214-70-4</td><td colspan="2">Cancerogeno (categoria 1B)</td><td>1° novembre 2021</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">24.</td><td colspan="2">Acido arsenico n. CE 231-901-9 n. CAS 7778-39-4</td><td colspan="2">Cancerogeno (categoria 1A)</td><td>1° novembre 2021</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">25.</td><td colspan="2">Bis(2-metossietil) etere (diglime) n. CE 203‑924-4 n. CAS 111-96-6</td><td colspan="2">Tossico per la riproduzione (categoria 1B)</td><td>1°novembre 2021</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">26.</td><td colspan="2">1,2-dicloroetano (EDC) n. CE 203‑458‑1 n. CAS 107-06-2</td><td colspan="2">Cancerogeno (categoria 1B)</td><td>1° febbraio 2022</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">27.</td><td colspan="2">2,2’-dicloro-4,4’-metilendianilina (MOCA) n. CE 202 918-9 n. CAS 101-14-4</td><td colspan="2">Cancerogeno (categoria 1B)</td><td>1° febbraio 2022</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">28.</td><td colspan="2">Tris(cromato) di dicromo n. CE 246‑356-2 n. CAS 24613-89-6</td><td colspan="2">Cancerogeno (categoria 1B)</td><td>1°aprile 2023</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">29.</td><td colspan="2">Cromato di stronzio n. CE 232-142-6 n. CAS 7789-06-2</td><td colspan="2">Cancerogeno (categoria 1B)</td><td>1° aprile 2023</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">30.</td><td colspan="2">Idrossiottaossodizincatodicromato di potassio n. CE 234‑329-8 n. CAS 11103-86-9</td><td colspan="2">Cancerogeno (categoria 1A)</td><td>1° aprile 2023</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">31.</td><td colspan="2">Ottaidrossocromato di pentazinco n. CE 256-418-0 n. CAS 49663-84-5</td><td colspan="2">Cancerogeno (categoria 1A)</td><td>1° aprile 2023</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">32.</td><td colspan="2">1-Bromopropano (n-bromuro di propile) n. CE: 203-445-0 n. CAS: 106-94-5</td><td colspan="2">Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">33.</td><td colspan="2">Diisopentilftalato n. CE 210-088-4 n. CAS 605-50-5</td><td colspan="2">Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">34.</td><td colspan="2">Acido 1,2- benzendicarbossilico, esteri alchilici di-C6- 8-ramificati, ricchi di C7 n. CE 276-158-1 n. CAS 71888-89-6</td><td colspan="2">Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">35.</td><td colspan="2">Acido 1,2- benzenedicarbossilico, esteri alchilici di-C7- 11-ramificati e lineari n. CE 271-084-6 n. CAS 68515-42-4</td><td colspan="2">Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">36.</td><td colspan="2">Acido 1,2- benzendicarbossilico, dipentilestere, ramificato e lineare n. CE 284-032-2 n. CAS 84777-06-0</td><td colspan="2">Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">37.</td><td colspan="2">Ftalato di bis(2-metossietile) n. CE 204-212-6 n. CAS 117-82-8</td><td colspan="2">Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">38.</td><td colspan="2">Dipentilftalato n. CE 205-017-9 n. CAS 131-18-0</td><td colspan="2">Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">39.</td><td colspan="2">N-pentilisopentilftalato n. CE — n. CAS 776297-69-9</td><td colspan="2">Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">40.</td><td colspan="2">Olio di antracene n. CE 292-602-7 n. CAS 90640-80-5</td><td colspan="2">Cancerogeno (categoria 1B), se il contenuto di benzo[a]pirene supera lo 0,005 %, PBT, vPvB</td><td>2 febbraio 2024</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">41.</td><td colspan="2">Pece, catrame di carbone, alta temperatura. n. CE 266-028-2 n. CAS 65996-93-2</td><td colspan="2">Cancerogeno (categoria 1B), PBT, vPvB</td><td>2 febbraio 2024</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">42.</td><td colspan="2">4-(1,1,3,3- tetrametilbutil)fenolo, etossilato [che comprende sostanze ben definite e sostanze UVCB, polimeri e omologhi] n. CE — n. CAS —</td><td colspan="2">Proprietà di interferenza con il sistema endocrino</td><td>2 maggio 2024</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">43.</td><td colspan="2">4-nonilfenolo, ramificato e lineare, etossilato [sostanze con catena alchilica lineare e/o ramificata C9 legata covalentemente in posizione 4 al fenolo, etossilato che coprono sostanze UVCB e ben definite, polimeri e omologhi, che includono qualsiasi isomero e/o combinazioni di isomeri] n. CE — n. CAS —</td><td colspan="2">Proprietà di interferenza con il sistema endocrino</td><td>2 maggio 2024</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">44.</td><td colspan="2">Acido 1,2- benzendicarbossilico, diesil estere, ramificato e lineare n. CE 271-093-5 n. CAS 68515-50-4</td><td colspan="2">Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">45.</td><td colspan="2">Ftalato di diesile n. CE 201-559-5 n. CAS 84-75-3</td><td colspan="2">Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">46.</td><td colspan="2">Acido 1,2- benzendicarbossilico, esteri alchilici di-C6-10; acido 1,2-benzendicarbossilico, diesteri misti decilici ed esilici e ottilici con una concentrazione ≥ 0,3 % di ftalato di diesile (n. CE 201-559-5) n. CE 271-094-0; 272-013-1 n. CAS 68515-51-5; 68648-93-1</td><td colspan="2">Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">47.</td><td colspan="2">Fosfato di trixilile n. CE 246-677-8 n. CAS 25155-23-1</td><td colspan="2">Tossico per la riproduzione (categoria 1B)</td><td>2 febbraio 2024</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">48.</td><td colspan="2">Perborato di sodio; acido perborico, sale di sodio n. CE 239-172-9; 234-390-0 n. CAS —</td><td colspan="2">Tossico per la riproduzione (categoria 1B)</td><td>2 febbraio 2024</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">49.</td><td colspan="2">Perossometaborato di sodio n. CE 231-556-4 n. CAS 7632-04-4</td><td colspan="2">Tossico per la riproduzione (categoria 1B)</td><td>2 febbraio 2024</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">50.</td><td colspan="2">5-sec-butil-2-(2,4-dimetilcicloes-3-en-1-il)-5- metil-1,3-diossano [1], 5-sec-butil-2-(4,6-dimetilcicloes-3-en-1-il)-5-metil-1,3-diossano [2] (comprendenti qualsiasi singolo stereoisomero di [1] e [2] o qualsiasi combinazione degli stessi) n. CE — n. CAS —</td><td colspan="2">vPvB</td><td>2 maggio 2024</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">51.</td><td colspan="2">2-(2H-benzotriazol-2-il)-4,6-diterzpentilfenolo (UV-328) n. CE 247-384-8 n. CAS 25973-55-1</td><td colspan="2">PBT, vPvB</td><td>2 agosto 2024</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">52.</td><td colspan="2">2,4-di-terz-butil-6- (5-clorobenzotriazol-2-il) fenolo (UV-327) n. CE 223-383-8 n. CAS 3864-99-1</td><td colspan="2">vPvB</td><td>2 agosto 2024</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">53.</td><td colspan="2">2-(2H-benzotriazol- 2-il)-4-(terz-butil)-6-(sec- butil)fenolo (UV-350) n. CE 253-037-1 n. CAS 36437-37-3</td><td colspan="2">vPvB</td><td>2 agosto 2024</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">54.</td><td colspan="2">2-benzotriazol-2-il- 4,6-di-terz-butilfenolo (UV-320) n. CE 223-346-6 n. CAS 3846-71-7</td><td colspan="2">PBT, vPvB</td><td>2 agosto 2024</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td>55.</td><td colspan="2">Piombo tetraetile n. CE 201-075-4 n. CAS 78-00-2</td><td colspan="2">Tossico per la riproduzione (categoria 1A)</td><td colspan="2">1° gennaio 2027</td><td>–</td><td colspan="2">–</td></tr>
+<tr><td>56.</td><td colspan="2">Alcol 4,4’-bis (dimetilammino)-4»-(metilammino)tritilico (con ≥ 0,1 % di chetone di Michler (n. CE 202-027-5) o base di Michler (n. CAS 202-959-2)) n. CE 209-218-2 n. CAS 561-41-1</td><td colspan="2">Cancerogeno (categoria 1B)</td><td colspan="2">1° gennaio 2027</td><td>–</td><td colspan="2">–</td></tr>
+<tr><td>57.</td><td colspan="2">Prodotti di reazione di 1,3,4-tiadiazolidina-2,5-ditione, formaldeide e 4-eptilfenolo, ramificato e lineare (RP-HP) (con 4-eptilfenolo, ramificato e lineare in conc. ≥ 0,1 %) n. CE — n. CAS —</td><td colspan="2">Proprietà di interferenza endocrina</td><td colspan="2">1° gennaio 2027</td><td>–</td><td colspan="2">–</td></tr>
+<tr><td>58.</td><td colspan="2">10-etil-4,4-diottil-7-osso-8-ossa-3,5-ditia- 4-stannatetradecanoato di 2-etilesile (DOTE) n. CE 239-622-4 n. CAS 15571-58-1</td><td colspan="2">Tossico per la riproduzione (categoria 1B)</td><td colspan="2">1° gennaio 2027</td><td>–</td><td colspan="2">–</td></tr>
+<tr><td>59.</td><td colspan="2">Massa di reazione di 10-etil-4,4-diottil-7-osso-8-ossa,3,5-ditia- 4-stannatetradecanoato di 2-etilesile e 10-etil-4-[[2-[(2-etilesil)ossi]-2-ossoetil]tio]-7-osso-4-ottil-8-ossa-3,5-ditia-4-stannatetradecanoato di 2-etilesile (massa di reazione di DOTE e MOTE) n. CE — n. CAS —</td><td colspan="2">Tossico per la riproduzione (categoria 1B)</td><td colspan="2">1° gennaio 2027</td><td>–</td><td colspan="2">–</td></tr>
 </table>
 
 <sup>1bis</sup> Per le sostanze di cui ai numeri di registrazione 4–7, 10–12, nonché 14 e 15 è inoltre fissato un periodo di transizione fino al 1° maggio 2021 per gli impieghi seguenti:
@@ -2541,12 +2547,20 @@ L’immissione sul mercato per l’impiego delle sostanze elencate al numero 5 e
 - a. produzione di un pezzo di ricambio destinato alla riparazione di un oggetto quando la sostanza interessata è o è stata impiegata nella produzione dell’oggetto, il cui funzionamento non è possibile senza l’impiego di questo pezzo di ricambio;
 - b. riparazione di un oggetto quando la sostanza interessata è o è stata impiegata nella produzione dell’oggetto, la cui riparazione è possibile soltanto con l’impiego di questa sostanza.
 
-<sup>2</sup> L’UFAM, d’intesa con l’UFSP e la SECO, adegua le disposizioni di cui al capoverso 1. Nel far questo tiene conto delle modifiche dell’allegato XIV al regolamento (CE) n. 1907/2006[^annex117-lvlu1-lvl5-4] e delle registrazioni nell’allegato 3 OPChim.
+<sup>1quater</sup> Per le sostanze di cui ai numeri di registrazione 4–7 sono inoltre fissati i periodi di transizione seguenti:
 
-[^annex117-lvlu1-lvl5-1]: Regolamento (CE) n. 726/2004 del Parlamento europeo e del Consiglio, del 31 marzo 2004, che istituisce procedure comunitarie per l’autorizzazione e la sorveglianza dei medicinali per uso umano e veterinario, e che istituisce l’agenzia europea per i medicinali, GU L 136 del 30.4.2004, pag.1; modificato da ultimo dal regolamento (UE) 1027/2012, GU L 316 del 14.11.2012, pag. 38.
-[^annex117-lvlu1-lvl5-2]: Direttiva 2001/82/CE del Parlamento europeo e del Consiglio, del 6 novembre 2001, recante un codice comunitario relativo ai medicinali veterinari, GU L 311 del 28.11.2001, pag. 1, modificata da ultimo dal regolamento (CE) n. 596/2009, GU L 188 del 18.7.2009, pag. 14.
-[^annex117-lvlu1-lvl5-3]: Direttiva 2001/83/CE del Parlamento europeo e del Consiglio, del 6 novembre 2001, recante un codice comunitario relativo ai medicinali per uso umano, GU L 311 del 28.11.2001, pag. 67; modificata da ultimo dalla direttiva (UE) 2017/745, GU L 117 del 5.5.2017, pag. 1.
-[^annex117-lvlu1-lvl5-4]: Cfr. nota a piè di pagina relativa al titolo di questo all.
+- a. 1° gennaio 2027 per i numeri di registrazione 4–7 per impieghi in preparati con tenore di sostanza inferiore allo 0,3 per cento;
+- b. 1° gennaio 2027 per i numeri di registrazione 4–6 per impieghi nel confezionamento primario dei medicinali;
+- c. 1° gennaio 2027 per il numero di registrazione 4 per impieghi in oggetti d’uso soggetti all’ordinanza del 16 dicembre 2016[^annex117-lvlu1-lvl5-1] sulle derrate alimentari e gli oggetti d’uso;
+- d. 1° luglio 2027 per il numero di registrazione 4 per impieghi in dispositivi medici soggetti all’ordinanza del 1° luglio 2020[^annex117-lvlu1-lvl5-2] relativa ai dispositivi medici.
+
+<sup>1quinquies</sup> Per le sostanze di cui ai numeri di registrazione 16–18 è inoltre fissato un periodo di transizione fino al 1° gennaio 2026 per impieghi in processi il cui prodotto finale non contiene cromo in forma esavalente.
+
+<sup>2</sup> L’UFAM, d’intesa con l’UFSP e la SECO, adegua le disposizioni di cui al capoverso 1. Nel far questo tiene conto delle modifiche dell’allegato XIV al regolamento (CE) n. 1907/2006[^annex117-lvlu1-lvl5-3] e delle registrazioni nell’allegato 3 OPChim.
+
+[^annex117-lvlu1-lvl5-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex117-lvlu1-lvl5-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^annex117-lvlu1-lvl5-3]: Cfr. nota a piè di pagina relativa al titolo di questo all.
 
 Allegato 1.18[^t-19]
 
@@ -3565,11 +3579,11 @@ Allegato 2.6[^t-25]
 
 ## Concimi
 
-[^t-25]: Aggiornato dall’all. dell’O del 14 nov. 2007 ([RU 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)), dall’all. 9 n. 1 dell’O del 23 ott. 2013 ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), dall’all. n. 2 dell’O del 4 nov. 2015 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), dall’all. 6 n. 11 dell’O del 4 dic. 2015 sui rifiuti ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)) e dall’all. n. 2 dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681)). La correzione del 7 mag. 2019 concerne soltanto il testo francese ([RU 2019 1339](https://fedlex.data.admin.ch/eli/oc/2019/260)).
+[^t-25]: Aggiornato dall’all. dell’O del 14 nov. 2007 ([RU 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)), dall’all. 9 n. 1 dell’O del 23 ott. 2013 sui pagamenti diretti ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), dall’all. n. 2 dell’O del 4 nov. 2015 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)) e dall’all. 5 n. II 3 dell’O del 1° nov. 2023 sui concimi, in vigore dal 1° gen. 2024 ([RU 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
 
 ### 1 Definizioni
 
-<sup>1</sup> Nel presente allegato si applicano le definizioni dell’ordinanza del 10 gennaio 2001[^annex26-lvlu1-lvl1-1] sui concimi (OCon).
+<sup>1</sup> Nel presente allegato si applicano le definizioni dell’ordinanza del 1° novembre 2023[^annex26-lvlu1-lvl1-1] sui concimi (OCon).
 
 <sup>2</sup> Le superfici coltivate a foraggio sono prati e pascoli, nonché superfici agricole, il cui raccolto viene impiegato interamente o in parte per l’alimentazione del bestiame. Fanno eccezione le superfici agricole dalle quali si raccolgono soltanto i chicchi o le pannocchie.
 
@@ -3585,20 +3599,190 @@ Allegato 2.6[^t-25]
 
 ### 2.2 Requisiti di qualità
 
-### 2.2.1 Concimi organici, concimi ottenuti dal riciclaggio, tranne i concimi minerali ottenuti dal riciclaggio, e concimi aziendali
+### 2.2.1 Requisiti concernenti le categorie funzionali del prodotto (PFC)
 
-<sup>1</sup> Il tenore di inquinanti nei concimi organici, nei concimi ottenuti dal riciclaggio, tranne i concimi minerali ottenuti dal riciclaggio, e nei concimi aziendali non deve superare i seguenti valori limite:
+### 2.2.1.1 Concime organico PFC 1(A)
+
+<sup>1</sup> Il tenore di inquinanti nel concime organico non deve superare i seguenti valori limite:
 
 <table>
-<tr><th>Inquinante</th><th>Valore limite in grammi per tonnellata di sostanza secca</th></tr>
+<tr><th>Inquinante</th><th>Valore limite in milligrammi per chilogrammo di sostanza secca</th></tr>
+<tr><td>Arsenico (As) inorganico</td><td>40</td></tr>
+<tr><td>Cadmio (Cd)</td><td>1</td></tr>
+<tr><td>Cromo (Cr)</td><td>2000∗</td></tr>
+<tr><td>Cromo esavalente (Cr VI)</td><td>2</td></tr>
+<tr><td>Rame (Cu)</td><td>100\*\*</td></tr>
+<tr><td>Mercurio (Hg)</td><td>1</td></tr>
+<tr><td>Nichelio (Ni)</td><td>30</td></tr>
+<tr><td>Piombo (Pb)</td><td>120</td></tr>
+<tr><td>Zinco (Zn)</td><td>400\*\*\*</td></tr>
+<tr><td colspan="2">∗ si applica esclusivamente ai prodotti derivati da sottoprodotti di origine animale ∗∗ a partire da una quota superiore al 50 % di escrementi di suini rispetto alla sostanza secca 150 g/t SS ∗∗∗ a partire da una quota superiore al 50 % di escrementi di suini rispetto alla sostanza secca 600 g/t SS</td></tr>
+</table>
+
+<sup>2</sup> Il concime organico non deve contenere biureto (C<sub>2</sub>H<sub>5</sub>N<sub>3</sub>O<sub>2</sub>).
+
+### 2.2.1.2 Concime organo-minerale PFC 1(B)
+
+<sup>1</sup> Il tenore di inquinanti nel concime organo-minerale non deve superare i seguenti valori limite:
+
+<table>
+<tr><th>Inquinante</th><th>Valore limite in milligrammi per chilogrammo di sostanza secca</th><th>Valore limite in milligrammi per chilogrammo di fosforo (P)</th></tr>
+<tr><td>Arsenico (As) inorganico</td><td>40</td><td></td></tr>
+<tr><td>Cadmio (Cd) nei concimi con un tenore di fosforo (P) pari o inferiore al 5 %</td><td>1</td><td></td></tr>
+<tr><td>Cadmio (Cd) nei concimi con un tenore di fosforo (P) superiore al 5 %</td><td></td><td>50</td></tr>
+<tr><td>Cromo (Cr)</td><td>2000∗</td><td></td></tr>
+<tr><td>Cromo esavalente (Cr VI)</td><td>2</td><td></td></tr>
+<tr><td>Rame (Cu)</td><td>100∗∗</td><td></td></tr>
+<tr><td>Mercurio (Hg)</td><td>1</td><td></td></tr>
+<tr><td>Nichelio (Ni)</td><td>30</td><td></td></tr>
+<tr><td>Piombo (Pb)</td><td>120</td><td></td></tr>
+<tr><td>Zinco (Zn)</td><td>400\*\*\*</td><td></td></tr>
+<tr><td colspan="3">∗ si applica esclusivamente ai prodotti derivati da sottoprodotti di origine animale ∗∗ a partire da una quota superiore al 50 % di escrementi di suini rispetto alla sostanza secca 150 g/t SS ∗∗∗ a partire da una quota superiore al 50 % di escrementi di suini rispetto alla sostanza secca 600 g/t SS I valori limite di rame e zinco non si applicano nel caso in cui tali elementi siano stati aggiunti intenzionalmente a un concime organo-minerale al fine di sopperire a una carenza di microelementi nel suolo e siano dichiarati conformemente alle prescrizioni di etichettatura.</td></tr>
+</table>
+
+<sup>2</sup> Il tenore di biureto (C<sub>2</sub>H<sub>5</sub>N<sub>3</sub>O<sub>2</sub>) nei concimi organo-minerali non deve superare 12 g/kg di sostanza secca.
+
+### 2.2.1.3 Concime inorganico a base di macroelementi PFC 1(C)(I)
+
+<sup>1</sup> Il tenore di inquinanti nel concime inorganico a base di macroelementi non deve superare i seguenti valori limite:
+
+<table>
+<tr><th>Inquinante</th><th>Valore limite in milligrammi per chilogrammo di sostanza secca</th><th>Valore limite in milligrammi per chilogrammo di fosforo (P)</th></tr>
+<tr><td>Arsenico (As)</td><td>40</td><td></td></tr>
+<tr><td>Cadmio (Cd) nei concimi con un tenore di fosforo (P) pari o inferiore all’1 %</td><td>3</td><td></td></tr>
+<tr><td>Cadmio (Cd) nei concimi con un tenore di fosforo (P) superiore all’1 %</td><td></td><td>50</td></tr>
+<tr><td>Cromo (Cr)</td><td>2000</td><td></td></tr>
+<tr><td>Cromo esavalente (Cr VI)</td><td>2</td><td></td></tr>
+<tr><td>Rame (Cu)</td><td>600</td><td></td></tr>
+<tr><td>Mercurio (Hg)</td><td>1</td><td></td></tr>
+<tr><td>Nichelio (Ni)</td><td>100</td><td></td></tr>
+<tr><td>Piombo (Pb)</td><td>120</td><td></td></tr>
+<tr><td>Vanadio (V)</td><td>4000</td><td></td></tr>
+<tr><td>Zinco (Zn)</td><td>1500</td><td></td></tr>
+<tr><td>Perclorato (ClO4-)</td><td>50</td><td></td></tr>
+<tr><td colspan="3">I valori limite di rame e zinco non si applicano nel caso in cui tali elementi siano stati aggiunti intenzionalmente a un concime organo-minerale al fine di sopperire a una carenza di microelementi nel suolo e siano dichiarati conformemente alle prescrizioni di etichettatura.</td></tr>
+</table>
+
+<sup>2</sup> Il tenore di biureto (C<sub>2</sub>H<sub>5</sub>N<sub>3</sub>O<sub>2</sub>) nei concimi inorganici a base di macroelementi non deve superare 12 g/kg di sostanza secca.
+
+<sup>3</sup> Nei concimi inorganici solidi, semplici o composti, a base di nitrato di ammonio ad elevato tenore di azoto (PFC 1(C)(I)(a)(i)(A) e PFC 1(C)(I)(a)(ii)(A)) il tenore di rame (Cu) non deve superare 10 mg/kg e il tenore di cloro (Cl) 200 mg/kg.
+
+### 2.2.1.4 Concime inorganico a base di microelementi PFC 1(C)(II)
+
+Il tenore di inquinanti nel concime inorganico a base di microelementi non deve superare i seguenti valori limite:
+
+<table>
+<tr><th>Inquinante</th><th>Valore limite in milligrammi per chilogrammo di microelementi. [mg/kg di tenore totale di microelementi, ossia boro (B), cobalto (Co), rame (Cu), ferro (Fe), manganese (Mn), molibdeno (Mo) e zinco (Zn)]</th></tr>
+<tr><td>Arsenico (As)</td><td>1000</td></tr>
+<tr><td>Cadmio (Cd)</td><td>200</td></tr>
+<tr><td>Piombo (Pb)</td><td>600</td></tr>
+<tr><td>Mercurio (Hg)</td><td>100</td></tr>
+<tr><td>Nichelio (Ni)</td><td>2000</td></tr>
+</table>
+
+### 2.2.1.5 Ammendante minerale basico PFC 2
+
+Il tenore di inquinanti nell’ammendante minerale basico non deve superare i seguenti valori limite:
+
+<table>
+<tr><th>Inquinante</th><th>Valore limite in milligrammi per chilogrammo di sostanza secca</th></tr>
+<tr><td>Arsenico (As)</td><td>40</td></tr>
+<tr><td>Cadmio (Cd)</td><td>2</td></tr>
+<tr><td>Cromo esavalente (Cr VI)</td><td>2</td></tr>
+<tr><td>Rame (Cu)</td><td>300</td></tr>
+<tr><td>Mercurio (Hg)</td><td>1</td></tr>
+<tr><td>Nichelio (Ni)</td><td>90</td></tr>
+<tr><td>Piombo (Pb)</td><td>120</td></tr>
+<tr><td>Zinco (Zn)</td><td>800</td></tr>
+</table>
+
+### 2.2.1.6 Ammendante organico PFC 3(A)
+
+Il tenore di inquinanti nell’ammendante organico non deve superare i seguenti valori limite:
+
+<table>
+<tr><th>Inquinante</th><th>Valore limite in milligrammi per chilogrammo di sostanza secca</th></tr>
+<tr><td>Arsenico (As) inorganico</td><td>40</td></tr>
+<tr><td>Cadmio (Cd)</td><td>2</td></tr>
+<tr><td>Cromo esavalente (Cr VI)</td><td>2</td></tr>
+<tr><td>Rame (Cu)</td><td>300</td></tr>
+<tr><td>Mercurio (Hg)</td><td>1</td></tr>
+<tr><td>Nichelio (Ni)</td><td>50</td></tr>
+<tr><td>Piombo (Pb)</td><td>120</td></tr>
+<tr><td>Zinco (Zn)</td><td>800</td></tr>
+</table>
+
+### 2.2.1.7 Ammendante inorganico PFC 3(B)
+
+Il tenore di inquinanti nell’ammendante inorganico non deve superare i seguenti valori limite:
+
+<table>
+<tr><th>Inquinante</th><th>Valore limite in milligrammi per chilogrammo di sostanza secca</th></tr>
+<tr><td>Arsenico (As) inorganico</td><td>40</td></tr>
+<tr><td>Cadmio (Cd)</td><td>1,5</td></tr>
+<tr><td>Cromo esavalente (Cr VI)</td><td>2</td></tr>
+<tr><td>Rame (Cu)</td><td>300</td></tr>
+<tr><td>Mercurio (Hg)</td><td>1</td></tr>
+<tr><td>Nichelio (Ni)</td><td>100</td></tr>
+<tr><td>Piombo (Pb)</td><td>120</td></tr>
+<tr><td>Zinco (Zn)</td><td>800</td></tr>
+</table>
+
+### 2.2.1.8 Substrato di coltivazione PFC 4
+
+<sup>1</sup> Il tenore di inquinanti nel substrato di coltivazione non deve superare i seguenti valori limite:
+
+<table>
+<tr><th>Inquinante</th><th>Valore limite in milligrammi per chilogrammo di sostanza secca</th></tr>
+<tr><td>Arsenico (As) inorganico</td><td>40</td></tr>
+<tr><td>Cadmio (Cd)</td><td>1,5</td></tr>
+<tr><td>Cromo esavalente (Cr VI)</td><td>2</td></tr>
+<tr><td>Rame (Cu)</td><td>200</td></tr>
+<tr><td>Mercurio (Hg)</td><td>1</td></tr>
+<tr><td>Nichelio (Ni)</td><td>50\*</td></tr>
+<tr><td>Piombo (Pb)</td><td>120</td></tr>
+<tr><td>Zinco (Zn)</td><td>500</td></tr>
+<tr><td colspan="2">\* Per il substrato di coltivazione composto per oltre il 70 per cento da costituenti minerali, il limite si applica al tenore biodisponibile dell’inquinante.</td></tr>
+</table>
+
+<sup>2</sup> Per il substrato di coltivazione si applicano i seguenti valori indicativi:
+
+<table>
+<tr><th>Inquinante</th><th>Valore indicativo</th></tr>
+<tr><td>Idrocarburi aromatici policiclici (PAH)</td><td>4 milligrammi per chilogrammo di sostanza secca<sup>1</sup></td></tr>
+<tr><td>Diossine (PCDD) e furani (PCDF)</td><td>20 nanogrammi OMS<sub>2005</sub>-TEQ<sup>2</sup> per chilogrammo di sostanza secca</td></tr>
+<tr><td colspan="2"><sup>1</sup> Somma dei seguenti 16 composti PAH prioritari dell’EPA (Priority pollutants list): naftalina, acenaftilene, acenaftene, fluorene, fenantrene, antracene, fluorantene, pirene, benzo(a)antracene, crisene, benzo(b)fluorantene, benzo(k)fluorantene, benzo(a)pirene, indeno(1,2,3-cd)pirene, dibenz(a,h)antracene e benzo(ghi)perilene. <sup>2</sup> Equivalenti tossici secondo le raccomandazioni dell’Organizzazione mondiale della sanità (OMS) a seguito di una consultazione di esperti nel 2005. Riferimento: Martin van den Berg et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological sciences 93(2):223-241. http://doi.org/10.1093/toxsci/kfl055.</td></tr>
+</table>
+
+### 2.2.1.9 Biostimolante delle piante PFC 6
+
+Il tenore di inquinanti nel biostimolante delle piante non deve superare i seguenti valori limite:
+
+<table>
+<tr><th>Inquinante</th><th>Valore limite in milligrammi per chilogrammo di sostanza secca</th></tr>
+<tr><td>Arsenico (As) inorganico</td><td>40</td></tr>
+<tr><td>Cadmio (Cd)</td><td>1,5</td></tr>
+<tr><td>Cromo esavalente (Cr VI)</td><td>2</td></tr>
+<tr><td>Rame (Cu)</td><td>600</td></tr>
+<tr><td>Mercurio (Hg)</td><td>1</td></tr>
+<tr><td>Nichelio (Ni)</td><td>50</td></tr>
+<tr><td>Piombo (Pb)</td><td>120</td></tr>
+<tr><td>Zinco (Zn)</td><td>1500</td></tr>
+</table>
+
+### 2.2.1.10 Concime aziendale PFC 100 e concime ottenuto dal riciclaggio PFC 101
+
+<sup>1</sup> Il tenore di inquinanti nel concime aziendale e nel concime ottenuto dal riciclaggio non deve superare i seguenti valori limite:
+
+<table>
+<tr><th>Inquinante</th><th>Valore limite in milligrammi per chilogrammo di sostanza secca</th></tr>
 <tr><td>Cadmio (Cd)</td><td>1</td></tr>
 <tr><td>Rame (Cu)</td><td>100\*</td></tr>
 <tr><td>Mercurio (Hg)</td><td>1</td></tr>
-<tr><td>Nichel (Ni)</td><td>30</td></tr>
+<tr><td>Nichelio (Ni)</td><td>30</td></tr>
 <tr><td>Piombo (Pb)</td><td>120</td></tr>
 <tr><td>Zinco (Zn)</td><td>400\*\*</td></tr>
-<tr><td colspan="2">\* a partire da una quota superiore al 50 % di escrementi di suini rispetto alla sostanza secca 150 g/t TS</td></tr>
-<tr><td colspan="2">\*\* a partire da una quota superiore al 50 % di escrementi di suini rispetto alla sostanza secca 600 g/t TS</td></tr>
+<tr><td colspan="2">∗ a partire da una quota superiore al 50 % di escrementi di suini rispetto alla sostanza secca 150 g/t SS ∗∗ a partire da una quota superiore al 50 % di escrementi di suini rispetto alla sostanza secca 600 g/t SS</td></tr>
 </table>
 
 <sup>2</sup> Per il compost e il digestato si applicano in via suppletiva le seguenti esigenze relative ai corpi estranei inerti:
@@ -3610,60 +3794,71 @@ Allegato 2.6[^t-25]
 <sup>3</sup> Per il compost e il digestato si applicano i seguenti valori indicativi:
 
 <table>
-<tr><td>Inquinante</td><td>Valore indicativo</td></tr>
-<tr><td>Idrocarburi aromatici policiclici (PAH: Polyciclic Aromatic Hydrocarbons)</td><td>4 grammi per tonnellata di sostanza secca<sup>1</sup></td></tr>
-<tr><td>Diossine (PCDD) e furani (PCDF)</td><td>20 nanogrammi I-TEQ<sup>2</sup> per chilogrammo di sostanza secca</td></tr>
-<tr><td colspan="2"><sup>1</sup> Somma dei seguenti 16 composti PAH prioritari dell’EPA (Priority pollutants list): naftalina, acenaftilene, acenaftene, fluorene, fenantrene, antracene, fluorantene, pirene, benzo(a)antracene, crisene, benzo(b)fluorantene, benzo(k)fluorantene, benzo(a)pirene, indeno(1,2,3-cd)pirene, dibenz(a,h)antracene e benzo(ghi)perilene</td></tr>
-<tr><td colspan="2"><sup>2</sup> I-TEQ = equivalente internazionale di tossicità</td></tr>
+<tr><th>Inquinante</th><th>Valore indicativo</th></tr>
+<tr><td>Idrocarburi aromatici policiclici (PAH)</td><td>4 milligrammi per chilogrammo di sostanza secca<sup>1</sup></td></tr>
+<tr><td>Diossine (PCDD) e furani (PCDF)</td><td>20 nanogrammi OMS<sub>2005</sub>-TEQ<sup>2</sup> per chilogrammo di sostanza secca</td></tr>
+<tr><td colspan="2"><sup>1</sup> Somma dei seguenti 16 composti PAH prioritari dell’EPA (Priority pollutants list): naftalina, acenaftilene, acenaftene, fluorene, fenantrene, antracene, fluorantene, pirene, benzo(a)antracene, crisene, benzo(b)fluorantene, benzo(k)fluorantene, benzo(a)pirene, indeno(1,2,3-cd)pirene, dibenz(a,h)antracene e benzo(ghi)perilene. <sup>2</sup> Equivalenti tossici secondo le raccomandazioni dell’Organizzazione mondiale della sanità (OMS) a seguito di una consultazione di esperti nel 2005. Riferimento: Martin van den Berg et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological sciences 93(2):223-241. http://doi.org/10.1093/toxsci/kfl055.</td></tr>
 </table>
 
-<sup>4</sup> Le disposizioni di cui al capoverso 1 non si applicano per i concimi aziendali destinati ad essere utilizzati nella propria azienda né per quelli forniti da un’azienda con allevamento di animali da reddito direttamente al consumatore finale. Sono fatte salve parimenti le disposizioni di cui all’articolo 30*a* capoverso 2 OCon.
+<sup>4</sup> Le disposizioni di cui al capoverso 1 non si applicano ai concimi aziendali destinati ad essere utilizzati nella propria azienda né a quelli forniti da un’azienda detentrice di animali da reddito direttamente al consumatore finale. Sono fatte salve parimenti le disposizioni di cui all’articolo 10 OCon.
 
-### 2.2.2 Concimi minerali e prodotti derivati da sottoprodotti di origine animale
+### 2.2.2 Requisiti concernenti le categorie di materiali costituenti (CMC)
 
-Il tenore di inquinanti nei concimi minerali e nei prodotti derivati da sottoprodotti di origine animale non deve superare i seguenti valori limite:
+### 2.2.2.1 Compost (CMC 3), digestato di colture fresche (CMC 4) e digestato diverso da quello di colture fresche (CMC 5)
 
-<table>
-<tr><td>Inquinante</td><td colspan="2">Valore limite in grammi per tonnellata</td></tr>
-<tr><td></td><td>Sostanza secca</td><td>Fosforo (P)</td></tr>
-<tr><td>Cadmio (Cd) in concimi fosfatici con un tenore di fosforo superiore all’1 per cento</td><td></td><td>50</td></tr>
-<tr><td>Cromo (Cr)</td><td>2000</td><td></td></tr>
-<tr><td>Vanadio (V)</td><td>4000</td><td></td></tr>
-</table>
+I compost e digestati presenti in un concime devono rispettare i valori limite di cui al numero 2.2.1.10.
 
-### 2.2.3 Concimi organo-minerali
+### 2.2.2.2 Precipitati di sali di fosfato e loro derivati (CMC 12) e materiali di ossidazione termica e loro derivati (CMC 13)
 
-Il tenore di inquinanti nei concimi organo-minerali non deve superare i valori limite di cui al numero 2.2.1; se la quota di fosforo supera il 5 per cento si applica il valore limite per il cadmio di cui al numero 2.2.2.
-
-### 2.2.4 Concimi minerali ottenuti dal riciclaggio
-
-<sup>1</sup> Il tenore inorganico di inquinanti nei concimi minerali ottenuti dal riciclaggio con fosforo recuperato non deve superare i seguenti valori limite:
+<sup>1</sup> Il tenore di inquinanti nei precipitati di sali di fosfato e loro derivati e nei materiali di ossidazione termica e loro derivati non deve superare i seguenti valori limite:
 
 <table>
-<tr><th>Inquinante</th><th>Valore limite in grammi per tonnellata di fosforo (P)</th></tr>
-<tr><td>Piombo (Pb)</td><td>500</td></tr>
-<tr><td>Cadmio (Cd)</td><td>25</td></tr>
-<tr><td>Rame (Cu)</td><td>3 000</td></tr>
-<tr><td>Nichel (Ni)</td><td>500</td></tr>
-<tr><td>Mercurio (Hg)</td><td>2</td></tr>
-<tr><td>Zinco (Zn)</td><td>10 000</td></tr>
+<tr><th>Inquinante</th><th>Valore limite in milligrammi per chilogrammo di fosforo (P)</th></tr>
 <tr><td>Arsenico (As)</td><td>100</td></tr>
+<tr><td>Cadmio (Cd)</td><td>25</td></tr>
 <tr><td>Cromo (Cr)</td><td>1 000</td></tr>
+<tr><td>Rame (Cu)</td><td>3 000</td></tr>
+<tr><td>Mercurio (Hg)</td><td>2</td></tr>
+<tr><td>Nichelio (Ni)</td><td>500</td></tr>
+<tr><td>Piombo (Pb)</td><td>500</td></tr>
+<tr><td>Zinco (Zn)</td><td>10 000</td></tr>
 </table>
 
-<sup>2</sup> Il tenore organico di inquinanti nei concimi minerali ottenuti dal riciclaggio con fosforo recuperato non deve superare i seguenti valori limite:
+<sup>2</sup> Il tenore di inquinanti organici nei precipitati di sali di fosfato e loro derivati e nei materiali di ossidazione termica e loro derivati non deve superare i seguenti valori limite:
 
 <table>
-<tr><td>Inquinante</td><td>Valore limite</td></tr>
-<tr><td>Idrocarburi aromatici policiclici (PAH):</td><td>25 grammi per tonnellata di fosforo (P)<sup>1</sup></td></tr>
-<tr><td>Bifenili policlorati (PCB)</td><td>0,5 grammi per tonnellata di fosforo (P)<sup>2</sup></td></tr>
-<tr><td>Diossine (PCDD) e furani (PCDF)</td><td>120 nanogrammi I-TEQ per chilogrammo di fosforo (P)<sup>3</sup></td></tr>
-<tr><td colspan="2"><sup>1</sup> Somma dei seguenti 16 composti PAH prioritari dell’EPA (Priority pollutants list): naftalina, acenaftilene, acenaftene, fluorene, fenantrene, antracene, fluorantene, pirene, benzo(a)antracene, crisene, benzo(b)fluorantene, benzo(k)fluorantene, benzo(a)pirene, indeno(1,2,3-cd)pirene, dibenz(a,h)antracene e benzo(ghi)perilene</td></tr>
-<tr><td colspan="2"><sup>2</sup> Somma dei 7 isomeri secondo l’IRMM (Institute for Reference Materials and Measurements) IUPAC-n. 28, 52, 101, 118, 138, 153, 180</td></tr>
-<tr><td colspan="2"><sup>3</sup> I-TEQ = equivalente internazionale di tossicità</td></tr>
+<tr><th>Inquinante</th><th>Valore limite</th></tr>
+<tr><td>Idrocarburi aromatici policiclici (PAH)</td><td>25 milligrammi per chilogrammo di fosforo (P)<sup>1</sup></td></tr>
+<tr><td>Bifenili policlorurati (PCB)</td><td>0,5 milligrammi per chilogrammo di fosforo (P)<sup>2</sup></td></tr>
+<tr><td>Diossine (PCDD) e furani (PCDF)</td><td>120 nanogrammi OMC<sub>2005</sub>-TEQ per chilogrammo di fosforo (P)<sup>3</sup></td></tr>
+<tr><td colspan="2"><sup>1</sup> Somma dei seguenti 16 composti PAH prioritari dell’EPA (Priority pollutants list): naftalina, acenaftilene, acenaftene, fluorene, fenantrene, antracene, fluorantene, pirene, benzo(a)antracene, crisene, benzo(b)fluorantene, benzo(k)fluorantene, benzo(a)pirene, indeno(1,2,3-cd)pirene, dibenz(a,h)antracene e benzo(ghi)perilene. <sup>2</sup> Somma dei 7 isomeri secondo l’IRMM (Institute for Reference Materials and Measurements), IUPAC n<sup>.</sup> 28, 52, 101, 118, 138, 153 e 180 <sup>3</sup> Equivalenti tossici secondo le raccomandazioni dell’Organizzazione mondiale della sanità (OMS) a seguito di una consultazione di esperti nel 2005. Riferimento: Martin van den Berg et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological sciences 93(2):223-241. http://doi.org/10.1093/toxsci/kfl055.</td></tr>
 </table>
 
-<sup>3</sup> I concimi minerali ottenuti dal riciclaggio con azoto o potassio recuperato non devono superare i valori limite per i concimi ottenuti dal riciclaggio di cui al numero 2.2.1.
+### 2.2.2.3 Materiali di pirolisi e gassificazione (CMC 14)
+
+<sup>1</sup> Il tenore di inquinanti nei materiali di pirolisi e gassificazione non deve superare i seguenti valori limite:
+
+<table>
+<tr><th>Inquinante</th><th>Valore limite in milligrammi per chilogrammo di sostanza secca</th></tr>
+<tr><td>Arsenico (As)</td><td>13</td></tr>
+<tr><td>Cadmio (Cd)</td><td>0,7</td></tr>
+<tr><td>Cromo (Cr)</td><td>70</td></tr>
+<tr><td>Rame (Cu)</td><td>70</td></tr>
+<tr><td>Mercurio (Hg)</td><td>0,4</td></tr>
+<tr><td>Nichelio (Ni)</td><td>25</td></tr>
+<tr><td>Piombo (Pb)</td><td>45</td></tr>
+<tr><td>Zinco (Zn)</td><td>200</td></tr>
+</table>
+
+<sup>2</sup> Il tenore di inquinanti organici nei materiali di pirolisi e gassificazione non deve superare i seguenti valori limite:
+
+<table>
+<tr><th>Inquinante</th><th>Valore limite</th></tr>
+<tr><td>Idrocarburi aromatici policiclici (PAH)</td><td>4 milligrammi per chilogrammo di sostanza secca<sup>1</sup></td></tr>
+<tr><td>Bifenili policlorurati (PCB)</td><td>0,2 milligrammi per chilogrammo di sostanza secca<sup>2</sup></td></tr>
+<tr><td>Diossine (PCDD) e furani (PCDF)</td><td>20 nanogrammi OMS<sub>2005</sub>-TEQ<sup>2</sup> per chilogrammo di sostanza secca<sup>3</sup></td></tr>
+<tr><td colspan="2"><sup>1</sup> Somma dei seguenti 16 composti PAH prioritari dell’EPA (Priority pollutants list): naftalina, acenaftilene, acenaftene, fluorene, fenantrene, antracene, fluorantene, pirene, benzo(a)antracene, crisene, benzo(b)fluorantene, benzo(k)fluorantene, benzo(a)pirene, indeno(1,2,3-cd)pirene, dibenz(a,h)antracene e benzo(ghi)perilene. Determinazione mediante estrazione a reflusso di 2 ore con tuolene. <sup>2</sup> Somma dei 7 isomeri secondo l’IRMM (Institute for Reference Materials and Measurements), IUPAC n<sup>.</sup> 28, 52, 101, 118, 138, 153 e 180. Determinazione mediante estrazione Soxhlet di 6 ore con tuolene o mediante estrazione con solvente accelerato. <sup>3</sup> Equivalenti tossici secondo le raccomandazioni dell’Organizzazione mondiale della sanità (OMS) a seguito di una consultazione di esperti nel 2005. Riferimento: Martin van den Berg et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological sciences 93(2):223-241. http://doi.org/10.1093/toxsci/kfl055.</td></tr>
+</table>
 
 ### 3 Utilizzazione
 
@@ -3676,7 +3871,7 @@ Il tenore di inquinanti nei concimi organo-minerali non deve superare i valori l
 - c. delle condizioni meteorologiche;
 - d. delle limitazioni imposte o concordate in base alla legislazione concernente la protezione delle acque, la protezione della natura e del paesaggio e la protezione dell’ambiente.
 
-<sup>2</sup> Chi dispone di concimi aziendali può impiegare concimi ottenuti dal riciclaggio e concimi minerali soltanto se il concime aziendale non è sufficiente o non è adatto a coprire il fabbisogno nutritivo delle piante.
+<sup>2</sup> Chi dispone di concimi aziendali può impiegare concimi ottenuti dal riciclaggio e concimi inorganici soltanto se il concime aziendale non è sufficiente o non è adatto a coprire il fabbisogno nutritivo delle piante.
 
 <sup>3</sup> L’immissione di sostanze inquinanti nei terreni utilizzati a scopi agricoli dev’essere per quanto possibile evitata.
 
@@ -3692,13 +3887,17 @@ Il tenore di inquinanti nei concimi organo-minerali non deve superare i valori l
 
 <sup>1</sup> Per ettaro di superficie e su un arco di 3 anni si possono impiegare come concime fino a 25 tonnellate di compost e digestato solido (quantità riferita alla sostanza secca) o fino a 200 m<sup>3</sup> di digestato liquido, purché il tenore di azoto e di fosforo non superi il fabbisogno delle piante.
 
-<sup>2</sup> Per ettaro di superficie e su un arco di 10 anni non possono essere impiegate più di 100 tonnellate di ammendanti organici e organo-minerali, di compost e di digestato solido come ammendante del suolo, sostrato, protezione contro l’erosione, nelle ricoltivazioni o per le terre da coltura artificiali.
+<sup>2</sup> Per ettaro di superficie e su un arco di 10 anni è vietato impiegare più di 100 tonnellate di ammendanti con un tenore in C<sub>org</sub> superiore al 7,5 per cento, di compost o di digestato solido come ammendante, substrato, protezione contro l’erosione, nelle ricoltivazioni o per le terre da coltura artificiali.
 
 ### 3.2.3 Residui provenienti da piccoli impianti di depurazione delle acque e da pozzi neri non agricoli senza scarico
 
 <sup>1</sup> I residui provenienti da impianti di depurazione non agricoli delle acque di scarico con un massimo di 200 abitanti-equivalenti e dai pozzi neri non agricoli senza scarico possono essere impiegati, con l’autorizzazione delle autorità cantonali, al di fuori delle zone di protezione delle acque sotterranee su campi coltivati a foraggio ubicati in zone distanti o con infrastrutture viarie carenti.
 
 <sup>2</sup> Sono vietati la loro utilizzazione su superfici coltivate a ortaggi e il deposito in fosse per il colaticcio; sono inoltre fatte salve le prescrizioni di cui al numero 3.3.
+
+### 3.2.4 Materiali di pirolisi
+
+<sup>1</sup> È consentito spargere al massimo 1 tonnellata l’ettaro l’anno e 10 tonnellate l’ettaro nel corso di 20 anni di materiali di pirolisi e gassificazione.
 
 ### 3.3 Divieti e deroghe
 
@@ -3709,7 +3908,7 @@ Il tenore di inquinanti nei concimi organo-minerali non deve superare i valori l
 - a. nelle regioni protette in virtù del diritto federale o cantonale sulla protezione della natura, salvo che prescrizioni o accordi determinanti stabiliscano altrimenti;
 - b. nelle praterie a carice e nelle paludi per le quali non si applicano le disposizioni di cui alla lettera a;
 - c. nelle siepi e nei boschetti campestri nonché in una striscia di tre metri di larghezza lungo gli stessi;
-- d. nelle acque superficiali e in una striscia di 3 metri di larghezza lungo le rive delle stesse; nel caso di corsi d’acqua per i quali è stato stabilito uno spazio riservato ai corsi d’acqua giusta l’articolo 41*a* OPAc[^annex26-lvlu1-lvl3-lvl33-lvl331-1] oppure, in virtù dell’articolo 41*a* capoverso 5 OPAc, si è rinunciato espressamente a stabilire uno spazio riservato ai corsi d’acqua, la striscia viene misurata a partire dalla linea di sponda e per gli altri corsi d’acqua nonché per le acque stagnanti a partire dal ciglio della scarpata conformemente al Promemoria sulla corretta misurazione e gestione delle fasce tampone KIP/PIOCH 2009[^annex26-lvlu1-lvl3-lvl33-lvl331-2];
+- d. nelle acque superficiali e in una striscia di 3 metri di larghezza lungo le rive delle stesse; nel caso di corsi d’acqua per i quali è stato stabilito uno spazio riservato ai corsi d’acqua giusta l’articolo 41*a* OPAc[^annex26-lvlu1-lvl324-lvl33-lvl331-1] oppure, in virtù dell’articolo 41*a* capoverso 5 OPAc, si è rinunciato espressamente a stabilire uno spazio riservato ai corsi d’acqua, la striscia viene misurata a partire dalla linea di sponda e per gli altri corsi d’acqua nonché per le acque stagnanti a partire dal ciglio della scarpata conformemente al Promemoria sulla corretta misurazione e gestione delle fasce tampone KIP/PIOCH 2009[^annex26-lvlu1-lvl324-lvl33-lvl331-2];
 - e. nella zona S1 di protezione delle acque sotterranee.
 
 <sup>2</sup> I concimi aziendali fluidi e i concimi ottenuti dal riciclaggio fluidi non possono essere impiegati nelle zone S2 e S<sub>h</sub> di protezione delle acque sotterranee.
@@ -3720,8 +3919,8 @@ Il tenore di inquinanti nei concimi organo-minerali non deve superare i valori l
 
 <sup>5</sup> È vietata l’utilizzazione di concimi nel bosco e in una striscia larga tre metri lungo il suo margine.
 
-[^annex26-lvlu1-lvl3-lvl33-lvl331-1]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
-[^annex26-lvlu1-lvl3-lvl33-lvl331-2]: Il promemoria può essere richiesto presso Agridea, 8315 Lindau.
+[^annex26-lvlu1-lvl324-lvl33-lvl331-1]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
+[^annex26-lvlu1-lvl324-lvl33-lvl331-2]: Il promemoria può essere richiesto presso Agridea, 8315 Lindau.
 
 ### 3.3.2 Deroghe
 
@@ -3731,20 +3930,20 @@ Il tenore di inquinanti nei concimi organo-minerali non deve superare i valori l
 
 - a.
 
-  l’utilizzazione di compost, di digestato solido e di concimi minerali:
+  l’utilizzazione di compost, di digestato solido e di concimi inorganici:
 
   - 1\. nei vivai forestali,
   - 2\. nei rimboschimenti e nelle piantagioni, nonché per la semina,
   - 3\. per sviluppare la vegetazione lungo i margini delle strade forestali e per la sistemazione con tecniche vegetali,
   - 4\. su piccole superfici nell’ambito di esperimenti scientifici;
 
-- b. lo spargimento di concimi aziendali, di compost, di digestato solido e di concimi minerali privi di azoto su pascoli alberati.
+- b. lo spargimento di concimi aziendali, di compost, di digestato solido e di concimi inorganici privi di azoto su pascoli alberati.
 
 ### 4 Analisi effettuate dalle autorità
 
-<sup>1</sup> L’UFAM esamina a intervalli dettati dalle conoscenze scientifiche il tenore di PAH, di diossine e di furani nel compost e nel digestato. Pubblica un riassunto dei risultati analizzati dopo averli comunicati all’autorità cantonale, all’UFAG e ai detentori degli impianti esaminati.
+<sup>1</sup> L’UFAM esamina, a intervalli dettati dalle conoscenze scientifiche, il tenore di PAH, di diossine e di furani nel compost, nel digestato e nel substrato di coltivazione. Pubblica un riassunto dei risultati delle analisi dopo averli comunicati all’autorità cantonale, all’UFAG e ai detentori degli impianti di compostaggio e di fermentazione esaminati nonché al responsabile per la messa in commercio dei substrati di coltivazione analizzati.
 
-<sup>2</sup> Le autorità cantonali accertano le cause del superamento dei valori indicativi di cui al numero 2.2.1 capoverso 3 e provvedono affinché il compost e il digestato non vengano forniti se la loro utilizzazione può danneggiare la fertilità del suolo.
+<sup>2</sup> Le autorità cantonali accertano le cause del superamento dei valori indicativi di cui al numero 2.2.1.10 capoverso 3 e provvedono affinché il compost e il digestato non vengano forniti se la loro utilizzazione può danneggiare la fertilità del suolo.
 
 Allegato 2.7[^t-26]
 
@@ -3977,7 +4176,7 @@ Allegato 2.9[^t-28]
 
 <sup>2</sup> Preparati e oggetti contenenti PVC riciclato devono essere muniti di un’etichetta con la dicitura «Contiene PVC riciclato» o del seguente pittogramma:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20231001/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240101/it/xml/image/image2.png)
 
 <sup>3</sup> I preparati, il cui contenuto in massa di diisocianato di metilendifenile è pari o superiore allo 0,1 per cento e che sono destinati al grande pubblico, devono essere muniti di etichette con la seguente dicitura: «L’uso di questo prodotto può provocare reazioni allergiche nei soggetti già sensibilizzati ai diisocianati. – I soggetti affetti da asma, eczema o problemi della pelle dovrebbero evitare il contatto, incluso il contatto dermico, con questo prodotto. – Questo prodotto non dovrebbe essere utilizzato in condizioni di scarsa ventilazione, a meno che non venga utilizzata una maschera protettiva con un idoneo filtro antigas (di tipo A1 conforme alla norma EN 14387)».
 
@@ -4859,7 +5058,7 @@ Allegato 2.16[^t-35]
 
 ## Disposizioni particolari concernenti i metalli
 
-[^t-35]: Aggiornato dal n. I 3 dell’O del 15 dic. 2006 ([RU 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), dal n. I 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dal n. II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dal n. I dell’O dell’UFAG del 27 ott. 2016 ([RU 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), dal n. I dell’O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)) e dai n. I delle O dell’UFAM del 27 set. 2018 ([RU 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), del 29 set. 2020 ([RU 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-35]: Aggiornato dal n. I 3 dell’O del 15 dic. 2006 ([RU 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), dal n. I 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dal n. II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dal n. I dell’O dell’UFAG del 27 ott. 2016 ([RU 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), dal n. I dell’O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), dal n. I delle O dell’UFAM del 27 set. 2018 ([RU 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), dall’all. n. 2 dell’O dell’11 mar. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) e dal n. I dell’O dell’UFAM del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 749](https://fedlex.data.admin.ch/eli/oc/2023/749)).
 
 ### 1 Cromo(VI) in cementi
 
@@ -5064,7 +5263,7 @@ Sono considerati veicoli le automobili e i veicoli utilitari secondo la direttiv
 
 <sup>2</sup> Il divieto di cui al numero 5.2 capoverso 2 non si applica ai veicoli che contengono materiali o componenti i quali, secondo il capoverso 1 lettera a, possono essere immessi sul mercato.
 
-[^annex216-lvlu1-lvl5-lvl53-1]: Direttiva 2000/53/CE del Parlamento europeo e del Consiglio, del 18 settembre 2000, relativa ai veicoli fuori uso, GU L 269 del 21.10.2000, pag. 34; modificata da ultimo dalla direttiva delegata (UE) 2020/363, GU L 67 del 5.3.2020, pag. 119.
+[^annex216-lvlu1-lvl5-lvl53-1]: Direttiva 2000/53/CE del Parlamento europeo e del Consiglio, del 18 settembre 2000, relativa ai veicoli fuori uso, GU L 269 del 21.10.2000, pag. 34; modificata da ultimo dalla direttiva delegata (UE) 2023/544, GU L 73 del 10.3.2023, pag. 5.
 
 ### 5.4 Etichettatura particolare
 
@@ -5141,7 +5340,7 @@ Allegato 2.18[^t-37]
 
 ## Apparecchiature elettriche ed elettroniche
 
-[^t-37]: Introdotto dal n. II cpv. 1 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dal n. I dell’O dell’UFAM del 27 ott. 2016 ([RU 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dal n. I delle O dell’UFAM del 9 set. 2021 ([RU 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)) e del 28 ott. 2022, in vigore dal 1° dic. 2022 ([RU 2022 632](https://fedlex.data.admin.ch/eli/oc/2022/632)).
+[^t-37]: Introdotto dal n. II cpv. 1 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dal n. I dell’O dell’UFAM del 27 ott. 2016 ([RU 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dal n. I delle O dell’UFAM del 9 set. 2021 ([RU 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)) e del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 749](https://fedlex.data.admin.ch/eli/oc/2023/749)).
 
 ### 1 Definizioni
 
@@ -5193,13 +5392,13 @@ Allegato 2.18[^t-37]
 
 <sup>2</sup> Per garantire la conformità ai valori massimi di concentrazione di cui al capoverso 1 si applicano le prescrizioni tecniche di cui all’articolo 4 paragrafo 2 frase 2 della direttiva 2011/65/UE.
 
-[^annex218-lvlu1-lvl2-1]: Direttiva 2011/65/UE del Parlamento europeo e del Consiglio, dell’8 giugno 2011, sulla restrizione dell’uso di determinate sostanze pericolose nelle apparecchiature elettriche ed elettroniche, GU L 174 del 1.7.2011, pag. 88; modificata da ultimo dalla direttiva delegata (UE) 2015/863 della Commissione, GU L 137 del 4.6.2015, pag. 10.
-
 ### 3 Deroghe
 
-I divieti di cui al numero 2 non si applicano alle apparecchiature elettriche ed elettroniche, ai cavi e alle parti di ricambio che contengono le sostanze menzionate negli allegati III e IV della direttiva 2011/65/UE[^annex218-lvlu1-lvl3-1] per le applicazioni ivi riportate.
+[^annex218-lvlu1-lvl2-1]: Direttiva 2011/65/UE del Parlamento europeo e del Consiglio, dell’8 giugno 2011, sulla restrizione dell’uso di determinate sostanze pericolose nelle apparecchiature elettriche ed elettroniche, GU L 174 del 1.7.2011, pag. 88; modificata da ultimo dalla direttiva delegata (UE) 2015/863 della Commissione, GU L 137 del 4.6.2015, pag. 10.
 
-[^annex218-lvlu1-lvl3-1]: Direttiva 2011/65/UE del Parlamento europeo e del Consiglio, dell’8 giugno 2011, sulla restrizione dell’uso di determinate sostanze pericolose nelle apparecchiature elettriche ed elettroniche, GU L 174 dell’1.7.2011, pag. 88; modificata da ultimo dalla direttiva delegata (UE) 2022/1632, GU L 245 del 22.9.2022, pag. 48.
+I divieti di cui al numero 2 non si applicano alle apparecchiature elettriche ed elettroniche, ai cavi e alle parti di ricambio che contengono le sostanze menzionate negli allegati III e IV della direttiva 2011/65/UE[^annex218-lvlu1-lvl2-lvl3-1] per le applicazioni ivi riportate.
+
+[^annex218-lvlu1-lvl2-lvl3-1]: Direttiva 2011/65/UE del Parlamento europeo e del Consiglio, dell’8 giugno 2011, sulla restrizione dell’uso di determinate sostanze pericolose nelle apparecchiature elettriche ed elettroniche, GU L 174 dell’1.7.2011, pag. 88; modificata da ultimo dalla direttiva delegata (UE) 2023/1526, GU L 185 del 24.7.2023, pag. 26.
 
 ### 4 Prescrizioni per gli attori economici
 
@@ -5207,11 +5406,11 @@ I divieti di cui al numero 2 non si applicano alle apparecchiature elettriche ed
 
 <sup>1</sup> Fatti salvi i numeri 3 e 8, il fabbricante che immette sul mercato un’apparecchiatura elettrica o elettronica deve garantire che sia stata progettata e fabbricata conformemente alle esigenze di cui al numero 2.
 
-<sup>2</sup> Il fabbricante deve predisporre la documentazione tecnica necessaria ed eseguire personalmente o fare eseguire la procedura di controllo interno della produzione conformemente all’allegato II, modulo A, della decisione n. 768/2008/CE[^annex218-lvlu1-lvl4-lvl41-1].
+<sup>2</sup> Il fabbricante deve predisporre la documentazione tecnica necessaria ed eseguire personalmente o fare eseguire la procedura di controllo interno della produzione conformemente all’allegato II, modulo A, della decisione n. 768/2008/CE[^annex218-lvlu1-lvl3-lvl41-1].
 
 <sup>3</sup> Qualora la conformità delle apparecchiature elettriche o elettroniche alle prescrizioni di cui al numero 2 sia stata dimostrata dalla procedura di cui al capoverso 2, il fabbricante redige una dichiarazione di conformità conformemente al capoverso 4. Nei casi in cui le normative della Svizzera o dell’UE richiedono l’applicazione di una procedura di valutazione della conformità che sia almeno altrettanto rigorosa, la conformità alle prescrizioni di cui al numero 2 può essere dimostrata nel contesto di tale procedura. Può essere redatta una documentazione tecnica unica.
 
-<sup>4</sup> La dichiarazione di conformità deve avere la struttura tipo di cui all’allegato VI della direttiva 2011/65/UE[^annex218-lvlu1-lvl4-lvl41-2], contenere gli elementi indicati in tale allegato VI ed essere aggiornata periodicamente. Essa va redatta in una delle lingue ufficiali svizzere o in inglese.
+<sup>4</sup> La dichiarazione di conformità deve avere la struttura tipo di cui all’allegato VI della direttiva 2011/65/UE[^annex218-lvlu1-lvl3-lvl41-2], contenere gli elementi indicati in tale allegato VI ed essere aggiornata periodicamente. Essa va redatta in una delle lingue ufficiali svizzere o in inglese.
 
 <sup>5</sup> Il fabbricante deve garantire che siano predisposte le procedure volte a garantire che la produzione in serie continui a essere conforme ai requisiti di cui al presente allegato. Vanno tenute in debito conto le modifiche della progettazione o delle caratteristiche degli apparecchi, nonché le modifiche delle norme armonizzate o delle specifiche tecniche in riferimento a cui è dichiarata la conformità delle apparecchiature elettriche ed elettroniche.
 
@@ -5226,8 +5425,8 @@ I divieti di cui al numero 2 non si applicano alle apparecchiature elettriche ed
 
 <sup>9</sup> Il fabbricante deve tenere un registro delle sue apparecchiature elettriche ed elettroniche non conformi e dei relativi richiami e ritiri, informandone regolarmente i rivenditori.
 
-[^annex218-lvlu1-lvl4-lvl41-1]: Decisione n. 768/2008/CE del Parlamento europeo e del Consiglio, del 9 luglio 2008, relativa a un quadro comune per la commercializzazione dei prodotti e che abroga la decisione 93/465/CEE, GU L 218 del 13.8.2008, pag. 82.
-[^annex218-lvlu1-lvl4-lvl41-2]: Cfr. nota al n. 1 cpv. 1.
+[^annex218-lvlu1-lvl3-lvl41-1]: Decisione n. 768/2008/CE del Parlamento europeo e del Consiglio, del 9 luglio 2008, relativa a un quadro comune per la commercializzazione dei prodotti e che abroga la decisione 93/465/CEE, GU L 218 del 13.8.2008, pag. 82.
+[^annex218-lvlu1-lvl3-lvl41-2]: Cfr. nota al n. 1 cpv. 1.
 
 ### 4.1<sup>bis</sup> Mandatario
 
@@ -5280,12 +5479,12 @@ I divieti di cui al numero 2 non si applicano alle apparecchiature elettriche ed
 
 <sup>1</sup> L’UFAM, d’intesa con l’UFSP e la SECO, adegua le disposizioni del presente allegato nel modo seguente:
 
-- a. il numero 2 conformemente alle modifiche dell’allegato II della direttiva 2011/65/UE[^annex218-lvlu1-lvl6-1];
+- a. il numero 2 conformemente alle modifiche dell’allegato II della direttiva 2011/65/UE[^annex218-lvlu1-lvl5-1];
 - b. il numero 3 alla versione vigente degli allegati III e IV della direttiva 2011/65/UE.
 
 <sup>2</sup> L’UFAM indica nel Foglio federale il titolo nonché il riferimento o la fonte delle norme armonizzate di cui al numero 5 capoverso 2 lettera b.
 
-[^annex218-lvlu1-lvl6-1]: Cfr. nota al n. 1 cpv. 1.
+[^annex218-lvlu1-lvl5-1]: Cfr. nota al n. 1 cpv. 1.
 
 ### 7 Pile
 
@@ -5303,7 +5502,7 @@ Per le pile incorporate nelle apparecchiature elettriche ed elettroniche si appl
 <tr><td>Strumenti di monitoraggio e di controllo</td><td>22 luglio 2014</td></tr>
 <tr><td>Dispositivi medico-diagnostici in vitro</td><td>22 luglio 2016</td></tr>
 <tr><td>Strumenti di monitoraggio e di controllo industriali destinati esclusivamente a uso industriale e commerciale</td><td>22 luglio 2017</td></tr>
-<tr><td>Altre apparecchiature che non rientrano nell’ambito di applicazione della direttiva 2002/95/CE[^annex218-lvlu1-lvl8-1] (art. 4 par. 3 della direttiva 2011/65/UE)[^annex218-lvlu1-lvl8-2]</td><td>22 luglio 2019</td></tr>
+<tr><td>Altre apparecchiature che non rientrano nell’ambito di applicazione della direttiva 2002/95/CE[^annex218-lvlu1-lvl7-1] (art. 4 par. 3 della direttiva 2011/65/UE)[^annex218-lvlu1-lvl7-2]</td><td>22 luglio 2019</td></tr>
 </table>
 
 - b. alle altre apparecchiature elettriche ed elettroniche immesse sul mercato in Svizzera o in uno Stato membro dell’UE o dell’AELS prima del 1° luglio 2006.
@@ -5328,5 +5527,5 @@ Per le pile incorporate nelle apparecchiature elettriche ed elettroniche si appl
 
 <sup>5</sup> Il capoverso 1 lettera a non si applica alle nuove apparecchiature elettriche ed elettroniche che contengono esabromobifenile o difenileteri bromati ad eccezione di quelle che contengono decabromodifeniletere.
 
-[^annex218-lvlu1-lvl8-1]: Direttiva 2002/95/CE del Parlamento europeo e del Consiglio, del 27 gennaio 2003, sulla restrizione dell’uso di determinate sostanze pericolose nelle apparecchiature elettriche ed elettroniche, GU L 37 del 13.2.2003, pag. 19; modificata da ultimo dalla decisione 2011/534/UE, GU L 234 del 10.9.2010, pag. 44; abrogata dalla direttiva 2011/65/UE GU L 174 dell’1.7.2011, pag. 88.
-[^annex218-lvlu1-lvl8-2]: Cfr. nota relativa al n. 1 cpv. 1.
+[^annex218-lvlu1-lvl7-1]: Direttiva 2002/95/CE del Parlamento europeo e del Consiglio, del 27 gennaio 2003, sulla restrizione dell’uso di determinate sostanze pericolose nelle apparecchiature elettriche ed elettroniche, GU L 37 del 13.2.2003, pag. 19; modificata da ultimo dalla decisione 2011/534/UE, GU L 234 del 10.9.2010, pag. 44; abrogata dalla direttiva 2011/65/UE GU L 174 dell’1.7.2011, pag. 88.
+[^annex218-lvlu1-lvl7-2]: Cfr. nota relativa al n. 1 cpv. 1.

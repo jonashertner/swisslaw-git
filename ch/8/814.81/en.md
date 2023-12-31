@@ -4,11 +4,11 @@ title: "Ordinance of 18 May 2005 on the Reduction of Risks relating to the Use o
 short: ORRChem
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: en
-version: 2023-10-01
+version: 2024-01-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20231001/en/xml/fedlex-data-admin-ch-eli-cc-2005-478-20231001-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20231001/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2005-478-20240101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Chemical Risk Reduction Ordinance, ORRChem)
 
-of 18 May 2005 (Status as of 1 October 2023)
+of 18 May 2005 (Status as of 1 January 2024)
 
 The Swiss Federal Council,
 
@@ -304,12 +304,13 @@ The Confederation is responsible for:
 
 <sup>2</sup> With regard to substances, preparations and articles relating to systems and activities serving the interests of national defence, Article 82 of the Chemicals Ordinance of 5 June 2015[^16-2] (ChemO) applies.[^16-3]
 
-<sup>3</sup> With regard to fertilisers, the enforcement provisions of the Fertiliser Ordinance of 10 January 2001[^16-4] also apply.
+<sup>3</sup> With regard to fertilisers, the enforcement provisions of the Fertiliser Ordinance of 1 November 2023[^16-4] also apply.[^16-5]
 
 [^16-1]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 [^16-2]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 [^16-3]: Amended by No I of the O of 1 July 2015, in force since 1 Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
 [^16-4]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^16-5]: Amended by Annex 5 No II 3 of the Fertilisers Ordinance of 1 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
 
 #### Art. 17
 
@@ -332,7 +333,7 @@ The Confederation is responsible for:
 <sup>3</sup> If the substances, preparations or articles inspected or the use thereof give cause for complaint, the inspection authority shall inform the authorities responsible for rulings under Article 19. If the latter are cantonal authorities, it shall additionally inform the FOPH, FOEN and SECO and also, in cases of complaints concerning plant protection products, the FSVO and the FOAG, and in cases of complaints concerning fertilisers, the FOAG.[^18-2]
 
 [^18-1]: Amended by No I of the O of 1 July 2015, in force since 1 Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
-[^18-2]: Amended by No I of the O of 1 July 2015, in force since 1 Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^18-2]: Amended by No I of the O of 1 July 2015, in force since 1 Sept. 2015 (AS **20****15** 2367).
 
 #### Art. 19
 
@@ -382,7 +383,7 @@ The obligation to pay fees and the calculation of fees for administrative acts p
 
 <sup>3</sup> Applications for exemptions which are pending when this Ordinance comes into force shall be assessed according to this Ordinance.
 
-[^23-1]: [[AS 1986 1254](https://fedlex.data.admin.ch/eli/oc/1986/1254_1254_1254); [1988 911](https://fedlex.data.admin.ch/eli/oc/1988/911_911_911); [1989 270](https://fedlex.data.admin.ch/eli/oc/1989/270_270_270), [2420](https://fedlex.data.admin.ch/eli/oc/1989/2420_2420_2420); [1991 1981](https://fedlex.data.admin.ch/eli/oc/1991/1981_1981_1981); [1992 1749](https://fedlex.data.admin.ch/eli/oc/1992/1749_1749_1749); [1994 678](https://fedlex.data.admin.ch/eli/oc/1994/678_678_678); [1995 1491](https://fedlex.data.admin.ch/eli/oc/1995/1491_1491_1491)Art. 440 No 2, [4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)Annex 1 No II 14, [5505](https://fedlex.data.admin.ch/eli/oc/1995/5505_5505_5505); [1997 697](https://fedlex.data.admin.ch/eli/oc/1997/697_697_697); [1998 2009](https://fedlex.data.admin.ch/eli/oc/1998/2009_2009_2009), [2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)Annex 5 No 3; [1999 39](https://fedlex.data.admin.ch/eli/oc/1999/10), [1362](https://fedlex.data.admin.ch/eli/oc/1999/192), [2045](https://fedlex.data.admin.ch/eli/oc/1999/321)Annex 2 No 3; [2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)No II 9, [1949](https://fedlex.data.admin.ch/eli/oc/2000/299)Art. 22 para. 2; [2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105)Annex No 2, [1758](https://fedlex.data.admin.ch/eli/oc/2001/275), [3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 6; [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171), [1345](https://fedlex.data.admin.ch/eli/oc/2003/230), [5421](https://fedlex.data.admin.ch/eli/oc/2003/788)No II 2; [2004 3209](https://fedlex.data.admin.ch/eli/oc/2004/411), [4037](https://fedlex.data.admin.ch/eli/oc/2004/591)No I 7. [AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)No I 1].
+[^23-1]: [[AS 1986 1254](https://fedlex.data.admin.ch/eli/oc/1986/1254_1254_1254); [1988 911](https://fedlex.data.admin.ch/eli/oc/1988/911_911_911); [1989 270](https://fedlex.data.admin.ch/eli/oc/1989/270_270_270), [2420](https://fedlex.data.admin.ch/eli/oc/1989/2420_2420_2420); [1991 1981](https://fedlex.data.admin.ch/eli/oc/1991/1981_1981_1981); [1992 1749](https://fedlex.data.admin.ch/eli/oc/1992/1749_1749_1749); [1994 678](https://fedlex.data.admin.ch/eli/oc/1994/678_678_678); [1995 1491](https://fedlex.data.admin.ch/eli/oc/1995/1491_1491_1491)Art. 440 No 2, [4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)Annex 1 No II 14, [5505](https://fedlex.data.admin.ch/eli/oc/1995/5505_5505_5505); **199****7** 697; [1998 2009](https://fedlex.data.admin.ch/eli/oc/1998/2009_2009_2009), [2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)Annex 5 No 3; [1999 39](https://fedlex.data.admin.ch/eli/oc/1999/10), [1362](https://fedlex.data.admin.ch/eli/oc/1999/192), [2045](https://fedlex.data.admin.ch/eli/oc/1999/321)Annex 2 No 3; [2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)No II 9, [1949](https://fedlex.data.admin.ch/eli/oc/2000/299)Art. 22 para. 2; [2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105)Annex No 2, [1758](https://fedlex.data.admin.ch/eli/oc/2001/275), [3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 6; [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171), [1345](https://fedlex.data.admin.ch/eli/oc/2003/230), [5421](https://fedlex.data.admin.ch/eli/oc/2003/788)No II 2; [2004 3209](https://fedlex.data.admin.ch/eli/oc/2004/411), [4037](https://fedlex.data.admin.ch/eli/oc/2004/591)No I 7. [AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)No I 1].
 
 #### Art. 23a
 
@@ -494,7 +495,7 @@ Annex 1.1[^t-2]
 
 ### 3 List of prohibited persistent organic pollutants
 
-- a. *Halogenated aliphates*
+- a. *Halogenated* *aliphates*
   - – Hexachlorobutadine (CAS no 87-68-3);
   - – Alkanes C<sub>10</sub>–C<sub>13</sub>, chloro (CAS no 85535-84-8);
   - – Perfluorooctane sulfonic acid and its derivatives (PFOS);
@@ -511,12 +512,12 @@ Annex 1.1[^t-2]
   - – Toxaphene (CAS no 8001-35-2).
   - – Perfluorooctanoic acid (PFOA) and its precursor compounds.
 
-- b. *Halogenated Monoaromaten*
+- b. *Halogenated* *Monoaromaten*
   - – Pentachlorobenzene (CAS no 608-93-5);
   - – Hexachlorobenzene (CAS no 118-74-1).
   - – Pentachlorphenol (PCP, CAS no 87-86-5), its salts and esters.
 
-- c. *Halogenated biphenyls and naphthalenes*
+- c. *Halogenated biphenyls and* *naphthalenes*
   - – Polychlorinated biphenyls (CAS no 1336-36-3 and others);
   - – Hexabrombifenyl (CAS no 36355-01-8);
   - – Polychlorinated naphthalenes with the formula C<sub>10</sub>H<sub>n</sub>Cl<sub>8–n</sub> where 0 ≤ n ≤ 7.
@@ -590,7 +591,7 @@ Annex 1.2[^t-3]
 
 ### 3 List of prohibited halogenated organic substances
 
-- a. *Aliphatic polycyclic systems*
+- a. *Aliphatic polycyclic* *systems*
   - – isodrin (CAS no 465-73-6);
   - – kelevan (CAS no 4234-79-1);
   - – strobane (CAS no 8001-50-1);
@@ -607,7 +608,7 @@ Annex 1.2[^t-3]
   - – pentachlorophenoxy compounds;
   - – tetrachlorphenols (TeCP) and their salts, and tetrachlorophenoxy compounds.
 
-- e. *Halogenated biphenyls, terphenyls and naphthalenes*
+- e. *Halogenated biphenyls, t**erphenyls and* *naphthalenes*
   - – halogenated biphenyls with the formula C<sub>12</sub>H<sub>n</sub>X<sub>10-n</sub>;
   - X = halogen, 0 ≤ n ≤ 9;
   - – halogenated terphenyls with the formula C<sub>18</sub>H<sub>n</sub>X<sub>14–n</sub>;
@@ -615,13 +616,13 @@ Annex 1.2[^t-3]
   - – halogenated naphthalenes with the formula C<sub>10</sub>H<sub>n</sub>X<sub>8–n</sub>;
   - X = halogen, 0 ≤ n ≤ 7.
 
-- f. *Halogenated diarylalkanes*
+- f. *Halogenated* *diarylalkanes*
   - – monomethyl-tetrachloro-diphenyl methane (CAS no 76253-60-6);
   - – monomethyl-dichloro-diphenyl methane;
   - – monomethyl-dibromo-diphenyl methane (CAS no 99688-47-8).
 
-- g. *Octabromodiphenyl ether with the molecular formula C**<sub>12</sub>**H**<sub>2</sub>**Br**<sub>8</sub>**O.*
-- h. *Trichlorophenoxy fatty acids and their derivatives*
+- g. *Octabromodiphenyl* *ether with the molec**ular formula C**<sub>12</sub>**H**<sub>2</sub>**Br**<sub>8</sub>**O.*
+- h. *Trichlorophenoxy* *fatty acids and their derivatives*
   - – 2,4,5-trichlorophenoxyacetic acid (CAS no 93-76-5) and its salts and 2,4,5-trichlorphenoxyacetyl compounds;
   - – 2-(2,4,5-Trichlorphenoxy) propionic acid (CAS no 93-72-1) and its salts, and 2-(2,4,5-trichlorophenoxy) propionyl compounds.
 
@@ -1317,7 +1318,7 @@ It is prohibited:
 - b. a warning about the dangers of asbestos to human health and the environment and reference to protective measures; it must comply with the following specifications:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20231001/en/xml/image/image1.png)</td><td>Head</td><td colspan="2">H = at least 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240101/en/xml/image/image1.png)</td><td>Head</td><td colspan="2">H = at least 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = at least 2.5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40% of H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60% of H</td></tr>
@@ -1402,7 +1403,7 @@ Annex 1.7[^t-8]
 <sup>4</sup> For the placing on the market of batteries, packaging and packaging components, vehicles and vehicle materials and components, wood-based materials and electrical and electronic equipment and their spare parts, Annexes 2.15–2.18 apply.
 
 [^annex17-lvlu1-lvl1-lvl11-1]: In force from 1 Jan. 2021 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)).
-[^annex17-lvlu1-lvl1-lvl11-2]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^annex17-lvlu1-lvl1-lvl11-2]: SR **813****.****12**
 [^annex17-lvlu1-lvl1-lvl11-3]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
 ### 1.2 Exemptions
@@ -1644,7 +1645,7 @@ An application must contain at least:
 
 <sup>2</sup> The prohibitions specified in Number 1.1 paragraphs 1 letter f and 3 do not apply to mercury compounds or preparations and articles that contain the mercury compounds specified in Number 1.1 paragraph 1 letter f, which were first placed on the market before 1 January 2018.
 
-<sup>3</sup> The prohibition specified in Number 1.1 paragraph 2 letter b does not apply to the placing on the market of sphygmomanometers intended for use in epidemiological tests, which had not been completed by 1 September 2015.
+<sup>3</sup> The prohibition specified in Number 1.1 paragraph 2 letter b does not apply to the placing on the market of sphygmomanometers intended for use in epitheiological tests, which had not been completed by 1 September 2015.
 
 ### 4.2 Export
 
@@ -2029,9 +2030,9 @@ Annex 1.14[^t-15]
 
 ### 1.1 Definitions
 
-<sup>1</sup> *Preparations containing dibutyltin compounds or dioctyltin compounds* are preparations which contain dibutyltin compounds or dioctyltin compounds and have a tin content of 0.1% or more by mass.
+<sup>1</sup> *Preparations containing dibutyltin compounds or* *dioctyltin* *compounds* are preparations which contain dibutyltin compounds or dioctyltin compounds and have a tin content of 0.1% or more by mass.
 
-- [tab] <sup>2</sup> *Articles containing dibutyltin compounds or dioctyltin compounds* are articles which contain dibutyltin compounds or dioctyltin compounds and where the tin content in the article, or part thereof, is 0.1% or more by mass.
+- [tab] <sup>2</sup> *Articles containing dibutyltin compounds or* *dioctyltin* *compounds* are articles which contain dibutyltin compounds or dioctyltin compounds and where the tin content in the article, or part thereof, is 0.1% or more by mass.
 
 ### 1.2 Prohibitions
 
@@ -2366,7 +2367,7 @@ Annex 1.17[^t-18]
 
 [^annex117-lvlu1-1]
 
-[^t-18]: Inserted by No II para. 1 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Revised by No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), No I of the FOEN Ordinance of 27 Oct. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), of 10 Jan. 2017 ([AS 2017 173](https://fedlex.data.admin.ch/eli/oc/2017/48)), of 27 Sept. 2018 ([AS 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), the correction of 26 Feb. 2019 ([AS 2019 759](https://fedlex.data.admin.ch/eli/oc/2019/133)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), No I of the FOEN Ordinance of 29 Sept. 2020 ([AS 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)) and No I of the O of 5 April 2023, in force since 1 June 2023 ([AS 2023 191](https://fedlex.data.admin.ch/eli/oc/2023/191)).
+[^t-18]: Inserted by No II para. 1 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Revised by No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), No I of the FOEN Ordinance of 27 Oct. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), of 10 Jan. 2017 ([AS 2017 173](https://fedlex.data.admin.ch/eli/oc/2017/48)), of 27 Sept. 2018 ([AS 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), the correction of 26 Feb. 2019 ([AS 2019 759](https://fedlex.data.admin.ch/eli/oc/2019/133)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), No I of the FOEN Ordinance of 29 Sept. 2020 ([AS 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)), No I of the O of 5 April 2023 ([AS 2023 191](https://fedlex.data.admin.ch/eli/oc/2023/191)) and No I of the FOEN O of 27 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 749](https://fedlex.data.admin.ch/eli/oc/2023/749)).
 [^annex117-lvlu1-1]: Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC, OJ L 396, 30.12.2006, p. 1; last amended by Regulation (EU) No 2017/999, OJ L 150, 14.6.2017, p. 7.
 
 ### 1 Prohibitions
@@ -2439,7 +2440,7 @@ It is prohibited to place on the market for use the substances listed in Number 
 
 <sup>1</sup> Any person who obtains from a manufacturer or trader and uses on a professional or commercial basis a substance listed in Number 5 paragraph 1, or a preparation containing such a substance, must provide the Notification Authority, within three months after the first delivery, with details of the use and the approval number or EU authorisation number of the substance concerned.
 
-<sup>1bis</sup> Any person who uses a chromium(VI) compound listed in Number 5 paragraph 1 entry numbers 16–18 in a process in whose end product chromium is not in hexavalent form must provide the Notification Authority with the following information each year, by 31 March, in respect of the previous calendar year:
+<sup>1bis</sup> Any person who uses a chromium(VI) compound listed in Number 5 paragraph 1 entry numbers 16–18 for hard, decorative or black chrome plating in a process in whose end product chromium is not in hexavalent form must provide the Notification Authority with the following information each year, by 31 March, in respect of the previous calendar year:
 
 - a. the user's name and address;
 - b. the name and CAS number of the chromium(VI) compound or the name of the preparation containing the chromium(VI) compound and the content of the chromium(VI) compound by mass;
@@ -2478,10 +2479,10 @@ It is prohibited to place on the market for use the substances listed in Number 
 <tr><td>1.</td><td>5-tert-Butyl-2,4,6-trinitro-m-xylene (musk xylene) EC no: 201-329-4 CAS no: 81-15-2</td><td colspan="2">vPvB</td><td>21 August 2014</td><td>-</td><td>-</td></tr>
 <tr><td>2.</td><td>4,4'-methylenedianiline (MDA) EC no: 202-974-4 CAS no: 101-77-9</td><td colspan="2">Carcinogenic (category 1B)</td><td>21 August 2014</td><td>-</td><td>-</td></tr>
 <tr><td>3.</td><td>…</td><td colspan="2">…</td><td>…</td><td>-</td><td>-</td></tr>
-<tr><td>4.</td><td>di-(2-ethylhexyl) phthalate (DEHP) EC no: 204-211-0 CAS no: 117-81-7</td><td colspan="2">Toxic for reproduction (category 1B)</td><td>21 February 2015</td><td>Uses in the immediate packaging of medicinal products covered under Regulation (EC) No 726/2004[^annex117-lvlu1-lvl5-1], Directive 2001/82/EC[^annex117-lvlu1-lvl5-2] and/or Directive 2001/83/EC[^annex117-lvlu1-lvl5-3]</td><td></td></tr>
-<tr><td>5.</td><td>Benzyl butyl phthalate (BBP) EC no: 201-622-7 CAS no: 85-68-7</td><td colspan="2">Toxic for reproduction (category 1B)</td><td>21 February 2015</td><td>Uses in the immediate packaging of medicinal products covered under Regulation (EC) No 726/2004, Directive 2001/82/EC and/or Directive 2001/83/EC</td><td></td></tr>
-<tr><td>6.</td><td>Dibutyl phthalate (DBP) EC no: 201-557-4 CAS no: 84-74-2</td><td colspan="2">Toxic for reproduction (category 1B)</td><td>21 February 2015</td><td>Uses in the immediate packaging of medicinal products covered under Regulation (EC) No 726/2004, Directive 2001/82/EC and/or Directive 2001/83/EC</td><td></td></tr>
-<tr><td>7.</td><td>Diisobutyl phthalate (DIBP) EC no: 201-553-2 CAS no: 84-69-5</td><td colspan="2">Toxic for reproduction (category 1B)</td><td>21 February 2015</td><td>-</td><td>-</td></tr>
+<tr><td>4.</td><td>di-(2-ethylhexyl) phthalate (DEHP) EC no: 204-211-0 CAS no: 117-81-7</td><td colspan="2">Toxic for reproduction (category 1B) Endocrine-disrupting properties</td><td>21 February 2015</td><td></td><td></td></tr>
+<tr><td>5.</td><td>Benzyl butyl phthalate (BBP) EC no: 201-622-7 CAS no: 85-68-7</td><td colspan="2">Toxic for reproduction (category 1B) Endocrine-disrupting properties</td><td>21 February 2015</td><td></td><td></td></tr>
+<tr><td>6.</td><td>Dibutyl phthalate (DBP) EC no: 201-557-4 CAS no: 84-74-2</td><td colspan="2">Toxic for reproduction (category 1B) Endocrine-disrupting properties</td><td>21 February 2015</td><td></td><td></td></tr>
+<tr><td>7.</td><td>Diisobutyl phthalate (DIBP) EC no: 201-553-2 CAS no: 84-69-5</td><td colspan="2">Toxic for reproduction (category 1B) Endocrine-disrupting properties</td><td>21 February 2015</td><td>-</td><td>-</td></tr>
 <tr><td>8.</td><td>Diarsenic trioxide EC no: 215-481-4 CAS no: 1327-53-3</td><td colspan="2">Carcinogenic (category 1A)</td><td>21 May 2015</td><td>-</td><td>-</td></tr>
 <tr><td>9.</td><td>Diarsenic pentaoxide EC no: 215-116-9 CAS no: 1303-28-2</td><td colspan="2">Carcinogenic (category 1A)</td><td>21 May 2015</td><td>-</td><td>-</td></tr>
 <tr><td>10.</td><td>Lead chromate EC no: 231-846-0 CAS no: 7758-97-6</td><td colspan="2">Carcinogenic (category 1B) Toxic for reproduction (category 1A)</td><td>21 May 2015</td><td>-</td><td>-</td></tr>
@@ -2490,9 +2491,9 @@ It is prohibited to place on the market for use the substances listed in Number 
 <tr><td>13.</td><td>Tris(2-chloroethyl) phosphate (TCEP) EC no: 204-118-5 CAS no: 115-96-8</td><td colspan="2">Toxic for reproduction (category 1B)</td><td>21 August 2015</td><td></td><td></td></tr>
 <tr><td>14.</td><td>2,4-Dinitrotoluene (2,4-DNT) EC no: 204-450-0 CAS no: 121-14-2</td><td colspan="2">Carcinogenic (category 1B)</td><td>21 August 2015</td><td></td><td></td></tr>
 <tr><td>15.</td><td>Trichlorethylene EC no: 201-167-4 CAS no: 79-01-6</td><td colspan="2">Carcinogenic (category 1B)</td><td>1 December 2019</td><td>–</td><td>–</td></tr>
-<tr><td>16.</td><td>Chromium trioxide EC no: 215-607-8 CAS no: 1333-82-0</td><td colspan="2">Carcinogenic (category 1A) Mutagenic category 1B)</td><td>1 June 2021</td><td>Uses in processes in which the end products do not contain chromium in hexavalent form</td><td>–</td></tr>
-<tr><td>17.</td><td>Acids formed from chromium trioxide, and their oligomers Group with: Chromic acid EC no: 231-801-5 CAS no: 7738-94-5 Dichromic acid EC no: 236-881-5 CAS no: 13530-68-2 Oligomers of chromic acid and dichromic acid EC no: not yet assigned CAS no: not yet assigned</td><td colspan="2">Carcinogenic (category 1B)</td><td>1 June 2021</td><td>Uses in processes in which the end products do not contain chromium in hexavalent form</td><td>–</td></tr>
-<tr><td>18.</td><td>Sodium dichromate EC no: 234-190-3 CAS no: 7789-12-0 10588-01-9</td><td colspan="2">Carcinogenic (category 1B) Mutagenic (category 1B) Toxic for reproduction (category 1B)</td><td>1 June 2021</td><td>Uses in processes in which the end products do not contain chromium in hexavalent form</td><td>–</td></tr>
+<tr><td>16.</td><td>Chromium trioxide EC no: 215-607-8 CAS no: 1333-82-0</td><td colspan="2">Carcinogenic (category 1A) Mutagenic category 1B)</td><td>1 June 2021</td><td>Hard, decorative and black chrome plating</td><td>–</td></tr>
+<tr><td>17.</td><td>Acids formed from chromium trioxide, and their oligomers Group with: Chromic acid EC no: 231-801-5 CAS no: 7738-94-5 Dichromic acid EC no: 236-881-5 CAS no: 13530-68-2 Oligomers of chromic acid and dichromic acid EC no: not yet assigned CAS no: not yet assigned</td><td colspan="2">Carcinogenic (category 1B)</td><td>1 June 2021</td><td>Hard, decorative and black chrome plating</td><td>–</td></tr>
+<tr><td>18.</td><td>Sodium dichromate EC no: 234-190-3 CAS no: 7789-12-0 10588-01-9</td><td colspan="2">Carcinogenic (category 1B) Mutagenic (category 1B) Toxic for reproduction (category 1B)</td><td>1 June 2021</td><td>Hard, decorative and black chrome plating</td><td>–</td></tr>
 <tr><td>19.</td><td>Potassium dichromate EC no: 231-906-6 CAS no: 7778-50-9</td><td colspan="2">Carcinogenic (category 1B) Mutagenic (category 1B) Toxic for reproduction (category 1B)</td><td>1 June 2021</td><td>–</td><td>–</td></tr>
 <tr><td>20.</td><td>Ammonium dichromate EC no: 232-143-1 CAS no: 7789-09-5</td><td colspan="2">Carcinogenic (category 1B) Mutagenic (category 1B) Toxic for reproduction (category 1B)</td><td>1 June 2021</td><td>–</td><td>–</td></tr>
 <tr><td>21.</td><td>Potassium chromate EC no: 232-140-5 CAS no: 7789-00-6</td><td colspan="2">Carcinogenic (category 1B) Mutagenic (category 1B)</td><td>1 June 2021</td><td>–</td><td>–</td></tr>
@@ -2529,6 +2530,11 @@ It is prohibited to place on the market for use the substances listed in Number 
 <tr><td>52.</td><td>2,4-Di-tert-butyl-6-(5-chlorbenzotriazol-2- yl)phenol (UV-327) EC no: 223-383-8 CAS no: 3864-99-1</td><td>vPvB</td><td colspan="2">2 August 2024</td><td></td><td></td></tr>
 <tr><td>53.</td><td>2-(2H-Benzotriazol-2-yl)-4-(tert-butyl)- 6- (sec-butyl)phenol (UV-350) EC no: 253-037-1 CAS no: 36437-37-3</td><td>vPvB</td><td colspan="2">2 August 2024</td><td></td><td></td></tr>
 <tr><td>54.</td><td>2-Benzotriazol-2-yl-4,6-di-tert-butylphenol (UV-320) EC no: 223-346-6 CAS no: 3846-71-7</td><td>PBT, vPvB</td><td colspan="2">2 August 2024</td><td></td><td></td></tr>
+<tr><td>55.</td><td>Tetraethyllead EC no: 201-075-4 CAS No: 78-00-2</td><td>Toxic for reproduction (category 1A)</td><td colspan="2">1 January 2027</td><td>–</td><td>55.</td></tr>
+<tr><td>56.</td><td>4,4’-Bis(dimethylamino)-4”-(methylamino) trityl alcohol (with ≥ 0.1 % Michler’s ketone (EC no 202-027-5) or Michler’s base (EC no 202-959-2)) EC no: 209-218-2 CAS No: 561-41-1</td><td>Carcinogenic (category 1B)</td><td colspan="2">1 January 2027</td><td>–</td><td>56.</td></tr>
+<tr><td>57.</td><td>Reaction products of 1,3,4-Thiadiazolidine 2,5-dithion-, Formaldehyde and 4‑Heptylphenol, branched and linear (RP-HP) (mit ≥ 0,1 % 4‑Heptylphenol, branched and linear) EC no: — CAS No: —</td><td>Endocrine disrupting properties</td><td colspan="2">1 January 2027</td><td>–</td><td>57.</td></tr>
+<tr><td>58.</td><td>2-Ethylhexyl-10-ethyl-4,4-dioctyl-7-oxo-8-oxa-3,5-dithia-4-stannatetradecanoate (DOTE) EC no: 239-622-4 CAS No: 15571-58-1</td><td>Toxic for reproduction (category 1B)</td><td colspan="2">1 January 2027</td><td>–</td><td>58.</td></tr>
+<tr><td>59.</td><td>Reaction mass of 2-Ethylhexyl-10-ethyl-4,4-dioctyl-7-oxo-8-oxa-3,5-dithia-4-stannatetradecanoate and 2-Ethylhexyl-10-ethyl-4- [[2- [(2-ethylhexyl) oxy] -2-oxoethyl] thio] -4-octyl-7-oxo-8-oxa-3,5-dithia-4-stannatetradecanoate (Reaction mass of DOTE and MOTE) EC no: — CAS No: —</td><td>Toxic for reproduction (category 1B)</td><td colspan="2">1 January 2027</td><td>–</td><td>59.</td></tr>
 </table>
 
 <sup>1bis</sup> For substances in entry numbers 4–7, 10–12, 14 and 15, a transitional period also applies until 1 May 2021 for the following uses:
@@ -2541,12 +2547,20 @@ It is prohibited to place on the market for use the substances listed in Number 
 - a. manufacture of a replacement part in order to repair a product where the substance concerned is or was used in the manufacture of the product and the product will not function properly without this replacement part;
 - b. repair of a product where the substance concerned is or was used in the manufacture of the product and the product can only be repaired by using the substance concerned.
 
-<sup>2</sup> The FOEN, with the agreement of the FOPH and SECO, shall adapt the provisions specified in paragraph 1, taking into account any amendments to Annex XIV to Regulation (EC) No 1907/2006[^annex117-lvlu1-lvl5-4] and the entries in Annex 3 ChemO.
+<sup>1quater</sup> For substances in entry numbers 4–7, the following transitional periods also apply:
 
-[^annex117-lvlu1-lvl5-1]: Regulation (EC) No 726/2004 of the European Parliament and of the Council of 31 March 2004 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency, OJ L 136, 30.4.2004, p. 1; last amended by Regulation (EU) No 1027/2012, OJ L 316, 14.11.2012, p. 38.
-[^annex117-lvlu1-lvl5-2]: Directive 2001/82/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to veterinary medicinal products, OJ L 311, 28.11.2001, p. 1; last amended by Regulation (EC) No 596/2009, OJ L 188, 18.7.2009, p. 14.
-[^annex117-lvlu1-lvl5-3]: Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use, OJ L 311, 28.11.2001, p. 67; last amended by Directive 2017/745, OJ L 117, 5.5.2017, p. 1.
-[^annex117-lvlu1-lvl5-4]: See footnote to the title of this Annex.
+- a. 1 January 2027 for entry numbers 4–7 for use in a preparation with a substance content of less than 0.3 %;
+- b. 1 January 2027 for entry numbers 4–6 for use in the immediate packaging of a medicinal product;
+- c. 1 January 2027 for entry number 4 for use in a utility article that falls under the Foodstuffs and Utility Articles Ordinance of 16 December 2016[^annex117-lvlu1-lvl5-1];
+- d. 1 July 2027 for entry number 4 for use in a medical device that falls under the Medical Devices Ordinance of 1 July 2020[^annex117-lvlu1-lvl5-2].
+
+<sup>1quinquies</sup> For substances in entry numbers 16–18, a transitional period until 1 January 2026 also applies for use in a process, in the end product of which chromium is not present in hexavalent form.
+
+<sup>2</sup> The FOEN, with the agreement of the FOPH and SECO, shall adapt the provisions specified in paragraph 1, taking into account any amendments to Annex XIV to Regulation (EC) No 1907/2006[^annex117-lvlu1-lvl5-3] and the entries in Annex 3 ChemO.
+
+[^annex117-lvlu1-lvl5-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex117-lvlu1-lvl5-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^annex117-lvlu1-lvl5-3]: See footnote to the title of this Annex.
 
 Annex 1.18[^t-19]
 
@@ -2946,7 +2960,7 @@ Annex 2.2[^t-21]
 - a. according to the state of the art, no substitute is available; and
 - b. the quantity of the substances used is no greater than is required for the intended purpose.
 
-<sup>3</sup> Number 2 paragraph 1 letters c–f do not apply to surfactants which are active ingredients of disinfectants that are approved under the OBP[^annex22-lvlu1-lvl6-1] or comply with the requirements of the Medical Devices Ordinance of 17 October 2001[^annex22-lvlu1-lvl6-2]. In addition, Numbers 4 and 5 are not applicable to such disinfectants.
+<sup>3</sup> Number 2 paragraph 1 letters c–f does not apply to surfactants which are active ingredients of disinfectants that are approved under the OBP[^annex22-lvlu1-lvl6-1] or comply with the requirements of the Medical Devices Ordinance of 17 October 2001[^annex22-lvlu1-lvl6-2]. In addition, Numbers 4 and 5 are not applicable to such disinfectants.
 
 <sup>4</sup> The prohibition specified in Number 2 paragraph 1 letter e does not apply to the following surfactants listed in Annex V to Regulation (EC) 648/2004:
 
@@ -2959,7 +2973,7 @@ Annex 2.2[^t-21]
 
 <sup>6</sup> On receipt of a justified request, it may grant further exemptions to the prohibition specified in Number 2 paragraph 1 letter e for surfactants not listed in Annex V or VI to Regulation (EC) No 648/2004. Here, it shall take account of the criteria laid down in Annex IV to Regulation (EC) 648/2004.
 
-[^annex22-lvlu1-lvl6-1]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^annex22-lvlu1-lvl6-1]: SR **813****.****12**
 [^annex22-lvlu1-lvl6-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 
 ### 7 Transitional provisions
@@ -3031,7 +3045,7 @@ It is prohibited to place on the market:
 
 ### 2.2 Special packaging
 
-Neoprene-based contact adhesives containing cyclohexane (CAS no 110-82-7) in a concentration of 0.1% or more by mass ofd intended for supply to the general public must be packaged in containers not exceeding 350 g.
+Neoprene-based contact adhesives containing cyclohexane (CAS no 110-82-7) in a concentration of 0.1% or more by mass intended for supply to the general public must be packaged in containers not exceeding 350 g.
 
 ### 3 Dichlormethan
 
@@ -3086,7 +3100,7 @@ It is prohibited:
 
 ### 5.1 Definitions
 
-*Halogenated solvents* are solvents containing in total more than 1% of the following substances by weight:
+*Halogen**ated solvents* are solvents containing in total more than 1% of the following substances by weight:
 
 - a. dichloromethane (CAS no 75-09-2);
 - b. 1,1-dichloroethane (CAS no 75-34-3);
@@ -3144,7 +3158,7 @@ Annex 2.4[^t-23]
 
 ### 1.1 Definitions
 
-<sup>1</sup> *Wood preservatives* are biocidal products of product type 8 as defined in Annex 10 to the OBP[^annex24-lvlu1-lvl1-lvl11-1].
+<sup>1</sup> *Wood pres**ervatives* are biocidal products of product type 8 as defined in Annex 10 to the OBP[^annex24-lvlu1-lvl1-lvl11-1].
 
 <sup>2</sup> *Tar oils* refers in particular to:
 
@@ -3478,7 +3492,7 @@ Any person who wishes to export the following substances, or preparations that i
 <tr><td>Novaluron</td><td>116714-46-6</td></tr>
 <tr><td>Omethoate</td><td>1113-02-6</td></tr>
 <tr><td>Oxadiargyl</td><td>39807-15-3</td></tr>
-<tr><td>Oxydemeton-methyl</td><td>301-12-2</td></tr>
+<tr><td>Oxytheeton-methyl</td><td>301-12-2</td></tr>
 <tr><td>Pebulate</td><td>1114-71-2</td></tr>
 <tr><td>Permethrin</td><td>52645-53-1</td></tr>
 <tr><td>Phosalone</td><td>2310-17-0</td></tr>
@@ -3507,7 +3521,7 @@ Any person who wishes to export the following substances, or preparations that i
 <tr><td>Tolylfluanid</td><td>731-27-1</td></tr>
 <tr><td>Triadimefon</td><td>43121-43-3</td></tr>
 <tr><td>Triasulfuron</td><td>82097-50-5</td></tr>
-<tr><td>Tridemorph</td><td>24602-86-6</td></tr>
+<tr><td>Tritheorph</td><td>24602-86-6</td></tr>
 <tr><td>Trifluralin</td><td>1582-09-8</td></tr>
 <tr><td>Vamidothion</td><td>2275-23-2</td></tr>
 <tr><td>Vinclozolin</td><td>50471-44-8</td></tr>
@@ -3568,15 +3582,15 @@ Annex 2.6[^t-25]
 
 ## Fertilisers
 
-[^t-25]: Revised by Annex of the O of 14 Nov. 2007 ([AS 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)), Annex 9 No 1 of the Direct Payments Ordinance of 23 Oct. 2013 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), Annexe No 2 of the O of 4 Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), Annex 6 No 11 of the Waste Management Ordinance of 4 Dec. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)) and Annex No 2 of the O of 31 Oct. 2018, in force since 1 Jan. 2019 ([AS 2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681)). The correction of 7 May 2019 relates to the French text only ([AS 2019 1339](https://fedlex.data.admin.ch/eli/oc/2019/260))
+[^t-25]: Revised by Annex of the O of 14 Nov. 2007 ([AS 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)), Annex 9 No 1 of the Direct Payments Ordinance of 23 Oct. 2013 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), Annex No 2 of the O of 4 Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)) and Annex 5 No II 3 of the Fertilisers Ordinance of 1 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
 
 ### 1 Definitions
 
-<sup>1</sup> The terms used in this Annex are defined in the Ordinance of 10 January 2001[^annex26-lvlu1-lvl1-1] on Fertilisers.
+<sup>1</sup> The terms used in this Annex are defined in the Fertilisers Ordinance of 1 November 2023[^annex26-lvlu1-lvl1-1].
 
 <sup>2</sup> *Forage areas* are meadows and pastures, and vegetated farmland producing crops used wholly or partly as fodder. The term does not apply to farmland where only the grain or cobs are harvested.
 
-[^annex26-lvlu1-lvl1-1]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^annex26-lvlu1-lvl1-1]: SR **91****6.171**
 
 ### 2 Special requirements for supply
 
@@ -3588,20 +3602,190 @@ Annex 2.6[^t-25]
 
 ### 2.2 Quality requirements
 
-### 2.2.1 Organic fertilisers, recycling fertilisers with the exception of mineral recycling fertilisers and farm manure
+### 2.2.1 Requirements for product function categories PFC
 
-<sup>1</sup> The pollutant content of organic fertilisers, recycling fertilisers with the exception of mineral recycling fertilisers, and farm manure must not exceed the following limit values:
+### 2.2.1.1 Organic fertilisers PFC 1(A)
+
+<sup>1</sup> The pollutant content of organic fertilisers must not exceed the following limit values:
 
 <table>
-<tr><th>Pollutant</th><th>Limit value in grams per tonne of dry matter</th></tr>
+<tr><th>Pollutant</th><th>Limit values in milligrams per kilogram of dry matter</th></tr>
+<tr><td>Inorganic arsenic (As)</td><td>40</td></tr>
 <tr><td>Cadmium (Cd)</td><td>1</td></tr>
-<tr><td>Copper (Cu)</td><td>100\*</td></tr>
-<tr><td>Lead (Pb)</td><td>120</td></tr>
+<tr><td>Chromium (Cr)</td><td>2000∗</td></tr>
+<tr><td>Hexavalent Chromium (Cr VI)</td><td>2</td></tr>
+<tr><td>Copper (Cu)</td><td>100\*\*</td></tr>
 <tr><td>Mercury (Hg)</td><td>1</td></tr>
 <tr><td>Nickel (Ni)</td><td>30</td></tr>
+<tr><td>Lead (Pb)</td><td>120</td></tr>
+<tr><td>Zinc (Zn)</td><td>400\*\*\*</td></tr>
+<tr><td colspan="2">∗ applies exclusively to products from animal by-products ∗∗ 150 g/t TS dry matter if the proportion of pig excrement is more than 50% of dry matter ∗∗∗ from a proportion of more than 50% pig excrement based on 600 g/t dry matter 600 g/t TS</td></tr>
+</table>
+
+<sup>2</sup> Biuret (C<sub>2</sub>H<sub>5</sub>N<sub>3</sub>O<sub>2</sub>) must not be present in organic fertilisers.
+
+### 2.2.1.2 Organic mineral fertilisers PFC 1(B)
+
+<sup>1</sup> Pollutants in organic mineral fertilisers may not exceed the following limit values:
+
+<table>
+<tr><th>Pollutant</th><th>Limit values in milligrams per kilogram of dry matter</th><th>Limit value in milligrams per kilogram of phosphorus (P)</th></tr>
+<tr><td>Inorganic arsenic (As)</td><td>40</td><td></td></tr>
+<tr><td>Cadmium (Cd) in fertilisers with a phosphorus content (P) of 5 % or less</td><td>1</td><td></td></tr>
+<tr><td>Cadmium (Cd) in fertilisers with a phosphorus content (P) of over 5 %</td><td></td><td>50</td></tr>
+<tr><td>Chromium (Cr)</td><td>2000∗</td><td></td></tr>
+<tr><td>Hexavalent chromium (Cr VI)</td><td>2</td><td></td></tr>
+<tr><td>Copper (Cu)</td><td>100\*\*</td><td></td></tr>
+<tr><td>Mercury (Hg)</td><td>1</td><td></td></tr>
+<tr><td>Nickel (Ni)</td><td>30</td><td></td></tr>
+<tr><td>Lead (Pb)</td><td>120</td><td></td></tr>
+<tr><td>Zinc (Zn)</td><td>400\*\*\*</td><td></td></tr>
+<tr><td colspan="3">∗ applies exclusively to products from animal by-products ∗∗ from a proportion of more than 50% pig excrement based on 150 g/t dry matter. ∗∗∗ from a proportion of more than 50% pig excrement based on 600 g/t dry matter The limit values for copper (Cu) and zinc (Zn) do not apply if these elements have been deliberately added to the inorganic macronutrient fertiliser to remedy a trace nutrient deficiency in the soil and this is declared in accordance with Annex III.</td></tr>
+</table>
+
+<sup>2</sup> The Biuret (C<sub>2</sub>H<sub>5</sub>N<sub>3</sub>O<sub>2</sub>) content in organic-mineral fertilisers must not exceed 12g/kg of dry matter.
+
+### 2.2.1.3 Inorganic macronutrient fertilisers PFC 1(C)(I)
+
+<sup>1</sup> The pollutants in inorganic macronutrient fertilisers may not exceed the following limit values:
+
+<table>
+<tr><th>Pollutant</th><th>Limit values in milligrams per kilogram of dry matter</th><th>Limit values in milligrams per kilogram of phosphorus (P)</th></tr>
+<tr><td>Arsenic (As)</td><td>40</td><td></td></tr>
+<tr><td>Cadmium (Cd) in fertilisers with a phosphorus content (P) of 1 % or less</td><td>3</td><td></td></tr>
+<tr><td>Cadmium (Cd) in fertilisers with a phosphorus content (P) of over 1 %</td><td></td><td>50</td></tr>
+<tr><td>Chromium (Cr)</td><td>2000</td><td></td></tr>
+<tr><td>Hexavalent chromium (Cr VI)</td><td>2</td><td></td></tr>
+<tr><td>Copper (Cu)</td><td>600</td><td></td></tr>
+<tr><td>Mercury (Hg)</td><td>1</td><td></td></tr>
+<tr><td>Nickel (Ni)</td><td>100</td><td></td></tr>
+<tr><td>Lead (Pb)</td><td>120</td><td></td></tr>
+<tr><td>Vanadium (V)</td><td>4000</td><td></td></tr>
+<tr><td>Zinc (Zn)</td><td>1500</td><td></td></tr>
+<tr><td>Perchlorate (ClO<sub>4</sub>-)</td><td>50</td><td></td></tr>
+<tr><td colspan="3">The limit values for copper (Cu) and zinc (Zn) do not apply if these elements have been deliberately added to the inorganic macronutrient fertiliser to remedy a trace nutrient deficiency in the soil and this is declared in accordance with the labelling requirements.</td></tr>
+</table>
+
+<sup>2</sup> The Biuret (C<sub>2</sub>H<sub>5</sub>N<sub>3</sub>O<sub>2</sub>) content in organic-mineral fertilisers must not exceed 12g/kg of dry matter.
+
+<sup>3</sup> In solid inorganic simple or compound macronutrient ammonium nitrate-fertilisers with a high nitrogen content (PFC 1(C)(I)(a)(i)(A) and PFC 1(C)(I)(a)(ii)(A)), the copper (Cu) content may not exceed 10 mg/kg and the chlorine (Cl) content 200 mg/kg.
+
+### 2.2.1.4 Inorganic trace nutrient fertilisers PFC 1(C)(II)
+
+Pollutants in inorganic trace nutrient fertilisers may not exceed the following limit values:
+
+<table>
+<tr><th>Pollutant</th><th>Limit values in mg, in relation to the total content of trace nutrients in kg. [mg/kg total content of trace nutrients, i.e. boron (B), cobalt (Co), copper (Cu), iron (Fe), manganese (Mn), molybdenum (Mo) or zinc (Zn)]</th></tr>
+<tr><td>Arsenic (As)</td><td>1000</td></tr>
+<tr><td>Cadmium (Cd)</td><td>200</td></tr>
+<tr><td>Lead (Pb)</td><td>600</td></tr>
+<tr><td>Mercury (Hg)</td><td>100</td></tr>
+<tr><td>Nickel (Ni)</td><td>2000</td></tr>
+</table>
+
+### 2.2.1.5 Lime fertilisers PFC 2
+
+Pollutants in lime fertilisers may not exceed the following limit values:
+
+<table>
+<tr><th>Pollutant</th><th>Limit values in milligrams per kilogram of dry matter</th></tr>
+<tr><td>Arsenic (As)</td><td>40</td></tr>
+<tr><td>Cadmium (Cd)</td><td>2</td></tr>
+<tr><td>Hexavalent Chromium (Cr VI)</td><td>2</td></tr>
+<tr><td>Copper (Cu)</td><td>300</td></tr>
+<tr><td>Mercury (Hg)</td><td>1</td></tr>
+<tr><td>Nickel (Ni)</td><td>90</td></tr>
+<tr><td>Lead (Pb)</td><td>120</td></tr>
+<tr><td>Zinc (Zn)</td><td>800</td></tr>
+</table>
+
+### 2.2.1.6 Organic soil improvers PFC 3(A)
+
+Pollutants in organic soil improvers may not exceed the following limit values:
+
+<table>
+<tr><th>Pollutant</th><th>Limit values in milligrams per kilogram of dry matter</th></tr>
+<tr><td>Inorganic arsenic (As)</td><td>40</td></tr>
+<tr><td>Cadmium (Cd)</td><td>2</td></tr>
+<tr><td>Hexavalent chromium (Cr VI)</td><td>2</td></tr>
+<tr><td>Copper (Cu)</td><td>300</td></tr>
+<tr><td>Mercury (Hg)</td><td>1</td></tr>
+<tr><td>Nickel (Ni)</td><td>50</td></tr>
+<tr><td>Lead (Pb)</td><td>120</td></tr>
+<tr><td>Zinc (Zn)</td><td>800</td></tr>
+</table>
+
+### 2.2.1.7 Inorganic soil improvers PFC 3(B)
+
+Pollutants in inorganic soil improvers may not exceed the following limit values:
+
+<table>
+<tr><th>Pollutant</th><th>Limit values in milligrams per kilogram of dry matter</th></tr>
+<tr><td>Inorganic arsenic (As)</td><td>40</td></tr>
+<tr><td>Cadmium (Cd)</td><td>1.5</td></tr>
+<tr><td>Hexavalent Chromium (Cr VI)</td><td>2</td></tr>
+<tr><td>Copper (Cu)</td><td>300</td></tr>
+<tr><td>Mercury (Hg)</td><td>1</td></tr>
+<tr><td>Nickel (Ni)</td><td>100</td></tr>
+<tr><td>Lead (Pb)</td><td>120</td></tr>
+<tr><td>Zinc (Zn)</td><td>800</td></tr>
+</table>
+
+### 2.2.1.8 Growing medium PFC 4
+
+<sup>1</sup> Pollutants in a growing medium may not exceed the following limit values:
+
+<table>
+<tr><th>Pollutant</th><th>Limit values in milligrams per kilogram of dry matter</th></tr>
+<tr><td>Inorganic arsenic (As)</td><td>40</td></tr>
+<tr><td>Cadmium (Cd)</td><td>1.5</td></tr>
+<tr><td>Hexavalent chromium (Cr VI)</td><td>2</td></tr>
+<tr><td>Copper (Cu)</td><td>200</td></tr>
+<tr><td>Mercury (Hg)</td><td>1</td></tr>
+<tr><td>Nickel (Ni)</td><td>50\*</td></tr>
+<tr><td>Lead (Pb)</td><td>120</td></tr>
+<tr><td>Zinc (Zn)</td><td>500</td></tr>
+<tr><td colspan="2">\* In the cases of growing media that consist of more than 70 % mineral substances, the limit value applies to the bioavailable content of the pollutant.</td></tr>
+</table>
+
+<sup>2</sup> The following guide values apply to growing media:
+
+<table>
+<tr><th>Pollutant</th><th>Guide value</th></tr>
+<tr><td>Polycyclic aromatic hydrocarbons (PAH)</td><td>4 milligrams per kilogram of dry matter<sup>1</sup></td></tr>
+<tr><td>Dioxine (PCDD) and furane (PCDF)</td><td>20 nanograms WHO<sub>2005</sub>-TEQ<sup>2</sup> per kilogram of dry matter</td></tr>
+<tr><td colspan="2"><sup>1</sup> Sum of the following 16 PAH compounds on the EPA priority pollutants list: napthalene, acenaphthylene, acenaphthene, fluorene, phenanthrene, anthracene, fluoranthene, pyrene, benzo[a]anthracene, chrysene, enzo[b]fluoranthene, benzo[k]fluoranthene, benzo[a]pyrene, indeno[1,2,3-cd]pyrene, dibenzo[a,h]anthracene and benzo[ghi]perylene. <sup>2</sup> Toxic equivalency as recommended by the World Health Organisation (WHO) following a consultation of experts in 2005. Reference: Martin van den Berg et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-Like Compounds. Toxicological science 93(2):223–241. https://doi.org/10.1093/toxsci/kfl055.</td></tr>
+</table>
+
+### 2.2.1.9 Plant biostimulants PFC 6
+
+The pollutant content of plant biostimulants may not exceed the following limit values:
+
+<table>
+<tr><th>Pollutant</th><th>Limit values in milligrams per kilogram of dry matter</th></tr>
+<tr><td>Inorganic arsenic (As)</td><td>40</td></tr>
+<tr><td>Cadmium (Cd)</td><td>1,5</td></tr>
+<tr><td>Hexavalent chromium (Cr VI)</td><td>2</td></tr>
+<tr><td>Copper (Cu)</td><td>600</td></tr>
+<tr><td>Mercury (Hg)</td><td>1</td></tr>
+<tr><td>Nickel (Ni)</td><td>50</td></tr>
+<tr><td>Lead (Pb)</td><td>120</td></tr>
+<tr><td>Zinc (Zn)</td><td>1500</td></tr>
+</table>
+
+### 2.2.1.10 Farm manure PFC 100 and recycling fertilisers PFC 101
+
+<sup>1</sup> The pollutants in farm manure and recycling fertilisers may not exceed the following limit values:
+
+<table>
+<tr><th>Pollutant</th><th>Limit values in milligrams per kilogram of dry matter</th></tr>
+<tr><td>Cadmium (Cd)</td><td>1</td></tr>
+<tr><td>Copper (Cu)</td><td>100\*</td></tr>
+<tr><td>Mercury (Hg)</td><td>1</td></tr>
+<tr><td>Nickel (Ni)</td><td>30</td></tr>
+<tr><td>Lead (Pb)</td><td>120</td></tr>
 <tr><td>Zinc (Zn)</td><td>400\*\*</td></tr>
-<tr><td colspan="2">\* 150 g/t dry matter if the proportion of pig excrement is more than 50% of dry matter</td></tr>
-<tr><td colspan="2">\*\* 600 g/t dry matter if the proportion of pig excrement is more than 50% of dry matter</td></tr>
+<tr><td colspan="2">∗ from a proportion of more than 50% pig excrement based on 600 g/t dry matter 150 g/t TS. ∗∗ from a proportion of more than 50% pig excrement based on 600 g/t dry matter 600 g/t TS</td></tr>
 </table>
 
 <sup>2</sup> In addition, the following requirements for inert contaminants apply to compost and digestate:
@@ -3613,60 +3797,71 @@ Annex 2.6[^t-25]
 <sup>3</sup> The following guide values apply to compost and digestate:
 
 <table>
-<tr><td>Pollutant</td><td>Guide value</td></tr>
-<tr><td>Polycyclic aromatic hydrocarbons (PAHs)</td><td>4 grams per tonne of dry matter<sup>a</sup></td></tr>
-<tr><td>Dioxins (PCDDs) and furans (PCDFs)</td><td>20 nanograms I-TEQ<sup>b</sup> per kilogram of dry matter</td></tr>
-<tr><td colspan="2"><sup>a</sup> Sum of the following 16 PAH compounds on the EPA priority pollutants list: naphthalene, acenaphthylene, acenaphthene, fluorene, phenanthrene, anthracene, fluoranthene, pyrene, benzo[a]anthracene, chrysene, benzo[b]fluoranthene, benzo[k]fluoranthene, benzo[a]pyrene, indeno[1,2,3-cd]pyrene, dibenzo[a,h]anthracene and benzo[ghi]perylene</td></tr>
-<tr><td colspan="2"><sup>b</sup> I-TEQ = International toxic equivalents</td></tr>
+<tr><th>Pollutant</th><th>Guide value</th></tr>
+<tr><td>Polycyclic aromatic hydrocarbons (PAHs)</td><td>4 milligrams per kilogram of dry matter<sup>1</sup></td></tr>
+<tr><td>Dioxins (PCDDs) and furans (PCDFs)</td><td>20 nanograms WHO<sub>2005</sub>-TEQ<sup>2</sup> per kilogram of dry matter</td></tr>
+<tr><td colspan="2"><sup>1</sup> Sum of the following 16 PAH compounds on the EPA priority pollutants list: naphthalene, acenaphthylene, acenaphthene, fluorene, phenanthrene, anthracene, fluoranthene, pyrene, benzo[a]anthracene, chrysene, benzo[b]fluoranthene, benzo[k]fluoranthene, benzo[a]pyrene, indeno[1,2,3-cd]pyrene, dibenzo[a,h]anthracene and benzo[ghi]perylene. <sup>2</sup> Toxic equivalency as recommended by the World Health Organisation (WHO) following a consultation of experts in 2005. Reference: Martin van den Berg et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-Like Compounds. Toxicological science 93(2):223–241; https://doi.org/10.1093/toxsci/kfl055.</td></tr>
 </table>
 
-<sup>4</sup> The provisions of paragraph 1 do not apply to farm manure intended for own‑farm use or supplied directly to end users by a livestock farm. This is without prejudice to the provisions specified in Article 30*a* paragraph 2 of the Ordinance on Fertilisers.
+<sup>4</sup> The provisions of paragraph 1 do not apply to farm manure intended for own‑farm use or supplied directly to end users by a livestock farm. This is without prejudice to the provisions specified in Article 10 of the Ordinance on Fertilisers.
 
-### 2.2.2 Mineral fertilisers and fertilisers prepared from animal by‑products
+### 2.2.2 Requirements for component material categories (CMC)
 
-The pollutant content of mineral fertilisers and fertilisers prepared from animal by‑products must not exceed the following limit values:
+### 2.2.2.1 Compost (CMC 3), fresh plant digestate (CMC 4) and digestate other than fresh plant digestate (CMC 5)
 
-<table>
-<tr><th>Pollutant</th><th colspan="2">Limit value in grams per tonne of</th></tr>
-<tr><th></th><th>dry matter</th><th>phosphorus (P)</th></tr>
-<tr><td>Cadmium (Cd) in phosphorus fertilisers containing more than 1% phosphorus</td><td></td><td>50</td></tr>
-<tr><td>Chromium (Cr)</td><td>2000</td><td></td></tr>
-<tr><td>Vanadium (V)</td><td>4000</td><td></td></tr>
-</table>
+The quality requirements stipulated in Number 2.2.1.10 also apply to compost and digestate as component materials in fertilisers.
 
-### 2.2.3 Organic mineral fertilisers
+### 2.2.2.2 Precipitated phosphate salts and their derived products (CMC 12) and materials obtained by thermal oxidation and their derived products (CMC 13)
 
-The pollutant content of organic mineral fertilisers must not exceed the limit values specified in Number 2.2.1; however, if the proportion of phosphorus is more than 5%, the limit value for cadmium specified in Number 2.2.2 applies.
-
-### 2.2.4 Mineral recycling fertilisers
-
-<sup>1</sup> The inorganic pollutant content of mineral recycling fertilisers with recovered phosphorus may not exceed the following limit values:
+<sup>1</sup> The pollutant content of precipitated phosphate salts and their derived products and of materials obtained by thermal oxidation and their derived products may not exceed the following limit values:
 
 <table>
-<tr><th>Pollutant</th><th>Limit value in grams per tonne of phosphorus (P)</th></tr>
-<tr><td>Lead (Pb)</td><td>500</td></tr>
-<tr><td>Cadmium (Cd)</td><td>25</td></tr>
-<tr><td>Copper (Cu)</td><td>3 000</td></tr>
-<tr><td>Nickel (Ni)</td><td>500</td></tr>
-<tr><td>Mercury (Hg)</td><td>2</td></tr>
-<tr><td>Zinc (Zn)</td><td>10 000</td></tr>
+<tr><th>Pollutant</th><th>Limit value in milligrams per kilogram of phosphorus (P)</th></tr>
 <tr><td>Arsenic (As)</td><td>100</td></tr>
+<tr><td>Cadmium (Cd)</td><td>25</td></tr>
 <tr><td>Chromium (Cr)</td><td>1 000</td></tr>
+<tr><td>Copper (Cu)</td><td>3 000</td></tr>
+<tr><td>Mercury (Hg)</td><td>2</td></tr>
+<tr><td>Nickel (Ni)</td><td>500</td></tr>
+<tr><td>Lead (Pb)</td><td>500</td></tr>
+<tr><td>Zinc (Zn)</td><td>10 000</td></tr>
 </table>
 
-<sup>2</sup> The organic pollutant content of mineral recycling fertilisers with recovered phosphorus may not exceed the following limit values:
+<sup>2</sup> The organic pollutant content of precipitated phosphate salts and their derived products and of materials obtained by thermal oxidation and their derived products may not exceed the following limit values:
 
 <table>
 <tr><th>Pollutant</th><th>Limit value</th></tr>
-<tr><td>Polycyclic aromatic hydrocarbons (PAH)</td><td>25 grams per tonne of phosphorus (P)<sup>a</sup></td></tr>
-<tr><td>Polychlorinated biphenyls (PCB)</td><td>0.5 grams per tonne of phosphorus (P)<sup>b</sup></td></tr>
-<tr><td>Dioxins (PCDD) and furans (PCDF)</td><td>120 nanograms I-TEQ per kilogram of phosphorus (P)<sup>c</sup></td></tr>
-<tr><td colspan="2"><sup>a</sup> Sum of the following 16 PAH compounds on the EPA priority pollutants list: naphthalene, acenaphthylene, acenaphthene, fluorene, phenanthrene, anthracene, fluoranthene, pyrene, benzo[a]anthracene, chrysene, benzo[b]fluoranthene, benzo[k]fluoranthene, benzo[a]pyrene, indeno[1,2,3-cd]pyrene, dibenzo[a,h]anthracene and benzo[ghi]perylene</td></tr>
-<tr><td colspan="2"><sup>b</sup> Sum of the 7 congeners according to IRMM (Institute for Reference Materials and Measurements), IUPAC No 28, 52, 101, 118, 138, 153, 180</td></tr>
-<tr><td colspan="2"><sup>c</sup> I-TEQ = International toxic equivalents</td></tr>
+<tr><td>Polycyclic aromatic hydrocarbons (PAH)</td><td>25 milligrams per kilogram of phosphorus (P)<sup>1</sup></td></tr>
+<tr><td>Polychlorinated biphenyls (PCB)</td><td>0.5 milligrams per kilogram of phosphorus (P)<sup>2</sup></td></tr>
+<tr><td>Dioxins (PCDD) and furans (PCDF)</td><td>120 nanograms WHO<sub>2005</sub>-TEQ per kilogram of phosphorus (P)<sup>3</sup></td></tr>
+<tr><td colspan="2"><sup>1</sup> Sum of the following 16 PAH compounds on the EPA priority pollutants list: napthalene, acenaphthylene, acenaphthene, fluorene, phenanthrene, anthracene, fluoranthene, pyrene, benzo[a]anthracene, chrysene, enzo[b]fluoranthene, benzo[k]fluoranthene, benzo[a]pyrene, indeno[1,2,3-cd]pyrene, dibenzo[a,h]anthracene and benzo[ghi]perylene <sup>2</sup> Sum of the 7 congeners according to the Institute for Reference Materials and Measurements, IUPAC No 28, 52, 101, 118, 138, 153 and 180 <sup>3</sup> Toxic equivalency as recommended by the World Health Organisation (WHO) following a consultation of experts in 2005. Reference: Martin van den Berg et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-Like Compounds. Toxicological science93(2):223–241; https://doi.org/10.1093/toxsci/kfl055.</td></tr>
 </table>
 
-<sup>3</sup> Mineral recycling fertilisers with recovered nitrogen or potassium may not exceed the limit values for recycling fertilisers under No 2.2.1.
+### 2.2.2.3 Materials obtained by pyrolysis or gasification (CMC 14)
+
+<sup>1</sup> The pollutant content of materials obtained by pyrolysis or gasification may not exceed the following limit values:
+
+<table>
+<tr><th>Pollutant</th><th>Limit value in milligrams per kilogram of dry matter</th></tr>
+<tr><td>Arsenic (As)</td><td>13</td></tr>
+<tr><td>Cadmium (Cd)</td><td>0.7</td></tr>
+<tr><td>Chromium (Cr)</td><td>70</td></tr>
+<tr><td>Copper (Cu)</td><td>70</td></tr>
+<tr><td>Mercury (Hg)</td><td>0.4</td></tr>
+<tr><td>Nickel (Ni)</td><td>25</td></tr>
+<tr><td>Lead (Pb)</td><td>45</td></tr>
+<tr><td>Zinc (Zn)</td><td>200</td></tr>
+</table>
+
+<sup>2</sup> The organic pollutant content of materials obtained by pyrolysis or gasification may not exceed the following limit values:
+
+<table>
+<tr><th>Pollutant</th><th>Limit value</th></tr>
+<tr><td>Polycyclic aromatic hydrocarbons(PAH)</td><td>4 milligrams per kilogram of dry matter<sup>1</sup></td></tr>
+<tr><td>Polychlorinated biphenyls (PCB)</td><td>0.2 milligrams per kilogram of dry matter<sup>2</sup></td></tr>
+<tr><td>Dioxine (PCDD) and Furane (PCDF)</td><td>20 nanograms WHO<sub>2005</sub>-TEQ per kilogram of dry matter<sup>3</sup></td></tr>
+<tr><td colspan="2"><sup>1</sup> Sum of the following 16 PAH compounds on the EPA priority pollutants list: napthalene, acenaphthylene, acenaphthene, fluorene, phenanthrene, anthracene, fluoranthene, pyrene, benzo[a]anthracene, chrysene, enzo[b]fluoranthene, benzo[k]fluoranthene, benzo[a]pyrene, indeno[1,2,3-cd]pyrene, dibenzo[a,h]anthracene and benzo[ghi]perylene. Determined by means of two-hour reflux extraction with toluene. <sup>2</sup> Sum of the 7 congeners according to the Institute for Reference Materials and Measurements), IUPAC No 28, 52, 101, 118, 138, 153 and 180. Determined by means of six-hour Soxhlet extraction with toluene or accelerated solvent extraction. <sup>3</sup> Toxic equivalency as recommended by the World Health Organisation (WHO) following a consultation of experts in 2005. Referenz: Martin van den Berg et al. (2006) The 2005 World Health Organization Reevaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-Like Compounds. Toxicological science 93(2):223–241; https://doi.org/10.1093/toxsci/kfl055. Determined by means of 20-hour Soxhlet extraction with toluene or accelerated solvent extraction.</td></tr>
+</table>
 
 ### 3 Use
 
@@ -3679,7 +3874,7 @@ The pollutant content of organic mineral fertilisers must not exceed the limit v
 - c. meteorological conditions;
 - d. limits ordered or agreed under legislation on water protection, nature and cultural heritage protection or environmental protection.
 
-<sup>2</sup> Any person who has supplies of farm manure may only use recycling or mineral fertilisers if the farm manure is insufficient or not suitable for meeting the nutrient requirements of the plants concerned.
+<sup>2</sup> Any person who has supplies of farm manure may only use recycling or inorganic fertilisers if the farm manure is insufficient or not suitable for meeting the nutrient requirements of the plants concerned.
 
 <sup>3</sup> Inputs of pollutants to agricultural soils must be avoided as far as possible.
 
@@ -3695,13 +3890,17 @@ The pollutant content of organic mineral fertilisers must not exceed the limit v
 
 <sup>1</sup> Over a three-year period, up to 25 tonnes of compost or solid digestate (based on dry matter) may be applied as fertiliser per hectare, or 200m<sup>3</sup> liquid digestate per hectare, provided that these quantities do not exceed the nitrogen and phosphorus requirements of the plants.
 
-<sup>2</sup> It is prohibited to use, over a ten-year period, more than 100 tonnes of organic or organic mineral soil improvement agents, compost or solid digestate per hectare, either for soil improvement, as a substrate, for erosion protection, for recultivation purposes or for artificial topsoil mixtures.
+<sup>2</sup> It is prohibited to use, over a ten-year period, more than 100 tonnes of soil improvers with a C<sub>org</sub> content of over 7.5 %, compost or solid digestate per hectare, either for soil improvement, as a substrate, for erosion protection, for recultivation purposes or for artificial topsoil mixtures.
 
 ### 3.2.3 Residues from small wastewater treatment plants and from non‑agricultural sealed cesspools
 
 <sup>1</sup> Residues from non-agricultural wastewater treatment plants with a maximum of 200 population equivalents and from non-agricultural sealed cesspools may be used on forage areas in remote or poorly accessible locations outside the groundwater protection zones if an authorisation is granted by the cantonal authority.
 
 <sup>2</sup> Without prejudice to the provisions of Number 3.3, they must not be used on vegetable plots or added to slurry pits.
+
+### 3.2.4 Materials obtained by pyrolysis
+
+<sup>1</sup> The maximum permitted spread of materials obtained by pyrolysis or gasification in one year amounts to 1 t per hectare and 10 t per hectare over twenty years.
 
 ### 3.3 Prohibitions and exemptions
 
@@ -3712,7 +3911,7 @@ The pollutant content of organic mineral fertilisers must not exceed the limit v
 - a. in areas designated as nature reserves under federal or cantonal legislation, in the absence of relevant regulations or agreements to the contrary;
 - b. in reed beds and mires, where these are not already covered by provisions referred to in letter a;
 - c. in hedges and copses and in a 3m-wide strip alongside hedges and copses;
-- d. in surface waters and in a 3m-wide strip alongside surface waters, whereby the strip alongside watercourses for which a space for waters has been specified in accordance with Article 41*a* WPO[^annex26-lvlu1-lvl3-lvl33-lvl331-1] or for which a space for waters has been expressly dispensed with under 41*a* paragraph 5 WPO is measured from the shore line, and in the case of other watercourses and standing waters from the top edge of the bank in accordance with the buffer strip information sheet «Measuring and managing buffers strips correctly», KIP/PIOCH 2009[^annex26-lvlu1-lvl3-lvl33-lvl331-2];
+- d. in surface waters and in a 3m-wide strip alongside surface waters, whereby the strip alongside watercourses for which a space for waters has been specified in accordance with Article 41*a* WPO[^annex26-lvlu1-lvl324-lvl33-lvl331-1] or for which a space for waters has been expressly dispensed with under 41*a* paragraph 5 WPO is measured from the shore line, and in the case of other watercourses and standing waters from the top edge of the bank in accordance with the buffer strip information sheet «Measuring and managing buffers strips correctly», KIP/PIOCH 2009[^annex26-lvlu1-lvl324-lvl33-lvl331-2];
 - e. in groundwater protection zone S1.
 
 <sup>2</sup> It is prohibited to use liquid farm manure and recycling fertilisers in groundwater protection zones S2 and S<sub>h</sub>.
@@ -3723,8 +3922,8 @@ The pollutant content of organic mineral fertilisers must not exceed the limit v
 
 <sup>5</sup> It is prohibited to use fertilisers in forests and in a 3 m strip alongside the stand of trees.
 
-[^annex26-lvlu1-lvl3-lvl33-lvl331-1]: [SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
-[^annex26-lvlu1-lvl3-lvl33-lvl331-2]: The information sheet may be obtained (not in English) from Agridea, 8315 Lindau.
+[^annex26-lvlu1-lvl324-lvl33-lvl331-1]: [SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
+[^annex26-lvlu1-lvl324-lvl33-lvl331-2]: The information sheet may be obtained (not in English) from Agridea, 8315 Lindau.
 
 ### 3.3.2 Exemptions
 
@@ -3734,20 +3933,20 @@ The pollutant content of organic mineral fertilisers must not exceed the limit v
 
 - a.
 
-  the use of compost, solid digestate and mineral fertilisers:
+  the use of compost, solid digestate and inorganic fertilisers:
 
   - 1\. in forest nurseries,
   - 2\. during afforestation or reforestation and for sowing,
   - 3\. to promote the development of plant cover on forestry road verges and for bioengineering,
   - 4\. on small areas within the framework of scientific trials;
 
-- b. the spreading of farm manure, compost, solid digestate and non-nitrogenous mineral fertilisers on wooded pastures.
+- b. the spreading of farm manure, compost, solid digestate and non-nitrogenous inorganic fertilisers on wooded pastures.
 
 ### 4 Analyses carried out by the authorities
 
-<sup>1</sup> At appropriate intervals, the FOEN shall carry out analyses to determine the PAH, dioxin and furan content of compost and digestate. It shall publish a summary of the findings and communicate them in advance to the cantonal authority, the FOAG and the owners of the plants in question.
+<sup>1</sup> At appropriate intervals, the FOEN shall carry out analyses to determine the PAH, dioxin and furan content of compost and digestate. It shall publish a summary of the findings and communicate them in advance to the cantonal authority, the FOAG and the owners of the composting or fermentation plants and the person placing the analysed growing media on the market.
 
-<sup>2</sup> The cantonal authorities shall identify the cause of any exceedance of the guide values specified in Number 2.2.1 paragraph 3 and ensure that compost and digestate are not supplied if their use could endanger soil fertility.
+<sup>2</sup> The cantonal authorities shall identify the cause of any exceedance of the guide values specified in Number 2.2.1.10 paragraph 3 and ensure that compost and digestate are not supplied if their use could endanger soil fertility.
 
 Annex 2.7[^t-26]
 
@@ -3979,9 +4178,9 @@ Annex 2.9[^t-28]
 
 <sup>2</sup> Preparations and articles containing recovered PVC must be marked with the text «Contains recovered PVC» or with the following pictogram:
 
-<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20231001/en/xml/image/image2.png)</sup>
+<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240101/en/xml/image/image2.png)</sup>
 
-<sup>3</sup> Preparations containing methylenediphenyl diisocyanate in a concentration of 0.1% or more by mass ofd intended for supply to the general public must be marked as follows: «Persons already sensitised to diisocyanates may develop allergic reactions when using this product. – Persons suffering from asthma, eczema or skin problems should avoid contact, including dermal contact, with this product. – This product should not be used under conditions of poor ventilation unless a protective mask with an appropriate gas filter (i.e. type A1 according to standard EN 14387) is used.»
+<sup>3</sup> Preparations containing methylenediphenyl diisocyanate in a concentration of 0.1% or more by mass intended for supply to the general public must be marked as follows: «Persons already sensitised to diisocyanates may develop allergic reactions when using this product. – Persons suffering from asthma, eczema or skin problems should avoid contact, including dermal contact, with this product. – This product should not be used under conditions of poor ventilation unless a protective mask with an appropriate gas filter (i.e. type A1 according to standard EN 14387) is used.»
 
 <sup>4</sup> …
 
@@ -3989,7 +4188,7 @@ Annex 2.9[^t-28]
 
 ### 4<sup>bis</sup> Special packaging
 
-The packaging of a preparation containing methylenediphenyl diisocyanate in a concentration of 0.1% or more by mass ofd intended for supply to the general public must contain protective gloves which comply with the requirements specified in Article 13 paragraph 2 in conjunction with Article 12 paragraph 2 of the Ordinance on Product Safety of 19 May 2010[^annex29-lvlu1-lvl4bis-1]. This does not apply to packaging for hot melt adhesives.
+The packaging of a preparation containing methylenediphenyl diisocyanate in a concentration of 0.1% or more by mass intended for supply to the general public must contain protective gloves which comply with the requirements specified in Article 13 paragraph 2 in conjunction with Article 12 paragraph 2 of the Ordinance on Product Safety of 19 May 2010[^annex29-lvlu1-lvl4bis-1]. This does not apply to packaging for hot melt adhesives.
 
 [^annex29-lvlu1-lvl4bis-1]: [SR 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348)
 
@@ -4356,7 +4555,7 @@ Annex 2.11[^t-30]
 
 <sup>1</sup> *Ozone-depleting extinguishing agents* are extinguishing agents containing substances that deplete the ozone layer (Annex 1.4).
 
-<sup>2</sup> *Extinguishing agents stable in the atmosphere* are extinguishing agents containing substances stable in the atmosphere (Annex 1.5).
+<sup>2</sup> *Extinguishing agents stable in the atmosp**here* are extinguishing agents containing substances stable in the atmosphere (Annex 1.5).
 
 <sup>3</sup> A system is equipment permanently installed in a building (stationary system) or on a vehicle (mobile system) which distributes the extinguishing agent by means of a pipe system to the places where a fire is being tackled.
 
@@ -4857,7 +5056,7 @@ Annex 2.16[^t-35]
 
 ## Special provisions relating to metals
 
-[^t-35]: Revised by No I 3 of the O of 15 Dec. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), No I 6 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), No II para 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), No 1 of the FOEN Ordinance of 27 Oct. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), No I of the O of 25 Oct. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), No I of the FOEN Ordinance of 27 Sept. 2018 ([AS 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), No I of the FOEN Ordinance of 29 Sept. 2020 ([AS 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-35]: Revised by No I 3 of the O of 15 Dec. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), No I 6 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), No II para 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), No 1 of the FOEN Ordinance of 27 Oct. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), No I of the O of 25 Oct. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), No I of the FOEN Ordinance of 27 Sept. 2018 ([AS 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), No I of the FOEN Ordinance of 29 Sept. 2020 ([AS 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)) and Annex No 2 of the O of 11 March 2022, ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) and No I of the FOEN O of 27 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 749](https://fedlex.data.admin.ch/eli/oc/2023/749)).
 
 ### 1 Chromium(VI) in cements
 
@@ -5061,7 +5260,7 @@ Vehicles are cars and light duty vehicles in accordance with Directive 2000/53/E
 
 <sup>2</sup> The prohibition specified in Number 5.2 paragraph 2 does not apply to vehicles which contain materials or components that may be placed on the market in accordance with Paragraph 1 letter a.
 
-[^annex216-lvlu1-lvl5-lvl53-1]: Directive 2000/53/EC of the European Parliament and of the Council of 18 September 2000 on end-of-life vehicles, OJ L 269, 21.10.2000, p. 34; last amended by Directive (EU) 2020/363, OJ L 67, 5.11.2020, p. 119.
+[^annex216-lvlu1-lvl5-lvl53-1]: Directive 2000/53/EC of the European Parliament and of the Council of 18 September 2000 on end-of-life vehicles, OJ L 269, 21.10.2000, p. 34; last amended by Delegated Directive (EU) 2023/544, OJ L 73 of 10.3.2023, p. 5.
 
 ### 5.4 Special labelling
 
@@ -5138,7 +5337,7 @@ Annex 2.18[^t-37]
 
 ## Electrical and electronic equipment
 
-[^t-37]: Inserted by No II para. 1 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Revised by No 1 of the FOEN Ordinances of 27 Oct. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), No I of the FOEN O of 9 Sept. 2021 ([AS 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)), and of 28 October 2022, in force since 1 Dec. 2022 ([AS 2022 632](https://fedlex.data.admin.ch/eli/oc/2022/632)).
+[^t-37]: Inserted by No II para. 1 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Revised by No 1 of the FOEN Ordinances of 27 Oct. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), No I of the FOEN O of 9 Sept. 2021 ([AS 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)), and No I of the O of 27 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 749](https://fedlex.data.admin.ch/eli/oc/2023/749)).
 
 ### 1 Definitions
 
@@ -5196,7 +5395,7 @@ Annex 2.18[^t-37]
 
 The prohibitions specified in Number 2 do not apply to electrical and electronic equipment, cables and spare parts which contain substances included in Annexes III and IV to Directive 2011/65/EU[^annex218-lvlu1-lvl3-1] in the applications listed therein.
 
-[^annex218-lvlu1-lvl3-1]: Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment, OJ L 174, 1.7.2011, p. 88; last amended by Commission Delegated Directive (EU) 2022/1632, OJ L 245 of 22.9.2022, p. 48.
+[^annex218-lvlu1-lvl3-1]: Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment, OJ L 174, 1.7.2011, p. 88; last amended by Commission Delegated Directive (EU) 2023/1526, OJ L 185 of 24.7.2023, p. 26.
 
 ### 4 Requirements for economic operators
 

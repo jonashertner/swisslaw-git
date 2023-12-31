@@ -4,11 +4,11 @@ title: "Ordonnance du 18 mai 2005 sur la réduction des risques liés à l'utili
 short: ORRChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: fr
-version: 2023-10-01
+version: 2024-01-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20231001/fr/xml/fedlex-data-admin-ch-eli-cc-2005-478-20231001-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20231001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-478-20240101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20231001/fr"
 
 (Ordonnance sur la réduction des risques liés aux produits chimiques, ORRChim)
 
-du 18 mai 2005 (État le 1<sup>er</sup> octobre 2023)
+du 18 mai 2005 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -301,12 +301,13 @@ Il incombe à la Confédération:
 
 <sup>2</sup> Pour les substances, les préparations et les objets en rapport avec des installations et des activités qui servent à la défense nationale, l’exécution est régie par l’art. 82 de l’ordonnance du 5 juin 2015 sur les produits chimiques (OChim)[^16-2].[^16-3]
 
-<sup>3</sup> Pour les engrais, les dispositions d’exécution de l’ordonnance du 10 janvier 2001 sur la mise en circulation des engrais[^16-4] s’appliquent également.
+<sup>3</sup> Pour les engrais, les dispositions d’exécution de l’ordonnance du 1<sup>er</sup> novembre 2023 sur les engrais[^16-4] s’appliquent également.[^16-5]
 
 [^16-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 [^16-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 [^16-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> sept. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
 [^16-4]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^16-5]: Nouvelle teneur selon l’annexe 5 ch. II 3 de l’O du 1<sup>er</sup> nov. 2023 sur les engrais, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
 
 #### Art. 17
 
@@ -1311,7 +1312,7 @@ Il est interdit:
 - b. une mise en garde quant aux dangers de l’amiante pour l’homme et l’environnement et aux mesures de protection à prendre, conformément au modèle suivant:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20231001/fr/xml/image/image1.png)</td><td colspan="3">Chapeau H = 5 cm au moins</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240101/fr/xml/image/image1.png)</td><td colspan="3">Chapeau H = 5 cm au moins</td></tr>
 <tr><td></td><td colspan="3">B = 2,5 cm au moins</td></tr>
 <tr><td></td><td colspan="3">h<sub>1</sub> = 40 % de H</td></tr>
 <tr><td></td><td colspan="3">h<sub>2</sub> = 60 % de H</td></tr>
@@ -2362,8 +2363,8 @@ Annexe 1.17[^t-18]
 
 [^annex117-lvlu1-1]
 
-[^t-18]: Introduite par le ch. II al. 1 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Mise à jour par le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), le ch. I des O de l’OFEV du 27 oct. 2016 ([RO 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), du 10 janv 2017 ([RO 2017 173](https://fedlex.data.admin.ch/eli/oc/2017/48)), du 27 sept. 2018 ([RO 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), l’erratum du 26 fév. 2019 ([RO 2019 759](https://fedlex.data.admin.ch/eli/oc/2019/133)), le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), le ch. I de l’O de l’OFEV du 29 sept. 2020 ([RO 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)) et le ch. I de l’O du 5 avr. 2023, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 191](https://fedlex.data.admin.ch/eli/oc/2023/191)).
-[^annex117-lvlu1-1]: Règlement (CE) n<sup>o</sup> 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le règlement (CEE) n<sup>o</sup> 793/93 du Conseil et le règlement (CE) n<sup>o</sup> 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE, 93/67/CEE, 93/105/CE et 2000/21/CE de la Commission, JO L 396 du 30.12.2006, p. 1; modifié en dernier lieu par le règlement (UE) 2020/171, JO L 35 du 7.2.2020, p. 1.
+[^t-18]: Introduite par le ch. II al. 1 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Mise à jour par le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), le ch. I des O de l’OFEV du 27 oct. 2016 ([RO 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), du 10 janv 2017 ([RO 2017 173](https://fedlex.data.admin.ch/eli/oc/2017/48)), du 27 sept. 2018 ([RO 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), l’erratum du 26 fév. 2019 ([RO 2019 759](https://fedlex.data.admin.ch/eli/oc/2019/133)), le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), le ch. I de l’O de l’OFEV du 29 sept. 2020 ([RO 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)), le ch. I de l’O du 5 avr. 2023 ([RO 2023 191](https://fedlex.data.admin.ch/eli/oc/2023/191)) et le ch. I de l’O de l’OFEV du 27 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 749](https://fedlex.data.admin.ch/eli/oc/2023/749)).
+[^annex117-lvlu1-1]: Règlement (CE) n<sup>o</sup> 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le règlement (CEE) n<sup>o</sup> 793/93 du Conseil et le règlement (CE) n<sup>o</sup> 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE, 93/67/CEE, 93/105/CE et 2000/21/CE de la Commission, JO L 396 du 30.12.2006, p. 1; modifié en dernier lieu par le règlement (UE) 2022/586, JO L 112 du 11.4.2022, p. 6.
 
 ### 1 Interdiction
 
@@ -2435,7 +2436,7 @@ La mise sur le marché à des fins d’emploi des substances énumérées au ch.
 
 <sup>1</sup> Toute personne qui se procure auprès d’un fabricant ou d’un commerçant une des substances énumérées au ch. 5, al. 1, ou une préparation contenant une de ces substances et l’emploie à des fins professionnelles ou commerciales, doit communiquer à l’organe de réception des notifications, dans les trois mois suivant la première livraison, l’emploi prévu de cette substance ainsi que son numéro d’autorisation au sens du ch. 2, al. 4, ou son numéro d’autorisation de l’UE.
 
-<sup>1bis</sup> Toute personne qui emploie un des composés du chrome(VI) listés au ch. 5, al. 1, ch. 16 à 18, dans un procédé dont le produit fini ne contient pas de chrome sous forme hexavalente doit communiquer à l’organe de réception au plus tard le 31 mars de chaque année, les données suivantes concernant l’année précédente:
+<sup>1bis</sup> Toute personne qui emploie un des composés du chrome(VI) listés au ch. 5, al. 1, entrées 16 à 18, pour le chromage dur, le chromage décoratif ou le chromage noir ou dans un procédé dont le produit fini ne contient pas de chrome sous forme hexavalente doit communiquer à l’organe de réception, au plus tard le 31 mars de chaque année, les données suivantes concernant l’année précédente:
 
 - a. le nom et l’adresse de l’utilisateur;
 - b. le nom et le numéro CAS du composé du chrome(VI) ou le nom de la préparation qui contient le composé du chrome(VI) et le titre massique du composé du chrome(VI);
@@ -2474,10 +2475,10 @@ La mise sur le marché à des fins d’emploi des substances énumérées au ch.
 <tr><td>1.</td><td>5-tert-Butyl-2,4,6-trinitro-m-xylène (Musc-xylène) N<sup>o</sup> CE: 201-329-4 N<sup>o</sup> CAS: 81-15-2</td><td>vPvB</td><td>21 août 2014</td><td>–</td><td>–</td></tr>
 <tr><td>2.</td><td>4,4’-Diaminodiphénylméthane (MDA) N<sup>o</sup> CE: 202-974-4 N<sup>o</sup> CAS: 101-77-9</td><td>Cancérogène (de catégorie 1B)</td><td>21 août 2014</td><td>–</td><td>–</td></tr>
 <tr><td>3.</td><td>*…*</td><td>*…*</td><td>*…*</td><td>*…*</td><td>*…*</td></tr>
-<tr><td>4.</td><td>Phtalate de bis (2‑éthylhexyle) (DEHP) N<sup>o</sup> CE: 204-211-0 N<sup>o</sup> CAS: 117-81-7</td><td>Toxique pour la reproduction (de catégorie 1B)</td><td>21 février 2015</td><td>Emploi dans les conditionnements primaires des médicaments couverts par le règlement (CE) n<sup>o</sup> 726/2004[^annex117-lvlu1-lvl5-1], la directive 2001/82/CE[^annex117-lvlu1-lvl5-2] et/ou la directive 2001/83/CE[^annex117-lvlu1-lvl5-3].</td><td></td></tr>
-<tr><td>5.</td><td>Phtalate de benzyle et de butyle (BBP) N<sup>o</sup> CE: 201-622-7 N<sup>o</sup> CAS.: 85-68-7</td><td>Toxique pour la reproduction (de catégorie 1B)</td><td>21 février 2015</td><td>Emploi dans les conditionnements primaires des médicaments couverts par le règlement (CE) n<sup>o</sup> 726/2004, la directive 2001/82/CE et/ou la directive 2001/83/CE</td><td></td></tr>
-<tr><td>6.</td><td>Phtalate de dibutyle (DBP) N<sup>o</sup> CE: 201-557-4 N<sup>o</sup> CAS: 84-74-2</td><td>Toxique pour la reproduction (de catégorie 1B)</td><td>21 février 2015</td><td>Emploi dans les conditionnements primaires des médicaments couverts par le règlement (CE) n<sup>o</sup> 726/2004, la directive 2001/82/CE et/ou la directive 2001/83/CE</td><td></td></tr>
-<tr><td>7.</td><td>Phtalate de diisobutyle (DIBP) N<sup>o</sup> CE: 201-553-2 N<sup>o</sup> CAS: 84-69-5</td><td>Toxique pour la reproduction (de catégorie 1B)</td><td>21 février 2015</td><td>–</td><td>–</td></tr>
+<tr><td>4.</td><td>Phtalate de bis (2‑éthylhexyle) (DEHP) N<sup>o</sup> CE: 204-211-0 N<sup>o</sup> CAS: 117-81-7</td><td>Toxique pour la reproduction (de catégorie 1B) Propriétés perturbant le système endocrinien</td><td>21 février 2015</td><td>–</td><td>–</td></tr>
+<tr><td>5.</td><td>Phtalate de benzyle et de butyle (BBP) N<sup>o</sup> CE: 201-622-7 N<sup>o</sup> CAS: 85-68-7</td><td>Toxique pour la reproduction (de catégorie 1B) Propriétés perturbant le système endocrinien</td><td>21 février 2015</td><td>–</td><td>–</td></tr>
+<tr><td>6.</td><td>Phtalate de dibutyle (DBP) N<sup>o</sup> CE: 201-557-4 N<sup>o</sup> CAS: 84-74-2</td><td>Toxique pour la reproduction (de catégorie 1B) Propriétés perturbant le système endocrinien</td><td>21 février 2015</td><td>–</td><td>–</td></tr>
+<tr><td>7.</td><td>Phtalate de diisobutyle (DIBP) N<sup>o</sup> CE: 201-553-2 N<sup>o</sup> CAS: 84-69-5</td><td>Toxique pour la reproduction (de catégorie 1B) Propriétés perturbant le système endocrinien</td><td>21 février 2015</td><td>–</td><td>–</td></tr>
 <tr><td>8.</td><td>Trioxyde de diarsenic N<sup>o</sup> CE: 215-481-4 N<sup>o</sup> CAS: 1327-53-3</td><td>Cancérogène (de catégorie 1A)</td><td>21 mai 2015</td><td>–</td><td>–</td></tr>
 <tr><td>9.</td><td>Pentaoxyde de diarsenic N<sup>o</sup> CE: 215-116-9 N<sup>o</sup> CAS: 1303-28-2</td><td>Cancérogène (de catégorie 1A)</td><td>21 mai 2015</td><td>–</td><td>–</td></tr>
 <tr><td>10.</td><td>Chromate de plomb N<sup>o</sup> CE: 231-846-0 N<sup>o</sup> CAS: 7758-97-6</td><td>Cancérogène (de catégorie 1B) Toxique pour la reproduction (de catégorie 1A)</td><td>21 mai 2015</td><td>–</td><td>–</td></tr>
@@ -2486,9 +2487,9 @@ La mise sur le marché à des fins d’emploi des substances énumérées au ch.
 <tr><td>13.</td><td>Phosphate de tris (2‑chloroéthyle) (TCEP) N<sup>o</sup> CE: 204-118-5 N<sup>o</sup> CAS: 115-96-8</td><td>Toxique pour la reproduction (de catégorie 1B)</td><td>21 août 2015</td><td></td><td></td></tr>
 <tr><td>14.</td><td>2,4-dinitrotoluène (2,4‑DNT) N<sup>o</sup> CE: 204-450-0 N<sup>o</sup> CAS: 121-14-2</td><td>Cancérogène (de catégorie 1B)</td><td>21 août 2015</td><td></td><td></td></tr>
 <tr><td>15.</td><td>Trichloroéthylène N<sup>o</sup> CE: 201-167-4 N<sup>o</sup> CAS: 79-01-6</td><td>Cancérogène (de catégorie 1B)</td><td>1<sup>er</sup> décembre 2019</td><td>–</td><td>–</td></tr>
-<tr><td>16.</td><td>Trioxyde de chrome N<sup>o</sup> CE: 215-607-8 N<sup>o</sup> CAS: 1333-82-0</td><td>Cancérogène (de catégorie 1A) Mutagène (de catégorie 1B)</td><td>1<sup>er juin</sup> 2021</td><td>Emploi dans des procédés, dans la mesure où le chrome présent dans les produits finaux ne l’est pas sous forme hexavalente</td><td>–</td></tr>
-<tr><td>17.</td><td>Acides générés à partir du trioxyde de chrome et leurs oligomères Groupe comprenant: Acide chromique N<sup>o</sup> CE: 231-801-5 N<sup>o</sup> CAS: 7738-94-5 Acide dichromique N<sup>o</sup> CE: 236-881-5 N<sup>o</sup> CAS: 13530-68-2 Oligomères de l’acide chromique et de l’acide dichromique N<sup>o</sup> CE: non encore attribué N<sup>o</sup> CAS: non encore attribué</td><td>Cancérogène (de catégorie 1B)</td><td>1<sup>er juin</sup> 2021</td><td>Emploi dans des procédés, dans la mesure où le chrome présent dans les produits finaux ne l’est pas sous forme hexavalente</td><td>–</td></tr>
-<tr><td>18.</td><td>Dichromate de sodium N<sup>o</sup> CE: 234-190-3 N<sup>os</sup> CAS: 7789-12-0 10588-01-9</td><td>Cancérogène (de catégorie 1B) Mutagène (de catégorie 1B) Toxique pour la reproduction (de catégorie 1B)</td><td>1<sup>er juin</sup> 2021</td><td>Emploi dans des procédés, dans la mesure où le chrome présent dans les produits finaux ne l’est pas sous forme hexavalente</td><td>–</td></tr>
+<tr><td>16.</td><td>Trioxyde de chrome N<sup>o</sup> CE: 215-607-8 N<sup>o</sup> CAS: 1333-82-0</td><td>Cancérogène (de catégorie 1A) Mutagène (de catégorie 1B)</td><td>1<sup>er</sup> juin 2021</td><td>Chromage dur, chromage décoratif et chromage noir</td><td>–</td></tr>
+<tr><td>17.</td><td>Acides générés à partir du trioxyde de chrome et leurs oligomères Groupe comprenant: Acide chromique N<sup>o</sup> CE: 231-801-5 N<sup>o</sup> CAS: 7738-94-5 Acide dichromique N<sup>o</sup> CE: 236-881-5 N<sup>o</sup> CAS: 13530-68-2 Oligomères de l’acide chromique et de l’acide dichromique N<sup>o</sup> CE: non encore attribué N<sup>o</sup> CAS: non encore attribué</td><td>Cancérogène (de catégorie 1B)</td><td>1<sup>er</sup> juin 2021</td><td>Chromage dur, chromage décoratif et chromage noir</td><td>–</td></tr>
+<tr><td>18.</td><td>Dichromate de sodium N<sup>o</sup> CE: 234-190-3 N<sup>os</sup> CAS: 7789-12-0 10588-01-9</td><td>Cancérogène (de catégorie 1B) Mutagène (de catégorie 1B) Toxique pour la reproduction (de catégorie 1B)</td><td>1<sup>er</sup> juin 2021</td><td>Chromage dur, chromage décoratif et chromage noir</td><td>–</td></tr>
 <tr><td>19.</td><td>Dichromate de potassium N<sup>o</sup> CE: 231‑906-6 N<sup>o</sup> CAS: 7778-50-9</td><td>Cancérogène (de catégorie 1B) Mutagène (de catégorie 1B) Toxique pour la reproduction (de catégorie 1B)</td><td>1<sup>er juin</sup> 2021</td><td>–</td><td>–</td></tr>
 <tr><td>20.</td><td>Dichromate d’ammonium N<sup>o</sup> CE: 232-143-1 N<sup>o</sup> CAS: 7789-09-5</td><td>Cancérogène (de catégorie 1B) Mutagène (de catégorie 1B) Toxique pour la reproduction (de catégorie 1B)</td><td>1<sup>er juin</sup> 2021</td><td>–</td><td>–</td></tr>
 <tr><td>21.</td><td>Chromate de potassium N<sup>o</sup> CE: 232-140-5 N<sup>o</sup> CAS: 7789-00-6</td><td>Cancérogène (de catégorie 1B) Mutagène (de catégorie 1B)</td><td>1<sup>er juin</sup> 2021</td><td>–</td><td>–</td></tr>
@@ -2525,6 +2526,11 @@ La mise sur le marché à des fins d’emploi des substances énumérées au ch.
 <tr><td>52.</td><td>2,4-Di-tert-butyl-6-(5-chlorbenzotriazol-2- yl)phenol (UV-327) N<sup>o</sup> CE: 223-383-8 N<sup>o</sup> CAS: 3864-99-1</td><td>vPvB</td><td>2 août 2024</td><td></td><td></td></tr>
 <tr><td>53.</td><td>2-(2H-Benzotriazol-2-yl)-4-(tert-butyl)-6-(sec-butyl)phénol (UV-350) N<sup>o</sup> CE: 253-037-1 N<sup>o</sup> CAS: 36437-37-3</td><td>vPvB</td><td>2 août 2024</td><td></td><td></td></tr>
 <tr><td>54.</td><td>2-Benzotriazol-2-yl-4,6-di-tert-butylphénol (UV-320) N<sup>o</sup> CE: 223-346-6 N<sup>o</sup> CAS: 3846-71-7</td><td>PBT, vPvB</td><td>2 août 2024</td><td></td><td></td></tr>
+<tr><td>55.</td><td>Plomb tétraéthyle N<sup>o</sup> CE: 201-075-4 N<sup>o</sup> CAS: 78-00-2</td><td>Toxique pour la reproduction (de catégorie 1A)</td><td>1<sup>er</sup> janvier 2027</td><td>–</td><td>–</td></tr>
+<tr><td>56.</td><td>Alcool 4,4’-bis(diméthylamino)-4”-(méthylamino)tritylique [avec ≥ 0,1 % de cétone de Michler (N<sup>o</sup> CE: 202-027-5) ou de base de Michler (N<sup>o</sup> CE: 202-959-2)] N<sup>o</sup> CE: 209-218-2 N<sup>o</sup> CAS: 561-41-1</td><td>Cancérogène (de catégorie 1B)</td><td>1<sup>er</sup> janvier 2027</td><td>–</td><td>–</td></tr>
+<tr><td>57.</td><td>Produits de réaction de la 1,3,4-thiadiazolidine-2,5-dithione, du formaldéhyde et du 4‑heptylphénol, ramifié et linéaire (PR-HP) (avec ≥ 0,1 % 4‑heptylphénol, ramifié et linéaire) N<sup>o</sup> CE: — N<sup>o</sup> CAS: —</td><td>Propriétés perturbant le système endocrinien</td><td>1<sup>er</sup> janvier 2027</td><td>–</td><td>–</td></tr>
+<tr><td>58.</td><td>10-éthyl-4,4-dioctyl-7-oxo-8-oxa-3,5-dithia- 4-stannatétradécanoate de 2-éthylhexyle (DOTE) N<sup>o</sup> CE: 239-622-4 N<sup>o</sup> CAS: 15571-58-1</td><td>Toxique pour la reproduction (de catégorie 1B)</td><td>1<sup>er</sup> janvier 2027</td><td>–</td><td>–</td></tr>
+<tr><td>59.</td><td>Masse de réaction du 10-éthyl-4,4-dioctyl-7-oxo- 8-oxa-3,5-dithia-4-stannatétradécanoate de 2-éthylhexyle et du 10-éthyl-4-[[2-[(2-éthylhexyl)oxy]-2-oxoéthyl]thio]- 4-octyl-7-oxo-8-oxa-3,5-dithia-4-stannatétradécanoate de 2-éthylhexyle (masse de réaction du DOTE et du MOTE) N<sup>o</sup> CE: N<sup>o</sup> CAS:</td><td>Toxique pour la reproduction (de catégorie 1B)</td><td>1<sup>er</sup> janvier 2027</td><td>–</td><td>–</td></tr>
 </table>
 
 <sup>1bis</sup> Pour les substances des entrées n<sup>o</sup> 4 à 7, 10 à 12, ainsi que 14 et 15, un délai transitoire jusqu’au 1<sup>er</sup> mai 2021 s’applique en outre pour les emplois suivants:
@@ -2537,12 +2543,20 @@ La mise sur le marché à des fins d’emploi des substances énumérées au ch.
 - a. production d’une pièce de rechange destinée à la réparation d’un objet lorsque la substance concernée est ou a été employée dans la production de cet objet et que celui-ci ne peut fonctionner comme prévu sans cette pièce de rechange;
 - b. réparation d’un objet lorsque la substance concernée est ou a été employée dans la production de cet objet et que celui-ci ne peut être réparé autrement qu’en utilisant cette substance.
 
-<sup>2</sup> Après entente avec l’OFSP et le SECO, l’OFEV adapte les dispositions de l’al. 1. Ce faisant, il prend en considération les modifications de l’annexe XIV du règlement (CE) n<sup>o</sup> 1907/2006[^annex117-lvlu1-lvl5-4] et les inscriptions à l’annexe 3 de l’OChim.
+<sup>1quater</sup> Des délais transitoires s’appliquent en outre pour les emplois suivants:
 
-[^annex117-lvlu1-lvl5-1]: Règlement (CE) n<sup>o</sup> 726/2004 du Parlement européen et du Conseil du 31 mars 2004 établissant des procédures communautaires pour l’autorisation et la surveillance en ce qui concerne les médicaments à usage humain et à usage vétérinaire, et instituant une Agence européenne des médicaments, JO L 136 du 30.4.2004, p. 1; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 1027/2012, JO L 316 du 14.11.2012, p. 38.
-[^annex117-lvlu1-lvl5-2]: Directive 2001/82/CE du Parlement européen et du Conseil du 6 novembre 2001 instituant un code communautaire relatif aux médicaments vétérinaires, JO L 311 du 28.11.2001, p. 1; modifiée en dernier lieu par le règlement (CE) n<sup>o</sup> 596/2009, JO L 188 du 18.7.2009, p. 14.
-[^annex117-lvlu1-lvl5-3]: Directive 2001/83/CE du Parlement européen et du Conseil du 6 novembre 2001 instituant un code communautaire relatif aux médicaments à usage humain, JO L 311 du 28.11.2001, p. 67; modifiée en dernier lieu par le règlement (UE) 2017/745, JO L 117 du 5.5.2017, p. 1.
-[^annex117-lvlu1-lvl5-4]: Voir la note relative au titre de la présente annexe.
+- a. concernant les substances des entrées n<sup>o</sup> 4 à 7 dans des préparations à des concentrations inférieures à 0,3 %: jusqu’au 1<sup>er</sup> janvier 2027;
+- b. concernant les substances des entrées n<sup>o</sup> 4 à 6 dans les conditionnements primaires de médicaments: jusqu’au 1<sup>er</sup> janvier 2027;
+- c. concernant la substance de l’entrée n<sup>o</sup> 4 dans les objets et matériaux soumis à l’ordonnance du 16 décembre 2016 sur les denrées alimentaires et les objets usuels[^annex117-lvlu1-lvl5-1]: jusqu’au 1<sup>er</sup> janvier 2027;
+- d. concernant la substance de l’entrée n<sup>o</sup> 4 dans des dispositifs médicaux soumis à l’ordonnance du 1<sup>er</sup> juillet 2020 sur les dispositifs médicaux[^annex117-lvlu1-lvl5-2]: jusqu’au 1<sup>er</sup> juillet 2027.
+
+<sup>1quinquies</sup> Pour les substances des entrées n<sup>o</sup> 16 à 18, un délai transitoire jusqu’au 1<sup>er</sup> janvier 2026 s’applique en outre pour les emplois dans des procédés dont les produits finis ne contiennent pas de chrome sous forme hexavalente.
+
+<sup>2</sup> Après entente avec l’OFSP et le SECO, l’OFEV adapte les dispositions de l’al. 1. Ce faisant, il prend en considération les modifications de l’annexe XIV du règlement (CE) n<sup>o</sup> 1907/2006[^annex117-lvlu1-lvl5-3] et les inscriptions à l’annexe 3 de l’OChim.
+
+[^annex117-lvlu1-lvl5-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex117-lvlu1-lvl5-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^annex117-lvlu1-lvl5-3]: Voir la note relative au titre de la présente annexe.
 
 Annexe 1.18[^t-19]
 
@@ -3561,11 +3575,11 @@ Annexe 2.6[^t-25]
 
 ## Engrais
 
-[^t-25]: Mise à jour par l’annexe de l’O du 14 nov. 2007 ([RO 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)), l’annexe 9 ch. 1 de l’O du 23 oct. 2013 sur les paiements directs ([RO 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), l’annexe ch. 2 de l’O du 4 nov. 2015 ([RO 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), l’annexe 6 ch. 11 de l’O du 4 déc. 2015 sur les déchets ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), l’annexe ch. 2 de l’O du 31 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681)) et l’erratum du 7 mai 2019 ([RO 2019 1339](https://fedlex.data.admin.ch/eli/oc/2019/260)).
+[^t-25]: Mise à jour par l’annexe de l’O du 14 nov. 2007 ([RO 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)), l’annexe 9 ch. 1 de l’O du 23 oct. 2013 sur les paiements directs ([RO 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), l’annexe ch. 2 de l’O du 4 nov. 2015 ([RO 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)) et l’annexe 5 ch. II 3 de l’O du 1<sup>er</sup> nov. 2023 sur les engrais, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
 
 ### 1 Définitions
 
-<sup>1</sup> La présente annexe reprend les termes employés dans l’ordonnance du 10 janvier 2001 sur la mise en circulation des engrais (OEng)[^annex26-lvlu1-lvl1-1].
+<sup>1</sup> La présente annexe reprend les termes employés dans l’ordonnance du 1<sup>er</sup> novembre 2023 sur les engrais (OEng)[^annex26-lvlu1-lvl1-1].
 
 <sup>2</sup> On entend par surfaces fourragères les prés et les pâturages ainsi que les terres assolées dont les récoltes sont entièrement ou partiellement employées comme fourrage. Ce terme ne s’applique pas aux terres assolées dont la récolte se limite aux grains ou aux épis.
 
@@ -3579,22 +3593,192 @@ Annexe 2.6[^t-25]
 
 <sup>2</sup> Il est interdit de remettre des boues d’épuration.
 
-### 2.2 Exigences concernant la qualité
+### 2.2 Exigences de qualité
 
-### 2.2.1 Engrais organiques, engrais de recyclage, à l’exception des engrais minéraux de recyclage, et engrais de ferme
+### 2.2.1 Exigences concernant les catégories fonctionnelles de produits (PFC)
 
-<sup>1</sup> La teneur en polluants des engrais organiques, des engrais de recyclage, à l’exception des engrais minéraux de recyclage, et des engrais de ferme ne doit pas dépasser les valeurs limites suivantes:
+### 2.2.1.1 Engrais organiques PFC 1(A)
+
+<sup>1</sup> Les teneurs en polluants des engrais organiques ne doivent pas dépasser les valeurs limites suivantes:
 
 <table>
-<tr><th>Polluant</th><th>Valeur limite en grammes par tonne de matière sèche</th></tr>
+<tr><th>Polluant</th><th>Valeurs limites en milligrammes par kilogramme de matière sèche</th></tr>
+<tr><td>Arsenic inorganique (As)</td><td>40</td></tr>
+<tr><td>Cadmium (Cd)</td><td>1</td></tr>
+<tr><td>Chrome (Cr)</td><td>2000∗</td></tr>
+<tr><td>Chrome hexavalent (Cr VI)</td><td>2</td></tr>
+<tr><td>Cuivre (Cu)</td><td>100∗∗</td></tr>
+<tr><td>Mercure (Hg)</td><td>1</td></tr>
+<tr><td>Nickel (Ni)</td><td>30</td></tr>
 <tr><td>Plomb (Pb)</td><td>120</td></tr>
+<tr><td>Zinc (Zn)</td><td>400∗∗∗</td></tr>
+<tr><td colspan="2">∗ applicable uniquement aux produits tirés de matières animales ∗∗ à partir d’une teneur supérieure à 50 % de déjections de porcs, par rapport à la matière sèche 150 g/t MS ∗∗∗ à partir d’une teneur supérieure à 50 % de déjections de porcs, par rapport à la matière sèche 600 g/t MS</td></tr>
+</table>
+
+<sup>2</sup> Les engrais organiques ne doivent pas contenir de biuret (C<sub>2</sub>H<sub>5</sub>N<sub>3</sub>O<sub>2</sub>).
+
+### 2.2.1.2 Engrais organo-minéraux PFC 1(B)
+
+<sup>1</sup> Les teneurs en polluants des engrais organo-minéraux ne doivent pas dépasser les valeurs limites suivantes:
+
+<table>
+<tr><th>Polluant</th><th>Valeurs limites en milligrammes par kilogramme de matière sèche</th><th>Valeur limite en milligramme par kilogramme de phosphore (P)</th></tr>
+<tr><td>Arsenic inorganique (As)</td><td>40</td><td></td></tr>
+<tr><td>Cadmium (Cd) dans les engrais avec une teneur en phosphore (P) de 5 % ou inférieure</td><td>1</td><td></td></tr>
+<tr><td>Cadmium (Cd) dans les engrais avec une teneur en phosphore (P) de plus de 5 %</td><td></td><td>50</td></tr>
+<tr><td>Chrome (Cr)</td><td>2000∗</td><td></td></tr>
+<tr><td>Chrome hexavalent (Cr VI)</td><td>2</td><td></td></tr>
+<tr><td>Cuivre (Cu)</td><td>100∗∗</td><td></td></tr>
+<tr><td>Mercure (Hg)</td><td>1</td><td></td></tr>
+<tr><td>Nickel (Ni)</td><td>30</td><td></td></tr>
+<tr><td>Plomb (Pb)</td><td>120</td><td></td></tr>
+<tr><td>Zinc (Zn)</td><td>400∗∗∗</td><td></td></tr>
+<tr><td colspan="3">∗ applicable uniquement aux produits tirés de matières animales ∗∗ à partir d’une teneur supérieure à 50 % de déjections de porcs, par rapport à la matière sèche 150 g/t MS ∗∗∗ à partir d’une teneur supérieure à 50 % de déjections de porcs, par rapport à la matière sèche 600 g/t MS Les valeurs limites en cuivre et zinc ne s’appliquent pas lorsque ces éléments ont été ajoutés intentionnellement à un engrais organo-minéral en vue de pallier la carence d’un sol en oligo-éléments et qu’ils sont déclarés conformément aux prescriptions d’étiquetage</td></tr>
+</table>
+
+<sup>2</sup> La teneur en biuret (C<sub>2</sub>H<sub>5</sub>N<sub>3</sub>O<sub>2</sub>) dans les engrais organo-minéraux ne doit pas dépasser 12 g/kg de matière sèche.
+
+### 2.2.1.3 Engrais inorganiques à macroéléments PFC 1(C)(I)
+
+<sup>1</sup> Les teneurs en polluants des engrais inorganiques à macroéléments ne doivent pas dépasser les valeurs suivantes:
+
+<table>
+<tr><th colspan="2">Polluant</th><th>Valeurs limites en milligrammes par kilogramme de matière sèche</th><th colspan="2">Valeur limite en milligramme par kilogramme de phosphore (P)</th></tr>
+<tr><td>Arsenic (As)</td><td colspan="3">40</td><td></td></tr>
+<tr><td>Cadmium (Cd) dans les engrais avec une teneur en phosphore (P) de 1 % ou inférieure</td><td colspan="3">3</td><td></td></tr>
+<tr><td>Cadmium (Cd) dans les engrais avec une teneur en phosphore (P) de plus de 1 %</td><td colspan="3"></td><td>50</td></tr>
+<tr><td>Chrome (Cr)</td><td colspan="3">2000</td><td></td></tr>
+<tr><td>Chrome hexavalent (Cr VI)</td><td colspan="3">2</td><td></td></tr>
+<tr><td>Cuivre (Cu)</td><td colspan="3">600</td><td></td></tr>
+<tr><td>Mercure (Hg)</td><td colspan="3">1</td><td></td></tr>
+<tr><td>Nickel (Ni)</td><td colspan="3">100</td><td></td></tr>
+<tr><td>Plomb (Pb)</td><td colspan="3">120</td><td></td></tr>
+<tr><td>Vanadium (V)</td><td colspan="3">4000</td><td></td></tr>
+<tr><td>Zinc (Zn)</td><td colspan="3">1500</td><td></td></tr>
+<tr><td>Perchlorate (ClO<sub>4</sub><sup>-</sup>)</td><td colspan="3">50</td><td></td></tr>
+<tr><td colspan="5">Les valeurs limites en cuivre et zinc ne s’appliquent pas lorsque ces éléments ont été ajoutés intentionnellement à un engrais inorganique à macroélément en vue de pallier la carence d’un sol en oligo-éléments et qu’ils sont déclarés conformément aux prescriptions d’étiquetage</td></tr>
+</table>
+
+<sup>2</sup> La teneur en biuret (C<sub>2</sub>H<sub>5</sub>N<sub>3</sub>O<sub>2</sub>) dans les engrais inorganiques à macroéléments ne doit pas dépasser 12 g/kg de matière sèche.
+
+<sup>3</sup> Dans les engrais inorganiques solides simples ou composés à base de nitrate d’ammonium à forte teneur en azote (PFC 1(C)(I)(a)(i)(A) et PFC 1(C)(I)(a)(ii)(A)) la teneur en cuivre (Cu) ne doit pas dépasser 10 mg/kg et la teneur en chlore (Cl) 200 mg/kg.
+
+### 2.2.1.4 Engrais inorganiques à oligo-éléments PFC 1(C)(II)
+
+Les teneurs en polluants des engrais inorganiques à oligo-éléments ne doivent pas dépasser les valeurs suivantes:
+
+<table>
+<tr><th>Polluant</th><th>Valeurs limites exprimées en mg, par rapport à la teneur totale en oligo-éléments exprimée en kg. [mg/kg de teneur totale en oligo-éléments à savoir bore (B), cobalt (Co), cuivre (Cu), fer (Fe), manganèse (Mn), molybdène (Mo) et zinc (Zn)]</th></tr>
+<tr><td>Arsenic (As)</td><td>1000</td></tr>
+<tr><td>Cadmium (Cd)</td><td>200</td></tr>
+<tr><td>Plomb (Pb)</td><td>600</td></tr>
+<tr><td>Mercure (Hg)</td><td>100</td></tr>
+<tr><td>Nickel (Ni)</td><td>2000</td></tr>
+</table>
+
+### 2.2.1.5 Amendement minéral basique PFC 2
+
+Les teneurs en polluants des amendements minéraux basiques ne doivent pas dépasser les valeurs limites suivantes:
+
+<table>
+<tr><th>Polluant</th><th>Valeurs limites en milligrammes par kilogramme de matière sèche</th></tr>
+<tr><td>Arsenic (As)</td><td>40</td></tr>
+<tr><td>Cadmium (Cd)</td><td>2</td></tr>
+<tr><td>Chrome hexavalent (Cr VI)</td><td>2</td></tr>
+<tr><td>Cuivre (Cu)</td><td>300</td></tr>
+<tr><td>Mercure (Hg)</td><td>1</td></tr>
+<tr><td>Nickel (Ni)</td><td>90</td></tr>
+<tr><td>Plomb (Pb)</td><td>120</td></tr>
+<tr><td>Zinc (Zn)</td><td>800</td></tr>
+</table>
+
+### 2.2.1.6 Amendement organique du sol PFC 3(A)
+
+Les teneurs en polluants des amendements organiques du sol ne doivent pas dépasser les valeurs limites suivantes:
+
+<table>
+<tr><th>Polluant</th><th>Valeurs limites en milligrammes par kilogramme de matière sèche</th></tr>
+<tr><td>Arsenic inorganique (As)</td><td>40</td></tr>
+<tr><td>Cadmium (Cd)</td><td>2</td></tr>
+<tr><td>Chrome hexavalent (Cr VI)</td><td>2</td></tr>
+<tr><td>Cuivre (Cu)</td><td>300</td></tr>
+<tr><td>Mercure (Hg)</td><td>1</td></tr>
+<tr><td>Nickel (Ni)</td><td>50</td></tr>
+<tr><td>Plomb (Pb)</td><td>120</td></tr>
+<tr><td>Zinc (Zn)</td><td>800</td></tr>
+</table>
+
+### 2.2.1.7 Amendement inorganique du sol PFC 3(B)
+
+Les teneurs en polluants des amendements inorganiques du sol ne doivent pas dépasser les valeurs limites suivantes:
+
+<table>
+<tr><th>Polluant</th><th>Valeurs limites en milligrammes par kilogramme de matière sèche</th></tr>
+<tr><td>Arsenic inorganique (As)</td><td>40</td></tr>
+<tr><td>Cadmium (Cd)</td><td>1,5</td></tr>
+<tr><td>Chrome hexavalent (Cr VI)</td><td>2</td></tr>
+<tr><td>Cuivre (Cu)</td><td>300</td></tr>
+<tr><td>Mercure (Hg)</td><td>1</td></tr>
+<tr><td>Nickel (Ni)</td><td>100</td></tr>
+<tr><td>Plomb (Pb)</td><td>120</td></tr>
+<tr><td>Zinc (Zn)</td><td>800</td></tr>
+</table>
+
+### 2.2.1.8 Support de culture PFC 4
+
+<sup>1</sup> Les teneurs en polluants des supports de culture ne doivent pas dépasser les valeurs limites suivantes:
+
+<table>
+<tr><th>Polluant</th><th>Valeurs limites en milligrammes par kilogramme de matière sèche</th></tr>
+<tr><td>Arsenic inorganique (As)</td><td>40</td></tr>
+<tr><td>Cadmium (Cd)</td><td>1,5</td></tr>
+<tr><td>Chrome hexavalent (Cr VI)</td><td>2</td></tr>
+<tr><td>Cuivre (Cu)</td><td>200</td></tr>
+<tr><td>Mercure (Hg)</td><td>1</td></tr>
+<tr><td>Nickel (Ni)</td><td>50\*</td></tr>
+<tr><td>Plomb (Pb)</td><td>120</td></tr>
+<tr><td>Zinc (Zn)</td><td>500</td></tr>
+<tr><td colspan="2">\* Pour les supports de culture composés de plus de 70% de matières minérales, la limite s’applique à la teneur biodisponible du polluant.</td></tr>
+</table>
+
+<sup>2</sup> Les valeurs indicatives suivantes s’appliquent aux supports de culture:
+
+<table>
+<tr><th>Polluant</th><th>Valeur indicative</th></tr>
+<tr><td>Hydrocarbures aromatiques polycycliques (HAP)</td><td>4 milligrammes par kilogramme de matière sèche<sup>1</sup></td></tr>
+<tr><td>Dioxines (PCDD) et furanes (PCDF)</td><td>20 nanogrammes WHO<sub>2005</sub>-TEQ<sup>2</sup> par kilogramme de matière sèche</td></tr>
+<tr><td colspan="2">1 Somme des 16 principaux composés de HAP (liste des Priority pollutants de l’EPA/USA): naphthalène, acénaphthylène, acénaphtène, fluorène, phénantrène, anthracène, fluoranthène, pyrène, benzo(a)anthracène, chrysène, benzo(b)fluoranthène, benzo(k)fluoranthène, benzo(a)pyrène, indéno(1,2,3-c,d)pyrène, dibenzo(a,h)anthracène et benzo(g,h,i)pérylène. <sup>2</sup> Équivalents toxiques selon les recommandations de l’Organisation mondiale de la santé (OMS) suite à une consultation d’expertes et d’experts en 2005. Référence: Martin van den Berg et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological sciences 93(2):223-241. http://doi.org/10.1093/toxsci/kfl055.</td></tr>
+</table>
+
+### 2.2.1.9 Biostimulant des végétaux PFC 6
+
+Les teneurs en polluants des biostimulants des végétaux ne doivent pas dépasser les valeurs limites suivantes:
+
+<table>
+<tr><th>Polluant</th><th>Valeurs limites en milligrammes par kilogramme de matière sèche</th></tr>
+<tr><td>Arsenic inorganique (As)</td><td>40</td></tr>
+<tr><td>Cadmium (Cd)</td><td>1,5</td></tr>
+<tr><td>Chrome hexavalent (Cr VI)</td><td>2</td></tr>
+<tr><td>Cuivre (Cu)</td><td>600</td></tr>
+<tr><td>Mercure (Hg)</td><td>1</td></tr>
+<tr><td>Nickel (Ni)</td><td>50</td></tr>
+<tr><td>Plomb (Pb)</td><td>120</td></tr>
+<tr><td>Zinc (Zn)</td><td>1500</td></tr>
+</table>
+
+### 2.2.1.10 Engrais de ferme PFC 100 et engrais de recyclage PFC 101
+
+<sup>1</sup> Les teneurs en polluants des engrais de ferme et des engrais de recyclage ne doivent pas dépasser les valeurs limites suivantes:
+
+<table>
+<tr><th>Polluant</th><th>Valeurs limites en milligrammes par kilogramme de matière sèche</th></tr>
 <tr><td>Cadmium (Cd)</td><td>1</td></tr>
 <tr><td>Cuivre (Cu)</td><td>100\*</td></tr>
-<tr><td>Nickel (Ni)</td><td>30</td></tr>
 <tr><td>Mercure (Hg)</td><td>1</td></tr>
+<tr><td>Nickel (Ni)</td><td>30</td></tr>
+<tr><td>Plomb (Pb)</td><td>120</td></tr>
 <tr><td>Zinc (Zn)</td><td>400\*\*</td></tr>
-<tr><td colspan="2">\* à partir d’une teneur supérieure à 50 % de déjections de porcs, par rapport à la matière sèche 150 g/t MS</td></tr>
-<tr><td colspan="2">\*\* à partir d’une teneur supérieure à 50 % de déjections de porcs, par rapport à la matière sèche 600 g/t MS</td></tr>
+<tr><td colspan="2">∗ à partir d’une teneur supérieure à 50 % de déjections de porcs, par rapport à la matière sèche 150 g/t MS. ∗∗ à partir d’une teneur supérieure à 50 % de déjections de porcs, par rapport à la matière sèche 600 g/t MS</td></tr>
 </table>
 
 <sup>2</sup> Pour le compost et les digestats, les exigences suivantes concernant les substances étrangères inertes sont également applicables:
@@ -3606,60 +3790,71 @@ Annexe 2.6[^t-25]
 <sup>3</sup> Les valeurs indicatives suivantes s’appliquent au compost et aux digestats:
 
 <table>
-<tr><td>Polluant</td><td>Valeur indicative</td></tr>
-<tr><td>Hydrocarbures aromatiques polycycliques (HAP)</td><td>4 grammes par tonne de matière sèche<sup>1</sup></td></tr>
-<tr><td>Dioxines (PCDD) et furanes (PCDF)</td><td>20 nanogrammes I-TEQ<sup>2</sup> par kilogramme de matière sèche</td></tr>
-<tr><td colspan="2">1 Somme des 16 principaux composés de HAP (liste des Priority pollutants de l’EPA/USA): naphthalène, acénaphthylène, acénaphtène, fluorène, phénantrène, anthracène, fluoranthène, pyrène, benzo(a)anthracène, chrysène, benzo(b)fluoranthène, benzo(k)fluoranthène, benzo(a)pyrène, indéno(1,2,3-c,d)pyrène, dibenzo(a,h)anthracène et benzo(g,h,i)pérylène.</td></tr>
-<tr><td colspan="2"><sup>2</sup> I-TEQ = Équivalents de toxicité internationaux</td></tr>
+<tr><th>Polluant</th><th>Valeur indicative</th></tr>
+<tr><td>Hydrocarbures aromatiques polycycliques (HAP)</td><td>4 milligrammes par kilogramme de matière sèche<sup>1</sup></td></tr>
+<tr><td>Dioxines (PCDD) et furanes (PCDF)</td><td>20 nanogrammes WHO<sub>2005</sub>-TEQ<sup>2</sup> par kilogramme de matière sèche</td></tr>
+<tr><td colspan="2">1 Somme des 16 principaux composés de HAP (liste des Priority pollutants de l’EPA/USA): naphthalène, acénaphthylène, acénaphtène, fluorène, phénantrène, anthracène, fluoranthène, pyrène, benzo(a)anthracène, chrysène, benzo(b)fluoranthène, benzo(k)fluoranthène, benzo(a)pyrène, indéno(1,2,3-c,d)pyrène, dibenzo(a,h)anthracène et benzo(g,h,i)pérylène. <sup>2</sup> Équivalents toxiques selon les recommandations de l’Organisation mondiale de la santé (OMS) suite à une consultation d’expertes et d’experts en 2005. Référence: Martin van den Berg et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-Like Compounds. Toxicological sciences 93(2):223-241. http://doi.org/10.1093/toxsci/kfl055.</td></tr>
 </table>
 
-<sup>4</sup> Les dispositions de l’al. 1 ne s’appliquent pas aux engrais de ferme destinés à être utilisés dans l’exploitation de production, ni aux engrais provenant d’une exploitation pratiquant l’élevage d’animaux et qui sont remis directement aux utilisateurs finals. Les dispositions de l’art. 30*a*, al. 2, OEng, sont aussi réservées.
+<sup>4</sup> Les dispositions de l’al. 1 ne s’appliquent pas aux engrais de ferme destinés à être utilisés dans l’exploitation de production, ni aux engrais provenant d’une exploitation pratiquant l’élevage d’animaux et qui sont remis directement aux utilisateurs finals. Les dispositions de l’art. 10, OEng, sont aussi réservées.
 
-### 2.2.2 Engrais minéraux et produits tirés de matières animales
+### 2.2.2 Exigences concernant les catégories de matières constitutives (CMC)
 
-La teneur en polluants des engrais minéraux et des produits tirés de matières animales ne doit pas dépasser les valeurs limites suivantes:
+### 2.2.2.1 Compost (CMC 3), digestat issu de cultures végétales (CMC 4) et digestat autre qu’issu de cultures végétales (CMC 5)
 
-<table>
-<tr><th>Polluant</th><th colspan="2">Valeur limite en grammes par tonne</th></tr>
-<tr><th></th><th>de matière sèche</th><th>Phosphore (P)</th></tr>
-<tr><td>Cadmium (Cd) dans les engrais phosphorés contenant plus de 1 % de phosphore</td><td></td><td>50</td></tr>
-<tr><td>Chrome (Cr)</td><td>2000</td><td></td></tr>
-<tr><td>Vanadium (V)</td><td>4000</td><td></td></tr>
-</table>
+Les exigences de qualité définies au chiffre 2.2.1.10 s’appliquent également au compost et au digestat en tant que matières constitutives d’un engrais.
 
-### 2.2.3 Engrais organo-minéraux
+### 2.2.2.2 Sels de phosphate précipités et leurs dérivés (CMC 12) et matières obtenues par oxydation thermique et leurs dérivés (CMC 13)
 
-La teneur en polluants des engrais organo-minéraux ne doit pas dépasser les valeurs limites fixées au ch. 2.2.1; cependant, avec une part en phosphore de plus de 5 %, la valeur limite du cadmium fixée au ch. 2.2.2 doit être appliquée.
-
-### 2.2.4 Engrais minéraux de recyclage
-
-<sup>1</sup> La teneur en polluants inorganiques des engrais minéraux de recyclage contenant du phosphore récupéré ne doit pas dépasser les valeurs limites suivantes:
+<sup>1</sup> Les teneurs en polluants des sels de phosphates précipités et de leurs dérivés et des matières obtenues par oxydation thermique et leurs dérivés ne doivent pas dépasser les valeurs limites suivantes:
 
 <table>
-<tr><th>Polluant</th><th>Valeur limite en grammes par tonne de phosphore (P)</th></tr>
-<tr><td>Plomb (Pb)</td><td>500</td></tr>
-<tr><td>Cadmium (Cd)</td><td>25</td></tr>
-<tr><td>Cuivre (Cu)</td><td>3 000</td></tr>
-<tr><td>Nickel (Ni)</td><td>500</td></tr>
-<tr><td>Mercure (Hg)</td><td>2</td></tr>
-<tr><td>Zinc (Zn)</td><td>10 000</td></tr>
+<tr><th>Polluant</th><th>Valeur limite en milligrammes par kilogramme de phosphore (P)</th></tr>
 <tr><td>Arsenic (As)</td><td>100</td></tr>
+<tr><td>Cadmium (Cd)</td><td>25</td></tr>
 <tr><td>Chrome (Cr)</td><td>1 000</td></tr>
+<tr><td>Cuivre (Cu)</td><td>3 000</td></tr>
+<tr><td>Mercure (Hg)</td><td>2</td></tr>
+<tr><td>Nickel (Ni)</td><td>500</td></tr>
+<tr><td>Plomb (Pb)</td><td>500</td></tr>
+<tr><td>Zinc (Zn)</td><td>10 000</td></tr>
 </table>
 
-<sup>2</sup> La teneur en polluants organiques des engrais minéraux de recyclage contenant du phosphore récupéré ne doit pas dépasser les valeurs limites suivantes:
+<sup>2</sup> Les teneurs en polluants organiques des sels de phosphates précipités et de leurs dérivés et des matières obtenues par oxydation thermique et leurs dérivés ne doivent pas dépasser les valeurs limites suivantes:
 
 <table>
-<tr><td>Polluant</td><td>Valeur limite</td></tr>
-<tr><td>Hydrocarbures aromatiques polycycliques (HAP)</td><td>25 grammes par tonne de phosphore (P)<sup>1</sup></td></tr>
-<tr><td>Biphényles polychlorés (PCB)</td><td>0,5 gramme par tonne de phosphore (P)<sup>2</sup></td></tr>
-<tr><td>Dioxines (PCDD) et furanes (PCDF)</td><td>120 nanogrammes I-TEQ par kilogramme de phosphore (P)<sup>3</sup></td></tr>
-<tr><td colspan="2"><sup>1</sup> Somme des 16 composés de HAP ci-après (liste des «priority pollutants» de l’EPA): naphthalène, acénaphthylène, acénaphtène, fluorène, phénantrène, anthracène, fluoranthène, pyrène, benzo(a)anthracène, chrysène, benzo(b)fluoranthène, benzo(k)fluoranthène, benzo(a)pyrène, indéno(1,2,3-c,d)pyrène, dibenzo(a,h)anthracène et benzo(g,h,i)pérylène</td></tr>
-<tr><td colspan="2"><sup>2</sup> Somme des 7 congénères selon la liste de l’IRMM (Institute for Reference Materials and Measurements), UICPA n<sup>os</sup> 28, 52, 101, 118, 138, 153 et 180</td></tr>
-<tr><td colspan="2"><sup>3</sup> I-TEQ = équivalents de toxicité internationaux</td></tr>
+<tr><th>Polluant</th><th>Valeur limite</th></tr>
+<tr><td>Hydrocarbures aromatiques polycycliques (HAP)</td><td>25 milligrammes par kilogramme de phosphore (P)<sup>1</sup></td></tr>
+<tr><td>Biphényles polychlorés (PCB)</td><td>0,5 milligrammes par kilogramme de phosphore (P)<sup>2</sup></td></tr>
+<tr><td>Dioxines (PCDD) et furanes (PCDF)</td><td>120 nanogrammes WHO<sub>2005</sub>-TEQ par kilogramme de phosphore (P)<sup>3</sup></td></tr>
+<tr><td colspan="2"><sup>1</sup> Somme des 16 composés de HAP ci-après (liste des «priority pollutants» de l’EPA): naphthalène, acénaphthylène, acénaphtène, fluorène, phénantrène, anthracène, fluoranthène, pyrène, benzo(a)anthracène, chrysène, benzo(b)fluoranthène, benzo(k)fluoranthène, benzo(a)pyrène, indéno(1,2,3-c,d)pyrène, dibenzo(a,h)anthracène et benzo(g,h,i)pérylène. <sup>2</sup> Somme des 7 congénères selon la liste de l’IRMM (Institute for Reference Materials and Measurements), UICPA n<sup>os</sup> 28, 52, 101, 118, 138, 153 et 180. <sup>3</sup> Équivalents toxiques selon les recommandations de l’Organisation mondiale de la santé (OMS) suite à une consultation d’expertes et d’experts en 2005. Référence: Martin van den Berg et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological sciences 93(2):223-241. http://doi.org/10.1093/toxsci/kfl055.</td></tr>
 </table>
 
-<sup>3</sup> Les engrais minéraux de recyclage contenant de l’azote ou de la potasse récupérés ne doivent pas dépasser les valeurs limites figurant au ch. 2.2.1.
+### 2.2.2.3 Matières issues de la pyrolyse et de la gazéification (CMC 14)
+
+<sup>1</sup> Les teneurs en polluants des matières issues de la pyrolyse et de la gazéification ne doivent pas dépasser les valeurs limites suivantes:
+
+<table>
+<tr><th>Polluant</th><th>Valeur limite en milligrammes par kilogramme de matière sèche</th></tr>
+<tr><td>Arsenic (As)</td><td>13</td></tr>
+<tr><td>Cadmium (Cd)</td><td>0,7</td></tr>
+<tr><td>Chrome (Cr)</td><td>70</td></tr>
+<tr><td>Cuivre (Cu)</td><td>70</td></tr>
+<tr><td>Mercure (Hg)</td><td>0.4</td></tr>
+<tr><td>Nickel (Ni)</td><td>25</td></tr>
+<tr><td>Plomb (Pb)</td><td>45</td></tr>
+<tr><td>Zinc (Zn)</td><td>200</td></tr>
+</table>
+
+<sup>2</sup> Les teneurs en polluants organiques des matières issues de la pyrolyse et de la gazéification ne doivent pas dépasser les valeurs limites suivantes:
+
+<table>
+<tr><th>Polluant</th><th>Valeur limite</th></tr>
+<tr><td>Hydrocarbures aromatiques polycycliques (HAP)</td><td>4 milligrammes par kilogramme de matière sèche<sup>1</sup></td></tr>
+<tr><td>Biphényles polychlorés (PCB)</td><td>0.2 milligrammes par kilogramme de matière sèche<sup>2</sup></td></tr>
+<tr><td>Dioxines (PCDD) et furanes (PCDF)</td><td>20 nanogrammes WHO<sub>2005</sub>-TEQ par kilogramme de matière sèche<sup>3</sup></td></tr>
+<tr><td colspan="2"><sup>1</sup> Somme des 16 composés de HAP ci-après (liste des «priority pollutants» de l’EPA): naphthalène, acénaphthylène, acénaphtène, fluorène, phénantrène, anthracène, fluoranthène, pyrène, benzo(a)anthracène, chrysène, benzo(b)fluoranthène, benzo(k)fluoranthène, benzo(a)pyrène, indéno(1,2,3-c,d)pyrène, dibenzo(a,h)anthracène et benzo(g,h,i)pérylène. Détermination après extraction à reflux de deux heures avec du toluène. <sup>2</sup> Somme des 7 congénères selon la liste de l’IRMM (Institute for Reference Materials and Measurements), UICPA n<sup>os</sup> 28, 52, 101, 118, 138, 153 et 180. Détermination après extraction Soxhlet de six heures avec du toluène ou extraction accélérée par solvant. <sup>3</sup> Équivalents toxiques selon les recommandations de l’Organisation mondiale de la santé (OMS) suite à une consultation d’expertes et d’experts en 2005. Référence: Martin van den Berg et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological sciences 93(2):223-241. http://doi.org/10.1093/toxsci/kfl055. Détermination après extraction Soxhlet de vingt heures avec du toluène ou extraction accélérée par solvant.</td></tr>
+</table>
 
 ### 3 Emploi
 
@@ -3672,7 +3867,7 @@ La teneur en polluants des engrais organo-minéraux ne doit pas dépasser les va
 - c. les conditions météorologiques;
 - d. les restrictions imposées par les législations sur la protection des eaux, la protection de la nature et du paysage et la protection de l’environnement, ou ayant fait l’objet d’un accord sur la base de cette législation.
 
-<sup>2</sup> Toute personne qui dispose d’engrais de ferme n’est autorisée à épandre des engrais de recyclage et des engrais minéraux que si ses engrais de ferme ne suffisent pas ou ne conviennent pas pour couvrir les besoins des plantes en éléments nutritifs.
+<sup>2</sup> Toute personne qui dispose d’engrais de ferme n’est autorisée à épandre des engrais de recyclage et des engrais inorganiques que si les engrais de ferme ne suffisent pas ou ne conviennent pas pour couvrir les besoins des plantes en éléments fertilisants.
 
 <sup>3</sup> L’apport en polluants dans les terres agricoles doit être évité autant que possible.
 
@@ -3688,13 +3883,17 @@ La teneur en polluants des engrais organo-minéraux ne doit pas dépasser les va
 
 <sup>1</sup> L’épandage autorisé en trois ans est de 25 t au plus par hectare pour le compost et les digestats solides (matière sèche) ou de 200 m<sup>3</sup> par hectare pour les digestats liquides, à condition que ces volumes n’excèdent pas les besoins des plantes en azote et en phosphore.
 
-<sup>2</sup> Il est interdit d’épandre en dix ans plus de 100 t par hectare d’amendements organiques et organo-minéraux, de compost ou de digestats solides comme amendements ou substrats, pour la protection des sols contre l’érosion, leur remise en culture ou la constitution artificielle de terres végétales.
+<sup>2</sup> Il est interdit d’épandre en dix ans plus de 100 t par hectare d’amendements du sol avec une teneur en C<sub>org</sub> supérieure à 7,5%, de compost ou de digestats solides comme amendements ou substrats, pour la protection des sols contre l’érosion, leur remise en culture ou la constitution de terres végétales.
 
 ### 3.2.3 Résidus issus de petites stations d’épuration et de fosses d’eaux usées non agricoles sans écoulement
 
 <sup>1</sup> Les résidus provenant de stations d’épuration non agricoles de 200 équivalents-habitants au maximum ainsi que de fosses d’eaux usées non agricoles sans écoulement peuvent être épandus en dehors des zones de protection des eaux souterraines sur des surfaces fourragères dans des endroits reculés ou dont les voies d’accès sont difficilement carrossables, avec l’autorisation des autorités cantonales.
 
 <sup>2</sup> Il est interdit de les épandre sur des surfaces maraîchères ou de les entreposer dans des fosses à purin; les prescriptions détaillées au ch. 3.3 sont réservées.
+
+### 3.2.4 Produits issus de la pyrolyse
+
+<sup>1</sup> L’épandage maximal autorisé en une année de matières issues de la pyrolyse ou de la gazéification est de 1 t par hectare et de 10 t par hectare sur vingt années.
 
 ### 3.3 Interdictions et exceptions
 
@@ -3705,7 +3904,7 @@ La teneur en polluants des engrais organo-minéraux ne doit pas dépasser les va
 - a. dans des régions classées réserves naturelles en vertu de la législation fédérale ou cantonale, à moins que les prescriptions ou les conventions déterminantes en disposent autrement;
 - b. dans les roselières et les marais auxquels ne s’appliquent pas déjà les réglementations au sens de la let. a;
 - c. dans les haies et les bosquets, ainsi que sur une bande de 3 m de large le long de ceux-ci;
-- d. dans les eaux superficielles et sur une bande de 3 m de large le long de celles-ci, sachant que la bande concernant les cours d’eau pour lesquels un espace réservé au cours d’eau au sens de l’art. 41*a* OEaux[^annex26-lvlu1-lvl3-lvl33-lvl331-1] a été fixé ou pour lesquels un espace réservé au cours d’eau n’a expressément pas été fixé, conformément à l’art. 41*a*, al. 5, OEaux, se mesure à partir de la ligne du rivage et pour les autres cours d’eau et les plans d’eau à partir de la limite supérieure de la berge conformément à la brochure «Bordures tampon, Comment les mesurer, comment les exploiter?», KIP/PIOCH 2009[^annex26-lvlu1-lvl3-lvl33-lvl331-2];
+- d. dans les eaux superficielles et sur une bande de 3 m de large le long de celles-ci, sachant que la bande concernant les cours d’eau pour lesquels un espace réservé au cours d’eau au sens de l’art. 41*a* OEaux[^annex26-lvlu1-lvl324-lvl33-lvl331-1] a été fixé ou pour lesquels un espace réservé au cours d’eau n’a expressément pas été fixé, conformément à l’art. 41*a*, al. 5, OEaux, se mesure à partir de la ligne du rivage et pour les autres cours d’eau et les plans d’eau à partir de la limite supérieure de la berge conformément à la brochure «Bordures tampon, Comment les mesurer, comment les exploiter?», KIP/PIOCH 2009[^annex26-lvlu1-lvl324-lvl33-lvl331-2];
 - e. dans la zone S1 de protection des eaux souterraines.
 
 <sup>2</sup> Il est interdit d’épandre des engrais de ferme liquides ou des engrais de recyclage liquides dans les zones S2 et S<sub>h</sub> de protection des eaux souterraines.
@@ -3716,8 +3915,8 @@ La teneur en polluants des engrais organo-minéraux ne doit pas dépasser les va
 
 <sup>5</sup> Il est interdit d’épandre des engrais en forêt et sur une bande de 3 m de large le long de la zone boisée.
 
-[^annex26-lvlu1-lvl3-lvl33-lvl331-1]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
-[^annex26-lvlu1-lvl3-lvl33-lvl331-2]: La brochure peut être obtenue auprès d’Agridea 1000 Lausanne 6.
+[^annex26-lvlu1-lvl324-lvl33-lvl331-1]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
+[^annex26-lvlu1-lvl324-lvl33-lvl331-2]: La brochure peut être obtenue auprès d’Agridea 1000 Lausanne 6.
 
 ### 3.3.2 Exceptions
 
@@ -3727,20 +3926,20 @@ La teneur en polluants des engrais organo-minéraux ne doit pas dépasser les va
 
 - a.
 
-  l’épandage de compost, de digestats solides et d’engrais minéraux:
+  l’épandage de compost, de digestats solides et d’engrais inorganiques:
 
   - 1\. dans les pépinières forestières,
   - 2\. lors d’afforestations ou de reboisements et lors d’ensemencements,
   - 3\. sur des talus de routes forestières dont on veut développer la couverture végétale, ainsi que lors de stabilisations végétales,
   - 4\. sur de petites surfaces dans le cadre d’essais scientifiques;
 
-- b. l’épandage, sur les pâturages boisés, d’engrais de ferme, de compost et de digestats solides ainsi que d’engrais minéraux exempts d’azote.
+- b. l’épandage, sur les pâturages boisés, d’engrais de ferme, de compost et de digestats solides ainsi que d’engrais inorganiques exempts d’azote.
 
 ### 4 Analyses effectuées par les autorités
 
-<sup>1</sup> L’OFEV effectue, à des intervalles appropriés, des analyses de compost et de digestats pour contrôler leur teneur en HAP, dioxines et furanes. Il publie un résumé des résultats de ses analyses et en fait part au préalable aux autorités cantonales, à l’OFAG et aux détenteurs des installations examinées.
+<sup>1</sup> L’OFEV effectue, à des intervalles appropriés, des analyses de compost, digestats et supports de culture pour contrôler leur teneur en HAP, dioxines et furanes. Il publie un résumé des résultats de ses analyses et en fait part au préalable aux autorités cantonales, à l’OFAG, aux détenteurs des installations de compostage et de méthanisation examinées et au responsable de la mise en circulation des substrats de culture analysés.
 
-<sup>2</sup> Les autorités cantonales déterminent la cause du dépassement des valeurs indicatives au sens du ch. 2.2.1, al. 3, et veillent à ce que le compost et les digestats ne soient pas remis si leur épandage peut présenter un danger pour la fertilité du sol.
+<sup>2</sup> Les autorités cantonales déterminent la cause du dépassement des valeurs indicatives au sens du ch. 2.2.1.10, al. 3, et veillent à ce que le compost et les digestats ne soient pas remis si leur épandage peut présenter un danger pour la fertilité du sol.
 
 Annexe 2.7[^t-26]
 
@@ -3973,7 +4172,7 @@ Annexe 2.9[^t-28]
 
 <sup>2</sup> Les préparations et les objets contenant du PVC valorisé doivent porter la mention «Contient du PVC valorisé» ou le pictogramme suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20231001/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240101/fr/xml/image/image2.png)
 
 <sup>3</sup> Les préparations dont la teneur en diisocyanate de méthylènediphényle est égale ou supérieure à 0,1 % masse et qui sont destinées au grand public doivent porter la mention suivante: «Les personnes déjà sensibilisées aux diisocyanates peuvent développer des réactions allergiques en utilisant ce produit. – Il est conseillé aux personnes souffrant d’asthme, d’eczéma ou de réactions cutanées d’éviter le contact, y compris cutané, avec ce produit. – Ce produit ne peut pas être utilisé dans les lieux insuffisamment ventilés, sauf avec un masque de protection équipé d’un filtre antigaz adapté (de type A1 répondant à la norme EN 14387)».
 
@@ -4852,7 +5051,7 @@ Annexe 2.16[^t-35]
 
 ## Dispositions spéciales concernant les métaux
 
-[^t-35]: Mise à jour par le ch. I 3 de l’O du 15 déc. 2006 ([RO 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), le ch. I 6 de l’O du 10 déc. 2010 ([RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), le ch. II al. 3 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), le ch. I de l’O de l’OFEV du 27 oct. 2016 ([RO 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), l’erratum du 20 juin 2017 ([RO 2017 3541](https://fedlex.data.admin.ch/eli/oc/2017/391)), le ch. I de l’O du 25 oct. 2017 ([RO 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), le ch. I des O de l’OFEV du 27 sept. 2018 ([RO 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), du 29 sept. 2020 ([RO 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)) et l’annexe ch. 2 de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-35]: Mise à jour par le ch. I 3 de l’O du 15 déc. 2006 ([RO 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), le ch. I 6 de l’O du 10 déc. 2010 ([RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), le ch. II al. 3 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), le ch. I de l’O de l’OFEV du 27 oct. 2016 ([RO 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), l’erratum du 20 juin 2017 ([RO 2017 3541](https://fedlex.data.admin.ch/eli/oc/2017/391)), le ch. I de l’O du 25 oct. 2017 ([RO 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), le ch. I de l’O de l’OFEV du 27 sept. 2018 ([RO 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), l’annexe ch. 2 de l’O du 11 mars 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) et le ch. I de l’O de l’OFEV du 27 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 749](https://fedlex.data.admin.ch/eli/oc/2023/749)).
 
 ### 1 Chrome(VI) dans les ciments
 
@@ -5057,7 +5256,7 @@ On entend par véhicules les voitures de tourisme et les véhicules utilitaires 
 
 <sup>2</sup> L’interdiction au sens du ch. 5.2, al. 2, ne s’applique pas aux véhicules contenant des matériaux ou des composants qui peuvent être mis sur le marché en vertu de l’al. 1, let. a.
 
-[^annex216-lvlu1-lvl5-lvl53-1]: Directive 2000/53/CE du Parlement européen et du Conseil du 18 septembre 2000 relative aux véhicules hors d’usage, JO L 269 du 21.10.2000, p. 34; modifiée en dernier lieu par la directive (UE) 2020/363, JO L 67 du 5.3.2020, p. 119.
+[^annex216-lvlu1-lvl5-lvl53-1]: Directive 2000/53/CE du Parlement européen et du Conseil du 18 septembre 2000 relative aux véhicules hors d’usage, JO L 269 du 21.10.2000, p. 34; modifiée en dernier lieu par la directive déléguée (UE) 2023/544, JO L 73 du 10.3.2023, p. 5.
 
 ### 5.4 Étiquetage spécial
 
@@ -5134,7 +5333,7 @@ Annexe 2.18[^t-37]
 
 ## Équipements électriques et électroniques
 
-[^t-37]: Introduite par le ch. II al. 1 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Mise à jour par le ch. I de l’O de l’OFEV du 27 oct. 2016 ([RO 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), le ch. I des O de l’OFEV du 9 sept. 2021 ([RO 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)) et du 28 oct. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 632](https://fedlex.data.admin.ch/eli/oc/2022/632)).
+[^t-37]: Introduite par le ch. II al. 1 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Mise à jour par le ch. I de l’O de l’OFEV du 27 oct. 2016 ([RO 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), le ch. I des O de l’OFEV du 9 sept. 2021 ([RO 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)) et du 27 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 749](https://fedlex.data.admin.ch/eli/oc/2023/749)).
 
 ### 1 Définitions
 
@@ -5192,7 +5391,7 @@ Annexe 2.18[^t-37]
 
 Les interdictions au sens du ch. 2 ne s’appliquent pas aux équipements électriques et électroniques, aux câbles et aux pièces détachées qui contiennent des substances énumérées aux annexes III et IV de la directive 2011/65/UE[^annex218-lvlu1-lvl3-1] pour les applications qui y sont mentionnées.
 
-[^annex218-lvlu1-lvl3-1]: Directive 2011/65/UE du Parlement européen et du Conseil du 8 juin 2011 relative à la limitation de l’utilisation de certaines substances dangereuses dans les équipements électriques et électroniques, JO L 174 du 1.7.2011, p. 88; modifiée en dernier lieu par la directive déléguée (UE) 2022/1632, JO L 245 du 22.9.2022, p. 48.
+[^annex218-lvlu1-lvl3-1]: Directive 2011/65/UE du Parlement européen et du Conseil du 8 juin 2011 relative à la limitation de l’utilisation de certaines substances dangereuses dans les équipements électriques et électroniques, JO L 174 du 1.7.2011, p. 88; modifiée en dernier lieu par la directive déléguée (UE) 2023/1526, JO L 185 du 24.7.2023, p. 26.
 
 ### 4 Prescriptions pour les opérateurs économiques
 

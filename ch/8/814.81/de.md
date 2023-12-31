@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Mai 2005 zur Reduktion von Risiken beim Umgang mit be
 short: ChemRRV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: de
-version: 2023-10-01
+version: 2024-01-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20231001/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20231001-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20231001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20240101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20231001/de"
 
 (Chemikalien-Risikoreduktions-Verordnung, ChemRRV)
 
-vom 18. Mai 2005 (Stand am 1. Oktober 2023)
+vom 18. Mai 2005 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -302,12 +302,13 @@ Der Bund ist zuständig für:
 
 <sup>2</sup> Bei Stoffen, Zubereitungen und Gegenständen im Zusammenhang mit Anlagen und Tätigkeiten, die der Landesverteidigung dienen, gilt Artikel 82 der Chemikalienverordnung vom 5. Juni 2015[^16-2] (ChemV) entsprechend.[^16-3]
 
-<sup>3</sup> Für Dünger gelten die Vollzugsvorschriften der Dünger-Verordnung vom 10. Januar 2001[^16-4] zusätzlich.
+<sup>3</sup> Für Dünger gelten die Vollzugsvorschriften der Düngerverordnung vom 1. November 2023[^16-4] zusätzlich.[^16-5]
 
 [^16-1]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 [^16-2]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 [^16-3]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
 [^16-4]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^16-5]: Fassung gemäss Anhang 5 Ziff. II 3 der Düngerverordnung vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
 
 #### Art. 17
 
@@ -1316,7 +1317,7 @@ Verboten ist:
 - b. einem Hinweis auf die Gefahren für Mensch und Umwelt und die Schutzmassnahmen nach folgendem Muster:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20231001/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240101/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">B = mindestens 2,5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 Prozent von H</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 Prozent von H</td><td></td></tr>
@@ -2367,7 +2368,7 @@ Anhang 1.17[^t-18]
 
 [^annex117-lvlu1-1]
 
-[^t-18]: Eingefügt durch Ziff. II Abs. 1 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V des BAFU vom 27. Okt. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), vom 10. Jan. 2017 ([AS 2017 173](https://fedlex.data.admin.ch/eli/oc/2017/48)), vom 27. Sept. 2018 ([AS 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), der Berichtigung vom 26. Febr. 2019 ([AS 2019 759](https://fedlex.data.admin.ch/eli/oc/2019/133)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Ziff. I der V des BAFU vom 29. Sept. 2020 ([AS 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)) und Ziff. I der V vom 5. April 2023, in Kraft seit 1. Juni 2023 ([AS 2023 191](https://fedlex.data.admin.ch/eli/oc/2023/191)).
+[^t-18]: Eingefügt durch Ziff. II Abs. 1 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V des BAFU vom 27. Okt. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), vom 10. Jan. 2017 ([AS 2017 173](https://fedlex.data.admin.ch/eli/oc/2017/48)), vom 27. Sept. 2018 ([AS 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), der Berichtigung vom 26. Febr. 2019 ([AS 2019 759](https://fedlex.data.admin.ch/eli/oc/2019/133)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Ziff. I der V des BAFU vom 29. Sept. 2020 ([AS 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)), Ziff. I der V vom 5. April 2023 ([AS 2023 191](https://fedlex.data.admin.ch/eli/oc/2023/191)) und Ziff. I der V vom 27. Nov. 2023 des BAFU, in Kraft seit 1. Jan. 2024 ([AS 2023 749](https://fedlex.data.admin.ch/eli/oc/2023/749)).
 [^annex117-lvlu1-1]: Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Agentur für chemische Stoffe, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission, ABl. L 396 vom 30.12.2006, S. 1; zuletzt geändert durch Verordnung (EU) 2020/171, ABl. L 35 vom 7.2.2020, S. 1.
 
 ### 1 Verbote
@@ -2440,7 +2441,7 @@ Das Inverkehrbringen zur Verwendung der in Ziffer 5 aufgelisteten Stoffe und von
 
 <sup>1</sup> Wer einen in Ziffer 5 Absatz 1 aufgelisteten Stoff oder eine Zubereitung, die einen solchen Stoff enthält, von einer Herstellerin oder Händlerin bezieht und beruflich oder gewerblich verwendet, hat der Anmeldestelle innerhalb von drei Monaten nach der ersten Lieferung den Verwendungszweck und die Bewilligungsnummer oder die EU-Zulassungsnummer dieses Stoffs zu melden.
 
-<sup>1bis</sup> Wer eine in Ziffer 5 Absatz 1 Einträge Nummern 16–18 aufgelistete Chrom(VI)-Verbindung in einem Prozess verwendet, in dessen Endprodukt Chrom nicht in sechswertiger Form vorliegt, hat der Anmeldestelle jährlich bis zum 31. März für das vergangene Kalenderjahr zu melden:
+<sup>1bis</sup> Wer eine in Ziffer 5 Absatz 1 Einträge Nummern 16–18 aufgelistete Chrom(VI)-Verbindung für das Hart-, Dekorativ- und Schwarzverchromen oder in einem Prozess verwendet, in dessen Endprodukt Chrom nicht in sechswertiger Form vorliegt, hat der Anmeldestelle jährlich bis zum 31. März für das vergangene Kalenderjahr zu melden:
 
 - a. den Namen und die Adresse der Verwenderin;
 - b. den Namen und die CAS-Nummer der Chrom(VI)-Verbindung oder den Namen der Zubereitung, welche die Chrom(VI)-Verbindung enthält und deren Massengehalt;
@@ -2479,10 +2480,10 @@ Das Inverkehrbringen zur Verwendung der in Ziffer 5 aufgelisteten Stoffe und von
 <tr><td>1.</td><td>5-tert-Butyl-2,4,6-trinitro-m-xylol (Moschus-Xylol) EG-Nr.: 201-329-4 CAS-Nr.: 81-15-2</td><td>vPvB</td><td>21. August 2014</td><td>–</td><td>–</td></tr>
 <tr><td>2.</td><td>4,4’-Diaminodiphenylmethan (MDA) EG-Nr.: 202-974-4 CAS-Nr.: 101-77-9</td><td>Krebserzeugend (Kategorie 1B)</td><td>21. August 2014</td><td>–</td><td>–</td></tr>
 <tr><td>3.</td><td>…</td><td>…</td><td>…</td><td>–</td><td>–</td></tr>
-<tr><td>4.</td><td>Bis(2-ethylhexyl)-phthalat (DEHP) EG-Nr.: 204-211-0 CAS-Nr.: 117-81-7</td><td>Fortpflanzungsgefährdend (Kategorie 1B)</td><td>21. Februar 2015</td><td>Verwendungen in der Primärverpackung von Arzneimitteln, die unter die Verordnung (EG) Nr. 726/2004[^annex117-lvlu1-lvl5-1], die Richtlinie 2001/82/EG[^annex117-lvlu1-lvl5-2] und/ oder die Richtlinie 2001/83/EG[^annex117-lvlu1-lvl5-3] fallen</td><td></td></tr>
-<tr><td>5.</td><td>Benzylbutylphthalat (BBP) EG-Nr.: 201-622-7 CAS Nr.: 85-68-7</td><td>Fortpflanzungsgefährdend (Kategorie 1B)</td><td>21. Februar 2015</td><td>Verwendungen in der Primärverpackung von Arzneimitteln, die unter die Verordnung (EG) Nr. 726/2004, die Richtlinie 2001/82/EG und/oder die Richtlinie 2001/83/EG fallen</td><td></td></tr>
-<tr><td>6.</td><td>Dibutylphthalat (DBP) EG-Nr.: 201-557-4 CAS Nr.: 84-74-2</td><td>Fortpflanzungsgefährdend (Kategorie 1B)</td><td>21. Februar 2015</td><td>Verwendungen in der Primärverpackung von Arzneimitteln, die unter die Verordnung (EG) Nr. 726/2004, die Richtlinie 2001/82/ EG und/oder die Richtlinie 2001/83/EG fallen</td><td></td></tr>
-<tr><td>7.</td><td>Diisobutylphthalat (DIBP) EG-Nr.: 201-553-2 CAS Nr.: 84-69-5</td><td>Fortpflanzungsgefährdend (Kategorie 1B)</td><td>21. Februar 2015</td><td>–</td><td>–</td></tr>
+<tr><td>4.</td><td>Bis(2-ethylhexyl)-phthalat (DEHP) EG-Nr.: 204-211-0 CAS-Nr.: 117-81-7</td><td>Fortpflanzungsgefährdend (Kategorie 1B) Endokrinschädliche Eigenschaften</td><td>21. Februar 2015</td><td>–</td><td>–</td></tr>
+<tr><td>5.</td><td>Benzylbutylphthalat (BBP) EG-Nr.: 201-622-7 CAS Nr.: 85-68-7</td><td>Fortpflanzungsgefährdend (Kategorie 1B) Endokrinschädliche Eigenschaften</td><td>21. Februar 2015</td><td>–</td><td>–</td></tr>
+<tr><td>6.</td><td>Dibutylphthalat (DBP) EG-Nr.: 201-557-4 CAS Nr.: 84-74-2</td><td>Fortpflanzungsgefährdend (Kategorie 1B) Endokrinschädliche Eigenschaften</td><td>21. Februar 2015</td><td>–</td><td>–</td></tr>
+<tr><td>7.</td><td>Diisobutylphthalat (DIBP) EG-Nr.: 201-553-2 CAS Nr.: 84-69-5</td><td>Fortpflanzungsgefährdend (Kategorie 1B) Endokrinschädliche Eigenschaften</td><td>21. Februar 2015</td><td>–</td><td>–</td></tr>
 <tr><td>8.</td><td>Diarsentrioxid EG-Nr.: 215-481-4 CAS Nr.: 1327-53-3</td><td>Krebserzeugend (Kategorie 1A)</td><td>21. Mai 2015</td><td>–</td><td>–</td></tr>
 <tr><td>9.</td><td>Diarsenpentaoxid EG-Nr.: 215-116-9 CAS Nr.: 1303-28-2</td><td>Krebserzeugend (Kategorie 1A)</td><td>21. Mai 2015</td><td>–</td><td>–</td></tr>
 <tr><td>10.</td><td>Bleichromat EG-Nr.: 231-846-0 CAS Nr.: 7758-97-6</td><td>Krebserzeugend (Kategorie 1B) Fortpflanzungsgefährdend (Kategorie 1A)</td><td>21. Mai 2015</td><td>–</td><td>–</td></tr>
@@ -2491,9 +2492,9 @@ Das Inverkehrbringen zur Verwendung der in Ziffer 5 aufgelisteten Stoffe und von
 <tr><td>13.</td><td>Tris(2-chlorethyl)-phosphat (TCEP) EG-Nr.: 204-118-5 CAS Nr.: 115-96-8</td><td>Fortpflanzungsgefährdend (Kategorie 1B)</td><td>21. August 2015</td><td></td><td></td></tr>
 <tr><td>14.</td><td>2,4-Dinitrotoluol (2,4-DNT) EG-Nr.: 204-450-0 CAS Nr.: 121-14-2</td><td>Krebserzeugend (Kategorie 1B)</td><td>21. August 2015</td><td></td><td></td></tr>
 <tr><td>15.</td><td>Trichlorethylen EG‑Nr.: 201-167-4 CAS Nr.: 79-01-6</td><td>Krebserzeugend (Kategorie 1B)</td><td>1. Dezember 2019</td><td>–</td><td>–</td></tr>
-<tr><td>16.</td><td>Chromtrioxid EG‑Nr.: 215-607-8 CAS-Nr.: 1333-82-0</td><td>Krebserzeugend (Kategorie 1A) Erbgutverändernd (Kategorie 1B)</td><td>1. Juni 2021</td><td>Verwendung in Prozessen, in deren Endprodukten Chrom nicht in sechswertiger Form vorliegt</td><td>–</td></tr>
-<tr><td>17.</td><td>Säuren, die sich aus Chromtrioxid bilden, und deren Oligomere Gruppe mit: Chromsäure EG‑Nr.: 231-801-5 CAS-Nr.: 7738-94-5 Dichromsäure EG‑Nr.: 236-881-5 CAS-Nr.: 13530-68-2 Oligomere von Chromsäure und Dichromsäure EG‑Nr.: noch nicht zugewiesen CAS‑Nr.: noch nicht zugewiesen</td><td>Krebserzeugend (Kategorie 1B)</td><td>1. Juni 2021</td><td>Verwendung in Prozessen, in deren Endprodukten Chrom nicht in sechswertiger Form vorliegt</td><td>–</td></tr>
-<tr><td>18.</td><td>Natriumdichromat EG‑Nr.: 234-190-3 CAS-Nr.: 7789-12-0 10588-01-9</td><td>Krebserzeugend (Kategorie 1B) Erbgutverändernd (Kategorie 1B) Fortpflanzungsgefährdend (Kategorie 1B)</td><td>1. Juni 2021</td><td>Verwendung in Prozessen, in deren Endprodukten Chrom nicht in sechswertiger Form vorliegt</td><td>–</td></tr>
+<tr><td>16.</td><td>Chromtrioxid EG‑Nr.: 215-607-8 CAS-Nr.: 1333-82-0</td><td>Krebserzeugend (Kategorie 1A) Erbgutverändernd (Kategorie 1B)</td><td>1. Juni 2021</td><td>Hart-, Dekorativ- und Schwarzverchromen</td><td>–</td></tr>
+<tr><td>17.</td><td>Säuren, die sich aus Chromtrioxid bilden, und deren Oligomere Gruppe mit: Chromsäure EG‑Nr.: 231-801-5 CAS-Nr.: 7738-94-5 Dichromsäure EG‑Nr.: 236-881-5 CAS-Nr.: 13530-68-2 Oligomere von Chromsäure und Dichromsäure EG‑Nr.: noch nicht zugewiesen CAS‑Nr.: noch nicht zugewiesen</td><td>Krebserzeugend (Kategorie 1B)</td><td>1. Juni 2021</td><td>Hart-, Dekorativ- und Schwarzverchromen</td><td>–</td></tr>
+<tr><td>18.</td><td>Natriumdichromat EG‑Nr.: 234-190-3 CAS-Nr.: 7789-12-0 10588-01-9</td><td>Krebserzeugend (Kategorie 1B) Erbgutverändernd (Kategorie 1B) Fortpflanzungsgefährdend (Kategorie 1B)</td><td>1. Juni 2021</td><td>Hart-, Dekorativ- und Schwarzverchromen</td><td>–</td></tr>
 <tr><td>19.</td><td>Kaliumdichromat EG‑Nr.: 231-906-6 CAS-Nr.: 7778-50-9</td><td>Krebserzeugend (Kategorie 1B) Erbgutverändernd (Kategorie 1B) Fortpflanzungsgefährdend (Kategorie 1B)</td><td>1. Juni 2021</td><td>–</td><td>–</td></tr>
 <tr><td>20.</td><td>Ammoniumdichromat EG-Nr.: 232-143-1 CAS-Nr.: 7789-09-5</td><td>Krebserzeugend (Kategorie 1B) Erbgutverändernd (Kategorie 1B) Fortpflanzungsgefährdend (Kategorie 1B)</td><td>1. Juni 2021</td><td>–</td><td>–</td></tr>
 <tr><td>21.</td><td>Kaliumchromat EG‑Nr.: 232-140-5 CAS-Nr.: 7789-00-6</td><td>Krebserzeugend (Kategorie 1B) Erbgutverändernd (Kategorie 1B)</td><td>1. Juni 2021</td><td>–</td><td>–</td></tr>
@@ -2530,6 +2531,11 @@ Das Inverkehrbringen zur Verwendung der in Ziffer 5 aufgelisteten Stoffe und von
 <tr><td>52.</td><td>2,4-Di-tert-butyl-6-(5-chlorbenzotriazol-2- yl)phenol (UV-327) EG-Nr.: 223-383-8 CAS-Nr.: 3864-99-1</td><td>vPvB</td><td>2. August 2024</td><td></td><td></td></tr>
 <tr><td>53.</td><td>2-(2H-Benzotriazol-2-yl)-4-(tert-butyl)- 6- (sec-butyl)phenol (UV-350) EG-Nr.: 253-037-1 CAS-Nr.: 36437-37-3</td><td>vPvB</td><td>2. August 2024</td><td></td><td></td></tr>
 <tr><td>54.</td><td>2-Benzotriazol-2-yl-4,6-di-tert-butylphenol (UV-320) EG-Nr.: 223-346-6 CAS-Nr.: 3846-71-7</td><td>PBT, vPvB</td><td>2. August 2024</td><td></td><td></td></tr>
+<tr><td>55.</td><td>Tetraethylblei EG-Nr.: 201-075-4 CAS-Nr.: 78-00-2</td><td>Fortpflanzungsgefährdend (Kategorie 1A)</td><td>1. Januar 2027</td><td>–</td><td>–</td></tr>
+<tr><td>56.</td><td>4,4’-Bis(dimethylamino)-4”-(methylamino) tritylalkohol (mit ≥ 0,1 % Michlers Keton (EG-Nr. 202-027-5) oder Michlers Base (EG-Nr. 202-959-2)) EG-Nr.: 209-218-2 CAS-Nr.: 561-41-1</td><td>Krebserzeugend (Kategorie 1B)</td><td>1. Januar 2027</td><td>–</td><td>–</td></tr>
+<tr><td>57.</td><td>Reaktionsprodukte von 1,3,4-Thiadiazolidin-2,5-dithion-, Formaldehyd und 4‑Heptylphenol, verzweigt und linear (RP-HP) (mit ≥ 0,1 % 4‑Heptylphenol, verzweigt und linear) EG-Nr.: — CAS-Nr.: —</td><td>Endokrinschädliche Eigenschaften</td><td>1. Januar 2027</td><td>–</td><td>–</td></tr>
+<tr><td>58.</td><td>2-Ethylhexyl-10-ethyl-4,4-dioctyl-7-oxo-8-oxa-3,5-dithia-4-stannatetradecanoat (DOTE) EG-Nr.: 239-622-4 CAS-Nr.: 15571-58-1</td><td>Fortpflanzungsgefährdend (Kategorie 1B)</td><td>1. Januar 2027</td><td>–</td><td>–</td></tr>
+<tr><td>59.</td><td>Reaktionsmasse von 2-Ethylhexyl-10-ethyl-4,4-dioctyl-7-oxo-8-oxa-3,5-dithia-4-stannatetradecanoat und 2-Ethylhexyl-10-ethyl-4- [[2- [(2-ethylhexyl) oxy] -2-oxoethyl] thio] -4-octyl-7-oxo-8-oxa-3,5-dithia-4-stannatetradecanoat (Reaktionsmasse von DOTE und MOTE) EG-Nr.: — CAS-Nr.: —</td><td>Fortpflanzungsgefährdend (Kategorie 1B)</td><td>1. Januar 2027</td><td>–</td><td>–</td></tr>
 </table>
 
 <sup>1bis</sup> Für Stoffe der Einträge Nummern 4–7, 10–12 sowie 14 und 15 gilt zudem eine Übergangsfrist bis zum 1. Mai 2021 für folgende Verwendungen:
@@ -2542,12 +2548,20 @@ Das Inverkehrbringen zur Verwendung der in Ziffer 5 aufgelisteten Stoffe und von
 - a. Herstellung eines Ersatzteils für die Reparatur eines Gegenstands, wenn der betreffende Stoff bei der Herstellung dieses Gegenstands verwendet wird oder wurde und er ohne dieses Ersatzteil nicht ordnungsgemäss funktioniert;
 - b. Reparatur eines Gegenstands, wenn der betreffende Stoff bei der Herstellung dieses Gegenstands verwendet wird oder wurde und er nur unter Verwendung des betreffenden Stoffs repariert werden kann.
 
-<sup>2</sup> Das BAFU passt im Einvernehmen mit dem BAG und dem SECO die Bestimmungen nach Absatz 1 an. Es berücksichtigt dabei die Änderungen des Anhangs XIV der Verordnung (EG) Nr. 1907/2006[^annex117-lvlu1-lvl5-4] und die Einträge in Anhang 3 ChemV.
+<sup>1quater</sup> Für Stoffe der Einträge Nummern 4–7 gelten zudem die folgenden Übergangsfristen:
 
-[^annex117-lvlu1-lvl5-1]: Verordnung (EG) Nr. 726/2004 des Europäischen Parlaments und des Rates vom 31. März 2004 zur Festlegung von Gemeinschaftsverfahren für die Genehmigung und Überwachung von Human- und Tierarzneimitteln und zur Errichtung einer Europäischen Arzneimittel-Agentur, ABl. L 136 vom 30.4.2004, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 1027/2012, ABl. L 316 vom 14.11.2012, S. 38.
-[^annex117-lvlu1-lvl5-2]: Richtlinie 2001/82/EG des Europäischen Parlaments und des Rates vom 6. November 2001 zur Schaffung eines Gemeinschaftskodexes für Tierarzneimittel, ABl. L 311 vom 28.11.2001, S. 1; zuletzt geändert durch Verordnung (EG) Nr. 596/2009, ABl. L 188 vom 18.7.2009, S. 14.
-[^annex117-lvlu1-lvl5-3]: Richtlinie 2001/83/EG des Europäischen Parlaments und des Rates vom 6. November 2001 zur Schaffung eines Gemeinschaftskodexes für Humanarzneimittel. ABl. L 311 vom 28.11.2001, S. 67; zuletzt geändert durch Verordnung (EU) 2017/745, ABl. L 117 vom 5.5.2017, S. 1.
-[^annex117-lvlu1-lvl5-4]: Siehe Fussnote zum Titel dieses Anhangs.
+- a. 1. Januar 2027 für die Einträge 4–7 für die Verwendung in einer Zubereitung mit einem Stoffgehalt von weniger als 0,3 %;
+- b. 1. Januar 2027 für die Einträge 4–6 für die Verwendung in der Primärverpackung eines Arzneimittels;
+- c. 1. Januar 2027 für den Eintrag 4 für die Verwendung in einem Bedarfsgegenstand, der unter die Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016[^annex117-lvlu1-lvl5-1] fällt;
+- d. 1. Juli 2027 für den Eintrag 4 für die Verwendung in einem Medizinprodukt, das unter die Medizinprodukteverordnung vom 1. Juli 2020[^annex117-lvlu1-lvl5-2] fällt.
+
+<sup>1quinquies</sup> Für Stoffe der Einträge Nummern 16–18 gilt zudem eine Übergangsfrist bis zum 1. Januar 2026 für die Verwendung in einem Prozess, in dessen Endprodukt Chrom nicht in sechswertiger Form vorliegt.
+
+<sup>2</sup> Das BAFU passt im Einvernehmen mit dem BAG und dem SECO die Bestimmungen nach Absatz 1 an. Es berücksichtigt dabei die Änderungen des Anhangs XIV der Verordnung (EG) Nr. 1907/2006[^annex117-lvlu1-lvl5-3] und die Einträge in Anhang 3 ChemV.
+
+[^annex117-lvlu1-lvl5-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex117-lvlu1-lvl5-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^annex117-lvlu1-lvl5-3]: Siehe Fussnote zum Titel dieses Anhangs.
 
 Anhang 1.18[^t-19]
 
@@ -3566,11 +3580,11 @@ Anhang 2.6[^t-25]
 
 ## Dünger
 
-[^t-25]: Bereinigt gemäss Anhang der V vom 14. Nov. 2007 ([AS 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)), Anhang 9 Ziff. 1 der Direktzahlungsverordnung vom 23. Okt. 2013 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), Anhang Ziff. 2 der V vom 4. Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), Anhang 6 Ziff. 11 der Abfallverordnung vom 4. Dez. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)) und Anhang Ziff. 2 der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681)). Die Berichtigung vom 7. Mai 2019 betrifft nur den französischen Text ([AS 2019 1339](https://fedlex.data.admin.ch/eli/oc/2019/260)).
+[^t-25]: Bereinigt gemäss Anhang der V vom 14. Nov. 2007 ([AS 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)), Anhang 9 Ziff. 1 der Direktzahlungsverordnung vom 23. Okt. 2013 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), Anhang Ziff. 2 der V vom 4. Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)) und Anhang 5 Ziff. II 3 der Düngerverordnung vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
 
 ### 1 Begriffe
 
-<sup>1</sup> In diesem Anhang gelten die Begriffe der Dünger-Verordnung vom 10. Januar 2001[^annex26-lvlu1-lvl1-1] (DüV).
+<sup>1</sup> In diesem Anhang gelten die Begriffe der Düngerverordnung vom 1. November 2023[^annex26-lvlu1-lvl1-1] (DüV).
 
 <sup>2</sup> Futterflächen sind Wiesen und Weiden sowie bewachsene Ackerflächen, deren Ertrag ganz oder teilweise zu Futterzwecken verwendet wird. Davon ausgenommen sind Ackerflächen, von denen nur die Körner oder die Kolben geerntet werden.
 
@@ -3586,85 +3600,266 @@ Anhang 2.6[^t-25]
 
 ### 2.2 Qualitätsanforderungen
 
-### 2.2.1 Organische Dünger, Recyclingdünger, ausgenommen mineralische Recyclingdünger, sowie Hofdünger
+### 2.2.1 Anforderungen für Produktfunktionskategorien PFC
 
-<sup>1</sup> Der Schadstoffgehalt von organischen Düngern, Recyclingdüngern, ausgenommen mineralischen Recyclingdüngern, sowie Hofdüngern darf die folgenden Grenzwerte nicht übersteigen:
+### 2.2.1.1 Organische Dünger PFC 1(A)
+
+<sup>1</sup> Der Schadstoffgehalt von organischen Düngern darf die folgenden Grenzwerte nicht überschreiten:
 
 <table>
-<tr><th>Schadstoff</th><th colspan="2">Grenzwert in Gramm pro Tonne Trockensubstanz</th></tr>
-<tr><td>Blei (Pb)</td><td colspan="2">120</td></tr>
-<tr><td>Cadmium (Cd)</td><td colspan="2">1</td></tr>
-<tr><td>Kupfer (Cu)</td><td colspan="2">100\*</td></tr>
-<tr><td>Nickel (Ni)</td><td colspan="2">30</td></tr>
-<tr><td>Quecksilber (Hg)</td><td colspan="2">1</td></tr>
-<tr><td>Zink (Zn)</td><td colspan="2">400\*\*</td></tr>
-<tr><td colspan="2">\* ab einem Anteil von mehr als 50 % Exkrementen von Schweinen bezogen auf die Trockensubstanz 150 g/t TS</td><td></td></tr>
-<tr><td colspan="2">\*\* ab einem Anteil von mehr als 50 % Exkrementen von Schweinen bezogen auf die Trockensubstanz 600 g/t TS</td><td></td></tr>
+<tr><th>Schadstoff</th><th>Grenzwerte in Milligramm pro Kilogramm Trockensubstanz</th></tr>
+<tr><td>Anorganisches Arsen (As)</td><td>40</td></tr>
+<tr><td>Cadmium (Cd)</td><td>1</td></tr>
+<tr><td>Chrom (Cr)</td><td>2000∗</td></tr>
+<tr><td>Sechswertiges Chrom (Cr VI)</td><td>2</td></tr>
+<tr><td>Kupfer (Cu)</td><td>100\*\*</td></tr>
+<tr><td>Quecksilber (Hg)</td><td>1</td></tr>
+<tr><td>Nickel (Ni)</td><td>30</td></tr>
+<tr><td>Blei (Pb)</td><td>120</td></tr>
+<tr><td>Zink (Zn)</td><td>400\*\*\*</td></tr>
+<tr><td colspan="2">∗ gilt ausschliesslich für Erzeugnisse aus tierischen Nebenprodukten ∗∗ ab einem Anteil von mehr als 50 % Exkrementen von Schweinen bezogen auf die Trockensubstanz 150 g/t TS ∗∗∗ ab einem Anteil von mehr als 50 % Exkrementen von Schweinen bezogen auf die Trockensubstanz 600 g/t TS</td></tr>
 </table>
 
-<sup>2</sup> Für Kompost und Gärgut gelten zusätzlich folgende Anforderungen für Fremdstoffe:
+<sup>2</sup> Biuret (C<sub>2</sub>H<sub>5</sub>N<sub>3</sub>O<sub>2</sub>) darf in organischen Düngern nicht vorhanden sein.
 
-- a. Fremdstoffe (Metall, Glas, Altpapier, Karton usw.) dürfen höchstens 0,4 Prozent des Gewichts der Trockensubstanz betragen;
-- b. der Gehalt an Alufolie und Kunststoffen darf höchstens 0,1 Prozent des Gewichts der Trockensubstanz betragen;
-- c. der Gehalt an Steinen mit mehr als 5 mm Durchmesser soll möglichst niedrig sein, sodass die Qualität eines Düngers nicht beeinträchtigt wird.
+### 2.2.1.2 Organisch-mineralischer Dünger PFC 1(B)
+
+<sup>1</sup> In einem organisch-mineralischen Dünger enthaltene Schadstoffe dürfen die folgenden Grenzwerte nicht überschreiten:
+
+<table>
+<tr><th>Schadstoff</th><th>Grenzwerte in Milligramm pro Kilogramm Trockensubstanz</th><th>Grenzwert in Milligramm pro Kilogramm Phosphor (P)</th></tr>
+<tr><td>Anorganisches Arsen (As)</td><td>40</td><td></td></tr>
+<tr><td>Cadmium (Cd) in Düngern mit einem Phosphorgehalt (P) von 5 % oder weniger</td><td>1</td><td></td></tr>
+<tr><td>Cadmium (Cd) in Düngern mit einem Phosphorgehalt (P) von über 5 %</td><td></td><td>50</td></tr>
+<tr><td>Chrom (Cr)</td><td>2000∗</td><td></td></tr>
+<tr><td>Sechswertiges Chrom (Cr VI)</td><td>2</td><td></td></tr>
+<tr><td>Kupfer (Cu)</td><td>100\*\*</td><td></td></tr>
+<tr><td>Quecksilber (Hg)</td><td>1</td><td></td></tr>
+<tr><td>Nickel (Ni)</td><td>30</td><td></td></tr>
+<tr><td>Blei (Pb)</td><td>120</td><td></td></tr>
+<tr><td>Zink (Zn)</td><td>400\*\*\*</td><td></td></tr>
+<tr><td colspan="3">∗ gilt ausschliesslich für Erzeugnisse aus tierischen Nebenprodukten ∗∗ ab einem Anteil von mehr als 50 % Exkrementen von Schweinen bezogen auf die Trockensubstanz 150 g/t TS. ∗∗∗ ab einem Anteil von mehr als 50 % Exkrementen von Schweinen bezogen auf die Trockensubstanz 600 g/t TS Die Grenzwerte für Kupfer (Cu) und Zink (Zn) gelten nicht, wenn dem organisch-mineralischen Dünger zur Behebung eines Spurennährstoffmangels im Boden diese Elemente absichtlich zugesetzt wurden und dies gemäss Anhang III deklariert wird.</td></tr>
+</table>
+
+<sup>2</sup> Der Gehalt an Biuret (C<sub>2</sub>H<sub>5</sub>N<sub>3</sub>O<sub>2</sub>) in organisch-mineralischen Düngern darf 12g/kg Trockenmasse nicht überschreiten.
+
+### 2.2.1.3 Anorganischer Makronährstoff-Dünger PFC 1(C)(I)
+
+<sup>1</sup> In einem anorganischen Makronährstoff-Dünger enthaltene Schadstoffe dürfen die folgenden Grenzwerte nicht überschreiten:
+
+<table>
+<tr><th>Schadstoff</th><th>Grenzwerte in Milligramm pro Kilogramm Trockensubstanz</th><th>Grenzwerte in Milligramm pro Kilogramm Phosphor (P)</th></tr>
+<tr><td>Arsen (As)</td><td>40</td><td></td></tr>
+<tr><td>Cadmium (Cd) in Düngern mit einem Phosphorgehalt (P) von 1 % oder weniger</td><td>3</td><td></td></tr>
+<tr><td>Cadmium (Cd) in Düngern mit einem Phosphorgehalt (P) von über 1 %</td><td></td><td>50</td></tr>
+<tr><td>Chrom (Cr)</td><td>2000</td><td></td></tr>
+<tr><td>Sechswertiges Chrom (Cr VI)</td><td>2</td><td></td></tr>
+<tr><td>Kupfer (Cu)</td><td>600</td><td></td></tr>
+<tr><td>Quecksilber (Hg)</td><td>1</td><td></td></tr>
+<tr><td>Nickel (Ni)</td><td>100</td><td></td></tr>
+<tr><td>Blei (Pb)</td><td>120</td><td></td></tr>
+<tr><td>Vanadium (V)</td><td>4000</td><td></td></tr>
+<tr><td>Zink (Zn)</td><td>1500</td><td></td></tr>
+<tr><td>Perchlorat (ClO<sub>4</sub>-)</td><td>50</td><td></td></tr>
+<tr><td colspan="3">Die Grenzwerte für Kupfer (Cu) und Zink (Zn) gelten nicht, wenn dem anorganischen Makronährstoff-Dünger zur Behebung eines Spurennährstoffmangels im Boden diese Elemente absichtlich zugesetzt wurden und dies gemäss den Kennzeichnungsvorschriften deklariert wird.</td></tr>
+</table>
+
+<sup>2</sup> Der Gehalt an Biuret (C<sub>2</sub>H<sub>5</sub>N<sub>3</sub>O<sub>2</sub>) in anorganischen Makronährstoff-Düngern darf 12 g/kg Trockenmasse nicht überschreiten.
+
+<sup>3</sup> In festen anorganischen Einnährstoff- oder Mehrnährstoff-Makronährstoff-Ammoniumnitrat-Düngern mit hohem Stickstoffgehalt (PFC 1(C)(I)(a)(i)(A) et PFC 1(C)(I)(a)(ii)(A)) darf der Gehalt an Kupfer (Cu) höchstens 10 mg/kg und der Gehalt an Chlor (Cl) höchstens 200 mg/kg betragen.
+
+### 2.2.1.4 Anorganischer Spurennährstoff-Dünger PFC 1(C)(II)
+
+In einem anorganischen Spurennährstoff-Dünger enthaltene Schadstoffe dürfen die folgenden Grenzwerte nicht überschreiten:
+
+<table>
+<tr><th>Schadstoff</th><th>Grenzwerte in mg, bezogen auf den Gesamtgehalt an Spurennährstoffen in kg. [mg/kg Gesamtgehalt an Spurennährstoffen, das heisst Bor (B), Kobalt (Co), Kupfer (Cu), Eisen (Fe), Mangan (Mn), Molybdän (Mo) oder Zink (Zn)]</th></tr>
+<tr><td>Arsen (As)</td><td>1000</td></tr>
+<tr><td>Cadmium (Cd)</td><td>200</td></tr>
+<tr><td>Blei (Pb)</td><td>600</td></tr>
+<tr><td>Quecksilber (Hg)</td><td>100</td></tr>
+<tr><td>Nickel (Ni)</td><td>2000</td></tr>
+</table>
+
+### 2.2.1.5 Kalkdünger PFC 2
+
+In einem Kalkdünger enthaltene Schadstoffe dürfen die folgenden Grenzwerte nicht überschreiten:
+
+<table>
+<tr><th>Schadstoff</th><th>Grenzwerte in Milligramm pro Kilogramm Trockensubstanz</th></tr>
+<tr><td>Arsen (As)</td><td>40</td></tr>
+<tr><td>Cadmium (Cd)</td><td>2</td></tr>
+<tr><td>Sechswertiges Chrom (Cr VI)</td><td>2</td></tr>
+<tr><td>Kupfer (Cu)</td><td>300</td></tr>
+<tr><td>Quecksilber (Hg)</td><td>1</td></tr>
+<tr><td>Nickel (Ni)</td><td>90</td></tr>
+<tr><td>Blei (Pb)</td><td>120</td></tr>
+<tr><td>Zink (Zn)</td><td>800</td></tr>
+</table>
+
+### 2.2.1.6 Organisches Bodenverbesserungsmittel PFC 3(A)
+
+In einem organischen Bodenverbesserungsmittel enthaltene Schadstoffe dürfen die folgenden Grenzwerte nicht überschreiten:
+
+<table>
+<tr><th>Schadstoff</th><th>Grenzwerte in Milligramm pro Kilogramm Trockensubstanz</th></tr>
+<tr><td>Anorganisches Arsen (As)</td><td>40</td></tr>
+<tr><td>Cadmium (Cd)</td><td>2</td></tr>
+<tr><td>Sechswertiges Chrom (Cr VI)</td><td>2</td></tr>
+<tr><td>Kupfer (Cu)</td><td>300</td></tr>
+<tr><td>Quecksilber (Hg)</td><td>1</td></tr>
+<tr><td>Nickel (Ni)</td><td>50</td></tr>
+<tr><td>Blei (Pb)</td><td>120</td></tr>
+<tr><td>Zink (Zn)</td><td>800</td></tr>
+</table>
+
+### 2.2.1.7 Anorganisches Bodenverbesserungsmittel PFC 3(B)
+
+In einem anorganischen Bodenverbesserungsmittel enthaltene Schadstoffe dürfen die folgenden Grenzwerte nicht überschreiten:
+
+<table>
+<tr><th>Schadstoff</th><th>Grenzwerte in Milligramm pro Kilogramm Trockensubstanz</th></tr>
+<tr><td>Anorganisches Arsen (As)</td><td>40</td></tr>
+<tr><td>Cadmium (Cd)</td><td>1,5</td></tr>
+<tr><td>Sechswertiges Chrom (Cr VI)</td><td>2</td></tr>
+<tr><td>Kupfer (Cu)</td><td>300</td></tr>
+<tr><td>Quecksilber (Hg)</td><td>1</td></tr>
+<tr><td>Nickel (Ni)</td><td>100</td></tr>
+<tr><td>Blei (Pb)</td><td>120</td></tr>
+<tr><td>Zink (Zn)</td><td>800</td></tr>
+</table>
+
+### 2.2.1.8 Kultursubstrat PFC 4
+
+<sup>1</sup> In einem Kultursubstrat enthaltene Schadstoffe dürfen die folgenden Grenzwerte nicht überschreiten:
+
+<table>
+<tr><th>Schadstoff</th><th>Grenzwerte in Milligramm pro Kilogramm Trockensubstanz</th></tr>
+<tr><td>Anorganisches Arsen (As)</td><td>40</td></tr>
+<tr><td>Cadmium (Cd)</td><td>1,5</td></tr>
+<tr><td>Sechswertiges Chrom (Cr VI)</td><td>2</td></tr>
+<tr><td>Kupfer (Cu)</td><td>200</td></tr>
+<tr><td>Quecksilber (Hg)</td><td>1</td></tr>
+<tr><td>Nickel (Ni)</td><td>50\*</td></tr>
+<tr><td>Blei (Pb)</td><td>120</td></tr>
+<tr><td>Zink (Zn)</td><td>500</td></tr>
+<tr><td colspan="2">\* Bei Kultursubstraten, die zu mehr als 70 % aus mineralischen Stoffen bestehen, gilt der Grenzwert für den bioverfügbaren Gehalt des Schadstoffs.</td></tr>
+</table>
+
+<sup>2</sup> Für Kultursubstrate gelten die folgenden Richtwerte:
+
+<table>
+<tr><th>Schadstoff</th><th>Richtwert</th></tr>
+<tr><td>Polyzyklische aromatische Kohlenwasserstoffe (PAK)</td><td>4 Milligramm pro Kilogramm Trockensubstanz<sup>1</sup></td></tr>
+<tr><td>Dioxine (PCDD) und Furane (PCDF)</td><td>20 Nanogramme WHO<sub>2005</sub>-TEQ<sup>2</sup> pro Kilogramm Trockensubstanz</td></tr>
+<tr><td colspan="2"><sup>1</sup> Summe der folgenden 16 PAK-Leitverbindungen der EPA (Priority pollutants list): Naphthalin, Acenaphthylen, Acenaphthen, Fluoren, Phenanthren, Anthracen, Fluoranthen, Pyren, Benzo(a)anthracen, Chrysen, Benzo(b)fluoranthen, Benzo(k)-fluoranthen, Benzo(a)pyren, Indeno(1,2,3-c,d)pyren, Dibenzo(a,h)anthracen und Benzo(g,h,i)perylen. <sup>2</sup> Toxizitätsequivalente gemäss Empfehlung der Weltgesundheitsorganisation WHO nach einer Konsultation von Expertinnen und Experten im Jahr 2005. Referenz: Martin van den Berg et al. (2006) The 2005 World Health Organization Reevaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-Like Compounds. Toxicological science 93(2):223–241. https://doi.org/10.1093/toxsci/kfl055.</td></tr>
+</table>
+
+### 2.2.1.9 Pflanzen-Biostimulans PFC 6
+
+Der Schadstoffgehalt von Pflanzen-Biostimulanzien darf die folgenden Grenzwerte nicht überschreiten:
+
+<table>
+<tr><th>Schadstoff</th><th>Grenzwerte in Milligramm pro Kilogramm Trockensubstanz</th></tr>
+<tr><td>Anorganisches Arsen (As)</td><td>40</td></tr>
+<tr><td>Cadmium (Cd)</td><td>1,5</td></tr>
+<tr><td>Sechswertiges Chrom (Cr VI)</td><td>2</td></tr>
+<tr><td>Kupfer (Cu)</td><td>600</td></tr>
+<tr><td>Quecksilber (Hg)</td><td>1</td></tr>
+<tr><td>Nickel (Ni)</td><td>50</td></tr>
+<tr><td>Blei (Pb)</td><td>120</td></tr>
+<tr><td>Zink (Zn)</td><td>1500</td></tr>
+</table>
+
+### 2.2.1.10 Hofdünger PFC 100 und Recyclingdünger PFC 101
+
+<sup>1</sup> In einem Hof- und Recyclingdünger enthaltene Schadstoffe dürfen die folgenden Grenzwerte nicht überschreiten:
+
+<table>
+<tr><th>Schadstoff</th><th>Grenzwerte in Milligramm pro Kilogramm Trockensubstanz</th></tr>
+<tr><td>Cadmium (Cd)</td><td>1</td></tr>
+<tr><td>Kupfer (Cu)</td><td>100\*</td></tr>
+<tr><td>Quecksilber (Hg)</td><td>1</td></tr>
+<tr><td>Nickel (Ni)</td><td>30</td></tr>
+<tr><td>Blei (Pb)</td><td>120</td></tr>
+<tr><td>Zink (Zn)</td><td>400\*\*</td></tr>
+<tr><td colspan="2">∗ ab einem Anteil von mehr als 50 % Exkrementen von Schweinen bezogen auf die Trockensubstanz 150 g/t TS. ∗∗ ab einem Anteil von mehr als 50 % Exkrementen von Schweinen bezogen auf die Trockensubstanz 600 g/t TS</td></tr>
+</table>
+
+<sup>2</sup> Für Kompost und Gärgut gelten zusätzlich folgende Anforderungen für inerte Fremdstoffe:
+
+- a. Fremdstoffe (Metall, Glas, Altpapier, Karton usw.) dürfen höchstens 0,4 Prozent des Gewichts der Trockensubstanz betragen.
+- b. Der Gehalt an Alufolie und Kunststoffen darf höchstens 0,1 Prozent des Gewichts der Trockensubstanz betragen.
+- c. Der Gehalt an Steinen mit mehr als 5 mm Durchmesser soll möglichst niedrig sein, sodass die Qualität eines Düngers nicht beeinträchtigt wird.
 
 <sup>3</sup> Für Kompost und Gärgut gelten die folgenden Richtwerte:
 
 <table>
-<tr><td>Schadstoff</td><td colspan="2">Richtwert</td></tr>
-<tr><td>Polyzyklische aromatische Kohlenwasserstoffe (PAK)</td><td colspan="2">4 Gramm pro Tonne Trockensubstanz<sup>1</sup></td></tr>
-<tr><td>Dioxine (PCDD) und Furane (PCDF)</td><td colspan="2">20 Nanogramm I-TEQ<sup>2</sup> pro Kilogramm Trockensubstanz</td></tr>
-<tr><td colspan="2"><sup>1</sup> Summe der folgenden 16 PAK-Leitverbindungen der EPA (Priority pollutants list): Naphthalin, Acenaphthylen, Acenaphthen, Fluoren, Phenanthren, Anthracen, Fluoranthen, Pyren, Benzo(a)anthracen, Chrysen, Benzo(b)fluoranthen, Benzo(k)-fluoranthen, Benzo(a)pyren, Indeno(1,2,3-c,d)pyren, Dibenzo(a,h)anthracen und Benzo(g,h,i)perylen.</td><td></td></tr>
-<tr><td colspan="2"><sup>2</sup> I-TEQ = Internationale Toxizitätsäquivalente</td><td></td></tr>
+<tr><th>Schadstoff</th><th>Richtwert</th></tr>
+<tr><td>Polyzyklische aromatische Kohlenwasserstoffe (PAK)</td><td>4 Milligramm pro Kilogramm Trockensubstanz<sup>1</sup></td></tr>
+<tr><td>Dioxine (PCDD) und Furane (PCDF)</td><td>20 Nanogramme WHO<sub>2005</sub>-TEQ<sup>2</sup> pro Kilogramm Trockensubstanz</td></tr>
+<tr><td colspan="2"><sup>1</sup> Summe der folgenden 16 PAK-Leitverbindungen der EPA (Priority pollutants list): Naphthalin, Acenaphthylen, Acenaphthen, Fluoren, Phenanthren, Anthracen, Fluoranthen, Pyren, Benzo(a)anthracen, Chrysen, Benzo(b)fluoranthen, Benzo(k)-fluoranthen, Benzo(a)pyren, Indeno(1,2,3-c,d)pyren, Dibenzo(a,h)anthracen und Benzo(g,h,i)perylen. <sup>2</sup> Toxizitätsequivalente gemäss Empfehlung der Weltgesundheitsorganisation WHO nach einer Konsultation von Expertinnen und Experten im Jahr 2005. Referenz: Martin van den Berg et al. (2006) The 2005 World Health Organization Reevaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-Like Compounds. Toxicological science 93(2):223–241; https://doi.org/10.1093/toxsci/kfl055.</td></tr>
 </table>
 
-<sup>4</sup> Für Hofdünger, die für den eigenen Betrieb bestimmt sind und die von einem Betrieb mit Nutztierhaltung direkt an die Endverbraucherin oder den Endverbraucher abgegeben werden, gelten die Bestimmungen von Absatz 1 nicht. Vorbehalten bleiben auch die Bestimmungen nach Artikel 30*a* Absatz 2 DüV.
+<sup>4</sup> Für Hofdünger, die für den eigenen Betrieb bestimmt sind und die von einem Betrieb mit Nutztierhaltung direkt an die Endverbraucherin oder den Endverbraucher abgegeben werden, gelten die Bestimmungen von Absatz 1 nicht. Vorbehalten bleiben auch die Bestimmungen nach Artikel 10 DüV.
 
-### 2.2.2 Mineraldünger und Erzeugnisse aus tierischen Nebenprodukten
+### 2.2.2 Anforderungen für Komponentenmaterialkategorien (CMC
 
-Der Schadstoffgehalt von Mineraldüngern und Erzeugnissen aus tierischen Nebenprodukten darf die folgenden Grenzwerte nicht übersteigen:
+### 2.2.2.1 Kompost (CMC 3), frisches Gärgut von Pflanzen (CMC 4) und anderes Gärgut als frisches Gärgut von Pflanzen (CMC 5)
 
-<table>
-<tr><th>Schadstoff</th><th colspan="2">Grenzwert in Gramm pro Tonne</th></tr>
-<tr><th></th><th>Trockensubstanz</th><th>Phosphor (P)</th></tr>
-<tr><td>Cadmium (Cd) in Phosphordüngern mit einem Phosphorgehalt von mehr als 1 Prozent</td><td></td><td>50</td></tr>
-<tr><td>Chrom (Cr)</td><td>2000</td><td></td></tr>
-<tr><td>Vanadium (V)</td><td>4000</td><td></td></tr>
-</table>
+Die in Ziffer 2.2.1.10 festgelegten Qualitätsanforderungen gelten auch für Kompost und Gärgut als Komponentenmaterialien in einem Dünger.
 
-### 2.2.3 Organisch-mineralische Dünger
+### 2.2.2.2 Gefällte Phosphatsalze und deren Folgeprodukte (CMC 12) und durch thermische Oxidation gewonnene Materialien und deren Folgeprodukte (CMC 13)
 
-Der Schadstoffgehalt von organisch-mineralischen Düngern darf die Grenzwerte der Ziffer 2.2.1 nicht übersteigen, wobei bei einem Anteil von mehr als 5 Prozent Phosphor der Cadmiumgrenzwert von Ziffer 2.2.2 zur Anwendung gelangt.
-
-### 2.2.4 Mineralische Recyclingdünger
-
-<sup>1</sup> Der anorganische Schadstoffgehalt von mineralischen Recyclingdüngern mit zurückgewonnenem Phosphor darf die folgenden Grenzwerte nicht überschreiten:
+<sup>1</sup> Der Schadstoffgehalt von gefällten Phosphatsalzen und deren Folgeprodukten sowie von durch thermische Oxidation gewonnenen Materialien und deren Folgeprodukten darf die folgenden Grenzwerte nicht überschreiten:
 
 <table>
-<tr><th>Schadstoff</th><th>Grenzwert in Gramm pro Tonne Phosphor (P)</th></tr>
-<tr><td>Blei (Pb)</td><td>500</td></tr>
-<tr><td>Cadmium (Cd)</td><td>25</td></tr>
-<tr><td>Kupfer (Cu)</td><td>3 000</td></tr>
-<tr><td>Nickel (Ni)</td><td>500</td></tr>
-<tr><td>Quecksilber (Hg)</td><td>2</td></tr>
-<tr><td>Zink (Zn)</td><td>10 000</td></tr>
+<tr><th>Schadstoff</th><th>Grenzwert in Milligramm pro Kilogramm Phosphor (P)</th></tr>
 <tr><td>Arsen (As)</td><td>100</td></tr>
+<tr><td>Cadmium (Cd)</td><td>25</td></tr>
 <tr><td>Chrom (Cr)</td><td>1 000</td></tr>
+<tr><td>Kupfer (Cu)</td><td>3 000</td></tr>
+<tr><td>Quecksilber (Hg)</td><td>2</td></tr>
+<tr><td>Nickel (Ni)</td><td>500</td></tr>
+<tr><td>Blei (Pb)</td><td>500</td></tr>
+<tr><td>Zink (Zn)</td><td>10 000</td></tr>
 </table>
 
-<sup>2</sup> Der organische Schadstoffgehalt von mineralischen Recyclingdüngern mit zurückgewonnenem Phosphor darf die folgenden Grenzwerte nicht überschreiten:
+<sup>2</sup> Der Gehalt an organischen Schadstoffen von gefällten Phosphatsalzen und deren Folgeprodukten sowie von durch thermische Oxidation gewonnenen Materialien und deren Folgeprodukten darf die folgenden Grenzwerte nicht überschreiten:
 
 <table>
-<tr><td>Schadstoff</td><td>Grenzwert</td></tr>
-<tr><td>Polyzyklische aromatische Kohlenwasserstoffe (PAK)</td><td>25 Gramm pro Tonne Phosphor (P)<sup>1</sup></td></tr>
-<tr><td>Polychlorierte Biphenyle (PCB)</td><td>0,5 Gramm pro Tonne Phosphor (P)<sup>2</sup></td></tr>
-<tr><td>Dioxine (PCDD) und Furane (PCDF)</td><td>120 Nanogramm I-TEQ pro Kilogramm Phosphor (P)<sup>3</sup></td></tr>
-<tr><td colspan="2"><sup>1</sup> Summe der folgenden 16 PAK-Leitverbindungen der EPA (Priority pollutants list): Naphthalin, Acenaphthylen, Acenaphthen, Fluoren, Phenanthren, Anthracen, Fluoranthen, Pyren, Benzo(a)anthracen, Chrysen, Benzo(b)fluoranthen, Benzo(k)-fluoranthen, Benzo(a)pyren, Indeno(1,2,3-c,d)pyren, Dibenzo(a,h)anthracen und Benzo(g,h,i)perylen</td></tr>
-<tr><td colspan="2"><sup>2</sup> Summe der 7 Kongeneren gemäss IRMM (Institute for Reference Materials and Measurements), IUPAC-Nr. 28, 52, 101, 118, 138, 153, 180</td></tr>
-<tr><td colspan="2"><sup>3</sup> I-TEQ = Internationale Toxizitätsäquivalente</td></tr>
+<tr><th>Schadstoff</th><th>Grenzwert</th></tr>
+<tr><td>Polyzyklische aromatische Kohlenwasserstoffe (PAK)</td><td>25 Milligramm pro Kilogramm Phosphor (P)<sup>1</sup></td></tr>
+<tr><td>Polychlorierte Biphenyle (PCB)</td><td>0,5 Milligramm pro Kilogramm Phosphor (P)<sup>2</sup></td></tr>
+<tr><td>Dioxine (PCDD) und Furane (PCDF)</td><td>120 Nanogramm WHO<sub>2005</sub>-TEQ pro Kilogramm Phosphor (P)<sup>3</sup></td></tr>
+<tr><td colspan="2"><sup>1</sup> Summe der folgenden 16 PAK-Leitverbindungen der EPA (Priority pollutants list): Naphthalin, Acenaphthylen, Acenaphthen, Fluoren, Phenanthren, Anthracen, Fluoranthen, Pyren, Benzo(a)anthracen, Chrysen, Benzo(b)fluoranthen, Benzo(k)-fluoranthen, Benzo(a)pyren, Indeno(1,2,3-c,d)pyren, Dibenzo(a,h)anthracen und Benzo(g,h,i)perylen <sup>2</sup> Summe der 7 Kongeneren gemäss IRMM (Institute for Reference Materials and Measurements), IUPAC-Nr. 28, 52, 101, 118, 138, 153 und 180 <sup>3</sup> Toxizitätsequivalente gemäss Empfehlung der Weltgesundheitsorganisation WHO nach einer Konsultation von Expertinnen und Experten im Jahr 2005. Referenz: Martin van den Berg et al. (2006) The 2005 World Health Organization Reevaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-Like Compounds. Toxicological science93(2):223–241; https://doi.org/10.1093/toxsci/kfl055.</td></tr>
 </table>
 
-<sup>3</sup> Mineralische Recyclingdünger mit zurückgewonnenem Stickstoff oder Kalium dürfen die Grenzwerte für Recyclingdünger nach Ziffer 2.2.1 nicht überschreiten.
+### 2.2.2.3 Durch Pyrolyse oder Vergasung gewonnene Materialien (CMC 14)
+
+<sup>1</sup> Der Schadstoffgehalt von durch Pyrolyse oder Vergasung gewonnenen Materialien darf die folgenden Grenzwerte nicht überschreiten:
+
+<table>
+<tr><th>Schadstoff</th><th>Grenzwert in Milligramm pro Kilogramm Trockensubstanz</th></tr>
+<tr><td>Arsen (As)</td><td>13</td></tr>
+<tr><td>Cadmium (Cd)</td><td>0,7</td></tr>
+<tr><td>Chrom (Cr)</td><td>70</td></tr>
+<tr><td>Kupfer (Cu)</td><td>70</td></tr>
+<tr><td>Quecksilber (Hg)</td><td>0.4</td></tr>
+<tr><td>Nickel (Ni)</td><td>25</td></tr>
+<tr><td>Blei (Pb)</td><td>45</td></tr>
+<tr><td>Zink (Zn)</td><td>200</td></tr>
+</table>
+
+<sup>2</sup> Der Gehalt an organischen Schadstoffen von durch Pyrolyse oder Vergasung gewonnenen Materialien darf die folgenden Grenzwerte nicht überschreiten:
+
+<table>
+<tr><th>Schadstoff</th><th>Grenzwert</th></tr>
+<tr><td>Polyzyklische aromatische Kohlenwasserstoffe (PAK)</td><td>4 Milligramm pro Kilogramm Trockensubstanz<sup>1</sup></td></tr>
+<tr><td>Polychlorierte Biphenyle (PCB)</td><td>0,2 Milligramm pro Kilogramm Trockensubstanz<sup>2</sup></td></tr>
+<tr><td>Dioxine (PCDD) und Furane (PCDF)</td><td>20 Nanogramm WHO<sub>2005</sub>-TEQ pro Kilogramm Trockenmasse<sup>3</sup></td></tr>
+<tr><td colspan="2"><sup>1</sup> Summe der folgenden 16 PAK-Leitverbindungen der EPA (Priority pollutants list): Naphthalin, Acenaphthylen, Acenaphthen, Fluoren, Phenanthren, Anthracen, Fluoranthen, Pyren, Benzo(a)anthracen, Chrysen, Benzo(b)fluoranthen, Benzo(k)-fluoranthen, Benzo(a)pyren, Indeno(1,2,3-c,d)pyren, Dibenzo(a,h)anthracen und Benzo(g,h,i)perylen. Bestimmung mittels zweistündiger Rückflussextraktion mit Toluol. <sup>2</sup> Summe der 7 Kongeneren gemäss IRMM (Institute for Reference Materials and Measurements), IUPAC-Nr. 28, 52, 101, 118, 138, 153 und 180. Bestimmung mittels sechsstündiger Soxhletextraktion mit Toluol oder beschleunigter Lösemittelextraktion <sup>3</sup> Toxizitätsequivalente gemäss Empfehlung der Weltgesundheitsorganisation WHO nach einer Konsultation von Expertinnen und Experten im Jahr 2005. Referenz: Martin van den Berg et al. (2006) The 2005 World Health Organization Reevaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-Like Compounds. Toxicological science 93(2):223–241; https://doi.org/10.1093/toxsci/kfl055. Bestimmung mittels 20-stündiger Soxhletextraktion mit Toluol oder beschleunigter Lösemittelextraktion</td></tr>
+</table>
 
 ### 3 Verwendung
 
@@ -3677,7 +3872,7 @@ Der Schadstoffgehalt von organisch-mineralischen Düngern darf die Grenzwerte de
 - c. die Witterung;
 - d. Beschränkungen, die nach der Gewässerschutz-, der Natur- und Heimatschutz- oder der Umweltschutzgesetzgebung angeordnet oder vereinbart worden sind.
 
-<sup>2</sup> Wer über Hofdünger verfügt, darf Recycling- und Mineraldünger nur verwenden, wenn der Hofdünger nicht ausreicht oder sich nicht eignet, um den Nährstoffbedarf der Pflanzen zu decken.
+<sup>2</sup> Wer über Hofdünger verfügt, darf Recyclingdünger und anorganische Dünger nur verwenden, wenn der Hofdünger nicht ausreicht oder sich nicht eignet, um den Nährstoffbedarf der Pflanzen zu decken.
 
 <sup>3</sup> Schadstoffeinträge in landwirtschaftlich genutzte Böden sind soweit wie möglich zu vermeiden.
 
@@ -3693,13 +3888,17 @@ Der Schadstoffgehalt von organisch-mineralischen Düngern darf die Grenzwerte de
 
 <sup>1</sup> Auf einer Hektare dürfen innert drei Jahren bis zu 25 t Kompost und festes Gärgut (bezogen auf die Trockensubstanz) oder 200 m<sup>3</sup> flüssiges Gärgut zu Düngezwecken verwendet werden, wenn dadurch der Bedarf der Pflanzen an Stickstoff und Phosphor nicht überstiegen wird.
 
-<sup>2</sup> Auf einer Hektare dürfen innert zehn Jahren nicht mehr als 100 t organische und organisch-mineralische Bodenverbesserungsmittel, Kompost oder festes Gärgut als Bodenverbesserer, als Substrat, als Erosionsschutz, für Rekultivierungen oder für künstliche Kulturerden verwendet werden.
+<sup>2</sup> Auf einer Hektare dürfen innert zehn Jahren nicht mehr als 100 t Bodenverbesserungsmittel mit einem Gehalt an C<sub>org</sub> über 7,5 %, Kompost oder festes Gärgut als Bodenverbesserer, als Substrat, als Erosionsschutz, für Rekultivierungen oder für künstliche Kulturerden verwendet werden.
 
 ### 3.2.3 Rückstände aus kleinen Abwasserreinigungsanlagen und aus nichtlandwirtschaftlichen Abwassergruben ohne Abfluss
 
 <sup>1</sup> Rückstände aus nichtlandwirtschaftlichen Abwasserreinigungsanlagen mit höchstens 200 Einwohnerwerten und aus nichtlandwirtschaftlichen Abwassergruben ohne Abfluss dürfen mit Bewilligung der kantonalen Behörde ausserhalb von Grundwasserschutzzonen auf Futterflächen in weit abgelegenen oder verkehrstechnisch schlecht erschlossenen Gebieten verwendet werden.
 
 <sup>2</sup> Sie dürfen nicht auf Gemüseflächen verwendet und in Güllengruben eingefüllt werden; vorbehalten bleiben ausserdem die Vorschriften nach Ziffer 3.3.
+
+### 3.2.4 Durch Pyrolyse gewonnene Materialien
+
+<sup>1</sup> Die maximal zulässige Ausbringung von durch Pyrolyse oder Vergasung gewonnenen Materialien in einem Jahr beträgt 1 t pro Hektare und 10 t pro Hektare über zwanzig Jahre.
 
 ### 3.3 Verbote und Ausnahmen
 
@@ -3710,7 +3909,7 @@ Der Schadstoffgehalt von organisch-mineralischen Düngern darf die Grenzwerte de
 - a. in Gebieten, die gestützt auf eidgenössisches oder kantonales Recht unter Naturschutz stehen, soweit die massgebenden Vorschriften oder Vereinbarungen nichts anderes bestimmen;
 - b. in Riedgebieten und Mooren, soweit für diese nicht bereits Regelungen nach Buchstabe a gelten;
 - c. in Hecken und Feldgehölzen sowie in einem Streifen von drei Metern Breite entlang von Hecken und Feldgehölzen;
-- d. in oberirdischen Gewässern und in einem Streifen von drei Metern Breite entlang von oberirdischen Gewässern, wobei der Streifen bei Fliessgewässern, für die ein Gewässerraum nach Artikel 41*a* GSchV[^annex26-lvlu1-lvl3-lvl33-lvl331-1] festgelegt wurde oder bei denen nach Artikel 41*a* Absatz 5 GSchV ausdrücklich auf die Festlegung eines Gewässerraums verzichtet wurde, ab der Uferlinie und bei den übrigen Fliessgewässern sowie bei stehenden Gewässern ab der Böschungsoberkante gemäss Pufferstreifenmerkblatt «Pufferstreifen richtig messen und bewirtschaften», KIP/PIOCH 2009,[^annex26-lvlu1-lvl3-lvl33-lvl331-2] gemessen wird;
+- d. in oberirdischen Gewässern und in einem Streifen von drei Metern Breite entlang von oberirdischen Gewässern, wobei der Streifen bei Fliessgewässern, für die ein Gewässerraum nach Artikel 41*a* GSchV[^annex26-lvlu1-lvl324-lvl33-lvl331-1] festgelegt wurde oder bei denen nach Artikel 41*a* Absatz 5 GSchV ausdrücklich auf die Festlegung eines Gewässerraums verzichtet wurde, ab der Uferlinie und bei den übrigen Fliessgewässern sowie bei stehenden Gewässern ab der Böschungsoberkante gemäss Pufferstreifenmerkblatt «Pufferstreifen richtig messen und bewirtschaften», KIP/PIOCH 2009,[^annex26-lvlu1-lvl324-lvl33-lvl331-2] gemessen wird;
 - e. in der Zone S1 von Grundwasserschutzzonen.
 
 <sup>2</sup> Flüssige Hof- und Recyclingdünger dürfen in den Zonen S2 und S<sub>h</sub> von Grundwasserschutzzonen nicht verwendet werden.
@@ -3721,8 +3920,8 @@ Der Schadstoffgehalt von organisch-mineralischen Düngern darf die Grenzwerte de
 
 <sup>5</sup> Die Verwendung von Düngern im Wald sowie in einem Streifen von drei Metern Breite entlang der Bestockung ist verboten.
 
-[^annex26-lvlu1-lvl3-lvl33-lvl331-1]: [SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
-[^annex26-lvlu1-lvl3-lvl33-lvl331-2]: Das Merkblatt kann bei Agridea, 8315 Lindau, bezogen werden.
+[^annex26-lvlu1-lvl324-lvl33-lvl331-1]: [SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
+[^annex26-lvlu1-lvl324-lvl33-lvl331-2]: Das Merkblatt kann bei Agridea, 8315 Lindau, bezogen werden.
 
 ### 3.3.2 Ausnahmen
 
@@ -3732,20 +3931,20 @@ Der Schadstoffgehalt von organisch-mineralischen Düngern darf die Grenzwerte de
 
 - a.
 
-  die Verwendung von Kompost, festem Gärgut und Mineraldüngern:
+  die Verwendung von Kompost, festem Gärgut und anorganischen Düngern:
 
   - 1\. in forstlichen Pflanzgärten,
   - 2\. bei Wieder- und Neuanpflanzungen sowie für Ansaaten,
   - 3\. zur Förderung der Begrünung von Waldstrassenböschungen sowie im Lebendverbau,
   - 4\. auf kleinen Flächen im Rahmen wissenschaftlicher Versuche;
 
-- b. das Ausbringen von Hofdüngern, Kompost, festem Gärgut und nicht stickstoffhaltigen Mineraldüngern auf bestockten Weiden.
+- b. das Ausbringen von Hofdüngern, Kompost, festem Gärgut und nicht stickstoffhaltigen anorganischen Düngern auf bestockten Weiden.
 
 ### 4 Untersuchungen durch die Behörden
 
-<sup>1</sup> Das BAFU untersucht in den fachlich gebotenen Zeitabständen Kompost und Gärgut auf den PAK-, Dioxin- und Furangehalt. Es veröffentlicht eine Zusammenfassung der ausgewerteten Ergebnisse und teilt sie vorher der kantonalen Behörde, dem BLW und den Inhabern der untersuchten Anlagen mit.
+<sup>1</sup> Das BAFU untersucht in den fachlich gebotenen Zeitabständen Kompost, Gärgut und Kultursubstrat auf den PAK-, Dioxin- und Furangehalt. Es veröffentlicht eine Zusammenfassung der ausgewerteten Ergebnisse und teilt sie vorher der kantonalen Behörde, dem BLW, den Inhabern der untersuchten Kompostierungs- oder Vergärungsanlagen und dem Inverkehrbringer von untersuchten Kultursubstraten mit.
 
-<sup>2</sup> Die kantonalen Behörden ermitteln die Ursachen der Überschreitung von Richtwerten nach Ziffer 2.2.1 Absatz 3 und sorgen dafür, dass Kompost und Gärgut nicht abgegeben werden, wenn durch deren Verwendung die Fruchtbarkeit des Bodens gefährdet werden kann.
+<sup>2</sup> Die kantonalen Behörden ermitteln die Ursachen der Überschreitung von Richtwerten nach Ziffer 2.2.1.10 Absatz 3 und sorgen dafür, dass Kompost und Gärgut nicht abgegeben werden, wenn durch deren Verwendung die Fruchtbarkeit des Bodens gefährdet werden kann.
 
 Anhang 2.7[^t-26]
 
@@ -3978,7 +4177,7 @@ Anhang 2.9[^t-28]
 
 <sup>2</sup> Zubereitungen und Gegenstände, die Recycling-PVC enthalten, müssen mit der Aufschrift «Enthält Recycling-PVC» oder mit folgendem Piktogramm versehen sein:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20231001/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240101/de/xml/image/image2.png)
 
 <sup>3</sup> Zubereitungen, deren Massengehalt an Methylendiphenyl-Diisocyanat 0,1 Prozent oder mehr beträgt, und die für die Abgabe an die breite Öffentlichkeit bestimmt sind, müssen mit folgender Aufschrift versehen sein: «Bei Personen, die bereits für Diisocyanate sensibilisiert sind, kann der Umgang mit diesem Produkt allergische Reaktionen auslösen. – Bei Asthma, ekzematösen Hauterkrankungen oder Hautproblemen Kontakt, einschließlich Hautkontakt, mit dem Produkt vermeiden. – Das Produkt nicht bei ungenügender Lüftung verwenden oder Schutzmaske mit entsprechendem Gasfilter (Typ A1 nach EN 14387) tragen.»
 
@@ -4857,7 +5056,7 @@ Anhang 2.16[^t-35]
 
 ## Besondere Bestimmungen zu Metallen
 
-[^t-35]: Bereinigt gemäss Ziff. I 3 der V vom 15. Dez. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V des BAFU vom 27. Okt. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), Ziff. I der V des BAFU vom 27. Sept. 2018 ([AS 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), vom 29. Sept. 2020 ([AS 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)) und Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-35]: Bereinigt gemäss Ziff. I 3 der V vom 15. Dez. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V des BAFU vom 27. Okt. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), Ziff. I der V des BAFU vom 27. Sept. 2018 ([AS 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), vom 29. Sept. 2020 ([AS 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)), Anhang Ziff. 2 der V vom 11. März 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) und Ziff. I der V vom 27. Nov. 2023 des BAFU, in Kraft seit 1. Jan. 2024 ([AS 2023 749](https://fedlex.data.admin.ch/eli/oc/2023/749)).
 
 ### 1 Chrom(VI) in Zementen
 
@@ -5062,7 +5261,7 @@ Fahrzeuge sind Personenkraftwagen und leichte Nutzfahrzeuge nach der Richtlinie 
 
 <sup>2</sup> Das Verbot nach Ziffer 5.2 Absatz 2 gilt nicht für Fahrzeuge, die Werkstoffe oder Bauteile enthalten, die nach Absatz 1 Buchstabe a in Verkehr gebracht werden dürfen.
 
-[^annex216-lvlu1-lvl5-lvl53-1]: Richtlinie 2000/53/EG des Europäischen Parlaments und des Rates vom 18. September 2000 über Altfahrzeuge, ABl. L 269 vom 21.10.2000, S. 34; zuletzt geändert durch Richtlinie (EU) 2020/363, ABl. L 67 vom 5.3.2020, S. 119.
+[^annex216-lvlu1-lvl5-lvl53-1]: Richtlinie 2000/53/EG des Europäischen Parlaments und des Rates vom 18. September 2000 über Altfahrzeuge, ABl. L 269 vom 21.10.2000, S. 34; zuletzt geändert durch delegierte Richtlinie (EU) 2023/544, ABl. L 73 vom 10.3.2023, S. 5.
 
 ### 5.4 Besondere Kennzeichnung
 
@@ -5139,7 +5338,7 @@ Anhang 2.18[^t-37]
 
 ## Elektro- und Elektronikgeräte
 
-[^t-37]: Eingefügt durch Ziff. II Abs. 1 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Ziff. I der V des BAFU vom 27. Okt. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Ziff. I der V des BAFU vom 9. Sept. 2021 ([AS 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)) und vom 28. Okt. 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 632](https://fedlex.data.admin.ch/eli/oc/2022/632)).
+[^t-37]: Eingefügt durch Ziff. II Abs. 1 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Ziff. I der V des BAFU vom 27. Okt. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Ziff. I der V des BAFU vom 9. Sept. 2021 ([AS 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)) und Ziff. I der V vom 27. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 749](https://fedlex.data.admin.ch/eli/oc/2023/749)).
 
 ### 1 Begriffe
 
@@ -5197,7 +5396,7 @@ Anhang 2.18[^t-37]
 
 Die Verbote nach Ziffer 2 gelten nicht für Elektro- und Elektronikgeräte, Kabel und Ersatzteile, die in den Anhängen III und IV der Richtlinie 2011/65/EU[^annex218-lvlu1-lvl3-1] aufgeführte Stoffe für die dort genannten Verwendungen enthalten.
 
-[^annex218-lvlu1-lvl3-1]: Richtlinie 2011/65/EU des Europäischen Parlaments und des Rates vom 8. Juni 2011 zur Beschränkung der Verwendung bestimmter gefährlicher Stoffe in Elektro- und Elektronikgeräten, ABl. L 174 vom 1.7.2011, S. 88; zuletzt geändert durch Delegierte Richtlinie (EU) 2022/1632, ABl. L 245 vom 22.9.2022, S. 48.
+[^annex218-lvlu1-lvl3-1]: Richtlinie 2011/65/EU des Europäischen Parlaments und des Rates vom 8. Juni 2011 zur Beschränkung der Verwendung bestimmter gefährlicher Stoffe in Elektro- und Elektronikgeräten, ABl. L 174 vom 1.7.2011, S. 88; zuletzt geändert durch delegierte Richtlinie (EU) 2023/1526, ABl. L 185 vom 24.7.2023, S. 26.
 
 ### 4 Vorschriften für die Wirtschaftsakteure
 
@@ -5205,11 +5404,11 @@ Die Verbote nach Ziffer 2 gelten nicht für Elektro- und Elektronikgeräte, Kabe
 
 <sup>1</sup> Die Herstellerin, die ein Elektro- oder Elektronikgerät in Verkehr bringt, hat, vorbehältlich der Ziffern 3 und 8, zu gewährleisten, dass dieses gemäss den Anforderungen von Ziffer 2 entworfen und hergestellt wurde.
 
-<sup>2</sup> Die Herstellerin muss die erforderlichen technischen Unterlagen erstellen; sie muss eine interne Fertigungskontrolle in Übereinstimmung mit dem Modul A in Anhang II des Beschlusses Nr. 768/2008/EG[^annex218-lvlu1-lvl4-lvl41-1] durchführen oder sie durchführen lassen.
+<sup>2</sup> Die Herstellerin muss die erforderlichen technischen Unterlagen erstellen; sie muss eine interne Fertigungskontrolle in Übereinstimmung mit dem Modul A in Anhang II des Beschlusses Nr. 768/2008/EG[^annex218-lvlu1-lvl5-lvl41-1] durchführen oder sie durchführen lassen.
 
 <sup>3</sup> Wurde mit dem in Absatz 2 genannten Verfahren nachgewiesen, dass das Elektro- oder Elektronikgerät den Anforderungen von Ziffer 2 entspricht, so stellt die Herstellerin eine Konformitätserklärung gemäss Absatz 4 aus. Ist nach den Rechtsvorschriften der Schweiz oder der EU die Durchführung eines Konformitätsbewertungsverfahrens erforderlich, bei dem mindestens ebenso strenge Kriterien angewandt werden, so kann die Einhaltung der Anforderungen gemäss Ziffer 2 im Rahmen dieses Verfahrens nachgewiesen werden. Es können einheitliche technische Unterlagen erstellt werden.
 
-<sup>4</sup> Die Konformitätserklärung muss in ihrem Aufbau dem Muster nach Anhang VI der Richtlinie 2011/65/EU[^annex218-lvlu1-lvl4-lvl41-2] entsprechen, hat die in diesem Anhang VI angegebenen Elemente zu enthalten und ist ständig zu aktualisieren. Sie ist in einer schweizerischen Amtssprache oder in englischer Sprache abzufassen.
+<sup>4</sup> Die Konformitätserklärung muss in ihrem Aufbau dem Muster nach Anhang VI der Richtlinie 2011/65/EU[^annex218-lvlu1-lvl5-lvl41-2] entsprechen, hat die in diesem Anhang VI angegebenen Elemente zu enthalten und ist ständig zu aktualisieren. Sie ist in einer schweizerischen Amtssprache oder in englischer Sprache abzufassen.
 
 <sup>5</sup> Die Herstellerin hat zu gewährleisten, dass Verfahren existieren, die sicherstellen, dass bei Serienfertigung die Anforderungen nach diesem Anhang eingehalten werden. Änderungen an der Gestaltung des Geräts oder an seinen Merkmalen sowie Änderungen der harmonisierten Normen oder der technischen Spezifikationen, auf die bei Erklärung der Konformität des Elektro- oder Elektronikgeräts verwiesen wird, sind angemessen zu berücksichtigen.
 
@@ -5224,8 +5423,8 @@ Die Verbote nach Ziffer 2 gelten nicht für Elektro- und Elektronikgeräte, Kabe
 
 <sup>9</sup> Die Herstellerin muss ein Verzeichnis ihrer nichtkonformen Elektro- und Elektronikgeräte sowie der diesbezüglichen Rückrufe und Rücknahmen führen und die Händlerinnen regelmässig hierüber informieren.
 
-[^annex218-lvlu1-lvl4-lvl41-1]: Beschluss Nr. 768/2008/EG des Europäischen Parlaments und des Rates vom 9. Juli 2008 über einen gemeinsamen Rechtsrahmen für die Vermarktung von Produkten und zur Aufhebung des Beschlusses 93/465/EWG des Rates, ABl. L 218 vom 13.8.2008, S. 82.
-[^annex218-lvlu1-lvl4-lvl41-2]: Siehe Fussnote zu Ziffer 1 Absatz 1.
+[^annex218-lvlu1-lvl5-lvl41-1]: Beschluss Nr. 768/2008/EG des Europäischen Parlaments und des Rates vom 9. Juli 2008 über einen gemeinsamen Rechtsrahmen für die Vermarktung von Produkten und zur Aufhebung des Beschlusses 93/465/EWG des Rates, ABl. L 218 vom 13.8.2008, S. 82.
+[^annex218-lvlu1-lvl5-lvl41-2]: Siehe Fussnote zu Ziffer 1 Absatz 1.
 
 ### 4.1<sup>bis</sup> Bevollmächtigte
 
@@ -5278,12 +5477,12 @@ Die Verbote nach Ziffer 2 gelten nicht für Elektro- und Elektronikgeräte, Kabe
 
 <sup>1</sup> Das BAFU passt im Einvernehmen mit dem Bundesamt für Gesundheit (BAG) und dem SECO die Bestimmungen dieses Anhangs wie folgt an:
 
-- a. Ziffer 2 gemäss den Änderungen von Anhang II der Richtlinie 2011/65/EU[^annex218-lvlu1-lvl6-1];
+- a. Ziffer 2 gemäss den Änderungen von Anhang II der Richtlinie 2011/65/EU[^annex218-lvlu1-lvl7-1];
 - b. Ziffer 3 an die jeweils gültige Fassung der Anhänge III und IV der Richtlinie 2011/65/EU.
 
 <sup>2</sup> Das BAFU bezeichnet Titel sowie Fundstelle oder Bezugsquelle der harmonisierten Normen nach Ziffer 5 Absatz 2 Buchstabe b im Bundesblatt.
 
-[^annex218-lvlu1-lvl6-1]: Siehe Fussnote zu Ziffer 1 Absatz 1.
+[^annex218-lvlu1-lvl7-1]: Siehe Fussnote zu Ziffer 1 Absatz 1.
 
 ### 7 Batterien
 
