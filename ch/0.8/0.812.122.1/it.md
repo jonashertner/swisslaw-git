@@ -3,11 +3,11 @@ sr: "0.812.122.1"
 title: Convenzione del 16 novembre 1989 contro il doping (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1238_1238_1238"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1989-11-16
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1238_1238_1238/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1993-1238_1238_1238-20230101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1238_1238_1238/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1238_1238_1238/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1993-1238_1238_1238-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1238_1238_1238/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Strasburgo il 16 novembre 1989 Approvata dall’Assemblea federale il 22 settembre 1992[^t-1] Ratificata con strumento depositato dalla Svizzera il 5 novembre 1992 Entrata in vigore per la Svizzera il 1° gennaio 1993
 
-(Stato 1° gennaio 2023)
+(Stato 1° gennaio 2024)
 
 [^t-1]: [RU 1993 1237](https://fedlex.data.admin.ch/eli/oc/1993/1237_1237_1237)
 
@@ -296,12 +296,12 @@ Il Segretario Generale del Consiglio d’Europa notifica alle Parti e agli altri
 
 Allegato[^t-2]
 
-## Elenco dei divieti 2023/Codice mondiale contro il doping: agenti dopanti e metodi di doping vietati in permanenza (in e fuori competizione)
+## Elenco dei divieti 2024/Codice mondiale contro il doping: agenti dopanti e metodi di doping vietati in permanenza (in e fuori competizione)
 
 [^annexu1-lvlu1-1]
 
-[^t-2]: Nuovo testo giusta la dec. del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2023 122](https://fedlex.data.admin.ch/eli/oc/2023/122)).
-[^annexu1-lvlu1-1]: Questo all. non è pubblicato né nella RU né nella RS. L’«elenco dei divieti 2023 / Codice mondiale contro il doping: agenti dopanti e metodi di doping vietati in permanenza (in e fuori competizione)» può essere consultato gratuitamente, in francese e in tedesco, sul sito dell’Antidoping svizzero, autorità competente per le misure antidoping conformemente all’art. 19 della L del 17 giu. 2011 sulla promozione dello sport ([RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)), all’indirizzo www.antidoping.ch
+[^t-2]: Nuovo testo giusta la dec. del 10 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2024 84](https://fedlex.data.admin.ch/eli/oc/2024/84)).
+[^annexu1-lvlu1-1]: Questo all. non è pubblicato né nella RU né nella RS. L’«elenco dei divieti 2024 / Codice mondiale contro il doping: agenti dopanti e metodi di doping vietati in permanenza (in e fuori competizione)» può essere consultato gratuitamente, in francese e in tedesco, sul sito dell’Antidoping svizzero, autorità competente per le misure antidoping conformemente all’art. 19 della L del 17 giu. 2011 sulla promozione dello sport ([RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)), all’indirizzo www.antidoping.ch
 
 Campo d’applicazione il 30 novembre 2017[^t-3]
 
@@ -367,4 +367,4 @@ Campo d’applicazione il 30 novembre 2017[^t-3]
 <tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: http://conventions.coe.int oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Non si applica alle isole Färoer né alla Groenlandia. <sup>b</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-3]: [RU 1993 1238](https://fedlex.data.admin.ch/eli/oc/1993/1238_1238_1238), **1995** 4422, **1998** 879, [1999 2857](https://fedlex.data.admin.ch/eli/oc/1999/447), [2000 2584](https://fedlex.data.admin.ch/eli/oc/2000/409), [2002 473](https://fedlex.data.admin.ch/eli/oc/2002/111), [2003 2371](https://fedlex.data.admin.ch/eli/oc/2003/336), [2004 1307](https://fedlex.data.admin.ch/eli/oc/2004/157), [2005 1007](https://fedlex.data.admin.ch/eli/oc/2005/119), [2007 4465](https://fedlex.data.admin.ch/eli/oc/2007/627), [2009 1133](https://fedlex.data.admin.ch/eli/oc/2009/182), [2012 433](https://fedlex.data.admin.ch/eli/oc/2012/49)e [2018 33](https://fedlex.data.admin.ch/eli/oc/2018/15). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-3]: [RU 1993 1238](https://fedlex.data.admin.ch/eli/oc/1993/1238_1238_1238), **1995** 4422, **1998** 879, [1999 2857](https://fedlex.data.admin.ch/eli/oc/1999/447), [2000 2584](https://fedlex.data.admin.ch/eli/oc/2000/409), [2002 473](https://fedlex.data.admin.ch/eli/oc/2002/111), [2003 2371](https://fedlex.data.admin.ch/eli/oc/2003/336), [2004 1307](https://fedlex.data.admin.ch/eli/oc/2004/157), [2005 1007](https://fedlex.data.admin.ch/eli/oc/2005/119), [2007 4465](https://fedlex.data.admin.ch/eli/oc/2007/627), [2009 1133](https://fedlex.data.admin.ch/eli/oc/2009/182), [2012 433](https://fedlex.data.admin.ch/eli/oc/2012/49)e [2018 33](https://fedlex.data.admin.ch/eli/oc/2018/15). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
