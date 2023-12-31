@@ -4,13 +4,13 @@ number: "143.4"
 title: Ergänzende Verordnung über das Arbeitsverhältnis der Mittelschul-Lehrpersonen
 short: EVA-MS
 language: de
-version: 2023-08-01
-valid_until: 2023-12-31
+version: 2024-01-01
+valid_until: 2024-07-31
 version_adopted: 2024-04-09
 adopted: 2004-06-15
 in_force: 2004-08-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/143.4"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3632/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3633/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3632/pdf_file"
 
 (EVA-MS)
 
-vom 15.06.2004 (Stand 01.08.2023)
+vom 15.06.2004 (Stand 01.01.2024)
 
 Die Regierung des Kantons St.Gallen
 
@@ -116,9 +116,13 @@ als Verordnung:[^ingress-2]
 
 **Funktionszulage**
 
-<sup>1</sup> Der Rektorin oder dem Rektor steht je vier Stellenprozente nach Art. 14d Abs. 2 dieses Erlasses ein jährlicher Betrag von Fr. 538.– zur Gewährung von Funktionszulagen für Schulleitungsmitglieder mit Personalführungsaufgaben zur Verfügung.
+<sup>1</sup> Der Rektorin oder dem Rektor steht je vier Stellenprozente nach Art. 14d Abs. 1 und 2 dieses Erlasses ein jährlicher Betrag von Fr. 559.25 zur Gewährung von Funktionszulagen für Schulleitungsmitglieder zur Verfügung.
+
+<sup>1<sup>bis</sup></sup> Beschlüsse der Regierung zur Änderung der Löhne nach [Art. 37](https://www.gesetzessammlung.sg.ch/data/143.1/de/art37) des Personalgesetzes vom 25. Januar 2011[^10-1] werden auf die Funktionszulage angewendet.
 
 <sup>2</sup> Die Rektorin oder der Rektor bestimmt die Funktionszulage im Einzelfall nach Ermessen.
+
+[^10-1]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
 
 #### Art. 11
 
@@ -209,14 +213,14 @@ als Verordnung:[^ingress-2]
 
 - a) je Schule: 80 Stellenprozente, der Kantonsschule am Burggraben St.Gallen 150 Stellenprozente;
 - a<sup>bis</sup>) je Klasse: 4 Stellenprozente;
-- b) je Schülerin und Schüler der obersten Klassen: 0,9 Stellenprozente.
+- b) je Schülerin und Schüler der obersten Klassen: 0,9 Stellenprozente;
 
 <sup>2</sup> Der Rektorin oder dem Rektor stehen für die Ausübung von Leitungsfunktionen durch Lehrpersonen zudem zur Verfügung:
 
-- 1\. je Schule: 83 Stellenprozente;
+- 1\. je Schule: 83 Stellenprozente, der Kantonsschule am Burggraben St.Gallen 200 Stellenprozente;
 - 2\. je Abteilung: 9 Stellenprozente;
 - 3\. je Klasse: 4 Stellenprozente;
-- 4\. bei mehr als 50 Klassen zusätzlich je Schule: 117 Stellenprozente;
+- 4\. …
 - 5\. je 10 Lehrpersonen: 1,7 Stellenprozente.
 
 <sup>3</sup> Als Abteilungen gelten:
@@ -224,8 +228,8 @@ als Verordnung:[^ingress-2]
 - 1\. Untergymnasium;
 - 2\. Gymnasium;
 - 3\. Fachmittelschule;
-- 4\. Wirtschaftsmittelschule mit Schwerpunkt Sprachen;
-- 5\. Wirtschaftsmittelschule mit Schwerpunkt Informatik;
+- 4\. Wirtschaftsmittelschule;
+- 5\. …
 - 6\. Informatikmittelschule.
 
 <sup>4</sup> Die Rektorin oder der Rektor reicht dem Amt für Mittelschulen eine Aufstellung der besonderen Aufträge nach Abs. 1 und 2 dieser Bestimmung ein.
@@ -304,12 +308,14 @@ als Verordnung:[^ingress-2]
 - a) dem Gehalt einer Lehrperson;
 - b) der Funktionszulage.
 
-<sup>2</sup> Als jährliche Funktionszulage erhalten:[^20-1]
+<sup>2</sup> Als jährliche Funktionszulage erhalten:
 
-- 1\. die Rektorin oder der Rektor der Kantonsschule am Burggraben St.Gallen: Fr. 33 385.–
-- 2\. die Rektorinnen oder Rektoren der übrigen Kantonsschulen: Fr. 29 380.–
+- 1\. die Rektorin oder der Rektor der Kantonsschule am Burggraben St.Gallen: Fr. 38 128.30;
+- 2\. die Rektorinnen oder Rektoren der übrigen Kantonsschulen: Fr. 33 554.10.
 
-[^20-1]: Ausgeglichener Indexstand vom November 2002 mit 102,3 Punkten (Basis Mai 2000 = 100 Indexpunkte).
+<sup>3</sup> Beschlüsse der Regierung zur Änderung der Löhne nach [Art. 37](https://www.gesetzessammlung.sg.ch/data/143.1/de/art37) des Personalgesetzes vom 25. Januar 2011[^20-1] werden auf die Funktionszulage angewendet.
+
+[^20-1]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
 
 #### Art. 21
 
