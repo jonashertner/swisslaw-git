@@ -4,11 +4,11 @@ title: "Ordinanza del DFF dell' 11 aprile 2018 sull'imposta alla fonte nel quadr
 short: OIFo
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/274"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2018-04-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/274/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2018-274-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/274/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2018-274-20240101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20230101/it"
 
 (Ordinanza sull’imposta alla fonte, OIFo)
 
-dell’11 aprile 2018 (Stato 1° gennaio 2023)
+dell’11 aprile 2018 (Stato 1° gennaio 2024)
 
 Il Dipartimento federale delle finanze (DFF),
 
@@ -43,20 +43,34 @@ Per la ritenuta d’imposta alla fonte, alle persone indicate di seguito sono at
 - c. *tariffario C:* coniugi non separati legalmente o di fatto che esercitano entrambi un’attività lucrativa;
 - d. *tariffario D:* persone che ricevono prestazioni ai sensi dell’articolo 18 capoverso 3 della legge federale del 20 dicembre 1946[^1-1] sull’assicurazione per la vecchiaia e per i superstiti;
 - e. *tariffario E:* persone con imposizione secondo la procedura di conteggio semplificata di cui agli articoli 21–24;
-- f. *tariffario F:* lavoratori frontalieri secondo l’Accordo del 3 ottobre 1974[^1-2] tra la Svizzera e l’Italia relativo all’imposizione dei lavoratori frontalieri ed alla compensazione finanziaria a favore dei Comuni italiani di confine che risiedono in un Comune italiano di confine e il cui coniuge esercita un’attività lucrativa al di fuori della Svizzera;
+- f. *...*[^1-2]
 - g. *tariffario G:* persone assoggettate all’imposta alla fonte che percepiscono proventi compensativi di cui all’articolo 3 che non sono versati tramite il datore di lavoro;
 - h. *tariffario H:* persone celibi o nubili, divorziate, separate legalmente o di fatto o vedove, che vivono in comunione domestica con figli o persone bisognose al cui sostentamento provvedono in modo essenziale;
 - i. *tariffario L:* frontalieri secondo la Convenzione dell’11 agosto 1971[^1-3] tra la Confederazione Svizzera e la Repubblica federale di Germania per evitare la doppia imposizione in materia di imposte sul reddito e sulla sostanza (CDI‑D) che adempiono le condizioni richieste per il tariffario A;
 - j. *tariffario M:* frontalieri secondo la CDI-D che adempiono le condizioni richieste per il tariffario B;
 - k. *tariffario N:* frontalieri secondo la CDI-D che adempiono le condizioni richieste per il tariffario C;
 - l. *tariffario P:* frontalieri secondo la CDI-D che adempiono le condizioni richieste per il tariffario H;
-- m. *tariffario Q:* frontalieri secondo la CDI-D che adempiono le condizioni richieste per il tariffario G.
+- m. *tariffario Q:* frontalieri secondo la CDI-D che adempiono le condizioni richieste per il tariffario G;
+- n.[^1-4] *tariffario R:* lavoratori frontalieri imponibili secondo l’articolo 3 paragrafo 1 dell’Accordo del 23 dicembre 2020[^1-5] tra la Confederazione Svizzera e la Repubblica Italiana relativo all’imposizione dei lavoratori frontalieri (Accordo sui frontalieri CH‑I) che adempiono le condizioni richieste per il tariffario A;
+- o.[^1-6] *tariffario S:* lavoratori frontalieri imponibili secondo l’articolo 3 paragrafo 1 dell’Accordo sui frontalieri CH‑I che adempiono le condizioni richieste per il tariffario B;
+- p.[^1-7] *tariffario T:* lavoratori frontalieri imponibili secondo l’articolo 3 paragrafo 1 dell’Accordo sui frontalieri CH‑I che adempiono le condizioni richieste per il tariffario C;
+- q.[^1-8] *tariffario U:* lavoratori frontalieri imponibili secondo l’articolo 3 paragrafo 1 dell’Accordo sui frontalieri CH‑I che adempiono le condizioni richieste per il tariffario H;
+- r.[^1-9] *tariffario V:* lavoratori frontalieri imponibili secondo l’articolo 3 paragrafo 1 dell’Accordo sui frontalieri CH‑I che adempiono le condizioni richieste per il tariffario G.
 
 <sup>2</sup> L’aliquota per i proventi assoggettati all’imposta alla fonte secondo il capoverso 1 lettere d e g è stabilita nei numeri 1 e 2 dell’allegato.
 
+<sup>3</sup> L’imposta alla fonte applicata ai lavoratori frontalieri di cui al capoverso 1 lettere n–r ammonta all’80 per cento dell’imposta alla fonte secondo il tariffario per il quale i lavoratori frontalieri adempiono le condizioni.[^1-10]
+
 [^1-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^1-2]: [RS 0.642.045.43](https://fedlex.data.admin.ch/eli/cc/2023/410)
+[^1-2]: Abrogata dal n. I dell’O del DFF del 31 ott. 2022, con effetto dal 1° gen. 2024 ([RU 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
 [^1-3]: [RS 0.672.913.62](https://fedlex.data.admin.ch/eli/cc/1972/3075_3128_2910)
+[^1-4]: Introdotta dal n. I dell’O del DFF del 31 ott. 2022, in vigore dal 1° gen. 2024 ([RU 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
+[^1-5]: [RS 0.642.045.43](https://fedlex.data.admin.ch/eli/cc/2023/410); [FF 2021 1919](https://fedlex.data.admin.ch/eli/fga/2021/1919)
+[^1-6]: Introdotta dal n. I dell’O del DFF del 31 ott. 2022, in vigore dal 1° gen. 2024 ([RU 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
+[^1-7]: Introdotta dal n. I dell’O del DFF del 31 ott. 2022, in vigore dal 1° gen. 2024 ([RU 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
+[^1-8]: Introdotta dal n. I dell’O del DFF del 31 ott. 2022, in vigore dal 1° gen. 2024 ([RU 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
+[^1-9]: Introdotta dal n. I dell’O del DFF del 31 ott. 2022, in vigore dal 1° gen. 2024 ([RU 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
+[^1-10]: Introdotto dal n. I dell’O del DFF del 31 ott. 2022, in vigore dal 1° gen. 2024 ([RU 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
 
 #### Art. 2
 
@@ -185,6 +199,10 @@ Una persona precedentemente assoggettata all’imposta alla fonte è tassata sec
 
 <sup>2</sup> Nell’ambito della procedura di tassazione l’autorità fiscale verifica se la persona assoggettata all’imposta alla fonte nell’anno fiscale soddisfa le condizioni della quasi residenza. A tal fine, determina secondo gli articoli 16–18 e 20–23 LIFD dapprima i proventi lordi mondiali e in seguito la quota dei proventi lordi imponibili in Svizzera.
 
+<sup>3</sup> Per i lavoratori frontalieri secondo l’articolo 2 lettera b dell’Accordo sui frontalieri CH‑I non può essere effettuata una tassazione ordinaria ulteriore in caso di quasi residenza.[^14-1]
+
+[^14-1]: Introdotto dal n. I dell’O del DFF del 31 ott. 2022, in vigore dal 1° gen. 2024 ([RU 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
+
 #### Art. 15
 
 **Tassazione ordinaria ulteriore d’ufficio**
@@ -192,6 +210,10 @@ Una persona precedentemente assoggettata all’imposta alla fonte è tassata sec
 <sup>1</sup> Le competenti autorità fiscali cantonali possono procedere d’ufficio a una tassazione ordinaria ulteriore se dagli atti emerge il fondato sospetto che si è in presenza di una situazione estrema a favore o a sfavore del contribuente.
 
 <sup>2</sup> Per l’avvio di una procedura di tassazione ordinaria ulteriore d’ufficio si applica l’articolo 120 LIFD sulla prescrizione del diritto di tassare.
+
+<sup>3</sup> Per i lavoratori frontalieri secondo l’articolo 2 lettera b dell’Accordo sui frontalieri CH-I non può essere effettuata una tassazione ordinaria ulteriore d’ufficio.[^15-1]
+
+[^15-1]: Introdotto dal n. I dell’O del DFF del 31 ott. 2022, in vigore dal 1° gen. 2024 ([RU 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
 
 #### Art. 16
 
@@ -306,20 +328,20 @@ Allegato[^t-1]
 
 ## Tariffe dell’imposta alla fonte
 
-[^t-1]: Aggiornato dal n. I dell’O del DFI del 16 set. 2022, in vigore il 1° gen. 2023 ([RU 2022 574](https://fedlex.data.admin.ch/eli/oc/2022/574)).
+[^t-1]: Aggiornato dal n. I dell’O dell’DFI del 1° set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 492](https://fedlex.data.admin.ch/eli/oc/2023/492)).
 
 - 1\. L’imposta alla fonte delle persone che rientrano nel tariffario D ammonta all’1 per cento dei proventi lordi.
 - 2\. L’imposta alla fonte sui proventi compensativi cui si applica il tariffario G è fissata come segue:
 
 <table>
 <tr><th></th><th>franchi</th></tr>
-<tr><th>fino a 18 000 franchi di proventi lordi annui e per ogni 100 franchi in più</th><th>0.00 0.80;</th></tr>
-<tr><th>fino a 36 000 franchi di proventi lordi annui e per ogni 100 franchi in più</th><th>144.00 2.40 in più;</th></tr>
-<tr><th>fino a 60 000 franchi di proventi lordi annui e per ogni 100 franchi in più</th><th>720.00 4.30 in più;</th></tr>
-<tr><th>fino a 90 000 franchi di proventi lordi annui e per ogni 100 franchi in più</th><th>2 010.00 7.60 in più;</th></tr>
-<tr><th>fino a 120 000 franchi di proventi lordi annui e per ogni 100 franchi in più</th><th>4 290.00 10.50 in più;</th></tr>
-<tr><th>fino a 180 000 franchi di proventi lordi annui e per ogni 100 franchi in più</th><th>10 590.00 13.00 in più;</th></tr>
-<tr><th>fino a 792 000 franchi di proventi lordi annui e per ogni 100 franchi in più</th><th>90 150.00 11.50 in più.</th></tr>
+<tr><td>fino a 18 000 franchi di proventi lordi annui e per ogni 100 franchi in più</td><td>0.00 0.80;</td></tr>
+<tr><td>fino a 36 000 franchi di proventi lordi annui e per ogni 100 franchi in più</td><td>144.00 2.35 in più;</td></tr>
+<tr><td>fino a 60 000 franchi di proventi lordi annui e per ogni 100 franchi in più</td><td>708.00 4.25 in più;</td></tr>
+<tr><td>fino a 90 000 franchi di proventi lordi annui e per ogni 100 franchi in più</td><td>1 983.00 7.45 in più;</td></tr>
+<tr><td>fino a 120 000 franchi di proventi lordi annui e per ogni 100 franchi in più</td><td>4 218.00 10.30 in più;</td></tr>
+<tr><td>fino a 180 000 franchi di proventi lordi annui e per ogni 100 franchi in più</td><td>10 398.00 13.05 in più;</td></tr>
+<tr><td>fino a 780 000 franchi di proventi lordi annui e per ogni 100 franchi in più</td><td>88 698.00 11.50 in più.</td></tr>
 </table>
 
 - 3\. a. Per le persone sole l’imposta alla fonte riscossa sull’ammontare lordo delle prestazioni in capitale secondo l’articolo 19 capoverso 1 è fissata come segue:
@@ -327,10 +349,10 @@ Allegato[^t-1]
 <table>
 <tr><td>– per un importo fino a</td><td>25 000 franchi</td><td>0,00 %</td></tr>
 <tr><td>– per un importo superiore a 25 000 e fino a</td><td>50 000 franchi</td><td>0,35 %</td></tr>
-<tr><td>– per un importo superiore a 50 000 e fino a</td><td>75 000 franchi</td><td>0,60 %</td></tr>
+<tr><td>– per un importo superiore a 50 000 e fino a</td><td>75 000 franchi</td><td>0,55 %</td></tr>
 <tr><td>– per un importo superiore a 75 000 e fino a</td><td>100 000 franchi</td><td>1,30 %</td></tr>
-<tr><td>– per un importo superiore a 100 000 e fino a</td><td>125 000 franchi</td><td>1,70 %</td></tr>
-<tr><td>– per un importo superiore a 125 000 e fino a</td><td>150 000 franchi</td><td>2,00 %</td></tr>
+<tr><td>– per un importo superiore a 100 000 e fino a</td><td>125 000 franchi</td><td>1,60 %</td></tr>
+<tr><td>– per un importo superiore a 125 000 e fino a</td><td>150 000 franchi</td><td>1,95 %</td></tr>
 <tr><td>– per un importo superiore a 150 000 e fino a</td><td>750 000 franchi</td><td>2,60 %</td></tr>
 <tr><td>– per un importo superiore a</td><td>750 000 franchi</td><td>2,30 %</td></tr>
 </table>
@@ -339,11 +361,11 @@ Allegato[^t-1]
 
 <table>
 <tr><td>– per un importo fino a</td><td>25 000 franchi</td><td>0,00 %</td></tr>
-<tr><td>– per un importo superiore a 25 000 e fino a</td><td>50 000 franchi</td><td>0,20 %</td></tr>
+<tr><td>– per un importo superiore a 25 000 e fino a</td><td>50 000 franchi</td><td>0,15 %</td></tr>
 <tr><td>– per un importo superiore a 50 000 e fino a</td><td>75 000 franchi</td><td>0,50 %</td></tr>
 <tr><td>– per un importo superiore a 75 000 e fino a</td><td>100 000 franchi</td><td>0,85 %</td></tr>
 <tr><td>– per un importo superiore a 100 000 e fino a</td><td>125 000 franchi</td><td>1,20 %</td></tr>
-<tr><td>– per un importo superiore a 125 000 e fino a</td><td>150 000 franchi</td><td>1,90 %</td></tr>
+<tr><td>– per un importo superiore a 125 000 e fino a</td><td>150 000 franchi</td><td>1,75 %</td></tr>
 <tr><td>– per un importo superiore a 150 000 e fino a</td><td>900 000 franchi</td><td>2,60 %</td></tr>
 <tr><td>– per un importo superiore a</td><td>900 000 franchi</td><td>2,30 %</td></tr>
 </table>

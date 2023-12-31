@@ -4,11 +4,11 @@ title: "Verordnung des EFD vom 11. April 2018 über die Quellensteuer bei der di
 short: QStV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/274"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2018-04-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/274/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2018-274-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/274/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2018-274-20240101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20230101/de"
 
 (Quellensteuerverordnung, QStV)
 
-vom 11. April 2018 (Stand am 1. Januar 2023)
+vom 11. April 2018 (Stand am 1. Januar 2024)
 
 Das Eidgenössische Finanzdepartement (EFD),
 
@@ -43,20 +43,34 @@ Folgende Tarifcodes werden bei den nachstehend aufgeführten Personen für den Q
 - c. *Tarifcode C:* bei in rechtlich und tatsächlich ungetrennter Ehe lebenden Eheleuten, bei welchen beide Eheleute erwerbstätig sind;
 - d. *Tarifcode D:* bei Personen, die Leistungen nach Artikel 18 Absatz 3 des Bundesgesetzes vom 20. Dezember 1946[^1-1] über die Alters- und Hinterlassenenversicherung erhalten;
 - e. *Tarifcode E:* bei Personen, die im vereinfachten Abrechnungsverfahren nach den Artikeln 21*–*24 besteuert werden;
-- f. *Tarifcode F:* bei Grenzgängerinnen und Grenzgängern nach der Vereinbarung vom 3. Oktober 1974[^1-2] zwischen der Schweiz und Italien über die Besteuerung der Grenzgänger und den finanziellen Ausgleich zugunsten der italienischen Grenzgemeinden, die in einer italienischen Grenzgemeinde leben und deren Ehemann oder Ehefrau ausserhalb der Schweiz erwerbstätig ist;
+- f.[^1-2] …
 - g. *Tarifcode G:* bei Ersatzeinkünften nach Artikel 3, die nicht über die Arbeitgeber an die quellensteuerpflichtigen Personen ausbezahlt werden;
 - h. *Tarifcode H:* bei ledigen, geschiedenen, gerichtlich oder tatsächlich getrennt lebenden und verwitweten Personen, die mit Kindern oder unterstützungsbedürftigen Personen im gleichen Haushalt zusammenleben und deren Unterhalt zur Hauptsache bestreiten;
 - i. *Tarifcode L:* bei Grenzgängerinnen und Grenzgängern nach dem Abkommen vom 11. August 1971[^1-3] zwischen der Schweizerischen Eidgenossenschaft und der Bundesrepublik Deutschland zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen (DBA-D), welche die Voraussetzungen für den Tarifcode A erfüllen;
 - j. *Tarifcode M:* bei Grenzgängerinnen und Grenzgängern nach dem DBA-D, welche die Voraussetzungen für den Tarifcode B erfüllen;
 - k. *Tarifcode N:* bei Grenzgängerinnen und Grenzgängern nach dem DBA-D, welche die Voraussetzungen für den Tarifcode C erfüllen;
 - l. *Tarifcode P:* bei Grenzgängerinnen und Grenzgängern nach dem DBA-D, welche die Voraussetzungen für den Tarifcode H erfüllen;
-- m. *Tarifcode Q:* bei Grenzgängerinnen und Grenzgängern nach dem DBA-D, welche die Voraussetzungen für den Tarifcode G erfüllen.
+- m. *Tarifcode Q:* bei Grenzgängerinnen und Grenzgängern nach dem DBA-D, welche die Voraussetzungen für den Tarifcode G erfüllen;
+- n.[^1-4] *Tarifcode R:* bei Grenzgängerinnen und Grenzgängern, die nach Artikel 3 Absatz 1 des Abkommens vom 23. Dezember 2020[^1-5] zwischen der Schweizerischen Eidgenossenschaft und der Italienischen Republik über die Besteuerung der Grenzgängerinnen und Grenzgänger (Grenzgängerabkommen CH-IT) besteuert werden und die Voraussetzungen für den Tarifcode A erfüllen;
+- o.[^1-6] *Tarifcode S:* bei Grenzgängerinnen und Grenzgängern, die nach Artikel 3 Absatz 1 des Grenzgängerabkommens CH-IT besteuert werden und die Voraussetzungen für den Tarifcode B erfüllen;
+- p.[^1-7] *Tarifcode T:* bei Grenzgängerinnen und Grenzgängern, die nach Artikel 3 Absatz 1 des Grenzgängerabkommens CH-IT besteuert werden und die Voraussetzungen für den Tarifcode C erfüllen;
+- q.[^1-8] *Tarifcode U:* bei Grenzgängerinnen und Grenzgängern, die nach Artikel 3 Absatz 1 des Grenzgängerabkommens CH-IT besteuert werden und die Voraussetzungen für den Tarifcode H erfüllen;
+- r.[^1-9] *Tarifcode V:* bei Grenzgängerinnen und Grenzgängern, die nach Artikel 3 Absatz 1 des Grenzgängerabkommens CH-IT besteuert werden und die Voraussetzungen für den Tarifcode G erfüllen.
 
 <sup>2</sup> Der Steuersatz für Einkünfte, die nach Absatz 1 Buchstaben d und g der Quellensteuer unterliegen, richtet sich nach den Ziffern 1 und 2 des Anhangs.
 
+<sup>3</sup> Die Quellensteuer der Grenzgängerinnen und Grenzgänger nach Absatz 1 Buchstaben n–r beträgt 80 Prozent der Quellensteuer nach dem Tarifcode, für den sie die Voraussetzungen erfüllen.[^1-10]
+
 [^1-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^1-2]: [SR 0.642.045.43](https://fedlex.data.admin.ch/eli/cc/2023/410)
+[^1-2]: Aufgehoben durch Ziff. I der V des EFD vom 31. Okt. 2022, mit Wirkung seit 1. Jan. 2024 ([AS 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
 [^1-3]: [SR 0.672.913.62](https://fedlex.data.admin.ch/eli/cc/1972/3075_3128_2910)
+[^1-4]: Eingefügt durch Ziff. I der V des EFD vom 31. Okt. 2022, mit Wirkung seit 1. Jan. 2024 ([AS 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
+[^1-5]: [SR 0.642.045.43](https://fedlex.data.admin.ch/eli/cc/2023/410); [BBl 2021 1919](https://fedlex.data.admin.ch/eli/fga/2021/1919)
+[^1-6]: Eingefügt durch Ziff. I der V des EFD vom 31. Okt. 2022, mit Wirkung seit 1. Jan. 2024 ([AS 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
+[^1-7]: Eingefügt durch Ziff. I der V des EFD vom 31. Okt. 2022, mit Wirkung seit 1. Jan. 2024 ([AS 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
+[^1-8]: Eingefügt durch Ziff. I der V des EFD vom 31. Okt. 2022, mit Wirkung seit 1. Jan. 2024 ([AS 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
+[^1-9]: Eingefügt durch Ziff. I der V des EFD vom 31. Okt. 2022, mit Wirkung seit 1. Jan. 2024 ([AS 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
+[^1-10]: Eingefügt durch Ziff. I der V des EFD vom 31. Okt. 2022, mit Wirkung seit 1. Jan. 2024 ([AS 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
 
 #### Art. 2
 
@@ -185,6 +199,10 @@ Eine bisher an der Quelle besteuerte Person wird für die ganze Steuerperiode im
 
 <sup>2</sup> Die Steuerbehörde prüft im Veranlagungsverfahren, ob die quellensteuerpflichtige Person im Steuerjahr die Voraussetzungen der Quasi-Ansässigkeit erfüllt. Dazu ermittelt sie nach den Artikeln 16–18 und 20–23 DBG zuerst die weltweiten Bruttoeinkünfte und danach den Anteil der in der Schweiz steuerbaren Bruttoeinkünfte.
 
+<sup>3</sup> Für Grenzgängerinnen und Grenzgänger nach Artikel 2 Buchstabe b des Grenzgängerabkommens CH-IT darf keine nachträgliche ordentliche Veranlagung bei Quasi-Ansässigkeit durchgeführt werden.[^14-1]
+
+[^14-1]: Eingefügt durch Ziff. I der V des EFD vom 31. Okt. 2022, mit Wirkung seit 1. Jan. 2024 ([AS 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
+
 #### Art. 15
 
 **Nachträgliche ordentliche Veranlagung von Amtes wegen**
@@ -192,6 +210,10 @@ Eine bisher an der Quelle besteuerte Person wird für die ganze Steuerperiode im
 <sup>1</sup> Die zuständigen kantonalen Steuerbehörden können von Amtes wegen eine nachträgliche ordentliche Veranlagung durchführen, wenn sich aus der Aktenlage der begründete Verdacht ergibt, dass stossende Verhältnisse zugunsten oder zuungunsten der steuerpflichtigen Person vorliegen.
 
 <sup>2</sup> Für die Einleitung einer nachträglichen ordentlichen Veranlagung von Amtes wegen gilt Artikel 120 DBG über die Veranlagungsverjährung.
+
+<sup>3</sup> Für Grenzgängerinnen und Grenzgänger nach Artikel 2 Buchstabe b des Grenzgängerabkommens CH-IT darf keine nachträgliche ordentliche Veranlagung von Amtes wegen durchgeführt werden.[^15-1]
+
+[^15-1]: Eingefügt durch Ziff. I der V des EFD vom 31. Okt. 2022, mit Wirkung seit 1. Jan. 2024 ([AS 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
 
 #### Art. 16
 
@@ -306,20 +328,20 @@ Anhang[^t-1]
 
 ## Quellensteuertarife
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des EFD vom 16. Sept. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 574](https://fedlex.data.admin.ch/eli/oc/2022/574)).
+[^t-1]: Bereinigt gemäss Ziff. I der V des EFD vom 1. Sept. 2023, in Kraft seit 1. Jan. 2024 (AS **202****3** 492).
 
 - 1\. Die Quellensteuer von Personen mit dem Tarifcode D beträgt 1 Prozent der Bruttoeinkünfte.
 - 2\. Die Quellensteuer auf Ersatzeinkünften mit dem Tarifcode G beträgt:
 
 <table>
 <tr><th></th><th>Franken</th></tr>
-<tr><th>bis 18 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</th><th>0.00 0.80;</th></tr>
-<tr><th>für 36 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</th><th>144.00 2.40 mehr;</th></tr>
-<tr><th>für 60 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</th><th>720.00 4.30 mehr;</th></tr>
-<tr><th>für 90 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</th><th>2 010.00 7.60 mehr;</th></tr>
-<tr><th>für 120 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</th><th>4 290.00 10.50 mehr;</th></tr>
-<tr><th>für 180 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</th><th>10 590.00 13.00 mehr;</th></tr>
-<tr><th>für 792 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</th><th>90 150.00 11.50 mehr.</th></tr>
+<tr><td>bis 18 000 Franken jährliche Bruttoeinkünfte undfür je weitere 100 Franken jährliche Bruttoeinkünfte</td><td>0.00 0.80;</td></tr>
+<tr><td>für 36 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</td><td>144.00 2.35 mehr;</td></tr>
+<tr><td>für 60 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</td><td>708.00 4.25 mehr;</td></tr>
+<tr><td>für 90 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</td><td>1 983.00 7.45 mehr;</td></tr>
+<tr><td>für 120 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</td><td>4 218.00 10.30 mehr;</td></tr>
+<tr><td>für 180 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</td><td>10 398.00 13.05 mehr;</td></tr>
+<tr><td>für 780 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</td><td>88 698.00 11.50 mehr.</td></tr>
 </table>
 
 - 3. a. Die Quellensteuer auf dem Bruttobetrag der Kapitalleistungen nach Artikel 19 Absatz 1 beträgt für alleinstehende Personen:
@@ -327,10 +349,10 @@ Anhang[^t-1]
 <table>
 <tr><td>– auf dem Betrag bis</td><td>25 000 Franken</td><td>0,00 %</td></tr>
 <tr><td>– auf dem Betrag über 25 000 bis</td><td>50 000 Franken</td><td>0,35 %</td></tr>
-<tr><td>– auf dem Betrag über 50 000 bis</td><td>75 000 Franken</td><td>0,60 %</td></tr>
+<tr><td>– auf dem Betrag über 50 000 bis</td><td>75 000 Franken</td><td>0,55 %</td></tr>
 <tr><td>– auf dem Betrag über 75 000 bis</td><td>100 000 Franken</td><td>1,30 %</td></tr>
-<tr><td>– auf dem Betrag über 100 000 bis</td><td>125 000 Franken</td><td>1,70 %</td></tr>
-<tr><td>– auf dem Betrag über 125 000 bis</td><td>150 000 Franken</td><td>2,00 %</td></tr>
+<tr><td>– auf dem Betrag über 100 000 bis</td><td>125 000 Franken</td><td>1,60 %</td></tr>
+<tr><td>– auf dem Betrag über 125 000 bis</td><td>150 000 Franken</td><td>1,95 %</td></tr>
 <tr><td>– auf dem Betrag über 150 000 bis</td><td>750 000 Franken</td><td>2,60 %</td></tr>
 <tr><td>– auf dem Betrag über</td><td>750 000 Franken</td><td>2,30 %</td></tr>
 </table>
@@ -339,11 +361,11 @@ Anhang[^t-1]
 
 <table>
 <tr><td>– auf dem Betrag bis</td><td>25 000 Franken</td><td>0,00 %</td></tr>
-<tr><td>– auf dem Betrag über 25 000 bis</td><td>50 000 Franken</td><td>0,20 %</td></tr>
+<tr><td>– auf dem Betrag über 25 000 bis</td><td>50 000 Franken</td><td>0,15 %</td></tr>
 <tr><td>– auf dem Betrag über 50 000 bis</td><td>75 000 Franken</td><td>0,50 %</td></tr>
 <tr><td>– auf dem Betrag über 75 000 bis</td><td>100 000 Franken</td><td>0,85 %</td></tr>
 <tr><td>– auf dem Betrag über 100 000 bis</td><td>125 000 Franken</td><td>1,20 %</td></tr>
-<tr><td>– auf dem Betrag über 125 000 bis</td><td>150 000 Franken</td><td>1,90 %</td></tr>
+<tr><td>– auf dem Betrag über 125 000 bis</td><td>150 000 Franken</td><td>1,75 %</td></tr>
 <tr><td>– auf dem Betrag über 150 000 bis</td><td>900 000 Franken</td><td>2,60 %</td></tr>
 <tr><td>– auf dem Betrag über</td><td>900 000 Franken</td><td>2,30 %</td></tr>
 </table>

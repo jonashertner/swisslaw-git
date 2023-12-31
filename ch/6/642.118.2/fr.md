@@ -4,11 +4,11 @@ title: "Ordonnance du DFF du 11 avril 2018 sur l'imposition à la source dans le
 short: OIS
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/274"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2018-04-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/274/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-274-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/274/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-274-20240101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20230101/fr"
 
 (Ordonnance sur l’imposition à la source, OIS)
 
-du 11 avril 2018 (État le 1<sup>er</sup> janvier 2023)
+du 11 avril 2018 (État le 1<sup>er</sup> janvier 2024)
 
 Le Département fédéral des finances (DFF),
 
@@ -43,20 +43,34 @@ Pour la retenue de l’impôt à la source, les barèmes suivants sont appliqué
 - c. *barème C:* couples mariés vivant en ménage commun, dont les deux conjoints exercent une activité lucrative;
 - d. *barème D:* personnes qui perçoivent des prestations au sens de l’art. 18, al. 3, de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^1-1];
 - e. *barème E:* personnes imposées selon la procédure simplifiée prévue aux art. 21 à 24;
-- f. *barème F:* frontaliers qui, conformément à l’accord du 3 octobre 1974 entre la Suisse et l’Italie relatif à l’imposition des travailleurs frontaliers et à la compensation financière en faveur des communes italiennes limitrophes[^1-2], vivent dans une commune italienne limitrophe et dont le conjoint travaille ailleurs qu’en Suisse;
+- f.[^1-2] …
 - g. *barème G:* personnes imposées à la source touchant des revenus acquis en compensation au sens de l’art. 3 qui ne sont pas versés par le truchement de l’employeur;
 - h. *barème H:* personnes célibataires, divorcées, séparées judiciairement ou de fait ou veuves, vivant en ménage commun avec des enfants ou des personnes nécessiteuses et qui assument l’essentiel de l’entretien de ces derniers;
 - i. *barème L:* frontaliers au sens de la Convention du 11 août 1971 entre la Confédération suisse et la République fédérale d’Allemagne en vue d’éviter les doubles impositions en matière d’impôts sur le revenu et sur la fortune (CDI-D)[^1-3] qui remplissent les conditions pour l’octroi du barème A;
 - j. *barème M:* frontaliers au sens de la CDI-D qui remplissent les conditions pour l’octroi du barème B;
 - k. *barème N:* frontaliers au sens de la CDI-D qui remplissent les conditions pour l’octroi du barème C;
 - l. *barème P:* frontaliers au sens de la CDI-D qui remplissent les conditions pour l’octroi du barème H;
-- m. *barème Q:* frontaliers au sens de la CDI-D qui remplissent les conditions pour l’octroi du barème G.
+- m. *barème Q:* frontaliers au sens de la CDI-D qui remplissent les conditions pour l’octroi du barème G;
+- n.[^1-4] *barème R:* frontaliers imposés selon l’art. 3, par. 1, de l’accord du 23 décembre 2020 entre la Confédération suisse et la République italienne relatif à l’imposition des travailleurs frontaliers (accord CH-IT sur l’imposition des frontaliers)[^1-5] qui remplissent les conditions pour l’octroi du barème A;
+- o.[^1-6] *barème S:* frontaliers imposés selon l’art. 3, par. 1, de l’accord CH-IT sur l’imposition des frontaliers qui remplissent les conditions pour l’octroi du barème B;
+- p.[^1-7] *barème T:* frontaliers imposés selon l’art. 3, par. 1, de l’accord CH-IT sur l’imposition des frontaliers qui remplissent les conditions pour l’octroi du barème C;
+- q.[^1-8] *barème U:* frontaliers imposés selon l’art. 3, par. 1, de l’accord CH-IT sur l’imposition des frontaliers qui remplissent les conditions pour l’octroi du barème H;
+- r.[^1-9] *barème V:* frontaliers imposés selon l’art. 3, par. 1, de l’accord CH-IT sur l’imposition des frontaliers qui remplissent les conditions pour l’octroi du barème G.
 
 <sup>2</sup> Le taux de l’impôt appliqué aux revenus soumis à l’impôt à la source en vertu de l’al. 1, let. d et g, se calcule d’après les ch. 1 et 2 de l’annexe.
 
+<sup>3</sup> Le taux de l’impôt à la source appliqué aux frontaliers visés à l’al. 1, let. n à r, s’élève à 80 % du taux applicable pour le barème qui les concerne.[^1-10]
+
 [^1-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^1-2]: [RS 0.642.045.43](https://fedlex.data.admin.ch/eli/cc/2023/410)
+[^1-2]: Abrogée par le ch. I de l’O du DFF du 31 oct. 2022, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
 [^1-3]: [RS 0.672.913.62](https://fedlex.data.admin.ch/eli/cc/1972/3075_3128_2910)
+[^1-4]: Introduite par le ch. I de l’O du DFF du 31 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
+[^1-5]: [RS 0.642.045.43](https://fedlex.data.admin.ch/eli/cc/2023/410); [FF 2021 1919](https://fedlex.data.admin.ch/eli/fga/2021/1919)
+[^1-6]: Introduite par le ch. I de l’O du DFF du 31 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
+[^1-7]: Introduite par le ch. I de l’O du DFF du 31 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
+[^1-8]: Introduite par le ch. I de l’O du DFF du 31 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
+[^1-9]: Introduite par le ch. I de l’O du DFF du 31 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
+[^1-10]: Introduit par le ch. I de l’O du DFF du 31 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
 
 #### Art. 2
 
@@ -185,6 +199,10 @@ Une personne soumise jusqu’alors à l’impôt à la source est imposée selon
 
 <sup>2</sup> L’autorité fiscale vérifie, dans le cadre de la procédure de taxation, si la personne soumise à l’impôt à la source remplit les conditions de la quasi-résidence durant l’année fiscale. À cet effet, elle détermine tout d’abord les revenus bruts réalisés à l’échelle mondiale d’après les art. 16 à 18 et 20 à 23 LIFD et, ensuite, la part des revenus bruts imposables en Suisse.
 
+<sup>3</sup> Les frontaliers au sens de l’art. 2, let. b, de l’accord CH-IT sur l’imposition des frontaliers ne peuvent pas faire l’objet d’une taxation ordinaire ultérieure en cas de quasi-résidence.[^14-1]
+
+[^14-1]: Introduit par le ch. I de l’O du DFF du 31 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
+
 #### Art. 15
 
 **Taxation ordinaire ultérieure d’office**
@@ -192,6 +210,10 @@ Une personne soumise jusqu’alors à l’impôt à la source est imposée selon
 <sup>1</sup> Les autorités cantonales compétentes peuvent effectuer d’office une taxation ordinaire ultérieure lorsque, sur la base du dossier, elles ont de sérieuses raisons de penser qu’il existe une situation d’iniquité manifeste en faveur ou en défaveur du contribuable.
 
 <sup>2</sup> Le lancement d’une procédure de taxation ordinaire ultérieure d’office est régi par l’art. 120 LIFD.
+
+<sup>3</sup> Les frontaliers au sens de l’art. 2, let. b, de l’accord CH-IT sur l’imposition des frontaliers ne peuvent pas faire l’objet d’une taxation ordinaire ultérieure d’office.[^15-1]
+
+[^15-1]: Introduit par le ch. I de l’O du DFF du 31 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 398](https://fedlex.data.admin.ch/eli/oc/2023/398)).
 
 #### Art. 16
 
@@ -306,7 +328,7 @@ Annexe[^t-1]
 
 ## Barèmes de l’impôt à la source
 
-[^t-1]: Mise à jour par le ch. I de l’O du DFF du 16 sept. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 574](https://fedlex.data.admin.ch/eli/oc/2022/574)).
+[^t-1]: Mise à jour par le ch. I de l’O du DFF du 1<sup>er</sup> sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 492](https://fedlex.data.admin.ch/eli/oc/2023/492)).
 
 - 1\. L’impôt à la source des personnes soumises au barème D est égal à 1 % des revenus bruts.
 - 2\. L’impôt à la source sur les revenus acquis en compensation qui sont soumis au barème G s’élève à:
@@ -315,16 +337,16 @@ Annexe[^t-1]
 <tr><td>0,00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 18 000 francs, puis à</td></tr>
 <tr><td>0,80 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
 <tr><td>144,00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 36 000 francs, puis à</td></tr>
-<tr><td>2,40 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
-<tr><td>720,00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 60 000 francs, puis à</td></tr>
-<tr><td>4,30 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
-<tr><td>2 010,00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 90 000 francs, puis à</td></tr>
-<tr><td>7,60 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
-<tr><td>4 290,00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 120 000 francs, puis à</td></tr>
-<tr><td>10,50 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
-<tr><td>10 590,00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 180 000 francs, puis à</td></tr>
-<tr><td>13,00 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
-<tr><td>90 150,00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 792 000 francs, puis à</td></tr>
+<tr><td>2,35 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
+<tr><td>708,00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 60 000 francs, puis à</td></tr>
+<tr><td>4,25 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
+<tr><td>1983,00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 90 000 francs, puis à</td></tr>
+<tr><td>7,45 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
+<tr><td>4218,00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 120 000 francs, puis à</td></tr>
+<tr><td>10,30 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
+<tr><td>10 398,00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 180 000 francs, puis à</td></tr>
+<tr><td>13,05 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
+<tr><td>88 698,00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 780 000 francs, puis à</td></tr>
 <tr><td>11,50 francs</td><td>pour chaque tranche de 100 francs supplémentaire.</td></tr>
 </table>
 
@@ -333,10 +355,10 @@ Annexe[^t-1]
 <table>
 <tr><td>0,00 %</td><td>pour les montants allant jusqu’à</td><td>25 000 francs</td></tr>
 <tr><td>0,35 %</td><td>pour les montants supérieurs à 25 000 et allant jusqu’à</td><td>50 000 francs</td></tr>
-<tr><td>0,60 %</td><td>pour les montants supérieurs à 50 000 et allant jusqu’à</td><td>75 000 francs</td></tr>
+<tr><td>0,55 %</td><td>pour les montants supérieurs à 50 000 et allant jusqu’à</td><td>75 000 francs</td></tr>
 <tr><td>1,30 %</td><td>pour les montants supérieurs à 75 000 et allant jusqu’à</td><td>100 000 francs</td></tr>
-<tr><td>1,70 %</td><td>pour les montants supérieurs à 100 000 et allant jusqu’à</td><td>125 000 francs</td></tr>
-<tr><td>2,00 %</td><td>pour les montants supérieurs à 125 000 et allant jusqu’à</td><td>150 000 francs</td></tr>
+<tr><td>1,60 %</td><td>pour les montants supérieurs à 100 000 et allant jusqu’à</td><td>125 000 francs</td></tr>
+<tr><td>1,95 %</td><td>pour les montants supérieurs à 125 000 et allant jusqu’à</td><td>150 000 francs</td></tr>
 <tr><td>2,60 %</td><td>pour les montants supérieurs à 150 000 et allant jusqu’à</td><td>750 000 francs</td></tr>
 <tr><td>2,30 %</td><td>pour les montants supérieurs à</td><td>750 000 francs</td></tr>
 </table>
@@ -345,20 +367,13 @@ Annexe[^t-1]
 
 <table>
 <tr><td>0,00 %</td><td>pour les montants allant jusqu’à</td><td>25 000 francs</td></tr>
-<tr><td>0,20 %</td><td>pour les montants supérieurs à 25 000 et allant jusqu’à</td><td>50 000 francs</td></tr>
+<tr><td>0,15 %</td><td>pour les montants supérieurs à 25 000 et allant jusqu’à</td><td>50 000 francs</td></tr>
 <tr><td>0,50 %</td><td>pour les montants supérieurs à 50 000 et allant jusqu’à</td><td>75 000 francs</td></tr>
 <tr><td>0,85 %</td><td>pour les montants supérieurs à 75 000 et allant jusqu’à</td><td>100 000 francs</td></tr>
 <tr><td>1,20 %</td><td>pour les montants supérieurs à 100 000 et allant jusqu’à</td><td>125 000 francs</td></tr>
-<tr><td>1,90 %</td><td>pour les montants supérieurs à 125 000 et allant jusqu’à</td><td>150 000 francs</td></tr>
+<tr><td>1,75 %</td><td>pour les montants supérieurs à 125 000 et allant jusqu’à</td><td>150 000 francs</td></tr>
 <tr><td>2,60 %</td><td>pour les montants supérieurs à 150 000 et allant jusqu’à</td><td>900 000 francs</td></tr>
 <tr><td>2,30 %</td><td>pour les montants supérieurs à</td><td>900 000 francs</td></tr>
 </table>
 
-- 4\. En application des dispositions de l’art. 20, l’impôt à la source n’est pas prélevé lorsque les revenus bruts imposables sont inférieurs à:
-
-<table>
-<tr><td>– pour les artistes, sportifs et conférenciers (art. 92 LIFD)</td><td>300 francs en ce qui concerne les prestations versées par le débiteur de la prestation imposable pour un événement;</td></tr>
-<tr><td>– pour les administrateurs (art. 93 LIFD)</td><td>300 francs en ce qui concerne le total des prestations versées par le débiteur de la prestation imposable pendant l’année fiscale;</td></tr>
-<tr><td>– pour les créanciers hypothécaires (art. 94 LIFD)</td><td>300 francs par année fiscale;</td></tr>
-<tr><td>– pour les bénéficiaires de rentes (art. 95 et 96 LIFD)</td><td>1000 francs par année fiscale.</td></tr>
-</table>
+- [tab]
