@@ -4,13 +4,12 @@ number: "213.318"
 title: Verordnung über die Zusammenarbeit der kommunalen Dienste mit den Kindes- und Erwachsenenschutzbehörden und die Abgeltung der den Gemeinden anfallenden Aufwendungen
 short: ZAV
 language: de
-version: 2020-11-01
-valid_until: 2023-12-31
-version_adopted: 2020-09-02
+version: 2024-01-01
+version_adopted: 2023-11-15
 adopted: 2012-09-19
 in_force: 2013-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/213.318"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1966/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2949/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1966/pdf_file"
 
 (ZAV)
 
-vom 19.09.2012 (Stand 01.11.2020)
+vom 19.09.2012 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -63,16 +62,11 @@ beschliesst:
 - f Durchführen von Abklärungen zum Schutz von Personen in Wohn- oder Pflegeeinrichtungen, um die sich niemand von ausserhalb der Einrichtung kümmert (Art. 386 Abs. 2 ZGB),
 - g Vollzug von ambulanten Massnahmen im Bereich der Nachbetreuung nach Artikel 33 KESG,
 - h Erfüllen von Aufgaben nach Artikel 307 Absatz 3 ZGB,
-- i Durchführen von Abklärungen im Hinblick auf die Erteilung einer generellen Bewilligung zur Aufnahme von Pflegekindern gemäss Artikel 3 Absatz 4 der Pflegekinderverordnung vom 4. Juli 1979[^3-2],
-- k Durchführen von Abklärungen im Hinblick auf die Aufnahme eines Pflegekindes gemäss Artikel 3 Absatz 3 der Pflegekinderverordnung,
-- l Ausüben der Pflegekinderaufsicht gemäss Artikel 10 der Verordnung des Bundesrates vom 19. Oktober 1977 über die Aufnahme von Pflegekindern (Pflegekinderverordnung, PAVO)[^3-3],
-- m Beaufsichtigen von Tagesfamilienangeboten,
+- i–m …
 - n Beraten unverheirateter Eltern im Hinblick auf die Abgabe einer Erklärung über die gemeinsame elterliche Sorge (Art. 298a Abs. 3 ZGB),
 - o Berechnen des Beitrags der Eltern an die Massnahmenkosten ihrer Kinder sowie Klärung der Vermögens- und Einkommensverhältnisse erwachsener Personen, wenn keine Beistandschaft oder Vormundschaft errichtet oder kein Auftrag gemäss Buchstabe a oder c erteilt wurde.
 
 [^3-1]: SR 210
-[^3-2]: BSG 213.223
-[^3-3]: SR 211.222.338
 
 #### Art. 4
 
@@ -111,13 +105,11 @@ beschliesst:
 
 <sup>1</sup> Der Kanton entschädigt die Aufwendungen der Gemeinden durch Fallpauschalen. Es werden folgende Pauschalen ausgerichtet:
 
-- a 2940 Franken pro Person und Jahr für jeden von der KESB erteilten Auftrag im Bereich des Kindesschutzes (Art. 3 Abs. 1 Bst. a, c, g, h und i),
+- a 2940 Franken pro Person und Jahr für jeden von der KESB erteilten Auftrag im Bereich des Kindesschutzes (Art. 3 Abs. 1 Bst. a, c, g und h),
 - b 1170 Franken pro Person und Jahr für jeden von der KESB erteilten Auftrag im Bereich des Erwachsenenschutzes (Art. 3 Abs. 1 Bst. a, d, e, f und g),
 - c jährlich 3450 Franken für das Führen einer Beistandschaft oder Vormundschaft für Minderjährige (Art. 3 Abs. 1 Bst. b),
 - d jährlich 3180 Franken für das Führen einer Beistandschaft für Erwachsene (Art. 3 Abs. 1 Bst. b),
-- e jährlich 720 Franken pro Pflegekind im Zuständigkeitsbereich des kommunalen Dienstes, soweit dieser Tätigkeiten gemäss Artikel 3 Absatz 1 Buchstabe k oder l wahrnimmt,
-- f jährlich 480 Franken für jedes beaufsichtigte Tagesfamilienangebot (Art. 3 Abs. 1 Bst. m),
-- g jährlich 720 Franken für die Zusammenarbeit mit einer Tageselternorganisation, soweit diese die Aufgaben gemäss Artikel 3 Absatz 1 Buchstabe m im Auftrag des kommunalen Dienstes wahrnimmt,
+- e–g …
 - h 360 Franken für die einmalige Beratung unverheirateter Eltern gemäss Artikel 3 Absatz 1 Buchstabe n,
 - i einmalig 666 Franken für die Ernennung einer privaten Beiständin oder eines privaten Beistands auf Vorschlag des kommunalen Dienstes (Rekrutierungspauschale),
 - k jährlich 666 Franken für jede private Beiständin oder jeden privaten Beistand, soweit der Sozialdienst für diese oder diesen mindestens zweimal beratend oder begleitend tätig geworden ist,
@@ -126,7 +118,7 @@ beschliesst:
 
 <sup>2</sup> Die Pauschalen gemäss Absatz 1 Buchstaben a und b werden nicht ausgerichtet, wenn für die betroffenen Personen zum Zeitpunkt der Abklärung eine Beistandschaft oder Vormundschaft besteht, die gemäss Absatz 1 Buchstabe c oder d entschädigt wird.
 
-<sup>3</sup> Liegen besondere Verhältnisse vor, können pro Person und Jahr ausnahmsweise zwei Pauschalen gemäss Absatz 1 Buchstaben a oder b ausgerichtet werden. Die KESB teilt dem kommunalen Dienst bei Auftragserteilung mit, ob der Auftrag durch eine zweite Pauschale abgegolten wird.
+<sup>3</sup> Liegen besondere Verhältnisse vor, können pro Person und Jahr ausnahmsweise zwei Pauschalen gemäss Absatz 1 Buchstabe a oder b ausgerichtet werden. Die KESB teilt dem kommunalen Dienst bei Auftragserteilung mit, ob der Auftrag durch eine zweite Pauschale abgegolten wird.
 
 <sup>4</sup> Die Zahl der von den kommunalen Diensten geführten Beistandschaften und Vormundschaften (Abs. 1 Bst. c und d) wird durch Zählung der laufenden Mandate an einem Stichtag festgelegt. Legt das Kantonale Jugendamt (KJA) keinen Stichtag fest, wird die Zahl der Beistandschaften und Vormundschaften jeweils per 31. Dezember erhoben.
 

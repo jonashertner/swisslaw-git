@@ -4,13 +4,12 @@ number: "213.318"
 title: "Ordonnance sur la collaboration des services communaux avec les autorités de protection de l'enfant et de l'adulte et l'indemnisation des communes"
 short: OCInd
 language: fr
-version: 2020-11-01
-valid_until: 2023-12-31
-version_adopted: 2020-09-02
+version: 2024-01-01
+version_adopted: 2023-11-15
 adopted: 2012-09-19
 in_force: 2013-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/213.318"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1966/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2949/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1966/pdf_file"
 
 (OCInd)
 
-du 19.09.2012 (état au 01.11.2020)
+du 19.09.2012 (état au 01.01.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -63,16 +62,11 @@ arrête:
 - f conduite d’enquêtes requises par la protection des personnes résidant dans un établissement médico-social qui sont privées de toute assistance extérieure (art. 386, al. 2 CCS);
 - g surveillance de l’exécution des mesures ambulatoires relevant du suivi post-institutionnel au sens de l’article 33 LPEA;
 - h tâches prévues à l’article 307, alinéa 3 CCS;
-- i conduite d’enquêtes en vue de l'octroi d'une autorisation générale valable pour le placement d’enfants auprès de parents nourriciers au sens de l'article 3, alinéa 4 de l'ordonnance du 4 juillet 1979 réglant le placement d'enfants)[^3-2];
-- k conduite d'enquêtes en vue du placement d'un enfant au sens de l'article 3, alinéa 3 de l'ordonnance réglant le placement d'enfants;
-- l exercice de la surveillance du placement d'enfants au sens de l'article 10 de l'ordonnance fédérale du 19 octobre 1977 sur le placement d'enfants (OPE)[^3-3];
-- m surveillance des offres d’accueil familial à la journée;
+- i–m …
 - n conseils aux parents non mariés en vue du dépôt d’une déclaration concernant l’autorité parentale conjointe (art. 298a, al. 4 CCS);
 - o calcul de la contribution des parents aux coûts des mesures concernant leurs enfants et établissement des conditions de fortune et de revenu de personnes adultes si aucune curatelle ou tutelle n'est instituée ou si aucun mandat selon les lettres a ou c n'a été attribué.
 
 [^3-1]: RS 210
-[^3-2]: RSB 213.223
-[^3-3]: RS 211.222.338
 
 #### Art. 4
 
@@ -111,13 +105,11 @@ arrête:
 
 <sup>1</sup> Le canton indemnise les communes au moyen de forfaits par cas. Les forfaits suivants sont versés:
 
-- a 2940 francs par personne et par année pour chaque mandat attribué par l’APEA dans le domaine de la protection de l’enfant (art. 3, al. 1, lit. a, c, g, h et i);
+- a 2940 francs par personne et par année pour chaque mandat attribué par l’APEA dans le domaine de la protection de l’enfant (art. 3, al. 1, lit. a, c, g et h);
 - b 1170 francs par personne et par année pour chaque mandat attribué par l’APEA dans le domaine de la protection de l’adulte (art. 3, al. 1, lit. a, d, e, f et g);
 - c 3450 francs par année pour la gestion de la curatelle ou de la tutelle d'une personne mineure (art. 3, al. 1, lit. b);
 - d 3180 francs par année pour la gestion de la curatelle d’une personne adulte (art. 3, al. 1, lit. b);
-- e 720 francs par année par enfant placé relevant de la compétence du service communal, pour autant que celui-ci accomplisse des tâches prévues à l’article 3, alinéa 1, lettre k ou l;
-- f 480 francs par année pour chaque offre d’accueil familial à la journée surveillée (art. 3, al. 1, lit. m);
-- g 720 francs par année pour la collaboration avec une organisation d’accueil familial de jour accomplissant sur mandat du service communal la tâche prévue à l’article 3, alinéa 1, lettre m;
+- e–g …
 - h 360 francs pour des conseils prodigués à des parents non mariés lors d'une consultation unique en application de l’article 3, alinéa 1, lettre n;
 - i 666 francs pour la nomination d'un curateur privé ou d'une curatrice privée se voyant attribuer un mandat sur proposition du service communal (forfait unique de recrutement);
 - k 666 francs par année pour chaque curateur privé ou curatrice privée, pour autant que le service social soit intervenu au moins deux fois pour lui prodiguer des conseils ou lui offrir d’autres prestations de suivi;
