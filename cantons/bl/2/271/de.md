@@ -4,13 +4,12 @@ number: "271"
 title: Gesetz über die Verfassungs- und Verwaltungsprozessordnung
 short: "Verwaltungsprozessordnung, VPO"
 language: de
-version: 2019-01-01
-valid_until: 2023-12-31
-version_adopted: 2018-05-17
+version: 2024-01-01
+version_adopted: 2023-01-26
 adopted: 1993-12-16
 in_force: 1995-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/271"
-pdf: "https://bl.clex.ch/api/de/versions/3810/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4328/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3810/pdf_file"
 
 (Verwaltungsprozessordnung, VPO)
 
-Vom 16.12.1993 (Stand 01.01.2019)
+Vom 16.12.1993 (Stand 01.01.2024)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -70,7 +69,7 @@ beschliesst:[^ingress-2]
 
 - a. die beschwerdeführende oder klagende Person;
 - b. die Vorinstanz oder beklagte Person;
-- c. andere Personen, Organisationen oder Behörden, deren schutzwürdige Interessen durch die Verfügung oder den Entscheid betroffen werden und die von der präsidierenden Person von Amtes wegen oder auf Antrag zum Verfahren beigeladen worden sind.
+- c. andere Personen, Organisationen oder Behörden, deren schutzwürdige Interessen durch die Verfügung oder den Entscheid betroffen werden und die von der präsidierenden Person von Amts wegen oder auf Antrag zum Verfahren beigeladen worden sind.
 
 <sup>2</sup> Die Parteien können sich verbeiständen und, soweit nicht persönliches Erscheinen notwendig ist, vertreten lassen. Die vertretende Person muss sich durch eine schriftliche Vollmacht ausweisen.
 
@@ -180,11 +179,11 @@ beschliesst:[^ingress-2]
 
 **Feststellung des Sachverhalts**
 
-<sup>1</sup> Das Gericht stellt von Amtes wegen die für den Entscheid wesentlichen Tatsachen fest. Es ist in der Beweiswürdigung frei.
+<sup>1</sup> Das Gericht stellt von Amts wegen die für den Entscheid wesentlichen Tatsachen fest. Es ist in der Beweiswürdigung frei.
 
-<sup>2</sup> Die präsidierende Person und das Gericht können von sich aus oder auf Antrag und unter Mitteilung an die Parteien die Akten ergänzen, Erhebungen und Augenscheine vornehmen sowie Sachverständige und Zeugen bzw. Zeuginnen anhören.
+<sup>2</sup> Die präsidierende Person und das Gericht können von sich aus oder auf Antrag und unter Mitteilung an die Parteien die Akten ergänzen, Erhebungen und Augenscheine vornehmen sowie Sachverständige und Zeuginnen bzw. Zeugen anhören.
 
-<sup>3</sup> Für die Einvernahme von Zeugen und Zeuginnen und den Beizug von Sachverständigen gelten sinngemäss die Bestimmungen der Schweizerischen Zivilprozessordnung[^12-1].
+<sup>3</sup> Für die Einvernahme von Zeugen und Zeuginnen und den Beizug von Sachverständigen gelten sinngemäss die Bestimmungen der ZPO[^12-1].
 
 [^12-1]: [SR 272](https://db.clex.ch/link/Bund/272/de)
 
@@ -231,7 +230,7 @@ beschliesst:[^ingress-2]
 
 #### § 18
 
-**Änderung der Verfügung oder des Entscheides**
+**Änderung der Verfügung oder des Entscheids**
 
 <sup>1</sup> Das Gericht ist an die Begehren der Parteien gebunden. Zuungunsten einer privaten Partei darf die angefochtene Verfügung oder der angefochtene Entscheid nur geändert werden, wenn dies zugunsten des Begehrens einer privaten Gegenpartei erforderlich ist.
 
@@ -254,6 +253,8 @@ beschliesst:[^ingress-2]
 **Verfahrenskosten**
 
 <sup>1</sup> Es werden Verfahrenskosten erhoben.
+
+<sup>1<sup>bis</sup></sup> Das Verfahren wegen Verletzung der Rechte von Menschen mit Behinderungen ist für die Parteien kostenlos. Einer Partei, die sich mutwillig oder leichtsinnig verhält, können jedoch Verfahrenskosten auferlegt werden.
 
 <sup>2</sup> Das Verfahren in Sozialversicherungssachen ist vorbehältlich Abs. 2<sup>bis</sup> für die Parteien kostenlos. Einer Partei, die sich mutwillig oder leichtsinnig verhält, können jedoch Verfahrenskosten auferlegt werden.
 
@@ -283,9 +284,9 @@ beschliesst:[^ingress-2]
 
 **Unentgeltliche Rechtspflege**
 
-<sup>1</sup> Fehlen einer Partei die nötigen Mittel und erscheint ihr Begehren nicht offensichtlich als aussichtslos, so wird sie auf ihr Begehren von der Bezahlung der Verfahrenskosten und der Kosten von Beweismassnahmen befreit. Für die Darlegung der Mittellosigkeit gilt die Schweizerische Zivilprozessordnung[^22-1].
+<sup>1</sup> Fehlen einer Partei die nötigen Mittel und erscheint ihr Begehren nicht offensichtlich als aussichtslos, so wird sie auf ihr Begehren von der Bezahlung der Verfahrenskosten und der Kosten von Beweismassnahmen befreit. Für die Darlegung der Mittellosigkeit gilt die ZPO[^22-1].
 
-<sup>2</sup> Unter den gleichen Voraussetzungen wird einer Partei der kostenlose Beizug eines Anwaltes bzw. einer Anwältin gewährt, sofern dies zur Wahrung ihrer Rechte notwendig erscheint.
+<sup>2</sup> Unter den gleichen Voraussetzungen wird einer Partei der kostenlose Beizug einer Anwältin bzw. eines Anwalts gewährt, sofern dies zur Wahrung ihrer Rechte notwendig erscheint.
 
 [^22-1]: [SR 272](https://db.clex.ch/link/Bund/272/de)
 
@@ -293,7 +294,7 @@ beschliesst:[^ingress-2]
 
 **Erläuterung, Revision und Wiederherstellung von Fristen**
 
-<sup>1</sup> Für die Erläuterung und die Revision der Urteile sowie für die Wiederherstellung von Fristen gelten sinngemäss die Bestimmungen des Verwaltungsverfahrensgesetzes[^23-1]. Eine Revision kann nur aus den in § 40 Abs. 2 Bst. a und c des Verwaltungsverfahrensgesetzes genannten Gründen verlangt werden.
+<sup>1</sup> Für die Erläuterung und die Revision der Urteile sowie für die Wiederherstellung von Fristen gelten sinngemäss die Bestimmungen des Verwaltungsverfahrensgesetzes Basel-Landschaft[^23-1]. Eine Revision kann nur aus den in § 40 Abs. 2 Bst. a und c des Verwaltungsverfahrensgesetzes genannten Gründen verlangt werden.
 
 [^23-1]: [SGS 175](https://bl.clex.ch/data/175/de)
 
@@ -395,7 +396,7 @@ beschliesst:[^ingress-2]
 
 **Zulässigkeit**
 
-<sup>1</sup> Die Beschwerde wegen Verletzung verfassungsmässiger Rechte ist zulässig gegen Verfügungen und Entscheide des Regierungsrates, letztinstanzliche Entscheide der Direktionen sowie Beschlüsse des Landrates, sofern dem Verfassungsgericht die Zuständigkeit nicht durch dieses Gesetz, durch andere Gesetze oder durch die Verfassung entzogen ist.
+<sup>1</sup> Die Beschwerde wegen Verletzung verfassungsmässiger Rechte ist zulässig gegen Verfügungen und Entscheide des Regierungsrats, letztinstanzliche Entscheide der Direktionen sowie Beschlüsse des Landrats, sofern dem Verfassungsgericht die Zuständigkeit nicht durch dieses Gesetz, durch andere Gesetze oder durch die Verfassung entzogen ist.
 
 <sup>2</sup> Die Beschwerde ist auch zulässig gegen Verfügungen und Entscheide von anderen Behörden und Gerichten, welche die kantonale Gesetzgebung und die Verfassung der Verwaltungsgerichtsbarkeit unterstellt.
 
@@ -667,10 +668,10 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Das Kantonsgericht beurteilt als Versicherungsgericht als einzige gerichtliche Instanz des Kantons folgende bundesrechtliche Streitigkeiten:
 
-- a. Beschwerden gegen Einspracheentscheide der Versicherungsträger oder gegen Verfügungen der Versicherungsträger, gegen welche eine Einsprache ausgeschlossen ist, gemäss Art. 56 des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG) vom 6. Oktober 2000[^54-1];
+- a. Beschwerden gegen Einspracheentscheide der Versicherungsträger oder gegen Verfügungen der Versicherungsträger, gegen welche eine Einsprache ausgeschlossen ist, gemäss Art. 56 des ATSG[^54-1];
 - b. Beschwerden gegen Verfügungen der kantonalen IV-Stelle gemäss Art. 69 Abs. 1 Bst. a des Bundesgesetzes über die Invalidenversicherung (IVG) vom 19. Juni 1959[^54-2];
 - c. Streitigkeiten zwischen Vorsorgeeinrichtungen, Arbeitgebern und Anspruchsberechtigten gemäss Art. 73 des Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG) vom 25. Juni 1982[^54-3];
-- d. Streitigkeiten aus Zusatzversicherungen zur sozialen Krankenversicherung nach dem Bundesgesetz über die Krankenversicherung vom 18. März 1994[^54-4]. Für diese Streitigkeiten gilt die Schweizerische Zivilprozessordnung[^54-5].
+- d. Streitigkeiten aus Zusatzversicherungen zur sozialen Krankenversicherung nach dem Bundesgesetz über die Krankenversicherung vom 18. März 1994[^54-4]. Für diese Streitigkeiten gilt die ZPO[^54-5].
 
 <sup>2</sup> Das Kantonsgericht ist ferner für die Beurteilung folgender kantonalrechtlicher Sozialversicherungsstreitigkeiten zuständig:
 
@@ -721,7 +722,7 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Die Beschwerde ist vorbehältlich spezialgesetzlicher Bestimmungen des Bundesrechts innerhalb von 30 Tagen nach Eröffnung des Einspracheentscheides oder der Verfügung einzureichen.
 
-<sup>2</sup> Die Art. 38–41 des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG) vom 6. Oktober 2000[^57b-1]sind sinngemäss anwendbar.
+<sup>2</sup> Die Art. 38–41 des ATSG[^57b-1] sind sinngemäss anwendbar.
 
 [^57b-1]: [SR 830.1](https://db.clex.ch/link/Bund/830.1/de)
 
@@ -736,6 +737,11 @@ beschliesst:[^ingress-2]
 <sup>3</sup> Im Klageverfahren kann es der klagenden Partei mehr zusprechen, als diese verlangt hat, wobei den Parteien vorher Gelegenheit zur Stellungnahme zu geben ist.
 
 ## 4.2 Verfahren vor Schiedsgericht (Art. 89 KVG und Art. 57 UVG)
+
+[^58-1][^58-2]
+
+[^58-1]: [SR 832.10](https://db.clex.ch/link/Bund/832.10/de)
+[^58-2]: [SR 832.20](https://db.clex.ch/link/Bund/832.20/de)
 
 #### § 59
 
@@ -818,16 +824,16 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Das Gesetz vom 7. Februar 1974[^68-1] über die Staats- und Gemeindesteuern und den Finanzausgleich (Steuer- und Finanzgesetz) wird wie folgt geändert: ...[^68-2]
 
-[^68-1]: GS 25.427, SGS [331](https://bl.clex.ch/data/331/de)
+[^68-1]: [SGS 331](https://bl.clex.ch/data/331/de)
 [^68-2]: GS 31.866
 
 #### § 69
 
 **Änderung des Enteignungsgesetzes**
 
-<sup>1</sup> Das Gesetz vom 19. Juni 1950[^69-1] über die Enteignung (Enteignungsgesetz) wird wie folgt geändert: ...[^69-2]
+<sup>1</sup> Das Gesetz vom 19. Juni 1950[^69-1] über die Enteignung wird wie folgt geändert: ...[^69-2]
 
-[^69-1]: GS 20.169, SGS [410](https://bl.clex.ch/data/410/de)
+[^69-1]: [SGS 410](https://bl.clex.ch/data/410/de)
 [^69-2]: GS 31.867
 
 #### § 70
@@ -845,7 +851,7 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Das Gesetz vom 28. Mai 1970[^71-1] über die Organisation und die Verwaltung der Gemeinden (Gemeindegesetz) wird wie folgt geändert: ...[^71-2]
 
-[^71-1]: GS 24.293, SGS [180](https://bl.clex.ch/data/180/de)
+[^71-1]: [SGS 180](https://bl.clex.ch/data/180/de)
 [^71-2]: GS 31.867
 
 #### § 72
@@ -863,7 +869,7 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Das Verwaltungsverfahrensgesetz vom 13. Juni 1988[^73-1]wird wie folgt geändert: ...[^73-2]
 
-[^73-1]: GS 29.677, SGS [175](https://bl.clex.ch/data/175/de)
+[^73-1]: [SGS 175](https://bl.clex.ch/data/175/de)
 [^73-2]: GS 31.868
 
 #### § 74
@@ -921,7 +927,7 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Der Regierungsrat beschliesst das Inkrafttreten dieses Gesetzes.[^79-1]
 
-<sup>2</sup> Die Bestimmungen über das Verfahren in Sozialversicherungssachen bedürfen der Genehmigung des Bundesrates.[^79-2]
+<sup>2</sup> Die Bestimmungen über das Verfahren in Sozialversicherungssachen bedürfen der Genehmigung des Bundesrats.[^79-2]
 
 [^79-1]: In Kraft seit 1. Januar 1995
 [^79-2]: Genehmigt am 30. September 1994.
