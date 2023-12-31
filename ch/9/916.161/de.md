@@ -4,11 +4,11 @@ title: "Verordnung vom 12. Mai 2010 über das Inverkehrbringen von Pflanzenschut
 short: PSMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/340"
 language: de
-version: 2023-07-01
+version: 2024-01-01
 adopted: 2010-05-12
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2010-340-20230701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2010-340-20240101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,11 +17,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20230701/de"
 
 (Pflanzenschutzmittelverordnung, PSMV)
 
-vom 12. Mai 2010 (Stand am 1. Juli 2023)
+vom 12. Mai 2010 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf das Chemikaliengesetz vom 15. Dezember 2000[^ingress-1] (ChemG), auf die Artikel 148*a* Absatz 3, 158 Absatz 2, 159*a*, 160 Absätze 3–5, 161, 164, 168 und 177 des Landwirtschaftsgesetzes vom 29. April 1998[^ingress-2] (LwG), auf Artikel 17 des Gentechnikgesetzes vom 21. März 2003[^ingress-3] (GTG) und auf die Artikel 29, 29*d* Absatz 4 und 30*b* Absätze 1 und 2 Buchstabe a des Umweltschutzgesetzes vom 7. Oktober 1983[^ingress-4] (USG) sowie in Ausführung des Bundesgesetzes vom 6. Oktober 1995[^ingress-5] über die technischen Handelshemmnisse (THG),
+gestützt auf das Chemikaliengesetz vom 15. Dezember 2000[^ingress-1] (ChemG), auf die Artikel 148*a* Absatz 3, 158 Absatz 2, 159*a*, 160 Absätze 3–5, 161, 164, 164*b* Absatz 2, 168 und 177 des Landwirtschaftsgesetzes vom 29. April 1998[^ingress-2] (LwG), auf Artikel 17 des Gentechnikgesetzes vom 21. März 2003[^ingress-3] (GTG) und auf die Artikel 29, 29*d* Absatz 4 und 30*b* Absätze 1 und 2 Buchstabe a des Umweltschutzgesetzes vom 7. Oktober 1983[^ingress-4] (USG) sowie in Ausführung des Bundesgesetzes vom 6. Oktober 1995[^ingress-5] über die technischen Handelshemmnisse (THG),[^ingress-6]
 
 verordnet:
 
@@ -30,6 +30,7 @@ verordnet:
 [^ingress-3]: [SR 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
 [^ingress-4]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
 [^ingress-5]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-6]: Fassung gemäss Anhang Ziff. 1 der V vom 13. April 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -517,7 +518,7 @@ Unter Vorbehalt von Artikel 34 wird ein Pflanzenschutzmittel nur bewilligt, wenn
 
 <sup>1ter</sup> Ein Pflanzenschutzmittel wird für eine nichtberufliche Verwendung nur bewilligt, wenn zusätzlich zu den Absätzen 1 und 1<sup>bis</sup> die Anforderungen nach Anhang 12 Ziffer 1 erfüllt sind.[^17-6]
 
-<sup>2</sup> Die Gesuchstellerin muss nachweisen, dass die Anforderungen nach Absatz 1 Buchstaben a–h und bei Pflanzenschutzmitteln für die nichtberufliche Verwendung zusätzlich die Anforderungen nach Anhang 12 Ziffer 1 erfüllt sind; die Teile der Anforderungen, welche Einstufung und Kennzeichnung des Produkts betreffen, sind von der Nachweispflicht ausgenommen.[^17-7]
+<sup>+2</sup> Die Gesuchstellerin muss nachweisen, dass die Anforderungen nach Absatz 1 Buchstaben a–h und bei Pflanzenschutzmitteln für die nichtberufliche Verwendung zusätzlich die Anforderungen nach Anhang 12 Ziffer 1 erfüllt sind; die Teile der Anforderungen, welche Einstufung und Kennzeichnung des Produkts betreffen, sind von der Nachweispflicht ausgenommen.[^17-7]
 
 <sup>3</sup> Die Erfüllung der Anforderungen nach Absatz 1 Buchstaben b und d–h wird durch amtliche oder amtlich anerkannte Versuche und Analysen ermittelt, die in Bezug auf Landwirtschaft, Pflanzenschutz und Umwelt unter Bedingungen durchgeführt werden, die der Verwendung des betreffenden Pflanzenschutzmittels entsprechen und für die Nutzungsbedingungen repräsentativ sind.
 
@@ -1468,13 +1469,18 @@ Die Kennzeichnung muss in mindestens einer Amtssprache des Abgabeortes erfolgen.
 
 **Aufzeichnungen**
 
-<sup>1</sup> Herstellerinnen, Lieferantinnen, Händlerinnen, Importeurinnen und Exporteurinnen von Pflanzenschutzmitteln müssen über mindestens fünf Jahre Aufzeichnungen über die Pflanzenschutzmittel führen, die sie herstellen, einführen, ausführen, lagern, verwenden oder in Verkehr bringen. Berufliche Verwender und Verwenderinnen von Pflanzenschutzmitteln müssen über mindestens drei Jahre Aufzeichnungen über die Pflanzenschutzmittel führen, die sie verwenden, in denen die Bezeichnung des Pflanzenschutzmittels, der Zeitpunkt der Anwendung, die verwendete Menge, die behandelte Fläche und die Nutzpflanze, für die das Pflanzenschutzmittel verwendet wurde, vermerkt sind. Sie müssen die einschlägigen Informationen in diesen Aufzeichnungen auf Anfrage der zuständigen Behörde zur Verfügung stellen.
+<sup>1</sup> Herstellerinnen, Lieferantinnen, Händlerinnen, Importeurinnen und Exporteurinnen von Pflanzenschutzmitteln und Saatgut müssen über mindestens fünf Jahre Aufzeichnungen über die Pflanzenschutzmittel und das mit Pflanzenschutzmitteln behandelte Saatgut führen, die sie herstellen, einführen, ausführen, lagern, verwenden oder in Verkehr bringen. Das Inverkehrbringen ist nach der Verordnung vom 23. Oktober 2013[^62-1] über Informationssysteme im Bereich der Landwirtschaft (ISLV) mitzuteilen.[^62-2]
 
-<sup>2</sup> Bewilligungsinhaberinnen und Importeurinnen von Pflanzenschutzmitteln, die in der Liste nach Artikel 36 aufgeführt und zum Weiterverkauf bestimmt sind, müssen dem Bundesamt für Landwirtschaft (BLW) jährlich alle Daten über das Umsatzvolumen mit Pflanzenschutzmitteln übermitteln.[^62-1]
+<sup>1bis</sup> Berufliche Verwender und Verwenderinnen von Pflanzenschutzmitteln müssen die Daten zu jeder Verwendung des Pflanzenschutzmittels mit dessen Bezeichnung, dem Zeitpunkt der Verwendung, der verwendeten Menge, der behandelten Fläche und der Nutzpflanze nach der ISLV mitteilen.[^62-3]
+
+<sup>2</sup> Bewilligungsinhaberinnen und Importeurinnen von Pflanzenschutzmitteln, die in der Liste nach Artikel 36 aufgeführt und zum Weiterverkauf bestimmt sind, müssen dem Bundesamt für Landwirtschaft (BLW) jährlich alle Daten über das Umsatzvolumen mit Pflanzenschutzmitteln übermitteln.[^62-4]
 
 <sup>3</sup> Die Daten nach Absatz 2 müssen mit den im Rahmen internationaler Informationssysteme erforderlichen Daten, insbesondere jenen der EU, vergleichbar sein.
 
-[^62-1]: Fassung gemäss Ziff. I der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^62-1]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^62-2]: Fassung gemäss Anhang Ziff. 1 der V vom 13. April 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
+[^62-3]: Eingefügt durch Anhang Ziff. 1 der V vom 13. April 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
+[^62-4]: Fassung gemäss Ziff. I der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
 #### Art. 63
 
@@ -2017,7 +2023,7 @@ Anhang 1[^t-1]
 
 ## Für die Verwendung in Pflanzenschutzmitteln genehmigte Wirkstoffe
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 17. Juni 2011 ([AS 2011 2927](https://fedlex.data.admin.ch/eli/oc/2011/381)), Ziff. II Abs. 1 der V vom 23. Juni 2012 ([AS 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)), Ziff. I der V des WBF vom 11. Dez. 2012 ([AS 2013 249](https://fedlex.data.admin.ch/eli/oc/2013/34)), vom 12. Nov. 2014 ([AS 2014 4215](https://fedlex.data.admin.ch/eli/oc/2014/703)), Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4551](https://fedlex.data.admin.ch/eli/oc/2015/764)), der V des WBF vom 28. Okt. 2015 ([AS 2015 4555](https://fedlex.data.admin.ch/eli/oc/2015/765)), Ziff. I Abs. 1 der V des WBF vom 16. Sept. 2016 ([AS 2016 3345](https://fedlex.data.admin.ch/eli/oc/2016/568)), Ziff. I der V des WBF vom 9. Juni 2017 ([AS 2017 3501](https://fedlex.data.admin.ch/eli/oc/2017/381)), vom 28. Mai 2018 ([AS 2018 2377](https://fedlex.data.admin.ch/eli/oc/2018/341)), vom 31. Okt. 2018 ([AS 2018 4421](https://fedlex.data.admin.ch/eli/oc/2018/705)), vom 25. Juni 2019 ([AS 2019 2091](https://fedlex.data.admin.ch/eli/oc/2019/383)), vom 12. Nov. 2019 ([AS 2019 4263](https://fedlex.data.admin.ch/eli/oc/2019/734)), vom 2. Juni 2020 ([AS 2020 2165](https://fedlex.data.admin.ch/eli/oc/2020/427)), Ziff. II der V des WBF vom 17. Mai 2021 ([AS 2021 321](https://fedlex.data.admin.ch/eli/oc/2021/321)), vom 30. Nov. 2021 ([AS 2021 795](https://fedlex.data.admin.ch/eli/oc/2021/795)), Ziff. II der V des EDI vom 31. Mai 2022 ([AS 2022 338](https://fedlex.data.admin.ch/eli/oc/2022/338)), Ziff. I der V des EDI vom 21. Nov. 2022 ([AS 2022 746](https://fedlex.data.admin.ch/eli/oc/2022/746)) und vom 9. Juni 2023, in Kraft seit 1. Juli 2023 ([AS 2023 314](https://fedlex.data.admin.ch/eli/oc/2023/314)).
+[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 17. Juni 2011 ([AS 2011 2927](https://fedlex.data.admin.ch/eli/oc/2011/381)), Ziff. II Abs. 1 der V vom 23. Juni 2012 ([AS 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)), Ziff. I der V des WBF vom 11. Dez. 2012 ([AS 2013 249](https://fedlex.data.admin.ch/eli/oc/2013/34)), vom 12. Nov. 2014 ([AS 2014 4215](https://fedlex.data.admin.ch/eli/oc/2014/703)), Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4551](https://fedlex.data.admin.ch/eli/oc/2015/764)), der V des WBF vom 28. Okt. 2015 ([AS 2015 4555](https://fedlex.data.admin.ch/eli/oc/2015/765)), Ziff. I Abs. 1 der V des WBF vom 16. Sept. 2016 ([AS 2016 3345](https://fedlex.data.admin.ch/eli/oc/2016/568)), Ziff. I der V des WBF vom 9. Juni 2017 ([AS 2017 3501](https://fedlex.data.admin.ch/eli/oc/2017/381)), vom 28. Mai 2018 ([AS 2018 2377](https://fedlex.data.admin.ch/eli/oc/2018/341)), vom 31. Okt. 2018 ([AS 2018 4421](https://fedlex.data.admin.ch/eli/oc/2018/705)), vom 25. Juni 2019 ([AS 2019 2091](https://fedlex.data.admin.ch/eli/oc/2019/383)), vom 12. Nov. 2019 ([AS 2019 4263](https://fedlex.data.admin.ch/eli/oc/2019/734)), vom 2. Juni 2020 ([AS 2020 2165](https://fedlex.data.admin.ch/eli/oc/2020/427)), Ziff. II der V des WBF vom 17. Mai 2021 ([AS 2021 321](https://fedlex.data.admin.ch/eli/oc/2021/321)), vom 30. Nov. 2021 ([AS 2021 795](https://fedlex.data.admin.ch/eli/oc/2021/795)), Ziff. II der V des EDI vom 31. Mai 2022 ([AS 2022 338](https://fedlex.data.admin.ch/eli/oc/2022/338)), Ziff. I der V des EDI vom 21. Nov. 2022 ([AS 2022 746](https://fedlex.data.admin.ch/eli/oc/2022/746)), vom 9. Juni 2023 ([AS 2023 314](https://fedlex.data.admin.ch/eli/oc/2023/314)) und vom 21. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 753](https://fedlex.data.admin.ch/eli/oc/2023/753)).
 
 ### Teil A: Chemische Stoffe
 
@@ -2183,6 +2189,7 @@ Anhang 1[^t-1]
 <tr><td>Kaliumnitrat (Kalisalpeter)</td><td>KNO<sub>3</sub></td><td>7757-79-1</td><td>–</td><td>Rodentizid</td></tr>
 <tr><td>Kaliumphosphonat</td><td>KH2PO3 und K2HPO3</td><td></td><td>756</td><td>Fungizid</td></tr>
 <tr><td>Kaolin</td><td>Kaolin (CA-Name)</td><td>1332-58-7</td><td>–</td><td>Insektizid</td></tr>
+<tr><td>Kieselgur (Diatomeenerde)</td><td>–</td><td>61790-53-2</td><td>647</td><td>Akarizid, Insektizid</td></tr>
 <tr><td>Kresoxim-methyl</td><td>methyl (E)-2-methoxyimino-[2-(o-tolyloxymethyl)phenyl]acetate</td><td>143390-89-0</td><td>568</td><td>Fungizid</td></tr>
 <tr><td>Kupferverbindungen</td><td></td><td></td><td>44</td><td>Fungizid, Bakterizid</td></tr>
 <tr><td></td><td>*Variante* (als Hydroxid): copper(II) hydroxide</td><td>20427-59-2</td><td>44.305</td><td>Fungizid, Bakterizid</td></tr>
@@ -2203,6 +2210,7 @@ Anhang 1[^t-1]
 <tr><td>MCPB</td><td>4-(4-chloro-o-tolyloxy)butyric acid</td><td>94-81-5</td><td>50</td><td>Herbizid</td></tr>
 <tr><td>Mecoprop-P</td><td>(R)-2-(4-chloro-o-tolyloxy)propionic acid</td><td>16484-77-8</td><td>475</td><td>Herbizid</td></tr>
 <tr><td>Mefenpyr-Diethyl</td><td>diethyl (RS)-1-(2,4-dichlororphenyl)-5-methyl-2-pyrazoline-3,5-dicarboxylate</td><td>135590-91-9</td><td>651.229</td><td>Herbizid «Safener»</td></tr>
+<tr><td>Mefentrifluconazol</td><td>(2RS)-2-[4-(4-chlorophenoxy)-2-(trifluoromethyl)phenyl]-1-(1H-1,2,4-triazol-1-yl)propan-2-ol</td><td>1417782-03-6</td><td>1004</td><td>Fungizid</td></tr>
 <tr><td>Mepanipyrim</td><td>N-(4-methyl-6-prop-1-ynylpyrimidin-2-yl)aniline</td><td>110235-47-7</td><td>611</td><td>Fungizid</td></tr>
 <tr><td>Mepiquat</td><td>1,1-dimethylpiperidinium *Variante*: Mepiquat-chloride</td><td>15302-91-7 24307-26-4</td><td>440 440.302</td><td>Phytoregulator</td></tr>
 <tr><td>Meptyldinocap</td><td>Mischung aus 75–100 % (RS)-2-(1-Methylheptyl)-4,6-dinitrophenylcrotonat und 25–0 % (RS)-2-(1-Methylheptyl)-4,6-dinitrophenylisocrotonat</td><td>6119-92-2</td><td>811</td><td>Fungizid</td></tr>
@@ -2228,6 +2236,7 @@ Anhang 1[^t-1]
 <tr><td>Oleum foeniculi</td><td>(Fenchelöl)</td><td></td><td>–</td><td>Fungizid</td></tr>
 <tr><td>Orangenöl</td><td>(R)-4-Isopropenyl-1-methylcyclohexen</td><td>8028-48-6</td><td>902</td><td>Insektizid, Fungizid</td></tr>
 <tr><td>Orthophenylphenol</td><td>[1,1'-biphenyl]-2-ol</td><td>90-43-7</td><td>246</td><td>Desinfektionsmittel</td></tr>
+<tr><td>Oxathiapiprolin</td><td>1-(4-{4-[(5RS)-5-(2,6-Difluorphenyl)-4,5-dihydro-1,2-oxazol-3-yl]-1,3-thiazol-2-yl}-1-piperidyl)-2-[5-methyl-3-(trifluormethyl)-1H-pyrazol-1-yl]ethanon</td><td>1003318-67-9</td><td>985</td><td>Fungizid</td></tr>
 <tr><td>Oxyfluorfen</td><td>2-chloro-α,α,α-trifluoro-p-tolyl 3-ethoxy-4-nitrophenyl ether</td><td>42874-03-3</td><td>538</td><td>Herbizid</td></tr>
 <tr><td>Paclobutrazol</td><td>(2RS,3RS)-1-(4-chlorophenyl)-4,4-dimethyl-2-(1H-1,2,4-triazol-1-yl) pentan-3-ol</td><td>76738-62-0</td><td>445</td><td>Phytoregulator</td></tr>
 <tr><td>Paraffinöl</td><td></td><td>64742-46-7, 72623-86-0, 8042-47-5, 97862-82-3</td><td>–</td><td>Insektizid</td></tr>
@@ -2273,7 +2282,6 @@ Anhang 1[^t-1]
 <tr><td>Schwefelkalk</td><td>Calcium polysulfide</td><td>1344-81-6</td><td>17</td><td>Fungizid</td></tr>
 <tr><td>Schwefelsaure Tonerde</td><td>Aluminium sulfate</td><td>10043-01-3</td><td>–</td><td>Fungizid, Bakterizid</td></tr>
 <tr><td>Sesamöl raffiniert</td><td>fatty acid glycerol ester</td><td></td><td>–</td><td>Insektizid (Synergist)</td></tr>
-<tr><td>Siliciumoxyd</td><td>silicium dioxide</td><td>7631-86-9</td><td>–</td><td>Fungizid</td></tr>
 <tr><td>S-Metolachlor</td><td>(S)-2-chloro-N-(2-ethyl-6-methyl-phenyl)-N-(2methoxy-1-methyl-ethyl)-acetamide</td><td>87392-12-9</td><td>607</td><td>Herbizid</td></tr>
 <tr><td>Spinetoram</td><td>(1S,2R,5R,7R,9R,10S,14R,15S,19S)-7-(6-deoxy-3-O-ethyl-2,4-di-O-methyl-á-L-mannopyranosyloxy)-15-[(2R,5S,6R)-5-(dimethylamino)tetrahydro-6-methylpyran-2-yloxy]-19-ethyl-14-methyl-20-oxatetracyclo[10.10.0.02,10.05,9]docos-11-ene-13,21-dion</td><td>935545-74-7</td><td>802</td><td>Insektizid</td></tr>
 <tr><td>Spinosad</td><td>mixture of spinosyn A and spinosyn D</td><td>168316-95-8</td><td>636</td><td>Insektizid</td></tr>
@@ -2331,7 +2339,6 @@ Anhang 1[^t-1]
 <tr><td colspan="2">Bacillus amyloliquefaciens – Stamm FZB24</td><td colspan="2">Bakterieller Antagonist</td><td colspan="2">Bakterie</td><td colspan="2">Bakterizid, Fungizid, Stoff mit geringem Risiko</td></tr>
 <tr><td colspan="2">Bacillus amyloliquefaciens – Stamm QST 713</td><td colspan="2">Bakterieller Antagonist</td><td colspan="2">Bakterie</td><td colspan="2">Bakterizid, Fungizid</td></tr>
 <tr><td colspan="2">Bacillus amyloliquefaciens sp plantarum – Stamm D747</td><td colspan="2">Bakterieller Antagonist</td><td colspan="2">Bakterie</td><td colspan="2">Fungizid</td></tr>
-<tr><td colspan="2">Bacillus firmus – Stämme I-1582, I-1583</td><td colspan="2">Pathogene Bakterie</td><td colspan="2">Bakterie</td><td colspan="2">Nematizid</td></tr>
 <tr><td colspan="2">Bacillus thuringiensis var. aizawai – Stämme GC-91, ABTS-1857</td><td colspan="2">Entomopathogene Bakterie</td><td colspan="2">Bakterie</td><td colspan="2">Insektizid</td></tr>
 <tr><td colspan="2">Bacillus thuringiensis var. Israeliensis – Stämme AM65-52, BMP 144</td><td colspan="2">Entomopathogene Bakterie</td><td colspan="2">Bakterie</td><td colspan="2">Insektizid</td></tr>
 <tr><td colspan="2">Bacillus thuringiensis var. Kurstaki – Stämme ABTS-351, SA-11, HD-1, Btk-HD-1, ATCC-SD-1275, EG2424, EG 2348</td><td colspan="2">Entomopathogene Bakterie</td><td colspan="2">Bakterie</td><td colspan="2">Insektizid</td></tr>
@@ -2340,6 +2347,7 @@ Anhang 1[^t-1]
 <tr><td colspan="2">Beauveria brongniartii – Stämme BIPESCO2, BIPESCO4 (FAL 546)</td><td colspan="2">Entomopathogener Pilz</td><td colspan="2">Pilz</td><td colspan="2">Insektizid</td></tr>
 <tr><td colspan="2">Coniothyrium minitans – Stamm CON/M/91-08</td><td colspan="2">Pilzlicher Antagonist</td><td colspan="2">Pilz</td><td colspan="2">Fungizid, Stoff mit geringem Risiko</td></tr>
 <tr><td colspan="2">Coniothyrium minitans – Stamm K1</td><td colspan="2">Pilzlicher Antagonist</td><td colspan="2">Pilz</td><td colspan="2">Fungizid</td></tr>
+<tr><td colspan="2">Cydia pomonella Granulovirus (Apfelwicklergranulose-Virus, CpGV) – Isolate CpGV NPP-R2, CpGV NPP-R5, CpGV GV-0003, CpGV-I12, CpGV GV-0013, CpGV GV-0006, CpGV GV-0014</td><td colspan="2">Entomopathogenes Virus</td><td colspan="2">Virus</td><td colspan="2">Insektizid, Stoff mit geringem Risiko</td></tr>
 <tr><td colspan="2">Gliocladium catenulatum – Stamm J1446</td><td colspan="2">Pilzlicher Antagonist</td><td colspan="2">Pilz</td><td colspan="2">Fungizid, Stoff mit geringem Risiko</td></tr>
 <tr><td colspan="2">Metarhizium anisopliae – Stamm BIPESCO5 (F52), FAL 997</td><td colspan="2">Entomopathogener Pilz</td><td colspan="2">Pilz</td><td colspan="2">Insektizid</td></tr>
 <tr><td colspan="2">Paecilomyces fumosoroseus</td><td colspan="2">Entomopathogener Pilz</td><td colspan="2">Pilz</td><td colspan="2">Insektizid</td></tr>
@@ -2355,7 +2363,6 @@ Anhang 1[^t-1]
 <tr><td colspan="2">Trichoderma gamsii – Stamm ICC 080</td><td colspan="2">Pilzlicher Antagonist</td><td colspan="2">Pilz</td><td colspan="2">Fungizid</td></tr>
 <tr><td colspan="2">Verticillium lecanii – Stämme IMI 328553, IMI 528555</td><td colspan="2">Entomopathogener Pilz</td><td colspan="2">Pilz</td><td colspan="2">Insektizid</td></tr>
 <tr><td colspan="2">Schalenwicklergranulose-Virus – Isolat GV-0001</td><td colspan="2">Entomopathogenes Virus</td><td colspan="2">Virus</td><td colspan="2">Insektizid</td></tr>
-<tr><td colspan="2">Apfelwicklergranulose-Virus – Isolate CpGV NPP-R2, CpGV NPP-R5, CpGV GV-0003, CpGV-I12, CpGV GV-0013, CpGV GV-0006, CpGV GV-0014</td><td colspan="2">Entomopathogenes Virus</td><td colspan="2">Virus</td><td colspan="2">Insektizid</td></tr>
 <tr><td colspan="2">Helicoverpa armigera Nucleopolyhedrovirus – Stamm HaNPV-BJ</td><td colspan="2">Entomopathogenes Virus</td><td colspan="2">Virus</td><td colspan="2">Insektizid</td></tr>
 <tr><td colspan="2">Xenorhabdus bovienii – Stamm ATCC35271</td><td colspan="2">Entomopathogene Bakterien</td><td colspan="2">Bakterien</td><td colspan="2">Insektizid</td></tr>
 </table>
@@ -2363,69 +2370,69 @@ Anhang 1[^t-1]
 ### Teil C: Makroorganismen
 
 <table>
-<tr><th colspan="2">Gebräuchliche Bezeichnung, Kennnummer</th><th colspan="2">Beschreibung</th><th colspan="2">Organismus</th><th colspan="3">Wirkungsart/ Besondere Bedingungen und Einschränkungen</th></tr>
-<tr><td colspan="2">Adalia bipunctata</td><td colspan="2">Räuberische Käfer</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Amblyseius andersoni</td><td colspan="2">Raubmilben</td><td colspan="2">Milben</td><td colspan="3">Insektizid, Akarizid</td></tr>
-<tr><td colspan="2">Amblyseius barkeri (mackenziei)</td><td colspan="2">Raubmilben</td><td colspan="2">Milben</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Amblyseius californicus</td><td colspan="2">Raubmilben</td><td colspan="2">Milben</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Amblyseius degenerans</td><td colspan="2">Raubmilben</td><td colspan="2">Milben</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Anagyrus vladimiri</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Anastatus bifasciatus</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Anisopteromalus calandrae</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Anthocoris nemoralis</td><td colspan="2">Räuberische Wanzen</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Aphelinus abdominalis</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Aphidius colemani</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Aphidius ervi</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Aphidius matricariae</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Aphidoletes aphidimyza</td><td colspan="2">Räuberische Dipteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Aphytis melinus</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Cephalonomia tarsalis</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Chrysoperla carnea</td><td colspan="2">Räuberische Nevropteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Coccophagus scutellaris</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Cryptolaemus montrouzieri</td><td colspan="2">Räuberische Käfer</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Dacnusa sibirica</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Diglyphus isaea</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Encarsia citrina</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Encarsia formosa</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Encyrtus lecaniorum</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Ephedrus cerasicola</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Eretmocerus eremicus</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekt</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Eretmocerus mundus</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekt</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Eupeodes corollae</td><td colspan="2">Räuberische Dipteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Exochomus quadripustulatus</td><td colspan="2">Räuberische Käfer</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Feltiella acarisuga</td><td colspan="2">Räuberische Gallmücke</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Habrobracon hebetor</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Heterorhabditis bacteriophora</td><td colspan="2">Entomoparasitische Nematoden</td><td colspan="2">Nematoden</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Heterorhabditis downesi</td><td colspan="2">Entomoparasitische Nematoden</td><td colspan="2">Nematoden</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Heterorhabditis megidis</td><td colspan="2">Entomoparasitische Nematoden</td><td colspan="2">Nematoden</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Hypoaspis aculeifer</td><td colspan="2">Raubmilben</td><td colspan="2">Milben</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Lariophagus distinguendus</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Leptomastidea abnormis</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Leptomastix dactylopii</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Macrolophus pigmaeus</td><td colspan="2">Räuberische Wanzen</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Metaphycus helvolus</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Microterys flavus</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Neoseiulus cucumeris (Synonym: Amblyseius cucumeris)</td><td colspan="2">Raubmilben</td><td colspan="2">Milben</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Orius insidiosus</td><td colspan="2">Räuberische Wanzen</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Orius laevigatus</td><td colspan="2">Räuberische Wanzen</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Orius majusculus</td><td colspan="2">Räuberische Wanzen</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Phasmarhabditis hermaphrodita</td><td colspan="2">Schneckenparasitische Nematoden</td><td colspan="2">Nematoden</td><td colspan="3">Molluskizid</td></tr>
-<tr><td colspan="2">Phytoseiulus persimilis</td><td colspan="2">Raubmilben</td><td colspan="2">Milben</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Praon volucre</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Pronematus ubiquitus</td><td colspan="2">Raubmilben</td><td colspan="2">Milben</td><td colspan="3">Akarizid</td></tr>
-<tr><td colspan="2">Pseudaphycus maculipennis</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Rodolia cardinalis</td><td colspan="2">Räuberische Käfer</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Sphaerophoria rueppellii</td><td colspan="2">Räuberische Dipteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Steinernema carpocapsae</td><td colspan="2">Entomoparasitische Nematoden</td><td colspan="2">Nematoden</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Steinernema carpocapsae all strain</td><td colspan="2">Entomoparasitische Nematoden</td><td colspan="2">Nematoden</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Steinernema feltiae</td><td colspan="2">Entomoparasitische Nematoden</td><td colspan="2">Nematoden</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Stratiolaelaps scimitus</td><td colspan="2">Raubmilben</td><td colspan="2">Milben</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Transeius montdorensis (Synonyme: Amblyseius montdorensis und Typhlodromips montdorensis)</td><td colspan="2">Raubmilben</td><td colspan="2">Milben</td><td colspan="3">Insektizid, Akarizid</td></tr>
-<tr><td colspan="2">Trichogramma brassicae Bezdenko</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Trichogramma cacoeciae</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekt</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Trichogramma evanescens</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Trichopria drosophilae</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
-<tr><td colspan="2">Typhlodromips swirskii</td><td colspan="2">Raubmilben</td><td colspan="2">Milben</td><td colspan="3">Insektizid</td></tr>
+<tr><th colspan="2">Gebräuchliche Bezeichnung, Kennnummer</th><th colspan="3">Beschreibung</th><th colspan="2">Organismus</th><th colspan="3">Wirkungsart/ Besondere Bedingungen und Einschränkungen</th></tr>
+<tr><td colspan="2">Adalia bipunctata</td><td colspan="3">Räuberische Käfer</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Amblyseius andersoni</td><td colspan="3">Raubmilben</td><td colspan="2">Milben</td><td colspan="3">Insektizid, Akarizid</td></tr>
+<tr><td colspan="2">Amblyseius barkeri (mackenziei)</td><td colspan="3">Raubmilben</td><td colspan="2">Milben</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Amblyseius californicus</td><td colspan="3">Raubmilben</td><td colspan="2">Milben</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Amblyseius degenerans</td><td colspan="3">Raubmilben</td><td colspan="2">Milben</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="3">Anagyrus vladimiri</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="3">Anastatus bifasciatus</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Anisopteromalus calandrae</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Anthocoris nemoralis</td><td colspan="3">Räuberische Wanzen</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Aphelinus abdominalis</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Aphidius colemani</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Aphidius ervi</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Aphidius matricariae</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Aphidoletes aphidimyza</td><td colspan="3">Räuberische Dipteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Aphytis melinus</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="3">Cephalonomia tarsalis</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Chrysoperla carnea</td><td colspan="3">Räuberische Nevropteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Coccophagus scutellaris</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Cryptolaemus montrouzieri</td><td colspan="3">Räuberische Käfer</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Dacnusa sibirica</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Diglyphus isaea</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="3">Encarsia citrina</td><td colspan="2">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Encarsia formosa</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Encyrtus lecaniorum</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Ephedrus cerasicola</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Eretmocerus eremicus</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekt</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Eretmocerus mundus</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekt</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Eupeodes corollae</td><td colspan="3">Räuberische Dipteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="3">Exochomus quadripustulatus</td><td colspan="2">Räuberische Käfer</td><td colspan="2">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Feltiella acarisuga</td><td colspan="3">Räuberische Gallmücke</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Habrobracon hebetor</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Heterorhabditis bacteriophora</td><td colspan="3">Entomoparasitische Nematoden</td><td colspan="2">Nematoden</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="3">Heterorhabditis downesi</td><td colspan="2">Entomoparasitische Nematoden</td><td colspan="2">Nematoden</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Heterorhabditis megidis</td><td colspan="3">Entomoparasitische Nematoden</td><td colspan="2">Nematoden</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Hypoaspis aculeifer</td><td colspan="3">Raubmilben</td><td colspan="2">Milben</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Lariophagus distinguendus</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Leptomastidea abnormis</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Leptomastix dactylopii</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Macrolophus pigmaeus</td><td colspan="3">Räuberische Wanzen</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Metaphycus helvolus</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Microterys flavus</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Neoseiulus cucumeris (Synonym: Amblyseius cucumeris)</td><td colspan="3">Raubmilben</td><td colspan="2">Milben</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Orius insidiosus</td><td colspan="3">Räuberische Wanzen</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Orius laevigatus</td><td colspan="3">Räuberische Wanzen</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Orius majusculus</td><td colspan="3">Räuberische Wanzen</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Phasmarhabditis hermaphrodita</td><td colspan="3">Schneckenparasitische Nematoden</td><td colspan="2">Nematoden</td><td colspan="3">Molluskizid</td></tr>
+<tr><td colspan="2">Phytoseiulus persimilis</td><td colspan="3">Raubmilben</td><td colspan="2">Milben</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Praon volucre</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="3">Pronematus ubiquitus</td><td colspan="2">Raubmilben</td><td colspan="2">Milben</td><td colspan="4">Akarizid</td></tr>
+<tr><td colspan="2">Pseudaphycus maculipennis</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Rodolia cardinalis</td><td colspan="3">Räuberische Käfer</td><td colspan="2">Insekten</td><td colspan="2">Insektizid</td></tr>
+<tr><td colspan="3">Sphaerophoria rueppellii</td><td colspan="2">Räuberische Dipteren</td><td colspan="2">Insekten</td><td colspan="4">Insektizid</td></tr>
+<tr><td colspan="2">Steinernema carpocapsae</td><td colspan="3">Entomoparasitische Nematoden</td><td colspan="2">Nematoden</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Steinernema carpocapsae all strain</td><td colspan="3">Entomoparasitische Nematoden</td><td colspan="2">Nematoden</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Steinernema feltiae</td><td colspan="3">Entomoparasitische Nematoden</td><td colspan="2">Nematoden</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Stratiolaelaps scimitus</td><td colspan="3">Raubmilben</td><td colspan="2">Milben</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Transeius montdorensis (Synonyme: Amblyseius montdorensis und Typhlodromips montdorensis)</td><td colspan="3">Raubmilben</td><td colspan="2">Milben</td><td colspan="2">Insektizid, Akarizid</td></tr>
+<tr><td colspan="2">Trichogramma brassicae Bezdenko</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Trichogramma cacoeciae</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekt</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Trichogramma evanescens</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Trichopria drosophilae</td><td colspan="3">Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="3">Insektizid</td></tr>
+<tr><td colspan="2">Typhlodromips swirskii</td><td colspan="3">Raubmilben</td><td colspan="2">Milben</td><td colspan="3">Insektizid</td></tr>
 </table>
 
 ### Teil D: Grundstoffe

@@ -4,11 +4,11 @@ title: "Ordinanza del 12 maggio 2010 concernente l'immissione sul mercato di pro
 short: OPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/340"
 language: it
-version: 2023-07-01
+version: 2024-01-01
 adopted: 2010-05-12
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2010-340-20230701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2010-340-20240101-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,11 +17,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20230701/it"
 
 (Ordinanza sui prodotti fitosanitari, OPF)
 
-del 12 maggio 2010 (Stato 1° luglio 2023)
+del 12 maggio 2010 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
-vista la legge federale del 15 dicembre 2000[^ingress-1] sui prodotti chimici (LPChim); visti gli articoli 148*a* capoverso 3, 158 capoverso 2, 159*a*, 160 capoversi 3–5, 161, 164, 168 e 177 della legge del 29 aprile 1998[^ingress-2] sull’agricoltura (LAgr); visto l’articolo 17 della legge federale del 21 marzo 2003[^ingress-3] sull’ingegneria genetica (LIG); visti gli articoli 29, 29*d* capoverso 4 e 30*b* capoversi 1 e 2 lettera a della legge del 7 ottobre 1983[^ingress-4] sulla protezione dell’ambiente (LPAmb); vista la legge federale del 6 ottobre 1995[^ingress-5] sugli ostacoli tecnici al commercio (LOTC),
+vista la legge del 15 dicembre 2000[^ingress-1] sui prodotti chimici (LPChim); visti gli articoli 148*a* capoverso 3, 158 capoverso 2, 159*a*, 160 capoversi 3–5, 161, 164, 164*b* capoverso 2, 168 e 177 della legge del 29 aprile 1998[^ingress-2] sull’agricoltura (LAgr); visto l’articolo 17 della legge del 21 marzo 2003[^ingress-3] sull’ingegneria genetica (LIG); visti gli articoli 29, 29*d* capoverso 4 e 30*b* capoversi 1 e 2 lettera a della legge del 7 ottobre 1983[^ingress-4] sull’ambiente (LPAmb); in esecuzione della legge federale del 6 ottobre 1995[^ingress-5] sugli ostacoli tecnici al commercio (LOTC),[^ingress-6]
 
 ordina:
 
@@ -30,6 +30,7 @@ ordina:
 [^ingress-3]: [RS 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
 [^ingress-4]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
 [^ingress-5]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-6]: Nuovo testo giusta l’all. n. 1 dell’O del 13 apr. 2022, in vigore dal 1° gen. 2024 ([RU 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -1463,13 +1464,18 @@ L’etichetta deve essere redatta in almeno una lingua ufficiale del luogo di fo
 
 **Registrazione dei dati**
 
-<sup>1</sup> I fabbricanti, i fornitori, i distributori, gli importatori e gli esportatori di prodotti fitosanitari tengono, per almeno cinque anni, registri sui prodotti fitosanitari che fabbricano, importano, esportano, immagazzinano, utilizzano o immettono sul mercato. Gli utilizzatori professionali di prodotti fitosanitari tengono, per almeno tre anni, registri sui prodotti fitosanitari che utilizzano, nei quali figurano la denominazione del prodotto fitosanitario, la data e la dose dell’applicazione e la superficie e la coltura sulle quali esso è stato utilizzato. Su richiesta, mettono le informazioni pertinenti contenute in tali registri a disposizione dell’autorità competente.
+<sup>1</sup> I fabbricanti, i fornitori, i distributori, gli importatori e gli esportatori di prodotti fitosanitari e sementi tengono, per almeno cinque anni, registri sui prodotti fitosanitari e sulle sementi trattate con prodotti fitosanitari che fabbricano, importano, esportano, immagazzinano, utilizzano o immettono sul mercato. L’immissione sul mercato deve essere comunicata in virtù dell’ordinanza del 23 ottobre 2013[^62-1] sui sistemi d’informazione nel campo dell’agricoltura (OSIAgr). [^62-2]
 
-<sup>2</sup> I titolari di autorizzazioni e gli importatori di prodotti fitosanitari che figurano nell’elenco di cui all’articolo 36 e che sono destinati a essere rivenduti comunicano annualmente all’Ufficio federale dell’agricoltura (UFAG) tutti i dati necessari concernenti il volume delle vendite di prodotti fitosanitari.[^62-1]
+<sup>1bis</sup> Gli utilizzatori professionali di prodotti fitosanitari comunicano i dati su ogni utilizzo del prodotto fitosanitario con la relativa denominazione, la data, la quantità utilizzata, la superficie trattata e la pianta utile ai sensi dell’OSIAgr.[^62-3]
+
+<sup>2</sup> I titolari di autorizzazioni e gli importatori di prodotti fitosanitari che figurano nell’elenco di cui all’articolo 36 e che sono destinati a essere rivenduti comunicano annualmente all’Ufficio federale dell’agricoltura (UFAG) tutti i dati necessari concernenti il volume delle vendite di prodotti fitosanitari.[^62-4]
 
 <sup>3</sup> I dati di cui al capoverso 2 devono essere comparabili a quelli richiesti nell’ambito di sistemi internazionali d’informazioni, in particolare a quelli dell’UE.
 
-[^62-1]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^62-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^62-2]: Nuovo testo giusta l’all. n. 1 dell’O del 13 apr. 2022, in vigore dal 1° gen. 2024 ([RU 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
+[^62-3]: Introdotto dall’all. n. 1 dell’O del 13 apr. 2022, in vigore dal 1° gen. 2024 ([RU 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
+[^62-4]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
 #### Art. 63
 
@@ -1828,7 +1834,7 @@ Il servizio d’omologazione gestisce una documentazione intersettoriale relativ
 
 L’ordinanza del 18 maggio 2005[^84-1] concernente l’immissione sul mercato di prodotti fitosanitari è abrogata.
 
-[^84-1]: [[RU 2005 3035](https://fedlex.data.admin.ch/eli/oc/2005/481)[4097](https://fedlex.data.admin.ch/eli/oc/2005/541)[5211](https://fedlex.data.admin.ch/eli/oc/2005/719), [2006 4851](https://fedlex.data.admin.ch/eli/oc/2006/750), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152)n. III [1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 54 [1843](https://fedlex.data.admin.ch/eli/oc/2007/268)[4541](https://fedlex.data.admin.ch/eli/oc/2007/641)[6291](https://fedlex.data.admin.ch/eli/oc/2007/834), [2008 2155](https://fedlex.data.admin.ch/eli/oc/2008/310)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 11 [5271](https://fedlex.data.admin.ch/eli/oc/2008/742), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)all. n. 3 [2845](https://fedlex.data.admin.ch/eli/oc/2009/373), [2010 2101](https://fedlex.data.admin.ch/eli/oc/2010/278)]
+[^84-1]: [[RU 2005 3035](https://fedlex.data.admin.ch/eli/oc/2005/481), [4097](https://fedlex.data.admin.ch/eli/oc/2005/541), [5211](https://fedlex.data.admin.ch/eli/oc/2005/719); [2006 4851](https://fedlex.data.admin.ch/eli/oc/2006/750); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152)n. III, [1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 54, [1843](https://fedlex.data.admin.ch/eli/oc/2007/268), [4541](https://fedlex.data.admin.ch/eli/oc/2007/641), [6291](https://fedlex.data.admin.ch/eli/oc/2007/834); [2008 2155](https://fedlex.data.admin.ch/eli/oc/2008/310), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 11, [5271](https://fedlex.data.admin.ch/eli/oc/2008/742); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)all. n. 3, [2845](https://fedlex.data.admin.ch/eli/oc/2009/373); [2010 2101](https://fedlex.data.admin.ch/eli/oc/2010/278)]
 
 #### Art. 85
 
@@ -1986,7 +1992,7 @@ I prodotti fitosanitari contenenti il principio attivo indoxacarb possono:
 
 <sup>1</sup> I prodotti fitosanitari destinati a un uso non professionale e autorizzati prima del 16 novembre 2022 sono riesaminati entro il 31 dicembre 2024 secondo i criteri di cui all’articolo 17 capoverso 1<sup>ter</sup>. Dopo un’eventuale revoca dell’autorizzazione, le scorte dei prodotti interessati possono essere immesse sul mercato ancora per un periodo di dodici mesi e, successivamente, utilizzate ancora per altri dodici mesi.
 
-<sup>2</sup> Le autorizzazioni dei coadiuvanti destinati a un uso non professionale che sono state rilasciate prima del 16 novembre 2022 verranno revocate entro1. il 31 dicembre 2024. Le scorte esistenti possono essere ancora immesse sul mercato durante un periodo di dodici mesi dalla revoca e in seguito utilizzate ancora per altri dodici mesi.
+<sup>2</sup> Le autorizzazioni dei coadiuvanti destinati a un uso non professionale che sono state rilasciate prima del 16 novembre 2022 verranno revocate entro il 31 dicembre 2024. Le scorte esistenti possono essere ancora immesse sul mercato durante un periodo di dodici mesi dalla revoca e in seguito utilizzate ancora per altri dodici mesi.
 
 [^86i-1]: Introdotto dal n. I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 784](https://fedlex.data.admin.ch/eli/oc/2022/784)). Correzione del 18 gen. 2023 ([RU 2023 17](https://fedlex.data.admin.ch/eli/oc/2023/17)).
 
@@ -2012,7 +2018,7 @@ Allegato 1[^t-1]
 
 ## Principi attivi approvati, la cui incorporazione nei prodotti fitosanitari è autorizzata
 
-[^t-1]: Aggiornato dal n. I dell’O del DEFR del 17 giu. 2011 ([RU 2011 2927](https://fedlex.data.admin.ch/eli/oc/2011/381)), dal n. II cpv. 1 dell’O del 23 mag. 2012 ([RU 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)), dal n. I delle O del DEFR dell’11 dic. 2012 ([RU 2013 249](https://fedlex.data.admin.ch/eli/oc/2013/34)), del 12 nov. 2014 ([RU 2014 4215](https://fedlex.data.admin.ch/eli/oc/2014/703)), dal n. II delle O del DEFR 28 ott. 2015 ([RU 2015 4551](https://fedlex.data.admin.ch/eli/oc/2015/764)), del 28 ott. 2015 ([RU 2015 4555](https://fedlex.data.admin.ch/eli/oc/2015/765)), dal n. I cpv. 1 dell’O del DEFR del 16 set. 2016 ([RU 2016 3345](https://fedlex.data.admin.ch/eli/oc/2016/568)), dal n. I delle O del DEFR del 9 giu. 2017 ([RU 2017 3501](https://fedlex.data.admin.ch/eli/oc/2017/381)), del 28 mag. 2018 ([RU 2018 2377](https://fedlex.data.admin.ch/eli/oc/2018/341)), del 31 ott. 2018 ([RU 2018 4421](https://fedlex.data.admin.ch/eli/oc/2018/705)), del 25 giu. 2019 ([RU 2019 2091](https://fedlex.data.admin.ch/eli/oc/2019/383)), del 12 nov. 2019 ([RU 2019 4263](https://fedlex.data.admin.ch/eli/oc/2019/734)), del 2 giu. 2020 ([RU 2020 2165](https://fedlex.data.admin.ch/eli/oc/2020/427)), dal n. II dell’O DEFR del 17 mag. 2021 ([RU 2021 321](https://fedlex.data.admin.ch/eli/oc/2021/321)), del 30 nov. 2021 ([RU 2021 795](https://fedlex.data.admin.ch/eli/oc/2021/795)), dal n. II dell’O del DFI del 31 mag. 2022 ([RU 2022 338](https://fedlex.data.admin.ch/eli/oc/2022/338)), dal n. I delle O del DFI del 21 nov. 2022 ([RU 2022 746](https://fedlex.data.admin.ch/eli/oc/2022/746)) e del 9 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 314](https://fedlex.data.admin.ch/eli/oc/2023/314)).
+[^t-1]: Aggiornato dal n. I dell’O del DEFR del 17 giu. 2011 ([RU 2011 2927](https://fedlex.data.admin.ch/eli/oc/2011/381)), dal n. II cpv. 1 dell’O del 23 mag. 2012 ([RU 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)), dal n. I delle O del DEFR dell’11 dic. 2012 ([RU 2013 249](https://fedlex.data.admin.ch/eli/oc/2013/34)), del 12 nov. 2014 ([RU 2014 4215](https://fedlex.data.admin.ch/eli/oc/2014/703)), dal n. II delle O del DEFR 28 ott. 2015 ([RU 2015 4551](https://fedlex.data.admin.ch/eli/oc/2015/764)), del 28 ott. 2015 ([RU 2015 4555](https://fedlex.data.admin.ch/eli/oc/2015/765)), dal n. I cpv. 1 dell’O del DEFR del 16 set. 2016 ([RU 2016 3345](https://fedlex.data.admin.ch/eli/oc/2016/568)), dal n. I delle O del DEFR del 9 giu. 2017 ([RU 2017 3501](https://fedlex.data.admin.ch/eli/oc/2017/381)), del 28 mag. 2018 ([RU 2018 2377](https://fedlex.data.admin.ch/eli/oc/2018/341)), del 31 ott. 2018 ([RU 2018 4421](https://fedlex.data.admin.ch/eli/oc/2018/705)), del 25 giu. 2019 ([RU 2019 2091](https://fedlex.data.admin.ch/eli/oc/2019/383)), del 12 nov. 2019 ([RU 2019 4263](https://fedlex.data.admin.ch/eli/oc/2019/734)), del 2 giu. 2020 ([RU 2020 2165](https://fedlex.data.admin.ch/eli/oc/2020/427)), dal n. II dell’O DEFR del 17 mag. 2021 ([RU 2021 321](https://fedlex.data.admin.ch/eli/oc/2021/321)), del 30 nov. 2021 ([RU 2021 795](https://fedlex.data.admin.ch/eli/oc/2021/795)), dal n. II dell’O del DFI del 31 mag. 2022 ([RU 2022 338](https://fedlex.data.admin.ch/eli/oc/2022/338)), dal n. I delle O del DFI del 21 nov. 2022 ([RU 2022 746](https://fedlex.data.admin.ch/eli/oc/2022/746)), del 9 giu. 2023 ([RU 2023 314](https://fedlex.data.admin.ch/eli/oc/2023/314)) e del 21 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 753](https://fedlex.data.admin.ch/eli/oc/2023/753)).
 
 ### Parte A: Sostanze chimiche
 
@@ -2187,6 +2193,7 @@ Allegato 1[^t-1]
 <tr><td>Isoxaflutole</td><td>5-cyclopropyl-1,2-oxazol-4-yl α,α,α-trifluoro-2-mesyl-p-tolyl ketone</td><td>141112-29-0</td><td>575</td><td>erbicida</td></tr>
 <tr><td>Japan Myths Oil</td><td></td><td></td><td>-</td><td>insetticida</td></tr>
 <tr><td>Kaolin</td><td>Kaolin (denominazione CA)</td><td>1332-58-7</td><td>‑</td><td>insetticida</td></tr>
+<tr><td>Kieselgur (terra diatomacea)</td><td>–</td><td>61790-53-2</td><td>647</td><td>acaricida, insetticida</td></tr>
 <tr><td>Kresoxim-metile</td><td>methyl (E)-2-methoxyimino-[2-(o-tolyloxymethyl)phenyl]acetate</td><td>143390-89-0</td><td>568</td><td>fungicida</td></tr>
 <tr><td>lambda-Cialotrina</td><td>(S)-α-cyano-3-phenoxybenzyl (Z)-(1R,3R)-3-(2-chloro-3,3,3-trifluoroprop-1-enyl)-2,2-dimethylcyclopropanecarboxylate and (R)-α-cyano-3-phenoxybenzyl (Z)-(1S,3S)-3-(2-chloro-3,3,3-trifluoroprop-1-enyl)-2,2-dimethylcyclopropanecarboxylate</td><td>91465-08-6</td><td>463</td><td>insetticida</td></tr>
 <tr><td>Laminarin</td><td>(1-3)-13-D-glucan</td><td>9008-22-4</td><td>671</td><td>stimolante delle difese naturali, sostanza a basso rischio</td></tr>
@@ -2201,6 +2208,7 @@ Allegato 1[^t-1]
 <tr><td>MCPB</td><td>4-(4-chloro-o-tolyloxy)butyric acid</td><td>94-81-5</td><td>50</td><td>erbicida</td></tr>
 <tr><td>Mecoprop-P</td><td>(R)-2-(4-chloro-o-tolyloxy)propionic acid</td><td>16484-77-8</td><td>475</td><td>erbicida</td></tr>
 <tr><td>Mefenpir-dietile</td><td>diethyl (RS)-1-(2,4-dichlororphenyl)-5-methyl-2-pyrazoline-3,5-dicarboxylate</td><td>135590-91-9</td><td>651.229</td><td>erbicida «safener»</td></tr>
+<tr><td>Mefentrifluconazolo</td><td>(2RS)-2-[4-(4-chlorophenoxy)-2-(trifluoromethyl)phenyl]-1-(1H-1,2,4-triazol-1-yl)propan-2-ol</td><td>1417782-03-6</td><td>1004</td><td>fungicida</td></tr>
 <tr><td>Mepanipyrim</td><td>N-(4-methyl-6-prop-1-ynylpyrimidin-2-yl)aniline</td><td>110235-47-7</td><td>611</td><td>fungicida</td></tr>
 <tr><td>Mepiquat</td><td>1,1-dimethylpiperidinium *Variante*: Mepiquat-chloride</td><td>15302-91-7 24307-26-4</td><td>440 440.302</td><td>fitoregolatore</td></tr>
 <tr><td>Meptildinocap</td><td>Miscela al 75-100 % di (RS)-2-(1- methylheptyl)-4,6- dinitrophenyl crotonate e al 25-0 % di (RS)-2-(1- methylheptyl)-4,6- dinitrophenyl isocrotonate</td><td>6119-92-2</td><td>811</td><td>fungicida</td></tr>
@@ -2234,7 +2242,7 @@ Allegato 1[^t-1]
 <tr><td>Olio di sesamo raffinato</td><td>fatty acid glycerol ester</td><td></td><td>‑</td><td>insetticida (sinergiste)</td></tr>
 <tr><td>Ortofenilfenolo</td><td>[1,1’-biphenyl]-2-ol</td><td>90-43-7</td><td>246</td><td>disinfettante</td></tr>
 <tr><td>Ossido di alluminio (allumina)</td><td>Al<sub>2</sub>O<sub>3</sub></td><td>1344-28-1</td><td>‑</td><td>fungicida</td></tr>
-<tr><td>Ossido di silicio</td><td>silicium dioxide</td><td>7631-86-9</td><td>‑</td><td>fungicida</td></tr>
+<tr><td>Oxathiapiprolin</td><td>1-(4-{4-[(5RS)-5-(2,6-Difluorphenyl)-4,5-dihydro-1,2-oxazol-3-yl]-1,3-thiazol-2-yl}-1-piperidyl)-2-[5-methyl-3-(trifluormethyl)-1H-pyrazol-1-yl]ethanon</td><td>1003318-67-9</td><td>985</td><td>fungicida</td></tr>
 <tr><td>Oxifluorfen</td><td>2-chloro-α,-α,-α-trifluoro-p-tolyl 3-ethoxy-4-nitrophenyl ether</td><td>42874-03-3</td><td>538</td><td>erbicida</td></tr>
 <tr><td>Paclobutrazolo</td><td>(2RS,3RS)-1-(4-chlorophenyl)-4,4-dimethyl-2-(1H-1,2,4-triazol-1-yl) pentan-3-ol</td><td>76738-62-0</td><td>445</td><td>fitoregolatore</td></tr>
 <tr><td>Penconazolo</td><td>1-(2,4-dichloro-β-propylphenethyl)-1H-1,2,4-triazole</td><td>66246-88-6</td><td>446</td><td>fungicida</td></tr>
@@ -2327,7 +2335,6 @@ Allegato 1[^t-1]
 <tr><td>Bacillus amyloliquefaciens – ceppo FZB24</td><td>Batterio antagonista</td><td>Batteri</td><td>battericida, fungicida, sostanza a basso rischio</td></tr>
 <tr><td>Bacillus amyloliquefaciens – ceppo QST 713</td><td>Batterio antagonista</td><td>Batteri</td><td>battericida, fungicida</td></tr>
 <tr><td>Bacillus amyloliquefaciens sp plantarum – ceppo D747</td><td>Batterio antagonista</td><td>Batteri</td><td>fungicida</td></tr>
-<tr><td>Bacillus firmus – ceppi I-1582, I-1583</td><td>Batterio patogeno</td><td>Batteri</td><td>nematocida</td></tr>
 <tr><td>Bacillus thuringiensis var. aizawai – ceppi GC-91, ABTS-1857</td><td>Batterio entomopatogeno</td><td>Batteri</td><td>insetticida</td></tr>
 <tr><td>Bacillus thuringiensis var. israeliensis – ceppi AM65-52, BMP 144</td><td>Batterio entomopatogeno</td><td>Batteri</td><td>insetticida</td></tr>
 <tr><td>Bacillus thuringiensis var. kurstaki – ceppi ABTS-351, SA-11, HD-1, Btk-HD-1, ATCC-SD-1275, EG2424, EG 2348</td><td>Batterio entomopatogeno</td><td>Batteri</td><td>insetticida</td></tr>
@@ -2350,7 +2357,7 @@ Allegato 1[^t-1]
 <tr><td>Trichoderma gamsii – ceppo ICC 080</td><td>Fungo antagonista</td><td>Funghi</td><td>fungicida</td></tr>
 <tr><td>Verticillium lecanii – ceppi IMI 328553, IMI 528555</td><td>Fungo entomopatogeno</td><td>Funghi</td><td>insetticida</td></tr>
 <tr><td>Virus della granulosi della capua – isolato GV-0001</td><td>Virus entomopatogeno</td><td>Virus</td><td>insetticida</td></tr>
-<tr><td>Virus della granulosi della carpocapsa – isolati CpGV NPP-R2, CpGV NPP-R5, CpGV GV-0003, CpGV-I12, CpGV GV-0013, CpGV GV-0006, CpGV GV-0014</td><td>Virus entomopatogeno</td><td>Virus</td><td>insetticida</td></tr>
+<tr><td>Cydia pomonella Granulovirus (Virus della granulosi della carpocapsa, CpGV)  isolati CpGV NPP-R2, CpGV NPP-R5, CpGV GV-0003, CpGV-I12, CpGV GV-0013, CpGV GV-0006, CpGV GV-0014</td><td>Virus entomopatogeno</td><td>Virus</td><td>insetticida, sostanza a basso rischio</td></tr>
 <tr><td>Virus della poliendrosi nucleare di Helicoverpa armigera – ceppo HaNPV-BJ</td><td>Virus entomopatogeno</td><td>Virus</td><td>insetticida</td></tr>
 <tr><td>Xenorhabdus bovienii – ceppo ATCC35271</td><td>Batteri entomopatogeni</td><td>Batteri</td><td>insetticida</td></tr>
 </table>
@@ -2360,7 +2367,7 @@ Allegato 1[^t-1]
 <table>
 <tr><th>Nome comune, numero d’identificazione</th><th>Descrizione</th><th>Organismo</th><th>Funzione/Condizioni specifiche e limitazioni</th></tr>
 <tr><td>Adalia bipunctata</td><td>Coleottero predatore</td><td>Insetti</td><td>insetticida</td></tr>
-<tr><td>Amblyseius andersoni</td><td>Acaro predatore</td><td>Acari</td><td>insetticida, acaricida</td></tr>
+<tr><td>[tab] Amblyseius andersoni</td><td>Acaro predatore</td><td>Acari</td><td>insetticida, acaricida</td></tr>
 <tr><td>Amblyseius barkeri (mackenziei)</td><td>Acaro predatore</td><td>Acari</td><td>insetticida</td></tr>
 <tr><td>Amblyseius californicus</td><td>Acaro predatore</td><td>Acari</td><td>insetticida</td></tr>
 <tr><td>Amblyseius degenerans</td><td>Acaro predatore</td><td>Acari</td><td>insetticida</td></tr>
@@ -2385,6 +2392,7 @@ Allegato 1[^t-1]
 <tr><td>Ephedrus cerasicola</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida</td></tr>
 <tr><td>Eretmocerus eremicus</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida</td></tr>
 <tr><td>Eretmocerus mundus</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida</td></tr>
+<tr><td>Eupeodes corollae</td><td>Dittero predatore</td><td>Insetti</td><td>insetticida</td></tr>
 <tr><td>Exochomus quadripustulatus</td><td>Coleottero predatore</td><td>Insetti</td><td>insetticida</td></tr>
 <tr><td>Feltiella acarisuga</td><td>Cecidomidi predatrice</td><td>Insetti</td><td>insetticida</td></tr>
 <tr><td>Habrobracon hebetor</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida</td></tr>
@@ -2417,7 +2425,7 @@ Allegato 1[^t-1]
 <tr><td>Trichogramma brassicae Bezdenko</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida</td></tr>
 <tr><td>Trichogramma cacoeciae</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida</td></tr>
 <tr><td>Trichogramma evanescens</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida</td></tr>
-<tr><td>[tab] Trichopria drosophilae</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida</td></tr>
+<tr><td>Trichopria drosophilae</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida</td></tr>
 <tr><td>Typhlodromips swirskii</td><td>Acaro predatore</td><td>Acari</td><td>insetticida</td></tr>
 </table>
 
@@ -2776,7 +2784,7 @@ Allegato 7[^t-6]
 [^annex8-lvlu1-lvlu1-2]: Cfr. nota a piè di pagina relativa all’all. 5 n. 2 cpv. 1.
 [^annex8-lvlu1-lvlu1-3]: Cfr. nota a piè di pagina relativa all’all. 6 n. 2 cpv. 1.
 [^annex8-lvlu1-lvlu1-4]: Cfr. nota a piè di pagina relativa all’all. 6 n. 2 cpv. 1.
-[^annex8-lvlu1-lvlu1-5]: [RU 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594), [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)[3857](https://fedlex.data.admin.ch/eli/oc/2014/661)
+[^annex8-lvlu1-lvlu1-5]: [RU 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594); [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357), [3857](https://fedlex.data.admin.ch/eli/oc/2014/661)
 
 Allegato 8[^t-7]
 

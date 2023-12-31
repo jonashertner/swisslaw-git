@@ -4,11 +4,11 @@ title: "Ordonnance du 12 mai 2010 sur la mise en circulation des produits phytos
 short: OPPh
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/340"
 language: fr
-version: 2023-07-01
+version: 2024-01-01
 adopted: 2010-05-12
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2010-340-20230701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-340-20240101-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,11 +17,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20230701/fr"
 
 (Ordonnance sur les produits phytosanitaires, OPPh)
 
-du 12 mai 2010 (État le 1<sup>er</sup> juillet 2023)
+du 12 mai 2010 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
-vu la loi du 15 décembre 2000 sur les produits chimiques (LChim)[^ingress-1], vu les art. 148*a*, al. 3, 158, al. 2, 159*a*, 160, al. 3 à 5, 161, 164, 168 et 177 de la loi du 29 avril 1998 sur l’agriculture (LAgr)[^ingress-2], vu l’art. 17 de la loi du 21 mars 2003 sur le génie génétique (LGG)[^ingress-3], vu les art. 29, 29*d*, al. 4, et 30*b*, al. 1 et 2, let. a, de la loi du 7 octobre 1983 sur la protection de l’environnement (LPE)[^ingress-4], vu la loi fédérale du 6 octobre 1995 sur les entraves techniques au commerce (LETC)[^ingress-5],
+vu la loi du 15 décembre 2000 sur les produits chimiques (LChim)[^ingress-1], vu les art. 148*a*, al. 3, 158, al. 2, 159*a*, 160, al. 3 à 5, 161, 164, 164*b*, al. 2, 168 et 177 de la loi du 29 avril 1998 sur l’agriculture (LAgr)[^ingress-2], vu l’art. 17 de la loi du 21 mars 2003 sur le génie génétique (LGG)[^ingress-3], vu les art. 29, 29*d*, al. 4, et 30*b*, al. 1 et 2, let. a, de la loi du 7 octobre 1983 sur la protection de l’environnement (LPE)[^ingress-4], vu la loi fédérale du 6 octobre 1995 sur les entraves techniques au commerce (LETC)[^ingress-5],[^ingress-6]
 
 arrête:
 
@@ -30,6 +30,7 @@ arrête:
 [^ingress-3]: [RS 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
 [^ingress-4]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
 [^ingress-5]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-6]: Nouvelle teneur selon l’annexe 1 de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
 
 ## Chapitre 1 Dispositions générales
 
@@ -670,7 +671,7 @@ Les documents joints à la demande doivent être produits:
 [^21-1]: Voir note relative à l’art.7, al. 1, let. g.
 [^21-2]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5563](https://fedlex.data.admin.ch/eli/oc/2020/962)).
 [^21-3]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
-[^21-4]: Norme PM6/2 telle que définie dans OEPP/EPPO Bulletin 40, pp. 335 à 344. Téléchargement: Organisation européenne et méditerranéenne pour la protection des plantes, [www.eppo.org](http://www.eppo.org/) &gt; Standards &gt; List of EPPO Standards &gt; Safe use of Biological Controls (PM6) &gt; «Import and release of non-indigenous biological control agents».
+[^21-4]: Norme PM6/2 telle que définie dans OEPP/EPPO Bulletin 40, pp. 335 à 344. Téléchargement: Organisation européenne et méditerranéenne pour la protection des plantes, [www.eppo.org](http://www.eppo.org) &gt; Standards &gt; List of EPPO Standards &gt; Safe use of Biological Controls (PM6) &gt; «Import and release of non-indigenous biological control agents».
 [^21-5]: Introduit par le ch. I de l’O du 23 mai 2012, en vigueur depuis le 1<sup>er</sup> déc. 2012 ([RO 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)).
 
 #### Art. 22
@@ -1466,13 +1467,18 @@ L’étiquetage doit être formulé dans au moins une langue officielle du lieu 
 
 **Tenue des registres**
 
-<sup>1</sup> Les producteurs, fournisseurs, distributeurs, importateurs et exportateurs de produits phytosanitaires tiennent des registres des produits phytosanitaires qu’ils produisent, importent, exportent, stockent, utilisent ou mettent sur le marché pendant cinq ans au moins. Les utilisateurs professionnels de produits phytosanitaires tiennent des registres des produits phytosanitaires qu’ils utilisent, contenant le nom du produit phytosanitaire, le moment de l’utilisation, la dose utilisée, la surface et la culture où le produit phytosanitaire a été utilisé, pendant trois ans au moins. Sur demande, ils communiquent les informations contenues dans ces registres à l’autorité compétente.
+<sup>1</sup> Les producteurs, fournisseurs, distributeurs, importateurs et exportateurs de produits phytosanitaires et de semences tiennent des registres des produits phytosanitaires et des semences traitées avec des produits phytosanitaires qu’ils produisent, importent, exportent, stockent, utilisent ou mettent sur le marché pendant cinq ans au moins. La mise sur le marché doit être communiquée conformément à l’ordonnance du 23 octobre 2013 sur les systèmes d’information dans le domaine de l’agriculture (OSIAgr)[^62-1].[^62-2]
 
-<sup>2</sup> Les titulaires d’autorisations et les personnes qui importent les produits figurant dans la liste visée à l’art. 36 en vue de leur revente communiquent annuellement à l’Office fédéral de l’agriculture (OFAG) toutes les données nécessaires concernant le volume des ventes de produits phytosanitaires.[^62-1]
+<sup>1bis</sup> Les utilisateurs professionnels de produits phytosanitaires doivent communiquer les données relatives à chaque utilisation d’un produit phytosanitaire en indiquant la dénomination du produit, le moment de l’utilisation, la quantité utilisée ainsi que la surface et la plante cultivée traitées conformément à l’OSIAgr.[^62-3]
+
+<sup>2</sup> Les titulaires d’autorisations et les personnes qui importent les produits figurant dans la liste visée à l’art. 36 en vue de leur revente communiquent annuellement à l’Office fédéral de l’agriculture (OFAG) toutes les données nécessaires concernant le volume des ventes de produits phytosanitaires.[^62-4]
 
 <sup>3</sup> Les données visées à l’al. 2 doivent être comparables à celles requises dans le cadre de systèmes internationaux d’informations notamment à ceux de l’UE (Eurostat).
 
-[^62-1]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^62-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^62-2]: Nouvelle teneur selon l’annexe 1 de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
+[^62-3]: Introduit par l’annexe 1 de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)).
+[^62-4]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
 #### Art. 63
 
@@ -2013,7 +2019,7 @@ Annexe 1[^t-1]
 
 ## Substances actives approuvées dont l’incorporation est autorisée dans les produits phytosanitaires
 
-[^t-1]: Mise à jour par le ch. I al. 1 de l’O du DEFR du 17 juin 2011 ([RO 2011 2927](https://fedlex.data.admin.ch/eli/oc/2011/381)), le ch. II de l’O du 23 mai 2012 ([RO 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)), le ch. I des O du DEFR du 11 déc. 2012 ([RO 2013 249](https://fedlex.data.admin.ch/eli/oc/2013/34)), du 12 nov. 2014 ([RO 2014 4215](https://fedlex.data.admin.ch/eli/oc/2014/703)), le ch. II de l’O du 28 oct. 2015 ([RO 2015 4551](https://fedlex.data.admin.ch/eli/oc/2015/764)), le ch. II de l’O du DEFR du 28 oct. 2015 ([RO 2015 4555](https://fedlex.data.admin.ch/eli/oc/2015/765)), le ch. I al. 1 de l’O du DEFR du 16 sept. 2016 ([RO 2016 3345](https://fedlex.data.admin.ch/eli/oc/2016/568)), le ch. I des O du DEFR du 9 juin 2017 ([RO 2017 3501](https://fedlex.data.admin.ch/eli/oc/2017/381)), du 28 mai 2018 ([RO 2018 2377](https://fedlex.data.admin.ch/eli/oc/2018/341)), du 31 oct. 2018 ([RO 2018 4421](https://fedlex.data.admin.ch/eli/oc/2018/705)), du 25 juin 2019 ([RO 2019 2091](https://fedlex.data.admin.ch/eli/oc/2019/383)), du 12 nov. 2019 ([RO 2019 4263](https://fedlex.data.admin.ch/eli/oc/2019/734)), du 2 juin 2020 ([RO 2020 2165](https://fedlex.data.admin.ch/eli/oc/2020/427)), le ch. II des O du DEFR du 17 mai 2021 ([RO 2021 321](https://fedlex.data.admin.ch/eli/oc/2021/321)), du 30 nov. 2021 ([RO 2021 795](https://fedlex.data.admin.ch/eli/oc/2021/795)), le ch. II de l’O du DFI du 31 mai 2022 ([RO 2022 338](https://fedlex.data.admin.ch/eli/oc/2022/338)) et le ch. I des O du DFI du 21 nov. 2022 ([RO 2022 746](https://fedlex.data.admin.ch/eli/oc/2022/746)) et du 9 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 314](https://fedlex.data.admin.ch/eli/oc/2023/314)).
+[^t-1]: Mise à jour par le ch. I al. 1 de l’O du DEFR du 17 juin 2011 ([RO 2011 2927](https://fedlex.data.admin.ch/eli/oc/2011/381)), le ch. II de l’O du 23 mai 2012 ([RO 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)), le ch. I des O du DEFR du 11 déc. 2012 ([RO 2013 249](https://fedlex.data.admin.ch/eli/oc/2013/34)), du 12 nov. 2014 ([RO 2014 4215](https://fedlex.data.admin.ch/eli/oc/2014/703)), le ch. II de l’O du 28 oct. 2015 ([RO 2015 4551](https://fedlex.data.admin.ch/eli/oc/2015/764)), le ch. II de l’O du DEFR du 28 oct. 2015 ([RO 2015 4555](https://fedlex.data.admin.ch/eli/oc/2015/765)), le ch. I al. 1 de l’O du DEFR du 16 sept. 2016 ([RO 2016 3345](https://fedlex.data.admin.ch/eli/oc/2016/568)), le ch. I des O du DEFR du 9 juin 2017 ([RO 2017 3501](https://fedlex.data.admin.ch/eli/oc/2017/381)), du 28 mai 2018 ([RO 2018 2377](https://fedlex.data.admin.ch/eli/oc/2018/341)), du 31 oct. 2018 ([RO 2018 4421](https://fedlex.data.admin.ch/eli/oc/2018/705)), du 25 juin 2019 ([RO 2019 2091](https://fedlex.data.admin.ch/eli/oc/2019/383)), du 12 nov. 2019 ([RO 2019 4263](https://fedlex.data.admin.ch/eli/oc/2019/734)), du 2 juin 2020 ([RO 2020 2165](https://fedlex.data.admin.ch/eli/oc/2020/427)), le ch. II des O du DEFR du 17 mai 2021 ([RO 2021 321](https://fedlex.data.admin.ch/eli/oc/2021/321)), du 30 nov. 2021 ([RO 2021 795](https://fedlex.data.admin.ch/eli/oc/2021/795)), le ch. II de l’O du DFI du 31 mai 2022 ([RO 2022 338](https://fedlex.data.admin.ch/eli/oc/2022/338)) et le ch. I des O du DFI du 21 nov. 2022 ([RO 2022 746](https://fedlex.data.admin.ch/eli/oc/2022/746)), du 9 juin 2023 ([RO 2023 314](https://fedlex.data.admin.ch/eli/oc/2023/314)) et du 21 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 753](https://fedlex.data.admin.ch/eli/oc/2023/753)).
 
 ### Partie A: Substances chimiques
 
@@ -2192,6 +2198,7 @@ Annexe 1[^t-1]
 <tr><td>Isoxaflutole</td><td colspan="4">5-cyclopropyl-1,2-oxazol-4-yl α,α,α-trifluoro-2-mesyl-p‑tolyl ketone</td><td>141112-29-0</td><td>575</td><td>herbicide</td></tr>
 <tr><td>Japan Myths Oil</td><td colspan="4">-</td><td>–</td><td>–</td><td>insecticide</td></tr>
 <tr><td>Kaolin</td><td colspan="4">Kaolin (dénomination CA)</td><td>1332-58-7</td><td>–</td><td>insecticide</td></tr>
+<tr><td>Kieselgur (terre à diatomées)</td><td colspan="4">-</td><td>61790-53-2</td><td>647</td><td>acaricide, insecticide</td></tr>
 <tr><td>Kresoxim-méthyle</td><td colspan="4">methyl (E)-2-methoxyimino-[2-(o-tolyloxymethyl)phenyl]acÉtate</td><td>143390-89-0</td><td>568</td><td>fongicide</td></tr>
 <tr><td>Lambda-Cyhalothrin</td><td colspan="4">(S)-α-cyano-3-phenoxybenzyl (Z)-(1R,3R)-3-(2-chloro-3,3,3-trifluoroprop-1-enyl)-2,2-dimethylcyclopropanecarboxylate and (R)-α-cyano-3-phenoxybenzyl (Z)-(1S,3S)-3-(2-chloro-3,3,3-trifluoroprop-1-enyl)-2,2-dimethylcyclopropanecarboxylate</td><td>91465-08-6</td><td>463</td><td>insecticide</td></tr>
 <tr><td>Laminarine</td><td colspan="4">(1→3)-β-D-glucan</td><td>9008-22-4</td><td>671</td><td>stimulateur des défenses naturelles, substance à faible risque</td></tr>
@@ -2204,6 +2211,7 @@ Annexe 1[^t-1]
 <tr><td>MCPB</td><td colspan="4">4-(4-chloro-o-tolyloxy)butyric acid</td><td>94-81-5</td><td>50</td><td>herbicide</td></tr>
 <tr><td>Mecoprop-P</td><td colspan="4">(R)-2-(4-chloro-o-tolyloxy)propionic acid</td><td>16484-77-8</td><td>475</td><td>herbicide</td></tr>
 <tr><td>Mefenpyr-diethyl</td><td colspan="4">diethyl (RS)-1-(2,4-dichlororphenyl)-5-methyl-2-pyrazoline-3,5-dicarboxylate</td><td>135590-91-9</td><td>651.229</td><td>herbicide «safener»</td></tr>
+<tr><td>Méfentrifluconazole</td><td colspan="4">(2RS)-2-[4-(4-chlorophenoxy)-2-(trifluoromethyl)phenyl]-1-(1H-1,2,4-triazol-1-yl)propan-2-ol</td><td>1417782-03-6</td><td>1004</td><td>fongicide</td></tr>
 <tr><td>Mepanipyrim</td><td colspan="4">N-(4-methyl-6-prop-1-ynylpyrimidin-2-yl)aniline</td><td>110235-47-7</td><td>611</td><td>fongicide</td></tr>
 <tr><td>Mepiquat</td><td colspan="4">1,1-dimethylpiperidinium</td><td>15302-91-7</td><td>440</td><td>phytorégulateur</td></tr>
 <tr><td></td><td colspan="4">*Variante*: Mepiquat-chloride</td><td>24307-26-4</td><td>440.302</td><td></td></tr>
@@ -2228,8 +2236,8 @@ Annexe 1[^t-1]
 <tr><td>Nitrate de potassium (salpêtre)</td><td colspan="4">KNO<sub>3</sub></td><td>7757-79-1</td><td>–</td><td>rodenticide</td></tr>
 <tr><td>Oleum foeniculi</td><td colspan="4">huile de fenouil</td><td></td><td>–</td><td>fongicide</td></tr>
 <tr><td>Orthophénylphénol</td><td colspan="4">[1,1’-biphenyl]-2-ol</td><td>90-43-7</td><td>246</td><td>produit désinfectant</td></tr>
+<tr><td>Oxathiapiproline</td><td colspan="4">1-(4-{4-[(5RS)-5-(2,6-Difluorphenyl)-4,5-dihydro-1,2-oxazol-3-yl]-1,3-thiazol-2-yl}-1-piperidyl)-2-[5-methyl-3-(trifluormethyl)-1H-pyrazol-1-yl]ethanon</td><td>1003318-67-9</td><td>985</td><td>fongicide</td></tr>
 <tr><td>Oxyde d’aluminium</td><td colspan="4">Al<sub>2</sub>O<sub>3</sub></td><td>1344-28-1</td><td>–</td><td>fongicide</td></tr>
-<tr><td>Oxyde de silicium</td><td colspan="4">silicium dioxide</td><td>7631-86-9</td><td>–</td><td>fongicide</td></tr>
 <tr><td>Oxyfluorfen</td><td colspan="4">2-chloro-α,-α,-α-trifluoro-p-tolyl 3-ethoxy-4-nitrophenyl ether</td><td>42874-03-3</td><td>538</td><td>herbicide</td></tr>
 <tr><td>Paclobutrazol</td><td colspan="4">(2RS,3RS)-1-(4-chlorophenyl)-4,4-dimethyl-2-(1H-1,2,4-triazol-1-yl) pentan-3-ol</td><td>76738-62-0</td><td>445</td><td>phytorégulateur</td></tr>
 <tr><td>Penconazole</td><td colspan="4">1-(2,4-dichloro-β-propylphenethyl)-1H-1,2,4-triazole</td><td>66246-88-6</td><td>446</td><td>fongicide</td></tr>
@@ -2331,7 +2339,6 @@ Annexe 1[^t-1]
 <tr><td>Bacillus amyloliquefaciens – souche FZB24</td><td>Bactérie antagoniste</td><td>Bactérie</td><td>bactéricide, fongicide, substance à faible risque</td></tr>
 <tr><td>Bacillus amyloliquefaciens – souche QST 713</td><td>Bactérie antagoniste</td><td>Bactérie</td><td>bactéricide, fongicide</td></tr>
 <tr><td>Bacillus amyloliquefaciens sp. plantarum – souche D747</td><td>Bactérie antagoniste</td><td>Bactérie</td><td>fongicide</td></tr>
-<tr><td>Bacillus firmus – souches I-1582, I-1583</td><td>Bactérie pathogène</td><td>Bactérie</td><td>nématicide</td></tr>
 <tr><td>Bacillus thuringiensis var. aizawai – souches GC-91, ABTS-1857</td><td>Bactérie enthomopathogène</td><td>Bactérie</td><td>insecticide</td></tr>
 <tr><td>Bacillus thuringiensis var. israeliensis – souches AM65-52, BMP 144</td><td>Bactérie enthomopathogène</td><td>Bactérie</td><td>insecticide</td></tr>
 <tr><td>Bacillus thuringiensis var. kurstaki – souches ABTS-351, SA-11, HD-1, Btk-HD-1, ATCC-SD-1275, EG2424, EG 2348</td><td>Bactérie enthomopathogène</td><td>Bactérie</td><td>insecticide</td></tr>
@@ -2340,6 +2347,7 @@ Annexe 1[^t-1]
 <tr><td>Beauveria brongniartii – souches BIPESCO2, BIPESCO4 (FAL 546)</td><td>Champignon entomopathogène</td><td>Champignon</td><td>insecticide</td></tr>
 <tr><td>Coniothyrium minitans – souche CON/M/91-08</td><td>Champignon antagoniste</td><td>Champignon</td><td>fongicide, substance à faible risque</td></tr>
 <tr><td>Coniothyrium minitans – souche K1</td><td>Champignon antagoniste</td><td>Champignon</td><td>fongicide</td></tr>
+<tr><td>Cydia pomonella Granulovirus (Virus de la granulose du carpocase des pommes, CpGV) – isolats CpGV NPP-R2, CpGV NPP-R5, CpGV GV-0003, CpGV-I12, CpGV GV-0013, CpGV GV-0006, CpGV GV-0014</td><td>Virus entomopathogène</td><td>Virus</td><td>insecticide, substance à faible risque</td></tr>
 <tr><td>Gliocladium catenulatum – souche J1446</td><td>Champignon antagoniste</td><td>Champignon</td><td>fongicide, substance à faible risque</td></tr>
 <tr><td>Metarhizium anisopliae – souches BIPESCO5 (F52), FAL 997</td><td>Champignon entomopathogène</td><td>Champignon</td><td>insecticide</td></tr>
 <tr><td>Paecilomyces fumosoroseus</td><td>Champignon entomopathogène</td><td>Champignon</td><td>insecticide</td></tr>
@@ -2355,7 +2363,6 @@ Annexe 1[^t-1]
 <tr><td>Trichoderma gamsii – souche ICC 080</td><td>Champignon antagoniste</td><td>Champignon</td><td>fongicide</td></tr>
 <tr><td>Verticillium lecanii – souches IMI 328553, IMI 528555</td><td>Champignon entomopathogène</td><td>Champignon</td><td>insecticide</td></tr>
 <tr><td>Virus de la granulose de la tordeuse de la pelure – isolat GV-0001</td><td>Virus entomopathogène</td><td>Virus</td><td>insecticide</td></tr>
-<tr><td>Virus de la granulose du carpocapse des pommes – isolats CpGV NPP-R2, CpGV NPP-R5, CpGV GV-0003, CpGV-I12, CpGV GV-0013, CpGV GV-0006, CpGV GV-0014</td><td>Virus entomopathogène</td><td>Virus</td><td>insecticide</td></tr>
 <tr><td>Virus de la polyhédrose nucléaire Helicoverpa armigera – souche HaNPV-BJ</td><td>Virus entomopathogène</td><td>Virus</td><td>insecticide</td></tr>
 <tr><td>Xenorhabdus bovienii – souche ATCC35271</td><td>Bactéries enthomopathogènes</td><td>Bactéries</td><td>insecticide</td></tr>
 </table>
@@ -4772,7 +4779,7 @@ Tout emballage de produit phytosanitaire doit porter de manière lisible et ind�
 - 20\. les pictogrammes de danger, avertissements, indications de danger et consignes de sécurité résultant de la classification selon l’art. 18, al. 4;
 - 21\. lorsque l’utilisation du produit est limitée à certaines catégories d’utilisateurs, les catégories autorisées à l’utiliser.
 
-[^annex11-lvlu1-1]: Les règles de nomenclature IUPAC peuvent être consultées auprès de l’Union internationale de chimie pure et appliquée sous [www.iupac.org](http://www.iupac.org/)
+[^annex11-lvlu1-1]: Les règles de nomenclature IUPAC peuvent être consultées auprès de l’Union internationale de chimie pure et appliquée sous [www.iupac.org](http://www.iupac.org)
 
 Annexe 12[^t-11]
 
