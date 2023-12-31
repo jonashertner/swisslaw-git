@@ -4,31 +4,31 @@ title: "Ordinanza del 20 novembre 1959 sull'assicurazione dei veicoli (OAV)"
 short: OAV
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317"
 language: it
-version: 2022-01-01
+version: 2024-01-01
 adopted: 1959-11-20
 in_force: 1959-11-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1959-1271_1321_1317-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1959-1271_1321_1317-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sull’assicurazione dei veicoli
 
-(OAV)**[^t-1]**
+(OAV)[^t-1]
 
-del 20 novembre 1959 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 20 novembre 1959 (Stato 1° gennaio 2024)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 6 ott. 1980, in vigore dal 1° gen. 1981 ([RU 1980 1511](https://fedlex.data.admin.ch/eli/oc/1980/1511_1511_1511)). Secondo la medesima disp. nella numerazione degli art. aggiuntivi agli avverbi numerali sono state sostituite le lettere minuscole.
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 25, 64, 67 capoverso 3, 70 capoverso 3, 72 capoverso 1, 74 capoverso 3, 76 capoversi 3 e 5, 76*a* capoverso 5, 76*b* capoverso 5, 79*a* capoversi 2 e 3, 89 capoversi 1 e 2, 106 capoverso 1 e 108 della legge federale del 19 dicembre 1958[^ingress-1] sulla circolazione stradale (LCStr) (denominata qui di seguito «la legge»),[^ingress-2]
+visti gli articoli 25, 64, 67 capoverso 3, 70 capoverso 3, 72 capoverso 1, 74 capoverso 3, 76 capoversi 5 e 7, 76*a* capoverso 5, 76*b* capoverso 5, 79*a* capoversi 2 e 3, 89 capoversi 1 e 2, 106 capoverso 1 e 108 della legge federale del 19 dicembre 1958[^ingress-1] sulla circolazione stradale (LCStr) (denominata qui di seguito «la legge»),[^ingress-2]
 
 ordina:
 
 [^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O del 14 gen. 2004, in vigore dal 1° mar. 2004 ([RU 2004 649](https://fedlex.data.admin.ch/eli/oc/2004/57)).
+[^ingress-2]: Nuovo testo giusta il n. III 1 dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 ## Parte prima: Disposizioni generali
 
@@ -56,7 +56,7 @@ ordina:
 
 ## Parte seconda: Assicurazione della responsabilità civile dei veicoli a motore
 
-### Capo primo: Assicurazione minima e disposizioni comuni****
+### Capo primo: Assicurazione minima e disposizioni comuni
 
 [^part2-chap1-1]
 
@@ -195,7 +195,7 @@ Gli attestati d’assicurazione possono essere rilasciati:
 
 [^8-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4691](https://fedlex.data.admin.ch/eli/oc/2013/826)).
 
-### III. Veicoli di riserva e autorizzazione provvisoria di circolazione****
+### III. Veicoli di riserva e autorizzazione provvisoria di circolazione
 
 [^part2-chap1-lvlIII-1]
 
@@ -587,7 +587,7 @@ I veicoli a motore pesanti provvisti di targhe professionali possono essere util
 
 [^24-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 1992, in vigore dal 1° ago. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
 [^24-2]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^24-3]: Nuovo testo giusta il n. 4 dell’appendice all’O del 20 nov. 1996 sull’imposizione degli autoveicoli, in vigore dal 1° gen. 1997 ([RU 1996 3058](https://fedlex.data.admin.ch/eli/oc/1996/3058_3058_3058)).
+[^24-3]: Nuovo testo giusta l’appendice n. 4 dell’O del 20 nov. 1996 sull’imposizione degli autoveicoli, in vigore dal 1° gen. 1997 ([RU 1996 3058](https://fedlex.data.admin.ch/eli/oc/1996/3058_3058_3058)).
 [^24-4]: Nuovo testo giusta l’all. 1 n. II 6 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 
 #### Art. 25
@@ -728,7 +728,7 @@ In casi particolari, i Cantoni possono proporre al Consiglio federale:
 
 <sup>2</sup> L’articolo 29 è applicabile per analogia.
 
-## Parte terza:**** Assicurazione di responsabilità civile dei veicoli a motore con potenza o velocità minime
+## Parte terza: Assicurazione di responsabilità civile dei veicoli a motore con potenza o velocità minime
 
 [^part3-1]
 
@@ -781,7 +781,7 @@ Ogni servizio di rilascio deve trasmettere all’autorità cantonale la carta d�
 
 <sup>4</sup> L’autorità cantonale deve conservare per cinque anni dalla fine della validità del contrassegno le informazioni che i servizi di rilascio devono fornire secondo il capoverso 3.
 
-### II. Carri a mano provvisti di motore, monoassi e ciclomotori leggeri, sedie a rotelle****
+### II. Carri a mano provvisti di motore, monoassi e ciclomotori leggeri, sedie a rotelle
 
 [^part3-lvlII-1]
 
@@ -804,20 +804,20 @@ Sono esonerati dall’obbligo dell’assicurazione secondo l’articolo 63 della
 
 [^38-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-## Parte quarta:**** Ufficio nazionale di assicurazione e Fondo nazionale di garanzia****
+## Parte quarta: Ufficio nazionale di assicurazione e Fondo nazionale di garanzia
 
 [^part4-1][^part4-2]
 
 [^part4-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5465](https://fedlex.data.admin.ch/eli/oc/1995/5465_5465_5465)).
 [^part4-2]: Nuovo testo giusta il n. I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
 
-### Capo primo: Ufficio nazionale di assicurazione****
+### Capo primo: Ufficio nazionale di assicurazione
 
 [^part4-chap1-1]
 
 [^part4-chap1-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
 
-### I. Veicoli a motore stranieri e rimorchi****
+### I. Veicoli a motore stranieri e rimorchi
 
 [^part4-chap1-lvlI-1]
 
@@ -979,7 +979,7 @@ Se una manifestazione sportiva estera con veicoli a motore attraversa il territo
 
 Il sequestro e la confisca da parte della polizia o del giudice penale d’un veicolo a motore estero che abbia cagionato un danno oppure di altri oggetti trasportati dalla persona estera civilmente responsabile è possibile, a titolo di garanzia per le pretese di risarcimento legali dei danni cagionati da tale veicolo, soltanto su proposta dell’Ufficio nazionale di assicurazione.
 
-### II.**** Centro d’informazione
+### II. Centro d’informazione
 
 [^part4-chap1-lvlII-1]
 
@@ -1032,13 +1032,13 @@ Il centro d’informazione fornisce alle parti lese e alle assicurazioni sociali
 
 [^49d-1]: RS **174.51**
 
-### Capo secondo: Fondo nazionale di garanzia****
+### Capo secondo: Fondo nazionale di garanzia
 
 [^part4-chap2-1]
 
 [^part4-chap2-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
 
-### I. …****
+### I. …
 
 [^part4-chap2-lvlI-1]
 
@@ -1056,7 +1056,7 @@ Il centro d’informazione fornisce alle parti lese e alle assicurazioni sociali
 
 [^51-1]: Abrogato dal n. I dell’O del 9 dic. 2002, con effetto dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
 
-### II. Veicoli o mezzi simili a veicoli non identificati o non assicurati ****
+### II. Veicoli o mezzi simili a veicoli non identificati o non assicurati
 
 [^part4-chap2-lvlII-1]
 
@@ -1068,7 +1068,7 @@ Il centro d’informazione fornisce alle parti lese e alle assicurazioni sociali
 
 <sup>1</sup>
 
-Se la parte lesa intende chiedere il risarcimento del danno giusta l’articolo 76 capoverso 2 lettera a della legge, deve:[^52-1]
+Se la parte lesa intende chiedere il risarcimento del danno giusta l’articolo 76 capoverso 3 lettera a della legge, deve:[^52-1]
 
 - a. annunciare immediatamente il sinistro al Fondo nazionale di garanzia e fornire tutte le indicazioni necessarie per la ricerca delle persone che hanno causato il danno e sono civilmente responsabili;[^52-2]
 - b. presentare la conferma che è stato allestito un rapporto di polizia.
@@ -1079,7 +1079,7 @@ Se la parte lesa intende chiedere il risarcimento del danno giusta l’articolo 
 
 <sup>4</sup> Se colui che cagiona il danno non ha un’assicurazione di responsabilità civile tenuta a versare le prestazioni o se è contestata l’assenza di una tale assicurazione, il Fondo nazionale di garanzia deve indennizzare anticipatamente la parte lesa.[^52-5]
 
-[^52-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^52-1]: Nuovo testo giusta il n. III 1 dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 [^52-2]: Nuovo testo giusta il n. I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
 [^52-3]: Nuovo testo giusta il n. I dell’O del 12 ott. 2012, in vigore dal 1° gen. 2012 ([RU 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
 [^52-4]: Nuovo testo giusta il n. I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
@@ -1089,7 +1089,7 @@ Se la parte lesa intende chiedere il risarcimento del danno giusta l’articolo 
 
 **Obbligo di risarcimento**[^53-1]
 
-<sup>1</sup> Il risarcimento dei danni secondo l’articolo 76 capoverso 2 lettera a della legge spetta al Fondo nazionale di garanzia. Quest’ultimo è rappresentato da una società membro, da un assicuratore gerente o da un’impresa competente per la liquidazione del danno (rappresentante).
+<sup>1</sup> Il risarcimento dei danni secondo l’articolo 76 capoverso 3 lettera a della legge spetta al Fondo nazionale di garanzia. Quest’ultimo è rappresentato da una società membro, da un assicuratore gerente o da un’impresa competente per la liquidazione del danno (rappresentante).[^53-2]
 
 <sup>2</sup> Il Fondo nazionale di garanzia designa il suo rappresentante sulla base degli accordi di cooperazione internazionali.
 
@@ -1112,6 +1112,7 @@ Il rappresentante deve fornire al Fondo nazionale di garanzia le indicazioni nec
 <sup>6</sup> Il Fondo nazionale di garanzia revoca al rappresentante la liquidazione del danno nei casi di cui all’articolo 4, se quest’ultimo non restituisce la pratica di sua iniziativa.
 
 [^53-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^53-2]: Nuovo testo giusta il n. III 1 dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 53a
 
@@ -1129,7 +1130,7 @@ Il Fondo nazionale di garanzia copre la responsabilità per i danni causati da:
 
 **Parti lese estere**[^54-1]
 
-<sup>1</sup> Sono escluse dal risarcimento previsto dall’articolo 76 capoverso 2 lettera a della legge e dagli articoli 50–53 della presente ordinanza le pretese delle persone lese che non hanno la cittadinanza svizzera né erano domiciliate in Svizzera al momento dell’incidente.
+<sup>1</sup> Sono escluse dal risarcimento previsto dall’articolo 76 capoverso 3 lettera a della legge e dagli articoli 52 e 53 della presente ordinanza le pretese delle persone lese che non hanno la cittadinanza svizzera né erano domiciliate in Svizzera al momento dell’incidente.[^54-2]
 
 <sup>2</sup>
 
@@ -1140,8 +1141,9 @@ Sono fatti salvi:
 - c. altri casi in cui è accordata la reciprocità.
 
 [^54-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^54-2]: Nuovo testo giusta il n. III 1 dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
-### III.**** Organismo d’indennizzo
+### III. Organismo d’indennizzo
 
 [^part4-chap2-lvlIII-1]
 
@@ -1167,21 +1169,69 @@ Se sono fatte valere pretese di responsabilità civile presso l’organismo d’
 
 [^54a-1]: [RU 2011 4997](https://fedlex.data.admin.ch/eli/oc/2011/725)
 
-### IV.**** Insolvenza dell’assicuratore
+### IV. Risanamento e fallimento dell’assicuratore
 
 [^part4-chap2-lvlIV-1]
 
-[^part4-chap2-lvlIV-1]: Introdotto dal n. I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^part4-chap2-lvlIV-1]: Introdotto dal n. I dell’O del 9 dic. 2002 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)). Nuovo testo giusta il n. III 1 dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 54a<sup>bis</sup>
+
+**Risanamento**
+
+<sup>1</sup> Se omologa un piano di risanamento conformemente all’articolo 52*j* della legge del 17 dicembre 2004[^54abis-1] sulla sorveglianza degli assicuratori (LSA) che prevede una riduzione dei versamenti per sinistri da parte delle assicurazioni di responsabilità civile per i veicoli a motore, la FINMA deve comunicare l’omologazione mediante pubblico avviso del piano di risanamento al Fondo nazionale di garanzia.
+
+<sup>2</sup> Il Fondo nazionale di garanzia ha diritto alla consultazione degli atti nella procedura di risanamento, in particolare relativamente al portafoglio dell’assicurazione di responsabilità civile per i veicoli a motore.
+
+<sup>3</sup> L’assicuratore da risanare regolamenta autonomamente i sinistri di responsabilità civile per i veicoli a motore interessati dalla riduzione. Esso versa le prestazioni non ridotte alle parti lese e agli assicuratori privati e sociali che esercitano il regresso, fatto salvo il capoverso 4. L’importo di cui avrebbero dovuto essere ridotte le prestazioni conformemente al piano di risanamento è a carico del Fondo nazionale di garanzia.
+
+<sup>4</sup> Il Fondo nazionale di garanzia, su richiesta dell’assicuratore da risanare, mette a disposizione, anticipatamente e su base trimestrale, i mezzi necessari per il pagamento dell’importo a suo carico. Alla fine di ogni trimestre l’assicuratore da risanare predispone un conteggio degli importi effettivamente versati. L’eventuale importo residuo è restituito al Fondo nazionale di garanzia.
+
+<sup>5</sup> Se risarcisce i danni causati all’estero da un veicolo a motore o un rimorchio assicurato presso un assicuratore svizzero nei confronti del quale è stata avviata una procedura di risanamento da cui insorgono prestazioni dal Fondo di garanzia, l’Ufficio nazionale di assicurazione esercita il regresso nei confronti di tale assicuratore. Questi disciplina il regresso in modo analogo a una pretesa diretta di terzi lesi.
+
+[^54abis-1]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
 
 #### Art. 54b
 
-<sup>1</sup> Se un istituto d’assicurazione autorizzato ad esercitare un’assicurazione di responsabilità civile in Svizzera va in fallimento, il Fondo nazionale di garanzia assume la responsabilità dei danni.
+**Fallimento dell*’*assicurazione**
 
-<sup>2</sup> L’Autorità federale di vigilanza sui mercati finanziari regola le modalità nei singoli casi.
+<sup>1</sup> Il Fondo nazionale di garanzia paga alle parti lese o agli assicuratori privati e sociali che esercitano il regresso, dietro consegna dell’attestato di carenza di beni, la parte delle pretese derivanti dai danni da responsabilità civile coperti per i veicoli a motore per la quale l’amministrazione del fallimento ha rilasciato un attestato di carenza di beni.
 
-<sup>3</sup> Se risarcisce i danni causati all’estero da un veicolo a motore o un rimorchio assicurato presso un istituto d’assicurazione svizzero che è andato in fallimento, l’Ufficio nazionale di assicurazione esercita il regresso nei confronti del Fondo nazionale di garanzia.
+<sup>2</sup>
 
-### V.**** Manifestazioni sportive estere con velocipedi
+Su richiesta di una parte lesa procede alla liquidazione privilegiata delle sue pretese secondo l’articolo 76 capoverso 4 lettera a della legge e le versa l’importo ancora aperto se la parte lesa:
+
+- a. prima del passaggio in giudicato della graduatoria ottiene prestazioni dalla massa fallimentare in virtù dell’articolo 54*a*<sup>bis</sup> capoverso 2 LSA[^54b-1];
+- b. ha ricevuto dall’amministrazione del fallimento la comunicazione dell’importo con cui la sua pretesa sarà inserita nella graduatoria; e
+- c. fornisce il proprio consenso scritto alla liquidazione del danno sulla base dell’importo comunicato dall’amministrazione del fallimento.
+
+<sup>3</sup> Gli assicuratori privati e sociali che esercitano il regresso non hanno diritto a una liquidazione privilegiata.
+
+<sup>4</sup> Se risarcisce i danni causati all’estero da un veicolo a motore o un rimorchio assicurato presso un istituto d’assicurazione svizzero contro il quale è dichiarato il fallimento, l’Ufficio nazionale di assicurazione esercita il regresso nei confronti dell’assicuratore fallito. Un’eventuale perdita può essere fatta valere nei confronti del Fondo nazionale di garanzia.
+
+[^54b-1]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+
+#### Art. 54b<sup>bis</sup>
+
+**Disposizioni comuni per la procedura di risanamento e di fallimento**
+
+<sup>1</sup> Nelle procedure di risanamento e di fallimento, il Fondo di garanzia copre le perdite a fronte di danni delle assicurazioni di responsabilità civile per i veicoli a motore fino a un importo di 700 milioni di franchi.
+
+<sup>2</sup> Dopo l’avvio di una procedura di risanamento o di fallimento, i pagamenti da effettuare nell’ambito di questa procedura sono computati nel limite superiore della copertura di cui al capoverso 1 per cinque anni dall’avvio della procedura di risanamento o di fallimento.
+
+<sup>3</sup> Se entro questo termine è avviata più di una procedura di risanamento e di fallimento, ai fini della graduatoria del ricorso al Fondo di garanzia è determinante la data dell’avvio della procedura di risanamento o di fallimento per tutti i pagamenti dovuti nell’ambito della rispettiva procedura.
+
+<sup>4</sup> Se le prestazioni da assumere prevedibilmente a seguito di una procedura di risanamento o di fallimento superano l’importo secondo i capoversi 1–3 a disposizione per questa procedura di risanamento o di fallimento, le prestazioni dovute sui singoli sinistri all’interno di una procedura di risanamento o di fallimento sono ridotte per tutti gli aventi diritto in parti uguali in modo tale che, sommate, non superino questo importo.
+
+<sup>5</sup> Il Fondo nazionale di garanzia deve sottoporre per approvazione alla FINMA la quota di riduzione delle prestazioni del Fondo nazionale di garanzia.
+
+<sup>6</sup> La FINMA pubblica l’approvazione nel Foglio federale e informa gli assicuratori interessati.
+
+<sup>7</sup> Per soddisfare la copertura di cui al capoverso 1, l’Ufficio nazionale di assicurazione e il Fondo nazionale di garanzia riscuotono contributi di cui all’articolo 58. Sono finanziati anticipatamente entro un tempo adeguato, sino a quando l’importo di cui al capoverso 1 è interamente disponibile. In caso di ricorso alla copertura prima che i mezzi siano disponibili nella misura necessaria, questi sono riscossi a posteriori mediante contributi di cui all’articolo 58.
+
+<sup>8</sup> I mezzi del Fondo di garanzia devono essere investiti con prudenza e in modo da preservarne il valore ed essere rapidamente disponibili in caso di evento.
+
+### V. Manifestazioni sportive estere con velocipedi
 
 [^part4-chap2-lvlV-1]
 
@@ -1191,7 +1241,7 @@ Se sono fatte valere pretese di responsabilità civile presso l’organismo d’
 
 Se una manifestazione sportiva estera con velocipedi attraversa il territorio svizzero, il Cantone interessato può rilasciare la necessaria autorizzazione soltanto a condizione che l’assicurazione di responsabilità civile competente garantisca un risarcimento sufficiente dei danni eventuali.
 
-### Capo terzo: Disposizioni comuni per l’Ufficio nazionale di assicurazione e il Fondo nazionale di garanzia****
+### Capo terzo: Disposizioni comuni per l’Ufficio nazionale di assicurazione e il Fondo nazionale di garanzia
 
 [^part4-chap3-1]
 
@@ -1271,7 +1321,7 @@ Le prestazioni delle assicurazioni sociali e le prestazioni d’indennizzo dell�
 [^59c-1]: Introdotto dal n. I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
 [^59c-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
-## Parte quinta:**** Disposizioni penali
+## Parte quinta: Disposizioni penali
 
 [^part5-1]
 
@@ -1307,14 +1357,14 @@ chi fa uso di targhe professionali senza esserne autorizzato, non porta seco i d
 [^60-6]: Nuovo testo del per. giusta il n. I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
 [^60-7]: Nuovo testo giusta il n. I dell’O del 15 ott. 1975, in vigore dal 1° gen. 1976 ([RU 1975 1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)).
 
-## Parte sesta:**** Disposizioni finali****
+## Parte sesta: Disposizioni finali
 
 [^part6-1][^part6-2]
 
 [^part6-1]: Originaria parte ottava.
 [^part6-2]: Nuovo testo giusta il n. I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
 
-### Capo primo: Entrata in vigore****
+### Capo primo: Entrata in vigore
 
 [^part6-chap1-1]
 
@@ -1348,7 +1398,7 @@ chi fa uso di targhe professionali senza esserne autorizzato, non porta seco i d
 
 [^7376-1]: Abrogati dal n. I dell’O del 28 mar. 2007, con effetto dal 1° lug. 2007 ([RU 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
 
-### Capo secondo: Disposizioni finali****
+### Capo secondo: Disposizioni finali
 
 [^part6-chap2-1]
 
@@ -1377,25 +1427,25 @@ chi fa uso di targhe professionali senza esserne autorizzato, non porta seco i d
 
 [^77-1]: Introdotto dal n. I dell’O del 22 nov. 1995 ([RU 1995 5465](https://fedlex.data.admin.ch/eli/oc/1995/5465_5465_5465)). Abrogato dal n. I dell’O del 29 nov. 2006, con effetto dal 1° feb. 2007 ([RU 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
 
-## Disposizioni finali della modifica del 15 ottobre 1975****
+## Disposizioni finali della modifica del 15 ottobre 1975
 
 [^u1-1]
 
 [^u1-1]: Abrogato dal n. I dell’O del 28 mar. 2007, con effetto dal 1° lug. 2007 ([RU 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
 
-## Disposizione finale della modifica del 24 maggio 1989****
+## Disposizione finale della modifica del 24 maggio 1989
 
 [^u2-1]
 
 [^u2-1]: Abrogato dal n. I dell’O del 28 mar. 2007, con effetto dal 1° lug. 2007 ([RU 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
 
-## Disposizioni finali della modifica del 1<sup>o</sup> luglio 1992****
+## Disposizioni finali della modifica del 1<sup>o</sup> luglio 1992
 
 [^u3-1]
 
 [^u3-1]: Abrogato dal n. I dell’O del 28 mar. 2007, con effetto dal 1° lug. 2007 ([RU 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
 
-## Disposizioni finali della modifica del 14 gennaio 2004****
+## Disposizioni finali della modifica del 14 gennaio 2004
 
 [^u4-1]
 
@@ -1407,7 +1457,7 @@ chi fa uso di targhe professionali senza esserne autorizzato, non porta seco i d
 
 <sup>3</sup> Gli aumenti di premi ai sensi del capoverso 2 devono essere notificati per scritto all’assicurato al più 30 giorni prima della loro entrata in vigore. L’assicurato ha successivamente il diritto di disdire il contratto. L’assicuratore deve menzionare questo diritto dio disdetta nella notifica di aumento dei premi. La disdetta è valida se perviene all’assicuratore almeno un giorno prima dell’entrata in vigore dell’aumento dei premi.
 
-## Disposizione transitoria della modifica del 29 novembre 2006****
+## Disposizione transitoria della modifica del 29 novembre 2006
 
 [^u5-1]
 
@@ -1415,7 +1465,7 @@ chi fa uso di targhe professionali senza esserne autorizzato, non porta seco i d
 
 Gli attestati d’assicurazione possono essere rilasciati in forma cartacea fino al 31 dicembre 2008.
 
-## Disposizione transitoria della modifica del 12 ottobre 2011****
+## Disposizione transitoria della modifica del 12 ottobre 2011
 
 [^u6-1]
 
@@ -1425,7 +1475,7 @@ Gli attestati d’assicurazione possono essere rilasciati in forma cartacea fino
 
 <sup>2</sup> I Cantoni vigilano affinché, almeno fino al 31 dicembre 2012, presso la polizia sia accessibile a tutti un elenco dei codici che consentono di identificare le compagnie d’assicurazione di responsabilità civile.
 
-Allegato 1*[^t-2]*
+Allegato 1[^t-2]
 
 (art. 3*a* cpv. 4 e 4 cpv. 3)
 
@@ -1559,7 +1609,7 @@ Oltre alla notificazione del ritiro dalla circolazione:
 
 [^annex1-lvlu1-lvlC-1]: [RU 2002 359](https://fedlex.data.admin.ch/eli/oc/2002/79)
 
-Allegato 2*[^t-3]*
+Allegato 2[^t-3]
 
 (art. 18)
 
@@ -1588,7 +1638,7 @@ Allegato 2*[^t-3]*
 
 \3. Le marche di controllo sono rilasciate dei Cantoni.
 
-Allegato 3*[^t-4]*
+Allegato 3[^t-4]
 
 (art. 35 cpv. 3)
 
@@ -1596,9 +1646,9 @@ Allegato 3*[^t-4]*
 
 [^t-4]: Nuovo testo giusta il n. II dell’O del 12 ott. 2012, in vigore dal 1° gen. 2012 ([RU 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/it/xml/image/image3.png)
 
-Allegato 4*[^t-5]*
+Allegato 4[^t-5]
 
 (art. 23)
 
@@ -1621,7 +1671,7 @@ Allegato 4*[^t-5]*
 - 1\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image4.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/it/xml/image/image4.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre devono essere costruiti ulteriori 20 veicoli all’anno per ciascuna licenza di circolazione collettiva.</td></tr>
 </table>
 
@@ -1655,7 +1705,7 @@ Allegato 4*[^t-5]*
 - 2\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image5.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/it/xml/image/image5.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre devono essere importati ulteriori 20 veicoli all’anno per ciascuna licenza di circolazione collettiva.</td></tr>
 </table>
 
@@ -1704,7 +1754,7 @@ Allegato 4*[^t-5]*
   - b. per i restanti tipi di veicoli:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image6.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/it/xml/image/image6.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero di persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre devono essere venduti annualmente per ciascuna licenza di circolazione collettiva ulteriori.</td></tr>
 </table>
 
@@ -1747,7 +1797,7 @@ Allegato 4*[^t-5]*
 - 4\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image7.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/it/xml/image/image7.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori di riparazione rimunerati, che necessitano di corse di trasferimento di veicoli a motore o di corse di prova, su 50 veicoli supplementari.</td></tr>
 </table>
 
@@ -1781,7 +1831,7 @@ Allegato 4*[^t-5]*
 - 5\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image8.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/it/xml/image/image8.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori di riparazione rimunerati, che necessitano di corse di trasferimento di veicoli a motore o di corse di prova, su 20 veicoli supplementari.</td></tr>
 </table>
 
@@ -1815,7 +1865,7 @@ Allegato 4*[^t-5]*
 - 6\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image9.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/it/xml/image/image9.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori di riparazione rimunerati, che necessitano di corse di trasferimento di veicoli a motore o di corse di prova, su 30 veicoli supplementari.</td></tr>
 </table>
 
@@ -1848,7 +1898,7 @@ Allegato 4*[^t-5]*
 - lavori di riparazione rimunerati, che necessitano di corse di trasferimento di veicoli a motore o corse di prova, su almeno 30 veicoli all’anno;
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image10.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/it/xml/image/image10.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori di riparazione rimunerati, che necessitano di corse di trasferimento di veicoli a motore o di corse di prova, su 30 veicoli supplementari.</td></tr>
 </table>
 
@@ -1882,7 +1932,7 @@ Allegato 4*[^t-5]*
 - 8\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image11.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/it/xml/image/image11.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori di riparazione rimunerati, che necessitano di corse di trasferimento di veicoli a motore o di corse di prova, su 30 veicoli supplementari.</td></tr>
 </table>
 
@@ -1916,7 +1966,7 @@ Allegato 4*[^t-5]*
 - 9\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image12.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/it/xml/image/image12.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori rimunerati che necessitano di corse di trasferimento di veicoli a motore o di corse di prova su 30 veicoli supplementari.</td></tr>
 </table>
 
@@ -1950,7 +2000,7 @@ Allegato 4*[^t-5]*
 - 10\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image13.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/it/xml/image/image13.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori rimunerati che necessitano di corse di trasferimento di veicoli a motore o di corse di prova su 50 veicoli supplementari.</td></tr>
 </table>
 
@@ -1984,7 +2034,7 @@ Allegato 4*[^t-5]*
 - 11\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image14.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/it/xml/image/image14.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collet tiva devono essere effettuati annualmente lavori rimunerati che necessitano di corse di trasferimento di veicoli a motore o di corse di prova su 50 veicoli supplementari.</td></tr>
 </table>
 
@@ -2018,7 +2068,7 @@ Allegato 4*[^t-5]*
 - 12\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image15.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/it/xml/image/image15.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori rimunerati che necessitano di corse di trasferimento di veicoli a motore o di corse di prova su 20 veicoli supplementari.</td></tr>
 </table>
 
@@ -2048,7 +2098,7 @@ Allegato 4*[^t-5]*
 - 13\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image16.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/it/xml/image/image16.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori rimunerati che necessitano di corse di trasferimento di veicoli a motore o di corse di prova su 50 veicoli supplementari.</td></tr>
 </table>
 
@@ -2082,7 +2132,7 @@ Allegato 4*[^t-5]*
 - 14\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image17.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/it/xml/image/image17.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori rimunerati che necessitano di corse di trasferimento di veicoli a motore o di corse di prova su 50 veicoli supplementari.</td></tr>
 </table>
 
@@ -2116,7 +2166,7 @@ Allegato 4*[^t-5]*
 - 15\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image18.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/it/xml/image/image18.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori rimunerati che necessitano di corse di trasferimento di veicoli a motore o di corse di prova su 50 veicoli supplementari, di veicoli a motore o di corse di prova su 50 veicoli supplementari.</td></tr>
 </table>
 
@@ -2150,7 +2200,7 @@ Allegato 4*[^t-5]*
 - 16\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image19.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/it/xml/image/image19.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori rimunerati che necessitano di corse di trasferimento di veicoli a motore o di corse di prova su 50 veicoli supplementari.</td></tr>
 </table>
 
@@ -2184,7 +2234,7 @@ Allegato 4*[^t-5]*
 - 17\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image20.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/it/xml/image/image20.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori rimunerati che necessitano di corse di trasferimento di veicoli a motore o di corse di prova su 50 veicoli supplementari.</td></tr>
 </table>
 
@@ -2217,7 +2267,7 @@ Allegato 4*[^t-5]*
 - 18\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image21.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/it/xml/image/image21.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva il parco di veicoli dell’azienda deve comprendere 30 veicoli supplementari.</td></tr>
 </table>
 
@@ -2245,7 +2295,7 @@ Allegato 4*[^t-5]*
 - 19\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image22.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/it/xml/image/image22.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere collaudati annualmente 20 veicoli supplementari.</td></tr>
 </table>
 
@@ -2268,7 +2318,7 @@ Allegato 4*[^t-5]*
 
 Alle aziende, attive in più tipi d’esercizi, la cui portata – in funzione del tipo di attività – non raggiunge però quella minima richiesta, può essere rilasciato un attestato di circolazione collettivo se la portata totale dell’azienda equivale alla portata minima prescritta per un solo tipo d’attività e se i locali e le installazioni soddisfano globalmente le esigenze fissate per ciascun tipo di attività.
 
-Allegato 5*[^t-6]*
+Allegato 5[^t-6]
 
 (art. 10*b*)
 
@@ -2288,7 +2338,7 @@ Allegato 5*[^t-6]*
 </table>
 
 <table>
-<tr><td>2. **Veicolo da immatr****i****colare**</td><td>[tab]</td></tr>
+<tr><td>2. **Veicolo da immatricolare**</td><td>[tab]</td></tr>
 </table>
 
 Targhe di controllo n.: Marca/tipo: Telaio n.: Matricola n.:

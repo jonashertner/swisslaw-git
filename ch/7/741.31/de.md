@@ -4,31 +4,31 @@ title: Verkehrsversicherungsverordnung vom 20. November 1959 (VVV)
 short: VVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317"
 language: de
-version: 2022-01-01
+version: 2024-01-01
 adopted: 1959-11-20
 in_force: 1959-11-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1959-1271_1321_1317-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1959-1271_1321_1317-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verkehrsversicherungsverordnung
 
-(VVV)**[^t-1]**
+(VVV)[^t-1]
 
-vom 20. November 1959 (Stand am 1. Januar 2022)
+vom 20. November 1959 (Stand am 1. Januar 2024)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 6. Okt. **1980**, in Kraft seit 1. Jan. 1981 ([AS 1980 1511](https://fedlex.data.admin.ch/eli/oc/1980/1511_1511_1511)). Gemäss derselben Bestimmung wurden die Einschaltartikel «bis» mit kleinen Buchstaben «a» numeriert.
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 25, 64, 67 Absatz 3, 70 Absatz 3, 72 Absatz 1, 74 Absatz 3, 76 Absätze 3 und 5, 76*a* Absatz 5, 76*b* Absatz 5, 79*a* Absätze 2 und 3, 89 Absätze 1 und 2, 106 Absatz 1 sowie 108 des Strassenverkehrsgesetzes vom 19. Dezember 1958[^ingress-1] (SVG),[^ingress-2]
+gestützt auf die Artikel 25, 64, 67 Absatz 3, 70 Absatz 3, 72 Absatz 1, 74 Absatz 3, 76 Absätze 5 und 7, 76*a* Absatz 5, 76*b* Absatz 5, 79*a* Absätze 2 und 3, 89 Absätze 1 und 2, 106 Absatz 1 sowie 108 des Strassenverkehrsgesetzes vom 19. Dezember 1958[^ingress-1] (SVG),[^ingress-2]
 
 verordnet:
 
 [^ingress-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^ingress-2]: Fassung gemäss Ziff. I der V vom 14. Jan. 2004, in Kraft seit 1. März 2004 ([AS 2004 649](https://fedlex.data.admin.ch/eli/oc/2004/57)).
+[^ingress-2]: Fassung gemäss Ziff. III 1 der V vom 2. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 ## 1. Teil: Allgemeine Bestimmungen
 
@@ -56,7 +56,7 @@ verordnet:
 
 ## 2. Teil: Haftpflichtversicherung der Motorfahrzeuge
 
-### 1. Abschnitt: Mindestversicherung und gemeinsame Bestimmungen****
+### 1. Abschnitt: Mindestversicherung und gemeinsame Bestimmungen
 
 [^part2-chap1-1]
 
@@ -194,7 +194,7 @@ Versicherungsnachweise können ausgestellt werden:
 
 [^8-1]: Fassung gemäss Ziff. I der V vom 29. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4691](https://fedlex.data.admin.ch/eli/oc/2013/826)).
 
-### III. Ersatzfahrzeuge und vorläufige Verkehrsberechtigung****
+### III. Ersatzfahrzeuge und vorläufige Verkehrsberechtigung
 
 [^part2-chap1-lvlIII-1]
 
@@ -720,7 +720,7 @@ Artikel 72 SVG gilt:
 
 <sup>2</sup> Artikel 29 dieser Verordnung gilt sinngemäss.
 
-## 3. Teil:**** Haftpflichtversicherung der Motorfahrzeuge von geringer Motorkraft oder Geschwindigkeit
+## 3. Teil: Haftpflichtversicherung der Motorfahrzeuge von geringer Motorkraft oder Geschwindigkeit
 
 [^part3-1]
 
@@ -773,7 +773,7 @@ Jede Abgabestelle muss der kantonalen Behörde die vollständig ausgefüllte Ver
 
 <sup>4</sup> Die kantonale Behörde muss die von den Abgabestellen nach Absatz 3 zu liefernden Informationen nach dem Ablauf der Gültigkeit der Vignette noch fünf Jahre aufbewahren.
 
-### II. Motorhandwagen, Motoreinachser, Leicht-Motorfahrräder, Rollstühle****
+### II. Motorhandwagen, Motoreinachser, Leicht-Motorfahrräder, Rollstühle
 
 [^part3-lvlII-1]
 
@@ -796,20 +796,20 @@ Die Benützer der folgenden Motorfahrzeuge sind von der Versicherungspflicht nac
 
 [^38-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-## 4. Teil:**** Nationales Versicherungsbüro und Nationaler Garantiefonds****
+## 4. Teil: Nationales Versicherungsbüro und Nationaler Garantiefonds
 
 [^part4-1][^part4-2]
 
 [^part4-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 1995, in Kraft seit 1. Jan. 1996 ([AS 1995 5465](https://fedlex.data.admin.ch/eli/oc/1995/5465_5465_5465)).
 [^part4-2]: Fassung gemäss Ziff. I der V vom 9. Dez. 2002, in Kraft seit 1. Febr. 2003 ([AS 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
 
-### 1. Abschnitt: Nationales Versicherungsbüro****
+### 1. Abschnitt: Nationales Versicherungsbüro
 
 [^part4-chap1-1]
 
 [^part4-chap1-1]: Fassung gemäss Ziff. I der V vom 9. Dez. 2002, in Kraft seit 1. Febr. 2003 ([AS 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
 
-### I. Ausländische Motorfahrzeuge und Anhänger****
+### I. Ausländische Motorfahrzeuge und Anhänger
 
 [^part4-chap1-lvlI-1]
 
@@ -973,7 +973,7 @@ Führt eine ausländische motorsportliche Veranstaltung über schweizerisches Ge
 
 Zur Sicherung der im Gesetz vorgesehenen Ersatzansprüche für die Schäden, die ein ausländisches Motorfahrzeug verursacht hat, sind Arrest und polizeiliche oder strafrichterliche Beschlagnahme des Fahrzeugs oder anderer vom ausländischen Haftpflichtigen mitgeführten Gegenstände nur auf Antrag des nationalen Versicherungsbüros möglich.
 
-### II.**** Auskunftsstelle
+### II. Auskunftsstelle
 
 [^part4-chap1-lvlII-1]
 
@@ -1026,13 +1026,13 @@ Die Auskunftsstelle erteilt geschädigten Personen und Sozialversicherungen folg
 
 [^49d-1]: [SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
 
-### 2. Abschnitt: Nationaler Garantiefonds****
+### 2. Abschnitt: Nationaler Garantiefonds
 
 [^part4-chap2-1]
 
 [^part4-chap2-1]: Fassung gemäss Ziff. I der V vom 12. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
 
-### I. …****
+### I. …
 
 [^part4-chap2-lvlI-1]
 
@@ -1050,7 +1050,7 @@ Die Auskunftsstelle erteilt geschädigten Personen und Sozialversicherungen folg
 
 [^51-1]: Aufgehoben durch Ziff. I der V vom 9. Dez. 2002, mit Wirkung seit 1. Febr. 2003 ([AS 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
 
-### II. Unbekannte oder nicht versicherte Fahrzeuge und fahrzeugähnliche Geräte****
+### II. Unbekannte oder nicht versicherte Fahrzeuge und fahrzeugähnliche Geräte
 
 [^part4-chap2-lvlII-1]
 
@@ -1062,7 +1062,7 @@ Die Auskunftsstelle erteilt geschädigten Personen und Sozialversicherungen folg
 
 <sup>1</sup>
 
-Will ein Geschädigter die Schadendeckung nach Artikel 76 Absatz 2 Buchstabe a SVG beanspruchen, so muss er:[^52-1]
+Will ein Geschädigter die Schadendeckung nach Artikel 76 Absatz 3 Buchstabe a SVG beanspruchen, so muss er:[^52-1]
 
 - a.[^52-2] den Schadenfall unverzüglich dem Nationalen Garantiefonds melden und alle Angaben machen, die zur Ermittlung der schädigenden und haftpflichtigen Personen führen können;
 - b. eine Bestätigung beibringen, dass ein Polizeirapport erstellt wurde.
@@ -1073,7 +1073,7 @@ Will ein Geschädigter die Schadendeckung nach Artikel 76 Absatz 2 Buchstabe a S
 
 <sup>4</sup> Hat der Schädiger keine leistungspflichtige Haftpflichtversicherung oder ist das Fehlen einer solchen Versicherung strittig, so ist der Nationale Garantiefonds zur Vorleistung verpflichtet.[^52-5]
 
-[^52-1]: Fassung gemäss Ziff. I der V vom 9. Dez. 2002, in Kraft seit 1. Febr. 2003 ([AS 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^52-1]: Fassung gemäss Ziff. III 1 der V vom 2. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 [^52-2]: Fassung gemäss Ziff. I der V vom 9. Dez. 2002, in Kraft seit 1. Febr. 2003 ([AS 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
 [^52-3]: Fassung gemäss Ziff. I der V vom 12. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
 [^52-4]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Juli 2007 ([AS 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
@@ -1083,7 +1083,7 @@ Will ein Geschädigter die Schadendeckung nach Artikel 76 Absatz 2 Buchstabe a S
 
 **Deckungspflicht**[^53-1]
 
-<sup>1</sup> Der Nationale Garantiefonds ist für die Deckung der Schäden nach Artikel 76 Absatz 2 Buchstabe a SVG zuständig. Er wird dabei durch eine Mitgliedgesellschaft, einen geschäftsführenden Versicherer oder ein Schadenregulierungsunternehmen vertreten (Vertreter).
+<sup>1</sup> Der Nationale Garantiefonds ist für die Deckung der Schäden nach Artikel 76 Absatz 3 Buchstabe a SVG zuständig. Er wird dabei durch eine Mitgliedgesellschaft, einen geschäftsführenden Versicherer oder ein Schadenregulierungsunternehmen vertreten (Vertreter).[^53-2]
 
 <sup>2</sup> Der Nationale Garantiefonds bezeichnet seinen Vertreter unter Berücksichtigung der internationalen Zusammenarbeitsverträge.
 
@@ -1106,6 +1106,7 @@ Der Vertreter hat dem Nationalen Garantiefonds die Angaben zu melden, die es let
 <sup>6</sup> Der Nationale Garantiefonds entzieht dem Vertreter die Schadenregulierung in einem Fall nach Absatz 4, wenn der Vertreter den Fall nicht von sich aus zurückgibt.
 
 [^53-1]: Fassung gemäss Ziff. I der V vom 9. Dez. 2002, in Kraft seit 1. Febr. 2003 ([AS 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^53-2]: Fassung gemäss Ziff. III 1 der V vom 2. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 53a
 
@@ -1123,7 +1124,7 @@ Der Nationale Garantiefonds deckt die Haftung für Schäden, die verursacht werd
 
 **Ausländische Geschädigte**[^54-1]
 
-<sup>1</sup> Von der Schadendeckung nach Artikel 76 Absatz 2 Buchstabe a SVG sowie nach Artikel 50 bis 53 dieser Verordnung sind ausgenommen die Ansprüche der Geschädigten, die weder Schweizer Bürger sind noch zur Zeit des Unfalles in der Schweiz Wohnsitz hatten.
+<sup>1</sup> Von der Schadendeckung nach Artikel 76 Absatz 3 Buchstabe a SVG sowie nach den Artikeln 52 und 53 sind ausgenommen die Ansprüche der Geschädigten, die weder Schweizer Bürgerinnen oder Bürger sind noch zur Zeit des Unfalles in der Schweiz Wohnsitz hatten.[^54-2]
 
 <sup>2</sup>
 
@@ -1134,8 +1135,9 @@ Vorbehalten bleiben:
 - c. andere Fälle, in denen Gegenrecht gewährt wird.
 
 [^54-1]: Fassung gemäss Ziff. I der V vom 9. Dez. 2002, in Kraft seit 1. Febr. 2003 ([AS 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^54-2]: Fassung gemäss Ziff. III 1 der V vom 2. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
-### III.**** Entschädigungsstelle
+### III. Entschädigungsstelle
 
 [^part4-chap2-lvlIII-1]
 
@@ -1159,21 +1161,69 @@ Werden Haftpflichtansprüche gegen die Entschädigungsstelle (Art. 79*d* SVG) er
 
 <sup>3</sup> Wird die Entschädigungsstelle von der Entschädigungsstelle eines anderen Staates darüber informiert, dass diese ein Schadenersatzbegehren gegen einen Versicherer erhalten hat, der in der Schweiz eine Versicherungspolice ausgestellt hat, leitet sie diese Information an die Eidgenössische Finanzmarktaufsicht weiter.
 
-### IV.**** Insolvenz des Versicherers
+### IV. Sanierung und Konkurs des Versicherers
 
 [^part4-chap2-lvlIV-1]
 
-[^part4-chap2-lvlIV-1]: Eingefügt durch Ziff. I der V vom 9. Dez. 2002, in Kraft seit 1. Febr. 2003 ([AS 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^part4-chap2-lvlIV-1]: Eingefügt durch Ziff. I der V vom 9. Dez. 2002 ([AS 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)), Fassung gemäss Ziff. III 1 der V vom 2. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356))..
+
+#### Art. 54a<sup>bis</sup>
+
+**Sanierung**
+
+<sup>1</sup> Genehmigt die FINMA einen Sanierungsplan nach Artikel 52*j* des Versicherungsaufsichtsgesetzes vom 17. Dezember 2004[^54abis-1] (VAG), der eine Kürzung der Schadenzahlungen aus Motorfahrzeug-Haftpflichtversicherungen vorsieht, so hat sie die entsprechende Genehmigung mit der öffentlichen Bekanntmachung des Sanierungsplanes dem Nationalen Garantiefonds mitzuteilen.
+
+<sup>2</sup> Der Nationale Garantiefonds hat Anspruch auf Akteneinsicht in das Sanierungsverfahren, insbesondere bezüglich des Motorfahrzeug-Haftpflichtversicherungs-Portefeuille.
+
+<sup>3</sup> Der zu sanierende Versicherer reguliert die von der Kürzung betroffenen Motorfahrzeug-Haftpflichtschäden selbständig. Er bezahlt Geschädigten und rückgriffnehmenden Privat- und Sozialversicherern unter Vorbehalt von Absatz 4 die ungekürzten Leistungen aus. Der Betrag, um den die Leistungen gemäss Sanierungsplan hätten gekürzt werden müssen, ist vom Nationalen Garantiefonds zu tragen.
+
+<sup>4</sup> Der Nationale Garantiefonds stellt dem zu sanierenden Versicherer auf dessen Antrag quartalsweise im Voraus die notwendigen Mittel zur Begleichung des vom Nationalen Garantiefonds zu tragenden Betrags zur Verfügung. Im Anschluss an jedes Quartal erfolgt eine Abrechnung durch den zu sanierenden Versicherer über die tatsächlich ausbezahlten Beträge. Ein allfälliger Restbetrag fällt zurück an den Nationalen Garantiefonds.
+
+<sup>5</sup> Muss das Nationale Versicherungsbüro für im Ausland verursachte Schäden aufkommen, die durch Fahrzeuge oder Anhänger verursacht worden sind, die bei einem schweizerischen Versicherer versichert sind, über den ein Garantiefondsleistungen auslösendes Sanierungsverfahren eröffnet worden ist, so nimmt es Rückgriff auf diesen Versicherer. Dieser reguliert den Rückgriff in gleicher Weise wie bei einer Direktforderung geschädigter Dritter.
+
+[^54abis-1]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
 
 #### Art. 54b
 
-<sup>1</sup> Wird über eine in der Schweiz zum Betrieb der Motorfahrzeug-Haftpflichtversicherung zugelassene Versicherungseinrichtung der Konkurs eröffnet, so übernimmt der Nationale Garantiefonds die Haftung für die Schäden.
+**Versicherungskonkurs**
 
-<sup>2</sup> Die Eidgenössische Finanzmarktaufsicht regelt die Modalitäten im Einzelfall.
+<sup>1</sup> Der Nationale Garantiefonds bezahlt geschädigten Personen oder rückgriffnehmenden Privat- und Sozialversicherern gegen Aushändigung des Verlustscheins denjenigen Teil der Ansprüche aus gedeckten Motorfahrzeug-Haftpflichtschäden, für den die Konkursverwaltung einen Verlustschein ausgestellt hat.
 
-<sup>3</sup> Muss das Nationale Versicherungsbüro für im Ausland verursachte Schäden aufkommen, die durch Fahrzeuge oder Anhänger verursacht worden sind, die bei einer schweizerischen Versicherungseinrichtung versichert sind, über welche der Konkurs eröffnet worden ist, so nimmt es Rückgriff auf den Nationalen Garantiefonds.
+<sup>2</sup>
 
-### V.**** Ausländische radsportliche Veranstaltungen
+Er nimmt auf Antrag einer geschädigten Person eine vorgezogene Regulierung von deren Anspruch nach Artikel 76 Absatz 4 Buchstabe a SVG vor und bezahlt ihr den noch offenen Betrag, wenn die geschädigte Person:
+
+- a. vor Rechtskraft des Kollokationsplans Leistungen aus der Konkursmasse gestützt auf Artikel 54*a*<sup>bis</sup> Absatz 2 VAG[^54b-1] erhält;
+- b. von der Konkursverwaltung den Betrag mitgeteilt erhalten hat, mit dem ihr Anspruch in den Kollokationsplan aufgenommen werden soll; und
+- c. der Regulierung ihres Schadens auf Basis des von der Konkursverwaltung mitgeteilten Betrags schriftlich zustimmt.
+
+<sup>3</sup> Die rückgriffnehmenden Privat- und Sozialversicherer haben kein Recht auf eine vorgezogene Regulierung.
+
+<sup>4</sup> Muss das Nationale Versicherungsbüro für im Ausland verursachte Schäden aufkommen, die durch Fahrzeuge oder Anhänger verursacht worden sind, die bei einer schweizerischen Versicherungseinrichtung versichert sind, über welche der Konkurs eröffnet worden ist, so nimmt es Rückgriff auf den konkursiten Versicherer. Ein allfälliger Ausfall kann gegenüber dem Nationalen Garantiefonds geltend gemacht werden.
+
+[^54b-1]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+
+#### Art. 54b<sup>bis</sup>
+
+**Gemeinsame Bestimmungen für Sanierungs- und Konkursverfahren**
+
+<sup>1</sup> Der Garantiefonds deckt in Sanierungs- und Konkursverfahren Schadensausfälle aus der Motorfahrzeughaftpflicht-Versicherungen bis zu einem Betrag von 700 Millionen Franken.
+
+<sup>2</sup> Nach Eröffnung eines Sanierungs- oder Konkursverfahrens werden die im Rahmen dieses Verfahrens zu leistenden Zahlungen während 5 Jahren ab Eröffnung des Sanierungs- oder Konkursverfahrens an die Deckungsobergrenze nach Absatz 1 angerechnet.
+
+<sup>3</sup> Wird innerhalb dieser Frist mehr als ein Sanierungs- oder Konkursverfahren eröffnet, so ist für die Reihenfolge der Inanspruchnahme des Garantiefonds der Zeitpunkt der Eröffnung des Sanierungs- oder Konkursverfahrens für alle Zahlungen aus dem jeweiligen Verfahren massgebend.
+
+<sup>4</sup> Übersteigen die aus einem Sanierungs- oder Konkursverfahren voraussichtlich zu übernehmenden Leistungen den nach Absatz 1–3 für dieses Sanierungs- oder Konkursverfahren zur Verfügung stehenden Betrag, so werden die auf die einzelnen Schadenfälle entfallenden Leistungen innerhalb eines Sanierungs- oder Konkursverfahrens für alle Berechtigten nach gleichen Anteilen derart gekürzt, dass sie zusammen nicht mehr als diesen Betrag ergeben.
+
+<sup>5</sup> Die Quote, um welche die Leistungen des Nationalen Garantiefonds gekürzt werden, muss durch den Nationalen Garantiefonds der FINMA zur Genehmigung vorgelegt werden.
+
+<sup>6</sup> Die FINMA veröffentlicht die Genehmigung im Bundesblatt und informiert die betroffenen Versicherer.
+
+<sup>7</sup> Zur Wahrnehmung der Deckung gemäss Absatz 1 erheben das Nationale Versicherungsbüro und der Nationale Garantiefonds Beiträge gemäss Artikel 58. Die Finanzierung erfolgt zum Voraus innert einer angemessenen Zeit, bis der Betrag gemäss Absatz 1 vollständig vorhanden ist. Wird die Deckung beansprucht, bevor die Mittel im notwendigen Masse vorhanden sind, werden diese nachträglich durch Beiträge nach Artikel 58 erhoben.
+
+<sup>8</sup> Die Mittel des Garantiefonds sind vorsichtig und werterhaltend anzulegen und müssen im Ereignisfall rasch verfügbar sein.
+
+### V. Ausländische radsportliche Veranstaltungen
 
 [^part4-chap2-lvlV-1]
 
@@ -1183,7 +1233,7 @@ Werden Haftpflichtansprüche gegen die Entschädigungsstelle (Art. 79*d* SVG) er
 
 Führt eine ausländische radsportliche Veranstaltung über schweizerisches Gebiet, so darf der betroffene Kanton die erforderliche Bewilligung nur erteilen, wenn die zuständige Haftpflichtversicherung den Nachweis einer ausreichenden Deckung allfälliger Schäden hinterlegt hat.
 
-### 3. Abschnitt: Gemeinsame Bestimmungen für das Nationale Versicherungsbüro und den Nationalen Garantiefonds****
+### 3. Abschnitt: Gemeinsame Bestimmungen für das Nationale Versicherungsbüro und den Nationalen Garantiefonds
 
 [^part4-chap3-1]
 
@@ -1265,7 +1315,7 @@ Die Koordination der Leistungen der Sozialversicherungen mit den Schadenersatzle
 [^59c-1]: Eingefügt durch Ziff. I der V vom 9. Dez. 2002, in Kraft seit 1. Febr. 2003 ([AS 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
 [^59c-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
-## 5. Teil:**** Strafbestimmungen
+## 5. Teil: Strafbestimmungen
 
 [^part5-1]
 
@@ -1299,14 +1349,14 @@ wird mit Busse bestraft.
 [^60-6]: Fassung des Satzes gemäss Ziff. I der V vom 11. April 2001, in Kraft seit 1. Juni 2001 ([AS 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
 [^60-7]: Fassung gemäss Ziff. I der V vom 15. Okt. 1975, in Kraft seit 1. Jan. 1976 ([AS 1975 1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)).
 
-## 6. Teil:**** Schlussbestimmungen****
+## 6. Teil: Schlussbestimmungen
 
 [^part6-1][^part6-2]
 
 [^part6-1]: Ursprünglich 8. Teil
 [^part6-2]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Juli 2007 ([AS 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
 
-### 1. Abschnitt: Inkrafttreten****
+### 1. Abschnitt: Inkrafttreten
 
 [^part6-chap1-1]
 
@@ -1340,7 +1390,7 @@ wird mit Busse bestraft.
 
 [^7376-1]: Aufgehoben durch Ziff. I der V vom 28. März 2007, mit Wirkung seit 1. Juli 2007 ([AS 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
 
-### 2. Abschnitt: Ausnahmen, Weisungen****
+### 2. Abschnitt: Ausnahmen, Weisungen
 
 [^part6-chap2-1]
 
@@ -1369,25 +1419,25 @@ wird mit Busse bestraft.
 
 [^77-1]: Eingefügt durch Ziff. I der V vom 22. Nov. 1995 ([AS 1995 5465](https://fedlex.data.admin.ch/eli/oc/1995/5465_5465_5465)). Aufgehoben durch Ziff. I der V vom 29. Nov. 2006, mit Wirkung seit 1. Febr. 2007 ([AS 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
 
-## Schlussbestimmungen der Änderung vom 15. Oktober 1975****
+## Schlussbestimmungen der Änderung vom 15. Oktober 1975
 
 [^u1-1]
 
 [^u1-1]: Aufgehoben durch Ziff. I der V vom 28. März 2007, mit Wirkung seit 1. Juli 2007 ([AS 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
 
-## Schlussbestimmung der Änderung vom 24. Mai 1989****
+## Schlussbestimmung der Änderung vom 24. Mai 1989
 
 [^u2-1]
 
 [^u2-1]: Aufgehoben durch Ziff. I der V vom 28. März 2007, mit Wirkung seit 1. Juli 2007 ([AS 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
 
-## Schlussbestimmungen der Änderung vom 1. Juli 1992****
+## Schlussbestimmungen der Änderung vom 1. Juli 1992
 
 [^u3-1]
 
 [^u3-1]: Aufgehoben durch Ziff. I der V vom 28. März 2007, mit Wirkung seit 1. Juli 2007 ([AS 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
 
-## Schlussbestimmungen zur Änderung vom 14. Januar 2004****
+## Schlussbestimmungen zur Änderung vom 14. Januar 2004
 
 [^u4-1]
 
@@ -1399,7 +1449,7 @@ wird mit Busse bestraft.
 
 <sup>3</sup> Prämienerhöhungen nach Absatz 2 sind dem Versicherungsnehmer spätestens 30 Tage vor deren Inkrafttreten schriftlich anzuzeigen. Der Versicherungsnehmer hat daraufhin das Recht, den Vertrag zu kündigen. Der Versicherer muss in der Anzeige der Prämienerhöhung auf dieses Kündigungsrecht hinweisen. Die Kündigung ist gültig, wenn sie spätestens am Tage vor dem Inkrafttreten der Prämienerhöhung beim Versicherer eintrifft.
 
-## Übergangsbestimmung zur Änderung vom 29. November 2006****
+## Übergangsbestimmung zur Änderung vom 29. November 2006
 
 [^u5-1]
 
@@ -1407,7 +1457,7 @@ wird mit Busse bestraft.
 
 Versicherungsnachweise dürfen bis am 31. Dezember 2008 in Papierform ausgestellt werden.
 
-## Übergangsbestimmung zur Änderung vom 12. Oktober 2011****
+## Übergangsbestimmung zur Änderung vom 12. Oktober 2011
 
 [^u6-1]
 
@@ -1417,7 +1467,7 @@ Versicherungsnachweise dürfen bis am 31. Dezember 2008 in Papierform ausgestell
 
 <sup>2</sup> Die Kantone sorgen dafür, dass eine Liste der Codes zur Feststellung der Haftpflichtversicherungsgesellschaft noch bis mindestens 31. Dezember 2012 bei der Polizei allgemein zugänglich aufliegt.
 
-Anhang 1*[^t-2]*
+Anhang 1[^t-2]
 
 (Art. 3*a* Abs. 4 und 4 Abs. 3)
 
@@ -1505,8 +1555,8 @@ Anhang 1*[^t-2]*
 \2. Die Versicherungsnachweise müssen wie folgt gestaltet sein:
 
 <table>
-<tr><td colspan="6">Interne Kontrollnummer des Versicherers N<sup>o</sup> de contrôle interne de l’assureur N<sup>o</sup> di controllo interno dell’assicuratore</td><td colspan="10">**Versicherungs-Nachweis für Unternehmungen und Veranstaltungen Attestation d’assurance pour entreprises et manifestat****i****ons Attestato d’assicurazione per aziende e manifestazioni**</td><td>Police No Polizza</td></tr>
-<tr><td>**Art. 27**</td><td>VVV OAV</td><td></td><td>**Art. 32**</td><td colspan="3">VVV OAV</td><td></td><td colspan="3">**Art. 33**</td><td>VVV OAV</td><td colspan="2"></td><td colspan="3">**Versicherungsnehmer – Preneur d’assurance – Stipulante**</td></tr>
+<tr><td colspan="6">Interne Kontrollnummer des Versicherers N<sup>o</sup> de contrôle interne de l’assureur N<sup>o</sup> di controllo interno dell’assicuratore</td><td colspan="10">**Versicherungs-Nachweis für Unternehmungen** **und Veranstaltungen** **Attestation d’assurance pour entreprises et manifestations** **Attestato d’assicurazione per aziende e manifestazioni**</td><td>Police No Polizza</td></tr>
+<tr><td>**Art. 27**</td><td>VVV OAV</td><td></td><td>**Art. 32**</td><td colspan="3">VVV OAV</td><td></td><td colspan="3">**Art. 33**</td><td>VVV OAV</td><td colspan="2"></td><td colspan="3">**Versicherungsnehmer –** **Preneur d’assurance – Stipulante**</td></tr>
 <tr><td colspan="2">Unternehmen des Motorfahrzeuggewerbes</td><td></td><td colspan="4">Strassenbaumaschinen</td><td></td><td colspan="4">Werkinterner Verkehr auf öffentlichen Strassen</td><td colspan="2"></td><td colspan="3"></td></tr>
 <tr><td colspan="2">Entreprise de la branche automobile</td><td></td><td colspan="4">Machines pour la construction des routes</td><td></td><td colspan="4">Véhicules d’usine empruntant la voie publique</td><td colspan="2"></td><td colspan="3"></td></tr>
 <tr><td colspan="2">Aziende dell’industria dei veicoli a motore</td><td></td><td colspan="4">Macchine per la costruzione di strade</td><td></td><td colspan="4">Veicoli di fabbrica circolanti su strade pubbliche</td><td colspan="2"></td><td colspan="3"></td></tr>
@@ -1547,7 +1597,7 @@ Zusätzlich bei der Meldung der Ausserverkehrsetzung:
 - – Ausserverkehrsetzungsdatum
 - – Mutationsgrund (Mindestunterscheidung: Depot Kontrollschilder/ übrige Ausserverkehrsetzungsgründe)
 
-Anhang 2*[^t-3]*
+Anhang 2[^t-3]
 
 (Art. 18)
 
@@ -1576,7 +1626,7 @@ Anhang 2*[^t-3]*
 
 \3. Die Kontrollmarken werden von den Kantonen beschafft.
 
-Anhang 3*[^t-4]*
+Anhang 3[^t-4]
 
 (Art. 35 Abs. 3)
 
@@ -1584,9 +1634,9 @@ Anhang 3*[^t-4]*
 
 [^t-4]: Fassung gemäss Ziff. II der V vom 12. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/de/xml/image/image3.png)
 
-Anhang 4*[^t-5]*
+Anhang 4[^t-5]
 
 (Art. 23)
 
@@ -1608,7 +1658,7 @@ Anhang 4*[^t-5]*
 - 1\.22 weitere Kollektiv-Fahrzeugausweise:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/de/xml/image/image4.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/de/xml/image/image4.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem müssen pro Jahr je Kollektiv-Fahrzeugausweis weitere 20 Fahrzeuge hergestellt werden.</td></tr>
 </table>
 
@@ -1641,7 +1691,7 @@ Anhang 4*[^t-5]*
 - 2\.22 weitere Kollektiv-Fahrzeugausweise:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/de/xml/image/image5.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/de/xml/image/image5.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem müssen pro Jahr je Kollektiv-Fahrzeugausweis weitere 20 neue Fahrzeuge importiert werden.</td></tr>
 </table>
 
@@ -1690,7 +1740,7 @@ Anhang 4*[^t-5]*
   - b. für die übrigen Fahrzeugarten:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/de/xml/image/image6.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/de/xml/image/image6.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem müssen pro Jahr je Kollektiv-Fahrzeugausweis weitere</td></tr>
 </table>
 
@@ -1733,7 +1783,7 @@ Anhang 4*[^t-5]*
 - 4\.22 weitere Kollektiv-Fahrzeugausweise:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/de/xml/image/image7.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/de/xml/image/image7.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">der direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem müssen pro Jahr je Kollektiv-Fahrzeugausweis an weiteren 50 Fahrzeugen entgeltliche Reparaturarbeiten ausgeführt werden, die Probe- oder Überführungsfahrten notwendig machen.</td></tr>
 </table>
 
@@ -1767,7 +1817,7 @@ Anhang 4*[^t-5]*
 - 5\.22 weitere Kollektiv-Fahrzeugausweise:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/de/xml/image/image8.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/de/xml/image/image8.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem müssen pro Jahr je Kollektiv-Fahrzeugausweis an weiteren 20 Fahrzeugen entgeltliche Reparaturarbeiten ausgeführt werden, die Probe- oder Überführungsfahrten notwendig machen.</td></tr>
 </table>
 
@@ -1801,7 +1851,7 @@ Anhang 4*[^t-5]*
 - 6\.22 weitere Kollektiv-Fahrzeugausweise:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/de/xml/image/image9.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/de/xml/image/image9.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem müssen pro Jahr je Kollektiv-Fahrzeugausweis an weiteren 30 Fahrzeugen entgeltliche Reparaturarbeiten ausgeführt werden, die Probe- oder Überführungsfahrten notwendig machen.</td></tr>
 </table>
 
@@ -1835,7 +1885,7 @@ Anhang 4*[^t-5]*
 - 7\.22 weitere Kollektiv-Fahrzeugausweise:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/de/xml/image/image10.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/de/xml/image/image10.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem müssen pro Jahr je Kollektiv-Fahrzeugausweis an weiteren 30 Fahrzeugen entgeltliche Reparaturarbeiten ausgeführt werden, die Probe- oder Überführungsfahrten notwendig machen.</td></tr>
 </table>
 
@@ -1869,7 +1919,7 @@ Anhang 4*[^t-5]*
 - 8\.22 weitere Kollektiv-Fahrzeugausweise:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/de/xml/image/image11.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/de/xml/image/image11.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem müssen pro Jahr je Kollektiv-Fahrzeugausweis an weiteren 30 Fahrzeugen entgeltliche Reparaturarbeiten ausgeführt werden, die Probe- oder Überführungsfahrten notwendig machen.</td></tr>
 </table>
 
@@ -1903,7 +1953,7 @@ Anhang 4*[^t-5]*
 - 9\.22 weitere Kollektiv-Fahrzeugausweise:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/de/xml/image/image12.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/de/xml/image/image12.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem müssen pro Jahr je Kollektiv-Fahrzeugausweis an weiteren 30 Fahrzeugen entgeltliche Arbeiten ausgeführt werden, die Probe- oder Überführungsfahrten notwendig machen.</td></tr>
 </table>
 
@@ -1937,7 +1987,7 @@ Anhang 4*[^t-5]*
 - 10\.22 weitere Kollektiv-Fahrzeugausweise:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/de/xml/image/image13.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/de/xml/image/image13.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem müssen pro Jahr je Kollektiv-Fahrzeugausweis an weiteren 50 Fahrzeugen entgeltliche Reparaturarbeiten ausgeführt werden, die Probe- oder Überführungsfahrten notwendig machen.</td></tr>
 </table>
 
@@ -1971,7 +2021,7 @@ Anhang 4*[^t-5]*
 - 11\.22 weitere Kollektiv-Fahrzeugausweise:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/de/xml/image/image14.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/de/xml/image/image14.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem müssen pro Jahr je Kollektiv-Fahrzeugausweis an weiteren 50 Fahrzeugen entgeltliche Arbeiten ausgeführt werden, die Probe- oder Überführungsfahrten notwendig machen.</td></tr>
 </table>
 
@@ -2005,7 +2055,7 @@ Anhang 4*[^t-5]*
 - 12\.22 weitere Kollektiv-Fahrzeugausweise:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/de/xml/image/image15.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/de/xml/image/image15.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem müssen pro Jahr je Kollektiv-Fahrzeugausweis an weiteren 20 Fahrzeugen entgeltliche Arbeiten ausgeführt werden, die Probe- oder Überführungsfahrten notwendig machen.</td></tr>
 </table>
 
@@ -2035,7 +2085,7 @@ Anhang 4*[^t-5]*
 - 13\.22 weitere Kollektiv-Fahrzeugausweise:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/de/xml/image/image16.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/de/xml/image/image16.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem müssen pro Jahr je Kollektiv-Fahrzeugausweis an weiteren 50 Fahrzeugen entgeltliche Arbeiten ausgeführt werden, die Probe- oder Überführungsfahrten notwendig machen.</td></tr>
 </table>
 
@@ -2066,7 +2116,7 @@ Anhang 4*[^t-5]*
 - 14\.22 weitere Kollektiv-Fahrzeugausweise:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/de/xml/image/image17.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/de/xml/image/image17.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem müssen pro Jahr je Kollektiv-Fahrzeugausweis an weiteren 50 Fahrzeugen entgeltliche Arbeiten ausgeführt werden, die Probe- oder Überführungsfahrten notwendig machen.</td></tr>
 </table>
 
@@ -2100,7 +2150,7 @@ Anhang 4*[^t-5]*
 - 15\.22 weitere Kollektiv-Fahrzeugausweise:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/de/xml/image/image18.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/de/xml/image/image18.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem müssen pro Jahr je Kollektiv-Fahrzeugausweis an weiteren 50 Fahrzeugen entgeltliche Arbeiten ausgeführt werden, die Probe- oder Überführungsfahrten notwendig machen.</td></tr>
 </table>
 
@@ -2134,7 +2184,7 @@ Anhang 4*[^t-5]*
 - 16\.22 weitere Kollektiv-Fahrzeugausweise:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/de/xml/image/image19.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/de/xml/image/image19.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem müssen pro Jahr je Kollektiv-Fahrzeugausweis an weiteren 50 Fahrzeugen entgeltliche Arbeiten ausgeführt werden, die Probe- oder Überführungsfahrten notwendig machen.</td></tr>
 </table>
 
@@ -2168,7 +2218,7 @@ Anhang 4*[^t-5]*
 - 17\.22 weitere Kollektiv-Fahrzeugausweise:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/de/xml/image/image20.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/de/xml/image/image20.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem müssen pro Jahr je Kollektiv-Fahrzeugausweis an weiteren 50 Fahrzeugen entgeltliche Arbeiten ausgeführt werden, die Probe- oder Überführungsfahrten notwendig machen.</td></tr>
 </table>
 
@@ -2198,7 +2248,7 @@ Anhang 4*[^t-5]*
 - 18\.22 weitere Kollektiv-Fahrzeugausweise:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/de/xml/image/image21.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/de/xml/image/image21.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem muss der eigene Fahrzeugpark je Kollektiv- Fahrzeugausweis 30 weitere Fahrzeuge umfassen.</td></tr>
 </table>
 
@@ -2226,7 +2276,7 @@ Anhang 4*[^t-5]*
 - 19\.22 weitere Kollektiv-Fahrzeugausweise:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/de/xml/image/image22.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/de/xml/image/image22.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem müssen pro Jahr je Kollektiv-Fahrzeugausweis weitere 20 Fahrzeuge erprobt werden.</td></tr>
 </table>
 
@@ -2249,7 +2299,7 @@ Anhang 4*[^t-5]*
 
 Betrieben, die in mehreren Betriebsarten tätig sind, deren Betriebsumfang je Betriebsart jedoch die geforderte Mindestgrösse nicht erreicht, kann ein Kollektiv-Fahrzeugausweis abgegeben werden, wenn der gesamte Betriebsumfang den für eine Betriebsart allein vorgeschriebenen Mindestumfang erreicht und die Räumlichkeiten und Betriebseinrichtungen den Anforderungen für jede einzelne Betriebsart insgesamt entsprechen.
 
-Anhang 5*[^t-6]*
+Anhang 5[^t-6]
 
 (Art. 10*b*)
 
@@ -2287,7 +2337,7 @@ Anhang 5*[^t-6]*
 <tr><td>Datum:</td><td></td><td>Unterschrift (Halter/in):</td><td></td></tr>
 </table>
 
-*Hinweis:* Das wahrheitsgemäss ausgefüllte Formular ist nach Artikel 10*b* Absatz 1 der Verkehrsversicherungsverordnung in Fahrzeugen, welche vor der Erteilung des Fahrzeugausweises verwendet werden dürfen, mitzuführen. Die *vorläufige Ve**r**kehrsberechtigung* gilt für Fahrten in der Schweiz bis zur Zustellung des Fahrzeugausweises, längstens aber 30 Tage ab Gültigkeitsbeginn des Versicherungsnachweises. Sie gilt nicht für Motorfahrzeuge und Anhänger, die provisorisch immatrikuliert sind oder mit Tagesausweisen verwendet werden.
+*Hinweis:* Das wahrheitsgemäss ausgefüllte Formular ist nach Artikel 10*b* Absatz 1 der Verkehrsversicherungsverordnung in Fahrzeugen, welche vor der Erteilung des Fahrzeugausweises verwendet werden dürfen, mitzuführen. Die *vorläufige Verkehrsberechtigung* gilt für Fahrten in der Schweiz bis zur Zustellung des Fahrzeugausweises, längstens aber 30 Tage ab Gültigkeitsbeginn des Versicherungsnachweises. Sie gilt nicht für Motorfahrzeuge und Anhänger, die provisorisch immatrikuliert sind oder mit Tagesausweisen verwendet werden.
 
 [^annex5-lvlu1-1]: Leistungsabhängige Schwerverkehrsabgabe
 [^annex5-lvlu1-2]: [SR 641.811](https://fedlex.data.admin.ch/eli/cc/2024/150)

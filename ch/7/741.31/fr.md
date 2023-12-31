@@ -4,31 +4,31 @@ title: "Ordonnance du 20 novembre 1959 sur l'assurance des véhicules (OAV)"
 short: OAV
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317"
 language: fr
-version: 2022-01-01
+version: 2024-01-01
 adopted: 1959-11-20
 in_force: 1959-11-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1959-1271_1321_1317-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1959-1271_1321_1317-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur l’assurance des véhicules
 
-(OAV)**[^t-1]**
+(OAV)[^t-1]
 
-du 20 novembre 1959 (Etat le 1<sup>er</sup> janvier 2022)
+du 20 novembre 1959 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 6 oct. 1980, en vigueur depuis le 1<sup>er</sup> janv. 1981 ([RO 1980 1511](https://fedlex.data.admin.ch/eli/oc/1980/1511_1511_1511)). Selon la même disp., les art. intercalaires bis ont été remplacés par des art. *a* dans tout le texte.
 
 Le Conseil fédéral suisse,
 
-vu les art. 25, 64, 67, al. 3, 70, al. 3, 72, al. 1, 74, al. 3, 76, al. 3 et 5, 76*a*, al. 5, 76*b*, al. 5, 79*a,* al. 2 et 3, 89, al. 1 et 2, 106, al. 1, et 108, de la loi fédérale du 19 décembre 1958 sur la circulation routière (LCR)[^ingress-1] (dénommée ci-après «la loi»),[^ingress-2]
+vu les art. 25, 64, 67, al. 3, 70, al. 3, 72, al. 1, 74, al. 3, 76, al. 5 et 7, 76*a,* al. 5, 76*b,* al. 5, 79*a,* al. 2 et 3, 89, al. 1 et 2, 106, al. 1, et 108 de la loi du 19 décembre 1958 sur la circulation routière (LCR)[^ingress-1],[^ingress-2]
 
 arrête:
 
 [^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 14 janv. 2004, en vigueur depuis le 1<sup>er</sup> mars 2004 ([RO 2004 649](https://fedlex.data.admin.ch/eli/oc/2004/57)).
+[^ingress-2]: Nouvelle teneur selon le ch. III 1 de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 ## Première partie Dispositions générales
 
@@ -56,7 +56,7 @@ arrête:
 
 ## Deuxième partie Assurance-responsabilité civile des véhicules automobiles
 
-### Chapitre 1 Assurance minimale et dispositions communes****
+### Chapitre 1 Assurance minimale et dispositions communes
 
 [^part2-chap1-1]
 
@@ -194,7 +194,7 @@ Les attestations d’assurance peuvent être établies:
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4691](https://fedlex.data.admin.ch/eli/oc/2013/826)).
 
-### III. Véhicules de remplacement et autorisation provisoire de circuler****
+### III. Véhicules de remplacement et autorisation provisoire de circuler
 
 [^part2-chap1-lvlIII-1]
 
@@ -513,8 +513,8 @@ Outre aux véhicules visés à l’al. 1, il est permis de fixer:[^22-5]
 [^22-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 1992, en vigueur depuis le 1<sup>er</sup> août 1992 ([RO 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
 [^22-4]: Nouvelle expression selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 249](https://fedlex.data.admin.ch/eli/oc/2019/43)). Il a été tenu compte de cette mod. dans tout le texte.
 [^22-5]: Nouvelle teneur selon le ch. I de l’O du 11 avr. 2001, en vigueur depuis le 1<sup>er</sup> juin 2001 ([RO 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
-[^22-6]: Nouvelle teneur selon l’annexe 1 ch. II 6 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)). Erratum du 24 sept. 2021, ne concerne que le texte italien ([RO 2021 578](https://fedlex.data.admin.ch/eli/oc/2021/578)).
-[^22-7]: Nouvelle teneur selon l’annexe 1 ch. II 6 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)). Erratum du 24 sept. 2021, ne concerne que le texte italien ([RO 2021 578](https://fedlex.data.admin.ch/eli/oc/2021/578)).
+[^22-6]: Nouvelle teneur selon l’annexe 1 ch. II 6 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^22-7]: Nouvelle teneur selon l’annexe 1 ch. II 6 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^22-8]: Nouvelle teneur selon l’annexe 1 ch. II 6 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^22-9]: Introduite par le ch. I de l’O du 11 avr. 2001, en vigueur depuis le 1<sup>er</sup> juin 2001 ([RO 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
 [^22-10]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 1992, en vigueur depuis le 1<sup>er</sup> août 1992 ([RO 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
@@ -721,7 +721,7 @@ Dans des cas particuliers, les cantons peuvent proposer au Conseil fédéral:
 
 <sup>2</sup> L’art. 29 de la présente ordonnance est applicable par analogie.
 
-## Troisième partie**** Assurance-responsabilité civile des véhicules automobiles de puissance ou de vitesse minimes
+## Troisième partie Assurance-responsabilité civile des véhicules automobiles de puissance ou de vitesse minimes
 
 [^part3-1]
 
@@ -774,7 +774,7 @@ Tous les bureaux de distribution doivent transmettre la carte d’assurance dûm
 
 <sup>4</sup> L’autorité cantonale doit conserver les informations communiquées par les bureaux de distribution conformément à l’al. 3 encore cinq ans après l’expiration de la validité de la vignette.
 
-### II. Voitures à bras, monoaxes, cyclomoteurs légers et fauteuils roulants****
+### II. Voitures à bras, monoaxes, cyclomoteurs légers et fauteuils roulants
 
 [^part3-lvlII-1]
 
@@ -798,20 +798,20 @@ Les utilisateurs des véhicules automobiles ci-après ne sont pas soumis à l’
 [^38-1]: La mod. du 15 avr. 2015 ne concerne que les textes allemand et italien ([RO 2015 1319](https://fedlex.data.admin.ch/eli/oc/2015/276)).
 [^38-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-## Quatrième partie**** Bureau national d’assurance et Fonds national de garantie****
+## Quatrième partie Bureau national d’assurance et Fonds national de garantie
 
 [^part4-1][^part4-2]
 
 [^part4-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 5465](https://fedlex.data.admin.ch/eli/oc/1995/5465_5465_5465)).
 [^part4-2]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2002, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
 
-### Chapitre 1 Bureau national d’assurance****
+### Chapitre 1 Bureau national d’assurance
 
 [^part4-chap1-1]
 
 [^part4-chap1-1]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2002, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
 
-### I. Véhicules automobiles et remorques étrangers****
+### I. Véhicules automobiles et remorques étrangers
 
 [^part4-chap1-lvlI-1]
 
@@ -973,7 +973,7 @@ Pour garantir le droit à l’indemnisation des dommages causés par un véhicul
 
 [^49-1]: [RO 1996 1022](https://fedlex.data.admin.ch/eli/oc/1996/_1022_)
 
-### II.**** Organisme d’information
+### II. Organisme d’information
 
 [^part4-chap1-lvlII-1]
 
@@ -1024,13 +1024,13 @@ L’organisme d’information fournit aux lésés et aux assurances sociales les
 
 [^49d-1]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
 
-### Chapitre 2 Fonds national de garantie****
+### Chapitre 2 Fonds national de garantie
 
 [^part4-chap2-1]
 
 [^part4-chap2-1]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
 
-### I. …****
+### I. …
 
 [^part4-chap2-lvlI-1]
 
@@ -1048,7 +1048,7 @@ L’organisme d’information fournit aux lésés et aux assurances sociales les
 
 [^51-1]: Abrogé par le ch. I de l’O du 9 déc. 2002, avec effet au 1<sup>er</sup> fév. 2003 ([RO 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
 
-### II. Véhicules et engins assimilés à des véhicules qui sont inconnus ou non assurés****
+### II. Véhicules et engins assimilés à des véhicules qui sont inconnus ou non assurés
 
 [^part4-chap2-lvlII-1]
 
@@ -1060,7 +1060,7 @@ L’organisme d’information fournit aux lésés et aux assurances sociales les
 
 <sup>1</sup>
 
-Lorsqu’un lésé veut obtenir, en vertu de l’art. 76, al. 2, let. a, de la loi, la réparation du dommage, il doit:[^52-1]
+Si un lésé veut obtenir la réparation du dommage en vertu de l’art. 76, al. 3, let. a, LCR, il doit:[^52-1]
 
 - a.[^52-2] annoncer sans délai le sinistre au Fonds national de garantie et lui donner toutes les indications permettant d’identifier l’auteur du dommage et les personnes responsables;
 - b. attester qu’un rapport de police a été établi.
@@ -1071,7 +1071,7 @@ Lorsqu’un lésé veut obtenir, en vertu de l’art. 76, al. 2, let. a, de la l
 
 <sup>4</sup> Lorsque l’auteur du dommage ne dispose pas d’une assurance-responsabilité civile tenue à indemnisation ou que l’absence de celle-ci est contestée, le Fonds national de garantie doit indemniser le lésé de façon anticipée.[^52-5]
 
-[^52-1]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2002, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^52-1]: Nouvelle teneur selon le ch. III 1 de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 [^52-2]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2002, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
 [^52-3]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
 [^52-4]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2007, en vigueur depuis le 1<sup>er</sup> juil. 2007 ([RO 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
@@ -1081,7 +1081,7 @@ Lorsqu’un lésé veut obtenir, en vertu de l’art. 76, al. 2, let. a, de la l
 
 **Obligation de réparer les dommages**[^53-1]
 
-<sup>1</sup> Le Fonds national de garantie a l’obligation de couvrir les dommages, conformément à l’art. 76, al. 2, let. a, de la loi. Il délègue cette tâche à une société membre, à un assureur apériteur ou à une entreprise de règlement des sinistres (délégués).
+<sup>1</sup> Le Fonds national de garantie est compétent pour couvrir les dommages conformément à l’art. 76, al. 3, let. a, LCR. Il délègue cette tâche à une société membre, à un assureur apériteur ou à une entreprise de règlement des sinistres (délégué).[^53-2]
 
 <sup>2</sup> Le Fonds national de garantie désigne son délégué en tenant compte des conventions internationales de coopération.
 
@@ -1104,6 +1104,7 @@ Le délégué doit communiquer au Fonds national de garantie les indications né
 <sup>6</sup> Le Fonds national de garantie retire le règlement d’un cas au délégué selon l’al. 4, si celui-ci ne le restitue pas de lui-même.
 
 [^53-1]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2002, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^53-2]: Nouvelle teneur selon le ch. III 1 de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 53a
 
@@ -1121,7 +1122,7 @@ Le Fonds national de garantie couvre la responsabilité civile pour les dommages
 
 **Lésés étrangers**[^54-1]
 
-<sup>1</sup> Les lésés qui ne sont pas citoyens suisses et qui n’avaient pas leur domicile en Suisse au moment de l’accident ne bénéficient pas de la réparation du dommage prévue à l’art. 76. al. 2, let. a, de la loi ainsi qu’aux art. 50 à 53 de la présente ordonnance.
+<sup>1</sup> Les lésés qui ne sont pas citoyens suisses et qui n’avaient pas leur domicile en Suisse au moment de l’accident ne bénéficient pas de la réparation des dommages prévue à l’art. 76, al. 3, let. a, LCR ainsi qu’aux art. 52 et 53 de la présente ordonnance.[^54-2]
 
 <sup>2</sup>
 
@@ -1132,8 +1133,9 @@ Sont réservés:
 - c. d’autres cas où la réciprocité a été accordée.
 
 [^54-1]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2002, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^54-2]: Nouvelle teneur selon le ch. III 1 de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
-### III.**** Organisme d’indemnisation
+### III. Organisme d’indemnisation
 
 [^part4-chap2-lvlIII-1]
 
@@ -1159,21 +1161,69 @@ Lorsqu’il reçoit des demandes d’indemnisation (art. 79*d* de la loi), l’o
 
 [^54a-1]: [RO 2011 4997](https://fedlex.data.admin.ch/eli/oc/2011/725)
 
-### IV.**** Insolvabilité de l’assureur
+### IV. Assainissement et faillite de l’assureur
 
 [^part4-chap2-lvlIV-1]
 
-[^part4-chap2-lvlIV-1]: Introduit par le ch. I de l’O du 9 déc. 2002, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^part4-chap2-lvlIV-1]: Introduit par le ch. I de l’O du 9 déc. 2002 ([RO 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)). Nouvelle teneur selon le ch. III 1 de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 54a<sup>bis</sup>
+
+**Assainissement**
+
+<sup>1</sup> Si la FINMA homologue un plan d’assainissement au sens de l’art. 52*j* de la loi du 17 décembre 2004 sur la surveillance des assurances (LSA)[^54abis-1], qui prévoit une réduction des paiements en règlement du dommage découlant de l’assurance-responsabilité civile pour véhicules automobiles, elle doit communiquer l’homologation correspondante au Fonds national de garantie avec l’annonce publique du plan d’assainissement.
+
+<sup>2</sup> Le Fonds national de garantie est en droit de consulter le dossier de la procédure d’assainissement, s’agissant notamment du portefeuille d’assurance-responsabilité civile pour véhicules automobiles.
+
+<sup>3</sup> L’assureur visé par l’assainissement règle de manière autonome les sinistres relevant de la responsabilité civile pour véhicules automobiles concernés par la réduction. Sous réserve de l’al. 4, il verse les prestations non réduites aux lésés et aux assureurs privés et sociaux qui exercent une action récursoire. Le Fonds national de garantie prend en charge le montant dont les prestations auraient dû être réduites conformément à la décision d’assainissement.
+
+<sup>4</sup> Le Fonds national de garantie met à la disposition de l’assureur visé par l’assainissement, à sa demande et à l’avance une fois par trimestre, les ressources requises dont il a besoin pour s’acquitter du montant à la charge du Fonds national de garantie. À la fin de chaque trimestre, l’assureur visé par l’assainissement établit un décompte des montants effectivement versés. Un solde éventuel est reversé au Fonds national de garantie.
+
+<sup>5</sup> Si le Bureau national d’assurance doit prendre en charge des sinistres provoqués à l’étranger par des véhicules ou des remorques assurés auprès d’un assureur suisse envers lequel une procédure d’assainissement déclenchant des prestations du Fonds de garantie a été ouverte, il exerce une action récursoire contre cet assureur. Celui-ci règle l’action récursoire de la même manière qu’en cas de créance directe de tiers lésé.
+
+[^54abis-1]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
 
 #### Art. 54b
 
-<sup>1</sup> Lorsqu’une institution d’assurance suisse autorisée à exercer l’assu-rance responsabilité civile pour les véhicules automobiles tombe en faillite, le Fonds national de garantie assume la responsabilité des dommages.
+**Faillite**
 
-<sup>2</sup> L’Autorité fédérale de surveillance des marchés financiers règle les modalités dans les cas particuliers.
+<sup>1</sup> Le Fonds national de garantie verse aux personnes lésées ou aux assureurs privés et sociaux exerçant une action récursoire, moyennant la remise de l’acte de défaut de biens, la part des prétentions se rapportant aux sinistres couverts relevant de la responsabilité civile pour véhicules automobiles pour laquelle l’administration de la faillite a établi un acte de défaut de biens.
 
-<sup>3</sup> Lorsque le Bureau national d’assurance répare un dommage causé à l’étranger par un véhicule automobile ou une remorque assurés auprès d’un assureur suisse, et que cet assureur tombe en faillite, il exerce une action récursoire contre le Fonds national de garantie.
+<sup>2</sup>
 
-### V.**** Manifestations cyclistes organisées à l’étranger
+Il procède, à la demande d’une personne lésée, à un règlement anticipé de ses prétentions au sens de l’art. 76, al. 4, let. a, LCR et lui verse le montant encore dû lorsque la personne lésée:
+
+- a. reçoit, avant l’entrée en force du plan de collocation, des prestations de la masse en faillite sur la base de l’art. 54*a*<sup>bis</sup>, al. 2, LSA[^54b-1];
+- b. a reçu de l’administration de la faillite communication du montant pour lequel ses prétentions doivent être inscrites dans le plan de collocation, et
+- c. si elle donne son accord écrit au règlement de son dommage sur la base du montant communiqué par l’administration de la faillite.
+
+<sup>3</sup> Les assureurs privés et sociaux qui exercent une action récursoire n’ont pas droit au règlement anticipé.
+
+<sup>4</sup> Si le Bureau national d’assurance doit prendre en charge les sinistres provoqués à l’étranger par des véhicules ou des remorques assurés auprès d’une institution d’assurance suisse sur laquelle la faillite a été ouverte, il exerce une action récursoire contre l’assureur failli. Une défaillance éventuelle peut être invoquée vis-à-vis du Fonds national de garantie.
+
+[^54b-1]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+
+#### Art. 54b<sup>bis</sup>
+
+**Dispositions communes pour les procédures d’assainissement et de faillite**
+
+<sup>1</sup> Dans les procédures d’assainissement et de faillite, le Fonds de garantie couvre les défaillances des assurances-responsabilité civile pour véhicules automobiles jusqu’à concurrence de 700 millions de francs suisses.
+
+<sup>2</sup> Après l’ouverture d’une procédure d’assainissement ou de faillite, les paiements à verser dans le cadre de la procédure sont imputés, pendant 5 ans à compter de l’ouverture de la procédure d’assainissement ou de faillite, à la limite supérieure de responsabilité prévue à l’al. 1.
+
+<sup>3</sup> Si, dans le délai fixé à l’al. 2, plusieurs procédures d’assainissement ou de faillite sont ouvertes, l’ordre dans lequel le Fonds de garantie est sollicité est déterminé par la date de l’ouverture de la procédure d’assainissement ou de faillite pour tous les paiements découlant de la procédure en question.
+
+<sup>4</sup> Si les prestations devant être assumées dans le cadre d’une procédure d’assainissement ou de faillite dépasseront probablement le montant disponible conformément aux al. 1 à 3 pour cette procédure d’assainissement ou de faillite, les prestations dévolues aux divers cas de sinistre à l’intérieur de chaque procédure d’assainissement ou de faillite sont réduites à parts égales pour tous les ayants droit de manière à ne pas dépasser ce montant au total.
+
+<sup>5</sup> Le Fonds national de garantie doit soumettre à la FINMA pour approbation la proportion dans laquelle les prestations du Fonds national de garantie sont réduites.
+
+<sup>6</sup> La FINMA publie son approbation dans la Feuille fédérale et informe les assureurs concernés.
+
+<sup>7</sup> Pour assumer la couverture conformément à l’al. 1, le Bureau national d’assurance et le Fonds national de garantie prélèvent des contributions en vertu de l’art. 58. Le financement est assuré à l’avance dans un délai approprié jusqu’à ce que le montant prévu à l’al. 1 soit intégralement disponible. Si la couverture est sollicitée avant que les ressources ne soient disponibles dans la mesure nécessaire, celles-ci sont perçues ultérieurement par des contributions au sens de l’art. 58.
+
+<sup>8</sup> Les ressources du Fonds de garantie doivent être investies avec prudence et de manière à maintenir leur valeur et elles doivent être rapidement disponibles en cas d’événement.
+
+### V. Manifestations cyclistes organisées à l’étranger
 
 [^part4-chap2-lvlV-1]
 
@@ -1183,7 +1233,7 @@ Lorsqu’il reçoit des demandes d’indemnisation (art. 79*d* de la loi), l’o
 
 L’autorisation exigée pour une manifestation cycliste organisée à l’étranger et se déroulant en partie sur le territoire suisse ne peut être accordée par le canton concerné que lorsque l’assureur en responsabilité civile compétent apporte la preuve d’une couverture suffisante en cas de dommages.
 
-### Chapitre 3 Dispositions communes au bureau national d’assurance et au Fonds national de garantie****
+### Chapitre 3 Dispositions communes au bureau national d’assurance et au Fonds national de garantie
 
 [^part4-chap3-1]
 
@@ -1264,7 +1314,7 @@ Pour la coordination des prestations des assurances sociales avec celles du Bure
 [^59c-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^59c-3]: [RO 2004 1631](https://fedlex.data.admin.ch/eli/oc/2004/199)
 
-## Cinquième partie**** Dispositions pénales
+## Cinquième partie Dispositions pénales
 
 [^part5-1]
 
@@ -1306,14 +1356,14 @@ Lorsque les autorités douanières supposent que des plaques pourraient servir �
 [^60-6]: Nouvelle teneur de la phrase selon le ch. I de l’O du 11 avr. 2001, en vigueur depuis le 1<sup>er</sup> juin 2001 ([RO 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
 [^60-7]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 1975, en vigueur depuis le 1<sup>er</sup> janv. 1976 ([RO 1975 1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)).
 
-## Sixième partie**** Dispositions finales****
+## Sixième partie Dispositions finales
 
 [^part6-1][^part6-2]
 
 [^part6-1]: Anciennement 8<sup>e</sup> partie.
 [^part6-2]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2007, en vigueur depuis le 1<sup>er</sup> juil. 2007 ([RO 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
 
-### Chapitre 1 Entrée en vigueur****
+### Chapitre 1 Entrée en vigueur
 
 [^part6-chap1-1]
 
@@ -1347,7 +1397,7 @@ Lorsque les autorités douanières supposent que des plaques pourraient servir �
 
 [^7376-1]: Abrogés par le ch. I de l’O du 28 mars 2007, avec effet au 1<sup>er</sup> juil. 2007 ([RO 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
 
-### Chapitre 2 Exceptions, instructions****
+### Chapitre 2 Exceptions, instructions
 
 [^part6-chap2-1]
 
@@ -1376,25 +1426,25 @@ Lorsque les autorités douanières supposent que des plaques pourraient servir �
 
 [^77-1]: Introduit par le ch. I de l’O du 22 nov. 1995 ([RO 1995 5465](https://fedlex.data.admin.ch/eli/oc/1995/5465_5465_5465)). Abrogé par le ch. I de l’O du 29 nov. 2006, avec effet au 1<sup>er</sup> fév. 2007 ([RO 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
 
-## Dispositions finales de la modification du 15 octobre 1975****
+## Dispositions finales de la modification du 15 octobre 1975
 
 [^u1-1]
 
 [^u1-1]: Abrogées par le ch. I de l’O du 28 mars 2007, avec effet au 1<sup>er</sup> juil. 2007 ([RO 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
 
-## Disposition finale de la modification du 24 mai 1989****
+## Disposition finale de la modification du 24 mai 1989
 
 [^u2-1]
 
 [^u2-1]: Abrogée par le ch. I de l’O du 28 mars 2007, avec effet au 1<sup>er</sup> juil. 2007 ([RO 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
 
-## Dispositions finales de la modification du 1<sup>er</sup> juillet 1992****
+## Dispositions finales de la modification du 1<sup>er</sup> juillet 1992
 
 [^u3-1]
 
 [^u3-1]: Abrogées par le ch. I de l’O du 28 mars 2007, avec effet au 1<sup>er</sup> juil. 2007 ([RO 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
 
-## Dispositions finales de la modification du 14 janvier 2004****
+## Dispositions finales de la modification du 14 janvier 2004
 
 [^u4-1]
 
@@ -1406,7 +1456,7 @@ Lorsque les autorités douanières supposent que des plaques pourraient servir �
 
 <sup>3</sup> Les augmentations de primes visées à l’al. 2 doivent être notifiées par écrit à l’assuré 30 jours au plus tard avant leur entrée en vigueur. L’assuré a ensuite le droit de résilier le contrat. L’assureur est tenu de mentionner ce droit de résiliation dans la notification de l’augmentation de la prime. La résiliation est valable si elle parvient à l’assureur au plus tard la veille de l’entrée en vigueur de l’augmentation de la prime.
 
-## Disposition transitoire de la modification du 29 novembre 2006****
+## Disposition transitoire de la modification du 29 novembre 2006
 
 [^u5-1]
 
@@ -1414,7 +1464,7 @@ Lorsque les autorités douanières supposent que des plaques pourraient servir �
 
 Les attestations d’assurance peuvent être établies en version papier jusqu’au 31 décembre 2008.
 
-## Disposition transitoire de la modification du 12 octobre 2011****
+## Disposition transitoire de la modification du 12 octobre 2011
 
 [^u6-1]
 
@@ -1424,7 +1474,7 @@ Les attestations d’assurance peuvent être établies en version papier jusqu�
 
 <sup>2</sup> Les cantons veillent à ce qu’une liste des codes permettant d’identifier les compagnies d’assurance-responsabilité civile soit accessible à tous auprès de la police au moins jusqu’au 31 décembre 2012.
 
-Annexe 1*[^t-2]*
+Annexe 1[^t-2]
 
 (art. 3*a*, al. 4 et 4, al. 3)
 
@@ -1515,7 +1565,7 @@ Annexe 1*[^t-2]*
 
 <table>
 <tr><td colspan="6">Interne Kontrollnummer des Versicherers N<sup>o</sup> de contrôle interne de l’assureur N<sup>o</sup> di controllo interno dell’assicuratore</td><td colspan="10">Versicherungs-Nachweis für Unternehmnungen und Veranstaltungen Attestation d’assurance pour entreprises et manifestations Attestato d’assicurazione per aziende e manifestazioni</td><td>Police No Polizza</td></tr>
-<tr><td>**Art. 27**</td><td>VVV OAV</td><td></td><td>**Art. 32**</td><td colspan="3">VVV OAV</td><td></td><td colspan="3">**Art. 33**</td><td>VVV OAV</td><td colspan="2"></td><td colspan="3">**Versicherungsnehmer – Preneur d’assurance – Stipulante**</td></tr>
+<tr><td>**Art. 27**</td><td>VVV OAV</td><td></td><td>**Art. 32**</td><td colspan="3">VVV OAV</td><td></td><td colspan="3">**Art. 33**</td><td>VVV OAV</td><td colspan="2"></td><td colspan="3">**Versicherungsnehmer –** **Preneur d’assurance – Stipulante**</td></tr>
 <tr><td colspan="2">Unternehmen des Motorfahrzeug- gewerbes</td><td></td><td colspan="4">Strassenbaumaschinen</td><td></td><td colspan="4">Werkinterner Verkehr auf öffentlichen Strassen</td><td colspan="2"></td><td colspan="3"></td></tr>
 <tr><td colspan="2">Entreprise de la branche automobile</td><td></td><td colspan="4">Machines pour la construction des routes</td><td></td><td colspan="4">Véhicules d’usine empruntant la voie publique</td><td colspan="2"></td><td colspan="3"></td></tr>
 <tr><td colspan="2">Aziende dell’industria dei veicoli a motore</td><td></td><td colspan="4">Macchine per la costruzione di strade</td><td></td><td colspan="4">Veicoli di fabbrica circolanti su strade pubbliche</td><td colspan="2"></td><td colspan="3"></td></tr>
@@ -1545,7 +1595,6 @@ Annexe 1*[^t-2]*
 - – nom, code et adresse de l’assureur
 - – numéro de la police
 - – date de l’avis à l’assureur
-- [tab]
 
 Doivent en outre figurer sur l’avis de contrôle:
 
@@ -1557,7 +1606,7 @@ Doivent en outre figurer sur l’avis de retrait de la circulation:
 - – la date du retrait de la circulation;
 - – le motif de la mutation (différenciation minimale: dépôt des plaques de contrôle/autres motifs de retrait de la circulation).
 
-Annexe 2*[^t-3]*
+Annexe 2[^t-3]
 
 (art. 18)
 
@@ -1586,7 +1635,7 @@ Annexe 2*[^t-3]*
 
 \3. Il incombe aux cantons de se procurer les vignettes.
 
-Annexe 3*[^t-4]*
+Annexe 3[^t-4]
 
 (art. 35, al. 3)
 
@@ -1594,9 +1643,9 @@ Annexe 3*[^t-4]*
 
 [^t-4]: Nouvelle teneur selon le ch. II de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/fr/xml/image/image3.png)
 
-Annexe 4*[^t-5]*
+Annexe 4[^t-5]
 
 (art. 23)
 
@@ -1619,7 +1668,7 @@ Annexe 4*[^t-5]*
 - 1\.22 des permis de circulation collectifs supplémentaires:
 
 <table>
-<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/fr/xml/image/image4.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/fr/xml/image/image4.png)</td><td>, y étant égal au nom-</td></tr>
 <tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, 20 véhicules supplémentaires devront être construits annuellement pour chaque permis de circulation collectif.</td></tr>
 </table>
 
@@ -1653,7 +1702,7 @@ Annexe 4*[^t-5]*
 - 2\.22 permis de circulation collectifs supplémentaires:
 
 <table>
-<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/fr/xml/image/image5.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/fr/xml/image/image5.png)</td><td>, y étant égal au nom-</td></tr>
 <tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, 20 véhicules neufs devront être importés annuellement pour chaque permis de circulation collectif.</td></tr>
 </table>
 
@@ -1701,7 +1750,7 @@ Annexe 4*[^t-5]*
   - a. pour les voitures automobiles légères: un permis de circulation collectif pour chaque série de 40 voitures automobiles légères vendues par an;
   - b. pour les autres genres de véhicules:
 
-nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/fr/xml/image/image6.png) , y étant égal au nom- bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, les véhicules supplémentaires suivants devront être vendus annuellement pour chaque permis de circulation collectif:
+nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/fr/xml/image/image6.png) , y étant égal au nom- bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, les véhicules supplémentaires suivants devront être vendus annuellement pour chaque permis de circulation collectif:
 
 - – 10 voitures automobiles lourdes
 - – 30 motocycles
@@ -1742,7 +1791,7 @@ nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/
 - 4\.22 permis de circulation collectifs supplémentaires:
 
 <table>
-<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/fr/xml/image/image7.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/fr/xml/image/image7.png)</td><td>, y étant égal au nom-</td></tr>
 <tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux de réparation payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement pour chaque permis de circulation collectif, sur 50 véhicules supplémentaires.</td></tr>
 </table>
 
@@ -1776,7 +1825,7 @@ nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/
 - 5\.22 permis de circulation collectifs supplémentaires:
 
 <table>
-<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/fr/xml/image/image8.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/fr/xml/image/image8.png)</td><td>, y étant égal au nom-</td></tr>
 <tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux de réparation payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif. sur 20 véhicules supplémentaires.</td></tr>
 </table>
 
@@ -1810,7 +1859,7 @@ nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/
 - 6\.22 permis de circulation collectifs supplémentaires:
 
 <table>
-<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/fr/xml/image/image9.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/fr/xml/image/image9.png)</td><td>, y étant égal au nom-</td></tr>
 <tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux de réparation payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif, sur 30 véhicules supplémentaires.</td></tr>
 </table>
 
@@ -1844,7 +1893,7 @@ nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/
 - 7\.22 permis de circulation collectifs supplémentaires:
 
 <table>
-<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/fr/xml/image/image10.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/fr/xml/image/image10.png)</td><td>, y étant égal au nom-</td></tr>
 <tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux de réparation payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif, sur 30 véhicules supplémentaires.</td></tr>
 </table>
 
@@ -1878,7 +1927,7 @@ nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/
 - 8\.22 permis de circulation collectifs supplémentaires:
 
 <table>
-<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/fr/xml/image/image11.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/fr/xml/image/image11.png)</td><td>, y étant égal au nom-</td></tr>
 <tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux de réparation payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif, sur 30 véhicules supplémentaires.</td></tr>
 </table>
 
@@ -1912,7 +1961,7 @@ nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/
 - 9\.22 permis de circulation collectifs supplémentaires:
 
 <table>
-<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/fr/xml/image/image12.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/fr/xml/image/image12.png)</td><td>, y étant égal au nom-</td></tr>
 <tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif, sur 30 véhicules supplémentaires.</td></tr>
 </table>
 
@@ -1946,7 +1995,7 @@ nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/
 - 10\.22 permis de circulation collectifs supplémentaires:
 
 <table>
-<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/fr/xml/image/image13.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/fr/xml/image/image13.png)</td><td>, y étant égal au nom-</td></tr>
 <tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux de réparation payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif, sur 50 véhicules supplémentaires.</td></tr>
 </table>
 
@@ -1981,7 +2030,7 @@ nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/
 - 11\.22 permis de circulation collectifs supplémentaires:
 
 <table>
-<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/fr/xml/image/image14.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/fr/xml/image/image14.png)</td><td>, y étant égal au nom-</td></tr>
 <tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif, sur 50 véhicules supplémentaires.</td></tr>
 </table>
 
@@ -2015,7 +2064,7 @@ nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/
 - 12\.22 permis de circulation collectifs supplémentaires:
 
 <table>
-<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/fr/xml/image/image15.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/fr/xml/image/image15.png)</td><td>, y étant égal au nom-</td></tr>
 <tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directe ment liée au secteur des véhicules automobiles. En outre, des travaux payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif, sur 20 véhicules supplémentaires.</td></tr>
 </table>
 
@@ -2048,7 +2097,7 @@ nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/
 - 13\.22 permis de circulation collectifs supplémentaires:
 
 <table>
-<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/fr/xml/image/image16.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/fr/xml/image/image16.png)</td><td>, y étant égal au nom-</td></tr>
 <tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif, sur 50 véhicules supplémentaires.</td></tr>
 </table>
 
@@ -2082,7 +2131,7 @@ nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/
 - 14\.22 permis de circulation collectifs supplémentaires:
 
 <table>
-<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/fr/xml/image/image17.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/fr/xml/image/image17.png)</td><td>, y étant égal au nom-</td></tr>
 <tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif, sur 50 véhicules supplémentaires.</td></tr>
 </table>
 
@@ -2116,7 +2165,7 @@ nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/
 - 15\.22 permis de circulation collectifs supplémentaires:
 
 <table>
-<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/fr/xml/image/image18.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/fr/xml/image/image18.png)</td><td>, y étant égal au nom-</td></tr>
 <tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif, sur 50 véhicules supplémentaires.</td></tr>
 </table>
 
@@ -2150,7 +2199,7 @@ nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/
 - 16\.22 permis de circulation collectifs supplémentaires:
 
 <table>
-<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/fr/xml/image/image19.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/fr/xml/image/image19.png)</td><td>, y étant égal au nom-</td></tr>
 <tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif, sur 50 véhicules supplémentaires.</td></tr>
 </table>
 
@@ -2184,7 +2233,7 @@ nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/
 - 17\.22 permis de circulation collectifs supplémentaires:
 
 <table>
-<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/fr/xml/image/image20.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/fr/xml/image/image20.png)</td><td>, y étant égal au nom-</td></tr>
 <tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, des travaux payants, qui nécessitent des courses de transfert ou d’essai, devront être réalisés annuellement, pour chaque permis de circulation collectif, sur 50 véhicules supplémentaires.</td></tr>
 </table>
 
@@ -2217,7 +2266,7 @@ nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/
 - 18\.22 permis de circulation collectifs supplémentaires:
 
 <table>
-<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/fr/xml/image/image21.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/fr/xml/image/image21.png)</td><td>, y étant égal au nom-</td></tr>
 <tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, le parc de véhicules de l’entreprise doit comprendre, pour chaque permis de circulation collectif, 30 véhicules supplémentaires.</td></tr>
 </table>
 
@@ -2249,7 +2298,7 @@ nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/
 - 19\.22 permis de circulation collectifs supplémentaires:
 
 <table>
-<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/fr/xml/image/image22.png)</td><td>, y étant égal au nom-</td></tr>
+<tr><td></td><td>nombre des permis de circulation collectifs</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240101/fr/xml/image/image22.png)</td><td>, y étant égal au nom-</td></tr>
 <tr><td></td><td colspan="3">bre des personnes qui occupent, à titre principal, une activité directement liée au secteur des véhicules automobiles. En outre, 20 véhicules supplémentaires devront annuellement faire l’objet d’un essai pour chaque permis de circulation collectif.</td></tr>
 </table>
 
@@ -2272,7 +2321,7 @@ nombre des permis de circulation collectif ≤ ![](https://fedlex.data.admin.ch/
 
 Un permis de circulation collectif pourra être délivré à l’entreprise qui exerce plusieurs genres d’activités, mais dont l’importance – en fonction du genre d’activité – n’atteint pas la taille minimale requise si la taille globale de l’entreprise équivaut à la taille minimale prescrite pour un seul genre d’activité et que les locaux et les installations satisfont dans l’ensemble aux exigences fixées pour chaque genre d’activité.
 
-Annexe 5*[^t-6]*
+Annexe 5[^t-6]
 
 (art. 10*b*)
 
@@ -2292,7 +2341,7 @@ Annexe 5*[^t-6]*
 </table>
 
 <table>
-<tr><td>2. **Véhicule à imm****a****triculer**</td><td>[tab]</td></tr>
+<tr><td>2. **Véhicule à immatriculer**</td><td>[tab]</td></tr>
 </table>
 
 <table>
@@ -2316,7 +2365,7 @@ Annexe 5*[^t-6]*
 <tr><td>Date:</td><td></td><td>Signature (détenteur/trice):</td><td></td></tr>
 </table>
 
-*Remarque:* conformément à l’art. 10*b*, al. 1, de l’ordonnance du 20 novembre 1959 sur l’assurance des véhicules, le formulaire rempli à la vérité doit être conservé dans les véhicules de manière conforme avant l’octroi du permis de circulation. *L’auto**risation provisoire de circ**u**ler* est valable pour des déplacements en Suisse jusqu’à la délivrance du permis de circulation, mais qui peuvent être utilisés 30 jours au plus à compter du premier jour de validité de l’attestation d’assurance. Elle n’est pas valable pour les véhicules automobiles ni pour les remorques qui sont immatriculés provisoirement ou utilisés avec des permis à court terme.
+*Remarque:* conformément à l’art. 10*b*, al. 1, de l’ordonnance du 20 novembre 1959 sur l’assurance des véhicules, le formulaire rempli à la vérité doit être conservé dans les véhicules de manière conforme avant l’octroi du permis de circulation. *L’auto**risation provisoire de circuler* est valable pour des déplacements en Suisse jusqu’à la délivrance du permis de circulation, mais qui peuvent être utilisés 30 jours au plus à compter du premier jour de validité de l’attestation d’assurance. Elle n’est pas valable pour les véhicules automobiles ni pour les remorques qui sont immatriculés provisoirement ou utilisés avec des permis à court terme.
 
 [^annex5-lvlu1-1]: [RS 641.811](https://fedlex.data.admin.ch/eli/cc/2024/150)
 [^annex5-lvlu1-2]: Redevance sur le trafic des poids lourds
