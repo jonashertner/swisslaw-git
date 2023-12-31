@@ -4,13 +4,12 @@ number: "611.1"
 title: Gesetz über die Geschäftsführung und den Finanzhaushalt des Kantons und deren Kontrolle
 short: FHG
 language: de
-version: 2023-09-01
-valid_until: 2023-12-31
-version_adopted: 2023-03-15
+version: 2024-01-01
+version_adopted: 2024-09-12
 adopted: 1980-06-24
 in_force: 1981-05-01
 url: "https://lex.vs.ch/app/de/texts_of_law/611.1"
-pdf: "https://lex.vs.ch/api/de/versions/3233/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3443/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3233/pdf_file"
 
 (FHG)
 
-vom 24.06.1980 (Stand 01.09.2023)
+vom 24.06.1980 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -473,6 +472,12 @@ verordnet:
 
 <sup>3</sup> Die Entnahmen aus dem Fonds werden beim Rechnungsabschluss bis zur maximalen Höhe des Fehlbetrages von Steuererträgen und nicht zweckgebundenen Bundeserträgen im Vergleich zum Budget bewilligt. Die Entnahmen werden auch bei der Erarbeitung des Budgets bewilligt, wenn diese Erträge in einem markanten Rückgang im Vergleich zum letzten Budget und zur letzten Rechnung sind.
 
+<sup>3<sup>bis</sup></sup> Die Entnahmen aus dem Fonds zum Ausgleich von Einnahmenschwankungen sind gemäss folgenden Modalitäten zulässig, um die Auswirkungen der Änderung des Steuergesetzes vom 12. September 2024 auf die Kantonsfinanzen auszugleichen:
+
+- a) die Entnahmen werden zum Zeitpunkt der Budgeterstellung bewilligt, maximal bis zur Höhe der Kosten der beschlossenen Steuermassnahmen und degressiv;
+- b) bei der Erstellung der Rechnung erfolgt die Entnahme höchstens in der Höhe des Aufwandüberschusses oder des Finanzierungsdefizits;
+- c) der Staatsrat ist befugt, die Anwendungsmodalitäten durch Beschluss festzulegen.
+
 <sup>4</sup> Das Fondsvermögen als zweckgebundenes Eigenkapital trägt keine Zinsen. Der Fonds darf nicht negativ sein. Sein Guthaben ist auf höchstens 10 Prozent der Steuererträge und der nicht zweckgebundenen Bundeserträge begrenzt.
 
 #### Art. 22c
@@ -919,5 +924,11 @@ verordnet:
 <sup>3</sup> Die kantonalen Finanzhilfen umfassen den Anteil der Bundesmittel, der im Bundesgesetz vom 25. September 2020 auf der gesetzlichen Grundlage der Verordnungen des Bundesrates zur Bewältigung der Covid-19-Pandemie vorgesehen ist.
 
 <sup>4</sup> Der Staatsrat ist befugt, per Beschluss die unterstützungsbedürftigen Bereiche, die branchenspezifischen Bedingungen für die Gewährung und die Begünstigten der kantonalen Finanzhilfen festzulegen.
+
+## T4 Übergangsbestimmung der Änderung vom 12.09.2024
+
+#### Art. T4-1
+
+<sup>1</sup> Artikel 22b Absatz 3<sup>bis</sup> ist für 3 Jahre ab seinem Inkrafttreten gültig.
 
 CSW RO/AGS 1980 f 9, 22 | d 11, 24

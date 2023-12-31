@@ -4,13 +4,12 @@ number: "611.1"
 title: Loi sur la gestion et le contrôle administratifs et financiers du canton
 short: LGCAF
 language: fr
-version: 2023-09-01
-valid_until: 2023-12-31
-version_adopted: 2023-03-15
+version: 2024-01-01
+version_adopted: 2024-09-12
 adopted: 1980-06-24
 in_force: 1981-05-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/611.1"
-pdf: "https://lex.vs.ch/api/fr/versions/3233/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3443/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3233/pdf_file"
 
 (LGCAF)
 
-du 24.06.1980 (état 01.09.2023)
+du 24.06.1980 (état 01.01.2024)
 
 Le Grand Conseil du canton du Valais
 
@@ -473,6 +472,12 @@ arrête:
 
 <sup>3</sup> Les prélèvements sur le fonds sont autorisés au moment de l'établissement du compte à hauteur maximale du manque de recettes fiscales et de recettes fédérales non affectées par rapport au budget. Les prélèvements sont également autorisés au moment de l'élaboration du budget lorsque ces recettes sont en diminution marquée par rapport au budget et au compte précédents.
 
+<sup>3<sup>bis</sup></sup> Les prélèvements sur le fonds de compensation des fluctuations de recettes sont autorisés selon les modalités suivantes pour compenser les effets de la modification du 12 septembre 2024 de la loi fiscale sur les finances cantonales:
+
+- a) les prélèvements sont autorisés au moment de l’élaboration du budget, à hauteur maximale du coût des mesures fiscales décidées et de manière dégressive;
+- b) au moment de l’établissement du compte, le prélèvement intervient à hauteur maximale de l’excédent de charges ou de l’insuffisance de financement;
+- c) le Conseil d'Etat est compétent pour fixer par arrêté les modalités d’application.
+
 <sup>4</sup> La fortune du fonds, en tant que fortune affectée, ne porte pas d'intérêts. Le fonds ne peut pas être négatif et son avoir est limité au maximum à 10 pour cent des recettes fiscales et des recettes fédérales non affectées.
 
 #### Art. 22c
@@ -919,5 +924,11 @@ arrête:
 <sup>3</sup> Les aides financières cantonales incluent la part de financement de la Confédération prévue dans la loi fédérale du 25 septembre 2020 sur les bases légales des ordonnances du Conseil fédéral visant à surmonter la pandémie de Covid-19.
 
 <sup>4</sup> Le Conseil d'Etat est compétent pour fixer par décision les secteurs soutenus, les conditions d'octroi spécifiques au secteur et les bénéficiaires des aides financières cantonales.
+
+## T4 Disposition transitoire de la modification du 12.09.2024
+
+#### Art. T4-1
+
+<sup>1</sup> L'article 22b alinéa 3bis est applicable pendant 3 ans à compter de son entrée en vigueur.
 
 RCV RO/AGS 1980 f 9, 22 | d 11, 24
