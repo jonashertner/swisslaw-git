@@ -3,28 +3,29 @@ canton: BL
 number: "643.11"
 title: Verordnung über das Gymnasium (Maturitätsschule und Fachmittelschule)
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-12-14
+version: 2024-01-01
+valid_until: 2024-07-31
+version_adopted: 2023-12-05
 adopted: 2003-05-13
 in_force: 2003-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/643.11"
-pdf: "https://bl.clex.ch/api/de/versions/3746/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3834/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Gymnasium (Maturitätsschule und Fachmittelschule)
 
-Vom 13.05.2003 (Stand 01.01.2022)
+Vom 13.05.2003 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
-gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1],
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und § 88 Bst. f des Bildungsgesetzes vom 6. Juni 2002[^ingress-2],
 
 beschliesst:
 
 [^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
+[^ingress-2]: [SGS 640](https://bl.clex.ch/data/640/de/art88)
 
 ## 1 Allgemeine Bestimmungen
 
@@ -283,7 +284,8 @@ beschliesst:
 - i. das Vorgehen in Konfliktfällen;
 - j. den Einsatz der finanziellen Mittel;
 - k. die Massnahmen zur Förderung einer geschlechtergerechten Pädagogik und der Gleichstellung der Geschlechter;
-- l. das Medienkonzept.
+- l. das Medienkonzept;
+- m. das Konzept zur Begabungs- und Begabtenförderung.
 
 ### 3.2 Interne Evaluation
 
