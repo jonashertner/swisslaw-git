@@ -4,11 +4,10 @@ number: "243"
 title: Notariatsgebührenverordnung (NotGebV)
 short: NotGebV
 language: de
-version: "2017-01-01"
-nachtrag: "95"
-valid_until: 2024-01-01
+version: "2024-01-01"
+nachtrag: "123"
 adopted: 2009-03-09
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-243-2009_03_09-2009_07_01-095.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-243-2009_03_09-2009_07_01-123.html"
 text: pdf
 ---
 
@@ -83,7 +82,7 @@ zierungsgesetzes vom 2. Mai 2011[^hGemeindenimSinnev-1].
 
 **1**
 
-- 1\. 1. 17 - 95
+- 1\. 1. 24 - 123
 
 [^hGemeindenimSinnev-1]: LS 813.20.
 
@@ -121,11 +120,25 @@ geben, wird sie nach Arbeitsaufwand und Bedeutung des Geschäfts festgesetzt, so
 
 beträgt der Stundenansatz Fr. 180, soweit nicht im Anhang für einzelne Amtshandlungen andere Ansätze festgelegt sind.
 
-<sup>2</sup> Die Finanzdirektion passt die Stundenansätze der Teuerung an, wenn sich der Landesindex der Konsumentenpreise seit der letzten
+<sup>2</sup> Erfolgt eine Beurkundung auf Veranlassung der Parteien ausserhalb des Amtslokals des Notariats, gilt auch die Reisezeit als Arbeitsaufwand. Der Stundenansatz beträgt Fr. 180.[^8-1]
+
+<sup>3</sup> Die Finanzdirektion passt die Stundenansätze der Teuerung an, wenn sich der Landesindex der Konsumentenpreise seit der letzten
+
+[^8-1]: Eingefügt durch B vom 27. März 2023 (OS 78, 389; ABl 2022-12-01). In Kraft seit 1. Januar 2024.
 
 ### Anpassung um mindestens 7% erhöht hat. Die Beträge werden auf-
 
 oder abgerundet.
+
+[^hAnpassungummindest-1]: Eingefügt durch B vom 27. März 2023 (OS 78, 389; ABl 2022-12-01). In Kraft seit 1. Januar 2024.
+
+#### § 8 a
+
+**Beurkundungen ausserhalb der Öffnungszeiten**[^hAnpassungummindest-1]
+
+**Erfolgt eine Beurkundung werktags nach 18.30 Uhr oder**
+
+an Samstagen, Sonn- und allgemeinen Feiertagen, erhöht sich die Beurkundungsgebühr um Fr. 100.
 
 #### § 9
 
@@ -215,6 +228,10 @@ von 5% geschuldet.
 
 <sup>3</sup> Zu viel bezahlte Beträge werden mit dem gleichen Zins zurückerstattet.
 
+**3**
+
+- 1\. 1. 24 - 123
+
 #### § 16
 
 **Rechtsöffnungstitel**
@@ -222,10 +239,6 @@ von 5% geschuldet.
 **Rechtskräftige Rechnungen über die Notariats- und Grund-**
 
 buchgebühren sowie den Auslagenersatz sind vollstreckbaren gerichtlichen Urteilen gleichgestellt (Art. 80 Abs. 2 SchKG[^16-1].
-
-**3**
-
-- 1\. 1. 17 - 95
 
 [^16-1]: SR 281.1.
 
@@ -303,7 +316,7 @@ pro Stunde
 
 **50–100 2.1 1000**
 
-- 1\. 1. 17 - 95 Ansatz/Fr.
+- 1\. 1. 24 - 123 Ansatz/Fr.
 
 **Grundbuchgebühren siehe Ziff.:**
 
@@ -429,7 +442,7 @@ geschäft zusammenhängen und in Ziff. 1 nicht genannt sind (Fahrnis, Werkvertra
 
 **50 100–300**
 
-- 1\. 1. 17 - 95 Ansatz/Fr.
+- 1\. 1. 24 - 123 Ansatz/Fr.
 
 **Beurkundungsgebühren siehe Ziff.:**
 
@@ -523,7 +536,7 @@ einlage oder infolge entsprechender Tatbestände nach öffentlichem Recht pro Gr
 
 **9**
 
-- 1\. 1. 17 - 95 Ansatz/Fr.
+- 1\. 1. 24 - 123 Ansatz/Fr.
 
 **Beurkundungsgebühren siehe Ziff.:**
 
@@ -648,7 +661,7 @@ je Dienstbarkeit mindestens – beim Fehlen einer Gegenleistung pro Grundstück 
 
 **50 200**
 
-- 1\. 1. 17 - 95 Ansatz/Fr.
+- 1\. 1. 24 - 123 Ansatz/Fr.
 
 **Beurkundungsgebühren siehe Ziff.:**
 
@@ -732,7 +745,7 @@ die Hälfte der Gebühr für die Anmerkung
 
 **13**
 
-- 1\. 1. 17 - 95
+- 1\. 1. 24 - 123
 
 **Ansatz/Fr. Beurkun-**
 
@@ -804,7 +817,7 @@ vom Inventarwert aller Aktiven, pro angefangenen oder ganzen Monat – durch das
 
 **15**
 
-- 1\. 1. 17 - 95
+- 1\. 1. 24 - 123
 
 **Ansatz/Fr.**
 
@@ -854,9 +867,9 @@ Stiftung – bei Grundstücken, vom Verkehrswert – vom übrigen Vermögen mind
 
 ### 4.2 Familien- und Partnerschaftsrecht
 
-**200–5000**
+**200–4000**
 
-4.2.1 Ehevertrag, Vermögensvertrag
+4.2.1[^h42FamilienundPa-1] Ehevertrag, Vermögensvertrag
 
 4.2.2 Inventar mit Urkunde über die Vermögenswerte der Ehegatten bzw. der eingetragenen Partnerinnen oder Partner
 
@@ -864,23 +877,26 @@ Stiftung – bei Grundstücken, vom Verkehrswert – vom übrigen Vermögen mind
 
 **180**
 
-4.2.3[^h42FamilienundPa-1] Vorsorgeauftrag (Beratung, Errichtung, Widerruf) pro Stunde
+4.2.3[^h42FamilienundPa-2] Vorsorgeauftrag (Beratung, Errichtung, Widerruf) pro Stunde
 
-[^h42FamilienundPa-1]: Eingefügt durch B vom 20. Oktober 2014 (OS 69, 507; ABl 2013-12-06). In Kraft seit 1. Januar 2015.
+[^h42FamilienundPa-1]: Fassung gemäss B vom 27. März 2023 (OS 78, 389; ABl 2022-12-01). In Kraft seit 1. Januar 2024.
+[^h42FamilienundPa-2]: Eingefügt durch B vom 20. Oktober 2014 (OS 69, 507; ABl 2013-12-06). In Kraft seit 1. Januar 2015.
 
 ### 4.3 Erbrecht
 
-4.3.1 Testamentsentwurf, inbegriffen die Beratung 50–2500
+4.3.1[^h43Erbrecht-1] Testamentsentwurf, inbegriffen die Beratung 50–2000
 
-**200–5000 300–7500**
+**200–4000 300–6000**
 
-4.3.2 Öffentliche letztwillige Verfügung
+4.3.2[^h43Erbrecht-1] Öffentliche letztwillige Verfügung
 
-4.3.3 Erbvertrag
+4.3.3[^h43Erbrecht-1] Erbvertrag
 
 4.3.4 Deposition einer Verfügung von Todes wegen 4.3.4.1 Deposition 4.3.4.2 Periodische Revision
 
 **150 10**
+
+[^h43Erbrecht-1]: Fassung gemäss B vom 27. März 2023 (OS 78, 389; ABl 2022-12-01). In Kraft seit 1. Januar 2024.
 
 ### 4.4 Obligationenrecht
 
@@ -904,29 +920,35 @@ nach Ziff. 1.1.1 – für übriges Vermögen zusätzlich
 
 **3–5 20**
 
-- 1\. 1. 17 - 95 Ansatz/Fr. 4.4.3 Gesellschaftsrechtliche Beurkundungen 4.4.3.1 Gründung oder Kapitalerhöhung einer AG oder GmbH vom Kapital oder vom Erhöhungsbetrag
+- 1\. 1. 24 - 123 Ansatz/Fr. 4.4.3 Gesellschaftsrechtliche Beurkundungen 4.4.3.1[^h44Obligationenrech-1] Gründung oder Kapitalerhöhung einer AG oder GmbH vom Kapital oder vom Erhöhungsbetrag 1‰
 
-**1‰**
+- für Publikumsgesellschaften gemäss
 
-- für Publikumsgesellschaften gemäss Art. 727
+**500–12 000**
 
-**500–15 000**
+Art. 727 Abs. 1 Ziff. 1 OR[^h44Obligationenrech-2] im Rahmen von – für grössere Unternehmen gemäss Art. 727 Abs. 1 Ziff. 2 und 3 OR im Rahmen von – für die übrigen Gesellschaften im Rahmen von 4.4.3.2[^h44Obligationenrech-1] Übrige gesellschaftsrechtliche Urkunden,
 
-Abs. 1 Ziff. 1 OR[^h44Obligationenrech-1] im Rahmen von – für grössere Unternehmen gemäss Art. 727 Abs. 1 Ziff. 2 und 3 OR[^h44Obligationenrech-1] im Rahmen von – für die übrigen Gesellschaften im Rahmen von 4.4.3.2 Übrige gesellschaftsrechtliche Urkunden, wie Statutenänderung, Feststellungen usw.
+**500–8000**
 
-**500–10 000**
+**500–4000**
 
-**500–5000**
+wie Statutenänderung, Feststellungen usw.,
 
 **0,2–0,5‰**
 
-vom Kapital – Publikumsgesellschaften gemäss Art. 727 Abs. 1 Ziff. 1 OR[^h44Obligationenrech-1] im Rahmen von – für grössere Unternehmen gemäss Art. 727 Abs. 1 Ziff. 2 und 3 OR[^h44Obligationenrech-1] im Rahmen von – für die übrigen Gesellschaften im Rahmen von Für Geschäfte mit geringerer Bedeutung setzt die Finanzdirektion die Höchstbeträge bis auf 40% herab.
+vom Kapital – Publikumsgesellschaften gemäss Art. 727 Abs. 1 Ziff. 1 OR im Rahmen von – für grössere Unternehmen gemäss Art. 727 Abs. 1 Ziff. 2 und 3 OR im Rahmen von – für die übrigen Gesellschaften im Rahmen von
 
-**250–7500**
+**250–6000**
 
-**250–5000**
+**250–4000**
 
-**250–2500**
+**250–2000**
+
+Für Geschäfte mit geringerer Bedeutung
+
+setzt die Finanzdirektion die Höchstbeträge
+
+bis auf 40% herab.
 
 4.4.4 Wechselprotest 4.4.4.1 Einschreiben des Wechsels 4.4.4.2 Vorweisung des Wechsels von der Wechselsumme im Rahmen von
 
@@ -934,7 +956,8 @@ vom Kapital – Publikumsgesellschaften gemäss Art. 727 Abs. 1 Ziff. 1 OR[^h44O
 
 **0,5‰ 50–500**
 
-[^h44Obligationenrech-1]: SR 220.
+[^h44Obligationenrech-1]: Fassung gemäss B vom 27. März 2023 (OS 78, 389; ABl 2022-12-01). In Kraft seit 1. Januar 2024.
+[^h44Obligationenrech-2]: SR 220.
 
 ### 4.5 Beglaubigungen
 
@@ -966,7 +989,7 @@ die in Ziff. 4 nicht genannt sind, wie Eidesstattliche Erklärung, Entkräftung 
 
 **19**
 
-- 1\. 1. 17 - 95 Ansatz/Fr.
+- 1\. 1. 24 - 123 Ansatz/Fr.
 
 ### C. Verschiedene Verrichtungen
 
@@ -1062,7 +1085,7 @@ die Hälfte der für den Abschluss oder Vollzug des Geschäftes geschuldeten Geb
 
 **21**
 
-- 1\. 1. 17 - 95
+- 1\. 1. 24 - 123
 
 **Ansatz/Fr.**
 
