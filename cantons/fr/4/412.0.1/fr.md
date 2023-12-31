@@ -4,13 +4,13 @@ number: "412.0.1"
 title: "Loi sur l'enseignement secondaire supérieur"
 short: LESS
 language: fr
-version: 2020-08-01
-valid_until: 2023-12-31
-version_adopted: 2020-12-15
+version: 2024-01-01
+valid_until: 2025-07-31
+version_adopted: 2023-10-12
 adopted: 2018-12-11
 in_force: 2019-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/412.0.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7198/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7918/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Enseignement secondaire supérieur - L
 
 (LESS)
 
-du 11.12.2018 (version entrée en vigueur le 01.08.2020)
+du 11.12.2018 (version entrée en vigueur le 01.01.2024)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -469,7 +469,9 @@ Décrète:
 
 <sup>3</sup> L'utilisation du numéro AVS (NAVS13) est réservée à l'identification des personnes, notamment en lien avec la plate-forme informatique cantonale contenant les données des registres des habitants, ainsi qu'à la transmission des données requises par le système d'information statistique suisse.
 
-<sup>4</sup> Les données personnelles peuvent être rendues accessibles au moyen d'une procédure d'appel électronique au sens de l'article 10 al. 2 de la loi du 25 novembre 1994 sur la protection des données. Le Conseil d'Etat en fixe les modalités d'application.
+<sup>3a</sup> Le numéro AVS (NAVS 13) peut également être transmis à des fins d'identification à la Fédération des services d'identité de l'espace suisse de formation mandatée par la Conférence suisse des directeurs cantonaux de l'instruction publique (CDIP). Le Conseil d'Etat édicte les dispositions d'exécution nécessaires.
+
+<sup>4</sup> Les données personnelles peuvent être rendues accessibles au moyen d'une procédure d'appel électronique au sens de l'article 14 al. 4 de la loi du 12 octobre 2023 sur la protection des données. Le Conseil d'Etat en fixe les modalités d'application.
 
 #### Art. 44
 

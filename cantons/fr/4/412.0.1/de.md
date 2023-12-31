@@ -4,13 +4,13 @@ number: "412.0.1"
 title: Gesetz über den Mittelschulunterricht
 short: MSG
 language: de
-version: 2020-08-01
-valid_until: 2023-12-31
-version_adopted: 2020-12-15
+version: 2024-01-01
+valid_until: 2025-07-31
+version_adopted: 2023-10-12
 adopted: 2018-12-11
 in_force: 2019-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/412.0.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7198/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7918/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Mittelschulunterricht - G
 
 (MSG)
 
-vom 11.12.2018 (Fassung in Kraft getreten am 01.08.2020)
+vom 11.12.2018 (Fassung in Kraft getreten am 01.01.2024)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -469,7 +469,9 @@ beschliesst:
 
 <sup>3</sup> Die AHV-Nummer (AHVN13) soll allein zur Personenidentifikation, insbesondere in Verbindung mit der kantonalen Informatikplattform der Einwohnerkontrollregister, und zur Übermittlung der erforderlichen Daten ans Bundesamt für Statistik verwendet werden.
 
-<sup>4</sup> Die Personendaten können über ein Abrufverfahren nach Artikel 10 Abs. 2 des Gesetzes vom 25. November 1994 über den Datenschutz zugänglich gemacht werden. Der Staatsrat legt die Ausführungsbestimmungen fest.
+<sup>3a</sup> Die AHV-Nummer (AHVN13) kann zu Identifikationszwecken auch an die Föderation der Identitätsdienste im Bildungsraum Schweiz, die von der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) beauftragt wurde, übermittelt werden. Der Staatsrat erlässt die notwendigen Ausführungsbestimmungen.
+
+<sup>4</sup> Die Personendaten können über ein Abrufverfahren nach Artikel 14 Abs. 4 des Gesetzes vom 12. Oktober 2023 über den Datenschutz zugänglich gemacht werden. Der Staatsrat legt die Ausführungsbestimmungen fest.
 
 #### Art. 44
 
