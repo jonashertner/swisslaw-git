@@ -1,25 +1,24 @@
 ---
 canton: BE
 number: "162.14"
-title: "Règlement sur les tâches et les compétences des personnes exerçant la fonction de greffiers ou de greffières des autorités judiciaires civiles, pénales et des mineurs"
+title: "Règlement sur les tâches et les compétences des personnes exerçant la fonction de greffiers ou de greffières des juridictions civile et pénale *"
 short: "Règlement sur les greffiers et greffières, RGre"
 language: fr
-version: 2011-01-01
-valid_until: 2023-12-31
-version_adopted: 2010-11-12
+version: 2024-01-01
+version_adopted: 2023-11-17
 adopted: 2010-11-12
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/162.14"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/124/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2927/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
-# Règlement sur les tâches et les compétences des personnes exerçant la fonction de greffiers ou de greffières des autorités judiciaires civiles, pénales et des mineurs
+# Règlement sur les tâches et les compétences des personnes exerçant la fonction de greffiers ou de greffières des juridictions civile et pénale
 
 (Règlement sur les greffiers et greffières, RGre)
 
-du 12.11.2010 (état au 01.01.2011)
+du 12.11.2010 (état au 01.01.2024)
 
 La Cour suprême du canton de Berne,
 
@@ -37,7 +36,7 @@ arrête:
 
 **Statut**
 
-<sup>1</sup> Les autorités judiciaires civiles, pénales et des mineurs disposent de greffiers et de greffières, de secrétaires de tribunal ainsi que de stagiaires juristes.
+<sup>1</sup> Les autorités judiciaires civiles et pénales disposent de greffiers et de greffières, de secrétaires de tribunal ainsi que de stagiaires juristes.
 
 <sup>2</sup> Les secrétaires de tribunal qui bénéficient de qualifications spécifiques complémentaires peuvent être affectés à la tâche de greffier ou de greffière par la personne qui dirige la procédure.
 

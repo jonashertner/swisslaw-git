@@ -1,22 +1,21 @@
 ---
 canton: BE
 number: "162.14"
-title: "Reglement über die Aufgaben und Kompetenzen der als Gerichtsschreiberinnen und Gerichtsschreiber tätigen Personen der Zivil-, Straf- und Jugendgerichtsbehörden"
+title: Reglement über die Aufgaben und Kompetenzen der als Gerichtsschreiberinnen und Gerichtsschreiber tätigen Personen der Zivil- und Strafgerichtsbarkeit
 language: de
-version: 2011-01-01
-valid_until: 2023-12-31
-version_adopted: 2010-11-12
+version: 2024-01-01
+version_adopted: 2023-11-17
 adopted: 2010-11-12
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/162.14"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/124/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2927/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement über die Aufgaben und Kompetenzen der als Gerichtsschreiberinnen und Gerichtsschreiber tätigen Personen der Zivil-, Straf- und Jugendgerichtsbehörden
+# Reglement über die Aufgaben und Kompetenzen der als Gerichtsschreiberinnen und Gerichtsschreiber tätigen Personen der Zivil- und Strafgerichtsbarkeit
 
-vom 12.11.2010 (Stand 01.01.2011)
+vom 12.11.2010 (Stand 01.01.2024)
 
 Das Obergericht des Kantons Bern,
 
@@ -34,7 +33,7 @@ beschliesst:
 
 **Stellung**
 
-<sup>1</sup> Die Zivil-, Straf- und Jugendgerichtsbehörden verfügen über Gerichtsschreiberinnen und Gerichtsschreiber, über Gerichtssekretärinnen und Gerichtssekretäre sowie über Rechtspraktikantinnen und Rechtspraktikanten.
+<sup>1</sup> Die Zivil- und Strafgerichtsbehörden verfügen über Gerichtsschreiberinnen und Gerichtsschreiber, über Gerichtssekretärinnen und Gerichtssekretäre sowie über Rechtspraktikantinnen und Rechtspraktikanten.
 
 <sup>2</sup> Gerichtssekretärinnen und Gerichtssekretäre, die über spezifische ausserordentliche Qualifikationen verfügen, können von der Verfahrensleitung wie Gerichtsschreiberinnen oder Gerichtsschreiber eingesetzt werden.
 
@@ -96,7 +95,7 @@ beschliesst:
 
 <sup>2</sup> Die Protokolle und Entscheide sind von der Protokollführerin oder vom Protokollführer sowie von der Verfahrensleitung zu unterzeichnen. Sie haben einen Vermerk über die Eröffnung sowie die Art der Eröffnung der Verfügungen, Beschlüsse und Urteile zu enthalten.
 
-## 3 Mitteilung des Urteilsdispositivs sowie Ausfertigungvon Auszügen
+## 3 Mitteilung des Urteilsdispositivs sowie Ausfertigung von Auszügen
 
 #### Art. 6
 
