@@ -4,13 +4,13 @@ number: "108.1"
 title: Gesetz über die Archivierung
 short: ArchG
 language: de
-version: 2021-07-01
-valid_until: 2023-12-31
-version_adopted: 2021-04-07
+version: 2024-01-01
+valid_until: 2025-01-31
+version_adopted: 2022-09-05
 adopted: 2009-03-31
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/108.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2264/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2937/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2264/pdf_file"
 
 (ArchG)
 
-vom 31.03.2009 (Stand 01.07.2021)
+vom 31.03.2009 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -196,11 +196,11 @@ beschliesst:
 
 **Grundsatz**
 
-<sup>1</sup> Das Archivgut der Behörden gemäss Artikel 3 Absatz 4 steht der Öffentlichkeit nach den Bestimmungen des Gesetzes vom 2. November 1993 über die Information der Bevölkerung (Informationsgesetz, IG)[^16-1] und des Datenschutzgesetzes zur Einsichtnahme zur Verfügung.
+<sup>1</sup> Das Archivgut der Behörden gemäss Artikel 3 Absatz 4 steht der Öffentlichkeit nach den Bestimmungen des Gesetzes vom 2. November 1993 über die Information und die Medienförderung (IMG)[^16-1] und des Datenschutzgesetzes zur Einsichtnahme zur Verfügung.
 
 <sup>2</sup> Der Zugang der Öffentlichkeit zu Archivgut anderer Herkunft richtet sich nach den entsprechenden Übernahmeverträgen oder, wenn kein Übernahmevertrag vorhanden ist, sinngemäss nach Absatz 1.
 
-[^16-1]: BSG 107.1
+[^16-1]: BSG [107.1](https://www.belex.sites.be.ch/data/107.1/de)
 
 #### Art. 17
 

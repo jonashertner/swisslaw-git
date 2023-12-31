@@ -4,13 +4,13 @@ number: "108.1"
 title: "Loi sur l'archivage"
 short: LArch
 language: fr
-version: 2021-07-01
-valid_until: 2023-12-31
-version_adopted: 2021-04-07
+version: 2024-01-01
+valid_until: 2025-01-31
+version_adopted: 2022-09-05
 adopted: 2009-03-31
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/108.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2264/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2937/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2264/pdf_file"
 
 (LArch)
 
-du 31.03.2009 (état au 01.07.2021)
+du 31.03.2009 (état au 01.01.2024)
 
 Le Grand Conseil du canton de Berne,
 
@@ -196,11 +196,11 @@ arrête:
 
 **Principe**
 
-<sup>1</sup> Les archives des autorités au sens de l’article 3, alinéa 4 sont accessibles au public selon les dispositions de la loi du 2 novembre 1993 sur l’information du public (loi sur l’information; LIn)[^16-1] et de la loi sur la protection des données.
+<sup>1</sup> Les archives des autorités au sens de l’article 3, alinéa 4 sont accessibles au public selon les dispositions de la loi du 2 novembre 1993 sur l’information et l'aide aux médias (LIAM)[^16-1] et de la loi sur la protection des données.
 
 <sup>2</sup> L’accès du public à des archives d’autres provenances est régi par les conventions de donation ou de dépôt, ou à défaut, par l’alinéa 1 applicable par analogie.
 
-[^16-1]: RSB 107.1
+[^16-1]: RSB [107.1](https://www.belex.sites.be.ch/data/107.1/fr)
 
 #### Art. 17
 
