@@ -4,13 +4,13 @@ number: "836.111"
 title: Ordonnance sur le marché du travail
 short: OMT
 language: fr
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-11-17
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-11-15
 adopted: 2003-10-29
 in_force: 2004-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/836.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2433/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2902/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2433/pdf_file"
 
 (OMT)
 
-du 29.10.2003 (état au 01.01.2022)
+du 29.10.2003 (état au 01.01.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -160,37 +160,51 @@ arrête:
 
 #### Art. 17a
 
-**Tâches et composition du groupe de pilotage**
+**Objectif et tâches du groupe de pilotage**
 
-<sup>1</sup> En vue de la collaboration interinstitutionnelle au sens de l’article 13, alinéa 2 LMT[^17a-1], un groupe de pilotage est créé ayant pour tâches principales de
+<sup>1</sup> En vue de la collaboration interinstitutionnelle (CII) au sens de l’article 13, alinéa 2 LMT[^17a-1], un groupe de pilotage est créé ayant pour tâches principales
 
-- a déterminer la stratégie et l’étendue de la collaboration interinstitutionnelle en tenant compte de l’égalité des sexes,
-- b piloter les offres de réinsertion et d’intégration,
-- c coordonner les mesures en faveur des personnes,
-- d donner des informations sur la collaboration interinstitutionnelle et
-- e procéder au controlling.
+- a–e …
+- f d'augmenter l'impact de la CII grâce à une collaboration ciblée entre les différentes institutions,
+- g de coordonner efficacement les interfaces entre les institutions et
+- h d’encourager l’accès à la formation et la réinsertion sur le marché du travail lorsque différents facteurs liés à la personne concernée y font obstacle.
 
-<sup>2</sup> Les décisions du groupe de pilotage lient les autorités impliquées.
+<sup>1a</sup> Le groupe de pilotage
 
-<sup>3</sup> Le groupe de pilotage se compose des directeurs et directrices des autorités suivantes:
+- a détermine la stratégie guidant la CII;
+- b lance, approuve et classe par ordre de priorité des projets dont il assure ensuite le suivi et
+- c sert d'organe d’échange et d’information sur des thèmes liés à la CII.
+
+<sup>2</sup> Les décisions du groupe de pilotage lient les institutions visées à l'article 17a1, alinéa 2.
+
+<sup>3</sup> …
+
+[^17a-1]: RSB [836.11](https://www.belex.sites.be.ch/data/836.11/fr)
+
+#### Art. 17a1
+
+**Composition du groupe de pilotage**
+
+<sup>1</sup> Le groupe de pilotage se compose de membres ayant le droit de vote et d'autres ayant voix consultative.
+
+<sup>2</sup> Les institutions suivantes y délèguent chacune un membre ayant le droit de vote:
 
 - a Office de l'assurance-chômage (OAC),
 - b Office des écoles moyennes et de la formation professionnelle (OMP),
-- c Orientation professionnelle et personnelle (centres OP) de l'OMP,
-- d Office AI de Berne (OAIB),
-- e Office de l’intégration et de l’action sociale (OIAS) du canton de Berne,
-- f Service social de la Ville de Berne,
-- g Office de la population (OPOP).
+- c Office AI du canton de Berne (OAIB),
+- d Office de l'intégration et de l'action sociale (OIAS),
+- e Conférence bernoise d’aide sociale et de protection de l’enfant et de l’adulte (BKSE),
+- f Office des assurances sociales (OAS).
 
-[^17a-1]: RSB 836.11
+<sup>3</sup> Le groupe de pilotage désigne les membres ayant voix consultative dans son règlement d'organisation visé à l'article 17b, alinéa 1.
 
 #### Art. 17b
 
 **Organisation du groupe de pilotage**
 
-<sup>1</sup> Le groupe de pilotage se constitue lui-même.
+<sup>1</sup> Le groupe de pilotage se constitue lui-même et édicte un règlement d'organisation.
 
-<sup>2</sup> Il peut former des groupes de travail permanents ou spécifiques aux projets.
+<sup>2</sup> Il peut former des groupes de travail permanents ou spécifiques aux projets et faire appel à des spécialistes.
 
 <sup>3</sup> L'OAC assure le secrétariat du groupe de pilotage.
 
@@ -200,7 +214,7 @@ arrête:
 
 #### Art. 17d
 
-**Traitement des données**
+**Traitement et communication des données**
 
 <sup>1</sup> Le service sollicité pour gérer un cas recueille une déclaration de consentement pour le traitement et la communication des données auprès de la personne soumise à examen.
 

@@ -4,13 +4,13 @@ number: "836.111"
 title: Arbeitsmarktverordnung
 short: AMV
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-11-17
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-11-15
 adopted: 2003-10-29
 in_force: 2004-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/836.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2433/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2902/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2433/pdf_file"
 
 (AMV)
 
-vom 29.10.2003 (Stand 01.01.2022)
+vom 29.10.2003 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -160,39 +160,53 @@ beschliesst:
 
 #### Art. 17a
 
-**Aufgaben und Zusammensetzung der Steuerungsgruppe**
+**Ziel und Aufgaben der Steuerungsgruppe**
 
-<sup>1</sup> Für die interinstitutionelle Zusammenarbeit (IIZ) gemäss Artikel 13 Absatz 2 AMG[^17a-1] wird eine Steuerungsgruppe eingesetzt, die insbesondere
+<sup>1</sup> Für die interinstitutionelle Zusammenarbeit (IIZ) gemäss Artikel 13 Absatz 2 AMG[^17a-1] wird eine Steuerungsgruppe mit dem Ziel eingesetzt,
 
-- a Strategie und Umfang der IIZ unter Berücksichtigung der Geschlechtergerechtigkeit bestimmt,
-- b Angebote der Wiedereingliederung und der Integration steuert,
-- c Massnahmen zugunsten einzelner Personen koordiniert,
-- d über die IIZ informiert und
-- e das Controlling durchführt.
+- a–e …
+- f die Wirkung durch eine zweckmässige Zusammenarbeit der einzelnen Institutionen zu erhöhen,
+- g die Schnittstellen zwischen den Institutionen wirksam zu koordinieren,
+- h Ausbildungs- und Arbeitsintegration bei Personen zu fördern, bei denen eine solche aufgrund unterschiedlicher Faktoren erschwert ist.
 
-<sup>2</sup> Die Beschlüsse der Steuerungsgruppe sind für die beteiligten Behörden verbindlich.
+<sup>1a</sup> Die Steuerungsgruppe
 
-<sup>3</sup> Die Steuerungsgruppe setzt sich aus den Leiterinnen und Leitern folgender Behörden zusammen:
+- a bestimmt die Strategie der IIZ,
+- b initiiert, genehmigt und priorisiert Projekte und nimmt deren Monitoring wahr,
+- c dient als Austausch- und Informationsgremium in Bezug auf IIZ-Themen.
+
+<sup>2</sup> Die Beschlüsse der Steuerungsgruppe sind für die Institutionen gemäss Artikel 17a1 Absatz 2 verbindlich.
+
+<sup>3</sup> …
+
+[^17a-1]: BSG [836.11](https://www.belex.sites.be.ch/data/836.11/de)
+
+#### Art. 17a1
+
+**Zusammensetzung der Steuerungsgruppe**
+
+<sup>1</sup> Die Steuerungsgruppe setzt sich aus stimmberechtigten und beratenden Mitgliedern zusammen.
+
+<sup>2</sup> Die folgenden Institutionen delegieren je ein stimmberechtigtes Mitglied:
 
 - a Amt für Arbeitslosenversicherung (AVA),
 - b Mittelschul- und Berufsbildungsamt (MBA),
-- c Berufs-, Studien- und Laufbahnberatung (BIZ) des MBA,
-- d IV-Stelle Bern (IVB),
-- e Amt für Integration und Soziales (AIS),
-- f Sozialamt der Stadt Bern,
-- g Amt für Bevölkerungsdienste (ABEV).
+- c IV-Stelle Kanton Bern (IVBE),
+- d Amt für Integration und Soziales (AIS),
+- e Berner Konferenz für Sozialhilfe, Kindes- und Erwachsenenschutz (BKSE),
+- f Amt für Sozialversicherungen (ASV).
 
-[^17a-1]: BSG 836.11
+<sup>3</sup> Die Steuerungsgruppe legt die beratenden Mitglieder im Organisationsreglement gemäss Artikel 17b Absatz 1 fest.
 
 #### Art. 17b
 
 **Organisation der Steuerungsgruppe**
 
-<sup>1</sup> Die Steuerungsgruppe konstituiert sich selber.
+<sup>1</sup> Die Steuerungsgruppe konstituiert sich selbst und erlässt ein Organisationsreglement.
 
-<sup>2</sup> Sie kann ständige oder projektbezogene Arbeitsgruppen einsetzen.
+<sup>2</sup> Sie kann ständige oder projektbezogene Arbeitsgruppen einsetzen und Fachpersonen beiziehen.
 
-<sup>3</sup> Das AVA führt das Sekretariat der Steuerungsgruppe.
+<sup>3</sup> Das AVA führt die Geschäftsstelle der Steuerungsgruppe.
 
 #### Art. 17c
 
@@ -200,9 +214,9 @@ beschliesst:
 
 #### Art. 17d
 
-**Datenbearbeitung**
+**Datenbearbeitung und -bekanntgabe**
 
-<sup>1</sup> Die fallführende Stelle holt für die Datenbearbeitung und Datenbekanntgabe eine Einwilligungserklärung bei der zu beurteilenden Person ein.
+<sup>1</sup> Die fallführende Stelle holt für die Datenbearbeitung und -bekanntgabe eine Einwilligungserklärung bei der zu beurteilenden Person ein.
 
 <sup>2</sup> Die Institutionen gemäss Artikel 14 AMG übermitteln der fallführenden Stelle nur die Personendaten, die zur Beurteilung notwendig sind.
 
