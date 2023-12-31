@@ -4,11 +4,11 @@ title: Messmittelverordnung vom 15. Februar 2006 (MessMV)
 short: MessMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/245"
 language: de
-version: 2016-04-20
+version: 2024-01-01
 adopted: 2006-02-15
 in_force: 2006-10-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/245/20160420/de/xml/fedlex-data-admin-ch-eli-cc-2006-245-20160420-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/245/20160420/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/245/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2006-245-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/245/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/245/20160420/de"
 
 (MessMV)[^t-1]
 
-vom 15. Februar 2006 (Stand am 20. April 2016)
+vom 15. Februar 2006 (Stand am 1. Januar 2024)
 
 [^t-1]: Abkürzung eingefügt durch Ziff. I der V vom 7. Dez. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 7207](https://fedlex.data.admin.ch/eli/oc/2012/877)).
 
@@ -508,6 +508,14 @@ Die auf Grund der Eichverordnung vom 17. Dezember 1984[^37-1] erteilten Zulassun
 Bescheinigungen von Konformitätsbewertungsstellen, wie Bauartprüfzertifikate und Entwurfsprüfzertifikate, die vor Inkrafttreten der Änderung vom 25. November 2015 dieser Verordnung ausgestellt wurden, bleiben bis zu ihrem Ablauf gültig.
 
 [^37a-1]: Eingefügt durch Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2015 5835](https://fedlex.data.admin.ch/eli/oc/2015/898)).
+
+#### Art. 37b
+
+**Übergangsbestimmung zur Änderung vom 15. November 2023**[^37b-1]
+
+Ermächtigungen von Privatpersonen zur Reparatur und Sicherung von Messmitteln, die vor Inkrafttreten der Änderung vom 15. November 2023 ausgestellt wurden, gelten noch während fünf Jahren nach Inkrafttreten dieser Änderung.
+
+[^37b-1]: Eingefügt durch Ziff. I der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 724](https://fedlex.data.admin.ch/eli/oc/2023/724)).
 
 #### Art. 38
 
@@ -1721,7 +1729,7 @@ Anhang 4
 
 - 1\.1 Für die Angabe des Konformitätskennzeichens gilt folgende Darstellung:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/245/20160420/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/245/20240101/de/xml/image/image1.png)
 
 - Das Kennzeichen muss eine Mindesthöhe von 5 mm aufweisen. Bei Verkleinerung oder Vergrösserung des Konformitätskennzeichens müssen die Proportionen erhalten bleiben.
 - 1\.2 Das zusätzliche Metrologie-Kennzeichen besteht aus dem Buchstaben «M» und den letzten beiden Ziffern des Jahres, in dem das Kennzeichen angebracht wurde, eingerahmt durch ein Rechteck. Die Höhe des Rechtecks entspricht der Höhe des Konformitätskennzeichens. Das zusätzliche Metrologie-Kennzeichen steht unmittelbar hinter dem Konformitätskennzeichen.
@@ -1810,9 +1818,9 @@ Anhang 6[^t-5]
 ### 1 Zeichen
 
 <table>
-<tr><td>1.1 Zulassungszeichen für Bauart Das Zulassungszeichen ist ein stilisiertes S.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/245/20160420/de/xml/image/image2.png)</td></tr>
-<tr><td>1.2 Eichzeichen Das Eichzeichen besteht aus dem eidgenössischen Kreuz.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/245/20160420/de/xml/image/image3.png)</td></tr>
-<tr><td>1.3 Rückweisungszeichen Das Rückweisungszeichen zur Ungültigerklärung einer Eichung ist ein gleichseitiges Dreieck.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/245/20160420/de/xml/image/image4.png)</td></tr>
+<tr><td>1.1 Zulassungszeichen für Bauart Das Zulassungszeichen ist ein stilisiertes S.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/245/20240101/de/xml/image/image2.png)</td></tr>
+<tr><td>1.2 Eichzeichen Das Eichzeichen besteht aus dem eidgenössischen Kreuz.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/245/20240101/de/xml/image/image3.png)</td></tr>
+<tr><td>1.3 Rückweisungszeichen Das Rückweisungszeichen zur Ungültigerklärung einer Eichung ist ein gleichseitiges Dreieck.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/245/20240101/de/xml/image/image4.png)</td></tr>
 <tr><td>1.4 Privates Sicherungszeichen Das METAS führt ein Register der privaten Sicherungszeichen.</td><td></td></tr>
 </table>
 
@@ -1833,11 +1841,13 @@ Anhang 6[^t-5]
 - 2\.4 *Privatpersonen*
 - Die Identifikation der Privatperson mit einer Ordnungsnummer kann mit dem privaten Sicherungszeichen kombiniert werden. Die Identifikation ist so zu wählen, dass Verwechslungen ausgeschlossen sind. Das METAS führt ein Verzeichnis.
 
-Anhang 7
+Anhang 7[^t-6]
 
 (Art. 24 Abs. 2)
 
 ## Verfahren zur Erhaltung der Messbeständigkeit
+
+[^t-6]: Bereinigt gemäss Ziff. II der V vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 724](https://fedlex.data.admin.ch/eli/oc/2023/724)).
 
 ### 1 Nacheichung
 
@@ -1891,7 +1901,10 @@ Anhang 7
 
 ### 9 Reparatur und Sicherung
 
-- Reparatur eines Messmittels, das Fehlfunktionen aufweist oder dessen messtechnische Eigenschaften nicht mehr den Vorschriften dieser Verordnung entsprechen, und anschliessende Sicherung aller für die Messung relevanten Teile des Messmittels durch die für die Reparatur zuständige Person.
-- 9\.1 Um die Verwendung eines Messmittels nach einer Reparatur oder nach der Durchführung von Instandsetzungsarbeiten bis zur nächsten periodischen Prüfung der Messbeständigkeit nach Artikel 24 Absatz 1 zu ermöglichen, dürfen von den kantonalen Eichämtern ermächtigte Privatpersonen das Messmittel mit privaten Sicherungszeichen verschliessen.
-- 9\.2 Diese Privatpersonen haben sich über ihre Eignung auszuweisen. Zudem muss jede Privatperson durch ein kantonales Eichamt über die Sicherung von Messmitteln instruiert werden.
-- 9\.3 Die für die Instandsetzung bzw. Justierung eines Messmittels verantwortliche Person oder gegebenenfalls die Verwenderin muss das Messmittel bei der für die Durchführung des Verfahrens zur Erhaltung der Messbeständigkeit zuständigen Stelle anmelden.
+- 9\.1 Um die Verwendung eines Messmittels nach einer Reparatur oder nach der Durchführung von Instandsetzungsarbeiten bis zur nächsten periodischen Prüfung der Messbeständigkeit nach Artikel 24 Absatz 1 zu ermöglichen, dürfen ermächtigte Privatpersonen das Messmittel sichern.
+- 9\.2 Die Ermächtigung erfolgt durch das METAS, soweit die messmittelspezifischen Verordnungen keine andere Stelle für die Ermächtigung vorsehen.
+- 9\.3 Die Privatpersonen haben sich über ihre Eignung auszuweisen. Sie müssen die vom METAS angeordneten Kurse besuchen und die Weisungen und Instruktionen der für die Ermächtigung zuständigen Stelle befolgen.
+- 9\.4 Die Ermächtigung gilt für höchstens fünf Jahre. Sie wird entzogen, wenn die ermächtigte Privatperson sich nicht an Weisungen und Instruktionen hält oder die Voraussetzungen sonst nicht mehr erfüllt sind.
+- 9\.5 Die ermächtigte Privatperson muss die Reparatur oder die Instandsetzung der für die Durchführung des Verfahrens zur Erhaltung der Messbeständigkeit zuständigen Stelle melden.
+- 9\.6 Die messmittelspezifischen Verordnungen können für die Reparatur und Sicherung besondere Bestimmungen vorsehen, soweit dies für die jeweilige Messmittelkategorie erforderlich ist.
+- [tab]

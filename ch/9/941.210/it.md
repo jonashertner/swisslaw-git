@@ -4,11 +4,11 @@ title: Ordinanza del 15 febbraio 2006 sugli strumenti di misurazione (OStrM)
 short: OStrM
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/245"
 language: it
-version: 2016-04-20
+version: 2024-01-01
 adopted: 2006-02-15
 in_force: 2006-10-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/245/20160420/it/xml/fedlex-data-admin-ch-eli-cc-2006-245-20160420-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/245/20160420/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/245/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2006-245-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/245/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/245/20160420/it"
 
 (OStrM)[^t-1]
 
-del 15 febbraio 2006 (Stato 20 aprile 2016) (Stato 20 aprile 2016)
+del 15 febbraio 2006 (Stato 1° gennaio 2024)
 
 [^t-1]: Abbreviazione introdotta dal n. I dell’O del 7 dic. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7207](https://fedlex.data.admin.ch/eli/oc/2012/877)).
 
@@ -503,6 +503,14 @@ Le ammissioni rilasciate in base all’ordinanza del 17 dicembre 1984[^37-1] sul
 I certificati rilasciati dagli organismi di valutazione della conformità prima dell’entrata in vigore della modifica del 25 novembre 2015, come i certificati di esame del tipo e i certificati di esame del progetto, restano validi fino alla loro scadenza.
 
 [^37a-1]: Introdotto dal n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2015 5835](https://fedlex.data.admin.ch/eli/oc/2015/898)).
+
+#### Art. 37b
+
+**Disposizione transitoria della modifica del 15 novembre 2023**[^37b-1]
+
+Le autorizzazioni di privati per la riparazione e la piombatura di strumenti di misurazione rilasciate prima dell’entrata in vigore della modifica del 15 novembre 2023, restano valide per cinque anni dopo l’entrata in vigore della presente modifica.
+
+[^37b-1]: Introdotto dal n. I dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 724](https://fedlex.data.admin.ch/eli/oc/2023/724)).
 
 #### Art. 38
 
@@ -1711,7 +1719,7 @@ Allegato 4
 
 - 1\.1 La marcatura di conformità è costituita dal simbolo seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/245/20160420/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/245/20240101/it/xml/image/image1.png)
 
 - L’altezza della marcatura di conformità non deve essere inferiore a 5 mm. In caso di riduzione o di ingrandimento della marcatura di conformità, ne vanno conservate le proporzioni.
 - 1\.2 La marcatura metrologica supplementare è costituita dalla lettera «M» e dalle due ultime cifre dell’anno di apposizione della marcatura, iscritti in un rettangolo. L’altezza del rettangolo corrisponde all’altezza della marcatura di conformità. La marcatura metrologica supplementare è posta immediatamente dopo la marcatura di conformità.
@@ -1722,6 +1730,7 @@ Allegato 4
 ### 2 Apposizione delle marcature
 
 - 2\.1 La marcatura di conformità e la marcatura metrologica supplementare devono essere indelebili. Il numero d’identificazione del competente organismo di valutazione della conformità deve essere indelebile oppure apposto in modo tale che non sia possibile toglierlo senza danneggiarlo. Tutte le marcature devono essere chiaramente visibili e facilmente accessibili.
+
 - 2\.2 Su uno strumento di misurazione è vietato apporre marcature che, per il loro significato o per la loro forma, possono essere confuse con le marcature di conformità prescritte o possono pregiudicarne la visibilità e la leggibilità, inducendo terzi in errore.
 
 Allegato 5
@@ -1800,9 +1809,9 @@ Allegato 6[^t-5]
 ### 1 Marcature
 
 <table>
-<tr><td>1.1 *Marcatura d’ammissione del tipo* La marcatura d’ammissione è costituita da una «S» stilizzata</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/245/20160420/it/xml/image/image2.png)</td></tr>
-<tr><td>1.2 *Marcatura di verificazione* La marcatura di verificazione è costituita dalla croce federale</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/245/20160420/it/xml/image/image3.png)</td></tr>
-<tr><td>1.3 *Marcatura* *di rifiuto* La marcatura di rifiuto, che dichiara nulla una verificazione, è costituita da un triangolo equilatero.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/245/20160420/it/xml/image/image4.png)</td></tr>
+<tr><td>1.1 *Marcatura d’ammissione del tipo* La marcatura d’ammissione è costituita da una «S» stilizzata</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/245/20240101/it/xml/image/image2.png)</td></tr>
+<tr><td>1.2 *Marcatura di verificazione* La marcatura di verificazione è costituita dalla croce federale</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/245/20240101/it/xml/image/image3.png)</td></tr>
+<tr><td>1.3 *Marcatura* *di rifiuto* La marcatura di rifiuto, che dichiara nulla una verificazione, è costituita da un triangolo equilatero.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/245/20240101/it/xml/image/image4.png)</td></tr>
 <tr><td>1.4 *Sigilli privati* Il METAS tiene un elenco dei sigilli privati.</td><td></td></tr>
 </table>
 
@@ -1823,11 +1832,13 @@ Allegato 6[^t-5]
 - 2\.4 *Privati*
 - Il segno distintivo di un privato, rappresentato da un numero d’ordine, può essere combinato con il sigillo privato. Il segno deve essere scelto in modo da escludere qualsiasi possibilità di scambio di persone. Il METAS tiene un apposito elenco.
 
-Allegato 7
+Allegato 7[^t-6]
 
 (art. 24 cpv. 2)
 
 ## Procedure per il mantenimento della stabilità di misurazione
+
+[^t-6]: Aggiornato dal n. II dell’O del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 724](https://fedlex.data.admin.ch/eli/oc/2023/724)).
 
 ### 1 Verificazione successiva
 
@@ -1881,7 +1892,9 @@ Allegato 7
 
 ### 9 Riparazione e piombatura
 
-- Riparazione di uno strumento di misurazione se il suo funzionamento è difettoso o se le sue caratteristiche metrologiche non sono più conformi alle prescrizioni della presente ordinanza, seguita dalla piombatura di tutte le parti metrologicamente rilevanti dello strumento da parte della persona competente per la riparazione.
-- 9\.1 Dopo una riparazione o dopo l’esecuzione di lavori di manutenzione, i privati autorizzati dagli uffici cantonali di verificazione possono eseguire la piombatura di uno strumento di misurazione mediante sigilli privati, al fine di permettere l’utilizzazione dello strumento fino al successivo controllo periodico della stabilità di misurazione secondo l’articolo 24 capoverso 1.
-- 9\.2 Detti privati devono dimostrare la loro attitudine. Ognuno di tali privati deve inoltre essere istruito dall’ufficio cantonale di verificazione sulla piombatura di strumenti di misurazione.
-- 9\.3 La persona responsabile della manutenzione o della regolazione, o se del caso l’utilizzatore, è tenuta ad annunciare lo strumento di misurazione all’organismo competente per l’esame della stabilità di misurazione.
+- 9\.1 Al fine di consentire l’utilizzo di uno strumento di misurazione dopo una riparazione o dopo l’esecuzione di lavori di rimessa in stato funzionale fino al successivo esame periodico della stabilità di misurazione ai sensi dell’articolo 24 capoverso 1, i privati autorizzati possono eseguire la piombatura dello strumento di misurazione.
+- 9\.2 L’autorizzazione è rilasciata dal METAS, sempreché le ordinanze specifiche concernenti gli strumenti di misurazione non prevedano un altro organismo responsabile dell’autorizzazione.
+- 9\.3 I privati devono dimostrare la loro idoneità. Essi devono frequentare i corsi ordinati dal METAS e seguire le direttive e le istruzioni dell’organismo responsabile dell’autorizzazione.
+- 9\.4 L’autorizzazione è valida per un periodo massimo di cinque anni. Essa è revocata se il privato autorizzato non si attiene alle direttive e alle istruzioni o se i requisiti non sono più soddisfatti.
+- 9\.5 Il privato autorizzato deve notificare la riparazione o la rimessa in stato funzionale all’organismo responsabile dell’esecuzione della procedura per il mantenimento della stabilità di misurazione.
+- 9\.6 Le ordinanze specifiche concernenti gli strumenti di misurazione possono prevedere disposizioni speciali per la riparazione e la piombatura, nella misura in cui sia necessario per la rispettiva categoria di strumenti di misurazione.

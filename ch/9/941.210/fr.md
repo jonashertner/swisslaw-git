@@ -4,11 +4,11 @@ title: Ordonnance du 15 février 2006 sur les instruments de mesure (OIMes)
 short: OIMes
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/245"
 language: fr
-version: 2016-04-20
+version: 2024-01-01
 adopted: 2006-02-15
 in_force: 2006-10-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/245/20160420/fr/xml/fedlex-data-admin-ch-eli-cc-2006-245-20160420-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/245/20160420/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/245/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-245-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/245/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/245/20160420/fr"
 
 (OIMes[^t-1])
 
-du 15 février 2006 (État le 20 avril 2016)
+du 15 février 2006 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: Introduite par le ch. I de l’O du 7 déc. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 7207](https://fedlex.data.admin.ch/eli/oc/2012/877)).
 
@@ -73,7 +73,7 @@ Un instrument de mesure est soumis aux dispositions de la présente ordonnance:
   - 2\. la santé de l’homme et des animaux,
   - 3\. la protection de l’environnement,
   - 4\. la sécurité publique,
-  - 5\. la détermination officielle de faits matériels; et
+  - 5\. la détermination officielle de faits matériels, et
 
 - b.[^3-1] si le Département fédéral de justice et police a édicté dans une ordonnance les prescriptions nécessaires spécifiques à l’instrument de mesure.
 - [tab] <sup>2</sup> …[^3-2]
@@ -150,7 +150,7 @@ Les instruments de mesure visés à l’art. 3 ne peuvent être mis sur le march
 
 **Normes techniques et documents normatifs**
 
-<sup>1</sup> Après consultation des autorités fédérales concernées et en accord avec le Secrétariat d’Etat à l’économie, l’Institut fédéral de métrologie (METAS) désigne les normes techniques et les documents normatifs adéquats pour concrétiser les exigences afférentes à une catégorie déterminée d’instruments de mesure.[^7-1]
+<sup>1</sup> Après consultation des autorités fédérales concernées et en accord avec le Secrétariat d’État à l’économie, l’Institut fédéral de métrologie (METAS) désigne les normes techniques et les documents normatifs adéquats pour concrétiser les exigences afférentes à une catégorie déterminée d’instruments de mesure.[^7-1]
 
 <sup>2</sup> Le titre et la référence des normes techniques et des documents normatifs sont publiés dans la Feuille fédérale.
 
@@ -180,7 +180,7 @@ Les informations destinées à l’utilisateur qui sont visées à l’annexe 1,
 
 [^10-1]: Nouvelle expression selon le ch. I de l’O du 7 déc. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 7207](https://fedlex.data.admin.ch/eli/oc/2012/877)). Il a été tenu compte de cette mod. dans tout le texte.
 
-### Section 3 Evaluation de la conformité
+### Section 3 Évaluation de la conformité
 
 #### Art. 11
 
@@ -314,7 +314,7 @@ L’approbation d’un instrument de mesure s’effectue selon une des méthodes
 
 <sup>1</sup> L’approbation et la vérification initiale d’un instrument de mesure sont attestées par l’apposition des marques définies à l’annexe 6.
 
-<sup>2</sup> A la place des marques prévues à l’al. 1, on peut aussi apposer les marques d’approbation et de vérification étrangères reconnues en Suisse dans le cadre d’un accord international de reconnaissance mutuelle des évaluations de conformité.
+<sup>2</sup> À la place des marques prévues à l’al. 1, on peut aussi apposer les marques d’approbation et de vérification étrangères reconnues en Suisse dans le cadre d’un accord international de reconnaissance mutuelle des évaluations de conformité.
 
 ### Section 5 Reconnaissance d’évaluations de la conformité, d’approbations et de vérifications initiales étrangères
 
@@ -472,7 +472,7 @@ METAS recueille des informations sur les catégories et sur les types d’instru
 
 **Département**[^33-1]
 
-Le Département fédéral de justice et police fixe les exigences spécifiques afférentes à la mise sur le marché et à l’utilisation d’instruments de mesure. A cet effet, il peut s’écarter de la présente ordonnance lorsque cela est nécessaire pour se conformer aux obligations découlant d’accords internationaux sur la reconnaissance mutuelle d’évaluations de conformité.
+Le Département fédéral de justice et police fixe les exigences spécifiques afférentes à la mise sur le marché et à l’utilisation d’instruments de mesure. À cet effet, il peut s’écarter de la présente ordonnance lorsque cela est nécessaire pour se conformer aux obligations découlant d’accords internationaux sur la reconnaissance mutuelle d’évaluations de conformité.
 
 [^33-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2015 5835](https://fedlex.data.admin.ch/eli/oc/2015/898)).
 
@@ -506,6 +506,14 @@ Les attestations de conformité des organismes d’évaluation de la conformité
 
 [^37a-1]: Introduit par le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2015 5835](https://fedlex.data.admin.ch/eli/oc/2015/898)).
 
+#### Art. 37b
+
+**Disposition transitoire relative à la modification du 15 novembre 2023**[^37b-1]
+
+Les autorisations des particuliers de réparer et de sceller des instruments de mesure qui ont été délivrées avant l’entrée en vigueur de la modification du 15 novembre 2023 sont valables encore cinq ans après l’entrée en vigueur de la cette modification.
+
+[^37b-1]: Introduit par le ch. I de l’O du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 724](https://fedlex.data.admin.ch/eli/oc/2023/724)).
+
 #### Art. 38
 
 **Entrée en vigueur**
@@ -518,7 +526,7 @@ Annexe 1[^t-2]
 
 ## Exigences essentielles applicables aux instruments de mesure
 
-[^t-2]: Mise à jour selon le ch. I de l’O du 26 août 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3083](https://fedlex.data.admin.ch/eli/oc/2015/577)).
+[^t-2]: Mise à jour par le ch. I de l’O du 26 août 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3083](https://fedlex.data.admin.ch/eli/oc/2015/577)).
 
 Un instrument de mesure doit assurer un niveau élevé de protection métrologique afin que toute partie concernée puisse avoir confiance dans le résultat du mesurage. Sa conception et sa fabrication doivent être d’un niveau élevé de qualité en ce qui concerne la technologie métrologique et la sécurité des données de mesurage.
 
@@ -560,7 +568,7 @@ Transaction commerciale dans laquelle:
 
 Environnements climatiques
 
-Conditions dans lesquelles les instruments de mesure peuvent être utilisés. Une plage de limites de température a été définie afin qu’il soit possible de tenir compte des différences climatiques entre les différents Etats.
+Conditions dans lesquelles les instruments de mesure peuvent être utilisés. Une plage de limites de température a été définie afin qu’il soit possible de tenir compte des différences climatiques entre les différents États.
 
 Services d’utilité publique
 
@@ -726,7 +734,7 @@ Tableau 1
 
   Le Département fédéral de justice et police peut prévoir des exceptions à l’installation d’un système d’affichage selon le ch. 10.5 lorsque:
 
-  - a. la fonction de l’affichage est assurée d’une autre manière, notamment lorsque les résultats de mesure sont accessibles de manière équivalente aux consommateurs; et que
+  - a. la fonction de l’affichage est assurée d’une autre manière, notamment lorsque les résultats de mesure sont accessibles de manière équivalente aux consommateurs, et que
   - b. rien ne s’y oppose en droit international.
 
 ### 11 Traitement ultérieur de données en vue de la conclusion d’une transaction commerciale
@@ -740,7 +748,7 @@ Tableau 1
 
 - 11\.2 En outre, une preuve durable du résultat du mesurage et les informations permettant d’identifier la transaction doivent être disponibles sur demande au moment où le mesurage se termine.
 
-### 12 Evaluation de la conformité
+### 12 Évaluation de la conformité
 
 - L’instrument de mesure doit être conçu de telle manière qu’il permette une évaluation aisée de sa conformité avec les exigences de la présente ordonnance.
 
@@ -748,9 +756,9 @@ Annexe 2[^t-3]
 
 (art. 11, al. 1, 12*a*, al. 1, 14, al. 2, et 19, al. 2)
 
-## Evaluation de la conformité d’instruments de mesure
+## Évaluation de la conformité d’instruments de mesure
 
-[^t-3]: Mise à jour selon le ch. II al. 1 de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2015 5835](https://fedlex.data.admin.ch/eli/oc/2015/898)).
+[^t-3]: Mise à jour par le ch. II al. 1 de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2015 5835](https://fedlex.data.admin.ch/eli/oc/2015/898)).
 
 ### I. Procédures d’évaluation de la conformité
 
@@ -874,16 +882,16 @@ En rapport avec le procédé de fabrication:
   - – dans le cas d’un sous-ensemble, toutes les informations nécessaires pour garantir la compatibilité avec d’autres sous-ensembles ou instruments de mesure.
 
 - Le certificat a une validité de dix ans à compter de la date de sa délivrance et peut être renouvelé pour de nouvelles périodes de dix ans.
-- 5\.3 L’organisme d’évaluation de la conformité établit un rapport d’évaluation à cet égard et le tient à la disposition de l’Etat contractant qui l’a désigné.
+- 5\.3 L’organisme d’évaluation de la conformité établit un rapport d’évaluation à cet égard et le tient à la disposition de l’État contractant qui l’a désigné.
 - 6 Le fabricant informe l’organisme d’évaluation de la conformité qui détient la documentation technique relative au certificat d’examen de type de toutes les modifications de l’instrument de mesure qui peuvent remettre en cause la conformité de l’instrument de mesure avec les exigences essentielles ou les conditions de validité du certificat. Ces modifications exigent une nouvelle approbation sous la forme d’un additif au certificat initial d’examen de type.
 - 7
 
-  Chaque organisme d’évaluation de la conformité informe immédiatement l’Etat contractant qui l’a désigné sur les éléments suivants:
+  Chaque organisme d’évaluation de la conformité informe immédiatement l’État contractant qui l’a désigné sur les éléments suivants:
 
   - – les certificats d’examen de type délivrés et leurs annexes;
   - – les additifs et modifications relatifs aux certificats déjà délivrés.
 
-- Chaque organisme d’évaluation de la conformité informe immédiatement l’Etat contractant qui l’a désigné en cas de révocation d’un certificat d’examen de type.
+- Chaque organisme d’évaluation de la conformité informe immédiatement l’État contractant qui l’a désigné en cas de révocation d’un certificat d’examen de type.
 - L’organisme d’évaluation de la conformité conserve la documentation technique, y compris la documentation fournie par le fabricant, pour une durée allant jusqu’à la fin de la validité du certificat.
 - 8 Le fabricant conserve avec la documentation technique une copie du certificat d’examen de type, de ses annexes, additifs et modifications pendant une durée de dix ans à partir de la fabrication du dernier instrument de mesure.
 
@@ -1003,7 +1011,7 @@ En rapport avec le procédé de fabrication:
   - – les procès-verbaux relatifs à la qualité tels que les rapports d’inspection, les données d’essais et d’étalonnage et les rapports sur la qualification du personnel concerné.
 
 - 4\.3 L’organisme d’évaluation de la conformité effectue périodiquement des audits afin de s’assurer que le fabricant maintient et applique le système de gestion de la qualité et fournit un rapport d’audit au fabricant.
-- 4\.4 En outre, l’organisme d’évaluation de la conformité peut effectuer des visites à l’improviste chez le fabricant. A l’occasion de ces visites, il peut, si nécessaire, effectuer ou faire effectuer des essais de produits destinés à vérifier le bon fonctionnement du système de gestion de la qualité. Il fournit au fabricant un rapport sur la visite et, si un essai est effectué, un rapport d’essai.
+- 4\.4 En outre, l’organisme d’évaluation de la conformité peut effectuer des visites à l’improviste chez le fabricant. À l’occasion de ces visites, il peut, si nécessaire, effectuer ou faire effectuer des essais de produits destinés à vérifier le bon fonctionnement du système de gestion de la qualité. Il fournit au fabricant un rapport sur la visite et, si un essai est effectué, un rapport d’essai.
 
 ### Marques
 
@@ -1021,7 +1029,7 @@ En rapport avec le procédé de fabrication:
   - – les modifications visées au ch. 3.5;
   - – les décisions et rapports de l’organisme d’évaluation de la conformité visés aux ch. 3.5, 4.3 et 4.4.
 
-- 8 Chaque organisme d’évaluation de la conformité met périodiquement à la disposition de l’Etat contractant qui l’a désigné la liste des reconnaissances de systèmes de gestion de la qualité délivrées ou refusées et informe immédiatement l’Etat qui l’a désigné en cas de révocation de la reconnaissance d’un système de gestion de la qualité.
+- 8 Chaque organisme d’évaluation de la conformité met périodiquement à la disposition de l’État contractant qui l’a désigné la liste des reconnaissances de systèmes de gestion de la qualité délivrées ou refusées et informe immédiatement l’État qui l’a désigné en cas de révocation de la reconnaissance d’un système de gestion de la qualité.
 
 ### Mandataire du fabricant
 
@@ -1085,7 +1093,7 @@ En rapport avec le procédé de fabrication:
   - – les procès-verbaux relatifs à la qualité tels que les rapports d’inspection, les données d’essais et d’étalonnage et les rapports sur la qualification du personnel concerné.
 
 - 6\.3 L’organisme d’évaluation de la conformité effectue périodiquement des audits afin de s’assurer que le fabricant maintient et applique le système de gestion de la qualité et fournit un rapport d’audit au fabricant.
-- 6\.4 En outre, l’organisme d’évaluation de la conformité peut effectuer des visites à l’improviste chez le fabricant. A l’occasion de ces visites, il peut, si nécessaire, effectuer ou faire effectuer des essais de produits destinés à vérifier le bon fonctionnement du système de gestion de la qualité. Il fournit au fabricant un rapport sur la visite et, si un essai est effectué, un rapport d’essai.
+- 6\.4 En outre, l’organisme d’évaluation de la conformité peut effectuer des visites à l’improviste chez le fabricant. À l’occasion de ces visites, il peut, si nécessaire, effectuer ou faire effectuer des essais de produits destinés à vérifier le bon fonctionnement du système de gestion de la qualité. Il fournit au fabricant un rapport sur la visite et, si un essai est effectué, un rapport d’essai.
 
 ### Marques
 
@@ -1103,7 +1111,7 @@ En rapport avec le procédé de fabrication:
   - – les modifications visées au ch. 5.5;
   - – les décisions et rapports de l’organisme d’évaluation de la conformité visés aux ch. 5.5, 6.3 et 6.4.
 
-- 10 Chaque organisme d’évaluation de la conformité met périodiquement à la disposition de l’Etat contractant qui l’a désigné la liste des reconnaissances de systèmes de gestion de la qualité délivrées ou refusées et informe immédiatement l’Etat qui l’a désigné en cas de révocation de la reconnaissance d’un système de gestion de la qualité.
+- 10 Chaque organisme d’évaluation de la conformité met périodiquement à la disposition de l’État contractant qui l’a désigné la liste des reconnaissances de systèmes de gestion de la qualité délivrées ou refusées et informe immédiatement l’État qui l’a désigné en cas de révocation de la reconnaissance d’un système de gestion de la qualité.
 
 ### Mandataire du fabricant
 
@@ -1160,7 +1168,7 @@ En rapport avec le procédé de fabrication:
   - – les procès-verbaux relatifs à la qualité tels que les rapports d’inspection, les données d’essais et d’étalonnage et les rapports sur la qualification du personnel concerné.
 
 - 4\.3 L’organisme d’évaluation de la conformité effectue périodiquement des audits afin de s’assurer que le fabricant maintient et applique le système de gestion de la qualité et fournit un rapport d’audit au fabricant.
-- 4\.4 En outre, l’organisme d’évaluation de la conformité peut effectuer des visites à l’improviste chez le fabricant. A l’occasion de ces visites, il peut, si nécessaire, effectuer ou faire effectuer des essais de produits destinés à vérifier le bon fonctionnement du système de gestion de la qualité. Il fournit au fabricant un rapport sur la visite et, si un essai est effectué, un rapport d’essai.
+- 4\.4 En outre, l’organisme d’évaluation de la conformité peut effectuer des visites à l’improviste chez le fabricant. À l’occasion de ces visites, il peut, si nécessaire, effectuer ou faire effectuer des essais de produits destinés à vérifier le bon fonctionnement du système de gestion de la qualité. Il fournit au fabricant un rapport sur la visite et, si un essai est effectué, un rapport d’essai.
 
 ### Marques
 
@@ -1178,7 +1186,7 @@ En rapport avec le procédé de fabrication:
   - – les modifications visées au ch. 3.5, al. 2;
   - – les décisions et rapports de l’organisme d’évaluation de la conformité visés au ch. 3.5, dernier alinéa, et aux ch. 4.3 et 4.4.
 
-- 8 Chaque organisme d’évaluation de la conformité met périodiquement à la disposition de l’Etat contractant qui l’a désigné la liste des reconnaissances de systèmes de gestion de la qualité délivrées ou refusées et informe immédiatement l’Etat qui l’a désigné en cas de révocation de la reconnaissance d’un système de gestion de la qualité.
+- 8 Chaque organisme d’évaluation de la conformité met périodiquement à la disposition de l’État contractant qui l’a désigné la liste des reconnaissances de systèmes de gestion de la qualité délivrées ou refusées et informe immédiatement l’État qui l’a désigné en cas de révocation de la reconnaissance d’un système de gestion de la qualité.
 
 ### Mandataire du fabricant
 
@@ -1241,7 +1249,7 @@ En rapport avec le procédé de fabrication:
   - – les procès-verbaux relatifs à la qualité tels que les rapports d’inspection, les données d’essais et d’étalonnage et les rapports sur la qualification du personnel concerné.
 
 - 6\.3 L’organisme d’évaluation de la conformité effectue périodiquement des audits afin de s’assurer que le fabricant maintient et applique le système de gestion de la qualité et fournit un rapport d’audit au fabricant.
-- 6\.4 En outre, l’organisme d’évaluation de la conformité peut effectuer des visites à l’improviste chez le fabricant. A l’occasion de ces visites, il peut, si nécessaire, effectuer ou faire effectuer des essais de produits destinés à vérifier le bon fonctionnement du système de gestion de la qualité. Il fournit au fabricant un rapport sur la visite et, si un essai est effectué, un rapport d’essai.
+- 6\.4 En outre, l’organisme d’évaluation de la conformité peut effectuer des visites à l’improviste chez le fabricant. À l’occasion de ces visites, il peut, si nécessaire, effectuer ou faire effectuer des essais de produits destinés à vérifier le bon fonctionnement du système de gestion de la qualité. Il fournit au fabricant un rapport sur la visite et, si un essai est effectué, un rapport d’essai.
 
 ### Marques
 
@@ -1259,7 +1267,7 @@ En rapport avec le procédé de fabrication:
   - – les modifications visées au ch. 5.5;
   - – les décisions et rapports de l’organisme d’évaluation de la conformité visés aux ch. 5.5, 6.3 et 6.4.
 
-- 10 Chaque organisme d’évaluation de la conformité met périodiquement à la disposition de l’Etat contractant qui l’a désigné la liste des reconnaissances de systèmes de gestion de la qualité délivrées ou refusées et informe immédiatement l’Etat qui l’a désigné en cas de révocation de la reconnaissance d’un système de gestion de la qualité.
+- 10 Chaque organisme d’évaluation de la conformité met périodiquement à la disposition de l’État contractant qui l’a désigné la liste des reconnaissances de systèmes de gestion de la qualité délivrées ou refusées et informe immédiatement l’État qui l’a désigné en cas de révocation de la reconnaissance d’un système de gestion de la qualité.
 
 ### Mandataire du fabricant
 
@@ -1455,7 +1463,7 @@ En rapport avec le procédé de fabrication:
   - – les procès-verbaux relatifs à la qualité, comme prévu par la partie «fabrication» du système de gestion de la qualité, tels que les rapports d’inspection, les données d’essais et d’étalonnage et les rapports sur la qualification du personnel concerné.
 
 - 4\.3 L’organisme d’évaluation de la conformité effectue périodiquement des audits afin de s’assurer que le fabricant maintient et applique le système de gestion de la qualité et fournit un rapport d’audit au fabricant.
-- 4\.4 En outre, l’organisme d’évaluation de la conformité peut effectuer des visites à l’improviste chez le fabricant. A l’occasion de ces visites, il peut, si nécessaire, effectuer ou faire effectuer, sous sa responsabilité, des essais de produits destinés à vérifier le bon fonctionnement du système de gestion de la qualité. Il fournit au fabricant un rapport sur la visite et, si un essai est effectué, un rapport d’essai.
+- 4\.4 En outre, l’organisme d’évaluation de la conformité peut effectuer des visites à l’improviste chez le fabricant. À l’occasion de ces visites, il peut, si nécessaire, effectuer ou faire effectuer, sous sa responsabilité, des essais de produits destinés à vérifier le bon fonctionnement du système de gestion de la qualité. Il fournit au fabricant un rapport sur la visite et, si un essai est effectué, un rapport d’essai.
 
 ### Marques
 
@@ -1473,7 +1481,7 @@ En rapport avec le procédé de fabrication:
   - – les modifications visées au ch. 3.5;
   - – les décisions et rapports de l’organisme d’évaluation de la conformité visés aux ch. 3.5, 4.3 et 4.4.
 
-- 8 Chaque organisme d’évaluation de la conformité met périodiquement à la disposition de l’Etat contractant qui l’a désigné la liste des reconnaissances de systèmes de gestion de la qualité délivrées ou refusées et informe immédiatement l’Etat qui l’a désigné en cas de révocation de la reconnaissance d’un système de gestion de la qualité.
+- 8 Chaque organisme d’évaluation de la conformité met périodiquement à la disposition de l’État contractant qui l’a désigné la liste des reconnaissances de systèmes de gestion de la qualité délivrées ou refusées et informe immédiatement l’État qui l’a désigné en cas de révocation de la reconnaissance d’un système de gestion de la qualité.
 
 ### Mandataire du fabricant
 
@@ -1519,7 +1527,7 @@ En rapport avec le procédé de fabrication:
 - 3\.5 Le fabricant informe l’organisme d’évaluation de la conformité ayant reconnu le système de gestion de la qualité de tout projet de modifications de celui-ci.
 - L’organisme d’évaluation de la conformité évalue les modifications proposées et décide si le système de gestion de la qualité modifié satisfera encore aux exigences visées au ch. 3.2 ou si une réévaluation est nécessaire.
 - Il notifie sa décision au fabricant. La notification contient les conclusions de l’examen et la décision d’évaluation motivée.
-- 3\.6 Chaque organisme d’évaluation de la conformité met périodiquement à la disposition de l’Etat contractant qui l’a désigné la liste des reconnaissances de systèmes de gestion de la qualité délivrées ou refusées et informe immédiatement l’Etat qui l’a désigné en cas de révocation de la reconnaissance d’un système de gestion de la qualité.
+- 3\.6 Chaque organisme d’évaluation de la conformité met périodiquement à la disposition de l’État contractant qui l’a désigné la liste des reconnaissances de systèmes de gestion de la qualité délivrées ou refusées et informe immédiatement l’État qui l’a désigné en cas de révocation de la reconnaissance d’un système de gestion de la qualité.
 
 ### Contrôle de la conception
 
@@ -1545,18 +1553,18 @@ En rapport avec le procédé de fabrication:
   - – le cas échéant, toutes les informations spécifiques nécessaires pour vérifier les caractéristiques des instruments de mesure fabriqués;
   - – dans le cas des sous-ensembles, toutes les informations nécessaires pour garantir la compatibilité avec les autres sous-ensembles ou instruments de mesure.
 
-- 4\.3.3 L’organisme d’évaluation de la conformité établit un rapport d’évaluation à cet égard et le tient à la disposition de l’Etat contractant qui l’a désigné. Sans préjudice de l’annexe 3, ch. 8, l’organisme d’évaluation de la conformité ne doit divulguer le contenu de ce rapport en totalité ou en partie qu’avec l’accord du fabricant.
+- 4\.3.3 L’organisme d’évaluation de la conformité établit un rapport d’évaluation à cet égard et le tient à la disposition de l’État contractant qui l’a désigné. Sans préjudice de l’annexe 3, ch. 8, l’organisme d’évaluation de la conformité ne doit divulguer le contenu de ce rapport en totalité ou en partie qu’avec l’accord du fabricant.
 - Le certificat a une validité de dix ans à compter de la date de sa délivrance et peut être renouvelé pour de nouvelles périodes de dix ans.
 - Si un certificat d’examen de la conception est refusé au fabricant, l’organisme d’évaluation de la conformité fournit les raisons détaillées de ce refus.
 - 4\.4 Le fabricant informe l’organisme d’évaluation de la conformité qui a délivré le certificat d’examen de la conception de toutes les modifications fondamentales de la conception approuvée. Ces modifications doivent faire l’objet d’une approbation complémentaire par l’organisme d’évaluation de la conformité qui a délivré le certificat d’examen de la conception lorsque de telles modifications peuvent remettre en cause la conformité de l’instrument de mesure avec les exigences essentielles définies dans la présente ordonnance, les conditions de validité du certificat ou les conditions prescrites pour l’utilisation de l’instrument de mesure. L’approbation complémentaire est délivrée sous la forme d’un additif au certificat initial d’examen de la conception.
 - 4\.5
 
-  Chaque organisme d’évaluation de la conformité met périodiquement à la disposition de l’Etat contractant qui l’a désigné:
+  Chaque organisme d’évaluation de la conformité met périodiquement à la disposition de l’État contractant qui l’a désigné:
 
   - – les certificats d’examen de la conception délivrés et leurs annexes;
   - – des additifs et modifications relatifs aux certificats délivrés.
 
-- Chaque organisme d’évaluation de la conformité informe immédiatement l’Etat contractant qui l’a désigné de la révocation d’un certificat d’examen de la conception.
+- Chaque organisme d’évaluation de la conformité informe immédiatement l’État contractant qui l’a désigné de la révocation d’un certificat d’examen de la conception.
 - 4\.6 Le fabricant, ou son mandataire établi en Suisse, conserve avec la documentation technique une copie du certificat d’examen de la conception, de ses annexes et de ses additifs pendant une durée de dix ans à partir de la fabrication du dernier instrument de mesure.
 - Lorsque ni le fabricant ni son mandataire ne sont établis en Suisse, l’obliga-tion de communiquer la documentation technique sur demande incombe à la personne désignée par le fabricant.
 
@@ -1572,7 +1580,7 @@ En rapport avec le procédé de fabrication:
   - – les procès-verbaux relatifs à la qualité, comme prévu par la partie «fabrication» du système de gestion de la qualité, tels que les rapports d’inspection, les données d’essais et d’étalonnage et les rapports sur la qualification du personnel concerné.
 
 - 5\.3 L’organisme d’évaluation de la conformité effectue périodiquement des audits pour s’assurer que le fabricant maintient et applique le système de gestion de la qualité et fournit un rapport d’audit au fabricant.
-- 5\.4 En outre, l’organisme d’évaluation de la conformité peut effectuer des visites à l’improviste chez le fabricant. A l’occasion de telles visites, l’organisme d’évaluation de la conformité peut, si nécessaire, effectuer ou faire effectuer, sous sa responsabilité, des essais de produits destinés à vérifier le bon fonctionnement du système de gestion de la qualité. Il fournit au fabricant un rapport sur la visite et, si un essai est effectué, un rapport d’essai.
+- 5\.4 En outre, l’organisme d’évaluation de la conformité peut effectuer des visites à l’improviste chez le fabricant. À l’occasion de telles visites, l’organisme d’évaluation de la conformité peut, si nécessaire, effectuer ou faire effectuer, sous sa responsabilité, des essais de produits destinés à vérifier le bon fonctionnement du système de gestion de la qualité. Il fournit au fabricant un rapport sur la visite et, si un essai est effectué, un rapport d’essai.
 
 ### Marques
 
@@ -1711,7 +1719,7 @@ Annexe 4
 
 - 1\.1 La représentation graphique de la marque de conformité est la suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/245/20160420/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/245/20240101/fr/xml/image/image1.png)
 
 - La marque a une taille d’au moins 5 mm. En cas de réduction ou d’agrandissement de la marque de conformité, les proportions de celle-ci doivent être respectées.
 - 1\.2 Le marquage métrologique supplémentaire est constitué par la lettre «M» et les deux derniers chiffres de l’année de son apposition, entourés d’un rectangle. La hauteur du rectangle est égale à la taille de la marque de conformité. Le marquage métrologique supplémentaire suit immédiatement la marque de conformité.
@@ -1795,14 +1803,14 @@ Annexe 6[^t-5]
 
 ## Répertoire des marques
 
-[^t-5]: Mise à jour selon le ch. I de l’O du 7 déc. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 7207](https://fedlex.data.admin.ch/eli/oc/2012/877)).
+[^t-5]: Mise à jour par le ch. I de l’O du 7 déc. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 7207](https://fedlex.data.admin.ch/eli/oc/2012/877)).
 
 ### 1 Marques
 
 <table>
-<tr><td>1.1 *Marque d’approbation de type* La marque d’approbation de type est la lettre S stylisée.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/245/20160420/fr/xml/image/image2.png)</td></tr>
-<tr><td>1.2 *Marque de vérification* La marque de vérification est la croix fédérale.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/245/20160420/fr/xml/image/image3.png)</td></tr>
-<tr><td>1.3 *Marque de refus* La marque de refus pour l’annulation d’une vérification est un triangle équilatéral.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/245/20160420/fr/xml/image/image4.png)</td></tr>
+<tr><td>1.1 *Marque d’approbation de type* La marque d’approbation de type est la lettre S stylisée.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/245/20240101/fr/xml/image/image2.png)</td></tr>
+<tr><td>1.2 *Marque de vérification* La marque de vérification est la croix fédérale.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/245/20240101/fr/xml/image/image3.png)</td></tr>
+<tr><td>1.3 *Marque de refus* La marque de refus pour l’annulation d’une vérification est un triangle équilatéral.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/245/20240101/fr/xml/image/image4.png)</td></tr>
 <tr><td>1.4 *Marques* *de scellage privées* METAS tient un registre des marques de scellage privées.</td><td></td></tr>
 </table>
 
@@ -1823,11 +1831,13 @@ Annexe 6[^t-5]
 - 2\.4 *Marques de particuliers*
 - La marque servant à identifier des particuliers par un numéro d’ordre peut être combinée avec la marque de scellage privée. Les marques d’identification doivent être choisies de façon à exclure tout risque de confusion. METAS tient un registre.
 
-Annexe 7
+Annexe 7[^t-6]
 
 (art. 24, al. 2)
 
 ## Procédures destinées à maintenir la stabilité de mesure
+
+[^t-6]: Mise à jour par le ch. II de l’O du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 724](https://fedlex.data.admin.ch/eli/oc/2023/724)).
 
 ### 1 Vérification ultérieure
 
@@ -1860,7 +1870,7 @@ Annexe 7
 - 5\.1 La procédure détaillée est fixée dans l’ordonnance sur les instruments de mesure spécifiques ou, dans des cas particuliers, par l’organisme compétent.
 - 5\.2 Si le contrôle montre que l’instrument de mesure ne respecte pas les erreurs maximales tolérées, l’instrument de mesure doit être si nécessaire remis en état et subir la procédure de maintien de la stabilité de mesure fixée dans l’ordonnance sur les instruments de mesure spécifiques.
 
-### 6 Etalonnage
+### 6 Étalonnage
 
 - L’utilisateur lui-même ou l’organisme habilité par l’autorité de surveillance compétente étalonne périodiquement l’instrument de mesure et contrôle le respect des erreurs maximales tolérées.
 - 6\.1 La procédure détaillée est fixée dans l’ordonnance sur les instruments de mesure spécifiques ou, dans des cas particuliers, par l’organisme compétent, compte tenu des caractéristiques spécifiques et de l’utilisation prévue de l’instrument de mesure.
@@ -1875,13 +1885,15 @@ Annexe 7
 
 ### 8 Ajustage
 
-- Elimination d’écarts de mesure inadmissibles du mesurande par rapport à une référence adéquate et traçable pour permettre à l’instrument de mesure de respecter de nouveau les erreurs maximales tolérées prescrites.
+- Élimination d’écarts de mesure inadmissibles du mesurande par rapport à une référence adéquate et traçable pour permettre à l’instrument de mesure de respecter de nouveau les erreurs maximales tolérées prescrites.
 - 8\.1 L’ajustage doit se faire conformément aux indications du fabricant de l’instrument de mesure. L’ordonnance sur les instruments de mesure spécifiques ou le fabricant fixe les délais d’exécution.
 - 8\.2 L’ajustage peut être effectué par l’utilisateur lui-même ou par une personne possédant la compétence professionnelle requise. Dans certaines circonstances, il peut aussi être déclenché et réalisé automatiquement par l’instrument de mesure.
 
 ### 9 Réparation et scellage
 
-- Réparation d’un instrument de mesure qui présente un défaut de fonctionnement ou dont les caractéristiques métrologiques ne répondent plus aux prescriptions de la présente ordonnance, suivie du scellage de toutes les parties métrologiquement déterminantes de l’instrument de mesure par la personne compétente pour la réparation.
-- 9\.1 Les particuliers autorisés par les offices de vérification cantonaux peuvent sceller un instrument de mesure au moyen de sceaux privés pour permettre son utilisation après réparation ou remise en état jusqu’au prochain contrôle périodique de la stabilité de mesure fixé à l’art. 24, al. 1.
-- 9\.2 Les particuliers doivent prouver leur aptitude. En outre, chaque particulier doit suivre une instruction sur le scellage d’instruments de mesure auprès d’un office cantonal de vérification.
-- 9\.3 Le responsable de la remise en état ou de l’ajustage d’un instrument de mesure, le cas échéant l’utilisateur, annonce l’instrument de mesure à l’organisme compétent pour la procédure de maintien de la stabilité de mesure.
+- 9\.1 Les particuliers autorisés peuvent sceller un instrument de mesure pour permettre son utilisation après réparation ou remise en état jusqu’au prochain contrôle périodique de la stabilité de mesure fixé à l’art. 24, al. 1.
+- 9\.2 L’autorisation est délivrée par METAS, sauf dispositions contraires des ordonnances sur les instruments de mesure spécifiques.
+- 9\.3 Les particuliers doivent prouver leur aptitude. Ils doivent suivre les cours requis par METAS et se conformer aux directives et aux instructions de l’organisme compétent.
+- 9\.4 L’autorisation est délivrée pour cinq ans au maximum. L’autorisation est retirée si le particulier autorisé ne se conforme pas aux directives et aux instructions ou s’il ne remplit plus les conditions.
+- 9\.5 Le particulier autorisé doit notifier la réparation ou la remise en état à l’organisme compétent pour la procédure de maintien de la stabilité de mesure.
+- 9\.6 Les ordonnances sur les instruments de mesure spécifiques peuvent prévoir si nécessaire des dispositions particulières applicables à la réparation et au scellage de la catégorie d’instruments de mesure concernée.
