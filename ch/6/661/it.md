@@ -4,20 +4,20 @@ title: "Legge federale del 12 giugno 1959 sulla tassa d'esenzione dall'obbligo m
 short: LTEO
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125"
 language: it
-version: 2022-01-01
+version: 2024-01-01
 adopted: 1959-06-12
 in_force: 1960-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1959-2035_2097_2125-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/2035_2097_2125/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1959-2035_2097_2125-20240101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/2035_2097_2125/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sulla tassa d’esenzione dall’obbligo militare
 
-(LTEO)**[^t-1]**
+(LTEO)[^t-1]
 
-del 12 giugno 1959 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 12 giugno 1959 (Stato 1° gennaio 2024)
 
 [^t-1]: Nuovo testo giusta il n. 9 dell’all. alla L del 6 ott. 1995 sul servizio civile, in vigore dal 1° gen. 1997 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
 
@@ -30,7 +30,7 @@ decreta:
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: Nuovo testo giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
 
-## Capitolo primo:**** Assoggettamento**** alla tassa
+## Capitolo primo: Assoggettamento alla tassa
 
 [^chap1-1][^chap1-2]
 
@@ -95,8 +95,8 @@ Sono sottoposti alla tassa gli uomini assoggettati agli obblighi militari, domic
 È esentato dalla tassa chiunque, nell’anno di assoggettamento:
 
 - a.[^4-2] consegue, per notevole menomazione fisica, mentale o psichica, un reddito imponibile che, dopo deduzione supplementare di prestazioni d’assicurazione di cui all’articolo 12 capoverso 1 lettera c nonché delle spese di sostentamento causate dall’invalidità, non supera di oltre il 100 per cento il minimo vitale ai sensi del diritto in materia di esecuzione per debiti;
-- [tab] a<sup>bis</sup>.[^4-3] è considerato inabile al servizio a causa di una notevole menomazione e percepisce una rendita o un assegno per grandi invalidi dall’assicurazione federale per l’invalidità o dall’assicurazione contro gli infortuni;
-- [tab] a<sup>ter</sup>.[^4-4] è considerato inabile al servizio a causa di una notevole menomazione e non riceve un assegno per grandi invalidi, ancorché ne adempia una delle due esigenze minime;
+- a<sup>bis</sup>.[^4-3] è considerato inabile al servizio a causa di una notevole menomazione e percepisce una rendita o un assegno per grandi invalidi dall’assicurazione federale per l’invalidità o dall’assicurazione contro gli infortuni;
+- a<sup>ter</sup>.[^4-4] è considerato inabile al servizio a causa di una notevole menomazione e non riceve un assegno per grandi invalidi, ancorché ne adempia una delle due esigenze minime;
 - b.[^4-5] è, per un danno cagionato alla sua salute dal servizio militare o dal servizio civile, dichiarato inabile al servizio o è dispensato dallo stesso;
 - c.[^4-6] quale membro dell’Assemblea federale, dovendo essere presente alle sessioni della stessa non ha potuto prestare il servizio militare o il servizio civile cui era tenuto, appartiene al personale militare oppure è esentato dal servizio personale giusta la legislazione sul servizio militare o quella sul servizio civile;
 - d.[^4-7] ...
@@ -235,7 +235,7 @@ Per determinare se la tassa d’esenzione finale è dovuta, sono convertiti in g
 
 [^9a-1]: Introdotto dal n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 
-## Capitolo secondo: Reddito imponibile****
+## Capitolo secondo: Reddito imponibile
 
 [^chap2-1]
 
@@ -533,6 +533,18 @@ A richiesta dell’assoggettato, sono tenuti a dargli attestazioni:
 [^30-1]: Nuovo testo giusta il n. I della LF del 22 giu. 1979, in vigore dal 1° gen. 1980 ([RU 1979 1733](https://fedlex.data.admin.ch/eli/oc/1979/1733_1733_1733); [FF 1978 II 913](https://fedlex.data.admin.ch/eli/fga/1978/2_913_933_913)).
 [^30-2]: Nuovo testo giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
 
+#### Art. 30a
+
+**Procedure elettroniche**[^30a-1]
+
+<sup>1</sup> I Cantoni prevedono la possibilità di svolgere procedure per via elettronica. Garantiscono conformemente al diritto cantonale l’autenticità e l’integrità dei dati trasmessi.
+
+<sup>2</sup> In caso di presentazione per via elettronica di atti scritti per i quali la legge prescrive la firma, i Cantoni prevedono, invece della firma, la possibilità per l’assoggettato di confermare i dati per via elettronica.
+
+<sup>3</sup> I Cantoni prevedono che l’autorità competente per la tassa notifichi all’assoggettato, previo suo assenso, documenti in formato elettronico.
+
+[^30a-1]: Introdotto dal n. I 9 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2024 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+
 #### Art. 31
 
 **Ricorso**
@@ -724,7 +736,7 @@ La prescrizione è interrotta:
 [^38-2]: Nuovo testo giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
 [^38-3]: Nuovo testo giusta il n. 9 dell’all. alla L del 6 ott. 1995 sul servizio civile, in vigore dal 1° gen. 1997 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
 
-## Capitolo settimo:**** Rimborso della tassa
+## Capitolo settimo: Rimborso della tassa
 
 [^chap7-1]
 
@@ -862,7 +874,7 @@ Sono segnatamente abrogate:
 [^48-1]: [CS **5** 151]
 [^48-2]: [CS **5** 155]
 [^48-3]: [CS **5** 184]
-[^48-4]: [CS **5** 3; [RU 1948 365](https://fedlex.data.admin.ch/eli/oc/1948/425_417_365), [1949 1525](https://fedlex.data.admin.ch/eli/oc/1949/1491_1595_1525)art. 1 a 3, 5 lett. a – d, **1952** 339 346 art. 2, **1959** 2125 art. 48 cpv. 2 lett. d, **1961** 241, **1968** 74 n. I, III, **1970** 46, **1972** 1069 art. 15 n. 3, **1975** 11, **1984** 1324, **1990** 1882, **1991** 857 all. n. 10 1412, **1992** 288 all. n. 20 2521 art. 55 n. 3 2392 n. I 2, **1993** 901 all. n. 5 3043 all. n. 2, **1994** 1622 art. 22 cpv. 2, **1997** 2022 art. 72 lett. e. [RU 1995 4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)all. n. 7]
+[^48-4]: [CS **5** 3; [RU 1948 365](https://fedlex.data.admin.ch/eli/oc/1948/425_417_365); [1949 1525](https://fedlex.data.admin.ch/eli/oc/1949/1491_1595_1525)art. 1 a 3, 5 lett. a – d; **1952** 339, 346 art. 2; **1959** 2125 art. 48 cpv. 2 lett. d; **1961** 241; **1968** 74 n. I, III; **1970** 46; **1972** 1069 art. 15 n. 3; **1975** 11; **1984** 1324; **1990** 1882; **1991** 857 all. n. 10, 1412; **1992** 288 all. n. 20, 2521 art. 55 n. 3, 2392 n. I 2; **1993** 901 all. n. 5, 3043 all. n. 2; **1994** 1622 art. 22 cpv. 2; **1997** 2022 art. 72 lett. e. [RU 1995 4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)all. n. 7]
 
 #### Art. 49
 
@@ -878,7 +890,7 @@ Data dell’entrata in vigore: 1° gennaio 1960[^49-3]
 [^49-2]: Abrogati dal n. I della LF del 16 mar. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5277](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
 [^49-3]: DCF del 14 dic. 1959
 
-## Disposizioni finali della modifica del 22 giugno 1979****
+## Disposizioni finali della modifica del 22 giugno 1979
 
 [^u1-1]
 
@@ -900,7 +912,7 @@ III
 [^u1-3]: Abrogato dal n. 8 dell’all. alla LF del 22 giu. 1990, con effetto dal 1° gen. 1991 ([RU 1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882); [FF 1989 II 942](https://fedlex.data.admin.ch/eli/fga/1989/2_1194_1078_942)).
 [^u1-4]: Essa si applica per la prima volta per l’anno 1979 (cpv. 2 del DCF del 7 nov. 1979 – RU **1979** 1739).
 
-## Disposizioni finali della modifica del 17 giugno 1994****
+## Disposizioni finali della modifica del 17 giugno 1994
 
 [^u2-1]
 
@@ -920,7 +932,7 @@ IV
 
 [^u2-2]: Essa si applica per la prima volta per l’anno 1995 (art. 1 dell’O del 9 nov. 1994 – RU **1994** 2874).
 
-## Disposizioni transitorie della modifica del 16 marzo 2018****
+## Disposizioni transitorie della modifica del 16 marzo 2018
 
 [^u3-1]
 

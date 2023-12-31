@@ -4,20 +4,20 @@ title: Bundesgesetz vom 12. Juni 1959 über die Wehrpflichtersatzabgabe (WPEG)
 short: WPEG
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125"
 language: de
-version: 2022-01-01
+version: 2024-01-01
 adopted: 1959-06-12
 in_force: 1960-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1959-2035_2097_2125-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/2035_2097_2125/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1959-2035_2097_2125-20240101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/2035_2097_2125/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über die Wehrpflichtersatzabgabe
 
-(WPEG)**[^t-1]**
+(WPEG)[^t-1]
 
-vom 12. Juni 1959 (Stand am 1. Januar 2022)
+vom 12. Juni 1959 (Stand am 1. Januar 2024)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 2002, in Kraft seit 1. Jan. 2004 ([AS 2003 3707](https://fedlex.data.admin.ch/eli/oc/2003/527); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
@@ -51,7 +51,7 @@ Schweizer Bürger, die ihre Wehrpflicht nicht oder nur teilweise durch persönli
 Ersatzpflichtig sind die Wehrpflichtigen mit Wohnsitz im In- oder Ausland, die im Ersatzjahr, das dem Kalenderjahr entspricht:[^2-2]
 
 - a.[^2-3] während mehr als sechs Monaten weder in einer Formation der Armee eingeteilt noch der Zivildienstpflicht unterstellt sind;
-- b.[^2-4] ...
+- b.[^2-4] …
 - c.[^2-5] als Dienstpflichtige ihren Militär- oder Zivildienst nicht leisten.
 
 <sup>1bis</sup> Ersatzpflichtig sind ferner Militär- und Zivildienstleistende, die aus der Dienstpflicht entlassen werden, die Gesamtdienstleistungspflicht jedoch nicht erfüllt haben.[^2-6]
@@ -90,8 +90,8 @@ Ersatzpflichtig sind die Wehrpflichtigen mit Wohnsitz im In- oder Ausland, die i
 Von der Ersatzpflicht ist befreit, wer im Ersatzjahr:[^4-2]
 
 - a.[^4-3] wegen erheblicher körperlicher, geistiger oder psychischer Behinderung ein taxpflichtiges Einkommen erzielt, das nach nochmaligem Abzug von Versicherungsleistungen gemäss Artikel 12 Absatz 1 Buchstabe c sowie von behinderungsbedingten Lebenshaltungskosten sein betreibungsrechtliches Existenzminimum um nicht mehr als 100 Prozent übersteigt;
-- [tab] a<sup>bis</sup>.[^4-4] wegen einer erheblichen Behinderung als dienstuntauglich gilt sowie eine Rente oder eine Hilflosenentschädigung der Eidgenössischen Invalidenversicherung oder der Unfallversicherung bezieht;
-- [tab] a<sup>ter</sup>.[^4-5] wegen einer erheblichen Behinderung als dienstuntauglich gilt und keine Hilflosenentschädigung bezieht, aber dennoch eine der zwei mindestens erforderlichen Voraussetzungen für eine Hilflosenentschädigung erfüllt;
+- a<sup>bis</sup>.[^4-4] wegen einer erheblichen Behinderung als dienstuntauglich gilt sowie eine Rente oder eine Hilflosenentschädigung der Eidgenössischen Invalidenversicherung oder der Unfallversicherung bezieht;
+- a<sup>ter</sup>.[^4-5] wegen einer erheblichen Behinderung als dienstuntauglich gilt und keine Hilflosenentschädigung bezieht, aber dennoch eine der zwei mindestens erforderlichen Voraussetzungen für eine Hilflosenentschädigung erfüllt;
 - b.[^4-6] dienstuntauglich erklärt oder vom Dienst dispensiert worden ist, weil seine Gesundheit durch den Militär- oder Zivildienst geschädigt wurde;
 - c.[^4-7] als Mitglied der Bundesversammlung wegen Teilnahme an deren Sitzungen seinen Militär- oder Zivildienst nicht leisten konnte, zum militärischen Personal gehört oder nach der Militär- oder Zivildienstgesetzgebung von der persönlichen Dienstleistung befreit ist;
 - d.[^4-8] ...
@@ -149,7 +149,7 @@ Von der Ersatzpflicht ist der Auslandschweizer befreit, der im Ersatzjahr wenigs
 
 <sup>1</sup> Stirbt der Ersatzpflichtige, so treten die Erben in seine Pflichten und Rechte ein; sie haften solidarisch für die noch geschuldeten Ersatzabgaben. Ein Erbe wird von der Zahlungspflicht insoweit befreit, als er nachweist, dass die Ersatzabgaben seinen Anteil am Nachlass mit Einschluss seiner Vorempfänge übersteigen.
 
-<sup>2</sup> ...[^6-2]
+<sup>2</sup> …[^6-2]
 
 [^6-1]: Fassung gemäss Ziff. I des BG vom 22. Juni 1979, in Kraft seit 1. Jan. 1980 ([AS 1979 1733](https://fedlex.data.admin.ch/eli/oc/1979/1733_1733_1733); [BBl 1978 II 913](https://fedlex.data.admin.ch/eli/fga/1978/2_913_933_913)).
 [^6-2]: Aufgehoben durch Ziff. I des BG vom 22. Juni 1979, mit Wirkung seit 1. Jan. 1980 ([AS 1979 1733](https://fedlex.data.admin.ch/eli/oc/1979/1733_1733_1733); [BBl 1978 II 913](https://fedlex.data.admin.ch/eli/fga/1978/2_913_933_913)).
@@ -162,7 +162,7 @@ Von der Ersatzpflicht ist der Auslandschweizer befreit, der im Ersatzjahr wenigs
 
 <sup>1bis</sup> Der Zivildienst umfasst die anrechenbaren Diensttage gemäss Zivildienstgesetzgebung.[^7-3]
 
-<sup>2</sup> ...[^7-4]
+<sup>2</sup> …[^7-4]
 
 <sup>3</sup>
 
@@ -207,7 +207,7 @@ Kann der Dienstpflichtige in einem Jahr aus einem der folgenden Gründe nicht de
 
 <sup>1</sup> Sind die Voraussetzungen der Ersatzpflicht in einem Ersatzjahr erfüllt, so besteht die Ersatzpflicht für das ganze Jahr.
 
-<sup>2</sup> ...[^9-1]
+<sup>2</sup> …[^9-1]
 
 [^9-1]: Aufgehoben durch Ziff. I des BG vom 22. Juni 1979, mit Wirkung seit 1. Jan. 1980 ([AS 1979 1733](https://fedlex.data.admin.ch/eli/oc/1979/1733_1733_1733); [BBl 1978 II 913](https://fedlex.data.admin.ch/eli/fga/1978/2_913_933_913)).
 
@@ -228,7 +228,7 @@ Bei der Beurteilung, ob die Abschluss-Ersatzabgabe geschuldet ist, werden in gel
 
 [^9a-1]: Eingefügt durch Ziff. I des BG vom 16. März 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [BBl 2017 6191](https://fedlex.data.admin.ch/eli/fga/2017/1770)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
 
-## Zweiter Abschnitt: Taxpflichtiges Einkommen****
+## Zweiter Abschnitt: Taxpflichtiges Einkommen
 
 [^chap2-1]
 
@@ -256,10 +256,10 @@ Die Ersatzabgabe wird nach der Gesetzgebung über die direkte Bundessteuer auf d
 
 Vom Reineinkommen werden abgezogen:
 
-- a.[^12-2] ...
+- a.[^12-2] …
 - b. die Sozialabzüge nach den für das Ersatzjahr geltenden Bestimmungen für die direkte Bundessteuer;
 - c. die steuerbaren Leistungen, die der Ersatzpflichtige von der Militärversicherung, der Invalidenversicherung, der Schweizerischen Unfallversicherungsanstalt oder von einer andern öffentlichrechtlichen oder privatrechtlichen Unfall-, Kranken- oder Invalidenversicherung erhält;
-- d.[^12-3] ...
+- d.[^12-3] …
 
 <sup>2</sup> Massgebend sind die Verhältnisse des Ersatzpflichtigen in der Veranlagungsperiode der Steuer, nach deren Grundlagen die Ersatzabgabe veranlagt wird. Wird die Ersatzabgabe aufgrund einer besonderen Ersatzabgabeerklärung veranlagt, so sind die Verhältnisse des Ersatzpflichtigen am Ende des Ersatzjahres massgebend.
 
@@ -525,6 +525,18 @@ Dem Ersatzpflichtigen haben auf sein Verlangen Bescheinigungen auszustellen:
 [^30-1]: Fassung gemäss Ziff. I des BG vom 22. Juni 1979, in Kraft seit 1. Jan. 1980 ([AS 1979 1733](https://fedlex.data.admin.ch/eli/oc/1979/1733_1733_1733); [BBl 1978 II 913](https://fedlex.data.admin.ch/eli/fga/1978/2_913_933_913)).
 [^30-2]: Fassung gemäss Ziff. I des BG vom 16. März 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [BBl 2017 6191](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
 
+#### Art. 30a
+
+**Elektronische Verfahren**[^30a-1]
+
+<sup>1</sup> Die Kantone sehen die Möglichkeit elektronischer Verfahren vor. Dabei stellen sie die Authentizität und Integrität der übermittelten Daten nach kantonalem Recht sicher.
+
+<sup>2</sup> Sie sehen bei der elektronischen Einreichung von Eingaben, deren Unterzeichnung gesetzlich vorgeschrieben ist, anstelle der Unterzeichnung die Möglichkeit einer elektronischen Bestätigung der Angaben durch den Ersatzpflichtigen vor.
+
+<sup>3</sup> Sie sehen vor, dass die zuständige Behörde für die Wehrpflichtersatzabgabe dem Ersatzpflichtigen mit seinem Einverständnis Dokumente in elektronischer Form zustellt.
+
+[^30a-1]: Eingefügt durch Ziff. I 9 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, in Kraft seit 1. Jan. 2024 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+
 #### Art. 31
 
 **Beschwerde**
@@ -714,7 +726,7 @@ Die Verjährung wird unterbrochen:
 [^38-2]: Fassung gemäss Ziff. I des BG vom 16. März 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [BBl 2017 6191](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
 [^38-3]: Fassung gemäss Anhang Ziff. 9 des Zivildienstgesetzes vom 6. Okt. 1995, in Kraft seit 1. Jan. 1997 (AS **1996** 1445; BBl **1994** III 1609).Fassung gemäss Anhang Ziff. 9 des Zivildienstgesetzes vom 6. Okt. 1995, in Kraft seit 1. Jan. 1997 (SR **824.0**).
 
-## Siebter Abschnitt:**** Rückerstattung der Ersatzabgabe
+## Siebter Abschnitt: Rückerstattung der Ersatzabgabe
 
 [^chap7-1]
 
@@ -848,7 +860,7 @@ Insbesondere sind aufgehoben:
 [^48-1]: [BS **5** 157]
 [^48-2]: [BS **5** 162]
 [^48-3]: [BS **5** 193]
-[^48-4]: [BS **5** 3; [AS 1948 425](https://fedlex.data.admin.ch/eli/oc/1948/425_417_365); [1949 1491](https://fedlex.data.admin.ch/eli/oc/1949/1491_1595_1525)Art. 1-3, 5 Bst. a-d; **1952** 331, 338 Art. 2; **1961** 231; **1968** 73 Ziff. I, III; **1970** 43; **1972** 909 Art. 15 Ziff. 3; **1975** 11, **1979** 114 Art. 72 Bst. e; **1984** 1324; **1990** 1882; **1991** 857 Anhang Ziff. 10, 1412; **1992** 288 Anhang Ziff. 20, 2392 Ziff. I 2, 2521 Art. 55 Ziff. 3; **1993** 501 Anhang Ziff. 5, 3043 Anhang Ziff. 2; **1994** 1622 Art. 22 Abs. 2. [AS 1995 4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Anhang Ziff. 7]
+[^48-4]: [BS **5** 3; [AS 1948 425](https://fedlex.data.admin.ch/eli/oc/1948/425_417_365); [1949 1491](https://fedlex.data.admin.ch/eli/oc/1949/1491_1595_1525)Art. 1–3, 5 Bst. a-d; **1952** 331, 338 Art. 2; **1961** 231; **1968** 73 Ziff. I, III; **1970** 43; **1972** 909 Art. 15 Ziff. 3; **1975** 11, **1979** 114 Art. 72 Bst. e; **1984** 1324; **1990** 1882; **1991** 857 Anhang Ziff. 10, 1412; **1992** 288 Anhang Ziff. 20, 2392 Ziff. I 2, 2521 Art. 55 Ziff. 3; **1993** 501 Anhang Ziff. 5, 3043 Anhang Ziff. 2; **1994** 1622 Art. 22 Abs. 2. [AS 1995 4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Anhang Ziff. 7]
 
 #### Art. 49
 
@@ -856,7 +868,7 @@ Insbesondere sind aufgehoben:
 
 <sup>1</sup> Der Bundesrat bestimmt den Zeitpunkt des Inkrafttretens dieses Gesetzes.
 
-<sup>2 und 3</sup> ...[^49-2]
+<sup>2</sup> und <sup>3</sup> ...[^49-2]
 
 Datum des Inkrafttretens: 1. Januar 1960[^49-3]
 
@@ -864,7 +876,7 @@ Datum des Inkrafttretens: 1. Januar 1960[^49-3]
 [^49-2]: Aufgehoben durch Ziff. I des BG vom 16. März 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [BBl 2017 6191](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
 [^49-3]: BRB vom 14. Dez. 1959
 
-## Übergangsbestimmungen der Änderung vom 22. Juni 1979****
+## Übergangsbestimmungen der Änderung vom 22. Juni 1979
 
 [^u1-1]
 
@@ -886,7 +898,7 @@ III
 [^u1-3]: Aufgehoben durch Ziff. 8 des Anhangs zum BG vom 22. Juni 1990, mit Wirkung seit 1. Jan. 1991 ([AS 1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882); [BBl 1989 II 1194](https://fedlex.data.admin.ch/eli/fga/1989/2_1194_1078_942)).
 [^u1-4]: Anwendbar erstmals auf das Jahr 1979 (Abs. 2 des BRB vom 7. Nov. 1979 – AS **1979** 1739).
 
-## Übergangsbestimmungen der Änderung vom 17. Juni 1994****
+## Übergangsbestimmungen der Änderung vom 17. Juni 1994
 
 [^u2-1]
 
@@ -906,7 +918,7 @@ IV
 
 [^u2-2]: Anwendbar erstmals auf das Jahr 1995 (Art. 1 der V vom 9. Nov. 1994 – AS **1994** 2874).
 
-## Übergangsbestimmungen zur Änderung vom 16. März 2018****
+## Übergangsbestimmungen zur Änderung vom 16. März 2018
 
 [^u3-1]
 

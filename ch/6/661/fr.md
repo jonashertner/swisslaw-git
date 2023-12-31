@@ -4,11 +4,11 @@ title: "Loi fédérale du 12 juin 1959 sur la taxe d'exemption de l'obligation d
 short: LTEO
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125"
 language: fr
-version: 2022-01-01
+version: 2024-01-01
 adopted: 1959-06-12
 in_force: 1960-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1959-2035_2097_2125-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/2035_2097_2125/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1959-2035_2097_2125-20240101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/2035_2097_2125/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/2035_2097_2125/20220101/fr"
 
 (LTEO)
 
-du 12 juin 1959 (Etat le 1<sup>er</sup> janvier 2022)
+du 12 juin 1959 (État le 1<sup>er</sup> janvier 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -230,7 +230,7 @@ Pour déterminer si la taxe d’exemption finale est due, sont converties en jou
 
 [^9a-1]: Introduit par le ch. I de la LF du 16 mars 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5837](https://fedlex.data.admin.ch/eli/fga/2017/1770)). Voir les disp. transitoires de cette mod. à la fin du texte.
 
-## Chapitre 2 Revenu soumis à la taxe****
+## Chapitre 2 Revenu soumis à la taxe
 
 [^chap2-1]
 
@@ -528,6 +528,18 @@ Sont tenues de délivrer des attestations à l’assujetti, à sa demande:
 [^30-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 1979, en vigueur depuis le 1<sup>er</sup> janv. 1980 ([RO 1979 1733](https://fedlex.data.admin.ch/eli/oc/1979/1733_1733_1733); [FF 1978 II 933](https://fedlex.data.admin.ch/eli/fga/1978/2_913_933_913)).
 [^30-2]: Nouvelle teneur selon le ch. I de la LF du 16 mars 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5837](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
 
+#### Art. 30a
+
+**Procédures électroniques**[^30a-1]
+
+<sup>1</sup> Les cantons prévoient la possibilité de recourir à des procédures électroniques. Dans ce cadre, ils assurent conformément au droit cantonal l’authenticité et l’intégrité des données transmises.
+
+<sup>2</sup> Lorsqu’un écrit dont la signature est prescrite par la loi est déposé par voie électronique, les cantons prévoient, en lieu et place de la signature, la possibilité d’une confirmation électronique des données par l’assujetti.
+
+<sup>3</sup> Ils prévoient que l’autorité compétente en matière de taxe d’exemption de l’obligation de servir remet des documents à l’assujetti sous forme électronique avec l’accord de ce dernier.
+
+[^30a-1]: Introduit par le ch. I 9 de la LF du 18 juin 2021 sur les procédures électroniques en matière d’impôts, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+
 #### Art. 31
 
 **Recours**
@@ -718,7 +730,7 @@ La prescription est interrompue:
 [^38-2]: Nouvelle teneur selon le ch. I de la LF du 16 mars 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5837](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
 [^38-3]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
 
-## Chapitre 7**** Remboursement de la taxe
+## Chapitre 7 Remboursement de la taxe
 
 [^chap7-1]
 
@@ -868,7 +880,7 @@ Date de l’entrée en vigueur: 1<sup>er</sup> janvier 1960[^49-3]
 [^49-2]: Abrogés par le ch. I de la LF du 16 mars 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 3269](https://fedlex.data.admin.ch/eli/oc/2018/528); [FF 2017 5837](https://fedlex.data.admin.ch/eli/fga/2017/1770)).
 [^49-3]: ACF du 14 déc. 1959
 
-## Dispositions transitoires de la modification du 22 juin 1979****
+## Dispositions transitoires de la modification du 22 juin 1979
 
 [^u1-1]
 
@@ -890,7 +902,7 @@ III
 [^u1-3]: Abrogée par le ch. 8 de l’appendice à la LF du 22 juin 1990, avec effet au 1<sup>er</sup> janv. 1991 ([RO 1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882); [FF 1989 II 1078](https://fedlex.data.admin.ch/eli/fga/1989/2_1194_1078_942)).
 [^u1-4]: Elle est applicable pour la première fois à l’année 1979 (al. 2 de l’ACF du 7 nov. 1979; RO **1979** 1739).
 
-## Dispositions transitoires de la modification du 17 juin 1994****
+## Dispositions transitoires de la modification du 17 juin 1994
 
 [^u2-1]
 
@@ -910,7 +922,7 @@ IV
 
 [^u2-2]: Elle est applicable pour la première fois à l’année 1995 (art. 1 du l’O du 9 nov. 1994; RO **1994** 2874).
 
-## Dispositions transitoires relatives à la modification du 16 mars 2018****
+## Dispositions transitoires relatives à la modification du 16 mars 2018
 
 [^u3-1]
 
