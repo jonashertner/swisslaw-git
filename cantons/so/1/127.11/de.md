@@ -3,20 +3,19 @@ canton: SO
 number: "127.11"
 title: Verordnung über das Anwaltsregister
 language: de
-version: 2015-01-01
-valid_until: 2023-12-31
-version_adopted: 2014-10-28
+version: 2024-01-01
+version_adopted: 2023-01-10
 adopted: 2000-09-25
 in_force: 2001-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/127.11"
-pdf: "https://bgs.so.ch/api/de/versions/4347/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5310/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Anwaltsregister
 
-Vom 25.09.2000 (Stand 01.01.2015)
+Vom 25.09.2000 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -56,7 +55,7 @@ beschliesst:
 <sup>2</sup> Dem Antrag sind beizulegen:
 
 - a) die Kopie des Anwaltspatentes;
-- b) die Wohnsitzbescheinigung oder das Handlungsfähigkeitszeugnis;
+- b) die Niederlassungsbescheinigung oder das Handlungsfähigkeitszeugnis;
 - c) der aktuelle Auszug aus dem eidgenössischen Strafregister;
 - d) der aktuelle Auszug aus dem Betreibungsregister des Wohnsitzes und der Geschäftsadresse;
 - e) die persönliche Erklärung über die unabhängige Berufsausübung nach Art. 8 BGFA;
