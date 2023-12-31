@@ -3,20 +3,19 @@ canton: SG
 number: "371.1"
 title: Einführungsgesetz zur Bundesgesetzgebung über die Familienzulagen
 language: de
-version: 2020-01-01
-valid_until: 2023-12-31
-version_adopted: 2019-04-24
+version: 2024-01-01
+version_adopted: 2023-08-08
 adopted: 2017-06-27
 in_force: 2018-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/371.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2801/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3542/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Einführungsgesetz zur Bundesgesetzgebung über die Familienzulagen
 
-vom 27.06.2017 (Stand 01.01.2020)
+vom 27.06.2017 (Stand 01.01.2024)
 
 Der Kantonsrat des Kantons St.Gallen
 
@@ -239,6 +238,18 @@ als Gesetz:[^ingress-2]
 <sup>2</sup> Die kantonale Familienausgleichskasse ist Durchführungsorgan. Sie besorgt die Auszahlung der Zulagen.
 
 [^17-1]: SR [836.2](https://db.clex.ch/link/Bund/836.2/de).
+
+#### Art. 17a
+
+**Finanzierung**
+
+<sup>1</sup> Nichterwerbstätige leisten einen Beitrag an die Finanzierung der Familienzulagen für Nichterwerbstätige, sofern ihre AHV-Beiträge den Mindestbeitrag nach [Art. 10](https://db.clex.ch/link/Bund/831.10/de) des Bundesgesetzes über die Alters- und Hinterlassenenversicherung vom 20. Dezember 1946[^17a-1] übersteigen.
+
+<sup>2</sup> Die Regierung legt den Beitragssatz fest und regelt das Verfahren.
+
+<sup>3</sup> Der Kanton trägt die weiteren Kosten.
+
+[^17a-1]: SR [831.10](https://db.clex.ch/link/Bund/831.10/de).
 
 ## IV. Schlussbestimmungen
 
