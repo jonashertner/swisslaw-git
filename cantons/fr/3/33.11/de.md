@@ -4,13 +4,13 @@ number: "33.11"
 title: Verordnung über kantons- und bundesrechtliche Ordnungsbussen
 short: KOBV
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-11-23
+version: 2024-01-01
+valid_until: 2024-06-30
+version_adopted: 2023-06-13
 adopted: 2021-11-23
 in_force: 2022-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/33.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7258/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7835/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Ordnungsbussen – V
 
 (KOBV)
 
-vom 23.11.2021 (Fassung in Kraft getreten am 01.01.2022)
+vom 23.11.2021 (Fassung in Kraft getreten am 01.01.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -138,17 +138,17 @@ beschliesst:
 
 **Gesetzgebung über die Hundehaltung**
 
-<sup>1</sup> Gesetz vom 2. November 2006 über die Hundehaltung (HHG; SGF 725.3) und Reglement vom 11. März 2008 über die Hundehaltung (HHR; SGF 725.31):
+<sup>1</sup> Gesetz vom 2. November 2006 über die Hundehaltung (HHG; SGF 725.3) und Reglement vom 13. Juni 2023 über die Hundehaltung (HHR; SGF 725.31):
 
 <table>
-<tr><th>Ordnungsbussennummer</th><th>Widerhandlungen (Art. 20 Abs. 2, 35 Abs. 2, 36 Abs. 1 und 38 Abs. 1 und 2 HHG und Art. 49 Abs. 1 HHR)</th><th>Pauschalbetrag</th></tr>
-<tr><td>FR 101</td><td>Verbringen von verbotenen, gesetzeswidrig gehaltenen Hunden (ohne Leine und/oder Maulkorb) in das Kantonsgebiet für einen längeren als den gesetzlich erlaubten Zeitraum (Art. 19 Abs. 1 / Art. 20 Abs. 2 HHG)</td><td>Fr. 300.–</td></tr>
-<tr><td>FR 102</td><td>Verbringen von verbotenen, gesetzeswidrig gehaltenen Hunden (ohne Leine und/oder Maulkorb) in das Kantonsgebiet bis zum Ablauf des gesetzlich erlaubten Zeitraums (Art. 19 Abs. 1 / Art. 20 Abs. 2 HHG)</td><td>Fr. 250.–</td></tr>
-<tr><td>FR 103</td><td>Verbringen von verbotenen, gesetzeskonform gehaltenen Hunden (mit Leine und/oder Maulkorb) in das Kantonsgebiet für einen längeren als den gesetzlich erlaubten Zeitraum (Art. 19 Abs. 1 / Art. 20 Abs. 2 HHG)</td><td>Fr. 200.–</td></tr>
-<tr><td>FR 104</td><td>Nicht unter der Kontrolle seiner Halterin oder seines Halters stehender Hund (Art. 35 Abs. 2 HHG)</td><td>Fr. 100</td></tr>
+<tr><th>Ordnungsbussennummer</th><th>Widerhandlungen (Art. 20 Abs. 2, 35 Abs. 2, 36 Abs. 1 und 38 Abs. 1 und 2 HHG und Art. 26 Abs. 1 HHR)</th><th>Pauschalbetrag</th></tr>
+<tr><td>FR 101</td><td>Verbringen von verbotenen, gesetzeswidrig gehaltenen Hunden (ohne Leine und/oder Maulkorb) in das Kantonsgebiet für einen längeren als den gesetzlich erlaubten Zeitraum (Art. 20 Abs. 2 HHG)</td><td>Fr. 300.–</td></tr>
+<tr><td>FR 102</td><td>Verbringen von verbotenen, gesetzeswidrig gehaltenen Hunden (ohne Leine und/oder Maulkorb) in das Kantonsgebiet bis zum Ablauf des gesetzlich erlaubten Zeitraums (Art. 20 Abs. 2 HHG)</td><td>Fr. 250.–</td></tr>
+<tr><td>FR 103</td><td>Verbringen von verbotenen, gesetzeskonform gehaltenen Hunden (mit Leine und/oder Maulkorb) in das Kantonsgebiet für einen längeren als den gesetzlich erlaubten Zeitraum (Art. 20 Abs. 2 HHG)</td><td>Fr. 200.–</td></tr>
+<tr><td>FR 104</td><td>Nicht unter der Kontrolle seiner Halterin oder seines Halters stehender Hund (Art. 35 Abs. 2 HHG)</td><td>Fr. 100.–</td></tr>
 <tr><td>FR 105</td><td>Anwendung verbotener Praktiken (Art. 36 Abs. 1 HHG)</td><td>Fr. 250.–</td></tr>
 <tr><td>FR 106</td><td>Hund, der landwirtschaftlichen Betrieben, der Natur oder anderen Tieren Schaden zufügt (Art. 38 Abs. 1 HHG)</td><td>Fr. 150.–</td></tr>
-<tr><td>FR 107</td><td>Verstoss gegen die Vorschriften über den eingeschränkten Zutritt (Art. 38 Abs. 2 HHG / Art. 49 Abs. 1 HHR)</td><td>Fr. 150.–</td></tr>
+<tr><td>FR 107</td><td>Verstoss gegen die Vorschriften über den eingeschränkten Zutritt (Art. 38 Abs. 2 HHG / Art. 26 Abs. 1 HHR)</td><td>Fr. 150.–</td></tr>
 </table>
 
 #### Art. A1-2

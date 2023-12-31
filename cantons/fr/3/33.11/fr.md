@@ -4,13 +4,13 @@ number: "33.11"
 title: "Ordonnance sur les amendes d'ordre de droit cantonal et de droit fédéral"
 short: OCAO
 language: fr
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-11-23
+version: 2024-01-01
+valid_until: 2024-06-30
+version_adopted: 2023-06-13
 adopted: 2021-11-23
 in_force: 2022-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/33.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7258/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7835/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Amendes d'ordre – O
 
 (OCAO)
 
-du 23.11.2021 (version entrée en vigueur le 01.01.2022)
+du 23.11.2021 (version entrée en vigueur le 01.01.2024)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -138,17 +138,17 @@ Arrête:
 
 **Législation sur la détention des chiens**
 
-<sup>1</sup> Loi du 2 novembre 2006 sur la détention des chiens (LDCh) et règlement du 11 mars 2008 sur la détention des chiens (RDCh):
+<sup>1</sup> Loi du 2 novembre 2006 sur la détention des chiens (LDCh) et règlement du 13 juin 2023 sur la détention des chiens (RDCh):
 
 <table>
-<tr><th>Numéro d'amende d'ordre</th><th>Infractions (art. 20 al. 2, 35 al. 2, 36 al. 1 et 38 al. 1 et 2 LDCh et art. 49 al. 1 RDCh)</th><th>Montant forfaitaire</th></tr>
-<tr><td>FR 101</td><td>Introduction d'un chien interdit dans le canton pour une durée supérieure à la limite légale et détenu de manière non conforme à la législation (sans port de la laisse et/ou sans port de la muselière) (art. 19 al. 1 / 20 al. 2 LDCh)</td><td>Fr. 300.–</td></tr>
-<tr><td>FR 102</td><td>Introduction d'un chien interdit dans le canton pour une durée respectant la limite légale mais détenu de manière non conforme à la législation (sans port de la laisse et/ou sans port de la muselière) (art. 19 al. 1 / 20 al. 2 LDCh)</td><td>Fr. 250.–</td></tr>
-<tr><td>FR 103</td><td>Introduction d'un chien interdit dans le canton pour une durée supérieure à la limite légale mais détenu de manière conforme à la législation (avec port de la laisse et de la muselière) (art. 19 al. 1 / 20 al. 2 LDCh)</td><td>Fr. 200.–</td></tr>
+<tr><th>Numéro d'amende d'ordre</th><th>Infractions (art. 20 al. 2, 35 al. 2, 36 al. 1 et 38 al. 1 et 2 LDCh et art. 26 al. 1 RDCh)</th><th>Montant forfaitaire</th></tr>
+<tr><td>FR 101</td><td>Introduction d'un chien interdit dans le canton pour une durée supérieure à la limite légale et détenu de manière non conforme à la législation (sans port de la laisse et/ou sans port de la muselière) (art. 20 al. 2 LDCh)</td><td>Fr. 300.–</td></tr>
+<tr><td>FR 102</td><td>Introduction d'un chien interdit dans le canton pour une durée respectant la limite légale mais détenu de manière non conforme à la législation (sans port de la laisse et/ou sans port de la muselière) (art. 20 al. 2 LDCh)</td><td>Fr. 250.–</td></tr>
+<tr><td>FR 103</td><td>Introduction d'un chien interdit dans le canton pour une durée supérieure à la limite légale mais détenu de manière conforme à la législation (avec port de la laisse et de la muselière) (art. 20 al. 2 LDCh)</td><td>Fr. 200.–</td></tr>
 <tr><td>FR 104</td><td>Animal hors du contrôle de son détenteur ou de sa détentrice (art. 35 al. 2 LDCh)</td><td>Fr. 100.–</td></tr>
 <tr><td>FR 105</td><td>Exercice de pratiques interdites (art. 36 al. 1 LDCh)</td><td>Fr. 250.–</td></tr>
 <tr><td>FR 106</td><td>Chien portant préjudice aux exploitations agricoles, à la nature et aux autres animaux (art. 38 al. 1 LDCh)</td><td>Fr. 150.–</td></tr>
-<tr><td>FR 107</td><td>Infraction aux prescriptions sur les accès autorisés sous conditions (art. 38 al. 2 LDCh / art. 49 al. 1 RDCh)</td><td>Fr. 150.–</td></tr>
+<tr><td>FR 107</td><td>Infraction aux prescriptions sur les accès autorisés sous conditions (art. 38 al. 2 LDCh / art. 26 al. 1 RDCh)</td><td>Fr. 150.–</td></tr>
 </table>
 
 #### Art. A1-2
