@@ -2,24 +2,23 @@
 canton: ZG
 number: "154.214"
 title: Verordnung über die Arbeitszeit
-short: Arbeitszeitverordnung
+short: "Arbeitszeitverordnung, AZVO"
 language: de
-version: 2021-07-01
-valid_until: 2023-12-31
-version_adopted: 2020-12-15
+version: 2024-01-01
+version_adopted: 2024-05-07
 adopted: 2011-10-04
 in_force: 2012-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/154.214"
-pdf: "https://bgs.zg.ch/api/de/versions/2241/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2568/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Arbeitszeit
 
-(Arbeitszeitverordnung)
+(Arbeitszeitverordnung, AZVO)
 
-Vom 4. Oktober 2011 (Stand 1. Juli 2021)
+Vom 4. Oktober 2011 (Stand 1. Januar 2024)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -37,7 +36,7 @@ beschliesst:
 
 <sup>1</sup> Die Verordnung gilt für alle Mitarbeitenden des Kantons.
 
-<sup>2</sup> Vorbehalten bleiben besondere Bestimmungen für Lehrpersonen.
+<sup>2</sup> Vorbehalten bleiben besondere Bestimmungen für Lehrpersonen und Teile des Hochschulpersonals.
 
 <sup>3</sup> In Abweichung dieser Verordnung können die Gerichte Blockzeiten festlegen und die Zahl der jährlich zulässigen Kompensationstage beschränken.
 
@@ -106,6 +105,8 @@ beschliesst:
 <sup>2</sup> Pro halben Arbeitstag darf eine Arbeitspause von höchstens 15 Minuten eingelegt werden. Diese Arbeitspausen zählen zur Arbeitszeit und sind nicht separat auszuweisen.
 
 <sup>3</sup> Der Verzicht auf Arbeitspausen berechtigt nicht zur Gutschrift von Istarbeitszeit zu Beginn oder bei Beendigung der täglichen Arbeit.
+
+<sup>4</sup> Die Direktionen können nach Rücksprache mit dem Personalamt für Mitarbeitende im Schichtbetrieb vom Grundsatz nach Abs. 1 abweichende Regelungen vorsehen.
 
 #### § 9
 
@@ -203,7 +204,7 @@ beschliesst:
 
 **Ausgleich des Arbeitszeitsaldos bei Auflösung des Arbeitsverhältnisses**
 
-<sup>1</sup> Vor Auflösung des Arbeitsverhältnisses ist ein positiver oder negativer Arbeitszeitsaldo auszugleichen. Ein positiver Arbeitszeitsaldo verfällt grundsätzlich am Austrittstag. Die Amtsleitung bzw. das Ober- und das Verwaltungsgericht können ausnahmsweise eine Entschädigung bis und mit Lohnklasse 19 bewilligen, wenn ein Ausgleich aus betrieblichen Gründen, wegen Krankheit oder Unfall bis zum Austritt nicht möglich war.
+<sup>1</sup> Vor Auflösung des Arbeitsverhältnisses ist ein positiver oder negativer Arbeitszeitsaldo auszugleichen. Ein positiver Arbeitszeitsaldo verfällt grundsätzlich am Austrittstag. Wenn ein Ausgleich des positiven Arbeitszeitsaldos aus betrieblichen Gründen, wegen Krankheit oder Unfall bis zum Austritt nicht möglich war, können die Amtsleitung bzw. das Ober- und das Verwaltungsgericht für Mitarbeiterinnen und Mitarbeiter, deren Lohn betragsmässig unter dem Minimum der Lohnklasse 20 liegt, ausnahmsweise eine Entschädigung bewilligen.
 
 <sup>2</sup> Ein negativer Arbeitszeitsaldo am Austrittstag führt zu einer entsprechenden Lohnkürzung oder zu einer Rückforderung.
 
@@ -229,7 +230,7 @@ beschliesst:
 - b) 25 % bei angeordnetem Arbeitseinsatz in der Zeit zwischen 20.00 Uhr und 06.00 Uhr und an Samstagen;
 - c) 50 % bei angeordnetem Arbeitseinsatz an Sonntagen sowie an arbeitsfreien Feiertagen gemäss § 11, Abs. 1 a).
 
-<sup>4</sup> Der Berechnung der stundenweisen Entschädigung werden der Jahreslohn einschliesslich 13. Monatslohn und Treue- und Erfahrungszulage sowie ein Total von 2184 Arbeitsstunden pro Jahr zugrunde gelegt.
+<sup>4</sup> Der Berechnung der stundenweisen Entschädigung werden der Jahreslohn einschliesslich 13. Monatslohn sowie ein Total von 2184 Arbeitsstunden pro Jahr zugrunde gelegt.
 
 <sup>5</sup> Überstundenarbeit wird nicht an den Arbeitszeitsaldo angerechnet und ist separat zu erfassen.
 
@@ -243,16 +244,17 @@ beschliesst:
 
 <sup>2</sup> Bei Teilzeitarbeit oder Beginn oder Ende des Arbeitsverhältnisses während des Jahres besteht der Ferienanspruch anteilsmässig entsprechend dem Beschäftigungsgrad bzw. der Beschäftigungsdauer.
 
-<sup>3</sup> Der altersabhängige höhere Ferienanspruch beginnt mit dem Kalenderjahr, in welchem die Mitarbeitenden das 50. Altersjahr erfüllen. Jugendlichen steht der höhere Ferienanspruch bis zum Ende des Kalenderjahres zu, in welchem sie das 20. Altersjahr erfüllen.
+<sup>3</sup> …
 
-<sup>4</sup> Beträgt der Arbeitsausfall einer Mitarbeiterin oder eines Mitarbeiters wegen Krankheit, Unfall oder freiwilliger gemeinnütziger Dienstleistung mehr als drei Monate im Kalenderjahr, so kürzt die zuständige Stelle unter Vorbehalt von Abs. 5 die Ferien für jeden vollen Monat der Verhinderung um einen Zwölftel bis auf maximal die Hälfte des Anspruchs.
+<sup>4</sup> Bei vollständigem Arbeitsausfall wegen Krankheit, Unfall oder freiwilliger gemeinnütziger Dienstleistung wird der Ferienanspruch nach Ablauf der ersten drei Monate für jeden weiteren vollen Monat der Abwesenheit im Kalenderjahr um einen Zwölftel bis maximal auf die Hälfte des Anspruchs gekürzt.
 
 <sup>5</sup> Folgende Arbeitsausfälle haben keine Kürzung der Ferien zur Folge:
 
 - a) obligatorische Dienstleistungen und Beförderungsdienste;
 - b) Mutterschaftsurlaub;
 - c) Vaterschaftsurlaub;
-- d) Betreuungsurlaub.
+- d) Betreuungsurlaub;
+- e) Adoptionsurlaub.
 
 #### § 21
 
@@ -286,26 +288,24 @@ beschliesst:
 
 <sup>1</sup> Die Mitarbeitenden haben folgenden Anspruch auf bezahlten Urlaub:
 
-- a) im Zusammenhang mit der eigenen Hochzeit oder der Eintragung der eigenen Partnerschaft. Diese Bestimmung findet keine Anwendung auf Mitarbeitende, die sich in der Probezeit oder in gekündigter Stellung befinden, sowie auf Lehrpersonen: 3 Tage;
+- a) im Zusammenhang mit der eigenen Hochzeit: 3 Tage, ausgenommen Mitarbeitende, die sich in der Probezeit oder gekündigter Stellung befinden, sowie Lehrpersonen;
 - b) für die Teilnahme an der Hochzeit oder zur Eintragung der Partnerschaft eigener Kinder oder Pflegekinder und von Geschwistern: 1 Tag;
 - c) im Zusammenhang mit dem Tod der Lebenspartnerin oder des Lebenspartners sowie von Kindern und Eltern: 3 Tage;
 - d) im Zusammenhang mit dem Tod von Geschwistern, Grosseltern, Schwiegereltern, Schwägerin oder Schwager, Tante oder Onkel: 1 Tag;
 - e) für die Teilnahme an der Trauerfeier von Arbeitskolleginnen und -kollegen oder anderen sehr nahestehenden Personen: 1/2 Tag;
 - f) für den eigenen Wohnungsumzug: 1 Tag;
 - g) …
-- h) als Mutter oder Vater im Zusammenhang mit der Adoption eines Kindes: 5 Tage.
+- h) im Zusammenhang mit der Aufnahme eines Kindes unter vier Jahren zur Adoption: zwei Wochen;
+- i) als Ehefrau der Mutter, die gemäss Art. 255a ZGB[^24-1] als der andere Elternteil eines während der Ehe geborenen Kindes gilt: zwei Wochen, analog der Regelung über den Vaterschaftsurlaub gemäss § 60bis PG[^24-2].
 
 <sup>2</sup> Die bezahlte Zeit bemisst sich jeweils nach der dem Beschäftigungsgrad entsprechenden täglichen Sollarbeitszeit gemäss § 5.
 
+[^24-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
+[^24-2]: BGS 154.21
+
 #### § 24a
 
-**Vaterschaftsurlaub**
-
-<sup>1</sup> Der Mitarbeiter, der im Zeitpunkt der Geburt eines Kindes dessen rechtlicher Vater ist oder dies innerhalb der folgenden sechs Monate wird, hat Anspruch auf einen bezahlten Vaterschaftsurlaub von zwei Wochen.
-
-<sup>2</sup> Der Vaterschaftsurlaub muss innert sechs Monaten nach der Geburt des Kindes bezogen werden.
-
-<sup>3</sup> Er kann wochen- oder tageweise bezogen werden.
+**…**
 
 #### § 24b
 
@@ -329,11 +329,11 @@ beschliesst:
 
 **Bewilligung von Urlaub**
 
-<sup>1</sup> Soweit kein Anspruch auf bezahlten Urlaub besteht, können die Amtsleitung bzw. das Ober- oder das Verwaltungsgericht beim Vorliegen besonderer Umstände, namentlich zum Zwecke der Betreuung kranker oder verunfallter Angehöriger, Urlaub bis zu höchstens 10 Arbeitstagen pro Kalenderjahr bewilligen.
+<sup>1</sup> Soweit kein Anspruch auf bezahlten Urlaub besteht, können die zuständigen Stellen beim Vorliegen besonderer Umstände, namentlich zum Zwecke der Betreuung kranker oder verunfallter Angehöriger, Urlaub bewilligen. Der Entscheid ist dem Personalamt mitzuteilen.
 
-<sup>2</sup> Über die Gewährung eines Urlaubes von längerer Dauer entscheiden die Direktionen bzw. das Ober- und das Verwaltungsgericht. Der Entscheid ist dem Personalamt mitzuteilen.
+<sup>2</sup> …
 
-<sup>3</sup> Mit der Bewilligung des Urlaubs entscheidet die Amtsleitung bzw. die Direktion bzw. das Ober- und das Verwaltungsgericht, ob und in welchem Umfange die Ferien an den Urlaub angerechnet werden, ob der Lohn zu kürzen ist und wie eine allfällige Entschädigung mit Lohncharakter abzurechnen ist.
+<sup>3</sup> Mit der Bewilligung des Urlaubs entscheidet die zuständige Stelle, ob und in welchem Umfange die Ferien an den Urlaub angerechnet werden, ob der Lohn zu kürzen ist und wie eine allfällige Entschädigung mit Lohncharakter abzurechnen ist.
 
 ## 8. Vollzug
 
@@ -345,7 +345,7 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat kann für Einzelpersonen oder Personengruppen Ausnahmen bewilligen.
 
-<sup>3</sup> Wird nach festen Arbeitszeiten gearbeitet, kann mit Zustimmung der Direktion auf eine zusätzliche Arbeitszeiterfassung verzichtet werden. Besonderheiten wie Überstundenarbeit, bezahlte Absenzen (Ferien, Krankheit, Unfall, Weiterbildung usw.) und dergleichen sind jedoch aufzeichnungspflichtig.
+<sup>3</sup> Wird nach festen Arbeitszeiten gearbeitet, kann mit Zustimmung der Direktion auf eine zusätzliche Arbeitszeiterfassung verzichtet werden. Besonderheiten wie Überstundenarbeit, bezahlte Absenzen (insbesondere Ferien, Krankheit, Unfall, Aus-, Fort- und Weiterbildung) und dergleichen sind jedoch aufzeichnungspflichtig.
 
 #### § 27
 
