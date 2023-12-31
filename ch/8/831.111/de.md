@@ -4,11 +4,11 @@ title: "Verordnung vom 26. Mai 1961 über die freiwillige Alters-, Hinterlassene
 short: VFV
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/419_429_439"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1961-05-26
 in_force: 1961-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/419_429_439/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1961-419_429_439-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/419_429_439/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/419_429_439/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1961-419_429_439-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/419_429_439/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1961/419_429_439/20230101/de"
 
 (VFV)[^t-1]
 
-vom 26. Mai 1961 (Stand am 1. Januar 2023)
+vom 26. Mai 1961 (Stand am 1. Januar 2024)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)).
 
@@ -169,9 +169,14 @@ Die Versicherten werden aus der freiwilligen Versicherung ausgeschlossen:
 
 **Beitragspflichtige Personen**[^13a-1]
 
-<sup>1</sup> Erwerbstätige Versicherte sind beitragspflichtig ab dem 1. Januar nach Vollendung des 17. Altersjahres; die Beitragspflicht endet am Ende des Monats, in welchem Frauen das 64. und Männer das 65. Altersjahr vollenden.[^13a-2]
+<sup>1</sup>
 
-<sup>2</sup> Nichterwerbstätige Versicherte sind beitragspflichtig ab dem 1. Januar nach Vollendung des 20. Altersjahres; die Beitragspflicht endet am Ende des Monats, in welchem Frauen das 64. und Männer das 65. Altersjahr vollenden.[^13a-3]
+Beitragspflichtig sind:
+
+- a. erwerbstätige Versicherte ab dem 1. Januar nach Vollendung des 17. Altersjahres;
+- b. nichterwerbstätige Versicherte ab dem 1. Januar nach Vollendung des 20. Altersjahres.[^13a-2]
+
+<sup>2</sup> Die Beitragspflicht endet am Ende des Monats, in dem das Referenzalter nach Artikel 21 Absatz 1 AHVG erreicht wird.[^13a-3]
 
 <sup>3</sup>
 
@@ -181,8 +186,8 @@ Die eigenen Beiträge gelten als bezahlt, sofern der Ehegatte Beiträge von mind
 - b. Versicherten, die im Betrieb ihres Ehegatten mitarbeiten, soweit sie keinen Barlohn beziehen.
 
 [^13a-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)).
-[^13a-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5633](https://fedlex.data.admin.ch/eli/oc/2005/768)).
-[^13a-3]: Fassung gemäss Ziff. I der V vom 23. Nov. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5633](https://fedlex.data.admin.ch/eli/oc/2005/768)).
+[^13a-2]: Fassung gemäss Anhang Ziff. 2 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^13a-3]: Fassung gemäss Anhang Ziff. 2 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 13b
 

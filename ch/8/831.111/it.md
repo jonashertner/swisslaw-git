@@ -4,11 +4,11 @@ title: "Ordinanza del 26 maggio 1961 concernente l'assicurazione facoltativa per
 short: OAF
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/419_429_439"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1961-05-26
 in_force: 1961-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/419_429_439/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1961-419_429_439-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/419_429_439/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/419_429_439/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1961-419_429_439-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/419_429_439/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1961/419_429_439/20230101/it"
 
 (OAF)[^t-1]
 
-del 26 maggio 1961 (Stato 1° gennaio 2023)
+del 26 maggio 1961 (Stato 1° gennaio 2024)
 
 [^t-1]: Nuovo testo del tit. giusta il n. I dell’O del 18 ott. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)).
 
@@ -169,9 +169,14 @@ Sono esclusi dall’assicurazione facoltativa gli assicurati:
 
 **Persone tenute a pagare i contributi**[^13a-1]
 
-<sup>1</sup> Gli assicurati che esercitano un’attività lucrativa sono tenuti a pagare i contributi dal 1° gennaio successivo al compimento del 17° anno; l’obbligo di contribuzione cessa alla fine del mese nel quale le donne compiono 64 e gli uomini 65 anni.[^13a-2]
+<sup>1</sup>
 
-<sup>2</sup> Gli assicurati che non esercitano un’attività lucrativa sono tenuti a pagare i contributi dal 1° gennaio successivo al compimento del 20° anno; l’obbligo di contribuzione cessa alla fine del mese nel quale le donne compiono 64 e gli uomini 65 anni.[^13a-3]
+Sono tenuti a pagare i contributi:
+
+- a. gli assicurati che esercitano un’attività lucrativa, dal 1° gennaio successivo al compimento dei 17 anni;
+- b. gli assicurati che non esercitano un’attività lucrativa, dal 1° gennaio successivo al compimento dei 20 anni.[^13a-2]
+
+<sup>2</sup> L’obbligo contributivo cessa alla fine del mese in cui si raggiunge l’età di riferimento secondo l’articolo 21 capoverso 1 LAVS.[^13a-3]
 
 <sup>3</sup>
 
@@ -181,8 +186,8 @@ Sono reputati aver pagato contributi propri, a condizione che il coniuge abbia v
 - b. gli assicurati che collaborano nell’azienda del coniuge, se non percepiscono un salario in contanti.
 
 [^13a-1]: Introdotto dal n. I dell’O del 18 ott. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)).
-[^13a-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5633](https://fedlex.data.admin.ch/eli/oc/2005/768)).
-[^13a-3]: Nuovo testo giusta il n. I dell’O del 23 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5633](https://fedlex.data.admin.ch/eli/oc/2005/768)).
+[^13a-2]: Nuovo testo giusta l’all. n. 2 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^13a-3]: Nuovo testo giusta l’all. n. 2 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 13b
 
@@ -225,7 +230,7 @@ Durante l’anno contributivo gli assicurati possono versare periodicamente acco
 
 #### Art. 14b
 
-**Fissazione dei contributi(S (Stato 1° gennaio 2023), compensazione e t a ermine di pagamento**[^14b-1]
+**Fissazione dei contributi(S (Stato 1° gennaio 2024), compensazione e t a ermine di pagamento**[^14b-1]
 
 <sup>1</sup> Gli assicurati devono fornire alla Cassa di compensazione i dati necessari alla fissazione dei contributi entro il 31 marzo dell’anno successivo all’anno contributivo.[^14b-2]
 

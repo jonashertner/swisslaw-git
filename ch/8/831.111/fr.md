@@ -4,11 +4,11 @@ title: "Ordonnance du 26 mai 1961 concernant l'assurance-vieillesse, survivants 
 short: OAF
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/419_429_439"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 1961-05-26
 in_force: 1961-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/419_429_439/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1961-419_429_439-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/419_429_439/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/419_429_439/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1961-419_429_439-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/419_429_439/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1961/419_429_439/20230101/fr"
 
 (OAF)[^t-1]
 
-du 26 mai 1961 (État le 1<sup>er</sup> janvier 2023)
+du 26 mai 1961 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)).
 
@@ -177,9 +177,14 @@ Les assurés sont exclus de l’assurance facultative:
 
 **Personnes tenues de payer des cotisations**[^13a-1]
 
-<sup>1</sup> Les assurés qui exercent une activité lucrative sont tenus de payer des cotisations à compter du 1<sup>er</sup> janvier de l’année qui suit la date à laquelle ils ont eu 17 ans; cette obligation cesse à la fin du mois où ils atteignent 64 ans, pour les femmes, et 65 ans pour les hommes.[^13a-2]
+<sup>1</sup>
 
-<sup>2</sup> Les assurés sans activité lucrative sont tenus de payer des cotisations à compter du 1<sup>er</sup> janvier de l’année qui suit la date à laquelle ils ont eu 20 ans; cette obligation cesse à la fin du mois où ils atteignent 64 ans, pour les femmes, et 65 ans pour les hommes.[^13a-3]
+Les assurés sont tenus de payer des cotisations à compter:
+
+- a. du 1<sup>er</sup> janvier de l’année qui suit la date à laquelle ils ont eu 17 ans, s’ils exercent une activité lucrative;
+- b du 1<sup>er</sup> janvier de l’année qui suit la date à laquelle ils ont eu 20 ans, s’ils n’exercent pas d’activité lucrative.[^13a-2]
+
+<sup>2</sup> L’obligation de cotiser dure jusqu’à la fin du mois au cours duquel les assurés atteignent l’âge de référence fixé à l’art. 21, al. 1, LAVS.[^13a-3]
 
 <sup>3</sup>
 
@@ -189,8 +194,8 @@ Sont réputés avoir payé eux-mêmes des cotisations, pour autant que leur conj
 - b. les personnes qui travaillent dans l’entreprise de leur conjoint si elles ne touchent aucun salaire en espèces.
 
 [^13a-1]: Introduit par le ch. I de l’O du 18 oct. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)).
-[^13a-2]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5633](https://fedlex.data.admin.ch/eli/oc/2005/768)).
-[^13a-3]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5633](https://fedlex.data.admin.ch/eli/oc/2005/768)).
+[^13a-2]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
+[^13a-3]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 13b
 
@@ -426,66 +431,78 @@ Annexe[^t-2]
 
 La teneur, au 17 octobre 2006, des art. 3, 4, 5, 13, al. 1, 16, al. 2, 20, al. 1, et 21, al. 2, mentionnés dans les dispositions transitoires relatives à la modification du 16 mars 2007, est la suivante:
 
-**Art. 3 Attributions des représentations suisses[^t-3]**
+#### Art. 3
+
+**Attributions des représentations suisses[^annexu1-3-1]**
 
 <sup>1</sup>
 
-Les représentations suisses règlent les affaires concernant les personnes relevant de leur circonscription consulaire et traitent à cet effet directement avec la caisse de compensation; leurs attributions sont notamment les suivantes:[^t-4]
+Les représentations suisses règlent les affaires concernant les personnes relevant de leur circonscription consulaire et traitent à cet effet directement avec la caisse de compensation; leurs attributions sont notamment les suivantes:[^annexu1-3-2]
 
 - a. recevoir les déclarations d’adhésions et vérifier les indications qu’elles contiennent;
 - b. tenir le rôle des personnes assurées facultativement;
-- c.[^t-5] fixer les cotisations;
+- c.[^annexu1-3-3] fixer les cotisations;
 - d. percevoir les cotisations, en tant qu’elles ne sont pas versées directement à la caisse de compensation;
 - e. recevoir les demandes de prestations d’assurance et collaborer à l’examen du bien-fondé de ces demandes;
-- f.[^t-6] payer à l’étranger les prestations en espèces si celles-ci ne sont pas versées directement par la caisse de compensation;
-- g.[^t-7] régler avec la caisse de compensation les comptes concernant les cotisations et les prestations en espèces.
+- f.[^annexu1-3-4] payer à l’étranger les prestations en espèces si celles-ci ne sont pas versées directement par la caisse de compensation;
+- g.[^annexu1-3-5] régler avec la caisse de compensation les comptes concernant les cotisations et les prestations en espèces.
 
-<sup>2</sup> Les attributions mentionnées à l’al. 1 peuvent être confiées à un centre commun à plusieurs représentations suisses appelé ci-après «service AVS/AI».[^t-8]
+<sup>2</sup> Les attributions mentionnées à l’al. 1 peuvent être confiées à un centre commun à plusieurs représentations suisses appelé ci-après «service AVS/AI».[^annexu1-3-6]
 
-**Art. 4 Remboursement des frais et rapports d’inspection**
+[^t-2]: Introduite par le ch. III de l’O du 16 mars 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 1359](https://fedlex.data.admin.ch/eli/oc/2007/226)).
+[^annexu1-3-1]: [RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)
+[^annexu1-3-2]: [RO 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)
+[^annexu1-3-3]: [RO 1994 2168](https://fedlex.data.admin.ch/eli/oc/1994/2168_2168_2168)
+[^annexu1-3-4]: [RO 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)
+[^annexu1-3-5]: [RO 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)
+[^annexu1-3-6]: [RO 1999 2685](https://fedlex.data.admin.ch/eli/oc/1999/421)
 
-<sup>1</sup> Les dépenses supplémentaires des représentations suisses (frais de personnel et de matériel) occasionnées par l’application de l’art. 3, al. 1, sont remboursées à forfait au Département fédéral des affaires étrangères et mises à la charge de la caisse de compensation.[^t-9]
+#### Art. 4
 
-<sup>1bis</sup> Les frais de personnel et de matériel des services AVS/AI sont remboursés à leur montant effectif au Département fédéral des affaires étrangères par la caisse de compensation.[^t-10]
+**Remboursement des frais et rapports d’inspection**
 
-<sup>2</sup> Les rapports d’inspection au Département fédéral des affaires étrangères fourniront, à l’Office fédéral des assurances sociales et à la caisse de compensation, des renseignements sur la gestion de l’assurance facultative par les représentations suisses.[^t-11]
+<sup>1</sup> Les dépenses supplémentaires des représentations suisses (frais de personnel et de matériel) occasionnées par l’application de l’art. 3, al. 1, sont remboursées à forfait au Département fédéral des affaires étrangères et mises à la charge de la caisse de compensation.[^annexu1-4-1]
 
-<sup>2bis</sup> La caisse de compensation est chargée de procéder aux inspections auprès des services AVS/AI.[^t-12]
+<sup>1bis</sup> Les frais de personnel et de matériel des services AVS/AI sont remboursés à leur montant effectif au Département fédéral des affaires étrangères par la caisse de compensation.[^annexu1-4-2]
 
-**Art. 5[^t-13] Obligation de renseigner**
+<sup>2</sup> Les rapports d’inspection au Département fédéral des affaires étrangères fourniront, à l’Office fédéral des assurances sociales et à la caisse de compensation, des renseignements sur la gestion de l’assurance facultative par les représentations suisses.[^annexu1-4-3]
+
+<sup>2bis</sup> La caisse de compensation est chargée de procéder aux inspections auprès des services AVS/AI.[^annexu1-4-4]
+
+[^annexu1-4-1]: [RO 1999 2685](https://fedlex.data.admin.ch/eli/oc/1999/421)
+[^annexu1-4-2]: [RO 1999 2685](https://fedlex.data.admin.ch/eli/oc/1999/421)
+[^annexu1-4-3]: [RO 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)
+[^annexu1-4-4]: [RO 1999 2685](https://fedlex.data.admin.ch/eli/oc/1999/421)
+
+#### Art. 5
+
+**Obligation de renseigner**[^annexu1-5-1]
 
 Les assurés sont tenus de donner à la représentation suisse, au service AVS/AI, à la caisse de compensation et à l’Office AI pour les assurés résidant à l’étranger, tous les renseignements nécessaires à l’application de l’assurance facultative; sur demande, ils établiront par pièces l’exactitude de leurs indications.
 
-**Art. 13, al. 1**
+[^annexu1-5-1]: [RO 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)
 
-<sup>1</sup> Les assurés sont exclus de l’assurance facultative s’ils n’ont pas acquitté entièrement les cotisations dues pour une année civile jusqu’au 31 décembre de l’année civile suivante. Il en va de même s’ils ne remettent pas à la représentation suisse, au service AVS/AI ou à la caisse de compensation jusqu’au 31 décembre de l’année suivante les justificatifs qui leur ont été demandés.[^t-14]
+## *Art. 13, al. 1*
 
-**Art. 16, al. 2**
+<sup>1</sup> Les assurés sont exclus de l’assurance facultative s’ils n’ont pas acquitté entièrement les cotisations dues pour une année civile jusqu’au 31 décembre de l’année civile suivante. Il en va de même s’ils ne remettent pas à la représentation suisse, au service AVS/AI ou à la caisse de compensation jusqu’au 31 décembre de l’année suivante les justificatifs qui leur ont été demandés.[^annexu1-lvlu4-1]
 
-<sup>2</sup> Elles sont versées en francs suisses en Suisse. Avec l’accord de la caisse de compensation, elles peuvent être versées à la représentation suisse à l’étranger ou au service AVS/AI dans la monnaie du pays de séjour ou, exceptionnellement, dans une autre monnaie.[^t-15]
+[^annexu1-lvlu4-1]: [RO 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)
 
-**Art. 20, al. 1**
+## *Art. 16, al. 2*
 
-<sup>1</sup> Les rentes et les indemnités journalières revenant à des ayants droit qui habitent à l’étranger sont versées directement, par la caisse de compensation ou par la représentation suisse ou par le service AVS/AI, dans la monnaie du pays de résidence.[^t-16] Sur demande, elles seront versées en francs suisses par la caisse de compensation en main d’un représentant désigné en Suisse. Si cela paraît suffisamment sûr, la caisse de compensation peut autoriser le versement sur un compte postal ou un compte en banque, en Suisse ou dans le pays de résidence de l’ayant droit.[^t-17]
+<sup>2</sup> Elles sont versées en francs suisses en Suisse. Avec l’accord de la caisse de compensation, elles peuvent être versées à la représentation suisse à l’étranger ou au service AVS/AI dans la monnaie du pays de séjour ou, exceptionnellement, dans une autre monnaie.[^annexu1-lvlu5-1]
 
-**Art. 21, al. 2**
+[^annexu1-lvlu5-1]: [RO 1999 2685](https://fedlex.data.admin.ch/eli/oc/1999/421)
 
-<sup>2</sup> Les certificats doivent en règle générale être attestés par les autorités compétentes du pays de résidence. Sur demande de l’ayant droit ou de la caisse de compensation, ils seront attestés par la représentation suisse ou par le service AVS/AI.[^t-18]
+## *Art. 20, al. 1*
 
-[^t-2]: Introduite par le ch. III de l’O du 16 mars 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 1359](https://fedlex.data.admin.ch/eli/oc/2007/226)).
-[^t-3]: [RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)
-[^t-4]: [RO 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)
-[^t-5]: [RO 1994 2168](https://fedlex.data.admin.ch/eli/oc/1994/2168_2168_2168)
-[^t-6]: [RO 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)
-[^t-7]: [RO 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)
-[^t-8]: [RO 1999 2685](https://fedlex.data.admin.ch/eli/oc/1999/421)
-[^t-9]: [RO 1999 2685](https://fedlex.data.admin.ch/eli/oc/1999/421)
-[^t-10]: [RO 1999 2685](https://fedlex.data.admin.ch/eli/oc/1999/421)
-[^t-11]: [RO 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)
-[^t-12]: [RO 1999 2685](https://fedlex.data.admin.ch/eli/oc/1999/421)
-[^t-13]: [RO 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)
-[^t-14]: [RO 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)
-[^t-15]: [RO 1999 2685](https://fedlex.data.admin.ch/eli/oc/1999/421)
-[^t-16]: [RO 1999 2685](https://fedlex.data.admin.ch/eli/oc/1999/421)
-[^t-17]: [RO 1996 686](https://fedlex.data.admin.ch/eli/oc/1996/686_686_686), [1982 1282](https://fedlex.data.admin.ch/eli/oc/1982/1282_1282_1282)
-[^t-18]: [RO 1999 2685](https://fedlex.data.admin.ch/eli/oc/1999/421)
+<sup>1</sup> Les rentes et les indemnités journalières revenant à des ayants droit qui habitent à l’étranger sont versées directement, par la caisse de compensation ou par la représentation suisse ou par le service AVS/AI, dans la monnaie du pays de résidence.[^annexu1-lvlu6-1] Sur demande, elles seront versées en francs suisses par la caisse de compensation en main d’un représentant désigné en Suisse. Si cela paraît suffisamment sûr, la caisse de compensation peut autoriser le versement sur un compte postal ou un compte en banque, en Suisse ou dans le pays de résidence de l’ayant droit.[^annexu1-lvlu6-2]
+
+[^annexu1-lvlu6-1]: [RO 1999 2685](https://fedlex.data.admin.ch/eli/oc/1999/421)
+[^annexu1-lvlu6-2]: [RO 1996 686](https://fedlex.data.admin.ch/eli/oc/1996/686_686_686), [1982 1282](https://fedlex.data.admin.ch/eli/oc/1982/1282_1282_1282)
+
+## *Art. 21, al. 2*
+
+<sup>2</sup> Les certificats doivent en règle générale être attestés par les autorités compétentes du pays de résidence. Sur demande de l’ayant droit ou de la caisse de compensation, ils seront attestés par la représentation suisse ou par le service AVS/AI.[^annexu1-lvlu7-1]
+
+[^annexu1-lvlu7-1]: [RO 1999 2685](https://fedlex.data.admin.ch/eli/oc/1999/421)
