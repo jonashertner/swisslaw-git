@@ -3,13 +3,13 @@ canton: BS
 number: RiE 152.100
 title: Geschäftsordnung des Einwohnerrats der Einwohnergemeinde Riehen
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-12-15
+version: 2024-01-01
+valid_until: 2026-04-19
+version_adopted: 2023-11-22
 adopted: 2002-10-24
 in_force: 2003-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20152.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5710/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6116/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5710/pdf_file"
 
 Geschäftsordnung des Einwohnerrates | Riehen: Einwohnergemeinde
 
-Vom 24. Oktober 2002 (Stand 1. Januar 2023)
+Vom 24. Oktober 2002 (Stand 1. Januar 2024)
 
 Der Einwohnerrat der Einwohnergemeinde Riehen
 
@@ -317,7 +317,7 @@ erlässt auf Antrag seiner Kommission und gestützt auf die §§ 21 Abs. 3 lit. 
 
 **Zweite Lesung**
 
-<sup>1</sup> Bei der Beratung einer Ordnung wird frühestens in der folgenden Sitzung eine zweite Lesung durchgeführt, sofern nicht zwei Drittel der im Saal anwesenden Mitglieder einem Antrag auf Verzicht auf zweite Lesung zustimmen.
+<sup>1</sup> Bei der Beratung einer Ordnung wird frühestens in der folgenden Sitzung eine zweite Lesung durchgeführt, sofern nicht zwei Drittel der im Saal anwesenden Mitglieder einem Antrag auf Verzicht auf eine zweite Lesung zustimmen.
 
 #### § 28
 
@@ -514,7 +514,7 @@ erlässt auf Antrag seiner Kommission und gestützt auf die §§ 21 Abs. 3 lit. 
 - b) sie prüft den Jahresbericht aus Sicht der Geschäftstätigkeit und auf die Übereinstimmung mit den Strategien und Zielsetzungen.
 - c) …
 
-<sup>4</sup> Der Geschäftsprüfungskommission steht das Recht auf Akteneinsicht zu, soweit diese zur Erfüllung ihrer Aufgabe notwendig ist. Sie trifft Vorkehrungen zum Geheimnisschutz.
+<sup>4</sup> Die Geschäftsprüfungskommission hat das Recht zur Einsicht in sämtliche Gemeindeakten, soweit nicht schwerwiegende private oder öffentliche Interessen entgegenstehen.
 
 <sup>5</sup> Behördenmitglieder und Mitarbeitende der Gemeinde sind ihr gegenüber auskunftspflichtig.
 
@@ -539,6 +539,8 @@ erlässt auf Antrag seiner Kommission und gestützt auf die §§ 21 Abs. 3 lit. 
 **Präsidien der Geschäftsprüfungskommission und der Finanzkommission**
 
 <sup>1</sup> Der Einwohnerrat bestimmt die Präsidien der Geschäftsprüfungskommission und der Finanzkommission.
+
+<sup>1<sup>bis</sup></sup> Die Präsidentin oder der Präsident der Finanzkommission darf nicht der gleichen Fraktion angehören, in der sich die Mitglieder der politischen Partei des für das Ressort Finanzen zuständigen Mitglieds des Gemeinderats befinden.
 
 <sup>2</sup> Die Präsidien der Geschäftsprüfungskommission und der Finanzkommission dürfen nicht der gleichen Fraktion angehören.
 
@@ -641,7 +643,7 @@ erlässt auf Antrag seiner Kommission und gestützt auf die §§ 21 Abs. 3 lit. 
 
 **Wahl**
 
-<sup>1</sup> Der Einwohnerrat wählt in der konstituierenden Sitzung auf die gesamte Amtsdauer von vier Jahren die Mitglieder der ständigen Kommissionen sowie allfällige Delegierte in andere Gremien.
+<sup>1</sup> Der Einwohnerrat wählt in der konstituierenden Sitzung auf die gesamte Amtsdauer von vier Jahren die Mitglieder der ständigen Kommissionen und bestimmt deren Präsidentinnen und Präsidenten. Weiter wählt er allfällige Delegierte in andere Gremien.
 
 <sup>2</sup> Die Zusammensetzung der Finanzkommission richtet sich nach § 43a.
 
@@ -651,9 +653,9 @@ erlässt auf Antrag seiner Kommission und gestützt auf die §§ 21 Abs. 3 lit. 
 
 #### § 51
 
-**Konstituierung und Beschlussfähigkeit**
+**Beschlussfähigkeit**
 
-<sup>1</sup> Die Wahl der Präsidien der Geschäftsprüfungskommission und der Finanzkommission richtet sich nach § 43b. Ansonsten konstituieren sich die Kommissionen selbst. Bis zur Wahl des Präsidiums führt ein Mitglied des Ratsdienstes den Vorsitz.
+<sup>1</sup> …
 
 <sup>2</sup> Die Kommissionen sind beschlussfähig, wenn die Mehrheit ihrer Mitglieder anwesend ist. Die Präsidentin oder der Präsident stimmt mit und fällt bei Stimmengleichheit den Stichentscheid.
 
@@ -662,6 +664,8 @@ erlässt auf Antrag seiner Kommission und gestützt auf die §§ 21 Abs. 3 lit. 
 **Einberufung**
 
 <sup>1</sup> Kommissionssitzungen finden auf Einladung ihrer Präsidentin oder ihres Präsidenten statt. Ausserdem kann ein Drittel der Kommissionsmitglieder oder die Präsidentin oder der Präsident des Einwohnerrats die Einberufung einer Sitzung verlangen.
+
+<sup>1<sup>bis</sup></sup> Die Kommissionssitzungen finden im Gemeindehaus oder anderen von den Präsidentinnen oder Präsidenten bestimmten geeigneten Örtlichkeiten statt. Mit Zustimmung von zwei Dritteln der Kommissionsmitglieder können Sitzungen als Videokonferenzen abgehalten werden. Die diesbezügliche Beschlussfassung kann in einer Videokonferenz erfolgen.
 
 <sup>2</sup> Die Einladung mit Traktandenliste erfolgt in der Regel zehn Tage vor dem Sitzungsbeginn. Die Präsidentin oder der Präsident des Einwohnerrats und der Ratsdienst erhalten eine Orientierungskopie.
 
@@ -675,23 +679,45 @@ erlässt auf Antrag seiner Kommission und gestützt auf die §§ 21 Abs. 3 lit. 
 
 <sup>2</sup> Der Ratsdienst sorgt für die Protokollführung. Über die Sitzungen wird ein erweitertes Beschlussprotokoll erstellt. Es enthält mindestens die Namen der Anwesenden und die Traktandenliste, die Hauptgesichtspunkte der Diskussion sowie Gegenstand und Ergebnisse von Abstimmungen und Wahlen.
 
-<sup>3</sup> Die Kommissionspräsidien erhalten das Protokoll in der Regel im Entwurf. Werden innert fünf Tagen keine Einwendungen erhoben, so wird es auch der Präsidentin oder dem Präsidenten des Einwohnerrats, dem Gemeinderat, der Verwaltungsleiterin oder dem Verwaltungsleiter, der Generalsekretärin oder dem Generalsekretär und den an der Sitzung Teilnehmenden zugänglich gemacht. Die formelle Genehmigung erfolgt in der nächsten Kommissionssitzung.
+<sup>3</sup> Die Genehmigung des Protokolls erfolgt durch die Kommission.
 
 #### § 54
 
-**Geheimhaltung**
+**Vertraulichkeit**
 
 <sup>1</sup> Kommissionssitzungen sind in der Regel nicht öffentlich.
 
-<sup>2</sup> Mitglieder des Einwohnerrats und des Gemeinderats dürfen über den Verlauf der Beratungen, nicht aber über die Voten einzelner Kommissionsmitglieder informiert werden.
+<sup>1<sup>bis</sup></sup> Die Protokolle der Kommissionen stehen nur den Mitgliedern der Kommission vollständig zur Verfügung. Die zu den Kommissionsverhandlungen beigezogenen Mitglieder des Gemeinderats sowie Vertreterinnen und Vertreter der Verwaltung erhalten einen Protokollauszug des Sitzungsteils, an welchem sie anwesend waren.
 
-<sup>3</sup> Aktuelle Kommissionsakten stehen den Kommissionsmitgliedern, der Präsidentin oder dem Präsidenten des Einwohnerrats, der Generalsekretärin oder dem Generalsekretär, der Verwaltungsleiterin oder dem Verwaltungsleiter, dem Gemeinderat und den an der Kommissionsarbeit beteiligten Mitarbeitenden der Verwaltung zur Verfügung.
+<sup>1<sup>ter</sup></sup> Protokoll und Protokollauszüge sind vertraulich zu behandeln und dürfen weder ganz noch auszugsweise an andere Mitglieder des Einwohnerrats oder an Dritte weitergegeben werden. Ausnahmen können während der Kommissionsarbeit von der Kommission, nach Abschluss der Kommissionsarbeit vom Ratsbüro beschlossen werden.
 
-<sup>4</sup> Akten über die im Einwohnerrat bereits behandelten Geschäfte können von allen Mitgliedern des Einwohnerrats eingesehen werden. Das Ratsbüro kann nach Rücksprache mit dem Kommissionspräsidium weitergehende Akteneinsicht bewilligen.
+<sup>2</sup> Die Kommissionsmitglieder sind berechtigt, ihre Fraktion über den Gang der Kommissionsberatungen im Allgemeinen und die Beschlüsse der Kommission zu orientieren. Diese Informationen unterstehen ebenfalls der Vertraulichkeit.
 
-<sup>5</sup> Beschliesst eine Kommission für ihre gesamte Tätigkeit oder Teile davon Geheimhaltung, so gelten Abs. 2 bis 4 nicht. Die Kommission bestimmt, wem das Protokoll zugestellt wird. Bei Zuwiderhandlungen ordnet das Ratsbüro die nötigen Massnahmen an.
+<sup>2<sup>bis</sup></sup> Mitglieder des Gemeinderats und Vertreterinnen und Vertreter der Verwaltung dürfen den Gemeinderat und die Verwaltung über den Gang der Kommissionsberatungen im Allgemeinen und die Beschlüsse der Sitzungsteile orientieren, an welchen sie anwesend waren. Diese Informationen unterstehen ebenfalls der Vertraulichkeit.
 
-<sup>6.</sup> Vorbehalten bleiben übergeordnete Bestimmungen des Informations- und Datenschutzrechts.
+<sup>3</sup> …
+
+<sup>4</sup> …
+
+<sup>5</sup> …
+
+<sup>6.</sup> …
+
+#### § 54a
+
+**Geheimhaltung**
+
+<sup>1</sup> Die Kommissionen sind berechtigt, für einzelne Geschäfte eine zeitlich befristete Geheimhaltung zu beschliessen. Nach einem solchen Beschluss dürfen über die Verhandlungen der Kommission keinerlei Informationen an andere Mitglieder des Einwohnerrats oder an Dritte weitergegeben werden.
+
+<sup>2</sup> Beschliesst eine Kommission Geheimhaltung, so gehen die Protokolle ausschliesslich an die Kommissionsmitglieder sowie ganz oder in Teilen an die Mitglieder des Gemeinderats und der Verwaltung, soweit sie in diesem Beschluss ausdrücklich als Empfängerinnen und Empfänger genannt werden.
+
+<sup>3</sup> Besteht für Verwaltungsangelegenheiten, über die eine Kommission von zuständigen Mitgliedern des Gemeinderats oder Verwaltungsmitarbeitenden Auskunft erhält, eine besondere gesetzliche Pflicht zur Verschwiegenheit, so sind auch die Mitglieder der Kommission dieser Pflicht ohne besonderen Beschluss unterworfen.
+
+#### § 54b
+
+**Verletzung der Vertraulichkeit oder Geheimhaltung**
+
+<sup>1</sup> Bei Verletzung der Vertraulichkeit oder der Geheimhaltung ordnet das Ratsbüro die nötigen Massnahmen an.
 
 #### § 55
 
