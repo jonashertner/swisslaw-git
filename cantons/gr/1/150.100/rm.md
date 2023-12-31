@@ -5,12 +5,12 @@ title: Lescha davart ils dretgs politics en il chantun Grischun
 short: LDPC
 language: rm
 version: 2024-01-01
-valid_until: 2024-12-31
+corrected: 2023-08-22
 version_adopted: 2021-02-16
 adopted: 2005-06-17
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/150.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3334/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3333/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -237,7 +237,7 @@ concluda:
 <sup>1</sup> Fin il pli tard il 14avel glindesdi avant il di d'elecziun sto vegnir publitgà l'invit d'inoltrar propostas electoralas:
 
 - a) per elecziuns chantunalas tras la chanzlia chantunala;
-- b) …
+- b) per elecziuns dal cussegl grond tras las cumissiuns regiunalas;
 - c) per elecziuns da las dretgiras regiunalas tras las cumissiuns administrativas da las dretgiras regiunalas;
 - d) per elecziuns communalas tras las chanzlias communalas.
 
@@ -280,7 +280,7 @@ concluda:
 <sup>1</sup> Las propostas electoralas ston arrivar fin il pli tard il novavel glindesdi avant il di d'elecziun:
 
 - a) per elecziuns chantunalas tar la chanzlia chantunala;
-- b) …
+- b) per elecziuns dal cussegl grond tar la cumissiun regiunala cumpetenta;
 - c) per elecziuns da las dretgiras regiunalas tar la cumissiun administrativa cumpetenta;
 - d) per elecziuns communalas tar la chanzlia communala.
 

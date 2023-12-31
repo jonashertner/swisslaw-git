@@ -5,12 +5,12 @@ title: Legge sui diritti politici nel Cantone dei Grigioni
 short: LDPC
 language: it
 version: 2024-01-01
-valid_until: 2024-12-31
+corrected: 2023-08-22
 version_adopted: 2021-02-16
 adopted: 2005-06-17
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/150.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3334/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3333/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -237,7 +237,7 @@ decide:
 <sup>1</sup> Entro il quattordicesimo lunedì precedente la data dell'elezione deve essere pubblicato l'invito all'inoltro di proposte di candidatura:
 
 - a) in caso di elezioni cantonali da parte della Cancelleria dello Stato;
-- b) …
+- b) in caso di elezioni del Gran Consiglio da parte dei comitati regionali;
 - c) in caso di elezioni dei tribunali regionali da parte delle commissioni amministrative dei tribunali regionali;
 - d) in caso di elezioni comunali da parte delle cancellerie comunali.
 
@@ -280,7 +280,7 @@ decide:
 <sup>1</sup> Le proposte di candidatura devono pervenire entro il nono lunedì precedente la data dell'elezione:
 
 - a) alla Cancelleria dello Stato, in caso di elezioni cantonali;
-- b) …
+- b) al comitato regionale competente, in caso di elezioni del Gran Consiglio;
 - c) alla commissione amministrativa competente, in caso di elezioni dei tribunali regionali;
 - d) alla cancelleria comunale competente, in caso di elezioni comunali.
 

@@ -5,12 +5,12 @@ title: Gesetz über die politischen Rechte im Kanton Graubünden
 short: GPR
 language: de
 version: 2024-01-01
-valid_until: 2024-12-31
+corrected: 2023-08-22
 version_adopted: 2021-02-16
 adopted: 2005-06-17
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/150.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3334/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3333/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -237,7 +237,7 @@ beschliesst:
 <sup>1</sup> Bis spätestens am vierzehntletzten Montag vor dem Wahltag ist die Aufforderung zur Einreichung von Wahlvorschlägen zu publizieren:
 
 - a) bei kantonalen Wahlen von der Standeskanzlei;
-- b) …
+- b) bei Grossratswahlen von den Regionalausschüssen;
 - c) bei Regionalgerichtswahlen von den Verwaltungskommissionen der Regionalgerichte;
 - d) bei kommunalen Wahlen von den Gemeindekanzleien.
 
@@ -280,7 +280,7 @@ beschliesst:
 <sup>1</sup> Wahlvorschläge müssen bis spätestens am neuntletzten Montag vor dem Wahltag eintreffen:
 
 - a) bei kantonalen Wahlen bei der Standeskanzlei;
-- b) …
+- b) bei Grossratswahlen beim zuständigen Regionalausschuss;
 - c) bei Regionalgerichtswahlen bei der zuständigen Verwaltungskommission;
 - d) bei kommunalen Wahlen bei der zuständigen Gemeindekanzlei.
 
