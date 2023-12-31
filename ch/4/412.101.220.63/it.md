@@ -3,18 +3,18 @@ sr: "412.101.220.63"
 title: Ordinanza della SEFRI del 18 ottobre 2016 sulla formazione professionale di base Gestrice della cura di tessili / Gestore della cura di tessili con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/614"
 language: it
-version: 2020-01-01
+version: 2024-01-01
 adopted: 2016-10-18
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/614/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2016-614-20200101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/614/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/614/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2016-614-20240101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/614/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Gestrice della cura di tessili / Gestore della cura di tessili con attestato federale di capacità (AFC)
 
-del 18 ottobre 2016 (Stato 1° gennaio 2020) (Stato 1° gennaio 2020)
+del 18 ottobre 2016 (Stato 1° gennaio 2024)
 
 <table>
 <tr><td>80607</td><td>Gestrice della cura di tessili AFC / Gestore della cura di tessili AFC Fachfrau Textilpflege EFZ / Fachmann Textilpflege EFZ Gestionnaire en entretien des textiles CFC</td></tr>
@@ -124,23 +124,23 @@ Lo sviluppo delle competenze operative nei campi di competenze operative a ed e 
 - a. le competenze operative b.2 e c.3 sono obbligatorie per l’orientamento Lavanderia a secco e ad acqua;
 - b. la competenza operativa c.2 è obbligatoria per l’orientamento Lavanderia artigianale/industriale.
 
-## Sezione 3: Sicurezza sul lavoro, protezione della salute e dell’ambiente
+## Sezione 3: Sicurezza sul lavoro, protezione della salute, protezione dell’ambiente e sviluppo sostenibile
+
+[^sec3-1]
+
+[^sec3-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 16 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 719](https://fedlex.data.admin.ch/eli/oc/2023/719)).
 
 #### Art. 5
 
-[^5-1]
-
-<sup>1</sup> All’inizio e durante la formazione gli operatori forniscono e spiegano alle persone in formazione le prescrizioni e le raccomandazioni relative alla sicurezza sul lavoro e alla protezione della salute e dell’ambiente, in particolare quelle relative alla comunicazione dei pericoli (simboli di pericolo e di obbligo, pittogrammi).
+<sup>1</sup> All’inizio e durante la formazione gli operatori forniscono e spiegano alle persone in formazione le prescrizioni e le raccomandazioni relative alla sicurezza sul lavoro, alla protezione della salute e alla protezione dell’ambiente, in particolare quelle relative alla comunicazione dei pericoli e della sicurezza in questi tre ambiti.
 
 <sup>2</sup> Dette prescrizioni e raccomandazioni sono fornite in tutti i luoghi di formazione e considerate nelle procedure di qualificazione.
 
-<sup>3</sup> Tutti i luoghi di formazione sensibilizzano le persone in formazione allo sviluppo sostenibile, con particolare attenzione all’equilibrio tra interessi sociali, ecologici ed economici.
+<sup>3</sup> Gli aspetti specifici della professione inerenti allo sviluppo sostenibile sono trasmessi in tutti i luoghi di formazione.
 
-<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4 capoverso 4 OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate in allegato al piano di formazione.
+<sup>4</sup> In deroga all’articolo 4 capoverso 1 OLL 5 e secondo le prescrizioni dell’articolo 4 capoverso 4 OLL 5 è ammesso l’impiego di persone in formazione in conformità con il loro stato di formazione per le attività elencate nell’allegato 2 del piano di formazione.
 
-<sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
-
-[^5-1]: Nuovo testo giusta il n. II 42 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+<sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo; tali precauzioni particolari sono fissate nell’allegato 2 del piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
 
 ## Sezione 4: Durata della formazione in ciascun luogo di formazione e lingua d’insegnamento
 
@@ -152,32 +152,31 @@ La formazione professionale pratica in azienda comprende in media quattro giorna
 
 #### Art. 7
 
-**Scuola professionale**
+**Scuola professionale**[^7-1]
 
-<sup>1</sup> L’insegnamento obbligatorio presso la scuola professionale comprende 1080 lezioni. Dette lezioni sono suddivise secondo la tabella seguente:
+<sup>1</sup> L’insegnamento obbligatorio presso la scuola professionale comprende 1080 lezioni. Tali lezioni sono suddivise secondo la tabella seguente:
 
 <table>
-<tr><td>Insegnamento</td><td>1° anno</td><td>2° anno</td><td>3° anno</td><td>Totale</td></tr>
+<tr><th>Insegnamento</th><th>1° anno</th><th>2° anno</th><th>3° anno</th><th>Totale</th></tr>
 <tr><td>a. Conoscenze professionali</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>– elaborazione degli ordini dei clienti</td><td>20</td><td>20</td><td>30</td><td>70</td></tr>
-<tr><td>– Preparazione dei carichi</td><td>40</td><td>40</td><td>40</td><td>120</td></tr>
+<tr><td>– Elaborazione degli ordini dei clienti [tab] Preparazione dei carichi [tab] Rifinitura dei tessili</td><td>80</td><td>80</td><td>90</td><td>250</td></tr>
 <tr><td>– Trattamento dei tessili</td><td>120</td><td>120</td><td>110</td><td>350</td></tr>
-<tr><td>– Rifinitura dei tessili</td><td>[tab] 20</td><td>[tab] 20</td><td>[tab] 20</td><td>[tab] 60</td></tr>
-<tr><td>Totale conoscenze professionali</td><td>200</td><td>200</td><td>200</td><td>600</td></tr>
+<tr><td>Totale conoscenze professionali</td><td>**200**</td><td>**200**</td><td>**200**</td><td>**600**</td></tr>
 <tr><td>b. Cultura generale</td><td>120</td><td>120</td><td>120</td><td>360</td></tr>
 <tr><td>c. Educazione fisica</td><td>40</td><td>40</td><td>40</td><td>120</td></tr>
-<tr><td>Totale delle lezioni</td><td>360</td><td>360</td><td>360</td><td>1080</td></tr>
+<tr><td>Totale delle lezioni</td><td>**360**</td><td>**360**</td><td>**360**</td><td>**1080**</td></tr>
 </table>
 
-<sup>2</sup> D’intesa con le autorità cantonali e le organizzazioni del mondo del lavoro competenti sono ammesse deroghe minime al numero di lezioni prescritte per anno di formazione in un campo di competenze operative.
+<sup>2</sup> D’intesa con le autorità cantonali e le organizzazioni del mondo del lavoro competenti sono ammessi spostamenti minimi di lezioni da un anno di formazione all’altro in un campo di competenze operative. Deve essere comunque garantito il raggiungimento degli obiettivi di formazione prestabiliti.
 
-<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^7-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^7-2] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
 
-<sup>4</sup> La lingua d’insegnamento è di norma la lingua nazionale del luogo in cui si trova la scuola professionale. I Cantoni possono autorizzare altre lingue d’insegnamento.
+<sup>4</sup> La lingua d’insegnamento è la lingua nazionale nella variante standard del luogo in cui si trova la scuola professionale. Oltre a questa lingua, i Cantoni possono autorizzare altre lingue d’insegnamento.
 
-<sup>5</sup> È raccomandato l’insegnamento bilingue nella lingua nazionale locale e in un’altra lingua nazionale o in inglese.
+<sup>5</sup> È raccomandato l’insegnamento bilingue, vale a dire nella lingua nazionale del luogo in cui si trova la scuola e in un’altra lingua nazionale o in inglese.
 
-[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^7-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 16 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 719](https://fedlex.data.admin.ch/eli/oc/2023/719)).
+[^7-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 8
 
@@ -185,26 +184,29 @@ La formazione professionale pratica in azienda comprende in media quattro giorna
 
 <sup>1</sup> I corsi interaziendali comprendono 13 giornate di otto ore.
 
-<sup>2</sup> Le giornate e i contenuti cono ripartiti in sette corsi come segue:
+<sup>2</sup> Le giornate e i contenuti sono ripartiti in sette corsi come segue:
 
 <table>
-<tr><th>Anno</th><th>Corsi</th><th>Campo di competenze operative/comp. operative/obiettivi di valutazione</th><th>Durata</th></tr>
-<tr><td>1.</td><td>Corso 1</td><td>Obiettivo di valutazione «riconoscere le situazioni di pericolo e attuare le misure»</td><td>1 giorno</td></tr>
-<tr><td>1.</td><td>Corso 2</td><td>Competenza operativa «lavare i tessili con le procedure e gli impianti adeguati» per le persone in formazione dell’orientamento lavanderia a secco e ad acqua; Competenza operativa «lavare a secco o ad acqua i tessili con le procedure e gli impianti adeguati» per le persone in formazione dell’orientamento lavanderia industriale/artigianale</td><td>1 giorno</td></tr>
-<tr><td>1.</td><td>Corso 3</td><td>Obiettivo di valutazione «garantire l’igiene personale e aziendale»</td><td>2 giorni</td></tr>
-<tr><td>2.</td><td>Corso 4</td><td>Competenza operativa «eseguire la smacchiatura dei tessili»</td><td>2 giorni</td></tr>
-<tr><td>2.</td><td>Corso 5</td><td>Obiettivo di valutazione «utilizzare in modo professionale le sostanze chimiche»</td><td>2 giorni</td></tr>
-<tr><td>2.</td><td>Corso 6</td><td>Obiettivo di valutazione «effettuare i controlli e la manutenzione degli impianti»</td><td>2 giorni</td></tr>
-<tr><td>3.</td><td>Corso 7</td><td>Obiettivo di valutazione «programmare e manovrare gli impianti»</td><td>3 giorni</td></tr>
+<tr><th>Anno</th><th>Corsi</th><th>Competenze operative / obiettivi di valutazione</th><th>Num. giorni</th></tr>
+<tr><td>1.</td><td>1</td><td>Obiettivo di valutazione «riconoscere le situazioni di pericolo e attuare le misure»</td><td>1</td></tr>
+<tr><td>1.</td><td>2</td><td>Competenza operativa «lavare i tessili con le procedure e gli impianti adeguati» e obiettivo di valutazione «schizzare lo svolgimento generale e le varie fasi operative di una lavanderia a secco e ad acqua» per le persone in formazione dell’orientamento lavanderia industriale/artigianale; Competenza operativa «lavare a secco o ad acqua i tessili con le procedure e gli impianti adeguati» e obiettivo di valutazione «schizzare lo svolgimento generale e le varie fasi operative di una lavanderia a secco e ad acqua» per le persone in formazione dell’orientamento lavanderia a secco e ad acqua</td><td>1</td></tr>
+<tr><td>1.</td><td>3</td><td>Obiettivo di valutazione «garantire l’igiene personale e aziendale»</td><td>2</td></tr>
+<tr><td>2.</td><td>4</td><td>Obiettivo di valutazione «eseguire la smacchiatura dei tessili»</td><td>2</td></tr>
+<tr><td>2.</td><td>5</td><td>Obiettivo di valutazione «utilizzare in modo professionale le sostanze chimiche»</td><td>2</td></tr>
+<tr><td>2.</td><td>6</td><td>Obiettivo di valutazione «effettuare i controlli e la manutenzione degli impianti»</td><td>2</td></tr>
+<tr><td>3.</td><td>7</td><td>Obiettivo di valutazione «programmare e manovrare gli impianti»</td><td>3</td></tr>
+<tr><td colspan="3">**Totale**</td><td>**13**.[^8-1]</td></tr>
 </table>
 
 <sup>3</sup> Nell’ultimo semestre della formazione professionale di base non si svolgono corsi interaziendali.
+
+[^8-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 16 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 719](https://fedlex.data.admin.ch/eli/oc/2023/719)).
 
 ## Sezione 5: Piano di formazione
 
 #### Art. 9
 
-<sup>1</sup> Al momento dell’entrata in vigore della presente ordinanza è disponibile un piano di formazione, emanato dalla competente organizzazione del mondo del lavoro e approvato dalla SEFRI.
+<sup>1</sup> All’entrata in vigore della presente ordinanza è disponibile un piano di formazione[^9-1] della competente organizzazione del mondo del lavoro.[^9-2]
 
 <sup>2</sup>
 
@@ -220,9 +222,11 @@ Il piano di formazione:
 
 - b. riporta i contenuti della formazione di base e le disposizioni relative alla sicurezza sul lavoro e alla protezione della salute e dell’ambiente e determina quali competenze operative vengono trasmesse e apprese in ciascun luogo di formazione.
 
-<sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti per la promozione della qualità della formazione professionale di base con indicazione del centro di distribuzione.[^9-1]
+<sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti per la promozione della qualità della formazione professionale di base con indicazione del centro di distribuzione.[^9-3]
 
-[^9-1]: Nuovo testo giusta il n. III 16 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^9-1]: Il piano del 16 novembre 2023 è disponibile sul sito SEFRI nell’elenco delle professioni: [www.bvz.admin.ch &gt; Professioni A–Z.](https://www.becc.admin.ch/becc/public/bvz/)
+[^9-2]: Nuovo testo giusta il n. I dell’O della SEFRI del 16 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 719](https://fedlex.data.admin.ch/eli/oc/2023/719)).
+[^9-3]: Nuovo testo giusta il n. III 16 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## Sezione 6: Requisiti per i formatori e numero massimo di persone in formazione in azienda
 
@@ -312,21 +316,20 @@ Nelle procedure di qualificazione occorre dimostrare di aver acquisito le compet
 
 Nelle procedure di qualificazione con esame finale vengono esaminate, nel modo indicato, le competenze operative dei seguenti campi di qualificazione:
 
-- a.
+- a.[^17-1]
 
-  «lavoro pratico», sotto forma di lavoro pratico prestabilito della durata di 12 ore. Vale quanto segue:
+  «lavoro pratico», sotto forma di lavoro pratico prestabilito della durata di otto ore; vale quanto segue:
 
   - 1\. l’esame per questo campo di qualificazione ha luogo verso la fine della formazione professionale di base,
   - 2\. la persona in formazione deve dimostrare di essere in grado di svolgere le attività richieste in modo professionalmente corretto e adeguato alle necessità e alla situazione,
-  - 3\. è ammessa come ausilio la consultazione della documentazione dell’apprendimento e dei corsi interaziendali,
-  - 4\. il campo di qualificazione comprende i campi di competenze operative sottoelencati con le seguenti ponderazioni:
+  - 3\. è ammessa la consultazione della documentazione dell’apprendimento e dei corsi interaziendali,
+  - 4\. il campo di qualificazione comprende i campi di competenze operative sottoelencati con le ponderazioni seguenti:
 
 <table>
-<tr><td>Voce</td><td>Campi di competenze operative</td><td>Ponderazione</td></tr>
-<tr><td>1</td><td>Elaborazione degli ordini dei clienti</td><td>10 %</td></tr>
-<tr><td>2</td><td>Preparazione dei carichi</td><td>10 %</td></tr>
-<tr><td>3</td><td>Trattamento dei tessili</td><td>50 %</td></tr>
-<tr><td>4</td><td>Rifinitura dei tessili</td><td>30 %</td></tr>
+<tr><th>Voce</th><th>Campi di competenze operative</th><th>Ponderazione</th></tr>
+<tr><td>1</td><td>Elaborazione degli ordini dei clienti, preparazione dei carichi</td><td>20 %</td></tr>
+<tr><td>2</td><td>Trattamento dei tessili</td><td>50 %</td></tr>
+<tr><td>3</td><td>Rifinitura dei tessili</td><td>30 %</td></tr>
 </table>
 
 - b.
@@ -344,11 +347,12 @@ Nelle procedure di qualificazione con esame finale vengono esaminate, nel modo i
 <tr><td>4</td><td>Rifinitura dei tessili</td><td>60 Min.</td><td>30 %</td></tr>
 </table>
 
-- c. «cultura generale». Per questo campo di qualificazione fa stato l’ordinanza della SEFRI del 27 aprile 2006[^17-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+- c. «cultura generale». Per questo campo di qualificazione fa stato l’ordinanza della SEFRI del 27 aprile 2006[^17-2] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
 
 <sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
 
-[^17-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^17-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 16 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 719](https://fedlex.data.admin.ch/eli/oc/2023/719)).
+[^17-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 18
 
@@ -417,31 +421,36 @@ Se l’attestato federale di capacità è stato conseguito mediante procedura di
 
 #### Art. 22
 
-**Commissione svizzera per lo sviluppo professionale e la qualitàdella formazione dei gestori della cura dei tessiliAFC**
+**Commissione svizzera per lo sviluppo professionale e la qualità della formazione dei gestori della cura dei tessili AFC**[^22-1]
 
 <sup>1</sup>
 
 La Commissione svizzera per lo sviluppo professionale e la qualità della formazione dei gestori della cura dei tessili AFC è composta da:
 
-- a. 4–5 rappresentanti dell’Associazione svizzera degli specialisti per il trattamento dei tessili ASTT;
-- b. un rappresentante dei docenti di materie professionali;
-- c. almeno un rappresentante della Confederazione e uno dei Cantoni.
+- a. 4–8 rappresentanti dell’Associazione svizzera degli specialisti per il trattamento dei tessili (ASTT);
+- b. almeno un rappresentante delle scuole professionali;
+- c. almeno un rappresentante della Confederazione e almeno uno dei Cantoni.
 
-<sup>2</sup> Le regioni linguistiche sono adeguatamente rappresentate.
+<sup>2</sup>
 
-<sup>3</sup> Gli orientamenti devono essere rappresentati.
+Per la composizione della Commissione vale inoltre quanto segue:
 
-<sup>4</sup> La Commissione si autocostituisce.
+- a. si cerca di raggiungere una rappresentanza paritetica di entrambi i sessi;
+- b. le regioni linguistiche sono adeguatamente rappresentate;
+- c. gli orientamenti sono rappresentati.
 
-<sup>5</sup>
+<sup>3</sup> La Commissione si autocostituisce.
 
-Essa svolge in particolare i seguenti compiti:
+<sup>4</sup>
 
-- a. verifica costantemente, ma almeno ogni cinque anni, l’ordinanza sulla formazione professionale di base e il piano di formazione in relazione agli sviluppi economici, tecnologici, ecologici e didattici. Nella verifica tiene conto di eventuali nuovi aspetti organizzativi della formazione professionale di base;
-- b. chiede alla competente organizzazione del mondo del lavoro di presentare alla SEFRI una domanda di modifica dell’ordinanza sulla formazione professionale di base, qualora gli sviluppi osservati la rendano necessaria;
-- c. chiede all’organizzazione del mondo del lavoro l’adeguamento del piano di formazione, qualora gli sviluppi osservati lo rendano necessario;
-- d. esprime un parere riguardo agli strumenti per la validazione degli apprendimenti acquisiti;
-- e. esprime un parere riguardo agli strumenti per la promozione della qualità della formazione professionale di base, in particolare sulle disposizioni esecutive concernenti le procedure di qualificazione.
+Essa svolge in particolare i compiti seguenti:
+
+- a. verifica almeno ogni cinque anni la presente ordinanza e il piano di formazione in relazione agli sviluppi economici, tecnologici, ecologici e didattici; nella verifica tiene conto di eventuali nuovi aspetti organizzativi della formazione professionale di base;
+- b. se osserva sviluppi che richiedono una modifica della presente ordinanza, chiede all’organizzazione del mondo del lavoro competente di proporre alla SEFRI la corrispondente modifica;
+- c. se osserva sviluppi che richiedono una modifica del piano di formazione, presenta all’organizzazione del mondo del lavoro competente una proposta di adeguamento del piano di formazione;
+- d. esprime un parere riguardo agli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuoverne la qualità, in particolare sulle disposizioni esecutive per la procedura di qualificazione con esame finale.
+
+[^22-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 16 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 719](https://fedlex.data.admin.ch/eli/oc/2023/719)).
 
 #### Art. 23
 
@@ -474,6 +483,18 @@ Essa svolge in particolare i seguenti compiti:
 <sup>1</sup> Le persone che hanno iniziato la formazione di addetto alla cura di tessili prima del 1° gennaio 2017 la portano a termine in base al diritto anteriore.
 
 <sup>2</sup> Chi ripete la procedura di qualificazione con esame finale per addetto alla cura di tessili AFC entro il 31 dicembre 2021, viene valutato, su richiesta, in base al diritto anteriore.
+
+#### Art. 25a
+
+**Disposizioni transitorie della modifica del 16 novembre 2023**[^25a-1]
+
+<sup>1</sup> Le persone che hanno iniziato la formazione di gestore della cura di tessili AFC prima dell’entrata in vigore della modifica del 16 novembre 2023 la portano a termine in base al diritto anteriore, al massimo però entro il 31 dicembre 2028.
+
+<sup>2</sup> I candidati che ripetono la procedura di qualificazione con esame finale per gestore della cura di tessili AFC entro il 31 dicembre 2028 sono valutati in base al diritto anteriore. I candidati che presentano un’apposita richiesta scritta sono valutati in base al nuovo diritto.
+
+<sup>3</sup> Le disposizioni concernenti le procedure di qualificazione, le attestazioni e il titolo (art. 17 cpv. 1 lett. a) si applicano dal 1° gennaio 2027.
+
+[^25a-1]: Introdotto dal n. I dell’O della SEFRI del 16 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 719](https://fedlex.data.admin.ch/eli/oc/2023/719)).
 
 #### Art. 26
 
