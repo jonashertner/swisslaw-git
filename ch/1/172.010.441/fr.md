@@ -3,11 +3,11 @@ sr: "172.010.441"
 title: "Ordonnance du 3 avril 2019 sur la gestion électronique des affaires dans l'administration fédérale (Ordonnance GEVER)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/253"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2019-04-03
 in_force: 2020-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/253/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2019-253-20230901-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/253/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/253/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-253-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/253/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/253/20230901/fr"
 
 (Ordonnance GEVER)
 
-du 3 avril 2019 (État le 1<sup>er</sup> septembre 2023)
+du 3 avril 2019 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -154,13 +154,14 @@ Les informations sans valeur archivistique peuvent être détruites au terme du 
 
 #### Art. 11
 
-**Traitement d’informations classifiées**
+**Traitement d’informations classifiées**[^11-1]
 
-<sup>1</sup> Les informations classifiées CONFIDENTIEL en vertu de l’art. 6 de l’ordonnance du 4 juillet 2007 concernant la protection des informations (OPrI)[^11-1] sont chiffrées dans les systèmes de gestion des affaires.
+<sup>1</sup> Les informations classifiées CONFIDENTIEL en vertu de l’art. 19 de l’ordonnance du 8 novembre 2023 sur la sécurité de l’information (OSI)[^11-2] sont chiffrées dans les systèmes de gestion des affaires.
 
-<sup>2</sup> Les informations classifiées SECRET en vertu de l’OPrI ne doivent pas être traitées dans les systèmes de gestion des affaires.
+<sup>2</sup> Les informations classifiées SECRET en vertu de l’art. 20 OSI ne doivent pas être traitées dans les systèmes de gestion des affaires.
 
-[^11-1]: [RS 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^11-1]: Nouvelle teneur selon l’annexe 2 ch. II 8 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^11-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 
 #### Art. 12
 
@@ -245,7 +246,7 @@ Le Groupe spécialisé GEVER Confédération aide le Service GEVER Confédérati
 Ses tâches sont notamment les suivantes:[^18-1]
 
 - a.[^18-2] préparer les affaires du Groupe spécialisé GEVER Confédération et exécuter les mandats que ce dernier lui confie dans ce contexte;
-- b. et c.[^18-3] ...
+- b. et c.[^18-3] …
 - d. recueillir au niveau des départements et de la Chancellerie fédérale les demandes concernant les exigences relatives aux affaires dans GEVER standardisé, les évaluer quant à leur contribution à la mise en œuvre de la stratégie GEVER, les compiler et les prioriser à l’intention du Groupe spécialisé GEVER Confédération; prendre en compte du point de vue des affaires les intérêts pour la mise en œuvre des exigences relatives aux affaires dans le service TIC standardisé GEVER;
 - e. lancer, accompagner et coordonner l’identification et la mise en œuvre de processus de gestion des affaires impliquant plusieurs unités administratives et de processus de cyberadministration qui peuvent être accomplis entièrement ou partiellement dans GEVER standardisé; aider les unités administratives dans le cadre de telles mises en œuvre et assurer en particulier la mise à jour des configurations nécessaires de GEVER standardisé;
 - f. recueillir au niveau des départements et de la Chancellerie fédérale les demandes concernant la configuration spécialisée de GEVER standardisé pour toute l’administration fédérale et élaborer des propositions de modifications à l’intention du Groupe spécialisé GEVER Confédération; prendre en compte les intérêts pour la mise en œuvre de la configuration spécialisée dans GEVER standardisé;

@@ -3,11 +3,11 @@ sr: "172.010.441"
 title: Verordnung vom 3. April 2019 über die elektronische Geschäftsverwaltung in der Bundesverwaltung (GEVER-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/253"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2019-04-03
 in_force: 2020-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/253/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2019-253-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/253/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/253/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2019-253-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/253/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/253/20230901/de"
 
 (GEVER-Verordnung)
 
-vom 3. April 2019 (Stand am 1. September 2023)
+vom 3. April 2019 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -154,13 +154,14 @@ Nicht archivwürdige Informationen können nach Ablauf der von der Verwaltungsei
 
 #### Art. 11
 
-**Bearbeitung von klassifizierten Informationen**
+**Bearbeitung von klassifizierten Informationen**[^11-1]
 
-<sup>1</sup> Informationen, die nach Artikel 6 der Informationsschutzverordnung vom 4. Juli 2007[^11-1] als VERTRAULICH klassifiziert sind, werden in Geschäftsverwaltungssystemen verschlüsselt.
+<sup>1</sup> Informationen, die nach Artikel 19 der Informationssicherheitsverordnung vom 8. November 2023[^11-2] als VERTRAULICH klassifiziert sind, werden in Geschäftsverwaltungssystemen verschlüsselt.
 
-<sup>2</sup> Informationen, die nach Artikel 5 der Informationsschutzverordnung als GEHEIM klassifiziert sind, dürfen nicht in Geschäftsverwaltungssystemen bearbeitet werden.
+<sup>2</sup> Informationen, die nach Artikel 20 der Informationssicherheitsverordnung als GEHEIM klassifiziert sind, dürfen nicht in Geschäftsverwaltungssystemen bearbeitet werden.
 
-[^11-1]: [SR 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^11-1]: Fassung gemäss Anhang 2 Ziff. II 8 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^11-2]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 
 #### Art. 12
 

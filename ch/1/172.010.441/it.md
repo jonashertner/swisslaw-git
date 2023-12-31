@@ -3,11 +3,11 @@ sr: "172.010.441"
 title: "Ordinanza del 3 aprile 2019 sulla gestione elettronica degli affari nell'Amministrazione federale (Ordinanza GEVER)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/253"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2019-04-03
 in_force: 2020-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/253/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2019-253-20230901-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/253/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/253/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2019-253-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/253/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/253/20230901/it"
 
 (Ordinanza GEVER)
 
-del 3 aprile 2019 (Stato 1° settembre 2023)
+del 3 aprile 2019 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -154,13 +154,14 @@ Le informazioni prive di valore archivistico possono essere distrutte alla scade
 
 #### Art. 11
 
-**Trattamento di informazioni classificate**
+**Trattamento di informazioni classificate**[^11-1]
 
-<sup>1</sup> Le informazioni classificate CONFIDENZIALE conformemente all’articolo 6 ordinanza del 4 luglio 2007[^11-1] sulla protezione delle informazioni sono crittate nel sistema di gestione degli affari.
+<sup>1</sup> Le informazioni classificate CONFIDENZIALE conformemente all’articolo 19 dell’ordinanza dell’8 novembre 2023[^11-2] sulla sicurezza delle informazioni sono crittate nel sistema di gestione degli affari.
 
-<sup>2</sup> Le informazioni classificate SEGRETO conformemente all’articolo 5 dell’ordinanza sulla protezione delle informazioni non possono essere trattate nei sistemi di gestione degli affari.
+<sup>2</sup> Le informazioni classificate SEGRETO conformemente all’articolo 20 dell’ordinanza sulla sicurezza delle informazioni non possono essere trattate nei sistemi di gestione degli affari.
 
-[^11-1]: [RS 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^11-1]: Nuovo testo giusta l’all. 2 n. II 8 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^11-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
 
 #### Art. 12
 
