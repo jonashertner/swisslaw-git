@@ -4,11 +4,11 @@ title: Bundesgesetz vom 20. Dezember 1946 über die Alters- und Hinterlassenenve
 short: AHVG
 eli: "https://fedlex.data.admin.ch/eli/cc/63/837_843_843"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1946-12-20
 in_force: 1948-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/837_843_843/20230901/de/xml/fedlex-data-admin-ch-eli-cc-63-837_843_843-20230901-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/837_843_843/20240101/de/xml/fedlex-data-admin-ch-eli-cc-63-837_843_843-20240101-de-xml-17.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,18 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20230901/de"
 
 (AHVG)[^t-1]
 
-vom 20. Dezember 1946 (Stand am 1. September 2023)
+vom 20. Dezember 1946 (Stand am 1. Januar 2024)
 
 [^t-1]: Abkürzung beigefügt gemäss Ziff. I des BG vom 24. Juni 1977 (9. AHV-Revision), in Kraft seit 1. Jan. 1979 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
-gestützt auf Artikel 34<sup>quater</sup> der Bundesverfassung[^ingress-1],[^ingress-2] nach Einsicht in die Botschaften des Bundesrates vom 24. und 29. Mai und vom 24. September 1946[^ingress-3],
+gestützt auf Artikel 112 Absatz 1 der Bundesverfassung[^ingress-1],[^ingress-2] nach Einsicht in die Botschaften des Bundesrates vom 24. und 29. Mai und vom 24. September 1946[^ingress-3],
 
 beschliesst:
 
-[^ingress-1]: [[AS 1973 429](https://fedlex.data.admin.ch/eli/oc/1973/429_429_429)]. Dieser Bestimmung entsprechen die Artikel 111–113 der Bundesverfassung vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 21. März 2003 (4. IV-Revision), in Kraft seit 1. Jan. 2004 ([AS 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [BBl 2001 3205](https://fedlex.data.admin.ch/eli/fga/2001/617)).
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^ingress-3]: [BBl 1946 II 365](https://fedlex.data.admin.ch/eli/fga/1946/2_365_353_349)589 III 590
 
 ## Erster Teil: Die Versicherung
@@ -93,11 +93,11 @@ Die Versicherung können weiterführen:
 
 Der Versicherung können beitreten:
 
-- a. Personen mit Wohnsitz in der Schweiz, die auf Grund einer zwischenstaatlichen Vereinbarung nicht versichert sind;
-- b.[^1a-11] Schweizer Angestellte eines institutionellen Begünstigten nach Artikel 2 Absatz 1 des Gaststaatgesetzes vom 22. Juni 2007[^1a-12], die Vorrechte, Immunitäten und Erleichterungen geniessen, sofern sie aufgrund eines Abkommens mit diesem Begünstigten nicht obligatorisch in der Schweiz versichert sind;
-- c. im Ausland wohnhafte nicht erwerbstätige Ehegatten von erwerbstätigen Personen, die nach Absatz 1 Buchstabe c, Absatz 3 Buchstabe a oder auf Grund einer zwischenstaatlichen Vereinbarung versichert sind.[^1a-13]
+- a. Personen mit Wohnsitz in der Schweiz, die auf Grund eines internationalen Abkommens[^1a-11] nicht versichert sind;
+- b.[^1a-12] Schweizer Angestellte eines institutionellen Begünstigten nach Artikel 2 Absatz 1 des Gaststaatgesetzes vom 22. Juni 2007[^1a-13], die Vorrechte, Immunitäten und Erleichterungen geniessen, sofern sie aufgrund eines Abkommens mit diesem Begünstigten nicht obligatorisch in der Schweiz versichert sind;
+- c. im Ausland wohnhafte nicht erwerbstätige Ehegatten von erwerbstätigen Personen, die nach Absatz 1 Buchstabe c, Absatz 3 Buchstabe a oder auf Grund eines internationalen Abkommens versichert sind.[^1a-14]
 
-<sup>5</sup> Der Bundesrat bestimmt im Einzelnen die Bedingungen für die Weiterführung der Versicherung nach Absatz 3 und für den Beitritt nach Absatz 4; ferner legt er die Einzelheiten bezüglich Rücktritt und Ausschluss fest.[^1a-14]
+<sup>5</sup> Der Bundesrat bestimmt im Einzelnen die Bedingungen für die Weiterführung der Versicherung nach Absatz 3 und für den Beitritt nach Absatz 4; ferner legt er die Einzelheiten bezüglich Rücktritt und Ausschluss fest.[^1a-15]
 
 [^1a-1]: Ursprünglich Art. 1.
 [^1a-2]: Gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)), wurden sämtliche Randtitel in Sachüberschriften umgewandelt.
@@ -109,10 +109,11 @@ Der Versicherung können beitreten:
 [^1a-8]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 [^1a-9]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^1a-10]: Eingefügt durch Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision) ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)). Fassung gemäss Ziff. I des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [BBl 1999 4983](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
-[^1a-11]: Fassung gemäss Anhang Ziff. II 10 des Gaststaatgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [BBl 2006 8017](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
-[^1a-12]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^1a-13]: Fassung gemäss Ziff. I der V der BVers vom 21. Juni 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
-[^1a-14]: Eingefügt durch Ziff. I des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [BBl 1999 4983](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
+[^1a-11]: Ausdruck gemäss Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)). Diese Änd. wurde im ganzen Erlass berücksichtigt
+[^1a-12]: Fassung gemäss Anhang Ziff. II 10 des Gaststaatgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [BBl 2006 8017](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
+[^1a-13]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^1a-14]: Eingefügt durch Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision) ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)). Fassung gemäss Ziff. I der V der BVers vom 21. Juni 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+[^1a-15]: Eingefügt durch Ziff. I des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [BBl 1999 4983](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
 
 #### Art. 2
 
@@ -147,38 +148,41 @@ Der Versicherung können beitreten:
 
 **Beitragspflichtige Personen**
 
-<sup>1</sup> Die Versicherten sind beitragspflichtig, solange sie eine Erwerbstätigkeit ausüben. Für Nichterwerbstätige beginnt die Beitragspflicht am 1. Januar nach Vollendung des 20. Altersjahres und dauert bis zum Ende des Monats, in welchem Frauen das 64. und Männer das 65. Altersjahr vollendet haben.[^3-1]
+<sup>1</sup> Die Versicherten sind beitragspflichtig, solange sie eine Erwerbstätigkeit ausüben.[^3-1]
+
+<sup>1bis</sup> Für Nichterwerbstätige beginnt die Beitragspflicht am 1. Januar nach Vollendung des 20. Altersjahres. Sie dauert bis zum Ende des Monats, in dem die Nichterwerbstätigen das Referenzalter nach Artikel 21 Absatz 1 erreichen.[^3-2]
 
 <sup>2</sup>
 
 Von der Beitragspflicht sind befreit:
 
-- a.[^3-2] die erwerbstätigen Kinder bis zum 31. Dezember des Jahres, in welchem sie das 17. Altersjahr zurückgelegt haben;
-- [tab] b. und c. …[^3-3]
-- d.[^3-4] mitarbeitende Familienglieder, die keinen Barlohn beziehen, bis zum 31. Dezember des Jahres, in welchem sie das 20. Altersjahr vollendet haben.
-- e. …[^3-5]
+- a.[^3-3] die erwerbstätigen Kinder bis zum 31. Dezember des Jahres, in welchem sie das 17. Altersjahr zurückgelegt haben;
+- [tab] b. und c. …[^3-4]
+- d.[^3-5] mitarbeitende Familienglieder, die keinen Barlohn beziehen, bis zum 31. Dezember des Jahres, in welchem sie das 20. Altersjahr vollendet haben.
+- e. …[^3-6]
 
 <sup>3</sup>
 
 Die eigenen Beiträge gelten als bezahlt, sofern der Ehegatte Beiträge von mindestens der doppelten Höhe des Mindestbeitrages bezahlt hat, bei:
 
 - a. nichterwerbstätigen Ehegatten von erwerbstätigen Versicherten;
-- b. Versicherten, die im Betrieb ihres Ehegatten mitarbeiten, soweit sie keinen Barlohn beziehen.[^3-6]
+- b. Versicherten, die im Betrieb ihres Ehegatten mitarbeiten, soweit sie keinen Barlohn beziehen.[^3-7]
 
 <sup>4</sup>
 
 Absatz 3 findet auch Anwendung für die Kalenderjahre, in denen:
 
 - a. die Ehe geschlossen oder aufgelöst wird;
-- b. der erwerbstätige Ehegatte eine Altersrente bezieht oder aufschiebt.[^3-7]
+- b. der erwerbstätige Ehegatte eine Altersrente bezieht oder aufschiebt.[^3-8]
 
-[^3-1]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^3-2]: Fassung gemäss Ziff. I des BG vom 21. Dez. 1956, in Kraft seit 1. Jan. 1957 ([AS 1957 262](https://fedlex.data.admin.ch/eli/oc/1957/262_264_275); [BBl 1956 I 1429](https://fedlex.data.admin.ch/eli/fga/1956/1_1429_1461_)).
-[^3-3]: Aufgehoben durch Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), mit Wirkung seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^3-4]: Fassung gemäss Ziff. I des BG vom 24. Juni 1977 (9. AHV-Revision), in Kraft seit 1. Jan. 1979 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
-[^3-5]: Aufgehoben durch Ziff. I des BG vom 30. Sept. 1953, mit Wirkung seit 1. Jan. 1954 ([AS 1954 211](https://fedlex.data.admin.ch/eli/oc/1954/211_217_102); [BBl 1953 II 81](https://fedlex.data.admin.ch/eli/fga/1953/2_81_73_449)).
-[^3-6]: Eingefügt durch Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^3-7]: Eingefügt durch Ziff. I des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^3-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^3-2]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^3-3]: Fassung gemäss Ziff. I des BG vom 21. Dez. 1956, in Kraft seit 1. Jan. 1957 ([AS 1957 262](https://fedlex.data.admin.ch/eli/oc/1957/262_264_275); [BBl 1956 I 1429](https://fedlex.data.admin.ch/eli/fga/1956/1_1429_1461_)).
+[^3-4]: Aufgehoben durch Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), mit Wirkung seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^3-5]: Fassung gemäss Ziff. I des BG vom 24. Juni 1977 (9. AHV-Revision), in Kraft seit 1. Jan. 1979 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
+[^3-6]: Aufgehoben durch Ziff. I des BG vom 30. Sept. 1953, mit Wirkung seit 1. Jan. 1954 ([AS 1954 211](https://fedlex.data.admin.ch/eli/oc/1954/211_217_102); [BBl 1953 II 81](https://fedlex.data.admin.ch/eli/fga/1953/2_81_73_449)).
+[^3-7]: Eingefügt durch Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^3-8]: Eingefügt durch Ziff. I des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 
 ### II. Die Beiträge der erwerbstätigen Versicherten
 
@@ -193,10 +197,10 @@ Absatz 3 findet auch Anwendung für die Kalenderjahre, in denen:
 Der Bundesrat kann von der Beitragsbemessung ausnehmen:
 
 - a. das Erwerbseinkommen aus einer im Ausland ausgeübten Tätigkeit;
-- b.[^4-2] das von Frauen nach Vollendung des 64., von Männern nach Vollendung des 65. Altersjahres erzielte Erwerbseinkommen bis zur Höhe des anderthalbfachen Mindestbetrages der Altersrente nach Artikel 34 Absatz 5.
+- b.[^4-2] das nach Erreichen des Referenzalters nach Artikel 21 Absatz 1 erzielte Erwerbseinkommen bis zur Höhe des anderthalbfachen Mindestbetrages der Altersrente nach Artikel 34 Absatz 5; der Bundesrat räumt den Versicherten die Möglichkeit ein, auf die Ausnahme von der Beitragsbemessung zu verzichten.
 
 [^4-1]: Fassung gemäss Ziff. I des BG vom 24. Juni 1977 (9. AHV-Revision), in Kraft seit 1. Jan. 1979 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
-[^4-2]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^4-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 5
 
@@ -211,15 +215,16 @@ Der Bundesrat kann von der Beitragsbemessung ausnehmen:
 Als massgebender Lohn für mitarbeitende Familienglieder gilt nur der Barlohn:
 
 - a. bis zum 31. Dezember des Jahres, in welchem sie das 20. Altersjahr vollendet haben; sowie
-- b. nach dem letzten Tag des Monats, in welchem Frauen das 64. und Männer das 65. Altersjahr vollendet haben.[^5-2]
+- b.[^5-2] nach dem letzten Tag des Monats, in welchem sie das Referenzalter nach Artikel 21 Absatz 1 erreicht haben.[^5-3]
 
 <sup>4</sup> Der Bundesrat kann Sozialleistungen sowie anlässlich besonderer Ereignisse erfolgende Zuwendungen eines Arbeitgebers an seine Arbeitnehmer vom Einbezug in den massgebenden Lohn ausnehmen.
 
-<sup>5</sup> …[^5-3]
+<sup>5</sup> …[^5-4]
 
 [^5-1]: Fassung gemäss Ziff. I 5 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^5-2]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^5-3]: Eingefügt durch Ziff. I des BG vom 21. Dez. 1956 ([AS 1957 262](https://fedlex.data.admin.ch/eli/oc/1957/262_264_275); [BBl 1956 I 1429](https://fedlex.data.admin.ch/eli/fga/1956/1_1429_1461_)). Aufgehoben durch Anhang Ziff. 6 des BG vom 17. Juni 2005 gegen die Schwarzarbeit, mit Wirkung seit 1. Jan. 2008 ([AS 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [BBl 2002 3605](https://fedlex.data.admin.ch/eli/fga/2002/520)).
+[^5-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^5-3]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^5-4]: Eingefügt durch Ziff. I des BG vom 21. Dez. 1956 ([AS 1957 262](https://fedlex.data.admin.ch/eli/oc/1957/262_264_275); [BBl 1956 I 1429](https://fedlex.data.admin.ch/eli/fga/1956/1_1429_1461_)). Aufgehoben durch Anhang Ziff. 6 des BG vom 17. Juni 2005 gegen die Schwarzarbeit, mit Wirkung seit 1. Jan. 2008 ([AS 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [BBl 2002 3605](https://fedlex.data.admin.ch/eli/fga/2002/520)).
 
 #### Art. 6
 
@@ -343,7 +348,7 @@ Den Mindestbeitrag bezahlen:
 
 <sup>3</sup>
 
-Vorbehalten bleiben zwischenstaatliche Vereinbarungen und völkerrechtliche Übung hinsichtlich:
+Vorbehalten bleiben internationale Abkommen und völkerrechtliche Übung hinsichtlich:
 
 - a. der Unterstellung unter die Beitragspflicht von Arbeitgebern ohne Betriebsstätte in der Schweiz;
 - b. der Befreiung von der Beitragspflicht von Arbeitgebern mit einer Betriebsstätte in der Schweiz.[^12-2]
@@ -465,11 +470,11 @@ Der Bundesrat erlässt Vorschriften über:
 
 <sup>1</sup> Anspruch auf Alters- und Hinterlassenenrenten haben Schweizer Bürger, Ausländer und Staatenlose gemäss den nachfolgenden Bestimmungen.[^18-2] …[^18-3]
 
-<sup>2</sup> Ausländer sowie ihre Hinterlassenen ohne Schweizer Bürgerrecht sind nur rentenberechtigt, solange sie ihren Wohnsitz und gewöhnlichen Aufenthalt (Art. 13 ATSG[^18-4]) in der Schweiz haben.[^18-5] Dieses Erfordernis ist von jeder Person, für die eine Rente ausgerichtet wird, einzeln zu erfüllen.[^18-6] Vorbehalten bleiben die besonderen bundesrechtlichen Vorschriften über die Rechtsstellung der Flüchtlinge und der Staatenlosen sowie abweichende zwischenstaatliche Vereinbarungen, insbesondere mit Staaten, deren Gesetzgebung den Schweizer Bürgern und ihren Hinterlassenen Vorteile bietet, die denjenigen dieses Gesetzes ungefähr gleichwertig sind.[^18-7] [^18-8]
+<sup>2</sup> Ausländer sowie ihre Hinterlassenen ohne Schweizer Bürgerrecht sind nur rentenberechtigt, solange sie ihren Wohnsitz und gewöhnlichen Aufenthalt (Art. 13 ATSG[^18-4]) in der Schweiz haben.[^18-5] Dieses Erfordernis ist von jeder Person, für die eine Rente ausgerichtet wird, einzeln zu erfüllen.[^18-6] Vorbehalten bleiben die besonderen bundesrechtlichen Vorschriften über die Rechtsstellung der Flüchtlinge und der Staatenlosen sowie abweichende internationale Abkommen, insbesondere mit Staaten, deren Gesetzgebung den Schweizer Bürgern und ihren Hinterlassenen Vorteile bietet, die denjenigen dieses Gesetzes ungefähr gleichwertig sind.[^18-7] [^18-8]
 
 <sup>2bis</sup> Bei Personen, die mehrere sich ablösende Staatsangehörigkeiten besessen haben, ist für die Rentenberechtigung die Staatsangehörigkeit während des Rentenbezugs massgebend.[^18-9]
 
-<sup>3</sup> Den Ausländern, die ihren Wohnsitz im Ausland haben und mit deren Heimatstaat keine zwischenstaatliche Vereinbarung besteht, sowie ihren Hinterlassenen können die gemäss den Artikeln 5, 6, 8, 10 oder 13 bezahlten Beiträge rückvergütet werden. Der Bundesrat regelt die Einzelheiten, insbesondere das Ausmass der Rückvergütung.[^18-10] [^18-11]
+<sup>3</sup> Den Ausländern, die ihren Wohnsitz im Ausland haben und mit deren Heimatstaat kein internationales Abkommen besteht, sowie ihren Hinterlassenen können die gemäss den Artikeln 5, 6, 8, 10 oder 13 bezahlten Beiträge rückvergütet werden. Der Bundesrat regelt die Einzelheiten, insbesondere das Ausmass der Rückvergütung.[^18-10] [^18-11]
 
 [^18-1]: Fassung gemäss Ziff. II des BG vom 19. Dez. 1963, in Kraft seit 1. Jan. 1964 ([AS 1964 285](https://fedlex.data.admin.ch/eli/oc/1964/285_277_277); [BBl 1963 II 517](https://fedlex.data.admin.ch/eli/fga/1963/2_517_497_1209)).
 [^18-2]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
@@ -499,7 +504,7 @@ Der Bundesrat erlässt Vorschriften über:
 
 Mit fälligen Leistungen können verrechnet werden:
 
-- a. die Forderungen aufgrund dieses Gesetzes, des IVG[^20-4], des Bundesgesetzes vom 25. September 1952[^20-5] über die Erwerbsersatzordnung für Dienstleistende in Armee und Zivilschutz und des Bundesgesetzes vom 20. Juni 1952[^20-6] über die Familienzulagen in der Landwirtschaft;
+- a. die Forderungen aufgrund dieses Gesetzes, des IVG[^20-4], des Erwerbsersatzgesetzes vom 25. September 1952[^20-5] und des Bundesgesetzes vom 20. Juni 1952[^20-6] über die Familienzulagen in der Landwirtschaft;
 - b. Rückforderungen von Ergänzungsleistungen zur Alters‑, Hinterlassenen- und Invalidenversicherung;
 - c. die Rückforderung von Renten und Taggeldern der obligatorischen Unfallversicherung, der Militärversicherung, der Arbeitslosenversicherung und der Krankenversicherung.[^20-7]
 
@@ -507,7 +512,7 @@ Mit fälligen Leistungen können verrechnet werden:
 [^20-2]: Fassung gemäss Anhang Ziff. 7 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^20-3]: Fassung gemäss Anhang Ziff. 7 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^20-4]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^20-5]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)**.** Heute: BG über den Erwerbsersatz für Dienstleistende und bei Mutterschaft.
+[^20-5]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
 [^20-6]: [SR 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
 [^20-7]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 
@@ -515,19 +520,13 @@ Mit fälligen Leistungen können verrechnet werden:
 
 #### Art. 21
 
-**Altersrente[^21-2]**[^21-1]
+**Referenzalter und Altersrente**[^21-1]
 
-<sup>1</sup>
+<sup>1</sup> Personen, die das 65. Altersjahr vollendet haben (Referenzalter), haben Anspruch auf eine Altersrente ohne Abzüge und Zuschläge.
 
-Anspruch auf eine Altersrente haben:
+<sup>2</sup> Der Anspruch entsteht am ersten Tag des Monats, welcher dem Erreichen des Referenzalters folgt. Er erlischt mit dem Tod.
 
-- a. Männer, welche das 65. Altersjahr vollendet haben;
-- b. Frauen, welche das 64. Altersjahr vollendet haben.
-
-<sup>2</sup> Der Anspruch auf die Altersrente entsteht am ersten Tag des Monats, welcher der Vollendung des gemäss Absatz 1 massgebenden Altersjahres folgt. Er erlischt mit dem Tod.
-
-[^21-1]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^21-2]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG – [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^21-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 22
 
@@ -692,12 +691,31 @@ Die ordentlichen Renten werden ausgerichtet als:
 
 **Allgemeine Bestimmungen für die Rentenberechnung**[^29bis-1]
 
-<sup>1</sup> Für die Rentenberechnung werden Beitragsjahre, Erwerbseinkommen sowie Erziehungs- oder Betreuungsgutschriften der rentenberechtigten Person zwischen dem 1. Januar nach Vollendung des 20. Altersjahres und dem 31. Dezember vor Eintritt des Versicherungsfalles (Rentenalter oder Tod) berücksichtigt.
+<sup>1</sup> Die Rente wird bei Erreichen des Referenzalters berechnet.
 
-<sup>2</sup> Der Bundesrat regelt die Anrechnung der Beitragsmonate im Jahr der Entstehung des Rentenanspruchs, der Beitragszeiten vor dem 1. Januar nach Vollendung des 20. Altersjahres sowie der Zusatzjahre.[^29bis-2]
+<sup>2</sup> Für die Rentenberechnung werden Beitragsjahre, Erwerbseinkommen sowie Erziehungs- oder Betreuungsgutschriften der rentenberechtigten Person zwischen dem 1. Januar nach Vollendung des 20. Altersjahres und dem 31. Dezember vor Eintritt des Versicherungsfalles (Referenzalter oder Tod) berücksichtigt.
 
-[^29bis-1]: Eingefügt durch Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^29bis-2]: Siehe auch die SchlB Änd. 7. Okt. 1994 am Ende dieses Textes.
+<sup>3</sup> Hat die rentenberechtigte Person nach Erreichen des Referenzalters AHV-Beiträge entrichtet, so kann sie einmal eine neue Berechnung ihrer Rente verlangen. Bei der Neuberechnung werden die Erwerbseinkommen berücksichtigt, welche die rentenberechtigte Person während der zusätzlichen Beitragsdauer erzielt und auf denen sie Beiträge entrichtet hat. Nach Erreichen des Referenzalters entrichtete Beiträge begründen keinen Anspruch auf eine Rente.
+
+<sup>4</sup>
+
+Beitragslücken können geschlossen werden mit den Beiträgen, die die rentenberechtigte Person zwischen dem Erreichen des Referenzalters und fünf Jahre danach einzahlt, wenn sie in dieser Zeit:
+
+- a. ein Einkommen erzielt, das mindestens 40 Prozent des ungeteilten Erwerbseinkommens entspricht, das in der Periode nach Absatz 2 durchschnittlich erzielt wurde; und
+- b. Beiträge aus diesem Einkommen einzahlt, die dem jährlichen Mindestbeitrag entsprechen.
+
+<sup>5</sup>
+
+Der Bundesrat regelt die Anrechnung:
+
+- a. der Beitragsmonate im Jahr der Entstehung des Rentenanspruchs;
+- b. der Beitragszeiten vor dem 1. Januar nach Vollendung des 20. Altersjahres;
+- c. der Zusatzjahre; und
+- d. der nach dem Referenzalter zurückgelegten Beitragszeiten.
+
+<sup>6</sup> Er regelt zudem, wann der Anspruch auf die neu berechnete Rente nach Absatz 3 beginnt.
+
+[^29bis-1]: Eingefügt durch Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision) ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)). Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 
 #### Art. 29<sup>ter</sup>
 
@@ -739,26 +757,32 @@ Die Rente wird nach Massgabe des durchschnittlichen Jahreseinkommens berechnet. 
 
 Einkommen, welche die Ehegatten während der Kalenderjahre der gemeinsamen Ehe erzielt haben, werden geteilt und je zur Hälfte den beiden Ehegatten angerechnet. Die Einkommensteilung wird vorgenommen:
 
-- a. wenn beide Ehegatten rentenberechtigt sind;
-- b. wenn eine verwitwete Person Anspruch auf eine Altersrente hat;
-- c. bei Auflösung der Ehe durch Scheidung.[^29quinquies-2]
+- a.[^29quinquies-2] wenn beide Ehegatten das Referenzalter erreicht haben;
+- b.[^29quinquies-3] wenn eine verwitwete Person das Referenzalter erreicht;
+- c. bei Auflösung der Ehe durch Scheidung;
+- d.[^29quinquies-4] wenn beide Ehegatten Anspruch auf eine Rente der Invalidenversicherung haben; oder
+- e.[^29quinquies-5] wenn ein Ehegatte einen Anspruch auf eine Rente der Invalidenversicherung hat und der andere Ehegatte das Referenzalter erreicht.
 
 <sup>4</sup>
 
 Der Teilung und der gegenseitigen Anrechnung unterliegen jedoch nur Einkommen:
 
-- a. aus der Zeit zwischen dem 1. Januar nach Vollendung des 20. Altersjahres und dem 31. Dezember vor Eintritt des Versicherungsfalles beim Ehegatten, welcher zuerst rentenberechtigt wird; und
-- b.[^29quinquies-3] aus Zeiten, in denen beide Ehegatten in der schweizerischen Alters- und Hinterlassenenversicherung versichert gewesen sind.
+- a.[^29quinquies-6] aus der Zeit zwischen dem 1. Januar nach Vollendung des 20. Altersjahres und dem 31. Dezember vor Eintritt des Versicherungsfalles beim Ehegatten, welcher zuerst rentenberechtigt wird, mit Ausnahme der vorbezogenen Rente (Art. 40); und
+- b.[^29quinquies-7] aus Zeiten, in denen beide Ehegatten in der schweizerischen Alters- und Hinterlassenenversicherung versichert gewesen sind.
 
-<sup>5</sup> Absatz 4 ist nicht anwendbar für das Kalenderjahr, in dem die Ehe geschlossen oder aufgelöst wird.[^29quinquies-4]
+<sup>5</sup> Absatz 4 ist nicht anwendbar für das Kalenderjahr, in dem die Ehe geschlossen oder aufgelöst wird.[^29quinquies-8]
 
-<sup>6</sup> Der Bundesrat regelt das Verfahren. Er bestimmt insbesondere, welche Ausgleichskasse die Einkommensteilung vorzunehmen hat.[^29quinquies-5]
+<sup>6</sup> Der Bundesrat regelt das Verfahren. Er bestimmt insbesondere, welche Ausgleichskasse die Einkommensteilung vorzunehmen hat.[^29quinquies-9]
 
-[^29quinquies-1]: Eingefügt durch Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^29quinquies-2]: Siehe auch die SchlB Änd. 7. Okt. 1994 am Ende dieses Textes.
-[^29quinquies-3]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^29quinquies-4]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^29quinquies-5]: Eingefügt durch Ziff. I des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^29quinquies-1]: Eingefügt durch Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^29quinquies-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^29quinquies-3]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^29quinquies-4]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^29quinquies-5]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^29quinquies-6]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^29quinquies-7]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^29quinquies-8]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^29quinquies-9]: Eingefügt durch Ziff. I des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 
 #### Art. 29<sup>sexies</sup>
 
@@ -775,12 +799,13 @@ Versicherten wird für diejenigen Jahre eine Erziehungsgutschrift angerechnet, i
 
 <sup>2</sup> Die Erziehungsgutschrift entspricht dem Betrag der dreifachen minimalen jährlichen Altersrente gemäss Artikel 34 im Zeitpunkt der Entstehung des Rentenanspruchs.
 
-<sup>3</sup> Bei verheirateten Personen wird die Erziehungsgutschrift während der Kalenderjahre der Ehe hälftig aufgeteilt. Der Teilung unterliegen aber nur die Gutschriften für die Zeit zwischen dem 1. Januar nach Vollendung des 20. Altersjahres und dem 31. Dezember vor Eintritt des Versicherungsfalles beim Ehegatten, welcher zuerst rentenberechtigt wird.
+<sup>3</sup> Bei verheirateten Personen wird die Erziehungsgutschrift während der Kalenderjahre der Ehe hälftig aufgeteilt. Der Teilung unterliegen aber nur die Gutschriften für die Zeit zwischen dem 1. Januar nach Vollendung des 20. Altersjahres und dem 31. Dezember vor dem Tag, an dem der erste Ehegatte das Referenzalter erreicht.[^29sexies-5]
 
 [^29sexies-1]: Eingefügt durch Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 [^29sexies-2]: Fassung gemäss Anhang Ziff. 5 des BG vom 26. Juni 1998, in Kraft seit 1. Jan. 2000 ([AS 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)1144; [BBl 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 [^29sexies-3]: Fassung gemäss Anhang Ziff. 5 des BG vom 26. Juni 1998, in Kraft seit 1. Jan. 2000 ([AS 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)1144; [BBl 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 [^29sexies-4]: Eingefügt durch Anhang Ziff. 5 des BG vom 26. Juni 1998, in Kraft seit 1. Jan. 2000 ([AS 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)1144; [BBl 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
+[^29sexies-5]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 29<sup>septies</sup>
 
@@ -802,11 +827,12 @@ Der Bundesrat kann das Erfordernis der leichten Erreichbarkeit nach Absatz 1 nä
 
 <sup>5</sup> Wird der Anspruch auf Betreuungsgutschrift nicht innert fünf Jahren nach Ablauf des Kalenderjahres angemeldet, in welchem eine Person betreut wurde, so wird die Gutschrift für das betreffende Jahr nicht mehr im individuellen Konto vermerkt.
 
-<sup>6</sup> Bei verheirateten Personen wird die Betreuungsgutschrift während der Kalenderjahre der Ehe hälftig aufgeteilt. Der Teilung unterliegen aber nur die Gutschriften für die Zeit zwischen dem 1. Januar nach Vollendung des 20. Altersjahres und dem 31. Dezember vor Eintritt des Versicherungsfalles beim Ehegatten, welcher zuerst rentenberechtigt wird.
+<sup>6</sup> Bei verheirateten Personen wird die Betreuungsgutschrift während der Kalenderjahre der Ehe hälftig aufgeteilt. Der Teilung unterliegen aber nur die Gutschriften für die Zeit zwischen dem 1. Januar nach Vollendung des 20. Altersjahres und dem 31. Dezember vor dem Tag, an dem der erste Ehegatte das Referenzalter erreicht.[^29septies-4]
 
 [^29septies-1]: Eingefügt durch Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 [^29septies-2]: Fassung gemäss Ziff. I 3 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^29septies-3]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^29septies-4]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 30
 
@@ -958,14 +984,16 @@ Es gelten folgende Bestimmungen:
 
 Die Summe der beiden Renten eines Ehepaares beträgt maximal 150 Prozent des Höchstbetrages der Altersrente, wenn:
 
-- a. beide Ehegatten Anspruch auf eine Altersrente haben;
-- b. ein Ehegatte Anspruch auf eine Altersrente und der andere Anspruch auf eine Rente der Invalidenversicherung hat.
+- a. beide Ehegatten Anspruch auf eine Altersrente oder einen Teil davon haben;
+- b. ein Ehegatte Anspruch auf eine Altersrente oder einen Teil davon und der andere Anspruch auf eine Rente der Invalidenversicherung hat.[^35-2]
 
 <sup>2</sup> Die Kürzung entfällt bei Ehepaaren, deren gemeinsamer Haushalt richterlich aufgehoben wurde.
 
-<sup>3</sup> Die beiden Renten sind im Verhältnis ihrer Anteile an der Summe der ungekürzten Renten zu kürzen. Der Bundesrat regelt die Einzelheiten, insbesondere die Kürzung der beiden Renten bei Versicherten mit unvollständiger Beitragsdauer.
+<sup>3</sup> Die beiden Renten sind im Verhältnis ihrer Anteile an der Summe der ungekürzten Renten zu kürzen. Der Bundesrat regelt die Einzelheiten, insbesondere die Kürzung der beiden Renten bei Versicherten mit unvollständiger Beitragsdauer sowie bei Bezug lediglich eines Teils der Rente.[^35-3]
 
 [^35-1]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^35-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^35-3]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 35<sup>bis</sup>
 
@@ -980,9 +1008,12 @@ Verwitwete Bezügerinnen und Bezüger von Altersrenten haben Anspruch auf einen 
 
 **4. Kinderrente**[^35ter-1]
 
-Die Kinderrente beträgt 40 Prozent der dem massgebenden durchschnittlichen Jahreseinkommen entsprechenden Altersrente. Haben beide Elternteile einen Anspruch auf Kinderrente, so sind die beiden Kinderrenten zu kürzen, soweit ihre Summe 60 Prozent der maximalen Altersrente übersteigt. Für die Durchführung der Kürzung ist Artikel 35 sinngemäss anwendbar.
+<sup>1</sup> Die Kinderrente beträgt 40 Prozent der dem massgebenden durchschnittlichen Jahreseinkommen entsprechenden Altersrente. Haben beide Elternteile einen Anspruch auf Kinderrente, so sind die beiden Kinderrenten zu kürzen, soweit ihre Summe 60 Prozent der maximalen Altersrente übersteigt. Für die Durchführung der Kürzung ist Artikel 35 sinngemäss anwendbar.
+
+<sup>2</sup> Wird ein Teil der Altersrente nach Artikel 39 Absatz 1 aufgeschoben, so wird die Kinderrente im gleichen prozentualen Umfang aufgeschoben.[^35ter-2]
 
 [^35ter-1]: Eingefügt durch Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^35ter-2]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 36
 
@@ -1028,38 +1059,55 @@ Sind für das gleiche Kind sowohl die Voraussetzungen für eine Waisenrente als 
 [^38-2]: Fassung gemäss Ziff. I des BG vom 30. Juni 1972, in Kraft seit 1. Jan. 1973 ([AS 1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [BBl 1971 II 1057](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)).
 [^38-3]: Eingefügt durch Ziff. I des BG vom 30. Juni 1972 ([AS 1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [BBl 1971 II 1057](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)). Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 
-### IV. Das flexible Rentenalter
+### IV. Flexibler Rentenbezug
 
 [^part1-chap3-lvlB-lvlIV-1]
 
-[^part1-chap3-lvlB-lvlIV-1]: Aufgehoben durch Ziff. I des BG vom 21. Dez. 1956 ([AS 1957 262](https://fedlex.data.admin.ch/eli/oc/1957/262_264_275); [BBl 1956 I 1429](https://fedlex.data.admin.ch/eli/fga/1956/1_1429_1461_)). Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^part1-chap3-lvlB-lvlIV-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 
 #### Art. 39
 
-**Möglichkeit und Wirkung des Aufschubs**[^39-1]
+**Aufschub des Bezugs der Altersrente**
 
-<sup>1</sup> Personen, die Anspruch auf eine ordentliche Altersrente haben, können den Beginn des Rentenbezuges mindestens ein Jahr und höchstens fünf Jahre aufschieben und innerhalb dieser Frist die Rente von einem bestimmten Monat an abrufen.[^39-2]
+<sup>1</sup> Personen, die Anspruch auf eine Altersrente haben, können den Beginn des Bezugs der ganzen Rente oder eines Anteils zwischen 20 und 80 Prozent davon um mindestens ein Jahr, höchstens aber um fünf Jahre aufschieben. Innerhalb dieser Frist können sie die Rente jederzeit auf den Anfang des Folgemonats abrufen.
 
-<sup>2</sup> Die aufgeschobene Altersrente und die sie allenfalls ablösende Hinterlassenenrente wird um den versicherungstechnischen Gegenwert der nicht bezogenen Leistung erhöht.[^39-3]
+<sup>2</sup> Personen, die den Bezug eines Anteils der Rente aufgeschoben haben, können einmal die Senkung des Anteils verlangen. Die Erhöhung des aufgeschobenen Anteils ist ausgeschlossen.
 
-<sup>3</sup> Der Bundesrat setzt die Erhöhungsfaktoren für Männer und Frauen einheitlich fest und ordnet das Verfahren. Er kann einzelne Rentenarten vom Aufschub ausschliessen.
+<sup>3</sup> Die aufgeschobene Altersrente beziehungsweise der Anteil davon wird um den versicherungsmathematischen Gegenwert der aufgeschobenen Leistungen erhöht.
 
-[^39-1]: Aufgehoben durch Ziff. I des BG vom 21. Dez. 1956 ([AS 1957 262](https://fedlex.data.admin.ch/eli/oc/1957/262_264_275); [BBl 1956 I 1429](https://fedlex.data.admin.ch/eli/fga/1956/1_1429_1461_)). Fassung gemäss Ziff. I des BG vom 4. Okt. 1968, in Kraft seit Jan. 1969 ([AS 1969 111](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [BBl 1968 I 602](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
-[^39-2]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^39-3]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+<sup>4</sup> Der Bundesrat setzt die Erhöhungsfaktoren einheitlich fest und ordnet das Verfahren. Er kann einzelne Rentenarten vom Aufschub ausschliessen. Er überprüft die Erhöhungsfaktoren mindestens alle zehn Jahre.
 
 #### Art. 40
 
-**Möglichkeit und Wirkung des Vorbezuges**[^40-1]
+**Vorbezug der Altersrente**
 
-<sup>1</sup> Männer und Frauen, welche die Voraussetzungen für den Anspruch auf eine ordentliche Altersrente erfüllen, können die Rente ein oder zwei Jahre vorbeziehen. Der Rentenanspruch entsteht in diesen Fällen für Männer am ersten Tag des Monats nach Vollendung des 64. oder 63. Altersjahres, für Frauen am ersten Tag des Monats nach Vollendung des 63. oder 62. Altersjahres. Während der Dauer des Rentenvorbezuges werden keine Kinderrenten ausgerichtet.
+<sup>1</sup> Personen, welche die Voraussetzungen für den Anspruch auf eine Altersrente erfüllen, können ab dem vollendeten 63. Altersjahr die ganze Rente oder einen Anteil zwischen 20 und 80 Prozent davon vorbeziehen. Sie können den Vorbezug der Rente jederzeit auf den Anfang des Folgemonats beantragen. Der Vorbezug gilt nur für zukünftige Leistungen. Der Bundesrat regelt die Einzelheiten, insbesondere den möglichen Widerruf der vorbezogenen Altersrente im Falle einer nachträglich zugesprochenen Invalidenrente.
 
-<sup>2</sup> Die vorbezogene Altersrente sowie die Witwen‑, Witwer- und Waisenrente werden gekürzt.
+<sup>2</sup> Personen, die einen Anteil der Rente vorbezogen haben, können einmal die Erhöhung des Anteils verlangen. Die Erhöhung gilt nur für zukünftige Leistungen. Sie kann nicht widerrufen werden.
 
-<sup>3</sup> Der Bundesrat legt den Kürzungssatz nach versicherungstechnischen Grundsätzen fest.[^40-2]
+<sup>3</sup> Während der Dauer des Rentenvorbezugs werden keine Kinderrenten ausgerichtet.
 
-[^40-1]: Aufgehoben durch Ziff. I des BG vom 30. Juni 1972 ([AS 1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [BBl 1971 II 1057](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)). Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^40-2]: Siehe auch die SchlB Änd. 7. Okt. 1994 am Ende dieses Textes.
+<sup>4</sup> In Abweichung von Artikel 29<sup>ter</sup> Absatz 1 ist bei einem Rentenvorbezug die Beitragsdauer nicht vollständig. Die vorbezogene Rente beruht auf der Anzahl Beitragsjahre bei Beginn des Rentenvorbezugs und entspricht einer Teilrente mit unvollständiger Beitragsdauer.
+
+<sup>5</sup> Die vorbezogene Rente wird berechnet anhand der Beitragsjahre, der Erwerbseinkommen sowie der Erziehungs- oder Betreuungsgutschriften der rentenberechtigten Person zwischen dem 1. Januar nach Vollendung des 20. Altersjahres und dem 31. Dezember vor dem Vorbezug der ganzen oder eines Teils der Rente. Die Rente wird bei Erreichen des Referenzalters nach Artikel 29<sup>bis</sup> Absätze 1 und 2 neu berechnet.
+
+#### Art. 40a
+
+**Kürzung bei Vorbezug der Altersrente**
+
+<sup>1</sup> Die vorbezogene Altersrente wird um den versicherungsmathematischen Gegenwert der vorbezogenen Leistung gekürzt.
+
+<sup>2</sup> Der Bundesrat legt die Kürzungssätze nach versicherungsmathematischen Grund-sätzen einheitlich fest und ordnet das Verfahren. Er überprüft die Kürzungssätze mindestens alle zehn Jahre.
+
+<sup>3</sup> Ist das massgebende durchschnittliche Jahreseinkommen tiefer als oder gleich hoch wie der Betrag der vierfachen minimalen jährlichen Altersrente nach Artikel 34, so werden die Kürzungssätze um 40 Prozent reduziert.
+
+#### Art. 40b
+
+**Kombination von Vorbezug und Aufschub der Altersrente**
+
+<sup>1</sup> Personen, die einen Teil ihrer Altersrente vorbezogen haben, können den restlichen Teil ihrer Rente bis längstens fünf Jahre nach Erreichen des Referenzalters aufschieben.
+
+<sup>2</sup> Der aufgeschobene Teil der Rente kann nicht gesenkt werden, wenn der vorbezogene Teil während der Vorbezugsdauer bereits einmal erhöht worden ist.
 
 ### V. Die Kürzung der ordentlichen Renten
 
@@ -1096,7 +1144,7 @@ Sind für das gleiche Kind sowohl die Voraussetzungen für eine Waisenrente als 
 
 <sup>2</sup> Das Erfordernis des Wohnsitzes und des gewöhnlichen Aufenthalts ist von jedem Versicherten, für den eine Rente ausgerichtet wird, einzeln zu erfüllen.
 
-<sup>3</sup> Der Ehegatte, der mit einem obligatorisch versicherten Schweizer Bürger verheiratet ist und im Ausland lebt, aber gemäss zwischenstaatlicher Vereinbarung oder völkerrechtlicher Übung der Alters‑, Hinterlassenen- und Invalidenversicherung seines Wohnsitzstaates nicht angehört, ist dem in der Schweiz wohnhaften Ehegatten von Schweizer Bürgern gleichgestellt.
+<sup>3</sup> Der Ehegatte, der mit einem obligatorisch versicherten Schweizer Bürger verheiratet ist und im Ausland lebt, aber gemäss internationalem Abkommen oder völkerrechtlicher Übung der Alters‑, Hinterlassenen- und Invalidenversicherung seines Wohnsitzstaates nicht angehört, ist dem in der Schweiz wohnhaften Ehegatten von Schweizer Bürgern gleichgestellt.
 
 [^42-1]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 [^42-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
@@ -1115,7 +1163,7 @@ Sind für das gleiche Kind sowohl die Voraussetzungen für eine Waisenrente als 
 [^43-1]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 [^43-2]: Aufgehoben durch Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision) ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 [^43-3]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^43-4]: Aufgehoben durch Ziff. I des BG vom 21. Dez. 1956 ([AS 1957 262](https://fedlex.data.admin.ch/eli/oc/1957/262_264_275); [BBl 1956 I 1429](https://fedlex.data.admin.ch/eli/fga/1956/1_1429_1461_)). Fassung gemäss Anhang Ziff. 7 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^43-4]: Fassung gemäss Anhang Ziff. 7 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 
 ### D. Die Hilflosenentschädigung, der Assistenzbeitrag und die Hilfsmittel
 
@@ -1127,41 +1175,40 @@ Sind für das gleiche Kind sowohl die Voraussetzungen für eine Waisenrente als 
 
 **Hilflosenentschädigung[^43bis-2]**[^43bis-1]
 
-<sup>1</sup> Anspruch auf eine Hilflosenentschädigung haben Bezüger von Altersrenten oder Ergänzungsleistungen mit Wohnsitz und gewöhnlichem Aufenthalt (Art. 13 ATSG[^43bis-3]) in der Schweiz, die in schwerem, mittlerem oder leichtem Grad hilflos (Art. 9 ATSG) sind.[^43bis-4] Dem Bezug einer Altersrente ist der Rentenvorbezug gleichgestellt.[^43bis-5]
+<sup>1</sup> Anspruch auf eine Hilflosenentschädigung haben Personen, die ihre ganze Altersrente beziehen, oder Bezüger von Ergänzungsleistungen mit Wohnsitz und gewöhnlichem Aufenthalt (Art. 13 ATSG[^43bis-3]) in der Schweiz, die in schwerem, mittlerem oder leichtem Grad hilflos (Art. 9 ATSG) sind.[^43bis-4]
 
-<sup>1bis</sup> Der Anspruch auf die Entschädigung für eine Hilflosigkeit leichten Grades entfällt bei einem Aufenthalt im Heim.[^43bis-6]
+<sup>1bis</sup> Der Anspruch auf die Entschädigung für eine Hilflosigkeit leichten Grades entfällt bei einem Aufenthalt im Heim.[^43bis-5]
 
-<sup>2</sup> Der Anspruch auf eine Hilflosenentschädigung entsteht am ersten Tag des Monats, in dem sämtliche Voraussetzungen erfüllt sind und die Hilflosigkeit schweren, mittleren oder leichten Grades ununterbrochen während mindestens eines Jahres bestanden hat. Er erlischt am Ende des Monats, in dem die Voraussetzungen nach Absatz 1 nicht mehr gegeben sind.[^43bis-7]
+<sup>2</sup> Der Anspruch auf eine Hilflosenentschädigung entsteht am ersten Tag des Monats, in dem sämtliche Voraussetzungen erfüllt sind und die Hilflosigkeit schweren, mittleren oder leichten Grades ununterbrochen während mindestens sechs Monaten bestanden hat. Er erlischt am Ende des Monats, in dem die Voraussetzungen nach Absatz 1 nicht mehr gegeben sind.[^43bis-6]
 
-<sup>3</sup> Die monatliche Entschädigung für eine Hilflosigkeit schweren Grades beträgt 80 Prozent, für eine Hilflosigkeit mittleren Grades 50 Prozent und für eine Hilflosigkeit leichten Grades 20 Prozent des Mindestbetrages der Altersrente nach Artikel 34 Absatz 5.[^43bis-8]
+<sup>3</sup> Die monatliche Entschädigung für eine Hilflosigkeit schweren Grades beträgt 80 Prozent, für eine Hilflosigkeit mittleren Grades 50 Prozent und für eine Hilflosigkeit leichten Grades 20 Prozent des Mindestbetrages der Altersrente nach Artikel 34 Absatz 5.[^43bis-7]
 
-<sup>4</sup> Hat eine hilflose Person bis zum Erreichen des Rentenalters oder dem Rentenvorbezug eine Hilflosenentschädigung der Invalidenversicherung bezogen, so wird ihr die Entschädigung mindestens im bisherigen Betrag weitergewährt.[^43bis-9]
+<sup>4</sup> Hat eine hilflose Person am Ende des Monats, in dem sie das Referenzalter erreicht, oder bis zum Zeitpunkt, ab dem sie eine ganze Rente vorbezieht, eine Hilflosenentschädigung der Invalidenversicherung bezogen, so wird ihr die Entschädigung mindestens im bisherigen Betrag weiter gewährt.[^43bis-8]
 
-<sup>4bis</sup> Der Bundesrat kann eine anteilmässige Leistung an die Hilflosenentschädigung der Unfallversicherung vorsehen, falls die Hilflosigkeit nur zum Teil auf einen Unfall zurückzuführen ist.[^43bis-10]
+<sup>4bis</sup> Der Bundesrat kann eine anteilmässige Leistung an die Hilflosenentschädigung der Unfallversicherung vorsehen, falls die Hilflosigkeit nur zum Teil auf einen Unfall zurückzuführen ist.[^43bis-9]
 
-<sup>5</sup> Für die Bemessung der Hilflosigkeit sind die Bestimmungen des IVG[^43bis-11] sinngemäss anwendbar.[^43bis-12] Die Bemessung der Hilflosigkeit zuhanden der Ausgleichskassen obliegt den Invalidenversicherungs-Stellen[^43bis-13]. Der Bundesrat kann ergänzende Vorschriften erlassen.
+<sup>5</sup> Für die Bemessung der Hilflosigkeit sind die Bestimmungen des IVG[^43bis-10] sinngemäss anwendbar.[^43bis-11] Die Bemessung der Hilflosigkeit zuhanden der Ausgleichskassen obliegt den Invalidenversicherungs-Stellen[^43bis-12]. Der Bundesrat kann ergänzende Vorschriften erlassen.
 
 [^43bis-1]: Eingefügt durch Ziff. I des BG vom 22. Dez. 1955 ([AS 1956 651](https://fedlex.data.admin.ch/eli/oc/1956/651_703_707); [BBl 1955 II 1088](https://fedlex.data.admin.ch/eli/fga/1955/2_1088_1141_871)). Fassung gemäss Ziff. I des BG vom 4. Okt. 1968, in Kraft seit 1. Jan. 1969 ([AS 1969 111](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [BBl 1968 I 602](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
 [^43bis-2]: Fassung gemäss Ziff. I des BG vom 24. Juni 1977 (9. AHV-Revision), in Kraft seit 1. Jan. 1979 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 [^43bis-3]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^43bis-4]: Fassung gemäss Ziff. I 1 des BG vom 13. Juni 2008 über die Neuordnung der Pflegefinanzierung, in Kraft seit 1. Jan. 2011 ([AS 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)Ziff. I; [BBl 2005 2033](https://fedlex.data.admin.ch/eli/fga/2005/237)).
-[^43bis-5]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^43bis-6]: Eingefügt durch Ziff. I 1 des BG vom 13. Juni 2008 über die Neuordnung der Pflegefinanzierung, in Kraft seit 1. Jan. 2011 ([AS 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)Ziff. I; [BBl 2005 2033](https://fedlex.data.admin.ch/eli/fga/2005/237)).
+[^43bis-4]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^43bis-5]: Eingefügt durch Ziff. I 1 des BG vom 13. Juni 2008 über die Neuordnung der Pflegefinanzierung, in Kraft seit 1. Jan. 2011 ([AS 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)Ziff. I; [BBl 2005 2033](https://fedlex.data.admin.ch/eli/fga/2005/237)).
+[^43bis-6]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^43bis-7]: Fassung gemäss Ziff. I 1 des BG vom 13. Juni 2008 über die Neuordnung der Pflegefinanzierung, in Kraft seit 1. Jan. 2011 ([AS 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)Ziff. I; [BBl 2005 2033](https://fedlex.data.admin.ch/eli/fga/2005/237)).
-[^43bis-8]: Fassung gemäss Ziff. I 1 des BG vom 13. Juni 2008 über die Neuordnung der Pflegefinanzierung, in Kraft seit 1. Jan. 2011 ([AS 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)Ziff. I; [BBl 2005 2033](https://fedlex.data.admin.ch/eli/fga/2005/237)).
-[^43bis-9]: Fassung gemäss Anhang Ziff. 3 des BG vom 21. März 2003 (4. IV-Revision), in Kraft seit 1. Jan. 2004 ([AS 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [BBl 2001 3205](https://fedlex.data.admin.ch/eli/fga/2001/617)).
-[^43bis-10]: Eingefügt durch Ziff. 2 des Anhangs zum BG vom 20. März 1981 über die Unfallversicherung, in Kraft seit 1. Jan. 1984 ([AS 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)Art. 1 Abs. 1; [BBl 1976 III 141](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
-[^43bis-11]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^43bis-12]: Fassung gemäss Anhang Ziff. 7 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^43bis-13]: Ausdruck gemäss Ziff. II des BG vom 22. März 1991 (3. IV-Revision), in Kraft seit 1. Jan. 1992 ([AS 1991 2377](https://fedlex.data.admin.ch/eli/oc/1991/2377_2377_2377); [BBl 1988 II 1333](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
+[^43bis-8]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^43bis-9]: Eingefügt durch Ziff. 2 des Anhangs zum BG vom 20. März 1981 über die Unfallversicherung, in Kraft seit 1. Jan. 1984 ([AS 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)Art. 1 Abs. 1; [BBl 1976 III 141](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
+[^43bis-10]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^43bis-11]: Fassung gemäss Anhang Ziff. 7 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^43bis-12]: Ausdruck gemäss Ziff. II des BG vom 22. März 1991 (3. IV-Revision), in Kraft seit 1. Jan. 1992 ([AS 1991 2377](https://fedlex.data.admin.ch/eli/oc/1991/2377_2377_2377); [BBl 1988 II 1333](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 
 #### Art. 43<sup>ter</sup>
 
 **Assistenzbeitrag**[^43ter-1]
 
-Hat eine Person bis zum Erreichen des Rentenalters oder bis zum Rentenvorbezug einen Assistenzbeitrag der Invalidenversicherung bezogen, so wird ihr der Assistenzbeitrag höchstens im bisherigen Umfang weitergewährt. Für den Anspruch und den Umfang gelten die Artikel 42<sup>quater</sup>–42<sup>octies</sup> IVG[^43ter-2] sinngemäss.
+Hat eine Person am Ende des Monats, in dem sie das Referenzalter erreicht, oder bis zum Zeitpunkt, ab dem sie eine ganze Rente vorbezieht, einen Assistenzbeitrag der Invalidenversicherung bezogen, so wird ihr der Assistenzbeitrag höchstens im bisherigen Umfang weiter gewährt. Für den Anspruch und den Umfang gelten die Artikel 42<sup>quater</sup>–42<sup>octies</sup> IVG[^43ter-2] sinngemäss.
 
-[^43ter-1]: Eingefügt durch Anhang Ziff. 4 des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmepaket), in Kraft seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
+[^43ter-1]: Eingefügt durch Anhang Ziff. 4 des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmepaket ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)). Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^43ter-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 
 #### Art. 43<sup>quater</sup>
@@ -1200,10 +1247,11 @@ Der Bundesrat lässt periodisch prüfen und durch die Eidgenössische Kommission
 
 <sup>1</sup> Die Renten und Hilflosenentschädigungen werden in der Regel auf ein Bank- oder Postkonto überwiesen. Auf Antrag des Bezügers können sie ihm direkt ausbezahlt werden. Der Bundesrat regelt das Verfahren.
 
-<sup>2</sup> Teilrenten, deren Betrag 10 Prozent der minimalen Vollrente nicht übersteigen, werden in Abweichung von Artikel 19 Absätze 1 und 3 ATSG[^44-2] einmal jährlich nachschüssig im Dezember ausbezahlt. Der Berechtigte kann die monatliche Auszahlung verlangen.
+<sup>2</sup> Renten, deren Betrag 20 Prozent der minimalen Vollrente nicht übersteigen, werden in Abweichung von Artikel 19 Absätze 1 und 3 ATSG[^44-2] einmal jährlich ausbezahlt. Die berechtigte Person kann die monatliche Auszahlung verlangen.[^44-3]
 
 [^44-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^44-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^44-3]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 45
 
@@ -1250,27 +1298,102 @@ Der Bundesrat lässt periodisch prüfen und durch die Eidgenössische Kommission
 
 **Grundsatz**[^49-1]
 
-Die Durchführung der Alters- und Hinterlassenenversicherung erfolgt unter der Aufsicht des Bundes (Art. 76 ATSG[^49-2]) durch die Arbeitgeber und Arbeitnehmer, Verbandsausgleichskassen, kantonale Ausgleichskassen, Ausgleichskassen des Bundes und eine zentrale Ausgleichsstelle.
+Die Durchführung der Alters- und Hinterlassenenversicherung erfolgt unter der Aufsicht des Bundes (Art. 76 ATSG[^49-2]) durch die Arbeitgeber und Arbeitnehmer sowie durch die Verbandsausgleichskassen, kantonalen Ausgleichskassen, Ausgleichskassen des Bundes und eine zentrale Ausgleichsstelle (Durchführungsstellen).
 
-[^49-1]: Fassung gemäss Anhang Ziff. 7 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^49-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^49-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 49a
 
-**Informationssysteme**[^49a-1]
+**Informationssysteme und Anforderungen**[^49a-1]
 
-Der Bundesrat kann die Durchführungsstellen verpflichten, Informationssysteme zu verwenden, die für die Erfüllung der Aufgaben nach Anhang II des Abkommens vom 21. Juni 1999[^49a-2] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit (Freizügigkeitsabkommen) sowie anderer internationaler Abkommen über die soziale Sicherheit und nach Anhörung der betroffenen Stellen entwickelt wurden.
+<sup>1</sup> Die Durchführungsstellen betreiben Informationssysteme, die den elektronischen Informationsaustausch und die Datenbearbeitung ermöglichen.
 
-[^49a-1]: Eingefügt durch Ziff. I des BG vom 23. Juni 2000 ([AS 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)). Fassung gemäss Anhang 2 Ziff. 5 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^49a-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+<sup>2</sup> Sie stellen sicher, dass ihre Informationssysteme jederzeit die notwendige Stabilität und Anpassungsfähigkeit sowie die Informationssicherheit und den Datenschutz gewährleisten.
+
+<sup>3</sup> Die Fachorganisationen der Durchführungsstellen erarbeiten Regeln zur Umsetzung der Anforderungen nach Artikel 72*a* Absatz 2 Buchstabe b.
+
+[^49a-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 49b
 
-**Bearbeiten von Personendaten**[^49b-1]
+**Informationssysteme für die Durchführung internationaler Abkommen[^49b-2]**[^49b-1]
+
+Der Bundesrat kann die Durchführungsstellen verpflichten, Informationssysteme zu verwenden, die für die Erfüllung der Aufgaben nach Anhang II des Abkommens vom 21. Juni 1999[^49b-3] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit (Freizügigkeitsabkommen) sowie anderer internationaler Abkommen über die soziale Sicherheit und nach Anhörung der betroffenen Stellen entwickelt wurden.
+
+[^49b-1]: Ursprünglich: Art. 49*a*. Eingefügt durch Ziff. I des BG vom 23. Juni 2000 ([AS 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)). Fassung gemäss Anhang 2 Ziff. 5 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^49b-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^49b-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+
+#### Art. 49c
+
+**Register der laufenden Geldleistungen**[^49c-1]
 
 <sup>1</sup>
 
-Die mit der Durchführung, der Kontrolle oder der Beaufsichtigung der Durchführung dieses Gesetzes betrauten Organe sind befugt, die Personendaten, einschliesslich besonders schützenswerter Daten, zu bearbeiten oder bearbeiten zu lassen, die sie benötigen, um die ihnen nach diesem Gesetz oder im Rahmen von zwischenstaatlichen Vereinbarungen übertragenen Aufgaben zu erfüllen, namentlich um:[^49b-2]
+Die Zentrale Ausgleichsstelle nach Artikel 71 führt ein zentrales Register der laufenden Geldleistungen, einschliesslich der verfügbaren Angaben über die Gewährung ausländischer Leistungen, mit dem Zweck:
+
+- a. den Bezug von unrechtmässigen Geldleistungen zu vermeiden;
+- b. Transparenz über die gewährten Geldleistungen herzustellen;
+- c. die Anpassungen der Geldleistungen zu unterstützen.
+
+<sup>2</sup>
+
+Sie erfasst darin:
+
+- a. die laufenden Geldleistungen;
+- b. Todesfälle und Zivilstandsänderungen von rentenberechtigten Personen und, sofern vorhanden, das Geburtsdatum des Ehegatten oder des eingetragenen Partners.
+
+<sup>3</sup> Sie meldet den Ausgleichskassen Todesfälle und Zivilstandsänderungen und stellt den Stellen nach Artikel 50*b* Absatz 1 die erforderlichen Daten zur Verfügung.
+
+[^49c-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+
+#### Art. 49d
+
+**Versichertenregister**[^49d-1]
+
+<sup>1</sup>
+
+Die Zentrale Ausgleichsstelle führt ein zentrales Versichertenregister mit dem Zweck:
+
+- a. den versicherten Personen eine AHV-Nummer nach Artikel 50*c* zuzuweisen;
+- b. sicherzustellen, dass im Rentenfall alle individuellen Konten einer Person berücksichtigt werden.
+
+<sup>2</sup>
+
+Sie erfasst darin:
+
+- a. die Versicherten und deren AHV-Nummer;
+- b. die Ausgleichskassen, die für eine versicherte Person ein individuelles Konto führen;
+- c. die ausländischen Versichertennummern, die für die Durchführung internationaler Sozialversicherungsabkommen notwendig sind.
+
+<sup>3</sup> Sie stellt den Stellen nach den Artikeln 50*b* Absatz 1 und 153*c* Absatz 1 die erforderlichen Daten zur Verfügung.
+
+[^49d-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+
+#### Art. 49e
+
+**Ausführungsbestimmungen zum Register der laufenden Geldleistungen und zum Versichertenregister**[^49e-1]
+
+Der Bundesrat regelt:
+
+- a. die Verantwortung für den Datenschutz;
+- b. die zu erfassenden und die zu meldenden Daten;
+- c. die Aufbewahrungsfristen;
+- d. den Zugriff auf die Daten;
+- e. die Zusammenarbeit unter den Nutzern;
+- f. die Datensicherheit;
+- g. die Kostenbeteiligung der Unfallversicherer und der Militärversicherung.
+
+[^49e-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+
+#### Art. 49f
+
+**Bearbeiten von Personendaten**[^49f-1]
+
+<sup>1</sup>
+
+Die mit der Durchführung, der Kontrolle oder der Beaufsichtigung der Durchführung dieses Gesetzes betrauten Organe sind befugt, die Personendaten, einschliesslich besonders schützenswerter Daten, zu bearbeiten oder bearbeiten zu lassen, die sie benötigen, um die ihnen nach diesem Gesetz oder im Rahmen von internationalen Abkommen übertragenen Aufgaben zu erfüllen, namentlich um:
 
 - a. die Versicherungsbeiträge zu berechnen und zu erheben;
 - b. Leistungsansprüche zu beurteilen sowie Leistungen zu berechnen, zu gewähren und mit Leistungen anderer Sozialversicherungen zu koordinieren;
@@ -1278,13 +1401,11 @@ Die mit der Durchführung, der Kontrolle oder der Beaufsichtigung der Durchführ
 - d. ein Rückgriffsrecht gegenüber einem haftpflichtigen Dritten geltend zu machen;
 - e. die Aufsicht über die Durchführung dieses Gesetzes auszuüben;
 - f. Statistiken zu führen;
-- g.[^49b-3] die AHV-Nummer zuzuweisen oder zu verifizieren.
+- g. die AHV-Nummer zuzuweisen oder zu verifizieren.
 
 <sup>2</sup> Zur Erfüllung dieser Aufgaben sind sie darüber hinaus befugt, Personendaten, die namentlich die Beurteilung der Gesundheit, der Schwere des physischen oder psychischen Leidens, der Bedürfnisse und der wirtschaftlichen Situation der versicherten Person erlauben, zu bearbeiten oder bearbeiten zu lassen.
 
-[^49b-1]: Eingefügt durch Ziff. I des BG vom 23. Juni 2000 ([AS 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)). Fassung gemäss Anhang 2 Ziff. 5 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^49b-2]: Fassung gemäss Ziff. IV des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Sept. 2023 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)
-[^49b-3]: Fassung gemäss Ziff. IV des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Sept. 2023 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^49f-1]: Eingefügt durch Ziff. I des BG vom 23. Juni 2000 ([AS 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)). Fassung gemäss Ziff. IV Abs. 2 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 50
 
@@ -1302,12 +1423,12 @@ Sofern kein überwiegendes Privatinteresse entgegensteht, dürfen Organe, die mi
 
 - a. anderen mit der Durchführung sowie der Kontrolle oder der Beaufsichtigung der Durchführung dieses Gesetzes betrauten Organen, wenn die Daten für die Erfüllung der ihnen nach diesem Gesetz übertragenen Aufgaben erforderlich sind;
 - b. Organen einer anderen Sozialversicherung, wenn sich in Abweichung von Artikel 32 Absatz 2 ATSG eine Pflicht zur Bekanntgabe aus einem Bundesgesetz ergibt;
-- [tab] b<sup>bis</sup>.[^50a-4] Organen einer anderen Sozialversicherung und weiteren Stellen oder Institutionen, die zur Verwendung der AHV-Nummer[^50a-5] berechtigt sind, wenn die Daten für die Zuweisung oder Verifizierung dieser Nummer erforderlich sind;
+- b<sup>bis</sup>.[^50a-4] Organen einer anderen Sozialversicherung und weiteren Stellen oder Institutionen, die zur Verwendung der AHV-Nummer[^50a-5] berechtigt sind, wenn die Daten für die Zuweisung oder Verifizierung dieser Nummer erforderlich sind;
 - b<sup>ter</sup>.[^50a-6] den für den Betrieb der zentralen Datenbank zur Beurkundung des Personenstandes oder für die Führung des Informationssystems für den Ausländer- und den Asylbereich zuständigen Stellen, wenn die Daten für die Zuweisung oder Verifizierung dieser Nummer erforderlich sind;
 - c. den Organen der Bundesstatistik, nach dem Bundesstatistikgesetz vom 9. Oktober 1992[^50a-7];
-- [tab] c<sup>bis</sup>.[^50a-8] den kantonalen Krebsregistern und dem Kinderkrebsregister, nach dem Krebsregistrierungsgesetz vom 18. März 2016[^50a-9];
+- c<sup>bis</sup>.[^50a-8] den kantonalen Krebsregistern und dem Kinderkrebsregister, nach dem Krebsregistrierungsgesetz vom 18. März 2016[^50a-9];
 - d. den Strafuntersuchungsbehörden, wenn die Anzeige oder die Abwendung eines Verbrechens die Datenbekanntgabe erfordert;
-- [tab] d<sup>bis</sup>.[^50a-10] dem Nachrichtendienst des Bundes (NDB) oder den Sicherheitsorganen der Kantone zuhanden des NDB, wenn eine konkrete Bedrohung der inneren oder äusseren Sicherheit nach Artikel 19 Absatz 2 des Nachrichtendienstgesetzes vom 25. September 2015[^50a-11] gegeben ist;
+- d<sup>bis</sup>.[^50a-10] dem Nachrichtendienst des Bundes (NDB) oder den Sicherheitsorganen der Kantone zuhanden des NDB, wenn eine konkrete Bedrohung der inneren oder äusseren Sicherheit nach Artikel 19 Absatz 2 des Nachrichtendienstgesetzes vom 25. September 2015[^50a-11] gegeben ist;
 - e.
 
   im Einzelfall und auf schriftlich begründetes Gesuch hin:
@@ -1357,7 +1478,7 @@ In den übrigen Fällen dürfen Daten in Abweichung von Artikel 33 ATSG an Dritt
 [^50a-17]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^50a-18]: Fassung gemäss Ziff. I der V der BVers vom 21. Juni 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 [^50a-19]: [SR 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
-[^50a-20]: Aufgehoben durch Ziff. I der V der BVers vom 21. Juni 2002 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)). Fassung gemäss Anhang Ziff. 6 des BG vom 17. Juni 2005 gegen die Schwarzarbeit, in Kraft seit 1. Jan. 2008 ([AS 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [BBl 2002 3605](https://fedlex.data.admin.ch/eli/fga/2002/520)).
+[^50a-20]: Fassung gemäss Anhang Ziff. 6 des BG vom 17. Juni 2005 gegen die Schwarzarbeit, in Kraft seit 1. Jan. 2008 ([AS 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [BBl 2002 3605](https://fedlex.data.admin.ch/eli/fga/2002/520)).
 [^50a-21]: Fassung gemäss Ziff. I der V der BVers vom 21. Juni 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 [^50a-22]: Fassung gemäss Ziff. I der V der BVers vom 21. Juni 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 
@@ -1367,22 +1488,26 @@ In den übrigen Fällen dürfen Daten in Abweichung von Artikel 33 ATSG an Dritt
 
 <sup>1</sup>
 
-Das zentrale Register der Versicherten sowie das zentrale Register der laufenden Leistungen (Art. 71 Abs. 4) sind folgenden Stellen durch Abrufverfahren zugänglich:
+Das Register der laufenden Geldleistungen (Art. 49*c*) sowie das Versichertenregister (Art. 49*d*) sind folgenden Stellen durch Abrufverfahren zugänglich:[^50b-2]
 
-- a. der Zentralstelle 2. Säule, im Rahmen von Artikel 24*d* des Freizügigkeitsgesetzes vom 17. Dezember 1993[^50b-2];
-- b. den Ausgleichskassen, den IV-Stellen und dem zuständigen Bundesamt für diejenigen Daten, die sie benötigen, um die ihnen nach diesem Gesetz und dem IVG[^50b-3] übertragenen Aufgaben zu erfüllen;
-- c.[^50b-4] den Unfallversicherern nach dem Bundesgesetz vom 20. März 1981[^50b-5] über die Unfallversicherung zur Überprüfung der Bezugsberechtigungen für laufende Renten;
-- d.[^50b-6] der Militärversicherung zur Überprüfung der Bezugsberechtigungen für laufende Renten.
+- a. der Zentralstelle 2. Säule, im Rahmen von Artikel 24*d* des Freizügigkeitsgesetzes vom 17. Dezember 1993[^50b-3];
+- b.[^50b-4] den Ausgleichskassen, den von ihnen bezeichneten Zweigstellen, den IV-Stellen und dem zuständigen Bundesamt für diejenigen Daten, die sie benötigen, um die ihnen nach diesem Gesetz und dem IVG[^50b-5] übertragenen Aufgaben zu erfüllen;
+- c.[^50b-6] den Unfallversicherern nach dem Bundesgesetz vom 20. März 1981[^50b-7] über die Unfallversicherung zur Überprüfung der Bezugsberechtigungen für laufende Renten;
+- d.[^50b-8] der Militärversicherung zur Überprüfung der Bezugsberechtigungen für laufende Renten;
+- e.[^50b-9] den für die Ergänzungsleistungen zuständigen Durchführungsstellen.
 
-<sup>2</sup> Der Bundesrat regelt die Verantwortung für den Datenschutz, die zu erfassenden Daten und deren Aufbewahrungsfristen, den Zugriff auf die Daten, die Zusammenarbeit zwischen den Benützern, die Datensicherheit sowie die Kostenbeteiligung der Unfallversicherer und der Militärversicherung.[^50b-7]
+<sup>2</sup> …[^50b-10]
 
 [^50b-1]: Eingefügt durch Ziff. I des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)).
-[^50b-2]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
-[^50b-3]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^50b-4]: Eingefügt durch Anhang Ziff. 1 des BG vom 25. Sept. 2015 (Unfallversicherung und Unfallverhütung), in Kraft seit seit 1. Jan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^50b-5]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^50b-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^50b-3]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^50b-4]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^50b-5]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 [^50b-6]: Eingefügt durch Anhang Ziff. 1 des BG vom 25. Sept. 2015 (Unfallversicherung und Unfallverhütung), in Kraft seit seit 1. Jan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^50b-7]: Fassung gemäss Anhang Ziff. 1 des BG vom 25. Sept. 2015 (Unfallversicherung und Unfallverhütung), in Kraft seit seit 1. Jan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^50b-7]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^50b-8]: Eingefügt durch Anhang Ziff. 1 des BG vom 25. Sept. 2015 (Unfallversicherung und Unfallverhütung), in Kraft seit seit 1. Jan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^50b-9]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^50b-10]: Aufgehoben durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), mit Wirkung seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 50c
 
@@ -1472,30 +1597,21 @@ Befugt zur Errichtung von Verbandsausgleichskassen sind ein oder mehrere schweiz
 - a.[^53-4] aufgrund der Zahl und Zusammensetzung der Verbandsmitglieder anzunehmen ist, dass die zu errichtende Ausgleichskasse mindestens 2000 Arbeitgeber beziehungsweise Selbständigerwerbende umfassen oder Beiträge von mindestens 50 Millionen Franken im Jahr einnehmen wird;
 - b. der Beschluss über die Errichtung einer Ausgleichskasse von dem zur Statutenänderung zuständigen Verbandsorgan mit einer Mehrheit von drei Vierteln der abgegebenen Stimmen gefasst und öffentlich beurkundet worden ist.
 
+<sup>1bis</sup> Die Verbandsausgleichskassen sind als selbstständige öffentlich-rechtliche Anstalten zu errichten.[^53-5]
+
 <sup>2</sup> Errichten mehrere der in Absatz 1 genannten Verbände gemeinsam eine Ausgleichskasse oder will sich ein solcher Verband an der Führung einer bestehenden Ausgleichskasse beteiligen, so ist über die gemeinsame Kassenführung von jedem Verband gemäss Absatz 1 Buchstabe b Beschluss zu fassen.
 
 [^53-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 1953, in Kraft seit 1. Jan. 1954 ([AS 1954 211](https://fedlex.data.admin.ch/eli/oc/1954/211_217_102); [BBl 1953 II 81](https://fedlex.data.admin.ch/eli/fga/1953/2_81_73_449)).
 [^53-2]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 [^53-3]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 [^53-4]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^53-5]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 54
 
-**b. Errichtung von paritätischen Ausgleichskassen[^54-1]**
+**b. …**[^54-1]
 
-<sup>1</sup> Einzelne oder mehrere Arbeitnehmerverbände gemeinsam, denen mindestens die Hälfte der von einer zu errichtenden oder bereits bestehenden Verbandsausgleichskasse erfassten Arbeitnehmer angehört, haben das Recht, die paritätische Mitwirkung an der Verwaltung dieser Ausgleichskasse zu verlangen. Dieses Recht steht auch Arbeitnehmerverbänden zu, die mindestens ein Drittel der von der Ausgleichskasse erfassten Arbeitnehmer umfassen, sofern alle andern Arbeitnehmerverbände, denen einzeln oder zusammen mindestens 10 Prozent der von der Kasse erfassten Arbeitnehmer angehören, der paritätischen Kassenverwaltung ausdrücklich zustimmen.
-
-<sup>2</sup> Machen Arbeitnehmerverbände von dem ihnen gemäss Absatz 1 zustehenden Recht Gebrauch, so haben die beteiligten Arbeitgeber- und Arbeitnehmerverbände gemeinsam ein Kassenreglement aufzustellen, in welchem alle für die Kassenführung bedeutsamen Fragen abschliessend geregelt sind.
-
-<sup>3</sup> Für die Beurteilung von Streitigkeiten, die bei der Aufstellung des Kassenreglementes entstehen, ist ein von der Eidgenössischen Kommission für die Alters‑, Hinterlassenen- und Invalidenversicherung[^54-2] aus ihrer Mitte zu bestellendes Schiedsgericht, in welchem Arbeitgeber und Arbeitnehmer in gleicher Zahl vertreten sein müssen, zuständig. Dieses Schiedsgericht hat in seinem Entscheid alle aus der Kassenführung erwachsenden Rechte und Pflichten zu gleichen Teilen auf die Arbeitgeber- und auf die Arbeitnehmerverbände zu verteilen.[^54-3] Gegen den Entscheid des Schiedsgerichts kann beim Bundesverwaltungsgericht Beschwerde geführt werden.[^54-4] Der Bundesrat ordnet das Schiedsverfahren.[^54-5]
-
-<sup>4</sup> Arbeitnehmerverbände, welche dem Entscheid des Schiedsgerichtes nicht zustimmen, verwirken das Recht auf paritätische Mitwirkung an der Kassenverwaltung; Arbeitgeberverbände, welche dem Entscheid des Schiedsgerichtes nicht zustimmen, verwirken das Recht auf Errichtung einer Verbandsausgleichskasse.
-
-[^54-1]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^54-2]: Bezeichnung gemäss Ziff. II Bst. a des BG vom 4. Okt. 1968, in Kraft seit 1. Jan. 1969 ([AS 1969 111](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [BBl 1968 I 602](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
-[^54-3]: Fassung des Satzes gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^54-4]: Satz eingefügt durch Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision) ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)). Fassung gemäss Anhang Ziff. 107 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^54-5]: Fassung des Satzes gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^54-1]: Aufgehoben durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), mit Wirkung seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 55
 
@@ -1545,11 +1661,12 @@ Das Reglement muss Bestimmungen enthalten über:
 - d. die interne Kassenorganisation;
 - e. die Errichtung von Zweigstellen sowie deren Aufgaben und Befugnisse;
 - f. die Grundsätze, nach welchen die Verwaltungskostenbeiträge erhoben werden;
-- g. die Kassenrevision und die Arbeitgeberkontrolle;
-- h.[^57-1] falls mehrere Gründerverbände bestehen, deren Beteiligung an der Sicherheitsleistung gemäss Artikel 55 und die Regelung des Rückgriffes für den Fall der Inanspruchnahme gemäss Artikel 78 ATSG[^57-2] und Artikel 70 dieses Gesetzes.
+- g.[^57-1] die Arbeitgeberkontrolle;
+- h.[^57-2] falls mehrere Gründerverbände bestehen, deren Beteiligung an der Sicherheitsleistung gemäss Artikel 55 und die Regelung des Rückgriffes für den Fall der Inanspruchnahme gemäss Artikel 78 ATSG[^57-3] und Artikel 70 dieses Gesetzes.
 
-[^57-1]: Fassung gemäss Anhang Ziff. 7 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^57-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^57-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^57-2]: Fassung gemäss Anhang Ziff. 7 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^57-3]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 58
 
@@ -1557,19 +1674,29 @@ Das Reglement muss Bestimmungen enthalten über:
 
 <sup>1</sup> Oberstes Organ einer Verbandsausgleichskasse ist der Kassenvorstand.
 
-<sup>2</sup> Der Kassenvorstand setzt sich zusammen aus Vertretern der Gründerverbände und gegebenenfalls aus Vertretern von Arbeitnehmerorganisationen, sofern diesen insgesamt mindestens 10 Prozent der von der Ausgleichskasse erfassten Arbeitnehmer angehören. Der Präsident sowie die Mehrzahl der Vorstandsmitglieder werden von den Gründerverbänden, die übrigen Mitglieder, jedoch mindestens ein Drittel, von den beteiligten Arbeitnehmerorganisationen nach Massgabe der Zahl der durch sie vertretenen, von der Ausgleichskasse erfassten Arbeitnehmer gewählt. Zu Vorstandsmitgliedern dürfen nur Schweizer Bürger gewählt werden, welche der betreffenden Ausgleichskasse als Versicherte oder Arbeitgeber angeschlossen sind.
+<sup>2</sup> Der Kassenvorstand setzt sich zusammen aus Vertretern der Gründerverbände und gegebenenfalls aus Vertretern von Arbeitnehmerorganisationen, sofern diesen insgesamt mindestens 10 Prozent der von der Ausgleichskasse erfassten Arbeitnehmer angehören. Der Präsident sowie die Mehrzahl der Vorstandsmitglieder werden von den Gründerverbänden, die übrigen Mitglieder, jedoch mindestens ein Drittel, von den beteiligten Arbeitnehmerorganisationen nach Massgabe der Zahl der durch sie vertretenen, von der Ausgleichskasse erfassten Arbeitnehmer gewählt. Zu Vorstandsmitgliedern dürfen nur Personen gewählt werden, die der Ausgleichskasse als Versicherte oder Arbeitgeber angeschlossen sind.[^58-1]
 
-<sup>3</sup> Der Vorstand paritätischer Verbandsausgleichskassen setzt sich nach deren Reglement zusammen.
+<sup>3</sup> …[^58-2]
 
-<sup>4</sup> Dem Kassenvorstand obliegen
+<sup>4</sup> …[^58-3]
 
-Dem Kassenvorstand können durch das Reglement weitere Aufgaben und Befugnisse übertragen werden.
+Dem Kassenvorstand obliegen:
 
 - a. die interne Organisation der Kasse;
 - b. die Ernennung des Kassenleiters;
+- b<sup>bis</sup>.[^58-4] die Wahl der Revisionsstelle;
 - c. die Festsetzung der Verwaltungskostenbeiträge;
 - d. die Anordnung der Kassenrevisionen und der Arbeitgeberkontrollen;
-- e. die Genehmigung von Jahresrechnung und Jahresbericht.
+- e.[^58-5] die Genehmigung von Jahresrechnung und Geschäftsbericht.
+
+<sup>5</sup> Dem Kassenvorstand können durch das Reglement weitere Aufgaben und Befugnisse übertragen werden.[^58-6]
+
+[^58-1]: Fassung des dritten Satzes gemäss Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^58-2]: Aufgehoben durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), mit Wirkung seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^58-3]: Satz aufgehoben durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), mit Wirkung seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^58-4]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^58-5]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^58-6]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 59
 
@@ -1585,11 +1712,18 @@ Dem Kassenvorstand können durch das Reglement weitere Aufgaben und Befugnisse �
 
 <sup>1</sup> Der Beschluss über die Auflösung einer Verbandsausgleichskasse ist von dem zur Statutenänderung zuständigen Verbandsorgan mit einer Mehrheit von drei Vierteln der abgegebenen Stimmen zu fassen, öffentlich beurkunden zu lassen und dem Bundesrat unverzüglich zur Kenntnis zu bringen. Der Bundesrat bestimmt darauf den Zeitpunkt der Auflösung.
 
-<sup>2</sup> Ist eine der in den Artikeln 53 und 55 genannten Voraussetzungen während längerer Zeit nicht erfüllt oder haben sich die Organe einer Ausgleichskasse wiederholt schwerer Pflichtverletzungen schuldig gemacht, so wird die Ausgleichskasse vom Bundesrat aufgelöst. Vor dem 1. Januar 1973 errichtete Ausgleichskassen werden wegen Nichterreichens der Mindestbeitragssumme nur aufgelöst, wenn sie Beiträge von weniger als 1 Million Franken im Jahr einnehmen. Für die seit dem 1. Januar 1973 bis zum Inkrafttreten dieser Bestimmung errichteten Ausgleichskassen gilt ein Grenzbetrag von 10 Millionen Franken.[^60-1]
+<sup>1bis</sup> Die Verbandsausgleichskassen bilden Reserven, die es erlauben, die Folgekosten einer Auflösung zu decken.[^60-1]
 
-<sup>3</sup> Der Bundesrat erlässt die näheren Vorschriften über die Liquidation von Verbandsausgleichskassen.
+<sup>1ter</sup> Wird eine Verbandsausgleichskasse aufgelöst, so kann der Bundesrat eine oder mehrere andere Verbandsausgleichskassen dazu verpflichten, deren Versicherte und Rentenbezüger ganz oder teilweise zu übernehmen, falls keine andere Lösung gefunden werden kann. Die übernehmende Kasse wird dafür angemessen entschädigt. Die Entschädigung geht zulasten der aufgelösten Kasse, subsidiär zulasten ihrer Gründerverbände.[^60-2]
 
-[^60-1]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+<sup>2</sup> Ist eine der in den Artikeln 53 und 55 genannten Voraussetzungen während längerer Zeit nicht erfüllt oder haben sich die Organe einer Ausgleichskasse wiederholt schwerer Pflichtverletzungen schuldig gemacht, so wird die Ausgleichskasse vom Bundesrat aufgelöst. Vor dem 1. Januar 1973 errichtete Ausgleichskassen werden wegen Nichterreichens der Mindestbeitragssumme nur aufgelöst, wenn sie Beiträge von weniger als 1 Million Franken im Jahr einnehmen. Für die seit dem 1. Januar 1973 bis zum Inkrafttreten dieser Bestimmung errichteten Ausgleichskassen gilt ein Grenzbetrag von 10 Millionen Franken.[^60-3]
+
+<sup>3</sup> Der Bundesrat erlässt die näheren Vorschriften über die Reserven, ihre Höhe sowie über die Auflösung von Verbandsausgleichskassen.[^60-4]
+
+[^60-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^60-2]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^60-3]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^60-4]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 ### II. Die kantonalen Ausgleichskassen
 
@@ -1597,19 +1731,31 @@ Dem Kassenvorstand können durch das Reglement weitere Aufgaben und Befugnisse �
 
 **Kantonale Erlasse**
 
-<sup>1</sup> Jeder Kanton errichtet durch besonderen Erlass eine kantonale Ausgleichskasse als selbständige öffentliche Anstalt.
+<sup>1</sup> Jeder Kanton errichtet durch einen Erlass eine kantonale Ausgleichskasse als selbstständige kantonale öffentlich-rechtliche Anstalt. Vorbehalten bleibt Absatz 1<sup>bis</sup>.[^61-1]
+
+<sup>1bis</sup> Die kantonale Ausgleichskasse kann einer kantonalen Sozialversicherungsanstalt angeschlossen sein, sofern diese als selbstständige öffentlich-rechtliche Anstalt ausgestaltet ist und über eine vom Kanton unabhängige Verwaltungskommission verfügt.[^61-2]
 
 <sup>2</sup>
 
-Der kantonale Erlass bedarf der Genehmigung des Bundes[^61-1] und muss Bestimmungen enthalten über:
+Der kantonale Erlass bedarf der Genehmigung des Bundes[^61-3] und muss Bestimmungen enthalten über:
 
 - a. die Aufgaben und Befugnisse des Kassenleiters;
 - b. die interne Kassenorganisation;
-- c. die Errichtung von Zweigstellen sowie deren Aufgaben und Befugnisse;
+- c.[^61-4] …
 - d. die Grundsätze, nach welchen die Verwaltungskostenbeiträge erhoben werden;
-- e. die Kassenrevision und die Arbeitgeberkontrolle.
+- d<sup>bis</sup>.[^61-5] die Wahl der Revisionsstelle;
+- e.[^61-6] die Arbeitgeberkontrolle;
+- f.[^61-7] die Genehmigung von Jahresrechnung und Geschäftsbericht der Ausgleichskasse;
+- g.[^61-8] die Errichtung der Verwaltungskommission und über deren Grösse, Zusammensetzung und Zuständigkeiten.
 
-[^61-1]: Ausdruck gemäss Ziff. III des BG vom 15. Dez. 1989 über die Genehmigung kantonaler Erlasse durch den Bund, in Kraft seit 1. Febr. 1991 ([AS 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [BBl 1988 II 1333](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
+[^61-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)). Siehe auch die SchlB am Schluss dieses Textes.
+[^61-2]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)). Siehe auch die SchlB am Schluss dieses Textes.
+[^61-3]: Ausdruck gemäss Ziff. III des BG vom 15. Dez. 1989 über die Genehmigung kantonaler Erlasse durch den Bund, in Kraft seit 1. Febr. 1991 ([AS 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [BBl 1988 II 1333](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
+[^61-4]: Aufgehoben durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), mit Wirkung seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^61-5]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^61-6]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^61-7]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^61-8]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 ### III. Die Ausgleichskassen des Bundes
 
@@ -1619,7 +1765,7 @@ Der kantonale Erlass bedarf der Genehmigung des Bundes[^61-1] und muss Bestimmun
 
 <sup>1</sup> Der Bundesrat errichtet eine Ausgleichskasse für das Personal der Bundesverwaltung und der Bundesanstalten.
 
-<sup>2</sup> Er errichtet eine Ausgleichskasse, welche die freiwillige Versicherung durchführt, die Aufgaben wahrnimmt, die ihr durch zwischenstaatliche Vereinbarungen zugewiesen werden, und die Leistungen an Personen im Ausland ausrichtet. Die Ausgleichskasse erfasst ferner die nach Artikel 1*a* Absatz 3 Buchstabe b versicherten Studenten.[^62-2] [^62-3]
+<sup>2</sup> Er errichtet eine Ausgleichskasse, welche die freiwillige Versicherung durchführt, die Aufgaben wahrnimmt, die ihr durch internationale Abkommen zugewiesen werden, und die Leistungen an Personen im Ausland ausrichtet. Die Ausgleichskasse erfasst ferner die nach Artikel 1*a* Absatz 3 Buchstabe b versicherten Studenten.[^62-2] [^62-3]
 
 [^62-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 1953, in Kraft seit 1. Jan. 1954 ([AS 1954 211](https://fedlex.data.admin.ch/eli/oc/1954/211_217_102); [BBl 1953 II 81](https://fedlex.data.admin.ch/eli/fga/1953/2_81_73_449)).
 [^62-2]: Fassung des zweiten Satzes gemäss Ziff. I der V der BVers vom 21. Juni 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
@@ -1633,31 +1779,60 @@ Der kantonale Erlass bedarf der Genehmigung des Bundes[^61-1] und muss Bestimmun
 
 <sup>1</sup>
 
-Den Ausgleichskassen obliegen nach Massgabe der gesetzlichen Bestimmungen:
+Den Ausgleichskassen obliegen insbesondere die folgenden Aufgaben:[^63-1]
 
 - a. die Festsetzung, die Herabsetzung und der Erlass der Beiträge;
-- b. die Festsetzung der Renten und Hilflosenentschädigungen[^63-1];
-- c.[^63-2] der Bezug der Beiträge sowie die Auszahlung der Renten und Hilflosenentschädigungen;
-- d. die Abrechnung über die bezogenen Beiträge und die ausbezahlten Renten und Hilflosenentschädigungen[^63-3] mit den ihnen angeschlossenen Arbeitgebern, Selbständigerwerbenden und Nichterwerbstätigen einerseits und mit der Zentralen Ausgleichsstelle anderseits;
+- b. die Festsetzung der Renten und Hilflosenentschädigungen[^63-2];
+- c.[^63-3] der Bezug der Beiträge sowie die Auszahlung der Renten und Hilflosenentschädigungen;
+- d. die Abrechnung über die bezogenen Beiträge und die ausbezahlten Renten und Hilflosenentschädigungen[^63-4] mit den ihnen angeschlossenen Arbeitgebern, Selbständigerwerbenden und Nichterwerbstätigen einerseits und mit der Zentralen Ausgleichsstelle anderseits;
 - e. der Erlass von Veranlagungsverfügungen und die Durchführung des Mahn- und Vollstreckungsverfahrens;
-- f. die Führung der individuellen Konten[^63-4];
+- f. die Führung der individuellen Konten[^63-5];
 - g. der Bezug von Verwaltungskostenbeiträgen.
 
 <sup>2</sup> Den kantonalen Ausgleichskassen obliegt überdies die Kontrolle über die Erfassung aller Beitragspflichtigen.
 
-<sup>3</sup> Der Bundesrat kann den Ausgleichskassen im Rahmen dieses Gesetzes weitere Aufgaben übertragen. Er ordnet die Zusammenarbeit zwischen den Ausgleichskassen und der Zentralen Ausgleichsstelle und sorgt für einen zweckmässigen Einsatz technischer Einrichtungen.[^63-5]
+<sup>3</sup> Der Bundesrat kann den Ausgleichskassen im Rahmen dieses Gesetzes weitere Aufgaben übertragen.[^63-6] Er regelt die Zusammenarbeit zwischen den Ausgleichskassen und der Zentralen Ausgleichsstelle.[^63-7]
 
-<sup>4</sup> Den Ausgleichskassen können durch den Bund und, mit Genehmigung des Bundesrates, durch die Kantone und die Gründerverbände weitere Aufgaben, insbesondere solche auf dem Gebiete des Wehrmanns- und des Familienschutzes, übertragen werden.
+<sup>4</sup> …[^63-8]
 
-<sup>5</sup> Die Ausgleichskassen können Dritte mit bestimmten Aufgaben beauftragen. Sie brauchen dazu eine Bewilligung des Bundesrates. Die Bewilligung kann an Bedingungen geknüpft und mit Auflagen verbunden werden. Die Beauftragten und ihr Personal unterstehen für von ihnen ausgeführte Kassenaufgaben der Schweigepflicht nach Artikel 33 ATSG[^63-6]. Sie haben zudem die Vorschriften dieses Gesetzes zur Datenbearbeitung und -bekanntgabe zu beachten. Die Haftung nach Artikel 78 ATSG und Artikel 70 dieses Gesetzes für von diesen beauftragten Dritten ausgeführte Kassenaufgaben bleibt bei den Gründerverbänden oder den Kantonen.[^63-7]
+<sup>5</sup> …[^63-9]
 
-[^63-1]: Ausdruck gemäss Ziff. II Bst. b des BG vom 4. Okt. 1968, in Kraft seit 1. Jan. 1969 ([AS 1969 111](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [BBl 1968 I 602](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
-[^63-2]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^63-3]: Ausdruck gemäss Ziff. II Bst. b des BG vom 4. Okt. 1968, in Kraft seit 1. Jan. 1969 ([AS 1969 111](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [BBl 1968 I 602](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
-[^63-4]: Ausdruck gemäss Ziff. II Bst. a des BG vom 4. Okt. 1968, in Kraft seit 1. Jan. 1969 ([AS 1969 111](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [BBl 1968 I 602](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
-[^63-5]: Fassung gemäss Ziff. I des BG vom 19. Dez. 1963 ([AS 1964 285](https://fedlex.data.admin.ch/eli/oc/1964/285_277_277); [BBl 1963 II 517](https://fedlex.data.admin.ch/eli/fga/1963/2_517_497_1209)).
-[^63-6]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^63-7]: Eingefügt durch Ziff. I des BG vom 24. Juni 1977 (9. AHV- Revision) ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)). Fassung gemäss Ziff. I der V der BVers vom 21. Juni 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+[^63-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^63-2]: Ausdruck gemäss Ziff. II Bst. b des BG vom 4. Okt. 1968, in Kraft seit 1. Jan. 1969 ([AS 1969 111](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [BBl 1968 I 602](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
+[^63-3]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^63-4]: Ausdruck gemäss Ziff. II Bst. b des BG vom 4. Okt. 1968, in Kraft seit 1. Jan. 1969 ([AS 1969 111](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [BBl 1968 I 602](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
+[^63-5]: Ausdruck gemäss Ziff. II Bst. a des BG vom 4. Okt. 1968, in Kraft seit 1. Jan. 1969 ([AS 1969 111](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [BBl 1968 I 602](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
+[^63-6]: Fassung gemäss Ziff. I des BG vom 19. Dez. 1963, in Kraft seit 1. Jan. 1964 ([AS 1964 285](https://fedlex.data.admin.ch/eli/oc/1964/285_277_277); [BBl 1963 II 517](https://fedlex.data.admin.ch/eli/fga/1963/2_517_497_1209)).
+[^63-7]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^63-8]: Aufgehoben durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), mit Wirkung seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^63-9]: Eingefügt durch Ziff. I des BG vom 24. Juni 1977 (9. AHV- Revision) ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)). Aufgehoben durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), mit Wirkung seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+
+#### Art. 63a
+
+**Übertragung weiterer Aufgaben auf die Ausgleichskasse**[^63a-1]
+
+<sup>1</sup> Den Ausgleichskassen können durch den Bund und, mit Genehmigung des Bundesrates, durch die Kantone und die Gründerverbände weitere Aufgaben übertragen werden. Die Genehmigung kann an Bedingungen geknüpft und mit Auflagen verbunden werden.
+
+<sup>2</sup> Die Übertragung von Aufgaben darf die ordnungsgemässe Durchführung der Alters- und Hinterlassenenversicherung nicht beeinträchtigen.
+
+<sup>3</sup> Wer Aufgaben überträgt, stellt sicher, dass die Kosten, die den Ausgleichskassen durch die Erfüllung dieser Aufgaben entstehen, vollständig gedeckt werden.
+
+<sup>4</sup> Für den Vollzug der vom Bund übertragenen Aufgaben unterstehen die Ausgleichskassen ausschliesslich den Weisungen der Aufsichtsbehörde nach Artikel 72.
+
+[^63a-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+
+#### Art. 63b
+
+**Übertragung von Kassenaufgaben auf Dritte**[^63b-1]
+
+<sup>1</sup> Die Ausgleichskassen können mit Genehmigung des Bundesrates Dritte mit bestimmten Aufgaben im Sinne der Artikel 63 Absatz 1 und 63*a* Absatz 1 beauftragen. Die Genehmigung kann an Bedingungen geknüpft und mit Auflagen verbunden werden.
+
+<sup>2</sup> Die beauftragten Dritten und ihr Personal haben die Vorschriften dieses Gesetzes, namentlich die Bestimmungen zur Datenbearbeitung und -bekanntgabe, zu beachten. Sie unterstehen für von ihnen ausgeführte Kassenaufgaben der Schweigepflicht nach Artikel 33 ATSG[^63b-2].
+
+<sup>3</sup> Die Haftung nach Artikel 78 ATSG und nach Artikel 70 des vorliegenden Gesetzes für Kassenaufgaben, die von diesen beauftragten Dritten ausgeführt werden, bleibt bei den Gründerverbänden oder den Kantonen.
+
+[^63b-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^63b-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 64
 
@@ -1667,33 +1842,34 @@ Den Ausgleichskassen obliegen nach Massgabe der gesetzlichen Bestimmungen:
 
 <sup>2</sup> Den kantonalen Ausgleichskassen werden alle Arbeitgeber und Selbständigerwerbenden angeschlossen, die keinem Gründerverband einer Verbandsausgleichskasse angehören, ferner die Nichterwerbstätigen und die versicherten Arbeitnehmer nicht beitragspflichtiger Arbeitgeber.
 
-<sup>2bis</sup> Versicherte, welche ihre Erwerbstätigkeit vor Erreichen des ordentlichen Rentenalters aufgeben, bleiben als Nichterwerbstätige der bisher zuständigen Ausgleichskasse angeschlossen, sofern sie zu diesem Zeitpunkt eine vom Bundesrat festgesetzte Altersgrenze erreicht haben. Der Bundesrat kann bestimmen, dass nichterwerbstätige beitragspflichtige Ehegatten dieser Versicherten derselben Ausgleichskasse angehören.[^64-2]
+<sup>2bis</sup> Versicherte, welche ihre Erwerbstätigkeit vor Erreichen des Referenzalters aufgeben, bleiben als Nichterwerbstätige der bisher zuständigen Ausgleichskasse angeschlossen, sofern sie die erforderliche Altersgrenze erreicht haben; der Bundesrat legt diese Altersgrenze fest.[^64-2] Der Bundesrat kann bestimmen, dass nichterwerbstätige beitragspflichtige Ehegatten dieser Versicherten derselben Ausgleichskasse angehören.[^64-3]
 
 <sup>3</sup> Die Kassenzugehörigkeit eines Arbeitgebers erstreckt sich auf alle Arbeitnehmer, für die er den Arbeitgeberbeitrag zu leisten hat.
 
-<sup>3bis</sup> Die nach Artikel 1*a* Absatz 4 Buchstabe c versicherten Personen gehören der gleichen Ausgleichskasse an wie ihr Ehegatte.[^64-3]
+<sup>3bis</sup> Die nach Artikel 1*a* Absatz 4 Buchstabe c versicherten Personen gehören der gleichen Ausgleichskasse an wie ihr Ehegatte.[^64-4]
 
-<sup>4</sup> Der Bundesrat erlässt die Vorschriften über die Kassenzugehörigkeit von Arbeitgebern und Selbstständigerwerbenden, die mehr als einem Berufsverband angehören oder deren Tätigkeit sich auf mehr als einen Kanton erstreckt.[^64-4]
+<sup>4</sup> Der Bundesrat erlässt die Vorschriften über die Kassenzugehörigkeit von Arbeitgebern und Selbstständigerwerbenden, die mehr als einem Berufsverband angehören oder deren Tätigkeit sich auf mehr als einen Kanton erstreckt.[^64-5]
 
-<sup>5</sup> Arbeitgeber, Selbständigerwerbende, Nichterwerbstätige und versicherte Arbeitnehmer nicht beitragspflichtiger Arbeitgeber, die von keiner Ausgleichskasse erfasst wurden, haben sich bei der kantonalen Ausgleichskasse zu melden.[^64-5]
+<sup>5</sup> Arbeitgeber, Selbständigerwerbende, Nichterwerbstätige und versicherte Arbeitnehmer nicht beitragspflichtiger Arbeitgeber, die von keiner Ausgleichskasse erfasst wurden, haben sich bei der kantonalen Ausgleichskasse zu melden.[^64-6]
 
-<sup>6</sup> In Abweichung von Artikel 35 ATSG[^64-6] entscheidet bei Streitigkeiten über die Kassenzugehörigkeit das zuständige Bundesamt. Sein Entscheid kann von den beteiligten Ausgleichskassen und vom Betroffenen innert 30 Tagen nach Erhalt der Mitteilung über die Kassenzugehörigkeit angerufen werden.[^64-7]
+<sup>6</sup> In Abweichung von Artikel 35 ATSG[^64-7] entscheidet bei Streitigkeiten über die Kassenzugehörigkeit das zuständige Bundesamt. Sein Entscheid kann von den beteiligten Ausgleichskassen und vom Betroffenen innert 30 Tagen nach Erhalt der Mitteilung über die Kassenzugehörigkeit angerufen werden.[^64-8]
 
 [^64-1]: Fassung gemäss Ziff. I des BG vom 30. Juni 1972, in Kraft seit 1. Jan. 1973 ([AS 1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [BBl 1971 II 1057](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)).
-[^64-2]: Eingefügt durch Ziff. I des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^64-3]: Eingefügt durch Ziff. I des BG vom 23. Juni 2000 ([AS 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [BBl 1999 4983](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)). Fassung gemäss Ziff. I der V der BVers vom 21. Juni 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
-[^64-4]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^64-5]: Eingefügt durch Ziff. I des BG vom 30. Juni 1972, in Kraft seit 1. Jan. 1973 ([AS 1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [BBl 1971 II 1057](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)).
-[^64-6]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^64-7]: Eingefügt durch Anhang Ziff. 7 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^64-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^64-3]: Eingefügt durch Ziff. I des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^64-4]: Eingefügt durch Ziff. I des BG vom 23. Juni 2000 ([AS 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [BBl 1999 4983](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)). Fassung gemäss Ziff. I der V der BVers vom 21. Juni 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+[^64-5]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^64-6]: Eingefügt durch Ziff. I des BG vom 30. Juni 1972, in Kraft seit 1. Jan. 1973 ([AS 1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [BBl 1971 II 1057](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)).
+[^64-7]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^64-8]: Eingefügt durch Anhang Ziff. 7 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 
 #### Art. 64a
 
-**Zuständigkeit zur Festsetzung und Auszahlung der Renten von Ehepaaren**[^64a-1]
+**Zuständigkeit für die Festsetzung und Auszahlung der Renten von Ehepaaren**[^64a-1]
 
-Zuständig zur Festsetzung und Auszahlung der Renten von Ehepaaren ist die Ausgleichskasse, welcher die Auszahlung der Rente des Ehegatten obliegt, der das Rentenalter zuerst erreicht hat; Artikel 62 Absatz 2 bleibt vorbehalten. Der Bundesrat regelt das Verfahren.
+Zuständig für die Festsetzung und Auszahlung der Renten von Ehepaaren ist die Ausgleichskasse, welcher die Auszahlung der Rente des Ehegatten obliegt, der die Altersrente zuerst bezieht; Artikel 62 Absatz 2 bleibt vorbehalten. Der Bundesrat regelt das Verfahren.
 
-[^64a-1]: Eingefügt durch Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^64a-1]: Eingefügt durch Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision) ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)). Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 65
 
@@ -1701,37 +1877,123 @@ Zuständig zur Festsetzung und Auszahlung der Renten von Ehepaaren ist die Ausgl
 
 <sup>1</sup> Die Verbandsausgleichskassen können in einzelnen Sprachgebieten oder in Kantonen, in denen sich eine grössere Zahl ihnen angeschlossener Arbeitgeber und Selbständigerwerbender befindet, Zweigstellen errichten. Sofern in einem Sprachgebiet oder einem Kanton eine grössere Anzahl der Ausgleichskasse angeschlossener Arbeitgeber und Selbständigerwerbender dies verlangt, ist daselbst eine Zweigstelle zu errichten.
 
-<sup>2</sup> Die kantonalen Ausgleichskassen unterhalten in der Regel für jede Gemeinde eine Zweigstelle. Wo die Verhältnisse es rechtfertigen, kann für mehrere Gemeinden eine gemeinsame Zweigstelle errichtet werden.
+<sup>2</sup> Die kantonalen Ausgleichskassen können Zweigstellen errichten.[^65-1]
 
 <sup>3</sup> Die Kantonsregierungen sind befugt, für das Personal der kantonalen Verwaltungen und Betriebe sowie für die Angestellten und Arbeiter der Gemeinden Zweigstellen der kantonalen Ausgleichskasse zu errichten.
 
+[^65-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+
 #### Art. 66
 
-**Stellung der Kassen‑, Revisions- und Kontrollorgane**
+**Risiko- und Qualitätsmanagement, internes Kontrollsystem**[^66-1]
 
-<sup>1</sup> …[^66-1]
+<sup>1</sup> Die Ausgleichskassen erfassen, begrenzen und überwachen die wesentlichen Risiken (Risikomanagement).
 
-<sup>2</sup> Der Kassenleiter einer Verbandsausgleichskasse sowie sein Stellvertreter dürfen in keinem Dienstverhältnis zu den Gründerverbänden stehen.
+<sup>2</sup> Sie betreiben ein Qualitätsmanagementsystem und richten ein internes Kontrollsystem ein. Beide sind angemessen auf ihre Grösse und den Umfang ihrer Aufgaben auszurichten.
 
-[^66-1]: Aufgehoben durch Anhang Ziff. 7 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+<sup>3</sup> Der Bundesrat kann Vorschriften zu den Mindestanforderungen erlassen, die das Risikomanagement, das Qualitätsmanagement und das interne Kontrollsystem erfüllen müssen.
+
+[^66-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)). Siehe auch die SchlB am Schluss dieses Textes.
+
+#### Art. 66a
+
+**Gewähr für eine einwandfreie Geschäftstätigkeit**[^66a-1]
+
+Folgende Personen müssen einen guten Ruf geniessen, Gewähr für eine einwandfreie Geschäftstätigkeit bieten und ihre Interessenbindungen offenlegen:
+
+- a. die Mitglieder des Kassenvorstandes einer Verbandsausgleichskasse;
+- b. die Mitglieder der Verwaltungskommission einer kantonalen Ausgleichskasse;
+- c. der Kassenleiter, seine Stellvertretung sowie die weiteren Personen, die mit Geschäftsleitungsaufgaben betraut sind.
+
+[^66a-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+
+#### Art. 66b
+
+**Berichterstattung der Ausgleichskasse**[^66b-1]
+
+Die Ausgleichskassen legen der Aufsichtsbehörde jährlich einen Geschäftsbericht vor und stellen ihr die für die Ausübung der Aufsicht erforderlichen Kennzahlen zur Verfügung.
+
+[^66b-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 67
 
-**Abrechnungs- und Zahlungsverkehr; Buchführung**
+**Rechnungslegung**[^67-1]
 
-Über den Abrechnungs- und Zahlungsverkehr der Ausgleichskassen mit den angeschlossenen Arbeitgebern, Selbständigerwerbenden, Nichterwerbstätigen und Rentenbezügern einerseits und mit der Zentralen Ausgleichsstelle anderseits sowie über die Buchführung der Ausgleichskassen erlässt der Bundesrat die erforderlichen Vorschriften.
+<sup>1</sup> Für die Rechnungslegung der Ausgleichskassen gilt der Grundsatz der Transparenz.
+
+<sup>2</sup>
+
+Der Bundesrat erlässt Vorschriften über die Art und Weise, wie die Transparenz gewährleistet werden muss. Er regelt insbesondere, wie:
+
+- a. der Abrechnungs- und Zahlungsverkehr der Ausgleichskassen mit den angeschlossenen Arbeitgebern, Selbstständigerwerbenden, Nichterwerbstätigen und Rentenbezügern einerseits und mit der Zentralen Ausgleichsstelle andererseits zu gestalten ist;
+- b. die Verwaltungskosten und ihre Finanzierung auszuweisen sind;
+- c. die Buchführung und die Rechnungslegung der Ausgleichskassen zu gestalten sind;
+- d. die Buchführung und die Rechnungslegung der kantonalen Sozialversicherungsanstalt, der nach Artikel 61 Absatz 1<sup>bis</sup> eine kantonale Ausgleichskasse angeschlossen ist, zu gestalten sind.
+
+[^67-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)). Siehe auch die SchlB am Schluss dieses Textes.
 
 #### Art. 68
 
-**Kassenrevisionen und Arbeitgeberkontrollen**
+**Anforderungen an die Revisionsstelle und den leitenden Revisor**[^68-1]
 
-<sup>1</sup> Jede Ausgleichskasse einschliesslich ihrer Zweigstelle ist periodisch zu revidieren. Die Revision hat sich auf die Buchhaltung und die Geschäftsführung zu erstrecken. Sie hat durch eine den Anforderungen des Absatzes 3 entsprechende Revisionsstelle zu erfolgen. Die Kantone können die Revision ihrer Ausgleichskasse einer geeigneten kantonalen Kontrollstelle übertragen. Der Bundesrat ist befugt, nötigenfalls ergänzende Revisionen vornehmen zu lassen.
+<sup>1</sup> Jede Ausgleichskasse, einschliesslich der Zweigstellen, muss von einem nach dem Revisionsaufsichtsgesetz vom 16. Dezember 2005[^68-2] (RAG) als Revisionsexperte zugelassenen Revisionsunternehmen revidiert werden.
 
-<sup>2</sup> Die der Ausgleichskasse angeschlossenen Arbeitgeber sind periodisch auf die Einhaltung der gesetzlichen Bestimmungen hin zu kontrollieren. Die Kontrolle hat durch eine den Anforderungen des Absatzes 3 entsprechende Revisionsstelle oder durch eine besondere Abteilung der Ausgleichskasse zu erfolgen. Werden die vorgeschriebenen Arbeitgeberkontrollen nicht oder nicht ordnungsgemäss durchgeführt, so ordnet der Bundesrat ihre Vornahme auf Kosten der betreffenden Ausgleichskasse an.
+<sup>2</sup> Als leitender Revisor tätig sein dürfen natürliche Personen, die als Revisionsexperten nach dem RAG zugelassen sind.
 
-<sup>3</sup> Die gemäss den Absätzen 1 und 2 für die Durchführung der Kassenrevisionen und Arbeitgeberkontrollen vorgesehenen Revisionsstellen dürfen an der Kassenführung nicht beteiligt sein und für die Gründerverbände keine ausserhalb der Kassenrevisionen und der Arbeitgeberkontrollen stehenden Aufträge ausführen; sie müssen ausschliesslich der Revisionstätigkeit obliegen und in jeder Beziehung für eine einwandfreie und sachgemässe Durchführung der Revisionen und Kontrollen Gewähr bieten.
+<sup>3</sup> Für die Unabhängigkeit der Revisionsstelle gilt sinngemäss Artikel 728 des Obligationenrechts[^68-3] mit Ausnahme der Absätze 2 Ziffer 2 und 6 bezüglich der zu prüfenden Gesellschaft (erster Halbsatz). Der Bundesrat kann weitere Kriterien für die Unvereinbarkeit mit dem Prüfmandat der Revisionsstelle festlegen.
 
-<sup>4</sup> Der Bundesrat erlässt die näheren Vorschriften über die Zulassung von Revisionsstellen sowie über die Durchführung der Kassenrevisionen und Arbeitgeberkontrollen.
+<sup>4</sup> Der Bundesrat erlässt nähere Vorschriften über die Anforderungen an die Revisionsstelle und den leitenden Revisor, die über die Zulassungsvoraussetzungen nach den Absätzen 1 und 2 hinausgehen.
+
+<sup>5</sup> Ist eine Ausgleichskasse einer kantonalen Sozialversicherungsanstalt angeschlossen, so muss die Revisionsstelle dieser Sozialversicherungsanstalt die Voraussetzungen der Absätze 1–4 erfüllen und auch die Ausgleichskasse revidieren.
+
+[^68-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^68-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^68-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 68a
+
+**Aufgaben der Revisionsstelle**[^68a-1]
+
+<sup>1</sup> Die Revisionsstelle prüft, ob die Jahresrechnung nach Massgabe von Artikel 67 erstellt wurde.
+
+<sup>2</sup>
+
+Zusätzlich prüft sie, ob:
+
+- a. die Buchführung den gesetzlichen Bestimmungen entspricht;
+- b. die Organisation und die Geschäftsführung den gesetzlichen Bestimmungen entsprechen;
+- c. die Informationssysteme die Anforderungen nach Artikel 72*a* Absatz 2 Buchstaben b erfüllen;
+- d. das Risikomanagement, das Qualitätsmanagementsystem und das interne Kontrollsystem die Anforderungen nach Artikel 66 erfüllen;
+- e. die Wahrnehmung der übertragenen Aufgaben nach Artikel 63*a* Absatz 1 der Genehmigung des Bundesrates entspricht.
+
+<sup>3</sup> Sie erstattet der Aufsichtsbehörde nach deren Weisungen über die Revision Bericht. Ist die Ausgleichskasse einer kantonalen Sozialversicherungsanstalt angeschlossen, so muss die Revisionsstelle der Aufsichtsbehörde auch den Bericht über die Revision der Sozialversicherungsanstalt einreichen.
+
+<sup>4</sup> Sie meldet der Aufsichtsbehörde unverzüglich, wenn sie Straftaten, schwerwiegende Unregelmässigkeiten oder Verstösse gegen die Grundsätze einer einwandfreien Geschäftstätigkeit feststellt.
+
+<sup>5</sup> Der Bundesrat kann die Aufsichtsbehörde mit dem Erlass näherer Vorschriften über die Durchführung der Revisionen beauftragen. Die Ausgleichskassen sind zu diesen Vorschriften anzuhören.
+
+[^68a-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+
+#### Art. 68b
+
+**Arbeitgeberkontrolle**[^68b-1]
+
+<sup>1</sup>
+
+Die Ausgleichskasse kontrolliert ihre angeschlossenen Arbeitgeber periodisch auf die Einhaltung der gesetzlichen Bestimmungen hin. Sie kann die Kontrolle durch folgende Stellen durchführen lassen:
+
+- a. ein Revisionsunternehmen und einen leitenden Revisor, welche die Anforderungen von Artikel 68 erfüllen;
+- b. eine besondere Abteilung der Ausgleichskasse oder eine Fachorganisation der Ausgleichskassen;
+- c. einen Versicherungsträger oder ein Durchführungsorgan einer Sozialversicherung nach dem ATSG[^68b-2].
+
+<sup>2</sup> Die mit der Durchführung der Arbeitgeberkontrolle betrauten Stellen haben der Ausgleichskasse Bericht zu erstatten.
+
+<sup>3</sup> Sie melden der Ausgleichskasse unverzüglich, wenn sie Straftaten oder schwerwiegende Unregelmässigkeiten feststellen.
+
+<sup>4</sup> Der Bundesrat kann die Aufsichtsbehörde mit dem Erlass näherer Vorschriften über die Durchführung der Arbeitgeberkontrolle beauftragen.
+
+[^68b-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^68b-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 69
 
@@ -1745,11 +2007,12 @@ Zuständig zur Festsetzung und Auszahlung der Renten von Ehepaaren ist die Ausgl
 
 <sup>3</sup> Die Verwaltungskostenbeiträge gemäss Absatz 1 und die Zuschüsse gemäss Absatz 2 sind ausschliesslich zur Deckung der Verwaltungskosten der Ausgleichskassen und ihrer Zweigstellen sowie zur Deckung der Revisions- und Kontrollkosten zu verwenden. Die Ausgleichskassen haben darüber besonders Buch zu führen.
 
-<sup>4</sup> Über die Deckung der Verwaltungskosten paritätischer Verbandsausgleichskassen können die Gründerverbände besondere Vereinbarungen treffen, die im Kassenreglement niederzulegen sind.
+<sup>4</sup> …[^69-4]
 
 [^69-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^69-2]: [SR 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
 [^69-3]: Eingefügt durch Anhang Ziff. 6 des BG vom 17. Juni 2005 gegen die Schwarzarbeit, in Kraft seit 1. Jan. 2008 ([AS 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [BBl 2002 3605](https://fedlex.data.admin.ch/eli/fga/2002/520)).
+[^69-4]: Aufgehoben durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), mit Wirkung seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 70
 
@@ -1788,19 +2051,21 @@ Die Schadenersatzforderung erlischt:
 
 <sup>3</sup> Die Zentrale Ausgleichsstelle sorgt dafür, dass die sich aus den Abrechnungen ergebenden Saldi von den Ausgleichskassen dem AHV-Ausgleichsfonds überwiesen bzw. aus diesem den Ausgleichskassen vergütet werden. Zu diesem Zweck sowie zur Gewährung von Vorschüssen an die Ausgleichskassen ist sie befugt, direkt Anweisungen auf den AHV-Ausgleichsfonds auszustellen.
 
-<sup>4</sup>
+<sup>4</sup> Die Zentrale Ausgleichsstelle ist für den Betrieb und die Weiterentwicklung des Registers der laufenden Geldleistungen (Art. 49*c*) und des Versichertenregisters (Art. 49*d*) zuständig.[^71-3]
 
-Die Zentrale Ausgleichsstelle führt:
+<sup>4bis</sup> Sie kann auf Antrag und in Zusammenarbeit mit den Fachorganisationen der Durchführungsstellen der Alters- und Hinterlassenenversicherung, der Invalidenversicherung, der Erwerbsausfallentschädigung und der Familienzulagen in der Landwirtschaft ein Informationssystem entwickeln und betreiben, das die Übermittlung von Daten durch die Versicherten an die Durchführungsstellen und den Austausch von Daten zwischen den Durchführungsstellen ermöglicht.[^71-4]
 
-- a. ein zentrales Versichertenregister, worin die den Versicherten zugewiesenen AHV-Nummern, die ausländischen Versichertennummern, die für die Durchführung internationaler Sozialversicherungsabkommen notwendig sind, und die Ausgleichskassen, die für eine versicherte Person ein individuelles Konto führen, erfasst sind;
-- b. ein zentrales Register der laufenden Leistungen, einschliesslich der Angaben über die Gewährung ausländischer Renten, worin die Geldleistungen erfasst sind und das dazu dient, ungerechtfertigte Zahlungen zu vermeiden, die Anpassung der Leistungen zu erleichtern und den Ausgleichskassen Todesfälle zu melden.[^71-3]
+<sup>5</sup> Die Zentrale Ausgleichsstelle sorgt dafür, dass bei Eintritt eines Rentenfalles alle individuellen Konten der versicherten Person berücksichtigt werden.[^71-5]
 
-<sup>5</sup> Die Zentrale Ausgleichsstelle sorgt dafür, dass bei Eintritt eines Rentenfalles alle individuellen Konten der versicherten Person berücksichtigt werden.[^71-4]
+<sup>6</sup> Die Zentrale Ausgleichsstelle vervollständigt und beantwortet die Informationsanfragen, die ihr von der Zentralstelle 2. Säule nach Artikel 58*a* des Bundesgesetzes vom 25. Juni 1982[^71-6] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG) übermittelt werden.[^71-7]
 
 [^71-1]: Eingefügt durch Anhang Ziff. II 4 des Ausgleichsfondsgesetzes vom 16. Juni 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [BBl 2016 311](https://fedlex.data.admin.ch/eli/fga/2016/68)).
 [^71-2]: Ausdruck gemäss Ziff. II Bst. b des BG vom 4. Okt. 1968, in Kraft seit 1. Jan. 1969 ([AS 1969 111](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [BBl 1968 I 602](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
-[^71-3]: Fassung gemäss Anhang Ziff. 1 des BG vom 21. Juni 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [BBl 2018 1607](https://fedlex.data.admin.ch/eli/fga/2018/671)).
-[^71-4]: Eingefügt durch Ziff. I des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^71-3]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^71-4]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^71-5]: Eingefügt durch Ziff. I des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^71-6]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^71-7]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 71a
 
@@ -1814,21 +2079,48 @@ Für die Haftung gilt Artikel 70 Absätze 1–3 sinngemäss.
 
 #### Art. 72
 
-**Aufsichtsbehörde**
+**Aufsichtsbehörde**[^72-1]
 
-<sup>1</sup> Zwecks Wahrnehmung seiner Aufsichtsfunktion nach Artikel 76 ATSG[^72-1] kann der Bundesrat das zuständige Bundesamt beauftragen, den mit der Durchführung der Versicherung betrauten Stellen für den einheitlichen Vollzug Weisungen zu erteilen. Ferner kann er das Bundesamt ermächtigen, verbindliche Tabellen zur Berechnung von Beiträgen und Leistungen aufzustellen.[^72-2]
+Der Bundesrat bezeichnet die Aufsichtsbehörde.
 
-<sup>2</sup> Kassenfunktionäre, die ihre Obliegenheiten nicht ordnungsgemäss erfüllen, sind in Fällen schwerer Pflichtverletzung auf Verlangen des Bundesrates von den Kantonen bzw. vom Kassenvorstand ihrer Stellung zu entheben.
+[^72-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
-<sup>3</sup> In Fällen wiederholter schwerer Missachtung der gesetzlichen Vorschriften durch eine Ausgleichskasse kann der Bundesrat deren kommissarische Verwaltung anordnen. Vorbehalten bleibt die Auflösung einer Verbandsausgleichskasse gemäss Artikel 60.
+#### Art. 72a
 
-<sup>4</sup> Die Ausgleichskassen haben dem Bundesrat periodisch in einheitlicher, von ihm vorgeschriebener Form über ihre Geschäftsführung Bericht zu erstatten. Die Revisions- und Kontrollstellen haben dem Bundesrat nach dessen Weisungen über die von ihnen gemäss Artikel 68 vorgenommenen Kassenrevisionen und Arbeitgeberkontrollen Bericht zu erstatten. Der Bundesrat veranlasst die Behebung festgestellter Mängel.
+**Aufgaben der Aufsichtsbehörde**[^72a-1]
 
-<sup>5</sup> Die Durchführungsorgane stellen dem Bundesrat jährlich die erforderlichen statistischen Angaben zur Verfügung.[^72-3]
+<sup>1</sup> Die Aufsichtsbehörde überwacht den Vollzug dieses Gesetzes, um eine qualitativ hochstehende und einheitliche Durchführung der Alters- und Hinterlassenenversicherung sicherzustellen.
 
-[^72-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^72-2]: Fassung gemäss Anhang Ziff. 7 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^72-3]: Eingefügt durch Ziff. I des BG vom 24. Juni 1977 (9. AHV-Revision), in Kraft seit 1. Jan. 1979 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
+<sup>2</sup>
+
+Insbesondere erfüllt sie folgende Aufgaben:
+
+- a. Sie wertet die Berichte der Revisionsstellen und die Geschäftsberichte der Ausgleichskassen systematisch aus und leitet allenfalls die erforderlichen Massnahmen ein.
+- b. Sie legt nach Anhörung der Durchführungsstellen Anforderungen an die Informationssicherheit und den Datenschutz fest, welche nach Artikel 49*a* Absatz 2 von den Informationssystemen gewährleistet werden müssen.
+- c. Sie erlässt Weisungen, die den einheitlichen Vollzug sicherstellen.
+- d. Sie erlässt Weisungen zur Berechnung von Beiträgen und Leistungen.
+- e. Sie holt Kennzahlen bei den Ausgleichskassen und der Zentralen Ausgleichsstelle ein und erstellt Statistiken.
+
+[^72a-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+
+#### Art. 72b
+
+**Massnahmen der Aufsichtsbehörde**[^72b-1]
+
+Die Aufsichtsbehörde kann:
+
+- a. von den Ausgleichskassen alle für die Aufsichtstätigkeit notwendigen Auskünfte oder Unterlagen verlangen;
+- b. einer Ausgleichskasse im Einzelfall Zielvorgaben machen;
+- c. einer Ausgleichskasse im Einzelfall Weisungen erteilen;
+- d. auf Kosten der Ausgleichskasse eine Arbeitgeberkontrolle anordnen;
+- e. eine ergänzende Revision durchführen oder auf Kosten der Ausgleichskasse eine ergänzende Revision anordnen;
+- f. vom zuständigen Wahlorgan verlangen, dass Verantwortungsträger im Sinne von Artikel 66*a,* welche keine Gewähr für eine einwandfreie Geschäftstätigkeit bieten, abberufen werden;
+- g. vom zuständigen Wahlorgan verlangen, dass der Kassenleiter, seine Stellvertretung und die weiteren Personen, die mit Geschäftsleitungsaufgaben betraut sind, ermahnt, verwarnt oder in Fällen schwerer Pflichtverletzung abberufen werden, wenn sie ihre Obliegenheiten nicht ordnungsgemäss erfüllen;
+- h. in Fällen wiederholter schwerer Missachtung der gesetzlichen Vorschriften eine kommissarische Verwaltung der Ausgleichskasse anordnen;
+- i. in begründeten Fällen vom zuständigen Wahlorgan die Abberufung der Revisionsstelle verlangen;
+- j. die Ausrichtung allfälliger Zuschüsse aus dem AHV-Ausgleichsfonds einstellen.
+
+[^72b-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 73
 
@@ -1991,7 +2283,7 @@ Die Urteile sowie die Einstellungsverfügungen sind in vollständiger Ausführun
 
 Die Zentrale Ausgleichstelle gleicht die ihr gemeldeten Taggeldbezüge der Arbeitslosenversicherung mit den ihr von den Ausgleichskassen gemeldeten Einträgen in den individuellen Konten ab. Stellt sie dabei fest, dass eine Person, die ein Taggeld der Arbeitslosenversicherung bezogen hat, für die gleiche Periode ein Einkommen aus Erwerbstätigkeit erzielt hat, so meldet sie dies von Amtes wegen der zuständigen Stelle der Arbeitslosenversicherung zur weiteren Abklärung.
 
-[^93-1]: Aufgehoben durch Anhang Ziff. 7 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523). Fassung gemäss Anhang Ziff. 6 des BG vom 17. Juni 2005 gegen die Schwarzarbeit, in Kraft seit 1. Jan. 2008 ([AS 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [BBl 2002 3605](https://fedlex.data.admin.ch/eli/fga/2002/520)).
+[^93-1]: Fassung gemäss Anhang Ziff. 6 des BG vom 17. Juni 2005 gegen die Schwarzarbeit, in Kraft seit 1. Jan. 2008 ([AS 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [BBl 2002 3605](https://fedlex.data.admin.ch/eli/fga/2002/520)).
 
 #### Art. 93<sup>bis</sup>
 
@@ -2013,37 +2305,30 @@ Die Zentrale Ausgleichstelle gleicht die ihr gemeldeten Taggeldbezüge der Arbei
 
 #### Art. 95
 
-**Kostenübernahme und Posttaxen**[^95-1]
+**Vergütung und Übernahme der Kosten**[^95-1]
 
 <sup>1</sup>
 
-Der AHV-Ausgleichsfonds vergütet dem Bund die Kosten:
+Der AHV-Ausgleichfonds vergütet dem Bund die Kosten:
 
-- a. der Verwaltung des AHV-Ausgleichsfonds;
-- b. der Zentralen Ausgleichsstelle; sowie
-- c. der in Artikel 62 Absatz 2 genannten Ausgleichskasse für die Durchführung der Alters- und Hinterlassenenversicherung. Die Kosten für die Durchführung der freiwilligen Versicherung werden nur bis zu demjenigen Betrag vergütet, welcher durch die Verwaltungskostenbeiträge nicht gedeckt ist.[^95-2] [^95-3]
+- a. der Zentralen Ausgleichsstelle;
+- b. der in Artikel 62 Absatz 2 genannten Ausgleichskasse für die Durchführung der Alters- und Hinterlassenenversicherung; die Kosten für die Durchführung der freiwilligen Versicherung werden nur bis zu dem Betrag vergütet, der durch die Verwaltungskostenbeiträge nicht gedeckt ist;
+- c. die ihm aus der Wahrnehmung der Aufsicht, der Durchführung der Alters- und Hinterlassenenversicherung und einer allgemeinen Information der Versicherten über die Beiträge und Leistungen der Versicherung erwachsen;
+- d. die ihm für wissenschaftliche Auswertungen entstehen, die er im Zusammenhang mit der Umsetzung und der Überprüfung der Wirksamkeit dieses Gesetzes erstellt oder erstellen lässt, um die Durchführung der Versicherung zu verbessern; und
+- e. die ihm aus der Vollzugs- und Aufsichtstätigkeit im Zusammenhang mit der Beitragsgewährung nach Artikel 101<sup>bis</sup> entstehen.
 
-<sup>1bis</sup> Der AHV-Ausgleichsfonds vergütet dem Bund überdies die weiteren Kosten, die ihm aus der Wahrnehmung der Aufsicht, der Durchführung der Alters- und Hinterlassenenversicherung und einer allgemeinen Information der Versicherten über die Beiträge und Leistungen der Versicherung erwachsen.[^95-4] Der Bundesrat legt nach Anhörung des Verwaltungsrates des AHV-Ausgleichsfonds den Betrag fest, der für die Information der Versicherten verwendet werden darf.[^95-5] [^95-6]
+<sup>2</sup> Der AHV-Ausgleichsfonds vergütet der Zentralen Ausgleichsstelle im Rahmen von Absatz 1 Buchstabe a die durch den Betrieb und die Weiterentwicklung des Registers der laufenden Geldleistungen, des Versichertenregisters sowie des Informationssystems nach Artikel 71 Absatz 4<sup>bis</sup> entstehenden Kosten.
 
-<sup>1ter</sup> Der AHV-Ausgleichsfonds übernimmt zudem die Kosten des Bundes für wissenschaftliche Auswertungen, die dieser im Zusammenhang mit der Umsetzung und der Überprüfung der Wirksamkeit dieses Gesetzes erstellt oder erstellen lässt, um die Durchführung der Versicherung zu verbessern.[^95-7]
+<sup>3</sup>
 
-<sup>1quater</sup> Der AHV-Ausgleichsfonds übernimmt auf Ersuchen des zuständigen Bundesamtes die Kosten für die Entwicklung von kassenübergreifenden Informatikanwendungen, die sowohl für die Ausgleichskassen als auch für die Versicherten und die Arbeitgeber Erleichterungen bringen.[^95-8]
+Er übernimmt:
 
-<sup>2</sup> Der AHV-Ausgleichsfonds übernimmt die Posttaxen, die sich aus der Durchführung der Alters- und Hinterlassenenversicherung ergeben.[^95-9] Sie werden der Post pauschal vergütet. Der Bundesrat erlässt Vorschriften über den Umfang der Pauschalfrankatur.
+- a. die Kosten für die Entwicklung und den Betrieb von gesamtschweizerisch anwendbaren Informationssystemen, sofern sie für die Ausgleichskassen, die Versicherten oder die Arbeitgeber Erleichterungen bringen;
+- b. die ausgewiesenen Posttaxen, die sich aus der Durchführung der Alters- und Hinterlassenenversicherung ergeben.
 
-<sup>3</sup> Die Kosten, die der Zentralen Ausgleichsstelle bei der Durchführung des Bundesgesetzes vom 20. Juni 1952[^95-10] über die Familienzulagen in der Landwirtschaft erwachsen, sowie die Aufwendungen für die Pauschalfrankatur werden nach Massgabe der Artikel 18 Absatz 4 und 19 des genannten Gesetzes gedeckt.[^95-11]
+<sup>4</sup> Der Bundesrat erlässt Vorschriften über den Umfang der Aufwendungen, die durch den AHV-Ausgleichsfonds übernommen werden, und legt den Betrag fest, der für die allgemeine Information der Versicherten verwendet werden darf.
 
-[^95-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 1953, in Kraft seit 1. Jan. 1954 ([AS 1954 211](https://fedlex.data.admin.ch/eli/oc/1954/211_217_102); [BBl 1953 II 81](https://fedlex.data.admin.ch/eli/fga/1953/2_81_73_449)).
-[^95-2]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^95-3]: Satz eingefügt durch Ziff. I des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [BBl 1999 4983](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
-[^95-4]: Fassung gemäss Ziff. I 11 des BG vom 17. März 2017 über das Stabilisierungsprogramm 2017–2019, in Kraft seit 1. Jan. 2018 ([AS 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [BBl 2016 4691](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
-[^95-5]: Deutsche Fassung von der Redaktionskommission der BVers berichtigt (Art. 58 Abs. 1 ParlG – [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^95-6]: Eingefügt durch Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^95-7]: Eingefügt durch Ziff. I des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^95-8]: Eingefügt durch Ziff. I des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^95-9]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^95-10]: [SR 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
-[^95-11]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^95-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 95a
 
@@ -2136,66 +2421,40 @@ Die Versicherung kann gesamtschweizerisch tätigen gemeinnützigen privaten Inst
 Die Leistungen der Alters- und Hinterlassenenversicherung werden finanziert durch:
 
 - a. die Beiträge der Versicherten und der Arbeitgeber;
-- b.[^102-3] Beitrag des Bundes;
-- c. die Zinsen des AHV-Ausgleichsfonds;
-- d.[^102-4] die Einnahmen aus dem Rückgriff auf haftpflichtige Dritte.
+- b.[^102-3] den Beitrag des Bundes;
+- c.[^102-4] die Vermögenserträge des AHV-Ausgleichsfonds;
+- d.[^102-5] die Einnahmen aus dem Rückgriff auf haftpflichtige Dritte;
+- e.[^102-6] die Erträge zugunsten der Versicherung aus der Erhöhung der Mehrwertsteuersätze nach Artikel 130 Absätze 3 und 3<sup>ter</sup> BV;
+- f.[^102-7] den Ertrag aus der Spielbankenabgabe.
 
-<sup>2</sup> Die Hilflosenentschädigung wird ausschliesslich durch den Bund finanziert.[^102-5]
+<sup>2</sup> Die Hilflosenentschädigung wird ausschliesslich durch den Bund finanziert.[^102-8]
 
-[^102-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 1963 ([AS 1964 285](https://fedlex.data.admin.ch/eli/oc/1964/285_277_277); [BBl 1963 II 517](https://fedlex.data.admin.ch/eli/fga/1963/2_517_497_1209)).
+[^102-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 1963, in Kraft seit 1. Jan. 1964 ([AS 1964 285](https://fedlex.data.admin.ch/eli/oc/1964/285_277_277); [BBl 1963 II 517](https://fedlex.data.admin.ch/eli/fga/1963/2_517_497_1209)).
 [^102-2]: Fassung gemäss Ziff. II Bst. c des BG vom 4. Okt. 1968, in Kraft seit 1. Jan. 1969 ([AS 1969 111](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [BBl 1968 I 602](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
-[^102-3]: Fassung gemäss Ziff. I 1 des BG vom 5. Okt. 1984, in Kraft seit 1. Jan. 1986 ([AS 1985 2002](https://fedlex.data.admin.ch/eli/oc/1985/2002_2002_2002); [BBl 1981 III 737](https://fedlex.data.admin.ch/eli/fga/1981/3_737_705_677)).
-[^102-4]: Eingefügt durch Ziff. I 1 des BG vom 5. Okt. 1984, in Kraft seit 1. Jan. 1986 ([AS 1985 2002](https://fedlex.data.admin.ch/eli/oc/1985/2002_2002_2002); [BBl 1981 III 737](https://fedlex.data.admin.ch/eli/fga/1981/3_737_705_677)).
-[^102-5]: Aufgehoben durch Ziff. I des BG vom 4. Okt. 1968 ([AS 1969 111](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [BBl 1968 I 602](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)). Fassung gemäss Ziff. II 24 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^102-3]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^102-4]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^102-5]: Eingefügt durch Ziff. I 1 des BG vom 5. Okt. 1984, in Kraft seit 1. Jan. 1986 ([AS 1985 2002](https://fedlex.data.admin.ch/eli/oc/1985/2002_2002_2002); [BBl 1981 III 737](https://fedlex.data.admin.ch/eli/fga/1981/3_737_705_677)).
+[^102-6]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^102-7]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^102-8]: Fassung gemäss Ziff. II 24 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 #### Art. 103
 
 **Bundesbeitrag**[^103-1]
 
-<sup>1</sup> Der Bundesbeitrag beläuft sich auf 19,55 Prozent der jährlichen Ausgaben der Versicherung; davon wird der Beitrag an die Hilflosenentschädigung nach Artikel 102 Absatz 2 abgezogen.[^103-2]
+Der Bundesbeitrag beläuft sich auf 20,2 Prozent der jährlichen Ausgaben der Versicherung; davon wird der Beitrag an die Hilflosenentschädigung nach Artikel 102 Absatz 2 abgezogen.
 
-<sup>1bis</sup>
-
-Der Bundesbeitrag nach Absatz 1 wird erhöht. Die Erhöhung entspricht:
-
-- a.
-
-  den geschätzten statischen steuerlichen Auswirkungen für Bund, Kantone und Gemeinden bei:
-
-  - 1\. der Gewinnsteuer,
-  - 2\. dem Abzug für die Eigenfinanzierung und den Anpassungen bei der Kapitalsteuer,
-  - 3\. der Dividendenbesteuerung, und
-  - 4\. dem Kapitaleinlageprinzip;
-
-- b.
-
-  vermindert um:
-
-  - 1\. die Mehreinnahmen aus der Erhöhung des AHV-Beitragssatzes, und
-  - 2\. die Höhe des Bundesanteils am Demografieprozent zugunsten der AHV.[^103-3]
-
-<sup>1ter</sup> Die Erhöhung wird auf Zwanzigstel eines Prozentpunktes gerundet.[^103-4]
-
-<sup>1quater</sup> Die Erhöhung wird gestützt auf die Schätzung der Werte im Zeitpunkt der Verabschiedung des Bundesgesetzes vom 28. September 2018[^103-5] über die Steuerreform und die AHV-Finanzierung festgelegt.[^103-6]
-
-<sup>2</sup> Zusätzlich überweist der Bund der Versicherung den Ertrag aus der Spielbankenabgabe.
-
-[^103-1]: Fassung gemäss Ziff. II 24 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)). Siehe auch die UeB dieser Änd. am Ende dieses Textes.
-[^103-2]: Fassung gemäss Ziff. I 4 des BG vom 22. Juni 2007 über den Übergang zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5953](https://fedlex.data.admin.ch/eli/oc/2007/795); [BBl 2007 645](https://fedlex.data.admin.ch/eli/fga/2007/88)).
-[^103-3]: Eingefügt durch Ziff. I 5 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^103-4]: Eingefügt durch Ziff. I 5 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^103-5]: [AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)
-[^103-6]: Eingefügt durch Ziff. I 5 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+[^103-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 104
 
-**Deckung des Bundesbeitrages**[^104-1]
+**Finanzierung des Bundesbeitrags**[^104-1]
 
-<sup>1</sup> Der Bund leistet seinen Beitrag vorab aus dem Ertrag der Abgaben auf Tabak und gebrannten Wassern. Er entnimmt ihn der Rückstellung nach Artikel 111.
+<sup>1</sup> Zur Finanzierung des Bundesbeitrags werden zuerst die Erträge aus der Belastung des Tabaks und der gebrannten Wasser verwendet.
 
-<sup>2</sup> Der Rest wird aus allgemeinen Mitteln gedeckt.
+<sup>2</sup> Der fehlende Betrag wird mit allgemeinen Mitteln gedeckt.
 
-[^104-1]: Fassung gemäss Ziff. I 1 des BG vom 5. Okt. 1984, in Kraft seit 1. Jan. 1986 ([AS 1985 2002](https://fedlex.data.admin.ch/eli/oc/1985/2002_2002_2002); [BBl 1981 III 737](https://fedlex.data.admin.ch/eli/fga/1981/3_737_705_677)).
+[^104-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 105 und 106
 
@@ -2241,19 +2500,13 @@ Die Verwaltung des AHV-Ausgleichsfonds richtet sich nach dem Ausgleichsfondsgese
 
 [^110-1]: Aufgehoben durch Anhang Ziff. II 4 des Ausgleichsfondsgesetzes vom 16. Juni 2017, mit Wirkung seit 1. Jan. 2019 ([AS 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [BBl 2016 311](https://fedlex.data.admin.ch/eli/fga/2016/68)).
 
-### Dritter Abschnitt: Die Rückstellung des Bundes
-
-[^part2-chap3-1]
-
-[^part2-chap3-1]: Fassung gemäss Ziff. I des BG vom 24. Juni 1977 (9. AHV-Revision), in Kraft seit 1. Jan. 1979 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
+### Dritter Abschnitt: …
 
 #### Art. 111
 
 [^111-1]
 
-Die Erträge aus der Belastung des Tabaks und der gebrannten Wasser werden laufend der Rückstellung des Bundes für die Alters-, Hinterlassenen- und Invalidenversicherung gutgeschrieben. Die Rückstellung wird nicht verzinst.
-
-[^111-1]: Fassung gemäss Ziff. I des BG vom 24. Juni 1977 (9. AHV-Revision), in Kraft seit 1. Jan. 1979 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
+[^111-1]: Aufgehoben durch Ziff. I des BG vom 17. Dez. 2021 (AHV 21), mit Wirkung seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 112
 
@@ -2653,11 +2906,12 @@ Artikel 18 Absatz 2 gilt auch für Versicherungsfälle, die vor dem 1. Januar 19
 
 [^u10-1]: [AS 2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178); [BBl 2004 5891](https://fedlex.data.admin.ch/eli/fga/2004/1081)[6565](https://fedlex.data.admin.ch/eli/fga/2004/1105)
 
-<sup>1</sup> Personen, die in der Tschechischen Republik, in Estland, Zypern, Lettland, Litauen, Ungarn, Malta, Polen, Slowenien oder in der Slowakischen Republik leben und bei Inkrafttreten des Protokolls vom 26. Oktober 2004[^u10-2] über die Ausdehnung des Freizügigkeitsabkommens auf die neuen EG-Mitgliedstaaten der freiwilligen Versicherung angehören, können ihr ab dem Zeitpunkt des Inkrafttretens dieses Protokolls während höchstens sechs aufeinander folgender Jahre weiterhin angeschlossen bleiben. Personen, die bei Inkrafttreten dieser Änderung das 50. Altersjahr bereits vollendet haben, können die Versicherung bis zu ihrem Eintritt in das ordentliche Rentenalter weiterführen.
+<sup>1</sup> Personen, die in der Tschechischen Republik, in Estland, Zypern, Lettland, Litauen, Ungarn, Malta, Polen, Slowenien oder in der Slowakischen Republik leben und bei Inkrafttreten des Protokolls vom 26. Oktober 2004[^u10-2] über die Ausdehnung des Freizügigkeitsabkommens auf die neuen EG-Mitgliedstaaten der freiwilligen Versicherung angehören, können ihr ab dem Zeitpunkt des Inkrafttretens dieses Protokolls während höchstens sechs aufeinander folgender Jahre weiterhin angeschlossen bleiben. Personen, die bei Inkrafttreten dieser Änderung das 50. Altersjahr bereits vollendet haben, können die Versicherung bis zu ihrem Eintritt in das Referenzalter[^u10-3] weiterführen.
 
 <sup>2</sup> Laufende Fürsorgeleistungen für schweizerische Staatsangehörige in der Tschechischen Republik, in Estland, Zypern, Lettland, Litauen, Ungarn, Malta, Polen, Slowenien und in der Slowakischen Republik werden auch nach Inkrafttreten des Protokolls vom 26. Oktober 2004 über die Ausdehnung des Freizügigkeitsabkommens auf die neuen EG-Mitgliedstaaten im bisherigen Betrag ausgerichtet, solange die Empfänger die einkommensmässigen Voraussetzungen dafür erfüllen.
 
 [^u10-2]: [AS 2006 995](https://fedlex.data.admin.ch/eli/oc/2006/179)
+[^u10-3]: Ausdruck gemäss Ziff. I des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
 ## Schlussbestimmungen der Änderung vom 23. Juni 2006
 
@@ -2690,7 +2944,7 @@ Artikel 18 Absatz 2 gilt auch für Versicherungsfälle, die vor dem 1. Januar 19
 
 [^u13-1]: [AS 2009 2411](https://fedlex.data.admin.ch/eli/oc/2009/296); [BBl 2008 2135](https://fedlex.data.admin.ch/eli/fga/2008/472)
 
-<sup>1</sup> Personen, die in Bulgarien oder Rumänien leben und bei Inkrafttreten des Protokolls vom 27. Mai 2008[^u13-2] über die Ausdehnung des Freizügigkeitsabkommens vom 21. Juni 1999 auf die neuen EG-Mitgliedstaaten Bulgarien und Rumänien der freiwilligen Versicherung angehören, können ihr ab dem Zeitpunkt des Inkrafttretens dieses Protokolls während höchstens sechs aufeinanderfolgender Jahre weiterhin angeschlossen bleiben. Personen, die bei Inkrafttreten dieser Änderung das 50. Altersjahr bereits vollendet haben, können die Versicherung bis zu ihrem Eintritt ins ordentliche Rentenalter weiterführen.
+<sup>1</sup> Personen, die in Bulgarien oder Rumänien leben und bei Inkrafttreten des Protokolls vom 27. Mai 2008[^u13-2] über die Ausdehnung des Freizügigkeitsabkommens vom 21. Juni 1999 auf die neuen EG-Mitgliedstaaten Bulgarien und Rumänien der freiwilligen Versicherung angehören, können ihr ab dem Zeitpunkt des Inkrafttretens dieses Protokolls während höchstens sechs aufeinanderfolgender Jahre weiterhin angeschlossen bleiben. Personen, die bei Inkrafttreten dieser Änderung das 50. Altersjahr bereits vollendet haben, können die Versicherung bis zu ihrem Eintritt ins Referenzalter weiterführen.
 
 <sup>2</sup> Laufende Fürsorgeleistungen für schweizerische Staatsangehörige in Bulgarien und Rumänien werden auch nach Inkrafttreten des Protokolls vom 27. Mai 2008 über die Ausdehnung des Freizügigkeitsabkommens auf die neuen EG-Mitgliedstaaten Bulgarien und Rumänien im bisherigen Betrag ausgerichtet, solange die Empfänger die einkommensmässigen Voraussetzungen dafür erfüllen.
 
@@ -2712,7 +2966,7 @@ Artikel 9 Absatz 4 gilt für alle Einkommen aus selbstständiger Erwerbstätigke
 
 [^u15-1]: [AS 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [BBl 2016 2223](https://fedlex.data.admin.ch/eli/fga/2016/467)
 
-<sup>1</sup> Personen, die in Kroatien leben und bei Inkrafttreten des Protokolls vom 4. März 2016[^u15-2] zum Abkommen vom 21. Juni 1999[^u15-3] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit im Hinblick auf die Aufnahme der Republik Kroatien als Vertragspartei infolge ihres Beitritts zur Europäischen Union der freiwilligen Versicherung angehören, können ihr ab dem Zeitpunkt des Inkrafttretens dieses Protokolls während höchstens sechs aufeinanderfolgender Jahre weiterhin angeschlossen bleiben. Personen, die bei Inkrafttreten dieser Änderung das 50. Altersjahr bereits vollendet haben, können die Versicherung bis zu ihrem Eintritt ins ordentliche Rentenalter weiterführen.
+<sup>1</sup> Personen, die in Kroatien leben und bei Inkrafttreten des Protokolls vom 4. März 2016[^u15-2] zum Abkommen vom 21. Juni 1999[^u15-3] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit im Hinblick auf die Aufnahme der Republik Kroatien als Vertragspartei infolge ihres Beitritts zur Europäischen Union der freiwilligen Versicherung angehören, können ihr ab dem Zeitpunkt des Inkrafttretens dieses Protokolls während höchstens sechs aufeinanderfolgender Jahre weiterhin angeschlossen bleiben. Personen, die bei Inkrafttreten dieser Änderung das 50. Altersjahr bereits vollendet haben, können die Versicherung bis zu ihrem Eintritt ins Referenzalter weiterführen.
 
 <sup>2</sup> Laufende Fürsorgeleistungen für schweizerische Staatsangehörige in Kroatien werden auch nach Inkrafttreten dieses Protokolls im bisherigen Betrag ausgerichtet, solange die Empfänger die einkommensmässigen Voraussetzungen dafür erfüllen.
 
@@ -2726,6 +2980,50 @@ Artikel 9 Absatz 4 gilt für alle Einkommen aus selbstständiger Erwerbstätigke
 [^u16-1]: [AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)
 
 Stellen und Institutionen, welche die AHV-Nummer nach bisherigem Recht verwenden, müssen die technischen und organisatorischen Massnahmen nach Artikel 153*d* innert eines Jahres nach Inkrafttreten der Änderung vom 18. Dezember 2020 getroffen haben.
+
+## Übergangbestimmungen zur Änderung vom 17. Dezember 2021 (AHV 21)
+
+[^u17-1]
+
+[^u17-1]: [AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)
+
+a. Referenzalter der Frauen
+
+b. Berücksichtigung der nach Erreichen des Referenzalters geleisteten Beiträge
+
+Personen, die im Zeitpunkt des Inkrafttretens der Änderung vom 17. Dezember 2021 das 70. Altersjahr noch nicht vollendet haben und über das Alter von 65 Jahren hinaus Beiträge entrichtet haben, können eine Neuberechnung ihrer Rente nach Artikel 29<sup>bis</sup> Absätze 3 und 4 beantragen.
+
+c. Kürzungssätze für Frauen beim Vorbezug der Altersrente
+
+Für Altersrenten von Frauen, deren Vorbezug im Zeitpunkt des Inkrafttretens von Artikel 40*c* läuft, gilt während der Vorbezugsdauer weiterhin das bisherige Recht. Sobald die versicherte Person das Referenzalter erreicht, wird ihre Altersrente nach Artikel 29<sup>bis</sup> unter Berücksichtigung der in Artikel 40*c*[^u17-2] vorgesehenen Kürzungssätze neu berechnet.
+
+d. Vorbezugsalter
+
+Im Jahr des Inkrafttretens der Änderung vom 17. Dezember 2021 können die Frauen die Altersrente ab dem vollendeten 62. Altersjahr vorbeziehen.
+
+e. Anpassung der Erhöhungs- und Kürzungssätze
+
+Der Bundesrat legt die Erhöhungssätze gemäss Artikel 39 Absatz 3 und die Kürzungssätze gemäss Artikel 40*a* Absätze 1 und 3 frühestens auf den 1. Januar 2027 neu fest.
+
+Das Referenzalter liegt bei:
+
+- a. 64 Jahren für Frauen bis und mit Jahrgang 1960;
+- b. 64 Jahren und drei Monaten für Frauen mit Jahrgang 1961;
+- c. 64 Jahren und sechs Monaten für Frauen mit Jahrgang 1962;
+- d. 64 Jahren und neun Monaten für Frauen mit Jahrgang 1963;
+- e. 65 Jahren für Frauen ab Jahrgang 1964.
+
+[^u17-2]: In Kraft vom 1. Jan. 2025 bis 31. Dez. 2032.
+
+## Schlussbestimmungen zur Änderung vom 17. Juni 2022 (Modernisierung der Aufsicht)
+
+[^u18-1]
+
+[^u18-1]: [AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)
+
+<sup>1</sup> Die Kantone nehmen die organisatorischen Anpassungen, die sich für sie aus Artikel 61 ergeben, innert fünf Jahren nach Inkrafttreten der Änderung vom 17. Juni 2022 vor.
+
+<sup>2</sup> Die Ausgleichskassen ergreifen die erforderlichen Massnahmen, die sich für sie aus Artikel 66 ergeben, innert zwei Jahren nach Inkrafttreten dieser Änderung.
 
 Anhang
 

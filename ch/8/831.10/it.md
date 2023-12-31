@@ -4,31 +4,32 @@ title: "Legge federale del 20 dicembre 1946 sull'assicurazione per la vecchiaia 
 short: LAVS
 eli: "https://fedlex.data.admin.ch/eli/cc/63/837_843_843"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1946-12-20
 in_force: 1948-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/837_843_843/20230901/it/xml/fedlex-data-admin-ch-eli-cc-63-837_843_843-20230901-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/837_843_843/20240101/it/xml/fedlex-data-admin-ch-eli-cc-63-837_843_843-20240101-it-xml-17.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Legge federale su l’assicurazione per la vecchiaia e per i superstiti
+# Legge federale sull’assicurazione per la vecchiaia e per i superstiti
 
-(LAVS)[^t-1]
+(LAVS)[^t-2][^t-1]
 
-del 20 dicembre 1946 (Stato 1° settembre 2023)
+del 20 dicembre 1946 (Stato 1° gennaio 2024)
 
-[^t-1]: Abbreviazione introdotta dal n. I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
+[^t-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^t-2]: Abbreviazione introdotta dal n. I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 
 L’Assemblea federale della Confederazione Svizzera,
 
-visto l’articolo 34<sup>quater</sup> della Costituzione federale[^ingress-1] (Cost.);[^ingress-2] visti i messaggi del Consiglio federale del 24 maggio, del 29 maggio e del 24 settembre 1946[^ingress-3],
+visto l’articolo 112 capoverso 1 della Costituzione federale[^ingress-1],[^ingress-2] visti i messaggi del Consiglio federale del 24 maggio, del 29 maggio e del 24 settembre 1946[^ingress-3],
 
 decreta:
 
-[^ingress-1]: [CS **1** 3]. A questa disp. corrispondono ora gli art. 111–113 della Cost. del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: Nuovo testo giusta l’all. n. 3 della LF del 21 mar. 2003 (4<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2004 ([RU 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [FF 2001 2851](https://fedlex.data.admin.ch/eli/fga/2001/617)).
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^ingress-3]: FF **1946** 349 661. Il M del 24 set. 1946 non è pubblicato in italiano.
 
 ## Parte prima: Assicurazione
@@ -150,38 +151,41 @@ Possono aderire all’assicurazione:
 
 **Persone tenute al pagamento dei contributi**
 
-<sup>1</sup> Gli assicurati sono tenuti al pagamento dei contributi fintanto che esercitano un’attività lucrativa. Se non esercitano un’attività lucrativa, l’obbligo contributivo inizia il 1° gennaio dell’anno successivo a quello in cui compiono i 20 anni e dura sino alla fine del mese in cui le donne compiono i 64 anni, gli uomini i 65 anni.[^3-1]
+<sup>1</sup> Gli assicurati sono tenuti al pagamento dei contributi fintanto che esercitano un’attività lucrativa.[^3-1]
+
+<sup>1bis</sup> Per gli assicurati che non esercitano un’attività lucrativa l’obbligo contributivo inizia il 1° gennaio dell’anno successivo a quello in cui compiono i 20 anni. Esso dura sino alla fine del mese in cui raggiungono l’età di riferimento secondo l’articolo 21 capoverso 1.[^3-2]
 
 <sup>2</sup>
 
 Non sono tenuti a pagare i contributi:
 
-- a.[^3-2] gli adolescenti che esercitano un’attività lucrativa, fino al 31 dicembre dell’anno in cui compiono i 17 anni;
-- [tab] b. e c.[^3-3] ...
-- d.[^3-4] i membri della famiglia del capo azienda che lavorano con lui, fino al 31 dicembre dell’anno in cui compiono i 20 anni, se non ricevono un salario in contanti;
-- e.[^3-5] ...
+- a.[^3-3] gli adolescenti che esercitano un’attività lucrativa, fino al 31 dicembre dell’anno in cui compiono i 17 anni;
+- [tab] b. e c.[^3-4] ...
+- d.[^3-5] i membri della famiglia del capo azienda che lavorano con lui, fino al 31 dicembre dell’anno in cui compiono i 20 anni, se non ricevono un salario in contanti;
+- e.[^3-6] ...
 
 <sup>3</sup>
 
 Si ritiene che paghino contributi propri, qualora il coniuge versi contributi pari almeno al doppio del contributo minimo:
 
 - a. i coniugi senza attività lucrativa di assicurati con un’attività lucrativa;
-- b. gli assicurati che lavorano nell’azienda del proprio coniuge, se non riscuotono alcun salario in contanti.[^3-6]
+- b. gli assicurati che lavorano nell’azienda del proprio coniuge, se non riscuotono alcun salario in contanti.[^3-7]
 
 <sup>4</sup>
 
 Il capoverso 3 si applica anche agli anni civili in cui:
 
 - a. il matrimonio è contratto o sciolto;
-- b. il coniuge che esercita un’attività lucrativa riceve o rinvia una rendita di vecchiaia.[^3-7]
+- b. il coniuge che esercita un’attività lucrativa riceve o rinvia una rendita di vecchiaia.[^3-8]
 
-[^3-1]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)[FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^3-2]: Nuovo testo giusta il n. I della LF del 21 dic. 1956, in vigore dal 1° gen. 1957 ([RU 1957 275](https://fedlex.data.admin.ch/eli/oc/1957/262_264_275)).
-[^3-3]: Abrogate dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), con effetto dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^3-4]: Nuovo testo giusta il n. I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
-[^3-5]: Abrogata dal n. I della LF del 30 set. 1953, con effetto dal 1° gen. 1954 ([RU 1954 102](https://fedlex.data.admin.ch/eli/oc/1954/211_217_102); FF **1953** 449).
-[^3-6]: Introdotto dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^3-7]: Introdotto dal n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^3-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^3-2]: Introdotto dal n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^3-3]: Nuovo testo giusta il n. I della LF del 21 dic. 1956, in vigore dal 1° gen. 1957 ([RU 1957 275](https://fedlex.data.admin.ch/eli/oc/1957/262_264_275)).
+[^3-4]: Abrogate dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), con effetto dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^3-5]: Nuovo testo giusta il n. I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
+[^3-6]: Abrogata dal n. I della LF del 30 set. 1953, con effetto dal 1° gen. 1954 ([RU 1954 102](https://fedlex.data.admin.ch/eli/oc/1954/211_217_102); FF **1953** 449).
+[^3-7]: Introdotto dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^3-8]: Introdotto dal n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 
 ### II. Contributi degli assicurati che esercitano un’attività lucrativa
 
@@ -196,10 +200,10 @@ Il capoverso 3 si applica anche agli anni civili in cui:
 Il Consiglio federale può escludere da questo calcolo:
 
 - a. i redditi provenienti da un’attività lucrativa esercitata all’estero;
-- b.[^4-2] i redditi provenienti da un’attività lucrativa ottenuti dalle donne dopo i 64 anni e dagli uomini dopo i 65 anni, fino a una volta e mezzo l’importo minimo della rendita di vecchiaia secondo l’articolo 34 capoverso 5.
+- b.[^4-2] i redditi provenienti da un’attività lucrativa ottenuti dopo il raggiungimento dell’età di riferimento secondo l’articolo 21 capoverso 1, fino a una volta e mezzo l’importo della rendita di vecchiaia minima secondo l’articolo 34 capoverso 5; il Consiglio federale prevede la possibilità per gli assicurati di chiedere che tali redditi siano inclusi nel calcolo.
 
 [^4-1]: Nuovo testo giusta il n. I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
-[^4-2]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^4-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 5
 
@@ -214,15 +218,16 @@ Il Consiglio federale può escludere da questo calcolo:
 Per i familiari che lavorano nell’azienda di famiglia, è considerato salario determinante soltanto quello versato in contanti:
 
 - a. fino al 31 dicembre dell’anno in cui compiono i 20 anni; come pure
-- b. dopo l’ultimo giorno del mese in cui le donne compiono i 64 anni, gli uomini i 65 anni.[^5-2]
+- b.[^5-2] dopo l’ultimo giorno del mese in cui raggiungono l’età di riferimento secondo l’articolo 21 capoverso 1.[^5-3]
 
 <sup>4</sup> Il Consiglio federale può escludere dal salario determinante le prestazioni di carattere sociale, nonché le elargizioni fatte da un datore di lavoro a favore dei suoi dipendenti in occasione di avvenimenti particolari.
 
-<sup>5</sup> ...[^5-3]
+<sup>5</sup> ...[^5-4]
 
 [^5-1]: Nuovo testo giusta il n. I 5 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^5-2]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^5-3]: Introdotto dal n. I della LF del 21 dic. 1956 ([RU 1957 275](https://fedlex.data.admin.ch/eli/oc/1957/262_264_275)). Abrogato dall’all. n. 6 della L del 17 giu. 2005 contro il lavoro nero, con effetto dal 1° gen. 2008 ([RU 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [FF 2002 3243](https://fedlex.data.admin.ch/eli/fga/2002/520)).
+[^5-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^5-3]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^5-4]: Introdotto dal n. I della LF del 21 dic. 1956 ([RU 1957 275](https://fedlex.data.admin.ch/eli/oc/1957/262_264_275)). Abrogato dall’all. n. 6 della L del 17 giu. 2005 contro il lavoro nero, con effetto dal 1° gen. 2008 ([RU 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [FF 2002 3243](https://fedlex.data.admin.ch/eli/fga/2002/520)).
 
 #### Art. 6
 
@@ -507,7 +512,7 @@ Possono essere compensati con prestazioni scadute:
 [^20-2]: Nuovo testo giusta l’all. n. 7 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 [^20-3]: Nuovo testo giusta l’all. n. 7 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 [^20-4]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^20-5]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050). Ora: LF del 25 set. 1952 sulle indennità di perdita di guadagno per chi presta servizio e in caso di maternità
+[^20-5]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050). Ora: L del 25 set. 1952 sulle indennità di perdita di guadagno.
 [^20-6]: [RS 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
 [^20-7]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 
@@ -515,19 +520,13 @@ Possono essere compensati con prestazioni scadute:
 
 #### Art. 21
 
-**Rendita semplice[^21-2]**[^21-1]
+**Età di riferimento e rendita di vecchiaia**[^21-1]
 
-<sup>1</sup>
+<sup>1</sup> Le persone che hanno compiuto i 65 anni (età di riferimento) hanno diritto a una rendita di vecchiaia senza riduzioni né supplementi.
 
-Hanno diritto a una rendita di vecchiaia:
+<sup>2</sup> Il diritto alla rendita nasce il primo giorno del mese successivo al raggiungimento dell’età di riferimento. Si estingue con la morte dell’avente diritto.
 
-- a. gli uomini che hanno compiuto i 65 anni;
-- b. le donne che hanno compiuto i 64 anni.
-
-<sup>2</sup> Il diritto alla rendita di vecchiaia nasce il primo giorno del mese successivo a quello in cui è stata compiuta l’età stabilita nel capoverso 1. Esso si estingue con la morte del beneficiario.
-
-[^21-1]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^21-2]: Rettificato dalla Commissione di redazione dell’AF (art. 33 LRC – [RU 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
+[^21-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 22
 
@@ -680,11 +679,12 @@ Se un orfano soddisfa contemporaneamente le condizioni di una rendita per orfani
 
 Le rendite ordinarie sono assegnate in forma di:
 
-- a. rendite complete agli assicurati che hanno un periodo di contributo completo;
-- b. rendite parziali agli assicurati che hanno un periodo di contributo incompleto.[^29-2]
+- a. rendite complete agli assicurati che hanno una durata di contribuzione[^29-2] completo;
+- b. rendite parziali agli assicurati che hanno una durata di contribuzione incompleta.[^29-3]
 
 [^29-1]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^29-2]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^29-2]: Nuova espr. giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^29-3]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 
 ### I. Norme per il calcolo delle rendite ordinarie
 
@@ -692,18 +692,37 @@ Le rendite ordinarie sono assegnate in forma di:
 
 **Disposizioni generali per il calcolo della rendita**[^29bis-1]
 
-<sup>1</sup> Il calcolo della rendita è determinato dagli anni di contribuzione, dai redditi dell’attività lucrativa nonché dagli accrediti per compiti educativi o d’assistenza tra il 1° gennaio successivo alla data in cui l’avente diritto ha compiuto i 20 anni e il 31 dicembre che precede l’insorgere dell’evento assicurato (età conferente il diritto alla rendita o decesso).
+<sup>1</sup> La rendita è calcolata al raggiungimento dell’età di riferimento.
 
-<sup>2</sup> Il Consiglio federale disciplina il computo dei mesi di contribuzione trascorsi durante l’anno di inizio del diritto alla rendita, dei periodi di contributo precedenti il 1° gennaio dell’anno che segue quello in cui ha compiuto i 20 anni e degli anni concessi in più.[^29bis-2]
+<sup>2</sup> Il calcolo della rendita è determinato dagli anni di contribuzione, dai redditi provenienti dall’attività lucrativa, nonché dagli accrediti per compiti educativi o per compiti assistenziali, totalizzati tra il 1° gennaio dell’anno successivo a quello in cui l’avente diritto ha compiuto i 20 anni e il 31 dicembre che precede l’insorgere dell’evento assicurato (raggiungimento dell’età di riferimento o decesso).
 
-[^29bis-1]: Introdotto dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^29bis-2]: Vedi anche le disp. fin della mod. del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS) alla fine del presente testo.
+<sup>3</sup> Se ha versato contributi all’AVS dopo il raggiungimento dell’età di riferimento, l’avente diritto può chiedere, una sola volta, che la rendita sia ricalcolata. Nel nuovo calcolo della rendita sono computati anche i redditi provenienti dall’attività lucrativa che l’avente diritto ha conseguito durante il periodo di contribuzione supplementare e sui quali ha versato contributi. I contributi versati dopo il raggiungimento dell’età di riferimento non fanno nascere il diritto a una rendita.
+
+<sup>4</sup>
+
+Eventuali lacune contributive possono essere colmate con i contributi versati dall’avente diritto tra il raggiungimento dell’età di riferimento e i cinque anni successivi se durante tale periodo:
+
+- a. l’avente diritto ha conseguito un reddito equivalente almeno al 40 per cento della media dei redditi provenienti dall’attività lucrativa non ripartiti conseguiti nel corso del periodo di cui al capoverso 2; e
+- b. i contributi versati su questo reddito corrispondono al contributo minimo annuo.
+
+<sup>5</sup>
+
+Il Consiglio federale disciplina il computo:
+
+- a. dei mesi di contribuzione trascorsi durante l’anno di inizio del diritto alla rendita;
+- b. dei periodi di contribuzione precedenti il 1° gennaio dell’anno successivo a quello in cui l’avente diritto ha compiuto i 20 anni;
+- c. degli anni concessi in più; e
+- d. dei periodi di contribuzione totalizzati dopo il raggiungimento dell’età di riferimento.
+
+<sup>6</sup> Disciplina inoltre il momento in cui inizia il diritto alla rendita ricalcolata conformemente al capoverso 3.
+
+[^29bis-1]: Introdotto dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)). Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 
 #### Art. 29<sup>ter</sup>
 
-**Periodo di contributo completo**[^29ter-1]
+**Durata di contribuzione completa**[^29ter-1]
 
-<sup>1</sup> Il periodo di contributo è completo se una persona presenta lo stesso numero di anni di contribuzione degli assicurati della sua classe d’età.
+<sup>1</sup> La durata di contribuzione è completa se una persona presenta lo stesso numero di anni di contribuzione degli assicurati della sua classe d’età.
 
 <sup>2</sup>
 
@@ -739,26 +758,32 @@ La rendita è calcolata in base al reddito annuo medio. Esso si compone:
 
 I redditi che i coniugi hanno conseguito durante gli anni civili di matrimonio comune vengono ripartiti e attribuiti per metà a ciascuno dei coniugi. La ripartizione è effettuata se:
 
-- a. entrambi i coniugi hanno diritto alla rendita;
-- b. una persona vedova ha diritto a una rendita di vecchiaia;
-- c. il matrimonio è sciolto mediante divorzio.[^29quinquies-2]
+- a.[^29quinquies-2] entrambi i coniugi hanno raggiunto l’età di riferimento;
+- b.[^29quinquies-3] la vedova o il vedovo raggiunge l’età di riferimento;
+- c. il matrimonio è sciolto mediante divorzio;
+- d.[^29quinquies-4] entrambi i coniugi hanno diritto a una rendita dell’assicurazione per l’invalidità; o
+- e.[^29quinquies-5] uno dei coniugi ha diritto a una rendita dell’assicurazione per l’invalidità e l’altro raggiunge l’età di riferimento.
 
 <sup>4</sup>
 
 Tuttavia, sottostanno alla ripartizione e all’attribuzione reciproca soltanto i redditi conseguiti:
 
-- a. tra il 1° gennaio che segue il compimento dei 20 anni e il 31 dicembre che precede l’insorgere dell’evento assicurato da parte del coniuge che ha per primo diritto alla rendita; e
-- b.[^29quinquies-3] in periodi durante i quali entrambi i coniugi sono stati assicurati presso l’assicurazione svizzera per la vecchiaia e per i superstiti.
+- a.[^29quinquies-6] tra il 1° gennaio che segue il compimento dei 20 anni e il 31 dicembre che precede l’insorgere dell’evento assicurato per il coniuge che ha per primo diritto alla rendita, fatto salvo il caso della riscossione anticipata della rendita secondo l’articolo 40; e
+- b.[^29quinquies-7] in periodi durante i quali entrambi i coniugi sono stati assicurati presso l’assicurazione svizzera per la vecchiaia e per i superstiti.
 
-<sup>5</sup> Il capoverso 4 non è applicabile all’anno civile in cui il matrimonio è contratto o sciolto.[^29quinquies-4]
+<sup>5</sup> Il capoverso 4 non è applicabile all’anno civile in cui il matrimonio è contratto o sciolto.[^29quinquies-8]
 
-<sup>6</sup> Il Consiglio federale disciplina la procedura. Stabilisce in particolare quale cassa di compensazione debba procedere alla ripartizione dei redditi.[^29quinquies-5]
+<sup>6</sup> Il Consiglio federale disciplina la procedura. Stabilisce in particolare quale cassa di compensazione debba procedere alla ripartizione dei redditi.[^29quinquies-9]
 
-[^29quinquies-1]: Introdotto dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^29quinquies-2]: Vedi anche le disp. fin della mod. del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS) alla fine del presente testo.
-[^29quinquies-3]: Nuovo testo giusta il n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^29quinquies-4]: Nuovo testo giusta il n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^29quinquies-5]: Introdotto dal n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^29quinquies-1]: Introdotto dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)). Vedi anche le disp. fin di detta mod. alla fine del presente testo.
+[^29quinquies-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^29quinquies-3]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^29quinquies-4]: Introdotta dal n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^29quinquies-5]: Introdotta dal n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^29quinquies-6]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^29quinquies-7]: Nuovo testo giusta il n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^29quinquies-8]: Nuovo testo giusta il n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^29quinquies-9]: Introdotto dal n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 
 #### Art. 29<sup>sexies</sup>
 
@@ -775,11 +800,12 @@ Un accredito per compiti educativi è computato agli assicurati per gli anni dur
 
 <sup>2</sup> L’accredito per compiti educativi corrisponde al triplo dell’importo della rendita di vecchiaia annua minima secondo l’articolo 34 al momento dell’inizio del diritto alla rendita.
 
-<sup>3</sup> L’accredito per compiti educativi assegnato alle persone coniugate durante gli anni civili di matrimonio è ripartito per metà tra i coniugi. Tuttavia, la ripartizione interessa unicamente gli accrediti acquisiti durante il periodo tra il 1° gennaio dell’anno che segue il compimento dei 20 anni e il 31 dicembre che precede l’insorgere dell’evento assicurato da parte del coniuge che ha per primo diritto alla rendita.
+<sup>3</sup> L’accredito per compiti educativi assegnato alle persone coniugate durante gli anni civili di matrimonio è ripartito per metà tra i coniugi. Tuttavia, la ripartizione interessa unicamente gli accrediti acquisiti durante il periodo tra il 1° gennaio che segue il compimento dei 20 anni e il 31 dicembre che precede il raggiungimento dell’età di riferimento da parte del coniuge più anziano.[^29sexies-4]
 
 [^29sexies-1]: Introdotto dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 [^29sexies-2]: Nuovo testo giusta l’all. n. 5 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); FF **1996** I1).
 [^29sexies-3]: Introdotta dall’all. n. 5 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); FF **1996** I1).
+[^29sexies-4]: Nuovo testo del per. giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 29<sup>septies</sup>
 
@@ -801,11 +827,12 @@ Il Consiglio federale può precisare il criterio della facile raggiungibilità d
 
 <sup>5</sup> Qualora il diritto all’accredito per compiti assistenziali non venga fatto valere entro cinque anni a decorrere dalla fine dell’anno civile durante il quale ci si è occupati di una persona, l’accredito per l’anno corrispondente non viene più registrato nel conto individuale.
 
-<sup>6</sup> L’accredito per compiti assistenziali durante gli anni civili di matrimonio è ripartito per metà tra i coniugi. Tuttavia, la ripartizione interessa unicamente gli accrediti acquisiti durante il periodo tra il 1° gennaio dell’anno che segue il compimento dei 20 anni e il 31 dicembre che precede l’insorgere dell’evento assicurato per il coniuge che ha per primo diritto alla rendita.
+<sup>6</sup> L’accredito per compiti assistenziali durante gli anni civili di matrimonio è ripartito per metà tra i coniugi. Tuttavia, la ripartizione interessa unicamente gli accrediti acquisiti durante il periodo tra il 1° gennaio che segue il compimento dei 20 anni e il 31 dicembre che precede il raggiungimento dell’età di riferimento da parte del coniuge più anziano.[^29septies-4]
 
 [^29septies-1]: Introdotto dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 [^29septies-2]: Nuovo testo giusta il n. I 3 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^29septies-3]: Nuovo testo giusta il n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^29septies-4]: Nuovo testo del per. giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 30
 
@@ -962,14 +989,16 @@ Sono applicabili le disposizioni seguenti:
 
 La somma delle due rendite per coniugi ammonta al massimo al 150 per cento dell’importo massimo della rendita di vecchiaia se:
 
-- a. entrambi i coniugi hanno diritto a una rendita di vecchiaia;
-- b. uno dei coniugi ha diritto a una rendita di vecchiaia e l’altro a una rendita dell’assicurazione per l’invalidità.
+- a. entrambi i coniugi hanno diritto a una rendita di vecchiaia o a una percentuale di essa;
+- b. uno dei coniugi ha diritto a una rendita di vecchiaia o a una percentuale di essa e l’altro a una rendita dell’assicurazione per l’invalidità.[^35-2]
 
 <sup>2</sup> Non è prevista nessuna riduzione a scapito dei coniugi che non vivono più in comunione domestica in seguito ad una decisione giudiziaria.
 
-<sup>3</sup> Le due rendite devono essere ridotte in proporzione alla loro quota-parte alla somma delle rendite non ridotte. Il Consiglio federale disciplina i dettagli, in particolare la riduzione delle due rendite assegnate agli assicurati con durata di contribuzione incompleta.
+<sup>3</sup> Le due rendite devono essere ridotte in proporzione alla loro quota-parte alla somma delle rendite non ridotte. Il Consiglio federale disciplina i dettagli, in particolare la riduzione delle due rendite accordate agli assicurati con durata di contribuzione incompleta o che percepiscono soltanto una percentuale della rendita.[^35-3]
 
 [^35-1]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^35-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^35-3]: Nuovo testo del per. giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 35<sup>bis</sup>
 
@@ -983,9 +1012,12 @@ Le vedove e i vedovi beneficiari di una rendita di vecchiaia hanno diritto a un 
 
 **4. Rendita per figli**[^35ter-1]
 
-La rendita per figli è pari al 40 per cento della rendita di vecchiaia corrispondente al reddito annuo medio determinante. Se entrambi i genitori hanno diritto a una rendita per figli, le due rendite per figli devono essere ridotte qualora superino il 60 per cento della rendita massima di vecchiaia. L’articolo 35 si applica per analogia per determinare le modalità di riduzione.
+<sup>1</sup> La rendita per figli è pari al 40 per cento della rendita di vecchiaia corrispondente al reddito annuo medio determinante. Se entrambi i genitori hanno diritto a una rendita per figli, le due rendite per figli devono essere ridotte qualora superino il 60 per cento della rendita massima di vecchiaia. L’articolo 35 si applica per analogia per determinare le modalità di riduzione.
+
+<sup>2</sup> In caso di differimento della riscossione di una percentuale della rendita di vecchiaia in virtù dell’articolo 39 capoverso 1, la rendita per figli è differita nella stessa misura percentuale.[^35ter-2]
 
 [^35ter-1]: Introdotto dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^35ter-2]: Introdotto dal n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 36
 
@@ -1032,43 +1064,61 @@ Se per la medesima persona sono riunite le condizioni che danno diritto a una re
 [^38-3]: Nuovo testo giusta il n. I della LF del 30 giu. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [FF 1971 II 729](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)).
 [^38-4]: Introdotto dal n. I della LF del 30 giu. 1972 ([RU 1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [FF 1971 II 729](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)). Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 
-### IV. Età flessibile per il godimento della rendita
+### IV. Riscossione flessibile della rendita
 
 [^part1-chap3-lvlB-lvlIV-1]
 
-[^part1-chap3-lvlB-lvlIV-1]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^part1-chap3-lvlB-lvlIV-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 
 #### Art. 39
 
-**Possibilità ed effetto del rinvio**[^39-1]
+**Riscossione differita della rendita di vecchiaia**
 
-<sup>1</sup> Le persone aventi diritto a una rendita di vecchiaia possono rinviare, di un anno almeno e di cinque anni al massimo, l’inizio del godimento della rendita, con facoltà di revocare il rinvio durante tale periodo, per la scadenza di un determinato mese.[^39-2]
+<sup>1</sup> Chi ha diritto a una rendita di vecchiaia può differire, di un anno almeno e di cinque anni al massimo, la riscossione della totalità della rendita o di una percentuale di essa compresa tra il 20 e l’80 per cento. Durante tale periodo può revocare la riscossione differita in qualsiasi momento, con effetto all’inizio del mese successivo.
 
-<sup>2</sup> La rendita di vecchiaia rinviata e, se del caso, la rendita per superstite a essa succedente, sono aumentate del controvalore attuariale della prestazione non ricevuta.
+<sup>2</sup> Chi ha differito la riscossione di una percentuale della rendita può chiedere, una sola volta, la riduzione di tale percentuale. L’aumento della percentuale è escluso.
 
-<sup>3</sup> Il Consiglio federale stabilisce, in modo uniforme, le aliquote d’aumento per gli uomini e per le donne, e istituisce la procedura. Può escludere il rinvio per certi generi di rendite.
+<sup>3</sup> La rendita di vecchiaia differita, o la percentuale di rendita differita, è aumentata del controvalore attuariale delle prestazioni differite.
 
-[^39-1]: Nuovo testo giusta il n. I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
-[^39-2]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+<sup>4</sup> Il Consiglio federale stabilisce in modo uniforme le aliquote d’aumento e definisce la procedura. Può escludere il differimento per certi generi di rendite. Riesamina le aliquote d’aumento almeno ogni dieci anni.
 
 #### Art. 40
 
-**Possibilità ed effetto dell’anticipazione**[^40-1]
+**Riscossione anticipata della rendita di vecchiaia**
 
-<sup>1</sup> Gli uomini e le donne che adempiono le condizioni per l’ottenimento di una rendita ordinaria di vecchiaia possono anticiparne il godimento di uno o due anni. In tali casi, il diritto alla rendita nasce per gli uomini il primo giorno del mese seguente a quello in cui hanno compiuto 64 o 63 anni, per le donne il primo giorno del mese seguente a quello in cui hanno compiuto 63 o 62 anni. Durante il periodo di godimento anticipato non sono versate rendite per figli.
+<sup>1</sup> Chi adempie le condizioni per l’ottenimento di una rendita di vecchiaia può, dal compimento dei 63 anni, anticipare la riscossione della totalità della rendita o di una percentuale di essa compresa tra il 20 e l’80 per cento. Può chiedere la riscossione anticipata della rendita in qualsiasi momento, con effetto all’inizio del mese successivo. La riscossione anticipata vale soltanto per le prestazioni future. Il Consiglio federale disciplina i dettagli, in particolare la possibilità di revocare la riscossione anticipata in caso di concessione a posteriori di una rendita d’invalidità.
 
-<sup>2</sup> La rendita di vecchiaia anticipata, la rendita vedovile e la rendita per orfani sono ridotte.
+<sup>2</sup> Chi ha anticipato la riscossione di una percentuale della rendita può chiedere, una sola volta, l’aumento di tale percentuale. L’aumento vale soltanto per le prestazioni future. Non può essere revocato.
 
-<sup>3</sup> Il Consiglio federale stabilisce le aliquote di riduzione secondo i principi attuariali.[^40-2]
+<sup>3</sup> Durante il periodo di riscossione anticipata della rendita non sono versate rendite per figli.
 
-[^40-1]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^40-2]: Vedi anche le disp. fin della mod. del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS) alla fine del presente testo.
+<sup>4</sup> In deroga all’articolo 29<sup>ter</sup> capoverso 1, in caso di riscossione anticipata della rendita la durata di contribuzione non è completa. La rendita anticipata è calcolata in base al numero di anni di contribuzione totalizzati fino all’inizio della riscossione anticipata e corrisponde a una rendita parziale con durata di contribuzione incompleta.
+
+<sup>5</sup> Il calcolo della rendita anticipata è determinato dagli anni di contribuzione, dai redditi provenienti dall’attività lucrativa, nonché dagli accrediti per compiti educativi o per compiti assistenziali, totalizzati tra il 1° gennaio dell’anno successivo a quello in cui l’avente diritto compie i 20 anni e il 31 dicembre che precede l’inizio della riscossione anticipata della totalità della rendita o di una percentuale di essa. Al raggiungimento dell’età di riferimento la rendita è ricalcolata secondo l’articolo 29<sup>bis</sup> capoversi 1 e 2.
+
+#### Art. 40a
+
+**Riduzione della rendita di vecchiaia in caso di riscossione anticipata**
+
+<sup>1</sup> La rendita di vecchiaia anticipata è ridotta del controvalore attuariale della prestazione anticipata.
+
+<sup>2</sup> Il Consiglio federale stabilisce in modo uniforme le aliquote di riduzione in base a principi attuariali e definisce la procedura. Riesamina le aliquote di riduzione almeno ogni dieci anni.
+
+<sup>3</sup> Se il reddito annuo medio determinante è inferiore o uguale all’importo della rendita di vecchiaia annua minima secondo l’articolo 34 moltiplicato per quattro, le aliquote di riduzione sono ridotte del 40 per cento.
+
+#### Art. 40b
+
+**Combinazione di riscossione anticipata e riscossione differita della rendita di vecchiaia**
+
+<sup>1</sup> Chi anticipa la riscossione di una percentuale della rendita di vecchiaia può differire la riscossione della percentuale restante al massimo fino a cinque anni dopo il raggiungimento dell’età di riferimento.
+
+<sup>2</sup> La percentuale di rendita differita non può più essere ridotta se la percentuale di rendita anticipata è già stata aumentata una volta durante il periodo di riscossione anticipata.
 
 ### V. Riduzione delle rendite ordinarie
 
 [^part1-chap3-lvlB-lvlV-1]
 
-[^part1-chap3-lvlB-lvlV-1]: Primitivo cap. IV dell’art. 39, poi prima dell’art. 40.
+[^part1-chap3-lvlB-lvlV-1]: Originario Cap. IV dell’art. 39, poi prima dell’art. 40.
 
 #### Art. 41
 
@@ -1132,40 +1182,39 @@ Se per la medesima persona sono riunite le condizioni che danno diritto a una re
 
 **Assegno per grandi invalidi**[^43bis-1]
 
-<sup>1</sup> Hanno diritto all’assegno per grandi invalidi i beneficiari di rendite di vecchiaia o di prestazioni complementari con domicilio e dimora abituale (art. 13 LPGA[^43bis-2]) in Svizzera, che presentano un’invalidità (art. 9 LPGA) di grado elevato, medio o lieve.[^43bis-3] La rendita di vecchiaia anticipata è parificata al godimento di una rendita di vecchiaia.[^43bis-4]
+<sup>1</sup> Ha diritto all’assegno per grandi invalidi chi percepisce la totalità della rendita di vecchiaia, o è beneficiario di prestazioni complementari, e presenta una grande invalidità (art. 9 LPGA[^43bis-2]) di grado elevato, medio o lieve, sempre che abbia domicilio e dimora abituale (art. 13 LPGA) in Svizzera.[^43bis-3]
 
-<sup>1bis</sup> Il diritto all’assegno per una grande invalidità di grado lieve decade in caso di soggiorno in istituto.[^43bis-5]
+<sup>1bis</sup> Il diritto all’assegno per una grande invalidità di grado lieve decade in caso di soggiorno in istituto.[^43bis-4]
 
-<sup>2</sup> Il diritto all’assegno per grandi invalidi sorge il primo giorno del mese in cui tutte le condizioni sono soddisfatte, ma al più presto dal momento in cui l’assicurato fu grande invalido di grado elevato, medio o lieve per un anno intero, senza interruzione. Esso si estingue alla fine del mese nel quale le condizioni di cui al capoverso 1 non sono più adempiute.[^43bis-6]
+<sup>2</sup> Il diritto all’assegno per grandi invalidi sorge il primo giorno del mese in cui tutte le condizioni sono soddisfatte, ma al più presto dal momento in cui l’assicurato fu grande invalido di grado elevato, medio o lieve per sei mesi, senza interruzione. Esso si estingue alla fine del mese nel quale le condizioni di cui al capoverso 1 non sono più adempiute.[^43bis-5]
 
-<sup>3</sup> L’assegno mensile per grandi invalidi di grado elevato ammonta all’80 per cento, quello per grandi invalidi di grado medio al 50 per cento e quello per grandi invalidi di grado lieve al 20 per cento dell’importo minimo della rendita di vecchiaia previsto dall’articolo 34 capoverso 5.[^43bis-7]
+<sup>3</sup> L’assegno mensile per grandi invalidi di grado elevato ammonta all’80 per cento, quello per grandi invalidi di grado medio al 50 per cento e quello per grandi invalidi di grado lieve al 20 per cento dell’importo minimo della rendita di vecchiaia previsto dall’articolo 34 capoverso 5.[^43bis-6]
 
-<sup>4</sup> La persona grande invalida che, fino al momento in cui ha raggiunto l’età di pensionamento, ha beneficiato di un assegno per grandi invalidi dell’assicurazione per l’invalidità o ha fatto valere il diritto di riscuotere la rendita anticipata, riceve un’indennità per lo meno uguale a quella ricevuta fino ad allora.[^43bis-8]
+<sup>4</sup> Chi, sino alla fine del mese in cui raggiunge l’età di riferimento o sino al momento in cui anticipa la riscossione della totalità della rendita, ha beneficiato di un assegno per grandi invalidi dell’assicurazione per l’invalidità riceve un assegno d’importo per lo meno uguale a quello ricevuto fino ad allora.[^43bis-7]
 
-<sup>4bis</sup> Il Consiglio federale può prevedere una prestazione proporzionale all’assegno per grandi invalidi dell’assicurazione contro gli infortuni nel caso in cui la grande invalidità sia solo in parte addebitabile a un infortunio.[^43bis-9]
+<sup>4bis</sup> Il Consiglio federale può prevedere una prestazione proporzionale all’assegno per grandi invalidi dell’assicurazione contro gli infortuni nel caso in cui la grande invalidità sia solo in parte addebitabile a un infortunio.[^43bis-8]
 
-<sup>5</sup> Le disposizioni della LAI[^43bis-10] sono applicabili per analogia alla valutazione della grande invalidità.[^43bis-11] Spetta agli uffici per l’assicurazione invalidità di determinare, per le casse di compensazione, il grado della grande invalidità[^43bis-12]. Il Consiglio federale può promulgare prescrizioni complementari.
+<sup>5</sup> Le disposizioni della LAI[^43bis-9] sono applicabili per analogia alla valutazione della grande invalidità.[^43bis-10] Spetta agli uffici per l’assicurazione invalidità di determinare, per le casse di compensazione, il grado della grande invalidità[^43bis-11]. Il Consiglio federale può promulgare prescrizioni complementari.
 
 [^43bis-1]: Introdotto dal n. I della LF del 22 dic. 1955 ([RU 1956 707](https://fedlex.data.admin.ch/eli/oc/1956/651_703_707); FF **1955** 871). Nuovo testo giusta il n. I della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
 [^43bis-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^43bis-3]: Nuovo testo giusta il n. I 1 della LF del 13 giu. 2008 concernente il nuovo ordinamento del finanziamento delle cure, in vigore dal 1° gen. 2011 ([RU 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)n. I; [FF 2005 1839](https://fedlex.data.admin.ch/eli/fga/2005/237)).
-[^43bis-4]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^43bis-5]: Introdotto dal n. I 1 della LF del 13 giu. 2008 concernente il nuovo ordinamento del finanziamento delle cure, in vigore dal 1° gen. 2011 ([RU 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)n. I; [FF 2005 1839](https://fedlex.data.admin.ch/eli/fga/2005/237)).
+[^43bis-3]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^43bis-4]: Introdotto dal n. I 1 della LF del 13 giu. 2008 concernente il nuovo ordinamento del finanziamento delle cure, in vigore dal 1° gen. 2011 ([RU 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)n. I; [FF 2005 1839](https://fedlex.data.admin.ch/eli/fga/2005/237)).
+[^43bis-5]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^43bis-6]: Nuovo testo giusta il n. I 1 della LF del 13 giu. 2008 concernente il nuovo ordinamento del finanziamento delle cure, in vigore dal 1° gen. 2011 ([RU 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)n. I; [FF 2005 1839](https://fedlex.data.admin.ch/eli/fga/2005/237)).
-[^43bis-7]: Nuovo testo giusta il n. I 1 della LF del 13 giu. 2008 concernente il nuovo ordinamento del finanziamento delle cure, in vigore dal 1° gen. 2011 ([RU 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)n. I; [FF 2005 1839](https://fedlex.data.admin.ch/eli/fga/2005/237)).
-[^43bis-8]: Nuovo testo giusta l’all. n. 3 della LF del 21 mar. 2003 (4<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2004 ([RU 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [FF 2001 2851](https://fedlex.data.admin.ch/eli/fga/2001/617)).
-[^43bis-9]: Introdotto dall’all. n. 2 della la LF del 20 mar. 1981 sull’assicurazione contro la disoccupazione, in vigore dal 1° gen. 1984 ([RU 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)art. 1 cpv. 1; [FF 1976 III 155](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
-[^43bis-10]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^43bis-11]: Nuovo testo del per. giusta l’all. n. 7 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
-[^43bis-12]: Nuova denominazione giusta il n. II della LF del 22 mar. 1991 (3<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 1992 ([RU 1991 2377](https://fedlex.data.admin.ch/eli/oc/1991/2377_2377_2377); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
+[^43bis-7]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^43bis-8]: Introdotto dall’all. n. 2 della la LF del 20 mar. 1981 sull’assicurazione contro la disoccupazione, in vigore dal 1° gen. 1984 ([RU 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)art. 1 cpv. 1; [FF 1976 III 155](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
+[^43bis-9]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^43bis-10]: Nuovo testo del per. giusta l’all. n. 7 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
+[^43bis-11]: Nuova denominazione giusta il n. II della LF del 22 mar. 1991 (3<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 1992 ([RU 1991 2377](https://fedlex.data.admin.ch/eli/oc/1991/2377_2377_2377); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 
 #### Art. 43<sup>ter</sup>
 
 **Contributo per l’assistenza**[^43ter-1]
 
-La persona che, fino al momento in cui ha raggiunto l’età di pensionamento o ha fatto valere il diritto di riscuotere la rendita di vecchiaia anticipata, ha beneficiato di un contributo per l’assistenza versato dall’assicurazione per l’invalidità continua a riceverlo per un importo al massimo equivalente a quello ricevuto fino a quel momento. Al diritto al contributo per l’assistenza e alla sua entità si applicano per analogia gli articoli 42<sup>quater</sup>–42<sup>octies</sup> LAI[^43ter-2].
+Chi, sino alla fine del mese in cui raggiunge l’età di riferimento o sino al momento in cui anticipa la riscossione della totalità della rendita, ha beneficiato di un contributo per l’assistenza dell’assicurazione per l’invalidità continua a ricevere un contributo d’importo pari al massimo a quello ricevuto fino ad allora. Al diritto al contributo per l’assistenza e alla sua entità si applicano per analogia gli articoli 42<sup>quater</sup>–42<sup>octies</sup> LAI[^43ter-2].
 
-[^43ter-1]: Introdotto dall’all. n. 4 della LF del 18 mar. 2011 (6**<sup>a</sup>** revisione AI, primo pacchetto di misure), in vigore dal 1° gen. 2012 ([RU 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1603](https://fedlex.data.admin.ch/eli/fga/2010/340)).
+[^43ter-1]: Introdotto dall’all. n. 4 della LF del 18 mar. 2011 (6**<sup>a</sup>** revisione AI, primo pacchetto di misure ([RU 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1603](https://fedlex.data.admin.ch/eli/fga/2010/340)). Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^43ter-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 
 #### Art. 43<sup>quater</sup>
@@ -1205,10 +1254,11 @@ Il Consiglio federale fa esaminare periodicamente se lo sviluppo finanziario del
 
 <sup>1</sup> Di regola le rendite e gli assegni per grandi invalidi sono versati su un conto bancario o postale. A sua richiesta, possono essere versati direttamente al beneficiario. Il Consiglio federale disciplina la procedura.
 
-<sup>2</sup> Le rendite parziali il cui importo non supera il 10 per cento della rendita minima completa sono versate, in deroga all’articolo 19 capoversi 1 e 3 LPGA[^44-2], una volta all’anno posticipatamente in dicembre. L’avente diritto può chiedere un versamento mensile.
+<sup>2</sup> Le rendite il cui importo non supera il 20 per cento della rendita minima completa sono versate, in deroga all’articolo 19 capoversi 1 e 3 LPGA[^44-2], una volta all’anno. L’avente diritto può chiedere il versamento mensile.[^44-3]
 
 [^44-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^44-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^44-3]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 45
 
@@ -1255,41 +1305,114 @@ Il Consiglio federale fa esaminare periodicamente se lo sviluppo finanziario del
 
 **Regola**[^49-1]
 
-L’assicurazione per la vecchiaia e per i superstiti è applicata, sotto la vigilanza della Confederazione (art. 76 LPGA[^49-2]), dai datori di lavoro, dai lavoratori, dalle casse di compensazione professionali, dalle casse di compensazione cantonali, dalle casse di compensazione della Confederazione e da un Ufficio centrale di compensazione.
+L’assicurazione per la vecchiaia e per i superstiti è applicata, sotto la vigilanza della Confederazione (art. 76 LPGA[^49-2]), dai datori di lavoro e dai lavoratori nonché dalle casse di compensazione professionali, dalle casse di compensazione cantonali, dalle casse di compensazione della Confederazione e da un Ufficio centrale di compensazione (organi esecutivi).
 
-[^49-1]: Nuovo testo giusta l’all. n. 7 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
+[^49-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^49-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 49a
 
-**Sistemi d’informazione**[^49a-1]
+**Sistemi d’informazione e requisiti**[^49a-1]
 
-Il Consiglio federale può prescrivere agli organi esecutivi l’utilizzo di sistemi d’informazione sviluppati, previa consultazione degli organi interessati, per l’adempimento dei compiti previsti dall’allegato II dell’Accordo del 21 giugno 1999[^49a-2] tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone (Accordo sulla libera circolazione delle persone) e da altre convenzioni internazionali in materia di sicurezza sociale.
+<sup>1</sup> Gli organi esecutivi gestiscono sistemi d’informazione che consentono lo scambio elettronico di informazioni e il trattamento di dati.
 
-[^49a-1]: Introdotto dal n. I della LF del 23 giu. 2000 ([RU 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)). Nuovo testo giusta l’all. 2 n. 5 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^49a-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+<sup>2</sup> Essi provvedono affinché siano garantite in qualsiasi momento la stabilità e l’adattabilità necessarie dei loro sistemi d’informazione nonché la sicurezza delle informazioni e la protezione dei dati.
+
+<sup>3</sup> Le organizzazioni specializzate degli organi esecutivi elaborano norme per l’adempimento dei requisiti di cui all’articolo 72*a* capoverso 2 lettera b.
+
+[^49a-1]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 49b
 
-**Trattamento di dati personali**[^49b-1]
+**Sistemi d’informazione per l’esecuzione di convenzioni internazionali[^49b-2]**[^49b-1]
+
+Il Consiglio federale può prescrivere agli organi esecutivi l’utilizzo di sistemi d’informazione sviluppati, previa consultazione degli organi interessati, per l’adempimento dei compiti previsti dall’allegato II dell’Accordo del 21 giugno 1999[^49b-3] tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone (Accordo sulla libera circolazione delle persone) e da altre convenzioni internazionali in materia di sicurezza sociale.
+
+[^49b-1]: Originario art. 49*a*. Introdotto dal n. I della LF del 23 giu. 2000 ([RU 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)). Nuovo testo giusta l’all. 2 n. 5 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^49b-2]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^49b-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+
+#### Art. 49c
+
+**Registro delle prestazioni in denaro correnti**[^49c-1]
 
 <sup>1</sup>
 
-Gli organi incaricati di applicare la presente legge o di controllarne o sorvegliarne l’esecuzione possono trattare o far trattare dati personali, compresi dati degni di particolare protezione, di cui necessitano per adempiere i compiti conferiti loro dalla presente legge o da convenzioni internazionali, segnatamente per:[^49b-2]
+L’Ufficio centrale di compensazione di cui all’articolo 71 tiene un registro centrale delle prestazioni in denaro correnti, contenente anche le informazioni disponibili relative alla concessione di prestazioni estere, allo scopo di:
+
+- a. evitare la riscossione indebita di prestazioni in denaro;
+- b. garantire la trasparenza sulle prestazioni in denaro concesse;
+- c. agevolare l’adeguamento delle prestazioni in denaro.
+
+<sup>2</sup>
+
+Vi registra:
+
+- a. le prestazioni in denaro correnti;
+- b. i decessi e i cambiamenti di stato civile degli aventi diritto a rendite nonché, se disponibile, la data di nascita del coniuge o del partner registrato.
+
+<sup>3</sup> L’Ufficio centrale di compensazione notifica i decessi e i cambiamenti di stato civile alle casse di compensazione e mette a disposizione degli organi di cui all’articolo 50*b* capoverso 1 i dati necessari.
+
+[^49c-1]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+
+#### Art. 49d
+
+**Registro degli assicurati**[^49d-1]
+
+<sup>1</sup>
+
+L’Ufficio centrale di compensazione tiene un registro centrale degli assicurati allo scopo di:
+
+- a. assegnare agli assicurati un numero AVS secondo l’articolo 50*c*;
+- b. garantire che tutti i conti individuali di un assicurato siano presi in considerazione in caso di assegnazione di una rendita.
+
+<sup>2</sup>
+
+Vi registra:
+
+- a. gli assicurati e i loro numeri AVS;
+- b. le casse di compensazione che tengono un conto individuale per un assicurato;
+- c. i numeri d’assicurato esteri necessari per l’esecuzione di convenzioni internazionali di sicurezza sociale.
+
+<sup>3</sup> L’Ufficio centrale di compensazione mette a disposizione degli organi di cui agli articoli 50*b* capoverso 1 e 153*c* capoverso 1 i dati necessari.
+
+[^49d-1]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+
+#### Art. 49e
+
+**Disposizioni d’esecuzione concernenti il registro delle prestazioni in denaro correnti e il registro degli assicurati**[^49e-1]
+
+Il Consiglio federale disciplina:
+
+- a. la responsabilità per la protezione dei dati;
+- b. i dati da registrare e da comunicare;
+- c. i termini di conservazione;
+- d. l’accesso ai dati;
+- e. la collaborazione fra gli utenti;
+- f. la sicurezza dei dati;
+- g. la partecipazione ai costi da parte degli assicuratori contro gli infortuni e dell’assicurazione militare.
+
+[^49e-1]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+
+#### Art. 49f
+
+**Trattamento di dati personali**[^49f-1]
+
+<sup>1</sup>
+
+Gli organi incaricati di applicare la presente legge o di controllarne o sorvegliarne l’esecuzione possono trattare o far trattare dati personali, compresi dati degni di particolare protezione, di cui necessitano per adempiere i compiti conferiti loro dalla presente legge o da convenzioni internazionali, segnatamente per:
 
 - a. calcolare e riscuotere i contributi assicurativi;
 - b. stabilire il diritto alle prestazioni, nonché calcolarle, versarle e coordinarle con quelle di altre assicurazioni sociali;
 - c. stabilire il diritto ai sussidi, nonché calcolarli, versarli e sorvegliarne l’impiego;
-- d. far valere una pretesa di regresso nei confronti di terzi responsabili;
+- d. far valere pretese di regresso nei confronti di terzi responsabili;
 - e. sorvegliare l’esecuzione della presente legge;
 - f. allestire statistiche;
-- g.[^49b-3] assegnare o verificare il numero AVS.
+- g. assegnare o verificare il numero AVS.
 
 <sup>2</sup> Per adempiere tali compiti possono inoltre trattare o far trattare dati personali che permettono segnatamente di valutare la salute, la gravità dell’infermità fisica o psichica, i bisogni e la situazione economica dell’assicurato.
 
-[^49b-1]: Introdotto dal n. I della LF del 23 giu. 2000 ([RU 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)). Nuovo testo giusta l’all. 2 n. 5 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^49b-2]: Nuovo testo giusta il n. IV della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° set. 2023 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
-[^49b-3]: Nuovo testo giusta il n. IV della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° set. 2023 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^49f-1]: Introdotto dal n. IV cpv. 2 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 50
 
@@ -1307,12 +1430,12 @@ Purché nessun interesse privato preponderante vi si opponga, gli organi incaric
 
 - a. ad altri organi incaricati di applicare la presente legge, nonché di controllarne o sorvegliarne l’esecuzione, qualora ne necessitino per adempiere i compiti conferiti loro dalla presente legge;
 - b. agli organi di altre assicurazioni sociali, qualora, in deroga all’articolo 32 capoverso 2 LPGA, l’obbligo di comunicazione sia sancito da una legge federale;
-- [tab] b<sup>bis</sup>.[^50a-4] agli organi di un’altra assicurazione sociale e ad altri servizi o istituzioni autorizzati a utilizzare il numero AVS[^50a-5], qualora i dati siano necessari per assegnare o verificare tale numero;
-- [tab] b<sup>ter</sup>.[^50a-6] ai servizi incaricati dell’esercizio della banca dati centrale per documentare lo stato civile o incaricati di gestire il sistema d’informazione per il settore degli stranieri e dell’asilo, qualora i dati siano necessari per assegnare o verificare tale numero;
+- b<sup>bis</sup>.[^50a-4] agli organi di un’altra assicurazione sociale e ad altri servizi o istituzioni autorizzati a utilizzare il numero AVS[^50a-5], qualora i dati siano necessari per assegnare o verificare tale numero;
+- b<sup>ter</sup>.[^50a-6] ai servizi incaricati dell’esercizio della banca dati centrale per documentare lo stato civile o incaricati di gestire il sistema d’informazione per il settore degli stranieri e dell’asilo, qualora i dati siano necessari per assegnare o verificare tale numero;
 - c. agli organi della statistica federale, conformemente alla legge federale del 9 ottobre 1992[^50a-7] sulla statistica federale;
 - c<sup>bis</sup>.[^50a-8] ai registri cantonali dei tumori e al registro dei tumori pediatrici secondo la legge del 18 marzo 2016[^50a-9] sulla registrazione dei tumori;
-- a. alle autorità istruttorie penali, qualora ne necessitino per denunciare o impedire un crimine;
-- [tab] d<sup>bis</sup>.[^50a-10] al Servizio delle attività informative della Confederazione (SIC) o agli organi di sicurezza dei Cantoni a destinazione del SIC, qualora sussista una minaccia concreta per la sicurezza interna o esterna secondo l’articolo 19 capoverso 2 della legge federale del 25 settembre 2015[^50a-11] sulle attività informative;
+- d. alle autorità istruttorie penali, qualora ne necessitino per denunciare o impedire un crimine;
+- d<sup>bis</sup>.[^50a-10] al Servizio delle attività informative della Confederazione (SIC) o agli organi di sicurezza dei Cantoni a destinazione del SIC, qualora sussista una minaccia concreta per la sicurezza interna o esterna secondo l’articolo 19 capoverso 2 della legge federale del 25 settembre 2015[^50a-11] sulle attività informative;
 - e.
 
   in singoli casi e su richiesta scritta e motivata:
@@ -1351,7 +1474,7 @@ Negli altri casi, in deroga all’articolo 33 LPGA, i dati possono essere comuni
 [^50a-6]: Introdotta dal n. I della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^50a-7]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
 [^50a-8]: Introdotta dall’art. 36 della LF del 18 mar. 2016 sulla registrazione delle malattie tumorali, in vigore dal 1° gen. 2020 ([RU 2018 2005](https://fedlex.data.admin.ch/eli/oc/2018/289); [FF 2014 7529](https://fedlex.data.admin.ch/eli/fga/2014/1917)).
-[^50a-9]: RS **813.33**
+[^50a-9]: [RS 818.33](https://fedlex.data.admin.ch/eli/cc/2018/289)
 [^50a-10]: Introdotta dall’all. n. 8 della LF del 23 dic. 2011 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Nuovo testo giusta l’all. n. II 14 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^50a-11]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^50a-12]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
@@ -1372,22 +1495,26 @@ Negli altri casi, in deroga all’articolo 33 LPGA, i dati possono essere comuni
 
 <sup>1</sup>
 
-Possono accedere, mediante procedura di richiamo, al registro centrale degli assicurati e al registro centrale delle prestazioni correnti (art. 71 cpv. 4):
+Possono accedere, mediante procedura di richiamo, al registro delle prestazioni in denaro correnti (art. 49*c*) e al registro degli assicurati (art. 49*d*):[^50b-2]
 
-- a. l’Ufficio centrale del 2° pilastro, nell’ambito dell’articolo 24*d* della legge federale del 17 dicembre 1993[^50b-2] sul libero passaggio;
-- b. le casse di compensazione, gli uffici dell’AI e l’ufficio federale competente, per i dati necessari all’adempimento dei compiti conferiti loro dalla presente legge e dalla LAI[^50b-3];
-- c.[^50b-4] gli assicuratori contro gli infortuni secondo la legge federale del 20 marzo 1981[^50b-5] sull’assicurazione contro gli infortuni, per verificare il diritto dei beneficiari di rendite in corso;
-- d.[^50b-6] l’assicurazione militare, per verificare il diritto dei beneficiari di rendite in corso.
+- a. l’Ufficio centrale del 2° pilastro, nell’ambito dell’articolo 24*d* della legge federale del 17 dicembre 1993[^50b-3] sul libero passaggio;
+- b.[^50b-4] le casse di compensazione, le agenzie da esse designate, gli uffici AI e l’ufficio federale competente, per i dati necessari all’adempimento dei compiti conferiti loro dalla presente legge e dalla LAI[^50b-5];
+- c.[^50b-6] gli assicuratori contro gli infortuni secondo la legge federale del 20 marzo 1981[^50b-7] sull’assicurazione contro gli infortuni, per verificare il diritto dei beneficiari di rendite in corso;
+- d.[^50b-8] l’assicurazione militare, per verificare il diritto dei beneficiari di rendite in corso;
+- e.[^50b-9] gli organi esecutivi competenti per le prestazioni complementari.
 
-<sup>2</sup> Il Consiglio federale disciplina la responsabilità per la protezione dei dati, i dati da raccogliere e i termini di conservazione, l’accesso ai dati, la collaborazione fra utenti, la sicurezza dei dati nonché la partecipazione ai costi da parte degli assicuratori contro gli infortuni e dell’assicurazione militare.[^50b-7]
+<sup>2</sup> ...[^50b-10]
 
 [^50b-1]: Introdotto dal n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
-[^50b-2]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
-[^50b-3]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^50b-4]: Introdotta dall’all. n. 1 della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^50b-5]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^50b-2]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^50b-3]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^50b-4]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^50b-5]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 [^50b-6]: Introdotta dall’all. n. 1 della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^50b-7]: Nuovo testo giusta l’all. n. 1 della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^50b-7]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^50b-8]: Introdotta dall’all. n. 1 della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^50b-9]: Introdotta dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^50b-10]: Abrogato dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), con effetto dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 50c
 
@@ -1477,30 +1604,21 @@ Sono autorizzate a costituire casse di compensazione professionali una o più as
 - a.[^53-4] si possa prevedere, secondo il numero dei membri e la composizione delle associazioni, che la costituenda cassa di compensazione comprenderà almeno 2000 datori di lavoro oppure persone esercitanti un’attività lucrativa indipendente, o incasserà contributi di almeno 50 milioni di franchi l’anno;
 - b. la decisione di costituire una cassa di compensazione sia stata presa dall’organo dell’associazione competente a modificare gli statuti, alla maggioranza di tre quarti dei voti emessi, e sia stata documentata con atto pubblico.
 
+<sup>1bis</sup> Le casse di compensazione professionali vanno costituite quali enti autonomi di diritto pubblico.[^53-5]
+
 <sup>2</sup> Se parecchie delle associazioni indicate nel capoverso 1 costituiscono insieme una cassa di compensazione o se una siffatta associazione intende partecipare alla gestione di una cassa di compensazione esistente, ogni singola associazione deve prendere una decisione conforme al capoverso 1 lettera b per quanto concerne la gestione in comune della cassa.
 
 [^53-1]: Nuovo testo giusta il n. I della LF del 30 set. 1953, in vigore dal 1° gen. 1954 ([RU 1954 102](https://fedlex.data.admin.ch/eli/oc/1954/211_217_102); FF **1953** 449).
 [^53-2]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 [^53-3]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 [^53-4]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^53-5]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 54
 
-**b. Costituzione di casse di compensazione paritetiche[^54-1]**
+**b. ...**[^54-1]
 
-<sup>1</sup> Una associazione di impiegati od operai oppure parecchie di siffatte associazioni insieme, che riuniscano almeno la metà degli impiegati od operai facenti parte della cassa di compensazione da costituire o già esistente, hanno il diritto di chiedere l’amministrazione paritetica della cassa. Questo diritto spetta parimente alle associazioni di impiegati od operai che riuniscono almeno un terzo degli impiegati od operai membri della cassa di compensazione; occorre tuttavia che acconsentano espressamente all’amministrazione paritetica della cassa tutte le altre associazioni di impiegati od operai alle quali appartengano, sia a una sola sia a tutte insieme, 10 per cento almeno degli impiegati od operai membri della cassa di compensazione.
-
-<sup>2</sup> Se le associazioni di impiegati od operai fanno uso del diritto loro conferito nel capoverso 1, le associazioni dei datori di lavoro e quelle di impiegati od operai interessate devono stabilire insieme un regolamento della cassa che disciplini tutte le questioni importanti relative alla gestione di essa.
-
-<sup>3</sup> A giudicare le controversie sorte nello stabilire il regolamento della cassa è competente un tribunale arbitrale, i cui membri sono scelti nel proprio seno dalla Commissione federale dell’assicurazione per la vecchiaia, i superstiti e l’invalidità[^54-2]. Nelle sue decisioni, il tribunale arbitrale è tenuto a ripartire in parti uguali tra le associazioni di datori di lavoro e quelle di impiegati od operai i diritti e i doveri derivanti dalla gestione della cassa.[^54-3] Le decisioni del tribunale arbitrale possono essere impugnate mediante ricorso al Tribunale amministrativo federale.[^54-4] Il Consiglio federale disciplina la procedura d’arbitrato.[^54-5]
-
-<sup>4</sup> Le associazioni di impiegati o di operai che non accettano la decisione del Tribunale perdono il diritto alla partecipazione paritetica all’amministrazione della cassa; le associazioni di datori di lavoro che non accettano la decisione del Tribunale perdono il diritto di costituire una cassa di compensazione professionale.
-
-[^54-1]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^54-2]: Nuova denominazione giusta il n. II lett. a della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
-[^54-3]: Nuovo testo del per. giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^54-4]: Per. introdotto dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS) ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)). Nuovo testo del per. giusta l’all. n. 107 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^54-5]: Nuovo testo del per. giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^54-1]: Abrogato dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), con effetto dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 55
 
@@ -1550,11 +1668,12 @@ Il regolamento deve contenere disposizioni su:
 - d. l’organizzazione interna della cassa;
 - e. la istituzione di agenzie, nonché i compiti e le competenze delle stesse;
 - f. le norme relative alla riscossione di contributi per le spese di amministrazione;
-- g. la revisione della cassa e il controllo dei datori di lavoro;
-- h.[^57-1] la partecipazione, nel caso di più associazioni fondatrici, delle associazioni alla prestazione della garanzia nel senso dell’articolo 55 e l’ordinamento del regresso nei casi in cui sono applicabili l’articolo 78 LPGA[^57-2] e l’articolo 70 della presente legge.
+- g.[^57-1] il controllo dei datori di lavoro;
+- h.[^57-2] la partecipazione, nel caso di più associazioni fondatrici, delle associazioni alla prestazione della garanzia nel senso dell’articolo 55 e l’ordinamento del regresso nei casi in cui sono applicabili l’articolo 78 LPGA[^57-3] e l’articolo 70 della presente legge.
 
-[^57-1]: Nuovo testo giusta l’all. n. 7 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
-[^57-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^57-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^57-2]: Nuovo testo giusta l’all. n. 7 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
+[^57-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 58
 
@@ -1562,19 +1681,29 @@ Il regolamento deve contenere disposizioni su:
 
 <sup>1</sup> L’organo supremo di una cassa di compensazione professionale è il comitato direttivo della cassa.
 
-<sup>2</sup> Il comitato direttivo si compone di rappresentanti delle associazioni fondatrici e, all’occorrenza, di rappresentanti delle organizzazioni di impiegati od operai, se ad esse sono affiliati complessivamente almeno il 10 per cento degli impiegati od operai che dipendono dalla cassa di compensazione. Il presidente, nonché la maggioranza dei membri del comitato direttivo sono designati dalle associazioni fondatrici; gli altri membri, in ogni caso un terzo almeno, dalle organizzazioni di impiegati od operai interessate, in proporzione del numero degli impiegati od operai da esse rappresentati e appartenenti alla cassa di compensazione. Possono essere nominati membri del comitato direttivo soltanto cittadini svizzeri, affiliati alla rispettiva cassa di compensazione in qualità di assicurati o di datori di lavoro.
+<sup>2</sup> Il comitato direttivo si compone di rappresentanti delle associazioni fondatrici e, all’occorrenza, di rappresentanti delle organizzazioni di impiegati od operai, se ad esse sono affiliati complessivamente almeno il 10 per cento degli impiegati od operai che dipendono dalla cassa di compensazione. Il presidente, nonché la maggioranza dei membri del comitato direttivo sono designati dalle associazioni fondatrici; gli altri membri, in ogni caso un terzo almeno, dalle organizzazioni di impiegati od operai interessate, in proporzione del numero degli impiegati od operai da esse rappresentati e appartenenti alla cassa di compensazione. Possono essere nominate membri del comitato direttivo soltanto persone affiliate alla cassa di compensazione in qualità di assicurati o di datori di lavoro.[^58-1]
 
-<sup>3</sup> La composizione del comitato direttivo delle casse di compensazione professionali paritetiche è stabilita a norma del regolamento delle stesse.
+<sup>3</sup> ...[^58-2]
 
-<sup>4</sup>
+<sup>4</sup> ... [^58-3]
 
 Al comitato direttivo incombe:
 
 - a. l’organizzazione interna della cassa;
 - b. la nomina del gerente della cassa;
+- b<sup>bis</sup>.[^58-4] la nomina dell’ufficio di revisione;
 - c. la fissazione dei contributi per le spese di amministrazione;
 - d. il disciplinamento delle revisioni della cassa e dei controlli dei datori di lavoro;
-- e. l’approvazione del conto d’esercizio e del rapporto annuale. Il regolamento può attribuire altri compiti e competenze al comitato direttivo.
+- e.[^58-5] l’approvazione del conto d’esercizio e del rapporto di gestione.
+
+<sup>5</sup> Il regolamento può attribuire altri compiti e competenze al comitato direttivo.[^58-6]
+
+[^58-1]: Nuovo testo del terzo per. giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^58-2]: Abrogato dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), con effetto dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^58-3]: Per. abrogato n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), con effetto dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^58-4]: Introdotta dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^58-5]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^58-6]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 59
 
@@ -1590,11 +1719,18 @@ Al comitato direttivo incombe:
 
 <sup>1</sup> La decisione di scioglimento di una cassa professionale di compensazione deve essere presa dall’organo competente a modificare gli statuti, con la maggioranza di tre quarti dei voti emessi, deve risultare da atto pubblico e essere notificata immediatamente al Consiglio federale, il quale fissa la data dello scioglimento.
 
-<sup>2</sup> Se una delle condizioni indicate negli articoli 53 e 55 non è adempiuta durevolmente o se gli organi di una cassa di compensazione violano in modo grave e ripetutamente loro doveri, il Consiglio federale scioglie la cassa di compensazione. Le casse di compensazione costituite anteriormente al 1° gennaio 1973 sono sciolte per mancato adempimento della condizione relativa ai contributi, soltanto se incassano contributi per un ammontare inferiore a 1 milione di franchi l’anno. L’importo limite applicabile alle casse di compensazione costituite tra il 1° gennaio 1973 e l’entrata in vigore della presente disposizione è di 10 milioni di franchi.[^60-1]
+<sup>1bis</sup> Le casse di compensazione professionali costituiscono riserve in grado di coprire i costi derivanti da uno scioglimento.[^60-1]
 
-<sup>3</sup> Il Consiglio federale emana le disposizioni particolari sulla liquidazione delle casse di compensazione professionali.
+<sup>1ter</sup> Se una cassa di compensazione professionale è sciolta, il Consiglio federale può imporre a una o più altre casse di compensazione professionali di rilevare tutti o parte degli assicurati e dei beneficiari di rendite, nel caso in cui non sia possibile trovare un’altra soluzione. La cassa rilevataria è adeguatamente indennizzata a tal fine. L’indennità è a carico della cassa sciolta e, sussidiariamente, delle sue associazioni fondatrici.[^60-2]
 
-[^60-1]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+<sup>2</sup> Se una delle condizioni indicate negli articoli 53 e 55 non è adempiuta durevolmente o se gli organi di una cassa di compensazione violano in modo grave e ripetutamente loro doveri, il Consiglio federale scioglie la cassa di compensazione. Le casse di compensazione costituite anteriormente al 1° gennaio 1973 sono sciolte per mancato adempimento della condizione relativa ai contributi, soltanto se incassano contributi per un ammontare inferiore a 1 milione di franchi l’anno. L’importo limite applicabile alle casse di compensazione costituite tra il 1° gennaio 1973 e l’entrata in vigore della presente disposizione è di 10 milioni di franchi.[^60-3]
+
+<sup>3</sup> Il Consiglio federale emana disposizioni particolareggiate relative alle riserve e al loro ammontare nonché allo scioglimento delle casse di compensazione professionali.[^60-4]
+
+[^60-1]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^60-2]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^60-3]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^60-4]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 ### II. Casse di compensazione cantonali
 
@@ -1602,19 +1738,31 @@ Al comitato direttivo incombe:
 
 **Decreti cantonali**
 
-<sup>1</sup> Ogni Cantone istituisce, con decreto speciale, una cassa di compensazione cantonale avente carattere di ente autonomo di diritto pubblico.
+<sup>1</sup> Ogni Cantone istituisce mediante decreto una cassa di compensazione cantonale avente carattere di ente autonomo cantonale di diritto pubblico. È fatto salvo il capoverso 1<sup>bis</sup>.[^61-1]
+
+<sup>1bis</sup> La cassa di compensazione cantonale può fare parte di un istituto cantonale delle assicurazioni sociali, se questo ha carattere di ente autonomo di diritto pubblico ed è dotato di una commissione amministrativa indipendente dal Cantone.[^61-2]
 
 <sup>2</sup>
 
-Il decreto cantonale deve essere approvato dalla Confederazione[^61-1] e contenere disposizioni su:
+Il decreto cantonale necessita dell’approvazione della Confederazione e contiene disposizioni su:[^61-3]
 
 - a. i compiti e le competenze del gerente della cassa;
 - b. l’organizzazione interna della cassa;
-- c. l’istituzione di agenzie, nonché i compiti e le competenze delle stesse;
+- c.[^61-4] ...
 - d. le norme relative alla riscossione di contributi per le spese di amministrazione;
-- e. le revisioni della cassa e i controlli dei datori di lavoro.
+- d<sup>bis</sup>.[^61-5] la nomina dell’ufficio di revisione;
+- e.[^61-6] il controllo dei datori di lavoro;
+- f.[^61-7] l’approvazione del conto d’esercizio e del rapporto di gestione della cassa di compensazione;
+- g.[^61-8] l’istituzione della commissione amministrativa nonché le dimensioni, la composizione e le competenze della stessa.
 
-[^61-1]: Espr. modificata dal n. III della LF del 15 dic. 1989 conc. l’approvazione di atti legislativi dei Cantoni da parte della Confederazione, in vigore dal 1° feb. 1991 ([RU 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)369; [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
+[^61-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)). Vedi anche le disp. fin. di detta mod. alla fine del testo.
+[^61-2]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)). Vedi anche le disp. fin. di detta mod. alla fine del testo.
+[^61-3]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^61-4]: Abrogata dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), con effetto dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^61-5]: Introdotta dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^61-6]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^61-7]: Introdotta dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^61-8]: Introdotta dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 ### III. Casse di compensazione della Confederazione
 
@@ -1638,31 +1786,60 @@ Il decreto cantonale deve essere approvato dalla Confederazione[^61-1] e contene
 
 <sup>1</sup>
 
-I compiti che, in conformità di legge, incombono alle casse di compensazione sono i seguenti:
+Alle casse di compensazione incombono in particolare i compiti seguenti:[^63-1]
 
 - a. la fissazione, la riduzione e il condono dei contributi;
-- b. la fissazione delle rendite e degli assegni per grandi invalidi[^63-1];
-- c.[^63-2] la riscossione dei contributi e il pagamento delle rendite e degli assegni per grandi invalidi;
-- d. l’allestimento del conto dei contributi riscossi, delle rendite e degli assegni per grandi invalidi[^63-3] pagati con i propri affiliati (datori di lavoro, persone che esercitano un’attività lucrativa indipendente e persone che non esercitano un’attività lucrativa) da una parte, e con l’Ufficio centrale di compensazione, dall’altra parte;
+- b. la fissazione delle rendite e degli assegni per grandi invalidi[^63-2];
+- c.[^63-3] la riscossione dei contributi e il pagamento delle rendite e degli assegni per grandi invalidi;
+- d. l’allestimento del conto dei contributi riscossi, delle rendite e degli assegni per grandi invalidi[^63-4] pagati con i propri affiliati (datori di lavoro, persone che esercitano un’attività lucrativa indipendente e persone che non esercitano un’attività lucrativa) da una parte, e con l’Ufficio centrale di compensazione, dall’altra parte;
 - e. la tassazione d’ufficio e l’applicazione della procedura di diffida e di esecuzione;
-- f. la tenuta dei conti individuali[^63-4];
+- f. la tenuta dei conti individuali[^63-5];
 - g. la riscossione dei contributi per le spese di amministrazione.
 
 <sup>2</sup> Le casse di compensazione cantonali devono inoltre vigilare che siano assoggettate all’assicurazione tutte le persone tenute a pagare dei contributi.
 
-<sup>3</sup> Il Consiglio federale può affidare alle casse di compensazione altri compiti nell’ambito della presente legge. Esso disciplina la collaborazione tra le casse di compensazione e l’Ufficio centrale di compensazione e provvede a un impiego opportuno d’attrezzature tecniche.[^63-5]
+<sup>3</sup> Il Consiglio federale può affidare alle casse di compensazione altri compiti nell’ambito della presente legge.[^63-6] Esso disciplina la collaborazione tra le casse di compensazione e l’Ufficio centrale di compensazione.[^63-7]
 
-<sup>4</sup> La Confederazione e, con l’approvazione del Consiglio federale, i Cantoni e le associazioni fondatrici possono affidare alle casse di compensazione altri compiti, in particolare quelli relativi alla protezione dei militari e della famiglia.
+<sup>4</sup> ... [^63-8]
 
-<sup>5</sup> Le casse di compensazione possono affidare a terzi l’esecuzione di determinati compiti; necessitano a tal fine dell’autorizzazione del Consiglio federale. L’autorizzazione può essere subordinata a condizioni e oneri. Gli incaricati e il loro personale sottostanno all’obbligo del segreto secondo l’articolo 33 LPGA[^63-6]; sono tenuti a rispettare le prescrizioni della presente legge relative al trattamento e alla comunicazione di dati. La responsabilità di cui all’articolo 78 LPGA e all’articolo 70 della presente legge per i compiti svolti da terzi resta alle associazioni fondatrici o ai Cantoni.[^63-7]
+<sup>5</sup> ...[^63-9]
 
-[^63-1]: Nuova locuzione giusta il n. II lett. b della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
-[^63-2]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^63-3]: Nuova locuzione giusta il n. II lett. b della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
-[^63-4]: Nuova designazione giusta il n. II lett. a della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
-[^63-5]: Nuovo testo giusta il n. I della LF del 19 dic. 1963 in vigore dal 1° gen. 1964 ([RU 1964 277](https://fedlex.data.admin.ch/eli/oc/1964/285_277_277); FF **1963** 1209).
-[^63-6]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^63-7]: Introdotto dal n. I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS) ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)). Nuovo testo giusta il n. I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+[^63-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^63-2]: Nuova locuzione giusta il n. II lett. b della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
+[^63-3]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^63-4]: Nuova locuzione giusta il n. II lett. b della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
+[^63-5]: Nuova designazione giusta il n. II lett. a della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
+[^63-6]: Nuovo testo giusta il n. I della LF del 19 dic. 1963 in vigore dal 1° gen. 1964 ([RU 1964 277](https://fedlex.data.admin.ch/eli/oc/1964/285_277_277); FF **1963** 1209).
+[^63-7]: Nuovo testo del secondo per. giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^63-8]: Abrogato dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), con effetto dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^63-9]: Introdotto dal n. I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS) ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)). Abrogato dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), con effetto dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+
+#### Art. 63a
+
+**Delega di altri compiti alle casse di compensazione**[^63a-1]
+
+<sup>1</sup> La Confederazione e, con l’approvazione del Consiglio federale, i Cantoni e le associazioni fondatrici possono delegare alle casse di compensazione altri compiti. L’approvazione può essere vincolata a condizioni e oneri.
+
+<sup>2</sup> La delega di compiti non deve pregiudicare la regolare applicazione dell’assicurazione per la vecchiaia e per i superstiti.
+
+<sup>3</sup> Chi delega compiti garantisce che i costi derivanti alle casse di compensazione dall’adempimento di tali compiti siano interamente coperti.
+
+<sup>4</sup> Per l’esecuzione dei compiti delegati dalla Confederazione, le casse di compensazione sono vincolate esclusivamente alle istruzioni dell’autorità di vigilanza di cui all’articolo 72.
+
+[^63a-1]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+
+#### Art. 63b
+
+**Delega di compiti delle casse a terzi**[^63b-1]
+
+<sup>1</sup> Le casse di compensazione possono, con l’approvazione del Consiglio federale, delegare a terzi determinati compiti secondo gli articoli 63 capoverso 1 e 63*a* capoverso 1. L’approvazione può essere vincolata a condizioni e oneri.
+
+<sup>2</sup> I terzi incaricati e il loro personale sono tenuti a rispettare le prescrizioni della presente legge, in particolare le disposizioni relative al trattamento e alla comunicazione di dati. Essi sottostanno all’obbligo del segreto secondo l’articolo 33 LPGA[^63b-2] per i compiti delle casse da essi svolti.
+
+<sup>3</sup> La responsabilità di cui all’articolo 78 LPGA e all’articolo 70 della presente legge per i compiti delle casse che vengono svolti da terzi resta alle associazioni fondatrici o ai Cantoni.
+
+[^63b-1]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^63b-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 64
 
@@ -1672,33 +1849,34 @@ I compiti che, in conformità di legge, incombono alle casse di compensazione so
 
 <sup>2</sup> Sono affiliati alle casse di compensazione cantonali tutti i datori di lavoro e le persone esercitanti un’attività lucrativa indipendente che non fanno parte di un’associazione fondatrice di una cassa di compensazione professionale, nonché le persone che non hanno un occupazione lucrativa e gli assicurati a dipendenza di datori di lavoro non tenuti al pagamento dei contributi.
 
-<sup>2bis</sup> Gli assicurati che cessano di esercitare un’attività lucrativa prima di raggiungere l’età ordinaria di pensionamento ma hanno raggiunto il limite d’età fissato dal Consiglio federale restano affiliati quali persone senza attività lucrativa alla cassa di compensazione precedentemente competente. Il Consiglio federale può stabilire che il loro coniuge senza attività lucrativa e tenuto a pagare i contributi sia affiliato alla stessa cassa di compensazione.[^64-2]
+<sup>2bis</sup> Gli assicurati che cessano di esercitare un’attività lucrativa prima di raggiungere l’età di riferimento restano affiliati quali persone senza attività lucrativa alla cassa di compensazione precedentemente competente, se hanno raggiunto il limite d’età richiesto; il Consiglio federale fissa questo limite d’età.[^64-2] Il Consiglio federale può stabilire che il loro coniuge senza attività lucrativa e tenuto a pagare i contributi sia affiliato alla stessa cassa di compensazione.[^64-3]
 
 <sup>3</sup> L’affiliazione di un datore di lavoro a una cassa di compensazione si estende a tutti gli impiegati e operai per i quali egli è tenuto a versare dei contributi.
 
-<sup>3bis</sup> Le persone assicurate in virtù dell’articolo 1*a* capoverso 4 lettera c sono affiliate alla stessa cassa di compensazione del coniuge.[^64-3]
+<sup>3bis</sup> Le persone assicurate in virtù dell’articolo 1*a* capoverso 4 lettera c sono affiliate alla stessa cassa di compensazione del coniuge.[^64-4]
 
-<sup>4</sup> Il Consiglio federale emana le disposizioni sull’affiliazione di datori di lavoro e di persone esercitanti un’attività lucrativa indipendente, che fanno parte di più associazioni professionali o che esercitano la loro attività in più di un Cantone.[^64-4]
+<sup>4</sup> Il Consiglio federale emana le disposizioni sull’affiliazione di datori di lavoro e di persone esercitanti un’attività lucrativa indipendente, che fanno parte di più associazioni professionali o che esercitano la loro attività in più di un Cantone.[^64-5]
 
-<sup>5</sup> I datori di lavoro, le persone esercitanti un’attività lucrativa indipendente, le persone che non hanno un’occupazione lucrativa e gli assicurati dipendenti da datori di lavoro non tenuti al pagamento dei contributi, devono, se non sono già affiliati, annunciarsi alla cassa cantonale di compensazione.[^64-5]
+<sup>5</sup> I datori di lavoro, le persone esercitanti un’attività lucrativa indipendente, le persone che non hanno un’occupazione lucrativa e gli assicurati dipendenti da datori di lavoro non tenuti al pagamento dei contributi, devono, se non sono già affiliati, annunciarsi alla cassa cantonale di compensazione.[^64-6]
 
-<sup>6</sup> In deroga all’articolo 35 LPGA[^64-6], le controversie sull’affiliazione alle casse di compensazione sono giudicate dal competente ufficio federale. La sua decisione può essere invocata dalle casse di compensazione e dalle persone interessate entro 30 giorni dal ricevimento dell’avviso riguardante l’affiliazione.[^64-7]
+<sup>6</sup> In deroga all’articolo 35 LPGA[^64-7], le controversie sull’affiliazione alle casse di compensazione sono giudicate dal competente ufficio federale. La sua decisione può essere invocata dalle casse di compensazione e dalle persone interessate entro 30 giorni dal ricevimento dell’avviso riguardante l’affiliazione.[^64-8]
 
-[^64-1]: Introdotto dal n. I della LF del 30 giu. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [FF 1971 II 729](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)).
-[^64-2]: Introdotto dal n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^64-3]: Introdotto dal n. I della LF del 23 giu. 2000 ([RU 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [FF 1999 4303](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)). Nuovo testo giusta il n. I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
-[^64-4]: Nuovo testo giusta il n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^64-5]: Introdotto dal n. I della LF del 30 giu. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [FF 1971 II 729](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)).
-[^64-6]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^64-7]: Introdotto dall’all. n. 7 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
+[^64-1]: Nuovo testo giusta il n. I della LF del 30 giu. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [FF 1971 II 729](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)).
+[^64-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^64-3]: Introdotto dal n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^64-4]: Introdotto dal n. I della LF del 23 giu. 2000 ([RU 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [FF 1999 4303](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)). Nuovo testo giusta il n. I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+[^64-5]: Nuovo testo giusta il n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^64-6]: Introdotto dal n. I della LF del 30 giu. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [FF 1971 II 729](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)).
+[^64-7]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^64-8]: Introdotto dall’all. n. 7 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
 #### Art. 64a
 
 **Competenza per la determinazione e il versamento delle rendite per coniugi**[^64a-1]
 
-La fissazione e il versamento delle rendite per coniugi incombono alla cassa di compensazione che deve versare la rendita del coniuge che per primo raggiunge l’età del pensionamento. È fatto salvo l’articolo 62 capoverso 2. Il Consiglio federale disciplina la procedura.
+La fissazione e il versamento delle rendite per coniugi incombono alla cassa di compensazione che deve versare la rendita del coniuge che riscuote per primo la rendita di vecchiaia; è fatto salvo l’articolo 62 capoverso 2. Il Consiglio federale disciplina la procedura.
 
-[^64a-1]: Introdotto dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^64a-1]: Introdotto dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS) ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)). Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 65
 
@@ -1706,37 +1884,123 @@ La fissazione e il versamento delle rendite per coniugi incombono alla cassa di 
 
 <sup>1</sup> Le casse di compensazione professionali possono istituire agenzie in singole regioni linguistiche o in Cantoni ove si trova un numero rilevante di datori di lavoro e di persone esercitanti attività lucrativa indipendente, a esse affiliati. Esse sono tenute a istituirne una se, in una regione linguistica o in un Cantone, un numero rilevante di datori di lavoro o di persone esercitanti un’attività lucrativa indipendente, affiliati a esse, ne fa richiesta.
 
-<sup>2</sup> Di regola, le casse di compensazione cantonali devono avere un’agenzia in ogni Comune. Qualora le circostanze lo giustifichino, può essere istituita un’agenzia unica per più Comuni.
+<sup>2</sup> Le casse di compensazione cantonali possono istituire agenzie.[^65-1]
 
 <sup>3</sup> I Governi cantonali possono istituire agenzie della cassa cantonale di compensazione per il personale dell’amministrazione e delle aziende cantonali, nonché per gli impiegati e gli operai dei Comuni.
 
+[^65-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+
 #### Art. 66
 
-**Organi delle casse e degli uffici di revisione e di controllo**
+**Gestione dei rischi e della qualità, sistema di controllo interno**[^66-1]
 
-<sup>1</sup> ...[^66-1]
+<sup>1</sup> Le casse di compensazione identificano, limitano e sorvegliano i principali rischi (gestione dei rischi).
 
-<sup>2</sup> Il gerente di una cassa di compensazione professionale e il suo supplente non devono essere in rapporto di servizio qualsiasi con le associazioni fondatrici.
+<sup>2</sup> Esse applicano un sistema di gestione della qualità e istituiscono un sistema di controllo interno della propria attività. Entrambi i sistemi sono adeguati alle dimensioni delle casse e al volume dei loro compiti.
 
-[^66-1]: Abrogato dall’all. n. 7 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, con effetto dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
+<sup>3</sup> Il Consiglio federale può emanare prescrizioni sui requisiti minimi richiesti per la gestione dei rischi, la gestione della qualità e il sistema di controllo interno.
+
+[^66-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
+
+#### Art. 66a
+
+**Garanzia di un’attività irreprensibile**[^66a-1]
+
+Le seguenti persone devono godere di buona reputazione, offrire la garanzia di un’attività irreprensibile e dichiarare le proprie relazioni d’interesse:
+
+- a. i membri del comitato direttivo di una cassa di compensazione professionale;
+- b. i membri della commissione amministrativa di una cassa di compensazione cantonale;
+- c. il gerente, il suo supplente e le altre persone cui sono affidati compiti di direzione.
+
+[^66a-1]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+
+#### Art. 66b
+
+**Rapporti della cassa di compensazione**[^66b-1]
+
+Le casse di compensazione presentano annualmente all’autorità di vigilanza un rapporto di gestione e mettono a sua disposizione gli indicatori necessari per l’esercizio della vigilanza.
+
+[^66b-1]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 67
 
-**Regolamento dei conti e dei pagamenti; contabilità**
+**Presentazione dei conti**[^67-1]
 
-Il Consiglio federale emana le disposizioni necessarie sul regolamento di conti e dei pagamenti delle casse di compensazione con i datori di lavoro, le persone che esercitano un’attività lucrativa indipendente, le persone che non esercitano un’attività lucrativa e i beneficiari di rendite, da una parte, e con l’Ufficio centrale di compensazione, dall’altra parte; esso stabilisce parimente le disposizioni sulla contabilità delle casse di compensazione.
+<sup>1</sup> Per la presentazione dei conti da parte delle casse di compensazione vige il principio della trasparenza.
+
+<sup>2</sup>
+
+Il Consiglio federale emana prescrizioni sulle modalità con cui deve essere garantita la trasparenza. In particolare disciplina le modalità secondo cui:
+
+- a. impostare il regolamento dei conti e dei pagamenti delle casse di compensazione con i datori di lavoro, le persone che esercitano un’attività lucrativa indipendente, le persone che non esercitano un’attività lucrativa e i beneficiari di rendite, da una parte, e con l’Ufficio centrale di compensazione, dall’altra parte;
+- b. indicare le spese di amministrazione e il loro finanziamento;
+- c. impostare la contabilità e la presentazione dei conti delle casse di compensazione;
+- d. impostare la contabilità e la presentazione dei conti dell’istituto cantonale delle assicurazioni sociali di cui fa parte una cassa di compensazione cantonale secondo l’articolo 61 capoverso 1<sup>bis</sup>.
+
+[^67-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 68
 
-**Revisione delle casse e controllo dei datori di lavoro**
+**Requisiti relativi all’ufficio di revisione e al capo revisore**[^68-1]
 
-<sup>1</sup> Ogni cassa di compensazione, comprese le sue agenzie, deve essere sottoposta a revisione periodica. La revisione deve estendersi alla contabilità e alla gestione. Essa deve essere fatta da un ufficio di revisione che soddisfi ai requisiti posti nel capo-verso 3. I Cantoni possono affidare la revisione delle loro casse di compensazione a un idoneo ufficio cantonale di controllo. Il Consiglio federale può far eseguire, se occorre, delle revisioni complementari.
+<sup>1</sup> Ogni cassa di compensazione, comprese le sue agenzie, è sottoposta a revisione da parte di un’impresa di revisione abilitata a esercitare la funzione di perito revisore secondo la legge del 16 dicembre 2005[^68-2] sui revisori (LSR).
 
-<sup>2</sup> Periodicamente si dovrà controllare se i datori di lavoro affiliati alla cassa di compensazione applicano le disposizioni legali. Il controllo deve essere fatto da un ufficio di revisione che soddisfi ai requisiti posti nel capoverso 3, o da un ufficio speciale della cassa di compensazione. Se i controlli dei datori di lavoro non sono eseguiti o sono eseguiti in modo non conforme alle prescrizioni, il Consiglio federale ne ordina l’esecuzione a spese della cassa di compensazione.
+<sup>2</sup> Possono esercitare la funzione di capo revisore le persone fisiche abilitate a esercitare la funzione di perito revisore secondo la LSR.
 
-<sup>3</sup> Gli uffici previsti per le revisioni delle casse e i controlli dei datori di lavoro in conformità dei capoversi 1 e 2, non devono partecipare alla gestione della cassa ne eseguire, per conto delle associazioni fondatrici, altri compiti che le revisioni di cassa e i controlli dei datori di lavoro; essi devono dedicarsi esclusivamente all’attività di revisori e offrire sotto tutti gli aspetti garanzia assoluta di eseguire le revisioni e i controlli in modo ineccepibile e oggettivo.
+<sup>3</sup> All’indipendenza dell’ufficio di revisione si applica per analogia l’articolo 728 del Codice delle obbligazioni[^68-3], fatta eccezione per i capoversi 2 numero 2 e 6 relativamente alle società da verificare (prima parte del periodo). Il Consiglio federale può definire ulteriori criteri riguardanti l’incompatibilità con il mandato di verifica dell’ufficio di revisione.
 
-<sup>4</sup> Il Consiglio federale emana le prescrizioni particolari relative all’ammissione degli uffici di revisione e all’esecuzione delle revisioni delle casse e del controllo dei datori di lavoro.
+<sup>4</sup> Il Consiglio federale emana prescrizioni particolareggiate sui requisiti relativi all’ufficio di revisione e al capo revisore in aggiunta alle condizioni di abilitazione di cui ai capoversi 1 e 2.
+
+<sup>5</sup> Se una cassa di compensazione fa parte di un istituto cantonale delle assicurazioni sociali, l’ufficio di revisione di quest’ultimo deve adempiere le condizioni di cui ai capoversi 1–4 ed eseguire anche la revisione della cassa di compensazione.
+
+[^68-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^68-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^68-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 68a
+
+**Compiti dell’ufficio di revisione**[^68a-1]
+
+<sup>1</sup> L’ufficio di revisione verifica se il conto d’esercizio è stato allestito conformemente all’articolo 67.
+
+<sup>2</sup>
+
+Verifica inoltre se:
+
+- a. la contabilità è conforme alle disposizioni legali;
+- b. l’organizzazione e la gestione sono conformi alle disposizioni legali;
+- c. i sistemi d’informazione soddisfano i requisiti di cui all’articolo 72*a* capoverso 2 lettera b;
+- d. la gestione dei rischi, il sistema di gestione della qualità e il sistema di controllo interno soddisfano i requisiti di cui all’articolo 66;
+- e. i compiti delegati secondo l’articolo 63*a* capoverso 1 sono svolti conformemente a quanto approvato dal Consiglio federale.
+
+<sup>3</sup> L’ufficio di revisione presenta un rapporto sulla revisione all’autorità di vigilanza, conformemente alle istruzioni di quest’ultima. Se la cassa di compensazione fa parte di un istituto cantonale delle assicurazioni sociali, l’ufficio di revisione presenta all’autorità di vigilanza anche il rapporto sulla revisione dell’istituto delle assicurazioni sociali.
+
+<sup>4</sup> L’ufficio di revisione notifica senza indugio all’autorità di vigilanza l’eventuale constatazione di reati, gravi irregolarità o violazioni dei principi di un’attività irreprensibile.
+
+<sup>5</sup> Il Consiglio federale può incaricare l’autorità di vigilanza di emanare prescrizioni particolareggiate relative all’esecuzione delle revisioni. Le casse di compensazione sono sentite in merito a queste prescrizioni.
+
+[^68a-1]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+
+#### Art. 68b
+
+**Controllo dei datori di lavoro**[^68b-1]
+
+<sup>1</sup>
+
+La cassa di compensazione controlla periodicamente se i datori di lavoro che le sono affiliati si attengono alle disposizioni legali. Essa può far eseguire il controllo da:
+
+- a. un’impresa di revisione e un capo revisore che adempiono i requisiti di cui all’articolo 68;
+- b. un servizio speciale della cassa di compensazione o un’organizzazione specializzata delle casse di compensazione;
+- c. un assicuratore o un organo esecutivo di un’assicurazione sociale secondo la LPGA[^68b-2].
+
+<sup>2</sup> Gli organi incaricati di svolgere il controllo dei datori di lavoro presentano alla cassa di compensazione un rapporto in merito.
+
+<sup>3</sup> Essi notificano senza indugio alla cassa di compensazione l’eventuale constatazione di reati o gravi irregolarità.
+
+<sup>4</sup> Il Consiglio federale può incaricare l’autorità di vigilanza di emanare prescrizioni particolareggiate relative al controllo dei datori di lavoro.
+
+[^68b-1]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^68b-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 69
 
@@ -1750,11 +2014,12 @@ Il Consiglio federale emana le disposizioni necessarie sul regolamento di conti 
 
 <sup>3</sup> I contributi alle spese di amministrazione prelevati in virtù del capoverso 1, e i sussidi concessi in virtù del capoverso 2, devono essere impiegati esclusivamente per coprire le spese di amministrazione delle casse di compensazione e delle loro agenzie, nonché per sopperire alle spese di revisione e di controllo. Le casse di compensazione devono tenere un conto separato delle spese di amministrazione.
 
-<sup>4</sup> Per la copertura delle spese di amministrazione delle casse di compensazione professionali paritetiche, le associazioni fondatrici possono conchiudere convenzioni particolari, le quali devono essere inserite nel regolamento delle casse.
+<sup>4</sup> ...[^69-4]
 
 [^69-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^69-2]: [RS 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
 [^69-3]: Introdotto dall’all. n. 6 della L del 17 giu. 2005 contro il lavoro nero, in vigore dal 1° gen. 2008 ([RU 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [FF 2002 3243](https://fedlex.data.admin.ch/eli/fga/2002/520)).
+[^69-4]: Abrogato dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), con effetto dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 70
 
@@ -1793,19 +2058,21 @@ La pretesa di risarcimento per danni si estingue:
 
 <sup>3</sup> L’Ufficio centrale provvede a che le somme provenienti dai saldi dei conti siano rimesse, dalle casse di compensazione, al Fondo di compensazione AVS, oppure che siano da quest’ultimo accreditate alle dette casse. A questo scopo, nonché per la prestazione di anticipi alle casse, esso può emettere direttamente degli assegni sul Fondo di compensazione AVS.
 
-<sup>4</sup>
+<sup>4</sup> L’Ufficio centrale è responsabile della gestione e dell’ulteriore sviluppo del registro delle prestazioni in denaro correnti (art. 49*c*) e del registro degli assicurati (art. 49*d*).[^71-3]
 
-L’Ufficio centrale tiene:
+<sup>4bis</sup> Su domanda, e in collaborazione con le organizzazioni specializzate degli organi esecutivi competenti per l’assicurazione per la vecchiaia e per i superstiti, l’assicurazione per l’invalidità, le indennità di perdita di guadagno e gli assegni familiari nell’agricoltura, l’Ufficio centrale può sviluppare e gestire un sistema d’informazione che consente agli assicurati di trasmettere dati agli organi esecutivi e a questi ultimi di scambiarsi dati tra loro.[^71-4]
 
-- a. un registro centrale degli assicurati che contiene i numeri AVS assegnati agli assicurati, i numeri AVS esteri necessari per l’esecuzione di convenzioni internazionali di sicurezza sociale e le casse di compensazione che tengono un conto individuale per un assicurato;
-- b. un registro centrale delle prestazioni correnti, incluse le indicazioni relative alla concessione di rendite straniere, che contiene le prestazioni in denaro, allo scopo di evitare pagamenti indebiti, agevolare l’adeguamento delle prestazioni e notificare i decessi alle casse di compensazione.[^71-3]
+<sup>5</sup> L’Ufficio centrale provvede affinché tutti i conti individuali dell’assicurato siano presi in considerazione nel caso di assegnazione della rendita.[^71-5]
 
-<sup>5</sup> L’Ufficio centrale provvede affinché tutti i conti individuali dell’assicurato siano presi in considerazione nel caso di assegnazione della rendita.[^71-4]
+<sup>6</sup> L’Ufficio centrale completa le richieste di informazioni trasmessegli dall’Ufficio centrale del 2° pilastro secondo l’articolo 58*a* della legge federale del 25 giugno 1982[^71-6] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità (LPP) e risponde alle medesime.[^71-7]
 
 [^71-1]: Introdotto dall’all. n. II 4 della LF del 16 giu. 2017 sui fondi di compensazione, in vigore dal 1° gen. 2019 ([RU 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 255](https://fedlex.data.admin.ch/eli/fga/2016/68)).
 [^71-2]: Nuova locuzione giusta il n. II lett. b della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
-[^71-3]: Nuovo testo giusta l’all. n. 1 della LF del 21 giu. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1303](https://fedlex.data.admin.ch/eli/fga/2018/671)).
-[^71-4]: Introdotto dal n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^71-3]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^71-4]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^71-5]: Introdotto dal n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^71-6]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^71-7]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 71a
 
@@ -1819,21 +2086,48 @@ Per la responsabilità è applicabile per analogia l’articolo 70 capoversi 1�
 
 #### Art. 72
 
-**Autorità di vigilanza**
+**Autorità di vigilanza**[^72-1]
 
-<sup>1</sup> Per svolgere le sue funzioni di vigilanza secondo l’articolo 76 LPGA[^72-1], il Consiglio federale può incaricare il competente ufficio federale di impartire istruzioni agli enti incaricati dell’attuazione dell’assicurazione allo scopo di garantire un’applicazione unitaria. Inoltre, può autorizzare l’ufficio federale ad allestire tavole vincolanti per il calcolo dei contributi e delle prestazioni.[^72-2]
+Il Consiglio federale designa l’autorità di vigilanza.
 
-<sup>2</sup> I funzionari delle casse che non adempiono i loro compiti in conformità delle prescrizioni, nei casi di mancanza grave ai propri doveri, devono essere revocati dal loro ufficio dal Cantone o dal comitato direttivo della cassa, a richiesta del Consiglio federale.
+[^72-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
-<sup>3</sup> Nei casi di grave e ripetuta inosservanza delle disposizioni da parte di una cassa di compensazione, il Consiglio federale può affidarne l’amministrazione a un commissario. È riservato lo scioglimento di una cassa di compensazione professionale in conformità dell’articolo 60.
+#### Art. 72a
 
-<sup>4</sup> Le casse di compensazione devono presentare periodicamente al Consiglio federale, nella forma da questo prescritta, una relazione sulla loro gestione. Gli uffici di revisione e di controllo devono presentare al Consiglio federale, in conformità delle sue istruzioni, un rapporto sulle revisioni e i controlli da essi eseguiti conformemente all’articolo 68. Il Consiglio federale provvede affinché siano eliminati i difetti rilevati.
+**Compiti dell’autorità di vigilanza**[^72a-1]
 
-<sup>5</sup> Gli organi esecutivi mettono annualmente a disposizione del Consiglio federale i dati statistici necessari.[^72-3]
+<sup>1</sup> L’autorità di vigilanza sorveglia l’esecuzione della presente legge per assicurare un’applicazione uniforme e di elevata qualità dell’assicurazione per la vecchiaia e per i superstiti.
 
-[^72-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^72-2]: Nuovo testo giusta l’all. n. 7 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
-[^72-3]: Introdotto dal n. I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
+<sup>2</sup>
+
+Adempie segnatamente i seguenti compiti:
+
+- a. valuta sistematicamente i rapporti degli uffici di revisione e i rapporti di gestione delle casse di compensazione e adotta le misure eventualmente necessarie;
+- b. previa consultazione degli organi esecutivi, fissa i requisiti in materia di sicurezza delle informazioni e protezione dei dati che i sistemi d’informazione devono garantire secondo l’articolo 49*a* capoverso 2;
+- c. emana istruzioni allo scopo di garantire un’esecuzione uniforme;
+- d. emana istruzioni per il calcolo dei contributi e delle prestazioni;
+- e. rileva indicatori presso le casse di compensazione e l’Ufficio centrale di compensazione ed elabora statistiche.
+
+[^72a-1]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+
+#### Art. 72b
+
+**Provvedimenti dell’autorità di vigilanza**[^72b-1]
+
+L’autorità di vigilanza può:
+
+- a. esigere che le casse di compensazione le forniscano tutte le informazioni o i documenti necessari per la sua attività di vigilanza;
+- b. stabilire obiettivi per una cassa di compensazione in casi specifici;
+- c. impartire istruzioni a una cassa di compensazione in casi specifici;
+- d. ordinare un controllo dei datori di lavoro a spese della cassa di compensazione;
+- e. eseguire una revisione complementare oppure ordinarne una a spese della cassa di compensazione;
+- f. esigere dal competente organo di nomina che i responsabili di cui all’articolo 66*a* che non offrono la garanzia di un’attività irreprensibile siano revocati dalla loro funzione;
+- g. esigere dal competente organo di nomina che il gerente, il suo supplente e le altre persone cui sono affidati compiti di direzione siano avvertiti, ammoniti o, nei casi di mancanza grave ai propri doveri, revocati dalla loro funzione, qualora non adempiano i loro obblighi in conformità delle prescrizioni;
+- h. nei casi di grave e ripetuta inosservanza delle prescrizioni legali, affidare l’amministrazione della cassa di compensazione a un commissario;
+- i. in casi motivati, esigere dal competente organo di nomina la revoca dell’ufficio di revisione dalla sua funzione;
+- j. sospendere il versamento di eventuali sussidi prelevati dal Fondo di compensazione AVS.
+
+[^72b-1]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 73
 
@@ -2013,36 +2307,30 @@ L’Ufficio centrale di compensazione confronta le indennità giornaliere notifi
 
 #### Art. 95
 
-**Assunzione delle spese e tasse postali**[^95-1]
+**Rimborso e assunzione delle spese**[^95-1]
 
 <sup>1</sup>
 
-Il Fondo di compensazione AVS rimborsa alla Confederazione le spese:
+Il Fondo di compensazione AVS rimborsa alla Confederazione:
 
-- a. di amministrazione del Fondo di compensazione AVS;
-- b. dell’Ufficio centrale di compensazione; come pure
-- c. della cassa di compensazione indicata nell’articolo 62 capoverso 2 per quanto derivino dall’applicazione dell’assicurazione per la vecchiaia e per i superstiti. Le spese risultanti dall’applicazione dell’assicurazione facoltativa sono rimborsate soltanto fino a concorrenza dell’ammontare non coperto dai contributi per le spese di amministrazione.[^95-2] [^95-3]
+- a. le spese dell’Ufficio centrale di compensazione;
+- b. le spese della cassa di compensazione indicata nell’articolo 62 capoverso 2 risultanti dall’applicazione dell’assicurazione per la vecchiaia e per i superstiti; le spese risultanti dall’applicazione dell’assicurazione facoltativa sono rimborsate soltanto fino a concorrenza dell’ammontare non coperto dai contributi per le spese di amministrazione;
+- c. le spese da essa sostenute per lo svolgimento dei compiti di vigilanza, l’applicazione dell’assicurazione per la vecchiaia e per i superstiti e un’informazione generale degli assicurati in merito ai contributi e alle prestazioni;
+- d. le spese da essa sostenute per effettuare o far effettuare studi scientifici sull’attuazione e sugli effetti della presente legge al fine di migliorare il funzionamento dell’assicurazione; e
+- e. le spese di esecuzione e di vigilanza da essa sostenute per la concessione dei sussidi di cui all’articolo 101<sup>bis</sup>.
 
-<sup>1bis</sup> Il Fondo di compensazione AVS rimborsa inoltre alla Confederazione le altre spese derivanti dallo svolgimento dei compiti di vigilanza, dall’applicazione dell’assicurazione per la vecchiaia e per i superstiti e da un’informazione generale degli assicurati in merito ai contributi e alle prestazioni.[^95-4] Dopo aver consultato il consiglio d’amministrazione del Fondo di compensazione AVS, il Consiglio federale fissa l’importo che può essere utilizzato per l’informazione degli assicurati.[^95-5]
+<sup>2</sup> Nel quadro del capoverso 1 lettera a, il Fondo di compensazione AVS rimborsa all’Ufficio centrale di compensazione le spese derivanti dalla gestione e dall’ulteriore sviluppo del registro delle prestazioni in denaro correnti, del registro degli assicurati nonché del sistema d’informazione di cui all’articolo 71 capoverso 4<sup>bis</sup>.
 
-<sup>1ter</sup> Il Fondo di compensazione AVS assume anche le spese sostenute dalla Confederazione per effettuare o far effettuare studi scientifici sull’attuazione e sugli effetti della presente legge al fine di migliorare il funzionamento dell’assicurazione.[^95-6]
+<sup>3</sup>
 
-<sup>1quater</sup> Su richiesta dell’ufficio federale competente, il Fondo di compensazione AVS assume le spese per lo sviluppo di applicazioni informatiche che comportino agevolazioni sia per le casse di compensazione sia per gli assicurati e i datori di lavoro.[^95-7]
+Il Fondo di compensazione AVS assume:
 
-<sup>2</sup> Il Fondo di compensazione AVS assume le tasse postali derivanti dall’applicazione dell’assicurazione per la vecchiaia e per i superstiti.[^95-8] Esse devono essere rifuse in una cifra globale all’amministrazione postale. Il Consiglio federale emanerà le disposizioni particolari delimitanti l’affrancatura in blocco.
+- a. le spese per lo sviluppo e la gestione di sistemi d’informazione utilizzabili a livello nazionale, a condizione che essi comportino agevolazioni per le casse di compensazione, gli assicurati o i datori di lavoro;
+- b. le tasse postali comprovate derivanti dall’applicazione dell’assicurazione per la vecchiaia e per i superstiti.
 
-<sup>3</sup> Le spese derivanti all’Ufficio centrale di compensazione dall’applicazione della legge federale del 20 giugno 1952[^95-9] sugli assegni familiari nell’agricoltura e le spese per l’affrancatura in blocco sono coperte in conformità degli articoli 18 capoverso 4 e 19 di tale legge.[^95-10]
+<sup>4</sup> Il Consiglio federale emana disposizioni sull’entità delle spese assunte dal Fondo di compensazione AVS e fissa l’importo che può essere utilizzato per l’informazione generale degli assicurati.
 
-[^95-1]: Nuovo testo giusta il n. I della LF del 30 set. 1953, in vigore dal 1° gen. 1954 ([RU 1954 102](https://fedlex.data.admin.ch/eli/oc/1954/211_217_102); FF **1953** 449).
-[^95-2]: Per. introdotto dal n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [FF 1999 4303](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
-[^95-3]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^95-4]: Nuovo testo giusta il n. I 11 della LF del 17 mar. 2017 sul programma di stabilizzazione 2017–2019, in vigore dal 1° gen. 2018 ([RU 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [FF 2016 4135](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
-[^95-5]: Introdotto dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^95-6]: Introdotto dal n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^95-7]: Introdotto dal n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^95-8]: Nuovo testo giusta il n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^95-9]: [RS 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
-[^95-10]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^95-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 95a
 
@@ -2136,65 +2424,39 @@ Le prestazioni dell’assicurazione per la vecchiaia e per i superstiti sono fin
 
 - a. i contributi degli assicurati e dei datori di lavoro;
 - b.[^102-3] il contributo della Confederazione;
-- c. gli interessi del Fondo di compensazione AVS;
-- d.[^102-4] le entrate provenienti dal regresso contro i terzi responsabili.
+- c.[^102-4] i redditi del patrimonio del Fondo di compensazione AVS;
+- d.[^102-5] le entrate provenienti dal regresso contro i terzi responsabili;
+- e.[^102-6] gli introiti risultanti dall’aumento delle aliquote dell’imposta sul valore aggiunto secondo l’articolo 130 capoversi 3 e 3<sup>ter</sup> Cost. destinati all’assicurazione medesima;
+- f.[^102-7] il prodotto della tassa sulle case da gioco.
 
-<sup>2</sup> L’assegno per grandi invalidi è finanziato esclusivamente dalla Confederazione.[^102-5]
+<sup>2</sup> L’assegno per grandi invalidi è finanziato esclusivamente dalla Confederazione.[^102-8]
 
 [^102-1]: Nuovo testo giusta il n. I della LF del 19 dic. 1963, in vigore dal 1° gen. 1964 ([RU 1964 277](https://fedlex.data.admin.ch/eli/oc/1964/285_277_277); FF **1963** 1209).
 [^102-2]: Nuovo testo giusta il n. II lett. c della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
 [^102-3]: Nuovo testo giusta il n. I 1 della LF del 5 ott. 1984, in vigore dal 1° gen. 1986 ([RU 1985 2002](https://fedlex.data.admin.ch/eli/oc/1985/2002_2002_2002); [FF 1981 III 677](https://fedlex.data.admin.ch/eli/fga/1981/3_737_705_677)).
-[^102-4]: Introdotta dal n. I 1 della LF del 5 ott. 1984, in vigore dal 1° gen. 1986 ([RU 1985 2002](https://fedlex.data.admin.ch/eli/oc/1985/2002_2002_2002); [FF 1981 III 677](https://fedlex.data.admin.ch/eli/fga/1981/3_737_705_677)).
-[^102-5]: Nuovo testo giusta il n. II 24 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^102-4]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^102-5]: Introdotta dal n. I 1 della LF del 5 ott. 1984, in vigore dal 1° gen. 1986 ([RU 1985 2002](https://fedlex.data.admin.ch/eli/oc/1985/2002_2002_2002); [FF 1981 III 677](https://fedlex.data.admin.ch/eli/fga/1981/3_737_705_677)).
+[^102-6]: Introdotta dal n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^102-7]: Introdotta dal n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^102-8]: Nuovo testo giusta il n. II 24 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 #### Art. 103
 
-**Contributo federale**[^103-1]
+**Contributo della Confederazione**[^103-1]
 
-<sup>1</sup> Il contributo della Confederazione ammonta al 19,55 per cento delle uscite annue dell’assicurazione; da questo importo è dedotto il contributo all’assegno per grandi invalidi conformemente all’articolo 102 capoverso 2.[^103-2]
+Il contributo della Confederazione ammonta al 20,2 per cento delle uscite annue dell’assicurazione; da questo importo è dedotto il contributo all’assegno per grandi invalidi secondo l’articolo 102 capoverso 2.
 
-<sup>1bis</sup>
-
-Il contributo della Confederazione di cui al capoverso 1 è aumentato. L’aumento corrisponde:
-
-- a.
-
-  alle ripercussioni fiscali statiche stimate per la Confederazione, i Cantoni e i Comuni riguardo:
-
-  - 1\. all’imposta sull’utile,
-  - 2\. alla deduzione per autofinanziamento e agli adeguamenti in materia di imposta sul capitale,
-  - 3\. all’imposizione dei dividendi, e
-  - 4\. al principio degli apporti di capitale;
-
-- b.
-
-  al netto:
-
-  - 1\. delle entrate supplementari provenienti dall’aumento del tasso del contributo AVS, e
-  - 2\. dell’importo della quota federale del percento demografico a favore dell’AVS.[^103-3]
-
-<sup>1ter</sup> L’aumento è arrotondato a ventesimi di punto percentuale.[^103-4]
-
-<sup>1quater</sup> L’aumento è stabilito in base alla stima dei valori al momento dell’adozione della legge federale del 28 settembre 2018[^103-5] concernente la riforma fiscale e il finanziamento dell’AVS.[^103-6]
-
-<sup>2</sup> La Confederazione devolve inoltre all’assicurazione il prodotto della tassa sulle case da gioco.
-
-[^103-1]: Nuovo testo giusta il n. II 24 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
-[^103-2]: Nuovo testo giusta il n. I 4 della LF del 22 giu. 2007 sulla nuova impostazione della perequazione finanziaria e ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5953](https://fedlex.data.admin.ch/eli/oc/2007/795); [FF 2007 607](https://fedlex.data.admin.ch/eli/fga/2007/88)).
-[^103-3]: Introdotto dal n. I 5 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^103-4]: Introdotto dal n. I 5 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^103-5]: [RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)
-[^103-6]: Introdotto dal n. I 5 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+[^103-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 104
 
-**Copertura del contributo della Confederazione**[^104-1]
+**Finanziamento del contributo della Confederazione**[^104-1]
 
-<sup>1</sup> Confederazione attinge anzitutto il suo contributo dai proventi dell’imposizione del tabacco e delle bevande distillate. Essa lo preleva dalla riserva prevista nell’articolo 111.
+<sup>1</sup> Il contributo della Confederazione è finanziato anzitutto con i proventi dell’imposizione del tabacco e delle bevande distillate.
 
 <sup>2</sup> L’importo residuo è coperto mediante le risorse generali.
 
-[^104-1]: Nuovo testo giusta il n. I 1 della LF del 5 ott. 1984, in vigore dal 1° gen. 1986 ([RU 1985 2002](https://fedlex.data.admin.ch/eli/oc/1985/2002_2002_2002); [FF 1981 III 677](https://fedlex.data.admin.ch/eli/fga/1981/3_737_705_677)).
+[^104-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 105 e 106
 
@@ -2240,19 +2502,13 @@ L’amministrazione del Fondo di compensazione AVS è retta dalla legge del 16 g
 
 [^110-1]: Abrogato dall’all. n. II 4 della LF del 16 giu. 2017 sui fondi di compensazione, con effetto dal 1° gen. 2019 ([RU 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 255](https://fedlex.data.admin.ch/eli/fga/2016/68)).
 
-### Capo terzo: Riserva della Confederazione
-
-[^part2-chap3-1]
-
-[^part2-chap3-1]: Nuovo testo giusta il n. I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
+### Capo terzo: ...
 
 #### Art. 111
 
 [^111-1]
 
-I proventi dell’imposizione sul tabacco e sulle bevande distillate sono accreditati di volta in volta alla riserva della Confederazione a favore dell’assicurazione per la vecchiaia, i superstiti e l’invalidità. La riserva non produce interessi.
-
-[^111-1]: Nuovo testo giusta il n. I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
+[^111-1]: Abrogato dal n. I della LF del 17 dic. 2021 (AVS 21), con effetto dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 112
 
@@ -2588,7 +2844,7 @@ L’accredito transitorio può tuttavia essere computato al massimo per il numer
 
 <sup>3</sup> I datori di lavoro che il 1° gennaio 1997 hanno versato essi stessi le rendite ai dipendenti o ai loro superstiti conformemente all’articolo 51 capoverso 2 possono continuare a versare le rendite alle stesse condizioni.
 
-[^u5-lvlg-1]: [[RU 1992 1982](https://fedlex.data.admin.ch/eli/oc/1992/1982_1982_1982), [1995 510](https://fedlex.data.admin.ch/eli/oc/1995/510_510_510)[3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)n. I 5]
+[^u5-lvlg-1]: [[RU 1992 1982](https://fedlex.data.admin.ch/eli/oc/1992/1982_1982_1982); [1995 510](https://fedlex.data.admin.ch/eli/oc/1995/510_510_510), [3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)n. I 5]
 
 ### h. Prestazioni accordate a cittadini di Stati che non hanno concluso convenzioni di sicurezza sociale con la Svizzera
 
@@ -2598,7 +2854,7 @@ L’articolo 18 capoverso 2 si applica anche qualora l’evento assicurato si si
 
 [^u6-1]
 
-[^u6-1]: [RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363)n. I 9 2385 cpv. 2 n. 2 lett. d; FF **1999** 3
+[^u6-1]: [RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363)n. I 9, 2385 cpv. 2 n. 2 lett. d; FF **1999** 3
 
 <sup>1</sup> Il decreto federale del 4 ottobre 1985[^u6-2] che stabilisce i contributi, federale e cantonale, all’assicurazione vecchiaia e superstiti è abrogato.
 
@@ -2647,11 +2903,12 @@ L’articolo 18 capoverso 2 si applica anche qualora l’evento assicurato si si
 
 [^u10-1]: [RU 2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178); [FF 2004 5203](https://fedlex.data.admin.ch/eli/fga/2004/1081)[5863](https://fedlex.data.admin.ch/eli/fga/2004/1105)
 
-<sup>1</sup> Le persone che vivono a Cipro, in Estonia, Lettonia, Lituania, Malta, Polonia, Repubblica ceca, Repubblica slovacca, Slovenia o Ungheria e sono assicurate facoltativamente all’entrata in vigore del Protocollo del 26 ottobre 2004[^u10-2] relativo all’estensione dell’Accordo sulla libera circolazione ai nuovi Stati membri della Comunità europea, possono restarlo durante sei anni consecutivi al massimo a contare dall’entrata in vigore del Protocollo. Coloro che hanno già compiuto il 50° anno di età al momento dell’entrata in vigore della presente modifica possono restare assicurati fino all’età legale del pensionamento.
+<sup>1</sup> Le persone che vivono a Cipro, in Estonia, Lettonia, Lituania, Malta, Polonia, Repubblica ceca, Repubblica slovacca, Slovenia o Ungheria e sono assicurate facoltativamente all’entrata in vigore del Protocollo del 26 ottobre 2004[^u10-2] relativo all’estensione dell’Accordo sulla libera circolazione ai nuovi Stati membri della Comunità europea, possono restarlo durante sei anni consecutivi al massimo a contare dall’entrata in vigore del Protocollo. Coloro che hanno già compiuto il 50° anno di età al momento dell’entrata in vigore della presente modifica possono restare assicurati fino all’età di riferimento[^u10-3].
 
 <sup>2</sup> Le prestazioni assistenziali attualmente corrisposte a cittadini svizzeri residenti a Cipro, in Estonia, Lettonia, Lituania, Malta, Polonia, Repubblica ceca, Repubblica slovacca, Slovenia o Ungheria, continueranno ad essere loro versate nella stessa misura anche dopo l’entrata in vigore del Protocollo del 26 ottobre 2004 relativo all’estensione dell’Accordo sulla libera circolazione ai nuovi Stati membri della CE, finché adempiono le condizioni di reddito.
 
 [^u10-2]: [RU 2006 995](https://fedlex.data.admin.ch/eli/oc/2006/179)
+[^u10-3]: Nuova espr. giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 ## Disposizioni finali della modifica del 23 giugno 2006
 
@@ -2684,7 +2941,7 @@ L’articolo 18 capoverso 2 si applica anche qualora l’evento assicurato si si
 
 [^u13-1]: [RU 2009 2411](https://fedlex.data.admin.ch/eli/oc/2009/296); [FF 2008 1823](https://fedlex.data.admin.ch/eli/fga/2008/472)
 
-<sup>1</sup> Le persone che vivono in Bulgaria o in Romania e sono assicurate facoltativamente all’entrata in vigore del Protocollo del 27 maggio 2008[^u13-2] relativo all’estensione dell’Accordo del 21 giugno 1999 sulla libera circolazione ai nuovi Stati membri della Comunità europea (Bulgaria e Romania), possono restarlo durante sei anni consecutivi al massimo a contare dall’entrata in vigore del Protocollo. Coloro che hanno già compiuto il 50° anno di età al momento dell’entrata in vigore della presente modifica possono restare assicurati fino all’età legale del pensionamento.
+<sup>1</sup> Le persone che vivono in Bulgaria o in Romania e sono assicurate facoltativamente all’entrata in vigore del Protocollo del 27 maggio 2008[^u13-2] relativo all’estensione dell’Accordo del 21 giugno 1999 sulla libera circolazione ai nuovi Stati membri della Comunità europea (Bulgaria e Romania), possono restarlo durante sei anni consecutivi al massimo a contare dall’entrata in vigore del Protocollo. Coloro che hanno già compiuto il 50° anno di età al momento dell’entrata in vigore della presente modifica possono restare assicurati fino all’età di riferimento.
 
 <sup>2</sup> Le prestazioni assistenziali attualmente corrisposte a cittadini svizzeri residenti in Bulgaria o in Romania continueranno ad essere loro versate nella stessa misura anche dopo l’entrata in vigore del Protocollo del 27 maggio 2008 relativo all’estensione dell’Accordo sulla libera circolazione ai nuovi Stati membri della CE (Bulgaria e Romania), fintantoché adempiono le condizioni di reddito.
 
@@ -2706,7 +2963,7 @@ L’articolo 9 capoverso 4 si applica a tutti i redditi provenienti da un’atti
 
 [^u15-1]: [RU 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [FF 2016 1899](https://fedlex.data.admin.ch/eli/fga/2016/467)
 
-<sup>1</sup> Le persone che risiedono in Croazia e sono assicurate facoltativamente, all’entrata in vigore del Protocollo del 4 marzo 2016[^u15-2] all’Accordo del 21 giugno 1999[^u15-3] tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone, relativo alla partecipazione, in qualità di parte contraente, della Repubblica di Croazia, a seguito della sua adesione all’Unione europea, possono restare assicurate durante sei anni consecutivi al massimo a contare dall’entrata in vigore di detto Protocollo. Chi ha già compiuto 50 anni al momento dell’entrata in vigore della presente modifica, può restare assicurato fino all’età legale di pensionamento.
+<sup>1</sup> Le persone che risiedono in Croazia e sono assicurate facoltativamente, all’entrata in vigore del Protocollo del 4 marzo 2016[^u15-2] all’Accordo del 21 giugno 1999[^u15-3] tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone, relativo alla partecipazione, in qualità di parte contraente, della Repubblica di Croazia, a seguito della sua adesione all’Unione europea, possono restare assicurate durante sei anni consecutivi al massimo a contare dall’entrata in vigore di detto Protocollo. Chi ha già compiuto 50 anni al momento dell’entrata in vigore della presente modifica, può restare assicurato fino all’età di riferimento.
 
 <sup>2</sup> Le prestazioni assistenziali attualmente corrisposte a cittadini svizzeri residenti in Croazia continueranno ad essere loro versate nella stessa misura anche dopo l’entrata in vigore di detto Protocollo, finché essi adempiono le condizioni in materia di reddito.
 
@@ -2721,8 +2978,52 @@ L’articolo 9 capoverso 4 si applica a tutti i redditi provenienti da un’atti
 
 I servizi e le istituzioni che utilizzano il numero AVS secondo il diritto previgente adottano entro un anno dall’entrata in vigore della modifica del 18 dicembre 2020 le misure tecniche e organizzative di cui all’articolo 153*d*.
 
-Allegato[^t-2]
+## Disposizioni transitorie della modifica del 17 dicembre 2021 (AVS 21)
+
+[^u17-1]
+
+[^u17-1]: [RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)
+
+a. Età di riferimento delle donne
+
+b. Computo dei contributi pagati dopo il raggiungimento dell’età di riferimento
+
+Le persone che al momento dell’entrata in vigore della modifica del 17 dicembre 2021 non hanno ancora compiuto i 70 anni e hanno totalizzato periodi di contribuzione dopo l’età di 65 anni possono chiedere che la loro rendita venga ricalcolata secondo l’articolo 29<sup>bis</sup> capoversi 3 e 4.
+
+c. Aliquote di riduzione per le donne in caso di riscossione anticipata della rendita di vecchiaia
+
+Alle rendite di vecchiaia delle donne la cui riscossione anticipata è in corso al momento dell’entrata in vigore dell’articolo 40*c* rimane applicabile il diritto previgente per tutto il periodo di riscossione anticipata. Al momento in cui l’assicurata raggiunge l’età di riferimento la rendita di vecchiaia è ricalcolata secondo l’articolo 29<sup>bis</sup>, tenendo conto delle aliquote di riduzione previste all’articolo 40*c**[^u17-2]*.
+
+d. Età per la riscossione anticipata
+
+Nell’anno dell’entrata in vigore della modifica del 17 dicembre 2021 le donne possono anticipare la riscossione della rendita di vecchiaia a partire dai 62 anni compiuti.
+
+e. Adeguamento delle aliquote di riduzione e d’aumento
+
+Il Consiglio federale adegua le aliquote d’aumento di cui all’articolo 39 capoverso 3 e le aliquote di riduzione di cui all’articolo 40*a* capoversi 1 e 3 al più presto il 1° gennaio 2027.
+
+L’età di riferimento è di:
+
+- a. 64 anni per le donne nate nel 1960;
+- b. 64 anni e tre mesi per le donne nate nel 1961;
+- c. 64 anni e sei mesi per le donne nate nel 1962;
+- d. 64 anni e nove mesi per le donne nate nel 1963;
+- e. 65 anni per le donne nate nel 1964 o successivamente.
+
+[^u17-2]: In vigore dal 1° gennaio 2025 con effetto al 31 dic. 2033.
+
+## Disposizioni finali della modifica del 17 giugno 2022 (Modernizzazione della vigilanza)
+
+[^u18-1]
+
+[^u18-1]: [RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)
+
+<sup>1</sup> I Cantoni provvedono ai necessari adeguamenti organizzativi derivanti dall’articolo 61 entro cinque anni dall’entrata in vigore della modifica del 17 giugno 2022.
+
+<sup>2</sup> Le casse di compensazione adottano le misure necessarie derivanti dall’articolo 66 entro due anni dall’entrata in vigore della presente modifica.
+
+Allegato[^t-3]
 
 ## Tariffa dei dazi sui tabacchi
 
-[^t-2]: Abrogata dall’art. 46 lett. a della LF del 21 mar. 1969 sull’imposizione del tabacco, con effetto dal 1° gen. 1970 ([RU 1969 663](https://fedlex.data.admin.ch/eli/oc/1969/645_665_663); [FF 1968 II 580](https://fedlex.data.admin.ch/eli/fga/1968/2_345_345_580)).
+[^t-3]: Abrogata dall’art. 46 lett. a della LF del 21 mar. 1969 sull’imposizione del tabacco, con effetto dal 1° gen. 1970 ([RU 1969 663](https://fedlex.data.admin.ch/eli/oc/1969/645_665_663); [FF 1968 II 580](https://fedlex.data.admin.ch/eli/fga/1968/2_345_345_580)).
