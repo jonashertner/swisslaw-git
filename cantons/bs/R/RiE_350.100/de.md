@@ -3,13 +3,12 @@ canton: BS
 number: RiE 350.100
 title: Reglement betreffend die Vergabe von Beiträgen im Bereich Gesundheit und Soziales
 language: de
-version: 2013-01-01
-valid_until: 2023-12-31
-version_adopted: 2012-11-20
+version: 2024-01-01
+version_adopted: 2023-12-19
 adopted: 2012-11-20
 in_force: 2013-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20350.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/2582/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6102/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/2582/pdf_file"
 
 Beiträge für Gesundheit und Soziales: Reglement | Riehen: Einwohnergemeinde
 
-Vom 20. November 2012 (Stand 1. Januar 2013)
+Vom 20. November 2012 (Stand 1. Januar 2024)
 
 Der Gemeinderat Riehen,
 
@@ -34,7 +33,7 @@ erlässt folgendes Reglement:
 
 **Zweck**
 
-<sup>1</sup> Die Gemeinde fördert die Lebensqualität der Bevölkerung mittels geeigneter Angebote im Gesundheitsbereich und in der Sozialberatung sowie für Seniorinnen und Senioren.
+<sup>1</sup> Die Gemeinde fördert die Lebensqualität der Bevölkerung mittels geeigneter Angebote im Gesundheitsbereich und in der Sozialberatung sowie für ältere Menschen.
 
 <sup>2</sup> Dazu kann sie auf Gesuch hin freiwillige Beiträge zur Förderung von Vereinsaktivitäten, an Beratungsangebote in Riehen und in Basel sowie für Veranstaltungen und Projekte in Riehen leisten.
 
@@ -69,7 +68,7 @@ erlässt folgendes Reglement:
 
 <sup>1</sup> Die Gemeinde kann Organisationen gemäss § 3a[^4-1] Abs. 1 Bst. a) unterstützen, die
 
-- a) Aktivitäten mit ideellem Zweck durchführen, insbesondere in den Bereichen soziale Vernetzung und Beratung, Nachbarschaftshilfe, Gesundheitsförderung, Armutsprävention oder mittels Angebote für Seniorinnen und Senioren oder für Menschen mit einer geistigen oder körperlichen Behinderung,
+- a) Aktivitäten mit ideellem Zweck durchführen, insbesondere in den Bereichen soziale Vernetzung und Beratung, Nachbarschaftshilfe, Gesundheitsförderung, Armutsprävention oder mittels Angebote für ältere Menschen oder für Menschen mit einer geistigen oder körperlichen Behinderung,
 - b) allen Einwohnerinnen und Einwohnern der Gemeinde offen stehen und
 - c) ihre Aktivitäten vorwiegend mit Freiwilligenarbeit bestreiten.
 
@@ -83,7 +82,7 @@ erlässt folgendes Reglement:
 
 <sup>2</sup> Die Aktivitäten beinhalten vorzugsweise Beratungs-, Begegnungs- und Beschäftigungsangebote für finanziell oder sozial benachteiligte Bevölkerungsgruppen oder für geistig oder körperlich behinderte Menschen.
 
-<sup>3</sup> Die Gemeinde kann auch einzelne Projekte und Veranstaltungen in Riehen in den Bereichen Gesundheitsförderung, Betagten- und Krankenpflege und Armutsprävention sowie für Seniorinnen und Senioren unterstützen.
+<sup>3</sup> Die Gemeinde kann auch einzelne Projekte und Veranstaltungen in Riehen in den Bereichen Gesundheitsförderung, Alter und Pflege sowie Armutsprävention unterstützen.
 
 [^5-1]: § 5 Abs. 1: Paragraphennummerierung redaktionell berichtigt.
 
@@ -91,12 +90,12 @@ erlässt folgendes Reglement:
 
 **Beitragsarten und weitere Leistungen**
 
-<sup>1</sup> Im Rahmen des durch den Einwohnerrat bewilligten Globalkredits und der ergänzenden Vorgaben durch den Gemeinderat können folgende Beiträge erbracht werden:
+<sup>1</sup> Es können folgende Beiträge erbracht werden:
 
 - a) Jährliche ungebundene Beiträge;
 - b) Beiträge für einzelne Projekte oder Veranstaltungen in Riehen.
 
-<sup>2</sup> Innerhalb des Kostenrahmens gemäss Abs. 1 können weitere Leistungen gewährt werden:
+<sup>2</sup> Folgende weiteren Leistungen können gewährt werden:
 
 - a) Leistungen der gemeindeeigenen Werkdienste bzw. Erlass der Kosten für Riehener Vereine;
 - b) Nutzung von kommunalen Räumen und Anlagen für Riehener Vereine.
