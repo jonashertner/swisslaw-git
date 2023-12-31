@@ -4,13 +4,13 @@ number: "411.0.1"
 title: Gesetz über die obligatorische Schule
 short: "Schulgesetz, SchG"
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-11-05
+version: 2024-01-01
+valid_until: 2026-12-31
+version_adopted: 2023-10-12
 adopted: 2014-09-09
 in_force: 2015-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/411.0.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7581/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8484/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Obligatorische Schule - G
 
 (Schulgesetz, SchG)
 
-vom 09.09.2014 (Fassung in Kraft getreten am 01.01.2023)
+vom 09.09.2014 (Fassung in Kraft getreten am 01.01.2024)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -287,9 +287,11 @@ beschliesst:
 
 <sup>1</sup> Im wöchentlichen Stundenplan ist eine bestimmte Zeit für den konfessionellen Religionsunterricht der anerkannten Kirchen und Religionsgemeinschaften vorgesehen. Die anerkannten Kirchen und Religionsgemeinschaften haben das Recht, für diesen Unterricht die Schulräumlichkeiten unentgeltlich zu benutzen.
 
-<sup>2</sup> Der Staat kann sich an der Vergütung der Lehrpersonen für den konfessionellen Religionsunterricht beteiligen, wobei die Einzelheiten in einer Vereinbarung geregelt werden. In dieser Vereinbarung wird auch das Dienstverhältnis der betreffenden Lehrpersonen festgelegt, die bei ihrer Anstellung einen sie betreffenden Sonderprivatauszug aus dem Strafregister gemäss Artikel 371a des Schweizerischen Strafgesetzbuchs oder bei ausländischer Staatsangehörigkeit ein gleichwertiges Dokument vorlegen müssen. Während einer Übergangsperiode bis 31. Dezember 2041 müssen die erfolgreichen Bewerberinnen und Bewerber zusätzlich einen ordentlichen Strafregisterauszug vorlegen.
+<sup>2</sup> Der Staat kann sich an der Vergütung der Lehrpersonen für den konfessionellen Religionsunterricht beteiligen, wobei die Einzelheiten in einer Vereinbarung geregelt werden. In dieser Vereinbarung wird auch das Dienstverhältnis der betreffenden Lehrpersonen festgelegt, die bei ihrer Anstellung einen sie betreffenden Sonderprivatauszug aus dem Strafregister gemäss Artikel 371a des Schweizerischen Strafgesetzbuchs[^23-1] oder bei ausländischer Staatsangehörigkeit ein gleichwertiges Dokument vorlegen müssen. Während einer Übergangsperiode bis 31. Dezember 2041 müssen die erfolgreichen Bewerberinnen und Bewerber zusätzlich einen ordentlichen Strafregisterauszug vorlegen.
 
 <sup>3</sup> Die Eltern können ohne Angabe von Gründen schriftlich erklären, dass ihr Kind den konfessionellen Religionsunterricht nicht besuchen wird. Schülerinnen und Schüler, die das 16. Altersjahr vollendet haben, können diese Erklärung auch selber abgeben.
+
+[^23-1]: RS [311.0](https://db.clex.ch/link/Bund/311.0/de)
 
 #### Art. 24
 
@@ -477,13 +479,14 @@ beschliesst:
 
 <sup>1</sup> Die Eltern sorgen in Zusammenarbeit mit der Schule und den Partnern der Gesundheit in der Schule für die Gesundheit der Schülerinnen und Schüler. Wichtige Themen zur Prävention von Risikoverhalten und zur Gesundheitsförderung werden auf der Grundlage eines allgemeinen Konzepts behandelt, das die Direktion zusammen mit der Direktion, die für die Gesundheitsförderung und Prävention zuständig ist[^41-1], entwickelt.
 
-<sup>2</sup> Die Schülerinnen und Schüler werden regelmässig ärztlich und zahnärztlich untersucht. Die Gemeinden sind entsprechend den Weisungen und unter der Aufsicht der für die Gesundheitsförderung und Prävention zuständigen Direktion für die Organisation und Durchführung dieser Kontrollen verantwortlich.
+<sup>2</sup> Die Schülerinnen und Schüler werden regelmässig ärztlich und zahnärztlich untersucht. Die Gemeinden sind entsprechend den Weisungen und unter der Aufsicht der für die Gesundheitsförderung und Prävention zuständigen Direktion[^41-2] für die Organisation und Durchführung dieser Kontrollen verantwortlich.
 
 <sup>3</sup> Die Gemeinden stellen ebenfalls sicher, dass die Schulräume und Schulanlagen instandgehalten werden, für die Schülerinnen und Schüler angemessen sind und den geltenden Sicherheits- und, Hygienevorschriften sowie ergonomischen Anforderungen entsprechen.
 
 <sup>4</sup> Die Gemeinden und die Schuldirektionen sorgen in Anwendung des in Absatz 1 genannten allgemeinen Konzepts dafür, dass den Schülerinnen und Schülern an den Schulen eine gesunde Ernährung angeboten wird, indem sie insbesondere darauf verzichten, ihnen übermässig gezuckerte Getränke und Lebensmittel zur Verfügung zu stellen. Der Zuckergehalt der vorverpackten Lebensmittel wird klar verständlich angezeigt.
 
 [^41-1]: Heute: Direktion für Gesundheit und Soziales.
+[^41-2]: Heute: Direktion für Gesundheit und Soziales.
 
 #### Art. 42
 
@@ -501,7 +504,11 @@ beschliesst:
 
 <sup>3</sup> Die AHV-Nummer (AHVN13) soll allein zur Personenidentifikation, insbesondere in Verbindung mit der Plattform Fri-Pers, und zur Übermittlung der Daten ans Bundesamt für Statistik verwendet werden.
 
-<sup>4</sup> Die Personendaten können über ein Abrufverfahren nach Artikel 10 Abs. 2 des Gesetzes vom 25. November 1994 über den Datenschutz zugänglich gemacht werden. Der Staatsrat legt die Ausführungsbestimmungen fest.
+<sup>3a</sup> Die AHVN13 kann zu Identifikationszwecken auch an die Föderation der Identitätsdienste im Bildungsraum Schweiz, die von der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) beauftragt wurde, übermittelt werden. Der Staatsrat erlässt die notwendigen Ausführungsbestimmungen.
+
+<sup>4</sup> Die Personendaten können über ein Abrufverfahren nach Artikel 14 Abs. 4 des Gesetzes vom 12. Oktober 2023 über den Datenschutz[^43-1] zugänglich gemacht werden. Der Staatsrat legt die Ausführungsbestimmungen fest.
+
+[^43-1]: SGF [17.1](https://bdlf.fr.ch/data/17.1/de)
 
 ## 5 Lehrerinnen und Lehrer
 
@@ -547,7 +554,9 @@ beschliesst:
 
 <sup>3</sup> Der Entzug der Unterrichtsberechtigung wird der EDK zur Aufnahme in die interkantonale Liste von Lehrpersonen, denen die Unterrichtsberechtigung entzogen wurde, gemeldet.
 
-<sup>4</sup> Das Eintragen und Löschen, die Rechtsmittel und der Zugang zur Liste werden in der Interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen geregelt.
+<sup>4</sup> Das Eintragen und Löschen, die Rechtsmittel und der Zugang zur Liste werden in der Interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen[^47-1] geregelt.
+
+[^47-1]: SGF [410.4](https://bdlf.fr.ch/data/410.4/de)
 
 #### Art. 48
 
@@ -650,9 +659,12 @@ beschliesst:
 - g) Sie besorgen die Schülertransporte.
 - h) Sie bieten nach Massgabe der Spezialgesetzgebung eine ausserschulische Betreuung der Schülerinnen und Schüler an, wobei sie die Schülertransporte besonders berücksichtigen.
 
-<sup>2<sup>bis</sup></sup> In Anlehnung an Artikel 26 Abs. 3<sup>bis</sup>–3<sup>quater</sup> des Gesetzes vom 17. Oktober 2001 über das Staatspersonal können die Gemeinden als Anstellungsbehörde für jede Funktion oder Tätigkeit, die regelmässigen Kontakt mit Minderjährigen umfasst, einen Sonderprivatauszug aus dem Strafregister gemäss Artikel 371a des Schweizerischen Strafgesetzbuchs oder bei ausländischer Staatsangehörigkeit ein gleichwertiges Dokument verlangen.
+<sup>2<sup>bis</sup></sup> In Anlehnung an Artikel 26 Abs. 3<sup>bis</sup>–3<sup>quater</sup> des Gesetzes vom 17. Oktober 2001 über das Staatspersonal[^57-1] können die Gemeinden als Anstellungsbehörde für jede Funktion oder Tätigkeit, die regelmässigen Kontakt mit Minderjährigen umfasst, einen Sonderprivatauszug aus dem Strafregister gemäss Artikel 371a des Schweizerischen Strafgesetzbuchs[^57-2] oder bei ausländischer Staatsangehörigkeit ein gleichwertiges Dokument verlangen.
 
 <sup>3</sup> Die Gemeinden arbeiten bei der Erfüllung ihrer Aufgaben eng mit den Schuldirektorinnen und Schuldirektoren zusammen.
+
+[^57-1]: SGF [122.70.1](https://bdlf.fr.ch/data/122.70.1/de)
+[^57-2]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
 
 #### Art. 58
 
@@ -708,13 +720,15 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinden bieten gemäss den Weisungen und unter der Aufsicht der Direktion einen Dienst an, der den Schülerinnen und Schülern mit psychologischen Abklärungen, Beratungen und Stützmassnahmen sowie logopädischen und psychomotorischen Abklärungen und Behandlungen Unterstützung und Hilfe bietet.
 
-<sup>2</sup> Die Gemeinden können die Erfüllung dieser Aufgaben regionalen Zentren übertragen. Die Therapeutinnen und Therapeuten des Dienstes müssen bei ihrer Anstellung einen sie betreffenden Sonderprivatauszug aus dem Strafregister gemäss Artikel 371a des Schweizerischen Strafgesetzbuchs oder bei ausländischer Staatsangehörigkeit ein gleichwertiges Dokument vorlegen. Während einer Übergangsperiode bis 31. Dezember 2041 müssen die erfolgreichen Bewerberinnen und Bewerber zusätzlich einen ordentlichen Strafregisterauszug vorlegen.
+<sup>2</sup> Die Gemeinden können die Erfüllung dieser Aufgaben regionalen Zentren übertragen. Die Therapeutinnen und Therapeuten des Dienstes müssen bei ihrer Anstellung einen sie betreffenden Sonderprivatauszug aus dem Strafregister gemäss Artikel 371a des Schweizerischen Strafgesetzbuchs[^63-1] oder bei ausländischer Staatsangehörigkeit ein gleichwertiges Dokument vorlegen. Während einer Übergangsperiode bis 31. Dezember 2041 müssen die erfolgreichen Bewerberinnen und Bewerber zusätzlich einen ordentlichen Strafregisterauszug vorlegen.
 
 <sup>3</sup> Der Dienst pflegt die Zusammenarbeit mit den Eltern, den Lehrkräften, dem schulärztlichen Dienst und allen übrigen Personen, die in ihrer Arbeit mit Schülerinnen und Schülern zu tun haben.
 
 <sup>4</sup> Die Leistungen müssen in der Regel direkt am Schulort erbracht werden.
 
 <sup>5</sup> Der Staatsrat erlässt die notwendigen Ausführungsbestimmungen.
+
+[^63-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
 
 #### Art. 64
 
@@ -1010,7 +1024,9 @@ beschliesst:
 
 <sup>2</sup> Die Gemeinden und die Gemeindeverbände sind bei Entscheiden über die Organisation und den Betrieb der Schulkreise beschwerdeberechtigt.
 
-<sup>3</sup> Die vom Oberamtmann ausgesprochenen Bussen sind gemäss der Strafprozessordnung anfechtbar.
+<sup>3</sup> Die vom Oberamtmann ausgesprochenen Bussen sind gemäss dem Justizgesetz[^92-1] anfechtbar.
+
+[^92-1]: SGF [130.1](https://db.clex.ch/link/Bund/130.1/de)
 
 #### Art. 93
 

@@ -4,13 +4,13 @@ number: "411.0.1"
 title: Loi sur la scolarité obligatoire
 short: "loi scolaire, LS"
 language: fr
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-11-05
+version: 2024-01-01
+valid_until: 2026-12-31
+version_adopted: 2023-10-12
 adopted: 2014-09-09
 in_force: 2015-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/411.0.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7581/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8484/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Scolarité obligatoire - L
 
 (loi scolaire, LS)
 
-du 09.09.2014 (version entrée en vigueur le 01.01.2023)
+du 09.09.2014 (version entrée en vigueur le 01.01.2024)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -287,9 +287,11 @@ Décrète:
 
 <sup>1</sup> L'horaire hebdomadaire comprend un temps mis à la disposition des Eglises et des communautés religieuses reconnues pour l'enseignement religieux confessionnel. A cet effet, les Eglises et les communautés religieuses reconnues ont le droit d'utiliser gratuitement les locaux scolaires.
 
-<sup>2</sup> L'Etat peut participer à la rémunération des personnes chargées de l'enseignement religieux confessionnel selon des modalités fixées par convention. La convention détermine également le statut de ces personnes, lesquelles doivent produire, lors de leur engagement, un extrait spécial de leur casier judiciaire, au sens de l'article 371a du code pénal suisse, ou, pour les ressortissants et ressortissantes étrangers, un document équivalent. Durant une période transitoire expirant le 31 décembre 2041, le candidat ou la candidate retenu‑e doit produire en sus un extrait ordinaire de son casier judiciaire.
+<sup>2</sup> L'Etat peut participer à la rémunération des personnes chargées de l'enseignement religieux confessionnel selon des modalités fixées par convention. La convention détermine également le statut de ces personnes, lesquelles doivent produire, lors de leur engagement, un extrait spécial de leur casier judiciaire, au sens de l'article 371a du code pénal suisse[^23-1] , ou, pour les ressortissants et ressortissantes étrangers, un document équivalent. Durant une période transitoire expirant le 31 décembre 2041, le candidat ou la candidate retenu‑e doit produire en sus un extrait ordinaire de son casier judiciaire.
 
 <sup>3</sup> Les parents peuvent, sans indication de motifs, déclarer par écrit que leur enfant ne suivra pas les cours d'enseignement religieux confessionnel. Les élèves âgés de 16 ans révolus peuvent agir par eux-mêmes.
+
+[^23-1]: RS [311.0](https://db.clex.ch/link/Bund/311.0/fr)
 
 #### Art. 24
 
@@ -477,13 +479,14 @@ Décrète:
 
 <sup>1</sup> Les parents veillent à la santé de leurs enfants, en collaboration avec l'école et les partenaires de la santé à l'école. Les thèmes relatifs à la prévention des comportements à risque et à la promotion de la santé sont traités selon une conception générale élaborée en commun par la Direction et la Direction chargée de la promotion de la santé et de la prévention[^41-1].
 
-<sup>2</sup> Les élèves sont soumis périodiquement à des contrôles médicaux et dentaires. Les communes sont responsables de l'organisation et de la mise en œuvre de ces contrôles, selon les instructions et sous la surveillance de la Direction chargée de la promotion de la santé et de la prévention.
+<sup>2</sup> Les élèves sont soumis périodiquement à des contrôles médicaux et dentaires. Les communes sont responsables de l'organisation et de la mise en œuvre de ces contrôles, selon les instructions et sous la surveillance de la Direction chargée de la promotion de la santé et de la prévention[^41-2].
 
 <sup>3</sup> Les communes s'assurent que les locaux et installations scolaires soient entretenus, adaptés aux élèves et conformes aux normes usuelles de sécurité, d'hygiène et d'ergonomie.
 
 <sup>4</sup> Les communes et les directions d'établissement veillent, en application de la conception générale mentionnée à l'alinéa 1, à proposer aux élèves, au sein des établissements, une alimentation saine, en particulier en renonçant à mettre à leur disposition des boissons et aliments hypersucrés. La teneur en sucre des aliments préemballés doit être présentée sans équivoque à tout consommateur et toute consommatrice.
 
 [^41-1]: Actuellement: Direction de la santé et des affaires sociales.
+[^41-2]: Actuellement: Direction de la santé et des affaires sociales.
 
 #### Art. 42
 
@@ -501,7 +504,11 @@ Décrète:
 
 <sup>3</sup> L'utilisation du numéro AVS (NAVS13) est réservée à des fins d'identification des personnes, notamment en lien avec la plate-forme Fri-Pers, ainsi que pour transmettre les données requises par le système d'information statistique suisse.
 
-<sup>4</sup> Les données personnelles peuvent être rendues accessibles au moyen d'une procédure d'appel électronique au sens de l'article 10 al. 2 de la loi du 25 novembre 1994 sur la protection des données. Le Conseil d'Etat en fixe les modalités d'application.
+<sup>3a</sup> Le NAVS13 peut également être transmis à des fins d'identification à la Fédération des services d'identité de l'espace suisse de formation mandatée par la Conférence suisse des directeurs cantonaux de l'instruction publique (CDIP). Le Conseil d'Etat édicte les dispositions d'exécution nécessaires.
+
+<sup>4</sup> Les données personnelles peuvent être rendues accessibles au moyen d'une procédure d'appel électronique au sens de l'article 14 al. 4 de la loi du 12 octobre 2023 sur la protection des données[^43-1]. Le Conseil d'Etat en fixe les modalités d'application.
+
+[^43-1]: RSF [17.1](https://bdlf.fr.ch/data/17.1/fr)
 
 ## 5 Enseignants et enseignantes
 
@@ -547,7 +554,9 @@ Décrète:
 
 <sup>3</sup> Le retrait de l'autorisation d'enseigner est communiqué à la CDIP, en vue d'une inscription sur la liste intercantonale des enseignants et enseignantes auxquels a été retiré le droit d'enseigner.
 
-<sup>4</sup> La procédure d'inscription et de radiation, la voie de droit et l'accès à la liste sont réglés par l'Accord intercantonal sur la reconnaissance des diplômes de fin d'études.
+<sup>4</sup> La procédure d'inscription et de radiation, la voie de droit et l'accès à la liste sont réglés par l'Accord intercantonal sur la reconnaissance des diplômes de fin d'études[^47-1].
+
+[^47-1]: RSF [410.4](https://bdlf.fr.ch/data/410.4/fr)
 
 #### Art. 48
 
@@ -650,9 +659,12 @@ Décrète:
 - g) pourvoir au transport des élèves;
 - h) proposer un accueil extrascolaire des élèves, conformément à la législation spéciale, en portant une attention particulière aux transports.
 
-<sup>2<sup>bis</sup></sup> Par analogie avec l'article 26 al. 3<sup>bis</sup> à 3<sup>quater</sup> de la loi du 17 octobre 2001 sur le personnel de l'Etat, les communes peuvent, en tant qu'autorité d'engagement, exiger, pour toute fonction ou activité impliquant des contacts réguliers avec des personnes mineures, un extrait spécial du casier judiciaire, au sens de l'article 371a du code pénal suisse, ou, pour les ressortissants et ressortissantes étrangers, un document équivalent.
+<sup>2<sup>bis</sup></sup> Par analogie avec l'article 26 al. 3<sup>bis</sup> à 3<sup>quater</sup> de la loi du 17 octobre 2001 sur le personnel de l'Etat[^57-1], les communes peuvent, en tant qu'autorité d'engagement, exiger, pour toute fonction ou activité impliquant des contacts réguliers avec des personnes mineures, un extrait spécial du casier judiciaire, au sens de l'article 371a du code pénal suisse[^57-2], ou, pour les ressortissants et ressortissantes étrangers, un document équivalent.
 
 <sup>3</sup> Les communes collaborent étroitement avec les directeurs et directrices dans l'accomplissement de leurs tâches.
+
+[^57-1]: RSF [122.70.1](https://bdlf.fr.ch/data/122.70.1/fr)
+[^57-2]: RS [311.0](https://db.clex.ch/link/Bund/311.0/fr)
 
 #### Art. 58
 
@@ -708,13 +720,15 @@ Décrète:
 
 <sup>1</sup> Les communes assurent, selon les instructions et sous la surveillance de la Direction, un service qui a pour objet d'aider les élèves par des examens, des conseils et des mesures de soutien en matière de psychologie et par des examens et des traitements en matière de logopédie et de psychomotricité.
 
-<sup>2</sup> Les communes peuvent charger des centres régionaux d'assumer ces tâches. Les thérapeutes du service doivent produire, lors de leur engagement, un extrait spécial de leur casier judiciaire, au sens de l'article 371a du code pénal suisse, ou, pour les ressortissants et ressortissantes étrangers, un document équivalent. Durant une période transitoire expirant le 31 décembre 2041, le candidat ou la candidate retenu‑e doit produire en sus un extrait ordinaire de son casier judiciaire.
+<sup>2</sup> Les communes peuvent charger des centres régionaux d'assumer ces tâches. Les thérapeutes du service doivent produire, lors de leur engagement, un extrait spécial de leur casier judiciaire, au sens de l'article 371a du code pénal suisse[^63-1], ou, pour les ressortissants et ressortissantes étrangers, un document équivalent. Durant une période transitoire expirant le 31 décembre 2041, le candidat ou la candidate retenu‑e doit produire en sus un extrait ordinaire de son casier judiciaire.
 
 <sup>3</sup> Le service collabore avec les parents, le corps enseignant, le service médico-scolaire et toute personne intervenant auprès de l'élève.
 
 <sup>4</sup> La prestation doit être dispensée, en principe, sur le lieu de scolarisation.
 
 <sup>5</sup> Le Conseil d'Etat édicte les dispositions d'exécution nécessaires.
+
+[^63-1]: RS [311.0](https://db.clex.ch/link/Bund/311.0/fr)
 
 #### Art. 64
 
@@ -1010,7 +1024,9 @@ Décrète:
 
 <sup>2</sup> Les communes et les associations de communes ont qualité pour recourir contre les décisions concernant l'organisation et le fonctionnement des cercles scolaires.
 
-<sup>3</sup> Les amendes prononcées par la préfecture sont attaquables conformément à la loi sur la justice.
+<sup>3</sup> Les amendes prononcées par la préfecture sont attaquables conformément à la loi sur la justice[^92-1].
+
+[^92-1]: RSF [130.1](https://bdlf.fr.ch/data/130.1/fr)
 
 #### Art. 93
 
