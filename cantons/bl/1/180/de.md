@@ -4,13 +4,13 @@ number: "180"
 title: Gesetz über die Organisation und die Verwaltung der Gemeinden
 short: "Gemeindegesetz, GemG"
 language: de
-version: 2023-07-01
-valid_until: 2023-12-31
-version_adopted: 2023-02-09
+version: 2024-01-01
+valid_until: 2024-07-31
+version_adopted: 2023-09-14
 adopted: 1970-05-28
 in_force: 1972-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/180"
-pdf: "https://bl.clex.ch/api/de/versions/3593/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3781/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3593/pdf_file"
 
 (Gemeindegesetz, GemG)
 
-Vom 28.05.1970 (Stand 01.07.2023)
+Vom 28.05.1970 (Stand 01.01.2024)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -425,7 +425,7 @@ beschliesst:[^ingress-2]
 - b. das Personalrecht inklusive des Disziplinarrechts;
 - c. die eigene Rechnungs- und Geschäftsprüfung;
 - d. die Bereitstellung der berufsmässigen Führung von Mandaten;
-- e. die Kontrolle der Buchhaltung der Berufsbeistandschaft;
+- e. …
 - f. die Kostenverteilung unter den Gemeinden insbesondere für:
   - 1\. die Kindes- und Erwachsenenschutzbehörde sowie von betroffenen Personen nicht bezahlbarer Entschädigungen und Spesenersatz für die Mandatsführung;
   - 2\. Rückgriffsforderungen in Haftungsfällen;
