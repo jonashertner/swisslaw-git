@@ -4,11 +4,11 @@ title: "Verordnung vom 21. Mai 2008 über die Ingenieur-Geometerinnen und Ingeni
 short: GeomV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/387"
 language: de
-version: 2023-01-23
+version: 2024-01-01
 adopted: 2008-05-21
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/387/20230123/de/xml/fedlex-data-admin-ch-eli-cc-2008-387-20230123-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/387/20230123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/387/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2008-387-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/387/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/387/20230123/de"
 
 (Geometerverordnung, GeomV)
 
-vom 21. Mai 2008 (Stand am 23. Januar 2023)
+vom 21. Mai 2008 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -395,6 +395,23 @@ Die im Geometerregister eingetragenen Ingenieur-Geometerinnen und -Geometer habe
 <sup>2</sup> Absätze 1 Buchstaben c-e gelten nicht für Personen, die Arbeiten der amtlichen Vermessung als Angestellte im öffentlichen Dienst ausüben.
 
 <sup>3</sup> Absatz 1 Buchstaben f und j gelten nicht für Personen nach Absatz 2, die Funktionen der Vermessungsaufsicht ausüben.
+
+#### Art. 22a
+
+**Ausstand**[^22a-1]
+
+<sup>1</sup>
+
+Die im Geometerregister eingetragenen Ingenieur-Geometerinnen und -Geometer treten bei der Bearbeitung von Geschäften in den Ausstand, an denen:
+
+- a. sie unmittelbar ein eigenes Interesse haben;
+- b. ihre Ehefrau, ihr Ehemann, ihre eingetragene Partnerin, ihr eingetragener Partner oder eine Person, zu der sie in einem engen Verwandtschafts-, Schwägerschafts-, Pflicht- oder Abhängigkeitsverhältnis stehen, ein unmittelbares Interesse haben.
+
+<sup>2</sup> Weitergehende Regelungen für Personen, die Arbeiten der amtlichen Vermessung als Angestellte im öffentlichen Dienst ausüben, bleiben vorbehalten.
+
+<sup>3</sup> Wenn die Zuständigkeit nicht anderweitig geregelt ist, entscheidet die Geometerkommission über einen bestrittenen Ausstand.
+
+[^22a-1]: Eingefügt durch Anhang Ziff. 2 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 23
 

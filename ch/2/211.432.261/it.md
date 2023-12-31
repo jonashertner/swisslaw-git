@@ -4,11 +4,11 @@ title: "Ordinanza del 21 maggio 2008 sugli ingegneri geometri (Ordinanza sui geo
 short: Ogeom
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/387"
 language: it
-version: 2023-01-23
+version: 2024-01-01
 adopted: 2008-05-21
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/387/20230123/it/xml/fedlex-data-admin-ch-eli-cc-2008-387-20230123-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/387/20230123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/387/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2008-387-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/387/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/387/20230123/it"
 
 (Ordinanza sui geometri, Ogeom)
 
-del 21 maggio 2008 (Stato 23 gennaio 2023)
+del 21 maggio 2008 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -396,6 +396,23 @@ Gli ingegneri geometri iscritti nel registro dei geometri sottostanno agli obbli
 <sup>2</sup> Il capoverso 1 lettere c–e non è applicabile alle persone che eseguono lavori della misurazione ufficiale in qualità di impiegati del settore pubblico.
 
 <sup>3</sup> Il capoverso 1 lettere f e j non è applicabile alle persone di cui al capoverso 2 che esercitano funzioni di vigilanza sulle misurazioni.
+
+#### Art. 22a
+
+**Ricusazione**[^22a-1]
+
+<sup>1</sup>
+
+Gli ingegneri geometri iscritti nel registro dei geometri si ricusano nel caso in cui gli affari da trattare presentano un interesse diretto:
+
+- a. per loro stessi;
+- b. per la moglie, il marito, il partner registrato o una persona con cui hanno una stretta relazione di parentela, affinità, dovere o dipendenza.
+
+<sup>2</sup> Sono riservate ulteriori disposizioni per le persone che eseguono lavori di misurazione ufficiale in qualità di dipendenti in servizio pubblico.
+
+<sup>3</sup> Se la competenza non è regolata diversamente, la Commissione dei geometri decide in merito a una ricusazione contestata.
+
+[^22a-1]: Introdotto dall’all. n. 2 dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 23
 

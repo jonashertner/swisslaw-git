@@ -4,11 +4,11 @@ title: "Ordonnance du 21 mai 2008 concernant les ingénieurs géomètres (Ordonn
 short: OGéom
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/387"
 language: fr
-version: 2023-01-23
+version: 2024-01-01
 adopted: 2008-05-21
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/387/20230123/fr/xml/fedlex-data-admin-ch-eli-cc-2008-387-20230123-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/387/20230123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/387/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-387-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/387/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/387/20230123/fr"
 
 (Ordonnance sur les géomètres, OGéom)
 
-du 21 mai 2008 (État le 23 janvier 2023)
+du 21 mai 2008 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -393,6 +393,23 @@ Les ingénieurs géomètres inscrits au registre des géomètres sont soumis aux
 <sup>2</sup> L’al. 1, let. c à e, ne s’applique pas aux personnes qui exécutent des travaux de la mensuration officielle en qualité d’employé du secteur public.
 
 <sup>3</sup> L’al. 1, let. f et j, ne s’applique pas aux personnes visées à l’al. 2, qui exercent des fonctions de surveillance de la mensuration officielle.
+
+#### Art. 22a
+
+**Récusation**[^22a-1]
+
+<sup>1</sup>
+
+Les ingénieurs géomètres inscrits au registre des géomètres se récusent dès lors que les affaires à traiter présentent un intérêt direct:
+
+- a. pour eux-mêmes;
+- b. pour leur conjoint, leur partenaire enregistré ou pour une personne avec laquelle ils se trouvent dans un rapport étroit de parenté ou d’alliance, d’obligation ou de dépendance.
+
+<sup>2</sup> Sont réservées les dispositions plus strictes applicables aux personnes exécutant des travaux de la mensuration officielle en qualité d’employés du secteur public.
+
+<sup>3</sup> Les litiges en matière de récusation relèvent de la Commission des géomètres, pour autant que la compétence ne soit pas régie par d’autres dispositions.
+
+[^22a-1]: Introduit par l’annexe ch. 2 de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 
 #### Art. 23
 
