@@ -3,13 +3,13 @@ canton: BS
 number: RiE 494.400
 title: Reglement betreffend Ausrichtung eines Kulturpreises
 language: de
-version: 2018-05-01
-valid_until: 2023-12-31
-version_adopted: 2018-04-10
+version: 2024-01-01
+valid_until: 2025-12-31
+version_adopted: 2023-12-19
 adopted: 2018-04-10
 in_force: 2018-05-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20494.400"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4414/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6101/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4414/pdf_file"
 
 Kulturpreis: Reglement | Riehen: Einwohnergemeinde
 
-Vom 10. April 2018 (Stand 1. Mai 2018)
+Vom 10. April 2018 (Stand 1. Januar 2024)
 
 Der Gemeinderat Riehen,
 
@@ -84,9 +84,9 @@ beschliesst:
 
 **Verzicht auf die Vergabe**
 
-<sup>1</sup> Die Jury kann auf die Vergabe eines Kulturpreises verzichten.
+<sup>1</sup> Die Jury kann in begründeten Fällen auf die Vergabe eines Kulturpreises verzichten.
 
-<sup>2</sup> Die nicht ausbezahlte Preissumme steht während eines laufenden Leistungsauftrags für die zusätzliche Vergabe im Folgejahr zur Verfügung.
+<sup>2</sup> …
 
 #### § 10
 
