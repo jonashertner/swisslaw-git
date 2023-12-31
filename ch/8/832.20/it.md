@@ -4,11 +4,11 @@ title: "Legge federale del 20 marzo 1981 sull'assicurazione contro gli infortuni
 short: LAINF
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1981-03-20
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1982-1676_1676_1676-20230901-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1982-1676_1676_1676-20240101-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/20230901/it"
 
 (LAINF)
 
-del 20 marzo 1981 (Stato 1° settembre 2023)
+del 20 marzo 1981 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -70,16 +70,16 @@ Esse non sono applicabili ai seguenti settori:
 Sono assicurati d’obbligo ai sensi della presente legge:
 
 - a. i lavoratori occupati in Svizzera, compresi quelli a domicilio, gli apprendisti, i praticanti, i volontari e le persone che lavorano nei laboratori d’apprendistato o protetti;
-- b. le persone che adempiono le condizioni di cui all’articolo 8 della legge del 25 giugno 1982[^1a-2] sull’assicurazione contro la disoccupazione (LADI) o che percepiscono indennità secondo l’articolo 29 LADI (disoccupati);[^1a-3]
-- c.[^1a-4] le persone che partecipano a provvedimenti dell’assicurazione per l’invalidità in uno stabilimento o laboratorio di cui all’articolo 27 capoverso 1 della legge federale del 19 giugno 1959[^1a-5] sull’assicurazione per l’invalidità (LAI) oppure in un’azienda e che sono vincolate da rapporto analogo a quello risultante da un contratto di lavoro.
+- b. le persone che adempiono le condizioni di cui all’articolo 8 della legge del 25 giugno 1982[^1a-2] sull’assicurazione contro la disoccupazione (LADI) o che percepiscono indennità secondo l’articolo 29 LADI (disoccupati);
+- c.[^1a-3] le persone che partecipano a provvedimenti dell’assicurazione per l’invalidità in uno stabilimento o laboratorio di cui all’articolo 27 capoverso 1 della legge federale del 19 giugno 1959[^1a-4] sull’assicurazione per l’invalidità (LAI) oppure in un’azienda e che sono vincolate da rapporto analogo a quello risultante da un contratto di lavoro.[^1a-5]
 
 <sup>2</sup> Il Consiglio federale può estendere l’assicurazione obbligatoria alle persone vincolate da rapporto analogo a quello risultante da un contratto di lavoro. Esso può esentare dall’obbligo segnatamente i familiari collaboranti nell’impresa, i dipendenti irregolari e le persone beneficiarie di privilegi, immunità e facilitazioni di cui all’articolo 2 capoverso 2 della legge del 22 giugno 2007[^1a-6] sullo Stato ospite.[^1a-7]
 
 [^1a-1]: Originario: art. 1.
 [^1a-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^1a-3]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^1a-4]: Introdotta dall’all. n. 5 della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^1a-5]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^1a-3]: Introdotta dall’all. n. 5 della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
+[^1a-4]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^1a-5]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^1a-6]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 [^1a-7]: Nuovo testo giusta l’all. n. II 12 della LF del 22 giu. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7359](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
 
@@ -287,7 +287,7 @@ Nel fissare l’importo massimo del guadagno assicurato conformemente all’arti
 
 <sup>2</sup> Il diritto all’indennità giornaliera nasce il terzo giorno successivo a quello dell’infortunio. Esso si estingue con il ripristino della piena capacità lavorativa, con l’assegnazione di una rendita o con la morte dell’assicurato.
 
-<sup>3</sup> L’indennità giornaliera dell’assicurazione contro gli infortuni non è concessa finché sussiste il diritto all’indennità giornaliera dell’assicurazione per l’invalidità oppure all’indennità di maternità, di paternità, di assistenza o di adozione ai sensi della legge del 25 settembre 1952[^16-3] sulle indennità di perdita di guadagno.[^16-4]
+<sup>3</sup> L’indennità giornaliera dell’assicurazione contro gli infortuni non è concessa finché sussiste il diritto all’indennità giornaliera dell’assicurazione per l’invalidità oppure all’indennità di maternità, per l’altro genitore, di assistenza o di adozione ai sensi della legge del 25 settembre 1952[^16-3] sulle indennità di perdita di guadagno.[^16-4]
 
 <sup>4</sup> L’indennità giornaliera è versata ai disoccupati senza computare periodi di attesa (art. 18 cpv. 1 LADI[^16-5]) o giorni di sospensione (art. 30 LADI).[^16-6]
 
@@ -296,7 +296,7 @@ Nel fissare l’importo massimo del guadagno assicurato conformemente all’arti
 [^16-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^16-2]: Nuovo testo giusta l’all. n. 12 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 [^16-3]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
-[^16-4]: Nuovo testo giusta l’all. n. 3 della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [FF 2019 5841](https://fedlex.data.admin.ch/eli/fga/2019/2553), [6005](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^16-4]: Nuovo testo giusta l’all. n. 3 della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 [^16-5]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 [^16-6]: Introdotto dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^16-7]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
@@ -310,7 +310,7 @@ Nel fissare l’importo massimo del guadagno assicurato conformemente all’arti
 
 <sup>2</sup> L’indennità giornaliera per i disoccupati corrisponde all’indennità netta dell’assicurazione contro la disoccupazione secondo gli articoli 22 e 22*a* LADI[^17-3], calcolata per giorno civile.[^17-4]
 
-<sup>3</sup> ...[^17-5]
+<sup>3</sup> …[^17-5]
 
 <sup>4</sup> L’indennità giornaliera per gli assicurati di cui all’articolo 1*a* capoverso 1 lettera c corrisponde all’indennità giornaliera netta dell’assicurazione per l’invalidità.[^17-6]
 
@@ -327,21 +327,22 @@ Nel fissare l’importo massimo del guadagno assicurato conformemente all’arti
 
 **Invalidità**[^18-1]
 
-<sup>1</sup> L’assicurato invalido (art. 8 LPGA[^18-2]) almeno al 10 per cento in seguito a infortunio ha diritto a una rendita d’invalidità se l’infortunio si è verificato prima del raggiungimento dell’età ordinaria di pensionamento.[^18-3]
+<sup>1</sup> L’assicurato invalido (art. 8 LPGA[^18-2]) almeno al 10 per cento in seguito a infortunio ha diritto a una rendita d’invalidità se l’infortunio si è verificato prima del raggiungimento dell’età di riferimento[^18-3].[^18-4]
 
 <sup>2</sup> Il Consiglio federale disciplina la determinazione del grado d’invalidità in casi speciali. Ha la facoltà di derogare dall’articolo 16 LPGA.
 
 [^18-1]: Nuovo testo giusta l’all. n. 12 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 [^18-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^18-3]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^18-3]: Nuova espr. giusta l’all. n. 6 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^18-4]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 19
 
 **Inizio e fine del diritto**
 
-<sup>1</sup> Il diritto alla rendita nasce qualora dalla continuazione della cura medica non sia da attendersi un sensibile miglioramento della salute dell’assicurato e siano conclusi eventuali provvedimenti d’integrazione dell’AI. Il diritto alla cura medica ed alle indennità giornaliere cessa con la nascita del diritto alla rendita. ... .[^19-1]
+<sup>1</sup> Il diritto alla rendita nasce qualora dalla continuazione della cura medica non sia da attendersi un sensibile miglioramento della salute dell’assicurato e siano conclusi eventuali provvedimenti d’integrazione dell’AI. Il diritto alla cura medica ed alle indennità giornaliere cessa con la nascita del diritto alla rendita. … .[^19-1]
 
-<sup>2</sup> Il diritto si estingue con l’assegnazione di un’indennità unica complessiva, con il riscatto della rendita o con la morte dell’assicurato. ... .[^19-2]
+<sup>2</sup> Il diritto si estingue con l’assegnazione di un’indennità unica complessiva, con il riscatto della rendita o con la morte dell’assicurato. … .[^19-2]
 
 <sup>3</sup> Il Consiglio federale emana disposizioni particolareggiate sulla nascita del diritto alla rendita qualora dalla continuazione della cura medica non sia da attendersi un sensibile miglioramento della salute dell’assicurato, ma la decisione dell’AI circa la reintegrazione professionale sia presa solo più tardi.
 
@@ -354,26 +355,28 @@ Nel fissare l’importo massimo del guadagno assicurato conformemente all’arti
 
 <sup>1</sup> In caso d’invalidità totale, l’ammontare della rendita è pari all’80 per cento del guadagno assicurato; esso è ridotto in proporzione in caso di invalidità parziale.
 
-<sup>2</sup> All’assicurato che ha diritto a una rendita AI o a una rendita dell’assicurazione per la vecchiaia e i superstiti (AVS) è assegnata una rendita complementare; questa corrisponde, in deroga all’articolo 69 LPGA[^20-1], alla differenza tra il 90 per cento del guadagno assicurato e la rendita AI o AVS, ma al massimo all’importo previsto per l’invalidità totale o parziale.[^20-2] La rendita complementare è fissata quando dette rendite concorrono per la prima volta e adeguata solo in caso di eventuale modifica delle parti di rendita AI o AVS destinate ai familiari.
+<sup>2</sup> All’assicurato che ha diritto a una rendita AI o a una rendita dell’assicurazione per la vecchiaia e i superstiti (AVS) è assegnata una rendita complementare; questa corrisponde, in deroga all’articolo 69 LPGA[^20-1], alla differenza tra il 90 per cento del guadagno assicurato e la rendita AI o AVS, ma al massimo all’importo previsto per l’invalidità totale o parziale.[^20-2] La rendita complementare è fissata quando concorre per la prima volta con la rendita AI o con la rendita AVS. Viene adeguata se la rendita AVS è modificata in seguito a una riscossione anticipata o differita oppure se sono modificate le parti di rendita AI o AVS destinate ai familiari.[^20-3]
 
-<sup>2bis</sup> Il capoverso 2 si applica anche se l’assicurato ha diritto a una rendita equivalente di un’assicurazione sociale estera.[^20-3]
+<sup>2bis</sup> Il capoverso 2 si applica anche se l’assicurato ha diritto a una rendita equivalente di un’assicurazione sociale estera.[^20-4]
 
 <sup>2ter</sup>
 
-In deroga all’articolo 69 LPGA, al raggiungimento dell’età ordinaria di pensionamento che dà diritto alla rendita, la rendita d’invalidità secondo il capoverso 1 e la rendita complementare secondo il capoverso 2, incluse le indennità di rincaro, sono ridotte come segue per ogni anno intero compreso fra il giorno in cui l’assicurato ha compiuto 45 anni e il giorno dell’infortunio:
+In deroga all’articolo 69 LPGA, al raggiungimento dell’età di riferimento[^20-5] che dà diritto alla rendita, la rendita d’invalidità secondo il capoverso 1 e la rendita complementare secondo il capoverso 2, incluse le indennità di rincaro, sono ridotte come segue per ogni anno intero compreso fra il giorno in cui l’assicurato ha compiuto 45 anni e il giorno dell’infortunio:
 
 - a. per un grado d’invalidità almeno del 40 per cento, di 2 punti percentuali, ma al massimo del 40 per cento;
-- b. per un grado d’invalidità inferiore al 40 per cento, di 1 punto percentuale, ma al massimo del 20 per cento.[^20-4]
+- b. per un grado d’invalidità inferiore al 40 per cento, di 1 punto percentuale, ma al massimo del 20 per cento.[^20-6]
 
-<sup>2quater</sup> Per le conseguenze di ricadute e postumi tardivi le riduzioni sono disciplinate ai sensi del capoverso 2<sup>ter</sup> anche se l’infortunio si è verificato prima del compimento dei 45 anni, a condizione che l’incapacità lavorativa provocata dalla ricaduta o dai postumi tardivi sia sopraggiunta dopo il compimento dei 60 anni.[^20-5]
+<sup>2quater</sup> Per le conseguenze di ricadute e postumi tardivi le riduzioni sono disciplinate ai sensi del capoverso 2<sup>ter</sup> anche se l’infortunio si è verificato prima del compimento dei 45 anni, a condizione che l’incapacità lavorativa provocata dalla ricaduta o dai postumi tardivi sia sopraggiunta dopo il compimento dei 60 anni.[^20-7]
 
 <sup>3</sup> Il Consiglio federale emana disposizioni particolareggiate, segnatamente circa il calcolo delle rendite complementari in casi speciali.
 
 [^20-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^20-2]: Nuovo testo giusta l’all. n. 12 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
-[^20-3]: Introdotto dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^20-4]: Introdotto dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
-[^20-5]: Introdotto dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^20-3]: Nuovo testo del secondo e terzo per. introdotto dall’all. n. 6 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^20-4]: Introdotto dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^20-5]: Nuova espr. giusta l’all. n. 6 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^20-6]: Introdotto dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
+[^20-7]: Introdotto dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 21
 
@@ -388,7 +391,7 @@ Determinata la rendita, le prestazioni sanitarie e il rimborso delle spese (art.
 - c. abbisogna durevolmente di trattamento e cure per mantenere la capacità residua di guadagno;
 - d. è incapace di guadagno e il suo stato di salute può essere migliorato sensibilmente con cure mediche o queste ne possono impedire un notevole peggioramento.
 
-<sup>2</sup> L’assicuratore può ordinare il ripristino della cura medica. ...[^21-1]
+<sup>2</sup> L’assicuratore può ordinare il ripristino della cura medica. …[^21-1]
 
 <sup>3</sup> In caso di ricadute e di postumi tardivi o se l’assicuratore ordina il ripristino della cura medica, il beneficiario della rendita ha diritto anche alle prestazioni sanitarie e al rimborso delle spese (art. 10 a 13). Il beneficiario della rendita, se subisce durante questo periodo una perdita di guadagno, ha diritto all’indennità giornaliera calcolata in base all’ultimo guadagno realizzato prima della nuova cura medica.
 
@@ -398,9 +401,9 @@ Determinata la rendita, le prestazioni sanitarie e il rimborso delle spese (art.
 
 **Revisione della rendita**[^22-1]
 
-In deroga all’articolo 17 capoverso 1 LPGA[^22-2], la rendita non può più essere riveduta dal mese in cui l’avente diritto riceve una rendita di vecchiaia dell’AVS, ma al più tardi dal momento in cui lo stesso raggiunge l’età di pensionamento secondo l’articolo 21 della legge federale del 20 dicembre 1946[^22-3] sull’assicurazione per la vecchiaia e per i superstiti.
+In deroga all’articolo 17 capoverso 1 LPGA[^22-2], la rendita non può più essere riveduta dal mese in cui l’avente diritto anticipa la riscossione della totalità della rendita AVS in virtù dell’articolo 40 capoverso 1 della legge federale del 20 dicembre 1946[^22-3] sull’assicurazione per la vecchiaia e per i superstiti (LAVS), ma al più tardi dal momento in cui lo stesso raggiunge l’età di riferimento secondo l’articolo 21 capoverso 1 LAVS.
 
-[^22-1]: Nuovo testo giusta l’all. n. 4 della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^22-1]: Nuovo testo giusta l’all. n. 6 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^22-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^22-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
@@ -441,7 +444,7 @@ In deroga all’articolo 17 capoverso 1 LPGA[^22-2], la rendita non può più es
 
 <sup>1</sup> In caso di grande invalidità (art. 9 LPGA[^26-1]), l’assicurato ha diritto all’assegno per grandi invalidi.[^26-2]
 
-<sup>2</sup> ...[^26-3]
+<sup>2</sup> …[^26-3]
 
 [^26-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^26-2]: Nuovo testo giusta l’all. n. 12 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
@@ -470,15 +473,15 @@ Il coniuge superstite ed i figli hanno diritto a rendite per i superstiti se l�
 
 <sup>1</sup> Il coniuge superstite ha diritto alla rendita o all’indennità unica.
 
-<sup>2</sup> ...[^29-1]
+<sup>2</sup> …[^29-1]
 
 <sup>3</sup> Il coniuge superstite ha diritto alla rendita se alla morte dell’altro coniuge ha figli propri o vive in comunità domestica con altri figli aventi diritto alla rendita in seguito alla morte di costui ovvero se è invalido per almeno due terzi o lo diventa nel corso dei due anni successivi. La vedova ha inoltre diritto alla rendita se, alla morte del marito, ha figli che non hanno più diritto a una rendita o se ha compiuto 45 anni; se non sono adempiute le condizioni per il diritto alla rendita, ha diritto all’indennità unica.
 
 <sup>4</sup> Il coniuge divorziato è parificato alla vedova o al vedovo se la vittima dell’infortunio era tenuta a versargli la pensione alimentare.
 
-<sup>5</sup> ...[^29-2]
+<sup>5</sup> …[^29-2]
 
-<sup>6</sup> Il diritto alla rendita nasce il mese successivo a quello della morte dell’assicurato o qualora il coniuge superstite diventi invalido per almeno due terzi. Esso si estingue con il passaggio a nuove nozze, con la morte dell’avente diritto o col riscatto della rendita. ...[^29-3]
+<sup>6</sup> Il diritto alla rendita nasce il mese successivo a quello della morte dell’assicurato o qualora il coniuge superstite diventi invalido per almeno due terzi. Esso si estingue con il passaggio a nuove nozze, con la morte dell’avente diritto o col riscatto della rendita. …[^29-3]
 
 [^29-1]: Abrogato dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), con effetto dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^29-2]: Abrogato dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), con effetto dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
@@ -492,7 +495,7 @@ Il coniuge superstite ed i figli hanno diritto a rendite per i superstiti se l�
 
 <sup>2</sup> Il Consiglio federale emana prescrizioni particolareggiate circa il diritto alla rendita degli affiliati e per i casi in cui l’assicurato defunto era tenuto a versare una pensione alimentare.
 
-<sup>3</sup> Il diritto alla rendita decorre dal mese successivo a quello della morte dell’assicurato o del genitore superstite. Esso si estingue al compimento del 18.mo anno d’età, con la morte dell’orfano o col riscatto della rendita.[^30-1] Per i figli che sono ancora a tirocinio o agli studi il diritto alla rendita dura sino alla fine degli stessi, ma al massimo sino al compimento del 25.mo anno d’età. ... .[^30-2]
+<sup>3</sup> Il diritto alla rendita decorre dal mese successivo a quello della morte dell’assicurato o del genitore superstite. Esso si estingue al compimento del 18.mo anno d’età, con la morte dell’orfano o col riscatto della rendita.[^30-1] Per i figli che sono ancora a tirocinio o agli studi il diritto alla rendita dura sino alla fine degli stessi, ma al massimo sino al compimento del 25.mo anno d’età. … .[^30-2]
 
 [^30-1]: Nuovo testo della frase giusta il n. II 6 della LF del 7 ott. 1994, in vigore dal 1° gen. 1996 ([RU 1995 1126](https://fedlex.data.admin.ch/eli/oc/1995/1126_1126_1126); [FF 1993 I 921](https://fedlex.data.admin.ch/eli/fga/1993/1_1169_1093_921)).
 [^30-2]: Per. abrogato dall’all. n. 12 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, con effetto dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
@@ -514,9 +517,9 @@ Le rendite per i superstiti ammontano, rispetto al guadagno assicurato, al:
 
 <sup>3</sup> Le rendite sono proporzionalmente ridotte se, per il coniuge superstite e per i figli, superano il 70 per cento o, insieme con la rendita al coniuge divorziato[^31-1], il 90 per cento del guadagno assicurato. L’estinzione della rendita di uno di questi superstiti profitta agli altri proporzionalmente fino all’ammontare massimo loro spettante[^31-2].
 
-<sup>4</sup> Se i superstiti hanno diritto a rendite AVS o AI, spetta loro in comune una rendita complementare pari, in deroga all’articolo 69 LPGA[^31-3], alla differenza tra il 90 per cento del guadagno assicurato e le rendite AVS o AI, ma al massimo all’ammontare previsto nel capoverso 1.[^31-4] La rendita complementare del coniuge divorziato corrisponde alla differenza tra l’importo della pensione alimentare e la rendita AVS, ma al massimo all’ammontare previsto al capoverso 2. La rendita complementare è fissata al momento in cui le dette rendite concorrono per la prima volta ed è adeguata solo in funzione di eventuali modifiche inerenti alla cerchia degli aventi diritto a rendite AVS o AI.
+<sup>4</sup> Se i superstiti hanno diritto a rendite AVS o AI, spetta loro in comune una rendita complementare pari, in deroga all’articolo 69 LPGA[^31-3], alla differenza tra il 90 per cento del guadagno assicurato e le rendite AVS o AI, ma al massimo all’ammontare previsto nel capoverso 1.[^31-4] La rendita complementare del coniuge divorziato corrisponde alla differenza tra l’importo della pensione alimentare e la rendita AVS, ma al massimo all’ammontare previsto al capoverso 2. La rendita complementare è fissata quando concorre per la prima volta con la rendita AI o con la rendita AVS. Viene adeguata se la rendita AVS è modificata in seguito a una riscossione anticipata o differita oppure se cambia la cerchia dei beneficiari di rendite AI o AVS.[^31-5]
 
-<sup>4bis</sup> Il capoverso 4 si applica anche se l’assicurato ha diritto a una rendita equivalente di un’assicurazione sociale estera.[^31-5]
+<sup>4bis</sup> Il capoverso 4 si applica anche se l’assicurato ha diritto a una rendita equivalente di un’assicurazione sociale estera.[^31-6]
 
 <sup>5</sup> Il Consiglio federale emana disposizioni particolareggiate, segnatamente sul calcolo delle rendite complementari, nonché delle rendite doppie per orfani quando ambedue i genitori erano assicurati.
 
@@ -524,7 +527,8 @@ Le rendite per i superstiti ammontano, rispetto al guadagno assicurato, al:
 [^31-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 [^31-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^31-4]: Nuovo testo giusta l’all. n. 12 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
-[^31-5]: Introdotto dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^31-5]: Nuovo testo del terzo per. e quarto per. introdotto dall’all. n. 6 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^31-6]: Introdotto dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 32
 
@@ -679,7 +683,7 @@ Il Consiglio federale determina le condizioni alle quali l’assicuratore può o
 
 <sup>1</sup> L’assicuratore può ordinare le misure necessarie alla cura adeguata dell’assicurato, tenendo equamente conto degli interessi di quest’ultimo e dei suoi congiunti.
 
-<sup>2</sup> ...[^48-1]
+<sup>2</sup> …[^48-1]
 
 [^48-1]: Abrogato dall’all. n. 12 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, con effetto dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
@@ -750,7 +754,7 @@ Se, per motivi gravi, un assicuratore vuol negare o non vuol più concedere a un
 
 #### Art. 56
 
-<sup>1</sup> Gli assicuratori possono stipulare convenzioni con le persone esercitanti una professione sanitaria, con il personale paramedico, con gli ospedali e con le case di cura nonché con le imprese di trasporto e di salvataggio, al fine di regolare la collaborazione e fissare le tariffe.[^56-1] Essi possono affidare la cura degli assicurati esclusivamente ai convenzionati. L’adesione alla convenzione è aperta a chiunque soddisfi le condizioni richieste nell’ambito ambulatorio.[^56-2] [^56-3]
+<sup>1</sup> Gli assicuratori possono stipulare convenzioni con le persone esercitanti una professione sanitaria, con il personale paramedico, con gli ospedali e con le case di cura nonché con le imprese di trasporto e di salvataggio, al fine di regolare la collaborazione e fissare le tariffe e le misure di gestione strategica delle prestazioni assicurative o dei relativi costi .[^56-1] Essi possono affidare la cura degli assicurati esclusivamente ai convenzionati. L’adesione alla convenzione è aperta a chiunque soddisfi le condizioni richieste nell’ambito ambulatorio.[^56-2] [^56-3]
 
 <sup>2</sup> Il Consiglio federale promuove il coordinamento con gli ordinamenti tariffali di altre branche delle assicurazioni sociali e può dichiararli applicabili. Disciplina il rimborso dovuto agli assicurati che si ricoverano in un ospedale senza accordo tariffale.[^56-4]
 
@@ -767,9 +771,9 @@ In caso di violazione dell’obbligo di comunicare i dati di cui al capoverso 3<
 
 <sup>4</sup> Le tasse sono uguali per tutti gli assicurati contro gli infortuni.
 
-[^56-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^56-1]: Nuovo testo giusta l’all. n. 3 della LF del 30 set. 2022 (Misure di contenimento dei costi – Pacchetto 1*b*), in vigore dal 1° gen. 2024 ([RU 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [FF 2019 4981](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 [^56-2]: Nuovo testo del per. giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^56-3]: Vedi ora l’art. 1 dell’O del 17 set. 1986 sulle tariffe degli stabilimenti e delle case di cura nell’assicurazione contro gli infortuni ([RS 832.206.2](https://fedlex.data.admin.ch/eli/cc/1986/1525_1525_1525)).
+[^56-3]: Vedi anche l’art. 1 dell’O del 17 set. 1986 sulle tariffe degli stabilimenti e delle case di cura nell’assicurazione contro gli infortuni ([RS 832.206.2](https://fedlex.data.admin.ch/eli/cc/1986/1525_1525_1525)).
 [^56-4]: Nuovo testo del per. giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^56-5]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^56-6]: Introdotto dall’all. n. 2 della LF del 18 giu. 2021 (Misure di contenimento dei costi – Pacchetto 1*a*), in vigore dal 1° gen. 2023 ([RU 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [FF 2019 4981](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
@@ -1123,7 +1127,7 @@ Le persone, la cui assicurazione esula dalla competenza dell’INSAI, devono, a 
 
 <sup>2</sup> Gli assicuratori che intendono partecipare alla gestione dell’assicurazione obbligatoria contro gli infortuni devono iscriversi in un registro tenuto dall’Ufficio federale della sanità pubblica[^68-6]. Questo registro è pubblico.[^68-7]
 
-[^68-1]: Nuvo testo giusta l’all. n. II 5 della LF del 17 dic. 2004 sulla sorveglianza degli assicuratori, in vigore dal 1° gen. 2006 ([RU 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)). Vedi anche la disp. trans. della mod. del 25 set. 2015 alla fine del presente testo.
+[^68-1]: Nuvo testo giusta l’all. n. II 5 della LF del 17 dic. 2004 sulla sorveglianza degli assicuratori, in vigore dal 1° gen. 2006 ([RU 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)). Vedi anche l a disp. trans. della mod. del 25 set. 2015 alla fine del presente testo.
 [^68-2]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
 [^68-3]: Vedi anche la disp. trans. della mod. del 25 set. 2015 alla fine del presente testo.
 [^68-4]: Nuovo testo giusta l’all. n. 2 della LF del 18 giu. 2021 (Misure di contenimento dei costi – Pacchetto 1*a*), in vigore dal 1° gen. 2023 ([RU 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [FF 2019 4981](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
@@ -1425,7 +1429,7 @@ Il Consiglio federale nomina la commissione di coordinamento, composta dei segue
 
 #### Art. 89
 
-**... [^89-1]**
+**… [^89-1]**
 
 <sup>1</sup> Per l’attuazione dell’assicurazione contro gli infortuni devono essere applicate basi contabili uniformi. Il Consiglio federale emana direttive.
 
@@ -1683,14 +1687,14 @@ Purché nessun interesse privato preponderante vi si opponga, gli organi incaric
 
 - a. ad altri organi incaricati di applicare la presente legge, nonché di controllarne o sorvegliarne l’esecuzione, qualora ne necessitino per adempiere i compiti conferiti loro dalla presente legge;
 - b. agli organi di altre assicurazioni sociali, qualora, in deroga all’articolo 32 capoverso 2 LPGA, l’obbligo di comunicazione sia sancito da una legge federale;
-- [tab] b<sup>bis</sup>.[^97-4] agli organi di un’altra assicurazione sociale per assegnare o verificare il numero AVS;
+- b<sup>bis</sup>.[^97-4] agli organi di un’altra assicurazione sociale per assegnare o verificare il numero AVS;
 - c. alle autorità competenti per la riscossione dell’imposta alla fonte, conformemente agli articoli 88 e 100 della legge federale del 14 dicembre 1990[^97-5] sull’imposta federale diretta, nonché alle rispettive disposizioni cantonali;
 - d. alle autorità incaricate dell’esecuzione della legge federale del 12 giugno 1959[^97-6] sulla tassa d’esenzione dall’obbligo militare, conformemente all’articolo 24 di tale legge;
 - e. agli organi della statistica federale, conformemente alla legge federale del 9 ottobre 1992[^97-7] sulla statistica federale;
 - f. agli organi esecutivi della legge federale del 19 marzo 1976[^97-8] sulla sicurezza delle installazioni e degli apparecchi tecnici, della legge federale del 21 marzo 1969[^97-9] sul commercio dei veleni, della legge federale del 7 ottobre 1983[^97-10] sulla protezione dell’ambiente, nonché dell’ordinanza del 22 giugno 1994[^97-11] sulla radioprotezione, qualora ne necessitino per adempiere i compiti conferiti loro dagli atti normativi summenzionati;
 - g. agli enti incaricati di promuovere la prevenzione degli infortuni non professionali conformemente all’articolo 88 capoverso 1, qualora ne necessitino per l’adempimento dei loro compiti;
 - h. alle autorità istruttorie penali, qualora ne necessitino per denunciare o impedire un crimine;
-- [tab] h<sup>bis</sup>. [^97-12]al Servizio delle attività informative della Confederazione (SIC) o agli organi di sicurezza dei Cantoni a destinazione del SIC, qualora sussista una minaccia concreta per la sicurezza interna o esterna secondo l’articolo 19 capoverso 2 della legge federale del 25 settembre 2015[^97-13] sulle attività informative;
+- h<sup>bis</sup>.[^97-12] al Servizio delle attività informative della Confederazione (SIC) o agli organi di sicurezza dei Cantoni a destinazione del SIC, qualora sussista una minaccia concreta per la sicurezza interna o esterna secondo l’articolo 19 capoverso 2 della legge federale del 25 settembre 2015[^97-13] sulle attività informative;
 - i.
 
   in singoli casi e su richiesta scritta:
@@ -1700,7 +1704,7 @@ Purché nessun interesse privato preponderante vi si opponga, gli organi incaric
   - 3\. ai tribunali penali e alle autorità istruttorie penali, qualora ne necessitino per accertare un crimine o un delitto,
   - 4\. agli uffici d’esecuzione, conformemente agli articoli 91, 163 e 222 della legge federale dell’11 aprile 1889[^97-14] sulla esecuzione e sul fallimento,
   - 5\.[^97-15] alle autorità di protezione dei minori e degli adulti, conformemente all’articolo 448 capoverso 4 del Codice civile[^97-16],
-  - 6\.[^97-17] ...
+  - 6\.[^97-17] …
 
 <sup>1bis</sup> I dati necessari per la lotta contro il lavoro nero possono essere comunicati conformemente agli articoli 11 e 12 della legge del 17 giugno 2005[^97-18] contro il lavoro nero.[^97-19]
 
@@ -1981,17 +1985,17 @@ Ai cittadini svizzeri, islandesi, norvegesi o del Principato del Liechtenstein c
 
 **Abrogazioni**
 
-- 1\.
+<sup>1</sup>
 
-  Sono abrogati:
+Sono abrogati:
 
-  - a. i titoli secondo e terzo della legge federale del 13 giugno 1911[^116-1] sull’assicurazione contro le malattie e gli infortuni;
-  - b. la legge federale del 18 giugno 1915[^116-2] di complemento della legge federale del 13 giugno 1911 sull’assicurazione contro le malattie e gli infortuni;
-  - c. la legge federale del 20 dicembre 1962[^116-3] sulle indennità di rincaro ai beneficiari di pensioni dell’Istituto nazionale svizzero di assicurazione contro gli infortuni e del servizio del lavoro, militare e civile.
+- a. i titoli secondo e terzo della legge federale del 13 giugno 1911[^116-1] sull’assicurazione contro le malattie e gli infortuni;
+- b. la legge federale del 18 giugno 1915[^116-2] di complemento della legge federale del 13 giugno 1911 sull’assicurazione contro le malattie e gli infortuni;
+- c. la legge federale del 20 dicembre 1962[^116-3] sulle indennità di rincaro ai beneficiari di pensioni dell’Istituto nazionale svizzero di assicurazione contro gli infortuni e del servizio del lavoro, militare e civile.
 
-- 2\. Sono parimenti abrogate le disposizioni cantonali sull’assicurazione obbligatoria contro gli infortuni.
+<sup>2</sup> Sono parimenti abrogate le disposizioni cantonali sull’assicurazione obbligatoria contro gli infortuni.
 
-[^116-1]: CS **8** 273; CS **2** 193 in fine n. II art. 6 n. 2 disp. fin. e trans. tit. X; [RU 1959 876](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876); [1964 981](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981); [1968 65](https://fedlex.data.admin.ch/eli/oc/1968/64_66_65); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)n. I 611; [1982 196](https://fedlex.data.admin.ch/eli/oc/1982/196_196_196), [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)art. 114; [1990 1091](https://fedlex.data.admin.ch/eli/oc/1990/1091_1091_1091); [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. II, 412; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 37; [1995 511](https://fedlex.data.admin.ch/eli/oc/1995/511_511_511); [1998 3125](https://fedlex.data.admin.ch/eli/oc/1998/3125_3125_3125)all. n. 4. [RU 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)all. n. 1]
+[^116-1]: [CS **8** 273; CS **2** 193 in fine n. II art. 6 n. 2 disp. fin. e trans. tit. X; [RU 1959 876](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876); [1964 981](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981); [1968 65](https://fedlex.data.admin.ch/eli/oc/1968/64_66_65); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)n. I 611; [1982 196](https://fedlex.data.admin.ch/eli/oc/1982/196_196_196), [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)art. 114; [1990 1091](https://fedlex.data.admin.ch/eli/oc/1990/1091_1091_1091); [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. II, 412; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 37; [1995 511](https://fedlex.data.admin.ch/eli/oc/1995/511_511_511); [1998 3125](https://fedlex.data.admin.ch/eli/oc/1998/3125_3125_3125)all. n. 4. [RU 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)all. n. 1]
 [^116-2]: [CS **8** 310; CS **3** 499 in fine, disp. fin. mod. 20 dic. 1968 cpv. 1 n. II]
 [^116-3]: [[RU 1963 283](https://fedlex.data.admin.ch/eli/oc/1963/272_268_283)]
 
@@ -2065,6 +2069,6 @@ Allegato
 
 ## Modifica di leggi federali
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676).

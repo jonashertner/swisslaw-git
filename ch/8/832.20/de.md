@@ -4,11 +4,11 @@ title: Bundesgesetz vom 20. März 1981 über die Unfallversicherung (UVG)
 short: UVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1981-03-20
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1982-1676_1676_1676-20230901-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1982-1676_1676_1676-20240101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/20230901/de"
 
 (UVG)
 
-vom 20. März 1981 (Stand am 1. September 2023)
+vom 20. März 1981 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -287,7 +287,7 @@ Bei der Festsetzung des Höchstbetrags des versicherten Verdienstes nach Artikel
 
 <sup>2</sup> Der Anspruch auf Taggeld entsteht am dritten Tag nach dem Unfalltag. Er erlischt mit der Wiedererlangung der vollen Arbeitsfähigkeit, mit dem Beginn einer Rente oder mit dem Tod des Versicherten.
 
-<sup>3</sup> Das Taggeld der Unfallversicherung wird nicht gewährt, wenn ein Anspruch auf ein Taggeld der Invalidenversicherung oder auf eine Mutterschaftsentschädigung, eine Vaterschaftsentschädigung, eine Betreuungsentschädigung oder eine Adoptionsentschädigung nach dem Erwerbsersatzgesetz vom 25. September 1952[^16-3] besteht.[^16-4]
+<sup>3</sup> Das Taggeld der Unfallversicherung wird nicht gewährt, wenn ein Anspruch auf ein Taggeld der Invalidenversicherung oder auf eine Mutterschaftsentschädigung, eine Entschädigung des andern Elternteils, eine Betreuungsentschädigung oder eine Adoptionsentschädigung nach dem Erwerbsersatzgesetz vom 25. September 1952[^16-3] besteht.[^16-4]
 
 <sup>4</sup> An arbeitslose Personen wird das Taggeld unabhängig von zu bestehenden Wartezeiten (Art. 18 Abs. 1 AVIG[^16-5]) oder Einstelltagen (Art. 30 AVIG) ausgerichtet.[^16-6]
 
@@ -296,7 +296,7 @@ Bei der Festsetzung des Höchstbetrags des versicherten Verdienstes nach Artikel
 [^16-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^16-2]: Fassung gemäss Anhang Ziff. 12 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^16-3]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
-[^16-4]: Fassung gemäss Anhang Ziff. 3 des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^16-4]: Fassung gemäss Anhang Ziff. 3 des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 [^16-5]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 [^16-6]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015 (Unfallversicherung und Unfallverhütung), in Kraft seit 1. Jan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^16-7]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
@@ -327,13 +327,14 @@ Bei der Festsetzung des Höchstbetrags des versicherten Verdienstes nach Artikel
 
 **Invalidität**[^18-1]
 
-<sup>1</sup> Ist der Versicherte infolge des Unfalles zu mindestens 10 Prozent invalid (Art. 8 ATSG[^18-2]), so hat er Anspruch auf eine Invalidenrente, sofern sich der Unfall vor Erreichen des ordentlichen Rentenalters ereignet hat.[^18-3]
+<sup>1</sup> Ist der Versicherte infolge des Unfalles zu mindestens 10 Prozent invalid (Art. 8 ATSG[^18-2]), so hat er Anspruch auf eine Invalidenrente, sofern sich der Unfall vor Erreichen des Referenzalters[^18-3] ereignet hat.[^18-4]
 
 <sup>2</sup> Der Bundesrat regelt die Bemessung des Invaliditätsgrades in Sonderfällen. Er kann dabei auch von Artikel 16 ATSG abweichen.
 
 [^18-1]: Fassung gemäss Anhang Ziff. 12 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^18-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^18-3]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015 (Unfallversicherung und Unfallverhütung), in Kraft seit 1. Jan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^18-3]: Ausdruck gemäss Anhang Ziff. 6 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^18-4]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015 (Unfallversicherung und Unfallverhütung), in Kraft seit 1. Jan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 19
 
@@ -354,26 +355,28 @@ Bei der Festsetzung des Höchstbetrags des versicherten Verdienstes nach Artikel
 
 <sup>1</sup> Die Invalidenrente beträgt bei Vollinvalidität 80 Prozent des versicherten Verdienstes; bei Teilinvalidität wird sie entsprechend gekürzt.
 
-<sup>2</sup> Hat der Versicherte Anspruch auf eine Rente der IV oder auf eine Rente der Alters- und Hinterlassenenversicherung (AHV), so wird ihm eine Komplementärrente gewährt; diese entspricht in Abweichung von Artikel 69 ATSG[^20-1] der Differenz zwischen 90 Prozent des versicherten Verdienstes und der Rente der IV oder der AHV, höchstens aber dem für Voll- oder Teilinvalidität vorgesehenen Betrag.[^20-2] Die Komplementärrente wird beim erstmaligen Zusammentreffen der erwähnten Renten festgesetzt und lediglich späteren Änderungen der für Familienangehörige bestimmten Teile der Rente der IV oder der AHV angepasst.
+<sup>2</sup> Hat der Versicherte Anspruch auf eine Rente der IV oder auf eine Rente der Alters- und Hinterlassenenversicherung (AHV), so wird ihm eine Komplementärrente gewährt; diese entspricht in Abweichung von Artikel 69 ATSG[^20-1] der Differenz zwischen 90 Prozent des versicherten Verdienstes und der Rente der IV oder der AHV, höchstens aber dem für Voll- oder Teilinvalidität vorgesehenen Betrag.[^20-2] Die Komplementärrente wird beim erstmaligen Zusammentreffen mit der IV- oder der AHV-Rente festgesetzt. Sie wird angepasst, wenn die AHV-Rente infolge eines Aufschubs oder Vorbezugs geändert wird oder wenn die für Familienangehörige bestimmten Teile der IV- oder der AHV-Rente geändert werden.[^20-3]
 
-<sup>2bis</sup> Absatz 2 ist auch anwendbar, wenn der Versicherte Anspruch auf eine gleichartige Rente einer ausländischen Sozialversicherung hat.[^20-3]
+<sup>2bis</sup> Absatz 2 ist auch anwendbar, wenn der Versicherte Anspruch auf eine gleichartige Rente einer ausländischen Sozialversicherung hat.[^20-4]
 
 <sup>2ter</sup>
 
-Die Invalidenrente nach Absatz 1 und die Komplementärrente nach Absatz 2 einschliesslich der Teuerungszulagen werden in Abweichung von Artikel 69 ATSG beim Erreichen des ordentlichen Rentenalters für jedes volle Jahr, das der Versicherte zum Unfallzeitpunkt älter als 45 Jahre war, wie folgt gekürzt:
+Die Invalidenrente nach Absatz 1 und die Komplementärrente nach Absatz 2 einschliesslich der Teuerungszulagen werden in Abweichung von Artikel 69 ATSG beim Erreichen des Referenzalters[^20-5] für jedes volle Jahr, das der Versicherte zum Unfallzeitpunkt älter als 45 Jahre war, wie folgt gekürzt:
 
 - a. bei einem Invaliditätsgrad von mindestens 40 Prozent: um 2 Prozentpunkte, höchstens aber um 40 Prozent;
-- b. bei einem Invaliditätsgrad unter 40 Prozent: um 1 Prozentpunkt, höchstens aber um 20 Prozent.[^20-4]
+- b. bei einem Invaliditätsgrad unter 40 Prozent: um 1 Prozentpunkt, höchstens aber um 20 Prozent.[^20-6]
 
-<sup>2quater</sup> Für die Folgen von Rückfällen und Spätfolgen gelten die Kürzungsregelungen nach Absatz 2<sup>ter</sup> auch dann, wenn sich der Unfall vor Vollendung des 45. Altersjahres ereignet hat, sofern die durch den Rückfall oder die Spätfolgen bewirkte Arbeitsunfähigkeit nach Vollendung des 60. Altersjahres eingetreten ist.[^20-5]
+<sup>2quater</sup> Für die Folgen von Rückfällen und Spätfolgen gelten die Kürzungsregelungen nach Absatz 2<sup>ter</sup> auch dann, wenn sich der Unfall vor Vollendung des 45. Altersjahres ereignet hat, sofern die durch den Rückfall oder die Spätfolgen bewirkte Arbeitsunfähigkeit nach Vollendung des 60. Altersjahres eingetreten ist.[^20-7]
 
 <sup>3</sup> Der Bundesrat erlässt nähere Vorschriften, namentlich über die Berechnung der Komplementärrenten in Sonderfällen.
 
 [^20-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^20-2]: Fassung gemäss Anhang Ziff. 12 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^20-3]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015 (Unfallversicherung und Unfallverhütung), in Kraft seit 1. Jan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^20-4]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015 (Unfallversicherung und Unfallverhütung), in Kraft seit 1. Jan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
-[^20-5]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015 (Unfallversicherung und Unfallverhütung), in Kraft seit 1. Jan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^20-3]: Fassung des zweiten Satzes gemäss und dritter Satz eingefügt durch Anhang Ziff. 6 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^20-4]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015 (Unfallversicherung und Unfallverhütung), in Kraft seit 1. Jan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^20-5]: Ausdruck gemäss Anhang Ziff. 6 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^20-6]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015 (Unfallversicherung und Unfallverhütung), in Kraft seit 1. Jan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^20-7]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015 (Unfallversicherung und Unfallverhütung), in Kraft seit 1. Jan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 21
 
@@ -398,9 +401,9 @@ Nach der Festsetzung der Rente werden dem Bezüger die Pflegeleistungen und Kost
 
 **Revision der Rente**[^22-1]
 
-In Abweichung von Artikel 17 Absatz 1 ATSG[^22-2] kann die Rente ab dem Monat, in dem die berechtigte Person eine Altersrente der AHV bezieht, spätestens jedoch ab Erreichen des Rentenalters nach Artikel 21 des Bundesgesetzes vom 20. Dezember 1946[^22-3] über die Alters- und Hinterlassenenversicherung nicht mehr revidiert werden.
+In Abweichung von Artikel 17 Absatz 1 ATSG[^22-2] kann die Rente ab dem Monat, in dem die berechtigte Person eine ganze AHV-Rente nach Artikel 40 Absatz 1 des Bundesgesetzes vom 20. Dezember 1946[^22-3] über die Alters- und Hinterlassenenversicherung (AHVG) vorbezieht, spätestens jedoch ab Erreichen des Referenzalters nach Artikel 21 Absatz 1 AHVG nicht mehr revidiert werden.
 
-[^22-1]: Fassung gemäss Anhang Ziff. 4 des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^22-1]: Fassung gemäss Anhang Ziff. 6 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^22-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^22-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
@@ -512,15 +515,16 @@ Stirbt der Versicherte an den Folgen des Unfalles, so haben der überlebende Ehe
 
 <sup>3</sup> Die Renten werden gleichmässig herabgesetzt, wenn sie für den überlebenden Ehegatten und die Kinder mehr als 70 Prozent oder zusammen mit der Rente für den geschiedenen Ehegatten mehr als 90 Prozent ausmachen. Fällt später die Rente eines dieser Hinterlassenen dahin, so erhöhen sich die Renten der übrigen gleichmässig bis zum Höchstbetrag ihrer Ansprüche.
 
-<sup>4</sup> Haben die Hinterlassenen Anspruch auf Renten der AHV oder der IV, so wird ihnen gemeinsam eine Komplementärrente gewährt; diese entspricht in Abweichung von Artikel 69 ATSG[^31-1] der Differenz zwischen 90 Prozent des versicherten Verdienstes und den Renten der AHV oder der IV, höchstens aber dem in Absatz 1 vorgesehenen Betrag.[^31-2] Die Komplementärrente des geschiedenen Ehegatten entspricht der Differenz zwischen dem geschuldeten Unterhaltsbeitrag und der Rente der AHV, höchstens aber dem in Absatz 2 vorgesehenen Betrag. Die Komplementärrente wird beim erstmaligen Zusammentreffen der erwähnten Renten festgesetzt und lediglich den Änderungen im Bezügerkreis der AHV- oder der IV-Renten angepasst.
+<sup>4</sup> Haben die Hinterlassenen Anspruch auf Renten der AHV oder der IV, so wird ihnen gemeinsam eine Komplementärrente gewährt; diese entspricht in Abweichung von Artikel 69 ATSG[^31-1] der Differenz zwischen 90 Prozent des versicherten Verdienstes und den Renten der AHV oder der IV, höchstens aber dem in Absatz 1 vorgesehenen Betrag.[^31-2] Die Komplementärrente des geschiedenen Ehegatten entspricht der Differenz zwischen dem geschuldeten Unterhaltsbeitrag und der Rente der AHV, höchstens aber dem in Absatz 2 vorgesehenen Betrag. Die Komplementärrente wird beim erstmaligen Zusammentreffen mit der IV- oder der AHV-Rente festgesetzt. Sie wird angepasst, wenn die AHV-Rente infolge eines Aufschubs oder Vorbezugs geändert wird oder wenn der Bezügerkreis der AHV- oder der IV-Renten geändert wird.[^31-3]
 
-<sup>4bis</sup> Absatz 4 ist auch anwendbar, wenn der Versicherte Anspruch auf eine gleichartige Rente einer ausländischen Sozialversicherung hat.[^31-3]
+<sup>4bis</sup> Absatz 4 ist auch anwendbar, wenn der Versicherte Anspruch auf eine gleichartige Rente einer ausländischen Sozialversicherung hat.[^31-4]
 
 <sup>5</sup> Der Bundesrat erlässt nähere Vorschriften, namentlich über die Berechnung der Komplementärrenten sowie der Renten für Vollwaisen, wenn beide Elternteile versichert waren.
 
 [^31-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^31-2]: Fassung gemäss Anhang Ziff. 12 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^31-3]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015 (Unfallversicherung und Unfallverhütung), in Kraft seit 1. Jan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^31-3]: Fassung des dritten Satzes gemäss und vierter Satz eingefügt durch Anhang Ziff. 6 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^31-4]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015 (Unfallversicherung und Unfallverhütung), in Kraft seit 1. Jan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 32
 
@@ -695,8 +699,6 @@ Forderungen auf Grund dieses Gesetzes sowie Rückforderungen von Renten und Tagg
 
 [^50-1]: Fassung gemäss Anhang Ziff. 12 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 
-### …
-
 #### Art. 51 und 52
 
 [^5152-1]
@@ -748,7 +750,7 @@ Will ein Versicherer einer Medizinalperson, einem Laboratorium, einem Spital ode
 
 #### Art. 56
 
-<sup>1</sup> Die Versicherer können mit den Medizinalpersonen, den medizinischen Hilfspersonen, den Spitälern, den Kuranstalten sowie den Transport- und Rettungsunternehmen vertraglich die Zusammenarbeit regeln und die Tarife festlegen.[^56-1] Sie können die Behandlung der Versicherten ausschliesslich den am Vertrag Beteiligten anvertrauen. Wer im ambulanten Bereich die Bedingungen erfüllt, kann dem Vertrag beitreten.[^56-2] [^56-3]
+<sup>1</sup> Die Versicherer können mit den Medizinalpersonen, den medizinischen Hilfspersonen, den Spitälern, den Kuranstalten sowie den Transport- und Rettungsunternehmen vertraglich die Zusammenarbeit regeln und die Tarife und Massnahmen zur Steuerung der Versicherungsleistungen oder ihrer Kosten festlegen.[^56-1] Sie können die Behandlung der Versicherten ausschliesslich den am Vertrag Beteiligten anvertrauen. Wer im ambulanten Bereich die Bedingungen erfüllt, kann dem Vertrag beitreten.[^56-2] [^56-3]
 
 <sup>2</sup> Der Bundesrat sorgt für die Koordination mit den Tarifordnungen anderer Sozialversicherungszweige und kann diese anwendbar erklären. Er ordnet die Vergütung für Versicherte, die sich in ein Spital ohne Tarifvereinbarung begeben.[^56-4]
 
@@ -765,7 +767,7 @@ Bei einem Verstoss gegen die Pflicht zur Datenbekanntgabe nach Absatz 3<sup>bis<
 
 <sup>4</sup> Für alle Versicherten der Unfallversicherung sind die gleichen Taxen zu berechnen.
 
-[^56-1]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015 (Unfallversicherung und Unfallverhütung), in Kraft seit 1. Jan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^56-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 30. Sept. 2022 (Massnahmen zur Kostendämpfung – Paket 1*b*), in Kraft seit 1. Jan. 2024 ([AS 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 [^56-2]: Fassung des dritten Satzes gemäss Ziff. I des BG vom 25. Sept. 2015 (Unfallversicherung und Unfallverhütung), in Kraft seit 1. Jan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^56-3]: Siehe auch Art. 1 der V vom 17. Sept. 1986 über die Tarife der Heil- und Kuranstalten in der Unfallversicherung ([SR 832.206.2](https://fedlex.data.admin.ch/eli/cc/1986/1525_1525_1525)).
 [^56-4]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 25. Sept. 2015 (Unfallversicherung und Unfallverhütung), in Kraft seit 1. Jan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
@@ -1072,7 +1074,7 @@ Der Bundesrat bezeichnet die unterstellten Betriebe näher und umschreibt nament
 
 <sup>1</sup> Überträgt der Bundesrat die Führung der Militärversicherung nach Artikel 81 Absatz 2 des Bundesgesetzes vom 19. Juni 1992[^67-2] über die Militärversicherung (MVG) der Suva, so führt diese die Militärversicherung als eigene Sozialversicherung mit gesonderter Rechnung.
 
-2 Die Suva organisiert die Militärversicherung so, dass diese ihre Aufgaben nach dem MVG erfüllen kann und dass die Erstellung von Jahresberichten und Statistiken nach Artikel 77 ATSG[^67-3] sichergestellt ist.
+<sup>2</sup> Die Suva organisiert die Militärversicherung so, dass diese ihre Aufgaben nach dem MVG erfüllen kann und dass die Erstellung von Jahresberichten und Statistiken nach Artikel 77 ATSG[^67-3] sichergestellt ist.
 
 [^67-1]: Fassung gemäss Ziff. I 2 des BG vom 18. März 2005 über die Übertragung der Führung der Militärversicherung an die Suva, in Kraft seit 1. Juli 2005 ([AS 2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472); [BBl 2004 2851](https://fedlex.data.admin.ch/eli/fga/2004/552)).
 [^67-2]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
@@ -1682,14 +1684,14 @@ Sofern kein überwiegendes Privatinteresse entgegensteht, dürfen Organe, die mi
 
 - a. anderen mit der Durchführung sowie der Kontrolle oder der Beaufsichtigung der Durchführung dieses Gesetzes betrauten Organen, wenn die Daten für die Erfüllung der ihnen nach diesem Gesetz übertragenen Aufgaben erforderlich sind;
 - b. Organen einer anderen Sozialversicherung, wenn sich in Abweichung von Artikel 32 Absatz 2 ATSG eine Pflicht zur Bekanntgabe aus einem Bundesgesetz ergibt;
-- [tab] b<sup>bis</sup>.[^97-4]Organen einer anderen Sozialversicherung für die Zuweisung oder Verifizierung der AHV-Nummer;
+- b<sup>bis</sup>.[^97-4] Organen einer anderen Sozialversicherung für die Zuweisung oder Verifizierung der AHV-Nummer;
 - c. den für die Erhebung der Quellensteuer zuständigen Behörden, nach den Artikeln 88 und 100 des Bundesgesetzes vom 14. Dezember 1990[^97-5] über die direkte Bundessteuer sowie den entsprechenden kantonalen Bestimmungen;
 - d. den mit der Durchführung des Bundesgesetzes vom 12. Juni 1959[^97-6] über den Wehrpflichtersatz betrauten Behörden, nach Artikel 24 des genannten Gesetzes;
 - e. den Organen der Bundesstatistik, nach dem Bundesstatistikgesetz vom 9. Oktober 1992[^97-7];
 - f. den Vollzugsorganen des Bundesgesetzes vom 19. März 1976[^97-8] über die Sicherheit von technischen Einrichtungen und Geräten, des Giftgesetzes vom 21. März 1969[^97-9], des Umweltschutzgesetzes vom 7. Oktober 1983[^97-10] sowie der Strahlenschutzverordnung vom 22. Juni 1994[^97-11], wenn die Daten für die Erfüllung der ihnen nach diesen Erlassen übertragenen Aufgaben erforderlich sind;
 - g. der nach Artikel 88 Absatz 1 mit der Förderung der Verhütung von Nichtberufsunfällen betrauten Institution, wenn die Daten für die Wahrnehmung dieser Aufgabe erforderlich sind;
 - h. den Strafuntersuchungsbehörden, wenn die Anzeige oder die Abwendung eines Verbrechens die Datenbekanntgabe erfordert;
-- [tab] h<sup>bis</sup>.[^97-12] dem Nachrichtendienst des Bundes (NDB) oder den Sicherheitsorganen der Kantone zuhanden des NDB, wenn eine konkrete Bedrohung der inneren oder äusseren Sicherheit nach Artikel 19 Absatz 2 des Nachrichtendienstgesetzes vom 25. September 2015[^97-13] gegeben ist;
+- h<sup>bis</sup>.[^97-12] dem Nachrichtendienst des Bundes (NDB) oder den Sicherheitsorganen der Kantone zuhanden des NDB, wenn eine konkrete Bedrohung der inneren oder äusseren Sicherheit nach Artikel 19 Absatz 2 des Nachrichtendienstgesetzes vom 25. September 2015[^97-13] gegeben ist;
 - i.
 
   im Einzelfall und auf schriftlich begründetes Gesuch hin:

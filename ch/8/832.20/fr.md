@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 mars 1981 sur l'assurance-accidents (LAA)"
 short: LAA
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1981-03-20
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1982-1676_1676_1676-20230901-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1982-1676_1676_1676-20240101-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/20230901/fr"
 
 (LAA)
 
-du 20 mars 1981 (État le 1<sup>er</sup> septembre 2023)
+du 20 mars 1981 (État le 1<sup>er</sup> janvier 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -288,7 +288,7 @@ Lorsque le Conseil fédéral fixe le montant maximal du gain assuré au sens de 
 
 <sup>2</sup> Le droit à l’indemnité journalière naît le troisième jour qui suit celui de l’accident. Il s’éteint dès que l’assuré a recouvré sa pleine capacité de travail, dès qu’une rente est versée ou dès que l’assuré décède.
 
-<sup>3</sup> L’indemnité journalière de l’assurance-accidents n’est pas allouée s’il existe un droit à une indemnité journalière de l’assurance-invalidité ou à une allocation de maternité, de paternité, de prise en charge ou d’adoption selon la loi du 25 septembre 1952 sur les allocations pour perte de gain[^16-3].[^16-4]
+<sup>3</sup> L’indemnité journalière de l’assurance-accidents n’est pas allouée s’il existe un droit à une indemnité journalière de l’assurance-invalidité ou à une allocation de maternité, d’allocation à l’autre parent, de prise en charge ou d’adoption selon la loi du 25 septembre 1952 sur les allocations pour perte de gain[^16-3].[^16-4]
 
 <sup>4</sup> L’indemnité journalière est versée aux personnes au chômage nonobstant les délais d’attente (art. 18, al. 1, LACI[^16-5]) ou les jours de suspension (art. 30 LACI).[^16-6]
 
@@ -297,7 +297,7 @@ Lorsque le Conseil fédéral fixe le montant maximal du gain assuré au sens de 
 [^16-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^16-2]: Nouvelle teneur selon l’annexe ch. 12 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 [^16-3]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
-[^16-4]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [FF 2019 6723](https://fedlex.data.admin.ch/eli/fga/2019/2553), [6909](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^16-4]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 17 mars 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 [^16-5]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 [^16-6]: Introduit par le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^16-7]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
@@ -328,13 +328,14 @@ Lorsque le Conseil fédéral fixe le montant maximal du gain assuré au sens de 
 
 **Invalidité**[^18-1]
 
-<sup>1</sup> Si l’assuré est invalide (art. 8 LPGA[^18-2]) à 10 % au moins par suite d’un accident, il a droit à une rente d’invalidité, pour autant que l’accident soit survenu avant l’âge ordinaire de la retraite.[^18-3]
+<sup>1</sup> Si l’assuré est invalide (art. 8 LPGA[^18-2]) à 10 % au moins par suite d’un accident, il a droit à une rente d’invalidité, pour autant que l’accident soit survenu avant l’âge de référence[^18-3].[^18-4]
 
 <sup>2</sup> Le Conseil fédéral règle l’évaluation du degré de l’invalidité dans des cas spéciaux. Il peut à cette occasion déroger à l’art. 16 LPGA.
 
 [^18-1]: Nouvelle teneur selon l’annexe ch. 12 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 [^18-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^18-3]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^18-3]: Nouvelle expression selon l’annexe ch. 6 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
+[^18-4]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 19
 
@@ -355,26 +356,27 @@ Lorsque le Conseil fédéral fixe le montant maximal du gain assuré au sens de 
 
 <sup>1</sup> La rente d’invalidité s’élève à 80 % du gain assuré, en cas d’invalidité totale; si l’invalidité n’est que partielle, la rente est diminuée en conséquence.
 
-<sup>2</sup> Si l’assuré a droit à une rente de l’assurance-invalidité ou à une rente de l’assurance-vieillesse et survivants, une rente complémentaire lui est allouée; celle-ci correspond, en dérogation à l’art. 69 LPGA[^20-1], à la différence entre 90 % du gain assuré et la rente de l’assurance-invalidité ou de l’assurance-vieillesse et survivants, mais au plus au montant prévu pour l’invalidité totale ou partielle.[^20-2] La rente complémentaire est fixée lorsque les prestations mentionnées sont en concours pour la première fois et n’est adaptée que lorsqu’il y a modification des parts de rente de l’assurance-invalidité ou de l’assurance-vieillesse et survivants accordées pour les membres de la famille.
+<sup>2</sup> Si l’assuré a droit à une rente de l’assurance-invalidité ou à une rente de l’assurance-vieillesse et survivants, une rente complémentaire lui est allouée; celle-ci correspond, en dérogation à l’art. 69 LPGA[^20-1], à la différence entre 90 % du gain assuré et la rente de l’assurance-invalidité ou de l’assurance-vieillesse et survivants, mais au plus au montant prévu pour l’invalidité totale ou partielle.[^20-2] La rente complémentaire est fixée lorsqu’elle est en concours pour la première fois avec une rente de l’assurance-invalidité ou de l’assurance-vieillesse et survivants. Elle est adaptée lorsque la rente de l’assurance-vieillesse et survivants est modifiée à la suite d’un ajournement ou d’un versement anticipé, ou lorsque les parts de rente de l’assurance-invalidité ou de l’assurance-vieillesse et survivants accordées pour les membres de la famille sont modifiées.[^20-3]
 
-<sup>2bis</sup> L’al. 2 est applicable également lorsque l’assuré a droit à une rente de même nature servie par une assurance sociale étrangère.[^20-3]
+<sup>2bis</sup> L’al. 2 est applicable également lorsque l’assuré a droit à une rente de même nature servie par une assurance sociale étrangère.[^20-4]
 
 <sup>2ter</sup>
 
-Lorsque l’assuré atteint l’âge ordinaire de la retraite, la rente d’invalidité visée à l’al. 1 et la rente complémentaire visée à l’al. 2, allocations de renchérissement comprises, sont réduites comme suit, en dérogation à l’art. 69 LPGA, pour chaque année entière comprise entre le jour où il a eu 45 ans et le jour où l’accident est survenu:
+Lorsque l’assuré atteint l’âge de référence, la rente d’invalidité visée à l’al. 1 et la rente complémentaire visée à l’al. 2, allocations de renchérissement comprises, sont réduites comme suit, en dérogation à l’art. 69 LPGA, pour chaque année entière comprise entre le jour où il a eu 45 ans et le jour où l’accident est survenu:
 
 - a. pour un taux d’invalidité de 40 % ou plus: de 2 points de pourcentage, mais de 40 % au plus;
-- b. pour un taux d’invalidité inférieur à 40 %: de 1 point de pourcentage, mais de 20 % au plus.[^20-4]
+- b. pour un taux d’invalidité inférieur à 40 %: de 1 point de pourcentage, mais de 20 % au plus.[^20-5]
 
-<sup>2quater</sup> Pour les conséquences des rechutes et séquelles tardives, les réductions prévues à l’al. 2<sup>ter</sup> s’appliquent également si l’accident est survenu avant que l’assuré ait atteint l’âge de 45 ans, pour autant que l’incapacité de travail liée aux rechutes ou aux séquelles tardives soit intervenue après que l’assuré a atteint l’âge de 60 ans.[^20-5]
+<sup>2quater</sup> Pour les conséquences des rechutes et séquelles tardives, les réductions prévues à l’al. 2<sup>ter</sup> s’appliquent également si l’accident est survenu avant que l’assuré ait atteint l’âge de 45 ans, pour autant que l’incapacité de travail liée aux rechutes ou aux séquelles tardives soit intervenue après que l’assuré a atteint l’âge de 60 ans.[^20-6]
 
 <sup>3</sup> Le Conseil fédéral édicte des prescriptions détaillées, notamment sur le calcul des rentes complémentaires dans les cas spéciaux.
 
 [^20-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^20-2]: Nouvelle teneur selon l’annexe ch. 12 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
-[^20-3]: Introduit par le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^20-4]: Introduit par le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
-[^20-5]: Introduit par le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^20-3]: Nouvelle teneur de la 2<sup>e</sup> phrase et introduction de la 3<sup>e</sup> par l’annexe ch. 6 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^20-4]: Introduit par le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^20-5]: Introduit par le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+[^20-6]: Introduit par le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 21
 
@@ -400,9 +402,9 @@ Lorsque la rente a été fixée, les prestations pour soins et remboursement de 
 
 **Révision de la rente**[^22-1]
 
-En dérogation à l’art. 17, al. 1, LPGA[^22-2], la rente ne peut plus être révisée à compter du mois au cours duquel l’ayant droit perçoit une rente de vieillesse de l’AVS, mais au plus tard lorsqu’il atteint l’âge de la retraite fixé à l’art. 21 de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^22-3].
+En dérogation à l’art. 17, al. 1, LPGA[^22-2], la rente ne peut plus être révisée à compter du mois au cours duquel l’ayant droit perçoit de manière anticipée la totalité de sa rente de vieillesse en vertu de l’art. 40, al. 1, de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^22-3], mais au plus tard lorsqu’il atteint l’âge de référence fixé à l’art. 21, al. 1, LAVS.
 
-[^22-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 17 juin 2011 (Amélioration de la mise en oeuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^22-1]: Nouvelle teneur selon l’annexe ch. 6 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^22-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^22-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
@@ -503,29 +505,29 @@ Lorsque l’assuré décède des suites de l’accident, le conjoint survivant e
 
 **Montant des rentes**
 
-<sup>1</sup> Les rentes de survivants se montent, en pour-cent du gain assuré:
+<sup>1</sup>
 
-pour les veuves et les veufs: à 40 %,
+Les rentes de survivants se montent, en pour-cent du gain assuré:
 
-pour les orphelins de père ou de mère: à 15 %,
-
-pour les orphelins de père et de mère: à 25 %.
-
-En cas de concours de plusieurs survivants à 70 % au plus et en tout.
+- [tab] pour les veuves et les veufs: à 40 %,
+- [tab] pour les orphelins de père ou de mère: à 15 %,
+- [tab] pour les orphelins de père et de mère: à 25 %.
+- [tab] En cas de concours de plusieurs survivants à 70 % au plus et en tout.
 
 <sup>2</sup> La rente de survivant versée au conjoint divorcé s’élève à 20 % du gain assuré, mais au plus à la contribution d’entretien qui est due.
 
 <sup>3</sup> Les rentes sont proportionnellement réduites lorsqu’elles représentent plus de 70 % du gain assuré pour le conjoint survivant et les enfants ou plus de 90 % lorsqu’il existe en outre une rente pour conjoint divorcé. L’extinction de la rente d’un de ces survivants profite aux autres, proportionnellement et dans la limite de leurs droits.
 
-<sup>4</sup> Si les survivants ont droit à des rentes de l’assurance-vieillesse et survivants ou de l’assurance-invalidité, l’assurance-accidents leur alloue une rente complémentaire dont le montant correspond, en dérogation à l’art. 69 LPGA[^31-1] à la différence entre 90 % du gain assuré et la rente de l’assurance-vieillesse et survivants ou de l’assurance-invalidité, mais au plus au montant prévu à l’al. 1.[^31-2] La rente complémentaire allouée au conjoint divorcé correspond à la différence entre la pension alimentaire due et la rente de l’assurance-vieillesse et survivants, mais au plus au montant prévu à l’al. 2. La rente complémentaire est fixée au moment où les rentes précitées concourent pour la première fois et n’est adaptée qu’aux modifications éventuelles du cercle des ayants droit aux rentes de l’assurance-vieillesse et survivants ou de l’assurance-invalidité.
+<sup>4</sup> Si les survivants ont droit à des rentes de l’assurance-vieillesse et survivants ou de l’assurance-invalidité, l’assurance-accidents leur alloue une rente complémentaire dont le montant correspond, en dérogation à l’art. 69 LPGA[^31-1] à la différence entre 90 % du gain assuré et la rente de l’assurance-vieillesse et survivants ou de l’assurance-invalidité, mais au plus au montant prévu à l’al. 1.[^31-2] La rente complémentaire allouée au conjoint divorcé correspond à la différence entre la pension alimentaire due et la rente de l’assurance-vieillesse et survivants, mais au plus au montant prévu à l’al. 2. La rente complémentaire est fixée lorsqu’elle est en concours pour la première fois avec une rente de l’assurance-invalidité ou de l’assurance-vieillesse et survivants. Elle est adaptée lorsque la rente de l’assurance-vieillesse et survivants est modifiée à la suite d’un ajournement ou d’un versement anticipé, ou lorsque le cercle des bénéficiaires de rentes de l’assurance-vieillesse et survivants ou de l’assurance-invalidité est modifié.[^31-3]
 
-<sup>4bis</sup> L’al. 4 est applicable également lorsque l’assuré a droit à une rente de même nature servie par une assurance sociale étrangère.[^31-3]
+<sup>4bis</sup> L’al. 4 est applicable également lorsque l’assuré a droit à une rente de même nature servie par une assurance sociale étrangère.[^31-4]
 
 <sup>5</sup> Le Conseil fédéral édicte des prescriptions détaillées sur le calcul des rentes complémentaires ainsi que des rentes pour orphelins de père et de mère lorsque les parents étaient tous deux assurés.
 
 [^31-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^31-2]: Nouvelle teneur selon l’annexe ch. 12 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
-[^31-3]: Introduit par le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^31-3]: Nouvelle teneur de la 3<sup>e</sup> phrase et introduction de la 4<sup>e</sup> phrase par l’annexe ch. 6 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^31-4]: Introduit par le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 32
 
@@ -702,8 +704,6 @@ Les créances découlant de la présente loi et les créances en restitution de 
 
 [^50-1]: Nouvelle teneur selon l’annexe ch. 12 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 
-### …
-
 #### Art. 51 et 52
 
 [^5152-1]
@@ -755,7 +755,7 @@ Si, pour des motifs graves, un assureur conteste à une personne exerçant une a
 
 #### Art. 56
 
-<sup>1</sup> Les assureurs peuvent passer des conventions avec les personnes exerçant une activité dans le domaine médical, le personnel paramédical, les hôpitaux, les établissements de cure et les entreprises de transport ou de sauvetage afin de régler leur collaboration et de fixer les tarifs.[^56-1] Ils peuvent confier le traitement des assurés aux seuls signataires de ces conventions. Quiconque remplit les conditions posées dans le secteur ambulatoire peut adhérer à ces conventions.[^56-2] [^56-3]
+<sup>1</sup> Les assureurs peuvent passer des conventions avec les personnes exerçant une activité dans le domaine médical, le personnel paramédical, les hôpitaux, les établissements de cure et les entreprises de transport ou de sauvetage afin de régler leur collaboration, de fixer les tarifs et de définir les mesures de gestion des prestations d’assurance ou des coûts de celles-ci.[^56-1] Ils peuvent confier le traitement des assurés aux seuls signataires de ces conventions. Quiconque remplit les conditions posées dans le secteur ambulatoire peut adhérer à ces conventions.[^56-2] [^56-3]
 
 <sup>2</sup> Le Conseil fédéral veille à la coordination avec les réglementations tarifaires d’autres branches des assurances sociales et peut les déclarer applicables. Il règle le remboursement dû aux assurés qui se rendent dans un hôpital non conventionné.[^56-4]
 
@@ -772,9 +772,9 @@ En cas de manquement à l’obligation de communiquer les données prévue à l�
 
 <sup>4</sup> Les taxes doivent être les mêmes pour tous les assurés de l’assurance-accidents.
 
-[^56-1]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^56-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 30 sept. 2022 (Mesures visant à freiner la hausse des coûts, volet 1*b*), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 [^56-2]: Nouvelle teneur de la phrase selon le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^56-3]: Voir aussi l’art. 1 de l’O du 17 sept. 1986 sur les tarifs des établissements hospitaliers et de cure dans l’assurance-accidents ([RO 1986 1525](https://fedlex.data.admin.ch/eli/oc/1986/1525_1525_1525)).
+[^56-3]: Voir aussi l’art. 1 de l’O du 17 sept. 1986 sur les tarifs des établissements hospitaliers et de cure dans l’assurance-accidents ([RS 832.206.2](https://fedlex.data.admin.ch/eli/cc/1986/1525_1525_1525)).
 [^56-4]: Nouvelle teneur de la phrase selon le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^56-5]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^56-6]: Introduit par l’annexe ch. 2 de la LF du 18 juin 2021 (Mesure visant à freiner la hausse des coûts, volet 1*a*), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
@@ -1691,14 +1691,14 @@ Dans la mesure où aucun intérêt privé prépondérant ne s’y oppose, les or
 
 - a. à d’autres organes chargés d’appliquer la présente loi ou d’en contrôler ou surveiller l’exécution, lorsqu’elles sont nécessaires à l’accomplissement des tâches que leur assigne la présente loi;
 - b. aux organes d’une autre assurance sociale, lorsque, en dérogation à l’art. 32, al. 2, LPGA, l’obligation de les communiquer résulte d’une loi fédérale;
-- [tab] b<sup>bis</sup>.[^97-3] aux organes d’une autre assurance sociale, en vue d’attribuer ou de vérifier le numéro AVS;
+- b<sup>bis</sup>.[^97-3] aux organes d’une autre assurance sociale, en vue d’attribuer ou de vérifier le numéro AVS;
 - c. aux autorités compétentes en matière d’impôt à la source, conformément aux art. 88 et 100 de la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct[^97-4] et aux dispositions cantonales correspondantes;
 - d. aux autorités chargées d’appliquer la loi fédérale du 12 juin 1959 sur la taxe d’exemption de l’obligation de servir[^97-5], conformément à l’art. 24 de ladite loi;
 - e. aux organes de la statistique fédérale, conformément à la loi du 9 octobre 1992 sur la statistique fédérale[^97-6];
 - f. aux organes d’exécution de la loi fédérale du 19 mars 1976 sur la sécurité d’installations et d’appareils techniques[^97-7], de la loi du 21 mars 1969 sur les toxiques[^97-8], de la loi fédérale du 7 octobre 1983 sur la protection de l’environnement[^97-9] et de l’ordonnance du 22 juin 1994 sur la radioprotection[^97-10], lorsque les données sont nécessaires à l’accomplissement des tâches que leur assignent ces actes législatifs;
 - g. à l’institution chargée, en vertu de l’art. 88, al. 1, de promouvoir la prévention des accidents non professionnels, lorsqu’elles sont nécessaires à l’accomplissement de cette tâche;
 - h. aux autorités d’instruction pénale, lorsqu’il s’agit de dénoncer ou de prévenir un crime;
-- [tab] h<sup>bis</sup>.[^97-11] au Service de renseignement de la Confédération (SRC) ou aux organes de sûreté des cantons à son intention, lorsqu’il existe une menace concrète pour la sûreté intérieure ou extérieure au sens de l’art. 19, al. 2, de la loi fédérale du 25 septembre 2015 sur le renseignement[^97-12];
+- h<sup>bis</sup>.[^97-11] au Service de renseignement de la Confédération (SRC) ou aux organes de sûreté des cantons à son intention, lorsqu’il existe une menace concrète pour la sûreté intérieure ou extérieure au sens de l’art. 19, al. 2, de la loi fédérale du 25 septembre 2015 sur le renseignement[^97-12];
 - i.
 
   dans des cas d’espèce et sur demande écrite et motivée:
