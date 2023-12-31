@@ -4,13 +4,13 @@ number: "162.17"
 title: Règlement sur la délégation de compétences en matière de personnel de la Cour suprême
 short: RDél CS
 language: fr
-version: 2022-10-01
-valid_until: 2023-12-31
-version_adopted: 2022-09-16
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-11-17
 adopted: 2015-01-30
 in_force: 2015-04-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/162.17"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2674/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2926/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2674/pdf_file"
 
 (RDél CS)
 
-du 30.01.2015 (état au 01.10.2022)
+du 30.01.2015 (état au 01.01.2024)
 
 La Cour suprême du canton de Berne,
 
@@ -52,7 +52,7 @@ arrête:
 
 <sup>1</sup> Le directoire de la Cour suprême est compétent pour engager le personnel à la Cour suprême, pour autant qu'il ne s'agisse pas de membres d'autorité.
 
-<sup>2</sup> Les organes dirigeants des autorités judiciaires selon le règlement d'organisation qui leur est applicable, mentionnés à l'article 1, alinéa 1, lettres a à e, sont compétents, dans les limites fixées par l'état des postes et le budget approuvés par la Direction de la magistrature, pour engager les collaborateurs et les collaboratrices dans leur domaine de compétence, pour autant qu'il ne s'agisse pas de membres d'autorité. Les engagements dépassant les limites prévues par l'état des postes ou le budget approuvés nécessitent l'autorisation du directoire de la Cour suprême ou de la Direction de la magistrature.
+<sup>2</sup> Les organes dirigeants des autorités judiciaires selon le règlement d'organisation qui leur est applicable, mentionnés à l'article 1, alinéa 1, lettres a à e, sont compétents, dans les limites fixées par l'état des postes et le budget approuvés par la Direction administrative de la magistrature, pour engager les collaborateurs et les collaboratrices dans leur domaine de compétence, pour autant qu'il ne s'agisse pas de membres d'autorité. Les engagements dépassant les limites prévues par l'état des postes ou le budget approuvés nécessitent l'autorisation du directoire de la Cour suprême ou de la Direction administrative de la magistrature.
 
 #### Art. 3
 

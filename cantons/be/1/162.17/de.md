@@ -4,13 +4,13 @@ number: "162.17"
 title: Reglement über die Delegation von Personalbefugnissen des Obergerichts
 short: DelR OG
 language: de
-version: 2022-10-01
-valid_until: 2023-12-31
-version_adopted: 2022-09-16
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-11-17
 adopted: 2015-01-30
 in_force: 2015-04-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/162.17"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2674/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2926/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2674/pdf_file"
 
 (DelR OG)
 
-vom 30.01.2015 (Stand 01.10.2022)
+vom 30.01.2015 (Stand 01.01.2024)
 
 Das Obergericht des Kantons Bern,
 
@@ -52,7 +52,7 @@ beschliesst:
 
 <sup>1</sup> Die Geschäftsleitung des Obergerichts ist zuständig für die Anstellung des Personals am Obergericht, soweit nicht Behördenmitglieder betroffen sind.
 
-<sup>2</sup> Die Leitungsorgane der in Artikel 1 Absatz 1 Buchstaben a bis e genannten Gerichtsbehörden gemäss dem für diese geltenden Geschäftsreglement sind innerhalb des von der Justizleitung genehmigten Stellenplans und Voranschlags zuständig für die Anstellung der Mitarbeiterinnen und Mitarbeiter in ihrem Zuständigkeitsbereich, soweit nicht Behördenmitglieder betroffen sind. Anstellungen, welche über den bewilligten Stellenplan oder Voranschlag hinaus gehen, benötigen die Zustimmung der Geschäftsleitung des Obergerichts oder der Justizleitung.
+<sup>2</sup> Die Leitungsorgane der in Artikel 1 Absatz 1 Buchstaben a bis e genannten Gerichtsbehörden gemäss dem für diese geltenden Geschäftsreglement sind innerhalb des von der Justizverwaltungsleitung genehmigten Stellenplans und des Budgets zuständig für die Anstellung der Mitarbeiterinnen und Mitarbeiter in ihrem Zuständigkeitsbereich, soweit nicht Behördenmitglieder betroffen sind. Anstellungen, welche über den bewilligten Stellenplan oder das Budget hinaus gehen, benötigen die Zustimmung der Geschäftsleitung des Obergerichts oder der Justizverwaltungsleitung.
 
 #### Art. 3
 
