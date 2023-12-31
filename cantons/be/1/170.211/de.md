@@ -4,13 +4,13 @@ number: "170.211"
 title: Verordnung über die Regionalkonferenzen
 short: RKV
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-11-23
+version: 2024-01-01
+valid_until: 2025-12-31
+version_adopted: 2023-11-08
 adopted: 2007-10-24
 in_force: 2008-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/170.211"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2760/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2896/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2760/pdf_file"
 
 (RKV)
 
-vom 24.10.2007 (Stand 01.01.2023)
+vom 24.10.2007 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -171,7 +171,7 @@ beschliesst:
 
 <sup>1</sup> Perimeter: Die Regionalkonferenz Oberaargau umfasst das Gebiet des Verwaltungskreises Oberaargau (als Teil der Verwaltungsregion Emmental- Oberaargau) mit den nachfolgend aufgeführten Gemeinden.
 
-<sup>2</sup> Aarwangen, Attiswil, Auswil, Bannwil, Berken, Bettenhausen, Bleienbach, Busswil bei Melchnau, Eriswil, Farnern, Gondiswil, Graben, Heimenhausen, Herzogenbuchsee, Huttwil, Inkwil, Langenthal, Lotzwil, Madiswil, Melchnau, Niederbipp, Niederönz, Oberbipp, Ochlenberg, Oeschenbach, Reisiswil, Roggwil (BE), Rohrbach, Rohrbachgraben, Rumisberg, Rütschelen, Schwarzhäusern, Seeberg, Thörigen, Thunstetten, Ursenbach, Walliswil bei Niederbipp, Walliswil bei Wangen, Walterswil (BE), Wangen an der Aare, Wangenried, Wiedlisbach, Wynau, Wyssachen.
+<sup>2</sup> Aarwangen, Attiswil, Auswil, Bannwil, Berken, Bettenhausen, Bleienbach, Busswil bei Melchnau, Eriswil, Farnern, Gondiswil, Graben, Heimenhausen, Herzogenbuchsee, Huttwil, Inkwil, Langenthal, Lotzwil, Madiswil, Melchnau, Niederbipp, Niederönz, Oberbipp, Ochlenberg, Oeschenbach, Reisiswil, Roggwil (BE), Rohrbach, Rohrbachgraben, Rumisberg, Rütschelen, Schwarzhäusern, Seeberg, Thörigen, Thunstetten, Ursenbach, Walliswil bei Niederbipp, Walliswil bei Wangen, Walterswil (BE), Wangen an der Aare, Wiedlisbach, Wynau, Wyssachen.
 
 #### Art. A1-3
 
@@ -195,7 +195,7 @@ beschliesst:
 
 <sup>1</sup> Perimeter: Die Regionalkonferenz Thun Oberland-West umfasst das Gebiet der Verwaltungskreise Thun, Frutigen-Niedersimmental sowie Obersimmental- Saanen (als Teile der Verwaltungsregion Oberland) mit den nachfolgend aufgeführten Gemeinden.
 
-<sup>2</sup> Adelboden, Aeschi bei Spiez, Amsoldingen, Blumenstein, Boltigen, Buchholterberg, Burgistein, Därstetten, Diemtigen, Eriz, Erlenbach im Simmental, Fahrni, Forst-Längenbühl, Frutigen, Gsteig, Gurzelen, Heiligenschwendi, Heimberg, Hilterfingen, Homberg, Horrenbach-Buchen, Kandergrund, Kandersteg, Krattigen, Lauenen, Lenk, Oberhofen am Thunersee, Oberlangenegg, Oberwil im Simmental, Pohlern, Reichenbach im Kandertal, Reutigen, Saanen, Seftigen, Sigriswil, Spiez, St. Stephan, Steffisburg, Stocken-Höfen, Teuffenthal (BE), Thierachern, Thun, Uebeschi, Uetendorf, Unterlangenegg, Uttigen, Wachseldorn, Wattenwil, Wimmis, Zweisimmen, Zwieselberg.
+<sup>2</sup> Adelboden, Aeschi bei Spiez, Amsoldingen, Blumenstein, Boltigen, Buchholterberg, Burgistein, Därstetten, Diemtigen, Eriz, Erlenbach im Simmental, Fahrni, Forst-Längenbühl, Frutigen, Gsteig, Gurzelen, Heiligenschwendi, Heimberg, Hilterfingen, Homberg, Horrenbach-Buchen, Kandergrund, Kandersteg, Krattigen, Lauenen, Lenk, Oberhofen am Thunersee, Oberlangenegg, Oberwil im Simmental, Pohlern, Reichenbach im Kandertal, Reutigen, Saanen, Seftigen, Sigriswil, Spiez, St. Stephan, Steffisburg, Stocken-Höfen, Teuffenthal (BE), Thierachern, Thun, Uebeschi, Uetendorf, Unterlangenegg, Uttigen, Wachseldorn, Wattenwil, Wimmis, Zweisimmen.
 
 #### Art. A1-6
 
