@@ -4,13 +4,12 @@ number: "181.1"
 title: Gesetz über die Mediation für Verwaltungsangelegenheiten
 short: MedG
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-10-07
+version: 2024-01-01
+version_adopted: 2023-10-12
 adopted: 2015-06-25
 in_force: 2017-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/181.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7471/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8418/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Ombudsgesetz
 
 (MedG)
 
-vom 25.06.2015 (Fassung in Kraft getreten am 01.01.2022)
+vom 25.06.2015 (Fassung in Kraft getreten am 01.01.2024)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -39,7 +38,7 @@ beschliesst:
 
 **Form, Definition und Zweck**
 
-<sup>1</sup> Als unabhängige Ombudsstelle für Verwaltungsangelegenheiten im Sinne von Artikel 119 KV wirkt eine kantonale Mediatorin oder ein kantonaler Mediator.
+<sup>1</sup> Als unabhängige Ombudsstelle für Verwaltungsangelegenheiten im Sinne von Artikel 119 KV[^1-1] wirkt eine kantonale Mediatorin oder ein kantonaler Mediator.
 
 <sup>2</sup> Die Mediation für Verwaltungsangelegenheiten ist ein Prozess, bei dem eine qualifizierte und unabhängige Person als Gesprächspartnerin zwischen den Bürgerinnen und Bürgern und den kantonalen Verwaltungsbehörden dient, um Konflikten vorzubeugen oder einvernehmliche Lösungen zu finden.
 
@@ -51,6 +50,8 @@ beschliesst:
 - d) zur Verbesserung der Arbeit der Behörden beizutragen;
 - e) den Behörden unbegründete Vorwürfe zu ersparen.
 
+[^1-1]: SGF [10.1](https://bdlf.fr.ch/data/10.1/de)
+
 #### Art. 2
 
 **Betroffene Behörden**
@@ -60,7 +61,7 @@ beschliesst:
 <sup>2</sup> Als Kantonsbehörden gelten:
 
 - a) die Oberamtspersonen, ausser wenn sie:
-  - 1\. in ihrer Eigenschaft als Strafjustizbehörde im Sinne von Artikel 3 Abs. 2 Bst. a des Justizgesetzes vom 31. Mai 2010 (JG) handeln, oder
+  - 1\. in ihrer Eigenschaft als Strafjustizbehörde im Sinne von Artikel 3 Abs. 2 Bst. a des Justizgesetzes vom 31. Mai 2010 (JG)[^2-1] handeln, oder
   - 2\. in ihrer Eigenschaft als besondere Verwaltungsjustizbehörde handeln;
 - b) die Organe der Kantonsverwaltung;
 - c) die Organe der öffentlich-rechtlichen Anstalten des Kantons;
@@ -70,9 +71,13 @@ beschliesst:
 
 - a) dem Grossen Rat;
 - b) dem Staatsrat;
-- c) den Gerichtsbehörden im Sinne von Artikel 3 JG;
-- d) den Strafverfolgungsbehörden im Sinne von Artikel 63 JG;
+- c) den Gerichtsbehörden im Sinne von Artikel 3 JG[^2-2];
+- d) den Strafverfolgungsbehörden im Sinne von Artikel 63 JG[^2-3];
 - e) den anerkannten Kirchen und konfessionellen Gemeinschaften.
+
+[^2-1]: SGF [130.1](https://bdlf.fr.ch/data/130.1/de)
+[^2-2]: SGF [130.1](https://bdlf.fr.ch/data/130.1/de)
+[^2-3]: SGF [130.1](https://bdlf.fr.ch/data/130.1/de)
 
 #### Art. 3
 
@@ -102,9 +107,11 @@ beschliesst:
 
 #### Art. 5
 
-**Ernennung**
+**Ernennung und Stellung**
 
-<sup>1</sup> Die kantonale Mediatorin oder der kantonale Mediator wird vom Staatsrat auf unbestimmte Zeit ernannt.
+<sup>1</sup> Die kantonale Mediatorin oder der kantonale Mediator wird für eine individuelle Amtszeit von fünf Jahren ernannt, die verlängert werden kann. Die Artikel 51‒53 des Gesetzes vom 12. Oktober 2023 über den Datenschutz[^5-1] gelten für sie oder ihn sinngemäss.
+
+[^5-1]: SGF [17.1](https://bdlf.fr.ch/data/17.1/de)
 
 #### Art. 6
 
@@ -115,7 +122,7 @@ beschliesst:
 <sup>2</sup> Im Bereich der Mediation hat die kantonale Öffentlichkeits-, Datenschutz- und Mediationskommission (die Kommission) folgende Aufgaben:
 
 - a) Sie stellt die Koordination zwischen der Ausübung der Mediationstätigkeit durch die kantonale Mediatorin oder den kantonalen Mediator, der Ausübung des Rechts auf Zugang zu amtlichen Dokumenten und den Erfordernissen des Datenschutzes sicher.
-- b) Sie führt das Verfahren zur Ernennung der kantonalen Mediatorin oder des kantonalen Mediators für den Staatsrat durch und nimmt zuhanden des Staatsrats Stellung zu den von ihr bevorzugten Kandidatinnen und Kandidaten.
+- b) Sie führt in Zusammenarbeit mit der Direktion, der sie zugewiesen ist, für den Staatsrat das Verfahren zur Ernennung der kantonalen Mediatorin oder des kantonalen Mediators durch und nimmt zuhanden des Staatsrats Stellung zu den von ihr bevorzugten Kandidatinnen und Kandidaten.
 - c) Sie nimmt Stellung zu Erlassentwürfen, welche die Mediation betreffen.
 - d) Sie übt die Aufsicht über die Geschäftsführung der Mediationstätigkeit aus.
 - e) Sie sorgt dafür, dass die Unabhängigkeit der kantonalen Mediatorin oder des kantonalen Mediators gewährleistet ist.
@@ -130,26 +137,11 @@ beschliesst:
 
 #### Art. 8
 
-**Verhinderung**
-
-<sup>1</sup> Bei dauerhafter Verhinderung der kantonalen Mediatorin oder des kantonalen Mediators bezeichnet der Staatsrat nach Stellungnahme der Kommission eine Person, die das Amt interimistisch ausübt.
-
-<sup>2</sup> Bei punktueller Verhinderung wird die kantonale Mediatorin oder der kantonale Mediator von einer von der Kommission dazu bestimmten Person vertreten.
+**…**
 
 #### Art. 9
 
-**Abberufung**
-
-<sup>1</sup> Die kantonale Mediatorin oder der kantonale Mediator kann vom Staatsrat abberufen werden:
-
-- a) wenn die Ernennungsvoraussetzungen nicht mehr erfüllt sind;
-- b) im Falle von Arbeitsunfähigkeit oder wenn ein anderer Grund, der die Belassung im Amt verunmöglicht, vorliegt.
-
-<sup>2</sup> Das Abberufungsverfahren wird vom Staatsrat auf Antrag der Kommission eröffnet.
-
-<sup>3</sup> Der Staatsrat kann die kantonale Mediatorin oder den kantonalen Mediator auf Antrag der Kommission gemäss den Bestimmungen des Gesetzes über das Staatspersonal, die sinngemäss gelten, vorläufig in ihrer oder seiner Tätigkeit suspendieren.
-
-<sup>4</sup> Die Bestimmungen der Gesetzgebung über das Staatspersonal über die Entlassung aus wichtigen Gründen bleiben vorbehalten.
+**…**
 
 #### Art. 10
 
@@ -157,9 +149,11 @@ beschliesst:
 
 <sup>1</sup> Die kantonale Mediatorin oder der kantonale Mediator bestimmt die Organisation zur Erfüllung ihrer oder seiner Aufgabe selbst.
 
-<sup>2</sup> Ihr oder sein Budget wird in das Globalbudget nach Artikel 32 Abs. 3 des Gesetzes vom 25. November 1994 über den Datenschutz integriert.
+<sup>2</sup> Ihr oder sein Budget wird in das Globalbudget nach Artikel 32 Abs. 3 des Gesetzes vom 25. November 1994 über den Datenschutz[^10-1] integriert.
 
 <sup>3</sup> …
+
+[^10-1]: SGF [17.1](https://bdlf.fr.ch/data/17.1/de)
 
 #### Art. 11
 
@@ -204,7 +198,9 @@ beschliesst:
 
 <sup>2</sup> Das Gesuch kann schriftlich oder mündlich formuliert werden. Die Identität des Gesuchstellers und der Gegenstand des Streitfalls sollen angegeben werden.
 
-<sup>3</sup> Das Gesuch ist an keine Frist gebunden. In Anwendung von Artikel 42 des Gesetzes vom 23. Mai 1991 über die Verwaltungsrechtspflege (VRG) kann jedoch die für das Dossier zuständige Kantonsbehörde das Verfahren einstellen, um eine Mediation zu ermöglichen. Gegebenenfalls kann sie unter Androhung einer Wiederaufnahme des ordentlichen Verfahrens eine Frist festsetzen, innerhalb derer die kantonale Mediatorin oder der kantonale Mediator angerufen werden muss.
+<sup>3</sup> Das Gesuch ist an keine Frist gebunden. In Anwendung von Artikel 42 des Gesetzes vom 23. Mai 1991 über die Verwaltungsrechtspflege (VRG)[^14-1] kann jedoch die für das Dossier zuständige Kantonsbehörde das Verfahren einstellen, um eine Mediation zu ermöglichen. Gegebenenfalls kann sie unter Androhung einer Wiederaufnahme des ordentlichen Verfahrens eine Frist festsetzen, innerhalb derer die kantonale Mediatorin oder der kantonale Mediator angerufen werden muss.
+
+[^14-1]: SGF [150.1](https://bdlf.fr.ch/data/150.1/de)
 
 #### Art. 15
 
@@ -220,9 +216,11 @@ beschliesst:
 
 **Ausstand**
 
-<sup>1</sup> Für den Ausstand der kantonalen Mediatorin oder des kantonalen Mediators gelten die Artikel 21–25 VRG.
+<sup>1</sup> Für den Ausstand der kantonalen Mediatorin oder des kantonalen Mediators gelten die Artikel 21–25 VRG[^16-1].
 
 <sup>2</sup> Die Kommission ist die Behörde im Sinne dieser Bestimmungen.
+
+[^16-1]: SGF [150.1](https://bdlf.fr.ch/data/150.1/de)
 
 #### Art. 17
 
@@ -258,9 +256,11 @@ beschliesst:
 
 **Amtshilfe**
 
-<sup>1</sup> Alle Verwaltungsbehörden im Sinne von Artikel 2 VRG müssen bei der Feststellung des Sachverhalts mitwirken.
+<sup>1</sup> Alle Verwaltungsbehörden im Sinne von Artikel 2 VRG[^19-1] müssen bei der Feststellung des Sachverhalts mitwirken.
 
 <sup>2</sup> Sie sind gegenüber der kantonalen Mediatorin oder dem kantonalen Mediator von ihrer Geheimhaltungspflicht entbunden.
+
+[^19-1]: SGF [150.1](https://bdlf.fr.ch/data/150.1/de)
 
 #### Art. 20
 
@@ -311,7 +311,9 @@ beschliesst:
 
 <sup>1</sup> Die Handlungen der kantonalen Mediatorin oder des kantonalen Mediators können nicht angefochten werden.
 
-<sup>2</sup> Ausgenommen sind Entscheide der kantonalen Mediatorin oder des kantonalen Mediators über die Verfahrenskosten (Art. 24). Gegen diese Entscheide kann in Anwendung der Artikel 114 Abs. 1 Bst. b oder 148 VRG Beschwerde oder Einsprache erhoben werden.
+<sup>2</sup> Ausgenommen sind Entscheide der kantonalen Mediatorin oder des kantonalen Mediators über die Verfahrenskosten (Art. 24). Gegen diese Entscheide kann in Anwendung der Artikel 114 Abs. 1 Bst. b oder 148 VRG[^25-1] Beschwerde oder Einsprache erhoben werden.
+
+[^25-1]: SGF [150.1](https://bdlf.fr.ch/data/150.1/de)
 
 ## 4 Schlussbestimmung
 
@@ -322,5 +324,13 @@ beschliesst:
 <sup>2</sup> Der Staatsrat legt das Inkrafttreten dieses Gesetzes fest.[^26-1]
 
 [^26-1]: Datum des Inkrafttretens: 1. Januar 2017 (StRB 25.08.2015).
+
+#### Art. 27
+
+**Übergangsrecht zur Änderung vom 12. Oktober 2023 – Dienstverhältnis der kantonalen Mediatorin oder des kantonalen Mediators**
+
+<sup>1</sup> Bei Inkrafttreten des Gesetzes passt die Anstellungsbehörde den Arbeitsvertrag der Stelleninhaberin oder des Stelleninhabers im Einklang mit der Personalgesetzgebung an die Anforderungen des neuen Gesetzes an.
+
+<sup>2</sup> Wird der Vorschlag zur Umwandlung des Arbeitsvertrags abgelehnt, so wird die Situation gemäss den Bestimmungen über die Abschaffung von Stellen im Sinne der Personalgesetzgebung geregelt.
 
 2015\_066

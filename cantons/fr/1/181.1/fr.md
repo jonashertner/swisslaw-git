@@ -4,13 +4,12 @@ number: "181.1"
 title: Loi sur la médiation administrative
 short: LMéd
 language: fr
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-10-07
+version: 2024-01-01
+version_adopted: 2023-10-12
 adopted: 2015-06-25
 in_force: 2017-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/181.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7471/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8418/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Médiation administrative – L
 
 (LMéd)
 
-du 25.06.2015 (version entrée en vigueur le 01.01.2022)
+du 25.06.2015 (version entrée en vigueur le 01.01.2024)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -39,7 +38,7 @@ Décrète:
 
 **Forme, définition et but**
 
-<sup>1</sup> L'organe de médiation administrative indépendant au sens de l'article 119 Cst. est institué en la forme d'un médiateur ou d'une médiatrice cantonal-e.
+<sup>1</sup> L'organe de médiation administrative indépendant au sens de l'article 119 Cst.[^1-1] est institué en la forme d'un médiateur ou d'une médiatrice cantonal-e.
 
 <sup>2</sup> La médiation administrative est le processus au cours duquel une personne qualifiée et indépendante sert d'interlocuteur entre les administré-e-s et les autorités administratives cantonales afin de prévenir ou de résoudre à l'amiable des conflits.
 
@@ -51,6 +50,8 @@ Décrète:
 - d) contribuer à améliorer le fonctionnement des autorités;
 - e) éviter aux autorités des reproches infondés.
 
+[^1-1]: RSF [10.1](https://bdlf.fr.ch/data/10.1/fr)
+
 #### Art. 2
 
 **Autorités concernées**
@@ -60,7 +61,7 @@ Décrète:
 <sup>2</sup> Sont considérés comme autorités cantonales:
 
 - a) les préfets, sauf lorsqu'ils agissent:
-  - 1\. en qualité d'autorité de la juridiction pénale au sens de l'article 3 al. 2 let. a de la loi du 31 mai 2010 sur la justice (LJ), ou
+  - 1\. en qualité d'autorité de la juridiction pénale au sens de l'article 3 al. 2 let. a de la loi du 31 mai 2010 sur la justice (LJ)[^2-1], ou
   - 2\. en qualité d'autorité spéciale de la juridiction administrative;
 - b) les organes de l'administration cantonale;
 - c) les organes des établissements publics cantonaux;
@@ -70,9 +71,13 @@ Décrète:
 
 - a) le Grand Conseil;
 - b) le Conseil d'Etat;
-- c) les autorités judiciaires au sens de l'article 3 LJ;
-- d) les autorités de la poursuite pénale au sens de l'article 63 LJ;
+- c) les autorités judiciaires au sens de l'article 3 LJ[^2-2];
+- d) les autorités de la poursuite pénale au sens de l'article 63 LJ[^2-3];
 - e) les Eglises et les communautés confessionnelles reconnues.
+
+[^2-1]: RSF [130.1](https://bdlf.fr.ch/data/130.1/fr)
+[^2-2]: RSF [130.1](https://bdlf.fr.ch/data/130.1/fr)
+[^2-3]: RSF [130.1](https://bdlf.fr.ch/data/130.1/fr)
 
 #### Art. 3
 
@@ -102,9 +107,11 @@ Décrète:
 
 #### Art. 5
 
-**Nomination**
+**Nomination et statut**
 
-<sup>1</sup> Le médiateur ou la médiatrice cantonal-e est nommé-e par le Conseil d'Etat pour une durée indéterminée.
+<sup>1</sup> Le médiateur ou la médiatrice cantonal-e est nommé-e pour une période individuelle de 5 ans, reconductible. Les articles 51 à 53 de la loi du 12 octobre 2023 sur la protection des données[^5-1] lui sont applicables par analogie.
+
+[^5-1]: RSF [17.1](https://bdlf.fr.ch/data/17.1/fr)
 
 #### Art. 6
 
@@ -112,10 +119,10 @@ Décrète:
 
 <sup>1</sup> Le médiateur ou la médiatrice cantonal‑e est intégré‑e administrativement à l'Autorité cantonale de la transparence, de la protection des données et de la médiation (ci-après: l'Autorité).
 
-<sup>2</sup> Dans le domaine de la médiation, la Commission cantonale de la transparence, de la protection des données et de la médiation (ci-après la Commission) a pour tâches:
+<sup>2</sup> Dans le domaine de la médiation, la Commission cantonale de la transparence, de la protection des données et de la médiation (ci-après: la Commission) a pour tâches:
 
 - a) d'assurer la coordination entre l'exercice de l'activité de médiation par le médiateur ou la médiatrice cantonal‑e, l'exercice du droit d'accès aux documents officiels et les exigences de la protection des données;
-- b) de mener la procédure de nomination du médiateur ou de la médiatrice cantonal‑e pour le Conseil d'Etat et de préaviser à son intention la ou les candidatures qu'elle privilégie;
+- b) de mener en collaboration avec la Direction à laquelle elle est rattachée la procédure de nomination du médiateur ou de la médiatrice cantonal-e pour le Conseil d'Etat et de préaviser à son intention la ou les candidatures privilégiées;
 - c) de donner son avis sur les projets d'actes législatifs touchant à la médiation;
 - d) de surveiller la gestion de l'activité de médiation;
 - e) de veiller à ce que l'indépendance du médiateur ou de la médiatrice cantonal‑e soit garantie.
@@ -130,26 +137,11 @@ Décrète:
 
 #### Art. 8
 
-**Empêchement**
-
-<sup>1</sup> En cas d'empêchement durable du médiateur ou de la médiatrice cantonal‑e, le Conseil d'Etat désigne, sur le préavis de la Commission, une personne pour occuper cette fonction par intérim.
-
-<sup>2</sup> En cas d'empêchement ponctuel, il ou elle est remplacé‑e par une personne désignée à cet effet par la Commission.
+**…**
 
 #### Art. 9
 
-**Révocation**
-
-<sup>1</sup> Le médiateur ou la médiatrice cantonal-e peut être révoqué-e par le Conseil d'Etat:
-
-- a) si une condition de nomination n'est plus remplie;
-- b) en cas d'incapacité ou pour tout autre motif ne permettant pas son maintien en fonction.
-
-<sup>2</sup> La procédure de révocation est ouverte par le Conseil d'Etat, sur la proposition de la Commission.
-
-<sup>3</sup> Le Conseil d'Etat, sur la proposition de la Commission, peut prononcer la suspension provisoire de l'activité du médiateur ou de la médiatrice cantonal‑e, conformément aux dispositions de la loi sur le personnel de l'Etat, applicables par analogie.
-
-<sup>4</sup> Les dispositions de la législation sur le personnel de l'Etat relatives au renvoi pour de justes motifs sont réservées.
+**…**
 
 #### Art. 10
 
@@ -157,9 +149,11 @@ Décrète:
 
 <sup>1</sup> Le médiateur ou la médiatrice cantonal-e s'organise librement pour mener à bien sa mission.
 
-<sup>2</sup> Son budget est intégré dans l'enveloppe prévue à l'article 32 al. 3 de la loi du 25 novembre 1994 sur la protection des données.
+<sup>2</sup> Son budget est intégré dans l'enveloppe prévue à l'article 32 al. 3 de la loi du 25 novembre 1994 sur la protection des données[^10-1].
 
 <sup>3</sup> …
+
+[^10-1]: RSF [17.1](https://bdlf.fr.ch/data/17.1/fr)
 
 #### Art. 11
 
@@ -204,7 +198,9 @@ Décrète:
 
 <sup>2</sup> La requête peut être formulée par écrit ou oralement. Elle expose l'identité de son auteur-e et l'objet du conflit.
 
-<sup>3</sup> La requête n'est soumise à aucun délai. Toutefois, en application de l'article 42 du code du 23 mai 1991 de procédure et de juridiction administrative (CPJA), l'autorité cantonale en charge du dossier peut suspendre la procédure afin de permettre une médiation. Le cas échéant, elle peut fixer un délai pour saisir le médiateur ou la médiatrice cantonal-e, sous peine de reprise de la procédure ordinaire.
+<sup>3</sup> La requête n'est soumise à aucun délai. Toutefois, en application de l'article 42 du code du 23 mai 1991 de procédure et de juridiction administrative (CPJA)[^14-1], l'autorité cantonale en charge du dossier peut suspendre la procédure afin de permettre une médiation. Le cas échéant, elle peut fixer un délai pour saisir le médiateur ou la médiatrice cantonal-e, sous peine de reprise de la procédure ordinaire.
+
+[^14-1]: RSF [150.1](https://bdlf.fr.ch/data/150.1/fr)
 
 #### Art. 15
 
@@ -220,9 +216,11 @@ Décrète:
 
 **Récusation**
 
-<sup>1</sup> Les articles 21 à 25 CPJA sont applicables à la récusation du médiateur ou de la médiatrice cantonal-e.
+<sup>1</sup> Les articles 21 à 25 CPJA[^16-1] sont applicables à la récusation du médiateur ou de la médiatrice cantonal-e.
 
 <sup>2</sup> La Commission est l'autorité au sens de ces dispositions.
+
+[^16-1]: RSF [150.1](https://bdlf.fr.ch/data/150.1/fr)
 
 #### Art. 17
 
@@ -258,9 +256,11 @@ Décrète:
 
 **Entraide administrative**
 
-<sup>1</sup> Toute autorité administrative au sens de l'article 2 CPJA doit collaborer à l'établissement des faits.
+<sup>1</sup> Toute autorité administrative au sens de l'article 2 CPJA[^19-1] doit collaborer à l'établissement des faits.
 
 <sup>2</sup> Elle est déliée du secret de fonction à l'égard du médiateur ou de la médiatrice cantonal-e.
+
+[^19-1]: RSF [150.1](https://bdlf.fr.ch/data/150.1/fr)
 
 #### Art. 20
 
@@ -311,7 +311,9 @@ Décrète:
 
 <sup>1</sup> Les actes émanant du médiateur ou de la médiatrice cantonal-e ne peuvent faire l'objet d'aucun recours.
 
-<sup>2</sup> Sont exceptées les décisions du médiateur ou de la médiatrice cantonal-e au sujet des frais (art. 24). Ces décisions sont sujettes à recours ou à réclamation en application des articles 114 al. 1 let. b ou 148 CPJA.
+<sup>2</sup> Sont exceptées les décisions du médiateur ou de la médiatrice cantonal-e au sujet des frais (art. 24). Ces décisions sont sujettes à recours ou à réclamation en application des articles 114 al. 1 let. b ou 148 CPJA[^25-1].
+
+[^25-1]: RSF [150.1](https://bdlf.fr.ch/data/150.1/fr)
 
 ## 4 Disposition finale
 
@@ -322,5 +324,13 @@ Décrète:
 <sup>2</sup> Le Conseil d'Etat fixe la date d'entrée en vigueur de la présente loi.[^26-1]
 
 [^26-1]: Date d'entrée en vigueur: 1<sup>er</sup> janvier 2017 (ACE 25.08.2015).
+
+#### Art. 27
+
+**Droit transitoire relatif à la modification du 12 octobre 2023 – Rapports de service du médiateur ou de la médiatrice cantonal-e**
+
+<sup>1</sup> Au moment de l'entrée en vigueur de la loi, l'autorité d'engagement adapte le contrat de travail de la personne en poste aux exigences de la nouvelle loi conformément à la législation sur le personnel.
+
+<sup>2</sup> En cas de refus de la proposition visant à transformer le contrat de travail, la situation est réglée conformément aux dispositions en matière de suppression de poste au sens de la législation sur le personnel.
 
 2015\_066
