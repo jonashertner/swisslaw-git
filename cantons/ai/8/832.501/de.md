@@ -4,13 +4,13 @@ number: "832.501"
 title: Standeskommissionsbeschluss über die individuelle Prämienverbilligung in der Krankenversicherung
 short: StKB IPV
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-11-08
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-12-05
 adopted: 1996-04-02
 in_force: 1996-04-02
 url: "https://ai.clex.ch/app/de/texts_of_law/832.501"
-pdf: "https://ai.clex.ch/api/de/versions/2169/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2253/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2169/pdf_file"
 
 (StKB IPV)
 
-vom 02.04.1996 (Stand 01.01.2023)
+vom 02.04.1996 (Stand 01.01.2024)
 
 Die Standeskommission des Kantons Appenzell I. Rh.,
 
@@ -100,7 +100,7 @@ beschliesst:
 
 <sup>4</sup> Für die Berechnung eines Gesamtanspruchs werden die massgebenden Gesamteinkommen zusammengezählt.
 
-<sup>5</sup> Die individuelle Prämienverbilligung wird für Kinder auf 80% und für junge Erwachsene in Ausbildung auf 50% der Richtprämien angehoben, sofern das massgebende Gesamteinkommen Fr. 70'000.-- nicht übersteigt.
+<sup>5</sup> Die individuelle Prämienverbilligung wird für Kinder auf 80% und für junge Erwachsene in Ausbildung auf 50% der Richtprämien angehoben, sofern das massgebende Gesamteinkommen Fr. 75'000.-- nicht übersteigt.
 
 - a) …
 - b) …
@@ -274,15 +274,15 @@ Die Ausgleichskasse meldet dem Gesundheits- und Sozialdepartement monatlich die 
 
 #### Art. A1-1
 
-<sup>1</sup> Für die Ermittlung des Prämienverbilligungsanspruchs im Jahr 2023 gilt:
+<sup>1</sup> Für die Ermittlung des Prämienverbilligungsanspruchs im Jahr 2024 gilt:
 
-- 1\. Die Richtprämien betragen für das Jahr 2023:
-  - a) für Kinder (Jahrgang 2005 und jünger) Fr. 870.--;
-  - b) für junge Erwachsene (Jahrgang 1998 bis 2004) Fr. 2'883.--;
-  - c) für Erwachsene (Jahrgang 1997 und älter) Fr. 3'948.--.
+- 1\. Die Richtprämien betragen für das Jahr 2024:
+  - a) für Kinder (Jahrgang 2006 und jünger) Fr. 957.--;
+  - b) für junge Erwachsene (Jahrgang 1999 bis 2005) Fr. 3'168.--;
+  - c) für Erwachsene (Jahrgang 1998 und älter) Fr. 4'182.--.
 - 2\. Der eigene Prämienanteil der Versicherten (Selbstbehalt) wird wie folgt festgelegt:
-  - a) 7% bei einem massgebenden Gesamteinkommen unter Fr. 40'000.--;
-  - b) 12% bei einem massgebenden Gesamteinkommen von Fr. 80'000.-- und darüber;
+  - a) 7% bei einem massgebenden Gesamteinkommen unter Fr. 45'000.--;
+  - b) 12% bei einem massgebenden Gesamteinkommen von Fr. 85'000.-- und darüber;
   - c) dazwischen steigt der Selbstbehalt schrittweise um 0.125% pro Fr. 1'000.-- von 7% auf 12%.
 
 cGS -
