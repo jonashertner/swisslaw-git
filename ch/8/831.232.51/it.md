@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 29 novembre 1976 sulla consegna di mezzi ausiliari
 short: OMAI
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/2664_2664_2664"
 language: it
-version: 2020-07-01
+version: 2024-01-01
 adopted: 1976-11-29
 in_force: 1977-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2664_2664_2664/20200701/it/xml/fedlex-data-admin-ch-eli-cc-1976-2664_2664_2664-20200701-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/2664_2664_2664/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2664_2664_2664/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1976-2664_2664_2664-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/2664_2664_2664/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1976/2664_2664_2664/20200701/it"
 
 (OMAI)[^t-2][^t-1]
 
-del 29 novembre 1976 (Stato 1° luglio 2020)
+del 29 novembre 1976 (Stato 1° gennaio 2024)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 21 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4521](https://fedlex.data.admin.ch/eli/oc/2013/799)).
 [^t-2]: Nuova abbreviazione giusta l’art. 8 dell’O del DFI del 28 ago. 1978 sulla consegna di mezzi ausiliari da parte dell’assicurazione per la vecchiaia, in vigore dal 1° gen. 1979 ([RU 1978 1387](https://fedlex.data.admin.ch/eli/oc/1978/1387_1387_1387)).
@@ -56,12 +56,12 @@ ordina: [^ingress-2]
 
 <sup>4</sup> L’assicurato ha diritto soltanto a mezzi ausiliari di tipo semplice, adeguato ed economico. Se desidera un modello più sofisticato, la differenza è a suo carico. Se nell’elenco in allegato non è menzionato alcuno degli strumenti previsti dall’articolo 21<sup>quater</sup> LAI[^2-2], sono rimborsate le spese effettive.[^2-3]
 
-<sup>5</sup> Se un assicurato ha diritto a un mezzo ausiliario figurante nell’elenco allegato ma si accontenta di un altro mezzo più economico, che ha la stessa funzione, quest’ultimo dev’essergli consegnato anche se non è menzionato nell’elenco.[^2-4]
+<sup>5</sup> ...[^2-4]
 
 [^2-1]: Nuovo testo giusta il n. I dell’O del DFI del 21 set. 1982, in vigore dal 1° gen. 1983 ([RU 1982 1931](https://fedlex.data.admin.ch/eli/oc/1982/1931_1931_1931)).
 [^2-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 [^2-3]: Nuovo testo giusta il n. I dell’O del DFI del 28 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6849](https://fedlex.data.admin.ch/eli/oc/2012/827)).
-[^2-4]: Introdotto dal n. I dell’O del DFI del 24 nov. 1988 ([RU 1988 2236](https://fedlex.data.admin.ch/eli/oc/1988/2236_2236_2236)). Nuovo testo giusta il n. I dell’O del DFI del 22 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6039](https://fedlex.data.admin.ch/eli/oc/2007/801)).
+[^2-4]: Introdotto dal n. I dell’O del DFI del 24 nov. 1988 ([RU 1988 2236](https://fedlex.data.admin.ch/eli/oc/1988/2236_2236_2236)). Abrogato dal n. I dell’O del DFI del 14 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 677](https://fedlex.data.admin.ch/eli/oc/2023/677)).
 
 #### Art. 3
 
@@ -131,11 +131,15 @@ I mezzi ausiliari consegnati in prestito cui l’assicurato non ha più diritto 
 
 <sup>2</sup> In assenza di un terzo responsabile, l’assicurazione assume le spese di riparazioni, adeguamenti o sostituzioni parziali divenuti necessari nonostante l’utilizzazione ineccepibile del mezzo ausiliario. All’assicurato può essere richiesta una partecipazione alle spese. L’importo della partecipazione è fissato nell’allegato.
 
+<sup>2bis</sup> Se le spese per un mezzo ausiliario più caro rispetto a quello menzionato nell’elenco sono assunte secondo l’articolo 21<sup>bis</sup> capoverso 2 LAI[^7-2], le spese di riparazione sono assunte nella stessa misura percentuale.[^7-3]
+
 <sup>3</sup> Ove non altrimenti disposto dall’allegato, per le spese d’uso e di manutenzione dei mezzi ausiliari l’assicurazione eroga un sussidio annuo corrispondente alle spese effettive fino a un massimo di 485 franchi. Le spese d’uso e di manutenzione dei veicoli a motore non sono assunte dall’assicurazione.
 
 <sup>4</sup> Per le spese di mantenimento di cani da guida per ciechi l’assicurazione assegna un sussidio mensile. L’importo del sussidio è fissato nell’allegato.
 
 [^7-1]: Nuovo testo giusta il n. I dell’O del DFI del 22 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6039](https://fedlex.data.admin.ch/eli/oc/2007/801)).
+[^7-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^7-3]: Introdotto dal n. I dell’O del DFI del 14 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 677](https://fedlex.data.admin.ch/eli/oc/2023/677)).
 
 ## Sezione 3: Le prestazioni sostitutive
 
@@ -161,10 +165,11 @@ I mezzi ausiliari consegnati in prestito cui l’assicurato non ha più diritto 
 - b. esercitare un’attività lucrativa;
 - c. acquisire particolari attitudini che permettono di mantenere i contatti con il proprio ambiente.[^9-1]
 
-<sup>2</sup> Il rimborso mensile non può superare né l’importo del reddito mensile dell’attività lucrativa svolta dell’assicurato, né quello pari a una volta e mezzo l’importo minimo della rendita ordinaria di vecchiaia.[^9-2]
+<sup>2</sup> Il rimborso annuo non può superare né l’importo del reddito annuo dell’attività lucrativa svolta dall’assicurato, né quello pari a una volta e mezzo l’importo minimo annuo della rendita completa di cui all’articolo 34 della legge federale del 20 dicembre 1946[^9-2] su l’assicurazione per la vecchiaia e per i superstiti (LAVS).[^9-3]
 
 [^9-1]: Nuovo testo giusta il n. I dell’O del DFI del 13 nov. 1985, in vigore dal 1° gen. 1986 ([RU 1985 2010](https://fedlex.data.admin.ch/eli/oc/1985/2010_2010_2010)).
-[^9-2]: Nuovo testo giusta il n. I dell’O del DFI del 6 nov. 1998, in vigore dal 1° gen. 1999 ([RU 1998 3024](https://fedlex.data.admin.ch/eli/oc/1998/3024_3024_3024)).
+[^9-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^9-3]: Nuovo testo giusta il n. I dell’O del DFI del 14 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 677](https://fedlex.data.admin.ch/eli/oc/2023/677)).
 
 ## Sezione 4: Disposizione finale
 
@@ -200,11 +205,21 @@ Per le richieste di protesizzazione con apparecchi acustici inoltrate prima dell
 
 <sup>2</sup> In caso di sostituzione o di riparazione degli apparecchi accordati, le spese sono assunte dall’assicurazione conformemente all’articolo 7 capoverso 2, anche dopo l’entrata in vigore della modifica del 28 novembre 2012.
 
+## Disposizioni transitorie della modifica del 14 novembre 2023
+
+[^u4-1]
+
+[^u4-1]: [RU 2023 677](https://fedlex.data.admin.ch/eli/oc/2023/677)
+
+<sup>1</sup> I sussidi di ammortamento per i ciclomotori, i motocicli leggeri e i motocicli acquistati prima dell’entrata in vigore della modifica del 14 novembre 2023 sono versati secondo il diritto anteriore.
+
+<sup>2</sup> Alle richieste di assunzione delle spese per un cane d’assistenza alla mobilità, un cane d’allerta per epilettici o un cane d’accompagnamento per autistici utilizzato definitivamente quale cane d’accompagnamento dall’assicurato già prima dell’entrata in vigore della modifica del 14 novembre 2023 è applicabile il diritto anteriore.
+
 Allegato[^t-3]
 
 ## Lista dei mezzi ausiliari
 
-[^t-3]: Aggiornato dai n. I delle O del DFI del 21 set. 1982 ([RU 1982 1931](https://fedlex.data.admin.ch/eli/oc/1982/1931_1931_1931)), del 2 ago. 1983 ([RU 1983 1165](https://fedlex.data.admin.ch/eli/oc/1983/1165_1165_1165)), del 13 nov. 1985 ([RU 1985 2010](https://fedlex.data.admin.ch/eli/oc/1985/2010_2010_2010)), del 24 nov. 1988 ([RU 1988 2236](https://fedlex.data.admin.ch/eli/oc/1988/2236_2236_2236)), del 9 ott. 1992 ([RU 1992 2406](https://fedlex.data.admin.ch/eli/oc/1992/2406_2406_2406)), dell’8 gen. 1996 ([RU 1996 768](https://fedlex.data.admin.ch/eli/oc/1996/768_768_768)), dal n. II dell’O del DFI del 19 dic. 1996 ([RU 1997 563](https://fedlex.data.admin.ch/eli/oc/1997/563_563_563)), dai n. I delle O del DFI del 16 dic. 1999 ([RU 2000 616](https://fedlex.data.admin.ch/eli/oc/2000/105)), del 18 dic. 2000 ([RU 2000 3085](https://fedlex.data.admin.ch/eli/oc/2000/558)), del 17 nov. 2003 ([RU 2003 4069](https://fedlex.data.admin.ch/eli/oc/2003/600)), dal n. II dell’O del DFI del 22 nov. 2007 ([RU 2007 6039](https://fedlex.data.admin.ch/eli/oc/2007/801)), dai n. I delle O del DFI del 24 nov. 2009 ([RU 2009 6555](https://fedlex.data.admin.ch/eli/oc/2009/805)), del 17 mar. 2010 ([RU 2010 1053](https://fedlex.data.admin.ch/eli/oc/2010/160)), del 25 mag. 2011 ([RU 2011 2665](https://fedlex.data.admin.ch/eli/oc/2011/369)), dai n. II delle O del DFI del 28 nov. 2012 ([RU 2012 6849](https://fedlex.data.admin.ch/eli/oc/2012/827)), del 21 nov. 2013 ([RU 2013 4521](https://fedlex.data.admin.ch/eli/oc/2013/799)), dal n. I delle O del DFI del 18 nov. 2015 ([RU 2015 4983](https://fedlex.data.admin.ch/eli/oc/2015/814)), del 22 nov. 2016 ([RU 2016 4343](https://fedlex.data.admin.ch/eli/oc/2016/720)) e del 24 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1773](https://fedlex.data.admin.ch/eli/oc/2020/350)).
+[^t-3]: Aggiornato dal n. I delle O del DFI del 21 set. 1982 ([RU 1982 1931](https://fedlex.data.admin.ch/eli/oc/1982/1931_1931_1931)), del 2 ago. 1983 ([RU 1983 1165](https://fedlex.data.admin.ch/eli/oc/1983/1165_1165_1165)), del 13 nov. 1985 ([RU 1985 2010](https://fedlex.data.admin.ch/eli/oc/1985/2010_2010_2010)), del 24 nov. 1988 ([RU 1988 2236](https://fedlex.data.admin.ch/eli/oc/1988/2236_2236_2236)), del 9 ott. 1992 ([RU 1992 2406](https://fedlex.data.admin.ch/eli/oc/1992/2406_2406_2406)), dell’8 gen. 1996 ([RU 1996 768](https://fedlex.data.admin.ch/eli/oc/1996/768_768_768)), dal n. II dell’O del DFI del 19 dic. 1996 ([RU 1997 563](https://fedlex.data.admin.ch/eli/oc/1997/563_563_563)), dal n. I delle O del DFI del 16 dic. 1999 ([RU 2000 616](https://fedlex.data.admin.ch/eli/oc/2000/105)), del 18 dic. 2000 ([RU 2000 3085](https://fedlex.data.admin.ch/eli/oc/2000/558)), del 17 nov. 2003 ([RU 2003 4069](https://fedlex.data.admin.ch/eli/oc/2003/600)), dal n. II dell’O del DFI del 22 nov. 2007 ([RU 2007 6039](https://fedlex.data.admin.ch/eli/oc/2007/801)), dal n. I delle O del DFI del 24 nov. 2009 ([RU 2009 6555](https://fedlex.data.admin.ch/eli/oc/2009/805)), del 17 mar. 2010 ([RU 2010 1053](https://fedlex.data.admin.ch/eli/oc/2010/160)), del 25 mag. 2011 ([RU 2011 2665](https://fedlex.data.admin.ch/eli/oc/2011/369)), dal n. II delle O del DFI del 28 nov. 2012 ([RU 2012 6849](https://fedlex.data.admin.ch/eli/oc/2012/827)), del 21 nov. 2013 ([RU 2013 4521](https://fedlex.data.admin.ch/eli/oc/2013/799)), dal n. I delle O del DFI del 18 nov. 2015 ([RU 2015 4983](https://fedlex.data.admin.ch/eli/oc/2015/814)), del 22 nov. 2016 ([RU 2016 4343](https://fedlex.data.admin.ch/eli/oc/2016/720)), del 24 apr. 2020 ([RU 2020 1773](https://fedlex.data.admin.ch/eli/oc/2020/350)) e dal n. II dell’O del 14 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 677](https://fedlex.data.admin.ch/eli/oc/2023/677)).
 
 ### 1 Protesi
 
@@ -285,8 +300,8 @@ Rimborso secondo la convenzione tariffale conclusa con la Federazione delle asso
 
 <table>
 <tr><td></td><td>forniti ad assicurati esercitanti, per una durata presumibilmente lunga, un’attività lucrativa sufficiente per il loro sostentamento a condizione che ne necessitino per recarsi al lavoro.</td></tr>
-<tr><td>10.01\*</td><td>Ciclomotori a due, tre o quattro ruote il sussidio di ammortamento annuo ammonta a 480 franchi per i ciclomotori a due ruote e a 2500 franchi per quelli a tre o a quattro ruote.</td></tr>
-<tr><td>10.02\*</td><td>Motocicli leggeri e motocicli il sussidio di ammortamento annuo ammonta a 750 franchi.</td></tr>
+<tr><td>10.01\*</td><td>…</td></tr>
+<tr><td>10.02\*</td><td>…</td></tr>
 <tr><td>10.03\*</td><td>…</td></tr>
 <tr><td>10.04\*</td><td>Automobili il sussidio di ammortamento annuo ammonta a 3000 franchi. Il sussidio per una porta di garage automatica è di 1500 franchi.</td></tr>
 <tr><td>10.05</td><td>Modifiche di veicoli a motore rese necessarie dall’invalidità.</td></tr>
@@ -298,6 +313,9 @@ Rimborso secondo la convenzione tariffale conclusa con la Federazione delle asso
 <tr><td>11.01</td><td>Bastoni bianchi e navigatori per pedoni</td></tr>
 <tr><td>11.02</td><td>Cani da guida per ciechi Se è comprovato che l’assicurato sa occuparsi di un cane da guida e grazie a quest’ultimo può spostarsi da solo fuori di casa sua. L’assicurazione assume le spese secondo la convenzione tariffale con le scuole di addestramento di cani da guida. Il sussidio mensile per le spese per il cibo ammonta a 80 franchi, quello per le spese veterinarie a 30 franchi. Se le spese annue per il veterinario superano i 360 franchi, la differenza è rimborsata soltanto dietro presentazione dei documenti giustificativi.</td></tr>
 <tr><td>11.03</td><td>…</td></tr>
+</table>
+
+<table>
 <tr><td>11.04</td><td>Apparecchi per la riproduzione di supporti sonori destinati ai ciechi e alle persone fortemente menomate alla vista per riprodurre testi registrati su nastro magnetico. L’importo massimo è di 200 franchi (IVA inclusa).</td></tr>
 <tr><td>11.05\*</td><td>Apparecchi per la riproduzione di supporti sonori destinati ai ciechi e alle persone fortemente menomate alla vista se l’invalidità rende necessari tali apparecchi per svolgere un’attività lucrativa o per compiere le mansioni consuete.</td></tr>
 <tr><td>11.06</td><td>Sistemi di lettura e scrittura per ciechi o persone fortemente menomate alla vista che possono leggere solo con un tale sistema o cui un tale sistema facilita notevolmente il contatto con l’ambiente e dispongono delle capacità intellettuali necessarie al suo uso. Le spese di apprendimento della dattilografia sono a carico dell’assicurato. Consegna in prestito.</td></tr>
@@ -326,11 +344,16 @@ Rimborso secondo la convenzione tariffale conclusa con la Federazione delle asso
 <table>
 <tr><td>14.01</td><td>Installazioni di WC-doccia e WC-essiccazione come pure complementi alle installazioni sanitarie esistenti se gli assicurati non sono altrimenti in grado di attendere da soli all’igiene del corpo. Consegna in prestito.</td></tr>
 <tr><td>14.02</td><td>Elevatori per malati per l’uso a domicilio. Consegna in prestito.</td></tr>
-<tr><td>14.03</td><td>Letti azionati elettricamente (con staffa ma senza materasso e altri accessori) per l’uso nell’ambito privato. Consegna in prestito. Non hanno diritto a questa prestazione gli assicurati durevolmente degenti. Vengono rimborsate le spese d’acquisto di un letto fino a un importo massimo di 2500 franchi (IVA inclusa). L’importo massimo per le spese di fornitura del letto azionato elettricamente è di 250 franchi (IVA inclusa).</td></tr>
+<tr><td>14.03</td><td>*Letti azionati elettricamente (con staffa ma senza materasso* *e altri accessori)* per l’uso nell’ambito privato. Per gli assicurati che devono ricorrere a questo mezzo per coricarsi e per alzarsi. Consegna in prestito. Non hanno diritto a questa prestazione gli assicurati durevolmente degenti. Vengono rimborsate le spese d’acquisto di un letto fino a un importo massimo di 2500 franchi (IVA inclusa). L’importo massimo per le spese di fornitura del letto azionato elettricamente è di 250 franchi (IVA inclusa).</td></tr>
 <tr><td>14.04</td><td>Modifiche architettoniche nell’abitazione dell’assicurato rese necessarie dall’invalidità. Adeguamento della sala da bagno, della doccia e del WC, spostamento o soppressione di pareti divisorie, ampliamento o cambiamento di porte dell’abitazione o dello stabile, installazione di sbarre d’appoggio, di corrimano, di maniglie supplementari e di apriporta per le porte dell’abitazione o dello stabile, soppressione di soglie o costruzione di rampe di soglie, installazione di impianti segnaletici per sordi e persone affette da ipoacusia grave e per sordomuti. L’importo massimo per gli impianti segnaletici è di 1300 franchi (IVA inclusa).</td></tr>
 <tr><td>14.05</td><td>Piattaforme elevatrici, elevatori per scale e rampe, rimozione o modifica di elementi architettonici all’interno dell’abitazione e attorno ad essa e sul luogo di lavoro o di formazione scolastica o professionale per gli assicurati che senza questi apparecchi non possono lasciare il luogo in questione. Il diritto non sussiste in caso di soggiorno in istituto. Consegna di piattaforme elevatrici, elevatori per scale e rampe in prestito.</td></tr>
-<tr><td>14.06</td><td>Cani d’accompagnamento per disabili motori se è comprovato che l’assicurato sa occuparsi di un cane d’accompagnamento e grazie a quest’ultimo può vivere a casa sua in modo più autonomo. Vi hanno diritto soltanto gli adulti disabili motori che ricevono un assegno per grandi invalidi almeno di grado lieve, con bisogno di aiuto comprovato in almeno due delle categorie seguenti: spostarsi/intrattenere contatti sociali; alzarsi/sedersi/sdraiarsi; vestirsi/svestirsi. Al momento della consegna del cane d’accompagnamento da parte di un organo certificato dall’organizzazione Assistance Dogs International (ADI) l’assicurazione versa un sussidio forfettario di 15 500 franchi, suddiviso nel modo seguente: 12 500 franchi per l’acquisto del cane d’accompagnamento e 3000 franchi per le spese per il cibo e il veterinario. La prestazione dell’assicurazione può essere richiesta al massimo ogni otto anni, ma una sola volta per lo stesso cane.</td></tr>
+<tr><td>14.06 14.06.1</td><td colspan="2">*Cani d’accompagnamento* *Cani d’assistenza alla mobilità per disabili motori a partire dai 16 anni* se è comprovato che l’assicurato sa occuparsi di un cane d’accompagnamento e grazie a quest’ultimo può vivere a casa sua in modo più autonomo. Vi hanno diritto soltanto i disabili motori che ricevono un assegno per grandi invalidi almeno di grado lieve, con bisogno di aiuto comprovato in almeno due delle categorie seguenti: spostarsi/intrattenere contatti sociali; alzarsi/sedersi/sdraiarsi; vestirsi/svestirsi. Il centro di consegna del cane d’assistenza alla mobilità deve essere certificato dall’organizzazione Assistance Dogs International (ADI). Al momento della consegna del cane d’assistenza alla mobilità l’assicurazione versa un sussidio forfettario di 20 280 franchi. L’importo è suddiviso nel modo seguente: 15 000 franchi per l’acquisto del cane d’assistenza alla mobilità e 5280 franchi per le spese per il cibo e il veterinario. La prestazione dell’assicurazione può essere richiesta al massimo ogni otto anni, ma una sola volta per lo stesso cane.</td></tr>
+<tr><td>14.06.2</td><td>*Cani d’allerta per epilettici per bambini a partire dai quattro anni e per adulti* se il centro di consegna attesta che l’assicurato o il detentore dell’autorità parentale sa occuparsi di un cane d’allerta. Il diritto sussiste soltanto se l’epilessia è diagnosticata da un medico specialista. Inoltre, grazie al cane gli adulti devono essere in grado di raggiungere un obiettivo d’integrazione secondo l’articolo 21 capoversi 1 e 2 LAI[^annexu1-lvlu1-lvl14-1]. Il centro di consegna del cane d’allerta per epilettici deve essere certificato dall’organizzazione Assistance Dogs International (ADI). L’assicurazione versa un sussidio forfettario di 14 280 franchi. L’importo è suddiviso nel modo seguente: 9000 franchi per l’acquisto del cane d’allerta e 5280 franchi per le spese per il cibo e il veterinario. La prestazione dell’assicurazione può essere richiesta al massimo ogni otto anni, ma una sola volta per lo stesso cane.</td></tr>
+<tr><td>14.06.3</td><td>*Cani d’accompagnamento per bambini autistici tra i quattro e i nove anni* se il centro di consegna attesta che l’assicurato o il detentore dell’autorità parentale sa occuparsi di un cane. Il diritto sussiste soltanto in presenza di un disturbo dello spettro dell’autismo ai sensi del numero 405 dell’ordinanza del DFI del 3 novembre 2021[^annexu1-lvlu1-lvl14-2] sulle infermità congenite senza controindicazioni mediche alla detenzione di un cane e se l’utilizzo del cane serve per imparare a spostarsi in modo sicuro nello spazio pubblico. Il centro di consegna del cane d’accompagnamento per bambini autistici deve essere certificato dall’organizzazione Assistance Dogs International (ADI). L’assicurazione versa un sussidio forfettario di 20 280 franchi. L’importo è suddiviso nel modo seguente: 15 000 franchi per l’acquisto del cane d’accompagnamento e 5280 franchi per le spese per il cibo e il veterinario. La prestazione può essere richiesta una sola volta.</td></tr>
 </table>
+
+[^annexu1-lvlu1-lvl14-1]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^annexu1-lvlu1-lvl14-2]: [RS 831.232.211](https://fedlex.data.admin.ch/eli/cc/2021/708)
 
 ### 15 Mezzi ausiliari per stabilire contatti con l’ambiente
 

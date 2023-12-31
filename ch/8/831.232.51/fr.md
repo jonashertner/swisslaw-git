@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 29 novembre 1976 concernant la remise de moyens aux
 short: OMAI
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/2664_2664_2664"
 language: fr
-version: 2020-07-01
+version: 2024-01-01
 adopted: 1976-11-29
 in_force: 1977-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2664_2664_2664/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-1976-2664_2664_2664-20200701-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/2664_2664_2664/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2664_2664_2664/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1976-2664_2664_2664-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/2664_2664_2664/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1976/2664_2664_2664/20200701/fr"
 
 (OMAI[^t-2])[^t-1]
 
-du 29 novembre 1976 (État le 1<sup>er</sup> juillet 2020)
+du 29 novembre 1976 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 21 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4521](https://fedlex.data.admin.ch/eli/oc/2013/799)).
 [^t-2]: Nouvelle abréviation selon l’art. 8 de l’O du DFI du 28 août 1978 concernant la remise de moyens auxiliaires par l’assurance-vieillesse, en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 1387](https://fedlex.data.admin.ch/eli/oc/1978/1387_1387_1387)).
@@ -56,12 +56,12 @@ arrête:
 
 <sup>4</sup> L’assuré n’a droit qu’à des moyens auxiliaires d’un modèle simple, adéquat et économique. Il supporte les frais supplémentaires d’un autre modèle. Lorsque la liste en annexe ne mentionne aucun des instruments prévus à l’art. 21<sup>quater</sup> LAI[^2-2] pour la remise d’un moyen auxiliaire, les frais effectifs sont remboursés.[^2-3]
 
-<sup>5</sup> Lorsqu’un assuré a droit à la remise d’un moyen auxiliaire figurant dans la liste en annexe mais qu’il se contente d’un autre moyen moins onéreux remplissant les mêmes fonctions, ce dernier doit lui être remis même s’il ne figure pas dans la liste.[^2-4]
+<sup>5</sup> ...[^2-4]
 
 [^2-1]: Nouvelle teneur selon le ch. I de I’O du DFI du 21 sept. 1982, en vigueur depuis le 1<sup>er</sup> janv. 1983 ([RO 1982 1931](https://fedlex.data.admin.ch/eli/oc/1982/1931_1931_1931)).
 [^2-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 [^2-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 28 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6849](https://fedlex.data.admin.ch/eli/oc/2012/827)).
-[^2-4]: Introduit par le ch. I de l’O du DFI du 24 nov. 1988, en vigueur depuis le 1<sup>er</sup> janv. 1989 ([RO 1988 2236](https://fedlex.data.admin.ch/eli/oc/1988/2236_2236_2236)).
+[^2-4]: Introduit par le ch. I de l’O du DFI du 24 nov. 1988 ([RO 1988 2236](https://fedlex.data.admin.ch/eli/oc/1988/2236_2236_2236)). Abrogé par le ch. I de l’O du DFI du 14 nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 677](https://fedlex.data.admin.ch/eli/oc/2023/677)).
 
 #### Art. 3
 
@@ -134,11 +134,15 @@ Les moyens auxiliaires remis en prêt auxquels l’assuré n’a plus droit et q
 
 <sup>2</sup> L’assurance assume, à défaut d’un tiers responsable, les frais de réparation, d’adaptation ou de remplacement partiel nécessaires en dépit de l’usage soigneux du moyen auxiliaire. L’assuré peut être tenu de participer aux frais. Le montant de la participation est fixé en annexe.
 
+<sup>2bis</sup> Si les coûts d’un moyen auxiliaire plus coûteux que celui figurant dans la liste sont pris en charge en vertu de l’art. 21<sup>bis</sup>, al. 2, LAI[^7-2], les frais de réparation sont pris en charge dans les mêmes proportions.[^7-3]
+
 <sup>3</sup> L’assurance accorde une contribution annuelle équivalente aux frais effectifs mais de 485 francs au plus aux frais d’entretien et d’utilisation des moyens auxiliaires, à moins que l’annexe ne fixe un autre montant. Elle ne prend pas en charge les frais d’entretien et d’utilisation des véhicules à moteur.
 
 <sup>4</sup> Elle contribue aux frais d’entretien d’un chien-guide pour aveugle par une prestation mensuelle. Le montant de celle-ci est fixé dans l’annexe.
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 22 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6039](https://fedlex.data.admin.ch/eli/oc/2007/801)).
+[^7-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^7-3]: Introduit par le ch. I de l’O du DFI du 14 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 677](https://fedlex.data.admin.ch/eli/oc/2023/677)).
 
 ## Section 3 Prestations de remplacement
 
@@ -166,10 +170,11 @@ L’assuré a droit au remboursement des frais liés à l’invalidité, qui son
 - b. exercer une activité lucrative, ou
 - c. acquérir des aptitudes particulières qui permettent de maintenir des contacts avec l’entourage.[^9-1]
 
-<sup>2</sup> Le remboursement mensuel ne doit dépasser ni le revenu mensuel de l’activité lucrative de l’assuré ni une fois et demie le montant minimal de la rente ordinaire de vieillesse.[^9-2]
+<sup>2</sup> Le remboursement annuel ne peut dépasser ni le revenu annuel de l’activité lucrative de l’assuré ni une fois et demie le montant minimal annuel de la rente de vieillesse complète au sens de l’art. 34 de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^9-2].[^9-3]
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 13 nov. 1985, en vigueur depuis le 1<sup>er</sup> janv. 1986 ([RO 1985 2010](https://fedlex.data.admin.ch/eli/oc/1985/2010_2010_2010)).
-[^9-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 6 nov. 1998, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1998 3024](https://fedlex.data.admin.ch/eli/oc/1998/3024_3024_3024)).
+[^9-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^9-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 14 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 677](https://fedlex.data.admin.ch/eli/oc/2023/677)).
 
 ## Section 4 Disposition finale
 
@@ -205,11 +210,21 @@ La modification du 25 mai 2011 est applicable aux demandes en vue d’un apparei
 
 <sup>2</sup> Si les appareils accordés doivent être réparés ou remplacés, l’assurance en assume les frais conformément à l’art. 7, al. 2, même après l’entrée en vigueur de la modification du 28 novembre 2012.
 
+## Dispositions transitoires de la modification du 14 novembre 2023
+
+[^u4-1]
+
+[^u4-1]: [RO 2023 677](https://fedlex.data.admin.ch/eli/oc/2023/677)
+
+<sup>1</sup> Les indemnités d*’*amortissement allouées pour les cyclomoteurs, les motocycles légers et les motocycles acquis avant l*’*entrée en vigueur de la modification du 14 novembre 2023 sont versées conformément à l*’*ancien droit
+
+<sup>2</sup> Les demandes de prise en charge des coûts d*’*un chien d*’*assistance à la mobilité, d*’*un chien d*’*alerte pour personnes épileptiques ou d*’*un chien d*’*accompagnement pour autistes déjà attribué définitivement comme chien d*’*assistance à la personne assurée avant l*’*entrée en vigueur de la modification du 14 novembre 2023 sont soumises à l*’*ancien droit.
+
 Annexe[^t-3]
 
 ## Liste des moyens auxiliaires
 
-[^t-3]: Mise à jour selon le ch. I des O du DFI du 21 sept. 1982 ([RO 1982 1931](https://fedlex.data.admin.ch/eli/oc/1982/1931_1931_1931)), du 2 août 1983 ([RO 1983 1165](https://fedlex.data.admin.ch/eli/oc/1983/1165_1165_1165)), du 13 nov. 1985 ([RO 1985 2010](https://fedlex.data.admin.ch/eli/oc/1985/2010_2010_2010)), du 24 nov. 1988 ([RO 1988 2236](https://fedlex.data.admin.ch/eli/oc/1988/2236_2236_2236)), du 9 oct. 1992 ([RO 1992 2406](https://fedlex.data.admin.ch/eli/oc/1992/2406_2406_2406)), du 8 janv. 1996 ([RO 1996 768](https://fedlex.data.admin.ch/eli/oc/1996/768_768_768)), le ch. II de l’O du DFI du 19 déc. 1996 ([RO 1997 563](https://fedlex.data.admin.ch/eli/oc/1997/563_563_563)), le ch. I des O du DFI du 16 déc. 1999 ([RO 2000 616](https://fedlex.data.admin.ch/eli/oc/2000/105)), du 18 déc. 2000 ([RO 2000 3085](https://fedlex.data.admin.ch/eli/oc/2000/558)), du 17 nov. 2003 ([RO 2003 4069](https://fedlex.data.admin.ch/eli/oc/2003/600)), le ch. II de l’O du DFI du 22 nov. 2007 ([RO 2007 6039](https://fedlex.data.admin.ch/eli/oc/2007/801)), le ch. I des O du DFI du 24 nov. 2009 ([RO 2009 6555](https://fedlex.data.admin.ch/eli/oc/2009/805)), du 17 mars 2010 ([RO 2010 1053](https://fedlex.data.admin.ch/eli/oc/2010/160)), du 25 mai 2011 ([RO 2011 2665](https://fedlex.data.admin.ch/eli/oc/2011/369)), le ch. II des O du DFI du 28 nov. 2012 ([RO 2012 6849](https://fedlex.data.admin.ch/eli/oc/2012/827)), du 21 nov. 2013 ([RO 2013 4521](https://fedlex.data.admin.ch/eli/oc/2013/799)), le ch. I des O du DFI du 18 nov. 2015 ([RO 2015 4983](https://fedlex.data.admin.ch/eli/oc/2015/814)), du 22 nov. 2016 ([RO 2016 4343](https://fedlex.data.admin.ch/eli/oc/2016/720)) et du 24 avr. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1773](https://fedlex.data.admin.ch/eli/oc/2020/350)).
+[^t-3]: Mise à jour selon le ch. I des O du DFI du 21 sept. 1982 ([RO 1982 1931](https://fedlex.data.admin.ch/eli/oc/1982/1931_1931_1931)), du 2 août 1983 ([RO 1983 1165](https://fedlex.data.admin.ch/eli/oc/1983/1165_1165_1165)), du 13 nov. 1985 ([RO 1985 2010](https://fedlex.data.admin.ch/eli/oc/1985/2010_2010_2010)), du 24 nov. 1988 ([RO 1988 2236](https://fedlex.data.admin.ch/eli/oc/1988/2236_2236_2236)), du 9 oct. 1992 ([RO 1992 2406](https://fedlex.data.admin.ch/eli/oc/1992/2406_2406_2406)), du 8 janv. 1996 ([RO 1996 768](https://fedlex.data.admin.ch/eli/oc/1996/768_768_768)), le ch. II de l’O du DFI du 19 déc. 1996 ([RO 1997 563](https://fedlex.data.admin.ch/eli/oc/1997/563_563_563)), le ch. I des O du DFI du 16 déc. 1999 ([RO 2000 616](https://fedlex.data.admin.ch/eli/oc/2000/105)), du 18 déc. 2000 ([RO 2000 3085](https://fedlex.data.admin.ch/eli/oc/2000/558)), du 17 nov. 2003 ([RO 2003 4069](https://fedlex.data.admin.ch/eli/oc/2003/600)), le ch. II de l’O du DFI du 22 nov. 2007 ([RO 2007 6039](https://fedlex.data.admin.ch/eli/oc/2007/801)), le ch. I des O du DFI du 24 nov. 2009 ([RO 2009 6555](https://fedlex.data.admin.ch/eli/oc/2009/805)), du 17 mars 2010 ([RO 2010 1053](https://fedlex.data.admin.ch/eli/oc/2010/160)), du 25 mai 2011 ([RO 2011 2665](https://fedlex.data.admin.ch/eli/oc/2011/369)), le ch. II des O du DFI du 28 nov. 2012 ([RO 2012 6849](https://fedlex.data.admin.ch/eli/oc/2012/827)), du 21 nov. 2013 ([RO 2013 4521](https://fedlex.data.admin.ch/eli/oc/2013/799)), le ch. I des O du DFI du 18 nov. 2015 ([RO 2015 4983](https://fedlex.data.admin.ch/eli/oc/2015/814)), du 22 nov. 2016 ([RO 2016 4343](https://fedlex.data.admin.ch/eli/oc/2016/720)), du 24 avr. 2020 ([RO 2020 1773](https://fedlex.data.admin.ch/eli/oc/2020/350)) et le ch II de l’O du DFI du 14 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 677](https://fedlex.data.admin.ch/eli/oc/2023/677)).
 
 ### 1 Prothèses
 
@@ -288,8 +303,8 @@ Remboursement selon convention tarifaire avec la Fédération des associations s
 
 <table>
 <tr><td></td><td>destinés aux assurés qui, exerçant d’une manière probablement durable une activité leur permettant de couvrir leurs besoins, ne peuvent se passer d’un véhicule à moteur personnel pour se rendre à leur travail.</td></tr>
-<tr><td>10.01\*</td><td>Cyclomoteurs à deux, trois ou quatre roues: l’indemnité d’amortissement annuelle s’élève à 480 francs pour les cyclomoteurs à deux roues et à 2500 francs pour les cyclomoteurs à trois ou quatre roues.</td></tr>
-<tr><td>10.02\*</td><td>Motocycles légers et motocycles: l’indemnité d’amortissement annuelle s’élève à 750 francs.</td></tr>
+<tr><td>10.01\*</td><td>…</td></tr>
+<tr><td>10.02\*</td><td>…</td></tr>
 <tr><td>10.03\*</td><td>…</td></tr>
 <tr><td>10.04\*</td><td>Voitures automobiles: l’indemnité d’amortissement annuelle s’élève à 3000 francs. La contribution versée pour une ouverture de porte de garage automatique se monte à 1500 francs.</td></tr>
 <tr><td>10.05</td><td>Transformations de véhicules à moteur nécessitées par l’invalidité</td></tr>
@@ -329,11 +344,16 @@ Remboursement selon convention tarifaire avec la Fédération des associations s
 <table>
 <tr><td>14.01</td><td>Installations de WC-douches et WC-séchoirs, ainsi que compléments aux installations sanitaires existantes, lorsque les assurés ne peuvent faire seuls leur toilette sans de telles installations. La remise a lieu sous forme de prêt.</td></tr>
 <tr><td>14.02</td><td>Élévateurs pour malades, pour l’utilisation au domicile privé. La remise a lieu sous forme de prêt.</td></tr>
-<tr><td>14.03</td><td>Lits électriques (avec potence mais sans matelas et sans autres accessoires) pour l’utilisation au domicile privé. La remise a lieu sous forme de prêt. Les assurés durablement grabataires sont exclus de ce droit. Le prix d’achat d’un lit est remboursé à concurrence du montant maximal de 2500 francs, TVA comprise. Le montant maximal remboursé pour les frais de livraison du lit électrique est de 250 francs, TVA comprise.</td></tr>
+<tr><td>14.03</td><td>Lits électriques (avec potence mais sans matelas et sans autres accessoires), pour l’utilisation au domicile privé des assurés qui en dépendent pour se coucher et se lever. La remise a lieu sous forme de prêt. Les assurés durablement grabataires sont exclus de ce droit. Le prix d’achat d’un lit est remboursé à concurrence du montant maximal de 2500 francs, TVA comprise. Le montant maximal remboursé pour les frais de livraison du lit électrique est de 250 francs, TVA comprise.</td></tr>
 <tr><td>14.04</td><td>Aménagements de la demeure de l’assuré nécessités par l’invalidité: adaptation de la salle de bain, de la douche et des WC à l’invalidité, déplacement ou suppression de cloisons, élargissement ou remplacement de portes de maison ou d’appartement, pose de barres d’appui, mains courantes, poignées supplémentaires et systèmes d’ouverture de portes de maison ou d’appartement, suppression de seuils ou construction de rampes de seuils, pose d’installations de signalisation pour les sourds et déficients auditifs graves et pour les sourds-aveugles. Le montant maximal remboursé pour la pose d’installations de signalisation est de 1300 francs, TVA comprise.</td></tr>
 <tr><td>14.05</td><td colspan="2">Remise de plates-formes élévatrices, de monte-rampes d’escalier et de rampes ainsi que suppression ou modification d’obstacles architecturaux à l’intérieur et aux abords des lieux d’habitation, de travail, de formation et de scolarisation: pour les assurés qui ne peuvent pas quitter le lieu où ils se trouvent sans un tel aménagement. Les personnes qui séjournent dans un home ne peuvent pas faire valoir ce droit. La remise de plates-formes élévatrices, de monte-rampes d’escalier et de rampes a lieu sous forme de prêt.</td></tr>
-<tr><td>14.06</td><td colspan="2">Chien d’assistance pour handicapés moteurs: s’il est établi que l’assuré saura s’occuper d’un chien d’assistance et que, grâce à celui-ci, il sera capable de vivre à domicile de manière plus autonome. Le droit est limité aux adultes présentant un handicap moteur grave, qui perçoivent au minimum une allocation pour impotent de degré faible et dont l’impotence est avérée dans au moins deux des domaines des actes de la vie suivants: se déplacer, entretenir des contacts sociaux; se lever, s’asseoir, se coucher; se vêtir, se dévêtir. L’assurance verse, au moment de la remise du chien d’assistance par un service certifié par l’organisation *Assistance Dogs International* (ADI) une contribution forfaitaire d’un montant de 15 500 francs, répartie de la manière suivante: 12 500 francs pour l’achat du chien et 3000 francs pour les frais de nourriture et de vétérinaire. La prestation de l’assurance peut être revendiquée au maximum tous les huit ans, mais une seule fois pour le même chien.</td></tr>
+<tr><td>14.06 14.06.1</td><td colspan="2">Chiens d’assistance Chien d’assistance à la mobilité pour handicapés moteurs dès 16 ans, s’il est établi que l’assuré est apte à détenir un chien d’assistance et que, grâce à celui-ci, il sera capable de vivre à domicile de manière plus autonome. Le droit est limité aux personnes présentant un handicap moteur grave, qui perçoivent au minimum une allocation pour impotent de degré faible et dont le besoin d’assistance est avéré dans au moins deux domaines des actes de la vie suivants: se déplacer, entretenir des contacts sociaux; se lever, s’asseoir, se coucher; se vêtir, se dévêtir. Le centre de remise du chien d’assistance à la mobilité doit être certifié par l’organisation Assistance Dogs International (ADI). L’assurance prend en charge une contribution forfaitaire de 20 280 francs au moment de la remise du chien d’assistance. Ce montant est réparti de la manière suivante: 15 000 francs pour l’achat du chien et 5280 francs pour les frais de nourriture et de vétérinaire. La prestation de l’assurance peut être revendiquée au maximum tous les huit ans, mais une seule fois pour le même chien.</td></tr>
+<tr><td>14.06.2</td><td colspan="2">Chiens d’alerte pour personnes épileptiques pour les enfants à partir de 4 ans et pour les adultes, s’il est établi par le centre de remise que l’assuré ou le détenteur de l’autorité parentale est apte à détenir un chien d’alerte. Le droit n’existe que si l’épilepsie est diagnostiquée par un médecin spécialiste. En outre, les adultes doivent pouvoir remplir, grâce au chien, un objectif de réadaptation au sens de l’art. 21, al. 1 et 2, LAI[^annexu1-lvlu1-lvl14-1]. Le centre de remise du chien d’alerte pour personnes épileptiques doit être certifié par l’organisation Assistance Dogs International (ADI). L’assurance prend en charge une contribution forfaitaire de 14 280 francs. Ce montant est réparti de la manière suivante: 9000 francs pour l’achat du chien et 5280 francs pour les frais de nourriture et de vétérinaire. La prestation de l’assurance peut être revendiquée au maximum tous les huit ans, mais une seule fois pour le même chien.</td></tr>
+<tr><td>14.06.3</td><td colspan="2">Chiens d’accompagnement pour enfants autistes entre 4 et 9 ans, s’il est établi par le centre de remise que l’assuré ou le détenteur de l’autorité parentale est apte à détenir un chien. Le droit n’existe que si un trouble du spectre de l’autisme au sens du chiffre 405 de l’ordonnance du DFI du 3 novembre 2021 concernant les infirmités congénitales[^annexu1-lvlu1-lvl14-2] sans contre-indication médicale à la détention d’un chien a été confirmé et si le chien permet d’apprendre à se déplacer en toute sécurité dans l’espace public. Le centre de remise du chien d’accompagnement pour les enfants autistes doit être certifié par l’organisation Assistance Dogs International (ADI). L’assurance prend en charge une contribution forfaitaire de 20 280 francs. Ce montant est réparti de la manière suivante: 15 000 francs pour l’achat du chien et 5280 francs pour les frais de nourriture et de vétérinaire. La prestation de l’assurance ne peut être revendiquée qu’une seule fois.</td></tr>
 </table>
+
+[^annexu1-lvlu1-lvl14-1]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^annexu1-lvlu1-lvl14-2]: [RS 831.232.211](https://fedlex.data.admin.ch/eli/cc/2021/708)
 
 ### 15 Moyens auxiliaires permettant à l’invalide d’établir des contacts avec son entourage
 

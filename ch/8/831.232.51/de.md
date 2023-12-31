@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 29. November 1976 über die Abgabe von Hilfsmittel
 short: HVI
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/2664_2664_2664"
 language: de
-version: 2020-07-01
+version: 2024-01-01
 adopted: 1976-11-29
 in_force: 1977-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2664_2664_2664/20200701/de/xml/fedlex-data-admin-ch-eli-cc-1976-2664_2664_2664-20200701-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/2664_2664_2664/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2664_2664_2664/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1976-2664_2664_2664-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/2664_2664_2664/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1976/2664_2664_2664/20200701/de"
 
 (HVI)[^t-2][^t-1]
 
-vom 29. November 1976 (Stand am 1. Juli 2020)
+vom 29. November 1976 (Stand am 1. Januar 2024)
 
 [^t-1]: Fassung gemäss Ziff. I der V des EDI vom 21. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4521](https://fedlex.data.admin.ch/eli/oc/2013/799)).
 [^t-2]: Abkürzung gemäss Art. 8 der V des EDI vom 28. Aug. 1978 über die Abgabe von Hilfsmitteln durch die Altersversicherung (HVA), in Kraft seit 1. Jan. 1979 ([AS 1978 1387](https://fedlex.data.admin.ch/eli/oc/1978/1387_1387_1387)).
@@ -56,12 +56,12 @@ verordnet:[^ingress-2]
 
 <sup>4</sup> Es besteht nur Anspruch auf Hilfsmittel in einfacher, zweckmässiger und wirtschaftlicher Ausführung. Durch eine andere Ausführung bedingte zusätzliche Kosten hat der Versicherte selbst zu tragen. Nennt die Liste im Anhang für ein Hilfsmittel keines der Instrumente, die in Artikel 21<sup>quater</sup> IVG[^2-2] vorgesehen sind, so werden die effektiven Kosten vergütet.[^2-3]
 
-<sup>5</sup> Begnügt sich ein Versicherter, der Anspruch auf ein in der Liste des Anhangs aufgeführtes Hilfsmittel hat, mit einem andern, kostengünstigeren Hilfsmittel, das dem gleichen Zwecke wie das ihm zustehende dient, so ist ihm dieses selbst dann abzugeben, wenn es in der Liste nicht aufgeführt ist.[^2-4]
+<sup>5</sup> …[^2-4]
 
 [^2-1]: Fassung gemäss Ziff. I der V des EDI vom 21. Sept. 1982, in Kraft seit 1. Jan. 1983 ([AS 1982 1931](https://fedlex.data.admin.ch/eli/oc/1982/1931_1931_1931)).
 [^2-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 [^2-3]: Fassung gemäss Ziff. I der V des EDI vom 28. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6849](https://fedlex.data.admin.ch/eli/oc/2012/827)).
-[^2-4]: Eingefügt durch Ziff. I der V des EDI vom 24. Nov. 1988, in Kraft seit 1. Jan. 1989 ([AS 1988 2236](https://fedlex.data.admin.ch/eli/oc/1988/2236_2236_2236)).
+[^2-4]: Eingefügt durch Ziff. I der V des EDI vom 24. Nov. 1988, in Kraft seit 1. Jan. 1989 ([AS 1988 2236](https://fedlex.data.admin.ch/eli/oc/1988/2236_2236_2236)). Aufgehoben durch Ziff. I der V des EDI vom 14. Nov. 2023, mit Wirkung seit 1. Jan. 2024 (AS **20****23** 677).
 
 #### Art. 3
 
@@ -134,11 +134,15 @@ Leihweise abgegebene Hilfsmittel, auf die kein Anspruch mehr besteht und die dem
 
 <sup>2</sup> Muss ein von der Versicherung abgegebenes Hilfsmittel trotz sorgfältigem Gebrauch repariert, angepasst oder teilweise erneuert werden, so übernimmt die Versicherung die Kosten, sofern nicht ein Dritter ersatzpflichtig ist. Von den Versicherten kann eine Kostenbeteiligung verlangt werden. Die Höhe der Kostenbeteiligung ist im Anhang festgelegt.
 
+<sup>2bis</sup> Werden für ein Hilfsmittel, das teurer ist als das Hilfsmittel in der Liste, nach Artikel 21<sup>bis</sup> Absatz 2 IVG[^7-2] die Kosten übernommen, so werden die Reparaturkosten im selben prozentualen Umfang übernommen.[^7-3]
+
 <sup>3</sup> An die Kosten für den Betrieb und den Unterhalt von Hilfsmitteln gewährt die Versicherung einen jährlichen Beitrag in der Höhe der effektiven Kosten, höchstens jedoch 485 Franken, sofern im Anhang nicht ein anderer Beitrag festgelegt wird. Betriebs- und Unterhaltskosten für Motorfahrzeuge werden von der Versicherung nicht übernommen.
 
 <sup>4</sup> An die Kosten für die Haltung eines Blindenführhundes gewährt die Versicherung einen monatlichen Beitrag. Dieser ist im Anhang festgelegt.
 
 [^7-1]: Fassung gemäss Ziff. I der V des EDI vom 22. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6039](https://fedlex.data.admin.ch/eli/oc/2007/801)).
+[^7-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^7-3]: Eingefügt durch Ziff. I der V des EDI vom 14. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 677](https://fedlex.data.admin.ch/eli/oc/2023/677)).
 
 ## 3. Abschnitt: Ersatzleistungen
 
@@ -164,10 +168,11 @@ Leihweise abgegebene Hilfsmittel, auf die kein Anspruch mehr besteht und die dem
 - b. den Beruf auszuüben oder
 - c. besondere Fähigkeiten zu erwerben, welche die Aufrechterhaltung des Kontakts mit der Umwelt ermöglichen.[^9-1]
 
-<sup>2</sup> Die monatliche Vergütung darf weder den Betrag des monatlichen Erwerbseinkommens der versicherten Person noch den anderthalbfachen Mindestbetrag der ordentlichen Altersrente übersteigen.[^9-2]
+<sup>2</sup> Die jährliche Vergütung darf weder den Betrag des jährlichen Erwerbseinkommens der versicherten Person noch den anderthalbfachen jährlichen Mindestbetrag der Vollrente nach Artikel 34 des Bundesgesetzes vom 20. Dezember 1946[^9-2] über die Alters- und Hinterlassenenversicherung (AHVG) übersteigen.[^9-3]
 
 [^9-1]: Fassung gemäss Ziff. I der V des EDI vom 13. Nov. 1985, in Kraft seit 1. Jan. 1986 ([AS 1985 2010](https://fedlex.data.admin.ch/eli/oc/1985/2010_2010_2010)).
-[^9-2]: Fassung gemäss Ziff. I der V des EDI vom 6. Nov. 1998, in Kraft seit 1. Jan. 1999 ([AS 1998 3024](https://fedlex.data.admin.ch/eli/oc/1998/3024_3024_3024)).
+[^9-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^9-3]: Fassung gemäss Ziff. I der V des EDI vom 14. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 677](https://fedlex.data.admin.ch/eli/oc/2023/677)).
 
 ## 4. Abschnitt: Schlussbestimmung
 
@@ -197,17 +202,27 @@ Für Anträge auf eine Hörgeräteversorgung, die vor Inkrafttreten der Änderun
 
 [^u3-1]
 
-[^u3-1]: **2012** 6849
+[^u3-1]: [AS 2012 6849](https://fedlex.data.admin.ch/eli/oc/2012/827)
 
 <sup>1</sup> Anträge auf Schreibmaschinen, Schreibtelefone, Mobiltelefone mit spezieller Software und Faxgeräte, die vor Inkrafttreten der Änderung vom 28. November 2012 eingereicht wurden, werden nach bisherigem Recht beurteilt.
 
 <sup>2</sup> Ein notwendiger Ersatz und Reparaturen der zugesprochenen Geräte werden gemäss Artikel 7 Absatz 2 auch nach Inkrafttreten der Änderung vom 28. November 2012 durch die Versicherung übernommen.
 
+## Übergangsbestimmungen zur Änderung vom 14. November 2023
+
+[^u4-1]
+
+[^u4-1]: [AS 2023 677](https://fedlex.data.admin.ch/eli/oc/2023/677)
+
+<sup>1</sup> Beiträge an die Amortisation von Motorfahrrädern, Kleinmotorrädern und Motorrädern, die vor dem Inkrafttreten der Änderung vom 14. November 2023 angeschafft worden sind, werden nach bisherigem Recht ausgerichtet.
+
+<sup>2</sup> Für Anträge auf eine Kostenübernahme für einen Mobilitätsassistenzhund, einen Epilepsiewarnhund oder einen Autismusbegleithund, der vor Inkrafttreten der Änderung vom 14. November 2023 bei der versicherten Person bereits definitiv als Assistenzhund im Einsatz stand, ist das bisherige Recht anwendbar.
+
 Anhang[^t-3]
 
 ## Liste der Hilfsmittel
 
-[^t-3]: Bereinigt gemäss Ziff. I der V des EDI vom 21. Sept. 1982 ([AS 1982 1931](https://fedlex.data.admin.ch/eli/oc/1982/1931_1931_1931)), vom 2. Aug. 1983 ([AS 1983 1165](https://fedlex.data.admin.ch/eli/oc/1983/1165_1165_1165)), vom 13. Nov. 1985 ([AS 1985 2010](https://fedlex.data.admin.ch/eli/oc/1985/2010_2010_2010)), vom 24. Nov. 1988 ([AS 1988 2236](https://fedlex.data.admin.ch/eli/oc/1988/2236_2236_2236)), vom 9. Okt. 1992 ([AS 1992 2406](https://fedlex.data.admin.ch/eli/oc/1992/2406_2406_2406)), vom 8. Jan. 1996 ([AS 1996 768](https://fedlex.data.admin.ch/eli/oc/1996/768_768_768)), Ziff. II der V des EDI vom 19. Dez. 1996 ([AS 1997 563](https://fedlex.data.admin.ch/eli/oc/1997/563_563_563)), Ziff. I der V des EDI vom 16. Dez. 1999 ([AS 2000 616](https://fedlex.data.admin.ch/eli/oc/2000/105)), vom 18. Dez. 2000 ([AS 2000 3085](https://fedlex.data.admin.ch/eli/oc/2000/558)), vom 17. Nov. 2003 ([AS 2003 4069](https://fedlex.data.admin.ch/eli/oc/2003/600)), Ziff. II der V des EDI vom 22. Nov. 2007 ([AS 2007 6039](https://fedlex.data.admin.ch/eli/oc/2007/801)), Ziff. I der V des EDI vom 24. Nov. 2009 ([AS 2009 6555](https://fedlex.data.admin.ch/eli/oc/2009/805)), vom 17. März 2010 ([AS 2010 1053](https://fedlex.data.admin.ch/eli/oc/2010/160)), vom 25. Mai 2011 ([AS 2011 2665](https://fedlex.data.admin.ch/eli/oc/2011/369)), Ziff. II der V des EDI vom 28. Nov. 2012 ([AS 2012 6849](https://fedlex.data.admin.ch/eli/oc/2012/827)), vom 21. Nov. 2013 ([AS 2013 4521](https://fedlex.data.admin.ch/eli/oc/2013/799)), Ziff. I der V des EDI vom 18. Nov. 2015 ([AS 2015 4983](https://fedlex.data.admin.ch/eli/oc/2015/814)), vom 22. Nov. 2016 ([AS 2016 4343](https://fedlex.data.admin.ch/eli/oc/2016/720)) und vom 24. April 2020, in Kraft seit 1. Juli 2020 ([AS 2020 1773](https://fedlex.data.admin.ch/eli/oc/2020/350)).
+[^t-3]: Bereinigt gemäss Ziff. I der V des EDI vom 21. Sept. 1982 ([AS 1982 1931](https://fedlex.data.admin.ch/eli/oc/1982/1931_1931_1931)), vom 2. Aug. 1983 ([AS 1983 1165](https://fedlex.data.admin.ch/eli/oc/1983/1165_1165_1165)), vom 13. Nov. 1985 ([AS 1985 2010](https://fedlex.data.admin.ch/eli/oc/1985/2010_2010_2010)), vom 24. Nov. 1988 ([AS 1988 2236](https://fedlex.data.admin.ch/eli/oc/1988/2236_2236_2236)), vom 9. Okt. 1992 ([AS 1992 2406](https://fedlex.data.admin.ch/eli/oc/1992/2406_2406_2406)), vom 8. Jan. 1996 ([AS 1996 768](https://fedlex.data.admin.ch/eli/oc/1996/768_768_768)), Ziff. II der V des EDI vom 19. Dez. 1996 ([AS 1997 563](https://fedlex.data.admin.ch/eli/oc/1997/563_563_563)), Ziff. I der V des EDI vom 16. Dez. 1999 ([AS 2000 616](https://fedlex.data.admin.ch/eli/oc/2000/105)), vom 18. Dez. 2000 ([AS 2000 3085](https://fedlex.data.admin.ch/eli/oc/2000/558)), vom 17. Nov. 2003 ([AS 2003 4069](https://fedlex.data.admin.ch/eli/oc/2003/600)), Ziff. II der V des EDI vom 22. Nov. 2007 ([AS 2007 6039](https://fedlex.data.admin.ch/eli/oc/2007/801)), Ziff. I der V des EDI vom 24. Nov. 2009 ([AS 2009 6555](https://fedlex.data.admin.ch/eli/oc/2009/805)), vom 17. März 2010 ([AS 2010 1053](https://fedlex.data.admin.ch/eli/oc/2010/160)), vom 25. Mai 2011 ([AS 2011 2665](https://fedlex.data.admin.ch/eli/oc/2011/369)), Ziff. II der V des EDI vom 28. Nov. 2012 ([AS 2012 6849](https://fedlex.data.admin.ch/eli/oc/2012/827)), vom 21. Nov. 2013 ([AS 2013 4521](https://fedlex.data.admin.ch/eli/oc/2013/799)), Ziff. I der V des EDI vom 18. Nov. 2015 ([AS 2015 4983](https://fedlex.data.admin.ch/eli/oc/2015/814)), vom 22. Nov. 2016 ([AS 2016 4343](https://fedlex.data.admin.ch/eli/oc/2016/720)), vom 24. April 2020 ([AS 2020 1773](https://fedlex.data.admin.ch/eli/oc/2020/350)) und Ziff. II der V des EDI vom 14. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 677](https://fedlex.data.admin.ch/eli/oc/2023/677)).
 
 ### 1 Prothesen
 
@@ -286,8 +301,8 @@ Vergütung gemässTarifvertrag mit dem Dachverband der Schweizerischen Handels- 
 
 <table>
 <tr><td></td><td>für Versicherte, die voraussichtlich dauernd eine existenzsichernde Erwerbstätigkeit ausüben und zur Überwindung des Arbeitsweges auf ein persönliches Motorfahrzeug angewiesen sind.</td></tr>
-<tr><td>10.01\*</td><td>Motorfahrräder, zwei- bis vierrädrig: Der jährliche Amortisationsbeitrag beträgt 480 Franken für zweirädrige und 2500 Franken für drei- und vierrädrige Motorfahrräder.</td></tr>
-<tr><td>10.02\*</td><td>Kleinmotorräder und Motorräder: Der jährliche Amortisationsbeitrag beträgt 750 Franken.</td></tr>
+<tr><td>10.01\*</td><td>…</td></tr>
+<tr><td>10.02\*</td><td>…</td></tr>
 <tr><td>10.03\*</td><td>…</td></tr>
 <tr><td>10.04\*</td><td>Automobile: Der jährliche Amortisationsbeitrag beträgt 3000 Franken. Der Beitrag an einen automatischen Garagentoröffner beträgt 1500 Franken.</td></tr>
 <tr><td>10.05</td><td>Invaliditätsbedingte Abänderungen von Motorfahrzeugen</td></tr>
@@ -327,11 +342,16 @@ Vergütung gemässTarifvertrag mit dem Dachverband der Schweizerischen Handels- 
 <table>
 <tr><td>14.01</td><td>WC-Dusch- und WC-Trockenanlagen sowie Zusätze zu bestehenden Sanitäreinrichtungen, sofern die versicherte Person ohne einen solchen Behelf nicht zur Durchführung der betreffenden Körperhygiene fähig ist. Die Abgabe erfolgt leihweise.</td></tr>
 <tr><td>14.02</td><td>Krankenheber: Zur Verwendung im privaten Wohnbereich. Die Abgabe erfolgt leihweise.</td></tr>
-<tr><td>14.03</td><td>Elektrobetten (mit Aufzugbügel, jedoch ohne Matratze und sonstiges Zubehör): Zur Verwendung im privaten Wohnbereich. Die Abgabe erfolgt leihweise. Dauernd Bettlägerige sind vom Anspruch ausgeschlossen. Vergütet wird der Kaufpreis eines Bettes bis zum Höchstbetrag von 2500 Franken inklusive MWST. Der Höchstbetrag an die Auslieferungskosten des Elektrobetts beträgt 250 Franken inklusive MWST.</td></tr>
+<tr><td>14.03</td><td>Elektrobetten (mit Aufzugbügel, jedoch ohne Matratze und sonstiges Zubehör), zur Verwendung im privaten Wohnbereich. Für Versicherte, die darauf angewiesen sind, um zu Bett zu gehen und aufzustehen. Die Abgabe erfolgt leihweise. Dauernd Bettlägerige sind vom Anspruch ausgeschlossen. Vergütet wird der Kaufpreis eines Bettes bis zum Höchstbetrag von 2500 Franken inklusive MWST. Der Höchstbetrag an die Auslieferungskosten des Elektrobetts beträgt 250 Franken inklusive MWST.</td></tr>
 <tr><td>14.04</td><td>Invaliditätsbedingte bauliche Änderungen in der Wohnung: Anpassen von Bade-, Dusch- und WC-Räumen an die Invalidität, Versetzen oder Entfernen von Trennwänden, Verbreitern oder Auswechseln von Wohnungs- und Haustüren, Anbringen von Haltestangen, Handläufen, Zusatzgriffen sowie Wohnungs- und Haustüröffnern, Entfernen von Türschwellen oder Erstellen von Schwellenrampen, Installation von Signalanlagen für hochgradig Schwerhörige, Gehörlose und Taubblinde. Der Höchstbetrag für Signalanlagen beträgt 1300 Franken inkl. MWST.</td></tr>
 <tr><td>14.05</td><td>Hebebühnen, Treppenlifte und Rampen sowie Beseitigung oder Änderung von baulichen Hindernissen im und um den Wohn-, Arbeits-, Ausbildungs- und Schulungsbereich: Für Versicherte, die ohne einen solchen Behelf ihren Aufenthaltsort nicht verlassen können. Der Anspruch besteht nicht bei Aufenthalt im Heim. Die Abgabe von Hebebühnen, Treppenliften und Rampen erfolgt leihweise.</td></tr>
-<tr><td>14.06</td><td>Assistenzhund für körperbehinderte Personen: sofern die Eignung der versicherten Person als Assistenzhundehalterin erwiesen ist und sie dank dieser Hilfe eigenständiger zu Hause leben kann. Der Anspruch besteht nur für schwer körperbehinderte Erwachsene, die eine Entschädigung für eine Hilflosigkeit mindestens leichten Grades beziehen mit ausgewiesener Hilflosigkeit in mindestens zwei der folgenden Bereiche: Fortbewegung/Pflege gesellschaftlicher Kontakte; Aufstehen/Absitzen/Abliegen; Ankleiden/Auskleiden. Die Versicherung leistet zum Zeitpunkt der Abgabe des Assistenzhundes durch eine von der Organisation Assistance Dogs International (ADI) zertifizierte Stelle einen Pauschalbetrag von 15 500 Franken, der sich wie folgt zusammensetzt: 12 500 Franken für die Anschaffungskosten und 3000 Franken für Futter- und Tierarztkosten. Die Leistung kann maximal alle acht Jahre eingefordert werden, für jeden Hund jedoch nur einmal.</td></tr>
+<tr><td>14.06 14.06.1</td><td>Assistenzhunde Mobilitätsassistenzhund für körperbehinderte Personen ab 16 Jahren, sofern die Eignung der versicherten Person als Assistenzhundehalterin erwiesen ist und sie dank dieser Hilfe eigenständiger zu Hause leben kann. Der Anspruch besteht nur für schwer körperbehinderte Personen, die eine Entschädigung für eine Hilflosigkeit mindestens leichten Grades beziehen mit ausgewiesener Hilfebedürftigkeit in mindestens zwei der folgenden Kategorien: Fortbewegung/Pflege gesellschaftlicher Kontakte; Aufstehen/Absitzen/Abliegen; Ankleiden/Auskleiden. Die Abgabestelle des Mobilitätsassistenzhundes muss durch die Organisation Assistance Dogs International (ADI) zertifiziert sein. Die Versicherung vergütet zum Zeitpunkt der Abgabe des Assistenzhundes einen Pauschalbeitrag von 20 280 Franken. Der Beitrag setzt sich wie folgt zusammen: 15 000 Franken für die Anschaffungskosten und 5280 Franken für Futter- und Tierarztkosten. Die Leistung kann maximal alle acht Jahre eingefordert werden, für jeden Hund jedoch nur einmal.</td></tr>
+<tr><td>14.06.2</td><td>Epilepsiewarnhund für Kinder ab 4 Jahren sowie für Erwachsene, sofern die Eignung der versicherten Person oder einer Inhaberin oder eines Inhabers der elterlichen Sorge als Warnhundehalterin oder Warnhundehalter von der Abgabestelle bestätigt wird. Der Anspruch besteht nur, wenn die Epilepsie fachärztlich diagnostiziert ist. Erwachsene müssen zudem dank dem Hund ein Eingliederungsziel nach Artikel 21 Absätze 1 und 2 IVG[^annexu1-lvlu1-lvl15-1] erfüllen können. Die Abgabestelle des Epilepsiewarnhundes muss durch die Organisation Assistance Dogs International (ADI) zertifiziert sein. Die Versicherung vergütet einen Pauschalbeitrag von 14 280 Franken. Der Beitrag setzt sich wie folgt zusammen: 9000 Franken für die Anschaffungskosten und 5280 Franken für Futter- und Tierarztkosten. Die Leistung kann maximal alle acht Jahre eingefordert werden, für jeden Hund jedoch nur einmal.</td></tr>
+<tr><td>14.06.3</td><td>Autismusbegleithund für Kinder zwischen 4 und 9 Jahren, sofern die Eignung der versicherten Person und der Inhaberin oder des Inhabers der elterlichen Sorge als Hundehalterin oder Hundehalter von der Abgabestelle bestätigt wird. Der Anspruch besteht nur, wenn eine Autismus-Spektrum-Störung nach Ziffer 405 der Verordnung des EDI vom 3. November 2021[^annexu1-lvlu1-lvl15-2] über Geburtsgebrechen ohne medizinische Kontraindikation zur Haltung eines Hundes vorliegt und der Einsatz des Hundes dem Erlernen der sicheren Fortbewegung im öffentlichen Raum dient. Die Abgabestelle des Autismusbegleithundes muss durch die Organisation Assistance Dogs International (ADI) zertifiziert sein. Die Versicherung vergütet einen Pauschalbeitrag von 20 280 Franken. Der Beitrag setzt sich wie folgt zusammen: 15 000 Franken für die Anschaffungskosten und 5280 Franken für Futter- und Tierarztkosten. Die Leistung kann nur einmal eingefordert werden.</td></tr>
 </table>
+
+[^annexu1-lvlu1-lvl15-1]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^annexu1-lvlu1-lvl15-2]: [SR 831.232.211](https://fedlex.data.admin.ch/eli/cc/2021/708)
 
 ### 15 Hilfsmittel für den Kontakt mit der Umwelt
 
