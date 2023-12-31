@@ -4,11 +4,11 @@ title: Verordnung vom 31. Oktober 2018 über die Koordination der Kontrollen auf
 short: VKKL
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/673"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2018-10-31
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/673/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2018-673-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/673/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/673/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2018-673-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/673/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/673/20230101/de"
 
 (VKKL)
 
-vom 31. Oktober 2018 (Stand am 1. Januar 2023)
+vom 31. Oktober 2018 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -41,6 +41,7 @@ Sie gilt für Kontrollen nach den folgenden Verordnungen:
 - b. Direktzahlungsverordnung vom 23. Oktober 2013[^1-3] (DZV);
 - c. Einzelkulturbeitragsverordnung vom 23. Oktober 2013[^1-4];
 - d.[^1-5] …
+- e.[^1-6] Luftreinhalte-Verordnung vom 16. Dezember 1985[^1-7], Anhang 2 Ziffer 55.
 
 <sup>3</sup> Ausgenommen von Absatz 2 ist die Kontrolle der Dichtheit der Lagereinrichtungen für Hofdünger und flüssiges Gärgut.
 
@@ -51,6 +52,8 @@ Sie gilt für Kontrollen nach den folgenden Verordnungen:
 [^1-3]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 [^1-4]: [SR 910.17](https://fedlex.data.admin.ch/eli/cc/2013/873)
 [^1-5]: Aufgehoben durch Ziff. I der V vom 2. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
+[^1-6]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
+[^1-7]: [SR 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
 
 #### Art. 2
 
@@ -66,7 +69,7 @@ Sie gilt für Kontrollen nach den folgenden Verordnungen:
 
 **Mindesthäufigkeit und Koordination der Grundkontrollen**
 
-<sup>1</sup> Die Anforderungen der Verordnungen nach Artikel 1 Absatz 2 Buchstaben b–d müssen mindestens innerhalb von acht Jahren kontrolliert werden.
+<sup>1</sup> Die Anforderungen der Verordnungen nach Artikel 1 Absatz 2 Buchstaben b, c und e müssen mindestens einmal innerhalb von acht Jahren kontrolliert werden.[^3-1]
 
 <sup>2</sup> Die Anforderungen der Verordnung nach Artikel 1 Absatz 2 Buchstabe a müssen auf Ganzjahresbetrieben mindestens innerhalb von vier und auf Sömmerungsbetrieben innerhalb von acht Jahren kontrolliert werden.
 
@@ -74,7 +77,7 @@ Sie gilt für Kontrollen nach den folgenden Verordnungen:
 
 <sup>4</sup> Ein Ganzjahresbetrieb muss innerhalb von acht Jahren mindestens zweimal vor Ort kontrolliert werden.
 
-<sup>5</sup> Mindestens 40 Prozent aller jährlichen Grundkontrollen für die Tierwohlbeiträge sind in jedem einzelnen Kanton unangemeldet durchzuführen.[^3-1]
+<sup>5</sup> Mindestens 40 Prozent aller jährlichen Grundkontrollen für die Tierwohlbeiträge sind in jedem einzelnen Kanton unangemeldet durchzuführen.[^3-2]
 
 <sup>6</sup>
 
@@ -83,7 +86,8 @@ Die Kantone sorgen für die Koordination der Grundkontrollen, sodass ein Betrieb
 - a. Grundkontrollen, bei denen die Anwesenheit des Bewirtschafters oder der Bewirtschafterin nicht erforderlich ist;
 - b. Grundkontrollen für Biodiversitätsbeiträge der Qualitätsstufe II und für die Vernetzung.
 
-[^3-1]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
+[^3-1]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
+[^3-2]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
 
 #### Art. 4
 

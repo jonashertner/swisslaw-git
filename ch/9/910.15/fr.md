@@ -4,11 +4,11 @@ title: Ordonnance du 31 octobre 2018 sur la coordination des contrôles dans les
 short: OCCEA
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/673"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2018-10-31
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/673/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-673-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/673/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/673/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-673-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/673/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/673/20230101/fr"
 
 (OCCEA)
 
-du 31 octobre 2018 (État le 1<sup>er</sup> janvier 2023)
+du 31 octobre 2018 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -41,6 +41,7 @@ Elle s’applique aux contrôles réalisés en vertu des ordonnances suivantes:
 - b. ordonnance du 23 octobre 2013 sur les paiements directs (OPD)[^1-3];
 - c. ordonnance du 23 octobre 2013 sur les contributions à des cultures particulières[^1-4];
 - d.[^1-5] …
+- e.[^1-6] ordonnance du 16 décembre 1985 sur la protection de l’air[^1-7], annexe 2, ch. 55.
 
 <sup>3</sup> L’al. 2 ne s’applique pas au contrôle de l’étanchéité des installations de stockage des engrais de ferme et des digestats liquides.
 
@@ -51,6 +52,8 @@ Elle s’applique aux contrôles réalisés en vertu des ordonnances suivantes:
 [^1-3]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 [^1-4]: [RS 910.17](https://fedlex.data.admin.ch/eli/cc/2013/873)
 [^1-5]: Abrogée par le ch. I de l’O du 2 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
+[^1-6]: Introduite par le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
+[^1-7]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
 
 #### Art. 2
 
@@ -66,7 +69,7 @@ Elle s’applique aux contrôles réalisés en vertu des ordonnances suivantes:
 
 **Fréquence minimale et coordination des contrôles de base**
 
-<sup>1</sup> Les dispositions des ordonnances mentionnées à l’art. 1, al. 2, let. b à d, doivent être contrôlées dans un délai de huit ans au moins.
+<sup>1</sup> Les dispositions des ordonnances mentionnées à l’art. 1, al. 2, let. b, c et e, doivent être contrôlées au moins une fois dans un délai de huit ans.[^3-1]
 
 <sup>2</sup> Les dispositions de l’ordonnance mentionnée à l’art. 1, al. 2, let. a, doivent être contrôlées dans un délai de quatre ans au moins dans les exploitations à l’année et de huit ans au moins dans les exploitations d’estivage.
 
@@ -74,7 +77,7 @@ Elle s’applique aux contrôles réalisés en vertu des ordonnances suivantes:
 
 <sup>4</sup> Une exploitation à l’année doit faire l’objet d’un contrôle sur place au moins deux fois en l’espace de huit ans.
 
-<sup>5</sup> Au moins 40 % de tous les contrôles de base annuels concernant les contributions au bien-être des animaux doivent être effectués sans préavis dans chaque canton.[^3-1]
+<sup>5</sup> Au moins 40 % de tous les contrôles de base annuels concernant les contributions au bien-être des animaux doivent être effectués sans préavis dans chaque canton.[^3-2]
 
 <sup>6</sup>
 
@@ -83,7 +86,8 @@ Les cantons veillent à la coordination des contrôles de base de manière à ce
 - a. les contrôles de base qui ne requièrent pas la présence de l’exploitant;
 - b. les contrôles de base portant sur les contributions à la biodiversité du niveau de qualité II et pour la mise en réseau.
 
-[^3-1]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
+[^3-2]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
 
 #### Art. 4
 

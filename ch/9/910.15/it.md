@@ -4,11 +4,11 @@ title: Ordinanza del 31 ottobre 2018 sul coordinamento dei controlli delle azien
 short: OCoC
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/673"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2018-10-31
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/673/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2018-673-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/673/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/673/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2018-673-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/673/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/673/20230101/it"
 
 (OCoC)
 
-del 31 ottobre 2018 (Stato 1° gennaio 2023)
+del 31 ottobre 2018 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -41,6 +41,7 @@ Si applica ai controlli previsti dalle ordinanze seguenti:
 - b. ordinanza del 23 ottobre 2013[^1-3] sui pagamenti diretti (OPD);
 - c. ordinanza del 23 ottobre 2013[^1-4] sui contributi per singole colture;
 - d.[^1-5] ...
+- e.[^1-6] ordinanza del 16 dicembre 1985[^1-7] contro l’inquinamento atmosferico, allegato 2 numero 55.
 
 <sup>3</sup> Il capoverso 2 non si applica al controllo della tenuta stagna degli impianti di deposito per il concime aziendale e il digestato liquido.
 
@@ -51,6 +52,8 @@ Si applica ai controlli previsti dalle ordinanze seguenti:
 [^1-3]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 [^1-4]: [RS 910.17](https://fedlex.data.admin.ch/eli/cc/2013/873)
 [^1-5]: Abrogata dal n. I dell’O del 2 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
+[^1-6]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2024 ([RU 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
+[^1-7]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
 
 #### Art. 2
 
@@ -66,7 +69,7 @@ Si applica ai controlli previsti dalle ordinanze seguenti:
 
 **Frequenza minima e coordinamento dei controlli di base**
 
-<sup>1</sup> I requisiti delle ordinanze di cui all’articolo 1 capoverso 2 lettere b–d devono essere controllati almeno ogni otto anni.
+<sup>1</sup> I requisiti delle ordinanze di cui all’articolo 1 capoverso 2 lettere b, c ed e devono essere controllati almeno una volta ogni otto anni.[^3-1]
 
 <sup>2</sup> I requisiti delle ordinanze di cui all’articolo 1 capoverso 2 lettera a devono essere controllati nelle aziende gestite tutto l’anno almeno ogni quattro anni e nelle aziende d’estivazione almeno ogni otto.
 
@@ -74,7 +77,7 @@ Si applica ai controlli previsti dalle ordinanze seguenti:
 
 <sup>4</sup> Un’azienda gestita tutto l’anno deve essere sottoposta a un controllo in loco almeno due volte ogni otto anni.
 
-<sup>5</sup> In ciascun Cantone almeno il 40 per cento di tutti i controlli di base annuali relativi ai contributi per il benessere degli animali va svolto senza preavviso.[^3-1]
+<sup>5</sup> In ciascun Cantone almeno il 40 per cento di tutti i controlli di base annuali relativi ai contributi per il benessere degli animali va svolto senza preavviso.[^3-2]
 
 <sup>6</sup>
 
@@ -83,7 +86,8 @@ I Cantoni provvedono al coordinamento dei controlli di base in modo che, di rego
 - a. controlli di base che non richiedono la presenza del gestore;
 - b. controlli di base relativi a contributi per la biodiversità del livello qualitativo II e per l’interconnessione.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
+[^3-1]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2024 ([RU 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
+[^3-2]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
 
 #### Art. 4
 
@@ -230,7 +234,7 @@ Allegato 1[^t-1]
 
 ## Istruzioni per i controlli di base degli effettivi di animali e delle superfici per la promozione della biodiversità
 
-[^t-1]: Aggioranto dal n. II dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
+[^t-1]: Aggiornato dal n. II dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
 
 ### 1. Controlli di base degli effettivi di animali
 
