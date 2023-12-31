@@ -4,13 +4,13 @@ number: "177.22"
 title: Verordnung des Grossen Rates über die Besoldung des Staatspersonals
 short: Besoldungsverordnung; BesVO
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
+version: 2024-01-01
+valid_until: 2024-12-31
 version_adopted: 2022-08-31
 adopted: 1998-11-18
 in_force: 2000-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/177.22"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2619/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2871/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ BesVO
 
 (Besoldungsverordnung; BesVO)
 
-vom 18.11.1998 (Stand 01.01.2023)
+vom 18.11.1998 (Stand 01.01.2024)
 
 ## 1. Allgemeine Bestimmungen
 
