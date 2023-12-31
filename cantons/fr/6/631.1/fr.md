@@ -4,13 +4,13 @@ number: "631.1"
 title: Loi sur les impôts cantonaux directs
 short: LICD
 language: fr
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-10-12
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-10-12
 adopted: 2000-06-06
 in_force: 2001-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/631.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7713/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7931/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Impôts cantonaux directs – L
 
 (LICD)
 
-du 06.06.2000 (version entrée en vigueur le 01.01.2023)
+du 06.06.2000 (version entrée en vigueur le 01.01.2024)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -645,7 +645,7 @@ Décrète:
 - i) un montant qui équivaut au revenu restant après prise en compte des déductions des lettres a à h est accordé au contribuable séjournant de façon durable dans un établissement du canton dans lequel il aurait droit à une prestation complémentaire lorsque:
   - 1\. le revenu total dont dispose le contribuable, y compris les prestations complémentaires et déduction faite des frais de pension, n'excède pas le montant laissé au pensionnaire pour ses dépenses personnelles en vertu de la législation cantonale sur les prestations complémentaires, et
   - 2\. le contribuable a une fortune nette dont le total ne dépasse pas le montant limite non pris en compte pour une personne seule en vertu de la législation fédérale sur les prestations complémentaires;
-- j) le montant effectivement reçu à titre d'indemnités forfaitaires en matière d'aide et de soins à domicile, au maximum 9000 francs par an.
+- j) le montant effectivement reçu à titre d'indemnités forfaitaires en matière d'aide et de soins à domicile.
 
 <sup>2</sup> Sont en outre déductibles:
 
@@ -996,7 +996,7 @@ Décrète:
 - d) pour la tranche de fortune comprise entre 200'001 et 400'000 francs: — 2,5 ‰
 - e) pour la tranche de fortune comprise entre 400'001 et 700'000 francs: — 3,1 ‰
 - f) pour la tranche de fortune comprise entre 700'001 et 1'000'000 de francs: — 3,5 ‰
-- g) pour la tranche de fortune comprise entre 1'000'000 et 1'200'000 francs: — 3,7 ‰
+- g) pour la tranche de fortune comprise entre 1'000'001 et 1'200'000 francs: — 3,7 ‰
 - h) pour les montants supérieurs à 1'200'000 francs: — 2,9 ‰
 
 <sup>2</sup> Les fractions de fortune sont arrondies au millier inférieur.
@@ -1799,7 +1799,7 @@ Décrète:
 
 <sup>1</sup> Le capital propre imposable des sociétés de capitaux et des sociétés coopératives qui sont en liquidation à la fin d'une période fiscale correspond à leur fortune nette.
 
-<sup>2</sup> La fortune nette est déterminée conformément aux dispositions applicables aux personnes physiques.
+<sup>2</sup> …
 
 #### Art. 120
 
@@ -1959,6 +1959,33 @@ Décrète:
 
 <sup>3</sup> Dans le cadre des attributions prévues aux alinéas 1 et 2, le Service cantonal des contributions interconnecte les données provenant du registre du contrôle des habitants avec les données de son registre des contribuables par procédure d'appel, par le biais de la plate-forme informatique cantonale prévue à l'article 16 de la loi du 23 mai 1986 sur le contrôle des habitants. Cet appariement peut être effectué à des fins de vérification de l'exhaustivité du registre des contribuables ainsi qu'à des fins d'investigation fiscale.
 
+#### Art. 137a
+
+**Registre des personnes morales**
+
+<sup>1</sup> Le Service cantonal des contributions établit et tient à jour un registre des personnes morales qui ont leur siège ou un établissement stable dans le canton de Fribourg afin d'assurer l'exhaustivité de la taxation et de la perception des impôts prévus dans la présente loi.
+
+<sup>2</sup> Le registre des personnes morales est établi et mis à jour par interfaçage:
+
+- a) avec les données du registre du commerce, pour les personnes morales domiciliées dans le canton;
+- b) avec les données du registre foncier, pour les personnes morales imposées de manière limitée dans le canton en raison d'un immeuble.
+
+<sup>3</sup> Le Service cantonal des contributions peut en outre, à des fins d'investigation fiscale, procéder à des appariements de données entre le registre des personnes morales, le registre du commerce et le registre foncier.
+
+#### Art. 137b
+
+**Registre des immeubles**
+
+<sup>1</sup> Le Service cantonal des contributions établit et tient à jour un registre des immeubles situés dans le canton de Fribourg afin d'assurer l'exhaustivité de la taxation et de la perception des impôts prévus dans la présente loi, ainsi que la taxe sur la plus-value prévue à l'article 113a de la loi du 2 décembre 2008 sur l'aménagement du territoire et les constructions.
+
+<sup>2</sup> Le registre comporte les immeubles imposés dans le canton de Fribourg, leurs valeurs fiscale, locative, de rendement ainsi que, le cas échéant, leur valeur vénale. Il comporte également les données concernant le ou la propriétaire, les charges et droits pour autant qu'ils soient pertinents pour la détermination des valeurs précitées ainsi que les informations liées aux frais d'entretien d'immeuble.
+
+<sup>3</sup> Le registre des immeubles est établi et mis à jour par interfaçage avec les données du registre foncier. Cet interfaçage peut être effectué à des fins de tenue et de vérification de l'exhaustivité du registre ainsi qu'à des fins d'investigation fiscale. Le Conseil d'Etat précise les données qui sont transmises de manière automatique.
+
+<sup>4</sup> En sus des données transmises automatiquement, le Service cantonal des contributions peut obtenir, de manière subsidiaire et sur demande, les actes notariés contenus dans les bases de données du registre foncier lorsque cela est nécessaire pour déterminer les données mentionnées à l'alinéa 2.
+
+<sup>5</sup> Il peut également obtenir les informations liées aux permis de construire octroyés par le Service des constructions et de l'aménagement ainsi que les estimations des valeurs d'assurance de l'Etablissement cantonal d'assurance des bâtiments lorsque ces informations sont nécessaires à la taxation et qu'elles ne sont pas transmises spontanément ou sur demande par le ou la contribuable.
+
 ### 5.2 Principes généraux de procédure
 
 ### 5.2.1 Devoirs des autorités
@@ -2017,6 +2044,8 @@ Décrète:
 <sup>1</sup> Les autorités administratives et judiciaires de l'Etat et des communes communiquent sur demande et gratuitement, sous réserve du secret professionnel, tous les renseignements nécessaires à l'application de la présente loi aux autorités chargées de son exécution. Elles peuvent signaler spontanément à celles-ci les cas qui pourraient avoir fait l'objet d'une imposition incomplète.
 
 <sup>2</sup> Les organes des corporations et établissements auxquels ont été déléguées des tâches incombant à une administration publique sont assimilés, en ce qui concerne le devoir de collaborer, aux autorités mentionnées à l'alinéa 1.
+
+<sup>2a</sup> L'Office de la circulation et de la navigation fournit sur demande les renseignements relatifs à un véhicule et à son détenteur ainsi que les renseignements tirés du permis de circulation.
 
 <sup>3</sup> Les organes de La Poste Suisse et des établissements publics de crédit sont libérés de l'obligation de donner des renseignements et des informations concernant les faits sur lesquels ils doivent garder le secret en vertu de dispositions légales spéciales.
 
@@ -2610,7 +2639,7 @@ Décrète:
 
 <sup>2</sup> Lorsque, au décès du contribuable, la procédure n'est pas encore introduite ou qu'elle n'est pas terminée, elle peut être ouverte ou continuée contre les héritiers.
 
-<sup>3</sup> Les frais de mesures d'instruction peuvent être mis à la charge du contribuable en application de l'article 155 al. 2.
+<sup>3</sup> Les frais de mesures d'instruction peuvent être mis à la charge du contribuable en application de l'article 228 al. 2.
 
 <sup>4</sup> Au surplus, les dispositions concernant les principes généraux de procédure, les procédures de taxation et de recours s'appliquent par analogie.
 
@@ -2771,7 +2800,7 @@ Décrète:
 
 <sup>4</sup> Les montants payés en trop sont restitués avec intérêts rémunératoires.
 
-<sup>5</sup> Les montants encore dus sont exigés avec intérêts compensatoires à partir du terme général d'échéance de l'impôt.
+<sup>5</sup> …
 
 <sup>6</sup> Si le solde fixé dans le décompte final n'est pas acquitté au plus tard le trentième jour qui suit son échéance, il porte intérêts moratoires.
 
@@ -2809,7 +2838,7 @@ Décrète:
 
 <sup>2</sup> Le montant de l'impôt perçu à la source doit être versé au Service cantonal des contributions au plus tard le trentième jour qui suit l'échéance de l'impôt.
 
-<sup>3</sup> Des intérêts moratoires ou compensatoires sont dus en cas de paiement tardif ou insuffisant de l'impôt. Les montants payés en trop sont restitués avec intérêts rémunératoires. Les intérêts sont perçus aux conditions fixées par la Direction.
+<sup>3</sup> Des intérêts moratoires sont dus en cas de paiement tardif ou insuffisant de l'impôt. Les montants payés en trop sont restitués avec intérêts rémunératoires. Les intérêts sont perçus aux conditions fixées par la Direction.
 
 #### Art. 209
 
@@ -2928,6 +2957,8 @@ Décrète:
 **Hypothèque légale**
 
 <sup>1</sup> Les immeubles imposables sont grevés d'une hypothèque légale (art. 73 LACC) qui garantit le paiement de l'impôt sur les gains immobiliers et les bénéfices immobiliers réalisés dans un délai de trois ans depuis le jour où l'aliénation a déployé ses effets juridiques. Cette hypothèque garantit également le paiement de l'impôt sur le revenu, la fortune et le bénéfice afférent aux immeubles de l'année courante et des deux années précédentes.
+
+<sup>2</sup> Lorsque le débiteur de l'impôt ne s'acquitte pas de l'impôt sur les gains immobiliers ou de l'impôt sur le revenu ou le bénéfice dus suite à l'aliénation de l'immeuble et qu'il n'est plus propriétaire des immeubles grevés, le Service cantonal des contributions introduit une procédure d'exécution forcée contre ce dernier. Le gage n'est réalisé que si cette procédure échoue.
 
 #### Art. 218
 

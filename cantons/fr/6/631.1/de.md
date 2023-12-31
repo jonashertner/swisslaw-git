@@ -4,13 +4,13 @@ number: "631.1"
 title: Gesetz über die direkten Kantonssteuern
 short: DStG
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-10-12
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-10-12
 adopted: 2000-06-06
 in_force: 2001-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/631.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7713/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7931/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Direkte Kantonssteuern – G
 
 (DStG)
 
-vom 06.06.2000 (Fassung in Kraft getreten am 01.01.2023)
+vom 06.06.2000 (Fassung in Kraft getreten am 01.01.2024)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -645,7 +645,7 @@ beschliesst:
 - i) ein Betrag, der dem nach den Abzügen der Buchstaben a–h verbleibenden Einkommen entspricht, wird der steuerpflichtigen Person, die sich dauernd in einem Heim des Kantons, in dem sie Anspruch auf Ergänzungsleistungen hätte, aufhält, gewährt, wenn:
   - 1\. das Gesamteinkommen, über welches die steuerpflichtige Person verfügt, einschliesslich der Ergänzungsleistungen und des Abzugs der Pflegekosten, nicht den Betrag übersteigt, welcher den Heimbewohnern im Sinne der kantonalen Gesetzgebung über die Ergänzungsleistungen für persönliche Auslagen überlassen bleibt, und
   - 2\. die steuerpflichtige Person über ein Reinvermögen verfügt, das den anrechenbaren Betrag für eine alleinstehende Person im Sinne der eidgenössischen Gesetzgebung über die Ergänzungsleistungen nicht übersteigt;
-- j) die effektiv erhaltenen Pauschalentschädigungen für die Hilfe und Pflege zu Hause, bis zum Betrag von jährlich 9000 Franken.
+- j) die effektiv erhaltenen Pauschalentschädigungen für die Hilfe und Pflege zu Hause.
 
 <sup>2</sup> Zusätzlich werden abgezogen:
 
@@ -996,7 +996,7 @@ beschliesst:
 - d) für die Vermögenstranche von 200'001 bis 400'000 Franken: — 2,5 ‰
 - e) für die Vermögenstranche von 400'001 bis 700'000 Franken: — 3,1 ‰
 - f) für die Vermögenstranche von 700'001 bis 1'000'000 Franken: — 3,5 ‰
-- g) für die Vermögenstranche von 1'000'000 bis 1'200'000 Franken: — 3,7 ‰
+- g) für die Vermögenstranche von 1'000'001 bis 1'200'000 Franken: — 3,7 ‰
 - h) für die Vermögensbeträge über 1'200'000 Franken: — 2,9 ‰
 
 <sup>2</sup> Vermögensbruchteile werden auf den nächst tieferen Betrag von 1000 Franken abgerundet.
@@ -1799,7 +1799,7 @@ beschliesst:
 
 <sup>1</sup> Als steuerbares Eigenkapital von Kapitalgesellschaften und Genossenschaften, die sich am Ende einer Steuerperiode in Liquidation befinden, gilt das Reinvermögen.
 
-<sup>2</sup> Die Ermittlung des Reinvermögens richtet sich nach den für die natürlichen Personen geltenden Vorschriften.
+<sup>2</sup> …
 
 #### Art. 120
 
@@ -1959,6 +1959,33 @@ beschliesst:
 
 <sup>3</sup> Im Rahmen der Befugnisse nach den Absätzen 1 und 2 kann die Kantonale Steuerverwaltung die Daten der kantonalen Informatikplattform des Einwohnerregisters nach Artikel 16 des Gesetzes vom 23. Mai 1986 über die Einwohnerkontrolle im Abrufverfahren mit den Daten ihres Steuerregisters abgleichen. Dieser Abgleich kann zur Prüfung der Vollständigkeit des Steuerregisters sowie zu Steuerprüfungszwecken erfolgen.
 
+#### Art. 137a
+
+**Register der juristischen Personen**
+
+<sup>1</sup> Die Kantonale Steuerverwaltung erstellt und führt ein Register der juristischen Personen, die ihren Sitz oder eine Betriebsstätte im Kanton Freiburg haben, um eine vollständige Veranlagung und den vollständigen Bezug der in diesem Gesetz vorgesehenen Steuern zu gewährleisten.
+
+<sup>2</sup> Das Register der juristischen Personen wird über eine Schnittstelle zur Verknüpfung mit folgenden Daten erstellt und nachgeführt:
+
+- a) Daten des Handelsregisters, für die im Kanton domizilierten juristischen Personen;
+- b) Grundbuchdaten, für die juristischen Personen, die im Kanton aufgrund eines Grundstücks beschränkt besteuert werden.
+
+<sup>3</sup> Die Kantonale Steuerverwaltung kann zudem zu Steuerprüfungszwecken Daten des Registers der juristischen Personen, des Handelsregisters und des Grundbuchs untereinander abgleichen.
+
+#### Art. 137b
+
+**Register der Grundstücke**
+
+<sup>1</sup> Die Kantonale Steuerverwaltung erstellt und führt ein Register der im Kanton Freiburg gelegenen Grundstücke, um eine vollständige Veranlagung und den vollständigen Bezug der in diesem Gesetz vorgesehenen Steuern sowie der Mehrwertabgabe nach Artikel 113a des Raumplanungs- und Baugesetzes zu gewährleisten.
+
+<sup>2</sup> Das Register enthält die im Kanton Freiburg besteuerten Grundstücke, ihren Steuerwert, ihren Mietwert, ihren Ertragswert und gegebenenfalls ihren Verkehrswert. Es enthält auch Angaben über den Eigentümer, zu Grundlasten und Rechten, soweit sie für die Bestimmung der oben genannten Werte relevant sind, und Informationen über die Liegenschaftsunterhaltskosten.
+
+<sup>3</sup> Das Register der Grundstücke wird über eine Schnittstelle zur Verknüpfung mit den Grundbuchdaten erstellt und nachgeführt. Diese Verknüpfung kann zur Registerführung und Prüfung der Vollständigkeit des Registers sowie zu Steuerprüfungszwecken erfolgen. Der Staatsrat bestimmt, welche Daten automatisch übertragen werden.
+
+<sup>4</sup> Zusätzlich zu den automatisch übertragenen Daten kann sich die Kantonale Steuerverwaltung subsidiär und auf Antrag auch notarielle Urkunden aus den Grundbuchdatenbanken verschaffen, wenn dies zur Bestimmung der Angaben nach Absatz 2 erforderlich ist.
+
+<sup>5</sup> Die Kantonale Steuerverwaltung kann auch Informationen zu Baubewilligungen des Bau- und Raumplanungsamts und Schätzungen der Versicherungswerte der Kantonalen Gebäudeversicherung einholen, wenn diese Informationen für die Veranlagung erforderlich sind und nicht spontan oder auf Anfrage von der steuerpflichtigen Person übermittelt werden.
+
 ### 5.2 Allgemeine Verfahrensgrundsätze
 
 ### 5.2.1 Amtspflichten
@@ -2017,6 +2044,8 @@ beschliesst:
 <sup>1</sup> Unter Vorbehalt des Berufsgeheimnisses erteilen die Verwaltungs- und Gerichtsbehörden des Staates und der Gemeinden kostenlos den mit dem Vollzug dieses Gesetzes beauftragten Behörden auf Ersuchen hin alle erforderlichen Auskünfte. Sie können den Steuerbehörden von sich aus Mitteilung machen, wenn sie vermuten, dass eine Veranlagung unvollständig ist.
 
 <sup>2</sup> Organe von Körperschaften und Anstalten, soweit sie Aufgaben der öffentlichen Verwaltung wahrnehmen, haben die gleiche Pflicht zur Amtshilfe wie die Behörden nach Absatz 1.
+
+<sup>2a</sup> Das Amt für Strassenverkehr und Schifffahrt erteilt auf Anfrage Auskünfte zu einem Fahrzeug und zum Fahrzeughalter und Auskünfte aus dem Fahrzeugausweis.
 
 <sup>3</sup> Von der Auskunfts- und Mitteilungspflicht ausgenommen sind die Organe der Schweizerischen Post und der öffentlichen Kreditinstitute für Tatsachen, die einer besonderen, gesetzlich auferlegten Geheimhaltung unterstehen.
 
@@ -2610,7 +2639,7 @@ beschliesst:
 
 <sup>2</sup> Das Verfahren, das beim Tod der steuerpflichtigen Person noch nicht eingeleitet oder noch nicht abgeschlossen ist, wird gegenüber den Erben eingeleitet oder fortgesetzt.
 
-<sup>3</sup> Die Kosten von Untersuchungsmassnahmen können der steuerpflichtigen Person in Anwendung von Artikel 155 Abs. 2 auferlegt werden.
+<sup>3</sup> Die Kosten von Untersuchungsmassnahmen können in Anwendung von Artikel 228 Abs. 2 der steuerpflichtigen Person auferlegt werden.
 
 <sup>4</sup> Im Übrigen gelten die Vorschriften über die Verfahrensgrundsätze, das Veranlagungs- und das Beschwerdeverfahren sinngemäss.
 
@@ -2771,7 +2800,7 @@ beschliesst:
 
 <sup>4</sup> Zuviel bezahlte Beträge werden mit einem Vergütungszins zurückerstattet.
 
-<sup>5</sup> Noch ausstehende Beträge werden mit Ausgleichszins ab dem allgemeinen Fälligkeitstermin der Steuer nachgefordert.
+<sup>5</sup> …
 
 <sup>6</sup> Wird der in der Schlussabrechnung festgelegte Restbetrag nicht spätestens am dreissigsten Tag nach Fälligkeit entrichtet, so wird ein Verzugszins geschuldet.
 
@@ -2809,7 +2838,7 @@ beschliesst:
 
 <sup>2</sup> Der Betrag der Quellensteuer ist der Kantonalen Steuerverwaltung innert 30 Tagen nach Fälligkeit zu überweisen.
 
-<sup>3</sup> Verzugs- oder Ausgleichszinsen werden im Fall einer verspäteten oder unvollständigen Bezahlung der Steuer geschuldet. Zuviel bezahlte Beträge werden mit einem Vergütungszins zurückerstattet. Die Zinsen werden gemäss den von der Direktion festgelegten Bedingungen erhoben.
+<sup>3</sup> Verzugszinsen werden im Fall einer verspäteten oder unvollständigen Bezahlung der Steuer geschuldet. Zuviel bezahlte Beträge werden mit einem Vergütungszins zurückerstattet. Die Zinsen werden gemäss den von der Direktion festgelegten Bedingungen erhoben.
 
 #### Art. 209
 
@@ -2928,6 +2957,8 @@ beschliesst:
 **Gesetzliches Grundpfandrecht**
 
 <sup>1</sup> Auf den der Steuer unterliegenden Grundstücken besteht ein gesetzliches Grundpfandrecht (Art. 73 EGZGB) für die Grundstückgewinnsteuer und die Liegenschaftsgewinne, die innert 3 Jahren seit dem Tag erzielt wurden, an dem die Veräusserung rechtswirksam geworden ist. Dieses Pfandrecht garantiert auch die Zahlung der auf die Grundstücke entfallenden Einkommens-, Vermögens- und Gewinnsteuer des laufenden und der letzten 2 Jahre.
+
+<sup>2</sup> Entrichtet der Steuerschuldner die nach einer Grundstückveräusserung anfallende Grundstückgewinnsteuer bzw. Einkommens- oder Gewinnsteuer nicht und ist er nicht mehr Eigentümer der belasteten Grundstücke, so leitet die Kantonale Steuerverwaltung ein Zwangsvollstreckungsverfahren gegen ihn ein. Die Grundpfandverwertung erfolgt nur, wenn dieses Verfahren scheitert.
 
 #### Art. 218
 
