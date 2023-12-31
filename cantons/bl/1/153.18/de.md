@@ -3,20 +3,20 @@ canton: BL
 number: "153.18"
 title: Verordnung über die Vergütung von Mandaten an unselbständig Erwerbende
 language: de
-version: 2022-05-01
-valid_until: 2023-12-31
-version_adopted: 2022-04-26
+version: 2024-01-01
+valid_until: 2025-03-31
+version_adopted: 2023-12-19
 adopted: 2013-03-12
 in_force: 2013-06-01
 url: "https://bl.clex.ch/app/de/texts_of_law/153.18"
-pdf: "https://bl.clex.ch/api/de/versions/3313/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3843/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Vergütung von Mandaten an unselbständig Erwerbende
 
-Vom 12.03.2013 (Stand 01.05.2022)
+Vom 12.03.2013 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -331,21 +331,17 @@ beschliesst:
 
 #### § 31
 
-**Wachbeauftragte in Bezirksgefängnissen**
-
-<sup>1</sup> Ein Wachauftrag von 17.15 Uhr bis 07.30 Uhr in den Bezirksgefängnissen wird pauschal mit CHF 225.– entschädigt. Die Pauschale beinhaltet auch die Inkonvenienzzulagen, die Pikettentschädigung, die Nacht- und Schichtzulagen.
-
-<sup>2</sup> Beauftragte zur Besuchsüberwachung in den Gefängnissen werden pauschal mit CHF 50.– pro Stunde entschädigt.
+**…**
 
 #### § 32
 
 **Trainingsprogramm gegen häusliche Gewalt**
 
-<sup>1</sup> Die Durchführung eines Kurses gegen häusliche Gewalt wird pauschal mit CHF 300.– pro Kurs vergütet.
+<sup>1</sup> Die Durchführung eines Kurses gegen häusliche Gewalt wird pauschal mit CHF 310.– pro Kurs vergütet.
 
-<sup>2</sup> Die Vorbereitung der Kurse, Intervisionen und Supervisionen werden mit CHF 60.– pro Stunde vergütet.
+<sup>2</sup> Die Vorbereitung von Kursen, Intervisionen und Supervisionen wird mit CHF 62.– pro Stunde vergütet.
 
-<sup>3</sup> Einzel- und Paargespräche werden mit CHF 90.– pro Stunde vergütet.
+<sup>3</sup> Einzel- und Paargespräche werden mit CHF 93.– pro Stunde vergütet.
 
 #### § 32a
 
