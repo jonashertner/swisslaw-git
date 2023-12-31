@@ -4,11 +4,11 @@ title: "Legge federale del 6 ottobre 1989 sul collocamento e il personale a pres
 short: LC
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/392_392_392"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1989-10-06
 in_force: 1991-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/392_392_392/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1991-392_392_392-20230901-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/392_392_392/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1991-392_392_392-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/20230901/it"
 
 (Legge sul collocamento, LC)
 
-del 6 ottobre 1989 (Stato 1° settembre 2023)
+del 6 ottobre 1989 (Stato 1° gennaio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -624,12 +624,12 @@ I seguenti uffici e organi hanno accesso al sistema del servizio pubblico di col
 - e.[^35-10] gli uffici regionali di collocamento (URC), per adempiere i compiti loro assegnati dalla legge (art. 85*b* LADI);
 - f.[^35-11] ...
 - g.[^35-12] gli organi dell’assicurazione per l’invalidità, ai fini della reintegrazione professionale delle persone nel quadro della collaborazione interistituzionale di cui all’articolo 35*a*;
-- [tab] h. e i. [^35-13]...
+- [tab] h. e i.[^35-13]...
 - j.[^35-14] ...
-- [tab] j<sup>bis</sup>.[^35-15]gli organi dell’assistenza sociale, ai fini della reintegrazione professionale delle persone nel quadro della collaborazione interistituzionale di cui all’articolo 35*a;*
-- k.[^35-16] le autorità incaricate dai Cantoni di controllare l’adempimento dell’obbligo di annunciare i posti vacanti di cui all’articolo 21*a* capoversi 3 e 4 della legge federale del 16 dicembre 2005[^35-17] sugli stranieri e la loro integrazione.
+- [tab] j<sup>bis</sup>.[^35-15]gli organi dell’assistenza sociale, ai fini della reintegrazione professionale delle persone nel quadro della collaborazione interistituzionale di cui all’articolo 35*a*;
+- [tab] k.[^35-16]...
 
-<sup>3bis</sup> Se necessario all’esecuzione della presente legge e della LADI, lo scambio di dati personali, compresi quelli degni di particolare protezione, tra i sistemi d’informazione del servizio pubblico di collocamento e dell’assicurazione contro la disoccupazione è autorizzato.[^35-18]
+<sup>3bis</sup> Se necessario all’esecuzione della presente legge e della LADI, lo scambio di dati personali, compresi quelli degni di particolare protezione, tra i sistemi d’informazione del servizio pubblico di collocamento e dell’assicurazione contro la disoccupazione è autorizzato.[^35-17]
 
 <sup>3ter</sup>
 
@@ -639,7 +639,7 @@ Le seguenti persone e i seguenti uffici hanno un accesso protetto alla piattafor
 - b. i datori di lavoro, per annunciare i posti vacanti e contattare le persone in cerca d’impiego;
 - c. i collocatori privati che dispongono di un’autorizzazione di collocamento, per consultare in forma non anonimizzata i profili delle persone in cerca d’impiego;
 - d. gli URC, per gestire gli annunci di posti vacanti;
-- e. la Direzione consolare del DFAE, per adempiere i compiti di cui all’articolo 25 capoverso 1.[^35-19]
+- e. la Direzione consolare del DFAE, per adempiere i compiti di cui all’articolo 25 capoverso 1.[^35-18]
 
 <sup>4</sup> La Confederazione partecipa alle spese, nella misura in cui siano dovute all’adempimento di compiti federali.
 
@@ -650,7 +650,7 @@ Il Consiglio federale disciplina:
 - a. la responsabilità per la protezione dei dati;
 - b. i dati da raccogliere;
 - c. il termine di conservazione dei dati;
-- d.[^35-20] la portata dei diritti di accesso e di trattamento dei dati personali, compresi i dati personali degni di particolare protezione, accordati alle persone, agli uffici e agli organi di cui ai capoversi 3 e 3<sup>ter</sup>;
+- d.[^35-19] la portata dei diritti di accesso e di trattamento dei dati personali, compresi i dati personali degni di particolare protezione, accordati alle persone, agli uffici e agli organi di cui ai capoversi 3 e 3<sup>ter</sup>;
 - e. l’organizzazione e la gestione del sistema d’informazione;
 - f. la collaborazione fra le autorità interessate;
 - g. la sicurezza dei dati.
@@ -670,11 +670,10 @@ Il Consiglio federale disciplina:
 [^35-13]: Abrogate dall’all. n. 1 della LF del 19 giu. 2020, con effetto dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 [^35-14]: Introdotta dall’all. n. III 5 della L del 26 set. 2014 sugli Svizzeri all’estero ([RU 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [FF 2014 1723](https://fedlex.data.admin.ch/eli/fga/2014/363)[2379](https://fedlex.data.admin.ch/eli/fga/2014/452)). Abrogata dall’all. n. 1 della LF del 19 giu. 2020, con effetto dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 [^35-15]: Introdotta dall’all. n. 1 della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^35-16]: Introdotta dall’art. 4 n. 2 della LF del 27 set. 2019 sulla partecipazione ai costi dei Cantoni per i controlli concernenti l’obbligo di annunciare i posti vacanti, in vigore dal 1° gen. 2020 al 31 dic. 2023 ([RU 2020 811](https://fedlex.data.admin.ch/eli/oc/2020/149); [FF 2019 2341](https://fedlex.data.admin.ch/eli/fga/2019/785)).
-[^35-17]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^35-18]: Introdotto dal n. II 1 della LF del 19 mar. 2010 sull’assicurazione contro la disoccupazione ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)). Nuovo testo giusta l’all. 2 n. 4 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^35-19]: Introdotto dall’all. n. 1 della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^35-20]: Nuovo testo giusta l’all. 2 n. 4 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^35-16]: Introdotta dall’art. 4 n. 2 della LF del 27 set. 2019 sulla partecipazione ai costi dei Cantoni per i controlli concernenti l’obbligo di annunciare i posti vacanti, in vigore dal 1° gen. 2020 al 31 dic. 2023 (RU 2020 811; FF 2019 2341).
+[^35-17]: Introdotto dal n. II 1 della LF del 19 mar. 2010 sull’assicurazione contro la disoccupazione ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)). Nuovo testo giusta l’all. 2 n. 4 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^35-18]: Introdotto dall’all. n. 1 della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-19]: Nuovo testo giusta l’all. 2 n. 4 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 35a
 

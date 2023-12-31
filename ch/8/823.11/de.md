@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 6. Oktober 1989 über die Arbeitsvermittlung und den Pe
 short: AVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/392_392_392"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 1989-10-06
 in_force: 1991-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/392_392_392/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1991-392_392_392-20230901-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/392_392_392/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1991-392_392_392-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/20230901/de"
 
 (Arbeitsvermittlungsgesetz, AVG)
 
-vom 6. Oktober 1989 (Stand am 1. September 2023)
+vom 6. Oktober 1989 (Stand am 1. Januar 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -621,9 +621,9 @@ Folgende Stellen und Organe haben Zugriff auf das System der öffentlichen Arbei
 - [tab] h. und i.[^35-12] …
 - j. [^35-13] …
 - j<sup>bis</sup>.[^35-14] die Organe der Sozialhilfe im Hinblick auf die berufliche Wiedereingliederung von Personen im Rahmen der interinstitutionellen Zusammenarbeit nach Artikel 35*a*;
-- k.[^35-15] die von den Kantonen eingesetzten Behörden zur Kontrolle der Einhaltung der Stellenmeldepflicht nach Artikel 21*a* Absätze 3 und 4 des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^35-16].
+- k.[^35-15] …
 
-<sup>3bis</sup> Soweit es für den Vollzug dieses Gesetzes und des AVIG notwendig ist, dürfen Personendaten, einschliesslich besonders schützenswerter Personendaten, zwischen den Informationssystemen der öffentlichen Arbeitsvermittlung und den Informationssystemen der Arbeitslosenversicherung ausgetauscht werden.[^35-17]
+<sup>3bis</sup> Soweit es für den Vollzug dieses Gesetzes und des AVIG notwendig ist, dürfen Personendaten, einschliesslich besonders schützenswerter Personendaten, zwischen den Informationssystemen der öffentlichen Arbeitsvermittlung und den Informationssystemen der Arbeitslosenversicherung ausgetauscht werden.[^35-16]
 
 <sup>3ter</sup>
 
@@ -633,7 +633,7 @@ Folgende Personen und Stellen haben einen gesicherten Zugriff auf die Plattform 
 - b. die Arbeitgeber, zur Meldung von offenen Stellen und zur Kontaktaufnahme mit Stellensuchenden;
 - c. die privaten Arbeitsvermittler, die eine Vermittlungsbewilligung haben, zur Einsichtnahme in nicht anonymisierte Profile von Stellensuchenden;
 - d. die RAV für die Bewirtschaftung der Stellenanzeigen;
-- e. die konsularische Direktion des EDA für die Erfüllung ihrer Aufgaben nach Artikel 25 Absatz 1.[^35-18]
+- e. die konsularische Direktion des EDA für die Erfüllung ihrer Aufgaben nach Artikel 25 Absatz 1.[^35-17]
 
 <sup>4</sup> Der Bund beteiligt sich an den Kosten, soweit diese durch Bundesaufgaben bedingt sind.
 
@@ -644,7 +644,7 @@ Der Bundesrat regelt:
 - a. die Verantwortung für den Datenschutz;
 - b. die zu erfassenden Daten;
 - c. die Aufbewahrungsfrist;
-- d.[^35-19] den Umfang der Zugriffs- und Bearbeitungsrechte für Personendaten, einschliesslich besonders schützenswerter Personendaten, der genannten Personen, Stellen und Organe nach den Absätzen 3 und 3<sup>ter</sup>;
+- d.[^35-18] den Umfang der Zugriffs- und Bearbeitungsrechte für Personendaten, einschliesslich besonders schützenswerter Personendaten, der genannten Personen, Stellen und Organe nach den Absätzen 3 und 3<sup>ter</sup>;
 - e. die Organisation und den Betrieb des Informationssystems;
 - f. die Zusammenarbeit zwischen den beteiligten Behörden;
 - g. die Datensicherheit.
@@ -664,10 +664,9 @@ Der Bundesrat regelt:
 [^35-13]: Eingefügt durch Anhang Ziff. III 5 des Auslandschweizergesetzes vom 26. Sept. 2014 ([AS 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [BBl 2014 1915](https://fedlex.data.admin.ch/eli/fga/2014/363)[2617](https://fedlex.data.admin.ch/eli/fga/2014/452)). Aufgehoben durch Anhang Ziff. 1 des BG vom 19. Juni 2020, mit Wirkung seit 1. Juli 2021 ([AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [BBl 2019 4413](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 [^35-14]: Eingefügt durch Anhang Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Juli 2021 ([AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [BBl 2019 4413](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 [^35-15]: Eingefügt durch Art. 4 Ziff. 2 des BG vom 27. Sept. 2019 über die Beiträge an die Kosten der Kantone für die Kontrolle der Einhaltung der Stellenmeldepflicht, in Kraft vom 1. Jan. 2020 bis zum 31. Dez. 2023 ([AS 2020 811](https://fedlex.data.admin.ch/eli/oc/2020/149); [BBl 2019 2711](https://fedlex.data.admin.ch/eli/fga/2019/785)).
-[^35-16]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^35-17]: Eingefügt durch Ziff. II 1 des BG vom 19. März 2010 ([AS 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [BBl 2008 7733](https://fedlex.data.admin.ch/eli/fga/2008/1319)). Fassung gemäss Anhang 2 Ziff. 4 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^35-18]: Eingefügt durch Anhang Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Juli 2021 ([AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [BBl 2019 4413](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^35-19]: Fassung gemäss Anhang 2 Ziff. 4 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^35-16]: Eingefügt durch Ziff. II 1 des BG vom 19. März 2010 ([AS 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [BBl 2008 7733](https://fedlex.data.admin.ch/eli/fga/2008/1319)). Fassung gemäss Anhang 2 Ziff. 4 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^35-17]: Eingefügt durch Anhang Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Juli 2021 ([AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [BBl 2019 4413](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-18]: Fassung gemäss Anhang 2 Ziff. 4 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 35a
 
