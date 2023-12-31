@@ -3,13 +3,13 @@ canton: FR
 number: "631.32"
 title: Verordnung über die Quellensteuer
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-11-29
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-11-28
 adopted: 2020-12-09
 in_force: 2021-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/631.32"
-pdf: "https://bdlf.fr.ch/api/de/versions/7653/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7896/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7653/pdf_file"
 
 Quellensteuer – V
 
-vom 09.12.2020 (Fassung in Kraft getreten am 01.01.2023)
+vom 09.12.2020 (Fassung in Kraft getreten am 01.01.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -209,7 +209,7 @@ beschliesst:
 
 **Nachträgliche ordentliche Veranlagung bei Quasi-Ansässigkeit**
 
-<sup>1</sup> Eine Person, die nach Artikel 5 Absatz DStG steuerpflichtig ist und in der Regel mindestens 90 % ihrer weltweiten Bruttoeinkünfte, einschliesslich der Bruttoeinkünfte des Ehemanns oder der Ehefrau, in der Schweiz versteuert (Quasi-Ansässigkeit), kann bei der Kantonalen Steuerverwaltung bis zum 31. März des auf das Steuerjahr folgenden Jahres schriftlich einen Antrag um Durchführung einer nachträglichen ordentlichen Veranlagung einreichen. Ein gestellter Antrag kann nicht mehr zurückgezogen werden.
+<sup>1</sup> Eine Person, die nach Artikel 5 Abs. 1 DStG steuerpflichtig ist und in der Regel mindestens 90 % ihrer weltweiten Bruttoeinkünfte, einschliesslich der Bruttoeinkünfte des Ehemanns oder der Ehefrau, in der Schweiz versteuert (Quasi-Ansässigkeit), kann bei der Kantonalen Steuerverwaltung bis zum 31. März des auf das Steuerjahr folgenden Jahres schriftlich mit dem einschlägigen Formular einen Antrag um Durchführung einer nachträglichen ordentlichen Veranlagung einreichen. Ein gestellter Antrag kann nicht mehr zurückgezogen werden.
 
 <sup>2</sup> Die Kantonale Steuerverwaltung prüft im Veranlagungsverfahren, ob die quellensteuerpflichtige Person im Steuerjahr die Voraussetzungen der Quasi-Ansässigkeit erfüllt. Dazu ermittelt sie nach den Artikeln 17–24 DStG zuerst die weltweiten Bruttoeinkünfte und danach den Anteil der in der Schweiz steuerbaren Bruttoeinkünfte.
 

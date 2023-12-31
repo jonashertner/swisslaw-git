@@ -3,13 +3,13 @@ canton: FR
 number: "631.32"
 title: "Ordonnance relative à la perception de l'impôt à la source"
 language: fr
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-11-29
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-11-28
 adopted: 2020-12-09
 in_force: 2021-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/631.32"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7653/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7896/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7653/pdf_file"
 
 Perception de l'impôt à la source – O
 
-du 09.12.2020 (version entrée en vigueur le 01.01.2023)
+du 09.12.2020 (version entrée en vigueur le 01.01.2024)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -209,7 +209,7 @@ Arrête:
 
 **Taxation ordinaire ultérieure en cas de quasi-résidence**
 
-<sup>1</sup> Toute personne assujettie en vertu de l'article 5 al. 1 LICD qui déclare généralement en Suisse au moins 90 % de ses revenus bruts mondiaux, y compris ceux de son époux ou de son épouse (quasi-résidence), peut adresser, jusqu'au 31 mars de l'année suivant l'année fiscale, une demande écrite de taxation ordinaire ultérieure au Service cantonal des contributions. Une fois déposée, une demande ne peut pas être retirée.
+<sup>1</sup> Toute personne assujettie en vertu de l'article 5 al. 1 LICD qui déclare généralement en Suisse au moins 90 % de ses revenus bruts mondiaux, y compris ceux de son époux ou de son épouse (quasi-résidence), peut adresser, jusqu'au 31 mars de l'année suivant l'année fiscale, une demande écrite de taxation ordinaire ultérieure au Service cantonal des contributions au moyen de la formule prévue à cet effet. Une fois déposée, une demande ne peut pas être retirée.
 
 <sup>2</sup> Le Service cantonal des contributions vérifie, dans le cadre de la procédure de taxation, si la personne soumise à l'impôt à la source remplit les conditions de la quasi-résidence durant l'année fiscale. A cet effet, il détermine d'abord les revenus bruts réalisés à l'échelle mondiale d'après les articles 17 à 24 LICD et, ensuite, la part des revenus bruts imposables en Suisse.
 
