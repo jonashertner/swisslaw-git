@@ -4,13 +4,13 @@ number: "432.211.2"
 title: Ordonnance sur les écoles à journée continue
 short: OEC
 language: fr
-version: 2023-08-01
-valid_until: 2023-12-31
-version_adopted: 2023-01-25
+version: 2024-01-01
+valid_until: 2024-07-31
+version_adopted: 2023-11-15
 adopted: 2008-05-28
 in_force: 2008-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/432.211.2"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2804/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2950/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2804/pdf_file"
 
 (OEC)
 
-du 28.05.2008 (état au 01.08.2023)
+du 28.05.2008 (état au 01.01.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -167,7 +167,7 @@ arrête:
 <sup>1</sup> Le revenu annuel des parents vivant sous le même toit que l’enfant pris en compte pour calculer le montant des émoluments comprend
 
 - a le salaire net;
-- b le revenu de remplacement imposable;
+- b le revenu de remplacement imposable; dans le cas des indépendantes et indépendants, celui-ci est imputé au bénéfice commercial de l’exercice considéré, dans la mesure où il concerne l’activité indépendante;
 - c les contributions d’entretien reçues pour autant qu’elles soient imposables conformément à la législation cantonale sur les impôts;
 - d cinq pour cent de la fortune nette (fortune brute moins les dettes);
 - e le bénéfice commercial imposable figurant dans la déclaration d’impôt (moyenne des trois dernières années);
@@ -286,6 +286,12 @@ arrête:
 #### Art. T2-1
 
 <sup>1</sup> La modification de l'article 12 s'applique à partir du 1<sup>er</sup> août 2022.
+
+## T3 Disposition transitoire de la modification du 15 novembre 2023
+
+#### Art. T3-1
+
+<sup>1</sup> La modification de l’article 12, alinéa 1, lettre b est applicable à partir du 1<sup>er</sup> août 2024.
 
 Berne, le 28 mai 2008
 

@@ -4,13 +4,13 @@ number: "432.211.2"
 title: Tagesschulverordnung
 short: TSV
 language: de
-version: 2023-08-01
-valid_until: 2023-12-31
-version_adopted: 2023-01-25
+version: 2024-01-01
+valid_until: 2024-07-31
+version_adopted: 2023-11-15
 adopted: 2008-05-28
 in_force: 2008-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/432.211.2"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2804/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2950/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2804/pdf_file"
 
 (TSV)
 
-vom 28.05.2008 (Stand 01.08.2023)
+vom 28.05.2008 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -167,7 +167,7 @@ beschliesst:
 <sup>1</sup> Das für die Berechnung der Gebühr massgebende Jahreseinkommen der Eltern, die mit dem Kind in einem gemeinsamen Haushalt wohnen, umfasst
 
 - a den Nettolohn,
-- b das steuerpflichtige Ersatzeinkommen,
+- b das steuerpflichtige Ersatzeinkommen, wobei dieses bei Selbständigerwerbenden beim Geschäftsgewinn des entsprechenden Jahres angerechnet wird, sofern es die selbständige Tätigkeit betrifft,
 - c die erhaltenen Unterhaltsbeiträge, soweit sie nach kantonaler Steuergesetzgebung versteuert werden müssen,
 - d fünf Prozent des Nettovermögens (Bruttovermögen abzüglich Schulden),
 - e den in der Steuererklärung ausgewiesenen Geschäftsgewinn (Durchschnitt der vergangenen drei Jahre),
@@ -286,6 +286,12 @@ beschliesst:
 #### Art. T2-1
 
 <sup>1</sup> Die Änderungen von Artikel 12 sind ab dem 1. August 2022 anwendbar.
+
+## T3 Übergangsbestimmung der Änderung vom 15.11.2023
+
+#### Art. T3-1
+
+<sup>1</sup> Die Änderung von Artikel 12 Absatz 1 Buchstabe b ist ab dem 1. August 2024 anwendbar.
 
 Bern, 28. Mai 2008
 
