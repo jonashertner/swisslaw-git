@@ -4,13 +4,13 @@ number: "153.011.1"
 title: Personalverordnung
 short: PV
 language: de
-version: 2023-03-01
-valid_until: 2023-12-31
-version_adopted: 2023-01-11
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-11-29
 adopted: 2005-05-18
 in_force: 2005-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/153.011.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2788/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2976/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2788/pdf_file"
 
 (PV)
 
-vom 18.05.2005 (Stand 01.03.2023)
+vom 18.05.2005 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -57,8 +57,8 @@ beschliesst:
 
 <sup>3</sup> Mit Bezug auf die Gerichtsbehörden und die Staatsanwaltschaft gilt:
 
-- a Wo im Nachfolgenden die Zuständigkeit der Direktionen und der Staatskanzlei gegeben ist, ist sie entsprechend gegeben für die Justizleitung für ihren eigenen Bereich, das Obergericht, das Verwaltungsgericht, die verwaltungsunabhängigen Verwaltungsjustizbehörden und die Generalstaatsanwaltschaft; vorbehalten bleibt eine ausdrückliche Zuweisung der Zuständigkeit ausschliesslich an die Justizleitung.
-- b Wo im Nachfolgenden die Zuständigkeit der Amtsvorsteherinnen und Amtsvorsteher gegeben ist, legt die Justizleitung durch Reglement fest, welche Leitungsfunktionen der Gerichtsbehörden und der Staatsanwaltschaft die entsprechenden Zuständigkeiten innehaben.
+- a Wo im Nachfolgenden die Zuständigkeit der Direktionen und der Staatskanzlei gegeben ist, ist sie entsprechend gegeben für die Justizverwaltungsleitung für ihren eigenen Bereich, das Obergericht, das Verwaltungsgericht, die verwaltungsunabhängigen Verwaltungsjustizbehörden und die Generalstaatsanwaltschaft; vorbehalten bleibt eine ausdrückliche Zuweisung der Zuständigkeit ausschliesslich an die Justizverwaltungsleitung.
+- b Wo im Nachfolgenden die Zuständigkeit der Amtsvorsteherinnen und Amtsvorsteher gegeben ist, legt die Justizverwaltungsleitung durch Reglement fest, welche Leitungsfunktionen der Gerichtsbehörden und der Staatsanwaltschaft die entsprechenden Zuständigkeiten innehaben.
 
 <sup>4</sup> Mit Bezug auf die Universität gilt: Wo im Nachfolgenden die Zuständigkeit der Direktionen und der Staatskanzlei gegeben ist, ist sie es entsprechend für die Universitätsleitung. Wo im Nachfolgenden die Zuständigkeit der Amtsvorsteherinnen und Amtsvorsteher gegeben ist, legt die Universitätsleitung durch Reglemente fest, welche universitären Leitungsfunktionen die entsprechenden Zuständigkeiten innehaben.
 
@@ -198,7 +198,7 @@ beschliesst:
 
 <sup>2</sup> Er umfasst insbesondere die Funktion, die Gehaltsklasse und den Beschäftigungsgrad aller Stellen.
 
-<sup>3</sup> Er wird nach den Vorgaben des Regierungsrates und der Justizleitung ausgestaltet und geführt.
+<sup>3</sup> Er wird nach den Vorgaben des Regierungsrates und der Justizverwaltungsleitung ausgestaltet und geführt.
 
 <sup>4</sup> Soweit keine Planstellen vorhanden sind, bewirtschaftet die zuständige Stelle der Bildungs- und Kulturdirektion bzw. der Direktion für Inneres und Justiz folgende Stellen im Rahmen der bewilligten Mittel gemäss der besonderen Gesetzgebung:
 
@@ -212,7 +212,7 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat legt im Budget die maximale Anzahl der Vollzeitstellen der Direktionen und der Staatskanzlei fest (maximaler Stellenbestand).
 
-<sup>2</sup> Mit Bezug auf die Gerichtsbehörden und die Staatsanwaltschaft beschliesst die Justizleitung über die maximale Anzahl Vollzeitstellen.
+<sup>2</sup> Mit Bezug auf die Gerichtsbehörden und die Staatsanwaltschaft beschliesst die Justizverwaltungsleitung über die maximale Anzahl Vollzeitstellen.
 
 <sup>2a</sup> Mit Bezug auf die Parlamenstdienste beschliesst das Büro des Grossen Rates über die maximale Anzahl der Vollzeitstellen.
 
@@ -220,7 +220,7 @@ beschliesst:
 
 <sup>2c</sup> Mit Bezug auf die Finanzkontrolle beschliesst die Vorsteherin oder der Vorsteher der Finanzkontrolle über die maximale Anzahl der Vollzeitstellen.
 
-<sup>3</sup> Über den maximalen Stellenbestand hinaus dürfen im Rahmen der Produktgruppensaldi weitere Stellen nur auf maximal fünf Jahre befristet geschaffen werden, sofern das betreffende Mitglied des Regierungsrates, die Staatsschreiberin oder der Staatsschreiber, die Justizleitung, die Generalsekretärin oder der Generalsekretär des Grossen Rates, die oder der Beauftragte für Datenschutz bzw. die Vorsteherin oder der Vorsteher der Finanzkontrolle zustimmt. Der Regierungsrat kann die Schaffung von befristeten Stellen einschränken, soweit nicht die Justizleitung betroffen ist.
+<sup>3</sup> Über den maximalen Stellenbestand hinaus dürfen im Rahmen der Produktgruppensaldi weitere Stellen nur auf maximal fünf Jahre befristet geschaffen werden, sofern das betreffende Mitglied des Regierungsrates, die Staatsschreiberin oder der Staatsschreiber, die Justizverwaltungsleitung, die Generalsekretärin oder der Generalsekretär des Grossen Rates, die oder der Beauftragte für Datenschutz bzw. die Vorsteherin oder der Vorsteher der Finanzkontrolle zustimmt. Der Regierungsrat kann die Schaffung von befristeten Stellen einschränken, soweit nicht die Justizverwaltungsleitung betroffen ist.
 
 <sup>4</sup> Die Einreihung von neu geschaffenen Stellen wird durch das Personalamt überprüft. Artikel 196 bleibt vorbehalten.
 
@@ -230,7 +230,7 @@ beschliesst:
 
 **Stellenbewirtschaftung**
 
-<sup>1</sup> Die Direktionen, die Staatskanzlei, die Justizleitung oder die ermächtigten Organisationseinheiten bewirtschaften ihren Stellenplan auf dem Personalinformationssystem.
+<sup>1</sup> Die Direktionen, die Staatskanzlei, die Justizverwaltungsleitung oder die ermächtigten Organisationseinheiten bewirtschaften ihren Stellenplan auf dem Personalinformationssystem.
 
 <sup>2</sup> …
 
@@ -265,7 +265,7 @@ beschliesst:
 
 - a der Regierungsrat für die in den Organisationsverordnungen aufgeführten Kaderstellen der Direktionen und der Staatskanzlei und für die in der besonderen Gesetzgebung bezeichneten Stellen,
 - b die Direktionen und die Staatskanzlei für alle übrigen Stellen in ihrem Zuständigkeitsbereich, soweit sie die Befugnis nicht durch Verordnung an ihnen unterstellte Organisationseinheiten übertragen,
-- c die Justizleitung, das Obergericht, das Verwaltungsgericht, die übrigen verwaltungsunabhängigen Verwaltungsjustizbehörden und die Generalstaatsanwaltschaft für ihr eigenes Personal sowie das Personal der von ihnen beaufsichtigten Gerichtsbehörden und Staatsanwaltschaften, soweit nicht Behördenmitglieder betroffen sind, wobei die Übertragung der Anstellungsbefugnis nach Artikel 19 Absätze 2a, 3 und 4 PG vorbehalten bleibt.
+- c die Justizverwaltungsleitung, das Obergericht, das Verwaltungsgericht, die übrigen verwaltungsunabhängigen Verwaltungsjustizbehörden und die Generalstaatsanwaltschaft für ihr eigenes Personal sowie das Personal der von ihnen beaufsichtigten Gerichtsbehörden und Staatsanwaltschaften, soweit nicht Behördenmitglieder betroffen sind, wobei die Übertragung der Anstellungsbefugnis nach Artikel 19 Absätze 2a, 3 und 4 PG vorbehalten bleibt.
 - d …
 
 <sup>2</sup> Für die Universität, die Berner Fachhochschule und die Pädagogische Hochschule werden die Zuständigkeiten in der besonderen Gesetzgebung festgelegt.
@@ -431,7 +431,7 @@ beschliesst:
 
 - a die Direktionen und die Staatskanzlei nach Anhörung der Finanzdirektion und unter Vorbehalt der Genehmigung durch den Regierungsrat für die in den Organisationsverordnungen aufgeführten Kaderstellen der Direktionen und der Staatskanzlei und für die in der besonderen Gesetzgebung bezeichneten Stellen,
 - b die Direktionen und die Staatskanzlei im Einvernehmen mit dem Personalamt für alle übrigen Stellen in ihrem Zuständigkeitsbereich, unter Vorbehalt von Buchstabe d,
-- c die Justizleitung, das Obergericht, das Verwaltungsgericht, die übrigen verwaltungsunabhängigen Verwaltungsjustizbehörden und die Generalstaatsanwaltschaft für ihren jeweiligen Bereich nach Anhörung des Personalamts sowie
+- c die Justizverwaltungsleitung, das Obergericht, das Verwaltungsgericht, die übrigen verwaltungsunabhängigen Verwaltungsjustizbehörden und die Generalstaatsanwaltschaft für ihren jeweiligen Bereich nach Anhörung des Personalamts sowie
 - d die Finanzdirektion im Einvernehmen mit der Direktion für Inneres und Justiz für alle Stellen gemäss Buchstabe b im Zuständigkeitsbereich der Finanzdirektion.
 
 <sup>4</sup> Das Personalamt bzw. die Direktion für Inneres und Justiz ist einzubeziehen, sobald sich eine einvernehmliche Auflösung abzeichnet.
@@ -517,7 +517,7 @@ beschliesst:
 
 <sup>1</sup> Die Richtpositionsumschreibung (RPU) definiert die im Anhang 1 aufgeführten Funktionen.
 
-<sup>2</sup> Das Personalamt erlässt die RPU in Zusammenarbeit mit den Direktionen, der Staatskanzlei und der Justizleitung und aktualisiert sie nach Bedarf.
+<sup>2</sup> Das Personalamt erlässt die RPU in Zusammenarbeit mit den Direktionen, der Staatskanzlei und der Justizverwaltungsleitung und aktualisiert sie nach Bedarf.
 
 #### Art. 36
 
@@ -547,7 +547,7 @@ beschliesst:
 
 <sup>1a</sup> Ist der Regierungsrat für die Anstellung zuständig, ist bei Abweichungen von den in Anhang 2 festgelegten Werten die Finanzdirektion anzuhören und keine Zustimmung des Personalamts erforderlich.
 
-<sup>2</sup> Für die nachfolgenden Funktionen legt die Justizleitung das Anfangsgehalt nach den Grundsätzen von Artikel 39, 40 und 40a fest. Bei Abweichung von den in Anhang 2 festgelegten Werten ist das Personalamt anzuhören:
+<sup>2</sup> Für die nachfolgenden Funktionen legt die Justizverwaltungsleitung das Anfangsgehalt nach den Grundsätzen von Artikel 39, 40 und 40a fest. Bei Abweichung von den in Anhang 2 festgelegten Werten ist das Personalamt anzuhören:
 
 - a hauptamtliche Mitglieder des Obergerichts und des Verwaltungsgerichts,
 - b Generalstaatsanwältin oder Generalstaatsanwalt und deren Stellvertreterinnen und Stellvertreter,
@@ -644,7 +644,7 @@ beschliesst:
 
 **Höhereinreihung**
 
-<sup>1</sup> Eine Stelle wird auf Antrag der Direktion, der Staatskanzlei oder der Justizleitung im Einvernehmen mit dem Personalamt höher eingereiht, wenn die Anforderungen und Belastungen wesentlich zugenommen haben. Die Bewertungskommission wird nicht beigezogen. Artikel 196 bleibt vorbehalten.
+<sup>1</sup> Eine Stelle wird auf Antrag der Direktion, der Staatskanzlei oder der Justizverwaltungsleitung im Einvernehmen mit dem Personalamt höher eingereiht, wenn die Anforderungen und Belastungen wesentlich zugenommen haben. Die Bewertungskommission wird nicht beigezogen. Artikel 196 bleibt vorbehalten.
 
 <sup>2</sup> Die Gehaltsstufe wird nach den Grundsätzen von Artikel 40 festgelegt.
 
@@ -654,7 +654,7 @@ beschliesst:
 
 **Tiefereinreihung**
 
-<sup>1</sup> Eine Stelle wird auf Antrag der Direktion, der Staatskanzlei oder der Justizleitung nach Anhörung der betroffenen Person im Einvernehmen mit dem Personalamt tiefer eingereiht, wenn die Anforderungen und Belastungen wesentlich kleiner geworden sind. Die Bewertungskommission wird nicht beigezogen. Artikel 196 bleibt vorbehalten.
+<sup>1</sup> Eine Stelle wird auf Antrag der Direktion, der Staatskanzlei oder der Justizverwaltungsleitung nach Anhörung der betroffenen Person im Einvernehmen mit dem Personalamt tiefer eingereiht, wenn die Anforderungen und Belastungen wesentlich kleiner geworden sind. Die Bewertungskommission wird nicht beigezogen. Artikel 196 bleibt vorbehalten.
 
 <sup>2</sup> Die Gehaltsstufe wird nach den Grundsätzen von Artikel 40 festgelegt.
 
@@ -692,13 +692,13 @@ beschliesst:
 
 <sup>2</sup> Die Bemessung von Gehaltsstufen darf nicht von der Gehaltsklasse, dem Beschäftigungsgrad, der Hierarchiestufe, dem Arbeitsort oder dem Geschlecht abhängig gemacht werden.
 
-<sup>3</sup> Das Personalamt wertet zuhanden des Regierungsrates und der Justizleitung periodisch die Umsetzung des individuellen Gehaltsaufstiegs anonymisiert aus. Der Regierungsrat und die Justizleitung treffen gegebenenfalls die erforderlichen Massnahmen zur Erreichung der Ziele nach Absatz 2.
+<sup>3</sup> Das Personalamt wertet zuhanden des Regierungsrates und der Justizverwaltungsleitung periodisch die Umsetzung des individuellen Gehaltsaufstiegs anonymisiert aus. Der Regierungsrat und die Justizverwaltungsleitung treffen gegebenenfalls die erforderlichen Massnahmen zur Erreichung der Ziele nach Absatz 2.
 
 #### Art. 46
 
 **Umsetzung**
 
-<sup>1</sup> Der Regierungsrat legt den Umfang der jeweils für den individuellen Gehaltsaufstieg verfügbaren Mittel fest und teilt sie auf die Direktionen, die Staatskanzlei und auf die Justizleitung auf (Art. 75 PG).
+<sup>1</sup> Der Regierungsrat legt den Umfang der jeweils für den individuellen Gehaltsaufstieg verfügbaren Mittel fest und teilt sie auf die Direktionen, die Staatskanzlei und auf die Justizverwaltungsleitung auf (Art. 75 PG).
 
 <sup>2</sup> Der Aufstieg in eine höhere Gehaltsstufe erfolgt auf den 1. Januar des folgenden Jahres, sofern auf Grund der Art und Dauer des Arbeitsverhältnisses eine systematische Beurteilung von Leistung und Verhalten durchgeführt werden konnte.
 
@@ -837,6 +837,8 @@ beschliesst:
 
 <sup>3</sup> Dauert eine krankheits- oder unfallbedingte Dienstabwesenheit länger an, sind mindestens monatlich weitere Zeugnisse einzureichen.
 
+<sup>4</sup> Der Regierungsrat kann in besonderen Fällen durch Beschluss die Frist zur Einreichung eines Arztzeugnisses erstrecken oder ganz davon absehen.
+
 #### Art. 58
 
 **Unterstützung bei längerer Abwesenheit**
@@ -855,7 +857,7 @@ beschliesst:
 
 **…**
 
-### 4.6 Gehaltsausrichtung bei Mutterschafts-, Vaterschafts- und Adoptionsurlaub
+### 4.6 Gehaltsausrichtung bei Mutterschaftsurlaub, Urlaub des andern Elternteils und Adoptionsurlaub
 
 #### Art. 60
 
@@ -865,13 +867,15 @@ beschliesst:
 
 <sup>1a</sup> Verlängert sich der Anspruch auf Mutterschaftsentschädigung nach Artikel 16c des Bundesgesetzes vom 25. September 1952 über den Erwerbsersatz (Erwerbsersatzgesetz, EOG)[^60-1] aufgrund eines Spitalaufenthalts des Neugeborenen, verlängert sich der Anspruch auf bezahlten Mutterschaftsurlaub nach Absatz 1 entsprechend.
 
+<sup>1b</sup> Im Falle des Todes des andern Elternteils während der sechs Monate nach der Geburt des Kindes hat die Mitarbeiterin Anspruch auf zehn Arbeitstage zusätzlichen bezahlten Urlaub. Sie kann diesen Urlaub zusammenhängend oder gestaffelt innert sechs Monaten ab dem Tag nach dem Tod beziehen. Nicht bezogener Urlaub verfällt entschädigungslos.
+
 <sup>2</sup> Der Anspruch nach Absatz 1 entsteht auch, wenn das Kind nicht lebensfähig geboren wird, die Schwangerschaft aber mindestens 23 Wochen gedauert hat.
 
 <sup>3</sup> Der Mutterschaftsurlaub beginnt spätestens am Tag der Geburt und frühestens zwei Wochen vor dem mutmasslichen Geburtstermin. Krankheit, Unfall und unbezahlter Urlaub unterbrechen den Mutterschaftsurlaub nicht.
 
 <sup>4</sup> …
 
-<sup>5</sup> Wird die Arbeit während der Urlaubsdauer wieder aufgenommen, verfällt der Mutterschaftsurlaub, soweit er noch nicht bezogen ist.
+<sup>5</sup> Wird die Arbeit während der Urlaubsdauer wieder aufgenommen, verfällt der Mutterschaftsurlaub, soweit er noch nicht bezogen ist. Ausgenommen davon ist der zusätzliche bezahlte Urlaub nach Absatz 1b.
 
 <sup>6</sup> …
 
@@ -881,17 +885,36 @@ beschliesst:
 
 #### Art. 60a
 
-**Vaterschafts- und Adoptionsurlaub**
+**Urlaub des andern Elternteils und Adoptionsurlaub**
 
-<sup>1</sup> Männliches Personal hat anlässlich der Geburt eines eigenen Kindes Anspruch auf bezahlten Vaterschaftsurlaub von zehn Arbeitstagen.
+<sup>1</sup> Anlässlich der Geburt eines Kindes haben Anspruch auf einen bezahlten Urlaub von zehn Arbeitstagen
+
+- a der Mitarbeiter, der im Zeitpunkt der Geburt des Kindes dessen rechtlicher Vater ist;
+- b die Mitarbeiterin, die im Zeitpunkt der Geburt des Kindes der rechtliche andere Elternteil ist.
 
 <sup>1a</sup> Der Anspruch nach Absatz 1 entsteht auch, wenn das Kind nicht lebensfähig geboren wird, die Schwangerschaft aber mindestens 23 Wochen gedauert hat.
 
 <sup>2</sup> Mitarbeiterinnen und Mitarbeiter haben Anspruch auf einen bezahlten Urlaub von zehn Arbeitstagen, wenn sie ein Kind adoptieren.
 
-<sup>3</sup> Der Vaterschafts- und Adoptionsurlaub ist zusammenhängend oder gestaffelt innert sechs Monaten nach erfolgter Geburt oder bewilligter Aufnahme des Kindes zur späteren Adoption zu beziehen. Nicht bezogener Vaterschafts- oder Adoptionsurlaub verfällt entschädigungslos.
+<sup>3</sup> …
 
-<sup>4</sup> Die bundesrechtliche Vaterschaftsentschädigung fällt an den Kanton. Wird das entsprechende Formular nicht abgegeben, wird das Gehalt um die dem Kanton entgehende Vaterschaftsentschädigung gekürzt.
+<sup>3a</sup> Der Urlaub des andern Elternteils ist zusammenhängend oder gestaffelt innert sechs Monaten nach erfolgter Geburt zu beziehen. Diese Frist steht während eines Urlaubs nach Artikel 60a1 still. Nicht bezogener Urlaub verfällt entschädigungslos.
+
+<sup>3b</sup> Der Adoptionsurlaub ist zusammenhängend oder gestaffelt innert einem Jahr nach bewilligter Aufnahme des Kindes zur späteren Adoption zu beziehen. Nicht bezogener Adoptionsurlaub verfällt entschädigungslos.
+
+<sup>4</sup> Die bundesrechtliche Entschädigung des andern Elternteils oder die Adoptionsentschädigung fällt an den Kanton. Wird das entsprechende Formular nicht abgegeben, wird das Gehalt um die dem Kanton entgehende Entschädigung des andern Elternteils oder Adoptionsentschädigung gekürzt.
+
+#### Art. 60a1
+
+**Urlaub des andern Elternteils im Falle des Todes der Mutter**
+
+<sup>1</sup> Stirbt die Mutter am Tag der Niederkunft oder während der 14 Wochen danach, so hat der andere Elternteil Anspruch auf einen bezahlten Urlaub von 14 Wochen. Dieser Urlaub muss ab dem Tag nach dem Tod an aufeinanderfolgenden Tagen bezogen werden.
+
+<sup>2</sup> Bei einem Spitalaufenthalt des Neugeborenen nach Artikel 60 Absatz 1a verlängert sich der Urlaub nach Absatz 1 entsprechend.
+
+<sup>3</sup> Wird die Arbeit während der Urlaubsdauer wieder aufgenommen, verfällt der Urlaub gemäss den Absätzen 1 und 2, soweit er noch nicht bezogen ist.
+
+<sup>4</sup> Die bundesrechtliche Entschädigung des andern Elternteils im Falle des Todes der Mutter fällt an den Kanton. Wird das entsprechende Formular nicht abgegeben, wird das Gehalt um die dem Kanton entgehende Entschädigung gekürzt.
 
 #### Art. 60b
 
@@ -1024,6 +1047,8 @@ beschliesst:
 **Bezug der EO-Entschädigung**
 
 <sup>1</sup> Die gesetzliche Erwerbsausfallentschädigung fällt, soweit sie durch das Gehalt kompensiert wird, an den Kanton. Der während der Dienstleistung zu viel bezahlte Unfallversicherungsbeitrag wird nicht zurückerstattet.
+
+<sup>2</sup> Bei Einsätzen im Rahmen von «Jugend und Sport» während den Ferien oder an arbeitsfreien Tagen steht die Erwerbsausfallentschädigung der Mitarbeiterin oder dem Mitarbeiter zu.
 
 ### 4.8 Gehalt für Personal in Ausbildung und Personal bis zum 18. Altersjahr
 
@@ -1277,7 +1302,7 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat legt den Anteil des budgetierten Personalaufwands fest, der für die Ausrichtung von Leistungsprämien zur Verfügung steht. Die Festlegung des Regierungsrates gilt auch für die Gerichtsbehörden und die Staatsanwaltschaft.
 
-<sup>2</sup> Die verfügbaren Mittel werden auf die einzelnen Organisationseinheiten nach Massgabe der jeweiligen Personalbudgets verteilt.
+<sup>2</sup> Die verfügbaren Mittel werden auf die einzelnen Organisationseinheiten nach Massgabe der jeweiligen Personalbudgets verteilt. Der Regierungsrat kann in besonderen Fällen durch Beschluss die Höhe und Verteilung der Mittel abweichend regeln.
 
 <sup>3</sup> Die Auszahlung erfolgt durch das Personalamt gestützt auf die Meldung der Direktionen und der Staatskanzlei.
 
@@ -1407,7 +1432,7 @@ beschliesst:
 
 **Grundsatz**
 
-<sup>1</sup> Muss aus dienstlichen Gründen eine Hauptmahlzeit auswärts eingenommen werden, besteht Anspruch auf eine Entschädigung. Artikel 105 bleibt vorbehalten.
+<sup>1</sup> Für eine Hauptmahlzeit wird eine Entschädigung ausgerichtet, wenn die Verpflegungskosten aus dienstlichen Gründen entstanden sind.
 
 <sup>2</sup> Muss bei dienstlicher Abwesenheit vor 6.00 Uhr oder nach 19.00 Uhr eine weitere Mahlzeit eingenommen werden, wird die Entschädigung erhöht.
 
@@ -1424,8 +1449,6 @@ beschliesst:
 #### Art. 105
 
 **Örtlicher Geltungsbereich**
-
-<sup>1</sup> Ist ein Auftrag am Arbeitsort oder in dessen Umkreis bis zu zehn Wegkilometern zu erledigen, wird eine Entschädigung gemäss Artikel 103 nur ausgerichtet, wenn aus dienstlichen Gründen Verpflegungskosten entstanden sind. Gleiches gilt, wenn das Ziel der Dienstreise mit dem Wohnort der Mitarbeiterinnen und Mitarbeiter zusammenfällt.
 
 #### Art. 106
 
@@ -1475,7 +1498,7 @@ beschliesst:
 
 <sup>1</sup> Für die Benützung der öffentlichen Verkehrsmittel werden die entsprechenden Billettkosten vergütet.
 
-<sup>2</sup> Können die Fahrkosten in öffentlichen Verkehrsmitteln durch die Verwendung von Mehrfahrtenkarten herabgesetzt werden, dürfen keine Einzelbillette verrechnet werden. Wird eine Herabsetzung der Fahrkosten in öffentlichen Verkehrsmitteln durch die Verwendung von Monats-, Jahres-, Halbtax- oder Generalabonnementen erreicht, können die Kosten für diese Abonnemente ganz oder teilweise übernommen werden.
+<sup>2</sup> Können die Fahrkosten in öffentlichen Verkehrsmitteln durch die Verwendung von Monats-, Jahres-, Halbtax- oder Generalabonnementen herabgesetzt werden, können die Kosten für diese Abonnemente ganz oder teilweise übernommen werden.
 
 <sup>3</sup> In den Gehaltsklassen 19 bis 30 eingereihte Mitarbeiterinnen und Mitarbeiter können bei Fahrten mit der Bahn oder dem Schiff Billette erster Klasse verrechnen. Die sie begleitenden Mitarbeiterinnen und Mitarbeiter in tieferen Gehaltsklassen haben denselben Anspruch.
 
@@ -1532,6 +1555,12 @@ beschliesst:
 **Vorstellungskosten von Kandidatinnen und Kandidaten**
 
 <sup>1</sup> Eingeladenen Kandidatinnen und Kandidaten können erhebliche Reise- und Aufenthaltskosten für die persönliche Vorstellung nach Ermessen der Anstellungsbehörde ganz oder teilweise vergütet werden.
+
+### 5.3.6 Weitere Auslagen
+
+#### Art. 114d
+
+<sup>1</sup> Die Direktion, die Staatskanzlei oder die ermächtigte Organisationseinheit kann den Ersatz von weiteren Auslagen bewilligen, sofern diese für die Aufgabenerfüllung notwendig sind.
 
 ### 5.4
 
@@ -1697,13 +1726,13 @@ beschliesst:
 
 **Jahresarbeitszeitsaldo**
 
-<sup>1</sup> Am Ende einer einjährigen Abrechnungsperiode darf ein Saldo von höchstens 100 Plus- oder Minusstunden auf die neue Abrechnungsperiode übertragen werden.
+<sup>1</sup> Am Ende eines Kalenderjahres darf ein Saldo von höchstens 100 Plus- oder Minusstunden auf das neue Kalenderjahr übertragen werden.
 
-<sup>2</sup> Wird auf Ende eines Kalenderjahres der festgelegte Höchstsaldo von 100 Plusstunden überschritten, erfolgt eine Kompensation in Geld bis auf einen Restsaldo von 50 Plusstunden, sofern ein Antrag zur Auszahlung durch das Amt gestellt wird und das betreffende Mitglied des Regierungsrates, die Staatsschreiberin oder der Staatsschreiber, die oder der Vorsitzende der Justizleitung, die Generalsekretärin oder der Generalsekretär des Grossen Rates, die oder der Beauftragte für Datenschutz, die Vorsteherin oder der Vorsteher der Finanzkontrolle, die Rektorin oder der Rektor der Universität, die Rektorin oder der Rektor der Berner Fachhochschule beziehungsweise die Rektorin oder der Rektor der Pädagogischen Hochschule der Auszahlung zustimmt. Wird die Zustimmung verweigert, verfallen die den zulässigen Höchstsaldo übersteigenden Plusstunden entschädigungslos.
+<sup>2</sup> Wird auf Ende eines Kalenderjahres der festgelegte Höchstsaldo von 100 Plusstunden überschritten, erfolgt eine Kompensation in Geld bis auf einen Restsaldo von 50 Plusstunden, sofern ein Antrag zur Auszahlung durch das Amt gestellt wird und das betreffende Mitglied des Regierungsrates, die Staatsschreiberin oder der Staatsschreiber, die Justizverwaltungsleitung, die Generalsekretärin oder der Generalsekretär des Grossen Rates, die oder der Beauftragte für Datenschutz, die Vorsteherin oder der Vorsteher der Finanzkontrolle, die Rektorin oder der Rektor der Universität, die Rektorin oder der Rektor der Berner Fachhochschule bzw. die Rektorin oder der Rektor der Pädagogischen Hochschule der Auszahlung zustimmt. Wird die Zustimmung verweigert, verfallen die den zulässigen Höchstsaldo übersteigenden Plusstunden entschädigungslos.
 
 <sup>3</sup> Statt einer Kompensation in Geld kann unter denselben Bedingungen wie in Absatz 2 ein Übertrag des Zeitguthabens auf das Folgejahr erfolgen. Dafür muss zwingend eine Abbauvereinbarung für die den Höchstsaldo überschreitenden Stunden vorliegen.
 
-<sup>4</sup> Überschreitet der Saldo am Ende einer Abrechnungsperiode die festgelegte Höchstzahl an Minusstunden nach Absatz 1, können die den Saldo überschreitenden Minusstunden im Einverständnis zwischen Vorgesetzten und Mitarbeiterinnen und Mitarbeitern in Form eines Gehaltsabzugs verrechnet werden.
+<sup>4</sup> Überschreitet der Saldo am Ende des Kalenderjahres die festgelegte Höchstzahl an Minusstunden nach Absatz 1, können die den Saldo überschreitenden Minusstunden im Einverständnis zwischen Vorgesetzten und Mitarbeiterinnen und Mitarbeitern in Form eines Gehaltsabzugs verrechnet werden.
 
 <sup>5</sup> Findet keine Verrechnung der Minusstunden nach Absatz 4 statt, ist zwingend zu vereinbaren, wann die den Saldo überschreitenden Minusstunden im Folgejahr geleistet werden.
 
@@ -1711,11 +1740,11 @@ beschliesst:
 
 **Ausgleich der Arbeitszeitsaldi**
 
-<sup>1</sup> Ein positiver oder negativer Arbeitszeitsaldo ist bis zum Wechsel des Arbeitszeitmodells (Vertrauensarbeitszeit), zum Übertritt in eine andere Organisationseinheit, zur Beendigung des Arbeitsverhältnisses oder zum Austritt aus dem Kantonsdienst möglichst auszugleichen. Artikel 160g bleibt vorbehalten.
+<sup>1</sup> Ein positiver oder negativer Arbeitszeitsaldo ist bis zum Wechsel des Arbeitszeitmodells (Vertrauensarbeitszeit), zum Übertritt in eine andere Organisationseinheit oder zur Beendigung des Arbeitsverhältnisses möglichst auszugleichen. Artikel 160g bleibt vorbehalten.
 
-<sup>2</sup> Ein positiver Saldo wird finanziell auf der Basis des aktuellen monatlichen Bruttogehalts einschliesslich des Anteils des 13. Monatsgehalts und ohne allfällige Zulagen abgegolten, wenn ein Abbau der Plusstunden aus dienstlichen Gründen, wegen Krankheit, Unfall oder Tod bis zum Wechsel des Arbeitszeitmodells (Vertrauensarbeitszeit), zum Übertritt in eine andere Organisationseinheit, zur Beendigung des Arbeitsverhältnisses oder zum Austritt aus dem Kantonsdienst nicht möglich war.
+<sup>2</sup> Ein positiver Saldo wird finanziell auf der Basis des aktuellen monatlichen Bruttogehalts einschliesslich des Anteils des 13. Monatsgehalts und ohne allfällige Zulagen abgegolten, wenn ein Abbau der Plusstunden aus dienstlichen Gründen, wegen Krankheit, Unfall oder Tod bis zum Wechsel des Arbeitszeitmodells (Vertrauensarbeitszeit), zum Übertritt in eine andere Organisationseinheit oder zur Beendigung des Arbeitsverhältnisses nicht möglich war.
 
-<sup>3</sup> Besteht beim Wechsel des Arbeitszeitmodells (Vertrauensarbeitszeit), beim Übertritt in eine andere Organisationseinheit, bei der Beendigung des Arbeitsverhältnisses oder beim Austritt aus dem Kantonsdienst ein negativer Saldo, wird das letzte Gehalt gekürzt. Das zu viel ausgerichtete Gehalt wird auf der Basis des aktuellen monatlichen Bruttogehalts einschliesslich des Anteils des 13. Monatsgehalts und allfälliger Zulagen, zurückgefordert.
+<sup>3</sup> Besteht beim Wechsel des Arbeitszeitmodells (Vertrauensarbeitszeit), beim Übertritt in eine andere Organisationseinheit oder bei der Beendigung des Arbeitsverhältnisses ein negativer Saldo, wird das letzte Gehalt gekürzt. Das zu viel ausgerichtete Gehalt wird auf der Basis des aktuellen monatlichen Bruttogehalts einschliesslich des Anteils des 13. Monatsgehalts und ohne allfällige Zulagen verrechnet bzw. zurückgefordert.
 
 #### Art. 136d
 
@@ -1747,7 +1776,7 @@ beschliesst:
 
 <sup>1</sup> Ausgleichstage nach Artikel 136e Absatz 1 Buchstabe b sind im laufenden Kalenderjahr zu beziehen.
 
-<sup>2</sup> Ist ein Bezug aufgrund von Krankheit, Unfall oder Mutterschaftsurlaub nicht möglich, sind die Ausgleichstage im Folgejahr zu beziehen. Der Nachbezug von Ausgleichstagen bedarf der Zustimmung des betreffenden Mitglieds des Regierungsrates, der Staatsschreiberin oder des Staatsschreibers, der oder des Vorsitzenden der Justizleitung, der Generalsekretärin oder des Generalsekretärs des Grossen Rates, der oder des Beauftragten für Datenschutz oder der Vorsteherin oder des Vorstehers der Finanzkontrolle.
+<sup>2</sup> Ist ein Bezug aufgrund von Krankheit, Unfall oder Mutterschaftsurlaub nicht möglich, sind die Ausgleichstage im Folgejahr zu beziehen. Der Nachbezug von Ausgleichstagen bedarf der Zustimmung des betreffenden Mitglieds des Regierungsrates, der Staatsschreiberin oder des Staatsschreibers, der oder des Vorsitzenden der Justizverwaltungsleitung, der Generalsekretärin oder des Generalsekretärs des Grossen Rates, der oder des Beauftragten für Datenschutz oder der Vorsteherin oder des Vorstehers der Finanzkontrolle.
 
 <sup>3</sup> Werden die Ausgleichstage aus anderen Gründen nicht bezogen oder wird der Nachbezug nicht bewilligt, verfallen diese entschädigungslos. Gleichermassen verfallen Ausgleichstage, wenn sie im Folgejahr oder bei Austritt aus dem Kantonsdienst nicht bezogen wurden.
 
@@ -1789,7 +1818,11 @@ beschliesst:
 
 <sup>1</sup> Die Anstellungsbehörde entscheidet, ob eine Funktion oder ein Arbeitspensum im Jobsharing besetzt wird.
 
-<sup>2</sup> Die Beurteilung erfolgt nach folgenden Gesichtspunkten: Art der Funktion nach Arbeitsabläufen und -inhalten, Bedarf an Informationsfluss unter den Beteiligten, Möglichkeit zur gemeinsamen Wahrnehmung der Verantwortung und der Kompetenzen sowie die Eignung der sich bewerbenden Personen.
+<sup>2</sup> Die Beurteilung erfolgt nach den folgenden Gesichtspunkten:
+
+- a Anforderungen der Stelle,
+- b Möglichkeiten zur gemeinsamen Wahrnehmung der Verantwortung und der Kompetenzen,
+- c Eignung der sich bewerbenden Personen.
 
 #### Art. 142
 
@@ -1798,6 +1831,16 @@ beschliesst:
 <sup>1</sup> Mit den Jobsharing-Partnerinnen und -Partnern werden separate, voneinander unabhängige Arbeitsverhältnisse begründet. Dienstrechtlich sind sie den teilzeitlichen Arbeitsverhältnissen gleichgestellt.
 
 <sup>2</sup> In einer Zusatzvereinbarung sind insbesondere zu regeln: Arbeitszeiten, Arbeitsplatz, Aufgabenteilung mit gemeinsamer oder getrennter Verantwortung, Stellvertretung sowie Voraussetzungen zur Beendigung des Jobsharing.
+
+#### Art. 142a
+
+**Topsharing**
+
+<sup>1</sup> Bei einem Topsharing wird eine Führungsfunktion durch die Anstellungsbehörde auf zwei Personen aufgeteilt.
+
+<sup>2</sup> Die Führungsfunktion kann im Umfang von bis zu 120 Prozent besetzt werden.
+
+<sup>3</sup> Die Regeln für das Jobsharing gemäss Artikel 140 bis 142 sind sinngemäss anwendbar.
 
 ### 6.2 Ferien
 
@@ -1811,13 +1854,9 @@ beschliesst:
 
 **Ferienanspruch**
 
-<sup>1</sup> Der Ferienanspruch beträgt für Mitarbeiterinnen und Mitarbeiter in den Gehaltsklassen 1 bis 18 pro Kalenderjahr:
+<sup>1</sup> …
 
-- a 25 Arbeitstage bis und mit dem Kalenderjahr, in dem das 49. Altersjahr vollendet wird,
-- b 28 Arbeitstage ab Beginn des Kalenderjahrs, in dem das 50. Altersjahr vollendet wird, sowie bis und mit dem Kalenderjahr, in dem das 20. Altersjahr vollendet wird,
-- c 33 Arbeitstage ab Beginn des Kalenderjahrs, in dem das 60. Altersjahr vollendet wird.
-
-<sup>2</sup> Der Ferienanspruch beträgt für Mitarbeiterinnen und Mitarbeiter in den Gehaltsklassen 19 bis 30 pro Kalenderjahr:
+<sup>2</sup> Der Ferienanspruch pro Kalenderjahr beträgt:
 
 - a 25 Arbeitstage bis und mit dem Kalenderjahr, in dem das 44. Altersjahr vollendet wird,
 - b 28 Arbeitstage ab Beginn des Kalenderjahrs, in dem das 45. Altersjahr vollendet wird, sowie bis und mit dem Kalenderjahr, in dem das 20. Altersjahr vollendet wird,
@@ -1841,7 +1880,7 @@ beschliesst:
 
 <sup>2</sup> Bei Militärdienst, Zivilschutzdienst und Zivildienst wird für die Ermittlung des Umfangs der Ferienkürzung nach Absatz 1 nur auf die Arbeitsabwesenheit abgestellt, deren Dauer einen Monat übersteigt.
 
-<sup>3</sup> Bezahlter Mutterschaftsurlaub nach Artikel 60, bezahlter Vaterschafts- und Adoptionsurlaub nach Artikel 60a, bezahlter Betreuungsurlaub nach Artikel 156a, Arbeitsverhinderung wegen eines dienstlich erlittenen Unfalls und Berufskrankheit sind für die Kürzung nicht anzurechnen.
+<sup>3</sup> Bezahlter Mutterschaftsurlaub nach Artikel 60, bezahlter Urlaub des andern Elternteils und Adoptionsurlaub nach Artikel 60a, Urlaub des andern Elternteils im Falle des Todes der Mutter nach Artikel 60a1, bezahlter Betreuungsurlaub nach Artikel 156a, Arbeitsverhinderung wegen eines dienstlich erlittenen Unfalls und Berufskrankheit sind für die Kürzung nicht anzurechnen.
 
 <sup>4</sup> …
 
@@ -1900,9 +1939,9 @@ beschliesst:
 
 <sup>1</sup> Ferienguthaben sind bis zum Übertritt in eine andere Organisationseinheit oder bis zur Beendigung des Arbeitsverhältnisses möglichst auszugleichen. Artikel 160g bleibt vorbehalten.
 
-<sup>2</sup> Ferienguthaben werden auf der Basis des aktuellen monatlichen Bruttogehalts, einschliesslich des Anteils des 13. Monatsgehalts und ohne allfällige Zulagen, abgegolten, wenn ein Abbau aus dienstlichen Gründen, wegen Krankheit, Unfall oder Tod bis zum Übertritt oder bis zur Beendigung des Arbeitsverhältnisses nicht möglich war.
+<sup>2</sup> Ferienguthaben werden auf der Basis des aktuellen monatlichen Bruttogehalts einschliesslich des Anteils des 13. Monatsgehalts und ohne allfällige Zulagen abgegolten, wenn ein Abbau aus dienstlichen Gründen, wegen Krankheit, Unfall oder Tod bis zum Übertritt oder bis zur Beendigung des Arbeitsverhältnisses nicht möglich war.
 
-<sup>3</sup> Beim Übertritt oder bei der Beendigung des Arbeitsverhältnisses zu viel bezogene Ferien werden mit dem letzten Gehalt auf der Basis des aktuellen monatlichen Bruttogehalts, einschliesslich des Anteils des 13. Monatsgehalts und ohne allfällige Zulagen, verrechnet.
+<sup>3</sup> Beim Übertritt oder bei der Beendigung des Arbeitsverhältnisses zu viel bezogene Ferien werden mit dem letzten Gehalt auf der Basis des aktuellen monatlichen Bruttogehalts einschliesslich des Anteils des 13. Monatsgehalts und ohne allfällige Zulagen verrechnet bzw. zurückgefordert.
 
 ### 6.3 Arbeitsfreie Tage
 
@@ -1946,6 +1985,8 @@ beschliesst:
 
 <sup>2</sup> Allfällige jährliche Hauptreinigungen in den Dienststellen sind so zu organisieren, dass die Räumlichkeiten nicht während der ordentlichen Arbeitstage (Montag bis Freitag) geschlossen werden müssen.
 
+<sup>3</sup> Der Regierungsrat kann in besonderen Fällen durch Beschluss den vorgängigen Abbau von positiven Zeitguthaben anordnen.
+
 ### 6.4 Urlaub
 
 #### Art. 155
@@ -1965,7 +2006,7 @@ beschliesst:
 - b ein Arbeitstag pro Kalenderjahr wegen eigener Heirat oder eigenen Wohnungswechsels,
 - c ein Arbeitstag pro Kalenderjahr wegen obligatorischer oder freiwilliger Teilnahme an der militärischen Orientierungsveranstaltung oder Abgabe des persönlichen Materials bei Entlassung aus der Militärdienstpflicht.
 
-<sup>2</sup> Der Regierungsrat kann in besonderen Fällen, insbesondere bei Naturereignissen, einem bestimmten Personenkreis einen bezahlten Kurzurlaub im Rahmen der benötigten Zeit generell bewilligen.
+<sup>2</sup> Der Regierungsrat kann in besonderen Fällen durch Beschluss einem bestimmten Personenkreis einen bezahlten Kurzurlaub im Rahmen der benötigten Zeit generell bewilligen. Er kann den vorgängigen Abbau von positiven Zeitguthaben anordnen.
 
 <sup>3</sup> …
 
@@ -1976,7 +2017,7 @@ beschliesst:
 - c bis fünf Arbeitstage für Mitarbeiterinnen und Mitarbeiter bis zum vollendeten 30. Altersjahr als Gruppenleiterin oder -leiter von Kursen und Lagern im Rahmen von ausserschulischer Jugendarbeit,
 - d bis drei Arbeitstage für Mitglieder der Geschäftsleitung bzw. des Sektionsvorstands von Verbänden des Kantonspersonals,
 - e bis drei Arbeitstage zur Teilnahme an Delegiertenversammlungen sowie an Versammlungen von Unter- bzw. Teilverbänden oder Sektionen von Verbänden des Personals der Kantonsverwaltung und dessen Vorsorgeeinrichtungen,
-- f nach Massgabe von Artikel 160c zum Bezug von Langzeitguthaben.
+- f nach Massgabe von Artikel 160c zum Bezug von Langzeitkontoguthaben.
 
 <sup>5</sup> Die Amtsvorsteherin oder der Amtsvorsteher kann Mitarbeiterinnen und Mitarbeitern, deren Arbeitsverhältnis von der Anstellungsbehörde aufgelöst worden ist, bezahlten Urlaub im erforderlichen Umfang für Vorstellungsgespräche gewähren, höchstens jedoch einen halben Arbeitstag pro Woche. Mitarbeiterinnen und Mitarbeitern, die von einer Stellenaufhebung betroffen sind, kann der Urlaub bereits gewährt werden, sobald sie über die geplante Beendigung des Arbeitsverhältnisses informiert worden sind.
 
@@ -2050,9 +2091,13 @@ beschliesst:
 
 <sup>1</sup> Das LZK-Guthaben wird mit nicht bezogenen Ferientagen und allfälligen Treueprämien gebildet. Der maximal zulässige Saldo beträgt 50 Tage.
 
+<sup>1a</sup> Erfolgt in einem Kalenderjahr eine Reduktion des Beschäftigungsgrads, darf der maximal zulässige Saldo nach Abs. 1 auf Ende desselben Kalenderjahrs einmalig überschritten werden.
+
 <sup>2</sup> Der vorgeschriebene Mindestbezug von freien Tagen und Ferientagen gemäss Artikel 149 Absätze 2 und 3 bleibt vorbehalten.
 
-<sup>3</sup> Wird auf Ende eines Kalenderjahres der zulässige Höchstsaldo für das LZK-Guthaben von 50 Tagen überschritten, verfällt das den Höchstsaldo übersteigende LZK-Guthaben entschädigungslos.
+<sup>3</sup> Wird auf Ende eines Kalenderjahres der zulässige Höchstsaldo für das LZK-Guthaben von 50 Tagen überschritten, verfällt das den Höchstsaldo übersteigende LZK-Guthaben entschädigungslos. Absatz 1a bleibt vorbehalten.
+
+<sup>4</sup> Der Regierungsrat kann in besonderen Fällen durch Beschluss einem bestimmten Personenkreis den zulässigen Höchstsaldo für das LZK-Guthaben befristet erhöhen.
 
 #### Art. 160c
 
@@ -2094,7 +2139,7 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat kann bei Verschiebungen ganzer Organisationseinheiten in Abweichung von den Artikeln 136c, 150 und 160c die einheitliche Übertragung von bestehenden Jahresarbeitszeit-, Ferien- und Langzeitkontoguthaben von Mitarbeiterinnen und Mitarbeitern mit den entsprechenden Rückstellungen durch Beschluss anordnen.
 
-<sup>2</sup> Mit Bezug auf die Gerichtsbehörden und die Staatsanwaltschaft beschliesst die Justizleitung über die einheitliche Übertragung von Zeitguthaben gemäss Absatz 1. Im Bereich der Hochschulen entscheidet die Rektorin oder der Rektor der Universität, die Rektorin oder der Rektor der Berner Fachhochschule bzw. die Rektorin oder der Rektor der Pädagogischen Hochschule.
+<sup>2</sup> Mit Bezug auf die Gerichtsbehörden und die Staatsanwaltschaft beschliesst die Justizverwaltungsleitung über die einheitliche Übertragung von Zeitguthaben gemäss Absatz 1. Im Bereich der Hochschulen entscheidet die Rektorin oder der Rektor der Universität, die Rektorin oder der Rektor der Berner Fachhochschule bzw. die Rektorin oder der Rektor der Pädagogischen Hochschule.
 
 ## 7 Mitarbeiterförderung
 
@@ -2468,7 +2513,7 @@ beschliesst:
 
 **Zusammensetzung**
 
-<sup>1</sup> Die Direktionen, die Staatskanzlei, die Justizleitung, die Universität, die Berner Fachhochschule und die Pädagogische Hochschule delegieren je eine Vertretung in die Bewertungskommission.
+<sup>1</sup> Die Direktionen, die Staatskanzlei, die Justizverwaltungsleitung, die Universität, die Berner Fachhochschule und die Pädagogische Hochschule delegieren je eine Vertretung in die Bewertungskommission.
 
 <sup>2</sup> Die Finanzdirektion stellt zusätzlich das Präsidium.
 
@@ -2494,7 +2539,7 @@ beschliesst:
 
 <sup>1</sup> Ist eine Mitarbeiterin oder ein Mitarbeiter der Ansicht, sie oder er sei unter Berücksichtigung der Anforderungen und der Belastungen nicht in der richtigen Funktion eingereiht, kann sie oder er auf dem Dienstweg bei der Bewertungskommission ein begründetes Gesuch um Einreihung in eine andere Funktion von Anhang 1 stellen.
 
-<sup>2</sup> Die Direktion, die Staatskanzlei oder die Justizleitung leitet das Gesuch, ergänzt durch ihre Stellungnahme, an die Bewertungskommission weiter.
+<sup>2</sup> Die Direktion, die Staatskanzlei oder die Justizverwaltungsleitung leitet das Gesuch, ergänzt durch ihre Stellungnahme, an die Bewertungskommission weiter.
 
 <sup>3</sup> Die Bewertungskommission beurteilt das Neueinreihungsgesuch und teilt der Gesuchstellerin oder dem Gesuchsteller das kurz begründete Ergebnis mit.
 
@@ -2644,7 +2689,7 @@ beschliesst:
 
 <sup>2</sup> Bei Mitarbeiterinnen und Mitarbeitern, die vom Volk oder vom Grossen Rat gewählt werden, handelt anstelle der Anstellungsbehörde
 
-- a die Justizleitung für die Mitglieder der Gerichtsbehörden und der Staatsanwaltschaft,
+- a die Justizverwaltungsleitung für die Mitglieder der Gerichtsbehörden und der Staatsanwaltschaft,
 - b …
 - c die Direktion für Inneres und Justiz für die Regierungsstatthalterinnen und Regierungsstatthalter und für die oder den Beauftragten für Datenschutz,
 - d der Regierungsrat für die Staatsschreiberin oder den Staatsschreiber,
@@ -2658,7 +2703,7 @@ beschliesst:
 
 <sup>6</sup> Die betroffene Anstellungsbehörde erstattet dem Personalamt Meldung, sobald sie vom Eingang eines Schlichtungsgesuches bei der kantonalen Schlichtungsstelle Kenntnis erhalten hat.
 
-<sup>7</sup> Ein Vergleich bedarf der Zustimmung des Personalamts. Wird er von einer Direktion oder der Staatskanzlei geschlossen, braucht es die Zustimmung der Finanzdirektion. Schliesst die Finanzdirektion einen Vergleich, bedarf dieser der Zustimmung der Direktion für Inneres und Justiz. Ausgenommen von einer Zustimmung sind Vergleiche, die von der Justizleitung, einer Gerichtsbehörde oder der Staatsanwaltschaft geschlossen werden.
+<sup>7</sup> Ein Vergleich bedarf der Zustimmung des Personalamts. Wird er von einer Direktion oder der Staatskanzlei geschlossen, braucht es die Zustimmung der Finanzdirektion. Schliesst die Finanzdirektion einen Vergleich, bedarf dieser der Zustimmung der Direktion für Inneres und Justiz. Ausgenommen von einer Zustimmung sind Vergleiche, die von der Justizverwaltungsleitung, einer Gerichtsbehörde oder der Staatsanwaltschaft geschlossen werden.
 
 [^211-1]: BSG 152.072
 

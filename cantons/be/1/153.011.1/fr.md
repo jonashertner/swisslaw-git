@@ -4,13 +4,13 @@ number: "153.011.1"
 title: Ordonnance sur le personnel
 short: OPers
 language: fr
-version: 2023-03-01
-valid_until: 2023-12-31
-version_adopted: 2023-01-11
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-11-29
 adopted: 2005-05-18
 in_force: 2005-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/153.011.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2788/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2976/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2788/pdf_file"
 
 (OPers)
 
-du 18.05.2005 (état au 01.03.2023)
+du 18.05.2005 (état au 01.01.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -57,8 +57,8 @@ arrête:
 
 <sup>3</sup> S’agissant des autorités judiciaires et du Ministère public:
 
-- a toute compétence ressortissant ci-après aux Directions et à la Chancellerie d’Etat ressortit aussi à la Direction de la magistrature pour son domaine propre, à la Cour suprême, au Tribunal administratif, aux autorités de justice administrative indépendantes de l’administration et au Parquet général, sous réserve d’une disposition attribuant la compétence exclusivement à la Direction de la magistrature;
-- b toute compétence ressortissant ci-après aux chefs et cheffes d’office ressortit aussi aux fonctions dirigeantes équivalentes des autorités judiciaires et du Ministère public désignées comme telles par la Direction de la magistrature par voie de règlement.
+- a toute compétence ressortissant ci-après aux Directions et à la Chancellerie d’Etat ressortit aussi à la Direction administrative de la magistrature pour son domaine propre, à la Cour suprême, au Tribunal administratif, aux autorités de justice administrative indépendantes de l’administration et au Parquet général, sous réserve d’une disposition attribuant la compétence exclusivement à la Direction administrative de la magistrature;
+- b toute compétence ressortissant ci-après aux chefs et cheffes d’office ressortit aussi aux fonctions dirigeantes équivalentes des autorités judiciaires et du Ministère public désignées comme telles par la Direction administrative de la magistrature par voie de règlement.
 
 <sup>4</sup> S’agissant de l’Université: toute compétence ressortissant ci-après aux Directions et à la Chancellerie d'Etat ressortit aussi à la Direction de l’Université. Toute compétence ressortissant ci-après aux chefs et cheffes d’office ressortit aussi aux fonctions dirigeantes équivalentes de l’Université désignées comme telles par sa direction par voie de règlement.
 
@@ -198,7 +198,7 @@ arrête:
 
 <sup>2</sup> Il indique en particulier la fonction, la classe de traitement et le degré d’occupation de chaque poste.
 
-<sup>3</sup> Il est établi et géré selon les consignes du Conseil-exécutif et de la Direction de la magistrature.
+<sup>3</sup> Il est établi et géré selon les consignes du Conseil-exécutif et de la Direction administrative de la magistrature.
 
 <sup>4</sup> Pour autant qu'aucun poste ne soit prévu à l'état des postes, les services compétents de la Direction de l'instruction publique et de la culture et de la Direction de l'intérieur et de la justice administrent les postes suivants, dans la limite des ressources autorisées en vertu de la législation spéciale:
 
@@ -212,7 +212,7 @@ arrête:
 
 <sup>1</sup> Le Conseil-exécutif fixe chaque année le nombre maximal de postes à plein temps (effectif maximal) de chaque Direction et de la Chancellerie d'État dans le budget.
 
-<sup>2</sup> La Direction de la magistrature arrête le nombre maximal de postes à plein temps des autorités judiciaires et du Ministère public.
+<sup>2</sup> La Direction administrative de la magistrature arrête le nombre maximal de postes à plein temps des autorités judiciaires et du Ministère public.
 
 <sup>2a</sup> Le Bureau du Grand Conseil arrête le nombre maximal de postes à plein temps des Services parlementaires.
 
@@ -220,7 +220,7 @@ arrête:
 
 <sup>2c</sup> Le chef ou la cheffe du Contrôle des finances arrête le nombre maximal de postes à plein temps du Contrôle des finances.
 
-<sup>3</sup> En plus de l’effectif maximal, des postes supplémentaires ne peuvent être créés, dans le cadre des soldes des groupes de produits, que pour une durée déterminée de cinq ans au maximum, pour autant que le membre du Conseil-exécutif concerné, le chancelier ou la chancelière, la Direction de la magistrature, le secrétaire général ou la secrétaire générale du Grand Conseil, le délégué ou la déléguée à la protection des données, ou le chef ou la cheffe du Contrôle des finances l'approuve. Le Conseil-exécutif peut restreindre la création de postes à durée déterminée pour autant qu’elle ne concerne pas la Direction de la magistrature.
+<sup>3</sup> En plus de l’effectif maximal, des postes supplémentaires ne peuvent être créés, dans le cadre des soldes des groupes de produits, que pour une durée déterminée de cinq ans au maximum, pour autant que le membre du Conseil-exécutif concerné, le chancelier ou la chancelière, la Direction administrative de la magistrature, le secrétaire général ou la secrétaire générale du Grand Conseil, le délégué ou la déléguée à la protection des données, ou le chef ou la cheffe du Contrôle des finances l'approuve. Le Conseil-exécutif peut restreindre la création de postes à durée déterminée pour autant qu’elle ne concerne pas la Direction administrative de la magistrature.
 
 <sup>4</sup> L’Office du personnel vérifie le classement des nouveaux postes créés. L’article 196 est réservé.
 
@@ -230,7 +230,7 @@ arrête:
 
 **Gestion des postes**
 
-<sup>1</sup> Les Directions, la Chancellerie d’Etat, la Direction de la magistrature ou les unités administratives par elles habilitées gèrent leur état des postes sur le système informatique du personnel.
+<sup>1</sup> Les Directions, la Chancellerie d’Etat, la Direction administrative de la magistrature ou les unités administratives par elles habilitées gèrent leur état des postes sur le système informatique du personnel.
 
 <sup>2</sup> …
 
@@ -265,7 +265,7 @@ arrête:
 
 - a du Conseil-exécutif pour les postes de cadre des Directions et de la Chancellerie d’Etat inscrits dans les ordonnances d'organisation et pour les postes désignés dans la législation spéciale;
 - b des Directions et de la Chancellerie d’Etat pour tous les autres postes relevant de leur domaine de compétence, à moins qu’elles n'aient délégué cette compétence par voie d’ordonnance à des unités administratives qui leur sont subordonnées;
-- c de la Direction de la magistrature, de la Cour suprême, du Tribunal administratif, des autres autorités de justice administrative indépendantes de l’administration et du Parquet général pour leur personnel et pour le personnel des autorités judiciaires et ministères publics placés sous leur surveillance respective, pour autant que cela ne concerne pas des membres d’autorités. La délégation de compétence de l’article 19, alinéas 2a, 3 et 4 LPers est réservée.
+- c de la Direction administrative de la magistrature, de la Cour suprême, du Tribunal administratif, des autres autorités de justice administrative indépendantes de l’administration et du Parquet général pour leur personnel et pour le personnel des autorités judiciaires et ministères publics placés sous leur surveillance respective, pour autant que cela ne concerne pas des membres d’autorités. La délégation de compétence de l’article 19, alinéas 2a, 3 et 4 LPers est réservée.
 - d …
 
 <sup>2</sup> S’agissant de l’Université, de la Haute école spécialisée bernoise et de la Haute Ecole Pédagogique, les compétences sont fixées dans la législation spéciale.
@@ -431,7 +431,7 @@ arrête:
 
 - a les Directions et la Chancellerie d’Etat après audition de la Direction des finances et sous réserve de l’approbation du Conseil-exécutif pour les postes de cadres des Directions et de la Chancellerie d’Etat prévus dans les ordonnances d’organisation et pour les postes désignés dans la législation spéciale,
 - b les Directions et la Chancellerie d’Etat, d’entente avec l’Office du personnel, pour tous les autres postes relevant de leur domaine de compétences, sous réserve de la lettre d,
-- c la Direction de la magistrature, la Cour suprême, le tribunal administratif, les autres autorités de justice administrative indépendantes de l’administration et le Ministère public pour leur domaine propre, après audition de l’Office du personnel, et
+- c la Direction administrative de la magistrature, la Cour suprême, le tribunal administratif, les autres autorités de justice administrative indépendantes de l’administration et le Ministère public pour leur domaine propre, après audition de l’Office du personnel, et
 - d la Direction des finances, d’entente avec la Direction de l’intérieur et de la justice, pour tous les postes visés à la lettre b qui relèvent du domaine de compétences de la Direction des finances.
 
 <sup>4</sup> L’Office du personnel ou la ​Direction de l’intérieur et de la justice sont associés dès qu’une résiliation des rapports de travail d’un commun accord se profile.
@@ -515,7 +515,7 @@ arrête:
 
 <sup>1</sup> La Description des fonctions-types (DFT) définit les fonctions figurant à l’annexe 1.
 
-<sup>2</sup> L’Office du personnel édicte la DFT en collaboration avec les Directions, la Chancellerie d’Etat et la Direction de la magistrature, et l’actualise si nécessaire.
+<sup>2</sup> L’Office du personnel édicte la DFT en collaboration avec les Directions, la Chancellerie d’Etat et la Direction administrative de la magistrature, et l’actualise si nécessaire.
 
 #### Art. 36
 
@@ -545,7 +545,7 @@ arrête:
 
 <sup>1a</sup> Si l'engagement relève du Conseil-exécutif, la Direction des finances doit être entendue en cas d'écart par rapport aux valeurs définies à l'annexe 2, et il n'est pas nécessaire d'obtenir l'accord de l'Office du personnel.
 
-<sup>2</sup> Le traitement de départ des fonctions suivantes est fixé par la Direction de la magistrature en vertu des principes fixés aux articles 39, 40 et 40a. En cas d’écart par rapport aux valeurs déterminées à l’annexe 2, l’Office du personnel doit être entendu:
+<sup>2</sup> Le traitement de départ des fonctions suivantes est fixé par la Direction administrative de la magistrature en vertu des principes fixés aux articles 39, 40 et 40a. En cas d’écart par rapport aux valeurs déterminées à l’annexe 2, l’Office du personnel doit être entendu:
 
 - a membres à titre principal de la Cour suprême et du Tribunal administratif,
 - b procureur général ou procureure générale et ses suppléants et suppléantes,
@@ -642,7 +642,7 @@ arrête:
 
 **Affectation à une classe de traitement supérieure**
 
-<sup>1</sup> Si les exigences et les charges d’un poste ont nettement augmenté, celui-ci est affecté à une classe de traitement supérieure sur proposition de la Direction, de la Chancellerie d’Etat ou de la Direction de la magistrature, d’entente avec l’Office du personnel. La commission d’évaluation n’est pas impliquée, sous réserve de l’article 196.
+<sup>1</sup> Si les exigences et les charges d’un poste ont nettement augmenté, celui-ci est affecté à une classe de traitement supérieure sur proposition de la Direction, de la Chancellerie d’Etat ou de la Direction administrative de la magistrature, d’entente avec l’Office du personnel. La commission d’évaluation n’est pas impliquée, sous réserve de l’article 196.
 
 <sup>2</sup> L’échelon de traitement est déterminé conformément aux principes fixés à l’article 40.
 
@@ -652,7 +652,7 @@ arrête:
 
 **Affectation à une classe de traitement inférieure**
 
-<sup>1</sup> Si les exigences et les charges d’un poste ont nettement diminué, celui-ci est affecté à une classe de traitement inférieure sur proposition de la Direction, de la Chancellerie d’Etat ou de la Direction de la magistrature, d’entente avec l’Office du personnel et après avoir entendu la personne concernée. La commission d’évaluation n’est pas impliquée, sous réserve de l’article 196.
+<sup>1</sup> Si les exigences et les charges d’un poste ont nettement diminué, celui-ci est affecté à une classe de traitement inférieure sur proposition de la Direction, de la Chancellerie d’Etat ou de la Direction administrative de la magistrature, d’entente avec l’Office du personnel et après avoir entendu la personne concernée. La commission d’évaluation n’est pas impliquée, sous réserve de l’article 196.
 
 <sup>2</sup> L’échelon de traitement est déterminé conformément aux principes fixés à l’article 40.
 
@@ -690,13 +690,13 @@ arrête:
 
 <sup>2</sup> La détermination des échelons de traitement ne doit pas être liée à la classe de traitement, au degré d’occupation, au niveau hiérarchique, au lieu de travail ni au sexe de la personne concernée.
 
-<sup>3</sup> L’Office du personnel évalue périodiquement et de façon anonyme, à l’intention du Conseil-exécutif et de la Direction de la magistrature, la mise en œuvre de la progression individuelle des traitements. Le Conseil-exécutif et la Direction de la magistrature adoptent le cas échéant les mesures nécessaires pour atteindre les objectifs fixés à l’alinéa 2.
+<sup>3</sup> L’Office du personnel évalue périodiquement et de façon anonyme, à l’intention du Conseil-exécutif et de la Direction administrative de la magistrature, la mise en œuvre de la progression individuelle des traitements. Le Conseil-exécutif et la Direction administrative de la magistrature adoptent le cas échéant les mesures nécessaires pour atteindre les objectifs fixés à l’alinéa 2.
 
 #### Art. 46
 
 **Exécution**
 
-<sup>1</sup> Le Conseil-exécutif définit les moyens disponibles pour la progression individuelle des traitements et les répartit entre les Directions, la Chancellerie d’Etat et la Direction de la magistrature (art. 75 LPers).
+<sup>1</sup> Le Conseil-exécutif définit les moyens disponibles pour la progression individuelle des traitements et les répartit entre les Directions, la Chancellerie d’Etat et la Direction administrative de la magistrature (art. 75 LPers).
 
 <sup>2</sup> Le passage à un échelon de traitement supérieur intervient au 1<sup>er</sup> janvier de l’année suivante, dans la mesure où une évaluation systématique des performances et du comportement a pu être réalisée compte tenu de la nature et de la durée des rapports de travail.
 
@@ -835,6 +835,8 @@ arrête:
 
 <sup>3</sup> Si une absence pour cause de maladie ou d’accident se prolonge, de nouveaux certificats médicaux doivent être fournis au minimum chaque mois.
 
+<sup>4</sup> Dans des cas particuliers, le Conseil-exécutif peut, par voie d'arrêté, prolonger le délai de dépôt d'un certificat médical ou dispenser la personne concernée d'en déposer un.
+
 #### Art. 58
 
 **Aide à la réintégration en cas d’absence de longue durée**
@@ -853,7 +855,7 @@ arrête:
 
 **…**
 
-### 4.6 Versement du traitement durant le congé de maternité, de paternité ou d’adoption
+### 4.6 Versement du traitement durant le congé de maternité, le congé de l'autre parent et le congé d’adoption
 
 #### Art. 60
 
@@ -863,13 +865,15 @@ arrête:
 
 <sup>1a</sup> Si le droit à l'allocation de maternité est prolongé pour cause d'hospitalisation de l'enfant nouveau-né conformément à l'article 16c de la loi fédérale du 25 septembre 1952 sur les allocations pour perte de gain (LAPG)[^60-1], le droit au congé payé de maternité prévu à l'alinéa 1 est prolongé d'autant.
 
+<sup>1b</sup> Si l'autre parent décède dans les six mois qui suivent la naissance de l'enfant, l'agente a droit à dix jours de congé payé supplémentaires. Elle peut les prendre d'un bloc ou en plusieurs fois dans les six mois à compter du lendemain du décès. Passé ce délai, le congé non pris est perdu sans indemnisation.
+
 <sup>2</sup> Le droit est aussi accordé conformément à l’alinéa 1 si l’enfant ne naît pas viable mais que la grossesse a duré au moins 23 semaines.
 
 <sup>3</sup> Le congé de maternité débute au plus tard le jour de la naissance et au plus tôt deux semaines avant le terme prévu. Il n’est pas interrompu en cas de maladie, d'accident ou de congé non payé.
 
 <sup>4</sup> …
 
-<sup>5</sup> En cas de reprise du travail pendant la période de congé, le congé de maternité est considéré comme perdu, pour autant qu’il n’ait pas été entièrement pris.
+<sup>5</sup> En cas de reprise du travail pendant la période de congé, le congé de maternité est considéré comme perdu, pour autant qu’il n’ait pas été entièrement pris. Le droit au congé payé supplémentaire prévu à l'alinéa 1b reste acquis.
 
 <sup>6</sup> …
 
@@ -879,17 +883,36 @@ arrête:
 
 #### Art. 60a
 
-**Congé de paternité et congé d’adoption**
+**Congé de l'autre parent et congé d’adoption**
 
-<sup>1</sup> Un congé payé de paternité de dix jours ouvrés est accordé aux membres du personnel masculins lors de la naissance de leur propre enfant.
+<sup>1</sup> Un congé payé de dix jours ouvrés est accordé lors de la naissance d'un enfant à la personne qui en est
+
+- a le père légal à cette date,
+- b l'autre parent légal à cette date.
 
 <sup>1a</sup> Le congé prévu à l'alinéa 1 est également accordé si l'enfant ne naît pas viable mais que la grossesse a duré au moins 23 semaines.
 
 <sup>2</sup> Les agents et les agentes qui adoptent un enfant ont droit à un congé payé de dix jours ouvrés.
 
-<sup>3</sup> Le congé de paternité et le congé d’adoption sont pris en un seul bloc ou de manière échelonnée dans les six mois qui suivent la naissance ou l’accueil autorisé d’un enfant en vue de son adoption. Le droit au congé de paternité ou au congé d’adoption s’éteint sans dédommagement si le congé n’est pas pris.
+<sup>3</sup> …
 
-<sup>4</sup> L'allocation de paternité fédérale revient au canton. Si le formulaire correspondant n'a pas été remis, le traitement est réduit de l'allocation de paternité ayant échappé au canton.
+<sup>3a</sup> L'autre parent légal prend ce congé d'un bloc ou en plusieurs fois dans les six mois suivant la naissance. Ce délai est suspendu pendant une période de congé au sens de l'article 60a1. À son échéance, l'éventuel solde du congé est perdu sans indemnisation.
+
+<sup>3b</sup> Le congé d'adoption est pris d'un bloc ou en plusieurs fois dans un délai d'un an après délivrance de l'autorisation d'accueillir un enfant en vue de son adoption. À l'échéance de ce délai, l'éventuel solde du congé est perdu sans indemnisation.
+
+<sup>4</sup> Les allocations fédérales prévues pour l'autre parent et en cas d'adoption échoient au canton. Si le formulaire correspondant n'a pas été remis, le traitement est réduit de l'allocation en question ayant échappé au canton.
+
+#### Art. 60a1
+
+**Congé de l'autre parent en cas de décès de la mère**
+
+<sup>1</sup> En cas de décès de la mère à la naissance ou dans les 14 semaines qui suivent, l'autre parent a droit à 14 semaines de congé payé, à prendre d'un bloc à partir du lendemain du décès.
+
+<sup>2</sup> En cas d'hospitalisation de l'enfant nouveau-né au sens de l'article 60, alinéa 1, le congé prévu à l'alinéa 1 se prolonge d'autant.
+
+<sup>3</sup> En cas de reprise du travail avant la fin du congé, le solde des congés prévus aux alinéas 1 et 2 est perdu.
+
+<sup>4</sup> L'allocation fédérale prévue pour l'autre parent en cas de décès de la mère échoit au canton. Si le formulaire correspondant n'a pas été remis, le traitement est réduit du montant de l'allocation ayant échappé au canton.
 
 #### Art. 60b
 
@@ -1022,6 +1045,8 @@ arrête:
 **Perception de l’indemnité APG**
 
 <sup>1</sup> L’allocation pour perte de gain prévue par la législation échoit au canton dans la mesure où elle est compensée par le traitement. La cotisation à l’assurance-accidents versée en trop pendant la période de service n’est pas remboursée.
+
+<sup>2</sup> Elle revient à la personne qui encadre des activités de Jeunesse et Sport pendant ses vacances ou son temps libre.
 
 ### 4.8 Traitement du personnel en cours de formation et du personnel âgé de moins de 18 ans
 
@@ -1275,7 +1300,7 @@ arrête:
 
 <sup>1</sup> Le Conseil-exécutif détermine, y compris pour les autorités judiciaires et le Ministère public, la part des charges de personnel budgétées qui est disponible pour le versement de primes de performances.
 
-<sup>2</sup> Le montant disponible est réparti entre les unités administratives en fonction de leurs budgets de personnel respectifs.
+<sup>2</sup> Le montant disponible est réparti entre les unités administratives en fonction de leurs budgets de personnel respectifs. Dans des cas particuliers, le Conseil-exécutif peut modifier le montant et la répartition des fonds par voie d'arrêté.
 
 <sup>3</sup> Les primes sont versées par l’Office du personnel conformément à l’annonce des Directions et de la Chancellerie d'Etat.
 
@@ -1405,7 +1430,7 @@ arrête:
 
 **Principe**
 
-<sup>1</sup> Un repas principal qui doit être pris au dehors pour des raisons de service donne droit à une indemnité. L’article 105 est réservé.
+<sup>1</sup> Les frais d'un repas principal sont indemnisés s'ils ont été engagés pour des raisons de service.
 
 <sup>2</sup> Cette indemnité est augmentée lorsque, pour des raisons de service, un autre repas doit être pris avant 6 heures ou après 19 heures.
 
@@ -1422,8 +1447,6 @@ arrête:
 #### Art. 105
 
 **Rayon d’application**
-
-<sup>1</sup> Lorsqu'une mission est accomplie sur le lieu de travail ou dans un rayon de dix kilomètres au maximum en dehors de celui-ci, l’indemnité prévue à l’article 103 n’est versée que si l’accomplissement de cette mission entraîne des frais de repas. Il en va de même lorsque la destination du déplacement coïncide avec le lieu de résidence de l’agent ou de l’agente.
 
 #### Art. 106
 
@@ -1473,7 +1496,7 @@ arrête:
 
 <sup>1</sup> Le remboursement couvre le prix du billet du trajet effectué au moyen des transports publics.
 
-<sup>2</sup> Lorsque les frais de déplacement au moyen des transports publics peuvent être réduits par l’utilisation d’une carte multiparcours, le prix du billet individuel n’est pas remboursé. Si l’utilisation d’un abonnement mensuel, annuel, demi-tarif ou d’un abonnement général permet de réduire les frais de déplacement par les transports publics, le prix de ces abonnements peut être remboursé totalement ou partiellement.
+<sup>2</sup> Si l’utilisation d’un abonnement mensuel, annuel, demi-tarif ou général permet de réduire les frais de déplacement en transports publics, le prix de ces abonnements peut être remboursé totalement ou partiellement.
 
 <sup>3</sup> Les agents et agentes des classes de traitement 19 à 30 peuvent porter en compte le prix des billets de première classe pour leurs déplacements en train ou en bateau. Les agents et agentes qui les accompagnent bénéficient du même droit.
 
@@ -1530,6 +1553,12 @@ arrête:
 **Frais de présentation des candidats et candidates**
 
 <sup>1</sup> Les frais de voyage et de séjour d’un montant considérable que les candidats et candidates convoqués doivent assumer pour venir se présenter en personne peuvent, selon l’appréciation de l’autorité d’engagement, être indemnisés en totalité ou en partie.
+
+### 5.3.6 Autres dépenses
+
+#### Art. 114d
+
+<sup>1</sup> La Direction, la Chancellerie d'État ou l'unité administrative par elles habilitée peut autoriser le remboursement d'autres dépenses nécessaires à l'accomplissement des tâches.
 
 ### 5.4
 
@@ -1693,13 +1722,13 @@ arrête:
 
 **Solde annuel d'heures de travail**
 
-<sup>1</sup> A la fin de la période annuelle de décompte, un solde maximal de 100 heures en plus ou en moins peut être reporté sur la nouvelle période de décompte.
+<sup>1</sup> En fin d'année civile, un solde maximal de 100 heures en plus ou en moins peut être reporté sur l'année civile suivante.
 
-<sup>2</sup> Si le solde maximal de 100 heures en plus est dépassé à la fin d’une année civile, une compensation financière est versée jusqu’à un solde résiduel de 50 heures en plus, pour autant que l’office dépose une demande de paiement et que ce paiement soit approuvé par le membre concerné du Conseil-exécutif, le chancelier ou la chancelière, le président ou la présidente de la Direction de la magistrature, le secrétaire général ou la secrétaire générale du Grand Conseil, le délégué ou la déléguée à la protection des données, le chef ou la cheffe du Contrôle des finances, le recteur ou la rectrice de l’Université, le recteur ou la rectrice de la Haute école spécialisée bernoise ou le recteur ou la rectrice de la Haute école pédagogique germanophone. Si ce paiement est refusé, les heures de travail effectuées en plus du solde maximal autorisé sont perdues sans indemnisation.
+<sup>2</sup> Si le solde maximal de 100 heures en plus est dépassé à la fin d’une année civile, une compensation financière est versée jusqu’à un solde résiduel de 50 heures en plus, pour autant que l’office dépose une demande de paiement et que ce paiement soit approuvé par le membre concerné du Conseil-exécutif, le chancelier ou la chancelière, la Direction administrative de la magistrature, le secrétaire général ou la secrétaire générale du Grand Conseil, le délégué ou la déléguée à la protection des données, le chef ou la cheffe du Contrôle des finances, le recteur ou la rectrice de l’Université, le recteur ou la rectrice de la Haute école spécialisée bernoise ou le recteur ou la rectrice de la Haute école pédagogique germanophone. Si ce paiement est refusé, les heures de travail effectuées en plus du solde maximal autorisé sont perdues sans indemnisation.
 
 <sup>3</sup> Au lieu d’une compensation financière, un report du solde horaire positif sur l’année suivante peut être accordé dans les mêmes conditions que celles prévues à l’alinéa 2. Une convention de réduction de solde est impérativement nécessaire pour les heures excédant le solde maximal.
 
-<sup>4</sup> Si, à la fin de la période de décompte, le solde négatif dépasse le nombre maximal d’heures autorisé fixé à l'alinéa 1, les heures dépassant ce solde maximum peuvent, d’entente entre l’agent ou l’agente et son supérieur ou sa supérieure hiérarchique, être compensées sous forme de déduction de traitement.
+<sup>4</sup> Si, en fin d'année civile, le solde négatif dépasse le nombre maximal d’heures autorisé fixé à l'alinéa 1, les heures dépassant ce solde maximum peuvent, d’entente entre l’agent ou l’agente et son supérieur ou sa supérieure hiérarchique, être compensées sous forme de déduction de traitement.
 
 <sup>5</sup> À défaut de compensation des heures en moins conformément à l'alinéa 4, un accord fixant la date à laquelle elles seront rattrapées l'année suivante est impérativement signé.
 
@@ -1707,11 +1736,11 @@ arrête:
 
 **Compensation des soldes d’heures de travail**
 
-<sup>1</sup> Un solde d’heures de travail positif ou négatif doit, dans la mesure du possible, être compensé avant le changement de type d’horaire de travail (horaire de travail fondé sur la confiance), l’entrée en fonction dans une autre unité administrative, la cessation des rapports de travail ou le départ du service du canton. L’article 160g est réservé.
+<sup>1</sup> Un solde d’heures de travail positif ou négatif doit, dans la mesure du possible, être compensé avant le changement de type d’horaire de travail (horaire de travail fondé sur la confiance), l’entrée en fonction dans une autre unité administrative ou la cessation des rapports de travail. L’article 160g est réservé.
 
-<sup>2</sup> Un solde positif fait l’objet d’une indemnisation sur la base du traitement mensuel brut, y compris la part du 13<sup>e</sup> mois de traitement mais sans les allocations éventuelles, si l’agent ou l’agente n’a pas pu, pour des raisons de service ou pour cause de maladie, d’accident ou de décès, compenser les heures avant le changement de type d’horaire de travail (horaire de travail fondé sur la confiance), l’entrée en fonction dans une autre unité administrative, la cessation de ses rapports de travail ou son départ du service du canton.
+<sup>2</sup> Un solde positif fait l’objet d’une indemnisation sur la base du traitement mensuel brut, y compris la part du 13<sup>e</sup> mois de traitement mais sans les allocations éventuelles, si l’agent ou l’agente n’a pas pu, pour des raisons de service ou pour cause de maladie, d’accident ou de décès, compenser les heures avant le changement de type d’horaire de travail (horaire de travail fondé sur la confiance), l’entrée en fonction dans une autre unité administrative ou la cessation de ses rapports de travail.
 
-<sup>3</sup> Si le solde est négatif au moment du changement de type d’horaire de travail (horaire de travail fondé sur la confiance), de l’entrée en fonction dans une autre unité administrative, de la cessation des rapports de travail ou du départ du service du canton, le dernier traitement est réduit. Le montant versé en trop est remboursé sur la base du traitement mensuel brut y compris la part du 13<sup>e</sup> mois de traitement et les allocations éventuelles.
+<sup>3</sup> Si le solde est négatif au moment du changement de type d’horaire de travail (horaire de travail fondé sur la confiance), de l’entrée en fonction dans une autre unité administrative ou de la cessation des rapports de travail, le dernier traitement est réduit. Le montant versé en trop est restitué, par remboursement ou compensation, sur la base du traitement mensuel brut y compris la part du 13<sup>e</sup> mois de traitement mais sans les allocations éventuelles.
 
 #### Art. 136d
 
@@ -1743,7 +1772,7 @@ arrête:
 
 <sup>1</sup> Les jours de compensation au sens de l’article 136e, alinéa 1, lettre b doivent être pris pendant l’année civile en cours.
 
-<sup>2</sup> Si cela n’est pas possible du fait d’une maladie, d’un accident ou d’une grossesse, les jours de compensation doivent être pris l’année suivante. Pour prendre des jours de compensation a posteriori, il faut l’accord, selon le cas, du membre concerné du Conseil-exécutif, du chancelier ou de la chancelière, du président ou de la présidente de la Direction de la magistrature, du secrétaire général ou de la secrétaire générale du Grand Conseil, du délégué ou de la déléguée à la protection des données ou du chef ou de la cheffe du Contrôle des finances.
+<sup>2</sup> Si cela n’est pas possible du fait d’une maladie, d’un accident ou d’une grossesse, les jours de compensation doivent être pris l’année suivante. Pour prendre des jours de compensation a posteriori, il faut l’accord, selon le cas, du membre concerné du Conseil-exécutif, du chancelier ou de la chancelière, du président ou de la présidente de la Direction administrative de la magistrature, du secrétaire général ou de la secrétaire générale du Grand Conseil, du délégué ou de la déléguée à la protection des données ou du chef ou de la cheffe du Contrôle des finances.
 
 <sup>3</sup> Si un agent ou une agente ne prend pas ses jours de compensation pour d’autres raisons ou qu’il lui est refusé de les prendre a posteriori, ils sont perdus sans dédommagement. Les jours de compensation qui ne sont pas pris l’année suivante ou lorsque la personne quitte le service du canton sont aussi perdus sans dédommagement.
 
@@ -1785,7 +1814,11 @@ arrête:
 
 <sup>1</sup> L’autorité d'engagement décide si une fonction ou une charge de travail peut faire l’objet d’un partage de poste.
 
-<sup>2</sup> Cette décision se fonde sur les critères suivants: type de fonction en termes de processus et de contenus de travail, besoins en flux d’informations entre les personnes impliquées, possibilité d’assumer ensemble les responsabilités et les compétences, aptitude des postulants et postulantes.
+<sup>2</sup> Cette décision se fonde sur les critères suivants:
+
+- a exigences du poste,
+- b possibilités d'exercice conjoint des responsabilités et des compétences,
+- c aptitude des postulants et postulantes.
 
 #### Art. 142
 
@@ -1794,6 +1827,16 @@ arrête:
 <sup>1</sup> Des rapports de travail indépendants sont établis avec les personnes qui se partagent un poste. Au plan du droit régissant le personnel, ils équivalent à des rapports de travail à temps partiel.
 
 <sup>2</sup> Il convient de réglementer dans une convention complémentaire en particulier les aspects suivants: horaires de travail, lieu de travail, répartition des tâches et exercice conjoint ou séparé des responsabilités, suppléance et conditions dans lesquelles le partage du poste prend fin.
+
+#### Art. 142a
+
+**Direction en binôme**
+
+<sup>1</sup> La direction en binôme consiste, pour l'autorité d'engagement, à confier une même fonction de direction à deux personnes.
+
+<sup>2</sup> Cette fonction peut être occupée jusqu'à concurrence de 120 pour cent.
+
+<sup>3</sup> Les règles du partage de poste définies aux articles 140 à 142 s'appliquent par analogie.
 
 ### 6.2 Vacances
 
@@ -1807,13 +1850,9 @@ arrête:
 
 **Durée**
 
-<sup>1</sup> Les agents et agentes des classes de traitement 1 à 18 ont droit par année civile à des vacances d’une durée de:
+<sup>1</sup> …
 
-- a 25 jours ouvrés jusqu’à la fin de l’année civile au cours de laquelle ils atteignent l’âge de 49 ans;
-- b 28 jours ouvrés à partir du début de l’année civile au cours de laquelle ils atteignent l’âge de 50 ans, ainsi que jusqu’à la fin de l’année civile au cours de laquelle ils atteignent l’âge de 20 ans;
-- c 33 jours ouvrés à partir du début de l’année civile au cours de laquelle ils atteignent l’âge de 60 ans.
-
-<sup>2</sup> Les agents et agentes des classes de traitement 19 à 30 ont droit par année civile à des vacances d’une durée de:
+<sup>2</sup> La durée des vacances annuelles est de
 
 - a 25 jours ouvrés jusqu’à la fin de l’année civile au cours de laquelle ils atteignent l’âge de 44 ans;
 - b 28 jours ouvrés à partir du début de l’année civile au cours de laquelle ils atteignent l’âge de 45 ans ou jusqu’à la fin de l’année civile au cours de laquelle ils atteignent l’âge de 20 ans;
@@ -1837,7 +1876,7 @@ arrête:
 
 <sup>2</sup> En cas de service militaire, de service civil ou de service dans la protection civile, la réduction des vacances conformément à l'alinéa 1 est uniquement déterminée en fonction d'une durée de l’interruption du travail excédant un mois.
 
-<sup>3</sup> Le congé payé de maternité prévu à l'article 60, le congé payé de paternité et le congé payé d'adoption prévus à l'article 60a, le congé payé pour prise en charge prévu à l'article 156a, l'empêchement de travailler pour cause d’accident survenu pendant le service et la maladie professionnelle ne sont pas pris en compte pour la réduction des vacances.
+<sup>3</sup> Le congé payé de maternité prévu à l'article 60, le congé payé de l'autre parent et le congé payé d'adoption prévus à l'article 60a, le congé payé de l'autre parent en cas de décès de la mère prévu à l'article 60a1, le congé payé pour prise en charge prévu à l'article 156a et l'empêchement de travailler pour cause d’accident survenu pendant le service et la maladie professionnelle ne sont pas pris en compte pour la réduction des vacances.
 
 <sup>4</sup> …
 
@@ -1898,7 +1937,7 @@ arrête:
 
 <sup>2</sup> Les avoirs de vacances sont indemnisés sur la base du traitement mensuel brut actuel, y compris la part au 13<sup>e</sup> mois de traitement mais sans les allocations éventuelles, si pour des raisons de service, pour cause de maladie, d’accident ou de décès la personne concernée n’a pas pu les compenser avant son départ pour une autre unité administrative ou la fin de ses rapports de travail.
 
-<sup>3</sup> Lors du départ pour une autre unité administrative ou de la cessation des rapports de travail, les vacances prises en trop sont imputées sur le dernier traitement sur la base du traitement mensuel brut actuel, y compris la part au 13<sup>e</sup> mois de traitement mais sans les allocations éventuelles.
+<sup>3</sup> Lors du départ pour une autre unité administrative ou de la cessation des rapports de travail, les vacances prises en trop sont demandées en remboursement ou imputées sur le dernier traitement sur la base du traitement mensuel brut actuel, y compris la part au 13<sup>e</sup> mois de traitement mais sans les allocations éventuelles.
 
 ### 6.3 Jours fériés et jours chômés
 
@@ -1942,6 +1981,8 @@ arrête:
 
 <sup>2</sup> Le grand nettoyage annuel des bureaux est organisé de sorte à éviter la fermeture temporaire des locaux durant les jours ouvrés (du lundi au vendredi).
 
+<sup>3</sup> Dans des cas particuliers, le Conseil-exécutif peut ordonner, par voie d'arrêté, que le solde positif d'heures de travail soit préalablement ramené à zéro.
+
 ### 6.4 Congés
 
 #### Art. 155
@@ -1961,7 +2002,7 @@ arrête:
 - b un jour ouvré par année civile pour son propre mariage ou son propre déménagement,
 - c un jour ouvré par année civile pour la participation, obligatoire ou facultative, à la séance d'information des conscrits ou pour la restitution du matériel personnel lors de la libération des obligations militaires.
 
-<sup>2</sup> Le Conseil-exécutif peut, dans des cas spéciaux, en particulier en cas de catastrophe naturelle, accorder de manière générale à un ensemble de personnes bien défini des congés payés de courte durée à concurrence du temps nécessaire.
+<sup>2</sup> Dans des cas particuliers, le Conseil-exécutif peut, par voie d'arrêté, accorder de manière générale à un ensemble de personnes défini un congé payé de courte durée à concurrence du temps nécessaire. Il peut leur ordonner de réduire préalablement leurs éventuels soldes horaires positifs.
 
 <sup>3</sup> …
 
@@ -1972,7 +2013,7 @@ arrête:
 - c cinq jours ouvrés au plus pour les agents et agentes n’ayant pas encore atteint l’âge de 30 ans qui exercent des activités de chef ou cheffe de groupe dans des cours ou dans des camps au titre d’activités de jeunesse extrascolaires,
 - d trois jours ouvrés au plus pour les membres de la direction ou du comité directeur d’associations du personnel cantonal,
 - e trois jours ouvrés au plus en cas de participation à lʼassemblée des délégués d’associations du personnel de l’administration cantonale ou de ses institutions de prévoyance, ainsi qu’aux assemblées de leurs associations affiliées ou de leurs subdivisions telles que des sections,
-- f l’utilisation du compte épargne-temps conformément à l’article 160c.
+- f l’utilisation du solde du compte épargne-temps conformément à l’article 160c.
 
 <sup>5</sup> Le chef ou la cheffe d’office peut accorder aux agents et agentes dont les rapports de travail ont été résiliés par l’autorité d’engagement les congés payés nécessaires pour des entretiens d’engagement sans excéder une demi-journée de travail par semaine, et ce dès qu’ils ont été informés de la cessation prévue de leurs rapports de travail.
 
@@ -2046,9 +2087,13 @@ arrête:
 
 <sup>1</sup> Le CET est crédité de jours de vacances non pris et, le cas échéant, de primes de fidélité. Le solde maximal autorisé est de 50 jours.
 
+<sup>1a</sup> Le solde du CET ne peut dépasser le plafond prévu à l'alinéa 1 qu'à la fin de l'année au cours de laquelle le degré d'occupation a été diminué.
+
 <sup>2</sup> Les obligations prescrites à l’article 149, alinéas 2 et 3, concernant le nombre minimal de jours à prendre, demeurent réservées.
 
-<sup>3</sup> Si le solde maximal de 50 jours autorisé sur le CET est dépassé à la fin d’une année civile, l’avoir excédentaire est supprimé sans indemnisation.
+<sup>3</sup> Si le solde maximal de 50 jours autorisé sur le CET est dépassé à la fin d’une année civile, l’avoir excédentaire est supprimé sans indemnisation, sous réserve de l'alinéa 1a.
+
+<sup>4</sup> Dans des cas particuliers, le Conseil-exécutif peut temporairement relever le plafond du CET d'un ensemble de personnes défini, par voie d'arrêté.
 
 #### Art. 160c
 
@@ -2090,7 +2135,7 @@ arrête:
 
 <sup>1</sup> Lorsque des unités administratives sont transférées dans leur intégralité, le Conseil-exécutif peut ordonner par voie d’arrêté, en dérogation aux articles 136c, 150 et 160c, le report uniforme des soldes de l’horaire de travail annualisé, des soldes de vacances et des soldes du compte épargne-temps des agents et agentes concernés, avec les provisions correspondantes.
 
-<sup>2</sup> En ce qui concerne les autorités judiciaires et le Ministère public, la Direction de la magistrature décide du report uniforme des soldes horaires au sens de l’alinéa 1. Dans le domaine des hautes écoles, cette décision relève, selon le cas, du recteur ou de la rectrice de l’Université, du recteur ou de la rectrice de la Haute école spécialisée bernoise et du recteur ou de la rectrice de la Haute école pédagogique germanophone.
+<sup>2</sup> En ce qui concerne les autorités judiciaires et le Ministère public, la Direction administrative de la magistrature décide du report uniforme des soldes horaires au sens de l’alinéa 1. Dans le domaine des hautes écoles, cette décision relève, selon le cas, du recteur ou de la rectrice de l’Université, du recteur ou de la rectrice de la Haute école spécialisée bernoise et du recteur ou de la rectrice de la Haute école pédagogique germanophone.
 
 ## 7 Promotion des agents et des agentes
 
@@ -2464,7 +2509,7 @@ arrête:
 
 **Composition**
 
-<sup>1</sup> Les Directions, la Chancellerie d’Etat, la Direction de la magistrature, l’Université, la Haute école spécialisée bernoise et la Haute école pédagogique germanophone délèguent chacune une représentation à la commission d’évaluation.
+<sup>1</sup> Les Directions, la Chancellerie d’Etat, la Direction administrative de la magistrature, l’Université, la Haute école spécialisée bernoise et la Haute école pédagogique germanophone délèguent chacune une représentation à la commission d’évaluation.
 
 <sup>2</sup> La Direction des finances fournit en outre le président ou la présidente.
 
@@ -2490,7 +2535,7 @@ arrête:
 
 <sup>1</sup> L’agent ou l’agente qui estime, compte tenu des exigences de sa fonction et des charges inhérentes à celle-ci, ne pas être classée dans la fonction correcte, peut adresser par la voie de service une demande motivée de classement dans une autre fonction de l’annexe 1 à la commission d’évaluation.
 
-<sup>2</sup> La Direction compétente, la Chancellerie d’Etat ou la Direction de la magistrature transmet cette demande accompagnée de son préavis à la commission d’évaluation.
+<sup>2</sup> La Direction compétente, la Chancellerie d’Etat ou la Direction administrative de la magistrature transmet cette demande accompagnée de son préavis à la commission d’évaluation.
 
 <sup>3</sup> La commission d’évaluation examine la demande de reclassement et communique le résultat de cet examen brièvement motivé au requérant ou à la requérante.
 
@@ -2640,7 +2685,7 @@ arrête:
 
 <sup>2</sup> Dans les cas d’élection par le peuple ou le Grand Conseil, les autorités suivantes agissent à la place de l’autorité d’engagement:
 
-- a la Direction de la magistrature pour les membres des autorités judiciaires et du Ministère public,
+- a la Direction administrative de la magistrature pour les membres des autorités judiciaires et du Ministère public,
 - b …
 - c la Direction de l'intérieur et de la justice pour les préfets et préfètes ainsi que le délégué ou la déléguée à la protection des données,
 - d le Conseil-exécutif pour le chancelier ou la chancelière,
@@ -2654,9 +2699,9 @@ arrête:
 
 <sup>6</sup> L’autorité d’engagement concernée informe l’Office du personnel dès qu’elle a connaissance du dépôt d’une requête de conciliation auprès de l’autorité cantonale de conciliation.
 
-<sup>7</sup> La signature d’un arrangement requiert l’accord de l’Office du personnel. Si l’arrangement est conclu par une Direction ou par la Chancellerie d’Etat, il requiert l’accord de la Direction des finances. Si la Direction des finances conclut un arrangement, il requiert l’accord de la Direction de l’intérieur et de la justice. Ne sont pas subordonnés à un accord les arrangements signés par la Direction de la magistrature, par une autorité judiciaire ou par le Ministère public.
+<sup>7</sup> La signature d’un arrangement requiert l’accord de l’Office du personnel. Si l’arrangement est conclu par une Direction ou par la Chancellerie d’Etat, il requiert l’accord de la Direction des finances. Si la Direction des finances conclut un arrangement, il requiert l’accord de la Direction de l’intérieur et de la justice. Ne sont pas subordonnés à un accord les arrangements signés par la Direction administrative de la magistrature, par une autorité judiciaire ou par le Ministère public.
 
-[^211-1]: RSB 152.072
+[^211-1]: RSB [152.072](https://www.belex.sites.be.ch/data/152.072/fr)
 
 #### Art. 212
 
