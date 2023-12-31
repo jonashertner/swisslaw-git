@@ -3,20 +3,20 @@ canton: GL
 number: IV A/21/1
 title: Kirchenordnung für die Evangelisch-Reformierte Landeskirche des Kantons Glarus
 language: de
-version: 2023-02-01
-valid_until: 2023-12-31
-version_adopted: 2022-11-10
+version: 2024-01-01
+valid_until: 2024-06-30
+version_adopted: 2023-11-16
 adopted: 1991-01-24
 in_force: 1991-01-24
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-A.21.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2422/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2470/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kirchenordnung für die Evangelisch-Reformierte Landeskirche des Kantons Glarus
 
-Vom 24.01.1991 (Stand 01.02.2023)
+Vom 24.01.1991 (Stand 01.01.2024)
 
 (Beschlossen an der ausserordentlichen Synode vom 24. Januar 1991)
 
@@ -1522,19 +1522,29 @@ Vom 24.01.1991 (Stand 01.02.2023)
 
 #### Art. 173
 
-**Besoldung, Sozialversicherung, Abzug für Amtswohnung, Spesen, Anstellungsvertrag**
+**Besoldung, Sozialversicherung, Spesen, Anstellungsvertrag**
 
 <sup>1</sup> Die Synode regelt auf dem Verordnungsweg die Besoldung sowie die Sozialversicherung der Pfarrpersonen.
 
 <sup>2</sup> Der kantonale Kirchenrat regelt:
 
-- a. die Miete für die Amtswohnung in Absprache mit dem Steueramt
+- a. …
 - b. die Spesenentschädigung sowie
-- c. die Anstellungsbedingungen der Pfarrperson. Der kantonale Kirchenrat erstellt einen Musteranstellungsvertrag und ein Pflichtenheft, welche unter Vorbehalt abweichender Vertragsbestimmungen für die Kirchgemeinden verbindlich sind. Der Entwurf des Anstellungsvertrags ist dem kantonalen Kirchenrat zur Stellungnahme zuzustellen.
+- c. die Anstellungsbedingungen der Pfarrpersonen. Der kantonale Kirchenrat erstellt einen Musteranstellungsvertrag und ein Pflichtenheft, welche unter Vorbehalt abweichender Vertragsbestimmungen für die Kirchgemeinden verbindlich sind. Der Entwurf des Anstellungsvertrages ist dem kantonalen Kirchenrat zur Stellungnahme zuzustellen.
 
-<sup>3</sup> …
+<sup>3–4</sup> …
 
-<sup>4</sup> Pfarrpersonen sind verpflichtet, in der von der Gemeinde zur Verfügung gestellten Amtswohnung Wohnsitz zu nehmen.
+#### Art. 173a
+
+**Wohnsitzpflicht**
+
+<sup>1</sup> Pfarrpersonen sind verpflichtet, auf dem Gebiet einer Glarner Kirchgemeinde Wohnsitz zu nehmen.
+
+<sup>2</sup> Der örtliche Kirchenrat kann eine Pfarrperson vertraglich verpflichten, in der Kirchgemeinde Wohnsitz zu nehmen. Dies kann sich auf eine dafür vorgesehene Amtswohnung oder auf eine freigewählte Wohnung beziehen.
+
+<sup>3</sup> Ein vergünstigter Mietzins wird nur für eine von der Kirchgemeinde bestimmte Amtswohnung gewährt.
+
+<sup>4</sup> Der kantonale Kirchenrat regelt die Miete für die Amtswohnung.
 
 #### Art. 174
 
