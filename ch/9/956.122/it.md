@@ -4,11 +4,11 @@ title: "Ordinanza del 15 ottobre 2008 sulla riscossione di emolumenti e tasse da
 short: Oem-FINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/749"
 language: it
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2008-10-15
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/749/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2008-749-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/749/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/749/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2008-749-20240101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/749/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/749/20230101/it"
 
 (Ordinanza sugli emolumenti e sulle tasse della FINMA, Oem-FINMA)
 
-del 15 ottobre 2008 (Stato 1° gennaio 2023)
+del 15 ottobre 2008 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -546,23 +546,24 @@ La tassa complementare per gli investimenti collettivi di capitale svizzeri è v
 
 La tassa di base ammonta a:
 
-- a. 3000 franchi per impresa di assicurazione;
-- b. 1500 franchi per cassa malati sottoposta alla vigilanza della FINMA secondo la legge del 17 dicembre 2004[^24-1] sulla sorveglianza degli assicuratori (LSA);
-- c. 50 000 franchi per gruppo assicurativo;
-- d. 70 000 franchi per conglomerato assicurativo.
+- a. 6000 franchi per impresa di assicurazione;
+- b. 3000 franchi per cassa malati sottoposta alla sorveglianza della FINMA secondo la legge del 17 dicembre 2004[^24-1] sulla sorveglianza degli assicuratori (LSA);
+- c. 100 000 franchi per gruppo assicurativo;
+- d. 100 000 franchi per conglomerato assicurativo.[^24-2]
 
 <sup>2</sup> La FINMA determina ogni anno, sulla base del calcolo dei costi di vigilanza assunti dalle imprese di assicurazione e dalle casse malati proporzionalmente al volume di premi di ciascun assoggettato, fino a quale importo totale di premi incassati l’assoggettato deve pagare soltanto la tassa di base. Per il calcolo sono determinanti i premi incassati nell’anno che precede l’anno di assoggettamento in base al conto annuale approvato dell’assoggettato.
 
-<sup>3</sup> La tassa di base dei gruppi e dei conglomerati assicurativi è versata dall’impresa che è designata come interlocutrice secondo l’articolo 191 capoverso 3 dell’ordinanza del 9 novembre 2005[^24-2] sulla sorveglianza (OS).
+<sup>3</sup> La tassa di base dei gruppi e dei conglomerati assicurativi è versata dall’impresa che è designata come interlocutrice secondo l’articolo 191 capoverso 3 dell’ordinanza del 9 novembre 2005[^24-3] sulla sorveglianza (OS).
 
 [^24-1]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^24-2]: [RS 961.011](https://fedlex.data.admin.ch/eli/cc/2005/735)
+[^24-2]: Nuovo testo giusta il n. III 2 dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^24-3]: [RS 961.011](https://fedlex.data.admin.ch/eli/cc/2005/735)
 
 #### Art. 25
 
 **Tassa complementare**
 
-<sup>1</sup> L’importo che deve essere finanziato con la tassa complementare è coperto in ragione di quattro quinti dalle imprese di assicurazione e dalle casse malati sottoposte alla vigilanza della FINMA conformemente alla LSA[^25-1], e in ragione di un quinto dai gruppi e dai conglomerati assicurativi.[^25-2]
+<sup>1</sup> L’importo che deve essere finanziato con la tassa complementare è coperto in ragione di nove decimi dalle imprese di assicurazione e dalle casse malati sottoposte alla vigilanza della FINMA conformemente alla LSA[^25-1], e in ragione di un decimo dai gruppi e dai conglomerati assicurativi.[^25-2]
 
 <sup>1bis</sup> Le imprese di assicurazione e le casse malati pagano una tassa complementare se i premi incassati superano la somma fissata dalla FINMA secondo l’articolo 24 capoverso 2.[^25-3]
 
@@ -583,16 +584,17 @@ L’importo determinante dei premi incassati corrisponde:
 - b.[^25-5] per le imprese di assicurazione svizzere che esercitano attività di riassicurazione: a un quinto delle entrate dei premi provenienti dalle attività di riassicurazione, previa deduzione dell’affare retrocesso;
 - c. per le casse malati: alla metà delle entrate dei premi provenienti dai rami assicurativi sottoposti a vigilanza.
 
-<sup>4</sup> La tassa complementare dovuta da un gruppo o da un conglomerato assicurativo è calcolata in funzione della sua quota di partecipazione al totale lordo dei premi, contabilizzati nel mondo intero, incassati da tutti i gruppi e conglomerati assicurativi sottoposti alla sorveglianza svizzera sulle assicurazioni. La base di calcolo è costituita dal conto annuale consolidato e pubblicato dell’anno che precede l’anno di assoggettamento.
+<sup>4</sup> La tassa complementare dovuta da un gruppo o da un conglomerato assicurativo è calcolata in funzione della sua quota di partecipazione al numero totale delle unità giuridiche con personalità giuridica propria appartenenti a un gruppo o a un conglomerato. La base di calcolo è costituita dalle unità notificate dalle società di audit nell’ambito del rapporto consolidato nell’anno che precede l’anno di assoggettamento.[^25-6]
 
-<sup>5</sup> È assoggettata alla tassa l’impresa che è designata come interlocutrice secondo l’articolo 191 capoverso 3 dell’OS[^25-6].
+<sup>5</sup> È assoggettata alla tassa l’impresa che è designata come interlocutrice secondo l’articolo 191 capoverso 3 dell’OS[^25-7].
 
 [^25-1]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^25-2]: Nuovo testo giusta il n. I dell’O del 25 mar. 2009, in vigore dal 1° gen. 2009 ([RU 2009 1559](https://fedlex.data.admin.ch/eli/oc/2009/224)).
+[^25-2]: Nuovo testo giusta il n. III 2 dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 [^25-3]: Introdotto dal n. I dell’O del 25 mar. 2009, in vigore dal 1° gen. 2009 ([RU 2009 1559](https://fedlex.data.admin.ch/eli/oc/2009/224)).
 [^25-4]: Nuovo testo giusta il n. I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)).
 [^25-5]: Nuovo testo giusta il n. I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)).
-[^25-6]: [RS 961.011](https://fedlex.data.admin.ch/eli/cc/2005/735)
+[^25-6]: Nuovo testo giusta il n. III 2 dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^25-7]: [RS 961.011](https://fedlex.data.admin.ch/eli/cc/2005/735)
 
 #### Art. 26
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 15. Oktober 2008 über die Erhebung von Gebühren und Abg
 short: FINMA-GebV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/749"
 language: de
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2008-10-15
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/749/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2008-749-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/749/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/749/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2008-749-20240101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/749/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/749/20230101/de"
 
 (FINMA-Gebühren- und Abgabenverordnung, FINMA-GebV)
 
-vom 15. Oktober 2008 (Stand am 1. Januar 2023)
+vom 15. Oktober 2008 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -547,23 +547,24 @@ Die Zusatzabgabe für schweizerische kollektive Kapitalanlagen wird entrichtet v
 
 Die Grundabgabe beträgt:
 
-- a. 3000 Franken je Versicherungsunternehmen;
-- b. 1500 Franken je Krankenkasse, die nach dem Versicherungsaufsichtsgesetz vom 17. Dezember 2004[^24-1] (VAG) der FINMA unterstellt ist;
-- c. 50 000 Franken je Versicherungsgruppe;
-- d. 70 000 Franken je Versicherungskonglomerat.
+- a. 6000 Franken je Versicherungsunternehmen;
+- b. 3000 Franken je Krankenkasse, die nach dem Versicherungsaufsichtsgesetz vom 17. Dezember 2004[^24-1] (VAG) der FINMA unterstellt ist;
+- c. 100 000 Franken je Versicherungsgruppe;
+- d. 100 000 Franken je Versicherungskonglomerat.[^24-2]
 
 <sup>2</sup> Die FINMA legt jährlich aufgrund einer proportionalen Zurechnung der von den Versicherungsunternehmen und den Krankenkassen zu tragenden Aufsichtskosten zum Prämienvolumen der einzelnen Beaufsichtigten fest, bis zu welcher Prämiensumme einzig die Grundabgabe zu bezahlen ist. Für die Berechnung sind die Prämieneinnahmen des dem Abgabejahr vorangehenden Jahres gemäss den genehmigten Jahresrechnungen der Beaufsichtigten massgebend.
 
-<sup>3</sup> Die Grundabgabe von Versicherungsgruppen und Versicherungskonglomeraten wird vom Unternehmen, welches als Ansprechpartner nach Artikel 191 Absatz 3 der Aufsichtsverordnung vom 9. November 2005[^24-2] (AVO) bezeichnet ist, entrichtet.
+<sup>3</sup> Die Grundabgabe von Versicherungsgruppen und Versicherungskonglomeraten wird vom Unternehmen, welches als Ansprechpartner nach Artikel 191 Absatz 3 der Aufsichtsverordnung vom 9. November 2005[^24-3] (AVO) bezeichnet ist, entrichtet.
 
 [^24-1]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^24-2]: [SR 961.011](https://fedlex.data.admin.ch/eli/cc/2005/735)
+[^24-2]: Fassung gemäss Ziff. III 2 der V vom 2. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^24-3]: [SR 961.011](https://fedlex.data.admin.ch/eli/cc/2005/735)
 
 #### Art. 25
 
 **Zusatzabgabe**
 
-<sup>1</sup> Der Betrag, der über die Zusatzabgabe gedeckt werden muss, wird zu vier Fünfteln von den Versicherungsunternehmen und Krankenkassen, die nach dem VAG[^25-1] der Aufsicht der FINMA unterstellt sind, und zu einem Fünftel von den Versicherungsgruppen und Versicherungskonglomeraten gedeckt.[^25-2]
+<sup>1</sup> Der Betrag, der über die Zusatzabgabe gedeckt werden muss, wird zu neun Zehnteln von den Versicherungsunternehmen und Krankenkassen, die nach dem VAG[^25-1] der Aufsicht der FINMA unterstellt sind, und zu einem Zehntel von den Versicherungsgruppen und Versicherungskonglomeraten gedeckt.[^25-2]
 
 <sup>1bis</sup> Versicherungsunternehmen und Krankenkassen bezahlen eine Zusatzabgabe, wenn ihre Prämieneinnahmen die von der FINMA nach Artikel 24 Absatz 2 festgelegte Summe übersteigt.[^25-3]
 
@@ -584,16 +585,17 @@ Der massgebliche Betrag der Prämieneinnahmen entspricht:
 - b.[^25-5] für schweizerische Versicherungsunternehmen, die das Rückversicherungsgeschäft betreiben: einem Fünftel der Prämieneinnahmen aus dem Rückversicherungsgeschäft, abzüglich des retrozedierten Geschäfts;
 - c. für Krankenkassen: der Hälfte der Prämieneinnahmen aus den der Versicherungsaufsicht unterstellten Versicherungszweigen.
 
-<sup>4</sup> Die von einer Versicherungsgruppe oder einem Versicherungskonglomerat zu tragende Zusatzabgabe berechnet sich nach ihrem Anteil an den weltweit gebuchten Bruttoprämieneinnahmen aller der schweizerischen Versicherungsaufsicht unterstellten Versicherungsgruppen und Versicherungskonglomerate. Berechnungsgrundlage ist die publizierte Konzernjahresrechnung des dem Abgabejahr vorangehenden Jahres.
+<sup>4</sup> Die von einer Versicherungsgruppe oder einem Versicherungskonglomerat zu tragende Zusatzabgabe berechnet sich nach ihrem Anteil an der Gesamtzahl aller zu einer Gruppe oder Konglomerat gehörenden juristischen Einheiten mit eigener Rechtspersönlichkeit. Berechnungsgrundlage ist die von den Prüfgesellschaften im Rahmen der Konzernberichterstattung im dem Abgabejahr vorangehenden Jahr gemeldeten Einheiten.[^25-6]
 
-<sup>5</sup> Abgabepflichtig ist das Unternehmen, welches nach Artikel 191 Absatz 3 der AVO[^25-6] als Ansprechpartner bezeichnet ist.
+<sup>5</sup> Abgabepflichtig ist das Unternehmen, welches nach Artikel 191 Absatz 3 der AVO[^25-7] als Ansprechpartner bezeichnet ist.
 
 [^25-1]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^25-2]: Fassung gemäss Ziff. I der V vom 25. März 2009, in Kraft seit 1. Jan. 2009 ([AS 2009 1559](https://fedlex.data.admin.ch/eli/oc/2009/224)).
+[^25-2]: Fassung gemäss Ziff. III 2 der V vom 2. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 [^25-3]: Eingefügt durch Ziff. I der V vom 25. März 2009, in Kraft seit 1. Jan. 2009 ([AS 2009 1559](https://fedlex.data.admin.ch/eli/oc/2009/224)).
 [^25-4]: Fassung gemäss Ziff. I der V vom 21. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)).
 [^25-5]: Fassung gemäss Ziff. I der V vom 21. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)).
-[^25-6]: [SR 961.011](https://fedlex.data.admin.ch/eli/cc/2005/735)
+[^25-6]: Fassung gemäss Ziff. III 2 der V vom 2. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^25-7]: [SR 961.011](https://fedlex.data.admin.ch/eli/cc/2005/735)
 
 #### Art. 26
 

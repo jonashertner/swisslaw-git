@@ -4,11 +4,11 @@ title: "Ordonnance du 15 octobre 2008 réglant la perception d'émoluments et de
 short: Oém-FINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/749"
 language: fr
-version: 2023-01-01
+version: 2024-01-01
 adopted: 2008-10-15
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/749/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-749-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/749/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/749/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-749-20240101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/749/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/749/20230101/fr"
 
 (Ordonnance sur les émoluments et les taxes de la FINMA, Oém-FINMA)
 
-du 15 octobre 2008 (État le 1<sup>er</sup> janvier 2023)
+du 15 octobre 2008 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -545,23 +545,24 @@ La taxe complémentaire pour les placements collectifs suisses est payée par:
 
 La taxe de base s’élève à:
 
-- a. 3000 francs par entreprise d’assurance;
-- b. 1500 francs par caisse-maladie soumise à la surveillance de la FINMA selon la loi du 17 décembre 2004 sur la surveillance des assurances (LSA)[^24-1];
-- c. 50 000 francs par groupe d’assurance;
-- d. 70 000 francs par conglomérat d’assurance.
+- a. 6000 francs par entreprise d’assurance;
+- b. 3000 francs par caisse-maladie soumise à la FINMA selon la loi du 17 décembre 2004 sur la surveillance des assurances (LSA)[^24-1];
+- c. 100 000 francs par groupe d’assurance;
+- d. 100 000 francs par conglomérat d’assurance.[^24-2]
 
 <sup>2</sup> La FINMA établit chaque année, sur la base du calcul des coûts de surveillance assumés par les entreprises d’assurance et les assurances-maladie proportionnellement au volume de primes de chaque assujetti, jusqu’à quel total de primes encaissées l’assujetti doit seulement payer la taxe de base. Sont déterminantes pour ce calcul les primes encaissées l’année qui précède l’année de taxation, sur la base des comptes annuels approuvés de l’assujetti.
 
-<sup>3</sup> La taxe de base des groupes d’assurance et des conglomérats d’assurance est payée par l’entreprise qui est désignée comme interlocutrice selon l’art. 191, al. 3, de l’ordonnance du 9 novembre 2005 sur la surveillance (OS)[^24-2].
+<sup>3</sup> La taxe de base des groupes d’assurance et des conglomérats d’assurance est payée par l’entreprise qui est désignée comme interlocutrice selon l’art. 191, al. 3, de l’ordonnance du 9 novembre 2005 sur la surveillance (OS)[^24-3].
 
 [^24-1]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^24-2]: [RS 961.011](https://fedlex.data.admin.ch/eli/cc/2005/735)
+[^24-2]: Nouvelle teneur selon le ch. III 2 de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^24-3]: [RS 961.011](https://fedlex.data.admin.ch/eli/cc/2005/735)
 
 #### Art. 25
 
 **Taxe complémentaire**
 
-<sup>1</sup> Le montant financé par la taxe complémentaire est couvert à raison de quatre cinquièmes par les entreprises d’assurance et les caisses-maladie soumises à la surveillance de la FINMA conformément à la LSA[^25-1], et d’un cinquième par les groupes d’assurance et les conglomérats d’assurance. [^25-2]
+<sup>1</sup> Le montant financé par la taxe complémentaire est couvert à raison de neuf dixièmes par les entreprises d’assurance et les caisses-maladie soumises à la surveillance de la FINMA en vertu de la LSA[^25-1] et d’un dixième par les groupes d’assurance et les conglomérats d’assurance.[^25-2]
 
 <sup>1bis</sup> Les entreprises d’assurance et les caisses-maladie paient une taxe complémentaire lorsque leurs primes encaissées dépassent le plafond fixé par la FINMA selon l’art. 24, al. 2. [^25-3]
 
@@ -582,16 +583,17 @@ Le montant déterminant des primes encaissées est constitué par:
 - b.[^25-5] pour les entreprises d’assurance suisses qui exercent leur activité en matière de réassurance: un cinquième des primes provenant de la réassurance, sous déduction des rétrocessions;
 - c. pour les caisses-maladie, la moitié des primes encaissées dans les branches d’assurance soumises à la surveillance.
 
-<sup>4</sup> La taxe complémentaire payable par un groupe d’assurance ou par un conglomérat d’assurance est calculée en fonction de sa part aux primes brutes encaissées comptabilisées dans le monde entier par tous les groupes d’assurance et conglomérats d’assurance soumis à la surveillance suisse des assurances. Les comptes annuels consolidés de l’année qui précède l’année de taxation et publiés constituent la base de calcul.
+<sup>4</sup> La taxe complémentaire payable par un groupe d’assurance ou un conglomérat d’assurance est calculée en fonction de sa part au nombre total de toutes les unités juridiques appartenant à un groupe ou à un conglomérat et dotées d’une personnalité juridique propre. Le calcul est basé sur les unités annoncées par les sociétés d’audit dans l’année qui précède l’année de taxation dans le cadre des rapports consolidés.[^25-6]
 
-<sup>5</sup> Est assujettie à la taxe complémentaire des groupes d’assurance et des conglomérats d’assurance l’entreprise qui est désignée comme interlocutrice selon l’art. 191, al. 3, de l’OS[^25-6].
+<sup>5</sup> Est assujettie à la taxe complémentaire des groupes d’assurance et des conglomérats d’assurance l’entreprise qui est désignée comme interlocutrice selon l’art. 191, al. 3, de l’OS[^25-7].
 
 [^25-1]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^25-2]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2009 1559](https://fedlex.data.admin.ch/eli/oc/2009/224)).
+[^25-2]: Nouvelle teneur selon le ch. III 2 de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 [^25-3]: Introduit par le ch. I de l’O du 25 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2009 1559](https://fedlex.data.admin.ch/eli/oc/2009/224)).
 [^25-4]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)).
 [^25-5]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)).
-[^25-6]: [RS 961.011](https://fedlex.data.admin.ch/eli/cc/2005/735)
+[^25-6]: Nouvelle teneur selon le ch. III 2 de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^25-7]: [RS 961.011](https://fedlex.data.admin.ch/eli/cc/2005/735)
 
 #### Art. 26
 
