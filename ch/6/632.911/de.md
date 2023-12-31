@@ -3,11 +3,11 @@ sr: "632.911"
 title: Verordnung vom 16. März 2007 über die Präferenz-Zollansätze zugunsten der Entwicklungsländer (Zollpräferenzenverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/159"
 language: de
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2007-03-16
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/159/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-159-20220101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/159/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2007-159-20240101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20220101/de"
 
 (Zollpräferenzenverordnung)
 
-vom 16. März 2007 (Stand am 1. Januar 2022)
+vom 16. März 2007 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -48,11 +48,10 @@ Als Entwicklungsländer im Sinne dieser Verordnung gelten die in Anhang 1 aufgef
 
 <sup>2</sup> Die Präferenzzollansätze werden nur gewährt, wenn für die betreffenden Erzeugnisse ein Ursprungsnachweis nach den Bestimmungen der Ursprungsregelnverordnung vom 30. März 2011[^3-1] vorliegt.
 
-<sup>3</sup> Für textile Vor- und Zwischenmaterialien, die in Anhang 1 der Verordnung vom 1. Mai 2019[^3-2] über die vorübergehende Aussetzung von Zollansätzen für textile Vor- und Zwischenmaterialien aufgeführt sind, gelten die dort festgelegten Zollansätze.[^3-3]
+<sup>3</sup> …[^3-2]
 
 [^3-1]: [SR 946.39](https://fedlex.data.admin.ch/eli/cc/2011/220). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) angepasst.
-[^3-2]: [SR 632.102.1](https://fedlex.data.admin.ch/eli/cc/2019/311)
-[^3-3]: Eingefügt durch Anhang 2 Ziff. 1 der V vom 18. Nov. 2015 über die vorübergehende Reduktion von Zollansätzen für Textilien ([AS 2015 4935](https://fedlex.data.admin.ch/eli/oc/2015/807)). Fassung gemäss Anhang 2 Ziff. II 2 der V vom 1. Mai 2019 über die vorübergehende Aussetzung von Zollansätzen für textile Vor- und Zwischenmaterialien, in Kraft vom 1. Juli 2019 bis zum 31. Dez. 2023 ([AS 2019 1611](https://fedlex.data.admin.ch/eli/oc/2019/311)).
+[^3-2]: Eingefügt durch Anhang 2 Ziff. 1 der V vom 18. Nov. 2015 über die vorübergehende Reduktion von Zollansätzen für Textilien ([AS 2015 4935](https://fedlex.data.admin.ch/eli/oc/2015/807)). Aufgehoben durch Anhang 2 Ziff. II 6 der V vom 15. Febr. 2023 über die Änderung des Zolltarifs, mit Wirkung seit 1. Jan. 2024 ([AS 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
 
 #### Art. 4
 
@@ -144,13 +143,13 @@ Die Verordnung vom 29. Januar 1997[^9-1] über die Präferenz-Zollansätze zugun
 
 Diese Verordnung tritt am 1. April 2007 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 2, 5 Abs. 4, 6 Abs. 1 und 2)
 
 ## Liste der Entwicklungsländer und ‑gebiete
 
-[^t-1]: Fassung gemäss Ziff. I der V vom 15. Aug. 2012 ([AS 2012 4331](https://fedlex.data.admin.ch/eli/oc/2012/508)). Bereinigt gemäss Ziff. I der V vom 17. Sept. 2010 ([AS 2010 4097](https://fedlex.data.admin.ch/eli/oc/2010/598), [2014 1463](https://fedlex.data.admin.ch/eli/oc/2014/311)), Ziff. I der V vom 20. Aug. 2014 ([AS 2014 2749](https://fedlex.data.admin.ch/eli/oc/2014/470)), Ziff. I Abs. 1 der V vom 6. Juni 2014 ([AS 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), Ziff. I der V vom 28. März 2018 ([AS 2018 1517](https://fedlex.data.admin.ch/eli/oc/2018/228)), vom 9. Mai. 2018 ([AS 2018 1995](https://fedlex.data.admin.ch/eli/oc/2018/287)), vom 18. Sept. 2020 ([AS 2020 4313](https://fedlex.data.admin.ch/eli/oc/2020/769)), vom 24. Sept. 2021 ([AS 2021 597](https://fedlex.data.admin.ch/eli/oc/2021/597)), Anhang 3 Ziff. 11 der V vom 30. Juni 2021 über die Änderung des Zolltarifs ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)) und Ziff. I der V vom 24. Sept. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 597](https://fedlex.data.admin.ch/eli/oc/2021/597)).
+[^t-1]: Fassung gemäss Ziff. I der V vom 15. Aug. 2012 ([AS 2012 4331](https://fedlex.data.admin.ch/eli/oc/2012/508)). Bereinigt gemäss Ziff. I der V vom 17. Sept. 2010 ([AS 2010 4097](https://fedlex.data.admin.ch/eli/oc/2010/598), [2014 1463](https://fedlex.data.admin.ch/eli/oc/2014/311)), Ziff. I der V vom 20. Aug. 2014 ([AS 2014 2749](https://fedlex.data.admin.ch/eli/oc/2014/470)), Ziff. I Abs. 1 der V vom 6. Juni 2014 ([AS 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), Ziff. I der V vom 28. März 2018 ([AS 2018 1517](https://fedlex.data.admin.ch/eli/oc/2018/228)), vom 9. Mai. 2018 ([AS 2018 1995](https://fedlex.data.admin.ch/eli/oc/2018/287)), vom 18. Sept. 2020 ([AS 2020 4313](https://fedlex.data.admin.ch/eli/oc/2020/769)), Anhang 3 Ziff. 11 der V vom 30. Juni 2021 über die Änderung des Zolltarifs ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), Ziff. I der V vom 24. Sept. 2021 ([AS 2021 597](https://fedlex.data.admin.ch/eli/oc/2021/597)) und Anhang 2 Ziff. II 6 der V vom 15. Febr. 2023 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2024 ([AS 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
 
 Spalte A: ISO-Ländercode
 
@@ -227,7 +226,7 @@ Spalte E: Aussetzungen von Zollpräferenzen
 <tr><td>KI</td><td>Kiribati</td><td>X</td><td></td><td></td></tr>
 <tr><td>KM</td><td>Komoren</td><td>X</td><td>X</td><td></td></tr>
 <tr><td>KN</td><td>St. Kitts und Nevis</td><td></td><td></td><td></td></tr>
-<tr><td>KP</td><td>Demokratische Volksrepublik Korea</td><td></td><td></td><td>Die Präferenzansätze der Kapitel 50–64 des schweizerischen Zolltarifs (Spinnstoffe, Waren daraus und Schuhe) sowie der Nrn. 9405.9912 (Lampenschirme) und ex 9619.0000 (hygienische Binden und Tampons, Windeln und ähnliche Waren aus Spinnstoffen) sind auf Waren mit Ursprung in diesem Land nicht anwendbar, ausgenommen: Waren der Nrn. ex 5007.2010 (Pongée-, Habutai-, Honan-, Shantung oder Corahgewebe und ähnliche ostasiatische Gewebe, ganz aus Seide, nicht mit Schappeseide Bourretteseide oder anderen Spinnstoffen gemischt), 5101.1100/1900, 5307.2000, 5310.1000/9000, 5607.9020, ex 5608.9000 (Jute und Kokosprodukte), 5701.1000/5703.9000, 5705.0000, 5805.0000, 6305.1000, ex 6305.9000 (Kokosprodukte).</td></tr>
+<tr><td>KP</td><td>Demokratische Volksrepublik Korea</td><td></td><td></td><td></td></tr>
 <tr><td>KZ</td><td>Kasachstan</td><td></td><td></td><td></td></tr>
 <tr><td>LA</td><td>Laos</td><td>X</td><td></td><td></td></tr>
 <tr><td>LC</td><td>St. Lucia</td><td></td><td></td><td></td></tr>
@@ -295,13 +294,13 @@ Spalte E: Aussetzungen von Zollpräferenzen
 <tr><td>ZW</td><td>Simbabwe</td><td></td><td></td><td></td></tr>
 </table>
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 3 und 4)
 
 ## Liste der Zollpräferenzen
 
-[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V vom 25. März 2009 ([AS 2009 1149](https://fedlex.data.admin.ch/eli/oc/2009/188)). Bereinigt gemäss Ziff. I Abs. 2 der V vom 10. Juni 2011 ([AS 2011 2541](https://fedlex.data.admin.ch/eli/oc/2011/359)), Anhang 3 Ziff. 11 der V vom 22. Juni 2011 über die Änderung des Zolltarifs ([AS 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), Ziff. I Abs. 2 der V vom 6. Juni 2014 ([AS 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), Anhang 3 Ziff. 8 der V vom 10. Juni 2016 über die Änderung des Zolltarifs ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)) und Anhang 2 Ziff. 5 der V vom 29. Juni 2016 über die Änderung des Zolltarifs im Zusammenhang mit Zollansätzen für gewisse Informationstechnologieprodukte ([AS 2016 2647](https://fedlex.data.admin.ch/eli/oc/2016/424)) und Anhang 3 Ziff. 11 der V vom 30. Juni 2021 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2022 ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
+[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V vom 25. März 2009 ([AS 2009 1149](https://fedlex.data.admin.ch/eli/oc/2009/188)). Bereinigt gemäss Ziff. I Abs. 2 der V vom 10. Juni 2011 ([AS 2011 2541](https://fedlex.data.admin.ch/eli/oc/2011/359)), Anhang 3 Ziff. 11 der V vom 22. Juni 2011 über die Änderung des Zolltarifs ([AS 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), Ziff. I Abs. 2 der V vom 6. Juni 2014 ([AS 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), Anhang 3 Ziff. 8 der V vom 10. Juni 2016 über die Änderung des Zolltarifs ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), Anhang 2 Ziff. 5 der V vom 29. Juni 2016 über die Änderung des Zolltarifs im Zusammenhang mit Zollansätzen für gewisse Informationstechnologieprodukte ([AS 2016 2647](https://fedlex.data.admin.ch/eli/oc/2016/424)), Anhang 3 Ziff. 11 der V vom 30. Juni 2021 über die Änderung des Zolltarifs ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)) und Anhang 2 Ziff. II 6 der V vom 15. Febr. 2023 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2024 ([AS 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
 
 <table>
 <tr><th>Tarif-Nr.[^annex2-lvlu1-1]</th><th colspan="2">Präferenz-Zollansatz</th><th>Zollkontingente; besondere Bestimmungen</th></tr>
@@ -597,7 +596,7 @@ Anhang 2*[^t-2]*
 <tr><td colspan="2">40 90</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">1007. 10 00, 90 90</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">1008. 50 29</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">90 27</td><td>frei</td><td></td><td colspan="2">Amaranth (*Amaranthus L.*) und Kañiwa (*Chenopodium pall**i**dicaule*)</td></tr>
+<tr><td colspan="2">90 27</td><td>frei</td><td></td><td colspan="2">Amaranth (*Amaranthus L.*) und Kañiwa (*Chenopodium pallidicaule*)</td></tr>
 <tr><td colspan="2">1102. 90 59</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">1104. 30 99</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">1106. 10 90</td><td>frei</td><td></td><td colspan="2"></td></tr>
@@ -821,105 +820,15 @@ Anhang 2*[^t-2]*
 <tr><td colspan="2">19 90</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">91 90</td><td>7.30</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">92 00/99 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">2501. 00 10/</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">2706. 0000</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">2708. 1000</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">2712. 1000/</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">2853. 9000</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">2903. 1100/</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">2904. 9090</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">2905. 11 90, 12 90</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">13 00, 14 90</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">16 90, 17 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">19 80, 22 99</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">29 99/42 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">43 00</td><td>bT</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">4 00/59 90</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">2906. 11 90/</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">2908. 99 80</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">2909. 11 00, 19 99</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">20 99, 30 99</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">41 00, 43 90</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">44 80, 49 99</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">50 99, 60 90</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">2910. 1000/</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">3403. 11 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">3403. 91 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">3404. 20 00/</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">3407. 00 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">3503. 0000/</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">3504. 00 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">3506. 10 00/91 80</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">99 10</td><td></td><td>6.—</td><td colspan="2"></td></tr>
-<tr><td colspan="2">99 90</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">3507. 1010/</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">3603. 10 00/60 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">3604. 10 00/90 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">3605. 00 00/</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">3808. 99 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">3809. 10 90/</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">3811. 29 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">3811. 90 90/</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">3813. 00 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">3814. 00 90/</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">3816. 00 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">3817. 00 90/</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">3822. 90 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">3823. 11 90</td><td></td><td>1.—</td><td colspan="2"></td></tr>
-<tr><td colspan="2">12 90/13 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">19 90/70 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">3824. 10 10</td><td></td><td>1.50</td><td colspan="2"></td></tr>
-<tr><td colspan="2">19 90/99 19</td><td>frei</td><td></td><td colspan="2"></td></tr>
+<tr><td colspan="2">[tab] 3506.99 10</td><td></td><td>6.—</td><td colspan="2"></td></tr>
+<tr><td colspan="2">[tab] 3824.10 10</td><td></td><td>1.50</td><td colspan="2"></td></tr>
 <tr><td colspan="2">99 91</td><td></td><td>2.—</td><td colspan="2"></td></tr>
-<tr><td colspan="2">99 99</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">3825. 10 00/69 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">90 90</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">3826. 00 90/</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">3827. 90 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">3901. 10 00/</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">4911. 99 90</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">5004. 00 10/</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">5007. 90 30</td><td></td><td>50 %</td><td colspan="2"></td></tr>
-<tr><td colspan="2">5104. 00 00/</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">5109. 90 00</td><td></td><td>50 %</td><td colspan="2"></td></tr>
-<tr><td colspan="2">5110. 00 10/00 90</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">5111. 11 00/</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">5112. 90 90</td><td></td><td>50 %</td><td colspan="2"></td></tr>
-<tr><td colspan="2">5113. 00 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">5204. 11 00/</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">5212. 25 00</td><td></td><td>50 %</td><td colspan="2"></td></tr>
-<tr><td colspan="2">5306. 10 10/</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">5311. 00 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">5401. 10 00/</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">5606. 00 90</td><td></td><td>50 %</td><td colspan="2"></td></tr>
-<tr><td colspan="2">5607. 21 00/29 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">41 00/50 00</td><td></td><td>50 %</td><td colspan="2"></td></tr>
-<tr><td colspan="2">90 10/90 20</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">5607. 90 80/</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">5608. 19 00</td><td></td><td>50 %</td><td colspan="2"></td></tr>
-<tr><td colspan="2">5608. 90 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">5609. 00 00/</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">5702. 10 00</td><td></td><td>50 %</td><td colspan="2"></td></tr>
-<tr><td colspan="2">5702. 20 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">5702. 31 00/</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">5704. 90 00</td><td></td><td>50 %</td><td colspan="2"></td></tr>
-<tr><td colspan="2">5705. 00 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">5801. 10 00/</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">6304. 99 90</td><td></td><td>50 %</td><td colspan="2"></td></tr>
-<tr><td colspan="2">6305. 10 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">6305. 20 00/</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">6309. 00 00</td><td></td><td>50 %</td><td colspan="2"></td></tr>
-<tr><td colspan="2">6401. 10 00/</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">6507. 00 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">6601. 10 00/99 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">6602. 00 00/</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">9706. 90 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
 </table>
 
 [^annex2-lvlu1-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
 [^annex2-lvlu1-2]: beweglicher Teilbetrag
 
-Anhang 2a*[^t-3]*
+Anhang 2a[^t-3]
 
 [^t-3]: Eingefügt durch Ziff. II Abs. 2 der V vom 7. Dez. 2007 ([AS 2007 7053](https://fedlex.data.admin.ch/eli/oc/2007/921)). Aufgehoben durch Ziff. II Abs. 2 der V vom 25. März 2009, in Kraft seit 1. April 2009 ([AS 2009 1149](https://fedlex.data.admin.ch/eli/oc/2009/188)).
 

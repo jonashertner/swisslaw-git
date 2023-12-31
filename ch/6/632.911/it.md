@@ -3,11 +3,11 @@ sr: "632.911"
 title: Ordinanza del 16 marzo 2007 concernente le aliquote di dazio preferenziali a favore dei Paesi in sviluppo (Ordinanza sulle preferenze tariffali)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/159"
 language: it
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2007-03-16
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/159/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-159-20220101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/159/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2007-159-20240101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20220101/it"
 
 (Ordinanza sulle preferenze tariffali)
 
-del 16 marzo 2007 (Stato 1° gennaio 2022)
+del 16 marzo 2007 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -48,11 +48,10 @@ Ai sensi della presente ordinanza sono considerati Paesi in sviluppo i Paesi e t
 
 <sup>2</sup> Le aliquote di dazio preferenziali sono concesse soltanto se per i prodotti in questione viene prodotta una prova dell’origine secondo le disposizioni dell’ordinanza del 30 marzo 2011[^3-1] sulle regole d’origine.
 
-<sup>3</sup> Ai materiali tessili e ai materiali tessili intermedi che figurano nell’allegato 1 dell’ordinanza del 1° maggio 2019[^3-2] sulla sospensione temporanea delle aliquote di dazio per materiali tessili e materiali tessili intermedi si applicano le aliquote di dazio ivi fissate.[^3-3]
+<sup>3</sup> ...[^3-2]
 
 [^3-1]: [RS 946.39](https://fedlex.data.admin.ch/eli/cc/2011/220). Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
-[^3-2]: [RS 632.102.1](https://fedlex.data.admin.ch/eli/cc/2019/311)
-[^3-3]: Introdotto dall’all. 2 n. 1 dell’O del 18 nov. 2015 sulla riduzione temporanea delle aliquote di dazio per tessili ([RU 2015 4935](https://fedlex.data.admin.ch/eli/oc/2015/807)). Nuovo testo giusta l’all. 2 n. II 2 dell’O del 1° mag. 2019 sulla sospensione temporanea delle aliquote di dazio per materiali tessili e materiali tessili intermedi, in vigore dal 1° lug. 2019 con effetto sino al 31 dic. 2023 ([RU 2019 1611](https://fedlex.data.admin.ch/eli/oc/2019/311)).
+[^3-2]: Introdotto dall’all. 2 n. 1 dell’O del 18 nov. 2015 sulla riduzione temporanea delle aliquote di dazio per tessili ([RU 2015 4935](https://fedlex.data.admin.ch/eli/oc/2015/807)). Abrogato dall’all. 2 n. II 6 dell’O del 15 feb. 2023 concernente la modifica della tariffa doganale, con effetto dal 1° gen. 2024 ([RU 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
 
 #### Art. 4
 
@@ -144,19 +143,23 @@ L’ordinanza del 29 gennaio 1997[^9-1] concernente le aliquote di dazio prefere
 
 La presente ordinanza entra in vigore il 1° aprile 2007.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 2, 5 cpv. 4, 6 cpv. 1 e 2)
 
 ## Elenco dei Paesi e territori in sviluppo
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del 15 ago. 2012 ([RU 2012 4331](https://fedlex.data.admin.ch/eli/oc/2012/508)). Aggiornato dal n. I dell’O del 17 set. 2010 ([RU 2010 4097](https://fedlex.data.admin.ch/eli/oc/2010/598), [2014 1463](https://fedlex.data.admin.ch/eli/oc/2014/311)), dal n. I dell’O del 20 ago. 2014 ([RU 2014 2749](https://fedlex.data.admin.ch/eli/oc/2014/470)), dal n. I cpv. 1 dell’O del 6 giu. 2014 ([RU 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), dal n. I delle O del 28 mar. 2018 ([RU 2018 1517](https://fedlex.data.admin.ch/eli/oc/2018/228)), del 9 mag. 2018 ([RU 2018 1995](https://fedlex.data.admin.ch/eli/oc/2018/287)), del 18 set. 2020 ([RU 2020 4313](https://fedlex.data.admin.ch/eli/oc/2020/769)), dall’all. 3 n. 11 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)) e dal n. I dell’O del 24 set. 2021, in vigore dal 1° gen. 2022 ([RU 2021 597](https://fedlex.data.admin.ch/eli/oc/2021/597)).
+[^t-1]: Nuovo testo giusta il n. I dell’O del 15 ago. 2012 ([RU 2012 4331](https://fedlex.data.admin.ch/eli/oc/2012/508)). Aggiornato dal n. I dell’O del 17 set. 2010 ([RU 2010 4097](https://fedlex.data.admin.ch/eli/oc/2010/598), [2014 1463](https://fedlex.data.admin.ch/eli/oc/2014/311)), dal n. I dell’O del 20 ago. 2014 ([RU 2014 2749](https://fedlex.data.admin.ch/eli/oc/2014/470)), dal n. I cpv. 1 dell’O del 6 giu. 2014 ([RU 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), dal n. I delle O del 28 mar. 2018 ([RU 2018 1517](https://fedlex.data.admin.ch/eli/oc/2018/228)), del 9 mag. 2018 ([RU 2018 1995](https://fedlex.data.admin.ch/eli/oc/2018/287)), del 18 set. 2020 ([RU 2020 4313](https://fedlex.data.admin.ch/eli/oc/2020/769)), dall’all. 3 n. 11 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), dal n. I dell’O del 24 set. 2021 ([RU 2021 597](https://fedlex.data.admin.ch/eli/oc/2021/597)) e dall’all. 2 n. II 6 dell’O del 15 feb. 2023 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2024 ([RU 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
 
-- Colonna A: Codice ISO del Paese
-- Colonna B: Nome del Paese
-- Colonna C: Paesi che sono considerati Paesi in sviluppo meno progrediti (art. 6 cpv. 1)
-- Colonna D: Paesi che hanno aderito ad un’iniziativa internazionale per la riduzione del debito e che non sono ancora sdebitati (art. 6 cpv. 2)
-- Colonna E: Sospensioni delle preferenze tariffali (art. 5 cpv. 4; art. 2 cpv. 1 della L del 9 ott. 1981 sulle preferenze tariffali)
+Colonna A: Codice ISO del Paese
+
+Colonna B: Nome del Paese
+
+Colonna C: Paesi che sono considerati Paesi in sviluppo meno progrediti (art. 6 cpv. 1)
+
+Colonna D: Paesi che hanno aderito ad un’iniziativa internazionale per la riduzione del debito e che non sono ancora sdebitati (art. 6 cpv. 2)
+
+Colonna E: Sospensioni delle preferenze tariffali (art. 5 cpv. 4; art. 2 cpv. 1 della L del 9 ott. 1981 sulle preferenze tariffali)
 
 <table>
 <tr><th>A</th><th>B</th><th>C</th><th>D</th><th>E</th></tr>
@@ -213,7 +216,7 @@ Allegato 1*[^t-1]*
 <tr><td>KI</td><td>Kiribati</td><td>X</td><td></td><td></td></tr>
 <tr><td>KM</td><td>Comore</td><td>X</td><td>X</td><td></td></tr>
 <tr><td>KN</td><td>Saint Kitts e Nevis</td><td></td><td></td><td></td></tr>
-<tr><td>KP</td><td>Repubblica popolare democratica di Corea</td><td></td><td></td><td>Le aliquote di dazio preferenziali dei capitoli 50–64 della tariffa doganale svizzera (materie tessili, articoli di dette materie e calzature), della voce di tariffa 9405.9912 (paralumi) e della voce ex 9619.0000 (assorbenti e tamponi igienici, pannolini, pannoloni e articoli simili di materie tessili) non sono applicabili alle merci originarie di questo Paese, eccettuate le merci delle voci di tariffa ex 5007.2010 (pongée, habutai, honan, shantung, corah e tessuti simili dell’Estremo Oriente, di seta pura non mista con borra di seta, con cascami di borra di seta o con altre materie tessili), 5101.1100/1900, 5307.2000, 5310.1000/9000, 5607.9020, ex 5608.9000 (manufatti di iuta e di cocco), 5701.1000/5703.9000, 5705.0000, 5805.0000, 6305.1000, ex 6305.9000 (manufatti di cocco).</td></tr>
+<tr><td>KP</td><td>Repubblica popolare democratica di Corea</td><td></td><td></td><td></td></tr>
 <tr><td>KZ</td><td>Kazakistan</td><td></td><td></td><td></td></tr>
 <tr><td>LA</td><td>Laos</td><td>X</td><td></td><td></td></tr>
 <tr><td>LC</td><td>Saint Lucia</td><td></td><td></td><td></td></tr>
@@ -281,13 +284,13 @@ Allegato 1*[^t-1]*
 <tr><td>ZW</td><td>Zimbabwe</td><td></td><td></td><td></td></tr>
 </table>
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 3 e 4)
 
 ## Elenco delle preferenze
 
-[^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del 25 mar. 2009 ([RU 2009 1149](https://fedlex.data.admin.ch/eli/oc/2009/188)). Aggiornato dal n. I cpv. 2 dell’O del 10 giu. 2011 ([RU 2011 2541](https://fedlex.data.admin.ch/eli/oc/2011/359)), dal n. 11 dell’all. 3 all’O del 22 giu. 2011 concernente la modifica della tariffa doganale ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), dal n. I cpv. 2 dell’O del 6 giu. 2014 ([RU 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), dal n. 8 dell’all. 3 all’O del 10 giu. 2016 concernente la modifica della tariffa doganale ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), dal n. 5 dell’all. 2 dell’O del 29 giu. 2016 che modifica la tariffa doganale relativamente ai dazi doganali per alcuni prodotti delle tecnologie dell’informazione ([RU 2016 2647](https://fedlex.data.admin.ch/eli/oc/2016/424)) e dall’all. 3 n. 11 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
+[^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del 25 mar. 2009 ([RU 2009 1149](https://fedlex.data.admin.ch/eli/oc/2009/188)). Aggiornato dal n. I cpv. 2 dell’O del 10 giu. 2011 ([RU 2011 2541](https://fedlex.data.admin.ch/eli/oc/2011/359)), dal n. 11 dell’all. 3 all’O del 22 giu. 2011 concernente la modifica della tariffa doganale ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), dal n. I cpv. 2 dell’O del 6 giu. 2014 ([RU 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), dal n. 8 dell’all. 3 all’O del 10 giu. 2016 concernente la modifica della tariffa doganale ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), dal n. 5 dell’all. 2 dell’O del 29 giu. 2016 che modifica la tariffa doganale relativamente ai dazi doganali per alcuni prodotti delle tecnologie dell’informazione ([RU 2016 2647](https://fedlex.data.admin.ch/eli/oc/2016/424)), dall’all. 3 n. 11 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)) e dall’all. 2 n. II 6 dell’O del 15 feb. 2023 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2024 ([RU 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
 
 <table>
 <tr><th colspan="2">Voce di tariffa[^annex2-lvlu1-1]</th><th colspan="2">Aliquota di dazio preferenziale</th><th></th><th>Contingenti doganali; disposizioni particolari</th></tr>
@@ -322,12 +325,12 @@ Allegato 2*[^t-2]*
 <tr><td></td><td>19 81</td><td></td><td>10.—</td><td></td><td></td></tr>
 <tr><td></td><td>21 10</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>21 91</td><td></td><td>13.—</td><td></td><td></td></tr>
-<tr><td></td><td>22 10</td><td>esente</td><td></td><td></td><td></td></tr>
 </table>
 
 <table>
 <tr><th colspan="2">Voce di tariffa</th><th colspan="2">Aliquota di dazio preferenziale</th><th></th><th>Contingenti doganali; disposizioni particolari</th></tr>
 <tr><th colspan="2"></th><th>applicabile</th><th>Aliquota normale meno</th><th></th><th></th></tr>
+<tr><td></td><td>22 10</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>22 10</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>22 91</td><td></td><td>10.—</td><td></td><td></td></tr>
 <tr><td></td><td>29 10</td><td>esente</td><td></td><td></td><td></td></tr>
@@ -584,7 +587,7 @@ Allegato 2*[^t-2]*
 <tr><td></td><td>40 90</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td>1007.</td><td>10 00, 90 90</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td>1008.</td><td>50 29</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>90 27</td><td>esente</td><td></td><td></td><td>amaranto (*Amaranthus L.*) e kañiwa (*Chenopodium pall**i**dicaule*)</td></tr>
+<tr><td></td><td>90 27</td><td>esente</td><td></td><td></td><td>amaranto (*Amaranthus L.*) e kañiwa (*Chenopodium pallidicaule*)</td></tr>
 <tr><td>1102.</td><td>90 59</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td>1104.</td><td>30 99</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td>1106.</td><td>10 90</td><td>esente</td><td></td><td></td><td></td></tr>
@@ -808,104 +811,15 @@ Allegato 2*[^t-2]*
 <tr><td></td><td>19 90</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>91 90</td><td>7.30</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>92 00/99 00</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td>2501.</td><td>00 10/</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>2706. 0000</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td>2708.</td><td>1000</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td>2712.</td><td>1000/</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>2853.</td><td>9000</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td>2903.</td><td>1100/</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>2904.9090</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td>2905.</td><td>11 90, 12 90</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>13 00, 14 90</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>16 90, 17 00</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>19 80, 22 99</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>29 99/42 00</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>43 00</td><td>em</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>44 00/59 90</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td>2906.</td><td>11 90/</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>2908. 99 80</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td>2909.</td><td>11 00, 19 99</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>20 99, 30 99</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>41 00, 43 90</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>44 80, 49 99</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>50 99, 60 90</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td>2910.</td><td>1000/</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>3403. 11 00</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td>3403.</td><td>91 00</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td>3404.</td><td>20 00/</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>3407. 00 00</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td>3503.</td><td>0000/</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>3504. 00 00</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td>3506.</td><td>10 00/91 80</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>99 10</td><td></td><td>6.—</td><td></td><td></td></tr>
-<tr><td></td><td>99 90</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td>3507</td><td>1010/</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>3603.</td><td>10 00/60 00</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td>3604.</td><td>10 00/90 00</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td>3605.</td><td>00 00/</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>3808. 99 00</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td>3809.</td><td>10 90/</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>3811. 29 00</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td>3811.</td><td>90 90/</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>3813. 00 00</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td>3814.</td><td>00 90/</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>3816. 00 00</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td>3817.</td><td>00 90/</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>3822.90 00</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td>3823.</td><td>11 90</td><td></td><td>1.—</td><td></td><td></td></tr>
-<tr><td></td><td>12 90/13 00</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>19 90/70 00</td><td>esente</td><td></td><td></td><td></td></tr>
+<tr><td>3506.</td><td>99 10</td><td></td><td>6.—</td><td></td><td></td></tr>
 <tr><td>3824.</td><td>10 10</td><td></td><td>1.50</td><td></td><td></td></tr>
-<tr><td></td><td>19 90/99 19</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>99 91</td><td></td><td>2.—</td><td></td><td></td></tr>
-<tr><td></td><td>99 99</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td>3825.</td><td>10 00/69 00</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>90 90</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td>3826.</td><td>00 90/</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>3827.90 00</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>3901.</td><td>10 00/</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>4911.99 90</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td>5004.</td><td>00 10/</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>5007. 90 30</td><td></td><td>50 %</td><td></td><td></td></tr>
-<tr><td>5104.</td><td>00 00/</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>5109. 90 00</td><td></td><td>50 %</td><td></td><td></td></tr>
-<tr><td>5110.</td><td>00 10/00 90</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td>5111.</td><td>11 00/</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>5112. 90 90</td><td></td><td>50 %</td><td></td><td></td></tr>
-<tr><td>5113.</td><td>00 00</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td>5204.</td><td>11 00/</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>5212. 25 00</td><td></td><td>50 %</td><td></td><td></td></tr>
-<tr><td>5306.</td><td>10 10/</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>5311. 00 00</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td>5401.</td><td>10 00/</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>5606. 00 90</td><td></td><td>50 %</td><td></td><td></td></tr>
-<tr><td>5607.</td><td>21 00/29 00</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>41 00/50 00</td><td></td><td>50 %</td><td></td><td></td></tr>
-<tr><td></td><td>90 10/90 20</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td>5607.</td><td>90 80/</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>5608. 19 00</td><td></td><td>50 %</td><td></td><td></td></tr>
-<tr><td>5608.</td><td>90 00</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td>5609.</td><td>00 00/</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>5702. 10 00</td><td></td><td>50 %</td><td></td><td></td></tr>
-<tr><td>5702.</td><td>20 00</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td>5702.</td><td>31 00/</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>5704. 90 00</td><td></td><td>50 %</td><td></td><td></td></tr>
-<tr><td>5705.</td><td>00 00</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td>5801.</td><td>10 00/</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>6304. 99 90</td><td></td><td>50 %</td><td></td><td></td></tr>
-<tr><td>6305.</td><td>10 00</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td>6305.</td><td>20 00/</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>6309. 00 00</td><td></td><td>50 %</td><td></td><td></td></tr>
-<tr><td>6401.</td><td>10 00/</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>6601.</td><td>10 00/99 00</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td>6602.</td><td>00 00/</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>9706. 90 00</td><td>esente</td><td></td><td></td><td></td></tr>
 </table>
 
 [^annex2-lvlu1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), allegato
 [^annex2-lvlu1-2]: elemento mobile
 
-Allegato 2a*[^t-3]*
+Allegato 2a[^t-3]
 
 [^t-3]: Introdotto dal n. II cpv. 2 dell’O del 7 dic. 2007 ([RU 2007 7053](https://fedlex.data.admin.ch/eli/oc/2007/921)). Abrogato dal II cpv. 2 dell’O del 25 mar. 2009, con effetto dal 1° apr. 2009 ([RU 2009 1149](https://fedlex.data.admin.ch/eli/oc/2009/188)).
 
