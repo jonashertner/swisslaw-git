@@ -4,7 +4,7 @@ number: "178.11.1"
 title: "RÈGLEMENT du 16.12.2004 d'application de la loi du 29 juin 2004 sur le notariat (RLNo)"
 short: RLNo
 language: fr
-version: 2019-05-01
+version: 2024-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/178.11.1?id=d20374c7-9bdf-4480-8882-597d56d5c6ab"
 ---
 
@@ -58,7 +58,7 @@ arrête
 
 <sup>5</sup> Le notaire peut disposer d'une infrastructure technique permanente.
 
-<sup>6</sup> L'étude secondaire ne peut comporter qu'un seul poste de travail.
+<sup>6</sup> L'étude secondaire peut comporter plusieurs postes de travail représentant au maximum deux équivalents temps plein.
 
 <sup>7</sup> Le notaire doit exercer son activité de manière régulière à son étude secondaire.
 
@@ -66,7 +66,7 @@ arrête
 
 <sup>9</sup> Le préfet du lieu de l'étude secondaire contrôle le respect des conditions fixées pour l'ouverture d'une étude secondaire. Il informe le département des irrégularités qu'il constate.
 
-[^2-1]: Modif. 6 du 27.09.2023: Modification Al. 6; entrée en vigueur au 01.01.2024; Introduction Art. 8a; entrée en vigueur au 01.01.2024; Introduction Art. 10, Al. 1bis; entrée en vigueur au 01.01.2024; Introduction Art. 11, Al. 1bis; entrée en vigueur au 01.01.2024; Introduction Art. 51, Al. 7; entrée en vigueur au 01.01.2024
+[^2-1]: Modif. 6 du 27.09.2023: Modification Al. 6; entrée en vigueur au 01.01.2024
 [^3-1]: Loi du 29.06.2004 sur le notariat ([BLV 178.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/178.11?id=58f222d6-4993-495a-868c-c9b332436207))
 
 ## Titre II Du stage
@@ -79,7 +79,7 @@ arrête
 
 - - un certificat individuel d'état civil récent et une pièce d'identité;
 - - un extrait du casier judiciaire;
-- - une attestation de la justice de paix selon laquelle il ne fait pas l'objet d'une mesure tutélaire;
+- - une attestation de l'autorité de protection de l'adulte selon laquelle il ne fait pas l'objet d'une mesure de protection de l'adulte;
 - - un certificat de bonnes moeurs;
 - - un extrait du registre des poursuites de son domicile;
 - - une déclaration d'un notaire habilité à former des stagiaires certifiant son entrée en stage;
@@ -89,7 +89,7 @@ arrête
 
 <sup>2</sup> Le département vérifie que le candidat remplit les conditions posées par la loi [^4-1] et le règlement. Il délivre un certificat d'entrée en stage.
 
-[^titleTitreII-1]: Modif. 6 du 27.09.2023: Modification Al. 1, Tiret 3; entrée en vigueur au 01.01.2024; Introduction Art. 8a; entrée en vigueur au 01.01.2024; Introduction Art. 10, Al. 1bis; entrée en vigueur au 01.01.2024; Introduction Art. 11, Al. 1bis; entrée en vigueur au 01.01.2024; Introduction Art. 51, Al. 7; entrée en vigueur au 01.01.2024
+[^titleTitreII-1]: Modif. 6 du 27.09.2023: Modification Al. 1, Tiret 3; entrée en vigueur au 01.01.2024
 [^4-1]: Loi du 29.06.2004 sur le notariat ([BLV 178.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/178.11?id=58f222d6-4993-495a-868c-c9b332436207))
 
 #### Art. 5
@@ -144,6 +144,14 @@ arrête
 
 ## Titre III Des examens
 
+#### Art. 8a
+
+**Commission d'examens (art. 19 LNo) [^titleTitreIII-1]**
+
+<sup>1</sup> Les notaires désignés par le Conseil d'Etat pour faire partie de la commission d'examens doivent être titulaires d'une patente depuis au moins cinq ans.
+
+[^titleTitreIII-1]: Modif. 6 du 27.09.2023: Introduction tArt; entrée en vigueur au 01.01.2024; Introduction Al. 1; entrée en vigueur au 01.01.2024; Introduction Art. 8a; entrée en vigueur au 01.01.2024
+
 #### Art. 9
 
 **Programme des examens (art. 20 LNo)**
@@ -167,19 +175,21 @@ arrête
 
 <sup>1</sup> Le président de la commission fait connaître par un avis dans la Feuille des avis officiels, au moins trois mois à l'avance, le jour où les examens commenceront. Il fixe le délai d'inscription.
 
-<sup>2</sup> Chaque candidat doit produire auprès du département les documents suivants dans le délai :
+<sup>1bis</sup> Le candidat dispose d'un délai de cinq ans dès la fin de son stage pour se présenter aux examens. Les éventuelles deuxièmes et troisièmes tentatives doivent être entreprises dans ce délai. Lorsque des circonstances particulières le justifient, et sur demande motivée, le département peut octroyer une prolongation de ce délai.
+
+<sup>2</sup> Chaque candidat doit produire auprès du département les documents suivants avant l'échéance du délai d'inscription :
 
 - - un certificat d'entrée en stage ;
-- - une attestation sur la durée du stage satisfaisant aux exigences légales au jour de sa délivrance, par son ou ses patrons de stage ;
+- - une attestation de son ou ses maîtres de stage portant sur la durée du stage, dont la durée légale doit être atteinte au plus tard à la fin du mois durant lequel le délai d'inscription échoit;
 - - une attestation constatant qu'il a suivi les cours pratiques et théoriques organisés par l'Association des notaires vaudois (art. 22, al.3 LNo [^10-1] ).
 
 <sup>3</sup> Le candidat doit payer le montant de la taxe d'examen, fixé à 1'500 francs. Le non-paiement de la taxe d'examen dans le délai imparti vaut retrait de l'inscription.
 
-<sup>4</sup> Le département transmet à la commission d'examens les candidatures remplissant les conditions fixées par la loi et le règlement.
+<sup>4</sup> Le département statue sur la validité des candidatures et transmet à la commission d'examens celles qui remplissent les conditions fixées par la loi et le règlement
 
 <sup>5</sup> Sauf cas de force majeure, la taxe d'examen n'est pas remboursée en cas de retrait d'une candidature acceptée, ni si le candidat ne se présente pas aux examens.
 
-[^9-1]: Modif. 2 du 21.05.2008: Modification Al. 2; entrée en vigueur au 01.07.2008 · Modif. 5 du 03.04.2019: Modification Al. 3; entrée en vigueur au 01.05.2019; Introduction Al. 5; entrée en vigueur au 01.05.2019 · Modif. 6 du 27.09.2023: Introduction Art. 8a; entrée en vigueur au 01.01.2024; Introduction Al. 1bis; entrée en vigueur au 01.01.2024; Modification Al. 2; entrée en vigueur au 01.01.2024; Modification Al. 2, Tiret 2; entrée en vigueur au 01.01.2024; Modification Al. 4; entrée en vigueur au 01.01.2024; Introduction Art. 11, Al. 1bis; entrée en vigueur au 01.01.2024; Introduction Art. 51, Al. 7; entrée en vigueur au 01.01.2024
+[^9-1]: Modif. 2 du 21.05.2008: Modification Al. 2; entrée en vigueur au 01.07.2008 · Modif. 5 du 03.04.2019: Modification Al. 3; entrée en vigueur au 01.05.2019; Introduction Al. 5; entrée en vigueur au 01.05.2019 · Modif. 6 du 27.09.2023: Introduction Al. 1bis; entrée en vigueur au 01.01.2024; Modification Al. 2; entrée en vigueur au 01.01.2024; Modification Al. 2, Tiret 2; entrée en vigueur au 01.01.2024; Modification Al. 4; entrée en vigueur au 01.01.2024
 [^10-1]: Loi du 29.06.2004 sur le notariat ([BLV 178.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/178.11?id=58f222d6-4993-495a-868c-c9b332436207))
 
 #### Art. 11
@@ -188,11 +198,13 @@ arrête
 
 <sup>1</sup> La commission d'examens arrête, préalablement à chaque session d'examens, la liste des candidats, la moyenne nécessaire pour la réussite des examens, ainsi que le matériel à disposition des candidats.
 
+<sup>1bis</sup> Le département attribue aux candidats une identification anonyme préalablement aux épreuves écrites, qui est seule utilisée jusqu'à la fin de ces dernières.
+
 <sup>2</sup> Les épreuves écrites ont lieu à huis clos sous la surveillance d'un ou plusieurs membres de la commission. La commission arrête le temps accordé pour chaque épreuve.
 
 <sup>3</sup> Les candidats ne sont admis aux épreuves orales que s'ils ont obtenu la moyenne fixée par la commission pour les épreuves écrites. Les épreuves orales se déroulent en présence de deux membres de la commission dont l'un au moins est notaire.
 
-[^10-2]: Modif. 6 du 27.09.2023: Introduction Art. 8a; entrée en vigueur au 01.01.2024; Introduction Art. 10, Al. 1bis; entrée en vigueur au 01.01.2024; Introduction Al. 1bis; entrée en vigueur au 01.01.2024; Introduction Art. 51, Al. 7; entrée en vigueur au 01.01.2024
+[^10-2]: Modif. 6 du 27.09.2023: Introduction Al. 1bis; entrée en vigueur au 01.01.2024
 
 #### Art. 12
 
@@ -349,13 +361,13 @@ arrête
 
 **Formation continue (art. 46 LNo) [^titleTitreVI-1]**
 
-<sup>1</sup> L'Association des notaires vaudois soumet au département les offres faites aux membres en matière de formation professionnelle.
+<sup>1</sup> L'Association des notaires vaudois informe le département des programmes de formation continue qu'elle offre aux membres.
 
 <sup>2</sup> Le département peut astreindre chaque notaire à suivre un minimum de formation continue dans le cadre mis en place par la profession. Les notaires ainsi astreints doivent justifier d'un tel suivi, le cas échéant aux conditions fixées par avance, sous peine de sanctions disciplinaires.
 
 <sup>3</sup> Après consultation de l'Association des notaires vaudois, le département peut autoriser qu'il soit fait état de spécialisations ayant fait l'objet d'une formation continue de longue durée. Le notaire doit avoir subi avec succès un mécanisme de contrôle préalablement agréé.
 
-[^titleTitreVI-1]: Modif. 6 du 27.09.2023: Introduction Art. 8a; entrée en vigueur au 01.01.2024; Introduction Art. 10, Al. 1bis; entrée en vigueur au 01.01.2024; Introduction Art. 11, Al. 1bis; entrée en vigueur au 01.01.2024; Modification Al. 1; entrée en vigueur au 01.01.2024; Introduction Art. 51, Al. 7; entrée en vigueur au 01.01.2024
+[^titleTitreVI-1]: Modif. 6 du 27.09.2023: Modification Al. 1; entrée en vigueur au 01.01.2024
 
 #### Art. 27
 
@@ -389,12 +401,12 @@ arrête
 
 <sup>1</sup> Les autres pièces officielles permettant la légalisation par comparaison de signatures au sens de l'article 64 LNo [^29a-1] sont :
 
-- a. le passeport ou la carte d'identité suisses ou étrangers;
+- a. le passeport ou la carte d'identité suisses ou étrangers, ou le titre de séjour délivré par une autorité suisse;
 - b. le permis de conduire suisse;
 - c. la liste imprimée ou électronique des signatures autorisées des établissements bancaires ou autres établissements reconnus par le département;
 - d. tout autre document dont le caractère officiel est reconnu par le département.
 
-[^29-1]: Modif. 1 du 24.05.2006: Introduction Art. 29a; entrée en vigueur au 01.06.2006 · Modif. 5 du 03.04.2019: Modification Al. 1, c; entrée en vigueur au 01.05.2019 · Modif. 6 du 27.09.2023: Introduction Art. 8a; entrée en vigueur au 01.01.2024; Introduction Art. 10, Al. 1bis; entrée en vigueur au 01.01.2024; Introduction Art. 11, Al. 1bis; entrée en vigueur au 01.01.2024; Modification Al. 1, a; entrée en vigueur au 01.01.2024; Introduction Art. 51, Al. 7; entrée en vigueur au 01.01.2024
+[^29-1]: Modif. 1 du 24.05.2006: Introduction Art. 29a; entrée en vigueur au 01.06.2006 · Modif. 5 du 03.04.2019: Modification Al. 1, c; entrée en vigueur au 01.05.2019 · Modif. 6 du 27.09.2023: Modification Al. 1, a; entrée en vigueur au 01.01.2024
 [^29a-1]: Loi du 29.06.2004 sur le notariat ([BLV 178.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/178.11?id=58f222d6-4993-495a-868c-c9b332436207))
 
 #### Art. 30
@@ -484,9 +496,9 @@ arrête
 
 **Montant de la couverture d'assurance RC (art. 109 LNo) [^titleTitreIX-1]**
 
-<sup>1</sup> Pour couvrir la responsabilité civile résultant de ses activités ministérielle et professionnelle, le notaire a l'obligation de contracter une assurance responsabilité civile de 1'500'000 francs au moins.
+<sup>1</sup> Pour couvrir la responsabilité civile résultant de ses activités ministérielle et professionnelle, le notaire a l'obligation de contracter une assurance responsabilité civile de 5'000'000 francs au moins.
 
-[^titleTitreIX-1]: Modif. 6 du 27.09.2023: Introduction Art. 8a; entrée en vigueur au 01.01.2024; Introduction Art. 10, Al. 1bis; entrée en vigueur au 01.01.2024; Introduction Art. 11, Al. 1bis; entrée en vigueur au 01.01.2024; Modification Al. 1; entrée en vigueur au 01.01.2024; Introduction Art. 51, Al. 7; entrée en vigueur au 01.01.2024
+[^titleTitreIX-1]: Modif. 6 du 27.09.2023: Modification Al. 1; entrée en vigueur au 01.01.2024
 
 #### Art. 40
 
@@ -496,11 +508,11 @@ arrête
 
 #### Art. 41
 
-**Couverture d'assurance [^40-1]**
+**... [^40-1]**
 
-<sup>1</sup> L'assurance de la responsabilité civile peut consister en une assurance de cautionnement pour la couverture des sinistres causés par un dol du notaire. Le montant minimal de la couverture en cas de dol est de 100'000 francs.
+<sup>1</sup> ...
 
-[^40-1]: Modif. 6 du 27.09.2023: Introduction Art. 8a; entrée en vigueur au 01.01.2024; Introduction Art. 10, Al. 1bis; entrée en vigueur au 01.01.2024; Introduction Art. 11, Al. 1bis; entrée en vigueur au 01.01.2024; Abrogation tArt; entrée en vigueur au 01.01.2024; Abrogation Al. 1; entrée en vigueur au 01.01.2024; Introduction Art. 51, Al. 7; entrée en vigueur au 01.01.2024
+[^40-1]: Modif. 6 du 27.09.2023: Abrogation tArt; entrée en vigueur au 01.01.2024; Abrogation Al. 1; entrée en vigueur au 01.01.2024
 
 #### Art. 42
 
@@ -512,13 +524,13 @@ arrête
 
 **Garantie en faveur de l'Etat (art. 109 LNo) [^42-1]**
 
-<sup>1</sup> Pour couvrir le dommage causé dans l'exercice de ses activités ministérielle et professionnelle, le notaire remet au département une garantie de 300'000 francs.
+<sup>1</sup> Pour couvrir le dommage causé dans l'exercice de ses activités ministérielle et professionnelle, le notaire remet au département une garantie de 20'000 francs
 
 <sup>2</sup> Le département apprécie la valeur de la garantie offerte par le notaire. Sa décision est sans recours.
 
 <sup>3</sup> Lorsque la garantie est fournie sous forme de gage immobilier, la valeur du gage est soumise à l'appréciation d'un expert désigné par le département.
 
-[^42-1]: Modif. 6 du 27.09.2023: Introduction Art. 8a; entrée en vigueur au 01.01.2024; Introduction Art. 10, Al. 1bis; entrée en vigueur au 01.01.2024; Introduction Art. 11, Al. 1bis; entrée en vigueur au 01.01.2024; Modification Al. 1; entrée en vigueur au 01.01.2024; Introduction Art. 51, Al. 7; entrée en vigueur au 01.01.2024
+[^42-1]: Modif. 6 du 27.09.2023: Modification Al. 1; entrée en vigueur au 01.01.2024
 
 #### Art. 44
 
@@ -604,7 +616,9 @@ arrête
 
 <sup>6</sup> Les notaires disposent d'un délai d'un an pour se conformer à l'article 29. Pendant ce délai, ils peuvent utiliser le papier prévu par l'article 12 du règlement du 28 décembre 1979 d'application de la loi du 10 décembre 1956 sur le notariat .
 
-[^titleTitreX-1]: Modif. 2 du 21.05.2008: Modification Al. 5; entrée en vigueur au 01.07.2008 · Modif. 3 du 25.11.2009: Modification Al. 5; entrée en vigueur au 01.12.2009 · Modif. 6 du 27.09.2023: Introduction Art. 8a; entrée en vigueur au 01.01.2024; Introduction Art. 10, Al. 1bis; entrée en vigueur au 01.01.2024; Introduction Art. 11, Al. 1bis; entrée en vigueur au 01.01.2024; Introduction Al. 7; entrée en vigueur au 01.01.2024
+<sup>7</sup> L'article 10 alinéa 1bis ne s'applique pas aux candidats ayant déjà débuté leur stage à la date de son entrée en vigueur.
+
+[^titleTitreX-1]: Modif. 2 du 21.05.2008: Modification Al. 5; entrée en vigueur au 01.07.2008 · Modif. 3 du 25.11.2009: Modification Al. 5; entrée en vigueur au 01.12.2009 · Modif. 6 du 27.09.2023: Introduction Al. 7; entrée en vigueur au 01.01.2024
 [^51-1]: Cet article dispose "Le notaire qui désire donner des consultations dans une localité autre que celle de son étude, sans y avoir de bureau ni d'employé permanents, en demande l'autorisation au département"
 [^51-2]: Loi du 29.06.2004 sur le notariat ([BLV 178.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/178.11?id=58f222d6-4993-495a-868c-c9b332436207))
 
@@ -624,6 +638,6 @@ Annexes [^53-1]
 
 1
 
-[Plan comptable](https://prestations.vd.ch/pub/blv-publication/api/actes/d20374c7-9bdf-4480-8882-597d56d5c6ab/annexes/1?dmev=01.05.2019)
+[Plan comptable](https://prestations.vd.ch/pub/blv-publication/api/actes/d20374c7-9bdf-4480-8882-597d56d5c6ab/annexes/1?dmev=01.01.2024)
 
 [^53-1]: Modif. 4 du 27.04.2016: Modification Annexes, Ann. 1; entrée en vigueur au 01.05.2016
