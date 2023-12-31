@@ -4,11 +4,11 @@ title: "Ordonnance du DEFR du 26 octobre 2011 sur la production et la mise en ci
 short: OLALA
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/802"
 language: fr
-version: 2023-06-01
+version: 2024-01-01
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/802/20230601/fr/xml/fedlex-data-admin-ch-eli-cc-2011-802-20230601-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/802/20230601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/802/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-802-20240101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/802/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/802/20230601/fr"
 
 (Ordonnance sur le Livre des aliments pour animaux, OLALA)[^t-1]
 
-du 26 octobre 2011 (État le 1<sup>er</sup> juin 2023)
+du 26 octobre 2011 (État le 1<sup>er</sup> janvier 2024)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 31 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6401](https://fedlex.data.admin.ch/eli/oc/2012/762)).
 
@@ -43,10 +43,9 @@ Les dispositions techniques relatives aux impuretés et aux autres déterminants
 
 **Matières premières qui ne doivent pas être annoncées**[^1a-1]
 
-La liste des matières premières d’aliments pour animaux[^1a-2] qui ne doivent pas être annoncéesfigure dans l’annexe 1.4.
+Le catalogue des matières premières d’aliments pour animaux qui ne doivent pas être annoncées figure dans l’annexe 1.4.
 
-[^1a-1]: Introduit par le ch. I de l’O du DEFR du 15 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1739](https://fedlex.data.admin.ch/eli/oc/2013/398)).
-[^1a-2]: Nouvelle expression selon le ch. I de l’O de l’OFAG du 24 avr. 2023, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 218](https://fedlex.data.admin.ch/eli/oc/2023/218)). Il a été tenu comtpe de cette mod. dans tout le texte.
+[^1a-1]: Introduit par le ch. I de l’O du DEFR du 15 mai 2013 ([RO 2013 1739](https://fedlex.data.admin.ch/eli/oc/2013/398)). Nouvelle teneur selon le ch. I de l’O du DEFR du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 745](https://fedlex.data.admin.ch/eli/oc/2023/745)).
 
 #### Art. 2
 
@@ -56,13 +55,32 @@ Les substances mentionnées dans l’annexe 4.1 sont interdites ou limitées pou
 
 #### Art. 3
 
-**Contrôles renforcés**
+**Contrôles renforcés**[^3-1]
 
-<sup>1</sup> L’annexe 4.2, partie 1, contient la liste des aliments pour animaux dont l’importation est soumise à des contrôles et des fréquences de contrôle renforcés selon l’art. 58 OSALA. Elle indique aussi pour chaque produit et provenance le risque à considérer et la fréquence exigée.
+<sup>1</sup> L’annexe 4.2, partie 1, contient la liste des aliments pour animaux d’origine non animale provenant de certains pays et temporairement soumis à des contrôles renforcés conformément à l’art. 58 OSALA. Elle indique aussi pour chaque produit et provenance le risque à considérer et la fréquence de contrôle exigée.
 
-<sup>2</sup> Les aliments pour animaux listés dans l’annexe 4.2, partie 1, ne peuvent être importés en Suisse à partir de pays non membres de l’Union européenne (UE) que sur annonce préalable par les aéroports internationaux de Genève et de Zürich.
+<sup>2</sup> L’annexe 4.2, partie 2, contient la liste des aliments pour animaux d’origine non animale provenant de certains pays et soumis à des contrôles renforcés conformément à l’art. 58 OSALA en raison d’un risque de contamination par les mycotoxines, par les résidus de pesticides, par les dioxines, et en raison d’un risque de contamination microbiologique. Elle indique aussi pour chaque produit et provenance le risque à considérer et la fréquence de contrôle exigée.
 
-<sup>3</sup> Lors de la libération des produits contrôlés, un formulaire d’accompagnement selon l’annexe 4.2, partie 2, doit être rempli par les autorités de contrôle. Ce formulaire doit accompagner le produit jusque chez l’utilisateur final.
+<sup>3</sup> Les aliments pour animaux listés dans l’annexe 4.2, parties 1 et 2, ne peuvent être importés directement que par voie fluviale. Une notification doit être transmise par voie électronique à l’Office fédéral de l’agriculture (OFAG) au plus tard dix jours ouvrables avant l’importation.
+
+<sup>4</sup> Pour la notification, il y a lieu de compléter la partie I du formulaire visé aux art. 56 à 58 du règlement (UE) 2017/625[^3-2] (document sanitaire commun d’entrée, DSCE) dans le Trade Control and Expert System (TRACES) selon le règlement d’exécution (UE) 2019/1715[^3-3] et d’y joindre pour les aliments pour animaux soumis aux contrôles renforcés visés à l’annexe 4.2, partie 2, le certificat officiel visé à l’annexe IV du règlement d’exécution (UE) 2019/1793[^3-4] délivré par les autorités compétentes du pays d’origine. Le numéro du DSCE établi doit être indiqué dans la déclaration en douane.
+
+<sup>5</sup>
+
+Les contrôles suivants sont effectués sur les lots:
+
+- a. le contrôle documentaire;
+- b. le contrôle d’identité, et le contrôle physique, y compris des prélèvements d’échantillons et des analyses en laboratoire, à la fréquence indiquée à l’annexes 4.2, parties 1 et 2, et de façon qu’il ne soit pas possible au responsable du lot de les prévoir.
+
+<sup>6</sup> Les lots d’aliments pour animaux ne peuvent être libérés définitivement que lorsque tous les contrôles requis ont été effectués, que les résultats des contrôles sont satisfaisants et que les champs pertinents du DSCE ont été complétés.
+
+<sup>7</sup> Les frais d’analyses ainsi qu’un émolument sont dus conformément à l’ordonnance du 16 juin 2006 relative aux émoluments perçus par l’Office fédéral de l’agriculture[^3-5].
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 745](https://fedlex.data.admin.ch/eli/oc/2023/745)).
+[^3-2]: Règlement (UE) 2017/625 du Parlement européen et du Conseil du 15 mars 2017 concernant les contrôles officiels et les autres activités officielles servant à assurer le respect de la législation alimentaire et de la législation relative aux aliments pour animaux ainsi que des règles relatives à la santé et au bien-être des animaux, à la santé des végétaux et aux produits phytopharmaceutiques, modifiant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 999/2001, (CE) n<sup>o</sup> 396/2005, (CE) n<sup>o</sup> 1069/2009, (CE) n<sup>o</sup> 1107/2009, (UE) n<sup>o</sup> 1151/2012, (UE) n<sup>o</sup> 652/2014, (UE) 2016/429 et (UE) 2016/2031, les règlements du Conseil (CE) n<sup>o</sup> 1/2005 et (CE) n<sup>o</sup> 1099/2009 ainsi que les directives du Conseil 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE et 2008/120/CE, et abrogeant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 854/2004 et (CE) n<sup>o</sup> 882/2004, les directives du Conseil 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE et 97/78/CE ainsi que la décision 92/438/CEE du Conseil (règlement sur les contrôles officiels), JO L 95 du 7.4.2017, p. 1; modifié en dernier lieu par le règlement (UE) 2021/1756, JO L 357 du 8.10.2021, p. 27.
+[^3-3]: Règlement d’exécution (UE) 2019/1715 de la Commission du 30 septembre 2019 établissant les règles de fonctionnement du système de gestion de l’information sur les contrôles officiels et de ses composantes (règlement IMSOC), version du JO L 261 du 14.10.2019, p. 37.
+[^3-4]: Règlement d’exécution (UE) 2019/1793 de la Commission du 22 octobre 2019 relatif au renforcement temporaire des contrôles officiels et aux mesures d’urgence régissant l’entrée dans l’Union de certains biens provenant de certains pays tiers, mettant en œuvre les règlements (UE) 2017/625 et (CE) n<sup>o</sup> 178/2002 du Parlement européen et du Conseil et abrogeant les règlements (CE) n<sup>o</sup> 669/2009, (UE) n<sup>o</sup> 884/2014, (UE) 2015/175, (UE) 2017/186 et (UE) 2018/1660 de la Commission, JO L 277 du 29.10.2019, p. 89; modifié en dernier lieu par le règlement d’exécution (UE) 2023/1110, JO L 147 du 7.6.2023, p. 111.
+[^3-5]: [RS 910.11](https://fedlex.data.admin.ch/eli/cc/2006/415)
 
 #### Art. 4
 
@@ -95,7 +113,7 @@ Les substances mentionnées dans l’annexe 4.1 sont interdites ou limitées pou
 
 L’étiquetage des matières premières, des aliments composés ou des aliments diététiques pour animaux ainsi que leur présentation peuvent attirer particulièrement l’attention sur la présence ou l’absence d’une substance dans l’aliment pour animaux, sur une caractéristique ou un processus nutritionnel particulier ou sur une fonction spécifique liée à l’un de ces éléments, pour autant que les conditions suivantes soient remplies:
 
-- a. l’allégation est objective, vérifiable par l’Office fédéral de l’agriculture (OFAG) et compréhensible pour l’utilisateur de l’aliment pour animaux, et
+- a.[^6-1] l’allégation est objective, vérifiable par l’OFAG et compréhensible pour l’utilisateur de l’aliment pour animaux, et
 - b. l’exploitation responsable de l’étiquetage fournit, à la demande de l’OFAG, une preuve scientifique de la véracité de l’allégation, en se référant soit à des données scientifiques accessibles au public, soit à des recherches documentées effectuées par l’entreprise. La preuve scientifique doit être disponible lors de la mise en circulation de l’aliment pour animaux. Les acheteurs peuvent faire part à l’OFAG de leurs doutes quant à la véracité de l’allégation. Si l’OFAG conclut que les preuves scientifiques de l’allégation sont trompeuses, il exige le retrait de ladite allégation.
 
 <sup>2</sup> Les allégations relatives à l’optimisation de l’alimentation et au maintien ou à la protection de l’état physiologique sont autorisées sauf si elles contiennent une allégation visée à l’al. 3, let. a.
@@ -106,6 +124,8 @@ L’étiquetage des matières premières d’aliments pour animaux et des alimen
 
 - a. possède des propriétés de prévention, de traitement ou de guérison d’une maladie, à l’exception des coccidiostatiques et des histomonostatiques; cette lettre ne s’applique pas aux allégations concernant la prévention des déséquilibres nutritionnels dès lors qu’il n’est pas établi de lien avec des symptômes pathologiques;
 - b. vise un objectif nutritionnel particulier prévu dans la liste des destinations à l’annexe 3.1 sauf s’il satisfait aux prescriptions qui y sont énoncées.
+
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 745](https://fedlex.data.admin.ch/eli/oc/2023/745)).
 
 #### Art. 7
 
@@ -125,8 +145,8 @@ L’étiquetage des matières premières d’aliments pour animaux et des alimen
 
 En plus des indications prévues à l’art. 15 OSALA, l’étiquetage des matières premières d’aliments pour animaux doit inclure:
 
-- a. la déclaration obligatoire correspondant à la catégorie concernée telle qu’elle est énoncée dans la liste figurant à l’annexe 1.2, ou
-- b. les indications définies dans le catalogue des matières premières d’aliments pour animaux visé à l’art. 9 OSALA pour cette matière première.
+- a. la dénomination de la matière première d’aliments pour animaux, conformément à celle du catalogue des matières premières d’aliments pour animaux figurant à l’annexe 1.4 ou à celle de la liste visée à l’art. 9, al. 3, OSALA; cette dénomination est utilisée conformément à l’art. 9, al. 4, OSALA, et
+- b. la déclaration obligatoire correspondant à la catégorie concernée telle qu’elle est énoncée dans la liste figurant à l’annexe 1.2; elle peut être remplacée par les indications définies dans le catalogue des matières premières d’aliments pour animaux figurant à l’annexe 1.4 pour cette matière première.[^8-1]
 
 <sup>2</sup>
 
@@ -135,6 +155,8 @@ En plus des indications prévues à l’al. 1, l’étiquetage des matières pre
 - a. l’espèce animale ou la catégorie d’animaux à laquelle la matière première pour aliments des animaux est destinée, lorsque les additifs en question n’ont pas été autorisés pour toutes les espèces animales ou qu’ils l’ont été avec des limites maximales pour certaines espèces;
 - b. le mode d’emploi conformément à l’annexe 8.1, ch. 4 lorsqu’une teneur maximale est fixée pour les additifs;
 - c. la date de durabilité minimale pour les additifs autres que les additifs technologiques.
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 745](https://fedlex.data.admin.ch/eli/oc/2023/745)).
 
 #### Art. 9
 
@@ -161,7 +183,7 @@ Outre les exigences indiquées à l’art. 15 OSALA, l’étiquetage des aliment
   - 2\. la mention «à utiliser de préférence avant …», suivie de l’indication de la date (mois), dans le cas des autres aliments, ou
   - 3\. la mention «… (durée en jours ou en mois) après la date de fabrication», si la date de fabrication est fournie dans le cadre de l’étiquetage;
 
-- e. la liste, par ordre de poids décroissant calculé en fonction de la teneur en eau de l’aliment composé pour animaux, des matières premières d’aliments pour animaux dont l’aliment pour animaux est composé, intitulée «composition» et comprenant la dénomination de chaque matière première conformément à l’art. 8, al. 1, let. a ou b. La liste peut inclure le pourcentage pondéral;
+- e.[^9-2] la liste, par ordre de poids décroissant calculé en fonction de la teneur en eau de l’aliment composé pour animaux, des matières premières d’aliments pour animaux dont l’aliment pour animaux est composé, intitulée «composition» et comprenant la dénomination de chaque matière première conformément à l’art. 8, al. 1, let. a. La liste peut inclure le pourcentage pondéral;
 - f. les déclarations obligatoires prévues à l’annexe 8.2, chapitre II ou 8.3, chapitre II selon le cas.
 
 <sup>2</sup>
@@ -175,6 +197,7 @@ La liste selon l’al. 1, let. e doit satisfaire aux exigences suivantes:
 <sup>3</sup> L’annexe 1.3 contient la liste des catégories de matières premières utilisables aux fins de l’al. 2, let. c, pouvant être mentionnées à la place des différentes matières premières dans le cadre de l’étiquetage des aliments destinés à des animaux de compagnie, à l’exception des animaux à fourrure.
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 31 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6401](https://fedlex.data.admin.ch/eli/oc/2012/762)).
+[^9-2]: Nouvelle teneur selon le ch. I de l’O du DEFR du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 745](https://fedlex.data.admin.ch/eli/oc/2023/745)).
 
 #### Art. 10
 
@@ -221,7 +244,7 @@ Outre les exigences fixées à l’art. 15 OSALA et aux art. 8 et 9, l’étique
 
 <sup>8</sup> Les indications visées à l’art. 15, al. 1, let. c, d, e et g, OSALA ainsi qu’à l’art. 9, al. 1, let. b et c, ne sont pas requises si, avant chaque transaction, l’acheteur a renoncé par écrit à ces informations. Une transaction peut consister en plusieurs envois.
 
-<sup>9</sup> En sus des langues officielles, d’autres langues peuvent être utilisées pour les indications d'étiquetage.
+<sup>9</sup> En sus des langues officielles, d’autres langues peuvent être utilisées pour les indications d’étiquetage.
 
 #### Art. 14
 
@@ -374,27 +397,15 @@ L’ordonnance du 10 juin 1999 sur le Livre des aliments pour animaux[^22-1] est
 
 #### Art. 23h
 
-**Dispositions transitoires relatives à la modification du 11 novembre 2020**[^23h-1]
+[^23h-1]
 
-<sup>1</sup> Les additifs pour l’alimentation animale et les prémélanges en contenant qui ont été retirés de la liste des additifs figurant à l’annexe 2 par la modification du 11 novembre 2020 peuvent encore être mis en circulation pendant six mois à compter de la modification du 11 novembre 2020.
-
-<sup>2</sup> Les aliments composés pour animaux de rente étiquetés selon l’ancien droit peuvent encore être mis en circulation pendant un an à compter de la modification du 11 novembre 2020.
-
-<sup>3</sup> Les aliments composés pour animaux de compagnie étiquetés selon l’ancien droit peuvent encore être mis en circulation pendant deux ans à compter de la modification du 11 novembre 2020.
-
-[^23h-1]: Introduit par le ch. I de l’O du DEFR du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5571](https://fedlex.data.admin.ch/eli/oc/2020/964)).
+[^23h-1]: Introduit par le ch. I de l’O du DEFR du 11 nov. 2020 ([RO 2020 5571](https://fedlex.data.admin.ch/eli/oc/2020/964)). Abrogé par le ch. I de l’O du DEFR du 1<sup>er</sup> nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 745](https://fedlex.data.admin.ch/eli/oc/2023/745)).
 
 #### Art. 23i
 
-**Dispositions transitoires relatives à la modification du 23 avril 2021**[^23i-1]
+[^23i-1]
 
-<sup>1</sup> Les additifs pour l’alimentation animale et les prémélanges en contenant qui ont été retirés de la liste des additifs figurant à l’annexe 2 par la modification du 23 avril 2021 peuvent encore être mis en circulation pendant six mois à compter de l’entrée en vigueur de la modification du 23 avril 2021.
-
-<sup>2</sup> Les aliments composés pour animaux de rente étiquetés selon l’ancien droit peuvent encore être mis en circulation pendant un an à compter de l’entrée en vigueur de la modification du 23 avril 2021.
-
-<sup>3</sup> Les aliments composés pour animaux de compagnie étiquetés selon l’ancien droit peuvent encore être mis en circulation pendant deux ans à compter de l’entrée en vigueur de la modification du 23 avril 2021.
-
-[^23i-1]: Introduit par le ch. I de l’O de l’OFAG du 23 avr. 2021, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2021 256](https://fedlex.data.admin.ch/eli/oc/2021/256)).
+[^23i-1]: Introduit par le ch. I de l’O de l’OFAG du 23 avr. 2021 ([RO 2021 256](https://fedlex.data.admin.ch/eli/oc/2021/256)). Abrogé par le ch. I de l’O du DEFR du 1<sup>er</sup> nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 745](https://fedlex.data.admin.ch/eli/oc/2023/745)).
 
 #### Art. 23j
 
@@ -445,6 +456,18 @@ L’ordonnance du 10 juin 1999 sur le Livre des aliments pour animaux[^22-1] est
 <sup>4</sup> Les citrates de sodium, les citrates de potassium, le sorbitol, le mannitol, l’hydroxyde de calcium, le xylitol, le lactate d’ammonium et l’acétate d’ammonium, classés parmi les additifs pour l’alimentation animale par la modification du 24 avril 2023, peuvent encore être mis en circulation et utilisés comme matières premières d’aliments pour animaux jusqu’au 30 mai 2028.
 
 [^23m-1]: Introduit par le ch. I de l’O de l’OFAG du 24 avr. 2023, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 218](https://fedlex.data.admin.ch/eli/oc/2023/218)).
+
+#### Art. 23n
+
+**Dispositions transitoires relatives à la modification du 1<sup>er</sup> novembre 2023**[^23n-1]
+
+<sup>1</sup> Les additifs pour l’alimentation animale et les prémélanges en contenant qui ont été retirés de la liste des additifs figurant à l’annexe 2 par la modification du 1<sup>er</sup> novembre 2023 peuvent encore être mis en circulation et utilisés pendant six mois à compter de l’entrée en vigueur de la modification du 1<sup>er</sup> novembre 2023.
+
+<sup>2</sup> Les aliments composés et les matières premières pour animaux de rente étiquetés selon l’ancien droit peuvent encore être mis en circulation pendant un an à compter de l’entrée en vigueur de la modification du 1<sup>er</sup> novembre 2023.
+
+<sup>3</sup> Les aliments composés et les matières premières pour animaux de compagnie étiquetés selon l’ancien droit peuvent encore être mis en circulation pendant deux ans à compter de l’entrée en vigueur de la modification du 1<sup>er</sup> novembre 2023.
+
+[^23n-1]: Introduit par le ch. I de l’O du DEFR du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 745](https://fedlex.data.admin.ch/eli/oc/2023/745)).
 
 #### Art. 24
 
@@ -546,9 +569,9 @@ Annexe 1.4[^t-2]
 
 (art. 1*a*)
 
-## Liste des matières premières d’aliments pour animaux qui ne doivent pas être annoncées (catalogue des matières premières d’aliments pour animaux)
+## Catalogue des matières premières d’aliments pour animaux qui ne doivent pas être annoncées
 
-[^t-2]: Introduite par le ch. II al. 1 de l’O du DEFR du 15 mai 2013 ([RO 2013 1739](https://fedlex.data.admin.ch/eli/oc/2013/398)). Nouvelle teneur selon le ch. II al. 1 de l’O de l’OFAG du 24 avr. 2023, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 218](https://fedlex.data.admin.ch/eli/oc/2023/218)).
+[^t-2]: Introduite par le ch. II al. 1 de l’O du DEFR du 15 mai 2013 ([RO 2013 1739](https://fedlex.data.admin.ch/eli/oc/2013/398)). Nouvelle teneur selon le ch. II al. 1 de l’O de l’OFAG du 24 avr. 2023 ([RO 2023 218](https://fedlex.data.admin.ch/eli/oc/2023/218)). Mise à jour par le ch. II al. 1 de l’O du DEFR du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 745](https://fedlex.data.admin.ch/eli/oc/2023/745)).
 
 ### 1. Dispositions générales
 
@@ -571,7 +594,7 @@ Annexe 1.4[^t-2]
 - 1\.9 Lorsque le procédé de fabrication d’une matière première d’aliments pour animaux diffère de la description du procédé concerné figurant dans le glossaire visé au ch. 2, le procédé de fabrication est détaillé dans la description de ladite matière selon la liste visée au ch. 3.
 - 1\.10 Pour une série de matières premières d’aliments pour animaux, des synonymes peuvent être utilisés. Ces synonymes figurent entre crochets dans la colonne «dénomination» de l’inscription relative à la matière première d’aliments pour animaux concernée dans la liste visée au ch. 3.
 - 1\.11 La désignation botanique d’un végétal figure uniquement dans la description de la première inscription de la liste visée au ch. 3 relative audit végétal.
-- 1\.12 L’art. 7, al. 2, et l’annexe 1.1, ch. 6, fixent les exigences en matière d’étiquetage en ce qui concerne la teneur en eau. L’art. 8, al. 1, let. a, et l’annexe 1.2 fixent les exigences en matière d’étiquetage en ce qui concerne les autres constituants analytiques. En outre, conformément à l’annexe 1.1, ch. 5, la teneur en cendres insolubles dans l’acide chlorhydrique doit être déclarée lorsque celle-ci dépasse de manière générale 2,2 %, ou, pour certaines matières premières des aliments pour animaux, lorsque celle-ci dépasse la teneur fixée dans la section correspondante de l’annexe 1.2.
+- 1\.12 L’art. 7, al. 2, et l’annexe 1.1, ch. 6, fixent les exigences en matière d’étiquetage en ce qui concerne la teneur en eau. L’art. 8, al. 1, let. b, et l’annexe 1.2 fixent les exigences en matière d’étiquetage en ce qui concerne les autres constituants analytiques. En outre, conformément à l’annexe 1.1, ch. 5, la teneur en cendres insolubles dans l’acide chlorhydrique doit être déclarée lorsque celle-ci dépasse de manière générale 2,2 %, ou, pour certaines matières premières des aliments pour animaux, lorsque celle‑ci dépasse la teneur fixée dans la section correspondante de l’annexe 1.2.
 - 1\.13
 
   En dérogation au ch. 1.12:
@@ -601,7 +624,7 @@ Annexe 2[^t-3]
 
 ## Liste des additifs homologués pour l’alimentation animale (liste des additifs)
 
-[^t-3]: Nouvelle teneur selon le ch. II al. 2 de l’O du DEFR du 11 nov. 2020 ([RO 2020 5571](https://fedlex.data.admin.ch/eli/oc/2020/964)). Mise à jour par le ch. II al. 1 de l’O de l’OFAG du 23 avr. 2021 ([RO 2021 256](https://fedlex.data.admin.ch/eli/oc/2021/256)), le ch. II des O de l’OFAG du 3 nov. 2021 ([RO 2021 698](https://fedlex.data.admin.ch/eli/oc/2021/698)), du 25 avr. 2022 ([RO 2022 276](https://fedlex.data.admin.ch/eli/oc/2022/276)), le ch. II de l’O du DEFR du 2 nov. 2022 ([RO 2022 736](https://fedlex.data.admin.ch/eli/oc/2022/736)) et le ch. II al. 2 de l’O de l’OFAG du 24 avr. 2023, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 218](https://fedlex.data.admin.ch/eli/oc/2023/218)).
+[^t-3]: Nouvelle teneur selon le ch. II al. 2 de l’O du DEFR du 11 nov. 2020 ([RO 2020 5571](https://fedlex.data.admin.ch/eli/oc/2020/964)). Mise à jour par le ch. II al. 1 de l’O de l’OFAG du 23 avr. 2021 ([RO 2021 256](https://fedlex.data.admin.ch/eli/oc/2021/256)), le ch. II des O de l’OFAG du 3 nov. 2021 ([RO 2021 698](https://fedlex.data.admin.ch/eli/oc/2021/698)), du 25 avr. 2022 ([RO 2022 276](https://fedlex.data.admin.ch/eli/oc/2022/276)), le ch. II de l’O du DEFR du 2 nov. 2022 ([RO 2022 736](https://fedlex.data.admin.ch/eli/oc/2022/736)), le ch. II al. 2 de l’O de l’OFAG du 24 avr. 2023([RO 2023 218](https://fedlex.data.admin.ch/eli/oc/2023/218)) et le ch. II al. 1 de l’O du DEFR du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 745](https://fedlex.data.admin.ch/eli/oc/2023/745)).
 
 ### 1 Catégorie 1: additifs technologiques
 
@@ -671,11 +694,10 @@ Annexe 2[^t-3]
 <tr><td>1b307</td><td>1</td><td>b</td><td></td><td>Alpha-tocophérol *Caractérisation de la substance active:* dl-α-tocophérol. C<sub>29</sub>H<sub>50</sub>O<sub>2</sub> N<sup>o</sup> CAS: 10191-41-0 Alpha-tocophérol, à l’état de liquide huileux, obtenu par synthèse chimique. Critère de pureté: min. 96 %.</td><td>Toutes</td><td>-</td><td>-</td><td>-</td><td>L’alpha-tocophérol peut être mis sur le marché et utilisé en tant qu’additif sous la forme d’une préparation. Dans le mode d’emploi de l’additif, indiquer les conditions de stockage et de stabilité et, pour les prémélanges, les conditions de stockage</td></tr>
 <tr><td>E 310</td><td>1</td><td>b</td><td>Gallate de propyle</td><td>C<sub>10</sub>H<sub>12</sub>O<sub>5</sub></td><td>Toutes</td><td>–</td><td>–</td><td>100[^annex2-lvlu1-lvl1-lvl12-1]</td><td>Tous les aliments</td></tr>
 <tr><td>1b320</td><td>1</td><td>b</td><td>Hydroxyanisole butylé</td><td>Hydroxyanisole butylé (BHA) (≥ 98,5 %) État solide cireux *Caractérisation de la substance active:* Mélange composé de: – 2-tert-butyl-4-hydroxyanisole – 3-tert-butyl-4-hydroxyanisole (≥ 85 %) N<sup>o</sup> CAS: 25013-16-5 C<sub>11</sub>H<sub>16</sub>O<sub>2</sub></td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>150</td><td>Les conditions de stockage doivent être indiquées dans le mode d’emploi de l’additif et du prémélange. Le BHA peut être utilisé en combinaison avec l’hydroxytoluène butylé (BHT) à concurrence de maximum 150 mg du mélange/kg d’aliment complet. Les exploitants du secteur de l’alimentation animale établissent, à l’intention des utilisateurs de l’additif et des prémélanges, des procédures opérationnelles et des mesures organisationnelles pour parer aux risques éventuels résultant de leur utilisation. Lorsque ces risques ne peuvent pas être éliminés ou réduits au minimum par lesdites procédures et mesures, le port d’un équipement de protection individuelle, dont une protection de la peau, une protection des yeux et une protection respiratoire, est obligatoire lors de l’utilisation de l’additif et des prémélanges.</td></tr>
-<tr><td>E 321</td><td>1</td><td>b</td><td>Butylhydroxytoluène (BHT)</td><td>C<sub>15</sub>H<sub>24</sub>O</td><td>Toutes</td><td>–</td><td>–</td><td>150[^annex2-lvlu1-lvl1-lvl12-2]</td><td>Tous les aliments</td></tr>
+<tr><td>E 321</td><td>1</td><td>b</td><td>Butylhydroxytoluène (BHT)</td><td>C<sub>15</sub>H<sub>24</sub>O</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>150</td><td>Tous les aliments En combinaison avec l’additif hydroxyanisole butylé (1b320) la quantité totale du mélange ne doit pas dépasser 150 mg/kg</td></tr>
 </table>
 
 [^annex2-lvlu1-lvl1-lvl12-1]: Au maximum 100 mg/kg, seul ou combiné avec E 310, E 311 et E 312.
-[^annex2-lvlu1-lvl1-lvl12-2]: Au maximum 150 mg/kg, seul ou combiné avec E 320, E 321 et E 324.
 
 ### 1.3 Groupes fonctionnels c: agents émulsifiants, d: stabilisants, e: épaississants et f: gélifiants
 
@@ -687,7 +709,6 @@ Annexe 2[^t-3]
 <tr><td>1c322i</td><td>1</td><td>c</td><td>Lécithines</td><td>Préparations de: – lécithines et lécithines hydrolysées sous la forme liquide (plastique à fluide); – lécithines déshuilées et lécithines hydrolysées déshuilées sous la forme solide. *Caractérisation de la substance active:* Lécithines, lécithines hydrolysées, lécithines déshuilées et lécithines hydrolysées déshuilées dérivées du soja, du tournesol ou du colza: No CAS: 8002-43-5</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td colspan="3">–</td><td>Sur l’étiquette de l’additif pour l’alimentation animale et des prémélanges, la ou les formes utilisées sont indiquées.</td></tr>
 <tr><td>1d401</td><td>1</td><td>d; e; f</td><td>Alginate de sodium</td><td>Alginate de sodium En poudre *Caractérisation de la substance active:* Alginate de sodium (≥ 90,8 %) (C<sub>6</sub>H<sub>7</sub>NaO<sub>6</sub>)n</td><td>Chats et chiens Autres animaux non producteurs de denrées alimentaires Poissons</td><td>– –</td><td>– –</td><td colspan="3">35 200 –</td><td>Les conditions de stockage et la stabilité au traitement thermique doivent être indiquées dans le mode d’emploi de l’additif et des prémélanges. Le mélange de différentes sources d’alginates ne dépasse pas la teneur maximale autorisée dans les aliments complets pour animaux. Les exploitants du secteur de l’alimentation animale établissent, pour les utilisateurs de l’additif et des prémélanges, des procédures opérationnelles et des mesures organisationnelles afin de parer aux risques résultant de leur utilisation. Lorsque ces risques ne peuvent pas être éliminés ou réduits au minimum par ces procédures et mesures, le port d’un équipement de protection individuelle, dont une protection respiratoire, est obligatoire lors de l’utilisation de l’additif et des prémélanges.</td></tr>
 <tr><td>1d402</td><td>1</td><td>d; e; f</td><td>Alginate de potassium</td><td>Alginate de potassium En poudre *Caractérisation de la substance active:* Alginate de potassium (≥ 89,2 %) (C<sub>6</sub>H<sub>7</sub>KO<sub>6</sub>)n No CAS: 9005-36-1</td><td>Chats et chiens</td><td>–</td><td>–</td><td colspan="3">35 200</td><td>Les conditions de stockage et la stabilité au traitement thermique doivent être indiquées dans le mode d’emploi de l’additif et des prémélanges. Le mélange de différentes sources d’alginates ne dépasse pas la teneur maximale autorisée dans les aliments complets pour animaux. Les exploitants du secteur de l’alimentation animale établissent, pour les utilisateurs de l’additif et des prémélanges, des procédures opérationnelles et des mesures organisationnelles afin de parer aux risques résultant de leur utilisation. Lorsque ces risques ne peuvent pas être éliminés ou réduits au minimum par ces procédures et mesures, le port d’un équipement de protection individuelle, dont une protection respiratoire, est obligatoire lors de l’utilisation de l’additif et des prémélanges.</td></tr>
-<tr><td>E 406</td><td>1</td><td>c; d; e; f</td><td>Agar-agar</td><td>–</td><td>Animaux de compagnie et autres animaux non producteurs de denrées alimentaires</td><td>–</td><td>–</td><td colspan="3">–</td><td>Tous les aliments</td></tr>
 <tr><td>E 407</td><td>1</td><td>c; d; e; f</td><td>Carraghenanes</td><td>–</td><td>Animaux de compagnie et autres animaux non producteurs de denrées alimentaires</td><td>–</td><td>–</td><td colspan="3">–</td><td>Tous les aliments</td></tr>
 <tr><td>E 410</td><td>1</td><td>c; d; e; f</td><td>Farine de graines de caroube</td><td>–</td><td>Toutes</td><td>–</td><td>–</td><td colspan="3">–</td><td>Tous les aliments</td></tr>
 <tr><td>E 412</td><td>1</td><td>c; d; e; f</td><td>Farine de graines de guar, gomme de guar</td><td>–</td><td>Toutes</td><td>–</td><td>–</td><td colspan="3">–</td><td>Tous les aliments</td></tr>
@@ -728,12 +749,15 @@ Annexe 2[^t-3]
 <tr><td>E 559</td><td>1</td><td>g; i</td><td>Argiles kaolinitiques exemptes d’amiante</td><td>Mélanges naturels de minéraux contenant au moins 65 % de silicates complexes d’aluminium hydratés dont l’élément déterminant est la kaolinite\*</td><td>Toutes</td><td colspan="2">–</td><td colspan="2">–</td><td>Tous les aliments</td></tr>
 <tr><td>E 560</td><td>1</td><td>g; i</td><td>Mélanges naturels de stéatite et de chlorite</td><td>Mélanges naturels de stéatite et de chlorite exempts d’amiante ayant une pureté minimale de 85 %</td><td>Toutes</td><td colspan="2">–</td><td colspan="2">–</td><td>Tous les aliments</td></tr>
 <tr><td>E 562</td><td>1</td><td>g; i</td><td>Sépiolite</td><td>Silicate de magnésium hydraté d’origine sédimentaire contenant au moins 60 % de sépiolite et un maximum de 30 % de montmorillonite, exempt d’amiante</td><td>Toutes</td><td colspan="2">–</td><td colspan="2">20 000</td><td>Tous les aliments</td></tr>
-<tr><td>E 563</td><td>1</td><td>g; i</td><td>Argile sépiolitique</td><td>Silicate de magnésium hydraté d’origine sédimentaire contenant au moins 40 % de sépiolite et 25 % d’illite, exempt d’amiante</td><td>Toutes</td><td colspan="2">–</td><td colspan="2">20 000</td><td>Tous les aliments</td></tr>
+<tr><td>E 563</td><td>1</td><td>g; i</td><td>Argile sépiolitique</td><td>Silicate de magnésium hydraté d’origine sédimentaire contenant au moins 40 % de sépiolite et 25 % d’illite, exempt d’amiante</td><td>Toutes les espèces animales à l’exception des ruminants laitiers, des suidés sevrés et d’engraissement, des salmonidés et des poulets d’engraissement</td><td colspan="2">–</td><td colspan="2">20 000</td><td>Tous les aliments</td></tr>
+<tr><td>1g563</td><td>1</td><td>g; i</td><td>Argile sépiolitique</td><td>Silicate de magnésium hydraté d’origine sédimentaire contenant ≥ 40 % de sépiolite et ≥ 25 % d’illite Poudre *Caractérisation de la* *substance* *active:* Sépiolite (silicate de magnésium hydrique): ≥ 40 % Numéro CAS: 63800-37-3 Numéro Einecs: 264-465-3 Formule chimique: Mg<sub>4</sub>Si<sub>6</sub>O<sub>15</sub>(OH)<sub>2</sub>·6H<sub>2</sub>O Illite (potassium et silicate d’aluminium et de fer): ≥ 25 % Numéro CAS: 12173-60-3 Numéro Einecs: 601-803-4 Formule chimique: (K,H<sub>3</sub>O)(Al,Mg,Fe)<sub>2</sub>(Si,Al)<sub>4</sub>O<sub>10</sub>[(OH)<sub>2</sub>·(H<sub>2</sub>O)] Carbonates (dolomite, carbonate de calcium et de magnésium): ≤ 35 % Exempt d’amiante</td><td>Ruminants laitiers Suidés sevrés et d’engraissement</td><td colspan="2">–</td><td colspan="2">20 000</td><td>Les conditions de stockage doivent être indiquées dans le mode d’emploi de l’additif et des prémélanges. Les exploitants du secteur de l’alimentation animale établissent, à l’intention des utilisateurs de l’additif et des prémélanges, des procédures opérationnelles et des mesures organisationnelles pour parer aux risques éventuels résultant de leur utilisation. Lorsque ces risques ne peuvent pas être éliminés ou réduits au minimum par ces procédures et mesures, le port d’un équipement de protection individuelle, dont une protection de la peau et une protection respiratoire, est obligatoire lors de l’utilisation de l’additif et des prémélanges. Une attention particulière est accordée à la protection des travailleurs contre les risques d’inhalation liés à l’exposition à la silice cristalline et au nickel.</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>Salmonidés</td><td colspan="2">–</td><td colspan="2">17 600</td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>Poulets d’engraissement</td><td colspan="2">–</td><td colspan="2">10 000</td><td></td></tr>
 <tr><td>E 565</td><td>1</td><td>g; i</td><td>Lignosulfonates</td><td>–\*</td><td>Toutes</td><td colspan="2">–</td><td colspan="2"></td><td>Tous les aliments</td></tr>
 <tr><td>E 566</td><td>1</td><td>g; i</td><td>Natrolite-phonolite</td><td>Mélange naturel d’alumino-silicates alcalins et alcalino-terreux et d’hydrosilicates d’aluminium, de natrolite (43–46,5 %) et de feldspath\*</td><td>Toutes</td><td colspan="2">–</td><td colspan="2">25 000</td><td>Tous les aliments</td></tr>
 <tr><td>1g568</td><td>1</td><td>g; i</td><td>Clinoptilolite d’origine sédimentaire</td><td>Clinoptilolite (aluminosilicate de sodium et calcium hydraté) d’origine sédimentaire ≥ 80 % (sous forme de poudre). Caractérisation de la substance active: d’origine sédimentaire ≥ 80 % et minéraux argileux ≤ 20 % (sans fibres ni quartz). N<sup>o</sup> CAS: 12173-10-3</td><td>Toutes</td><td colspan="2">–</td><td colspan="2">10 000</td><td>Mesures de sécurité: le port d’une protection respiratoire et oculaire et de gants est recommandé pendant la manipulation. La quantité totale de clinoptilolite d’origine sédimentaire ne doit pas dépasser la teneur maximale de 10 000 mg.</td></tr>
 <tr><td>1g598</td><td>1</td><td>i</td><td>Dolomite-magnésite</td><td>Préparation d’un mélange naturel de: dolomite et magnésite ≥ 40 % (ayant une teneur minimale en carbonates de 24 %). *Caractérisation de la substance active:* Dolomite Numéro CAS: 16389-88-1 (CaMg)(CO<sub>3</sub>)<sub>2</sub> Magnésite Numéro CAS: 546-93-0 MgCO<sub>3</sub> Talc (silicates hydratés de magnésium) Numéro CAS: 14807-96-6 Mg<sub>3</sub>Si<sub>4</sub>O<sub>10</sub>(OH)<sub>2</sub> Talc ≥ 35 % Chlorite (aluminium–magnésium) Numéro CAS: 1318-59-8 (Mg,Fe,Al)<sub>6</sub>(Si,Al)<sub>4</sub>O<sub>10</sub>(OH)<sub>8</sub> Fer (structurel) 6 % (moyenne) Chlorite ≥ 16 % Exempt de quartz et d’amiante</td><td>Toutes les espèces animales</td><td colspan="2">5 000</td><td colspan="2">20 000</td><td>L’étiquetage de l’additif et des prémélanges contenant l’additif doit comporter la mention suivante: «L’additif consistant en dolomite et magnésite est riche en fer (inerte).» Les exploitants du secteur de l’alimentation animale établissent, pour les utilisateurs de l’additif et des prémélanges, des procédures opérationnelles et des mesures organisationnelles afin de parer aux risques éventuels résultant de leur utilisation. Lorsque ces risques ne peuvent pas être éliminés ou réduits au minimum par ces procédures et mesures, l’additif et les prémélanges doivent être utilisés avec un équipement de protection individuelle, dont une protection respiratoire.</td></tr>
-<tr><td>1g599</td><td>1</td><td>g; i</td><td>Illite-montmorillonite-kaolinite</td><td>Préparation d’un mélange naturel d’illite, de montmorillonite et de kaolinite, ayant une teneur minimale de: – 40 % en illite – 10 % en montmorillonite – 8 % en kaolinite *Caractérisation de la substance active:* Illite: Numéro CAS: 106958-53-6 K(Al,Fe)<sub>2</sub>AlSi<sub>3</sub>O<sub>10</sub>(OH)<sub>2</sub> · H<sub>2</sub>O Montmorillonite: Numéro CAS: 1318-93-0 Nax[(Al<sub>2</sub>-xMgx)Si<sub>4</sub>O<sub>10</sub>) (OH)<sub>2</sub>] Kaolinite: Numéro CAS: 1318-74-7 Al<sub>2</sub>(OH)<sub>4</sub>(SiO<sub>5</sub>) Fer (structurel) 10 % (moyenne) Exempt d’amiante</td><td>Poulets d’engraissement et espèces mineures de volailles d’engraissement Bovins d’engraissement et espèces mineures de ruminants d’engraissement Porcs d’engraissement et porcs Toutes les autres espèces animales ou catégories d’animaux</td><td colspan="2">5 000 5 000</td><td colspan="2">50 000 20 000</td><td>Les conditions de stockage et la stabilité au traitement thermique doivent être indiquées dans le mode d’emploi de l’additif et des prémélanges. Les exploitants du secteur de l’alimentation animale établissent, pour les utilisateurs de l’additif et des prémélanges, des procédures opérationnelles et des mesures organisationnelles afin de parer aux risques éventuels résultant de leur utilisation. Lorsque ces risques ne peuvent pas être éliminés ou réduits au minimum par ces procédures et mesures, le port d’un équipement de protection individuelle, dont une protection respiratoire, est obligatoire lors de l’utilisation de l’additif et des prémélanges L’étiquetage de l’additif et des prémélanges contenant l’additif doit comporter la mention suivante: « L’additif consistant en illite-montmorillonite-kaolinite est riche en fer (inerte).» Le nombre total des différentes utilisations d’illite-montmorillonite-kaolinite dans l’aliment complet ne doit pas être supérieur au niveau maximal autorisé pour l’espèce animale ou la catégorie d’animaux. Le mode d’emploi doit indiquer ce qui suit: «L’utilisation simultanée de macrolides administrés par voie orale doit être évitée».</td></tr>
+<tr><td>1g599</td><td>1</td><td>g; i</td><td>Illite-montmorillonite-kaolinite</td><td>Préparation d’un mélange naturel d’illite, de montmorillonite et de kaolinite, ayant une teneur minimale de: – 40 % en illite – 10 % en montmorillonite – 8 % en kaolinite *Caractérisation de la substance active:* Illite: Numéro CAS: 106958-53-6 K(Al,Fe)<sub>2</sub>AlSi<sub>3</sub>O<sub>10</sub>(OH)<sub>2</sub> · H<sub>2</sub>O Montmorillonite: Numéro CAS: 1318-93-0 Nax[(Al<sub>2</sub>-xMgx)Si<sub>4</sub>O<sub>10</sub>) (OH)<sub>2</sub>] Kaolinite: Numéro CAS: 1318-74-7 Al<sub>2</sub>(OH)<sub>4</sub>(SiO<sub>5</sub>) Fer (structurel) 10 % (moyenne) Exempt d’amiante</td><td>Poulets d’engraissement et espèces mineures de volailles d’engraissement Bovins d’engraissement et espèces mineures de ruminants d’engraissement Porcs d’engraissement et porcs Toutes les autres espèces animales ou catégories d’animaux</td><td colspan="2">5 000 5 000</td><td colspan="2">50 000 20 000</td><td>Les conditions de stockage et la stabilité au traitement thermique doivent être indiquées dans le mode d’emploi de l’additif et des prémélanges. Les exploitants du secteur de l’alimentation animale établissent, pour les utilisateurs de l’additif et des prémélanges, des procédures opérationnelles et des mesures organisationnelles afin de parer aux risques éventuels résultant de leur utilisation. Lorsque ces risques ne peuvent pas être éliminés ou réduits au minimum par ces procédures et mesures, le port d’un équipement de protection individuelle, dont une protection respiratoire, est obligatoire lors de l’utilisation de l’additif et des prémélanges L’étiquetage de l’additif et des prémélanges contenant l’additif doit comporter la mention suivante: «L’additif consistant en illite-montmorillonite-kaolinite est riche en fer (inerte).» Le nombre total des différentes utilisations d’illite-montmorillonite-kaolinite dans l’aliment complet ne doit pas être supérieur au niveau maximal autorisé pour l’espèce animale ou la catégorie d’animaux. Le mode d’emploi doit indiquer ce qui suit: «L’utilisation simultanée de macrolides administrés par voie orale doit être évitée».</td></tr>
 <tr><td colspan="11">\* Teneur maximale en dioxines: 500 pg WHO-PCDD/F-TEQ/kg. La teneur en dioxines est la somme des polychlorodibenzo-para-dioxines (PCDD) et des polychlorodibenzofuranes (PCDF), exprimée en équivalents toxiques de l’Organisation mondiale de la santé (OMS), en appliquant les TEF-OMS (facteurs d’équivalence toxique). La teneur doit être exprimée en teneur supérieure, c’est-à-dire que les teneurs sont calculées en supposant que toutes les valeurs des congénères différents au-dessous du seuil de détection sont égales au seuil de détection.</td></tr>
 </table>
 
@@ -763,10 +787,7 @@ Annexe 2[^t-3]
 <tr><td>1k103</td><td>1</td><td>k</td><td>Alpha-amylase (EC 3.2.1.1)</td><td>Préparation d’alpha-amylase produite par *Aspergillus oryzae* ATCC SD-5374, ayant une activité minimale de 235 850 DNS/g d’additif Formes solides *Caractérisation de la substance active:* Alpha-amylase produite par *Aspergillus oryzae* ATTC SD-5374</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>–</td><td></td></tr>
 <tr><td>1k104</td><td>1</td><td>k</td><td>Endo-1,4-bêta-glucanase (EC 3.2.1.4)</td><td>Préparation d’endo-1,4-bêta-glucanase produite par *Trichoderma reesei* ATCC PTA-10001, ayant une activité minimale de 2 750 DNS[^annex2-lvlu1-lvl1-lvl16-2]/g d’additif État solide *Caractérisation de la substance active:* Endo-1,4-bêta-glucanase produite par *Trichoderma reesei* ATCC PTA-10001</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>–</td><td></td></tr>
 <tr><td></td><td>1</td><td>k</td><td>Alpha-amylase (EC 3.2.1.1)</td><td>Alpha-amylase EC 3.2.1.1 à partir de *Bacillus subtilis* DS 098</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td></td><td>1</td><td>k</td><td>Beta-glucanase (EC 3.2.1.6)</td><td>Beta-glucanase EC 3.2.1.6 à partir de *Aspergillus niger* MUCL 39199</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td></td><td>1</td><td>k</td><td>Cellulase (EC 3.2.1.4)</td><td>Cellulase EC 3.2.1.4 à partir de *Aspergillus niger* CBS 120604 294</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
 <tr><td></td><td>1</td><td>k</td><td>Cellulase (EC 3.2.1.4)</td><td>Cellulase EC 3.2.1.4 à partir de *Trichoderma longibrachiatum* ATCC PTA-10001 ou ATCC 74252</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td></td><td>1</td><td>k</td><td>Xylanase (EC 3.2.1.8)</td><td>Xylanase EC 3.2.1.8 à partir de *Trichoderma longibrachiatum* MUCL 39203 ou CBS 614.94</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
 <tr><td></td><td>1</td><td>k</td><td>*Enterococcus faecium* CCM 6226</td><td>*Enterococcus faecium* CCM 6226</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
 <tr><td>1k20602</td><td>1</td><td>k</td><td>*Enterococcus faecium* DSM 22502</td><td>Préparation d’*Enterococcus faecium* DSM 22502 contenant au moins 1 × 10<sup>11</sup> UFC/g d’additif *Caractérisation de la substance active:* Cellules viables d’*Enterococcus faecium* DSM 22502.</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>–</td><td>Règlement d’exécution (UE) n<sup>o</sup> 304/2014 de la Commission, du 25 mars 2014, version du JO L 90 du 26.3.2014, p. 8</td></tr>
 <tr><td>1k20601</td><td>1</td><td>k</td><td>*Enterococcus faecium* NCIMB 10415</td><td>Préparation *d’Enterococcus faecium* NCIMB 10415 contenant au moins 1 × 10<sup>10</sup> UFC/g d’additif *Caractérisation de la substance active:* Cellules viables d’*Enterococcus faecium* NCIMB 10415.</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>–</td><td></td></tr>
@@ -873,10 +894,16 @@ Annexe 2[^t-3]
 <tr><td>1k21701</td><td>1</td><td>k</td><td>*Lacticaseibacillus rhamnosus* IMI 507023</td><td>Préparation *de Lacticaseibacillus rhamnosus* IMI 507023 contenant au moins 1 × 10<sup>10</sup> UFC/g d’additif. État solide *Caractérisation de la* *substance* *active:* Cellules viables de *Lacticaseibacillus rhamnosus* IMI 507023.</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>–</td><td></td></tr>
 <tr><td>1k1604</td><td>1</td><td>k</td><td>*Lactiplantibacillus plantarum* DSM 26571</td><td>Préparation de *Lactiplantibacillus plantarum* DSM 26571 contenant au moins 1 × 10<sup>11</sup> UFC/g d’additif. Forme solide *Caractérisation de la* *substance* *active:* Cellules viables de *Lactiplantibacillus plantarum* DSM 26571.</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>–</td><td>Règlement d’exécution (UE) 2022/633 de la Commission, du 13 avril 2022, version du JO L 117 du 19.4.2022, p. 26</td></tr>
 <tr><td>1k1801</td><td>1</td><td>k</td><td>*Propionibacterium freudenreichii* DSM 33189 et *Lentilactobacillus buchneri* DSM 12856</td><td>Préparation de *Propionibacterium freudenreichii* DSM 33189 et de *Lentilactobacillus buchneri* DSM 12856 contenant au moins 5 × 10<sup>11</sup> UFC/g, selon une proportion de 1:4 (1 × 10<sup>11</sup> UFC de *P. freudenreichii* DSM 33189 et 4 × 10<sup>11</sup> UFC de *L. buchneri* DSM 12856 par gramme) Forme solide *Caractérisation de la substance active:* Cellules viables de *Propionibacterium freudenreichii* DSM 33189 et de *Lentilactobacillus buchneri* DSM 12856</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>–</td><td>Règlement d’exécution (UE) 2022/1382 de la Commission, du 8 août 2022, version du JO L 207 du 9.8.2022, p. 16</td></tr>
+<tr><td>1k105</td><td>1</td><td>k</td><td>Endo-1,4-bêta-glucanase (EC 3.2.1.4)</td><td>Préparation d’endo-1,4-bêta-glucanase produite par *Aspergillus* *niger* CBS 120604, ayant une activité minimale de 25650 DNS[^annex2-lvlu1-lvl1-lvl16-3]/g d’additif État solide *Caractérisation de la* *substance* *active:* ndo-1,4-bêta-glucanase (EC 3.2.1.4) produite par *Aspergillus* *niger* CBS 120604</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>–</td><td>Règlement d’exécution (UE) 2023/61 de la Commission, du 5 janvier 2023, version du JO L 5 du 6.1.2023, p. 24</td></tr>
+<tr><td>1k106</td><td>1</td><td>k</td><td>Endo-1,3(4)-bêta-glucanase (EC 3.2.1.6)</td><td>Préparation d’endo-1,3(4)-bêta-glucanase produite par *Aspergillus neoniger* MUCL 39199, ayant une activité minimale de 10000 DNS/g d’additif État solide *Caractérisation de la* *substance* *active:* Endo-1,3(4)-bêta-glucanase (EC 3.2.1.6) produite par *Aspergillus* *neoniger* MUCL 39199</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>–</td><td></td></tr>
+<tr><td>1k107</td><td>1</td><td>k</td><td>Endo-1,4-bêta-xylanase (EC 3.2.1.8)</td><td>Préparation d’endo-1,4-bêta-xylanase produite par *Trichoderma* *citrinoviride* MUCL 39203, ayant une activité minimale de 51600 DNS/g d’additif État solide *Caractérisation de la* *substance* *active:* Endo-1,4-bêta-xylanase (EC 3.2.1.8) produite par *Trichoderma citrinoviride* MUCL 39203</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>–</td><td></td></tr>
+<tr><td>1k108</td><td>1</td><td>k</td><td>Endo-1,4-bêta-xylanase (EC 3.2.1.8)</td><td>Préparation d’endo-1,4-bêta-xylanase produite par *Trichoderma* *citrinoviride* CBS 614.94, ayant une activité minimale de 70000 DNS/g d’additif État solide *Caractérisation de la* *substance* *active:* Endo-1,4-bêta-xylanase (EC 3.2.1.8) produite par *Trichoderma* *citrinoviride* CBS 614.94</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>–</td><td></td></tr>
+<tr><td>1k1018</td><td>1</td><td>k</td><td>*Pediococcus* *pentosaceus* DSM 32292</td><td>Préparation de *Pediococcus pentosaceus* DSM 32292 contenant au moins 1 × 10<sup>10</sup> UFC/g d’additif *Caractérisation de la* *substance* *active:* Cellules viables de *Pediococcus* *pentosaceus* DSM 32292</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>–</td><td>Règlement d’exécution (UE) 2023/59 de la Commission, du 5 janvier 2023, version du JO L 5 du 6.1.2023, p. 16</td></tr>
 </table>
 
 [^annex2-lvlu1-lvl1-lvl16-1]: Une unité DNS (acide 3,5-dinitrosalicylique) correspond à la quantité de sucres réducteurs libérés (mesurés en équivalents maltose) à partir de l’amidon, en μmol/g/min. à pH 4,5 et à 37 °C, dans des conditions d’essai spécifiées.
 [^annex2-lvlu1-lvl1-lvl16-2]: Une unité DNS (acide 3,5-dinitrosalicylique) correspond à la quantité de sucres réducteurs libérés (mesurés en équivalents glucose) à partir de la carboxyméthylcellulose (CMC), en µmol/g/min. à pH 4,5 et à 37 °C, dans des conditions d’essai spécifiées.
+[^annex2-lvlu1-lvl1-lvl16-3]: Une unité DNS (acide 3,5-dinitrosalicylique) correspond à la quantité de sucres réducteurs libérés (mesurés en équivalents glucose) à partir de l’amidon, en μmol/g/min. à pH 4,5 et à 37 °C.
 
 ### 1.7 Groupes fonctionnels m: substances destinées à réduire la contamination des aliments pour animaux par les mycotoxines et n: améliorateurs des conditions d’hygiène
 
@@ -1329,7 +1356,7 @@ Annexe 2[^t-3]
 <tr><td>2b5169</td><td>2</td><td>b</td><td>12-Méthyltridécanal</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>2b0001</td><td>2</td><td>b</td><td>Arôme de fumée</td><td>Voir règlement (UE) dans la dernière colonne (10)</td><td>Chiens et chats</td><td>-</td><td>-</td><td>40</td><td>Règlement d’exécution (UE) 1076/2014 de la Commission du 13 octobre 2014, version du JO L 296 du 14.10.2014, p. 19</td></tr>
 <tr><td>2b957</td><td>2</td><td>b</td><td>Thaumatine</td><td>Voir règlement (UE) dans la dernière colonne (10)</td><td>Toutes les espèces animales</td><td>-</td><td>-</td><td>-</td><td>Règlement d’exécution (UE) 869/2012 de la Commission du 24 septembre 2012, version du JO L 257 du 25.09.2012, p. 7</td></tr>
-<tr><td>2b16058</td><td>2</td><td>b</td><td>Naringine</td><td>Voir règlement (UE) dans la dernière colonne (10)</td><td>Toutes les espèces animales</td><td>-</td><td>-</td><td>-</td><td>Règlement d’exécution (UE) 870/2012 d’exécution de la Commission du 24 septembre 2012, version du JO L 257 du 25.09.2012, p. 10</td></tr>
+<tr><td>2b16058</td><td>2</td><td>b</td><td>Naringine</td><td>Voir règlement (UE) dans la dernière colonne</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>Teneurs maximales recommandées (Voir règl. UE)</td><td>Règlement d’exécution (UE) 2023/255 de la Commission, du 6 février 2023, version du JO L 35 du 7.2.2023, p. 11</td></tr>
 <tr><td>3c352</td><td>2</td><td>b</td><td>Monochlorhydrate monohydraté de L-histidin</td><td>Voir règlement (UE) dans la dernière colonne (10)</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>–</td><td>Règlement d’exécution (UE) 2020/1090 de la Commission, du 24 juillet 2020, version du JO L 241 du 27.07.2020, p. 1</td></tr>
 <tr><td>3c362</td><td>2</td><td>b</td><td>L-arginine</td><td>Voir règlement (UE) dans la dernière colonne (10)</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>Teneurs maximales recommandées (Voir reg. UE)</td><td>Règlement d’exécution (UE) 2020/1033 de la Commission, du 15 juillet 2020, version du JO L 227 du 16.07.2020, p. 27</td></tr>
 <tr><td>2b180</td><td>2</td><td>b</td><td>Huile essentielle de cardamome</td><td>Voir règlement (UE) dans la dernière colonne (10)</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>Teneurs maximales recommandées (Voir reg. UE)</td><td>Règlement d’exécution (UE) 2020/1098 de la Commission, du 24 juillet 2020, version du JO L 241 du 27.07.2020, p. 28</td></tr>
@@ -1521,6 +1548,70 @@ Annexe 2[^t-3]
 <tr><td></td><td></td><td></td><td></td><td></td><td>Vaches laitières</td><td>–</td><td>–</td><td>21.5</td><td colspan="2"></td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td><td>Lapins</td><td>–</td><td>–</td><td>13,5</td><td colspan="2"></td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td><td>Salmonidés Poissons d’ornement</td><td>–</td><td>–</td><td>30</td><td colspan="2"></td></tr>
+<tr><td>2b09093</td><td>2</td><td>b</td><td>Heptanoate d’éthyle</td><td>Voir règlement (UE) dans la dernière colonne</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>Teneurs maximales recommandées (Voir règl. UE)</td><td colspan="2">Règlement d’exécution (UE) 2023/565 de la Commission, du 10 mars 2023, version du JO L 74 du 13.3.2023, p. 10</td></tr>
+<tr><td>2b09409</td><td>2</td><td>b</td><td>2-Méthylbutyrate d’éthyle</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b09024</td><td>2</td><td>b</td><td>Acétate d’isopentyle</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b09463</td><td>2</td><td>b</td><td>3-Méthylbutyrate de 3-méthylbutyle</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b08006</td><td>2</td><td>b</td><td>Acide 2-méthylpropionique</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b09055</td><td>2</td><td>b</td><td>Butyrate de 3-méthylbutyle</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b09286</td><td>2</td><td>b</td><td>Acétate de 2-méthylbutyle</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b02020</td><td>2</td><td>b</td><td>Hex-2-én-1-ol</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b05073</td><td>2</td><td>b</td><td>*trans*-Hex-2-énal</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b09244</td><td>2</td><td>b</td><td>Hexanoate d’allyle</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b09097</td><td>2</td><td>b</td><td>Heptanoate d’allyle</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b02013</td><td>2</td><td>b</td><td>Linalol</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b02035</td><td>2</td><td>b</td><td>2-Méthyl-1-phénylpropan-2-ol</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b07007</td><td>2</td><td>b</td><td>alpha-Ionone</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b07083</td><td>2</td><td>b</td><td>bêta-Damascone</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b07089</td><td>2</td><td>b</td><td>Nootkatone</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b07008</td><td>2</td><td>b</td><td>bêta-Ionone</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b07011</td><td>2</td><td>b</td><td>alpha-Irone</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b07108</td><td>2</td><td>b</td><td>bêta-Damascénone</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b07224</td><td>2</td><td>b</td><td>(*E*)-bêta-Damascone</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b10004</td><td>2</td><td>b</td><td>Pentadécano-1,15-lactone</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b02019</td><td>2</td><td>b</td><td>2-Phényléthan-1-ol</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b09466</td><td>2</td><td>b</td><td>Isovalérate de phénéthyle</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b07055</td><td>2</td><td>b</td><td>4-(*p*-Hydroxyphényl)butan-2‑one</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b04074</td><td>2</td><td>b</td><td>2-Méthoxynaphthalène</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b15026</td><td>2</td><td>b</td><td>2-Isopropyl-4-méthylthiazole</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b01017</td><td>2</td><td>b</td><td>Valencène</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b09192</td><td>2</td><td>b</td><td>Oléate d’éthyle</td><td>Voir règlement (UE) dans la dernière colonne</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>Teneurs maximales recommandées (Voir règl. UE)</td><td colspan="2">Règlement d’exécution (UE) 2023/605 de la Commission, du 9 mars 2023, version du JO L 82 du 21.3.2023, p. 1</td></tr>
+<tr><td>2b02049</td><td>2</td><td>b</td><td>Nona-2,6-dién-1-ol</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b02050</td><td>2</td><td>b</td><td>Pent-2-én-1-ol</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b02231</td><td>2</td><td>b</td><td>*trans,cis*-2,6-Nonadién-1-ol</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b05037</td><td>2</td><td>b</td><td>2-Dodécénal</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b05058</td><td>2</td><td>b</td><td>*trans,cis*-Nona-2,6-diénal</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b05071</td><td>2</td><td>b</td><td>Nona-2,4-diénal</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b05072</td><td>2</td><td>b</td><td>*trans*-2-Nonénal</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b05081</td><td>2</td><td>b</td><td>2,4-Décadiénal</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b05084</td><td>2</td><td>b</td><td>Hepta-2,4-diénal</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b05140</td><td>2</td><td>b</td><td>*trans,trans*-Déca-2,4-diénal</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b05144</td><td>2</td><td>b</td><td>*trans*-Dodéc-2-énal</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b05150</td><td>2</td><td>b</td><td>*trans*-Hept-2-énal</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b05171</td><td>2</td><td>b</td><td>Non-2-énal</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b05172</td><td>2</td><td>b</td><td>*trans,trans*-Nona-2,6-diénal</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b05184</td><td>2</td><td>b</td><td>*trans*-Undéc-2-énal</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b05190</td><td>2</td><td>b</td><td>*trans*-2-Octénal</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b05191</td><td>2</td><td>b</td><td>*trans*-2-Décénal</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b05194</td><td>2</td><td>b</td><td>*trans,trans*-2,4-Nonadiénal</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b05196</td><td>2</td><td>b</td><td>*trans,trans*-2,4-Undécadiénal</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b09394</td><td>2</td><td>b</td><td>Acétate de *trans*-hex-2-ényle</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b09396</td><td>2</td><td>b</td><td>Butyrate d’hex-2-ényle</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b07081</td><td>2</td><td>b</td><td>Oct-1-én-3-one</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b02067</td><td>2</td><td>b</td><td>Isopulégol</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b02072</td><td>2</td><td>b</td><td>4-Terpinénol</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b09050</td><td>2</td><td>b</td><td>Butyrate de linalyle</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b09080</td><td>2</td><td>b</td><td>Formiate de linalyle</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b09130</td><td>2</td><td>b</td><td>Propionate de linalyle</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b09423</td><td>2</td><td>b</td><td>Isobutyrate de linalyle</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b07112</td><td>2</td><td>b</td><td>3-Méthyl-2-cyclopentén-1-one</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b09520</td><td>2</td><td>b</td><td>3-Oxo-2-pentyl-1-cyclopentylacétate de méthyle</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b07032</td><td>2</td><td>b</td><td>Benzophénone</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b09739</td><td>2</td><td>b</td><td>Cinnamate de benzyle</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b09748</td><td>2</td><td>b</td><td>Salicylate d’éthyle</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b04013</td><td>2</td><td>b</td><td>1,2-Diméthoxy-4-(prop-1-ényl)-benzène</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b01008</td><td>2</td><td>b</td><td>Myrcène</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2b01018</td><td>2</td><td>b</td><td>bêta-Ocimène</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
 </table>
 
 ### 2.2.2 Substances aromatiques autorisées à titre provisoire
@@ -1531,9 +1622,7 @@ Annexe 2[^t-3]
 <tr><th>Numéro d’ordre</th><th>Catégorie</th><th>Groupe fonctionnel</th><th>Désignation chimique</th></tr>
 <tr><th>1</th><th>2</th><th>3</th><th>4</th></tr>
 <tr><td>1</td><td>2</td><td>b</td><td>3-Methylcyclopentan-1,2-dione / Flavis No. 07.056</td></tr>
-<tr><td>2-3</td><td></td><td></td><td></td></tr>
-<tr><td>4</td><td>2</td><td>b</td><td>CAS No. 100-86-7 / 2-Methyl-1-phenylpropan-2-ol / Flavis No. 02.035</td></tr>
-<tr><td>5</td><td></td><td></td><td></td></tr>
+<tr><td>2-5</td><td></td><td></td><td></td></tr>
 <tr><td>6</td><td>2</td><td>b</td><td>CAS No. 101-41-7 / Methyl phenylacetate / Flavis No. 09.783</td></tr>
 <tr><td>7</td><td>2</td><td>b</td><td>CAS No. 101-84-8 / Diphenyl ether / Flavis No. 04.035</td></tr>
 <tr><td>8</td><td></td><td></td><td></td></tr>
@@ -1541,8 +1630,7 @@ Annexe 2[^t-3]
 <tr><td>10</td><td>2</td><td>b</td><td>CAS No. 102-13-6 / Isobutyl phenylacetate / Flavis No. 09.788</td></tr>
 <tr><td>11</td><td>2</td><td>b</td><td>CAS No. 102-19-2 / 3-Methylbutyl phenylacetate / Flavis No. 09.789</td></tr>
 <tr><td>12</td><td>2</td><td>b</td><td>CAS No. 102-20-5 / Phenethyl phenylacetate / Flavis No. 09.707</td></tr>
-<tr><td>13-14</td><td></td><td></td><td></td></tr>
-<tr><td>15</td><td>2</td><td>b</td><td>CAS No. 103-41-3 / Benzyl cinnamate / Flavis No. 09.738</td></tr>
+<tr><td>13-15</td><td></td><td></td><td></td></tr>
 <tr><td>16</td><td>2</td><td>b</td><td>CAS No. 103-45-7 / Phenethyl acetate / Flavis No. 09.031</td></tr>
 <tr><td>17-21</td><td></td><td></td><td></td></tr>
 <tr><td>22</td><td>2</td><td>b</td><td>CAS No. 103-82-2 / Phenylacetic acid / Flavis No. 08.038</td></tr>
@@ -1555,12 +1643,7 @@ Annexe 2[^t-3]
 <tr><td>30</td><td>2</td><td>b</td><td>CAS No. 104-67-6 / Undecano-1,4-lactone / Flavis No. 10.002</td></tr>
 <tr><td>31</td><td>2</td><td>b</td><td>CAS No. 105-13-5 / p-Anisyl alcohol / Flavis No. 02.128</td></tr>
 <tr><td>32</td><td>2</td><td>b</td><td>CAS No. 105-54-4 / Éthyl butyrate / Flavis No. 09.039</td></tr>
-<tr><td>33-26</td><td></td><td></td><td></td></tr>
-<tr><td>37</td><td>2</td><td>b</td><td>CAS No. 106-02-5 / Pentadecano-1,15-lactone / Flavis No. 10.004</td></tr>
-<tr><td>38-39</td><td></td><td></td><td></td></tr>
-<tr><td>40</td><td>2</td><td>b</td><td>CAS No. 106-27-4 / 3-Methylbutyl butyrate / Flavis No. 09.055</td></tr>
-<tr><td>41</td><td></td><td></td><td></td></tr>
-<tr><td>42</td><td>2</td><td>b</td><td>CAS No. 106-30-9 / Éthyl heptanoate / Flavis No. 09.093</td></tr>
+<tr><td>33-42</td><td></td><td></td><td></td></tr>
 <tr><td>43</td><td>2</td><td>b</td><td>CAS No. 106-44-5 / 4-Methylphenol / Flavis No. 04.028</td></tr>
 <tr><td>44</td><td>2</td><td>b</td><td>CAS No. 106-68-3 / Octan-3-one / Flavis No. 07.062</td></tr>
 <tr><td>45</td><td>2</td><td>b</td><td>CAS No. 107-92-6 / Butyric acid / Flavis No. 08.005</td></tr>
@@ -1574,19 +1657,19 @@ Annexe 2[^t-3]
 <tr><td>53</td><td></td><td></td><td></td></tr>
 <tr><td>54</td><td>2</td><td>b</td><td>CAS No. 110-93-0 / 6-Methylhept-5-en-2-one / Flavis No. 07.015</td></tr>
 <tr><td>55</td><td>2</td><td>b</td><td>CAS No. 111-13-7 / Octan-2-one / Flavis No. 07.019</td></tr>
-<tr><td>56</td><td>2</td><td>b</td><td>CAS No. 111-62-6 / Éthyl oleate / Flavis No. 09.192</td></tr>
+<tr><td>56</td><td></td><td></td><td></td></tr>
 <tr><td>57</td><td>2</td><td>b</td><td>CAS No. 112-12-9 / Undecan-2-one / Flavis No. 07.016</td></tr>
 <tr><td>58</td><td></td><td></td><td></td></tr>
 <tr><td>59</td><td>2</td><td>b</td><td>CAS No. 1124-11-4 / 2,3,5,6-Tetramethylpyrazine / Flavis No. 14.018</td></tr>
 <tr><td>60</td><td>2</td><td>b</td><td>CAS No. 112-45-8 / Undec-10-enal / Flavis No. 05.035</td></tr>
-<tr><td>61</td><td>2</td><td>b</td><td>CAS No. 115-99-1 / Linalyl formate / Flavis No. 09.080</td></tr>
+<tr><td>61</td><td></td><td></td><td></td></tr>
 <tr><td>62</td><td>2</td><td>b</td><td>CAS No. 118-58-1 / Benzyl salicylate / Flavis No. 09.752</td></tr>
-<tr><td>63</td><td>2</td><td>b</td><td>CAS No. 118-61-6 / Éthyl salicylate / Flavis No. 09.748</td></tr>
+<tr><td>63</td><td></td><td></td><td></td></tr>
 <tr><td>64</td><td>2</td><td>b</td><td>CAS No. 118-71-8 / Maltol / Flavis No. 07.014</td></tr>
 <tr><td>65</td><td></td><td></td><td></td></tr>
 <tr><td>66</td><td>2</td><td>b</td><td>CAS No. 1192-62-7 / 2-Acetylfuran / Flavis No. 13.054</td></tr>
 <tr><td>67</td><td>2</td><td>b</td><td>CAS No. 119-36-8 / Methyl salicylate / Flavis No. 09.749</td></tr>
-<tr><td>68</td><td>2</td><td>b</td><td>CAS No. 119-61-9 / Benzophenone / Flavis No. 07.032</td></tr>
+<tr><td>68</td><td></td><td></td><td></td></tr>
 <tr><td>69</td><td>2</td><td>b</td><td>CAS No. 120-51-4 / Benzyl benzoate / Flavis No. 09.727</td></tr>
 <tr><td>70</td><td>2</td><td>b</td><td>CAS No. 120-57-0 / Piperonal / Flavis No. 05.016</td></tr>
 <tr><td>71</td><td>2</td><td>b</td><td>CAS No. 121-33-5 / Vanillin / Flavis No. 05.018</td></tr>
@@ -1597,125 +1680,84 @@ Annexe 2[^t-3]
 <tr><td>77</td><td>2</td><td>b</td><td>CAS No. 123-07-9 / 4-Éthylphenol / Flavis No. 04.022</td></tr>
 <tr><td>78</td><td>2</td><td>b</td><td>CAS No. 123-11-5 / 4-Methoxybenzaldehyde / Flavis No. 05.015</td></tr>
 <tr><td>79</td><td>2</td><td>b</td><td>CAS No. 123-32-0 / 2,5-Dimethylpyrazine / Flavis No. 14.020</td></tr>
-<tr><td>80</td><td>2</td><td>b</td><td>CAS No. 123-35-3 / Myrcene / Flavis No. 01.008</td></tr>
-<tr><td>81</td><td>2</td><td>b</td><td>CAS No. 123-68-2 / Allyl hexanoate / Flavis No. 09.244</td></tr>
-<tr><td>82</td><td>2</td><td>b</td><td>CAS No. 123-92-2 / Isopentyl acetate / Flavis No. 09.024</td></tr>
+<tr><td>80-82</td><td></td><td></td><td></td></tr>
 <tr><td>83</td><td>2</td><td>b</td><td>CAS No. 124-76-5 / Isoborneol / Flavis No. 02.059</td></tr>
 <tr><td>84</td><td>2</td><td>b</td><td>CAS No. 125-12-2 / Isobornyl acetate / Flavis No. 09.218</td></tr>
-<tr><td>85</td><td>2</td><td>b</td><td>CAS No. 127-41-3 / alpha-Ionone / Flavis No. 07.007</td></tr>
-<tr><td>86-87</td><td></td><td></td><td></td></tr>
-<tr><td>88</td><td>2</td><td>b</td><td>CAS No. 13877-91-3 / beta-Ocimene / Flavis No. 01.018</td></tr>
+<tr><td>85-88</td><td></td><td></td><td></td></tr>
 <tr><td>89</td><td>2</td><td>b</td><td>CAS No. 13925-07-0 / 2-Éthyl-3,5-dimethylpyrazine / Flavis No. 14.024</td></tr>
-<tr><td>90</td><td>2</td><td>b</td><td>CAS No. 140-26-1 / Phenethyl isovalerate / Flavis No. 09.466</td></tr>
-<tr><td>91</td><td></td><td></td><td></td></tr>
-<tr><td>92-93</td><td></td><td></td><td></td></tr>
-<tr><td>94</td><td>2</td><td>b</td><td>CAS No. 142-19-8 / Allyl heptanoate / Flavis No. 09.097</td></tr>
-<tr><td>95</td><td>2</td><td>b</td><td>CAS No. 144-39-8 / Linalyl propionate / Flavis No. 09.130</td></tr>
+<tr><td>90-95</td><td></td><td></td><td></td></tr>
 <tr><td>96</td><td>2</td><td>b</td><td>CAS No. 14667-55-1 / 2,3,5-Trimethylpyrazine / Flavis No. 14.019</td></tr>
-<tr><td>97</td><td>2</td><td>b</td><td>CAS No. 14901-07-6 / beta-Ionone / Flavis No. 07.008</td></tr>
-<tr><td>98</td><td>2</td><td>b</td><td>CAS No. 15679-13-7 / 2-Isopropyl-4-methylthiazole / Flavis No. 15.026</td></tr>
-<tr><td>99</td><td></td><td></td><td></td></tr>
+<tr><td>97-99</td><td></td><td></td><td></td></tr>
 <tr><td>100</td><td>2</td><td>b</td><td>CAS No. 15707-23-0 / 2-Éthyl-3-methylpyrazine / Flavis No. 14.006</td></tr>
-<tr><td>101</td><td>2</td><td>b</td><td>CAS No. 1576-95-0 / Pent-2-en-1-ol / Flavis No. 02.050</td></tr>
+<tr><td>101</td><td></td><td></td><td></td></tr>
 <tr><td>102</td><td>2</td><td>b</td><td>CAS No. 17369-59-4 / 3-Propylidenephthalide / Flavis No. 10.005</td></tr>
-<tr><td>103</td><td>2</td><td>b</td><td>CAS No. 17587-33-6 / Nona-2(trans),6(trans)-dienal / Flavis No. 05.172</td></tr>
+<tr><td>103</td><td></td><td></td><td></td></tr>
 <tr><td>104</td><td>2</td><td>b</td><td>CAS No. 1759-28-0 / 4-Methyl-5-vinylthiazole / Flavis No. 15.018</td></tr>
-<tr><td>105</td><td>2</td><td>b</td><td>CAS No. 18829-55-5 / Hept-2(trans)-enal / Flavis No. 05.150</td></tr>
-<tr><td>106</td><td>2</td><td>b</td><td>CAS No. 18829-56-6 / trans-2-Nonenal / Flavis No. 05.072</td></tr>
-<tr><td>107</td><td>2</td><td>b</td><td>CAS No. 20407-84-5 / Dodec-2(trans)-enal / Flavis No. 05.144</td></tr>
-<tr><td>108-109</td><td></td><td></td><td></td></tr>
+<tr><td>105-109</td><td></td><td></td><td></td></tr>
 <tr><td>110</td><td>2</td><td>b</td><td>CAS No. 21834-92-4 / 5-Methyl-2-phenylhex-2-enal / Flavis No. 05.099</td></tr>
 <tr><td>111</td><td></td><td></td><td></td></tr>
 <tr><td>112</td><td>2</td><td>b</td><td>CAS No. 22047-25-2 / Acetylpyrazine / Flavis No. 14.032</td></tr>
 <tr><td>113</td><td>2</td><td>b</td><td>CAS No. 2216-51-5 / L-Menthol / Flavis No. 02.015</td></tr>
 <tr><td>114</td><td>2</td><td>b</td><td>CAS No. 2305-05-7 / Dodecano-1,4-lactone / Flavis No. 10.019</td></tr>
-<tr><td>115</td><td>2</td><td>b</td><td>CAS No. 2305-21-7 / Hex-2-en-1-ol / Flavis No. 02.020</td></tr>
-<tr><td>116-117</td><td></td><td></td><td></td></tr>
-<tr><td>118</td><td>2</td><td>b</td><td>CAS No. 2363-88-4 / 2,4-Decadienal / Flavis No. 05.081</td></tr>
-<tr><td>119</td><td>2</td><td>b</td><td>CAS No. 23696-85-7 / beta-Damascenone / Flavis No. 07.108</td></tr>
-<tr><td>120</td><td>2</td><td>b</td><td>CAS No. 23726-91-2 / tr-1-(2,6,6-Trimethyl-1-cyclohexen-1-yl)but-2-en-1-one / Flavis No. 07.224</td></tr>
-<tr><td>121</td><td>2</td><td>b</td><td>CAS No. 23726-92-3 / beta-Damascone / Flavis No. 07.083</td></tr>
+<tr><td>115-121</td><td></td><td></td><td></td></tr>
 <tr><td>122</td><td>2</td><td>b</td><td>CAS No. 23747-48-0 / 5H-5-methyl-6,7-dihydrocyclopenta (b)pyrazine / Flavis No. 14.037</td></tr>
 <tr><td>123</td><td>2</td><td>b</td><td>CAS No. 2442-10-6 / Oct-1-en-3-yl acetate / Flavis No. 09.281</td></tr>
-<tr><td>124</td><td>2</td><td>b</td><td>CAS No. 2463-53-8 / Non-2-enal / Flavis No. 05.171</td></tr>
-<tr><td>125</td><td>2</td><td>b</td><td>CAS No. 2463-77-6 / Undec-2(trans)-enal / Flavis No. 05.184</td></tr>
+<tr><td>124-125</td><td></td><td></td><td></td></tr>
 <tr><td>126</td><td>2</td><td>b</td><td>CAS No. 24683-00-9 / 2-Isobutyl-3-methoxypyrazine / Flavis No. 14.043</td></tr>
-<tr><td>127</td><td>2</td><td>b</td><td>CAS No. 24851-98-7 / Methyl 3-oxo-2-pentyl-1-cyclopentylacetate / Flavis No. 09.520</td></tr>
-<tr><td>128</td><td>2</td><td>b</td><td>CAS No. 2497-18-9 / Hex-2(trans)-enyl acetate / Flavis No. 09.394</td></tr>
-<tr><td>129</td><td>2</td><td>b</td><td>CAS No. 25152-84-5 / Deca-2(trans),4(trans)-dienal / Flavis No. 05.140</td></tr>
-<tr><td>130</td><td></td><td></td><td></td></tr>
-<tr><td>131</td><td>2</td><td>b</td><td>CAS No. 2548-87-0 / trans-2-Octenal / Flavis No. 05.190</td></tr>
-<tr><td>132</td><td>2</td><td>b</td><td>CAS No. 2679-87-0 / tr-2, cis-6-Nonadien-1-ol / Flavis No. 02.231</td></tr>
+<tr><td>127-132</td><td></td><td></td><td></td></tr>
 <tr><td>133</td><td>2</td><td>b</td><td>CAS No. 2721-22-4 / Tetradecano-1,5-lactone / Flavis No. 10.016</td></tr>
-<tr><td>134</td><td>2</td><td>b</td><td>CAS No. 2758-18-1 / 3-Methyl-2-cyclopenten-1-one / Flavis No. 07.112</td></tr>
+<tr><td>134</td><td></td><td></td><td></td></tr>
 <tr><td>135</td><td>2</td><td>b</td><td>CAS No. 2785-89-9 / 4-Éthylguaiacol / Flavis No. 04.008</td></tr>
 <tr><td>136</td><td></td><td></td><td></td></tr>
 <tr><td>137</td><td>2</td><td>b</td><td>CAS No. 2847-30-5 / 2-Methoxy-3-methylpyrazine / Flavis No. 14.126</td></tr>
 <tr><td>138</td><td>2</td><td>b</td><td>CAS No. 28664-35-9 / 3-Hydroxy-4,5-dimethylfuran-2(5H)-one / Flavis No. 10.030</td></tr>
-<tr><td>139-140</td><td></td><td></td><td></td></tr>
-<tr><td>141</td><td>2</td><td>b</td><td>CAS No. 30361-29-6 / tr-2, tr-4-Undecadienal / Flavis No. 05.196</td></tr>
+<tr><td>139-141</td><td></td><td></td><td></td></tr>
 <tr><td>142</td><td>2</td><td>b</td><td>CAS No. 3142-72-1 / 2-Methyl-2-pentenoic acid / Flavis No. 08.055</td></tr>
 <tr><td>143</td><td></td><td></td><td></td></tr>
 <tr><td>144</td><td>2</td><td>b</td><td>CAS No. 3391-86-4 / Oct-1-en-3-ol / Flavis No. 02.023</td></tr>
 <tr><td>145</td><td>2</td><td>b</td><td>CAS No. 4691-65-0 / Disodium Inosine-5-Mono-phosphate (IMP)</td></tr>
 <tr><td>146</td><td></td><td></td><td></td></tr>
 <tr><td>147</td><td>2</td><td>b</td><td>CAS No. 3777-69-3 / 2-Pentylfuran / Flavis No. 13.059</td></tr>
-<tr><td>148</td><td>2</td><td>b</td><td>CAS No. 3913-81-3 / trans-2-Decenal / Flavis No. 05.191</td></tr>
+<tr><td>148</td><td></td><td></td><td></td></tr>
 <tr><td>149</td><td>2</td><td>b</td><td>CAS No. 41453-56-9 / Non-2(cis)-en-1-ol / Flavis No. 02.112</td></tr>
 <tr><td>150</td><td>2</td><td>b</td><td>CAS No. 4166-20-5 / 4-Acetoxy-2,5-dimethylfuran-3(2H)-one / Flavis No. 13.099</td></tr>
 <tr><td>151</td><td></td><td></td><td></td></tr>
 <tr><td>152</td><td>2</td><td>b</td><td>CAS No. 43039-98-1 / 2-Propionylthiazole / Flavis No. 15.027</td></tr>
 <tr><td>153</td><td></td><td></td><td></td></tr>
 <tr><td>154</td><td>2</td><td>b</td><td>CAS No. 431-03-8 / Diacetyl / Flavis No. 07.052</td></tr>
-<tr><td>155</td><td>2</td><td>b</td><td>CAS No. 4312-99-6 / Oct-1-en-3-one / Flavis No. 07.081</td></tr>
-<tr><td>156</td><td>2</td><td>b</td><td>CAS No. 4313-03-5 / 2,4-heptadienal, Hepta-2,4-dienal / Flavis No. 05.084</td></tr>
-<tr><td>157-158</td><td></td><td></td><td></td></tr>
-<tr><td>159</td><td>2</td><td>b</td><td>CAS No. 4630-07-3 / Valencene / Flavis No. 01.017</td></tr>
+<tr><td>155-159</td><td></td><td></td><td></td></tr>
 <tr><td>160</td><td>2</td><td>b</td><td>CAS No. 464-49-3 / (1R)-1,7,7-Trimethylbicyclo[2.2.1]heptan-2-one / Flavis No. 07.215</td></tr>
-<tr><td>161</td><td>2</td><td>b</td><td>CAS No. 4674-50-4 / Nootkatone / Flavis No. 07.089</td></tr>
-<tr><td>162</td><td>2</td><td>b</td><td>CAS No. 4826-62-4 / 2-Dodecenal / Flavis No. 05.037</td></tr>
+<tr><td>161-162</td><td></td><td></td><td></td></tr>
 <tr><td>163</td><td>2</td><td>b</td><td>CAS No. 499-75-2 / Carvacrol / Flavis No. 04.031</td></tr>
 <tr><td>164</td><td>2</td><td>b</td><td>CAS No. 507-70-0 / Borneol / Flavis No. 02.016</td></tr>
-<tr><td>165</td><td>2</td><td>b</td><td>CAS No. 53398-83-7 / Hex-2-enyl butyrate / Flavis No. 09.396</td></tr>
+<tr><td>165</td><td></td><td></td><td></td></tr>
 <tr><td>166</td><td>2</td><td>b</td><td>CAS No. 536-78-7 / 3-Éthylpyridine / Flavis No. 14.061</td></tr>
-<tr><td>167-168</td><td></td><td></td><td></td></tr>
-<tr><td>169</td><td>2</td><td>b</td><td>CAS No. 5471-51-2 / 4-(p-Hydroxyphenyl)butan-2-one / Flavis No. 07.055</td></tr>
+<tr><td>167-169</td><td></td><td></td><td></td></tr>
 <tr><td>170</td><td>2</td><td>b</td><td>CAS No. 55031-15-7 / 2-ethyl-3,(5or6)di methylpyrazine / Flavis No. 14.100</td></tr>
 <tr><td>171</td><td>2</td><td>b</td><td>CAS No. 551-08-6 / 3-Butylidenephthalide / Flavis No. 10.024</td></tr>
 <tr><td>172</td><td></td><td></td><td></td></tr>
 <tr><td>173</td><td>2</td><td>b</td><td>CAS No. 556-24-1 / Methyl isovalerate / Flavis No. 09.462</td></tr>
-<tr><td>174</td><td>2</td><td>b</td><td>CAS No. 557-48-2 / Nona-2(trans),6(cis)-dienal / Flavis No. 05.058</td></tr>
-<tr><td>175</td><td>2</td><td>b</td><td>CAS No. 562-74-3 / 4-Terpinenol / Flavis No. 02.072</td></tr>
+<tr><td>174-175</td><td></td><td></td><td></td></tr>
 <tr><td>176</td><td>2</td><td>b</td><td>CAS No. 576-26-1 / 2,6-Dimethylphenol / Flavis No. 04.042</td></tr>
 <tr><td>177</td><td>2</td><td>b</td><td>CAS No. 578-58-5 / 2,5-Dimethylphenol / Flavis No. 04.0192</td></tr>
 <tr><td>178</td><td>2</td><td>b</td><td>CAS No. 586-62-9 / Terpinolene / Flavis No. 01.005</td></tr>
-<tr><td>179</td><td>2</td><td>b</td><td>CAS No. 5910-87-2 / tr-2, tr-4-Nonadienal / Flavis No. 05.194</td></tr>
+<tr><td>179</td><td></td><td></td><td></td></tr>
 <tr><td>180</td><td>2</td><td>b</td><td>CAS No. 5910-89-4 / 2,3-Dimethylpyrazine / Flavis No. 14.050</td></tr>
 <tr><td>181</td><td>2</td><td>b</td><td>CAS No. 593-08-8 / Tridecan-2-one / Flavis No. 07.103</td></tr>
 <tr><td>182</td><td>2</td><td>b</td><td>CAS No. 5989-54-8 / l-Limonene / Flavis No. 01.046</td></tr>
-<tr><td>183</td><td>2</td><td>b</td><td>CAS No. 60-12-8 / 2-Phenylethan-1-ol / Flavis No. 02.019</td></tr>
+<tr><td>183</td><td></td><td></td><td></td></tr>
 <tr><td>184</td><td>2</td><td>b</td><td>CAS No. 616-25-1 / Pent-1-en-3-ol / Flavis No. 02.099</td></tr>
 <tr><td>185</td><td>2</td><td>b</td><td>CAS No. 620-02-0 / 5-Methylfurfural / Flavis No. 13.001</td></tr>
-<tr><td>187-188</td><td></td><td></td><td></td></tr>
-<tr><td>189</td><td>2</td><td>b</td><td>CAS No. 624-41-9 / 2-Methylbutyl acetate / Flavis No. 09.286</td></tr>
+<tr><td>187-189</td><td></td><td></td><td></td></tr>
 <tr><td>190</td><td>2</td><td>b</td><td>CAS No. 6485-40-1 / L-Carvone / Flavis No. 07.147</td></tr>
-<tr><td>191</td><td>2</td><td>b</td><td>CAS No. 659-70-1 / 3-Methylbutyl 3-methylbutyrate / Flavis No. 09.463</td></tr>
-<tr><td>192</td><td>2</td><td>b</td><td>CAS No. 6728-26-3 / Hex-2(trans)-enal / Flavis No. 05.073</td></tr>
-<tr><td>193</td><td>2</td><td>b</td><td>CAS No. 6750-03-4 / Nona-2,4-dienal / Flavis No. 05.071</td></tr>
-<tr><td>194</td><td></td><td></td><td></td></tr>
+<tr><td>191-194</td><td></td><td></td><td></td></tr>
 <tr><td>195</td><td>2</td><td>b</td><td>CAS No. 706-14-9 / Decano-1,4-lactone / Flavis No. 10.017</td></tr>
 <tr><td>196</td><td>2</td><td>b</td><td>CAS No. 713-95-1 / Dodecano-1,5-lactone / Flavis No. 10.008</td></tr>
-<tr><td>197</td><td>2</td><td>b</td><td>CAS No. 7452-79-1 / Éthyl 2-methylbutyrate / Flavis No. 09.409</td></tr>
-<tr><td>198</td><td></td><td></td><td></td></tr>
+<tr><td>197-198</td><td></td><td></td><td></td></tr>
 <tr><td>199</td><td>2</td><td>b</td><td>CAS No. 76-49-3 / Bornyl acetate / Flavis No. 09.017</td></tr>
-<tr><td>201</td><td>2</td><td>b</td><td>CAS No. 7786-44-9 / Nona-2,6-dien-1-ol / Flavis No. 02.049</td></tr>
+<tr><td>201</td><td></td><td></td><td></td></tr>
 <tr><td>202</td><td>2</td><td>b</td><td>CAS No. 7786-61-0 / 2-Methoxy-4-vinylphenol / Flavis No. 04.009</td></tr>
-<tr><td>203</td><td>2</td><td>b</td><td>CAS No. 78-35-3 / Linalyl isobutyrate / Flavis No. 09.423</td></tr>
-<tr><td>204</td><td>2</td><td>b</td><td>CAS No. 78-36-4 / Linalyl butyrate / Flavis No. 09.050</td></tr>
-<tr><td>205</td><td>2</td><td>b</td><td>CAS No. 78-70-6 / Linalool / Flavis No. 02.013</td></tr>
-<tr><td>206</td><td></td><td></td><td></td></tr>
-<tr><td>207</td><td>2</td><td>b</td><td>CAS No. 79-31-2 / 2-Methylpropionic acid / Flavis No. 08.006</td></tr>
-<tr><td>208</td><td>2</td><td>b</td><td>CAS No. 79-69-6 / 4-(2,5,6,6-Tetramethyl-2-cyclohexenyl)-3-buten-2-one / Flavis No. 07.011</td></tr>
+<tr><td>203-208</td><td></td><td></td><td></td></tr>
 <tr><td>209</td><td>2</td><td>b</td><td>CAS No. 8007-35-0 / Terpineol acetate / Flavis No. 09.830</td></tr>
 <tr><td>210</td><td></td><td></td><td></td></tr>
 <tr><td>211</td><td>2</td><td>b</td><td>CAS No. 81925-81-7 / 5-Methylhept-2-en-4-one / Flavis No. 07.139</td></tr>
@@ -1724,13 +1766,12 @@ Annexe 2[^t-3]
 <tr><td>214</td><td>2</td><td>b</td><td>CAS No. 87-20-7 / Isopentyl salicylate / Flavis No. 09.751</td></tr>
 <tr><td>215</td><td>2</td><td>b</td><td>CAS No. 88-69-7 / 2-Isopropylphenol / Flavis No. 04.044</td></tr>
 <tr><td>216</td><td>2</td><td>b</td><td>CAS No. 89-78-1 / DL-Menthol (racemic) / Flavis No.02.015</td></tr>
-<tr><td>217</td><td>2</td><td>b</td><td>CAS No. 89-79-2 / Isopulegol / Flavis No. 02.067</td></tr>
+<tr><td>217</td><td></td><td></td><td></td></tr>
 <tr><td>218</td><td>2</td><td>b</td><td>CAS No. 89-80-5 / trans-Menthone / Flavis No. 07.176</td></tr>
 <tr><td>219</td><td>2</td><td>b</td><td>CAS No. 89-83-8 / Thymol / Flavis No. 04.006</td></tr>
 <tr><td>220</td><td>2</td><td>b</td><td>CAS No. 90-05-1 / 2-Methoxyphenol / Flavis No. 04.005</td></tr>
 <tr><td>221</td><td>2</td><td>b</td><td>CAS No. 91-10-1 / 2,6-Dimethoxyphenol / Flavis No. 04.036</td></tr>
-<tr><td>222</td><td>2</td><td>b</td><td>CAS No. 93-04-9 / 2-Methoxynaphthalene / Flavis No. 04.074</td></tr>
-<tr><td>223</td><td>2</td><td>b</td><td>CAS No. 93-16-3 / 1,2-Dimethoxy-4-(prop-1-enyl)benzene / Flavis No. 04.013</td></tr>
+<tr><td>222-223</td><td></td><td></td><td></td></tr>
 <tr><td>224</td><td>2</td><td>b</td><td>CAS No. 93-51-6 / 2-Methoxy-4-methylphenol / Flavis No. 04.007</td></tr>
 <tr><td>226</td><td>2</td><td>b</td><td>CAS No. 93-92-5 / 1-Phenethyl acetate / Flavis No. 09.178</td></tr>
 <tr><td>227</td><td>2</td><td>b</td><td>CAS No. 95-16-9 / Benzothiazole / Flavis No. 15.016</td></tr>
@@ -1995,6 +2036,8 @@ Annexe 2[^t-3]
 <tr><td>3a821</td><td>3</td><td>a</td><td>«Mononitrate de thiamine» ou «Vitamine B<sub>1</sub>»</td><td>Mononitrate de thiamine, à l’état solide, obtenu par synthèse chimique. C<sub>12</sub>H<sub>17</sub>N<sub>4</sub>OS · NO<sub>3</sub> Critères de pureté: min. 98 %, sur la base anhydre Numéro CAS: 532-43-4</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>Le mononitrate de thiamine peut être mis sur le marché et utilisé en tant qu’additif sous la forme d’une préparation. Indiquer les conditions de stockage et de stabilité dans le mode d’emploi de l’additif et du prémélange. Le mononitrate de thiamine peut être utilisé dans l’eau destinée à l’abreuvement des animaux. Mesure de sécurité: port d’une protection respiratoire ainsi que de lunettes et de gants de protection pendant la manipulation.</td></tr>
 <tr><td>3a825i</td><td>3</td><td>a</td><td>«Riboflavine» ou «Vitamine B<sub>2</sub>»:</td><td>Riboflavine à l’état solide produite par *Ashbya gossypii* DSM 23096 C<sub>17</sub>H<sub>20</sub>N<sub>4</sub>O<sub>6</sub> Critère de pureté: 80 % de riboflavine minimum Numéro CAS: 83-88-5</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>Le mode d’emploi de l’additif et des prémélanges indique les conditions de stockage et la stabilité au traitement thermique. Les exploitants du secteur de l’alimentation animale établissent, à l’intention des utilisateurs de l’additif et des prémélanges, des procédures opérationnelles et des mesures organisationnelles pour parer aux risques d’inhalation et de contact cutané ou oculaire. Lorsque ces risques ne peuvent pas être éliminés ou réduits au minimum par de telles procédures et mesures, le port d’un équipement de protection individuelle, comprenant une protection respiratoire, des lunettes de sécurité et des gants, est obligatoire lors de l’utilisation de l’additif et des prémélanges.</td></tr>
 <tr><td>3a825ii</td><td>3</td><td>a</td><td>«Riboflavine» ou «Vitamine B<sub>2</sub>»:</td><td>Riboflavine à l’état solide produite par *Bacillus subtilis* DSM 17339 et/ ou DSM 23984 C<sub>17</sub>H<sub>20</sub>N<sub>4</sub>O<sub>6</sub> Critère de pureté: 96 % minimum Numéro CAS: 83-88-5</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>La riboflavine peut être mise sur le marché et utilisée en tant qu’additif sous la forme d’une préparation. Peut être utilisée dans l’eau d’abreuvement. Le mode d’emploi de l’additif et des prémélanges indique les conditions de stockage et la stabilité au traitement thermique. Les exploitants du secteur de l’alimentation animale établissent, à l’intention des utilisateurs de l’additif et des prémélanges, des procédures opérationnelles et des mesures organisationnelles pour parer aux risques d’inhalation et de contact cutané ou oculaire. Lorsque ces risques ne peuvent pas être éliminés ou réduits au minimum par de telles procédures et mesures, le port d’un équipement de protection individuelle, comprenant une protection respiratoire, des lunettes de sécurité et des gants, est obligatoire lors de l’utilisation de l’additif et des prémélanges.</td></tr>
+<tr><td>3a825iii</td><td>3</td><td>a</td><td>«Riboflavine» ou «vitamine B<sub>2</sub>»</td><td>Riboflavine produite par fermentation avec *Bacillus subtilis* KCCM 10445, ayant une teneur maximale en eau de 1,5 % État solide C<sub>17</sub>H<sub>20</sub>N<sub>4</sub>O<sub>6</sub> Numéro CAS: 83-88-5 Pureté: au moins 98 %</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>L’additif peut être utilisé dans l’eau d’abreuvement. Les conditions de stockage, la stabilité au traitement thermique et la stabilité dans l’eau d’abreuvement doivent être indiquées dans le mode d’emploi de l’additif et des prémélanges. Les exploitants du secteur de l’alimentation animale doivent établir, à l’intention des utilisateurs de l’additif et des prémélanges, des procédures opérationnelles et des mesures organisationnelles pour parer aux risques éventuels résultant de leur utilisation. Lorsque ces risques ne peuvent pas être éliminés ou réduits à un minimum par ces procédures et ces mesures, le port d’un équipement de protection individuelle approprié, comprenant une protection de la peau et une protection respiratoire, est obligatoire lors de l’utilisation de l’additif et des prémélanges.</td></tr>
+<tr><td>3a825iv</td><td>3</td><td>a</td><td>«Riboflavine» ou «vitamine B<sub>2</sub>»</td><td>Préparation contenant au moins 80 % de riboflavine et au maximum 3 % d’eau État solide *Caractérisation de la* *substance* *active:* Produite par fermentation avec *Bacillus subtilis* KCCM 10445 C<sub>17</sub>H<sub>20</sub>N<sub>4</sub>O<sub>6</sub> Numéro CAS: 83-88-5 Pureté: au moins 98 %</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>L’additif peut être utilisé dans l’eau d’abreuvement. Les conditions de stockage, la stabilité au traitement thermique et la stabilité dans l’eau d’abreuvement doivent être indiquées dans le mode d’emploi de l’additif et des prémélanges. Les exploitants du secteur de l’alimentation animale doivent établir, à l’intention des utilisateurs de l’additif et des prémélanges, des procédures opérationnelles et des mesures organisationnelles pour parer aux risques éventuels résultant de leur utilisation. Lorsque ces risques ne peuvent pas être éliminés ou réduits à un minimum par ces procédures et ces mesures, le port d’un équipement de protection individuelle approprié, comprenant une protection de la peau, est obligatoire lors de l’utilisation de l’additif et des prémélanges.</td></tr>
 <tr><td>3a826</td><td>3</td><td>a</td><td>«Sel monosodique de riboflavine 5′- phosphate» ou «Vitamine B<sub>2</sub>»</td><td>Sel monosodique de l’ester de riboflavine 5′-phosphate à l’état solide produit après phosphorylation de 98 % de riboflavine produite par *Bacillus subtilis* DSM 17339 et/ou DSM 23984. C<sub>17</sub>H<sub>22</sub>N<sub>4</sub>O<sub>9</sub>PNa Critère de pureté: 65 % minimum Numéro CAS: 130-40-5</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>Peut être utilisé dans l’eau d’abreuvement. Le mode d’emploi de l’additif et des prémélanges indique les conditions de stockage et la stabilité au traitement thermique. Les exploitants du secteur de l’alimentation animale établissent, à l’intention des utilisateurs de l’additif et des prémélanges, des procédures opérationnelles et des mesures organisationnelles pour parer aux risques d’inhalation et de contact cutané ou oculaire. Lorsque ces risques ne peuvent pas être éliminés ou réduits au minimum par de telles procédures et mesures, le port d’un équipement de protection individuelle, comprenant une protection respiratoire, des lunettes de sécurité et des gants, est obligatoire lors de l’utilisation de l’additif et des prémélanges.</td></tr>
 <tr><td>3a831</td><td>3</td><td>a</td><td>«Chlorhydrate de pyridoxine» ou «vitamine B<sub>6</sub>»</td><td>Chlorhydrate de pyridoxine C<sub>8</sub>H<sub>11</sub>NO<sub>3</sub> · HCl Critères de pureté: au moins 98,5 %</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>Le mode d’emploi de l’additif et des prémélanges doit indiquer les conditions de stockage, la stabilité au traitement thermique et la stabilité dans l’eau. Le chlorhydrate de pyridoxine ou «vitamine B<sub>6</sub>» peut être utilisé également dans l’eau d’abreuvement. Les exploitants du secteur de l’alimentation animale établissent, à l’intention des utilisateurs de l’additif et des prémélanges, des procédures opérationnelles et des mesures organisationnelles afin de parer aux risques potentiels résultant de leur utilisation. Lorsque ces risques ne peuvent être éliminés ou réduits à un minimum par ces procédures et mesures, le port d’un équipement de protection individuelle, dont une protection respiratoire, est obligatoire lors de l’utilisation de l’additif et des prémélanges.</td></tr>
 <tr><td>3a835</td><td>3</td><td>a</td><td>«Vitamine B<sub>12</sub>» ou «cyanocobalamine»</td><td>Préparation de cyanocobalamine produite par *Ensifer adhaerens* CNCM I-5541 ayant une teneur ≤ 1 % de cyanocobalamine Sous forme solide *Caractérisation de la substance active:* Cyanocobalamine C<sub>63</sub>H<sub>88</sub>CoN<sub>14</sub>O<sub>14</sub>P Numéro CAS: 68-19-9 Pureté: ≥ 96 %</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>Les conditions de stockage et la stabilité au traitement thermique doivent être indiquées dans le mode d’emploi de l’additif et des prémélanges. Les exploitants du secteur de l’alimentation animale doivent établir, à l’intention des utilisateurs de l’additif et des prémélanges, des procédures opérationnelles et des mesures organisationnelles pour parer aux risques éventuels résultant de son utilisation. Lorsque ces risques ne peuvent pas être éliminés ou réduits au minimum par ces procédures et mesures, le port d’un équipement de protection individuelle, dont une protection de la peau, une protection des yeux et une protection respiratoire, est obligatoire lors de l’utilisation de l’additif et des prémélanges. L’additif doit présenter une teneur en endotoxines et un potentiel de production de poussières qui garantissent une exposition maximale de 1 600 UI d’endotoxines/m<sup>3</sup> d’air</td></tr>
@@ -2003,9 +2046,9 @@ Annexe 2[^t-3]
 <tr><td>3a312</td><td>3</td><td>a</td><td>Phosphate d’ascorbyle de calcium- sodium ou vitamine C</td><td>Phosphate de L-ascorbyle de calcium-sodium, sous forme solide, obtenu par voie de synthèse chimique. C<sub>6</sub>H<sub>6</sub>O<sub>9</sub>P · CaNa Critères de pureté: min. 95 % avec une teneur minimale de 35 % d’acide ascorbique</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>Le phosphate d’ascorbyle de calcium-sodium peut être mis sur le marché et utilisé en tant qu’additif sous la forme d’une préparation. Indiquer les conditions de stockage et de stabilité dans le mode d’emploi de l’additif et des prémélanges. Pour la sécurité de l’utilisateur: port d’une protection respiratoire pendant la manipulation.</td></tr>
 <tr><td>3a841</td><td>3</td><td>a</td><td>D- pantothénate de calcium</td><td>D-pantothénate de calcium sous forme solide, obtenu par voie de synthèse chimique. Ca[C<sub>9</sub>H<sub>16</sub>NO<sub>5</sub>]<sub>2</sub> Critères de pureté: 1. Min. 98 % (sur la base de la matière sèche) 2. Max. 0,5 % d’acide 3-aminopropionique Numéro CAS: 137-08-6</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>Peut aussi être utilisé dans l’eau destinée à l’abreuvement des animaux. Dans le mode d’emploi de l’additif et du prémélange, indiquer les conditions de stockage et de stabilité. Mesures de sécurité: port d’une protection respiratoire, de lunettes de sécurité et de gants pendant la manipulation.</td></tr>
 <tr><td>3a842</td><td>3</td><td>a</td><td>D-panthenol</td><td>D-panthénol sous forme solide, obtenu par voie de synthèse chimique. C<sub>9</sub>H<sub>19</sub>NO<sub>4</sub> Critères de pureté: 1. Min. 98 % sur une base anhydre (eau &lt; 1 %) 2. Max. 0,5 % de 3-aminopropanol Numéro CAS: 81-13-0</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>À utiliser uniquement dans l’eau destinée à l’abreuvement des animaux. Dans le mode d’emploi de l’additif, indiquer les conditions de stockage. Mesures de sécurité: port d’une protection respiratoire, de lunettes de sécurité et de gants pendant la manipulation.</td></tr>
-<tr><td>3a700</td><td>3</td><td>a</td><td>Vitamine E ou Acétate de tout-rac-α-tocophéryle</td><td>Acétate d’alpha-tocophéryle totalement racémique C<sub>31</sub>H<sub>52</sub>O<sub>3</sub> Critères de pureté: acétate d’alpha- tocophéryle totalement racémique &gt; 93 % Numéro CAS: 7695-91-2</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>Les équivalences à utiliser pour les unités de mesure de la teneur en vitamine E, lorsque celle-ci est mentionnée sur l’étiquette, sont les suivantes: – 1 mg d’acétate d’alpha-tocophéryle totalement racémique = 1 UI, – 1 mg de RRR-alpha-tocophérol = 1,49 UI, – 1 mg d’acétate de RRR-alphatocophéryle = 1,36 UI. La vitamine E peut aussi être utilisée dans l’eau destinée à l’abreuvement des animaux. La vitamine E peut être mise sur le marché et utilisée en tant qu’additif sous la forme d’une préparation.</td></tr>
-<tr><td></td><td></td><td></td><td>Vitamine E ou Acétate de RRR-α-tocophéryle</td><td>Acétate de RRR-alphatocophéryle C<sub>31</sub>H<sub>52</sub>O<sub>3</sub> Critères de pureté: acétate de RRR-alpha-tocophéryle &gt; 40 % Numéro CAS: 58-95-7</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td><td>Vitamine E ou RRR-α-tocophérol</td><td>RRR-alpha-tocophérol C<sub>31</sub>H<sub>52</sub>O<sub>3</sub> Critères de pureté: RRR-alpha-tocophérol &gt; 67 % Numéro CAS: 59-02-9</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3a700</td><td>3</td><td>a</td><td>«Vitamine E» ou «acétate de tout-rac-α-tocophéryle»</td><td>Acétate de tout-rac-α-tocophéryle Sous forme liquide C<sub>31</sub>H<sub>52</sub>O<sub>3</sub> Numéro CAS: 7695-91-2 Pureté: &gt; 93 % Obtenu par synthèse chimique</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>Le mode d’emploi de l’additif et des prémélanges doit indiquer les conditions de stockage et la stabilité au traitement thermique. L’additif peut aussi être administré par l’intermédiaire de l’eau d’abreuvement. Les équivalences à utiliser pour les unités de mesure de la teneur en vitamine E, lorsque celle-ci est mentionnée sur l’étiquette, sont les suivantes: –1 mg d’acétate de tout-rac-α-tocophéryle = 1 UI Les exploitants du secteur de l’alimentation animale doivent établir, à l’intention des utilisateurs de l’additif et des prémélanges, des procédures opérationnelles et des mesures organisationnelles pour parer aux risques éventuels résultant de leur utilisation. Lorsque ces risques ne peuvent pas être éliminés ou réduits au minimum par ces procédures et mesures, le port d’un équipement de protection individuelle, dont une protection de la peau, est obligatoire lors de l’utilisation de l’additif et des prémélanges.</td></tr>
+<tr><td>3a700i</td><td>3</td><td>a</td><td>«Vitamine E» ou «acétate de tout-rac-α-tocophéryle»</td><td>Préparation contenant ≥ 50 % d’acétate de tout-rac-α-tocophéryle Sous forme solide *Caractérisation de la* *substance* *active:* Acétate de tout-rac-α-tocophéryle C<sub>31</sub>H<sub>52</sub>O<sub>3</sub> Numéro CAS: 7695-91-2 Pureté: &gt; 93 % Obtenu par synthèse chimique</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>Le mode d’emploi de l’additif et des prémélanges doit indiquer les conditions de stockage et la stabilité au traitement thermique. L’additif peut aussi être administré par l’intermédiaire de l’eau d’abreuvement. Les équivalences à utiliser pour les unités de mesure de la teneur en vitamine E, lorsque celle-ci est mentionnée sur l’étiquette, sont les suivantes: –1 mg d’acétate de tout-rac-α-tocophéryle = 1 UI Les exploitants du secteur de l’alimentation animale doivent établir, à l’intention des utilisateurs de l’additif et des prémélanges, des procédures opérationnelles et des mesures organisationnelles pour parer aux risques éventuels résultant de leur utilisation. Lorsque ces risques ne peuvent pas être éliminés ou réduits au minimum par ces procédures et mesures, le port d’un équipement de protection individuelle, dont une protection de la peau, est obligatoire lors de l’utilisation de l’additif et des prémélanges.</td></tr>
+<tr><td>3a700ii</td><td>3</td><td>a</td><td>«Vitamine E» ou «Acétate de RRR-α-tocophéryle»</td><td>Préparation contenant ≥ 25 % d’acétate de RRR-α-tocophéryle Sous forme solide *Caractérisation de la* *substance* *active:* Acétate de RRR-α-tocophéryle C<sub>31</sub>H<sub>52</sub>O<sub>3</sub> Numéro CAS: 58-95-7 Pureté: &gt; 40 % Synthétisé chimiquement à partir d’huiles végétales</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>Le mode d’emploi de l’additif et des prémélanges doit indiquer les conditions de stockage et la stabilité au traitement thermique. L’additif peut aussi être administré par l’intermédiaire de l’eau d’abreuvement. Les équivalences à utiliser pour les unités de mesure de la teneur en vitamine E, lorsque celle-ci est mentionnée sur l’étiquette, sont les suivantes: –1 mg d’acétate de RRR-α-tocophéryle = 1,36 UI Les exploitants du secteur de l’alimentation animale doivent établir, à l’intention des utilisateurs de l’additif et des prémélanges, des procédures opérationnelles et des mesures organisationnelles pour parer aux risques éventuels résultant de leur utilisation. Lorsque ces risques ne peuvent pas être éliminés ou réduits au minimum par ces procédures et mesures, le port d’un équipement de protection individuelle, dont une protection de la peau, est obligatoire lors de l’utilisation de l’additif et des prémélanges.</td></tr>
 <tr><td>3a710</td><td>3</td><td>a</td><td>Bisulfite sodique de ménadione ou vitamine K<sub>3</sub></td><td>Bisulfite sodique de ménadione C<sub>11</sub>H<sub>9</sub>NaO<sub>5</sub>S · 3H<sub>2</sub>O Chrome ≤ 45 mg/kg Obtenu par synthèse chimique Pureté: min. 96 % du complexe MSB, ce qui correspond à min. 50 % de ménadione. Numéro CAS: 6147-37-1</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>L’additif est incorporé à l’alimentation animale sous la forme de prémélange. Indiquer les conditions de stockage et de stabilité dans le mode d’emploi de l’additif et des prémélanges. L’équivalence suivante est utilisée si la quantité d’additif figure sur l’étiquette: 1 mg de vitamine K<sub>3</sub> = 1 mg de ménadione = 2 mg de bisulfite sodique de ménadione. Des dispositions appropriées sont prises pour éviter les émissions atmosphériques de chrome et prévenir toute exposition par inhalation ou par voie dermique. Des protections oculaires et respiratoires et des gants appropriés sont portés pendant la manipulation</td></tr>
 <tr><td>3a711</td><td>3</td><td>a</td><td>Ménadionebisulfito-nicotinamide ou vitamine K<sub>3</sub></td><td>Ménadionebisulfitonicotinamide C<sub>11</sub>H<sub>9</sub>O<sub>5</sub>S · C<sub>6</sub>H<sub>7</sub>N<sub>2</sub>O Chrome ≤ 142 mg/kg Obtenu par synthèse chimique Pureté: min. 96 % du complexe de ménadionebisulfitonicotinamide, ce qui correspond à min. 43,9 % de ménadione et à min. 31,2 % de nicotinamide Numéro CAS: 73581-79-0</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>L’additif est incorporé à l’alimentation animale sous la forme de prémélange. Indiquer les conditions de stockage et de stabilité dans le mode d’emploi de l’additif et des prémélanges. L’équivalence suivante est utilisée si la quantité d’additif figure sur l’étiquette: 1 mg de vitamine K<sub>3</sub> = 1 mg de ménadione = 2,27 mg de ménadionebisulfitonicotinamide. Des dispositions appropriées sont prises pour éviter les émissions atmosphériques de chrome et prévenir toute exposition par inhalation ou par voie dermique. Des protections oculaires et respiratoires et des gants appropriés sont portés pendant la manipulation</td></tr>
 <tr><td>3a712</td><td>3</td><td>a</td><td>Phytoménadione ou vitamine K<sub>1</sub></td><td>Préparation contenant ≥ 4,2 % de phytoménadione. État solide. 2-Méthyl-3-[( E, 7R, 11 R)-3,7,11,15-tétraméthylhexadéc-2-ényl] naphtalène-1,4-dione C<sub>31</sub>H<sub>46</sub>O<sub>2</sub> Pureté: ≥ 97 % pour la somme des isomères E-phytoménadione, des isomères E-époxyphytoménadione et des isomères Z Z-phytoménadione Critères de pureté: – ≥ 75 % d’ E-phytoménadione, – ≤ 4 % d’ E-époxyphytoménadione. Obtenu par synthèse chimique. Numéro CAS: 84-80-0</td><td>Chevaux</td><td>–</td><td>–</td><td>Les conditions de stockage et la stabilité au traitement thermique doivent être indiquées dans le mode d’emploi de l’additif et des prémélanges. Les exploitants du secteur de l’alimentation animale établissent, à l’intention des utilisateurs de l’additif et des prémélanges, des procédures opérationnelles et des mesures organisationnelles permettant de parer aux risques d’inhalation, d’irritation cutanée ou oculaire et de sensibilisation dermique découlant de l’utilisation. Lorsque ces risques ne peuvent pas être éliminés ou réduits au minimum par ces procédures et mesures, l’additif et les prémélanges doivent être utilisés avec un équipement de protection individuelle approprié comprenant une protection de la peau, une protection des yeux et une protection respiratoire.</td></tr>
@@ -2143,6 +2186,7 @@ Annexe 2[^t-3]
 <tr><td>3c362</td><td>3</td><td>c</td><td>L-arginine</td><td>Poudre ayant une teneur minimale en L‑arginine de 98 % (sur la base de la matière sèche) et une teneur maximale en eau de 0,5 % *Caractérisation de la substance active:* L-arginine [acide (S)-2-amino-5- guanidinopentanoïque] produite par fermentation avec *Corynebacterium glutamicum* KCCM 80099 ou *Corynebacterium glutamicum* KCCM10741P ou *Corynebacterium glutamicum* KCCM 80182 Formule chimique: C<sub>6</sub>H<sub>14</sub>N<sub>4</sub>O<sub>2</sub> N<sup>o</sup> CAS: 74-79-3</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>La L-arginine peut être mise sur le marché et utilisée en tant qu’additif sous la forme d’une préparation. L’additif peut aussi être utilisé dans l’eau destinée à l’abreuvement des animaux. Le mode d’emploi de l’additif et du prémélange doit indiquer les conditions de stockage ainsi que la stabilité au traitement thermique et dans l’eau destinée à l’abreuvement. Mention à faire figurer sur l’étiquette de l’additif et des prémélanges: «Dans le cas de la supplémentation en L-arginine, notamment par l’intermédiaire de l’eau d’abreuvement, il faut tenir compte de tous les acides aminés essentiels et conditionnellement essentiels afin d’éviter les déséquilibres.». Les exploitants du secteur de l’alimentation animale établissent, à l’intention des utilisateurs de l’additif et du prémélange, des procédures opérationnelles et des mesures organisationnelles afin de parer aux risques pour la peau et les yeux. Lorsque ces risques ne peuvent pas être éliminés ou réduits au minimum par ces procédures et ces mesures, le port d’un équipement de protection individuelle est obligatoire lors de l’utilisation de l’additif et du prémélange..</td></tr>
 <tr><td>3c363</td><td>3</td><td>c</td><td>L-arginine</td><td>Poudre ayant une teneur minimale en l-arginine de 98 % (sur la base de la matière sèche) et une teneur maximale en eau de 1,5 % *Caractérisation de la substance active:* L-arginine [acide (S)-2-amino-5-guanidinopentanoïque] produite par fermentation avec *Escherichia coli* NITE BP-02186. Formule chimique: C<sub>6</sub>H<sub>14</sub>N<sub>4</sub>O<sub>2</sub> N<sup>o</sup> CAS: 74-79-3</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>La l-arginine peut être mise sur le marché et utilisée en tant qu’additif sous la forme d’une préparation. L’additif peut aussi être utilisé dans l’eau d’abreuvement. Le mode d’emploi de l’additif et des prémélanges indique les conditions de stockage, la stabilité au traitement thermique et la stabilité dans l’eau d’abreuvement. L’étiquette de l’additif indique la teneur en humidité. Mention à faire figurer sur l’étiquette de l’additif et des prémélanges: «Dans le cas de la supplémentation en l-arginine, notamment par l’intermédiaire de l’eau d’abreuvement, il faut tenir compte de tous les acides aminés essentiels et conditionnellement essentiels afin d’éviter les déséquilibres.».</td></tr>
 <tr><td>3c364</td><td>3</td><td>c</td><td>L-arginine</td><td>Poudre ayant une teneur minimale en L-arginine de 98 % (sur la base de la matière sèche) et une teneur maximale en eau de 15 %. *Caractérisation de la substance active:* L-arginine [acide (S)-2-amino-5-guanidinopentanoïque] produite par fermentation avec *Corynebacterium glutamicum* NITE SD 00285 Formule chimique: C<sub>6</sub>H<sub>14</sub> N<sub>4</sub>O<sub>2</sub> Numéro CAS: 74-79-3</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>La L-arginine peut être mise sur le marché et utilisée en tant qu’additif sous la forme d’une préparation. Le mode d’emploi de l’additif et du prémélange indique les conditions de stockage et la stabilité au traitement thermique. L’étiquette de l’additif indique la teneur en humidité. Les exploitants du secteur de l’alimentation animale établissent, à l’intention des utilisateurs de l’additif et des prémélanges, des procédures opérationnelles et des mesures organisationnelles afin de parer aux risques pour les yeux et la peau et en cas d’inhalation. Lorsque ces risques ne peuvent pas être éliminés ou réduits au minimum par ces procédures et ces mesures, le port d’un équipement de protection individuelle est obligatoire lors de l’utilisation de l’additif et du prémélange.</td></tr>
+<tr><td>3c365</td><td>3</td><td>c</td><td>L-arginine</td><td>L-arginine ayant une teneur ≥ 98,5 % (sur la base de la matière sèche) et ≤ 1 % d’eau État solide *Caractérisation de la substance* *active*: L-arginine [acide (S)-2-amino-5-guanidinopentanoïque] produite par *Corynebacterium* *glutamicum* CGMCC 20516 Formule chimique: C<sub>6</sub>H<sub>14</sub>N<sub>4</sub>O<sub>2</sub> Numéro CAS: 74-79-3</td><td>Toutes les espèces ani-males</td><td>–</td><td>–</td><td>L’additif peut être utilisé dans l’eau d’abreuvement. Les conditions de stockage, la stabilité au traitement thermique et la stabilité dans l’eau d’abreuvement doivent être indiquées dans le mode d’emploi de l’additif et du prémélange. L’étiquette de l’additif et du prémélange doit comporter la mention suivante: «En cas de supplémentation en L-arginine, notamment par l’intermédiaire de l’eau d’abreuvement, il convient de tenir compte de tous les acides aminés essentiels et conditionnellement essentiels afin d’éviter les déséquilibres.». Les exploitants du secteur de l’alimentation animale doivent établir, à l’intention des utilisateurs de l’additif et des prémélanges, des procédures opérationnelles et des mesures organisationnelles appropriées pour parer aux risques éventuels. Lorsque les risques ne peuvent pas être réduits à un niveau acceptable par ces procédures et ces mesures, le port d’un équipement de protection individuelle approprié, comprenant une protection respiratoire, une protection de la peau et une protection des yeux, est obligatoire lors de l’utilisation de l’additif et des prémélanges.</td></tr>
 <tr><td>3c370</td><td>3</td><td>c</td><td>L-valine</td><td>Poudre ayant une teneur minimale en L-valine de 98 % (sur la base de la matière sèche) et une teneur maximale en eau de 1,5 % *Caractérisation de la substance active:* L-valine [acide (2S)-2-amino-3-méthylbutanoïque] produite par fermentation avec *Escherichia coli* NITE SD 00066 ou *Escherichia coli* NITE BP-01755 ou *Corynebacterium glutamicum* (KCCM 80058) ou *Corynebacterium glutamicum* (DSM 25202) ou *Escherichia coli* KCCM 80159 Formule chimique: C<sub>5</sub>H<sub>11</sub>NO<sub>2</sub> N<sup>o</sup> CAS: 72‑18-4</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>La L-valine peut être mise sur le marché et utilisée en tant qu’additif sous la forme d’une préparation. Les conditions de stockage et la stabilité au traitement thermique doivent être indiquées dans le mode d’emploi de l’additif et du prémélange. L’étiquette de l’additif et du prémélange doit comporter la mention suivante: «Dans le cas de la supplémentation en Lvaline, il convient de tenir compte de tous les acides aminés essentiels et conditionnellement essentiels afin d’éviter les déséquilibres.»</td></tr>
 <tr><td>3c371</td><td>3</td><td>c</td><td>L-valine</td><td>Poudre ayant une teneur minimale en L-valine de 98 % (sur la base de la matière sèche) et une teneur maximale en eau de 1,5 % *Caractérisation de la substance active:* L-valine [(2S)-acide 2-amino-3- méthylbutanoïque] produite par *Corynebacterium glutamicum* KCCM 11201P Formule chimique: C<sub>5</sub>H<sub>11</sub>NO<sub>2</sub> N<sup>o</sup> CAS: 72-18-4</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>La L-valine peut être mise sur le marché et utilisée en tant qu’additif sous la forme d’une préparation. L’additif peut être utilisé dans l’eau destinée à l’abreuvement des animaux. Le mode d’emploi de l’additif et des prémélanges indique les conditions de stockage, la stabilité au traitement thermique et la stabilité dans l’eau d’abreuvement. L’étiquette de l’additif et du prémélange comporte la mention suivante: «Dans le cas de la supplémentation en L-valine, notamment par l’intermédiaire de l’eau d’abreuvement, il convient de tenir compte de tous les acides aminés essentiels et conditionnellement essentiels afin d’éviter les déséquilibres».</td></tr>
 <tr><td>3c371i</td><td>3</td><td>c</td><td>L-valine</td><td>Poudre ayant une teneur minimale en L-valine de 98 % (sur la base de la matière sèche) et une teneur maximale en eau de 1,5 % *Caractérisation de la substance* *active**:* L-valine [acide (2S)-2-amino-3-méthylbutanoïque] produite par fermentation avec *Corynebacterium glutamicum* CGMCC 7.358 Formule chimique: C<sub>5</sub>H<sub>11</sub>NO<sub>2</sub> Numéro CAS: 72-18-4</td><td>Toutes les espèces animales</td><td>–</td><td>–</td><td>La L-valine peut être mise sur le marché et utilisée en tant qu’additif sous la forme d’une préparation. L’additif peut être utilisé dans l’eau d’abreuvement. Les conditions de stockage, la stabilité au traitement thermique et la stabilité dans l’eau d’abreuvement doivent être indiquées dans le mode d’emploi de l’additif et du prémélange. L’étiquette de l’additif et du prémélange doit comporter la mention suivante: «Dans le cas de la supplémentation en L-valine, notamment par l’intermédiaire de l’eau d’abreuvement, il convient de tenir compte de tous les acides aminés essentiels et conditionnellement essentiels afin d’éviter les déséquilibres». Les exploitants du secteur de l’alimentation animale établissent, à l’intention des utilisateurs de l’additif et des prémélanges, des procédures opérationnelles et des mesures organisationnelles afin de parer aux risques éventuels en cas d’inhalation ou de contact oculaire ou cutané. Lorsque ces risques ne peuvent pas être éliminés ou réduits à un minimum par ces procédures et mesures, le port d’un équipement de protection individuel approprié, dont une protection respiratoire, des lunettes de sécurité et des gants, est obligatoire lors de l’utilisation de l’additif et des prémélanges.</td></tr>
@@ -2206,7 +2250,7 @@ Les substances suivantes ne peuvent pas être affouragées ni mises en circulati
 - d. le bois et la sciure traités par des produits de protection du bois, ainsi que tous les sous-produits qui en résultent;
 - e. tous les déchets obtenus au cours des différentes étapes de traitement des eaux usées urbaines, domestiques et industrielles, quel que soit le procédé de traitement auquel ils ont pu être soumis ultérieurement et quelle que soit l’origine des eaux usées[^annex41-lvlu1-part1-1];
 - f. les déchets communaux solides, tels que les ordures ménagères;
-- g. ...
+- g. …
 - h. les emballages et les parties d’emballage qui proviennent de l’utilisation de produits de l’industrie agro-alimentaire;
 - i. levures du genre «Candida» cultivées sur n-alkanes.
 
@@ -2216,7 +2260,7 @@ Les substances suivantes ne peuvent pas être affouragées ni mises en circulati
 
 Les produits suivants ne doivent pas être utilisés pour la production d’aliments pour animaux de rente, ni mis dans le commerce comme aliments pour animaux de rente, ni utilisés pour alimenter des animaux de rente:
 
-- a. à k. ...
+- a. à k. …
 - l. chanvre ou ses produits dérivés quels qu’en soient la forme ou le type pour les animaux produisant du lait destiné à la consommation humaine. Les semences de chanvre et leurs produits dérivés peuvent être utilisés pour alimenter les autres animaux de rente.
 
 ### Partie 3
@@ -2229,27 +2273,17 @@ Annexe 4.2[^t-7]
 
 (art. 3)
 
-## Partie 1 Aliments pour animaux d’origine non animale soumis à des contrôles officiels renforcés
+## Partie 1 Aliments pour animaux d’origine non animale provenant de certains pays et temporairement soumis à des contrôles renforcés conformément à l’art. 58 OSALA.
 
-[^t-7]: Mise à jour par le ch. II al. 1 de l’O du DEFR du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5571](https://fedlex.data.admin.ch/eli/oc/2020/964)).
+[^t-7]: Nouvelle teneur selon le ch. II al. 2 de l’O du DEFR du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 745](https://fedlex.data.admin.ch/eli/oc/2023/745)).
 
-<table>
-<tr><td>Aliments pour animaux (utilisation envisagée)</td><td>KN-Code[^annex42-part1-1]</td><td>Pays d’origine</td><td>Risque</td><td>Fréquence des contrôles physiques et des contrôles d’identité (%)</td></tr>
-<tr><td>...</td><td></td><td></td><td></td><td></td></tr>
-</table>
+Ensemble des aliments pour animaux figurant à l’annexe I du règlement d’exécution (UE) 2019/1793[^annex42-part1-1].
 
-[^annex42-part1-1]: Lorsque seuls certains produits relevant d’un code NC donné doivent être examinés et qu’aucune subdivision spécifique n’existe sous ce code dans la nomenclature des marchandises, ce dernier est précédé d’un «ex» (par exemple ex 1006 30: seul le riz basmati destiné à la consommation humaine directe est inclus).
+[^annex42-part1-1]: Règlement d’exécution (UE) 2019/1793 de la Commission du 22 octobre 2019 relatif au renforcement temporaire des contrôles officiels et aux mesures d’urgence régissant l’entrée dans l’Union de certains biens provenant de certains pays tiers, mettant en œuvre les règlements (UE) 2017/625 et (CE) n<sup>o</sup> 178/2002 du Parlement européen et du Conseil et abrogeant les règlements (CE) n<sup>o</sup> 669/2009, (UE) n<sup>o</sup> 884/2014, (UE) 2015/175, (UE) 2017/186 et (UE) 2018/1660 de la Commission, JO L 277 du 29.10.2019, p. 89, modifié en dernier lieu par le règlement d’exécution (UE) 2023/1110, JO L 147 du 7.6.2023, p. 111.
 
-## Partie 2 Document d’accompagnement pour la libération d’une marchandise soumise à contrôle renforcé
+## Partie 2 Aliments pour animaux d’origine non animale provenant de certains pays et soumis à des contrôles renforcés conformément à l’art. 58 OSALA en raison d’un risque de contamination par des mycotoxines, par des résidus de pesticides, par des dioxines, et en raison d’un risque de contamination microbiologique.
 
-<sup>1</sup> Le document d’accompagnement pour la libération d’une marchandise soumise à contrôle renforcé doit être établi selon le modèle donné dans l’annexe II, partie 2, section D du règlement d’exécution (UE) 2019/1715[^annex42-part2-1].
-
-<sup>2</sup> Dans ce règlement, les expressions sont à comprendre comme suit:
-
-- a. «Suisse» à la place de «Union européenne»
-- b. DSCE comme «document suisse pour l’importation»
-
-[^annex42-part2-1]: Règlement d’exécution (UE) 2019/1715 de la Commission du 30 septembre 2019 établissant les règles de fonctionnement du système de gestion de l’information sur les contrôles officiels et de ses composantes, version du JO L 261 du 14.10.2019, p. 37.
+Ensemble des aliments pour animaux figurant à l’annexe II du règlement d’exécution (UE) 2019/1793.
 
 Annexe 5[^t-8]
 
@@ -2459,10 +2493,10 @@ Partie A
 
 <sup>1c</sup> Si on constate que la teneur d’une matière première pour aliments des animaux ou d’un aliment composé pour animaux en un additif pour l’alimentation animale est inférieure à la teneur déclarée, les tolérances applicables sont les suivantes[^annex7-lvlu1-partB-1]:
 
-- a. 10 % de la teneur déclarée si celle-ci est égale ou supérieure à 1000 unités ;
-- b. 100 unités si la teneur déclarée est inférieure à 1000 unités (jusqu’à 500 unités) ;
-- c. 20 % de la teneur déclarée si celle-ci est inférieure à 500 unités (jusqu’à 1 unité) ;
-- d. 0,2 unité si la teneur déclarée est inférieure à 1 unité (jusqu’à 0,5 unité) ;
+- a. 10 % de la teneur déclarée si celle-ci est égale ou supérieure à 1000 unités;
+- b. 100 unités si la teneur déclarée est inférieure à 1000 unités (jusqu’à 500 unités);
+- c. 20 % de la teneur déclarée si celle-ci est inférieure à 500 unités (jusqu’à 1 unité);
+- d. 0,2 unité si la teneur déclarée est inférieure à 1 unité (jusqu’à 0,5 unité);
 - e. 40 % de la teneur déclarée si celle-ci est inférieure à 0,5 unité.
 
 <sup>2</sup> Si la teneur minimale et/ou maximale d’un aliment pour animaux en un additif est établie dans l’acte autorisant l’additif pour l’alimentation animale concerné, les tolérances techniques selon l’al. 1 ne s’appliquent qu’au- dessus de la teneur minimale ou en dessous de la teneur maximale, selon le cas.
@@ -2558,7 +2592,7 @@ Annexe 8.2[^t-13]
 - 2\. Les substances indiquées dans cette rubrique qui sont aussi des additifs sensoriels ou nutritionnels sont déclarées pour leur quantité totale.
 - 3\. Si la valeur énergétique ou la valeur protéique sont indiquées, les dispositions pertinentes de l’annexe 8.6 doivent être respectées.
 
-[^annex82-lvlu1-chapII-1]: En langue allemande, l’expression «analytische Bestandteile» peut être remplacée par «Inhaltsstoffe ».
+[^annex82-lvlu1-chapII-1]: En langue allemande, l’expression «analytische Bestandteile» peut être remplacée par «Inhaltsstoffe».
 
 Annexe 8.3[^t-14]
 
