@@ -4,13 +4,13 @@ number: "168.11"
 title: Loi sur les avocats et les avocates
 short: LA
 language: fr
-version: 2021-12-01
-valid_until: 2023-12-31
-version_adopted: 2021-03-08
+version: 2024-01-01
+valid_until: 2026-04-30
+version_adopted: 2022-06-14
 adopted: 2006-03-28
 in_force: 2007-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/168.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2403/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2880/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2403/pdf_file"
 
 (LA)
 
-du 28.03.2006 (état au 01.12.2021)
+du 28.03.2006 (état au 01.01.2024)
 
 Le Grand Conseil du canton de Berne,
 
@@ -443,7 +443,7 @@ arrête:
 
 **Rémunération**
 
-<sup>1</sup> Le canton verse aux avocats et aux avocates commis d’office une rémunération équitable calculée en fonction du temps requis et n’excédant pas les honoraires fixés selon le tarif applicable au remboursement des dépens (art. 41). La détermination du temps requis tient compte de l’importance et de la complexité du litige. Les débours et la taxe sur la valeur ajoutée sont remboursés en sus.
+<sup>1</sup> Le canton verse aux avocats et aux avocates commis d’office ou appelés à assister à une première audition (art. 159 du Code de procédure pénale suisse du 5 octobre 2007 [Code de procédure pénale, CPP][^42-1]) une rémunération équitable calculée en fonction du temps requis et n’excédant pas les honoraires fixés selon le tarif applicable au remboursement des dépens (art. 41). La détermination du temps requis tient compte de l’importance et de la complexité du litige. Les débours et la taxe sur la valeur ajoutée sont remboursés en sus.
 
 <sup>2</sup> Dans les affaires civiles et les cas d’action de droit administratif pour lesquels la valeur litigieuse est déterminée, de même que s’il y a lieu de sauvegarder des intérêts patrimoniaux importants, la rémunération peut être majorée d’un tiers au plus.
 
@@ -453,9 +453,10 @@ arrête:
 
 <sup>5</sup> La rémunération est fixée dans un jugement ou une décision.
 
-<sup>6</sup> Les communes rémunèrent selon les mêmes principes les avocats et les avocates commis d’office dans les procédures engagées devant leurs propres autorités.[^42-1]
+<sup>6</sup> Les communes rémunèrent selon les mêmes principes les avocats et les avocates commis d’office dans les procédures engagées devant leurs propres autorités.[^42-2]
 
-[^42-1]: Ancien alinéa 2
+[^42-1]: RS [312.0](https://db.clex.ch/link/Bund/312.0/fr)
+[^42-2]: Ancien alinéa 2
 
 #### Art. 42a
 

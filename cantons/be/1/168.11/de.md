@@ -4,13 +4,13 @@ number: "168.11"
 title: Kantonales Anwaltsgesetz
 short: KAG
 language: de
-version: 2021-12-01
-valid_until: 2023-12-31
-version_adopted: 2021-03-08
+version: 2024-01-01
+valid_until: 2026-04-30
+version_adopted: 2022-06-14
 adopted: 2006-03-28
 in_force: 2007-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/168.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2403/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2880/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2403/pdf_file"
 
 (KAG)
 
-vom 28.03.2006 (Stand 01.12.2021)
+vom 28.03.2006 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -437,7 +437,7 @@ beschliesst:
 
 **Entschädigung**
 
-<sup>1</sup> Der Kanton bezahlt den amtlich bestellten Anwältinnen und Anwälten eine angemessene Entschädigung, die sich nach dem gebotenen Zeitaufwand bemisst und höchstens dem Honorar gemäss der Tarifordnung für den Parteikostenersatz (Art. 41) entspricht. Bei der Festsetzung des gebotenen Zeitaufwands sind die Bedeutung der Streitsache und die Schwierigkeit des Prozesses zu berücksichtigen. Auslagen und Mehrwertsteuer werden zusätzlich entschädigt.
+<sup>1</sup> Der Kanton bezahlt den amtlich bestellten Anwältinnen und Anwälten sowie den Anwältinnen und Anwälten, die für die ersten Einvernahmen bestellt worden sind (Art. 159 der Schweizerischen Strafprozessordnung vom 5. Oktober 2007 [Strafprozessordnung, StPO][^42-1]), eine angemessene Entschädigung, die sich nach dem gebotenen Zeitaufwand bemisst und höchstens dem Honorar gemäss der Tarifordnung für den Parteikostenersatz (Art. 41) entspricht. Bei der Festsetzung des gebotenen Zeitaufwands sind die Bedeutung der Streitsache und die Schwierigkeit des Prozesses zu berücksichtigen. Auslagen und Mehrwertsteuer werden zusätzlich entschädigt.
 
 <sup>2</sup> In Zivilrechtssachen und in verwaltungsrechtlichen Klageverfahren mit bestimmtem Streitwert sowie in Fällen, in denen bedeutende vermögensrechtliche Interessen zu wahren sind, kann die Entschädigung um höchstens einen Drittel erhöht werden.
 
@@ -448,6 +448,8 @@ beschliesst:
 <sup>5</sup> Die Entschädigung wird durch Urteil oder Verfügung festgesetzt.
 
 <sup>6</sup> Die Gemeinden entschädigen die amtlich bestellten Anwältinnen und Anwälte in Verfahren vor den Gemeindebehörden nach den gleichen Grundsätzen.
+
+[^42-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
 
 #### Art. 42a
 
