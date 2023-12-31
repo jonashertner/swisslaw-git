@@ -4,11 +4,11 @@ title: Ordonnance du 21 mai 2008 sur la géoinformation (OGéo)
 short: OGéo
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/389"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2008-05-21
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/389/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2008-389-20230901-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/389/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-389-20240101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20230901/fr"
 
 (OGéo)
 
-du 21 mai 2008 (État le 1<sup>er</sup> septembre 2023)
+du 21 mai 2008 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -155,7 +155,7 @@ Un modèle de géodonnées est déterminé, outre le cadre fixé par les lois sp
 
 #### Art. 11
 
-<sup>1</sup> Le service spécialisé compétent de la Confédération peut prescrire un ou plusieurs modèles de représentation dans son domaine de spécialité ; le cas échéant, il les décrit. La description définit notamment le degré de spécification, les signes conventionnels et les légendes.
+<sup>1</sup> Le service spécialisé compétent de la Confédération peut prescrire un ou plusieurs modèles de représentation dans son domaine de spécialité; le cas échéant, il les décrit. La description définit notamment le degré de spécification, les signes conventionnels et les légendes.
 
 <sup>2</sup>
 
@@ -629,14 +629,14 @@ Des émoluments forfaitaires sont perçus pour:
 - b.[^46-2] l’utilisation de prestations et de services particuliers;
 - c. les logiciels;
 - d. les rapports et les études;
-- e. et f.[^46-3] ...
+- e. et f.[^46-3] …
 - g. les modifications d’autorisations ou de licences;
 - h. la procédure d’autorisation a posteriori (art. 27);
 - i. la décision de destruction ou de confiscation (art. 33).
 
 <sup>2</sup> Les frais de préparation et les frais de transport peuvent être perçus en complément de l’émolument forfaitaire.[^46-4]
 
-<sup>3</sup> ...[^46-5]
+<sup>3</sup> …[^46-5]
 
 [^46-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
 [^46-2]: Nouvelle teneur selon le ch. I de l’O du 3 avr. 2020, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
@@ -770,10 +770,10 @@ Annexe 1[^t-1]
 
 ## Catalogue des géodonnées de base relevant du droit fédéral
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du 28 mars 2012 ([RO 2012 1791](https://fedlex.data.admin.ch/eli/oc/2012/254)). Mise à jour par le ch. II de l’O du 27 juin 2012 ([RO 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422), [4169](https://fedlex.data.admin.ch/eli/oc/2012/489)), l’art. 30 ch. 2 de l’O du 23 oct. 2013 sur les systèmes d’information dans le domaine de l’agriculture ([RO 2013 4009](https://fedlex.data.admin.ch/eli/oc/2013/733)), l’annexe ch. II 2 de l’O du 29 oct. 2014 sur la protection des biens culturels en cas de conflit armé, de catastrophe ou de situation d’urgence ([RO 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)), le ch. III de l’O du 28 oct. 2015 ([RO 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)), l’annexe 6 ch. 1 de l’O du 4 déc. 2015 sur les déchets ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), l’annexe ch. II 1 de l’O du 17 août 2016 ([RO 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)), l’annexe 2 ch. II 2 de l’O du 9 juin 2017 sur le Registre fédéral des bâtiments et des logements ([RO 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), le ch. II de l’O du 15 nov. 2017 ([RO 2017 6653](https://fedlex.data.admin.ch/eli/oc/2017/739)), l’annexe 8 ch. 2 de l’O du 31 oct. 2018 sur la santé des végétaux ([RO 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)), le ch. I des O du 3 avril 2019 ([RO 2019 1343](https://fedlex.data.admin.ch/eli/oc/2019/262)) et du 16 oct. 2019 ([RO 2019 3231](https://fedlex.data.admin.ch/eli/oc/2019/595)), le ch. III de l’O du 17 oct. 2018 ([RO 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611); [2020 145](https://fedlex.data.admin.ch/eli/oc/2020/25)), le ch. I de l’O du 25 nov. 2020 ([RO 2020 6013](https://fedlex.data.admin.ch/eli/oc/2020/1004)), l’annexe 2 ch. 1 de l’O du 4 juin 2021 concernant les prescriptions de sécurité pour les installations de transport par conduites ([RO 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)), le ch. I de l’O du 22 juin 2022, ([RO 2022 395](https://fedlex.data.admin.ch/eli/oc/2022/395)), le ch. II de l’O du 31 août 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)), l’annexe 9 ch. 1 de l’O du 2 nov. 2022 sur les améliorations structurelles ([RO 2022 754](https://fedlex.data.admin.ch/eli/oc/2022/754)) et ch. II de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 756](https://fedlex.data.admin.ch/eli/oc/2022/756)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 28 mars 2012 ([RO 2012 1791](https://fedlex.data.admin.ch/eli/oc/2012/254)). Mise à jour par le ch. II de l’O du 27 juin 2012 ([RO 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422), [4169](https://fedlex.data.admin.ch/eli/oc/2012/489)), l’art. 30 ch. 2 de l’O du 23 oct. 2013 sur les systèmes d’information dans le domaine de l’agriculture ([RO 2013 4009](https://fedlex.data.admin.ch/eli/oc/2013/733)), l’annexe ch. II 2 de l’O du 29 oct. 2014 sur la protection des biens culturels en cas de conflit armé, de catastrophe ou de situation d’urgence ([RO 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)), le ch. III de l’O du 28 oct. 2015 ([RO 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)), l’annexe 6 ch. 1 de l’O du 4 déc. 2015 sur les déchets ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), l’annexe ch. II 1 de l’O du 17 août 2016 ([RO 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)), l’annexe 2 ch. II 2 de l’O du 9 juin 2017 sur le Registre fédéral des bâtiments et des logements ([RO 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), le ch. II de l’O du 15 nov. 2017 ([RO 2017 6653](https://fedlex.data.admin.ch/eli/oc/2017/739)), l’annexe 8 ch. 2 de l’O du 31 oct. 2018 sur la santé des végétaux ([RO 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)), le ch. I des O du 3 avril 2019 ([RO 2019 1343](https://fedlex.data.admin.ch/eli/oc/2019/262)) et du 16 oct. 2019 ([RO 2019 3231](https://fedlex.data.admin.ch/eli/oc/2019/595)), le ch. III de l’O du 17 oct. 2018 ([RO 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611); [2020 145](https://fedlex.data.admin.ch/eli/oc/2020/25)), le ch. I de l’O du 25 nov. 2020 ([RO 2020 6013](https://fedlex.data.admin.ch/eli/oc/2020/1004)), l’annexe 2 ch. 1 de l’O du 4 juin 2021 concernant les prescriptions de sécurité pour les installations de transport par conduites ([RO 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)), le ch. I de l’O du 22 juin 2022, ([RO 2022 395](https://fedlex.data.admin.ch/eli/oc/2022/395)), le ch. II de l’O du 31 août 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)), l’annexe 9 ch. 1 de l’O du 2 nov. 2022 sur les améliorations structurelles ([RO 2022 754](https://fedlex.data.admin.ch/eli/oc/2022/754)), le ch. II de l’O du 2 nov. 2022 ([RO 2022 756](https://fedlex.data.admin.ch/eli/oc/2022/756)), l’annexe ch. 6 de l’O du 23 août 2023 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)) et le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 761](https://fedlex.data.admin.ch/eli/oc/2023/761)).
 
 <table>
-<tr><th>Désignation</th><th>Base légale</th><th>Service compétent (RS *510.62*, art. 8, al. 1) [Service spécialisé de la Confédération]</th><th>Géodonnées de référence</th><th>Cadastre RDPPF</th><th>Niveau d'autorisation d'accès</th><th>Service de télé-chargement</th><th>Identificateur</th></tr>
+<tr><th>Désignation</th><th>Base légale</th><th>Service compétent (RS *510.62*, art. 8, al. 1) [Service spécialisé de la Confédération]</th><th>Géodonnées de référence</th><th>Cadastre RDPPF</th><th>Niveau d’autorisation d’accès</th><th>Service de télé-chargement</th><th>Identificateur</th></tr>
 <tr><td>Convention pour la protection du patrimoine mondial culturel et naturel (UNESCO sites naturels)</td><td>RS *0.451.41*</td><td>OFEV</td><td></td><td></td><td>A</td><td>X</td><td>1</td></tr>
 <tr><td>Convention relative aux zones humides d’importance internationale, particulièrement comme habitats des oiseaux d’eau (Convention de Ramsar)</td><td>RS *0.451.45*</td><td>OFEV</td><td></td><td></td><td>A</td><td>X</td><td>2</td></tr>
 <tr><td>Convention des Alpes</td><td>RS *0.700.1*</td><td>ARE</td><td></td><td></td><td>A</td><td>X</td><td>3</td></tr>
@@ -818,23 +818,11 @@ Annexe 1[^t-1]
 <tr><td>Atlas hydrologique</td><td>RS *510.62* art. 22 ss. RS *510.626* art. 23</td><td>OFEV</td><td></td><td></td><td>A</td><td></td><td>44</td></tr>
 <tr><td>Cartes géologiques</td><td>RS *510.62* art. 22 ss. RS *510.626* art. 23</td><td>swisstopo</td><td></td><td></td><td>A</td><td>X</td><td>46</td></tr>
 <tr><td>Cartes géophysiques</td><td>RS *510.62* art. 22 ss. RS *510.626* art. 23</td><td>swisstopo</td><td></td><td></td><td>A</td><td></td><td>47</td></tr>
-<tr><td>Cartes géotechniques</td><td>RS *510.62* art. 22 ss. et.27 s. RS *510.626* art. 23 RS *510.624* art. 10</td><td>swisstopo</td><td></td><td></td><td>A</td><td></td><td>48</td></tr>
+<tr><td>Cartes géotechniques</td><td>RS *510.62* art. 22 ss. et 27 s. RS *510.626* art. 23 RS *510.624* art. 10</td><td>swisstopo</td><td></td><td></td><td>A</td><td></td><td>48</td></tr>
 <tr><td>Cartes historiques</td><td>RS *510.62* art. 22 ss. RS *510.626.1* art. 10</td><td>swisstopo</td><td>X</td><td></td><td>A</td><td></td><td>49</td></tr>
 <tr><td>Géologie nationale (données de base)</td><td>RS *510.62* art. 27 ss. RS *510.624* art. 5, let. a</td><td>swisstopo</td><td></td><td></td><td>A</td><td></td><td>50</td></tr>
-<tr><td>Plan du registre foncier (mensuration officielle)</td><td>RS *510.62* art. 29 ss. RS *211.432.2* art. 5</td><td>Cantons [D+M]</td><td>X</td><td></td><td>A</td><td>X</td><td>51</td></tr>
-<tr><td>Plan de base – MO - CH (mensuration officielle)</td><td>RS *510.62* art. 29 ss. RS *211.432.2* art. 5</td><td>Cantons [D+M]</td><td>X</td><td></td><td>A</td><td>X</td><td>52</td></tr>
+<tr><td>Plan du registre foncier (extrait de la mensuration officielle)</td><td>RS *510.62* art. 29 ss RS *211.432.2* art. 7</td><td>Cantons [OFRF et D+M]</td><td>X</td><td></td><td>A</td><td>X</td><td>51</td></tr>
 <tr><td>Points fixes (PFP1, PFA1) (mensuration nationale )</td><td>RS *510.62* art. 22 ss. RS 5*10.626* art. 2</td><td>swisstopo</td><td>X</td><td></td><td>A</td><td>X</td><td>53</td></tr>
-<tr><td>Points fixes (PFP2, PFA2, PFP3, PFA3) (mensuration officielle)</td><td>RS *510.62* art. 29 ss. RS *211.432.2* art. 6</td><td>Cantons [D+M]</td><td>X</td><td></td><td>A</td><td>X</td><td>54</td></tr>
-<tr><td>Couverture du sol (mensuration officielle)</td><td>RS *510.62*, art. 29 ss. RS *211.432.2* art. 6</td><td>Cantons [D+M]</td><td>X</td><td></td><td>A</td><td>X</td><td>55</td></tr>
-<tr><td>Objets divers (mensuration officielle)</td><td>RS *510.62* art. 29 ss. RS *211.432.2* art. 6</td><td>Cantons [D+M]</td><td>X</td><td></td><td>A</td><td>X</td><td>56</td></tr>
-<tr><td>Altimétrie (mensuration officielle)</td><td>RS *510.62* art. 29 ss. RS *211.432.2* art. 6</td><td>Cantons [D+M]</td><td>X</td><td></td><td>A</td><td>X</td><td>57</td></tr>
-<tr><td>Nomenclature (mensuration officielle)</td><td>RS *510.62* art. 29 ss. RS *211.432.2* art. 6</td><td>Cantons [D+M]</td><td>X</td><td></td><td>A</td><td>X</td><td>58</td></tr>
-<tr><td>Biens-fonds (mensuration officielle)</td><td>RS *510.62* art. 29 ss. RS *211.432.2* art. 6</td><td>Cantons [D+M]</td><td>X</td><td></td><td>A</td><td>X</td><td>59</td></tr>
-<tr><td>Adresses de bâtiments (mensuration officielle)</td><td>RS *510.62* art. 29 ss. RS *211.432.2* art. 6</td><td>Cantons [D+M]</td><td>X</td><td></td><td>A</td><td>X</td><td>60</td></tr>
-<tr><td>Territoires en mouvement permanent (mensuration officielle)</td><td>RS *510.62* art. 29 ss. RS *211.432.2* art. 6</td><td>Cantons [D+M]</td><td>X</td><td></td><td>A</td><td>X</td><td>61</td></tr>
-<tr><td>Limites territoriales (mensuration officielle)</td><td>RS *510.62* art. 29 ss. RS *211.432.2* art. 6</td><td>Cantons [D+M]</td><td>X</td><td></td><td>A</td><td>X</td><td>62</td></tr>
-<tr><td>Divisions administratives (mensuration officielle)</td><td>RS *510.62* art. 29 ss. RS *211.432.2* art. 6</td><td>Cantons [D+M]</td><td>X</td><td></td><td>A</td><td>X</td><td>63</td></tr>
-<tr><td>Conduites (mensuration officielle)</td><td>RS *510.62* art. 29 ss. RS *211.432.2* art. 6 RS *746.1* art. 1</td><td>Cantons [D+M]</td><td>X</td><td></td><td>A</td><td>X</td><td>64</td></tr>
 <tr><td>Inventaire des biens culturels d’importance nationale</td><td>RS *520.31* art. 2</td><td>OFPP</td><td></td><td></td><td>A</td><td></td><td>65</td></tr>
 <tr><td>Inventaire de l’approvisionnement en eau potable en temps de crise</td><td>RS *531.32* art. 8 RS *814.20* art. 58</td><td>Cantons [OFEV]</td><td></td><td></td><td>B</td><td></td><td>66</td></tr>
 <tr><td>Réseaux de voies cyclables</td><td>RS *700* art. 3, al. 3, let. c et 6, al. 3 RS *172.217.1* art. 10, al. 3, let. a</td><td>Cantons [OFROU]</td><td></td><td></td><td>A</td><td>X</td><td>67</td></tr>
@@ -980,6 +968,8 @@ Annexe 1[^t-1]
 <tr><td>Emplacement et périmètres de protection des installations de transport par conduites – domaine des installations militaires protégées au sens de la loi fédérale concernant la protection des ouvrages militaires</td><td>RS *510.518* art. 1 RS *746.12* art. 44, 45</td><td>DDPS [OFEN]</td><td></td><td></td><td>C</td><td></td><td>225</td></tr>
 <tr><td>Plan sectoriel des transports, partie Transport souterrain de marchandises</td><td>RS *749.1*, art. 7 RS *700.1*, art. 14 ss.</td><td>OFT [ARE]</td><td></td><td></td><td>A</td><td>X</td><td>226</td></tr>
 <tr><td>Infrastructures agricoles</td><td>RS *913.1**,* art. 59</td><td>Cantons [OFAG]</td><td></td><td></td><td>A</td><td>X</td><td>227</td></tr>
+<tr><td>Mensuration officielle</td><td>RS 211.432.2 art. 6</td><td>Cantons [D+M]</td><td>X</td><td></td><td>A</td><td>X</td><td>228</td></tr>
+<tr><td>Projets de grandes installations photovoltaïques visées à l’art. 71*a* LEne</td><td>RS *730.01* art. 9*h*</td><td>OFEN</td><td></td><td></td><td>A</td><td>X</td><td>229</td></tr>
 </table>
 
 [^annex1-lvlu1-1]: [[RO 1999 689](https://fedlex.data.admin.ch/eli/oc/1999/101), [2009 5981](https://fedlex.data.admin.ch/eli/oc/2009/732), art. 26, let. c].
