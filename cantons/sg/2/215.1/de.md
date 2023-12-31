@@ -4,13 +4,13 @@ number: "215.1"
 title: Mittelschulgesetz
 short: MSG
 language: de
-version: 2020-06-01
-valid_until: 2023-12-31
-version_adopted: 2018-08-14
+version: 2024-01-01
+valid_until: 2024-08-31
+version_adopted: 2023-08-08
 adopted: 1980-06-12
 in_force: 1981-08-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/215.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3216/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3543/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3216/pdf_file"
 
 (MSG)
 
-vom 12.06.1980 (Stand 01.06.2020)
+vom 12.06.1980 (Stand 01.01.2024)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -316,9 +316,11 @@ als Gesetz:[^ingress-3]
 
 **Schulferien**
 
-<sup>1</sup> Die Schulferien betragen gesamthaft 13 Wochen. Sie dürfen ununterbrochen nicht mehr als sechs Wochen dauern.
+<sup>1</sup> Die Schulferien betragen gesamthaft höchstens 13 Wochen. Sie dürfen ununterbrochen nicht mehr als sechs Wochen dauern.
 
 <sup>2</sup> Sie werden vom Bildungsrat festgesetzt.
+
+<sup>3</sup> Die Rektorin oder der Rektor kann während der gesamten Ausbildungsdauer höchstens acht Wochen Schulferien zu zusätzlicher Schulzeit für obligatorische besondere Unterrichtsaktivität erklären.
 
 #### Art. 30
 
@@ -380,7 +382,7 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Die Schule sorgt für eine angemessene Beratung und Betreuung der Schülerinnen und Schüler.
 
-<sup>2</sup> Vorbehalten bleibt die elterliche Sorge für unmündige Schülerinnen und Schüler.
+<sup>2</sup> Vorbehalten bleibt die elterliche Sorge für nicht volljährige Schülerinnen und Schüler.
 
 #### Art. 37
 
@@ -422,8 +424,8 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Der vorzeitige Austritt aus der Mittelschule bedarf der schriftlichen Erklärung:
 
-- a) der Person, der die elterliche Sorge über die unmündige Schülerin oder den unmündigen Schüler zukommt;
-- b) der mündigen Schülerin oder des mündigen Schülers.
+- a) der Person, der die elterliche Sorge über die nicht volljährige Schülerin oder den nicht volljährigen Schüler zukommt;
+- b) der volljährigen Schülerin oder des volljährigen Schülers.
 
 <sup>2</sup> Bei vorzeitigem Austritt besteht Anspruch auf eine Bestätigung über den Schulbesuch.
 
@@ -599,37 +601,37 @@ als Gesetz:[^ingress-3]
 
 <sup>2</sup> Die Fachgruppen behandeln besondere Fragen ihres Fachs zuhanden der Rektorenkonferenz oder der Schulleitung. Sie organisieren sich selbst.
 
-## V. Eltern unmündiger Schülerinnen und Schüler
+## V. Eltern nicht volljähriger Schülerinnen und Schüler
 
 #### Art. 64
 
-**Zusammenarbeit Schule und Eltern unmündiger Schülerinnen und Schüler**
+**Zusammenarbeit Schule und Eltern nicht volljähriger Schülerinnen und Schüler**
 
-<sup>1</sup> Schule und Eltern unmündiger Schülerinnen und Schüler arbeiten in Erziehung und Ausbildung zusammen.
+<sup>1</sup> Schule und Eltern nicht volljähriger Schülerinnen und Schüler arbeiten in Erziehung und Ausbildung zusammen.
 
-<sup>2</sup> Die Schule informiert in geeigneter Weise über wichtige Schulangelegenheiten, über besondere Schulanlässe und über Fragen, die für die Eltern unmündiger Schülerinnen und Schüler von Interesse sind.
+<sup>2</sup> Die Schule informiert in geeigneter Weise über wichtige Schulangelegenheiten, über besondere Schulanlässe und über Fragen, die für die Eltern nicht volljähriger Schülerinnen und Schüler von Interesse sind.
 
 #### Art. 65
 
 **Auskunft über Leistung und Verhalten**
 
-<sup>1</sup> Schulleitung und Lehrpersonen informieren die Eltern unmündiger Schülerinnen und Schüler und geben ihnen Gelegenheit zur Aussprache, wenn Leistung oder Verhalten des Kindes zu Bemerkungen Anlass gibt.
+<sup>1</sup> Schulleitung und Lehrpersonen informieren die Eltern nicht volljähriger Schülerinnen und Schüler und geben ihnen Gelegenheit zur Aussprache, wenn Leistung oder Verhalten des Kindes zu Bemerkungen Anlass gibt.
 
-<sup>2</sup> Die Eltern unmündiger Schülerinnen und Schüler können Auskunft über Leistung und Verhalten des Kindes verlangen und in dessen Arbeiten Einsicht nehmen.
+<sup>2</sup> Die Eltern nicht volljähriger Schülerinnen und Schüler können Auskunft über Leistung und Verhalten des Kindes verlangen und in dessen Arbeiten Einsicht nehmen.
 
 #### Art. 66
 
 **Besuchsrecht**
 
-<sup>1</sup> Die Eltern unmündiger Schülerinnen und Schüler können nach Absprache mit der Schulleitung Unterrichtsstunden des Kindes besuchen.
+<sup>1</sup> Die Eltern nicht volljähriger Schülerinnen und Schüler können nach Absprache mit der Schulleitung Unterrichtsstunden des Kindes besuchen.
 
 #### Art. 66bis
 
 **Mitwirkungspflicht und Ordnungsbusse**
 
-<sup>1</sup> Die Eltern unmündiger Schülerinnen und Schüler stehen den Lehrpersonen und Schulleitungsmitgliedern für Gespräche und weitere Kontakte zur Verfügung. Sie informieren über die Schülerin oder den Schüler und die Familie, soweit es der Bildungsauftrag erfordert.
+<sup>1</sup> Die Eltern nicht volljähriger Schülerinnen und Schüler stehen den Lehrpersonen und Schulleitungsmitgliedern für Gespräche und weitere Kontakte zur Verfügung. Sie informieren über die Schülerin oder den Schüler und die Familie, soweit es der Bildungsauftrag erfordert.
 
-<sup>2</sup> Eltern unmündiger Schülerinnen und Schüler, welche die Schülerin oder den Schüler nicht zum Unterrichtsbesuch anhalten, können auf Antrag der Rektorin oder des Rektors vom zuständigen Departement verwarnt oder gebüsst werden. Die Ordnungsbusse beträgt je versäumter Schulhalbtag wenigstens Fr. 200.–, insgesamt höchstens Fr. 1000.–.
+<sup>2</sup> Eltern nicht volljähriger Schülerinnen und Schüler, welche die Schülerin oder den Schüler nicht zum Unterrichtsbesuch anhalten, können auf Antrag der Rektorin oder des Rektors vom zuständigen Departement verwarnt oder gebüsst werden. Die Ordnungsbusse beträgt je versäumter Schulhalbtag wenigstens Fr. 200.–, insgesamt höchstens Fr. 1000.–.
 
 ## VI. Behörden
 
