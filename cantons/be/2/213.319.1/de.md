@@ -4,13 +4,13 @@ number: "213.319.1"
 title: Verordnung über die Leistungen für Kinder mit besonderem Förder- und Schutzbedarf
 short: KFSV
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-06-30
+version: 2024-01-01
+valid_until: 2025-07-31
+version_adopted: 2023-06-21
 adopted: 2021-06-30
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/213.319.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2349/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2849/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2349/pdf_file"
 
 (KFSV)
 
-vom 30.06.2021 (Stand 01.01.2022)
+vom 30.06.2021 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -219,6 +219,12 @@ beschliesst:
 
 <sup>3</sup> Der Betriebskostenanteil wird an die vertraglich vereinbarte Untergrenze angepasst, wenn mit der Leistungserbringung während drei aufeinanderfolgenden Jahren ein Gewinn von jährlich mehr als zehn Prozent des Umsatzes erzielt wird.
 
+#### Art. 16a
+
+**Anpassung des Betriebskostenanteils**
+
+<sup>1</sup> Der Betriebskostenanteil besteht aus einem Anteil an Personalkosten und einem Anteil an Sachkosten. Die Direktion für Inneres und Justiz kann den Personalkostenanteil jährlich dem für das Kantonspersonal beschlossenen Lohnsummenwachstum und den Sachkostenanteil jährlich dem Landesindex für Konsumentenpreise anpassen.
+
 #### Art. 17
 
 **Infrastrukturanteil**
@@ -286,7 +292,7 @@ beschliesst:
 
 **Anpassung der Tarife**
 
-<sup>1</sup> Die Tarife können jährlich nach Massgabe des für die Entlöhnung des Kantonspersonals beschlossenen Teuerungsausgleichs angepasst werden.
+<sup>1</sup> Die Tarife können durch die Direktion für Inneres und Justiz jährlich dem für das Kantonspersonal beschlossenen Lohnsummenwachstum angepasst werden.
 
 #### Art. 24
 
@@ -332,6 +338,8 @@ beschliesst:
 - a 75 Franken pro Tag bei einer Langzeitunterbringung,
 - b 95 Franken pro Tag bei einer Wochenunterbringung oder bei einer Krisenunterbringung,
 - c 75 Franken pro Tag bei einer regelmässigen Unterbringung an Wochenenden oder in den Ferien, die während einer begrenzten Zeitdauer der Entlastung der Herkunfts- oder Pflegefamilie dient.
+
+<sup>3</sup> Der gemäss Absatz 1 im Pflegevertrag vereinbarte Betrag für die Abgeltung der Betreuung kann durch die Direktion für Inneres und Justiz jährlich dem für das Kantonspersonal beschlossenen Lohnsummenwachstum angepasst werden.
 
 #### Art. 27
 
@@ -478,7 +486,7 @@ beschliesst:
 - d Einkommen aus Vermögen,
 - e Unterhaltsleistungen,
 - f übrige Einkünfte, wie Ersatzeinkommen ALV, Versicherungsleistungen usw.,
-- g ein Anteil von fünf Prozent des Reinvermögens (ohne Geschäftsvermögen).
+- g ein Anteil von fünf Prozent des Nettovermögens (ohne Geschäftsvermögen).
 
 #### Art. 41
 

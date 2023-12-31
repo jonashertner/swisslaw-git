@@ -4,13 +4,13 @@ number: "213.319.1"
 title: "Ordonnance sur les prestations particulières d'encouragement et de protection destinées aux enfants"
 short: OPEP
 language: fr
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-06-30
+version: 2024-01-01
+valid_until: 2025-07-31
+version_adopted: 2023-06-21
 adopted: 2021-06-30
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/213.319.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2349/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2849/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2349/pdf_file"
 
 (OPEP)
 
-du 30.06.2021 (état au 01.01.2022)
+du 30.06.2021 (état au 01.01.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -219,6 +219,12 @@ arrête:
 
 <sup>3</sup> La participation aux frais d’exploitation est ajustée à la limite inférieure dont il a été convenu contractuellement si la fourniture d’une prestation génère un bénéfice supérieur à dix pour cent du chiffre d’affaires annuel durant trois années consécutives.
 
+#### Art. 16a
+
+**Adaptation de la participation aux frais d’exploitation**
+
+<sup>1</sup> La participation aux frais d’exploitation se compose d’une part de frais de personnel et d’autre part de frais matériels. La Direction de l’intérieur et de la justice peut adapter chaque année la part des frais de personnel à la progression des traitements décidée pour le personnel cantonal et la part des frais matériels à l’indice national des prix à la consommation.
+
 #### Art. 17
 
 **Participation aux frais d’infrastructure**
@@ -286,7 +292,7 @@ arrête:
 
 **Adaptation des tarifs**
 
-<sup>1</sup> Les ​tarifs peuvent être ​adaptés chaque année en fonction de la compensation du renchérissement décidée pour la rémunération du personnel cantonal.
+<sup>1</sup> Les tarifs peuvent être adaptés chaque année par la Direction de l’intérieur et de la justice à la progression des traitements décidée pour le personnel cantonal.
 
 #### Art. 24
 
@@ -332,6 +338,8 @@ arrête:
 - a 75 francs par jour dans le cas d’un placement de longue durée,
 - b 95 francs par jour dans le cas d’un placement durant la semaine ou lors d’une intervention de crise,
 - c 75 francs par jour dans le cas d’un placement régulier en fin de semaine ou durant les vacances, qui sert à décharger la famille d’origine ou les parents nourriciers pendant une période de durée limitée.
+
+<sup>3</sup> Le montant dont il a été convenu dans le contrat de placement selon l'alinéa 1 pour la rétribution de la prise en charge peut être adapté chaque année par la Direction de l’intérieur et de la justice à la progression des traitements décidée pour le personnel cantonal.
 
 #### Art. 27
 
