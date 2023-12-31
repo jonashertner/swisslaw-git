@@ -4,13 +4,12 @@ number: "191.0.11"
 title: Statut des corporations ecclésiastiques catholiques du canton de Fribourg
 short: Statut ecclésiastique catholique
 language: fr
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-01-31
+version: 2024-01-01
+version_adopted: 2023-06-17
 adopted: 1996-12-14
 in_force: 1998-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/191.0.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7112/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8003/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Statut ecclésiastique catholique
 
 (Statut ecclésiastique catholique)
 
-du 14.12.1996 (version entrée en vigueur le 01.01.2022)
+du 14.12.1996 (version entrée en vigueur le 01.01.2024)
 
 Les Catholiques[^ingress-1] du canton de Fribourg, communauté de fidèles rassemblés en Jésus-Christ, en communion avec l'Evêque diocésain et le Successeur de Pierre,
 
@@ -491,29 +490,23 @@ Se donnent le présent Statut ecclésiastique:
 
 **Charge de la rémunération**
 
-<sup>1</sup> Les agents pastoraux qui œuvrent à titre professionnel au sein d'une paroisse ou d'un groupe de paroisses sont rémunérés par la Caisse de rémunération pour le compte de l'Autorité diocésaine (art. 40ss).
+<sup>1</sup> Les agents pastoraux qui œuvrent à titre professionnel au sein d'une paroisse ou d'un groupe de paroisses sont rémunérés par la Corporation cantonale pour le compte de l'Autorité diocésaine.
 
-<sup>2</sup> Les dépenses relatives à ces agents sont supportées par la paroisse ou le groupe de paroisses concerné, sous réserve des dispositions ci-après relatives à la péréquation financière.
+<sup>2</sup> Les dépenses relatives à ces agents sont supportées par la paroisse ou le groupe de paroisses concerné.
 
 <sup>3</sup> Lorsqu'elles incombent à plusieurs paroisses et que celles-ci ne s'entendent pas sur une répartition, les dépenses sont réparties proportionnellement au nombre de paroissiens de chaque paroisse.
 
 #### Art. 40
 
-**Caisse de rémunération des ministères paroissiaux – Tâches ordinaires**
+**Encaissement et gestion**
 
-<sup>1</sup> Il est institué une Caisse de rémunération des ministères paroissiaux (CMP), qui a pour tâche d'encaisser auprès des paroisses, pour le compte de l'Autorité diocésaine, les montants des rémunérations versées aux agents pastoraux.
+<sup>1</sup> La Corporation cantonale encaisse auprès des paroisses les montants des rémunérations versées aux agents pastoraux.
 
-<sup>2</sup> L'affiliation à la CMP est obligatoire pour toutes les paroisses du canton.
+<sup>2</sup> Le calcul et la gestion des encaissements sont fixés par un règlement.
 
 #### Art. 41
 
-**Caisse de rémunération des ministères paroissiaux – Gestion**
-
-<sup>1</sup> La CMP est gérée par la Corporation cantonale.
-
-<sup>2</sup> Toutefois, l'assemblée de la CMP est formée des seuls représentants des paroisses à l'Assemblée de la Corporation cantonale (art. 54 let. a).
-
-<sup>3</sup> Pour le reste, un règlement, adopté par l'assemblée de la CMP, précise son organisation et son administration.
+**…**
 
 ### 3.6 Péréquation financière
 
@@ -845,7 +838,7 @@ Se donnent le présent Statut ecclésiastique:
 
 **Frein aux dépenses**
 
-<sup>1</sup> L'ensemble des contributions demandées aux paroisses pour une année ne peut excéder 12,5% du total des impôts déterminé selon l'article 42 al. 2 let. a.
+<sup>1</sup> L'ensemble des contributions demandées aux paroisses pour une année ne peut excéder 15% du total des impôts déterminé selon l'article 42 al. 2 let. a.
 
 <sup>2</sup> En cas de modification des tâches financées par la Corporation cantonale, l'Assemblée est compétente pour revoir ce taux par une décision préalable à l'examen du budget.
 
@@ -890,7 +883,7 @@ Se donnent le présent Statut ecclésiastique:
 
 <sup>3</sup> Les paroisses sont consultées lors de l'élaboration de la convention.
 
-<sup>4</sup> La convention doit recueillir la double approbation de l'Assemblée de la Corporation cantonale dans sa composition ordinaire (art. 54) et de l'assemblée de la Caisse de rémunération des ministères paroissiaux (art. 41).
+<sup>4</sup> La convention doit recueillir l'approbation de l'assemblée de la Corporation cantonale.
 
 <sup>5</sup> Elle prévoit une procédure d'arbitrage pour le règlement de différends relatifs à son interprétation et à son application.
 
@@ -1212,5 +1205,9 @@ Se donnent le présent Statut ecclésiastique:
 Ce statut a été approuvé par le Conseil d'Etat le 08.04.1997 et par l'Autorité diocésaine le 11.03.1997.
 
 La modification du 16.06.2012 a été approuvée par le Conseil d'Etat le 16.04.2013 et par l'Autorité diocésaine le 11.04.2013.
+
+La modification du 31.08.2017 a été approuvée par le Conseil d'Etat le 09.10.2017 et par l'Autorité diocésaine le 12.09.2017.
+
+La modification du 17.06.2023 a été approuvée par le Conseil d'Etat le 16.01.2024 et par l'Autorité diocésaine le 27.03.2024.
 
 BL/AGS 1997 f 158 / d 160

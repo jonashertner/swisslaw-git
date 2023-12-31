@@ -4,13 +4,12 @@ number: "191.0.11"
 title: Statut der katholischen kirchlichen Körperschaften des Kantons Freiburg
 short: Katholisches Kirchenstatut
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-01-31
+version: 2024-01-01
+version_adopted: 2023-06-17
 adopted: 1996-12-14
 in_force: 1998-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/191.0.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7112/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8003/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Katholisches Kirchenstatut
 
 (Katholisches Kirchenstatut)
 
-vom 14.12.1996 (Fassung in Kraft getreten am 01.01.2022)
+vom 14.12.1996 (Fassung in Kraft getreten am 01.01.2024)
 
 Die Katholiken[^ingress-1] des Kantons Freiburg, Gemeinschaft der in Jesus Christus versammelten Gläubigen, eins mit dem Diözesanbischof und dem Nachfolger Petri,
 
@@ -493,29 +492,23 @@ geben sich folgendes Kirchenstatut:
 
 **Besoldungskosten**
 
-<sup>1</sup> Seelsorger, die berufsmässig für eine Pfarrei oder für eine Gruppe von Pfarreien tätig sind, werden von der Besoldungskasse an Stelle der Diözesanbehörde entlöhnt (Art. 40 ff.).
+<sup>1</sup> Seelsorger, die berufsmässig für eine Pfarrei oder für eine Gruppe von Pfarreien tätig sind, werden von der kantonalen Körperschaft an Stelle der Diözesanbehörde entlöhnt.
 
-<sup>2</sup> Die Ausgaben für diese Seelsorger werden von der betreffenden Pfarrei oder Gruppe von Pfarreien getragen, unter Vorbehalt der nachstehenden Bestimmungen über den Finanzausgleich.
+<sup>2</sup> Die Ausgaben für diese Seelsorger werden von der betreffenden Pfarrei oder Gruppe von Pfarreien getragen.
 
-<sup>3</sup> Haben mehrere Pfarreien für die Kosten aufzukommen und können sie sich über deren Verteilung nicht einigen, so werden die Kosten proportional zur Anzahl Mitglieder jeder Pfarrei aufgeteilt.
+<sup>3</sup> Haben mehrere Pfarreien für die Kosten aufzukommen und können sie sich über deren Verteilung nicht einigen, werden die Kosten proportional zur Anzahl Mitglieder jeder Pfarrei aufgeteilt.
 
 #### Art. 40
 
-**Kasse für die Besoldung der Pfarreiseelsorger – Ordentliche Aufgaben**
+**Einziehung und Verwaltung**
 
-<sup>1</sup> Es wird eine Kasse für die Besoldung der Pfarreiseelsorger (KBP) errichtet, welche die Aufgabe hat, von den Pfarreien, an Stelle der Diözesanbehörde, die Beträge der Gehälter einzuziehen, die den Seelsorgern ausgerichtet werden.
+<sup>1</sup> Die kantonale Körperschaft zieht die Beträge der Gehälter ein, die den Seelsorgern ausgerichtet werden.
 
-<sup>2</sup> Alle Pfarreien des Kantons haben der KBP beizutreten.
+<sup>2</sup> Berechnung und Verwaltung werden durch ein Reglement näher bestimmt.
 
 #### Art. 41
 
-**Kasse für die Besoldung der Pfarreiseelsorger – Verwaltung**
-
-<sup>1</sup> Die KBP wird von der kantonalen Körperschaft verwaltet.
-
-<sup>2</sup> Die Versammlung der KBP wird allein aus den Vertretern der Pfarreien in der Versammlung der kantonalen Körperschaft (Art. 54 Bst. a) gebildet.
-
-<sup>3</sup> Organisation und Verwaltung werden im Übrigen durch ein Reglement, das von der Versammlung der KBP erlassen wird, näher bestimmt.
+**…**
 
 ### 3.6 Finanzausgleich
 
@@ -847,7 +840,7 @@ geben sich folgendes Kirchenstatut:
 
 **Ausgabenbremse**
 
-<sup>1</sup> Die Gesamtheit der von den Pfarreien für ein Jahr verlangten Beiträge darf nicht höher sein als 12,5% der Gesamtheit der Steuern nach Artikel 42 Abs. 2 Bst. a.
+<sup>1</sup> Die Gesamtheit der von den Pfarreien für ein Jahr verlangten Beiträge darf nicht höher sein als 15 Prozent der Gesamtheit der Steuern nach Artikel 42 Abs. 2 Bst. a.
 
 <sup>2</sup> Im Falle einer Änderung der von der kantonalen Körperschaft finanzierten Aufgaben kann die Versammlung diesen Prozentsatz mit einem Beschluss ändern, der vor der Behandlung des Voranschlags gefasst wird.
 
@@ -892,7 +885,7 @@ geben sich folgendes Kirchenstatut:
 
 <sup>3</sup> Die Pfarreien sind bei der Ausarbeitung der Vereinbarung anzuhören.
 
-<sup>4</sup> Die Vereinbarung bedarf der Zustimmung sowohl der Versammlung der kantonalen Körperschaft in ihrer ordentlichen Zusammensetzung (Art. 54) als auch der Versammlung der Kasse für die Besoldung der Pfarreiseelsorger (Art. 41).
+<sup>4</sup> Die Vereinbarung bedarf der Zustimmung der Versammlung der kantonalen Körperschaft.
 
 <sup>5</sup> Sie sieht ein Schiedsverfahren für die Bereinigung von Unstimmigkeiten bei ihrer Interpretation und ihrer Anwendung vor.
 
@@ -1214,5 +1207,9 @@ geben sich folgendes Kirchenstatut:
 Dieses Statut ist vom Staatsrat am 08.04.1997 und von der Diözesanbehörde am 11.03.1997 genehmigt worden.
 
 Die Änderung von 16.06.2012 ist vom Staatsrat am 16.04.2013 und von der Diözesanbehörde am 11.04.2013 genehmigt worden.
+
+Die Änderung von 31.08.2017 ist vom Staatsrat am 09.10.2017 und von der Diözesanbehörde am 12.09.2017 genehmigt worden.
+
+Die Änderung von 17.06.2023 ist vom Staatsrat am 16.01.2024 und von der Diözesanbehörde am 27.03.2024 genehmigt worden.
 
 BL/AGS 1997 f 158 / d 160
