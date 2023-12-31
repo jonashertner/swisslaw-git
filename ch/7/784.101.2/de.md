@@ -4,11 +4,11 @@ title: Verordnung vom 25. November 2015 über Fernmeldeanlagen (FAV)
 short: FAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/24"
 language: de
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2015-11-25
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2016-24-20220101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2016-24-20240101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20220101/de"
 
 (FAV)
 
-vom 25. November 2015 (Stand am 1. Januar 2022)
+vom 25. November 2015 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -142,6 +142,10 @@ Eine Importeurin oder eine Händlerin ist einer Herstellerin gleichzusetzen, wen
 
 <sup>2</sup> In Abweichung von Absatz 1 untersteht die Bereitstellung auf dem Markt von Funkanlagen, die dazu bestimmt sind, von Behörden zur Wahrung der öffentlichen Sicherheit betrieben zu werden, den Artikeln 26 und 27, sofern keine Anlage, welche die anderen Vorschriften dieser Verordnung und denselben Zweck erfüllt, auf dem Markt verfügbar ist.
 
+<sup>3</sup> In Abweichung von Absatz 1 untersteht die Bereitstellung auf dem Markt von Funkanlagen, die durch die Armee oder den Zivilschutz in Frequenzbereichen betrieben werden, die sowohl für militärische als auch zivile Nutzungen vorgesehen sind, Artikel 29*a*, sofern keine Anlage, welche die anderen Vorschriften dieser Verordnung und denselben Zweck erfüllt, auf dem Markt verfügbar ist.[^6-1]
+
+[^6-1]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+
 #### Art. 7
 
 **Grundlegende Anforderungen**
@@ -155,11 +159,14 @@ Die Funkanlagen müssen so hergestellt sein, damit sie Folgendes gewährleisten:
 
 <sup>2</sup> Funkanlagen müssen so hergestellt sein, dass sie das Spektrum der Frequenzen effizient nutzen und zur verbesserten Nutzung beitragen, um Störungen zu verhindern.
 
+<sup>2bis</sup> Mit Kabel aufladbare Funkanlagen, die im Markt verbreitet sind, müssen über einen USB-C-Anschluss aufgeladen werden können. Das BAKOM legt die Anlagekategorien und die Spezifikationen für Ladeleistungen und -protokolle dieser Funkanlagen fest. Es erlässt die dafür notwendigen administrativen Vorschriften unter Berücksichtigung der entsprechenden delegierten Rechtsakte der Europäischen Kommission.[^7-3]
+
 <sup>3</sup>
 
-Das BAKOM bezeichnet, welche zusätzlichen grundlegenden Anforderungen anwendbar sind, sowie die betroffenen Funkanlagen oder Anlagenklassen unter Berücksichtigung der entsprechenden delegierten Rechtsakte der Europäischen Kommission. Die zusätzlichen Anforderungen sind die folgenden:
+Das BAKOM bezeichnet, welche zusätzlichen grundlegenden Anforderungen anwendbar sind, sowie die betroffenen Funkanlagen oder Anlageklassen unter Berücksichtigung der entsprechenden delegierten Rechtsakte der Europäischen Kommission. Die zusätzlichen grundlegenden Anforderungen sind die folgenden:[^7-4]
 
-- a. die Anlagen müssen mit bestimmtem Zubehör, insbesondere mit einheitlichen Ladegeräten, kompatibel sein;
+- a.[^7-5] die Anlagen müssen neben den Ladenetzteilen nach Absatz 2<sup>bis</sup> mit weiterem Zubehör kompatibel sein;
+- a<sup>bis</sup>.[^7-6] ohne Kabel aufladbare Funkanlagen, die im Markt verbreitet sind, müssen mit einem Ladegerät über Induktion oder Magnetresonanz aufgeladen werden können;
 - b. die Anlagen müssen über Netze mit anderen Funkanlagen zusammenwirken;
 - c. die Anlagen können in der Schweiz an Schnittstellen des geeigneten Typs angeschlossen werden;
 - d. die Anlagen dürfen weder schädliche Wirkungen für das Netz oder seinen Betrieb haben noch Netzressourcen missbrauchen, wodurch eine unannehmbare Beeinträchtigung des Dienstes verursacht würde;
@@ -171,6 +178,10 @@ Das BAKOM bezeichnet, welche zusätzlichen grundlegenden Anforderungen anwendbar
 
 [^7-1]: [SR 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)
 [^7-2]: [SR 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
+[^7-3]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^7-4]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^7-5]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^7-6]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
 
 #### Art. 8
 
@@ -228,7 +239,7 @@ Eine Funkanlage kann nur auf dem Markt bereitgestellt werden, wenn sie die Anfor
 
 <sup>1</sup>
 
-Die Herstellerin muss die Konformität der Funkanlagen mit den in Artikel 7 Absatz 1 aufgeführten grundlegenden Anforderungen wahlweise mit einem der folgenden Konformitätsbewertungsverfahren nachweisen:
+Die Herstellerin muss die Konformität der Funkanlagen mit den in Artikel 7 Absätze 1 und 2<sup>bis</sup> aufgeführten grundlegenden Anforderungen mit einem der folgenden Konformitätsbewertungsverfahren nachweisen:[^13-1]
 
 - a. die interne Fertigungskontrolle (Anhang 2);
 - b. die Baumusterprüfung mit anschliessender Prüfung der Konformität mit der Bauart auf der Grundlage einer internen Fertigungskontrolle (Anhang 3);
@@ -237,6 +248,8 @@ Die Herstellerin muss die Konformität der Funkanlagen mit den in Artikel 7 Absa
 <sup>2</sup> Hat die Herstellerin bei der Bewertung der Konformität der Funkanlagen mit den grundlegenden Anforderungen nach Artikel 7 Absätze 2 und 3 die vom BAKOM bezeichneten technischen Normen (Art 31 Abs. 2 Bst. a FMG) angewandt, so wendet er eines der in Absatz 1 Buchstabe a–c (Anhänge 2–4) genannten Verfahren nach Wahl an.
 
 <sup>3</sup> Hat die Herstellerin bei der Bewertung der Konformität der Funkanlagen mit den grundlegenden Anforderungen nach Artikel 7 Absätze 2 und 3 die vom BAKOM bezeichneten technischen Normen (Art. 31 Abs. 2 Bst. a FMG) nicht oder nur zum Teil angewandt oder sind solche bezeichneten technischen Normen nicht vorhanden, so wendet sie im Hinblick auf die grundlegenden Anforderungen eines der in Absatz 1 Buchstabe b (Anhang 3) oder Buchstabe c (Anhang 4) genannten Verfahren nach Wahl an.
+
+[^13-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
 
 #### Art. 14
 
@@ -368,15 +381,20 @@ Jeder Sendeanlage müssen ausserdem folgende Informationen beigefügt werden:
 
 - a. die Frequenzbänder, in denen die Funkanlage betrieben wird;
 - b. die in den Frequenzbändern, in denen die Funkanlage betrieben wird, abgestrahlte maximale Sendeleistung;
-- c. gegebenenfalls die Betriebsbeschränkungen, insbesondere die Pflicht, eine Konzession für den Betrieb zu erlangen.
+- c. gegebenenfalls die Betriebsbeschränkungen, insbesondere die Pflicht, eine Konzession für den Betrieb zu erlangen;
+- d.[^19-1] bei Funkanlagen nach Artikel 7 Absatz 2<sup>bis</sup> die Angaben zur Ladefunktion, zu den kompatiblen Ladenetzteilen sowie zum allenfalls beiliegenden Ladenetzteil.
 
-<sup>3</sup> Die Angabe nach Absatz 2 Buchstabe c ist auch auf der Verpackung anzubringen.
+<sup>3</sup> Die Informationen nach Absatz 2 Buchstaben c und d sind auch auf der Verpackung anzubringen. Die Informationen nach Absatz 2 Buchstabe d sind im Fall von Fernabsatz bei der Preisangabe anzubringen. Ist keine Verpackung vorhanden, so sind die Informationen zur Ladefunktion und zu den kompatiblen Ladenetzteilen an der Funkanlage anzubringen. Ist dies wegen der Grösse oder Art der Funkanlage nicht möglich, so muss die Benutzerin oder der Benutzer die Informationen als gesondertes Begleitdokument ausdrucken können.[^19-2]
 
 <sup>4</sup> Jedes Angebot von Funkanlagen, bei dem kein physisches Muster vorhanden ist, insbesondere im Internet oder in Prospekten, und deren Betrieb Einschränkungen unterliegt, muss deutlich auf diese Einschränkungen hinweisen.
 
-<sup>5</sup> Die Informationen müssen für die Benutzerinnen und Benutzer leicht verständlich und in der Amtssprache des Verkaufsorts abgefasst sein. In zweisprachigen Orten müssen sie in beiden Amtssprachen abgefasst sein.
+<sup>5</sup> Die Informationen müssen für die Benutzerinnen und Benutzer gut sichtbar, leserlich und verständlich sowie in der Amtssprache des Verkaufsorts abgefasst sein. In zweisprachigen Orten müssen sie in beiden Amtssprachen abgefasst sein.[^19-3]
 
 <sup>6</sup> Das BAKOM erlässt die notwendigen administrativen Vorschriften unter Berücksichtigung der internationalen Praxis.
+
+[^19-1]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^19-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^19-3]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
 
 #### Art. 20
 
@@ -438,6 +456,16 @@ Solange sich eine Funkanlage in der Verantwortung der Importeurinnen und der Hä
 
 [^24-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 16. Juli 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
 
+### 5. Abschnitt: Kombiniertes Angebot von Funkanlagen und Ladenetzteilen
+
+[^chap2-sec5-1]
+
+[^chap2-sec5-1]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+
+#### Art 24a
+
+Die Wirtschaftsakteurinnen müssen Funkanlagen nach Artikel 7 Absatz 2<sup>bis</sup>, die sie zusammen mit einem Ladenetzteil anbieten, auch ohne dieses anbieten.
+
 ## 3. Kapitel: Ausnahmen
 
 #### Art. 25
@@ -451,7 +479,7 @@ Von den Bestimmungen in Kapitel 2 ausgenommen sind:
 - c. Funkanlagen, die auf Frequenzen über 3000 GHz erstellt und betrieben werden;
 - d. Funkanlagen für die Teilnahme am Amateurfunk, die nicht auf dem Markt bereitgestellt werden;
 - e. Bausätze (Art. 2 Abs. 5) für die Teilnahme am Amateurfunk, und zwar unabhängig davon, ob sie auf dem Markt bereitgestellt sind oder nicht;
-- f.[^25-2] auf dem Markt bereitgestellte Funkanlagen für die Teilnahme am Amateurfunk, die von einer oder einem nach Artikel 44 Absatz 1 Buchstaben a und b der Verordnung vom 18. November 2020[^25-3] über die Nutzung des Funkfrequenzspektrums (VNF) ermächtigten Funkamateurin oder Funkamateur für den Eigengebrauch geändert wurden;
+- f.[^25-2] auf dem Markt bereitgestellte Funkanlagen für die Teilnahme am Amateurfunk, die von einer nach Artikel 44 Absatz 1 Buchstaben a und b der Verordnung vom 18. November 2020[^25-3] über die Nutzung des Funkfrequenzspektrums (VNF) ermächtigten Funkamateurin oder einem nach der genannten Bestimmung ermächtigten Funkamateur für den Eigengebrauch nach Artikel 47 Absatz 3 und 4 VNF geändert wurden;
 - g.
 
   Funkanlagen, die von Personen mit Wohnsitz oder Sitz im Ausland provisorisch erstellt und nicht länger als drei Monate betrieben werden, wenn:
@@ -459,7 +487,7 @@ Von den Bestimmungen in Kapitel 2 ausgenommen sind:
   - 1\. ihr Erstellen und Betreiben im betreffenden Staat erlaubt ist, und
   - 2\. ihre Leistung und ihre Frequenzen den durch das BAKOM festgelegten technischen Vorschriften entsprechen;
 
-- h.[^25-4] Sprech- und Navigationsfunkanlagen, die ausschliesslich und fest installiert in bemannten Luftfahrzeugen erstellt und betrieben werden und der Koordinierung des Luftverkehrs sowie dem sicheren Führen von Luftfahrzeugen dienen, soweit sie vom Bundesamt für Zivilluftfahrt zu diesem Zweck anerkannt sind; dieses informiert das BAKOM über die anerkannten Anlagen;
+- h.[^25-4] Funkanlagen, die ausschliesslich und fest installiert in bemannten Luftfahrzeugen erstellt und betrieben werden und der Koordinierung des Luftverkehrs sowie dem sicheren Führen von Luftfahrzeugen dienen, soweit sie vom Bundesamt für Zivilluftfahrt zu diesem Zweck anerkannt sind; dieses informiert das BAKOM über die anerkannten Anlagen;
 - h<sup>bis</sup>.[^25-5] in unbemannten Luftfahrzeugen installierte Funkanlagen, deren Konstruktion nach Artikel 56 Absatz 1 der Verordnung (EU) 2018/1139[^25-6] zertifiziert ist und die zum Betrieb ausschliesslich auf den durch das Radioreglement vom 17. November 1995[^25-7] zugeteilten Frequenzen für den geschützten Flugbetrieb bestimmt sind;
 - i. massgefertigte Erprobungsmodule, die von Fachleuten ausschliesslich in Forschungs- und Entwicklungseinrichtungen für solche Zwecke verwendet werden;
 - j. Sendeanlagen zum Messen oder Testen, die von im Fernmeldebereich spezialisierten Personen erstellt und betrieben werden, sei es zum Aufdecken und Diagnostizieren von Problemen anlässlich der Inbetriebnahme, des Erstellens oder des Betreibens von Fernmeldeanlagen oder sei es zum Erstellen ihrer Charakteristika und Überprüfen ihrer Funktionstüchtigkeit;
@@ -470,9 +498,9 @@ Von den Bestimmungen in Kapitel 2 ausgenommen sind:
 <sup>3</sup> Die Funkanlagen nach Absatz 1 Buchstaben b und g dürfen nicht auf dem Markt bereitgestellt werden.
 
 [^25-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
-[^25-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^25-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
 [^25-3]: [SR 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
-[^25-4]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^25-4]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
 [^25-5]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
 [^25-6]: Verordnung (EU) 2018/1139 des Europäischen Parlaments und des Rates vom 4. Juli 2018 zur Festlegung gemeinsamer Vorschriften für die Zivilluftfahrt und zur Errichtung einer Agentur der Europäischen Union für Flugsicherheit sowie zur Änderung der Verordnungen (EG) Nr. 2111/2005, (EG) Nr. 1008/2008, (EU) Nr. 996/2010, (EU) Nr. 376/2014 und der Richtlinien 2014/30/EU und 2014/53/EU des Europäischen Parlaments und des Rates, und zur Aufhebung der Verordnungen (EG) Nr. 552/2004 und (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates und der Verordnung (EWG) Nr. 3922/91 des Rates, Fassung gemäss ABl. L 212 vom 22.8.2018, S. 1.
 [^25-7]: [SR 0.784.403.1](https://fedlex.data.admin.ch/eli/cc/2005/778)
@@ -502,9 +530,16 @@ Von den Bestimmungen in Kapitel 2 ausgenommen sind:
 
 #### Art. 27
 
-**Bewilligung der Bereitstellung auf dem Markt**
+**Bewilligung für Wirtschaftsakteurinnen[^27-1]**
 
-<sup>1</sup> Wer Funkanlagen nach Artikel 26 Absatz 1 auf dem Markt bereitstellen will, muss vorgängig eine Bewilligung des BAKOM einholen. Dieses kann die Bewilligung mit Bedingungen und Auflagen ergänzen. Es erlässt die notwendigen administrativen Vorschriften.
+<sup>1</sup>
+
+Vorgängig eine Bewilligung des BAKOM einholen muss, wer:
+
+- a. Funkanlagen nach Artikel 6 Absatz 2 importieren oder nach Artikel 26 Absatz 1 auf dem Markt bereitstellen will;
+- b. störende Anlagen nach Artikel 32*b* FMG herstellen will.[^27-2]
+
+<sup>1bis</sup> Das BAKOM kann die Bewilligung mit Bedingungen und Auflagen ergänzen. Es erlässt die notwendigen administrativen Vorschriften.[^27-3]
 
 <sup>2</sup> Werden die Bedingungen und Auflagen der Bewilligung nicht eingehalten, so kann das BAKOM die Bewilligung entschädigungslos entziehen.
 
@@ -517,30 +552,40 @@ Die Funkanlagen nach Artikel 26 Absatz 1 dürfen nur angeboten oder auf dem Mark
 - a. Polizei-, Strafverfolgungs- oder Strafvollzugsbehörden;
 - b. den Nachrichtendienst des Bundes;
 - c. die Armee;
-- d. Behörden, die für die Durchführung von Notsuchen sowie Fahndungen nach verurteilten Personen zuständig sind.[^27-1]
+- d. Behörden, die für die Durchführung von Notsuchen sowie Fahndungen nach verurteilten Personen zuständig sind;
+- e.[^27-4] Personen mit einer Bewilligung nach Absatz 1.[^27-5]
 
-[^27-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^27-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^27-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^27-3]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^27-4]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^27-5]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
 
 #### Art. 27a
 
-**Vorführung**[^27a-1]
+**Vorführung, Test und Reparatur**[^27a-1]
 
-<sup>1</sup> Wer eine vom BAKOM nicht zugelassene Funkanlage, die dazu bestimmt ist, zur Wahrung der öffentlichen Sicherheit von Behörden betrieben zu werden, zu Vorführungszwecken erstellen und betreiben will, benötigt eine Bewilligung des BAKOM.
+Wer eine Funkanlage, die dazu bestimmt ist, zur Wahrung der öffentlichen Sicherheit von Behörden betrieben zu werden, zu Vorführungs-, Test- und Reparaturzwecken erstellen und betreiben will, benötigt eine Bewilligung des BAKOM nach Artikel 59*a* VNF[^27a-2].
 
-<sup>2</sup> Das BAKOM erteilt die Bewilligung, wenn die Vorführung den aktuellen oder zukünftigen Regelbetrieb im beanspruchten Frequenzbereich nicht übermässig beeinträchtigt.
-
-<sup>3</sup> Die Vorführung ist ausschliesslich in dem vom BAKOM bestimmten Rahmen zulässig. Dieses legt insbesondere die Dauer und den Ort der Vorführung sowie die für die Sendungen zulässigen Frequenzbänder fest. Sendungen ausserhalb dieser Bänder müssen so tief wie möglich sein.
-
-[^27a-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^27a-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)). Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^27a-2]: [SR 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
 
 #### Art. 28
 
 **Betriebsbeschränkung**[^28-1]
 
-Funkanlagen nach Artikel 26 Absatz 1 dürfen nur von den Behörden nach Artikel 27 Absatz 4 und nach den Bedingungen nach den Artikeln 53–59 VNF[^28-2] betrieben werden.
+Funkanlagen nach Artikel 6 Absatz 2 dürfen nur unter den Bedingungen nach den Artikeln 53–59*a* VNF[^28-2] betrieben werden.
 
-[^28-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^28-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
 [^28-2]: [SR 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
+
+#### Art 28a
+
+**Korrespondenzadresse**[^28a-1]
+
+Gesuchstellerinnen mit Sitz im Ausland müssen eine Korrespondenzadresse in der Schweiz angeben, an welche insbesondere Mitteilungen und Verfügungen rechtsgültig zugestellt werden können.
+
+[^28a-1]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
 
 ### 2. Abschnitt: Messe und Vorführung
 
@@ -556,6 +601,18 @@ Funkanlagen nach Artikel 26 Absatz 1 dürfen nur von den Behörden nach Artikel 
 [^29-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
 [^29-3]: [SR 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)
 [^29-4]: [SR 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
+
+### 3. Abschnitt: Funkanlagen, die durch die Armee oder den Zivilschutz in Frequenzbereichen betrieben werden, die sowohl für militärische als auch zivile Nutzungen vorgesehen sind
+
+[^chap4-sec3-1]
+
+[^chap4-sec3-1]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+
+#### Art 29a
+
+Funkanlagen nach Artikel 6 Absatz 3 dürfen nur unter Einhaltung der vom BAKOM nach Konsultation der zuständigen militärischen Stelle festgelegten technischen Parameter nach Artikel 8 Absatz 2 Buchstabe i VNF[^29a-1] auf dem Markt bereitgestellt, erstellt und betrieben werden.
+
+[^29a-1]: [SR 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
 
 ## 5. Kapitel: Bereitstellung auf dem Markt und Vorführung von neuen leitungsgebundenen Fernmeldeanlagen
 
@@ -691,7 +748,7 @@ Das BAKOM lässt eine Fernmeldeanlage von einer Stelle nach Artikel 17 prüfen, 
 
 **Massnahmen**
 
-<sup>1</sup> Belegt die Kontrolle, dass Bestimmungen dieser Verordnung oder die Vorschriften des BAKOM verletzt sind, so trifft dieses nach Anhörung der für die Bereitstellung auf dem Markt oder das Betreiben verantwortlichen Person die entsprechenden Massnahmen nach Artikel 33 Absatz 3 FMG. Es kann die getroffenen Massnahmen veröffentlichen oder im Abrufverfahren zugänglich machen.
+<sup>1</sup> Belegt die Kontrolle, dass Bestimmungen dieser Verordnung oder die Vorschriften des BAKOM verletzt sind, so kann dieses nach Anhörung der für die Bereitstellung auf dem Markt oder das Betreiben verantwortlichen Person die entsprechenden Massnahmen nach Artikel 33 Absatz 3 FMG treffen. Es kann die getroffenen Massnahmen veröffentlichen oder im Abrufverfahren zugänglich machen.[^39-1]
 
 <sup>2</sup> Liefern die technischen Unterlagen nicht genügend nützliche Informationen oder Hinweise zur Sicherstellung der Konformität der Fernmeldeanlagen mit den grundlegenden Anforderungen in dieser Verordnung und erfüllen somit die Anforderungen nach Artikel 14 nicht, kann das BAKOM die Herstellerin oder die Importeurin auffordern, dass sie innerhalb einer bestimmten Frist die Konformität mit den grundlegenden Anforderungen dieser Verordnung durch eine vom BAKOM akzeptierten Stelle auf eigene Kosten überprüfen lässt.
 
@@ -699,7 +756,7 @@ Das BAKOM lässt eine Fernmeldeanlage von einer Stelle nach Artikel 17 prüfen, 
 
 <sup>4</sup>
 
-Wenn das BAKOM die Bevölkerung in Anwendung von Artikel 33 Absatz 4 FMG informiert, veröffentlicht es insbesondere folgende Informationen oder macht diese im Abrufverfahren zugänglich:[^39-1]
+Wenn das BAKOM die Bevölkerung in Anwendung von Artikel 33 Absatz 4 FMG informiert, veröffentlicht es insbesondere folgende Informationen oder macht diese im Abrufverfahren zugänglich:[^39-2]
 
 - a. die getroffenen Massnahmen;
 - b. den bestimmungsgemässe Gebrauch der Fernmeldeanlage;
@@ -707,7 +764,8 @@ Wenn das BAKOM die Bevölkerung in Anwendung von Artikel 33 Absatz 4 FMG informi
 - d. Fotografien der Fernmeldeanlage und deren Verpackung;
 - e. das Datum der Verfügung betreffend Nichtkonformität.
 
-[^39-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^39-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^39-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
 
 #### Art. 40
 
@@ -733,13 +791,13 @@ Wenn das BAKOM die Bevölkerung in Anwendung von Artikel 33 Absatz 4 FMG informi
 
 Die Verordnung vom 14. Juni 2002[^42-1] über Fernmeldeanlagen wird aufgehoben.
 
-[^42-1]: [[AS 2002 2086](https://fedlex.data.admin.ch/eli/oc/2002/310), [2003 4771](https://fedlex.data.admin.ch/eli/oc/2003/695), [2005 677](https://fedlex.data.admin.ch/eli/oc/2005/72), [2007 995](https://fedlex.data.admin.ch/eli/oc/2007/170)[7085](https://fedlex.data.admin.ch/eli/oc/2007/926)Ziff. II, [2008 1903](https://fedlex.data.admin.ch/eli/oc/2008/279), [2009 5837](https://fedlex.data.admin.ch/eli/oc/2009/707)[6243](https://fedlex.data.admin.ch/eli/oc/2009/763)Anhang 3 Ziff. II 7, [2012 6561](https://fedlex.data.admin.ch/eli/oc/2012/788), [2014 4169](https://fedlex.data.admin.ch/eli/oc/2014/698), [2016 119](https://fedlex.data.admin.ch/eli/oc/2016/18)Art. 30 Abs. 2 Bst. e]
+[^42-1]: [[AS 2002 2086](https://fedlex.data.admin.ch/eli/oc/2002/310); [2003 4771](https://fedlex.data.admin.ch/eli/oc/2003/695); [2005 677](https://fedlex.data.admin.ch/eli/oc/2005/72); [2007 995](https://fedlex.data.admin.ch/eli/oc/2007/170), [7085](https://fedlex.data.admin.ch/eli/oc/2007/926)Ziff. II; [2008 1903](https://fedlex.data.admin.ch/eli/oc/2008/279); [2009 5837](https://fedlex.data.admin.ch/eli/oc/2009/707), [6243](https://fedlex.data.admin.ch/eli/oc/2009/763)Anhang 3 Ziff. II 7; [2012 6561](https://fedlex.data.admin.ch/eli/oc/2012/788); [2014 4169](https://fedlex.data.admin.ch/eli/oc/2014/698); [2016 119](https://fedlex.data.admin.ch/eli/oc/2016/18)Art. 30 Abs. 2 Bst. e]
 
 #### Art. 43
 
 **Änderung weiterer Rechtsakte**
 
-<sup>1</sup> und <sup>2</sup> ...[^43-1]
+<sup>1</sup> und <sup>2</sup> …[^43-1]
 
 [^43-1]: Die Änderungen können unter [AS 2016 179](https://fedlex.data.admin.ch/eli/oc/2016/24)konsultiert werden.
 
@@ -761,11 +819,22 @@ Bis zum 12. Juni 2017 dürfen Funkanlagen, die nicht der vorliegenden Verordnung
   - 1\. konform zu der Verordnung vom 9. April 1997[^44-2] über elektrische Niederspannungserzeugnisse und der Verordnung vom 18. November 2009[^44-3] über die elektromagnetische Verträglichkeit waren, oder
   - 2\. konform zu der Verordnung vom 25. November 2015[^44-4] über elektrische Niederspannungserzeugnisse und der Verordnung vom 25. November 2015[^44-5] über die elektromagnetische Verträglichkeit sind.
 
-[^44-1]: [[AS 2002 2086](https://fedlex.data.admin.ch/eli/oc/2002/310), [2003 4771](https://fedlex.data.admin.ch/eli/oc/2003/695), [2005 677](https://fedlex.data.admin.ch/eli/oc/2005/72), [2007 995](https://fedlex.data.admin.ch/eli/oc/2007/170)[7085](https://fedlex.data.admin.ch/eli/oc/2007/926)Ziff. II, [2008 1903](https://fedlex.data.admin.ch/eli/oc/2008/279), [2009 5837](https://fedlex.data.admin.ch/eli/oc/2009/707)[6243](https://fedlex.data.admin.ch/eli/oc/2009/763)Anhang 3 Ziff. II 7, [2012 6561](https://fedlex.data.admin.ch/eli/oc/2012/788), [2014 4169](https://fedlex.data.admin.ch/eli/oc/2014/698), [2016 119](https://fedlex.data.admin.ch/eli/oc/2016/18)Art. 30 Abs. 2 Bst. e]
-[^44-2]: [[AS 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016), [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)Art. 19 Ziff. 2[762](https://fedlex.data.admin.ch/eli/oc/2000/127)Ziff. I 3, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 23, [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)Anhang 3 Ziff. II 4, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 1[2749](https://fedlex.data.admin.ch/eli/oc/2010/358)Ziff. I 1, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)Anhang Ziff. 2. [AS 2016 105](https://fedlex.data.admin.ch/eli/oc/2016/17)Art. 29]
-[^44-3]: [[AS 2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763), [2014 4159](https://fedlex.data.admin.ch/eli/oc/2014/696). [AS 2016 119](https://fedlex.data.admin.ch/eli/oc/2016/18)Art. 30 Abs. 1]
+[^44-1]: [[AS 2002 2086](https://fedlex.data.admin.ch/eli/oc/2002/310); [2003 4771](https://fedlex.data.admin.ch/eli/oc/2003/695); [2005 677](https://fedlex.data.admin.ch/eli/oc/2005/72); [2007 995](https://fedlex.data.admin.ch/eli/oc/2007/170), [7085](https://fedlex.data.admin.ch/eli/oc/2007/926)Ziff. II; [2008 1903](https://fedlex.data.admin.ch/eli/oc/2008/279); [2009 5837](https://fedlex.data.admin.ch/eli/oc/2009/707), [6243](https://fedlex.data.admin.ch/eli/oc/2009/763)Anhang 3 Ziff. II 7; [2012 6561](https://fedlex.data.admin.ch/eli/oc/2012/788); [2014 4169](https://fedlex.data.admin.ch/eli/oc/2014/698); [2016 119](https://fedlex.data.admin.ch/eli/oc/2016/18)Art. 30 Abs. 2 Bst. e]
+[^44-2]: [[AS 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016); [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)Art. 19 Ziff. 2,[762](https://fedlex.data.admin.ch/eli/oc/2000/127)Ziff. I 3;[2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 23; [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)Anhang 3 Ziff. II 4; [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 1,[2749](https://fedlex.data.admin.ch/eli/oc/2010/358)Ziff. I 1; [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)Anhang Ziff. 2. [AS 2016 105](https://fedlex.data.admin.ch/eli/oc/2016/17)Art. 29]
+[^44-3]: [[AS 2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763); [2014 4159](https://fedlex.data.admin.ch/eli/oc/2014/696). [AS 2016 119](https://fedlex.data.admin.ch/eli/oc/2016/18)Art. 30 Abs. 1]
 [^44-4]: [SR 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)
 [^44-5]: [SR 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
+
+#### Art. 44a
+
+**Übergangsbestimmung zur Änderung vom 23. November 2023**[^44a-1]
+
+Funkanlagen, welche die Anforderungen nach den Artikeln 7 Absatz 2<sup>bis</sup>, 19 Absätze 2 Buchstabe d und 3 sowie 24*a* nicht erfüllen, dürfen auf dem Markt bis zum folgenden Zeitpunkt bereitgestellt werden:
+
+- a. Laptops: bis 26. April 2026;
+- b. übrige Funkanlagen: bis 28. Dezember 2024.
+
+[^44a-1]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
 
 #### Art. 45
 
@@ -787,14 +856,14 @@ Anhang 1[^t-1]
 - 1\.1 Das schweizerische Konformitätskennzeichen setzt sich aus zwei grossen lateinischen Buchstaben «C» und «H» zusammen: «CH». Die Buchstaben müssen in einer Ellipse angebracht werden; die Hauptachse der Ellipse ist horizontal.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20220101/de/xml/image/image1.png)</td><td>Mindestgrössen: Höhe der Ellipse Breite der Ellipse Höhe der Buchstaben Breite der Buchstaben Durchmesser des Strichs</td><td>7,2 mm 11 mm 5 mm 2,5 mm 0,6 mm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240101/de/xml/image/image1.png)</td><td>Mindestgrössen: Höhe der Ellipse Breite der Ellipse Höhe der Buchstaben Breite der Buchstaben Durchmesser des Strichs</td><td>7,2 mm 11 mm 5 mm 2,5 mm 0,6 mm</td></tr>
 </table>
 
 - 1\.2 Bei einer Verkleinerung oder Vergrösserung des Konformitätskennzeichens müssen seine Proportionen beibehalten werden.
 - **2.** **Ausländisches Konformitätskennzeichen**
 - 2\.1 Zugelassen ist das Konformitätskennzeichen, das in Anhang II der Verordnung (EG) Nr. 765/2008[^annex1-lvlu1-1] festgelegt ist. Die Illustration dient Informationszwecken.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20220101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240101/de/xml/image/image2.png)
 
 - 2\.2 Beim Anbringen dieses Konformitätskennzeichens müssen die allgemeinen Grundsätze, die in Artikel 30 der Verordnung (EG) Nr. 765/2008 definiert werden, respektiert werden.
 - **3.** Die Mindestgrössen des Konformitätskennzeichens können aufgrund der geringen Grösse der Funkanlage reduziert werden, sofern es sichtbar und leserlich bleibt.
@@ -968,8 +1037,8 @@ Anhang 5
   - [tab] gegebenenfalls weitere anwendbare Rechtsvorschriften
 
 - 6\. Angabe der einschlägigen technischen Normen, die zugrunde gelegt wurden, oder Angabe der anderen technischen Spezifikationen, bezüglich derer die Konformität erklärt wird. Dabei müssen die jeweilige Identifikationsnummer, die angewandte Fassung und gegebenenfalls das Ausgabedatum angegeben werden:
-- 7\. Gegebenenfalls: Die Konformitätsbewertungsstelle (Name, Identifikationsnummer) hat ... (Beschreibung ihrer Mitwirkung) und folgende Baumusterprüfbescheinigung ausgestellt: ...
-- 8\. Gegebenenfalls: Beschreibung des Zubehörs und der Bestandteile einschliesslich Software, die den bestimmungsgemässen Betrieb der Funkanlage ermöglichen und von der Konformitätserklärung erfasst werden: ...
+- 7\. Gegebenenfalls: Die Konformitätsbewertungsstelle (Name, Identifikationsnummer) hat … (Beschreibung ihrer Mitwirkung) und folgende Baumusterprüfbescheinigung ausgestellt: …
+- 8\. Gegebenenfalls: Beschreibung des Zubehörs und der Bestandteile einschliesslich Software, die den bestimmungsgemässen Betrieb der Funkanlage ermöglichen und von der Konformitätserklärung erfasst werden: …
 - 9\.
 
   Zusatzangaben:
@@ -990,7 +1059,7 @@ Anhang 6
 
 <sup>1</sup> Die vereinfachte Konformitätserklärung für eine Funkanlage, die das schweizerische Konformitätskennzeichen gemäss Anhang 1 Ziffer 1 trägt, hat folgenden Wortlaut:
 
-- – Hiermit erklärt [Name der Herstellerin], dass der Funkanlagentyp [Bezeichnung] der Verordnung vom ... über Fernmeldeanlagen entspricht.
+- – Hiermit erklärt [Name der Herstellerin], dass der Funkanlagentyp [Bezeichnung] der Verordnung vom … über Fernmeldeanlagen entspricht.
 - – Der vollständige Text der Konformitätserklärung ist unter der folgenden Internetadresse verfügbar: [genaue Adresse]
 
 <sup>2</sup> Die vereinfachte Konformitätserklärung für eine Funkanlage, die das ausländische Konformitätskennzeichen gemäss Anhang 1 Ziffer 2 trägt, muss nach der Vorlage gemäss Anhang VII der Richtlinie 2014/53/EU[^annex6-lvlu1-1] ausgestellt werden.

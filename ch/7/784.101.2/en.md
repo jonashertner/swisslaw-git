@@ -4,11 +4,11 @@ title: Ordinance of 25 November 2015 on Telecommunications Installations (FAV)
 short: FAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/24"
 language: en
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2015-11-25
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2016-24-20220101-en-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2016-24-20240101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20240101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20220101/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-(FAV)
+(TIO)
 
-of 25 November 2015 (Status as of 1 January 2022)
+of 25 November 2015 (Status as of 1 January 2024)
 
 The Swiss Federal Council,
 
@@ -72,8 +72,8 @@ In this Ordinance:
 - m. *authorised representative* means any natural person or legal entity established in Switzerland that has received a written mandate from a manufacturer to act on its behalf in relation to specified tasks;
 - n. *importer* means any natural person or legal entity established in Switzerland that places a telecommunications installation from a third country on the Swiss market;
 - o. *distributor* means any natural person or legal entity in the supply chain, other than the manufacturer or the importer, who makes a telecommunications installation available on the market;
-- [tab] o<sup>bis</sup>.[^2-1] *fulfilment-service provider* means any natural person or legal entity that, in the course of a business activity, offers any two of the following services: warehousing, packaging, addressing and shipping of products, without being the owner of such products; not included are postal services under Article 2 letter a of the Postal Services Act of 17 December 2010[^2-2] and any other services involving the movement of goods
-- p.[^2-3] *economic operator:* means any manufacturer, authorised representative, importer, distributor, fulfilment service provider or any other natural person or legal entity that is subject to obligations connected with manufacturing products, making products available on the market or putting products into service;
+- [tab] o<sup>bis</sup>.[^2-1] *fulfilment**-service provider* means any natural person or legal entity that, in the course of a business activity, offers any two of the following services: warehousing, packaging, addressing and shipping of products, without being the owner of such products; not included are postal services under Article 2 letter a of the Postal Services Act of 17 December 2010[^2-2] and any other services involving the movement of goods;
+- p.[^2-3] *economic operator* means any manufacturer, authorised representative, importer, distributor, fulfilment service provider or any other natural person or legal entity that is subject to obligations connected with manufacturing products, making products available on the market or putting products into service;
 - p<sup>bis</sup>.[^2-4] *information society service provider* means any natural person or legal entity that offers an information society service, i.e. any service normally provided for a consideration, at a distance, electronically and at the individual request of a recipient;
 - p. *economic operators* means the manufacturer, the authorised representative, the importer and the distributor;
 - q. *conformity marking* means a marking by which the manufacturer indicates that the telecommunications installation is in conformity with the essential requirements set out in Swiss legislation providing for its affixing.
@@ -145,6 +145,10 @@ An importer or a distributor is equivalent to a manufacturer if it:
 
 <sup>2</sup> In derogation from paragraph 1, making radio equipment that is intended to be operated by authorities to safeguard public security available on the market is governed by Articles 26 and 27, unless other equipment that complies with the other regulations of this Ordinance and fulfils the same purpose is available on the market.
 
+<sup>3</sup> In derogation from paragraph 1, making radio equipment available on the market that is intended to be operated by the Armed Forces or civil defence units in frequency bands that are provided both for military and civilian use is governed by Article 29*a*, unless other equipment that complies with the other provisions of this Ordinance and fulfils the same purpose is available on the market.[^6-1]
+
+[^6-1]: Inserted by No I of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+
 #### Art. 7
 
 **Essential requirements**
@@ -158,11 +162,14 @@ Radio equipment must be constructed so as to ensure:
 
 <sup>2</sup> Radio equipment shall be constructed so that it both effectively uses and supports the efficient use of radio spectrum in order to avoid harmful interference.
 
+<sup>2bis</sup> Radio equipment which can be charged by cable and which is widely available on the market must be capable of being charged using a USB-C connection. OFCOM shall define the categories of equipment and the specifications for the charging power and protocols for this radio equipment. It shall issue the required administrative provisions, taking account of the relevant delegated acts of the European Commission.[^7-3]
+
 <sup>3</sup>
 
-OFCOM shall indicate the additional essential requirements that apply, and the relevant radio equipment or equipment classes taking account of the corresponding delegated legislation of the European Commission. The additional requirements are as follows:
+OFCOM shall indicate the additional essential requirements that apply, and the relevant radio equipment or equipment classes taking account of the corresponding delegated legislation of the European Commission. The additional essential requirements are as follows:[^7-4]
 
-- a. the equipment must interwork with certain accessories, in particular with common chargers;
+- a.[^7-5] the equipment must be compatible with other accessories in addition to charging adapters in accordance with paragraph 2<sup>bis</sup>;
+- a<sup>bis</sup>.[^7-6] radio equipment that can be charged without a cable and which is widely avialable on the market must be capable of being charged with a charger using induction or magnetic resonance;
 - b. the equipment must interwork via networks with other radio equipment;
 - c. the equipment can be connected to interfaces of the appropriate type throughout Switzerland;
 - d. the equipment must not harm the network or its functioning nor misuse network resources, thereby causing an unacceptable degradation of service;
@@ -174,6 +181,10 @@ OFCOM shall indicate the additional essential requirements that apply, and the r
 
 [^7-1]: [SR 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)
 [^7-2]: [SR 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
+[^7-3]: Inserted by No I of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^7-4]: Amended by No I of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^7-5]: Amended by No I of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^7-6]: Inserted by No I of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
 
 #### Art. 8
 
@@ -231,7 +242,7 @@ Radio equipment may only be made available on the market if it meets the require
 
 <sup>1</sup>
 
-Manufacturers must demonstrate the compliance of radio equipment with the essential requirements set out in Article 7 paragraph 1 by using any of the following conformity assessment procedures:
+Manufacturers must demonstrate the compliance of radio equipment with the essential requirements set out in Article 7 paragraphs 1 and 2<sup>bis</sup> by using any of the following conformity assessment procedures:[^13-1]
 
 - a. an internal production control (Annex 2);
 - b. a type examination that is followed by the conformity to type based on internal production control (Annex 3);
@@ -240,6 +251,8 @@ Manufacturers must demonstrate the compliance of radio equipment with the essent
 <sup>2</sup> Where, in assessing the compliance of radio equipment with the essential requirements set out in Article 7 paragraphs 2 and 3, the manufacturer has applied the standards determined by OFCOM, it shall, at its discretion, use one of the procedures set out in paragraph 1 letters a–c (Annexes 2–4).
 
 <sup>3</sup> Where, in assessing the compliance of radio equipment with the essential requirements set out in Article 7 paragraphs 2 and 3, the manufacturer has not applied or has applied only in part the standards determined by OFCOM, or where such standards do not exist, the radio equipment shall be submitted with regard to those essential requirements to any one of the procedures set out in paragraph 1 letter b (Annex 3) or letter c (Annex 4).
+
+[^13-1]: Amended by No I of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
 
 #### Art. 14
 
@@ -371,15 +384,20 @@ The following information shall also be included in the case of radio transmitte
 
 - a. the frequency bands in which the radio equipment operates;
 - b. the maximum radio-frequency power transmitted in the frequency bands in which the radio equipment operates;
-- c. if applicable, the operational restrictions, and in particular any obligation to obtain an operating licence.
+- c. if applicable, the operational restrictions, and in particular any obligation to obtain an operating licence;
+- d.[^19-1] in the case of radio equipment in accordance with Article 7 paragraph 2<sup>bis</sup>, information on charging, the compatible charging adapters and on any charging adapter that may be included with the equipment.
 
-<sup>3</sup> The information referred to in paragraph 2 letter c must also be affixed to the packaging.
+<sup>3</sup> The information referred to in paragraph 2 letters c and d must also be indicated on the packaging. In the case of distance sales, the information referred to in paragraph 2 letter d shall be placed next to the price indication. If there is no packaging, the information on charging and the compatible charging adapters must be indicated on the radio equipment. If this is not possible because of the size or type of radio equipment, the user must be able to print out the information as a separate accompanying document.[^19-2]
 
 <sup>4</sup> Any offer of radio equipment for which no physical specimen is available, in particular offers on the internet or in brochures, must make clear reference to any restrictions on operation that apply to the equipment.
 
-<sup>5</sup> The information must be formulated in the official language of the point of sale in a manner that is easy for users to understand. In bilingual locations it must be formulated in both official languages.
+<sup>5</sup> The information must be clearly visible, easily legible and understandable, and formulated in the official language at the point of sale. In bilingual locations it must be formulated in both official languages.[^19-3]
 
 <sup>6</sup> OFCOM shall issue the required administrative regulations taking international practice into account.
+
+[^19-1]: Inserted by No I of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^19-2]: Amended by No I of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^19-3]: Amended by No I of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
 
 #### Art. 20
 
@@ -441,6 +459,16 @@ Importers and distributors shall ensure that, while radio equipment is under the
 
 [^24-1]: Amended by No I of the O of 18 Nov. 2020, in force since 16 July 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
 
+### Section 5 Combined Offer of Radio Equipment and Charging Adapters
+
+[^chap2-sec5-1]
+
+[^chap2-sec5-1]: Inserted by No I of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+
+#### Art 24a
+
+Where economic operators offer radio equipment in accordance with Article 7 paragraph 2<sup>bis</sup> with a charging adapter, they must also offer the equipment without the adapter.
+
 ## Chapter 3 Exemptions
 
 #### Art. 25
@@ -454,7 +482,7 @@ The following are exempted from the provisions in Chapter 2:
 - c. radio equipment that is installed and operated on frequencies of over 3000 GHz;
 - d. radio equipment for radio amateurs that is not made available on the market;
 - e. kits (Art. 2 para. 5) to be assembled by radio amateurs, regardless of whether they are made available on the market or not;
-- f.[^25-2] radio equipment made available on the market for radio amateurs which has been modified by an authorised radio amateur for his or her own use in accordance with Article 44 paragraph 1 letters a and b of the Ordinance of 18 November 2020[^25-3] on Using the Radio Frequency Spectrum (RFSO);
+- f.[^25-2] radio equipment made available on the market for radio amateurs which has been modified by a radio amateur authorised in accordance with Article 44 paragraph 1 letters a and b of the Ordinance of 18 November 2020[^25-3] on Using the Radio Frequency Spectrum (RFSO) for his or her own use in accordance with Article 47 paragraphs 3 and 4 RFSO;
 - g.
 
   radio equipment installed temporarily and operated by persons with foreign domicile or registered office for a period of no more than three months:
@@ -462,8 +490,8 @@ The following are exempted from the provisions in Chapter 2:
   - 1\. when its installation and operation are authorised by the State in question, and
   - 2\. when its power and frequencies comply with the technical standards fixed by OFCOM;
 
-- h.[^25-4] radio-telephony or radio-navigation equipment which is installed and operated solely and permanently in manned aircraft for the purpose of coordinating air traffic and for the safe navigation of aircraft and which is recognised for that purpose by the Federal Office of Civil Aviation; the latter shall inform OFCOM of the recognised equipment;
-- h<sup>bis</sup>.[^25-5] radio equipment installed in unmanned aircraft , the design of which is certified in accordance with Article 56 paragraph 1 of Regulation (EU) 2018/1139[^25-6] and which is intended to operate only on frequencies allocated by the Radio Regulations of 17 November 1995[^25-7]for protected aeronautical use;
+- h.[^25-4] radio equipment which is installed and operated solely and permanently in manned aircraft for the purpose of coordinating air traffic and for the safe navigation of aircraft and which is recognised for that purpose by the Federal Office of Civil Aviation; the latter shall inform OFCOM of the recognised equipment;
+- h<sup>bis</sup>.[^25-5] radio equipment installed in unmanned aircraft, the design of which is certified in accordance with Article 56 paragraph 1 of Regulation (EU) 2018/1139[^25-6] and which is intended to operate only on frequencies allocated by the Radio Regulations of 17 November 1995[^25-7]for protected aeronautical use;
 - i. custom-built evaluation kits destined for professionals to be used solely at research and development facilities for such purposes;
 - j. transmitters for measurement or testing, either intended to detect and diagnose problems on the putting into service, installation and operation of telecommunications installations or to establish their characteristics and verify their satisfactory operation, and installed and operated by persons specialised in telecommunications;
 - k. radio receivers for measurement or testing, either intended to detect and diagnose problems on the putting into service, installation and operation of telecommunications installations or to establish their characteristics and verify their satisfactory operation.
@@ -473,11 +501,11 @@ The following are exempted from the provisions in Chapter 2:
 <sup>3</sup> The radio equipment referred to in paragraph 1 letters b and g may not be made available on the market.
 
 [^25-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
-[^25-2]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^25-2]: Amended by No I of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
 [^25-3]: [SR 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
-[^25-4]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^25-4]: Amended by No I of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
 [^25-5]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
-[^25-6]: Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and on establishing a European Union Aviation Safety Agency and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealed Regulations (EC) No 552/2004 und (EC) No 216/2008 of the European Parliament and of the Council and Council Regulation (EEC) No 3922/91, amended by OJ. L 212 of 22.8.2018, p. 1.
+[^25-6]: Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and on establishing a European Union Aviation Safety Agency and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealed Regulations (EC) No 552/2004 und (EC) No 216/2008 of the European Parliament and of the Council and Council Regulation (EEC) No 3922/91, amended by OJ. L 212 of 228.2018, p. 1.
 [^25-7]: [SR 0.784.403.1](https://fedlex.data.admin.ch/eli/cc/2005/778)
 [^25-8]: [SR 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)
 [^25-9]: [SR 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
@@ -505,9 +533,15 @@ The following are exempted from the provisions in Chapter 2:
 
 #### Art. 27
 
-**Authorisation for making available on the market**
+**Authorisation for economic operators[^27-1]**
 
-<sup>1</sup> Any person wishing to make radio equipment in accordance with Article 26 paragraph available on the market must first obtain authorisation from OFCOM. OFCOM may make authorisation subject to terms and conditions. It shall issue the required administrative regulations.
+<sup>1</sup> Any person wishing to
+
+- a. import radio equipment in accordance with Article 6 paragraph 2 or make such equipment available on the market in accordance with Article 26 paragraph 1; or
+- b. manufacture devices causing interference in accordance with Article 32*b* FMG,
+- [tab] must first obtain authorisation from OFCOM.[^27-2]
+
+<sup>1bis</sup> OFCOM may make authorisation subject to terms and conditions. It shall issue the required administrative regulations.[^27-3]
 
 <sup>2</sup> In the event of any failure to comply with the terms and conditions of authorisation, OFCOM may revoke the authorisation without compensation.
 
@@ -520,30 +554,40 @@ The radio equipment referred to in Article 26 paragraph 1 may only be offered or
 - a. the police, the prosecution or prison and probation authorities;
 - b. the Federal Intelligence Service;
 - c. the Armed Forces;
-- d. authorities responsible for conducting searches for missing persons and for convicted persons.[^27-1]
+- d. authorities responsible for conducting searches for missing persons and for convicted persons;
+- e.[^27-4] persons with authorisation in accordance with paragraph 1.[^27-5]
 
-[^27-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^27-1]: Amended by No I of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^27-2]: Amended by No I of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^27-3]: Inserted by No I of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^27-4]: Inserted by No I of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^27-5]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
 
 #### Art. 27a
 
-**Demonstration**[^27a-1]
+**Demonstration, testing and repairs**[^27a-1]
 
-<sup>1</sup> Any person wishing to install or operate for demonstration purposes radio equipment not authorised by OFCOM that is intended to be operated by authorities to safeguard public security requires authorisation from OFCOM.
+Any person wishing to install or operate for demonstration, testing and repair purposes radio equipment that is intended to be operated by authorities to safeguard public security requires authorisation from OFCOM in accordance with Article 59*a* RFSO[^27a-2].
 
-<sup>2</sup> OFCOM shall grant authorisation provided the demonstration does not unduly disrupt current or future regular operations in the frequency range used.
-
-<sup>3</sup> The demonstration is only permitted within the framework specified by OFCOM. OFCOM shall in particular specify the duration and location of the demonstration and the frequency bands permitted for the broadcasts. Broadcasts made outside these bands must be as low as possible.
-
-[^27a-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^27a-1]: Inserted by No I of the O of 18 Nov. 2020 (As **2020** 6213). Amended by No I of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^27a-2]: [SR 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
 
 #### Art. 28
 
 **Restriction on operations**[^28-1]
 
-The radio equipment referred to in Article 26 paragraph 1 may only be operated by the authorities referred to in Article 27 paragraph 4 and subject to the conditions set out in Articles 53–59 RFSO[^28-2].
+The radio equipment referred to in Article 6 paragraph 2 may only be operated subject to the conditions set out in Articles 53–59*a* RFSO[^28-2].
 
-[^28-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^28-1]: Amended by No I of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
 [^28-2]: [SR 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
+
+#### Art 28a
+
+**Correspondence address**[^28a-1]
+
+Applicants based abroad must provide a correspondence address in Switzerland, in particular for the due service of official communications and rulings.
+
+[^28a-1]: Inserted by No I of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
 
 ### Section 2 Exhibition and Demonstration
 
@@ -559,6 +603,18 @@ The radio equipment referred to in Article 26 paragraph 1 may only be operated b
 [^29-2]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
 [^29-3]: [SR 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)
 [^29-4]: [SR 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
+
+### Section 3 Radio Equipment operated by the Armed Forces and Civil Defence Units in Frequency Bands provide for both Military and Civilian Use
+
+[^chap4-sec3-1]
+
+[^chap4-sec3-1]: Inserted by No I of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+
+#### Art 29a
+
+Radio equipment in accordance with Article 6 paragraph 3 may only be made available on the market, installed or operated in accordance with the technical parameters specified by OFCOM in accordance with Article 8 paragraph 2 letter i RFSO[^29a-1] following consultation with the responsible military authority.
+
+[^29a-1]: [SR 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
 
 ## Chapter 5 Making available on the Market and Demonstrating New Line‑Connected Telecommunications Installations
 
@@ -694,7 +750,7 @@ OFCOM shall arrange for a body under Article 17 to test a telecommunications ins
 
 **Measures**
 
-<sup>1</sup> If the inspection shows that regulations in this Ordinance or OFCOM’s regulations are being violated, after hearing the person responsible for placing the telecommunications installation on the market or for its operation, OFCOM shall order measures provided for in Article 33 paragraph 3 TCA. It may publish notice of the measures or make such notice accessible online.
+<sup>1</sup> If the inspection shows that regulations in this Ordinance or OFCOM’s regulations are being violated, after hearing the person responsible for placing the telecommunications installation on the market or for its operation, OFCOM may order measures provided for in Article 33 paragraph 3 TCA. It may publish notice of the measures or make such notice accessible online.[^39-1]
 
 <sup>2</sup> If the technical documentation does not present sufficient relevant information or references to ensure compliance of the telecommunications installations with the essential requirements set out in this Ordinance, and if the requirements of Article 14 are therefore not met, OFCOM may request the manufacturer or the importer to have a test performed by a body acceptable to OFCOM at the expense of the manufacturer or the importer within a specified period in order to verify compliance with the essential requirements set out in this Ordinance.
 
@@ -702,7 +758,7 @@ OFCOM shall arrange for a body under Article 17 to test a telecommunications ins
 
 <sup>4</sup>
 
-If OFCOM provides information to the public pursuant to Article 33 paragraph 4 TCA, it shall publish the following information in particular or make it available online:[^39-1]
+If OFCOM provides information to the public pursuant to Article 33 paragraph 4 TCA, it shall publish the following information in particular or make it available online:[^39-2]
 
 - a. the measures taken;
 - b. how to use the telecommunications installation as intended;
@@ -710,7 +766,8 @@ If OFCOM provides information to the public pursuant to Article 33 paragraph 4 T
 - d. photographs of the telecommunications installation and its packaging;
 - e. the date of the ruling on non-conformity.
 
-[^39-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^39-1]: Amended by No I of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^39-2]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
 
 #### Art. 40
 
@@ -770,6 +827,17 @@ Until 12 June 2017, radio equipment that does not comply with this Ordinance may
 [^44-4]: [SR 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)
 [^44-5]: [SR 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
 
+#### Art. 44a
+
+**Transitional provision to the Amendment of 23 November 2023**[^44a-1]
+
+Radio equipment that does not meet the requirements of Articles 7 paragraph 2<sup>bis</sup>, 19 paragraphs 2 letter d and 3 and 24*a* may be made available on the market until the following dates:
+
+- a. laptops: until 26 April 2026;
+- b. other radio equipment: until 28 December 2024.
+
+[^44a-1]: Inserted by No I of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+
 #### Art. 45
 
 **Commencement**
@@ -790,14 +858,14 @@ Annex 1[^t-1]
 - 1\.1 The Swiss conformity marking comprises the two Latin capital letters «C» and «H» together as «CH». The letters must be appear within an elliptical shape; the main axis of the ellipse is horizontal.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20220101/en/xml/image/image1.png)</td><td>Minimum dimensions: Height of the ellipse Width of the ellipse Height of the letters Width of the letters Diameter of the line</td><td>7.2 mm 11 mm 5 mm 2.5 mm 0.6 mm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240101/en/xml/image/image1.png)</td><td>Minimum dimensions: Height of the ellipse Width of the ellipse Height of the letters Width of the letters Diameter of the line</td><td>7.2 mm 11 mm 5 mm 2.5 mm 0.6 mm</td></tr>
 </table>
 
 - 1\.2 In the case of any reduction in size or enlargement of the conformity marking, these proportions must be retained.
 - **2.** **Foreign conformity marking**
 - 2\.1 The use of the conformity marking set out in Annex II to Regulation (EC) No 765/2008[^annex1-lvlu1-1] is permitted. The illustration below is for information purposes only.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20220101/en/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240101/en/xml/image/image2.png)
 
 - 2\.2 When affixing this conformity marking, the general principles set out in Article 30 of Regulation (EC) No 765/2008 must be respected.
 - **3.** The minimum dimensions of the conformity marking may be reduced because of the small size of the radio equipment provided it remains visible and legible.
@@ -983,7 +1051,7 @@ Annex 5
 
 <sup>2</sup> The declaration of conformity for radio equipment that bears the foreign conformity marking in accordance with Annex 1 point 2 must be issued according to the template in Annex VI of Directive 2014/53/EU[^annex5-lvlu1-1].
 
-[^annex5-lvlu1-1]: Directive 2014/53/EU of the European Parliaments and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of radio equipment and repealing Directive 1999/5/EC, amended by OJ L 153, of 22.5.2014, p. 62
+[^annex5-lvlu1-1]: Directive 2014/53/EU of the European Parliaments and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of radio equipment and repealing Directive 1999/5/EC, amended by OJ L 153, of 225.2014, p. 62
 
 Annex 6
 

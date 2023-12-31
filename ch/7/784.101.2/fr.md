@@ -4,11 +4,11 @@ title: Ordonnance du 25 novembre 2015 sur les installations de télécommunicati
 short: OIT
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/24"
 language: fr
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2015-11-25
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-24-20220101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-24-20240101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20220101/fr"
 
 (OIT)
 
-du 25 novembre 2015 (Etat le 1<sup>er</sup> janvier 2022)
+du 25 novembre 2015 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -143,6 +143,10 @@ Un importateur ou un distributeur est assimilé à un fabricant:
 
 <sup>2</sup> En dérogation à l’al. 1, la mise à disposition sur le marché d’installations de radiocommunication destinées à être exploitées pour assurer la sécurité publique par les autorités est soumise aux art. 26 et 27, pour autant qu’aucune installation conforme aux autres prescriptions de la présente ordonnance et servant aux mêmes fins ne soit disponible sur le marché.
 
+<sup>3</sup> En dérogation à l’al. 1, la mise à disposition sur le marché d’installations de radiocommunication destinées à être exploitées par l’armée ou la protection civile dans les domaines de fréquences prévus pour une utilisation tant militaire que civile est soumise à l’art. 29*a*, pour autant qu’aucune installation conforme aux autres prescriptions de la présente ordonnance et servant aux mêmes fins ne soit disponible sur le marché.[^6-1]
+
+[^6-1]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+
 #### Art. 7
 
 **Exigences essentielles**
@@ -156,11 +160,14 @@ Les installations de radiocommunication doivent être construites de telle sorte
 
 <sup>2</sup> Les installations de radiocommunication doivent être construites de telle sorte qu’elles utilisent efficacement le spectre des fréquences et contribuent à son utilisation optimisée afin d’éviter les perturbations.
 
+<sup>2bis</sup> Les installations de radiocommunication qui peuvent être chargées au moyen d’un câble et sont répandues sur le marché doivent pouvoir être chargées au moyen d’un connecteur USB Type-C. L’OFCOM définit les catégories d’installations et les spécifications applicables aux puissances et aux protocoles de charge de ces installations. Il édicte les prescriptions administratives nécessaires en tenant compte des actes délégués correspondants de la Commission européenne.[^7-3]
+
 <sup>3</sup>
 
-L’OFCOM détermine les exigences essentielles additionnelles applicables, ainsi que les installations de radiocommunication ou classes d’installations concernées, en tenant compte des actes délégués correspondants de la Commission européenne. Les exigences additionnelles sont les suivantes:
+L’OFCOM détermine les exigences essentielles additionnelles applicables, ainsi que les installations de radiocommunication ou classes d’installations concernées, en tenant compte des actes délégués correspondants de la Commission européenne. Les exigences additionnelles sont les suivantes:[^7-4]
 
-- a. les installations doivent fonctionner avec des accessoires déterminés, notamment avec des chargeurs universels;
+- a.[^7-5] les installations doivent pouvoir fonctionner avec d’autres accessoires, en plus des dispositifs de charge visés à l’al. 2<sup>bis</sup>;
+- a<sup>bis</sup>.[^7-6] les installations de radiocommunication qui peuvent être chargées sans câble et qui sont répandues sur le marché doivent pouvoir être chargées au moyen d’un chargeur par induction ou résonnance magnétique.
 - b. les installations doivent interagir au travers des réseaux avec les autres installations de radiocommunication;
 - c. les installations peuvent être raccordées à des interfaces du type approprié en Suisse;
 - d. les installations ne doivent pas porter atteinte au réseau ou à son fonctionnement ni faire une mauvaise utilisation des ressources du réseau, provoquant ainsi une détérioration inacceptable du service;
@@ -172,6 +179,10 @@ L’OFCOM détermine les exigences essentielles additionnelles applicables, ains
 
 [^7-1]: [RS 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)
 [^7-2]: [RS 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
+[^7-3]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^7-4]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^7-5]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^7-6]: Introduite par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
 
 #### Art. 8
 
@@ -229,7 +240,7 @@ Une installation de radiocommunication ne peut être mise à disposition sur le 
 
 <sup>1</sup>
 
-Le fabricant doit démontrer la conformité des installations de radiocommunication aux exigences essentielles énoncées à l’art. 7, al. 1, au moyen de l’une des procédures d’évaluation de la conformité suivantes, au choix:
+Le fabricant doit démontrer la conformité des installations de radiocommunication aux exigences essentielles énoncées à l’art. 7, al. 1 et 2<sup>bis</sup> au moyen de l’une des procédures d’évaluation de la conformité suivantes:[^13-1]
 
 - a. le contrôle interne de la fabrication (annexe 2);
 - b. l’examen de type suivi par la conformité au type sur la base du contrôle interne de la fabrication (annexe 3);
@@ -238,6 +249,8 @@ Le fabricant doit démontrer la conformité des installations de radiocommunicat
 <sup>2</sup> Lorsque le fabricant a appliqué les normes techniques désignées par l’OFCOM (art. 31, al. 2, let. a, LTC) pour évaluer la conformité des installations de radiocommunication aux exigences essentielles énoncées à l’art. 7, al. 2 et 3, il fait appel à l’une des procédures mentionnées à l’al. 1, let. a à c (annexes 2 à 4), au choix.
 
 <sup>3</sup> Lorsque le fabricant n’a pas appliqué ou n’a appliqué qu’en partie les normes techniques désignées par l’OFCOM (art. 31, al. 2, let. a, LTC) pour évaluer la conformité des installations de radiocommunication aux exigences essentielles énoncées à l’art. 7, al. 2 et 3, ou lorsqu’il n’existe pas de normes techniques désignées, il fait appel, pour ce qui a trait à ces exigences essentielles, à l’une des procédures mentionnées à l’al. 1, let. b (annexe 3) ou c (annexe 4), au choix.
+
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
 
 #### Art. 14
 
@@ -369,15 +382,20 @@ Chaque installation de radiocommunication émettrice doit également être accom
 
 - a. les bandes de fréquences utilisées par l’installation de radiocommunication;
 - b. la puissance d’émission maximale transmise sur les bandes de fréquences utilisées par l’installation de radiocommunication;
-- c. le cas échéant, les restrictions d’exploitation, en particulier l’obligation de disposer d’une concession pour son exploitation.
+- c. le cas échéant, les restrictions d’exploitation, en particulier l’obligation de disposer d’une concession pour son exploitation;
+- d.[^19-1] pour les installations visées à l’art. 7, al. 2<sup>bis</sup>, les informations relatives aux capacités de chargement, aux dispositifs de charge compatibles ainsi qu’au dispositif de charge éventuellement fourni.
 
-<sup>3</sup> L’indication prévue à l’al. 2, let. c, sera également inscrite sur l’emballage.
+<sup>3</sup> Les informations requises à l’al. 2, let. c et d, doivent aussi figurer sur l’emballage. Pour la vente à distance, les informations requises à l’al. 2, let. d, doivent figurer à proximité du prix. Si aucun emballage n’est présent, les informations relatives aux capacités de chargement et aux dispositifs de charge compatibles doivent être apposées sur l’installation elle-même. Lorsque la taille ou la nature de l’installation ne le permet pas, l’utilisateur doit pouvoir imprimer ces informations sous la forme d’un document d’accompagnement séparé.[^19-2]
 
 <sup>4</sup> Toute offre faite sans présentation physique d’un échantillon, en particulier sur Internet ou au moyen de prospectus, d’une installation de radiocommunication dont l’exploitation est soumise à restriction doit clairement indiquer cette restriction.
 
-<sup>5</sup> Les informations sont rédigées de manière compréhensible pour les utilisateurs, dans la langue officielle du lieu où l’installation est mise en vente. Dans les lieux bilingues, elles doivent être rédigées dans les deux langues officielles.
+<sup>5</sup> Les informations doivent être bien visibles, lisibles et compréhensibles pour les utilisateurs, et être rédigées dans la langue officielle du lieu où l’installation est mise en vente. Dans les lieux bilingues, elles doivent être fournies dans les deux langues officielles.[^19-3]
 
 <sup>6</sup> L’OFCOM édicte les prescriptions administratives nécessaires en tenant compte de la pratique internationale.
+
+[^19-1]: Introduite par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^19-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^19-3]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
 
 #### Art. 20
 
@@ -437,6 +455,16 @@ Les importateurs et les distributeurs doivent s’assurer que, tant qu’une ins
 
 [^24-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 16 juil. 2021 ([RO 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
 
+### Section 5 Offre combinée d’installations de radiocommunication et de dispositifs de charge
+
+[^chap2-sec5-1]
+
+[^chap2-sec5-1]: Introduite par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+
+#### Art 24a
+
+Les acteurs économiques qui offrent des installations de radiocommunication visées à l’art. 7, al. 2<sup>bis</sup> avec un dispositif de charge, doivent également les offrir sans celui-ci.
+
 ## Chapitre 3 Exceptions
 
 #### Art. 25
@@ -450,7 +478,7 @@ Ne sont pas soumises aux dispositions du chapitre 2:
 - c. les installations de radiocommunication qui sont mises en place et exploitées sur des fréquences supérieures à 3000 GHz;
 - d. les installations de radiocommunication pour radioamateurs qui ne sont pas mises à disposition sur le marché;
 - e. les kits de montage (art. 2, al. 5) pour radioamateurs, mis ou non à disposition sur le marché;
-- f.[^25-2] les installations de radiocommunication pour radioamateurs mises à disposition sur le marché, qui ont été modifiées par un radioamateur habilité au sens de l’art. 44, al. 1, let. a et b, de l’ordonnance du 18 novembre 2020 sur l’utilisation du spectre des fréquences de radiocommunication (OUS)[^25-3] pour son propre usage;
+- f.[^25-2] les installations de radiocommunication pour radioamateurs mises à disposition sur le marché, qui ont été modifiées par un radioamateur habilité au sens de l’art. 44, al. 1, let. a et b, de l’ordonnance du 18 novembre 2020 sur l’utilisation du spectre des fréquences de radiocommunication (OUS)[^25-3] pour son propre usage, conformément à l’art. 47, al. 3 et 4, OUS;
 - g.
 
   les installations de radiocommunication mises provisoirement en place et exploitées par des personnes ayant leur domicile ou leur siège à l’étranger pour une période ne dépassant pas trois mois:
@@ -458,7 +486,7 @@ Ne sont pas soumises aux dispositions du chapitre 2:
   - 1\. lorsque leur mise en place et leur exploitation sont autorisées dans l’État concerné, et
   - 2\. lorsque leur puissance et leurs fréquences sont conformes aux prescriptions techniques fixées par l’OFCOM;
 
-- h.[^25-4] les installations de radiotéléphonie et de radionavigation qui sont mises en place et exploitées exclusivement et à demeure dans des aéronefs avec occupants, qui servent à la coordination du trafic aérien ainsi qu’à la sécurité du pilotage, et qui sont reconnues à cet effet par l’Office fédéral de l’aviation civile; ce dernier informe l’OFCOM des installations reconnues;
+- h.[^25-4] les installations de radiocommunication qui sont mises en place et exploitées exclusivement et à demeure dans des aéronefs avec occupants, qui servent à la coordination du trafic aérien ainsi qu’à la sécurité du pilotage, et qui sont reconnues à cet effet par l’Office fédéral de l’aviation civile; ce dernier informe l’OFCOM des installations reconnues;
 - h<sup>bis</sup>.[^25-5] les installations de radiocommunication installées dans des aéronefs sans occupants, dont la conception est certifiée conformément à l’art. 56, par. 1, du règlement (UE) 2018/1139[^25-6] et qui sont destinées à fonctionner uniquement sur des fréquences attribuées par le règlement des radiocommunications du 17 novembre 1995[^25-7] pour une utilisation aéronautique protégée;
 - i. les kits d’évaluation sur mesure destinés aux professionnels pour être utilisés uniquement dans des installations de recherche et de développement à de telles fins;
 - j. les installations de radiocommunication émettrices de mesure et de test qui, mises en place et exploitées par des personnes spécialisées dans le domaine des télécommunications, sont destinées à détecter et à diagnostiquer les problèmes lors de la mise en service, de la mise en place ou de l’exploitation d’installations de télécommunication, ou encore à établir leurs caractéristiques et vérifier leur bon fonctionnement;
@@ -469,9 +497,9 @@ Ne sont pas soumises aux dispositions du chapitre 2:
 <sup>3</sup> Les installations de radiocommunication visées à l’al. 1, let. b et g, ne peuvent pas être mises à disposition sur le marché.
 
 [^25-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
-[^25-2]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^25-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
 [^25-3]: [RS 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
-[^25-4]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^25-4]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
 [^25-5]: Introduite par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
 [^25-6]: Règlement (UE) 2018/1139 du Parlement européen et du Conseil du 4 juillet 2018 concernant des règles communes dans le domaine de l’aviation civile et instituant une Agence de l’Union européenne pour la sécurité aérienne, et modifiant les règlements (CE) n<sup>o</sup> 2111/2005, (CE) n<sup>o</sup> 1008/2008, (UE) n<sup>o</sup> 996/2010, (UE) n<sup>o</sup> 376/2014 et les directives 2014/30/UE et 2014/53/UE du Parlement européen et du Conseil, et abrogeant les règlements (CE) n<sup>o</sup> 552/2004 et (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil ainsi que le règlement (CEE) n<sup>o</sup> 3922/91 du Conseil, version du JO L 212 du 22.08.2018, p. 1.
 [^25-7]: [RS 0.784.403.1](https://fedlex.data.admin.ch/eli/cc/2005/778)
@@ -500,9 +528,16 @@ Ne sont pas soumises aux dispositions du chapitre 2:
 
 #### Art. 27
 
-**Autorisation de mise à disposition sur le marché**
+**Autorisation pour les acteurs économiques[^27-1]**
 
-<sup>1</sup> Quiconque veut mettre à disposition sur le marché des installations de radiocommunication visées à l’art. 26, al. 1 doit obtenir au préalable une autorisation de l’OFCOM. Ce dernier peut l’assortir de conditions et des charges. Il édicte les prescriptions administratives nécessaires.
+<sup>1</sup>
+
+Doit obtenir au préalable une autorisation de l’OFCOM quiconque:
+
+- a. veut importer des installations de radiocommunication visées à l’art. 6, al. 2, ou les mettre à disposition sur le marché conformément à l’art. 26, al. 1;
+- b. veut mettre en place des installations perturbatrices au sens de l’art. 32*b* LTC.[^27-2]
+
+<sup>1bis</sup> L’OFCOM peut assortir l’autorisation de conditions et de charges. Il édicte les prescriptions administratives nécessaires.[^27-3]
 
 <sup>2</sup> En cas de non-respect des conditions et charges attachées à l’autorisation, l’OFCOM peut retirer celle-ci sans dédommagement.
 
@@ -515,30 +550,40 @@ Les installations de radiocommunication visées à l’art. 26, al. 1, ne peuven
 - a. les autorités de police, de poursuite pénale ou d’exécution des peines;
 - b. le Service de renseignement de la Confédération;
 - c. l’armée;
-- d. les autorités compétentes pour effectuer des recherches en cas d’urgence ou des recherches de personnes condamnées.[^27-1]
+- d. les autorités compétentes pour effectuer des recherches en cas d’urgence ou des recherches de personnes condamnées;
+- e.[^27-4] les titulaires d’une autorisation prévue à l’al. 1.[^27-5]
 
-[^27-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^27-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^27-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^27-3]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^27-4]: Introduite par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^27-5]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
 
 #### Art. 27a
 
-**Démonstration**[^27a-1]
+**Démonstration, test et réparation**[^27a-1]
 
-<sup>1</sup> Quiconque veut mettre en place et exploiter à des fins de démonstration une installation de radiocommunication destinée à être exploitée pour assurer la sécurité publique par des autorités et qui n’a pas été homologuée par l’OFCOM a besoin d’une autorisation octroyée par ce dernier.
+Quiconque veut mettre en place et exploiter, à des fins de démonstration, de test ou de réparation, une installation de radiocommunication destinée à être exploitée par des autorités pour assurer la sécurité publique doit obtenir une autorisation de l’OFCOM, conformément à l’art. 59*a* OUS[^27a-2].
 
-<sup>2</sup> L’OFCOM octroie l’autorisation si la démonstration n’entrave pas de manière excessive l’exploitation régulière actuelle ou future des fréquences dans les bandes concernées.
-
-<sup>3</sup> La démonstration est autorisée uniquement dans le cadre fixé par l’OFCOM. Celui-ci fixe notamment la durée de la démonstration, le lieu où elle se déroule et les bandes de fréquences dans lesquelles des émissions sont autorisées. Les émissions hors de ces bandes doivent être aussi faibles que possible.
-
-[^27a-1]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^27a-1]: Introduit par le ch. I de l’O du 18 nov. 2020 ([RO 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)). Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^27a-2]: [RS 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
 
 #### Art. 28
 
-**Restrictions d’exploitation**[^28-1]
+**Restriction d’exploitation**[^28-1]
 
-Les installations de radiocommunication visées à l’art. 26, al. 1, ne peuvent être exploitées que par les autorités visées à l’art. 27, al. 4, et aux conditions fixées aux art. 53 à 59 OUS[^28-2].
+Les installations de radiocommunication visées à l’art. 6, al. 2, ne peuvent être exploitées qu’aux conditions fixées aux art. 53 à 59*a* OUS[^28-2].
 
-[^28-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^28-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
 [^28-2]: [RS 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
+
+#### Art 28a
+
+**Adresse de correspondance**[^28a-1]
+
+Les requérants qui ont leur siège à l’étranger doivent indiquer une adresse de correspondance en Suisse, à laquelle les communications et les décisions peuvent en particulier être valablement notifiées.
+
+[^28a-1]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
 
 ### Section 2 Exposition et démonstration
 
@@ -554,6 +599,18 @@ Les installations de radiocommunication visées à l’art. 26, al. 1, ne peuven
 [^29-2]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
 [^29-3]: [RS 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)
 [^29-4]: [RS 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
+
+### Section 3 Installations de radiocommunication destinées à être exploitées par l’armée ou la protection civile dans les domaines de fréquences prévus pour une utilisation tant militaire que civile
+
+[^chap4-sec3-1]
+
+[^chap4-sec3-1]: Introduite par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+
+#### Art 29a
+
+Les installations de radiocommunication visées à l’art. 6, al. 3, ne peuvent être mises à disposition sur le marché, mises en place et exploitées que dans le respect des paramètres techniques définis par l’OFCOM après consultation de l’organisme militaire compétent, conformément à l’art. 8, al. 2, let. i, OUS[^29a-1].
+
+[^29a-1]: [RS 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
 
 ## Chapitre 5 Mise à disposition sur le marché et démonstration d’installations de télécommunication filaires neuves
 
@@ -643,7 +700,7 @@ En cas de modifications substantielles des normes ou prescriptions techniques ap
 
 <sup>1</sup> L’OFCOM vérifie que les installations de télécommunication mises à disposition sur le marché, mises en service, mises en place ou exploitées sont conformes aux dispositions de la présente ordonnance et à ses propres prescriptions (art. 33, al. 1, LTC). Le contrôle des aspects touchant la protection de la santé et la sécurité (art. 7, al. 1, let. a) incombe à l’autorité d’exécution de l’OMBT[^36-1].
 
-<sup>2</sup> Il procède à cet effet à des contrôles par sondage. Il effectue aussi un contrôle lorsqu’il a des raisons de supposer qu’une installation de télécommunication n'est pas conforme aux dispositions de la présente ordonnance et aux prescriptions de l’OFCOM. Il est également habilité à procéder à des contrôles sur les installations de télécommunication à la suite d’une demande de concession.
+<sup>2</sup> Il procède à cet effet à des contrôles par sondage. Il effectue aussi un contrôle lorsqu’il a des raisons de supposer qu’une installation de télécommunication n’est pas conforme aux dispositions de la présente ordonnance et aux prescriptions de l’OFCOM. Il est également habilité à procéder à des contrôles sur les installations de télécommunication à la suite d’une demande de concession.
 
 <sup>3</sup> Il peut demander à l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^36-2] de lui fournir, pour une période déterminée, des renseignements sur les importations d’installations de télécommunication.
 
@@ -765,6 +822,17 @@ Peuvent encore être mises sur le marché jusqu’au 12 juin 2017 les installati
 [^44-4]: [RS 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)
 [^44-5]: [RS 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
 
+#### Art. 44a
+
+**Disposition transitoire relative à la modification du 23 novembre 2023**[^44a-1]
+
+Les installations de radiocommunication qui ne satisfont pas aux exigences fixées aux art. 7, al. 2<sup>bis</sup>, 19, al. 2, let. d, et 3, et 24*a* peuvent être mises à disposition sur le marché jusqu’aux dates suivantes:
+
+- a. ordinateurs portables: 26 avril 2026;
+- b. autres installations de radiocommunication: 28 décembre 2024.
+
+[^44a-1]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+
 #### Art. 45
 
 **Entrée en vigueur**
@@ -783,14 +851,14 @@ Annexe 1
 - 1\.1 La marque de conformité suisse se compose des deux grandes lettres latines «C» et «H» accolées: «CH». Les lettres doivent être appliquées dans une forme elliptique, l’axe principal de l’ellipse étant horizontal.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20220101/fr/xml/image/image1.png)</td><td>Dimensions minimales: Hauteur de l’ellipse Largeur de l’ellipse Hauteur des lettres Largeur des lettres Épaisseur du trait</td><td>7,2 mm 11 mm 5 mm 2,5 mm 0,6 mm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240101/fr/xml/image/image1.png)</td><td>Dimensions minimales: Hauteur de l’ellipse Largeur de l’ellipse Hauteur des lettres Largeur des lettres Épaisseur du trait</td><td>7,2 mm 11 mm 5 mm 2,5 mm 0,6 mm</td></tr>
 </table>
 
 - 1\.2 En cas de réduction ou d’agrandissement de la marque de conformité, les proportions de celle-ci doivent être respectées.
 - **2.** **Marque de conformité étrangère**
 - 2\.1 Est admise la marque de conformité définie à l’annexe II du règlement (CE) n<sup>o</sup> 765/2008[^annex1-lvlu1-1]. L’illustration a un caractère informatif.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20220101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240101/fr/xml/image/image2.png)
 
 - 2\.2 L’apposition de cette marque de conformité doit respecter les principes généraux définis à l’art. 30 du règlement (CE) n<sup>o</sup> 765/2008.
 - **3.** Les dimensions minimales de la marque de conformité peuvent être réduites en raison de la petite taille de l’installation de radiocommunication pour autant que la marque de conformité reste visible et lisible.

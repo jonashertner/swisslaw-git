@@ -4,11 +4,11 @@ title: Ordinanza del 25 novembre 2015 sugli impianti di telecomunicazione (OIT)
 short: OIT
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/24"
 language: it
-version: 2022-01-01
+version: 2024-01-01
 adopted: 2015-11-25
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2016-24-20220101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2016-24-20240101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20220101/it"
 
 (OIT)
 
-del 25 novembre 2015 (Stato 1° gennaio 2022)
+del 25 novembre 2015 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -142,6 +142,10 @@ Un importatore o un distributore è equiparato a un fabbricante:
 
 <sup>2</sup> In deroga al capoverso 1, la messa a disposizione sul mercato d’impianti di radiocomunicazione destinati a essere impiegati dalle autorità per garantire la sicurezza pubblica soggiace agli articoli 26 e 27, a condizione che non siano disponibili sul mercato altri impianti conformi alle prescrizioni della presente ordinanza, i quali adempiono lo stesso scopo.
 
+<sup>3</sup> In deroga al capoverso 1, la messa a disposizione sul mercato d’impianti di radiocomunicazione destinati a essere impiegati dall’esercito o dalla protezione civile in bande di frequenze previste per usi sia militari sia civili soggiace all’articolo 29*a*, a condizione che non siano disponibili sul mercato altri impianti conformi alle prescrizioni della presente ordinanza, i quali adempiono lo stesso scopo.[^6-1]
+
+[^6-1]: Introdotto dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+
 #### Art. 7
 
 **Requisiti essenziali**
@@ -155,11 +159,14 @@ Gli impianti di radiocomunicazione devono essere costruiti in modo da garantire:
 
 <sup>2</sup> Gli impianti di radiocomunicazione devono essere costruiti in modo da utilizzare efficacemente lo spettro delle radiofrequenze e da contribuire a un’utilizzazione ottimale al fine di evitare interferenze.
 
+<sup>2bis</sup> Gli impianti di radiocomunicazione ricaricabili mediante cavo ampiamente disponibili sul mercato devono poter essere ricaricati tramite una porta USB‑C. L’UFCOM stabilisce le categorie di impianto e le specifiche per le prestazioni e i protocolli di comunicazione per la ricarica di tali impianti di radiocomunicazione. Emana le prescrizioni amministrative necessarie sulla base degli atti delegati corrispondenti della Commissione europea.[^7-3]
+
 <sup>3</sup>
 
-L’UFCOM stabilisce, tenendo conto della prassi internazionale, i requisiti essenziali supplementari applicabili, come pure gli impianti di radiocomunicazione o le classi d’impianti ai quali essi si riferiscono, sulla base degli atti delegati corrispondenti della Commissione europea. I requisiti supplementari sono i seguenti:
+L’UFCOM stabilisce i requisiti essenziali supplementari applicabili, come pure gli impianti di radiocomunicazione o le classi d’impianti ai quali essi si riferiscono, tenendo conto degli atti delegati corrispondenti della Commissione europea. I requisiti essenziali supplementari sono i seguenti:[^7-4]
 
-- a. gli impianti devono interagire con accessori, in particolare con caricabatteria standardizzati;
+- a.[^7-5] gli impianti devono essere compatibili, oltre che con i dispositivi di ricarica di cui al capoverso 2<sup>bis</sup>, con ulteriori accessori;
+- a.<sup>bis</sup> [^7-6] gli impianti di radiocomunicazione ricaricabili senza cavo che sono ampiamente disponibili sul mercato devono poter essere ricaricati con un caricatore a induzione o a risonanza magnetica;
 - b. gli impianti devono interagire con altre apparecchiature radio via rete;
 - c. gli impianti possono essere collegati ad interfacce del corrispondente tipo in Svizzera;
 - d. gli impianti non devono danneggiare la rete o il suo funzionamento, né abusare delle risorse della rete arrecando quindi un deterioramento inaccettabile del servizio;
@@ -171,6 +178,10 @@ L’UFCOM stabilisce, tenendo conto della prassi internazionale, i requisiti ess
 
 [^7-1]: [RS 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)
 [^7-2]: [RS 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
+[^7-3]: Introdotto dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^7-4]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^7-5]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^7-6]: Introdotta dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
 
 #### Art. 8
 
@@ -228,7 +239,7 @@ Un impianto di radiocomunicazione può essere messo a disposizione sul mercato s
 
 <sup>1</sup>
 
-Il fabbricante deve dimostrare la conformità degli impianti di radiocomunicazione ai requisiti essenziali di cui all’articolo 7 capoverso 1 tramite una delle seguenti procedure di valutazione della conformità:
+Il fabbricante deve dimostrare la conformità degli impianti di radiocomunicazione ai requisiti essenziali di cui all’articolo 7 capoverso 1 e 2<sup>bis</sup> tramite una delle seguenti procedure di valutazione della conformità:[^13-1]
 
 - a. il controllo interno della produzione (allegato 2);
 - b. l’esame del tipo seguito dalla conformità al tipo sulla base del controllo interno della produzione (allegato 3);
@@ -237,6 +248,8 @@ Il fabbricante deve dimostrare la conformità degli impianti di radiocomunicazio
 <sup>2</sup> Se il fabbricante ha applicato le norme tecniche stabilite dall’UFCOM (art. 31 cpv. 2 lett. a LTC) per valutare la conformità degli impianti di radiocomunicazione ai requisiti essenziali di cui all’articolo 7 capoversi 2 e 3, ricorre a scelta a una delle procedure di cui al capoverso 1 lettere a–c (allegati 2–4).
 
 <sup>3</sup> Se il fabbricante non ha applicato o ha applicato solo parzialmente le norme tecniche stabilite dall’UFCOM (art. 31 cpv. 2 lett. a LTC) per valutare la conformità degli impianti di radiocomunicazione ai requisiti essenziali di cui all’articolo 7 capoversi 2 e 3, o se non esistono norme tecniche stabilite, ricorre a scelta, per quanto riguarda questi requisiti essenziali, a una delle procedure di cui al capoverso 1 lettera b (allegato 3) o c (allegato 4).
+
+[^13-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
 
 #### Art. 14
 
@@ -368,15 +381,20 @@ Ogni impianto di radiocomunicazione emittente deve essere corredato dalle seguen
 
 - a. le bande di frequenze utilizzate dall’impianto di radiocomunicazione;
 - b. la potenza di trasmissione massima sulle bande di frequenze utilizzate dall’impianto di radiocomunicazione;
-- c. se del caso, le restrizioni d’esercizio, in particolare l’obbligo di disporre di una concessione per l’esercizio.
+- c. se del caso, le restrizioni d’esercizio, in particolare l’obbligo di disporre di una concessione per l’esercizio;
+- d.[^19-1] nel caso degli impianti di radiocomunicazione di cui all’articolo 7 capoverso 2<sup>bis</sup>, le informazioni relative alla capacità di ricarica, ai dispositivi di ricarica compatibili nonché all’eventuale dispositivo di ricarica incluso.
 
-<sup>3</sup> L’indicazione di cui al capoverso 2 lettera c deve essere riportata anche sull’imballaggio.
+<sup>3</sup> Le informazioni di cui al capoverso 2 lettere c e d devono anche essere riportate sull’imballaggio. In caso di vendita a distanza, le informazioni di cui al capoverso 2 lettera d devono essere fornite con l’indicazione del prezzo. Se non vi è alcun imballaggio, le informazioni in merito alla capacità di ricarica e ai dispositivi di ricarica compatibili devono essere riportate sull’impianto stesso. Se a causa della dimensione o della tipologia dell’impianto di radiocomunicazione ciò non fosse possibile, l’utilizzatore deve poter stampare le informazioni come documento di accompagnamento separato.[^19-2]
 
 <sup>4</sup> Per gli impianti di radiocomunicazione il cui esercizio è sottoposto a restrizioni, le offerte fatte senza presentazione di un esemplare fisico, segnatamente su Internet o tramite un prospetto, devono chiaramente indicare tali restrizioni.
 
-<sup>5</sup> Le informazioni sono redatte in modo comprensibile per gli utilizzatori, nella lingua ufficiale del luogo di vendita dell’impianto. Nelle località bilingui devono essere redatte nelle due lingue ufficiali.
+<sup>5</sup> Le informazioni devono essere ben visibili, leggibili e comprensibili per gli utilizzatori, e redatte nella lingua ufficiale del luogo di vendita dell’impianto. Nelle località bilingui devono essere redatte nelle due lingue ufficiali.[^19-3]
 
 <sup>6</sup> L’UFCOM emana le prescrizioni amministrative necessarie, tenendo conto della prassi internazionale.
+
+[^19-1]: Introdotta dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^19-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^19-3]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
 
 #### Art. 20
 
@@ -436,6 +454,16 @@ Gli importatori e i distributori devono garantire che, fintanto che un impianto 
 
 [^24-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 16 lug. 2021 ([RU 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
 
+### Sezione 5: Offerta combinata di impianti di radiocomunicazione e dispositivi di ricarica
+
+[^chap2-sec5-1]
+
+[^chap2-sec5-1]: Introdotta dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+
+#### Art 24a
+
+Gli operatori economici che offrono impianti di radiocomunicazione di cui all’articolo 7 capoverso 2<sup>bis</sup> con un dispositivo di ricarica devono offrirli anche senza.
+
 ## Capitolo 3: Eccezioni
 
 #### Art. 25
@@ -449,7 +477,7 @@ Non sono soggetti alle disposizioni del capitolo 2:
 - c. gli impianti di radiocomunicazione installati ed esercitati su frequenze superiori a 3000 GHz;
 - d. gli impianti di radiocomunicazione per radioamatori che non sono messi a disposizione sul mercato;
 - e. i kit di montaggio (art. 2 cpv. 5) per radioamatori, a prescindere dalla messa a disposizione o meno sul mercato;
-- f.[^25-2] gli impianti di radiocomunicazione per radioamatori messi a disposizione sul mercato, che sono stati modificati per uso proprio da un radioamatore autorizzato conformemente all’articolo 44 capoverso 1 lettere a e b dell’ordinanza del 18 novembre 2020[^25-3] sull’utilizzazione dello spettro delle radiofrequenze (OUS);
+- f.[^25-2] gli impianti di radiocomunicazione per radioamatori messi a disposizione sul mercato, che sono stati modificati per uso proprio ai sensi dell’articolo 47 capoversi 3 e 4 OUS da un radioamatore autorizzato conformemente all’articolo 44 capoverso 1 lettere a e b dell’ordinanza del 18 novembre 2020[^25-3] sull’utilizzazione dello spettro delle radiofrequenze (OUS);
 - g.
 
   gli impianti di radiocomunicazione che persone aventi domicilio o sede all’estero installano temporaneamente ed esercitano per un periodo non superiore a tre mesi, se:
@@ -457,7 +485,7 @@ Non sono soggetti alle disposizioni del capitolo 2:
   - 1\. l’installazione e l’esercizio di tali impianti sono ammessi nel relativo Stato, e
   - 2\. la potenza e le frequenze degli impianti sono conformi alle prescrizioni tecniche definite dall’UFCOM;
 
-- h.[^25-4] gli impianti di radiotelefonia e di radionavigazione installati ed esercitati esclusivamente su aeromobili con occupanti, che servono a coordinare il traffico aereo e a garantire un pilotaggio sicuro degli aeromobili, e che sono riconosciuti a tale scopo dall’Ufficio federale dell’aviazione civile; quest’ultimo informa l’UFCOM degli impianti riconosciuti;
+- h.[^25-4] gli impianti di radiocomunicazione fissi installati ed esercitati esclusivamente su aeromobili con occupanti, che servono a coordinare il traffico aereo e a garantire un pilotaggio sicuro degli aeromobili, purché riconosciuti a tale scopo dall’Ufficio federale dell’aviazione civile; quest’ultimo informa l’UFCOM in merito agli impianti riconosciuti;
 - h<sup>bis</sup>.[^25-5] gli impianti di radiocomunicazione installati su aeromobili senza occupanti, la cui progettazione è certificata conformemente all’articolo 56 paragrafo 1 del regolamento (UE) 2018/1139[^25-6] e che sono destinati a funzionare unicamente su frequenze attribuite dal Regolamento delle radiocomunicazioni del 17 novembre 1995[^25-7] per un’utilizzazione aeronautica protetta;
 - i. i kit di valutazione su misura per professionisti destinati a essere utilizzati unicamente in strutture di ricerca e di sviluppo a tali fini;
 - j. gli impianti di radiocomunicazione emittenti per misurazioni e per prove che, installati ed esercitati da persone specializzate nel settore delle telecomunicazioni, servono a individuare e a diagnosticare i problemi al momento della messa in servizio, dell’installazione o dell’esercizio degli impianti di telecomunicazione oppure per determinare le loro caratteristiche e verificare il loro corretto funzionamento;
@@ -468,9 +496,9 @@ Non sono soggetti alle disposizioni del capitolo 2:
 <sup>3</sup> Gli impianti di radiocomunicazione di cui al capoverso 1 lettere b e g non possono essere messi a disposizione sul mercato.
 
 [^25-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
-[^25-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^25-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
 [^25-3]: [RS 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
-[^25-4]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^25-4]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
 [^25-5]: Introdotta dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
 [^25-6]: Regolamento (UE) 2018/1139 del Parlamento europeo e del Consiglio, del 4 luglio 2018, recante norme comuni nel settore dell’aviazione civile, che istituisce un’Agenzia dell’Unione europea per la sicurezza aerea e che modifica i regolamenti (CE) n. 2111/2005, (CE) n. 1008/2008, (UE) n. 996/2010, (UE) n. 376/2014 e le direttive 2014/30/UE e 2014/53/UE del Parlamento europeo e del Consiglio, e abroga i regolamenti (CE) n. 552/2004 e (CE) n. 216/2008 del Parlamento europeo e del Consiglio e il regolamento (CEE) n. 3922/91 del Consiglio, versione della GU L 212 del 22.8.2018, pag. 1.
 [^25-7]: [RS 0.784.403.1](https://fedlex.data.admin.ch/eli/cc/2005/778)
@@ -499,9 +527,16 @@ Non sono soggetti alle disposizioni del capitolo 2:
 
 #### Art. 27
 
-**Autorizzazione per la messa a disposizione sul mercato**
+**Autorizzazione per gli operatori economici[^27-1]**
 
-<sup>1</sup> Chiunque vuole mettere a disposizione sul mercato degli impianti di radiocomunicazione di cui all’articolo 26 capoverso 1 deve dapprima ottenere un’autorizzazione dell’UFCOM. Quest’ultimo può vincolarla a condizioni e oneri. Emana le prescrizioni amministrative necessarie.
+<sup>1</sup>
+
+Deve dapprima ottenere un’autorizzazione dell’UFCOM chiunque:
+
+- a. intenda importare impianti di radiocomunicazione secondo l’articolo 6 capoverso 2 o metterli a disposizione sul mercato secondo l’articolo 26 capoverso 1;
+- b. intenda installare dispositivi che provocano interferenze secondo l’articolo 32*b* LTC.[^27-2]
+
+<sup>1bis</sup> L’UFCOM può vincolare l’autorizzazione a condizioni e oneri. L’Ufficio emana le prescrizioni amministrative necessarie.[^27-3]
 
 <sup>2</sup> In caso di mancato rispetto delle condizioni e degli oneri relativi all’autorizzazione, l’UFCOM può ritirare quest’ultima senza indennizzo.
 
@@ -514,30 +549,40 @@ Gli impianti di radiocomunicazione di cui all’articolo 26 capoverso 1 possono 
 - a. le autorità di polizia, le autorità di perseguimento penale o le autorità preposte all’esecuzione delle pene;
 - b. il Servizio delle attività informative della Confederazione;
 - c. l’esercito;
-- d. le autorità competenti per le ricerche in situazioni di emergenza o le ricerche di persone condannate.[^27-1]
+- d. le autorità competenti per le ricerche in situazioni di emergenza o le ricerche di persone condannate;
+- e.[^27-4] le persone titolari di un’autorizzazione secondo il capoverso 1.[^27-5]
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^27-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^27-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^27-3]: Introdotto dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^27-4]: Introdotta dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^27-5]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
 
 #### Art. 27a
 
-**Dimostrazione**[^27a-1]
+**Dimostrazione, test e riparazione**[^27a-1]
 
-<sup>1</sup> Chiunque intende installare ed esercitare per dimostrazione un impianto di radiocomunicazione destinato a essere impiegato dalle autorità per garantire la sicurezza pubblica e che non è stato omologato dall’UFCOM necessita di un’autorizzazione rilasciata da quest’ultimo.
+Chiunque intende installare ed esercitare per dimostrazione, test e riparazione un impianto di radiocomunicazione destinato a essere impiegato dalle autorità per garantire la sicurezza pubblica, necessita di un’autorizzazione secondo l’articolo 59*a* OUS[^27a-2].
 
-<sup>2</sup> L’UFCOM rilascia l’autorizzazione se la dimostrazione non ostacola eccessivamente l’esercizio regolare attuale o futuro delle frequenze nelle bande in questione.
-
-<sup>3</sup> La dimostrazione è autorizzata unicamente nel quadro stabilito dall’UFCOM. Quest’ultimo stabilisce in particolare la durata e il luogo della dimostrazione nonché le bande di frequenze in cui le emissioni sono autorizzate. Le emissioni al di fuori di queste bande devono essere il più basse possibile.
-
-[^27a-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^27a-1]: Introdotto dal n. I dell’O del 18 nov. 2020 ([RU 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)). Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+[^27a-2]: [RS 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
 
 #### Art. 28
 
 **Restrizioni d’esercizio**[^28-1]
 
-Gli impianti di telecomunicazione di cui all’articolo 26 capoverso 1 possono essere esercitati soltanto dalle autorità di cui all’articolo 27 capoverso 4 alle condizioni fissate negli articoli 53–59 OUS[^28-2].
+Gli impianti di telecomunicazione di cui all’articolo 6 capoverso 2 possono essere esercitati soltanto alle condizioni fissate negli articoli 53–59*a* OUS[^28-2].
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^28-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
 [^28-2]: [RS 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
+
+#### Art 28a
+
+**Indirizzo di corrispondenza**[^28a-1]
+
+I richiedenti stabiliti all’estero devono indicare un indirizzo postale in Svizzera al quale sia possibile recapitare in modo giuridicamente valido in particolare comunicazioni e decisioni.
+
+[^28a-1]: Introdotto dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
 
 ### Sezione 2: Fiere e dimostrazioni
 
@@ -553,6 +598,18 @@ Gli impianti di telecomunicazione di cui all’articolo 26 capoverso 1 possono e
 [^29-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
 [^29-3]: [RS 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)
 [^29-4]: [RS 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
+
+### Sezione 3: Impianti di radiocomunicazione destinati a essere impiegati dall’esercito o dalla protezione civile in bande di frequenze previste per usi sia militari sia civili
+
+[^chap4-sec3-1]
+
+[^chap4-sec3-1]: Introdotta dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
+
+#### Art 29a
+
+Gli impianti di radiocomunicazione di cui all’articolo 6 capoverso 3 possono essere messi a disposizione sul mercato, installati ed esercitati unicamente nel rispetto dei parametri tecnici di cui all’articolo 8 capoverso 2 lettera i OUS[^29a-1] stabiliti dall’UFCOM previa consultazione dell’organo militare competente.
+
+[^29a-1]: [RS 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
 
 ## Capitolo 5: Messa a disposizione sul mercato e dimostrazione di nuovi impianti di telecomunicazione collegati per filo
 
@@ -757,11 +814,22 @@ Possono ancora essere immessi in commercio fino al 12 giugno 2017 gli impianti d
   - 1\. erano conformi all’ordinanza del 9 aprile 1997[^44-2] sui prodotti elettrici a bassa tensione e all’ordinanza del 18 novembre 2009[^44-3] sulla compatibilità elettromagnetica, o
   - 2\. sono conformi all’ordinanza del 25 novembre 2015[^44-4] sui prodotti elettrici a bassa tensione e all’ordinanza del 25 novembre 2015[^44-5] sulla compatibilità elettromagnetica.
 
-[^44-1]: [[RU 2002 2086](https://fedlex.data.admin.ch/eli/oc/2002/310), [2003 4771](https://fedlex.data.admin.ch/eli/oc/2003/695), [2005 677](https://fedlex.data.admin.ch/eli/oc/2005/72), [2007 995](https://fedlex.data.admin.ch/eli/oc/2007/170)[7085](https://fedlex.data.admin.ch/eli/oc/2007/926)n. II, [2008 1903](https://fedlex.data.admin.ch/eli/oc/2008/279), [2009 5837](https://fedlex.data.admin.ch/eli/oc/2009/707)[6243](https://fedlex.data.admin.ch/eli/oc/2009/763)all. 3 n. II 7, [2012 6561](https://fedlex.data.admin.ch/eli/oc/2012/788), [2014 4169](https://fedlex.data.admin.ch/eli/oc/2014/698), [2016 119](https://fedlex.data.admin.ch/eli/oc/2016/18)art. 30 cpv. 2 lett. e]
-[^44-2]: [[RU 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016), [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)art. 19 n. 2762 n. I 3, **2007** 4477 n. IV 23, **2009** 6243 all. 3 n. II 4, **2010** 2583 all. 4 n. II 12749 n. I 1, **2013** 3509 all. n. 2. [RU 2016 105](https://fedlex.data.admin.ch/eli/oc/2016/17)art. 29]
+[^44-1]: [[RU 2002 2086](https://fedlex.data.admin.ch/eli/oc/2002/310); [2003 4771](https://fedlex.data.admin.ch/eli/oc/2003/695); [2005 677](https://fedlex.data.admin.ch/eli/oc/2005/72); [2007 995](https://fedlex.data.admin.ch/eli/oc/2007/170), [7085](https://fedlex.data.admin.ch/eli/oc/2007/926)n. II; [2008 1903](https://fedlex.data.admin.ch/eli/oc/2008/279); [2009 5837](https://fedlex.data.admin.ch/eli/oc/2009/707), [6243](https://fedlex.data.admin.ch/eli/oc/2009/763)all. 3 n. II 7; [2012 6561](https://fedlex.data.admin.ch/eli/oc/2012/788); [2014 4169](https://fedlex.data.admin.ch/eli/oc/2014/698); [2016 119](https://fedlex.data.admin.ch/eli/oc/2016/18)art. 30 cpv. 2 lett. e]
+[^44-2]: [[RU 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016); [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)art. 19 n. 2,762 n. I 3; **2007** 4477 n. IV 23; **2009** 6243 all. 3 n. II 4; **2010** 2583 all. 4 n. II 1,2749 n. I 1; **2013** 3509 all. n. 2. [RU 2016 105](https://fedlex.data.admin.ch/eli/oc/2016/17)art. 29]
 [^44-3]: [[RU 2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763), [2014 4159](https://fedlex.data.admin.ch/eli/oc/2014/696). [RU 2016 119](https://fedlex.data.admin.ch/eli/oc/2016/18)art. 30 cpv. 1]
 [^44-4]: [RS 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)
 [^44-5]: [RS 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
+
+#### Art. 44a
+
+**Disposizione transitoria della modifica del 23 novembre 2023**[^44a-1]
+
+Gli impianti di radiocomunicazione che non soddisfano i requisiti di cui agli articoli 7 capoverso 2<sup>bis</sup>, 19 capoverso 2 lettera d e 3 nonché 24*a*, possono essere messi a disposizione sul mercato fino alle seguenti date:
+
+- a. laptop: fino al 26 aprile 2026;
+- b. altri impianti di radiocomunicazione: fino al 28 dicembre 2024
+
+[^44a-1]: Introdotto dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)).
 
 #### Art. 45
 
@@ -781,14 +849,14 @@ Allegato 1
 - 1\.1 Il marchio di conformità svizzero è composto di due lettere latine maiuscole susseguenti, «C» e «H»: «CH». Le lettere devono essere applicate in una forma ellittica con l’asse principale orizzontale.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20220101/it/xml/image/image1.png)</td><td>Dimensioni minime: Altezza dell’ellissi Larghezza dell’ellissi Altezza delle lettere Larghezza delle lettere Spessore del tratto</td><td>7,2 mm 11 mm 5 mm 2,5 mm 0,6 mm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240101/it/xml/image/image1.png)</td><td>Dimensioni minime: Altezza dell’ellissi Larghezza dell’ellissi Altezza delle lettere Larghezza delle lettere Spessore del tratto</td><td>7,2 mm 11 mm 5 mm 2,5 mm 0,6 mm</td></tr>
 </table>
 
 - 1\.2 In caso di riduzione o di ingrandimento del marchio di conformità, devono essere mantenute le sue proporzioni.
 - **2.** **Marchio di conformità estero**
 - 2\.1 È ammesso il marchio di conformità definito nell’allegato II del regolamento (CE) n. 765/2008[^annex1-lvlu1-1]. L’illustrazione ha carattere informativo.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20220101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240101/it/xml/image/image2.png)
 
 - 2\.2 L’apposizione di questo marchio di conformità deve rispettare i principi generali definiti all’articolo 30 del regolamento (CE) n. 765/2008.
 - **3.** Le dimensioni minime del marchio di conformità possono essere ridotte nel caso di impianti di radiocomunicazione di piccole dimensioni, purché il marchio di conformità resti visibile e leggibile.
