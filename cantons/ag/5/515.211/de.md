@@ -4,13 +4,13 @@ number: "515.211"
 title: Verordnung über den Bevölkerungsschutz und den Zivilschutz im Kanton Aargau
 short: BZV-AG
 language: de
-version: 2019-01-01
-valid_until: 2023-12-31
-version_adopted: 2018-11-07
+version: 2024-01-01
+valid_until: 2024-06-30
+version_adopted: 2023-11-15
 adopted: 2006-11-22
 in_force: 2007-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/515.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3285/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3386/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3285/pdf_file"
 
 (BZV-AG)
 
-Vom 22.11.2006 (Stand 01.01.2019)
+Vom 22.11.2006 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf die §§ 3, 4, 5, 8, 14, 20, 22, 33, 35, 38, 40, 43 und 52 des Gesetzes über den Bevölkerungsschutz und den Zivilschutz im Kanton Aargau (Bevölkerungs- und Zivilschutzgesetz Aargau, BZG-AG) vom 4. Juli 2006[^ingress-1], die §§ 13 Abs. 2 und 27 des Gesetzes über die Organisation des Regierungsrats und der kantonalen Verwaltung (Organisationsgesetz) vom 26. März 1985[^ingress-2], § 7 des Dekrets über Spesen, Sitzungsgelder und übrige Entschädigungen vom 14. März 2000 [^ingress-3], § 2 des Dekrets über die durch den Staat zu beziehenden Gebühren vom 23. November 1977[^ingress-4] und § 1 Abs. 6 der Verordnung über die Gebühren und die Benutzung von kantonalen Gebäuden und Anlagen vom 22. März 2001[^ingress-5].
+gestützt auf die §§ 3, 4, 5, 8, 11a, 14, 18a, 20, 22, 24, 24a, 33, 35, 38, 40, 43, 44a, 44b, 45 und 52 des Gesetzes über den Bevölkerungsschutz und den Zivilschutz im Kanton Aargau (Bevölkerungs- und Zivilschutzgesetz Aargau, BZG-AG) vom 4. Juli 2006[^ingress-1], die §§ 13 Abs. 2 und 27 des Gesetzes über die Organisation des Regierungsrats und der kantonalen Verwaltung (Organisationsgesetz) vom 26. März 1985[^ingress-2], § 7 des Dekrets über Spesen, Sitzungsgelder und übrige Entschädigungen vom 14. März 2000 [^ingress-3], § 2 des Dekrets über die durch den Staat zu beziehenden Gebühren vom 23. November 1977[^ingress-4] und § 1 Abs. 6 der Verordnung über die Gebühren und die Benutzung von kantonalen Gebäuden und Anlagen vom 22. März 2001[^ingress-5].
 
 beschliesst:
 
@@ -55,21 +55,21 @@ beschliesst:
 
 <sup>1</sup> Die Bevölkerungsschutzregionen ergeben sich aus Anhang 1.
 
-<sup>2</sup> Die Kantonale Koordinationsstelle für den Bevölkerungsschutz ist die AMB. Sie hat insbesondere folgende Aufgaben:
+<sup>2</sup> Die kantonale Koordinationsstelle für den Bevölkerungsschutz ist die AMB. Sie hat insbesondere folgende Aufgaben:
 
 - a) Schaffung der Grundlagen zur Zusammenarbeit der Beteiligten, zur Koordination und Konzentration der personellen und materiellen Ressourcen sowie zur Nutzung von Synergien,
 - b) Erlass der erforderlichen Anordnungen und Weisungen für die Umsetzung des Bevölkerungsschutzes nach den Vorgaben des Regierungsrats,
 - c) Information von Behörden und Öffentlichkeit über sämtliche Belange des Bevölkerungsschutzes,
-- d) Koordination aller Arbeiten zur Nachführung der Gefährdungsanalyse,
+- d) Koordination aller Arbeiten zur fortlaufenden Nachführung der Gefährdungsanalyse,
 - e) Sicherstellung der Einsatzbereitschaft und der Einsatzfähigkeit der Führungsorgane,
-- f) Sicherstellung der Alarmierung und der Einsatzbereitschaft des Kantonalen Führungsstabes (KFS),
+- f) Sicherstellung der Einsatzbereitschaft sowie des Aufgebots des Kantonalen Führungsstabs (KFS),
 - g) Festlegung der Führungsstandorte des KFS,
 - h) Unterhalt und Betrieb des geschützten Führungsstandortes der Regierung und des KFS,
 - i) Organisation, Durchführung und Koordination der Aus- und Weiterbildung der Führungsorgane sowie der kantonalen Einsatzleitenden,
 - k) Sicherstellung der personellen und finanziellen Mittel für die Aus- und Weiterbildungen,
 - l) Koordination der Aus- und Weiterbildung des Bundes für die Partner des Bevölkerungsschutzes,
 - m) …
-- n) Aufgaben der Kantone im Bereich des Schutzes vor erhöhter Radioaktivität gemäss Art. 135, 193 und 194 der Strahlenschutzverordnung (StSV) vom 26. April 2017[^2-1].
+- n) Sicherstellung der Aufgabenerfüllung der Kantone im Bereich des Schutzes vor erhöhter Radioaktivität gemäss Art. 135, 193 und 194 der Strahlenschutzverordnung (StSV) vom 26. April 2017[^2-1].
 
 [^2-1]: SR [814.501](https://db.clex.ch/link/Bund/814.501/de)
 
@@ -77,9 +77,9 @@ beschliesst:
 
 **Kantonaler Führungsstab**
 
-<sup>1</sup> Struktur und Grösse des KFS ergeben sich aus Anhang 2.
+<sup>1</sup> Das Departement Gesundheit und Soziales legt Struktur und Grösse des KFS fest.
 
-<sup>2</sup> Für die Mitglieder des KFS, für die durch den KFS aufgebotenen Angehörigen der Staatsverwaltung und der selbständigen staatlichen Institutionen sowie für extern beigezogene Spezialisten wird eine Unfall- und Haftpflichtversicherung abgeschlossen. Der Vollzug erfolgt durch die AMB.
+<sup>2</sup> Für die Angehörigen des KFS, für die durch den KFS aufgebotenen Angehörigen der Staatsverwaltung und der selbständigen staatlichen Institutionen sowie für extern beigezogene Spezialisten wird eine Unfall- und Haftpflichtversicherung abgeschlossen. Der Vollzug erfolgt durch die AMB.
 
 <sup>3</sup> Der KFS kann aufgeboten werden durch
 
@@ -87,13 +87,13 @@ beschliesst:
 - b) den Regierungsrat,
 - c) die Vorsteherin oder den Vorsteher des Departements Gesundheit und Soziales,
 - d) die Kommandantin oder den Kommandanten der Kantonspolizei, die Stellvertretung oder den Pikettoffizier,
-- e) die Chefin beziehungsweise den Chef oder die Stabschefin beziehungsweise den Stabschef des KFS oder die Einsatzleiterin beziehungsweise den Einsatzleiter des KFS,
+- e) die Chefin oder den Chef des KFS und deren oder dessen Stellvertretung,
 - f) die Einsatzleitung,
-- g) die Regionalen Führungsorgane (RFO). Diese haben das Aufgebot bei der Chefin beziehungsweise dem Chef des KFS zu beantragen.
+- g) die Regionalen Führungsorgane (RFO). Diese haben das Aufgebot über die Pikettdienstleistenden des KFS bei der Chefin oder dem Chef des KFS respektive bei deren oder dessen Stellvertretung zu beantragen.
 
-<sup>4</sup> Der KFS stellt seine Erreichbarkeit, rasche Einsatzbereitschaft und Stellvertretungen sicher. Er muss über die kantonale Alarmstelle aufgeboten werden können.
+<sup>4</sup> Der KFS stellt seine Erreichbarkeit, rasche Einsatzbereitschaft und Stellvertretungen sicher. Er muss über die Kantonale Notrufzentrale (KNZ) aufgeboten werden können.
 
-<sup>5</sup> Die Mitglieder des KFS haben jedem Aufgebot für Einsätze und Ausbildungen Folge zu leisten.
+<sup>5</sup> Die Angehörigen des KFS haben jedem Aufgebot für Einsätze, Ausbildungen und Rapporte Folge zu leisten.
 
 <sup>6</sup> Sofortmassnahmen zur Hilfeleistung bis zum Betrag von Fr. 250'000.– pro Ereignis kann der KFS in eigener Kompetenz beschliessen. Er hat dem Regierungsrat darüber Rechenschaft abzulegen und Antrag auf Kompensation zu stellen.
 
@@ -116,11 +116,11 @@ beschliesst:
 
 #### § 5
 
-**Kantonales Katastrophen Einsatzelement**
+**Kantonales Katastrophen-Einsatzelement**
 
-<sup>1</sup> Struktur und Grösse des Kantonalen Katastrophen Einsatzelementes (KKE) ergeben sich aus Anhang 3. Die AMB wählt die Kommandantin oder den Kommandanten des KKE.
+<sup>1</sup> Das Departement Gesundheit und Soziales legt Struktur und Grösse des Kantonalen Katastrophen-Einsatzelements (KKE) fest.
 
-<sup>2</sup> Das KKE wird durch den Regierungsrat oder den KFS aufgeboten. Das Personal der mobilen Sanitätshilfsstellen sowie des Care-Teams Aargau als Teile des KKE kann auch von den zuständigen Alarmstellen aufgeboten werden.
+<sup>2</sup> Das KKE wird durch den Regierungsrat oder durch die Chefin oder den Chef des KFS, deren oder dessen Stellvertretung sowie durch die KNZ aufgeboten. Die Chefin oder der Chef des KFS regelt mittels Weisung die Kompetenz zur differenzierten Aufbietung des KKE.
 
 <sup>3</sup> Zivilschutz- und Koordinationsstelle für das KKE ist die AMB.
 
@@ -128,15 +128,17 @@ beschliesst:
 
 #### § 5a
 
-**Entschädigung KKE-Mitglieder**
+**Entschädigung der Angehörigen des KKE**
 
-<sup>1</sup> Mitglieder des KKE, die keinen Anspruch auf eine Entschädigung gemäss Bundesgesetz über den Erwerbsersatz für Dienstleistende und bei Mutterschaft (Erwerbsersatzgesetz, EOG) vom 25. September 1952[^5a-1] haben, erhalten für den Besuch von Aus- und Weiterbildungen eine Pauschale von Fr. 240.– pro Tag. Verpflegungs- und Fahrkosten werden nicht separat entschädigt.
+<sup>1</sup> Angehörige des KKE, die keinen Anspruch auf eine Entschädigung gemäss Bundesgesetz über den Erwerbsersatz für Dienstleistende und bei Mutterschaft (Erwerbsersatzgesetz, EOG) vom 25. September 1952[^5a-1] haben, erhalten für den Besuch von Aus- und Weiterbildungen eine Pauschale von Fr. 240.– pro Tag. Verpflegungs- und Fahrkosten werden nicht separat entschädigt.
 
-<sup>2</sup> Mitglieder des KKE erhalten für Ernstfalleinsätze zusätzlich zur Entschädigung gemäss dem Erwerbsersatzgesetz oder zur Pauschale von Fr. 240.– pro Tag eine Entschädigung für entstandene Verpflegungs- und Fahrkosten gemäss dem Dekret über Spesen, Sitzungsgelder und übrige Entschädigungen.
+<sup>2</sup> Angehörige des KKE erhalten für Ernstfalleinsätze zusätzlich zur Entschädigung gemäss dem Erwerbsersatzgesetz oder zur Pauschale von Fr. 240.– pro Tag eine Entschädigung für entstandene Verpflegungs- und Fahrkosten gemäss dem Dekret über Spesen, Sitzungsgelder und übrige Entschädigungen.
 
-<sup>3</sup> Nicht der kantonalen Verwaltung angehörige Teilnehmende von Sitzungen der Führung des KKE, des Care-Teams Aargau oder der Samariterleiterfunktionäre erhalten pro aufgewendete Stunde eine Entschädigung von Fr. 30.–. Nach demselben Ansatz werden die vom Kommandanten des KKE angeordneten Arbeiten entschädigt. Verpflegungs- und Fahrkosten werden separat gemäss dem Dekret über Spesen, Sitzungsgelder und übrige Entschädigungen entschädigt.
+<sup>3</sup> Nicht der kantonalen Verwaltung angehörige Teilnehmende von Sitzungen der Führung des KKE, des Care-Teams Aargau oder der Sanität KKE erhalten pro aufgewendete Stunde eine Entschädigung von Fr. 30.–. Nach demselben Ansatz werden die von der Kommandantin oder vom Kommandanten des KKE angeordneten Arbeiten entschädigt. Verpflegungs- und Fahrkosten werden separat gemäss dem Dekret über Spesen, Sitzungsgelder und übrige Entschädigungen entschädigt.
 
 <sup>4</sup> Die Figurantinnen und Figuranten, die an einer Aus- und Weiterbildung des KKE gemäss den §§ 5 und 11 BZG-AG teilnehmen, erhalten eine Pauschalentschädigung von Fr. 60.–. Verpflegungs- und Fahrkosten werden nicht separat entschädigt.
+
+<sup>5</sup> Angehörige des Care-Teams Aargau erhalten für Ernstfalleinsätze und deren Nachbearbeitung neben einer Entschädigung gemäss dem Erwerbsersatzgesetz und einem Sold gemäss Funktion zusätzlich eine Pauschale von Fr. 30.– pro geleisteten Care-Einsatz.
 
 [^5a-1]: SR [834.1](https://db.clex.ch/link/Bund/834.1/de)
 
@@ -154,11 +156,45 @@ beschliesst:
 
 #### § 6a
 
-**Betreiber kritischer Infrastrukturen**
+**Kritische Infrastrukturen**
 
-<sup>1</sup> Auf Antrag der Betreiber kritischer Infrastrukturen kann die AMB Einsatzgrundlagen erstellen sowie Aus- und Weiterbildungen anbieten.
+<sup>1</sup> …
 
-<sup>2</sup> Den Auftraggebern werden die Leistungen nach Aufwand, auf der Basis einer Vollkostenrechnung, verrechnet. Auf der Basis einer Kostenberechnung kann auch eine Pauschale vereinbart werden.
+<sup>1<sup>bis</sup></sup> Die kantonale Koordinationsstelle für den Bevölkerungsschutz amtet als kantonale Zentralstelle für den Schutz kritischer Infrastrukturen.
+
+<sup>2</sup> Die Betreiber kritischer Infrastrukturen können bei Bedarf von der kantonalen Zentralstelle für den Schutz kritischer Infrastrukturen zur Ausbildung aufgeboten werden. Die kantonale Zentralstelle für den Schutz kritischer Infrastrukturen übernimmt daraus schliessende Kosten.
+
+<sup>3</sup> Der Bedarfsfall für die Pflicht zur Teilnahme an einer Ausbildung wird durch die aktuelle Bedrohungslage oder eine Veränderung der kantonalen Gefährdungslage definiert.
+
+<sup>4</sup> Den Betreibern kantonal relevanter kritischer Infrastrukturen werden zusätzliche Leistungen nach Aufwand, auf der Basis einer Vollkostenrechnung, verrechnet. Auf der Basis einer Kostenberechnung kann auch eine Pauschale vereinbart werden.
+
+<sup>5</sup> Die Betreiber kantonal relevanter kritischer Infrastrukturen sind verpflichtet, die Änderung der für die Erfassung in der Zentraldatenbank erforderlichen Daten innert nützlicher Frist an die kantonale Zentralstelle für den Schutz kritischer Infrastrukturen zu melden.
+
+<sup>6</sup> Die kantonale Zentralstelle für den Schutz kritischer Infrastrukturen regelt die Einsatzbereitschaft der kantonal relevanten kritischen Infrastrukturen gegenüber den Betreibern.
+
+#### § 6b
+
+**ABC-Koordination**
+
+<sup>1</sup> Die kantonale Koordinationsstelle für den Bevölkerungsschutz amtet als kantonale Koordinationsstelle für das ABC-Wesen.
+
+<sup>2</sup> Die kantonale Koordinationsstelle für den Bevölkerungsschutz stellt eine ABC-Koordinatorin oder einen ABC-Koordinator.
+
+<sup>3</sup> Die kantonale Koordinationsstelle für den Bevölkerungsschutz ernennt in Absprache mit der Aargauischen Gebäudeversicherung (AGV), der Abteilung für Umwelt (AfU), der Abteilung Gesundheit (GSH) und dem Amt für Verbraucherschutz (AVS) des Kantons geeignete Fachkoordinatorinnen und Fachkoordinatoren zur Unterstützung der ABC-Koordinatorin oder des ABC-Koordinators. Sie regelt deren Zusammenarbeit mit einer Weisung.
+
+<sup>4</sup> Die Entschädigung der nicht beim Kanton angestellten Fachkoordinatorinnen und Fachkoordinatoren erfolgt gemäss dem Dekret über Spesen, Sitzungsgelder und übrige Entschädigungen.
+
+<sup>5</sup> Die Koordinationsstelle für das ABC-Wesen führt Absprachen durch, trägt Entscheidungsgrundlagen zusammen und erarbeitet bei Bedarf kantonale Richtlinien in Absprache mit den zuständigen Stellen und unter Wahrung ihrer Zuständigkeiten:
+
+- a) zur Führung des ABC-Einsatzes, soweit nicht bereits durch Erlass geregelt,
+- b) zur Beendigung von ABC-Einsätzen, namentlich zum Übergang in die Linienstruktur,
+- c) zur Notfallplanung von Betreuungs- und Pflegeeinrichtungen, sowie Schulen und Spitälern,
+- d) zu Aspekten des Rettungswesens, der Seuchenbewältigung, der tier- und humanmedizinischen Versorgung einschliesslich Dekontamination und medizinischer Notversorgung,
+- e) zu Ausrüstung, Ausbildung und Übungen sowie zu konzeptionellen oder taktischen Fragen,
+- f) zu Vorsorgemassnahmen zum Schutz der Einsatzkräfte,
+- g) für die AfU, die GSH, die AGV und das AVS.
+
+<sup>6</sup> Für die Umsetzung der Richtlinien, insbesondere die Vorbereitung auf ABC-Einsätze und deren Bewältigung sowie für die Sicherheit ihrer Einsatzkräfte, sind die betroffenen Organisationen im Rahmen ihrer regulären Zuständigkeiten verantwortlich. Diese betreffen insbesondere die Durchführung der Ausbildung, die Beschaffung der Ausrüstung und die Kostentragung.
 
 ### 2.2. Verantwortung und Aufgaben der Gemeinden
 
@@ -175,46 +211,49 @@ beschliesst:
 - e) Bereitstellung eines Hauptführungsstandortes und weiterer, den Bedürfnissen der Bevölkerungsschutzregion entsprechend notwendiger Führungsstandorte,
 - f) Überwachung der Arbeit des RFO,
 - g) Sicherstellung der Aus- und Weiterbildung des RFO nach Vorgaben des Kantons,
-- h) Sicherstellung der Alarmierung und Einsatzbereitschaft des RFO,
+- h) Sicherstellung des Aufgebots und der Einsatzbereitschaft des RFO,
 - i) Regelung der Entschädigung der Mitglieder des RFO,
-- j) Bezeichnung der Infostellen für die Notkommunikation und Evakuation in Zusammenarbeit mit den RFO gemäss Vorgaben der AMB und Bekanntmachung bei der Bevölkerung.
+- j) Bezeichnung der Notfalltreffpunkte für die Notkommunikation, Evakuation sowie die Unterstützung der Mobilmachung der Armee in Zusammenarbeit mit den RFO gemäss Vorgaben des für den Bevölkerungsschutz zuständigen kantonalen Organs und Bekanntmachung bei der Bevölkerung.
 
 #### § 8
 
 **Regionale Führungsorgane**
 
-<sup>1</sup> Die Gemeinderäte oder die von ihnen bezeichnete Koordinationsstelle wählen die Mitglieder des RFO.
+<sup>1</sup> Die Gemeinderäte oder die von ihnen für die Bevölkerungsschutzregion bezeichnete Koordinationsstelle wählen die Angehörigen des RFO.
 
-<sup>2</sup> Für die Mitglieder des RFO und für die durch das RFO im Einsatz zusätzlich aufgebotenen Spezialistinnen und Spezialisten ist eine Unfall- und Haftpflichtversicherung abzuschliessen.
+<sup>2</sup> Für die Angehörigen des RFO und für die durch das RFO im Einsatz zusätzlich aufgebotenen Spezialistinnen und Spezialisten ist durch das für den Bevölkerungsschutz in der Gemeinde zuständige Organ eine Unfall- und Haftpflichtversicherung abzuschliessen.
 
 <sup>3</sup> Die RFO können aufgeboten werden durch
 
 - a) die Vorsteherin oder den Vorsteher des Departements Gesundheit und Soziales,
 - b) den KFS,
-- c) die Kommandantin oder den Kommandanten der Kantonspolizei, die Stellvertretung oder den Pikettoffizier,
-- d) die Chefin beziehungsweise den Chef oder die Stabschefin beziehungsweise den Stabschef des RFO und die Einsatzleiterin beziehungsweise den Einsatzleiter des KFS,
+- c) die Kommandantin oder den Kommandanten der Kantonspolizei, die Stellvertretung oder die Pikettoffizierin oder den Pikettoffizier,
+- d) die Chefin beziehungsweise den Chef oder die Stabschefin beziehungsweise den Stabschef des RFO,
 - e) die Einsatzleitung,
-- f) die Gemeinderäte der betreffenden Region.
+- f) die Gemeinderäte der betreffenden Region,
+- g) die in der Bevölkerungsschutzregion bezeichnete Koordinationsstelle für den Bevölkerungsschutz.
 
-<sup>4</sup> Die RFO stellen ihre Erreichbarkeit, rasche Einsatzbereitschaft und Stellvertretungen sicher. Sie müssen über die Kantonale Alarmstelle aufgeboten werden können. Die Kosten tragen die Regionen.
+<sup>4</sup> Die RFO stellen ihre rasche Einsatzbereitschaft und Einsatzfähigkeit sicher. Sie müssen über die KNZ aufgeboten werden können. Die Kosten tragen die Regionen.
 
-<sup>5</sup> Die Mitglieder der RFO haben jedem Aufgebot für Einsätze und Ausbildungen Folge zu leisten.
+<sup>5</sup> Die Angehörigen der RFO haben jedem Aufgebot für Einsätze und Ausbildungen Folge zu leisten.
 
-<sup>6</sup> Bei einem Ernsteinsatz haben die RFO die Einsatzzentrale der Kantonspolizei zu informieren und ihre Verbindung sicherzustellen. Die Einsatzzentrale der Kantonspolizei ihrerseits informiert den KFS über ein solches Aufgebot.
+<sup>6</sup> Bei einem Einsatz haben die RFO die KNZ und den KFS zu informieren und ihre Verbindung sicherzustellen.
 
-<sup>7</sup> Den RFO ist die Führungsunterstützung ihrer Zivilschutzorganisationen (ZSO) für Einsätze und Übungen unterstellt. Die Übungseinsätze müssen mit dem Zivilschutzkommando frühzeitig abgesprochen und koordiniert werden.
+<sup>7</sup> Die Zivilschutzorganisationen (ZSO) stellen ihrem jeweiligen RFO die für das RFO vorgesehene Führungsunterstützung für Einsätze und Übungen zur Verfügung. Die Übungseinsätze müssen mit dem Zivilschutzkommando im Rahmen der Jahresplanung der ZSO abgesprochen und koordiniert werden.
 
 <sup>8</sup> …
+
+<sup>9</sup> Wenn das RFO im Auftrag der Gemeinden oder der für die Bevölkerungsschutzregion bezeichneten Koordinationsstelle für den Bevölkerungsschutz im Einsatz ist, sind die regionalen Partner des Bevölkerungsschutzes dem RFO unterstellt. Das RFO kann in diesem Zusammenhang Aufträge erteilen.
 
 #### § 8a
 
 **Information und Koordination**
 
-<sup>1</sup> Bei Grossereignissen, Katastrophen und Notlagen informiert die Einsatzleiterin oder der Einsatzleiter das zuständige RFO lagegerecht.
+<sup>1</sup> Bei Grossereignissen, Katastrophen und Notlagen informiert die Einsatzleitung das zuständige RFO lagegerecht.
 
-<sup>2</sup> Die RFO setzen gemeinsam mit den ZSO die Leistungsaufträge und Leistungsprofile um. Sie berücksichtigen dabei die Vorgaben der AMB.
+<sup>2</sup> Die Koordination und die Überwachung der Umsetzung von partnerübergreifenden Leistungsaufträgen des Bevölkerungsschutzes und Dritten obliegen den zuständigen RFO. Sie berücksichtigen dabei die Vorgaben der kantonalen Koordinationsstelle für den Bevölkerungsschutz.
 
-<sup>3</sup> Die Koordination und die Überwachung der Umsetzung der Leistungsaufträge und Leistungsprofile des Zivilschutzes mit den Partnerorganisationen des Bevölkerungsschutzes und Dritten obliegen dem zuständigen RFO.
+<sup>3</sup> …
 
 #### § 8b
 
@@ -230,11 +269,90 @@ beschliesst:
 
 <sup>5</sup> Vor der Übernahme und bei der Rückgabe wird je ein Protokoll erstellt.
 
-<sup>6</sup> Die Kosten der Instandstellung oder Wiederbeschaffung der beschlagnahmten Mittel haben der KFS oder die RFO zu tragen.
+<sup>6</sup> Die Kosten der Wartung, der Instandsetzung oder der Wiederbeschaffung der beschlagnahmten Mittel haben der KFS oder die RFO zu tragen.
 
 <sup>7</sup> Die Versicherung der beschlagnahmten Mittel ist Sache des beschlagnahmenden Organs.
 
 [^8b-1]: SAR [515.200](https://gesetzessammlungen.ag.ch/data/515.200/de)
+
+#### § 8c
+
+**Obligatorische Sicherheitsveranstaltung Bevölkerungsschutz a) Aufgebot**
+
+<sup>1</sup> Die Teilnahme an der obligatorischen Sicherheitsveranstaltung gilt als Amtstermin.
+
+<sup>2</sup> Die in der Region für den Bevölkerungsschutz zuständige Koordinationsstelle bezeichnet eine administrative und eine durchführende Stelle.
+
+<sup>3</sup> Das Aufgebot zur Teilnahme an der Sicherheitsveranstaltung hat durch die administrative Stelle spätestens sechs Wochen vor der Veranstaltung zu erfolgen.
+
+<sup>4</sup> Die Teilnahmepflichtigen sind im offiziellen Publikationsorgan der Gemeinde über die obligatorische Sicherheitsveranstaltung vorzuorientieren.
+
+<sup>5</sup> Die kantonale Koordinationsstelle für den Bevölkerungsschutz bezieht aus dem kantonalen Einwohnerregister die zur Erstellung der Aufgebote der Sicherheitsveranstaltung notwendigen Daten, bereinigt diese und stellt sie mit einer Aufgebotsvorlage den administrativen Stellen der Bevölkerungsschutzregionen zur Verfügung.
+
+<sup>6</sup> Eine freiwillige Teilnahme an der Sicherheitsveranstaltung ist möglich.
+
+<sup>7</sup> Die Unfall- und Haftpflichtversicherung ist Sache der Teilnahmepflichtigen, was auf dem Aufgebot festzuhalten ist.
+
+#### § 8d
+
+**Obligatorische Sicherheitsveranstaltung Bevölkerungsschutz b) Ausnahmen von der Teilnahmepflicht**
+
+<sup>1</sup> Von der Teilnahme ausgenommen sind Personen mit einem Invaliditätsgrad ab 40% und Frauen, die freiwillig den Orientierungstag besucht haben.
+
+<sup>2</sup> Personen, die nur vorübergehend aufgrund von Unfall, Krankheit oder Schwangerschaft verhindert sind oder die einen Auslandsaufenthalt mit zivilrechtlicher Abmeldung absolvieren, können die Teilnahme unter Vorlage eines entsprechenden Zeugnisses oder Nachweises um maximal ein Jahr verschieben.
+
+<sup>3</sup> Die kantonale Koordinationsstelle für den Bevölkerungsschutz legt fest, unter welchen Voraussetzungen die Teilnahmepflichtigen ihre Teilnahme an der Sicherheitsveranstaltung unter Vorlage eines Zeugnisses oder Nachweises um maximal ein Jahr verschieben oder sich von einer Teilnahme befreien lassen können.
+
+#### § 8e
+
+**Obligatorische Sicherheitsveranstaltung Bevölkerungsschutz c) Massnahmen bei Nicht-Erscheinen**
+
+<sup>1</sup> Wer an der Sicherheitsveranstaltung erstmalig unentschuldigt nicht teilnimmt, wird durch die administrative Stelle aufgefordert, die Gründe für die Absenz zu erläutern.
+
+<sup>2</sup> Kommt die teilnahmepflichtige Person dieser Aufforderung nicht nach oder legt sie keine für eine Dispensation berechtigten Ausnahmegründe gemäss § 8d dar, wird sie von der zuständigen Stelle verwarnt und neu aufgeboten.
+
+<sup>3</sup> Bei einem wiederholten widerrechtlichen Nichteinrücken wird die teilnahmepflichtige Person bei der zuständigen Staatsanwaltschaft angezeigt und nicht mehr aufgeboten.
+
+#### § 8f
+
+**Obligatorische Sicherheitsveranstaltung Bevölkerungsschutz d) Durchführung und Inhalt der Veranstaltung**
+
+<sup>1</sup> Die Sicherheitsveranstaltung dauert drei bis fünf Stunden.
+
+<sup>2</sup> Sie wird in der Bevölkerungsschutzregion des Wohnorts der Teilnahmepflichtigen durchgeführt.
+
+<sup>3</sup> RFO, Polizei, Feuerwehr, ZSO und das Gesundheitswesen sind verpflichtet, an der Sicherheitsveranstaltung teilzunehmen und diese zu unterstützen.
+
+<sup>4</sup> Die in der Region für den Bevölkerungsschutz zuständige Koordinationsstelle legt mit den Partnern des Bevölkerungsschutzes deren Teilnahme an der Sicherheitsveranstaltung fest.
+
+<sup>5</sup> Die Koordinationsstellen für die Bevölkerungsschutzregionen regeln den Einsatz und die Entschädigung der jeweiligen nebenamtlichen Kursleiterin oder des jeweiligen nebenamtlichen Kursleiters sowie der nebenamtlichen Moderatorinnen und Moderatoren.
+
+<sup>6</sup> Die kantonale Koordinationsstelle für den Bevölkerungsschutz unterstützt die Durchführung der Veranstaltung mit folgenden Aufgaben:
+
+- a) erforderliche Aus- und Weiterbildung der Kursleitung sowie der Moderatorinnen und Moderatoren,
+- b) einheitliche Unterlagen zur Veranstaltung,
+- c) Weisungen zur Durchführung und Administration der Veranstaltung.
+
+<sup>7</sup> Die Kantonspolizei sowie die Abteilung Feuerwehrwesen der AGV unterstützen die kantonale Koordinationsstelle für den Bevölkerungsschutz bei der Erarbeitung von einheitlichen Unterlagen.
+
+<sup>8</sup> An der Sicherheitsveranstaltung erläutern die Partner des Bevölkerungsschutzes sowie allfällige weitere Organisationen insbesondere folgende Themen:
+
+- a) Sicherheit im Alltag und Verhalten bei Gewalt,
+- b) Aufgaben, Verantwortlichkeiten und Einsatz der Partner des Bevölkerungsschutzes,
+- c) Chancen und Möglichkeiten der Mitwirkung,
+- d) sicherheitspolitische Mittel des Bundes.
+
+#### § 8g
+
+**Obligatorische Sicherheitsveranstaltung Bevölkerungsschutz e) Kosten und Entschädigung**
+
+<sup>1</sup> Die Kosten für die Durchführung der Sicherheitsveranstaltung tragen die Bevölkerungsschutzregionen. Ausgenommen davon sind Kosten, die mehr als eine Bevölkerungsschutzregion betreffen, insbesondere solche Kosten, die nicht einer einzelnen Veranstaltung zugerechnet werden können. Die kantonale Koordinationsstelle für den Bevölkerungsschutz regelt die Details.
+
+<sup>2</sup> Die Kosten für den eigenen Arbeitsaufwand und Materialien tragen die Partnerorganisationen vollumfänglich selbst.
+
+<sup>3</sup> Angehörige des Zivilschutzes werden gemäss Bundesgesetzgebung über die Erwerbsersatzordnung entschädigt und können für die Vorbereitung, Durchführung und Nachbearbeitung aufgeboten werden.
+
+<sup>5</sup> Die Teilnahmepflichtigen erhalten eine Zwischenverpflegung.
 
 ### 2.3. Aufgaben und Verantwortung der Partnerorganisationen
 
@@ -248,13 +366,13 @@ beschliesst:
 
 **Ereignisse mit grossem Patientenanfall**
 
-<sup>1</sup> Die Bewältigung eines Ereignisses mit grossem Patientenanfall baut auf den Strukturen des Alltagsrettungswesens auf und basiert auf der Sanitätsnotrufszentrale SNZ 144.
+<sup>1</sup> Die Bewältigung eines Ereignisses mit grossem Patientenanfall baut auf den Strukturen des Alltagsrettungswesens auf und basiert auf der Sanitätsnotrufzentrale SNZ 144.
 
 #### § 11
 
 **Verantwortlichkeiten des Kantons**
 
-<sup>1</sup> Dem KAD obliegt die sanitätsdienstliche Vorbereitung auf Ereignisse mit grossem Patientenanfall. Grundlagen bilden die Richtlinien des Interverbandes für Rettungswesen (IVR)[^11-1] und das Konzept KSD 96[^11-2] des Bundes.
+<sup>1</sup> Dem KAD obliegt die sanitätsdienstliche Vorbereitung auf Ereignisse mit grossem Patientenanfall. Grundlagen bilden die Richtlinien des Interverbandes für Rettungswesen (IVR)[^11-1] und die Vorgaben des Koordinierten Sanitätsdienstes (KSD) des Bundes.
 
 <sup>2</sup> Bei Ereignissen mit grossem Patientenanfall stellt der KAD den öffentlichen Rettungsdiensten zusätzliches Material zur Verfügung.
 
@@ -265,7 +383,6 @@ beschliesst:
 <sup>3</sup> Der KAD erlässt die erforderlichen Weisungen zur psychologischen Betreuung von verletzten und unverletzten Betroffenen.
 
 [^11-1]: Richtlinien zur Organisation des Sanitätsdienstes bei Grossereignissen und Katastrophen ([www.ivr.ch](http://www.ivr.ch))
-[^11-2]: Konzept 96; Koordinierter Sanitätsdienst vom 26. März 1997 (1996 d) ([www.vbs.admin.ch](http://www.vbs.admin.ch))
 
 #### § 12
 
@@ -295,9 +412,9 @@ beschliesst:
 
 **Koordinierter Sanitätsdienst**
 
-<sup>1</sup> Die AMB erstellt das Dispositiv für die Schutzanlagen und Einrichtungen des Koordinieren Sanitätsdienstes (KSD).
+<sup>1</sup> Die kantonale Koordinationsstelle für den Zivilschutz erstellt das Dispositiv für die Schutzanlagen und Einrichtungen des KSD.
 
-<sup>2</sup> Jede Gemeinde wird nach Anhörung einer sanitätsdienstlichen Anlage zugewiesen.
+<sup>2</sup> Jede Gemeinde wird im Rahmen der bundesrechtlichen Vorgaben einer sanitätsdienstlichen Anlage zugewiesen.
 
 #### § 15
 
@@ -309,7 +426,7 @@ beschliesst:
 
 **Geschützte Spitäler**
 
-<sup>1</sup> Bereitstellung, Betrieb und Unterhalt der geschützten Spitäler obliegt den Spitälern und sind nach den Vorgaben der AMB auszuführen. Für den Unterhalt kann das Spital bei der AMB Personal des Zivilschutzes beantragen.
+<sup>1</sup> Bereitstellung, Betrieb und Unterhalt der geschützten Spitäler obliegen den Spitälern und sind nach den Vorgaben des BABS und der kantonalen Koordinationsstelle für den Zivilschutz auszuführen.
 
 <sup>2</sup> Für die Nutzung der geschützten Spitäler wird mit den Spitälern eine Nutzungsvereinbarung abgeschlossen.
 
@@ -323,70 +440,67 @@ beschliesst:
 
 **Strukturen und Mittel**
 
-<sup>1</sup> Koordinationsstelle des Zivilschutzes ist die AMB.
+<sup>1</sup> Die AMB amtet als kantonale Koordinationsstelle für den Zivilschutz.
 
-<sup>2</sup> Die Grundstrukturen des Zivilschutzes werden in drei Organisationstypen festgelegt:
-
-- a) Typ 1: bis 30'000 Einwohnerinnen und Einwohner,
-- b) Typ 2: 30'000 bis 60'000 Einwohnerinnen und Einwohner,
-- c) Typ 3: über 60'000 Einwohnerinnen und Einwohner.
+<sup>2</sup> …
 
 <sup>2<sup>bis</sup></sup> ZSO bis 60'000 Einwohnerinnen und Einwohner erhalten eine Kompaniestruktur. Grössere ZSO erhalten eine Bataillonsstruktur.
 
-<sup>3</sup> Die Fachbereiche und Formationen, die minimalen Bestandeszahlen und die Mittel ergeben sich aus Anhang 4.
+<sup>3</sup> …
 
-<sup>4</sup> Die AMB legt die Grundleistungsaufträge, die zusätzlichen Leistungsaufträge, das Aufgebot und die Alarmierung, die Leistungsprofile des Zivilschutzes und die Fristen für die Umsetzung in einer Weisung fest.
+<sup>4</sup> Die kantonale Koordinationsstelle für den Zivilschutz legt die Leistungsprofile, die Grundleistungsaufträge sowie die Vorgaben für das Aufgebot und das Alarmaufgebot des Zivilschutzes mittels Weisungen fest. Diese sind durch die ZSO zu konkretisieren und umzusetzen.
 
-<sup>5</sup> Das in der Region für den Zivilschutz zuständige Organ, das RFO sowie die ZSO können zusätzliche Leistungsaufträge mit den Partnerorganisationen des Bevölkerungsschutzes und Dritten vereinbaren.
+<sup>5</sup> Die in der Region zuständige Koordinationsstelle für den Bevölkerungsschutz kann zusätzliche Leistungsaufträge mit den Partnerorganisationen des Bevölkerungsschutzes und Dritten vereinbaren.
 
 #### § 18
 
-**Zusätzliche Aufgaben des Zivilschutzes**
-
-<sup>1</sup> Der Zivilschutz erfüllt als Partnerorganisation des Bevölkerungsschutzes insbesondere folgende zusätzliche Aufgaben:
-
-- a) Bereitstellung der Schutzinfrastruktur und der Mittel zur Alarmierung der Bevölkerung,
-- b) Beschaffung und Bereitstellung des Materials für die Bewältigung von Grossereignissen, Katastrophen und Notlagen.
+**…**
 
 #### § 18a
 
 **Materialbeschaffung**
 
-<sup>1</sup> Die Beschaffung von Material erfolgt aufgrund der Vorgaben von Bund und Kanton sowie auf der Basis der Leistungsaufträge und Leistungsprofile.
+<sup>1</sup> Die Beschaffung von standardisiertem Material erfolgt aufgrund der Vorgaben des Bundes und der kantonalen Koordinationsstelle für den Zivilschutz sowie auf der Basis der Leistungsaufträge und Leistungsprofile.
 
-<sup>2</sup> Für die Erarbeitung von Materialbedürfnissen sowie für die Koordination der Materialbeschaffung wird eine paritätische Arbeitsgruppe mit vier Vertretenden der AMB, drei Vertretenden der ZSO sowie einer Vertretung des Aargauischen Zivilschutzverbandes gebildet. Den Vorsitz übernimmt die AMB.
+<sup>2</sup> …
 
-<sup>3</sup> Der Aufwand für die Koordination der Materialbeschaffung wird verrechnet, wenn
+<sup>3</sup> Der Aufwand für die Evaluation, Beschaffung und Entsorgung des standardisierten Zivilschutzmaterials wird verrechnet, wenn
 
 - a) spezielles Material von einer Minderheit der ZSO benötigt wird,
 - b) der Aufwand für die Abklärungen den normalen Rahmen von zwei Arbeitstagen pro Produkt überschreitet,
 - c) umfangreiche Materialtests erforderlich sind,
 - d) für die Abklärungen eine externe Beratung beigezogen werden muss.
 
-<sup>4</sup> Das Material des Zivilschutzes wird in der Zentralen Datenbank Zivilschutz verwaltet. Die Kostenanteile für Lizenz- und Wartungsgebühren, Erweiterungen, Softwareanpassungen, Betrieb und Unterhalt werden zwischen der AMB und den ZSO im Verhältnis der Nutzung aufgeteilt und in einem Nutzungsvertrag geregelt.
+<sup>4</sup> Das Material des Zivilschutzes wird in der zentralen Datenbank Zivilschutz verwaltet. Die Kostenanteile für Lizenz- und Wartungsgebühren, Erweiterungen, Softwareanpassungen, Betrieb und Unterhalt werden zwischen der kantonalen Koordinationsstelle für den Zivilschutz und den ZSO im Verhältnis der Nutzung aufgeteilt und in einem Nutzungsvertrag geregelt. Die Informatikkosten können im Rahmen der bundesrechtlichen Vorgaben über Ersatzbeiträge verrechnet werden.
 
-<sup>5</sup> Das Spezialmaterial des Bevölkerungsschutzes wird im Modul Material der Zentralen Datenbank Zivilschutz erfasst. Dem KFS und den RFO wird der Zugang gewährt. Über weitere Zugangsberechtigungen entscheidet die AMB. Die Datenverwaltung und die Datenaktualisierung erfolgen durch die AMB mit Unterstützung des KFS und der RFO. Die Koordination und Umsetzung werden durch Weisung geregelt.
+<sup>5</sup> …
+
+<sup>6</sup> Die kantonale Koordinationsstelle für den Zivilschutz kann für die Reparatur des Materials des Zivilschutzes Leistungsverträge abschliessen.
 
 #### § 19
 
 **Einsätze bei Grossereignissen, Katastrophen und Notlagen**
 
-<sup>1</sup> Die Einsatzleitung, das RFO oder das in der Region für den Zivilschutz zuständige Organ erlässt die Aufgebote:
+<sup>1</sup> Die Einsatzleitung, das RFO oder das in der Region für den Zivilschutz zuständige Organ erlässt die Aufgebote für Einsätze bei Grossereignissen, Katastrophen und Notlagen sowie für Hilfeleistung im Rahmen der Nachbarschafts- und überregionalen Hilfe.
 
-- a) für Einsätze bei Grossereignissen, Katastrophen und Notlagen sowie Instandstellungsarbeiten im Rahmen der Hilfeleistung in der eigenen Region sowie für Hilfeleistung im Rahmen der Nachbarschafts- und überregionalen Hilfe,
-- b) zur Hilfeleistung in anderen Kantonen und im grenznahen Ausland. Diese werden von der AMB koordiniert.
+- a) …
+- b) …
+
+<sup>1<sup>bis</sup></sup> Die kantonale Koordinationsstelle für den Zivilschutz erlässt das Aufgebot für Einsätze und Hilfeleistungen in anderen Kantonen und im grenznahen Ausland.
 
 <sup>2</sup> Die aufbietende Stelle übernimmt grundsätzlich die Kosten für Einsätze vollumfänglich. Vorbehalten bleiben anderslautende Regelungen und Vereinbarungen.
 
 <sup>3</sup> Die aufbietende Stelle informiert die AMB über ein solches Aufgebot.
 
-<sup>4</sup> Das RFO kann Teile der Führungsunterstützung kurzfristig für Einsätze und Übungen aufbieten. Der Einsatz kann als wiederkehrende Dienstleistung abgerechnet werden, wobei pro Einsatz die Einsatzdauer mindestens zwei Stunden betragen muss.
+<sup>4</sup> …
+
+<sup>4<sup>bis</sup></sup> Die Angehörigen des Zivilschutzes dürfen im Rahmen der Wiederholungskurse für Alarmübungen ohne Voranzeige aufgeboten werden.
 
 <sup>5</sup> Bei hoher Dringlichkeit können folgende Organe den Zivilschutz aufbieten:
 
-- a) die Einsatzleiterin oder der Einsatzleiter,
+- a) die kantonale Einsatzleitung,
 - b) der KFS,
-- c) das RFO.
+- c) die kantonale Koordinationsstelle für den Zivilschutz.
 
 #### § 20
 
@@ -396,7 +510,9 @@ beschliesst:
 
 <sup>2</sup> Mit der Bewilligung legt die AMB die Rahmenbedingungen sowie Koordination und Leitung des Gemeinschaftseinsatzes fest.
 
-<sup>3</sup> Die Kosten für Sold, Transport, Verpflegung und allenfalls Unterkunft im Rahmen des Gemeinschaftseinsatzes gehen zu Lasten des Gesuchstellers.
+<sup>3</sup> Die Kosten für Sold, Transport, Verpflegung und allenfalls Unterkunft im Rahmen des Gemeinschaftseinsatzes werden dem Gesuchsteller im Rahmen der bundesrechtlichen Vorgaben verrechnet.
+
+<sup>3<sup>bis</sup></sup> Die Abrechnung erfolgt anhand der durch das Bundesamt für Bevölkerungsschutz (BABS) festgelegten Pauschalbeträge.
 
 <sup>4</sup> Erfordern Grossereignisse, Katastrophen und Notlagen den Einsatz von Schutzdienstpflichtigen, können die an Gemeinschaftseinsätzen eingesetzten Schutzdienstpflichtigen jederzeit und ohne Kostenfolge vom Auftrag entbunden werden.
 
@@ -406,14 +522,14 @@ beschliesst:
 
 <sup>1</sup> Die AMB ist zuständig für die Anzeigeerstattung bei Widerhandlungen:
 
-- a) gegen die Art. 68 und 69 des Bundesgesetzes über den Bevölkerungsschutz und den Zivilschutz (Bevölkerungs- und Zivilschutzgesetz, BZG) vom 4.Oktober 2002[^21-1] in den Bereichen der Grund-, Zusatz- und Kaderausbildung, der Weiterbildungskurse,
+- a) gegen die Art. 88 und 89 des Bundesgesetzes über den Bevölkerungsschutz und den Zivilschutz (Bevölkerungs- und Zivilschutzgesetz, BZG) vom 20. Dezember 2019[^21-1] in den Bereichen der Grund-, Zusatz- und Kaderausbildung, der Weiterbildungskurse,
 - b) gegen Art. 10 der Verordnung über die ärztliche Beurteilung der Schutzdienstpflichtigen (VABS) vom 5. Dezember 2003[^21-2].
 
-<sup>1<sup>bis</sup></sup> Der KFS ist zuständig für die Anzeigeerstattung bei Widerhandlungen gegen die Art. 68 und 69 BZG, wenn die Bevölkerung den verbindlichen Anordnungen des KFS bei Grossereignissen, Katastrophen, Notlagen, schweren Mangellagen und bewaffneten Konflikten nicht Folge leistet.
+<sup>1<sup>bis</sup></sup> Der KFS ist zuständig für die Anzeigeerstattung bei Widerhandlungen gegen die Art. 88 und 89 BZG, wenn die Bevölkerung den verbindlichen Anordnungen des KFS bei Grossereignissen, Katastrophen, Notlagen, schweren Mangellagen und bewaffneten Konflikten nicht Folge leistet.
 
 <sup>2</sup> Das in der Region für den Zivilschutz zuständige Organ ist zuständig für die Anzeigeerstattung bei Widerhandlungen
 
-- a) gegen die Art. 68 und 69 BZG während der von der ZSO durchgeführten Dienstanlässe,
+- a) gegen die Art. 88 und 89 BZG während der von der ZSO durchgeführten Dienstanlässe,
 - b) gegen Art. 10 VABS.
 
 [^21-1]: SR [520.1](https://db.clex.ch/link/Bund/520.1/de)
@@ -429,17 +545,19 @@ beschliesst:
 
 <sup>2</sup> Die AMB legt das Ausbildungsangebot fest, erlässt eine jährliche Kursübersicht und führt die Grund-, Zusatz-, Kader- und Weiterbildungskurse sowie entsprechenden Vorkurse durch.
 
+<sup>2<sup>bis</sup></sup> Die kantonale Koordinationsstelle für den Zivilschutz kann für Zivilschutzausbildungen Leistungsverträge mit anderen Kantonen abschliessen.
+
 <sup>3</sup> Die AMB ist zuständig für die Erstellung der Lehrpläne.
 
 <sup>4</sup> Die AMB berechnet jährlich die Kurskosten auf der Basis der Gesamtaufwendungen für die regionalen Kurse des Ausbildungszentrums Eiken. Massgebend für die Kostentragung durch die Gemeinden im Sinne von § 46 Abs. 1 BZG-AG sind die Einwohnerzahlen am 31. Dezember des Vorjahres.
 
 #### § 23
 
-**Aufgebote gemäss Art. 33 bis 37 BZG**
+**Aufgebote gemäss Art. 49 bis 53 BZG**
 
 <sup>1</sup> Die Aufgebote für Ausbildungsdienste erfolgen schriftlich. Ergeht nach erfolgter Vorinformation und innerhalb der bundesrechtlichen Fristen kein Aufgebot, haben sich die Schutzdienstpflichtigen unverzüglich bei der aufbietenden Stelle zu informieren.
 
-<sup>1<sup>bis</sup></sup> Die Aufgebote werden zusätzlich im kantonalen Amtsblatt publiziert. Diese Publikation ist für die Schutzdienstpflichtigen verbindlich.
+<sup>1<sup>bis</sup></sup> Die Jahresprogramme werden zusätzlich im kantonalen Amtsblatt publiziert. Diese Publikation ist für die Schutzdienstpflichtigen verbindlich.
 
 <sup>2</sup> Der Inhalt der Aufgebote für Dienstleistungen richtet sich nach den kantonalen Weisungen über das Administrations- und Abrechnungswesen im Zivilschutz (KAZ).
 
@@ -447,13 +565,15 @@ beschliesst:
 
 <sup>4</sup> Bei einer Überschreitung der zeitlichen Obergrenze der zulässigen Diensttage darf die Aufgebotsstelle kein Aufgebot erlassen. Die AMB ordnet an, dass die fraglichen Schutzdienstpflichtigen für die betroffene Dienstart nicht aufgeboten werden beziehungsweise dem Aufgebot nicht nachkommen dürfen.
 
-<sup>5</sup> Das Controlling über die bereits geleisteten und noch zu leistenden Diensttage eines Kalenderjahres erfolgt mit Hilfe der Zentralen Datenbank Zivilschutz beziehungsweise des Personalinformationssystems des Bundes (PISA-ZS).
+<sup>5</sup> Das Controlling über die bereits geleisteten und noch zu leistenden Diensttage eines Kalenderjahres erfolgt mit Hilfe des Personalinformationssystems des Bundes (PISA-ZS).
 
 #### § 24
 
 **Anmeldung der Wiederholungskurse**
 
-<sup>1</sup> Die ZSO melden die Wiederholungskurse mindestens 12 Wochen vorher mit dem entsprechenden Formular der AMB. Der Anmeldung sind das Arbeitsprogramm und das Aufgebot beizulegen.
+<sup>1</sup> Die ZSO melden die Wiederholungskurse mindestens 12 Wochen vorher mit dem entsprechenden Formular der kantonalen Koordinationsstelle für den Zivilschutz. Der Anmeldung sind das Arbeitsprogramm und das Aufgebot beizulegen.
+
+<sup>2</sup> Die Genehmigung erfolgt durch die kantonale Koordinationsstelle für den Zivilschutz.
 
 #### § 25
 
@@ -461,7 +581,7 @@ beschliesst:
 
 <sup>1</sup> Die Daten von Zivilschutzanlässen im Folgejahr sind den Teilnehmenden bis 31. Oktober des Vorjahres bekannt zu geben.
 
-<sup>2</sup> Die ZSO können ihre Dienstanlässe im Sinne der Vororientierung entsprechend publizieren.
+<sup>2</sup> Die Vorinformation wird zusätzlich im kantonalen Amtsblatt sowie im offiziellen Publikationsorgan der Gemeinde publiziert und ist für die Schutzdienstpflichtigen verbindlich.
 
 #### § 26
 
@@ -469,11 +589,19 @@ beschliesst:
 
 <sup>1</sup> Die AMB ernennt Schutzdienstpflichtige in Funktionen und befördert Kaderangehörige nach der Absolvierung der entsprechenden Ausbildung. Die AMB kann in begründeten Fällen ein abgekürztes Verfahren bewilligen.
 
+<sup>2</sup> Die Koordinationsstelle für den Bevölkerungsschutz der Region kann nach guter Leistung beziehungsweise Amtsdauer die Grade Gefreiter, Wachtmeister und Oberleutnant verleihen.
+
 #### § 27
 
 **Infrastrukturen**
 
-<sup>1</sup> Die Gebühren für die Benützung des Ausbildungszentrums richten sich nach der Verordnung über die Gebühren und die Benutzung von kantonalen Gebäuden und Anlagen vom 22. März 2001 sowie Anhang 5.
+<sup>1</sup> Die Gebühren für die Benützung des Ausbildungszentrums richten sich nach der Verordnung über die Gebühren und die Benutzung von kantonalen Gebäuden und Anlagen vom 22. März 2001 sowie Anhang 3.
+
+#### § 27a
+
+**Dauer Zivilschutzausbildung**
+
+<sup>1</sup> Die Dauer der Ausbildung der jeweiligen Funktionen der Grund-, Kader- und Zusatzausbildungen ist in Anhang 2 geregelt.
 
 ### 3.3. Schutzbauten
 
@@ -491,11 +619,13 @@ beschliesst:
 
 #### § 29
 
-**Steuerung im Schutzraumbau**
+**Schutzraumbau**
 
-<sup>1</sup> Ein gedeckter Schutzplatzbedarf liegt vor, wenn für mindestens 110% der ständigen Wohnbevölkerung in einem Gebiet (Gemeinde oder Teil einer Gemeinde) vollwertige Schutzplätze vorhanden sind.
+<sup>1</sup> …
 
-<sup>2</sup> Bei einem gedeckten Schutzplatzbedarf kann die pflichtige Person wahlweise auch den gleichwertigen Ersatzbeitrag leisten. Das Wahlrecht gilt solange, als der Deckungsgrad nicht unter 100% fällt. Liegt der Deckungsgrad unter 100%, wird das Wahlrecht erst dann neu ausgelöst, wenn der Deckungsgrad wieder 110% erreicht hat.
+<sup>2</sup> …
+
+<sup>3</sup> Beim Bau eines Gebäudes mit mehr als 38 Zimmern muss ein Schutzraum gebaut werden.
 
 #### § 30
 
@@ -507,26 +637,20 @@ beschliesst:
 
 <sup>3</sup> …
 
-<sup>4</sup> Die weitere Verwendung der durch die Gemeinden verwalteten Ersatzbeiträge hat nach folgenden Prioritäten zu erfolgen:
-
-- a) Vorfinanzierung für den Bau oder die Sanierung von öffentlichen Schutzanlagen,
-- b) Unterhalt und Sicherstellung der Betriebsbereitschaft der öffentlichen Schutzanlagen,
-- c) Beschaffung, Unterhalt und Betrieb von Telematik- und Alarmierungsmitteln,
-- d) Beschaffung, Unterhalt und Betrieb von Hard- und Software für Aufgaben des Zivilschutzes,
-- e) Unterhalt und Lagerung von Material für Aufgaben des Zivilschutzes,
-- f) …
-- g) …
-- h) …
-- i) Beschaffung und Unterhalt der Ausrüstung für den Führungsstandort des RFO.
+<sup>4</sup> …
 
 <sup>5</sup> Die weitere Verwendung der durch den Kanton verwalteten Ersatzbeiträge hat nach folgenden Prioritäten zu erfolgen:
 
-- a) Vorfinanzierung für den Bau oder die Sanierung von öffentlichen Schutzanlagen,
-- b) Unterhalt und Sicherstellung der Betriebsbereitschaft der öffentlichen Schutzanlagen,
-- c) Unterhalt und Betrieb von Telematik- und Alarmierungsmitteln,
+- a) Umnutzungen von Schutzanlagen des Zivilschutzes,
+- b) Evaluation, Beschaffung, Unterhalt und Entsorgung von Standardmaterial des Zivilschutzes,
+- c) Material zur Durchführung der periodischen Schutzraumkontrolle,
 - d) Beschaffung, Unterhalt und Betrieb von Hard- und Software für Aufgaben des Zivilschutzes,
 - e) Beschaffung, Unterhalt und Lagerung von Material für Aufgaben des Zivilschutzes,
 - f) …
+
+<sup>5<sup>bis</sup></sup> Die direkte Verrechnung über die Ersatzbeiträge ist möglich.
+
+<sup>5<sup>ter</sup></sup> Die Aufwände der ZSO, die über Ersatzbeiträge rückfinanziert werden dürfen, werden pauschal anstatt effektiv abgerechnet.
 
 <sup>6</sup> Die Antragsformalitäten werden durch die AMB konkretisiert.
 
@@ -546,7 +670,9 @@ beschliesst:
 
 <sup>1</sup> Die Bewilligung des Schutzraumbauprojekts durch die AMB wird zusammen mit der Baubewilligung des Gemeinderates eröffnet. Die Gemeinde meldet der AMB spätestens 30 Tage nach der Schnurgerüstabnahme den Baubeginn des ersten betroffenen Gebäudes.
 
-<sup>2</sup> Die periodische Kontrolle der Schutzräume erfolgt gemäss den Weisungen der AMB. Die Abnahme der Schutzräume erfolgt durch die AMB. Die Fertigstellung des Gebäudes mit dem Schutzraum ist der AMB 30 Tage nach Bezug des Gebäudes bekannt zu geben.
+<sup>2</sup> Die Abnahme der Schutzräume erfolgt gemäss Vorgaben der kantonalen Koordinationsstelle für den Zivilschutz. Die Fertigstellung des Gebäudes mit dem Schutzraum ist dieser unmittelbar nach Fertigstellung des Gebäudes bekannt zu geben.
+
+<sup>2<sup>bis</sup></sup> Die periodische Kontrolle der Schutzräume erfolgt durch die ZSO oder durch sie bezeichnete Dritte. Die kantonale Koordinationsstelle für den Zivilschutz erlässt die dazugehörigen Weisungen.
 
 #### § 31a
 
@@ -554,8 +680,8 @@ beschliesst:
 
 <sup>1</sup> Bei der Erneuerung von öffentlichen und privaten Schutzräumen gemäss den Vorgaben des Bundes übernimmt die AMB folgende Leistungen:
 
-- a) Beurteilung und Genehmigung der von den ZSO eingereichten Schutzraumprojekte,
-- b) Zusicherung der Beiträge aus dem Ersatzbeitragskonto der Gemeinden und des Kantons,
+- a) Beurteilung und Genehmigung der eingereichten Schutzraumprojekte,
+- b) Zusicherung der Beiträge aus dem Ersatzbeitragskonto des Kantons,
 - c) Baubegleitung, Abnahme der Erneuerungsprojekte sowie Prüfung der Abrechnung und Freigabe des Ersatzbeitrags.
 
 <sup>2</sup> Die aus der Spezialfinanzierung Ersatzbeiträge an die AMB entrichtete Verwaltungsentschädigung wird für das jeweilige Projekt abgerechnet. Die Verwaltungsentschädigung richtet sich nach dem effektiv angefallenen Aufwand pro Projekt.
@@ -564,9 +690,7 @@ beschliesst:
 
 #### § 32
 
-**Schutzanlagen**
-
-<sup>1</sup> Der Bedarf an Schutzanlagen ergibt sich aus Anhang 6.
+**…**
 
 ## 4. Kulturgüterschutz
 
@@ -590,13 +714,21 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Kantonale Zentralstelle für die Wirtschaftliche Landesversorgung ist die AMB.
+<sup>1</sup> Die AMB amtet als kantonale Zentralstelle für die Wirtschaftliche Landesversorgung. Sie bezeichnet eine kantonale Delegierte oder einen kantonalen Delegierten für die Wirtschaftliche Landesversorgung (KDWL).
+
+<sup>1<sup>bis</sup></sup> Das RFO schlägt den Gemeinden die für die Wirtschaftliche Landesversorgung auf kommunaler Ebene verantwortliche Person vor (GDWL).
+
+<sup>1<sup>ter</sup></sup> Die oder der KDWL definiert die Aufgaben und die Verantwortlichkeiten der oder des GDWL.
 
 <sup>2</sup> Die AMB ist zuständig für den Erlass von kantonalen Entscheiden im Bewirtschaftungsfall.
 
 <sup>3</sup> Gegen Entscheide im Bewirtschaftungsfall kann innert 5 Tagen Einsprache an die AMB erhoben werden.
 
 <sup>4</sup> Gegen Einspracheentscheide der AMB kann innert 5 Tagen Beschwerde an den Regierungsrat erhoben werden. Der Beschwerde kommt keine aufschiebende Wirkung zu. Die Verwaltungsgerichtsbeschwerde gegen den Beschwerdeentscheid ist ausgeschlossen.
+
+<sup>5</sup> Die kantonale Zentralstelle für die Wirtschaftliche Landesversorgung richtet sich nach den Vorgaben des Bundes.
+
+<sup>6</sup> Die kantonale Zentralstelle für die Wirtschaftliche Landesversorgung koordiniert alle Massnahmen und Aktivitäten des Kantons mit Bundesstellen.
 
 ## 6. Schlussbestimmungen
 
