@@ -4,13 +4,12 @@ number: "163.22"
 title: Geschäftsreglement des Regionalgerichts Emmental-Oberaargau
 short: GeschR RG EO
 language: de
-version: 2012-05-01
-valid_until: 2023-12-31
-version_adopted: 2012-03-07
+version: 2024-01-01
+version_adopted: 2023-11-13
 adopted: 2012-03-07
 in_force: 2012-05-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/163.22"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/139/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2915/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/139/pdf_file"
 
 (GeschR RG EO)
 
-vom 07.03.2012 (Stand 01.05.2012)
+vom 07.03.2012 (Stand 01.01.2024)
 
 Das Regionalgericht Emmental-Oberaargau,
 
@@ -35,13 +34,13 @@ beschliesst:
 
 <sup>1</sup> Das Regionalgericht ist in der Rechtsprechung unabhängig und nur dem Recht verpflichtet.
 
-<sup>2</sup> Im Rahmen der gesetzlichen Vorgaben und unter Vorbehalt der Aufgaben und Befugnisse der Justizleitung und des Obergerichts verwaltet es sich selbst. Dabei beachten die Organe der Gerichtsleitung sinngemäss die Grundsätze der Führungs-, Leistungs- und Kostenorientierung gemäss Artikel 3 Absatz 2, 4 und 5 des Gesetzes vom 26. März 2002 über die Steuerung von Finanzen und Leistungen (FLG)[^1-1].
+<sup>2</sup> Im Rahmen der gesetzlichen Vorgaben und unter Vorbehalt der Aufgaben und Befugnisse der Justizverwaltungsleitung und des Obergerichts verwaltet es sich selbst. Die Leitungsorgane beachten dabei sinngemäss die allgemeinen Grundsätze der Steuerung von Finanzen und Leistungen gemäss Artikel 3 des Finanzhaushaltsgesetzes vom 15. Juni 2022 (FHG)[^1-1].
 
 <sup>3</sup> Wo nötig, sprechen sich die Leitungsorgane mit jenen der übrigen in der Region Emmental-Oberaargau ansässigen Zivil- und Strafgerichtsbehörden und dem Obergericht ab.
 
 <sup>4</sup> Das Regionalgericht bekennt sich gegen innen und aussen zum Grundsatz der Transparenz und zum Recht auf Information, unter Beachtung des Amtsgeheimnisses und des Datenschutzes.
 
-[^1-1]: BSG 620.0
+[^1-1]: BSG [620.0](https://www.belex.sites.be.ch/data/620.0/de)
 
 ## 2 Organe der Gerichtsleitung
 
@@ -51,7 +50,7 @@ beschliesst:
 
 - a die Richterkonferenz,
 - b die Geschäftsleitung,
-- c die Zivil- und die Strafabteilung.
+- c die Konferenzen der Zivil- und Strafabteilungen.
 
 ### 2.1 Richterkonferenz
 
@@ -142,8 +141,8 @@ beschliesst:
 - d die Wahl einer oder eines stellvertretenden Ressourcenverantwortlichen,
 - e das Personalwesen des Regionalgerichts, insbesondere für die Anstellung des Personals, dessen Zuteilung und die Aushilfe,
 - f die Aufsicht über den Sekretariatsbetrieb und das Rechnungswesen,
-- g den Entscheid über die Aushilfe von Gerichtspräsidentinnen und Gerichtspräsidenten in anderen Organisationseinheiten,
-- h den Einsatz von Aushilfen aus anderen Organisationseinheiten,
+- g den Entscheid über die Aushilfe von Gerichtspräsidentinnen und Gerichtspräsidenten in der anderen Abteilung,
+- h den Einsatz von vom Obergericht bezeichneten Aushilfen aus anderen Organisationseinheiten,
 - i den Entscheid über einen vorübergehenden Belastungsausgleich zwischen den Gerichtspräsidentinnen und Gerichtspräsidenten,
 - k die Regelung der Stellvertretung unter den Gerichtspräsidentinnen und Gerichtspräsidenten des Regionalgerichts,
 - l die Festlegung der Grundsätze betreffend Registratur, Dossierführung und Archivierung,
@@ -186,9 +185,9 @@ beschliesst:
 <sup>1</sup> Die oder der Vorsitzende der Geschäftsleitung sorgt für den ordnungsgemässen Geschäftsgang des Regionalgerichts. Ihr oder ihm obliegen insbesondere folgende Aufgaben:
 
 - a Einberufung und Leitung der Sitzungen der Geschäftsleitung und der Richterkonferenz,
-- b Vertretung der in der Region Emmental-Oberaargau ansässigen Zivil- und Strafgerichtsbehörden und die Wahrung von deren Interessen in der Erweiterten Geschäftsleitung,
+- b Vertretung der in der Region Emmental-Oberaargau ansässigen Zivil- und Strafgerichtsbehörden und die Wahrung von deren Interessen in der Erweiterten Geschäftsleitung des Obergerichts,
 - c Vertretung des Regionalgerichts gegen aussen,
-- d Führen der Jahresgespräche mit den Gerichtspräsidentinnen und Gerichtspräsidenten,
+- d Führen der Standortgespräche mit den Gerichtspräsidentinnen und Gerichtspräsidenten,
 - e Führung der leitenden Gerichtsschreiberin oder des leitenden Gerichtsschreibers und der oder des Ressourcenverantwortlichen.
 
 <sup>2</sup> Sie oder er sorgt für eine zeitgerechte und umfassende Information. Zur Wahrung des Schutzes der Persönlichkeit oder aus wichtigen betrieblichen Gründen kann in Einzelfällen davon abgewichen werden.
@@ -370,9 +369,26 @@ beschliesst:
 
 #### Art. 27
 
-<sup>1</sup> Die oder der Vorsitzende der Geschäftsleitung entscheidet über einmalige Ausgaben bis zu einer Höhe von 10 000 Franken in eigener Kompetenz.
+**Finanzkompetenzen für Verwaltungsaufgaben**
 
-<sup>2</sup> Die leitende Gerichtsschreiberin oder der leitende Gerichtsschreiber sowie die oder der Ressourcenverantwortliche entscheiden über einmalige Ausgaben bis zu einer Höhe von 4000 Franken in eigener Kompetenz.
+<sup>1</sup> Die oder der Vorsitzende der Geschäftsleitung und die Ressourcenverantwortliche oder der Ressourcenverantwortliche bewilligen Ausgaben für Verwaltungsaufgaben bis zu einer Höhe von 30'000 Franken in je eigener Kompetenz. Eine Delegation an andere Mitglieder der Geschäftsleitung ist möglich.
+
+<sup>2</sup> Ausgaben über 30'000 Franken bedürfen einer Ausgabenbewilligung durch die Geschäftsleitung des Obergerichts.
+
+#### Art. 27a
+
+**Finanzkompetenzen für Verfahren in Zivil- und Strafsachen**
+
+<sup>1</sup> Für die Ausgaben in Zusammenhang mit Verfahren in Zivil- und Strafsachen gilt die finanzielle Belegfreigabe unabhängig von der Höhe als Ausgabenbewilligung (Art. 31 Abs. 1 Bst. e der Finanzhaushaltsverordnung vom 16.11.2022 [FHaV][^27a-1]).
+
+<sup>2</sup> Die Verfahrensleitung ist für die materielle Prüfung der Ausgaben zuständig. Obliegt ihr bei einer Ausgabe die finanzielle Belegfreigabe, übernimmt die im betroffenen Verfahren zuständige Gerichtsschreiberin oder Gerichtssekretärin bzw. der zuständige Gerichtsschreiber oder Gerichtssekretär die materielle Prüfung.
+
+<sup>3</sup> Die finanzielle Belegfreigabe erfolgt
+
+- a bei Ausgaben bis zu einer Höhe von 30'000 Franken durch ein Mitglied der Geschäftsleitung,
+- b bei Ausgaben über 30'000 Franken durch die oder den Vorsitzenden der Geschäftsleitung oder durch deren oder dessen Stellvertreterin oder Stellvertreter.
+
+[^27a-1]: BSG [621.1](https://www.belex.sites.be.ch/data/621.1/de)
 
 ### 4.3 Unterschrift und Protokolle
 

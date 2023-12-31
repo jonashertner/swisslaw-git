@@ -4,13 +4,12 @@ number: "163.22"
 title: Règlement de gestion du Tribunal régional de l’Emmental-Haute-Argovie
 short: RG TR EHA
 language: fr
-version: 2012-05-01
-valid_until: 2023-12-31
-version_adopted: 2012-03-07
+version: 2024-01-01
+version_adopted: 2023-11-13
 adopted: 2012-03-07
 in_force: 2012-05-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/163.22"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/139/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2915/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/139/pdf_file"
 
 (RG TR EHA)
 
-du 07.03.2012 (état au 01.05.2012)
+du 07.03.2012 (état au 01.01.2024)
 
 Le Tribunal régional de l’Emmental-Haute-Argovie,
 
@@ -35,13 +34,13 @@ arrête:
 
 <sup>1</sup> Le Tribunal régional est indépendant dans l’exercice de ses compétences juridictionnelles et n’est soumis qu’au droit.
 
-<sup>2</sup> Dans les limites définies par la loi et sous réserve des tâches et des attributions de la Direction de la magistrature et de la Cour suprême, il s’administre lui-même. Les organes de direction respectent par analogie les principes visant à mettre l’accent sur la direction stratégique, les prestations et les coûts selon l’article 3, alinéas 2, 4 et 5 de la loi du 26 mars 2002 sur le pilotage des finances et des prestations (LFP)[^1-1].
+<sup>2</sup> Dans les limites définies par la loi et sous réserve des tâches et des attributions de la Direction administrative de la magistrature et de la Cour suprême, il s’administre lui-même. Les organes de direction respectent par analogie les principes généraux visant à mettre l’accent sur le pilotage des finances et des prestations selon l’article 3 de la loi du 15 juin 2022 sur les finances (LFin)[^1-1].
 
 <sup>3</sup> Si nécessaire, les organes dirigeants se concertent avec ceux des autres autorités judiciaires civiles et pénales de la région de l’Emmental- Haute-Argovie ainsi qu’avec la Cour suprême.
 
 <sup>4</sup> Le Tribunal régional applique à l’interne comme à l’externe le principe de la transparence et du droit à l’information, tout en respectant le secret de fonction et la protection des données.
 
-[^1-1]: RSB 620.0
+[^1-1]: RSB [620.0](https://www.belex.sites.be.ch/data/620.0/fr)
 
 ## 2 Organes de direction
 
@@ -51,7 +50,7 @@ arrête:
 
 - a la conférence des juges,
 - b le directoire,
-- c la section civile et la section pénale.
+- c les conférences des sections civile et pénale.
 
 ### 2.1 Conférence des juges
 
@@ -142,8 +141,8 @@ arrête:
 - d la nomination d’un suppléant ou d’une suppléante du ou de la responsable des ressources,
 - e les ressources humaines du Tribunal régional, en particulier l’engagement du personnel, son affectation et l’aide ponctuelle,
 - f la surveillance de la comptabilité et du fonctionnement du secrétariat,
-- g la décision d’affecter des présidents et présidentes de tribunal pour prêter main-forte à d’autres unités d’organisation,
-- h la demande d’aide à d’autres unités d’organisation,
+- g la décision d’affecter des présidents et présidentes de tribunal pour prêter main-forte dans l’autre section,
+- h la demande d’aide, désignée par la Cour suprême, à d’autres unités d’organisation,
 - i la décision concernant une compensation provisoire des charges entre les présidents et présidentes de tribunal,
 - k le règlement de la suppléance entre les présidents et présidentes du Tribunal régional,
 - l la définition des principes régissant l’enregistrement, la gestion et l’archivage des dossiers,
@@ -186,9 +185,9 @@ arrête:
 <sup>1</sup> Le ou la juge en chef du directoire veille à la marche régulière des affaires du Tribunal régional. Il lui incombe en particulier les tâches suivantes:
 
 - a la convocation et la présidence des séances du directoire et de la conférence des juges,
-- b la représentation et la défense, au sein du directoire élargi, des intérêts des autorités judiciaires civiles et pénales ayant leur siège dans la région de l’Emmental-Haute-Argovie,
+- b la représentation et la défense, au sein du directoire élargi de la Cour suprême, des intérêts des autorités judiciaires civiles et pénales ayant leur siège dans la région de l’Emmental-Haute-Argovie,
 - c la représentation du Tribunal régional à l’extérieur,
-- d la conduite des entretiens annuels avec les présidents et présidentes de tribunal,
+- d la conduite des entretiens de bilan avec les présidents et présidentes de tribunal,
 - e la direction du greffier ou de la greffière en chef et du ou de la responsable des ressources.
 
 <sup>2</sup> Il ou elle veille à ce que les informations soient données à temps et de manière complète. Dans des cas déterminés, il peut être dérogé à cette règle pour des motifs de protection de la personnalité ou pour des motifs internes importants.
@@ -248,7 +247,7 @@ arrête:
 
 <sup>1</sup> Le Tribunal régional de l’Emmental-Haute-Argovie est subdivisé en une section civile et une section pénale. Les sections jugent les affaires qui leur sont attribuées et accomplissent d’autres tâches.
 
-<sup>2</sup> Le Tribunal régional des mesures de contrainte de l’Emmental- Haute-Argovie fait partie de la section civile.
+<sup>2</sup> Le Tribunal régional des mesures de contrainte de l’Emmental-Haute-Argovie fait partie de la section civile.
 
 #### Art. 18
 
@@ -370,9 +369,26 @@ arrête:
 
 #### Art. 27
 
-<sup>1</sup> Le ou la juge en chef du directoire est seule compétente pour autoriser les dépenses uniques jusqu’à concurrence de 10 000 francs.
+**Compétences financières pour les tâches administratives**
 
-<sup>2</sup> Le greffier ou la greffière en chef ou le ou la responsable des ressources sont seuls compétents pour autoriser les dépenses uniques jusqu’à concurrence de 4000 francs.
+<sup>1</sup> Le ou la juge en chef du directoire et le ou la responsable des ressources autorisent les dépenses pour les tâches administratives jusqu’à concurrence de 30'000 francs, chacun dans sa propre compétence. Une délégation à d’autres membres du directoire est possible.
+
+<sup>2</sup> Les dépenses supérieures à 30'000 francs sont soumises à autorisation du directoire de la Cour suprême.
+
+#### Art. 27a
+
+**Compétences financières pour les procédures en matière civile et pénale**
+
+<sup>1</sup> Pour les dépenses liées aux procédures en matière civile et pénale, la validation financière des pièces comptables vaut autorisation de dépenses, quel que soit le montant (art. 31, al. 1, lit. e de l’ordonnance du 16.11.2022 sur les finances [OFin][^27a-1]).
+
+<sup>2</sup> La direction de la procédure est compétente pour l’examen matériel des dépenses. Si la validation financière des pièces comptables d’une dépense lui incombe, le greffier ou la greffière ou le ou la secrétaire de tribunal compétente dans la procédure concernée se charge de l’examen matériel.
+
+<sup>3</sup> La validation financière des pièces comptables est effectuée
+
+- a pour les dépenses jusqu’à 30'000 francs, par un membre du directoire,
+- b pour les dépenses supérieures à 30'000 francs, par le ou la juge en chef du directoire ou par son suppléant ou sa suppléante.
+
+[^27a-1]: RSB [621.1](https://www.belex.sites.be.ch/data/621.1/fr)
 
 ### 4.3 Signature et procès-verbaux
 
