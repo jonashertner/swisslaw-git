@@ -1,29 +1,31 @@
 ---
 canton: ZG
 number: "861.514"
-title: Reglement über die Bemessung der Eigenleistung von betreuten Personen an die Kosten für den Aufenthalt in einer sozialen Einrichtung
+title: Reglement über die Eigenleistungen im Rahmen des Gesetzes über Leistungen für Menschen mit Behinderung und Betreuungsbedarf
 short: "Reglement Eigenleistung, RegE"
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-12-14
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-12-15
 adopted: 2011-02-02
 in_force: 2011-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/861.514"
-pdf: "https://bgs.zg.ch/api/de/versions/2402/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2515/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement über die Bemessung der Eigenleistung von betreuten Personen an die Kosten für den Aufenthalt in einer sozialen Einrichtung
+# Reglement über die Eigenleistungen im Rahmen des Gesetzes über Leistungen für Menschen mit Behinderung und Betreuungsbedarf
 
-Vom 2. Februar 2011 (Stand 1. Januar 2023)
+(Reglement Eigenleistung, RegE)
+
+Vom 2. Februar 2011 (Stand 1. Januar 2024)
 
 Die Direktion des Innern des Kantons Zug,
 
-gestützt auf § 25 des Gesetzes über soziale Einrichtungen (SEG) vom 26. August 2010[^ingress-1] und § 30 der Verordnung zum Gesetz über soziale Einrichtungen (SEV) vom 16. November 2010[^ingress-2],
+gestützt auf § 4 Abs. 2 Bst. i und § 30 des Gesetzes über Leistungen für Menschen mit Behinderung und Betreuungsbedarf (LBBG) vom 6. Juli 2023[^ingress-1] und § 34 der Verordnung über Leistungen für Menschen mit Behinderung und Betreuungsdarf (LBBV) vom 28. November 2023[^ingress-2],
 
-verfügt:
+beschliesst:
 
 [^ingress-1]: BGS [861.5](https://bgs.zg.ch/data/861.5/de)
 [^ingress-2]: BGS [861.512](https://bgs.zg.ch/data/861.512/de)
@@ -34,31 +36,28 @@ verfügt:
 
 <sup>1</sup> Dieses Reglement bestimmt die Eigenleistung und deren Herabsetzung bei Abwesenheit von:
 
-- a) Erwachsenen mit Aufenthalt in einer Tages- oder Beschäftigungsstätte;
+- a) …
 - b) Erwachsenen mit Anspruch auf Ergänzungsleistungen mit Aufenthalt in einer stationären Einrichtung;
 - c) Minderjährigen bis zum Ende der Schulberechtigung mit Aufenthalt in einer stationären Einrichtung;
-- d) Minderjährigen nach Abschluss der Schulberechtigung und Erwachsenen ohne Anspruch auf Ergänzungsleistungen mit Aufenthalt in einer stationären Einrichtung in Form von Pauschalbeträgen.
+- d) Minderjährigen nach Abschluss der Schulberechtigung und Erwachsenen ohne Anspruch auf Ergänzungsleistungen mit Aufenthalt in einer stationären Einrichtung.
 - e) …
 
-<sup>2</sup> Für die Arbeit in Werkstätten (sog. Tagesstruktur mit Lohn) sowie für den Besuch einer Tages- oder Beschäftigungsstätte (sog. Tagesstruktur ohne Lohn) durch Personen, die nicht in der gleichen Einrichtung wohnen, wird keine Eigenleistung erhoben.
+<sup>2</sup> Für die Arbeit in Tagesstrukturen mit Lohn sowie für den Besuch einer Tagesstruktur ohne Lohn durch Personen, die nicht in der gleichen Einrichtung wohnen, wird keine Eigenleistung erhoben.
 
 <sup>3</sup> Individuelle Nebenkosten, die im Rahmen eines Aufenthalts in einer stationären Einrichtung anfallen, werden der betreuten Person zusätzlich zur Eigenleistung in Rechnung gestellt.
 
-<sup>4</sup> Bei einem Aufenthalt in einer stationären Einrichtung mit gleichzeitiger Nutzung einer Tages- oder Beschäftigungsstätte (sog. Tagesstruktur ohne Lohn) der gleichen Einrichtung werden die jeweiligen Aufenthaltskosten zusammengezählt und die Eigenleistung wird von diesem Gesamtbetrag erhoben.
+<sup>4</sup> Bei einem Aufenthalt in einer stationären Wohneinrichtung mit gleichzeitiger Nutzung einer Tagesstruktur ohne Lohn der gleichen Einrichtung werden die jeweiligen Aufenthaltskosten zusammengezählt und die Eigenleistung wird von diesem Gesamtbetrag erhoben.
 
 #### § 1a
 
 **Geltungsbereich**
 
-<sup>1</sup> Dieses Reglement gilt für Aufenthalte in einer:
+<sup>1</sup> Dieses Reglement gilt für Aufenthalte in stationären Einrichtungen, die nach dem LBBG[^1a-1] finanziert werden.
 
-- a) Tages- oder Beschäftigungsstätte (von der Interkantonalen Vereinbarung für Soziale Einrichtungen (IVSE)[^1a-1] anerkannte Tages- oder Beschäftigungsstätte sowie Tages- oder Beschäftigungsstätte gemäss § 28 der Verordnung zum Gesetz über soziale Einrichtungen[^1a-2]);
-- b) stationären Einrichtung (von der Interkantonalen Vereinbarung für Soziale Einrichtungen (IVSE)[^1a-3] anerkannte Einrichtung sowie Einrichtung gemäss § 28 der Verordnung zum Gesetz über soziale Einrichtungen[^1a-4]).
+- a) …
+- b) …
 
-[^1a-1]: BGS [861.52](https://bgs.zg.ch/data/861.52/de)
-[^1a-2]: BGS [861.512](https://bgs.zg.ch/data/861.512/de)
-[^1a-3]: BGS [861.52](https://bgs.zg.ch/data/861.52/de)
-[^1a-4]: BGS [861.512](https://bgs.zg.ch/data/861.512/de)
+[^1a-1]: BGS [861.5](https://bgs.zg.ch/data/861.5/de)
 
 #### § 2
 
@@ -112,6 +111,6 @@ verfügt:
 
 **Übergangsbestimmung**
 
-<sup>1</sup> Für die vor dem 1. Januar 2023 verfügten individuellen Kostenübernahmegarantien (KÜG), gelangen ab 1. Januar 2023 die Eigenleistungen und deren Herabsetzungen bei Abwesenheiten gemäss dem vorliegenden Reglement zur Anwendung.
+<sup>1</sup> Für die vor dem 1. Januar 2024 verfügten individuellen Kostenübernahmegarantien (KÜG), gelangen ab 1. Januar 2024 die Eigenleistungen und deren Herabsetzungen bei Abwesenheiten gemäss dem vorliegenden Reglement zur Anwendung.
 
 GS 31, 49
