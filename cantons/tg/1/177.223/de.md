@@ -4,13 +4,13 @@ number: "177.223"
 title: Verordnung des Regierungsrates zur Besoldungsverordnung
 short: RRV BesVO
 language: de
-version: 2023-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-12-06
+version: 2024-01-01
+valid_until: 2024-12-31
+version_adopted: 2023-11-28
 adopted: 1999-09-21
 in_force: 2000-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/177.223"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2615/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2719/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ RRV BesVO
 
 (RRV BesVO)
 
-vom 21.09.1999 (Stand 01.01.2023)
+vom 21.09.1999 (Stand 01.01.2024)
 
 ## 1. Vollzug der Allgemeinen Bestimmungen der Besoldungsverordnung
 
@@ -740,7 +740,7 @@ vom 21.09.1999 (Stand 01.01.2023)
 - 2\. Motorrad: Fr. 0.50/km
 - 3\. Kleinmotorrad: Fr. 0.30/km
 
-[^64-1]: Erhöhung von Fr. 0.65 auf Fr. 0.70 mit RRB Nr. 251 vom 12. April 2022 befristet vom 1. April 2022 bis zum 31. Dezember 2022. Mit RRB Nr. 714 vom 6. Dezember 2022 verlängert bis zum 31. Dezember 2023.
+[^64-1]: Erhöhung von Fr. 0.65 auf Fr. 0.70 mit RRB Nr. 251 vom 12. April 2022 befristet vom 1. April 2022 bis zum 31. Dezember 2022, verlängert mit RRB Nr. 714 vom 6. Dezember 2022 bis zum 31. Dezember 2023 und mit RRB Nr. 657 vom 28. November 2023 bis zum 31. Dezember 2024.
 
 #### § 65
 
