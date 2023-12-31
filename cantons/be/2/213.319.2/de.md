@@ -4,13 +4,13 @@ number: "213.319.2"
 title: Verordnung über die Aufsicht über stationäre Einrichtungen und ambulante Leistungen für Kinder
 short: ALKV
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-06-23
+version: 2024-01-01
+valid_until: 2025-07-31
+version_adopted: 2023-06-21
 adopted: 2021-06-23
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/213.319.2"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2524/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2850/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2524/pdf_file"
 
 (ALKV)
 
-vom 23.06.2021 (Stand 01.01.2022)
+vom 23.06.2021 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -116,6 +116,27 @@ beschliesst:
 
 <sup>1</sup> Dauert der Aufenthalt im Rahmen der Krisenunterbringung länger als eine Woche, ist dies der Bewilligungsbehörde unverzüglich zu melden.
 
+#### Art. 7a
+
+**Leistungsabgeltung**
+
+<sup>1</sup> Die Abgeltung der nach Artikel 4 Absatz 2 sowie Artikel 12 Absatz 2 mit einem Leistungsvertrag an einen kommunalen Dienst oder eine geeignete private Stelle übertragenen Aufgaben erfolgt in Form von Fallpauschalen.
+
+<sup>2</sup> Es werden folgende Pauschalen und Entschädigungen ausgerichtet:
+
+- a 3077 Franken pro erteiltem Auftrag für die Durchführung von Abklärungen im Hinblick auf die Erteilung einer generellen Bewilligung zur Aufnahme von Pflegekindern,
+- b 754 Franken pro erteiltem Auftrag für die Durchführung von Abklärungen im Hinblick auf die Aufnahme eines bestimmten Pflegekindes (Passung),
+- c 754 Franken pro Pflegekind für die Ausübung der Pflegekinderaufsicht nach Artikel 10 PAVO,
+- d 754 Franken pro Pflegefamilie im Bereich der Krisenunterbringung für die Ausübung der Pflegekinderaufsicht nach Artikel 10 PAVO,
+- e 127 Franken pro Stunde für den mit einem Aufsichts- oder Abklärungsbesuch verbundenen Reisezeitaufwand einschliesslich Spesen, der eine halbe Stunde der effektiven Wegzeit übersteigt, wobei die Entschädigung pro angebrochener Viertelstunde berechnet wird.
+
+<sup>3</sup> Die zuständige Stelle der Direktion für Inneres und Justiz
+
+- a legt im Leistungsvertrag fest, nach welchen Modalitäten die Datenlieferung zu erfolgen hat und welcher Stichtag für die Ermittlung der Fallzahlen sowie des nach Absatz 2 Buchstabe e entstandenen Reisezeitaufwands ausschlaggebend ist,
+- b bestimmt den gestützt auf den Durchschnitt der über die letzten zwei Jahre gemeldeten Fallzahlen zur Auszahlung gelangenden Geldbetrag zuzüglich des nach Absatz 2 Buchstabe e gemeldeten Reisezeitaufwands aus dem Vorjahr und teilt diesen den Leistungserbringerinnen und Leistungserbringern schriftlich mit.
+
+<sup>4</sup> Die Direktion für Inneres und Justiz passt die Pauschalen und Entschädigungen nach Absatz 1 jährlich dem für das Kantonspersonal beschlossenen Lohnsummenwachstum an.
+
 ### 2.2 Aufnahme ausländischer Kinder
 
 #### Art. 8
@@ -163,7 +184,7 @@ beschliesst:
 
 <sup>1</sup> Die zuständige Stelle der Direktion für Inneres und Justiz führt die Aufsicht über die Familien- und Adoptivpflegeverhältnisse.
 
-<sup>2</sup> Sie kann einzelne Aufgaben durch einen Leistungsvertrag an einen kommunalen Diest oder eine geeignete private Stelle übertragen.
+<sup>2</sup> Sie kann einzelne Aufgaben durch einen Leistungsvertrag an einen kommunalen Dienst oder eine geeignete private Stelle übertragen.
 
 <sup>3</sup> Der Leistungsvertrag nach Absatz 2 enthält Aussagen zur Art, Menge und Qualität der Leistungen, zu deren Abgeltung und der Qualitätssicherung.
 

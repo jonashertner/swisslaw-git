@@ -4,13 +4,13 @@ number: "213.319.2"
 title: Ordonnance sur la surveillance des institutions résidentielles et des prestations ambulatoires destinées aux enfants
 short: OSIPE
 language: fr
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2021-06-23
+version: 2024-01-01
+valid_until: 2025-07-31
+version_adopted: 2023-06-21
 adopted: 2021-06-23
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/213.319.2"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2524/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2850/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2524/pdf_file"
 
 (OSIPE)
 
-du 23.06.2021 (état au 01.01.2022)
+du 23.06.2021 (état au 01.01.2024)
 
 Le Conseil-exécutif du canton de Berne
 
@@ -115,6 +115,27 @@ arrête:
 **Placement en cas d’intervention de crise**
 
 <sup>1</sup> Si le placement en cas d’intervention de crise dure plus d’une semaine, l’autorité d’octroi de l’autorisation doit immédiatement en être informée.
+
+#### Art. 7a
+
+**Rétribution des prestations**
+
+<sup>1</sup> Les tâches déléguées, conformément à l’article 4, alinéa 2 ainsi qu’à l’article 12, alinéa 2, au moyen d’un contrat de prestations à un service communal ou à un organe privé approprié donnent lieu à une rétribution sous la forme de forfaits par cas.
+
+<sup>2</sup> Le montant des forfaits et des indemnités est le suivant:
+
+- a 3077 francs par mandat pour la conduite d’enquêtes en vue de l’octroi d’une autorisation générale valable pour le placement d’enfants auprès de parents nourriciers,
+- b 754 francs par mandat pour la conduite d’enquêtes en vue du placement d’un enfant déterminé (adéquation),
+- c 754 francs par placement pour l’exercice de la surveillance du placement d’enfants au sens de l’article 10 OPE,
+- d 754 francs par famille d’accueil dans le domaine de l’intervention de crise pour l’exercice de la surveillance du placement d’enfants au sens de l’article 10 OPE,
+- e 127 francs l’heure pour le temps et les frais de déplacement liés à une visite de surveillance ou requis par une enquête qui dépassent une demi-heure de trajet effectif, l’indemnité étant calculée par quart d’heure entamé.
+
+<sup>3</sup> Le service compétent de la Direction de l’intérieur et de la justice
+
+- a fixe dans le contrat de prestations les modalités de la livraison de données et le jour de référence déterminant pour le calcul du nombre de cas, du temps et des frais de déplacement selon l'alinéa 2, lettre e;
+- b fixe le montant à verser en se basant sur la moyenne du nombre de cas annoncés au cours des deux dernières années ainsi que sur le temps et les frais de déplacement selon l'alinéa 2, la lettre e annoncés l'année précédente et le communique par écrit aux prestataires.
+
+<sup>4</sup> La Direction de l'intérieur et de la justice adapte chaque année les forfaits et les indemnités selon l’alinéa 1 à la progression des traitements décidée pour le personnel cantonal.
 
 ### 2.2 Placement d’enfants de nationalité étrangère
 
