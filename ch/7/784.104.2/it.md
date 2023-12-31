@@ -4,11 +4,11 @@ title: Ordinanza del 5 novembre 2014 sui domini Internet (ODIn)
 short: ODIn
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/701"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2014-11-05
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/701/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2014-701-20230901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/701/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/701/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2014-701-20240101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/701/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/701/20230901/it"
 
 (ODIn)
 
-del 5 novembre 2014 (Stato 1° settembre 2023)
+del 5 novembre 2014 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -252,7 +252,7 @@ Può prolungare il blocco per un massimo di 30 giorni se:
 
 #### Art. 15a
 
-**[Misure in caso di sospetto di abuso: deviazione del traffico](https://www.admin.ch/opc/it/classified-compilation/20141744/index.html)**[^15a-1]
+**Misure in caso di sospetto di abuso: deviazione del traffico**[^15a-1]
 
 <sup>1</sup>
 
@@ -279,15 +279,16 @@ Devia il traffico verso uno strumento di analisi o verso una pagina informativa 
 
 <sup>1</sup> Il gestore del registro informa il titolare del nome di dominio immediatamente, per via elettronica, in merito al blocco o alla deviazione del traffico.
 
-<sup>2</sup> Gli chiede nel contempo di indicare, se necessario, un indirizzo postale valido in Svizzera e di identificarsi entro 30 giorni.
+<sup>2</sup> Chiede nel contempo al titolare di indicare, se necessario, un indirizzo postale valido in Svizzera e di identificarsi entro 10 giorni.[^15b-2]
 
 <sup>3</sup> La comunicazione può essere data al titolare successivamente se ciò è indispensabile per tutelare interessi pubblici o privati preponderanti.
 
 [^15b-1]: Introdotto dal n. I dell’O del 15 set. 2017, in vigore dal 1° nov. 2017 ([RU 2017 5225](https://fedlex.data.admin.ch/eli/oc/2017/576)).
+[^15b-2]: Nuovo testo giusta il n. I dell’O del 28 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
 
 #### Art. 15c
 
-**[Misure in caso di sospetto di abuso: decisione e revoca](https://www.admin.ch/opc/it/classified-compilation/20141744/index.html)**[^15c-1]
+**Misure in caso di sospetto di abuso: decisione e revoca**[^15c-1]
 
 <sup>1</sup>
 
@@ -311,6 +312,23 @@ Il gestore del registro può, di propria volontà, o deve, su richiesta di un se
 - b. deviare a fini di analisi il traffico diretto a un nome di dominio o in transito su questo nome di dominio.
 
 [^15d-1]: Introdotto dal n. I dell’O del 15 set. 2017, in vigore dal 1° nov. 2017 ([RU 2017 5225](https://fedlex.data.admin.ch/eli/oc/2017/576)).
+
+#### Art. 15d<sup>bis</sup>
+
+**Misure in caso di sospetto di abuso: blocco di nomi di dominio di nuova attribuzione**[^15dbis-1]
+
+<sup>1</sup>
+
+Il gestore del registro può bloccare per 10 giorni un nome di dominio la cui attribuzione risale a meno di 90 giorni prima, se motivi fondati gli permettono di supporre che il titolare:
+
+- a. ricorra manifestamente a dati d’identificazione falsi o usurpi l’identità altrui; e
+- b. utilizzi il nome di dominio a scopo illecito o in modo illecito.
+
+<sup>2</sup> Chiede nel contempo al titolare di identificarsi entro 10 giorni.
+
+- [tab] <sup>3</sup> Se il titolare non si identifica correttamente entro 10 giorni, il gestore del registro re-voca l’attribuzione del nome di dominio.
+
+[^15dbis-1]: Introdotto dal n. I dell’O dell’O del 28 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
 
 #### Art. 15e
 
@@ -473,16 +491,26 @@ Una domanda di registrazione è trattata se:
 
 <sup>3</sup>
 
-L’UFCOM stabilisce le informazioni, gli elementi e i documenti necessari che possono essere richiesti dal gestore del registro o dai centri di registrazione per verificare il nome, l’indirizzo e l’esistenza giuridica del richiedente o il rispetto delle condizioni di attribuzione di un nome di dominio, in particolare:
+L’UFCOM stabilisce le informazioni e i documenti che il richiedente deve fornire al centro di registrazione a destinazione del gestore del registro per la verifica della sua identità, del suo indirizzo e della sua esistenza giuridica nonché del rispetto delle condizioni di attribuzione, in particolare:[^24-1]
 
 - a. se il richiedente è una persona fisica, una copia di un documento d’identità nazionale o di un passaporto valido e un certificato di domicilio attuale;
 - b. se il richiedente è un’associazione o una fondazione con sede in Svizzera e non iscritta nel registro di commercio, una copia autenticata degli statuti dell’associazione o dell’atto costitutivo della fondazione;
 - c. se il richiedente è una persona giuridica o una società di persone con sede all’estero, un estratto autenticato aggiornato del registro di commercio estero o, qualora l’estratto non contenga le indicazioni necessarie o non esista un’istituzione corrispondente al registro di commercio, una prova ufficiale attestante che l’ente ha esistenza legale secondo le disposizioni del diritto straniero applicabile;
-- d. un numero d’identificazione delle imprese (IDI) secondo la legge federale del 18 giugno 2010[^24-1] sul numero d’identificazione delle imprese.
+- d.[^24-2] il numero d’identificazione delle imprese (IDI) secondo la legge federale del 18 giugno 2010[^24-3] sul numero di identificazione delle imprese per le persone giuridiche e il numero AVS per le persone fisiche.
 
 <sup>4</sup> All’occorrenza l’UFCOM disciplina le modalità di presentazione delle domande di registrazione. Ha la facoltà di imporre l’uso di moduli di registrazione e di mutazione prestabiliti.
 
-[^24-1]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^24-1]: Nuovo testo giusta il n. I dell’O del 28 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
+[^24-2]: Nuovo testo giusta il n. I dell’O del 28 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
+[^24-3]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+
+#### Art. 24a
+
+***(S* (Stato 1° gennaio 2024)[^24a-1]Acquisizione di dat a i personali per l’attribuzione di nomi di dominio**
+
+Al fine di verificare i dati personali dei richiedenti e dei titolari in vista dell’attribuzione e della gestione dei nomi di dominio, il gestore del registro ha accesso ai dati personali del registro degli abitanti, del servizio nazionale degli indirizzi e del registro centrale degli assicurati. I dati sono messi a disposizione del gestore del registro tramite accesso online.
+
+[^24a-1]: Introdotto dal n. I dell’O del 28 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
 
 #### Art. 25
 
@@ -950,37 +978,51 @@ Un nome di dominio è attribuito se, oltre alle condizioni generali previste dal
 
 - a. il richiedente è in grado di dimostrare l’esistenza di un legame sufficiente con la Svizzera; in particolare, se la sede e un centro amministrativo effettivo o il domicilio del richiedente sono situati in Svizzera, o se quest’ultimo può comprovare la nazionalità svizzera;
 - b. il richiedente appartiene, al momento della presentazione della domanda di registrazione, a una categoria di persone abilitate a richiedere un’attribuzione (eleggibilità);
-- c. la denominazione richiesta appartiene, al momento della presentazione della domanda di registrazione, a una categoria di denominazioni che possono essere attribuite;
+- c.[^53-1] ...
 - d. l’uso previsto è conforme al diritto svizzero; se il nome di dominio è utilizzato per offrire prodotti o servizi oppure per fare della pubblicità per promuoverli, è indispensabile avere una sede e un centro amministrativo effettivo o un domicilio in Svizzera;
-- e.
-
-  si può legittimamente considerare che esiste un rapporto oggettivo tra la denominazione richiesta e il richiedente o l’uso previsto del nome di dominio; tale è in particolare il caso se il nome di dominio soddisfa una delle condizioni seguenti:
-
-  - 1\. contiene una denominazione sulla quale il richiedente detiene un diritto su un segno distintivo,
-  - 2\. si riferisce a una denominazione oggettivamente legata allo Stato o alle sue attività, che è necessaria all’ente pubblico o all’organizzazione di diritto pubblico interessata,
-  - 3\.
-
-    contiene una denominazione geografica:
-
-    - – sulla quale il richiedente detiene un diritto o un interesse legittimo,
-    - – sulla quale il richiedente sembra detenere un diritto o un interesse legittimo agli occhi del pubblico,
-    - – al cui utilizzo il richiedente è autorizzato da parte dell’ente pubblico o degli enti pubblici o da altre organizzazioni di diritto pubblico interessati,
-
-  - 4\. appartiene a una denominazione sulla quale il richiedente dispone di un interesse legittimo o che agli occhi del pubblico è associata a tale richiedente;
-
+- e.[^53-2] si può legittimamente considerare che esiste un rapporto oggettivo tra la denominazione richiesta e il richiedente o l’uso previsto del nome di dominio;
 - f. la denominazione richiesta non corrisponde o non è affine a una denominazione a carattere generico, fatte salve le disposizioni relative al mandato di nominazione (art. 56).
+
+<sup>1bis</sup>
+
+Se il richiedente è una persona fisica, esiste un rapporto oggettivo secondo il capoverso 1 lettera e quando il nome di dominio, oltre a una denominazione facoltativa scelta liberamente, contiene almeno una delle denominazioni seguenti:
+
+- a. uno dei cognomi ufficiali o un altro cognome iscritto nel registro dello stato civile;
+- b. un nome;
+- c. una denominazione sulla quale il richiedente detiene un diritto su un segno distintivo;
+- d. il cognome d’affinità, il cognome dell’unione domestica registrata, il nome ricevuto in seno a un ordine religioso o il nome d’arte con il quale la persona ha acquisito notorietà.[^53-3]
+
+<sup>1ter</sup>
+
+Se il richiedente non è una persona fisica, esiste un rapporto oggettivo secondo il capoverso 1 lettera e quando il nome di dominio soddisfa una delle condizioni seguenti:
+
+- a. contiene una denominazione sulla quale il richiedente detiene un diritto su un segno distintivo;
+- b. si riferisce a una denominazione oggettivamente legata allo Stato o alle sue attività, che è necessaria all’ente pubblico o all’organizzazione di diritto pubblico interessati;
+- c.
+
+  contiene una denominazione geografica:
+
+  - 1\. sulla quale il richiedente detiene un diritto o un interesse legittimo,
+  - 2\. sulla quale il richiedente sembra detenere un diritto o un interesse legittimo agli occhi del pubblico, o
+  - 3\. al cui utilizzo il richiedente è autorizzato dall’ente o dall’organizzazione interessati;
+
+- d. appartiene a una denominazione sulla quale il richiedente detiene un interesse legittimo o che agli occhi del pubblico è associata a tale richiedente.[^53-4]
 
 <sup>2</sup>
 
 Il gestore del registro può rifiutare l’attribuzione di un nome di dominio se:
 
-- a.[^53-1] la denominazione scelta può essere facilmente confusa con un nome di dominio già attribuito o una denominazione riservata in virtù dell’articolo 26;
+- a.[^53-5] la denominazione scelta può essere facilmente confusa con un nome di dominio già attribuito o una denominazione riservata in virtù dell’articolo 26;
 - b. da un esame sommario appare evidente che la denominazione scelta viola i diritti su un segno distintivo di terzi; per il rimanente, non è verificata la fondatezza dei diritti di utilizzare le indicazioni alfanumeriche dei nomi di dominio; le controversie relative ai diritti su segni distintivi in relazione ai nomi di dominio sono disciplinate dal diritto civile;
 - c. le caratteristiche o i valori su cui si fonda il dominio si oppongono a questa attribuzione.
 
 <sup>3</sup> In via eccezionale, il gestore del registro può attribuire nomi di dominio che non soddisfano le condizioni particolari di attribuzione, se ciò è giustificato dall’interesse della comunità svizzera.
 
-[^53-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6251](https://fedlex.data.admin.ch/eli/oc/2020/1026)).
+[^53-1]: Abrogata dal n. I dell’O del 28 giu. 2023, con effetto dal 1° gen. 2024 ([RU 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
+[^53-2]: Nuovo testo giusta il n. I dell’O del 28 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
+[^53-3]: Introdotto dal n. I dell’O del 28 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
+[^53-4]: Introdotto dal n. I dell’O del 28 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
+[^53-5]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6251](https://fedlex.data.admin.ch/eli/oc/2020/1026)).
 
 #### Art. 54
 
@@ -996,15 +1038,17 @@ Sono eleggibili all’attribuzione di un nome di dominio:
 
 - a. gli enti pubblici svizzeri o altre organizzazioni svizzere di diritto pubblico;
 - b. gli enti iscritti nel registro di commercio svizzero aventi la sede e un centro amministrativo effettivo in Svizzera;
-- c. le associazioni e le fondazioni non iscritte nel registro di commercio svizzero aventi la sede e un centro amministrativo effettivo in Svizzera.
+- c. le associazioni e le fondazioni non iscritte nel registro di commercio svizzero aventi la sede e un centro amministrativo effettivo in Svizzera;
+- d.[^55-2] le persone fisiche domiciliate in Svizzera o di nazionalità svizzera.
 
 [^55-1]: Nuovo testo giusta il n. I dell’O del 15 set. 2017, in vigore dal 1° nov. 2017 ([RU 2017 5225](https://fedlex.data.admin.ch/eli/oc/2017/576)).
+[^55-2]: Introdotta dal n. I dell’O del 28 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
 
 #### Art. 56
 
 **Mandato di nominazione**
 
-<sup>1</sup> I nomi di dominio corrispondenti o affini a denominazioni a carattere generico che presentano un interesse particolare per una parte o la totalità della comunità svizzera devono essere attribuiti tramite mandato di nominazione. L’UFCOM può stilare e aggiornare una lista non esaustiva delle denominazioni o delle categorie di denominazioni interessate.
+I nomi di dominio corrispondenti o affini a denominazioni a carattere generico che presentano un interesse particolare per una parte o la totalità della comunità svizzera devono essere attribuiti tramite mandato di nominazione. L’UFCOM può pubblicare una lista non esaustiva delle denominazioni o delle categorie di denominazioni interessate.[^56-1]
 
 <sup>2</sup>
 
@@ -1018,10 +1062,10 @@ Il gestore del registro può attribuire nomi di dominio tramite mandato di nomin
 Il candidato a un nome di dominio che deve essere attribuito tramite mandato di nominazione deve:
 
 - a. dimostrare che soddisfa le condizioni generali e particolari di attribuzione di un nome di dominio;
-- b.[^56-1] dimostrare che rappresenta la totalità o una parte importante della comunità interessata dalla denominazione richiesta o che la candidatura beneficia del sostegno della totalità o di una parte importante di questa comunità; garanzie di neutralità della concorrenza, di non discriminazione e di trasparenza possono sopperire alla rappresentazione o al sostegno della comunità se la denominazione richiesta non si riferisce ad alcuna comunità in particolare o se non è rappresentata da una comunità organizzata o costituita;
+- b.[^56-2] dimostrare che rappresenta la totalità o una parte importante della comunità interessata dalla denominazione richiesta o che la candidatura beneficia del sostegno della totalità o di una parte importante di questa comunità; garanzie di neutralità della concorrenza, di non discriminazione e di trasparenza possono sopperire alla rappresentazione o al sostegno della comunità se la denominazione richiesta non si riferisce ad alcuna comunità in particolare o se non è rappresentata da una comunità organizzata o costituita;
 - c. indicare gli eventuali nomi di dominio affini in tedesco, francese, italiano o inglese che egli desidera inserire nel mandato di nominazione;
 - d. dimostrare che l’utilizzo che prevede di fare del nome di dominio e le prestazioni o i servizi offerti in relazione con il nome vanno a beneficio della comunità interessata nel suo complesso;
-- e. mostrare come intende vigilare sul rispetto delle esigenze sancite dal titolo secondo della legge del 28 agosto 1992[^56-2] sulla protezione dei marchi per tutti i prodotti offerti tramite un nome di dominio la cui denominazione si riferisce a un prodotto, alle sue caratteristiche o a una categoria di prodotti;
+- e. mostrare come intende vigilare sul rispetto delle esigenze sancite dal titolo secondo della legge del 28 agosto 1992[^56-3] sulla protezione dei marchi per tutti i prodotti offerti tramite un nome di dominio la cui denominazione si riferisce a un prodotto, alle sue caratteristiche o a una categoria di prodotti;
 - f. dimostrare in che misura il proprio progetto apporta un valore aggiunto alla comunità interessata e alla comunità svizzera;
 - g. dimostrare che soddisfa le condizioni previste dall’UFCOM in relazione alle qualità fissate per il nome di dominio o il progetto desiderato;
 - h. proporre un progetto di mandato di nominazione.
@@ -1036,10 +1080,19 @@ Il candidato a un nome di dominio che deve essere attribuito tramite mandato di 
 
 <sup>8</sup> Per il rimanente, ai mandati di nominazione, e in particolare alla loro revoca, si applicano per analogia le regole concernenti la sorveglianza sui delegati della funzione di gestore del registro di un dominio gestito dalla Confederazione (art. 40–43).
 
+<sup>8bis</sup>
+
+La disdetta di un mandato di nominazione (art. 41) è autorizzata in particolare se:
+
+- a. il titolare non adempie più le condizioni di attribuzione o non rispetta le disposizioni del mandato; o
+- b. il titolare non ha pagato le tasse amministrative dovute.[^56-4]
+
 <sup>9</sup> Il gestore del registro fornisce i mandati di nominazione ai terzi che ne fanno richiesta; può anche metterli a disposizione nel quadro di una procedura di bando o pubblicarli in altro modo. Le clausole e gli allegati contenenti segreti commerciali non sono comunicati.
 
-[^56-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6251](https://fedlex.data.admin.ch/eli/oc/2020/1026)).
-[^56-2]: [RS 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
+[^56-1]: Nuovo testo giusta il n. I dell’O del 28 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
+[^56-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6251](https://fedlex.data.admin.ch/eli/oc/2020/1026)).
+[^56-3]: [RS 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
+[^56-4]: Introdotto dal n. I dell’O del 28 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
 
 #### Art. 57
 
@@ -1052,13 +1105,19 @@ Il candidato a un nome di dominio che deve essere attribuito tramite mandato di 
 In caso di domanda plurima, il gestore del registro attribuisce il nome di dominio in questione nell’ordine di priorità seguente:
 
 - a. in linea di principio, all’ente pubblico o all’organizzazione di diritto pubblico richiedente, in caso di concorrenza con richiedenti privati e se la denominazione richiesta risponde di per sé all’interesse pubblico;
-- b. all’ente pubblico o all’organizzazione di diritto pubblico richiedente che prevede per il nome di dominio un utilizzo che, in confronto agli altri utilizzi previsti, apporta alla comunità svizzera un valore aggiunto chiaramente superiore; se nessun progetto soddisfa questo requisito e gli enti pubblici o le organizzazioni di diritto pubblico richiedenti non riescono ad accordarsi su una candidatura unica o comune, il gestore del registro rinuncia ad attribuire il nome di dominio;
+- b.[^57-1] all’ente pubblico o all’organizzazione di diritto pubblico richiedente che prevede per il nome di dominio un utilizzo che, rispetto a quello di altri enti o organizzazioni di questo tipo, apporta alla comunità svizzera un valore aggiunto chiaramente superiore; se nessun progetto soddisfa questo requisito e gli enti o le organizzazioni richiedenti non riescono ad accordarsi su una candidatura unica o comune, il gestore del registro rinuncia ad attribuire il nome di dominio*;*
 - c. in linea di principio, al richiedente che detiene un diritto su un segno distintivo corrispondente al nome di dominio interessato in caso di concorrenza con richiedenti che non beneficiano di un simile diritto;
 - d. al miglior offerente della vendita all’asta, se i richiedenti possiedono diritti su segni distintivi in concorrenza sul nome di dominio, a condizione che la tenuta dell’asta non appaia inappropriata alla luce delle circostanze o dei richiedenti interessati; il ricavato della vendita all’asta è versato alla Cassa federale;
-- e. a chi ha presentato per primo una domanda di registrazione, se tutti i richiedenti rappresentano enti senza scopo di lucro e perseguono effettivamente tali finalità;
-- f. al richiedente che prevede per il nome di dominio un utilizzo che, in confronto agli utilizzi previsti dagli altri richiedenti, apporta alla comunità svizzera un valore aggiunto chiaramente superiore; se nessun progetto soddisfa questo requisito e se i richiedenti non riescono ad accordarsi su una candidatura unica o comune, il gestore del registro subordina l’attribuzione a un’estrazione a sorte o a una vendita all’asta; il ricavato della vendita all’asta è versato alla Cassa federale.
+- d<sup>bis</sup>.[^57-2] alla persona giuridica, in caso di concorrenza con una persona fisica;
+- e.[^57-3] al richiedente che ha presentato per primo una domanda di registrazione, se tutti i richiedenti intendono utilizzare il nome di domino per scopi non commerciali;
+- f.[^57-4] al richiedente che prevede un utilizzo che, rispetto a quello degli altri richiedenti, apporta alla comunità svizzera un valore aggiunto chiaramente superiore; se nessun progetto soddisfa questo requisito e i richiedenti non riescono ad accordarsi su una candidatura unica o comune, il gestore del registro subordina l’attribuzione a un’estrazione a sorte o a una vendita all’asta; il ricavato della vendita all’asta è versato alla Cassa federale.
 
 <sup>3</sup> Fatto salvo l’esame preliminare di cui all’articolo 53 capoverso 2 lettera b, il gestore del registro non verifica la fondatezza dei diritti di utilizzare le indicazioni alfanumeriche dei nomi di dominio. Le controversie relative ai diritti su segni distintivi in relazione ai nomi di dominio sono disciplinate dal diritto civile.
+
+[^57-1]: Nuovo testo giusta il n. I dell’O del 28 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
+[^57-2]: Introdotta dal n. I dell’O del 28 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
+[^57-3]: Nuovo testo giusta il n. I dell’O del 28 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
+[^57-4]: Nuovo testo giusta il n. I dell’O del 28 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
 
 ### Sezione 4: Revoca
 
@@ -1071,7 +1130,16 @@ Il gestore del registro può revocare, di propria volontà o su richiesta del ce
 - c. il nome di dominio contiene una denominazione geografica che presenta un interesse particolare per la totalità o una parte della comunità svizzera ed è richiesto da un ente pubblico o da un’altra organizzazione di diritto pubblico; il richiedente versa al precedente titolare un indennizzo che include la totalità delle spese di registrazione e di gestione del nome di dominio revocato;
 - d. ha ragionevolmente motivo di supporre che il titolare abbia richiesto l’attribuzione unicamente nell’intento di nuocere alla reputazione di chi possiede un interesse legittimo per questo nome o per un nome affine oppure alla reputazione di un prodotto o di un servizio affine a questo nome agli occhi del pubblico;
 - e. ha ragionevolmente motivo di supporre che il titolare abbia richiesto l’attribuzione nell’intento di trarre profitto dalla reputazione di chi possiede un interesse legittimo per questo nome o per un nome affine oppure dalla reputazione di un prodotto o di un servizio affine a questo nome agli occhi del pubblico;
-- f. lo esigono le caratteristiche o i valori sui cui si fonda il dominio.
+- f. lo esigono le caratteristiche o i valori sui cui si fonda il dominio;
+- g.[^58-1]
+
+  la persona fisica titolare non è di nazionalità svizzera e si reca all’estero; l’attribuzione di un nome di dominio può essere revocata alle seguenti condizioni:
+
+  - 1\. il titolare non si identifica correttamente o non indica un indirizzo postale valido in Svizzera entro 30 giorni, nonostante ciò sia richiesto dal gestore del registro, dall’UFCOM o da un’altra autorità svizzera che interviene nell’ambito dell’esecuzione dei suoi compiti,
+  - 2\. il titolare utilizza il nome di dominio per offrire prodotti o servizi oppure per fare della pubblicità per promuoverli,
+  - 3\. vi sono motivi fondati di supporre che il titolare utilizzi il nome di dominio a scopo illecito o in modo illecito secondo il diritto svizzero.
+
+[^58-1]: Introdotta dal n. I dell’O del 28 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
 
 ## Capitolo 6: Domini gestiti da altri enti pubblici svizzeri
 
@@ -1101,13 +1169,25 @@ Rispettano i principi seguenti:
 
 <sup>2</sup> È autorizzato a concludere accordi internazionali dal contenuto tecnico o amministrativo che rientrano nel campo d’applicazione della presente ordinanza.
 
-### Sezione 2: ...
+### Sezione 2: Disposizione transitoria relativa alla modifica del 28 giugno 2023
 
-#### Art. 61 a 64
+[^chap7-sec2-1]
 
-[^6164-1]
+[^chap7-sec2-1]: Nuovo testo giusta il n. I dell’O del 28 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
 
-[^6164-1]: Abrogati dal n. I dell’O del 15 set. 2017, con effetto dal 1° nov. 2017 ([RU 2017 5225](https://fedlex.data.admin.ch/eli/oc/2017/576)).
+#### Art. 61
+
+[^61-1]
+
+Il gestore del registro fissa la data a partire dalla quale le persone fisiche possono richiedere e vedersi attribuito un nome di dominio «.swiss» conformemente all’articolo 53 capoverso 1<sup>bis</sup>. L’apertura operativa deve avvenire entro il 1° maggio 2024.
+
+[^61-1]: Nuovo testo giusta il n. I dell’O del 28 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
+
+#### Art. 62 a 64
+
+[^6264-1]
+
+[^6264-1]: Abrogati dal n. I dell’O del 15 set. 2017, con effetto dal 1° nov. 2017 ([RU 2017 5225](https://fedlex.data.admin.ch/eli/oc/2017/576)).
 
 ### Sezione 3: Entrata in vigore
 

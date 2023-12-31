@@ -4,11 +4,11 @@ title: Verordnung vom 5. November 2014 über Internet-Domains (VID)
 short: VID
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/701"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2014-11-05
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/701/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2014-701-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/701/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/701/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2014-701-20240101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/701/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/701/20230901/de"
 
 (VID)
 
-vom 5. November 2014 (Stand am 1. September 2023)
+vom 5. November 2014 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -150,12 +150,13 @@ Die Funktion der Registerbetreiberin beinhaltet folgende Aufgaben:
 - j.[^10-3] Bereitstellung einer spezifischen und leicht zugänglichen Website, auf der alle nützlichen Informationen über die Tätigkeit der Registerbetreiberin online abrufbar sind;
 - k.[^10-4] …
 
-<sup>2</sup> Die Registerbetreiberin prüft die Aktivitäten der Registrare sowie der Halterinnen und Halter nicht generell und kontinuierlich. Sie ist nicht verpflichtet, Tatsachen und Umstände aktiv daraufhin zu untersuchen, ob mittels Domain-Namen rechtswidrige Handlungen begangen werden; Artikel 51 Buchstabe b bleibt vorbehalten.
+<sup>2</sup> Die Registerbetreiberin prüft die Aktivitäten der Registrare sowie der Halterinnen und Halter nicht generell und kontinuierlich. Sie ist nicht verpflichtet, aktiv nach Tatsachen oder Umständen zu suchen, die auf rechtswidrige, mittels Domain-Namen begangene Handlungen hinweisen; Artikel 51 Buchstabe b bleibt vorbehalten.[^10-5]
 
 [^10-1]: Ausdruck gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6251](https://fedlex.data.admin.ch/eli/oc/2020/1026)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^10-2]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6251](https://fedlex.data.admin.ch/eli/oc/2020/1026)).
 [^10-3]: Fassung gemäss Ziff. I der V vom 15. Sept. 2017, in Kraft seit 1. Nov. 2017 ([AS 2017 5225](https://fedlex.data.admin.ch/eli/oc/2017/576)).
 [^10-4]: Aufgehoben durch Ziff. I der V vom 15. Sept. 2017, mit Wirkung seit 1. Nov. 2017 ([AS 2017 5225](https://fedlex.data.admin.ch/eli/oc/2017/576)).
+[^10-5]: Fassung gemäss Ziff. I der V vom 28. Juni 2023, in Kraft seit 1. Jan. 2024 (AS **2023** 365).
 
 #### Art. 11
 
@@ -190,7 +191,7 @@ Das BAKOM darf nur in den folgenden Fällen dem Beauftragten Anweisungen erteile
 
 <sup>1</sup>
 
-Die Registerbetreiberin kann Personendaten der Registrare, der Gesuchstellerinnen und Gesuchsteller, der Halterinnen und Halter von Domain-Namen, des Streitbeilegungsdienstes und seiner Expertinnen und Experten sowie anderer an der Verwaltung der betreffenden Domain beteiligter Personen bearbeiten, soweit und solange dies erforderlich ist:
+Die Registerbetreiberin kann Personendaten der Registrare, der gesuchstellenden Personen[^13-1], der Halterinnen und Halter von Domain-Namen, des Streitbeilegungsdienstes und seiner Expertinnen und Experten sowie anderer an der Verwaltung der betreffenden Domain beteiligter Personen bearbeiten, soweit und solange dies erforderlich ist:
 
 - a. zur Verwaltung der betreffenden Domain;
 - b. zur Erfüllung der Funktion der Registerbetreiberin und zur Einhaltung der sich diesbezüglich aus dieser Verordnung, den zugehörigen Ausführungsbestimmungen und dem Delegationsvertrag ergebenden Pflichten;
@@ -198,6 +199,8 @@ Die Registerbetreiberin kann Personendaten der Registrare, der Gesuchstellerinne
 - d. zum Erhalt des für die Dienstleistungen der Registerbetreiberin geschuldeten Entgelts.
 
 <sup>2</sup> Die Registerbetreiberin darf Personendaten während höchstens zehn Jahren bearbeiten; Artikel 11 Absatz 2 bleibt vorbehalten.
+
+[^13-1]: Ausdruck gemäss Ziff. I vom 28. Juni 2023, in Kraft seit 1. Jan. 2024 (AS **2023** 365).
 
 #### Art. 14
 
@@ -279,11 +282,12 @@ Sie leitet den Datenverkehr zu einem Analysetool oder zu einer Informationsseite
 
 <sup>1</sup> Die Registerbetreiberin informiert die Halterin oder den Halter des betreffenden Domain-Namens umgehend elektronisch über die Blockierung oder die Umleitung des Datenverkehrs.
 
-<sup>2</sup> Wenn nötig, fordert sie die Halterin oder den Halter gleichzeitig auf, eine gültige Korrespondenzadresse in der Schweiz zu bezeichnen und innerhalb von 30 Tagen ihre oder seine Identität bekannt zu geben.
+<sup>2</sup> Wenn nötig, fordert sie die Halterin oder den Halter gleichzeitig auf, eine gültige Korrespondenzadresse in der Schweiz zu bezeichnen und innerhalb von 10 Tagen ihre oder seine Identität bekannt zu geben.[^15b-2]
 
 <sup>3</sup> Die Information an die Halterin oder den Halter kann zu einem späteren Zeitpunkt erfolgen, wenn dies zum Schutz von überwiegenden öffentlichen oder privaten Interessen erforderlich ist.
 
 [^15b-1]: Eingefügt durch Ziff. I der V vom 15. Sept. 2017, in Kraft seit 1. Nov. 2017 ([AS 2017 5225](https://fedlex.data.admin.ch/eli/oc/2017/576)).
+[^15b-2]: Fassung gemäss Ziff. I der V vom 28. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
 
 #### Art. 15c
 
@@ -311,6 +315,25 @@ Die Registerbetreiberin kann aus eigenem Anlass oder muss auf Antrag einer Stell
 - b. Sie leitet den zum Domain-Namen führenden oder über diesen geführten Datenverkehr zu Analysezwecken um.
 
 [^15d-1]: Eingefügt durch Ziff. I der V vom 15. Sept. 2017, in Kraft seit 1. Nov. 2017 ([AS 2017 5225](https://fedlex.data.admin.ch/eli/oc/2017/576)).
+
+#### Art. 15d<sup>bis</sup>
+
+**Massnahmen bei Missbrauchsverdacht: Blockierung von neu zugeteilten Domain-Namen**[^15dbis-1]
+
+<sup>1</sup>
+
+Die Registerbetreiberin kann einen Domain-Namen, dessen Zuteilung weniger als 90 Tage zurückliegt, während 10 Tagen blockieren, wenn berechtigte Gründe zur Annahme bestehen, dass die Halterin oder der Halter:
+
+- a. falsche Identifizierungsangaben gemacht hat oder unrechtmässig die Identität eines Dritten verwendet hat; und
+- b. den Domain-Namen zu einem unrechtmässigen Zweck oder in unrechtmässiger Weise nutzt.
+
+<sup>2</sup> Sie fordert gleichzeitig die Halterin oder den Halter auf, innerhalb von 10 Tagen ihre oder seine Identität bekannt zu geben.
+
+<sup>3</sup> Wenn die Halterin oder der Halter innerhalb von 10 Tagen ihre oder seine Identität nicht korrekt bekannt gibt, widerruft die Registerbetreiberin die Zuteilung des Domain-Namens.
+
+- [tab]
+
+[^15dbis-1]: Eingefügt durch Ziff. I der V vom 28. Juni 2023, in Kraft seit 1. Jan. 2024 (AS **2023** 365).
 
 #### Art. 15e
 
@@ -353,7 +376,7 @@ Ein Registrar darf Registrierungsdienstleistungen nur anbieten, wenn:
 
 <sup>2</sup>
 
-Die Registerbetreiberin muss einen Registrarvertrag abschliessen, wenn die Gesuchstellerin oder der Gesuchsteller die folgenden Bedingungen erfüllt:
+Die Registerbetreiberin muss einen Registrarvertrag abschliessen, wenn die gesuchstellende Person die folgenden Bedingungen erfüllt:
 
 - a. Sie oder er verpflichtet sich zur Einhaltung des schweizerischen Rechts, insbesondere der vorliegenden Verordnung, ihrer Ausführungsbestimmungen sowie des Registrarvertrags.
 - b. Sie oder er verfügt über eine gültige Korrespondenzadresse in der Schweiz.
@@ -363,7 +386,7 @@ Die Registerbetreiberin muss einen Registrarvertrag abschliessen, wenn die Gesuc
 - f.[^17-1] Sie oder er verfügt im Bereich Informatik über die notwendige Hard- und Software zur Gewährleistung der Sicherheit der Personendaten, die von Personen eingereicht werden, die einen Domain-Namen beantragen, und bewahrt diese Daten unter Einhaltung der Bestimmungen des Datenschutzgesetzes vom 25. September 2020[^17-2] auf.
 - g. Sie oder er hat Sicherheiten geleistet, die bei zweifelhafter Solvenz oder Zahlungsausfall verwertet werden können; sie dürfen das voraussichtliche Risiko der Registerbetreiberin nicht übersteigen und sind zum Zinssatz eines Sparkontos zu verzinsen.
 
-<sup>3</sup> Das Gesuch um Abschluss eines Registrarvertrags ist der Registerbetreiberin einzureichen. Es beinhaltet alle Dokumente, Angaben und Informationen, die notwendig sind, um zu beurteilen, ob die Gesuchstellerin oder der Gesuchsteller die Voraussetzungen erfüllt.
+<sup>3</sup> Das Gesuch um Abschluss eines Registrarvertrags ist der Registerbetreiberin einzureichen. Es beinhaltet alle Dokumente, Angaben und Informationen, die notwendig sind, um zu beurteilen, ob die gesuchstellende Person die Voraussetzungen erfüllt.
 
 <sup>4</sup> Änderungen von Tatsachen, die Grundlage des Vertrags bilden, sind der Registerbetreiberin umgehend mitzuteilen.
 
@@ -419,7 +442,7 @@ Die Registrare müssen:
 
 <sup>2</sup> Sie melden der Registerbetreiberin unverzüglich alle technischen Störungen, die sie an ihren Systemen, ihren Registrierungsdienstleistungen oder im Betrieb des DNS feststellen.
 
-<sup>3</sup> Sie leiten sämtliche Informationen der Registerbetreiberin unverzüglich den Halterinnen und Halter oder den Gesuchstellerinnen und Gesuchstellern weiter oder lassen sie übermitteln. Die Registrare informieren ihre Kundinnen und Kunden über die Verweigerung der Zuteilung von Domain-Namen spätestens drei Tage nach der entsprechenden Mitteilung durch die Registerbetreiberin.[^21-1]
+<sup>3</sup> Sie leiten sämtliche Informationen der Registerbetreiberin unverzüglich den Halterinnen und Halter oder den gesuchstellenden Personen weiter oder lassen sie übermitteln. Die Registrare informieren ihre Kundinnen und Kunden über die Verweigerung der Zuteilung von Domain-Namen spätestens drei Tage nach der entsprechenden Mitteilung durch die Registerbetreiberin.[^21-1]
 
 <sup>4</sup> Sie prüfen die Aktivitäten der Halterinnen und Halter nicht generell und kontinuierlich. Sie sind nicht verpflichtet, Tatsachen und Umstände aktiv daraufhin zu untersuchen, ob mittels Domain-Namen rechtswidrige Handlungen begangen werden.[^21-2]
 
@@ -430,7 +453,7 @@ Die Registrare müssen:
 
 **Rechtsbeziehungen**
 
-<sup>1</sup> Die Rechtsbeziehungen zwischen Registraren, Gesuchstellerinnen und Gesuchstellern sowie Halterinnen und Haltern von Domain-Namen unterstehen dem Privatrecht. Vorbehalten bleiben die Bestimmungen dieser Verordnung und ihrer Ausführungsvorschriften.
+<sup>1</sup> Die Rechtsbeziehungen zwischen Registraren, gesuchstellenden Personen sowie Halterinnen und Haltern von Domain-Namen unterstehen dem Privatrecht. Vorbehalten bleiben die Bestimmungen dieser Verordnung und ihrer Ausführungsvorschriften.
 
 <sup>2</sup> Die Registrare sind in der Preisfestlegung für ihre Registrierungsdienstleistungen frei; vorbehalten bleibt Artikel 40 Absatz 4 FMG.
 
@@ -456,7 +479,7 @@ Die Registrare müssen:
 
 **Registrierungsgesuch**
 
-<sup>1</sup> Reicht ein Registrar im Auftrag der Gesuchstellerin oder des Gesuchstellers ein Registrierungsgesuch ein, so eröffnet die Registerbetreiberin ein Zuteilungsverfahren.
+<sup>1</sup> Reicht ein Registrar im Auftrag der gesuchstellenden Person ein Registrierungsgesuch ein, so eröffnet die Registerbetreiberin ein Zuteilungsverfahren.
 
 <sup>2</sup>
 
@@ -468,62 +491,57 @@ Ein Registrierungsgesuch wird behandelt, wenn:
   es die für den Zuteilungsentscheid notwendigen Informationen, Elemente und Dokumente enthält, insbesondere:
 
   - 1\. die gewünschte Bezeichnung des Domain-Namens,
-  - 2\. die aktuellen, vollständigen und korrekten Angaben der Gesuchstellerin oder des Gesuchstellers, insbesondere deren oder dessen Namen, Post- und E-Mail-Adresse,
+  - 2\. die aktuellen, vollständigen und korrekten Angaben der gesuchstellende Person, insbesondere deren oder dessen Namen, Post- und E-Mail-Adresse,
   - 3\. die aktuellen, vollständigen und korrekten Informationen zur Prüfung, ob die allgemeinen und besonderen Voraussetzungen für die Zuteilung des beantragten Domain-Namens erfüllt sind.
 
 <sup>3</sup>
 
-Das BAKOM legt fest, welche Informationen und Unterlagen, die von der Registerbetreiberin oder den Registraren zur Überprüfung des Namens, der Adresse und der rechtlichen Existenz der Gesuchstellerin oder des Gesuchstellers oder der Zuteilungsvoraussetzungen verlangt werden können, notwendig sind, insbesondere:
+Das BAKOM legt fest, welche Informationen und Unterlagen eine gesuchstellende Person dem betreffenden Registrar zuhanden der Registerbetreiberin zur Überprüfung ihrer Identität, Adresse und rechtlichen Existenz sowie der Zuteilungsvoraussetzungen einreichen muss, insbesondere:[^24-1]
 
 - a. bei natürlichen Personen: die Kopie eines gültigen nationalen Identitätsausweises oder Passes sowie eine aktuelle Wohnsitzbestätigung;
 - b. bei Vereinen oder Stiftungen mit Sitz in der Schweiz ohne Eintrag im Handelsregister: die beglaubigte Kopie der Vereinsstatuten oder der Stiftungsurkunde;
 - c. bei juristischen Personen oder Personengesellschaften mit Sitz im Ausland: einen aktuellen, beglaubigten ausländischen Handelsregisterauszug oder, wenn dieser nicht genügend Informationen enthält oder keine dem Handelsregister entsprechende Institution existiert, ein amtliches Dokument, das die rechtliche Existenz der Rechtseinheit gemäss anwendbarem ausländischem Recht bestätigt;
-- d. die Unternehmens-Identifikationsnummer (UID) nach dem Bundesgesetz vom 18. Juni 2010[^24-1] über die Unternehmens-Identifikationsnummer.
+- d.[^24-2] die Unternehmens-Identifikationsnummer (UID) nach dem Bundesgesetz vom 18. Juni 2010[^24-3] über die Unternehmens-Identifikationsnummer für juristische Personen und für natürliche Personen die AHV-Nummer.
 
 <sup>4</sup> Es regelt im Bedarfsfall die Modalitäten für die Einreichung von Registrierungsgesuchen. Es kann für Registrierungen und Änderungen die Verwendung von Formularen vorschreiben.
 
-[^24-1]: [SR 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^24-1]: Fassung gemäss Ziff. I der V vom 28. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
+[^24-2]: Fassung gemäss Ziff. I der V vom 28. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
+[^24-3]: [SR 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
 
-#### Art. 25
+#### Art. 24a
 
-**Allgemeine Zuteilungsvoraussetzungen**
+**Bezug von Personendaten für die Zuteilung von Domain-Namen**[^24a-1]
 
-<sup>1</sup>
+Zum Zweck der Zuteilung und der Verwaltung von Domain-Namen hat die Registerbetreiberin Zugang zu Personendaten aus dem Einwohnerregister, dem nationalen Adressdienst und dem zentralen Versichertenregister, um die Angaben der gesuchstellenden Personen und der Halterinnen oder Halter zu überprüfen. Die Daten werden der Registerbetreiberin via Online-Zugang zur Verfügung gestellt.
 
-Ein Domain-Name wird zugeteilt, wenn:
+[^24a-1]: Eingefügt durch Ziff. I der V vom 28. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
 
-- a.[^25-1] die beantragte Bezeichnung oder der entsprechende ACE-String zwischen 3 und 63 autorisierte Zeichen enthält; das BAKOM bestimmt die autorisierten Zeichen und kann Ausnahmen bezüglich der minimalen Anzahl vorsehen, wenn ein überwiegendes öffentliches Interesse dies rechtfertigt; die aus zwei Zeichen bestehenden Abkürzungen der Kantone sowie die aus zwei Zeichen bestehenden Namen der Einwohnergemeinden und Ortschaften der Schweiz sind nach Artikel 26 Absatz 1 Buchstabe b reserviert und können den betreffenden öffentlich-rechtlichen Körperschaften zugewiesen werden;
+### Art. 25Allgemeine Zuteilungsvoraussetzungen
+
+<sup>1</sup> Ein Domain-Name wird zugeteilt, wenn:
+
+- a.[^chap2-sec4-lvlu3-1] die beantragte Bezeichnung oder der entsprechende ACE-String zwischen 3 und 63 autorisierte Zeichen enthält; das BAKOM bestimmt die autorisierten Zeichen und kann Ausnahmen bezüglich der minimalen Anzahl vorsehen, wenn ein überwiegendes öffentliches Interesse dies rechtfertigt; die aus zwei Zeichen bestehenden Abkürzungen der Kantone sowie die aus zwei Zeichen bestehenden Namen der Einwohnergemeinden und Ortschaften der Schweiz sind nach Artikel 26 Absatz 1 Buchstabe b reserviert und können den betreffenden öffentlich-rechtlichen Körperschaften zugewiesen werden;
 - b. die beantragte Bezeichnung nicht nach den Bestimmungen dieser Verordnung reserviert ist, es sei denn, die Reservation erfolgte für die gesuchstellende Person;
 - c. die besonderen Zuteilungsvoraussetzungen für die betreffende Domain erfüllt sind.
 
-<sup>1bis</sup> Die Registerbetreiberin teilt einen Domain-Namen zu und verhindert jegliche Konfiguration der mit ihm verbundenen Namensserver in der Zonendatei, die die Aktivierung des Domain-Namens ermöglicht, wenn ihr eine im Rahmen ihrer Zuständigkeit intervenierende Behörde mitteilt, dass berechtige Gründe zur Annahme bestehen, dass die Gesuchstellerin oder der Gesuchsteller den beantragten Domain-Namen zu einem unrechtmässigen Zweck oder in unrechtmässiger Weise nutzen wird.[^25-2]
+<sup>1bis</sup> Die Registerbetreiberin teilt einen Domain-Namen zu und verhindert jegliche Konfiguration der mit ihm verbundenen Namensserver in der Zonendatei, die die Aktivierung des Domain-Namens ermöglicht, wenn ihr eine im Rahmen ihrer Zuständigkeit intervenierende Behörde mitteilt, dass berechtige Gründe zur Annahme bestehen, dass die gesuchstellende Person den beantragten Domain-Namen zu einem unrechtmässigen Zweck oder in unrechtmässiger Weise nutzen wird.[^chap2-sec4-lvlu3-2]
 
-<sup>1ter</sup>
-
-Sie kann einen Domain-Namen zuteilen und jegliche Konfiguration der mit ihm verbundenen Namensserver in der Zonendatei verhindern, die die Aktivierung des Domain-Namens ermöglicht, wenn berechtigte Gründe zur Annahme bestehen, dass die Gesuchstellerin oder der Gesuchsteller:
+<sup>1ter</sup> Sie kann einen Domain-Namen zuteilen und jegliche Konfiguration der mit ihm verbundenen Namensserver in der Zonendatei verhindern, die die Aktivierung des Domain-Namens ermöglicht, wenn berechtigte Gründe zur Annahme bestehen, dass die gesuchstellende Person:
 
 - a. falsche Identifizierungsangaben macht oder unrechtmässig die Identität eines Dritten verwendet; und
-- b. den beantragten Domain-Namen zu einem unrechtmässigen Zweck oder in unrechtmässiger Weise nutzen wird.[^25-3]
+- b. den beantragten Domain-Namen zu einem unrechtmässigen Zweck oder in unrechtmässiger Weise nutzen wird.[^chap2-sec4-lvlu3-3]
 
-<sup>1quater</sup> Wenn die Halterin oder der Halter in den Fällen nach den Absätzen 1<sup>bis</sup> und <sup>1ter</sup> innerhalb von 30 Tagen ihre oder seine Identität nicht korrekt bekannt gibt, widerruft die Registerbetreiberin die Zuteilung des Domain-Namens.[^25-4]
+<sup>1quater</sup> Wenn die Halterin oder der Halter in den Fällen nach den Absätzen 1<sup>bis</sup> und <sup>1ter</sup> innerhalb von 30 Tagen ihre oder seine Identität nicht korrekt bekannt gibt, widerruft die Registerbetreiberin die Zuteilung des Domain-Namens.[^chap2-sec4-lvlu3-4]
 
-<sup>2</sup>
-
-Die Registerbetreiberin verweigert die Zuteilung eines Domain-Namens, wenn:
+<sup>2</sup> Die Registerbetreiberin verweigert die Zuteilung eines Domain-Namens, wenn:
 
 - a. die Bezeichnung gegen die öffentliche Ordnung, die guten Sitten oder das anwendbare Recht verstösst;
 - b. technische Gründe dies erfordern;
-- c.[^25-5] ihr eine im Rahmen ihrer Zuständigkeit intervenierende Behörde mitteilt, dass berechtige Gründe zur Annahme bestehen, dass die Gesuchstellerin oder der Gesuchsteller den beantragten Domain-Namen zu einem unrechtmässigen Zweck oder in unrechtmässiger Weise nutzen wird;
-- d.[^25-6] ein Gesuchsteller, dessen Domain-Name nach Artikel 15*c* Absatz 2 oder Artikel 16 Absatz 3 widerrufen wurde, die Zuteilung desselben Domainnamens erneut beantragt, ohne eine gültige Korrespondenzadresse in der Schweiz zu bezeichnen.
+- c.[^chap2-sec4-lvlu3-5] ihr eine im Rahmen ihrer Zuständigkeit intervenierende Behörde mitteilt, dass berechtige Gründe zur Annahme bestehen, dass die gesuchstellende Person den beantragten Domain-Namen zu einem unrechtmässigen Zweck oder in unrechtmässiger Weise nutzen wird;
+- d.[^chap2-sec4-lvlu3-6] eine gesuchstellende Person, dessen Domain-Name nach Artikel 15*c* Absatz 2 oder Artikel 16 Absatz 3 widerrufen wurde, die Zuteilung desselben Domainnamens erneut beantragt, ohne eine gültige Korrespondenzadresse in der Schweiz zu bezeichnen.
 
-<sup>3</sup> Sie kann die Zuteilung eines Domain-Namens verweigern, wenn die Gesuchstellerin oder der Gesuchsteller Konkurs anmeldet oder sich in Liquidation oder Nachlassstundung befindet.
-
-[^25-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6251](https://fedlex.data.admin.ch/eli/oc/2020/1026)).
-[^25-2]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6251](https://fedlex.data.admin.ch/eli/oc/2020/1026)).
-[^25-3]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6251](https://fedlex.data.admin.ch/eli/oc/2020/1026)).
-[^25-4]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6251](https://fedlex.data.admin.ch/eli/oc/2020/1026)).
-[^25-5]: Eingefügt durch Ziff. I der V vom 15. Sept. 2017, in Kraft seit 1. Nov. 2017 ([AS 2017 5225](https://fedlex.data.admin.ch/eli/oc/2017/576)).
-[^25-6]: Eingefügt durch Ziff. I der V vom 15. Sept. 2017, in Kraft seit 1. Nov. 2017 ([AS 2017 5225](https://fedlex.data.admin.ch/eli/oc/2017/576)).
+<sup>3</sup> Sie kann die Zuteilung eines Domain-Namens verweigern, wenn die gesuchstellende Person Konkurs anmeldet oder sich in Liquidation oder Nachlassstundung befindet.
 
 #### Art. 26
 
@@ -541,6 +559,12 @@ Die folgenden Bezeichnungen oder Kategorien von Bezeichnungen sind reserviert:[^
 
 <sup>2</sup> Reservierte Bezeichnungen oder Kategorien von Bezeichnungen können als Domain-Name nur denjenigen Personen oder Kategorien von Personen zugeteilt werden, für die sie reserviert sind, es sei denn, die Personen oder Kategorien von Personen haben einer Zuteilung an Dritte zugestimmt; vorbehalten bleiben zudem diejenigen Fälle, in denen eine Zuteilung bereits vor der Reservation oder vor Inkrafttreten dieser Verordnung erfolgte. Im Streitfall werden gleichlautende Bezeichnungen für einen Kanton und eine Einwohnergemeinde Letzterer zugeteilt.
 
+[^chap2-sec4-lvlu3-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6251](https://fedlex.data.admin.ch/eli/oc/2020/1026)).
+[^chap2-sec4-lvlu3-2]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6251](https://fedlex.data.admin.ch/eli/oc/2020/1026)).
+[^chap2-sec4-lvlu3-3]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6251](https://fedlex.data.admin.ch/eli/oc/2020/1026)).
+[^chap2-sec4-lvlu3-4]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6251](https://fedlex.data.admin.ch/eli/oc/2020/1026)).
+[^chap2-sec4-lvlu3-5]: Eingefügt durch Ziff. I der V vom 15. Sept. 2017, in Kraft seit 1. Nov. 2017 ([AS 2017 5225](https://fedlex.data.admin.ch/eli/oc/2017/576)).
+[^chap2-sec4-lvlu3-6]: Eingefügt durch Ziff. I der V vom 15. Sept. 2017, in Kraft seit 1. Nov. 2017 ([AS 2017 5225](https://fedlex.data.admin.ch/eli/oc/2017/576)).
 [^26-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6251](https://fedlex.data.admin.ch/eli/oc/2020/1026)).
 [^26-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6251](https://fedlex.data.admin.ch/eli/oc/2020/1026)).
 [^26-3]: [SR 510.625](https://fedlex.data.admin.ch/eli/cc/2008/393)
@@ -551,13 +575,13 @@ Die folgenden Bezeichnungen oder Kategorien von Bezeichnungen sind reserviert:[^
 
 <sup>1</sup> Die Bearbeitung eines Registrierungsgesuchs durch die Registerbetreiberin wird mit der Zuteilung oder der Verweigerung der Zuteilung des beantragten Domain-Namens abgeschlossen.
 
-<sup>2</sup> Die Registerbetreiberin teilt das Nutzungsrecht an einem Domain-Namen zu. Die Zuteilung tritt mit der elektronischen Bestätigung in Kraft, die über das Registrierungssystem an den Registrar erfolgt, der im Auftrag der Gesuchstellerin oder des Gesuchstellers tätig ist.
+<sup>2</sup> Die Registerbetreiberin teilt das Nutzungsrecht an einem Domain-Namen zu. Die Zuteilung tritt mit der elektronischen Bestätigung in Kraft, die über das Registrierungssystem an den Registrar erfolgt, der im Auftrag der gesuchstellende Person tätig ist.
 
-<sup>3</sup> Sie teilt die Verweigerung der Zuteilung eines Domain-Namens dem Registrar, der im Auftrag der Gesuchstellerin oder des Gesuchstellers tätig ist, elektronisch über das Registrierungssystem oder nötigenfalls auf anderem Wege mit. Sie teilt der Gesuchstellerin oder dem Gesuchsteller die Verweigerung der Zuteilung eines Domain-Namens, der mittels Namenszuteilungsmandat nach Artikel 56 zugeteilt werden muss, direkt mit einem geeigneten Kommunikationsmittel mit.[^27-1]
+<sup>3</sup> Sie teilt die Verweigerung der Zuteilung eines Domain-Namens dem Registrar, der im Auftrag der gesuchstellende Person tätig ist, elektronisch über das Registrierungssystem oder nötigenfalls auf anderem Wege mit. Sie teilt der gesuchstellende Person die Verweigerung der Zuteilung eines Domain-Namens, der mittels Namenszuteilungsmandat nach Artikel 56 zugeteilt werden muss, direkt mit einem geeigneten Kommunikationsmittel mit.[^27-1]
 
 <sup>4</sup>
 
-Das BAKOM entscheidet über die Verweigerung der Zuteilung eines Domain-Namens, wenn innerhalb von 40 Tagen ab Mitteilung der Verweigerung nach Absatz 3 die Gesuchstellerin oder der Gesuchsteller:[^27-2]
+Das BAKOM entscheidet über die Verweigerung der Zuteilung eines Domain-Namens, wenn innerhalb von 40 Tagen ab Mitteilung der Verweigerung nach Absatz 3 die gesuchstellende Person:[^27-2]
 
 - a. einen solchen Entscheid verlangt; und
 - b. eine gültige Korrespondenzadresse in der Schweiz angibt, falls ihr oder sein Sitz oder Wohnsitz sich im Ausland befindet.
@@ -629,26 +653,27 @@ Die Registerbetreiberin widerruft die Zuteilung eines Domain-Namens:
 
 Eine von einem Streitbeilegungsdienst beauftragte Fachperson, ein Gericht, ein Schiedsgericht oder eine Schweizer Verwaltungs- oder Strafverfolgungsbehörde kann entsprechend ihrer oder seiner Zuständigkeit vorläufige Anordnungen an die Registerbetreiberin richten; die Registerbetreiberin kann insbesondere verpflichtet werden:
 
-- a. einen Domain-Namen technisch zu sperren oder zu ändern, indem die damit verbundenen Namensserver in der Zonendatei gelöscht, mit neuen Namensservern ersetzt oder nach ihrer Löschung nicht wieder eingefügt werden;
-- b. einen Domain-Namen administrativ zu sperren, indem dessen Zuteilung oder Neuzuteilung an einen Dritten, dessen Transfer sowie jegliche Veränderung technischer oder administrativer Parameter untersagt wird;
+- a. einen Domain-Namen technisch zu blockieren[^30-2] oder zu ändern, indem die damit verbundenen Namensserver in der Zonendatei gelöscht, mit neuen Namensservern ersetzt oder nach ihrer Löschung nicht wieder eingefügt werden;
+- b. einen Domain-Namen administrativ zu blockieren, indem dessen Zuteilung oder Neuzuteilung an einen Dritten, dessen Transfer sowie jegliche Veränderung technischer oder administrativer Parameter untersagt wird;
 - c. einen Domain-Namen an einen anderen Registrar zu übertragen;
 - d. alle Informationen oder technischen oder administrativen Parameter betreffend die Verwaltung eines Domain-Namens zu korrigieren, zu ändern oder zu löschen;
 - e. alle Informationen in der RDDS-Datenbank (WHOIS) zu korrigieren, zu ändern, zu anonymisieren oder zu löschen;
 - f. einen Domain-Namen sich selber oder einer bestimmten Person zuzuteilen;
 - g. den zu einem Domain-Namen führenden oder über diesen geführten Datenverkehr zu Analysezwecken umzuleiten;
-- h.[^30-2] den zu einem Domain-Namen führenden oder über diesen geführten Datenverkehr auf eine Informationsseite umzuleiten.[^30-3]
+- h.[^30-3] den zu einem Domain-Namen führenden oder über diesen geführten Datenverkehr auf eine Informationsseite umzuleiten.[^30-4]
 
 <sup>4</sup>
 
 Die Registerbetreiberin kann provisorische Massnahmen nach Absatz 3 treffen:
 
 - a. wenn sich dies zum Schutz der Integrität und Stabilität des DNS als notwendig erweist und zeitliche Dringlichkeit besteht, einen drohenden, nicht leicht wiedergutzumachenden Nachteil abzuwenden;
-- b. für höchstens fünf Werktage, wenn der begründete Verdacht besteht , dass die Halterin oder der Halter den Domain-Namen in unrechtmässiger Weise oder zu einem unrechtmässigen Zweck benutzt, und die zeitliche Dringlichkeit besteht, einen drohenden, nicht leicht wiedergutzumachenden Nachteil abzuwenden.[^30-4]
+- b. für höchstens fünf Werktage, wenn der begründete Verdacht besteht , dass die Halterin oder der Halter den Domain-Namen in unrechtmässiger Weise oder zu einem unrechtmässigen Zweck benutzt, und die zeitliche Dringlichkeit besteht, einen drohenden, nicht leicht wiedergutzumachenden Nachteil abzuwenden.[^30-5]
 
 [^30-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6251](https://fedlex.data.admin.ch/eli/oc/2020/1026)).
-[^30-2]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6251](https://fedlex.data.admin.ch/eli/oc/2020/1026)).
-[^30-3]: Fassung gemäss Ziff. I der V vom 15. Sept. 2017, in Kraft seit 1. Nov. 2017 ([AS 2017 5225](https://fedlex.data.admin.ch/eli/oc/2017/576)).
-[^30-4]: Eingefügt durch Ziff. I der V vom 15. Sept. 2017, in Kraft seit 1. Nov. 2017 ([AS 2017 5225](https://fedlex.data.admin.ch/eli/oc/2017/576)).
+[^30-2]: Ausdruck gemäss Ziff. I vom 28. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 1967](https://fedlex.data.admin.ch/eli/oc/2023/1967)).
+[^30-3]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6251](https://fedlex.data.admin.ch/eli/oc/2020/1026)).
+[^30-4]: Fassung gemäss Ziff. I der V vom 15. Sept. 2017, in Kraft seit 1. Nov. 2017 ([AS 2017 5225](https://fedlex.data.admin.ch/eli/oc/2017/576)).
+[^30-5]: Eingefügt durch Ziff. I der V vom 15. Sept. 2017, in Kraft seit 1. Nov. 2017 ([AS 2017 5225](https://fedlex.data.admin.ch/eli/oc/2017/576)).
 
 #### Art. 31
 
@@ -866,7 +891,7 @@ Die Registerbetreiberin kann folgende Daten in der RDDS-Datenbank (WHOIS) veröf
 
 **Besondere Zuteilungsbedingungen**
 
-<sup>1</sup> Ist ein Domain-Namen noch nicht zugeteilt und sind die allgemeinen Zuteilungsvoraussetzungen nach Artikel 25 erfüllt, so teilt die Registerbetreiberin den Domain-Namen der Gesuchstellerin oder dem Gesuchsteller zu, die oder der das Gesuch zuerst eingereicht hat.
+<sup>1</sup> Ist ein Domain-Namen noch nicht zugeteilt und sind die allgemeinen Zuteilungsvoraussetzungen nach Artikel 25 erfüllt, so teilt die Registerbetreiberin den Domain-Namen der gesuchstellende Person zu, die oder der das Gesuch zuerst eingereicht hat.
 
 <sup>2</sup> Die Registerbetreiberin überprüft die Berechtigung zur Verwendung alphanumerischer Bezeichnungen von Domain-Namen nicht. Streitigkeiten bezüglich Ansprüchen aus dem Kennzeichenrecht im Zusammenhang mit Domain-Namen sind zivilrechtlich zu regeln.
 
@@ -895,10 +920,12 @@ Die Bestimmungen des vorliegenden Kapitels regeln die Verwaltung der Domain der 
 Die Domain «.swiss» weist die folgenden Eigenschaften auf:
 
 - a. Sie wird vom Bund verwaltet.
-- b. Sie sowie die ihr untergeordneten Domain-Namen sollen der schweizerischen Community, dem Image sowie den politischen, wirtschaftlichen, rechtlichen und kulturellen Interessen des Landes dienen und diese weltweit fördern.
+- b. Sie sowie die ihr untergeordneten Domain-Namen sollen der schweizerischen Gemeinschaft[^50-1], dem Image sowie den politischen, wirtschaftlichen, rechtlichen und kulturellen Interessen des Landes dienen und diese weltweit fördern.
 - c. Die ihr untergeordneten Domain-Namen können nur in der Schweiz ansässigen Personen oder solchen, die einen besonderen Bezug zur Schweiz haben, zugeteilt werden.
-- d. Die Politik der Zuteilung von Domain-Namen hat umsichtig und sorgsam zu erfolgen und die Interessen der schweizerischen Community zu berücksichtigen; sie kann eine stufenweise Öffnung der zuteilbaren Bezeichnungskategorien und der zuteilungsberechtigten Personen vorsehen.
+- d. Die Politik der Zuteilung von Domain-Namen hat umsichtig und sorgsam zu erfolgen und die Interessen der schweizerischen Gemeinschaft zu berücksichtigen; sie kann eine stufenweise Öffnung der zuteilbaren Bezeichnungskategorien und der zuteilungsberechtigten Personen vorsehen.
 - e. Die Registrarfunktion wird im freien Wettbewerb durch die Unternehmen ausgeübt, die mit der Registerbetreiberin einen gültigen Registrarvertrag abgeschlossen haben.
+
+[^50-1]: Ausdruck gemäss Ziff. I vom 28. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 1967](https://fedlex.data.admin.ch/eli/oc/2023/1967)).
 
 ### 2. Abschnitt: Registerbetreiberin
 
@@ -949,39 +976,53 @@ Sie kann dort folgende Daten veröffentlichen:
 
 Ein Domain-Name wird zugeteilt, wenn neben den allgemeinen Zuteilungsvoraussetzungen nach Artikel 25 die folgenden besonderen Zuteilungsbedingungen erfüllt sind:
 
-- a. Die Gesuchstellerin oder der Gesuchsteller kann eine ausreichende Verbindung mit der Schweiz darlegen; dies ist insbesondere dann der Fall, wenn sich der Sitz einer Gesellschaft und deren physischer Verwaltungssitz oder der Wohnsitz in der Schweiz befinden oder wenn die betreffende Person über die Schweizer Staatsangehörigkeit verfügt.
-- b. Die Gesuchstellerin oder der Gesuchsteller gehört zum Zeitpunkt der Einreichung des Gesuchs einer Kategorie von Personen an, die für eine Zuteilung berechtigt ist.
-- c. Die beantragte Bezeichnung gehört zum Zeitpunkt der Gesuchseinreichung zu einer für die Zuteilung verfügbaren Kategorie von Bezeichnungen.
+- a. Die gesuchstellende Person kann eine ausreichende Verbindung mit der Schweiz darlegen; dies ist insbesondere dann der Fall, wenn sich der Sitz einer Gesellschaft und deren physischer Verwaltungssitz oder der Wohnsitz in der Schweiz befinden oder wenn die betreffende Person über die Schweizer Staatsangehörigkeit verfügt.
+- b. Die gesuchstellende Person gehört zum Zeitpunkt der Einreichung des Gesuchs einer Kategorie von Personen an, die für eine Zuteilung berechtigt ist.
+- c.[^53-1] …
 - d. Die vorgesehene Nutzung entspricht Schweizer Recht; ein Sitz und ein Ort der tatsächlichen Verwaltung oder ein Wohnsitz in der Schweiz sind unabdingbar, wenn der Domain-Name zum Anbieten von Waren, Dienstleistungen oder für eigene Werbung verwendet werden soll.
-- e.
-
-  Die beantragte Bezeichnung lässt berechtigterweise einen objektiven Bezug zur Gesuchstellerin oder zum Gesuchsteller oder zur vorgesehenen Nutzung des Domain-Namens zu; dies ist insbesondere dann der Fall, wenn der Domain-Name eine der folgenden Bedingungen erfüllt:
-
-  - 1\. Er beinhaltet eine Bezeichnung, auf welche die Gesuchstellerin oder der Gesuchsteller einen Anspruch aus dem Kennzeichenrecht hat.
-  - 2\. Er bezieht sich auf eine objektiv mit dem Staat oder seinen Tätigkeiten verbundene Bezeichnung, die von der betreffenden öffentlich-rechtlichen Körperschaft oder Organisation des öffentlichen Rechts beansprucht wird.
-  - 3\.
-
-    Er beinhaltet eine geografische Bezeichnung:
-
-    - – auf welche die Gesuchstellerin oder der Gesuchsteller ein Recht hat oder an welcher sie oder er ein legitimes Interesse hat;
-    - – die in der Öffentlichkeit wahrgenommen wird, als habe die Gesuchstellerin oder der Gesuchsteller darauf ein Recht oder als habe sie oder er daran ein legitimes Interesse; oder
-    - – für deren Nutzung die Gesuchstellerin oder der Gesuchsteller von der oder den betreffenden öffentlich-rechtlichen Körperschaften oder anderen Organisationen autorisiert ist.
-
-  - 4\. Er leitet sich von einer Bezeichnung ab, an welcher die gesuchstellende Person ein legitimes Interesse hat oder die von der Öffentlichkeit mit ihr in Verbindung gebracht wird.
-
+- e.[^53-2] Die beantragte Bezeichnung lässt berechtigterweise einen objektiven Bezug zur gesuchstellenden Person oder zur vorgesehenen Nutzung des Domain-Namens zu.
 - f. Die beantragte Bezeichnung bezieht sich nicht auf einen generischen Begriff; vorbehalten bleiben die Bestimmungen zum Namenszuteilungsmandat (Art. 56).
+
+<sup>1bis</sup>
+
+Ein objektiver Bezug nach Absatz 1 Buchstabe e besteht bei gesuchstellenden natürlichen Personen, wenn der Domain-Name nebst einer frei wählbaren freiwilligen Bezeichnung mindestens eine der folgenden Bezeichnungen enthält:
+
+- a. einen offiziellen Nachnamen oder einen anderen beim Zivilstandesamt registrierten Nachnamen;
+- b. einen Vornamen;
+- c. eine Bezeichnung, auf die die gesuchstellende Person einen Anspruch aus dem Kennzeichenrecht hat;
+- d. den Allianznamen, den gemeinsamen Namen bei eingetragener Partnerschaft, den Namen, der im Zusammenhang mit einem religiösen Orden erworben wurde, oder den Künstlernamen, unter dem die Person Bekanntheit erlangt hat.[^53-3]
+
+<sup>1ter</sup>
+
+Ein objektiver Bezug nach Absatz 1 Buchstabe e ist bei nicht natürlichen gesuchstellenden Personen gegeben, wenn der Domain-Name eine der folgenden Bedingungen erfüllt:
+
+- a. Er beinhaltet eine Bezeichnung, auf welche die gesuchstellende Person einen Anspruch aus dem Kennzeichenrecht hat.
+- b. Er bezieht sich auf eine objektiv mit dem Staat oder seinen Tätigkeiten verbundene Bezeichnung, die von der betreffenden öffentlich-rechtlichen Körperschaft oder Organisation des öffentlichen Rechts beansprucht wird.
+- c.
+
+  Er beinhaltet eine geografische Bezeichnung:
+
+  - 1\. auf welche die gesuchstellende Person ein Recht hat oder an welcher sie ein legitimes Interesse hat;
+  - 2\. die in der Öffentlichkeit wahrgenommen wird, als habe die gesuchstellende Person ein Recht darauf oder ein legitimes Interesse daran; oder
+  - 3\. für deren Nutzung die gesuchstellende Person von der betreffenden Körperschaft oder Organisation autorisiert ist.
+
+- d. Er leitet sich von einer Bezeichnung ab, an welcher die gesuchstellende Person ein legitimes Interesse hat oder die von der Öffentlichkeit mit ihr in Verbindung gebracht wird.[^53-4]
 
 <sup>2</sup>
 
 Die Registerbetreiberin kann die Zuteilung eines Domain-Namens verweigern, wenn:
 
-- a.[^53-1] die gewählte Bezeichnung offensichtlich zu einer Verwechslung mit einem bereits zugeteilten Domain-Namen oder einer reservierten Bezeichnung nach Artikel 26 führen kann;
+- a.[^53-5] die gewählte Bezeichnung offensichtlich zu einer Verwechslung mit einem bereits zugeteilten Domain-Namen oder einer reservierten Bezeichnung nach Artikel 26 führen kann;
 - b. sich aufgrund einer summarischen Prüfung herausstellt, dass die gewählte Bezeichnung Kennzeichenrechte Dritter verletzt; darüber hinaus wird die Berechtigung zur Verwendung von alphanumerischen Bezeichnungen nicht geprüft; Streitigkeiten bezüglich Ansprüchen aus dem Kennzeichenrecht im Zusammenhang mit Domain-Namen sind zivilrechtlich zu regeln;
 - c. die der Domain zugrunde liegenden Eigenschaften oder Werte dagegen sprechen.
 
-<sup>3</sup> In Ausnahmefällen kann die Registerbetreiberin Domain-Namen auch bei Nichterfüllung der besonderen Zuteilungsvoraussetzungen zuteilen, wenn dies durch ein überwiegendes Interesse der schweizerischen Community gerechtfertigt ist.
+<sup>3</sup> In Ausnahmefällen kann die Registerbetreiberin Domain-Namen auch bei Nichterfüllung der besonderen Zuteilungsvoraussetzungen zuteilen, wenn dies durch ein überwiegendes Interesse der schweizerischen Gemeinschaft gerechtfertigt ist.
 
-[^53-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6251](https://fedlex.data.admin.ch/eli/oc/2020/1026)).
+[^53-1]: Aufgehoben durch Ziff. I der V vom 28. Juni 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
+[^53-2]: Fassung gemäss Ziff. I der V vom 28. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
+[^53-3]: Eingefügt durch Ziff. I der V vom 28. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
+[^53-4]: Eingefügt durch Ziff. I der V vom 28. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
+[^53-5]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6251](https://fedlex.data.admin.ch/eli/oc/2020/1026)).
 
 #### Art. 54
 
@@ -997,15 +1038,17 @@ Zur Zuteilung eines Domain-Namens berechtigt sind:
 
 - a. schweizerische öffentlich-rechtliche Körperschaften oder andere schweizerische Organisationen des öffentlichen Rechts;
 - b. im Schweizerischen Handelsregister eingetragene Unternehmen, die ihren Sitz sowie einen physischen Verwaltungssitz in der Schweiz haben;
-- c. Vereine und Stiftungen ohne Eintrag im Schweizerischen Handelsregister, die ihren Sitz sowie einen physischen Verwaltungssitz in der Schweiz haben.
+- c. Vereine und Stiftungen ohne Eintrag im Schweizerischen Handelsregister, die ihren Sitz sowie einen physischen Verwaltungssitz in der Schweiz haben;
+- d.[^55-2] natürliche Personen mit Wohnsitz in der Schweiz oder mit Schweizer Staatsbürgerschaft.
 
 [^55-1]: Fassung gemäss Ziff. I der V vom 15. Sept. 2017, in Kraft seit 1. Nov. 2017 ([AS 2017 5225](https://fedlex.data.admin.ch/eli/oc/2017/576)).
+[^55-2]: Eingefügt durch Ziff. I der V vom 28. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
 
 #### Art. 56
 
 **Namenszuteilungsmandat**
 
-<sup>1</sup> Domain-Namen, die Bezeichnungen mit generischem Charakter entsprechen oder solchen ähnlich sind und die von besonderem Interesse für die ganze oder einen Teil der schweizerischen Community sind, müssen mit einem Namenszuteilungsmandat zugeteilt werden. Das BAKOM kann eine nicht abschliessende Liste der Bezeichnungen und der betreffenden Bezeichnungskategorien erstellen und aktualisieren.
+<sup>1</sup> Domain-Namen, die Bezeichnungen mit generischem Charakter entsprechen oder solchen ähnlich sind und die von besonderem Interesse für die ganze oder einen Teil der schweizerischen Gemeinschaft sind, müssen mit einem Namenszuteilungsmandat zugeteilt werden. Das BAKOM kann eine nicht abschliessende Liste der Bezeichnungen und der betreffenden Bezeichnungskategorien veröffentlichen.[^56-1]
 
 <sup>2</sup>
 
@@ -1019,17 +1062,17 @@ Die Registerbetreiberin kann mittels Namenszuteilungsmandat Domain-Namen zuteile
 Alle zur Zuteilung eines Domain-Namens mit Namenszuteilungsmandat berechtigten Bewerberinnen und Bewerber müssen:
 
 - a. darlegen, dass sie die allgemeinen und besonderen Bestimmungen für die Zuteilung eines Domain-Namens erfüllen;
-- b.[^56-1] nachweisen, dass sie mit der beantragten Bezeichnung die ganze oder einen namhaften Teil der betreffenden Gemeinschaft repräsentieren oder dass ihre Bewerbung von einem namhaften Teil oder der ganzen Gemeinschaft unterstützt wird; Garantien für die Beachtung der Grundsätze der Wettbewerbsneutralität, Nichtdiskriminierung und Transparenz können die Repräsentation oder Unterstützung der Gemeinschaft ersetzen, wenn sich die beantragte Bezeichnung auf keine bestimmte Gemeinschaft bezieht oder die beantragte Bezeichnung nicht von einer organisierten oder konstituierten Gemeinschaft repräsentiert wird;
+- b.[^56-2] nachweisen, dass sie mit der beantragten Bezeichnung die ganze oder einen namhaften Teil der betreffenden Gemeinschaft repräsentieren oder dass ihre Bewerbung von einem namhaften Teil oder der ganzen Gemeinschaft unterstützt wird; Garantien für die Beachtung der Grundsätze der Wettbewerbsneutralität, Nichtdiskriminierung und Transparenz können die Repräsentation oder Unterstützung der Gemeinschaft ersetzen, wenn sich die beantragte Bezeichnung auf keine bestimmte Gemeinschaft bezieht oder die beantragte Bezeichnung nicht von einer organisierten oder konstituierten Gemeinschaft repräsentiert wird;
 - c. allfällige damit verbundene Domain-Namen, die sie in das Namenszuteilungsmandat integrieren möchten, auf Deutsch, Französisch, Italienisch oder Englisch angeben;
 - d. darlegen, dass die geplante Nutzung des Domain-Namens und die damit angebotenen Dienstleistungen der Gesamtheit der betroffenen Personengruppe zum Vorteil gereichen;
-- e. aufzeigen, wie sie sicherstellen, dass die Bestimmungen des 2. Titels des Markenschutzgesetzes vom 28. August 1992[^56-2] bei allen Produkten eingehalten werden, die über den Domain-Namen angeboten werden, dessen Bezeichnung sich auf ein Produkt, dessen Eigenschaften oder auf eine Produktkategorie bezieht;
-- f. aufzeigen, inwiefern ihr Projekt für die betreffende Personengruppe und für die schweizerische Community einen Mehrwert beinhaltet;
+- e. aufzeigen, wie sie sicherstellen, dass die Bestimmungen des 2. Titels des Markenschutzgesetzes vom 28. August 1992[^56-3] bei allen Produkten eingehalten werden, die über den Domain-Namen angeboten werden, dessen Bezeichnung sich auf ein Produkt, dessen Eigenschaften oder auf eine Produktkategorie bezieht;
+- f. aufzeigen, inwiefern ihr Projekt für die betreffende Personengruppe und für die schweizerische Gemeinschaft einen Mehrwert beinhaltet;
 - g. aufzeigen, dass die Bewerbung die Vorgaben des BAKOM an die Qualität des Domain-Namens oder des geplanten Vorhabens erfüllt;
 - h. einen Entwurf für ein Namenszuteilungsmandat vorlegen.
 
 <sup>4</sup> Die Registerbetreiberin publiziert die Bewerbungen. Andere Bewerberinnen und Bewerber können innerhalb von 20 Tagen nach Publikation ein Gesuch um Zuteilung desselben Domain-Namens stellen.
 
-<sup>5</sup> Bei mehreren Bewerbungen teilt die Registerbetreiberin den Domain-Namen der Bewerberin oder dem Bewerber zu, deren oder dessen Entwurf im Vergleich zu den anderen Entwürfen für die betroffene Personengruppe und die schweizerische Community einen eindeutig höheren Mehrwert beinhaltet.
+<sup>5</sup> Bei mehreren Bewerbungen teilt die Registerbetreiberin den Domain-Namen der Bewerberin oder dem Bewerber zu, deren oder dessen Entwurf im Vergleich zu den anderen Entwürfen für die betroffene Personengruppe und die schweizerische Gemeinschaft einen eindeutig höheren Mehrwert beinhaltet.
 
 <sup>6</sup> Wenn kein Projekt die Voraussetzung nach Absatz 5 erfüllt und sich die Bewerberinnen und Bewerber auf keine einzelne oder gemeinsame Bewerbung einigen können, nimmt die Registerbetreiberin die Zuteilung aufgrund eines Losentscheids oder einer Versteigerung vor. Der Erlös der Versteigerung fliesst der allgemeinen Bundeskasse zu.
 
@@ -1037,29 +1080,46 @@ Alle zur Zuteilung eines Domain-Namens mit Namenszuteilungsmandat berechtigten B
 
 <sup>8</sup> Die Bestimmungen dieser Verordnung zur Aufsicht über die mit der Wahrnehmung der Funktion der Registerbetreiberin einer vom Bund verwalteten Domain Beauftragten (Art. 40–43) sind auf das Namenszuteilungsmandat sinngemäss anwendbar, insbesondere bezüglich des Widerrufs.
 
+<sup>8bis</sup>
+
+Die Auflösung eines Namenszuteilungsmandats (Art. 41) ist insbesondere zulässig, wenn:
+
+- a. die Inhaberin oder der Inhaber die Zuteilungsbedingungen nicht mehr erfüllt oder die Bestimmungen des Mandats nicht einhält; oder
+- b. die Inhaberin oder der Inhaber die fälligen Verwaltungsgebühren nicht bezahlt. [^56-4]
+
 <sup>9</sup> Die Registerbetreiberin gibt Dritten auf Antrag das Namenszuteilungsmandat bekannt; sie kann es auch mittels Abrufverfahren oder auf andere Weise zugänglich machen. Klauseln und Anhänge, die Geschäftsgeheimnisse enthalten, werden nicht veröffentlicht.
 
-[^56-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6251](https://fedlex.data.admin.ch/eli/oc/2020/1026)).
-[^56-2]: [SR 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
+[^56-1]: Fassung gemäss Ziff. I der V vom 28. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
+[^56-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6251](https://fedlex.data.admin.ch/eli/oc/2020/1026)).
+[^56-3]: [SR 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
+[^56-4]: Eingefügt durch Ziff. I der V vom 28. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
 
 #### Art. 57
 
 **Zuteilungsprozess**
 
-<sup>1</sup> Die Registerbetreiberin prüft sämtliche Registrierungsgesuche für einen Domain-Namen und publiziert diese, es sei denn, das Gesuch erfüllt die allgemeinen und besonderen Zuteilungsvoraussetzungen offensichtlich nicht. Andere Gesuchstellerinnen und Gesuchsteller können innerhalb von 20 Tagen nach Veröffentlichung ein Registrierungsgesuch für denselben Domain-Namen stellen.
+<sup>1</sup> Die Registerbetreiberin prüft sämtliche Registrierungsgesuche für einen Domain-Namen und publiziert diese, es sei denn, das Gesuch erfüllt die allgemeinen und besonderen Zuteilungsvoraussetzungen offensichtlich nicht. Andere gesuchstellende Personen können innerhalb von 20 Tagen nach Veröffentlichung ein Registrierungsgesuch für denselben Domain-Namen stellen.
 
 <sup>2</sup>
 
 Bei mehreren Gesuchen teilt die Registerbetreiberin den betreffenden Domain-Namen in folgender Reihenfolge zu:
 
-- a. grundsätzlich dem gesuchstellenden Gemeinwesen oder der gesuchstellenden öffentlich-rechtlichen Organisation, wenn dieses oder diese in Konkurrenz zu einer privaten Gesuchstellerin oder einem privaten Gesuchsteller steht und die Zuteilung im öffentlichen Interesse liegt;
-- b. der gesuchstellenden öffentlich-rechtlichen Körperschaft oder Organisation des öffentlichen Rechts, die eine Nutzung des betreffenden Domain-Namens vorsieht, der für die schweizerische Community, verglichen mit den anderen vorgesehenen Verwendungen, einen eindeutig höheren Mehrwert beinhaltet; wenn kein Projekt diese Voraussetzungen erfüllt und sich die gesuchstellenden öffentlich-rechtlichen Körperschaften oder Organisationen des öffentlichen Rechts auf keine einzelne oder gemeinsame Bewerbung einigen können, verzichtet die Registerbetreiberin auf die Zuteilung des betreffenden Domain-Namens;
-- c. grundsätzlich der Gesuchstellerin oder dem Gesuchsteller, der oder dem bezüglich des betreffenden Domain-Namens ein Recht am Kennzeichen zusteht, falls sie oder er im Wettbewerb mit anderen Gesuchstellerinnen und Gesuchstellern ohne ein solches Recht steht;
-- d. an einer Auktion der oder dem Meistbietenden, wenn die Gesuchstellerinnen und Gesuchsteller über konkurrierende Berechtigungen aus dem Kennzeichenrecht für den betreffenden Domain-Namen verfügen, es sei denn, die Durchführung einer Auktion erscheint aufgrund der gesamten Umstände oder der Gesuchstellerinnen und Gesuchsteller als unangemessen; der Auktionserlös fliesst der Bundeskasse zu;
-- e. der Gesuchstellerin oder dem Gesuchsteller, die oder der als Erste oder Erster ein Gesuch gestellt hat, wenn sämtliche Gesuchstellerinnen und Gesuchsteller mit dem Domain-Namen identische, nicht kommerzielle Ziele verfolgen;
-- f. der Gesuchstellerin oder dem Gesuchsteller, die oder der eine Nutzung des betreffenden Domain-Namens vorsieht, der für die schweizerische Community einen eindeutig höheren Mehrwert beinhaltet als die von den anderen Gesuchstellerinnen und Gesuchstellern vorgesehene Nutzung; wenn kein Projekt diese Voraussetzungen erfüllt und sich die Bewerberinnen und Bewerber auf keine einzelne oder gemeinsame Bewerbung einigen können, nimmt die Registerbetreiberin die Zuteilung aufgrund eines Losentscheids oder einer Versteigerung vor; der Erlös der Versteigerung fliest der allgemeinen Bundeskasse zu.
+- a.[^57-1] grundsätzlich der gesuchstellenden Körperschaft des öffentlichen Rechts oder der gesuchstellenden öffentlich-rechtlichen Organisation, wenn diese in Konkurrenz zu einer privaten Gesuchstellerin oder einem privaten Gesuchsteller steht und die Zuteilung im öffentlichen Interesse liegt;
+- b.[^57-2] der gesuchstellenden Körperschaft des öffentlichen Rechts oder der gesuchstellenden öffentlich-rechtlichen Organisation, die eine Nutzung vorsieht, die für die schweizerische Gemeinschaft einen eindeutig höheren Mehrwert beinhaltet als diejenige anderer solcher Körperschaften oder Organisationen; wenn kein Projekt diese Voraussetzungen erfüllt und sich die Körperschaften oder Organisationen auf keine einzelne oder gemeinsame Bewerbung einigen können, verzichtet die Registerbetreiberin auf die Zuteilung des Domain-Namens;
+- c. grundsätzlich der gesuchstellenden Person, der oder dem bezüglich des betreffenden Domain-Namens ein Recht am Kennzeichen zusteht, falls sie oder er im Wettbewerb mit anderen gesuchstellenden Personen ohne ein solches Recht steht;
+- d.[^57-3] an einer Versteigerung der oder dem Meistbietenden, wenn die Gesuchstellerinnen und Gesuchsteller über konkurrierende Berechtigungen aus dem Kennzeichenrecht für den betreffenden Domain-Namen verfügen, es sei denn, die Durchführung einer Versteigerung erscheint aufgrund der gesamten Umstände oder der Gesuchstellerinnen und Gesuchsteller als unangemessen; der Versteigerungserlös fliess der Bundeskasse zu;
+- d<sup>bis</sup>.[^57-4] der juristischen Person, wenn diese in Konkurrenz zu einer natürlichen Person steht;
+- e.[^57-5] an diejenige gesuchstellende Person, die als Erste ein Gesuch gestellt hat, wenn sämtliche gesuchstellenden Personen mit dem Domain-Namen nicht kommerzielle Ziele verfolgen;
+- f.[^57-6] der gesuchstellenden Person, die eine Nutzung vorsieht, die für die schweizerische Gemeinschaft einen eindeutig höheren Mehrwert beinhaltet als diejenige anderer gesuchstellender Personen; wenn kein Projekt diese Voraussetzungen erfüllt und sich die Bewerberinnen und Bewerber auf keine einzelne oder gemeinsame Bewerbung einigen können, nimmt die Registerbetreiberin die Zuteilung aufgrund eines Losentscheids oder einer Versteigerung vor; der Erlös der Versteigerung fliesst der allgemeinen Bundeskasse zu.
 
 <sup>3</sup> Die Registerbetreiberin prüft die rechtmässige Verwendung der beantragten Zeichenfolge nicht, vorbehalten bleibt die summarische Prüfung nach Artikel 53 Absatz 2 Buchstabe b. Streitigkeiten bezüglich Ansprüchen aus dem Kennzeichenrecht im Zusammenhang mit Domain-Namen sind zivilrechtlich zu regeln.
+
+[^57-1]: Fassung gemäss Ziff. I der V vom 28. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
+[^57-2]: Fassung gemäss Ziff. I der V vom 28. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
+[^57-3]: Fassung gemäss Ziff. I der V vom 28. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
+[^57-4]: Eingefügt durch Ziff. I der V vom 28. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
+[^57-5]: Fassung gemäss Ziff. I der V vom 28. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
+[^57-6]: Fassung gemäss Ziff. I der V vom 28. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
 
 ### 4. Abschnitt: Widerruf
 
@@ -1069,10 +1129,19 @@ Die Registerbetreiberin kann die Zuteilung eines Domain-Namens aus eigenem Anlas
 
 - a. wenn es naheliegt, dass eine generische Bezeichnung, deren Zuteilung als Domain-Name vorgenommen wurde, mit Namenszuteilungsmandat hätte erfolgen müssen; die Halterin oder der Halter des Namenszuteilungsmandats bezahlt der bisherigen Halterin oder dem bisherigen Halter eine Entschädigung in Höhe der gesamten Registrierungs- und Verwaltungskosten des widerrufenen Domain-Namens;
 - b. wenn es aufgrund einer summarischen Prüfung offensichtlich erscheint, dass eine zugeteilte Bezeichnung Ansprüche aus dem Kennzeichenrecht verletzt;
-- c. wenn der Domain-Name eine geografische Bezeichnung enthält, die für einen Teil oder die Gesamtheit der schweizerischen Community von besonderem Interesse ist und von einer öffentlich-rechtlichen Körperschaft oder Organisation des öffentlichen Rechts gefordert wird; diese bezahlt der bisherigen Halterin oder dem bisherigen Halter eine Entschädigung in Höhe der gesamten Registrierungs- und Verwaltungskosten des widerrufenen Domain-Namens;
+- c. wenn der Domain-Name eine geografische Bezeichnung enthält, die für einen Teil oder die Gesamtheit der schweizerischen Gemeinschaft von besonderem Interesse ist und von einer öffentlich-rechtlichen Körperschaft oder Organisation des öffentlichen Rechts gefordert wird; diese bezahlt der bisherigen Halterin oder dem bisherigen Halter eine Entschädigung in Höhe der gesamten Registrierungs- und Verwaltungskosten des widerrufenen Domain-Namens;
 - d. wenn der begründete Verdacht besteht, dass die Halterin oder der Halter die Zuteilung in der Absicht beantragt hat, den Ruf eines Dritten mit einem legitimen Interesse an diesem Namen oder an einem damit verbundenen Namen oder den Ruf eines Produkts oder einer Dienstleistung, die in der Öffentlichkeit mit diesem Namen assoziiert wird, zu schädigen;
 - e. wenn der begründete Verdacht besteht, dass die Halterin oder der Halter die Zuteilung in der Absicht beantragt hat, vom Ruf eines Dritten mit einem legitimen Interesse an diesem Namen oder an einem damit verbundenen Namen oder vom Ruf eines im öffentlichen Bewusstsein mit diesem Namen assoziierten Produkts oder einer solchen Dienstleistung zu profitieren;
-- f. wenn die der Domain zugrundeliegenden Eigenschaften oder Werte es erfordern.
+- f. wenn die der Domain zugrundeliegenden Eigenschaften oder Werte es erfordern;
+- g.[^58-1]
+
+  wenn eine natürliche Person als Halterin oder Halter keine Schweizer Staatsbürgerschaft besitzt und ins Ausland zieht; der Widerruf kann unter folgenden Voraussetzungen erfolgen:
+
+  - 1\. die Halterin oder der Halter identifiziert sich nicht korrekt innert 30 Tagen oder gibt keine gültige Korrespondenzadresse in der Schweiz an, obwohl dies die Registerbetreiberin, das BAKOM oder eine im Rahmen ihrer Zuständigkeit intervenierende Schweizer Behörde verlangen,
+  - 2\. die Halterin oder der Halter verwendet den Domain-Namen zum Anbieten von Waren, Dienstleistungen oder für eigene Werbung,
+  - 3\. es bestehen berechtige Gründe zur Annahme, dass die Halterin oder der Halter den Domain-Namen zu einem unrechtmässigen Zweck oder in unrechtmässiger Weise nach dem schweizerischen Recht nutzt.
+
+[^58-1]: Eingefügt durch Ziff. I der V vom 28. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
 
 ## 6. Kapitel: Von anderen öffentlich-rechtlichen Körperschaften der Schweiz verwaltete Domains
 
@@ -1102,13 +1171,25 @@ Dabei halten sie die folgenden Grundsätze ein:
 
 <sup>2</sup> Es kann internationale Vereinbarungen technischen oder administrativen Inhalts abschliessen, die in den Anwendungsbereich dieser Verordnung fallen.
 
-### 2. Abschnitt: …
+### 2. Abschnitt: Übergangsbestimmung zur Änderung vom 28. Juni 2023
 
-#### Art. 61–64
+[^chap7-sec2-1]
 
-[^6164-1]
+[^chap7-sec2-1]: Fassung gemäss Ziff. I der V vom 28. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
 
-[^6164-1]: Aufgehoben durch Ziff. I der V vom 15. Sept. 2017, mit Wirkung seit 1. Nov. 2017 ([AS 2017 5225](https://fedlex.data.admin.ch/eli/oc/2017/576)).
+#### Art. 61
+
+[^61-1]
+
+Die Registerbetreiberin bestimmt das Datum, ab dem natürliche Personen Domain-Namen unter «.swiss» nach Artikel 53 Absatz 1<sup>bis</sup> beantragen und zugeteilt erhalten können. Die operative Öffnung muss spätestens bis am 1. Mai 2024 erfolgen.
+
+[^61-1]: Fassung gemäss Ziff. I der V vom 28. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
+
+#### Art. 62–64
+
+[^6264-1]
+
+[^6264-1]: Aufgehoben durch Ziff. I der V vom 15. Sept. 2017, mit Wirkung seit 1. Nov. 2017 ([AS 2017 5225](https://fedlex.data.admin.ch/eli/oc/2017/576)).
 
 ### 3. Abschnitt: Inkrafttreten
 
@@ -1139,7 +1220,7 @@ Im Sinne der vorliegenden Verordnung bedeutet:
 - k. *RDDS-Datenbank (WHOIS):* «Registration Data Directory Service»-Datenbank, die allen Interessierten einen Zugang in Echtzeit zu den Angaben über die zugeteilten Domain-Namen garantiert;
 - l. *Registerbetreiberin (registry):* Organisation, die mit der zentralen Organisation, Administration und Verwaltung einer Top-Level-Domain sowie mit der Zuteilung und dem Widerruf der Nutzungsrechte für die der Top-Level-Domain zugeordneten Domain-Namen beauftragt ist;
 - m. *Registrar:* Organisation, die befugt ist, bei einer Registerbetreiberin die technischen und administrativen Schritte zu unternehmen, um im Auftrag der gesuchstellenden Person die gewünschten Domain-Namen zu registrieren und die administrative Abwicklung der Registrierung sicherzustellen;
-- n. *Registrierung:* Gesamtheit der technischen und administrativen Schritte, die ein Registrar bei der Registerbetreiberin unternimmt, um für Gesuchstellerinnen und Gesuchsteller die Zuteilung eines Domain-Namens zu erwirken;
+- n. *Registrierung:* Gesamtheit der technischen und administrativen Schritte, die ein Registrar bei der Registerbetreiberin unternimmt, um für gesuchstellenden Personen die Zuteilung eines Domain-Namens zu erwirken;
 - o. *Zuteilung:* Rechtsakt, mit welchem die Registerbetreiberin einer gesuchstellenden Person über einen Registrar das Nutzungsrecht für einen Domain-Namen erteilt;
 - p. *Halterin/Halter:* eine natürliche oder juristische Person, der von der Registerbetreiberin das Nutzungsrecht für einen Domain-Namen erteilt wurde;
 - q. *Bezeichnung mit generischem Charakter:* Bezeichnung, die sich in allgemeiner Weise auf eine Kategorie oder Gattung von Waren, Dienstleistungen, Personen, Gemeinschaften, Organisationen, Produkten, Techniken, Sachgebieten oder Aktivitäten bezieht oder diese beschreibt;

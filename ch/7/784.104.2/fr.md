@@ -4,11 +4,11 @@ title: Ordonnance du 5 novembre 2014 sur les domaines Internet (ODI)
 short: ODI
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/701"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2014-11-05
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/701/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2014-701-20230901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/701/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/701/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-701-20240101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/701/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/701/20230901/fr"
 
 (ODI)
 
-du 5 novembre 2014 (État le 1<sup>er</sup> septembre 2023)
+du 5 novembre 2014 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -148,7 +148,7 @@ Dans l’exercice de sa fonction, le registre a les tâches suivantes:
 - h. annoncer immédiatement aux registraires touchés toute perturbation de l’exploitation du DNS, de son infrastructure ou de ses services d’enregistrement;
 - i. lutter contre la cybercriminalité conformément aux dispositions prévues par la présente ordonnance;
 - j.[^10-3] fournir au public, en ligne par le biais d’un site dédié et facilement identifiable, toute information utile sur les activités du registre;
-- k.[^10-4] ...
+- k.[^10-4] …
 
 <sup>2</sup> Le registre n’examine pas de manière générale et continue les activités des registraires ainsi que des titulaires. Sous réserve de l’art. 51, let. b, il n’est pas tenu de rechercher activement des faits ou des circonstances révélant des activités illicites commises au moyen de noms de domaine.
 
@@ -252,7 +252,7 @@ Il peut prolonger le blocage durant 30 jours au maximum:
 
 #### Art. 15a
 
-**[Mesures en cas de soupçon d’abus: redirection du trafic](https://www.admin.ch/opc/fr/classified-compilation/20141744/index.html)**[^15a-1]
+**Mesures en cas de soupçon d’abus: redirection du trafic**[^15a-1]
 
 <sup>1</sup>
 
@@ -279,11 +279,12 @@ Il redirige le trafic vers un outil d’analyse ou vers une page d’information
 
 <sup>1</sup> Le registre informe le titulaire du nom de domaine concerné immédiatement, par voie électronique, du blocage ou de la redirection du trafic.
 
-<sup>2</sup> Il demande simultanément au titulaire d’indiquer, si besoin est, une adresse de correspondance valable en Suisse et de s’identifier dans les 30 jours.
+<sup>2</sup> Il demande simultanément au titulaire d’indiquer, si besoin est, une adresse de correspondance valable en Suisse et de s’identifier dans les 10 jours.[^15b-2]
 
 <sup>3</sup> L’information du titulaire peut être différée si cela est indispensable pour protéger des intérêts publics ou privés prépondérants.
 
 [^15b-1]: Introduit par le ch. I de l’O du 15 sept. 2017, en vigueur depuis le 1<sup>er</sup> nov. 2017 ([RO 2017 5225](https://fedlex.data.admin.ch/eli/oc/2017/576)).
+[^15b-2]: Nouvelle teneur selon le ch. I de l’O du 28 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
 
 #### Art. 15c
 
@@ -311,6 +312,23 @@ Le registre peut, de son propre fait, ou doit, sur demande d’un service au sen
 - b. il redirige à des fins d’analyse le trafic destiné au nom de domaine ou transitant par ce nom de domaine.
 
 [^15d-1]: Introduit par le ch. I de l’O du 15 sept. 2017, en vigueur depuis le 1<sup>er</sup> nov. 2017 ([RO 2017 5225](https://fedlex.data.admin.ch/eli/oc/2017/576)).
+
+#### Art. 15d<sup>bis</sup>
+
+**[Mesures en cas de soupçon d*’*abus:](https://www.fedlex.admin.ch/eli/cc/2014/701/fr)blocage de noms de domaine nouvellement attribués**[^15dbis-1]
+
+<sup>1</sup>
+
+Le registre peut bloquer pendant 10 jours un nom de domaine dont l’attribution remonte à moins de 90 jours si des raisons fondées lui permettent de supposer que le titulaire:
+
+- a. recourt manifestement à de fausses données d’identification ou usurpe l’identité d’un tiers, et
+- b. utilise le nom de domaine à une fin ou d’une manière illicite.
+
+<sup>2</sup> Il demande simultanément au titulaire de s’identifier dans les 10 jours.
+
+<sup>3</sup> Si le titulaire ne s’identifie pas correctement dans les 10 jours, le registre révoque l’attribution du nom de domaine.
+
+[^15dbis-1]: Introduit par le ch. I de l’O du 28 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
 
 #### Art. 15e
 
@@ -444,7 +462,7 @@ Les registraires sont tenus:
 
 <sup>2</sup> Ils signalent aux services spécialisés de la Confédération les incidents en matière de sécurité de l’information qui touchent leurs systèmes et infrastructures de gestion ou le DNS. Ils peuvent traiter et communiquer aux services concernés des données personnelles en rapport avec ces incidents, au besoin à l’insu des personnes concernées.
 
-<sup>3</sup> ...[^23-1]
+<sup>3</sup> …[^23-1]
 
 <sup>4</sup> Les registraires transmettent sur demande au service de règlement des différends saisi toutes les données personnelles en leur possession qui sont nécessaires à la résolution d’un litige.
 
@@ -473,16 +491,26 @@ Il traite la demande d’enregistrement lorsque celle-ci:
 
 <sup>3</sup>
 
-L’OFCOM détermine les informations, éléments et documents nécessaires qui peuvent être requis par le registre ou les registraires afin de vérifier le nom, l’adresse et l’existence juridique d’un requérant ou le respect des conditions d’attribution d’un nom de domaine, en particulier:
+L’OFCOM détermine les informations et documents qu’un requérant doit fournir au registraire concerné à l’intention du registre afin de vérifier son identité, son adresse et son existence juridique ainsi que le respect des conditions d’attribution d’un nom de domaine, en particulier:[^24-1]
 
 - a. si le requérant est une personne physique: une copie d’un document d’identité national ou d’un passeport valable et une attestation de domicile actuelle;
 - b. si le requérant est une association ou une fondation ayant son siège en Suisse et non inscrite auprès du registre du commerce: une copie certifiée conforme des statuts de l’association ou de l’acte de fondation;
 - c. si le requérant est une personne morale ou une société de personnes ayant son siège à l’étranger: un extrait actuel attesté conforme du registre du commerce étranger ou, lorsque l’extrait ne contient pas d’indications suffisantes ou qu’il n’existe pas d’institution correspondant au registre du commerce, une pièce officielle attestant que l’entité existe légalement conformément aux dispositions du droit étranger applicable;
-- d. le numéro d’identification des entreprises (IDE) au sens de la loi fédérale du 18 juin 2010 sur le numéro d’identification des entreprises[^24-1].
+- d.[^24-2] le numéro d’identification des entreprises (IDE) au sens de la loi fédérale du 18 juin 2010 sur le numéro d’identification des entreprises[^24-3] pour les personnes morales et le numéro AVS pour les personnes physiques.
 
 <sup>4</sup> Il règle au besoin les modalités du dépôt des demandes d’enregistrement. Il peut imposer le recours à des formulaires d’enregistrement et de mutation préétablis.
 
-[^24-1]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du 28 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
+[^24-2]: Nouvelle teneur selon le ch. I de l’O du 28 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
+[^24-3]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+
+#### Art. 24a
+
+**Acquisition de données personnelles pour l’attribution de noms de domaine**[^24a-1]
+
+Afin de vérifier les données personnelles des requérants et des titulaires en vue d’attribuer et de gérer les noms de domaine, le registre a accès aux données personnelles du registre des habitants, du service national des adresses et du registre central des assurés. Les données sont mises à la disposition du registre via un accès en ligne.
+
+[^24a-1]: Introduit par le ch. I de l’O du 28 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
 
 #### Art. 25
 
@@ -951,37 +979,51 @@ Un nom de domaine est attribué lorsque les conditions particulières suivantes 
 
 - a. le requérant peut faire état d’un lien suffisant avec la Suisse; tel est en particulier le cas lorsque son siège et un réel site administratif ou son domicile se trouvent en Suisse, ou s’il peut faire état de la nationalité suisse;
 - b. le requérant appartient, au moment du dépôt de la demande d’enregistrement, à une catégorie de personnes habilitée à requérir une attribution (éligibilité);
-- c. la dénomination requise relève, au moment du dépôt de la demande d’enregistrement, d’une catégorie de dénominations pouvant faire l’objet d’une attribution;
+- c.[^53-1] …
 - d. l’usage prévu est conforme au droit suisse; lorsque le nom de domaine est utilisé pour offrir des produits ou fournir des services, ou pour faire de la publicité en leur faveur, un siège et un réel site administratif ou un domicile en Suisse sont indispensables;
-- e.
-
-  la dénomination requise peut légitimement être considérée comme ayant un rapport objectif avec le requérant ou l’usage prévu du nom de domaine; tel est en particulier le cas lorsque le nom de domaine remplit une des conditions suivantes:
-
-  - 1\. il contient une dénomination sur laquelle le requérant dispose d’un droit attaché à un signe distinctif,
-  - 2\. il se réfère à une dénomination objectivement liée à l’État ou à ses activités qui est requise par la collectivité publique ou l’organisation de droit public concernée,
-  - 3\.
-
-    il contient une dénomination géographique:
-
-    - – sur laquelle le requérant dispose d’un droit ou d’un intérêt légitime,
-    - – pour laquelle il apparaît aux yeux du public comme disposant d’un droit ou d’un intérêt légitime, ou
-    - – à l’utilisation de laquelle il est autorisé par la ou les collectivités publiques ou autres organisations concernées,
-
-  - 4\. relève d’une dénomination sur laquelle le requérant dispose d’un intérêt légitime ou qui est assimilée à ce requérant dans l’esprit du public;
-
+- e.[^53-2] la dénomination requise peut légitimement être considérée comme ayant un rapport objectif avec le requérant ou l’usage prévu du nom de domaine;
 - f. la dénomination requise ne correspond ou ne s’apparente pas à une dénomination à caractère générique, sous réserve des dispositions relatives au mandat de nommage (art. 56).
+
+<sup>1bis</sup>
+
+Si le requérant est une personne physique, un rapport objectif au sens de l’al. 1, let. e, existe lorsque le nom de domaine contient, outre une dénomination facultative librement choisie, au moins l’une des dénominations suivantes:
+
+- a. l’un des noms officiels ou des autres noms enregistrés à l’état civil;
+- b. l’un des prénoms;
+- c. une dénomination sur laquelle le requérant dispose d’un droit attaché à un signe distinctif;
+- d. le nom d’alliance, le nom de partenariat enregistré, le nom reçu dans un ordre religieux ou le nom d’artiste sous lequel la personne s’est fait connaître.[^53-3]
+
+<sup>1ter</sup>
+
+Si le requérant est une personne autre que physique, un rapport objectif au sens de l’al. 1, let. e, existe lorsque le nom de domaine remplit l’une des conditions suivantes:
+
+- a. il contient une dénomination sur laquelle le requérant dispose d’un droit attaché à un signe distinctif;
+- b. il se réfère à une dénomination objectivement liée à l’État ou à ses activités qui est requise par la collectivité publique ou l’organisation de droit public concernée;
+- c.
+
+  il contient une dénomination géographique:
+
+  - 1\. sur laquelle le requérant dispose d’un droit ou d’un intérêt légitime,
+  - 2\. pour laquelle le requérant apparaît aux yeux du public comme disposant d’un droit ou d’un intérêt légitime, ou
+  - 3\. à l’utilisation de laquelle le requérant est autorisé par la collectivité ou l’organisation concernée;
+
+- d. il relève d’une dénomination sur laquelle le requérant dispose d’un intérêt légitime ou qui est assimilée à ce requérant dans l’esprit du public.[^53-4]
 
 <sup>2</sup>
 
 Le registre peut refuser l’attribution d’un nom de domaine:
 
-- a.[^53-1] lorsque la dénomination choisie peut manifestement prêter à confusion avec un nom de domaine déjà attribué ou une dénomination réservée en vertu de l’art. 26;
+- a.[^53-5] lorsque la dénomination choisie peut manifestement prêter à confusion avec un nom de domaine déjà attribué ou une dénomination réservée en vertu de l’art. 26;
 - b. lorsqu’il est manifeste, sur la base d’un examen succinct, que la dénomination choisie viole les droits attachés à un signe distinctif de tiers; pour le reste, le bien-fondé des droits d’utiliser les dénominations alphanumériques des noms de domaine n’est pas vérifié; les litiges relatifs aux droits attachés à des signes distinctifs en relation avec des noms de domaine sont régis par le droit civil;
 - c. lorsque les caractéristiques ou les valeurs qui sous-tendent le domaine s’opposent à cette attribution.
 
 <sup>3</sup> Dans des cas exceptionnels, le registre peut attribuer des noms de domaine qui ne remplissent pas les conditions particulières mises à l’attribution lorsque l’intérêt de cette attribution pour la communauté suisse le justifie.
 
-[^53-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6251](https://fedlex.data.admin.ch/eli/oc/2020/1026)).
+[^53-1]: Abrogée par le ch. I de l’O du 28 juin 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
+[^53-2]: Nouvelle teneur selon le ch. I de l’O du 28 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
+[^53-3]: Introduit par le ch. I de l’O du 28 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
+[^53-4]: Introduit par le ch. I de l’O du 28 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
+[^53-5]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6251](https://fedlex.data.admin.ch/eli/oc/2020/1026)).
 
 #### Art. 54
 
@@ -997,15 +1039,17 @@ Sont éligibles à l’attribution d’un nom de domaine:
 
 - a. les collectivités publiques ou autres organisations de droit public suisses;
 - b. les entités inscrites au registre du commerce suisse ayant leur siège et un réel site administratif en Suisse;
-- c. les associations et les fondations non inscrites au registre du commerce suisse ayant leur siège et un réel site administratif en Suisse.
+- c. les associations et les fondations non inscrites au registre du commerce suisse ayant leur siège et un réel site administratif en Suisse;
+- d.[^55-2] les personnes physiques ayant leur domicile en Suisse et les ressortissants suisses.
 
 [^55-1]: Nouvelle teneur selon le ch. I de l’O du 15 sept. 2017, en vigueur depuis le 1<sup>er</sup> nov. 2017 ([RO 2017 5225](https://fedlex.data.admin.ch/eli/oc/2017/576)).
+[^55-2]: Introduite par le ch. I de l’O du 28 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
 
 #### Art. 56
 
 **Mandat de nommage**
 
-<sup>1</sup> Les noms de domaine qui correspondent ou qui s’apparentent à des dénominations à caractère générique présentant un intérêt particulier pour toute ou partie de la communauté suisse doivent être attribués sous mandat de nommage. L’OFCOM peut dresser et tenir à jour une liste non exhaustive des dénominations ou des catégories de dénomination concernées.
+<sup>1</sup> Les noms de domaine qui correspondent ou qui s’apparentent à des dénominations à caractère générique présentant un intérêt particulier pour tout ou partie de la communauté suisse doivent être attribués sous mandat de nommage. L’OFCOM peut publier une liste non exhaustive des dénominations ou des catégories de dénomination concernées.[^56-1]
 
 <sup>2</sup>
 
@@ -1019,10 +1063,10 @@ Le registre peut attribuer des noms de domaine sous mandat de nommage:
 Tout candidat à un nom de domaine devant être attribué sous mandat de nommage doit:
 
 - a. démontrer qu’il respecte les conditions générales et particulières mises à l’attribution d’un nom de domaine;
-- b.[^56-1] démontrer qu’il représente tout ou partie importante de la communauté concernée par la dénomination requise ou que sa candidature bénéficie du soutien de tout ou partie importante de cette communauté; des garanties de neutralité concurrentielle, de non-discrimination et de transparence peuvent suppléer la représentation ou le soutien de la communauté lorsque la dénomination requise ne se réfère à aucune communauté particulière ou n’est pas représentée par une communauté organisée ou constituée;
+- b.[^56-2] démontrer qu’il représente tout ou partie importante de la communauté concernée par la dénomination requise ou que sa candidature bénéficie du soutien de tout ou partie importante de cette communauté; des garanties de neutralité concurrentielle, de non-discrimination et de transparence peuvent suppléer la représentation ou le soutien de la communauté lorsque la dénomination requise ne se réfère à aucune communauté particulière ou n’est pas représentée par une communauté organisée ou constituée;
 - c. indiquer les éventuels noms de domaine apparentés en allemand, français, italien ou anglais qu’il souhaite intégrer dans le mandat de nommage;
 - d. démontrer que l’utilisation envisagée du nom de domaine et les prestations ou services offerts en lien avec ce nom bénéficient à l’ensemble de la communauté concernée;
-- e. montrer de quelle manière il veillera à ce que les exigences prévues au titre 2 de la loi du 28 août 1992 sur la protection des marques[^56-2] sont respectées par tous les produits proposés à l’aide d’un nom de domaine dont la dénomination se réfère à un produit, à ses caractéristiques ou à une catégorie de produits;
+- e. montrer de quelle manière il veillera à ce que les exigences prévues au titre 2 de la loi du 28 août 1992 sur la protection des marques[^56-3] sont respectées par tous les produits proposés à l’aide d’un nom de domaine dont la dénomination se réfère à un produit, à ses caractéristiques ou à une catégorie de produits;
 - f. démontrer dans quelle mesure son projet apporte une plus-value pour la communauté concernée et pour la communauté suisse;
 - g. démontrer qu’il remplit les conditions prévues par l’OFCOM en fonction des qualités attendues du nom de domaine ou du projet souhaité;
 - h. proposer un projet de mandat de nommage.
@@ -1037,10 +1081,19 @@ Tout candidat à un nom de domaine devant être attribué sous mandat de nommage
 
 <sup>8</sup> Pour le surplus, les règles applicables à la surveillance des délégataires de la fonction de registre d’un domaine géré par la Confédération (art. 40 à 43) s’appliquent par analogie aux mandats de nommage, en particulier à leur révocation.
 
+<sup>8bis</sup>
+
+La résiliation d’un mandat de nommage (art. 41) est en particulier admissible lorsque:
+
+- a. le titulaire ne remplit plus les conditions d’attribution ou ne respecte pas les dispositions du mandat, ou
+- b. le titulaire ne s’est pas acquitté des émoluments dus.[^56-4]
+
 <sup>9</sup> Le registre fournit les mandats de nommage aux tiers qui en font la demande; il peut aussi les rendre accessibles par procédure d’appel ou les publier d’une autre manière. Les clauses et annexes contenant des secrets d’affaires ne sont pas communiquées.
 
-[^56-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6251](https://fedlex.data.admin.ch/eli/oc/2020/1026)).
-[^56-2]: [RS 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
+[^56-1]: Nouvelle teneur selon le ch. I de l’O du 28 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
+[^56-2]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6251](https://fedlex.data.admin.ch/eli/oc/2020/1026)).
+[^56-3]: [RS 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
+[^56-4]: Introduit par le ch. I de l’O du 28 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
 
 #### Art. 57
 
@@ -1053,13 +1106,20 @@ Tout candidat à un nom de domaine devant être attribué sous mandat de nommage
 En cas de demande plurielle, le registre attribue le nom de domaine concerné dans l’ordre de priorité suivant:
 
 - a. par principe à la collectivité publique ou à l’organisation de droit public requérante lorsque celle-ci est en concurrence avec des requérants privés et que la désignation requise est en tant que telle d’intérêt public;
-- b. à celle parmi les collectivités publiques ou organisations de droit public requérantes qui prévoit une utilisation du nom de domaine concerné apportant une plus-value clairement supérieure pour la communauté suisse par rapport aux autres utilisations prévues; si aucun projet ne satisfait à cette exigence et que les collectivités publiques ou organisations de droit public requérantes ne peuvent se mettre d’accord sur une candidature unique ou commune, le registre renonce à attribuer le nom de domaine;
+- b.[^57-1] à celle parmi les collectivités publiques ou organisations de droit public requérantes qui prévoit une utilisation du nom de domaine concerné apportant une plus-value clairement supérieure pour la communauté suisse à celle d’autres collectivités ou organisations de ce type; si aucun projet ne satisfait à cette exigence et que les collectivités ou organisations ne peuvent se mettre d’accord sur une candidature unique ou commune, le registre renonce à attribuer le nom de domaine;
 - c. par principe au requérant qui dispose d’un droit attaché à un signe distinctif correspondant au nom de domaine concerné lorsqu’il est en concurrence avec des requérants ne bénéficiant pas d’un tel droit;
-- d. au plus offrant lors d’enchères lorsque les requérants disposent de droits attachés à des signes distinctifs concurrents sur le nom de domaine concerné, à moins que la tenue d’enchères n’apparaisse inappropriée en fonction de l’ensemble des circonstances ou des requérants concernés; le produit des enchères est versé à la caisse fédérale;
-- e. à celui qui a déposé en premier lieu une demande d’enregistrement lorsque tous les requérants constituent des entités sans but lucratif et poursuivent effectivement de tels buts;
-- f. au requérant qui prévoit une utilisation du nom de domaine concerné apportant une plus-value clairement supérieure pour la communauté suisse par rapport aux utilisations prévues par les autres requérants; si aucun projet ne satisfait à cette exigence et que les requérants ne peuvent se mettre d’accord sur une candidature unique ou commune, le registre soumet l’attribution à un tirage au sort ou à des enchères; le produit des enchères est versé à la caisse fédérale.
+- d.[^57-2] au plus offrant lors d’enchères lorsque les requérants disposent de droits attachés à des signes distinctifs concurrents sur le nom de domaine concerné, à moins que la tenue d’enchères n’apparaisse inappropriée au vu de l’ensemble des circonstances ou des requérants concernés; le produit des enchères est versé à la caisse fédérale;
+- d<sup>bis</sup>.[^57-3] à une personne morale lorsque celle-ci est en concurrence avec des personnes physiques;
+- e.[^57-4] à celui parmi les requérants qui a demandé en premier le nom de domaine concerné lorsque tous les requérants prévoient d’utiliser ce nom de domaine à des fins non commerciales;
+- f.[^57-5] au requérant qui prévoit une utilisation apportant une plus-value clairement supérieure pour la communauté suisse à celle des autres requérants; si aucun projet ne satisfait à cette exigence et que les requérants ne peuvent se mettre d’accord sur une candidature unique ou commune, le registre soumet l’attribution à un tirage au sort ou à des enchères; le produit des enchères est versé à la caisse fédérale.
 
 <sup>3</sup> Sous réserve de l’examen préalable selon l’art. 53, al. 2, let. b, le registre ne vérifie pas le bien-fondé des droits d’utiliser les dénominations alphanumériques des noms de domaine. Les litiges relatifs aux droits attachés à des signes distinctifs en relation avec des noms de domaine sont régis par le droit civil.
+
+[^57-1]: Nouvelle teneur selon le ch. I de l’O du 28 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
+[^57-2]: Nouvelle teneur selon le ch. I de l’O du 28 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
+[^57-3]: Introduite par le ch. I de l’O du 28 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
+[^57-4]: Nouvelle teneur selon le ch. I de l’O du 28 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
+[^57-5]: Nouvelle teneur selon le ch. I de l’O du 28 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
 
 ### Section 4 Révocation
 
@@ -1072,7 +1132,16 @@ Le registre peut révoquer, de son propre fait ou sur demande du registraire con
 - c. lorsque le nom de domaine contient une dénomination géographique qui présente un intérêt particulier pour tout ou partie de la communauté suisse et est requis par une collectivité publique ou une autre organisation de droit public; celle-ci verse à l’ancien titulaire un dédommagement qui comprend l’ensemble des frais d’enregistrement et de gestion du nom de domaine révoqué;
 - d. lorsque des motifs laissent raisonnablement supposer que le titulaire a demandé l’attribution uniquement dans le but de nuire à la réputation du titulaire d’un intérêt légitime sur ce nom ou sur un nom apparenté, ou à celle d’un produit ou service assimilé à ce nom dans l’esprit du public;
 - e. lorsque des motifs laissent raisonnablement supposer que le titulaire a demandé l’attribution dans le but de profiter de la renommée du titulaire d’un intérêt légitime sur ce nom ou sur un nom apparenté, ou de celle d’un produit ou service assimilé à ce nom dans l’esprit du public;
-- f. lorsque les caractéristiques ou les valeurs qui sous-tendent le domaine l’exigent.
+- f. lorsque les caractéristiques ou les valeurs qui sous-tendent le domaine l’exigent;
+- g.[^58-1]
+
+  lorsque le titulaire est une personne physique qui n’a pas la nationalité suisse et part pour l’étranger; l’attribution du nom de domaine peut être révoquée dans les circonstances suivantes:
+
+  - 1\. si le titulaire ne s’identifie pas correctement ou n’indique pas une adresse de correspondance valable en Suisse dans les 30 jours lorsque le registre, l’OFCOM ou une autorité suisse intervenant dans le cadre de l’exécution de ses tâches le requiert,
+  - 2\. s’il utilise le nom de domaine pour offrir des produits ou fournir des services, ou pour faire de la publicité en leur faveur,
+  - 3\. si des raisons fondées permettent de supposer qu’il utilise le nom de domaine à une fin ou d’une manière illicite au regard du droit suisse.
+
+[^58-1]: Introduite par le ch. I de l’O du 28 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
 
 ## Chapitre 6 Domaines gérés par d’autres collectivités publiques suisses
 
@@ -1102,13 +1171,25 @@ Elles respectent les principes suivants:
 
 <sup>2</sup> Dans le domaine d’application de la présente ordonnance, il est habilité à conclure des accords internationaux portant sur des questions techniques ou administratives.
 
-### Section 2 ...
+### Section 2 Disposition transitoire relative à la modification du 28 juin 2023
 
-#### Art. 61 à 64
+[^chap7-sec2-1]
 
-[^6164-1]
+[^chap7-sec2-1]: Nouvelle teneur selon le ch. I de l’O du 28 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
 
-[^6164-1]: Abrogés par ch. I de l’O du 15 sept. 2017, avec effet au 1<sup>er</sup> nov. 2017 ([RO 2017 5225](https://fedlex.data.admin.ch/eli/oc/2017/576)).
+#### Art. 61
+
+[^61-1]
+
+Le registre fixe la date à partir de laquelle des personnes physiques peuvent requérir et se voir attribuer des noms de domaine conformément à l’art. 53, al. 1<sup>bis</sup>. Cette ouverture opérationnelle doit avoir lieu au plus tard jusqu’au 1<sup>er</sup> mai 2024.
+
+[^61-1]: Nouvelle teneur selon le ch. I de l’O du 28 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 365](https://fedlex.data.admin.ch/eli/oc/2023/365)).
+
+#### Art. 62 à 64
+
+[^6264-1]
+
+[^6264-1]: Abrogés par ch. I de l’O du 15 sept. 2017, avec effet au 1<sup>er</sup> nov. 2017 ([RO 2017 5225](https://fedlex.data.admin.ch/eli/oc/2017/576)).
 
 ### Section 3 Entrée en vigueur
 
