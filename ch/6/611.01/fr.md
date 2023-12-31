@@ -4,11 +4,11 @@ title: Ordonnance du 5 avril 2006 sur les finances de la Confédération (OFC)
 short: OFC
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/228"
 language: fr
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2006-04-05
 in_force: 2006-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/228/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2006-228-20230901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/228/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/228/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-228-20240101-fr-xml-16.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/228/20240101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/228/20230901/fr"
 
 (OFC)
 
-du 5 avril 2006 (État le 1<sup>er</sup> septembre 2023)
+du 5 avril 2006 (État le 1<sup>er</sup> janvier 2024)
 
 Le Conseil fédéral suisse,
 
@@ -199,8 +199,6 @@ Dans le plan intégré des tâches et des finances (PITF) annuel, sont applicabl
 **Exception à l’obligation de requérir un crédit d’engagement**
 
 ### (art. 21, al. 1, LFC)
-
-<sup>1</sup>
 
 Il n’est pas requis de crédit d’engagement:
 
@@ -625,7 +623,8 @@ Les principes suivants régissent la tenue des comptes:
 - b. la *véracité:* les écritures comptables doivent correspondre aux faits et doivent être effectuées selon les directives de l’Administration des finances (art. 32, al. 2);
 - c. la *ponctualité:* la comptabilité doit être tenue à jour et les mouvements de fonds doivent être enregistrés chaque jour. Les opérations doivent être consignées par ordre chronologique;
 - d. la *traçabilité**:* les opérations doivent être enregistrées de manière claire et compréhensible. Les corrections doivent être marquées comme telles et les écritures comptables doivent être attestées par des pièces justificatives.
-- [tab] <sup>2</sup> Les principes régissant l’établissement des comptes (art. 54) sont applicables par analogie.
+
+<sup>2</sup> Les principes régissant l’établissement des comptes (art. 54) sont applicables par analogie.
 
 #### Art. 29
 
@@ -802,7 +801,8 @@ L’Administration des finances peut autoriser une imputation des prestations av
 - a. représentent des montants importants;
 - b. peuvent être attribuées à un bénéficiaire de prestations et être influencées par ce dernier;
 - c. ont un caractère commercial.
-- [tab] <sup>2</sup> Elle fixe dans un catalogue les prestations pouvant être imputées.
+
+<sup>2</sup> Elle fixe dans un catalogue les prestations pouvant être imputées.
 
 <sup>3</sup> La prestation est calculée selon la méthode des coûts complets. Si elle est fournie à des tiers contre rémunération, le même prix s’applique lors de l’imputation interne des prestations. Les coûts liés à l’utilisation des bâtiments sont calculés en règle générale aux conditions du marché.[^41-1]
 
@@ -821,21 +821,32 @@ L’Administration des finances peut autoriser une imputation des prestations av
 
 **Autorisation et objectif**
 
-<sup>1</sup> L’Administration des finances et l’Office fédéral des constructions et de la logistique (OFCL) traitent les données personnelles, sur papier et dans un ou plusieurs systèmes d’information, nécessaires aux processus de soutien dans les domaines des finances et de la logistique de l’administration fédérale.
+<sup>1</sup>
+
+Les offices fédéraux ci-après traitent, sur papier et dans un ou plusieurs systèmes d’information, les données personnelles nécessaires aux fins suivantes:
+
+- a. l’Administration des finances: pour l’exécution du processus de soutien en matière de finances;
+- b. l’Office fédéral des constructions et de la logistique: pour l’exécution des processus de soutien en matière de marchés publics, d’immobilier et de logistique;
+- c. l’Office fédéral de l’informatique et de la télécommunication: pour l’exécution des processus de gestion de la relation client dans le cadre de la fourniture de prestations informatiques.[^42-1]
 
 <sup>2</sup>
 
-Le traitement des données personnelles sert à exécuter les tâches assignées par la présente ordonnance, par l’ordonnance du 24 octobre 2012 sur l’organisation des marchés publics de l’administration fédérale[^42-1] et par l’ordonnance du 5 décembre 2008 concernant la gestion de l’immobilier et la logistique de la Confédération[^42-2], en particulier:
+Le traitement des données personnelles sert à exécuter les tâches assignées par la présente ordonnance, par l’ordonnance du 24 octobre 2012 sur l’organisation des marchés publics de l’administration fédérale[^42-2], par l’ordonnance du 5 décembre 2008 concernant la gestion de l’immobilier et la logistique de la Confédération[^42-3] et par l’ordonnance du 17 février 2010 sur l’organisation du Département fédéral des finances[^42-4], en particulier:[^42-5]
 
 - a. l’établissement du compte d’État et la gestion des finances de la Confédération;
 - b. la tenue de la comptabilité et l’exécution des opérations de paiement et de l’encaissement;
 - c. la gestion immobilière;
 - d. l’approvisionnement de base en produits standards et en articles d’assortiment;
 - e. la diffusion de publications fédérales et d’imprimés;
-- f. le conditionnement et l’édition de données de la Confédération.
+- f. le conditionnement et l’édition de données de la Confédération;
+- g.[^42-6] l’exécution des processus de gestion de la relation client.
 
-[^42-1]: [RS 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
-[^42-2]: [RS 172.010.21](https://fedlex.data.admin.ch/eli/cc/2008/857)
+[^42-1]: Nouvelle teneur selon l’annexe de l’O du 22 nov. 2023 sur l’utilisation de moyens électroniques pour l’exécution des tâches des autorités, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
+[^42-2]: [RS 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
+[^42-3]: [RS 172.010.21](https://fedlex.data.admin.ch/eli/cc/2008/857)
+[^42-4]: [RS 172.215.1](https://fedlex.data.admin.ch/eli/cc/2010/98)
+[^42-5]: Nouvelle teneur selon l’annexe de l’O du 22 nov. 2023 sur l’utilisation de moyens électroniques pour l’exécution des tâches des autorités, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
+[^42-6]: Introduite par l’annexe de l’O du 22 nov. 2023 sur l’utilisation de moyens électroniques pour l’exécution des tâches des autorités, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
 
 #### Art. 43
 
@@ -852,11 +863,15 @@ Si l’accomplissement des tâches l’exige, il est possible de traiter les don
 - e. les informations sur la gestion immobilière;
 - f. les informations sur l’approvisionnement de base en produits standards et en articles d’assortiment;
 - g. les informations sur la diffusion de publications fédérales et d’imprimés;
-- h. les informations sur le conditionnement et l’édition de données de la Confédération.
+- h. les informations sur le conditionnement et l’édition de données de la Confédération;
+- i.[^43-1] les informations sur l’exécution des processus de gestion de la relation client.
 
-<sup>2</sup> Les données personnelles des employés de l’administration fédérale mentionnées à l’al. 1 peuvent être extraites du système d’information pour la gestion des données du personnel.[^43-1]
+<sup>2</sup> Les données personnelles des employés de l’administration fédérale peuvent être extraites du système d’information pour la gestion des données du personnel (art. 27 de la loi du 24 mars 2000 sur le personnel de la Confédération[^43-2]) ou de la base centralisée des identités (art. 13 de l’ordonnance du 19 octobre 2016 sur les systèmes de gestion des données d’identification et les services d’annuaires de la Confédération[^43-3]).[^43-4]
 
-[^43-1]: Nouvelle teneur selon l’annexe 8 ch. II 5 de l’O du 22 nov. 2017 concernant la protection des données personnelles du personnel de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793)).
+[^43-1]: Introduite par l’annexe de l’O du 22 nov. 2023 sur l’utilisation de moyens électroniques pour l’exécution des tâches des autorités, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
+[^43-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^43-3]: [RS 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+[^43-4]: Nouvelle teneur selon l’annexe de l’O du 22 nov. 2023 sur l’utilisation de moyens électroniques pour l’exécution des tâches des autorités, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
 
 #### Art. 44
 
@@ -871,9 +886,11 @@ Toutes les unités administratives de la Confédération:
 
 **Sécurité des données**
 
-<sup>1</sup> L’Administration des finances et l’OFCL sont responsables dans leur domaine respectif de la sécurité des systèmes d’information.
+<sup>1</sup> L’Administration des finances, l’Office fédéral des constructions et de la logistique et l’Office fédéral de l’informatique et de la télécommunication sont responsables dans leur domaine respectif de la sécurité des systèmes d’information.[^45-1]
 
 <sup>2</sup> Toutes les unités administratives de la Confédération sont responsables de la protection des données.
+
+[^45-1]: Nouvelle teneur selon l’annexe de l’O du 22 nov. 2023 sur l’utilisation de moyens électroniques pour l’exécution des tâches des autorités, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
 
 #### Art. 46
 
@@ -993,7 +1010,7 @@ L’Administration des finances édicte des directives sur:
 <sup>2</sup> Les principales dérogations aux IPSAS sont réglées dans l’annexe 2 et motivées dans l’annexe des comptes annuels.
 
 [^53-1]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
-[^53-2]: www.ifac.org/public-sector
+[^53-2]: [www.ifac.org/public-sector](http://www.ifac.org/public-sector)
 
 #### Art. 54
 
@@ -1349,7 +1366,7 @@ Elle édicte des directives, notamment:
 - k.[^75-5] sur la conclusion de contrats de *leasing* (art. 52, al. 2);
 - l.[^75-6] sur l’établissement du bilan et l’évaluation, la présentation et le compte consolidé (art. 53);
 - m. à o.[^75-7] …
-- [tab] o<sup>bis</sup>.[^75-8]…
+- o<sup>bis</sup>.[^75-8] …
 - p. sur l’encaissement et l’exécution forcée (art. 67 à 69);
 - q.[^75-9] sur l’assurance contre les risques de change (art. 70*a*).
 

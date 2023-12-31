@@ -4,11 +4,11 @@ title: Finanzhaushaltverordnung vom 5. April 2006 (FHV)
 short: FHV
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/228"
 language: de
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2006-04-05
 in_force: 2006-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/228/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2006-228-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/228/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/228/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2006-228-20240101-de-xml-16.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/228/20240101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/228/20230901/de"
 
 (FHV)
 
-vom 5. April 2006 (Stand am 1. September 2023)
+vom 5. April 2006 (Stand am 1. Januar 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -325,7 +325,8 @@ Für den Voranschlag und die Nachträge gelten folgende Grundsätze:
 - b. *Vollständigkeit:* Im Voranschlag sind alle mutmasslichen Aufwände und Erträge sowie Investitionsausgaben und Investitionseinnahmen aufzuführen. Diese dürfen nicht direkt über Rückstellungen und Spezialfinanzierungen abgerechnet werden.
 - c. *Jährlichkeit:* Das Voranschlagsjahr entspricht dem Kalenderjahr. Nicht beanspruchte Kredite verfallen am Ende des Voranschlagsjahres.
 - d.[^19-1] *Spezifikation:* Ein Kredit darf nur für den bei der Bewilligung festgelegten Zweck verwendet werden (Art. 57 Abs. 2 FHG).
-- [tab] <sup>2</sup> Sind mehrere Verwaltungseinheiten an der Finanzierung eines Vorhabens beteiligt, so ist eine Verwaltungseinheit zu bezeichnen, die die Federführung hat. Diese muss das Gesamtbudget offenlegen.
+
+<sup>2</sup> Sind mehrere Verwaltungseinheiten an der Finanzierung eines Vorhabens beteiligt, so ist eine Verwaltungseinheit zu bezeichnen, die die Federführung hat. Diese muss das Gesamtbudget offenlegen.
 
 <sup>3</sup> Über die Gliederung der Kredite im Botschaftsentwurf entscheidet die Finanzverwaltung nach Rücksprache mit dem zuständigen Departement.[^19-2]
 
@@ -622,7 +623,8 @@ Für die Buchführung gelten die folgenden Grundsätze:
 - b. *Richtigkeit:* Die Buchungen müssen den Tatsachen entsprechen und sind nach den Weisungen der Finanzverwaltung (Art. 32 Abs. 2) vorzunehmen.
 - c. *Rechtzeitigkeit:* Die Buchhaltung ist aktuell zu halten und der Geldverkehr tagesaktuell zu erfassen. Die Vorgänge sind chronologisch festzuhalten.
 - d. *Nachprüfbarkeit**:* Die Vorgänge sind klar und verständlich zu erfassen. Korrekturen sind zu kennzeichnen und Buchungen durch Belege nachzuweisen.
-- [tab] <sup>2</sup> Die Grundsätze für die Rechnungslegung (Art. 54) gelten sinngemäss.
+
+<sup>2</sup> Die Grundsätze für die Rechnungslegung (Art. 54) gelten sinngemäss.
 
 #### Art. 29
 
@@ -817,21 +819,32 @@ Die Finanzverwaltung kann eine zwischen Verwaltungseinheiten vereinbarte kreditw
 
 **Ermächtigung und Zweck**
 
-<sup>1</sup> Die Finanzverwaltung und das Bundesamt für Bauten und Logistik bearbeiten Personendaten auf Papier und in einem oder mehreren Informationssystemen für die Abwicklung der Supportprozesse Finanzen und Logistik in der Bundesverwaltung.
+<sup>1</sup>
+
+Die folgenden Bundesämter bearbeiten Personendaten auf Papier und in einem oder mehreren Informationssystemen zu den folgenden Zwecken:
+
+- a. die Finanzverwaltung: für die Abwicklung des Supportprozesses Finanzen;
+- b. das Bundesamt für Bauten und Logistik: für die Abwicklung der Supportprozesse Beschaffung, Immobilien und Logistik;
+- c. das Bundesamt für Informatik und Telekommunikation: für die Abwicklung der Kundenbeziehungsprozesse im Rahmen der Erbringung von Leistungen der Informations- und Kommunikationstechnologie.[^42-1]
 
 <sup>2</sup>
 
-Die Bearbeitung von Personendaten dient der Erfüllung der Aufgaben nach dieser Verordnung und nach der Verordnung vom 24. Oktober 2012[^42-1] über die Organisation des öffentlichen Beschaffungswesens der Bundesverwaltung sowie der Verordnung vom 5. Dezember 2008[^42-2] über das Immobilienmanagement und die Logistik des Bundes, insbesondere:
+Die Bearbeitung von Personendaten dient der Erfüllung der Aufgaben nach dieser Verordnung, der Verordnung vom 24. Oktober 2012[^42-2] über die Organisation des öffentlichen Beschaffungswesens der Bundesverwaltung, der Verordnung vom 5. Dezember 2008[^42-3] über das Immobilienmanagement und die Logistik des Bundes sowie der Organisationsverordnung vom 17. Februar 2010[^42-4] für das Eidgenössische Finanzdepartement, insbesondere:[^42-5]
 
 - a. der Erstellung der Staatsrechnung und der Gesamtsteuerung des Bundeshaushalts;
 - b. der Buchführung und Abwicklung des Zahlungsverkehrs und des Inkassos;
 - c. dem Immobilienmanagement;
 - d. der Grundversorgung mit Standardprodukten sowie Sortimentsartikeln;
 - e. dem Vertrieb von Bundespublikationen und Drucksachen;
-- f. der Aufbereitung und Ausgabe von Bundesdaten.
+- f. der Aufbereitung und Ausgabe von Bundesdaten;
+- g.[^42-6] der Abwicklung der Kundenbeziehungsprozesse.
 
-[^42-1]: [SR 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
-[^42-2]: [SR 172.010.21](https://fedlex.data.admin.ch/eli/cc/2008/857)
+[^42-1]: Fassung gemäss Anhang der V vom 22. Nov. 2022 über den Einsatz elektronischer Mittel zur Erfüllung von Behördenaufgaben, in Kraft seit 1. Jan. 2024 ([AS 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
+[^42-2]: [SR 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
+[^42-3]: [SR 172.010.21](https://fedlex.data.admin.ch/eli/cc/2008/857)
+[^42-4]: [SR 172.215.1](https://fedlex.data.admin.ch/eli/cc/2010/98)
+[^42-5]: Fassung gemäss Anhang der V vom 22. Nov. 2022 über den Einsatz elektronischer Mittel zur Erfüllung von Behördenaufgaben, in Kraft seit 1. Jan. 2024 ([AS 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
+[^42-6]: Eingefügt durch Anhang der V vom 22. Nov. 2022 über den Einsatz elektronischer Mittel zur Erfüllung von Behördenaufgaben, in Kraft seit 1. Jan. 2024 ([AS 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
 
 #### Art. 43
 
@@ -848,11 +861,15 @@ Zur Aufgabenerfüllung können folgende Personendaten von Angestellten der Bunde
 - e. Angaben zur Abwicklung des Immobilienmanagements;
 - f. Angaben zur Grundversorgung mit Standardprodukten sowie Sortimentsartikeln;
 - g. Angaben zum Vertrieb von Bundespublikationen und Drucksachen;
-- h. Angaben zur Aufbereitung und Ausgabe von Bundesdaten.
+- h. Angaben zur Aufbereitung und Ausgabe von Bundesdaten;
+- i.[^43-1] Angaben zur Abwicklung der Kundenbeziehungsprozesse.
 
-<sup>2</sup> Die Personendaten der Angestellten der Bundesverwaltung nach Absatz 1 können aus dem Informationssystem Personaldatenmanagement bezogen werden.[^43-1]
+<sup>2</sup> Die Personendaten der Angestellten der Bundesverwaltung können aus dem Informationssystem Personaldatenmanagement (Art. 27 des Bundespersonalgesetzes vom 24. März 2000[^43-2]) oder aus dem zentralen Identitätsspeicher (Art. 13 der Verordnung vom 19. Oktober 2016[^43-3] über Identitätsverwaltungs-Systeme und Verzeichnisdienste des Bundes) bezogen werden.[^43-4]
 
-[^43-1]: Fassung gemäss Anhang 8 Ziff. II 5 der V vom 22. Nov. 2017 über den Schutz von Personendaten des Bundespersonals, in Kraft seit 1. Jan. 2018 ([AS 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793)).
+[^43-1]: Eingefügt durch Anhang der V vom 22. Nov. 2022 über den Einsatz elektronischer Mittel zur Erfüllung von Behördenaufgaben, in Kraft seit 1. Jan. 2024 ([AS 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
+[^43-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^43-3]: [SR 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+[^43-4]: Fassung gemäss Anhang der V vom 22. Nov. 2022 über den Einsatz elektronischer Mittel zur Erfüllung von Behördenaufgaben, in Kraft seit 1. Jan. 2024 ([AS 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
 
 #### Art. 44
 
@@ -867,9 +884,11 @@ Sämtliche Verwaltungseinheiten des Bundes:
 
 **Datensicherheit**
 
-<sup>1</sup> Die Finanzverwaltung und das Bundesamt für Bauten und Logistik tragen je für ihren Bereich die Verantwortung für die Sicherheit der Informationssysteme.
+<sup>1</sup> Die Finanzverwaltung, das Bundesamt für Bauten und Logistik und das Bundesamt für Informatik und Telekommunikation tragen in ihrem jeweiligen Bereich die Verantwortung für die Sicherheit der Informationssysteme.[^45-1]
 
 <sup>2</sup> Sämtliche Verwaltungseinheiten des Bundes sind für den Schutz der Daten zuständig.
+
+[^45-1]: Fassung gemäss Anhang der V vom 22. Nov. 2022 über den Einsatz elektronischer Mittel zur Erfüllung von Behördenaufgaben, in Kraft seit 1. Jan. 2024 ([AS 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
 
 #### Art. 46
 
@@ -1065,9 +1084,11 @@ Die Finanzverwaltung erlässt Weisungen über:
 
 [^64abis-1]: Eingefügt durch Ziff. I der V vom 14. Okt. 2015 (Optimierung Neues Rechnungsmodell und Neues Führungsmodell für die Bundesverwaltung) ([AS 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)). Aufgehoben durch Ziff. I der V vom 10. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
-#### Art. 64b–64
+#### Art. 64b–64d
 
-***d*–**
+[^64b64d-1]
+
+[^64b64d-1]: Eingefügt durch Ziff. I der V vom 5. Dez. 2008 ([AS 2008 6455](https://fedlex.data.admin.ch/eli/oc/2008/876)). Aufgehoben durch Ziff. I der V vom 10. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 ## 5. Kapitel: Aufgaben und Zuständigkeiten der Bundesverwaltung
 

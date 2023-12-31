@@ -4,11 +4,11 @@ title: Ordinanza del 5 aprile 2006 sulle finanze della Confederazione (OFC)
 short: OFC
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/228"
 language: it
-version: 2023-09-01
+version: 2024-01-01
 adopted: 2006-04-05
 in_force: 2006-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/228/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2006-228-20230901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/228/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/228/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2006-228-20240101-it-xml-16.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/228/20240101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/228/20230901/it"
 
 (OFC)
 
-del 5 aprile 2006 (Stato 1° settembre 2023)
+del 5 aprile 2006 (Stato 1° gennaio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -325,7 +325,8 @@ I seguenti principi si applicano al preventivo e alle sue aggiunte:
 - b. *i**ntegralità:* nel preventivo sono iscritte tutte le spese e i ricavi presunti, nonché le uscite e le entrate per investimenti. Questi importi non possono essere contabilizzati direttamente negli accantonamenti e nei finanziamenti speciali;
 - c. *annualità:* l’anno del preventivo corrisponde all’anno civile. I crediti inutilizzati decadono alla fine dell’anno del preventivo;
 - d.[^19-1] *specificazione:* un credito può essere utilizzato soltanto per lo scopo per il quale è stato stanziato (art. 57 cpv. 2 LFC).
-- [tab] <sup>2</sup> Se più unità amministrative sono interessate al finanziamento di un progetto, si deve designare un’unità amministrativa che ne abbia la responsabilità. Questa deve esporre il preventivo totale.
+
+<sup>2</sup> Se più unità amministrative sono interessate al finanziamento di un progetto, si deve designare un’unità amministrativa che ne abbia la responsabilità. Questa deve esporre il preventivo totale.
 
 <sup>3</sup> Spetta all’Amministrazione delle finanze, consultato il dipartimento competente, decidere come articolare i crediti nel progetto di messaggio.[^19-2]
 
@@ -622,7 +623,8 @@ Per la contabilità si applicano i seguenti principi:
 - b. *esattezza:* gli allibramenti devono corrispondere ai fatti ed essere eseguiti secondo le istruzioni dell’Amministrazione delle finanze (art. 32 cpv. 2);
 - c. *tempestività:* la tenuta dei conti deve essere aggiornata e il traffico monetario registrato giornalmente. Le operazioni devono essere riportate cronologicamente;
 - d. *verificabilità:* le operazioni devono essere registrate in modo chiaro e comprensibile. Le correzioni devono essere contrassegnate e gli allibramenti comprovati con giustificativi.
-- [tab] <sup>2</sup> I principi per la presentazione dei conti (art. 54) si applicano per analogia.
+
+<sup>2</sup> I principi per la presentazione dei conti (art. 54) si applicano per analogia.
 
 #### Art. 29
 
@@ -797,7 +799,8 @@ L’Amministrazione delle finanze può ammettere un computo delle prestazioni co
 - a. sono di importo considerevole;
 - b. possono essere attribuite a un beneficiario ed essere influenzate dallo stesso; e
 - c. hanno carattere commerciale.
-- [tab] <sup>2</sup> L’Amministrazione delle finanze iscrive le prestazioni computabili in un catalogo centralizzato delle prestazioni.
+
+<sup>2</sup> L’Amministrazione delle finanze iscrive le prestazioni computabili in un catalogo centralizzato delle prestazioni.
 
 <sup>3</sup> Le prestazioni sono computate secondo il principio del costo pieno. Se una prestazione a favore di terzi viene fornita a titolo oneroso, il prezzo stabilito si applica anche per il computo delle prestazioni interno all’amministrazione. Per i costi di alloggiamento viene di regola computata una pigione orientata alle condizioni di mercato.[^41-1]
 
@@ -816,21 +819,32 @@ L’Amministrazione delle finanze può ammettere un computo delle prestazioni co
 
 **Autorizzazione e scopo**
 
-<sup>1</sup> L’Amministrazione delle finanze e l’Ufficio federale delle costruzioni e della logistica trattano dati personali in forma cartacea e in uno o più sistemi d’informazione per l’esecuzione dei processi di supporto alle finanze e alla logistica in seno all’Amministrazione federale.
+<sup>1</sup>
+
+I seguenti uffici federali trattano dati personali in forma cartacea e in uno o più sistemi d’informazione per gli scopi qui elencati:
+
+- a. l’Amministrazione federale delle finanze: per l’esecuzione del processo di supporto al settore finanze;
+- b. l’Ufficio federale delle costruzioni e della logistica: per l’esecuzione dei processi di supporto al settore acquisti, immobili e logistica;
+- c. l’Ufficio federale dell’informatica e della telecomunicazione: per l’esecuzione dei processi concernenti le relazioni con i clienti nell’ambito della fornitura di prestazioni relative alle tecnologie dell’informazione e della comunicazione.[^42-1]
 
 <sup>2</sup>
 
-Il trattamento di dati personali serve ad adempiere i compiti previsti dalla presente ordinanza, dall’ordinanza del 24 ottobre 2012[^42-1] concernente l’organizzazione degli acquisti pubblici dell’Amministrazione federale e dall’ordinanza del 5 dicembre 2008[^42-2] sulla gestione immobiliare e la logistica della Confederazione, in particolare:
+Il trattamento di dati personali serve ad adempiere i compiti previsti dalla presente ordinanza, dall’ordinanza del 24 ottobre 2012[^42-2] concernente l’organizzazione degli acquisti pubblici dell’Amministrazione federale, dall’ordinanza del 5 dicembre 2008[^42-3] sulla gestione immobiliare e la logistica della Confederazione e dall’ordinanza del 17 febbraio 2010[^42-4] sull’organizzazione del Dipartimento federale delle finanze, in particolare:[^42-5]
 
 - a. l’allestimento del consuntivo e la gestione globale delle finanze della Confederazione;
 - b. la tenuta della contabilità e l’esecuzione del traffico dei pagamenti e dell’incasso;
 - c. la gestione immobiliare;
 - d. l’approvvigionamento di base di prodotti standard e articoli d’assortimento;
 - e. la diffusione delle pubblicazioni federali e degli stampati;
-- f. l’allestimento e la pubblicazione di dati federali.
+- f. l’allestimento e la pubblicazione di dati federali;
+- g.[^42-6] l’esecuzione di processi concernenti le relazioni con i clienti.
 
-[^42-1]: [RS 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
-[^42-2]: [RS 172.010.21](https://fedlex.data.admin.ch/eli/cc/2008/857)
+[^42-1]: Nuovo testo giusta l’all. dell’O del 22 nov. 2023 concernente l’impiego di mezzi elettronici per l’adempimento dei compiti delle autorità, in vigore dal 1° gen. 2024 ([RU 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
+[^42-2]: [RS 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
+[^42-3]: [RS 172.010.21](https://fedlex.data.admin.ch/eli/cc/2008/857)
+[^42-4]: [RS 172.215.1](https://fedlex.data.admin.ch/eli/cc/2010/98)
+[^42-5]: Nuovo testo giusta l’all. dell’O del 22 nov. 2023 concernente l’impiego di mezzi elettronici per l’adempimento dei compiti delle autorità, in vigore dal 1° gen. 2024 ([RU 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
+[^42-6]: Introdotta dall’all. dell’O del 22 nov. 2023 concernente l’impiego di mezzi elettronici per l’adempimento dei compiti delle autorità, in vigore dal 1° gen. 2024 ([RU 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
 
 #### Art. 43
 
@@ -847,11 +861,15 @@ Ai fini dell’adempimento dei compiti possono essere trattati i seguenti dati p
 - e. le indicazioni sullo svolgimento della gestione immobiliare;
 - f. le indicazioni sull’approvvigionamento di base di prodotti standard e articoli d’assortimento;
 - g. le indicazioni sulla diffusione delle pubblicazioni federali e degli stampati;
-- h. le indicazioni sull’allestimento e sulla pubblicazione di dati federali.
+- h. le indicazioni sull’allestimento e sulla pubblicazione di dati federali;
+- i.[^43-1] le indicazioni sull’esecuzione di processi concernenti le relazioni con i clienti.
 
-<sup>2</sup> I dati personali degli impiegati dell’Amministrazione federale di cui al capoverso 1 possono essere ottenuti dal sistema d’informazione per la gestione dei dati del personale.[^43-1]
+<sup>2</sup> I dati personali degli impiegati dell’Amministrazione federale possono essere ottenuti dal sistema d’informazione per la gestione dei dati del personale (art. 27 della legge del 24 marzo 2000[^43-2] sul personale federale) o dall’archivio centralizzato delle identità (art. 13 dell’ordinanza del 19 ottobre 2016[^43-3] sui sistemi di gestione delle identità e sui servizi di elenchi della Confederazione).[^43-4]
 
-[^43-1]: Nuovo testo giusta l’all. 8 n. II 5 dell’O del 22 nov. 2017 sulla protezione dei dati personali del personale federale, in vigore dal 1° gen. 2018 ([RU 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793)).
+[^43-1]: Introdotta dall’all. dell’O del 22 nov. 2023 concernente l’impiego di mezzi elettronici per l’adempimento dei compiti delle autorità, in vigore dal 1° gen. 2024 ([RU 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
+[^43-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^43-3]: [RS 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+[^43-4]: Nuovo testo giusta l’all. dell’O del 22 nov. 2023 concernente l’impiego di mezzi elettronici per l’adempimento dei compiti delle autorità, in vigore dal 1° gen. 2024 ([RU 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
 
 #### Art. 44
 
@@ -866,9 +884,11 @@ Tutte le unità amministrative della Confederazione:
 
 **Sicurezza dei dati**
 
-<sup>1</sup> L’Amministrazione delle finanze e l’Ufficio federale delle costruzioni e della logistica sono responsabili, ciascuno nel proprio ambito, della sicurezza dei sistemi d’informazione.
+<sup>1</sup> L’Amministrazione delle finanze, l’Ufficio federale delle costruzioni e della logistica e l’Ufficio federale dell’informatica e della telecomunicazione sono responsabili, ognuno nel proprio ambito, della sicurezza dei sistemi d’informazione.[^45-1]
 
 <sup>2</sup> Tutte le unità amministrative della Confederazione sono responsabili della protezione dei dati.
+
+[^45-1]: Nuovo testo giusta l’all. dell’O del 22 nov. 2023 concernente l’impiego di mezzi elettronici per l’adempimento dei compiti delle autorità, in vigore dal 1° gen. 2024 ([RU 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
 
 #### Art. 46
 
@@ -1342,7 +1362,7 @@ Essa emana istruzioni segnatamente:
 - k.[^75-5] per la conclusione di contratti di leasing (art. 52 cpv. 2);
 - l.[^75-6] per i principi d’iscrizione a bilancio e di valutazione, le prescrizioni in materia di pubblicazione e il consuntivo consolidato (art. 53);
 - m. a o.[^75-7] ...
-- [tab] o<sup>bis</sup>.[^75-8]...
+- o<sup>bis</sup>.[^75-8] ...
 - p. per l’incasso e l’esecuzione forzata (art. 67–69);
 - q. [^75-9] per la garanzia dei rischi di cambio (art. 70*a*).
 
