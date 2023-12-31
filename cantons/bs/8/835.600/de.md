@@ -1,113 +1,90 @@
 ---
 canton: BS
 number: "835.600"
-title: Beschluss des Regierungsrates betreffend Errichtung eines Arbeitslosenfonds
+title: Beschluss des Regierungsrates betreffend Arbeitslosenfonds in Auflösung
 language: de
-version: 1993-11-28
-valid_until: 2023-12-31
-version_adopted: 1993-11-23
+version: 2024-01-01
+version_adopted: 2023-12-19
 adopted: 2023-12-19
 in_force: 2024-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/835.600"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/2766/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6150/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Beschluss des Regierungsrates betreffend Errichtung eines Arbeitslosenfonds
+# Beschluss des Regierungsrates betreffend Arbeitslosenfonds in Auflösung
 
-Arbeitslosenfonds: RRB | Arbeitslosenversicherung und ergänzende Massnahmen[^t-1]
+Arbeitslosenfonds: RRB | Arbeitslosenversicherung und ergänzende Massnahmen
 
-Vom 20. Dezember 1977 (Stand 28. November 1993)
+Vom 19. Dezember 2023 (Stand 1. Januar 2024)
 
-Gestützt auf das eidgenössische Arbeitslosenversicherungsgesetz vom 25. Juni 1982[^ingress-1] errichtet der Regierungsrat einen öffentlich-rechtlichenArbeitslosenfonds mit nachfolgenden Statuten:[^ingress-2]
+Gestützt auf das Bundesgesetz über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung vom 25. Juni 1982 (Arbeitslosenversicherungsgesetz, AVIG)[^ingress-1] errichtete der Regierungsrat mit Beschluss vom 20. Dezember 1977 einen öffentlich-rechtlichen Arbeitslosenfonds [^ingress-2]. Der Zweck des Arbeitslosenfonds überschneidet sich fast vollständig mit demjenigen des Fonds zur Bekämpfung der Arbeitslosigkeit gemäss Gesetz betreffend den Fonds zur Bekämpfung der Arbeitslosigkeit vom 6. Dezember 1995[^ingress-3]. Der Arbeitslosenfonds wird daher als selbstständiger Fonds aufgelöst (Erläuterungen siehe [P231780](https://www.regierungsrat.bs.ch/geschaefte/regierungsratsbeschluesse.html?previousAction1=sitzung&previousAction2=sitzungen&previousAction3=search&previousAction4=&action=geschaeft&geschaeftId=0cde1e2b15524accb525bf1d1be7d8ff&praesidialNr=&monat=all&sort=&bis=&dokumentVersion=&jahr=2023&sitzungId=571d58179120448da5b4912b18f91853&searchTerm=&dokumentAnsicht=&maxResults=&dokumentId)).
 
-[^t-1]: Vom BIGA genehmigt am 8. 1. 1978.
 [^ingress-1]: SR [837.0](https://db.clex.ch/link/Bund/837.0/de).
-[^ingress-2]: Ingress in der Fassung des RRB vom 23. 11. 1993 (wirksam seit 28. 11. 1993).
-
-## \* Statuten
+[^ingress-2]: wirksam seit 1. Januar 1978
+[^ingress-3]: SG [835.200](https://db.clex.ch/link/SG/835.200/de).
 
 #### Ziff. 1
 
-**Zweck**
+**Auflösung und Umbenennung des Arbeitslosenfonds**
 
-<sup>1</sup> Der Arbeitslosenfonds dient der Unterstützung[^Ziff1-1]
+<sup>1</sup> Der Arbeitslosenfonds wird aufgelöst.
 
-- a) von Arbeitslosen oder von Arbeitslosigkeit Bedrohten in ihren Bemühungen, die mit dem allfälligen oder erfolgten Verlust des Arbeitsplatzes entstandenen finanziellen Schwierigkeiten zu überwinden,
-- b) sozialer und öffentlicher oder gemeinnütziger Institutionen, die aufgrund gezielter Massnahmen bestrebt sind, Arbeitslosigkeit zu verhindern oder zu überwinden sowie
-- c) von Aktionen der KantonalenVerwaltung, insbesondere des Kantonalen Arbeitsamtes, zur Verhinderung von Arbeitslosigkeit oder zur Linderung von deren Folgen.
+<sup>2</sup> Der Arbeitslosenfonds wird bis zu seiner vollständigen Aufhebung umbenannt in «Arbeitslosenfonds in Auflösung»
 
-[^Ziff1-1]: Softwarebedingte, redaktionelle Einfügung von Gliederungsziffern oder -buchstaben.
+<sup>3</sup> Das Vermögen des Arbeitslosenfonds in Auflösung wird schrittweise dem Fonds zur Bekämpfung der Arbeitslosigkeit gemäss dem Gesetz betreffend den Fonds zur Bekämpfung der Arbeitslosigkeit übertragen.
 
 #### Ziff. 2
 
-**Mittel des Fonds**
+**Liquidierung der Mittel**
 
-<sup>1</sup> Der Fonds wird finanziert durch:
+<sup>1</sup> Die Auflösung des Arbeitslosenfonds erfolgt nach den folgenden Bestimmungen:
 
-- a) den im Sinne von Art. 32 Abs. 2 des Bundesbeschlusses vom 8. Oktober 1976 anfallenden Vermögensteil der Staatlichen Arbeitslosenkasse;
-- b) die Erträge des Fondsvermögens;
-- c) Zuwendungen.
-
-<sup>2</sup> Die jährlichen Ausgaben des Fonds sollen dessen Erträge und Zuwendungen in der Regel nicht überschreiten.
+- a) Alle Obligationen, die einen Kurs von 100% und höher aufweisen, werden sofort verkauft.
+- b) Monatlich werden alle verbleibenden Obligationen überprüft. Ist der Kurs 100% oder höher, werden diese Obligationen ebenfalls verkauft.
+- c) In ausserordentlichen Situationen (z.B. Reduktion des Ratings eines Emittenten) kann das Finanzdepartement in Rücksprache mit dem Departement für Wirtschaft, Soziales und Umwelt einzelne Verkäufe tätigen.
+- d) Wenn der Nominalwert der restlichen Obligationen bei 700'000 Franken liegt, werden alle restlichen Obligationen unabhängig vom Kurs verkauft.
+- e) Spätestens bis zum 31. März 2035 werden die restlichen Obligationen verkauft.
 
 #### Ziff. 3
 
-**Voraussetzungen der Unterstützung von Arbeitslosen oder von Arbeitslosigkeit Bedrohten (Art. 1 lit. a)**
+**Verwendung des Verkaufserlöses der Anlagen des Arbeitslosenfonds in Auflösung**
 
-<sup>1</sup> Aus dem Fonds können Unterstützungen entrichtet werden, wenn Ganz- oder Teilarbeitslose oder von Arbeitslosigkeit Bedrohte
-
-- a) im Kanton Basel-Stadt Wohnsitz haben und
-- b) beim Kantonalen Arbeitsamt als stellensuchend gemeldet sind und
-- c) kein Anspruch auf die entsprechende Leistung gegenüber der Arbeitslosenversicherung und der Arbeitslosenhilfe besteht.
-
-<sup>2</sup> Vermögen und anderweitige Einkünfte der gesuchstellenden Person sowie der im gleichen Haushalt lebenden Personen werden bei der Beurteilung angemessen berücksichtigt.
-
-<sup>3</sup> Selbständigerwerbende werden Arbeitnehmern gleichgestellt.
+<sup>1</sup> Der Erlös der Verkäufe der Anlagen des Arbeitslosenfonds in Auflösung wird, abzüglich der Vermögensverwaltungskosten, zuzüglich der Vermögenserträge, jährlich dem Fonds zur Bekämpfung der Arbeitslosigkeit überwiesen.
 
 #### Ziff. 4
 
-**Gesuche**
+**Organe und Zuständigkeiten**
 
-<sup>1</sup> Das Gesuch um Unterstützungsbeiträge ist schriftlich dem Kantonalen Arbeitsamt einzureichen. Die notwendigen Unterlagen sind beizulegen.
+<sup>1</sup> Die Liquidierung erfolgt durch das Departement für Wirtschaft, Soziales und Umwelt. Ihm obliegen:
+
+- a) die Entscheide über den Verkauf von Anlagen des Arbeitslosenfonds in Auflösung im Rahmen der Bestimmungen gemäss Ziff. 2 Abs. 1 dieser Statuten;
+- b) die Buchführung und in Zusammenarbeit mit der Kantonalen Finanzverwaltung die Vermögensverwaltung und -anlage;
+- c) die jährliche Berichterstattung an den Regierungsrat über den Verlauf und den Stand des Vermögens des Arbeitslosenfonds in Auflösung. Die Berichte gehen ebenso an die Finanzkontrolle.
+
+<sup>2</sup> Als Kontrollstelle amtet die kantonale Finanzkontrolle.
 
 #### Ziff. 5
 
-**Organe und Zuständigkeiten**
+**Fortführung der bisherigen Tätigkeiten des Arbeitslosenfonds**
 
-<sup>1</sup> Die Fondsverwaltung setzt sich aus fünf vom Regierungsrat bestimmten Mitarbeiterinnen und Mitarbeitern zusammen. Ihr obliegen:
+<sup>1</sup> Die Zuständigkeit für die Fortführung der Tätigkeit des Arbeitslosenfonds richtet sich nach dem Gesetz über den Fonds zur Bekämpfung der Arbeitslosigkeit.
 
-- a) die Entscheidungen über Unterstützungsleistungen bis zu Fr. 50'000 pro Einzelfall;
-- b) die Buchführung und in Zusammenarbeit mit der Kantonalen Finanzverwaltung die Vermögensverwaltung und -anlage;
-- c) die jährliche Berichterstattung an den Regierungsrat.
-
-<sup>2</sup> Unterstützungsleistungen über Fr. 50'000 pro Einzelfall bedürfen der ausdrücklichen Zustimmung des zuständigen Departementsvorstehers.
-
-<sup>3</sup> Die Fondsverwaltung kann die Kompetenz für Unterstützungsleistungen bis maximal Fr. 10'000 pro Einzelfall an die einzelnen Mitglieder der Fondsverwaltung delegieren. Sie errichtet dazu ein Reglement, welches dem zuständigen Departementsvorsteher zur Genehmigung vorzulegen ist.
-
-<sup>4</sup> Als Kontrollstelle amtet die kantonale Finanzkontrolle.
+<sup>2</sup> Die bisherigen aus dem Arbeitslosenfonds entrichteten Unterstützungen werden im bisherigen Rahmen weitergeführt und aus dem Fonds zur Bekämpfung der Arbeitslosigkeit finanziert.
 
 #### Ziff. 6
 
-**Beschlussfassung der Fondsverwaltung**
+**Berichterstattung**
 
-<sup>1</sup> Die Fondsverwaltung ist beschlussfähig, wenn mindestens drei Mitglieder anwesend sind.
+<sup>1</sup> Die Berichterstattung an den Regierungsrat erfolgt im Rahmen der Berichterstattung über den Fonds zur Bekämpfung der Arbeitslosigkeit.
 
-<sup>2</sup> Ein Beschluss wird mit dem absoluten Mehr der Stimmenden gefällt. Besteht Stimmengleichheit, zählt die Stimme des Vorsitzenden doppelt.
+<sup>2</sup> Die Mittelzugänge aus dem Arbeitslosenfonds in Auflösung an den Fonds zur Bekämpfung der Arbeitslosigkeit werden in dessen Berichtswesen im jeweiligen Jahr des Zugangs separat aufgeführt.
 
-<sup>3</sup> Die Entscheide der Fondsverwaltung bzw. ihrer Mitglieder sind endgültig.
+<sup>3</sup> Das bisherige Vermögen des Arbeitslosenfonds wird beim Fonds zur Bekämpfung der Arbeitslosigkeit nicht separat ausgewiesen.
 
-#### Ziff. 7
+Schlussbestimmung
 
-**Ausführungsvorschriften**
+Dieser Beschluss ist zu publizieren; er tritt am 1. Januar 2024 in Kraft und ersetzt den Beschluss des Regierungsrates betreffend Errichtung eines Arbeitslosenfonds vom 20. Dezember 1977.
 
-<sup>1</sup> Der Regierungsrat kann Ausführungsvorschriften erlassen.
-
-#### Ziff. 8
-
-**Inkrafttreten**
-
-<sup>1</sup> Dieser Beschluss tritt auf den 1. Januar 1978 in Kraft.
-
-KB 21.01.1978
+KB 17.02.2024
