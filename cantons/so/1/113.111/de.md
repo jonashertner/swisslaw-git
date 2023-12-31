@@ -4,13 +4,13 @@ number: "113.111"
 title: Gesetz über die politischen Rechte
 short: GpR
 language: de
-version: 2019-09-01
-valid_until: 2023-12-31
-version_adopted: 2019-05-08
+version: 2024-01-01
+valid_until: 2025-07-31
+version_adopted: 2022-09-07
 adopted: 1996-09-22
 in_force: 1997-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/113.111"
-pdf: "https://bgs.so.ch/api/de/versions/4859/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5312/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4859/pdf_file"
 
 (GpR)
 
-Vom 22.09.1996 (Stand 01.09.2019)
+Vom 22.09.1996 (Stand 01.01.2024)
 
 Der Kantonsrat von Solothurn
 
@@ -81,10 +81,10 @@ beschliesst:
 
 <sup>1</sup> Stimmberechtigt sind Stimmfähige, die tatsächlich am Orte wohnen und nicht anderswo im Stimmregister eingetragen sind:[^5-1]
 
-- a) in der Einwohnergemeinde: Schweizer und Schweizerinnen, die ihre Schriften hinterlegt haben;
-- b) in der Bürgergemeinde: Ortsbürger und Ortsbürgerinnen, die sich angemeldet haben;
+- a) in der Einwohnergemeinde: Schweizer und Schweizerinnen, die zur Niederlassung angemeldet sind;
+- b) in der Bürgergemeinde: Ortsbürger und Ortsbürgerinnen, die zur Niederlassung angemeldet sind;
 - c) in der Kirchgemeinde: die unter Buchstabe a) aufgeführten Einwohner und Einwohnerinnen des Kirchgemeindegebietes, die der betreffenden Konfession angehören sowie die niedergelassenen Ausländer und Ausländerinnen, denen die Kirchgemeinde das Stimmrecht gewährt hat;
-- d) in kantonalen Angelegenheiten: Schweizer und Schweizerinnen, welche in einer solothurnischen Einwohnergemeinde ihre Schriften hinterlegt haben.
+- d) in kantonalen Angelegenheiten: Schweizer und Schweizerinnen, welche in einer solothurnischen Einwohnergemeinde zur Niederlassung angemeldet sind.
 
 <sup>2</sup> Das Stimmrechtsdomizil in eidgenössischen, in kantonalen und in regionalen Angelegenheiten befindet sich in der Einwohnergemeinde, in welcher der oder die Stimmfähige stimmberechtigt ist (politischer Wohnsitz).
 
@@ -132,7 +132,7 @@ beschliesst:
 
 <sup>1</sup> Der Stimmregisterführer oder die Stimmregisterführerin hat die Stimmberechtigung von Amtes wegen zu prüfen.
 
-<sup>2</sup> Personen mit unklaren Wohnverhältnissen haben nachzuweisen, dass sie nicht an einem anderen Ort, wo der Heimatschein oder ein Heimatausweis deponiert ist, im Stimmregister eingetragen sind.
+<sup>2</sup> Personen mit unklaren Wohnverhältnissen haben nachzuweisen, dass sie nicht an einem anderen Ort, wo sie zur Niederlassung oder zum Aufenthalt angemeldet sind, im Stimmregister eingetragen sind.
 
 <sup>3</sup> Bestehen beim Wahlbüro begründete Zweifel oder werden Tatsachen geltend gemacht, die den Ausschluss von der Stimmberechtigung bewirken könnten, verlangt es schriftliche Beweise.
 
